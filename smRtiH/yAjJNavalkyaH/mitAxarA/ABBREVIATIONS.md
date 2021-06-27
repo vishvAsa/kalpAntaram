@@ -3,7 +3,7 @@ title = "ABBREVIATIONS"
 
 +++
 
- 
+> 
 
 ĀpGṛ           	Āpastamba Gṛhyasūtra
 
