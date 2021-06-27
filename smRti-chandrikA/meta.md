@@ -2,7 +2,7 @@
 title = "Meta"
 +++
 
-**Searchable Electronic Edition of the _Āhnikakāṇḍa_ of the _Smṛticandrikā_ by Devaṇabhaṭṭa**, transcribed, edited, formatted, and color-coded by Patrick Olivelle, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+**Searchable Electronic Edition of the _Smṛticandrikā_ by Devaṇabhaṭṭa**, transcribed, edited, formatted, and color-coded by Patrick Olivelle, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 _Last updated: December 2020 _
 
