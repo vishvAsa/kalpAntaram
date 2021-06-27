@@ -4,999 +4,999 @@ title = "Text"
 +++
 
 
-**athāṣṭamo 'dhyāyaḥ**
+**अथाष्टमो ऽध्यायः**
 
-	**vyavahārān didṛkṣus tu brāhmaṇaiḥ saha pārthivaḥ |**
+	**व्यवहारान् दिदृक्षुस् तु ब्राह्मणैः सह पार्थिवः ।**
 
-**	mantrajñair mantribhiś caiva vinītaḥ praviśet sabhām || 8.1 ||**
+**	मन्त्रज्ञैर् मन्त्रिभिश् चैव विनीतः प्रविशेत् सभाम् ॥ ८।१ ॥**
 
-prajānāṃ pālanaṃ rājño vṛttir vihitā | sā cātra |
+प्रजानां पालनं राज्ञो वृत्तिर् विहिता । सा चात्र ।
 
-	śastrāstrabhṛttvaṃ kṣatrasya vaṇikpaśukṛṣīr viśaḥ |
+	शस्त्रास्त्रभृत्त्वं क्षत्रस्य वणिक्पशुकृषीर् विशः ।
 
-	ājīvanārthaṃ śūdrasya dvijātīnāṃ niṣevaṇam || (MDh 10.79)
+	आजीवनार्थं शूद्रस्य द्विजातीनां निषेवणम् ॥ (म्ध् १०।७९)
 
-	evaṃ nṛpo vartamāno lokānān āpnoty anuttamān || iti |
+	एवं नृपो वर्तमानो लोकानान् आप्नोत्य् अनुत्तमान् ॥ इति ।
 
-tathā dharmo vardhate loke | anyeṣām api varṇānāṃ kṣatriyavṛttyā jīvinām asty eva rājyādhikāraḥ |
+तथा धर्मो वर्धते लोके । अन्येषाम् अपि वर्णानां क्षत्रियवृत्त्या जीविनाम् अस्त्य् एव राज्याधिकारः ।
 
-	yaḥ kaścit sarvalokānām pālakaś ca nṛpaḥ smṛtaḥ |
+	यः कश्चित् सर्वलोकानाम् पालकश् च नृपः स्मृतः ।
 
-	karmaniṣṭhā ca vihitā lokasādhāraṇe hite ||
+	कर्मनिष्ठा च विहिता लोकसाधारणे हिते ॥
 
-paripālanaṃ ca pīḍāpahāraḥ | dvayī ca pīḍā, dṛṣṭā adṛṣṭā ca | tatra durbalasya balīyasā dhanaharaṇādinā bādhyamānā dṛṣṭā pīḍā | itarasya tu vidhyatikramajanitena pratyavāyenāmutrikaduḥkhotpādanam adṛṣṭapīḍā | prajā hi dveṣamatsarādibhir itaretaram ayathāvad ācaranti, kupathena yānti, adṛṣṭadoṣeṇa bādhyeran | ataś ca rājyanāśaḥ | prajaiśvaryaṃ hi rājyam ucyate | tāsu vinaśyantīṣu kasya rājyaṃ syāt | vyavahārādayo 'taḥ |śāstradaṇḍena vyavasthāpyamānā na bhayāt pṛthak pracalanti, tathā cobhayathāpi rakṣitā bhavanti | dhanadaṇḍaś ca rājñaḥ, karaśulkādi[^1] vā | etadanyā[^2] dharmiṣṭhajīvikā na bhavatīti vṛttiparikṣayād api rājyāvasādaḥ | ato rājyasthityarthaṃ vyavahāradarśanaṃ kartavyam |
+परिपालनं च पीडापहारः । द्वयी च पीडा, दृष्टा अदृष्टा च । तत्र दुर्बलस्य बलीयसा धनहरणादिना बाध्यमाना दृष्टा पीडा । इतरस्य तु विध्यतिक्रमजनितेन प्रत्यवायेनामुत्रिकदुःखोत्पादनम् अदृष्टपीडा । प्रजा हि द्वेषमत्सरादिभिर् इतरेतरम् अयथावद् आचरन्ति, कुपथेन यान्ति, अदृष्टदोषेण बाध्येरन् । अतश् च राज्यनाशः । प्रजैश्वर्यं हि राज्यम् उच्यते । तासु विनश्यन्तीषु कस्य राज्यं स्यात् । व्यवहारादयो ऽतः ।शास्त्रदण्डेन व्यवस्थाप्यमाना न भयात् पृथक् प्रचलन्ति, तथा चोभयथापि रक्षिता भवन्ति । धनदण्डश् च राज्ञः, करशुल्कादि[^१] वा । एतदन्या[^२] धर्मिष्ठजीविका न भवतीति वृत्तिपरिक्षयाद् अपि राज्यावसादः । अतो राज्यस्थित्यर्थं व्यवहारदर्शनं कर्तव्यम् ।
 
-	tad idānīm ucyate | **vyavahāraś** cātra vādiprativādinor itaretarāśanoddhārāya[^3] vṛttir ucyate | atha vā ṛṇādānādayaḥ padārthā eva vipratipattiviṣayāḥ santo vicāragocarasamarthatayā kartavyā iti | **didṛkṣur** ity uktvā "paśyet karyāṇi" (MDh 8.2) iti sāmānādhikaraṇyam | punaś ca pratyavamarśaḥ "teṣām adyam ṛṇādānam" (MDh 8.4) iti | tān padārthān vicārayed iti saṃbandhaḥ | vakṣyamāṇādhikṛtapuruṣādhiṣṭhitaḥ pradeśaḥ **sabhā** | **praveśas** tadabhyantarabhāvaḥ | kim eka eva praviśet | nety[^4] āha **brāhmaṇaiḥ saheti** | atha **mantrajñair** iti kasya viśeṣaṇam | na tāvan mantriṇaḥ, mantritvād eva siddheḥ | na hi mantram ajānāno mantrīti śakyate vaktum | nāpi brāhmaṇānām, vyavahāradarśane 'dhikṛtānāṃ tatparijñānam adṛṣṭāya[^5] syāt | 
+	तद् इदानीम् उच्यते । **व्यवहारश्** चात्र वादिप्रतिवादिनोर् इतरेतराशनोद्धाराय[^३] वृत्तिर् उच्यते । अथ वा ऋणादानादयः पदार्था एव विप्रतिपत्तिविषयाः सन्तो विचारगोचरसमर्थतया कर्तव्या इति । **दिदृक्षुर्** इत्य् उक्त्वा "पश्येत् कर्याणि" (म्ध् ८।२) इति सामानाधिकरण्यम् । पुनश् च प्रत्यवमर्शः "तेषाम् अद्यम् ऋणादानम्" (म्ध् ८।४) इति । तान् पदार्थान् विचारयेद् इति संबन्धः । वक्ष्यमाणाधिकृतपुरुषाधिष्ठितः प्रदेशः **सभा** । **प्रवेशस्** तदभ्यन्तरभावः । किम् एक एव प्रविशेत् । नेत्य्[^४] आह **ब्राह्मणैः सहेति** । अथ **मन्त्रज्ञैर्** इति कस्य विशेषणम् । न तावन् मन्त्रिणः, मन्त्रित्वाद् एव सिद्धेः । न हि मन्त्रम् अजानानो मन्त्रीति शक्यते वक्तुम् । नापि ब्राह्मणानाम्, व्यवहारदर्शने ऽधिकृतानां तत्परिज्ञानम् अदृष्टाय[^५] स्यात् । 
 
-	atrocyate | brāhmaṇaviśeṣaṇam evaitat | te hy amantrajñā[^6] bhūtvā nirapekṣam avadhārayantaḥ syuḥ | anyathā rājño 'nartham āvaheyuḥ | tathā hi mahāmatyāśritaḥ kaścij janapadena vyavaharan sahasā jito yadi na daṇḍyate dhanaṃ vāvaṣṭabhya na dāpyate, tadā samatvena vyavahāradarśanaṃ na kṛtaṃ syāt, pakṣapātam aśaktiṃ vāsya janapadā manyeran | atha daṇḍyate, mahāmātyakṣobhād api prakṛtivikṛtaṃ syāt | mantrajñās tu santaḥ saṃśayitāro yadi nirṇetavyasya kenacid apadeśena prasaṅgarodhaṃ kṛtvā rahasi rājānaṃ paribodhayanti "anayor vivādinor ayaṃ jīyate 'yaṃ jayatīti, vyavahāras tv asmābhir na tadānīm eva nirṇīta iti svāmī pramāṇam" | tatra rājaivaṃ viditvā mahāmātyam ādeśayati "tvadīyo manuṣyo jīyate, mama hanir mā bhūd iti saṃprati nirṇayo 'vadhīritaḥ | tvam eva tathā kuru yathaiṣa manuṣyaḥ saṃdhīyate, bādhāsya vyapanīyate" | te mantriṇo vādeyavākyā manuṣyāṇāṃ sarveṣām anarthyāṃ ca pravṛttiṃ pratibadhnanti |
+	अत्रोच्यते । ब्राह्मणविशेषणम् एवैतत् । ते ह्य् अमन्त्रज्ञा[^६] भूत्वा निरपेक्षम् अवधारयन्तः स्युः । अन्यथा राज्ञो ऽनर्थम् आवहेयुः । तथा हि महामत्याश्रितः कश्चिज् जनपदेन व्यवहरन् सहसा जितो यदि न दण्ड्यते धनं वावष्टभ्य न दाप्यते, तदा समत्वेन व्यवहारदर्शनं न कृतं स्यात्, पक्षपातम् अशक्तिं वास्य जनपदा मन्येरन् । अथ दण्ड्यते, महामात्यक्षोभाद् अपि प्रकृतिविकृतं स्यात् । मन्त्रज्ञास् तु सन्तः संशयितारो यदि निर्णेतव्यस्य केनचिद् अपदेशेन प्रसङ्गरोधं कृत्वा रहसि राजानं परिबोधयन्ति "अनयोर् विवादिनोर् अयं जीयते ऽयं जयतीति, व्यवहारस् त्व् अस्माभिर् न तदानीम् एव निर्णीत इति स्वामी प्रमाणम्" । तत्र राजैवं विदित्वा महामात्यम् आदेशयति "त्वदीयो मनुष्यो जीयते, मम हनिर् मा भूद् इति संप्रति निर्णयो ऽवधीरितः । त्वम् एव तथा कुरु यथैष मनुष्यः संधीयते, बाधास्य व्यपनीयते" । ते मन्त्रिणो वादेयवाक्या मनुष्याणां सर्वेषाम् अनर्थ्यां च प्रवृत्तिं प्रतिबध्नन्ति ।
 
-	<span style="text-decoration:underline;">anye</span> tu kākākṣivad ubhayaviśeṣaṇam arthabedena **mantrajña**padaṃ manyante | yadā mantriṇo viśeṣyante tattaddhātutatparijñānaṃ[^7] mantrajñānam | brāhmaṇapakṣe tu kāryārthasamabhāvaś ca | mantribrāhmaṇānāṃ na praveśamātram eva, kiṃ tarhi nirṇayaṃ "paśyet" (MDh 8.2) ity uttaratravākyād[^8] yathāyogyam,[^9] itarathā adṛṣṭāya praveśaḥ syāt | ato naikākī nirṇayaṃ kuryāt, kiṃ tarhi taiḥ saha nirūpyeti |
+	<span style="text-decoration:underline;">अन्ये</span> तु काकाक्षिवद् उभयविशेषणम् अर्थबेदेन **मन्त्रज्ञ**पदं मन्यन्ते । यदा मन्त्रिणो विशेष्यन्ते तत्तद्धातुतत्परिज्ञानं[^७] मन्त्रज्ञानम् । ब्राह्मणपक्षे तु कार्यार्थसमभावश् च । मन्त्रिब्राह्मणानां न प्रवेशमात्रम् एव, किं तर्हि निर्णयं "पश्येत्" (म्ध् ८।२) इत्य् उत्तरत्रवाक्याद्[^८] यथायोग्यम्,[^९] इतरथा अदृष्टाय प्रवेशः स्यात् । अतो नैकाकी निर्णयं कुर्यात्, किं तर्हि तैः सह निरूप्येति ।
 
-	**vinītaḥ** vākpāṇipādacāpalarahitaḥ | vepato hy anarthaḥ syāt | **pārthiva**grahaṇān na kṣatriyasyaivāyam upadeśaḥ, kiṃ tarhy anyasyāpi pṛthivyām adhipater deśeśvarasya, na hy anyathā[^10] rājyam avicalitaṃ bhavatīti || 8.1 ||
+	**विनीतः** वाक्पाणिपादचापलरहितः । वेपतो ह्य् अनर्थः स्यात् । **पार्थिव**ग्रहणान् न क्षत्रियस्यैवायम् उपदेशः, किं तर्ह्य् अन्यस्यापि पृथिव्याम् अधिपतेर् देशेश्वरस्य, न ह्य् अन्यथा[^१०] राज्यम् अविचलितं भवतीति ॥ ८।१ ॥
 
-	**tatrāsīnaḥ sthito vāpi pāṇim udyamya dakṣiṇam |**
+	**तत्रासीनः स्थितो वापि पाणिम् उद्यम्य दक्षिणम् ।**
 
-**	vinītaveṣābharaṇaḥ paśyet kāryāṇi kāryiṇām || 8.2 ||**
+**	विनीतवेषाभरणः पश्येत् कार्याणि कार्यिणाम् ॥ ८।२ ॥**
 
-**āsīnaḥ** dharmāsanopaviṣṭaḥ | **sthitaḥ** niṣiddhagatir anupaviṣṭa eva | sthānāsanayoś ca vyavasthito vikalpaḥ kāryaviśeṣāpekṣaḥ | garīyasi kārye bahuvaktavya upaviṣṭa āsīnaḥ, laghīyasi svalpavaktavye sthitaḥ | kramamāṇasya sarvathā pratiṣedhaḥ | sa hi mārgāvalokanaparo nārthipratyarthinor nipuṇato vacanam avadhārayet | 
+**आसीनः** धर्मासनोपविष्टः । **स्थितः** निषिद्धगतिर् अनुपविष्ट एव । स्थानासनयोश् च व्यवस्थितो विकल्पः कार्यविशेषापेक्षः । गरीयसि कार्ये बहुवक्तव्य उपविष्ट आसीनः, लघीयसि स्वल्पवक्तव्ये स्थितः । क्रममाणस्य सर्वथा प्रतिषेधः । स हि मार्गावलोकनपरो नार्थिप्रत्यर्थिनोर् निपुणतो वचनम् अवधारयेत् । 
 
-	<span style="text-decoration:underline;">anye</span> tv adṛṣṭārthaṃ tathā manyante | tapasvibrāhmaṇādiṣu[^11] vivādiṣu sthiteṣu sthitaḥ āsīneṣv āsīnaḥ | 
+	<span style="text-decoration:underline;">अन्ये</span> त्व् अदृष्टार्थं तथा मन्यन्ते । तपस्विब्राह्मणादिषु[^११] विवादिषु स्थितेषु स्थितः आसीनेष्व् आसीनः । 
 
-	**pāṇim udyamyeti** | uttarapāṇim[^12] uddhṛtyotthānaṃ kṛtvety arthaḥ | sūtrakṛto 'yaṃ vyatikramaḥ[^13] sarvadā vihitatvād vyasanopavyānam etat | tenāyam arthaḥ: hasta utkṣeptavyaḥ, na punaḥ samīpavartini saṃlagnaḥ kartavyaḥ | praśnaniṣedhāvasare ca tenābhinetavyam, na tu pravyāṇādinā | anena vyavahāradarśanena tātparyaṃ khyāpitaṃ bhavati | prāyeṇa hi puruṣāḥ[^14] kāryeṣu prayatnavanto hastam udyacchanti | yathāsukhopaviṣṭaṃ vrajati kartāraṃ tataś ca parijane tad etad rājā cittaṃ[^15] na dadāti sabhyair nirbhayair vayaṃ jitā iti | pāṇigrahaṇaṃ bāhūpalakṣaṇārtham | kevalasya hi hastasya yāvad vyavahāradarśanaṃ vyāpāraṇaṃ pīḍākaram | na cāyam adṛṣṭārtha upadeśaḥ |
+	**पाणिम् उद्यम्येति** । उत्तरपाणिम्[^१२] उद्धृत्योत्थानं कृत्वेत्य् अर्थः । सूत्रकृतो ऽयं व्यतिक्रमः[^१३] सर्वदा विहितत्वाद् व्यसनोपव्यानम् एतत् । तेनायम् अर्थः: हस्त उत्क्षेप्तव्यः, न पुनः समीपवर्तिनि संलग्नः कर्तव्यः । प्रश्ननिषेधावसरे च तेनाभिनेतव्यम्, न तु प्रव्याणादिना । अनेन व्यवहारदर्शनेन तात्पर्यं ख्यापितं भवति । प्रायेण हि पुरुषाः[^१४] कार्येषु प्रयत्नवन्तो हस्तम् उद्यच्छन्ति । यथासुखोपविष्टं व्रजति कर्तारं ततश् च परिजने तद् एतद् राजा चित्तं[^१५] न ददाति सभ्यैर् निर्भयैर् वयं जिता इति । पाणिग्रहणं बाहूपलक्षणार्थम् । केवलस्य हि हस्तस्य यावद् व्यवहारदर्शनं व्यापारणं पीडाकरम् । न चायम् अदृष्टार्थ उपदेशः ।
 
-	**vinītaveṣābharaṇa** iti | pūrvaśloke bāhyābhyantarendriyaviṣayāvadhānārtho 'bhihitaḥ | ayaṃ tāval lokānāṃ[^16] śālīnatayā sukhopasarpaṇārthaḥ[^17] | uddhataveṣe[^18] hi rajani[^19] tathāvidhānām apratipattiḥ syāt | ata uddhataveṣābharaṇaṃ[^20] na kathaṃcit syāt[^21] | **veṣaḥ**[^22] keśavasanavinyāsādiviśeṣaḥ | **ābharaṇaṃ** karṇikādi | tatra uddhataveṣa[^23] ūrdhvavastro javanaraktāmbaradhāritetyādi | uddhatābharaṇo[^24] dīptimadbahuratnālaṃkāro bahuhāraś[^25] ca | sa hy āditya iva durnirīkṣyaḥ sāmānyajanānāṃ viśeṣato 'bhiyuktānām | **paśyed** iti sabhāpraveśasya prayojanam āha | paśyed vicakṣaṇaḥ |
+	**विनीतवेषाभरण** इति । पूर्वश्लोके बाह्याभ्यन्तरेन्द्रियविषयावधानार्थो ऽभिहितः । अयं तावल् लोकानां[^१६] शालीनतया सुखोपसर्पणार्थः[^१७] । उद्धतवेषे[^१८] हि रजनि[^१९] तथाविधानाम् अप्रतिपत्तिः स्यात् । अत उद्धतवेषाभरणं[^२०] न कथंचित् स्यात्[^२१] । **वेषः**[^२२] केशवसनविन्यासादिविशेषः । **आभरणं** कर्णिकादि । तत्र उद्धतवेष[^२३] ऊर्ध्ववस्त्रो जवनरक्ताम्बरधारितेत्यादि । उद्धताभरणो[^२४] दीप्तिमद्बहुरत्नालंकारो बहुहारश्[^२५] च । स ह्य् आदित्य इव दुर्निरीक्ष्यः सामान्यजनानां विशेषतो ऽभियुक्तानाम् । **पश्येद्** इति सभाप्रवेशस्य प्रयोजनम् आह । पश्येद् विचक्षणः ।
 
-	ayaṃ ca rājño darśanāpadeśo daṇḍapraṇayane yathāsthānārthapratipādanaparyanto bhaviṣyati | tātparyaṃ[^26] tasyaiva rakṣādhikāraḥ prayuktaḥ syāt | īdṛśasya ca darśanasyānyeṣām asaṃbhāvanād anadhikāraḥ | sarveṣāṃ saṃśayacchedamātraphalaṃ[^27] tu vyavahāradarśanaṃ prāyaścittopadeśavad viduṣo brāhmaṇasyāsty eva | uktaṃ hi "dharmasaṃkaṭeṣu brūyāt" iti | tathaikavargyāṇāṃ vāṇijyakarṣakapaśupālaprabhṛtīnāṃ svavargasāmayikārthavipratipattāv anyasyāṃ votkṛṣṭanirṇayād bhūtir[^28] iti tathāvidhavyavahāradarśane niyogaḥ | tathā hi paṭhitam |
+	अयं च राज्ञो दर्शनापदेशो दण्डप्रणयने यथास्थानार्थप्रतिपादनपर्यन्तो भविष्यति । तात्पर्यं[^२६] तस्यैव रक्षाधिकारः प्रयुक्तः स्यात् । ईदृशस्य च दर्शनस्यान्येषाम् असंभावनाद् अनधिकारः । सर्वेषां संशयच्छेदमात्रफलं[^२७] तु व्यवहारदर्शनं प्रायश्चित्तोपदेशवद् विदुषो ब्राह्मणस्यास्त्य् एव । उक्तं हि "धर्मसंकटेषु ब्रूयात्" इति । तथैकवर्ग्याणां वाणिज्यकर्षकपशुपालप्रभृतीनां स्ववर्गसामयिकार्थविप्रतिपत्ताव् अन्यस्यां वोत्कृष्टनिर्णयाद् भूतिर्[^२८] इति तथाविधव्यवहारदर्शने नियोगः । तथा हि पठितम् ।
 
-	kulāni śreṇayaś caiva gaṇāś cādhikṛto nṛpaḥ |
+	कुलानि श्रेणयश् चैव गणाश् चाधिकृतो नृपः ।
 
-	pratiṣṭhā vyavahārāṇāṃ gurvebhyas tūttarottaram || iti | (NSm Mā 1.7)
+	प्रतिष्ठा व्यवहाराणां गुर्वेभ्यस् तूत्तरोत्तरम् ॥ इति । (न्स्म् मा १।७)
 
-	tatra "kulāni" bandhujanasamūhaḥ | tair yā vyavasthā kṛtā tato na vicalitavyam | atha tatra nāśvasyus[^29] tavaite 'dhikataraṃ saṃbandhina iti vadantas[^30] tataḥ śreṇiṣu niveditavyam | 
+	तत्र "कुलानि" बन्धुजनसमूहः । तैर् या व्यवस्था कृता ततो न विचलितव्यम् । अथ तत्र नाश्वस्युस्[^२९] तवैते ऽधिकतरं संबन्धिन इति वदन्तस्[^३०] ततः श्रेणिषु निवेदितव्यम् । 
 
-	"śreṇayaḥ" samānavyavahārajīvino vaṇikprabhṛtayaḥ | teṣāṃ bandhubhyo 'dhikagurutvam | bāndhavā hi[^31] jñātidharmabhayād vicalitaṃ na niyacchanti | śreṇayas tu rājagamanena śreṇidharmo rājapuruṣapraveśāt paribhavanīyatvena naśyatīti avicalanārthaṃ pratibhūgrahaṇapūrvakaṃ vicārayanti ya etasmād vicalati[^32] | pariṣadi daṇḍo dātavyaś calituṃ vāpi tvayā na deyam iti | 
+	"श्रेणयः" समानव्यवहारजीविनो वणिक्प्रभृतयः । तेषां बन्धुभ्यो ऽधिकगुरुत्वम् । बान्धवा हि[^३१] ज्ञातिधर्मभयाद् विचलितं न नियच्छन्ति । श्रेणयस् तु राजगमनेन श्रेणिधर्मो राजपुरुषप्रवेशात् परिभवनीयत्वेन नश्यतीति अविचलनार्थं प्रतिभूग्रहणपूर्वकं विचारयन्ति य एतस्माद् विचलति[^३२] । परिषदि दण्डो दातव्यश् चलितुं वापि त्वया न देयम् इति । 
 
-	"gaṇāḥ" gaṇaśaś cāriṇo gṛhaprāsādādikarā maṭhabrāhmaṇādayaś ca | te svagaṇināṃ vyavahāraṃ[^33] paśyeyuḥ | tatrāvicalārtham[^34] upasadaḥ kartavyāḥ | pūrve samānakarmajīvina ekākino 'pi, ime tu saṃbhūyakāriṇa iti viśeṣaḥ | śreṇibhyaḥ saṃbhūyakāritayā vivādino bhūmijñatvāt | 
+	"गणाः" गणशश् चारिणो गृहप्रासादादिकरा मठब्राह्मणादयश् च । ते स्वगणिनां व्यवहारं[^३३] पश्येयुः । तत्राविचलार्थम्[^३४] उपसदः कर्तव्याः । पूर्वे समानकर्मजीविन एकाकिनो ऽपि, इमे तु संभूयकारिण इति विशेषः । श्रेणिभ्यः संभूयकारितया विवादिनो भूमिज्ञत्वात् । 
 
-	<span style="text-decoration:underline;">anye</span> tu kulānīti madhyasthapuruṣān āhuḥ | te hi kāryābhyantarā aśreṇikṛtā eva nirṇetāraḥ |
+	<span style="text-decoration:underline;">अन्ये</span> तु कुलानीति मध्यस्थपुरुषान् आहुः । ते हि कार्याभ्यन्तरा अश्रेणिकृता एव निर्णेतारः ।
 
-	"adhikṛtaḥ"[^35] traividyo vidvāṇ brāhmaṇaḥ | tasya hi dharmasaṃkaṭeṣu pravaktṛtvaṃ vihitam | tasya pūrvebhyo gurutvaṃ vaiduṣyāt | nṛpasyāpi gurutvam atiśayaśaktitvād ataḥ svayaṃ viduṣā nṛpeṇa nirṇīte nāsty etat | 
+	"अधिकृतः"[^३५] त्रैविद्यो विद्वाण् ब्राह्मणः । तस्य हि धर्मसंकटेषु प्रवक्तृत्वं विहितम् । तस्य पूर्वेभ्यो गुरुत्वं वैदुष्यात् । नृपस्यापि गुरुत्वम् अतिशयशक्तित्वाद् अतः स्वयं विदुषा नृपेण निर्णीते नास्त्य् एतत् । 
 
-	yo manyetājito 'smīti yo nyāyenāpi parājitaḥ | (YDh 2.309)
+	यो मन्येताजितो ऽस्मीति यो न्यायेनापि पराजितः । (य्ध् २।३०९)
 
-	dviguṇaṃ daṇḍam āsthāya tat kāryaṃ punar uddharet || (NSm Mā 1.56) iti || 
+	द्विगुणं दण्डम् आस्थाय तत् कार्यं पुनर् उद्धरेत् ॥ (न्स्म् मा १।५६) इति ॥ 
 
-	anyeṣu karaṇeṣv etad bhavati | tatra hy asti vacanāvasaro nādhikṛtaiḥ samyak nirṇītaṃ rājñā tu vivecite kiṃ vakṣyatīti |
+	अन्येषु करणेष्व् एतद् भवति । तत्र ह्य् अस्ति वचनावसरो नाधिकृतैः सम्यक् निर्णीतं राज्ञा तु विवेचिते किं वक्ष्यतीति ।
 
-	arthāntaram — nṛpair "adhikṛto" rājasthānīyabrāhmaṇaḥ | tathānyasya gṛhiṇaḥ svatantras tu gṛhe gṛhīti svātantryasmaraṇād daṇḍaparyanto 'sty eva vyavahāraḥ suparīkṣito bhavati, vāsanāvinayārthaṃ śrutigrāhyaprasaktaśiṣyasutādyāḥ "anyatra daṇḍāc chārīrāt patanīyāc[^36] ca karmaṇaḥ" iti | svalpe 'parādhe gṛhastha eva rājāyate | mahati vyatikrame rājanivedanam evocitam ity asyārthaḥ | 
+	अर्थान्तरम् — नृपैर् "अधिकृतो" राजस्थानीयब्राह्मणः । तथान्यस्य गृहिणः स्वतन्त्रस् तु गृहे गृहीति स्वातन्त्र्यस्मरणाद् दण्डपर्यन्तो ऽस्त्य् एव व्यवहारः सुपरीक्षितो भवति, वासनाविनयार्थं श्रुतिग्राह्यप्रसक्तशिष्यसुताद्याः "अन्यत्र दण्डाच् छारीरात् पतनीयाच्[^३६] च कर्मणः" इति । स्वल्पे ऽपराधे गृहस्थ एव राजायते । महति व्यतिक्रमे राजनिवेदनम् एवोचितम् इत्य् अस्यार्थः । 
 
-	ataś ca yat kaiścit paśyed iti parisaṃkhyārthatvam āropya brāhmaṇādīnām adhikāra āśaṅkitaḥ punaś ca kleśena samarthitaḥ, tad ayuktam, viṣayabhedād adhikārabhedāt | svaviṣayo hi rājño daṇḍāvadhikaḥ, brāhmaṇādīnāṃ nirṇayāvadhiḥ | adhikāro 'pi bhinnaḥ | rājño rājyasthitiprayojanam, itareṣāṃ saṃsayacchedāder aparopakārakatvam | ato no vṛttisaṃkarāśaṅkaiva[^37] nāsti | kāryo vipratipattinirāsaḥ | arthināṃ vipratipannayor hi sāmyaṃ vyavahāradarśane rājñā kartavyam | no cet saṃvidāne ko rājñaḥ svādhigame nirodhaḥ | kāyakaśuddhau hi śvānirodhavān iti vakṣyāmaḥ<sup> </sup>[^38] || 8.2 ||
+	अतश् च यत् कैश्चित् पश्येद् इति परिसंख्यार्थत्वम् आरोप्य ब्राह्मणादीनाम् अधिकार आशङ्कितः पुनश् च क्लेशेन समर्थितः, तद् अयुक्तम्, विषयभेदाद् अधिकारभेदात् । स्वविषयो हि राज्ञो दण्डावधिकः, ब्राह्मणादीनां निर्णयावधिः । अधिकारो ऽपि भिन्नः । राज्ञो राज्यस्थितिप्रयोजनम्, इतरेषां संसयच्छेदादेर् अपरोपकारकत्वम् । अतो नो वृत्तिसंकराशङ्कैव[^३७] नास्ति । कार्यो विप्रतिपत्तिनिरासः । अर्थिनां विप्रतिपन्नयोर् हि साम्यं व्यवहारदर्शने राज्ञा कर्तव्यम् । नो चेत् संविदाने को राज्ञः स्वाधिगमे निरोधः । कायकशुद्धौ हि श्वानिरोधवान् इति वक्ष्यामः<sup> </sup>[^३८] ॥ ८।२ ॥
 
-	**pratyahaṃ deśadṛṣṭaiś ca śāstradṛṣṭaiś ca hetubhiḥ |**
+	**प्रत्यहं देशदृष्टैश् च शास्त्रदृष्टैश् च हेतुभिः ।**
 
-**	aṣṭādaśasu mārgeṣu nibaddhāni pṛthak pṛthak || 8.3 ||**
+**	अष्टादशसु मार्गेषु निबद्धानि पृथक् पृथक् ॥ ८।३ ॥**
 
-pūrveṇārdhena nirṇayahetavaḥ kathyante | uttareṇa vivādapadasaṃkhyānirdeśaḥ | "paśyet" iti pūrvaślokād anuṣajyate, "kāryāṇi" iti ca | **pratyahaṃ** paśyet kāryāṇi pratidivasagamane[^39] vyavahāranirṇayaḥ kartavyaḥ | **hetubhir** iti | hetur nirṇayasādhanam | sa ca dvividhaḥ | pramāṇarūpo vyavasthārūpaś ca | tatra pramāṇarūpo 'rthanirṇayahetuḥ sākṣyādiḥ | vyavasthārūpo yato 'satye vārthaniścaye vyavahāraḥ saṃtiṣṭhate | yathā satyaśapatha ubhayānumata ekaḥ sākṣī yady arthipratyarthibhyām abhyupagatapramāṇabhāvaḥ sabhyair aparīkṣito 'pi nirṇayahetutāṃ pratipadyate | na tv aparīkṣitasya[^40] puṃso vacanād asaty āptatvavedane 'rthaniścayaḥ[^41] | prāśnikānām abhyupagame 'pi vyavasthā hetur bhavati | 
+पूर्वेणार्धेन निर्णयहेतवः कथ्यन्ते । उत्तरेण विवादपदसंख्यानिर्देशः । "पश्येत्" इति पूर्वश्लोकाद् अनुषज्यते, "कार्याणि" इति च । **प्रत्यहं** पश्येत् कार्याणि प्रतिदिवसगमने[^३९] व्यवहारनिर्णयः कर्तव्यः । **हेतुभिर्** इति । हेतुर् निर्णयसाधनम् । स च द्विविधः । प्रमाणरूपो व्यवस्थारूपश् च । तत्र प्रमाणरूपो ऽर्थनिर्णयहेतुः साक्ष्यादिः । व्यवस्थारूपो यतो ऽसत्ये वार्थनिश्चये व्यवहारः संतिष्ठते । यथा सत्यशपथ उभयानुमत एकः साक्षी यद्य् अर्थिप्रत्यर्थिभ्याम् अभ्युपगतप्रमाणभावः सभ्यैर् अपरीक्षितो ऽपि निर्णयहेतुतां प्रतिपद्यते । न त्व् अपरीक्षितस्य[^४०] पुंसो वचनाद् असत्य् आप्तत्ववेदने ऽर्थनिश्चयः[^४१] । प्राश्निकानाम् अभ्युपगमे ऽपि व्यवस्था हेतुर् भवति । 
 
-	sā ca vyavasthā dvividhā: sādhāraṇy asādhāraṇī ca | deśabhedāśrayabhedāt sāpi dvividhā: aviruddhā viruddhā ca | aviruddhā — yathā keṣāṃcid dākṣiṇātyānām aputrā strī bhartary uparate sabhāsthāṇum upārohati, tam upārūḍhā adhikṛtair parīkṣitā[^42] kṛtalakṣaṇā tatkṣaṇāntaraṃ[^43] sapiṇḍeṣu ṛkthaṃ[^44] labhate | tathodīcāṃ labhyamānāṃ kanyāṃ yācamānāya bhojanaṃ yadi dīyate, tata "iyaṃ tubhyaṃ dattā" ity anukte 'pi pratiśrutā bhavati | viruddhā ca — kvacid deśe vasante dhānyaṃ yujyate śaradi dviguṇaṃ pratyādīyate | tathānujñātabhoga ādhir dviguṇe 'pi tadutthadhane praviṣṭa ā mūlahiraṇyadānād bhujyata eva | eṣā hi "aśītibhāgaṃ gṛhṇīyāt" (MDh 8.140) "kusīdavṛddhir dvaiguṇyaṃ nātyeti" (MDh 8.151)  iti viruddhā | 
+	सा च व्यवस्था द्विविधा: साधारण्य् असाधारणी च । देशभेदाश्रयभेदात् सापि द्विविधा: अविरुद्धा विरुद्धा च । अविरुद्धा — यथा केषांचिद् दाक्षिणात्यानाम् अपुत्रा स्त्री भर्तर्य् उपरते सभास्थाणुम् उपारोहति, तम् उपारूढा अधिकृतैर् परीक्षिता[^४२] कृतलक्षणा तत्क्षणान्तरं[^४३] सपिण्डेषु ऋक्थं[^४४] लभते । तथोदीचां लभ्यमानां कन्यां याचमानाय भोजनं यदि दीयते, तत "इयं तुभ्यं दत्ता" इत्य् अनुक्ते ऽपि प्रतिश्रुता भवति । विरुद्धा च — क्वचिद् देशे वसन्ते धान्यं युज्यते शरदि द्विगुणं प्रत्यादीयते । तथानुज्ञातभोग आधिर् द्विगुणे ऽपि तदुत्थधने प्रविष्ट आ मूलहिरण्यदानाद् भुज्यत एव । एषा हि "अशीतिभागं गृह्णीयात्" (म्ध् ८।१४०) "कुसीदवृद्धिर् द्वैगुण्यं नात्येति" (म्ध् ८।१५१)  इति विरुद्धा । 
 
-	tatra bhedāśrayā deśadṛṣṭahetuśabdenābhihitāḥ | śāstradṛṣṭās tu hetavaḥ śāstre paṭhitāḥ | te ca kecana śāstrakāraiḥ kalpitavyavasthāḥ, kecid yathāvastvavasthitā anūditāḥ[^45] | tatra kalpitavyavasthā yathā: lekhyaṃ, yathopabhogaḥ, sākṣiṇaś ca | anumānaṃ tu[^46] vastuniyataṃ "yathā nayaty asṛkpātair mṛgasya mṛgayuḥ padam" (MDh 8.44) iti | yady api sarvaṃ laukikaṃ na śāstrakāravacanāt[^47] prāmāṇyaṃ labhate,[^48] tathāpi[^49] laukikam eva, tasmin[^50] kvacic chāstram āśrayitavyam | yā ca yadīdṛśe[^51] cāparādha idaṃ divyaṃ iyatā ca kālena bhogaḥ pramāṇam iti, laukikam api tac chāstradṛṣṭam ity uktam | tasyāṃ ca vyavasthāyāṃ śāstrakārāṇāṃ mūle saṃbhavati sā pramāṇam | yā tv asaṃbhavatanmūlā sā nādaraṇīyā | yathā lekhyakarmapāṭhaḥ:
+	तत्र भेदाश्रया देशदृष्टहेतुशब्देनाभिहिताः । शास्त्रदृष्टास् तु हेतवः शास्त्रे पठिताः । ते च केचन शास्त्रकारैः कल्पितव्यवस्थाः, केचिद् यथावस्त्ववस्थिता अनूदिताः[^४५] । तत्र कल्पितव्यवस्था यथा: लेख्यं, यथोपभोगः, साक्षिणश् च । अनुमानं तु[^४६] वस्तुनियतं "यथा नयत्य् असृक्पातैर् मृगस्य मृगयुः पदम्" (म्ध् ८।४४) इति । यद्य् अपि सर्वं लौकिकं न शास्त्रकारवचनात्[^४७] प्रामाण्यं लभते,[^४८] तथापि[^४९] लौकिकम् एव, तस्मिन्[^५०] क्वचिच् छास्त्रम् आश्रयितव्यम् । या च यदीदृशे[^५१] चापराध इदं दिव्यं इयता च कालेन भोगः प्रमाणम् इति, लौकिकम् अपि तच् छास्त्रदृष्टम् इत्य् उक्तम् । तस्यां च व्यवस्थायां शास्त्रकाराणां मूले संभवति सा प्रमाणम् । या त्व् असंभवतन्मूला सा नादरणीया । यथा लेख्यकर्मपाठः:
 
-	ubhayābhyarthitenaivaṃ mayā hy amukasūnunā |
+	उभयाभ्यर्थितेनैवं मया ह्य् अमुकसूनुना ।
 
-	likhitaṃ hy amukenaiva lekhakas tattvato likhet || iti | (YDh 2.91 )
+	लिखितं ह्य् अमुकेनैव लेखकस् तत्त्वतो लिखेत् ॥ इति । (य्ध् २।९१ )
 
-yasyādāv eva lekhakaḥ svanāma niveśayed "idaṃ nāmāham amuṣyaputro likhāmīdam" iti, na kaścid doṣaḥ syat | sa hy evamarthaṃ nāma niveśayati "anenedaṃ likhitam" iti lekhaka upalakṣito[^52] yathā syād | yadi hy asau lekhakaḥ pramāṇāntareṇa pratyayito bhavati tatas tallikhitaṃ pramāṇam | yadi cāsāv ātmānaṃ svagotranāmnā nopalakṣayet, tataḥ kasya pratyayitatā pramāṇāntarād anviṣyatām | atha tu lekhyāntaradarśanenānyena vā hetunā viśiṣṭalekhaka iti pratyabhijñānaṃ syād anupalakṣito 'pi na kaścid doṣaḥ | tatra yadi lekhako na likhet "mayedaṃ likhitam" iti, bhaved eva tādṛśaṃ lekhyaṃ paripūrṇalakṣaṇam | eṣā ca lekhakaparīkṣā tatropayujyate | atra[^53] lekhakasya sākṣitvāntarbhāvo 'nyeṣāṃ sākṣiṇām alpatvāt | yatra tv anye bahavaḥ pratyayitāḥ sākṣiṇaḥ svahastārūḍhāḥ santi tatra lekhakasaṃbandhinī pratyayitatā nopayujyate | tatheyam aparā vyavasthā |
+यस्यादाव् एव लेखकः स्वनाम निवेशयेद् "इदं नामाहम् अमुष्यपुत्रो लिखामीदम्" इति, न कश्चिद् दोषः स्यत् । स ह्य् एवमर्थं नाम निवेशयति "अनेनेदं लिखितम्" इति लेखक उपलक्षितो[^५२] यथा स्याद् । यदि ह्य् असौ लेखकः प्रमाणान्तरेण प्रत्ययितो भवति ततस् तल्लिखितं प्रमाणम् । यदि चासाव् आत्मानं स्वगोत्रनाम्ना नोपलक्षयेत्, ततः कस्य प्रत्ययितता प्रमाणान्तराद् अन्विष्यताम् । अथ तु लेख्यान्तरदर्शनेनान्येन वा हेतुना विशिष्टलेखक इति प्रत्यभिज्ञानं स्याद् अनुपलक्षितो ऽपि न कश्चिद् दोषः । तत्र यदि लेखको न लिखेत् "मयेदं लिखितम्" इति, भवेद् एव तादृशं लेख्यं परिपूर्णलक्षणम् । एषा च लेखकपरीक्षा तत्रोपयुज्यते । अत्र[^५३] लेखकस्य साक्षित्वान्तर्भावो ऽन्येषां साक्षिणाम् अल्पत्वात् । यत्र त्व् अन्ये बहवः प्रत्ययिताः साक्षिणः स्वहस्तारूढाः सन्ति तत्र लेखकसंबन्धिनी प्रत्ययितता नोपयुज्यते । तथेयम् अपरा व्यवस्था ।
 
-	likhitaṃ likhitenaiva sākṣimac caiva sākṣibhiḥ |
+	लिखितं लिखितेनैव साक्षिमच् चैव साक्षिभिः ।
 
-	sākṣibhyo likhitaṃ śreyo likhitena tu sākṣiṇaḥ || (NSm 1.125)
+	साक्षिभ्यो लिखितं श्रेयो लिखितेन तु साक्षिणः ॥ (न्स्म् १।१२५)
 
-nāsyām api vyavasthāyāṃ kiṃcin nibandhanam asti | tathā hi dvividhaṃ lekhyam: svahastakṛtaṃ parahastakṛtaṃ ca | parahastakṛtam api dvividham: svahastalekhakalikhitam adhikṛtalekhakalikhitam | tad etat parahastakṛtaṃ sarvaprakāraṃ sākṣyātmakam eva, tatra "sākṣibhyo likhitam" iti bhedānupapatteḥ | idaṃ hi tasya lakṣaṇam:
+नास्याम् अपि व्यवस्थायां किंचिन् निबन्धनम् अस्ति । तथा हि द्विविधं लेख्यम्: स्वहस्तकृतं परहस्तकृतं च । परहस्तकृतम् अपि द्विविधम्: स्वहस्तलेखकलिखितम् अधिकृतलेखकलिखितम् । तद् एतत् परहस्तकृतं सर्वप्रकारं साक्ष्यात्मकम् एव, तत्र "साक्षिभ्यो लिखितम्" इति भेदानुपपत्तेः । इदं हि तस्य लक्षणम्:
 
-	sākṣiṇaḥ svasvahastena pitṛnāmādipūrvakam |
+	साक्षिणः स्वस्वहस्तेन पितृनामादिपूर्वकम् ।
 
-	tatrāham amukaḥ sākṣī likheyur iti te samam || (YDh 2.89) iti |
+	तत्राहम् अमुकः साक्षी लिखेयुर् इति ते समम् ॥ (य्ध् २।८९) इति ।
 
-nāpy ekahastalikhitasya prāmāṇyam iṣyate, yathaikasya sākṣitve | athāyaṃ bhedahetuḥ sākṣiṇo hastārūḍhās ta eva lekhyam iti, nānena viśeṣeṇa śreyastvaṃ bhavati | pratyayitatā hi śreyastve hetuḥ | sā cobhayatrāpi parīkṣyā | tasmād īdṛśe lekhye sākṣidvaidhyanyāyaḥ: "bahutvaṃ parigṛhṇīyāt" (MDh 8.73) iti | adhikṛtatvam api na viśeṣaḥ | parīkṣito 'dhikriyata ity etat tatrādhikyam | na ca sarve rājādhikṛtāḥ suparīkṣitā bhavanti | yadi tu nirupadhis[^54] tādṛsaś ced atyantaguṇayogāt syād upeyād evāsau eka eva saṃvādakatvam | tathā hi rājāgrahāraśāsanāny ekakāyasthahastalikhitāny eva pramāṇībhavanti | dātuḥ svāhastakyaṃ svayam abhyupagamaḥ "iyad asmān mayā gṛhītam itdaṃ cāsmai dātavyam" iti | tatra yadi paścāt brūte "na gṛhītam" iti tadā pūrvanibaddhaṃ bruvāṇair jīyate | tatra sākṣiṇām avasara eva nāsti |
+नाप्य् एकहस्तलिखितस्य प्रामाण्यम् इष्यते, यथैकस्य साक्षित्वे । अथायं भेदहेतुः साक्षिणो हस्तारूढास् त एव लेख्यम् इति, नानेन विशेषेण श्रेयस्त्वं भवति । प्रत्ययितता हि श्रेयस्त्वे हेतुः । सा चोभयत्रापि परीक्ष्या । तस्माद् ईदृशे लेख्ये साक्षिद्वैध्यन्यायः: "बहुत्वं परिगृह्णीयात्" (म्ध् ८।७३) इति । अधिकृतत्वम् अपि न विशेषः । परीक्षितो ऽधिक्रियत इत्य् एतत् तत्राधिक्यम् । न च सर्वे राजाधिकृताः सुपरीक्षिता भवन्ति । यदि तु निरुपधिस्[^५४] तादृसश् चेद् अत्यन्तगुणयोगात् स्याद् उपेयाद् एवासौ एक एव संवादकत्वम् । तथा हि राजाग्रहारशासनान्य् एककायस्थहस्तलिखितान्य् एव प्रमाणीभवन्ति । दातुः स्वाहस्तक्यं स्वयम् अभ्युपगमः "इयद् अस्मान् मया गृहीतम् इत्दं चास्मै दातव्यम्" इति । तत्र यदि पश्चात् ब्रूते "न गृहीतम्" इति तदा पूर्वनिबद्धं ब्रुवाणैर् जीयते । तत्र साक्षिणाम् अवसर एव नास्ति ।
 
-	<span style="text-decoration:underline;">nanu</span> ca yadīyāl lekhyād abhyupagatam etad anenety avagamyate, uttarakālaṃ ca sa evāha "na gṛhītam" iti, tatrobhayor abhyupagamayoḥ kena hetunā pūrveṇottaro[^55] bādhyeta na punar uttareṇa pūrvaḥ[^56] | tulyatvād viruddhatvasaṃśayaḥ | tataś ca pramāṇāntaravyāpāraṇam eva yuktam | 
+	<span style="text-decoration:underline;">ननु</span> च यदीयाल् लेख्याद् अभ्युपगतम् एतद् अनेनेत्य् अवगम्यते, उत्तरकालं च स एवाह "न गृहीतम्" इति, तत्रोभयोर् अभ्युपगमयोः केन हेतुना पूर्वेणोत्तरो[^५५] बाध्येत न पुनर् उत्तरेण पूर्वः[^५६] । तुल्यत्वाद् विरुद्धत्वसंशयः । ततश् च प्रमाणान्तरव्यापारणम् एव युक्तम् । 
 
-	bhaved evaṃ yadi tulyatā syāt | "na gṛhītam" iti hy abhyupagamo lobhādināpi saṃbhavati | na tv agṛhītvānunmatto "gṛhītam" iti brūyāt | tatrāpi yadi brūyāt "pratidattam" iti, lekhyaṃ tu na saṃpāditam, asaṃnidhānāt pratilekhyaṃ ca na gṛhītaṃ lekhakāsaṃnidhānāt kāryāntare 'tipātini tvarāvatvān nātrāsty[^57] eva pramāṇāntarasya sākṣyāder avasaraḥ | 
+	भवेद् एवं यदि तुल्यता स्यात् । "न गृहीतम्" इति ह्य् अभ्युपगमो लोभादिनापि संभवति । न त्व् अगृहीत्वानुन्मत्तो "गृहीतम्" इति ब्रूयात् । तत्रापि यदि ब्रूयात् "प्रतिदत्तम्" इति, लेख्यं तु न संपादितम्, असंनिधानात् प्रतिलेख्यं च न गृहीतं लेखकासंनिधानात् कार्यान्तरे ऽतिपातिनि त्वरावत्वान् नात्रास्त्य्[^५७] एव प्रमाणान्तरस्य साक्ष्यादेर् अवसरः । 
 
-	yad api "likhitaṃ likhitena" iti naiṣā paribhāṣā vastusāmarthyāyātām avagatiṃ bādhituṃ śaknoti | dṛśyante hi dhanikahastagatalekhyaṃ[^58] krameṇa saṃśodhayanto na ca pṛṣṭhe saṃśodhitaṃ dhanam abhilikhanti: "adya tāvad idaṃ dattam, prātar anyad ānīyaikīkṛtyopary āropayiṣyāmi, sarvaṃ vā katipayair ahobhiḥ saṃśodhya lekhyaṃ pāṭayiṣyāmi" iti | nānyavastuto saṃbandhaḥ[^59] | dhanikena coparuddhasyāsaṃbhavaty aṃśamūlalābhadhane[^60] saṃśuddhibhāgamātre dīyamāne kuta ayaṃ[^61] tat prabhavati "na dadāti yāvat pratilekhyaṃ na dattam" iti | yadi caiṣā paribhāṣā "likhitaṃ likhitenaiva" iti tadā balopadhikṛtatvaṃ[^62] kathaṃ vicāryatām | na hi tatra lekhyāntarasaṃbhavaḥ | tena yathātra saty eva lekhye tanniścayārthaṃ pramāṇāntaraṃ[^63] vyāpāryate tadvad anyatrāpi vyāpāraṇīyam | yathā kaścid āvedayet: "asya[^64] prayayaṃ gatvā lekhyaṃ mayā kṛtam anenoktaḥ sadyaḥ puṇyāhakāraṇam[^65] imāṃ ca dhanamātrāṃ gṛhāṇa,[^66] śvas te sarvaṃ dātāsmīty[^67] uktvā saiva dhanamātrā dattā pariśiṣṭaṃ na dattam" iti, tadāsty eva sādhakāntaravyāpāraṇāvasaraḥ[^68] | tatra yady adhamarṇasyāsmin prakāre sākṣiṇaḥ santi tadābhihite lekhya ābhāsīkṛte[^69] śvodānam uttamarṇena sādhanīyam | atha tayor api rahasi paribhāṣeyam abhūt tadā daivyāḥ kriyāyā avasaraḥ | atha tu tasyām api vyabhicaritvād anāśvāsaḥ satyaśapathena vyavasthā kāryā |
+	यद् अपि "लिखितं लिखितेन" इति नैषा परिभाषा वस्तुसामर्थ्यायाताम् अवगतिं बाधितुं शक्नोति । दृश्यन्ते हि धनिकहस्तगतलेख्यं[^५८] क्रमेण संशोधयन्तो न च पृष्ठे संशोधितं धनम् अभिलिखन्ति: "अद्य तावद् इदं दत्तम्, प्रातर् अन्यद् आनीयैकीकृत्योपर्य् आरोपयिष्यामि, सर्वं वा कतिपयैर् अहोभिः संशोध्य लेख्यं पाटयिष्यामि" इति । नान्यवस्तुतो संबन्धः[^५९] । धनिकेन चोपरुद्धस्यासंभवत्य् अंशमूललाभधने[^६०] संशुद्धिभागमात्रे दीयमाने कुत अयं[^६१] तत् प्रभवति "न ददाति यावत् प्रतिलेख्यं न दत्तम्" इति । यदि चैषा परिभाषा "लिखितं लिखितेनैव" इति तदा बलोपधिकृतत्वं[^६२] कथं विचार्यताम् । न हि तत्र लेख्यान्तरसंभवः । तेन यथात्र सत्य् एव लेख्ये तन्निश्चयार्थं प्रमाणान्तरं[^६३] व्यापार्यते तद्वद् अन्यत्रापि व्यापारणीयम् । यथा कश्चिद् आवेदयेत्: "अस्य[^६४] प्रययं गत्वा लेख्यं मया कृतम् अनेनोक्तः सद्यः पुण्याहकारणम्[^६५] इमां च धनमात्रां गृहाण,[^६६] श्वस् ते सर्वं दातास्मीत्य्[^६७] उक्त्वा सैव धनमात्रा दत्ता परिशिष्टं न दत्तम्" इति, तदास्त्य् एव साधकान्तरव्यापारणावसरः[^६८] । तत्र यद्य् अधमर्णस्यास्मिन् प्रकारे साक्षिणः सन्ति तदाभिहिते लेख्य आभासीकृते[^६९] श्वोदानम् उत्तमर्णेन साधनीयम् । अथ तयोर् अपि रहसि परिभाषेयम् अभूत् तदा दैव्याः क्रियाया अवसरः । अथ तु तस्याम् अपि व्यभिचरित्वाद् अनाश्वासः सत्यशपथेन व्यवस्था कार्या ।
 
-	<span style="text-decoration:underline;">nanu</span> evaṃ sati svahastalekhyaṃ pramāṇāntarasaṃvedasāpekṣatvād apramāṇam eva | tatra "vināpi sākṣibhiḥ sidhyet" (YDh 2.92) "svahastaparicihnitam"[^70] (YDh 2.96) iti virodhaḥ | anenaiva nyāyena pratyakṣaṃ dīyamānaṃ dravyaṃ na paśyati | kevalaṃ tatsamakṣaṃ gṛhītvā paribhāṣyate "iyad idam asmān mayā gṛhītam" iti | te 'pi sākṣiṇaḥ syuḥ | tatrāpi śakyate vaktum "asya pratyayaṃ gatvā prapanno[^71] 'ham" iti | 
+	<span style="text-decoration:underline;">ननु</span> एवं सति स्वहस्तलेख्यं प्रमाणान्तरसंवेदसापेक्षत्वाद् अप्रमाणम् एव । तत्र "विनापि साक्षिभिः सिध्येत्" (य्ध् २।९२) "स्वहस्तपरिचिह्नितम्"[^७०] (य्ध् २।९६) इति विरोधः । अनेनैव न्यायेन प्रत्यक्षं दीयमानं द्रव्यं न पश्यति । केवलं तत्समक्षं गृहीत्वा परिभाष्यते "इयद् इदम् अस्मान् मया गृहीतम्" इति । ते ऽपि साक्षिणः स्युः । तत्रापि शक्यते वक्तुम् "अस्य प्रत्ययं गत्वा प्रपन्नो[^७१] ऽहम्" इति । 
 
-	<span style="text-decoration:underline;">uktam</span> atra na smṛtivirodhād vastusthitir āhantuṃ[^72] śakyate | api ca yatrāsya vacanasyāvasaro nāsti tatra pramāṇaṃ[^73] bhaviṣyati | kvacin nāsti | yatra cirakālaṃ tiṣṭhati dhanikahaste lekhyaṃ yadi hi tena[^74] dhanaṃ dattam, tadā katham anena vā nāma na mārgitaṃ lekhyaṃ na tyājitam iti | na hi cirakālam upekṣā[^75] vastunīdṛśe[^76] saṃbhavati | mithyāvāditā tv asyānumīyate | tathā coktam:
+	<span style="text-decoration:underline;">उक्तम्</span> अत्र न स्मृतिविरोधाद् वस्तुस्थितिर् आहन्तुं[^७२] शक्यते । अपि च यत्रास्य वचनस्यावसरो नास्ति तत्र प्रमाणं[^७३] भविष्यति । क्वचिन् नास्ति । यत्र चिरकालं तिष्ठति धनिकहस्ते लेख्यं यदि हि तेन[^७४] धनं दत्तम्, तदा कथम् अनेन वा नाम न मार्गितं लेख्यं न त्याजितम् इति । न हि चिरकालम् उपेक्षा[^७५] वस्तुनीदृशे[^७६] संभवति । मिथ्यावादिता त्व् अस्यानुमीयते । तथा चोक्तम्:
 
-	sadyas tryahād vā kāryeṣu balaṃ rājño nivedayet | iti | 
+	सद्यस् त्र्यहाद् वा कार्येषु बलं राज्ञो निवेदयेत् । इति । 
 
-yatra vā bhogyabandho na ca bhoga āmnāto 'pahārakālas tatra vipratipattau vināpi sākṣibhiḥ svahastalekhyaṃ na hy adhamarṇā vaktuṃ labhante "prītyā tvayaitad uktaṃ saṃprati tyaja" iti | na ca pūrvoktasya vacanasyāvasaraḥ | kṛtaṃ lekhyaṃ tato dāsyāmīty uktvā na dattam iti | yadi na dattaṃ kathaṃ bandhabhogo marṣitaḥ |
+यत्र वा भोग्यबन्धो न च भोग आम्नातो ऽपहारकालस् तत्र विप्रतिपत्तौ विनापि साक्षिभिः स्वहस्तलेख्यं न ह्य् अधमर्णा वक्तुं लभन्ते "प्रीत्या त्वयैतद् उक्तं संप्रति त्यज" इति । न च पूर्वोक्तस्य वचनस्यावसरः । कृतं लेख्यं ततो दास्यामीत्य् उक्त्वा न दत्तम् इति । यदि न दत्तं कथं बन्धभोगो मर्षितः ।
 
-	<span style="text-decoration:underline;">nanu</span> caivaṃ sati lekhyasahāyo bhogaḥ pramāṇaṃ syāt | kevalasya tu bhogasya prāmāṇyam āmananti | "likhitaṃ sākṣiṇo bhuktiḥ" (NSm 1.65) iti | 
+	<span style="text-decoration:underline;">ननु</span> चैवं सति लेख्यसहायो भोगः प्रमाणं स्यात् । केवलस्य तु भोगस्य प्रामाण्यम् आमनन्ति । "लिखितं साक्षिणो भुक्तिः" (न्स्म् १।६५) इति । 
 
-	<span style="text-decoration:underline;">kim</span> idaṃ pratyuktaṃ paryanuyujyāmahe | viśiṣṭakālo bhogaḥ pramāṇaṃ na bhogamātram | evaṃ hi paṭhyate "yat kiṃcid daśavarṣāṇi" (MDh 8.147), tathā "paśyato 'bruvato bhūmer hānir viṃśativārṣikī" (YDh 2.24) iti | 
+	<span style="text-decoration:underline;">किम्</span> इदं प्रत्युक्तं पर्यनुयुज्यामहे । विशिष्टकालो भोगः प्रमाणं न भोगमात्रम् । एवं हि पठ्यते "यत् किंचिद् दशवर्षाणि" (म्ध् ८।१४७), तथा "पश्यतो ऽब्रुवतो भूमेर् हानिर् विंशतिवार्षिकी" (य्ध् २।२४) इति । 
 
-	<span style="text-decoration:underline;">kas tarhy</span> asyārtho "likhitaṃ likhitenaiva" (NSm 1.125) iti |
+	<span style="text-decoration:underline;">कस् तर्ह्य्</span> अस्यार्थो "लिखितं लिखितेनैव" (न्स्म् १।१२५) इति ।
 
-	<span style="text-decoration:underline;">vyākhyātam anyaiḥ</span> | kartṛviśeṣasaṃśaye 'nenaital likhitaṃ na veti, likhitena niścitatatkartṛkeṇa niścīyate | yat tu sākṣisamakṣaṃ tatra kṛtākṛtasaṃdehaṃ sākṣibhir harati[^77] | ta eva tatra pramāṇam | na tatra tatkṛtalekhyāntaradarśanam upayujyate | buddhipūrveṣu ca ṛṇādānādiṣu kevalebhyaḥ sākṣibhyo likhitaṃ śreyaḥ | sākṣiṇo hi vismareyur anyatareṇa vā saṃbandhaṃ gaccheyur anyad vā pātakasyāsākṣitve hetum āsādayeyuḥ | lekhyaṃ tv abhiyogavata ātmādhīnatayā surakṣam iti sākṣibhyaḥ śreyastvaṃ tasya | etad evāha "likhitena tu sākṣiṇaḥ" (NSm 1.125) iti | svahastapratiṣṭhena vismṛtam apy arthaṃ vṛttam iti manyate | mṛtā vā sākṣiṇas taddhastapratyabhijñānena[^78] pramāṇībhavanti | 
+	<span style="text-decoration:underline;">व्याख्यातम् अन्यैः</span> । कर्तृविशेषसंशये ऽनेनैतल् लिखितं न वेति, लिखितेन निश्चिततत्कर्तृकेण निश्चीयते । यत् तु साक्षिसमक्षं तत्र कृताकृतसंदेहं साक्षिभिर् हरति[^७७] । त एव तत्र प्रमाणम् । न तत्र तत्कृतलेख्यान्तरदर्शनम् उपयुज्यते । बुद्धिपूर्वेषु च ऋणादानादिषु केवलेभ्यः साक्षिभ्यो लिखितं श्रेयः । साक्षिणो हि विस्मरेयुर् अन्यतरेण वा संबन्धं गच्छेयुर् अन्यद् वा पातकस्यासाक्षित्वे हेतुम् आसादयेयुः । लेख्यं त्व् अभियोगवत आत्माधीनतया सुरक्षम् इति साक्षिभ्यः श्रेयस्त्वं तस्य । एतद् एवाह "लिखितेन तु साक्षिणः" (न्स्म् १।१२५) इति । स्वहस्तप्रतिष्ठेन विस्मृतम् अप्य् अर्थं वृत्तम् इति मन्यते । मृता वा साक्षिणस् तद्धस्तप्रत्यभिज्ञानेन[^७८] प्रमाणीभवन्ति । 
 
-	<span style="text-decoration:underline;">vyākhyānāntarāṇi</span> bhartṛyajñenaiva samyak kṛtānīti tata evāvagantavyāni sarvathā pramāṇamūlāni | smṛtikāraṇavyavasthānuvartitavyeti[^79] | na ca smṛter eva[^80] pramāṇakalpanā yuktā | na hi vyavahārasmṛtir vedamūlā śakyate vaktum, siddhārtharūpatvāt pratyakṣādyavagamyatvāj jayaparājayaprakārāṇām | siddho hy ayam arthaḥ | evaṃ vyavahāre jīyata itaraḥ, itaro jayatīti | yad apy[^81] atra liṅgaśrutiḥ sāpi "harītakīṃ bhakṣayed ārogyakāmaḥ" itivad avaseyā | īdṛśeṣu vidhisvarūpeṣu pratyayeṣu dravyaśuddheḥ prasaṅgenārtho vivecita iti na punaḥ prayatāmahe | 
+	<span style="text-decoration:underline;">व्याख्यानान्तराणि</span> भर्तृयज्ञेनैव सम्यक् कृतानीति तत एवावगन्तव्यानि सर्वथा प्रमाणमूलानि । स्मृतिकारणव्यवस्थानुवर्तितव्येति[^७९] । न च स्मृतेर् एव[^८०] प्रमाणकल्पना युक्ता । न हि व्यवहारस्मृतिर् वेदमूला शक्यते वक्तुम्, सिद्धार्थरूपत्वात् प्रत्यक्षाद्यवगम्यत्वाज् जयपराजयप्रकाराणाम् । सिद्धो ह्य् अयम् अर्थः । एवं व्यवहारे जीयत इतरः, इतरो जयतीति । यद् अप्य्[^८१] अत्र लिङ्गश्रुतिः सापि "हरीतकीं भक्षयेद् आरोग्यकामः" इतिवद् अवसेया । ईदृशेषु विधिस्वरूपेषु प्रत्ययेषु द्रव्यशुद्धेः प्रसङ्गेनार्थो विवेचित इति न पुनः प्रयतामहे । 
 
-	**aṣṭādaśasu mārgeṣu** | mārgo[^82] viṣayo vivādasya | etān arthān uddiśya puruṣāḥ prāyeṇa vivadante | nibaddhāni[^83] kāryāṇi prayojanāny arthasiddhaya iti yāvat | tāny uttaratra darśayiṣyāmaḥ | **pṛthak pṛthak**, prādānyam eteṣām āha | etāni prayekaṃ prayojanāni[^84] na punaḥ parasparam antarbhavanti | yathānyāny anuṣaṅgādiṣv antarbhavanti | naivam etāni[^85] | anuṣaktāni tu sahasraśaḥ santi || 8.3 ||
+	**अष्टादशसु मार्गेषु** । मार्गो[^८२] विषयो विवादस्य । एतान् अर्थान् उद्दिश्य पुरुषाः प्रायेण विवदन्ते । निबद्धानि[^८३] कार्याणि प्रयोजनान्य् अर्थसिद्धय इति यावत् । तान्य् उत्तरत्र दर्शयिष्यामः । **पृथक् पृथक्**, प्रादान्यम् एतेषाम् आह । एतानि प्रयेकं प्रयोजनानि[^८४] न पुनः परस्परम् अन्तर्भवन्ति । यथान्यान्य् अनुषङ्गादिष्व् अन्तर्भवन्ति । नैवम् एतानि[^८५] । अनुषक्तानि तु सहस्रशः सन्ति ॥ ८।३ ॥
 
-	**teṣām ādyam ṛṇādānaṃ nikṣepo 'svāmivikrayaḥ |**
+	**तेषाम् आद्यम् ऋणादानं निक्षेपो ऽस्वामिविक्रयः ।**
 
-**	saṃbhūya ca samutthānaṃ dattasyānapakarma ca || 8.4 ||**
+**	संभूय च समुत्थानं दत्तस्यानपकर्म च ॥ ८।४ ॥**
 
-**	vetanasyaiva cādānaṃ saṃvidaś ca vyatikramaḥ |**
+**	वेतनस्यैव चादानं संविदश् च व्यतिक्रमः ।**
 
-**	krayavikrayānuśayo vivādaḥ svāmipālayoḥ || 8.5 ||**
+**	क्रयविक्रयानुशयो विवादः स्वामिपालयोः ॥ ८।५ ॥**
 
-**	sīmāvivādadharmaś ca pāruṣye daṇḍavācike |**
+**	सीमाविवादधर्मश् च पारुष्ये दण्डवाचिके ।**
 
-**	steyaṃ ca sāhasaṃ caiva strīsaṃgrahaṇam eva ca || 8.6 ||**
+**	स्तेयं च साहसं चैव स्त्रीसंग्रहणम् एव च ॥ ८।६ ॥**
 
-**	strīpuṃdharmo vibhāgaś ca dyūtam āhvaya eva ca |**
+**	स्त्रीपुंधर्मो विभागश् च द्यूतम् आह्वय एव च ।**
 
-**	padāny aṣṭādaśaitāni vyavahārasthitāv iha || 8.7 ||**
+**	पदान्य् अष्टादशैतानि व्यवहारस्थिताव् इह ॥ ८।७ ॥**
 
-pāṭhakramāpekṣam ṛṇādānasyādyatvaṃ prāthamyam | atha vā mukhyam ādyam | anena hi vanavāsino 'pi spṛśyante | ṛṇādānānuṣaktam anṛṇādānam eva ca | yathā "ṛṇaṃ te mayā dattaṃ śuddhilekhyaṃ prayaccha" ityādi | naitad ṛṇādānam, anuktaṃ tu tatreti tad vyapadeśyam | tathā 
+पाठक्रमापेक्षम् ऋणादानस्याद्यत्वं प्राथम्यम् । अथ वा मुख्यम् आद्यम् । अनेन हि वनवासिनो ऽपि स्पृश्यन्ते । ऋणादानानुषक्तम् अनृणादानम् एव च । यथा "ऋणं ते मया दत्तं शुद्धिलेख्यं प्रयच्छ" इत्यादि । नैतद् ऋणादानम्, अनुक्तं तु तत्रेति तद् व्यपदेश्यम् । तथा 
 
-	ṛṇaṃ deyam adeyaṃ ca yena yatra yathā ca yat | 
+	ऋणं देयम् अदेयं च येन यत्र यथा च यत् । 
 
-	dānagrahaṇadharmāś ca | (NSm 1.1) iti | 
+	दानग्रहणधर्माश् च । (न्स्म् १।१) इति । 
 
-tatra deyam ṛṇaṃ svakṛtaṃ pitṛkṛtaṃ ca yaya ca ṛkthaṃ haret | adeyaṃ svakrtaṃ dviguṇād adhikaṃ pitṛkṛtaṃ ca dyūtādibhāgeneti putraṇ bhartrā pitrā ceti | tathā, 
+तत्र देयम् ऋणं स्वकृतं पितृकृतं च यय च ऋक्थं हरेत् । अदेयं स्वक्र्तं द्विगुणाद् अधिकं पितृकृतं च द्यूतादिभागेनेति पुत्रण् भर्त्रा पित्रा चेति । तथा, 
 
-	na strī patikṛtaṃ dadyād ṛṇaṃ putrakṛtaṃ tathā |
+	न स्त्री पतिकृतं दद्याद् ऋणं पुत्रकृतं तथा ।
 
-	abhyupetād ṛte yad vā saha patyā kṛtaṃ bhavet || (NSm 1.13)
+	अभ्युपेताद् ऋते यद् वा सह पत्या कृतं भवेत् ॥ (न्स्म् १।१३)
 
-	yady api deyam ity atraitad antarbhūtaṃ tathāpi dyūtādikṛtaṃ viśeṣānapekṣaṃ svarūpato deyam, idaṃ tu kartṛniyamād iti gobalīvardavad bhavati ced bhedo yāvad iti dvaiguṇyaparyantaṃ tatrāpi bhedaḥ pūrvavat | "yatra" iti pāṭhe deśakālagrahaṇam | yatraiva gṛhītaṃ tatraiva deyam | satyāṃ dhanikecchāyāṃ deśāntare 'pi | sati saṃbhave kālo 'pi | śarady anicchetty uktam[^86] | "graiṣme vā satsu sasyeṣu yadā vāsya dhanāgamaṃ manyeta" iti | "yathā" sati saṃbhave sarvam | asati kaścid aṃśo yāvat krameṇa saṃśuddham iti | sarvabhāvena[^87] parikṣīṇena "karmaṇāpi samam" (MDh 8.177) iti | "dānagrahaṇadharmāḥ" iti sākṣilekhyādayaḥ | 
+	यद्य् अपि देयम् इत्य् अत्रैतद् अन्तर्भूतं तथापि द्यूतादिकृतं विशेषानपेक्षं स्वरूपतो देयम्, इदं तु कर्तृनियमाद् इति गोबलीवर्दवद् भवति चेद् भेदो यावद् इति द्वैगुण्यपर्यन्तं तत्रापि भेदः पूर्ववत् । "यत्र" इति पाठे देशकालग्रहणम् । यत्रैव गृहीतं तत्रैव देयम् । सत्यां धनिकेच्छायां देशान्तरे ऽपि । सति संभवे कालो ऽपि । शरद्य् अनिच्छेत्त्य् उक्तम्[^८६] । "ग्रैष्मे वा सत्सु सस्येषु यदा वास्य धनागमं मन्येत" इति । "यथा" सति संभवे सर्वम् । असति कश्चिद् अंशो यावत् क्रमेण संशुद्धम् इति । सर्वभावेन[^८७] परिक्षीणेन "कर्मणापि समम्" (म्ध् ८।१७७) इति । "दानग्रहणधर्माः" इति साक्षिलेख्यादयः । 
 
-	**pāruṣye daṇḍavācike** iti | daṇḍaś ca vāk ca daṇḍavācaṃ "dvandvāc cudaṣahāntāt" (Pāṇ 5.4.106) iti samāsāntas tad asyāstīti "ata ini ṭhanau" (Pān 5.2.115) iti ṭhan | **strīpuṃdharma** iti | strīsahitaḥ pumān iti śākapārthivādivat samāsaḥ | strī ca pumāṃś ceti vigrahe strīpuṃsasharma iti syāt || 8.4–6 ||
+	**पारुष्ये दण्डवाचिके** इति । दण्डश् च वाक् च दण्डवाचं "द्वन्द्वाच् चुदषहान्तात्" (पाण् ५।४।१०६) इति समासान्तस् तद् अस्यास्तीति "अत इनि ठनौ" (पान् ५।२।११५) इति ठन् । **स्त्रीपुंधर्म** इति । स्त्रीसहितः पुमान् इति शाकपार्थिवादिवत् समासः । स्त्री च पुमांश् चेति विग्रहे स्त्रीपुंसस्हर्म इति स्यात् ॥ ८।४–६ ॥
 
-	**eṣu sthāneṣu bhūyiṣṭhaṃ vivādaṃ caratāṃ nṛṇām |**
+	**एषु स्थानेषु भूयिष्ठं विवादं चरतां नृणाम् ।**
 
-**	dharmaṃ śāśvatam āśritya kuryāt kāryavinirṇayam || 8.8 ||**
+**	धर्मं शाश्वतम् आश्रित्य कुर्यात् कार्यविनिर्णयम् ॥ ८।८ ॥**
 
-**bhūyiṣṭha**grahaṇaṃ prādhānyakhyāpanārtham | anye 'pi vyavahārahetavaḥ santi | yathā nivasanārthaṃ tvayā me veśma dattam, tatra kim ity arvāg vatsarād anyasmai dadāsīti | na cedaṃ dattānapakarma, na hy atra svatvanivṛttir asti, bhogānujñāmātraṃ vasataḥ | tathā madīyasthaṇḍilābhimukhaṃ tvayā veśmani gavākṣaṃ kṛtam iti | **dharmaṃ śāśvatam āśritye**ti | arthakāmāv aśāśvatau | atha vā śāśvato dharma anidaṃprathamato yā vyavasthā tām anupālayet | yā tv idānīṃtanaiḥ pravartitā sāśāśvatatvād anādaraṇīyā || 8.8 ||
+**भूयिष्ठ**ग्रहणं प्राधान्यख्यापनार्थम् । अन्ये ऽपि व्यवहारहेतवः सन्ति । यथा निवसनार्थं त्वया मे वेश्म दत्तम्, तत्र किम् इत्य् अर्वाग् वत्सराद् अन्यस्मै ददासीति । न चेदं दत्तानपकर्म, न ह्य् अत्र स्वत्वनिवृत्तिर् अस्ति, भोगानुज्ञामात्रं वसतः । तथा मदीयस्थण्डिलाभिमुखं त्वया वेश्मनि गवाक्षं कृतम् इति । **धर्मं शाश्वतम् आश्रित्ये**ति । अर्थकामाव् अशाश्वतौ । अथ वा शाश्वतो धर्म अनिदंप्रथमतो या व्यवस्था ताम् अनुपालयेत् । या त्व् इदानींतनैः प्रवर्तिता साशाश्वतत्वाद् अनादरणीया ॥ ८।८ ॥
 
-	**yadā svayaṃ na kuryāt tu nṛpatiḥ kāryadarśanam |**
+	**यदा स्वयं न कुर्यात् तु नृपतिः कार्यदर्शनम् ।**
 
-**	tadā niyuñjyād vidvāṃsaṃ brāhmaṇaṃ kāryadarśane || 8.9 ||**
+**	तदा नियुञ्ज्याद् विद्वांसं ब्राह्मणं कार्यदर्शने ॥ ८।९ ॥**
 
-	aṣṭādaśapadābhijñaṃ prāḍvivāketi saṃjñitam |
+	अष्टादशपदाभिज्ञं प्राड्विवाकेति संज्ञितम् ।
 
-	ānvīkṣikyāṃ ca kuśalaṃ śrutismṛtiparāyaṇam || 
+	आन्वीक्षिक्यां च कुशलं श्रुतिस्मृतिपरायणम् ॥ 
 
-kutaścid atipātikāryāntaravyāsaṅgād apāṭavād vā yadi svayaṃ na paśyet tadā vidvān brāhmaṇo niyojyaḥ | vidvattā ca yā vyavahāraviṣayā sā tadadhikārata evārthagṛhītā | na hi yo yan na jānāti sa tatrādhikāram arhati | dharmaśāstraparijñānaṃ tu rāgadveṣadoṣeṇa viparītārthāvadhāraṇanivṛttyartham upayujyate | dharmajñas tu sator api rāgadveṣayoḥ śāstrabhayena na[^88] viparyety ity upayogavad dharmaśāstraparijñānam | vyavahāradarśanaṃ tu tadarthagṛhītam | yena vinā na śakyate vyavahāranirṇayaḥ kartum, tadvijñānaṃ tadadhikārākṣiptam | yat tu jñātvānyathā kriyate tannivṛttir upadeśāntaraviṣayā | vakṣyati caivamarthaṃ yatnāntaram api: "vedavidas trayaḥ rājñaś ca prakṛto vidvān" (MDh 8.11) iti | śāstrāntaraparijñānaṃ tu vyavahāre 'dhikriyamāṇasyādṛṣṭāya syāt | "niyojyo vidvān syāt" iti paṭhitavyam | **niyuñjyād** iti, niyuñjīta "svarādyantopasṛṣṭāt" (Pat I: 290, on Pāṇ 1.3.64) iti hi kātīyā ātmanepadaṃ smaranti || 8.9 ||
+कुतश्चिद् अतिपातिकार्यान्तरव्यासङ्गाद् अपाटवाद् वा यदि स्वयं न पश्येत् तदा विद्वान् ब्राह्मणो नियोज्यः । विद्वत्ता च या व्यवहारविषया सा तदधिकारत एवार्थगृहीता । न हि यो यन् न जानाति स तत्राधिकारम् अर्हति । धर्मशास्त्रपरिज्ञानं तु रागद्वेषदोषेण विपरीतार्थावधारणनिवृत्त्यर्थम् उपयुज्यते । धर्मज्ञस् तु सतोर् अपि रागद्वेषयोः शास्त्रभयेन न[^८८] विपर्येत्य् इत्य् उपयोगवद् धर्मशास्त्रपरिज्ञानम् । व्यवहारदर्शनं तु तदर्थगृहीतम् । येन विना न शक्यते व्यवहारनिर्णयः कर्तुम्, तद्विज्ञानं तदधिकाराक्षिप्तम् । यत् तु ज्ञात्वान्यथा क्रियते तन्निवृत्तिर् उपदेशान्तरविषया । वक्ष्यति चैवमर्थं यत्नान्तरम् अपि: "वेदविदस् त्रयः राज्ञश् च प्रकृतो विद्वान्" (म्ध् ८।११) इति । शास्त्रान्तरपरिज्ञानं तु व्यवहारे ऽधिक्रियमाणस्यादृष्टाय स्यात् । "नियोज्यो विद्वान् स्यात्" इति पठितव्यम् । **नियुञ्ज्याद्** इति, नियुञ्जीत "स्वराद्यन्तोपसृष्टात्" (पत् इ: २९०, ओन् पाण् १।३।६४) इति हि कातीया आत्मनेपदं स्मरन्ति ॥ ८।९ ॥
 
-	**so 'sya kāryāṇi saṃpaśyet sabhyair eva tribhir vṛtaḥ |**
+	**सो ऽस्य कार्याणि संपश्येत् सभ्यैर् एव त्रिभिर् वृतः ।**
 
-**	sabhām eva praviśyāgryām āsīnaḥ sthita eva vā || 8.10 ||**
+**	सभाम् एव प्रविश्याग्र्याम् आसीनः स्थित एव वा ॥ ८।१० ॥**
 
-**sabhyair** iti jātiviśeṣānupādāne 'py uttaratra vipragrahaṇāt (MDh 8.11), "brāhmaṇaiḥ saha" (MDh 8.1) iti ca pūrvatra brāhmaṇagrahaṇāt, brāhmaṇā eva vijñāyante | trigrahaṇaṃ tv ekadvayoḥ pratiṣedhārtham | triprabhṛtayas tv iṣyanta eva | sākṣiprakaraṇe caitad vakṣyāmaḥ | **sabhām eva praviśyāgrām** iti | rājasthānāpattyā sabhāṃ praviśya sthānāsaneṣu[^89] taddharmeṣu punarvacanaṃ pradarśanārthaṃ dharmāntaranivṛttyarthaṃ vā | tena rājasthāne nopaviśati || 8.10 ||
+**सभ्यैर्** इति जातिविशेषानुपादाने ऽप्य् उत्तरत्र विप्रग्रहणात् (म्ध् ८।११), "ब्राह्मणैः सह" (म्ध् ८।१) इति च पूर्वत्र ब्राह्मणग्रहणात्, ब्राह्मणा एव विज्ञायन्ते । त्रिग्रहणं त्व् एकद्वयोः प्रतिषेधार्थम् । त्रिप्रभृतयस् त्व् इष्यन्त एव । साक्षिप्रकरणे चैतद् वक्ष्यामः । **सभाम् एव प्रविश्याग्राम्** इति । राजस्थानापत्त्या सभां प्रविश्य स्थानासनेषु[^८९] तद्धर्मेषु पुनर्वचनं प्रदर्शनार्थं धर्मान्तरनिवृत्त्यर्थं वा । तेन राजस्थाने नोपविशति ॥ ८।१० ॥
 
-	**yasmin deśe niṣīdanti viprā vedavidas trayaḥ |**
+	**यस्मिन् देशे निषीदन्ति विप्रा वेदविदस् त्रयः ।**
 
-**	rājñaś cādhikṛto vidvān brahmaṇas tāṃ sabhāṃ viduḥ || 8.11 ||**
+**	राज्ञश् चाधिकृतो विद्वान् ब्रह्मणस् तां सभां विदुः ॥ ८।११ ॥**
 
-uktaṃ sabhāṃ praviśya vyavahārān paśyed iti | sabhāśabdaś ca loke gṛhaprāsādaviśeṣe vartate "mayena nirmitā divyā sabhā hemapariṣkṛtā" iti | kvacit puruṣaviśeṣasaṃghaṭitā sabheti tannivṛttyarthaṃ sabhāyā lakṣaṇam āha | yatra trayo brāhmaṇā vedavidaḥ saṃnidhīyante, rājñaś ca saṃbandhī prakṛto 'dhikṛto vidvān iti | atha vā prakṛto 'nantaraśloke saṃnihitaḥ | seha sabhābhipretā | brahmagrahaṇaṃ stutyartham | yathā brahmaṇaḥ sabhā niravadyaivam iyam[^90] apīti || 8.11 ||
+उक्तं सभां प्रविश्य व्यवहारान् पश्येद् इति । सभाशब्दश् च लोके गृहप्रासादविशेषे वर्तते "मयेन निर्मिता दिव्या सभा हेमपरिष्कृता" इति । क्वचित् पुरुषविशेषसंघटिता सभेति तन्निवृत्त्यर्थं सभाया लक्षणम् आह । यत्र त्रयो ब्राह्मणा वेदविदः संनिधीयन्ते, राज्ञश् च संबन्धी प्रकृतो ऽधिकृतो विद्वान् इति । अथ वा प्रकृतो ऽनन्तरश्लोके संनिहितः । सेह सभाभिप्रेता । ब्रह्मग्रहणं स्तुत्यर्थम् । यथा ब्रह्मणः सभा निरवद्यैवम् इयम्[^९०] अपीति ॥ ८।११ ॥
 
-	**dharmo viddhas tv adharmeṇa sabhāṃ yatropatiṣṭhate |**
+	**धर्मो विद्धस् त्व् अधर्मेण सभां यत्रोपतिष्ठते ।**
 
-**	śalyaṃ cāsya na kṛntanti viddhās tatra sabhāsadaḥ || 8.12 ||**
+**	शल्यं चास्य न कृन्तन्ति विद्धास् तत्र सभासदः ॥ ८।१२ ॥**
 
-**	sabhā vā na praveṣṭavyā vaktavyaṃ vā samañjasam |**
+**	सभा वा न प्रवेष्टव्या वक्तव्यं वा समञ्जसम् ।**
 
-**	abruvan vibruvan vāpi naro bhavati kilbiṣī || 8.13 ||**
+**	अब्रुवन् विब्रुवन् वापि नरो भवति किल्बिषी ॥ ८।१३ ॥**
 
-anenārthena dvayaṃ vipratiṣidhyate | pratipannādhikāreṇa mithyādarśanaṃ na kartavyam anyena ca kriyamāṇaṃ nopekṣaṇīyam | tatrobhayathā doṣaḥ | **abruvann** anyena viparīte 'nuṣṭhīyamāne tūṣṇīm āsīno hastakṣepeṇa vā śāstranyāyaviruddhaṃ[^91] bruvan **kilbiṣī** pāpabhāg bhavati | tena naiṣā pratyāśā kartavyā | dvitīyaḥ prāḍvivāko mithyā paśyati, sa eva yojyate[^92], ahaṃ tūṣṇīṃbhūta udāsīnaḥ kim ity enasā yokṣya iti | sabhāpraveśaniṣedhena cātra vyavahāradarśanādhikārapratipattiḥ pratiṣidhyate | **sabhā vā na praveṣṭavyeti** | vyavahāradarśanādhikāro na pratipādanīya ity arthaḥ | pratipannaś cet samañjasaṃ vaktavyam | anena tv anadhikṛtasyāpi yadṛcchayā saṃnihitasya mithyāpaśyatsu sabhyeṣu viduṣas tūṇīṃbhāvaṃ necchanti | tathā ca "niyukto vāniyukto vā dharmajño vaktum arhati" | atha rājapuruṣaparyanuyoga āśaṅkyate kim ity anadhikṛto bravīti, tataś ca tatpradeśād apasartavyam | tad idam uktam: "durbalahiṃsāyāṃ cāvimocane[^93] śaktaś cet" iti (GDh 21.19) || 8.13 ||
+अनेनार्थेन द्वयं विप्रतिषिध्यते । प्रतिपन्नाधिकारेण मिथ्यादर्शनं न कर्तव्यम् अन्येन च क्रियमाणं नोपेक्षणीयम् । तत्रोभयथा दोषः । **अब्रुवन्न्** अन्येन विपरीते ऽनुष्ठीयमाने तूष्णीम् आसीनो हस्तक्षेपेण वा शास्त्रन्यायविरुद्धं[^९१] ब्रुवन् **किल्बिषी** पापभाग् भवति । तेन नैषा प्रत्याशा कर्तव्या । द्वितीयः प्राड्विवाको मिथ्या पश्यति, स एव योज्यते[^९२], अहं तूष्णींभूत उदासीनः किम् इत्य् एनसा योक्ष्य इति । सभाप्रवेशनिषेधेन चात्र व्यवहारदर्शनाधिकारप्रतिपत्तिः प्रतिषिध्यते । **सभा वा न प्रवेष्टव्येति** । व्यवहारदर्शनाधिकारो न प्रतिपादनीय इत्य् अर्थः । प्रतिपन्नश् चेत् समञ्जसं वक्तव्यम् । अनेन त्व् अनधिकृतस्यापि यदृच्छया संनिहितस्य मिथ्यापश्यत्सु सभ्येषु विदुषस् तूणींभावं नेच्छन्ति । तथा च "नियुक्तो वानियुक्तो वा धर्मज्ञो वक्तुम् अर्हति" । अथ राजपुरुषपर्यनुयोग आशङ्क्यते किम् इत्य् अनधिकृतो ब्रवीति, ततश् च तत्प्रदेशाद् अपसर्तव्यम् । तद् इदम् उक्तम्: "दुर्बलहिंसायां चाविमोचने[^९३] शक्तश् चेत्" इति (ग्ध् २१।१९) ॥ ८।१३ ॥
 
-	**yatra dharmo hy adharmeṇa satyaṃ yatrānṛtena ca |**
+	**यत्र धर्मो ह्य् अधर्मेण सत्यं यत्रानृतेन च ।**
 
-**	hanyate prekṣamāṇānāṃ hatās tatra sabhāsadaḥ || 8.14 ||**
+**	हन्यते प्रेक्षमाणानां हतास् तत्र सभासदः ॥ ८।१४ ॥**
 
-**dharmaḥ**[^94] śāstranyāyadeśaniyatā vyavasthā | sā ced **adharmeṇa**[^95] tadvyatikramarūpeṇa **hanyate** vināśyate 'rthinā pratyarthinā | tathā **satyam anṛtena** sākṣibhir hanyate | prāḍvivākādayaś ca **prekṣante** na tattvam uddharanti, tatas te **hatāḥ** śavatulyā bhavantīti nindyate | tasmān nārthipratyarthinau viparītam ācarantau sabhāsadbhir upekṣyau, sākṣiṇaś ca | dharmādharmagrahaṇena satyānṛtagrahaṇena vā siddhau,[^96] ślokapūraṇam ubhayor upādānam | ato viṣayabhedena vyākhyātam || 8.14 ||
+**धर्मः**[^९४] शास्त्रन्यायदेशनियता व्यवस्था । सा चेद् **अधर्मेण**[^९५] तद्व्यतिक्रमरूपेण **हन्यते** विनाश्यते ऽर्थिना प्रत्यर्थिना । तथा **सत्यम् अनृतेन** साक्षिभिर् हन्यते । प्राड्विवाकादयश् च **प्रेक्षन्ते** न तत्त्वम् उद्धरन्ति, ततस् ते **हताः** शवतुल्या भवन्तीति निन्द्यते । तस्मान् नार्थिप्रत्यर्थिनौ विपरीतम् आचरन्तौ सभासद्भिर् उपेक्ष्यौ, साक्षिणश् च । धर्माधर्मग्रहणेन सत्यानृतग्रहणेन वा सिद्धौ,[^९६] श्लोकपूरणम् उभयोर् उपादानम् । अतो विषयभेदेन व्याख्यातम् ॥ ८।१४ ॥
 
-	**dharma eva hato hanti dharmo rakṣati rakṣitaḥ |**
+	**धर्म एव हतो हन्ति धर्मो रक्षति रक्षितः ।**
 
-**	tasmād dharmo na hantavyo mā no dharmo hato vadhīt || 8.15 ||**
+**	तस्माद् धर्मो न हन्तव्यो मा नो धर्मो हतो वधीत् ॥ ८।१५ ॥**
 
-na bhayād anyathādarśanaṃ kartavyam, yato **dharmo** vyatikrāntaḥ san **hanti**, no 'rthī[^97] tatsahāyo rājā vā | tathā **dharma eva** pālitaḥ sarvato bhayam apanudati | nāpakartum arthyādayaḥ[^98] kruddhāḥ śaknuvanti | **tasmād** evaṃjānatā,[^99] "sukhaduḥkhe dharmādhīne" iti, **dharmo na hantavyaḥ** iti | yadi vayaṃ dharmaṃ hanmas tadā so 'smān sarpa iva roṣitaḥ pratihantīty ato **dharmo hataḥ** san **mā** asmān **vadhīd** ity ātmaparitrāṇārthaṃ dharmo rakṣitavyaḥ || 8.15 ||
+न भयाद् अन्यथादर्शनं कर्तव्यम्, यतो **धर्मो** व्यतिक्रान्तः सन् **हन्ति**, नो ऽर्थी[^९७] तत्सहायो राजा वा । तथा **धर्म एव** पालितः सर्वतो भयम् अपनुदति । नापकर्तुम् अर्थ्यादयः[^९८] क्रुद्धाः शक्नुवन्ति । **तस्माद्** एवंजानता,[^९९] "सुखदुःखे धर्माधीने" इति, **धर्मो न हन्तव्यः** इति । यदि वयं धर्मं हन्मस् तदा सो ऽस्मान् सर्प इव रोषितः प्रतिहन्तीत्य् अतो **धर्मो हतः** सन् **मा** अस्मान् **वधीद्** इत्य् आत्मपरित्राणार्थं धर्मो रक्षितव्यः ॥ ८।१५ ॥
 
-	**vṛṣo hi bhagavān dharmas tasya yaḥ kurute tv alam |**
+	**वृषो हि भगवान् धर्मस् तस्य यः कुरुते त्व् अलम् ।**
 
-**	vṛṣalaṃ taṃ vidur devās tasmād dharmaṃ na lopayet || 8.16 ||**
+**	वृषलं तं विदुर् देवास् तस्माद् धर्मं न लोपयेत् ॥ ८।१६ ॥**
 
-**vṛṣala**śabdanirvacanena mithyādarśī nindyate | na jātivṛṣalo vṛṣalaḥ, kiṃ tarhi, yo vṛṣasya kāmavarṣiṇo dharmasya alaṃkurute | nivṛttivacanaḥ alaṃśabdaḥ | sa **vṛṣala** ity etam artham **devāḥ** pratipannāḥ | manuṣyās tu yadi jātiśabdam eva manyante, kāmaṃ manyantām, pramāṇatarās tu devāḥ | te cānena pravṛttinimittena vṛṣalaśabdaproyogaṃ manyante | devagrahaṇam arthavādaḥ | tasmāt "śrāddhakāle vṛṣalair na prāptavyam", "hantavyo vṛṣalaś cauraḥ," ityādyāsu kriyāsu mithyādarśī brāhmaṇa eva vṛṣalaśabdena grahītavya iti | ato vṛṣalatvaṃ mā prāpam iti **dharmaṃ na lopayet,** na nāśayed iti | vṛṣalatvādhyāropo nindā || 8.16 ||
+**वृषल**शब्दनिर्वचनेन मिथ्यादर्शी निन्द्यते । न जातिवृषलो वृषलः, किं तर्हि, यो वृषस्य कामवर्षिणो धर्मस्य अलंकुरुते । निवृत्तिवचनः अलंशब्दः । स **वृषल** इत्य् एतम् अर्थम् **देवाः** प्रतिपन्नाः । मनुष्यास् तु यदि जातिशब्दम् एव मन्यन्ते, कामं मन्यन्ताम्, प्रमाणतरास् तु देवाः । ते चानेन प्रवृत्तिनिमित्तेन वृषलशब्दप्रोयोगं मन्यन्ते । देवग्रहणम् अर्थवादः । तस्मात् "श्राद्धकाले वृषलैर् न प्राप्तव्यम्", "हन्तव्यो वृषलश् चौरः," इत्याद्यासु क्रियासु मिथ्यादर्शी ब्राह्मण एव वृषलशब्देन ग्रहीतव्य इति । अतो वृषलत्वं मा प्रापम् इति **धर्मं न लोपयेत्,** न नाशयेद् इति । वृषलत्वाध्यारोपो निन्दा ॥ ८।१६ ॥
 
-	**eka eva suhṛd dharmo nidhane 'py anuyāti yaḥ |**
+	**एक एव सुहृद् धर्मो निधने ऽप्य् अनुयाति यः ।**
 
-**	śrīreṇa samaṃ nāśaṃ sarvam anyad dhi gacchati || 8.17 ||**
+**	श्रीरेण समं नाशं सर्वम् अन्यद् धि गच्छति ॥ ८।१७ ॥**
 
-bhayād dharmātikramo na kartavya ity etat "dharma eva hato hanti" ity anenopadiṣṭam, snehato na kartavya ity anenopadiśyate | yata **ekaḥ suhṛd dharmaḥ,** tatra sneho bhāvanīyaḥ | anyo 'pi manuṣyaḥ suhṛt[^100] kāryam apekṣya jahāti jīvanam | yo 'pi syād atyantamitraṃ tasyāpi sauhārdam ā nidhanāt | dharmas tu mṛtam api puruṣam anveti | ato na suhṛdapekṣayā mithyādarśanam upekṣā vā[^101] kartavyā |
+भयाद् धर्मातिक्रमो न कर्तव्य इत्य् एतत् "धर्म एव हतो हन्ति" इत्य् अनेनोपदिष्टम्, स्नेहतो न कर्तव्य इत्य् अनेनोपदिश्यते । यत **एकः सुहृद् धर्मः,** तत्र स्नेहो भावनीयः । अन्यो ऽपि मनुष्यः सुहृत्[^१००] कार्यम् अपेक्ष्य जहाति जीवनम् । यो ऽपि स्याद् अत्यन्तमित्रं तस्यापि सौहार्दम् आ निधनात् । धर्मस् तु मृतम् अपि पुरुषम् अन्वेति । अतो न सुहृदपेक्षया मिथ्यादर्शनम् उपेक्षा वा[^१०१] कर्तव्या ।
 
-	bhāryā putro mitram arthāś ca riktham 
+	भार्या पुत्रो मित्रम् अर्थाश् च रिक्थम् 
 
-		naśyanty ete dehanāśe narasya |
+		नश्यन्त्य् एते देहनाशे नरस्य ।
 
-	dharmas tv eko nainam ujjhaty ajasraṃ
+	धर्मस् त्व् एको नैनम् उज्झत्य् अजस्रं
 
-		tasmāj jahyāt putradārān na dharmam ||
+		तस्माज् जह्यात् पुत्रदारान् न धर्मम् ॥
 
-yad **anyad** dharmād bhāryādi, tat **sarvaṃ** **śarīreṇa samaṃ** saha **nāśaṃ gacchati** | dharmād anyo mṛtaṃ na paritrātuṃ kaścit samartha ity ataḥ suhṛdbāndhavānurodhād api dharmo na hātavyaḥ || 8.17 ||
+यद् **अन्यद्** धर्माद् भार्यादि, तत् **सर्वं** **शरीरेण समं** सह **नाशं गच्छति** । धर्माद् अन्यो मृतं न परित्रातुं कश्चित् समर्थ इत्य् अतः सुहृद्बान्धवानुरोधाद् अपि धर्मो न हातव्यः ॥ ८।१७ ॥
 
-	**pādo dharmasya kartāraṃ pādaḥ sākṣiṇam ṛcchati |**
+	**पादो धर्मस्य कर्तारं पादः साक्षिणम् ऋच्छति ।**
 
-**	pādaḥ sabhāsadaḥ sarvān pādo rājānam ṛcchati || 8.18 ||**
+**	पादः सभासदः सर्वान् पादो राजानम् ऋच्छति ॥ ८।१८ ॥**
 
-na caiṣā maniṣā kartavyā: "arthinā pratyarthinā vānyatarasya bhūmyādy apahriyate sa eva bhūmyapahāradoṣabhāg bhaviṣyati | vayaṃ tu tadakāriṇaḥ kim iti doṣavantaḥ syāma" yatas tat pāpaṃ caturdhā vibhajyate | arthavādaś cāyam | na hy anyakṛtasyainaso 'nyatra gamanam asti | teṣām api mithyādarśananiṣedhātikramād utpadyate pāpaṃ mithyālambanam, rājñaḥ svayam apaśyato 'py adhikṛtarājasthānīyādidoṣād doṣavattvam | yadi vā[^102] rājādhikṛto mithyācaritena jñāpitaḥ, parājitaṃ duṣṭaṃ na nigṛhṇīte na ca punaḥ samyak nirṇayaṃ karoti, tataḥ so 'pi pāpabhāg bhavati | adhikṛtopalakṣaṇārthaṃ vā rājagrahaṇam | yadā rājā svayaṃ mithyā paśyati tadā duṣyati | yadā rājasthānīyas tadā tasya doṣa ity arthaḥ || 8.18 ||
+न चैषा मनिषा कर्तव्या: "अर्थिना प्रत्यर्थिना वान्यतरस्य भूम्याद्य् अपह्रियते स एव भूम्यपहारदोषभाग् भविष्यति । वयं तु तदकारिणः किम् इति दोषवन्तः स्याम" यतस् तत् पापं चतुर्धा विभज्यते । अर्थवादश् चायम् । न ह्य् अन्यकृतस्यैनसो ऽन्यत्र गमनम् अस्ति । तेषाम् अपि मिथ्यादर्शननिषेधातिक्रमाद् उत्पद्यते पापं मिथ्यालम्बनम्, राज्ञः स्वयम् अपश्यतो ऽप्य् अधिकृतराजस्थानीयादिदोषाद् दोषवत्त्वम् । यदि वा[^१०२] राजाधिकृतो मिथ्याचरितेन ज्ञापितः, पराजितं दुष्टं न निगृह्णीते न च पुनः सम्यक् निर्णयं करोति, ततः सो ऽपि पापभाग् भवति । अधिकृतोपलक्षणार्थं वा राजग्रहणम् । यदा राजा स्वयं मिथ्या पश्यति तदा दुष्यति । यदा राजस्थानीयस् तदा तस्य दोष इत्य् अर्थः ॥ ८।१८ ॥
 
-	**rājā bhavaty anenās tu mucyante ca sabhāsadaḥ |**
+	**राजा भवत्य् अनेनास् तु मुच्यन्ते च सभासदः ।**
 
-**	eno gacchati kartāraṃ nindārho yatra nindyate || 8.19 ||**
+**	एनो गच्छति कर्तारं निन्दार्हो यत्र निन्द्यते ॥ ८।१९ ॥**
 
-eṣa evārtho viparyayeṇocyate | yatra doṣavān doṣaṃ gopayituṃ na labhate prakaṭīkriyate tadīyo doṣaḥ, tatra sarvaṃ sādhu saṃpadyata iti | "yatra dharmaḥ" (MDh 8.14) ity ata ārabhya mithyādarśanopekṣaṇapratiṣedhārthaṃ nindāpraśaṃsābhyāṃ śubhāśubhaphaladarśanārthā arthavādāḥ || 8.19 ||
+एष एवार्थो विपर्ययेणोच्यते । यत्र दोषवान् दोषं गोपयितुं न लभते प्रकटीक्रियते तदीयो दोषः, तत्र सर्वं साधु संपद्यत इति । "यत्र धर्मः" (म्ध् ८।१४) इत्य् अत आरभ्य मिथ्यादर्शनोपेक्षणप्रतिषेधार्थं निन्दाप्रशंसाभ्यां शुभाशुभफलदर्शनार्था अर्थवादाः ॥ ८।१९ ॥
 
-	**jātimātropajīvī vā kāmaṃ syād brāhmaṇabruvaḥ |**
+	**जातिमात्रोपजीवी वा कामं स्याद् ब्राह्मणब्रुवः ।**
 
-**	dharmapravaktā nṛpater na śūdraḥ kathaṃcana || 8.20 ||**
+**	धर्मप्रवक्ता नृपतेर् न शूद्रः कथंचन ॥ ८।२० ॥**
 
-uktaṃ brāhmaṇaiḥ saha dharmanirṇayaṃ kuryāt, mantribhiś ca mantrajñaiḥ | tatra mantriṇāṃ jāter aviśeṣitatvāc chūdrā api sabhāṃ praviṣṭā mantritvād anujñātavyavahāranirṇayās tadratā dharmavyavasthāṃ kathaṃcit saṃskṛtabuddhayo brūyuḥ | na ca sarvatra vyavahāre smṛtiśāstraparijñānam upayujyate, yena tadabhāvād arthaluptatvād anarthakaḥ śūdrapratiṣedha āśaṅkyeta | tathā hi jayaparājayakāraṇāni laukikapramāṇavedyāny eva sākṣyādīni, ayaṃ sākṣī dhārmiko na caitasya kenacit saṃbandhena saṃbandhī | ayaṃ tv asākṣy asakṛd dṛṣṭavyabhicāratvād ity evamādi śakyate vyutpannabuddhinā svayam utprekṣituṃ na smṛtiśāstraikagocaraḥ[^103] | ataḥ prāptasya pratiṣedho 'yaṃ | na ca mantritve purohitavaj jātiniyamaḥ | tathā hi "taiḥ sārdhaṃ cintayet" (MDh 7.56) ity uktvā tato brāhmaṇena saha cintayed iti (MDh 7.58) | tenāyam artho yady api kathaṃcic chūdro nyāyaleśāt samadhigacchet tathāpi rājādhikaraṇe vivadato mantrī nigrahādhikṛto vā na kiṃcit prabrūyāt | pūrvaślokārdhaḥ pratiṣedhaśeṣatayā[^104] vyākhyeyaḥ | na hi jātimātropajīvino vaiduṣyādiguṇarahitasya dharmapravaktṛtvaniyogaḥ śakyo vaktuṃ tasyaiva rūpaparīkṣāyāṃ "tasmād viṣaṃ bhakṣaya mā cāsya gṛhe bhuṅkthā" itivat pratiṣedhaśeṣabhūtam idam anujñānaṃ na punar anujñānam eva | ata eva **kāmam** ity āha | kāmaśabdaprayoge hi vidhitvaṃ vyāhanyate | 
+उक्तं ब्राह्मणैः सह धर्मनिर्णयं कुर्यात्, मन्त्रिभिश् च मन्त्रज्ञैः । तत्र मन्त्रिणां जातेर् अविशेषितत्वाच् छूद्रा अपि सभां प्रविष्टा मन्त्रित्वाद् अनुज्ञातव्यवहारनिर्णयास् तद्रता धर्मव्यवस्थां कथंचित् संस्कृतबुद्धयो ब्रूयुः । न च सर्वत्र व्यवहारे स्मृतिशास्त्रपरिज्ञानम् उपयुज्यते, येन तदभावाद् अर्थलुप्तत्वाद् अनर्थकः शूद्रप्रतिषेध आशङ्क्येत । तथा हि जयपराजयकारणानि लौकिकप्रमाणवेद्यान्य् एव साक्ष्यादीनि, अयं साक्षी धार्मिको न चैतस्य केनचित् संबन्धेन संबन्धी । अयं त्व् असाक्ष्य् असकृद् दृष्टव्यभिचारत्वाद् इत्य् एवमादि शक्यते व्युत्पन्नबुद्धिना स्वयम् उत्प्रेक्षितुं न स्मृतिशास्त्रैकगोचरः[^१०३] । अतः प्राप्तस्य प्रतिषेधो ऽयं । न च मन्त्रित्वे पुरोहितवज् जातिनियमः । तथा हि "तैः सार्धं चिन्तयेत्" (म्ध् ७।५६) इत्य् उक्त्वा ततो ब्राह्मणेन सह चिन्तयेद् इति (म्ध् ७।५८) । तेनायम् अर्थो यद्य् अपि कथंचिच् छूद्रो न्यायलेशात् समधिगच्छेत् तथापि राजाधिकरणे विवदतो मन्त्री निग्रहाधिकृतो वा न किंचित् प्रब्रूयात् । पूर्वश्लोकार्धः प्रतिषेधशेषतया[^१०४] व्याख्येयः । न हि जातिमात्रोपजीविनो वैदुष्यादिगुणरहितस्य धर्मप्रवक्तृत्वनियोगः शक्यो वक्तुं तस्यैव रूपपरीक्षायां "तस्माद् विषं भक्षय मा चास्य गृहे भुङ्क्था" इतिवत् प्रतिषेधशेषभूतम् इदम् अनुज्ञानं न पुनर् अनुज्ञानम् एव । अत एव **कामम्** इत्य् आह । कामशब्दप्रयोगे हि विधित्वं व्याहन्यते । 
 
-	<span style="text-decoration:underline;">anye tu</span> bruvate | brāhmaṇasya pravaktṛtvavidhānāt tadā niyojyo vidvān syād brāhmaṇa iti kṣatriyādayas trayo 'pi varṇā niṣiddhās tatreha punaḥ śūdrapratiṣedho vidvadbrāhmaṇābhāve kṣatriyavaiśayor abhyanujñānārtha iti | śeṣaṃ samānam | 
+	<span style="text-decoration:underline;">अन्ये तु</span> ब्रुवते । ब्राह्मणस्य प्रवक्तृत्वविधानात् तदा नियोज्यो विद्वान् स्याद् ब्राह्मण इति क्षत्रियादयस् त्रयो ऽपि वर्णा निषिद्धास् तत्रेह पुनः शूद्रप्रतिषेधो विद्वद्ब्राह्मणाभावे क्षत्रियवैशयोर् अभ्यनुज्ञानार्थ इति । शेषं समानम् । 
 
-	**jātimātram upajīvatīti** mātraśabdo 'vadhāraṇe | brāhmaṇajātim eva kevalām upāśritya jīvati nādhyayanādīn guṇaviśeṣān nirguṇatvāt | **bruva**śabdaḥ kutsāyām || 8.20 ||
+	**जातिमात्रम् उपजीवतीति** मात्रशब्दो ऽवधारणे । ब्राह्मणजातिम् एव केवलाम् उपाश्रित्य जीवति नाध्ययनादीन् गुणविशेषान् निर्गुणत्वात् । **ब्रुव**शब्दः कुत्सायाम् ॥ ८।२० ॥
 
-	**yasya śūdras tu kurute rājño dharmavivecanam |**
+	**यस्य शूद्रस् तु कुरुते राज्ञो धर्मविवेचनम् ।**
 
-**	tasya sīdati tad rāṣṭraṃ paṅke gaur iva paśyataḥ || 8.21 ||**
+**	तस्य सीदति तद् राष्ट्रं पङ्के गौर् इव पश्यतः ॥ ८।२१ ॥**
 
-pūrvavidhiśeṣo 'yam arthavādaḥ | **yasya rājñaḥ śūdro dharmavivecanaṃ** dharmanirṇayaṃ karoti, **tasya sīdati** naśyati **rāṣṭraṃ** prajāḥ, kardame **gaur iva** || 8.21 ||
+पूर्वविधिशेषो ऽयम् अर्थवादः । **यस्य राज्ञः शूद्रो धर्मविवेचनं** धर्मनिर्णयं करोति, **तस्य सीदति** नश्यति **राष्ट्रं** प्रजाः, कर्दमे **गौर् इव** ॥ ८।२१ ॥
 
-	**yad rāṣṭraṃ śūdrabhūyiṣṭhaṃ nāstikākrāntam advijam |**
+	**यद् राष्ट्रं शूद्रभूयिष्ठं नास्तिकाक्रान्तम् अद्विजम् ।**
 
-**	vinaśyaty āśu tat kṛtsnaṃ durbhikṣavyādhipīḍitam || 8.22 ||**
+**	विनश्यत्य् आशु तत् कृत्स्नं दुर्भिक्षव्याधिपीडितम् ॥ ८।२२ ॥**
 
-ayam api pūrvavad arthavāda eva | prakaraṇāc ca śūdrabhūyiṣṭhatā vivādanirṇaye tu[^105] śūdraviṣayā draṣṭavyā | yatra śūdrā bhūyāṃso vivādanirṇayakārās tad **rāṣṭram āśu vinaśyati** durbhikṣavyādhipīḍābhiḥ | rāṣṭranāśe ca rāṣṭrapater nāśa ity uktaṃ bhavati | **nāstikākrāntam** iti dṛṣṭāntaḥ | yathā nāstikaiḥ paralokāpavādibhir lokāyatikādyair ākrāntam adhiṣṭhitam ataś ca 
+अयम् अपि पूर्ववद् अर्थवाद एव । प्रकरणाच् च शूद्रभूयिष्ठता विवादनिर्णये तु[^१०५] शूद्रविषया द्रष्टव्या । यत्र शूद्रा भूयांसो विवादनिर्णयकारास् तद् **राष्ट्रम् आशु विनश्यति** दुर्भिक्षव्याधिपीडाभिः । राष्ट्रनाशे च राष्ट्रपतेर् नाश इत्य् उक्तं भवति । **नास्तिकाक्रान्तम्** इति दृष्टान्तः । यथा नास्तिकैः परलोकापवादिभिर् लोकायतिकाद्यैर् आक्रान्तम् अधिष्ठितम् अतश् च 
 
-**advijam** | na hi nāstikānāṃ brāhmaṇādibhedo yathārthaḥ saṃkīrṇatvāt | tad uktaṃ vaidyavaṇigvyapadeśādivad brāhmaṇādayaḥ | yatra vā dharmasaṃkaṭe tu na dvijāḥ pramāṇīkriyante tad **advijam** || 8.22 ||
+**अद्विजम्** । न हि नास्तिकानां ब्राह्मणादिभेदो यथार्थः संकीर्णत्वात् । तद् उक्तं वैद्यवणिग्व्यपदेशादिवद् ब्राह्मणादयः । यत्र वा धर्मसंकटे तु न द्विजाः प्रमाणीक्रियन्ते तद् **अद्विजम्** ॥ ८।२२ ॥
 
-	**dharmāsanam adhiṣṭhāya saṃvītāṅgaḥ samāhitaḥ |**
+	**धर्मासनम् अधिष्ठाय संवीताङ्गः समाहितः ।**
 
-**	praṇamya lokapālebhyaḥ kāryadarśanam ārabhet || 8.23 ||**
+**	प्रणम्य लोकपालेभ्यः कार्यदर्शनम् आरभेत् ॥ ८।२३ ॥**
 
-dharmaḥ pradhānaḥ yasminn āsane bhavati tad **dharmāsanam** | rājāsane hi rājyasthityānuguṇyenārtham eva pradhānīkaroti nyakkṛtyāpi dharmam | vyavahāranirṇaye tu dharmam eva pradhānaṃ āśrayed ity arthaḥ, na punar āśrayabhedo 'nena jñāpyate | **saṃvītāṅgaḥ** vastrādinā sthagitasarīraḥ | **praṇamya lokapālebhya** indrādyaṣṭau lokapālās tān namaskṛtya **kāryadarśanam ārabhetety** adṛṣṭārtham etad dvayam aṅgasaṃvaraṇaṃ lokapālapraṇāmaś ca | **samāhitaḥ** ananyacittaḥ kāryadarśane | evaṃ hi dṛṣṭārthaṃ bhavati | praṇāmaviśeṣaṇaṃ vā samāhitagrahaṇam | yady apy atra kiṃcid uktam eva pratibhāti tathāpi padyagranthatvān nātīva paunaruktyam | **lokapālebhya** iti caturthī saṃpradāne | kathaṃ | kriyāgrahaṇaṃ saṃpradānasūtre coditam "śrāddhāya nigṛhṇate" "patye śete" (Pat I: 330) ityādyartham | na ca kriyāgrahaṇaṃ gṛhṇātyādiviṣayam eva, bhāṣye 'nuktatvāt || 8.23 ||
+धर्मः प्रधानः यस्मिन्न् आसने भवति तद् **धर्मासनम्** । राजासने हि राज्यस्थित्यानुगुण्येनार्थम् एव प्रधानीकरोति न्यक्कृत्यापि धर्मम् । व्यवहारनिर्णये तु धर्मम् एव प्रधानं आश्रयेद् इत्य् अर्थः, न पुनर् आश्रयभेदो ऽनेन ज्ञाप्यते । **संवीताङ्गः** वस्त्रादिना स्थगितसरीरः । **प्रणम्य लोकपालेभ्य** इन्द्राद्यष्टौ लोकपालास् तान् नमस्कृत्य **कार्यदर्शनम् आरभेतेत्य्** अदृष्टार्थम् एतद् द्वयम् अङ्गसंवरणं लोकपालप्रणामश् च । **समाहितः** अनन्यचित्तः कार्यदर्शने । एवं हि दृष्टार्थं भवति । प्रणामविशेषणं वा समाहितग्रहणम् । यद्य् अप्य् अत्र किंचिद् उक्तम् एव प्रतिभाति तथापि पद्यग्रन्थत्वान् नातीव पौनरुक्त्यम् । **लोकपालेभ्य** इति चतुर्थी संप्रदाने । कथं । क्रियाग्रहणं संप्रदानसूत्रे चोदितम् "श्राद्धाय निगृह्णते" "पत्ये शेते" (पत् इ: ३३०) इत्याद्यर्थम् । न च क्रियाग्रहणं गृह्णात्यादिविषयम् एव, भाष्ये ऽनुक्तत्वात् ॥ ८।२३ ॥
 
-	**arthānarthāv ubhau buddhvā dharmādharmau ca kevalau |**
+	**अर्थानर्थाव् उभौ बुद्ध्वा धर्माधर्मौ च केवलौ ।**
 
-**	varṇakrameṇa sarvāṇi paśyet kāryāṇi kāryiṇām || 8.24 ||**
+**	वर्णक्रमेण सर्वाणि पश्येत् कार्याणि कार्यिणाम् ॥ ८।२४ ॥**
 
-**dharmādharmav** eva **kevalāv arthānarthau:** na gohiraṇyādilābho 'rthas tadviparyayo vānarthaḥ | kiṃ tarhi, dharma evārtho 'narthaś cādharma iti **buddhvā** hṛdi niścitya **kāryāṇi paśyet** | atha vārthānarthāv api boddhavyau dharmādharmāv api | dharmasya sāratā boddhavyārthasya phalgutā | atha vā yatra mahān anarthaḥ svalpaś cādharmas tatrānarthaṃ pariharet | śakyo hi mahatārtheneṣad adharmo dānaprāyaścittādinā nirākartum | saṃnipāte ca vyavahāriṇāṃ bahūnāṃ varṇakrama āśrayitavyaḥ | eṣa ca darśane kramo varṇānāṃ yadā sarveṣāṃ[^106] tulyapīḍā bhavati | yadā tv avaravarṇasyāpy ātyayikaṃ kāryaṃ mahad vā tadā "yasya cātyayikā pīḍā" ity anena nyāyena tad eva prathamaṃ paśyet na kramam ādriyeta | rājyasthityartho hi vyavahāranirṇaya ity uktam ato na yathāśrutam āśrayaṇīyam || 8.24 ||
+**धर्माधर्मव्** एव **केवलाव् अर्थानर्थौ:** न गोहिरण्यादिलाभो ऽर्थस् तद्विपर्ययो वानर्थः । किं तर्हि, धर्म एवार्थो ऽनर्थश् चाधर्म इति **बुद्ध्वा** हृदि निश्चित्य **कार्याणि पश्येत्** । अथ वार्थानर्थाव् अपि बोद्धव्यौ धर्माधर्माव् अपि । धर्मस्य सारता बोद्धव्यार्थस्य फल्गुता । अथ वा यत्र महान् अनर्थः स्वल्पश् चाधर्मस् तत्रानर्थं परिहरेत् । शक्यो हि महतार्थेनेषद् अधर्मो दानप्रायश्चित्तादिना निराकर्तुम् । संनिपाते च व्यवहारिणां बहूनां वर्णक्रम आश्रयितव्यः । एष च दर्शने क्रमो वर्णानां यदा सर्वेषां[^१०६] तुल्यपीडा भवति । यदा त्व् अवरवर्णस्याप्य् आत्ययिकं कार्यं महद् वा तदा "यस्य चात्ययिका पीडा" इत्य् अनेन न्यायेन तद् एव प्रथमं पश्येत् न क्रमम् आद्रियेत । राज्यस्थित्यर्थो हि व्यवहारनिर्णय इत्य् उक्तम् अतो न यथाश्रुतम् आश्रयणीयम् ॥ ८।२४ ॥
 
-	**bāhyair vibhāvayel liṅgair bhāvam antargataṃ nṛṇām |**
+	**बाह्यैर् विभावयेल् लिङ्गैर् भावम् अन्तर्गतं नृणाम् ।**
 
-**	svaravarṇeṅgitākāraiś cakṣuṣā ceṣṭitena ca || 8.25 ||**
+**	स्वरवर्णेङ्गिताकारैश् चक्षुषा चेष्टितेन च ॥ ८।२५ ॥**
 
-tathā cedam āha | anumānenāpi satyānṛtavāditā vyavahārataḥ sākṣiṇāṃ ca niścetavyā iti ślokārthaḥ | ataś ca svarādigrahaṇaṃ pradarśanārtham | tena yan niścitaliṅgaṃ[^107] tena paricchindyād ity uktaṃ bhavati, na punaḥ svarādibhir eva, savyabhicāritvāt teṣām | anucitasabhāpreveśā hi mahāprakṛtidarśanena satyakāriṇo 'pi svabhāvato vikriyante | pragalbhās tu saṃvṛtākārā bhavanti | svaraś ca varṇaś ceṅgitaṃ ca svaravarṇeṅgitāni, teṣām ākārāḥ **svaravarṇeṅgitākārāḥ** | ākāro vikāraḥ | svābhāvikānāṃ hi svarādīnām anyathātvam | tair **vibhāvayen** niścinuyāt | **bhāvam** abhiprāyam antargataṃ manuṣyāṇāṃ vivādisākṣyādīnām | tatra svarasya vikāro vāci gadgadaruditādi | varṇasya gātrarūpaviparyayādi | iṅgitaṃ svedavepathuromāñcādi | **cakṣuṣā** saṃbhramakrodhadṛṣṭipātena | **ceṣṭitena** hastanikṣepabhrūvikṣepādinā[^108] | svasaṃvedam[^109] caitat, yad gūhyamānam apy abhiprāyaṃ svarādayaḥ prakāśayanti nipuṇato lakṣyamāṇāḥ | yataḥ prasiddham eteṣāṃ gūḍḥābhiprāyaprakaṭanasāmarthyam || 8.25 ||
+तथा चेदम् आह । अनुमानेनापि सत्यानृतवादिता व्यवहारतः साक्षिणां च निश्चेतव्या इति श्लोकार्थः । अतश् च स्वरादिग्रहणं प्रदर्शनार्थम् । तेन यन् निश्चितलिङ्गं[^१०७] तेन परिच्छिन्द्याद् इत्य् उक्तं भवति, न पुनः स्वरादिभिर् एव, सव्यभिचारित्वात् तेषाम् । अनुचितसभाप्रेवेशा हि महाप्रकृतिदर्शनेन सत्यकारिणो ऽपि स्वभावतो विक्रियन्ते । प्रगल्भास् तु संवृताकारा भवन्ति । स्वरश् च वर्णश् चेङ्गितं च स्वरवर्णेङ्गितानि, तेषाम् आकाराः **स्वरवर्णेङ्गिताकाराः** । आकारो विकारः । स्वाभाविकानां हि स्वरादीनाम् अन्यथात्वम् । तैर् **विभावयेन्** निश्चिनुयात् । **भावम्** अभिप्रायम् अन्तर्गतं मनुष्याणां विवादिसाक्ष्यादीनाम् । तत्र स्वरस्य विकारो वाचि गद्गदरुदितादि । वर्णस्य गात्ररूपविपर्ययादि । इङ्गितं स्वेदवेपथुरोमाञ्चादि । **चक्षुषा** संभ्रमक्रोधदृष्टिपातेन । **चेष्टितेन** हस्तनिक्षेपभ्रूविक्षेपादिना[^१०८] । स्वसंवेदम्[^१०९] चैतत्, यद् गूह्यमानम् अप्य् अभिप्रायं स्वरादयः प्रकाशयन्ति निपुणतो लक्ष्यमाणाः । यतः प्रसिद्धम् एतेषां गूड्ःआभिप्रायप्रकटनसामर्थ्यम् ॥ ८।२५ ॥
 
-	**ākārair iṅgitair gatyā ceṣṭayā bhāṣitena ca |**
+	**आकारैर् इङ्गितैर् गत्या चेष्टया भाषितेन च ।**
 
-**	netravaktravikāraiś ca gṛhyate 'ntargataṃ manaḥ || 8.26 ||**
+**	नेत्रवक्त्रविकारैश् च गृह्यते ऽन्तर्गतं मनः ॥ ८।२६ ॥**
 
-tathā hi, loke[^110] dṛṣṭaśaktitānena[^111] ślokena svarādīnāṃ pūrvoktārthādhigamena darśayatīty apaunaruktyam | tatrākriyante vikrayanta ity **ākārā** **iṅgitā**dayaḥ | **iṅgitaṃ** vyākhyātam | vyaktibhedād bahuvacanam | **gatiḥ** pūrvaślokād atrādhikā | sā praskhalantī svabhāvato 'nyathābhūtā | **bhāṣītaṃ** paurvāparyaviruddhaṃ vacanam | **vaktravikāra** āsyaviśeṣādiḥ | śeṣaṃ pūrvaśloka eva vyākhyātam | etair vikṛtair **antargataṃ** cittaṃ laukikair anyatrāpi gṛhyata iti samāsārthaḥ || 8.26 ||
+तथा हि, लोके[^११०] दृष्टशक्तितानेन[^१११] श्लोकेन स्वरादीनां पूर्वोक्तार्थाधिगमेन दर्शयतीत्य् अपौनरुक्त्यम् । तत्राक्रियन्ते विक्रयन्त इत्य् **आकारा** **इङ्गिता**दयः । **इङ्गितं** व्याख्यातम् । व्यक्तिभेदाद् बहुवचनम् । **गतिः** पूर्वश्लोकाद् अत्राधिका । सा प्रस्खलन्ती स्वभावतो ऽन्यथाभूता । **भाषीतं** पौर्वापर्यविरुद्धं वचनम् । **वक्त्रविकार** आस्यविशेषादिः । शेषं पूर्वश्लोक एव व्याख्यातम् । एतैर् विकृतैर् **अन्तर्गतं** चित्तं लौकिकैर् अन्यत्रापि गृह्यत इति समासार्थः ॥ ८।२६ ॥
 
-	**bāladāyādikaṃ rikthaṃ tāvad rājānupālayet |**
+	**बालदायादिकं रिक्थं तावद् राजानुपालयेत् ।**
 
-**	yāvat sa syāt samāvṛtto yāvad vātītaśaiśavaḥ || 8.27 ||**
+**	यावत् स स्यात् समावृत्तो यावद् वातीतशैशवः ॥ ८।२७ ॥**
 
-<span style="text-decoration:underline;">nanu</span> ca vyavahāradarśanaṃ vaktavyatayā prastutam | tatra kaḥ prasaṅgo bāladhanarakṣāyāḥ | 
+<span style="text-decoration:underline;">ननु</span> च व्यवहारदर्शनं वक्तव्यतया प्रस्तुतम् । तत्र कः प्रसङ्गो बालधनरक्षायाः । 
 
-	<span style="text-decoration:underline;">ucyate</span> | vivādapadatām evaitad viṣayān nivartayitum idam ārabhyate[^112] | bāladhanaṃ rājñā svadhanavat paripālanīyam | anyathā pitṛvyādibāndhavā mayedaṃ rakṣaṇīyaṃ mayedam iti vivaderan | na cānyaḥ prasaṅgo 'sti | āśaṅkyamānavyavahāravac ca | na kevaleṣu rājadharmeṣūpadiśyate ato 'sminn evāvasare vaktavyam[^113] | bālo dāyādo 'sya tad idaṃ **bāladāyādikam** | dāyādaḥ svāmy atrocyate | bālasvāmikaṃ dhanaṃ **tāvad** **rājā** rakṣed **yāvad** asau **samāvṛttaḥ** gurukulāt pratyāgataḥ **yāvad vātītaśaiśavaḥ** atikrāntabālabhāvaḥ | ayaṃ ca vikalpaḥ | yo gṛhaśaiśavo bhavati tadartham atītaśaiśavam ucyate | yas tu vratakaḥ sa nivṛtte 'pi śaiśave[^114] ā samāvartanāt pratipālyadhanaḥ syāt | atha vā dvijātīnāṃ samāvartanam avadhiḥ, anyeṣāṃ śaiśavātyayaḥ || 8.27 ||
+	<span style="text-decoration:underline;">उच्यते</span> । विवादपदताम् एवैतद् विषयान् निवर्तयितुम् इदम् आरभ्यते[^११२] । बालधनं राज्ञा स्वधनवत् परिपालनीयम् । अन्यथा पितृव्यादिबान्धवा मयेदं रक्षणीयं मयेदम् इति विवदेरन् । न चान्यः प्रसङ्गो ऽस्ति । आशङ्क्यमानव्यवहारवच् च । न केवलेषु राजधर्मेषूपदिश्यते अतो ऽस्मिन्न् एवावसरे वक्तव्यम्[^११३] । बालो दायादो ऽस्य तद् इदं **बालदायादिकम्** । दायादः स्वाम्य् अत्रोच्यते । बालस्वामिकं धनं **तावद्** **राजा** रक्षेद् **यावद्** असौ **समावृत्तः** गुरुकुलात् प्रत्यागतः **यावद् वातीतशैशवः** अतिक्रान्तबालभावः । अयं च विकल्पः । यो गृहशैशवो भवति तदर्थम् अतीतशैशवम् उच्यते । यस् तु व्रतकः स निवृत्ते ऽपि शैशवे[^११४] आ समावर्तनात् प्रतिपाल्यधनः स्यात् । अथ वा द्विजातीनां समावर्तनम् अवधिः, अन्येषां शैशवात्ययः ॥ ८।२७ ॥
 
-	**vaśāputrāsu caivaṃ syād rakṣaṇaṃ niṣkulāsu ca |**
+	**वशापुत्रासु चैवं स्याद् रक्षणं निष्कुलासु च ।**
 
-**	pativratāsu ca strīṣu vidhavāsv āturāsu ca || 8.28 ||**[^115]
+**	पतिव्रतासु च स्त्रीषु विधवास्व् आतुरासु च ॥ ८।२८ ॥**[^११५]
 
-yaḥ kaścid anāthas tasya sarvasya dhanaṃ rājā yathāvat parirakṣet | tathā codāharaṇamātraṃ **vaśā**dayaḥ | evaṃ prajāpālanam anuṣṭhitaṃ bhavati | pūrvas tu ślokaḥ kālaniyamārthaḥ | **vaśā** vandhyā | **aputrā** asamarthaputrā avidyamānaputrā durgataputrā vā | vaśāś cāputrāś ceti dvandvaḥ | 
+यः कश्चिद् अनाथस् तस्य सर्वस्य धनं राजा यथावत् परिरक्षेत् । तथा चोदाहरणमात्रं **वशा**दयः । एवं प्रजापालनम् अनुष्ठितं भवति । पूर्वस् तु श्लोकः कालनियमार्थः । **वशा** वन्ध्या । **अपुत्रा** असमर्थपुत्रा अविद्यमानपुत्रा दुर्गतपुत्रा वा । वशाश् चापुत्राश् चेति द्वन्द्वः । 
 
-	<span style="text-decoration:underline;">nanu</span> ca vaśāpy aputraiva | 
+	<span style="text-decoration:underline;">ननु</span> च वशाप्य् अपुत्रैव । 
 
-	<span style="text-decoration:underline;">satyam</span> | ubhayopādānaṃ tu saty api bhartari tasyāḥ saṃrakṣaṇārtham | tasyāṃ hy adhivinnāyāṃ bhartā nirapekṣo bhavati | 
+	<span style="text-decoration:underline;">सत्यम्</span> । उभयोपादानं तु सत्य् अपि भर्तरि तस्याः संरक्षणार्थम् । तस्यां ह्य् अधिविन्नायां भर्ता निरपेक्षो भवति । 
 
-	**niṣkulā**grahaṇaṃ tāsāṃ viśeṣaṇam | yāsāṃ na kaścid devarapitṛvyamātulādiḥ[^116] parirakṣako 'sti, strītvāc ca svayam asamarthāḥ, bāndhavās tu matsariṇaḥ, tāsāṃ etad[^117] ucyate | bandhubhir hi strīṇāṃ śīlaśarīradhanāni rakṣitavyāni | tad uktam |
+	**निष्कुला**ग्रहणं तासां विशेषणम् । यासां न कश्चिद् देवरपितृव्यमातुलादिः[^११६] परिरक्षको ऽस्ति, स्त्रीत्वाच् च स्वयम् असमर्थाः, बान्धवास् तु मत्सरिणः, तासां एतद्[^११७] उच्यते । बन्धुभिर् हि स्त्रीणां शीलशरीरधनानि रक्षितव्यानि । तद् उक्तम् ।
 
-	viniyogo 'sti rakṣāsu bharaṇe ca sa īśvaraḥ |
+	विनियोगो ऽस्ति रक्षासु भरणे च स ईश्वरः ।
 
-	parikṣīṇe patikule nirmanuṣye nirāśraye ||
+	परिक्षीणे पतिकुले निर्मनुष्ये निराश्रये ॥
 
-	tatsapiṇḍeṣu vāsatsu pitṛpakṣaḥ prabhuḥ striyāḥ |
+	तत्सपिण्डेषु वासत्सु पितृपक्षः प्रभुः स्त्रियाः ।
 
-	pakṣadvayāvasāne tu rājā bhartā prabhuḥ striyāḥ || (NSm 13.27–29)
+	पक्षद्वयावसाने तु राजा भर्ता प्रभुः स्त्रियाः ॥ (न्स्म् १३।२७–२९)
 
-	yā tu svayam eva kathaṃcic chaktā, na tatra bāndhavānāṃ vyāpāro 'sti | ata evāha: **āturāsv** iti | asāmarthyam etena lakṣyate |
+	या तु स्वयम् एव कथंचिच् छक्ता, न तत्र बान्धवानां व्यापारो ऽस्ति । अत एवाह: **आतुरास्व्** इति । असामर्थ्यम् एतेन लक्ष्यते ।
 
-	<span style="text-decoration:underline;">anyais</span> tv āturabhartṛkā āturā vyākhyātā | avidhavāpi bhartur asāmarthyād rājñaiva rakṣyā syād iti | nirmanuṣyāṇām etat | kulaṃ bandhujātaṃ yāsāṃ nāsti tāḥ **niṣkulāḥ** |
+	<span style="text-decoration:underline;">अन्यैस्</span> त्व् आतुरभर्तृका आतुरा व्याख्याता । अविधवापि भर्तुर् असामर्थ्याद् राज्ञैव रक्ष्या स्याद् इति । निर्मनुष्याणाम् एतत् । कुलं बन्धुजातं यासां नास्ति ताः **निष्कुलाः** ।
 
-	<span style="text-decoration:underline;">anye</span> tu kulaṭāṃ niṣkulām āhuḥ | tāsām api veśādyupārjitaṃ dhanam apatitānāṃ rājñā rakṣyam | asmiṃś ca pakṣe svatantraniṣkulāgrahaṇam |
+	<span style="text-decoration:underline;">अन्ये</span> तु कुलटां निष्कुलाम् आहुः । तासाम् अपि वेशाद्युपार्जितं धनम् अपतितानां राज्ञा रक्ष्यम् । अस्मिंश् च पक्षे स्वतन्त्रनिष्कुलाग्रहणम् ।
 
-	**pativratāsu** **vidhavāsu** | mṛtabhartṛkā vidhavā | dhava iti bhartṛnāma | tadvirahitā vidhavā | sā[^118] cet pativratā bhavati[^119] | tadā sā rakṣyadhanā[^120] | vyabhicāraratānāṃ tu strīdhanānarhatvaṃ smṛtyantare paṭhyate:
+	**पतिव्रतासु** **विधवासु** । मृतभर्तृका विधवा । धव इति भर्तृनाम । तद्विरहिता विधवा । सा[^११८] चेत् पतिव्रता भवति[^११९] । तदा सा रक्ष्यधना[^१२०] । व्यभिचाररतानां तु स्त्रीधनानर्हत्वं स्मृत्यन्तरे पठ्यते:
 
-	apakārakriyāyuktā nirlajjā cārthanāśikā |
+	अपकारक्रियायुक्ता निर्लज्जा चार्थनाशिका ।
 
-	vyabhicāraratā yā ca strīdhanaṃ na tu sārhati || iti |
+	व्यभिचाररता या च स्त्रीधनं न तु सार्हति ॥ इति ।
 
-tasyās tu niṣkāśanaṃ vihitam | niṣkāśanaṃ ca pradhānaveśmano bahiravasthāpanam, na tu nirvāsanam eva | yataḥ patitānām api tāsāṃ gṛhāntike vāso bhakācchādanamātradānaṃ ca vihitam:
+तस्यास् तु निष्काशनं विहितम् । निष्काशनं च प्रधानवेश्मनो बहिरवस्थापनम्, न तु निर्वासनम् एव । यतः पतितानाम् अपि तासां गृहान्तिके वासो भकाच्छादनमात्रदानं च विहितम्:
 
-	evam eva vidhiṃ kuryād yoṣitsu patitāsv api |
+	एवम् एव विधिं कुर्याद् योषित्सु पतितास्व् अपि ।
 
-	vastrānnapānaṃ deyaṃ ca vaseyuś ca gṛhāntike || (MDh 8.187)
+	वस्त्रान्नपानं देयं च वसेयुश् च गृहान्तिके ॥ (म्ध् ८।१८७)
 
-tena yaḥ kaścit strīṇāṃ nirvāsanavidhiḥ "strīdhanaṃ dravyasarvasvam" ityādiṣu śrūyate, sa evaṃviṣaya eva draṣṭavyaḥ | tathāpi yādvad bhikṣotsarpaṇādinā kiṃcid arjitaṃ tad arhaty eva, na bāndhavā apahareyuḥ | iha tv asminn eva nimitte ādhivedanaṃ vihitam, na tu strīdhanāpahāraḥ | tathā hy āha:
+तेन यः कश्चित् स्त्रीणां निर्वासनविधिः "स्त्रीधनं द्रव्यसर्वस्वम्" इत्यादिषु श्रूयते, स एवंविषय एव द्रष्टव्यः । तथापि याद्वद् भिक्षोत्सर्पणादिना किंचिद् अर्जितं तद् अर्हत्य् एव, न बान्धवा अपहरेयुः । इह त्व् अस्मिन्न् एव निमित्ते आधिवेदनं विहितम्, न तु स्त्रीधनापहारः । तथा ह्य् आह:
 
-	madyapāsādhuvṛttā ca pratikūlā ca yā bhavet |
+	मद्यपासाधुवृत्ता च प्रतिकूला च या भवेत् ।
 
-	vyādhitā cādhivettavyā hiṃsrārthaghnī ca sarvadā || (MDh 9.80)
+	व्याधिता चाधिवेत्तव्या हिंस्रार्थघ्नी च सर्वदा ॥ (म्ध् ९।८०)
 
-ataś ca mānavasmṛtibalena ca "strīdhanaṃ na tu sārhati" ity eṣā smṛtir eva vyākhyāyate | ādhivedanikaṃ strīdhanam eṣā nārhati, naitasyai deyam ity arthaḥ | yad uktam: "adhivinnastriyai dadyād ādhivedanikaṃ samam" (YDh 2.152) iti, na tu prāgdattam asyā apahartavyam | 
+अतश् च मानवस्मृतिबलेन च "स्त्रीधनं न तु सार्हति" इत्य् एषा स्मृतिर् एव व्याख्यायते । आधिवेदनिकं स्त्रीधनम् एषा नार्हति, नैतस्यै देयम् इत्य् अर्थः । यद् उक्तम्: "अधिविन्नस्त्रियै दद्याद् आधिवेदनिकं समम्" (य्ध् २।१५२) इति, न तु प्राग्दत्तम् अस्या अपहर्तव्यम् । 
 
-	<span style="text-decoration:underline;">vayaṃ</span> tu brūmaḥ | puruṣadveṣiṇyā vyabhicāraratāyāś ca yukta evāpahāraḥ | yata ihāpy uktam:
+	<span style="text-decoration:underline;">वयं</span> तु ब्रूमः । पुरुषद्वेषिण्या व्यभिचाररतायाश् च युक्त एवापहारः । यत इहाप्य् उक्तम्:
 
-	atikrāmet pramattaṃ yā mattaṃ rogārtam eva vā |
+	अतिक्रामेत् प्रमत्तं या मत्तं रोगार्तम् एव वा ।
 
-	sa trīn māsān parityājyā vibhūṣaṇaparicchadā || (MDh 9.78)
+	स त्रीन् मासान् परित्याज्या विभूषणपरिच्छदा ॥ (म्ध् ९।७८)
 
-bhūṣaṇaparicchadair[^121] viyuktā kartavyety arthaḥ || 8.28 ||
+भूषणपरिच्छदैर्[^१२१] वियुक्ता कर्तव्येत्य् अर्थः ॥ ८।२८ ॥
 
-	**jīvantīnāṃ tu tāsāṃ ye tad dhareyuḥ svabāndhavāḥ |**
+	**जीवन्तीनां तु तासां ये तद् धरेयुः स्वबान्धवाः ।**
 
-**	tāñ chiṣyāc cauradaṇḍena dhārmikaḥ pṛthivīpatiḥ || 8.29 ||**
+**	ताञ् छिष्याच् चौरदण्डेन धार्मिकः पृथिवीपतिः ॥ ८।२९ ॥**
 
-bāndhavānāṃ strīdhanam apaharatām ayaṃ **coradaṇḍaḥ** | te hi bahubhir upadhābhir apaharanti | asvatantraiṣā strī kiṃ dadāti kiṃ vā bhuṅkte vayam atra svāmina iti acaurāśaṅkayā coradaṇḍo vidhīyate | **jīvantīnāṃ** **tāsāṃ svabāndhavā** devarādayas taddhanaṃ **ye hareyus tāñ chiṣyāt** **pṛthivīpatir** nigṛhṇīyāt | cauradaṇḍo[^122] vakṣyamāṇaḥ:
+बान्धवानां स्त्रीधनम् अपहरताम् अयं **चोरदण्डः** । ते हि बहुभिर् उपधाभिर् अपहरन्ति । अस्वतन्त्रैषा स्त्री किं ददाति किं वा भुङ्क्ते वयम् अत्र स्वामिन इति अचौराशङ्कया चोरदण्डो विधीयते । **जीवन्तीनां** **तासां स्वबान्धवा** देवरादयस् तद्धनं **ये हरेयुस् ताञ् छिष्यात्** **पृथिवीपतिर्** निगृह्णीयात् । चौरदण्डो[^१२२] वक्ष्यमाणः:
 
-	yena yena yathāṅgena steno nṛṣu viceṣṭate | 
+	येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते । 
 
-	chettavyaṃ tat tad evānyat tan manor anuśāsanam || iti | (MDh 8.334)
+	छेत्तव्यं तत् तद् एवान्यत् तन् मनोर् अनुशासनम् ॥ इति । (म्ध् ८।३३४)
 
-svabandhubhyaś caitad viśeṣeṇa rājñā rakṣitavyam | caurarakṣā tu svarāṣṭraviṣayā vihitā || 8.29 ||
+स्वबन्धुभ्यश् चैतद् विशेषेण राज्ञा रक्षितव्यम् । चौररक्षा तु स्वराष्ट्रविषया विहिता ॥ ८।२९ ॥
 
-	**pranaṣṭasvāmikaṃ rikthaṃ rājā tryabdaṃ nidhāpayet |**
+	**प्रनष्टस्वामिकं रिक्थं राजा त्र्यब्दं निधापयेत् ।**
 
-**	arvāk tryabdād dharet svāmī pareṇa nṛpatir haret || 8.30 ||**
+**	अर्वाक् त्र्यब्दाद् धरेत् स्वामी परेण नृपतिर् हरेत् ॥ ८।३० ॥**
 
-yad dravyaṃ svāmino **naṣṭaṃ** pramādāt kathaṃcit pathi gacchato bhraṣṭam, araṇye kāntāre vā sthāpayitvāraṇyapālair anyair vā rājapuruṣair labdhaṃ rājasakāśam ānītam, tad rājñā[^123] rakṣāṃ kṛtvā rājadvāre rājamārge vā prakāśaṃ sthāpayitavyam | paṭahaghoṣaṇena vā kasya kiṃ hāritam iti prakāśayitavyam | yataḥ pradeśāl labdhaṃ tasminn eva pradeśe rakṣipuruṣādhiṣṭhitaṃ kartavyam | evaṃ **trīṇi** varṣāṇi sthāpayitavyam | tatr**ārvāk** **tribhyo** varṣebhyo yaḥ kāraṇata ātmīyaṃ jñāpayet tasyoddhṛtavakṣyamāṇaṣaḍbhāgādibhāgakaṃ samarpayitavyam, parataḥ svakoṣṭhe praveśanīyām iti |
+यद् द्रव्यं स्वामिनो **नष्टं** प्रमादात् कथंचित् पथि गच्छतो भ्रष्टम्, अरण्ये कान्तारे वा स्थापयित्वारण्यपालैर् अन्यैर् वा राजपुरुषैर् लब्धं राजसकाशम् आनीतम्, तद् राज्ञा[^१२३] रक्षां कृत्वा राजद्वारे राजमार्गे वा प्रकाशं स्थापयितव्यम् । पटहघोषणेन वा कस्य किं हारितम् इति प्रकाशयितव्यम् । यतः प्रदेशाल् लब्धं तस्मिन्न् एव प्रदेशे रक्षिपुरुषाधिष्ठितं कर्तव्यम् । एवं **त्रीणि** वर्षाणि स्थापयितव्यम् । तत्र्**आर्वाक्** **त्रिभ्यो** वर्षेभ्यो यः कारणत आत्मीयं ज्ञापयेत् तस्योद्धृतवक्ष्यमाणषड्भागादिभागकं समर्पयितव्यम्, परतः स्वकोष्ठे प्रवेशनीयाम् इति ।
 
-	pranaṣṭaḥ svāmī yasya rikthasya tat **pranaṣṭasvāmikam |** **pranaṣṭo** 'vijñātaḥ | **rikthaṃ** dhanam | trayāṇām abdānāṃ samāhāras **tryabdam |** trivarṣavat tryabde ṅībabhāvaḥ | abdaśabdaḥ saṃvatsaraparyāyaḥ | **nidhāpayet** sthāpayet | **arvāk tryabdāt** pūrvaṃ tribhyo varṣebhyaḥ, **haret svāmī** svīkuryāt | **arvāk**śabdo 'vadhau digdeśādikāt pūrvam[^124] āha |
+	प्रनष्टः स्वामी यस्य रिक्थस्य तत् **प्रनष्टस्वामिकम् ।** **प्रनष्टो** ऽविज्ञातः । **रिक्थं** धनम् । त्रयाणाम् अब्दानां समाहारस् **त्र्यब्दम् ।** त्रिवर्षवत् त्र्यब्दे ङीबभावः । अब्दशब्दः संवत्सरपर्यायः । **निधापयेत्** स्थापयेत् । **अर्वाक् त्र्यब्दात्** पूर्वं त्रिभ्यो वर्षेभ्यः, **हरेत् स्वामी** स्वीकुर्यात् । **अर्वाक्**शब्दो ऽवधौ दिग्देशादिकात् पूर्वम्[^१२४] आह ।
 
-	<span style="text-decoration:underline;">anye</span> tu **nṛpatir hared** iti bhogānujñānam apahāram āhuḥ | na hi ūrdhvam api tribhyo varṣebhyaḥ parakīyasya dravyasāpahāro yuktaḥ | tasmāt tribhyo varṣebhya ūrdhvam anāgacchati svāmini rājñā[^125] bhoktavyam | 
+	<span style="text-decoration:underline;">अन्ये</span> तु **नृपतिर् हरेद्** इति भोगानुज्ञानम् अपहारम् आहुः । न हि ऊर्ध्वम् अपि त्रिभ्यो वर्षेभ्यः परकीयस्य द्रव्यसापहारो युक्तः । तस्मात् त्रिभ्यो वर्षेभ्य ऊर्ध्वम् अनागच्छति स्वामिनि राज्ञा[^१२५] भोक्तव्यम् । 
 
-	<span style="text-decoration:underline;">tair</span>[^126] ayaṃ ślokaḥ kathaṃ vyākhyānīyaḥ: "yat kiṃcid daśavarṣāṇi" (MDh 8.147) iti | yadi ca parakīyasyāpahāro na yukta ity ucyate bhogo 'pi naiva yuktaḥ | parakīyaṃ[^127] vastrādivad bhujyamānaṃ naśyaty eva | tatrānapahāropacāro yuktaḥ, bhukter[^128] evāpahāraphalasya sadbhāvāt | gajaturagādes[^129] tu kīdṛśo bhoga iti vācyam | tasmān na yathāśrutārthatyāge kāraṇam asti | haratiś ca gṛhṇātyarthe asakṛd dṛṣṭaprayoga **ṛkthaṃ hared** ityādau | tastmāt **pareṇa nṛpatir haret** svīkuryād ity ayam evārthaḥ || 8.30 ||
+	<span style="text-decoration:underline;">तैर्</span>[^१२६] अयं श्लोकः कथं व्याख्यानीयः: "यत् किंचिद् दशवर्षाणि" (म्ध् ८।१४७) इति । यदि च परकीयस्यापहारो न युक्त इत्य् उच्यते भोगो ऽपि नैव युक्तः । परकीयं[^१२७] वस्त्रादिवद् भुज्यमानं नश्यत्य् एव । तत्रानपहारोपचारो युक्तः, भुक्तेर्[^१२८] एवापहारफलस्य सद्भावात् । गजतुरगादेस्[^१२९] तु कीदृशो भोग इति वाच्यम् । तस्मान् न यथाश्रुतार्थत्यागे कारणम् अस्ति । हरतिश् च गृह्णात्यर्थे असकृद् दृष्टप्रयोग **ऋक्थं हरेद्** इत्यादौ । तस्त्मात् **परेण नृपतिर् हरेत्** स्वीकुर्याद् इत्य् अयम् एवार्थः ॥ ८।३० ॥
 
-_kathaṃ punaḥ svāmī pranaṣṭe dhane svāmitvaṃ jñāpayet | ata_[^130] _āha_ |
+_कथं पुनः स्वामी प्रनष्टे धने स्वामित्वं ज्ञापयेत् । अत_[^१३०] _आह_ ।
 
-	**mamedam iti yo brūyāt so 'nuyojyo yathāvidhi |**
+	**ममेदम् इति यो ब्रूयात् सो ऽनुयोज्यो यथाविधि ।**
 
-**	saṃvādya rūpasaṃkhyādīn svāmī tad dravyam arhati || 8.31 ||**
+**	संवाद्य रूपसंख्यादीन् स्वामी तद् द्रव्यम् अर्हति ॥ ८।३१ ॥**
 
-**yaḥ** kaścid āgatya "**mamedaṃ** svaṃ dravyam" **iti brūyāt,** **so 'nuyojyo yathāvidhi** | **anuyojyaḥ** praṣṭavya ity arthaḥ | ko 'sāv anuyogavidhiḥ | "ko bhavān, kiṃ dravyaṃ hāritam, kiṃrūpam, kiṃparimāṇam, kiṃsaṃkhyākam, saṃpatitam apatitaṃ vā, yadi patitaṃ kasmin deśe, tathā kuta āgamitaṃ tvayā" ity evaṃ paryanuyogaḥ kartavyaḥ | sa yadi saṃvādayati **rūpasaṃkhyādīn** | rūpaṃ prāṇivastrādiviṣayaṃ śuklaṃ vastraṃ [^131]gaur vetyevamādi | tathā saṃkhyā daśa gāvo vā yugāni vā | **ādi**grahaṇād dhastādipramāṇaṃ suvarṇādiparimāṇaṃ prakīrṇarūpakaṃ vā | etat sarvaṃ saṃvādayati tadāsau svāmī bhavati | atas tad **dravyam arhati** svīkartum | saṃvāda ucyate: yādṛśam ekena pramāṇena paricchinnaṃ tādṛśam eva yady anena[^132] paricchidyate | rūpasaṃkhyādigrahaṇaṃ ca pradarśanārthaṃ svāmitvakāraṇānām anyeṣām api sākṣyādīnām || 8.31 ||
+**यः** कश्चिद् आगत्य "**ममेदं** स्वं द्रव्यम्" **इति ब्रूयात्,** **सो ऽनुयोज्यो यथाविधि** । **अनुयोज्यः** प्रष्टव्य इत्य् अर्थः । को ऽसाव् अनुयोगविधिः । "को भवान्, किं द्रव्यं हारितम्, किंरूपम्, किंपरिमाणम्, किंसंख्याकम्, संपतितम् अपतितं वा, यदि पतितं कस्मिन् देशे, तथा कुत आगमितं त्वया" इत्य् एवं पर्यनुयोगः कर्तव्यः । स यदि संवादयति **रूपसंख्यादीन्** । रूपं प्राणिवस्त्रादिविषयं शुक्लं वस्त्रं [^१३१]गौर् वेत्येवमादि । तथा संख्या दश गावो वा युगानि वा । **आदि**ग्रहणाद् धस्तादिप्रमाणं सुवर्णादिपरिमाणं प्रकीर्णरूपकं वा । एतत् सर्वं संवादयति तदासौ स्वामी भवति । अतस् तद् **द्रव्यम् अर्हति** स्वीकर्तुम् । संवाद उच्यते: यादृशम् एकेन प्रमाणेन परिच्छिन्नं तादृशम् एव यद्य् अनेन[^१३२] परिच्छिद्यते । रूपसंख्यादिग्रहणं च प्रदर्शनार्थं स्वामित्वकारणानाम् अन्येषाम् अपि साक्ष्यादीनाम् ॥ ८।३१ ॥
 
-	**avedayāno naṣṭasya deśaṃ kālaṃ ca tattvataḥ |**
+	**अवेदयानो नष्टस्य देशं कालं च तत्त्वतः ।**
 
-**	varṇaṃ rūpaṃ pramāṇaṃ ca tatsamaṃ daṇḍam arhati || 8.32 ||**
+**	वर्णं रूपं प्रमाणं च तत्समं दण्डम् अर्हति ॥ ८।३२ ॥**
 
-mithyā pravartamānasya daṇḍo 'yam ucyate | yo na jñāpayati **naṣṭasya** dhanasya **deśaṃ kālaṃ** ca, asmin deśe kāle vā hāritam, **tattvataḥ** paramārthatahṁ **varṇaṃ** śuklādikam, **rūpaṃ** paṭī śāṭakayugaṃ vetyādikam ākāram, **pramāṇaṃ** pañcahastāyāmaṃ saptahastamātraṃ vā, **avedayānaḥ,** tadā **tatsamaṃ** yāvati dravye mitthyāpravṛttas tattulyaṃ **daṇḍam arhati** || 8.32 ||
+मिथ्या प्रवर्तमानस्य दण्डो ऽयम् उच्यते । यो न ज्ञापयति **नष्टस्य** धनस्य **देशं कालं** च, अस्मिन् देशे काले वा हारितम्, **तत्त्वतः** परमार्थतह्ṁ **वर्णं** शुक्लादिकम्, **रूपं** पटी शाटकयुगं वेत्यादिकम् आकारम्, **प्रमाणं** पञ्चहस्तायामं सप्तहस्तमात्रं वा, **अवेदयानः,** तदा **तत्समं** यावति द्रव्ये मित्थ्याप्रवृत्तस् तत्तुल्यं **दण्डम् अर्हति** ॥ ८।३२ ॥
 
-	**ādadītātha ṣaḍbhāgaṃ pranaṣṭādhigatān nṛpaḥ |**
+	**आददीताथ षड्भागं प्रनष्टाधिगतान् नृपः ।**
 
-**	daśamaṃ dvādaśaṃ vāpi satāṃ dharmam anusmaran || 8.33 ||**
+**	दशमं द्वादशं वापि सतां धर्मम् अनुस्मरन् ॥ ८।३३ ॥**
 
-**ādadīta** gṛhṇīyāt **ṣaṣṭhaṃ bhāgaṃ daśamaṃ dvādaśaṃ vā** pranaṣṭalabdhād dravyāt | avaśiṣṭaṃ svāmine 'rpayet | tatra prathame varṣe dvādaśo bhāgo dvitīye daśamas tṛtīye ṣaṣṭha iti | atha vā rakṣākleśakṣayāpekṣo bhāgavikalpaḥ | **satāṃ dharmam anusmaran** śiṣānām eṣa samācāra iti jānānaḥ || 8.33 ||
+**आददीत** गृह्णीयात् **षष्ठं भागं दशमं द्वादशं वा** प्रनष्टलब्धाद् द्रव्यात् । अवशिष्टं स्वामिने ऽर्पयेत् । तत्र प्रथमे वर्षे द्वादशो भागो द्वितीये दशमस् तृतीये षष्ठ इति । अथ वा रक्षाक्लेशक्षयापेक्षो भागविकल्पः । **सतां धर्मम् अनुस्मरन्** शिषानाम् एष समाचार इति जानानः ॥ ८।३३ ॥
 
-	**pranaṣṭādhigataṃ dravyaṃ tiṣṭhed yuktair adhiṣṭhitam |**
+	**प्रनष्टाधिगतं द्रव्यं तिष्ठेद् युक्तैर् अधिष्ठितम् ।**
 
-**	yāṃs tatra caurān gṛhṇīyāt tān rājebhena ghātayet || 8.34 ||**
+**	यांस् तत्र चौरान् गृह्णीयात् तान् राजेभेन घातयेत् ॥ ८।३४ ॥**
 
-pranaṣṭam adhigataṃ **pranaṣṭādhigataṃ** pūrvaṃ pranaṣṭaṃ paścād adhigatam | **adhiṣṭhitaṃ** **yuktais** tatparair ārakṣapuruṣais **tiṣṭhet** | tathāsthitam api yadi kecana **caurā**[^133] **gṛhṇīyus** **tān rājā ibhena** hastinā **ghātayet** | hastigrahaṇam[^134] adṛṣṭārtham[^135] || 8.34 ||
+प्रनष्टम् अधिगतं **प्रनष्टाधिगतं** पूर्वं प्रनष्टं पश्चाद् अधिगतम् । **अधिष्ठितं** **युक्तैस्** तत्परैर् आरक्षपुरुषैस् **तिष्ठेत्** । तथास्थितम् अपि यदि केचन **चौरा**[^१३३] **गृह्णीयुस्** **तान् राजा इभेन** हस्तिना **घातयेत्** । हस्तिग्रहणम्[^१३४] अदृष्टार्थम्[^१३५] ॥ ८।३४ ॥
 
-	**mamāyam iti yo brūyān nidhiṃ satyena mānavaḥ |**
+	**ममायम् इति यो ब्रूयान् निधिं सत्येन मानवः ।**
 
-**	tasyādadīta ṣaḍbhāgaṃ rājā dvādaśam eva vā || 8.35 ||**
+**	तस्याददीत षड्भागं राजा द्वादशम् एव वा ॥ ८।३५ ॥**
 
-nikhātāyām bhūmau guptaṃ sthāpitaṃ dhanaṃ **nidhir** ucyate | varṣaśatikā varṣasahasrikāś ca nidhayo bhavanti | tatra yadi bhūmer vidāryamāṇāyāḥ kathaṃcit kenacin nidhir āsādyate, sa tu rājadhanam | tathā ca gautamaḥ: "nidhyadhigamo rājadhanam" (GDh 10.43) iti | etac cāsmaryamāṇanidhātṛke nidhau draṣṭavyam | tasyākhyātā ṣaṣṭhaṃ labetety uktam | ayaṃ tu śloko yatrākhyātaiva nidhātā tatpuruṣo vā pitṛpitāmahādiś tadviṣayo draṣṭavyaḥ | **mamāyaṃ nidhir iti yo brūyāt satyena** pramāṇena jñāpayed ity arthaḥ | **tasyādadīta ṣaḍbhāgam** iti | niścite tatsvāmikatve rājñaḥ ṣaṣṭhādibhāgagrahaṇam | vikalpaś cākhyātṛguṇāpekṣayā || 8.35 ||
+निखातायाम् भूमौ गुप्तं स्थापितं धनं **निधिर्** उच्यते । वर्षशतिका वर्षसहस्रिकाश् च निधयो भवन्ति । तत्र यदि भूमेर् विदार्यमाणायाः कथंचित् केनचिन् निधिर् आसाद्यते, स तु राजधनम् । तथा च गौतमः: "निध्यधिगमो राजधनम्" (ग्ध् १०।४३) इति । एतच् चास्मर्यमाणनिधातृके निधौ द्रष्टव्यम् । तस्याख्याता षष्ठं लबेतेत्य् उक्तम् । अयं तु श्लोको यत्राख्यातैव निधाता तत्पुरुषो वा पितृपितामहादिश् तद्विषयो द्रष्टव्यः । **ममायं निधिर् इति यो ब्रूयात् सत्येन** प्रमाणेन ज्ञापयेद् इत्य् अर्थः । **तस्याददीत षड्भागम्** इति । निश्चिते तत्स्वामिकत्वे राज्ञः षष्ठादिभागग्रहणम् । विकल्पश् चाख्यातृगुणापेक्षया ॥ ८।३५ ॥
 
-	**anṛtaṃ tu vadan daṇḍyaḥ svavittasyāṃśam aṣṭamam |**
+	**अनृतं तु वदन् दण्ड्यः स्ववित्तस्यांशम् अष्टमम् ।**
 
-**	tasyaiva vā nidhānasya saṃkhyayālpīyasīṃ kalām | 8.36 ||**
+**	तस्यैव वा निधानस्य संख्ययाल्पीयसीं कलाम् । ८।३६ ॥**
 
-yas tu mayāyaṃ nihito matpūrvajena veti[^136] pratijñāṃ na sādhayati so 'satyavādī[^137] daṇḍyaḥ | yāvat tasya vittam asti, tato 'ṣṭamaṃ bhāgaṃ **tasyaiva vā** **nidhānasyālpīyasīṃ kalāṃ** mātrāṃ bhāgam ity arthaḥ | na tu tad eva dravyaṃ suvarṇādikaṃ dāpayet, kiṃ tu tatparimāṇam anyad vā samamūlyaṃ yayā dhanamātrayā daṇḍito 'vasādaṃ na[^138] gacched vinayaṃ vā grāhyeta | anubandhādiviśeṣāpekṣayā puruṣaguṇāpekṣayā ca vikalpa āśrayaṇīyaḥ | ātiśāyanikāt pūrvadaṇḍāt svalpo daṇḍa iti jñāpayati | tena yasya bahu vittaṃ svalpo nidhiḥ, tatra nidhyapekṣāṃ mātrām aṣṭamāṃśam[^139] arthādhīnāṃ daṇḍyaḥ | sā hy alpīyasī bhavati || 8.36 ||
+यस् तु मयायं निहितो मत्पूर्वजेन वेति[^१३६] प्रतिज्ञां न साधयति सो ऽसत्यवादी[^१३७] दण्ड्यः । यावत् तस्य वित्तम् अस्ति, ततो ऽष्टमं भागं **तस्यैव वा** **निधानस्याल्पीयसीं कलां** मात्रां भागम् इत्य् अर्थः । न तु तद् एव द्रव्यं सुवर्णादिकं दापयेत्, किं तु तत्परिमाणम् अन्यद् वा सममूल्यं यया धनमात्रया दण्डितो ऽवसादं न[^१३८] गच्छेद् विनयं वा ग्राह्येत । अनुबन्धादिविशेषापेक्षया पुरुषगुणापेक्षया च विकल्प आश्रयणीयः । आतिशायनिकात् पूर्वदण्डात् स्वल्पो दण्ड इति ज्ञापयति । तेन यस्य बहु वित्तं स्वल्पो निधिः, तत्र निध्यपेक्षां मात्राम् अष्टमांशम्[^१३९] अर्थाधीनां दण्ड्यः । सा ह्य् अल्पीयसी भवति ॥ ८।३६ ॥
 
-**	vidvāṃs tu brāhmaṇo dṛṣṭvā pūrvopanihitaṃ nidhim |**
+**	विद्वांस् तु ब्राह्मणो दृष्ट्वा पूर्वोपनिहितं निधिम् ।**
 
-**	aśeṣato 'py ādadīta sarvasyādhipatir hi saḥ || 8.37 ||**
+**	अशेषतो ऽप्य् आददीत सर्वस्याधिपतिर् हि सः ॥ ८।३७ ॥**
 
-[^140]**vidvān brāhmaṇaḥ** pūrvaiḥ pitrādibhir upahitaṃ **nidhiṃ** yadā paśyet tadā sarvam ev**ādadīta**, na rājñe pūrvoktaṃ bhāgaṃ dadyāt | asyārthavādaḥ: **sarvasyādhipatir hi saḥ** | tathā coktam: "sarvaṃ svaṃ[^141] brāhmaṇasyedam" (MDh 1.100) iti | etac c**āseṣato** grahaṇaṃ yo brāhmaṇasvāmika eva nidhiḥ | yas tv avijñātasvāmikaḥ tasmin vidvadbrāhmaṇadṛṣṭe[^142] 'py asty eva rājño bhāgaḥ | yato vakṣyati "nidhīnāṃ tu purāṇānām" (MDh 8.39) iti || 8.37 ||
+[^१४०]**विद्वान् ब्राह्मणः** पूर्वैः पित्रादिभिर् उपहितं **निधिं** यदा पश्येत् तदा सर्वम् एव्**आददीत**, न राज्ञे पूर्वोक्तं भागं दद्यात् । अस्यार्थवादः: **सर्वस्याधिपतिर् हि सः** । तथा चोक्तम्: "सर्वं स्वं[^१४१] ब्राह्मणस्येदम्" (म्ध् १।१००) इति । एतच् च्**आसेषतो** ग्रहणं यो ब्राह्मणस्वामिक एव निधिः । यस् त्व् अविज्ञातस्वामिकः तस्मिन् विद्वद्ब्राह्मणदृष्टे[^१४२] ऽप्य् अस्त्य् एव राज्ञो भागः । यतो वक्ष्यति "निधीनां तु पुराणानाम्" (म्ध् ८।३९) इति ॥ ८।३७ ॥
 
-	**yaṃ tu paśyen nidhiṃ rājā purāṇaṃ nihitaṃ kṣitau |**
+	**यं तु पश्येन् निधिं राजा पुराणं निहितं क्षितौ ।**
 
-**	tasmād dvijebhyo datvā 'rdham arhaṃ kośe praveśayet || 8.38 ||**
+**	तस्माद् द्विजेभ्यो दत्वा ऽर्धम् अर्हं कोशे प्रवेशयेत् ॥ ८।३८ ॥**
 
-yo rājñā svayaṃ nidhir adhigatas tasmān nidher ayaṃ brāhmaṇebhyo dānaniyamo rājñaḥ | **kośa**śabdena vittasaṃcayasthānam ucyate | **purāṇaṃ nihitaṃ kṣitāv** iti nidhirūpānuvādaḥ || 8.38 ||
+यो राज्ञा स्वयं निधिर् अधिगतस् तस्मान् निधेर् अयं ब्राह्मणेभ्यो दाननियमो राज्ञः । **कोश**शब्देन वित्तसंचयस्थानम् उच्यते । **पुराणं निहितं क्षिताव्** इति निधिरूपानुवादः ॥ ८।३८ ॥
 
-	**nidhīnāṃ tu purāṇānāṃ dhātūnām eva ca kṣitau |**
+	**निधीनां तु पुराणानां धातूनाम् एव च क्षितौ ।**
 
-**	ardhabhāg rakṣaṇād rājā bhūmer adhipatir hi saḥ || 8.39 ||**
+**	अर्धभाग् रक्षणाद् राजा भूमेर् अधिपतिर् हि सः ॥ ८।३९ ॥**
 
-anyenāpi dṛṣṭasya nidhe rājñā bhāgaḥ pūrvokto grahītavya ity asya vidher arthavādo 'yam: **nidhīnāṃ** hi **purāṇānām** iti | **dhātūnām eva ca kṣitau:** ayaṃ tv aprāptavidhiḥ | suvarṇarūpyādibījam[^143] mṛdaḥ sindūrakālāñjanādyāś ca dhātavaḥ | suvarṇādyākarabhūmīr yaḥ khanati, yo vā parvatādiṣu gairikādidhātūn upajīvati, tenāpi pūrvavad rājñe bhāgo dātavyaḥ | **ardhabhāg** iti ardhaśabdo 'ṃśamātravacanaḥ samāsanirdeśāt, yathā grāmārdho nagarārdham iti | napuṃsakaliṅgas tu samapravibhāgaḥ | iha tu samāse liṅgaviśeṣapratipattyabhāvāt pūrvasya[^144] **ca**śabdavaśāt[^145] ṣaḍdaśadvādaśāder bhāgasya prakṛtatvāt tadvacano vijñāyate | ardhaṃ bhajata ekadeśaṃ gṛhṇātīty arthaḥ | atra hetuḥ, **rakṣaṇād** iti | yady api kṣitau nihitasya kenacid ajñānān na rājakīyarakṣopayujyate, tathāpi tasya balavatāpahāraḥ saṃbhāvyate | ato 'sty eva rakṣāyā arthavattvam | etadartham evāha: **bhūmer adhipatir hi saḥ** | prabhur asau bhūmeḥ | tadīyāyāś ca bhuvo yal labdhaṃ tatra yuktaṃ tasya bhāgadānam || 8.39 ||
+अन्येनापि दृष्टस्य निधे राज्ञा भागः पूर्वोक्तो ग्रहीतव्य इत्य् अस्य विधेर् अर्थवादो ऽयम्: **निधीनां** हि **पुराणानाम्** इति । **धातूनाम् एव च क्षितौ:** अयं त्व् अप्राप्तविधिः । सुवर्णरूप्यादिबीजम्[^१४३] मृदः सिन्दूरकालाञ्जनाद्याश् च धातवः । सुवर्णाद्याकरभूमीर् यः खनति, यो वा पर्वतादिषु गैरिकादिधातून् उपजीवति, तेनापि पूर्ववद् राज्ञे भागो दातव्यः । **अर्धभाग्** इति अर्धशब्दो ऽंशमात्रवचनः समासनिर्देशात्, यथा ग्रामार्धो नगरार्धम् इति । नपुंसकलिङ्गस् तु समप्रविभागः । इह तु समासे लिङ्गविशेषप्रतिपत्त्यभावात् पूर्वस्य[^१४४] **च**शब्दवशात्[^१४५] षड्दशद्वादशादेर् भागस्य प्रकृतत्वात् तद्वचनो विज्ञायते । अर्धं भजत एकदेशं गृह्णातीत्य् अर्थः । अत्र हेतुः, **रक्षणाद्** इति । यद्य् अपि क्षितौ निहितस्य केनचिद् अज्ञानान् न राजकीयरक्षोपयुज्यते, तथापि तस्य बलवतापहारः संभाव्यते । अतो ऽस्त्य् एव रक्षाया अर्थवत्त्वम् । एतदर्थम् एवाह: **भूमेर् अधिपतिर् हि सः** । प्रभुर् असौ भूमेः । तदीयायाश् च भुवो यल् लब्धं तत्र युक्तं तस्य भागदानम् ॥ ८।३९ ॥
 
-	**dātavyaṃ sarvavarṇebhyo rājñā caurair hṛtaṃ dhanam |**
+	**दातव्यं सर्ववर्णेभ्यो राज्ञा चौरैर् हृतं धनम् ।**
 
-**	rājā tad upayuñjānaś caurasyāpnoti kilbiṣam || 8.40 ||**
+**	राजा तद् उपयुञ्जानश् चौरस्याप्नोति किल्बिषम् ॥ ८।४० ॥**
 
-**caurair** yan nītaṃ kiṃcid **dhanaṃ** tad rājā pratyāhṛtya nātmany upayuñjīta | kiṃ tarhi, ya eva muṣitās tebhya eva pratipādayitavyam | **sarva**grahaṇena ca caṇḍālebhyo 'pi deyam iti | "caurāhṛtam" ity anyasmin pāṭhe cauraiḥ āhṛtam[^146] iti vigṛhya sādhanaṃ "kṛtā" (Pāṇ 2.1.32) iti samāsaḥ | pāṭhāntare "caurahṛtam" iti "tṛtīyā" (Pāṇ 2.1.30) iti yogavibhāgāt pūrvavad vā samāsaḥ | ayaṃ tv atrārthaḥ: yac caurair hṛtam aśakyapratyānayanaṃ tad rājñā svakośād dātavyam |
+**चौरैर्** यन् नीतं किंचिद् **धनं** तद् राजा प्रत्याहृत्य नात्मन्य् उपयुञ्जीत । किं तर्हि, य एव मुषितास् तेभ्य एव प्रतिपादयितव्यम् । **सर्व**ग्रहणेन च चण्डालेभ्यो ऽपि देयम् इति । "चौराहृतम्" इत्य् अन्यस्मिन् पाठे चौरैः आहृतम्[^१४६] इति विगृह्य साधनं "कृता" (पाण् २।१।३२) इति समासः । पाठान्तरे "चौरहृतम्" इति "तृतीया" (पाण् २।१।३०) इति योगविभागात् पूर्ववद् वा समासः । अयं त्व् अत्रार्थः: यच् चौरैर् हृतम् अशक्यप्रत्यानयनं तद् राज्ञा स्वकोशाद् दातव्यम् ।
 
-	uttaraślokārdha[^147] evaṃ yojanīyaḥ: **rājā tad upayuñjāna** iti | anekārthatvād dhātūnām upapūrvo yujir lakṣaṇayā vāpratipādana[^148] eva draṣṭavyaḥ | yo hy anyasmai prāptakālaṃ dhanaṃ na dadāti, svaprayojaneṣu viniyuṅkte, tena tadīyam eva tadupayuktaṃ bhavatīti yuktam ucyate: **rājā** **tad upayuñjānaś** **caurasyāpnoti kilbiṣam** | kilbiṣaṃ[^149] pāpam || 8.40 ||
+	उत्तरश्लोकार्ध[^१४७] एवं योजनीयः: **राजा तद् उपयुञ्जान** इति । अनेकार्थत्वाद् धातूनाम् उपपूर्वो युजिर् लक्षणया वाप्रतिपादन[^१४८] एव द्रष्टव्यः । यो ह्य् अन्यस्मै प्राप्तकालं धनं न ददाति, स्वप्रयोजनेषु विनियुङ्क्ते, तेन तदीयम् एव तदुपयुक्तं भवतीति युक्तम् उच्यते: **राजा** **तद् उपयुञ्जानश्** **चौरस्याप्नोति किल्बिषम्** । किल्बिषं[^१४९] पापम् ॥ ८।४० ॥
 
-	**jātijānapadān dharmān śreṇīdharmāṃś ca dharmavit |**
+	**जातिजानपदान् धर्मान् श्रेणीधर्मांश् च धर्मवित् ।**
 
-**	samīkṣya kuladharmāṃś ca svadharmaṃ pratipādayet || 8.41 ||**
+**	समीक्ष्य कुलधर्मांश् च स्वधर्मं प्रतिपादयेत् ॥ ८।४१ ॥**
 
-kurukāpiśakāśmīrādideśo niyatāvadhiḥ janapadam | tatra bhavā dharmā **jānapadāḥ** | kecit[^150] tatra bhavanti ye taddeśavyapadeśair anuṣṭhīyante | atha vā tannivāsino janā mañcāḥ krośantītivat janapadaśabdenābhidhīyante | teṣām anuṣṭheyā jānapadāḥ | "tasyedam" (Pāṇ 4.3.129) iti taddhitaḥ | jāter jānapadā **jātijānapadā** iti ṣaṣṭhīsamāsaḥ | jātimātraviṣayā deśadharmā rājñā paripālanīyāḥ | **samīkṣya** vicārya — kim āmnāyair viruddhā atha na, tathā pīḍākarāḥ kasyacid uta na — evaṃ vicārya, ye 'viruddhāś tān **pratipādayed** anuṣṭāpayed ity arthaḥ | tathā ca vakṣyati "sadbhir ācaritaṃ yat syāt" (MDh 8.46) iti | 
+कुरुकापिशकाश्मीरादिदेशो नियतावधिः जनपदम् । तत्र भवा धर्मा **जानपदाः** । केचित्[^१५०] तत्र भवन्ति ये तद्देशव्यपदेशैर् अनुष्ठीयन्ते । अथ वा तन्निवासिनो जना मञ्चाः क्रोशन्तीतिवत् जनपदशब्देनाभिधीयन्ते । तेषाम् अनुष्ठेया जानपदाः । "तस्येदम्" (पाण् ४।३।१२९) इति तद्धितः । जातेर् जानपदा **जातिजानपदा** इति षष्ठीसमासः । जातिमात्रविषया देशधर्मा राज्ञा परिपालनीयाः । **समीक्ष्य** विचार्य — किम् आम्नायैर् विरुद्धा अथ न, तथा पीडाकराः कस्यचिद् उत न — एवं विचार्य, ये ऽविरुद्धाश् तान् **प्रतिपादयेद्** अनुष्टापयेद् इत्य् अर्थः । तथा च वक्ष्यति "सद्भिर् आचरितं यत् स्यात्" (म्ध् ८।४६) इति । 
 
-	atha vā jātayaś ca te jānapadāś ceti viśeṣaṇasamāsaḥ | jātiśabdena ca nityatvaṃ lakṣyate | praśaṃsāmātraṃ caitat deśadharmāṇām | yathā jātir nityā evaṃ[^151] deśadharmā api śāstrāviruddhā nityāḥ | te nityavad anuṣṭheyā dṛṣṭārthā[^152] gopracārodakakṣaraṇādayaḥ | yathā grāmīṇā atra pradeśe gāvo na cāraṇīyā iti samayam āśrayanti kasyacit kāryasya siddhyarthaṃ tatra yo vyatikrāmati sa rājñā daṇḍyaḥ | 
+	अथ वा जातयश् च ते जानपदाश् चेति विशेषणसमासः । जातिशब्देन च नित्यत्वं लक्ष्यते । प्रशंसामात्रं चैतत् देशधर्माणाम् । यथा जातिर् नित्या एवं[^१५१] देशधर्मा अपि शास्त्राविरुद्धा नित्याः । ते नित्यवद् अनुष्ठेया दृष्टार्था[^१५२] गोप्रचारोदकक्षरणादयः । यथा ग्रामीणा अत्र प्रदेशे गावो न चारणीया इति समयम् आश्रयन्ति कस्यचित् कार्यस्य सिद्ध्यर्थं तत्र यो व्यतिक्रामति स राज्ञा दण्ड्यः । 
 
-	atha vā janapade bhavā **jānapadā** deśanivāsina ucyante | jātyā jānapadā **jātijānapadāḥ** | jātir janmotpattir iti yāvat | etena deśasaṃbandhasya[^153] puruṣāṇāṃ nityatā lakṣyate | ye taddeśajās taddeśābhijanās tannivāsinaś ca gṛhyante, teṣāṃ sarvaviśeṣaṇaviśiṣṭānām[^154] anidaṃprathamato jātā ye dharmās te jātijānapādaśabdenocyante | "vṛddhāc chaḥ" (Pāṇ 4.2.114) iti taddhite prasakte chāndasatvād aṇeva kṛtaḥ | 
+	अथ वा जनपदे भवा **जानपदा** देशनिवासिन उच्यन्ते । जात्या जानपदा **जातिजानपदाः** । जातिर् जन्मोत्पत्तिर् इति यावत् । एतेन देशसंबन्धस्य[^१५३] पुरुषाणां नित्यता लक्ष्यते । ये तद्देशजास् तद्देशाभिजनास् तन्निवासिनश् च गृह्यन्ते, तेषां सर्वविशेषणविशिष्टानाम्[^१५४] अनिदंप्रथमतो जाता ये धर्मास् ते जातिजानपादशब्देनोच्यन्ते । "वृद्धाच् छः" (पाण् ४।२।११४) इति तद्धिते प्रसक्ते छान्दसत्वाद् अणेव कृतः । 
 
-	atha vābhedopacārāt puruṣaśabdas tatsaṃbandhiṣu dharmeṣu prayuktaḥ | tenāyaṃ[^155] deśaniyamo dharmāṇāṃ sa evaṃvidhāt puruṣāt pratidraṣṭavyaḥ | ete hi deśadharmā mlecchānāṃ[^156] na punar āryāṇām | te[^157] hi tiryaksamānadharmāṇo 'nyatrānadhikṛtāḥ svasamācāraprasiddhaṃ dharmam anutiṣṭhanti mātṛvivāhādi[^158] | so 'yaṃ[^159] sārvabhaumena na[^160] nivāraṇīyaḥ | svadeśācāravatāṃ teṣāṃ jātidharmo 'yaṃ[^161] janapadanivāsabandhenābhyanujñānāt,[^162] āmnāyavirodho[^163] 'py atra nāsti | adhikṛtānāṃ virodhāt virodho na tiraścām |
+	अथ वाभेदोपचारात् पुरुषशब्दस् तत्संबन्धिषु धर्मेषु प्रयुक्तः । तेनायं[^१५५] देशनियमो धर्माणां स एवंविधात् पुरुषात् प्रतिद्रष्टव्यः । एते हि देशधर्मा म्लेच्छानां[^१५६] न पुनर् आर्याणाम् । ते[^१५७] हि तिर्यक्समानधर्माणो ऽन्यत्रानधिकृताः स्वसमाचारप्रसिद्धं धर्मम् अनुतिष्ठन्ति मातृविवाहादि[^१५८] । सो ऽयं[^१५९] सार्वभौमेन न[^१६०] निवारणीयः । स्वदेशाचारवतां तेषां जातिधर्मो ऽयं[^१६१] जनपदनिवासबन्धेनाभ्यनुज्ञानात्,[^१६२] आम्नायविरोधो[^१६३] ऽप्य् अत्र नास्ति । अधिकृतानां विरोधात् विरोधो न तिरश्चाम् ।
 
-	<span style="text-decoration:underline;">nanu</span> "ahiṃsā satyam akrodhaḥ śaucam indriyasaṃyamaḥ" (MDh 10.63) iti pratilomādhikāreṇaivoktam | mlecchāś ca pratilomā[^164] eva | tatra yadi mātṛvivāhe mūtrotsarge codakaśuddhyabhāve na duṣyati, ka indriyasaṃyamaḥ kīdṛśaṃ vā śaucam iti | 
+	<span style="text-decoration:underline;">ननु</span> "अहिंसा सत्यम् अक्रोधः शौचम् इन्द्रियसंयमः" (म्ध् १०।६३) इति प्रतिलोमाधिकारेणैवोक्तम् । म्लेच्छाश् च प्रतिलोमा[^१६४] एव । तत्र यदि मातृविवाहे मूत्रोत्सर्गे चोदकशुद्ध्यभावे न दुष्यति, क इन्द्रियसंयमः कीदृशं वा शौचम् इति । 
 
-	<span style="text-decoration:underline;">uktam</span> etat | āryāvartamadhyavartinām[^165] ete dharmāḥ śaucādayaḥ | cāturvarṇye tu tattaddeśaniyamo[^166] dharmāṇāṃ nāsti | kecid adṛṣṭārthā deśadharmā iti vakṣyāmaḥ | 
+	<span style="text-decoration:underline;">उक्तम्</span> एतत् । आर्यावर्तमध्यवर्तिनाम्[^१६५] एते धर्माः शौचादयः । चातुर्वर्ण्ये तु तत्तद्देशनियमो[^१६६] धर्माणां नास्ति । केचिद् अदृष्टार्था देशधर्मा इति वक्ष्यामः । 
 
-	ekakāryāpannā vaṇikkārukusīdicāturikādayaḥ[^167] | teṣāṃ dharmāḥ **śreṇīdharmāḥ** | yathā kecana vaṇiṅmahattarā vacanena paricchinnaṃ rājño bhāgaṃ prayacchanti — "imāṃ vaṇijyāṃ vayam upajīvāma eṣa te rājabhāgo 'smākaṃ yāval lābho 'stu nyūno 'dhiko vā" | tatra rājñābhyupagate vaṇijye lābhātiśayārthaṃ rāṣṭravirodhinīṃ cetaretaravyavasthāṃ kurvanti — idaṃ dravyam iyantaṃ kālam avikreyam, ayaṃ rājño 'padeśenārtho[^168] daṇḍaḥ patati, devatotsavārtho vā | tatra yadi kaścid vyatikrāmati sa evaṃ śreṇīdharmavyatikrāman daṇḍyaḥ |
+	एककार्यापन्ना वणिक्कारुकुसीदिचातुरिकादयः[^१६७] । तेषां धर्माः **श्रेणीधर्माः** । यथा केचन वणिङ्महत्तरा वचनेन परिच्छिन्नं राज्ञो भागं प्रयच्छन्ति — "इमां वणिज्यां वयम् उपजीवाम एष ते राजभागो ऽस्माकं यावल् लाभो ऽस्तु न्यूनो ऽधिको वा" । तत्र राज्ञाभ्युपगते वणिज्ये लाभातिशयार्थं राष्ट्रविरोधिनीं चेतरेतरव्यवस्थां कुर्वन्ति — इदं द्रव्यम् इयन्तं कालम् अविक्रेयम्, अयं राज्ञो ऽपदेशेनार्थो[^१६८] दण्डः पतति, देवतोत्सवार्थो वा । तत्र यदि कश्चिद् व्यतिक्रामति स एवं श्रेणीधर्मव्यतिक्रामन् दण्ड्यः ।
 
-	**kuladharmā** iti | kulaṃ vaṃśaḥ | tatra prakhyātamahimnā pūrvajena dharmaḥ pravartito bhavati yo 'smadvaṃśajaḥ kutaścana dhanaṃ labheta sa nādatvā brāhmaṇebhyo 'nyatra viniyuñjītetyādayo dharmāḥ | tathā, sati yogyatve ya eva pūrvapuruṣāṇāṃ yājakāḥ kanyādisaṃpradānabhūtā vā ta eva kāryāḥ[^169] | tadatikrāman rājño 'nuṣṭhāpayitavyaḥ | eteṣāṃ ca sāmavāyikatvād adharmatvaśaṅkayā punarvacanam | na cāyaṃ saṃvidvyatikrama iti vakṣyāmaḥ || 8.41 ||
+	**कुलधर्मा** इति । कुलं वंशः । तत्र प्रख्यातमहिम्ना पूर्वजेन धर्मः प्रवर्तितो भवति यो ऽस्मद्वंशजः कुतश्चन धनं लभेत स नादत्वा ब्राह्मणेभ्यो ऽन्यत्र विनियुञ्जीतेत्यादयो धर्माः । तथा, सति योग्यत्वे य एव पूर्वपुरुषाणां याजकाः कन्यादिसंप्रदानभूता वा त एव कार्याः[^१६९] । तदतिक्रामन् राज्ञो ऽनुष्ठापयितव्यः । एतेषां च सामवायिकत्वाद् अधर्मत्वशङ्कया पुनर्वचनम् । न चायं संविद्व्यतिक्रम इति वक्ष्यामः ॥ ८।४१ ॥
 
-	**svāni karmāṇī kurvāṇā dūre santo 'pi mānavāḥ |**
+	**स्वानि कर्माणी कुर्वाणा दूरे सन्तो ऽपि मानवाः ।**
 
-**	priyā bhavanti lokasya sve sve karmaṇy avasthitāḥ || 8.42 ||**
+**	प्रिया भवन्ति लोकस्य स्वे स्वे कर्मण्य् अवस्थिताः ॥ ८।४२ ॥**
 
-pūrvoktasya jānapadāder dharmasya dṛṣṭādṛṣṭatānena pradarśyate | **svāni karmāṇi** kulasthityanurūpāṇi ye kurvanti te dūrasthā api **priyā bhavanti** | sarvasyānyo nikaṭavartī saṃsargātiśayāt priyo bhavati | svakarmakārī tu dūrastha eva priyaḥ | **sve sve karmaṇy avasthitā** ity anena parakarmānanuṣṭhānam āha | ye na parakarmāṇi kurvanti te sarvasya priyā bhavantīti ślokārthaḥ || 8.42 ||
+पूर्वोक्तस्य जानपदादेर् धर्मस्य दृष्टादृष्टतानेन प्रदर्श्यते । **स्वानि कर्माणि** कुलस्थित्यनुरूपाणि ये कुर्वन्ति ते दूरस्था अपि **प्रिया भवन्ति** । सर्वस्यान्यो निकटवर्ती संसर्गातिशयात् प्रियो भवति । स्वकर्मकारी तु दूरस्थ एव प्रियः । **स्वे स्वे कर्मण्य् अवस्थिता** इत्य् अनेन परकर्माननुष्ठानम् आह । ये न परकर्माणि कुर्वन्ति ते सर्वस्य प्रिया भवन्तीति श्लोकार्थः ॥ ८।४२ ॥
 
-	**notpādayet svayaṃ kāryaṃ rājā nāpy asya pūruṣaḥ |**
+	**नोत्पादयेत् स्वयं कार्यं राजा नाप्य् अस्य पूरुषः ।**
 
-**	na ca prāpitam anyena grasenārthaṃ kathaṃcana || 8.43 ||**
+**	न च प्रापितम् अन्येन ग्रसेनार्थं कथंचन ॥ ८।४३ ॥**
 
-**kāryaṃ** vivādavastu | tad **rājā svayaṃ** **na** pravartayet | kasyacid dūṣyasyopaghātārthaṃ dhanino vā dhanagrahaṇārthaṃ na tadīyam ṛṇikam anyaṃ vāparāddham udvejayet: eṣa te dhārayati kim iti mamāgrato nākarṣasi, etena vā tāvad aparāddhaṃ yāvad aham enaṃ nipātayāmi — ity evaṃ rājñā na kartavyam, saty api dveṣe dhanalobhe vā | **na ca prāpitam** āveditam **anyenā**rthinā **graseta** nigiren nopekṣeteti yāvat | avadhīraṇāyāṃ nigired iti prayujyate | tatsamānārthaś ca grasatiḥ | tathā ca vaktāro bhavanti yāvat kiṃcid asyocyate tat sarvaṃ nigirati na kiṃcid ayaṃ prativakti |
+**कार्यं** विवादवस्तु । तद् **राजा स्वयं** **न** प्रवर्तयेत् । कस्यचिद् दूष्यस्योपघातार्थं धनिनो वा धनग्रहणार्थं न तदीयम् ऋणिकम् अन्यं वापराद्धम् उद्वेजयेत्: एष ते धारयति किम् इति ममाग्रतो नाकर्षसि, एतेन वा तावद् अपराद्धं यावद् अहम् एनं निपातयामि — इत्य् एवं राज्ञा न कर्तव्यम्, सत्य् अपि द्वेषे धनलोभे वा । **न च प्रापितम्** आवेदितम् **अन्येना**र्थिना **ग्रसेत** निगिरेन् नोपेक्षेतेति यावत् । अवधीरणायां निगिरेद् इति प्रयुज्यते । तत्समानार्थश् च ग्रसतिः । तथा च वक्तारो भवन्ति यावत् किंचिद् अस्योच्यते तत् सर्वं निगिरति न किंचिद् अयं प्रतिवक्ति ।
 
-	<span style="text-decoration:underline;">anye</span> tūttaraṃ ślokārdham evaṃ vyācakṣate | **na ca prāpitaṃ** vyavahārād anyena prakāreṇ**ārthaṃ** dhanaṃ **graseta** svīkuryāt | yadi hi rājā chalaleśoddeśikayā dhanadaṇḍe pravarteta tataḥ paraloke doṣo draṣṭavyaḥ | svarājye[^170] copaghātaḥ syāt |
+	<span style="text-decoration:underline;">अन्ये</span> तूत्तरं श्लोकार्धम् एवं व्याचक्षते । **न च प्रापितं** व्यवहाराद् अन्येन प्रकारेण्**आर्थं** धनं **ग्रसेत** स्वीकुर्यात् । यदि हि राजा छललेशोद्देशिकया धनदण्डे प्रवर्तेत ततः परलोके दोषो द्रष्टव्यः । स्वराज्ये[^१७०] चोपघातः स्यात् ।
 
-	<span style="text-decoration:underline;">athedam</span> aparaṃ keṣāṃcid vyākhyānam | **notpādayet svayaṃ kāryaṃ** **rājā** | sākṣād upalabhyāpy akāryakāriṇaṃ na svayaṃ kiṃcid brūyāt, tasya parādhīnena yāvad vyavahāreṇa nākṛṣṭaḥ | yena vyavahāradarśanam eva parājitasya nigrahāya bhavati, na rājā | etac ca ṛṇādānādiṣv[^171] eva draṣṭavyam | ye tu stenasāhasikādayaḥ kaṇṭakasthānīyās tān rājā svayam evāvagamya gṛhṇīyāt | śeṣaṃ samānam | 
+	<span style="text-decoration:underline;">अथेदम्</span> अपरं केषांचिद् व्याख्यानम् । **नोत्पादयेत् स्वयं कार्यं** **राजा** । साक्षाद् उपलभ्याप्य् अकार्यकारिणं न स्वयं किंचिद् ब्रूयात्, तस्य पराधीनेन यावद् व्यवहारेण नाकृष्टः । येन व्यवहारदर्शनम् एव पराजितस्य निग्रहाय भवति, न राजा । एतच् च ऋणादानादिष्व्[^१७१] एव द्रष्टव्यम् । ये तु स्तेनसाहसिकादयः कण्टकस्थानीयास् तान् राजा स्वयम् एवावगम्य गृह्णीयात् । शेषं समानम् । 
 
-	**nāpy asya pūruṣa** iti asya rājñaḥ puruṣo 'dhikārī manuṣyaḥ || 8.43 ||
+	**नाप्य् अस्य पूरुष** इति अस्य राज्ञः पुरुषो ऽधिकारी मनुष्यः ॥ ८।४३ ॥
 
-	**yathā nayaty asṛkpātair mṛgasya mṛgayuḥ padam |**
+	**यथा नयत्य् असृक्पातैर् मृगस्य मृगयुः पदम् ।**
 
-**	nayet tathānumānena dharmasya nṛpatiḥ padam || 8.44 ||**
+**	नयेत् तथानुमानेन धर्मस्य नृपतिः पदम् ॥ ८।४४ ॥**
 
-yad uktaṃ na svayaṃ dṛṣṭvāpi rājā sahasā kaṃcid ākrameta vā nigṛhṇīyād yataḥ narmaṇāpy etat saṃbhavati | kathaṃ punar etad avagantavyam,[^172] kiṃ parihāsakṛtam etad uta krodhādyanubandhakṛtam iti | ata āha **anumānen**aitaj jñātavyam | **yathā** **mṛgayur** mṛgavyādho viddhvā mṛgaṃ naṣṭaṃ dṛṣṭipathād apakrāntaṃ chidranisṛtair **asṛkpātaiḥ** sravadbhiḥ śoṇitaiḥ **padaṃ mṛgasya nayaty** āsādayaty evaṃ rājā**numānena** parokṣe pratyakṣe vārthakāraṇaṃ niścinuyāt | dharmaś ca kṛtavyavahāraviṣayas tattvāvagamaḥ | uktasyāpy anumānasya punarvacanaṃ smṛtidārḍhyārtham || 8.44 ||
+यद् उक्तं न स्वयं दृष्ट्वापि राजा सहसा कंचिद् आक्रमेत वा निगृह्णीयाद् यतः नर्मणाप्य् एतत् संभवति । कथं पुनर् एतद् अवगन्तव्यम्,[^१७२] किं परिहासकृतम् एतद् उत क्रोधाद्यनुबन्धकृतम् इति । अत आह **अनुमानेन्**ऐतज् ज्ञातव्यम् । **यथा** **मृगयुर्** मृगव्याधो विद्ध्वा मृगं नष्टं दृष्टिपथाद् अपक्रान्तं छिद्रनिसृतैर् **असृक्पातैः** स्रवद्भिः शोणितैः **पदं मृगस्य नयत्य्** आसादयत्य् एवं राजा**नुमानेन** परोक्षे प्रत्यक्षे वार्थकारणं निश्चिनुयात् । धर्मश् च कृतव्यवहारविषयस् तत्त्वावगमः । उक्तस्याप्य् अनुमानस्य पुनर्वचनं स्मृतिदार्ढ्यार्थम् ॥ ८।४४ ॥
 
-	**satyam arthaṃ ca saṃpaśyed ātmānam atha sākṣiṇam |**
+	**सत्यम् अर्थं च संपश्येद् आत्मानम् अथ साक्षिणम् ।**
 
-**	deśaṃ rūpaṃ ca kālaṃ ca vyavahāravidhau sthitaḥ || 8.45 ||**
+**	देशं रूपं च कालं च व्यवहारविधौ स्थितः ॥ ८।४५ ॥**
 
-**vyavahāravidhau** vyavahārakarmaṇi **sthitaḥ** pravṛtto na kevalaṃ vyavahārākṣarāṇi **saṃpaśyed** yāvad etad aparaṃ satyādi | 
+**व्यवहारविधौ** व्यवहारकर्मणि **स्थितः** प्रवृत्तो न केवलं व्यवहाराक्षराणि **संपश्येद्** यावद् एतद् अपरं सत्यादि । 
 
-	tatra **satyasya** darśanaṃ — yady apy arthipratyarthinor anyatareṇa śālīnatayā paripūrṇākṣaraṃ nābhihitaṃ tathāpi yadi rājā pramāṇāntarataḥ pūrvoktād vānumānād eva kathaṃcid īdṛśo 'yam artha iti niścetuṃ pārayet tadā tad āśrayen nopekṣeta, anenaitan na sarvam uktam iti | tad uktam: "chalaṃ nirasya bhūteṣu vyavahārān nayen nṛpaḥ" (YDh 2.19) iti | 
+	तत्र **सत्यस्य** दर्शनं — यद्य् अप्य् अर्थिप्रत्यर्थिनोर् अन्यतरेण शालीनतया परिपूर्णाक्षरं नाभिहितं तथापि यदि राजा प्रमाणान्तरतः पूर्वोक्ताद् वानुमानाद् एव कथंचिद् ईदृशो ऽयम् अर्थ इति निश्चेतुं पारयेत् तदा तद् आश्रयेन् नोपेक्षेत, अनेनैतन् न सर्वम् उक्तम् इति । तद् उक्तम्: "छलं निरस्य भूतेषु व्यवहारान् नयेन् नृपः" (य्ध् २।१९) इति । 
 
-	**arthasya** darśanam — **artha**śabdo dhanavacanaḥ prayojanavacano vā | tatra yadi mahāntam artham āsādayet tadā tyaktvāpy anyāni rājakāryāṇi nodvijeta, vyavahārekṣaṇaṃ kuryād eva | atha vā yadi kaścid brūyāt sākṣibhir artha etasmād gṛhīto 'nyena vā sabhyena[^173] tatra nirūpayitavyaṃ yad etad vyavahārapadaṃ yadi svalpaṃ na saṃbhavati dhanagrahaṇam | atha guru sabhyāḥ sākṣiṇaś ca dainyaṃ gatās tadā saṃbhāvanīyaṃ pramāṇāntarāc ca niścetavyam | 
+	**अर्थस्य** दर्शनम् — **अर्थ**शब्दो धनवचनः प्रयोजनवचनो वा । तत्र यदि महान्तम् अर्थम् आसादयेत् तदा त्यक्त्वाप्य् अन्यानि राजकार्याणि नोद्विजेत, व्यवहारेक्षणं कुर्याद् एव । अथ वा यदि कश्चिद् ब्रूयात् साक्षिभिर् अर्थ एतस्माद् गृहीतो ऽन्येन वा सभ्येन[^१७३] तत्र निरूपयितव्यं यद् एतद् व्यवहारपदं यदि स्वल्पं न संभवति धनग्रहणम् । अथ गुरु सभ्याः साक्षिणश् च दैन्यं गतास् तदा संभावनीयं प्रमाणान्तराच् च निश्चेतव्यम् । 
 
-	etac **cātmānaṃ sākṣiṇaṃ** kṛtvā gaveṣaṇīyam | etad uktaṃ bhavati | kaṇṭakaśodhananyāyena cāraiś cārayet | atha vātmānaṃ saṃpaśyed ātmano 'vasthāṃ saṃpaśyet kośakṣayaṃ mahākośatāṃ vā | asmin pakṣe sākṣiṇa iti svatantraṃ padam | 
+	एतच् **चात्मानं साक्षिणं** कृत्वा गवेषणीयम् । एतद् उक्तं भवति । कण्टकशोधनन्यायेन चारैश् चारयेत् । अथ वात्मानं संपश्येद् आत्मनो ऽवस्थां संपश्येत् कोशक्षयं महाकोशतां वा । अस्मिन् पक्षे साक्षिण इति स्वतन्त्रं पदम् । 
 
-	**deśasya** darśanam — kvacid alpo 'py artho mahattvam āsādayati, mahān api yo 'nyatra sa kvacil[^174] laghu bhavatīti | etad deśasya darśanam | 
+	**देशस्य** दर्शनम् — क्वचिद् अल्पो ऽप्य् अर्थो महत्त्वम् आसादयति, महान् अपि यो ऽन्यत्र स क्वचिल्[^१७४] लघु भवतीति । एतद् देशस्य दर्शनम् । 
 
-	evaṃ **kālo** 'pi draṣṭavyaḥ| 
+	एवं **कालो** ऽपि द्रष्टव्यः। 
 
-	**rūpaṃ** vyavahāravastusvabhāvaḥ | tasya gurulaghutāṃ paśyed iti |
+	**रूपं** व्यवहारवस्तुस्वभावः । तस्य गुरुलघुतां पश्येद् इति ।
 
-	<span style="text-decoration:underline;">anyaiś</span> tu vyākhyātam | satyārthayoḥ sāraphalatāṃ paśyed ātmānaṃ sākṣiṇaṃ kṛtvā[^175] | etad uktaṃ bhavati | arthāt satyaṃ gurutvena mahāprayojanatvād ubhayor lokasādhanarūpatayāśrayitavyam | arthas tyaktavyo 'sāratvāt | deśaḥ svargādiḥ satyasamāśrayaprāpyaḥ | kālaś ciraṃ tatra vāsaḥ | rūpaṃ surūpaṃ sundaraṃ mahoharam | etad eva viparītam, satyatyāgena kevalārthasamāśrayaṇāt || 8.45 ||
+	<span style="text-decoration:underline;">अन्यैश्</span> तु व्याख्यातम् । सत्यार्थयोः सारफलतां पश्येद् आत्मानं साक्षिणं कृत्वा[^१७५] । एतद् उक्तं भवति । अर्थात् सत्यं गुरुत्वेन महाप्रयोजनत्वाद् उभयोर् लोकसाधनरूपतयाश्रयितव्यम् । अर्थस् त्यक्तव्यो ऽसारत्वात् । देशः स्वर्गादिः सत्यसमाश्रयप्राप्यः । कालश् चिरं तत्र वासः । रूपं सुरूपं सुन्दरं महोहरम् । एतद् एव विपरीतम्, सत्यत्यागेन केवलार्थसमाश्रयणात् ॥ ८।४५ ॥
 
-	**sadbhir ācaritaṃ yat syād dhārmikaiś ca dvijātibhiḥ |**
+	**सद्भिर् आचरितं यत् स्याद् धार्मिकैश् च द्विजातिभिः ।**
 
-**	tad deśakulajātīnām aviruddhaṃ prakalpayet || 8.46 ||**
+**	तद् देशकुलजातीनाम् अविरुद्धं प्रकल्पयेत् ॥ ८।४६ ॥**
 
-**santaḥ** pratiṣiddhavarjakāḥ, **dhārmikāḥ** vihitānuṣṭhāyinaḥ | yady apy eka eva śabda ubhayam arthaṃ pratipādayituṃ śaknoti tathāpi bhedopānānād viṣayavibhāgenaivaṃ vyākhyāyate | tair **yad ācaritam** anupalabhyamānaśrutismṛtivākyaṃ **tad deśakulajātīnāṃ prakalpayed** anuṣṭhāpayet | **aviruddhaṃ** śrutismṛtibhir upalabhyamānābhiḥ | yad uktam "jātijānapadān dharmān" (MDh 8.41) ity atra śloke deśakulādyācārasya prāmāṇyam, tasyānena viśeṣaḥ kathyate | āmnāyenāvirodhe[^176] tat pramāṇam, na virodhe tat pramāṇam | tena dṛṣṭārthāny api grāmadeśarājakāryāṇi śāstrāviruddhāny ādaraṇīyāni, na viruddhāni | yathā kvacid deśa ṛṇika ātmānaṃ vikrayya dhanaṃ dāpyate | tac ca "karmaṇāpi samam" (MDh 8.177) ity anena viruddham | anyac ca ślokena darśitam | anyasya tv ācārasya śiṣṭasaṃbandhitayaiva prāmāṇyam uktam "ācāraś caiva sādhūnām" (MDh 2.6) iti | na ca tadviruddhārthasamācaraṇena sādhutvam upapadyate | tasmād yan nādṛṣṭāya[^177] tadviṣayo 'yam upadeśaḥ |
+**सन्तः** प्रतिषिद्धवर्जकाः, **धार्मिकाः** विहितानुष्ठायिनः । यद्य् अप्य् एक एव शब्द उभयम् अर्थं प्रतिपादयितुं शक्नोति तथापि भेदोपानानाद् विषयविभागेनैवं व्याख्यायते । तैर् **यद् आचरितम्** अनुपलभ्यमानश्रुतिस्मृतिवाक्यं **तद् देशकुलजातीनां प्रकल्पयेद्** अनुष्ठापयेत् । **अविरुद्धं** श्रुतिस्मृतिभिर् उपलभ्यमानाभिः । यद् उक्तम् "जातिजानपदान् धर्मान्" (म्ध् ८।४१) इत्य् अत्र श्लोके देशकुलाद्याचारस्य प्रामाण्यम्, तस्यानेन विशेषः कथ्यते । आम्नायेनाविरोधे[^१७६] तत् प्रमाणम्, न विरोधे तत् प्रमाणम् । तेन दृष्टार्थान्य् अपि ग्रामदेशराजकार्याणि शास्त्राविरुद्धान्य् आदरणीयानि, न विरुद्धानि । यथा क्वचिद् देश ऋणिक आत्मानं विक्रय्य धनं दाप्यते । तच् च "कर्मणापि समम्" (म्ध् ८।१७७) इत्य् अनेन विरुद्धम् । अन्यच् च श्लोकेन दर्शितम् । अन्यस्य त्व् आचारस्य शिष्टसंबन्धितयैव प्रामाण्यम् उक्तम् "आचारश् चैव साधूनाम्" (म्ध् २।६) इति । न च तद्विरुद्धार्थसमाचरणेन साधुत्वम् उपपद्यते । तस्माद् यन् नादृष्टाय[^१७७] तद्विषयो ऽयम् उपदेशः ।
 
-	<span style="text-decoration:underline;">anyas</span> tv āha | deśāntare dhārmikaiḥ sadbhir dvijair yad aviruddhaṃ[^178] śrutyā smṛtyantareṇa vācaryate tad deśāntare 'pi rājā prakalpayet | yathā udvṛṣabhayajñādaya udīcyeṣu prasiddhās te prācyair dākṣiṇātyaiḥ pratīcyaiś cānuṣṭheyāḥ | kutaḥ | ācārād dhi smṛtir anumātavyā, smṛteḥ śrutiḥ | sā ca yady evam anumīyate "udīcyair etat kartavyam" iti, tatra taddhitasya bahuṣv artheṣu smaraṇāt "tatra jātaḥ" (Pāṇ 4.3.25), "tatra bhavaḥ" (Pāṇ 4.3.53), "tata āgataḥ" (Pān 4.3.74), tam abhiprasthitaḥ "śeṣe" (Pāṇ 4.2.92) iti caitasya lakṣaṇavikārobhayarūpatvād[^179] anyeṣv apy artheṣu pratipadam anupāteṣu[^180] taddhitasmaraṇān nāsty udīcyo nāma, ya udīcyaśabdena nivartyeta | tataś ca puruṣamātreṇaitat kartavyam ity āpatati, deśasamākhyāyā niyatanimittatvābhāvenāniyāmakatvāt | athaivaṃ vākyam anumīyeta: "udīcyāṃ jātena taddeśavāsinā vā," tad api vyabhicāri | tatra jāto 'pi[^181] nānyatra karoti, tannivāsy apy anyatra jāto na karoty eva | atha "udagdeśābhijanas tannivāsī ca" iti: anityatvād[^182] abhijananivāsayos tad api na yuktam eva | na hi jātiguṇagotrāṇīvābhijananivāsau nityau | tasmān nityasya[^183] kasyacid anuṣṭhātṝṇām avachedakasyānupapatteḥ sarvaviṣayā dharmāḥ | na deśadharmā nāma kecana santi | anenaiva nyāyena kuladharmā api | 
+	<span style="text-decoration:underline;">अन्यस्</span> त्व् आह । देशान्तरे धार्मिकैः सद्भिर् द्विजैर् यद् अविरुद्धं[^१७८] श्रुत्या स्मृत्यन्तरेण वाचर्यते तद् देशान्तरे ऽपि राजा प्रकल्पयेत् । यथा उद्वृषभयज्ञादय उदीच्येषु प्रसिद्धास् ते प्राच्यैर् दाक्षिणात्यैः प्रतीच्यैश् चानुष्ठेयाः । कुतः । आचाराद् धि स्मृतिर् अनुमातव्या, स्मृतेः श्रुतिः । सा च यद्य् एवम् अनुमीयते "उदीच्यैर् एतत् कर्तव्यम्" इति, तत्र तद्धितस्य बहुष्व् अर्थेषु स्मरणात् "तत्र जातः" (पाण् ४।३।२५), "तत्र भवः" (पाण् ४।३।५३), "तत आगतः" (पान् ४।३।७४), तम् अभिप्रस्थितः "शेषे" (पाण् ४।२।९२) इति चैतस्य लक्षणविकारोभयरूपत्वाद्[^१७९] अन्येष्व् अप्य् अर्थेषु प्रतिपदम् अनुपातेषु[^१८०] तद्धितस्मरणान् नास्त्य् उदीच्यो नाम, य उदीच्यशब्देन निवर्त्येत । ततश् च पुरुषमात्रेणैतत् कर्तव्यम् इत्य् आपतति, देशसमाख्याया नियतनिमित्तत्वाभावेनानियामकत्वात् । अथैवं वाक्यम् अनुमीयेत: "उदीच्यां जातेन तद्देशवासिना वा," तद् अपि व्यभिचारि । तत्र जातो ऽपि[^१८१] नान्यत्र करोति, तन्निवास्य् अप्य् अन्यत्र जातो न करोत्य् एव । अथ "उदग्देशाभिजनस् तन्निवासी च" इति: अनित्यत्वाद्[^१८२] अभिजननिवासयोस् तद् अपि न युक्तम् एव । न हि जातिगुणगोत्राणीवाभिजननिवासौ नित्यौ । तस्मान् नित्यस्य[^१८३] कस्यचिद् अनुष्ठातॄणाम् अवछेदकस्यानुपपत्तेः सर्वविषया धर्माः । न देशधर्मा नाम केचन सन्ति । अनेनैव न्यायेन कुलधर्मा अपि । 
 
-	<span style="text-decoration:underline;">kathaṃ</span> tarhi "deśadharmāḥ kuladharmāḥ" iti ca smṛtikārair bhedena vyapadiśyante | 
+	<span style="text-decoration:underline;">कथं</span> तर्हि "देशधर्माः कुलधर्माः" इति च स्मृतिकारैर् भेदेन व्यपदिश्यन्ते । 
 
-	<span style="text-decoration:underline;">uktaṃ</span> dṛṣṭārthā niyatā vyavasthā | tatra dharmas tasya ca niyama upapadyata iti uktam | kulaṃ ca gotraikadeśaḥ | yas tu kṛtsnagotradharmaḥ, yathā "na vāsiṣṭhā vaiśvāmitraiḥ saṃbadhnīyuḥ"[^184] iti, sa nityatvād gotravyapadeśasya nitya eveti[^185] viramyate || 8.46 ||
+	<span style="text-decoration:underline;">उक्तं</span> दृष्टार्था नियता व्यवस्था । तत्र धर्मस् तस्य च नियम उपपद्यत इति उक्तम् । कुलं च गोत्रैकदेशः । यस् तु कृत्स्नगोत्रधर्मः, यथा "न वासिष्ठा वैश्वामित्रैः संबध्नीयुः"[^१८४] इति, स नित्यत्वाद् गोत्रव्यपदेशस्य नित्य एवेति[^१८५] विरम्यते ॥ ८।४६ ॥
 
-_yat sarveṣu vyavahārapadeṣu sādhāraṇaṃ tad uktam | viśeṣavivakṣāyām idam āha |_
+_यत् सर्वेषु व्यवहारपदेषु साधारणं तद् उक्तम् । विशेषविवक्षायाम् इदम् आह ।_
 
-	**adhamarṇārthasiddhyartham uttamarṇena coditaḥ |**
+	**अधमर्णार्थसिद्ध्यर्थम् उत्तमर्णेन चोदितः ।**
 
-**	dāpayed dhanikasyārtham adhamarṇād vibhāvitam || 8.47 ||**
+**	दापयेद् धनिकस्यार्थम् अधमर्णाद् विभावितम् ॥ ८।४७ ॥**
 
-"sopacayaṃ kālāntare dāsyāmi" iti yo dhanam anyasmād gṛhṇāti so **'dharmarṇaḥ** | yas tu "sopacayaṃ pratyādāsyāmi" iti prayuṅkte sa **uttamarṇaḥ** | saṃbandhiśabdhāv etau | adhamarṇasyārthaḥ | **artho** dhanaṃ prakaraṇād yad evottamarṇāya deyaṃ tad evocyate | tasya **siddhir** uttamarṇaṃ prati niryāṇam[^186] | dvitīyo 'rthaśabdaḥ prayojanavacanaḥ | ayaṃ samudāyārthaḥ | uttamarṇena yadā rājā **codito** bhavaty adhamarṇena yo gṛhīto 'rthaḥ sa me siddhyatu, dāpayatu, bhavān, rājā  tv adhamarṇāt tadā **dāpayed dhanikasyārtham** | dhanam asyāstīti **dhanikaḥ** | uttamarṇa eva ca prasiddhyā dhanika ucyate | **dāpayed** iti saṃbandhāc caturthī prāptā | sā tv apūrṇatvāt saṃpradānabhāvasya na kṛtā | yathā ghnataḥ pṛṣṭhaṃ dadāti, rajakasya vastraṃ dadātīti | na hy atra mukhyo dadātyarthaḥ | ihāpy ubhayoḥ svatvasya bhāvād ubhayoḥ svatvābhāvād aparipūrṇo dadātītyarthaḥ |
+"सोपचयं कालान्तरे दास्यामि" इति यो धनम् अन्यस्माद् गृह्णाति सो **ऽधर्मर्णः** । यस् तु "सोपचयं प्रत्यादास्यामि" इति प्रयुङ्क्ते स **उत्तमर्णः** । संबन्धिशब्धाव् एतौ । अधमर्णस्यार्थः । **अर्थो** धनं प्रकरणाद् यद् एवोत्तमर्णाय देयं तद् एवोच्यते । तस्य **सिद्धिर्** उत्तमर्णं प्रति निर्याणम्[^१८६] । द्वितीयो ऽर्थशब्दः प्रयोजनवचनः । अयं समुदायार्थः । उत्तमर्णेन यदा राजा **चोदितो** भवत्य् अधमर्णेन यो गृहीतो ऽर्थः स मे सिद्ध्यतु, दापयतु, भवान्, राजा  त्व् अधमर्णात् तदा **दापयेद् धनिकस्यार्थम्** । धनम् अस्यास्तीति **धनिकः** । उत्तमर्ण एव च प्रसिद्ध्या धनिक उच्यते । **दापयेद्** इति संबन्धाच् चतुर्थी प्राप्ता । सा त्व् अपूर्णत्वात् संप्रदानभावस्य न कृता । यथा घ्नतः पृष्ठं ददाति, रजकस्य वस्त्रं ददातीति । न ह्य् अत्र मुख्यो ददात्यर्थः । इहाप्य् उभयोः स्वत्वस्य भावाद् उभयोः स्वत्वाभावाद् अपरिपूर्णो ददातीत्यर्थः ।
 
-	kim uttamarṇavacanād evāsau dāpayitavyaḥ | nety āha: **vibhāvitam** iti | yadā niścitena pramāṇena dhārayatīti pratipadyate | atha vā **vibhāvitaḥ** svayaṃ pratipannaḥ | yato vipratipannasya vakṣyati "apahnave 'dhamarṇasya" (MDh 8.52) iti | kathaṃ punaḥ svayaṃ pratipanno vibhāvita ity ucyate | naiṣa doṣaḥ | vismaraṇe svahastalekhyādinā svayaṃ pratipannaś ca bhavati | vibhāvitaś cāpratipannaś ca jānāno 'pi mithyāpratipannaḥ || 8.47 ||
+	किम् उत्तमर्णवचनाद् एवासौ दापयितव्यः । नेत्य् आह: **विभावितम्** इति । यदा निश्चितेन प्रमाणेन धारयतीति प्रतिपद्यते । अथ वा **विभावितः** स्वयं प्रतिपन्नः । यतो विप्रतिपन्नस्य वक्ष्यति "अपह्नवे ऽधमर्णस्य" (म्ध् ८।५२) इति । कथं पुनः स्वयं प्रतिपन्नो विभावित इत्य् उच्यते । नैष दोषः । विस्मरणे स्वहस्तलेख्यादिना स्वयं प्रतिपन्नश् च भवति । विभावितश् चाप्रतिपन्नश् च जानानो ऽपि मिथ्याप्रतिपन्नः ॥ ८।४७ ॥
 
-	**yair yair upayair arthaṃ svaṃ prāpnuyād uttamarṇikaḥ |**
+	**यैर् यैर् उपयैर् अर्थं स्वं प्राप्नुयाद् उत्तमर्णिकः ।**
 
-**	tais tair upāyaiḥ saṃgṛhya dāpayed adhamarṇikam || 8.48 ||**
+**	तैस् तैर् उपायैः संगृह्य दापयेद् अधमर्णिकम् ॥ ८।४८ ॥**
 
-nehāprāptārthād uttamarṇād rājñe bhāgaṃ vakṣyaty adharmaṇād daṇḍam | tatra svabhāgatṛṣṇayā rājāna upāyāntareṇa dhanamārgaṇaṃ dhanikānāṃ kārayeyur atas tannivṛttyartham idam ucyate | **yair yair** vakṣyamāṇair **upāyaiḥ** svadhanaṃ pūrvaprayuktam **uttamarṇo** labheta **tais tair** **adhamarṇaṃ dāpayet** | **saṃgṛhya** sthirīkṛtya | anenaivopāyenaitasmād etal labhyata ity etan niścityety arthaḥ | atha vānukūlam upasāntvanaṃ **saṃgrahaḥ**[^187] | uttamarṇa eva **uttamarṇikaḥ** | uttamaṃ ca tad ṛṇaṃ cottamarṇam | tad asyāstīty **uttamarṇikaḥ** | "ata iniṭhanau" (Pāṇ 5.2.115) iti rūpam | evam itarāv api | sarvadhanādiṣu prakṣeptavyāv anyatra vīrapuruṣako grāma itivad bahuvrīhiṇaiva sāmānādhikaraṇyasya matvarthe coktārthāviśeṣeṇa samāsaḥ | matvarīyaś ca durlabhaḥ[^188] | vṛddhilābhārthaṃ prayogaviṣayaṃ dhanam ṛṇam | dvau ca tasya saṃbandhinau prayoktā grahītā ca | prayojakasya ca tad uttamaṃ bhavati | svatantro dhanadāne pratyādāne ca | itarasya sopacayadānād bahvāyāmatvāc cādhamatvam | vyutpattimātraṃ tv etat | rūḍhyaiva tv etau prayoktṛgrahītror vācakau | ke punas tatropāyā ityetatpradarśanārtha uttaraślokaḥ || 8.48 ||
+नेहाप्राप्तार्थाद् उत्तमर्णाद् राज्ञे भागं वक्ष्यत्य् अधर्मणाद् दण्डम् । तत्र स्वभागतृष्णया राजान उपायान्तरेण धनमार्गणं धनिकानां कारयेयुर् अतस् तन्निवृत्त्यर्थम् इदम् उच्यते । **यैर् यैर्** वक्ष्यमाणैर् **उपायैः** स्वधनं पूर्वप्रयुक्तम् **उत्तमर्णो** लभेत **तैस् तैर्** **अधमर्णं दापयेत्** । **संगृह्य** स्थिरीकृत्य । अनेनैवोपायेनैतस्माद् एतल् लभ्यत इत्य् एतन् निश्चित्येत्य् अर्थः । अथ वानुकूलम् उपसान्त्वनं **संग्रहः**[^१८७] । उत्तमर्ण एव **उत्तमर्णिकः** । उत्तमं च तद् ऋणं चोत्तमर्णम् । तद् अस्यास्तीत्य् **उत्तमर्णिकः** । "अत इनिठनौ" (पाण् ५।२।११५) इति रूपम् । एवम् इतराव् अपि । सर्वधनादिषु प्रक्षेप्तव्याव् अन्यत्र वीरपुरुषको ग्राम इतिवद् बहुव्रीहिणैव सामानाधिकरण्यस्य मत्वर्थे चोक्तार्थाविशेषेण समासः । मत्वरीयश् च दुर्लभः[^१८८] । वृद्धिलाभार्थं प्रयोगविषयं धनम् ऋणम् । द्वौ च तस्य संबन्धिनौ प्रयोक्ता ग्रहीता च । प्रयोजकस्य च तद् उत्तमं भवति । स्वतन्त्रो धनदाने प्रत्यादाने च । इतरस्य सोपचयदानाद् बह्वायामत्वाच् चाधमत्वम् । व्युत्पत्तिमात्रं त्व् एतत् । रूढ्यैव त्व् एतौ प्रयोक्तृग्रहीत्रोर् वाचकौ । के पुनस् तत्रोपाया इत्येतत्प्रदर्शनार्थ उत्तरश्लोकः ॥ ८।४८ ॥
 
-	**dharmeṇa vyavahāreṇa chalenācaritena ca |**
+	**धर्मेण व्यवहारेण छलेनाचरितेन च ।**
 
-**	prayuktaṃ sādhayed arthaṃ pañcamena balena ca || 8.49 ||**
+**	प्रयुक्तं साधयेद् अर्थं पञ्चमेन बलेन च ॥ ८।४९ ॥**
 
-tatra dharmaskandhakarītyā stokaṃ stokaṃ grahaṇam — "idam adya, idaṃ śva, idaṃ paraśvaḥ, yathā kuṭumbasaṃvāho 'syaivaṃ vayam api tava kuṛumbabhūtāḥ saṃvibhāgayogyāḥ" — ityādi paṭhitaprayogo **dharmaḥ** | yas tu niḥsvaḥ sa **vyavahāreṇa**[^189] dāpayitavyaḥ | anyatra karṇodakavad dhanaṃ datvā kṛṣivāṇijyādinā vyavahārayitavyam | tatrotpannaṃ dhanaṃ tasmād grahītavyam | yas tu vyavahāro rājanivedyas tasya sarvopāyaparikṣaye yojyatvād **bala**grahaṇena[^190] ca gṛhītatvāt | yas tu sākṣān na dadāti vidyamānadhano 'pi sa **chalena** dāpayitavyaḥ | kenacid apadeśena vivāhotsavādinā kaṭakādyābharaṇaṃ gṛhītvā na dātavyam, yāvad anena tad dhanaṃ na dattam | **ācaritam** abhojanagṛhadvāropaveśanādi | **balaṃ** rājādhikaraṇopasthānam | tatra rājā sāmnāprayacchantaṃ nigṛhya ca prapīḍya dāpayatīti | na tu[^191] svagṛhasaṃbandhidhanādi balam, yataḥ "prakṛtīnāṃ balaṃ rājā" iti paṭhyate asminn eva prasaṅge uśanasā | 
+तत्र धर्मस्कन्धकरीत्या स्तोकं स्तोकं ग्रहणम् — "इदम् अद्य, इदं श्व, इदं परश्वः, यथा कुटुम्बसंवाहो ऽस्यैवं वयम् अपि तव कुऋउम्बभूताः संविभागयोग्याः" — इत्यादि पठितप्रयोगो **धर्मः** । यस् तु निःस्वः स **व्यवहारेण**[^१८९] दापयितव्यः । अन्यत्र कर्णोदकवद् धनं दत्वा कृषिवाणिज्यादिना व्यवहारयितव्यम् । तत्रोत्पन्नं धनं तस्माद् ग्रहीतव्यम् । यस् तु व्यवहारो राजनिवेद्यस् तस्य सर्वोपायपरिक्षये योज्यत्वाद् **बल**ग्रहणेन[^१९०] च गृहीतत्वात् । यस् तु साक्षान् न ददाति विद्यमानधनो ऽपि स **छलेन** दापयितव्यः । केनचिद् अपदेशेन विवाहोत्सवादिना कटकाद्याभरणं गृहीत्वा न दातव्यम्, यावद् अनेन तद् धनं न दत्तम् । **आचरितम्** अभोजनगृहद्वारोपवेशनादि । **बलं** राजाधिकरणोपस्थानम् । तत्र राजा साम्नाप्रयच्छन्तं निगृह्य च प्रपीड्य दापयतीति । न तु[^१९१] स्वगृहसंबन्धिधनादि बलम्, यतः "प्रकृतीनां बलं राजा" इति पठ्यते अस्मिन्न् एव प्रसङ्गे उशनसा । 
 
-	<span style="text-decoration:underline;">anye</span> tu rājña evāyam upadeśa iti varṇayanti, rājadharmaprakaraṇāt | rājā jñāpita upāyair enaṃ dāpayet parājitaṃ svayaṃ pratipannaṃ ca | na tu sahasāvaṣṭabhya sarvasvaṃ dhanine pratipādanīyaḥ | yata ubhayānugraho rājñā kartavyaḥ | sarvasvadāne cādharmaṇasya kuṭumbotsādaḥ syāt so 'pi na yuktaḥ | uktaṃ hi:
+	<span style="text-decoration:underline;">अन्ये</span> तु राज्ञ एवायम् उपदेश इति वर्णयन्ति, राजधर्मप्रकरणात् । राजा ज्ञापित उपायैर् एनं दापयेत् पराजितं स्वयं प्रतिपन्नं च । न तु सहसावष्टभ्य सर्वस्वं धनिने प्रतिपादनीयः । यत उभयानुग्रहो राज्ञा कर्तव्यः । सर्वस्वदाने चाधर्मणस्य कुटुम्बोत्सादः स्यात् सो ऽपि न युक्तः । उक्तं हि:
 
-	nāvasādya śanair dāpyaḥ kāle kāle yathodayam |
+	नावसाद्य शनैर् दाप्यः काले काले यथोदयम् ।
 
-	brāhmaṇas tu viśeṣeṇa dhārmike sati rājani || iti |
+	ब्राह्मणस् तु विशेषेण धार्मिके सति राजनि ॥ इति ।
 
-tasmāt kiṃcana vṛddhyā saṃdāpanīyaḥ | kuṭumbād adhikadhanasaṃbhave sarvaṃ dāpanīyaḥ | sarvāsaṃbhave ca "karmaṇāpi samaṃ kuryāt" (MDh 8.177) iti | anyasmin vyākhyāne chalācārau rājānam ajñāpayitvā na kāryau || 8.49 ||
+तस्मात् किंचन वृद्ध्या संदापनीयः । कुटुम्बाद् अधिकधनसंभवे सर्वं दापनीयः । सर्वासंभवे च "कर्मणापि समं कुर्यात्" (म्ध् ८।१७७) इति । अन्यस्मिन् व्याख्याने छलाचारौ राजानम् अज्ञापयित्वा न कार्यौ ॥ ८।४९ ॥
 
-	**yaḥ svayaṃ sādhayed artham uttamarṇo 'dhamarṇikāt |**
+	**यः स्वयं साधयेद् अर्थम् उत्तमर्णो ऽधमर्णिकात् ।**
 
-**	na sa rājñābhiyoktavyaḥ svakaṃ saṃsādhayan dhanam || 8.50 ||**
+**	न स राज्ञाभियोक्तव्यः स्वकं संसाधयन् धनम् ॥ ८।५० ॥**
 
-uktasyaivārthasya spaṣṭīkaraṇārthaḥ ślokaḥ | na chalādinopāyena svecchay**ottamarṇo** **'dhamarṇād** dhanaṃ **saṃsādhayan** **rājñā** kiṃcid vaktavyaḥ: "mām avijñāpya kim ity asmād ābharaṇādi svadhanasaṃśuddhyarthaṃ vyājena chadmanā gṛhītam,[^192] gṛhītvā vā[^193] kiṃ nāsmai pratiprayacchasi" iti || 8.50 ||
+उक्तस्यैवार्थस्य स्पष्टीकरणार्थः श्लोकः । न छलादिनोपायेन स्वेच्छय्**ओत्तमर्णो** **ऽधमर्णाद्** धनं **संसाधयन्** **राज्ञा** किंचिद् वक्तव्यः: "माम् अविज्ञाप्य किम् इत्य् अस्माद् आभरणादि स्वधनसंशुद्ध्यर्थं व्याजेन छद्मना गृहीतम्,[^१९२] गृहीत्वा वा[^१९३] किं नास्मै प्रतिप्रयच्छसि" इति ॥ ८।५० ॥
 
-	**arthe 'pavyayamānaṃ tu kāraṇena**[^194]** vibhāvitam |**
+	**अर्थे ऽपव्ययमानं तु कारणेन**[^१९४]** विभावितम् ।**
 
-**	dāpayed dhanikasyārthaṃ daṇḍaleśaṃ ca śaktitaḥ || 8.51 ||**
+**	दापयेद् धनिकस्यार्थं दण्डलेशं च शक्तितः ॥ ८।५१ ॥**
 
-saty api vibhāvake pramāṇe yo na svayaṃ pratipadyate na tasya chalādyupāyaprayogaḥ kartavyaḥ | kiṃ tarhi rājaiva tena jñapayitavyaḥ | tatra rājñākārite **'rthe** ṛṇe **'pavyayamānam** apahnuvānam, "nāsmai kiṃcana dhārayami" iti vadantaṃ, **kāraṇena** sākṣilekhyabhuktyātmakena **vibhāvitaṃ** dhārayāmīti pratipāditaṃ **dāpayed** uttamarṇāya dhanam | **daṇḍaleśaṃ** ca svalpaṃ daṇḍaṃ daṇḍamātram ity arthaḥ | anyatra daśamaṃ bhāgaṃ[^195] vakṣyati | yas tu tāvad dātum aśaktaḥ so 'lpam api daśamād bhāgād daṇḍaṃ dāpayitavyaḥ | atha vā yaḥ pramādāt kathaṃcid vismṛtyāpajānīte tasyāyaṃ yathāśakti daśamabhāgālpato daṇḍaḥ | **kāraṇaṃ** pramāṇaṃ trividham | tad anyair iha saṃbhavatīti parigaṇitam | tathā cāhuḥ:
+सत्य् अपि विभावके प्रमाणे यो न स्वयं प्रतिपद्यते न तस्य छलाद्युपायप्रयोगः कर्तव्यः । किं तर्हि राजैव तेन ज्ञपयितव्यः । तत्र राज्ञाकारिते **ऽर्थे** ऋणे **ऽपव्ययमानम्** अपह्नुवानम्, "नास्मै किंचन धारयमि" इति वदन्तं, **कारणेन** साक्षिलेख्यभुक्त्यात्मकेन **विभावितं** धारयामीति प्रतिपादितं **दापयेद्** उत्तमर्णाय धनम् । **दण्डलेशं** च स्वल्पं दण्डं दण्डमात्रम् इत्य् अर्थः । अन्यत्र दशमं भागं[^१९५] वक्ष्यति । यस् तु तावद् दातुम् अशक्तः सो ऽल्पम् अपि दशमाद् भागाद् दण्डं दापयितव्यः । अथ वा यः प्रमादात् कथंचिद् विस्मृत्यापजानीते तस्यायं यथाशक्ति दशमभागाल्पतो दण्डः । **कारणं** प्रमाणं त्रिविधम् । तद् अन्यैर् इह संभवतीति परिगणितम् । तथा चाहुः:
 
-	yatra na syāt kṛtaṃ patraṃ sākṣī caiva na vidyate |
+	यत्र न स्यात् कृतं पत्रं साक्षी चैव न विद्यते ।
 
-	na copalaṃbhaḥ pūrvokto daivī tatra kriyā bhavet || iti || 8.51 ||
+	न चोपलंभः पूर्वोक्तो दैवी तत्र क्रिया भवेत् ॥ इति ॥ ८।५१ ॥
 
-	**apahnave 'dhamarṇasya dehīty uktasya saṃsadi |**
+	**अपह्नवे ऽधमर्णस्य देहीत्य् उक्तस्य संसदि ।**
 
-**	abhiyoktā diśed deśaṃ kāraṇaṃ**[^196]** vānyad uddiśet || 8.52 ||**
+**	अभियोक्ता दिशेद् देशं कारणं**[^१९६]** वान्यद् उद्दिशेत् ॥ ८।५२ ॥**
 
-yadā rājñā prāḍvivākena vā **saṃsadi** vyavahārādhikaraṇādideśe "dehy[^197] uttamarṇāya dhanam" iti **uktasyāpahnavo** 'palāpaḥ[^198] adharmeṇa bhavati, tad**ābhiyoktā**[^199] dhanasya prayoktottamarṇo[^200] **diśed deśaṃ** sākṣiṇaṃ pramāṇabhūtaṃ nirdiśet | **anyad vā kāraṇaṃ** lekhyādi | **deśa**śabdena lakṣaṇayā dhanaprayogapradeśavartināṃ sākṣiṇām upādānāt, **kāraṇa**śabdaḥ[^201] sāmānyaśabdo 'pi gobalīvardavat sākṣivyatiriktaṃ lekhyādikāraṇam[^202] ācaṣṭe | tataś ca pāṭhāntaram "kāraṇaṃ vā samuddiśet" iti | asyāpy ayam evārthaḥ | 
+यदा राज्ञा प्राड्विवाकेन वा **संसदि** व्यवहाराधिकरणादिदेशे "देह्य्[^१९७] उत्तमर्णाय धनम्" इति **उक्तस्यापह्नवो** ऽपलापः[^१९८] अधर्मेण भवति, तद्**आभियोक्ता**[^१९९] धनस्य प्रयोक्तोत्तमर्णो[^२००] **दिशेद् देशं** साक्षिणं प्रमाणभूतं निर्दिशेत् । **अन्यद् वा कारणं** लेख्यादि । **देश**शब्देन लक्षणया धनप्रयोगप्रदेशवर्तिनां साक्षिणाम् उपादानात्, **कारण**शब्दः[^२०१] सामान्यशब्दो ऽपि गोबलीवर्दवत् साक्षिव्यतिरिक्तं लेख्यादिकारणम्[^२०२] आचष्टे । ततश् च पाठान्तरम् "कारणं वा समुद्दिशेत्" इति । अस्याप्य् अयम् एवार्थः । 
 
-	atha vāyam anyaḥ pāṭhaḥ "abhiyukto diśed deśam" iti | ayaṃ vārthaḥ | yatrādhamarṇo dehīty uktaḥ pratijānīte "satyam eva dhanaṃ pratidattaṃ tu tat" iti,[^203] yad asāv abhiyoktāsīt sa evābhiyuktaḥ saṃvṛtaḥ | sa cābhiyuktaḥ saṃdiśed deśam: "kasmin deśe tvayā me partidattam" | kālaṃ ca nirdiśet, deśagrahaṇasya pradarśanārthatvāt | **kāraṇaṃ**[^204] **vā samuddiśet** | "asti bho[^205] kiṃ kāraṇaṃ[^206] tava pratipādane tat samuddiśa" ity evam brūyāt | atha vā diśed deśyam: yat tasmin kāle nārhaṃ sākṣyādipradarśanaṃ[^207] kāraṇaṃ[^208] veti | vāśabdaḥ caśadbasya sthāne || 8.52 ||
+	अथ वायम् अन्यः पाठः "अभियुक्तो दिशेद् देशम्" इति । अयं वार्थः । यत्राधमर्णो देहीत्य् उक्तः प्रतिजानीते "सत्यम् एव धनं प्रतिदत्तं तु तत्" इति,[^२०३] यद् असाव् अभियोक्तासीत् स एवाभियुक्तः संवृतः । स चाभियुक्तः संदिशेद् देशम्: "कस्मिन् देशे त्वया मे पर्तिदत्तम्" । कालं च निर्दिशेत्, देशग्रहणस्य प्रदर्शनार्थत्वात् । **कारणं**[^२०४] **वा समुद्दिशेत्** । "अस्ति भो[^२०५] किं कारणं[^२०६] तव प्रतिपादने तत् समुद्दिश" इत्य् एवम् ब्रूयात् । अथ वा दिशेद् देश्यम्: यत् तस्मिन् काले नार्हं साक्ष्यादिप्रदर्शनं[^२०७] कारणं[^२०८] वेति । वाशब्दः चशद्बस्य स्थाने ॥ ८।५२ ॥
 
-	**adeśaṃ**[^209]** yaś ca diśati nirdiśyāpahnute ca yaḥ |**
+	**अदेशं**[^२०९]** यश् च दिशति निर्दिश्यापह्नुते च यः ।**
 
-**	yaś cādharottarān arthān vigītān nāvabudhyate || 8.53 ||**
+**	यश् चाधरोत्तरान् अर्थान् विगीतान् नावबुध्यते ॥ ८।५३ ॥**
 
-uktam evādharmarṇe 'pahnuvāne dhaninā rājā jñāpayitavyaḥ: "īdṛśī ca jñāpanā kartavyā | asmin deśe 'smin kāla idaṃ dhanam iyad vaitena matsakāśād gṛhītam" | sa ca pṛṣṭo bhāvayati: "naitasmin deśe 'ham abhavaṃ yo 'nena ca grahaṇakāla upadiṣṭaḥ" tad adeśaṃ diśati[^210] | atha vā deśasākṣiṇo vyākhyātās tān sākṣiṇo deśakālāv asaṃbhavato nirdiśati | nirdiśya deśādikam apajānīte "naitan mayā nirdiṣṭam" iti | **yaś cādharottarān arthān** paurastyānaupariṣṭāṃś ca **vigītān** viruddhān abhihitān **nāvabudhyate** | yad vā pūrvaṃ vaktavyaṃ tat parasmād vakti yat paratas tat pūrvaṃ kramabhedaṃ ca vacanagatam ātmano nānusaṃdhatte | "hīnaḥ sa iti nirdiśet" (MDh 8.57) iti sarvatra kriyānuṣaṅgo bhaviṣyatīti || 8.53 ||
+उक्तम् एवाधर्मर्णे ऽपह्नुवाने धनिना राजा ज्ञापयितव्यः: "ईदृशी च ज्ञापना कर्तव्या । अस्मिन् देशे ऽस्मिन् काल इदं धनम् इयद् वैतेन मत्सकाशाद् गृहीतम्" । स च पृष्टो भावयति: "नैतस्मिन् देशे ऽहम् अभवं यो ऽनेन च ग्रहणकाल उपदिष्टः" तद् अदेशं दिशति[^२१०] । अथ वा देशसाक्षिणो व्याख्यातास् तान् साक्षिणो देशकालाव् असंभवतो निर्दिशति । निर्दिश्य देशादिकम् अपजानीते "नैतन् मया निर्दिष्टम्" इति । **यश् चाधरोत्तरान् अर्थान्** पौरस्त्यानौपरिष्टांश् च **विगीतान्** विरुद्धान् अभिहितान् **नावबुध्यते** । यद् वा पूर्वं वक्तव्यं तत् परस्माद् वक्ति यत् परतस् तत् पूर्वं क्रमभेदं च वचनगतम् आत्मनो नानुसंधत्ते । "हीनः स इति निर्दिशेत्" (म्ध् ८।५७) इति सर्वत्र क्रियानुषङ्गो भविष्यतीति ॥ ८।५३ ॥
 
-	**apadiśyāpadeśyaṃ ca punar yas tv apadhāvati |**
+	**अपदिश्यापदेश्यं च पुनर् यस् त्व् अपधावति ।**
 
-**	samyak praṇihitaṃ cārthaṃ pṛṣṭaḥ san nābhinandati || 8.54 ||**
+**	सम्यक् प्रणिहितं चार्थं पृष्टः सन् नाभिनन्दति ॥ ८।५४ ॥**
 
-pūrveṇārdhenoktasyārthasya nigamanam | uttareṇānukto 'rtha ucyate | yad uktam "adeśaṃ yaś ca diśati nirdiśyāpahnute ca yaḥ" (MDh 8.53) iti sa evārthaḥ **apadiśyety** asya | adeśa ev**āpadeśaḥ** | tam **apadiśya** kathayitvā **punaḥ** paścād **apadhāvaty** apasarati "naitau deśakālau mama niścitau, yāvatsu deśakālo 'vadhārayati tāvad ayaṃ mahyam" iti paścād bravīti | so 'pi tasmād arthād dhīyate | 
+पूर्वेणार्धेनोक्तस्यार्थस्य निगमनम् । उत्तरेणानुक्तो ऽर्थ उच्यते । यद् उक्तम् "अदेशं यश् च दिशति निर्दिश्यापह्नुते च यः" (म्ध् ८।५३) इति स एवार्थः **अपदिश्येत्य्** अस्य । अदेश एव्**आपदेशः** । तम् **अपदिश्य** कथयित्वा **पुनः** पश्चाद् **अपधावत्य्** अपसरति "नैतौ देशकालौ मम निश्चितौ, यावत्सु देशकालो ऽवधारयति तावद् अयं मह्यम्" इति पश्चाद् ब्रवीति । सो ऽपि तस्माद् अर्थाद् धीयते । 
 
-	**samyak praṇihitaṃ cārtham** anākulaṃ niścitam uktaṃ yadā pṛcchyate, tadānenoktaṃ[^211] tatra kiṃ bravīṣi kena vā pramāṇena svapakṣaṃ sādhayasīti pṛṣṭo na saṃdhatte[^212] kathāntaraṃ prasauti — "vicārāvasānena kila me parājayo bhavatīti kālam upakṣipami" iti — tasyāpi parājaya eva | atha **vāpadeśo** vyājas tam **apadiśy**opanyasya yo 'pasarati "adhunā me mahatī pīḍā samutpannā na śaknomi prativaktum," alīkādinā vā prasthitaḥ so 'pi hīyate || 8.54 ||
+	**सम्यक् प्रणिहितं चार्थम्** अनाकुलं निश्चितम् उक्तं यदा पृच्छ्यते, तदानेनोक्तं[^२११] तत्र किं ब्रवीषि केन वा प्रमाणेन स्वपक्षं साधयसीति पृष्टो न संधत्ते[^२१२] कथान्तरं प्रसौति — "विचारावसानेन किल मे पराजयो भवतीति कालम् उपक्षिपमि" इति — तस्यापि पराजय एव । अथ **वापदेशो** व्याजस् तम् **अपदिश्य्**ओपन्यस्य यो ऽपसरति "अधुना मे महती पीडा समुत्पन्ना न शक्नोमि प्रतिवक्तुम्," अलीकादिना वा प्रस्थितः सो ऽपि हीयते ॥ ८।५४ ॥
 
-	**asaṃbhāṣye sākṣibhiś ca deśe saṃbhāṣate mithaḥ |**
+	**असंभाष्ये साक्षिभिश् च देशे संभाषते मिथः ।**
 
-**	nirucyamānaṃ praśnaṃ ca necched yaś cāpi niṣpatet || 8.55 ||**
+**	निरुच्यमानं प्रश्नं च नेच्छेद् यश् चापि निष्पतेत् ॥ ८।५५ ॥**
 
-asaṃbhāṣaṇārhe **deśe** upahvarādau **sākṣibhiḥ** saha **saṃbhāṣata** ekākī tadbhedāśaṅkayā | **nirucyamānaṃ** pṛcchyamānaṃ nirūpyamāṇaṃ vā **praśnaṃ** vicāravastu **necchati** kiṃcid rājakāryam uddiśya rājaputrāmātyādyanugraheṇa[^213] ca kālalābhaṃ karoti | **yaś cāpi niṣpatet** | vakṣyamāṇam eva kriyāpadaṃ "sa hīyate" (MDh 8.56) iti | yad evoktam "punar yas tv apadhāvati" (MDh 8.54) iti sa evārthaḥ "yaś cāpi niṣpatet" iti | punarvacane prayojakam uktam | atyantapaunaruktyaṃ[^214] mā bhūd iti kaścid viśeṣa āśrayitavyaḥ || 8.55 ||
+असंभाषणार्हे **देशे** उपह्वरादौ **साक्षिभिः** सह **संभाषत** एकाकी तद्भेदाशङ्कया । **निरुच्यमानं** पृच्छ्यमानं निरूप्यमाणं वा **प्रश्नं** विचारवस्तु **नेच्छति** किंचिद् राजकार्यम् उद्दिश्य राजपुत्रामात्याद्यनुग्रहेण[^२१३] च काललाभं करोति । **यश् चापि निष्पतेत्** । वक्ष्यमाणम् एव क्रियापदं "स हीयते" (म्ध् ८।५६) इति । यद् एवोक्तम् "पुनर् यस् त्व् अपधावति" (म्ध् ८।५४) इति स एवार्थः "यश् चापि निष्पतेत्" इति । पुनर्वचने प्रयोजकम् उक्तम् । अत्यन्तपौनरुक्त्यं[^२१४] मा भूद् इति कश्चिद् विशेष आश्रयितव्यः ॥ ८।५५ ॥
 
-	**brūhīty uktaś ca na brūyād uktaṃ ca na vibhāvayet |**
+	**ब्रूहीत्य् उक्तश् च न ब्रूयाद् उक्तं च न विभावयेत् ।**
 
-**	na ca pūrvāparaṃ vidyāt tasmād arthāt sa hīyate || 8.56 ||**
+**	न च पूर्वापरं विद्यात् तस्माद् अर्थात् स हीयते ॥ ८।५६ ॥**
 
-uktārtha eva śloko 'yaṃ ślokāntarair dṛśyate | punarvacane ca prayojanam uktam: "bahukṛtvo 'pi pathyaṃ veditavyam" iti | akṣarārthas tv arthinā niḥśeṣite pūrvapakṣe prativādī "brūhy asmin vastuni" iti pṛṣṭo yadi na brūyāt, punaḥ punaḥ pṛcchyamāno[^215] 'pi | yo hi samyag uttarābhāvān mithyottaravāditvād amunaiva me parājayo bhavati tūṣṇībhūtasya tu me saṃśaya eva parājaye ity anayā buddhyā nottaraṃ dadāti, so 'pi jīyate | vakṣyati cātra kālāvacchedam "na cet tripakṣāt prabrūyāt" (MDh 8.58) iti | sadyo hy ākṛṣṭasya pūrvapakṣārthānavabodhād uttarāpratipatter yuktaṃ kālaharaṇam | atra ca divasaiḥ pañcabhir daśabhir dvādaśabhir vā īṣad īṣad vadatas tripakṣasamāptiḥ, na tv iyantaṃ kālaṃ tūṣṇībhāva eva | yaś cāto 'dhikaḥ kālaḥ, "saṃsthito 'pi kaccit saṃvatsaraṃ pratīkṣetāpratibhāvāyām[^216]" (GDh 13.28) iti, na yuktam ādartuṃ yato 'pratibhā[^217] yadi[^218] pratīkṣākāraṇam sā cet[^219] saṃvatsarād ūrdhvaṃ bhavatīti kim ity akāraṇam | na caiṣa niyamaḥ kenacit prakāreṇāvagamyate[^220] 'pratibhāvataḥ[^221] saṃvatsareṇa pratibhā bhavatīti | tasmāt tāvanty evāhāny upekṣā yuktā yāvadbhiḥ pūrvapakṣārthāvadhāraṇaṃ bhavaty uttaraṃ ca pratibhāti | etac cāmukasya mandadhiyo 'py etāvan mātrair ahobhir bhavatīti nādhikaṃ kālam upekṣaṇīyam | 
+उक्तार्थ एव श्लोको ऽयं श्लोकान्तरैर् दृश्यते । पुनर्वचने च प्रयोजनम् उक्तम्: "बहुकृत्वो ऽपि पथ्यं वेदितव्यम्" इति । अक्षरार्थस् त्व् अर्थिना निःशेषिते पूर्वपक्षे प्रतिवादी "ब्रूह्य् अस्मिन् वस्तुनि" इति पृष्टो यदि न ब्रूयात्, पुनः पुनः पृच्छ्यमानो[^२१५] ऽपि । यो हि सम्यग् उत्तराभावान् मिथ्योत्तरवादित्वाद् अमुनैव मे पराजयो भवति तूष्णीभूतस्य तु मे संशय एव पराजये इत्य् अनया बुद्ध्या नोत्तरं ददाति, सो ऽपि जीयते । वक्ष्यति चात्र कालावच्छेदम् "न चेत् त्रिपक्षात् प्रब्रूयात्" (म्ध् ८।५८) इति । सद्यो ह्य् आकृष्टस्य पूर्वपक्षार्थानवबोधाद् उत्तराप्रतिपत्तेर् युक्तं कालहरणम् । अत्र च दिवसैः पञ्चभिर् दशभिर् द्वादशभिर् वा ईषद् ईषद् वदतस् त्रिपक्षसमाप्तिः, न त्व् इयन्तं कालं तूष्णीभाव एव । यश् चातो ऽधिकः कालः, "संस्थितो ऽपि कच्चित् संवत्सरं प्रतीक्षेताप्रतिभावायाम्[^२१६]" (ग्ध् १३।२८) इति, न युक्तम् आदर्तुं यतो ऽप्रतिभा[^२१७] यदि[^२१८] प्रतीक्षाकारणम् सा चेत्[^२१९] संवत्सराद् ऊर्ध्वं भवतीति किम् इत्य् अकारणम् । न चैष नियमः केनचित् प्रकारेणावगम्यते[^२२०] ऽप्रतिभावतः[^२२१] संवत्सरेण प्रतिभा भवतीति । तस्मात् तावन्त्य् एवाहान्य् उपेक्षा युक्ता यावद्भिः पूर्वपक्षार्थावधारणं भवत्य् उत्तरं च प्रतिभाति । एतच् चामुकस्य मन्दधियो ऽप्य् एतावन् मात्रैर् अहोभिर् भवतीति नाधिकं कालम् उपेक्षणीयम् । 
 
-	pūrvapākṣikasya tu tad ahar eva svārthaviniveśanaṃ yuktam | yata idam eṣa me dhārayatīdaṃ vānena mamāpakṛtam iti niścitaṃ tasya bhavati | svecchayā hy asau pravartate | kevalaṃ tasmai svapakṣam āvedayate kim ity aniścitaḥ svārtho bhavati | uttarapākṣikas tv aviditasaṃbandhas tadānīm eva rājapuruṣair ānīyamānaḥ katham iva svaparapakṣau niścinuyāt | pakṣadvayanirūpaṇaṃ hi tad asya tadānīm evāpatati | nānyathottarapākṣiko bhavati | tasmāt pūrvapākṣikasya sādhye vastuni tadahaḥpūrvapakṣasamāptir dvidivasalābho vā | ubhāv api caitau pakṣau smṛtyantaraparigṛhītau | tathā hy āha:
+	पूर्वपाक्षिकस्य तु तद् अहर् एव स्वार्थविनिवेशनं युक्तम् । यत इदम् एष मे धारयतीदं वानेन ममापकृतम् इति निश्चितं तस्य भवति । स्वेच्छया ह्य् असौ प्रवर्तते । केवलं तस्मै स्वपक्षम् आवेदयते किम् इत्य् अनिश्चितः स्वार्थो भवति । उत्तरपाक्षिकस् त्व् अविदितसंबन्धस् तदानीम् एव राजपुरुषैर् आनीयमानः कथम् इव स्वपरपक्षौ निश्चिनुयात् । पक्षद्वयनिरूपणं हि तद् अस्य तदानीम् एवापतति । नान्यथोत्तरपाक्षिको भवति । तस्मात् पूर्वपाक्षिकस्य साध्ये वस्तुनि तदहःपूर्वपक्षसमाप्तिर् द्विदिवसलाभो वा । उभाव् अपि चैतौ पक्षौ स्मृत्यन्तरपरिगृहीतौ । तथा ह्य् आह:
 
-	suniścitabalādhānaḥ pūrvapakṣī bhavet sadā |
+	सुनिश्चितबलाधानः पूर्वपक्षी भवेत् सदा ।
 
-	daśāhaṃ dvādaśāhaṃ vā svapakṣaṃ pariśodhayet || iti |
+	दशाहं द्वादशाहं वा स्वपक्षं परिशोधयेत् ॥ इति ।
 
-tathedam aparam "tato 'rthī lekhayet sadyaḥ pratijñātārthasādhanam" (YDh 2.7) |
+तथेदम् अपरम् "ततो ऽर्थी लेखयेत् सद्यः प्रतिज्ञातार्थसाधनम्" (य्ध् २।७) ।
 
-	yā tu saṃvatsaraparīkṣā sā mūlāsaṃbhavād apramāṇam | na hi vyavahārasmṛtāv aṣṭakādivad vedamūlatā śakyate vaktum, akāryarūpatvād arthasya | pramāṇāntaraviṣayatve ca tadasaṃbhavaḥ pratipāditaḥ | 
+	या तु संवत्सरपरीक्षा सा मूलासंभवाद् अप्रमाणम् । न हि व्यवहारस्मृताव् अष्टकादिवद् वेदमूलता शक्यते वक्तुम्, अकार्यरूपत्वाद् अर्थस्य । प्रमाणान्तरविषयत्वे च तदसंभवः प्रतिपादितः । 
 
-	eṣāpi tripakṣopekṣā na sarvatra | yat uktam:
+	एषापि त्रिपक्षोपेक्षा न सर्वत्र । यत् उक्तम्:
 
-	sāhasasteyapāruṣyago'bhiśāpātyaye striyām |
+	साहसस्तेयपारुष्यगोऽभिशापात्यये स्त्रियाम् ।
 
-	vivādayet sadya eva kālo 'nyatrecchayā smṛtaḥ || iti | (YDh 2.12)
+	विवादयेत् सद्य एव कालो ऽन्यत्रेच्छया स्मृतः ॥ इति । (य्ध् २।१२)
 
-	sāhasādau hi ciram upekṣyamāṇe 'param ārādhnuyāt[^222] | ataḥ sadyo vivādo vidhīyate | na cātrāsmṛtyādayo[^223] 'nuktahetavaḥ saṃbhavanti | sāhasādikāraṇaṃ hi tadānīm eva rājānaṃ vedayet | tīvrasaṃvegatā hi tatra bhavati | vastrādyapahāreṇa[^224] tadupekṣāyāṃ rāgaśaṅkā[^225] bhavati | sākṣiṇas tatra yadṛcchayā saṃnihitā api bhavanti | te hi deśāntaraṃ gatā namajātyādibhir na vijñāyante | tataḥ svābhāvikapramāṇābhāvaḥ |
+	साहसादौ हि चिरम् उपेक्ष्यमाणे ऽपरम् आराध्नुयात्[^२२२] । अतः सद्यो विवादो विधीयते । न चात्रास्मृत्यादयो[^२२३] ऽनुक्तहेतवः संभवन्ति । साहसादिकारणं हि तदानीम् एव राजानं वेदयेत् । तीव्रसंवेगता हि तत्र भवति । वस्त्राद्यपहारेण[^२२४] तदुपेक्षायां रागशङ्का[^२२५] भवति । साक्षिणस् तत्र यदृच्छया संनिहिता अपि भवन्ति । ते हि देशान्तरं गता नमजात्यादिभिर् न विज्ञायन्ते । ततः स्वाभाविकप्रमाणाभावः ।
 
-	kiṃ ca ṛṇādānādiṣu kadācid itaretaraṃ saṃdadhate | na tatra rājño hastaprakṣepaḥ | prāyeṇa[^226] ca saṃśuddhau nānusmṛtir[^227] upayujyate tadā kiyad dattam iti | sāhasakārī tu rājñāvaśyaṃ nigrahītavya itareṇa saṃdhīyamāno 'pi | tasmād ṛṇādiṣu kālaharaṇaṃ sāhasādiṣu sadya iti sthitam | tad uktam:
+	किं च ऋणादानादिषु कदाचिद् इतरेतरं संदधते । न तत्र राज्ञो हस्तप्रक्षेपः । प्रायेण[^२२६] च संशुद्धौ नानुस्मृतिर्[^२२७] उपयुज्यते तदा कियद् दत्तम् इति । साहसकारी तु राज्ञावश्यं निग्रहीतव्य इतरेण संधीयमानो ऽपि । तस्माद् ऋणादिषु कालहरणं साहसादिषु सद्य इति स्थितम् । तद् उक्तम्:
 
-	gahanatvād vivādānām asāmarthyāt smṛter api |
+	गहनत्वाद् विवादानाम् असामर्थ्यात् स्मृतेर् अपि ।
 
-	ṛṇādiṣu haret kālaṃ kāmaṃ tattvabubhutsayā || (NSm Mā 1.38)
+	ऋणादिषु हरेत् कालं कामं तत्त्वबुभुत्सया ॥ (न्स्म् मा १।३८)
 
-yadā saṃkulaḥ pūrvapakṣo bhavati tadā gahanatvān na śakyate grahītum | anākulo viluptakramo 'pi gṛhītaḥ prativacanakāle mahatvān na śakyate sarveṇa smartum iti smṛtyantarasyārthaḥ | 
+यदा संकुलः पूर्वपक्षो भवति तदा गहनत्वान् न शक्यते ग्रहीतुम् । अनाकुलो विलुप्तक्रमो ऽपि गृहीतः प्रतिवचनकाले महत्वान् न शक्यते सर्वेण स्मर्तुम् इति स्मृत्यन्तरस्यार्थः । 
 
-**	uktaṃ ca na vibhāvayet** | sādhyaṃ vastu nirdiśya na sādhayati sādhanasyābhāvāt, vipakṣe vā bhāvāt | **na ca pūrvāparaṃ vidyāt** | uktam etat | **tasmād** **arthād** vyavahāravastunaḥ **sa hīyate** parājito bhavatīty arthaḥ || 8.56 ||
+**	उक्तं च न विभावयेत्** । साध्यं वस्तु निर्दिश्य न साधयति साधनस्याभावात्, विपक्षे वा भावात् । **न च पूर्वापरं विद्यात्** । उक्तम् एतत् । **तस्माद्** **अर्थाद्** व्यवहारवस्तुनः **स हीयते** पराजितो भवतीत्य् अर्थः ॥ ८।५६ ॥
 
-	**jñātāraḥ santi mety uktvā diśety ukto diśen na yaḥ |**
+	**ज्ञातारः सन्ति मेत्य् उक्त्वा दिशेत्य् उक्तो दिशेन् न यः ।**
 
-**	dharmasthaḥ kāraṇair etair hīnaṃ tam iti nirdiśet || 8.57 ||**
+**	धर्मस्थः कारणैर् एतैर् हीनं तम् इति निर्दिशेत् ॥ ८।५७ ॥**
 
-**jñātāraḥ** sākṣiṇaḥ puruṣā **mama santīty uktvā** yadocyate kathyatām iti tadā tūṣṇīka āste — na tān deśanāmajātibhir viśeṣaṇaiḥ kathayati — tadā **etaiḥ** prayekaṃ pūrvam uktaiḥ **kāraṇair** iha **hīno 'sau** vyavahārād bhraṣṭa iti | **dharmastho** dharmādhikaraṇasthaḥ prāḍvivāko **nirdiśen** niścitaṃ brūyāj jito 'yam iti | yathaiva vipakṣabādhakapramāṇāvṛttyā[^228] parājaya evaṃ svapakṣasādhanābhāvād[^229] api | abhāvaniścayaś ca punaḥ punar avasare 'nupanyāsāt kāraṇāntarasya cānupanyāse 'bhāvād iti | 
+**ज्ञातारः** साक्षिणः पुरुषा **मम सन्तीत्य् उक्त्वा** यदोच्यते कथ्यताम् इति तदा तूष्णीक आस्ते — न तान् देशनामजातिभिर् विशेषणैः कथयति — तदा **एतैः** प्रयेकं पूर्वम् उक्तैः **कारणैर्** इह **हीनो ऽसौ** व्यवहाराद् भ्रष्ट इति । **धर्मस्थो** धर्माधिकरणस्थः प्राड्विवाको **निर्दिशेन्** निश्चितं ब्रूयाज् जितो ऽयम् इति । यथैव विपक्षबाधकप्रमाणावृत्त्या[^२२८] पराजय एवं स्वपक्षसाधनाभावाद्[^२२९] अपि । अभावनिश्चयश् च पुनः पुनर् अवसरे ऽनुपन्यासात् कारणान्तरस्य चानुपन्यासे ऽभावाद् इति । 
 
-	**jñātāra** iti tṛnnantam eva | tatredam iti dvitīyāntaṃ yujyate, "khalarthatṭnām" (Pāṇ 2.3.69) iti ṣaṣṭhīniṣedhāt | **hīnaṃ tam** iti dvitīyāntaḥ pāṭhaḥ | **iti**śabdaḥ prakārārtho draṣṭavyaḥ | ebhir uktaiḥ prakārair anyaiś caivaṃvidhair **hīnaṃ tan nirdiśet** | yadā tu vākyārthaparāmarśaḥ tadā hīno 'sāv iti pāṭhaḥ | vākyārthasya karmatvād dvitīyāyā abhāvaḥ | 
+	**ज्ञातार** इति तृन्नन्तम् एव । तत्रेदम् इति द्वितीयान्तं युज्यते, "खलर्थत्ट्नाम्" (पाण् २।३।६९) इति षष्ठीनिषेधात् । **हीनं तम्** इति द्वितीयान्तः पाठः । **इति**शब्दः प्रकारार्थो द्रष्टव्यः । एभिर् उक्तैः प्रकारैर् अन्यैश् चैवंविधैर् **हीनं तन् निर्दिशेत्** । यदा तु वाक्यार्थपरामर्शः तदा हीनो ऽसाव् इति पाठः । वाक्यार्थस्य कर्मत्वाद् द्वितीयाया अभावः । 
 
-	ete parājayahetavaḥ | na tv ākāreṅgitādivad vyabhicāriṇaḥ[^230] | yo hi punaḥ punar vicārāvasare na saṃnidhīyate saṃnihito nottaraṃ prativakti[^231] tatra niścitam idaṃ bhavati nāsya jayahetur astīti | yadi ca sarvadaivānuttaravādinaṃ na parājayed rājā tato vyavasthābhaṅga āpadyate | paurvāparyānavabodhas[^232] tv iṅgitādivad draṣṭavyaḥ | yaḥ sarvakālaṃ vāgmī pragalbhaṃ pratipattimāṃs tasyeṅgitādayo 'nyathābhavantaḥ parājayahetau pramāṇāntareṇāniścite 'pi liṅgadarśanasthānīyā upodbalakā bhavanti || 8.57 ||
+	एते पराजयहेतवः । न त्व् आकारेङ्गितादिवद् व्यभिचारिणः[^२३०] । यो हि पुनः पुनर् विचारावसरे न संनिधीयते संनिहितो नोत्तरं प्रतिवक्ति[^२३१] तत्र निश्चितम् इदं भवति नास्य जयहेतुर् अस्तीति । यदि च सर्वदैवानुत्तरवादिनं न पराजयेद् राजा ततो व्यवस्थाभङ्ग आपद्यते । पौर्वापर्यानवबोधस्[^२३२] त्व् इङ्गितादिवद् द्रष्टव्यः । यः सर्वकालं वाग्मी प्रगल्भं प्रतिपत्तिमांस् तस्येङ्गितादयो ऽन्यथाभवन्तः पराजयहेतौ प्रमाणान्तरेणानिश्चिते ऽपि लिङ्गदर्शनस्थानीया उपोद्बलका भवन्ति ॥ ८।५७ ॥
 
-	**abhiyoktā na ced brūyād badhyo**[^233]** daṇḍyaś ca dharmataḥ |**
+	**अभियोक्ता न चेद् ब्रूयाद् बध्यो**[^२३३]** दण्ड्यश् च धर्मतः ।**
 
-**	na cet tripakṣāt prabrūyād dharmaṃ prati parājitaḥ || 8.58 ||**
+**	न चेत् त्रिपक्षात् प्रब्रूयाद् धर्मं प्रति पराजितः ॥ ८।५८ ॥**
 
-**abhiyoktā** arthī rājñāntikaṃ kaṃcana[^234] puruṣam āhūya yadi vyavahārapadaṃ na kathayati, tadā niṣprayojanād **badhyo**[^235] **daṇḍyaś** **ca** | daṇḍabandhane daṇḍaparimāṇe ca guṇavattāṃ pratyarthina āhvānena ca hānim apekṣya kalpanīyāni | atas tadahar evārthinā vivaditavyam | pratyarthī tu **na cet tripakṣād brūyād** ity arthaḥ — tadā nāsau daṇḍyo bandhayitavyo vā | kiṃ tarhīyatā kālenottare saty aparājita eva | **dharmaṃ prati** | dharmata evāyaṃ parājayo na chalam ity arthaḥ | **tripakṣād** iti pātrādiṣu draṣṭavyas tenekārābhāvaḥ | arthatattvam asya lokasyāsmābhiḥ prāṅ nirūpitam || 8.58 ||
+**अभियोक्ता** अर्थी राज्ञान्तिकं कंचन[^२३४] पुरुषम् आहूय यदि व्यवहारपदं न कथयति, तदा निष्प्रयोजनाद् **बध्यो**[^२३५] **दण्ड्यश्** **च** । दण्डबन्धने दण्डपरिमाणे च गुणवत्तां प्रत्यर्थिन आह्वानेन च हानिम् अपेक्ष्य कल्पनीयानि । अतस् तदहर् एवार्थिना विवदितव्यम् । प्रत्यर्थी तु **न चेत् त्रिपक्षाद् ब्रूयाद्** इत्य् अर्थः — तदा नासौ दण्ड्यो बन्धयितव्यो वा । किं तर्हीयता कालेनोत्तरे सत्य् अपराजित एव । **धर्मं प्रति** । धर्मत एवायं पराजयो न छलम् इत्य् अर्थः । **त्रिपक्षाद्** इति पात्रादिषु द्रष्टव्यस् तेनेकाराभावः । अर्थतत्त्वम् अस्य लोकस्यास्माभिः प्राङ् निरूपितम् ॥ ८।५८ ॥
 
-	**yo yāvan nihnuvītārthaṃ mithyā yāvati vā vadet |**
+	**यो यावन् निह्नुवीतार्थं मिथ्या यावति वा वदेत् ।**
 
-**	tau nṛpeṇa hy adharmajñau dāpyau taddviguṇaṃ damam || 8.59 ||**
+**	तौ नृपेण ह्य् अधर्मज्ञौ दाप्यौ तद्द्विगुणं दमम् ॥ ८।५९ ॥**
 
-yena pañcasahasrāṇi dattānīti pramāṇāntarān niścitam — lekhyādau tu karaṇe daśa[^236] samāropitāni — pramāṇāntaraṃ saṃvatsarākhyam iti niścityedam apaśyat kevalena lekhyapramāṇena sarvatra pravartamānaḥ — chalavyavahārīti[^237] dviguṇaṃ daṇḍyaḥ[^238] | yasya tu vismṛtyāpy anyathāpravṛttir āśaṅkyate tasya daśakaṃ śatam | evam itarasyāpi | na tu sarvāpahnave daśabhāga ekadeśāpahnave dviguṇam iti | kiṃ tu śāṭhyād anyathāpratipadyamānau dviguṇaṃ daṇḍyau | vismṛtidāridryābhyāṃ daṇḍam uttaram | **yo yāvantam artham apahnuvīta** apajānīte 'dharmarṇaḥ — **mithyā yāvati**[^239] viparītaṃ dhanaṃ **vaded** uttarmarṇaḥ — tāvat tāv uttamarṇādhamarṇāv **adharmajñau** | **dviguṇaṃ damam** | **tad** ity apahnūyamānadhanaparāmarśaḥ | yāvad apahnutaṃ tato dviguṇaṃ damo daṇḍaḥ | **adharmajña**grahaṇāc ca liṅgān niścitachalaviṣayo 'yaṃ daṇḍa ity uktam || 8.59 ||
+येन पञ्चसहस्राणि दत्तानीति प्रमाणान्तरान् निश्चितम् — लेख्यादौ तु करणे दश[^२३६] समारोपितानि — प्रमाणान्तरं संवत्सराख्यम् इति निश्चित्येदम् अपश्यत् केवलेन लेख्यप्रमाणेन सर्वत्र प्रवर्तमानः — छलव्यवहारीति[^२३७] द्विगुणं दण्ड्यः[^२३८] । यस्य तु विस्मृत्याप्य् अन्यथाप्रवृत्तिर् आशङ्क्यते तस्य दशकं शतम् । एवम् इतरस्यापि । न तु सर्वापह्नवे दशभाग एकदेशापह्नवे द्विगुणम् इति । किं तु शाठ्याद् अन्यथाप्रतिपद्यमानौ द्विगुणं दण्ड्यौ । विस्मृतिदारिद्र्याभ्यां दण्डम् उत्तरम् । **यो यावन्तम् अर्थम् अपह्नुवीत** अपजानीते ऽधर्मर्णः — **मिथ्या यावति**[^२३९] विपरीतं धनं **वदेद्** उत्तर्मर्णः — तावत् ताव् उत्तमर्णाधमर्णाव् **अधर्मज्ञौ** । **द्विगुणं दमम्** । **तद्** इत्य् अपह्नूयमानधनपरामर्शः । यावद् अपह्नुतं ततो द्विगुणं दमो दण्डः । **अधर्मज्ञ**ग्रहणाच् च लिङ्गान् निश्चितछलविषयो ऽयं दण्ड इत्य् उक्तम् ॥ ८।५९ ॥
 
-	**pṛṣṭo 'pavyayamānas tu kṛtāvastho dhanaiṣiṇā |**
+	**पृष्टो ऽपव्ययमानस् तु कृतावस्थो धनैषिणा ।**
 
-**	tryavaraiḥ sākṣibhir bhāvyo nṛpabrāhmaṇasaṃnidhau || 8.60 ||**
+**	त्र्यवरैः साक्षिभिर् भाव्यो नृपब्राह्मणसंनिधौ ॥ ८।६० ॥**
 
-yaḥ **kṛtāvastha** āhūto 'bhiyukto gṛhītapratibhūś ca rājasakāśe prāḍvivākenānyair vā pṛcchyate kim asmai dhārayasi neti **pṛṣṭhaḥ** sann **apavyayate** 'pahnute[^240] | **dhanaiṣiṇā** svadhanaṃ pūrvaprayuktam ātmanaḥ sādhayitum icchatā | **sākṣibhir bhāvyo** vipratipannaḥ pratipādayitavyaḥ | **tryavaraiḥ** | traya avare yeṣāṃ tais tryavaraiḥ | avaram apacayātiśayam āha | yady atyantaṃ nyūnās tadā trayaḥ syuḥ | anyathā tribhya ūrdhvam | **nṛpabrāhmaṇasaṃnidhāv** iti | 
+यः **कृतावस्थ** आहूतो ऽभियुक्तो गृहीतप्रतिभूश् च राजसकाशे प्राड्विवाकेनान्यैर् वा पृच्छ्यते किम् अस्मै धारयसि नेति **पृष्ठः** सन्न् **अपव्ययते** ऽपह्नुते[^२४०] । **धनैषिणा** स्वधनं पूर्वप्रयुक्तम् आत्मनः साधयितुम् इच्छता । **साक्षिभिर् भाव्यो** विप्रतिपन्नः प्रतिपादयितव्यः । **त्र्यवरैः** । त्रय अवरे येषां तैस् त्र्यवरैः । अवरम् अपचयातिशयम् आह । यद्य् अत्यन्तं न्यूनास् तदा त्रयः स्युः । अन्यथा त्रिभ्य ऊर्ध्वम् । **नृपब्राह्मणसंनिधाव्** इति । 
 
-	<span style="text-decoration:underline;">nanu</span> ca teṣām eva yair nyāyaḥ prārabdhas tatra tatsaṃnidhāna eva sākṣipraśnaḥ prāptaḥ | kim anena **nṛpabrāhmaṇasaṃnidhāv** iti | 
+	<span style="text-decoration:underline;">ननु</span> च तेषाम् एव यैर् न्यायः प्रारब्धस् तत्र तत्संनिधान एव साक्षिप्रश्नः प्राप्तः । किम् अनेन **नृपब्राह्मणसंनिधाव्** इति । 
 
-	<span style="text-decoration:underline;">naivam</span> | pramāṇapuruṣapreṣaṇenāpi sākṣipraśna upapadyata iti | sākṣāt praṣṭavya iti punarvacanam || 8.60 ||
+	<span style="text-decoration:underline;">नैवम्</span> । प्रमाणपुरुषप्रेषणेनापि साक्षिप्रश्न उपपद्यत इति । साक्षात् प्रष्टव्य इति पुनर्वचनम् ॥ ८।६० ॥
 
-	**yādṛśā dhanibhiḥ kāryā vyavahāreṣu sākṣiṇaḥ |**
+	**यादृशा धनिभिः कार्या व्यवहारेषु साक्षिणः ।**
 
-**	tādṛśān saṃpravakṣyāmi yathā vācyam ṛtaṃ ca taiḥ || 8.61 ||**
+**	तादृशान् संप्रवक्ष्यामि यथा वाच्यम् ऋतं च तैः ॥ ८।६१ ॥**
 
-sākṣilakṣaṇopanyāsaḥ ślokaḥ | **yādṛśāḥ sākṣiṇo** yajjātīyā yadguṇayuktāś ca **dhanibhir** uttamarṇair **vyavahāreṣu** dhanaprayogādiṣu **kartavyās** **tādṛśān** vakṣyamāṇena kathayiṣyāmi | **yathā** ca ṛtaṃ satyaṃ[^241] **vācyaṃ** vaktavyaṃ pṛṣṭaiḥ sadbhis taiḥ, pūrvāhṇa ityādi, tam api prakāraṃ vakṣyāmīti || 8.61 ||
+साक्षिलक्षणोपन्यासः श्लोकः । **यादृशाः साक्षिणो** यज्जातीया यद्गुणयुक्ताश् च **धनिभिर्** उत्तमर्णैर् **व्यवहारेषु** धनप्रयोगादिषु **कर्तव्यास्** **तादृशान्** वक्ष्यमाणेन कथयिष्यामि । **यथा** च ऋतं सत्यं[^२४१] **वाच्यं** वक्तव्यं पृष्टैः सद्भिस् तैः, पूर्वाह्ण इत्यादि, तम् अपि प्रकारं वक्ष्यामीति ॥ ८।६१ ॥
 
-	**gṛhiṇaḥ putriṇo maulāḥ kṣatraviṭśūdrayonayḥ |**
+	**गृहिणः पुत्रिणो मौलाः क्षत्रविट्शूद्रयोनय्ः ।**
 
-**	arthyuktāḥ sākṣyam arhanti na ye kecid anāpadi || 8.62 ||**
+**	अर्थ्युक्ताः साक्ष्यम् अर्हन्ति न ये केचिद् अनापदि ॥ ८।६२ ॥**
 
-kṛtadāraparigrahā **gṛhiṇaḥ** | gṛhaśabdo dāreṣu vartate | te hi svakalatraparibhavabhayān na kūṭam ācaranti | ātmani kecin nirapekṣā api bhavanti[^242] | anyadeśāntaragamanenātmānaṃ rakṣayiṣyāma ihaiva ca kvacid guptā bhaviṣyāmo dhanaṃ mitraṃ vārjayāma ity anayā buddhyā anṛtam api vadanti | kuṭumbinas tu svakuṭumbabhayāt kva vātmānaṃ na parirakṣiṣyāma iti dūraṃ kṛtvā kuṭumbasya sāpekṣatayā rājadaṇdabhayān nānyathā pravartante | 
+कृतदारपरिग्रहा **गृहिणः** । गृहशब्दो दारेषु वर्तते । ते हि स्वकलत्रपरिभवभयान् न कूटम् आचरन्ति । आत्मनि केचिन् निरपेक्षा अपि भवन्ति[^२४२] । अन्यदेशान्तरगमनेनात्मानं रक्षयिष्याम इहैव च क्वचिद् गुप्ता भविष्यामो धनं मित्रं वार्जयाम इत्य् अनया बुद्ध्या अनृतम् अपि वदन्ति । कुटुम्बिनस् तु स्वकुटुम्बभयात् क्व वात्मानं न परिरक्षिष्याम इति दूरं कृत्वा कुटुम्बस्य सापेक्षतया राजदण्दभयान् नान्यथा प्रवर्तन्ते । 
 
-**	putriṇa** iti | putrasnehāt putriṇaḥ | aputradāraś ca sākṣipraśnakāle sādvācāro 'pi kadācin na saṃnihito bhavati | sa hi naikasmin deśe āsthānavān bhavati | evaṃ **maulā** api vyākhyeyāḥ | maulā jānapadās taddeśābhijanāḥ | te hi svajanajñātimadhye pāpabhīrutayā na mithyā vadanti | mūlaṃ pratiṣṭhā, sā yeṣām asti te **maulāḥ** | arthakathanam etat | taddhitas tu bhāvārtha eva kartavyaḥ | yo hi yatra bhavaḥ[^243] so 'pi tasyāstity aviruddham |
+**	पुत्रिण** इति । पुत्रस्नेहात् पुत्रिणः । अपुत्रदारश् च साक्षिप्रश्नकाले साद्वाचारो ऽपि कदाचिन् न संनिहितो भवति । स हि नैकस्मिन् देशे आस्थानवान् भवति । एवं **मौला** अपि व्याख्येयाः । मौला जानपदास् तद्देशाभिजनाः । ते हि स्वजनज्ञातिमध्ये पापभीरुतया न मिथ्या वदन्ति । मूलं प्रतिष्ठा, सा येषाम् अस्ति ते **मौलाः** । अर्थकथनम् एतत् । तद्धितस् तु भावार्थ एव कर्तव्यः । यो हि यत्र भवः[^२४३] सो ऽपि तस्यास्तित्य् अविरुद्धम् ।
 
-	**kṣatraviṭśūdrayonayaḥ** | na brāhmaṇaḥ | sarvadā hy asyādhyayanādhyāpane vihite, anvahaṃ vāgnihotrahomaḥ | tatra dūrasthe rājani dharmoparodho 'sya mā bhūd ity asau na kartavyatayopādīyate | yadṛcchayāvagatārthas tu sākṣyantarābhāve garīyasi kārye mukhyatamaḥ sa sākṣī | tathā ca "brūhīti brāhmaṇaṃ pṛcchet" (MDh 8.88) iti sākṣipraśno bhaviṣyati | **yoni**śabdaḥ pratyekam abhisaṃbadhyate | kṣatraṃ[^244] yonir utpattiḥ kāraṇam asyāsau kṣatrayoniḥ | kṣatriyajātīya ity arthaḥ | kṣatrād vā yonir janmāsyeti pañcamīti yogavibhāgāt samāso 'py uktaḥ | arthinā yadoktaṃ bhavaty ete mama sākṣiṇaḥ tadā[^245] sākṣikarmaṇi yogyā bhavanti | ye tu svayam āgatya sākṣyaṃ dadati na te sākṣiṇaḥ | 
+	**क्षत्रविट्शूद्रयोनयः** । न ब्राह्मणः । सर्वदा ह्य् अस्याध्ययनाध्यापने विहिते, अन्वहं वाग्निहोत्रहोमः । तत्र दूरस्थे राजनि धर्मोपरोधो ऽस्य मा भूद् इत्य् असौ न कर्तव्यतयोपादीयते । यदृच्छयावगतार्थस् तु साक्ष्यन्तराभावे गरीयसि कार्ये मुख्यतमः स साक्षी । तथा च "ब्रूहीति ब्राह्मणं पृच्छेत्" (म्ध् ८।८८) इति साक्षिप्रश्नो भविष्यति । **योनि**शब्दः प्रत्येकम् अभिसंबध्यते । क्षत्रं[^२४४] योनिर् उत्पत्तिः कारणम् अस्यासौ क्षत्रयोनिः । क्षत्रियजातीय इत्य् अर्थः । क्षत्राद् वा योनिर् जन्मास्येति पञ्चमीति योगविभागात् समासो ऽप्य् उक्तः । अर्थिना यदोक्तं भवत्य् एते मम साक्षिणः तदा[^२४५] साक्षिकर्मणि योग्या भवन्ति । ये तु स्वयम् आगत्य साक्ष्यं ददति न ते साक्षिणः । 
 
-	**anāpadi** | āpat sākṣyantarābhāva iti <span style="text-decoration:underline;">kecit</span> | <span style="text-decoration:underline;">tad</span> ayuktam | visaṃvādakatvam asākṣitve kāraṇam | tatsaṃvādakāntarābhāve nāpaiti | na vayaṃ brūmaḥ — pratiṣiddhasākṣibhāvā[^246] vidyamānānṛtābhidhānahetavo 'rthasaṃbandyādayo vāsyām avasthāyāṃ pratiprasūyante — kiṃ tarhi yeṣāṃ kadācid āhūyamānānāṃ dharmavirodho bhavati śrotriyādīnāṃ teṣām avidyamāneṣv anyeṣv anubhūtārthānām idaṃ pratyanujñānaṃ na punar anṛtānām || 8.62 ||
+	**अनापदि** । आपत् साक्ष्यन्तराभाव इति <span style="text-decoration:underline;">केचित्</span> । <span style="text-decoration:underline;">तद्</span> अयुक्तम् । विसंवादकत्वम् असाक्षित्वे कारणम् । तत्संवादकान्तराभावे नापैति । न वयं ब्रूमः — प्रतिषिद्धसाक्षिभावा[^२४६] विद्यमानानृताभिधानहेतवो ऽर्थसंबन्द्यादयो वास्याम् अवस्थायां प्रतिप्रसूयन्ते — किं तर्हि येषां कदाचिद् आहूयमानानां धर्मविरोधो भवति श्रोत्रियादीनां तेषाम् अविद्यमानेष्व् अन्येष्व् अनुभूतार्थानाम् इदं प्रत्यनुज्ञानं न पुनर् अनृतानाम् ॥ ८।६२ ॥
 
-	**āptāḥ sarveṣu varṇeṣu kāryāḥ kāryeṣu sākṣiṇaḥ |**
+	**आप्ताः सर्वेषु वर्णेषु कार्याः कार्येषु साक्षिणः ।**
 
-**	sarvadharmavido 'lubdhā viparītāṃs tu varjayet || 8.63 ||**
+**	सर्वधर्मविदो ऽलुब्धा विपरीतांस् तु वर्जयेत् ॥ ८।६३ ॥**
 
-**āptā** avisaṃvādakā yathādṛṣṭārthavādinaḥ yeṣāṃ loko vipralambhakatvaṃ na saṃbhāvayati, dharmānuṣṭhānaparā ye khyātāḥ | **sarvadharmavidaḥ** śrautaṃ smārtam ācāranirūḍhaṃ ca sarvaṃ dharmam — iha narakaḥ phalam iha svarga ity evaṃ niravaśeṣam — jānanti te hy anṛtābhidhāne narakaṃ paśyanto bibhyati | **alubdhā** udārasatvā na svalpaṃ dhanaṃ bahu manyante | ekaikasya samastāni darvāṇi viśeṣaṇāni, sākṣikriyāyāṃ guṇabhūtatvād guṇe ca sāhityasya vivakṣitatvāt | **sarveṣu varṇeṣv** iti | sarvakāryeṣu[^247] na jātiniyamo 'stīty uktaṃ bhavati | yat punar jātivyavasthāvacanaṃ tad upariṣṭād vakṣyāmaḥ | tad etad uktaṃ bhavati | sarvaiḥ kāryibhiḥ sarve varṇā yathāsaṃbhavaṃ sākṣiṇaḥ kartavyāḥ | **kāryeṣu** ṛṇādānādiṣu | yathoktalakṣaṇāt[^248] **viparītāṃs tu varjayet** | yady api viśiṣṭeṣv abhihiteṣu tadviparītānāṃ prasaṅga eva nāsti tathāpi laukiko 'yaṃ paryudāsaḥ | prāyeṇa hi laukikā anyaṃ vidhāyānyaṃ[^249] tadviparītaṃ niṣedhayanti | tathā ca bhavanti vaktāraḥ — "kriyā hi dravyaṃ vinayati nādravyam" iti | kiṃ cāvisaṃvādakatvam[^250] iha pradhānaṃ sākṣilakṣaṇaṃ tac ca na vidhimukhena śakyāvasānam, kiṃ tu visaṃvādakaraṇābhāvamukhena | na hy avisaṃvādakatvaṃ pratyakṣadṛśyam | tad dhi yathārthābhidhānam | śrotragrāhye ca vastuni kutaḥ pratyakṣo yathārthaniścayaḥ | pratyakṣatve hi naiva sākṣyavagamo 'nviṣyate | na ca sarvatra parokṣe vastuni śabdāvagamye pramāṇāntarasaṃvādasaṃbhavaḥ | tasmād yāni bhūyastvena mithyābhidhānakaraṇatayā dṛṣṭāni tadabhāvaniścayenāvisaṃvādakatvam[^251] anumīyate[^252] | atas tatpradarśanārtho 'yam upakramo **viparītāṃs tu varjayed** iti || 8.63 ||
+**आप्ता** अविसंवादका यथादृष्टार्थवादिनः येषां लोको विप्रलम्भकत्वं न संभावयति, धर्मानुष्ठानपरा ये ख्याताः । **सर्वधर्मविदः** श्रौतं स्मार्तम् आचारनिरूढं च सर्वं धर्मम् — इह नरकः फलम् इह स्वर्ग इत्य् एवं निरवशेषम् — जानन्ति ते ह्य् अनृताभिधाने नरकं पश्यन्तो बिभ्यति । **अलुब्धा** उदारसत्वा न स्वल्पं धनं बहु मन्यन्ते । एकैकस्य समस्तानि दर्वाणि विशेषणानि, साक्षिक्रियायां गुणभूतत्वाद् गुणे च साहित्यस्य विवक्षितत्वात् । **सर्वेषु वर्णेष्व्** इति । सर्वकार्येषु[^२४७] न जातिनियमो ऽस्तीत्य् उक्तं भवति । यत् पुनर् जातिव्यवस्थावचनं तद् उपरिष्टाद् वक्ष्यामः । तद् एतद् उक्तं भवति । सर्वैः कार्यिभिः सर्वे वर्णा यथासंभवं साक्षिणः कर्तव्याः । **कार्येषु** ऋणादानादिषु । यथोक्तलक्षणात्[^२४८] **विपरीतांस् तु वर्जयेत्** । यद्य् अपि विशिष्टेष्व् अभिहितेषु तद्विपरीतानां प्रसङ्ग एव नास्ति तथापि लौकिको ऽयं पर्युदासः । प्रायेण हि लौकिका अन्यं विधायान्यं[^२४९] तद्विपरीतं निषेधयन्ति । तथा च भवन्ति वक्तारः — "क्रिया हि द्रव्यं विनयति नाद्रव्यम्" इति । किं चाविसंवादकत्वम्[^२५०] इह प्रधानं साक्षिलक्षणं तच् च न विधिमुखेन शक्यावसानम्, किं तु विसंवादकरणाभावमुखेन । न ह्य् अविसंवादकत्वं प्रत्यक्षदृश्यम् । तद् धि यथार्थाभिधानम् । श्रोत्रग्राह्ये च वस्तुनि कुतः प्रत्यक्षो यथार्थनिश्चयः । प्रत्यक्षत्वे हि नैव साक्ष्यवगमो ऽन्विष्यते । न च सर्वत्र परोक्षे वस्तुनि शब्दावगम्ये प्रमाणान्तरसंवादसंभवः । तस्माद् यानि भूयस्त्वेन मिथ्याभिधानकरणतया दृष्टानि तदभावनिश्चयेनाविसंवादकत्वम्[^२५१] अनुमीयते[^२५२] । अतस् तत्प्रदर्शनार्थो ऽयम् उपक्रमो **विपरीतांस् तु वर्जयेद्** इति ॥ ८।६३ ॥
 
-	**nārthasaṃbandhino nāptā na sahāyā na vairiṇaḥ |**
+	**नार्थसंबन्धिनो नाप्ता न सहाया न वैरिणः ।**
 
-**	na dṛṣṭadoṣāḥ kartavyā na vyādhyārtā na dūṣitāḥ || 8.64 ||**
+**	न दृष्टदोषाः कर्तव्या न व्याध्यार्ता न दूषिताः ॥ ८।६४ ॥**
 
-tānīmāni saṃbhāvyamānamithyābhidhānakaraṇatvena paṭhyante | tatra **arthasaṃbandhina** uttamarṇādhamarṇādyāḥ | uttamarṇā hy adhamarṇavacanena parājīyamānās tadānīm eva roṣāveśavaśitaḥ[^253] stambhayanti dhanaṃ prayādatum adhamarṇam | ato 'sau[^254] saṃnihitadhanikacittam anuvartamānaḥ tadanuguṇaṃ vaktuṃ śaknoti[^255] | tasmād asau na sākṣī | uttamarṇo 'pi nirdhane 'dhamarṇe vyavahārajayāc ca dhanaprāptau mahyam ayaṃ pratidāsyatīty anayā buddhyā kadācit tatpakṣānuguṇaṃ vaktīti so 'py asākṣī |
+तानीमानि संभाव्यमानमिथ्याभिधानकरणत्वेन पठ्यन्ते । तत्र **अर्थसंबन्धिन** उत्तमर्णाधमर्णाद्याः । उत्तमर्णा ह्य् अधमर्णवचनेन पराजीयमानास् तदानीम् एव रोषावेशवशितः[^२५३] स्तम्भयन्ति धनं प्रयादतुम् अधमर्णम् । अतो ऽसौ[^२५४] संनिहितधनिकचित्तम् अनुवर्तमानः तदनुगुणं वक्तुं शक्नोति[^२५५] । तस्माद् असौ न साक्षी । उत्तमर्णो ऽपि निर्धने ऽधमर्णे व्यवहारजयाच् च धनप्राप्तौ मह्यम् अयं प्रतिदास्यतीत्य् अनया बुद्ध्या कदाचित् तत्पक्षानुगुणं वक्तीति सो ऽप्य् असाक्षी ।
 
-	atha vārthaḥ prayojanaṃ yasya sākṣiṇo vivādibhyāṃ kiṃcit prayojanaṃ sādhyam, tena vā tayoḥ, sa upakāragandhān na sākṣī | yo vā vyavahāragatenārthena samānaphalaḥ | ity evaṃprakār**ārthasaṃbandhinaḥ** | 
+	अथ वार्थः प्रयोजनं यस्य साक्षिणो विवादिभ्यां किंचित् प्रयोजनं साध्यम्, तेन वा तयोः, स उपकारगन्धान् न साक्षी । यो वा व्यवहारगतेनार्थेन समानफलः । इत्य् एवंप्रकार्**आर्थसंबन्धिनः** । 
 
-	**āptā** mitrabāndhavatayā[^256] kāryābhyantarāḥ pitṛvyamātulādayaḥ | **sahāyāḥ** pratibhūprabhṛtayo | **vairiṇaḥ** prasiddhāḥ | **dṛṣṭadoṣā** anyatra kṛtakauṭasākṣyāḥ | anyad vā pratiṣiddham ācaritavantaḥ | **vyādhyārtā** rogapīḍitāḥ | na punar īṣadrogiṇa ity ārtagrahaṇam | pīḍitasya hi krodhavismṛtyādayo mithyāvacane saṃbhāvyante | **dūṣitāḥ** pātakino 'bhyastopapātakāś ca | **dṛṣṭadoṣa**grahaṇaṃ tu teṣām eva kṛtanigrahāṇāṃ parigrahārtham | te hi rājabhir dhṛtadaṇḍagrāhitavinayatvān[^257] na saṃprati dūṣītā bhavanti || 8.64 ||
+	**आप्ता** मित्रबान्धवतया[^२५६] कार्याभ्यन्तराः पितृव्यमातुलादयः । **सहायाः** प्रतिभूप्रभृतयो । **वैरिणः** प्रसिद्धाः । **दृष्टदोषा** अन्यत्र कृतकौटसाक्ष्याः । अन्यद् वा प्रतिषिद्धम् आचरितवन्तः । **व्याध्यार्ता** रोगपीडिताः । न पुनर् ईषद्रोगिण इत्य् आर्तग्रहणम् । पीडितस्य हि क्रोधविस्मृत्यादयो मिथ्यावचने संभाव्यन्ते । **दूषिताः** पातकिनो ऽभ्यस्तोपपातकाश् च । **दृष्टदोष**ग्रहणं तु तेषाम् एव कृतनिग्रहाणां परिग्रहार्थम् । ते हि राजभिर् धृतदण्डग्राहितविनयत्वान्[^२५७] न संप्रति दूषीता भवन्ति ॥ ८।६४ ॥
 
-	**na sākṣī nṛpatiḥ kāryo na kārukakuśīlavau |**
+	**न साक्षी नृपतिः कार्यो न कारुककुशीलवौ ।**
 
-**	na śrotriyo na liṅgastho na saṅgebhyo vinirgataḥ || 8.65 ||**
+**	न श्रोत्रियो न लिङ्गस्थो न सङ्गेभ्यो विनिर्गतः ॥ ८।६५ ॥**
 
-tvaṃ me sākṣī bhaviṣyasīti vyavahārakṛtā dhanavisargādikāle sākṣitve **nṛpatir** nādhyeṣitavyaḥ | tasya hi sakṣyaṃ dadataḥ pakṣapātam āśaṅkeran | prabhutvād vā dadato 'nyatarasya kāryanāśaḥ | na ca sākṣidharmeṇa praṣṭuṃ yujyate | taddeśavāsī ca yady api lekhādinā saṃvadayet tathāpi sākṣidharmaṃ sarvaṃ na kuryād iti tadeśavāsino rājñaḥ sākṣikaraṇapratiṣedhaḥ[^258] |
+त्वं मे साक्षी भविष्यसीति व्यवहारकृता धनविसर्गादिकाले साक्षित्वे **नृपतिर्** नाध्येषितव्यः । तस्य हि सक्ष्यं ददतः पक्षपातम् आशङ्केरन् । प्रभुत्वाद् वा ददतो ऽन्यतरस्य कार्यनाशः । न च साक्षिधर्मेण प्रष्टुं युज्यते । तद्देशवासी च यद्य् अपि लेखादिना संवदयेत् तथापि साक्षिधर्मं सर्वं न कुर्याद् इति तदेशवासिनो राज्ञः साक्षिकरणप्रतिषेधः[^२५८] ।
 
-	**kārukā**dīnāṃ svakāryoparodhaśaṅkayā | saṃgatyā ca te jīvanti | svabhāvaś caiṣa jānapadānāṃ yat svayaṃ niścitavanto 'pi "jīvāmahe vayam" iti jitāḥ sākṣikādibhyo ruṣyanti | tataś ca sārvalaukikī saṃgatiḥ kārukādīnām ucchidyate | kiṃ ca prakṛtiparilaghutvāt teṣāṃ vṛtteś[^259] calayitum api śakyante | tathā ca pakṣapātaṃ bhajeran |
+	**कारुका**दीनां स्वकार्योपरोधशङ्कया । संगत्या च ते जीवन्ति । स्वभावश् चैष जानपदानां यत् स्वयं निश्चितवन्तो ऽपि "जीवामहे वयम्" इति जिताः साक्षिकादिभ्यो रुष्यन्ति । ततश् च सार्वलौकिकी संगतिः कारुकादीनाम् उच्छिद्यते । किं च प्रकृतिपरिलघुत्वात् तेषां वृत्तेश्[^२५९] चलयितुम् अपि शक्यन्ते । तथा च पक्षपातं भजेरन् ।
 
-	**śrotriyasya** tu sākṣitve kartavyatā pratiṣidhyate rājavan na punar apratyayitatayā[^260] | na hi śrotriyatvaṃ prāmāṇyaṃ vihanti, janayaty eva viśeṣataḥ | na hi śrotriyatvaṃ visaṃvādahetutayopalabdham | evam uttaratrāpi |
+	**श्रोत्रियस्य** तु साक्षित्वे कर्तव्यता प्रतिषिध्यते राजवन् न पुनर् अप्रत्ययिततया[^२६०] । न हि श्रोत्रियत्वं प्रामाण्यं विहन्ति, जनयत्य् एव विशेषतः । न हि श्रोत्रियत्वं विसंवादहेतुतयोपलब्धम् । एवम् उत्तरत्रापि ।
 
-	**kārukāḥ** śilpopajīvinaḥ sūpakārāyaskārādayaḥ | **kuśīlavāḥ** naṭanartakagāyanādyāḥ | **śrotriyo** vedapāṭhakaḥ | yas tv adhyayanatatparaḥ sa iha gṛhyate | atha vā śrotriyatvaṃ karmānuṣṭhānopalakṣaṇārtham | tenānuṣṭhānaparasya tadvirodhatayā pratiṣedhaḥ | **liṅgastho** brahmacārī | parivrājakapākhaṇḍaliṅgadhāriṇas tu kuśāstravartitvād evāprāptāḥ | **saṅgebhyo vinirgatā** vedasaṃnyāsino gṛhasthāḥ | **saṅgaḥ** abhyāsato[^261] viṣayopabhogaḥ, dṛṣṭārthakarmārambho vā || 8.65 ||
+	**कारुकाः** शिल्पोपजीविनः सूपकारायस्कारादयः । **कुशीलवाः** नटनर्तकगायनाद्याः । **श्रोत्रियो** वेदपाठकः । यस् त्व् अध्ययनतत्परः स इह गृह्यते । अथ वा श्रोत्रियत्वं कर्मानुष्ठानोपलक्षणार्थम् । तेनानुष्ठानपरस्य तद्विरोधतया प्रतिषेधः । **लिङ्गस्थो** ब्रह्मचारी । परिव्राजकपाखण्डलिङ्गधारिणस् तु कुशास्त्रवर्तित्वाद् एवाप्राप्ताः । **सङ्गेभ्यो विनिर्गता** वेदसंन्यासिनो गृहस्थाः । **सङ्गः** अभ्यासतो[^२६१] विषयोपभोगः, दृष्टार्थकर्मारम्भो वा ॥ ८।६५ ॥
 
-	**nādhyadhīno na vaktavyo na dasyur na vikarmakṛt |**
+	**नाध्यधीनो न वक्तव्यो न दस्युर् न विकर्मकृत् ।**
 
-**	na vṛddho na śuśur naiko nāntyo na vikalendriyaḥ || 8.66 ||**
+**	न वृद्धो न शुशुर् नैको नान्त्यो न विकलेन्द्रियः ॥ ८।६६ ॥**
 
-**adhyadhīna**śabdo 'tyantaparatantragarbhadāsādau rūḍhyā vartate | <span style="text-decoration:underline;">anye</span> tu tulyasaṃhitatvād "adhyādhīnaḥ" iti paṭhanti | adhyādhīno bandhakīkṛtaḥ | **vaktavyo** 'nuśāsyaḥ śiṣyaputrādiḥ, ācāryādhīnatvāt | atha vā kuṣṭhādinā kutsitakāyaḥ | **dasyuḥ** bhṛtidāsaḥ vaitanikaḥ "sa hy upādāsayati" karmāṇīti nairukte niruktaḥ | tasya ca divasabhṛtatvān nātyantapāratantryam astīti pṛthag upadeśaḥ kriyate | karmajīvanatvāpattau tathāvidhānāṃ jīvikocchedaḥ, laghuvṛttitvāc ca lobhādisaṃbhavenāpratyayitatāpi | caurasya tu śabdāntaropādānān na **dasyu**grahaṇena grahaṇam | kaṭhiṇahṛdayo vā **dasyuḥ** krūraceṣṭaḥ | **vikarmakṛc** chāstraviruddhaṃ yaḥ karma karoti | yathā brāhmaṇaḥ kṣatriyavṛttiṃ vaiśyo vetyādi | **vṛddho** vayaḥpariṇāmād asaṃsmṛtiḥ | **śiśur** bālo 'prāptavyavahāraḥ | **ekaḥ**[^262] tryavaragrahaṇenaikasyāprāpteḥ pratiṣedho dvayoḥ kasyāṃcid avasthāyām abhyanujñānārthaḥ, yathā trihastācāropatre[^263] | yady api tatra tṛtīyalekhako na[^264] bhavati tathāpi lekhanamātrasya vyāpāro na sākṣitva iti kasyacid iyam āśaṅkā syāt | **antyo** barbaracaṇḍālādiḥ, svavargād[^265] anyatra | śūdrayonitvena prāptasya pratiṣedhaḥ | **vikalendriyo** 'ndhabadhirādiḥ, śarīrapīḍayopalabdhir vikalatvāc ca || 8.66 ||
+**अध्यधीन**शब्दो ऽत्यन्तपरतन्त्रगर्भदासादौ रूढ्या वर्तते । <span style="text-decoration:underline;">अन्ये</span> तु तुल्यसंहितत्वाद् "अध्याधीनः" इति पठन्ति । अध्याधीनो बन्धकीकृतः । **वक्तव्यो** ऽनुशास्यः शिष्यपुत्रादिः, आचार्याधीनत्वात् । अथ वा कुष्ठादिना कुत्सितकायः । **दस्युः** भृतिदासः वैतनिकः "स ह्य् उपादासयति" कर्माणीति नैरुक्ते निरुक्तः । तस्य च दिवसभृतत्वान् नात्यन्तपारतन्त्र्यम् अस्तीति पृथग् उपदेशः क्रियते । कर्मजीवनत्वापत्तौ तथाविधानां जीविकोच्छेदः, लघुवृत्तित्वाच् च लोभादिसंभवेनाप्रत्ययिततापि । चौरस्य तु शब्दान्तरोपादानान् न **दस्यु**ग्रहणेन ग्रहणम् । कठिणहृदयो वा **दस्युः** क्रूरचेष्टः । **विकर्मकृच्** छास्त्रविरुद्धं यः कर्म करोति । यथा ब्राह्मणः क्षत्रियवृत्तिं वैश्यो वेत्यादि । **वृद्धो** वयःपरिणामाद् असंस्मृतिः । **शिशुर्** बालो ऽप्राप्तव्यवहारः । **एकः**[^२६२] त्र्यवरग्रहणेनैकस्याप्राप्तेः प्रतिषेधो द्वयोः कस्यांचिद् अवस्थायाम् अभ्यनुज्ञानार्थः, यथा त्रिहस्ताचारोपत्रे[^२६३] । यद्य् अपि तत्र तृतीयलेखको न[^२६४] भवति तथापि लेखनमात्रस्य व्यापारो न साक्षित्व इति कस्यचिद् इयम् आशङ्का स्यात् । **अन्त्यो** बर्बरचण्डालादिः, स्ववर्गाद्[^२६५] अन्यत्र । शूद्रयोनित्वेन प्राप्तस्य प्रतिषेधः । **विकलेन्द्रियो** ऽन्धबधिरादिः, शरीरपीडयोपलब्धिर् विकलत्वाच् च ॥ ८।६६ ॥
 
-	**nārto na matto nonmatto na kṣuttṛṣṇopapīḍitaḥ |**
+	**नार्तो न मत्तो नोन्मत्तो न क्षुत्तृष्णोपपीडितः ।**
 
-**	na śramārto na kāmārto na kruddho nāpi taskaraḥ || 8.67 ||**
+**	न श्रमार्तो न कामार्तो न क्रुद्धो नापि तस्करः ॥ ८।६७ ॥**
 
-**ārto** bandhudhanādināśena | **matto** madyamadakṣībaḥ | apasmāragṛhīta **unmattaḥ** piśācakī | **kṣuttṛṣṇopapīḍito** bubhukṣāpipāsābhyāṃ vyathitaḥ | **śramaḥ** kāyaceṣṭādhikyena dūrādhvagamanayuddhādinotpannas ten**ārtaḥ** pīḍitaḥ | **kāmaḥ** strīsaṅgābhilāṣas ten**ārto** vipralaṃbho 'tyantasaṃyogo[^266] dvāv api tāvat pratyayau cittopaplavāt tatsādhane ca vipralaṃbhāśaṅkayā ca | **kruddho** 'nyasminn api bahutarakrodhaḥ | sa hi krodhena vyāptacittatvān na yāvad anubhavati nāpy anubhūtaṃ smarati | **taskaraś** cauraḥ | yady apy asau vikarmakṛt tathāpi bhedopādānād gobalīvardanyāyo draṣṭavyaḥ || 8.67 ||
+**आर्तो** बन्धुधनादिनाशेन । **मत्तो** मद्यमदक्षीबः । अपस्मारगृहीत **उन्मत्तः** पिशाचकी । **क्षुत्तृष्णोपपीडितो** बुभुक्षापिपासाभ्यां व्यथितः । **श्रमः** कायचेष्टाधिक्येन दूराध्वगमनयुद्धादिनोत्पन्नस् तेन्**आर्तः** पीडितः । **कामः** स्त्रीसङ्गाभिलाषस् तेन्**आर्तो** विप्रलंभो ऽत्यन्तसंयोगो[^२६६] द्वाव् अपि तावत् प्रत्ययौ चित्तोपप्लवात् तत्साधने च विप्रलंभाशङ्कया च । **क्रुद्धो** ऽन्यस्मिन्न् अपि बहुतरक्रोधः । स हि क्रोधेन व्याप्तचित्तत्वान् न यावद् अनुभवति नाप्य् अनुभूतं स्मरति । **तस्करश्** चौरः । यद्य् अप्य् असौ विकर्मकृत् तथापि भेदोपादानाद् गोबलीवर्दन्यायो द्रष्टव्यः ॥ ८।६७ ॥
 
-	**strīṇāṃ sākṣyaṃ striyaḥ kuryur dvijānāṃ sadṛśā dvijāḥ |**
+	**स्त्रीणां साक्ष्यं स्त्रियः कुर्युर् द्विजानां सदृशा द्विजाः ।**
 
-**	śūdrāś ca santaḥ śūdrāṇām antyānām antyayonayaḥ || 8.68 ||**
+**	शूद्राश् च सन्तः शूद्राणाम् अन्त्यानाम् अन्त्ययोनयः ॥ ८।६८ ॥**
 
-yatra pumāṃsāv arthipratyarthinau tatra strīṇāṃ sākṣyaṃ nāsti | yatra tu striyā saha puṃsaḥ kāryaṃ strīṇām eva cetaretaraṃ svalpam, tatra bhavanty eva striyaḥ sākṣiṇyaḥ | na cāyaṃ niyamaḥ strīṇāṃ striya eva sākṣyaṃ kuryur na pumāṃsaḥ | kevalaṃ puṃviṣaye vyavahāre kvacid eva strīṇāṃ sākṣyaṃ yato "asthiratvāt" (MDh 8.77) iti hetur upāttaḥ | bhavanti kāścana striyo brahmavādinya iva satyavādinyaḥ sthirabuddhayaś ca |
+यत्र पुमांसाव् अर्थिप्रत्यर्थिनौ तत्र स्त्रीणां साक्ष्यं नास्ति । यत्र तु स्त्रिया सह पुंसः कार्यं स्त्रीणाम् एव चेतरेतरं स्वल्पम्, तत्र भवन्त्य् एव स्त्रियः साक्षिण्यः । न चायं नियमः स्त्रीणां स्त्रिय एव साक्ष्यं कुर्युर् न पुमांसः । केवलं पुंविषये व्यवहारे क्वचिद् एव स्त्रीणां साक्ष्यं यतो "अस्थिरत्वात्" (म्ध् ८।७७) इति हेतुर् उपात्तः । भवन्ति काश्चन स्त्रियो ब्रह्मवादिन्य इव सत्यवादिन्यः स्थिरबुद्धयश् च ।
 
-	**dvijānāṃ sadṛśā dvijāḥ** | yaḥ pramāṇataro dvijaḥ sa visadṛśaṃ śaṅkyamānapramāṇabhāvam api diśan sākṣye na śraddheyavacano bhavati | yatas tathābhūtena pramāṇabhūta eva draṣṭavyaḥ | sa hi tasya sadṛśaḥ | sadṛśānāṃ hi samānadeśasthānam[^267] itaretarakāryajñatvaṃ ca saṃbhāvyate | itarasya tu tatpradeśasaṃnidhir yatnena sādhyaḥ | sadṛśayos tv aucityāt[^268] siddha eva | evaṃ hīnasya hīnaguṇo 'pi sadṛśād grahītavyaḥ | na tūtkṛṣṭaguṇo na grahītavyaḥ | sādṛśyaṃ jātyā śilpādinā vā guṇena kriyayā vā śrutādhyayanādikayā samānaśīlatayā ca | etac ca nātimahati kārye draṣṭavyam | na hi hīnaguṇeṣu prayayitatā niścīyate | 
+	**द्विजानां सदृशा द्विजाः** । यः प्रमाणतरो द्विजः स विसदृशं शङ्क्यमानप्रमाणभावम् अपि दिशन् साक्ष्ये न श्रद्धेयवचनो भवति । यतस् तथाभूतेन प्रमाणभूत एव द्रष्टव्यः । स हि तस्य सदृशः । सदृशानां हि समानदेशस्थानम्[^२६७] इतरेतरकार्यज्ञत्वं च संभाव्यते । इतरस्य तु तत्प्रदेशसंनिधिर् यत्नेन साध्यः । सदृशयोस् त्व् औचित्यात्[^२६८] सिद्ध एव । एवं हीनस्य हीनगुणो ऽपि सदृशाद् ग्रहीतव्यः । न तूत्कृष्टगुणो न ग्रहीतव्यः । सादृश्यं जात्या शिल्पादिना वा गुणेन क्रियया वा श्रुताध्ययनादिकया समानशीलतया च । एतच् च नातिमहति कार्ये द्रष्टव्यम् । न हि हीनगुणेषु प्रययितता निश्चीयते । 
 
-	**antyānāṃ** caṇḍālaśvapacādīnāṃ tādṛśā ev**āntyayonayaḥ** | ante bhavā antyāḥ | sā yonir utpattikāraṇaṃ yeṣāṃ iti vigrahaḥ | pradarśanaṃ caitat | ye samānā jātiśilpaśīlādibhis teṣām ihānuktānām api vaṇikkārukuśīlavādīnām, hetoḥ samānatvāt || 8.68 ||
+	**अन्त्यानां** चण्डालश्वपचादीनां तादृशा एव्**आन्त्ययोनयः** । अन्ते भवा अन्त्याः । सा योनिर् उत्पत्तिकारणं येषां इति विग्रहः । प्रदर्शनं चैतत् । ये समाना जातिशिल्पशीलादिभिस् तेषाम् इहानुक्तानाम् अपि वणिक्कारुकुशीलवादीनाम्, हेतोः समानत्वात् ॥ ८।६८ ॥
 
-	**anubhāvī tu yaḥ kaścit kuryāt sākṣyaṃ vivādinām |**
+	**अनुभावी तु यः कश्चित् कुर्यात् साक्ष्यं विवादिनाम् ।**
 
-**	antarveśmany araṇye vā śarīrasyāpi cātyaye || 8.69 ||**
+**	अन्तर्वेश्मन्य् अरण्ये वा शरीरस्यापि चात्यये ॥ ८।६९ ॥**
 
-**antarveśmani** yat kāryam atarkitopanataṃ vāgdaṇḍapāruṣyasaṃgrahasteyasāhasādirūpam, araṇye vā tādṛśam eva, śarīre ca pīḍyamāne tatkāle dasyubhir anyair vā yataḥ kutaścid gṛhītam, yo vā dhananimittaṃ pratibhūtvena sthāpitaḥ, na ca sākṣiṇo labyante na vā tāvatkālaṃ pratipālayanti,[^269] rahasi cokto vārtham ādadate aprakāśam — tādṛśe viṣaye **yaḥ kaścid anubhāvī** sa sākṣitvena grahītavyaḥ | **anubhāvī** sākṣād draṣṭā | **yaḥ kaścid** iti na jātiniyamaḥ, sadṛśaṃ ca tadā nāstīty āha | 
+**अन्तर्वेश्मनि** यत् कार्यम् अतर्कितोपनतं वाग्दण्डपारुष्यसंग्रहस्तेयसाहसादिरूपम्, अरण्ये वा तादृशम् एव, शरीरे च पीड्यमाने तत्काले दस्युभिर् अन्यैर् वा यतः कुतश्चिद् गृहीतम्, यो वा धननिमित्तं प्रतिभूत्वेन स्थापितः, न च साक्षिणो लब्यन्ते न वा तावत्कालं प्रतिपालयन्ति,[^२६९] रहसि चोक्तो वार्थम् आददते अप्रकाशम् — तादृशे विषये **यः कश्चिद् अनुभावी** स साक्षित्वेन ग्रहीतव्यः । **अनुभावी** साक्षाद् द्रष्टा । **यः कश्चिद्** इति न जातिनियमः, सदृशं च तदा नास्तीत्य् आह । 
 
-	**antarveśmanīti** viralajanopalakṣaṇārtham | tena śūnyadevatāyatanādīny api viralajanāni gṛhyante | tathā **cāraṇya**grahaṇam asyaivārthasya pradarśanārtham | 
+	**अन्तर्वेश्मनीति** विरलजनोपलक्षणार्थम् । तेन शून्यदेवतायतनादीन्य् अपि विरलजनानि गृह्यन्ते । तथा **चारण्य**ग्रहणम् अस्यैवार्थस्य प्रदर्शनार्थम् । 
 
-	<span style="text-decoration:underline;">anye</span> tu **śarīrasyāpi cātyaya** ity anyathā vyākhyānayanti | kāryaśarīrasyātipāte yaḥ kaścit sākṣī | yat kāryam anuṣṭhīyamānam atipataty uttarakālam aśakyānuṣṭhānaṃ tatra sākṣiṇāṃ jātiliṅgavayaḥsādṛśyakasaṃbandhābhāvādiniyamo nāsti | etad evottareṇa darśayati || 8.69 ||
+	<span style="text-decoration:underline;">अन्ये</span> तु **शरीरस्यापि चात्यय** इत्य् अन्यथा व्याख्यानयन्ति । कार्यशरीरस्यातिपाते यः कश्चित् साक्षी । यत् कार्यम् अनुष्ठीयमानम् अतिपतत्य् उत्तरकालम् अशक्यानुष्ठानं तत्र साक्षिणां जातिलिङ्गवयःसादृश्यकसंबन्धाभावादिनियमो नास्ति । एतद् एवोत्तरेण दर्शयति ॥ ८।६९ ॥
 
-	**striyāpy asaṃbhave karyaṃ bāleṇa sthavireṇa vā |**
+	**स्त्रियाप्य् असंभवे कर्यं बालेण स्थविरेण वा ।**
 
-**	śiṣyeṇa bandhunā vāpi dāsena bhṛtakena vā || 8.70 ||**
+**	शिष्येण बन्धुना वापि दासेन भृतकेन वा ॥ ८।७० ॥**
 
-**striyeti** liṅgavyatyaya uktaḥ | **bālena sthavireṇa veti** vayovyatyayaḥ | **śiṣyeṇe**tyādinā saṃbandhinaḥ pratiprasavaḥ | etac ca pradarśanam evaṃvidhānāṃ niyamānāṃ vyabhicārāya | tena jātisādṛśye[^270] 'pi nādriyete | suhṛdvairidṛṣṭadoṣādayas tu neṣyante | yeṣāṃ kiṃcid asatyābhidhānakaraṇatvaṃ dṛṣṭaṃ nāpi vyāpakaṃ[^271] te na pratisūyante | yeṣāṃ tu bahuvyāpakaṃ kvacid eva guṇātiśayaṃ ceti vyabhicaret tataḥ kvacid eva tatsākṣiṇaḥ | uktaṃ ca |
+**स्त्रियेति** लिङ्गव्यत्यय उक्तः । **बालेन स्थविरेण वेति** वयोव्यत्ययः । **शिष्येणे**त्यादिना संबन्धिनः प्रतिप्रसवः । एतच् च प्रदर्शनम् एवंविधानां नियमानां व्यभिचाराय । तेन जातिसादृश्ये[^२७०] ऽपि नाद्रियेते । सुहृद्वैरिदृष्टदोषादयस् तु नेष्यन्ते । येषां किंचिद् असत्याभिधानकरणत्वं दृष्टं नापि व्यापकं[^२७१] ते न प्रतिसूयन्ते । येषां तु बहुव्यापकं क्वचिद् एव गुणातिशयं चेति व्यभिचरेत् ततः क्वचिद् एव तत्साक्षिणः । उक्तं च ।
 
-	ekaḥ sahasrāl labhyeta na sauhārdān na śātravāt |
+	एकः सहस्राल् लभ्येत न सौहार्दान् न शात्रवात् ।
 
-	nārthasaṃbandhato vāpi puruṣo 'nṛtam ācaret || iti |
+	नार्थसंबन्धतो वापि पुरुषो ऽनृतम् आचरेत् ॥ इति ।
 
-	asaṃbhave 'nyeṣāṃ sākṣiṇāṃ striyāpi kāryam | kim | sākṣyam iti pūrvaślokād anuṣajyate | **śiṣyeṇeti** maukhasrauvasaṃbandhapradarśanārtham[^272] etat | **bandhuneti** ahāryotpattikāyaunasaṃbandhapratiprasavaḥ[^273] | saty api saṃbandhatve yo nātipratyāsannaḥ sa gṛhyate | tena bhrātṛvyamātulaśvaśuryādayo na sākṣiṇaḥ | tathāvidhe hi bandhuśabdo rūḍhaḥ | **dāseneti** svasvāmisaṃbandha upalakṣyate | na svāmy upādhyāyo yājakaś ca sarvaṃvidhe viṣaye sākṣiṇaḥ | **dāso** garbhadāsaḥ | **bhṛtako** vaitanikaḥ[^274] | 
+	असंभवे ऽन्येषां साक्षिणां स्त्रियापि कार्यम् । किम् । साक्ष्यम् इति पूर्वश्लोकाद् अनुषज्यते । **शिष्येणेति** मौखस्रौवसंबन्धप्रदर्शनार्थम्[^२७२] एतत् । **बन्धुनेति** अहार्योत्पत्तिकायौनसंबन्धप्रतिप्रसवः[^२७३] । सत्य् अपि संबन्धत्वे यो नातिप्रत्यासन्नः स गृह्यते । तेन भ्रातृव्यमातुलश्वशुर्यादयो न साक्षिणः । तथाविधे हि बन्धुशब्दो रूढः । **दासेनेति** स्वस्वामिसंबन्ध उपलक्ष्यते । न स्वाम्य् उपाध्यायो याजकश् च सर्वंविधे विषये साक्षिणः । **दासो** गर्भदासः । **भृतको** वैतनिकः[^२७४] । 
 
-	<span style="text-decoration:underline;">nanu</span> cāsāmarthyād bālādayaḥ sākṣitve nirastāḥ | na hy ete sākṣyam avadhārayituṃ śaknuvanti buddher asthairyāt paripākādibhir doṣais tad āpadi pratiprasūyamānasamañjasam iti, na hy āpadi śaktir asyāvirbhavati | yo hi brūyāt "na vā[^275] navaudanaḥ paktavyaḥ; saty agnau tu paktavyaḥ" iti tādṛg etat syāt | 
+	<span style="text-decoration:underline;">ननु</span> चासामर्थ्याद् बालादयः साक्षित्वे निरस्ताः । न ह्य् एते साक्ष्यम् अवधारयितुं शक्नुवन्ति बुद्धेर् अस्थैर्यात् परिपाकादिभिर् दोषैस् तद् आपदि प्रतिप्रसूयमानसमञ्जसम् इति, न ह्य् आपदि शक्तिर् अस्याविर्भवति । यो हि ब्रूयात् "न वा[^२७५] नवौदनः पक्तव्यः; सत्य् अग्नौ तु पक्तव्यः" इति तादृग् एतत् स्यात् । 
 
-	<span style="text-decoration:underline;">naiṣa doṣaḥ</span> | evam artham evottaraśloka ārabhyate || 8.70 ||
+	<span style="text-decoration:underline;">नैष दोषः</span> । एवम् अर्थम् एवोत्तरश्लोक आरभ्यते ॥ ८।७० ॥
 
-	**bālavṛddhāturāṇāṃ ca sākṣyeṣu vadatāṃ mṛṣā |**
+	**बालवृद्धातुराणां च साक्ष्येषु वदतां मृषा ।**
 
-**	jānīyād asthirāṃ vācam utsiktamanasāṃ tathā || 8.71 ||**
+**	जानीयाद् अस्थिरां वाचम् उत्सिक्तमनसां तथा ॥ ८।७१ ॥**
 
-ayam asyārthaḥ | nehātyantāprāptanibaddhabhrāntabuddhayo bālādayo gṛhyante yenārabhyo 'rtha upadiṣṭaḥ syāt | kiṃ tu ye śaknuvanty avadhārayituṃ na cātisthiracetasas tebhyaḥ anujñāyante | teṣāṃ vacanam anumānena parīkṣyam | yadi saṃbaddhaṃ vadanti na ca khalanti na śaṅkyamānadoṣeṇa kenacit saṃgatās tataḥ pramāṇaṃ | tad āha teṣāṃ **mṛṣā vadatām asthirāṃ vācaṃ jānīyāt** | etad uktaṃ bhavati | vāco 'sthairyeṇa mṛṣātvaṃ niścinuyāt | tatra vāco 'sthairyaṃ padānām itaretaram asaṃgatiḥ, asphuṭāparipūrṇākṣaratvaṃ ca | etac ca bālādīnām avasthopalakṣaṇārtham | ye ca vayasā vyādhinā vāpy avasthām iyatīṃ gatā yad anyad vivakṣanto 'nyad uccārayanti tac cāvyaktaṃ na te sākṣiṇaḥ | etat pratyakṣavedyam asākṣitvakāraṇam | anyat tu rāgadveṣadhanalobhādisādhāraṇam anumānataḥ parīkṣyam | tac coktam eva | **utsiktacetasaḥ** prakṛtyaivopaplutā adhīradhiyaḥ || 8.71 ||
+अयम् अस्यार्थः । नेहात्यन्ताप्राप्तनिबद्धभ्रान्तबुद्धयो बालादयो गृह्यन्ते येनारभ्यो ऽर्थ उपदिष्टः स्यात् । किं तु ये शक्नुवन्त्य् अवधारयितुं न चातिस्थिरचेतसस् तेभ्यः अनुज्ञायन्ते । तेषां वचनम् अनुमानेन परीक्ष्यम् । यदि संबद्धं वदन्ति न च खलन्ति न शङ्क्यमानदोषेण केनचित् संगतास् ततः प्रमाणं । तद् आह तेषां **मृषा वदताम् अस्थिरां वाचं जानीयात्** । एतद् उक्तं भवति । वाचो ऽस्थैर्येण मृषात्वं निश्चिनुयात् । तत्र वाचो ऽस्थैर्यं पदानाम् इतरेतरम् असंगतिः, अस्फुटापरिपूर्णाक्षरत्वं च । एतच् च बालादीनाम् अवस्थोपलक्षणार्थम् । ये च वयसा व्याधिना वाप्य् अवस्थाम् इयतीं गता यद् अन्यद् विवक्षन्तो ऽन्यद् उच्चारयन्ति तच् चाव्यक्तं न ते साक्षिणः । एतत् प्रत्यक्षवेद्यम् असाक्षित्वकारणम् । अन्यत् तु रागद्वेषधनलोभादिसाधारणम् अनुमानतः परीक्ष्यम् । तच् चोक्तम् एव । **उत्सिक्तचेतसः** प्रकृत्यैवोपप्लुता अधीरधियः ॥ ८।७१ ॥
 
-	**sāhaseṣu ca sarveṣu steyasaṃgrahaṇeṣu ca |**
+	**साहसेषु च सर्वेषु स्तेयसंग्रहणेषु च ।**
 
-**	vāgdaṇḍayoś ca pāruṣye na parīkṣeta sākṣiṇaḥ || 8.72 ||**
+**	वाग्दण्डयोश् च पारुष्ये न परीक्षेत साक्षिणः ॥ ८।७२ ॥**
 
-saho balam, tad āśritya yat kriyate tat **sāhasam** | rājavāllbhyena mahāpakṣatayā svaśarīrabalena balavadāśrayeṇa vā yad akāryakaraṇaṃ tat **sāhasam**, yathā[^276] vastrapāṭanāgnidāhakeśachedādi | anyat prasiddham | atra sākṣiṇo na parīkṣyāḥ | "gṛhiṇaḥ putriṇaḥ" (MDh 8.62) ity evamādirūpaparīkṣātra pratiṣidhyate | yā tu vyabhicārahetutayā śaṅkyate rāgadveṣadhanalobhādirūpā sā kartavyaiva | dṛṣṭamūlatvād asyāḥ smṛter ity uktam || 8.72 ||
+सहो बलम्, तद् आश्रित्य यत् क्रियते तत् **साहसम्** । राजवाल्ल्भ्येन महापक्षतया स्वशरीरबलेन बलवदाश्रयेण वा यद् अकार्यकरणं तत् **साहसम्**, यथा[^२७६] वस्त्रपाटनाग्निदाहकेशछेदादि । अन्यत् प्रसिद्धम् । अत्र साक्षिणो न परीक्ष्याः । "गृहिणः पुत्रिणः" (म्ध् ८।६२) इत्य् एवमादिरूपपरीक्षात्र प्रतिषिध्यते । या तु व्यभिचारहेतुतया शङ्क्यते रागद्वेषधनलोभादिरूपा सा कर्तव्यैव । दृष्टमूलत्वाद् अस्याः स्मृतेर् इत्य् उक्तम् ॥ ८।७२ ॥
 
-	**bahutvaṃ parigṛhṇīyāt sākṣidvaidhe narādhipaḥ |**
+	**बहुत्वं परिगृह्णीयात् साक्षिद्वैधे नराधिपः ।**
 
-**	sameṣu tu guṇotkṛṣṭān guṇidvaidhe dvijottamān || 8.73 ||**
+**	समेषु तु गुणोत्कृष्टान् गुणिद्वैधे द्विजोत्तमान् ॥ ८।७३ ॥**
 
-yatra bhūmibhāgādau vipratipattir dvābhyāṃ ca bhogasādhanaṃ sākṣiṇo nirdiṣṭāḥ | te a kecid arthino bhogam āhur apare pratyarthinaḥ | tatra bahūnāṃ vacanaṃ grāhyam | samasaṃkhyeṣu tu ye guṇair utkṛṣṭā bahuguṇā ity arthaḥ | ekena vā guṇena dṛṣṭapuruṣārthopakāriṇā[^277] sātiśayena yuktāḥ | guṇavatāṃ samaguṇānāṃ bhede jātir ādartavyā | sarvasāmye śapathaḥ | anyad vā tatsamānam[^278] |
+यत्र भूमिभागादौ विप्रतिपत्तिर् द्वाभ्यां च भोगसाधनं साक्षिणो निर्दिष्टाः । ते अ केचिद् अर्थिनो भोगम् आहुर् अपरे प्रत्यर्थिनः । तत्र बहूनां वचनं ग्राह्यम् । समसंख्येषु तु ये गुणैर् उत्कृष्टा बहुगुणा इत्य् अर्थः । एकेन वा गुणेन दृष्टपुरुषार्थोपकारिणा[^२७७] सातिशयेन युक्ताः । गुणवतां समगुणानां भेदे जातिर् आदर्तव्या । सर्वसाम्ये शपथः । अन्यद् वा तत्समानम्[^२७८] ।
 
-	**bahutvaṃ parigṛhṇīyāt** | bahūnāṃ vacanaṃ pramāṇīkuryāt | **dvaidhaṃ** parasparaviruddhārthābhidhānam || 8.73 ||
+	**बहुत्वं परिगृह्णीयात्** । बहूनां वचनं प्रमाणीकुर्यात् । **द्वैधं** परस्परविरुद्धार्थाभिधानम् ॥ ८।७३ ॥
 
-	**samakṣadarśanāt sākṣyaṃ śravaṇāc caiva sidhyati |**
+	**समक्षदर्शनात् साक्ष्यं श्रवणाच् चैव सिध्यति ।**
 
-**	tatra satyaṃ bruvan sākṣī dharmārthābhyāṃ na hīyate || 8.74 ||**
+**	तत्र सत्यं ब्रुवन् साक्षी धर्मार्थाभ्यां न हीयते ॥ ८।७४ ॥**
 
-<span style="text-decoration:underline;">nanu</span> ca "anubhāvī tu yaḥ kaścit" (MDh 8.69) ity anenoktam evaitat, kathaṃ cānyathāsiddhir āśaṅkyate yenedam ucyate darśanaśravaṇābhyāṃ sākṣyasiddhir iti | 
+<span style="text-decoration:underline;">ननु</span> च "अनुभावी तु यः कश्चित्" (म्ध् ८।६९) इत्य् अनेनोक्तम् एवैतत्, कथं चान्यथासिद्धिर् आशङ्क्यते येनेदम् उच्यते दर्शनश्रवणाभ्यां साक्ष्यसिद्धिर् इति । 
 
-	<span style="text-decoration:underline;">atrocyate</span> | sākṣī vyavahariṣyatā kartavyaḥ "tvaṃ me sākṣī bhaviṣyasi" ity uktam | tatra ya evam anuktaḥ[^279] sa na prāpnoti | evam artham idam ucyate | yas tatre saṃnihitaḥ kathaṃcid anubhavitā tvaṃ smartum arhasy avayor amum artham ity evam anukte 'pi bhavaty eva sākṣī | **samakṣadarśanāt** sākṣād anubhāvāc **chravaṇāc ca** | samakṣaśabdānuṣaṅgaḥ kartavyaḥ | yat kutaścid ekena śrūyate tato 'nyena tat paraṃparāśrutaṃ tena paraṃparāśrāvī na sākṣī | yathaitenedam akāryaṃ kṛtam idam asmai vā dhārayatīti lokaprasiddhyāgatam, na tu pramāṇataḥ | tatra samakṣadarśanaṃ sākṣād anubhavanam arthaviṣayam ṛṇaprayogadaṇḍapāruṣyādi sākṣād dṛṣṭaṃ cakṣurvyāpāreṇa vākpāruṣyaṃ tathedam asmān mayā gṛhītam ity evamādiviṣayaṃ śabdaśravaṇam | yady api dṛśir upalabdhimātravacanaḥ tathāpi[^280] vṛttānurodhitayā śrotrajñānaṃ śravaṇaṃ bhedenopāttam | etāvac cātra vivakṣitam | praṃāṇato yenānubhūtaṃ sa sākṣī | samakṣaśabdagrahaṇaṃ pramāṇamātropalakṣaṇārtham | tenānumānādināpy anubhūtam anubhūtam eva | ata āptāgamāc chrutam apratyakṣam api pramāṇam | uttaras tu ślokārdho 'nuvāda eva, satyavacanasya vihitatvāt, asatyavādino dharmārthahāneś ca pramāṇāntarāvagatatvāt || 8.74 ||
+	<span style="text-decoration:underline;">अत्रोच्यते</span> । साक्षी व्यवहरिष्यता कर्तव्यः "त्वं मे साक्षी भविष्यसि" इत्य् उक्तम् । तत्र य एवम् अनुक्तः[^२७९] स न प्राप्नोति । एवम् अर्थम् इदम् उच्यते । यस् तत्रे संनिहितः कथंचिद् अनुभविता त्वं स्मर्तुम् अर्हस्य् अवयोर् अमुम् अर्थम् इत्य् एवम् अनुक्ते ऽपि भवत्य् एव साक्षी । **समक्षदर्शनात्** साक्षाद् अनुभावाच् **छ्रवणाच् च** । समक्षशब्दानुषङ्गः कर्तव्यः । यत् कुतश्चिद् एकेन श्रूयते ततो ऽन्येन तत् परंपराश्रुतं तेन परंपराश्रावी न साक्षी । यथैतेनेदम् अकार्यं कृतम् इदम् अस्मै वा धारयतीति लोकप्रसिद्ध्यागतम्, न तु प्रमाणतः । तत्र समक्षदर्शनं साक्षाद् अनुभवनम् अर्थविषयम् ऋणप्रयोगदण्डपारुष्यादि साक्षाद् दृष्टं चक्षुर्व्यापारेण वाक्पारुष्यं तथेदम् अस्मान् मया गृहीतम् इत्य् एवमादिविषयं शब्दश्रवणम् । यद्य् अपि दृशिर् उपलब्धिमात्रवचनः तथापि[^२८०] वृत्तानुरोधितया श्रोत्रज्ञानं श्रवणं भेदेनोपात्तम् । एतावच् चात्र विवक्षितम् । प्रंआणतो येनानुभूतं स साक्षी । समक्षशब्दग्रहणं प्रमाणमात्रोपलक्षणार्थम् । तेनानुमानादिनाप्य् अनुभूतम् अनुभूतम् एव । अत आप्तागमाच् छ्रुतम् अप्रत्यक्षम् अपि प्रमाणम् । उत्तरस् तु श्लोकार्धो ऽनुवाद एव, सत्यवचनस्य विहितत्वात्, असत्यवादिनो धर्मार्थहानेश् च प्रमाणान्तरावगतत्वात् ॥ ८।७४ ॥
 
-	**sākṣī dṛṣṭaśrutād anyad vibruvann āryasaṃsadi |**
+	**साक्षी दृष्टश्रुताद् अन्यद् विब्रुवन्न् आर्यसंसदि ।**
 
-**	avāṅ narakam abhyeti pretya svargāc ca hīyate || 8.75 ||**
+**	अवाङ् नरकम् अभ्येति प्रेत्य स्वर्गाच् च हीयते ॥ ८।७५ ॥**
 
-asatyābhidhāne sākṣiṇāṃ phaladarśanārtham idam | **dṛṣṭaśruta**śabda upalabdhiparyāya ity uktam | tasmād **anyad** anupalabdham | tac ced bravīti | **āryāḥ** sabhyāḥ samyakkāriṇaḥ | teṣāṃ **saṃsadi** sabhāyām **avāṅ** adhomukhaḥ **narakaṃ**[^281] yāmaṃ yātanāsthānaṃ[^282] gacchati | **pretya** mṛtvā **svargāc ca hīyate** bhraśyati | yad apy anena svargārohaṇikaṃ karma kṛtaṃ tad api kauṭasākṣyapāpasya gurutvāt pratibadhyate | na tu svargasya karmaṇaḥ pāpenānyena nāśaḥ | svaphalavidhitvāt karmaṇām anyatra prāyaścittebhyaḥ || 8.75 ||
+असत्याभिधाने साक्षिणां फलदर्शनार्थम् इदम् । **दृष्टश्रुत**शब्द उपलब्धिपर्याय इत्य् उक्तम् । तस्माद् **अन्यद्** अनुपलब्धम् । तच् चेद् ब्रवीति । **आर्याः** सभ्याः सम्यक्कारिणः । तेषां **संसदि** सभायाम् **अवाङ्** अधोमुखः **नरकं**[^२८१] यामं यातनास्थानं[^२८२] गच्छति । **प्रेत्य** मृत्वा **स्वर्गाच् च हीयते** भ्रश्यति । यद् अप्य् अनेन स्वर्गारोहणिकं कर्म कृतं तद् अपि कौटसाक्ष्यपापस्य गुरुत्वात् प्रतिबध्यते । न तु स्वर्गस्य कर्मणः पापेनान्येन नाशः । स्वफलविधित्वात् कर्मणाम् अन्यत्र प्रायश्चित्तेभ्यः ॥ ८।७५ ॥
 
-	**yatrānibaddho 'pīkṣeta śṛṇuyād vāpi kiṃcana |**
+	**यत्रानिबद्धो ऽपीक्षेत शृणुयाद् वापि किंचन ।**
 
-**	dṛṣṭas tatrāpi tad brūyād yathādṛṣṭaṃ yathāśrutam || 8.76 ||**
+**	दृष्टस् तत्रापि तद् ब्रूयाद् यथादृष्टं यथाश्रुतम् ॥ ८।७६ ॥**
 
-<span style="text-decoration:underline;">nanu</span> coktaṃ "samakṣadarśanāt" (MDh 8.74) ity atra yathākathaṃcidanubhūtavato 'niyuktasyāpi sākṣyam astīti | tatra kim anena "yatrānibaddho 'pi" iti | ko vā viśeṣaḥ | 
+<span style="text-decoration:underline;">ननु</span> चोक्तं "समक्षदर्शनात्" (म्ध् ८।७४) इत्य् अत्र यथाकथंचिदनुभूतवतो ऽनियुक्तस्यापि साक्ष्यम् अस्तीति । तत्र किम् अनेन "यत्रानिबद्धो ऽपि" इति । को वा विशेषः । 
 
-	<span style="text-decoration:underline;">ucyate</span> | lekhyārūḍhasya vyāpāraviśeṣādyuktaṃ sākṣitvaṃ na punar anārūḍhasya | ārohaṇasyānarthakyaprasaṅgād ubhayoḥ sākṣitve[^283] | ata etām āśaṅkām apanetum idam ucyate | pūrvas tu śloko yatrānukāḥ[^284] sākṣiṇaḥ | ayaṃ tu yatra sasākṣikaṃ lekhyam |
+	<span style="text-decoration:underline;">उच्यते</span> । लेख्यारूढस्य व्यापारविशेषाद्युक्तं साक्षित्वं न पुनर् अनारूढस्य । आरोहणस्यानर्थक्यप्रसङ्गाद् उभयोः साक्षित्वे[^२८३] । अत एताम् आशङ्काम् अपनेतुम् इदम् उच्यते । पूर्वस् तु श्लोको यत्रानुकाः[^२८४] साक्षिणः । अयं तु यत्र ससाक्षिकं लेख्यम् ।
 
-	**anibaddho** lekyam anārūḍho 'pīty arthaḥ | īkṣaṇaśravaṇe vyākhyāte | śeṣaṃ subodham || 8.76 ||
+	**अनिबद्धो** लेक्यम् अनारूढो ऽपीत्य् अर्थः । ईक्षणश्रवणे व्याख्याते । शेषं सुबोधम् ॥ ८।७६ ॥
 
-	**eko lubdhas tv asākṣī**[^285]** syād bahvyaḥ śucyo 'pi na striyaḥ |**
+	**एको लुब्धस् त्व् असाक्षी**[^२८५]** स्याद् बह्व्यः शुच्यो ऽपि न स्त्रियः ।**
 
-**	strībuddher asthiratvāt tu doṣaiś cānye 'pi ye vṛtāḥ || 8.77 ||**
+**	स्त्रीबुद्धेर् अस्थिरत्वात् तु दोषैश् चान्ये ऽपि ये वृताः ॥ ८।७७ ॥**
 
-**ekasya** punaḥ pratiṣedho lobhādirahitasya pratiprasavārthaḥ | tena satyavāditayā niścita eko 'pi sākṣī bhavaty eva | **striyas** tu na kathaṃcit sākṣyam arhanty alpā vā **bahvyo** vā | **śucyo 'pīti** guṇavatyo 'pīty arthaḥ | atra hetuḥ: **strībuddher asthiratvād** iti | prakṛtir eṣā strīṇāṃ yad buddheś cāpalam | guṇās tu yatnopārjitā api pramādālasyādinā vyapayanty ataḥ svābhāvikam asthairyaṃ tiṣṭhed eva | yathāmayāvino ghṛtādinotpanne 'py agneḥ sthairye svalpenāpi pramāde punaḥ sahajāmayāvitānuvṛttiḥ | ato 'nayā śaṅkayā guṇavatīṣv api tāsu nāśvāsaḥ | yat tu "striyāpy asaṃbhave kāryam" (MDh 8.70) iti tad yatra tatkṣaṇād eva pṛcchyante | yatreyam āśaṅkā na bhavati kenacid āsāṃ saṃcalitaṃ mana iti | yatra tu kālavyavadhānaṃ tatra jīyamānena kadācid anukūlyante iti na kvacit sākṣinyaḥ |
+**एकस्य** पुनः प्रतिषेधो लोभादिरहितस्य प्रतिप्रसवार्थः । तेन सत्यवादितया निश्चित एको ऽपि साक्षी भवत्य् एव । **स्त्रियस्** तु न कथंचित् साक्ष्यम् अर्हन्त्य् अल्पा वा **बह्व्यो** वा । **शुच्यो ऽपीति** गुणवत्यो ऽपीत्य् अर्थः । अत्र हेतुः: **स्त्रीबुद्धेर् अस्थिरत्वाद्** इति । प्रकृतिर् एषा स्त्रीणां यद् बुद्धेश् चापलम् । गुणास् तु यत्नोपार्जिता अपि प्रमादालस्यादिना व्यपयन्त्य् अतः स्वाभाविकम् अस्थैर्यं तिष्ठेद् एव । यथामयाविनो घृतादिनोत्पन्ने ऽप्य् अग्नेः स्थैर्ये स्वल्पेनापि प्रमादे पुनः सहजामयावितानुवृत्तिः । अतो ऽनया शङ्कया गुणवतीष्व् अपि तासु नाश्वासः । यत् तु "स्त्रियाप्य् असंभवे कार्यम्" (म्ध् ८।७०) इति तद् यत्र तत्क्षणाद् एव पृच्छ्यन्ते । यत्रेयम् आशङ्का न भवति केनचिद् आसां संचलितं मन इति । यत्र तु कालव्यवधानं तत्र जीयमानेन कदाचिद् अनुकूल्यन्ते इति न क्वचित् साक्षिन्यः ।
 
-	**doṣaiś cānye 'pi ye vṛtāḥ** | rogādibhir **doṣair** **ye** strībhyo **'nye 'pi** puruṣā **vṛtā** ākrāntā bhūyiṣṭhadoṣā ity arthaḥ | ke punar amī doṣā nāma | uktaṃ ca | rāgādayaḥ śāstrapratiṣiddhāḥ śaṅkyamānavyabhicārahetubhāvāḥ | yady api kevalena svaśabdenaivoktā doṣāḥ tathāpy anuktaparigrahārtham idam apunaruktam | sāmānyaviśeṣābhidhānaṃ hi sarvatra granthakārā anumanyante | 
+	**दोषैश् चान्ये ऽपि ये वृताः** । रोगादिभिर् **दोषैर्** **ये** स्त्रीभ्यो **ऽन्ये ऽपि** पुरुषा **वृता** आक्रान्ता भूयिष्ठदोषा इत्य् अर्थः । के पुनर् अमी दोषा नाम । उक्तं च । रागादयः शास्त्रप्रतिषिद्धाः शङ्क्यमानव्यभिचारहेतुभावाः । यद्य् अपि केवलेन स्वशब्देनैवोक्ता दोषाः तथाप्य् अनुक्तपरिग्रहार्थम् इदम् अपुनरुक्तम् । सामान्यविशेषाभिधानं हि सर्वत्र ग्रन्थकारा अनुमन्यन्ते । 
 
-	<span style="text-decoration:underline;">anye</span> tv akārapraśleṣeṇa "alubdho 'py eko na sākṣī" kiṃ punar lubdha ity evam ācakṣate | tathā ca dvayor abhyanujñānaṃ bhavati | 
+	<span style="text-decoration:underline;">अन्ये</span> त्व् अकारप्रश्लेषेण "अलुब्धो ऽप्य् एको न साक्षी" किं पुनर् लुब्ध इत्य् एवम् आचक्षते । तथा च द्वयोर् अभ्यनुज्ञानं भवति । 
 
-	śucya itīkāro durlabho "voto guṇavacanāt" (Pāṇ 4.1.44) iti vidhānāt | "kṛdikārāt"[^286] iti kecit samarthayante || 8.77 ||
+	शुच्य इतीकारो दुर्लभो "वोतो गुणवचनात्" (पाण् ४।१।४४) इति विधानात् । "कृदिकारात्"[^२८६] इति केचित् समर्थयन्ते ॥ ८।७७ ॥
 
-	**svabhāvenaiva yad brūyus tad grāhyaṃ vyāvahārikam |**
+	**स्वभावेनैव यद् ब्रूयुस् तद् ग्राह्यं व्यावहारिकम् ।**
 
-**	ato yad anyad vibrūyur dharmārthaṃ tad apārthakam || 8.78 ||**
+**	अतो यद् अन्यद् विब्रूयुर् धर्मार्थं तद् अपार्थकम् ॥ ८।७८ ॥**
 
-sākṣiṇo yat **svabhāvena vyāvahārikaṃ** bruvanti tad grāhyam | yat tu svabhāvād vicalitāruṇayā[^287] dharmabuddhyā[^288] **dharmārthaṃ brūyus tad apārthakam** agrāhyam ity arthaḥ | yadyathādṛṣṭasyārthasya[^289] vacanaṃ tat svabhāvataḥ | yat tv anyathā "mā bhūd asya tapasvino madvacanena bādhaḥ" ity anayā buddhyā, **tad apārthakam** | yathā kenacid āveditaṃ bhavati "anenāha mākruṣṭaḥ" iti | tatra pareṇāpahnutam | sākṣiṇa āhuḥ: "satyam ākruṣṭaḥ,[^290] narmaṇā[^291] na tu roṣeṇa"[^292] iti | tatrākṛuṣṭa[^293] ity etat sākṣiṇāṃ vaco grāhyam | narmeṇety[^294] etad uttaravādinānuktatvād apṛṣṭam uktam api na grāhyam | 
+साक्षिणो यत् **स्वभावेन व्यावहारिकं** ब्रुवन्ति तद् ग्राह्यम् । यत् तु स्वभावाद् विचलितारुणया[^२८७] धर्मबुद्ध्या[^२८८] **धर्मार्थं ब्रूयुस् तद् अपार्थकम्** अग्राह्यम् इत्य् अर्थः । यद्यथादृष्टस्यार्थस्य[^२८९] वचनं तत् स्वभावतः । यत् त्व् अन्यथा "मा भूद् अस्य तपस्विनो मद्वचनेन बाधः" इत्य् अनया बुद्ध्या, **तद् अपार्थकम्** । यथा केनचिद् आवेदितं भवति "अनेनाह माक्रुष्टः" इति । तत्र परेणापह्नुतम् । साक्षिण आहुः: "सत्यम् आक्रुष्टः,[^२९०] नर्मणा[^२९१] न तु रोषेण"[^२९२] इति । तत्राकृउष्ट[^२९३] इत्य् एतत् साक्षिणां वचो ग्राह्यम् । नर्मेणेत्य्[^२९४] एतद् उत्तरवादिनानुक्तत्वाद् अपृष्टम् उक्तम् अपि न ग्राह्यम् । 
 
-	**vyāvahārikaṃ** vyavahāragatam | apagataprayojanam **apārthakam** | 
+	**व्यावहारिकं** व्यवहारगतम् । अपगतप्रयोजनम् **अपार्थकम्** । 
 
-	<span style="text-decoration:underline;">anye</span> vyācakṣate | yad apragalbhādibhiḥ skhalitapadam udāharanti na tāvatā tad anādeyaṃ kiṃ tu svabhāva eṣām upalakṣitavyo 'numānena: kim amī aprāgalbhyāt skhalanti utāsatyābhidhāyitayeti | 
+	<span style="text-decoration:underline;">अन्ये</span> व्याचक्षते । यद् अप्रगल्भादिभिः स्खलितपदम् उदाहरन्ति न तावता तद् अनादेयं किं तु स्वभाव एषाम् उपलक्षितव्यो ऽनुमानेन: किम् अमी अप्रागल्भ्यात् स्खलन्ति उतासत्याभिधायितयेति । 
 
-	<span style="text-decoration:underline;">tat tu</span> prāg uktam | na cākṣarārtha ity upekṣyam || 8.78 ||
+	<span style="text-decoration:underline;">तत् तु</span> प्राग् उक्तम् । न चाक्षरार्थ इत्य् उपेक्ष्यम् ॥ ८।७८ ॥
 
-	**sabhāntaḥ sākṣiṇaḥ prāptān arthipratyarthisaṃnidhau |**
+	**सभान्तः साक्षिणः प्राप्तान् अर्थिप्रत्यर्थिसंनिधौ ।**
 
-**	prāḍvivāko 'nuyuñjīta vidhinānena sāntvayan || 8.79 ||**
+**	प्राड्विवाको ऽनुयुञ्जीत विधिनानेन सान्त्वयन् ॥ ८।७९ ॥**
 
-sabhāyām antaḥ **sabhāntaḥ** | śauṇḍāditvāt samāsaḥ (cf. Pāṇ 2.1.40) | vyavahāradeśagatā ubhayor **arthipratyarthinoḥ** saṃnidhāne 'nuyoktavyā vakṣyamāṇena vidhinā | **sāntvayan** aparuṣaṃ bruvan[^295] | pāruṣyeṇa hi prāḍvivākād bibhyato 'prakṛtisthā na[^296] sarvaṃ smareyuḥ, saṃskārabhraṃśahetutvād bhayasya | prāḍvivāko rājñā vyavahāradarśanādhikṛto rūḍhyocyate | yady apy avayavārtho rājany api saṃbhavati. pṛcchati vivinaktīti, tathāpi[^297] bhedena prayogadarśanam: "amātyaḥ prāḍvivāko vā yaḥ kuryāt kāryam anyathā" (MDh 9.234) iti | pṛcchatīti prāṭ, "kvibvacipracchiśridruśrupruvāṃ dīrgho 'saṃprasāraṇaṃ ca" iti prāṭ | viśeṣeṇa dharmasaṃkaṭeṣu vivektīti vivāṭaḥ | "kṛtyalyuṭo bahulam" (Pāṇ 3.3.113) iti | kartari ghañ | "cajoḥ ku ghiṇṇyatoḥ" (Pāṇ 7.3.52) iti kutvam | prāṭ cāsau vivākaś ca prāḍvivākaḥ || 8.79 ||
+सभायाम् अन्तः **सभान्तः** । शौण्डादित्वात् समासः (च्ड़्। पाण् २।१।४०) । व्यवहारदेशगता उभयोर् **अर्थिप्रत्यर्थिनोः** संनिधाने ऽनुयोक्तव्या वक्ष्यमाणेन विधिना । **सान्त्वयन्** अपरुषं ब्रुवन्[^२९५] । पारुष्येण हि प्राड्विवाकाद् बिभ्यतो ऽप्रकृतिस्था न[^२९६] सर्वं स्मरेयुः, संस्कारभ्रंशहेतुत्वाद् भयस्य । प्राड्विवाको राज्ञा व्यवहारदर्शनाधिकृतो रूढ्योच्यते । यद्य् अप्य् अवयवार्थो राजन्य् अपि संभवति। पृच्छति विविनक्तीति, तथापि[^२९७] भेदेन प्रयोगदर्शनम्: "अमात्यः प्राड्विवाको वा यः कुर्यात् कार्यम् अन्यथा" (म्ध् ९।२३४) इति । पृच्छतीति प्राट्, "क्विब्वचिप्रच्छिश्रिद्रुश्रुप्रुवां दीर्घो ऽसंप्रसारणं च" इति प्राट् । विशेषेण धर्मसंकटेषु विवेक्तीति विवाटः । "कृत्यल्युटो बहुलम्" (पाण् ३।३।११३) इति । कर्तरि घञ् । "चजोः कु घिण्ण्यतोः" (पाण् ७।३।५२) इति कुत्वम् । प्राट् चासौ विवाकश् च प्राड्विवाकः ॥ ८।७९ ॥
 
-	**yad dvayor anayor vettha kārye 'smiṃś ceṣṭitaṃ mithaḥ |**
+	**यद् द्वयोर् अनयोर् वेत्थ कार्ये ऽस्मिंश् चेष्टितं मिथः ।**
 
-**	tad brūta sarvaṃ satyena yuṣmākaṃ hy atra sākṣitā || 8.80 ||**
+**	तद् ब्रूत सर्वं सत्येन युष्माकं ह्य् अत्र साक्षिता ॥ ८।८० ॥**
 
-yaj jānītha **asmin** vyavahāravastuni **anayor mithaḥ** pratyakṣaṃ[^298] rahasi vā **ceṣṭitaṃ** vṛttaṃ **tat sarvaṃ satyena** tathyena **brūta** kathayata | **yuṣmākaṃ hy atra sākṣitā** bhavatām atra prāmāṇyam | yuṣmadvacanādhīne satyānṛte | ity anena protsāhyante | sākṣibhūtā[^299] asmin kārya iti sāmānyanirdeśe 'py akhilavastuśrāvaṇaṃ sāmarthyād draṣṭavyam | na hy aśrutaviśeṣāḥ praśnaviṣayaṃ veditum arhantīti || 8.80 ||
+यज् जानीथ **अस्मिन्** व्यवहारवस्तुनि **अनयोर् मिथः** प्रत्यक्षं[^२९८] रहसि वा **चेष्टितं** वृत्तं **तत् सर्वं सत्येन** तथ्येन **ब्रूत** कथयत । **युष्माकं ह्य् अत्र साक्षिता** भवताम् अत्र प्रामाण्यम् । युष्मद्वचनाधीने सत्यानृते । इत्य् अनेन प्रोत्साह्यन्ते । साक्षिभूता[^२९९] अस्मिन् कार्य इति सामान्यनिर्देशे ऽप्य् अखिलवस्तुश्रावणं सामर्थ्याद् द्रष्टव्यम् । न ह्य् अश्रुतविशेषाः प्रश्नविषयं वेदितुम् अर्हन्तीति ॥ ८।८० ॥
 
-	**satyaṃ sākṣye bruvan sākṣī lokān prāpnoty aninditān |**
+	**सत्यं साक्ष्ये ब्रुवन् साक्षी लोकान् प्राप्नोत्य् अनिन्दितान् ।**
 
-**	iha cānuttamāṃ kīrtiṃ vāg eṣā brahmapūjitā || 8.81 ||**
+**	इह चानुत्तमां कीर्तिं वाग् एषा ब्रह्मपूजिता ॥ ८।८१ ॥**
 
-itaḥ prabhṛti satyavacanārthaḥ sākṣiṇām anuyogavidhiḥ | **satyaṃ** vadan **lokān** svargādilakṣaṇān **aninditān** agarhitān abhipretaphalabhogahetūn labhate **sākṣī** | jātivacano vā **loka**śabdaḥ | śubhe janmani jāyata ity arthaḥ | asmiṃś ca janmani **kīrtiḥ** khyātir **anuttamā**[^300] yasyā anyad uttamaṃ prakṛṣṭaṃ nāsti, tāṃ labhate | sādhuvādo janenāsmai dīyate | yasmād **eṣā** ca **vāk** satyā sarasvatī **brahmaṇā** prajāpatinā **pūjitā** || 8.81 ||
+इतः प्रभृति सत्यवचनार्थः साक्षिणाम् अनुयोगविधिः । **सत्यं** वदन् **लोकान्** स्वर्गादिलक्षणान् **अनिन्दितान्** अगर्हितान् अभिप्रेतफलभोगहेतून् लभते **साक्षी** । जातिवचनो वा **लोक**शब्दः । शुभे जन्मनि जायत इत्य् अर्थः । अस्मिंश् च जन्मनि **कीर्तिः** ख्यातिर् **अनुत्तमा**[^३००] यस्या अन्यद् उत्तमं प्रकृष्टं नास्ति, तां लभते । साधुवादो जनेनास्मै दीयते । यस्माद् **एषा** च **वाक्** सत्या सरस्वती **ब्रह्मणा** प्रजापतिना **पूजिता** ॥ ८।८१ ॥
 
-	**sākṣye 'nṛtaṃ vadan pāśair badhyate vāruṇair bhṛśam |**
+	**साक्ष्ये ऽनृतं वदन् पाशैर् बध्यते वारुणैर् भृशम् ।**
 
-**	vivaśaḥ śatam ājātīs tasmāt sākṣyaṃ vaded ṛtam || 8.82 ||**
+**	विवशः शतम् आजातीस् तस्मात् साक्ष्यं वदेद् ऋतम् ॥ ८।८२ ॥**
 
-pūrveṇa dṛṣṭādṛṣṭaśubhāśubhapradarśanena satyavacane sākṣiṇaḥ protsāhitāḥ | anena viparītābhidhāne duḥkhotpattidarśanam | satyavacanārtham evaitat | sākṣiṇaḥ karma **sākṣyam** | tatrāsatyaṃ bruvāṇo **vāruṇaiḥ pāśair** **badhyate** pīḍyate | **bhṛśam** atyartham | **vivaśaḥ** paratantrīkṛtaḥ sarvaceṣṭāsu vākcakṣurgatāsv api | **śataṃ** yāvaj janmani vāruṇāḥ pāśā ghorāḥ sarparajjavo jalodarāṇi vā | etaddoṣaparihārārthaṃ satyaṃ vaded iti vidhiḥ | **ājātīr** iti nāyaṃ maryādābhividhyor āṅ | tathā sati pañcamī syāt | tasmād upasargo 'yam anarthakaḥ, pralambata[^301] itivat[^302] | dvitīyā ceyaṃ āvṛttiś cātra gamyate | śataṃ janmāny āvartate udaragṛhītaḥ || 8.82 ||
+पूर्वेण दृष्टादृष्टशुभाशुभप्रदर्शनेन सत्यवचने साक्षिणः प्रोत्साहिताः । अनेन विपरीताभिधाने दुःखोत्पत्तिदर्शनम् । सत्यवचनार्थम् एवैतत् । साक्षिणः कर्म **साक्ष्यम्** । तत्रासत्यं ब्रुवाणो **वारुणैः पाशैर्** **बध्यते** पीड्यते । **भृशम्** अत्यर्थम् । **विवशः** परतन्त्रीकृतः सर्वचेष्टासु वाक्चक्षुर्गतास्व् अपि । **शतं** यावज् जन्मनि वारुणाः पाशा घोराः सर्परज्जवो जलोदराणि वा । एतद्दोषपरिहारार्थं सत्यं वदेद् इति विधिः । **आजातीर्** इति नायं मर्यादाभिविध्योर् आङ् । तथा सति पञ्चमी स्यात् । तस्माद् उपसर्गो ऽयम् अनर्थकः, प्रलम्बत[^३०१] इतिवत्[^३०२] । द्वितीया चेयं आवृत्तिश् चात्र गम्यते । शतं जन्मान्य् आवर्तते उदरगृहीतः ॥ ८।८२ ॥
 
-	**satyena pūyate sākṣī dharmaḥ satyena vardhate |**
+	**सत्येन पूयते साक्षी धर्मः सत्येन वर्धते ।**
 
-**	tasmāt satyaṃ hi vaktavyaṃ sarvavarṇeṣu sākṣibhiḥ || 8.83 ||**
+**	तस्मात् सत्यं हि वक्तव्यं सर्ववर्णेषु साक्षिभिः ॥ ८।८३ ॥**
 
-**pūyate** śuddhyaty anyasmād api pāpān mucyata iti yāvat | śeṣaṃ gatārtham || 8.83 ||
+**पूयते** शुद्ध्यत्य् अन्यस्माद् अपि पापान् मुच्यत इति यावत् । शेषं गतार्थम् ॥ ८।८३ ॥
 
-	**ātmaiva hy ātmanaḥ sākṣī gatir ātmā tathātmanaḥ |**
+	**आत्मैव ह्य् आत्मनः साक्षी गतिर् आत्मा तथात्मनः ।**
 
-**	māvamaṃsthāḥ svam ātmānaṃ nṛṇāṃ sākṣiṇam uttamam || 8.84 ||**
+**	मावमंस्थाः स्वम् आत्मानं नृणां साक्षिणम् उत्तमम् ॥ ८।८४ ॥**
 
-eṣa evārtho vispaṣṭīkriyate uttareṇa ślokena || 8.84 ||
+एष एवार्थो विस्पष्टीक्रियते उत्तरेण श्लोकेन ॥ ८।८४ ॥
 
-	**manyante vai pāpakṛto na kaścit paśyatīti naḥ |**
+	**मन्यन्ते वै पापकृतो न कश्चित् पश्यतीति नः ।**
 
-**	tāṃs tu devāḥ prapaśyanti svasyaivāntarapūruṣaḥ || 8.85 ||**
+**	तांस् तु देवाः प्रपश्यन्ति स्वस्यैवान्तरपूरुषः ॥ ८।८५ ॥**
 
-**na**śabdo vyavahitaḥ | **pāpakṛtaḥ** kūṭādikāriṇa evaṃ jānate | **na kaścid** asmān **paśyatīti** | **iti**kāreṇa manyater vākyārthaḥ karmeti pratipādyate | **na** **naḥ** **kaścit paśyatīty** eṣa vākyārthaḥ | **tāṃs tu devā** vakṣyamāṇāḥ **paśyanti** | svasyāntarātmā | tad uktam "ātmāiva hy ātmanaḥ sākṣī" (MDh 8.84) iti | 
+**न**शब्दो व्यवहितः । **पापकृतः** कूटादिकारिण एवं जानते । **न कश्चिद्** अस्मान् **पश्यतीति** । **इति**कारेण मन्यतेर् वाक्यार्थः कर्मेति प्रतिपाद्यते । **न** **नः** **कश्चित् पश्यतीत्य्** एष वाक्यार्थः । **तांस् तु देवा** वक्ष्यमाणाः **पश्यन्ति** । स्वस्यान्तरात्मा । तद् उक्तम् "आत्माइव ह्य् आत्मनः साक्षी" (म्ध् ८।८४) इति । 
 
-	<span style="text-decoration:underline;">nanu</span> kaḥ punar ayaṃ pāpacārī, tasya ca ko 'nyo draṣṭā | yāvatātmaiva kartā śubhāśubhānāṃ cāntarapuruṣo draṣṭeti | 
+	<span style="text-decoration:underline;">ननु</span> कः पुनर् अयं पापचारी, तस्य च को ऽन्यो द्रष्टा । यावतात्मैव कर्ता शुभाशुभानां चान्तरपुरुषो द्रष्टेति । 
 
-	<span style="text-decoration:underline;">satyam</span> | tasyaiva devatātvam adhyāropya bhedena karmakartṛvyapadeśo 'nṛtanivṛttyarthaḥ | devatārūpaṃ tvaṃ jānīṣe[^303] | tāttvikam ātmīyam āntaraṃ rūpaṃ śārīram, tathā bāhyam anātmīyam asāram, etadupabhogārthaṃ mā duṣkṛtaṃ kārṣīr iti protsāhyate | ato "māvamaṃsthāḥ svam ātmānam" māvajñāsīr "nṛṇāṃ sākṣiṇam anuttamam" (MDh 8.84) | anyo hi sākṣī asminn eva loke, ayaṃ tu mṛtasyāpi sākṣyaṃ dadāti | tasmād etasmād bhetavyam | asatyavādī[^304] kadācin manyate: "ātmāntaraṃ pratipannasya kim eṣa me draṣṭāpi kariṣyati" iti | tan na | "gatir ātmā tathātmanaḥ"[^305] (MDh 8.84) | ātmānam antareṇānyā gatir nāsti | na hi dvāv ātmānāv ekasya bhavataḥ | 
+	<span style="text-decoration:underline;">सत्यम्</span> । तस्यैव देवतात्वम् अध्यारोप्य भेदेन कर्मकर्तृव्यपदेशो ऽनृतनिवृत्त्यर्थः । देवतारूपं त्वं जानीषे[^३०३] । तात्त्विकम् आत्मीयम् आन्तरं रूपं शारीरम्, तथा बाह्यम् अनात्मीयम् असारम्, एतदुपभोगार्थं मा दुष्कृतं कार्षीर् इति प्रोत्साह्यते । अतो "मावमंस्थाः स्वम् आत्मानम्" मावज्ञासीर् "नृणां साक्षिणम् अनुत्तमम्" (म्ध् ८।८४) । अन्यो हि साक्षी अस्मिन्न् एव लोके, अयं तु मृतस्यापि साक्ष्यं ददाति । तस्माद् एतस्माद् भेतव्यम् । असत्यवादी[^३०४] कदाचिन् मन्यते: "आत्मान्तरं प्रतिपन्नस्य किम् एष मे द्रष्टापि करिष्यति" इति । तन् न । "गतिर् आत्मा तथात्मनः"[^३०५] (म्ध् ८।८४) । आत्मानम् अन्तरेणान्या गतिर् नास्ति । न हि द्वाव् आत्मानाव् एकस्य भवतः । 
 
-	<span style="text-decoration:underline;">anye</span> tu manyante paramātmā sākṣī saṃsāryātmāno niyojyā iti bhedaḥ || 8.85 ||
+	<span style="text-decoration:underline;">अन्ये</span> तु मन्यन्ते परमात्मा साक्षी संसार्यात्मानो नियोज्या इति भेदः ॥ ८।८५ ॥
 
-_ke punas te devā rahasy api pracchannaṃ pāpam ācarantaṃ ye paśyanti, ata āha |_
+_के पुनस् ते देवा रहस्य् अपि प्रच्छन्नं पापम् आचरन्तं ये पश्यन्ति, अत आह ।_
 
-	**dyaur bhūmir āpo hṛdayaṃ candrārkāgniyamānilāḥ |**
+	**द्यौर् भूमिर् आपो हृदयं चन्द्रार्काग्नियमानिलाः ।**
 
-**	rātriḥ saṃdhye ca dharmaś ca vṛttajñāḥ sarvadehinām || 8.86 ||**
+**	रात्रिः संध्ये च धर्मश् च वृत्तज्ञाः सर्वदेहिनाम् ॥ ८।८६ ॥**
 
-**hṛdaya**śabdena hṛdayāyatano liṅgapuruṣa ucyate | divādīnāṃ[^306] draṣṭṛtvam acetaneṣu caitanyam āropyate[^307] | darśanāntare tu mahābhūtāni devatātmatayā cetanāny eva | tathā ca[^308] pṛthivī bhārāvataraṇāya brahmāṇam upāgamad iti varṇyate | sarvagatatvāt teṣāṃ na kiṃcid apratyayam astīti sarvaśarīriṇāṃ vṛttaṃ śīlaṃ cātmanaḥ kāyagataṃ śubham aśubhaṃ ca jānate || 8.86 ||
+**हृदय**शब्देन हृदयायतनो लिङ्गपुरुष उच्यते । दिवादीनां[^३०६] द्रष्टृत्वम् अचेतनेषु चैतन्यम् आरोप्यते[^३०७] । दर्शनान्तरे तु महाभूतानि देवतात्मतया चेतनान्य् एव । तथा च[^३०८] पृथिवी भारावतरणाय ब्रह्माणम् उपागमद् इति वर्ण्यते । सर्वगतत्वात् तेषां न किंचिद् अप्रत्ययम् अस्तीति सर्वशरीरिणां वृत्तं शीलं चात्मनः कायगतं शुभम् अशुभं च जानते ॥ ८।८६ ॥
 
-	**devabrāhmaṇasāṃnidhye sākṣyaṃ pṛcched ṛtaṃ dvijān |**
+	**देवब्राह्मणसांनिध्ये साक्ष्यं पृच्छेद् ऋतं द्विजान् ।**
 
-**	udaṅmukhān prāṅmukhān vā pūrvāhṇe vai śuciḥ śucīn || 8.87 ||**
+**	उदङ्मुखान् प्राङ्मुखान् वा पूर्वाह्णे वै शुचिः शुचीन् ॥ ८।८७ ॥**
 
-**devā** durgāmārtaṇḍādayaḥ pratimākalpitāḥ | **śucīn** kṛtasnānācamanādividhīn | **śuciḥ** praṣṭā svayam api tathāvidha eva syāt | **ṛtam** iti ślokapūraṇārtham eva | prasiddham anyat || 8.87 ||
+**देवा** दुर्गामार्तण्डादयः प्रतिमाकल्पिताः । **शुचीन्** कृतस्नानाचमनादिविधीन् । **शुचिः** प्रष्टा स्वयम् अपि तथाविध एव स्यात् । **ऋतम्** इति श्लोकपूरणार्थम् एव । प्रसिद्धम् अन्यत् ॥ ८।८७ ॥
 
-	**brūhīti brāhmaṇaṃ pṛcchet satyaṃ brūhīti pārthivam |**
+	**ब्रूहीति ब्राह्मणं पृच्छेत् सत्यं ब्रूहीति पार्थिवम् ।**
 
-**	gobījakāñcanair vaiśyaṃ śūdram ebhis**[^309]** tu pātakaiḥ || 8.88 ||**
+**	गोबीजकाञ्चनैर् वैश्यं शूद्रम् एभिस्**[^३०९]** तु पातकैः ॥ ८।८८ ॥**
 
-<span style="text-decoration:underline;">kva punar</span> iyaṃ tṛtīyā **gobījakāñcanair** iti | yadi tāvat **pṛcched** iti kriyāsaṃbandhāt karaṇam ucyate, tad anupapannam | śabdo hi tatra karaṇam, nārthaḥ | 
+<span style="text-decoration:underline;">क्व पुनर्</span> इयं तृतीया **गोबीजकाञ्चनैर्** इति । यदि तावत् **पृच्छेद्** इति क्रियासंबन्धात् करणम् उच्यते, तद् अनुपपन्नम् । शब्दो हि तत्र करणम्, नार्थः । 
 
-	<span style="text-decoration:underline;">naiṣa doṣaḥ</span> | yathā gavādīni praśnakaraṇatvaṃ pratipadyante tathā vyākhyeyam | **pātakair** ity ubhayaśeṣo vijñeyaḥ: **gobījakāñcanaiḥ** **pātakair** iti | tenāyam artho bhavati | gobījakāñcanaviṣayaiḥ pātakapradarśanaiḥ pṛcched iti | "gāṃ hṛtvā hatvā vā yat pātakaṃ tad bhavati tava mithyā vadataḥ" iti praśnavākyaṃ paṭhitavyam | evaṃ vakṣyamāṇaiḥ pātakaiḥ śūdraṃ pṛcchet | pātakaśabdas tu pātakapradarśanārtheṣv[^310] abhidhāneṣu draṣṭavyo mukhyānāṃ praśnakaraṇatvābhāvād ity uktam || 8.88 ||
+	<span style="text-decoration:underline;">नैष दोषः</span> । यथा गवादीनि प्रश्नकरणत्वं प्रतिपद्यन्ते तथा व्याख्येयम् । **पातकैर्** इत्य् उभयशेषो विज्ञेयः: **गोबीजकाञ्चनैः** **पातकैर्** इति । तेनायम् अर्थो भवति । गोबीजकाञ्चनविषयैः पातकप्रदर्शनैः पृच्छेद् इति । "गां हृत्वा हत्वा वा यत् पातकं तद् भवति तव मिथ्या वदतः" इति प्रश्नवाक्यं पठितव्यम् । एवं वक्ष्यमाणैः पातकैः शूद्रं पृच्छेत् । पातकशब्दस् तु पातकप्रदर्शनार्थेष्व्[^३१०] अभिधानेषु द्रष्टव्यो मुख्यानां प्रश्नकरणत्वाभावाद् इत्य् उक्तम् ॥ ८।८८ ॥
 
-	**brahmaghno ye smṛtā lokā ye ca strībālaghātinaḥ |**
+	**ब्रह्मघ्नो ये स्मृता लोका ये च स्त्रीबालघातिनः ।**
 
-**	mitradruhaḥ kṛthaghnasya te te syur bruvato mṛṣā || 8.89 ||**
+**	मित्रद्रुहः कृथघ्नस्य ते ते स्युर् ब्रुवतो मृषा ॥ ८।८९ ॥**
 
-brāhmaṇaṃ hatvā ye lokā narakādilakṣaṇāḥ prāpyante tatkāribhis **te** tava bhavanti mithyāvadatas tasmāt satyaṃ brūhīty anuyogaḥ | yaś ca mitraṃ druhyati brāhmaṇādīn dārasarvasvāpaharaṇādinā[^311] nāśayati — yaś ca kṛtam upakāraṃ vismṛtya tam evopakartāram apakaroti — yat tasya **kṛtaghnasya**[^312] paratra duḥkhaṃ tad avāpnoti || 8.89 ||
+ब्राह्मणं हत्वा ये लोका नरकादिलक्षणाः प्राप्यन्ते तत्कारिभिस् **ते** तव भवन्ति मिथ्यावदतस् तस्मात् सत्यं ब्रूहीत्य् अनुयोगः । यश् च मित्रं द्रुह्यति ब्राह्मणादीन् दारसर्वस्वापहरणादिना[^३११] नाशयति — यश् च कृतम् उपकारं विस्मृत्य तम् एवोपकर्तारम् अपकरोति — यत् तस्य **कृतघ्नस्य**[^३१२] परत्र दुःखं तद् अवाप्नोति ॥ ८।८९ ॥
 
-	**janmaprabhṛti yat kiṃcit puṇyaṃ bhadra tvayā kṛtam |**
+	**जन्मप्रभृति यत् किंचित् पुण्यं भद्र त्वया कृतम् ।**
 
-**	tat te sarvaṃ śuno gacched yadi brūyās tvam anyathā || 8.90 ||**
+**	तत् ते सर्वं शुनो गच्छेद् यदि ब्रूयास् त्वम् अन्यथा ॥ ८।९० ॥**
 
-**śuno gacchen** niṣphalaṃ syād bhavata ity[^313] arthaḥ | <span style="text-decoration:underline;">anye</span> tu[^314] doṣapradarśanārthaṃ śvagamanavacanam | yathā kṛcchreṇa mahatā suvarṇādyuttamadravyam arjayitvāśucipravāhe tyajet tādṛk sukṛtaṃ bhavati | na punar anyakṛtasya sukṛtasyānyatra gamanam astīty asakṛd uktam etat || 8.90 ||
+**शुनो गच्छेन्** निष्फलं स्याद् भवत इत्य्[^३१३] अर्थः । <span style="text-decoration:underline;">अन्ये</span> तु[^३१४] दोषप्रदर्शनार्थं श्वगमनवचनम् । यथा कृच्छ्रेण महता सुवर्णाद्युत्तमद्रव्यम् अर्जयित्वाशुचिप्रवाहे त्यजेत् तादृक् सुकृतं भवति । न पुनर् अन्यकृतस्य सुकृतस्यान्यत्र गमनम् अस्तीत्य् असकृद् उक्तम् एतत् ॥ ८।९० ॥
 
-	**eko 'ham asmīty ātmānaṃ yas tvaṃ kalyāṇa manyase |**
+	**एको ऽहम् अस्मीत्य् आत्मानं यस् त्वं कल्याण मन्यसे ।**
 
-**	nityaṃ sthitas te hṛdy eṣa puṇyapāpekṣitā muniḥ || 8.91 ||**
+**	नित्यं स्थितस् ते हृद्य् एष पुण्यपापेक्षिता मुनिः ॥ ८।९१ ॥**
 
-**puṇyapāpayor īkṣitā** draṣṭā munis tūṣṇīṃbhūtaḥ || 9.91 ||
+**पुण्यपापयोर् ईक्षिता** द्रष्टा मुनिस् तूष्णींभूतः ॥ ९।९१ ॥
 
-_kaḥ punar asau muniḥ | bhayātiśayapradarśanārtham āha |_
+_कः पुनर् असौ मुनिः । भयातिशयप्रदर्शनार्थम् आह ।_
 
-	**yamo vaivasvato devo yas tavaiṣa hṛdi sthitaḥ |**
+	**यमो वैवस्वतो देवो यस् तवैष हृदि स्थितः ।**
 
-**	tena ced avivādas te mā gaṅgāṃ mā kurūn gamaḥ || 8.92 ||**
+**	तेन चेद् अविवादस् ते मा गङ्गां मा कुरून् गमः ॥ ८।९२ ॥**
 
-ya eṣa[^315] **yamaḥ** sarvaprāṇināṃ dehadhanādyucchedakārī[^316] yātanābhiś ca nigṛhṇīteti śrutipatham āgato bhavataḥ, so 'yaṃ tava hṛdaye vartate, na viprakṛṣṭaḥ | sa ca[^317] kṛtāparādham adhunaiva yamayati[^318] | mā caivaṃ manasi kṛthāḥ: eṣa ātmā madīyo mām upekṣiṣyata iti | na hy etasya kaścid ātmīyaḥ | **tena ced avivādaḥ** sa cet prasannaḥ pratyayitaḥ[^319] kiṃ **gaṅgā**gamanena snānārthinaḥ pāpaśuddhaye, kiṃ vā **kuru**kṣetragamane 'sti prayojanam | yatphalaṃ pāpapramocanalakṣaṇaṃ tataḥ prāpyate tad ihaivāvisaṃvādini paramātmani | na hi pāpakāriṇa ātmā nirviśaṅko bhavati | kiṃ me 'ntaḥ[^320] syād eteneti | nāstikasyāpi kiṃkathikā kadācit bhavaty eva | **gaṅgā**nadī pāvayantī | **kuru**kṣetraṃ tu deśa eva pāvanaḥ || 8.92 ||
+य एष[^३१५] **यमः** सर्वप्राणिनां देहधनाद्युच्छेदकारी[^३१६] यातनाभिश् च निगृह्णीतेति श्रुतिपथम् आगतो भवतः, सो ऽयं तव हृदये वर्तते, न विप्रकृष्टः । स च[^३१७] कृतापराधम् अधुनैव यमयति[^३१८] । मा चैवं मनसि कृथाः: एष आत्मा मदीयो माम् उपेक्षिष्यत इति । न ह्य् एतस्य कश्चिद् आत्मीयः । **तेन चेद् अविवादः** स चेत् प्रसन्नः प्रत्ययितः[^३१९] किं **गङ्गा**गमनेन स्नानार्थिनः पापशुद्धये, किं वा **कुरु**क्षेत्रगमने ऽस्ति प्रयोजनम् । यत्फलं पापप्रमोचनलक्षणं ततः प्राप्यते तद् इहैवाविसंवादिनि परमात्मनि । न हि पापकारिण आत्मा निर्विशङ्को भवति । किं मे ऽन्तः[^३२०] स्याद् एतेनेति । नास्तिकस्यापि किंकथिका कदाचित् भवत्य् एव । **गङ्गा**नदी पावयन्ती । **कुरु**क्षेत्रं तु देश एव पावनः ॥ ८।९२ ॥
 
-	**nagno muṇḍaḥ kapālī ca bhikṣārthī kṣutpipāsitaḥ |**
+	**नग्नो मुण्डः कपाली च भिक्षार्थी क्षुत्पिपासितः ।**
 
-**	andhaḥ śatrukulaṃ gacched yaḥ sākṣyam anṛtaṃ vadet || 8.93 ||**
+**	अन्धः शत्रुकुलं गच्छेद् यः साक्ष्यम् अनृतं वदेत् ॥ ८।९३ ॥**
 
-kapālaṃ śarāvādipātraikadeśaḥ subodham || 8.93 ||
+कपालं शरावादिपात्रैकदेशः सुबोधम् ॥ ८।९३ ॥
 
-	**avākśirās tamasy andhe kilbiṣī narakaṃ vrajet |**
+	**अवाक्शिरास् तमस्य् अन्धे किल्बिषी नरकं व्रजेत् ।**
 
-**	yaḥ praśnaṃ vitathaṃ brūyāt pṛṣṭaḥ san dharmaniścaye || 8.94 ||**
+**	यः प्रश्नं वितथं ब्रूयात् पृष्टः सन् धर्मनिश्चये ॥ ८।९४ ॥**
 
-nimittaṃ pṛṣṭo yo **vitatham** asatyaṃ vakti sa tena **kilbiṣena** pāpena gṛhīta ūrdhvapādo 'dhomukho mahati gāḍhe **tamasi narakaṃ** yātanāsthānaṃ tatprāpnotīty arthaḥ | anyasmiṃs **tamasi** kiṃcid dṛśyate tatra tu na kiṃcid evety **andh**agrahaṇam || 8.94 ||
+निमित्तं पृष्टो यो **वितथम्** असत्यं वक्ति स तेन **किल्बिषेन** पापेन गृहीत ऊर्ध्वपादो ऽधोमुखो महति गाढे **तमसि नरकं** यातनास्थानं तत्प्राप्नोतीत्य् अर्थः । अन्यस्मिंस् **तमसि** किंचिद् दृश्यते तत्र तु न किंचिद् एवेत्य् **अन्ध्**अग्रहणम् ॥ ८।९४ ॥
 
-	**andho matsyān ivāśnāti sa naraḥ kaṇṭakaiḥ saha |**
+	**अन्धो मत्स्यान् इवाश्नाति स नरः कण्टकैः सह ।**
 
-**	yo bhāṣate 'rthavaikalyam apratyakṣaṃ sabhāṃ gataḥ || 8.95 ||**
+**	यो भाषते ऽर्थवैकल्यम् अप्रत्यक्षं सभां गतः ॥ ८।९५ ॥**
 
-**arthavaikalyaṃ** satyād apetaṃ **bhāṣate** | yathā kaṇṭakā aśitā[^321] bhakṣitā janayanti na tādṛśīṃ matsyāḥ prītiṃ janayanti | yadā dhanalobhena kācit prītimātrā bhavati tathāpi mahāduḥkhaṃ[^322] bhavatīti sakaṇṭakamatyāśanopamā || 8.95 ||
+**अर्थवैकल्यं** सत्याद् अपेतं **भाषते** । यथा कण्टका अशिता[^३२१] भक्षिता जनयन्ति न तादृशीं मत्स्याः प्रीतिं जनयन्ति । यदा धनलोभेन काचित् प्रीतिमात्रा भवति तथापि महादुःखं[^३२२] भवतीति सकण्टकमत्याशनोपमा ॥ ८।९५ ॥
 
-	**yasya vidvān hi vadataḥ kṣetrajño nātiśaṅkate |**
+	**यस्य विद्वान् हि वदतः क्षेत्रज्ञो नातिशङ्कते ।**
 
-**	tasmin na devāḥ śreyāṃsaṃ loke 'nyaṃ puruṣaṃ viduḥ || 8.96 ||**
+**	तस्मिन् न देवाः श्रेयांसं लोके ऽन्यं पुरुषं विदुः ॥ ८।९६ ॥**
 
-**yasya vadataḥ** sākṣiṇo **vidvān** satyānṛte jānānaḥ **kṣetrajño** 'ntaryāmī puruṣo **nātiśaṅkate** kim ayaṃ satyaṃ vakṣyaty anṛtaṃ vety evaṃ nāśaṅkate, niścitam evaiṣa satyaṃ vaktīti yasyātmā nirviśaṅkaḥ tasmāt puruṣān **nānyaṃ** **śreyāṃsaṃ** śreṣṭhaṃ praśastatamaṃ **puruṣaṃ devā** jānate | 
+**यस्य वदतः** साक्षिणो **विद्वान्** सत्यानृते जानानः **क्षेत्रज्ञो** ऽन्तर्यामी पुरुषो **नातिशङ्कते** किम् अयं सत्यं वक्ष्यत्य् अनृतं वेत्य् एवं नाशङ्कते, निश्चितम् एवैष सत्यं वक्तीति यस्यात्मा निर्विशङ्कः तस्मात् पुरुषान् **नान्यं** **श्रेयांसं** श्रेष्ठं प्रशस्ततमं **पुरुषं देवा** जानते । 
 
-	<span style="text-decoration:underline;">kaḥ punar</span> ayaṃ veditā | kaś ca tato 'nya āśaṅkitā | eka eva hy ātmā svaprayatnadvāreṇa vācam īrayan veditā saṃpadyate | sa eva taddharmeṇa kiṃ kathaṃ syād ity evaṃrūpeṇāśaṅkākhyānena yujyate | tatra bhedānupapattiḥ | 
+	<span style="text-decoration:underline;">कः पुनर्</span> अयं वेदिता । कश् च ततो ऽन्य आशङ्किता । एक एव ह्य् आत्मा स्वप्रयत्नद्वारेण वाचम् ईरयन् वेदिता संपद्यते । स एव तद्धर्मेण किं कथं स्याद् इत्य् एवंरूपेणाशङ्काख्यानेन युज्यते । तत्र भेदानुपपत्तिः । 
 
-	<span style="text-decoration:underline;">satyam</span> etat | kālpanikena bhedenaivam uktam | yathā hanty ātmānam ātmaneti || 8.96 ||
+	<span style="text-decoration:underline;">सत्यम्</span> एतत् । काल्पनिकेन भेदेनैवम् उक्तम् । यथा हन्त्य् आत्मानम् आत्मनेति ॥ ८।९६ ॥
 
-	**yāvato bāndhavān yasmin hanti sākṣye 'nṛtaṃ vadan |**
+	**यावतो बान्धवान् यस्मिन् हन्ति साक्ष्ये ऽनृतं वदन् ।**
 
-**	tāvataḥ saṃkhyayā tasmin śṛṇu saumyānupūrvaśaḥ || 8.97 ||**
+**	तावतः संख्यया तस्मिन् शृणु सौम्यानुपूर्वशः ॥ ८।९७ ॥**
 
-dravyaviśeṣānṛtāśrayāḥ pāpaviśeṣāḥ kūṭasākṣiṇa ity etat pradarśanārthaṃ prakaraṇam ārabhyate | tatrāyaṃ ślokaḥ saṃbodhanadvāreṇopadiśyamāna[^323] ādarārthaḥ saṃpadyate | yad guhyaṃ mitha upadiśyate tad yathākathaṃcid bhavatīty avadhāritaṃ grahaṇaṃ nātiguru idaṃ tv atimahāprayojanam avahitaiḥ śrotavyam iti |
+द्रव्यविशेषानृताश्रयाः पापविशेषाः कूटसाक्षिण इत्य् एतत् प्रदर्शनार्थं प्रकरणम् आरभ्यते । तत्रायं श्लोकः संबोधनद्वारेणोपदिश्यमान[^३२३] आदरार्थः संपद्यते । यद् गुह्यं मिथ उपदिश्यते तद् यथाकथंचिद् भवतीत्य् अवधारितं ग्रहणं नातिगुरु इदं त्व् अतिमहाप्रयोजनम् अवहितैः श्रोतव्यम् इति ।
 
-	**saumyeti** caikavacanam anekaśiṣyasaṃnidhāne bhṛgāv eva vivakṣitam | **yasmin sākṣya** iti vyadhikaraṇasaptamī | **yasmin** dravyabhedabhinne vyavahāre yat sākṣyaṃ tatra tannimittaṃ yad anṛtam ity eṣā viṣayasaptamī | aparā "yasya ca bhāvena" (Pāṇ 2.3.37) iti | atha vā dravyabhedāt sākṣyabhedaḥ, tatra samānādhikaraṇa eva | **tāvata** iti parimāṇe vyutpādyate | tatra yat prabhūtanimittam api parimāṇaṃ saṃbhāvyate, śiśūn striyo vṛddhān[^324] ity ato[^325] viśinaṣṭi: **saṃkhyayeti** | **anupūrvaśa** iti sukhapratipattaye 'nupūrveṇa hy abhidhīyamānaṃ sukhena pratīyate | ānupūrvī ca saṃkhyāgatātrābhipretā | tasyā eva vakṣyamāṇatvāt "pañca paśu" ityādi" || 8.97 ||
+	**सौम्येति** चैकवचनम् अनेकशिष्यसंनिधाने भृगाव् एव विवक्षितम् । **यस्मिन् साक्ष्य** इति व्यधिकरणसप्तमी । **यस्मिन्** द्रव्यभेदभिन्ने व्यवहारे यत् साक्ष्यं तत्र तन्निमित्तं यद् अनृतम् इत्य् एषा विषयसप्तमी । अपरा "यस्य च भावेन" (पाण् २।३।३७) इति । अथ वा द्रव्यभेदात् साक्ष्यभेदः, तत्र समानाधिकरण एव । **तावत** इति परिमाणे व्युत्पाद्यते । तत्र यत् प्रभूतनिमित्तम् अपि परिमाणं संभाव्यते, शिशून् स्त्रियो वृद्धान्[^३२४] इत्य् अतो[^३२५] विशिनष्टि: **संख्ययेति** । **अनुपूर्वश** इति सुखप्रतिपत्तये ऽनुपूर्वेण ह्य् अभिधीयमानं सुखेन प्रतीयते । आनुपूर्वी च संख्यागतात्राभिप्रेता । तस्या एव वक्ष्यमाणत्वात् "पञ्च पशु" इत्यादि" ॥ ८।९७ ॥
 
-	**pañca paśvanṛte hanti daśa hanti gavānṛte |**
+	**पञ्च पश्वनृते हन्ति दश हन्ति गवानृते ।**
 
-**	śatam aśvānrte hanti sahasraṃ puruṣānṛte || 8.98 ||**
+**	शतम् अश्वान्र्ते हन्ति सहस्रं पुरुषानृते ॥ ८।९८ ॥**
 
-**paśu**nimittam anṛtam | śākapārthivavat samāsaḥ (Pat I: 406) | **pañca**bāndhavāṃś cānṛtaṃ **hanti** | tataś ca teṣāṃ narakapātanam | mātāpitarau jāyāmithunaṃ cāpatyam iti pañca | 
+**पशु**निमित्तम् अनृतम् । शाकपार्थिववत् समासः (पत् इ: ४०६) । **पञ्च**बान्धवांश् चानृतं **हन्ति** । ततश् च तेषां नरकपातनम् । मातापितरौ जायामिथुनं चापत्यम् इति पञ्च । 
 
-	<span style="text-decoration:underline;">kathaṃ</span> punar anyakṛtenainasānyasya phalam | 
+	<span style="text-decoration:underline;">कथं</span> पुनर् अन्यकृतेनैनसान्यस्य फलम् । 
 
-	<span style="text-decoration:underline;">anyakṛtena</span> puṇyapāpādinānyasya svarganarakādiprāptiḥ[^326] saṃsargād iti brūmaḥ | tair ayaṃ parityajyata ity uktaṃ bhavati | atha vā tair hatair yat pāpaṃ tad asya bhavatīty aghnann api **hantīty** ucyate, adṛṣṭakāryatulyatvāt | 
+	<span style="text-decoration:underline;">अन्यकृतेन</span> पुण्यपापादिनान्यस्य स्वर्गनरकादिप्राप्तिः[^३२६] संसर्गाद् इति ब्रूमः । तैर् अयं परित्यज्यत इत्य् उक्तं भवति । अथ वा तैर् हतैर् यत् पापं तद् अस्य भवतीत्य् अघ्नन्न् अपि **हन्तीत्य्** उच्यते, अदृष्टकार्यतुल्यत्वात् । 
 
-	arthavādaś cāyaṃ na tatkāryopadeśaḥ | tatkāryopadeśe hi hiṃsāprāyaścittī syāt | kauṭasākṣyaprāyaścittam etad bhavati | uttarottarasaṃkhyādivṛddhiḥ prāyaścittagauravārthā na punar vivakṣitaiva | tenottarottarasya garīyaḥ prāyaścittam ity uktaṃ bhavati | 
+	अर्थवादश् चायं न तत्कार्योपदेशः । तत्कार्योपदेशे हि हिंसाप्रायश्चित्ती स्यात् । कौटसाक्ष्यप्रायश्चित्तम् एतद् भवति । उत्तरोत्तरसंख्यादिवृद्धिः प्रायश्चित्तगौरवार्था न पुनर् विवक्षितैव । तेनोत्तरोत्तरस्य गरीयः प्रायश्चित्तम् इत्य् उक्तं भवति । 
 
-	ayaṃ puruṣaḥ kasya dāsa ity evaṃ saṃśaye yad anṛtaṃ tat **puruṣānṛtam** ucyate || 8.98 ||
+	अयं पुरुषः कस्य दास इत्य् एवं संशये यद् अनृतं तत् **पुरुषानृतम्** उच्यते ॥ ८।९८ ॥
 
-	**hanti jātān ajātāṃś ca hiraṇyārthe 'nṛtaṃ vadan |**
+	**हन्ति जातान् अजातांश् च हिरण्यार्थे ऽनृतं वदन् ।**
 
-**	sarvaṃ bhūmyanṛte hanti mā sma bhūmyanṛtaṃ vadīḥ**[^327]** || 8.99 ||**
+**	सर्वं भूम्यनृते हन्ति मा स्म भूम्यनृतं वदीः**[^३२७]** ॥ ८।९९ ॥**
 
-<span style="text-decoration:underline;">kathaṃ</span> punar ajātānām asati saṃsarge parakīyena saṃyogo yenedam ucyate **hanti jātān ajātāṃś ceti** | 
+<span style="text-decoration:underline;">कथं</span> पुनर् अजातानाम् असति संसर्गे परकीयेन संयोगो येनेदम् उच्यते **हन्ति जातान् अजातांश् चेति** । 
 
-	<span style="text-decoration:underline;">uktam</span>, arthavādo 'yam iti | **sarvaṃ bhūmyanṛtaṃ** vadan[^328] | **mā vādīḥ** bhūmisaṃbandhy asatyam | "smottare laṅ ca" (Pāṇ 3.3.176) iti[^329] | mā vādīr ityādarārtham apy etat[^330] pratyakṣaṃ saṃbodhanam | 
+	<span style="text-decoration:underline;">उक्तम्</span>, अर्थवादो ऽयम् इति । **सर्वं भूम्यनृतं** वदन्[^३२८] । **मा वादीः** भूमिसंबन्ध्य् असत्यम् । "स्मोत्तरे लङ् च" (पाण् ३।३।१७६) इति[^३२९] । मा वादीर् इत्यादरार्थम् अप्य् एतत्[^३३०] प्रत्यक्षं संबोधनम् । 
 
-	<span style="text-decoration:underline;">kā punar</span> iyaṃ bhūmir nāma |
+	<span style="text-decoration:underline;">का पुनर्</span> इयं भूमिर् नाम ।
 
-	<span style="text-decoration:underline;">yad etat</span> pṛthivīgolakaṃ parvatāvaṣṭaṃbhanaṃ sāgarāvadhi prasiddham | 
+	<span style="text-decoration:underline;">यद् एतत्</span> पृथिवीगोलकं पर्वतावष्टंभनं सागरावधि प्रसिद्धम् । 
 
-	<span style="text-decoration:underline;">nanv</span>[^331] iyatyāḥ kaḥ svāmī, ko vāpahartā | na hi sārvabhaumaḥ kaścid asti | tathā ca gāthā bhūmeḥ: "na mā martyaḥ kaścana dātum arhati" (ŚB 13.7.1.15) | na kaścit sārvabhaumo 'stīty abhiprāyaḥ | "viśvakarman bhauvana māṃ didāsitha"[^332] viśvakarman[^333] bhaumaneti pitṛvyapadeśena svanāmnā ca rājño āmantraṇaṃ[^334] śrutam | mām asau dātum[^335] icchatīti | upamaiṃṣyati[^336] salilasya madhye nimajje 'ham, salilasya madhyam | evaṃ saṃkalpaṃ vṛthā saṃkalpitavati tvayi salile majjāmi | salilamajjanena naiṣphalyam atra dānasaṃkalpasyāha | yathā salile nikṣiptaṃ niṣphalam evam etad apīti | mṛṣaiṣa kaśyapāya saṃgaraḥ | tavaiṣa saṃgaraḥ pratiśravaḥ pratijñānaṃ kaśyapāya dadāmīti mogho vadhyo 'stu, sarvasādāraṇāhaṃ sarvajanopabhogyā | kevalaṃ rājāno rakṣānirbandhamātrabhāja ity abhiprāyaḥ | ata etāvatyā bhūmer na dānāpahārasaṃbhava iti kuto vivādaḥ | 
+	<span style="text-decoration:underline;">नन्व्</span>[^३३१] इयत्याः कः स्वामी, को वापहर्ता । न हि सार्वभौमः कश्चिद् अस्ति । तथा च गाथा भूमेः: "न मा मर्त्यः कश्चन दातुम् अर्हति" (श्ब् १३।७।१।१५) । न कश्चित् सार्वभौमो ऽस्तीत्य् अभिप्रायः । "विश्वकर्मन् भौवन मां दिदासिथ"[^३३२] विश्वकर्मन्[^३३३] भौमनेति पितृव्यपदेशेन स्वनाम्ना च राज्ञो आमन्त्रणं[^३३४] श्रुतम् । माम् असौ दातुम्[^३३५] इच्छतीति । उपमैंष्यति[^३३६] सलिलस्य मध्ये निमज्जे ऽहम्, सलिलस्य मध्यम् । एवं संकल्पं वृथा संकल्पितवति त्वयि सलिले मज्जामि । सलिलमज्जनेन नैष्फल्यम् अत्र दानसंकल्पस्याह । यथा सलिले निक्षिप्तं निष्फलम् एवम् एतद् अपीति । मृषैष कश्यपाय संगरः । तवैष संगरः प्रतिश्रवः प्रतिज्ञानं कश्यपाय ददामीति मोघो वध्यो ऽस्तु, सर्वसादारणाहं सर्वजनोपभोग्या । केवलं राजानो रक्षानिर्बन्धमात्रभाज इत्य् अभिप्रायः । अत एतावत्या भूमेर् न दानापहारसंभव इति कुतो विवादः । 
 
-	<span style="text-decoration:underline;">satyam</span> | yathaivāyaṃ bhūmiśabdo 'tra vartate evaṃ kṣetragrāmasthaṇḍilādāv api | tatra ca saṃbhavaty eva svāmyam | pratyakṣasyaiva dānāpahārāv iti na kiṃcid anupapannam | apahāraś cāsyā yādṛśena rūpeṇa apahāraḥ gṛhāder na vīrudvichedaḥ | ataś ca yaḥ parakīye kṣetre cakramyeta mṛdo vā kaścid ādadyān nāsau bhūmyapahārī syāt | mīmāṃsakair uktam "na bhūmiḥ syāt sarvān pratyaviśiṣṭatvāt" (PMS 6.7.3) iti |
+	<span style="text-decoration:underline;">सत्यम्</span> । यथैवायं भूमिशब्दो ऽत्र वर्तते एवं क्षेत्रग्रामस्थण्डिलादाव् अपि । तत्र च संभवत्य् एव स्वाम्यम् । प्रत्यक्षस्यैव दानापहाराव् इति न किंचिद् अनुपपन्नम् । अपहारश् चास्या यादृशेन रूपेण अपहारः गृहादेर् न वीरुद्विछेदः । अतश् च यः परकीये क्षेत्रे चक्रम्येत मृदो वा कश्चिद् आदद्यान् नासौ भूम्यपहारी स्यात् । मीमांसकैर् उक्तम् "न भूमिः स्यात् सर्वान् प्रत्यविशिष्टत्वात्" (प्म्स् ६।७।३) इति ।
 
-	ekadeśavacanaṃ ca bhūmiśabdam adhikṛtya bhagavān kṛṣṇadvaipāyano dānadharmeṣu paṭhitavān:
+	एकदेशवचनं च भूमिशब्दम् अधिकृत्य भगवान् कृष्णद्वैपायनो दानधर्मेषु पठितवान्:
 
-	parair apy anumantavyo dānadharmo nṛpair bhuvi |
+	परैर् अप्य् अनुमन्तव्यो दानधर्मो नृपैर् भुवि ।
 
-	akṣayo hi nidhir brāhmo vihito 'yaṃ mahībhṛtām || iti |
+	अक्षयो हि निधिर् ब्राह्मो विहितो ऽयं महीभृताम् ॥ इति ।
 
-kṛtsnagolakābhiprāyam eva nādeyatvaṃ bhūmer viśvajiti mīmāṃsakar uktam: "na bhūmiḥ syāt sarvān pratyaviśiṣṭatvāt" (PMS 6.7.3) iti | sarvān puruṣān praticaṃkramanādiyogyatayāviśiṣṭā bhūmiḥ svāmīkartum aśakyā kathaṃ dīyata ity arthaḥ | asmiṃs tu pakṣe grāmanagarādi viśvajiti dātavyam | 
+कृत्स्नगोलकाभिप्रायम् एव नादेयत्वं भूमेर् विश्वजिति मीमांसकर् उक्तम्: "न भूमिः स्यात् सर्वान् प्रत्यविशिष्टत्वात्" (प्म्स् ६।७।३) इति । सर्वान् पुरुषान् प्रतिचंक्रमनादियोग्यतयाविशिष्टा भूमिः स्वामीकर्तुम् अशक्या कथं दीयत इत्य् अर्थः । अस्मिंस् तु पक्षे ग्रामनगरादि विश्वजिति दातव्यम् । 
 
-	<span style="text-decoration:underline;">anye tu</span> paṭhanti "antareṇa sadaḥ patnīśālaṃ ca dakṣiṇā nayanti" iti bhūmau guṇavidher asyāsaṃbhavāt kṣetrāder apy atra dānam |
+	<span style="text-decoration:underline;">अन्ये तु</span> पठन्ति "अन्तरेण सदः पत्नीशालं च दक्षिणा नयन्ति" इति भूमौ गुणविधेर् अस्यासंभवात् क्षेत्रादेर् अप्य् अत्र दानम् ।
 
-	**vadann** iti caikavacananirdeśāt "śṛṇu saumya" (MDh 8.97) iti sākṣiviṣayam evaitat saṃbodhanam, na śiṣyaviṣayam | "śūdram ebhis tu pātakaiḥ" (MDh 8.88) ity ata ārabhya, yāvanto madhamapuruṣanirdeśās (MDh 8.92) te sarveṣāṃ pātakabhūyastvasamānākhyātarūpādyekavākyatvāc chūdrānuyogārthāḥ | "andhaḥ śatrugṛhaṃ gacchet" (MDh 8.93) ity ata ārabhya, sarve sākṣiviṣayā anuyogāḥ | ākhyātavairūpyena prakaraṇasya vicchedāt, madhyamapuruṣe samānārthakramatvāt, kartavyo gacched iti prathamapuruṣanirdeśaḥ pūrvādhikāranivṛttyarthaḥ || 8.99 ||
+	**वदन्न्** इति चैकवचननिर्देशात् "शृणु सौम्य" (म्ध् ८।९७) इति साक्षिविषयम् एवैतत् संबोधनम्, न शिष्यविषयम् । "शूद्रम् एभिस् तु पातकैः" (म्ध् ८।८८) इत्य् अत आरभ्य, यावन्तो मधमपुरुषनिर्देशास् (म्ध् ८।९२) ते सर्वेषां पातकभूयस्त्वसमानाख्यातरूपाद्येकवाक्यत्वाच् छूद्रानुयोगार्थाः । "अन्धः शत्रुगृहं गच्छेत्" (म्ध् ८।९३) इत्य् अत आरभ्य, सर्वे साक्षिविषया अनुयोगाः । आख्यातवैरूप्येन प्रकरणस्य विच्छेदात्, मध्यमपुरुषे समानार्थक्रमत्वात्, कर्तव्यो गच्छेद् इति प्रथमपुरुषनिर्देशः पूर्वाधिकारनिवृत्त्यर्थः ॥ ८।९९ ॥
 
-	**apsu bhūmivad ity āhuḥ strīṇāṃ bhoge ca maithune |**
+	**अप्सु भूमिवद् इत्य् आहुः स्त्रीणां भोगे च मैथुने ।**
 
-**	abjeṣu caiva ratneṣu sarveṣv aśmamayeṣu ca || 8.100 ||**
+**	अब्जेषु चैव रत्नेषु सर्वेष्व् अश्ममयेषु च ॥ ८।१०० ॥**
 
-kūpataḍāgādisthe mahati jale svalpe vā[^337] **bhūmivad** doṣaḥ | **strīṇāṃ bhoge ca maithunā**khye: keneyaṃ strī bhuktā maithunadharmeṇeti | **abjeṣu ratneṣu** manayo ratnāni muktādyāḥ | **aśmamayeṣu** vaiḍūryādiṣu | **ratneṣv** iti saṃbadhyate | dvividhāny eva ratnāni jalajāny aśmamayāni ca | ato ratnagrahaṇa eva kartavye viśeṣaṇadvayopādānaṃ ślokapūraṇārtham | adbhyo jātāny **abjāni** | aśmano vikārā **aśmamayāni** || 8.100 ||
+कूपतडागादिस्थे महति जले स्वल्पे वा[^३३७] **भूमिवद्** दोषः । **स्त्रीणां भोगे च मैथुना**ख्ये: केनेयं स्त्री भुक्ता मैथुनधर्मेणेति । **अब्जेषु रत्नेषु** मनयो रत्नानि मुक्ताद्याः । **अश्ममयेषु** वैडूर्यादिषु । **रत्नेष्व्** इति संबध्यते । द्विविधान्य् एव रत्नानि जलजान्य् अश्ममयानि च । अतो रत्नग्रहण एव कर्तव्ये विशेषणद्वयोपादानं श्लोकपूरणार्थम् । अद्भ्यो जातान्य् **अब्जानि** । अश्मनो विकारा **अश्ममयानि** ॥ ८।१०० ॥
 
 
 <!-- Footnotes themselves at the bottom. -->
