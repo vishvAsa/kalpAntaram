@@ -31,6 +31,6 @@ Patrick Olivelle
 * 	Pūrvapakṣa and Uttarapakṣa: <span style="text-decoration:underline;">underlined</span>
 
 
-    * 	There are no hyphens used, unless absolutely necessary for an overly long compound. Lack of hyphens will help with word searches.
+* 	There are no hyphens used, unless absolutely necessary for an overly long compound. Lack of hyphens will help with word searches.
 
 *	The transcription is based on the edition of the Aparāka in the Ānandāśrama Sanskrit Series, No. 46. Poona: 1903.
