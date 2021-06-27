@@ -2726,4 +2726,3 @@ pūrvaṃ hi vyavahitasya **pāñcayajñikam** iti mahāyajñavidher upasaṃhā
 **tṛtīyo 'dhyāyḥ samāptaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

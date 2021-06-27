@@ -2226,4 +2226,3 @@ sarvasyāsya phalakathanam etat | **anena vipro vartayan** vartamāno **vedaśā
 **manubhāṣye caturtho 'dhyāyaḥ || 4 ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

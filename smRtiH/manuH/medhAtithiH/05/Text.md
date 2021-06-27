@@ -1852,4 +1852,3 @@ upasaṃhāraślokaḥ | **pañcayajña**grahaṇaṃ ca sarvaprasiddhyartham it
 **manubhāṣye pañcamo 'dhyāyaḥ samāptaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

@@ -2354,4 +2354,3 @@ tat tryavayavaṃ darśayati | **ādyāni** mukhyānīty arthaḥ | "anyāni" br
 **manubhāṣye ekādaśo 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

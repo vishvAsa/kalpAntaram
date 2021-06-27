@@ -1740,4 +1740,3 @@ tasmād gṛhānte **kakṣāntaraṃ gatvā** taṃ ca rahasyākhyāyinaṃ vis
 **manubhāṣye saptamo 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

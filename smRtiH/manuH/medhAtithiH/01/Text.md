@@ -1029,4 +1029,3 @@ avadhānārthaḥ pratibodhaḥ || 1.119 ||
 
 
 
-<!-- Footnotes themselves at the bottom. -->

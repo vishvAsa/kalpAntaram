@@ -1131,4 +1131,3 @@ evam evāha | **praśāsitāraṃ** niyantāram | **sarveṣāṃ** brāhmaṇā
 **manubhāṣye dvādaśo 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

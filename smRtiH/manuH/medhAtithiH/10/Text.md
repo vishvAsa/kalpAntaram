@@ -995,4 +995,3 @@ pāṭhād eva siddharto 'yam iti || 10.131 ||
 **manubhāṣye daśamo 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

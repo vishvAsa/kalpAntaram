@@ -2460,4 +2460,3 @@ spaṣṭam uktaṃ prayojaṃ ca || 9.336 ||
 **manubhāṣye navamo 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->

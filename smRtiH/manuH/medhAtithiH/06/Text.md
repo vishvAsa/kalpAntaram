@@ -859,4 +859,3 @@ pūrvasya vidheḥ phalakathanam | adhyayanāt phalaśrutir anuṣṭhānaśruty
 **manubhāṣye ṣaṣṭho 'dhyāyaḥ ||**
 
 
-<!-- Footnotes themselves at the bottom. -->
