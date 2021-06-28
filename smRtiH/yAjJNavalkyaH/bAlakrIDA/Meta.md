@@ -2,11 +2,11 @@
 title = "Meta"
 
 +++
-**Searchable Electronic Edition of the _Bālakrīḍā_ of Viśvarūpa on the _Yājñavalkya-dharmaśāstra_**, transcribed, edited, formatted, and color-coded by Patrick Olivelle, is licensed under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+**Searchable Electronic Edition of the _Bālakrīḍā_ of Viśvarūpa on the _Yājñavalkya-dharmaśāstra_**, transcribed, edited, formatted, and color-coded by Patrick Olivelle, is licensed under a [Creative Commons Attribution 4.0 International License](https-//creativecommons.org/licenses/by-sa/4.0/).
 
-_Last updated: 19 June 2020 _
+_Last updated- 19 June 2020 _
 
-Patrick Olivelle ([jpo@austin.utexas.edu](mailto:jpo@austin.utexas.edu))
+Patrick Olivelle ([jpo@austin.utexas.edu](mailto-jpo@austin.utexas.edu))
 
 University of Texas at Austin
 
@@ -32,20 +32,20 @@ Transcribed, Edited, Formatted, and Color-Coded by
 
  
 
-Based on the edition:
+Based on the edition-
 
  
 
-Ganapati Sastri, T. _The Yājñavalkyasmṛti with the Commentary Bālakrīda of Visvarūpāchārya._ Two Parts. Trivandrum: Government Press, 1922–1924. Reprint. New Delhi: Munshiram Manoharlal, 1982.
+Ganapati Sastri, T. _The Yājñavalkyasmṛti with the Commentary Bālakrīda of Visvarūpāchārya._ Two Parts. Trivandrum- Government Press, 1922–1924. Reprint. New Delhi- Munshiram Manoharlal, 1982.
 
 ## Formatting and Editorial Notes
 
 
 
-*   YDh _mūla_ (root-text): **BOLD**
-*   Names of authors and texts: RED
-*   Citations from other texts: BLUE
-*   Pūrvapakṣa and Uttarapakṣa: <span style="text-decoration:underline;">underlined</span>
+*   YDh _mūla_ (root-text)- **BOLD**
+*   Names of authors and texts- RED
+*   Citations from other texts- BLUE
+*   Pūrvapakṣa and Uttarapakṣa- <span style="text-decoration-underline;">underlined</span>
 *   Introductory comments that precede the _mūla _verses are given in _italics_.
 
 ## Abbreviations Used
