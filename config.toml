@@ -1,6 +1,6 @@
 baseURL = "https://vishvAsa.github.io/kalpAntaram/"
 languageCode = "en-us"
-title = "संस्कारे विश्वासटिप्पन्यः"
+title = "कल्पान्तरे विश्वासटिप्पन्यः"
 theme = "sanskrit-documentation-theme-hugo"
 publishDir = "build_github"
 disablePathToLower = true
