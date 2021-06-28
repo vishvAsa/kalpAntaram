@@ -32,15 +32,9 @@ Jha appears to have used Mandlik's and the first edition of Gharpure, and Jha al
 However, as Jha in his "Editor's Apologia" notes, the state of Medhātithi manuscripts is deplorable. All the manuscripts available — all from northern India — are based on the _jīrṇoddhāra _undertaken by king Madana in the 14th century. A verse added at the end of some chapters show how this _jīrṇoddhāra _was done:
 
 
-> mānyā kāpi manusmṛtis taducitā vyākhyāpi medhātitheḥ 
-
-
-> sā luptaiva vidher vaśāt kvacid api prāpyaṃ na tat pustakam |
-
-
-> kṣoṇīndro madanaḥ sahāraṇasuto deśāntarād āhṛtair 
-
-
+> mānyā kāpi manusmṛtis taducitā vyākhyāpi medhātitheḥ   
+> sā luptaiva vidher vaśāt kvacid api prāpyaṃ na tat pustakam |  
+> kṣoṇīndro madanaḥ sahāraṇasuto deśāntarād āhṛtair   
 > jīrṇoddhāram acīkarat tata itas tatpustakair lekhitaiḥ ||
 
 Jha gives the gist of the verse: "(1) The Smriti of Manu is a revered work; (2) The commentary on it by Medhātithi is right and proper; (3) Through fate, it has become lost; (4) Its manuscript is nowhere to be found; (5) King Madana has got the _Jīrṇoddhāra _of it done with the help of manuscripts collected from another place." So, what Madana did was to restore the text with the use of manuscripts brought from other places. This "restored text" is the basis for ALL the manuscripts we have, all from north India. It is plausible to assume that Madana did not have a complete manuscript of the _Bhāṣya, _and that his collators brought together incomplete and defective manuscripts in order to produce the new "edition". Jha thinks that the "restoration" was done carelessly or by incompetent people. He agrees with Bühler's assessment: 
