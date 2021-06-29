@@ -16,6 +16,13 @@ Besides being inter-generational vehicles of culture, they form an effective pat
 - हिन्दुसंस्काराणाम् हिन्दुषु विशिष्टः बलम्।
   - यथा पादपः स्व-पूर्वज-परिचिते भूमौ दृढतरानि मूलानि प्रसारयति, तथैव नराः स्व व्यक्तित्व-पोषणाय धर्मादि-साधनाय च स्व-संस्कृत्याम् कुशलतराः। पर-संस्कृत्याम् हिताहित-भेदः असुलभः।
 
+### Cashing the check partially
+> Certain communities with a very rigorous intellectual culture maintained through centuries of praxis can "cash their cheque" to attain great heights in secular professions. Classic e.g. is of course the Jews of Eastern Europe, and possibly some brahmin castes in India. But now the question arises - once you cash your cheque, what next? 
+>
+> You can cash your cheque just once. Once you break with the tradition, cash your cheque and attain great wealth, that's it. You marry out. Your communal identity dies. And the intellectual culture also dies. Your biological successors will regress to the mean in a few generations. 
+>
+> The trick is to partake in the benefits of modernity, but at the same time maintain the intellectual culture which granted you the enormous advantages in the first place. That requires you to cash your check in part, but not wholly. That takes some self-denial. - SK on MT's thoughts.
+
 ### अन्यदृष्टान्ताः
 - अनुष्ठानैर् वर्धते शरीरमन्दिरे स्थितस्य सद्भावाना-स्रोतसः परमात्मनो शक्तिः।
 - यथा मल्लो शरीरं संस्करोति प्रत्यहम्, तथा चित्तस्य संस्कार आवश्यकः।
