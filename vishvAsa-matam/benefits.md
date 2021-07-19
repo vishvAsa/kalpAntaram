@@ -8,6 +8,10 @@ The US army flag-hoisting ceremony and the Japanese tea ceremony are examples of
 
 Even child development experts state: "Creating your own special rituals now, and faithfully repeating them throughout your child's life, will provide your child with a sense of security, stability, belonging, connectedness, and pride in his family." \[[BC](http://www.babycenter.com/0_family-rituals-why-they-matter-and-how-to-start-your-own_374.bc?scid=mbtw_toddler_post13m_3w&pe=MlVGbWE0aXwyMDE2MTEwOC00NQ..)\]
 
+
+A personal note: I enjoy chanting (especially bits of the vEda-s I know), doing Asanas, various niyta and naimittika karmas. Repeating well crafted mantra-s, until a pinnacle of mood, memory and understanding is reached, is a favorite 'meditation'. Thence I enjoy benefits such as courage, steadfastness in the dharma, joy etc.
+
+
 ## आत्मसंस्कारः
 Besides being inter-generational vehicles of culture, they form an effective path to self-cultivation (refinement of [buddhi](http://en.wikipedia.org/wiki/Buddhi), manas, ahaMkAra) when performed correctly with proper sentiment (esp: bhakti) and understanding.
 
