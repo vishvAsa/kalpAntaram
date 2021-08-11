@@ -3,7 +3,6 @@ title: अग्निरक्षा
 unicode_script: devanagari
 ---
 
-
 ## प्रदर्शनानि
 - आपस्तम्बिषु हरीशार्यो [ऽत्र](https://www.youtube.com/watch?v=pkRYT-iTi2c&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=7&t=0s)।
 - आश्वलायनेषु सायिकिरणो [अत्र](https://www.youtube.com/watch?v=Lkv8rZBOhtE&list=PL63uIhJxWbgj98sDeWHQJmrKvBcirnf_9&index=10)।
@@ -20,9 +19,9 @@ unicode_script: devanagari
 - अङ्गारान् निष्कास्य पात्रान्तरे स्थाप्यित्वा
 - भस्म निष्कास्य द्रोण्याः
 - गोमयखण्डं / गोमयेष्टिकां वा स्थापयित्वा ("My muttan is flat, as I found this consumes lesser bran to cover it.")
-- तुषान् पूरयित्वा
+- बुषम् पूरयित्वा
     - "Pack the bran densely by pressing with the brass ladle.. the denser you pack, the longer the rakshanam. ... I use about 150 gms of bran and a small muttan, per kala. 10kg bran lasts for over a month."
-- अग्निरक्षणस्थान एव होमे क्रियमाणे
+- अग्नि-रक्षण-स्थान एव होमे क्रियमाणे
     - तदुपरि पात्रान्तरे पूर्वं स्थापितान् अङ्गारान् प्रतिष्ठाप्य
     - तदुपरि गोमखण्डानि समिच्च स्थापयित्वा
     - धमन्या ऽऽग्निं पुनर् ज्वालयित्वा,
@@ -32,9 +31,11 @@ unicode_script: devanagari
     - अन्ते ऽङ्गाराणां रक्षणकुण्डे प्रतिष्ठापनम्
 - ततः भस्मारोपणम्। "After completing the aupasanam, I cover the entire agni with the bhasma kept aside. This regulates the airflow, as well as keeps the bran hot for many hours enabling it to fuse well (and form a "bun")."
 
-### विशेषाः
+## द्रव्यम्
+- द्रव्यनामान्य् [अत्र](/kalpAntaram/vishvAsa-matam/kriyAH/angAni/dravyam/) ।
 - बहूनाम् - (गोमयखण्डम् → गोधुमतुषाः) इति क्रमः।
-    - किञ्च वेङ्कटेशार्यः - "I tried initially with rice bran.  It did not work for me... Umi (paddy hust burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
+  - किञ्च वेङ्कटेशार्यः - "I tried initially with rice bran.  It did not work for me..."
+  - स एव - "Umi (paddy husk) burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
 - बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
 
 ### आकराः
