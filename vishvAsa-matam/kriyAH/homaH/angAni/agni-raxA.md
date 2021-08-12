@@ -36,7 +36,7 @@ unicode_script: devanagari
 - बहूनाम् - (गोमयखण्डम् → गोधुमतुषाः) इति क्रमः।
   - किञ्च वेङ्कटेशार्यः - "I tried initially with rice bran.  It did not work for me..."
   - स एव - "Umi (paddy husk) burns too fast and gives out lot of smoke. Also one needs huge quantities. Not suitable for cities."
-- बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA husk
+- बॆङ्गळूरुनगरे चन्द्रः - Gou Jwala Bricks (made out of Cow dung + Paddy husk) + Wheat/ ravA bran
 
 ### आकराः
 - सुवर्णकारैः प्रयुज्यमाना मृद्द्रोणी प्रशस्यते। साधारणमृद्द्रोणयः शीघ्रमेव (६ मासेषु) नश्यन्ति। "I use a pot which is fired at high temperature, used by gold smiths. It will lay a long time, many years unlike the flower pot, and is much lighter."
