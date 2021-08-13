@@ -63,6 +63,7 @@ The below is copied from other sources - does not necessarily reflect a particul
 
 ### Atma-samAropaNam
 - Lot of restrictions, generally not done for aupasana agni.
+- अत्मनि समारूढेष्वग्निषु न खादेन्न पिबेन्नोपरि शय्यायां शयीत नाऽप्सु निमज्यान्न मैथुनं व्रजेत्। कामं खादेत् कामं पिबेत् कामं त्वेवोपरि शय्यायां शयीत् पालाशीमाश्वत्थीं खादिरीमौदुम्बरीं वा। तेषामेतेन प्रसिद्धं समारोपणम्।
 
 ### vivAha-type
 - Best case: ensure you have a 4 day wedding, with pravesha homa, agneya sthAlipakam followed by 3 days vratam, followed by sesha homam, and completing the first round of purnamasa - darsha sthAlipakams without break in mukhya kaalam (prathama) which will ensure agni siddhi.
