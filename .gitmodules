@@ -5,3 +5,7 @@
 	path = content
 	url = https://github.com/vishvAsa/kalpAntaram.git
 	branch = content
+[submodule "static"]
+	path = static
+	url = https://github.com/vishvAsa/kalpAntaram.git
+	branch = static_files
