@@ -5,11 +5,6 @@ unicode_script = "devanagari"
 +++
 [Only a limited number of verses of this chapter are given in the DK, as noted]
 
-
-## Text
-
-
-
 **अथ एकादशमो ऽध्यायः**
 
 > **सान्तानिकं यक्ष्यमाणम् अध्वगं सार्ववेदसम् ।**  
@@ -3623,8 +3618,5 @@ _अत्र वदन्ति_ ।
 **इति भट्टवीरस्वामिसूनोर् भट्टमेधातिथिकृतौ**
 
 **मनुभाष्ये एकादशो ऽध्यायः ॥**
-
-
-
 
 ## Notes

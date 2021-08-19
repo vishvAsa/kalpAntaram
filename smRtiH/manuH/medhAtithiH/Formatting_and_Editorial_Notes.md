@@ -3,8 +3,6 @@ title = "Formatting and Editorial Notes"
 
 +++
 
-
-
 *   MDh _mūla_ (root-text): **BOLD**
 *   _mūla _text cited in commentary: **BOLD**
 *   Names of authors and texts: RED
