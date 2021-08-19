@@ -769,227 +769,227 @@ _एष एवार्थो दृष्टान्तेन दृढीक�
 
 ## Notes
 
-[^1]:
+[^१]:
      M G 1st ed.: kanyāyāṃ putrasyāpi
 
-[^2]:
+[^२]:
      G 1st ed.: ca
 
-[^3]:
+[^३]:
      M G omit: na
 
-[^4]:
+[^४]:
      M G: bahiḥ kapāṭakaṃ
 
-[^5]:
+[^५]:
      M G: nirvṛttir
 
-[^6]:
+[^६]:
      This is the reading in all editions. It may be a mistake for caṃkramet.
 
-[^7]:
+[^७]:
      M G: evāvakāśāśrayaḥ
 
-[^8]:
+[^८]:
      M G: saṃtapya vaneṣv ādyaiḥ
 
-[^9]:
+[^९]:
      M G 1st ed.: pitṛlokavāso; G 2nd ed.: pitṛlokavāso kāmo
 
-[^10]:
+[^१०]:
      M G: -otpattīs
 
-[^11]:
+[^११]:
      M G 1st ed.: na
 
-[^12]:
+[^१२]:
      M G 1st ed. omit: yaḥ
 
-[^13]:
+[^१३]:
      M G: ye
 
-[^14]:
+[^१४]:
      M G 1st ed.: nāvaśyā
 
-[^15]:
+[^१५]:
      M G 1st ed.: tatra
 
-[^16]:
+[^१६]:
      M G 1st ed. omit: upahṛteṣu
 
-[^17]:
+[^१७]:
      M G 1st ed.: 'saṃkusuko
 
-[^18]:
+[^१८]:
      M G: gṛhā-
 
-[^19]:
+[^१९]:
      M G: mūlaphalamulodakādibhir
 
-[^20]:
+[^२०]:
      M G: -kleśāṃs tu
 
-[^21]:
+[^२१]:
      M G: śatrusaṃgrahagamanādibhiḥ
 
-[^22]:
+[^२२]:
      M G: -vaikalya-
 
-[^23]:
+[^२३]:
      M G: -ādir
 
-[^24]:
+[^२४]:
      M G 1st ed. omit: na
 
-[^25]:
+[^२५]:
      M G: pūrvaślokārtho 'nuvādaḥ
 
-[^26]:
+[^२६]:
      M G 1st ed.: uddhriyeta
 
-[^27]:
+[^२७]:
      M G: evedam
 
-[^28]:
+[^२८]:
      M G: upaghāte
 
-[^29]:
+[^२९]:
      M G 1st ed.: naivaṃparavānyaḥ
 
-[^30]:
+[^३०]:
      M G: anapāvṛtādiguṇaviśiṣṭaṃ
 
-[^31]:
+[^३१]:
      M G omit: sa
 
-[^32]:
+[^३२]:
      M G 1st ed.: vidhyarthasaṃpannena; G 2nd ed: vidhyarthasaṃpatter anyat
 
-[^33]:
+[^३३]:
      M G: sarvaviṣayatvālābhād
 
-[^34]:
+[^३४]:
      M G: auṣadhena
 
-[^35]:
+[^३५]:
      M G 1st ed.: jalaukobhūmisūtakān
 
-[^36]:
+[^३६]:
      M G 1st ed.: nānyad
 
-[^37]:
+[^३७]:
      M G 1st ed.: tata upari atha vā
 
-[^38]:
+[^३८]:
      M G: spṛhayāluḥ
 
-[^39]:
+[^३९]:
      M G 1st ed.: avekṣyam
 
-[^40]:
+[^४०]:
      M G 1st ed.: tṛptatā
 
-[^41]:
+[^४१]:
      M G 1st ed.: śarīreṇa
 
-[^42]:
+[^४२]:
      M G 1st ed.: na pratyuktam
 
-[^43]:
+[^४३]:
      M G 1st ed.: kṛcchra-
 
-[^44]:
+[^४४]:
      M G: tyaktasaṅgāñ
 
-[^45]:
+[^४५]:
      M G 1st ed.: annakriyārthaṃ daleṣu parituṣṭaḥ
 
-[^46]:
+[^४६]:
      Reading chandogyoktam is conjectura; it is omitted by J, and M G read: chandogyokta
 
-[^47]:
+[^४७]:
      M G 1st ed.: vidhāya karma
 
-[^48]:
+[^४८]:
      M G: adhidaiva-
 
-[^49]:
+[^४९]:
      M G 1st ed. add: ahaṃ bhavam
 
-[^50]:
+[^५०]:
      M G 1st ed.: śāstrād avagatātmatatvānavagatātmatatvā; G 2nd ed.: śāstrād anavagatātmatatvā
 
-[^51]:
+[^५१]:
      M G 1st ed.: prekṣaṇīyarāgādidoṣajñā ātma-; G 2nd ed.: prekṣaṇīyarāgādidoṣāṃ jñānātma-
 
-[^52]:
+[^५२]:
      M G: -japādikakarmāṇi
 
-[^53]:
+[^५३]:
      M G 1st ed.: yato
 
-[^54]:
+[^५४]:
      M G 1st ed. omit: ayam
 
-[^55]:
+[^५५]:
      G 2nd ed. omit: ayam abhisaṃbandhaḥ
 
-[^56]:
+[^५६]:
      M G 1st ed.: caitān
 
-[^57]:
+[^५७]:
      M G: vividhāne
 
-[^58]:
+[^५८]:
      M G: yaḥ for na ca
 
-[^59]:
+[^५९]:
      M G: carameṣṭī
 
-[^60]:
+[^६०]:
      M G 1st ed.: pratyakṣataiva
 
-[^61]:
+[^६१]:
      M G 1st ed.: nāśramāntarāṇām
 
-[^62]:
+[^६२]:
      M G: gārhasthyavedamūlam
 
-[^63]:
+[^६३]:
      M G 1st ed.: ivopadeśyam
 
-[^64]:
+[^६४]:
      M G 1st ed.: svāhākāraḥ; G 2nd ed.: svāhākāra-
 
-[^65]:
+[^६५]:
      M G 1st ed.: strīmātra-
 
-[^66]:
+[^६६]:
      M G: santu
 
-[^67]:
+[^६७]:
      M G 1st ed.: adhikṛtaṃ
 
-[^68]:
+[^६८]:
      M G 1st ed.: vivāhaprayuktiṃ vinā
 
-[^69]:
+[^६९]:
      M G 1st ed.: api veda-
 
-[^70]:
+[^७०]:
      J omits: vai
 
-[^71]:
+[^७१]:
      M G 1st ed. add: ādhāne
 
-[^72]:
+[^७२]:
      M G 1st ed.: yauvane vā yā kanyā sarvataram idānīṃ yācate
 
-[^73]:
+[^७३]:
      M G: liṅgabhede
 
-[^74]:
+[^७४]:
      M G 1st ed.: paunaruktatayā
 
-[^75]:
+[^७५]:
      M G omit: tadā naivaṃ syāt

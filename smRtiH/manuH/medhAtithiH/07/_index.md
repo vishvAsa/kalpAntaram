@@ -1507,1034 +1507,1034 @@ _कथम् इत्य् अपेक्षायाम् आह ।_
 
 ## Notes
 
-[^1]:
+[^१]:
      M G: tatkṛtaḥ
 
-[^2]:
+[^२]:
      M G: svādhyāyavidhi-
 
-[^3]:
+[^३]:
      DK (4: 810) suggests: nirmitaḥ niṣkṛṣya utpāditaḥ yataḥ niṣkṛṣyotpādane
 
-[^4]:
+[^४]:
      M G J: brāhmaṇajātyutkṛṣṭā
 
-[^5]:
+[^५]:
      DK: mātrāśrayatvāt
 
-[^6]:
+[^६]:
      M G: prāyo
 
-[^7]:
+[^७]:
      M G: antiko
 
-[^8]:
+[^८]:
      M G: durupasarpinaraḥ
 
-[^9]:
+[^९]:
      DK (4: 812): śrīparyāyo
 
-[^10]:
+[^१०]:
      M G 1st ed.: vindati
 
-[^11]:
+[^११]:
      M G 1st ed.: hy apekṣyamāṇaḥ; G 2nd ed.: ity upepkṣyamānaḥ
 
-[^12]:
+[^१२]:
      M G: krameṇāpi
 
-[^13]:
+[^१३]:
      J: rājā
 
-[^14]:
+[^१४]:
      M G: svatantravirodhāpatteḥ
 
-[^15]:
+[^१५]:
      DK (4: 813) gives the reading of Rājanītiprakāśa: yaṃ dharmaṃ yāṃ vyavasthāṃ
 
-[^16]:
+[^१६]:
      DK (4: 813) gives the reading of Rājanītiprakāśa: sthāpayet tāṃ na
 
-[^17]:
+[^१७]:
      DK (4: 813) gives the reading of Rājanītiprakāśa: saunikair
 
-[^18]:
+[^१८]:
      DK (4: 813) gives the reading of Rājanītiprakāśa:  narṇikā dhanikair uparodhanīyāḥ
 
-[^19]:
+[^१९]:
      DK (4: 813) gives the reading of Rājanītiprakāśa: spṛhādoṣādinā
 
-[^20]:
+[^२०]:
      M G J: yāgadānādi-
 
-[^21]:
+[^२१]:
      M G: -grahaṇa-
 
-[^22]:
+[^२२]:
      M G 1st ed.: anubandham anujñātrāparijñāyety
 
-[^23]:
+[^२३]:
      DK (4: 684) suggests: śāsyaṃ
 
-[^24]:
+[^२४]:
      M G J: śūlyākriyante
 
-[^25]:
+[^२५]:
      M G: nīpo
 
-[^26]:
+[^२६]:
      M G: vidyāśaktatayoś
 
-[^27]:
+[^२७]:
      M G J place after krodhanaḥ the sentence: samatvena daṇḍapātanena śatrau mitre ca **vardhate** |
 
-[^28]:
+[^२८]:
      DK (4: 690): -anuraktaḥ
 
-[^29]:
+[^२९]:
      M G: nyāyapravṛttiḥ; J: nyāyapravṛttaḥ (I follow DK 4: 390)
 
-[^30]:
+[^३०]:
      M G J: vṛttanyāyaḥ
 
-[^31]:
+[^३१]:
      M G: tatkārye pradhānaṃ
 
-[^32]:
+[^३२]:
      M G omit: samānābhyudayapratyavāyāḥ suhṛdaḥ snigdhāḥ
 
-[^33]:
+[^३३]:
      DK (4: 809) suggests: svadharmaniṣṭhānāṃ
 
-[^34]:
+[^३४]:
      M G: svadharmāpannāḥ
 
-[^35]:
+[^३५]:
      M G 1st ed.: eṣām akaraṇān nu; G 2nd ed.: eṣākaraṇān nu; DK (4: 809): deyam
 
-[^36]:
+[^३६]:
      M G: vijñāyante
 
-[^37]:
+[^३७]:
      M G: -apakaraṇeṣu
 
-[^38]:
+[^३८]:
      DK (4: 873) suggests adding: saha
 
-[^39]:
+[^३९]:
      M G J: -āviśeyus (I follow the emendation suggestd by DK 4: 874)
 
-[^40]:
+[^४०]:
      M G J: dvitīyaślokārthārthavādaḥ (I follow the emendation suggestd by DK 4: 874)
 
-[^41]:
+[^४१]:
      M G DK (4: 876): vidyāṃ; but the commentary appears read vidyāt and to give vidyām as a pāṭha.
 
-[^42]:
+[^४२]:
      M G: sadyopadeśāt
 
-[^43]:
+[^४३]:
      M G: tv upayujyate; DK: hy apayujyate (perhaps a typo)
 
-[^44]:
+[^४४]:
      DK: -kāryāya
 
-[^45]:
+[^४५]:
      M G: -vāditrāṇām
 
-[^46]:
+[^४६]:
      DK (4: 1572): amātyādayo
 
-[^47]:
+[^४७]:
      M G J: kāmasya; I follow DK 4: 1573.
 
-[^48]:
+[^४८]:
      DK: abhiṣaṅgaṃ
 
-[^49]:
+[^४९]:
      M G J: avajñāyeta; I follow DK 4: 1575.
 
-[^50]:
+[^५०]:
      M G: lakṣaḥ paricayaḥ
 
-[^51]:
+[^५१]:
      DK (4: 1575): haret, and suggests emending to sarvahare; see sarvaharaḥ in the next sentence.
 
-[^52]:
+[^५२]:
      M G DK: vyasana-
 
-[^53]:
+[^५३]:
      M G: āśaṅkya
 
-[^54]:
+[^५४]:
      DK (4: 1576) suggests: ago
 
-[^55]:
+[^५५]:
      M G J DK (4: 1250): cāṣṭau, but the commentary reads vā.
 
-[^56]:
+[^५६]:
      M G: prakurvīta parīkṣitān
 
-[^57]:
+[^५७]:
      M G: bhṛtyavidhijñānaṃ
 
-[^58]:
+[^५८]:
      KAŚ (1.9.1) and Bhāruci read: pragalbhaḥ, which is probably the original reading.
 
-[^59]:
+[^५९]:
      M G 1st ed.: udghāṭakaḥ; G 2nd ed.: udghaṭanaṃ
 
-[^60]:
+[^६०]:
      M G: sarvaṃ
 
-[^61]:
+[^६१]:
      M G: avikṣiptaḥ
 
-[^62]:
+[^६२]:
      M G: parivrājikāntaḥpure
 
-[^63]:
+[^६३]:
      M G: pramādam
 
-[^64]:
+[^६४]:
      M G: -pramādaḥ
 
-[^65]:
+[^६५]:
      M G J: arthapramādakartṛsaṃnidhātṝn; I follow the conjecture of DK (4: 1250) representing the KAŚ vocabulary and the reading in MDh 7.60.
 
-[^66]:
+[^६६]:
      DK (4: 1251) suggests reading: rājamahiṣīviṣayā rājaviṣayā ca
 
-[^67]:
+[^६७]:
      M G J: cārayati; I follow DK (4:1251)
 
-[^68]:
+[^६८]:
      M G add: kathaṃ mevatu
 
-[^69]:
+[^६९]:
      M G: phalavāṃś cānapekṣamāṇasya
 
-[^70]:
+[^७०]:
      M G 1st ed.: mahaty alam upodeti; G 2nd ed.: mahat phalam upodeti
 
-[^71]:
+[^७१]:
      DK (4: 1772) notes that this commentary is quite corrupt. See Bhāruci's commentary on this verse, which is followed by Medhātithi.
 
-[^72]:
+[^७२]:
      M G: cintyapratikarma
 
-[^73]:
+[^७३]:
      M G add: ca
 
-[^74]:
+[^७४]:
      M G J: yāni nyāyasthānāni
 
-[^75]:
+[^७५]:
      M G J DK: ātmasaṃdhāraṇaṃ parasaṃdhāraṇena (I follow Bhāruci)
 
-[^76]:
+[^७६]:
      Bhāruci reads here: svārakṣyaḥ
 
-[^77]:
+[^७७]:
      M G J DK: paśavaḥ
 
-[^78]:
+[^७८]:
      Bhāruci reads: śatrudveśi (ī?) sītāprāyaḥ
 
-[^79]:
+[^७९]:
      M G J DK: guptigocaraḥ
 
-[^80]:
+[^८०]:
      M G J DK: daṇḍakaragraha (I follow Bhāruci)
 
-[^81]:
+[^८१]:
      M G: tasmād
 
-[^82]:
+[^८२]:
      M G: vāṇijyam uktadaṇḍa
 
-[^83]:
+[^८३]:
      M G: devatāsamaṃ vidyāvatāṃ
 
-[^84]:
+[^८४]:
      M G: avitānāṃ; J DK: uditānāṃ
 
-[^85]:
+[^८५]:
      M G J DK -daṇḍopādhikam; see Bhāruci and KAŚ 13.5.14 for the reading adopted.
 
-[^86]:
+[^८६]:
      M G: apratyatīkaṃ
 
-[^87]:
+[^८७]:
      M G omit: tena
 
-[^88]:
+[^८८]:
      M G: avyayahetāv; DK (4: 1252) bhayasaṃnidhāv avasāda-
 
-[^89]:
+[^८९]:
      DK: apy utsāhavantaḥ
 
-[^90]:
+[^९०]:
      M G: kāryakāle
 
-[^91]:
+[^९१]:
      M G: rājñe
 
-[^92]:
+[^९२]:
      M G: ākāra-
 
-[^93]:
+[^९३]:
      M G: śuci-
 
-[^94]:
+[^९४]:
      DK (4: 1672): amuṣitasmṛtiḥ (but see Bhāruci on this verse)
 
-[^95]:
+[^९५]:
      M G: api saṃdiṣṭaṃ
 
-[^96]:
+[^९६]:
      M G: uktadūtaguṇānāṃ
 
-[^97]:
+[^९७]:
      M G: saṃpādanāya tatprayojanam
 
-[^98]:
+[^९८]:
      M G: yathā dūtaḥ
 
-[^99]:
+[^९९]:
      M G add: na
 
-[^100]:
+[^१००]:
      The commentary here is corrupt. See DK (4: 1453) for suggestions for improvement.
 
-[^101]:
+[^१०१]:
      DK (4: 1453) suggests: parivṛtam; M G J add: dhanurdurgam; clearly this is an error. It appears that the commentary on dhanurdurga is missing.
 
-[^102]:
+[^१०२]:
      M G J: durgam; I follow the suggestion of DK.
 
-[^103]:
+[^१०३]:
      M G: vacanakaraṇādayas
 
-[^104]:
+[^१०४]:
      M G 1st ed.: -bhāvanān
 
-[^105]:
+[^१०५]:
      M G 1st ed. omit: tān
 
-[^106]:
+[^१०६]:
      M G J: arthād upadhāśuddhaiḥ (I follow DK 4.1108 suggestion)
 
-[^107]:
+[^१०७]:
      M G: karādeṣv
 
-[^108]:
+[^१०८]:
      M G: adhikṛtā-
 
-[^109]:
+[^१०९]:
      M G: vāphala-
 
-[^110]:
+[^११०]:
      M G: vakṣyamāṇam
 
-[^111]:
+[^१११]:
      M G: vyathate
 
-[^112]:
+[^११२]:
      M G add: ca
 
-[^113]:
+[^११३]:
      M G: -śravaṇasyapy
 
-[^114]:
+[^११४]:
      M G: dharma-
 
-[^115]:
+[^११५]:
      This phrase is found in one ms. in G, and it is presupposed in J's translation, although he does not give it in his edition. Omitted in DK (4: 394).
 
-[^116]:
+[^११६]:
      G takes this verse as part of Manu asigning it the number 87, while J (correctly, I think) takes it as Medhātithi's citation: see the commentary on pretya at the end. It is not found in my critical editon of the MDh. Thus from this point there is a discrepancy in the numbering in G and J. DK also seem to take the verse as Manu's and places the section (pretyeti ... until the end) BEFORE this verse.
 
-[^117]:
+[^११७]:
      M G: bhāvaḥ prasāda
 
-[^118]:
+[^११८]:
      M G J: -āhatasya
 
-[^119]:
+[^११९]:
      M G: -balenāpekṣā-
 
-[^120]:
+[^१२०]:
      M G 1st ed. add: yathā
 
-[^121]:
+[^१२१]:
      M G J: parety (I follow DK 4: 2777)
 
-[^122]:
+[^१२२]:
      M G J: svarga ucyate, taking the latter as part of that sentence. Generally, however, Medhātithi begins his answer to an objection with ucyate (so also DK 4: 2777).
 
-[^123]:
+[^१२३]:
      In M G J the passage reads: vakṣyamāṇayuddhaniyamāpekṣaḥ svargaḥ | na hi teṣāṃ niyamānām anyat prayojanam asti | "na kūṭair āyudhaiḥ" (MDh 7.90) ityādinā tyaktarājyasyāpi śaktapraṇipātena tadanujīvanasaṃbhavāt bhavet | tasmād arhas tatphalasaṃbhavaḥ | atha vā niścite parājaye nirāśasya (M G add: yad) yuddhāvataraṇam tac ca svargāyaiva | asmād eva vacanān nātmatyāganiṣedhasya viṣayo 'yam | Here I follow DK 4: 2777.
 
-[^124]:
+[^१२४]:
      M G J: tāṃś ca devāpi (I follow DK 4: 2777)
 
-[^125]:
+[^१२५]:
      M G: darśayati
 
-[^126]:
+[^१२६]:
      M G: mriyante
 
-[^127]:
+[^१२७]:
      M G places this sentence after bhṛtiparikrītasyāsvatantrasya.
 
-[^128]:
+[^१२८]:
      M G: -āsvatasya
 
-[^129]:
+[^१२९]:
      M G J: kurviti (I follow DK 4: 2777)
 
-[^130]:
+[^१३०]:
      M G: pratiṣedhāpekṣaḥ
 
-[^131]:
+[^१३१]:
      M G J: duṣkṛtasya hatas (I follow DK 4: 2780)
 
-[^132]:
+[^१३२]:
      M G: prayojakāc
 
-[^133]:
+[^१३३]:
      DK (4: 2819) gives a different reading for this sentence: tathā ca hīnāḥ dhanaṃ prāpya taddhanaṃ mamārdham iti prayuñjate |
 
-[^134]:
+[^१३४]:
      DK (4: 2819) suggests: saṃbhūyajaye
 
-[^135]:
+[^१३५]:
      DK (4: 2780): calet
 
-[^136]:
+[^१३६]:
      M G: yathāyavyayaṃ
 
-[^137]:
+[^१३७]:
      M G: evamādi-
 
-[^138]:
+[^१३८]:
      M G J: ityādi; my reading conjectural following the parallel readings in this passage.
 
-[^139]:
+[^१३९]:
      M G: manvāno
 
-[^140]:
+[^१४०]:
      M G J: bālapramādam; DK (4. 1110) sugests pāla-, and this is actually the reading of Bhārucit who is followed here by Medhātithi.
 
-[^141]:
+[^१४१]:
      M G J: yāvantas teṣām suhṛdāv (I follow DK 4: 1404)
 
-[^142]:
+[^१४२]:
      DK (4: 1404) suggests: daṇḍaih sa bāndhavaiḥ saha
 
-[^143]:
+[^१४३]:
      M G: rakṣati dhanaṃ
 
-[^144]:
+[^१४४]:
      DK (4: 1405): rakṣitṛsamūhaḥ
 
-[^145]:
+[^१४५]:
      M G DK: adhikāri-
 
-[^146]:
+[^१४६]:
      DK (4: 1406) suggests adding: yāni
 
-[^147]:
+[^१४७]:
      M G: sabalena
 
-[^148]:
+[^१४८]:
      M G: kārpaṭikādibhiḥ
 
-[^149]:
+[^१४९]:
      DK (4: 1408) suggests: bhakṣayanti
 
-[^150]:
+[^१५०]:
      DK adds: vā
 
-[^151]:
+[^१५१]:
      M G: svalpetad
 
-[^152]:
+[^१५२]:
      M F: mūlāchedo; J: mūlācchedo
 
-[^153]:
+[^१५३]:
      M G: parimāṇāniyama-
 
-[^154]:
+[^१५४]:
      J: mṛnmayānāṃ
 
-[^155]:
+[^१५५]:
      DK (4: 1339) suggests: aparuddha uddharaṇe
 
-[^156]:
+[^१५६]:
      M G omit: tat-
 
-[^157]:
+[^१५७]:
      M G: nākheditā
 
-[^158]:
+[^१५८]:
      M G: abhipretam
 
-[^159]:
+[^१५९]:
      M G: brāhmaṇāś
 
-[^160]:
+[^१६०]:
      M G: yata
 
-[^161]:
+[^१६१]:
      DK (4: 945): -vādanaḥ
 
-[^162]:
+[^१६२]:
      M G 1st ed.: mantrāñcāṅgaṃ
 
-[^163]:
+[^१६३]:
      J omits: imāny aṅgāni . . . guptamantraś ca syāt; for this passage see KAŚ 1.15.42f.
 
-[^164]:
+[^१६४]:
      M G: parivartitavārttāvinikāḥ
 
-[^165]:
+[^१६५]:
      M G: sadasadgrāhīrūpavārttādayo
 
-[^166]:
+[^१६६]:
      M G: narendravidyāś ca
 
-[^167]:
+[^१६७]:
      M G omit: itareṣāṃ grahaṇam
 
-[^168]:
+[^१६८]:
      DK (4: 1776) suggests: śukādayo 'pasārāsattve
 
-[^169]:
+[^१६९]:
      M G: anumantum
 
-[^170]:
+[^१७०]:
      M G J: sārthaṃ
 
-[^171]:
+[^१७१]:
      M G J: yenārthajātenopadiśyate tat tadā dūṣayati; DK (4: 1011) omits one yena. Here Medh is copying Bhāruci's commentary on this verse verse, which itself is based on Kauṭilya's Arthaśāśtra 1.17.31.
 
-[^172]:
+[^१७२]:
      M G J DK 4: 1777: -matiśuddhāṃ; I follow the reading of DK (4:977) based on Bhāruci.
 
-[^173]:
+[^१७३]:
      M G: devīm grahalīno; J: devīm grahalīno; DK (4:977) devīgrahalīno; I follow Bhāruci. *J and DK (4: 1777) connects devīṃ with nāpariśuddhām.
 
-[^174]:
+[^१७४]:
      M G J: bhadraseno mātuḥ śayanāntargataḥ rājānaṃ jaghāna | kupuruṣaśaṅkhaviṣadigdhena nūpureṇāvantyaṃ (M G omit: rājānaṃ jaghāna). My reading is based on DK (4:977).
 
-[^175]:
+[^१७५]:
      M G: mekhalāyāḥ
 
-[^176]:
+[^१७६]:
      M G J DK: vā parasparābhiceṣṭitaṃ; my reading is based on Bhāruci.
 
-[^177]:
+[^१७७]:
      M G: akṛtārambha-
 
-[^178]:
+[^१७८]:
      J DK (4: 1777): cānuvacane; for this and following readings, see Bhāruci.
 
-[^179]:
+[^१७९]:
      M G J DK (4: 1777): arthādhikṛtānāṃ matipravṛttinirodho
 
-[^180]:
+[^१८०]:
      M G J DK: anuvacanam
 
-[^181]:
+[^१८१]:
      M G: svakarmasaṃśaya-; Bhāruci reads: -saṃśraye
 
-[^182]:
+[^१८२]:
      M G: -gṛhapatika-
 
-[^183]:
+[^१८३]:
      M G J: paramadharmajñāḥ (this corrupt passage has been restored on the basis of KAŚ 1.11 and Bhāruci on MDh 7.154).
 
-[^184]:
+[^१८४]:
      M G: evācchātavyaṃ
 
-[^185]:
+[^१८५]:
      M G J: prabhūtahiraṇyāyāṃ dāsakarma
 
-[^186]:
+[^१८६]:
      M G J: kṛṣikarmaphalaṃ tac ca
 
-[^187]:
+[^१८७]:
      M G add: sarvapravrajitāḥ svaṃ svaṃ karmopajapeyuḥ
 
-[^188]:
+[^१८८]:
      M G: muṇḍāntevāsi-
 
-[^189]:
+[^१८९]:
      M G J place ca after duṣṭavadhaṃ
 
-[^190]:
+[^१९०]:
      M G J: tasya for tad asya
 
-[^191]:
+[^१९१]:
      M G J: vaṃśalakṣaṇavidyām (omit 'vaśyabhartavyā)
 
-[^192]:
+[^१९२]:
      M G: -vidyāsaṅgavedyāṃ; J: -vidyāṃ saṅgavidyāṃ; DK (4: 1652): -vidyāṃ saṃsargavidyāṃ (which is found in KAŚ 1.12.1; for my reading, see Bhāruci's comentary)
 
-[^193]:
+[^१९३]:
      M G J: mantriṇas
 
-[^194]:
+[^१९४]:
      M G J DK: etatpañcasaṃsthāyatair
 
-[^195]:
+[^१९५]:
      DK (4: 1652): satribhiḥ
 
-[^196]:
+[^१९६]:
      M G J: mantriṇaḥ
 
-[^197]:
+[^१९७]:
      M G J DK: saṃdhārayet (for my reading, see Bhāruci)
 
-[^198]:
+[^१९८]:
      M G J: vārisaṃcāriṇasthā
 
-[^199]:
+[^१९९]:
      M G J: ca gūḍhasaṃjñitāḥ (this verse is KAŚ 1.12.24)
 
-[^200]:
+[^२००]:
      M G J DK (4: 1777): cātmīyād; see Bhāruci
 
-[^201]:
+[^२०१]:
      M G: pravartita
 
-[^202]:
+[^२०२]:
      M G J: rājamaṇḍalapracārako māṇḍalikaḥ
 
-[^203]:
+[^२०३]:
      M G: tayo
 
-[^204]:
+[^२०४]:
      DK (4: 1853) suggests adding: iti
 
-[^205]:
+[^२०५]:
      M G: nigrahasamarthanasaṃhatayor
 
-[^206]:
+[^२०६]:
      M G J: prakṛtā (reading follows DK 4: 1854)
 
-[^207]:
+[^२०७]:
      M G J: arimitraṃ mitraṃ tu; I follow DK (4: 1855) suggestion.
 
-[^208]:
+[^२०८]:
      M G J: ariṃ bhūmyantaraṃ
 
-[^209]:
+[^२०९]:
      M G: coktau
 
-[^210]:
+[^२१०]:
      M G: ekāntatāpy ucyate
 
-[^211]:
+[^२११]:
      DK (4: 2070) suggests: upekṣaṇam
 
-[^212]:
+[^२१२]:
      DK (4: 2134) suggests: utsāhayuktāḥ
 
-[^213]:
+[^२१३]:
      M G: viṣayānantaratvam
 
-[^214]:
+[^२१४]:
      M G J: yānadvaividhyam yānasyāsatyāṃ (I follow DK 4: 2137)
 
-[^215]:
+[^२१५]:
      DK (4: 2189): ayaṃ
 
-[^216]:
+[^२१६]:
      DK (4: 2189): caitad iti
 
-[^217]:
+[^२१७]:
      M G: vyapadeśārthaṃ (the commentary gives this reading as a variant)
 
-[^218]:
+[^२१८]:
      M G J: arthapīḍānivṛttis
 
-[^219]:
+[^२१९]:
      M G: śaknoty
 
-[^220]:
+[^२२०]:
      M G: dvaidhībhāvaḥ
 
-[^221]:
+[^२२१]:
      M G omit: balīyān eva . . . iti dṛśyate
 
-[^222]:
+[^२२२]:
      DK (4: 2200) suggests asmi for api
 
-[^223]:
+[^२२३]:
      M G add: balīyān eva hi vyasane balaṃdvidhā karotīti dṛśyate
 
-[^224]:
+[^२२४]:
      DK (4: 2200) sugges -hānaṃ for -homaṃ
 
-[^225]:
+[^२२५]:
      M G: duścaritāni kīrtanam
 
-[^226]:
+[^२२६]:
      M G J: saṅghādināpi (I follow the suggestion of DK 4: 2200)
 
-[^227]:
+[^२२७]:
      M G J: yathā syāt (I follow DK 4: 2200)
 
-[^228]:
+[^२२८]:
      M G J omit: na (I follow the suggestion of DK 4: 2200)
 
-[^229]:
+[^२२९]:
      M G J: mitratvādhikyam (I follow DK 4: 2200)
 
-[^230]:
+[^२३०]:
      M G J: maṇḍalair (I follow DK 4: 2200)
 
-[^231]:
+[^२३१]:
      M G J: tato (I follow the suggestion of DK 4: 2201)
 
-[^232]:
+[^२३२]:
      M G add: vimṛśyakārīti
 
-[^233]:
+[^२३३]:
      M G place diṅmātram uktam at the beginning of the commentary on verse 180.
 
-[^234]:
+[^२३४]:
      M G J: itarair ivopāyair (I follow DK 4: 2200)
 
-[^235]:
+[^२३५]:
      DK 4: 2202 suggests deleting na.
 
-[^236]:
+[^२३६]:
      DK (4: 2571): yadā apacikīrṣati
 
-[^237]:
+[^२३७]:
      M G: vyasana-
 
-[^238]:
+[^२३८]:
      M G omit: -gatam
 
-[^239]:
+[^२३९]:
      M G: evāṣṭabhyāhūya
 
-[^240]:
+[^२४०]:
      M G: vidhivad vedaṃ
 
-[^241]:
+[^२४१]:
      M G J: yavasasenādimattā; my reading is conjectural, following the DK 4: 2572.
 
-[^242]:
+[^२४२]:
      DK (4: 1509) suggests omitting: senā (as it is, there are seven items)
 
-[^243]:
+[^२४३]:
      DK suggests: senāpatiprakṣepaṇam
 
-[^244]:
+[^२४४]:
      M G: kṛtsnaṃ
 
-[^245]:
+[^२४५]:
      M G: -sthāpita-
 
-[^246]:
+[^२४६]:
      M G omit: na kāryaḥ
 
-[^247]:
+[^२४७]:
      M G: sūcivyūhaḥ
 
-[^248]:
+[^२४८]:
      DK (4: 2663) suggests emending this to: pakṣakakṣorasyaiḥ
 
-[^249]:
+[^२४९]:
      DK (4: 2663) suggests emending this to: bhayena
 
-[^250]:
+[^२५०]:
      M G: kaṭamakaravarāhair
 
-[^251]:
+[^२५१]:
      DK (4: 2664) suggests emending this to: pūrvavyūhād
 
-[^252]:
+[^२५२]:
      M G: yavasaṃpatra-; DK (4: 2664) suggests emending yava to java, and śatru to jatru, and making a longer compound: -parasparāvaruddha-
 
-[^253]:
+[^२५३]:
      DK (4: 2664) suggests emending dhanasyā- to balasyā-
 
-[^254]:
+[^२५४]:
      M G: eva and connects with bhavati.
 
-[^255]:
+[^२५५]:
      M G omit: saṃbodhanāya
 
-[^256]:
+[^२५६]:
      M G omit: śaṅkhe
 
-[^257]:
+[^२५७]:
      M G add: tatra
 
-[^258]:
+[^२५८]:
      M G: śaraiḥ
 
-[^259]:
+[^२५९]:
      M G: nānusaraṇādau
 
-[^260]:
+[^२६०]:
      M G: pṛṣṭhadeśārthaḥ
 
-[^261]:
+[^२६१]:
      M G: triṣu 
 
-[^262]:
+[^२६२]:
      Here I follow the reading of DK (4:2665); the reading in the editions are garbled. M G: bahūn asthapater bhayapratibodhanārtham avahitebhedātari jano viśvasto; J: bahūn sthapater bhayapratibodhanārtham avahitebhedād arijano viśvasto 
 
-[^263]:
+[^२६३]:
      M G J: nāmamatrāṃ
 
-[^264]:
+[^२६४]:
      DK (4: 2665) suggests: viśeṣo yathāsaṃbhavaṃ vā
 
-[^265]:
+[^२६५]:
      I follow DK; M G J read: vyūhadurgādyam aśve
 
-[^266]:
+[^२६६]:
      M G: ye 'mī kathitāḥ; DK (4: 2666) suggests: ye 'grānīkasthitāḥ
 
-[^267]:
+[^२६७]:
      DK (4: 2666) reads: māraṇā-
 
-[^268]:
+[^२६८]:
      M G J: eva; I folow DK (4: 2667).
 
-[^269]:
+[^२६९]:
      M G: śavaceṣṭāṃ
 
-[^270]:
+[^२७०]:
      M G J make this phrase part of the commentary on verse 194.
 
-[^271]:
+[^२७१]:
      M G: -jalāśraya-
 
-[^272]:
+[^२७२]:
      M G: prākārayantrair
 
-[^273]:
+[^२७३]:
      M G J: abhimata- (see DK 4: 1934)
 
-[^274]:
+[^२७४]:
      M G: dṛṣṭaḥ svapna-
 
-[^275]:
+[^२७५]:
      M G: mahājanakathā
 
-[^276]:
+[^२७६]:
      J: dānaṃ vidhānaṃ
 
-[^277]:
+[^२७७]:
      M G DK (4: 1935): asādhakas tadā (DK suggests asaṃbhavaḥ)
 
-[^278]:
+[^२७८]:
      DK (4: 1935) thinks the phrase kiṃ punā rūpeṇa saha is spurious.
 
-[^279]:
+[^२७९]:
      M G: iti yuṣmākam eva
 
-[^280]:
+[^२८०]:
      DK suggests: yadāsaṃdigdhaḥ parājayaḥ
 
-[^281]:
+[^२८१]:
      J: parihārārthaṃ
 
-[^282]:
+[^२८२]:
      M G place this phrase at the end of the commentary on verse 200
 
-[^283]:
+[^२८३]:
      M G: yasmin
 
-[^284]:
+[^२८४]:
      M G: vihitānuṣṭhānino
 
-[^285]:
+[^२८५]:
      M G: paurajanapadabalatānām
 
-[^286]:
+[^२८६]:
      DK (4: 2820) suggests: teṣāṃ mayā kṣāntam
 
-[^287]:
+[^२८७]:
      M G omit: vā
 
-[^288]:
+[^२८८]:
      M G omit: iti; DK (4: 2821) reads: eṣāṃ paurādīnām abhiprāyaṃ
 
-[^289]:
+[^२८९]:
      M G: -ādara-
 
-[^290]:
+[^२९०]:
      M G: kāle yuktaṃ
 
-[^291]:
+[^२९१]:
      M G place after kālopapannam the phrase: kriyamāṇam abhimatānām arthānāṃ sukhāvahaṃ bhaved anyathā ca duḥkhayatīty arthaḥ.
 
-[^292]:
+[^२९२]:
      M G J: samarthād arthakarmakāryaphalaṃ; I follow DK (4: 2402) suggestion.
 
-[^293]:
+[^२९३]:
      M G J: adhikaṃ (I follow DK)
 
-[^294]:
+[^२९४]:
      M G J: daiva- (I follow DK)
 
-[^295]:
+[^२९५]:
      M G: phala-
 
-[^296]:
+[^२९६]:
      M G add: sarvaṃ
 
-[^297]:
+[^२९७]:
      M G omit: kuṇayaḥ
 
-[^298]:
+[^२९८]:
      M G omit: -phalaṃ
 
-[^299]:
+[^२९९]:
      M G add: kuṇayo
 
-[^300]:
+[^३००]:
      M G: cāduḥkhino
 
-[^301]:
+[^३०१]:
      M G: daivamātrābhidhānādināśavināśavinipātādibhir
 
-[^302]:
+[^३०२]:
      M G: -padeśāt
 
-[^303]:
+[^३०३]:
      M G: manuṣyadharma
 
-[^304]:
+[^३०४]:
      M G: -kārya-
 
-[^305]:
+[^३०५]:
      M G: bhuṅkte vai balavān iti
 
-[^306]:
+[^३०६]:
      M G: -padeśo bhavati
 
-[^307]:
+[^३०७]:
      M G omit: yathā
 
-[^308]:
+[^३०८]:
      M G: tadaiva yāpayati
 
-[^309]:
+[^३०९]:
      M G: devaṃ
 
-[^310]:
+[^३१०]:
      DK (4: 2403) suggests, correctly I think, cāsyāparijñānād
 
-[^311]:
+[^३११]:
      DK (4: 2403) suggests, correctly I think, vidyate (citation from the verse)
 
-[^312]:
+[^३१२]:
      M G: eva
 
-[^313]:
+[^३१३]:
      M G: vivakṣyate; DK (4: 2403) suggests vipadyate
 
-[^314]:
+[^३१४]:
      This verse is omitted in the editions, but the following commentary appears to presuppose it. This and the followng three verses seems to be part of Medhātithi's Manu, even though I have relegated them to an Appendix in my critical edition.
 
-[^315]:
+[^३१५]:
      The reading should probably be yātrā, which is in the verse.
 
-[^316]:
+[^३१६]:
      The reading should probably be atiśaye, as in the verse.
 
-[^317]:
+[^३१७]:
      DK (4: 2403) suggests, correctly I think, na pravartate.
 
-[^318]:
+[^३१८]:
      M G J: nātivyūhaṃ
 
-[^319]:
+[^३१९]:
      M G: daive ca
 
-[^320]:
+[^३२०]:
      M G: yadātyantaguṇadaive; J: yadāpaṃcatuṇe daive; DK (4:2403) suggests yadātyantānuguṇe daive
 
-[^321]:
+[^३२१]:
      M G: sarvasya
 
-[^322]:
+[^३२२]:
      M G J: cāpauruṣeṇa
 
-[^323]:
+[^३२३]:
      M G J put puruṣāṇāṃ . . . kriyante at the beginning of the commentary after verse 211.
 
-[^324]:
+[^३२४]:
      M G J: puruṣajñānalokajñānapuruṣaviśeṣajño
 
-[^325]:
+[^३२५]:
      DK (4: 2404) places this under 7.205g, but at (4: 2170) places a version of it under 7.211
 
-[^326]:
+[^३२६]:
      M G J: abahu-
 
-[^327]:
+[^३२७]:
      M G: tattvabhukta-
 
-[^328]:
+[^३२८]:
      M G J: nāyam (see DK 4: 978)
 
-[^329]:
+[^३२९]:
      M G J: yugapadupajātānīty artham (see DK 4: 1935)
 
-[^330]:
+[^३३०]:
      DK (4: 1935) suggests adding: vyuktāṃś ca
 
-[^331]:
+[^३३१]:
      M G J: dānam evetyādikān (see DK)
 
-[^332]:
+[^३३२]:
      M G: samasta-
 
-[^333]:
+[^३३३]:
      DK (4: 1935) suggests: upeyam iti for ayam iti
 
-[^334]:
+[^३३४]:
      DK (4:1935) suggests samāśritaṃ.
 
-[^335]:
+[^३३५]:
      M G J: upāya etānām; I follow DK (4:1935).
 
-[^336]:
+[^३३६]:
      M G add before the verse: dvitīyo bhāgaḥ |
 
-[^337]:
+[^३३७]:
      M G: viśeṣārthārtham
 
-[^338]:
+[^३३८]:
      M G J: vaivarṇyajvālāsu; I follow DK (4:947).
 
-[^339]:
+[^३३९]:
      DK (4:979) suggests nāgamaṇi in place of nāgadamaṇi.
 
-[^340]:
+[^३४०]:
      J: -bharaṇaṃ
 
-[^341]:
+[^३४१]:
      DK (4:979) suggests vicāryaṃ
 
-[^342]:
+[^३४२]:
      DK (4: 947): krīḍet
 
-[^343]:
+[^३४३]:
      M G: paricāribhiḥ
 
-[^344]:
+[^३४४]:
      DK (4: 948) suggests: tatra

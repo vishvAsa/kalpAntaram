@@ -1689,848 +1689,848 @@ _न केवलं निन्दाम् एव येन, _
 
 ## Notes
 
-[^1]:
+[^१]:
      M G: tasya, and omits tam.
 
-[^2]:
+[^२]:
      M G 1st ed.: -ārthaṃ
 
-[^3]:
+[^३]:
      M G: purā mṛtyur
 
-[^4]:
+[^४]:
      M G add here: nāsnātakasya vijñānalepamātram adharmo 'yam |
 
-[^5]:
+[^५]:
      M G add: pādaprahāreṇa (see further down: pādaprahāreṇa yāni kṣudyante)
 
-[^6]:
+[^६]:
      M G 1st ed. omit: śāke
 
-[^7]:
+[^७]:
      M G 1st ed. has a very different and longer reading: asti hi tatra punaḥ śrutena vṛttau
 
-[^8]:
+[^८]:
      M G 1st ed.: valkapradeśās tatraiva; G 2nd ed.: valkapradeśāt ye tatraiva
 
-[^9]:
+[^९]:
      M G: piyūṣa-
 
-[^10]:
+[^१०]:
      M G 1st ed. add: yadi tad
 
-[^11]:
+[^११]:
      M G: mudgamakuṣṭha-
 
-[^12]:
+[^१२]:
      M G 1st ed: tad uktam; G 2nd ed: tad ity uktam
 
-[^13]:
+[^१३]:
      M G 1st ed.: kenārthataḥ
 
-[^14]:
+[^१४]:
      M G 1st ed.: paṭhanti
 
-[^15]:
+[^१५]:
      M G add here: atra hi kasya pākaḥ syāt
 
-[^16]:
+[^१६]:
      M G: kṛtākṛtatvād 
 
-[^17]:
+[^१७]:
      M G 1st ed.: kṛtākramasya
 
-[^18]:
+[^१८]:
      M G: vṛtyādi-
 
-[^19]:
+[^१९]:
      M G: padārthaṃ
 
-[^20]:
+[^२०]:
      M G 1st ed.: ayajñe hutasya
 
-[^21]:
+[^२१]:
      M G 1st ed.: śiṣṭaṃ proktam
 
-[^22]:
+[^२२]:
      M G 1st ed.: sāyam apradugdhā; G 2nd ed.: prātar adugdhā sāyam apradugdhā
 
-[^23]:
+[^२३]:
      M G: arthavādaḥ
 
-[^24]:
+[^२४]:
      M G 1st ed.: prāptasvarasāvasthāni; G 2nd ed: prāptasvārasyāni
 
-[^25]:
+[^२५]:
      M G 1st ed add: tu
 
-[^26]:
+[^२६]:
      M G: tatrobhayaraktā
 
-[^27]:
+[^२७]:
      M G 1st ed: nābhakṣya-
 
-[^28]:
+[^२८]:
      M G 1st ed.: tvāṣṭra-
 
-[^29]:
+[^२९]:
      M G: kasmād bhavaty
 
-[^30]:
+[^३०]:
      M G add: na
 
-[^31]:
+[^३१]:
      M G: bhinnakartṛkaś ca
 
-[^32]:
+[^३२]:
      M G 1st ed.: -viṣayaḥ
 
-[^33]:
+[^३३]:
      M G 1st ed.: anyatarat necchātaḥ
 
-[^34]:
+[^३४]:
      M G 1st ed.: nūnaṃ
 
-[^35]:
+[^३५]:
      M G: jālapāde pratiṣedhe tv asati yena tadviśeṣaṃ
 
-[^36]:
+[^३६]:
      M G 1st ed.: anāpadi
 
-[^37]:
+[^३७]:
      M G: kākolanimajyanmatsyādīnāṃ
 
-[^38]:
+[^३८]:
      G 2nd ed.: cāraṇyābhyanujñayā
 
-[^39]:
+[^३९]:
      M G 1st ed.: cāraṇyābhyanujñāyām apratiṣedhaś ca
 
-[^40]:
+[^४०]:
      M G: agrāmavāsinaḥ
 
-[^41]:
+[^४१]:
      M G: iti pakṣiṇām
 
-[^42]:
+[^४२]:
      G 1st ed.: yo māṃsāda
 
-[^43]:
+[^४३]:
      M G: rājīvān siṃhatuṇḍāṃś ca saśalkāṃś
 
-[^44]:
+[^४४]:
      M G: reṣā
 
-[^45]:
+[^४५]:
      M G: 'vijñātān bhakṣypakṣapatitān
 
-[^46]:
+[^४६]:
      M G 1st ed.: chvāvitkādayo
 
-[^47]:
+[^४७]:
      DK (5: 621) suggests: satrāṇy āhareyuḥ
 
-[^48]:
+[^४८]:
      M G 1st ed.: paurāṇā
 
-[^49]:
+[^४९]:
      M G: śuktasyāpi
 
-[^50]:
+[^५०]:
      M G: bhakṣaṇam | kāle
 
-[^51]:
+[^५१]:
      M G: ataḥ saṃdihya yāvatā yat
 
-[^52]:
+[^५२]:
      M G add: idaṃ
 
-[^53]:
+[^५३]:
      M G omit: tat
 
-[^54]:
+[^५४]:
      M G 1st ed.: snehasaṃyuktā
 
-[^55]:
+[^५५]:
      M G 1st ed.: eva
 
-[^56]:
+[^५६]:
      M G 1st ed.: atha
 
-[^57]:
+[^५७]:
      M G: ataccheṣasya bhakṣyatvād
 
-[^58]:
+[^५८]:
      M G: -bhedena kenacid
 
-[^59]:
+[^५९]:
      M G 1st ed: sthitasya
 
-[^60]:
+[^६०]:
      M G 1st ed.: ca hutaśeṣam
 
-[^61]:
+[^६१]:
      M G add: tu
 
-[^62]:
+[^६२]:
      M G add: māṃsaṃ kriyādinā
 
-[^63]:
+[^६३]:
      M G: ceti niḥśeṣabhūtā
 
-[^64]:
+[^६४]:
      M G: abhinivartate
 
-[^65]:
+[^६५]:
      M G: 'vagataḥ
 
-[^66]:
+[^६६]:
      M G 1st ed.: gocarair yaḥ
 
-[^67]:
+[^६७]:
      M G: viśeṣeṇa
 
-[^68]:
+[^६८]:
      M G: -pratiṣedhaḥ
 
-[^69]:
+[^६९]:
      M G: tasmāt tacchruta-
 
-[^70]:
+[^७०]:
      M G 1st ed. omit: na
 
-[^71]:
+[^७१]:
      M G 1st ed. omit: na; G 2nd ed. places it after vṛthāmāsam api
 
-[^72]:
+[^७२]:
      M G omit: na
 
-[^73]:
+[^७३]:
      M G 1st ed.: bhakṣaṇādayas tarhi; G 2nd ed.: bhakṣaṇāya tarhi
 
-[^74]:
+[^७४]:
      M G omit: sa
 
-[^75]:
+[^७५]:
      M G omit: kāmyā
 
-[^76]:
+[^७६]:
      M G 1st ed.: pratiṣedhāvṛttir
 
-[^77]:
+[^७७]:
      M G: -nimitte abhyanujñāte
 
-[^78]:
+[^७८]:
      M G 1st ed.: nanu
 
-[^79]:
+[^७९]:
      M G: ityāder atra pratiṣedhasyāpi
 
-[^80]:
+[^८०]:
      M G 1st ed.: -ārheṇa ca
 
-[^81]:
+[^८१]:
      M G 1st ed.: vrātyutpādanena
 
-[^82]:
+[^८२]:
      M G: nārtvijye
 
-[^83]:
+[^८३]:
      M G 1st ed.: bhāsatāṃ
 
-[^84]:
+[^८४]:
      M G: parikrāṃtān avihitān
 
-[^85]:
+[^८५]:
      M G: iḍā
 
-[^86]:
+[^८६]:
      M G: pratīcchati
 
-[^87]:
+[^८७]:
      M G 1st ed.: prākramikaḥ syāc ca parpūrṇena; G 2nd ed: prākramikaḥ syāt na parpūrṇena
 
-[^88]:
+[^८८]:
      M G 1st ed. : anujñādānam eva; G 2nd ed.: anujñādānād aśanam eva
 
-[^89]:
+[^८९]:
      M G 1st ed.: aśnann
 
-[^90]:
+[^९०]:
      M G 1st ed. add: kāntāraṃ
 
-[^91]:
+[^९१]:
      M G: prokṣaṇaṃ
 
-[^92]:
+[^९२]:
      M G: ekattvenākalpayat
 
-[^93]:
+[^९३]:
      M G 1st ed.: māṃsāśī yataḥ
 
-[^94]:
+[^९४]:
      M G: -arthakṛte
 
-[^95]:
+[^९५]:
      M G 1st ed.: phalair vā vartayann agnau juhuyād āhutayaḥ kṛtvā
 
-[^96]:
+[^९६]:
      M G add: na
 
-[^97]:
+[^९७]:
      M G 1st ed. : caivāṣṭakān
 
-[^98]:
+[^९८]:
      M G add: athocyate
 
-[^99]:
+[^९९]:
      M G 1st ed.: nimittāntaraṃ
 
-[^100]:
+[^१००]:
      M G: yo vidhis
 
-[^101]:
+[^१०१]:
      M G 1st ed: saṃnidhānam āśaṅkāyāṃ
 
-[^102]:
+[^१०२]:
      M G add: kiṃ tarhi
 
-[^103]:
+[^१०३]:
      M G 1st ed. omit: saṃbhavān
 
-[^104]:
+[^१०४]:
      M G: -khañji-, -khaṇḍikā-
 
-[^105]:
+[^१०५]:
      M G: tyājyaḥ
 
-[^106]:
+[^१०६]:
      DK (5: 622) adds: kuryād iti
 
-[^107]:
+[^१०७]:
      DK (5: 622) omits: ghṛtapaśuṃ kuryāt
 
-[^108]:
+[^१०८]:
      J G 2st ed.: hiṃsāyāṃ
 
-[^109]:
+[^१०९]:
      M G: nanu (I follow DK 5: 622)
 
-[^110]:
+[^११०]:
      M G 1st ed.: na hy etad; DK (5: 622) omits: tadā
 
-[^111]:
+[^१११]:
      M G 1st ed.: vadhe yajñāṅgabhūte yā bhṛtis; G 2nd ed: vadhe yajñaṅgabhūte yo vadhas
 
-[^112]:
+[^११२]:
      DK (5: 324): vartamānāpadeśāt
 
-[^113]:
+[^११३]:
      M G J: dṛṣṭavastusvābhāvyena (I follow the suggestion of DK 5: 624)
 
-[^114]:
+[^११४]:
      M G J: cauṣadhādīnām (I follow the suggestion of DK 5: 624)
 
-[^115]:
+[^११५]:
      DK (5: 624): kāmayet
 
-[^116]:
+[^११६]:
      M G 1st ed.: spṛṣṭatvāc
 
-[^117]:
+[^११७]:
      M G: yuktāṅga-
 
-[^118]:
+[^११८]:
      M G J: haviṣyena (I follow the suggestion of DK 5: 624)
 
-[^119]:
+[^११९]:
      M G 1st ed.: bhīmapravahaṇād
 
-[^120]:
+[^१२०]:
      DK (5:624) suggests: codyante
 
-[^121]:
+[^१२१]:
      J G 2nd ed.: svatantram evaṃ ca
 
-[^122]:
+[^१२२]:
      DK (5: 625) suggests: anyeṣāṃ
 
-[^123]:
+[^१२३]:
      DK (5: 625) suggests adding: ityādiṣu
 
-[^124]:
+[^१२४]:
      M G: kṛtas
 
-[^125]:
+[^१२५]:
      M G omit: hiṃsām
 
-[^126]:
+[^१२६]:
      M: praṇayanaṃ; G 1st ed: prathanaṃ
 
-[^127]:
+[^१२७]:
      M G: vittāśanādayaḥ
 
-[^128]:
+[^१२८]:
      M G: vittāśanam
 
-[^129]:
+[^१२९]:
      M G: kartṛvyapadeśa
 
-[^130]:
+[^१३०]:
      M G 1st ed.:-hetūnām
 
-[^131]:
+[^१३१]:
      M G 1st ed. omit: tad ayuktam iti
 
-[^132]:
+[^१३२]:
      M G: yadi
 
-[^133]:
+[^१३३]:
      M G: sa eva
 
-[^134]:
+[^१३४]:
      J: asvatantrākaraṇaṃ
 
-[^135]:
+[^१३५]:
      M G 1st ed.: adhyāpakahetu-
 
-[^136]:
+[^१३६]:
      M G 1st ed.: adhyāpayati
 
-[^137]:
+[^१३७]:
      M G: kiṃcid
 
-[^138]:
+[^१३८]:
      M G: sarvasvaṃ dadyāt
 
-[^139]:
+[^१३९]:
      M G: anyataraprayojakasmṛtiśaṅkayā ca
 
-[^140]:
+[^१४०]:
      M G 1st ed.: nipuṇamennirṇītam
 
-[^141]:
+[^१४१]:
      M G: vārthavād-
 
-[^142]:
+[^१४२]:
      M G 1st ed.: matir ākāṅkṣīkaroti
 
-[^143]:
+[^१४३]:
      M G: viṣayārthāḥ
 
-[^144]:
+[^१४४]:
      M G 1st ed.: kiṃcid aśitum
 
-[^145]:
+[^१४५]:
      This verse in YDh 3.23 in Vijñāneśvara.
 
-[^146]:
+[^१४६]:
      M G 1st ed.: smṛti
 
-[^147]:
+[^१४७]:
      M G: dantajātānusāhacaryāt
 
-[^148]:
+[^१४८]:
      M G 1st ed.: prathamatṛtīya ity eṣaḥ
 
-[^149]:
+[^१४९]:
      This verse in YDh 3.23 in Vijñāneśvara.
 
-[^150]:
+[^१५०]:
      This verse in YDh 3.23 in Vijñāneśvara.
 
-[^151]:
+[^१५१]:
      This verse in YDh 3.23 in Vijñāneśvara.
 
-[^152]:
+[^१५२]:
      M: cāsya; G 1st ed. omit: svasya
 
-[^153]:
+[^१५३]:
      M G 1st ed.: pūrvam anvayajātās
 
-[^154]:
+[^१५४]:
      M G 1st ed.: adhyupalakṣaṇatvāc
 
-[^155]:
+[^१५५]:
      M G 1st ed.: chara
 
-[^156]:
+[^१५६]:
      M G 1st ed: iva velāyom; G 2nd ed.: iva velāyām
 
-[^157]:
+[^१५७]:
      M G 1st ed: eva
 
-[^158]:
+[^१५८]:
      M G 1st ed.: dāsīnāṃ
 
-[^159]:
+[^१५९]:
      M G: rājānau
 
-[^160]:
+[^१६०]:
      M G omit: iti
 
-[^161]:
+[^१६१]:
      M G: śeṣād
 
-[^162]:
+[^१६२]:
      M G 1st ed.: jñāne
 
-[^163]:
+[^१६३]:
      M G 1st ed.: nābhidaghnam abhugno
 
-[^164]:
+[^१६४]:
      M G 1st ed.: svādhyāyādiṣv apāṭhaprattyāsattyā
 
-[^165]:
+[^१६५]:
      M G 1st ed.: śakyenaiva
 
-[^166]:
+[^१६६]:
      M G 1st ed.: virudhyate
 
-[^167]:
+[^१६७]:
      M G 1st ed.: eva
 
-[^168]:
+[^१६८]:
      On this example, see Śabara on PMS 10.8.7.
 
-[^169]:
+[^१६९]:
      M G 1st ed.: vikalpete
 
-[^170]:
+[^१७०]:
      M G: eva tena
 
-[^171]:
+[^१७१]:
      M G: rūḍhyā sapiṇḍebhyaḥ
 
-[^172]:
+[^१७२]:
      M G: nivṛtta-
 
-[^173]:
+[^१७३]:
      M G: nivṛtta-
 
-[^174]:
+[^१७४]:
      M G 1st ed. add: yato
 
-[^175]:
+[^१७५]:
      M G: tādṛśasyeva
 
-[^176]:
+[^१७६]:
      M G add: ca
 
-[^177]:
+[^१७७]:
      M G: nadītaḍāgādau ca tīrthasnānam
 
-[^178]:
+[^१७८]:
      M G 1st ed.: deśo
 
-[^179]:
+[^१७९]:
      M G 1st ed.: apekṣā
 
-[^180]:
+[^१८०]:
      M G 1st ed.: kalpena yadā
 
-[^181]:
+[^१८१]:
      M G 1st ed.L upanipātanaprāptau
 
-[^182]:
+[^१८२]:
      M G: śālaka-
 
-[^183]:
+[^१८३]:
      M G: mātula-
 
-[^184]:
+[^१८४]:
      M G: ahorātri-
 
-[^185]:
+[^१८५]:
      M G omit: na
 
-[^186]:
+[^१८६]:
      M G: upasanne vā upasanne ca
 
-[^187]:
+[^१८७]:
      M G: vākyaṃ
 
-[^188]:
+[^१८८]:
      M G: nanu
 
-[^189]:
+[^१८९]:
      M G omit: tāni
 
-[^190]:
+[^१९०]:
      M G: vikalpante
 
-[^191]:
+[^१९१]:
      M G: upakrāntaṃ
 
-[^192]:
+[^१९२]:
      J: nityasvādhyāyakleśakaraṃ
 
-[^193]:
+[^१९३]:
      M G: anuṣṭhānena duṣyāmīti
 
-[^194]:
+[^१९४]:
      M G: āvaśyaṃ
 
-[^195]:
+[^१९५]:
      M G: saṃnidhānātacchabdena
 
-[^196]:
+[^१९६]:
      M G 1st ed.: na hi śavaspṛṣṭipadena
 
-[^197]:
+[^१९७]:
      M G: itarair yuktatvāt
 
-[^198]:
+[^१९८]:
      M G: vikalpete
 
-[^199]:
+[^१९९]:
      J: teṣāmayādiṣyudakadānapratiṣedhaḥ; the reading here is unclear, but Jha's reading makes little sense.
 
-[^200]:
+[^२००]:
      M G 1st ed.: tad uktam
 
-[^201]:
+[^२०१]:
      M G add: na
 
-[^202]:
+[^२०२]:
      M G: prapatanam and omits cecchatām
 
-[^203]:
+[^२०३]:
      M G 1st ed.: ye kecana kenacit
 
-[^204]:
+[^२०४]:
      J: ca jñātvā (Jha's translation requires ajñātvā)
 
-[^205]:
+[^२०५]:
      M G 1st ed. omit: na
 
-[^206]:
+[^२०६]:
      M G: -vṛttyaikāneka-
 
-[^207]:
+[^२०७]:
      M G omit: yatra
 
-[^208]:
+[^२०८]:
      M G: tādarthyatānām
 
-[^209]:
+[^२०९]:
      M G: guṇabhāvāt
 
-[^210]:
+[^२१०]:
      M G: -opapadyeta-
 
-[^211]:
+[^२११]:
      M G: tadveṣāt
 
-[^212]:
+[^२१२]:
      M G add: na
 
-[^213]:
+[^२१३]:
      M G 1st ed.: pracyutalaukikyā
 
-[^214]:
+[^२१४]:
      M G: abhidhānaṃ śaktim
 
-[^215]:
+[^२१५]:
      M G: avivakṣayā nātantram
 
-[^216]:
+[^२१६]:
      M G: yathāpi
 
-[^217]:
+[^२१७]:
      M G: saṃbadhyate | ete
 
-[^218]:
+[^२१८]:
      M G 1st ed.: vidhivad iti
 
-[^219]:
+[^२१९]:
      M G: anivṛttir iti
 
-[^220]:
+[^२२०]:
      M G: nivṛttakākṣeti
 
-[^221]:
+[^२२१]:
      M G J: ṛtvig-
 
-[^222]:
+[^२२२]:
      J: mukhyāyānuvṛttyā; DK (4: 950) suggests: mukhyayā tu vṛttyā
 
-[^223]:
+[^२२३]:
      M G J: divyantarikṣa-
 
-[^224]:
+[^२२४]:
      M: śrameṣu; G 1st ed.: sameṣu
 
-[^225]:
+[^२२५]:
      M G 1st ed. DK (4: 951): lokeśaprabhavāpyayam
 
-[^226]:
+[^२२६]:
      M G places ekādaśe vakṣyati at the beginning of the commentary on verse 106.
 
-[^227]:
+[^२२७]:
      M G 1st ed.: vegāgatāyāḥ
 
-[^228]:
+[^२२८]:
      M G  omit: na
 
-[^229]:
+[^२२९]:
      MG 1st ed.: cintita
 
-[^230]:
+[^२३०]:
      M G: bhasmana
 
-[^231]:
+[^२३१]:
      M G 1st ed.: rūpato 'pāruṣyaṃ; G 2nd ed: rūpataḥ apāruṣyaṃ
 
-[^232]:
+[^२३२]:
      M G 1st ed.: śucitvāpādana-
 
-[^233]:
+[^२३३]:
      M G 1st ed.: naika-
 
-[^234]:
+[^२३४]:
      M G 1st ed.: lokāj jāyate; G 2nd ed: lokā'jñāyate
 
-[^235]:
+[^२३५]:
      M G 1st ed: ato 'nayā
 
-[^236]:
+[^२३६]:
      M G: śāstraviśeṣaḥ
 
-[^237]:
+[^२३७]:
      M G 1st ed.: aśuddhe pātrasya
 
-[^238]:
+[^२३८]:
      M G 1st ed.: vākyaṃ mūlaṃ siddhārtham eva
 
-[^239]:
+[^२३९]:
      M G 1st ed. omit: kiṃ tu
 
-[^240]:
+[^२४०]:
      G 2nd ed: caikavastvaṃśo
 
-[^241]:
+[^२४१]:
      M G 1st ed.: anujñāyām ekavastvaṃśaḥ | na ca svatvaṃ
 
-[^242]:
+[^२४२]:
      M G: candragopa-; This may be the Buddhist author Candragomin who is said to have authored a large number of texts, according to Tāranātha: "in all he composed four hundred and thirty-two separate works, of which ... one hundred and eight were treatises on secular knowledge" including "fine arts, grammar, logic, medicine, prosody, dramaturgy, dictionary, poetics, astronomy, etc." (trans. Chimpa & Chattopadhyaya, pp. 206-7). Possibly Medhātithi is noting that he did not want to follow the example of Candragomin to be too prolix.
 
-[^243]:
+[^२४३]:
      M G 1st ed. omit: yatra
 
-[^244]:
+[^२४४]:
      M G: godhūmamakuṣṭhaka-
 
-[^245]:
+[^२४५]:
      M G 1st ed.: ākāra-
 
-[^246]:
+[^२४६]:
      M G 1st ed. omit: ākaraḥ
 
-[^247]:
+[^२४७]:
      M G: dāho nātītānāṃ (G 2nd ed. nānnītānāṃ)
 
-[^248]:
+[^२४८]:
      M G 1st ed.: svarṇākāre; G 2nd ed: svarṇākare
 
-[^249]:
+[^२४९]:
      M G 1st ed.: śaṅkhasphoṭanādi; G 2nd ed.: abjaṃ śaṅkhādi aśmamayaṃ sphaṭikādi
 
-[^250]:
+[^२५०]:
      M G 1st ed. omit: yatra
 
-[^251]:
+[^२५१]:
      M G 1st ed.: paryavasyato
 
-[^252]:
+[^२५२]:
      M G: caityādineṣaiva
 
-[^253]:
+[^२५३]:
      M G 1st ed. add: na
 
-[^254]:
+[^२५४]:
      M G omit: na
 
-[^255]:
+[^२५५]:
      M G 1st ed.: arvāk tatas
 
-[^256]:
+[^२५६]:
      M G add: tat
 
-[^257]:
+[^२५७]:
      M G: aduṣṭa-
 
-[^258]:
+[^२५८]:
      M G place this phrase at the start of the commentry on the next verse.
 
-[^259]:
+[^२५९]:
      M G: tadarthāyā mantrapravṛttau
 
-[^260]:
+[^२६०]:
      Cite under 5.131
 
-[^261]:
+[^२६१]:
      G 2nd ed.: grahaṇam
 
-[^262]:
+[^२६२]:
      M G place karmendriyāṇi before pādayor
 
-[^263]:
+[^२६३]:
      M G 1st ed. omit: iti
 
-[^264]:
+[^२६४]:
      M G 1st ed.: antarāsparśe
 
-[^265]:
+[^२६५]:
      M G 1st ed. places tathā dūṣikāduṣṭena punaś cāsaṃsparśanāya at the beginning of the com. on next verse.
 
-[^266]:
+[^२६६]:
      M G 1st ed. omit: makṣikāgrahaṇaṃ
 
-[^267]:
+[^२६७]:
      M G: bhede
 
-[^268]:
+[^२६८]:
      M G 1st ed.: -saṃbandhāt
 
-[^269]:
+[^२६९]:
      M G: 'nyato
 
-[^270]:
+[^२७०]:
      G 2nd ed. add: mṛjyetyeva
 
-[^271]:
+[^२७१]:
      M G: niṣṭhīvyoktānṛtāni
 
-[^272]:
+[^२७२]:
      M G: niṣṭhīvana
 
-[^273]:
+[^२७३]:
      M G add: uktaṃ
 
-[^274]:
+[^२७४]:
      M G 1st ed.: tasyaivānnaśuddhiḥ; G 2nd ed.: tasyaivāśaucāc chuddhi
 
-[^275]:
+[^२७५]:
      M G: saṃbandhyate
 
-[^276]:
+[^२७६]:
      M G 1st ed.: nityaprahasitaye
 
-[^277]:
+[^२७७]:
      M G: svāmikārakam
 
-[^278]:
+[^२७८]:
      M G: prajāpateḥ | prajāpater
 
-[^279]:
+[^२७९]:
      M G: sarvatraivāpratiṣiddhavarjam (GDh reads: sarvatra vā pratiṣiddhavarjam)
 
-[^280]:
+[^२८०]:
      M G: -virodho
 
-[^281]:
+[^२८१]:
      M G 1st ed.: caturvidyayā; G 2nd ed.: gurvicchayā vidyayā
 
-[^282]:
+[^२८२]:
      M G: vānapratha-
