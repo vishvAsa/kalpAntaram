@@ -5,7 +5,7 @@ unicode_script = "devanagari"
 +++
 [Only a limited number of verses of this chapter are given in the DK, as noted]
 
-**अथ एकादशमो ऽध्यायः**
+**अथ एकादशतमो ऽध्यायः**
 
 > **सान्तानिकं यक्ष्यमाणम् अध्वगं सार्ववेदसम् ।**  
 > **गुर्वर्थं पितृमात्रर्थं स्वाध्यायार्थ्य् उपतापिनः ॥ ११.१ ॥**  
