@@ -19,11 +19,11 @@ nature of Highest Bliss, who is going to be described later on.
 ‘*United to material substances*’—*i.e*., the five substances.
 
 ‘*The Great* *Principle*’— described under [Verse
-13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202191.html),
+13],
 as that ‘through which he experiences pleasures and pains.’
 
 ‘*The Conscious Being*’— described in [Verse
-12](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202190.html).
+12].
 
 These two are said to ‘*subsist*’ in the Supreme Self, because the
 entire Universe subsists in It; every effect *subsists* in its cause;

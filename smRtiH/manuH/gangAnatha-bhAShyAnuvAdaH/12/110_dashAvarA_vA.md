@@ -8,7 +8,7 @@ together, there should be at least ten.
 If this be not possible, there should be *at least three*.
 
 ‘*Firm in their duty*.’—This is a reference to what has been [said under
-2.13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145586.html).
+2.13].
 
 What is meant to be emphasised here is not the *number*, but the
 *qualification*; as in clear from what is going to be said in Verse 113

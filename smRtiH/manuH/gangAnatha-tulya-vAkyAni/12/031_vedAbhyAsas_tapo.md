@@ -8,4 +8,4 @@ cognisant with the Veda, a man abounds in the attribute of *Sattva* and
 is born among celestial beings.’
 
 [(See 83,
-below.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202263.html#comparative-notes)
+below.)]

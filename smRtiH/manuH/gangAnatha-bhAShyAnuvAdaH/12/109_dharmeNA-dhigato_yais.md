@@ -5,7 +5,7 @@ title = "109 धर्मेणाऽधिगतो यैस्"
 This verse provides the definition of the ‘cultured’ man.
 
 “The definition of the *cultured* man has already been [provided under
-2.13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145586.html).”
+2.13].”
 
 But that verse has been suspected of having a totally different meaning;
 hence it cannot be regarded as providing the required definition. There
