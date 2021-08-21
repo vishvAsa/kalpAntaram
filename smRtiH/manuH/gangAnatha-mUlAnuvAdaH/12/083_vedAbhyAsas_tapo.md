@@ -3,4 +3,4 @@ title = "083 वेदाभ्यासस् तपो"
 
 +++
 
-**निःश्रेयस**शब्देन न पुनः पुरुषार्थसिद्धिर् उच्यते, अपि तु निश्चितसुखदुःखानुबन्धः प्रीतिविशेषो ऽपि । **वेदाभ्यासा**दीनां तत्र तत्रोक्तानां पुनर्वचनम् आत्मज्ञानस्तुत्यर्थम् । **ज्ञानं** वेदार्थविषयम् । उक्तार्थान्य् अन्यानि पदानि ॥ १२.८३ ॥
+Vedic Study, Austerity, Knowledge, Control of the Senses, Harmlessness, Service of Elders,—are the best means of attaining the Highest Good.—(83)

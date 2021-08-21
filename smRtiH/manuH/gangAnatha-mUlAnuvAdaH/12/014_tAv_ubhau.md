@@ -3,6 +3,4 @@ title = "014 ताव् उभौ"
 
 +++
 
-**उच्चावचेषु** बहुविधेषु नानारूपेषु **भूतेषु** सर्वेषु यः **स्थितो** **व्याप्य** तानि भूतानि । **तिष्ठतः** संश्रयतः । अतश् च सर्वकर्मकर्तृत्वम्, तिष्ठतेर् अनेकार्थत्वात् । 
-
-- को ऽसाव् **उच्चावचेषु भूतेषु** **व्याप्य** स्थितः । 
+Both of these, the ‘Great Principle’ and the ‘Conscious Being,’ united with the material substances, subsist in Him who resides in all things, pervading them all.—(14)

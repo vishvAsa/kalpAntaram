@@ -3,4 +3,4 @@ title = "047 गन्धर्वा गुह्यका"
 
 +++
 
-**गन्धर्व्**आदयो देवास् तेषाम् अर्थवादेतिहासेभ्यो भेदो विज्ञेयः । **विबुधा** देवास् तेषाम् **अनुचराः** सिद्धविधाधरादयः ॥ १२.४७ ॥
+Gandharvas, Guhyakas, ‘Yakṣas,’ the attendants of the gods, and all the Apsaras, represent the high state among those partaking of ‘Rajas.’—(47)

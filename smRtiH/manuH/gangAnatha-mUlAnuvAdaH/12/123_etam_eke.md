@@ -3,4 +3,4 @@ title = "123 एतम् एके"
 
 +++
 
-(पृथग् व्याख्यानं नास्ति।)
+This some people call ‘Agni’; others, ‘Manu-Prajāpati’; others, ‘Indra’; others, ‘Prāṇa’; and yet others, ‘the Eternal Brahman.’—(123)

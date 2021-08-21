@@ -3,4 +3,4 @@ title = "061 मणि-मुक्ता-प्रवालानि हृत�
 
 +++
 
-**हेमकर्तारः** पक्षिणः ॥ १२.६१ ॥
+The man who, through greed, steals gems, pearls and corals, or the various kinds of precious articles, is born among ‘Hemakartṛs.’—(61)

@@ -3,4 +3,4 @@ title = "077 सम्भवांश् च"
 
 +++
 
-**वियोनयः** तिर्यक्प्रेतपिशाचादयः । तत्र **संभवो** जन्म दुःखबहुलासु ॥ १२.७७ ॥
+Constant births in low forms of life, abounding in misery, afflictions from heat and cold, and terrors of various kinds.—(77)

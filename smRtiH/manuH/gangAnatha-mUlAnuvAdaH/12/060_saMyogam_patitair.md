@@ -3,4 +3,4 @@ title = "060 संयोगम् पतितैर्"
 
 +++
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+He who associates with outcasts, he who approaches the wife of another person, and he who has stolen the property of a Brāhmaṇa, become ‘Brahmarākṣasas.’—(60)

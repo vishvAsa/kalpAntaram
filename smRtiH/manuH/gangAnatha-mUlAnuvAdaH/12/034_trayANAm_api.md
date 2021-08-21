@@ -3,4 +3,4 @@ title = "034 त्रयाणाम् अपि"
 
 +++
 
-**त्रिषु** कालेषु साम्योपचयापचयेषु वोत्तमाधममध्यमेषु च फलोदयेषु । **इदम्** इति वक्ष्यमाणस्य निर्देशः ॥ १२.३४ ॥
+This should be understood to be in brief the characteristic of these three qualities in order, as they appear at the three times.—(34)

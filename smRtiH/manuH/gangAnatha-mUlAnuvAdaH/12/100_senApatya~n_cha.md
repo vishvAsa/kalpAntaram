@@ -3,12 +3,4 @@ title = "100 सेनापत्यञ् च"
 
 +++
 
-अतिस्तुतिर् इयम् । **दण्डनेतारः**[^३०३] दण्डनायका ग्रामनगरयोः कृताकृतप्रेक्षणनियुक्ताः[^३०४] । **सेना** हस्त्यश्वरथपादातम्, तस्याः **पतिः** । **राज्यं** मण्डलेश्वरत्वम् । **सर्वलोकाधिपत्यं** सार्वभौमत्वम् ॥ १२.१०० ॥
-
-
-[^३०४]:
-     M G: -prekṣaṇāniyuktāḥ
-
-
-[^३०३]:
-     M G: daṇḍena tāvad
+It is only one who knows the Vedic lore that deserves the command over armies, Kingly authority, the office of the adjudicator of punishments and sovereignty over all men.—(100)

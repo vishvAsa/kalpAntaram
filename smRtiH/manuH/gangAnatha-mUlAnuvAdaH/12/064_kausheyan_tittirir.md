@@ -3,4 +3,4 @@ title = "064 कौशेयन् तित्तिरिर्"
 
 +++
 
-**दर्दुरः** मण्डूकस्तोकः ॥ १२.६४ ॥
+For stealing silk, a partridge; for stealing linen, a frog; for stealing cotton-cloth, a crane; for stealing a cow, an alligator; and for stealing molasses, a ‘Vāgguda’-bird.—(64)

@@ -3,4 +3,4 @@ title = "057 लूताहि-सरटानाञ् च"
 
 +++
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+The Brāhmaṇa who steals gold shall (enter) a thousand times into the womb of the spider, the snake, the lizard, of aquatic animals or of carnivorous Piśācas.—(57)

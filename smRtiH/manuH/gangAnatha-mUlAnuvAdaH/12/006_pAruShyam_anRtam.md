@@ -3,4 +3,4 @@ title = "006 पारुष्यम् अनृतम्"
 
 +++
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+Abusing, lying, calumniating all men, and idle prattling,—are the pour kinds of ‘verbal action.’—(6)

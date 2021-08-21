@@ -3,16 +3,4 @@ title = "082 एष सर्वः"
 
 +++
 
-विहितानां[^११८] प्रतिषिद्धानां च कर्मणां यावत्फलोत्पत्तिस् तानि समुपदिष्टानि । ततो निवर्तितव्यम्[^११९] । यतो दुःखानुबन्धी विषयसुखोपभोगो ऽतस् ततो निवर्तन्ते । नैःश्रेयसे[^१२०] कर्मविधौ मोक्षोपाये वक्ष्यमाणविद्याकाण्ड उपदिष्टे स्थातव्यम् । तद् इदानीं वक्ष्यामः ॥ १२.८२ ॥
-
-
-[^१२०]:
-     M G J: śreyase (I follow the suggested emendation of DK 5: 632)
-
-
-[^११९]:
-     M G: vartitavyam
-
-
-[^११८]:
-     M G J omit: vihitānāṃ (I follow the suggested emendation of DK 5: 632)
+Thus has been indicated to you the entire manner in which results proceed from actions; now learn that act which brings about the Highest Good of the Brāhmaṇa.—(82)

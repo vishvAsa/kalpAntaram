@@ -3,4 +3,4 @@ title = "020 यद्य् आचरति"
 
 +++
 
-**प्रायशो** बाहुल्येन **तैर् एव भूतैर्** महदादिभिर् महाभूतपर्यन्तैः **स्वर्गे सुखम्** आप्नोति ॥ १२.२० ॥
+If he practises virtue for the most part, and vice only in a small degree, then, invested with those same material substances, he obtains happiness in heaven.—(20)

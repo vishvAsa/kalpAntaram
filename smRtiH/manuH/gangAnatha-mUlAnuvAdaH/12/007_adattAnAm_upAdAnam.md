@@ -3,4 +3,4 @@ title = "007 अदत्तानाम् उपादानम्"
 
 +++
 
-शास्त्रीयाप्राधान्यतयास्य्**आदत्तानाम्** असद्भ्य **उपादानं** दुष्टं चैव । तथा कुमार्यादि**परदारादाव्** अपि । विपरीतधर्मादानं परित्राणम् इन्द्रियसंयमश् च । इदं मनोवाग्देहभेदेन दशविधम् । प्रवृत्तिकुशलाकुशलविभागेन विंशतिप्रकाराः ॥ १२.७ ॥
+Taking what has not been given, unsanctioned killing, and intercourse with the wives of others—these have been declared to be three kinds of ‘bodily action.’—(7)

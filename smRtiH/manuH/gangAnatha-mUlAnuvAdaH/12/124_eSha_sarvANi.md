@@ -3,4 +3,4 @@ title = "124 एष सर्वाणि"
 
 +++
 
-(पृथग् व्याख्यानं नास्ति।)
+He it is who, interpenetrating all beings, with his five forms, makes them, revolve constantly like a wheel, through birth, growth and decay.—(124)

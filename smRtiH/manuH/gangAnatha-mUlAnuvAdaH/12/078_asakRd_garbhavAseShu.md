@@ -3,4 +3,4 @@ title = "078 असकृद् गर्भवासेषु"
 
 +++
 
-स्पष्टार्थः ॥ १२.७८ ॥
+Repeated lying in wombs, agonising births, painful bondages, and slavery to others.—(78)

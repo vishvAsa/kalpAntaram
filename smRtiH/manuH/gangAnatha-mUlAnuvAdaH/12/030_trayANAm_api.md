@@ -3,4 +3,4 @@ title = "030 त्रयाणाम् अपि"
 
 +++
 
-**त्रयाणाम्** एषाम् आसेव्यमानानां यत् फलम् उत्पद्यत उत्तमाधममध्यमं तद्वक्तव्यतया प्रतिज्ञायते । यस्मिन् गुण उद्रिक्ते यः पुरुषस्य स्वभावो भवति स उच्यत इति प्रतिज्ञा ॥ १२.३० ॥
+I am now going to fully describe the results,—good, middling and bad—proceeding from these three qualities.—(30)

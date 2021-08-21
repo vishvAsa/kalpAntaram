@@ -3,4 +3,4 @@ title = "010 वाग्दण्डो ऽथ"
 
 +++
 
-दमनं **दण्डः** । **वाचो दण्डः** पारुष्याप्रवृत्तिः । एवम् उत्तरयोर् अपि । **यस्यैते** दण्डा **बुद्धौ निहिता** "नैतन् मया कर्तव्यम्" इति यो न स्खलति **स त्रिदण्डीत्य् उच्यते** । न त्व् अनार्यो गुरुकाष्ठदण्डं धारयति ॥ १२.१० ॥
+Control over Speech, control over the Mind and control over the Body,—the man in whose heart these are firmly fixed is called ‘the man of triple control.’—(10)

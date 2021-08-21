@@ -3,4 +3,4 @@ title = "053 यां याम्"
 
 +++
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+Into what wombs the soul enters,—and in consequence of what acts,—listen to that, in due order.—(53)

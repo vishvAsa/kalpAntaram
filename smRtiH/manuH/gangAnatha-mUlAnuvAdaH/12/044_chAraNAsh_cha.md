@@ -3,4 +3,10 @@ title = "044 चारणाश् च"
 
 +++
 
-**चारणाः** कथकगायकस्त्रीसंयोजकादयः । **सुपर्णाः** पक्षिविशेषाः । **शूद्रा** **गर्हिता** इति संबन्धः । ये ब्राह्मणान् अवजानते ये च तद्भृत्युपजीविनो ये च मदमानादियुक्ताः । हिंस्राश् चौरा इत्य् एवमादयो विगर्हिताः ॥ १२.४२–४४ ॥
+Inanimate beings, worms, insects, fishes, snakes, tortoise, cattle and wild animals,—represent the lowest state due to the quality of ‘Tamas.’—(42)
+
+
+Elephants, horses, despised Śūdras, Mlecchas, lions, tigers and boars—represent the middling state due to the quality of ‘Tamas.’—(43)
+
+
+Cāraṇas, Suparṇas, hypocritical men, Rākṣasas, and Piśācas—represent the highest state among those partaking of the quality of ‘Tamas.’—(44)

@@ -3,4 +3,4 @@ title = "063 मांसङ् गृध्रो"
 
 +++
 
-> **कौशेयं तित्तिरिर् हृत्वा क्षौमं हृत्वा तु दर्दुरः ।**  
+For stealing meat, a vulture; for stealing fat, a cormorant; for stealing oil, a ‘Tailapāyika’ bird; for stealing salt, a Cīrīvāka; and for stealing curds, a ‘Balākā’-bird.—(63)

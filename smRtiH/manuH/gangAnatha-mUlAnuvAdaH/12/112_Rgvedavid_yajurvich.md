@@ -3,8 +3,4 @@ title = "112 ऋग्वेदविद् यजुर्विच्"
 
 +++
 
-निरुक्तव्याकरणमीमांसाभिर् वेदार्थो ज्ञायते । ते च सर्वे साधारणाः । न हि तत्रैकस्य वेदस्यार्थो ज्ञायते नान्यस्य[^३८६] नित्यम् अयं प्रकारो ऽस्ति । अथ ऋग्वेदादीत्यादि कथं भेदोपपत्तिः । तथा तत्र गृह्यसूत्रभेदेन चेदम् उक्तम् ॥ १२.११२ ॥
-
-
-[^३८६]:
-     M G: jñāyate 'nyasya
+A person knowing the Ṛgveda, a person knowing the Yajurveda, and a person knowing the Sāmaveda, shall be understood to form the assembly of at least three members, competent to decide doubtful points of law.—(112)

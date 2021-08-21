@@ -3,8 +3,4 @@ title = "126 इत्य् एतन्"
 
 +++
 
-**इतिः** शास्त्रसमाप्तिम् आह । **पठन्** **भवत्य्** **आचारवान्** । अन्यो अध्याहार्य आचारः । यथा पठितशास्त्रात् शास्त्रानुष्ठानम्[^४२७] । एवंविधश् चेद् भवति **यथेष्टां** देवतादिलक्षणां **गतिम्** ॥ १२.१२६ ॥
-
-
-[^४२७]:
-M G: paṭhitaśāstrāntarāt svanuṣṭhānaṃ
+The twice-born man who reads these Ordinances of Manu, shall be ever equipped with virtue and shall attain whatever state he may desire.—(126)

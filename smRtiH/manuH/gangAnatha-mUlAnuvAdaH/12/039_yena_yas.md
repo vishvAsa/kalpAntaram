@@ -3,4 +3,4 @@ title = "039 येन यस्"
 
 +++
 
-**एषां** गुणानां मध्ये **येन गुणेन** **यान्** **संसारान्** पुरुषः **प्रतिपद्यते** । **संसार**शब्दो गतिवचनः । यानि जन्मानि प्राप्नोतीत्य् अर्थः । तद् उत्तरत्र वक्ष्यत इति प्रतिज्ञाश्लोकः ॥ १२.३९ ॥
+I am now going to describe, briefly, in due order, those migratory states into which one falls through each quality from among these.—(39)

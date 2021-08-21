@@ -3,12 +3,4 @@ title = "031 वेदाभ्यासस् तपो"
 
 +++
 
-तत्संबन्ध**गुणलक्षणम्**[^८०] इत्य् एवं वक्तव्यतया प्रतिज्ञायते ।  **सात्विकम्** इति कथंचिद् योजयितव्यम् । गुणो लक्ष्यते येन तद् **गुणलक्षणम्** । तत् कस्येति । **सात्विकम्** इति संबन्धः । प्रयोजनं समुदायसंबन्ध्यवयवा अपि दृश्यन्ते । तेनैतद् उक्तं भवति । सत्त्वस्य[^८१] गुणस्यैतल् लक्षणम् । यथा देवदत्तस्य गुरुकुलम् । गुरुर् उपसर्जनीभूतो ऽपि देव्दत्तपदेन संबध्यते, तद्वद् एतत् द्रष्टव्यम् । पदार्था व्याख्याताः ॥ १२.३१ ॥
-
-
-[^८१]:
-     M G: saṃbandhasya
-
-
-[^८०]:
-     M G: tat kasyeti saṃbandha- (see kasyeti given later)
+Vedic study, austerity, knowledge, purity, control over the organs, practice of virtue and meditation on the Soul,—are the characteristics of the quality of ‘Sattva.’—(31)

@@ -3,4 +3,4 @@ title = "076 विविधाश् चैव"
 
 +++
 
-**करम्भः** कर्दमः । **कुम्भीषु** प्रक्षिप्तास् ते हि तापेनाग्नेयेनान्नादिवत् पच्यन्ते ॥ १२.७६ ॥
+Also various forms of torments, being devoured by ravens and owls, tortures from morasses and scorching sand, and terrible boiling in jars.—(76)

@@ -3,8 +3,4 @@ title = "017 तेनाऽनुभूय ता"
 
 +++
 
-**यमो** नाम देवताविशेषो दुष्कृतिनां निग्रहादिकृत् । तद्दृष्टा **यातना** अस्य । **ता** **अनुभूय** तेन[^५४] पाञ्चभौतिकेन **शरीरेण** । तानि शरीराणि पुनः **प्रलीयन्ते** **तासु** सूक्षमासु **भूतमात्रासु** ॥ १२.१७ ॥
-
-
-[^५४]:
-     M G: chalena
+After they have suffered, through this body, the torments inflicted by yama, those constituents become dissolved into each of those same material elements.—(17)

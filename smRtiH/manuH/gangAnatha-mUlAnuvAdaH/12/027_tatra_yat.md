@@ -3,8 +3,4 @@ title = "027 तत्र यत्"
 
 +++
 
-**प्रीतिसंयुक्तं** संवेदनं **शुद्धाभं** शुद्धम् इवाभाति रजस्तमोभ्याम् अकलुषितं मदमानरागद्वेषलोभमोहभयशोकमात्सर्यदोषरहितम् । एवं सर्वम् । एषा चावस्था स्वसंवेद्यैकस्यां[^७७] वेलायां भवेत् ॥ १२.२७ ॥
-
-
-[^७७]:
-     M G: svasaṃvedyaiva kasyāṃ
+Whenever one perceives in himself something full of bliss, calm and pure,—he should know it to be ‘Sattva.’—(27)

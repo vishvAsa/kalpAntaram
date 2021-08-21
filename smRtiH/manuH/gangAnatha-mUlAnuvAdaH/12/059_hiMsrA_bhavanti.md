@@ -3,8 +3,4 @@ title = "059 हिंस्रा भवन्ति"
 
 +++
 
-**क्रव्यादा** गृध्रादयः । **अमेध्यभक्षिणः** **कृमयः** । परस्परम् अदन्ति, यथा महामार्जारो मार्जारम्, महामत्स्यः सूक्ष्मं मत्स्यम्, नेकभेदम् इव । **अन्त्यस्त्रीनिषेविणो** ऽन्त्याः[^१०८] बर्बरादयः ॥ १२.५९ ॥
-
-
-[^१०८]:
-     M G omit: 'ntyāḥ
+Sanguinary persons become carnivorous animals; the eaters of impure food become worms; thieves become creatures consuming their own kind; and those having intercourse with women of the lowest caste become Pretas.—(59) 
