@@ -2,5 +2,8 @@
 title = "046 राजानः क्षत्रियाश्"
 
 +++
+**(verses 12.32-51)  
+**
 
-**राजानो** जनपदेश्वराः । **क्षत्रियास्** तदनुजीविनः सामन्ताः । **वादप्रधानाः** शास्त्रार्थगहनेष्व् इतरेतरं जल्पन्ति । **युद्धप्रधाना** योधकाः ॥ १२.४६ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

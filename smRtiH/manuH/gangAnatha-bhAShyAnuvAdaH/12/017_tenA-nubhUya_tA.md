@@ -2,9 +2,11 @@
 title = "017 तेनाऽनुभूय ता"
 
 +++
+‘*Yama*’ is the name of a particular deity, who inflicts punishments
+upon sinners,—which are spoken of here as ‘*torments*.’
 
-**यमो** नाम देवताविशेषो दुष्कृतिनां निग्रहादिकृत् । तद्दृष्टा **यातना** अस्य । **ता** **अनुभूय** तेन[^५४] पाञ्चभौतिकेन **शरीरेण** । तानि शरीराणि पुनः **प्रलीयन्ते** **तासु** सूक्षमासु **भूतमात्रासु** ॥ १२.१७ ॥
+After the man has ‘*experienced*’ these torments, through the said body
+of five constituent material substances,—those bodies become dissolved
+into the said subtle particles of those substances.—(17)
 
 
-[^५४]:
-     M G: chalena

@@ -2,9 +2,15 @@
 title = "117 एवं स"
 
 +++
+‘*The blessed Lord*’—Manu—propounded these Ordinances for the ‘*benefit
+of mankind*.’ This is what Bhṛgu says to his pupils.
 
-**स भगवान्** मनुर् **इदं** शास्त्रं **सर्वं** **लोकहिताय** **प्रोक्तवान्** इति भृगुः शिष्यान् आह । अनेनाधिकाराकांक्षा निवर्तते । **गुह्यं** यद् अध्यात्मं तद् अपि मनुर् माम् उपदिश्य प्रकाशयां चक्रे । मयापि[^३९३] यथागमं भवतां प्रकटीकृतम् इति न कार्याधिकाकांक्षा ॥ १२.११७ ॥
+This sets at rest all doubts regarding persons entitled to seek for
+knowledge.
+
+‘*Secret*’— the true philosophy of the Self also, the revered Manu has
+disclosed to me; and I also have disclosed it to you just as I heard it.
+So that you should not seek for any further knowledge on the
+subject.—(117)
 
 
-[^३९३]:
-     M G: mamāpi

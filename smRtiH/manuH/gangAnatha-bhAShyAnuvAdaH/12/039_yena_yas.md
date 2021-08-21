@@ -2,5 +2,11 @@
 title = "039 येन यस्"
 
 +++
+‘*From among these*.’—qualities;—by what quality what *migratory
+states*’ are fallen into by man;—‘*migratory states*’ standing for
+*states of existence*;—*i.e*., the births that he takes,—is going to be
+described in the following verses.
 
-**एषां** गुणानां मध्ये **येन गुणेन** **यान्** **संसारान्** पुरुषः **प्रतिपद्यते** । **संसार**शब्दो गतिवचनः । यानि जन्मानि प्राप्नोतीत्य् अर्थः । तद् उत्तरत्र वक्ष्यत इति प्रतिज्ञाश्लोकः ॥ १२.३९ ॥
+This verse promises what is going to be done.—(39)
+
+

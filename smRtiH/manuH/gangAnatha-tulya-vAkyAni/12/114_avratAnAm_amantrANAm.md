@@ -2,13 +2,10 @@
 title = "114 अव्रतानाम् अमन्त्राणाम्"
 
 +++
+*Baudhāyana* (1.1.16).—‘Many thousands cannot form an Assembly, if they
+have not fulfilled their sacred duties, are unacquainted with the Veda,
+and subsist only by the name of their caste.’
 
-**अव्रतानाम्** इति प्राग् उक्त एवार्थो व्यतिरेकद्वारेण कथ्यते । व्रतिनो वेदाध्यायिनः यं[^३८९] निश्चयं ब्रुवते तत्र न विचिक्त्सितव्यं विद्वद्भिर् अविद्वद्भिर् वा । अत एव न लघुपरिकल्पो गुणतुल्यवद् विकल्प्यते[^३९०] ॥ १२.११४ ॥
+*Vaśiṣṭha* (3.5).—(Same as above.)
 
-
-[^३९०]:
-     M G: vikalpate
-
-
-[^३८९]:
-     M G omit: yaṃ
+*Parāśara* (8.12).—(Same as Manu.)

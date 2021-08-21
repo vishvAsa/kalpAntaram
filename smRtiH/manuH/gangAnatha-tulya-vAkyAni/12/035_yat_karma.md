@@ -2,5 +2,8 @@
 title = "035 यत् कर्म"
 
 +++
+**(verses 12.32-51)  
+**
 
-यद् उक्तं "त्रिषु" (म्ध् १२.३४) इति कालनिर्देशस् तद् दर्शयति- **कृत्वा कुर्वन् करिष्यन्न्** इति च । कदाचित् त्रिष्व् अपि कालेषु कदाचिद् अन्यतरस्मिन् । "किम् अर्थम् अहम् एवम् अकरवं कथं शिष्टानाम् अग्रतो भवामि" इति **लज्जा** चेतसि परिखेदः ॥ १२.३५ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

@@ -2,5 +2,8 @@
 title = "047 गन्धर्वा गुह्यका"
 
 +++
+This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
+694);—in *Parāśaramādhava* (Prāyaścitta p. 488);—and in *Nṛsiṃhaprasāda*
+(Prāyaścitta 41a).
 
-**गन्धर्व्**आदयो देवास् तेषाम् अर्थवादेतिहासेभ्यो भेदो विज्ञेयः । **विबुधा** देवास् तेषाम् **अनुचराः** सिद्धविधाधरादयः ॥ १२.४७ ॥
+

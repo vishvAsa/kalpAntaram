@@ -2,5 +2,9 @@
 title = "020 यद्य् आचरति"
 
 +++
+‘*For the most part*’—to a very great degree.
 
-**प्रायशो** बाहुल्येन **तैर् एव भूतैर्** महदादिभिर् महाभूतपर्यन्तैः **स्वर्गे सुखम्** आप्नोति ॥ १२.२० ॥
+‘*Those same material substances*’—*i.e*., those beginning with the
+Great Principle and ending with the Great Elemental Substances.
+
+He obtains happiness in heaven.—(20)

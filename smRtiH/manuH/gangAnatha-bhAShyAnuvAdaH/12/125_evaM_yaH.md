@@ -2,9 +2,19 @@
 title = "125 एवं यः"
 
 +++
+‘*Attains Brahman*’—becomes unified with Brahman.
 
-**ब्रह्माभ्येति** ब्रह्मभावम् आपद्यते । मैत्राद्यवभासेन रागद्वेषक्षयम् अनुवदति । अनेन चाविजातीयप्रत्ययान्तरितात्मैकत्वज्ञानम् अनुष्ठेयम् आह । न हि विजातीयप्रत्ययोत्पत्तौ **सर्वसंमतता** भवति । अतश् चैतद् उक्तं भवति । अहं ममेति त्यक्ताहंकारममकारस्य तद् एकज्ञाननियततया निरतिशयपरमानन्दरूपं ब्रह्म प्राप्नोति । अनिष्टनिवृत्तिः शास्त्रप्रदर्शिताभिप्रेतनियमस्य प्राप्तिश् च[^४२६] फलसिद्धिर् भवति इत्य् अर्थः ॥ १२.१२३–२५ ॥
+Having cultivated sympathy for all beings, he experiences freedom from
+all love and hate.
 
+What this lays down is the propriety of concentrating oneself upon the
+idea of the *unity of the Self*, not allowing it to be interrupted by
+any notions of diversity. When the notion of diversity is present, one
+cannot become ‘equal towards all.’
 
-[^४२६]:
-     M G: -ābhipretapratiniyamena ca
+It is only when one has got rid of all notions of ‘I’ and
+‘mine,’—expressed in such ideas as—‘This is myself,’ ‘this is mine,’ and
+so forth,—that his notion of *unity* becomes fixed, and he attains
+‘Brahman,’ which is of the nature of unsurpassed Highest Bliss. That is,
+he is saved from all evil and attains that desirable result which has
+been described in the scriptures.—125

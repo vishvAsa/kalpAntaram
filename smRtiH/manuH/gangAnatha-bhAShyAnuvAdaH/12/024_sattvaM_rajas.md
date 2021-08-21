@@ -2,17 +2,23 @@
 title = "024 सत्त्वं रजस्"
 
 +++
+All that appertains to the Action-side of human activity has been
+expounded; what appertains to the Knowledge-side of it. is now set
+forth. And what is now stated, at the outset, deals with the subordinate
+factors, and hence appears to savour of *Dualism*.
 
-धर्माधर्म्योः कर्मकाण्डोपयोगि यत् तद् उक्तम् । इदानीं विद्याकाण्डम् आरिप्सते । तत्र द्वैताश्रयम् इव तावद् अङ्गार्थं प्रक्रियते । **सत्वा**दयस् **त्रयो गुणा आत्मनः** । नात्रात्मा जीवः । किं तर्हि, **महान्** एव । **आत्म**शब्दः स्वभाववचनो न प्रत्यक्त्ववचनः । निर्गुणो हि पुरुषः । 
+*Sattva* and the rest are the three qualities of the ‘Self.’ The term
+‘Self’ here stands, not for the Soul, but for the Great Principle. In
+fact, the term ‘*Self*’ denotes one’s *nature*, and not necessarily the
+*inner side of things*. And then the *Soul* by its very nature, is
+devoid of qualities.
 
-- अथ वा भोग्यतया भोक्तुर् एवात्मनः संबन्धित्वेन व्यपदिश्यते । 
+Or what is mentioned here refers to the Soul that undergoes
+experiences,—the qualities being the *object* of experience.
 
-- **महान्** इति च प्रधानम् एवोच्यते, प्रत्यासत्तेः । आद्या हि विक्रियोद्भूतिः प्रधानस्य महदाख्या । यथा जीवन्त्यौ जीवतौ[^७२] प्रमावस्थावाप्यभवान्[^७३] विकारान् अवस्थितः, प्रकृतित्वात् सर्वविकाराणाम् इदम् उच्यते ॥ १२.२४ ॥
+‘*Great One*’—This stands for Primordial matter itself,—this being what
+happens to be in closest proximity to the Great Principle, which is the
+first to evolve out of Primordial Matter. It is so called (the ‘Great
+One’) because it is the source of all Emanations.—(24)
 
 
-[^७३]:
-     M G: pramāvasthā vāpy atra bhavān
-
-
-[^७२]:
-     M G omit: jīvatau

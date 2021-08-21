@@ -2,23 +2,25 @@
 title = "036 येनाऽस्मिन् कर्मना"
 
 +++
+The motive being—‘by doing this act I shall obtain praise in the
+world,’—if one performs sacrifices, austerities or other righteous acts;
+as also such acts for winning fame as giving gifts to the beggars at
+sacred places, bragging against the king, expounding the scriptures
+before Śūdras, and so forth.
 
-"**लोके** साधुवादो ममैवं स्यात्" इति बुद्ध्या यद् यागतपोधर्माणाम्[^८४] आचरणं तच् च ख्यापनार्थम् । यथा तीर्थकाकेभ्यो[^८५] दानं राजनि स्पर्ध्या जल्पः शूद्रेभ्यः शास्त्रव्याख्यानम् । **पुष्कलाम्** इत्य् अनेनानुषङ्गित्वात् ख्यातेः सहायताम् आह । धर्मार्थं प्रवर्तमानस्य यदि जनाः प्रकाशयन्ति तादृशो धर्मो न दोषाय । तद् उक्तं "यथेक्षुहेतोः" इति । यथा महाभारताख्याने कृष्णद्वैपायनेनोक्तम्-
+‘*Great*.’—This implies that what is objectionable is the doing of the
+act with the *sole* motive of obtaining fame; there is nothing wrong if
+the fame comes, only by the way; if, for instance, people talk of the
+man’s righteous deeds, when these are done only through righteousness
+(and not for any other purpose), such fame does not vitiate the moral
+quality of the act; as has been declared to be the case with the man in
+picking up ‘sugar cane,’ as described by Kṛṣṇadvaipāyana in the story of
+the *Mahāhhārata*—‘When a man is gathering sugarcane, he gathers, along
+with it, also grasses and creepers; and in the same manner, the man,
+when treading the path of righteousness, also obtains fame, happiness
+and wealth.’
+
+‘*Failure*’—of the results to appear;—‘*he does not mind*’—feels no
+sorrow; or ‘*failure*’ may mean the *non-completion of the act*.—(36)
 
 
-[^८५]:
-     M G: -kālebhyo
-
-
-[^८४]:
-     M G: -dhanānām
-
-- यथेक्षुसक्तो युधि कर्षको ऽस्ति तृणानि वल्लीर् अपि संचिनोति[^८६] ।
-
-
-[^८६]:
-     M G: saṃcarante
-
-- तथा नरो धर्मपथेन संचरन् यशश् च कामांश् च वसूनि चाश्नुते ॥
-
-**असम्पत्तौ** च कर्मफलानाम् । **न शोचति** न दुःखम् अस्ति । अथ वा कर्मणाम् **असंपत्तौ** ॥ १२.३६ ॥

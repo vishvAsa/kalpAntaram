@@ -2,5 +2,17 @@
 title = "051 एष सर्वः"
 
 +++
+‘*Of three kinds*’—arising from speech, mind and body.
 
-**त्रिःप्रकारस्य** वाङ्मनःकायसाधनस्य । **त्रिविधः** सत्त्वादिगुणभेदेन । पुनस् **त्रिविधः** उत्तमादिविशेषतः । या प्य् अत्र गतयो विशेषतो ऽनुक्तास् ता अप्य् उक्तसादृश्याद् अन्तर्भावनीयाः । गुणप्रकरणोपसंहारः । उत्तरो ऽपि श्लोको वक्ष्यमाणसूचकः ॥ १२.५१ ॥
+‘*Thrice*’—according to the three qualities of ‘*Sattva*’ and the rest.
+
+‘*Threefold*’—as divided into ‘good,’ ‘bad,’ and ‘middling.’
+
+Those other ‘states’ that may not have been mentioned here are to be
+understood as resembling, and hence included among, those already
+mentioned.
+
+This verse sums up the section on the *Three Qualities*; and the next is
+indicative of what is to follow.—(51)
+
+

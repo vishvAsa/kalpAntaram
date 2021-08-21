@@ -2,13 +2,20 @@
 title = "031 वेदाभ्यासस् तपो"
 
 +++
+‘*The characteristics of the quality*’ is the declaration of the subject
+of treatment.
 
-तत्संबन्ध**गुणलक्षणम्**[^८०] इत्य् एवं वक्तव्यतया प्रतिज्ञायते ।  **सात्विकम्** इति कथंचिद् योजयितव्यम् । गुणो लक्ष्यते येन तद् **गुणलक्षणम्** । तत् कस्येति । **सात्विकम्** इति संबन्धः । प्रयोजनं समुदायसंबन्ध्यवयवा अपि दृश्यन्ते । तेनैतद् उक्तं भवति । सत्त्वस्य[^८१] गुणस्यैतल् लक्षणम् । यथा देवदत्तस्य गुरुकुलम् । गुरुर् उपसर्जनीभूतो ऽपि देव्दत्तपदेन संबध्यते, तद्वद् एतत् द्रष्टव्यम् । पदार्था व्याख्याताः ॥ १२.३१ ॥
+The term ‘*sāttvikam*’ is to be construed with difficulty as
+follows:—‘*Guṇalakṣaṇam*’ is *that by which the quality is
+characterised*; and the question arising ‘of what quality?’—the answer
+is supplied by the term ‘*sāttvikam*,’ ‘*of sattva*.’—When need arises,
+even the part of a compound becomes construed by itself, with another
+word; and the meaning thus comes to be that—‘this is the characteristic
+of the quality of ‘*Sattva*.’ This phrase should be understood to stand
+on the same footing as the phrase ‘*devadattasya gurukulam*,’ where the
+term ‘*guru*’ though forming the subordinate factor of the compound
+‘*gurukulam*,’ is construed with the term ‘*devadattasya*.’
+
+The meaning of the words has been already explained.—(31)
 
 
-[^८१]:
-     M G: saṃbandhasya
-
-
-[^८०]:
-     M G: tat kasyeti saṃbandha- (see kasyeti given later)

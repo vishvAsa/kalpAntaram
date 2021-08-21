@@ -2,5 +2,8 @@
 title = "064 कौशेयन् तित्तिरिर्"
 
 +++
+**(verses 12.60-68)  
+**
 
-**दर्दुरः** मण्डूकस्तोकः ॥ १२.६४ ॥
+See Comparative notes for [Verse
+12.60](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202240.html#comparative-notes "English translation of verse").

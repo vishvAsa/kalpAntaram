@@ -2,5 +2,9 @@
 title = "076 विविधाश् चैव"
 
 +++
+‘*Karambha*’ is *morass*.
 
-**करम्भः** कर्दमः । **कुम्भीषु** प्रक्षिप्तास् ते हि तापेनाग्नेयेनान्नादिवत् पच्यन्ते ॥ १२.७६ ॥
+‘*Kumbhīpāka*’—The men are thrust into jars and cooked, like food and
+other things.—(76)
+
+

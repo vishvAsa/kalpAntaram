@@ -2,5 +2,14 @@
 title = "083 वेदाभ्यासस् तपो"
 
 +++
+The term ‘*highest good*’ stands, not for the accomplishment of one’s
+personal ends, but for the sure continuity of happiness.
 
-**निःश्रेयस**शब्देन न पुनः पुरुषार्थसिद्धिर् उच्यते, अपि तु निश्चितसुखदुःखानुबन्धः प्रीतिविशेषो ऽपि । **वेदाभ्यासा**दीनां तत्र तत्रोक्तानां पुनर्वचनम् आत्मज्ञानस्तुत्यर्थम् । **ज्ञानं** वेदार्थविषयम् । उक्तार्थान्य् अन्यानि पदानि ॥ १२.८३ ॥
+‘Vedic Study’ and other things, already described before, have been
+repeated here, for the purpose of eulogising the Knowledge of Self.
+
+‘*Knowledge*’—of what is contained in the Veda.
+
+The terms have been already explained.—(83)
+
+

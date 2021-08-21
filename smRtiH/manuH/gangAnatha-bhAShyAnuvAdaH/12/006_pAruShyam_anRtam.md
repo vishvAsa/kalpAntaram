@@ -2,5 +2,11 @@
 title = "006 पारुष्यम् अनृतम्"
 
 +++
+‘*Abusing*’—uttering of words causing pain to others.
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+‘*Calumniating*’—detracting from the merits of others, on account of
+jealousy.
+
+‘*Idle prattling*’ and^(‘)telling an untruth.’—(6)
+
+

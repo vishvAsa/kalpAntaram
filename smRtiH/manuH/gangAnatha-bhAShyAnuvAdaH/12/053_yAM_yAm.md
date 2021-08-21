@@ -2,5 +2,6 @@
 title = "053 यां याम्"
 
 +++
+\[The *Bhāṣya* has nothing to say on this.\]
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+

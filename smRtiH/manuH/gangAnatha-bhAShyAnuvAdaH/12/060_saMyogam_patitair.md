@@ -2,5 +2,6 @@
 title = "060 संयोगम् पतितैर्"
 
 +++
+\[The *Bhāṣya* has nothing to say on this verse\]
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+

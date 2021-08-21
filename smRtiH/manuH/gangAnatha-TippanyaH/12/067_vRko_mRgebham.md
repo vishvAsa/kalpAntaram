@@ -2,5 +2,10 @@
 title = "067 वृको मृगेभम्"
 
 +++
+**(verses 12.64-67)  
+**
 
-"जलं प्लवः (म्ध् १२.६२) इत्य् अत्र पानार्थम् उदकं ज्ञेयम् । **स्तोकको** **वारी**त्य् अत्र धान्यसेकाद्यर्थम् । "रसश्" चाद्यं रसम् आहुर् यदि वातिरिकौषधादि द्रष्टव्यम् (म्ध् १२.६२) ॥ १२.६७ ॥
+See Comparative notes for [Verse
+12.64](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202244.html#explanatory-notes "English translation of verse").
+
+

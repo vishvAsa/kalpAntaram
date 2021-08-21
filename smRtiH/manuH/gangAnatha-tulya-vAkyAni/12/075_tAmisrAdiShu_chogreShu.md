@@ -2,5 +2,12 @@
 title = "075 तामिस्रादिषु चोग्रेषु"
 
 +++
+**(verses 12.75-76)**
 
-"तामिस्रम् अन्धतामिस्रम्" (म्ध् ४.८८) इत्याद्याः प्रागुक्ता **नरकाः** । तत्र **विवर्तनम्** एकेन पार्श्वेनासित्वा पार्श्वान्तरेणावर्तनम् अबद्धस्योत्तानस्य वा खड्गधारानि**शितपत्रैर्** वृक्षैर् बन्धनम् । भूमिष्ठैर् वा पत्रैर् एव कदलीदलखण्डवत् तथाविधैर् मैत्री दुष्कृतिनाम् अङ्गच्छेदप्राप्तिः ॥ १२.७५ ॥
+[\[See above,
+4.88-89.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200193.html#comparative-notes)
+
+*Yājñavalkya* (3.206).—‘Having passed through most despised hells, by
+virtue of their grievous sins, and thus having their had Karma
+exhausted, those who had committed heinous offences become born again in
+the world.’

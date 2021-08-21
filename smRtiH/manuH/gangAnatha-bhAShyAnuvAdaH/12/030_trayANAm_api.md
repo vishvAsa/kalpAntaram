@@ -2,5 +2,8 @@
 title = "030 त्रयाणाम् अपि"
 
 +++
-
-**त्रयाणाम्** एषाम् आसेव्यमानानां यत् फलम् उत्पद्यत उत्तमाधममध्यमं तद्वक्तव्यतया प्रतिज्ञायते । यस्मिन् गुण उद्रिक्ते यः पुरुषस्य स्वभावो भवति स उच्यत इति प्रतिज्ञा ॥ १२.३० ॥
+‘*These three*’—when they are duly practised, there proceed certain
+results,—which are either good, bad or middling:—and this is what is now
+promised as the subject to be dealt with; the exact form of the promise
+being—‘I am now going to describe that character which the man acquires
+as the result of the predominance of a particular quality.’—(30)

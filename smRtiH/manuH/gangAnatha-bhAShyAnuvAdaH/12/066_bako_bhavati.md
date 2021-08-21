@@ -2,5 +2,6 @@
 title = "066 बको भवति"
 
 +++
+\[The *Bhāṣya* has nothing to say on this.\]
 
-(पृथग् व्याख्यानं नास्ति।)
+

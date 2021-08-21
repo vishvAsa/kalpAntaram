@@ -2,9 +2,8 @@
 title = "045 झल्ला मल्ला"
 
 +++
+This verse is quoted in *Aparārka* (p. 1000);—in *Madanapārijāta* (p.
+693);—in *Parāśaramādhava* (Prāyaścitta p. 488);—and in *Nṛsiṃhaprasāda*
+(Prāyaścitta, 41a).
 
-**झल्ला मल्ला** इति रङ्गावतारकाः । तत्र **मल्ला** बाहुयोधिनः । **झल्ला** यष्टिप्रहारिणः परिहासजीविनो वा[^९०] ॥ १२.४५ ॥
 
-
-[^९०]:
-     M G omit: vā

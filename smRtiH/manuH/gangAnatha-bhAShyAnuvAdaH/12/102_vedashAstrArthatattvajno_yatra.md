@@ -2,13 +2,13 @@
 title = "102 वेदशास्त्रार्थतत्त्वज्ञो यत्र"
 
 +++
+‘*Union with Brahman*’—becoming one with Brahman, (*i.e*., attaining
+Brahman).
 
-**ब्रह्मभूयाय** ब्रह्मभावाय ब्रह्मत्वप्राप्तये इति यावत् । **यत्र**[^३०५] **तत्रे**ति व्युत्थाय व्युत्क्रमेणापि । यथोक्तम् "विद्वेषणाच् चाप्य् उत्थाय ब्राह्मणा भिक्षाचर्यम् अनुवेद्य[^३०६] व्रजन्ति" इति ॥ १२.१०२ ॥
+‘*In whatever*’—*i.e*., even though he may not take to the several
+stages in the regular order. This is what has been referred to in such
+passages as—‘Brāhmaṇas, deviating from the regular path, pass on to the
+stage of the Mendicant immediately after passing through that of the
+Student.’—102
 
 
-[^३०६]:
-     DK (5: 114): anuvidya
-
-
-[^३०५]:
-     M G omit: yatra

@@ -2,13 +2,15 @@
 title = "104 तपो विद्या"
 
 +++
+What is meant by this is that, even though one may possess
+knowledge,—until his sins have been destroyed, he does not attain
+Liberation;—nor if, though his sins may have been destroyed, he has not
+acquired knowledge of the Self.
 
-अनेनैतद् दर्सयति । सत्यां अपि विद्यायां नाक्षीणपापस्य मोक्षः, सत्य् अपि कर्मक्षये नासत्याम् आत्मविद्यायाम् । अतो यद् उक्तम् "ते स्वभावेन[^३१५] मुच्यन्ते" इति, तद् असत् । **अमृतम्** अपुनरावृत्तिर् येयं केवलानन्दरूपता[^३१६] ॥ १२.१०४ ॥
+Thus there is no truth in the assertion that man attains Liberation by
+his very nature.
+
+‘*Immortality*’—not returning to metempsychic birth; which has also been
+described as consisting in pure Bliss.—(104)
 
 
-[^३१६]:
-     M G: balānandarūpatā
-
-
-[^३१५]:
-     M G: tu bhāvena

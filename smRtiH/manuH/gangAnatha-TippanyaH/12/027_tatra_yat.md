@@ -2,9 +2,9 @@
 title = "027 तत्र यत्"
 
 +++
+This verse is quoted in *Aparārka* (p. 999), which has the following
+notes:—‘*Prīti*’ is *sukha*, happiness; what brings about this happiness
+is ‘*prītisaṃyuktam*’;—*śuddhābham*, the source of faultless
+knowledge,—this is ‘*Sattva*.’
 
-**प्रीतिसंयुक्तं** संवेदनं **शुद्धाभं** शुद्धम् इवाभाति रजस्तमोभ्याम् अकलुषितं मदमानरागद्वेषलोभमोहभयशोकमात्सर्यदोषरहितम् । एवं सर्वम् । एषा चावस्था स्वसंवेद्यैकस्यां[^७७] वेलायां भवेत् ॥ १२.२७ ॥
 
-
-[^७७]:
-     M G: svasaṃvedyaiva kasyāṃ

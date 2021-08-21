@@ -2,5 +2,8 @@
 title = "063 मांसङ् गृध्रो"
 
 +++
+**(verses 12.60-68)  
+**
 
-> **कौशेयं तित्तिरिर् हृत्वा क्षौमं हृत्वा तु दर्दुरः ।**  
+See Comparative notes for [Verse
+12.60](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202240.html#comparative-notes "English translation of verse").

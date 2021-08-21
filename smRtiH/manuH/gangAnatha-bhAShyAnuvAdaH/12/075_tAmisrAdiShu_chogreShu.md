@@ -2,5 +2,14 @@
 title = "075 तामिस्रादिषु चोग्रेषु"
 
 +++
+The ‘*Tāmisra*,’ the ‘*Aṇḍhatāmisra*’ and other hells have been
+enumerated above (under 4.80).
 
-"तामिस्रम् अन्धतामिस्रम्" (म्ध् ४.८८) इत्याद्याः प्रागुक्ता **नरकाः** । तत्र **विवर्तनम्** एकेन पार्श्वेनासित्वा पार्श्वान्तरेणावर्तनम् अबद्धस्योत्तानस्य वा खड्गधारानि**शितपत्रैर्** वृक्षैर् बन्धनम् । भूमिष्ठैर् वा पत्रैर् एव कदलीदलखण्डवत् तथाविधैर् मैत्री दुष्कृतिनाम् अङ्गच्छेदप्राप्तिः ॥ १२.७५ ॥
+‘*Being tossed about in this*’—lying on one side and turning on the
+other and so forth.
+
+Being bound up to the sword-like leaves of trees; or being ‘mangled’ by
+these same leaves lying scattered on the ground—the limbs being cut
+about like a piece of plantain-stalk.—(75).
+
+

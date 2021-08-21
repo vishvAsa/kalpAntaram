@@ -2,33 +2,29 @@
 title = "089 इह चाऽमुत्र"
 
 +++
+‘*In this world*’—such as the *Kārīrī* (which brings on rain), the
+*Vaiśvānarī* (which secures a son), and so forth.
 
-**इह** कारीरीवैश्वानर्यादि,[^१८०] **अमुत्र** ज्योतिष्टोमादि काम्यसंपादकं कर्म । काम्यत इति **काम्यम्** । फलस्य काम्यत्वात् तत्साधनम्[^१८१] अपि कर्म काम्यम्[^१८२] एव । **निष्कामं** नित्यम् । **ज्ञानपूर्वम्**[^१८३] उभयत्र शेषम्, अविदुषो ऽनाधिकारात् । अथापि[^१८४] रहस्याधिकारिज्ञानम् उपदिश्यते । तदा नोभयशेषः[^१८५] । **पूर्व**शब्दश् चाद्यर्थं[^१८६] लक्षयति । ज्ञानम् आद्यं मुख्यं यस्येति विग्रहः । यो ऽभिमुख्यः स लोकः पूर्वं क्रियां प्रतिलभते । अतश् चैतद् उक्तं भवति । ज्ञानं प्रधानं प्रधानतो ऽनुष्ठेयम् । वेदाभ्यासादि तु शास्त्रमात्रया ॥ १२.८९ ॥
+‘*In the next*’—such as the *Jyotiṣṭoma* and the like.
 
+All these are acts that bring about the fulfilment of some desired end.
+What is ‘*Kāmya*’ (*lit*. ‘desirable’) is really the *reward*; but the
+term is made applicable here to the *action* which brings about that
+reward; since as an instrument, that also is ‘desirable.’
 
-[^१८६]:
-     DK (5: 638) suggests: ādyārthaṃ
+‘*Niṣkāma*,’ which is done without desire for any reward, is the
+compulsory act.
 
+‘*With knowledge*’—is to be construed with both, as a man devoid of
+knowledge is not entitled to the performance of any Vedic Act If however
+‘*knowledge*’ be taken as that of the *esoteric* section only, then it
+cannot qualify both. \[It can go with the latter only.
 
-[^१८५]:
-     M G: tadubhayaśeṣaḥ
-
-
-[^१८४]:
-     M G: anayor api
-
-
-[^१८३]:
-     M G: jñātaṃ pūrvam; J: jñātapūrvam (I think it should be jñāna, as Jha's translation and the vigraha of the compound given below suggest)
-
-
-[^१८२]:
-     M G: kāmyata
-
-
-[^१८१]:
-     M G omit: tat-
+The term ‘*pūrva*’ in the compound ‘*Jñānapūrvam*’ denotes *precedence*;
+hence the compound means ‘that of which knowledge forms the important
+factor.’ And the purport then comes to be that ‘knowledge is to be
+pursued as the most important end in view; and Vedic Study and other
+acts are to be pursued only to the extent that they have been enjoined
+by the scriptures.’—(89)
 
 
-[^१८०]:
-     J: kārīrā-

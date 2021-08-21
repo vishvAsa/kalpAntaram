@@ -2,5 +2,7 @@
 title = "060 संयोगम् पतितैर्"
 
 +++
+This verse is quoted in *Parāṣharamādhava* (Prāyaścitta p. 492 and p.
+511).
 
-(अग्रिमे श्लोके व्याख्यातम्।)
+

@@ -2,7 +2,6 @@
 title = "008 मानसम् मनसैवाऽयम्"
 
 +++
-
-<u>परस्य</u> मनस्तापो येन जन्यते कर्मणा ततो **मानसं** दुःखम् आप्नोतीति केचित् । 
-
-- <u>वयं</u> तु ब्रूमो यत् त्रिविधं मानसम् उक्तं ततो मनोदुःखाप्तिः । एवम् उत्तरयोर् अपि ॥ १२.८ ॥
+*Hārīta* (Aparārka, p. 998).—‘In the body, he suffers the consequences
+of his bodily acts; in his speech, those of his vocal acts; and in the
+mind, those of his mental acts.’

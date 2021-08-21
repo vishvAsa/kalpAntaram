@@ -2,5 +2,4 @@
 title = "078 असकृद् गर्भवासेषु"
 
 +++
-
-स्पष्टार्थः ॥ १२.७८ ॥
+The meaning of this is quite clear.—(78)

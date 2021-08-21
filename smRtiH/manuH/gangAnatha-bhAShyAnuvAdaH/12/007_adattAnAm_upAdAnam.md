@@ -2,5 +2,16 @@
 title = "007 अदत्तानाम् उपादानम्"
 
 +++
+Accepting from unworthy people of what has not been given, and what is
+itself an impure thing.
 
-शास्त्रीयाप्राधान्यतयास्य्**आदत्तानाम्** असद्भ्य **उपादानं** दुष्टं चैव । तथा कुमार्यादि**परदारादाव्** अपि । विपरीतधर्मादानं परित्राणम् इन्द्रियसंयमश् च । इदं मनोवाग्देहभेदेन दशविधम् । प्रवृत्तिकुशलाकुशलविभागेन विंशतिप्रकाराः ॥ १२.७ ॥
+^(‘)*Wives of others*’—includes unmarried maidens also.
+
+As against these there are—accepting proper gifts in the proper manner,
+protecting others and controlling of the organs.
+
+Thus has Action proceeding from Mind, Speech and Body, been described as
+being of^(‘)ten kinds’; and according as each of these is either ‘good’
+or ‘bad,’ we have *twenty* kinds.—(7)
+
+

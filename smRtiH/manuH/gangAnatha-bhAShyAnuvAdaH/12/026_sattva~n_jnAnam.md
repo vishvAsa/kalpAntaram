@@ -2,17 +2,22 @@
 title = "026 सत्त्वञ् ज्ञानम्"
 
 +++
+Such in general is the character of these, pervading over all living
+beings.
 
-सामान्यम् एतद् एषां लक्षणं व्यापि सर्वप्राणिषु । **ज्ञानं** वेदकम् । **अज्ञानं** मोहः, न यथा मदमूर्च्छाद्यवस्थास्व् अचैतन्यम् एव[^७४] । उभयरूपता **रजः** । रागद्वेषशब्देनोभयधर्मयोग उच्यते । नापि सम्यग्ज्ञानवशानाम् अतिशयेन क्रोधो न चातिप्रमादः[^७५] । तत् तद् रजः । **वपुः** स्वभावः । अनुच्छेदाद् बीजवासनाया आ ब्रह्मप्राप्तिस्थितत्वात्[^७६] ॥ १२.२६ ॥
+‘*Knowledge*’—cognition.
+
+‘*Ajñana*,’ ‘*Ignorance*’—stands for *Delusion*; not for the
+unconsciousness caused by intoxication, swoon or such other causes.
+
+‘*Rajas*’ has a two-fold character; the two terms ‘*rajas*’ and
+‘*tamas*,’ being indicative of two distinct characteristics.
+
+Those who are influenced by knowledge and wisdom are never affected by
+too much anger, nor are they ever careless.
+
+‘*Vapuḥ*,’ ‘*nature*’—character.—This is all-pervading, because the seed
+of impressions is never destroyed, lasting as it does till one has
+attained Brahman—(26)
 
 
-[^७६]:
-     M G: place anucchedād bījavāsanāyā ā brahmaprāptisthitatvāt under verse 27, after evaṃ sarvam
-
-
-[^७५]:
-     M G J: cātiprasādaḥ (but Jha's translation assumes pramāma)
-
-
-[^७४]:
-     M G places yathā . . . acaitanyam eva after ucyate

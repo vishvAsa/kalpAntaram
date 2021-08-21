@@ -2,13 +2,13 @@
 title = "041 त्रिविधा त्रिविधैषा"
 
 +++
+‘*This threefold migratory state*’— due to ‘*Sattva*’ and the other
+qualities,—is ‘*of three kinds each*’—according as it is ‘*high, low or
+middling*’; thus they come to be of nine kinds;—there are endless
+varieties of states, due to ‘*the peculiar character of the act and
+knowledge of each man*’; acts are of various kinds, according as they
+are good or bad, intentional or unintentional, and so forth. This is
+what is meant by the phrase ‘*in accordance with the peculiar character
+of acts and knowledge*’—(41)
 
-**एषा त्रिविधा गौणिकी** सत्त्वादिगुणप्रयुक्ता प्रत्येकं पुनः **त्रिविधो**त्तमाधममध्यमभेदेन। अतो नवधा संपद्यते । **कर्मविद्याविशेषाच्** चानन्ताः, कुशलाकुशलकर्मवशात् । बुद्धिपूर्वाबुद्धिपूर्वप्रयोगाच्[^८८] च कर्मणां[^८९] बहुभेदत्वात् । तद् इदम् आह **कर्मविद्याविशेषत** इति ॥ १२.४१ ॥
 
-
-[^८९]:
-     M G add: ca
-
-
-[^८८]:
-     M G: buddhipūrvaprayogaś

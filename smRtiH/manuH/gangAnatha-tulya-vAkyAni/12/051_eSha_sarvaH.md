@@ -2,5 +2,8 @@
 title = "051 एष सर्वः"
 
 +++
+**(verses 12.32-51)  
+**
 
-**त्रिःप्रकारस्य** वाङ्मनःकायसाधनस्य । **त्रिविधः** सत्त्वादिगुणभेदेन । पुनस् **त्रिविधः** उत्तमादिविशेषतः । या प्य् अत्र गतयो विशेषतो ऽनुक्तास् ता अप्य् उक्तसादृश्याद् अन्तर्भावनीयाः । गुणप्रकरणोपसंहारः । उत्तरो ऽपि श्लोको वक्ष्यमाणसूचकः ॥ १२.५१ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

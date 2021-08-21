@@ -2,39 +2,16 @@
 title = "103 अज्ञेभ्यो ग्रन्थिनः"
 
 +++
+‘*Ajñebhyaḥ*’.—‘Entirely ignorant’ (Medhātithi and Nārāyaṇa), ‘who have
+not read the Veda’ (Nandana),—‘who have learnt a little’ (Govindarāja
+and Kullūka).
 
-**अज्ञा** मूर्खा अनधीयानाः । **ग्रन्थिनः**[^३०७] विद्वांसो ग्रन्थमात्राभिधायिनः । तेभ्यो **धारिण** इत्य् एतद् यत्नेन पठन्तः[^३०८] । पूर्वे तु नातिप्रयत्नतः । ग्रन्थस्येति तत्रापि संबध्यते "ग्रन्थस्य धारिणः" इति । श्रेष्ठत्वम्[^३०९] एतेषां जपप्रतिग्रहादिष्व् अधिकारात् । **ज्ञानिनस्** तु सर्वत्राधिकृता इति श्रेष्ठतराः । ज्ञानपूर्वं जपादयो ऽनुष्ठीयमानाः फलातिशयदायिनो भवन्ति । तद् उक्तम् "यद् एव विद्यया करोति श्रद्धयोपनिषदा तद् एव वीर्यवत्तरं भवति" (छु १.१.१०) इति । **व्यवसायिनः**[^३१०] अनुष्ठातारो निर्विचिक्त्साः[^३११] । येषाम् एतद्[^३१२] अन्यथेति न[^३१३] शक्यते । 
+‘*Granthinaḥ*’.—‘Forgetful students’ (Kullūka and Nandana),—‘those who
+learn the verbal text alone and do not ponder, over the meaning’,
+(Medhātithi, Govindarāja and Nārāyaṇa).
 
-
-[^३१३]:
-     M G omit: na
-
-
-[^३१२]:
-     M G: naitad
-
-
-[^३११]:
-     M G: nirviciktsādyā
-
-
-[^३१०]:
-     M G: anyavaśānām
-
-
-[^३०९]:
-     M G: śreṣṭham
-
-
-[^३०८]:
-     M G: amatyā paratāṃ
-
-
-[^३०७]:
-     M G: na punar
-
-- एतद् अपि स्तुत्यर्थम् । अध्ययनमात्रेण वेदाः पुरुषार्थाय प्रभवन्ति, किं पुनस् तदर्थज्ञानम्[^३१४] ॥ १२.१०३ ॥
-
-
-[^३१४]:
-     M G: tadarthā naiva
+This verse is quoted in *Smṛtitattva* II (p. 73), which adds the
+following notes:—‘*Granthinaḥ*,’ who can read only with the help of the
+book,—‘*Dhāriṇaḥ*,’ who can read without the help of the
+book,—‘*Jñāninaḥ*,’ who have studied the scriptures and know their
+meaning.

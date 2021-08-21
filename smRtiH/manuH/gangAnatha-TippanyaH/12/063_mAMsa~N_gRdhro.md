@@ -2,5 +2,6 @@
 title = "063 मांसङ् गृध्रो"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 511).
 
-> **कौशेयं तित्तिरिर् हृत्वा क्षौमं हृत्वा तु दर्दुरः ।**  
+

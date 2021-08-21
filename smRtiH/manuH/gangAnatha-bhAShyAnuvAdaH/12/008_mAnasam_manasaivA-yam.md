@@ -2,7 +2,13 @@
 title = "008 मानसम् मनसैवाऽयम्"
 
 +++
+Some people explain this to mean that when by his act, a man causes
+mental pain to others, he himself experiences, in return, mental pain.
 
-<u>परस्य</u> मनस्तापो येन जन्यते कर्मणा ततो **मानसं** दुःखम् आप्नोतीति केचित् । 
+Our opinion is that one experiences mental suffering as the result of
+*all the three kinds* of ‘mental acts.’
 
-- <u>वयं</u> तु ब्रूमो यत् त्रिविधं मानसम् उक्तं ततो मनोदुःखाप्तिः । एवम् उत्तरयोर् अपि ॥ १२.८ ॥
+Similarly in the case of the other two (Verbal and Bodily acts)
+also.—(8)
+
+

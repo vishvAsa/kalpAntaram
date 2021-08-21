@@ -2,13 +2,8 @@
 title = "028 यत् तु"
 
 +++
+**(verses 12.27-29)  
+**
 
-
-[^७८]:
-     M G: hāri
-
-**दुःखेन समायुक्तं** संभिन्नं शुद्धं प्रीतिरूपं न भवत्य् अत उच्यते **अप्रीतिकरं** दुःखानुविद्धतया प्रीत्या न युक्तम् । **अप्रतिपम्** अप्रत्यक्षं पारमार्थिकम् । एतद् रजसो रूपं **हर्तृ**विषयेषु[^७९] प्रवर्तकं स्पृहाजनकम् इत्य् अर्थः ॥ १२.२८ ॥
-
-
-[^७९]:
-     M G: bhartṛviṣayeṣu
+See Comparative notes for [Verse
+12.27](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202207.html#comparative-notes "English translation of verse").

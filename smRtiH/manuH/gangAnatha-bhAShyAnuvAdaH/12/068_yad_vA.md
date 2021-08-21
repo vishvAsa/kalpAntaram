@@ -2,5 +2,6 @@
 title = "068 यद् वा"
 
 +++
+There is nothing here that is not quite clear.—(68)
 
-नात्र तिरोहितम् इव किंचिद् अस्ति ॥ १२.६८ ॥
+

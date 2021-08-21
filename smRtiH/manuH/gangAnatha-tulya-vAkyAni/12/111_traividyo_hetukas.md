@@ -2,55 +2,17 @@
 title = "111 त्रैविद्यो हेतुकस्"
 
 +++
+*Baudhāyana* (1.1, 8).—‘They quote the following:—“Four men, each of
+whom knows one of the four Vedas, a *Mīmāṃsaka*, one who is conversant
+with the subsidiary sciences, one who recites the sacred law, and three
+Brāhmaṇas belonging to three different orders, constitute an Assembly
+consisting of at least ten members.’
 
-पुरुषप्रधाने ऽपि निर्देशे गुणपरतैव विज्ञेया ।[^३७६] यस् **त्रैविद्यः** वेदत्रयस्याध्येता तदर्थस्य च वेदिता ।[^३७७] अनुमानादिकुशलः । **तर्की** अयम् ऊहापोहबुद्धियुक्तः । 
+*Gautama* (28.49).—(See above under CX.)
 
+*Vaśiṣṭha* (3.20).—‘Four students of the four Vedas, one knowing
+Mīmāṃsā, one knowing the subsidiary sciences, a teacher of the sacred
+law, and three eminent men of the three different orders compose a legal
+assembly consisting of at least ten members.’
 
-[^३७७]:
-     DK (5: 124) suggests adding: haitukaḥ
-
-
-[^३७६]:
-     M G add: pūrvoktāc cetoviṣāṇīvaruddhān pratibāladhiḥ sāprāvaniti gotrelipsām iti (the reading here is unclear)
-
-- <u>ननु</u> च नैवंविदो वेदार्थवित्त्वम् एव संभवतीत्य् उक्तम् । 
-
-- <u>सत्यम्</u> । परोपदेशाद् अपि कस्यचिद् याचनावती वेदार्थमात्रा[^३७८] संभवत्य् अपि । अतश् च प्रत्ययेन विना वेदार्थग्रहणार्थहेतुकेन[^३७९] भातीत्य् उक्तम् । 
-
-
-[^३७९]:
-     M G: vedārthaṃ gra-
-
-
-[^३७८]:
-     M G: vedanamātrā
-
-- एतेन **नैरुक्तो** व्याख्यातः । **धर्मपाठको** मन्वादिस्मृतिशास्त्राणाम्[^३८०] अध्येता । **त्रयश् चाश्रमिणो** ह्य् एते ह्य् अनुष्ठानपराः कुशलतरा धर्मेषु भवन्ति । **पूर्वे**[^३८१] । 
-
-
-[^३८१]:
-     M G: pūrvo
-
-
-[^३८०]:
-     M G: -smṛtiśrutiśāstrāṇām
-
-- ब्रह्मचारी गृहस्तो भिक्षुर् <u>इत्य्</u> <u>एके</u> । तस्य हि ग्रामप्रवेशो न निषिद्धः,[^३८२] गौतमेन चेयम् आनुपूर्वी[^३८३] पठिता- "ब्रह्मचारी गृहस्थो भिक्षुर् वैखानसः" (ग्ध् ३.२) इति ।
-
-
-[^३८३]:
-     M G: ceyaṃ mānuṣī
-
-
-[^३८२]:
-     M G J: nāniṣiddhaḥ (I follow DK 5: 124)
-
-- <u>अन्ये</u> त्व् आहुः- हिंसानुज्ञा नास्तीति, कथम् असौ धर्मम्[^३८४] आश्रयेत्[^३८५] । तस्मात् तापससकाशम् अन्यैः सह गन्तव्यम् ॥ १२.१११ ॥
-
-
-[^३८५]:
-     M G: dharmāśrayāt; J: dharmāśrayet (my reading is a conjecture)
-
-
-[^३८४]:
-     DK (5: 125) suggests: adharmam
+*Parāśara* (8.34).—(Same as Manu.)

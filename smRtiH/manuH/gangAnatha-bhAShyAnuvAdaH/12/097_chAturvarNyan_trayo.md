@@ -2,25 +2,23 @@
 title = "097 चातुर्वर्ण्यन् त्रयो"
 
 +++
+This also is in praise of the Veda.
 
-इयम् अपि स्तुतिर् एव । **चातुर्वर्ण्यं वेदात् प्रसिध्यति**, अधिकारित्वेनावतिष्ठते "वसन्ते ब्राह्मणो ग्रीष्मे राजन्यः" (आप्ध् १.१.१९) इत्यादि । स्वरूपं तु व्यवहारावगम्यं सर्ववर्णेषु तुल्यत्वाद्[^२८६] अन्यत्र दर्शितम् । **त्रयो लोकाः** "इतः प्रदानं देवा उपजीवन्ति" (श्ब् १.२.५.२४) । अनेन त्रैलोक्यस्थितिहेतुत्वं वेदस्य सिद्धम् एव, वेदमूलत्वात् स्मृतीनां च[^२८७] । आश्रमो ऽपि[^२८८] वेदाद् एव । **भूतम्**[^२८९] अतीतं जन्मसुखदुःखादि । यच् च **भवद्** वर्तमानं यच् च **भविष्यं**[^२९०] तत् सर्वस्य वेद एव शरणीयम् ॥ १२.९७ ॥
+‘The *four castes*’ are learnt from the Veda,—*i.e*., the duties of the
+four castes ate tints known; *e.g*., ‘the Brāhmaṇa shall be initiated
+during the spring, the Kṣatriya during the summer,’ and so forth. As for
+the external features they are the same in all castes, and can be
+definitely ascertained only by experience; as we have shown elsewhere.
+
+‘*The three worlds*’—Such texts as ‘the gods subsist upon offerings from
+this world’ indicate that the Veda points out the means of subsistence
+for all the three worlds; specially as the *Smṛtis* (which contain
+details regarding these matters) also have their source in the Veda.
+
+The ‘*life-stages*’ also are learnt from the Veda.
+
+Similarly the ‘*past*’ births, pleasures and pains;—the
+‘*present*’—current,—and the ‘*future*’—what is to come; for the
+knowledge of all this one must seek help from the Veda.—(97)
 
 
-[^२९०]:
-     M G: bhaviṣyati
-
-
-[^२८९]:
-     M G: vedā vedabhūtam
-
-
-[^२८८]:
-     DK (5: 112) suggests: āśramā api
-
-
-[^२८७]:
-     M G: tā
-
-
-[^२८६]:
-     M G: sarvavarṇeṣv atulyatvād

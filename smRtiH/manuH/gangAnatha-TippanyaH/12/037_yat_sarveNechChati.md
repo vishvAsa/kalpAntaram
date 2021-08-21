@@ -2,5 +2,8 @@
 title = "037 यत् सर्वेणेच्छति"
 
 +++
+**(verses 12.32-51)  
+**
 
-विस्पष्टो ऽयम् ॥ १२.३७ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

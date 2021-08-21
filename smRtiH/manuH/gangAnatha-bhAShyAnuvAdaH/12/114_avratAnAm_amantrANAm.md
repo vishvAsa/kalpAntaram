@@ -2,13 +2,12 @@
 title = "114 अव्रतानाम् अमन्त्राणाम्"
 
 +++
+‘*Who have not fulfilled their duties*’;—what has been already asserted
+before is stated here in the negative form.
 
-**अव्रतानाम्** इति प्राग् उक्त एवार्थो व्यतिरेकद्वारेण कथ्यते । व्रतिनो वेदाध्यायिनः यं[^३८९] निश्चयं ब्रुवते तत्र न विचिक्त्सितव्यं विद्वद्भिर् अविद्वद्भिर् वा । अत एव न लघुपरिकल्पो गुणतुल्यवद् विकल्प्यते[^३९०] ॥ १२.११४ ॥
+When persons fulfilling their duties and learned in the Veda lay down a
+certain law, no doubts should be entertained regarding it,—either by
+learned or by ignorant men. Nor should any optional alternatives be
+admitted in such cases.—(114)
 
 
-[^३९०]:
-     M G: vikalpate
-
-
-[^३८९]:
-     M G omit: yaṃ

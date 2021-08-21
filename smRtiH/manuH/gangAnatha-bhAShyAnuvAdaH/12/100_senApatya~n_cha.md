@@ -2,13 +2,15 @@
 title = "100 सेनापत्यञ् च"
 
 +++
+This is an exaggerated praise.
 
-अतिस्तुतिर् इयम् । **दण्डनेतारः**[^३०३] दण्डनायका ग्रामनगरयोः कृताकृतप्रेक्षणनियुक्ताः[^३०४] । **सेना** हस्त्यश्वरथपादातम्, तस्याः **पतिः** । **राज्यं** मण्डलेश्वरत्वम् । **सर्वलोकाधिपत्यं** सार्वभौमत्वम् ॥ १२.१०० ॥
+‘*Adjudicator of punishments*’—the officer who, in villages and cities,
+fixes the punishments upon men; who is appointed to look after what
+people do and what they do not know.
 
+‘*Army*’—consisting of elephants, horses, chariots and
+foot-soldiers;—the ‘*Commander*’ of all this.
 
-[^३०४]:
-     M G: -prekṣaṇāniyuktāḥ
+‘*Kingly authority*’—royal authority over a small circle.
 
-
-[^३०३]:
-     M G: daṇḍena tāvad
+‘*Sovereignty over all men*’—the status of the Emperor.—(100)

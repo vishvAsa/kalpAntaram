@@ -2,5 +2,10 @@
 title = "076 विविधाश् चैव"
 
 +++
+**(verses 12.75-76)**
 
-**करम्भः** कर्दमः । **कुम्भीषु** प्रक्षिप्तास् ते हि तापेनाग्नेयेनान्नादिवत् पच्यन्ते ॥ १२.७६ ॥
+[\[See above,
+4.88-89.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200193.html#comparative-notes)
+
+See Comparative notes for [Verse
+12.75](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202255.html#comparative-notes "English translation of verse").

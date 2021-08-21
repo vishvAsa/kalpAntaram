@@ -2,5 +2,7 @@
 title = "115 यं वदन्ति"
 
 +++
+This describes the evil effects befalling those ignorant men who go
+about propounding the law.—(115)
 
-वक्तॄणाम् अविदुषां दोषकथनम् ॥ १२.११५ ॥
+

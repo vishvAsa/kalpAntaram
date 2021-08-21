@@ -2,9 +2,12 @@
 title = "027 तत्र यत्"
 
 +++
+‘*Full of bliss*’—a feeling of happiness.
 
-**प्रीतिसंयुक्तं** संवेदनं **शुद्धाभं** शुद्धम् इवाभाति रजस्तमोभ्याम् अकलुषितं मदमानरागद्वेषलोभमोहभयशोकमात्सर्यदोषरहितम् । एवं सर्वम् । एषा चावस्था स्वसंवेद्यैकस्यां[^७७] वेलायां भवेत् ॥ १२.२७ ॥
+‘*Śuddhābham*’—that which *appears pure*, not tainted by ‘Rajas’ and
+‘Tamas,’ and hence free from passions, vanity, love, hatred,
+covetousness, delusion, fear, grief and jealousy. This condition is one
+that should be realised by the man himself, at some time or the
+other.—(27)
 
 
-[^७७]:
-     M G: svasaṃvedyaiva kasyāṃ

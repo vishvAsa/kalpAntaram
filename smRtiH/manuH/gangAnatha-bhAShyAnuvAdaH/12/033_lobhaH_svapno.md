@@ -2,13 +2,21 @@
 title = "033 लोभः स्वप्नो"
 
 +++
+‘*Avarice*’—longing for possessing riches and other things.
 
-धनादिषु रागो **लोभः** । **क्रौर्यं** स्वल्पे ऽपराधे वैरानुबन्धः । **नास्तिक्यं** प्रमादता । **भिन्नवृत्तिता** शीलभ्रंशः । चग्रहणेन[^८२] शिष्टविगर्हणा । **याचिष्णुता** याचकत्वं तच्छीलता । **प्रमादो** ऽनवधानं धर्मादिष्व् अपायपरिहारेष्व्[^८३] अनादरः । **स्वप्नो** **ऽधृतिर्** इति नञ्प्रश्लेषः ॥ १२.३३ ॥
+‘*Cruelty*’—taking offence at even a slight fault.
+
+‘*Disbelief*’—recklessness.
+
+‘*Bad character*’—loss of character.
+
+The particle ‘*ca*’ implies ‘disrespect for elders.’
+
+‘*Habit of begging*’—being addicted to soliciting favours.
+
+‘*Inattentiveness*’—carelessness; want of attention to the performance
+of duties and to the avoidance of failure.
+
+Between ‘*svapno*’ and ‘*dhṛtiḥ*,’ an ‘*a*’ is understood.—(33)
 
 
-[^८३]:
-     M G: apāyaparihāre
-
-
-[^८२]:
-     M G: gaṇanaṃ

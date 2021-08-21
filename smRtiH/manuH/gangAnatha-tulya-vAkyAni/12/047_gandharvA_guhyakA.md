@@ -2,5 +2,8 @@
 title = "047 गन्धर्वा गुह्यका"
 
 +++
+**(verses 12.32-51)  
+**
 
-**गन्धर्व्**आदयो देवास् तेषाम् अर्थवादेतिहासेभ्यो भेदो विज्ञेयः । **विबुधा** देवास् तेषाम् **अनुचराः** सिद्धविधाधरादयः ॥ १२.४७ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

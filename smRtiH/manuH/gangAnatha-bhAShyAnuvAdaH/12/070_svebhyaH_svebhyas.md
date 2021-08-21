@@ -2,5 +2,14 @@
 title = "070 स्वेभ्यः स्वेभ्यस्"
 
 +++
+If the Brāhmaṇa gives up his own means of livelihood,—such as Teaching
+and the rest,—and takes to the occupations of the Kṣatriya and other
+castes;—similarly if the Kṣatriya and others ‘*deviate from their
+occupations*’;—*they* ‘*migrate into vile migratory states*’—undergoing
+the experiences of animals;—and when they come to be born among men,
+they become servants among ‘*Dasyus*,’—*i.e*., robbers and other harmful
+men.
 
-ब्राह्मणो ऽध्यापनादिजीविकाकर्मत्यागेन यदि क्षत्रियादिवृत्तिम् उपजीवेत्, एवं क्षत्रियादयः **स्वकर्मच्युताः पापान् संसारान्** तिर्यग्योनीर् अनुभूय मनुष्यत्वे जाता **दस्युषु** चौरादिहिंस्रादिषु भृत्यभावं प्राप्नुवन्ति । **अनापती**त्य् अनुवादः । आपदि विहितत्वाद् दोषाभावः ॥ १२.७० ॥
+‘*In normal times*’—This is a mere reiteration; since such deviation
+having been permitted in *abnormal times*, there would be no impropriety
+involved in it.—(70)

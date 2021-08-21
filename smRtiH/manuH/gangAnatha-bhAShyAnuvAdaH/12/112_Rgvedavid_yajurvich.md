@@ -2,9 +2,14 @@
 title = "112 ऋग्वेदविद् यजुर्विच्"
 
 +++
+The meaning of the Veda is understood with the help of Nirukta,
+Vyākaraṇa and Mīmāṃsā. A knowledge of these should be possessed by all
+the three persons, as these do not help the comprehending of the meaning
+of any one Veda only, and not of others. Hence a knowledge of these is
+essential in all cases.
 
-निरुक्तव्याकरणमीमांसाभिर् वेदार्थो ज्ञायते । ते च सर्वे साधारणाः । न हि तत्रैकस्य वेदस्यार्थो ज्ञायते नान्यस्य[^३८६] नित्यम् अयं प्रकारो ऽस्ति । अथ ऋग्वेदादीत्यादि कथं भेदोपपत्तिः । तथा तत्र गृह्यसूत्रभेदेन चेदम् उक्तम् ॥ १२.११२ ॥
+The distinction of the three Vedas—Ṛgveda and the rest—has been
+mentioned on the basis of the distinction made in the
+*Gṛhyasūtras*.—(112)
 
 
-[^३८६]:
-     M G: jñāyate 'nyasya

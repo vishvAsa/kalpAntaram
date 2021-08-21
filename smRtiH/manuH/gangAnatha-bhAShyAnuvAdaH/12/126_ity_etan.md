@@ -2,9 +2,14 @@
 title = "126 इत्य् एतन्"
 
 +++
+‘*Iti*’—indicates the end of the Institutes.
 
-**इतिः** शास्त्रसमाप्तिम् आह । **पठन्** **भवत्य्** **आचारवान्** । अन्यो अध्याहार्य आचारः । यथा पठितशास्त्रात् शास्त्रानुष्ठानम्[^४२७] । एवंविधश् चेद् भवति **यथेष्टां** देवतादिलक्षणां **गतिम्** ॥ १२.१२६ ॥
+‘*He who reads, shall he virtuous*.’ Some people explain ‘*ācāra*,’
+‘*virtue*,’ as *virtuous conduct*, in accordance with the ordinances
+that have been read.
 
+And if he is so, ‘*he shall attain whatever state he way desire*.’—126
 
-[^४२७]:
-M G: paṭhitaśāstrāntarāt svanuṣṭhānaṃ
+*This is the end of the Ordinances of Manu* as *declared by Bhṛgu*.
+
+*Thus ends the Manubhāṣya of Medhātithi*.

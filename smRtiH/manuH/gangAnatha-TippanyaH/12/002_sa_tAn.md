@@ -2,5 +2,8 @@
 title = "002 स तान्"
 
 +++
+**(verses 12.1-4)  
+**
 
-पृष्टप्रतिवचनम् एतत् । यद् अहं पृष्टः शृणु तत् । **कर्मणो योगम्** इति संबन्धः । स च प्रकृतत्वात् फलेनैव विज्ञेयः ॥ १२.२ ॥
+See Comparative notes for [Verse
+12.1](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202175.html#explanatory-notes "English translation of verse").

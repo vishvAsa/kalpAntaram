@@ -2,17 +2,17 @@
 title = "052 इन्द्रियाणाम् प्रसङ्गेन"
 
 +++
+‘*Addiction to the senses*’—This stands for doing what is forbidden.
 
-**इन्द्रियप्रसङ्गः** प्रतिषिद्धसेवनप्रदर्शनार्थः[^१०१] । **असेवनं धर्मस्य** शिष्टाकरणम् । एतच् चाविदुषां भवत्य् अत आह- **अविद्वांसः** । त एव **नराधमाः** । अतश् च **पापान् संसारान्**[^१०२] कुत्सितानि जन्मस्थानानि । **संयान्ति** प्राप्नुवन्ति । अत्र[^१०३] प्रसिद्ध एव तावत् कर्मविपाकः प्रचक्ष्यते ॥ १२.५२ ॥
+‘*Not attending to duties*’— not doing what has been enjoined.
+
+All this is found only in the case of ‘*foolish*’ men; who are, on that
+account, called ‘*men of the lowest class*.’
+
+These men ‘*go to*’—fall into—‘*the vilest migratory states*’—most
+despicable births.
+
+In accordance with this general principle, the retribution of deeds is
+now explained.—(52)
 
 
-[^१०३]:
-     M G: tatra
-
-
-[^१०२]:
-     M G: paramāt saṃsārāt
-
-
-[^१०१]:
-     M G: indriyasaṅgo 'pratiṣiddha-

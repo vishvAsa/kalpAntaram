@@ -2,11 +2,15 @@
 title = "081 यादृशेन तु"
 
 +++
+When a man perforins a certain act with a disposition partaking of the
+quality of ‘Sattva,’ or of that of ‘Rajas,’ or of that of ‘Tamas,’—the
+act also partaking of one of these same qualities of *Sattva*, *Rajas*
+or *Tamas*,—then it is ‘*with a body of the same quality*’—*i.e*., by
+one abounding either in *Sattva* or in *Rajas* or in *Tamas*—that ‘*he
+reaps the result thereof*,’—this result also partaking of either
+*Sattva* or *Rajas* or *Tamas*.
 
-सात्त्विकेन राजसेन तामसेन वा **भावेन यद् यत् कर्म निषेवते** सात्त्विकं राजसं तामसं वा । **शरीरेण तादृशेन**[^११७] सत्त्वबहुलेन रजोबहुलेन तमोबहुलेन वा **तत् तत् फलम् उपाश्नुते**, सात्त्विकं राजसं तामसं वा । 
-
-
-[^११७]:
-     M G add: ity arthaḥ
-
-- यतश् चैतद् एवं रजस्तमोबहुलात् कर्मणो ऽकुशलसंकल्पहेतोर् अनिष्टफलप्राप्तिः । अतस् तत्परिवर्जनेन कुशलसंकल्पकर्मणा भवितव्यम् ॥ १२.८१ ॥
+Inasmuch as such is the law, if a man’s act is such as partakes of
+*Rajas*, and has its source in an evil disposition of mind, the man
+obtains undesirable results; hence one should avoid such acts and should
+take to such as have their source in the right disposition.—(81)

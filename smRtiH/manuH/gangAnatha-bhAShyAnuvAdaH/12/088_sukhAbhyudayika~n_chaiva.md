@@ -2,37 +2,18 @@
 title = "088 सुखाभ्युदयिकञ् चैव"
 
 +++
+“The *Vedic Act* has all along been described as of the *active* kind;
+how is it that it is now said to be of *two kinds*?”
 
-<u>ननु</u> च प्रवृत्तम् एव वैदिकं कर्म व्याख्यातम् । किम् इदम् उच्यते द्विविधम् इति । 
+There is no force in this objection. Where it was said that the *Vedic
+Act* is of the *active* kind, what was meant was that the greater part
+of it is of that’ kind, as is found in the ease of the *Agnihotra* and
+other acts; but the same cannot be said of ‘renunciation’ and acts of
+that kind;—and yet both sets are equally ‘Vedic.’
 
-- <u>नैष दोषः</u> । प्राधान्यं तत्र प्रवृत्तं[^१७३] वैदिकं व्याख्यातम्[^१७४] । वैदिकं[^१७५] तु सर्वत्राविशिष्टम् । 
-
-
-[^१७५]:
-     DK (5: 637) suggests: vaidikatvaṃ
-
-
-[^१७४]:
-     M G add: na punar agnihotrādīni
-
-
-[^१७३]:
-     M G: nivṛttaṃ
-
-- सुखम् उपैत्योपपद्यते[^१७६] । यद् अपि **सुखाभ्युदयिकं** सुखाभ्युदयः प्रयोजनम् अस्येति वान्वर्थो[^१७७] वा कर्तव्यः । **निःश्रेयसं** प्रयोजनम् अस्येति च केचन । **प्रवृत्तनिवृत्त**पदे[^१७८] यथासंख्यं पूर्ववत्[^१७९] संबन्धनीये ॥ १२.८८ ॥
+‘*Conducive to happiness and prosperity*’—*i.e*., which serve these
+purposes; and—^(‘)*Conducive to the highest good*’—that which
+accomplishes this purpose. These two terms are to be construed
+respectively with the foregoing terms (‘active’ and ‘passive’).—(88)
 
 
-[^१७९]:
-     DK (5: 637) suggests: pūrvatra
-
-
-[^१७८]:
-     M G: pravṛttapade
-
-
-[^१७७]:
-     DK (5: 637) suggests: vā matvartho
-
-
-[^१७६]:
-     M G: upetyo-

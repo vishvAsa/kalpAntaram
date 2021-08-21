@@ -2,19 +2,22 @@
 title = "110 दशावरा वा"
 
 +++
+That in which there are at least ten men;—if more cannot be brought
+together, there should be at least ten.
 
-दश अवरे यस्या **दशावरा**[^३७२] । यदि बहवो न संनिधीयन्ते दशावश्यं संनिधातव्याः । तदभावे **त्र्यवरा**[^३७३] । **वृत्तथेति** । यद् उक्तम् "अर्थकामेष्व् असक्तानाम्" (म्ध् २.१३) इति, तस्यैवायम् अनुवादः । न चैषा पुरुषसंख्या, अपि तु गुणसंख्या । तथा च वक्ष्यति "एको ऽपि वेदवित्" (म्ध् १२.११३) इति । एकस्य यतो गुणसमूहस्य बाहुल्येनासंभवात् पुरुषप्रधानतया संख्याया निर्देशः कृतः ॥ १२.११० ॥
+If this be not possible, there should be *at least three*.
+
+‘*Firm in their duty*.’—This is a reference to what has been [said under
+2.13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145586.html).
+
+What is meant to be emphasised here is not the *number*, but the
+*qualification*; as in clear from what is going to be said in Verse 113
+below, regarding ‘even a single Brāhmaṇa learned in the Veda, etc.,
+etc.,’ and the larger numbers are mentioned only in view of the fact
+that it may be difficult to find any single person possessed with all
+the requisite qualifications.
+
+The qualifications for membership of the Assembly are next
+enumerated.—(110)
 
 
-[^३७३]:
-     M G J: tryavarāḥ
-
-
-[^३७२]:
-     M G J: daśāvarāḥ
-
-_तानीदानीं परिषत्त्वहेतुगुणान्_[^३७४]_ दर्शयति ।_
-
-
-[^३७४]:
-     M G: -hetur guṇān

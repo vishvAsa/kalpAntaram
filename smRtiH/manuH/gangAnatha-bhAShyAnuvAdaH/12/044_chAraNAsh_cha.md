@@ -2,5 +2,16 @@
 title = "044 चारणाश् च"
 
 +++
+**(verses 12.42-44)**
 
-**चारणाः** कथकगायकस्त्रीसंयोजकादयः । **सुपर्णाः** पक्षिविशेषाः । **शूद्रा** **गर्हिता** इति संबन्धः । ये ब्राह्मणान् अवजानते ये च तद्भृत्युपजीविनो ये च मदमानादियुक्ताः । हिंस्राश् चौरा इत्य् एवमादयो विगर्हिताः ॥ १२.४२–४४ ॥
+‘*Cāraṇas*’—dancers, singers, pimps, and so forth.
+
+‘*Suparṇas*’—a particular kind of birds.
+
+The epithet ‘*despised*’ is to be construed with ‘*Śūdras*,’—*i.e*.,
+those *Śūdras* who disregard the Brāhmaṇas, poach upon their livelihood,
+and are characterised by haughtiness, vanity, and such qualities. Such
+injurious persons as thieves and others are also included among
+the^(‘)*despised*.’—(42-44)
+
+

@@ -2,5 +2,12 @@
 title = "002 स तान्"
 
 +++
+This is the answer to the question of the sages.
 
-पृष्टप्रतिवचनम् एतत् । यद् अहं पृष्टः शृणु तत् । **कर्मणो योगम्** इति संबन्धः । स च प्रकृतत्वात् फलेनैव विज्ञेयः ॥ १२.२ ॥
+‘Listen to what you have asked.’
+
+‘*Karma-yoga*’—The compound is to be explained as the ‘*yoga*,’
+‘relation,’ of ‘*karma*,’ ‘actions’; and from the context it is clear
+that it is the ‘relation’ *to results* that is meant’—(2)
+
+

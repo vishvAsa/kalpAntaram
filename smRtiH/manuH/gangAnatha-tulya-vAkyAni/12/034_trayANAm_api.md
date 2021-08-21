@@ -2,5 +2,8 @@
 title = "034 त्रयाणाम् अपि"
 
 +++
+**(verses 12.32-51)  
+**
 
-**त्रिषु** कालेषु साम्योपचयापचयेषु वोत्तमाधममध्यमेषु च फलोदयेषु । **इदम्** इति वक्ष्यमाणस्य निर्देशः ॥ १२.३४ ॥
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

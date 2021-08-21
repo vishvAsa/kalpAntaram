@@ -2,5 +2,13 @@
 title = "032 आरम्भरुचिताधैर्यम् असत्कार्य-परिग्रहः"
 
 +++
+**(verses 12.32-51)  
+**
 
-कर्मणां काम्यानां दृष्टार्थानाम् अदृष्टार्थानां चारम्भे रतिर् वृथारम्भश् च । एतत् **राजसं लक्षणम्** । **अधैर्यम्** अल्पे ऽप्य् उपघातहेतौ चेतसो ऽसमाश्वासः । **दैन्य**ग्रहणम् उत्साहत्यागः । **असत्कार्यं** लोकशास्त्रविरुद्धम्, तस्य **परिग्रह** आचरणम् । विषये सङ्गो **ऽजस्रं** पुनः पुनः प्रवृत्तिः ॥ १२.३२ ॥
+*Maitryupaniṣad* (3.5).
+
+*Yājñavalkya* (3.137-138).—‘Addicted to bad acts, impatient, active,
+attached to objects of sense, a man abounds in the attribute of *Rajas*,
+and is re-born among men. Lethargic, cruel in bis acts, covetous,
+heretic, addicted to begging, careless, of bad character, a man abounds
+in the attribute of *Tamas*, and is born among animals.’

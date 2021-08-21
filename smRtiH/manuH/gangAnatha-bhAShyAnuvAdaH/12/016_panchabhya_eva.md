@@ -2,17 +2,15 @@
 title = "016 पञ्चभ्य एव"
 
 +++
+Out of the five material substances another body is produced.
 
-**पञ्चभ्यो भूतेभ्यो** ऽन्यच् छरीरं **प्रेत्योत्पद्यते** । एतद् उक्तं भवति । शुक्रशोणितम् अन्तरेणैव पाञ्चभौतिकं शरीरम् उत्पद्यते । **दुष्कृतीनां** च पाञ्चभौतिकं **शरीरं** पुण्यक्र्ताम् तु तैजसाकाशमात्राणि[^५१] भवन्ति । यथोक्तम् "वायुभूतः खमूर्तिमान्" (म्ध् २.८२) इति । **यातना** पीडातिशयः । तद्**अर्थीयम्**,[^५२] यद्[^५३] अतिदृढम् अलौकिकदुःखसहिष्णुः ॥ १२.१६ ॥
+The meaning is that a material body is produced, without the process
+involved in the mixture of semen and ovule. In fact, it is only in the
+case of ‘*misbehaved men*’ that this body is made up of material
+substances; in the case of righteous men it is made up of pure *light*
+and consists of mere *Ākāśa*; as is declared in the passage—‘Consisting
+of air, with a body of pure *Ākāśa*, etc.’
 
+‘*Torment*’—great suffering.
 
-[^५३]:
-     M G: yady
-
-
-[^५२]:
-     M G omit: tadarthīyam
-
-
-[^५१]:
-     M G: tejasā-
+‘*Strong*’—powerful enough to suffer super-physical torment.—(16)

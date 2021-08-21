@@ -2,9 +2,7 @@
 title = "059 हिंस्रा भवन्ति"
 
 +++
+**(verses 12.53-59)**
 
-**क्रव्यादा** गृध्रादयः । **अमेध्यभक्षिणः** **कृमयः** । परस्परम् अदन्ति, यथा महामार्जारो मार्जारम्, महामत्स्यः सूक्ष्मं मत्स्यम्, नेकभेदम् इव । **अन्त्यस्त्रीनिषेविणो** ऽन्त्याः[^१०८] बर्बरादयः ॥ १२.५९ ॥
-
-
-[^१०८]:
-     M G omit: 'ntyāḥ
+See Comparative notes for [Verse
+12.53](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202233.html#comparative-notes "English translation of verse").

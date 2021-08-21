@@ -2,5 +2,6 @@
 title = "007 अदत्तानाम् उपादानम्"
 
 +++
-
-शास्त्रीयाप्राधान्यतयास्य्**आदत्तानाम्** असद्भ्य **उपादानं** दुष्टं चैव । तथा कुमार्यादि**परदारादाव्** अपि । विपरीतधर्मादानं परित्राणम् इन्द्रियसंयमश् च । इदं मनोवाग्देहभेदेन दशविधम् । प्रवृत्तिकुशलाकुशलविभागेन विंशतिप्रकाराः ॥ १२.७ ॥
+*Yājñavalkya* (8.135).—‘The man, who is addicted to taking what has not
+been given to him, or associates with the wives of other men, or kills
+animals in a way not sanctioned by the scriptures, is born among trees.’

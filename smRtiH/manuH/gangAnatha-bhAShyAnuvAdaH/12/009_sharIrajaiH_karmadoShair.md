@@ -2,9 +2,17 @@
 title = "009 शरीरजैः कर्मदोषैर्"
 
 +++
+What the verse describes is what happens in a large number of cases; the
+sense being that in most cases whenever men are reborn in the species
+mentioned, it is due to causes herein specified. Bat it is not always
+so; as it is going to be asserted later on (55 *et. seq*.) that those
+who commit the ‘heinous offences’ are born among the lower animals and
+so forth.
 
-भूयस्त्वाभिप्रायम् एतत् । प्रायेणैतासां जातीनाम् एतानि यथाविभागं निमित्तानि । न त्व् अयं नियमः । तथा महापातकिनां तिर्यक् पर्यटन्तीति वक्ष्यतीति (च्ड़्। म्ध् १२.५५ड़्) । **पक्षिमृग**ग्रहणं तिर्यग्जातिमात्रप्रदर्शनार्थम् । मनोवाक्कायकर्मणाम् उत्तरोत्तरस्य गुरुत्वप्रदर्शनार्थपरम्[^३५] ॥ १२.९ ॥
+‘*Birds*’ and ‘*beasts*’ stand here for all kinds of lower animals.
+
+What the verse is really meant to indicate is that, among sins due to
+Mind, Speech and Body, the succeeding ones are graver than the preceding
+ones.—(9)
 
 
-[^३५]:
-     M G: -ārthaṃ param

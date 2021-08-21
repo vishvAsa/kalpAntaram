@@ -2,5 +2,8 @@
 title = "107 नैःश्रेयसम् इदम्"
 
 +++
+This verse is intended to attract the attention of the Vedic scholar,
+and to arouse in his mind a special regard for what is going to be set
+forth.
 
-वक्ष्यमाणार्थादारातिशयोत्पत्त्यर्थः श्लोको ऽयं श्रोत्रियसंबोधनार्थः । **रहस्यं** गुह्यम् । अतश् च न सर्वस्य प्रकाशयितव्यम् । यो न शुश्रूषापरो न च परमां भक्तिम् उपेतो यश् च न स्थिरप्रकृतिर् न तस्मै प्रकाश्यम् ॥ १२.१०७ ॥
+‘*Secret*’—hidden meaning.—(107)

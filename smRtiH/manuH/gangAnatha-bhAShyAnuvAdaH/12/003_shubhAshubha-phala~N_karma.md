@@ -2,21 +2,24 @@
 title = "003 शुभाशुभ-फलङ् कर्म"
 
 +++
+The ‘*good*’ results are mentioned only by way of an example; or as
+laying down the functions of the mind and speech.
 
-शुभस्य निर्देशो दृष्टान्ततया, मनोवाग्व्यापारविध्यर्थो वा मनसो वाचो देहाच् च संभवति **कर्म**[^२१] । **कर्म**शब्दो न चेज्यायाम् एव कायपरिस्पन्दे वर्तते । किं तर्हि, क्रियामात्रे[^२२] योगध्यानवचनात्मके ऽपि । **फल**शब्दः प्रत्येकम् अभिसंबध्यते । शुभफलम्[^२३] अशुभफलं च । नैवं विज्ञेयं कायव्यापारसाधनाद् एव[^२४] कर्मानुष्ठानाच् छुभाशुभफलप्राप्तिः । अपि तु मनोवाक्कायसंभवाद् अप्य् एवम् एव । तस्माद् अपि त्रिविधात् कर्मणस् तु विधीयते फलप्राप्तिः ॥ १२.३ ॥
+Actions proceed from mind, speech and body. The term ‘*Karma*,’
+‘*action*,’ here does not stand only for that movement of the body which
+is involved in the performance of sacrifices; it stands for all kinds of
+action, even those of the nature of contemplation, meditation, speaking
+and the like.
+
+The term ‘*phala*,’ ‘*result*,’ is to be construed with each of the two
+terms of the compound (‘*śubha*’ and ‘*aśubha*’); so that what the
+compound means is ‘conducive to good results’ and ‘conducive to bad
+results.’
+
+This should not be understood to mean that good and bad results are
+obtained only from the performance of such actions as are accomplished
+by bodily operations, in fact the same thing happens in the case of
+actions springing from mind and speech also; since results have been
+described as proceeding from all the three kinds of actions.—(3)
 
 
-[^२४]:
-     M G: -sādhanādivat
-
-
-[^२३]:
-     M G: śubham
-
-
-[^२२]:
-     M G: kriyāmātra
-
-
-[^२१]:
-     M G omit: karma

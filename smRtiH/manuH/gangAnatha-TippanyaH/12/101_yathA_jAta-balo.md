@@ -2,5 +2,7 @@
 title = "101 यथा जात-बलो"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 172);—and in
+*Smṛticandrikā* (Saṃskāra, p. 129).
 
-इयम् अपि पूर्ववत् । स्पष्टा पदयोजना प्रसिद्धाश् च पदार्थाः ॥ १२.१०१ ॥
+

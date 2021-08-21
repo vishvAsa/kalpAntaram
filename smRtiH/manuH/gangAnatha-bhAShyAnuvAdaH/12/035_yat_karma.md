@@ -2,5 +2,10 @@
 title = "035 यत् कर्म"
 
 +++
+‘*Having done*, or *doing, or going to do*.’—This indicates what has
+been spoken of as the ‘*three times*’; the said feeling may appear in
+some cases, at all the three points of time, while in others only at one
+or other of them; and it appears in the form of regret—‘Why did I do
+such an act? How can I appear before gentlemen?’—(35)
 
-यद् उक्तं "त्रिषु" (म्ध् १२.३४) इति कालनिर्देशस् तद् दर्शयति- **कृत्वा कुर्वन् करिष्यन्न्** इति च । कदाचित् त्रिष्व् अपि कालेषु कदाचिद् अन्यतरस्मिन् । "किम् अर्थम् अहम् एवम् अकरवं कथं शिष्टानाम् अग्रतो भवामि" इति **लज्जा** चेतसि परिखेदः ॥ १२.३५ ॥
+

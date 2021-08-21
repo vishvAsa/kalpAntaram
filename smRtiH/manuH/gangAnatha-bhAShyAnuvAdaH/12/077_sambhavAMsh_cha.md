@@ -2,5 +2,5 @@
 title = "077 सम्भवांश् च"
 
 +++
-
-**वियोनयः** तिर्यक्प्रेतपिशाचादयः । तत्र **संभवो** जन्म दुःखबहुलासु ॥ १२.७७ ॥
+‘*Low forms of life*’—such as the lower animals, Pretas and
+Piśācas;—birth in these, which is full of misery.—(77)

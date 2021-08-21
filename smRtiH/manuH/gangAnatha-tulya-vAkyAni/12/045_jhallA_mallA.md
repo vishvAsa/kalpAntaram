@@ -2,9 +2,8 @@
 title = "045 झल्ला मल्ला"
 
 +++
+**(verses 12.32-51)  
+**
 
-**झल्ला मल्ला** इति रङ्गावतारकाः । तत्र **मल्ला** बाहुयोधिनः । **झल्ला** यष्टिप्रहारिणः परिहासजीविनो वा[^९०] ॥ १२.४५ ॥
-
-
-[^९०]:
-     M G omit: vā
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

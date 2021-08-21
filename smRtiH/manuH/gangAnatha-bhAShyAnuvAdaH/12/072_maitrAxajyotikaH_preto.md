@@ -2,17 +2,12 @@
 title = "072 मैत्राक्षज्योतिकः प्रेतो"
 
 +++
+‘*Maitrākṣajyotika*,’ like the foregoing terms, is another name for a
+*Piśāca*. Or the name may mean—“one who has *light* (‘*jyotiḥ*’) issuing
+from the *hole* (‘*akṣi*’) of the *anus* (‘*maitra*’).”
 
-**मैत्राक्षिज्योतिक** इति शब्दान्तरं पिशाचवचनं पूर्ववत् । 
-
-- <u>अथ वा</u> मैत्राख्ये ज्योतिर् दृष्टाव् अपीति । मैत्रम् अङ्गं पायुः, तदक्षिविवरं छिद्रम् । 
-
-- <u>अन्ये</u> तूलूकम् आहुः । मैत्रम् आदित्यालोकः[^१११] । अक्षं ज्योतिः ऐन्दिर्यकं दर्शनम् । स ह्य् आदित्यालोके[^११२] न पश्यति ॥ १२.७२ ॥
-
-
-[^११२]:
-     M G: ādityāl loke
+Others explain the term as standing for the *owl*; ‘*maitra*’ being the
+*light of the sun*, and ‘*akṣajyotiḥ*’ meaning *visual perception*; the
+name connoting the fact that the owl cannot see in solar light—(72)
 
 
-[^१११]:
-     M G: ādityalokaḥ

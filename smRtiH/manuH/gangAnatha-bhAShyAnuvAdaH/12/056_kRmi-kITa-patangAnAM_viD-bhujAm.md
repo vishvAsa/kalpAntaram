@@ -2,5 +2,8 @@
 title = "056 कृमि-कीट-पतङ्गानां विड्-भुजाम्"
 
 +++
+‘*Feeding on ordure*’—such as the crow and the like.
 
-**विड्भुजा** वायसादयः । **हिंस्राणां** व्याघ्रादीनाम् ॥ १२.५६ ॥
+‘*Carnivorous*’—tigers and so forth.—(56)
+
+

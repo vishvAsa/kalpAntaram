@@ -2,5 +2,9 @@
 title = "064 कौशेयन् तित्तिरिर्"
 
 +++
+**(verses 12.64-67)  
+**
 
-**दर्दुरः** मण्डूकस्तोकः ॥ १२.६४ ॥
+These verses are quoted in *Parāśaramādhara* (Prāyaścitta, p. 512).
+
+

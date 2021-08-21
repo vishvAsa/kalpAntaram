@@ -2,5 +2,9 @@
 title = "083 वेदाभ्यासस् तपो"
 
 +++
+[\[See XXXI
+above.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202211.html#comparative-notes)
 
-**निःश्रेयस**शब्देन न पुनः पुरुषार्थसिद्धिर् उच्यते, अपि तु निश्चितसुखदुःखानुबन्धः प्रीतिविशेषो ऽपि । **वेदाभ्यासा**दीनां तत्र तत्रोक्तानां पुनर्वचनम् आत्मज्ञानस्तुत्यर्थम् । **ज्ञानं** वेदार्थविषयम् । उक्तार्थान्य् अन्यानि पदानि ॥ १२.८३ ॥
+*Yājñavalkya* (3.190).—‘Expounding of the Veda, performing of
+sacrifices, Celibacy, Austerity, Self-control, Faith, Fasting and
+Independence are the means of acquiring the knowledge of the Self.’

@@ -2,13 +2,8 @@
 title = "041 त्रिविधा त्रिविधैषा"
 
 +++
+**(verses 12.32-51)  
+**
 
-**एषा त्रिविधा गौणिकी** सत्त्वादिगुणप्रयुक्ता प्रत्येकं पुनः **त्रिविधो**त्तमाधममध्यमभेदेन। अतो नवधा संपद्यते । **कर्मविद्याविशेषाच्** चानन्ताः, कुशलाकुशलकर्मवशात् । बुद्धिपूर्वाबुद्धिपूर्वप्रयोगाच्[^८८] च कर्मणां[^८९] बहुभेदत्वात् । तद् इदम् आह **कर्मविद्याविशेषत** इति ॥ १२.४१ ॥
-
-
-[^८९]:
-     M G add: ca
-
-
-[^८८]:
-     M G: buddhipūrvaprayogaś
+See Comparative notes for [Verse
+12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").

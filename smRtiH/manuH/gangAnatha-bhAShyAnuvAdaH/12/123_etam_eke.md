@@ -2,5 +2,4 @@
 title = "123 एतम् एके"
 
 +++
-
-(पृथग् व्याख्यानं नास्ति।)
+\[The *Bhāṣya* has nothing to say on this verse.\]

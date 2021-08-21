@@ -2,5 +2,12 @@
 title = "010 वाग्दण्डो ऽथ"
 
 +++
+‘*Control*’—keeping in check; and ‘*control of speech*’ means *desisting
+from abusing others*; and so with the other two.
 
-दमनं **दण्डः** । **वाचो दण्डः** पारुष्याप्रवृत्तिः । एवम् उत्तरयोर् अपि । **यस्यैते** दण्डा **बुद्धौ निहिता** "नैतन् मया कर्तव्यम्" इति यो न स्खलति **स त्रिदण्डीत्य् उच्यते** । न त्व् अनार्यो गुरुकाष्ठदण्डं धारयति ॥ १२.१० ॥
+‘*The man in whose heart these three are firmly fixed*’;—he who has made
+up his mind that he would never commit such an act, and who never fails
+in this resolve:—such a man is called ‘*the man of triple control*’; and
+not one who carries heavy wooden *sticks* (*daṇḍas*).—(10)
+
+

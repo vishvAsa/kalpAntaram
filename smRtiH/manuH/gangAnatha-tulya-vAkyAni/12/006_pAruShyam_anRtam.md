@@ -2,5 +2,5 @@
 title = "006 पारुष्यम् अनृतम्"
 
 +++
-
-(अग्रिमे श्लोके व्याख्यातम्।)
+*Yājñavalkya* (3.134).—‘The man who is a liar, or a backbiter, or harsh
+in speech, or talks irrelevantly, is born among animals and birds.’
