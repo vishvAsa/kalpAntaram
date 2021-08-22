@@ -23,3 +23,11 @@ different interpretation of verses 3-1l.
 
 *Medhātithi* P. 13, l. 1—‘*Mahato’haṅkāro* &c.’—*Of*. Sāṅkhya-kārikā,
 38.
+
+> ‘*Viśeṣāḥ*.—Why these are called ‘*viśeṣa*’ is thus explained in the
+> *Sāṅkhyatattvakaumudī*—pañca mahābhūtāni viśeṣāḥ:—śāntā ghorāśca
+> mūḍāśca \| yasmādākāśādiṣu sthū?ṣu kecit tattvapradhānatayā śāntā
+> prakāśā laghavaḥ......... \| te'mī parasparavyāvṛttyā'nubhūyamānā
+> ‘viśeṣā’ iti ‘sthūlā’ iti co?pante \| tanmātrāṇi tu?smadādinā
+> parasparavyāvṛttāni nānubhūyante—iti ‘aviśeṣāḥ’ ‘sūkṣmā’ iti cocyante
+> \|

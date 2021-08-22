@@ -26,3 +26,19 @@ document attested by fresh witnesses’;—and in *Vīramitrodaya*
 
 At the end of Adhyāya VIII, Mandlik has printed the following verse with
 Medhātithi’s explanation thereupon—
+
+> atha śaktivihīnaḥ syād ṛṇī kālaviparyayāt \|  
+> śakyaprekṣam ṛṇaṃ dāpyaḥ kāle deśe yathodayam \|\|
+
+This verse, though commented upon by Medhātithi, has been omitted by all
+other commentators.
+
+It is found in Nārada (131.) It is quoted in *Vivādaratnākara* (p. 71)
+as from Nārada; it explains ‘*Śaktivihīnaḥ*’ as ‘without ability to
+repay the debt,’ and ‘*kālaviparyayāt*’ as ‘on account of famine and so
+forth.’
+
+The verse is not Manu’s, it is Nārada’s; and it has been only quoted by
+Medhātithi and explained by him in course of his comment on verse 159.
+
+

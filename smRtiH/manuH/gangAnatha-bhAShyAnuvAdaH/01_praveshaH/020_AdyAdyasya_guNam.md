@@ -62,3 +62,13 @@ hence with a view to preclude such an idea, the author has added the the
 second half of the verse—*Each Elemental Substance being endowed with as
 many qualities &c. &c*.,—which means that Wind has *two* qualities, Fire
 has *three*, Water has *four*, and Earth has *five*.
+
+> “Why does the Author use the form ‘*ādyādyasya*’? The correct form
+> should be ‘*ādyasyādyasya*’, the repetition of the term ‘*ādyasya*’
+> being necessitated by Pāṇini’s *Sūtra* 8.1.4; just as we have in such
+> expressions as ‘*paraḥ paraḥ*.’”
+
+The form used is due to the exigencies of metre; and exigencies of metre
+justify the non-observance of rules.—(20)
+
+

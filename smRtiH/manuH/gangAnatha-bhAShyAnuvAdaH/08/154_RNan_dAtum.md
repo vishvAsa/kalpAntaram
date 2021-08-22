@@ -34,3 +34,23 @@ This is how it has been explained by older writers.
 
 The following verse (from Nārada, 131) lays down the favour that the
 king may show towards the debtor:
+
+> *If by lapse of time the debtor becomes bereft of the capacity to pay,
+> he should be made to pay* *the debt according to hit capacity*,
+> *taking into consideration the time and place and the rate of
+> interest*.
+
+\[The meaning of this is as follows\]—
+
+If, through evil fate, the debtor becomes reduced to poverty, he shall
+not he chastised with imprisonment in the jail and soforth. “What is
+there to be done?” Whenever he should happen to have any property at
+all, he should be made to repay the debt by small instalments;—this is
+what is meant by the phrase ‘*according to his capacity*.’ This is what
+is going to be described as—‘the debt should he liquidated even by
+bodily labour, etc., etc.’ (8.177.)
+
+In view of this text, the use of altering the bond is just as we have
+explained above.
+
+
