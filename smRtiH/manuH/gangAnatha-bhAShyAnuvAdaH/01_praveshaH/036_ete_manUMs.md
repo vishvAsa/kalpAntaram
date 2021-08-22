@@ -2,5 +2,25 @@
 title = "036 एते मनूंस्"
 
 +++
+The motive being—‘by doing this act I shall obtain praise in the
+world,’—if one performs sacrifices, austerities or other righteous acts;
+as also such acts for winning fame as giving gifts to the beggars at
+sacred places, bragging against the king, expounding the scriptures
+before Śūdras, and so forth.
 
-**एते** महर्षयः **सप्तान्यान् मनून् असृजन्** । अधिकारशब्दो ऽयं मनुर् इति । मन्वन्तरे यस्य प्रजासर्गे तत्स्थितौ वाधिकार उक्तेन प्रकारेण स मनुर् इत्य् उच्यते । **भूरितेजस** **अमितौजस** इति चैक एवार्थः । एकं प्रथमान्तं स्रष्टुर् विशेषणम् । द्वितीयं द्वितीयान्तं स्रष्टव्यानां मन्वादीनां विशेषणम् । <u>ननु</u> देवा ब्रह्मणैव सृष्टाः । <u>सत्यं</u>, न सर्वे । अपरिमिता हि देवसंघाताः । **देवनिकाया** हि देवस्थानानि स्वर्गलोकब्रह्मलोकादीनि ॥ १.३६ ॥
+‘*Great*.’—This implies that what is objectionable is the doing of the
+act with the *sole* motive of obtaining fame; there is nothing wrong if
+the fame comes, only by the way; if, for instance, people talk of the
+man’s righteous deeds, when these are done only through righteousness
+(and not for any other purpose), such fame does not vitiate the moral
+quality of the act; as has been declared to be the case with the man in
+picking up ‘sugar cane,’ as described by Kṛṣṇadvaipāyana in the story of
+the *Mahāhhārata*—‘When a man is gathering sugarcane, he gathers, along
+with it, also grasses and creepers; and in the same manner, the man,
+when treading the path of righteousness, also obtains fame, happiness
+and wealth.’
+
+‘*Failure*’—of the results to appear;—‘*he does not mind*’—feels no
+sorrow; or ‘*failure*’ may mean the *non-completion of the act*.—(36)
+
+

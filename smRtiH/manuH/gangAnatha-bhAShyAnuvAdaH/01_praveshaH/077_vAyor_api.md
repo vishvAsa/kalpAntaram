@@ -2,5 +2,5 @@
 title = "077 वायोर् अपि"
 
 +++
-
-**विरोचिष्णु भास्वद्** इति समानार्थेन शब्दद्वयेन स्वपरप्रकाशता प्रतिपाद्यते । स्वयं दीप्तिमत् परं च भासयति ॥ १.७७ ॥
+‘*Low forms of life*’—such as the lower animals, Pretas and
+Piśācas;—birth in these, which is full of misery.—(77)

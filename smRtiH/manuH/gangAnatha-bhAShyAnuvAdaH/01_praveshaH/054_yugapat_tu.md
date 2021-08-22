@@ -2,13 +2,30 @@
 title = "054 युगपत् तु"
 
 +++
+‘*Dreadful hells*’—They are ‘dreadful’ by reason of the great sufferings
+undergone; ‘hells’ being places of torment
 
-यत्तदोर् व्यत्ययेनायं श्लोको व्याख्यातव्यः । अन्यथा पूर्वश्लोकापेक्षयेतरेतराश्रयः प्रसज्येत । एतद् उक्तम् । यदा स्वपिति तदा निमीलति सर्वम् ।
+‘*Expiation*’—Deeds are ‘expiated’ when their results have been
+experienced; and when slight traces of them are left, the agent becomes
+born in the several migratory states.
 
-**सुखं स्वपिति निर्वृतः** । सुखस्वरूपम् एव परं ब्रह्म, न तस्य स्वापावस्थायां सुखम् अन्यदा दुःखम् । स्वापश् च तस्य यादृशः स प्राग् उक्त एव । निर्वृतिश् च तस्य सर्वकालम् । न ह्य् असौ परमात्माविद्योपप्लवतरङ्गैर् आमृश्यते, केवलसुखमयः । तस्य सर्वस्य कर्तृत्वं उपपद्यते । यथायं पुरुष उपरतो गृहकृत्येभ्यः कृतकृत्यतयार्जितं मया धनं गृहोपयोगि निरुपद्रवश् चास्मि संवृत्त इत्य् एवं सुखं स्वपिति निर्वृत्तो निराशङ्कात्मबाध एवम् उपमीयते ऽसाव् अपि । तस्यापीदं जगत् कुटुम्बभूतम् इति प्रशंसा ।
+“How is it that the whole of the act is not entirely retributed in the
+hells?”
 
-- प्रधानविषयो वायं श्लोको वर्णनीयः । तदा प्रधानं स्वपिति यदा युगपत् सर्वाणि भूतानि तत्र प्रलीयन्ते तदात्मतां कारणरूपताम् आपद्यन्ते विकारावस्थाम् उद्गच्छन्ति[^९५] युगपद् यावन्ति त्रैलोक्योदरवर्तीनि । स्वापश् च परिणामनिवृत्तिर् न पुनर् ज्ञानोपसंहतिः अचेतनस्य प्रधानस्य । सुखं चोपचारतो ऽचेतनत्वाद् एव ॥ १.५४ ॥
+It has already been explained that ‘hell’ is the result of very potent
+deeds—not of mild ones. And since the cause is enfeebled by the
+appearance of its effect, the Deed is rendered *mild*, less potent, by
+the appearance of its results. Just as in the case of fire, when it has
+been kindled, as soon as it has given forth sparks and heat, it becomes
+milder; so also is the case with Hells.
+
+“In the case of fire there are two states—mild and flaming; Hells
+however are always of one uniform character.”
+
+Like flaming fire, Actions also are prone to become strong and weak;
+when they are strong, they lead to Hell, and when they are weak, their
+retribution takes place elsewhere. Hence it is only light what has said
+been regarding the ‘remnant’ of the deed (leading to
+transmigration).—(54)
 
 
-[^९५]:
-J: ujjhanti

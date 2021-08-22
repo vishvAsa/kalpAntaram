@@ -2,13 +2,14 @@
 title = "075 मनः सृष्टिम्"
 
 +++
+The ‘*Tāmisra*,’ the ‘*Aṇḍhatāmisra*’ and other hells have been
+enumerated above (under 4.80).
 
-उक्ताप्य् एषा तत्त्वस्य सृष्टिः । यो विशेषो नोक्तस् तत्प्रतिपादनाय पुनर् उच्यते । **विकुरुते** विशेषतः करोति[^११०] ब्रह्मणा **चोद्यमानम्** । तस्माच् चोदिताद्[^१११] **आकाशं जायते** । तस्याकाशस्य शब्दाख्यो गुणो भवति । गुण आश्रित उच्यते, आकाशं तस्याश्रयः । न ह्य् आकाशं विना शब्दस्य संभवः ॥ १.७५ ॥
+‘*Being tossed about in this*’—lying on one side and turning on the
+other and so forth.
+
+Being bound up to the sword-like leaves of trees; or being ‘mangled’ by
+these same leaves lying scattered on the ground—the limbs being cut
+about like a piece of plantain-stalk.—(75).
 
 
-[^१११]:
-     M G 1st ed.: tasmān noditād
-
-
-[^११०]:
-     M G 1st ed. omit: vikurute viśeṣataḥ karoti

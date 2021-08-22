@@ -2,5 +2,22 @@
 title = "099 ब्राह्मणो जायमानो"
 
 +++
+That the Veda upholds all beings has been indicated in the following
+Brāhmaṇa-text—‘Sacrificial materials are offered into fire,—the fire
+raises it up to the Sun,—the Sun bears it on his rays,—thence comes
+rain; thus it is that the sacrificial material comes to be regarded as
+the cause of the birth and existence of all beings.’ This same idea has
+been expressed in the present work also—‘The material rightly thrown
+into the fire rises up to the Sun,’ and so forth (3.76).
 
-सर्वलोकस्योपरि भवति । श्रैष्ठ्यम् उपरिभावेनाह । **ईश्वरः सर्वभूतानाम्** इति प्रभुत्वम् । धर्माख्यस्य **कोशस्य गुप्तये** जायते । द्रव्यसंचयः **कोशः** । उपमानाद् धर्मसंचय उच्यते **कोश** इति ॥ १.९९ ॥
+For these reasons I regard this as the best means for the accomplishing
+of the ends of man. In what manner the Veda supplies all the knowledge
+regarding man’s duties has been already shown.
+
+“What fulfils all these ends,—is it *Vedic* (spiritual), or *worldlly*
+(physical)?”
+
+The duty is spiritual, but the actual act, which is visible to the eye,
+is physical.—(99)
+
+

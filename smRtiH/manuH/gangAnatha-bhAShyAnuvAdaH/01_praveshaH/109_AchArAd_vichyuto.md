@@ -2,9 +2,37 @@
 title = "109 आचाराद् विच्युतो"
 
 +++
+This verse provides the definition of the ‘cultured’ man.
 
-प्रकारान्तरेणेयम् आचारस्तुतिः । **आचारात्** प्रच्युत आचारहीनो **न वेदफलं** प्राप्नोति । वेदविहितकर्मानुष्ठानफलं **वेदफलम्** इत्य् उक्तम् । समग्रान्य् अविकलानि वैदिकानि कर्माण्य् अनुतिष्ठन् यद्य् आचारभ्रष्टो न ततः पुत्रकामादिफलम् अश्नुत इति निन्दा । एष एवार्थो विपर्ययेणोच्यते- **आचारेण तु संयुक्तः** सकलं फलं प्राप्नोति काम्यानाम्[^१५७] । अत्र यद् वदन्ति, "संपूर्णवचनाद् आचारहीनस्याप्य् अस्ति काम्येभ्यः फलसंबन्धः, न कृत्स्नफललाभः" इति, तन् न किंचित्, अर्थवादत्वाद् अस्य ॥ १.१०९ ॥
+“The definition of the *cultured* man has already been [provided under
+2.13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145586.html).”
+
+But that verse has been suspected of having a totally different meaning;
+hence it cannot be regarded as providing the required definition. There
+is another statement—that man is *cultured* who is not affected by
+desires.’ But in this, ‘learning’ is not made a necessary condition.
+\[Hence this also cannot be accepted as the requisite definition.\]
+
+When the Veda has been completely learnt and its meaning has been
+thoroughly grasped,—‘*along with its supplements*’—as described by the
+revered Vyāsa,—‘The Veda should be *supplemented* by *Itihāsas* and
+*Purāṇas*’;—by this the *Smṛtis* also became included.
+
+The mention of ‘*Brāhmaṇas*’ is purely reiterative; since none other
+than the Brāhmaṇa is entitled to expound *Dharma*.
+
+‘*Guided directly by the revealed texts*’—The revealed texts are their
+‘*direct guide*’;—*i.e*., those for whom the Veda constitutes Perception
+and all other means of knowledge. What is meant is that they look upon
+the Veda as free from all defects, to the same extent that direct
+Perception is regarded as entirely trustworthy,—they do not rely upon
+those means of cognition that are based entirely on reasonings; they
+regard the Veda itself as embodying ‘reasoning’ also, and do not seek to
+establish the authority of the Veda by means of arguments.
+
+Or, the phrase may mean that ‘they rely upon such Vedic texts as are
+directly found’;—*i.e*., they look upon these directly perceptible texts
+as the sole means of ascertaining what is *Dharma* (right) and what is
+*Adharma* (wrong).—(109)
 
 
-[^१५७]:
-     M G add: ca (see DK 5: 602)

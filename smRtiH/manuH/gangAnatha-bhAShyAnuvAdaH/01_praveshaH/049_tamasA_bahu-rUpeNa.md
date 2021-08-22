@@ -2,13 +2,28 @@
 title = "049 तमसा बहु-रूपेण"
 
 +++
+Words composed in a certain order are called ‘*Veda*.’
 
-**कर्म** अधर्माख्यं **हेतुर्** यस्य तमसस् तेन **वेष्टिता** व्याप्ताः । **बहुरूपेण** विचित्रदुःखानुभवनिमित्तेन । यद्य् अपि सर्वं त्रिगुणं तथाप्य् एषां तम उद्रिक्तम्, अपचिते सत्त्वरजसी । अतस् तमोबाहुल्यान् नित्यं निर्वेददुःखादियुक्ता अधर्मफलम् अनुभवन्तः सुचिरम् आस्ते । सत्त्वस्यापि तत्र भावात् कस्यांचिद् अवस्थायां सुखलेशम् अपि भुञ्जते । तद् आह- **सुखदुःखसमन्विता** इति । **अन्तःसंज्ञेति**[^८९] । संज्ञा[^९०] बुद्धिस् तल्लिङ्गस्य बहिर्विहारव्याहारादेः कार्यस्य चेष्टारूपस्याभावाद् अन्तःसंज्ञा उच्यन्ते । अन्यथान्तर् एव सर्वः पुरुषश् चेतयते । अथ वा यथा मनुष्याः कण्टकादितोदं प्राक् चेतयन्ते नैवं स्थावराः । ते हि महान्तं प्रतोदं परशुविदारणादिदुखसंज्ञायाम् अपेक्षन्ते । यथा स्वापमदमूर्च्छावस्थागताः प्राणिनः ॥ १.४९ ॥
+“In the course of the *states of existence*, what occasion is there for
+the mention of *insentient* things? Words and other things are all
+*insentient*.”
+
+“It is too little when you say that words and other things are
+inanimate. All the beings, from the gods down to the immoveable things,
+exist in the form of *bodies*, and all bodies are insentient. As for the
+sentient faculty, it appears in the form of personal consciousness,—and
+this Personality, by itself, is devoid of qualities. But the body,
+though insentient, comes to be regarded as sentient when it is inhabited
+by the Personality.
+
+Thus what the text means comes to this:—The Veda abounds in the quality
+of ‘*Sattva*;’ hence by its study, people attain to the state partaking
+of the quality of ‘Sattva.’ And ‘the attaining of the state partaking of
+Sattva’ does not mean that the man abounding in ‘Sattva’ *become the
+Veda*.
+
+The view of other people is, that in all things there is a conscious
+being supervising over them, and ‘personalities of the Veda’ are
+described as residing in the regions of Varuṇa.—(49)
 
 
-[^९०]:
-     M G: antaḥsaṃjñā
-
-
-[^८९]:
-     M G omit

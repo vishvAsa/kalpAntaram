@@ -3,4 +3,4 @@ title = "079 यद् प्राग्"
 
 +++
 
-एकसप्ततिर् दैविकानि युगानि मन्वन्तरं नाम कालः ॥ १.७९ ॥
+Separations from relations and loved ones, dwelling with the wicked, acquiring wealth and losing it, making of friends and enemies.—(79)

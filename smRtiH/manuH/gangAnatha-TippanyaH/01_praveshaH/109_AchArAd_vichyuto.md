@@ -2,9 +2,16 @@
 title = "109 आचाराद् विच्युतो"
 
 +++
+‘*Śrutipratyakṣahetavaḥ*’—‘Those who have learnt the Vedic text, also
+facts of perception and reasonings’, *or* ‘those for whom the
+perceptible Vedic texts are the sole means of discriminating virtue and
+vice’ (Medhātithi);—‘who are the cause of the teaching of the subjects
+perceptible in the Veda’ (Govindarāja),—‘who are the causes of making
+the revealed texts perceptible by reciting them’ (Kullūka);—‘those for
+whose knowledge and exposition of the Law, the causes consist of Hearing
+and Perception by the senses’ (Nandana).
 
-प्रकारान्तरेणेयम् आचारस्तुतिः । **आचारात्** प्रच्युत आचारहीनो **न वेदफलं** प्राप्नोति । वेदविहितकर्मानुष्ठानफलं **वेदफलम्** इत्य् उक्तम् । समग्रान्य् अविकलानि वैदिकानि कर्माण्य् अनुतिष्ठन् यद्य् आचारभ्रष्टो न ततः पुत्रकामादिफलम् अश्नुत इति निन्दा । एष एवार्थो विपर्ययेणोच्यते- **आचारेण तु संयुक्तः** सकलं फलं प्राप्नोति काम्यानाम्[^१५७] । अत्र यद् वदन्ति, "संपूर्णवचनाद् आचारहीनस्याप्य् अस्ति काम्येभ्यः फलसंबन्धः, न कृत्स्नफललाभः" इति, तन् न किंचित्, अर्थवादत्वाद् अस्य ॥ १.१०९ ॥
+This verse is quoted in *Smṛticandrikā* (Saṃskāra p. 6) as defining the
+‘*Śiṣṭa*.’
 
 
-[^१५७]:
-     M G add: ca (see DK 5: 602)

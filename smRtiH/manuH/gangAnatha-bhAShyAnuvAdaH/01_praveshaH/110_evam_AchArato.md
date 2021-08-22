@@ -2,9 +2,22 @@
 title = "110 एवम् आचारतो"
 
 +++
+That in which there are at least ten men;—if more cannot be brought
+together, there should be at least ten.
 
-यावत् किंचित् **तपः** प्राणायाममौनयमनियमकृच्छ्रचान्द्रायणानशनादि तस्य **सर्वस्य** फलप्रसवे **मूलम्** आचारः, अतस् तम् एव **मुनयस्** तपःफलार्थिनो मूलत्वेन कारणतया **जगृहुः** गृहीतवन्तः । आचाराद् दृष्ट्वा **धर्मस्य मुनयो गतिं **प्राप्तिम् । अतिक्लेशकरं तपस् तथाप्य्[^१५८] आचारहीनस्य न फलतीति श्रुतिः ॥ १.११० ॥
+If this be not possible, there should be *at least three*.
+
+‘*Firm in their duty*.’—This is a reference to what has been [said under
+2.13](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145586.html).
+
+What is meant to be emphasised here is not the *number*, but the
+*qualification*; as in clear from what is going to be said in Verse 113
+below, regarding ‘even a single Brāhmaṇa learned in the Veda, etc.,
+etc.,’ and the larger numbers are mentioned only in view of the fact
+that it may be difficult to find any single person possessed with all
+the requisite qualifications.
+
+The qualifications for membership of the Assembly are next
+enumerated.—(110)
 
 
-[^१५८]:
-     M G: tadāpy

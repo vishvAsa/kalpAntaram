@@ -2,5 +2,16 @@
 title = "103 विदुषा ब्राह्मणेनेदम्"
 
 +++
+‘*Ajñebhyaḥ*’.—‘Entirely ignorant’ (Medhātithi and Nārāyaṇa), ‘who have
+not read the Veda’ (Nandana),—‘who have learnt a little’ (Govindarāja
+and Kullūka).
 
-**अध्येतव्यं प्रवक्तव्यम्** इत्य् अर्हे कृत्यो न विधौ । द्वितीयाद् अध्यायात् प्रभृति शास्त्रं प्रवर्तिष्यते । अयं ह्य् अध्यायो ऽर्थवाद एव । नात्र कश्चिद् द्विधिर् अस्ति । तेन यथा "राजभोजनाः शालयः" इति शलिस्तुतिर् न राज्ञो ऽन्यस्येति तद्भोजननिषेधः, एवम् अत्रापि **नान्येन केनचिद्** इति नायं निषेधः, केवलं शास्त्रस्तुतिः । सर्वस्मिञ् जगति श्रेष्ठो ब्राह्मणः, सर्वशास्त्राणां शास्त्रम् इदम् अतस् तादृशस्य विदुषो ब्राह्मणस्याध्ययनप्रवचनार्हं न सामान्येन शक्यते अध्येतुं प्रवक्तुं वा । अत एवाह **प्रयत्नत** इति । यावन् न महान् प्रयत्न आस्थितो, यावन् न शास्त्रान्तरैस् तर्कव्याकरणमीमांसादिभिः संस्कृत आत्मा, तावद् एतत् प्रवक्तुं न शक्यते । अत एवाध्ययनेन श्रवणं लक्ष्यते । तत्र हि विद्वत्तोपयोगिनी न संपाठे । विधौ ह्य् अध्ययने विद्वत्तादृष्टयैव स्यान् न च "विधौ श्रवणम् अध्ययनेन लक्ष्यते" इति युक्तं वक्तुम् । न विधेये लक्षणार्थता युक्ता । अर्थवादे तु प्रमाणान्तरानुसारेण गुणवादो न दोषाय । तस्मात् त्रैवर्णिकाधिकारं शास्त्रम् । एतच् च परस्ताद् विशेषतो वक्ष्यते ॥ १.१०३ ॥
+‘*Granthinaḥ*’.—‘Forgetful students’ (Kullūka and Nandana),—‘those who
+learn the verbal text alone and do not ponder, over the meaning’,
+(Medhātithi, Govindarāja and Nārāyaṇa).
+
+This verse is quoted in *Smṛtitattva* II (p. 73), which adds the
+following notes:—‘*Granthinaḥ*,’ who can read only with the help of the
+book,—‘*Dhāriṇaḥ*,’ who can read without the help of the
+book,—‘*Jñāninaḥ*,’ who have studied the scriptures and know their
+meaning.

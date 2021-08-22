@@ -2,5 +2,17 @@
 title = "052 यदा स"
 
 +++
+‘*Addiction to the senses*’—This stands for doing what is forbidden.
 
-**स देवो** **यदा जागर्ति** यद् एतद् इच्छतीदं **जगद्** उत्पद्यताम् एताम् स्थितिं च कालम् इयन्तं लभताम् इति तदा **चेष्टते** । मानसवाचिकभौतिकैर् व्यापारैर् आन्तरैर् बाह्यैश् च श्वासप्रश्वासाहारविहारकृषियागादिभिर् युक्तं भवति । **यदा स्वपिति** यदा निवृत्तेच्छो भवति जगत्सर्गस्थितिभ्यां **तदा सर्वं** **निमीलति** प्रलयं प्राप्नोति । जागर्या स्वापश् च प्रजापतेर् इच्छा प्रवृत्तिनिवृत्ती उच्येते । **शान्तात्म**त्वं भेदावस्थोपसंहारः ॥ १.५२ ॥
+‘*Not attending to duties*’— not doing what has been enjoined.
+
+All this is found only in the case of ‘*foolish*’ men; who are, on that
+account, called ‘*men of the lowest class*.’
+
+These men ‘*go to*’—fall into—‘*the vilest migratory states*’—most
+despicable births.
+
+In accordance with this general principle, the retribution of deeds is
+now explained.—(52)
+
+

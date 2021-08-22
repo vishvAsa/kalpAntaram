@@ -2,9 +2,18 @@
 title = "071 यद् एतत्"
 
 +++
+The text proceeds to indicate the states fallen into by those who fall
+off from their duty.
 
-**यद् एतद्** इति लौकिकी वाचो युक्तिः । समुदायेन प्रक्रान्तो ऽर्थः परामृश्यते । यद् एतच् **चतुर्युगं** **परिसंख्यातं** चत्वारि सहस्राणीत्यादिना निश्चितसंख्यम् **आदौ** प्राग् अस्माच् छ्लोकात्- एतस्य[^१०७] चतुर्युगस्य द्वादशभिः सहस्रैर् **देवानां युगम् उच्यते** । द्वादशचतुर्युगसहस्राणि देवयुगं नाम काल इत्य् अर्थः । सहस्रशब्दात् स्वार्थे ऽण् । द्वादशचतुर्युगसहस्राणि परिमाणं यस्मिन्न् इति विग्रहः ॥ १.७१ ॥
+The *Preta* feeds upon vomitings; and its mouth keeps flaming like a
+fire-brand.
+
+‘*Kuṇapa*’—dead body.
+
+‘*Kūṭapūtanaḥ*’—one from whose nostrils foul smell emanates.
+
+‘*Kaṭapūtanaḥ*’ is another reading; ‘*Kaṭapūtana*’ b eing the name of a
+being of the ‘*Piśāca*’ species, who keeps hovering in
+cremation-grounds.—(71)
 
 
-[^१०७]:
-     M: chlokākasya; G: ekasya

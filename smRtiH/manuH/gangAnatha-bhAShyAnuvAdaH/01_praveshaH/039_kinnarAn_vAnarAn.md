@@ -2,5 +2,11 @@
 title = "039 किन्नरान् वानरान्"
 
 +++
+‘*From among these*.’—qualities;—by what quality what *migratory
+states*’ are fallen into by man;—‘*migratory states*’ standing for
+*states of existence*;—*i.e*., the births that he takes,—is going to be
+described in the following verses.
 
-अश्वमुखाः प्राणिनो हिमवदादिपर्वतेषु भवन्ति ते **किंनराः** । **वानरा** मर्कटमुखा पुरुषविग्रहाः । **विहङ्गमाः** पक्षिणः । अजाविकोष्ट्रगर्दभादयः **पशवः** । **मृगाः** रुरुपृषतादयः । **व्यालाः** सिंहव्याघ्रादयः । द्वे दन्तपङ्क्ती उत्तराधरे येषां भवतस् ते **उभयतोदतः** ॥ १.३९ ॥
+This verse promises what is going to be done.—(39)
+
+

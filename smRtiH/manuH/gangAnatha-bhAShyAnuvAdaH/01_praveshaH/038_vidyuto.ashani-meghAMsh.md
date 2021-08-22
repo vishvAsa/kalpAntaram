@@ -2,9 +2,24 @@
 title = "038 विद्युतो ऽशनि-मेघांश्"
 
 +++
+“There is happiness in pleasure also; so what has been described as the
+characteristic of ‘Sattva’ (under Verso 27, above)—‘when one feels
+bliss, etc., etc.,’ would apply to this also; how then can it be the
+distinguishing feature of ‘Tamas,’ which is of the nature of
+‘stupefaction,’ while in Pleasure, there is keen consciousness, which
+also is a characteristic of ‘Sattva,’ since it has been declared above
+that ‘Sattva is knowledge, etc.’? (26).”
 
-मेघोदरदृश्यं[^८४] मध्यमं ज्योतिर् **विद्युद्** उच्यते । यस्यास् तडित्सौदामिनीत्यादयः पर्याया विशेषाश्रयाः । **अशनिः** शिलाभूता हिमकणिका सूक्ष्मदृश्यश् च वर्षधारादिवत् पतन्त्यो वेगवद् वातप्रेरिताः सस्यादिविनाशिन्य उच्यन्ते । **मेघा** अभ्रोदकमरुज्ज्योतिःसंघाता आन्तरिक्षाः । **रोहितं** दण्डाकारम् अन्तरिक्षे नीललोहितरूपं कदाचित् दृश्यते । आदित्यमण्डललग्नं कदाचित्, कदाचित् प्रदेशान्तरे ऽपि । तस्यैव विशेष **इन्द्रधनुः** । वक्रत्वं धनुराकारताधिकास्य । **उल्का** संध्याप्रदोषादौ विसारिप्रभाण्य् उत्पाते दिक्षु पतन्ति यानि ज्योतींषि दृश्यन्ते । **निर्घातः** भूम्यन्तरिक्ष उत्पातशब्धः । **केतव** उत्पाते दृश्यमानानि शिखावन्ति ज्योतींषि प्रसिद्धानि । अन्यान्य् अपि ध्रुवागस्त्यारुन्धतीप्रभृतीनि नानाप्रकाराणि ॥ १.३८ ॥
+The answer to the above is as follows:—What is set forth in the present
+verse is not the condition of the *Agent* or of the *object* of
+experience; what is meant is an excessive longing for a certain end; and
+certainly at the time of the *longing*, there is no happiness, since the
+object longed for is not there.
+
+Thus then, whenever a man has an excessive craving for Pleasure, he
+becomes deprived of the power to discriminate between right and wrong,
+and is really in a state of stupefaction. It is this sort of craving
+that is meant by the term ‘pleasure,’—and such desire as for the company
+*of* one’s wife during her ‘season.’—(38)
 
 
-[^८४]:
-     G 1st ed.: meghodaraṃ dṛśyaṃ

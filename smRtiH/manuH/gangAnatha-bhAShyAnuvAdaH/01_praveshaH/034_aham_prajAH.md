@@ -2,11 +2,10 @@
 title = "034 अहम् प्रजाः"
 
 +++
+‘*At the three times*.’—This refers either (*a*) to the three conditions
+of equilibrium, increase and decrease, or (*b*) the high, low and
+middling character of the results.
 
-**अहम् असृजम्** उत्पादितवान् । **दश** **प्रजापतीन् महर्षीन्** । **आदितः सुदुश्चरं तपः** कृत्वा । सुष्टु दुःखेन तपश् चर्यते ऽतिपीडाकरं बहुकालं च ॥ १.३४ ॥
-
-_तान् महर्षीन् नामतो निर्दिशति_[^८२] ।
+‘*This*’—refers to what follows.—(34)
 
 
-[^८२]:
-     J adds: marīcim iti

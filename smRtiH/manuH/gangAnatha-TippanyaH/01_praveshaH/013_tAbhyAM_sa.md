@@ -2,9 +2,7 @@
 title = "013 ताभ्यां स"
 
 +++
-
-शकले अण्डकपाले[^४४] । ताभ्याम् अण्डकपालाभ्याम् उत्तरेण **दिवं निर्ममे** निर्मितवान् । अधरेण पृथिवी मध्ये **व्योमा**काशम् । **दिशो ऽष्टौ च** प्रागाद्याः, अवान्तरदिग्भिर् दक्षिणपूर्वादिभिः सह । **अपां स्थानम्** अन्तरिक्षे समुद्रम् आकाशं च पृथिवी पातालगता ॥ १.१३ ॥
-
-
-[^४४]:
-     M: śakalam aṇḍakapāle; J: śakalam aṇḍakapālam
+‘*Jīvasaṃjñaḥ*’.—Nandana is again misrepresented by Buhler; his words
+are ‘*Jīvāt saṃjñā jñānam yasya*,’ which means ‘that which derives
+consciousness from the *Jīva*,’ and not ‘who fully knows the Jīvas,’ as
+Buhler puts it.

@@ -3,4 +3,4 @@ title = "077 वायोर् अपि"
 
 +++
 
-**विरोचिष्णु भास्वद्** इति समानार्थेन शब्दद्वयेन स्वपरप्रकाशता प्रतिपाद्यते । स्वयं दीप्तिमत् परं च भासयति ॥ १.७७ ॥
+Constant births in low forms of life, abounding in misery, afflictions from heat and cold, and terrors of various kinds.—(77)

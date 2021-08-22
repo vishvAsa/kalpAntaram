@@ -2,13 +2,15 @@
 title = "016 तेषान् त्व्"
 
 +++
+Out of the five material substances another body is produced.
 
-**तेषां षण्णां** या **आत्ममात्रास्** तासु **सूक्ष्मान्** **अवयवान्** **संनिवेश्य** **सर्वभूतानि निर्ममे** । तत्र षट्संख्यया वक्ष्यमाणानि पञ्च तन्मात्राणि अतिक्रान्तश् चाहंकारः प्रतिनिर्दिश्यते । आत्ममात्रास् तेषां स्वविकाराः । तन्मात्राणां भूतानि, अहंकारस्येन्द्रियाणि । पृथिव्यादिषु भूतेषु शरीररूपतया तिष्ठत्सु सूक्ष्मान् अवयवांस् तन्मात्राहंकारान् संनिवेश्य यथास्थानं योजनं कृत्वा सर्वभूतानि देवमनुष्यतिर्यक्पक्षिस्थावरादीनि निर्ममे । एतद् उक्तं भवति । षड् अविशेषा अवयवा एकदेशारम्भकाः सर्वस्य जगतस् तस्य तदारब्धत्वात् । सूक्ष्मत्वं तन्मात्रसंज्ञयैव सिद्धम् । तानि संनिवेश्य संनिहत्य[^४८] तेषाम् एवात्ममात्रांस् तद्विकारान्[^४९] भूतेन्द्रियाणि निर्ममे । तैश् च पिण्डसृष्टिं चकारात् । "**मात्रासु**" इत्य् अत्र "मात्राभिः" इति युक्तः पाठः ॥ १.१६ ॥
+The meaning is that a material body is produced, without the process
+involved in the mixture of semen and ovule. In fact, it is only in the
+case of ‘*misbehaved men*’ that this body is made up of material
+substances; in the case of righteous men it is made up of pure *light*
+and consists of mere *Ākāśa*; as is declared in the passage—‘Consisting
+of air, with a body of pure *Ākāśa*, etc.’
 
+‘*Torment*’—great suffering.
 
-[^४९]:
-     M G: evātmamātrās tadvikārāḥ
-
-
-[^४८]:
-     J: saṃhatya
+‘*Strong*’—powerful enough to suffer super-physical torment.—(16)

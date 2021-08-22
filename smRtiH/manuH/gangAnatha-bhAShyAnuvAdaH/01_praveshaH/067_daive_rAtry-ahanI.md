@@ -2,5 +2,15 @@
 title = "067 दैवे रात्र्य्-अहनी"
 
 +++
+When it was said ([under
+62](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202246.html))
+that ‘for stealing water one becomes a *Plava* -bird,’ it was water for
+drinking purposes that was meant; while in the present verse, it is
+water for irrigating fields and such other purposes.
 
-**वर्षं** मनुष्याणां द्वादसमासास् तद् एकम् अहोरात्रं देवानाम् । **तोयोश्** च **विभाग** उदगयनदकिष्णायनाभ्याम् । **तत्रो**दीचीं दिशम् अभिप्रतिष्ठमानस्यादित्यस्य षण्मासा **उदगयनं** भवति । अयनं गमनम् अधिष्ठानं वा । तस्यां दिशि षण्मासान् आदित्य उदेति । ततः परावृत्तस्य **दक्षिणायनम्** । तथा हि दक्षिणां दिशम् आक्रम्योदीचीं हित्वा ह्य् उदयं करोति ॥ १.६७ ॥
+[Under verse
+62](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202246.html),
+the term ‘*Rasa*’ may be taken either as the *first* kind of flavour
+(*Sweet*), or as medicinal substances.—(67)
+
+

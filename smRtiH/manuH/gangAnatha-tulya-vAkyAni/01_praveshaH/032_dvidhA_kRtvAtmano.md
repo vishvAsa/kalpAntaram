@@ -2,5 +2,13 @@
 title = "032 द्विधा कृत्वात्मनो"
 
 +++
+**(verses 12.32-51)  
+**
 
-एषा सृष्टिः साक्षात् परस्य पुरुषस्य । इयं तु ब्रह्मणस् तस्यैवेत्य् अन्ये । यत् तद् अन्तरण्डं समुद्गतं शरीरं तद् द्विधा कृत्वा, **अर्धेन पुरुषो ऽभवत्** पुमान् संपन्नः शुक्रसेकसमर्थः । **अर्धेन नारी** गौरीश्वरभङ्ग्या । अथ वा पृथग् एव तां निर्मितवान् । तां निर्माय तस्यां मैथुनेन धर्मेण **विराड्** इति यस्य नाम प्रसिद्धं तं जनितवान् । एतद् उच्यते । प्रजापतिः स्वां दुहितरम् अगच्छत् । इदम् अपि जायापत्योः शरीरमात्रभेदात् सर्वत्र कार्येष्व् अविभागात् तदालम्बनं द्वैधंकारवचनम् ॥ १.३२ ॥
+*Maitryupaniṣad* (3.5).
+
+*Yājñavalkya* (3.137-138).—‘Addicted to bad acts, impatient, active,
+attached to objects of sense, a man abounds in the attribute of *Rajas*,
+and is re-born among men. Lethargic, cruel in bis acts, covetous,
+heretic, addicted to begging, careless, of bad character, a man abounds
+in the attribute of *Tamas*, and is born among animals.’

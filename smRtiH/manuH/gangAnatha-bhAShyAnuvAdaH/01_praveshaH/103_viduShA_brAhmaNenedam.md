@@ -2,5 +2,29 @@
 title = "103 विदुषा ब्राह्मणेनेदम्"
 
 +++
+‘*Ignoramuses*’—ignorant men; those who do not read at all.
 
-**अध्येतव्यं प्रवक्तव्यम्** इत्य् अर्हे कृत्यो न विधौ । द्वितीयाद् अध्यायात् प्रभृति शास्त्रं प्रवर्तिष्यते । अयं ह्य् अध्यायो ऽर्थवाद एव । नात्र कश्चिद् द्विधिर् अस्ति । तेन यथा "राजभोजनाः शालयः" इति शलिस्तुतिर् न राज्ञो ऽन्यस्येति तद्भोजननिषेधः, एवम् अत्रापि **नान्येन केनचिद्** इति नायं निषेधः, केवलं शास्त्रस्तुतिः । सर्वस्मिञ् जगति श्रेष्ठो ब्राह्मणः, सर्वशास्त्राणां शास्त्रम् इदम् अतस् तादृशस्य विदुषो ब्राह्मणस्याध्ययनप्रवचनार्हं न सामान्येन शक्यते अध्येतुं प्रवक्तुं वा । अत एवाह **प्रयत्नत** इति । यावन् न महान् प्रयत्न आस्थितो, यावन् न शास्त्रान्तरैस् तर्कव्याकरणमीमांसादिभिः संस्कृत आत्मा, तावद् एतत् प्रवक्तुं न शक्यते । अत एवाध्ययनेन श्रवणं लक्ष्यते । तत्र हि विद्वत्तोपयोगिनी न संपाठे । विधौ ह्य् अध्ययने विद्वत्तादृष्टयैव स्यान् न च "विधौ श्रवणम् अध्ययनेन लक्ष्यते" इति युक्तं वक्तुम् । न विधेये लक्षणार्थता युक्ता । अर्थवादे तु प्रमाणान्तरानुसारेण गुणवादो न दोषाय । तस्मात् त्रैवर्णिकाधिकारं शास्त्रम् । एतच् च परस्ताद् विशेषतो वक्ष्यते ॥ १.१०३ ॥
+‘*Who* *read the* *books*’—those who have studied the texts, and are
+just able to mention them.
+
+Better than these are those who ‘*retain*’ them; those who read the
+books with care; while the former do not read with sufficient care. The
+‘*retainers*’ also are of *the books*.
+
+What the *superiority* of these latter means is that they are qualified
+for being engaged in recitations, for receiving gifts, and so forth.
+
+‘*Those who have knowledge*,’ are qualified for all purposes; and hence
+these are still better. Recitations and prayers, when done with
+knowledge, are productive of more excellent results. This is what has
+been thus described—‘Whatever one does with knowledge, faith and with
+due regard to the esoteric teachings, turns out to be most effective.’
+
+‘*Those who act*’—Those who, without any hesitation, act up to the
+teachings of the Veda; and who never doubt their correctness.
+
+This also is meant to be mere praise: Mere study of the Veda is capable
+of accomplishing the ends of man,—how much more so the knowledge of what
+is contained in it!—(103)
+
+

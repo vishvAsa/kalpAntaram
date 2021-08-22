@@ -2,5 +2,32 @@
 title = "018 तद् आविशन्ति"
 
 +++
+‘*Attachment to sensual objects*’—being addicted to such things as are
+forbidden. From this arise ‘*evils*’—the results of sins;—having
+experienced the hellish torments, which constitute these ‘evils’—the men
+have their ‘*sins* *destroyed*’—guilt removed,—by that
+experience,—‘*approaches those two Glorious Ones*.’
 
-तद् एतत् प्रधानं **सर्वभूतकृद्** भवति । **अव्ययम्** अविनाशं कारणात्मना । कथं सर्वाणि **भूतानि** करोति । यतस् तद् **आविशन्ती**मानि । कानि पुनस् तानि । **मनः सूक्ष्मैर् अवयवैः **सह तन्मात्रैर् बुद्ध्यहंकारेन्दियलक्षणैः । अनन्तरं **महान्ति भूतानि** पृथिव्यप्तेजोवाय्वाकाशाख्यानि । **सह कर्मभिः** । धृतिसंहननपक्तिव्यूहावकाशाः पृथिव्यादीनां यथाक्रमं कर्माणि । तत्र धृतिः धारणं सरणपतनधर्मकस्य एकत्रावस्थानम् । संग्राहकाद् विकीर्णस्य संहननम् । यथा पांसवो विकीर्णा उदकेन संहन्यन्ते पिण्डीक्रियन्ते । पक्तिर् अन्नौषधतृणादेस् तेजसः कार्यतया प्रसिद्धा । व्यूहो विन्यासः संनिवेशः । अवकाशो मूर्त्यन्तरेणाप्रतिबन्धः । न हि यस्मिन् देशे मूर्तिर् एका स्थिता तत्र मूर्त्यन्तरस्य स्थानम् । सुवर्णपिण्डे न कस्यचिद् अन्तःसंभवः । मनोग्रहणं सर्वेन्द्रियप्रदर्शनार्थम् । कर्मग्रहणेन च कर्मेन्द्रियाणि वा गृह्यन्ते । अथ वा तत्कार्यं सूक्ष्मैर् अवयवैर् युक्तं महान्ति भूतान्य् अधितिष्ठति पश्चाद् इत्य् एवं योजना । इन्द्रियाणि च मनःशब्दस्य प्रदर्शनार्थत्वात् ॥ १.१८ ॥
+“Which two? In fact the ‘Great Principle’ and the ‘Conscious Being,’
+which form the subject-matter of the present context; but from the next
+verse it appears that it is the Conscious Being who experiences
+pleasures and pains; so that the term ‘*he*’ of the text must stand for
+that being. And thus the meaning comes to be that ‘this Conscious Being
+approaches the same Being,’ which is absurd: the ‘approached’ and the
+‘approacher’ being the same.”
+
+True; but the difference intended is an assumed one. In fact, what is
+meant by ‘*approaching*’ is that ‘the said Being is all that remains of
+the man’; the sense being that as the ‘Conscious Being,’ he was invested
+with the aggregate of the ‘life-breath and other accessories, called the
+‘Great Principle,’ but after having experienced the results of his
+misdeeds, he becomes divested of it, and remains in the form of the pure
+‘Conscious Being,’—who has his abode in the Subtle Body only.
+
+Others explain the ‘*two Glorious Ones*’ as standing for the Great
+Principle and the Supreme Self.
+
+‘*Conducive to misery*.’—It is only after the sins have been destroyed
+that one experiences pleasure; so long as adverse sins are there, even
+in the slightest degree, there can be no pleasure; just as when there is
+slightest indigestion, there is no pleasure in eating anything.—(18)
