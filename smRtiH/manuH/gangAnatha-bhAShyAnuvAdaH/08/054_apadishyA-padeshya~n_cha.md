@@ -2,7 +2,28 @@
 title = "054 अपदिश्याऽपदेश्यञ् च"
 
 +++
+The first half of the verse only re-iterates what has been said before,
+and it is only the second half that puts forward something new. What had
+been said in the first half of the preceding verse is exactly what is
+meant by the first half of the present verse.
 
-पूर्वेणार्धेनोक्तस्यार्थस्य निगमनम् । उत्तरेणानुक्तो ऽर्थ उच्यते । यद् उक्तम् "अदेशं यश् च दिशति निर्दिश्यापह्नुते च यः" (म्ध् ८.५३) इति स एवार्थः **अपदिश्येत्य्** अस्य । अदेश एव्**आपदेशः** । तम् **अपदिश्य** कथयित्वा **पुनः** पश्चाद् **अपधावत्य्** अपसरति "नैतौ देशकालौ मम निश्चितौ, यावत्सु देशकालो ऽवधारयति तावद् अयं मह्यम्" इति पश्चाद् ब्रवीति । सो ऽपि तस्माद् अर्थाद् धीयते । 
+‘*Who having put forward a statement*,’—having said
+something—‘*subsequently retracts*,’—deviates from it, saying
 
-**सम्यक् प्रणिहितं चार्थम्** अनाकुलं निश्चितम् उक्तं यदा पृच्छ्यते, तदानेनोक्तं[^२११] तत्र किं ब्रवीषि केन वा प्रमाणेन स्वपक्षं साधयसीति पृष्टो न संधत्ते[^२१२] कथान्तरं प्रसौति — "विचारावसानेन किल मे पराजयो भवतीति कालम् उपक्षिपमि" इति — तस्यापि पराजय एव । अथ **वापदेशो** व्याजस् तम् **अपदिश्य्**ओपन्यस्य यो ऽपसरति "अधुना मे महती पीडा समुत्पन्ना न शक्नोमि प्रतिवक्तुम्," अलीकादिना वा प्रस्थितः सो ऽपि हीयते ॥ ८.५४ ॥
+‘I am not sure about the time and place’.........,—ho also fails in his
+suit.
+
+Having once ‘*duly*’—with certainty, and clearly—‘*alleged a fact*’,—if,
+‘*on being questioned about it*’—what do you means?—By what evidence do
+you prove your case?’—if he loses faith in the allegation clearly made
+by himself, and proceeds to talk about irrelevant matters, with the
+motive that—‘after due investigation I am sure to lose the case, I may
+just as well get over a little time,’—then such a person also fails in
+his suit.
+
+Or, the term ‘*apadeśa*’ may stand for *fraud*; the meaning being that
+if after having set up a fraud, he slinks away from it, saying—‘I have a
+severe headache now, I cannot answer any questions,’—or if he opens his
+case with false statements,—then also he fails in his suit.—(54)
+
+

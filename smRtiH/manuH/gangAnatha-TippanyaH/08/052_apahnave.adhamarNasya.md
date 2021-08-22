@@ -2,35 +2,22 @@
 title = "052 अपह्नवे ऽधमर्णस्य"
 
 +++
+‘*Deśam*’—There is no difference in the meaning assigned to the word by
+Medhātithi and Kullūka,—both taking it in the sense of ‘witness’; the
+meaning ‘place’, attributed to Medhātithi, is however found in Nandana
+In his interpretation of Medhātithi, Buhler has been misled by the
+explanation that Medhātithi has provided by another reading. (See
+*Translation*).
+
+This verse is quoted in *Kṛtyakalpataru* (24b), which adds the following
+explanation:—When on being questioned in court by the king or the judge,
+the debtor denies all transaction with the creditor, then the latter who
+
+is the plaintiff, should name the witnesses and cite other proofs in the
+form of written documents and so forth:—and in *Vīramitrodaya*
+(Vyavahāra, 29b), which explains ‘*deśam*’ as ‘witness’, expounding it
+as ‘*diṣati artham yathādṛṣṭam*’ and quotes Medhātithi’s explanation on
+‘*karaṇam*’ also, which it explains as ‘other proofs’; it remarks that
+Medhātithi reads ‘*kāraṇam vā samuddishet*.’
 
 
-[^१९६]:
-     M G: karaṇaṃ
-
-यदा राज्ञा प्राड्विवाकेन वा **संसदि** व्यवहाराधिकरणादिदेशे "देह्य्[^१९७] उत्तमर्णाय धनम्" इति **उक्तस्यापह्नवो** ऽपलापः[^१९८] अधर्मेण भवति, तद्**आभियोक्ता**[^१९९] धनस्य प्रयोक्तोत्तमर्णो[^२००] **दिशेद् देशं** साक्षिणं प्रमाणभूतं निर्दिशेत् । **अन्यद् वा कारणं** लेख्यादि । **देश**शब्देन लक्षणया धनप्रयोगप्रदेशवर्तिनां साक्षिणाम् उपादानात्, **कारण**शब्दः[^२०१] सामान्यशब्दो ऽपि गोबलीवर्दवत् साक्षिव्यतिरिक्तं लेख्यादिकारणम्[^२०२] आचष्टे । ततश् च पाठान्तरम् "कारणं वा समुद्दिशेत्" इति । अस्याप्य् अयम् एवार्थः । 
-
-
-[^२०२]:
-     M G DK (1. 212): -karaṇam
-
-
-[^२०१]:
-     M G DK (1: 212): karaṇa-
-
-
-[^२००]:
-     M G: - marṇāya
-
-
-[^१९९]:
-     M G: tadābhiyukto
-
-
-[^१९८]:
-     M G add: apalāpo
-
-
-[^१९७]:
-     M G omit: dehy
-
-अथ वायम् अन्यः पाठः "अभियुक्तो दिशेद् देशम्" इति । अयं वार्थः । यत्राधमर्णो देहीत्य् उक्तः प्रतिजानीते "सत्यम् एव धनं प्रतिदत्तं तु तत्" इति,[^२०३] यद् असाव् अभियोक्तासीत् स एवाभियुक्तः संवृतः । स चाभियुक्तः संदिशेद् देशम्- "कस्मिन् देशे त्वया मे पर्तिदत्तम्" । कालं च निर्दिशेत्, देशग्रहणस्य प्रदर्शनार्थत्वात् । **कारणं**[^२०४] **वा समुद्दिशेत्** । "अस्ति भो[^२०५] किं कारणं[^२०६] तव प्रतिपादने तत् समुद्दिश" इत्य् एवम् ब्रूयात् । अथ वा दिशेद् देश्यम्- यत् तस्मिन् काले नार्हं साक्ष्यादिप्रदर्शनं[^२०७] कारणं[^२०८] वेति । वाशब्दः चशद्बस्य स्थाने ॥ ८.५२ ॥

@@ -2,9 +2,11 @@
 title = "101 एतान् दोषान्"
 
 +++
+‘*Añjasā*’—‘Without hesitation or śilly-shallying (Medhātithi);—‘truly’
+(Govindarāja and Kullūka);—‘quickly’ (Nārāyaṇa).
 
-ऊहापोहौ वर्जयित्वा यथादृष्टं यथाश्रुतं चादृष्टं[^१] तत्वेन ब्रूहि ॥ ८.१०१ ॥
+This verse is quoted in *Aparārka* (p. 674);—in *Smṛticandrikā*
+(Vyavahāra, p. 205), which explains ‘*añjasā*’ as ‘with a clear
+heart’;—and in *Kṛtyakalpataru* (35b).
 
 
-[^१]:
-     DK (1: 268) omits: cādṛṣṭaṃ; M G: dṛṣṭaṃ

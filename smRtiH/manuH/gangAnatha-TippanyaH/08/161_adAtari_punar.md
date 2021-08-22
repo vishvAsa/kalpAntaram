@@ -2,23 +2,23 @@
 title = "161 अदातरि पुनर्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 43), which takes it as
+putting the question which is answered in the next verse. It adds the
+following notes:—‘*Adā tari*’, *i.e*., a surety other than the one for
+payment (*i.e*., the surety for appearance and the surety for
+trust),—being ‘*vijñātoprakṛti*’—*i*.*e*., being known to have stood
+surety after having received something in pledge from the debtor; and
+thus having its character fully known;—if such a surety dies ,—‘*kena
+hetunā*’—by what means—is the ‘*dātā*’—the man who advanced the loan,
+the creditor,—to receive back the debt? The work goes on to quote
+Halāyudha as explaining the term ‘*vijñatoprakṛti*’as ‘being known that
+he became the *lagnaka* (?) on receiving a *pledge*’, and regarding the
+verse as denying the creditor’s right to receive payment from the
+surety’s heirs on his death. But remarks that the net result of both
+explanations is the same.
 
-अनेन श्लोकेन संदिहानः प्रश्नं कृत्वोत्तरेण निश्चाययति । संदेहहेतुः[^४०२] पदद्वयेन "**अदातरि**," "**विज्ञातप्रकृतौ**" इति । सप्तम्यन्तानि समानाधिकरणानि पदानि व्याख्यायन्ते- **अदातरि, प्रतिभुवि, प्रतिज्ञातप्रकृतौ** च[^४०३] । **ऋणम्** अनुत्तमर्णः **केन हेतुना** **परीप्सेत** लब्धुम् इच्छेत्, किं केवलेनैवात्मव्यापारेण ततः प्रतिभुवः पुत्रम् अपि व्यापारयति । 
+This verse is quoted in *Kṛtyakalpataru* (74a), which has the following
+notes:—‘*Adātari*’, a surety other than *Dānapratibhū*,—‘*dātā*’, the
+creditor,—‘*vijñātoprakṛti*’, one whose solvency is well known.
 
 
-[^४०३]:
-     M G: na; J omits: ca
-
-
-[^४०२]:
-     M G DK (1: 664): saṃdehahetuślokaḥ
-
-- span style="text-decoration-underline;">कुतः</u> संदेहः । 
-
-- span style="text-decoration-underline;">उक्तम्</u> "**प्रेते दानप्रतिभुवि**" इति ततो ऽन्यस्मिन् मृते[^४०४] कस् तत्पुत्राणां संबन्धः । यतस् तु खलु **विज्ञातप्रकृतिर्** विज्ञातकारणः प्रतिभूत्वेन धनं गृहीत्वा स्थित इत्य् एतन् निश्चितम्, अतो भवति बुद्धिर् अस्ति तत्पुत्राणां संबन्धो यतस् तेन ऋणसंशुद्ध्यर्थम् अस्य निसृष्टम् इति । 
-
-
-[^४०४]:
-     M G DK: uktam | mṛto dānapratibhūtajjātas tādṛśe mṛte
-
-**पुनः**शब्दः पूर्वस्माद् विशेषम् आह । यति दानप्रतिभुवः पुत्राः संबध्यन्ते । यस् तर्ह्य् अदाता तस्मिन् मृते । **दाता** उत्तमर्णः । **पश्चात्** तत उत्तरकालम् इत्य् अर्थः । शेषं व्याख्यातम् । **परीप्सा** प्राप्तीछा ॥ ८.१६१ ॥

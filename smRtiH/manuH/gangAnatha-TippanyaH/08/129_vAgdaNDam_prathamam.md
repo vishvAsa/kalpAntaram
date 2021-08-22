@@ -2,11 +2,25 @@
 title = "129 वाग्दण्डम् प्रथमम्"
 
 +++
+This verse is quoted in *Mitākṣarā* (1.366), which, in quoting it,
+transposes, ‘*vāgdaṇḍam*’ and ‘*dhigdaṇḍam*,’—such reading is more in
+keeping with Yājñvalkya’s text (1.356),—and it explains ‘*dhigdaṇḍa*’ as
+addressing such terms as ‘fie upon thee,’—and ‘*vāgdaṇḍa*’ as
+‘pronouncing a terrible curse
 
-यो गुणवान् ईषत्प्रथमम् एवापराद्धः स वाचा निर्भर्त्स्यते "न साधु कृतवान् असि, मा पुनर् एवं कार्षीः" इति । तथा विनीयमाने यदि न निवर्तते, "को ऽत्र दोषः"[^१५८] इति वा प्रतिजानीयात् तदा धिग्धिगादिशब्दैः परुषवचनैः कुत्सार्थैः क्षिप्यते । ततो ऽप्य् अनिवर्तमानो यथाशास्त्रं धनेन दण्डनीयः । तद् अप्य् अगणयन्न् ऐश्वर्यादिना हन्तव्यः । वधदण्डश् च ताडनाङ्गच्छेदादि, न मरणम् एव ॥ ८.१२९ ॥
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 156); as laying down
+the order of sequence among the various forms of punishment; it explains
+*vāgdaṇḍa* as pronouncing a terrible curse (reproducing the exact words
+of Mitākṣarā) and ‘*dhigdaṇḍa*’ as ‘chiding with such words as *fie* and
+the like.’
+
+It is quoted in *Vivādaratnākara* (p. 630), which adds the following
+notes:—‘*vāgdaṇḍa*’, ‘thou hast not done right,’—‘*dhigdaṇḍa*’, ‘fie
+upon thee, damned sinner.’
+
+It is quoted in *Vīramitrodaya* (Rājanīti, p. 273), which adds the
+following notes:—The first two forms of punishment are meant for light
+offences; ‘*vadhadaṇḍa*’ means *corporal punishment*, which has to be
+inflicted upon all except the Brāhmaṇas.
 
 
-[^१५८]:
-     M G: kāryadoṣa
-
-_यत आह ।_

@@ -2,13 +2,26 @@
 title = "051 अर्थे ऽपव्ययमानम्"
 
 +++
+Even in the presence of convincing proof, if the debtor does not himself
+admit the debt, then recourse should not be had to ‘trick’ and the other
+means,—the King should be informed of it; and when summoned by the King,
+if the man ‘*denies the debt*,’—saying ‘I do not owe him anything’—then,
+on its being ‘*proved by evidence*’—in the shape of written document,
+oral witnesses and possession,—and the man being made to confess that he
+does owe the debt,—he shall make the debtor repay the ‘*creditor’s
+due*,’—‘*as also a small fine*,’ a small penalty, which shall, later on,
+he fixed at the tenth part of the claim.
 
-सत्य् अपि विभावके प्रमाणे यो न स्वयं प्रतिपद्यते न तस्य छलाद्युपायप्रयोगः कर्तव्यः । किं तर्हि राजैव तेन ज्ञपयितव्यः । तत्र राज्ञाकारिते **ऽर्थे** ऋणे **ऽपव्ययमानम्** अपह्नुवानम्, "नास्मै किंचन धारयमि" इति वदन्तं, **कारणेन** साक्षिलेख्यभुक्त्यात्मकेन **विभावितं** धारयामीति प्रतिपादितं **दापयेद्** उत्तमर्णाय धनम् । **दण्डलेशं** च स्वल्पं दण्डं दण्डमात्रम् इत्य् अर्थः । अन्यत्र दशमं भागं[^१९५] वक्ष्यति । यस् तु तावद् दातुम् अशक्तः सो ऽल्पम् अपि दशमाद् भागाद् दण्डं दापयितव्यः । अथ वा यः प्रमादात् कथंचिद् विस्मृत्यापजानीते तस्यायं यथाशक्ति दशमभागाल्पतो दण्डः । **कारणं** प्रमाणं त्रिविधम् । तद् अन्यैर् इह संभवतीति परिगणितम् । तथा चाहुः-
+If the man he unable to pay the whole fine, he may be made to pay a fine
+even less than the tenth part. Or, the favour of the fine being
+inflicted according to the man’s means,—even less than the tenth
+part—may be taken as pertaining to the case of the man who denies the
+debt (not through perversity, but) through having forgotten all about
+it, through carelessness.
+
+‘*Evidence*,’ proof, is of three kinds; thus enumerated elsewhere—‘If
+one did not have a written deed executed, nor is there a witness, nor
+previous claiming, there the only means is the supernatural one
+(ordeal).’—(51)
 
 
-[^१९५]:
-     M G DK: daṇḍabhāgaṃ
-
-- यत्र न स्यात् कृतं पत्रं साक्षी चैव न विद्यते ।
-
-न चोपलंभः पूर्वोक्तो दैवी तत्र क्रिया भवेत् ॥ इति ॥ ८.५१ ॥

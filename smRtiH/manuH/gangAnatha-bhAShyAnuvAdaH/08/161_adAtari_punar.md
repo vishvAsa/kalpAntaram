@@ -2,23 +2,35 @@
 title = "161 अदातरि पुनर्"
 
 +++
+Having raised a question by means of the present verse, the Author
+answers it in the next verse: and the grounds for doubt are expressed by
+means of the two words ‘*other than that for payment*’ and ‘*whose
+character is fully known*’;—the three words with the locative
+ending—‘*adātari*,’ ‘*pratibhuvi*’ and ‘*vijñātaprakṛtau*’ being
+construed together.
 
-अनेन श्लोकेन संदिहानः प्रश्नं कृत्वोत्तरेण निश्चाययति । संदेहहेतुः[^४०२] पदद्वयेन "**अदातरि**," "**विज्ञातप्रकृतौ**" इति । सप्तम्यन्तानि समानाधिकरणानि पदानि व्याख्यायन्ते- **अदातरि, प्रतिभुवि, प्रतिज्ञातप्रकृतौ** च[^४०३] । **ऋणम्** अनुत्तमर्णः **केन हेतुना** **परीप्सेत** लब्धुम् इच्छेत्, किं केवलेनैवात्मव्यापारेण ततः प्रतिभुवः पुत्रम् अपि व्यापारयति । 
+‘*By what means would the Creditor seek to obtain his dues*?’—Should he
+seek to obtain it entirely by his own operations? Or should he also urge
+the surety’s son?
+
+“Why should there be any such doubt, when it has been distinctly
+asserted that in the case of the death of sureties other than that for
+payment, the sous shall not be liable?—what connection then can the sons
+have with such dues?” The doubt arises because the surety is one ‘*whose
+character is fully known*’; which means that it is fully known that the
+man had received payment for becoming ‘surety ’; and this fact, being
+known, might give rise to the idea that his sons should be liable; since
+it is possible that the amount paid to the surety was for the purpose of
+paying off the debt in question.
+
+The particle ‘*punaḥ*,’ ‘*then*,’ serves to distinguish the present from
+the preceding verse; the meaning being—‘if the liability falls upon the
+sons of the surety for payment only, then in the case of the death of
+one who is surety *not for payment*, from whom would the creditor, after
+his death, seek to obtain his dues?’
+
+The rest has been already explained.
+
+‘*Parīpsā*’ is *seeking to obtain*.—(101)
 
 
-[^४०३]:
-     M G: na; J omits: ca
-
-
-[^४०२]:
-     M G DK (1: 664): saṃdehahetuślokaḥ
-
-- span style="text-decoration-underline;">कुतः</u> संदेहः । 
-
-- span style="text-decoration-underline;">उक्तम्</u> "**प्रेते दानप्रतिभुवि**" इति ततो ऽन्यस्मिन् मृते[^४०४] कस् तत्पुत्राणां संबन्धः । यतस् तु खलु **विज्ञातप्रकृतिर्** विज्ञातकारणः प्रतिभूत्वेन धनं गृहीत्वा स्थित इत्य् एतन् निश्चितम्, अतो भवति बुद्धिर् अस्ति तत्पुत्राणां संबन्धो यतस् तेन ऋणसंशुद्ध्यर्थम् अस्य निसृष्टम् इति । 
-
-
-[^४०४]:
-     M G DK: uktam | mṛto dānapratibhūtajjātas tādṛśe mṛte
-
-**पुनः**शब्दः पूर्वस्माद् विशेषम् आह । यति दानप्रतिभुवः पुत्राः संबध्यन्ते । यस् तर्ह्य् अदाता तस्मिन् मृते । **दाता** उत्तमर्णः । **पश्चात्** तत उत्तरकालम् इत्य् अर्थः । शेषं व्याख्यातम् । **परीप्सा** प्राप्तीछा ॥ ८.१६१ ॥

@@ -2,17 +2,39 @@
 title = "025 बाह्यैर् विभावयेल्"
 
 +++
+What the verse means is that in course of the investigations the
+veracity or otherwise of witnesses should he found out by means of
+Inference also;—and the mention of ‘voice,’ etc., is only by way of
+illustration; what the meaning therefore is, is that it shall be
+ascertained by means of such sure indiations as may be possible, and not
+necessarily only by ‘voice’ and other things mentioned here; for the
+simple reason that these latter are not always infallible; *e.g*., in
+many cases persons who are not used to the presence of great men become
+flurried, even though they be quite truthful; while those that are pert
+manage to hide their real feelings.
 
-तथा चेदम् आह । अनुमानेनापि सत्यानृतवादिता व्यवहारतः साक्षिणां च निश्चेतव्या इति श्लोकार्थः । अतश् च स्वरादिग्रहणं प्रदर्शनार्थम् । तेन यन् निश्चितलिङ्गं[^१०७] तेन परिच्छिन्द्याद् इत्य् उक्तं भवति, न पुनः स्वरादिभिर् एव, सव्यभिचारित्वात् तेषाम् । अनुचितसभाप्रेवेशा हि महाप्रकृतिदर्शनेन सत्यकारिणो ऽपि स्वभावतो विक्रियन्ते । प्रगल्भास् तु संवृताकारा भवन्ति । स्वरश् च वर्णश् चेङ्गितं च स्वरवर्णेङ्गितानि, तेषाम् आकाराः **स्वरवर्णेङ्गिताकाराः** । आकारो विकारः । स्वाभाविकानां हि स्वरादीनाम् अन्यथात्वम् । तैर् **विभावयेन्** निश्चिनुयात् । **भावम्** अभिप्रायम् अन्तर्गतं मनुष्याणां विवादिसाक्ष्यादीनाम् । तत्र स्वरस्य विकारो वाचि गद्गदरुदितादि । वर्णस्य गात्ररूपविपर्ययादि । इङ्गितं स्वेदवेपथुरोमाञ्चादि । **चक्षुषा** संभ्रमक्रोधदृष्टिपातेन । **चेष्टितेन** हस्तनिक्षेपभ्रूविक्षेपादिना[^१०८] । स्वसंवेदम्[^१०९] चैतत्, यद् गूह्यमानम् अप्य् अभिप्रायं स्वरादयः प्रकाशयन्ति निपुणतो लक्ष्यमाणाः । यतः प्रसिद्धम् एतेषां गूड्ःआभिप्रायप्रकटनसामर्थ्यम् ॥ ८.२५ ॥
+The compound ‘*svaravarṇeṅgitākāraiḥ*’ is to be expounded as—by the
+*ākāra*—variations in—their ‘*svara*,’ ‘voice’—‘*varṇa*’ ‘colour’—and
+‘*iṅgita*,’ ‘aspect’;—the ‘change’ referred to being modifications
+undergone by men’s ordinary ‘voice’ and the rest
+
+By means of these he shall ‘*discover*’—ascertain—the ‘*internal
+disposition*’— intention—‘*of men*’— of suitors and witnesses.
+
+The ‘change of voice’ occurs in the form of *faltering*, being *choked
+with tears* and so forth;—that of ‘*colour*’ in the form of sudden
+changes of complexion and so forth;—that of ‘*aspect*’ in the shape of
+perspiration, trembling, thrilling of hairs and so forth.
+
+‘*By means of the eye*’;—*i.e*., by suddenly casting on them an angry
+look.
+
+‘*By gestures*,’—*i.e*., by the movement of the hands, the eye-brows and
+so forth.
+
+It is a fact of common experience that voice and the rest, if carefully
+watched, disclose the most hidden feelings;—the fact of these being
+indicative of hidden feelings being well known among men, as we find in
+ordinary experience.—(25)
 
 
-[^१०९]:
-     M G: tvasaṃvedam
-
-
-[^१०८]:
-     M G J: -vikṣepādi
-
-
-[^१०७]:
-     DK (1:192): niścitaṃ liṅgaṃ

@@ -2,22 +2,22 @@
 title = "036 अनृतन् तु"
 
 +++
+But when the man, who has made the statement ‘this treasure was hoarded
+by me, or by my forefathers,’ fails to prove this,—then being a liar, he
+should be fined the eighth part of what his own property may be,—or a
+smaller fraction of that same treasure-trove, it is not necessary that
+he should he made to pay in the same metal, gold or otherwise, as that
+which has been found; he may pay in some other metal of equal value to
+the former; the exact amount of the fine being such as does not ruin the
+culprit, and yet teaches him a lesson.
 
-यस् तु मयायं निहितो मत्पूर्वजेन वेति[^१३६] प्रतिज्ञां न साधयति सो ऽसत्यवादी[^१३७] दण्ड्यः । यावत् तस्य वित्तम् अस्ति, ततो ऽष्टमं भागं **तस्यैव वा** **निधानस्याल्पीयसीं कलां** मात्रां भागम् इत्य् अर्थः । न तु तद् एव द्रव्यं सुवर्णादिकं दापयेत्, किं तु तत्परिमाणम् अन्यद् वा सममूल्यं यया धनमात्रया दण्डितो ऽवसादं न[^१३८] गच्छेद् विनयं वा ग्राह्येत । अनुबन्धादिविशेषापेक्षया पुरुषगुणापेक्षया च विकल्प आश्रयणीयः । आतिशायनिकात् पूर्वदण्डात् स्वल्पो दण्ड इति ज्ञापयति । तेन यस्य बहु वित्तं स्वल्पो निधिः, तत्र निध्यपेक्षां मात्राम् अष्टमांशम्[^१३९] अर्थाधीनां दण्ड्यः । सा ह्य् अल्पीयसी भवति ॥ ८.३६ ॥
+The option is based either upon the peculiarity of the attendant
+circumstances of each case, or the qualities of the person concerned.
+That this is so is indicated by the fact that the latter punishment is
+lighter than the former one, which is excessive. Thus then, where the
+man is possessed of a large property, and the treasure concerned is
+small, there the fine shall not be in proportion to the latter; in this
+case the fine shall be in proportion to the man’s property; the former
+would be too little (to be a deterrent).—(36)
 
-
-[^१३९]:
-     M G DK: aṣṭamām
-
-
-[^१३८]:
-     M G omit: na
-
-
-[^१३७]:
-     M G: 'nyavādī
-
-
-[^१३६]:
-     M G: ceti
 

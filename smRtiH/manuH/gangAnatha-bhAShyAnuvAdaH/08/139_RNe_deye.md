@@ -2,13 +2,32 @@
 title = "139 ऋणे देये"
 
 +++
+When the debtor, on being summoned to the King’s Court, admits the debt
+as legally due by him, saying—‘I do really owe this to him,’—then
+‘*i.e., deserves five per cent*.’ ‘*as fine*’;—this has to be added. By
+this rule, the man is to be fined the twentieth part of the amount of
+debt claimed. The man deserves this fine on account of his having
+transgressed the law by not satisfying the creditor’s claims outside the
+Court and thereby forcing him to come up to the king.
 
-यो राजसभायाम् आनीतो धर्मेण ऋणं देयतया प्रतिजानीते "सत्यम् अस्मै धारयामि," स **पञ्चकं शतम् अर्हति** दण्डम् इति शेषः । अनेन संकल्पितेन विंशतितमो भागो दण्ड्यते । किम् इति । "मत्सकाशम्[^१७७] उत्तमर्णः प्रेषितो बहिर् एव कस्मान् न परितोषितः" इत्य् अतो ऽनेन शास्त्रव्यतिक्रमेण दण्डम् अर्हति । यस् तु व्यतिक्रमान्तरं करोत्य् **अपह्नुते** "नाहम् अस्मै धारयामि" इति, स तैः प्रतिपादितस् **तद्द्विगुणं** । तस्मात् पञ्चकाद् द्विगुणं दशकं शतम् इत्य् अर्थः । **तन् मनोः** प्रजापतेर् **अनुशासनं** सृष्टिकालप्रभृतिव्यवस्था नीतिर् इति यावत् ।
+When the man commits a further transgression by denying the claim,
+saying—‘I do not owe anything to this person,’—then, on the claim being
+proved, the man is to be fined ‘*twice* as *much*’; *i.e*., double of
+five per cent.; *i.e*., ten per cent.
+
+‘*Such is the ordinance of Manu*’—Prajāpati; *i.e*., the Rule or Law
+propounded by him from the very beginning of creation.
+
+Others have explained the term ‘*as much*’ as referring to the total
+amount of the claim, *i.e*., double the sum that is due to the debtor;
+as it is only thus that the syntactical connection with the term
+‘*debt*’ is maintained; otherwise there is a syntactical split; and as
+no different subject has been mentioned, if it referred to the same
+subject, then the result would be an option.
+
+This however is not right; for the double of the amount of debt would he
+too much. Even though the subject is not definitely mentioned, yet on
+account of juxtaposition, it is only right that it should be taken as
+referring to ‘*five per cent*.’—(139)
 
 
-[^१७७]:
-     M G: tatsakāśam
-
-- span style="text-decoration-underline;">अन्ये तु</u> **तच्**छब्देन देयम् एव प्रत्यवमृशन्ति । यावत् तस्मै देयं तद्द्विगुणम् । तेन यावद् ऋणम् इत्य् अनेनैकवाक्यं भवति । अन्यथा वाक्यभेदः । विषयविशेषानिर्देशाद् एकविषयत्वे विकल्पः प्राप्नोति । 
-
-<u>स च</u> न युक्तो द्विगुणस्यात्यन्तबहुत्वात् । असत्य् अपि निर्देशे तस्य विषयो दर्शनीयः,[^१७८] तस्य प्रत्यासन्ने[^१७९] पञ्चकम् इति, अर्थात्[^१८०] तस्यैवानुप्रत्यवमर्शो युक्तः ॥ ८.१३९ ॥

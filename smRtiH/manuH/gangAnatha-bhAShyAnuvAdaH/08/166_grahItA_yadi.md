@@ -2,43 +2,40 @@
 title = "166 ग्रहीता यदि"
 
 +++
+It has been declared that the debt is to be repaid by the man by whom it
+was contracted, and in his absence by his son or grandson, and in the
+absence of those hitter, by any one who inherits his property; and from
+this it would seem that no one else was liable in any circumstances. It
+is in view of this that the author adds the present verse.
 
-उक्तं येन गृहीतम् ऋणं तेन प्रतिदातव्यम् । तदभावे पुत्रपौत्रैस् तदभावे तदृक्थग्राहिणा[^४८८] । न तद्व्यतिरेकेनान्यस्य[^४८९] दानं प्राप्तम् इष्यते । अत्रे क्वचिद् विषये तदर्थम् इदम् उच्यते । येन गृहीतं धनं स चेन् **नष्टो** मृतो देशान्तरं गतो वा — **कुटुम्बे**[^४९०]** च कृतो व्ययः** — **दातव्यं बान्ध्वैस् तद्** भ्रातृतत्पुत्रपितृव्यादिभिः **प्रविभक्तैर्** विभक्तधनैर् अपि **स्वतः** स्वध्नाद् इत्य् अर्थः । यावद् भ्रातरः सह वसन्ति तेषां यद् ऋणम् उपजातं तद् गृहमध्याद् एव दीयते । तच्छिष्टे[^४९१] ऽस्य विभागः । यथोक्तम् ।
+If the man who contracted the debt is ‘*lost*’—*i.e*., dead or gone
+abroad, ‘*and the* *expenditure was incurred by the family*,’—then that
+debt ‘*is to be paid by bis relatives*’; *i.e*., by his brother or
+nephew or uncle, *etc*.,—‘*even though these may have been
+separated*’—*i.e*., had divided their property;—‘*svataḥ*,’ *i.e., out
+of their own property*.
+
+The debt that has been contracted by one among several brothers 1ms to
+be repaid out of the common household, specially if there has been no
+division among them. To this end we have the declaration -¹ The debt
+that has been contracted by an unseparated uncle or brother, or by the
+mother, for the sake of the family, all this is to be paid out of the
+common property, so that from among the undivided members of a family,
+if any one has contracted a debt for the sake of the family, it should
+be paid by all other members,—brother, uncle, nephew or cousin; but not
+so, if the debt contracted was not for the use of the family.’ The term
+‘unseparated’ implies that debt for the use of the whole family is
+generally contracted only by such persons; for people who have become
+separated are never found to be contracting debts for the maintenance of
+families other than their own.
+
+‘*Even though these may hare been separated*’;—the term ‘even’ implies
+that it has to be paid of course by those who are *not separated*. If it
+so happens that from among separated brothers, one goes abroad, without
+making any provision for his family, and another, being of a magnanimous
+temperament, takes upon himself the burden of maintaining his family
+during his absence—then the absentee should, on his return, repay any
+debts that his separated brother or uncle may have contracted on behalf
+of his family.—(166)
 
 
-[^४९१]:
-     M G: tadṛṣṭe; DK: tadṛkthe
-
-
-[^४९०]:
-     M G: kuṭumbena
-
-
-[^४८९]:
-     M G: tattadvyati- (omits na)
-
-
-[^४८८]:
-     M G DK: tadṛkthahārī
-
-- पितृव्येणाविभक्तेन भ्रात्रा वा यद् ऋणं कृतम् ।
-
-- मात्रा वा यत् कुटुम्बार्थं दद्युस् तत् सर्वम् ऋक्थतः[^४९२] ॥ इति ।
-
-
-[^४९२]:
-     M G: ṛkṣita; DK: ṛkthinaḥ
-
-अविभक्तानाम् अन्यतमेन यत् कुटुम्बार्थम् ऋणं कृतं तद् भ्रातृपितृव्यतत्पुत्रादयः सर्वे दद्युर् न त्व् अकुटुम्बार्थम् इत्य् अर्थः । अविभक्तग्रहणात् तेषाम् एव तथाविधम् ऋणं संभवेत् प्रायः । न हि प्रविभक्ताः[^४९३] परकीयकुटुम्बभरणार्थम्[^४९४] ऋणं गृह्णन्तो दृश्यन्ते । अतः[^४९५] **प्रविभक्तैर् अपीत्य्** आह ¦ **अपि**शब्दाद् अविभक्तैश् च । यदि कश्चिद् भ्रातॄणां विभक्तानां स्वकुटुम्बभरणम् अकृत्वा प्रवसेद् इतरश् च महासत्वतया तदीयं कुटुम्भं बिभृयात्, तत्र विभकेनापि भ्रात्रा पितृव्येण वा यद् ऋणं कृतं तद् इतरो दद्याद् एव देशान्तरागतः ॥ ८.१६६ ॥
-
-
-[^४९५]:
-     M G DK omit: ataḥ
-
-
-[^४९४]:
-     M G: -karaṇārtham
-
-
-[^४९३]:
-     M G: pravibhaktāt

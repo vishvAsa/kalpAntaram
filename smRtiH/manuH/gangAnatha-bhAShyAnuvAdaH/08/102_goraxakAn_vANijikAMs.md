@@ -2,5 +2,27 @@
 title = "102 गोरक्षकान् वाणिजिकांस्"
 
 +++
+‘*Craftsmen*’—artisans; carpenters, blacksmiths, cooks and so forth.
 
-**कारवः** शिल्पिनस् तक्षायस्कारसूपकरादयः । **कुशीलवा** नर्तकगायनाद्याः । **प्रेष्या** जीविकार्थं परस्याज्ञाकारा दासा इति प्रसिद्धाः । **वार्धुषिका** वृद्ध्युपजीविनः । एते ब्राह्मणा अपि सन्तः प्रकरणात् साक्ष्ये शपथे च **शूद्रवद्** द्रष्टव्या न क्रियान्तरे । यथा शूद्रो न दानपुण्यादिना पृच्छ्यन्ते साक्ष्ये शपथे चाग्निहरणादिना शोध्यते तद्वद् एषो ऽपि शपथो यद्य् अपि पूर्वत्राप्रकृतः तथाप्य् उत्तरत्रानन्तर्याद् दोषवत्वात् प्रयतत्वात् प्रयतत्वे ऽप्य् आनन्तर्यस्य संबन्धहेतुत्वाद् वक्ष्यमाणस्यापि प्रत्यासत्त्या पूर्ववद् वयोसंनिपातात् शपथे ऽपि तुल्यम् ॥ ८.१०२ ॥
+‘*Actors*’—dancers and singers.
+
+‘*Menial servants*,’—those who serve others for a living; known as
+‘*dāsa*.’
+
+‘*Money-lenders*,’—who live upon interest on money lent.
+
+These persons, even though they he Brāhmaṇas, should, in the matter of
+taking evidence and administering ordeals,—that this is meant is dear
+from ‘the context—he ‘*treated*’—*i.e*., questioned—‘*like Śūdras*’; but
+not so in other matters. That is to say, in taking evidence, the *Śūdra*
+is not questioned with reference to charity, virtue and the like, and in
+ordeals, he is subjected to the ordeal by fire; and the same treatment
+should be meted out to the persons mentioned here.
+
+Though *ordeal* has not yet been spoken of in the present context, yet
+what is said here is taken as applying to the case of ordeals also,
+because they are dealt with immediately after the present section, and
+immediate sequence also is a basis of relationship; the two subjects
+therefore are closely interrelated.—(102)
+
+

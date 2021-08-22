@@ -2,43 +2,27 @@
 title = "154 ऋणन् दातुम्"
 
 +++
+*Karaṇa*’—‘Written bond’ (Kullūka and Rāghavānanda);—‘written bond and
+witnesses’ (Medhātithi).
 
-वृद्धिद्विगुणीभूतम् **ऋणं** धनपरिक्षयाद् **दातुम् अशक्तो यः** **स** **पुनः क्रियाम्** कारयितव्यः । **करणं** लेख्यसाक्ष्यादि परिवर्तयितव्यः । **वृद्धिं** तु दद्यात् **निर्जिताम्**, यावती गणनया भवतीत्य् अर्थः । द्विगुणाद् अधिकं न ग्राह्यम् इति यद् उक्तं तस्यायम् अपवादः । नवो[^३५२] ह्य् अयं प्रयोग इति । कुतः पुनः द्वैगुण्यापवादार्थता । यावता नेह किंचिद् ईदृशं वचनम् अस्ति वृद्धिसहितं धनं वर्धते मूलधनं वा । केवलं पुनः क्रिया श्रूयते । सा च **करणं** **परिवर्तयेद्** इति व्याख्यान्तरेण व्याख्याता । 
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 193), which
+adds the following explanation:—‘When the time for repayment arrives, if
+the debtor, find himself unable to pay the whole amount due—the
+principal along with accrued interest,—and the creditor is unwilling to
+keep the loan hanging,—and should wish to renew the transaction on the
+same terms, he should pay the accrued interest and renew the bond, dated
+afresh with the new date.’
 
+It is quoted in *Vivādaratnākara* (p. 72), as laying down one of the
+methods of ‘compound interest.’ It adds the following
+notes:—‘*Nirjitām*,’ legally due to the creditor; of this accrued
+interest he should pay either the whole, or a part only, and add the
+remainder to the principal and renew the bond for the total;—in
+*Nṛsiṃhaprasāda* (Vyavahāra, 19b);—in *Kṛtyakalpataru* (80a), which
+explains ‘*nirjitām*’ as ‘determined to have already accrued to the
+creditor,’—and ‘*karaṇ* *am parivartayet*’ as ‘should write another
+document attested by fresh witnesses’;—and in *Vīramitrodaya*
+(Vyavahāra, 104a).
 
-[^३५२]:
-     M G J: jayo
-
-- span style="text-decoration-underline;">यदि</u> न वर्धते किम् अर्थं तर्हि करणपरिवर्तनम् ।
-
-- span style="text-decoration-underline;">उच्यते</u> । शान्तलाभे धने ऽदीयमाने आलस्यादिसंभावना[^३५३] साक्षिणश् च दीर्घे गच्छति काले विस्मरेयुः । यथोक्तम् ।
-
-
-[^३५३]:
-     M G: yā gantryādisaṃbhāvanā; J: yogakrayādisaṃbhāvanā (we have here three different readings from the three editions; clearly a defective reading here, which the editors attempted to correct)
-
-- यत्र कार्ये भवेद् येन कृतोपेक्षा दशाब्दिकी ।
-
-- विवादस् तत्र नैव स्यात् साहसेषु विशेषतः ॥
-
-तथा "दशवर्षोपेक्षितम् ऋणम् असाध्यम्" (कश् ३.११.१३) इति । तथाच पूर्वे स्म व्याचक्षते । 
-
-- अयं च राज्ञः उपदेशः पीडितस्यानुग्रहः । यदि च द्विगुणस्य नवीकरणेन पुनः प्रयोगो[^३५४] वृद्धिसहितस्य पुनर् वृद्धिर् महांश् च[^३५५] पीडितस्यानुग्रहः । अथ सर्वं तदानीम् अवष्टभ्य न दाप्यते, एषो ऽनुग्रहो निर्धनस्य । ईदृशो ऽनुग्रहो दैवेनैव कृतः । तथा च सर्वस्मृतिष्व् अस्याम् अवस्थायां विहितम् ।
-
-
-[^३५५]:
-     M G: mahāśa; J: mahān ayaṃ
-
-
-[^३५४]:
-     M G: prayoge
-
-- अथ शक्तिविहीनः स्याद् ऋणी कालविपर्ययात् ।
-
-- प्रेक्ष्य शक्तिम्[^३५६] ऋणं दाप्यः काले देशे यथोदयम् ॥
-
-
-[^३५६]:
-     M G: prekṣyaś ca tam; DK: prekṣya ca tam
-
-यद्य् अधमर्णो दैवदोषान् निर्धनीभूतस् तदा न दुर्गावरोधादिना राज्ञा पीडयितव्यः । किं तर्हि कर्तव्यम् । यदास्य कथंचिद् धनं भवेत् तदा यथासंभवं शनैः शनैर् दापयितव्यः । "प्रेक्ष्य शक्तिम्" धनवत्तां[^३५७] ज्ञात्वेत्य् अर्थः । दाप्य्ः उचितस्य । वक्ष्यति "कर्मणापि समं कुर्यात्" (म्ध् ८.१७७) इति । तस्मात् कारणपरिवृत्तौ[^३५८] यद् एवोक्तम् अस्माभिस् तद् एव प्रयोजनम् ॥ ८.१५४ ॥
+At the end of Adhyāya VIII, Mandlik has printed the following verse with
+Medhātithi’s explanation thereupon—

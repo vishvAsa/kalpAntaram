@@ -2,17 +2,12 @@
 title = "118 लोभान् मोहाद्"
 
 +++
+This verse is quoted in *Aparārka* (p. 680), which adds the following
+notes:—False evidence is given only through these causes;—‘*lobha*’ is
+greed for wealth,—‘*moha*’ is mistake,—‘*ajñāna*’, imperfect
+knowledge,—‘*bālabhāva*’ extreme youth;—in *Kṛtyakalpataru* (37a);—and
+in *Vīramitrodaya* (Vyavahāra, 50b).
 
-कौटसाक्ष्यं[^१३०] लोभादिनिमित्तम्[^१३१] । विषयकथनं दण्डविशेषभावार्थम्[^१३२] । **वितथम्** असत्यम् । सर्वत्र पञ्चमी हेत्वर्था ॥ ८.११८ ॥
-
-
-[^१३२]:
-     DK: daṇḍaviśeṣalābhārtham
-
-
-[^१३१]:
-     DK: lobhādinimitta-
+It is quoted also in *Parāśaramādhava* (Vyavahāra, p. 80).
 
 
-[^१३०]:
-     M G: kauṭasākṣya-; DK (1:278): kauṭasākṣye

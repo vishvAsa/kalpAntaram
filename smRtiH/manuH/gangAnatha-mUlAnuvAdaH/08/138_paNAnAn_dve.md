@@ -3,4 +3,4 @@ title = "138 पणानान् द्वे"
 
 +++
 
-**मधयम उत्तम** इत्य् अत्र साहसपदानुषङ्गः कर्तव्यः । मधमोत्तमशब्दाव् अत्र केवलाव् अपि शास्त्रान्तरदृष्टौ- "आभ्यां दण्ड उत्तमः" इति । तत्र शास्त्रसिद्ध्या साहचर्यात् साहसं प्रतीयते । अवयवाः स्पष्टाः ॥ ८.१३८ ॥
+The first amercement has been declared to be two hundred and fifty paṇas; the middling is to be known as five hundred; and the highest as a thousand.—(138)

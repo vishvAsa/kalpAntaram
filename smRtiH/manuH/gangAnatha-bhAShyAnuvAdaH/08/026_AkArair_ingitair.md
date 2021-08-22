@@ -2,13 +2,25 @@
 title = "026 आकारैर् इङ्गितैर्"
 
 +++
+What this verse does is to support, by ordinary experience, what has
+gone in the preceding verse; hence there is no repetition.
 
-तथा हि, लोके[^११०] दृष्टशक्तितानेन[^१११] श्लोकेन स्वरादीनां पूर्वोक्तार्थाधिगमेन दर्शयतीत्य् अपौनरुक्त्यम् । तत्राक्रियन्ते विक्रयन्त इत्य् **आकारा** **इङ्गिता**दयः । **इङ्गितं** व्याख्यातम् । व्यक्तिभेदाद् बहुवचनम् । **गतिः** पूर्वश्लोकाद् अत्राधिका । सा प्रस्खलन्ती स्वभावतो ऽन्यथाभूता । **भाषीतं** पौर्वापर्यविरुद्धं वचनम् । **वक्त्रविकार** आस्यविशेषादिः । शेषं पूर्वश्लोक एव व्याख्यातम् । एतैर् विकृतैर् **अन्तर्गतं** चित्तं लौकिकैर् अन्यत्रापि गृह्यत इति समासार्थः ॥ ८.२६ ॥
+‘*Ākāra*’ is that which changes, *variations*; such as *aspect* and the
+rest.
+
+‘*Aspect*’ has already been explained; the plural number is used in view
+of there being numerous individual aspects.
+
+‘*Gait*,’—this is in addition to what has gone in the preceding verse;
+it means the ordinary gait of a man being tripped or otherwise altered.
+
+‘*Speech*’—inconsistent and contradictory statements.
+
+‘*Changes in the face*’—the mouth being parched and so forth.
+
+The rest has all been explained under the previous verse.
+
+By means of the variations of all these the innermost heart is indicated
+even in ordinary life; such in brief is the meaning of the verse.—(26)
 
 
-[^१११]:
-     M G: dṛṣṭaśaktito 'nena
-
-
-[^११०]:
-     J places tathā hi loke before verse 26 as an introduction to it.

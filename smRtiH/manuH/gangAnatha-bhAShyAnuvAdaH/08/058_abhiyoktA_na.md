@@ -2,13 +2,24 @@
 title = "058 अभियोक्ता न"
 
 +++
+If the ‘*complainant*’—plaintiff—having gone to the King, and on getting
+the other party summoned,—does not state his case, then, on account of
+haring done all this needlessly, ‘*he shall be imprisoned and fined*’;
+whether the punishment shall be imprisonment or fine, and what shall be
+the exact period and amount of these, should he determined in accordance
+with the nature of the case and the loss entailed upon the other party
+on account of being summoned. For this reason it is necessary for the
+complainant to state his case on the same day.
 
-**अभियोक्ता** अर्थी राज्ञान्तिकं कंचन[^२३४] पुरुषम् आहूय यदि व्यवहारपदं न कथयति, तदा निष्प्रयोजनाद् **बध्यो**[^२३५] **दण्ड्यश्** **च** । दण्डबन्धने दण्डपरिमाणे च गुणवत्तां प्रत्यर्थिन आह्वानेन च हानिम् अपेक्ष्य कल्पनीयानि । अतस् तदहर् एवार्थिना विवदितव्यम् । प्रत्यर्थी तु **न चेत् त्रिपक्षाद् ब्रूयाद्** इत्य् अर्थः — तदा नासौ दण्ड्यो बन्धयितव्यो वा । किं तर्हीयता कालेनोत्तरे सत्य् अपराजित एव । **धर्मं प्रति** । धर्मत एवायं पराजयो न छलम् इत्य् अर्थः । **त्रिपक्षाद्** इति पात्रादिषु द्रष्टव्यस् तेनेकाराभावः । अर्थतत्त्वम् अस्य लोकस्यास्माभिः प्राङ् निरूपितम् ॥ ८.५८ ॥
+As for the defendant, ‘*if he does not answer within three
+fortnights*,’—then he shall not be either imprisoned or fined; in fact,
+if he does not answer the charge within the time, he loses the case.
+
+‘*According to law*’;—such defeat would be quite legal, and not illegal.
+
+‘*Within three fortnights*’;............ (?)
+
+The real meaning of this verse has been explained by us above (under
+verse 56).—(58)
 
 
-[^२३५]:
-     J: bandhyo
-
-
-[^२३४]:
-     M G DK: ca

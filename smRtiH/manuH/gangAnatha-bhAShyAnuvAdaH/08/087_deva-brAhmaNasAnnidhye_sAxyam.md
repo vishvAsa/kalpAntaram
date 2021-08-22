@@ -2,5 +2,15 @@
 title = "087 देव-ब्राह्मणसान्निध्ये साक्ष्यम्"
 
 +++
+‘*Gods*’—Durgā, Sūrya and the rest, set up in the form of images.
 
-**देवा** दुर्गामार्तण्डादयः प्रतिमाकल्पिताः । **शुचीन्** कृतस्नानाचमनादिविधीन् । **शुचिः** प्रष्टा स्वयम् अपि तथाविध एव स्यात् । **ऋतम्** इति श्लोकपूरणार्थम् एव । प्रसिद्धम् अन्यत् ॥ ८.८७ ॥
+‘*Purified*,’—*i.e*., who have performed the rites of bathing,
+mouth-rinsing and so forth.
+
+‘*Pure*,’—the judge himself should have purified himself in the same
+way.
+
+‘*Truth*,’—this is a mere re-iteration of what is already implied; and
+it servos the purpose of filling up the metre.—(87)
+
+

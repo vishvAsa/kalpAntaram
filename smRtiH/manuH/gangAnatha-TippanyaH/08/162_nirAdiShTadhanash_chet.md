@@ -2,17 +2,26 @@
 title = "162 निरादिष्टधनश् चेत्"
 
 +++
+‘*Alandhanaḥ*’—Qualifies the surety (Medhātithi, Govindarāja and
+Nārāyaṇa);—it qualifies the surety’s heir (Rāghavānanda);—Nandana reads
+‘*alakṣitaḥ*’ and explains it as ‘if the surety who received the money
+is not found.’
 
-**निरादिष्टं** निसृष्टं स्वधनाद् अर्पितम्- "भव लग्नक इदं ते धनं मत्तस् त्वया संशोधनीयं यद्य् अहं न दद्याम्" । **अलंधनः** पर्याप्तधनः । यावद् धनम् उत्तमर्णाय दातव्यं तावत् परिपूर्णं प्रसृष्टम् । स्वल्पे तु निसृष्टे बहुनि संशोध्ये न दापयितव्यः । पूर्वस्य प्रश्नस्योत्तरम् इदम् । यद्य् अपि न[^४०५] दानप्रतिभूर् अद्य निरादिष्टस् तत् तत्पुत्रो दाप्यते स्वधनाद् एव । तद्वद् यो[^४०६] निरादिष्टपुत्र इति द्रष्टव्यम्, तस्यैव प्रकृतत्वात्, साक्षात् प्रतिभुवस् तु प्रतिभूत्वाद् एव प्राप्तिर् इति चेन् मैवम् । निरादेशनेन[^४०७] इति स्थितिर् एषा शास्त्रमर्यादा । विचाराद् एवावलंबन इति सिद्धे यन् निरादिष्टो ऽलंबन इति चैवम् अभिधानं तत्पद्यग्रन्थानुरोधेन ॥ ८.१६२ ॥
+This verse is quoted in *Vivādaratnākara* (p. 48), as providing the
+answer to the question put in the preceding verse. It adds the following
+explanation:—If the surety, to whom money had been handed over
+(*nirādiṣṭa*) by the debtor, is ‘*alandhanaḥ*’,—*i.e*., he has really
+got the money,—then, on his death, the ‘*nirādiṣṭaḥ*’—*i.e*., the *son*
+of the surety to whom money had been handed over—should pay the debt out
+of his own property. The term ‘*nirādiṣṭaḥ*’ is applied figuratively to
+the *son*.
+
+It is quoted in *Kṛtyakalpataru* (74a), which has the following
+notes:—‘*Nirādiṣṭadhana*’, is the surety to whom enough money had been
+handed over by the creditor, to cover the amount of surety
+involved,—‘*alandhanaḥ*’, possessed of sufficient property,—the second
+‘*nirādiṣṭa*’ stands for the son of the person who had stood surety and
+has since died; the meaning being that the son should make good the debt
+for which his father had stood surety.
 
 
-[^४०७]:
-     J omits: cen maivam | nirādeśanena
-
-
-[^४०६]:
-     M G: tadyo; J: tad dadyān
-
-
-[^४०५]:
-     J omits: na

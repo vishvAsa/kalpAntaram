@@ -2,5 +2,26 @@
 title = "035 ममायम् इति"
 
 +++
+Treasure secretly buried under the ground is called ‘*nidhi*,’
+‘*treasure-trove*.’ There are treasure-troves that have lain under the
+ground for a hundred, or even a thousand years. If, when the ground is
+being dug, such a treasure-trove is somehow found by some one, it
+belongs to the state. As says Gautama (10.43)—‘Treasure-trove when found
+is state-property.’ But this applies only to the case of a
+treasure-trove the original hoarder of which is not known. And with
+regard to this it has been laid down that one who reports the find is to
+receive the sixth part of it.
 
-निखातायाम् भूमौ गुप्तं स्थापितं धनं **निधिर्** उच्यते । वर्षशतिका वर्षसहस्रिकाश् च निधयो भवन्ति । तत्र यदि भूमेर् विदार्यमाणायाः कथंचित् केनचिन् निधिर् आसाद्यते, स तु राजधनम् । तथा च गौतमः- "निध्यधिगमो राजधनम्" (ग्ध् १०.४३) इति । एतच् चास्मर्यमाणनिधातृके निधौ द्रष्टव्यम् । तस्याख्याता षष्ठं लबेतेत्य् उक्तम् । अयं तु श्लोको यत्राख्यातैव निधाता तत्पुरुषो वा पितृपितामहादिश् तद्विषयो द्रष्टव्यः । **ममायं निधिर् इति यो ब्रूयात् सत्येन** प्रमाणेन ज्ञापयेद् इत्य् अर्थः । **तस्याददीत षड्भागम्** इति । निश्चिते तत्स्वामिकत्वे राज्ञः षष्ठादिभागग्रहणम् । विकल्पश् चाख्यातृगुणापेक्षया ॥ ८.३५ ॥
+The present verse refers to the case where the original hoarder is
+either the person reporting the find himself or a descendant of his.
+
+‘*If a man says* “*this is mine*” *truly*’—*i.e*., on reliable
+evidence,—‘*from him the King shall take the* *sixth part*’—at which the
+King’s share is fixed. That is, the King is to take the sixth part out
+of that treasure-trove of which the rightful owner has been discovered
+with certainty.
+
+The option regarding the ‘sixth’ or ‘twelfth’ part is based upon the
+qualities of the finder.—(35)
+
+

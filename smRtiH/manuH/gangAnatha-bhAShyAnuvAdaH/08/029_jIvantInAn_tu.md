@@ -2,15 +2,28 @@
 title = "029 जीवन्तीनान् तु"
 
 +++
+This ‘punishment of thieves’ has been laid down for those relatives who
+should appropriate the property of women. They appropriate her property
+in manifold wavs; giving out., for instance, that—‘she is not mistress
+of herself as regards what she gives away and what she enjoys,—I am the
+real owner of the; property.’
 
-बान्धवानां स्त्रीधनम् अपहरताम् अयं **चोरदण्डः** । ते हि बहुभिर् उपधाभिर् अपहरन्ति । अस्वतन्त्रैषा स्त्री किं ददाति किं वा भुङ्क्ते वयम् अत्र स्वामिन इति अचौराशङ्कया चोरदण्डो विधीयते । **जीवन्तीनां** **तासां स्वबान्धवा** देवरादयस् तद्धनं **ये हरेयुस् ताञ् छिष्यात्** **पृथिवीपतिर्** निगृह्णीयात् । चौरदण्डो[^१२२] वक्ष्यमाणः-
+It is in view of the possibility of people thinking that such
+misappropriators are not ‘thieves’ that the text lays down the
+‘punishment of thieves’ for them.
+
+‘*While they are alive, if the relations*’—brother-in-law and
+others—‘*should appropriate their property*,—*on them the king shall
+inflict punishment*,’—shall punish them.
+
+The ‘punishment of thieves’ is going to be described later on (verse
+334)—‘With whatever limb a thief operates against men, each of those
+limbs the King shall cut off, in order to prevent the repetition of the
+act.’
+
+What the verse means is that the property of helpless women should be
+specially guarded against her own relations; guarding against thieves
+being the duty that has been laid down for the King as owing to the
+entire kingdom.—(29)
 
 
-[^१२२]:
-     M G DK (1:1952): coradaṇḍo
-
-- येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते । 
-
-- छेत्तव्यं तत् तद् एवान्यत् तन् मनोर् अनुशासनम् ॥ इति । (म्ध् ८.३३४)
-
-स्वबन्धुभ्यश् चैतद् विशेषेण राज्ञा रक्षितव्यम् । चौररक्षा तु स्वराष्ट्रविषया विहिता ॥ ८.२९ ॥

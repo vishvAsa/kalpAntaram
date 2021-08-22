@@ -2,9 +2,9 @@
 title = "137 धरणानि दश"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 666);—in *Parāśaramādhava*
+(Vyavahāra, p. 115), which adds that the terms ‘*nīṣka*’ and
+‘*śatamāna*’ are applied to one *pala* of silver;—in *Hemādri* (Vrata,
+p. 53);—and in *Nṛsiṃhaprasāda* (Dāna, 4a).
 
-**शतमान** इति संज्ञा दशानां धरणानाम् । **रजत**शब्देन सुवर्णम् अप्य् उच्यते । तेन रूप्यसुवर्णयोर् इयं संज्ञा । सुवर्णस्य मानं[^१७६] तु शास्त्रान्तरात् परिमातव्यम् । तथा च विशेषयिष्यति **शतमानं तु राजतम्** इति ॥ ८.१३७ ॥
 
-
-[^१७६]:
-     M G: samānaṃ

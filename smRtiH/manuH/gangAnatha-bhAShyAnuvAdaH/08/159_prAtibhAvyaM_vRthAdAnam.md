@@ -2,64 +2,58 @@
 title = "159 प्रातिभाव्यं वृथादानम्"
 
 +++
+‘*Prātibhāvyam*’ *is that which* *is* *due from the surety*,—*i.e*., the
+paying off of the debt due by the party for whom he has stood surety; it
+is this that is called ‘*surety-money*.’
 
-प्रतिभुवः कर्म **प्रातिभाव्यम्** । प्रतिभुवा यत् कर्तव्यं परर्णसंशोदनादि तत् **प्रातिभाव्यम्** । अर्हत्ता[^३८४] योग्यता । सानेन प्रतिषिध्यते । तस्यां च प्रतिषिद्धायाम् अधिकारप्रतिषेधः[^३८५] । अनधिकृतश् च न ददातीत्य् एवं न दातव्यम् इत्य् उक्तं भवति । सर्वत्रार्हतौ क्रियापदे व्याख्यायाते[^३८६] द्रष्टव्ये[^३८७] । 
+What is denied here is the son’s *liability*; and the denial of
+liability implies the denial of its being his duty to pay; and in as
+much as a man never pays what it is not his duty to pay, the meaning of
+the text is that *he should not pay*. The sense of (the root ‘*arh*’ is
+to be thus explained in accordance with the sense of the infinitive verb
+with which it occurs.
 
+“But how could there be any idea of the son’s liability to pay the
+surety-money, etc., when these were not *debts* incurred by his father?”
 
-[^३८७]:
-     DK: vyākhyeyam eva draṣṭavyā
+There is no force in this objection. When a man has undertaken to pay a
+certain sum it is as good as a ‘debt,’ since the result is the same. And
+when definitely known, it is a ‘debt,’ and as such may he considered as
+being due to be paid by the son. That is why this liability has got to
+be denied.
 
+‘*Futile gift*’;—Gift promised in joke or under similar circumstances,
+made in some such form as ‘I request you to have this man paid such and
+such an amount by such and such a banker.’ If a messenger has been sent
+with this message, but the payment is not actually made, either on
+account of the banker’s absence, or of some other reason,—and the father
+dies in the meantime,—the son cannot be made to pay the gift.
 
-[^३८६]:
-     M G: vyākhyāyante
+Debts incurred in gambling are ‘*gambling debts*’; *i.e*., the amount
+that has been actually lost at play, or the money that can he proved to
+have been borrowed for the purpose of gambling, shall not he paid. In
+the case of a person who abandons his family and relations and lives and
+sleeps constantly at gambling dens, and is known to be always
+playing,—it can he easily ascertained that his debts are all due to
+gambling.
 
+Debts due to drinking are said to be, ‘*due to liquor*’; ‘*liquor*’
+standing for all sorts of intoxicating drugs. Hence the present denial
+partains to the debts of a man who is an inveterate drunkard.
 
-[^३८५]:
-     M G: adhikāraḥ pratiṣedhaḥ
+‘*Balance of fines and duties*’;—if the father has paid a part of the
+fine or part of the duty,—but did not pay the entire amounts,—then the
+balance cannot be realised from the son. That is, he cannot be made to
+pay what the father did not pay.
 
+Another *Smṛti text* lays it down in general terms—‘the son shall not be
+made to pay surety-money, trade-duties, debts due to gambling and
+drinking, and lines.’ ( *Gautama*, 12.41.)
 
-[^३८४]:
-     DK (1: 663): arhatā
-
-- span style="text-decoration-underline;">कथं</u> पुनः पुत्रस्य प्रातिभाव्यादिप्राप्तिस् तर्हि, तदृणस्य पित्रागृहीतत्वात् ।
-
-<u>नैष दोषः</u> । यद् येन दातव्यतयाङ्गीकृतं तद् गृहीततुल्यफलत्वाद् गृहीतम् एव । तन्निश्चितस्वरूपत्वम् आपन्नाः, अतः प्रतिषिध्यन्ते ।  
-**वृथादानं** परिहासादिनिमित्तं प्रतिश्रवणम्- "कुरु कार्यम् इदं मम,[^३८८] परिनिष्पन्ने[^३८९] इदं दास्यामि" इति निष्पादिते कार्ये पित्रादत्ते[^३९०] प्रतिश्रुते कथंचित् पुत्रो न दाप्यते । एवं पारितोषिकादि बन्दिपरिहासादिविषयम् । यद् वाहम्[^३९१] अमुष्माद् वणिज एतस्येद्यद् दापये[^३९२] इति, तत्र तु मनुष्ये प्रेषिते कथंचिद् दातुम् अघटिते ऽसंनिधानाद् वणिजो ऽन्यतो ऽपि कारणाद् दत्तान्तरे पितरि मृते, पुत्रो न दाप्यते । 
-
-
-
-[^३९२]:
-     M G: dāpayed
-
-
-[^३९१]:
-     M G J: yaṃ cāham
-
-
-[^३९०]:
-     M G: pitrādattaṃ
-
-
-[^३८९]:
-     M G: niṣpannam (omit pari-)
-
-
-[^३८८]:
-     J omits: mama
-
-- अक्षिनिमित्तम् **आक्षिकम्**, सभिकाय यद् धार्यते ऽन्यतो वा यत् प्रयोजनं[^३९३] तद् गृहीतम् इति शक्यते ज्ञतुम् । तस्य प्रतिषेधः । यः परित्यक्तबान्धवो ऽक्षमालास्व् एव शय्यासनविहारी प्रसिद्धः क्रीडनकस् तदृणम् **आक्षिकम्** इति शक्यते निश्चेतुम् । 
-
-
-[^३९३]:
-     DK: prayojayet
-
-सुरापाननिमित्तं **सौरिकम्** । सुराग्रहणं मद्योपलक्षणार्थम् । तेन यः पानशौण्डो ऽत्यन्तमद्यपस् तदृणप्रतिषेधः ।   
-
-**दण्डशुल्कयोर् अवशेषः** । यत्र पित्रा दण्डांशः शुल्कांशश्[^३९४] च कश्चिद् दत्तः परिपूर्णौ दण्डशुल्कौ न दत्तौ, तादृशस्य प्रतिषेधः । 
-
+Thus then, there is an option. If the crime for which the fine had been
+inflicted was a serious one, or the property inherited from the father
+is a large one, then the *balance* only of the fine, as of the duties,
+shall be remitted; but if they have not. been serious, then the whole
+shall be remitted.—(159)
 
 
-[^३९४]:
-     M G: daṇḍaśaḥ śulkaśaś
-
-यत्र तु न किंचित् पित्रा दत्तं[^३९५] तद् दाप्यते । स्मृत्यन्तरे ऽप्य् अविशेषेणोक्तम्- "प्रातिभाव्यवणिक्शुल्कमद्यद्यूतदण्डाः पुत्रान् नाध्याभवेयुः"[^३९६] (ग्ध् १२.४१) इति । तत्र विकल्पः । महत्य् अपराधे महति च धने पैत्रिके ऽवशेषस्य प्रतिषेधः । शुल्के ऽप्य् एवम् । स्वल्पे तु सर्वस्य ॥ ८.१५९ ॥

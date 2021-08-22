@@ -2,9 +2,7 @@
 title = "101 एतान् दोषान्"
 
 +++
+Give up all suspense and hesitation, speak out what you have seen and
+heard.—(101)
 
-ऊहापोहौ वर्जयित्वा यथादृष्टं यथाश्रुतं चादृष्टं[^१] तत्वेन ब्रूहि ॥ ८.१०१ ॥
 
-
-[^१]:
-     DK (1: 268) omits: cādṛṣṭaṃ; M G: dṛṣṭaṃ

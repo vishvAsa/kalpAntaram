@@ -2,17 +2,17 @@
 title = "115 यम् इद्धो"
 
 +++
+‘*Blazing*’—flaming.
 
-तप्तायसपिण्डो ऽयम् अनवद्य[^१०८] गृहीतो न दहति । **आपश् च** नोर्ध्वं प्लावयन्ति । सत्य**शपथे** कोशादौ[^१०९] **न** **नार्तिम् ऋच्छति** पीडां न प्राप्नोति । "रोगो ऽग्निः" (म्ध् ८.१०८) इत्य् अत्रोक्तां[^११०] । **स** शुद्धः **शुचिर्** निर्दोषः । **क्षिप्रं** चतुर्दश वाहान्य् अवधिः स्मृत्यन्तरात् ॥ ८.११५ ॥
+A red-hot iron-ball, when held by an innocent person, does not burn him;
+the water does not make him float on the surface, if he has sworn truly;
+he also does not suffer ‘*misfortune*,’—*i.e*. trouble, in regard to his
+hair and other parts of his body. ‘Illness’ has already been mentioned
+before.
+
+Such a person is to ‘*be regarded as pure*’—*i.e*., innocent.
+
+‘*Speedily*’—*i.e*., within a period of fourteen days,—as declared in
+another *Smṛti*.—(115)
 
 
-[^११०]:
-     M G: atroktaṃ; J: anyatrokam; 
-
-
-[^१०९]:
-     M G: kauśādau; J: keśādau (this mistake carried into Jha's translation).
-
-
-[^१०८]:
-     M G: 'yaṃ avadya

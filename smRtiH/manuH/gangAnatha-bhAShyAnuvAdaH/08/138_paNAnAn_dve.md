@@ -2,5 +2,13 @@
 title = "138 पणानान् द्वे"
 
 +++
+The term ‘*amercement*’ is to be construed also with the terms
+‘*middling*’ and ‘*highest*’; though in other treatises these two terms
+are found to be used by themselves also:—*e.g*., the punishment with
+these is the ‘*Highest*.’ From the point of view of the scriptures, and
+also from the juxtaposition of the words, they are to be regarded as
+qualifying ‘*amercement*.’
 
-**मधयम उत्तम** इत्य् अत्र साहसपदानुषङ्गः कर्तव्यः । मधमोत्तमशब्दाव् अत्र केवलाव् अपि शास्त्रान्तरदृष्टौ- "आभ्यां दण्ड उत्तमः" इति । तत्र शास्त्रसिद्ध्या साहचर्यात् साहसं प्रतीयते । अवयवाः स्पष्टाः ॥ ८.१३८ ॥
+The words of the text are quite clear.—(138)
+
+

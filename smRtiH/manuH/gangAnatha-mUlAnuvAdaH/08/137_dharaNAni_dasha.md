@@ -3,8 +3,4 @@ title = "137 धरणानि दश"
 
 +++
 
-**शतमान** इति संज्ञा दशानां धरणानाम् । **रजत**शब्देन सुवर्णम् अप्य् उच्यते । तेन रूप्यसुवर्णयोर् इयं संज्ञा । सुवर्णस्य मानं[^१७६] तु शास्त्रान्तरात् परिमातव्यम् । तथा च विशेषयिष्यति **शतमानं तु राजतम्** इति ॥ ८.१३७ ॥
-
-
-[^१७६]:
-     M G: samānaṃ
+Ten ‘dharaṇas’ are to be known as the ‘silver śatamāna’ (centimetre); and the ‘niṣka’ should be understood as four ‘gold-pieces’ in weight.—(137)

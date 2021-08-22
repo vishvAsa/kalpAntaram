@@ -2,13 +2,15 @@
 title = "190 निक्षेपस्याऽपहर्तारम् अनिक्षेप्तारम्"
 
 +++
+‘*Sārvaiḥ upāyaiḥ*’—‘All kinds of evidence, the four expedients of
+kindness and the rest, and also in the case of wicked people, beating
+and imprisoning’ (Medhātithi, who is not rightly represented by
+Buhler);—‘the four expedients of kindness and so forth’ (Govindarāja,
+Kullūka and Rāghavānanda);—‘spies and the like’ (Nārāyaṇa).
 
-हरति यो निक्षिप्तअम् असाक्षिकम्, यो ऽप्य् अनिक्षिप्य[^६०६] नीत्वा वा याचते तम् **अन्विच्छेत्** । अन्वेषणा तत्त्वपरिज्ञाने यत्नः सर्वप्रमाणव्यापारेण । **उपायाः** प्रमाणानि[^६०७] सामादयो वा । तेन चलितवृत्तस्याप्रतिपाद्यमानस्य ताडनबन्धनाद्य् अपि महति धने चोरवत् तत्त्वप्रतिपत्त्यर्थं प्रयोज्यम् । न तत्त्वानिश्चये निग्रहः । **वैदिक**ग्रहणं स्तुत्यर्थम् ॥ ८.१९० ॥
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 208), as laying
+down punishment for the depositor and depository if proved to be
+dishonest;—in *Kṛtyakalpataru*, (84a);—and in *Vīramitrodaya*
+(Vyavahāra, 113a).
 
 
-[^६०७]:
-     M G: pramāṇā na
-
-
-[^६०६]:
-     M G J: apanīya

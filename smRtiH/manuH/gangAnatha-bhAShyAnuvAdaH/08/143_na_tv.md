@@ -2,65 +2,72 @@
 title = "143 न त्व्"
 
 +++
+Money-lending is done in various forms—with pledge as well as without
+pledge. Pledge also is of two kinds—*to be used* and *to be kept*. That
+*to be used* is again of two kinds—(*a*) that in which the profit
+consists in some form of product of the pledged article and (*b*) that
+which is used as it stands; the milch cow belongs to the former class,
+and wrought gold, etc., to the latter.
 
-बहुधा प्रयोगः- गृहीत्वाधिम् अन्यथा च । आधिर् अपि द्विविधः- गोप्यो भोग्यश् च । भोग्यो ऽपि द्विविधः- समयाद् उह्यमानभोगः सरूपतो वा । आधिर् दोग्ध्री गौः पिहितसुवर्णादि । 
+What is said here regarding the case ‘*when there is profitable pledge*’
+refers to the pledge *to be used*.
 
-- तत्र भोग्यम् आधिम् अधिकृत्येदम् उच्यते । **न त्व् एवाधौ सोपकार** इति । विविधः[^१९१] सोपकारः- क्षीरिणी गौः क्षेत्रारामादि च । तस्मिन् भुज्यमाने — कुसीदे भवा **कौसीदी** अनन्तरोक्ता वृद्धिस् — ताम् नाप्नुयात्[^१९२] । आधिं तु भुञ्जानो नान्यां वृद्धिं लभेत । गोप्ये ऽप्य् आधौ **कालसंरोधाच्** चिरम् अवस्थानाद् द्विगुणीभूते ऽप्य् अमोक्षमाणे[^१९३] **न निसर्गो ऽस्ति न विक्रयः** । अन्यत्र च विधिनार्पणं **निसर्गः** । अन्यत्र संक्रामितं[^१९४] द्विगुणीभूतम् अपि पुनर् वर्धत एव । तथा अ पठिष्यति "सकृद् आहृता" (म्ध् ८.१५१) इति । **विक्रयः** प्रसिद्धः । सो ऽपि न कर्तव्यः । 
+The ‘*profitable pledge*’ is of various kinds, such as the milch cow,
+fields, gardens and so forth.
+
+While such a pledge is being used by the money-lender, ‘*he shall
+receive no interest*,’ such as that laid down in the foregoing
+verses—‘*on the loan*.’ That is, he who is deriving a profit from the
+pledge shall receive no other kind of interest.
+
+In the case of the pledge *to be kept* also, ‘*merely by the lapse of
+time*,’—simply because a longtime has elapsed,—even becoming doable of
+its former size, and the pledge remains unredeemed,—‘*there shall be
+neither transference nor selling*.’ ‘*Transference*’ consists in the
+article being duly made over to another person. Even though already
+doubled, the principal, even on the transference of the pledge, shall
+continue to grow: as is going to be declared later on—‘*sakṛdāhṛta*,’
+etc. ‘*Selling*’ is well known. This also shall not be done.
+
+“What then is to be done in such cases?”
+
+The man shall continue to use (derive proñt from) the pledge, till the
+principal has become doubled and repaid; when it shall be redeemed. When
+the doubled principal has been repaid, the pledge ‘to be used’ shall
+cease to be used, and that ‘to be kept’ shall be returned. The pledge
+‘to be used’ shall remain with the creditor till the debt is
+repaid,—unless there is some damage. If there is some damage done, and
+the creditor somehow has become too poor, having no other property
+except that pledged article, then, having waited for some time, he shall
+report it to the king and sell the article; and from the sale-proceeds
+he shall take an amount which is just the double of his principal, and
+hand over to a middle-man the balance for being paid over to the debtor.
+
+“But it is declared that—‘if on the principal having been doubled, the
+pledge is not redeemed, it becomes lost (forfeited)’ (Yājñavalkya,
+*Vyavahāra*, 58)”
+
+This we are going to explain. As a matter of fact, this ‘forfeiture’ or
+‘loss’ does.not mean that the former owner entirely loses his ownership,
+and the person having it acquires ownership over it. For when there can
+be no ‘transference or sale,’ what sort of ‘ownership’ would the man
+acquire? Hence, by virtue of the said prohibition of ‘transference or
+sale,’ the ‘loss’ or ‘forfeiture’ must he taken to mean that the
+creditor who may have ceased to use it becomes entitled to use it again.
+Or the term ‘loss’ may he taken as referring to such things as clothes
+and the like, which naturally become ‘lost’ (perished) by using; and
+which cannot continue to be *used* even when they have lost their
+original form,—in the manner in which lands and other such things can
+continue to be. It is in this sense that the Smṛti has to be explained.
+
+In fact, the term ‘loss’ has been used in the figurative sense, of
+permitting the *use* of it; while the prohibition of ‘transference and
+sale’ must be taken in its literal sense; as this latter is not capable
+of being understood in a figurative sense. It is in this sense that, we
+have another *Smṛti* text to the effect that ‘there shall be no selling
+or handing over of pledges, etc., etc.’ What is spoken of as ‘handing
+over’ in this text is the same as ‘transference,’ as is clear from its
+being mentioned along with ‘sale,’—both of them being similar in certain
+respects.—(143)
 
 
-[^१९४]:
-     J: saṃkrāmi
-
-
-[^१९३]:
-     DK (5: 1184) suggests: amokṣyamāṇe
-
-
-[^१९२]:
-     M G DK (1: 638): āpnuyāt (omit "na"); but DK (5: 1184) retains "na"
-
-
-[^१९१]:
-     M G: vividha-
-
-- span style="text-decoration-underline;">किं तर्ह्य्</u> अस्याम् अवस्थायां कर्तव्यम् । 
-
-- span style="text-decoration-underline;">तावद्</u>[^१९५] <u>आधिं</u> भुञ्जीत यावद् द्विगुणं धनं प्रविष्टम् । ततः, 
-
-
-[^१९५]:
-     M G DK omit: tāvad
-
-- मोच्य आधिस् तदुत्पन्ने प्रविष्टे द्विगुणे धने । (य्ध् २.६६) 
-
-भोग्यस् तावद् एवम्[^१९६] । भोग्यस्[^१९७] त्व् आधिः शान्तलभस् तिष्ठत्य् एव यावद् आधाता नागतः । यस् तु कथंचिद् धनिको दरिद्रताम् उपगतस् तावन्मात्रशेषधनः स कंचित् कालं प्रतीक्ष्य राजनि निवेद्य विक्रीणीत बन्धम्, ततो विक्रयाद् उत्पन्नं द्विगुणम् आत्मनो धनं गृहीत्वा शेषं मध्यस्थहस्ते ऋणिकसात्कुर्यात् ।
-
-
-[^१९७]:
-     M G: abhogyas
-
-
-[^१९६]:
-     M G DK (1: 638) add: abhogyas tāvat evam; J adds: abhogyas tadanantaram (the reading here is rather confused).
-
-- span style="text-decoration-underline;">ननु च</u> 
-
-- आधिः प्रणश्येद् द्विगुणे धने यदि न मोक्षयेत् । (य्ध् २.६०) 
-
-इति पठ्यते । 
-
-- span style="text-decoration-underline;">एतद् उत्तरत्र</u> व्याख्यास्यामः । प्रणाश्यत्वान् न[^१९८] पूर्वस्वामिनः स्वाम्यहानिः प्रयोक्तुश् च स्वत्त्वापत्तिः । यदि च निसर्गविक्रयौ न स्तः, कीदृशम् अस्य स्वाम्यम् उच्यते । तस्मात् प्रतिषेधसामर्थ्येन प्रणाशवचनं प्रतिषिद्धभोगस्य[^१९९] भोगानुज्ञानार्थं व्याख्यायते । वस्त्रादिविषयं वा । तस्य हि भुज्यमानस्य प्रणाश एव । न क्षेत्रादेर् इव तिष्ठतः स्वरूपाद् प्रच्यवमानस्य[^२००] भोग्यता संभवति । तेनैतत् स्मृतिव्यवस्थायां व्याख्येयम् । 
-
-
-[^२००]:
-     M G J: svarūpāt prapacyavamānasya; DK (1: 638): acyavamānasya (I follow DK 5: 1184; reading is unclear)
-
-
-[^१९९]:
-     M G: praṇāśavacanapratiṣiddhabhoga iti
-
-
-[^१९८]:
-     DK (1: 638) suggests : praṇāśyatvaṃ cātra; (5: 1184): praṇāśyatvam atra
-
-गौणौ चात्र प्रणाशनिसर्गौ । विक्रयप्रतिषेधस् तु मुख्य एव । न ह्य् असौ गौणतया प्रतिपत्तुं शक्यते । एतद् एव प्रस्तुत्य "न स्यातां विक्रयाधीने" इति स्मृत्यन्तरपठितम्[^२०१] । अत इह **निसर्गो** ऽन्यत्राधानम्, विक्रयसाहचर्यात् ।सदृशौ हि तौ केनचिद् अंशेन ॥ ८.१४३ ॥

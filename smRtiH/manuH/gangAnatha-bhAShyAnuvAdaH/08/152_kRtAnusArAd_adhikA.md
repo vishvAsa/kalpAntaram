@@ -2,17 +2,32 @@
 title = "152 कृतानुसाराद् अधिका"
 
 +++
+‘*Anusāra*’ is that which is followed in all matters; *i.e*., the law
+laid down by the scriptures. The law in relation to interests is
+diverse: one lays down the rate as the eightieth part of the hundred,
+and another as five per cent, if the rate of interest is stipulated ‘*in
+contravention of*’— in excess of—these sanctioned rates,—it is ‘*not
+payable*’—by the debtor to the creditor.—Why?—Because it is
+‘*excessive*’—*i.e*., against the law.
 
-अनुसरन्त्य् अनुधावन्त्य् अनुवर्तन्ते सर्व एवार्था एतम् इत्य् **अनुसारः** । शास्त्रोदितः समाचारः । स च विविधो ऽशीतिभागादिः पञ्चकशतपर्यन्तः । तस्माद् **अधिका** वृद्धिः **कृता** यावत् तथाधमर्णेनोत्तमर्णस्य **न सिध्यति** । कुतः, **व्यतिरिक्ता** यतः शास्त्रबाह्येत्य् अर्थः । 
+In support of this the text puts forward a commendatory
+declaration—‘*this they declare to be the usurer’s way*.’ The term
+‘*kusīda*’—means *that which is followed by evil persons*; and then the
+persons themselves. This ‘*way*’—path, conduct—is of evil persons, and
+not of good men. This is a deprecation of the act referred to.
 
-- अर्थवादान्तरम् आह । **कुसीदपथम् आहुस् तम्** इति । कुपुरुषा यत्र सीदन्ति **कुशीदम्** । धर्मेण तद् धनिनो लक्ष्यन्ते । कुशीदीनाम् अयं **पन्था** मार्गो व्यवहारो न साधूनाम् इति निन्दा । यस्यावश्यम् अधिका कर्तव्या — महद् धि कार्यम् अयं मदीयेन धनेन साधयतीति बुद्ध्या — तदा वर्णविभागम् अनपेक्ष्य[^३३४] **पञ्चकं शतं** ग्रहीतुम् **अर्हति** लिप्सेत्, तदर्थम्[^३३५] इदम् उच्यते । 
+If the lender is anxious to make as much money as possible out of the
+transaction, under the impression that the borrower is going to carry on
+extensive business with the help of the capital he is going to lend,
+then he may obtain *five per cent*., irrespectively of the caste of the
+borrower. What is meant is that this is all that he should seek to
+obtain.
+
+Another reading is ‘*kṛtā tu sārādadhikā*’; and the meaning of the text
+would in that case he that—‘if, at the outset, on account of the man’s
+poverty, a low rate of interest is fixed, but subsequently, the man
+having acquired much wealth, if, *on account of his
+opulence*—‘*sārāt*’—a large rate is demanded, this cannot he payable,
+since all that the man is entitled to is *five per cent*.—(152)
 
 
-[^३३५]:
-     M G DK (1:615) omit: tad-
-
-
-[^३३४]:
-     M G: anapekṣyaṃ
-
-पाठान्तरम् "कृता तु साराद् अधिका"[^३३६] इति । यस्याकिंचनस्य सतः स्वल्पा कृता, तेनैव धनेनान्यथा वा महार्थतां प्राप्तस् तस्य या पुरुषसाराद् अधिका[^३३७] **न सिध्यति**, यः परं पञ्चकशतम् अर्हति ॥ ८.१५२ ॥

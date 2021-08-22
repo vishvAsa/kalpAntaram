@@ -2,21 +2,23 @@
 title = "127 अधर्मदण्डनं लोके"
 
 +++
+‘*Unfair punishment*’ is that punishment, that savours strongly of
+injustice;—*i.e*., one that takes no account of what has been just said,
+and which is determined cither entirely on the basis of the letter of
+the law, or by the king’s whim, or by love, hatred and such other
+feelings.
 
-अधर्मप्रधानदण्डनम्[^१५१] **अधर्मदण्डनम्**[^१५२] । पूर्वोक्तम् अनपेक्ष्येदं शास्त्रपाठमात्रेण[^१५३] राजेच्छया रागद्वेषादिभिर् वा । तद् यशोनाशकं कीर्तेश् च विच्छेदकम् । स्वदेशे गुणख्यातिर् **यशः,** देशान्तरे **कीर्तिः** । जीवतो वा पुण्यशब्दो **यशः**, उत्तरकालिकी **कीर्तिः** । निर्दोषगुणवती **कीर्तियशसी** । अन्यो वा भेद उन्नेयः, अर्थवादत्वात् । **अस्वर्ग्यं** स्वर्गप्राप्तौ कर्मान्तरजन्यायां प्रतिबन्धकम् । **परत्रापी**ति श्लोकपूरणार्थम्, स्वर्गस्यामुष्मिकत्वात्[^१५४] ॥ ८.१२७ ॥
+Such a punishment is ‘*destructive of reputation*,’ also ‘*subversive of
+fame*’; ‘reputation’ consists in the man’s good qualities being known in
+his own country, while ‘fame’ in their being known in foreign countries.
+Or ‘reputation’ may consist in one’s good name during life.—Or the
+passage being a purely commendatory one, some other distinction may be
+drawn.
+
+‘*Leads to loss of heaven*’;—*i.e*., obstructs the passage to heaven,
+that might have been opened by other meritorious deeds.
+
+‘*In the other world*’;—this has been added for filling up the metre;
+‘heaven’ itself being the other world.—(127)
 
 
-[^१५४]:
-     M G omit: uttarakālikī kīrtiḥ . . . svargasyāmuṣmikatvāt
-
-
-[^१५३]:
-     DK (1:576; 4: 1972) : anapekṣya daṇḍaśāstrapāṭhamātreṇa
-
-
-[^१५२]:
-     M G DK (1:576) omit: adhamadaṇḍaṇam, and add ca
-
-
-[^१५१]:
-     DK (4: 1972; but not 1: 576): adharmapradhānaṃ daṇḍanam; M G J: -daṇḍam

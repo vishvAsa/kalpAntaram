@@ -3,4 +3,4 @@ title = "108 यस्य दृश्येत"
 
 +++
 
-**सप्ताहाद्** इति पञ्चमीदर्शनाद् अर्वाग् इत्य् अध्याह्रियते । सप्तानां दिवसानाम् अन्यतमस्मिन्न् अहनि **यस्य** **साक्षिणो** **रोगा**दि दृश्यते स मृषावादी दैवेन विभावितः पूर्वोक्तेन विधिना दापयितव्यः । **रोगो** ऽत्यन्तपीडाकरः, **अग्निर्** गोवाहनदहनः, पुत्रदारादिप्रत्यासन्न**ज्ञातिमरणम्,** तस्य कूटसाक्षित्वे लिङ्गम् ॥ ८.१०८ ॥
+That witness,—who may be found, within a week of having given evidence, to suffer from sickness, fire or the death of a relative,—should be made to pay the debt and also the penalty.—(108)

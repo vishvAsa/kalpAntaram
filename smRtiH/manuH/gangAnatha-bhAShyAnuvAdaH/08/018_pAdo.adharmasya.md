@@ -2,9 +2,25 @@
 title = "018 पादो ऽधर्मस्य"
 
 +++
+The judges should not entertain any such idea as the following—‘Between
+the plaintiff and the defendant, one or the other is taking what belongs
+to the other,—so that he will incur the sin of wrongful possession of
+the land,—we are not committing the act,—why then should we be
+participators in the sin?’ Because as a matter of fact, the said sin is
+divided into four parts.
 
-न चैषा मनिषा कर्तव्या- "अर्थिना प्रत्यर्थिना वान्यतरस्य भूम्याद्य् अपह्रियते स एव भूम्यपहारदोषभाग् भविष्यति । वयं तु तदकारिणः किम् इति दोषवन्तः स्याम" यतस् तत् पापं चतुर्धा विभज्यते । अर्थवादश् चायम् । न ह्य् अन्यकृतस्यैनसो ऽन्यत्र गमनम् अस्ति । तेषाम् अपि मिथ्यादर्शननिषेधातिक्रमाद् उत्पद्यते पापं मिथ्यालम्बनम्, राज्ञः स्वयम् अपश्यतो ऽप्य् अधिकृतराजस्थानीयादिदोषाद् दोषवत्त्वम् । यदि वा[^१०२] राजाधिकृतो मिथ्याचरितेन ज्ञापितः, पराजितं दुष्टं न निगृह्णीते न च पुनः सम्यक् निर्णयं करोति, ततः सो ऽपि पापभाग् भवति । अधिकृतोपलक्षणार्थं वा राजग्रहणम् । यदा राजा स्वयं मिथ्या पश्यति तदा दुष्यति । यदा राजस्थानीयस् तदा तस्य दोष इत्य् अर्थः ॥ ८.१८ ॥
+This verse is a purely supplementary exaggeration; because in reality
+the sin committed by one man does not go to another. What happens then
+is that on the judges also falls the sin of transgressing the law that
+forbids unjust decisions. On the king, though he does not personally
+investigate the case, there does fall the sin resulting from the sinful
+act of the judges appointed by him and acting as his representatives. Or
+if, on being apprised, by the defeated party, of the unfair dealings of
+the authorised judges, he does not punish the dishonest officer, and
+does not take steps to come to a just decision, then also he becomes a
+participator in the sin. Or, the ‘*King*’ in the text may be taken as
+standing for the judge appointed by him; the sense being that when the
+king himself decides the case wrongly, the sin falls upon him, whereas
+when his representative does so, the sin falls upon the latter.—(18)
 
 
-[^१०२]:
-     M G DK (1:36) omit: vā

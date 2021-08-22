@@ -2,13 +2,39 @@
 title = "139 ऋणे देये"
 
 +++
+‘*Taddviguṇam*’—‘Double of 5 p. c., *i.e*., 10 p. c.’ This is the
+explanation, accepted by all the commentators. But Medhātithi mentions
+‘others’ as explaining the meaning to be ‘double of the amount of the
+debt’ This latter would be more in keeping with what has gone before in
+verse 59.
 
-यो राजसभायाम् आनीतो धर्मेण ऋणं देयतया प्रतिजानीते "सत्यम् अस्मै धारयामि," स **पञ्चकं शतम् अर्हति** दण्डम् इति शेषः । अनेन संकल्पितेन विंशतितमो भागो दण्ड्यते । किम् इति । "मत्सकाशम्[^१७७] उत्तमर्णः प्रेषितो बहिर् एव कस्मान् न परितोषितः" इत्य् अतो ऽनेन शास्त्रव्यतिक्रमेण दण्डम् अर्हति । यस् तु व्यतिक्रमान्तरं करोत्य् **अपह्नुते** "नाहम् अस्मै धारयामि" इति, स तैः प्रतिपादितस् **तद्द्विगुणं** । तस्मात् पञ्चकाद् द्विगुणं दशकं शतम् इत्य् अर्थः । **तन् मनोः** प्रजापतेर् **अनुशासनं** सृष्टिकालप्रभृतिव्यवस्था नीतिर् इति यावत् ।
+This verse is quoted in *Vivādaratnākara* (p. 77), which adds the
+following notes:—The meaning is as follows: If the debt is at first
+denied, and subsequently admitted, then the debtor should be fined 5 per
+cent on the amount of debt; but if he does not admit it even
+subsequently—and yet the debt becomes proved by the evidence
+adduced,—then the man shall be fined the ‘double of that,’ *i.e*., 10
+per cent. It proceeds to add a note which serves to explain the
+inconsistency of this rule with what has gone in verse 59:—the diversity
+is due to considerations of the nature of the debtor’s motives.
+
+It is quoted in *Vivādacintāmaṇi* (p. 34), which adds the explanation
+that ‘when a debt is denied at first and subsequently admitted, the
+debtor is to he fined 5 per cent, and if the man continues to deny the
+debt which is subsequently proved, the fine is to be 10 per cent; and
+adds that this refers to cases where the debtor is poor’;—and in
+*Kṛtyakalpataru* (81a), which has the following explanation:—(a) If the
+man has denied the debt but admits it when sued in Court, then he is to
+be fined 5 p. c., (b) if he continues to deny it in the Court, but the
+debt is subsequently proved, then the fine is 10 per cent;—this refers
+to cases where the former denial has been based upon some
+misapprehension on the part of the debtor; the case where the denial is
+through perversity and intentional, has been dealt with under 59.
+
+It is quoted in *Vīramitrodaya* (Vyavahāra, 111a), which explains the
+meaning to be ‘when the man having denied the debt at first, admits it
+when sued and brought before the Court, he should pay a fine of 5 p. c.
+and if he continues to deny it, but is subsequently forced by evidence
+to admit, then 10 p. c.’
 
 
-[^१७७]:
-     M G: tatsakāśam
-
-- span style="text-decoration-underline;">अन्ये तु</u> **तच्**छब्देन देयम् एव प्रत्यवमृशन्ति । यावत् तस्मै देयं तद्द्विगुणम् । तेन यावद् ऋणम् इत्य् अनेनैकवाक्यं भवति । अन्यथा वाक्यभेदः । विषयविशेषानिर्देशाद् एकविषयत्वे विकल्पः प्राप्नोति । 
-
-<u>स च</u> न युक्तो द्विगुणस्यात्यन्तबहुत्वात् । असत्य् अपि निर्देशे तस्य विषयो दर्शनीयः,[^१७८] तस्य प्रत्यासन्ने[^१७९] पञ्चकम् इति, अर्थात्[^१८०] तस्यैवानुप्रत्यवमर्शो युक्तः ॥ ८.१३९ ॥

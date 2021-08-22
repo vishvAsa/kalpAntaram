@@ -2,13 +2,11 @@
 title = "050 यः स्वयम्"
 
 +++
+This verse serves to make clear what has been said before. If the
+creditor recovers his money from the debtor by means of ‘trick’ and the
+other methods, the King shall not tell him anything, such as—‘why did
+you, without informing me, take from him by trick or fraud, his
+ornament, etc., for the purpose of recovering your debt? Why do you not
+return it to him?’—(60)
 
-उक्तस्यैवार्थस्य स्पष्टीकरणार्थः श्लोकः । न छलादिनोपायेन स्वेच्छय्**ओत्तमर्णो** **ऽधमर्णाद्** धनं **संसाधयन्** **राज्ञा** किंचिद् वक्तव्यः- "माम् अविज्ञाप्य किम् इत्य् अस्माद् आभरणादि स्वधनसंशुद्ध्यर्थं व्याजेन छद्मना गृहीतम्,[^१९२] गृहीत्वा वा[^१९३] किं नास्मै प्रतिप्रयच्छसि" इति ॥ ८.५० ॥
 
-
-[^१९३]:
-     M G J omit: vā
-
-
-[^१९२]:
-     M G J omit: gṛhītam

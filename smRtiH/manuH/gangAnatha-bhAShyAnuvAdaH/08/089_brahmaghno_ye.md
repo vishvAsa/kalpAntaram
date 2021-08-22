@@ -2,13 +2,16 @@
 title = "089 ब्रह्मघ्नो ये"
 
 +++
+‘Those regions, in the shape of hell and the rest, which are reached by
+those persons who have killed a Brāhmaṇa, shall he yours, if you tell
+the untruth; therefore you should tell the truth,’—such is the
+exhortation.
 
-ब्राह्मणं हत्वा ये लोका नरकादिलक्षणाः प्राप्यन्ते तत्कारिभिस् **ते** तव भवन्ति मिथ्यावदतस् तस्मात् सत्यं ब्रूहीत्य् अनुयोगः । यश् च मित्रं द्रुह्यति ब्राह्मणादीन् दारसर्वस्वापहरणादिना[^३११] नाशयति — यश् च कृतम् उपकारं विस्मृत्य तम् एवोपकर्तारम् अपकरोति — यत् तस्य **कृतघ्नस्य**[^३१२] परत्र दुःखं तद् अवाप्नोति ॥ ८.८९ ॥
+‘*The betrayer of friends*’—he who ruins the Brāhamaṇa and others by
+depriving them of their wife and property.
+
+‘*The ingrate*’: ho who forgets the benefits conferred upon him, and
+causes injury to that same person who had conferred those on him; and
+the *perjuror* suffers the same pains that befall such a person.—(89)
 
 
-[^३१२]:
-     M G DK omit: kṛtaghnasya
-
-
-[^३११]:
-     M G DK (1: 264): brāhmaṇadāra-

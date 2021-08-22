@@ -2,21 +2,46 @@
 title = "064 नाऽर्थसम्बन्धिनो नाप्ता"
 
 +++
+The following persons are named, as showing those persons in whose case
+causes for telling lies are likely to be present.
 
-तानीमानि संभाव्यमानमिथ्याभिधानकरणत्वेन पठ्यन्ते । तत्र **अर्थसंबन्धिन** उत्तमर्णाधमर्णाद्याः । उत्तमर्णा ह्य् अधमर्णवचनेन पराजीयमानास् तदानीम् एव रोषावेशवशितः[^२५३] स्तम्भयन्ति धनं प्रयादतुम् अधमर्णम् । अतो ऽसौ[^२५४] संनिहितधनिकचित्तम् अनुवर्तमानः तदनुगुणं वक्तुं शक्नोति[^२५५] । तस्माद् असौ न साक्षी । उत्तमर्णो ऽपि निर्धने ऽधमर्णे व्यवहारजयाच् च धनप्राप्तौ मह्यम् अयं प्रतिदास्यतीत्य् अनया बुद्ध्या कदाचित् तत्पक्षानुगुणं वक्तीति सो ऽप्य् असाक्षी ।
+Among these are (1) ‘*interested persons*’ —*i.e*., persons standing
+related to each other in the relation of the creditor, the debtor and so
+forth. If a person loses a ease through the deposition of one who
+happens to be his debtor, he is likely to become enraged at that very
+time and to press the debtor for immediate repayment of the debt; in
+view of this the debtor is likely to be swayed by a desire to keep the
+creditor pleased; and as such he cannot he a witness. Similarly, in a
+suit filed by the debtor against some one, his creditor would be swayed
+by the consideration that if the penniless suitor won his case, he would
+he able to repay his own dues; and as such he would he likely to depose
+falsely in his favour; for this reason he also cannot be a true witness.
+
+Or, ‘*interest*’ mean *purpose, object*; thus persons who have some end
+in view,—who stand to gain from either party,—or from whom either party
+is likely to gain something—are called ‘*interested*’—their interest in
+the case being similar to that of the parties themselves.
+
+‘*Relations*’—friends and relations knowing the insand outs of the
+case,—*e.g*., paternal and maternal uncles, etc.
+
+‘*Helpers*’—those who have stood security and others similarly situated.
+
+‘*Enemies*’—what these are is well known.
+
+‘*Persons of proved corruption*,’—those who have home false evidence in
+other cases, or who have committed other forbidden acts.
+
+‘*Afflicted with disease*,’—*i.e*., those affected by serious,—not
+paltry-ailments; this is what is implied by the term ‘*afflicted*.’
+Those labouring under such afflictions are likely to lose temper, to
+forget things and to perjure themselves.
+
+‘*Corrupted*,’— those who have committed a mortal sin, or have
+repeatedly committed minor sins. the term ‘*of proved corruption*’ is
+meant to refer to those who hare been convicted of, and punished for, a
+serious crime. Such persons are no longer regarded as ‘*corrupted*,’
+because they have been brought under discipline by having paid to t he
+king the penalty for their sin.—(64)
 
 
-[^२५५]:
-     M G DK (1:254): saṃnihitadhanatvāc cittam anuvartamānaḥ śakyate
-
-
-[^२५४]:
-     M G: 'tau
-
-
-[^२५३]:
-     M G: -vaśitāḥ
-
-अथ वार्थः प्रयोजनं यस्य साक्षिणो विवादिभ्यां किंचित् प्रयोजनं साध्यम्, तेन वा तयोः, स उपकारगन्धान् न साक्षी । यो वा व्यवहारगतेनार्थेन समानफलः । इत्य् एवंप्रकार्**आर्थसंबन्धिनः** ।   
-
-**आप्ता** मित्रबान्धवतया[^२५६] कार्याभ्यन्तराः पितृव्यमातुलादयः । **सहायाः** प्रतिभूप्रभृतयो । **वैरिणः** प्रसिद्धाः । **दृष्टदोषा** अन्यत्र कृतकौटसाक्ष्याः । अन्यद् वा प्रतिषिद्धम् आचरितवन्तः । **व्याध्यार्ता** रोगपीडिताः । न पुनर् ईषद्रोगिण इत्य् आर्तग्रहणम् । पीडितस्य हि क्रोधविस्मृत्यादयो मिथ्यावचने संभाव्यन्ते । **दूषिताः** पातकिनो ऽभ्यस्तोपपातकाश् च । **दृष्टदोष**ग्रहणं तु तेषाम् एव कृतनिग्रहाणां परिग्रहार्थम् । ते हि राजभिर् धृतदण्डग्राहितविनयत्वान्[^२५७] न संप्रति दूषीता भवन्ति ॥ ८.६४ ॥

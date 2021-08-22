@@ -3,16 +3,4 @@ title = "128 अदण्ड्यान् दण्डयन्"
 
 +++
 
-पूर्वश्लोके ऽनुबन्धादिनिरूपणविधिविशेषः[^१५५] । अनेन त्व् अनपराधानां दण्डनं प्रतिषिध्यते सापराधानां च विधीयते । वृत्त्यर्थतां[^१५६] दण्डस्य मन्यमानो ऽनुग्रहेण मा हासीद् इति[^१५७] ॥ ८.१२८ ॥
-
-
-[^१५७]:
-     J: 'nugraheṇāhāsīd iti (ayaśaḥ); the reading here appears to have been corrupted.
-
-
-[^१५६]:
-     DK (1: 576, not 4: 1972): vṛttyarthatāṃ
-
-
-[^१५५]:
-     M G: -ādīni nirūpaṇavidhiviśeṣaḥ; DK (1: 576, not 4: 1972): ādinirūpaṇavidheḥ śeṣaḥ
+The king, punishing those who do not deserve to be punished, and not punishing those who deserve to be punished, attains great ill-fame and goes to hell.—(128)

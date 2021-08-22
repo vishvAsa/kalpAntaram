@@ -2,11 +2,14 @@
 title = "124 दश स्थानानि"
 
 +++
+This verse is quoted in *Mitākṣarā* (2.26), as laying down the forms of
+‘death,’ which means ‘corporal punishment;’ *Bālambhaṭṭī* adds that
+‘*vrajet*’ means ‘should go away from home or from the city’;—in
+*Vivādaratnākara* (p. 630), which explains ‘*akṣataḥ*’ as ‘without
+corporal suffering’;—in *Vīramitrodaya* (Rājanīti, p. 293), as laying
+down the spots of the body where corporal punishment is to be inflicted
+upon all offenders, except the Brāhmaṇa;—and in *Parāśaramādhava*
+(Ācāra, p. 399 and Vyavahāra, p. 155), as laying down the ten forms of
+corporal punishment.
 
-**स्थान**शब्दो विषयपर्यायः । एतैः प्रदेशैः पीडयितव्यः प्रयपराधम्[^१४४] । शब्देन ब्राह्मणस्य धनदण्डविधानाद् **अक्षत**त्वोपदेशः शरीरपीडापरिहारार्थः कल्पते, सत्य् अपि धनस्य दशसंख्यानर्भावे । 
 
-
-[^१४४]:
-     M G DK (1: 577): prayaparādha-
-
-वयं तु ब्रूमः "समग्रधनम् अक्षतम्" (म्ध् ८.३८०) इत्य् अत्र धनपीडापि निषिद्धैव ब्राह्मणस्य । तस्माद् यः सकृत् कथंचिद् अपराद्धः श्रुतशीलाभिजनयुक्तस् तस्य धनदण्डो ऽपि नास्ति । तथा च गौतमस् तादृशम् एव ब्राह्मणम् अधिकृत्य "द्वौ लोके धृतव्रतौ"[^१४५] (ग्ध् ८.१) इत्य् उपक्रम्य, "षड्भिः परिहार्यश् च" (ग्ध् ८.१२) इत्यादि ॥ ८.१२४ ॥

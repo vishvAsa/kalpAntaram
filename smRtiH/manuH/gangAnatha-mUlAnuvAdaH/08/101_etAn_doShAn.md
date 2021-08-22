@@ -3,8 +3,4 @@ title = "101 एतान् दोषान्"
 
 +++
 
-ऊहापोहौ वर्जयित्वा यथादृष्टं यथाश्रुतं चादृष्टं[^१] तत्वेन ब्रूहि ॥ ८.१०१ ॥
-
-
-[^१]:
-     DK (1: 268) omits: cādṛṣṭaṃ; M G: dṛṣṭaṃ
+‘Having noticed all these evils proceeding prom perjury, speak out directly everything exactly what you have seen and heard.’—(101)

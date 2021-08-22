@@ -2,17 +2,16 @@
 title = "184 तेषान् न"
 
 +++
+‘*To them*’—*i.e*., to the depositors employed by the Judge;—if he
+should not restore ‘*that gold*’—which was placed in deposit;—‘*in the
+proper manner*,’—this is exactly what has been spoken of in the
+preceding verse by the phrase ‘*in the form in which it was
+entrusted*’;—then ‘*he*’—the Receiver—‘*shall be forced*’— by the
+officers of the King—‘to *restore both*’—the deposit of the plaintiff,
+as also that of the King.
+
+‘*Such is the decree*’—declaration—‘*of the law*.’
+
+What this means has already been explained.—(184)
 
 
-[^५८८]:
-     M G DK: nigṛhya dāpyaḥ syād
-
-**तेषां** प्राड्विवाकप्रयुक्तनिक्षेप्तॄणां **यदि** द्रव्यं निक्षिप्तं **न दद्यात्,** **यथाविधी**ति यथाकृतपदेन व्याख्यातम् । **स** धारणको ऽवष्टब्धय[^५८९] राजपुरुषैर् **उभयम्** अर्थिनो[^५९०] राजनिक्षेपं च दाप्यः । **इति धर्मस्य धारणा** व्यवस्था । तात्पर्यम् अत्र व्याख्यातम् ॥ ८.१८४ ॥
-
-
-[^५९०]:
-     M G: arthine
-
-
-[^५८९]:
-     M G: 'vaṣṭabdhasya

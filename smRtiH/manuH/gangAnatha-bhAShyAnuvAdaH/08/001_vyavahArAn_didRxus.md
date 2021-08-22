@@ -2,50 +2,118 @@
 title = "001 व्यवहारान् दिदृक्षुस्"
 
 +++
+It has been laid down that the protection of the people is a duty of the
+king; and this duty has been described in the following text: (*a*) ‘As
+a means of livelihood, to carry arms and weapons for the Kṣatriya, and
+to trade, to rear cattle and agriculture for the Vaiśya, and the serving
+of the twice-born for the Śūdra’—(10.79). The king who acts up to this
+attains unexcelled regions; and in this manner virtue prospers among the
+people.
 
-प्रजानां पालनं राज्ञो वृत्तिर् विहिता । सा चात्र ।
+Other castes also, who may be living the life of the Eṣattriya, are
+entitled to kingship:—‘Whoever happens to be the protector of the people
+is regarded as the *king*, Lord-Protector; and their duty has been
+ordained to consist in the good of the common people.’ By ‘protection’
+here is meant the *removal of troubles*.
 
-- शस्त्रास्त्रभृत्त्वं क्षत्रस्य वणिक्पशुकृषीर् विशः ।
+Troubles are of two kinds —*seen* and *unseen*. It is a case of ‘seen
+trouble’ when the weaker man is oppressed by the stronger, who takes
+away by force his belongings; and it is a case of ‘unseen trouble’ when
+the latter person suffers pain in the other world, through the sin
+accruing to him on account of his having transgressed the law (by taking
+what did not belong to himself). People very often act towards pne
+another in hatred, jealousy and so forth, and hence going by the wrong
+path, they become subject to ‘unseen’ evils; and thence follows the
+disruption of the kingdom; since it is only the *prosperity of the
+people* that is called ‘kingdom’; so that when the people are in
+trouble, where would the ‘kingdom’ lie?
 
-- आजीवनार्थं शूद्रस्य द्विजातीनां निषेवणम् ॥ (म्ध् १०.७९)
+It is for this reason that when cases are investigated and decided in
+strict accordance with the ordinances of scriptures, people, through
+fear, do not deviate from the right path; and hence they become
+protected against both kinds of trouble. Then again, in as much as for
+the king there is no other lawful moans of livelihood except the fines
+imposed upon criminals, and the taxes and duties, any obstacles in the
+proper administration and collection of those leads the kingdom into
+trouble.
 
-- एवं नृपो वर्तमानो लोकानान् आप्नोत्य् अनुत्तमान् ॥ इति ।
+From all this it follows that for the sake of preserving the kingdom,
+the investigation of cases is necessary, and it is this that is now
+described.
 
-तथा धर्मो वर्धते लोके । अन्येषाम् अपि वर्णानां क्षत्रियवृत्त्या जीविनाम् अस्त्य् एव राज्याधिकारः ।
+The term ‘*vyavahāra*,’ ‘case,’ is the name given to that action of the
+plaintiff and the defendant which they have recourse to for the purpose
+of reclaiming their rights. Or, it may stand for the non-payment of
+debts and such other matters themselves, which often become the subjects
+of dispute and as such fit for investigation, which thus becomes the
+duty of the king.
 
-- यः कश्चित् सर्वलोकानाम् पालकश् च नृपः स्मृतः ।
+The term ‘*desirous of investigating*’ is to be construed with ‘shall
+investigate the suits’ (of the next verse) and the said ‘points of
+dispute’ are referred to in detail again (in verse 4)—‘Of these, the
+first is non-payment of debts, etc.’; the construction being that ‘he
+shall investigate all these matters.’
 
-- कर्मनिष्ठा च विहिता लोकसाधारणे हिते ॥
+The ‘court’ is that place which is presided over by the officer going to
+be described below;—‘*entering*’ means *going into* the place.
 
-परिपालनं च पीडापहारः । द्वयी च पीडा, दृष्टा अदृष्टा च । तत्र दुर्बलस्य बलीयसा धनहरणादिना बाध्यमाना दृष्टा पीडा । इतरस्य तु विध्यतिक्रमजनितेन प्रत्यवायेनामुत्रिकदुःखोत्पादनम् अदृष्टपीडा । प्रजा हि द्वेषमत्सरादिभिर् इतरेतरम् अयथावद् आचरन्ति, कुपथेन यान्ति, अदृष्टदोषेण बाध्येरन् । अतश् च राज्यनाशः । प्रजैश्वर्यं हि राज्यम् उच्यते । तासु विनश्यन्तीषु कस्य राज्यं स्यात् । व्यवहारादयो ऽतः ।शास्त्रदण्डेन व्यवस्थाप्यमाना न भयात् पृथक् प्रचलन्ति, तथा चोभयथापि रक्षिता भवन्ति । धनदण्डश् च राज्ञः, करशुल्कादि[^१] वा । एतदन्या[^२] धर्मिष्ठजीविका न भवतीति वृत्तिपरिक्षयाद् अपि राज्यावसादः । अतो राज्यस्थित्यर्थं व्यवहारदर्शनं कर्तव्यम् ।
+The question arising as to whether or not the king shall enter the
+Court, alone, unattended, the text adds—‘*along with Brāhmaṇas*.’
+
+*Question*.—“What does the adjective ‘*versed in counsel*’ qualify? It
+cannot qualify the ‘*councillors*’; as the said qualification is implied
+by the very name ‘councillor,’ for one who does not know the art of
+counselling can never be called a ‘councillor.’ Nor can it qualify the
+‘Brāhmaṇas’; because since they are entrusted with the work of
+investigating cases, the knowledge of *counsel* (if prescribed) could be
+prescribed only for some transcendental purpose.”
+
+To the above we offer the following reply: The qualification is of the
+‘Brāhmaṇas’; if they were ignorant of counsel, they would arrive at
+random and wrong conclusions, and thereby bring trouble to the King, for
+instance, if a certain ordinary person were to file a suit against some
+one connected with the Chief Minister,—and the latter happens to lose
+the case,—then, if he were not fined, or if he were not forced to pay up
+the fine, the administration of justice would not be impartial; and the
+people would come to the conclusion that the King is cither partial or
+too weak-minded;—on the other hand, if the man were fined, this would
+displease the Chief Minister, and that also would lead to trouble among
+the people. In such cases, if the investigating officers happen to be
+‘versed in counsel,’ then, whenever they are in any such suspense, they
+postpone the proceedings of the case, under some pretext, and advise the
+King in private, to the following effect—‘You please do something
+yourself, whereby the man may be made to compromise between these two
+parties,—this party loses and that party wins the case,—but the case has
+not been disposed of by us; the decision now rests with your Majesty.’
+Thereupon, the King, having come to know the facts of the case, orders
+the Chief Minister to the following effect—‘Your man is going to lose
+his case,—but for the present the decision has been postponed, in order
+that your prestige may not suffer; it is for you to do something whereby
+the other party may be appeased and his grievance removed.’ Upon this
+the Minister, whose advice is accepted by all men, takes steps to stop
+the evil propensities of all men.
+
+Others hold that, just as the single eye of the crow operates in both
+sockets, so the epithet ‘*versed in counsel*’ is applicable to both,
+‘*Brāhmaṇas*’ and ‘*councillors*,’ but in different senses: when
+qualifying the ‘*councillors*,’ being ‘versed in counsel’ connotes *the
+knowledge of the details of the cases*; and when qualifying the
+‘*Brāhmaṇas*,’ it connotes *impartiality*.
+
+The Brāhmaṇas and the Councillors are not to *enter* only; but they are
+to help, in the best manner they can, in the ‘investigating of suits’
+(spoken of below). If this were not meant, then their ‘entering’ could
+only be intended to serve some transcendental purpose. Thus the sense is
+that the King shall not decide cases by himself alone, but in
+consultation with the councillors and Brāhmaṇas.
+
+‘*With a dignified demeanour*’;—*i.e*., free from fickleness of speech,
+hand and feet. If he were fickle, there would be trouble.
+
+The use of the term ‘*pārthiva*,’ ‘*king*,’ implies that the teaching
+here addressed is meant not only for one who is *Kṣatriya* by caste, but
+for others also, who may happen to be owners of land and a kingdom.
+Because unless he dues what is here laid down his sovereignty does not
+become duly established.—(1)
 
 
-[^२]:
-     DK (1: 29) suggests etadanyathā
-
-
-[^१]:
-     DK (1: 29; 4: 1815): karaḥ śuklādi
-
-- तद् इदानीम् उच्यते । **व्यवहारश्** चात्र वादिप्रतिवादिनोर् इतरेतराशनोद्धाराय[^३] वृत्तिर् उच्यते । अथ वा ऋणादानादयः पदार्था एव विप्रतिपत्तिविषयाः सन्तो विचारगोचरसमर्थतया कर्तव्या इति । **दिदृक्षुर्** इत्य् उक्त्वा "पश्येत् कर्याणि" (म्ध् ८.२) इति सामानाधिकरण्यम् । पुनश् च प्रत्यवमर्शः "तेषाम् अद्यम् ऋणादानम्" (म्ध् ८.४) इति । तान् पदार्थान् विचारयेद् इति संबन्धः । वक्ष्यमाणाधिकृतपुरुषाधिष्ठितः प्रदेशः **सभा** । **प्रवेशस्** तदभ्यन्तरभावः । किम् एक एव प्रविशेत् । नेत्य्[^४] आह **ब्राह्मणैः सहेति** । अथ **मन्त्रज्ञैर्** इति कस्य विशेषणम् । न तावन् मन्त्रिणः, मन्त्रित्वाद् एव सिद्धेः । न हि मन्त्रम् अजानानो मन्त्रीति शक्यते वक्तुम् । नापि ब्राह्मणानाम्, व्यवहारदर्शने ऽधिकृतानां तत्परिज्ञानम् अदृष्टाय[^५] स्यात् । 
-
-
-[^५]:
-     M G J: adṛṣṭaṃ na; I follow DK (1: 29).
-
-
-[^४]:
-     M G J: praviśec cety; I follow DK (1: 29; 4: 1815).
-
-
-[^३]:
-     M G J: -āśanodhārāya; I follow DK (1: 29); DK (4: 1815) suggests: -āśayoddhārāya
-
-- अत्रोच्यते । ब्राह्मणविशेषणम् एवैतत् । ते ह्य् अमन्त्रज्ञा[^६] भूत्वा निरपेक्षम् अवधारयन्तः स्युः । अन्यथा राज्ञो ऽनर्थम् आवहेयुः । तथा हि महामत्याश्रितः कश्चिज् जनपदेन व्यवहरन् सहसा जितो यदि न दण्ड्यते धनं वावष्टभ्य न दाप्यते, तदा समत्वेन व्यवहारदर्शनं न कृतं स्यात्, पक्षपातम् अशक्तिं वास्य जनपदा मन्येरन् । अथ दण्ड्यते, महामात्यक्षोभाद् अपि प्रकृतिविकृतं स्यात् । मन्त्रज्ञास् तु सन्तः संशयितारो यदि निर्णेतव्यस्य केनचिद् अपदेशेन प्रसङ्गरोधं कृत्वा रहसि राजानं परिबोधयन्ति "अनयोर् विवादिनोर् अयं जीयते ऽयं जयतीति, व्यवहारस् त्व् अस्माभिर् न तदानीम् एव निर्णीत इति स्वामी प्रमाणम्" । तत्र राजैवं विदित्वा महामात्यम् आदेशयति "त्वदीयो मनुष्यो जीयते, मम हनिर् मा भूद् इति संप्रति निर्णयो ऽवधीरितः । त्वम् एव तथा कुरु यथैष मनुष्यः संधीयते, बाधास्य व्यपनीयते" । ते मन्त्रिणो वादेयवाक्या मनुष्याणां सर्वेषाम् अनर्थ्यां च प्रवृत्तिं प्रतिबध्नन्ति ।
-
-
-[^६]:
-     DK (1: 29; 4: 1815) suggests: hi mantrajñā
-
-<u>अन्ये</u> तु काकाक्षिवद् उभयविशेषणम् अर्थबेदेन **मन्त्रज्ञ**पदं मन्यन्ते । यदा मन्त्रिणो विशेष्यन्ते तत्तद्धातुतत्परिज्ञानं[^७] मन्त्रज्ञानम् । ब्राह्मणपक्षे तु कार्यार्थसमभावश् च । मन्त्रिब्राह्मणानां न प्रवेशमात्रम् एव, किं तर्हि निर्णयं "पश्येत्" (म्ध् ८.२) इत्य् उत्तरत्रवाक्याद्[^८] यथायोग्यम्,[^९] इतरथा अदृष्टाय प्रवेशः स्यात् । अतो नैकाकी निर्णयं कुर्यात्, किं तर्हि तैः सह निरूप्येति ।  
-**विनीतः** वाक्पाणिपादचापलरहितः । वेपतो ह्य् अनर्थः स्यात् । **पार्थिव**ग्रहणान् न क्षत्रियस्यैवायम् उपदेशः, किं तर्ह्य् अन्यस्यापि पृथिव्याम् अधिपतेर् देशेश्वरस्य, न ह्य् अन्यथा[^१०] राज्यम् अविचलितं भवतीति ॥ ८.१ ॥

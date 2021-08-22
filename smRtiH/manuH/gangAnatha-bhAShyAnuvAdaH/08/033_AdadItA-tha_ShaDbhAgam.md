@@ -2,5 +2,16 @@
 title = "033 आददीताऽथ षड्भागम्"
 
 +++
+‘*Pranaṣṭādhigatan*’— that which has been lost and then found, *i.e*.,
+at first lost and subsequently found.
 
-**आददीत** गृह्णीयात् **षष्ठं भागं दशमं द्वादशं वा** प्रनष्टलब्धाद् द्रव्यात् । अवशिष्टं स्वामिने ऽर्पयेत् । तत्र प्रथमे वर्षे द्वादशो भागो द्वितीये दशमस् तृतीये षष्ठ इति । अथ वा रक्षाक्लेशक्षयापेक्षो भागविकल्पः । **सतां धर्मम् अनुस्मरन्** शिषानाम् एष समाचार इति जानानः ॥ ८.३३ ॥
+‘*Should remain in charge of officials specially deputed*’—whose chief
+duty is to take care of the property.
+
+While it is thus kept, if thieves should happen to steal it,—then these
+thieves the King shall cause to be killed by an elephant.
+
+The specification of the ‘elephant’ can only he with a view to some
+invisible (transcendental) result.—(33)
+
+

@@ -2,11 +2,23 @@
 title = "124 दश स्थानानि"
 
 +++
+The term ‘*sthāna*’ ‘*place*,’ is synonymous with ‘subject’; the meaning
+being that the man should be made to suffer pain on these spots.
 
-**स्थान**शब्दो विषयपर्यायः । एतैः प्रदेशैः पीडयितव्यः प्रयपराधम्[^१४४] । शब्देन ब्राह्मणस्य धनदण्डविधानाद् **अक्षत**त्वोपदेशः शरीरपीडापरिहारार्थः कल्पते, सत्य् अपि धनस्य दशसंख्यानर्भावे । 
+In as much as for the Brāhmaṇa also pecuniary punishment has been
+directly prescribed, it follows that what is said here in regard to his
+departing ‘unscathed’ is with reference to corporal punishment, which is
+forbidden in his case; even though ‘property’ also is included (in the
+next verse) among the ‘ten places.’
+
+Our opinion however is that, in as much as one can be called
+‘*unscathed*’ only when he has all his property also intact, *pecuniary*
+punishment also must be taken as forbidden in the case of the Brāhmaṇa;
+hence if a Brāhmaṇa, endowed with learning, character and noble birth,
+should, by chance, happen to commit a crime, there is no pecuniary
+punishment either. In fact, it is in reference to such a Brāhmaṇa that
+Gautama, having begun with the statement—‘In this world there are two
+men firm in their vow,’ (8.1)—goes on to say,—‘He should be excused from
+six.’ (8.13).—(124)
 
 
-[^१४४]:
-     M G DK (1: 577): prayaparādha-
-
-वयं तु ब्रूमः "समग्रधनम् अक्षतम्" (म्ध् ८.३८०) इत्य् अत्र धनपीडापि निषिद्धैव ब्राह्मणस्य । तस्माद् यः सकृत् कथंचिद् अपराद्धः श्रुतशीलाभिजनयुक्तस् तस्य धनदण्डो ऽपि नास्ति । तथा च गौतमस् तादृशम् एव ब्राह्मणम् अधिकृत्य "द्वौ लोके धृतव्रतौ"[^१४५] (ग्ध् ८.१) इत्य् उपक्रम्य, "षड्भिः परिहार्यश् च" (ग्ध् ८.१२) इत्यादि ॥ ८.१२४ ॥

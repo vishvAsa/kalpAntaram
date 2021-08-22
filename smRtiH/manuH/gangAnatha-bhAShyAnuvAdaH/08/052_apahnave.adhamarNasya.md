@@ -2,35 +2,34 @@
 title = "052 अपह्नवे ऽधमर्णस्य"
 
 +++
+When, in a court of justice, the debtor is asked by the King or the
+judge to repay the debt to (lie creditor,—if this is followed by
+‘*denial*’ or evasion by him,—then the ‘*complainant*,’—*i e*., the
+lender of the money, the creditor—shall ‘*produce a witness*’ who would
+prove his case ,—‘*or adduce other evidence*’—in the shape of a
+document, etc.
+
+The term ‘*deśa*’ (lit. *place*) indicates the man present at the place
+(where the money was lent); and though the term ‘*kāraṇa*,’ ‘evidence,’
+stands for all forms of evidence, and as such includes the *witness*
+also, yet here it should be taken as standing for ‘evidence other than
+witnesses,’ according to the maxim of ‘the cow and the bull’
+(‘*Go-balīvarda*’ where the term ‘go,’ being applicable to both the cow
+and the hull, is taken to mean the *cow* only); so that the phrase
+‘shall adduce evidence’ must mean ‘shall adduce *other forms* of
+evidence.’
+
+Or, the reading may be ‘*abhiyukto diśeddeśam*,’ and the meaning of this
+would be as follows:—The debtor, on being asked to pay, answers the
+claim by saying ‘it is true that I borrowed the money from him, but I
+paid it hack’; and when this happens, the man who was the *complainant*
+becomes the *defendant*, and on being thus made the defendant, he should
+*question the debtor regarding the place*— at what place did you repay
+the debt’?—as also regarding the *time*,—the mention of ‘*place*’ being
+only by way of illustration;—‘*or he shall adduce other evidence*’ ‘(of
+non-payment)’; *i.e*., he should say ‘I have got other means of proving
+my claim’; or it may mean that ‘if he is unable to produce the witness
+he should show why ho is so unable’; and in this case the particle
+‘*vā*,’ ‘or,’ should be taken to mean ‘*ca*,’ ‘and.’—(52)
 
 
-[^१९६]:
-     M G: karaṇaṃ
-
-यदा राज्ञा प्राड्विवाकेन वा **संसदि** व्यवहाराधिकरणादिदेशे "देह्य्[^१९७] उत्तमर्णाय धनम्" इति **उक्तस्यापह्नवो** ऽपलापः[^१९८] अधर्मेण भवति, तद्**आभियोक्ता**[^१९९] धनस्य प्रयोक्तोत्तमर्णो[^२००] **दिशेद् देशं** साक्षिणं प्रमाणभूतं निर्दिशेत् । **अन्यद् वा कारणं** लेख्यादि । **देश**शब्देन लक्षणया धनप्रयोगप्रदेशवर्तिनां साक्षिणाम् उपादानात्, **कारण**शब्दः[^२०१] सामान्यशब्दो ऽपि गोबलीवर्दवत् साक्षिव्यतिरिक्तं लेख्यादिकारणम्[^२०२] आचष्टे । ततश् च पाठान्तरम् "कारणं वा समुद्दिशेत्" इति । अस्याप्य् अयम् एवार्थः । 
-
-
-[^२०२]:
-     M G DK (1. 212): -karaṇam
-
-
-[^२०१]:
-     M G DK (1: 212): karaṇa-
-
-
-[^२००]:
-     M G: - marṇāya
-
-
-[^१९९]:
-     M G: tadābhiyukto
-
-
-[^१९८]:
-     M G add: apalāpo
-
-
-[^१९७]:
-     M G omit: dehy
-
-अथ वायम् अन्यः पाठः "अभियुक्तो दिशेद् देशम्" इति । अयं वार्थः । यत्राधमर्णो देहीत्य् उक्तः प्रतिजानीते "सत्यम् एव धनं प्रतिदत्तं तु तत्" इति,[^२०३] यद् असाव् अभियोक्तासीत् स एवाभियुक्तः संवृतः । स चाभियुक्तः संदिशेद् देशम्- "कस्मिन् देशे त्वया मे पर्तिदत्तम्" । कालं च निर्दिशेत्, देशग्रहणस्य प्रदर्शनार्थत्वात् । **कारणं**[^२०४] **वा समुद्दिशेत्** । "अस्ति भो[^२०५] किं कारणं[^२०६] तव प्रतिपादने तत् समुद्दिश" इत्य् एवम् ब्रूयात् । अथ वा दिशेद् देश्यम्- यत् तस्मिन् काले नार्हं साक्ष्यादिप्रदर्शनं[^२०७] कारणं[^२०८] वेति । वाशब्दः चशद्बस्य स्थाने ॥ ८.५२ ॥

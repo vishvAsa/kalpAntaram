@@ -3,4 +3,4 @@ title = "084 आत्मैव ह्य्"
 
 +++
 
-एष एवार्थो विस्पष्टीक्रियते उत्तरेण श्लोकेन ॥ ८.८४ ॥
+‘The soul itself is the soul’s witness, and the soul itself is the soul’s refuge; disregard not your soul, the best witness of man.’—(84)

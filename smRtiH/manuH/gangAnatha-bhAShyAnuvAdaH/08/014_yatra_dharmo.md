@@ -2,17 +2,24 @@
 title = "014 यत्र धर्मो"
 
 +++
+‘*Justice*’ is decision arrived at in strict accordance with the
+scriptures, reasoning and local customs;—if this is
 
-**धर्मः**[^९४] शास्त्रन्यायदेशनियता व्यवस्था । सा चेद् **अधर्मेण**[^९५] तद्व्यतिक्रमरूपेण **हन्यते** विनाश्यते ऽर्थिना प्रत्यर्थिना । तथा **सत्यम् अनृतेन** साक्षिभिर् हन्यते । प्राड्विवाकादयश् च **प्रेक्षन्ते** न तत्त्वम् उद्धरन्ति, ततस् ते **हताः** शवतुल्या भवन्तीति निन्द्यते । तस्मान् नार्थिप्रत्यर्थिनौ विपरीतम् आचरन्तौ सभासद्भिर् उपेक्ष्यौ, साक्षिणश् च । धर्माधर्मग्रहणेन सत्यानृतग्रहणेन वा सिद्धौ,[^९६] श्लोकपूरणम् उभयोर् उपादानम् । अतो विषयभेदेन व्याख्यातम् ॥ ८.१४ ॥
+‘*destroyed by Injustice*,’—*i.e*., set aside by the reverse of
+justice,—by either the plaintiff or the defendant;—similarly where
+‘*truth is destroyed by falsehood*’—by the witnesses;—and all the time
+the judges and the other people in the Court remain looking on, and do
+not try to draw out the real facts,—then these men also are
+‘*destroyed*,’—*i.e*., become as good as dead corpses. This is meant to
+be a deprecation of the judges, etc.
+
+For these reasons the members of the Court shall not connive at any
+misrepresentations being made by the parties or by the witnesses.
+
+In as much as the mention of ‘Justice and Injustice’ only, or of ‘Truth
+and Falsehood’ only, would have been sufficient, the mention of both
+would have to be regarded as serving the purpose of tilling up the
+metre; hence it has been explained as referring to two distinct sets of
+persons (the parties and the witnesses).—(14)
 
 
-[^९६]:
-     M G J: siddhaṃ; I follow DK (1:35)
-
-
-[^९५]:
-     M G: vedadharmeṇa
-
-
-[^९४]:
-     M G: dharma-

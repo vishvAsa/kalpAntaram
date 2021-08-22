@@ -2,13 +2,9 @@
 title = "050 यः स्वयम्"
 
 +++
-
-उक्तस्यैवार्थस्य स्पष्टीकरणार्थः श्लोकः । न छलादिनोपायेन स्वेच्छय्**ओत्तमर्णो** **ऽधमर्णाद्** धनं **संसाधयन्** **राज्ञा** किंचिद् वक्तव्यः- "माम् अविज्ञाप्य किम् इत्य् अस्माद् आभरणादि स्वधनसंशुद्ध्यर्थं व्याजेन छद्मना गृहीतम्,[^१९२] गृहीत्वा वा[^१९३] किं नास्मै प्रतिप्रयच्छसि" इति ॥ ८.५० ॥
-
-
-[^१९३]:
-     M G J omit: vā
+This verse is quoted in *Vivādaratnākara* (p. 74), which explains the
+meaning to be that if a creditor adopts any of the five methods
+mentioned in the preceding verse, he should not be prevented by the king
+from doing so and in *Kṛtyakalpataru* (p. 80a).
 
 
-[^१९२]:
-     M G J omit: gṛhītam

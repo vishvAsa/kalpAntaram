@@ -2,13 +2,13 @@
 title = "095 अन्धो मत्स्यान्"
 
 +++
+This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 205), whiqḥ says
+that according to some
 
-**अर्थवैकल्यं** सत्याद् अपेतं **भाषते** । यथा कण्टका अशिता[^३२१] भक्षिता जनयन्ति न तादृशीं मत्स्याः प्रीतिं जनयन्ति । यदा धनलोभेन काचित् प्रीतिमात्रा भवति तथापि महादुःखं[^३२२] भवतीति सकण्टकमत्याशनोपमा ॥ ८.९५ ॥
+people, this and the preceding two verses are to be addressed to
+witnesses of the lower order only; hence in ordinary cases, after
+‘*kurūn gamaḥ*’, the exhortation should begin with ‘*yāvato bāndhavān*
+&c.’ (verse 97);—these exhortations are to be addressed to Śūdras and to
+poverty-stricken twice-born persons also;—and in *Kṛtyakalpataru* (35b).
 
 
-[^३२२]:
-     M G: mohaduḥkhaṃ
-
-
-[^३२१]:
-     M G: asitā

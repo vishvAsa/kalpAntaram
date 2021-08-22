@@ -2,5 +2,21 @@
 title = "125 उपस्थम् उदरम्"
 
 +++
+‘*The genital organ*’—male and female. Here the places are only named;
+the exact form in which the punishment is to be inflicted on each
+‘place’ shall be described later on. If, with reference to any ‘place,’
+no particular form of punishment has been prescribed, the law is that
+the culprit shall suffer by that limb whereby he may have committed the
+wrong. Hence in cases of incest, punishment is inflicted on the genital
+organ;—in theft it is inflicted upon the stomach, in the form of
+starvation, etc.;—in the case of defamation, on the tongue, and in that
+of assault, on the hands;—when he trespasses with his feet, it is to be
+inflicted on the feet;—if he openly and fearlessly stares at the king’s
+wife, his punishment is inflicted on the eyes,—by smelling the
+(forbidden) odour of sandal-paint, he is punished on the nose;—if he
+should be found listening behind the wall or the curtain, while the king
+is holding secret council, the punishment should fall on his
+ears;—punishment regarding ‘*property*’ is well known;—the killing of
+the ‘*body*’ is done only in the case of the gravest offenders.—(125)
 
-**उपस्थं** प्रजनधर्मः स्त्रीपुंसयोः । उद्देशमात्रम् इदं विनियोगस् तूत्तरत्र भविष्यति । यत्र च दण्डविशेषो नाम्नातस् तत्र यो येनैवाङ्गेनापराद्धः स तत्रैव पीडयितव्यः । तत्रागम्यागमन **उपस्थ**निग्रहः । चौर्य **उदरत** आहारनिवृत्त्यादिना । वाग्दण्डपारुष्ये **जिह्वाहस्तयोः** । पादबलेन व्यतिक्रामन् **पादयोः** । विवृत्य विश्रब्धं राजदारान् विक्ष्यमाणश् **चक्षुषोः** । अनुलेपनगन्धम् आजिघ्रन् **नासिकायाम्** । रहसि राजानम् मन्त्रयमाणं कुड्यपटान्तरित उपशृण्वन् **कर्णयोः** । **धने** प्रसिद्धो दण्डः । **देहे** मारणं महापातकिनः ॥ ८.१२५ ॥
+

@@ -2,9 +2,18 @@
 title = "111 न वृथा"
 
 +++
+This verse describes the effect of improper swearing, ‘*improper*’
+meaning *contrary to truth*, *false*.
 
-मिथ्याशपथे फलाख्यानम् एतत् । **वृथा** अन्यथा असत्यम् इति यावत् । तत्रापह्रियमाणसुवर्णादिद्रव्यजात्यपेक्षो ऽनृतशपथदोषो ऽन्यथाशपथे स्वल्पे, गरीयसि तु कार्ये गौरवाद् अधिकतरो दोषो ऽस्त्य् एव । प्रेत्य नाशो नरकम्, इह महद् अयशः । प्रमाणान्तरे तु ज्ञाते[^८९] राजदण्डः ॥ ८.१११ ॥
+The gravity of the sin of ‘false swearing’ is dependent upon the nature
+of the property stolen—be it goods or something else,—and also upon that
+of the caste of the person involved and so forth. But even in minor
+matters one should not swear falsely; in more serious matters of course,
+the sin is more heinous.
+
+‘*Ruin after death*’ consists in falling into hell; and ‘*ruin here*’ is
+in the form of public obloquy, and also punishment at the hands of the
+king, in the event of the true facts being discovered by other
+means.—(111)
 
 
-[^८९]:
-     M G: tv ajñāte

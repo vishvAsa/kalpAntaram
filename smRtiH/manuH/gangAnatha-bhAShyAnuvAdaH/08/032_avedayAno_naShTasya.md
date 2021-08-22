@@ -2,5 +2,14 @@
 title = "032 अवेदयानो नष्टस्य"
 
 +++
+This verse lays down the penalty for preferring a false claim.
 
-मिथ्या प्रवर्तमानस्य दण्डो ऽयम् उच्यते । यो न ज्ञापयति **नष्टस्य** धनस्य **देशं कालं** च, अस्मिन् देशे काले वा हारितम्, **तत्त्वतः** परमार्थतह्ṁ **वर्णं** शुक्लादिकम्, **रूपं** पटी शाटकयुगं वेत्यादिकम् आकारम्, **प्रमाणं** पञ्चहस्तायामं सप्तहस्तमात्रं वा, **अवेदयानः,** तदा **तत्समं** यावति द्रव्ये मित्थ्याप्रवृत्तस् तत्तुल्यं **दण्डम् अर्हति** ॥ ८.३२ ॥
+He who does not provide a ‘correct’—true—account of the time and place
+*of the lost article*—that ‘it was lost at such a time and at such a
+place’;—‘*colour*’ white and the rest; ‘*form*’—that ‘it was a piece of
+cloth, or a pair of petty-coats’ and so forth; ‘*size*’—that^(‘)it was
+five cubits or seven cubits in length’;—if he fails to give a correct
+account of all this, then he deserves a fine equal to the property to
+which he had laid a false claim.—(32)
+
+

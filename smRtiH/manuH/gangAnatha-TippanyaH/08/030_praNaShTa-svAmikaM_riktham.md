@@ -2,45 +2,44 @@
 title = "030 प्रणष्ट-स्वामिकं रिक्थम्"
 
 +++
+This rule is meant for only such property as does not belong to a
+Brāhmaṇa—says Nandana.
 
-यद् द्रव्यं स्वामिनो **नष्टं** प्रमादात् कथंचित् पथि गच्छतो भ्रष्टम्, अरण्ये कान्तारे वा स्थापयित्वारण्यपालैर् अन्यैर् वा राजपुरुषैर् लब्धं राजसकाशम् आनीतम्, तद् राज्ञा[^१२३] रक्षां कृत्वा राजद्वारे राजमार्गे वा प्रकाशं स्थापयितव्यम् । पटहघोषणेन वा कस्य किं हारितम् इति प्रकाशयितव्यम् । यतः प्रदेशाल् लब्धं तस्मिन्न् एव प्रदेशे रक्षिपुरुषाधिष्ठितं कर्तव्यम् । एवं **त्रीणि** वर्षाणि स्थापयितव्यम् । तत्र्**आर्वाक्** **त्रिभ्यो** वर्षेभ्यो यः कारणत आत्मीयं ज्ञापयेत् तस्योद्धृतवक्ष्यमाणषड्भागादिभागकं समर्पयितव्यम्, परतः स्वकोष्ठे प्रवेशनीयाम् इति ।
+This verse is quoted in *Aparārka* (p. 778), which notes that the rule
+(relating to the keeping of the property for three years) pertains to
+the case of property belonging to Brāhmaṇas with exceptional
+qualifications;—in *Mitākṣarā* on 2.38, which notes that the meaning is
+that for three years, the property must be kept in safe custody; if the
+owner turns up before the lapse of one year, the entire property should
+be handed over to him; but if he turns up after one year then a portion
+of the property is to be taken by the king as fee for keeping it; the
+proportion being specified below in verse 33; it adds that the last
+clause, permits the king to spend the property after three years, only
+in the case of the owner not turning up at all.—It is quoted again under
+1.173, where it is noted that the period of three years is meant for the
+case of the owner being a Brāhmaṇa ‘endowed with learning and
+character.’
+
+It is quoted in *Madanapārijāta* (p. 226), which notes that this only
+permits the king to *make use* of the property (not to make it his own).
+In view of what the *Mitākṣarā* and *Aparārka* have said, it is
+interesting to note that *Madnapārijāta* reads ‘*abdam*’ and ‘*abdāt*’,
+which clearly puts down the period as *one year* only.
+
+It is quoted in *Vyavahāramayūkha* (p. 87), which also notes that the
+rules refer to the property of a Brāhmaṇa learned in the Veda.
+
+This is quoted in *Vīramitrodaya* (Rājanīti, p. 266), which adds the
+following notes:—Reading this text along with *Yājñavalkya* (2-33), we
+take the rule to be that, if the owner turns up before the lapse of one
+year, the entire property should be made over to him, but if after that,
+the king should take from it his own share;—for three years he should
+keep the property in the same condition in which it was found; and after
+that he is permitted to spend out of it;—and if the owner turns up after
+three years, then the king should take out of it his own share, which
+should be equal to that of the owner,—giving the fourth part of the
+royal share to the man who found the property.
+
+It is quoted in *Nṛsiṃhaprasāda* (Āhnika, p. 36a and Vyavahāra, p. 27b).
 
 
-[^१२३]:
-     M G DK (1: 1953) add: svāṃ
-
-- प्रनष्टः स्वामी यस्य रिक्थस्य तत् **प्रनष्टस्वामिकम् ।** **प्रनष्टो** ऽविज्ञातः । **रिक्थं** धनम् । त्रयाणाम् अब्दानां समाहारस् **त्र्यब्दम् ।** त्रिवर्षवत् त्र्यब्दे ङीबभावः । अब्दशब्दः संवत्सरपर्यायः । **निधापयेत्** स्थापयेत् । **अर्वाक् त्र्यब्दात्** पूर्वं त्रिभ्यो वर्षेभ्यः, **हरेत् स्वामी** स्वीकुर्यात् । **अर्वाक्**शब्दो ऽवधौ दिग्देशादिकात् पूर्वम्[^१२४] आह ।
-
-
-[^१२४]:
-     M G DK: digdeśādikān pūrvān
-
-- span style="text-decoration-underline;">अन्ये</u> तु **नृपतिर् हरेद्** इति भोगानुज्ञानम् अपहारम् आहुः । न हि ऊर्ध्वम् अपि त्रिभ्यो वर्षेभ्यः परकीयस्य द्रव्यसापहारो युक्तः । तस्मात् त्रिभ्यो वर्षेभ्य ऊर्ध्वम् अनागच्छति स्वामिनि राज्ञा[^१२५] भोक्तव्यम् । 
-
-
-[^१२५]:
-     J: rājñā svāmini 
-
-- span style="text-decoration-underline;">तैर्</u>[^१२६] अयं श्लोकः कथं व्याख्यानीयः- "यत् किंचिद् दशवर्षाणि" (म्ध् ८.१४७) इति । यदि च परकीयस्यापहारो न युक्त इत्य् उच्यते भोगो ऽपि नैव युक्तः । परकीयं[^१२७] वस्त्रादिवद् भुज्यमानं नश्यत्य् एव । तत्रानपहारोपचारो युक्तः, भुक्तेर्[^१२८] एवापहारफलस्य सद्भावात् । गजतुरगादेस्[^१२९] तु कीदृशो भोग इति वाच्यम् । तस्मान् न यथाश्रुतार्थत्यागे कारणम् अस्ति । हरतिश् च गृह्णात्यर्थे असकृद् दृष्टप्रयोग **ऋक्थं हरेद्** इत्यादौ । तस्त्मात् **परेण नृपतिर् हरेत्** स्वीकुर्याद् इत्य् अयम् एवार्थः ॥ ८.३० ॥
-
-
-[^१२९]:
-     M G: japamudrādes
-
-
-[^१२८]:
-     M G DK: tatrānapahāravācoyuktir evāpahāraphalasya
-
-
-[^१२७]:
-     M G: parakīyasya
-
-
-[^१२६]:
-     M G: tad
-
-_कथं पुनः स्वामी प्रनष्टे धने स्वामित्वं ज्ञापयेत् । अत_[^१३०] _आह_ ।
-
-
-[^१३०]:
-     M G DK: jñāpayitum alam

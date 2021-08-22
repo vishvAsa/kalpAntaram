@@ -2,5 +2,11 @@
 title = "094 अवाक्-शिरास् तमस्य्"
 
 +++
+On being questioned regarding the subject-matter of the investigation,
+if one should state what is not true,—by that sin he falls into
+‘*hell*’—the place of punishment—with his feet held upwards and the head
+hanging below—into intense darkness. In ordinary darkness, people can
+see something, but in the darkness referred to, nothing can be seen;
+hence the epithet ‘*blind*.’—(94)
 
-निमित्तं पृष्टो यो **वितथम्** असत्यं वक्ति स तेन **किल्बिषेन** पापेन गृहीत ऊर्ध्वपादो ऽधोमुखो महति गाढे **तमसि नरकं** यातनास्थानं तत्प्राप्नोतीत्य् अर्थः । अन्यस्मिंस् **तमसि** किंचिद् दृश्यते तत्र तु न किंचिद् एवेत्य् **अन्ध्**अग्रहणम् ॥ ८.९४ ॥
+

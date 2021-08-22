@@ -2,13 +2,12 @@
 title = "090 जन्मप्रभृति यत्"
 
 +++
+‘*Would go to the dogs*’—would be futile, so far as you are concerned.
+Others however explain that ‘going to the dogs’ is indicative of
+positive harm; the sense being—‘the merit of the man becomes thrown
+away, in the same manner in which a man, having earned, with great
+difficulty, gold and other excellent treasures, were to throw it all
+into an unclean stream’: it has been pointed out more than once that the
+merit acquired by one person cannot go over to another.—(90)
 
-**शुनो गच्छेन्** निष्फलं स्याद् भवत इत्य्[^३१३] अर्थः । <u>अन्ये</u> तु[^३१४] दोषप्रदर्शनार्थं श्वगमनवचनम् । यथा कृच्छ्रेण महता सुवर्णाद्युत्तमद्रव्यम् अर्जयित्वाशुचिप्रवाहे त्यजेत् तादृक् सुकृतं भवति । न पुनर् अन्यकृतस्य सुकृतस्यान्यत्र गमनम् अस्तीत्य् असकृद् उक्तम् एतत् ॥ ८.९० ॥
 
-
-[^३१४]:
-     M G DK: atyalpa-
-
-
-[^३१३]:
-     M G: bhavaty evety

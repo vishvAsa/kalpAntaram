@@ -2,9 +2,19 @@
 title = "113 सत्येन शापयेद्"
 
 +++
+In as much as the act of ‘swearing’ consists in invoking upon oneself
+evil consequences,—such as ‘If I do this may such and such an evil
+befall me,’—when a man is made to say ‘I swear by truth,’ what is meant
+is—‘may all my merit due to truthfulness become futile.’
+
+‘*Conveyances*’ and ‘*weapons*’ also are the means of swearing in this
+same sense; when one swears by these it means—‘may these be useless for
+me.’
+
+‘*Cattle, grains and gold*,’—the Vaiśya should be made to swear by
+touching these; which would mean ‘may these be useless for me.’
+
+‘*The Śūdra by all sins*’;—the *Śūdra* should be made to say—‘may the
+following sins befall me.’—(113)
 
 
-[^१०६]:
-     The reading should probably be "ebhis", glossed as "vakṣyamāṇāni" and "vakṣyamāṇaiḥ" at 8.88; see also the citation of this phrase at 8.99, where "ebhis" is used.
-
-ननु च यद्य् अहम् एवंकुर्यां तद् इदम् अनिष्टम् आप्नुयाम् इति संकीर्तनक्रियाशपथं तं यः कारयेत् स **शापयेद्** इत्य् उच्यते । **सत्येन** शपे सत्यादिनिबन्धनो ऽयं धर्मो वा मे निष्फलः स्याद् इति । एवं चायुधानाम् अपि करणत्वं वाहनानां च । एतैर् आत्मानं शपतो न वा निष्फलानि स्युर् इति । **गोबीजकाञ्चनानि** वैश्यो हस्तेन स्पर्शयित्वाभिशपेद् एतानि वा मे निष्फलानित् पूर्ववत् । **शूद्रं सर्वैस् तु पातकैः** "वक्ष्यमाणानि पातकानि मे स्युः" इति शूद्रो वाच्यते ॥ ८.११३ ॥

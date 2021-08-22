@@ -2,5 +2,27 @@
 title = "016 वृषो हि"
 
 +++
+By means of the explanation of the term ‘*vṛṣala*,’ the judge who
+perverts justice is censured. The title of ‘*vṛṣala*’ (low-born) does
+not apply to one who is so by caste—*i.e*., the *śūdra*,—but he who
+‘*commits the violation*’ (‘*alam*’) of the *Bull*, ‘*vṛṣa*,’—*i.e*., he
+who showers all blessings;—the particle ‘*alam*’ denoting *violation,
+perversion*.
 
-**वृषल**शब्दनिर्वचनेन मिथ्यादर्शी निन्द्यते । न जातिवृषलो वृषलः, किं तर्हि, यो वृषस्य कामवर्षिणो धर्मस्य अलंकुरुते । निवृत्तिवचनः अलंशब्दः । स **वृषल** इत्य् एतम् अर्थम् **देवाः** प्रतिपन्नाः । मनुष्यास् तु यदि जातिशब्दम् एव मन्यन्ते, कामं मन्यन्ताम्, प्रमाणतरास् तु देवाः । ते चानेन प्रवृत्तिनिमित्तेन वृषलशब्दप्रोयोगं मन्यन्ते । देवग्रहणम् अर्थवादः । तस्मात् "श्राद्धकाले वृषलैर् न प्राप्तव्यम्", "हन्तव्यो वृषलश् चौरः," इत्याद्यासु क्रियासु मिथ्यादर्शी ब्राह्मण एव वृषलशब्देन ग्रहीतव्य इति । अतो वृषलत्वं मा प्रापम् इति **धर्मं न लोपयेत्,** न नाशयेद् इति । वृषलत्वाध्यारोपो निन्दा ॥ ८.१६ ॥
+The opinion that such a person is ‘*vṛṣala*’ is held by the gods; if it
+is taken as denoting a *caste*, it may be so taken; but the gods are
+more authoritative, and they accept the denotation of the term as here
+explained.
+
+The mention of the ‘*gods*’ is only a commendatory exaggeration.
+
+For the reason here explained, in all such texts as—(*a*) ‘no *vṛṣala*
+should come in during the performance of a *śrāddha*,’ or ‘the *vṛṣala*
+thief should be killed,’—the term ‘*vṛṣala*’ should be taken as standing
+for the Brāhmaṇa that perverts truth.
+
+Consequently one should not violate Justice, lest he become tainted with
+the character of the ‘*vṛṣala*’; the application of this character to
+the Brāhmaṇa being a form of deprecation.—(16)
+
+

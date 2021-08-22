@@ -2,17 +2,11 @@
 title = "118 लोभान् मोहाद्"
 
 +++
+False evidence is due to greed and the rest. These have been enumerated
+for the purpose of determining the exact penalty.
 
-कौटसाक्ष्यं[^१३०] लोभादिनिमित्तम्[^१३१] । विषयकथनं दण्डविशेषभावार्थम्[^१३२] । **वितथम्** असत्यम् । सर्वत्र पञ्चमी हेत्वर्था ॥ ८.११८ ॥
+‘*False*’—untrue.
 
-
-[^१३२]:
-     DK: daṇḍaviśeṣalābhārtham
-
-
-[^१३१]:
-     DK: lobhādinimitta-
+The Ablative throughout denotes *cause*.—(118)
 
 
-[^१३०]:
-     M G: kauṭasākṣya-; DK (1:278): kauṭasākṣye

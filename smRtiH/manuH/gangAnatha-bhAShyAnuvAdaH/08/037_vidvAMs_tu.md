@@ -2,18 +2,17 @@
 title = "037 विद्वांस् तु"
 
 +++
+When a learned Brāhmaṇa finds the treasure that bad been buried by his
+forefathers—father, grandfather and so forth,—then ‘*he shall take it
+wholly*,’ and shall not hand over to the king the aforesaid part of it.
+
+In support of this the text adds a supplementary exaggeration—‘*as he*
+is *the master of everything*,’—as has been declared under 1.100.
+
+The rule here laid down applies to the case where the treasure belongs
+to the Brāhmaṇa; when however its rightful owner is not known, then,
+even though it may have boon found by a ‘*learned Brāhmaṇa*,’ the king’s
+share has to be paid; as it is going to be declared (in 39) that—‘of all
+ancient hoards...... the king is entitled to one-half.’—(37)
 
 
-[^१४०]**विद्वान् ब्राह्मणः** पूर्वैः पित्रादिभिर् उपहितं **निधिं** यदा पश्येत् तदा सर्वम् एव्**आददीत**, न राज्ञे पूर्वोक्तं भागं दद्यात् । अस्यार्थवादः- **सर्वस्याधिपतिर् हि सः** । तथा चोक्तम्- "सर्वं स्वं[^१४१] ब्राह्मणस्येदम्" (म्ध् १.१००) इति । एतच् च्**आसेषतो** ग्रहणं यो ब्राह्मणस्वामिक एव निधिः । यस् त्व् अविज्ञातस्वामिकः तस्मिन् विद्वद्ब्राह्मणदृष्टे[^१४२] ऽप्य् अस्त्य् एव राज्ञो भागः । यतो वक्ष्यति "निधीनां तु पुराणानाम्" (म्ध् ८.३९) इति ॥ ८.३७ ॥
-
-
-[^१४२]:
-M G: vijñeyaḥ brāhmaṇadṛṣṭo
-
-
-[^१४१]:
-All read: sarvasvaṃ
-
-
-[^१४०]:
-M G DK (1: 1956; 4: 1342) add at beginning: yadā

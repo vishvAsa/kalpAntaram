@@ -2,5 +2,12 @@
 title = "021 यस्य शूद्रस्"
 
 +++
+This is a supplementary declaration to the foregoing Injunction.
 
-पूर्वविधिशेषो ऽयम् अर्थवादः । **यस्य राज्ञः शूद्रो धर्मविवेचनं** धर्मनिर्णयं करोति, **तस्य सीदति** नश्यति **राष्ट्रं** प्रजाः, कर्दमे **गौर् इव** ॥ ८.२१ ॥
+The construction is—That king for whom the ‘*investigation of
+law*’—*i.e*., decision on legal cases—is made by a *Śūdra* duly
+qualified by learning, etc.,—his kingdom,—people,
+subjects—‘*suffers*’—is destroyed—‘*like the cow in a
+morass*;’—‘*paśyataḥ*’—‘while he is looking on.’—(21)
+
+

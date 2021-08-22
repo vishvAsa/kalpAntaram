@@ -2,9 +2,27 @@
 title = "053 अदेश्यं यश्"
 
 +++
+It has been said before that on the debtor denying the debt, the
+creditor complains to the King ,—*i e*., the complaint shall be lodged
+in the form—‘At such and such place, at such and such time, such and
+such an amount of money was borrowed from mo by this man’;—and on being
+questioned, he may say ‘I was not at the place at the time,’ referring
+to the place and time that have been alleged by him as those at which
+the money was borrowed: and in this case he ‘mentions the wrong place.’
+Or, the term ‘*deśa*’ may stand for the *witness*; and the text means
+‘if he cites as witness a person whose presence at the time and place of
+the transaction is impossible.’
 
-उक्तम् एवाधर्मर्णे ऽपह्नुवाने धनिना राजा ज्ञापयितव्यः- "ईदृशी च ज्ञापना कर्तव्या । अस्मिन् देशे ऽस्मिन् काल इदं धनम् इयद् वैतेन मत्सकाशाद् गृहीतम्" । स च पृष्टो भावयति- "नैतस्मिन् देशे ऽहम् अभवं यो ऽनेन च ग्रहणकाल उपदिष्टः" तद् अदेशं दिशति[^२१०] । अथ वा देशसाक्षिणो व्याख्यातास् तान् साक्षिणो देशकालाव् असंभवतो निर्दिशति । निर्दिश्य देशादिकम् अपजानीते "नैतन् मया निर्दिष्टम्" इति । **यश् चाधरोत्तरान् अर्थान्** पौरस्त्यानौपरिष्टांश् च **विगीतान्** विरुद्धान् अभिहितान् **नावबुध्यते** । यद् वा पूर्वं वक्तव्यं तत् परस्माद् वक्ति यत् परतस् तत् पूर्वं क्रमभेदं च वचनगतम् आत्मनो नानुसंधत्ते । "हीनः स इति निर्दिशेत्" (म्ध् ८.५७) इति सर्वत्र क्रियानुषङ्गो भविष्यतीति ॥ ८.५३ ॥
+Having alleged the place, time, etc., ‘*if he retracts*,’—saying ‘I did
+not say this.’
+
+He who does not understand that his ‘*previous statement*’—what he had
+alleged before—and his ‘*subsequent statement*’—what he alleges
+afterwards—are ‘*contradidory*’;—or if he does not realise the
+discrepancy in his own behaviour.
+
+‘*Such a person shall be declared to have failed*’—this verbal clause
+(occurring in verse 57) has to be construed with each verse (from 53 to
+57).—(53)
 
 
-[^२१०]:
-     M G J: tadā deśe diśyate (M G dīyate)

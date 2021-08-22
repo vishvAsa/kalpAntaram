@@ -2,11 +2,24 @@
 title = "088 ब्रूहीति ब्राह्मणम्"
 
 +++
+“On what basis do we have the instrumental ending in *gobījakāñcanaiḥ*?
+If it be said to be due to these being *instruments* in the act of
+*questioning*, that cannot be; as it is the word (and not the kine,
+etc.) that are the *instruments*, a means of questioning.”
+
+There is no force in this objection. We have to construe the words in
+such a manner as to make the ‘kine,’ etc., instruments of the
+questioning. The word ‘*pātakaiḥ*,’ ‘*sins*’ has got to be construed
+both ways, so that we have the phrase ‘*gobījakāñcunaiḥ pātakaiḥ*,’
+which gives the meaning that ‘he should ask them by mentioning sins
+pertaining to the kine, grains and gold,’ *i.e*., the form of the
+question to be employed should he—‘if you tell a lie, you would he
+incurring the same sin that follows from stealing or killing the cow.’
+
+Similarly, by mentioning the sins going to be enumerated (in the next
+verse), he should question the *Śūdra*. The term ‘*sin*’ here should he
+taken as standing for *words expressing sins*; because the sins
+themselves could not be the *means or instrument* of the *questioning*,
+as pointed out above.—(88)
 
 
-[^३०९]:
-     All editions read "sarvais," but it is clear that Medhātithi's reading was "ebhis", as is evident from his commentary: "vakṣyamāṇaiḥ pātakaiḥ", and the reading "śūdram ebhis tu pātakaiḥ" given at 8.99.
-
-<u>क्व पुनर्</u> इयं तृतीया **गोबीजकाञ्चनैर्** इति । यदि तावत् **पृच्छेद्** इति क्रियासंबन्धात् करणम् उच्यते, तद् अनुपपन्नम् । शब्दो हि तत्र करणम्, नार्थः । 
-
-<u>नैष दोषः</u> । यथा गवादीनि प्रश्नकरणत्वं प्रतिपद्यन्ते तथा व्याख्येयम् । **पातकैर्** इत्य् उभयशेषो विज्ञेयः- **गोबीजकाञ्चनैः** **पातकैर्** इति । तेनायम् अर्थो भवति । गोबीजकाञ्चनविषयैः पातकप्रदर्शनैः पृच्छेद् इति । "गां हृत्वा हत्वा वा यत् पातकं तद् भवति तव मिथ्या वदतः" इति प्रश्नवाक्यं पठितव्यम् । एवं वक्ष्यमाणैः पातकैः शूद्रं पृच्छेत् । पातकशब्दस् तु पातकप्रदर्शनार्थेष्व्[^३१०] अभिधानेषु द्रष्टव्यो मुख्यानां प्रश्नकरणत्वाभावाद् इत्य् उक्तम् ॥ ८.८८ ॥

@@ -2,15 +2,11 @@
 title = "029 जीवन्तीनान् तु"
 
 +++
+This verse is quoted in *Mitākṣarā* (on 2.147), in support of the view
+that except the husband, no co-parcener should lay hands upon the
+property of women during their life-time;—in *Aparārka* (p. 752), to the
+effect that when the woman is *dead*, her relations do have a right to
+her *Strīdhana* property;—in *Vivādaratnākara* (p. 512); and in
+*Vyavahāramayūkha* (p. 70).
 
-बान्धवानां स्त्रीधनम् अपहरताम् अयं **चोरदण्डः** । ते हि बहुभिर् उपधाभिर् अपहरन्ति । अस्वतन्त्रैषा स्त्री किं ददाति किं वा भुङ्क्ते वयम् अत्र स्वामिन इति अचौराशङ्कया चोरदण्डो विधीयते । **जीवन्तीनां** **तासां स्वबान्धवा** देवरादयस् तद्धनं **ये हरेयुस् ताञ् छिष्यात्** **पृथिवीपतिर्** निगृह्णीयात् । चौरदण्डो[^१२२] वक्ष्यमाणः-
 
-
-[^१२२]:
-     M G DK (1:1952): coradaṇḍo
-
-- येन येन यथाङ्गेन स्तेनो नृषु विचेष्टते । 
-
-- छेत्तव्यं तत् तद् एवान्यत् तन् मनोर् अनुशासनम् ॥ इति । (म्ध् ८.३३४)
-
-स्वबन्धुभ्यश् चैतद् विशेषेण राज्ञा रक्षितव्यम् । चौररक्षा तु स्वराष्ट्रविषया विहिता ॥ ८.२९ ॥

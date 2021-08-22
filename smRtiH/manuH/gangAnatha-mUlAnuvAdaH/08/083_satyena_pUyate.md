@@ -3,4 +3,4 @@ title = "083 सत्येन पूयते"
 
 +++
 
-**पूयते** शुद्ध्यत्य् अन्यस्माद् अपि पापान् मुच्यत इति यावत् । शेषं गतार्थम् ॥ ८.८३ ॥
+‘By truth is the witness purified, by truth does merit grow: hence the truth should be spoken by witnesses of all castes.’—(83)

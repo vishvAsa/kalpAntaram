@@ -2,17 +2,15 @@
 title = "171 अनादेयस्य चादानाद्"
 
 +++
+‘*What ought not to be taken*’ is that which he is not entitled to
+receive; the verbal affix denoting *title*.
 
-अनादानार्हम् **अनादेयम्** । "अर्हे कृत्यः" (पाण् ३.३.१६९) । तच् च दर्सितम् । **दौर्बल्यं ख्याप्यते** प्रकृतिभिः[^५२९] "अस्मान् दण्डयति, स्तेनाटविकसामन्तादीन् न शक्तो विजेतुम्" इति । परेष्व् अशक्तिं[^५३०] प्रथयन्ति राष्ट्रीयाः । अतस् तैर् अभिषेण्यमानो विरक्तप्रकृतिर् इह नश्यति । आदानाद् **इह, प्रेत्य** च अधर्मदण्डनात्[^५३१] ॥ ८.१७१ ॥
+‘*Weakness becomes proclaimed*’—*by* his subjects, who say—‘This king
+punishes us, but he is unable to suppress thieves, robbers and
+recalcitrant tributary kings’; his enemies also assert their power; and
+being attacked by these, ho becomes disgusted with life and thus
+‘*becomes ruined here*’—in this world—and by taking what he ought not to
+take—*i.e*., by imposing illegal fines, etc.—he ‘*becomes ruined, after
+death*’ also.—(171)
 
 
-[^५३१]:
-     J: ca dharmadaṇḍanāt (but Jha's translation presupposes the negative)
-
-
-[^५३०]:
-     M G J: pare svaśaktiṃ (I follow DK 4: 1344)
-
-
-[^५२९]:
-     M G add: asmābhir

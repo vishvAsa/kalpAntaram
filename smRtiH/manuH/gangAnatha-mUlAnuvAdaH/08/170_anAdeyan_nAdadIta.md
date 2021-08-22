@@ -3,10 +3,4 @@ title = "170 अनादेयन् नाददीत"
 
 +++
 
-करदण्डशुल्कादि शास्त्रविहितं वर्जयित्वान्यत् पौरधनम् **अनादेयं** राज्ञः[^५२८] क्षीणकोशस्यापि । यत् तु शास्त्रन्यायागतं रक्षानिर्वेशधनं तत् **सूक्ष्मं** कार्षापणमात्रम् **अपि न** त्यजेत् । तद् उक्तम्-
-
-
-[^५२८]:
-     M G: rājñā
-
-वल्मीकपथवद् राजा कोशवृद्धिं तु कारयेत् । इति ॥ ८.१७० ॥
+Even though reduced (in circumstances), the King shall not take what ought not to be taken; and even though affluent, he shall not relinquish what ought to be taken, be it ever so small.—(170)

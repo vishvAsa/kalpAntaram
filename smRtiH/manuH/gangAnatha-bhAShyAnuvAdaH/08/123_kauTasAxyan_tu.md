@@ -2,13 +2,17 @@
 title = "123 कौटसाक्ष्यन् तु"
 
 +++
+The penalties prescribed above are for the first offenders; for repeated
+offenders there is fining, followed by ‘banishment,’—*i.e*., expulsion
+from the kingdom;—or death; rules regarding the inflicting of such
+penalty being met with in political science.
 
-सकृद् अपराद्धानां पूर्वो दण्डः । अभ्यासात् प्रवर्तमानानां **दण्डयित्वा प्रवासनं** राष्ट्रान् निष्कासनम्, मरणं वार्थशास्त्रे प्रयोगदर्शनात् तद्रूपत्वाच् च दण्डविधेः । **ब्राह्मणं तु विवासयेत्** । वाससो ऽपहरणं विवासनं गृहभङ्गो वा । विवाससं[^१४२] विवासं वा[^१४३] करोति "तत् करोति" इति णिचि णाविष्टवद् इति टिलोपे रूपम् । **त्रीन् वर्णान्** इति क्षत्रादयस् त्रयः, ब्राह्मणस्य दण्डान्तरविधानात् ॥ ८.१२३ ॥
+‘*But the Brāhmaṇa he shall deprive of his clothes*’;—‘*vivāsana*’
+meaning *depriving of clothes*, or *of dwelling*. The verb is formed
+from the noun ‘*vivāsa*,’ ‘homeless,’ ‘clothesless,’ with the causal
+affix ‘*ṇic*,’ which makes the nominal verb ‘makes *vivāsa*.’
+
+‘*The three Castes*’—the *Kṣatriya* and the rest;—since for the Brāhmaṇa
+a separate punishment is prescribed.—(123)
 
 
-[^१४३]:
-     M G J omit: vā
-
-
-[^१४२]:
-     J omits: vivāsasaṃ

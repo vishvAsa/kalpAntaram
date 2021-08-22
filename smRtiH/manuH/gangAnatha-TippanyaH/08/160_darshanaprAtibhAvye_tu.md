@@ -2,35 +2,18 @@
 title = "160 दर्शनप्रातिभाव्ये तु"
 
 +++
+The first half of this verse is quoted in *Vivādaratnākara* (p. 57),
+which adds that ‘*darśanaprātibhāvya*’ includes the surety for *trust*
+also \[this is clear from Yājñavalkya, 254, where both are put on the
+same footing\]—the second half is quoted on p. 43 where ‘*dānapratibhū*’
+is explained as ‘the surety who had promised *I* *shall pay*,’—and
+‘*dāyādān*’ as ‘sons.’
 
-**पूर्व**श्लोके यो **विधिर्** मया **चोदित** उक्तः, यथा पुत्राणां न भवति पैत्रिकं प्रातिभाव्यम्, तद् **दर्शनप्रातिभाव्ये** । यद्य् एवं प्रत्ययप्रतिभुवः पुत्रा दाप्यन्ताम्, अत आह **दानप्रतिभुवि प्रेते दायादाः** पुत्रा **दाप्यन्ते**, नान्यस्मिन् । 
+\(1\) ‘*Darśana-pratibhū*’ is the person standing surety with the
+promise ‘I shall produce this man when required’;—(2) *Pratyayapratibhū*
+is one who says ‘give him the loan on my trust’;—(3) *Dānapratibhū*’—who
+says ‘give him the loan, which, if he does not pay, I shall pay.’
 
-- span style="text-decoration-underline;">यद्य् एवं</u> प्रथमो ऽर्धश्लोको ऽनर्थकः । दानप्रतिभुवः पुत्राणां साधन उक्ते[^३९७] सामर्थ्याद् अन्यस्य[^३९८] प्रतिभुवो नास्ति पुत्राणां संबन्ध इति गम्यते । अथ विस्पष्टार्थम् उच्यते । प्रत्ययग्रहणम् अपि कर्तव्यम् । इतरथा प्रतिषेधे[^३९९] दर्शनग्रहणाद्[^४००] विधौ च दानग्रहणाद् उभयपरिभ्रष्टस्य किं विधिर् उत प्रतिषेध[^४०१] इति संशयः स्यात् । 
-
-
-[^४०१]:
-     M G: vidhibhūtapratiṣedha
-
-
-[^४००]:
-     M G: darśanaṃ grahaṇād
-
-
-[^३९९]:
-     M G: pratiṣedha-
+The verse is quoted in *Kṛtyakalpataru* (74a and 76b).
 
 
-[^३९८]:
-     M G: yasya
-
-
-[^३९७]:
-     M G DK: sādhanānukte
-
-- span style="text-decoration-underline;">नास्ति</u> संशयः, स्मृत्यन्तरे स्पष्टम् उक्तत्वात्-
-
-- दर्शनप्रतिभूर् यत्र मृतः प्रात्ययिको ऽपि वा ।
-
-- न तत्पुत्रा ऋणं दद्युर् दद्युर् दानाय ये स्थिताः ॥ इति । (य्ध् २.५६)
-
-इहापि **दानप्रतिभुवी**त्य् अस्य विधित्वाद् अन्यत्राप्राप्तिः । **दर्शन**ग्रहणम् उपलक्षणार्थम् । अनुवादे चोपलक्षणत्वम् अदोषः । किंप्रयोजनम् इति चेत्, विचित्रा श्लोकानां कृतिर् मानवी ॥ ८.१६० ॥

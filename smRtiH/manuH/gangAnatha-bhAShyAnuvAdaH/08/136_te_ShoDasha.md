@@ -2,9 +2,12 @@
 title = "136 ते षोडश"
 
 +++
+Sixteen ‘*Silver-Beans*’ make a ‘*Silver-Dharaṇa*’; of which the other
+name is ‘*Purāṇa*.’
 
-**षोडश**रूप्यमाषका रूप्यस्य **धरणं** भवति । **पुराण** इति संज्ञान्तरम् । **कार्षापणः** पण इति च द्वे संज्ञे ताम्रकर्षस्य । कर्षाख्यश् च शब्दो लोकत एव प्रसिद्धार्थ इह गृह्यते व्यभिचारदर्शनासत्त्ववचनेन[^१७५] न कृष्णलादिवत् परिभाष्यते ॥ ८.१३६ ॥
+‘*Kārṣāpaṇa*’ and ‘*Paṇa*’ are the two names of the ‘Copper-karṣa’; the
+term ‘*Karṣa*’ is used here in the sense in which it is used among the
+people, and it is not used in any technical sense, in the way in which
+‘*Kṛṣṇala*’ and other terms have been used.—(136)
 
 
-[^१७५]:
-     J: -darśanāsattvena

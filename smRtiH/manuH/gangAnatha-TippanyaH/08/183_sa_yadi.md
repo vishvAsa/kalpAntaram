@@ -2,17 +2,12 @@
 title = "183 स यदि"
 
 +++
-
-**स यदि** निक्षेपधारी यदि **प्रतिपद्येत** "बाढम् अस्ति, गृहाण" इत्य् अङ्गीकृत्य दद्यात् । **यथन्यस्तं** तथा कृतं समुद्रम् अमुद्रं **यथाकृतं** वस्त्रादि संवर्तितम् अमुद्रितम् अन्यद् वा अलंकाराद्यनुपभुक्तं परिमलशून्यं गृहमुद्रया स्वचिह्नेन स्थापितम् । तादृशम् एव चेद् दद्यान् **न तत्र विद्यते किंचित्** सत्यं[^५८५] **यत् परैः** पूर्ववेदिकैर् अभियुज्यते- "एतेनास्माकीनः साक्ष्यभावान् निक्षेपो ऽपह्नूयते" इति । **यथान्यस्तं यथाकृतम्** इति गूढागूढचिह्नकृतेन भेदः । अथ वा गृहीतृनिक्षेप्तृव्यापारभेदेन[^५८६] भेदः । **यथाकृतं** यथागृहीतं निर्विकल्पम् अवलंबं च गृहीतं तथैव प्रतिदात्व्यं प्रतिदाने यत्र कालग्रहणं न क्रियेत[^५८७] इत्य् अर्थः ॥ ८.१८३ ॥
-
-
-[^५८७]:
-     J: kriyata
-
-
-[^५८६]:
-     M G: gṛhītanikṣeptur; DK: gṛhītur nikṣeptur
+This verse is quoted in *Aparārka* (p. 664);—and in *Vivādaratnākara*
+(p. 94), which continues the explanation (see last note)—‘If the man
+admit the deposit and surrender it exactly in the condition in which it
+had been deposited—neither more nor less,—then the king should conclude
+that the former deposit, the subject-matter of the dispute, had not been
+made over to him, and he should be acquitted of the charge brought
+against him by the other party’.
 
 
-[^५८५]:
-     J: asatyaṃ

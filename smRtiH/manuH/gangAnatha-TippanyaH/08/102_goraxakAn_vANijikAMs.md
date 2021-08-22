@@ -2,5 +2,14 @@
 title = "102 गोरक्षकान् वाणिजिकांस्"
 
 +++
+This verse is quoted in *Aparārka* (p. 674), and again on p. 681, as
+indicating that in certain eventualities even a Brāhmaṇa may be
+condemned to death;—in *Vyavahāramayūkha* (p. 19);—in *Vīramitrodaya*
+(Rajānīti, p. 268), which refers to *Aparārka* and adds that the term
+‘*viprām*’ here stands for the illiterate Brhāmaṇa who does
+cattle-tending &c., as also for such Kṣatriyas and Vaiśyas as are
+addicted to degraded vocations;—in *Hemādri* (Dāna, p. 35 and Śrāddha,
+p. 359);—in *Prāyascittaviveka* (p. 384);—in *Smṛticandrikā* (Vyavahāra,
+p. 205).
 
-**कारवः** शिल्पिनस् तक्षायस्कारसूपकरादयः । **कुशीलवा** नर्तकगायनाद्याः । **प्रेष्या** जीविकार्थं परस्याज्ञाकारा दासा इति प्रसिद्धाः । **वार्धुषिका** वृद्ध्युपजीविनः । एते ब्राह्मणा अपि सन्तः प्रकरणात् साक्ष्ये शपथे च **शूद्रवद्** द्रष्टव्या न क्रियान्तरे । यथा शूद्रो न दानपुण्यादिना पृच्छ्यन्ते साक्ष्ये शपथे चाग्निहरणादिना शोध्यते तद्वद् एषो ऽपि शपथो यद्य् अपि पूर्वत्राप्रकृतः तथाप्य् उत्तरत्रानन्तर्याद् दोषवत्वात् प्रयतत्वात् प्रयतत्वे ऽप्य् आनन्तर्यस्य संबन्धहेतुत्वाद् वक्ष्यमाणस्यापि प्रत्यासत्त्या पूर्ववद् वयोसंनिपातात् शपथे ऽपि तुल्यम् ॥ ८.१०२ ॥
+

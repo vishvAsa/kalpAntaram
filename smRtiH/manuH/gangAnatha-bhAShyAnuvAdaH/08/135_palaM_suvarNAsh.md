@@ -2,21 +2,22 @@
 title = "135 पलं सुवर्णाश्"
 
 +++
+‘*Pala*’ is the name, and ‘*gold-piece*’ the thing named, ‘*four*’ is
+its qualifying adjunct.
+
+‘*Two kṛṣṇalas*’ is the thing named, and the compound term
+‘*Silver-Bean*’ the name.
+
+“What the text declares is that when we come to ascertain the exact
+measure of the ‘*Bean*’ in connection with silver, we have to understand
+it us being equal to ‘*two guñja-berries*.’ Now this makes the measure
+indefinite.”
+
+It is in view of this that the text has added the epithet ‘*of equal
+weight*’; *i.e*., the two are to be held on each pan of the
+weighing-scale, without any other kinds of measure. The sense of this
+epithet has to be explained on the same lines as that of the epithet
+‘*middling*’ (in verse 134); and its use lies in the fact that if
+unequal beans were meant, the weight would remain indefinite.—(135)
 
 
-[^१७१]:
-     M G DK: raupya-
-
-**पलम्** इति संज्ञानिर्देशः । **सुवर्णम्** इति संज्ञी । **चत्वार** इति विशेषणम् । **धरणम्** इति संज्ञा । **दश पलानीति** संज्ञी । **द्वे कृष्णले** इति संज्ञा । **रूप्यमाषक** इति समुदायसंज्ञां[^१७२] मन्यन्ते । <u>ननु</u> रूप्यविषयमाषकनिर्देशे द्वे कृष्णले प्रतिपत्तव्ये इति प्रतिजानीते । ततश् चानिश्चयः[^१७३] । **समधृते** । तुलासूत्रके उन्मानादिहीने[^१७४] यदि धार्येते । प्रयोजनं मध्यशब्दवत् (म्ध् ८.१३४), यतो ऽसमयाद् धार्यमाणतया परिमाणानिश्चयः ॥ ८.१३५ ॥
-
-
-[^१७४]:
-     M G: unmānād ahīne
-
-
-[^१७३]:
-     M G: prādeśaniścayaḥ
-
-
-[^१७२]:
-     M G: -saṃjñā; DK samudāyaṃ saṃjñāṃ

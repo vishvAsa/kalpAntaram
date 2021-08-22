@@ -3,4 +3,4 @@ title = "019 राजा भवत्य्"
 
 +++
 
-एष एवार्थो विपर्ययेणोच्यते । यत्र दोषवान् दोषं गोपयितुं न लभते प्रकटीक्रियते तदीयो दोषः, तत्र सर्वं साधु संपद्यत इति । "यत्र धर्मः" (म्ध् ८.१४) इत्य् अत आरभ्य मिथ्यादर्शनोपेक्षणप्रतिषेधार्थं निन्दाप्रशंसाभ्यां शुभाशुभफलदर्शनार्था अर्थवादाः ॥ ८.१९ ॥
+Where, however, the person deserving of censure is actually censured, there the king becomes sinless, the members of the court become freed, and the sin falls upon the perpetrator.—(19)

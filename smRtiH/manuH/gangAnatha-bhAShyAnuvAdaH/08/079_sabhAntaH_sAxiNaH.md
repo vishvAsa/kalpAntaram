@@ -2,17 +2,32 @@
 title = "079 सभान्तः साक्षिणः"
 
 +++
+‘*In the court*’—inside the court room; the compounding being in
+accordance with Pāṇini 2. 1.40;—those who have presented themselves at
+the place of the trial; should he questioned ‘*in* *the presence of the
+plaintiff and the defendant*’—both;—they being ‘*gently exhorted*’ in
+the manner described below,—not addressed harshly; because if addressed
+harshly, they would become frightened of the judge, and thereby losing
+the normal condition of their mind, they would he unable to recall all
+the details of the case; because fright always deprives people of their
+memory.
 
-सभायाम् अन्तः **सभान्तः** । शौण्डादित्वात् समासः (च्ड़्। पाण् २.१.४०) । व्यवहारदेशगता उभयोर् **अर्थिप्रत्यर्थिनोः** संनिधाने ऽनुयोक्तव्या वक्ष्यमाणेन विधिना । **सान्त्वयन्** अपरुषं ब्रुवन्[^२९५] । पारुष्येण हि प्राड्विवाकाद् बिभ्यतो ऽप्रकृतिस्था न[^२९६] सर्वं स्मरेयुः, संस्कारभ्रंशहेतुत्वाद् भयस्य । प्राड्विवाको राज्ञा व्यवहारदर्शनाधिकृतो रूढ्योच्यते । यद्य् अप्य् अवयवार्थो राजन्य् अपि संभवति। पृच्छति विविनक्तीति, तथापि[^२९७] भेदेन प्रयोगदर्शनम्- "अमात्यः प्राड्विवाको वा यः कुर्यात् कार्यम् अन्यथा" (म्ध् ९.२३४) इति । पृच्छतीति प्राट्, "क्विब्वचिप्रच्छिश्रिद्रुश्रुप्रुवां दीर्घो ऽसंप्रसारणं च" इति प्राट् । विशेषेण धर्मसंकटेषु विवेक्तीति विवाटः । "कृत्यल्युटो बहुलम्" (पाण् ३.३.११३) इति । कर्तरि घञ् । "चजोः कु घिण्ण्यतोः" (पाण् ७.३.५२) इति कुत्वम् । प्राट् चासौ विवाकश् च प्राड्विवाकः ॥ ८.७९ ॥
+‘*Prāḍvivāka*’ Investigating ‘*Judge*’ is the name given to the officer
+appointed by the king to try cases. Though the name, in its literal
+significance of ‘questioning and judging’ applies to the king also, yet
+we find the two names used separately, in such texts as—‘If the Minister
+or the *Judge* (Prāḍvivāka) should pervert the details of a suit, the
+*king* himself shall look into it, etc.’ (*Manu*. 9.234.)
+
+In the term ‘*prāḍvivāka*,’ ‘*prāṭ*’ means *one who questions*,
+‘*pṛchati*;’ it being derived from the root ‘*prach*’ to ‘question’ with
+the nominative affix ‘*kvip*’; the elongation of the vowel and the
+change into ‘ṭ’ being analogous to the case of the roots ‘*vaci*,’
+‘*śri*,’ ‘*dru*’ ‘*śru*,’ ‘*pru*.’ ‘*Prāṭ*’ is the qualifying epithet to
+‘*vivāka*,’ which means ‘one who judges or investigates knotty legal
+cases’;—the nominative affix ‘*ghañ*’ being added in accordance with
+*Pāṇini* 3. 3. 113, and the change of ‘*ca*’ into ‘*ka*’ being in
+accordance with ‘*Pāṇini*’ 7.3.52. the term *prāḍvivāka* thus means the
+*questioning or Investigating Judge*.—(79)
 
 
-[^२९७]:
-     M G: tathā ca
-
-
-[^२९६]:
-     M G: 'prakṛtisthānaṃ 
-
-
-[^२९५]:
-     M G omit: bruvan

@@ -2,11 +2,19 @@
 title = "088 ब्रूहीति ब्राह्मणम्"
 
 +++
+‘*Gobījakañcanaiḥ*’—‘Threatening him with the guilt of all offences
+committed against kine and the rest’ (Medhātithi) ‘with the guilt of the
+theft of kine etc.’ (Govindarāja, Kullūka and Rāghavānanda);—‘with the
+loss of his kine etc.’ (Nārāyaṇa);—‘by making him touch the cow and
+other things’ (Nandana).
+
+This verse is quoted in *Aparārka* (p. 674);—and in *Parāśaramādhava*
+(Vyavahāra, p. 78), where however the first half is read as “sasyena
+śāpayedvi??aṃ kṣanniyaṃ vāhanāyudhaiḥ”;—in *Smṛtitattva* (II, p. 215),
+which adds:—The Vaiśya is to be admonished with the words:—‘those sins
+would accrue to you which are involved in stealing the cow etc. if you
+tell a lie and the Śūdra with the words—‘all kinds of sins would fall on
+you etc. etc.’;—in *Smṛticandrikā* (Vyavahāra, p. 204);—and in
+*Kṛtyakalpataru* (33b).
 
 
-[^३०९]:
-     All editions read "sarvais," but it is clear that Medhātithi's reading was "ebhis", as is evident from his commentary: "vakṣyamāṇaiḥ pātakaiḥ", and the reading "śūdram ebhis tu pātakaiḥ" given at 8.99.
-
-<u>क्व पुनर्</u> इयं तृतीया **गोबीजकाञ्चनैर्** इति । यदि तावत् **पृच्छेद्** इति क्रियासंबन्धात् करणम् उच्यते, तद् अनुपपन्नम् । शब्दो हि तत्र करणम्, नार्थः । 
-
-<u>नैष दोषः</u> । यथा गवादीनि प्रश्नकरणत्वं प्रतिपद्यन्ते तथा व्याख्येयम् । **पातकैर्** इत्य् उभयशेषो विज्ञेयः- **गोबीजकाञ्चनैः** **पातकैर्** इति । तेनायम् अर्थो भवति । गोबीजकाञ्चनविषयैः पातकप्रदर्शनैः पृच्छेद् इति । "गां हृत्वा हत्वा वा यत् पातकं तद् भवति तव मिथ्या वदतः" इति प्रश्नवाक्यं पठितव्यम् । एवं वक्ष्यमाणैः पातकैः शूद्रं पृच्छेत् । पातकशब्दस् तु पातकप्रदर्शनार्थेष्व्[^३१०] अभिधानेषु द्रष्टव्यो मुख्यानां प्रश्नकरणत्वाभावाद् इत्य् उक्तम् ॥ ८.८८ ॥

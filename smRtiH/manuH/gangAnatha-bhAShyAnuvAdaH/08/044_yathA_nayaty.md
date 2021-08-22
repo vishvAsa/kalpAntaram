@@ -2,9 +2,26 @@
 title = "044 यथा नयत्य्"
 
 +++
+It has been said above that the king himself shall not, in a hurry
+either haul anyone up or punish him for any offence; and the reason for
+this lies in the consideration that it is quite possible that the act
+that the king regards as an ‘offence’ might have been done in joke. Now
+the question arises—how is it to be ascertained whether the act has been
+done in joke or through malice and such other causes?
 
-यद् उक्तं न स्वयं दृष्ट्वापि राजा सहसा कंचिद् आक्रमेत वा निगृह्णीयाद् यतः नर्मणाप्य् एतत् संभवति । कथं पुनर् एतद् अवगन्तव्यम्,[^१७२] किं परिहासकृतम् एतद् उत क्रोधाद्यनुबन्धकृतम् इति । अत आह **अनुमानेन्**ऐतज् ज्ञातव्यम् । **यथा** **मृगयुर्** मृगव्याधो विद्ध्वा मृगं नष्टं दृष्टिपथाद् अपक्रान्तं छिद्रनिसृतैर् **असृक्पातैः** स्रवद्भिः शोणितैः **पदं मृगस्य नयत्य्** आसादयत्य् एवं राजा**नुमानेन** परोक्षे प्रत्यक्षे वार्थकारणं निश्चिनुयात् । धर्मश् च कृतव्यवहारविषयस् तत्त्वावगमः । उक्तस्याप्य् अनुमानस्य पुनर्वचनं स्मृतिदार्ढ्यार्थम् ॥ ८.४४ ॥
+It is in answer to this question that it is said that ‘this is to be
+ascertained by means of inference.’—Just as the
+‘*hunter*’—fowler—‘*discovers*’—gets at—‘*the foot-print*’ of the deer
+that has been wounded and disappeared from view by means of the drops of
+blood flowing from the wound,—in the same manner the king should
+discover the root-cause of the suit—which may be not perceptible,—by
+means of inference.
+
+The term ‘*dharma*,’ ‘*right*,’ here stands for *the real facts of the
+case*.
+
+The restriction of ‘inference’ as a means of finding out truth, already
+mentioned before (in verse 3), is for the purpose of emphasising the
+point.—(44)
 
 
-[^१७२]:
-     M G DK (1: 74): eva gantavyam

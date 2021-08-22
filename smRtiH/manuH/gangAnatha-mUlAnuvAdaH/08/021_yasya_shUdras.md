@@ -3,4 +3,4 @@ title = "021 यस्य शूद्रस्"
 
 +++
 
-पूर्वविधिशेषो ऽयम् अर्थवादः । **यस्य राज्ञः शूद्रो धर्मविवेचनं** धर्मनिर्णयं करोति, **तस्य सीदति** नश्यति **राष्ट्रं** प्रजाः, कर्दमे **गौर् इव** ॥ ८.२१ ॥
+The kingdom or that king for whom the investigation of Law is done by a Śūdra, while he himself is looking on, suffers, like the cow in a morass.—(21)

@@ -2,5 +2,43 @@
 title = "023 धर्मासनम् अधिष्ठाय"
 
 +++
+‘*Judgment-seat*,’— that seat upon which the pronouncing of judgments is
+the principal work done. When he is seated upon his royal throne, the
+king regards ‘wealth’ as conducive to the prosperity of the kingdom, to
+be the most important matter, even in preference to ‘morality’; but when
+he is engaged in deciding suits, he regards ‘morality’ or ‘Justice’ as
+the most important thing;—this is what is implied by the name
+‘*judgement-seat*,’ which does not mean that ‘morality’ or ‘Justice’ is
+a quality of the ‘scat.’
 
-धर्मः प्रधानः यस्मिन्न् आसने भवति तद् **धर्मासनम्** । राजासने हि राज्यस्थित्यानुगुण्येनार्थम् एव प्रधानीकरोति न्यक्कृत्यापि धर्मम् । व्यवहारनिर्णये तु धर्मम् एव प्रधानं आश्रयेद् इत्य् अर्थः, न पुनर् आश्रयभेदो ऽनेन ज्ञाप्यते । **संवीताङ्गः** वस्त्रादिना स्थगितसरीरः । **प्रणम्य लोकपालेभ्य** इन्द्राद्यष्टौ लोकपालास् तान् नमस्कृत्य **कार्यदर्शनम् आरभेतेत्य्** अदृष्टार्थम् एतद् द्वयम् अङ्गसंवरणं लोकपालप्रणामश् च । **समाहितः** अनन्यचित्तः कार्यदर्शने । एवं हि दृष्टार्थं भवति । प्रणामविशेषणं वा समाहितग्रहणम् । यद्य् अप्य् अत्र किंचिद् उक्तम् एव प्रतिभाति तथापि पद्यग्रन्थत्वान् नातीव पौनरुक्त्यम् । **लोकपालेभ्य** इति चतुर्थी संप्रदाने । कथं । क्रियाग्रहणं संप्रदानसूत्रे चोदितम् "श्राद्धाय निगृह्णते" "पत्ये शेते" (पत् इ- ३३०) इत्याद्यर्थम् । न च क्रियाग्रहणं गृह्णात्यादिविषयम् एव, भाष्ये ऽनुक्तत्वात् ॥ ८.२३ ॥
+‘*With his body covered*,’—*i.e*., having his body covered up with cloth
+and such other things.
+
+‘*He shall salute the guardian-deities*,’—how down to the eight
+‘Guardians of the People, Indra and the rest’;—‘*he shall proceed with
+the investigation of suits*.’
+
+These two acts—covering up of the body and saluting the Guardian
+deities—are laid down with a view to some transcendental result.
+
+‘*With mind collected*,’— with his mind concentrated, hot turning
+towards any other thing. This serves a visible purpose.
+
+Or, the phrase ‘*with collected mind*’ may be taken as modifying the
+verb ‘salute.’
+
+Though what is asserted here appears to have been already said before,
+yet, in as much as the treatise is a metrical one, repetition cannot he
+very strongly objected to.
+
+In ‘*Lokapālebhyaḥ*’ ‘*to the Guardian Deities*,’ the Dative ending
+denotes the *recipient of a gift*; since under the *Sutra* dealing with
+the Dative, it has been held (by the *Vārtika*) that that also is a
+‘recipient’ for whose sake a certain act is done; *e.g*., ‘*śrāddhāya
+nigṛhṇate*’ (‘He keeps himself in check for the sake of the performance
+of Śrāddhas’), ‘*patye shete*’ (‘Lies down for the sake of her
+husband’). Nor can the said assertion he regarded as restricted to the
+two roots here mentioned (in the two examples); as no such restriction
+is mentioned in the *Bhāṣya*.— (23)
+
+

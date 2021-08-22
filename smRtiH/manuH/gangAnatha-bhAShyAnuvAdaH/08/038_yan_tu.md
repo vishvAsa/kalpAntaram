@@ -2,5 +2,12 @@
 title = "038 यन् तु"
 
 +++
+When the king himself has found treasure, this text lays down that he
+shall give one-half of it to the *Brāhmaṇas*.
 
-यो राज्ञा स्वयं निधिर् अधिगतस् तस्मान् निधेर् अयं ब्राह्मणेभ्यो दाननियमो राज्ञः । **कोश**शब्देन वित्तसंचयस्थानम् उच्यते । **पुराणं निहितं क्षिताव्** इति निधिरूपानुवादः ॥ ८.३८ ॥
+The term ‘*Treasury’ stands* for the place of hoarding.
+
+‘*Buried* *of old under* *the* *ground*’;—this describes the nature of
+the treasure-trove.—(38)
+
+

@@ -2,7 +2,20 @@
 title = "054 अपदिश्याऽपदेश्यञ् च"
 
 +++
+‘*Praṇihitam*’—‘Duly stated by himself’ (Kullūka and Nandana);—‘stated
+by himself in the plaint’ (Govindarāja); ‘duly ascertained’
+(Rāghavānanda and Nārāyaṇa).
 
-पूर्वेणार्धेनोक्तस्यार्थस्य निगमनम् । उत्तरेणानुक्तो ऽर्थ उच्यते । यद् उक्तम् "अदेशं यश् च दिशति निर्दिश्यापह्नुते च यः" (म्ध् ८.५३) इति स एवार्थः **अपदिश्येत्य्** अस्य । अदेश एव्**आपदेशः** । तम् **अपदिश्य** कथयित्वा **पुनः** पश्चाद् **अपधावत्य्** अपसरति "नैतौ देशकालौ मम निश्चितौ, यावत्सु देशकालो ऽवधारयति तावद् अयं मह्यम्" इति पश्चाद् ब्रवीति । सो ऽपि तस्माद् अर्थाद् धीयते । 
+This verse is quoted in *Kṛtyakalpataru* which has the following
+notes:—‘*Apadiśya*’, having put forward,—‘*apadeśam*’,
+pretext,—‘*apadhāvati*’,—retracts,—‘*samyak praṇihitam artham*,’ what
+has been stated clearly and definitely,—‘*pṛsṭaḥ*’, questioned as to
+what he has to say as against the statement of the other party, or what
+proofs he has in support of his own statement;—and in *Vīramitrodaya*
+(Vyavahāra, 31b), which has the following explanations:—‘He who slinks
+away from the court under some pretext’,—‘who does not pay heed—by
+answering,—to what has been said by others, even though fully
+comprehending what has been said’;—it quotes Medhātithi as reading
+‘*adeśam*’ and reproduces his several explanations.
 
-**सम्यक् प्रणिहितं चार्थम्** अनाकुलं निश्चितम् उक्तं यदा पृच्छ्यते, तदानेनोक्तं[^२११] तत्र किं ब्रवीषि केन वा प्रमाणेन स्वपक्षं साधयसीति पृष्टो न संधत्ते[^२१२] कथान्तरं प्रसौति — "विचारावसानेन किल मे पराजयो भवतीति कालम् उपक्षिपमि" इति — तस्यापि पराजय एव । अथ **वापदेशो** व्याजस् तम् **अपदिश्य्**ओपन्यस्य यो ऽपसरति "अधुना मे महती पीडा समुत्पन्ना न शक्नोमि प्रतिवक्तुम्," अलीकादिना वा प्रस्थितः सो ऽपि हीयते ॥ ८.५४ ॥
+

@@ -2,5 +2,14 @@
 title = "019 राजा भवत्य्"
 
 +++
+The same idea is stated conversely.
 
-एष एवार्थो विपर्ययेणोच्यते । यत्र दोषवान् दोषं गोपयितुं न लभते प्रकटीक्रियते तदीयो दोषः, तत्र सर्वं साधु संपद्यत इति । "यत्र धर्मः" (म्ध् ८.१४) इत्य् अत आरभ्य मिथ्यादर्शनोपेक्षणप्रतिषेधार्थं निन्दाप्रशंसाभ्यां शुभाशुभफलदर्शनार्था अर्थवादाः ॥ ८.१९ ॥
+Where the guilty person is not able to hide his guilt, and his guilt is
+duly exposed, then everything turns out to be right.
+
+From verse 14 onwards we have a set of supplementary exaggerations,
+containing praises and condemnations indicating the good and bad
+results,—put forward for the purpose of forbidding the actual committing
+of injustice, as also the conniving at it (being committed by others).
+
+

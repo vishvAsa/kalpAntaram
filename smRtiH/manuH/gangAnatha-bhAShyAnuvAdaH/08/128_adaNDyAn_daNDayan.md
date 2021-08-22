@@ -2,17 +2,11 @@
 title = "128 अदण्ड्यान् दण्डयन्"
 
 +++
-
-पूर्वश्लोके ऽनुबन्धादिनिरूपणविधिविशेषः[^१५५] । अनेन त्व् अनपराधानां दण्डनं प्रतिषिध्यते सापराधानां च विधीयते । वृत्त्यर्थतां[^१५६] दण्डस्य मन्यमानो ऽनुग्रहेण मा हासीद् इति[^१५७] ॥ ८.१२८ ॥
-
-
-[^१५७]:
-     J: 'nugraheṇāhāsīd iti (ayaśaḥ); the reading here appears to have been corrupted.
-
-
-[^१५६]:
-     DK (1: 576, not 4: 1972): vṛttyarthatāṃ
+The preceding verse was supplementary to the injunction regarding the
+consideration of the ‘motive’ and other things; while the present verse
+*prohibits* the punishing of persons who are not guilty of any offence,
+and enjoins that of those who are guilty;—and this is emphasised because
+of the possibility of the king regarding punishment as futile and hence
+omitting to inflict it, which would lead to much evil.—(128)
 
 
-[^१५५]:
-     M G: -ādīni nirūpaṇavidhiviśeṣaḥ; DK (1: 576, not 4: 1972): ādinirūpaṇavidheḥ śeṣaḥ

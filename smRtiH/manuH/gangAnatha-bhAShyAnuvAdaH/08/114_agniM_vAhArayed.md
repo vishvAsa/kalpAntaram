@@ -2,9 +2,20 @@
 title = "114 अग्निं वाहारयेद्"
 
 +++
+‘*He shall make him fetch water*’—with the hand, with only the leaf of
+the fig tree intervening. As for the other details, regarding the man
+going seven steps and so forth,—all this may be found in other *Smṛtis*
+(*e.g*., Yājñavalkya, *Vyavahāra*, 103, and Nārada 2.296). The matter
+being well known by tradition, our author has simply stated the
+‘fetching of fire.’
 
-**अग्निम् आहारयेद् एनं** हस्तेनाश्वत्थपर्णव्यवहितेन तयोः प्रदेशान्तरं सप्तपदसंहितम् इत्यादि**स्मृत्यन्तरान्** निपुणतो ऽन्वेष्यम् । पारंपर्यप्रसिद्धेश् चैतद् एवोच्यते । **अप्सु** जले **निमज्जयेत्** प्राड्विवाक इत्यर्थः । **पुत्रदारशिरांसि स्पर्शयेत्** । पुत्रस्य दारस्य शिरः स्पर्शयन् हस्तेन, शपथादिकाराद् वाचापि,[^१०७] शपथस्यैवंरूपत्वाद् इत्य् उक्तम् । **पृथग्** एकैकस्य ॥ ८.११४ ॥
+‘*He*,’ *i.e*., the Judge—‘shall make him dive under water.’
+
+‘*He shall make him touch the heads of his son and wife,
+secerally*,’—the man shall touch the head with his hand; and as this
+occurs in the context dealing with ‘oaths,’ the man should be made to
+utter the swearing words also.
+
+‘*Severally*’—separately, one by one.—(114)
 
 
-[^१०७]:
-     M G DK (1:438): vācā ca

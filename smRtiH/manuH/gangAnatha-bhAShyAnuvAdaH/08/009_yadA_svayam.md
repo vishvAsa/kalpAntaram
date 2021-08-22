@@ -2,13 +2,39 @@
 title = "009 यदा स्वयम्"
 
 +++
+The Brāhmaṇa who is thus appointed should be ‘conversant with the
+eighteen points, well versed in the Science of Reasoning, fully learned
+in the Veda and the Smṛtis,—being called the Investigating Judge.’
 
-- अष्टादशपदाभिज्ञं प्राड्विवाकेति संज्ञितम् ।
+If, either on account of being absorbed in some other more important
+business, or on account of his inherent incapacity, the king does not
+investigate the suits personally, then he should appoint a ‘*learned*’
+*Brāhmaṇa*. The ‘learning’ here meant is that pertaining to legal
+proceedings, and the man’s appointment itself is indicative of his
+possession of that learning; because no man deserves to be appointed to
+do a work which he does not know. A knowledge of the Science of Morality
+also comes useful, for the purpose of precluding the possibility of
+wrong decisions being taken under the influence of love or hate. If the
+man is conversant with Morality, even though love or hate may be present
+in his mind, yet, through fear of the said Science of Morality, he does
+not allow himself to be misled_(;) and it is thus that a knowledge of
+the Science of Morality comes in useful. As for the knowledge of legal
+procedure, its presence is already implied; when the man is appointed to
+do the work of deciding legal cases, it follows that he is possessed of
+that knowledge without which such cases cannot he decided. The
+injunction regarding the impropriety of the man knowingly perverting his
+judgment is contained in other texts; and with a view to avoiding this
+our author is going later on to lay down other Measures: *e.g*., ‘Three
+persons learned in the Veda, and the learned man appointed by the king,
+etc.’ (*verse* 11). As for the knowledge of Sciences other than these,
+if it were made a necessary qualification for the man appointed to
+investigate legal cases,—such knowledge could only be regarded as meant
+for some unseen transcendental purpose.
 
-- आन्वीक्षिक्यां च कुशलं श्रुतिस्मृतिपरायणम् ॥ 
+‘*Niyojyo vidvān syāt*’ would be the right reading (in place of *tadā
+niyuñjyād vidvāṃsam*’); because ‘*niyuñjyāt*’ is grammatically wrong,
+the right form being ‘*niyuñjīta*’; as Kātyāyana’s Vārtika on Pāṇini
+1.3.66 ordains the *Ātmanepada* ending for the root ‘*Yuj*’ preceded by
+prepositions ending in a vowel.—(9)
 
-कुतश्चिद् अतिपातिकार्यान्तरव्यासङ्गाद् अपाटवाद् वा यदि स्वयं न पश्येत् तदा विद्वान् ब्राह्मणो नियोज्यः । विद्वत्ता च या व्यवहारविषया सा तदधिकारत एवार्थगृहीता । न हि यो यन् न जानाति स तत्राधिकारम् अर्हति । धर्मशास्त्रपरिज्ञानं तु रागद्वेषदोषेण विपरीतार्थावधारणनिवृत्त्यर्थम् उपयुज्यते । धर्मज्ञस् तु सतोर् अपि रागद्वेषयोः शास्त्रभयेन न[^८८] विपर्येत्य् इत्य् उपयोगवद् धर्मशास्त्रपरिज्ञानम् । व्यवहारदर्शनं तु तदर्थगृहीतम् । येन विना न शक्यते व्यवहारनिर्णयः कर्तुम्, तद्विज्ञानं तदधिकाराक्षिप्तम् । यत् तु ज्ञात्वान्यथा क्रियते तन्निवृत्तिर् उपदेशान्तरविषया । वक्ष्यति चैवमर्थं यत्नान्तरम् अपि- "वेदविदस् त्रयः राज्ञश् च प्रकृतो विद्वान्" (म्ध् ८.११) इति । शास्त्रान्तरपरिज्ञानं तु व्यवहारे ऽधिक्रियमाणस्यादृष्टाय स्यात् । "नियोज्यो विद्वान् स्यात्" इति पठितव्यम् । **नियुञ्ज्याद्** इति, नियुञ्जीत "स्वराद्यन्तोपसृष्टात्" (पत् इ- २९०, ओन् पाण् १.३.६४) इति हि कातीया आत्मनेपदं स्मरन्ति ॥ ८.९ ॥
 
-
-[^८८]:
-     M G omit: na

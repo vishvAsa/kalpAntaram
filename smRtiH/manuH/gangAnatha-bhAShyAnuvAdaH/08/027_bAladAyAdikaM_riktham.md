@@ -2,7 +2,31 @@
 title = "027 बालदायादिकं रिक्थम्"
 
 +++
+An objection is raised—“The subject that was introduced was the
+investigation of suits; where then was the occasion for the protecting
+of the property of minors?”
 
-<u>ननु</u> च व्यवहारदर्शनं वक्तव्यतया प्रस्तुतम् । तत्र कः प्रसङ्गो बालधनरक्षायाः । 
+*Answer*.—This subject has been introduced here, just with a view to
+show that the property of minors does not come within the scope of legal
+proceedings; it has to be protected by the king, like his own property;
+otherwise the minor’s uncles and other relatives would quarrel among
+themselves, each asserting—‘I shall take care of it.’ There is no
+connection of this subject with the present context. It has had to be
+introduced here,—and not along with the exclusive ‘Duties of the
+King,’—because in regard to this people may have the notion that even
+such property may form the subject of legal proceedings.
 
-<u>उच्यते</u> । विवादपदताम् एवैतद् विषयान् निवर्तयितुम् इदम् आरभ्यते[^११२] । बालधनं राज्ञा स्वधनवत् परिपालनीयम् । अन्यथा पितृव्यादिबान्धवा मयेदं रक्षणीयं मयेदम् इति विवदेरन् । न चान्यः प्रसङ्गो ऽस्ति । आशङ्क्यमानव्यवहारवच् च । न केवलेषु राजधर्मेषूपदिश्यते अतो ऽस्मिन्न् एवावसरे वक्तव्यम्[^११३] । बालो दायादो ऽस्य तद् इदं **बालदायादिकम्** । दायादः स्वाम्य् अत्रोच्यते । बालस्वामिकं धनं **तावद्** **राजा** रक्षेद् **यावद्** असौ **समावृत्तः** गुरुकुलात् प्रत्यागतः **यावद् वातीतशैशवः** अतिक्रान्तबालभावः । अयं च विकल्पः । यो गृहशैशवो भवति तदर्थम् अतीतशैशवम् उच्यते । यस् तु व्रतकः स निवृत्ते ऽपि शैशवे[^११४] आ समावर्तनात् प्रतिपाल्यधनः स्यात् । अथ वा द्विजातीनां समावर्तनम् अवधिः, अन्येषां शैशवात्ययः ॥ ८.२७ ॥
+‘*Bāladāyādi*’—that of which a minor is the ‘*dāyāda*,’ *i.e., owner*,
+in which sense the term is used here. The property owned by minors shall
+be taken care of by the king, till such time as he may return from the
+teacher’s house, or till he may have passed his minority. This second
+alternative of passing the minority is meant for those who pass their
+childhood in their own home (and are not handed over to an *Ācārya*). In
+the case of one however who has entered the teacher’s house as a
+Religious Student, even though he may have passed his minority, his
+property shall have to be looked after until he returns from the
+teacher’s house. Or, the meaning may he that in the case of twice-born
+persons, the ‘return’ shall be the limit, while in that of others, it
+shall be the ‘passing of minority.’—(27)
+
+

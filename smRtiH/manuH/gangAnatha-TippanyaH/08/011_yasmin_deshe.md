@@ -2,9 +2,13 @@
 title = "011 यस्मिन् देशे"
 
 +++
+This verse is quoted in *Smṛtitāttva* (II, p. 199), to the effect that
+the court becomes a true ‘Court,’ only by reason of the presence of the
+duly qualified Brāhmaṇa-judge appointed by the king;—in *Smṛticandrikā*
+(Vyavahāra, p. 46), which explains ‘*prakṛtaḥ*’ as the *appointed*
+judge;—in *Kṛtyakalpataru* (8b);—in *Vīramitrodaya* (Vyavahāra, 36 and
+11b), which says that no stress is meant to be laid upon the number
+*three*, as the number may be larger, up to seven; what is meant is that
+they shall not be less than three;—and in *Rājanītiratnākara* (p. 17a).
 
-उक्तं सभां प्रविश्य व्यवहारान् पश्येद् इति । सभाशब्दश् च लोके गृहप्रासादविशेषे वर्तते "मयेन निर्मिता दिव्या सभा हेमपरिष्कृता" इति । क्वचित् पुरुषविशेषसंघटिता सभेति तन्निवृत्त्यर्थं सभाया लक्षणम् आह । यत्र त्रयो ब्राह्मणा वेदविदः संनिधीयन्ते, राज्ञश् च संबन्धी प्रकृतो ऽधिकृतो विद्वान् इति । अथ वा प्रकृतो ऽनन्तरश्लोके संनिहितः । सेह सभाभिप्रेता । ब्रह्मग्रहणं स्तुत्यर्थम् । यथा ब्रह्मणः सभा निरवद्यैवम् इयम्[^९०] अपीति ॥ ८.११ ॥
 
-
-[^९०]:
-     M G: niravadyaiveyam

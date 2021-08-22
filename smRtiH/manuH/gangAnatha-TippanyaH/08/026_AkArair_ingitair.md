@@ -2,13 +2,13 @@
 title = "026 आकारैर् इङ्गितैर्"
 
 +++
+This verse is quoted in *Aparārka* (p. 260);—in *Parāśaramādhava*
+(Vyavahāra, p. 43);—in *Smṛticandrikā* (Vyavahāra, p. 112);—in
+*Kṛtyakalpataru* (22a), which has the following notes:—‘*Iṅgita*’ stands
+for perspiration, thrilling of the hair,—‘*vikāra*’ of the eye, the look
+of love or anger,—‘*ceṣṭita*’, throwing about of the hand and so
+forth,—‘*gatyā*’ halting gait and so forth;—‘*ceṣṭita*’, inconsistent
+and contradictory statements,—‘*vaktra vikāra*’, drying of the mouth
+&c;—and in *Vīramitrodaya* (Vyavahāra, p. 30b).
 
-तथा हि, लोके[^११०] दृष्टशक्तितानेन[^१११] श्लोकेन स्वरादीनां पूर्वोक्तार्थाधिगमेन दर्शयतीत्य् अपौनरुक्त्यम् । तत्राक्रियन्ते विक्रयन्त इत्य् **आकारा** **इङ्गिता**दयः । **इङ्गितं** व्याख्यातम् । व्यक्तिभेदाद् बहुवचनम् । **गतिः** पूर्वश्लोकाद् अत्राधिका । सा प्रस्खलन्ती स्वभावतो ऽन्यथाभूता । **भाषीतं** पौर्वापर्यविरुद्धं वचनम् । **वक्त्रविकार** आस्यविशेषादिः । शेषं पूर्वश्लोक एव व्याख्यातम् । एतैर् विकृतैर् **अन्तर्गतं** चित्तं लौकिकैर् अन्यत्रापि गृह्यत इति समासार्थः ॥ ८.२६ ॥
 
-
-[^१११]:
-     M G: dṛṣṭaśaktito 'nena
-
-
-[^११०]:
-     J places tathā hi loke before verse 26 as an introduction to it.

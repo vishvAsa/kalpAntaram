@@ -2,9 +2,18 @@
 title = "024 अर्थानर्थाव् उभौ"
 
 +++
+‘*Arthānarthāvubhau buddhvā dharmādharmau ca kevalau*’—Medhātithi has
+given three explanations of this (See *Translation*):—‘Fully realizing
+the wordly evils and advantages, but paying due heed to Dharma and
+Adharma as alone conducive to spiritual results’
+(Kullūka);—‘discriminating the righteous and the unrighteous, and taking
+up the righteous first’ (Nārāyaṇa and Nandana);—‘knowing what will
+please and what displease the people and understanding what is just and
+what is unjust’ (Govindarāja).
 
-**धर्माधर्मव्** एव **केवलाव् अर्थानर्थौ-** न गोहिरण्यादिलाभो ऽर्थस् तद्विपर्ययो वानर्थः । किं तर्हि, धर्म एवार्थो ऽनर्थश् चाधर्म इति **बुद्ध्वा** हृदि निश्चित्य **कार्याणि पश्येत्** । अथ वार्थानर्थाव् अपि बोद्धव्यौ धर्माधर्माव् अपि । धर्मस्य सारता बोद्धव्यार्थस्य फल्गुता । अथ वा यत्र महान् अनर्थः स्वल्पश् चाधर्मस् तत्रानर्थं परिहरेत् । शक्यो हि महतार्थेनेषद् अधर्मो दानप्रायश्चित्तादिना निराकर्तुम् । संनिपाते च व्यवहारिणां बहूनां वर्णक्रम आश्रयितव्यः । एष च दर्शने क्रमो वर्णानां यदा सर्वेषां[^१०६] तुल्यपीडा भवति । यदा त्व् अवरवर्णस्याप्य् आत्ययिकं कार्यं महद् वा तदा "यस्य चात्ययिका पीडा" इत्य् अनेन न्यायेन तद् एव प्रथमं पश्येत् न क्रमम् आद्रियेत । राज्यस्थित्यर्थो हि व्यवहारनिर्णय इत्य् उक्तम् अतो न यथाश्रुतम् आश्रयणीयम् ॥ ८.२४ ॥
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 46), as laying
+down the order in which the king is to take up the cases, when several
+come up at the same time;—in *Smṛticandrikā* (Vyavahāra, p. 80);—in
+*Kṛtyakalpataru*, (16b);—and in *Vīramitrodaya* (Vyavahāra, p. 19a).
 
 
-[^१०६]:
-     M G DK (1: 110): yadārthe

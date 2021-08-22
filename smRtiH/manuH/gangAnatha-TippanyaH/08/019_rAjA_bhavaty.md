@@ -2,5 +2,12 @@
 title = "019 राजा भवत्य्"
 
 +++
+This verse is quoted in *Aparārka* (p. 604);—in *Parāśaramādhava*
+(Vyavahāra, p. 26), to the effect that the king becomes absolved from
+all sin if he shows complete impartiality;—in *Smṛtitattva* (II, p. 200)
+which adds the following notes:—‘*Kartāram*’ means the ‘speaker’, the
+perjuror,—the term ‘*rājā*’ here stands for the Judge, —‘*anenāḥ*’ means
+‘free from sin’;—in *Smṛticandrikā* (Vyavahāra, p. 48);—and in
+*Vīramitrodaya* (Vyavahāra, 5a).
 
-एष एवार्थो विपर्ययेणोच्यते । यत्र दोषवान् दोषं गोपयितुं न लभते प्रकटीक्रियते तदीयो दोषः, तत्र सर्वं साधु संपद्यत इति । "यत्र धर्मः" (म्ध् ८.१४) इत्य् अत आरभ्य मिथ्यादर्शनोपेक्षणप्रतिषेधार्थं निन्दाप्रशंसाभ्यां शुभाशुभफलदर्शनार्था अर्थवादाः ॥ ८.१९ ॥
+

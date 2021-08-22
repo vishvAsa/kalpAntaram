@@ -2,19 +2,23 @@
 title = "155 अदर्शयित्वा तत्रैव"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 73), which adds the
+following notes:—‘*adarśayitvā hiraṇyam*’, not bringing up the gold for
+payment,—not even a single pice,—and hence not paying even the interest,
+he should add the accrued interest to the original principal, and making
+this total the new principal, he should enter it in the new bond that he
+should write. Though the entire interest is actually due to be paid at
+the time, yet, if he is unable to pay the whole, he may pay just that
+much of it which he may be able to pay;—this is what is meant by the
+clause ‘*yāvatī sambhavet etc*.’
 
-**अदर्शयित्वा हिरण्यम्**, अदत्वा निर्धनत्वाद् वृद्धिहिरण्यम्,[^३५९] **तत्रैव** पुनः करणं **परिवर्तयेत्** । साक्षिसमक्षम् एवं ब्रूयात् "एतावन् मुलम् अस्मै धारयामि, एतावती च वृद्धिः" इति । पत्रे चारोपयेत्[^३६०] । यावती संभवेद् वृद्धिर्[^३६१] इति तावद् व्याचक्षते । पुनः करणे वृद्धिसहितमूलीभूते लघीयसी वृद्धिः कर्तव्या, यावत्या वृद्ध्या नातिपीड्यते । या प्राग् आसीत् ततो न्यूनेत्य् अर्थः । 
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 194), which adds the
+following explanation:—‘*Hiraṇyam adarśayitvā*’,—not having paid the
+interest that has been earned,—he should have it included in that same
+bond;—in *Kṛtyakalpataru* (80a), which explains ‘*hiraṇyam adarśayitvā*’
+as ‘not paying any part of the accrued interest to the Creditor,’ the
+meaning is that he should pay as much of the accrued interest as hew
+can, and then make out a fresh document;—and in *Vīramitrodaya*
+(Vyavahāra, 104a).
 
 
-[^३६१]:
-     M G: yāvat saṃvatsarā vṛddhir; J: yāvat saṃvatsarāt vṛddhir
-
-
-[^३६०]:
-     M G: yatraivāropayet; J: tatraivāropayet
-
-
-[^३५९]:
-     J: ahiraṇyam (but Jha's translation presupposes vṛddhi- here).
-
-यज्वासहायनारदानां[^३६२] तु मते काकिणीमात्रम् अपि शक्तः करणपरिवृत्तिकाले दापयितव्यः । येन साक्षिणः न श्रवणमात्रे[^३६३] साक्षित्वम्, ददाति[^३६४] तत्समक्षम् अधमर्णो ऽर्थसंबन्धो ऽपि प्रत्यक्षीभवति[^३६५] । यतः श्रवणात् स्रवणे[^३६६] च कृता भविष्यन्ति, तातश् चित्ते[^३६७] तिष्ठति धनं[^३६८] दशवर्षोपेक्षितम् इत्यादि विनश्वरं भविष्यति ॥ ८.१५५ ॥

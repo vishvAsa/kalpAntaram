@@ -2,21 +2,15 @@
 title = "059 यो यावन्"
 
 +++
+Verses 59-61 are not omitted by Medhātithi, as wrongly asserted by
+Hopkins.
 
-येन पञ्चसहस्राणि दत्तानीति प्रमाणान्तरान् निश्चितम् — लेख्यादौ तु करणे दश[^२३६] समारोपितानि — प्रमाणान्तरं संवत्सराख्यम् इति निश्चित्येदम् अपश्यत् केवलेन लेख्यप्रमाणेन सर्वत्र प्रवर्तमानः — छलव्यवहारीति[^२३७] द्विगुणं दण्ड्यः[^२३८] । यस्य तु विस्मृत्याप्य् अन्यथाप्रवृत्तिर् आशङ्क्यते तस्य दशकं शतम् । एवम् इतरस्यापि । न तु सर्वापह्नवे दशभाग एकदेशापह्नवे द्विगुणम् इति । किं तु शाठ्याद् अन्यथाप्रतिपद्यमानौ द्विगुणं दण्ड्यौ । विस्मृतिदारिद्र्याभ्यां दण्डम् उत्तरम् । **यो यावन्तम् अर्थम् अपह्नुवीत** अपजानीते ऽधर्मर्णः — **मिथ्या यावति**[^२३९] विपरीतं धनं **वदेद्** उत्तर्मर्णः — तावत् ताव् उत्तमर्णाधमर्णाव् **अधर्मज्ञौ** । **द्विगुणं दमम्** । **तद्** इत्य् अपह्नूयमानधनपरामर्शः । यावद् अपह्नुतं ततो द्विगुणं दमो दण्डः । **अधर्मज्ञ**ग्रहणाच् च लिङ्गान् निश्चितछलविषयो ऽयं दण्ड इत्य् उक्तम् ॥ ८.५९ ॥
-
-
-[^२३९]:
-     M G: yācati
-
-
-[^२३८]:
-     M G: daṇḍyam
-
-
-[^२३७]:
-     M G: pravartamānachalavyavahārīti
+This verse is quoted in *Vivādaratnākara* (p. 77), which adds the
+following explanation:—When the defendant, through dishonest motives,
+denies the claim,—or when the plaintiff prefers a false claim,—both
+those are dishonest dealers, and they should be punished with a fine,
+which is the double of the amount of the claim;—in *Vivādacintāmaṇi* (p.
+34), which says that this rule refers to cases where the culprit is very
+wealthy;—and in *Kṛtyakalpataru* (80b).
 
 
-[^२३६]:
-     M G: deśa

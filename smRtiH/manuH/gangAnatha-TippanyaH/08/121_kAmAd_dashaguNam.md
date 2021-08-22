@@ -2,21 +2,16 @@
 title = "121 कामाद् दशगुणम्"
 
 +++
-
-मन्मथः **कामः** । यत्र स्त्रियो विवदन्ते तत्संबन्ध्यन्यतरां[^१३८] कामयमानो ऽनृतं वदति, अर्धतृतीयानि सहस्राणि दण्ड्यते । **क्रोधात्** **त्रिगुणं परं** प्रथमसाहसस्य प्रकृतत्वात् ततः परो मध्यः[^१३९] । सर्वान्ते लोकविज्ञानाद् इति वा उत्तम एव परः । द्वेषः **क्रोधः** । **अज्ञानाद्** इति । यो विपरीतं प्रथमं ब्रूयाद् भ्रान्त्या, न तु[^१४०] प्रश्नकाले । **द्वे शते** दमः । प्रदर्शनम् एव विपरीतं नाभिधानम् । **बालिश्यं**[^१४१] बालभावः अप्राप्तव्यवहारता । ईषदपक्रान्तबालभावस्याप्राप्तबुद्धिस्थैर्यस्यायं बालिश्यदण्डो ऽन्यस्य त्व् असाक्षितैव ॥ ८.१२१ ॥
-
-
-[^१४१]:
-     M G add: vā
-
-
-[^१४०]:
-     M G: nanu; DK omits: na tu
-
-
-[^१३९]:
-     M G: vadhyaḥ
+This verse is quoted in *Aparārka* (p. 680);—in *Mitākṣarā* (on 2.81),
+which adds the following notes:—‘*Ajñāna*’ is imperfect knowledge,—and
+‘*bāliśya*’, want of experience and knowledge;—in *Parāśaramādhava*
+(Vyavahāra p. 82);—in *Vivādacintāmaṇi* (p. 191), which says—‘If the
+witness lies through sexual passion for some woman, he should be fined
+2,500 *paṇas*,—if through anger, 2,000 *paṇas*,—if through ignorance,
+200 *paṇas*’;—and in *Kṛtyakalpataru* (37b), which says ‘*triguṇam
+param*’ means ‘three times the *middle* amercement’, *i.e*., 1,500
+*paṇas*,—*ajñānāt*’, from a wrong idea formed at the time of the
+transaction in question,—‘*bāliśya*’ means ‘majority just attained’, a
+*minor* not being admissible as a witness.
 
 
-[^१३८]:
-     M G: -bandhyānyataraṃ

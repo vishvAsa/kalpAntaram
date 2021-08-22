@@ -2,27 +2,45 @@
 title = "107 त्रिपक्षाद् अब्रुवन्"
 
 +++
+Fifteen days and nights make a ‘*fortnight*’; the aggregate of three
+fortnights is called ‘*tripakṣam*’; according to Pāṇini 2.4.17, the
+compound should have a feminine ending, but this is precluded by the
+exception that follows, regarding ‘*pātra*’ and other words (which
+include the word ‘*pakṣa*’ also).
 
-पञ्चदशाहोरात्राणि **पक्षः** । त्रयाणां पक्षाणां समाहारः **त्रिपक्षम्** । "अकारान्तोत्तरपदो द्विगुः" (पत् इ- ४८०) इति स्त्रीत्वे प्राप्ते पात्रादिदर्शनात्[^७८] प्रतिषेधः । यद्य् एवं त्रिपक्षीति न प्राप्नोति । छान्दसस् तत्र लिङ्गव्यत्ययः । ल्यब्लोपे कर्मणि पञ्चमी । त्रीन् पक्षान् यावद् अतीय यः साक्ष्यं न ददाति । **अगदो** ऽपीडितशरीरस् **तद् ऋणं**[^७९]** प्राप्नुयाद्** इत्य् अर्थः । **दशबन्धं** **च** । दशमं भागं दण्डनीयस् तस्माद् ऋणात् । **ऋणादिषु** इत्यादिग्रहणेन सर्वव्यवहारोपक्रमः । द्वितीयम् ऋणग्रहणम् उपलक्षणार्थम् । यस्मिन् व्यवहारे साक्ष्यम् इयन्तं कालं न[^८०] भवति पराजीयमानस्य[^८१] साक्षिणो बोढार[^८२] इत्य् उक्तं भवति । **गदो** रोगस् तत्समानप्रत्युत्थानहेतूपलक्षणार्थम् । तेनात्र कुटुम्बोपद्रवधनिकोपरोधाद्य् अपि परीक्ष्यम् । **बन्ध**शब्दः संख्यादिपरो दण्डविषये दशमाषवचनः । **नर**ग्रहणं **सर्वतो**ग्रहणं च श्लोकपूरणार्थम् । 
+“In that case the feminine form ‘*tripakṣī*’ should be impossible.”
+
+The wrong gender in that case is to be regarded as a ‘Vedic anomaly.’
+
+The Ablative ending in ‘*tripakṣāt*’ has the force of the participial
+affix ‘*lyap*.’
+
+The meaning of the verse thus is that—‘He who after *having waited for*
+three fortnights, dees not give evidence, without being ill, should hear
+the burden of that debt’;—‘as also the tenth part out of it, as a
+penalty.’
+
+‘*Debts and other mailers*’;—the addition of the phrase ‘and other
+matters’ indicates that what is said here applies to all kinds of suits;
+and the repetition of the term ‘debt’ is only by way of illustration.
+The meaning is that—‘in a suit where for the said time no evidence is
+given, the burden of the defeated party is to be borne by the
+witnesses.’
+
+‘*Gada*,’ ‘*illness*,’ is meant to indicate other kinds of disability
+also; so that due cognizance should be taken of such conditions also as
+family troubles, fear of creditor and so forth.
+
+The term ‘*bandha*’ following a numeral word, denotes *penalty*, and
+stands for the ‘tenth part.’
+
+The terms ‘*naraḥ*’ and ‘*sarvataḥ*’ are added only for filling up the
+metre.
+
+Others explain that the assertion ‘*should hear that debt*’ means that
+‘he incurs the sin of stealing the amount of the debt.’
+
+The meaning is that the man shall pay the tenth part of the fine that
+would be payable to the king by the defeated party.—(107)
 
 
-[^८२]:
-     M G DK: bāḍham; I do not understand the meaning of boḍhāra accepted by Jha.
-
-
-[^८१]:
-     M G DK add: bādhaḥ sa
-
-
-[^८०]:
-     M G DK omit: na
-
-
-[^७९]:
-     M G: tatsadṛśaṃ
-
-
-[^७८]:
-     See Pat I: 480.12: pātrādibhyaḥ pratiṣedho vaktavyaḥ. 
-
-<u>अन्ये त्व्</u> आहुस् **तद् ऋणं प्राप्नुयाद्** इत्य् अस्यायम् अर्थः । ऋणापहरणलक्षणेन[^८३] पापेन युज्येत । राज्ञे वा जीयमानस्य यो दण्डस् ततो दशमम् अंशं दद्याद् इति दण्डितः पुनः दण्ड्यते[^८४] ॥ ८.१०७ ॥

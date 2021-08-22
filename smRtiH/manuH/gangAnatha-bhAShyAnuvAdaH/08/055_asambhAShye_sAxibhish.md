@@ -2,13 +2,20 @@
 title = "055 असम्भाष्ये साक्षिभिश्"
 
 +++
+‘*In a place not fit for conversation*’—*i.e*., hidden from
+others,—‘*who converses with the witnesses, secretly*’—*i.e*., alone,
+for fear of being overheard.
 
-असंभाषणार्हे **देशे** उपह्वरादौ **साक्षिभिः** सह **संभाषत** एकाकी तद्भेदाशङ्कया । **निरुच्यमानं** पृच्छ्यमानं निरूप्यमाणं वा **प्रश्नं** विचारवस्तु **नेच्छति** किंचिद् राजकार्यम् उद्दिश्य राजपुत्रामात्याद्यनुग्रहेण[^२१३] च काललाभं करोति । **यश् चापि निष्पतेत्** । वक्ष्यमाणम् एव क्रियापदं "स हीयते" (म्ध् ८.५६) इति । यद् एवोक्तम् "पुनर् यस् त्व् अपधावति" (म्ध् ८.५४) इति स एवार्थः "यश् चापि निष्पतेत्" इति । पुनर्वचने प्रयोजकम् उक्तम् । अत्यन्तपौनरुक्त्यं[^२१४] मा भूद् इति कश्चिद् विशेष आश्रयितव्यः ॥ ८.५५ ॥
+‘*Who does not like the question*,’— the matter under enquiry—‘*being
+investigated*’; and on the pretext of some work for the King himself, or
+by the favour of the Prince or the Minister, etc., manages to gain
+time;—and ‘*who falls back*,’—‘*such* a *person fails*’ is the verbal
+phrase to be construed here.
+
+The ‘*falling back*’ mentioned here is the same as the ‘*refracting*’
+mentioned before (in verse 51). the purpose of such repetition of the
+same idea has already been explained. We have to adopt some such
+distinction in order to guard the text against the charge of containing
+absolutely needless repetitions.—(55)
 
 
-[^२१४]:
-     M G: amatyantāpaunaruktyaṃ
-
-
-[^२१३]:
-     M G DK (1: 194): rājaputramānyā-

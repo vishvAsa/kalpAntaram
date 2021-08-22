@@ -2,13 +2,26 @@
 title = "140 वसिष्ठविहितां वृद्धिम्"
 
 +++
+This rule, here attributed to Vasiṣṭha, actually occurs in
+Vasiṣṭha-Dharmaśāstra, 2.51.
 
-**अशीतीति** विधेयनिर्देशः । **वसिष्ठविहिताम्** इत्यादिर् अर्थवादः । वसिष्ठो भववान् त्रिकालज्ञो लोभादिदोषरहित इति[^१८१] तां **वृद्धिं** गृहीतवान्, अत एषा प्रशस्ता । धनं तया वृद्धिम् उपैति, न च लोभदोषो ऽस्ति । **सृजेत्** प्रयुञ्जीत । यदा धनं तदाधर्मणस्य तां वृद्धिं धनप्रयोगकाले निर्दिशेत् । सर्वद्रव्येषु वस्त्रधान्यहिरण्यादिष्व् एतद् एव वृद्धिपरिमाणम् । संख्येयपरिमेयादिषु[^१८२] "रसस्याष्टगुणा वृद्धिः" (च्ड़्। य्ध् २.४०) इत्यादिषु द्वैगुण्यापवाद इति वक्ष्यामः ॥ ८.१४० ॥
+“According to Kullūka, (on 142), Nārāyaṇa, Rāghavānanda and Nandana,
+this rule refers to a debt secured by a pledge, find the correctness of
+this view is proved by the parallel passage of Yājñavalkya
+(2.37).”—Buhler.
+
+This verse is quoted in *Vivādaratnākara*, p. 7, which explains
+‘*māsāt*’ as ‘after the lapse of one month,’ and adds that this refers
+to debt that is secured by a pledge that can be enjoyed (by the
+creditor).
+
+*Smṛtitattva* (p. 349) quotes the second half and adds that ‘of 100
+*kārṣāpaṇas*’, the ‘eightieth part’ would be 20 *paṇas*.
+
+It is quoted in *Prāyaścittaviveka* (p. 420), which explains
+‘*aśītibhāgam*’ as 20 *paṇas*;—in *Smṛtisāroddhāra* (p. 325);—and in
+*Vīramitrodaya* (Vyavahāra, 91b), which says that this refers to cases
+of mortgage, and the meaning is that when 100 rupees have been advanced,
+the creditor should charge 1¼ rupee after the lapse of one month.
 
 
-[^१८२]:
-     M G J: -parameyādiṣu (I follow DK 5: 1183)
-
-
-[^१८१]:
-     DK (5: 1183) omits: iti

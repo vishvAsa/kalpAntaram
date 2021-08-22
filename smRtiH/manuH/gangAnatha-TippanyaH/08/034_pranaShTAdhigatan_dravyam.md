@@ -2,17 +2,11 @@
 title = "034 प्रनष्टाधिगतन् द्रव्यम्"
 
 +++
-
-प्रनष्टम् अधिगतं **प्रनष्टाधिगतं** पूर्वं प्रनष्टं पश्चाद् अधिगतम् । **अधिष्ठितं** **युक्तैस्** तत्परैर् आरक्षपुरुषैस् **तिष्ठेत्** । तथास्थितम् अपि यदि केचन **चौरा**[^१३३] **गृह्णीयुस्** **तान् राजा इभेन** हस्तिना **घातयेत्** । हस्तिग्रहणम्[^१३४] अदृष्टार्थम्[^१३५] ॥ ८.३४ ॥
-
-
-[^१३५]:
-     M G: dṛṣṭārtham
-
-
-[^१३४]:
-     M G add: tarhi
+This verse is quoted in *Vivādaratnākara* (p. 347), which adds the
+following notes:—‘*Praṇaṣṭādhigatam*’, ‘was first lost and then
+recovered’;—‘*yuktaiḥ*’, ‘carefully devoted to guarding the
+property—‘*ibhena*’, ‘by means of an elephant’;—and in *Vivādacintāmaṇi*
+(p. 149). which notes that the ‘guarding’ is to be done by the king’s
+officers, and explains ‘*ibhena*’ as ‘by an elephant’.
 
 
-[^१३३]:
-     M G DK (1: 1955): corā

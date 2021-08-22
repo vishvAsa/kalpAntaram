@@ -2,13 +2,9 @@
 title = "191 यो निक्षेपम्"
 
 +++
-
-निक्षिप्तम् अपह्नुवानस्य अनिक्षिप्तं[^६०८] याचमानस्य च[^६०९] दण्डो ऽयम् । यावति धने मिथ्या प्रवर्तते तावद् दण्ड्यते ॥ ८.१९१ ॥
-
-
-[^६०९]:
-     M G DK (1: 743) omit: ca
+This verse prescribes the punishment for one who denies what has been
+deposited with him, and also for him who demands what was never
+deposited. The man is to be fined that amount which would be the value
+of the article in regard to which the fraud is committed.—(191)
 
 
-[^६०८]:
-     M G: nikṣipta-

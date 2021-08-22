@@ -2,17 +2,30 @@
 title = "162 निरादिष्टधनश् चेत्"
 
 +++
+If the surety is one who is ‘*Nirādiṣṭadhanaḥ*,’ a person to whom money
+has been handed over by the debtor, with the instruction—‘In the event
+of my being unable to pay, you will please clear oil the debt with
+this,’—and hence ‘*alandhanaḥ*,’ having ‘*enough money*’;—*i.e*., who
+had made over to him money sufficient to pay off the whole amount due to
+the creditor-then he should be made to pay. But if the amount made ever
+to him was small, while the amount of the debt is large, then he should
+not be made to pay.
 
-**निरादिष्टं** निसृष्टं स्वधनाद् अर्पितम्- "भव लग्नक इदं ते धनं मत्तस् त्वया संशोधनीयं यद्य् अहं न दद्याम्" । **अलंधनः** पर्याप्तधनः । यावद् धनम् उत्तमर्णाय दातव्यं तावत् परिपूर्णं प्रसृष्टम् । स्वल्पे तु निसृष्टे बहुनि संशोध्ये न दापयितव्यः । पूर्वस्य प्रश्नस्योत्तरम् इदम् । यद्य् अपि न[^४०५] दानप्रतिभूर् अद्य निरादिष्टस् तत् तत्पुत्रो दाप्यते स्वधनाद् एव । तद्वद् यो[^४०६] निरादिष्टपुत्र इति द्रष्टव्यम्, तस्यैव प्रकृतत्वात्, साक्षात् प्रतिभुवस् तु प्रतिभूत्वाद् एव प्राप्तिर् इति चेन् मैवम् । निरादेशनेन[^४०७] इति स्थितिर् एषा शास्त्रमर्यादा । विचाराद् एवावलंबन इति सिद्धे यन् निरादिष्टो ऽलंबन इति चैवम् अभिधानं तत्पद्यग्रन्थानुरोधेन ॥ ८.१६२ ॥
+This verse supplies the answer to the question in the preceding verse.
+
+Though the money had been made over to the surety, yet it is the son who
+is to be made to pay out as of his own property (the surety having
+died). Hence the words should be construed to mean ‘the son of the
+surety to whom money had been made over’; as it is the *son* that forms
+the subject-matter of the context; as for the surety himself, his
+liability would follow from the mere fact of his being a ‘surety.’
+
+‘*Such is the settled rule*,’—ordinance deduced from the scriptures.
+
+What is intended having been already expressed by the term
+‘*alandhanaḥ*,’ ‘who had *enough money*,’— the addition of the term
+‘*nirādiṣṭadhanaḥ*,’ ‘*to whom money had been made over*,’ is due to the
+fact of the treatise being a metrical one (which admits of superfluous
+words and expressions).—(162)
 
 
-[^४०७]:
-     J omits: cen maivam | nirādeśanena
-
-
-[^४०६]:
-     M G: tadyo; J: tad dadyān
-
-
-[^४०५]:
-     J omits: na

@@ -2,5 +2,7 @@
 title = "083 सत्येन पूयते"
 
 +++
+‘*Purified*’—becomes pure; *i.e*., purged of other sins also. The rest
+is clear.
 
-**पूयते** शुद्ध्यत्य् अन्यस्माद् अपि पापान् मुच्यत इति यावत् । शेषं गतार्थम् ॥ ८.८३ ॥
+

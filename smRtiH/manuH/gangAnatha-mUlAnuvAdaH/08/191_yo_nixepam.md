@@ -3,12 +3,4 @@ title = "191 यो निक्षेपम्"
 
 +++
 
-निक्षिप्तम् अपह्नुवानस्य अनिक्षिप्तं[^६०८] याचमानस्य च[^६०९] दण्डो ऽयम् । यावति धने मिथ्या प्रवर्तते तावद् दण्ड्यते ॥ ८.१९१ ॥
-
-
-[^६०९]:
-     M G DK (1: 743) omit: ca
-
-
-[^६०८]:
-     M G: nikṣipta-
+He who does not restore a deposit, and he who, without having made any deposit, asks for it,—both of these should be punished like thieves, or be made to pay a fine equal in value.—(191)

@@ -2,34 +2,17 @@
 title = "176 यः साधयन्तम्"
 
 +++
+‘*Will*’— wish; and ‘*by his own will*’ means ‘without filing his suit
+with the king,’ just as he pleases,—not necessarily by the four
+sanctioned methods of acquiring property;—if he is complained against,
+and summoned by the king’s officers,—and then if the debtor, on being
+questioned, should admit the debt, saying ‘I owe him such and such an
+amount,’ then the latter should he fined a quarter of that debt, and the
+total amount due he should be made to pay to the creditor ; *e.g*., if
+he owes a *hundred*, he should he fined *twenty-five*, and should pay to
+be creditor a *hundred*. We should not fall into the mistake that *a
+hundred* less *twenty-five* is to be paid to the king and the balance,
+*i.e*., twenty-fire to the creditor; as in this case the punishment
+would fall upon the creditor and not upon the debtor.—(176)
 
-**छन्द** इच्छा । तेन राजानम् अज्ञापयित्वा यदा प्रागुक्तैश् चतुर्भिर् उपायैः स्वेच्छया[^५४०] धनमार्गेण प्रवृत्तं तथाभूतं वा राजपुरुषैर्[^५४१] आह्वानयेत्, अहम् अनेनैतत्प्रदेशे रुध्ये, देहि धनम् इति[^५४२] । स च पृष्टो[^५४३] धारयामीति यत् प्रतिपद्यते, स राज्ञा चतुर्थं भागं दण्डापयितव्यः । यावत् तस्मै धारयति तस्य तत्र सर्वम् ऋणं दाप्यः[^५४४] । शतं चेद् धारयति पञ्चविंशतिर् दण्डनीयः । शतं तस्य दाप्यः । एवं पञ्चविंशतिः[^५४५] । न त्व् इयं भ्रान्तिः कर्तव्या- शते[^५४६] राज्ञः पञ्चविंशति शिष्टं धनिकस्य । धनिको हि तथा दण्डितः स्यान् नर्णिकः ॥ ८.१७६ ॥
-
-
-[^५४६]:
-     M G J: śataṃ
-
-
-[^५४५]:
-     J omits: evaṃ pañcaviṃśatiḥ
-
-
-[^५४४]:
-     M G J omit: dāpyaḥ
-
-
-[^५४३]:
-     M G: cāpṛṣṭo
-
-
-[^५४२]:
-     M G: āhvayanenārhatarapradeśo 'nurudhyedaṃ hi dhanam iti; J: āhvānenārhatarapradeśe 'nurudhyedaṃ hi dhanam iti | The reading is suspect here; I follow DK. 
-
-
-[^५४१]:
-     M G DK: rājaputrair
-
-
-[^५४०]:
-     M G add: na; DK (1: 718) add: ca
 

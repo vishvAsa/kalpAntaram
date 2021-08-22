@@ -2,12 +2,11 @@
 title = "132 जालान्तरगते भानौ"
 
 +++
+The ‘*Trasareṇu*’, Triad,’ consists of three diads, each ‘diad’
+consisting of two ‘*aṇus*’ or atoms.
 
-इमं श्लोकं केचिन् नाधीयते, त्रसरेणौ विप्रतिपत्त्यभावात्[^१६४] । गवाक्षकुचिकाविवरप्रविष्टे सूर्ये यो रेणुर् दृश्यते स त्रसरेणुः । **अन्तर**शब्दो विवरपर्यायः । **प्रथमं तत्प्रमाणानाम्** इति ॥ ८.१३२ ॥
-
-
-[^१६४]:
-     M G DK (1: 528): vipratipattyā tāvad
-
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 115);—in
+*Vivādaratnākara* (p. 665);—in *Smṛtitattva* (II, p. 580); in *Hemādri*
+(Vrata, p. 53);—and in *Nṛsiṃhaprasāda* (Dāna, p. 4a).
 
 

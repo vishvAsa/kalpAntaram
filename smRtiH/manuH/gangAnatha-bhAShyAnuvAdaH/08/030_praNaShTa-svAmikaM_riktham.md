@@ -2,45 +2,61 @@
 title = "030 प्रणष्ट-स्वामिकं रिक्थम्"
 
 +++
+When some one has lost something,—it having dropped on the ground while
+he was going along the road, or in the forest,—and the conservator of
+the forests, or some other official of the King, finds it and brings it
+to the King,—the King shall arrange for its safe keeping and have it
+kept exposed to view at the royal gate or on the public road, and made
+it known by heat of drum if any one has lost anything; or he shall have
+it kept in charge of keepers on the spot where it was found. For three
+years he shall thus keep it.
 
-यद् द्रव्यं स्वामिनो **नष्टं** प्रमादात् कथंचित् पथि गच्छतो भ्रष्टम्, अरण्ये कान्तारे वा स्थापयित्वारण्यपालैर् अन्यैर् वा राजपुरुषैर् लब्धं राजसकाशम् आनीतम्, तद् राज्ञा[^१२३] रक्षां कृत्वा राजद्वारे राजमार्गे वा प्रकाशं स्थापयितव्यम् । पटहघोषणेन वा कस्य किं हारितम् इति प्रकाशयितव्यम् । यतः प्रदेशाल् लब्धं तस्मिन्न् एव प्रदेशे रक्षिपुरुषाधिष्ठितं कर्तव्यम् । एवं **त्रीणि** वर्षाणि स्थापयितव्यम् । तत्र्**आर्वाक्** **त्रिभ्यो** वर्षेभ्यो यः कारणत आत्मीयं ज्ञापयेत् तस्योद्धृतवक्ष्यमाणषड्भागादिभागकं समर्पयितव्यम्, परतः स्वकोष्ठे प्रवेशनीयाम् इति ।
+Then, before the lapse of three years, if some one reports with proofs
+that the property belongs to him, then it should he made over to him,
+after deducting the sixth part of it, which is said (in verse MM) to be
+the King’s share; and after the lapse of three years the King shall take
+the property into his own treasury.
+
+That ‘*riktha*,’ ‘property,’ is said to be ‘*praṇaṣṭasvāmika*,’ of which
+the owner has ‘*disappeared*’—*i.e*., cannot he traced.
+
+‘*Tryabdam*’ denotes the *aggregate of three years*; the feminine affix
+being absent, just as it is in the compound ‘*trivarṣam*.’ The term
+‘*abda*’ is synonymous with ‘year.’
+
+‘*Shall keep*’—shall have it deposited.
+
+‘*Up to three years*,’—*i.e*., before the period of three years is
+over,—‘*the owner may receive it*,’—assert, his ownership.
+
+The term ‘*arvāk*,’ ‘*up to*’ denotes *limit*, and indicates priority of
+time or place.
+
+Others have explained the sentence ‘*the king shall lake it*’ to convey
+the permission to him to enjoy the property. What these people mean is
+that even after the lapse of throe years, it would, not be right for the
+King to ‘take’ or possess what belongs to another person; and hence what
+is meant is that after the lapse of three years, if the lightful owner
+does not turn up, the King shall enjoy the usufruct of the property.
+
+But how will these people explain the verse ‘Whatever an owner sees
+enjoyed by others during ten years, and though present, says nothing,
+that he shall not recover’ (8.117)? Further, if it he asserted that the
+‘taking away’ of another man’s property cannot be right,—then the
+*using* also of such property cannot be right. Specially as another
+man’s property in the shape of clothing and the like, becomes unfit by
+use. For these reasons it is only right that the mention of ‘taking
+away’ should he taken to mean actual *possession*; specially as
+*enjoyment*, which is the fruit of *possession*, would be present
+(according to the other view also). Then again, what sort of ‘enjoyment
+of usufruct’ would there ho in the case of such property as the
+elephant, the house and the like?
+
+Thus then, there is no reason for abandoning the direct literal meaning
+of the words; specially as the root ‘*hṛ*,’ ‘to take away,’ has often
+been found to be used in the sense of *possession*, as in such phrase
+‘*riktham haret*,’ ‘shall take possession of the property.’ Hence what
+the sentence means is that after three years the King shall
+‘take’—*i.e*., take possession of—the property.—(30)
 
 
-[^१२३]:
-     M G DK (1: 1953) add: svāṃ
-
-- प्रनष्टः स्वामी यस्य रिक्थस्य तत् **प्रनष्टस्वामिकम् ।** **प्रनष्टो** ऽविज्ञातः । **रिक्थं** धनम् । त्रयाणाम् अब्दानां समाहारस् **त्र्यब्दम् ।** त्रिवर्षवत् त्र्यब्दे ङीबभावः । अब्दशब्दः संवत्सरपर्यायः । **निधापयेत्** स्थापयेत् । **अर्वाक् त्र्यब्दात्** पूर्वं त्रिभ्यो वर्षेभ्यः, **हरेत् स्वामी** स्वीकुर्यात् । **अर्वाक्**शब्दो ऽवधौ दिग्देशादिकात् पूर्वम्[^१२४] आह ।
-
-
-[^१२४]:
-     M G DK: digdeśādikān pūrvān
-
-- span style="text-decoration-underline;">अन्ये</u> तु **नृपतिर् हरेद्** इति भोगानुज्ञानम् अपहारम् आहुः । न हि ऊर्ध्वम् अपि त्रिभ्यो वर्षेभ्यः परकीयस्य द्रव्यसापहारो युक्तः । तस्मात् त्रिभ्यो वर्षेभ्य ऊर्ध्वम् अनागच्छति स्वामिनि राज्ञा[^१२५] भोक्तव्यम् । 
-
-
-[^१२५]:
-     J: rājñā svāmini 
-
-- span style="text-decoration-underline;">तैर्</u>[^१२६] अयं श्लोकः कथं व्याख्यानीयः- "यत् किंचिद् दशवर्षाणि" (म्ध् ८.१४७) इति । यदि च परकीयस्यापहारो न युक्त इत्य् उच्यते भोगो ऽपि नैव युक्तः । परकीयं[^१२७] वस्त्रादिवद् भुज्यमानं नश्यत्य् एव । तत्रानपहारोपचारो युक्तः, भुक्तेर्[^१२८] एवापहारफलस्य सद्भावात् । गजतुरगादेस्[^१२९] तु कीदृशो भोग इति वाच्यम् । तस्मान् न यथाश्रुतार्थत्यागे कारणम् अस्ति । हरतिश् च गृह्णात्यर्थे असकृद् दृष्टप्रयोग **ऋक्थं हरेद्** इत्यादौ । तस्त्मात् **परेण नृपतिर् हरेत्** स्वीकुर्याद् इत्य् अयम् एवार्थः ॥ ८.३० ॥
-
-
-[^१२९]:
-     M G: japamudrādes
-
-
-[^१२८]:
-     M G DK: tatrānapahāravācoyuktir evāpahāraphalasya
-
-
-[^१२७]:
-     M G: parakīyasya
-
-
-[^१२६]:
-     M G: tad
-
-_कथं पुनः स्वामी प्रनष्टे धने स्वामित्वं ज्ञापयेत् । अत_[^१३०] _आह_ ।
-
-
-[^१३०]:
-     M G DK: jñāpayitum alam

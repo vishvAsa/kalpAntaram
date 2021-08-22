@@ -2,22 +2,15 @@
 title = "036 अनृतन् तु"
 
 +++
+The amount of the fine depends on the circumstances of the case and the
+virtues of the offender (Medhātithi),—or only on the virtues of the
+offender (Govindarāja, Kullūka and Rāghavānanda).
 
-यस् तु मयायं निहितो मत्पूर्वजेन वेति[^१३६] प्रतिज्ञां न साधयति सो ऽसत्यवादी[^१३७] दण्ड्यः । यावत् तस्य वित्तम् अस्ति, ततो ऽष्टमं भागं **तस्यैव वा** **निधानस्याल्पीयसीं कलां** मात्रां भागम् इत्य् अर्थः । न तु तद् एव द्रव्यं सुवर्णादिकं दापयेत्, किं तु तत्परिमाणम् अन्यद् वा सममूल्यं यया धनमात्रया दण्डितो ऽवसादं न[^१३८] गच्छेद् विनयं वा ग्राह्येत । अनुबन्धादिविशेषापेक्षया पुरुषगुणापेक्षया च विकल्प आश्रयणीयः । आतिशायनिकात् पूर्वदण्डात् स्वल्पो दण्ड इति ज्ञापयति । तेन यस्य बहु वित्तं स्वल्पो निधिः, तत्र निध्यपेक्षां मात्राम् अष्टमांशम्[^१३९] अर्थाधीनां दण्ड्यः । सा ह्य् अल्पीयसी भवति ॥ ८.३६ ॥
+The first half of this verse is quoted in *Aparārka* (p. 641);—and the
+whole verse in *Vivādaratnākara* (p. 642), which adds the following
+notes:—‘*Alpīyasīm kalām*’ implies that'the fine is to be imposed in
+such a manner that the entire treasure may not become absorbed,—this
+being meant for those cases where the exact extent of the
+entire-property is not known.
 
-
-[^१३९]:
-     M G DK: aṣṭamām
-
-
-[^१३८]:
-     M G omit: na
-
-
-[^१३७]:
-     M G: 'nyavādī
-
-
-[^१३६]:
-     M G: ceti
 

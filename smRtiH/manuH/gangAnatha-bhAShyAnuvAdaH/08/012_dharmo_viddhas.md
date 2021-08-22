@@ -2,4 +2,6 @@
 title = "012 धर्मो विद्धस्"
 
 +++
-(अग्रे व्याख्यानम्।)
+\[The Bhāṣya has nothing to say on this verse.\]
+
+

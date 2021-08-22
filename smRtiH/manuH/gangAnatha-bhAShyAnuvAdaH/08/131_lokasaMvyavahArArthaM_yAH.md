@@ -2,11 +2,36 @@
 title = "131 लोकसंव्यवहारार्थं याः"
 
 +++
+*Objection*.—“Such terms as ‘*likṣā*’ (Louse-egg) and the rest,
+pertaining to copper and other metals are already well known in the
+world; what is the use of propounding a scriptural definition? They
+could he learnt from the usage of experienced men, just as the exact
+denotation of such words as ‘cow’ and the like is learnt.”
 
-**ताम्रा**दीनां लिक्षादयः **संज्ञा भुवि** प्रसिद्धाः । किं शास्त्रपरिभाषया । तत्र वृद्धव्यवहारो गवादिशब्दवद् इति । अत आह **लोकसंव्यवहारार्थम्** । **अर्थ**शब्दो विषयवचनः । तेन व्यवहारप्रसिद्धिर् आश्रिता भवति । 
+It is in view of this objection that the author has added the phrase
+‘*for the sake of business-transactions*’; ‘sake’ here denotes *sphere*;
+hence the meaning is that what is adopted as the basis here is usage in
+actual business (and not ordinary usage).
 
-- span style="text-decoration-underline;">ततश्</u> च गवादिशब्दतुल्यतया व्यवहारात् प्रसिद्धः । किं शास्त्रोपदेशेन । 
+“In that case, standing on the same footing as such words as ‘cow’ and
+the like, they would he learnt from actual business-usage; what is the
+use of setting forth a scriptural injunction?”
 
-- span style="text-decoration-underline;">उच्यते</u> । नियमार्थ उपदेशः । अन्येषाम् अपि परिमेयानाम् अयस्कांस्यसुवर्णादीनाम् एताः संज्ञाः सन्ति, तन्निवृत्त्यर्थः । क्वचिद् देशे परिमाणे भेदो ऽप्य् अस्ति, तन्निवृत्त्यर्थश् च । क्वचित् संबन्धतया नियम्यते । तथा च क्वचिद् अष्टाचत्वारिंशता माषबन्धं क्वचिच् चतुःषष्ट्या क्वचित् साष्टेन शतेन । तद् एतत् सर्वं नियम्यते । 
+The answer to this is that the Injunction is put forth for the purposes
+of restriction. There being several other such terms in use in
+connection with iron, bell-metal, gold and other metals, it is with a
+view to preclude these that the author has laid down the present
+injunction; as also for precluding the difference in the measures, which
+is met with in certain localities. For instance, in some localities, a
+*pala* is regarded as made of 40 *māṣas*, while in others of 64, and in
+others again of 108, and so forth. And all this diversity is precluded
+and one definite measure is laid down here.
 
-अथ चैवं संबन्धः क्रियते । **याः संज्ञा भुवि प्रथितास् ता लोकसंव्यवहारार्थं वक्ष्यामि** । सर्वस्य लोकस्याभिर् एव संव्यवहारो यथा स्याद् दण्डादिनियोगस्याप्य् अन्यथा प्रसिद्धिः ॥ ८.१३१ ॥
+The verse is to be construed as follows—‘*these terms that are used in
+the world, I am going to describe for the sake of
+business-transactions*,’—so that the business-transactions of all men
+may be carried on with the help of those same technical terms; and
+incidentally the rules relating to these also would become
+clearer.—(131)
+
+

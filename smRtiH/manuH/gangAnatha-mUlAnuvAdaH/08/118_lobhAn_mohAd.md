@@ -3,16 +3,4 @@ title = "118 लोभान् मोहाद्"
 
 +++
 
-कौटसाक्ष्यं[^१३०] लोभादिनिमित्तम्[^१३१] । विषयकथनं दण्डविशेषभावार्थम्[^१३२] । **वितथम्** असत्यम् । सर्वत्र पञ्चमी हेत्वर्था ॥ ८.११८ ॥
-
-
-[^१३२]:
-     DK: daṇḍaviśeṣalābhārtham
-
-
-[^१३१]:
-     DK: lobhādinimitta-
-
-
-[^१३०]:
-     M G: kauṭasākṣya-; DK (1:278): kauṭasākṣye
+Evidence is called ‘false,’ when it is due to greed, or embarrassment, or fright, or friendship, or lust, or anger, or ignorance, ok childishness.—(118)

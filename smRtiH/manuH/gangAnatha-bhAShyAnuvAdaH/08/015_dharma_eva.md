@@ -2,17 +2,17 @@
 title = "015 धर्म एव"
 
 +++
+Judgment should not be perverted, through fear; because justice, when
+violated, ‘*blights*’— our prosperity, as also the prosperity of the
+sinful party and his helpers.
 
-न भयाद् अन्यथादर्शनं कर्तव्यम्, यतो **धर्मो** व्यतिक्रान्तः सन् **हन्ति**, नो ऽर्थी[^९७] तत्सहायो राजा वा । तथा **धर्म एव** पालितः सर्वतो भयम् अपनुदति । नापकर्तुम् अर्थ्यादयः[^९८] क्रुद्धाः शक्नुवन्ति । **तस्माद्** एवंजानता,[^९९] "सुखदुःखे धर्माधीने" इति, **धर्मो न हन्तव्यः** इति । यदि वयं धर्मं हन्मस् तदा सो ऽस्मान् सर्प इव रोषितः प्रतिहन्तीत्य् अतो **धर्मो हतः** सन् **मा** अस्मान् **वधीद्** इत्य् आत्मपरित्राणार्थं धर्मो रक्षितव्यः ॥ ८.१५ ॥
+Similarly, when ‘preserved,’ justice removes dangers from all sources;
+so that even though angered, the party (defeated) cannot do any harm.
+
+‘*Hence*’—*i*.*e*., knowing this, that happiness and unhappiness are
+based upon morality, one should not violate morality (or justice). If we
+violate justice, justice shall, like an enraged serpent, strike back at
+us; so *lest justice blight us*—*i*.*e*., with a view to saving
+ourselves,—we should preserve justice.—(15)
 
 
-[^९९]:
-     M G: evaṃjānaḥ; J: evaṃjānānaḥ; I follow DK (1: 35; 5: 627).
-
-
-[^९८]:
-     M G: arthādayaḥ
-
-
-[^९७]:
-     M G: no 'rthaṃ; J: hanti ity arthaḥ — pratyarthī; DK (5: 627) ity arthaḥ, no 'rthī ( the text here is clearly corrup).

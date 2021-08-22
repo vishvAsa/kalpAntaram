@@ -3,4 +3,4 @@ title = "038 यन् तु"
 
 +++
 
-यो राज्ञा स्वयं निधिर् अधिगतस् तस्मान् निधेर् अयं ब्राह्मणेभ्यो दाननियमो राज्ञः । **कोश**शब्देन वित्तसंचयस्थानम् उच्यते । **पुराणं निहितं क्षिताव्** इति निधिरूपानुवादः ॥ ८.३८ ॥
+When the king himself finds a hoard buried of old under the ground, he shall give one-half of it to the Brāhmaṇas and have the other half put in his treasury.—(38)

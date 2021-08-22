@@ -2,9 +2,13 @@
 title = "109 असाक्षिकेषु त्व्"
 
 +++
+‘*Śapathena*’—‘Supernatural proof’ (Medhātithi);—‘oath’—‘touching of the
+head and so forth’ (Nārāyaṇa),—or declaring ‘may heinous sins accrue to
+me if what I have said turns out to be untrue’ (Nandana).
 
-अविद्यमानाः साक्षिणो येष्व् **अर्थेषु** व्यवहारेषु ते **ऽसाक्षिकाः** । तेषु **सत्यम्** अजानानो राजा **तत्त्वतो** लौकिकेनानुमानेनापीत्य् अर्थः । तत्र **शपथेनापि** वक्ष्यमाणेन दैवेनानुमानेन **लम्भयेत्** जानीयात् । लभिः प्राप्तिवचनो ऽपि सामर्थ्याज् जानात्यर्थः । न ह्य् अन्यः सत्यस्य लाभः । "न विन्दन्" इति पाठे ऽप्य् एवम् एव व्याख्येयम् । "असाक्षिकेषु शपथेन लम्भयेत्" इत्य् एतावद् विध्युद्देशवाक्यावसानात् श्लोकपूरणार्थम् । **मिथः **परस्परम्[^८५] ॥ ८.१०९ ॥
+This verse is quoted in *Aparārka* (p. 694), which adds that
+‘*asākṣikeṣu*’ means ‘in cases where no human evidence is
+available’;—and in *Vīramitrodaya* (Vyavahāra, 71b), which explains
+‘*asākṣikeṣu*’ in the same manner.
 
 
-[^८५]:
-     M G DK omit: na hy anyaḥ . . . mithaḥ** **parasparam |

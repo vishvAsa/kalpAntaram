@@ -3,6 +3,4 @@ title = "196 निक्षिप्तस्य धनस्यैवम्"
 
 +++
 
-प्रकरणोपसंहारो ऽनेन क्रियते । **प्रीत्योपनिहितस्य** स्नेहेन किंचित् कालं भोगार्थं दत्तस्य, न्यासो निक्षेपस् तस्य धारणको यथा न पीड्यते तथा निर्णयः कर्तव्य इति । **अक्षिण्वन्न्** अपीडयन् । 
-
-द्वित्राः[^६१९] श्लोका निक्षेपकरणे विध्यर्थाः । सर्वम् अन्यद् अन्यतः सिद्धं सौहार्देनोक्तम्[^६२०] ॥ ८.१९६ ॥
+Thus shall the king come to a decision regarding property given as ‘deposit’ and that which is given as ‘friendly loan,’—without causing any injury to the keeper of the deposit.—(196)

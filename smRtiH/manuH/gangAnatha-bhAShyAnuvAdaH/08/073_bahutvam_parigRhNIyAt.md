@@ -2,15 +2,25 @@
 title = "073 बहुत्वम् परिगृह्णीयात्"
 
 +++
+In a dispute over the possession of land, *eg*., when several witnesses
+have been cited in proof of possession, if some depose to possession by
+the plaintiff, while others to that of the defendant,—then the king
+shall accept the statement of the majority.
 
-यत्र भूमिभागादौ विप्रतिपत्तिर् द्वाभ्यां च भोगसाधनं साक्षिणो निर्दिष्टाः । ते अ केचिद् अर्थिनो भोगम् आहुर् अपरे प्रत्यर्थिनः । तत्र बहूनां वचनं ग्राह्यम् । समसंख्येषु तु ये गुणैर् उत्कृष्टा बहुगुणा इत्य् अर्थः । एकेन वा गुणेन दृष्टपुरुषार्थोपकारिणा[^२७७] सातिशयेन युक्ताः । गुणवतां समगुणानां भेदे जातिर् आदर्तव्या । सर्वसाम्ये शपथः । अन्यद् वा तत्समानम्[^२७८] ।
+When the number on both sides are equal, he shall Accept the statement
+of those ‘*possessed of superior qualifications*,’—*i.e*., of a larger
+number of qualities, or of a single quality, but in a very large degree,
+very much to the benefit of mankind.
+
+When there is a conflict between two equally qualified witnesses,
+preference has to be given to the higher caste.
+
+Lastly, when both sets are equal in all respects, then recourse should
+he had to ordeals, or some other similar means of discrimination.
+
+‘*Accept the majority*’—*i.e*., accept as true the statement of the
+majority.
+
+‘*Conflict*’—making contradictory statements.—(73)
 
 
-[^२७८]:
-     M G: anumāne; DK ( 1:271): pramāṇaṃ anumānam
-
-
-[^२७७]:
-     M G: dṛṣṭe
-
-**बहुत्वं परिगृह्णीयात्** । बहूनां वचनं प्रमाणीकुर्यात् । **द्वैधं** परस्परविरुद्धार्थाभिधानम् ॥ ८.७३ ॥

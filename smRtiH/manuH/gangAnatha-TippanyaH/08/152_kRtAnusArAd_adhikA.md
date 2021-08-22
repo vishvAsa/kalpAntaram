@@ -2,17 +2,15 @@
 title = "152 कृतानुसाराद् अधिका"
 
 +++
+This verse in quoted in *Vivādaratnākara* (p. 14), which adds the
+following explanations:—Any interest, over and above what has been
+prescribed in the scriptures,—such as
 
-अनुसरन्त्य् अनुधावन्त्य् अनुवर्तन्ते सर्व एवार्था एतम् इत्य् **अनुसारः** । शास्त्रोदितः समाचारः । स च विविधो ऽशीतिभागादिः पञ्चकशतपर्यन्तः । तस्माद् **अधिका** वृद्धिः **कृता** यावत् तथाधमर्णेनोत्तमर्णस्य **न सिध्यति** । कुतः, **व्यतिरिक्ता** यतः शास्त्रबाह्येत्य् अर्थः । 
+2 per cent and so forth,—cannot be permitted, even though agreed to by
+the debtor;—why?—because they declare this to be the ‘usurious way’. If,
+under the stress of business, the creditor wishes to reap a large profit
+out of the debtor, then the utmost that he can recover is 5 per
+cent,—and not more, even though the debtor may have agreed to it;—and in
+*Kṛtyakalpataru* (p. 68b).
 
-- अर्थवादान्तरम् आह । **कुसीदपथम् आहुस् तम्** इति । कुपुरुषा यत्र सीदन्ति **कुशीदम्** । धर्मेण तद् धनिनो लक्ष्यन्ते । कुशीदीनाम् अयं **पन्था** मार्गो व्यवहारो न साधूनाम् इति निन्दा । यस्यावश्यम् अधिका कर्तव्या — महद् धि कार्यम् अयं मदीयेन धनेन साधयतीति बुद्ध्या — तदा वर्णविभागम् अनपेक्ष्य[^३३४] **पञ्चकं शतं** ग्रहीतुम् **अर्हति** लिप्सेत्, तदर्थम्[^३३५] इदम् उच्यते । 
 
-
-[^३३५]:
-     M G DK (1:615) omit: tad-
-
-
-[^३३४]:
-     M G: anapekṣyaṃ
-
-पाठान्तरम् "कृता तु साराद् अधिका"[^३३६] इति । यस्याकिंचनस्य सतः स्वल्पा कृता, तेनैव धनेनान्यथा वा महार्थतां प्राप्तस् तस्य या पुरुषसाराद् अधिका[^३३७] **न सिध्यति**, यः परं पञ्चकशतम् अर्हति ॥ ८.१५२ ॥

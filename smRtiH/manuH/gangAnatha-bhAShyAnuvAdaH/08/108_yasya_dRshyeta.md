@@ -2,5 +2,16 @@
 title = "108 यस्य दृश्येत"
 
 +++
+‘*Saptāhāt*,’ ‘*within a week*,’—the use of the Ablative implies that
+the proposition ‘before’ is understood. That is, on anyone of the seven
+days, after he has given evidence, if the witness is found to suffer
+from sickness, it implies that he has been adjudged by destiny to be a
+perjuror, and hence he should be punished in accordance with the
+aforesaid rule.
 
-**सप्ताहाद्** इति पञ्चमीदर्शनाद् अर्वाग् इत्य् अध्याह्रियते । सप्तानां दिवसानाम् अन्यतमस्मिन्न् अहनि **यस्य** **साक्षिणो** **रोगा**दि दृश्यते स मृषावादी दैवेन विभावितः पूर्वोक्तेन विधिना दापयितव्यः । **रोगो** ऽत्यन्तपीडाकरः, **अग्निर्** गोवाहनदहनः, पुत्रदारादिप्रत्यासन्न**ज्ञातिमरणम्,** तस्य कूटसाक्षित्वे लिङ्गम् ॥ ८.१०८ ॥
+‘*Illness*’ stands for any kind of acute suffering;—‘*fire*’ for the
+burning of cattle and conveyances;—and ‘*death of a relative*’ for the
+death of the son or the wife or some other near relative;—all these
+being indicative of his having given false evidence.—(108)
+
+

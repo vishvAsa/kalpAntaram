@@ -2,9 +2,23 @@
 title = "053 अदेश्यं यश्"
 
 +++
+Medhātithi is again misrepresented by Buhler; he does not read
+‘*apadeśyam*’, the reading adopted by him being ‘*adeśam*’. Nārāyaṇa
+also reads the same, not ‘*apadeśyam*.’—Nandana reads ‘*adeyam*’, not
+‘*apadeśyam*.’ Buhler has apparently confused verse 53 with 54, where
+Medhātithi reads ‘*apadeśam*’ for ‘*apadeśyam*.’
 
-उक्तम् एवाधर्मर्णे ऽपह्नुवाने धनिना राजा ज्ञापयितव्यः- "ईदृशी च ज्ञापना कर्तव्या । अस्मिन् देशे ऽस्मिन् काल इदं धनम् इयद् वैतेन मत्सकाशाद् गृहीतम्" । स च पृष्टो भावयति- "नैतस्मिन् देशे ऽहम् अभवं यो ऽनेन च ग्रहणकाल उपदिष्टः" तद् अदेशं दिशति[^२१०] । अथ वा देशसाक्षिणो व्याख्यातास् तान् साक्षिणो देशकालाव् असंभवतो निर्दिशति । निर्दिश्य देशादिकम् अपजानीते "नैतन् मया निर्दिष्टम्" इति । **यश् चाधरोत्तरान् अर्थान्** पौरस्त्यानौपरिष्टांश् च **विगीतान्** विरुद्धान् अभिहितान् **नावबुध्यते** । यद् वा पूर्वं वक्तव्यं तत् परस्माद् वक्ति यत् परतस् तत् पूर्वं क्रमभेदं च वचनगतम् आत्मनो नानुसंधत्ते । "हीनः स इति निर्दिशेत्" (म्ध् ८.५७) इति सर्वत्र क्रियानुषङ्गो भविष्यतीति ॥ ८.५३ ॥
+This verse is quoted in *Smṛticandrikā* (Vyavahāra, p. 108), which has
+the following explanation—‘One who cites an impossible witness, or
+having cited a possible one, says that he has not cited him, or one who
+does not perceive inconsistencies in his own statement, is to be
+non-suited;’—in *Kṛtyakalpataru* (p. 22b), which has the following
+notes:—‘*Adeśam*’ (which is its reading for ‘*adeśyam*’), a place where
+the parties have never met;—‘*adharottarān arthān*’, “former and
+latter”—‘*vigītān*’, contradictory;—and in *Vīramitrodaya* (Vyavahāra,
+p. 31b), which adds the following notes:—‘*Ādeśyām dishati*’, ‘says what
+is irrelevant or indecorous,—he who having said something says he did
+not say it’—‘who does not comprehend the inconsistencies in his own past
+and present statements’.
 
 
-[^२१०]:
-     M G J: tadā deśe diśyate (M G dīyate)

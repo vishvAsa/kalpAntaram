@@ -2,38 +2,20 @@
 title = "149 आधिः सीमा"
 
 +++
+‘*Śāstrāntareṇa*’—(Medhātithi, p. 965, l. 1)—This refers to Yājñavalkya,
+2.65. ‘*Vāsanasthamanākhyāya haste nyasya yadarpayet*’; and
+Nārada—‘*asaṅkhyātamavijñātam samudram yannidhīyate*.’
 
-आधीयत इत्य् **आधिर्** बन्धकद्रव्यं गोभूहिरण्याद्य् उच्यते । यच् चोत्तमर्णाद् धनम् आदीयते । **उपनिधिः** शास्त्रान्तरेणान्तर्हितो[^२७९] न्यास उक्तः, यद् अप्रदर्शितरूपं सचिह्नवस्त्रादिना पिहितं निक्षिप्यते । प्रीतिभोग्यं तु युक्तम् उपनिधिशब्दवाच्यम्, तस्य निक्षेपग्रहणेनैव गृहीतत्वात् । **सीमा** मर्यादा ग्रामादीनाम् । बहुसाधारण्याद् धि तत्रोपेक्षा संभवति । गृहादीनां तु प्राकारपरिखादिरूपा द्वित्रिहस्तपरिमाणरूपा द्वयोः साधारणी यान्यतरेण[^२८०] कथंचिद् उपजीव्यमाना[^२८१] । स्वल्पत्वाद् भोगश् च[^२८२] कश्चित् कियन्तं कालम् उपेक्षेतापि[^२८३] । तत्रापि[^२८४] दानादिसत्त्वापगमहेतुं संभावयतः[^२८५] । अतस् तत्पुत्राः पौत्रा वा गूढचिह्नादिना प्रज्ञापितसीमत्वाद् आच्छिन्दयत्य् एव । **बालधनं** दृष्टान्तार्थम्, पोगण्डशब्दस्य दर्शितत्वाद् (म्ध् ८.१४८) इत्य् उक्तम् । **स्त्रियो** दास्यः, भार्या वा । नेतरस्याधनस्यापहार उक्तः "धनस्य दशवार्षिकी" (य्ध् २.२४) इति ।
-
-
-[^२८५]:
-     DK (1: 1: 388): saṃbhāvayati (DK 5: 1190 follows edition)
-
-
-[^२८४]:
-     DK (1: 388) add: na; (DK 5: 1190 follows edition)
-
-
-[^२८३]:
-     M G: upekṣya; J: upekṣyetāpi
-
-
-[^२८२]:
-     G M DK (1: 388): bhogasya
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 109), which
+adds that the term ‘*śrotriya*’ includes also all such persons who have
+their attention too much taken up by other things to allow their looking
+after their belongings in *Smṛticandrikā* (Vyavahāra, p. 158), which
+notes the following reasons for neglect—(*a*) In regard to boundaries,
+people are apt to be lulled into security by the ease with which the
+boundary-line can be determined,—(*b*) in regard to women, their natural
+shyness lulls men into security,—(*c*) in the case of the king and the
+scholar, their minds are too much taken up with their temporal and
+spiritual concerns respectively;—and in *Vīramitrodaya*, (Vyavahāra,
+69b).
 
 
-[^२८१]:
-     M G: upajīyamānā; J: upajīryamāṇā
-
-
-[^२८०]:
-     M G J: yānyatare
-
-
-[^२७९]:
-     DK (1: 388): vastrā-
-
-- span style="text-decoration-underline;">ननु</u> च नेह धनम् अस्ति । "यत्किंचित्" (म्ध् ८.१४७) इति वस्तुमात्रनिर्देशो ऽयम् । 
-
-<u>नैवम्</u> । "धनी" (म्ध् ८.४७) इति संबन्धेन धनविषयतैव "यत्किंचित्" इति सामान्यशब्दस्य प्रतीयते । क एवम् आह स्त्रियो न धनम् इति । इत्थं विनियोज्ये[^२८६] द्रव्ये धनशब्दो वर्तते । अथास्माद् एव स्त्रीधनात् स्वत्वमात्रोपलक्षणम् । धनोपमानेन पुमांसो ऽपि भोगेन दासाः स्वीक्रियन्त एव ।  
-**राजस्वं** । देशेश्वरा राजानः, तेषां धनम् । ते हि महाधनत्वाद् उच्चत्वान्वयं[^२८७] धनम् अन्विच्छन्तो ऽधिकृतैर् विरुतभेदादिभिर्[^२८८] निधनीक्रियन्ते तदूनापेक्षया[^२८९] । **श्रोत्रिय**द्रव्यं श्रोत्रियधनाभियुक्तिः ॥ ८.१४९ ॥

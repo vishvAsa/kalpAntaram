@@ -2,13 +2,30 @@
 title = "082 साक्ष्ये ऽनृतम्"
 
 +++
+The preceding verse encourages the witnesses by putting before them the
+spiritual and temporal results following from the telling of truth; the
+present verso describes how results accrue from saying what is contrary
+to truth; and the purpose of this also is to induce the witness to tell
+the truth.
 
-पूर्वेण दृष्टादृष्टशुभाशुभप्रदर्शनेन सत्यवचने साक्षिणः प्रोत्साहिताः । अनेन विपरीताभिधाने दुःखोत्पत्तिदर्शनम् । सत्यवचनार्थम् एवैतत् । साक्षिणः कर्म **साक्ष्यम्** । तत्रासत्यं ब्रुवाणो **वारुणैः पाशैर्** **बध्यते** पीड्यते । **भृशम्** अत्यर्थम् । **विवशः** परतन्त्रीकृतः सर्वचेष्टासु वाक्चक्षुर्गतास्व् अपि । **शतं** यावज् जन्मनि वारुणाः पाशा घोराः सर्परज्जवो जलोदराणि वा । एतद्दोषपरिहारार्थं सत्यं वदेद् इति विधिः । **आजातीर्** इति नायं मर्यादाभिविध्योर् आङ् । तथा सति पञ्चमी स्यात् । तस्माद् उपसर्गो ऽयम् अनर्थकः, प्रलम्बत[^३०१] इतिवत्[^३०२] । द्वितीया चेयं आवृत्तिश् चात्र गम्यते । शतं जन्मान्य् आवर्तते उदरगृहीतः ॥ ८.८२ ॥
+‘*Sākṣya*,’ ‘*evidence*,’ is the work of the witness; in that work,
+stating what is not true, the man becomes ‘*bound*’—tormented—‘*in
+Varuṇa’s fetters*,’—‘*firmly*’—to a very great extent;—‘*helpless*’—
+rendered totally dependent on others, even in regard to the operations
+of speech and the eyes,—‘*during a hundred births*.’
+
+‘*Varuṇa’s fetters*’ are in the shape of terrible snakes or in the form
+of the disease of *dropsy*.
+
+In order to guard against such calamities, the witness should state the
+truth;—such is the sense of the injunction implied by the text.
+
+In the term ‘*ājātīḥ*,’ the initial *ā* is not the indeclinable ‘*āṅ*’
+which denotes *limit*; for, if it were that or we would have the
+Ablative ending. Hence it is to be taken as a preposition meaning
+nothing; just like the preposition ‘*pra*’ in such words as
+‘*pralambate*’ and the like. The case-ending also is the Accusative.
+What the term signifies is *repetition*; the meaning being that the man
+sutlers from dropsy repeatedly during one hundred births.—(82)
 
 
-[^३०२]:
-     M G DK (1: 261): iti yāvat
-
-
-[^३०१]:
-     J: pralamba

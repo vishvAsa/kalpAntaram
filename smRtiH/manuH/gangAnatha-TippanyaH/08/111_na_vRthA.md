@@ -2,9 +2,11 @@
 title = "111 न वृथा"
 
 +++
+‘*Vṛthā*’—‘False’ (Medhātithi, Nārāyaṇa and Nandana);—‘needlessly, in
+small matters’ (Rāghavānanda).
 
-मिथ्याशपथे फलाख्यानम् एतत् । **वृथा** अन्यथा असत्यम् इति यावत् । तत्रापह्रियमाणसुवर्णादिद्रव्यजात्यपेक्षो ऽनृतशपथदोषो ऽन्यथाशपथे स्वल्पे, गरीयसि तु कार्ये गौरवाद् अधिकतरो दोषो ऽस्त्य् एव । प्रेत्य नाशो नरकम्, इह महद् अयशः । प्रमाणान्तरे तु ज्ञाते[^८९] राजदण्डः ॥ ८.१११ ॥
+This verse is quoted in *Smṛtitattva* (II, p. 229),—in
+*Vyavahāra-Bālambhaṭṭī* (p.406);—and in *Vīramitrodaya* (Vyavāhara,
+89a).
 
 
-[^८९]:
-     M G: tv ajñāte

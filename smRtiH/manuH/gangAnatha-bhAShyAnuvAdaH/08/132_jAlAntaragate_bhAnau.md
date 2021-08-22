@@ -2,12 +2,14 @@
 title = "132 जालान्तरगते भानौ"
 
 +++
+Some people do not read this verse as part of the text, on the ground
+that there is no difference of opinion regarding the ‘Triad.’
 
-इमं श्लोकं केचिन् नाधीयते, त्रसरेणौ विप्रतिपत्त्यभावात्[^१६४] । गवाक्षकुचिकाविवरप्रविष्टे सूर्ये यो रेणुर् दृश्यते स त्रसरेणुः । **अन्तर**शब्दो विवरपर्यायः । **प्रथमं तत्प्रमाणानाम्** इति ॥ ८.१३२ ॥
+When the sun shines through a window-hole or lattice, we see a particle
+of dust; it is this that is called ‘Triad.’
 
+‘*Antara*’ means *hole*.
 
-[^१६४]:
-     M G DK (1: 528): vipratipattyā tāvad
-
+‘*This is the very first of measures*’— (132)
 
 

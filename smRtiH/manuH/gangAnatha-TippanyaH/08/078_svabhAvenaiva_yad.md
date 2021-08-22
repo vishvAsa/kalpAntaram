@@ -2,44 +2,15 @@
 title = "078 स्वभावेनैव यद्"
 
 +++
+‘*Svabhāvena*’—‘Quite naturally’—‘not out of compassion’ (Medhātithi,
+who says nothing regarding ‘depending on women’ as Buhler wrongly puts
+it),—‘not out of fear and the like’ (Kullūka);—‘the reliability or
+otherwise of the witness is to be ascertained after due consideration of
+his *Svabhāva*, character, and not from the manner of bis giving
+evidence’ (‘others’ in Medhātithi),—‘without hesitation, quickly’
+(Nārāyaṇa);—‘in accordance with truth’ (Govindarāja and Nandana).
 
-साक्षिणो यत् **स्वभावेन व्यावहारिकं** ब्रुवन्ति तद् ग्राह्यम् । यत् तु स्वभावाद् विचलितारुणया[^२८७] धर्मबुद्ध्या[^२८८] **धर्मार्थं ब्रूयुस् तद् अपार्थकम्** अग्राह्यम् इत्य् अर्थः । यद्यथादृष्टस्यार्थस्य[^२८९] वचनं तत् स्वभावतः । यत् त्व् अन्यथा "मा भूद् अस्य तपस्विनो मद्वचनेन बाधः" इत्य् अनया बुद्ध्या, **तद् अपार्थकम्** । यथा केनचिद् आवेदितं भवति "अनेनाह माक्रुष्टः" इति । तत्र परेणापह्नुतम् । साक्षिण आहुः- "सत्यम् आक्रुष्टः,[^२९०] नर्मणा[^२९१] न तु रोषेण"[^२९२] इति । तत्राकृउष्ट[^२९३] इत्य् एतत् साक्षिणां वचो ग्राह्यम् । नर्मेणेत्य्[^२९४] एतद् उत्तरवादिनानुक्तत्वाद् अपृष्टम् उक्तम् अपि न ग्राह्यम् । 
-
-
-[^२९४]:
-     M G DK: na karamaṇety
-
-
-[^२९३]:
-     M G DK: tatrākṛuṣṭaṃ
-
-
-[^२९२]:
-     M G: vyāroṣeṇa
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 80);—and in
+*Vyavahāra-Bālambhaṭṭī* (p. 282).
 
 
-[^२९१]:
-     M G DK: na karmaṇā
-
-
-[^२९०]:
-     M G DK: ākruṣṭaṃ
-
-
-[^२८९]:
-     M G: yadyayathā-
-
-
-[^२८८]:
-     M G DK (1:269) add: strīpratyayam āśritya
-
-
-[^२८७]:
-     J: vicalitā
-
-**व्यावहारिकं** व्यवहारगतम् । अपगतप्रयोजनम् **अपार्थकम्** । 
-
-
-- span style="text-decoration-underline;">अन्ये</u> व्याचक्षते । यद् अप्रगल्भादिभिः स्खलितपदम् उदाहरन्ति न तावता तद् अनादेयं किं तु स्वभाव एषाम् उपलक्षितव्यो ऽनुमानेन- किम् अमी अप्रागल्भ्यात् स्खलन्ति उतासत्याभिधायितयेति । 
-
-<u>तत् तु</u> प्राग् उक्तम् । न चाक्षरार्थ इत्य् उपेक्ष्यम् ॥ ८.७८ ॥

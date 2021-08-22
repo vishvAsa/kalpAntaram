@@ -2,21 +2,25 @@
 title = "121 कामाद् दशगुणम्"
 
 +++
+‘*Lust*,’— sexual love: when females happen to be parties to the suit,
+the person who loves one of them, deposes falsely; and such a person
+should be fined 2,500 *Paṇas*.
 
-मन्मथः **कामः** । यत्र स्त्रियो विवदन्ते तत्संबन्ध्यन्यतरां[^१३८] कामयमानो ऽनृतं वदति, अर्धतृतीयानि सहस्राणि दण्ड्यते । **क्रोधात्** **त्रिगुणं परं** प्रथमसाहसस्य प्रकृतत्वात् ततः परो मध्यः[^१३९] । सर्वान्ते लोकविज्ञानाद् इति वा उत्तम एव परः । द्वेषः **क्रोधः** । **अज्ञानाद्** इति । यो विपरीतं प्रथमं ब्रूयाद् भ्रान्त्या, न तु[^१४०] प्रश्नकाले । **द्वे शते** दमः । प्रदर्शनम् एव विपरीतं नाभिधानम् । **बालिश्यं**[^१४१] बालभावः अप्राप्तव्यवहारता । ईषदपक्रान्तबालभावस्याप्राप्तबुद्धिस्थैर्यस्यायं बालिश्यदण्डो ऽन्यस्य त्व् असाक्षितैव ॥ ८.१२१ ॥
+‘*If through anger, three times the next*;’—the ‘lowest amercement’
+having been mentioned before, its ‘next’ is the ‘middling amercement.’
+Or, on the basis of ordinary usage, ‘*para*’ may stand for the
+‘highest.’
+
+‘*Through ignorance*’;—he who, through mistake, should say what is
+contrary to busts, on the spur of the moment,—and not during his regular
+examination,—his punishment shall consist of ‘*two hundred*.’ This is
+meant to be merely suggestive of some sort of punishment to be
+inflicted; and hence it is not contrary (to what has been declared
+regarding the *lowest fine* to consist of 250).
+
+‘*Childishness*’— is *childish character*. The man who has not acquired
+steadiness of mind is called ‘childish.’ The punishment here laid down
+is for one who has just passed his minority; one who is still a minor
+cannot be a witness at all.—(121)
 
 
-[^१४१]:
-     M G add: vā
-
-
-[^१४०]:
-     M G: nanu; DK omits: na tu
-
-
-[^१३९]:
-     M G: vadhyaḥ
-
-
-[^१३८]:
-     M G: -bandhyānyataraṃ

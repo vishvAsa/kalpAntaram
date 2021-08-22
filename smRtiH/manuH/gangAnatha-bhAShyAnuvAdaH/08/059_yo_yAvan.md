@@ -2,21 +2,32 @@
 title = "059 यो यावन्"
 
 +++
+In a case where on the strength of other proofs it has boon decided that
+the creditor had lent only 5,000, while the sum entered in the document
+is 10,000; from this it is understood that, the creditor has been
+dishonest in his dealings, having thought that, as other kinds of
+evidence would be admissible only for one year, he would get what he
+would prove by moans of the documentary evidence only; and being found
+to be dishonest, he should ho fined double the amount. But in a case
+where there may he a doubt as to whether the fraud had been committed
+intentionally, or only through carelessness, the fine shall be only ten
+per cent.
 
-येन पञ्चसहस्राणि दत्तानीति प्रमाणान्तरान् निश्चितम् — लेख्यादौ तु करणे दश[^२३६] समारोपितानि — प्रमाणान्तरं संवत्सराख्यम् इति निश्चित्येदम् अपश्यत् केवलेन लेख्यप्रमाणेन सर्वत्र प्रवर्तमानः — छलव्यवहारीति[^२३७] द्विगुणं दण्ड्यः[^२३८] । यस्य तु विस्मृत्याप्य् अन्यथाप्रवृत्तिर् आशङ्क्यते तस्य दशकं शतम् । एवम् इतरस्यापि । न तु सर्वापह्नवे दशभाग एकदेशापह्नवे द्विगुणम् इति । किं तु शाठ्याद् अन्यथाप्रतिपद्यमानौ द्विगुणं दण्ड्यौ । विस्मृतिदारिद्र्याभ्यां दण्डम् उत्तरम् । **यो यावन्तम् अर्थम् अपह्नुवीत** अपजानीते ऽधर्मर्णः — **मिथ्या यावति**[^२३९] विपरीतं धनं **वदेद्** उत्तर्मर्णः — तावत् ताव् उत्तमर्णाधमर्णाव् **अधर्मज्ञौ** । **द्विगुणं दमम्** । **तद्** इत्य् अपह्नूयमानधनपरामर्शः । यावद् अपह्नुतं ततो द्विगुणं दमो दण्डः । **अधर्मज्ञ**ग्रहणाच् च लिङ्गान् निश्चितछलविषयो ऽयं दण्ड इत्य् उक्तम् ॥ ८.५९ ॥
+Similarly in the case of the defendant also. It is not that if he denies
+the whole claim, the tine shall be ten per cent, and if he denies it
+only partly, then double the amount. As a matter of fact, when they are
+found to be dealing dishonestly, they shall he fined double the amount;
+while if their behaviour is found to be due to either negligence or
+poverty, the fine shall be only ten per cent.
+
+When ‘*one*’—*i.e*., the debtor—‘*denies the debt*,’ and when the other,
+*i.e*., the creditor—‘*falsely*’—dishonestly—demands it;—then both
+these, the creditor as well as the debtor would be ‘*proficient in
+dishonesty*,’ and should be fined ‘*double the sum*’;—‘the sum’ standing
+for what is denied; so that the sense is that the fine shall be double
+the sum that was denied.
+
+The addition of the term ‘*proficient in dishonesty*’ indicates that the
+penalty is imposed for proved dishonesty.—(59)
 
 
-[^२३९]:
-     M G: yācati
-
-
-[^२३८]:
-     M G: daṇḍyam
-
-
-[^२३७]:
-     M G: pravartamānachalavyavahārīti
-
-
-[^२३६]:
-     M G: deśa
