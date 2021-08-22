@@ -2,5 +2,10 @@
 title = "090 पशूनां रक्षणम्"
 
 +++
+‘*Trade*,’—*i.e*., the acquiring of wealth by carrying on trade, on land
+and on water, and the importing of useful goods from foreign countries
+into the state of that king in whose kingdom he lives.
 
-**वनिक्पथः** वणिक्कर्मणा स्थलपथवारिपथादिना धनार्जनम् । उपयुज्यमानदेशान्तरीयद्रव्यसंनिधापनं यस्य राज्ञो विषये वसति । **कुसीदं** वृद्ध्या धनप्रयोगः ॥ १.९० ॥
+‘*Money-lending*’—giving out money on interest. (90).
+
+

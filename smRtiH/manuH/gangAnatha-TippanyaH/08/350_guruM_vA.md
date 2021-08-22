@@ -2,43 +2,21 @@
 title = "350 गुरुं वा"
 
 +++
+“According to Kullūka the condition is that one must be unable to save
+one self by fight;—according to Nārāyaṇa one must not wound such a man
+excessively.”—Buhler.
 
-**आततायी** उच्यते यः शरीरधनदारपुत्रनाशे सर्वप्रकारम् उद्यतः । तम् **अविचारयन्**[^१७४] हन्यात् । **गुर्व्**आदिग्रहणम् अर्थवादः । एते ऽपि हन्तव्याः, किम् उतान्य इति । एतेषां त्व् आततायित्वे ऽपि वधो नास्ति । "आचार्यं च प्रवक्तारम्" (म्ध् ४.१६२) इत्य् अनेनापकारिणाम् अपि वधो निषिद्धः । **गुरुम् आततायिनम्** इति शक्यः संबन्धः । तथा सत्य् आततायिविशेषणम् एतत् । ततो गुर्वादिव्यतिरिक्तस्याततायिनः प्रतिषेधः कुतः स्यात् । वाक्यान्तराभावात् । 
+This verse is quoted in *Madanapārijāta* (p. 784), which adds the
+following explanation:—‘When even the Teacher and the rest, if they are
+assassins, may be slain—what to say of others;’—which only means that
+there is nothing wrong in the slaying of assassins other than the
+Teacher and the rest; it is not meant that these latter are to be slain;
+because we have the general prohibition that ‘no Brāhmaṇa shall be
+killed.’
 
-
-[^१७४]:
-     M G add: na vicārayet; DK (1: 1625) add: na vicārayan
-
-- span style="text-decoration-underline;">अथ</u> "नाततायिवधे दोषः" (म्ध् ८.३५१) इत्य् एतद् वाक्यान्तरं सामान्येनाभ्यनुज्ञापकम् इति ।
-
-- span style="text-decoration-underline;">तद् अपि न</u>, विधेर् अश्रवणात्, पूर्वशेषतया चार्थवादत्वे प्रकृतवचनत्वात् । 
-
-- इह भवन्तस्[^१७५] त्व् आहुः- यद्य् आततायिनम्[^१७६] इत्य् एव विधिः, अवशिष्टो ऽर्थवादः, तथापि गुर्वादीनां वधानुज्ञानम् । यतो ऽन्यद् अपकारित्वम् अन्यद् आततायित्वम् । यो ह्य् अन्यां कांचन पीडां करोति न सर्वेण शरीरादिना सो ऽपकारी, ततस् त्व् अन्य[^१७७] आततायी[^१७८] । तथा च पठ्यते ।
-
-
-[^१७८]:
-     M G: karoti sa sarveṇa śarīrādinā steyakārītas tv ātatāyī; DK: 
-
-
-[^१७७]:
-     DK omits: anya
+It is quoted in *Vyavahāramayūkha* (p. 104);—in *Aparārka* (p. 627, and
+again at p. 1043);—in *Vyavahāra-Bālambhaṭṭī*—(p. 1011);—in
+*Prāyaścittaviveka* (p. 59), which says that ‘*eva*’ has been added for
+the purpose of emphasis;—and in *Nītimayūkha* (p. 77).
 
 
-[^१७६]:
-     M G: yad yathātatāyinam
-
-
-[^१७५]:
-     M G: bhavatāṃs
-
-- उद्यतासिर् विषाग्निभ्यां शापोद्यतकरस् तथा ।
-
-- आथर्वणेन हन्ता च पिशुनश् चापि राजतः ॥
-
-- भार्यातिक्रमकारी च रन्धान्वेषणतत्परः ।
-
-- एवमाद्यान् विजानीयात् सर्वान् एवाततायिनः ॥ (क्स्म् ८०२–०३)
-
-****"**<u>आयान्तम् इति</u>** वचनाद् आत्तशस्त्रो हन्तुम् अभिधावन् दारान् वा जिहीर्षन् हन्तव्यः । कृते तु दोषे किम् अन्यत् करिष्यतीत्य् उपेक्षा" इति ब्रुवते ।
-
-<u>तद् अयुक्तम्</u> । यतः "प्रकाशम् अप्रकाशं वा"[^१७९] (म्ध् ८.३५१) इति वक्ष्यति । समानौ ह्य् एतौ करिष्यन् कृतवांश् च[^१८०] । तस्माद् **आयान्तम्** इत्य् अनुवादः- कर्तुम् आगतं कृत्वा वा गतम् इति । आततायित्वाच् चासौ हन्यते । न च कृतवचन आततायित्वम् उपैति । नास्यात्मनो रक्षार्थ एव वध "आत्मनश् च परित्राणे" (म्ध् ८.३४९) इति अनेनोक्तम्[^१८१] ॥ ८.३५० ॥

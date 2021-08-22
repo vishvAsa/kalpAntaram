@@ -3,4 +3,4 @@ title = "413 शूद्रन् तु"
 
 +++
 
-**क्रीतम् अक्रीतं** भक्ताद्युपनतम् । वक्ष्यमाणस्य विधेर् अनुवादो ऽयम् । **दास्यायैवे**त्य् अर्थवादः ॥ ८.४१३ ॥
+But a Śūdra, whether bought or unbought, he shall make to do servile work; since it is for doing servile work for the Brāhmaṇa that he has been created by the self-born one.—(413)

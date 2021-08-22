@@ -2,7 +2,24 @@
 title = "395 श्रोत्रियं व्याधितार्तौ"
 
 +++
+‘*Respecting*’ here stands for *kindly treatment*; verbal roots having
+several meanings. No other kind of ‘respect’ would be possible in the
+case of the infant and several others. The ‘*Vedic scholar*’ has been
+held here to mean the Brāhmaṇa scholar only.
 
-**संपूजनम्** अनुग्रहः, अनेकार्थत्वाद् धातूनाम् । न हि **बाला**दीनाम् अन्या पूजोपपद्यते । **श्रोत्रियो** ऽत्र ब्राह्मण एवेति स्मरन्ति । **आर्तः** प्रियवियोगादिना । **अकिंचनो** दुर्गतः । **महाकुलीनः** । ख्यातिधनविद्याशौर्यादिगुणे कुले जातो **महाकुलीनः** । **आर्य** ऋजुप्रकृतिर् अवक्रः । एतेषां दानमानादिभिर् अनुग्रहः कर्तव्यः । 
+‘*Distressed*,’—by separation from his loved ones or such other causes.
 
-<u>केचिद्</u> **अकिंचनं** महाकुलीनविशेषणं व्याचक्षते ॥ ८.३९५ ॥
+‘*Indigent*’— in reduced circumstances.
+
+‘*The man of high family*’—one who is born in a family endowed with
+fame, wealth, learning, bravery and such other qualities.
+
+‘*Gentleman*’—one who is honest and upright of nature.
+
+All these should be received with kind treatment, in the shape of gifts
+and honours.
+
+Some people explain the term ‘*indigent*’ as qualifying ‘*the man of
+high family*’— (395)
+
+

@@ -2,5 +2,13 @@
 title = "108 आचारः परमो"
 
 +++
+‘*Highest Dharma is Morality*’ \[Right Behaviour\]; that which has been
+prescribed in the *Śruti, i.e*. Veda; and also ‘*that laid down in the
+Smṛti*.’ Hence one should be ever *intent upon* Dharma in the shape of
+Right Behaviour *i.e*. he should carry it into practice.
 
-**परमः** प्रकृष्टो **धर्म आचारस्** तथा **श्रुतौ** वेदे य **उक्तः** । **स्मार्तः** स्मृतिषूक्तः । **तस्माद्** आचारधर्मे **नित्यं युक्तः स्यान्** नित्यम् अनुतिष्ठेद् **आत्मवान्** आत्मनो हितम् इच्छन् । सर्वस्यात्मास्त्य् अतो मतुपा तद्धितपरत्वम् उच्यते ॥ १.१०८ ॥
+‘*Ātmavān*’—*lit*. ‘endowed with soul,’ really means ‘*desiring the
+welfare of his soul*’; all men are ‘endowed with soul’; hence the affix
+‘*matup*’ is taken to mean ‘welfare of soul.’—(108).
+
+

@@ -3,8 +3,4 @@ title = "040 कृमि-कीट-पतङ्गांश् च"
 
 +++
 
-**कृमयो** ऽत्यन्तसूक्ष्मा प्राणिनः । **कीटास्** तेभ्य ईषत्स्थूला भूमिचराः । **पतङ्गाः** शलभपक्षकादयः[^८५] । **स्थावरं** वृक्षपर्वतादि । **पृथग्विधं** नानाप्रकारम् । क्षुद्रजन्तव इत्य् एकवद्भावः ॥ १.४० ॥
-
-
-[^८५]:
-     J: śalabhādayaḥ
+[They called into being] Worms, Beetles and Moths; Lice, Flies and Bugs; Gadflies and Gnats; and also the entire host of the several kinds of immovable things.—(40)

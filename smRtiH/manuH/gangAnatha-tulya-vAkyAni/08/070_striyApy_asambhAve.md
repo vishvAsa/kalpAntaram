@@ -2,39 +2,41 @@
 title = "070 स्त्रियाप्य् असम्भावे"
 
 +++
+**(verses 8.70-72)**
 
-**स्त्रियेति** लिङ्गव्यत्यय उक्तः । **बालेन स्थविरेण वेति** वयोव्यत्ययः । **शिष्येणे**त्यादिना संबन्धिनः प्रतिप्रसवः । एतच् च प्रदर्शनम् एवंविधानां नियमानां व्यभिचाराय । तेन जातिसादृश्ये[^२७०] ऽपि नाद्रियेते । सुहृद्वैरिदृष्टदोषादयस् तु नेष्यन्ते । येषां किंचिद् असत्याभिधानकरणत्वं दृष्टं नापि व्यापकं[^२७१] ते न प्रतिसूयन्ते । येषां तु बहुव्यापकं क्वचिद् एव गुणातिशयं चेति व्यभिचरेत् ततः क्वचिद् एव तत्साक्षिणः । उक्तं च ।
+*Kātyāyana* (Aparārka, pp. 670-671).—‘In cases of disobedience of the
+royal edict, of adultery, of violent crimes, of theft and of
+assaults,—one should not be particular regarding the admissibility of
+witnesses. In the case of occurrences within a house, or at night, or
+outside the village, if a suit is brought forward, the King shall not be
+very particular regarding the admissibility of witnesses.’
 
+*Uśanas* (Aparārka, pp. 670-671).—‘A slave, a blind man, a deaf man,
+women, children, very aged persons and others,—if they are not connected
+with the parties—may he witnesses in the case of crimes of violence. All
+those persons who have been declared to he incompetent witnesses may he
+admitted as witnesses according to the gravity of the case. But even so
+a child, or a single person, or a woman, or forger, or a relative or an
+enemy should not be admitted; as they would he found to depose falsely;
+the child would do it through ignorance, the woman through inherent
+untruthfulness, the forger by reason of his being a habitual wrong-doer,
+the relations through their affection, and the enemy as a means of
+revenge.’
 
-[^२७१]:
-     M G DK: nātivyāpakaṃ
+*Gautama* (13.9).—‘There can be no objection against any witness in a
+case of criminal hurt.’
 
+*Viṣṇu* (8.6).—‘In cases of theft, of violence, abuse and assault, and
+of adultery, the competence of witnesses should not be examined too
+strictly.’
 
-[^२७०]:
-     M G DK (1.259): jñātisādṛśye
+*Yājñavalkya* (2.72).—‘All persons may be witnesses in cases of
+adultery, of theft, of assault and of violent crimes.’
 
-- एकः सहस्राल् लभ्येत न सौहार्दान् न शात्रवात् ।
+*Nārada* (1.189).—‘In cases of heinous crime, or robbery, or adultery,
+or one of the two kinds of assault, he should not enquire too strictly
+into the character of the witnesses.’
 
-- नार्थसंबन्धतो वापि पुरुषो ऽनृतम् आचरेत् ॥ इति ।
-
-- असंभवे ऽन्येषां साक्षिणां स्त्रियापि कार्यम् । किम् । साक्ष्यम् इति पूर्वश्लोकाद् अनुषज्यते । **शिष्येणेति** मौखस्रौवसंबन्धप्रदर्शनार्थम्[^२७२] एतत् । **बन्धुनेति** अहार्योत्पत्तिकायौनसंबन्धप्रतिप्रसवः[^२७३] । सत्य् अपि संबन्धत्वे यो नातिप्रत्यासन्नः स गृह्यते । तेन भ्रातृव्यमातुलश्वशुर्यादयो न साक्षिणः । तथाविधे हि बन्धुशब्दो रूढः । **दासेनेति** स्वस्वामिसंबन्ध उपलक्ष्यते । न स्वाम्य् उपाध्यायो याजकश् च सर्वंविधे विषये साक्षिणः । **दासो** गर्भदासः । **भृतको** वैतनिकः[^२७४] । 
-
-
-[^२७४]:
-     M G: vaitānikaḥ
-
-
-[^२७३]:
-     M G: ahāryotpattikāyānasaṃbandha-; J: ahāryotpattikāyādisaṃbandha-
-
-
-[^२७२]:
-     J: maukhaśrauta-
-
-- span style="text-decoration-underline;">ननु</u> चासामर्थ्याद् बालादयः साक्षित्वे निरस्ताः । न ह्य् एते साक्ष्यम् अवधारयितुं शक्नुवन्ति बुद्धेर् अस्थैर्यात् परिपाकादिभिर् दोषैस् तद् आपदि प्रतिप्रसूयमानसमञ्जसम् इति, न ह्य् आपदि शक्तिर् अस्याविर्भवति । यो हि ब्रूयात् "न वा[^२७५] नवौदनः पक्तव्यः; सत्य् अग्नौ तु पक्तव्यः" इति तादृग् एतत् स्यात् । 
-
-
-[^२७५]:
-     M G DK: tena vā
-
-<u>नैष दोषः</u> । एवम् अर्थम् एवोत्तरश्लोक आरभ्यते ॥ ८.७० ॥
+*Nārada* (1.188).—‘Slaves, impostors and other incompetent witnesses
+enunciated shall nevertheless be witnesses in suits of especially grave
+character.’

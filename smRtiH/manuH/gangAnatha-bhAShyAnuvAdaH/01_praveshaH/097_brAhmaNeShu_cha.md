@@ -2,11 +2,15 @@
 title = "097 ब्राह्मणेषु च"
 
 +++
+The superiority of the learned rests on the fact that it is they alone
+that are entitled to the performance of sacrifices that lead to great
+results. Among these ‘*those with firm convictions*’—who have acquired
+firm knowledge of the essence of the Veda, and are never affected
+(adversely) by *Bauḍḍhas* and other heretics.—Among these again ‘*those
+that act up to them*’—*i.e*., the performer of actions; these persons
+doing what is enjoined and avoiding what is prohibited, are never
+attacked (by evil).—Among these, *those that know* ‘*Brahman*’; those
+that know Brahman become of the nature of Brahman, and therein lies
+imperishable bliss. (97).
 
-विदुषां श्रैष्ठ्यं महाफलेषु यागादिष्व् अधिकारात् । तेषाम् अपि **कृतबुद्धयः** । परिनिष्ठितवेदतत्त्वार्था न बौद्धादिभिः कलुषीक्रियन्ते । तेषाम् अपि **कर्तारः** कर्मणाम् अनुष्ठातारः । ते हि विहितकरणात् प्रतिषिद्धासेवनाच् च नोपहन्यन्ते । तेषाम् अपि **ब्रह्मवेदिनः**,[^१४५] ब्रह्मस्वरूपत्वात् । तत्र ह्य् अक्षय्यानन्दः ॥ १.९७ ॥
 
-
-[^१४५]:
-     M G 1st ed. omit; J brahmavādinaḥ
-
-_विद्वत्तादिगुणसंबन्धिनो ब्राह्मणस्य विशेषे दर्शिते, जातिमात्रं ब्राह्मणं कश्चिद् अवमन्येत । तन्निवृत्त्यर्थम् इदम् उच्यते ।_[^१४६]

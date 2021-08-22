@@ -2,17 +2,14 @@
 title = "288 द्रव्याणि हिंस्याद्"
 
 +++
+**(verses 8.288-289)  
+**
 
-द्रव्याणि गृहोपकरणानि शूर्पोलूखलघटस्थालीपिठरादीनि अन्यानि वानुक्तदण्डविशेषाणि[^२४९] तेषां हिंसा प्राग्रूपनाशः सत्य् अपि कार्यक्षमत्वे । **ज्ञानतो ऽज्ञानत** इति, प्रमादकृते बुद्धिपूर्वं चाविशेषेण हिंसनात्[^२५०] तस्य द्रव्यस्वामिनो जनयेत् परितोषं तद्रूपान्यदानेन मूल्येन प्रणयेन वा । **राज्ञे** तु द्रव्यमूल्यं द्रव्यं वा **दद्यात्** । अस्य क्वचिद् अपवादः[^२५१] ॥ ८.२८८ ॥
+*Arthaśāstra* (pp. 108-109).—([See under
+285](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201220.html),
+then)—‘For damaging such things as clothes, ornaments, gold-vessels, the
+first amercement and also double the value of the article damaged.’
 
-
-[^२५१]:
-     DK adds: carmacārmiketyādi
-
-
-[^२५०]:
-     M G: hiṃsata; DK: hiṃsatā
-
-
-[^२४९]:
-     M G J: gṛhopakaraṇādy anyāni vānuktadaṇḍaviśeṣāṇi śūrpolūkhalaghaṭasthālīpiṭharādīni
+*Kātyāyana* (Vivādaratnākara, p. 353).—‘If a man should damage, injure
+or destroy any articles, he should be made to pay the lowest
+amercement.’

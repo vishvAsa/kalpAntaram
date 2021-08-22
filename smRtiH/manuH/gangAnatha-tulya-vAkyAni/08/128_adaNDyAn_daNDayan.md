@@ -2,17 +2,8 @@
 title = "128 अदण्ड्यान् दण्डयन्"
 
 +++
+**(verses 8.127-128)  
+**
 
-पूर्वश्लोके ऽनुबन्धादिनिरूपणविधिविशेषः[^१५५] । अनेन त्व् अनपराधानां दण्डनं प्रतिषिध्यते सापराधानां च विधीयते । वृत्त्यर्थतां[^१५६] दण्डस्य मन्यमानो ऽनुग्रहेण मा हासीद् इति[^१५७] ॥ ८.१२८ ॥
-
-
-[^१५७]:
-     J: 'nugraheṇāhāsīd iti (ayaśaḥ); the reading here appears to have been corrupted.
-
-
-[^१५६]:
-     DK (1: 576, not 4: 1972): vṛttyarthatāṃ
-
-
-[^१५५]:
-     M G: -ādīni nirūpaṇavidhiviśeṣaḥ; DK (1: 576, not 4: 1972): ādinirūpaṇavidheḥ śeṣaḥ
+See Comparative notes for [Verse
+8.127](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201041.html#comparative-notes "English translation of verse").

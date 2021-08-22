@@ -2,5 +2,14 @@
 title = "112 दाराधिगमनञ् चैव"
 
 +++
+‘*Taking of wife*,’—the accepting of a wife in marriage;—‘*the
+definition*’—*i.e*., the means of distinguishing the exact
+character—‘*of marriages*,’—such as the ‘*Brahma*’ and the rest, which
+form the means by which the wife is taken.—‘*The great sacrifices*’—the
+five offerings of the ‘Vaiśvadeva’ and the rest.—‘*The regulations*,’
+rules, method, *relating to śrāddhas, ‘offering to the Pitṛs*.’
 
-**दाराणाम् अधिगमनं** भार्यासंग्रहः । **विवाहानां** ब्राह्मादीनां तत्प्राप्त्युपायानां च **लक्षणं** स्वरूपाधिगमने हेतुम् । **महायज्ञाः** पञ्च वैश्वदेवादयः । **श्राद्धस्य** पितृयज्ञस्य **कल्पो** विधिर् इतिकर्तव्यता । परग्रहणं शाशवतग्रहणं च वृत्तपूरणार्थम् । एष तृतीयाध्यायार्थः ॥ १.११२ ॥
+The terms ‘*para*,’ ‘*excellent*’ (in verse 111), and ‘*eternal*’ (in
+112) only serve to fill in the metre.
+
+All this forms the subject-matter of discourse III.—(112)

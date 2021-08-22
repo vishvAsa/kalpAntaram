@@ -2,21 +2,29 @@
 title = "323 पुरुषाणाङ् कुलीनानाम्"
 
 +++
+‘*Noble*,’—born of good families and possessed of learning and other
+good qualities.
 
-सत्कुले जाता विद्यादिगुणयोगिनः **कुलीनाः । नारीणां च विशेषतो** गुणरूपसौभाग्यसंपन्नानाम्[^७०] इत्य् अर्थः । **च**शब्दात् कुलीनानां इत्य् एव । परस्परापेक्षाणि नारीणां विशेषणानि । **मुख्यानि** उत्तमानि **रत्नानि** वज्रवैडूर्यमरकतप्रभृतीनि । अत्रापि सुवर्णशततुल्यानीत्य् अपेक्ष्यम् । अन्यथोत्तमत्वम् आपेक्षिकम् इति दण्डो न व्यवतिष्ठेत । **वधम् अर्हति** । अनुबन्धाद्यपेक्षया सर्वत्रार्हत्यर्थो[^७१] योजनीयः । अकुलीनानाम् अवशिष्टानाम् अमुख्यानां च "शेषे[^७२] त्व् एकादशगुणम्" (म्ध् ८.३२२) इत्य्[^७३] एव ॥ ८.३२३ ॥
+‘*Specially women*,’—snoh as are possessed of good qualities, beauty and
+grace.
+
+The particle ‘*ca*,’ ‘*and*,’ indicates that ‘*nobility*’ and the other
+qualifications are meant, as far as possible, to be applicable to both
+‘men’ and ‘women.’
+
+‘*Precious gems*,’—such as diamond, lapis-lazuli, emerald and so forth.
+
+Here also it is to be understood that the articles stolen should he
+equivalent in value to ‘a hundred of gold’; otherwise, since the
+qualification ‘precious’ is a relative term, there would be no
+definiteness in the rule prescribing the punishment.
+
+‘*Deserves immolation*’;—the exact meaning of ‘immolation’ is to be
+determined in all cases by the peculiarity of the circumstances of each
+individual case.
+
+In the case of the stealing of men and women who are not ‘noble,’ or of
+gems that are not ‘precious,’—there shall be a fine eleven times the
+value of what is stolen.—(323)
 
 
-[^७३]:
-     M G J DK: ekādaśaguṇa ity; I follow the reading of MDh 8.322 of which this is a citation.
-
-
-[^७२]:
-     M G: viśeṣe; DK: haraṇe
-
-
-[^७१]:
-     J: sarvatra vadhyartho
-
-
-[^७०]:
-     M G: -saubhāgyataḥ saṃpannānām

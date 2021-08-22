@@ -2,13 +2,38 @@
 title = "225 अकन्येति तु"
 
 +++
+‘*Not a virgin*’ —*i.e*., one who has already had sexual intercourse. If
+a man speaks of a maiden as such, but is unable to prove her guilt, he
+should he fined one hundred coins.
 
-**अकन्या** वृत्तमैथुनसंबन्धेति **यो** वदेत् तं च दोषं न भावयेत्, तदा **शतं** कार्षापणं दण्ड्यः । 
+Others have held the view that, in view of the fact that the penalty
+prescribed is too small in comparison with the serious nature of the
+defamation, the text should he taken as referring to the actual
+utterance of the exact words ‘not a virgin;’ specially as we cannot get
+over the significance of the particle ‘*iti*,’ (‘*as*’);—the sense thus
+being that the man is to be fined one hundred, only when ho actually
+defames the maiden as a ‘non-maiden.’
 
-- span style="text-decoration-underline;">अन्ये</u> मन्यन्ते ऽल्पत्वाद् दण्डस्य महत्वाच् चाक्रोशस्येति करणस्य च पदार्थविपर्यये ऽसकृत्त्वेन दर्शनाद् **अकन्येति** शब्दस्वरूपं विवक्षितम् । "अकन्येयम्" इत्य् एतेनैव शब्देनाक्रोशेत् तस्य शतं दण्डः । 
+“What difference does this make?”
 
-- span style="text-decoration-underline;">कः पुनर्</u> अत्र विसेषः । 
+The explanation is as follows:—When the man defames the maiden as a
+‘non-virgin,’ if he is asked—‘How is she a non-virgin?’—and he
+replies—‘she is immodest, cruel, and prone to using obscene
+language,—all which is not proper for virgins,’—hut cannot prove it,
+then it is that he is to be fined only one hundred,—*i.e*., when all
+that he alleges is the absence in the girl of such qualities as should
+he present in all maidens (and does not accuse her of having actually
+lost her virginity).
 
-- span style="text-decoration-underline;">उच्यते</u> । स इदंवादी पृच्छ्यते- "कथम् इयम् अकन्या" इति । स चेद् ब्रूयात् "निर्लज्जा नृशंसाश्लीलवादिनी, नैष कन्यानां धर्मः" । एतच् च न साधयेत् । तदायं दण्डः कन्यागुणनिषेध उक्ते सति । 
+Or, the term ‘virgin’ may he taken as denoting *juniority of age*; and
+the meaning of the text explained as follows:—When a man is seeking a
+certain girl in marriage, if some one should come and tell him behind
+the back of the girl’s relations—‘that girl is not a maiden, she is too
+young—or too old,’—then the guardian of the girl complains to the
+king—‘my girl is extremely handsome and this man is maligning her to the
+prospective bridegroom, because he is himself desirous of having her’;
+thereupon if the defamer is proved guilty,—as he is, when he is found to
+have made the allegations when the girl was actually of the right
+age,—then he is fined ‘one hundred.’—(225)
 
-<u>अथ वा</u> कन्याशब्दं प्रथमवयोवचनम् आश्रित्य परोक्षे प्रार्थयमानस्य ब्रूयात्- "किं तावन् नासौ कन्या अतिस्वल्पा वृद्धा वा," तत्र कन्या दत्ता यदि राजानं ज्ञापयेद् अभिरूपतमा कन्या मदीया प्रार्थ्यमानानेन तस्याम् अभिलाषः, एवम् उक्त्वाथ[^७५] पराजितः, तत्र प्राप्तकालायां यद्य् एवम् उक्तं तदा पराजितस्यायं दण्डः ॥ ८.२२५ ॥
+

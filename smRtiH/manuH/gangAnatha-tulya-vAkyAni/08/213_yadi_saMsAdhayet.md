@@ -2,13 +2,10 @@
 title = "213 यदि संसाधयेत्"
 
 +++
+*Arthaśāstra* (p. 94).—‘If a gift is made under fright,—for fear of
+punishment, or blame or calamity,—the man accepting the gift should be
+punished as a thief;—so also one who offers and accepts a gift in anger
+for the injuring of a third person.’
 
-**संसाधनं** राजनिवेदनादिना ऋणवत् प्रतिश्रुतस्य मार्गणम्, स्वीकृतस्य प्रतियाच्यमानस्य राजनिवेदणम्- "अयं मह्यं दत्वा प्रतिजिहीर्षति" इति सिद्धस्य दृढीकरणं **संसाधनम्** एतत्[^४७] । **दर्पाल् लोभेनेति** कारणानुवादः । एवं कुर्वतो दण्डः **सुवर्णं स्यात् तस्य स्तेयस्य निष्कृतिर्** इति । चौरदण्डम् आशङ्कमानः[^४८] सुवर्णं विधत्ते । अचौरशङ्कया च दत्तं किल तेन तस्मै न स्वयं हृतं कथम् अयं चौरः स्याद् इति शङ्कां निवर्तयितुं स्तेयशब्दः प्रयुक्तः । सत्य् अपि चौरत्वे वाचनिकः सुवर्णदण्डो ऽन्यासु क्रियासु चौरवद् व्यवहर्तव्यः ॥ ८.२१३ ॥
-
-
-[^४८]:
-     M G: āśaṅkamānaṃ
-
-
-[^४७]:
-     M G J: etad etat
+[(See texts under
+212.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201139.html)

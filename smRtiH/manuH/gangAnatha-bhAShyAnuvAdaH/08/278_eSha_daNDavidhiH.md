@@ -2,5 +2,13 @@
 title = "278 एष दण्डविधिः"
 
 +++
+‘*Physical assault*’—Causing suffering by physical hurt; the term
+‘*pāruṣya*’ (‘*hurt*’) has been used in the sense that ‘assault’ causes
+pain in the same manner as the thrusting of the thorn does.
 
-**दण्डपारुष्यं** दण्डेन दुःखोत्पादनम्, यथा कण्टकादेः पुरुषस्य स्पर्शः पीडाकर एवं पीडाकरत्वसामान्यात् **पारुष्य**शब्दप्रयोगः । तत्र **निर्णयो** दण्डविशेषनिर्णयः । पूर्वप्रकरणोपसंहारोपन्यासार्थः श्लोकः ॥ ८.२७८ ॥
+‘*Law*’—*i.e*., rules relating to the details of punishment.
+
+This verse serves the purpose of summing up the foregoing section and
+introducing the next.—(278)
+
+

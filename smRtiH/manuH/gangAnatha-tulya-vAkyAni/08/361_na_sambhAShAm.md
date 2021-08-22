@@ -2,7 +2,13 @@
 title = "361 न सम्भाषाम्"
 
 +++
+*Yājñavalkya* (2.285).—‘If a man converses with a woman who has been
+forbidden to do so, the woman shall be fined one hundred, and the man,
+two hundred; if both have been previously forbidden, the punishment for
+conversing shall be the same as in adultery.’
 
-<u>केचिद्</u> भिक्षुकादीनां निवारितानां संभाषणे दण्डो ऽयम् इति मन्यन्ते । 
-
-<u>तद् असत्</u> । नैव ते निवार्या इत्य् उक्तम् । कुतश् च भिक्षुकाणां सुवर्णो दण्डः । तस्मात् को ऽपि प्रकाशम् अनाक्षारितो ऽपि कथंचिन् निषिद्धः स्वामिना[^२३५] समाचरन् सुवर्णं दण्ड्यः ॥ ८.३६१ ॥
+*Matsyapurāṇa* (Aparārka, p. 856).—‘A mendicant male or female, a
+player,—if these enter the residence of women, after being forbidden,
+they shall be fined two hundred; and the man who may have admitted them,
+or who affords them the opportunity for entering, shall be punished like
+an adulterer.’

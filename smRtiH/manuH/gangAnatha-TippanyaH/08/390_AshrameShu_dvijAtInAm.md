@@ -2,13 +2,12 @@
 title = "390 आश्रमेषु द्विजातीनाम्"
 
 +++
+‘*Āśrameṣu*’—‘The hermitages of Vānaprasthas and other hermits living in
+the forest’ (Medhātithi);—‘the Householder’s and other life-stages’
+(Kullūka).
 
-[^३१८]वानप्रस्थादीनाम् अरण्याश्रमवासिनाम् **आश्रमेषु** **कार्यं** धर्मं संकटरूपम् — "अयं शास्त्रार्थः", "नायम्" — इति इतरेतरं विवदमानानां[^३१९] न धर्मव्यवस्थां सहसा **विब्रूयात्** प्रभुतया निर्णयम् अन्येषाम् इव न कुर्यात् । कथं तर्हि । वक्ष्यमाणेन प्रकारेण । एवम् **आत्मने हितं** कृतं भवति । शास्त्रार्थत्यागो न भवतीत्य् अर्थः । गृहस्थानाम् चाश्रमित्वे ऽपि यथोक्त एव निर्णयप्रकारः । **कार्यं** धमसंशयात्मकविवादपदम् । **आश्रम**ग्रहणाच् च विशिष्टविष्यता व्याख्यायते ॥ ८.३९० ॥
-
-
-[^३१९]:
-     M G: vivadamānāṃ
-
-
-[^३१८]:
-     DK (1: 1926) does not give the commentary on this verse
+This verse is quoted in *Vyavahāramayūkha* (p. 4);—in *Vīramitrodaya*
+(Vyavahāra, 10a), which explains ‘*āśrameṣu kārye*’ as ‘business arising
+out of the life-stages’;—and in *Kṛtyakalpataru* (10a), which explains
+‘*āśrameṣu*’ as ‘in the matter of the life-stages’,—and ‘*na vibrūyāt*,’
+as ‘should not apportion victory and defeat.’

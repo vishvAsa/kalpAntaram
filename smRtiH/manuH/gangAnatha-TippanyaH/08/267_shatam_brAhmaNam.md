@@ -2,49 +2,23 @@
 title = "267 शतम् ब्राह्मणम्"
 
 +++
+This verse is quoted in *Aparārka* (p. 808), which adds that ‘*vadha*’
+here means ‘cutting off the tongue’;—in *Parāśaramadhava* (Vyavahāra, p.
+295);—in *Mitākṣarā*, (2.207),.where *Bālambhaṭṭī* adds the following
+notes:—‘*Adhyardha*,’ 150,—whether it should be 150 or 200 in any
+particular case is to depend upon the lightness or gravity of the
+offence,—‘*vadha*,’ beating and so forth.
 
-परुषवचनम् **आक्रोशः** । स च बहुधा- नृशंसाश्लीलभाषणान् मर्मणि तोदः,[^१८७] अभिशापः अकरणम् "हन्त[^१८८] वृषलो भूयाः[^१८९]", असता[^१९०] दुःखोत्पादनम्[^१९१] "कन्या ते गर्भ्णी" इति, पातकोपपातकैर् योजनम्[^१९२] इति । तत्र द्वयोर् ब्राह्मणाक्रोशे[^१९३] क्षत्रियवैश्ययोर्[^१९४] अयं दण्डः । अन्यत्र "पतनीये कृते क्षेपे दण्डो मध्यमसाहसः" (य्ध् २.२१४) इत्यादि स्मृत्यन्तरोक्तः । शूद्रस्य[^१९५] वधः ताडनजिह्वाछेदनमारणादिरूपः[^१९६] आक्रोशभेदाद् वेदितव्यः[^१९७] ॥ ८.२६७ ॥
+It is quoted in *Vivādaratnākara* (p. 250), which adds the following
+notes:—‘*Ākruśya*’ stands for the ‘middle’ kind of defamation—says
+*Pārijāta*;—‘*adhyardham śatam*’, 150,—‘*dve vā*’, this alternative is
+prescribed in view of the comparative gravity of the
+defamation;—‘*vadha*’, beating, cutting off of the tongue and so forth.
 
-
-[^१९७]:
-     M G: ākrośabhedā veditavyāḥ
-
-
-[^१९६]:
-     M G: vadhatāḍane jihvāchedanamāraṇādi sarva
-
-
-[^१९५]:
-     M G: tasya; DK: tasya śūdrasya ca
-
-
-[^१९४]:
-     M G: kṣatriyāvaiśyayor
-
-
-[^१९३]:
-     M G J: brāhmaṇakrośe
+It is quoted’ in *Vyavahāramayūkha* (p. 99);—and in *Nṛsiṃhaprasāda*
+(Vyavahāra, 44b);—in *Vivādacintāmaṇi* (Calcutta, p. 70), which explains
+‘*adhyardham*’ as ‘one and a half’, and ‘*vadha*’ as ‘beating’, and says
+that the punishment, in the case of the Vaiśya and the Śūdra also, is
+for defamation;—and in *Vīramitrodaya* (Vyavahāra, 149a).
 
 
-[^१९२]:
-     M G J: yājanam
-
-
-[^१९१]:
-     J: upanyasanaṃ
-
-
-[^१९०]:
-     M G: asatāṃ; J: asata
-
-
-[^१८९]:
-     M G J: vṛṣalabhūyāḥ
-
-
-[^१८८]:
-     M G J: akaraṇahantā
-
-
-[^१८७]:
-     M G: nṛśaṃsāślīlabhāṣaṇaṃ tena bhaṇito yo

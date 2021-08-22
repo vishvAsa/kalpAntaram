@@ -2,9 +2,19 @@
 title = "235 अजाविके तु"
 
 +++
+‘*Goats and Sheep*,’—‘Sheep’ also includes the wild goat.
 
-अजा चाविका च **अजाविके** । अविर् एवाविकैडका । एते **वृकैः** शृगालप्रभृतिभिः **संरुद्धे** अवष्टब्धे, न[^१०४] प्रथमपात एव हते । अस्मिंश् चान्तरे सत्य् आमोक्षणे ऽहतत्वात्, न च पाल आयाति मोक्षयितुम्, **अनायत्य्** अनागच्छति **पाले** यत् तत्र **प्रसह्य** बलेनाभिभूय **वृको हन्यात्** पालस्य स दोषः । स्वामिनो दापयितव्यः । प्रायश्चित्तं चरेत् । गोर् महत्त्वाद् गोमायुना न शक्यते संरोद्धुम् इत्य् **अजाविके** इत्य् उच्यते, न पुनस् तद्रूपम् । अतश् च बालानां गोवत्सानाम् एष एव न्यायः ॥ ८.२३५ ॥
+When these have been ‘*surrounded* *by* *wolves*’—jackals and the
+rest—and they are not killed outright at the very first onset,—so that
+there is time to come forward and rescue the animals,—and yet ‘*the
+keeper does not come forward*’—to rescue them; under such circumstances,
+if the wolf should ‘*forcibly kill any*,’— the blame lies with the
+keeper. That is, he should he made to make it good to the owner, and
+also perform an expiatory rite.
+
+Cows are large animals, and hence cannot he ‘surrounded’ by jackals,
+etc.; hence the present verse has specified ‘*goals and sheep*’; it does
+not follow that the rule applies to these animals only; so that this
+same rule applies to the case of young calves also.—(235)
 
 
-[^१०४]:
-     M G omit: na

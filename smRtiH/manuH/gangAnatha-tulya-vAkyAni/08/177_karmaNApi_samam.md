@@ -2,13 +2,14 @@
 title = "177 कर्मणापि समम्"
 
 +++
+*Bṛhaspati* (11.59).—‘An indigent debtor may be taken by the creditor to
+his own house and compelled to work there, such as distilling spirits
+and the like; but a Brāhmaṇa should be made to pay gradually.’
 
-For verse 177, G gives the following which is NSm 1.112: अथ शक्तिविहीहः स्यात् ऋणी कालविपर्ययात् । प्रेक्ष्यश् च तम् ऋणं दाप्यः काले देशे यथोदयम् ॥ ८।१७७ ॥ And then gives the following commentary: यद्य् अधमर्णो दैवदोषान् निर्धनीभूतस् तदा न दुर्गादानादिना राज्ञोपपीडयितव्यः । किं तर्हि कर्तव्यं यदास्य कथंचिद् धनं भवेत् तदा यथासंभवं शनैर् दापयितव्यः । प्रेक्ष्य शक्तिं धनवृत्तां युज्यत इत्य् अर्थः । दाप्यः उचितस्य वक्ष्यति "कर्मणापि समः कुर्यात्" इति । तस्मात् कारणपरिवृत्तौ यद् एवोक्तम् अस्माभिस् तदैव प्रयोजनम् ॥ ८।१७७ ॥
+*Nārada* (1.132).—“If a wealthy debtor, from malice, refuses to pay his
+debt, the King shall compel him to pay it by forcible means, and shall
+take five in the hundred for himself.’
 
-निर्धनो ऽधमर्णो निर्धनत्वान् न मुच्यते । किं तर्हि, कर्म कारयितव्यः । प्रेष्यत्वं व्रजेत् । यावता धनेन तत् कर्म कर्मकरः करोति, तत् तस्य प्रविष्टं संपद्य्[^५४८] अपि कर्तव्यम् ।
-
-
-[^५४८]:
-M J: saṃsady
-
-कर्म कुर्वतश् च सलाभधने प्रविष्टे दास्यान् मोक्षः । **समं कुर्यात्**, उत्तमर्णेन । अनन्तरं[^५४९] शुद्धे धने नोत्तमाधमव्यवहारः । इतरथैक उत्तमर्णो ऽपरो ऽधमर्ण[^५५०] एतच् च कार्यते । ब्राह्मणवर्णः[^५५१] **समः**, समानजातीयः, **अवकृष्टजातिर्** हीनजतीयः । **श्रेयांस्** **तू**त्तमजातीयो गुणाधिको वा । **शनैः** क्रमेण यथोत्पादं दद्यात् । नारदे पठ्यते- "ब्राह्मणस् तु परिक्षीणो शनैर् दद्याद् यथोदयम्[^५५२]" (न्स्म् २.४३) इति । अतो राज्ञा धनिकधनसंशुद्ध्यर्थं परिक्षीणो ब्राह्मणो न पीडयितव्यः, उत्तमर्णश् च रक्षणीयः ॥ ८.१७७ ॥
+*Yājñavalkya* (2.43)—‘If the debtor of a lower caste is too indigent to
+pay, the creditor shall make him do work; but an indigent Brāhmaṇa
+should he made to pay gradually, as he obtains the means to pay.’

@@ -2,9 +2,8 @@
 title = "136 ते षोडश"
 
 +++
+**(verses 8.131-137)  
+**
 
-**षोडश**रूप्यमाषका रूप्यस्य **धरणं** भवति । **पुराण** इति संज्ञान्तरम् । **कार्षापणः** पण इति च द्वे संज्ञे ताम्रकर्षस्य । कर्षाख्यश् च शब्दो लोकत एव प्रसिद्धार्थ इह गृह्यते व्यभिचारदर्शनासत्त्ववचनेन[^१७५] न कृष्णलादिवत् परिभाष्यते ॥ ८.१३६ ॥
-
-
-[^१७५]:
-     J: -darśanāsattvena
+See Comparative notes for [Verse
+8.131](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201046.html#comparative-notes "English translation of verse").

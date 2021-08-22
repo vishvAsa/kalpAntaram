@@ -2,13 +2,17 @@
 title = "412 दास्यन् तु"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 153), which has the
+following notes:—‘*Prabhāvatvāt*’ (which is its reading for
+‘*Prābhavatyāt*’), on account of being powerful,—‘*saṃskṛtān*,’ endowed
+with character and learning if a Brāhmaṇa employs such twice-born men in
+work unsuitable for them he should be fined 600 by the king.
 
-**संस्कृता** उपनीताः । यद्य् अपि द्विजग्रहणाद् एवैतल् लभ्यते तथापि त्रैवर्णिकजात्युपलक्षणार्थं न विज्ञायीति । यो **ब्राह्मणः** समानजातीयान् दास्यं पादधावनोच्छिष्टावकरणसंमार्जनादिरूपम्[^३९१] **अनिच्छतः** । प्रभवतो भावः[^३९२] **प्राभवत्यं** प्रभुत्वम् । शक्यातिशययोगतो बलादिना यः कारयति **स षट्शतानि दण्ड्यः** । **लोभाद्** एतत् । द्वेषादिभिस् त्व् अधिको दण्ड्यः । शत्रन्तस्य भवतेर् भावप्रत्यये प्राभवत्याद् इति रूपम् । प्रभुत्वेनेति वचनाद् गुरोर् न दोषः । **अनिच्छत** इति वचनाद् इच्छताम् अन्यो दण्डः ॥ ८.४१२ ॥
+It is quoted in *Aparārka* (p. 789), which explains ‘*prābhavatya*,’ as
+‘*prabhavato bhāvaḥ*,’ *being powerful*;—600 *paṇas* are meant;—and in
+*Vīramitrodaya* (Vyavahāra, 126a), which explains ‘*prābhavatyāt*’ as
+‘*prabhutvāt*’, and adds that the mention of ‘*dvijāti*’ makes it clear
+that the penalty here prescribed does not refer to the case of *Śūdra*
+-slaves.
 
 
-[^३९२]:
-     M G J: vācaḥ
-
-
-[^३९१]:
-     M G: -karaṇasaṃmārjanādikaṃ rūpam

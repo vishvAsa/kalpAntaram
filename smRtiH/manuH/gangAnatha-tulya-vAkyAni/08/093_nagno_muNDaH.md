@@ -2,5 +2,7 @@
 title = "093 नग्नो मुण्डः"
 
 +++
+**(verses 8.89-97)**
 
-कपालं शरावादिपात्रैकदेशः सुबोधम् ॥ ८.९३ ॥
+\[See the texts under [79 *et
+seq*.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "Comparative notes of verse 8.79")\]

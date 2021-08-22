@@ -2,9 +2,10 @@
 title = "320 धान्यन् दशभ्यः"
 
 +++
+*Viṣṇu* (5.12).—‘Those who steal more than 10 *kumbhas* of grain, should
+be put to death.’
 
-**कुम्भ**शब्दः परिमाणविशेषे वर्तते न घटमात्रे । क्वचिद् विंशतिप्रस्थान् क्वचिद् द्वाविंशतिर् इति देशभेदाद् व्यवस्था । **दशभ्यो ऽधिकं हरतो** वधविधिर् उक्तार्थो ऽनुबन्धादिना नियम्यते । **शेषेषु** दशसु प्राकृत एकादशगुणो दण्डः । तत् **तस्य**[^५९] **च तद् धनम्** इति सर्वत्र स्तेये योज्यम् । **धान्यं** व्रीहियवादिसप्तदशानीति स्मर्यते ॥ ८.३२० ॥
-
-
-[^५९]:
-     M G: tat tasya
+*Nārada* (Theft: 26).—‘Corporal punishment or death shall he inflicted
+on him who steals more than 10 *kumbhas* of grain; when the quantity is
+less, he shall be made to pay eleven times the value—thus has Manu
+ordained.’

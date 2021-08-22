@@ -2,5 +2,15 @@
 title = "276 ब्राह्मण-क्षत्रियाभ्यान् तु"
 
 +++
+The construction of this passage is elliptical:—‘In the case of mutual
+abuse between the Brāhmaṇa and the Kṣatriya, this shall be the
+punishment.’
 
-**ब्राह्मणक्षत्रियाभ्यां** परस्पराक्रोशे कृते तयोर् अयं **दण्ड** इत्य् एवम् अध्याहारेण योजना । तादर्थ्ये चतुर्थी वा । तद्विनयाय दण्डः कर्तव्यः । पातकस्याक्रोशे कृते ऽयं दण्डो दुःखोत्पादनरूपे ॥ ८.२७६ ॥
+Or, the Dative (in ‘*brāhmāṇakṣatriyābhyāṃ*’) may be taken as denoting
+*purpose*; the sense being—‘for the purpose of keeping in check the
+Brāhmaṇa and the Kṣatriya.’
+
+The punishment here prescribed is to be inflicted when some grievous
+offence is attributed, and causes pain—(276)
+
+

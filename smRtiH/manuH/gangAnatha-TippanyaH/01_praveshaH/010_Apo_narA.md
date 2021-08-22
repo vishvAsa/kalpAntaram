@@ -2,21 +2,18 @@
 title = "010 आपो नरा"
 
 +++
+*Āpo nārā* &c.—This explanation of the name ‘Nārayaṇa’ is found in
+[Viṣṇu Puraṇa
+I](/hinduism/book/the-viśnu-purana-2/d/doc115935.html "English translation by Horace Hayman Wilson"),
+and also in the [Mahābhārata,
+3.189.3](/hinduism/book/the-mahabharata-third-book/d/doc7469.html "English translation by Kriśna-Dwaipayana Vyasa").
 
-यः कुत्रचिन् नारायणशब्देन कर्तृज्ञातृशक्त्यतिशययोगेन जगत्कारणपुरुषतयागमेष्व् आम्नातः, सो ऽयम् एव । न शब्दभेदाद् अर्थभेदः । ब्रह्मा नारायणो महेश्वर इत्य् एक एवार्थो नोपासनाकर्मतया भिद्यते । तथा च द्वादशे दर्शयिष्यामः । तथा चैतत् तथोच्यते । **आपो नारा** इत्य् अनेन शब्देन प्रोक्ताः । <u>ननु</u> नायं वृद्धव्यवहारो ऽथ च न तथा प्रसिद्धो ऽत आह **आपो वै नरसूनवः** । स तावद्[^२९] भगवान् नरः पुरुष इति प्रसिद्धः । आपश् च तस्य सूनवो ऽपत्यानि । अतस् ता नरशब्देनोच्यन्ते । दृष्टो हि पितृशब्दो ऽपत्ये वसिष्ठस्यापत्यानि वसिष्ट्ःआ भृगोर् अपत्यानि[^३०] भृगवस् तथा[^३१] बभ्रुमण्डुलोमक इत्य्[^३२] अभेदोपचारेण ता आपो नरशब्दवाच्याः । **यत्** येन प्रकारेण **अस्य** प्रजापतेः पूर्वम् अयनं प्रथमसर्ग आश्रयो वा गर्भस्थस्य, **तेन** हेतुना **नारायणः स्मृतः** । नरा अयनम् अस्येति नरायण इति प्राप्ते "अन्येषम् अपि दृश्यते" (पाण् ६.३.१३७) इति दीर्घः । "पुरुष इति" यथा । अथ वा सामूहिको ऽण् ॥ १.१० ॥
+It is curious that Medhātithi reads ‘*narāḥ*’ (instead of ‘*nārāḥ*’) and
+adds a somewhat forced explanation of the elongation of the initial
+vowel in ‘nā’.
+
+*Medhātithi* P. 12, l. 6—*Babhrumaṇḍuloniakāḥ*—These apparently are
+three other proper names—‘Babhru’, ‘Maṇḍu’ and ‘Lomaka’,—which stand on
+the same footing as ‘Vaśiṣṭha.’
 
 
-[^३२]:
-     J: ityādy
-
-
-[^३१]:
-     M: bhagavatastā
-
-
-[^३०]:
-     M G: omit: bhṛgor apatyāni
-
-
-[^२९]:
-     M G 1st ed.: bhaved

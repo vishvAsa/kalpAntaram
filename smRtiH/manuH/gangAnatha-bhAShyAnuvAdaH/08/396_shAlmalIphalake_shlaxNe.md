@@ -2,25 +2,31 @@
 title = "396 शाल्मलीफलके श्लक्ष्णे"
 
 +++
+the ‘*cotton tree*’ is a kind of tree; the board should be made out of
+this tree; because its wood is naturally soft and ‘*smooth*,’ so th.it
+when the clothes are beaten upon it, their component parts do not become
+torn.
 
-**शाल्मली** नाम वृक्षस् तद्विकारे **फलके** । स हि प्रकृत्यैव शल्क्ष्णो[^३३६] भवति । न च वाससो ऽपि पातैर् अवयवा अस्य च्यवन्ते । ते हि च्युता वासः पाटयेयुः । न चायं जातिनियमो ऽदृष्टाय[^३३७] । तेनान्यद्[^३३८] अपि यत् काष्ठम् एवंस्वभावं तत्फलके न दोषः । **श्लक्ष्णे** ऽपरुषे च । **वासांस्य्** अन्यदीयान्य् अन्यदीयैर् **वासोभिर् न निर्हरेत्** । बद्ध्वोपरिवेष्ट्य तीर्थे प्रक्षालयितुं न नयेत् । बन्धनाद् वाससां विनाशो मा भूत् । अधिकं हि तानि पीडितानि भवन्ति । **न च वासयेत्** । अन्यदीयानि वासांस्य् अन्यस्मै न प्रयच्छेत्,[^३३९] मूल्येन[^३४०] वसनार्थं न दद्यात् । एतद् धि वासनम्- वस्ते ऽपरः, तं रजको वासयति । अश्रुतत्वाद् दण्डस्य प्रकृतमाषकयोजना कर्तव्या ॥ ८.३९६ ॥
+‘*Gently*’—so that the clothes being beaten do not become torn.
+
+The injunction regarding the particular wood is not with a view to any
+transcendental result; hence there would be nothing wrong in using any
+other wood, if it satisfied the said conditions.
+
+‘*Smooth*’—not rough.
+
+‘*Clothes*’—belonging to one man,—he shall not ‘*carry*’— tie up and
+carry to the washing place—‘*in other clothes*’—belonging to another
+person; so that the clothes may not be torn by the tying, in which they
+undergo a great strain.
+
+‘*Nor shall he allow them to be worn*’;—he shall not give over, for a
+consideration, to one man the clothes belonging to another, for wearing.
+This is what is meant by ‘allowing to wear’; the other man does the
+*wearing*, and it is the washerman that *allows* him to do it.
+
+Since no penalty has been laid down in this connoction, we have to take
+it as consisting of the ‘*māṣa* of gold’ which has been laid down
+before.—(396)
 
 
-[^३४०]:
-     M G DK omit: mūlyena
-
-
-[^३३९]:
-     M G: anyasmai prayacchan
-
-
-[^३३८]:
-     M G: yenānyad
-
-
-[^३३७]:
-     M G: dṛṣṭo
-
-
-[^३३६]:
-     M G DK (1: 1709): dṛḍho

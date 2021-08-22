@@ -2,13 +2,27 @@
 title = "299 भार्या पुत्रश्"
 
 +++
+**(verses 8.299-301)  
+**
 
-प्राप्ता अपराधं **प्राप्तापराधाः** । अपराधो व्यतिक्रमः नीतिभ्रंशः । स यदा तैः कृतो भवति तदा ताडयितव्याः । ताडनम् अपि हिंसेत्य् उक्तम् । सा च "न हिंश्याद् भूतानि" इति प्रतिषिद्धा, अपराधे निमित्ते भार्यादीनां प्रतिप्रसूयते । संबन्धिशब्दाश् चैते । या[^२८२] यस्य **भार्या** यश् च यस्य **दासः** स तेनानुशासनीयः । मार्गस्थापनोपायविधिपरश् चायम्, न ताडनविधिर् एव । तेन वाग्दण्डाद्य् अपि कर्तव्यम् । अपरादानुरूपेण कदाचित् ताडनम् । **सोदर**स्थाने कनीयान् पठितव्यः- **भ्राता** **तथानुजः** । स हि ज्येष्ठस्य पुत्रवत् ताडनार्हः । वैमात्रेयो ऽपि चेद् अपितृको गुणवज्ज्येष्टतन्त्रश् च । सो ऽप्य् उन्मार्गगमी ताडनादिपर्यन्तैर् उपायैर् निवारणीयः । **वेणुदलं** वंशत्वक् । एतद् अप्य् उपलक्षणम्- तथाविधानां मृदुपीडासाधनानां शिफादीनाम्[^२८३] ॥ ८.२९९ ॥
+*Gautama* (2.42-44).—‘As a rule, a pupil shall not be punished
+corporally,—if no other course is possible, he may be corrected with a
+thin rope or a thin cane; if the teacher strikes him with any other
+thing, he should be punished by the King.’
 
+*Āpastamba* (1.8.28-29).—‘If the pupil commits faults, the teacher shall
+always reprove him;—frightening, fasting, bathing in cold water and
+expulsion from the teacher’s presence are the punishments to be
+employed, according to the seriousness of the fault, until the pupil
+leaves off the mischief.’
 
-[^२८३]:
-     M G: śiṣyādīnām
+*Yama* (Vivādaratnākara, p. 2.).—‘Wife, son, slave, slave-girl and
+pupil,—when these commit a fault, they should be chastised with a rope
+or with split bamboo; but in the lower, never in the higher, parts of
+the body:—if one strikes them otherwise, he should be punished.’
 
-
-[^२८२]:
-     M G DK (1: 1812) omit: yā
+*Nārada* (*Do*.).—‘If the pupil docs not obey the teacher, he should be
+chastised, without hurting him, either with a thin rope or with split
+bamboo; the teacher shall not beat him much, nor in the head or on the
+chest. Behaving otherwise than this, the teacher should be punished by
+the King.’

@@ -2,11 +2,17 @@
 title = "253 यदि स्ंशय"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 205), which adds the
+following notes:—‘*Grameyaka*’ are ‘village-residents,’—their ‘*kula*’
+means ‘crowd’,—*vivādinaḥ*’, ‘of the disputants’, is to be construed
+with ‘*samakṣam*’, ‘in the presence of.’
 
-कथं पुनर् लिङ्गेषु सत्सु संशयः । यानि तावत् प्रच्छन्नानि तानि यदि केनचित् कथंचिद् आगम्य प्रच्छन्नम् अन्यत्र नीयेरन् नैव निश्चयः स्यात् । ये ऽपि प्रकाशा[^१५७] न्यग्रोधादयस् ते ऽपि न सीमायाम् एव रोहन्त्य् अन्यत्रापि जायन्ते ततः संदेह आभासत्वात् । यत्र पुनर् इयं संभावना नास्ति तत्र प्रमाणम् एव लिङ्गानि । 
+It is quoted in *Mitākṣarā* (2.151) to the effect that the witnesses and
+*Sāmantas* should be put on oath and then questioned regarding the
+boundary, in the presence of corporations, guilds and so forth.
+*Balambhaṭṭī* has the following notes:—‘*Grameyakāḥ*’ are the residents
+of the villages,—their ‘*kula*’ are *crowds*; or ‘*kula*’ may be taken
+as standing for guilds and corporations &c.,—‘*Sīmāni*,’ ‘in regard to
+the boundary.’
 
 
-[^१५७]:
-     M G DK: prakāśyā
-
-**साक्षिप्रत्ययः** साक्षिहेतुकः । साक्षिणः प्रत्ययो यत्रेति । **विनिश्चयः** तत्त्वाधिगमः । संशयितलिङ्गे अलिङ्गे वा सीमाविवादे साक्षिहेतुको निर्णय इति तात्पर्यम् ॥ ८.२५३ ॥

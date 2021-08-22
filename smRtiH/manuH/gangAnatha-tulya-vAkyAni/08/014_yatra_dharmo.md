@@ -2,17 +2,10 @@
 title = "014 यत्र धर्मो"
 
 +++
+*Nārada* (3.89).—‘Where justice hit by injustice enters a Court, and the
+members do not extract the dart from the wounds, they are hit by it
+themselves. Where justice is slain by injustice, and truth by falsehood,
+the members of the Court who look on with indifference, become doomed to
+destruction.’
 
-**धर्मः**[^९४] शास्त्रन्यायदेशनियता व्यवस्था । सा चेद् **अधर्मेण**[^९५] तद्व्यतिक्रमरूपेण **हन्यते** विनाश्यते ऽर्थिना प्रत्यर्थिना । तथा **सत्यम् अनृतेन** साक्षिभिर् हन्यते । प्राड्विवाकादयश् च **प्रेक्षन्ते** न तत्त्वम् उद्धरन्ति, ततस् ते **हताः** शवतुल्या भवन्तीति निन्द्यते । तस्मान् नार्थिप्रत्यर्थिनौ विपरीतम् आचरन्तौ सभासद्भिर् उपेक्ष्यौ, साक्षिणश् च । धर्माधर्मग्रहणेन सत्यानृतग्रहणेन वा सिद्धौ,[^९६] श्लोकपूरणम् उभयोर् उपादानम् । अतो विषयभेदेन व्याख्यातम् ॥ ८.१४ ॥
-
-
-[^९६]:
-     M G J: siddhaṃ; I follow DK (1:35)
-
-
-[^९५]:
-     M G: vedadharmeṇa
-
-
-[^९४]:
-     M G: dharma-
+*Kātyāyana* (Aparārka, p. 604).—(Same as Nārada.)

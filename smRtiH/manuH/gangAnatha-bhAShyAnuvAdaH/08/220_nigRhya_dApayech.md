@@ -2,19 +2,41 @@
 title = "220 निगृह्य दापयेच्"
 
 +++
+‘*Having caught him*,’ *i.e*., detected and put him under restraint—tho
+king should punish him, without giving him any time.
 
-**निगृह्य** अवष्टभ्य पीडयित्वा काललाभम् अकारयित्वा दण्ड्यः । चत्वारि सुवर्णानि येषां निष्काणां परिमाणं ते **चतुःसुवर्णा निष्काः** । यद्य् अपि "चतुःसुवर्णिको निष्कः" (म्ध् ८.१३७) इत्य् अत्रोक्तम्, तथापि शास्त्रान्तरात् "साष्टं[^६१] शतं सुवर्णानां निष्कम् आहुर् महाधियः" इत्य् एवमादिपरिमाणान्तरं पश्यन्[^६२] विशिनष्टि । संज्ञाकारणसामर्थ्याद् एव लभ्यत इति चेत्, पद्यग्रन्थत्वान् न दोषः । 
+*The* ‘*niṣka of four suvarṇas each*’—is that which is made up of four
+‘*suvarṇas*.’
+
+Though under 8.317, the ‘*niṣka*’ has been defined as a measure
+consisting of four ‘suvarṇas,’ yet the qualification is added here in
+view of other definitions of the ‘*niṣka*’ found in other Smṛtis—*e.g*.,
+one of them describes it as consisting of ‘a hundred *suvarṇas*.’
+
+It might be argued that, in as much as the author himself has applied
+the name ‘*niṣka*’ to four ‘*suvarṇas*’ only, the mere mention of the
+name in the present text would be enough to show what is meant.
+
+But, since the work is a metrical treatise, the presence of a
+superfluous epithet cannot be regarded as a defect.
+
+Others have taken the term ‘*catuḥsuvarṇa*’ as a Bahuvrīhi compound,
+having the collective force, and hence explained the verse as
+prescribing *three fines*; the meaning being that the fine is to consist
+of ‘*four suvarṇas*,’ and ‘*six niṣkas*’; so that *ten niṣkas* come to
+be indicated.
+
+But for the purpose of making the compound a *Bahuvrīhi*, it would be
+necessary to fasten the sense of *possession* on to that of
+*association*. For mere *association* with ‘variegated cows’ does not
+make Devadatta a ‘*Citraguḥ*’ (which is a Bahuvrīhi compound meaning
+*possessing variegated cows*).
+
+If the fines are to be taken as *three* distinct ones, then the only
+construction possible is to take the three as constituting a single
+penalty.
+
+The penalty hero prescribed is alternative to ‘banishment’ (prescribed
+in the preceding verse).—(220)
 
 
-[^६२]:
-     M G: paśyet
-
-
-[^६१]:
-     M G: śābdaṃ
-
-- span style="text-decoration-underline;">अन्ये</u> तु महार्थे बहुव्रीहिं कृत्वा त्रीन् दण्डान् आहुः । चतुर्भिः सुवर्णैः सह षण्णिष्कान् दण्डनीयः । दश निष्काः प्रतिपादिता भवन्ति । 
-
-- span style="text-decoration-underline;">बहुव्रीहिसिद्ध्यर्थं</u> सहार्थे कथंचिन् मत्वर्थो योजितव्यः । न हि चित्राभिर् गोभिः सहितश् चित्रगुर् देवदत्त इति भवति । एते च त्रयो दण्डा यदि च त्रिभिर् एक इति कार्यापेक्षया योजनम् । 
-
-निर्वासनदण्डेन[^६३] विकल्पते दण्डो ऽयम् ॥ ८.२२० ॥

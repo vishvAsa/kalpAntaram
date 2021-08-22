@@ -2,13 +2,7 @@
 title = "095 अन्धो मत्स्यान्"
 
 +++
+**(verses 8.89-97)**
 
-**अर्थवैकल्यं** सत्याद् अपेतं **भाषते** । यथा कण्टका अशिता[^३२१] भक्षिता जनयन्ति न तादृशीं मत्स्याः प्रीतिं जनयन्ति । यदा धनलोभेन काचित् प्रीतिमात्रा भवति तथापि महादुःखं[^३२२] भवतीति सकण्टकमत्याशनोपमा ॥ ८.९५ ॥
-
-
-[^३२२]:
-     M G: mohaduḥkhaṃ
-
-
-[^३२१]:
-     M G: asitā
+\[See the texts under [79 *et
+seq*.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "Comparative notes of verse 8.79")\]

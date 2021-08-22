@@ -3,12 +3,4 @@ title = "089 प्रजानां रक्षणम्"
 
 +++
 
-
-[^१४१]:
-     J: samādiśat
-
-विषया अभिलाषजनका[^१४२] गीतशब्दादयो भावा उच्यन्ते । तत्राप्रसङ्गः पुनः पुनर् असेवनम् ॥ १.८९ ॥
-
-
-[^१४२]:
-     M G J: viṣayābhilāṣajanakā (I follow DK 5: 1154)
+For the Kṣatriya he ordained protecting of the people, giving of gifts, sacrificing and studying, as also abstaining prom being addicted to the objects of sense. (89).

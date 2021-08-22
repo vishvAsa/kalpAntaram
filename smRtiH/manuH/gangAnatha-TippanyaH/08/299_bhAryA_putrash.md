@@ -2,13 +2,17 @@
 title = "299 भार्या पुत्रश्"
 
 +++
+[*Cf*.
+4.164.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200269.html)
 
-प्राप्ता अपराधं **प्राप्तापराधाः** । अपराधो व्यतिक्रमः नीतिभ्रंशः । स यदा तैः कृतो भवति तदा ताडयितव्याः । ताडनम् अपि हिंसेत्य् उक्तम् । सा च "न हिंश्याद् भूतानि" इति प्रतिषिद्धा, अपराधे निमित्ते भार्यादीनां प्रतिप्रसूयते । संबन्धिशब्दाश् चैते । या[^२८२] यस्य **भार्या** यश् च यस्य **दासः** स तेनानुशासनीयः । मार्गस्थापनोपायविधिपरश् चायम्, न ताडनविधिर् एव । तेन वाग्दण्डाद्य् अपि कर्तव्यम् । अपरादानुरूपेण कदाचित् ताडनम् । **सोदर**स्थाने कनीयान् पठितव्यः- **भ्राता** **तथानुजः** । स हि ज्येष्ठस्य पुत्रवत् ताडनार्हः । वैमात्रेयो ऽपि चेद् अपितृको गुणवज्ज्येष्टतन्त्रश् च । सो ऽप्य् उन्मार्गगमी ताडनादिपर्यन्तैर् उपायैर् निवारणीयः । **वेणुदलं** वंशत्वक् । एतद् अप्य् उपलक्षणम्- तथाविधानां मृदुपीडासाधनानां शिफादीनाम्[^२८३] ॥ ८.२९९ ॥
+This verse is quoted in *Vivādaratnākara* (p. 271), which explains that
+the *younger* ‘brother’ is meant;—in *Vīramitrodaya* (Saṃskāra, p.
+514);—in *Aparārka* (p. 610, and also p. 817);—in
+*Vyavahāra-Bālambhaṭṭī* (pp. 572 and 919);—in *Saṃskāramayūkha* (p.
+52);—in *Samskāraratnamālā* (p. 314), which says that the specific
+mention of the ‘uterine’ brother indicates that the half-brother shall
+not be beaten;—and in *Smṛticandrikā* (Saṃskāra, p. 142), which says
+that this beating should be done only when the boy proves intractable to
+chiding and other means;—and in *Vivādacintāmaṇi* (Calcutta, p. 76).
 
 
-[^२८३]:
-     M G: śiṣyādīnām
-
-
-[^२८२]:
-     M G DK (1: 1812) omit: yā

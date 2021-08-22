@@ -2,5 +2,10 @@
 title = "221 एतद् दण्डविधिम्"
 
 +++
+‘*Caste-federations*’—federations of various castes, or of men belonging
+to the same caste;—those who break compacts relating to these
+federations.
 
-**जातिसमूहेषु** च नानाजातीयानां समानजातीयानां वा संघेषु तद्विषयो व्यभिचारो येषां इत्य् अर्थः । प्रकरणोपसंहारः ॥ ८.२२१ ॥
+This verse sums up the section:—(221)
+
+

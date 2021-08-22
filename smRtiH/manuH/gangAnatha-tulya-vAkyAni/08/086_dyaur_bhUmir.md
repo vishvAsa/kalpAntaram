@@ -2,17 +2,8 @@
 title = "086 द्यौर् भूमिर्"
 
 +++
+**(verses 8.79-86)  
+**
 
-**हृदय**शब्देन हृदयायतनो लिङ्गपुरुष उच्यते । दिवादीनां[^३०६] द्रष्टृत्वम् अचेतनेषु चैतन्यम् आरोप्यते[^३०७] । दर्शनान्तरे तु महाभूतानि देवतात्मतया चेतनान्य् एव । तथा च[^३०८] पृथिवी भारावतरणाय ब्रह्माणम् उपागमद् इति वर्ण्यते । सर्वगतत्वात् तेषां न किंचिद् अप्रत्ययम् अस्तीति सर्वशरीरिणां वृत्तं शीलं चात्मनः कायगतं शुभम् अशुभं च जानते ॥ ८.८६ ॥
-
-
-[^३०८]:
-     DK omit: darśanāntare tu mahābhūtāni devatātmatayā cetanāny eva | tathā ca
-
-
-[^३०७]:
-     M G: draṣṭṛtvam acaitanyā śrutyāropyate
-
-
-[^३०६]:
-     M G DK: devādīnāṃ
+See Comparative notes for [Verse
+8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").

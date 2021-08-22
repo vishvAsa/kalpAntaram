@@ -2,19 +2,21 @@
 title = "366 उत्तमां सेवमानस्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 402), which adds the
+following notes:—‘*Uttamām*’ has to be qualified by ‘if
+willing’;—‘*samām*,’ belonging to the same caste as himself;—‘*śulkam*’,
+fee agreed upon by both the parties, as in the ‘Āsura’ form of marriage.
 
-अकामाया कन्याया[^२५६] दूषणे ब्राह्मणवर्जम् अविशेषेण हीनोत्तमानां वध एव दण्ड इत्य् उक्तम् । सकामाया दूषणे त्व् इदम् आहुः । **उत्तमां** रूपयौवनजातिभिः[^२५७] । **जघन्यो** ऽत्यन्तनिकृष्टः । नातिसाम्ये ऽपि गुणैर् वध्यः । **समां** तु गच्छन् सकामां स **शुल्कम्** आसुरविवाह इव पित्रे **दद्यात्** । न चेद् इच्छति पिता तदा राज्ञे दण्डं तावन्तम् । 
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 321), to the effect
+that when a man of the lower caste has intercourse with a maiden of a
+higher caste, whether willing or unwilling, his penalty is death, but
+when one has intercourse with a willing maiden of the same caste as
+himself, then he shall present to her father a cow and a bull, if the
+latter be willing to accept it (and the man has to marry the maiden in
+this case, adds *Bālambhaṭṭī*); but if the father is not willing to
+receive the fee, its equivalent shall be paid as fine to the king (and
+in this case also the maiden is to be married to the man).
+
+It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 
 
-[^२५७]:
-     M G: -jātyābhiḥ
-
-
-[^२५६]:
-     M G DK omit: kanyāyā
-
-- span style="text-decoration-underline;">ननु</u> च गान्धर्वो ऽयं विवाहः "इच्छयान्योन्यसंयोगः" (म्ध् ३.३२) इति । तत्र न युक्तो दण्डः । 
-
-- span style="text-decoration-underline;">केनोक्तं</u> गान्धर्वे नास्ति दण्डः । अत एव नायं सतीधर्मः, न चायं विवाहः, अग्निसंस्काराभावात् । यद् अपि शाकुन्तले व्यासवचनम् "अमन्त्रकम् अनग्निकम्" इति तद् दुष्यन्तेन कामपीडितेनैवं कृतम् । न चेच्छासंयोगमात्रं विवाहः । स्वीकरणोपायभेदाद् अष्टौ विवाहाः, न पुनर् विवाहभेदात् । वृत्तवरणं तत्र पुनः कर्तव्यम् एवम् इति ।
-
-अथ वा ऋतुदर्शनोत्तरकालं गान्धर्वः । प्राग् ऋतोः शुल्को दण्डो वा । अथ कन्यायाः का प्रतिपत्तिः । तस्मा एव देया । निवृत्ताभिलाषा चेत् कामम् अन्यत्र प्रतिपद्या । शुल्कग्रहणं चात्रापि सकृद् उपभोगनिष्कृत्यर्थम् अस्त्य् एव । वरश् चेन् निवृत्ताभिलाषो हठाद् ग्राहयितव्यः ॥ ८.३६६ ॥

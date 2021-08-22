@@ -2,32 +2,27 @@
 title = "231 गोपः क्षीरभृतो"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 170), which adds the
+following notes:—‘*Kṣīrabhṛtaḥ*’, whose wages consist of milk
+only;—‘*duḥyad daśato varām*,’ he should milk that cow (for himself)
+which is the best among ten cows;—‘*sā*,’ the said milk of the one
+cow;—‘*pāle*’, for the cowherd;—‘*abhṛte*,’ who is not paid any thing
+else in the shape of fooding, clothing, and so forth.
 
-गाः पाति **गोपः** गोपालकः । स कदाचिद् भक्तादिना भ्रियते कदाचित् क्षीरेण । तत्र **क्षीरभृतो** **दशभ्यो** **वराम्** श्रेष्ठाम्, अवराम्[^९३] वा, संहितायाम् अकारप्रश्लेषात् । रक्षायां अनुरूपकता । यस्य नान्यद् अन्नं स एकस्या गोः क्षीरम् आदद्यात् दशतः । अनया कल्पनया न्यूनाधिकरक्षणे[^९४] भृतिः कल्पयितव्या । एवं दोह्यादोह्यधेनुवत्सतरीदम्यवत्सकादिचारणे[^९५] क्वचित् त्रिभागः क्षीरस्य क्वचिच् चतुर्भागः स्वामिभिः कल्पयितव्यः । 
+This is quoted in *Aparārka*, (p. 772) winch adds the following
+explanation:—That keeper of the cattle who has his wages paid in milk,
+shall, with the owner’s permission, milk the best cow among ten milch
+cows, taking that for himself,—this being the ‘wage’ of the
+cattle-keeper who does not receive wages in any other form;—in
+*Vivādacintāmaṇi* (p. 80), which explains ‘*Kṣīrabhṛtaḥ*’ as ‘one whose
+wages are paid in the form of milk only’;—he shall milk the best of ten
+cows;—‘*abhṛte*’, the keeper who gets no fooding and clothing,—and notes
+that this refers to the keeper of milch-cattle only:—in *Kṛtyakalpataru*
+(104b), which explains ‘*Ksīrabhṛtaḥ*’ as ‘one whose wages consist of
+milk only; he shall milk for himself that cow which may be the best
+among ten cows—but only once’; —‘*abhṛte*’ one who receives no food or
+clothing;—and in *Vīramitrodaya* (Vyavahāra, 136b), which says that the
+milk of the best among ten cows is to be taken by the cowherd only when
+he receives nothing else as wages.
 
 
-[^९५]:
-     M G J: -vāraṇe
-
-
-[^९४]:
-     M G: -rakṣaṇaṃ
-
-
-[^९३]:
-     M G: varān śreṣṭhān avarān
-
-दिङ्मात्रप्रदर्शनार्थश्लोको ऽयम् । देशव्यवस्था त्व् आश्रयणीया । भृतिं निरूपयिष्यामीति ग्रामगोपालेन यदि गावस् त्यक्ता भवन्ति न तेन स्वामिनम् अननुज्ञाप्य दशमी गौर् दोह्येति । भक्तभृतो ऽपि "क्षीरेण विनिमयेयम्[^९६]" इति बुद्ध्या दुहीत, तन्निवृत्त्यर्थम् उक्तं **गोस्वाम्यनुमत** इति । स्वामिनो ऽनुमतिम् अन्तरेण प्रवर्तमानो दण्ड्यः ।   
-
-**सा** अनन्तरोक्ता । **अभृते** भक्तादिना **भृतिर्** भवेत् । क्षीरभृतो वा एषा वृत्तिः[^९७] । भृत्यो भरणार्थं न धर्माय प्रवृत्तो गोरक्षायाम् । 
-
-
-
-[^९७]:
-     M G DK: bhṛtiḥ
-
-- अथ वा स्वेच्छया दशम्या गोः क्षीरम् आददानश् चोरः स्यात् । अस्मिंस् त्व् अनुज्ञाते भृतिस् तस्येयम् इति न दोषः । 
-
-- अत्रापि स्वामिनो ऽननुमत्या दोष एवेति चेत्, सत्यम्, कल्प्या काचिद् दण्डमात्रा । न चौरो भवति । अस्मिंस् तु चौरो निक्षेपहारी वा स्यात् । 
-
-अयं श्लोक आदौ वक्तव्यः । अतो ऽनन्तरः क्वचित् पठ्यते ॥ ८.२३१ ॥

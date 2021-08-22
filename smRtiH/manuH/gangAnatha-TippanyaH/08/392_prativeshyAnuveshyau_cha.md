@@ -2,29 +2,19 @@
 title = "392 प्रतिवेश्यानुवेश्यौ च"
 
 +++
+‘*Prativeśya-anuveśya*’—‘Neighbour living in front—neighbour living at
+the back’ (Medhātithi);—‘the next neighbour and the neighbour next to
+him’ (Kullūka, Nārāyaṇa and Rāghvānanda).
 
-विशन्त्य् अस्मिन्न् इति वेशो निवासः, तत्प्रतिगतः प्रतिवेशः[^३२५] गृहाभिमुखः,[^३२६] तत्र भवः **प्रतिवेश्यः**[^३२७] । आदिदीर्घपाठे[^३२८] स्वार्थिको ऽण् । एवम् **अनुवेश्यः** पृष्ठतो वसन्न् उच्यते[^३२९] । तौ चेन् न भोजयेत् । यदि स्वगृहम् आनीय **कल्याणे** विवाहाद्युत्सवे **विंशति**मात्रा यत्र **द्विजा** अन्ये भोज्यन्ते, तदा माषकं सुवर्णं दण्डं दाप्यः । हिरण्यम् इत्य् उत्तरत्र विशेषणाद् इहापि विज्ञायते । **अर्हौ** यदि तौ प्रतिवेश्यानुवेश्यौ[^३३०] योग्यौ भवतः, न द्विषन्तौ नात्यन्तनिर्गुणौ ॥ ८.३९२ ॥
+‘*Māṣakam*’—‘Of gold’ (Medhātithi);—‘of silver’ (Kullūka).
 
-
-[^३३०]:
-     M G DK: prāti-
-
-
-[^३२९]:
-     M G DK omit: ucyate
-
-
-[^३२८]:
-     M G: prāgdīrghapāṭhe; DK: pradīrghapāṭhe
-
-
-[^३२७]:
-     M G DK: prātiveśyaḥ
+This verse is quoted in *Vivādaratnākara* (p. 358), which adds the
+following notes:—‘*Kalyāṇe viṃśatidvije*,’ ‘at which twenty Brāhmaṇas
+are entertained’;—at such a festival if one does not feed his front
+neighbour and back neighbour,—both of whom are perfectly fit persons for
+being entertained,—he should be fined one ‘*Māṣa*’ which should be
+understood to be of *silver*, in view of the fact that Manu in the next
+verse prescribes the *golden* ‘*māṣa*’ as the fine for the offence of
+not feeding the neighbours at a rich entertainment.
 
 
-[^३२६]:
-     M G: pṛṣṭagṛhābhimukhas; J: gṛhābhimukhaṃ
-
-
-[^३२५]:
-     M G DK: prativeśyaḥ

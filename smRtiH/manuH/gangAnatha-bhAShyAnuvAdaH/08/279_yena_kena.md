@@ -2,21 +2,26 @@
 title = "279 येन केन"
 
 +++
+‘*Low-born man*’— from the *Śūdra* down to the *Caṇḍāla*.
 
-**अन्त्यजः** शूद्रश् चण्डालपर्यन्तः । **श्रेष्ठः** त्रैवर्णिकः । **तं चेद् धिंस्याद् अङ्गेन केनचित्** साक्षाद् दण्डकड्गादिप्रहरणव्यवधानेन वा, **तद् **अङ्गम्** अस्य**[^२१९] **छेत्तव्यम्** । हिंसा च क्रोधेन प्रहरणं ताडनेच्छया हस्ताद्य् उद्यम्य वेगेन निपातनम्, मारणम् एव । **तद् तद्** इति वीप्सा, अङ्गम् इति छेत्तव्यम् इति चैकत्वविवक्षा मा विज्ञायि[^२२०] । तेनानेकेनाङ्गेन[^२२१] प्रहरणे ऽनेकस्यैव छेदः । **अनुशासनम्** उपदेशः, मनुकृतैषा[^२२२] मर्यादा । **अनुशासन**ग्रहणं कारुणिकस्य राज्ञः प्रवृत्त्यर्थः ॥ ८.२७९ ॥
+‘*Superior person*’—belonging to the three higher castes.
+
+If the former hurts the latter with any ‘limb,’—either directly, or
+through the instrumentality of a stick or a sword or some such
+weapon,—then ‘*that limb of his shall be cut off*.’
+
+The term ‘*hiṃsā*’ (*hurt*) here stands for *striking in anger,
+intentionally raising the hand or some weapon and letting it fall upon
+another*,—and not actually *killing*.
+
+The repetition of the pronoun ‘*tat tat*’ (‘every such’) is meant to
+guard against the idea that only *one* limb is to be cut off, which
+might arise from the use of the singular number in ‘*aṅgam*’ (‘limb’).
+Hence in a case where the hurt is inflicted by several limbs, all these
+limbs should be cut off.
+
+‘*Teaching*’— advice. Such is the law laid down by Manu. This has been
+added with a view to make a lenient king inflict the severe
+punishment.—(279)
 
 
-[^२२२]:
-     M G: upadeśopanukṛtaiṣā
-
-
-[^२२१]:
-     M G: caikatvavivakṣām āvijñāpitenānekenāṅgena
-
-
-[^२२०]:
-     DK (1: 1801): vijñāyīti
-
-
-[^२१९]:
-     M G: tadaṅgasya

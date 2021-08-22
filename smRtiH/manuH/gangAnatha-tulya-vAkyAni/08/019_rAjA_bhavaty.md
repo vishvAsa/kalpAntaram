@@ -2,5 +2,12 @@
 title = "019 राजा भवत्य्"
 
 +++
+*Nārada* (3.13).—‘The King is freed from responsibility, the members of
+the Court obtain their absolution, and the guilt rests on the
+offender,—when the guilty person is punished.’
 
-एष एवार्थो विपर्ययेणोच्यते । यत्र दोषवान् दोषं गोपयितुं न लभते प्रकटीक्रियते तदीयो दोषः, तत्र सर्वं साधु संपद्यत इति । "यत्र धर्मः" (म्ध् ८.१४) इत्य् अत आरभ्य मिथ्यादर्शनोपेक्षणप्रतिषेधार्थं निन्दाप्रशंसाभ्यां शुभाशुभफलदर्शनार्था अर्थवादाः ॥ ८.१९ ॥
+*Bodhāyana* (1.19.8).—‘When he who deserves condemnation is condemned,
+the King is guiltless and the judges free from blame; the guilt falls on
+the offender alone.’
+
+*Hārita*( Vyavahāratattva).—(Same as Manu.)

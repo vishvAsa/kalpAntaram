@@ -2,17 +2,24 @@
 title = "025 बाह्यैर् विभावयेल्"
 
 +++
+**(verses 8.25-26)**
 
-तथा चेदम् आह । अनुमानेनापि सत्यानृतवादिता व्यवहारतः साक्षिणां च निश्चेतव्या इति श्लोकार्थः । अतश् च स्वरादिग्रहणं प्रदर्शनार्थम् । तेन यन् निश्चितलिङ्गं[^१०७] तेन परिच्छिन्द्याद् इत्य् उक्तं भवति, न पुनः स्वरादिभिर् एव, सव्यभिचारित्वात् तेषाम् । अनुचितसभाप्रेवेशा हि महाप्रकृतिदर्शनेन सत्यकारिणो ऽपि स्वभावतो विक्रियन्ते । प्रगल्भास् तु संवृताकारा भवन्ति । स्वरश् च वर्णश् चेङ्गितं च स्वरवर्णेङ्गितानि, तेषाम् आकाराः **स्वरवर्णेङ्गिताकाराः** । आकारो विकारः । स्वाभाविकानां हि स्वरादीनाम् अन्यथात्वम् । तैर् **विभावयेन्** निश्चिनुयात् । **भावम्** अभिप्रायम् अन्तर्गतं मनुष्याणां विवादिसाक्ष्यादीनाम् । तत्र स्वरस्य विकारो वाचि गद्गदरुदितादि । वर्णस्य गात्ररूपविपर्ययादि । इङ्गितं स्वेदवेपथुरोमाञ्चादि । **चक्षुषा** संभ्रमक्रोधदृष्टिपातेन । **चेष्टितेन** हस्तनिक्षेपभ्रूविक्षेपादिना[^१०८] । स्वसंवेदम्[^१०९] चैतत्, यद् गूह्यमानम् अप्य् अभिप्रायं स्वरादयः प्रकाशयन्ति निपुणतो लक्ष्यमाणाः । यतः प्रसिद्धम् एतेषां गूड्ःआभिप्रायप्रकटनसामर्थ्यम् ॥ ८.२५ ॥
+*Nārada* (6.10-11).—‘When the face changes colour, or the voice falters,
+or the features look suspicious, when they do not give evidence in
+public, when they make impossible statements as to place and time, when
+there are doubts regarding their place of residence, when they indulge
+in expense for bad purposes, when they have been previously convicted of
+larceny, when they keep bad company, or when documents speak against
+them,—they may be convicted as thieves,—not by the possession of stolen
+goods alone.’
 
+*Yājñavalkya* (2.13-15).—‘If he shifts his position, licks the ends of
+his mouth, perspires in his forehead, his face becomes pale, speech is
+dry and halting, talks much and inconsistently, is not pleasant in the
+eye or in his speech, twists his lips, the natural condition of his
+mind, speech and body becomes changed,—such a person, whether he be a
+complainant or a witness, should be regarded as at fault or wicked.’
 
-[^१०९]:
-     M G: tvasaṃvedam
-
-
-[^१०८]:
-     M G J: -vikṣepādi
-
-
-[^१०७]:
-     DK (1:192): niścitaṃ liṅgaṃ
+*Rāmāyaṇa* (Vyavahāratattva, p. 31).—‘The man cannot hide his internal
+feelings entirely, without showing some slight shadow of it in his
+external appearance; it becomes exposed even against his will.’

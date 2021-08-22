@@ -3,4 +3,4 @@ title = "221 एतद् दण्डविधिम्"
 
 +++
 
-**जातिसमूहेषु** च नानाजातीयानां समानजातीयानां वा संघेषु तद्विषयो व्यभिचारो येषां इत्य् अर्थः । प्रकरणोपसंहारः ॥ ८.२२१ ॥
+This is the law of punishment which the king shall follow in the case of the breakers of compacts relating to villages and caste-federations.—(221)

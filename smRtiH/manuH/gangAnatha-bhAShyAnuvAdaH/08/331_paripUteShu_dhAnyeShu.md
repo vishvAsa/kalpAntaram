@@ -2,7 +2,29 @@
 title = "331 परिपूतेषु धान्येषु"
 
 +++
+‘*Roots, etc*.,’—*e.g*., sugar-cane, grapes and so forth.
 
-**मूलम्** इक्षुद्राक्षादि । **निरन्वये** द्रव्यहरणे । अन्वयो ऽनुनयः, स्वामिनः प्रीत्यादिप्रयोगः- "यत् त्वदीयं तन् मदीयम् एवेत्य् अनया बुद्ध्याहं प्रवृत्तः, न चेद् एवं तद् गृहाण" इत्येवमादिवचनं तद् यत्र न क्रियते तन् **निरन्वयम्** । साहसप्रकारत्वाद् अधिको दण्डः । अन्वयेन सह **सान्वयः** । 
+In a case of theft which is ‘*niranvaya*’;—‘*anvaya*’ stands for
+‘*propitiation*,’ the adopting of a conciliatory attitude towards the
+owner, such as—‘I took this thing under the impression that what is
+yours is mine also; if this be not so, then take it,’—or some such
+words;—where this is not done, it is a ‘*case where there has been no
+propitiation*’; and this being a form of ‘robbery,’ the punishment is
+severe.
 
-अथ वा **निरन्वयो**[^९६] येन सह कश्चिद् अपि संबन्धो नास्त्य् एकग्रामवासादिः । ततः शतं दण्ड्यः । अथ वा अनारक्षम् **निरन्वयम्** । सति तु रक्षके[^९७] उभयापराधाद् अल्पो दण्डः । खलस्थेषु धान्येष्व् अयं दण्डः । तत्र हि परिपूयन्ते । गृहस्थेषु त्व् एकादशगुणः प्राग् उक्तः (च्ड़्। म्ध् ८.३२०) ॥ ८.३३१ ॥
+A case where there has been such ‘propitiation’ is called ‘*sānvaya*.’
+
+Or, the meaning may be that there shall be a fine of ‘hundred’ in a case
+where there is no ‘*relationship*’ between the parties,—such as living
+in the same village and so forth.
+
+Or, ‘*niranvaya*’ may mean ‘*unguarded*.’ Where the watchman is present,
+since the fault lies with both (thief as well as the watchman), the
+punishment of the thief shall be slight.
+
+The punishment here laid down refers to the case of stealing corns lying
+in the threshing yard, where they are husked. In the case of corns
+stored in the house, the fine shall be ‘eleven times their value,’ as
+declared above (330).—(331)
+
+

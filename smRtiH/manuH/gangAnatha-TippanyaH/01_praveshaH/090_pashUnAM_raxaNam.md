@@ -2,5 +2,7 @@
 title = "090 पशूनां रक्षणम्"
 
 +++
-
-**वनिक्पथः** वणिक्कर्मणा स्थलपथवारिपथादिना धनार्जनम् । उपयुज्यमानदेशान्तरीयद्रव्यसंनिधापनं यस्य राज्ञो विषये वसति । **कुसीदं** वृद्ध्या धनप्रयोगः ॥ १.९० ॥
+This verse is quoted in *Parāśara-mādhava* (Ācāra, p. 416), in support
+of *Parāśara*, verse 63;—and in the *Vīramitrodaya*—*Paribhāṣā* (p. 45),
+which explains ‘*Vaṇikpatham*’ as ‘trade’ and ‘*Kusīdam*’ as ‘lending
+money on interest’.

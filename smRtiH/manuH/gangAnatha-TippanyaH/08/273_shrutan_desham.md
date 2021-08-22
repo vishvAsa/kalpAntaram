@@ -2,25 +2,24 @@
 title = "273 श्रुतन् देशम्"
 
 +++
+*Cf*. 2.19-11.
 
-सत्ये च **श्रुते** "नैतद् अनेन सम्यक् श्रुतम्" इत्य् आह । **श्रुतम्** एव वाक्षिपति "नैतत् संस्कारकं[^२०७] यद् अनेन श्रुतम्" इति । ब्रह्मावर्तीयम् अभिजनाभिमानिनम् "बाह्यको ऽयम्" इत्य् आह । एवं **जात्**इब्राह्मणं[^२०८] "क्षत्रियो ऽयम्" इत्य् आह, क्षत्रियं वा हेलया "ब्राह्मण" इति । **कर्म** ब्राह्मचारिणम्[^२०९] "स्नातक" इति । शरीरावयवः **शारीरे** ऽव्यङ्गं "दुश्चर्मा" इति । **वितथेन** वितथम् अनृतम् । "प्रकृत्यादिभ्यः" (कात् ओन् पाण् २.३.१८) इति तृतीया । अथ वा, अधर्मो[^२१०] वैतथ्यम्, तस्य वाच्यं प्रति कारणता युक्तैव । स्वगुणमदात् परावज्ञानं **दर्पः** । अज्ञानात् परिहासतो वा न दोषः । 
+‘*Karma śārīram*’—‘With reference to occupation *and* to the body’
+(Medhātithi);—‘bodily sacraments’ (Kullūka and others).
+
+This verse is quoted in *Vivādaratnākara* (p. 254), which adds the
+following notes:—‘*Karma*,’ austerities and the like;—‘*śārīram*,’ limbs
+of the body,—‘*vitathena*,’ falsely,—the meaning being that if one,
+through arrogance, spreads false reports regarding the learning,
+country, caste, austerities, and limbs of another, he shall be fined
+200. The Instrumental ending in ‘*Vitathena*’ is in accordance with
+*Pāṇini’s Sūtra* ‘*Prakṛtyādibhya upasaṅkhyānam*’;—‘*Śruta*’, ‘learning’
+and the rest are mentioned by way of illustration of the false reports;
+*e*.*g*.—‘This man has not learnt the Veda,’ ‘he is not an inhabitant of
+Āryāvarta,’ ‘he is not a Brāhmaṇa,’ ‘he has performed no austerity at
+all,’ ‘his skin is not free from disease’ and so forth.—‘*Darpa*’ stands
+for the high opinion that one has in regard to his own qualifications
+and consequently the low opinion that he has with regard to other
+persons.
 
 
-[^२१०]:
-     M G DK: atha vāyaṃ dharmo
-
-
-[^२०९]:
-     M G DK (1: 1776) omit: brāhmacāriṇam
-
-
-[^२०८]:
-     J: jātyābrāhmaṇaṃ
-
-
-[^२०७]:
-     J: samyak
-
-- span style="text-decoration-underline;">कस्य</u> पुनर् अयं दण्डः । 
-
-<u>सर्वेषाम्</u> इति ब्रूमः । शूद्राधिकाराच् छूद्रस्यैवेति परे, द्विजातिविषये वैतथ्ये ॥ ८.२७३ ॥

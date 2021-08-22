@@ -2,9 +2,11 @@
 title = "268 पञ्चाशद् ब्राह्मणो"
 
 +++
+This verse is quoted in *Mitākṣarā* (2. 207), to the effect that the
+Brāhmaṇa is to be fined 50 for insulting a Kṣatriya, 25 for insulting a
+Vaiśya and 12½ for insulting a Śūdra;—in *Aparārka* (p. 808), to the
+same effect, adding that so many *paṇas* are meant;—and in
+*Vivādaratnākara* (p. 151), which adds that ‘*abhiśaṃsana*’ means
+‘defaming,’ ‘insulting.’
 
-**अभिशंसनं** सर्वप्रकार आक्रोशः, पतनीयाद् अन्यः, तत्र दण्डान्तरविधानात् । निमित्तसप्तमी चैषा । **वैश्य** इति विषयसप्तमी[^१९८] । ब्राह्मणस्याक्रोष्टुर् आक्रुश्यमानस्य च दण्ड उक्तः । क्षत्रियादीनां त्व् इतरेतरं स्मृत्यन्तरम् अन्वेषणीयम् । तथा च गौतमः- "ब्राह्मणराजन्यवत् क्षत्रियवैश्यौ" (ग्ध् १२.१४) । परस्पराक्रोशे क्षत्रियश् चेद् वैश्यम् आक्रोशेत् पञ्चाशतं दण्ड्यः, वैश्यः क्षत्रियं शतम् । एवं क्षत्रियः शूद्रम् आक्रोशेत् पञ्चविंशतिर् दण्ड्यः, वैश्यः पञ्चाशतम् । शूद्रस्य तु तदाक्रोशे गुणापेक्षिको दण्डो वक्ष्यते ॥ ८.२६८ ॥
 
-
-[^१९८]:
-     J: daṇḍaviṣayasaptamī

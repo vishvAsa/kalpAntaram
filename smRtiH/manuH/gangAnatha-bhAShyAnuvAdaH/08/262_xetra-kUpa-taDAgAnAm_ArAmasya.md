@@ -2,9 +2,15 @@
 title = "262 क्षेत्र-कूप-तडागानाम् आरामस्य"
 
 +++
+‘*Garden*’—stands for park-lands, as well as vegetable yards.
 
-**आराम** उद्यानभूमिः शाकवाटश् च । **सामन्त**प्रंआणकस् तत्र निश्चयः[^१७७] । व्याधादिनिवृत्त्यर्थम् इदम् उच्यते । **सीमासेतुः** सीमाबन्धः । सीमाविभावनार्थं य आबध्यते स्थाप्यते ॥ ८.२६२ ॥
+The neighbours are the only source of authority for decisions regarding
+these.
+
+This has been added with a view to preclude the evidence of hunters and
+others (mentioned in the preceding two verses).
+
+‘*Boundary-marks*’;—demarcation of boundary, which is done for the
+indication of the exact boundary.—(262)
 
 
-[^१७७]:
-     M G DK (1: 937): tattvaniścayaḥ

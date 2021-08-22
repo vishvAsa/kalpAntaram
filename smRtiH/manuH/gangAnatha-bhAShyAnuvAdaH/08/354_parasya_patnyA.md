@@ -2,17 +2,15 @@
 title = "354 परस्य पत्न्या"
 
 +++
+‘*Conversation*’—talking; one who is found to be doing this;—if he
+happens to be one who has been ‘*previously accused of*’—blamed for
+committing—‘*such offences*’—of having a love-intrigue with that
+woman,—*i.e*., if the man is of unsteady character, and has been already
+seen to be carrying on an intrigue with her,—or has been suspected of
+doing so;—‘*secretly*,’—in some secret place, or (as some people
+explain) in a place where such conversation is forbidden;—in the case of
+such a person, even if the conversation held with another’s wife be one
+bearing upon some business, be should be made to pay the ‘*first
+amercement*.’—(354)
 
-**संभाषः** संभाषणम्, तम् आलापं **योजयन्** कुर्वन्[^१८९] संग्रहणादिदोषैः तत्स्त्रीप्रार्थनादिभिः[^१९०] पूर्वम् **आक्षारितो** ऽभिशस्तः, "अयम् एनाम् उपजपति" इत्य् अमुत्र दृष्टदोषः शङ्क्यमानदोषो वा चपलः, रहः उद्वातादौ निषिद्धसंभाषण इति <u>केचित्</u> [^१९१]। कारणाद् अप्य् अन्यपत्न्या संभाषणं कुर्वन् **प्रथमसाहसं** दण्डं **प्राप्नुयाद्** दापयितव्य इत्य् अर्थः ॥ ८.३५४ ॥
 
-
-[^१९१]:
-     M G: ākṣārito 'bhisaṃbhavām eva patnyā tasyāmutrādṛṣṭadoṣaḥ capala udvātādau niṣiddhasaṃbhāṣaṇa iti kecit
-
-
-[^१९०]:
-     M G: saṃgrahaṇād doṣe tatstrīprārthanād iti
-
-
-[^१८९]:
-     M G: tam ālapituṃ kurvan; DK: tatstriyā ālāpaṃ kurvan

@@ -2,17 +2,52 @@
 title = "292 छेदने चैव"
 
 +++
+**(verses 8.291-292)  
+**
+
+The text proceeds to show the cases where there is no offence.
+
+‘*Nāsya*’ is that which pertains to the nose; the term ending in the
+affix ‘*yat*,’ which is added because the basic noun ‘*nāsā*’ is the
+name of a limb of the body. It stands for the string that passes through
+the nostrils of the bullocks, as also for the *bridle* of the horse, or
+the *goad* of the elephant—When this has ‘*snapped*.’
+
+‘*When the yoke is broken*’;—‘yoke’ is the name of a piece of wood
+forming part of the cart. The compound ‘*chinnanāsyā*,’ taken as
+*Bahuvrīhi*, refers to the cart or to the animal, both of these being
+connected with it, either directly or indirectly.
+
+‘*When it turns sideways or backwards*,’—*i.e*., when the cart so turns.
+When, either on account of the uneven ground, or by reason of the animal
+having taken fright, the cart turns either sideways or backwards, and
+some one happens to be hurt,—there lies no offence. The driver can sec
+and guard against things only in front of him; so that when the cart
+turns sideways, how can ho sec and avoid striking against anything that
+may be there?
+
+‘*Turning backwards*’ means *turning round*.
+
+Others explain this phrase to mean that no offence lies in a case where
+the injured party has turned sideways, while the cart is going on its
+straight course; and ‘*pratimukha*’ they explain as ‘in front.’ The
+reason for there being no offence in this case is that it is the fault
+of the injured person himself why he did not make way for the cart
+coining in front of himself.
+
+‘*Axle*’ and ‘*wheel*’ are well known parts of the cart.
+
+‘*Fittings*’— the leather thongs with which the wooden parts of the
+chariot are tied up.
+
+‘*Yoking strap*’— the piece of wood on the neck of the animal.
+
+‘*Bridle*’—the string with which the movements of the yoked animals are
+controlled.
+
+‘*Loud cry*’—‘*get out of the way*’—*i.e*., move off. When the animals
+have gone out of hand, if the driver keeps on crying ‘get out of the
+way,’ if some one coming by that way happens to be hurt, the fault does
+not lie with the driver.—(291-292)
 
 
-नासायां भवं **नास्यम्** । "शरीरावयवाद् यत्" (पाण् ५.१.६) । नासिकापुटसंयोगिनी बलीवर्दानां रज्जुर् अश्वानां खलीनं हस्तिनाम् अङ्कुशः । तस्मिन् **छिन्ने** त्रुटिते । **युगे** च **भग्ने** । रथाङ्गकाष्ठं युगम् । छिन्नं नास्यम् अस्येति बहुवृईहिणा रथ उच्यते, पशुर् वा, उभयोर् अपि साक्षात् पारंपर्येण संबन्धात् । **तिर्यक्प्रतिमुखागते** याने, तिर्श्चीनं वा प्रतीचीनं वा कथंचिद् भूवैषम्यात् पशुत्रासाद् वा यानं गच्छत्[^२५४] कथंचिद् अपराध्येन् न दुष्येत् । प्राजको हि संमुखीणाञ् छक्तो रक्षितुं तिर्यक् प्रत्यगवस्थितौ त्व् अदृश्यमानस्य कथं शक्तो रक्षितुम्[^२५५] । प्रतिमुखागतं प्रत्यगावृत्तिः ।
-
-
-[^२५५]:
-M G kathaṃ rakṣituṃ; J: kathaṃ rakṣatu
-
-
-[^२५४]:
-M G DK (1: 1808): gacchet
-
-<u>अन्ये</u> तु तिर्यगागते हिंस्यमाने ऋजुगामिन्य् एव याने न[^२५६] दोषम् आहुः । प्रतिमुखं चाभिमुखं मन्यन्ते । अभिमुखागतः किम् इति चक्रिणं दृष्ट्वा पन्थानं न ददाति ।   
-**अक्षचक्रे** रथाङ्गे प्रसिद्धे । **यन्त्राणि** चर्मबन्धनानि शकटकाष्ठानाम् । **योक्त्रं** पशुग्रीवाकाष्ठम्। **रश्मिः** प्रग्रहो हस्तवध्रिः[^२५७] युग्यानां संचरणनियमनार्थः । **आक्रन्द** उच्चैः शब्दो **ऽपेहीत्य्** अपसरेत्य् अर्थः । **इति**करणो भाषाप्रसिद्धतदर्थशब्दोच्चारणार्थः, न त्व् अयम् एव शब्दः प्रयोक्तव्यः । अविधेयेषु युग्येष्व् अपसरापसरेति क्रोशतः प्राजकस्य पथो नातिक्रामन् यदि हिंस्यान् न दोषः ॥ ८.२९१–९२ ॥

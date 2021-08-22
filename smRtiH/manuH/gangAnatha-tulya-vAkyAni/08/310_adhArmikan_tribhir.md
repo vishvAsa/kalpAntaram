@@ -2,21 +2,18 @@
 title = "310 अधार्मिकन् त्रिभिर्"
 
 +++
+**(verses 8.310-311)**
 
-अर्थवादैर् दृढीकृत्य निग्रहविधिम् इदानीं प्रस्तौति । **अधार्मिकः**[^३१९] प्रकरणाच् चौरः । तं **त्रिभिर्** नियमनप्रकारैर् **निगृह्णीयान्** नियच्छेत् । **न्यायो** नियामकः । **निरोधनं** राजदुर्गे बन्धनागारे धरणम्[^३२०] । **बन्धस्**[^३२१] तत्रैव रज्जुनिगडादिभिर् अस्वातन्त्र्योत्पादनम् । **विविधो वधस्** ताडनाद् आरभ्य शरीरनाशनात् प्राणत्यागपर्यन्तः । निर्देशाद् एव त्रित्वे लब्धे **त्रिभिर्** इति वचनम् अन्येषाम् अपि नियमनप्रकाराणां परिग्रहणार्थम् । तेन तप्ततैलसेकादयो ऽपि परिगृहीता भवन्ति ॥ ८.३१० ॥
+*Nārada* (Theft, 61).—‘Let the King practise the duties of his office,
+and follow the rule of inflicting punishments, faithful to the tenets of
+the sacred law. Let him accordingly, as governor, destroy the
+evil-doers, after having traced them by the application of cunning
+stratagems and arrested them.’
 
-
-[^३२१]:
-     M G DK: caraṇabandhas
-
-
-[^३२०]:
-     M G omit: dharaṇam; DK: bandhaḥ
-
-
-[^३१९]:
-     M G DK (1: 577): adhārmikaṃ
-
-
-
-## ०४
+*Bṛhaspati* (27.4 *et seq*.).—‘When he has discovered an offender, the
+King shall inflict one of the various kinds of punishments on him,
+*viz*., gentle admonition, harsh reproof, corporal punishment, or one of
+the four gradations of fines; he shall inflict gentle admonition when
+the offence is very light; harsh reproof, for a crime of the first
+degree; a fine for crime of the middle degree, and arrest in the case of
+high treason. Banishment also may be resorted to by the King.’

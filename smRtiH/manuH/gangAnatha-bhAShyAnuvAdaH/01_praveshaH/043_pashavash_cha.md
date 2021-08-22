@@ -2,5 +2,14 @@
 title = "043 पशवश् च"
 
 +++
+These are ‘*viviparous*,’ ‘born from the *Jarāyu*’; *Jarāyu* is the
+womb, the place where the fœtus lies; it is in the womb that these
+beings are conceived first, and it is only when they are emitted from
+the womb that they become *born*; this is the manner of the birth of
+these beings.
 
-एते **जरायुजाः** । जरायुर् उल्बं गर्भशय्या । तत्र प्रथमं ते संभवन्ति । ततो मुक्ता जायन्ते । एष एतेषां जन्मक्रमः । दन्तशब्दसमानार्थो दत्शब्दो ऽन्यो ऽस्तीत्य् उभयतोदत इति प्रथमाबहुवचने रूपं युज्यते ॥ १.४३ ॥
+The term ‘*dat*’ is synonymous with ‘*danta*,’ and is totally different
+from it; hence it is that we have the nominative plural form
+‘*ubhayatodataḥ*’ (‘with two rows of teeth’).—(43)
+
+

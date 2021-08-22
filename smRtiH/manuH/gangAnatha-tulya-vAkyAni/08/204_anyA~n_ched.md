@@ -2,21 +2,15 @@
 title = "204 अन्याञ् चेद्"
 
 +++
+**(verses 8.204-205)  
+**
 
-विक्रयप्रकारत्वाच् छुल्कादिना कन्यादानस्य अस्मिन्न् प्रकरणे[^१३] धर्म उच्यते । शुल्ककाले रूपवतीं दर्शयित्वा गृहीतशुल्को यस्य[^१४] रूपहीनां ददाति वयोहीनां गूणहीनां वा तस्य्**ओभे**[^१५] ऽपि शुल्कदेन्**ऐकेन** **शुल्केन** हर्तव्ये[^१६] । कन्यानाम् एवायं धर्मः । गवाश्वादिद्रव्याणां त्व् अस्मिन् व्यतिक्रमे ऽन्यो विधिर् वक्ष्यते ॥ ८.२०४ ॥
+*Yājñavalkya* (1.66).—‘If a man gives away his daughter in marriage,
+without mentioning her defects, he should be fined the highest
+amercement.’
 
-
-[^१६]:
-     M G: hartavyā
-
-
-[^१५]:
-     M G: tasyobhau
-
-
-[^१४]:
-     M G: 'syāṃ
-
-
-[^१३]:
-     M G: chulkāder yo yat kanyāyā asminn avadhau; DK (1: 881): chulkadeyāyāḥ kanyāyā asminn avadhau
+*Nārada* (Aparārka, p. 95).—‘If a man gives away a defective girl in
+marriage, without mentioning the defect, he should be punished by the
+King with the first amercement; the defects of a girl being presence of
+chronic and loathsome disease, shortness of limbs, loss of virginity,
+immodesty, attachment to another man.’

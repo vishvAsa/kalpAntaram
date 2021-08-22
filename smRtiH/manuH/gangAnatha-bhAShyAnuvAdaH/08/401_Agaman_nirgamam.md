@@ -2,21 +2,19 @@
 title = "401 आगमन् निर्गमम्"
 
 +++
+The vendors in the market should not he allowed to fix their prices at
+their own will; nor should the king buy things at his own arbitrary
+price. What should be done then? This is what should he done:—‘*Source*’
+from where a certain commodity comes, from a near or a remote
+country;—so also ‘*destination and detention*’—whether it is going to be
+sold immediately, or will have to be kept? When a commodity is sold
+immediately, even a small profit comes very useful, as the profit can he
+invested in some other commodity and thus bring in another profit;—while
+from ‘detention,’ both ‘profit and loss’ are possible—and how much more
+profit will the detention bring in, and what amount of loss it would
+involve,—all this should be taken into consideration by the king, who
+should then regulate the sales and purchases in his realm; and the
+prices should be fixed in such a manner that there may be no oppression
+caused to the traders, or to the buyers.—(401)
 
-आपणभूमौ ये विक्रेतारस् ते न स्वेच्छया मूल्यं कर्तुं लभेरन्, नापि राजा क्रीणीयात् स्वरुचिकृतेन मूल्येन । कथं तर्हि । इदम् इदं निरूप्यम्[^३६१] । **आगमम्** — किं प्रत्यागच्छति देशान्तराद् उत न, तथेयतो[^३६२] दूराद् आगच्छति । एवं **निर्गमस्थाने** — किं संप्रत्य् एव विक्रियते, उत तिष्ठति । संप्रति निष्क्रामतो द्रव्यस्य स्वल्पो ऽपि लाभो महाफलः, तदुत्थितेन मूल्येन द्रव्यान्तराविषयेण[^३६३] क्रयविक्रयेण[^३६४] पुनर् लाभः । **स्थानात्** **वृद्धिक्षयौ-** कियत्य् अस्य वृद्धिस् तिष्ठति, कीदृशो वा क्षयः । इत्य् एतत् सर्वं परीक्ष्य, स्वदेशे **क्रयविक्रयौ** **कारयेत्** । यथा न वणिजां पीडा भवति, नापि क्रेतॄणाम्, तथार्घं व्यवस्थापयेत् ॥ ८.४०१ ॥
 
-
-[^३६४]:
-     M G omit: krayavikrayeṇa
-
-
-[^३६३]:
-     DK (4: 2331): dravyāntaraviṣayeṇa
-
-
-[^३६२]:
-     DK (4: 2331) suggests: tathā kiyato
-
-
-[^३६१]:
-     M G DK: nirūpya

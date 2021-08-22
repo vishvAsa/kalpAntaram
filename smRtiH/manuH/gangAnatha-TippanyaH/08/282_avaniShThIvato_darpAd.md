@@ -2,9 +2,14 @@
 title = "282 अवनिष्ठीवतो दर्पाद्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 268), which adds the
+following notes:—‘*Āvaniṣṭhīvato darpāt*’, through arrogance spitting on
+the superior,—‘*avamūtrayataḥ*,’ sprinkling urine,—‘*avaśardhayataḥ*,’
+passing wind through the anus with a loud sound;—in *Aparārka* (p. 814),
+which takes it as prescribing the penalty for the *Śūdra* doing these
+things upon twice-born persons;—in *Parāśaramādhava* (Vyavahāra, p,
+288);—in *Mitākṣarā*, (2. 115) where *Bālambhaṭṭī* remarks that the acts
+here mentioned are indications of disregard and contempt;—and in
+*Vivādacintāmaṇi* (Calcutta, pp. 75 and 73).
 
-मूत्रेणावसिञ्चतो ऽभिमुखं वा तदवमानार्थं क्षिपतो ऽसत्य् अपि संस्पर्शे ऽवमानयते मूत्रेणेति निष्कर्तव्यः । समानफलत्वाद् एतस्यापि दण्डो ऽयम् । **निष्टीवनं** नासिकास्यश्रावः । तस्य[^२२९] घ्राणेन क्षेपे नासापुटच्छेदः, "येनाङ्गेन" (म्ध् ८.२७९) इत्य् उक्तत्वात् । **शर्धनं** कुत्सितो गुदशब्दः । **दर्पान्** न प्रमादात् ॥ ८.२८२ ॥
 
-
-[^२२९]:
-     M G: nāsikāsyaśrāvasya

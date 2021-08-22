@@ -2,13 +2,8 @@
 title = "418 वैश्य-शूद्रौ प्रयत्नेन"
 
 +++
+**(verses 8.410-418)  
+**
 
-कर्म व्यतिक्रामन्तः क्षोभयेयुर् आकुलीकुर्युर् जगदत् । अतस् ते **प्रयत्नेन** **स्वकर्मभ्यश्** च्यावयितुं न लभेरन्[^४२०] । अनल्प[^४२१] एवातिक्रामे भूयसा दण्डेन योजनीया वैश्या अपि । बन्धनं नास्ति । अपि धनशक्यः स्वधर्मः ॥ ८.४१८ ॥
-
-
-[^४२१]:
-     DK: alpa
-
-
-[^४२०]:
-     M G: cāvayed; DK reads: atas tān prayatnena svakarmāṇi kārayet
+See Comparative notes for [Verse
+8.410](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201345.html#comparative-notes "English translation of verse").

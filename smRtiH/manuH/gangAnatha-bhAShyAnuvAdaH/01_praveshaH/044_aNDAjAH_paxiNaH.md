@@ -2,5 +2,8 @@
 title = "044 अण्डाजाः पक्षिणः"
 
 +++
-
-**नक्राः** शिशुमरादयः । **कच्छपः** कूर्मः । **यानि चैवंप्रकाराणि** कृकलासादीनि **स्थलजानि** । एवंरूपाण्य् **औदकानि** जलजानि शङ्खादीनि ॥ १.४४ ॥
+‘*Crocodiles*’—includes the Porpoise and the rest;—‘*Kacchapāḥ*’ are the
+Tortoises;—‘*other animals of similar kinds’—i.e*., wizards (lizards?)
+and the like, which are ‘*terrestrial*,’ born on land, and such others
+of similar kinds as are ‘*aquatic*’ born in water; such, for instance,
+as conches and the rest.—(44)

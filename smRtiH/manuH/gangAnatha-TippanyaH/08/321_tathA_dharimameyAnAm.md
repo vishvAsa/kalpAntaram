@@ -2,45 +2,30 @@
 title = "321 तथा धरिममेयानाम्"
 
 +++
+‘*Dharimameyānām suvarṇarajatādīnām*’—‘Articles weighed by scales such
+as gold, silver, &c.,’ (Medhātithi; Govindarāja and Kullūka);—‘articles
+measured by weight, *i*. *e*., copper and the rest, other than gold and
+silver, *and* of gold, silver, &c.’ (Nārāyaṇa and Rāghavānanda).
 
-धरणं धरिमा, तुला, तेन मीयन्ते परिछिद्यन्ते तानि **धर्ममेयानि** । घृतादीनां द्रवाणां प्रस्थादिमेयतास्तीति, कठिनानां परिमेयता भवतीति, तद् अर्थम् आह **सुवर्णरजतादीनाम्** । **आदि**ग्रहणाद् एव रजते लब्धे पुनर् उपादानात् तुल्यग्रहणार्थात् प्रवालादीनि गृह्यन्ते, न तु ताम्रलोहादीनि । तेषां शताद् ऊर्ध्वं हरणे वधः । 
+This verse is quoted in *Aparārka* (p. 847), which adds the following
+notes:—‘*Dharimameya*’ are those things that are measured by
+scales,—*i.e*., ‘gold, silver and so forth’.—If the author had only the
+expression ‘*suvarṇarajatādīnām*’, ‘gold, silver &c.,’ then iron and
+other metals also would become included; similarly if he had only
+‘*dharimameyānām*’ ‘things weighed by scales’, then molasses and such
+other things also would become included; by having both, even such
+articles as pearls, corals and the like, which also are ‘weighed by
+scales,’ become included; these latter also belong to the same category
+as ‘gold and silver’ by reason of their being highly valuable; the term
+‘*ādi*’, means ‘and the like thus it is that such things as molasses,
+even though they are ‘weighed by scales’, become excluded; because,
+being cheap, they have no *similarity* to ‘gold and silver’; for the
+same reason such cheap metals as iron, lead and so forth are not
+included here,—‘*uttamāni vāsāṃsi*’, ‘excellent clothes’, clothes of
+*patra*, (?) *ūrṇa* (wool), *netra* (?) *paṭī* (silk, and so forth).
 
-- span style="text-decoration-underline;">किं पुनर्</u> एतच् छतं पलानाम् उत कर्षाणाम् एव कार्षापणानां वा । 
-
-- span style="text-decoration-underline;">केचिद्</u> आहुः पलानाम् इति । 
-
-न त्व् अत्र विशेषे[^६०] हेतुर्[^६१] अस्ति । तस्माद् यस्मिन् देशे धर्ममानकाले यया[^६२] संख्यया व्यवहारः, शतम्[^६३] इदं सुवर्णस्य, क्वचित् तोलके क्वचित् पलेषु, यथादेशं व्यवस्था । 
-
-
-[^६३]:
-     M G: śrutam
-
-
-[^६२]:
-     M G: yathā
-
-
-[^६१]:
-     M G: hantur
-
-
-[^६०]:
-     M G DK (1: 1716): viśeṣo
-
-**उत्तमानां च वाससां** कौशेयपट्टादीनाम् इति ।[^६४] **शताद् अभ्यधिके वधः**[^६५] इत्य् अनुषङ्गः । अत्रापि शाटकयुगम्[^६६] एकम् इति संख्यायते । पुष्पपटाद्युपबर्हणं त्व् एकम् एवेति । 
-
-
-[^६६]:
-     M G: śākaṭakayugam
+It is quoted in *Vyavahāramayūkha* (p. 102);—in *Vivādaratnākara* (p.
+323), which explains ‘*dharima*’ as ‘weight’;—in *Vyavahāra-Bālambhaṭṭī*
+(p. 987);—and in *Vīramitrodaya* (Vyavahāra, 152a).
 
 
-[^६५]:
-     M G add: kecid āhuḥ | palānām iti | na tva atra viśeṣahetur
-
-
-[^६४]:
-     M G add: nanv atra viśeṣahetur asti | tasmād yasmin
-
-- span style="text-decoration-underline;">ननु</u> च सुवर्णरजतादीनाम् इत्य् एव सिद्धे परिमेयग्रहणम् अनर्थकम् । 
-
-<u>नानर्थक,</u> कर्पूरागुरुकस्तूरिकादीनां महार्घाणां ग्रहणार्थम् । **आदि**ग्रहणाद् धि तैजसानि गृह्यन्ते, निष्कादिपरिमाणव्यपदेश्यानि वा । न हि कर्पूरादीनां कर्षादिव्यपदेशो ऽस्ति । यद्य् अपि सुवर्णवद् रजते ऽपि शतसंख्या तथापि प्रायश्चित्तभेदवद् दण्डभेदो ऽपि युक्तो विषमसमीकरणस्यान्याय्यत्वात्[^६७] । अतो यावत् सुवर्णगतस्य मूल्यं तावति रूप्ये[^६८] गृहीते वधः । कर्पूरादीनां तु पलानाम् एव शतसंख्या ॥ ८.३२१ ॥

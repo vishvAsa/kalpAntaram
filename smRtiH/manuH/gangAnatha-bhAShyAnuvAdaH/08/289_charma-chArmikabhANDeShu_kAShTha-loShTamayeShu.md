@@ -2,5 +2,29 @@
 title = "289 चर्म-चार्मिकभाण्डेषु काष्ठ-लोष्टमयेषु"
 
 +++
+Between ‘*carma*’ and ‘*cārmika*’ we have the copulative compound, and
+between the compound thus formed and the term ‘*bhāṇḍa*’ we have the
+Determinate Compound. Or, there is Determinate Compound between
+‘*carma*’ and ‘*cārmika*,’ and Copulative Compound between the compound
+thus formed and the term ‘*bhāṇḍa*.’
 
-**चर्मचार्मिकयोर्** द्वन्द्वं कृत्वा **भाण्ड**पदेन विशेष्येण समासः । अथ वा धार्मिकभाण्डयोर् विशेषणसमासं कृत्वा **चर्म**शब्देन द्वन्द्वः । चर्मविकाराच् **चार्मिकाणि** **भाण्डानि** कटिसूत्रवरत्रादीनि । **चर्माण्य्** अविकृतानि गवादीनां । अथ वा **चर्मभाण्डानि** केवचर्ममयानि, चर्मावनद्धानि **चार्मिकाणि** । **काष्ठमयभाण्डान्य्** उलूखलमुसलफलकादीनि । **लोष्ठो** मृद्विकारः पाषाणाकृतिः पिण्डीभूता मृत् । तन्मयानि स्वल्पपाकाधानादीनि । तन्नाशने **मूल्यात् पञ्चगुणो दण्डः** । तुष्ट्युत्पत्तिश् च स्वामिनः स्थितैव ॥ ८.२८९ ॥
+‘*Leathern*’ means *made of leather*; and ‘leathern vessels’ meant are
+the leather-bottle and such other articles.
+
+‘*Leather*’—stands for the mere *skin* of the cow and other animals, not
+made into anything.
+
+Or, the term ‘*leathern vessel*’ may stand for such vessels as are made
+of leather only, while ‘*leathern vessel*’ for those that are only bound
+up with leather.
+
+Vessels ‘*made of wood*’—the mortar, the pestle, the board and so forth.
+
+‘*Clay*’ is a form of earth, *i.e*., earth hardened into the form of
+stone; and vessels made of these are the cooking utensils, etc.
+
+In the case of damage done to these ‘*the fine shall be five times their
+price*’; and the satisfaction of the owner has of course got to be
+brought about.—(289)
+
+

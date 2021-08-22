@@ -2,19 +2,18 @@
 title = "400 शुल्कस्थानम् परिहरन्न्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 297), which adds the
+following notes:—‘*Śulka*’ is the duty realised by the king on all sales
+and purchases,—the ‘*sthānas*’ of this are the customs-outposts
+established by the king on rivers, in cities, on mountains, and so
+forth;—when themerchant reaches these out-posts, he should pay the
+custom; he should never seek to avoid their payment by going by
+untrodden tracks;—if with a view to avoiding customs-outposts, the
+merchant should seek to carry on his sale and purchases at the improper
+time—*e.g*., at night,—or if he declares his goods falsely,—then he
+should be made to pay a fine which is eight times the value of the
+commodity in question.
 
-**क्रयविक्रयी** वाणिजक[^३५७] उच्यते । **शुल्कस्थानं परिहरन्** उत्पथेन गच्छन्, **अकाले** वा रात्रौ शुल्काध्यक्षेषु गतेषु । **संख्याने** **मिथावादी** न्यूनं कथयति गणनायाम् । उपलक्षणं चैतत् संख्यानम् । तेन प्रच्छादने ऽप्य् एष एव विधिः । **दाप्यो ऽष्टगुणम् अत्ययं** दन्डः[^३५८] । यावद् अपह्नुते तावदष्टगुणम्, यावान् वा तस्यापह्नुतस्योचितः शुल्कस् तदष्टगुणं[^३५९] दाप्यः । आद्यम् एव युक्तम् । **अत्यय**शब्दो हि तत्र समञ्जसः, तद्धेतुत्वाद् द्रव्ये ।
+It is quoted in *Vyavahāra-Bālambhaṭṭī*, (p. 955).
 
 
-[^३५९]:
-     M G J: tam aṣṭaguṇaṃ (I follow DK 4: 2331)
-
-
-[^३५८]:
-     DK (1: 1706; 4: 2331): daṇḍaṃ
-
-
-[^३५७]:
-     M G: vāṇijya
-
-<u>अन्ये</u> त्व् **अकाले क्रयविक्रयी**[^३६०] इति संबन्धं कुर्वन्ति । अकालश् चागृहीते शुल्के रहसि वा प्रतिषेधो ऽयम् ॥ ८.४०० ॥

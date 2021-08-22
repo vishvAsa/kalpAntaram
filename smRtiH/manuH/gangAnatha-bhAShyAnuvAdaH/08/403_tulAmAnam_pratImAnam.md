@@ -2,5 +2,16 @@
 title = "403 तुलामानम् प्रतीमानम्"
 
 +++
+‘*Scales*’—well known.
 
-**तुला** प्रसिद्धा । **मानं** प्रस्थो द्रोण इत्यादि । **प्रतीमानं** सुवर्णादीनां परिच्छेदार्थं यत् क्रियते । सर्वतोभागे तत् **सुलक्षितं** राजचिह्नैर् अङ्कितं कार्यम् । स्वयं प्रत्यक्षेण परिच्छिद्य स्वमुद्रया । **परीक्षयेत् षट्सु षट्सु मासेषु पुनः** परीक्षां कारयेद् आप्तैर् अधिकारिभिर् यथा न विचालयन्ति केचित् ॥ ८.४०३ ॥
+‘*Weights*’—Seer, 2½ seers and so forth.
+
+‘*Measures*’—whereby gold and other similar things are weighed.
+
+All this should be duly marked—with the royal sign—on all sides; the
+king should himself examine them and mark them with his own seal.
+
+After every six months he should have them re-examined by his officers,
+so that no one might tamper with them.—(403)
+
+

@@ -2,13 +2,12 @@
 title = "347 न मित्रकारणाद्"
 
 +++
+For the reasons explained above, it is added—on account of his own
+friendship with the criminal,—or at the request of the minister or some
+other officer—or with the idea that the criminal himself is giving him a
+large amount of money,—the king shall not condone him; since
+perpetrators of violence cause terror to all creatures.
 
-अत आह पार्श्वथस्य[^१६२] कस्यचित् स्नेहहेतोर् अमात्यादिना पार्थ्यमानो न मृष्येत् । अथ वा स एवातिबहुधनं ददातीति नोपेक्षेत[^१६३] । सर्वेषां भूतानां भयम् आवहन्ति **साहसिकाः** । अयम् अप्य् अर्थवादः ॥ ८.३४७ ॥
+This also is purely declamatory.—(317)
 
 
-[^१६३]:
-     M G: nāpekṣeta
-
-
-[^१६२]:
-     M G: pārśvatīyasya

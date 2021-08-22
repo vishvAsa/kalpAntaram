@@ -2,29 +2,27 @@
 title = "245 सीमाम् प्रति"
 
 +++
+**(verses 8.245-251)  
+**
 
-**सीमां प्रति विवादे** सीमानिमित्ते । लक्षणेत्थंभूतेति प्रतेः कर्मप्रवचनीयत्वात् द्वितीयानिमित्तम् अपि लक्षणम् इति शक्यते वक्तुम् । **सीमा** मर्यादा ग्रामादीनां विभागः परिमाणम् इयत्ता परिच्छेदनम् इति यावत् । **ज्येष्ठे मासि नयेन्** निर्णयः कर्तव्यः । मासविशेषनिर्णये[^१३९] हेतुम् आह **संप्रकाशेषु सेतुषु** । सेतवः सीमालिङ्गानि वक्ष्यमाणानि लोष्ठपाषाणादिविशिष्टजातीयसीमा[^१४०] ग्राह्या, तृणगुञ्जादीनि[^१४१] प्राग् अस्मात् कालाद् उत्थितेषु[^१४२] तृणेषु लोष्ठपाषाणयोर् अन्यस्याश् च भूमेर् न विशेषो लक्ष्यते । पाषाणलक्षितायां यदा तत्र तृणानि न ज्ञायन्ते तदा सा सीमेति निश्चीयते । एवं वल्लीस्थानादिष्व् अपि । प्राग् वसन्ताद् वासन्तिके दाहे विशेषो न लक्ष्यते । हेत्वभिधानाच् च यस्मिन् देशे यदा व्यज्यन्ते ततो मासात् कालहरणं कर्तुं न देयम्[^१४३] । अन्यदा तु लिङ्गज्ञानार्थं[^१४४] कालापेक्षापि भवतीत्य् एतावत्फलं **ज्येष्ठ**ग्रहणे ॥ ८.२४५ ॥
+*Yājñavalkya* (2.151).—‘They should determine the boundary as indicated
+by a mound, coal, chaff or trees; as also by dikes, ant-hills, pits,
+bones, stone-piles and such other things.’
 
+*Nārada* (11.4-5).—‘They shall determine the boundary in accordance with
+old landmarks, chaff of grain, coal, potsherds, wells, sanctuaries,
+trees,—objects of general notoriety, such as ant-hills, artificial
+mounds, slopes, hills and the like, fields, gardens, roads and old
+dikes.’
 
-[^१४४]:
-     M G: liṅgājñānārthaṃ
-
-
-[^१४३]:
-     M G J: nādeyam
-
-
-[^१४२]:
-     M G J: anutthiteṣu
-
-
-[^१४१]:
-     M G: tṛṇaṃjādīni; J: -sīmāgrāhyatṛṇa-
-
-
-[^१४०]:
-     M G: -viśeṣajātīya-
-
-
-[^१३९]:
-     DK (1: 933: māsaviśeṣeṇa nirṇayakaraṇe
+*Bṛhaspati* (19.2-6).—‘The determination of boundaries should be settled
+at the time of foundation, and it should be marked by visible and
+invisible signs, so as to dispel all doubt. Wells, tanks, pools, large
+trees, gardens, temples, mounds, channels, the course of a river, sands,
+shrubs, or piles of stones;—by such visible signs as these a boundary
+line should always be marked; also by other marks deposited underground,
+which the earth is not likely to destroy;—such as dry cowdung, bones,
+chaff, charcoal, stones, potsherds, sand, bricks, cow’s tails,
+cotton-seeds and ashes; after having placed these substances in vessels
+one should deposit them there underground at the extremities of the
+boundary.’

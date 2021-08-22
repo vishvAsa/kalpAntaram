@@ -2,5 +2,15 @@
 title = "402 पञ्चरात्रे पञ्चरात्रे"
 
 +++
+In as much as the source and destination and other circumstances
+concerning commodities are variable, there are several rises and falls
+in their prices. Hence the fixing of the price should be done publicly
+after every five days; and it should not be regarded as done once for
+all; nor should entire reliance be placed upon the traders alone; the
+king himself should be always wide awake.
 
-आगमनिर्गमनादेर् द्रव्यस्यानित्यत्वाद् उपचयापचयाव् अर्घस्यानेकरूपौ । ततो ऽर्घसंस्थापनं **पञ्चरात्रे पञ्चरात्रे** प्रत्यक्षीकार्यम्, न सकृत् कृतं मन्तव्यम्, नापि वणिजो विश्वसितव्याः । किं तर्हि, स्वयं प्रतिजागरणीयम् । यद् द्रव्यं चिरेण निष्क्रामति तत्र **पक्षे** ऽर्घगवेषणम् अन्यत्र पाञ्चरात्रिकम् ॥ ८.४०२ ॥
+In connection with articles that take a long time to be disposed of, the
+prices should be fixed every fortnight, while in other things it should
+be done after every five Says.—(402)
+
+

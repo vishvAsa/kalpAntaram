@@ -2,33 +2,24 @@
 title = "206 ऋत्विग् यदि"
 
 +++
+This verse introduces the head of ‘Joint Concerns’: and as an example,
+the author takes up the ease of ‘Joint action’ at Vedic rites.
 
-संभूयसमुत्थानस्य प्रक्रमो ऽयम् । तत्र वैदिकं तावत् संभूयकार्यम् उदाहरति । **यज्ञो** ज्योतिष्टोमादिः । तत्र यागरूपानेकाङ्गकर्मनिर्वर्तनार्थम् **ऋत्विग् वृतः** "त्वया ममेदं हौत्रं कर्तव्यम् आध्वर्यवम् औद्गात्रं वा" इति[^२०] श्रौतेन विधिनानुष्ठेयम् इत्य् उपगमश् च प्रवर्तितः । कथंचिद् अपाटवादिना सामिकृतं[^२१] यत् **परिहापयेत्** त्यजेत् तदानीं तस्य **देयो** दक्षिण्**आंशः** कर्मानुरूपेण । यावती तस्मिन् क्रतौ दक्षिणा तां निरूप्य चतुर्थे भागे कर्मणः कृते चतुर्थः तृतीये तृतीय[^२२] इत्य् एतद् आनुरूप्यम्[^२३] । **सह कर्तृभिः**। कर्तारः तत्पुरुषाः[^२४] प्रधानर्त्विजां[^२५] होत्रुद्गात्रादीनां[^२६] प्रस्तोतृमैत्रावरुणप्रभृतयः ॥ ८.२०६ ॥
+‘*Sacrifice*’—The Jyotiṣṭoma and the rest. For the proper performance of
+the numerous details of these sacrifices, when a certain ‘*priest has
+been appointed*,’—with the words—‘you should perform the duties of the
+‘*Hotṛ*,’ or ‘of the *Adhvaryu*,’ or ‘of the *Udgātṛ*,’—and the further
+condition is made—‘you should do the work according to the
+*śrauta-rules*’;—if, on account of his inefficiency or other causes, he
+happens to abandon it after it has been half-done,—then the share of the
+sacrificial fee payable to him shall be in accordance with the amount of
+work done by him. For instance, if the man goes away after having done
+only a fourth part of his work, he should be paid the quarter of the
+third part of the entire ‘fee’ prescribed in connection with the
+particular sacrifice concerned. This would be ‘*in accordance with the
+work done*.’
 
-
-[^२६]:
-     M G DK: hotrodgātrādīnāṃ
-
-
-[^२५]:
-     M G J: pradhānartvijo
-
-
-[^२४]:
-     J: puruṣāḥ
-
-
-[^२३]:
-     M G: ārūpyaṃ
-
-
-[^२२]:
-     M G J: kṛte caturthatṛtīya
+‘*By h* *is* *associates*’—*i.e*., the other priests, the *Hotṛ*, the
+*Udgātṛ* and the rest.—(206)
 
 
-[^२१]:
-     M G: sāmikṛtāṃ
-
-
-[^२०]:
-     M G DK (1: 773): ceti

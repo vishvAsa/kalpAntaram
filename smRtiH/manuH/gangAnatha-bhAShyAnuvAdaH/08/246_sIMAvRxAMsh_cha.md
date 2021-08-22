@@ -2,9 +2,11 @@
 title = "246 सींआवृक्षांश् च"
 
 +++
+‘*Pādapa*’ is *plant*.—‘*Plants with milky-juice*’—such as the *Arka*,
+the *Udumbara* and the like.
 
-**पादपा** वृक्षाः । **क्षीरिणो** ऽर्कोदुम्बरप्रभृतयः । एते च[^१४५] चिरस्थायित्वात् सीमादेश एव रोपयितव्या न ग्राममध्ये । सीमादेशाद् अन्यत्र क्रियमाणा न निश्चायकाः स्युः ॥ ८.२४६ ॥
+These trees are long-lived; hence they should he planted on boundaries;
+but never in the midst of the village. If they were planted elsewhere
+also, they could not he sure indicatives of boundaries.—(246)
 
 
-[^१४५]:
-     M G: evaṃ hi

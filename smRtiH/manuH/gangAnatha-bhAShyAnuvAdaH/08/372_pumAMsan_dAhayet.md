@@ -2,5 +2,10 @@
 title = "372 पुमांसन् दाहयेत्"
 
 +++
+The paramour of the woman spoken of in the preceding verse shall be
+burnt to death on an iron-bed made hot like fire.
 
-यो ऽसौ पत्न्या जारः स **आयसे** लोह**शयने** **तप्ते** ऽग्निसमे कृते दाहयितव्यः । तत्र च शयनस्थितस्य काष्ठानि वध्यघातिनो **ऽभ्यादध्युर्** उपरि क्षिपेयुः । यावत् काष्ठप्रहारैर् अग्निज्वालाभिः शयनतापेन च मृतः ॥ ८.३७२ ॥
+Over him thus lying on the bed the executioners shall throw logs of
+wood, till he dies by the heat and by the strokes of the logs.—(372)
+
+

@@ -2,19 +2,20 @@
 title = "400 शुल्कस्थानम् परिहरन्न्"
 
 +++
+*Yājñvalkya* (2.262).—‘A. traitor who makes a false declaration of the
+measure of his commodity, or who evades the customs outpost, or who buys
+and sells fraudulently, should be made to pay eight times the value of
+the merchandise.’
 
-**क्रयविक्रयी** वाणिजक[^३५७] उच्यते । **शुल्कस्थानं परिहरन्** उत्पथेन गच्छन्, **अकाले** वा रात्रौ शुल्काध्यक्षेषु गतेषु । **संख्याने** **मिथावादी** न्यूनं कथयति गणनायाम् । उपलक्षणं चैतत् संख्यानम् । तेन प्रच्छादने ऽप्य् एष एव विधिः । **दाप्यो ऽष्टगुणम् अत्ययं** दन्डः[^३५८] । यावद् अपह्नुते तावदष्टगुणम्, यावान् वा तस्यापह्नुतस्योचितः शुल्कस् तदष्टगुणं[^३५९] दाप्यः । आद्यम् एव युक्तम् । **अत्यय**शब्दो हि तत्र समञ्जसः, तद्धेतुत्वाद् द्रव्ये ।
+*Nārada* (Aparārka, p. 834).—(Same as Manu.)
 
+*Viṣṇu* (Do.).—‘If a trader tries to evade the payment of duty he shall
+have his entire goods confiscated.’
 
-[^३५९]:
-     M G J: tam aṣṭaguṇaṃ (I follow DK 4: 2331)
+*Bṛhaspati* (Do.).—‘On arriving at the customs-office the trader shall
+pay the proper duty, and shall never evade it, as this is meant to be an
+offering to the King.’
 
-
-[^३५८]:
-     DK (1: 1706; 4: 2331): daṇḍaṃ
-
-
-[^३५७]:
-     M G: vāṇijya
-
-<u>अन्ये</u> त्व् **अकाले क्रयविक्रयी**[^३६०] इति संबन्धं कुर्वन्ति । अकालश् चागृहीते शुल्के रहसि वा प्रतिषेधो ऽयम् ॥ ८.४०० ॥
+*Śaṅkha-Likhita* (Vivādaratnākara, p. 298).—‘The trader who uses false
+weights and measures incurs the penalty of having his limbs cut off, or
+some corporal punishment.’

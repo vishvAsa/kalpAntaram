@@ -2,87 +2,68 @@
 title = "041 जाति-जानपदान् धर्मान्"
 
 +++
+*Gautama* (11.10, 11, 20, 21).—‘Those who leave the path of duty, he
+shall lead back to it;—for it is declared that he obtains a share of the
+spiritual merit gained by his subjects. The laws of countries, castes
+and families, which are not opposed to the scriptures, also have
+authority. Cultivators, traders, herdsmen, money-lenders and artisans
+have authority to lay down regulations for their respective classes.’
 
-कुरुकापिशकाश्मीरादिदेशो नियतावधिः जनपदम् । तत्र भवा धर्मा **जानपदाः** । केचित्[^१५०] तत्र भवन्ति ये तद्देशव्यपदेशैर् अनुष्ठीयन्ते । अथ वा तन्निवासिनो जना मञ्चाः क्रोशन्तीतिवत् जनपदशब्देनाभिधीयन्ते । तेषाम् अनुष्ठेया जानपदाः । "तस्येदम्" (पाण् ४.३.१२९) इति तद्धितः । जातेर् जानपदा **जातिजानपदा** इति षष्ठीसमासः । जातिमात्रविषया देशधर्मा राज्ञा परिपालनीयाः । **समीक्ष्य** विचार्य — किम् आम्नायैर् विरुद्धा अथ न, तथा पीडाकराः कस्यचिद् उत न — एवं विचार्य, ये ऽविरुद्धाश् तान् **प्रतिपादयेद्** अनुष्टापयेद् इत्य् अर्थः । तथा च वक्ष्यति "सद्भिर् आचरितं यत् स्यात्" (म्ध् ८.४६) इति । 
+*Āpastamba* (2.15.1).—‘The above considerations dispose also of the law
+of custom which is observed in countries or families.’
 
+*Bodhāyana* (1.2.1-8).—‘There is a difference of opinion regarding live
+practices in the South and in the North. He who follows those practices
+in any other country than where they prevail, commits sin; for each of
+those practices, the custom of the country should he the authority.
+Gautama declares that this is wrong; and one should not take heed of any
+of these practices, because they are opposed to the traditions of the
+cultured.’
 
-[^१५०]:
-     M G DK (1: 76): kiṃ ca
+*Vaśiṣṭha* (1.17).—‘Manu has declared that the peculiar laws of
+countries, castes, and families may he followed in the absence of
+revealed texts.’
 
-- अथ वा जातयश् च ते जानपदाश् चेति विशेषणसमासः । जातिशब्देन च नित्यत्वं लक्ष्यते । प्रशंसामात्रं चैतत् देशधर्माणाम् । यथा जातिर् नित्या एवं[^१५१] देशधर्मा अपि शास्त्राविरुद्धा नित्याः । ते नित्यवद् अनुष्ठेया दृष्टार्था[^१५२] गोप्रचारोदकक्षरणादयः । यथा ग्रामीणा अत्र प्रदेशे गावो न चारणीया इति समयम् आश्रयन्ति कस्यचित् कार्यस्य सिद्ध्यर्थं तत्र यो व्यतिक्रामति स राज्ञा दण्ड्यः । 
+Do. (19.7).—‘Let the King, paying attention to all the laws of
+countries, castes and families, make the four castes fulfil their
+particular duties.’
 
+*Viṣṇu* (3.3).—‘To keep the four castes and the four orders firm in the
+practice of their several duties.’
 
-[^१५२]:
-     M G: dṛṣṭārtho
+*Yājñavalkya* (1.360).—‘Families, castes, guilds, corporations and the
+provinces,—when those deviate from the paths of their duty, the King
+should check them and bring them round to the right path.’
 
+*Śukranīti* (4.5.89-91)—‘The King should perform his duty by carefully
+studying the customs that are followed in countries and are mentioned in
+the scriptures, as well as those that are practised by castes, villages,
+corporations and families. Those customs that have been introduced in
+the country, caste or race should be maintained in the same condition;
+for otherwise the people get perplexed.’
 
-[^१५१]:
-     M G DK omit: deśadharmāṇām | yathā jātir nityā evaṃ
+*Nārada* (1.7).—‘Families, guilds, corporations, one appointed by the
+King and the King himself are invested with the power to decide
+law-suits,—each succeeding one being superior to the one preceding in
+order.’
 
-- अथ वा जनपदे भवा **जानपदा** देशनिवासिन उच्यन्ते । जात्या जानपदा **जातिजानपदाः** । जातिर् जन्मोत्पत्तिर् इति यावत् । एतेन देशसंबन्धस्य[^१५३] पुरुषाणां नित्यता लक्ष्यते । ये तद्देशजास् तद्देशाभिजनास् तन्निवासिनश् च गृह्यन्ते, तेषां सर्वविशेषणविशिष्टानाम्[^१५४] अनिदंप्रथमतो जाता ये धर्मास् ते जातिजानपादशब्देनोच्यन्ते । "वृद्धाच् छः" (पाण् ४.२.११४) इति तद्धिते प्रसक्ते छान्दसत्वाद् अणेव कृतः । 
+*Bṛhaspati* (1.26-30).—‘Cultivators, artisans, artists, money-lenders,
+persons belonging to particular religious sects and robbers should
+adjust their disputes according to the rules of their own profession.
+The King shall cause the disputes of ascetics and of persons versed in
+sorcery and witchcraft to be settled by persons familiar with the three
+Vedas, and not decide them himself, for fear of rousing their
+resentment. Relatives, companies of artisans, assemblies, and other
+persons duly authorised by the King should decide law-suits among men,
+excepting causes concerning violent crimes; Meetings of Kindred,
+companies of artisans, assemblies and chief judges are declared to he
+the resorts for the passing of sentences,—to whom he whose cause has
+been previously tried may appeal in succession.’
 
-
-[^१५४]:
-     M G: -viśeṣaṇāviśiṣṭānām
-
-
-[^१५३]:
-     M G: deśabandhasya
-
-- अथ वाभेदोपचारात् पुरुषशब्दस् तत्संबन्धिषु धर्मेषु प्रयुक्तः । तेनायं[^१५५] देशनियमो धर्माणां स एवंविधात् पुरुषात् प्रतिद्रष्टव्यः । एते हि देशधर्मा म्लेच्छानां[^१५६] न पुनर् आर्याणाम् । ते[^१५७] हि तिर्यक्समानधर्माणो ऽन्यत्रानधिकृताः स्वसमाचारप्रसिद्धं धर्मम् अनुतिष्ठन्ति मातृविवाहादि[^१५८] । सो ऽयं[^१५९] सार्वभौमेन न[^१६०] निवारणीयः । स्वदेशाचारवतां तेषां जातिधर्मो ऽयं[^१६१] जनपदनिवासबन्धेनाभ्यनुज्ञानात्,[^१६२] आम्नायविरोधो[^१६३] ऽप्य् अत्र नास्ति । अधिकृतानां विरोधात् विरोधो न तिरश्चाम् ।
-
-
-[^१६३]:
-     M G DK: āmnāye virodho
-
-
-[^१६२]:
-     M G DK: jananivāsa-
-
-
-[^१६१]:
-     M G DK omit: so 'yaṃ
-
-
-[^१६०]:
-     M G DK omit: na
-
-
-[^१५९]:
-     M G DK omit: so 'yaṃ
-
-
-[^१५८]:
-     M G: -vivāhādiḥ
-
-
-[^१५७]:
-     M G DK: na
-
-
-[^१५६]:
-     M G DK: deśānāṃ
-
-
-[^१५५]:
-     M G DK: etenāyaṃ
-
-- span style="text-decoration-underline;">ननु</u> "अहिंसा सत्यम् अक्रोधः शौचम् इन्द्रियसंयमः" (म्ध् १०.६३) इति प्रतिलोमाधिकारेणैवोक्तम् । म्लेच्छाश् च प्रतिलोमा[^१६४] एव । तत्र यदि मातृविवाहे मूत्रोत्सर्गे चोदकशुद्ध्यभावे न दुष्यति, क इन्द्रियसंयमः कीदृशं वा शौचम् इति । 
-
-
-[^१६४]:
-     M G DK: cāpratilomā
-
-- span style="text-decoration-underline;">उक्तम्</u> एतत् । आर्यावर्तमध्यवर्तिनाम्[^१६५] एते धर्माः शौचादयः । चातुर्वर्ण्ये तु तत्तद्देशनियमो[^१६६] धर्माणां नास्ति । केचिद् अदृष्टार्था देशधर्मा इति वक्ष्यामः । 
-
-
-[^१६६]:
-     M G DK: taddeśaniyamo
-
-
-[^१६५]:
-     M G DK: āryāvartinām
-
-एककार्यापन्ना वणिक्कारुकुसीदिचातुरिकादयः[^१६७] । तेषां धर्माः **श्रेणीधर्माः** । यथा केचन वणिङ्महत्तरा वचनेन परिच्छिन्नं राज्ञो भागं प्रयच्छन्ति — "इमां वणिज्यां वयम् उपजीवाम एष ते राजभागो ऽस्माकं यावल् लाभो ऽस्तु न्यूनो ऽधिको वा" । तत्र राज्ञाभ्युपगते वणिज्ये लाभातिशयार्थं राष्ट्रविरोधिनीं चेतरेतरव्यवस्थां कुर्वन्ति — इदं द्रव्यम् इयन्तं कालम् अविक्रेयम्, अयं राज्ञो ऽपदेशेनार्थो[^१६८] दण्डः पतति, देवतोत्सवार्थो वा । तत्र यदि कश्चिद् व्यतिक्रामति स एवं श्रेणीधर्मव्यतिक्रामन् दण्ड्यः ।  
-
-**कुलधर्मा** इति । कुलं वंशः । तत्र प्रख्यातमहिम्ना पूर्वजेन धर्मः प्रवर्तितो भवति यो ऽस्मद्वंशजः कुतश्चन धनं लभेत स नादत्वा ब्राह्मणेभ्यो ऽन्यत्र विनियुञ्जीतेत्यादयो धर्माः । तथा, सति योग्यत्वे य एव पूर्वपुरुषाणां याजकाः कन्यादिसंप्रदानभूता वा त एव कार्याः[^१६९] । तदतिक्रामन् राज्ञो ऽनुष्ठापयितव्यः । एतेषां च सामवायिकत्वाद् अधर्मत्वशङ्कया पुनर्वचनम् । न चायं संविद्व्यतिक्रम इति वक्ष्यामः ॥ ८.४१ ॥
+*Bṛhaspati* (2.26.28).—‘When a decision is passed in accordance with
+local custom, logic or the opinion of traders, the issue of the case is
+over-ruled by it. When the King, disregarding established custom, passes
+sentence, it is called the *edict of the king*, and local custom is
+over-ruled by it. The time-honoured institutions of each country, caste
+and family should be preserved intact; otherwise the people would rise
+in rebellion.’

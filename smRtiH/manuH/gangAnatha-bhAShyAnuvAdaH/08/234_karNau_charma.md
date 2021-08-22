@@ -2,5 +2,18 @@
 title = "234 कर्णौ चर्म"
 
 +++
+When, on the expiry of their lives, the animals have died, the ears and
+other limbs should be made over to the owner.
 
-आयुषः क्षयान् **मृतेषु पशुषु स्वामिनः कर्णाद्य्** अर्पणीयम् । **गोरोचनां** गवां शृङ्गेषु चूर्णं भवति । **बस्तिर्** अङ्गविशेषः । **अङ्काः** कर्णादयः, स्वामिविशेषज्ञानार्थं चिह्नानि । तान् अपि दर्शयेत् । एवं पालस्य शुद्धिः । अङ्कदर्शनेन हि प्रत्यभिज्ञा भवत्य् अयं स पशुर् इति ॥ ८.२३४ ॥
+The ‘*concrete bile*’ is a powder obtained from the horns of cows.
+
+‘*Bladder*’—is a particular part of the body.
+
+‘*Marks*’—such as ‘cleft ears’ and the like, which serve to distinguish
+the animals;—these should be pointed out.
+
+In this manner, does the keeper become absolved from blame.
+
+By seeing the marks the particular animal becomes identified.—(234)
+
+

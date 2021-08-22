@@ -3,4 +3,4 @@ title = "088 अध्यापनम् अध्ययनम्"
 
 +++
 
-> **प्रजानां रक्षणं दानम् इज्याध्ययनम् एव च ।**  
+For the Brāhmaṇas he ordained teaching, studying, sacrificing and officiating at sacrifices, as also the giving and accepting of gifts. (88).

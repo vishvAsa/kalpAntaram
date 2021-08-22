@@ -2,43 +2,49 @@
 title = "350 गुरुं वा"
 
 +++
+**(verses 8.350-351)  
+**
 
-**आततायी** उच्यते यः शरीरधनदारपुत्रनाशे सर्वप्रकारम् उद्यतः । तम् **अविचारयन्**[^१७४] हन्यात् । **गुर्व्**आदिग्रहणम् अर्थवादः । एते ऽपि हन्तव्याः, किम् उतान्य इति । एतेषां त्व् आततायित्वे ऽपि वधो नास्ति । "आचार्यं च प्रवक्तारम्" (म्ध् ४.१६२) इत्य् अनेनापकारिणाम् अपि वधो निषिद्धः । **गुरुम् आततायिनम्** इति शक्यः संबन्धः । तथा सत्य् आततायिविशेषणम् एतत् । ततो गुर्वादिव्यतिरिक्तस्याततायिनः प्रतिषेधः कुतः स्यात् । वाक्यान्तराभावात् । 
+*Vaśiṣṭha* (3.15-18). ‘They declare that the slayer commits no crime by
+slaying an assassin. They quote the following:—“An incendiary, a
+poisoner, one raising a weapon to strike, a robber, one who forcibly
+takes away land, abductor of another man’s wife,—these six are called
+Ātatāyin, *Assassins*. One may slay an assassin who comes with the
+intention of killing, even though he may be knowing the whole Veda along
+with the Upaniṣads; by that act one does not incur the guilt of
+Brāhmaṇa-slaughter. He who slays an assassin learned in the Veda and
+belonging to a noble family, does not incur, by that act, the guilt of
+murdering a learned Brāhmaṇa; as this is a case of fury recoiling on
+fury.”’
 
+*Baudhāyana* (1-18.11-13).—‘One should not fight with......
+Brāhmaṇas,—excepting assassins. They quote the following—“He who slays
+an assassin, who is able to expound the Veda and born in a noble family,
+does not, by that act, incur the guilt of killing a learned Brāhmaṇa;
+this being a case of fury recoiling on fury.”’
 
-[^१७४]:
-     M G add: na vicārayet; DK (1: 1625) add: na vicārayan
+*Viṣṇu* (5.189-192).—‘Any man may unhesitatingly slay a man who attacks
+him with the intent to murder him, whether he be his spiritual teacher,
+young or old, or a Brāhmaṇa, or even a Brāhmaṇa versed in many branches
+of sacred knowledge. By killing an assassin who attempts to kill,
+whether in public or in private, no crime is committed by the
+slayer—fury recoils on fury. Assassins are of seven kinds—such as try to
+kill by the sword, or with poison, or with fire, such as raise their
+hand to pronounce a curse, such as recite a deadly incantation from the
+Atharva Veda, such as raise a false accusation reaching the ears of the
+King, and such as have illicit intercourse with another man’s wife. The
+same designation is given to other evil-doers who deprive others of
+their reputation or of their wealth, or who destroy religious merit by
+ruining pools and such things or property.’
 
-- span style="text-decoration-underline;">अथ</u> "नाततायिवधे दोषः" (म्ध् ८.३५१) इत्य् एतद् वाक्यान्तरं सामान्येनाभ्यनुज्ञापकम् इति ।
+*Vyāsa* (Aparārka, p. 1042).—‘Or an assassin advancing to strike one,
+even though he be fully learned in the Veda, if one strikes him, one
+does not incur the sin of Brāhmaṇa-killing. The following are to be
+regarded as assassins:—one raising the sword to strike, one going to
+administer fire or poison, one raising his hand to curse, one killing
+with magic rites, one back-biting to the King, one wresting another
+man’s wife.’
 
-- span style="text-decoration-underline;">तद् अपि न</u>, विधेर् अश्रवणात्, पूर्वशेषतया चार्थवादत्वे प्रकृतवचनत्वात् । 
-
-- इह भवन्तस्[^१७५] त्व् आहुः- यद्य् आततायिनम्[^१७६] इत्य् एव विधिः, अवशिष्टो ऽर्थवादः, तथापि गुर्वादीनां वधानुज्ञानम् । यतो ऽन्यद् अपकारित्वम् अन्यद् आततायित्वम् । यो ह्य् अन्यां कांचन पीडां करोति न सर्वेण शरीरादिना सो ऽपकारी, ततस् त्व् अन्य[^१७७] आततायी[^१७८] । तथा च पठ्यते ।
-
-
-[^१७८]:
-     M G: karoti sa sarveṇa śarīrādinā steyakārītas tv ātatāyī; DK: 
-
-
-[^१७७]:
-     DK omits: anya
-
-
-[^१७६]:
-     M G: yad yathātatāyinam
-
-
-[^१७५]:
-     M G: bhavatāṃs
-
-- उद्यतासिर् विषाग्निभ्यां शापोद्यतकरस् तथा ।
-
-- आथर्वणेन हन्ता च पिशुनश् चापि राजतः ॥
-
-- भार्यातिक्रमकारी च रन्धान्वेषणतत्परः ।
-
-- एवमाद्यान् विजानीयात् सर्वान् एवाततायिनः ॥ (क्स्म् ८०२–०३)
-
-****"**<u>आयान्तम् इति</u>** वचनाद् आत्तशस्त्रो हन्तुम् अभिधावन् दारान् वा जिहीर्षन् हन्तव्यः । कृते तु दोषे किम् अन्यत् करिष्यतीत्य् उपेक्षा" इति ब्रुवते ।
-
-<u>तद् अयुक्तम्</u> । यतः "प्रकाशम् अप्रकाशं वा"[^१७९] (म्ध् ८.३५१) इति वक्ष्यति । समानौ ह्य् एतौ करिष्यन् कृतवांश् च[^१८०] । तस्माद् **आयान्तम्** इत्य् अनुवादः- कर्तुम् आगतं कृत्वा वा गतम् इति । आततायित्वाच् चासौ हन्यते । न च कृतवचन आततायित्वम् उपैति । नास्यात्मनो रक्षार्थ एव वध "आत्मनश् च परित्राणे" (म्ध् ८.३४९) इति अनेनोक्तम्[^१८१] ॥ ८.३५० ॥
+*Bṛhaspati* (Do.).—‘If one reviles on being reviled, or strikes on being
+struck, or kills one who is advancing to kill, one does not commit any
+offence.’

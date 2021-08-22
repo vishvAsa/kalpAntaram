@@ -2,58 +2,39 @@
 title = "338 ब्राह्मणस्य चतुःषष्टिः"
 
 +++
+**(verses 8.337-338)**
+
+These verses are quoted in *Mitākṣarā* (2.275), in support of the view
+that the fine imposed for theft should vary with the caste of the thief;
+whereon *Bālambhaṭṭī* notes two different readings (see Note I);—in
+*Parāśaramādhava* (Vyavahāra, p. 302):—and in *Vivādaratnākara* (342),
+which adds the following notes:—‘*Aṣṭāpādyam*’ means ‘multiplied eight
+times,’—‘*kilviṣam*,’ the amount of fine imposed as punishment; the
+meaning thus is that the fine to be imposed upon a *learned śūdra*
+should be eight times that on an *ignorant śūdra*; similarly in the case
+of the Vaiśya and others also;—for the Brāhmaṇa the fine is to be either
+full one hundred, or twice 64;—the reason for this is
+‘*taddoṣaguṇaviddhi saḥ*,’—‘because the Brāhmaṇa is fully cognisant of
+the evil character of theft—thus the fact of the culprit being cognisant
+of the evil being a ground for enhanced penalty in the case of the
+Brāhmaṇa, the same principle is to be applied to the case of the Śūdra
+and others also. That offence for which the legal penalty for the Śūdra,
+is *one*, for the Vaiśya, the Kṣatriya and the Brāhmaṇa, it should be
+double the amount of the preceding; so that the penalty for the
+*ignorant* Śūdra being one, that of the *learned* Śūdra is *eight
+times*—aṇd that of the learned Vaiśya 16, the learned Kṣatriya 32 and
+the learned Brāhmaṇa 64 times.
+
+These are quoted also in *Prāyaścittāviveka* (p, 348), which says that
+all that is meant is to deprecate the act, and to show that the gravity
+of the offence is in proportion to the caste of the delinquent;—it
+explains ‘*aṣṭāpādyam*’ as ‘that which is multiplied by *eight*;
+*aṣṭābhiḥ āpadyate guṇyate iti*,’—the single unit being meant for those
+lower than the Śūdra;—in *Vivādacintāmaṇi* (p. 144), which attributes
+them to Yājñavalkya, and says that ‘*taddoṣaguṇavit*’ is to be construed
+all through; so that the meaning is that the fine in the case of the
+Śūdra who is cognisant of the seriousness of the offence is to be eight
+times that of the ignorant man, and so on, the fine varying with the
+qualifications of the offender.
 
 
-**तद्दोषगुणविद् धि स** इति हेत्वभिधानाद् विदुषां दण्डो ऽयम् । यत्र खलजन एकं कार्षापणं दाप्यते तत्र विद्वान्[^१२२] शूद्रो ऽष्टगुणाम् । **अष्टभिः आपाद्यते** संबध्यते यत् **किल्बिषं** पापं तद् एवम् उच्यते । अष्टभिर् वापाद्यत आहन्यते गुण्यत इति यावत्, उभयथाप्य् अष्टगुणस्य वाचको **ऽष्टापद्य**शब्दः । एवं तद् एव द्विगुणं वैश्यस्य । स हि साक्षाद् अध्ययनज्ञानयोर् अधिकृतः । शूद्रस् तु कथंचिद् ब्राह्मणापाश्रिततत्संगत्या कियद् अपि ज्ञास्यति । क्षत्रियस् तु रक्षाधिकारदोषेण समाने विद्वत्त्वे ततो ऽपि द्विगुणं दण्ड्यते । ब्राह्मणे तु दण्डविधौ न तृप्यति । चतुःषष्टिः शतम्[^१२३] अष्टविंशं वा शतम्[^१२४] इति । तस्य हि प्रवचनम् उपदेष्टृत्वं वा, अधिकं च रक्षा[^१२५] ततो भवेत् । प्राकृतजनस्य तिर्यक्प्रख्यस्य को ऽपराधः[^१२६] । अविद्वांसो गुणदोषानभिज्ञा अकार्ये प्रवर्तन्ते । विद्वान् अपि तथैव चेद् वर्तेत हन्त हतं[^१२७] जगत्, तृतीयस्य शिक्षितुर् अभावात् । तद् उक्तं "द्वौ लोके[^१२८] धृतव्रतौ[^१२९] राजा ब्राह्मणश् च बहुश्रुतः" (ग्ध् ८.१) इति । राज्ञः पूर्वेण दण्डाधिक्यम् अनेन ब्राह्मणस्य । आधिक्यमात्राविधिश् चायं न यथाश्रुतसंख्याविधिः, ब्राह्मणदण्डे ऽनवस्थाश्रवणाद् अयं वायं वेति[^१३०] । न च विकल्पो युक्तो व्यवस्थाहेतुत्वाभावात् । तुल्यबलस्यैव विकल्पस्य परविषयाश्रयानुपपत्तेः[^१३१] । को हि राजा द्विजगुणम् उत्सृज्य चतुःषष्टिं ग्रहीष्यति । यदि परमदृष्टार्थे दण्डे[^१३२] विकल्पः, उपपद्येत । न चादृष्टार्थो ऽयम् इत्य् उक्तम् । तथा च गौतमः "विदुषो ऽतिक्रमे[^१३३] दण्डभूयस्त्वम्" इत्य् आह । तस्माद् अनवस्था विधित्वं व्याहरन्ति । न च गुणापेक्षो विकल्पो युक्तो नष्टादिश्लोकेनैव (म्ध् ८.२३२) विद्धत्वात् । अर्थवत्त्वाच्[^१३४] चात्र विध्यगतिः । स चाधिक्यविधौ लब्धालंबन इति न यथाश्रुतपरिकल्पने विकल्पने समर्थः ॥ ८.३३७–३८ ॥
-
-
-[^१३४]:
-M G DK: arthavādāc
-
-
-[^१३३]:
-M G J: 'tikrama-
-
-
-[^१३२]:
-J: paramadṛṣṭārtho daṇḍo
-
-
-[^१३१]:
-M G DK: tulyabalasyaiva viṣayasyānupapatteḥ
-
-
-[^१३०]:
-M G: ceti
-
-
-[^१२९]:
-J: dvau lokaviśrutau
-
-
-[^१२८]:
-M G: lokau
-
-
-[^१२७]:
-M G: hanta
-
-
-[^१२६]:
-M G: -prakhyasyāparādhaḥ
-
-
-[^१२५]:
-J: vādhikaṃ ca — yato rakṣā
-
-
-[^१२४]:
-DK (1: 1721): aṣṭaviṃśādhikaśatam
-
-
-[^१२३]:
-M G J: catuḥṣaṣṭiśatam
-
-
-[^१२२]:
-M G: tatrāvidvān

@@ -2,9 +2,8 @@
 title = "137 धरणानि दश"
 
 +++
+**(verses 8.131-137)  
+**
 
-**शतमान** इति संज्ञा दशानां धरणानाम् । **रजत**शब्देन सुवर्णम् अप्य् उच्यते । तेन रूप्यसुवर्णयोर् इयं संज्ञा । सुवर्णस्य मानं[^१७६] तु शास्त्रान्तरात् परिमातव्यम् । तथा च विशेषयिष्यति **शतमानं तु राजतम्** इति ॥ ८.१३७ ॥
-
-
-[^१७६]:
-     M G: samānaṃ
+See Comparative notes for [Verse
+8.131](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201046.html#comparative-notes "English translation of verse").

@@ -2,33 +2,26 @@
 title = "055 तमो ऽयम्"
 
 +++
+Under this verse Hopkins translates a passage from Medhātithi, which, as
+will be clear from the text, has been entirely misunderstood and hence
+wrongly rendered.
 
-इदानीं संसारिणः पुरुषस्य मरणं देहान्तरप्राप्तिश् चाभ्यां श्लोकाभ्यां कथ्यते । **तमो** ज्ञाननिवृत्तिस् तां **समाश्रित्य** **चिरं तिष्ठत्य्** आस्ते **सेन्द्रियः** । **न च स्वं कुरुते कर्म** श्वासप्रश्वासादिकं । **तदा मूर्तितः** शरीराद् **उत्क्रामति** गच्छति ।
-
-- <u>ननु</u> च सर्वगत आत्माकाशवद् विभुस् तस्य कीदृश्य् उत्क्रान्तिः । 
-
-- कर्मोपार्जितशरीरत्याग एवोत्क्रान्तिः । न पुनर् मूर्तस्यैवार्थस्य देशाद् देशान्तरगमनम् । <u>अथ</u> वा कैश्चिद् इष्यते- अस्त्य् अन्यद् अन्तराभवं शरीरं सूक्ष्मं यस्येयम् उत्क्रान्तिः । <u>अन्यैस्</u> त्व् अन्तराभवदेहो नेष्यते । यथाह भगवान् व्यासः-
-
-- अस्मिन् देहे व्यतीते तु देहम् अन्यन् नराधिप ।
-
-- इन्द्रियाणि वसन्त्य् एव तस्मान् नास्त्य् अन्त्राभवः ॥
-
-<u>सांख्या</u> अपि केचिन् नान्तराभवम् इच्छन्ति विन्ध्यवासिप्रभृतयः । को ऽयम् अन्तराभवो नाम । अस्मिञ् छरीरे नष्टे मातृकुक्ष्यादिस्थानं द्वितीयशरीरग्रहणार्थं यावन् न प्राप्तं तावद् अन्तरा निरुपभोगं[^९६] शरीरम् उपजायते सूक्ष्मं यस्य न क्वचित् संयोगो नाग्न्यादिदाहो न महाभूतैः प्रतिबन्धः । <u>अन्ये</u> तु मूर्तिं परमात्मानम् आहुः । सर्वात्मरूपः परमात्मा समुद्रस्थानीयस् ततः प्रादुर् भवन्ति जीवा अविद्यावशाद् भेदम् उपयन्ति, महोदधेर् इवोर्मयः । तस्य च ततो निष्क्रामतः पुर्यष्टाकाख्यं लिङ्गम् अभ्युपगम्यते । धर्माधर्मपूर्वकृतवशात्[^९७] प्रत्येकस्य जीवस्य वासःस्थानीयं सूक्ष्मं शरीरम् । यथा पुराण उक्तम् । 
-
-
-[^९७]:
-     J: pūrvakṛtadharmādharmavaśāt
-
-
-[^९६]:
-     M G 1st ed.: nirupayogi; G 2nd ed.: nirupabhogayogi
-
-- पुर्यष्टकेन लिङ्गेन प्राणाख्येन स युज्यते ।
-
-- तेन बद्धस्य वै बन्धो मोक्षो मुक्तस्य तेन तु ॥
-
-ते च प्राणापानव्यानोदानसमानाः पञ्च बुद्धीन्द्रियवर्ग एवं कर्मेन्द्रियवर्गो ऽष्टमं मन इत्य् एतत् पुर्यष्टकम् । तच्छरीरं न नश्यति आमोक्षावस्थायाः । तद् उक्तम् "संसरति निरूपभोगभावैर्[^९८] अधिवासितं लिङ्गम्" ॥ १.५५ ॥
-
-
-[^९८]:
-     J: nirūpabhogaṃ 
+Verses 55 and 56 have been variously interpreted. (1) According to
+Medhātithi, Govindarāja and Kullūka, it describes the process of
+transmigration. When an individual is dying, his individual Soul enters
+darkness,—*i.e*. becomes unconscious; and even though It continues to be
+connected with the dying body, the physical functions gradually
+cease;—then It leaves the body,—and enveloped in a subtle body—formed of
+the eight constituents (variously enumerated), It enters the embryo
+determined for It by its own past acts, and there becomes clothed with a
+new physical body which accompanies It through Its next life on Earth.
+(2) Nārāyaṇa holds that verse 55 provides the description of the soul
+during a swoon, and the second alone refers to the method of
+transmigration. (3) The explanation given by Nandana is entirely
+different. He; takes the verses as referring to what is done by the
+Supreme Being, the Creator;—verse 55 describing His action during
+Dissolution and 56 referring to a fresh creation following it. The
+Supreme Lord ‘enters darkness—*i.e*. the *Pradhāna*,—and having remained
+therein during the entire period of the Dissolution, becomes endowed
+with organs and a visible shape,—*i*. *e*., the shape of the Created
+Universe.’

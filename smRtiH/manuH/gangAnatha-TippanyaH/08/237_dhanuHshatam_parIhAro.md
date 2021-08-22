@@ -2,9 +2,19 @@
 title = "237 धनुःशतम् परीहारो"
 
 +++
+This verse is quoted in *Aparārka* (p. 774), which adds the following
+notes:—‘*Śaṃyā*’ is the piece of wood which serves as the bolt keeping
+the bullock fixed to the yoke,—and the distance covered by the tin-owing
+of tins piece of wood is what is called ‘*Śamyāpāta*.’
 
-चतुर्हस्तं **धनुस्** तेषां **शतम्** । चत्वारि हस्तशतानि । **समन्ततश्** चतसृषु दिक्षु । **ग्रामस्य परीहारः** कर्तव्यः । अनुप्तसस्या भूमिः पशूनां सुखप्रचारार्था कर्तव्या । **शम्या**[^१०६] दण्डयष्टिः, सा बाहुवेगेन प्रेरिता यत्र पतति ततः प्रदेशाद् उद्धृत्य पुनः पातयितव्या यावत् त्रिस् तस्य परिमाणो वा **शम्यापातः** परिहारः । **त्रिगुणो नगरस्य** । ग्रामनगरे प्रसिद्धे । **शम्यायाः पाताः** प्रेरिताया वेगसंस्कारक्षयो भूमौ स्थानादि ॥ ८.२३७ ॥
+It is quoted in *Vivādaratnākara* (p. 231), which, reading
+‘*Saṃyāpātāḥ*’ (in place of ‘*Śaṃyāpātāḥ*’) notes that the ‘*Sami*’ is a
+wooden bolt, and three times the distance covered by the throwing of it
+should be the extent of the pasture-land round the village, and three
+times this should be the pasture-land surrounding a city.
+
+It is quoted in *Vyavahāramayūkha* (p. 96), which explains ‘*parīhāra*’
+as ‘land reserved for the grazing of cattle—and in
+*Vyavahāra-Bālambhaṭṭī* (p. 817).
 
 
-[^१०६]:
-     M G omit: śamyā

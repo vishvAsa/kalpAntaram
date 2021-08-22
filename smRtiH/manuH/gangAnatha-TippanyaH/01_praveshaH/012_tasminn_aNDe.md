@@ -2,13 +2,11 @@
 title = "012 तस्मिन्न् अण्डे"
 
 +++
+*Parivatsaram*—Kullū. alone takes this to mean ‘a year of Brahmā’; all
+others take it in the sense of the ordinary year; *Cf*. [Śatapatha
+Brāhmaṇa 11. 1. 6.
+2](/hinduism/book/the-%C5%9Batapatha-br%C4%81hma%E1%B9%87a-part-v/d/doc63422.html "On the golden egg").
 
-**स भगवान्** ब्रह्मा **परिवत्सरं** संवत्सरम् **उषित्वा** **तस्मिन्न् अण्डे** स्थित उत्पन्नः सर्वज्ञः कथं निर्गच्छेयम् इति ध्यातवान्[^४२] । **तद् अण्डम् अकरोद् द्विधा** । तावता कालेन गर्भः परिपच्यते । अण्डम् अपि तावत्कालेन भेदजातं[^४३] परिपाकाद् अतः काकतालीयन्यायेन तद् अण्डम् अकरोद् द्विधेत्य् उच्यते ॥ १.१२ ॥
-
-
-[^४३]:
-     G 2nd ed.: bhedaṃ jātam
-
-
-[^४२]:
-     J places tasminn aṇḍe sthita utpannaḥ sarvajñaḥ kathaṃ nirgaccheyam iti dhyātavān, after paripacyate.
+*Dhyānāt*—Medhātithi’s robust intellect again asserts itself: The Egg
+broke, not because the indwelling Brahmā willed it, hut because of its
+full *development*; and this coincided with Brahma’s wish to come out.

@@ -2,19 +2,25 @@
 title = "397 तन्तुवायो दशपलम्"
 
 +++
+The ‘*weaver*’ is one who weaves yarns, and makes clot? (cloth?) for
+garments, etc.
 
-ततून् वयति **तन्तुवायः** कुविन्दः । शाकटकादेः पटस्य कर्ता । स सूत्रपलानि दश गृहीत्वा शाटकं वयन् एकपलाधिकं[^३४१] वस्त्रं दद्यात् । अनया वृद्ध्या सर्वं दद्यात् । स्थूलसूक्ष्मादिवाससां रोमवतां च कल्पना कर्तव्या । **अन्यथा** द्वादशपणो दण्डः । वृद्ध्यदाने[^३४२] ऽयं दण्डः । मूलच्छेदे तु[^३४३] गणोक्तः । एवं विंशतिपलं यदि न ददाति वृद्धिं द्विगुणो दण्डः । एवं कल्पना कार्या- त्रिगुणश् चतुर्गुण इत्यादि । 
+When he has received ‘*ten palas*’ of yarn, he should return a piece of
+cloth weighing one more ‘*pala*.’ He should make his repayments at this
+rate of interest. Special considerations may be made in regard to the
+coarseness or fineness of the texture of the cloth, or to the fact of
+its being wooly and so forth.
+
+Otherwise there shall be a fine of twelve ‘*paṇas*.’
+
+This punishment is to be inflicted in the case of non-payment of the
+*interest*. In the case of non-payment of the *principal*, he would have
+to pay according to the rule laid down by the guild.
+
+Thus in the case of the principal consisting of ‘*twenty palas*’ of
+yarn, if the man does not pay the interest, his fine shall he double;
+and so on, the fine being computed triple, quadruple and so forth.
+
+Others hold that the fine is to be paid to the king.—(397)
 
 
-[^३४३]:
-     M G DK add: sūtrāṇi
-
-
-[^३४२]:
-     M G: vṛddhidāne
-
-
-[^३४१]:
-     M G: yaṃ naikapalādhikaṃ; DK: vayannaikapalādhikaṃ
-
-<u>अन्ये</u> तु दण्डं राजभागम् इत्य् आहुः ॥ ८.३९७ ॥

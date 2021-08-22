@@ -2,17 +2,8 @@
 title = "217 यथोक्तम् आर्तः"
 
 +++
+**(verses 8.215-217)  
+**
 
-अथ वा स्वामी न[^५२] वारयति, येन[^५३] च तत् कर्म कारितं स्यत् स्वां भृतिं दत्वा तदा तत्समम् असौ स्वस्थः कारयितव्यः । अथापि स्वामी ब्रूयात् "न मे किंचित् कर्तव्यम् अस्ति" इति । तत्रापि कृतानुरूपेण लभेतैव यथोक्तम् आर्तः[^५४] ॥ ८.२१७ ॥
-
-
-[^५४]:
-     M G J: yathoktamātrām
-
-
-[^५३]:
-     M G: enaṃ; DK: anena
-
-
-[^५२]:
-     M G: svāmino; DK (1: 845): svāmī no
+See Comparative notes for [Verse
+8.215](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201143.html#comparative-notes "English translation of verse").

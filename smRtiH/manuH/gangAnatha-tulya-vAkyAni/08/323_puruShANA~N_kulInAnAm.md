@@ -2,21 +2,29 @@
 title = "323 पुरुषाणाङ् कुलीनानाम्"
 
 +++
+*Nārada* (Theft, 28).—‘he who steals a man shall have to pay the highest
+fine; he who steals a woman shall be deprived of his entire wealth; and
+he who steals a maiden shall suffer corporal punishment.’
 
-सत्कुले जाता विद्यादिगुणयोगिनः **कुलीनाः । नारीणां च विशेषतो** गुणरूपसौभाग्यसंपन्नानाम्[^७०] इत्य् अर्थः । **च**शब्दात् कुलीनानां इत्य् एव । परस्परापेक्षाणि नारीणां विशेषणानि । **मुख्यानि** उत्तमानि **रत्नानि** वज्रवैडूर्यमरकतप्रभृतीनि । अत्रापि सुवर्णशततुल्यानीत्य् अपेक्ष्यम् । अन्यथोत्तमत्वम् आपेक्षिकम् इति दण्डो न व्यवतिष्ठेत । **वधम् अर्हति** । अनुबन्धाद्यपेक्षया सर्वत्रार्हत्यर्थो[^७१] योजनीयः । अकुलीनानाम् अवशिष्टानाम् अमुख्यानां च "शेषे[^७२] त्व् एकादशगुणम्" (म्ध् ८.३२२) इत्य्[^७३] एव ॥ ८.३२३ ॥
+*Bṛhaspati* (22. 27-28).—‘In the case of women, men, gold, gems, the
+property of a deity or a Brāhmaṇa, silk and other precious things, the
+fine shall be equal to the value of the article stolen; or double that
+amount shall he inflicted as fine; or the thief shall be executed.’
 
+Do. (22.18; Vivādaratnākara, p. 317)—‘Those who steal human beings
+should be burnt by the slow fire of chaff.’
 
-[^७३]:
-     M G J DK: ekādaśaguṇa ity; I follow the reading of MDh 8.322 of which this is a citation.
+*Vyāsa* (Do.).—‘The stealer of women shall he burnt on an iron bed by
+the slow fire of chaff; the stealer of man should have his hands and
+feet cut off and then exposed on the road-crossing. He who steals a man
+should he fined the highest amercement; he who steals a woman should
+have his entire property confiscated; and he who steals a maiden shall
+he put to death.’
 
+*Śaṅkha-Likhita* (Do., p. 318).—‘For stealing a king’s son, the fine is
+108 *kārṣāpaṇas*, or corporal punishment; half of that for stealing
+persons of the royal family, or of men and women in general.’
 
-[^७२]:
-     M G: viśeṣe; DK: haraṇe
-
-
-[^७१]:
-     J: sarvatra vadhyartho
-
-
-[^७०]:
-     M G: -saubhāgyataḥ saṃpannānām
+*Arthaśāstra* (p. 101).—‘If one forcibly confines, or forcibly releases,
+a man or woman, he shall be fined not less than 500 or more than 1,000
+*Paṇas*, *i.e*., the highest amercement.’

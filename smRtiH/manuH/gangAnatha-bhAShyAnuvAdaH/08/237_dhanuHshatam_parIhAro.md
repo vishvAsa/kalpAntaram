@@ -2,9 +2,21 @@
 title = "237 धनुःशतम् परीहारो"
 
 +++
+the ‘bow’ is four cubits in length; four hundred such ‘bows.’
 
-चतुर्हस्तं **धनुस्** तेषां **शतम्** । चत्वारि हस्तशतानि । **समन्ततश्** चतसृषु दिक्षु । **ग्रामस्य परीहारः** कर्तव्यः । अनुप्तसस्या भूमिः पशूनां सुखप्रचारार्था कर्तव्या । **शम्या**[^१०६] दण्डयष्टिः, सा बाहुवेगेन प्रेरिता यत्र पतति ततः प्रदेशाद् उद्धृत्य पुनः पातयितव्या यावत् त्रिस् तस्य परिमाणो वा **शम्यापातः** परिहारः । **त्रिगुणो नगरस्य** । ग्रामनगरे प्रसिद्धे । **शम्यायाः पाताः** प्रेरिताया वेगसंस्कारक्षयो भूमौ स्थानादि ॥ ८.२३७ ॥
+‘*Around*’— on the four sides, ‘*of the village*,’—the
+‘*pasture-ground*’ shall he reserved; that is, this much of space should
+be left uncultivated, for the roaming about of cattle.
+
+‘*Śamyā*’ is a stick; this should be thrown with great force; and from
+the point where it falls, it should be thrown again; and when this has
+been done three times, that shall represent the size of the
+pasture-ground.
+
+‘*Three times that around the town*’;—the distinction between ‘village’
+and ‘town’ is well known.
+
+‘*Stick-throws*’—*i.e*., its being thrown, falling on the ground on the
+momentum being spent up, and so forth.—(237)
 
 
-[^१०६]:
-     M G omit: śamyā

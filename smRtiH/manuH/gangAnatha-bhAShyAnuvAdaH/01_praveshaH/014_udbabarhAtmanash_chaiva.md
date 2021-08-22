@@ -2,9 +2,15 @@
 title = "014 उद्बबर्हात्मनश् चैव"
 
 +++
+The creation of the Elemental Principles is now described. What forms
+the constituent factor of what, and in what manner, has been already
+explained by implication.
 
-तत्त्वसृष्टिर् इदानीम् उच्यते । या च यथावयवा पश्चाद् उक्ता, अर्थात् पूर्वेति तथोक्तं तत्[^४५] । प्रधानात् स्वस्माद् रूपान् मन उद्धृतवान् । प्रातिलोम्येनेयं तत्त्वोत्पत्तिर् इहोच्यते । **मनसः** पूर्वम् **अहंकरम् अभिमन्तारम्** । अहम् इत्य् अभिमानिताहंकारस्य वृत्तिः । **ईश्वरं** कार्यनिर्वर्तनसमर्थम् ॥ १.१४ ॥
-
-
-[^४५]:
-     M J: compounds tat with the following pradhānāt
+‘*From out of himself*’—*i.e*., from out of Primordial Matter, which
+forms his body, ‘*he brought forth Mind*.’ The creation of the Elemental
+Principles is set forth here in the reverse order; the meaning thus is
+that ‘*before the mind he brought up the Principle of Egoism, whose
+function consists in self-consciousness*’; the consciousness of self,
+appearing in the form of the notion of ‘I,’ is a function of the
+Principle of Egoism; it is called *all-powerful* in the sense that it is
+capable of accomplishing its work.—(14)

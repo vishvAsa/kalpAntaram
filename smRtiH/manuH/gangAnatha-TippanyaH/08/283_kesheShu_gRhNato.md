@@ -2,13 +2,20 @@
 title = "283 केशेषु गृह्णतो"
 
 +++
+It is difficult to see why Hopkins calls the reading ‘*dāḍhikāyām*,’
+‘obscure.’
 
-"दर्पाद्" इत्य् अनुवर्तते । परिभवबुद्ध्या **केशेषु** ब्राह्मणं **गृह्णतः** शूद्रस्य **हस्तौ छेदयेत्** । द्विवचम् एकेनापि द्वाभ्यां तुल्यपीडाकरणे[^२३०] उभयच्छेदो नैकस्यैव । **दाडिका** श्मश्रु । अन्यद् अपि यद् अङ्गं गृह्यमाणं ग्रीवादितुल्यपीडाकरं तत्र सर्वथाप्य् अयम् एव दण्डः । **अविचारयन्** । पीडा कियत्य् अस्य गृहीतस्य संजाता महती स्वल्पा वेति एतद् अनुबन्धश्लोकप्राप्तं विचारणं निवार्यते[^२३१] । ग्रहणमात्रे दण्डः ॥ ८.२८३ ॥
+This verse is quoted in *Aparārka* (p. 814), which adds the following
+notes:—‘*Dāḍhikāyām*’—on the beard,—‘*Vṛsaṇeṣu* scrotum and the rest; if
+the scrotum *alone* were meant, then the plural ending could not be
+justified;—in *Vivādaratnākara* (p. 268), which remarks that the dual
+ending has been used in ‘*hastau*’ with a view to indicate that *both
+hands* are to be cut off even though the beard be held by one only; and
+it explains ‘*dāḍhikā*,’ as ‘beard’—and in *Vivādachintāmaṇi* (Calcutta,
+p, 76), which explains these two verses to mean that ‘if a Śūdra insults
+a man of any of the higher castes by spitting at him, his lips should be
+cut off—if by urinating on his body, his urinary organ should be cut
+off,—if by passing wind over him, the anus should be cut off,—and if by
+catching hold of his hair, then his hands should be cut off.’
 
 
-[^२३१]:
-     M G: vivaraṇaṃ vicāryate
-
-
-[^२३०]:
-     M G J: tulyapīḍākara

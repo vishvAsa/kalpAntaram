@@ -2,17 +2,14 @@
 title = "272 धर्मोपदेशन् दर्पेण"
 
 +++
+*Viṣṇu* (5-24).—‘If a low-born man, through arrogance, give instruction
+to a member of the highest caste, concerning his duty, let the King
+order hot oil to be poured into his mouth.’
 
-"अयं ते स्वधर्मः," "इयं वात्रेतिकर्तव्यता," "मैवं कार्षीः," "छान्दसो ऽसि" इत्य् एवमादिव्याकरणलेशज्ञतया[^२०५] दुन्दुकत्वेन दर्पवन्तः शूद्रा उपदिशन्ति । तेषम् एष दण्डः । यस् तु प्रणयात् ब्राह्मणापाश्रयाद् एव व्युत्पन्नो विस्मृतं कथंचिद् देशकालविभागं स्मारयेत्- "पूर्वाह्णकालं नातिक्रामय,[^२०६] क्रियतां दैवं कर्म, देवांस् तर्पयोपवीति भव, मा प्राचीनावीतं कार्षीः" इति न दोषः । **तप्तम्** अग्निसंबन्धात् पीडाकरम् । **आसेचयेत्** क्षारयेत् । 
+*Nārada* (15-16.24).—‘If the Śūdra is insolent enough to give lessons to
+Brāhmaṇas regarding their duty, the King shall order hot oil to he
+poured into his mouth and ears.’
 
-
-[^२०६]:
-     M G: nātikrāmayati; J: nātikrāmayeti
-
-
-[^२०५]:
-     M G J: -jñānatayā
-
-- span style="text-decoration-underline;">युक्तं</u> वक्त्रे, मुखेनोपदेशकत्वात् । श्रोत्रस्य को ऽपराधः । 
-
-<u>प्राग्</u> असत्तर्कादिश्रवणम् ॥ ८.२७२ ॥
+*Bṛhaspati* (20.12).—‘A Śūdra teaching the precepts of religion, or
+uttering the words of the Veda, or insulting a Brāhmaṇa, shall he
+punished by cutting out his tongue.’

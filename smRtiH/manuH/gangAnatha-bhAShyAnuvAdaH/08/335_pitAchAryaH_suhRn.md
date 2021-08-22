@@ -2,17 +2,11 @@
 title = "335 पिताचार्यः सुहृन्"
 
 +++
+“It has been asserted that ‘the wife and the sou form one’s own body’;
+what would be the punishment inflicted upon one’s self?”
 
-"भार्या पुत्रः स्वका तनुः" (म्ध् ४.१८४) आत्मीयं शरीरम् । कः पुनर् आत्मनो दण्डः । प्रायश्चित्ततपोधनदानादिविवक्षितम्[^११६] । विचलितो धर्मात् स्वकात् । यो यः स्वधर्मान् नानुतिष्ठति[^११७] स सर्वो दण्ड्यः[^११८] ॥ ८.३३५ ॥
-
-
-[^११८]:
-     M G: daṇḍaḥ
-
-
-[^११७]:
-     M G: dharmaḥ svakānyo yaḥ svadharmān na tu tiṣṭhati
+It would consist of expiatory rites, austerities and charities. Whoever
+does not perform his duty, or deviates from his duty, should be
+punished.—(335)
 
 
-[^११६]:
-     M G DK (1: 578) omit: -vakṣitam

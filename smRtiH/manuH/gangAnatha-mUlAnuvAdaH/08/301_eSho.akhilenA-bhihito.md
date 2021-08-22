@@ -3,12 +3,4 @@ title = "301 एषो ऽखिलेनाऽभिहितो"
 
 +++
 
-**एष** निःशेषेणोक्तो **दण्डपारुष्यनिर्णयो** निर्णयो[^२८६] दण्डव्यवस्था । दण्डशब्दो हि साधनोपलक्षकतया विवादपदे[^२८७] ऽन्वितार्थः । नामधेये पूर्वपदम् । **स्तेनस्य** चौरस्य दण्डभेदान् अतः परं **वक्ष्यामीत्य्** उपसंहारोपन्यासार्थः श्लोकः ॥ ८.३०१ ॥
-
-
-[^२८७]:
-     M G: vivāde pade
-
-
-[^२८६]:
-     M G J omit: nirṇayo
+Thus has the law relating to physical assault been fully explained; after this I am going to expound the law for the regulating of punishments in cases of theft.—(301)

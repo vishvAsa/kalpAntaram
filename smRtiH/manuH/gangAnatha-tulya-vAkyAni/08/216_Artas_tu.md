@@ -2,9 +2,8 @@
 title = "216 आर्तस् तु"
 
 +++
+**(verses 8.215-217)  
+**
 
-**आर्तो** यो[^५१] भृतो ऽर्धकृतं कर्म यदि हित्वा गच्छेत् स **स्वस्थः सन्** पुनर् आगत्य यथोक्तम् आदौ तत् कुर्यात् । बहुनापि कालेन पीडया मुक्तः प्रत्यागतः कृतकर्मशेषे **लभेतैव वेतनम्** ॥ ८.२१६ ॥
-
-
-[^५१]:
-     J omits: yo
+See Comparative notes for [Verse
+8.215](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201143.html#comparative-notes "English translation of verse").

@@ -2,29 +2,42 @@
 title = "210 सर्वेषाम् अर्धिनो"
 
 +++
+From among the priests, ‘*the chief ones receive half*’; *i.e*., they
+receive half of the fee that is prescribed for the rite as a whole.
 
-**सर्वेषाम्** ऋत्विजां ये **मुख्यास्** ते **ऽर्धिनः** । यावती तस्मिन् क्रतौ सामस्त्येन दक्षिणाम्नाता तस्यास् ते ऽर्धिनो ऽर्द्धहराः । सोमयागेषु हि षोडसर्त्विजस् तत्र चत्वारो मुख्या होताध्वर्युर् ब्रह्मोद्गातेति । तेषाम् अर्धं तस्य द्वादशशतं दक्षिणेति ततो ऽर्धं षट्पञ्चाशत्[^३५] । **तदर्धेन**[^३६] अष्टाविंशत्य्**आर्धिनस्** तद्वन्तो **ऽपरे**, येषां ततो ऽनन्तरं वरणम् आम्नातं मैत्रावरुणप्रतिप्रस्थातृब्राह्मणाच्छंसिप्रस्तोतारः[^३७] । **तृतीयिनः**[^३८]** तृतीयांशाः** । अंशशब्दो ऽर्धशब्देन समानार्थो ऽर्धशब्दश् च नावश्यं[^३९] समप्रविभाग एव, किंचिन् न्यूने ऽधिके ऽपि सामीप्येन वर्तते । तेन तृतीयो भागः षट्पञ्चाशतः षोडश गृह्यन्ते । एकैकस्य चतस्रो भवन्ति । समस् तृतीयं[^४०] भागं प्रयच्छन्ति षट्पञ्चाशतस् तृतीयं च होतुर् अच्छावाकः । अध्वर्योर् नेष्टा । ब्रह्मणोऽग्नीत् उद्गातुः प्रतिहर्ता । ये च **पादिनस्** ते चतुर्थं भागं कर्मणः कुर्वन्तीति पादिनः । चतुर्थे च स्थाने मैत्रावरुणस्थानान्ते । **चतुर्थांशाः** । द्वादशसमुदाये पूर्ववत् । एवं "तं शतेन दीक्षयन्ति" इत्य् अत्रापि कॢप्तिः कर्तव्या । "अर्धिनो दीक्षयति, पादिनो दीक्षयति" इत्य् एवमादिभिः शब्दैः । तत्र द्वादशक्रमविधिर् एव । अन्यत्र श्रुतो व्यवहार इहापि तयैव रीत्या कृत इति ॥ ८.२१० ॥
+At the *Soma-sacrifice* there are sixteen priests; of these the chief
+ones are four: the *Hotṛ*, the *Adhvaryu*, the *Brahman* and the
+*Udgātṛ*, and these receive one half of the total fee;—the total fee
+being *one hundred and twelve*, fifty-six go to these four men.
+
+Half of this, that is *twenty-eight*, go to the ‘*next*’; *i.e*., those
+four whose appointment comes after that of the four mentioned above;
+*i.e*., the *Maitrāvaruṇa*, the *Pratiprasthātṛ*, the *Brāhmaṇācchaṃsin*
+and the *Prastotṛ*.
+
+The ‘*thirders*’ receive the ‘*third part*.’—The term ‘part’ here is
+synonymous with ‘half’; the term ‘half’ does not always stand for two
+equal divisions; it is used also in reference to what is very near such
+equal divisions; hence the ‘*third part*’ of ‘*fifty-six*’ is understood
+to be *sixteen*; so that each of these four *gets four*.
+
+Some people take the ‘third part’ as such that of the total fee; when
+others take it as that of *fifty-six*.
+
+The four ‘thirders’ are—the *Acchāvāka*, associated with the *Hotṛ*, the
+*Neṣṭṛ* connected with the *Adhvaryu*, the *Agnīd* with the *Brahman*,
+and the *Pratihartṛ* with the *Udgātṛ*.
+
+The ‘*Fourthers*’—*i.e*., so called because they perform the *fourth*
+part of the rite, and also because they occupy the fourth place from the
+*Maitrāvaruṇa*— receive ‘*the fourth part*’—*i.e*., *twelve*—of the
+whole; this number being got at in the same manner as before.
+
+This same method of distribution is to be employed also in the case of
+the rite of Initiation, where the fee is laid down as ‘a hundred’; where
+also the ‘halfers’ and ‘fourthers’ help in the performance.
+
+The practice, that, we have found prescribed elsewhere we have described
+in connection with the present text also.—(210)
 
 
-[^४०]:
-     M G: samatṛtīyaṃ
-
-
-[^३९]:
-     M G: 'rdhaśabdas tv anāvaśyaṃ
-
-
-[^३८]:
-     M G: tṛtīyena
-
-
-[^३७]:
-     M G: -prastotās
-
-
-[^३६]:
-     M G: tardhino
-
-
-[^३५]:
-     M G: ṣaṭpañcāśan na

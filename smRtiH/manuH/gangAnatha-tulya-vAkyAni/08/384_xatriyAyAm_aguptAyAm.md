@@ -2,13 +2,8 @@
 title = "384 क्षत्रियायाम् अगुप्तायाम्"
 
 +++
+**(verses 8.382-385)  
+**
 
-
-[^३०२]:
-     M G DK: icchet
-
-वैश्यस्य पञ्च शतानि दण्डः, अगुप्तां चेत्[^३०३] क्षत्रियां गच्छति । क्षत्रियस्य स एव । यदि वा मौण्ड्यं मुण्डनम् **ऋच्छेत्** प्राप्नुयाद् गर्दभमूत्रेण । एष एव वैश्यागमन उभयोर् दण्डः ॥ ८.३८४ ॥
-
-
-[^३०३]:
-     M G DK: ca
+See Comparative notes for [Verse
+8.382](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201315.html#comparative-notes "English translation of verse").

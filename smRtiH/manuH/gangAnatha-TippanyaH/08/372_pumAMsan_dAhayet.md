@@ -2,5 +2,9 @@
 title = "372 पुमांसन् दाहयेत्"
 
 +++
+This verse is quoted in *Aparārka* (p. 857), which adds that this
+applies to men other than Brāhmaṇas;—in *Vivādaratnākara* (p. 39), which
+explains ‘*abhyādadhyuḥ*’ as ‘should scatter round him’—and adds that
+this is to be done by the executioners.
 
-यो ऽसौ पत्न्या जारः स **आयसे** लोह**शयने** **तप्ते** ऽग्निसमे कृते दाहयितव्यः । तत्र च शयनस्थितस्य काष्ठानि वध्यघातिनो **ऽभ्यादध्युर्** उपरि क्षिपेयुः । यावत् काष्ठप्रहारैर् अग्निज्वालाभिः शयनतापेन च मृतः ॥ ८.३७२ ॥
+

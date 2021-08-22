@@ -2,29 +2,37 @@
 title = "281 सहासनम् अभिप्रेप्सुर्"
 
 +++
+‘*Superior*’—i.e., the Brāhmaṇa, who is always ‘superior’ by reason of
+his caste, even though he be ‘inferior’ on account of his bad character.
+In the case of the other castes ‘superiority’ and ‘inferiority’ are
+relative and comparative (so that everyone of them may be ‘superior’ and
+also ‘inferior’). It is for this reason that the text has used the term
+‘lowborn,’ where the term ‘born’ shows that what is meant is
+‘inferiority’ by *birth*; hence on account of its proximity, the
+‘superiority’ also should be understood to be by *birth*. This
+superiority by *birth* belongs to the Brāhmaṇa, irrespectively of other
+considerations, and he is never ‘inferior.’ From all which it follows
+that the punishment here laid down is for the *Śūdra* who occupies the
+same seat with the *Brāhmaṇa*.
 
-**उत्कृष्टो** ब्राह्मणो जातितो दौःशील्याद् अवकृष्टो ऽपि, इतरे वर्णा औत्तराधर्येण परस्परापक्षयोत्कृष्टाश् चावकृष्टाश् च । तत्रेह[^२२३] **अवकृष्टज** इति जनिना जन्मावकर्ष[^२२४] उपात्तः,[^२२५] तत्संनिधानाद् उत्कर्षो ऽपि जन्मनैव । जन्मना च निरपेक्षोत्कर्षो ब्राह्मणस्य नापकर्षः । तेन शूद्रस्यायं ब्राह्मणेन सहैकम् आसनम् आरूढवतो दण्डः । **कटिः** श्रोणी । तत्र कृतचिह्नः । अङ्कविधौ च सुधाकुंकुमादिना चिह्नकरणमात्रम्, अपि तु[^२२६] दण्डख्यापनार्थम्[^२२७] । अतिक्रमाद् विभियुर्[^२२८] इति । तेन देशान्तरे यद् अनपायि तच् चिह्नम् आयसो लेखनाद् उपदिश्यते । तथा च वक्ष्यति "उद्वेजनकरैर् दण्डैर् चिहनयित्वा" (म्ध् ८.३५२) इति । राष्ट्राच् च निष्कास्यः । **स्फिक्** श्रोण्येकदेशः । सव्यो दक्षिणश् च । तं **चावकर्तयेत्** चिह्नेन । विकल्पविधानात् तावन्मातरच्छेदो न सर्वस्य स्फिजः । **अभिप्रेप्सुर्** इति च नेच्छामात्रेण । किं तर्हि, प्राप्तवत एव । इच्छाया शक्यापह्नवत्वाद् दण्डस्य च महत्त्वात् ॥ ८.२८१ ॥
+‘*Hips*,’—buttocks;—‘*branded*’ upon that. This ‘branding’ is to be not
+mere marking with lime or saffron or such things; but it is to be
+indicative of the man’s having undergone the punishment; so that others
+might fight shy of the same transgression. Hence the marking prescribed
+is one that is ineffaceable, and should he done with an iron-nail or
+some such thing; as is going to be laid down below (8.352)—‘Punishments
+that strike terror, etc., etc.’
+
+He should also be ‘*banished*’ from the kingdom.
+
+‘*Sphik*’ is the name of a part of the buttocks, on both the right and
+the left side. This he ‘*shall have cut off*.’ In as much as this is an
+alternative to ‘branding,’ it is only the part, and not the entire
+buttock, that is to be cut off.
+
+‘*Tries to occupy*’;—the man is to be punished not merely for *trying*
+to do so, but only when he has actually occupied it; because the mere
+*wish* or *attempt* can be hidden (and hence may not he discovered), and
+also because the penalty laid down is very severe.—(281)
 
 
-[^२२८]:
-     M G: vibhidyur
-
-
-[^२२७]:
-     M G: daṇḍaḥ khyāpanārthaḥ
-
-
-[^२२६]:
-     M G DK: api ayaṃ tu
-
-
-[^२२५]:
-     M G: upāttaṃ
-
-
-[^२२४]:
-     M G: janma cotkarṣa
-
-
-[^२२३]:
-     J: tatra

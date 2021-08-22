@@ -2,15 +2,22 @@
 title = "259 सामन्तानाम् अभावे"
 
 +++
+‘*Original inhabitants*’—The epithet has been added with a view to
+indicate their importance. Those persons who were living in the village
+at the time of its foundation, and who are co-eval with it, are called
+‘original’; such inhabitants of the neighbouring villages remain on the
+spot constantly. There would be ‘absence’ of these, on account of their
+having become dispersed, for some reason or the other.
 
-**सामन्तानां मौलानाम्** इति विशेषणविशेष्यभावः स्तुत्यर्थः । ग्रामप्रतिष्ठानकाले[^१६९] भवा उत्पत्तिसहभुवो **मौला** उच्यन्ते । ते च **सामन्ता** नित्याः, नित्यसंनिहितत्वात् । तेषाम् अप्य् अभावः कथंचिद् उच्छन्नत्वात् । तदा का[^१७०] गतिः । तदा **इमान् अपि** वक्ष्यमाणान् पृच्छेत् । 
+What is the remedy, if these are not available?
+
+In that case the king shall question ‘*these*’—the persons going to be
+mentioned in the next verse.
+
+Or, ‘*maulāḥ*’ may be taken to mean ‘experienced.’—‘*Sāmantāḥ*’ as
+explained above. And the meaning may he—‘In the absence of experienced
+people, ordinary neighbours may he regarded as reliable authority, and
+in the absence of these latter, the frequenters of forests should he
+carefully examined.’—(259)
 
 
-[^१७०]:
-     M G: sā
-
-
-[^१६९]:
-     M G: grāmapratiṣṭhā na tatkāle
-
-अथ वा **मौला** अनुभाविनः, **सामन्ता** व्याक्ख्याताः, व्यवहर्तव्याः । मौलानां पूर्वोक्तानाम् अभावे सामन्ताः प्रमाणम् । तदभावे **वनगोचरान् विनियुञ्जीत**[^१७१] निपुणतः पृच्छेत् ॥ ८.२५९ ॥

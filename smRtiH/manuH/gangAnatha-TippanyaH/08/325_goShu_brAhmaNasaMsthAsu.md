@@ -2,41 +2,28 @@
 title = "325 गोषु ब्राह्मणसंस्थासु"
 
 +++
+‘*Kharikāyāśca bhedane*’—Medhātithi is misrepresented by Buhler.
+Medhātithi’s reading is ‘*khārikāyāḥ*’ and the ‘*kharikā*’ he explains
+as ‘*yayā gorakṣaiḥ kṣetrādau vāhyate balīvardaḥ*’, ‘that whereby the ox
+is driven by the ox-keeper in the fields and other places’; so
+apparently the *driving goad* is meant. Buhler has relied upon the
+reading of Ms. 8, which reads the sentence as ‘*sthurikā yo
+gorathakṣetrādiṣu vāhyate balīvardaḥ*’; this reading involves the
+discrepancy of the feminine noun ‘*sthurikā*’ being taken as the ox;
+which discrepancy need not be accepted in the face of the better reading
+in the printed text (of Mandlik); ‘*bhedane*’ thus means ‘piercing’
+(with the goad)—Kullūka and Rāghavānanda, reading ‘*churikā* and
+‘*sthurikā*’ explain it as ‘the barren cow’ and ‘*bhedane*’ as piercing
+of the nose;—Nārāyaṇa explains it as *the load of* *the ox*, and
+‘*bhedane*’ as ‘cutting open and stealing’;—Nandana explains the word as
+a particular spot on the back of the ox.
 
-**ब्राह्मणसंस्था** ब्राह्मणाश्रिता ब्राह्मणस्वामिकाः । तासां **हरणे** । षष्ठ्यर्थे सप्तमी । **पशूनां** चाजैडकादीनाम् । बहुवचनं सर्वत्राविवक्षितम्[^७९] । **सद्यस्** तत्क्षणाद् अविचार्य । पादस्यार्धम् अर्धपादम्, तद् अस्यास्तीत्य् **अर्धपादिकः** । तच् च संभवति यदि पादार्धं[^८०] तेन छिद्यते । तेनार्धपादछेदनं कर्तव्यम् इति वाक्यार्थः । **खरिका**[^८१] यया गोरथक्षेत्रादौ[^८२] वाह्यते बलीवर्दः । **भेदने** वाह्यमानायाः प्रतोदेन पीडोत्पादने । 
-
-
-[^८२]:
-     M G: gorakṣaikṣetrādau
-
-
-[^८१]:
-     M G: churikā
-
-
-[^८०]:
-     M G add: tena
-
-
-[^७९]:
-     M G DK: sarvatrātra vivakṣitam
-
-- "भेदनं" वाहानाम् उपलक्षणार्थं व्याचक्षते <u>पूर्वे</u> । अवश्यं[^८३] वाहयन् दुःखयति । प्रतोदेन वाहने एवायं दण्ड इत्य् <u>अन्ये</u> पठन्ति[^८४] । 
-
-
-[^८४]:
-     M G DK: avaśyam ayaṃ daṇḍa ity evānye paṭhanti
-
-
-[^८३]:
-     M G DK (1: 1713): vyācakṣate | pūrvo
-
-- span style="text-decoration-underline;">अन्ये</u> तु पादस्य पश्चाद् भागं चतुर्थं खरिकाम् आहुः । खरिकेति या प्रसिद्धा पलायनशीला यां पालो ऽन्य् वा भिन्दन्न् अर्धपादिकः कार्यः[^८५] । 
+This verse is quoted in *Vivādaratnākara* (p. 319), which adds the
+following notes:—‘*Sphurikā*’ (which is its reading for ‘*kharikā*’) is
+the *barren cow*,—‘*bhedana*’ is ‘the piercing of the nose for purposes
+of driving—‘*paśūnām*’, the animals meant here are all smaller animals
+except the sheep, the cat and the mongoose;—and in *Vivādacintāmaṇi* (p.
+135), which says that ‘*tūlikā*’ means ‘the nostrils’, and *bhedana*’
+means ‘boring.’
 
 
-[^८५]:
-     M G DK: palāyanaśīlāyāḥ pālo 'rdhapādikaḥ kāryaḥ
-
-- span style="text-decoration-underline;">अन्ये</u> त्व् अधिकरणसप्तमीं मत्वा गोसंस्थदध्यादीन्य् अध्याहरन्ति । 
-
-<u>तद् अयुक्तम्</u> । श्रुतपदसंबन्धसंभवे कृतो ऽध्याहारः ॥ ८.३२५ ॥

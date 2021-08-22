@@ -3,12 +3,4 @@ title = "119 यथेदम् उक्तवाञ्"
 
 +++
 
-अवधानार्थः प्रतिबोधः ॥ १.११९ ॥
-
-**इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां **
-
-**प्रथमो ऽध्यायः**
-
-**इति श्रीभट्टमेधातिथिविरचिते मनुभाष्ये **
-
-**प्रथमो ऽध्यायः**
+You also learn from me to-day, these teachings,—just as they were, in the past promulgated by Manu, on being questioned by me.—(119)

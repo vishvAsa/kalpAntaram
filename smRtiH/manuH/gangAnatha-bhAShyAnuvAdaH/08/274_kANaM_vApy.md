@@ -2,21 +2,22 @@
 title = "274 काणं वाप्य्"
 
 +++
+‘*One-eyed*’—he who is deprived of one of his eyes.
 
-एकेनाक्ष्णा विकलः **काणः** । **खञ्जः** पादविकलः । **तथाविधं** कुणिं चिपट,[^२११] **तथ्येन** नासत्येन[^२१२] **अपि**शब्दाद् वितथेन, अकाणे काणे च[^२१३] काण इत्य् उक्ते **कार्षापणावरो दण्डः** । अत्यन्ताल्पो यदि दण्डः कथंचिद् अनुग्राह्यतया, तदा कार्षापणो ऽवरो[^२१४] दण्डः । अन्यथा द्वौ त्रयः पञ्च वा पुरुषविशेषापेक्षयापि दण्ड्यः शूद्रः, सर्वे वा पूर्ववत् ॥ ८.२७४ ॥
+‘*Lame*’—who is without one leg.
+
+‘*Something else like this*’—*e.g*., a cripple, flat-nosed and so forth.
+
+‘*Even truly*’;—the term ‘*even*’ implies the false defamation also,
+*i.e*., when one who is not one-eyed is called so.
+
+The fine in this case shall be ‘*at least one Kārṣāpaṇa*’—*i.e*., if,
+through mercy, the lowest fine be meant to be imposed, a *Kārṣāpaṇa*
+should be the lowest amount of it. Otherwise, the flue should be two,
+three, four or five *Kārṣāpaṇas*, according to the character of the
+accused.
+
+This rule may be taken, as before, as referring to either all men, or to
+the *Śūdra* only.—(274)
 
 
-[^२१४]:
-     J omits: 'varo
-
-
-[^२१३]:
-     J omits: kāṇe ca
-
-
-[^२१२]:
-     J: asatyena
-
-
-[^२११]:
-     M G: ciṭapaṃ; J: cipiṭanāsaṃ

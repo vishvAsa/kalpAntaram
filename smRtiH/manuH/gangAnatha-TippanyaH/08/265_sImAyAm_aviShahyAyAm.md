@@ -2,11 +2,30 @@
 title = "265 सीमायाम् अविषह्यायाम्"
 
 +++
+This Verse is quoted in *Mitākṣarā* (2.153), to the effect that between
+the two villages (disputing over their boundary), the king shall allot
+the disputed plot to that one to which it would be more useful than to
+the other.
+
+It is quoted in *Aparārka* (p. 764), which adds the following
+notes:—‘*Aviṣahyā*’, without any means of determination, in the shape
+persons or proofs,—‘*pravishet*’ (which is its reading for
+‘*pradishet*’), is equivalent to ‘*praveśayet*,’ put into
+possession,—‘*upakārāt*,’ on the ground of utility.
+
+It is quoted in *Vivādaratnākara* (p. 216), which adds the following
+notes:—‘*Aviṣahyā*’, unascertainable in the absence of
+witnesses,—‘*ekeṣām pradishet upakārāt*,’ he should give it to one
+party, on the ground of ‘utility’ *i*. *e*., to that party which is
+likely to derive greater benefit from the land in dispute; when this
+benefit is found to be equally possible for both parties, then he should
+divide the land between both.
+
+It is quoted in *Parāśaramādhavā* (Vyavahāra, p. 275), which explains
+‘*aviṣahyā*’ as ‘there being neither witnesses nor any other indications
+helping to determine it;’—in *Nṛsiṃhaprasāda* (Vyavahāra, 31a);—and in
+*Vīramitrodaya* (Vyavahāra, 142,) which explains ‘*aviṣahyāyam*’ as
+‘that for which no determinent is available in the shape either of
+witnesses or marks.’
 
 
-[^१८३]:
-     M G: eteṣām
-
-**अविषह्या** निश्चेतुम् अशक्या, लिङ्गसाक्ष्यभावात् । **राजैव** स्वेच्छया **भूमिं** **प्रदिशेद्** दद्यात्- "इयं वो भूमिर् इयं वः" इति । **धर्मवित्** पक्षपातो नैव कस्यचित् कर्तव्य इति । एतद् आह **उपकाराद्** धेतोः । यया सीमया द्वाव् अपि ग्रामौ समोपकारौ भवतः । तेन यदि न्यूनापि कस्यचिद् भूमिः स्यात् क्षेत्रं चेत् सुगुणं बहूत्पत्तिकं तदपेक्षः प्रदेशः । ल्यब्लोपे पञ्चमी । उपकारम् अपेक्ष्य । 
-
-अथ वा **एकेषां प्रदिशेद्** अपरेषाम् अनिश्चिताम् अपहरेत् । यदि विवादिग्रामस् तां सीमां यावद् वक्तुं न शक्नुयाद् इतरे च शक्तास् तदान्येभ्यः[^१८४] प्रदिशेत् । एवम् आत्मनो बहूनां च ग्रामीणानाम् उपकृतं भवति ॥ ८.२६५ ॥

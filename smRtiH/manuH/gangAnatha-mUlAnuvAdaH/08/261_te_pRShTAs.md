@@ -3,4 +3,4 @@ title = "261 ते पृष्टास्"
 
 +++
 
-**ते धर्मेण पृष्टा** इति योजना । सीमाश् च ताः संधयश् च **सीमासंधयः** । ग्रामद्वयसंयोगः **संधिः** । स च **सीमैव** । **लक्षणम्** ज्ञापकम् ॥ ८.२६१ ॥
+As they, on being questioned in fairness, declare the marks of boundary-lines between two villages, even so shall the king fix it.—(261)

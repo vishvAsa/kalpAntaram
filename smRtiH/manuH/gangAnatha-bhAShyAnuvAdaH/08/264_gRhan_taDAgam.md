@@ -2,21 +2,24 @@
 title = "264 गृहन् तडागम्"
 
 +++
+In the course of dealing with fields, etc., this additional law is here
+added.
 
-क्षेत्रादिप्रसङ्गाद् इदम् उच्यते । **भीषा**ग्रहणं[^१७९] निमित्तोपलक्षणार्थम् । अस्यैवैतन् निश्चितम् इत्य् एवं जानतो हरतः पञ्चशतो दण्डः । मध्यमसाहसे प्रकृते पञ्चशतग्रहणं निमित्तभेदे न्यूनाधिकदण्डार्थम् । पूर्वत्र वा संख्यानम् अविवक्षितं[^१८०] मन्यन्ते । तेन[^१८१] "व्यवहारं लेखयामि," "राज्ञा[^१८२] दण्डयामि," "चौरैर् दोषयामि" इति भयप्रदर्शनेन हरति । तस्यां दण्डो निमित्तान्तरानुकल्पः ॥ ८.२६४ ॥
+‘*Intimidation*’—has been mentioned only as an example, of the methods
+of misappropriation employed; the meaning is that—‘if a man knowing the
+field to belong to another person, takes possession of it, he shall he
+fined five hundred.’
+
+‘Middle amercement’ (which is 500) having been already mentioned in the
+preceding verse, its reiteration here is meant to indicate that the
+amount shall vary according to the methods of misappropriation. Or it
+may be, as some people hold, that in the preceding verse, no
+significance is meant to be attached to the exact number.
+
+The man appropriates another’s property by such intimidations as—‘I
+shall file a suit and have him punished by the king,’ or ‘I shall have
+him robbed by thieves,’ and so forth; and in this case the fine shall he
+five hundred, while in other oases, it is to be some other form of
+it.—(264)
 
 
-[^१८२]:
-     M G: rājani
-
-
-[^१८१]:
-     J omits: tena
-
-
-[^१८०]:
-     DK: pūrve enāṃ saṃkhyām avivakṣitāṃ 
-
-
-[^१७९]:
-     M G: sīmāgrahaṇa-; J: bhīgrahaṇaṃ; DK: vibhīṣāgrahaṇaṃ

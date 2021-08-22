@@ -2,5 +2,7 @@
 title = "355 यस् त्व्"
 
 +++
+**(verses 8.354-355)**
 
-पूर्वस्य प्रत्युदाहरणम् एतत् । **अनाक्षारितो** ऽप्य् अकारणात् संभाषयन् मिश्रयन् पूर्वदण्डभाक् ॥ ८.३५५ ॥
+See Comparative notes for [Verse
+8.354](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201286.html#comparative-notes "English translation of verse").

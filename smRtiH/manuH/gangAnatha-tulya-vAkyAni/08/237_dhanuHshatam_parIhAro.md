@@ -2,9 +2,10 @@
 title = "237 धनुःशतम् परीहारो"
 
 +++
-
-चतुर्हस्तं **धनुस्** तेषां **शतम्** । चत्वारि हस्तशतानि । **समन्ततश्** चतसृषु दिक्षु । **ग्रामस्य परीहारः** कर्तव्यः । अनुप्तसस्या भूमिः पशूनां सुखप्रचारार्था कर्तव्या । **शम्या**[^१०६] दण्डयष्टिः, सा बाहुवेगेन प्रेरिता यत्र पतति ततः प्रदेशाद् उद्धृत्य पुनः पातयितव्या यावत् त्रिस् तस्य परिमाणो वा **शम्यापातः** परिहारः । **त्रिगुणो नगरस्य** । ग्रामनगरे प्रसिद्धे । **शम्यायाः पाताः** प्रेरिताया वेगसंस्कारक्षयो भूमौ स्थानादि ॥ ८.२३७ ॥
-
-
-[^१०६]:
-     M G omit: śamyā
+*Yājñavalkya* (2.166-167).—‘In accordance with the wishes of the
+village-people, and in consonance with the extent of land available and
+the orders of the King, pasture-land for the grazing of cows shall he
+reserved...... This pasture-land shall he one hundred bow-lengths in
+extent, and shall he beyond the village and the cultivated holds; it
+shall he two hundred how-lengths round a market-town, and four hundred
+bow-lengths round a city.’

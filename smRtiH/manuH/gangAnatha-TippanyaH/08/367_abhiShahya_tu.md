@@ -2,17 +2,20 @@
 title = "367 अभिषह्य तु"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 321), to the
+effect that two fingers are to be cut off if the man only defiles the
+maiden with his fingers;—in *Aparārka* (p. 858), which adds the
+following notes:—‘*Abhiṣahya*’, forcibly,—‘*kuryāt*,’ defile the maiden
+by the introduction of fingers,—the two fingers (its reading being
+‘*kartye aṅgulyau*’) with which he defiles her should be cut off at
+once, without delay;—in *Vivādaratnākara* (p. 403), which has the
+following notes:—‘*Abhiṣahya*,’ insolently,—‘*kuryāt*,’ should
+defile,—‘*kalpye*’ (which is its reading for ‘*kartye*’), should be cut
+off;—and in *Mitākṣarā* (2.288), to the effect that when a man defiles
+an unwilling maiden of the same caste as himself by thrusting his
+fingers into her, he should be fined 600 and two of his fingers should
+be cut off.
 
-यद्य् अपि सकामा कन्या पित्रादयस्[^२५८] तु तस्याः संनिहितास् तान् अनिच्छतो **ऽभिषह्य** अभिभूय **दर्पेण** बलेन, "कः किं कर्तुं मे शक्तः", कन्यानुरागमाताश्रितः कन्यां **कुर्याद्** विकुर्याद् दूषयेत् । अनेकार्थः करोतिः । **तस्याशु कर्त्याः** छेत्तव्या अर्धाङ्गुलयः, षट्शतानि वा दण्ड्यः । 
+It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 
 
-[^२५८]:
-     M G: pitrā yas
-
-- span style="text-decoration-underline;">अन्ये तु</u> "यो ऽकामां दूषयेत्" (म्ध् ८.३६४) इत्य् अस्यैव वध्यर्थस्योपसंहारो[^२५९] ऽयम् ।
-
-
-[^२५९]:
-     DK: vadhārtha-
-
-ताडनात् प्रभृति मारणं यावद् वध्यर्थः[^२६०] । तत्रेमां निकृष्टजातीयां च दूषयन् न मार्यते, अपि त्व् अङ्गुली अस्य छिद्येत ॥ ८.३६७ ॥

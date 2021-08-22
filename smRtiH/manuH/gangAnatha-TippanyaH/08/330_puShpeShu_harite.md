@@ -2,35 +2,22 @@
 title = "330 पुष्पेषु हरिते"
 
 +++
+‘*Anyeṣu*’—Medhātithi does not read ‘*alpeṣu*’ as asserted by Hopkins.
 
-नवमालिकादीनि **पुष्पाणि** । **हरितं**[^८९] **धान्यं** क्षेत्रस्थम् अपक्वम् । **नगा** वृक्षाः । **अन्येष्व् अपरिपूतेषु** । बहुवचनात् परिपवनस्य च धान्येष्व् एव[^९०] तुषपलालादिविमोक्षरूपयस्य[^९१] संभवाद् उत्तरश्लोके धान्यग्रहणम् एवाकृष्यते । **गुल्मादीनां** हि सत्य् अपि पलाशे[^९२] व्यमिश्रत्वे पुष्पाणां च, न[^९३] परिपूतव्यवहारः । स्पतमी हरणापेक्षा । 
+‘*Pañcakṛṣṇalaḥ*’—‘Medhātithi says that the *kṛṣṇalas* meant may be gold
+or silver, in accordance with the gravity of the offence’—that ‘it is
+meant to be *gold* only’ is the view that he quotes as held by the
+‘ancients.’ Buhler therefore is not right in attributing this latter
+view to Medhātithi himself.
 
-
-[^९३]:
-     M G J omit: na
-
-
-[^९२]:
-     DK: palāśa-
-
-
-[^९१]:
-     M G: -rūpayoḥ
-
-
-[^९०]:
-     M G: paripavanāya ca dhānyaṃ kṣetreṣv eva
+This verse is quoted in *Vivādaratnākara* (p. 325) which adds the
+following notes:—‘*Harite dhānye*’, which is still lying unripe in the
+field; on this being stolen for purposes of fodder ,—‘ *naga*’,
+tree,—‘*alpeṣu*’ (which is its reading for ‘*anyeṣu*’), quantity even
+less than what can be carried by a man,—‘*aparipūteṣu*’,
+unhusked,—‘*dhānye*’, in construing the sentence the number is to be
+changed into the plural, ‘*dhānyeṣu*.’
 
 
-[^८९]:
-     M G: haranti
-
-तत् तु[^९४] पूर्वस्माद् अनुवर्तते । अत्र **पञ्चकृष्णलो दण्डः** । कृष्णला नानाद्रव्यजाः[^९५] । अल्पत्वमहत्त्वप्रयोजनापेक्षाः । सुवर्णस्येति <u>पूर्वे</u> ॥ ८.३३० ॥
 
 
-[^९५]:
-     M G DK: kṛṣṇalānāṃ dravyajātiḥ
-
-
-[^९४]:
-     M G: tattvaṃ

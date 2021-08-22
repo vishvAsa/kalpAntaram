@@ -2,9 +2,15 @@
 title = "369 कन्यैव कन्याम्"
 
 +++
+Either through childishness, or through jealousy for her greater beauty,
+if a maiden pollutes another maiden, then she should be made to pay two
+hundred; and also the double of her nuptial fee.
 
-बालभावाद् रूपादिद्वेषाद् वा **कन्यैव कन्यां** नाशयेत् सा **द्विशतं** दाप्या । **शुल्कश्** **च** त्रिगुणः । 
+What Is the amount of this fee?
 
-<u>किं पुनः</u> शुल्कस्य परिमाणम् ।
+It shall depend upon the beauty of the girl, or upon her fortune and
+other qualities.
 
-एषाम् अन्यतमरूपसौन्दर्याद्यपेक्षं[^२६३] सौभाग्यापेक्षं च । **शिफा** रज्जुलताप्रहाराः ॥ ८.३६९ ॥
+‘*Lashes*’—strokes of rope or creeper.—(369).
+
+

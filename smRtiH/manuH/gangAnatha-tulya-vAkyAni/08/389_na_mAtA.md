@@ -2,21 +2,16 @@
 title = "389 न माता"
 
 +++
+*Viṣṇu* (5.163).—‘A husband forsaking a blameless wife shall be punished
+as a thief.’
 
-**माता न त्यागम् अर्हति** । न त्याज्या । त्यागः स्वगृहान् निष्कासनां मातृवृत्तेः स्खलितायाः,[^३१४] उपकारस्योपक्रियायाम् उदितायाम् अकारणे । एवं पित्रादीनाम् अपि व्याख्येयम् । संबन्धसाहचर्यात्[^३१५] **स्त्री** भार्यैवाभिप्रेता । अपतितानाम् एषां त्यागो नास्ति । मातुस् तु "न माता पुत्रं प्रति पततीत्य् एके" इति शातातपः । भार्यायाश् चापि त्यागः असंभोगो[^३१६] गृहकार्यनिषेधः । भक्तवस्त्रादिदानं तु न निषिध्यते । "योषित्सु पतितास्व् अपि । वस्त्रान्नपानं[^३१७] देयं च वसेयुः स्वगृहान्तिके" (म्ध् ११.१८७) इति पठ्यते ॥ ८.३८९ ॥
+*Yājñavalkya* (2.237).—‘Between father and son, brother and sister,
+husband and wife, teacher and disciple,—if one forsakes the other,
+unless he or she has become an outcast, he shall be fined one hundred.’
 
-
-[^३१७]:
-     M G: vastrānnamānaṃ
-
-
-[^३१६]:
-     M G: saṃbhoge
-
-
-[^३१५]:
-     M G DK (1: 1627): saṃbandhe sāhacaryāt
-
-
-[^३१४]:
-     M G: saktāyā
+*Śaṅkha-Likhita* (Aparārka, p. 823).—‘The father and the mother should
+never be forsaken; indeed no Sapiṇḍas possessing good qualities should
+be forsaken; if one forsakes these arbitrarily, unless they have become
+outcasts, he should he fined 200. Nor should one misbehave towards the
+father, mother, or teacher; one who misbehaves towards them shall have
+his limb cut off.’

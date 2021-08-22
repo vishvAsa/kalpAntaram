@@ -2,5 +2,16 @@
 title = "027 अण्व्यो मात्रा"
 
 +++
+This verse sums up what has gone before.
 
-उपसंहारो ऽयम् । **दशार्धानां** पञ्चानां महाभूतानां या **अण्व्यः** सूक्ष्मा **मात्रा** अवयवास् तन्मात्रास् ता **विनाशिन्यः** । परिणामधर्मित्वात् स्थौल्यप्रतिपत्त्याविनाशिन्य उच्यन्ते । ताभिः **सार्धम्** **इदं** जगत् **सर्वं** **संभवत्य्** उत्पद्यते । **अनुपूर्वशः** क्रमेण । सूक्ष्मात् स्थूलं स्थूलात् स्थूलतरम् । यादृशो वा क्रम उक्तः प्राक् ॥ १.२७ ॥
+‘*Of the half-ten*’—*i.e*., of the five elemental substances;—‘*the
+subtile*,’—minute,—‘*constituents*,’—parts; *i.e*., the ‘Rudimentary
+substances’; these are ‘*evanescent*’;—they are called ‘evanescent’
+(liable to destruction) in the sense that, being liable to undergo
+modifications, they take up grosser forms.—‘*along with those*,' ‘*this
+whole*’—world,—‘*comes forth*,’—is produced;—‘*in due order*,’—in proper
+sequence; *i.e*., from the subtile the gross, and from the gross the
+grosser; or in the order in which they have been described (in the
+foregoing verses).—(27)
+
+

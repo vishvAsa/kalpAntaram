@@ -2,5 +2,8 @@
 title = "381 न ब्राह्मणवधाद्"
 
 +++
+**(verses 8.379-381)  
+**
 
-पूर्वशेषो ऽयम् अर्थवादः । **न ब्राह्मणवधाद्** अन्यो बहुतरो **ऽधर्मो** दुःखफलो ऽस्ति । अन्यशब्दाध्याहारेण पञ्चमी । **तस्माद्** धेतोर् **अस्य** ब्राह्मणस्य **राजा** मारणम् अङ्गछेदं वा **मनसापि** नेच्छेत् ॥ ८.३८१ ॥
+See Comparative notes for [Verse
+8.379](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201312.html#comparative-notes "English translation of verse").

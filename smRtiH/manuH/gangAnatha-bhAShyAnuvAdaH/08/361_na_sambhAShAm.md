@@ -2,7 +2,16 @@
 title = "361 न सम्भाषाम्"
 
 +++
+Some people think that the punishment here laid down is meant for the
+case where mendicants and the rest first mentioned carry on the
+conversation, even after being forbidden.
 
-<u>केचिद्</u> भिक्षुकादीनां निवारितानां संभाषणे दण्डो ऽयम् इति मन्यन्ते । 
+This however is not right. It has been said that these men are not to be
+forbidden. Then again, how could the fine of a ‘*suvarṇa*’ be imposed
+upon a mendicant?
 
-<u>तद् असत्</u> । नैव ते निवार्या इत्य् उक्तम् । कुतश् च भिक्षुकाणां सुवर्णो दण्डः । तस्मात् को ऽपि प्रकाशम् अनाक्षारितो ऽपि कथंचिन् निषिद्धः स्वामिना[^२३५] समाचरन् सुवर्णं दण्ड्यः ॥ ८.३६१ ॥
+Hence the person meant to be fined one ‘*suvarṇa*’ is one who, even
+though not previously accused, has been forbidden by the woman’s
+husband, and yet goes on conversing with her.—(361)
+
+

@@ -2,13 +2,18 @@
 title = "172 स्वादानाद् वर्णसंसर्गात्"
 
 +++
+*Nārada* (18.5-7, 33, 43).—‘The King shall be careful to protect all
+orders and the constituent elements of the state... Whenever any caste
+should remain behind others, or exceed its limits,—seeing that it has
+strayed from its path,—the King shall bring it back to the path of duty.
+So also when other wicked acts, opposed to the dictates of the sacred
+law, have been committed, the King after having reflected upon the
+matter shall inflict punishment on those who deserve it... The King’s
+duties are the protecting of his subjects, the honouring of the aged and
+the wise, the trying of law-suits and making each caste abide by its
+duties...... If a ruler, though severe, is mindful of his duty, correct
+in his conduct find quick to punish the wicked and to protect the
+virtuous,—his wealth is declared to he pure.’
 
-स्वस्य न्यायप्राप्तस्य्**आदानम्**, शोभनं वादानम् । भव्यम् एव शोभनम् । **वर्णयोर्** एव **संसर्गः** समानजातीयैर् **वर्णसंसर्गः** । द्विष्ठत्वात् संसर्गस्य च संबन्धिनोर् अश्रुतत्वाद् वर्णानां प्रस्तुतत्वात् तत्रैवापेक्षा युक्ता । यस् तु वर्णानाम् अवान्तरप्रभवैः[^५३२] संसर्गो नासौ वर्णानाम् एव संबन्धितया व्यपदेष्टुं शक्यते । 
-
-
-[^५३२]:
-     M G: -prabhave
-
-कश्चित् तु नकारं पठति- "वर्णासंसर्गात्" इति । सर्वथा वर्णसंकरप्रतिषेधानुवादो ऽयम् । दुर्बलानां बलवद्विद्वेशिभिर् अभिभूयमानानां तेभ्यस्[^५३३] त्राणाद् धेतोः ।  
-
-**राज्ञो बलं संजायते** । सम्यग्व्यवहारदर्शनं कर्तव्यम् अधर्मदण्डनं[^५३४] च न कर्तव्यम् इत्य् एतद्विशेषाः पठिष्यन्ते श्लोकानाम् अर्थवादाः ॥ ८.१७२ ॥
+*Yājñavalkya* (1.315).—‘What he has not obtained, he should seek to
+obtain lawfully.’

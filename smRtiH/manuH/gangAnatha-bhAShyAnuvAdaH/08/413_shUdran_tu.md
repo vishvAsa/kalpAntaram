@@ -2,5 +2,10 @@
 title = "413 शूद्रन् तु"
 
 +++
+‘*Bought or unbought*’—*i.e*., engaged on fooding.
 
-**क्रीतम् अक्रीतं** भक्ताद्युपनतम् । वक्ष्यमाणस्य विधेर् अनुवादो ऽयम् । **दास्यायैवे**त्य् अर्थवादः ॥ ८.४१३ ॥
+This is a reference to the law going to be laid down below (under 415).
+
+‘*It is for doing servile work, etc*.’—this is purely declamatory.—(413)
+
+

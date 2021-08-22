@@ -2,7 +2,15 @@
 title = "315 स्कन्धेनादाय मुसलम्"
 
 +++
+Some people hold that the weapons to be carried have been mentioned in
+the particular order in view of the caste of the thief.
 
-वर्णानाम् अनुक्रमेण मुसलादीनाम् उपदेशं <u>मन्यन्ते</u> । 
+But this is not right; as in that case there would be no justification
+for the term ‘or’; and further, people do not recognise this as the
+expiation meant for the Brāhmaṇa thief, as we shall explain in the
+section on ‘Expiation.’
 
-<u>तद् अयुक्तम्</u> । **वा**शब्दो न समर्थितः स्यात् । न च ब्राह्मणस्येदं प्रायश्चित्तम् इच्छन्ति । तत्प्रायश्चित्तेषु निरूपयिष्यामः । **खदिर**जातिर् लगुड एव, न मुशलेनानुषक्तव्यः ॥ ८.३१५ ॥
+It is only the *club*, and not the *pestle*, that is to be taken as
+qualified by the epithet ‘*of khadira wood*’—(315)
+
+

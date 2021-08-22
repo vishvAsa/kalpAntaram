@@ -2,9 +2,15 @@
 title = "197 विक्रीणीते परस्य"
 
 +++
+*Nārada* (7.1).—‘When a property kept as deposit, or the property of a
+stranger lost by him and found by another, or a stolen article,—is sold
+in secret, it has to he considered as *sale without ownership*.’
 
-अस्वामिविक्रयाख्यविवादपदम् इदम् अनुक्रान्तम् । **परस्य** यद् द्रव्यादि **स्वं** तच् चेद् **अस्वामी** तत्पुत्रादिर् अन्यो वा **विक्रीणीते** स्वामिनाननुज्ञातस् तं **स्तेनं** चौरं विद्यात् । यद्य् अपि यस् तस्मात् क्रीणाति स तम् अस्तेनं मन्यते । **न तं नयेत साक्ष्यं तु** । तं पुरुषं न नयेत न प्रापयेत् साक्षयं न कारयेत् साक्षिकरणे न नियोक्तव्य इत्य् अर्थः । यथा चौरस् तादृश एवासौ । स्तेनत्वाच् च न साक्षित्वम्[^६२१] । न साक्षित्व एव प्रतिषेधः । किं तर्हि सर्वासु साधुजनसाध्यासु क्रियासु । परस्वम् अननुज्ञातेन विक्रीतं क्रेतुर् न स्वं भवतीति सिद्धे साक्षिकर्मनिषेधद्वारेण प्रतिषेधो वैचित्र्यार्थः ॥ ८.१९७ ॥
+*Bṛhaspati* (13.2).—‘An open deposit, a bailment for delivery, a sealed
+deposit, stolen property, a pledge, or what has been borrowed for
+use;—when any one of these articles has been sold in secret by a man, he
+is declared to be one *selling without ownership*.’
 
-
-[^६२१]:
-     M G omit: na sākṣitvam
+*Vyāsa* (Vivādaratnākara, p. 100).—‘An article borrowed for use, deposit
+sealed or open, or anything stolen from another,—if any of these is sold
+by a man, it is a case of *sale without ownership*.’

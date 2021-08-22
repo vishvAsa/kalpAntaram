@@ -3,16 +3,4 @@ title = "371 भर्तारं लङ्घयेद्"
 
 +++
 
-लङ्घनं **भर्तारम्** अतिक्रम्यान्यत्र गमनम्[^२६४] । तच् चेत् स्त्री करोति **दर्पेण** — "बहवो मे ज्ञातयो बलिनो द्रविणसंपन्नाः", स्त्रीगुणो रूपसौभाग्यातिशयसंपत्, किम् अनेन शीलरूपेण[^२६५] — इत्येवंदर्पेण[^२६६] । **तां श्वभिः खादयेद्** यावन् मृता । **संस्थानं** देशः । बहवः संस्थिता यत्र जनाश् चत्वरादौ ॥ ८.३७१ ॥
-
-
-[^२६६]:
-     M G J: ityeva darpeṇa
-
-
-[^२६५]:
-     M G: anenāśīla-
-
-
-[^२६४]:
-     M G: puruṣāgamanam; DK (1: 1865): puruṣe gamanam
+If a woman, proud of relations and her qualities, passes over her husband, the king shall have her devoured by dogs in a place frequented by many.—(371)

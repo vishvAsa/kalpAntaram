@@ -2,21 +2,21 @@
 title = "405 भाण्डपूर्णानि यानानि"
 
 +++
+This verse is quoted in *Mitākṣarā* (2.263), where *Bālambhaṭṭī* has the
+following notes:—Carts laden with merchandise should be made to pay
+according to the value of the merchandise they carry; those that are
+empty as also ‘*aparicchadāḥ*,’ poor persons, may be made to pay some
+little amount.
 
-**भाण्डं** द्रव्यं वस्त्रव्रीह्यादि । तेन **पूर्णानि यानानि** **सारतस् तार्यं** तारार्थं **दाप्यानि** । यदि महार्घं वस्त्रादि तत्र बह्वारोपितं तदा बहु दाप्यानि, अथ व्रीह्यादिना नातिभारेण[^३७०] तदाल्पम्[^३७१] । एवं नद्याः सुतरदुस्तरत्वेन कल्पना कर्तव्या । **रिक्तभाण्डानि** यानानि **यत् किंचित्** पणपादानि[^३७२] । **भाण्ड**शब्दो ऽत्र धनवचनः । ये चापरिच्छदास्[^३७३] ते न पादार्धम्, अपि तु यत् किंचित् ततो ऽधिकं न्यूनं वा । अत्र न शक्यो नियमः, अतः कल्पनैव शास्त्रार्थः ॥ ८.४०५ ॥
+It is quoted in *Aparārka* (p. 834), which has the following
+notes:—Carts laden with merchandise should each pay according to the
+value of the merchandise carried; when they are empty, they may pay a
+small amount; so also persons without accoutrements.
 
-
-[^३७३]:
-     M G DK (1: 1945): ca paricchadākośato 'paricchedās
-
-
-[^३७२]:
-     DK (4: 1347) suggests: paṇapādādi
-
-
-[^३७१]:
-     M G DK (1: 1945): tadālam
-
-
-[^३७०]:
-     M G: nāticāreṇa; DK (1: 1945; but not 4: 1347): nātisāreṇa
+It is quoted in *Vīramitrodaya* (Rājanīti, p. 270), which adds the
+following explanations:—Carts laden with merchandise should be made to
+pay in accordance with the large or small value of the merchandise
+carried; empty carts and poor persons may pay some amount smaller than
+the eighth part of a *paṇa*. It adds that the rule applies to river-
+*crossings*. For voyages by river the rates are different (see next
+verse).

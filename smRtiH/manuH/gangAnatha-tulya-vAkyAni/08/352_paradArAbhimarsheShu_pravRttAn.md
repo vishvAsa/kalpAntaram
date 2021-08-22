@@ -2,21 +2,24 @@
 title = "352 परदाराभिमर्शेषु प्रवृत्तान्"
 
 +++
+**(verses 8.352-353)  
+**
 
-विवाहसंकृतायां स्त्रियां **दार**शब्दो वर्तते । आत्मनो ऽन्यः **परः** । **अभिमर्शः** संभोग आलिङ्गनाद् अरभ्य,[^१८४] आलिङ्गनं जनद्वयसमवायः,[^१८५] भोगजन्यायाः प्रीतेः प्रवृत्तिः प्रारम्भस् तन्निवृत्त्यर्थं दूतीसंप्रेषणादिना प्रोत्साहनम् । अथ च संग्रहणम् अभिमर्शनं प्रचक्षते । तेनायम् अर्थः-[^१८६] परभार्यागमने **प्रवृत्तं** पुरुषं ज्ञात्व्**ओद्वेजनकरैस्** तीक्ष्णाग्रैः शक्तिशूलादिभिर् अङ्कयित्वा नासाछेदादिभिर् **विवासयेत्** । सर्वत्रात्र विशेषदण्डस्योक्तत्वाद् अस्य विषयभावो न सामान्यदण्डो ऽयम् । किं तर्हि, पुनः पुनः प्रवृत्तौ । इदं तु युक्तम् । अलभमानस्य[^१८७] विषयान्तरं प्रवासस्य धनदण्डस्य च कार्यभेदात् समुच्चयः । तथा दर्शयिष्यामः ॥ ८.३५२ ॥
+*Nārada* (14.6).—‘Indecent assault on another man’s wife is called
+violence of the highest order.’
 
+*Nārada* (12.60).—‘When a man meets a woman at a house other than her
+own, it is held to be *Adultery*.’
 
-[^१८७]:
-     M G DK: alabhyamānasya
+*Nārada* (12.77).—‘Let punishment be inflicted by the King on him who
+has intercourse with a woman intercourse with whom has been forbidden;
+and let such sinners be purified by performing penances.’
 
+*Bṛhaspati* (23.9).—‘For the three grades of adultery, the first,
+middling and highest fines shall be inflicted respectively; it may be
+higher in the case of rich men.’
 
-[^१८६]:
-     M G: yam arthaṃ; DK (1: 1856): ayam arthaḥ (all omit tena)
-
-
-[^१८५]:
-     M G: -samavāya-
-
-
-[^१८४]:
-     M G: āliṅganārabhya; J: āliṅganādiḥ
+*Śaṅkha-Likhita* (Vivādaratnākara, p. 388).—‘All men should adhere
+strictly to their own wives and to their own functions;—by whatever limb
+one commits an offence, that limb shall be cut off, or a fine of 8,000
+shall be inflicted.’

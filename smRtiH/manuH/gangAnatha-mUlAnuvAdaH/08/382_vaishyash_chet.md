@@ -3,16 +3,4 @@ title = "382 वैश्यश् चेत्"
 
 +++
 
-**अगुप्ताया** **ब्राह्मण्यां**[^२९६] गमने "वैश्यं[^२९७] पञ्चशतं कुर्यात् क्षत्रियं सहस्रिणम्" (म्ध् ८.३७६) इति । तत्र वैश्यस्य पञ्चशतः[^२९८] । य एव परिपालयति स एव चेन् नाश्यति युक्तं तस्य दण्डमहत्त्वम् ॥ ८.३८२ ॥
-
-
-[^२९८]:
-     J: pañcaśataṃ
-
-
-[^२९७]:
-     M G: vaiśyaḥ
-
-
-[^२९६]:
-     M G J: brāhmaṇyā
+If a Vaiśya approaches a protected Kṣatriya woman, or the Kṣatriya a Vaiśya woman,—both these deserve the same punishment as that in the case of an unprotected Brāhmaṇa woman.—(382)

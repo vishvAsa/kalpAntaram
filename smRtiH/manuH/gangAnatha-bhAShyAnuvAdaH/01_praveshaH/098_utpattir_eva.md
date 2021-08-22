@@ -2,9 +2,19 @@
 title = "098 उत्पत्तिर् एव"
 
 +++
+The peculiarity of the Brāhmaṇa endowed with the qualities of learning
+and the like having been described, some people might be led to
+ill-treat the mere Brāhmaṇa by birth; hence with a view to prevent this,
+the author has added this verse.
 
-**उत्पत्तिर् एव** गुणान् अपहाय जन्मैव, ब्राह्मणस्य जातिर् एव, **शाश्वती** **धर्मस्य मूर्तिः** शरीरम् । **धर्मार्थम् उत्पन्नो** द्वितीयेन जन्मनोपनयनेन संस्कृतः । सा हि तस्य धर्मार्थोत्पत्तिर् ब्रह्मत्वाय **कल्पते** संपद्यते । धर्मशरीरम् उज्झित्वा परानन्दभाग् भवतीति स्तुतिः[^१४७] ॥ १.९८ ॥
+‘*The very genesis*’—*i.e*., irrespective of his qualities, his mere
+birth, the mere ‘Brāhmaṇa caste’—‘*is the eternal* *incar*
+*nation*’—body—‘*of Virtue*.’
+
+‘*Born for the sake of virtue*,’—when the Brāhmaṇa has been duly
+initiated with the rites of initiation, this is what constitutes his
+‘*being horn for the sake of Virtue*’; and ‘*this* *birth leads to the
+state of Brahman*’; on abandoning the ‘body of Virtue’, the Brāhmaṇa
+becomes the partaker of Supreme Bliss.—says the *Śruti*. (98).
 
 
-[^१४७]:
-     M G: śrutiḥ

@@ -2,13 +2,6 @@
 title = "089 प्रजानां रक्षणम्"
 
 +++
-
-
-[^१४१]:
-     J: samādiśat
-
-विषया अभिलाषजनका[^१४२] गीतशब्दादयो भावा उच्यन्ते । तत्राप्रसङ्गः पुनः पुनर् असेवनम् ॥ १.८९ ॥
-
-
-[^१४२]:
-     M G J: viṣayābhilāṣajanakā (I follow DK 5: 1154)
+This verse is quoted in the Vīramitrodaya—Paribhāṣā, p. 45, which reads
+‘*saktim*’, and explains ‘*viṣayeṣu aprasaktim*’ as ‘control, of the
+senses;’ and in the *Nṛsiṃhaprasāda*, *Saṃskāra*, p. 73*b*.

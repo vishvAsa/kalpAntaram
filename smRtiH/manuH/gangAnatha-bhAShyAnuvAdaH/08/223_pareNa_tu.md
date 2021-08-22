@@ -2,9 +2,15 @@
 title = "223 परेण तु"
 
 +++
+After ten days there can be no ‘rescission of the sale.’
 
-दशाहात् परतो न क्रीतानुशयः । जातानुशयश् चापि क्रेता विक्रेता वा यदि[^७४] राजनि विवदतां तौ ततः **षट् शतानि दण्ड्यौ** । **न दद्याद्** इति नायम् अदृष्टार्थः प्रतिषेधः । किं तर्हि ज्ञायते । स्थितिर् ईदृशी । अनिच्छन् क्रेता दशाहाद् ऊर्ध्वं न त्याजनीयो नापि विक्रेता ग्राह्यितव्यः । अतश् च यदि साम्नोभयेच्छायां दानादाने स्यातां तत्र न कश्चिद् दोषः ॥ ८.२२३ ॥
+If the buyer does repent of the transaction and applies to the king for
+its rescission, be should be fined six hundred ‘he shall *not return
+it*.’—This prohibition is not put forth with a view to any
+transcendental result; all that is meant is that such is the established
+rule,—that after ten days the buyer should not be forced, against his
+wish, to give up the article, nor should the seller he forced to take it
+back. So that there is nothing wrong if the returning and taking back
+are done amicably by mutual understanding.—(223)
 
 
-[^७४]:
-     M G: parato na kretā yāvatānuśayaś cāpi vikretā yadi; DK: parato na | kretā jātānuśayaś cāpi vikretā yadi

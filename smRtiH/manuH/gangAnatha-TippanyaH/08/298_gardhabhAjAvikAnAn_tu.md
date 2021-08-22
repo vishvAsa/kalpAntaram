@@ -2,9 +2,13 @@
 title = "298 गर्धभाजाविकानान् तु"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p; 283), which notes that the
+‘*māṣaka*’ is equal to two *kṛṣṇalas*, as declared by *Pārijāta*;—in
+*Parāśaramādhava* (Vyavahāra, p. 291);—and in *Mitākṣarā* (2.300), where
+*Bālambhaṭṭī* adds the following notes:—For the killing of a donkey, or
+goat, or sheep, the fine consists in *silver*, 5 *Māsas* in weight, and
+not *gold*, and for the killing of a dog or a pig, one *Māṣa* of silver.
+It notes both the readings, ‘*pāñcamāṣikaḥ*... *māṣikaḥ*’ and
+‘*pañcamāṣakaḥ...... māṣakaḥ*’.
 
-पञ्च माषाः परिमाणम् अस्येति **पाञ्चमाषिकः** । माषस्य च द्रव्यजातेर् अनुपपादनान् मध्यमकल्पनायाश् च न्याय्यत्वाद् रौप्यस्य निर्देशो ऽयम् इत्य् आहुः । हिरण्यं तु युक्तम् । एवं तत्समम् इति न[^२८१] वाधिकं भवति । अनुबन्धाद्यपेक्षया तु द्रव्यजातिः कल्प्येति सिद्धान्तः ॥ ८.२९८ ॥
 
-
-[^२८१]:
-     M G: nāpi

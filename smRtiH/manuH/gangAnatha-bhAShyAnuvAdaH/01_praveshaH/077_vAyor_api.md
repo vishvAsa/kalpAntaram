@@ -2,5 +2,9 @@
 title = "077 वायोर् अपि"
 
 +++
+The two words ‘*bright*’ and ‘*radiant*,’ which are synonymous, have
+been used with a view to indicate that Light is itself *bright*, and it
+also illumines other things; that it is itself endowed with brilliance
+and it makes other things also brilliant.—(77)
 
-**विरोचिष्णु भास्वद्** इति समानार्थेन शब्दद्वयेन स्वपरप्रकाशता प्रतिपाद्यते । स्वयं दीप्तिमत् परं च भासयति ॥ १.७७ ॥
+

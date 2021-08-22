@@ -2,13 +2,23 @@
 title = "399 राज्ञः प्रख्यातभाण्डानि"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 300), which adds the
+following notes:—Those objects that are specially fit for a king’s
+use—such as large elephants, and so forth—as also those the export of
+which is prohibited, such as grains and other things difficult to obtain
+in the country, and hence not to be sold to foreign countries,—if,
+through greed, merchants should export such articles to foreign
+countries, they should have all their property confiscated by the king,
+*i.e*., he should take away all that the man may have earned over the
+commodity.
 
-**राज्ञः** संबन्धितया **प्रख्यातानि** **यानि** **भाण्डानि** राजोपयोगितया — यथा हस्तिनः, काश्मीरेषु कुंकुमम्, प्राच्येषु[^३५५] पट्टोर्णादीनि, प्रतीच्येष्व् अश्वाः, दाक्षिणात्येषु मणिमुक्तादीनि — यद् यस्य राज्ञो विषये सुलभम् अन्यत्र दुर्लभं तत्र तस्य प्रख्यापनं[^३५६] भवति । तेन हि राजान इतरेतरं संदधते । **प्रतिषिद्धानि यानि** राज्ञा मदीयाद् देशान् नैतद् अन्यत्र नेयम् अत्रैव वा विक्रेयं यथा दुर्भिक्षे धान्यम् इत्य् एवमादीनि । **लोभान् निर्हरतो** देशान्तरं नयतो विक्रीणानस्य वा **सर्वहारं हरेत्,** सर्वहरणं सर्वहारः । अयं धनलोभान् नयतो दण्डः । राजान्तरोपायनार्थं त्व् अधिकतरः शारीरो ऽपि दुर्गावरोधादिः ॥ ८.३९९ ॥
+It is quoted in *Aparārka* (p. 817); and again on p. 834;—in
+*Vīramitrodaya* (Rājanīti, p. 174);—in *Vyavahāra-Bālambhaṭṭī* (p.
+954);—and in *Vivādacintāmaṇi*, (p. 119), which has the following
+explanation—‘Such elephants, horses and other things as are fit for the
+king only,—and things of which all buying and selling have been
+prohibited by the king,—if any one sells these in open defiance of the
+royal command, all that he obtains by this selling should be confiscated
+by the king.’
 
 
-[^३५६]:
-     M G: prakṣālanaṃ; DK 1: 1706; not 4: 2330): prakhyātaṃ
-
-
-[^३५५]:
-     M G: kuṃkumaprāyeṣu; DK (1: 1706; not 4: 2330) omits: prācyeṣu

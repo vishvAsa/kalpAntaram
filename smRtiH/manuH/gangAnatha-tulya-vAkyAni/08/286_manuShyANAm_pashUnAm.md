@@ -2,15 +2,26 @@
 title = "286 मनुष्याणाम् पशूनाम्"
 
 +++
+**(verses 8.286-287)  
+**
 
-यद् उक्तं "त्वग्भेदकः" (म्ध् ८.२८४) इति तस्य विशेषो ऽयम् । असति मनुष्यग्रहणे प्राणिमात्रहिंसाविषयत्वे ऽस्य श्लोकस्य महापशूनां क्षुद्राणां च पशुपक्षिमृगाणां तुल्यदण्डता मा भूद् इति तदर्थम् इदम् । **यथा याथा महद् दुःखम्** इति । स्वल्पे भेदने शोणिते च प्राणिनां महत्त्वाद् अल्पत्वे[^२३७] प्रहारस्य शताद् ऊनो ऽपि दण्डम् अर्हति, महति[^२३८] शताद् अभ्यधिको ऽपि । 
+*Viṣṇu* (5.75-76).—‘All those who have hurt a man, shall pay the expense
+of his cure;—so also those who have hurt a domestic animal.’
 
+*Yājñavalkya* (2.222).—‘he who hurts a man should pay the expenses of
+the cure, and should also be made to pay the fine that has been ordained
+in connection with lighting.’
 
-[^२३८]:
-     M G omit: mahati
+*Kātyāyana* (Aparārka, p. 816).—‘On hurting the body or the
+sense-organs, the offender should be fined and also made to pay whatever
+may satisfy the man hurt, as also the expenses that may be incurred in
+the complete healing of the wounds inflicted.’
 
+*Bṛhaspati* (21.10).—‘He who injures a limb, or divides it, or cuts it
+off, shall be compelled to pay the expenses of curing it, and he who may
+have taken away an article during the quarrel shall restore it.’
 
-[^२३७]:
-     M G DK: alpatvaṃ
-
-<u>अन्ये तु</u> महग्रहणान्[^२३९] महति दुःखे दण्डवृद्ध्यर्थम्, नाल्पे ऽपचयार्थम्, यथाश्रुतम् एव । तत्र **दुःखाय प्रहृते** दुःखोत्पत्त्यर्थं प्रहारे । प्रमादतस्[^२४०] तु न वृद्धिः । "अनुबन्धं परिज्ञाय" (म्ध् ८.१२६) इत् अस्यैव श्लोकद्वयम् उदाहरणभङ्ग्या[^२४१] व्याख्येयम् ॥ ८.२८६ ॥
+*Arthaśāstra* (p. 107).—‘For breaking the thigh or the neck, for
+piercing the eye, and for making a man unable to move, or speak or eat,
+the middle amercement shall he inflicted, and the offender shall also be
+made to pay the expenses for the healing of the wound.’

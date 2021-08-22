@@ -2,7 +2,9 @@
 title = "092 ऊर्ध्वन् नाभेर्"
 
 +++
+Down to the very sole of his feet, Man is *pure*; that part of his body
+which is ‘*above the naval*’ is *extremely pure*; and purer even than
+that is his mouth. This has been declared by that person himself who is
+the creator of the world. (92)
 
-आ पादान्तान् मेध्यः पुरुषः । तस्य **नाभेर् ऊर्ध्वम्** अतिशयेन मेध्यम् । ततो ऽपि **मुखम्** । एतच् च स्वयम् एव जगत्कारणपुरुषेणोक्तम् ॥ १.९२ ॥
 
-_ततः किम् । अत आह ।_

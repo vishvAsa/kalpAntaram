@@ -3,8 +3,4 @@ title = "041 एवम् एतैर्"
 
 +++
 
-**एवम्** इति प्रक्रान्तप्रकारप्रत्ययपरामर्शः[^८६] । **एतैर् महात्मभिर्** मरीच्यादिभिः । **इदं सर्वं स्थावरजङ्गमं सृष्टम्** । **यथाकर्म** यस्य जन्मान्तरे यादृशं कर्म तदपेक्षम् । यस्यां जातौ यस्य तु युक्तम् उतपत्तुं कर्मवशात् स तस्याम् एवोत्पादितः । **मन्नियोगान्** मदाज्ञया । **तपोयोगान्** महत्कृत्वा तपः । यावत् किंचिन् महद् ऐश्वर्यं तत् सर्वं तपसा प्राप्य्म् इत्य् एतद् अनेनाह ॥ १.४१ ॥
-
-
-[^८६]:
-     J omits: pratyaya
+In this manner was all this, movable and immovable, called into being, through the force of austerities, by these high-souled sages, under my direction,—in accordance with their actions.—(11)

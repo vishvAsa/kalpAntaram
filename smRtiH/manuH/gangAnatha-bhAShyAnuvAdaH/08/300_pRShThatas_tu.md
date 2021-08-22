@@ -2,13 +2,12 @@
 title = "300 पृष्ठतस् तु"
 
 +++
+He who strikes with things other than those specified—*i.e*., with a
+stick or such things—or on a part of the body other than those
+mentioned,—*i.e*., on the eye, etc.—‘*incurs the guilt of a thief*.’
 
-उक्तताडनदेशसाधनाभ्याम्[^२८४] अन्येन प्रकारेण घ्नन्न् अक्षादिषु लगुडादिभिर् वा चौरदण्डं[^२८५] प्राप्नोति । निन्दैषा । न त्व् अयम् एव दण्डः । यो ऽन्यत्र हिंसाया दण्डः सो ऽत्र भवतीत्य् उक्तं भवति ॥ ८.३०० ॥
+This is only meant to be deprecatory of the act referred to; and is not
+the injunction of an actual punishment; so that in this case also the
+penalty shall be the same as that in other oases of ‘hurt.’—(300)
 
 
-[^२८५]:
-     M G add: na
-
-
-[^२८४]:
-     M G DK: uktatāḍanasādhanābhyām

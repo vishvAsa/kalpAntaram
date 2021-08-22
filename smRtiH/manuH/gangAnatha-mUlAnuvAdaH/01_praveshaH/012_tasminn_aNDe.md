@@ -3,12 +3,4 @@ title = "012 तस्मिन्न् अण्डे"
 
 +++
 
-**स भगवान्** ब्रह्मा **परिवत्सरं** संवत्सरम् **उषित्वा** **तस्मिन्न् अण्डे** स्थित उत्पन्नः सर्वज्ञः कथं निर्गच्छेयम् इति ध्यातवान्[^४२] । **तद् अण्डम् अकरोद् द्विधा** । तावता कालेन गर्भः परिपच्यते । अण्डम् अपि तावत्कालेन भेदजातं[^४३] परिपाकाद् अतः काकतालीयन्यायेन तद् अण्डम् अकरोद् द्विधेत्य् उच्यते ॥ १.१२ ॥
-
-
-[^४३]:
-     G 2nd ed.: bhedaṃ jātam
-
-
-[^४२]:
-     J places tasminn aṇḍe sthita utpannaḥ sarvajñaḥ kathaṃ nirgaccheyam iti dhyātavān, after paripacyate.
+That supreme lord, having dwelt in that egg for a y ear, himself, by his own thought, broke that egg into two parts.—(12)

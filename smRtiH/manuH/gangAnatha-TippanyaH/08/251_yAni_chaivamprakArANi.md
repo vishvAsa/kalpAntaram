@@ -2,9 +2,16 @@
 title = "251 यानि चैवम्प्रकाराणि"
 
 +++
+“According to Kullūka, who relies on a passage of Bṛhaspati, these
+objects are to be placed in jars.” (Buhler.)
 
-गुल्मादीनाम् उपदेशः प्रदर्शनर्थो न परिसंख्यार्थः । **एवंप्रकारानि**[^१५२] खदिरसारकालाञ्जनाद्यानि शर्करादितुल्यानि । का एवंप्रकारता । अत आह **कालाद् भूमिर् न भक्षयेत्** । भूमेर् भक्षणम् उपमया स्वरूपोपादानम् । यथा भक्षितं भेदेन नोपलभ्यन्ते तद्वद् भूमिसादापन्नम् इव तादृशं कुर्यात् ॥ ८.२५१ ॥
+This verse is quoted in *Mitākṣarā* (2-151), whereon *Bālambhaṭṭī* has
+the following notes:—‘*Yāni*’ other things similar to those just
+mentioned,—‘*sīmāyām*’, on the boundary that has got to be
+marked,—‘*sandhi*’, meeting point of the boundaries.
+
+It is quoted in *Vivādaratnākara* (p. 203), which adds the following
+notes:—‘*Evamprakārāṇi*,’ such as pebbles and so forth;—and in
+‘*Vivādacintāmaṇi*’ (p. 93).
 
 
-[^१५२]:
-     M G DK omit: evaṃprakārāni

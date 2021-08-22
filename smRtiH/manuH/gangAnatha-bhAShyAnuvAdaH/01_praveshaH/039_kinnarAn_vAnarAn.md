@@ -2,5 +2,10 @@
 title = "039 किन्नरान् वानरान्"
 
 +++
-
-अश्वमुखाः प्राणिनो हिमवदादिपर्वतेषु भवन्ति ते **किंनराः** । **वानरा** मर्कटमुखा पुरुषविग्रहाः । **विहङ्गमाः** पक्षिणः । अजाविकोष्ट्रगर्दभादयः **पशवः** । **मृगाः** रुरुपृषतादयः । **व्यालाः** सिंहव्याघ्रादयः । द्वे दन्तपङ्क्ती उत्तराधरे येषां भवतस् ते **उभयतोदतः** ॥ १.३९ ॥
+‘*Kinnaras*’ are horse-faced beings living in the Himalaya and other
+mountains.—‘*Apes*’ are animals with the face of the monkey and the body
+of the man.—‘*Birds*’ feathered animals.—‘*Cattle*’ goats, sheep,
+camels, asses and the rest,—‘*Deer*,’ the *Ruru* the *Pṛṣat* and the
+other species.—‘*Wild beasts*’—wicked animals, like the Tiger and the
+rest;—‘*with two rows of teeth*’ having two rows of teeth, one above and
+another below.—(39)

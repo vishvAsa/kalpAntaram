@@ -2,33 +2,29 @@
 title = "206 ऋत्विग् यदि"
 
 +++
+[(See Manu below,
+388.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201323.html)
 
-संभूयसमुत्थानस्य प्रक्रमो ऽयम् । तत्र वैदिकं तावत् संभूयकार्यम् उदाहरति । **यज्ञो** ज्योतिष्टोमादिः । तत्र यागरूपानेकाङ्गकर्मनिर्वर्तनार्थम् **ऋत्विग् वृतः** "त्वया ममेदं हौत्रं कर्तव्यम् आध्वर्यवम् औद्गात्रं वा" इति[^२०] श्रौतेन विधिनानुष्ठेयम् इत्य् उपगमश् च प्रवर्तितः । कथंचिद् अपाटवादिना सामिकृतं[^२१] यत् **परिहापयेत्** त्यजेत् तदानीं तस्य **देयो** दक्षिण्**आंशः** कर्मानुरूपेण । यावती तस्मिन् क्रतौ दक्षिणा तां निरूप्य चतुर्थे भागे कर्मणः कृते चतुर्थः तृतीये तृतीय[^२२] इत्य् एतद् आनुरूप्यम्[^२३] । **सह कर्तृभिः**। कर्तारः तत्पुरुषाः[^२४] प्रधानर्त्विजां[^२५] होत्रुद्गात्रादीनां[^२६] प्रस्तोतृमैत्रावरुणप्रभृतयः ॥ ८.२०६ ॥
+*Yājñavalkya* (2.265).—‘Among a company of joint workers, if one happen
+to be dishonest, the others should expel him without payment; if he
+happen to omit his share of the work on account of his inability to do
+it, then he should have it done by another. This same rule applies to
+the case of sacrificial priests, cultivators and artisans.’
 
+*Vaśiṣṭha* (Aparārka, p. 836).—‘If the Sacrificial Priest fails to
+officiate at a sacrifice, or if a Teacher fails to teach, he should be
+abandoned; one becomes degraded if he abandons them in other
+circumstances.’
 
-[^२६]:
-     M G DK: hotrodgātrādīnāṃ
+*Nārada* (Aparārka, p. 836).—‘If the Sacrificial Priest happen to be in
+trouble, some one else may officiate for him and receive a proportionate
+share out of the fee payable to the former.’
 
+*Bṛhaspati* (Vivādaratnākara, p. 117).—‘From among men employed in a
+common work, if one happen to die, his share of the work should be done
+by a relation of his, or by his colleagues collectively.’
 
-[^२५]:
-     M G J: pradhānartvijo
-
-
-[^२४]:
-     J: puruṣāḥ
-
-
-[^२३]:
-     M G: ārūpyaṃ
-
-
-[^२२]:
-     M G J: kṛte caturthatṛtīya
-
-
-[^२१]:
-     M G: sāmikṛtāṃ
-
-
-[^२०]:
-     M G DK (1: 773): ceti
+*Śaṅkha-Likhita* (Do.).—‘If on the approach of the *Savana*, a priest
+should happen to die, what should be done is that his work should be
+completed by his *Sagotra* or by his pupil; if he has no relations, then
+the sacrificer should appoint another Priest.’

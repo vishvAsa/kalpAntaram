@@ -3,8 +3,4 @@ title = "341 द्विजो ऽध्वगः"
 
 +++
 
-**द्विज**ग्रहणं शूद्रप्रतिषेधार्थम् । **अध्वगो** नैकग्रामवासी । तत्रापि **क्षीणवृत्तिः** क्षीणपथ्योदनः । **द्वाव् इक्षू** दण्डौ, **मूलके,** प्रदर्शनार्थं चैतत् परिमितहरीतकमुद्गादिशमीधान्यानाम् । तथा च "शमीत्रपुसयुग्यघासेषु च न प्रतिषेधः"[^१४२] इति स्मृत्यन्तरम् । **परक्षेत्रात्** परकीयस्थानाद् इत्यर्थः, परिवृताद् अपि ॥ ८.३४१ ॥
-
-
-[^१४२]:
-     M G J: nāpratiṣedhaḥ
+If a twice-born person, running short of provisions while on a journey, takes two sugar-cane stalks, or two roots, from another man’s field, he does not deserve to be made to pay a fine.—(341)

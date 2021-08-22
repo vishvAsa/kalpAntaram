@@ -2,17 +2,10 @@
 title = "217 यथोक्तम् आर्तः"
 
 +++
-
-अथ वा स्वामी न[^५२] वारयति, येन[^५३] च तत् कर्म कारितं स्यत् स्वां भृतिं दत्वा तदा तत्समम् असौ स्वस्थः कारयितव्यः । अथापि स्वामी ब्रूयात् "न मे किंचित् कर्तव्यम् अस्ति" इति । तत्रापि कृतानुरूपेण लभेतैव यथोक्तम् आर्तः[^५४] ॥ ८.२१७ ॥
-
-
-[^५४]:
-     M G J: yathoktamātrām
-
-
-[^५३]:
-     M G: enaṃ; DK: anena
+If the employer does not dismiss the man, when he has fallen ill, after
+having paid off his wages for the part of the work done,—then he should,
+after recovery, be made to finish the work. But if the employer should
+say—‘I have no work for you,’ then he should receive his wages in
+accordance with the part of the work that he may have done.—(217)
 
 
-[^५२]:
-     M G: svāmino; DK (1: 845): svāmī no

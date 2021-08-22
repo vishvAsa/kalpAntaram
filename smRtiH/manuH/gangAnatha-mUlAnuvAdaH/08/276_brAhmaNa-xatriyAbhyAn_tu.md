@@ -3,4 +3,4 @@ title = "276 ब्राह्मण-क्षत्रियाभ्यान
 
 +++
 
-**ब्राह्मणक्षत्रियाभ्यां** परस्पराक्रोशे कृते तयोर् अयं **दण्ड** इत्य् एवम् अध्याहारेण योजना । तादर्थ्ये चतुर्थी वा । तद्विनयाय दण्डः कर्तव्यः । पातकस्याक्रोशे कृते ऽयं दण्डो दुःखोत्पादनरूपे ॥ ८.२७६ ॥
+The discerning king shall inflict this punishment upon the Brāhmaṇa and the Kṣatriya: the brāhmaṇa shall be fined the lowest amercement and the kṣatriya the middlemost—(276)

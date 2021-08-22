@@ -2,11 +2,12 @@
 title = "129 वाग्दण्डम् प्रथमम्"
 
 +++
+**(verses 8.129-130)  
+**
 
-यो गुणवान् ईषत्प्रथमम् एवापराद्धः स वाचा निर्भर्त्स्यते "न साधु कृतवान् असि, मा पुनर् एवं कार्षीः" इति । तथा विनीयमाने यदि न निवर्तते, "को ऽत्र दोषः"[^१५८] इति वा प्रतिजानीयात् तदा धिग्धिगादिशब्दैः परुषवचनैः कुत्सार्थैः क्षिप्यते । ततो ऽप्य् अनिवर्तमानो यथाशास्त्रं धनेन दण्डनीयः । तद् अप्य् अगणयन्न् ऐश्वर्यादिना हन्तव्यः । वधदण्डश् च ताडनाङ्गच्छेदादि, न मरणम् एव ॥ ८.१२९ ॥
+*Yājñavalkya* (1.366).—‘Punishment in the form of Reproach, (2) in the
+form of Reprimand and (3) in the form of Fine,—shall be inflicted either
+severally or collectively, in accordance with the nature of the
+offence.’
 
-
-[^१५८]:
-     M G: kāryadoṣa
-
-_यत आह ।_
+*Bṛhaspati* (27.4-5).—(See under 120.)

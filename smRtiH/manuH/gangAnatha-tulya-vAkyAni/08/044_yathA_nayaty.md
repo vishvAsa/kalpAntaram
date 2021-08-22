@@ -2,9 +2,25 @@
 title = "044 यथा नयत्य्"
 
 +++
+*Gautama* (11.23-24).—‘Reasoning is a means of getting at the truth;
+coming to a conclusion through that, he shall decide properly.’
 
-यद् उक्तं न स्वयं दृष्ट्वापि राजा सहसा कंचिद् आक्रमेत वा निगृह्णीयाद् यतः नर्मणाप्य् एतत् संभवति । कथं पुनर् एतद् अवगन्तव्यम्,[^१७२] किं परिहासकृतम् एतद् उत क्रोधाद्यनुबन्धकृतम् इति । अत आह **अनुमानेन्**ऐतज् ज्ञातव्यम् । **यथा** **मृगयुर्** मृगव्याधो विद्ध्वा मृगं नष्टं दृष्टिपथाद् अपक्रान्तं छिद्रनिसृतैर् **असृक्पातैः** स्रवद्भिः शोणितैः **पदं मृगस्य नयत्य्** आसादयत्य् एवं राजा**नुमानेन** परोक्षे प्रत्यक्षे वार्थकारणं निश्चिनुयात् । धर्मश् च कृतव्यवहारविषयस् तत्त्वावगमः । उक्तस्याप्य् अनुमानस्य पुनर्वचनं स्मृतिदार्ढ्यार्थम् ॥ ८.४४ ॥
+*Āpastamba* (2.29.6).—‘In doubtful eases they shall give their decision
+after having ascertained the truth by inference, ordeals and the like.’
 
+*Vaśiṣṭha* (16.4-5).—‘Let him reason properly regarding an offence;
+finally the offence will become evident thereby.’
 
-[^१७२]:
-     M G DK (1: 74): eva gantavyam
+*Nārada* (1.38).—‘As a huntsman traces the vestiges of a wounded deer in
+a thicket by the drops of blood, even so let the King trace justice.’
+
+Do. (1.40).—‘When it is impossible to act up to the precepts of sacred
+law, it becomes necessary to adopt a method founded on reasoning.’
+
+*Bṛhaspati* (1.32).—‘The insight of kings surpasses by far the
+understandings of other persons, in the deciding of the highest, lowest
+and middling disputes.’
+
+*Mahābhārata* (12.132.21).—‘Just as of a wounded deer, one foot-print
+leads to another through the blood-mark, so oven shall the King trace
+the steps of justice.’

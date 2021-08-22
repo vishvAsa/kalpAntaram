@@ -3,4 +3,4 @@ title = "306 रक्षन् धर्मेण"
 
 +++
 
-**भूतानि** स्थावरजङ्गमानि चौरेभ्यो **रक्षन्,** **वध्यांश् च** शास्त्रतो वधार्हास् तांश् च **घातयन्,** **सहस्रशतदक्षिणानां** पौण्डरीकादीनां क्रतूनां फलम् अन्वहं राजा प्राप्नोतीति स्तुतिः ॥ ८.३०६ ॥
+The king who, according to the law, protects all creatures and strikes them who deserve to be struck, offers, day by day, sacrifices at which hundreds of thousands are given away.—(306)

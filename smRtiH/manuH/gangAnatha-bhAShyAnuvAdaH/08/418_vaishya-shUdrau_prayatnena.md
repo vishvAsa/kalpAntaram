@@ -2,13 +2,11 @@
 title = "418 वैश्य-शूद्रौ प्रयत्नेन"
 
 +++
+By neglecting their own duties they would ‘*disturb*’—throw into
+confusion —‘*this world*.’ Hence the king should carefully see to it
+that they do not swerve from their duties. Even Vaiśyas should be
+punished, with a heavy fine, even on a slight transgression. Though
+there is to be no imprisonment for him, yet money-penalties are quite
+possible.—(418)
 
-कर्म व्यतिक्रामन्तः क्षोभयेयुर् आकुलीकुर्युर् जगदत् । अतस् ते **प्रयत्नेन** **स्वकर्मभ्यश्** च्यावयितुं न लभेरन्[^४२०] । अनल्प[^४२१] एवातिक्रामे भूयसा दण्डेन योजनीया वैश्या अपि । बन्धनं नास्ति । अपि धनशक्यः स्वधर्मः ॥ ८.४१८ ॥
 
-
-[^४२१]:
-     DK: alpa
-
-
-[^४२०]:
-     M G: cāvayed; DK reads: atas tān prayatnena svakarmāṇi kārayet

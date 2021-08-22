@@ -2,9 +2,8 @@
 title = "246 सींआवृक्षांश् च"
 
 +++
+**(verses 8.245-251)  
+**
 
-**पादपा** वृक्षाः । **क्षीरिणो** ऽर्कोदुम्बरप्रभृतयः । एते च[^१४५] चिरस्थायित्वात् सीमादेश एव रोपयितव्या न ग्राममध्ये । सीमादेशाद् अन्यत्र क्रियमाणा न निश्चायकाः स्युः ॥ ८.२४६ ॥
-
-
-[^१४५]:
-     M G: evaṃ hi
+See Comparative notes for [Verse
+8.245](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201177.html#comparative-notes "English translation of verse").

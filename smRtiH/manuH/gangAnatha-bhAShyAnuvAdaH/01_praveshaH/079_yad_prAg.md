@@ -2,5 +2,5 @@
 title = "079 यद् प्राग्"
 
 +++
-
-एकसप्ततिर् दैविकानि युगानि मन्वन्तरं नाम कालः ॥ १.७९ ॥
+The period of time named ‘*manvantara*’ consists of seventy-one
+‘Time-cycles of the gods.’—(79)

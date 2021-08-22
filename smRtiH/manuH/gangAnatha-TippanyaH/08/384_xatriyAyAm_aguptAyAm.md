@@ -2,13 +2,11 @@
 title = "384 क्षत्रियायाम् अगुप्तायाम्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 396), which adds the
+following explanation:—If a Kṣatriya has recourse to an unguarded
+Kṣatriya woman, his head shall be wetted with urine and then shaved, or
+he may be fined, like the Vaiśya, 500 *paṇas*. It adds that
+*Lakṣmīdhara* has read ‘*mauṇḍyameva*’ for ‘*daṇḍameva*’;—and in
+*Vyavahāra-Bālambhaṭṭī* (p. 1008).
 
 
-[^३०२]:
-     M G DK: icchet
-
-वैश्यस्य पञ्च शतानि दण्डः, अगुप्तां चेत्[^३०३] क्षत्रियां गच्छति । क्षत्रियस्य स एव । यदि वा मौण्ड्यं मुण्डनम् **ऋच्छेत्** प्राप्नुयाद् गर्दभमूत्रेण । एष एव वैश्यागमन उभयोर् दण्डः ॥ ८.३८४ ॥
-
-
-[^३०३]:
-     M G DK: ca

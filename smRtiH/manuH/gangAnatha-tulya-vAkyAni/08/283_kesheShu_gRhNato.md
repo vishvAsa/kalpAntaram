@@ -2,13 +2,17 @@
 title = "283 केशेषु गृह्णतो"
 
 +++
+*Viṣṇu* (5.65).—‘If he seizes him by his feet, by his hair, by his
+garment, or by his hand, he shall pay ten *Paṇas*.’
 
-"दर्पाद्" इत्य् अनुवर्तते । परिभवबुद्ध्या **केशेषु** ब्राह्मणं **गृह्णतः** शूद्रस्य **हस्तौ छेदयेत्** । द्विवचम् एकेनापि द्वाभ्यां तुल्यपीडाकरणे[^२३०] उभयच्छेदो नैकस्यैव । **दाडिका** श्मश्रु । अन्यद् अपि यद् अङ्गं गृह्यमाणं ग्रीवादितुल्यपीडाकरं तत्र सर्वथाप्य् अयम् एव दण्डः । **अविचारयन्** । पीडा कियत्य् अस्य गृहीतस्य संजाता महती स्वल्पा वेति एतद् अनुबन्धश्लोकप्राप्तं विचारणं निवार्यते[^२३१] । ग्रहणमात्रे दण्डः ॥ ८.२८३ ॥
+*Arthaśāstra* (p. 106).—‘On touching his feet, garment, hands or hair,
+the fine shall be multiples of six respectively.’
 
+*Nārada* (15-16.28).—‘If he pulls a superior by the hair, the King shall
+unhesitatingly cause his hands to be out off; likewise if he seizes him
+by the feet, beard, neck or scrotum.’
 
-[^२३१]:
-     M G: vivaraṇaṃ vicāryate
-
-
-[^२३०]:
-     M G J: tulyapīḍākara
+*Yājñavalkya* (2.217).—‘For pulling a person by the feet, hair, garment
+or hands,—there shall be a fine of 10 *Paṇas*; for causing pain,
+dragging, binding with cloth and striking with the feet, the fine shall
+be a hundred.’

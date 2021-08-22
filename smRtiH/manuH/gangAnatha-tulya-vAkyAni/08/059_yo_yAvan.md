@@ -2,21 +2,20 @@
 title = "059 यो यावन्"
 
 +++
+*Vyāsa* (Vivādaratnākara, p. 77).—‘He who makes a false claim should be
+made to pay twice the value of the claim.’
 
-येन पञ्चसहस्राणि दत्तानीति प्रमाणान्तरान् निश्चितम् — लेख्यादौ तु करणे दश[^२३६] समारोपितानि — प्रमाणान्तरं संवत्सराख्यम् इति निश्चित्येदम् अपश्यत् केवलेन लेख्यप्रमाणेन सर्वत्र प्रवर्तमानः — छलव्यवहारीति[^२३७] द्विगुणं दण्ड्यः[^२३८] । यस्य तु विस्मृत्याप्य् अन्यथाप्रवृत्तिर् आशङ्क्यते तस्य दशकं शतम् । एवम् इतरस्यापि । न तु सर्वापह्नवे दशभाग एकदेशापह्नवे द्विगुणम् इति । किं तु शाठ्याद् अन्यथाप्रतिपद्यमानौ द्विगुणं दण्ड्यौ । विस्मृतिदारिद्र्याभ्यां दण्डम् उत्तरम् । **यो यावन्तम् अर्थम् अपह्नुवीत** अपजानीते ऽधर्मर्णः — **मिथ्या यावति**[^२३९] विपरीतं धनं **वदेद्** उत्तर्मर्णः — तावत् ताव् उत्तमर्णाधमर्णाव् **अधर्मज्ञौ** । **द्विगुणं दमम्** । **तद्** इत्य् अपह्नूयमानधनपरामर्शः । यावद् अपह्नुतं ततो द्विगुणं दमो दण्डः । **अधर्मज्ञ**ग्रहणाच् च लिङ्गान् निश्चितछलविषयो ऽयं दण्ड इत्य् उक्तम् ॥ ८.५९ ॥
+*Yama* (Do., p. 78).—‘If the debtor, even though possessed of the
+requisite means, does not repay the debt, through dishonesty, he should
+be compelled by the King to pay, having realised from him double of his
+debt.’
 
+*Nārada* (Vivādaratnākara, p. 78).—‘If the debtor, even though possessed
+of the requisite means, does not repay the debt, through dishonesty, he
+should be compelled by the King to repay, after taking from him the
+twentieth part of the claim as fine.’
 
-[^२३९]:
-     M G: yācati
-
-
-[^२३८]:
-     M G: daṇḍyam
-
-
-[^२३७]:
-     M G: pravartamānachalavyavahārīti
-
-
-[^२३६]:
-     M G: deśa
+*Yājñavalkya* (2.11).—‘If a party makes a false statement, and the other
+party proves it to he so, then the former shall pay to the King a fine
+equal to the amount of the claim. The man who makes a false claim shall
+pay to the King a fine equal to double the amount of the claim.’

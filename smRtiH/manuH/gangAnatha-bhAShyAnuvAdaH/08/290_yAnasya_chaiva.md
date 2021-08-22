@@ -2,15 +2,33 @@
 title = "290 यानस्य चैव"
 
 +++
+The present text proceeds to show that in some oases, even though some
+damage may be done, it is not regarded as an offence.
 
-सत्याम् अपि हिंसायां क्वचिद् दोषो नास्तीत्य् एतद् अनेन प्रकरणेन प्रदर्श्यते । **यानं** गन्त्र्यादि यादारुह्य यान्ति पन्थानम् । तच् च गन्त्र्यादि बलीवर्दगर्दभमहिषादिवाह्यम् । त एव वा गर्दभादयः पृष्टारोह्या **यानानि** । **याता** तदारूढः सारथ्यादिः । **यानस्वामी** यस्य तत्स्वयानम् । तत्रैषां चक्रवेगादिभी रथाकर्षणयुक्तैर् वाश्वादिभिः कस्यचिद् द्रव्यस्य नाशो वा मरणम् । तत्र पशुस्वामिपालव्यतिक्रमन्याये[^२५२] प्राप्ते कदाचिद् यातुर् दोषः कदाचित् स्वामिनः कदाचिद् उभयोः कदाचिन् न कस्यचिद् अपीति यो विशेषस् तत्र नोक्त इहैवेष्यते, स उच्यते । **अतिवर्तनानि**,[^२५३] अतिक्रम्य हिंसादण्डं वर्तते, नात्र दण्डो ऽस्ति, दण्डनिमित्तानि न भवन्तीति यावत् । **शेषे दण्ड** उक्तेभ्यो निमित्तेभ्यः । अन्यत्र तान्य् अपि वक्ष्यन्ते ॥ ८.२९० ॥
+‘*Conveyance*’—the cart and so forth, riding on which people go on a
+journey. These carts are drawn by bullocks, mules, buffaloes and such
+animals. These same animals also, when ridden upon, may be taken as
+meant by the term ‘*Conveyance*.’
+
+‘*Rider*’—the driver and other persons riding in the cart.
+
+‘*Owner of the conveyance*,’—the person to whom the conveyance belongs.
+
+By the force of the running wheels of these carts, or by that of the
+horse or other animals pulling the cart on the
+
+road, some damage or death may be caused; and all such cases would come
+under the law relating to ‘owner and keeper’ laid down in verse 229 *et
+seq*. But in all these, the fault lies sometimes with the rider,
+sometimes with the owner, sometimes with both, sometimes with no one;
+and these details not having been dealt with on the previous occasion,
+they are taken up now.
+
+‘*Exclusions*’—*i.e*., cases where there is no punishment for the
+injury; and which therefore are not regarded as offences to be
+penalised.
+
+‘*For the rest*’;—*i.e*., for cases other than those just, enumerated,
+penalties are prescribed; and these are now going to be described.—(290)
 
 
-[^२५३]:
-     M G omit: ativartanāni
-
-
-[^२५२]:
-     M G: paśusvāmiyāna-
-
-_यत्र नास्ति दोषस् तानि तावद् आह ।_

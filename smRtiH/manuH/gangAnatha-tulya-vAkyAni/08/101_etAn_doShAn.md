@@ -2,9 +2,8 @@
 title = "101 एतान् दोषान्"
 
 +++
+*Kātyāyana* (Aparārka, p. 675).—‘When they have assembled, they should
+say exactly what they have seen or heard.’
 
-ऊहापोहौ वर्जयित्वा यथादृष्टं यथाश्रुतं चादृष्टं[^१] तत्वेन ब्रूहि ॥ ८.१०१ ॥
-
-
-[^१]:
-     DK (1: 268) omits: cādṛṣṭaṃ; M G: dṛṣṭaṃ
+[\[See texts under
+74.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200978.html)

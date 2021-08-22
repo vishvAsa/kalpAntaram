@@ -2,7 +2,9 @@
 title = "361 न सम्भाषाम्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 386);—in
+*Vyavahāra-Bālambhaṭṭī* (p. 1011);—and in *Vivādacintāmaṇi* (p. 173),
+which explains ‘*niṣiddhaḥ*’ as ‘forbidden by the husband or other
+relatives of the woman.’
 
-<u>केचिद्</u> भिक्षुकादीनां निवारितानां संभाषणे दण्डो ऽयम् इति मन्यन्ते । 
 
-<u>तद् असत्</u> । नैव ते निवार्या इत्य् उक्तम् । कुतश् च भिक्षुकाणां सुवर्णो दण्डः । तस्मात् को ऽपि प्रकाशम् अनाक्षारितो ऽपि कथंचिन् निषिद्धः स्वामिना[^२३५] समाचरन् सुवर्णं दण्ड्यः ॥ ८.३६१ ॥

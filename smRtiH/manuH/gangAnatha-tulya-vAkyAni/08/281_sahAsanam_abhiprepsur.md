@@ -2,29 +2,17 @@
 title = "281 सहासनम् अभिप्रेप्सुर्"
 
 +++
+*Gautama* (12.7).—‘If he assumes a position equal to that of twice-born
+men, in sitting, in lying down, in conversation, or on the road, he
+shall undergo corporal punishment.’
 
-**उत्कृष्टो** ब्राह्मणो जातितो दौःशील्याद् अवकृष्टो ऽपि, इतरे वर्णा औत्तराधर्येण परस्परापक्षयोत्कृष्टाश् चावकृष्टाश् च । तत्रेह[^२२३] **अवकृष्टज** इति जनिना जन्मावकर्ष[^२२४] उपात्तः,[^२२५] तत्संनिधानाद् उत्कर्षो ऽपि जन्मनैव । जन्मना च निरपेक्षोत्कर्षो ब्राह्मणस्य नापकर्षः । तेन शूद्रस्यायं ब्राह्मणेन सहैकम् आसनम् आरूढवतो दण्डः । **कटिः** श्रोणी । तत्र कृतचिह्नः । अङ्कविधौ च सुधाकुंकुमादिना चिह्नकरणमात्रम्, अपि तु[^२२६] दण्डख्यापनार्थम्[^२२७] । अतिक्रमाद् विभियुर्[^२२८] इति । तेन देशान्तरे यद् अनपायि तच् चिह्नम् आयसो लेखनाद् उपदिश्यते । तथा च वक्ष्यति "उद्वेजनकरैर् दण्डैर् चिहनयित्वा" (म्ध् ८.३५२) इति । राष्ट्राच् च निष्कास्यः । **स्फिक्** श्रोण्येकदेशः । सव्यो दक्षिणश् च । तं **चावकर्तयेत्** चिह्नेन । विकल्पविधानात् तावन्मातरच्छेदो न सर्वस्य स्फिजः । **अभिप्रेप्सुर्** इति च नेच्छामात्रेण । किं तर्हि, प्राप्तवत एव । इच्छाया शक्यापह्नवत्वाद् दण्डस्य च महत्त्वात् ॥ ८.२८१ ॥
+*Āpastamba* (2.27.15).—‘A. Śūdra who assumes a position equal to that of
+a member of the first three castes, in conversation, on the road, or a
+coach, in sitting and on similar occasions, shall be flogged.’
 
+*Viṣṇu* (5.20).—‘If he places himself on the same seat with his
+superior, he shall be banished with a mark on his buttocks.’
 
-[^२२८]:
-     M G: vibhidyur
-
-
-[^२२७]:
-     M G: daṇḍaḥ khyāpanārthaḥ
-
-
-[^२२६]:
-     M G DK: api ayaṃ tu
-
-
-[^२२५]:
-     M G: upāttaṃ
-
-
-[^२२४]:
-     M G: janma cotkarṣa
-
-
-[^२२३]:
-     J: tatra
+*Nārada* (15-16. 26).—‘A low-born man, who tries to place himself on the
+same seat with his superior in caste, shall be branded on his hip and
+banished; or the King shall cause his backside to be gashed.’

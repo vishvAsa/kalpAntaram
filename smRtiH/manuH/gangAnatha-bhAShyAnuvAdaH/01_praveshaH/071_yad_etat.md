@@ -2,9 +2,18 @@
 title = "071 यद् एतत्"
 
 +++
+‘*Yadetat*’ (in the sense of ‘this’) is an ordinary expression; and as a
+whole it means *that which has been spoken of*.—‘*This period of four
+Time-cycles that has been* *computed*’—*i.e*., the exact number of years
+in which have been definitely determined before this verse,—e.g. in
+verse 69, where the number of years in the Time-cycles is declared to be
+*four thousand* etc., etc.,—‘*Twelve thousand*’ of this period of four
+Time-cycles are called the ‘*Time-cycle of the Gods*’. That is to say
+the *Divine Cycle* consists of twelve thousand ‘Four-Cycles.’
 
-**यद् एतद्** इति लौकिकी वाचो युक्तिः । समुदायेन प्रक्रान्तो ऽर्थः परामृश्यते । यद् एतच् **चतुर्युगं** **परिसंख्यातं** चत्वारि सहस्राणीत्यादिना निश्चितसंख्यम् **आदौ** प्राग् अस्माच् छ्लोकात्- एतस्य[^१०७] चतुर्युगस्य द्वादशभिः सहस्रैर् **देवानां युगम् उच्यते** । द्वादशचतुर्युगसहस्राणि देवयुगं नाम काल इत्य् अर्थः । सहस्रशब्दात् स्वार्थे ऽण् । द्वादशचतुर्युगसहस्राणि परिमाणं यस्मिन्न् इति विग्रहः ॥ १.७१ ॥
+The word ‘*Sāhasram*’ is derived from the word ‘*sahasra*’ with the
+reflexive affix ‘*aṇ*’; and the compound ‘*dvādaśasāhasram*’ is to be
+expounded as ‘*dvādaśa-sahasrāṇi parimāṇe yasmin*’, ‘that in which the
+measure is that of twelve-thousands’.—(71)
 
 
-[^१०७]:
-     M: chlokākasya; G: ekasya

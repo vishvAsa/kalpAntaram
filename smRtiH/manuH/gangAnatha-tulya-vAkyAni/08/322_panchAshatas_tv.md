@@ -2,9 +2,12 @@
 title = "322 पञ्चाशतस् त्व्"
 
 +++
+*Viṣṇu* (5.81-82).—‘A stealer of gold, silver, or clothes of a value of
+more than fifty *māṣas*, shall lose both hands; he who steals a less
+amount than that shall pay eleven times its value as fine.’
 
-सुबोधो ऽयम् । **मूल्याद्** इति- नापहृतम् एव द्रव्यं देय, क्वचित् तज्जातीयं नैव प्राप्यते । अतो रूपकैर् धान्यादिना वा विनिमेयम्[^६९] ॥ ८.३२२ ॥
+*Nārada* (Theft, 27).—(See under 321.)
 
-
-[^६९]:
-     M G: nimeyam
+Do. (Vivādaratnākara, p. 323).—‘For the stealing of things sold by
+weight, grains and nuts, and other things more valuable than wood and
+the vest, the fine shall be ten times the value of the article stolen.’

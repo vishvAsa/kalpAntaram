@@ -2,5 +2,10 @@
 title = "042 स्वानि कर्माणि"
 
 +++
+*Śukranīti* (4.5.92, 100).—‘Those customs that have been introduced in
+the country, caste or race should be maintained in the same condition.
+Those whose customs have been received by traditions and have been
+practised by their own ancestors are not to he condemned for following
+them.’
 
-पूर्वोक्तस्य जानपदादेर् धर्मस्य दृष्टादृष्टतानेन प्रदर्श्यते । **स्वानि कर्माणि** कुलस्थित्यनुरूपाणि ये कुर्वन्ति ते दूरस्था अपि **प्रिया भवन्ति** । सर्वस्यान्यो निकटवर्ती संसर्गातिशयात् प्रियो भवति । स्वकर्मकारी तु दूरस्थ एव प्रियः । **स्वे स्वे कर्मण्य् अवस्थिता** इत्य् अनेन परकर्माननुष्ठानम् आह । ये न परकर्माणि कुर्वन्ति ते सर्वस्य प्रिया भवन्तीति श्लोकार्थः ॥ ८.४२ ॥
+*Atrisaṃhitā* (12).—(Same as Manu.)

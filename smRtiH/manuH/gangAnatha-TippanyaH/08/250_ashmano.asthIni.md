@@ -2,29 +2,11 @@
 title = "250 अश्मनो ऽस्थीनि"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 203), which adds the
+following notes:—‘*Kāpālikā*’ is *karparā*, tiles,—‘*aṅgāra*’,
+extinguished cinders, known as ‘*kokila*,’ *coal*,—‘*śarkarā*’ is small
+pieces of broken earthenware.
 
-संहतप्रकाण्डा वीरुधो **गुल्मानि** । **वेणव** आरग्वधादयः । बहुत्वाच् च **विविध**ग्रहणम् । **वल्ल्यो** व्रततयः दीर्घाङ्कुरास् तृणजातयः । **स्थलानि**[^१४६] कृत्रिमा सशाड्वलादिपिण्डिकाः । **कुब्जकस्य** गुल्मत्वात् पृथग् उपदेश आदरार्थः । **करीषं** शुष्कं गोमयम् । **अङ्गारा** अग्निदग्धाः काष्टावयवाः । पाषाणकठिना[^१४७] मृदः **शर्कराः** । **कपालिका** शलशैकदेशः[^१४८] । अन्यानि **उपच्छन्नानि**[^१४९] कारयेद् राजा नवग्रामसंनिवेशे कृते निर्णयार्थम्[^१५०] । एवं सीमा न कदाचिन् नश्यति । अन्यथा तं प्रदेशं कश्चित् कर्षणेन नाशयेत्[^१५१] ॥ ८.२४७–४९
-
-
-[^१५१]:
-The commentary on these three verses is quite different in the three editions. I have followed Jha.
-
-
-[^१५०]:
-J: nirṇayam
+It is quoted in *Mitākṣarā* (2.151);—and in *Vivādacintāmaṇi* (p. 93).
 
 
-[^१४९]:
-DK: pracchannāni
-
-
-[^१४८]:
-M G: śakalaikadeśaḥ
-
-
-[^१४७]:
-DK (1: 935): pāṣāṇāḥ kaṭhinā
-
-
-[^१४६]:
-M G omit: sthalāni; DK: sthalā

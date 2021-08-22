@@ -2,13 +2,8 @@
 title = "347 न मित्रकारणाद्"
 
 +++
+**(verses 8.345-347)  
+**
 
-अत आह पार्श्वथस्य[^१६२] कस्यचित् स्नेहहेतोर् अमात्यादिना पार्थ्यमानो न मृष्येत् । अथ वा स एवातिबहुधनं ददातीति नोपेक्षेत[^१६३] । सर्वेषां भूतानां भयम् आवहन्ति **साहसिकाः** । अयम् अप्य् अर्थवादः ॥ ८.३४७ ॥
-
-
-[^१६३]:
-     M G: nāpekṣeta
-
-
-[^१६२]:
-     M G: pārśvatīyasya
+See Comparative notes for [Verse
+8.345](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201277.html#comparative-notes "English translation of verse").

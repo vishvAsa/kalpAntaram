@@ -2,9 +2,16 @@
 title = "235 अजाविके तु"
 
 +++
+This verse is quoted in *Aparārka* (p. 773):—in *Vivādaratnākara* (p.
+175), which notes that ‘goats and sheep’ stand for all such animals as
+are liable to be attacked by wolves; and explains ‘*Samruddhe*’ as
+*attacked*;—in *Parāśaramādhava* (Vyavahāra, p. 265), which adds the
+following notes:—‘*Anāyati*’, not coming to ward off the
+attack,—‘*yām*’, animal belonging to the category of ‘goats and
+sheep—this pertains to cases where the attack takes place in easily
+accessible places; in the case of its coming in a place which is
+inaccessible, no blame attaches to the keeper;—in *Kṛtyakalpataru*
+(105b);—and in *Vīramitrodaya* (Vyavahāra, 137a), which explains
+‘*anāyati*’ as ‘if he does not come to avert the danger.’
 
-अजा चाविका च **अजाविके** । अविर् एवाविकैडका । एते **वृकैः** शृगालप्रभृतिभिः **संरुद्धे** अवष्टब्धे, न[^१०४] प्रथमपात एव हते । अस्मिंश् चान्तरे सत्य् आमोक्षणे ऽहतत्वात्, न च पाल आयाति मोक्षयितुम्, **अनायत्य्** अनागच्छति **पाले** यत् तत्र **प्रसह्य** बलेनाभिभूय **वृको हन्यात्** पालस्य स दोषः । स्वामिनो दापयितव्यः । प्रायश्चित्तं चरेत् । गोर् महत्त्वाद् गोमायुना न शक्यते संरोद्धुम् इत्य् **अजाविके** इत्य् उच्यते, न पुनस् तद्रूपम् । अतश् च बालानां गोवत्सानाम् एष एव न्यायः ॥ ८.२३५ ॥
 
-
-[^१०४]:
-     M G omit: na

@@ -2,25 +2,14 @@
 title = "309 अनपेक्षित-मर्यादन् नास्तिकम्"
 
 +++
+‘*Vipralumpakam*’—‘Deserter of the Brāhmaṇa’ (Nandana, whose reading is
+‘*vipralopakam*’);—‘who takes property even from a Brāhmaṇa’
+(Nārāyaṇa);—‘rapacious, *i.e*., who takes (grains &c) improperly’
+(Medhātithi).
 
-**मर्यादा** शास्त्रशिष्टसमाचारनिरूढा धर्मव्यवस्था,[^३१४] सा अनवेक्षिता अतिक्रान्ता येन । नास्ति परलोको नास्ति दत्तं नास्ति हुतम् इति[^३१५] **नास्तिकः** । प्रथमो रागादिना त्यक्तधर्मः, द्वितीयो[^३१६] नास्ति वस्त्व् इति विपरीताभिनिवेशः<sup> </sup>[^३१७] । **विलुम्पति**[^३१८] हरति धनान्य् असद्दण्डैः प्रजानाम् । तत्तुल्यो **ऽरक्षिता** । तम् **अधोगतिं विद्यान्** नरकपतितम् अधोगतं विद्यान् नरकपतितम् एवाचिरात् । पाठान्तरम्- "असत्यं च नृपं त्यजेत्" । अन्यद् उक्त्वान्यत् करोति यस् तं त्यजेत् तद्विषये नासीत ॥ ८.३०९ ॥
-
-
-[^३१८]:
-     DK (4: 1345) suggests: vipralumpati
-
-
-[^३१७]:
-     M G: vastuviparīto 'tiniścayaḥ
-
-
-[^३१६]:
-     M G J omit: dvitīyo (I follow DK 1: 577 and 4: 1345)
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 255), which
+explains ‘*vipralopakam*’ (which is its reading for ‘*vipralumpakam*’)
+as ‘one who injures the livelihood of the Brāhmaṇas’,—and ‘*attaram*’,
+‘one who enjoys.’
 
 
-[^३१५]:
-     DK (4: 1345) suggests adding: matir asyeti
-
-
-[^३१४]:
-     M G add: yā

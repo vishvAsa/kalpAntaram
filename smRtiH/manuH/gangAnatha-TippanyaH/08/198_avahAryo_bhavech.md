@@ -2,11 +2,36 @@
 title = "198 अवहार्यो भवेच्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 103), which adds the
+following notes:—‘*Avahāryo bhavet*,’ should be fined;—‘*svānvayaḥ*’
+(which is its reading for ‘*sānvayaḥ*’) a son or some relation of the
+rightful owner;—‘*ṣaṭśatam*,’ six hundred *paṇas*;—‘*niranvayaḥ*,’ not
+related to the rightful owner;—‘*anapasaraḥ*,’ means *the removing of
+the property from the owner’s house*;—and the man who does this and
+sells what belongs to another should be fined six hundred *paṇas*. If
+this seller is not a relative of the owner,—and if the removing of the
+property from the owner’s house has been done, not by any person related
+to the owner, but by the seller himself,—then he should be punished like
+a thief. If however the removing has been done by some one else, but the
+selling is done by the owner’s relative, then the fine may be even more
+than six hundred *paṇas*.—The author of
 
-पूर्वेण साधुजनकर्तृकासु क्रियासु साक्ष्यादिष्व् अपि अस्वामिक्रियकारिणाम् अनर्हतोक्ता । अनेन **षट्शतो** दण्ड उच्यते । षट्कार्षापणशतानि **अवहार्यो** दापयितव्यो दण्ड्य इति यावत् । **सान्वयः** । अन्वयो ऽनुगमनसंबन्धः । स यस्यास्ति पुत्रभ्रात्रादिः स्वामिनो ऽनुगतः **सान्वयः** । स ह्य् अननुज्ञातो ऽपि विक्रीणानो न स्फुटचोरो यतस् तस्येयं बुद्धिर् मदीयम् एवैतद् यत् पितुर् इति, तं प्रतीयम् अपि संभावना भवति । तस्यैव विक्रीय मूल्यं ददाति । यस् त्व् अत्यन्तासंबन्धः स **निरन्वयः** । **चौरकिल्बिषं** निग्रहं निःसंशयं प्राप्तः । **अनपसरः** । यदि तद्गृहं तस्य नापसृतं भवति तद्**आनपसरश्** चौरवद् दण्ड्यः । यदि तु तद्गृहाद् एव केनचिद् दत्तं विक्रीतं वा तस्य तेन वाज्ञत्वात्[^६२२] तत्प्रतिगृहीतं प्रकाशक्रयेण वा विक्रीतं तदा न चौरवद् दण्ड्यः । **षऋशतम्** एव् दाप्यः । 
+*Kalpataru* has explained ‘*apasara*’ as the justification for moving
+the article from the owner’s possession—such as its being a gift and so
+forth *by which property moves away from the owner’s possession*
+(*apasarati anena*); and he who has no such justification is
+‘*anapasara*’; and this writer adds that this view has the support of
+Bhāguri, Medhātithi and the *Vṛttikāra*.
+
+It is quoted in *Vivādacintāmaṇi* (p. 41) which has the following
+notes:—‘*Avahāryaḥ*,’ should be made to give up,—‘*sānvayaḥ*’ belonging
+to the family of the owner of the property concerned,—‘*niranvayaḥ*,’
+not a member of the owner’s family,—‘*anapasaraḥ*,’ ‘who has not
+received the property by any equitable method of acquisition, such as
+gift and the like’—‘*ṣaṭśatam*,’ he is to be fined 600 *paṇas*;—and in
+*Kṛtyakalpataru* (85b), which explains ‘*avahāryaḥ*’ as ‘should be made
+to pay—‘*sānvayaḥ*’, as ‘along with his brothers and
+relatives,’—‘*ṣaṭśatam*,’ *i.e*., 600 *paṇas*.—It goes on to say what
+has been quoted in *Vivādaratnākara* (above).
 
 
-[^६२२]:
-     M G DK (1: 758): vājñāṃ datvā
-
-अथ वा अन्वयो विक्रीणाति तस्य विक्रेयद्रव्यस्यान्यतः क्रयः **अपसरः** क्रयाद् अन्यः प्रतिग्रहादिर् आगमः । एतद् उक्तं भवति । यदि तेन तन् न कुतश्चन कृईतं नापि प्रतिगृहादिना लब्दं तदा चौरः ॥ ८.१९८ ॥

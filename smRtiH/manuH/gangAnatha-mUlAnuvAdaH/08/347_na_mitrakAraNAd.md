@@ -3,12 +3,4 @@ title = "347 न मित्रकारणाद्"
 
 +++
 
-अत आह पार्श्वथस्य[^१६२] कस्यचित् स्नेहहेतोर् अमात्यादिना पार्थ्यमानो न मृष्येत् । अथ वा स एवातिबहुधनं ददातीति नोपेक्षेत[^१६३] । सर्वेषां भूतानां भयम् आवहन्ति **साहसिकाः** । अयम् अप्य् अर्थवादः ॥ ८.३४७ ॥
-
-
-[^१६३]:
-     M G: nāpekṣeta
-
-
-[^१६२]:
-     M G: pārśvatīyasya
+Neither for the sake of friendship, nor for the sake of a large gain of money, should the king let off the perpetrators of violence, who cause terror to all living beings.—(347)

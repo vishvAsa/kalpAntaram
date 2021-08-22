@@ -2,45 +2,25 @@
 title = "304 सर्वतो धर्मषड्भागो"
 
 +++
+**(verses 8.304-305)  
+**
 
-**सर्वतः** प्रकाशाद्[^२९७] यज्ञादेः तथा ग्रामवासिभिः वनवासिभिश् च कृताद्[^२९८] धर्मषड्भागं[^२९९] राजा लभते । एवम् **अधर्माद्** **अपि** चौरैः प्रच्छन्नकृताद् राज्ञः षड्भागो भवति । न केवलं स्तेनैर् ये मुच्यन्ते तदरक्षातो राज्ञाम् अधर्मः, यावद् ये हरन्ति तेषाम् अपि चौर्यभावेनाधर्मोदयः, तदंशेनापि राजानः संबध्यन्ते तान्[^३००] अनिगृह्णन्तः[^३०१] । अदृष्टदोषसंबन्धनिवारणम् अपि रक्ष्याणां[^३०२] रक्षैव[^३०३] । तत्राधिकृतस्य[^३०४] राज्ञस् तदकरणाद् युक्तः प्रत्यवायः । 
+*Yājñavalkya* (1.334).—‘Protecting the people according to law, the King
+obtains the sixth part of the spiritual merit of the people.’
 
+Do. (1.335).—‘Whatever sin is committed by the people not protected by
+the King, half of it goes to the King; since he takes taxes from them.’
 
-[^३०४]:
-     DK: adhikṛtasya (but not DK 4: 708)
+*Vaśiṣṭha* (1.44).—‘It has been declared in the Veda—“the King obtains
+the sixth part of the merit of sacrifices and charitable works.”’
 
+*Viṣṇu* (3.48).—‘A sixth part both of the virtuous deeds and of the
+iniquitous acts committed by his subjects goes to the King.’
 
-[^३०३]:
-     DK: rakṣaṇe (but not DK 4: 708)
+*Gautama* (11.11).—‘It is declared in the Veda that the King obtains a
+share of the spiritual merit gained by his subjects.’
 
-
-[^३०२]:
-     M G: rakṣāṇā
-
-
-[^३०१]:
-     M G: nigṛhṇataḥ; DK: nigṛhṇatāṃ
-
-
-[^३००]:
-     M G: tāni
-
-
-[^२९९]:
-     DK (1: 1700): dharmāt ṣaḍbhāgaṃ (But DK 4: 707 has dharmaṣaḍbhāgaṃ)
-
-
-[^२९८]:
-     M G: kṛtākṛtād
-
-
-[^२९७]:
-     DK (1: 1700: sakāśād (But DK 4: 707 has prakāśād)
-
-- span style="text-decoration-underline;">ननु</u> च भृतिपरिक्रीतत्वाद् धर्मषड्भागम्[^३०५] अयुक्तम् । 
-
-
-[^३०५]:
-     DK (4: 708): dharmaṣaḍbhāgavacanam
-
-<u>उक्तं</u> दीनानाथप्रव्रजितादयः[^३०६] सन्त्य् अकरप्रदाः । परिपूर्णस्वधर्मपालने कानुपपत्तिः[^३०७] ॥ ८.३०४ ॥
+*Viṣṇudharmottara* (Vīramitrodaya-Rājanīti).—‘O Rāma, the King obtains
+the sixth part of the virtuous as well as the iniquitous deeds committed
+by his people; and also a portion of their spiritual merit, if he is
+engaged in protecting them.’

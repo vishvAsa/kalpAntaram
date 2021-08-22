@@ -2,58 +2,46 @@
 title = "241 क्षेत्रेष्व् अन्येषु"
 
 +++
+*Gautama* (12.21-26).—‘If the damage was done in an unenclosed field
+near the road, the responsibility falls on the herdsman and on the owner
+of the field. Five *māṣas* form the fine to be paid for damage done by a
+cow; six for a camel or an ass; ten for a horse or a buffalo; two for
+each goat or sheep. If the entire crop has been destroyed, the value of
+the whole must be paid in addition to the fine.’
 
-पथिक्षेत्रग्रामान्तीयेभ्यो **ऽन्यानि क्षेत्राणि,** तद्भक्षणे **सपादपणो** दण्डः । 
+*Arthaśāstra* (p. 60).—‘In the case of camels and buffaloes running away
+after grazing in the reserved pasture-land, one-fourth of a *Paṇa*
+should be realised; for cows, horses and asses, one-eighth; in that of
+small cattle, one-sixteenth. If they sit on the land after grazing, the
+fines shall be double; if they abide on the land, it will be quadruple.
+In the case of crops being grazed by cattle, the damage done shall be
+computed and double the amount of the value shall be the amount of the
+fine inflicted.’
 
-- span style="text-decoration-underline;">ननु</u> चात्र स्वल्पेन दण्डेन भवितव्यम्, दूरक्षेत्रात् संनिहिते क्षेत्रे । यत्[^११६] तु पन्थानम् अतिक्रम्य क्षेत्रं[^११७] बहिर्ग्रामं[^११८] वा,[^११९] तत्र महान् दण्डो युक्तः । किम् इति गवां पालो गन्तुं तत्र ददाति । 
+*Yājñavalkya* (2.159-160).—‘If crops are damaged by the she-buffalo,
+there shall be a fine of eight *māṣas*; half of his, if by the cow; and
+half of that again, if by goat or sheep; if they have sat in the field
+after grazing, the fine shall be double.’
 
+Do. (2.161).—‘The owner of the field shall receive the value of as much
+crop as may have been damaged; the keeper of the cattle should be
+beaten, and the owner should be punished with the aforesaid fine.’
 
-[^११९]:
-     M G DK: ca
+*Nārada* (11.38-39).—‘When a man claims damages for crops grazed by
+cattle, that quantity of grain should be restored to him by the owner of
+the cattle which may have been consumed by the cattle in the estimation
+of the neighbours the cows shall be given up to the owner and the grain
+to the husbandman. In the same way a fine shall be imposed on the
+herdsman when crops have been trodden down by cows.’
 
+Do. (11.31).—‘For damage done by a cow, he shall inflict a fine of one
+*māṣa*; two *māṣas* in the case of a she-buffalo; half a *māṣa* in the
+case of a goat trespassing with its young.’
 
-[^११८]:
-     M G: vāhigrāmaṃ; DK: bahirgrāmakaṃ
+*Kātyāyana* (Vivādaratnākara, p. 235).—‘The owner of the cow should be
+made to pay a quarter *Paṇa*; of the she-buffalo, two quarters; of
+goats, sheep and calves, one quarter is the fine ordained.’
 
-
-[^११७]:
-     M G: kṣetriyaṃ
-
-
-[^११६]:
-     M G: yaṃ
-
-- span style="text-decoration-underline;">नैष दोषः</u> । यद्य् अत्र महादण्डो नोच्येत तदा प्रत्यहं प्रवेशनिर्गमैर् गवां भक्षयन्तीनां ग्रामान्तरक्षेत्राण्य् उत्सीदेयुः । दण्डात् तु महतो बिभ्यतो यत्नेन रक्षन्ति । अन्यत्र गास्[^१२०] तृणविशेषार्थं[^१२१] कथंचिन् नयतः[^१२२] स्वल्पो दण्डः । 
-
-
-[^१२२]:
-     M G DK: nayati
-
-
-[^१२१]:
-     M G: -ārthā; DK: -ārthe
-
-
-[^१२०]:
-     M G: go
-
-- अत्रापि विपालानां वारणम् एव । 
-
-सर्वत्र क्षेत्रस्वामिनः सदफले देये[^१२३] । कुशलैः च ते[^१२४] परिमाणेन[^१२५] कल्पिते ।   
-
-**क्षेत्रिकस्य**[^१२६] । क्षेत्रम् अस्यास्तीति, व्रीह्यादिताट्टक् । **इति धारणा**, एष निश्चय इत्य् अर्थः । **सर्वत्र**ग्रहणाच् च विपाले ऽपि पशौ क्षेत्रिकस्य सदलाभः[^१२७] । यद्य् अपि **पशु**शब्दः सामान्यशब्दो महिष्यजाव्युष्ट्रगर्दभादिषु वर्तते तथापि स्मृत्यन्तरदर्शनाद् गोष्व् अयं दण्ड इति मन्यते । तथा च गौतमः- "अश्वमहिष्योर् दश[^१२८], अजाविषु द्वौ" (ग्ध् १२.२४–२५) इत्याद्य् अन्यत्र कल्पना ॥ ८.२४१ ॥
-
-
-
-[^१२८]:
-     M G DK: daśamahiṣīṣv
-
-
-[^१२७]:
-     M G DK: gatalābhaḥ
-
-
-[^१२६]:
-     M G DK omit: kṣetrikasya
-
-_अत्रापवाधः।_
+*Śāṅkha-Likhīta* (Do.).—‘In the case of all calves, one *māṣa*; ten in
+that of the she-buffalo; sixteen in that of asses and camels; and four,
+in that of goats and sheep.’

@@ -2,21 +2,20 @@
 title = "323 पुरुषाणाङ् कुलीनानाम्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 317), which explains
+‘*Kulīnānām*’ as ‘born of good families—and ‘*mukhyānām ratnānām*’ as
+‘emerald and the like’,—again at p. 324.
 
-सत्कुले जाता विद्यादिगुणयोगिनः **कुलीनाः । नारीणां च विशेषतो** गुणरूपसौभाग्यसंपन्नानाम्[^७०] इत्य् अर्थः । **च**शब्दात् कुलीनानां इत्य् एव । परस्परापेक्षाणि नारीणां विशेषणानि । **मुख्यानि** उत्तमानि **रत्नानि** वज्रवैडूर्यमरकतप्रभृतीनि । अत्रापि सुवर्णशततुल्यानीत्य् अपेक्ष्यम् । अन्यथोत्तमत्वम् आपेक्षिकम् इति दण्डो न व्यवतिष्ठेत । **वधम् अर्हति** । अनुबन्धाद्यपेक्षया सर्वत्रार्हत्यर्थो[^७१] योजनीयः । अकुलीनानाम् अवशिष्टानाम् अमुख्यानां च "शेषे[^७२] त्व् एकादशगुणम्" (म्ध् ८.३२२) इत्य्[^७३] एव ॥ ८.३२३ ॥
+It is quoted in *Mitākṣarā* (2.275), where *Bālambhaṭṭī* has the
+following notes:—The reading of the third foot accepted by all is
+‘*mukhyānāñcaiva ratnānām*’, and ‘*ratnānāñcaiva sarveṣām*’ is wrong
+reading; the meaning is that ‘for stealing persons born of great
+families, specially ladies of great families, and also of diamond,
+sapphire and other valuable gems, the thief deserves the death-penalty’
+in *Prāyaścittaviveka* (p. 344), which says that this clearly refers to
+the enticing away of boys and girls of good families, and not of
+slaves,—in *Vivādacintāmaṇi* (p. 134), which explains ‘*mukhya-ratna*’
+as standing for the emerald and the rest;—and in *Vīramitrodaya*
+(Vyavahāra, 152a).
 
 
-[^७३]:
-     M G J DK: ekādaśaguṇa ity; I follow the reading of MDh 8.322 of which this is a citation.
-
-
-[^७२]:
-     M G: viśeṣe; DK: haraṇe
-
-
-[^७१]:
-     J: sarvatra vadhyartho
-
-
-[^७०]:
-     M G: -saubhāgyataḥ saṃpannānām

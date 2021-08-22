@@ -2,11 +2,34 @@
 title = "379 मौण्ड्यम् प्राणान्तिकम्"
 
 +++
+In cases where ‘death’ has been laid down for the *Kṣatriya* and other
+castes, it is to be ‘tonsure’ for the Brāhmaṇa. For instance, for
+adultery, the non-Brāhmaṇa deserves the death-penalty,—the general rule
+being that ‘the male shall be flayed.’
 
-यत्र क्षत्रियादीनां वध उक्तस् तत्र ब्राह्मणस्य **मौण्ड्यम्** । यथा "अब्राह्मणः संग्रहणात् प्राणानतं दण्डम् अर्हति" (म्ध् ८.३५९), तथा तु "पुमांसं दाहयेत्" (म्ध् ८.३७२) इति । प्राणानाम् अन्तं गच्छति प्राणान्तं वा करोति **प्राणान्तकः** । "अन्येष्व् अपि दृश्यते" (पाण् ३.२.१०१) इति ण्वुल्[^२९३] । <u>अन्ये तु</u> "प्राणान्तिक" इति पाठान्तरम् । प्राणान्ते भवः प्राणान्तिकः अध्यात्मादित्वाट् ठञ् ।
+The term ‘*prāṇāntaka*’ is to be explained as *prāṇānām antam gacchati*
+or ‘*prāṇānāmant?m karoti*,’—*that which brings about the end of life*;
+the form being formed with the ‘*ṇvul*’ affix.
+
+Others read ‘*prāṇāntika*’;—in which case the affix is ‘*ṭhañ*,’—the
+meaning being ‘relating to death.’
+
+‘*For the other castes*’—the *Kṣatriya* and others, except the
+*Brāhmaṇa*,—‘*it is to be actual death*.’
+
+*Putting to death* having already been prescribed before, the present
+text has been taken as serving the purpose of putting forward the
+injunction of tonsure and the fine of one thousand, as supplementary to
+the former injunction. Otherwise, in as much as the death penalty has
+not been prescribed for the *Brāhmaṇa*, what would be the occasion for
+declaring that ‘Tonsure is the death-penalty for the Brāhmaṇa?’
+
+It might be argued that the possibility of death-penalty for the
+Brāhmaṇa is indicated by the general law that ‘the man should be
+flayed.’”
+
+But in that case the substitute should have been put forward in that
+same connection; so that the connection of the two could be clearly
+perceived.—(379).
 
 
-[^२९३]:
-     M G DK: daṇḍaḥ
-
-**इतरेषां** ब्राह्मणाद् अन्येषां क्षत्रियादीनां **वर्णानां** प्राणान्तिक एव श्रुतं मारणादिपूर्वम् एव । तदनन्तरम् इदम् उच्यते । उच्यमानं **मौण्ड्यं** तच्छेषतया सहस्रं दण्डो विधीयत इति मन्यन्ते । अन्यथा ब्राह्मणस्य प्राणान्तदण्डविधानात् कः प्रसङ्गो ब्राह्मणस्य येनैवम् उच्यते **मौण्ड्यं प्राणान्तिक** इति । "पुमांसं दाहयेत्" (म्ध् ८.३७२) इति सामान्यविधानप्रसक्तम् इति चेत्, तत्रैव कर्तव्यं स्यात् तथा हि स्फुटं तद्विषयत्वं प्रतीयेत[^२९४] ॥ ८.३७९ ॥

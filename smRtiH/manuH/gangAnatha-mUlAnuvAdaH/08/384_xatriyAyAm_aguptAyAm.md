@@ -3,12 +3,4 @@ title = "384 क्षत्रियायाम् अगुप्ताया
 
 +++
 
-
-[^३०२]:
-     M G DK: icchet
-
-वैश्यस्य पञ्च शतानि दण्डः, अगुप्तां चेत्[^३०३] क्षत्रियां गच्छति । क्षत्रियस्य स एव । यदि वा मौण्ड्यं मुण्डनम् **ऋच्छेत्** प्राप्नुयाद् गर्दभमूत्रेण । एष एव वैश्यागमन उभयोर् दण्डः ॥ ८.३८४ ॥
-
-
-[^३०३]:
-     M G DK: ca
+In the case of the Vaiśya approaching an unprotected Kṣatriya woman, the fine shall be five hundred; but the Kṣatriya may suffer tonsure or the fine.—(384)

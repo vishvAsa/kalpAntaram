@@ -3,8 +3,4 @@ title = "320 धान्यन् दशभ्यः"
 
 +++
 
-**कुम्भ**शब्दः परिमाणविशेषे वर्तते न घटमात्रे । क्वचिद् विंशतिप्रस्थान् क्वचिद् द्वाविंशतिर् इति देशभेदाद् व्यवस्था । **दशभ्यो ऽधिकं हरतो** वधविधिर् उक्तार्थो ऽनुबन्धादिना नियम्यते । **शेषेषु** दशसु प्राकृत एकादशगुणो दण्डः । तत् **तस्य**[^५९] **च तद् धनम्** इति सर्वत्र स्तेये योज्यम् । **धान्यं** व्रीहियवादिसप्तदशानीति स्मर्यते ॥ ८.३२० ॥
-
-
-[^५९]:
-     M G: tat tasya
+There shall be ‘immolation’ for one who steals more than ten jars of grain; in other cases he should he made to pay eleven times as much, as also make good the property to the owner.—(320)

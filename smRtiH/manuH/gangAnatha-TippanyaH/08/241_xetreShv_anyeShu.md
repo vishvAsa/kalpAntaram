@@ -2,58 +2,23 @@
 title = "241 क्षेत्रेष्व् अन्येषु"
 
 +++
+This verse is quoted in *Aparārka* (p. 769), which adds the
+following—‘The meaning of the verse is as follows:—With the exception of
+those fields which have been specifically mentioned by Manu to be such
+that for damaging their crops cattle are *not* to be punished;—if the
+crops of any other fields happen to be damaged, then the keeper is to be
+fined one *kārṣāpaṇa* and a quarter’;—this should be understood as
+referring to repeated and serious damage:—‘and in all cases of damage to
+crops by cattle, the estimated produce of the field damaged should be
+given to the owner.’
 
-पथिक्षेत्रग्रामान्तीयेभ्यो **ऽन्यानि क्षेत्राणि,** तद्भक्षणे **सपादपणो** दण्डः । 
-
-- span style="text-decoration-underline;">ननु</u> चात्र स्वल्पेन दण्डेन भवितव्यम्, दूरक्षेत्रात् संनिहिते क्षेत्रे । यत्[^११६] तु पन्थानम् अतिक्रम्य क्षेत्रं[^११७] बहिर्ग्रामं[^११८] वा,[^११९] तत्र महान् दण्डो युक्तः । किम् इति गवां पालो गन्तुं तत्र ददाति । 
-
-
-[^११९]:
-     M G DK: ca
-
-
-[^११८]:
-     M G: vāhigrāmaṃ; DK: bahirgrāmakaṃ
-
-
-[^११७]:
-     M G: kṣetriyaṃ
-
-
-[^११६]:
-     M G: yaṃ
-
-- span style="text-decoration-underline;">नैष दोषः</u> । यद्य् अत्र महादण्डो नोच्येत तदा प्रत्यहं प्रवेशनिर्गमैर् गवां भक्षयन्तीनां ग्रामान्तरक्षेत्राण्य् उत्सीदेयुः । दण्डात् तु महतो बिभ्यतो यत्नेन रक्षन्ति । अन्यत्र गास्[^१२०] तृणविशेषार्थं[^१२१] कथंचिन् नयतः[^१२२] स्वल्पो दण्डः । 
+It is quoted in *Vivādaratnākara* (p. 234), which adds the following
+notes:—‘*Anyeṣu*,’ in the case of fields other than those lying on the
+outskirts of the village and so forth;—the ‘cattle’ (to be fined) should
+here be taken as standing for the *keeper* of the cattle;—it being
+impossible for the *cattle* to pay a fine; the fine should be understood
+to be a *paṇa and a quarter* for each head of cattle;—and in
+*Vīvādacintāmaṇi* (Calcutta, p. 65), which explains ‘*anyeṣu*,’ as,
+‘lying at a distance.’
 
 
-[^१२२]:
-     M G DK: nayati
-
-
-[^१२१]:
-     M G: -ārthā; DK: -ārthe
-
-
-[^१२०]:
-     M G: go
-
-- अत्रापि विपालानां वारणम् एव । 
-
-सर्वत्र क्षेत्रस्वामिनः सदफले देये[^१२३] । कुशलैः च ते[^१२४] परिमाणेन[^१२५] कल्पिते ।   
-
-**क्षेत्रिकस्य**[^१२६] । क्षेत्रम् अस्यास्तीति, व्रीह्यादिताट्टक् । **इति धारणा**, एष निश्चय इत्य् अर्थः । **सर्वत्र**ग्रहणाच् च विपाले ऽपि पशौ क्षेत्रिकस्य सदलाभः[^१२७] । यद्य् अपि **पशु**शब्दः सामान्यशब्दो महिष्यजाव्युष्ट्रगर्दभादिषु वर्तते तथापि स्मृत्यन्तरदर्शनाद् गोष्व् अयं दण्ड इति मन्यते । तथा च गौतमः- "अश्वमहिष्योर् दश[^१२८], अजाविषु द्वौ" (ग्ध् १२.२४–२५) इत्याद्य् अन्यत्र कल्पना ॥ ८.२४१ ॥
-
-
-
-[^१२८]:
-     M G DK: daśamahiṣīṣv
-
-
-[^१२७]:
-     M G DK: gatalābhaḥ
-
-
-[^१२६]:
-     M G DK omit: kṣetrikasya
-
-_अत्रापवाधः।_

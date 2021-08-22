@@ -2,9 +2,14 @@
 title = "216 आर्तस् तु"
 
 +++
+Forfeiture of the wages has been declared to be the penalty for the man
+when not ill; the present verse lays down the law regarding one who is
+ill.
 
-**आर्तो** यो[^५१] भृतो ऽर्धकृतं कर्म यदि हित्वा गच्छेत् स **स्वस्थः सन्** पुनर् आगत्य यथोक्तम् आदौ तत् कुर्यात् । बहुनापि कालेन पीडया मुक्तः प्रत्यागतः कृतकर्मशेषे **लभेतैव वेतनम्** ॥ ८.२१६ ॥
+If the labourer falls ill and gives up work after it has been
+half-done,—hut, on recovering, comes hack and completes the task as
+originally stipulated,—in this case, even though he may have taken a
+long time to recover from illness and return to work, the man shall,
+receive his wages, on having completed the work.—(210).
 
 
-[^५१]:
-     J omits: yo

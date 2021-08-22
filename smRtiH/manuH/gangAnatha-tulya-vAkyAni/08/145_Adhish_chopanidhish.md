@@ -2,31 +2,29 @@
 title = "145 आधिश् चोपनिधिश्"
 
 +++
+*Viṣṇu* (6.7-8).—‘The pledge shall be restored to the pledgee when the
+interest has reached its maximum amount; but he should not use an
+immovable pledge without special agreement.’
 
-**आधिर्** उक्तार्थः । प्रीत्या भुज्यमानः **उपनिधिस्** तु वस्त्रान्तर्हितो[^२०८] न्यासः । तौ चिरकालं न स्थाप्यौ । किं तर्हि, प्राप्ते काले मोक्षणीयौ । आधेर् मोक्षणकालो[^२०९] द्विगुणीभूतं धनम् । तस्यातिक्रमस् तस्मिन्न् अपि काले ऽमोक्षणम् । उपनिधिर् अपि यावता कालेन नास्यावसरो भवति, "मदीयम् एवैतद् भोक्ताहम्" इति, स प्रत्याहरणकालः । ततो ऽधिकः कालः **कालात्ययः** । तं **नार्हतः** स न कर्तव्य इत्य् अर्थः । हेतुम् आह- **अवहार्यौ भवेतां ताव्** इति । तौ हि दीर्घकालम् अवस्थिताव् अप्रत्याह्रीयमाणाव् **अव्यवहार्याव्** इति स्थितम्[^२१०] । तस्माद् द्विगुणीभूतधने आधिमोक्षणे[^२११] प्रयतितव्यम् । सुहृदुपदेशो ऽयम्, न त्व् एवाध्युपनिध्योर्[^२१२] भूयसापि कालेनापहारः[^२१३] । यतो वक्ष्यति "आधिः सीमा बालधनम्" (म्ध् ८.१४९) इति । अतस् तस्यैवायम् अनुवादः ।
+*Yājñavalkya* (2.58).—‘The pledge becomes lost, if it is not redeemed on
+the principal becoming doubled; if it had been given for a limited time,
+it becomes lost on the lapse of that time; but there is no such losing
+in the ease of pledges that have been given for the enjoyment of the
+usufruct only.’
 
+*Śukranīti* (4.5.415).—‘The following cannot he lost by length of
+adverse possession:—Pledge, boundary-land, minor’s property, trust
+property, sealed deposit, female slaves, government property and
+property of the Vedic scholar.’
 
-[^२१३]:
-     DK (1: 386): kālena nāpahāraḥ
-
-
-[^२१२]:
-     M G DK (1: 386): na tv evādhau iti 
-
-
-[^२११]:
-     M G J DK (5: 1186): 'dhimokṣaṇe (I follow DK 1: 386)
-
-
-[^२१०]:
-     DK (1: 386): hāniṃ gacchataḥ (but not DK 5: 1186)
-
-
-[^२०९]:
-     M G J: -kāle
-
-
-[^२०८]:
-     M G J: śāstrāntaravad antarhito (M G antarvitto); I follow DK (1: 386); DK (5: 1186) however suggests: śāstrāntaravaśād anantarhito
-
-<u>अन्ये</u> त्व् आधिविषयम् उपदेशम् इच्छन्ति । यो द्वेषेण द्विगुणीभूते धने कालं क्षपति, "तत् त्रिलाभं[^२१४] धनं नाधिकं वर्धते, न चास्याधुनान्यत्राधानविक्रयौ स्तः, इह वृद्धिम् अयं मा लभताम्" इत्य् अनेन मात्सर्येण, तत्रेदम् उच्यते **अवहार्यौ भवेतां ताव्** इति । अनया बुद्ध्यामोक्षयतः स्वाम्यम् अस्य निवर्तते । यस् तु कथंचिद् असति धने न मोक्षयति तस्य निसर्गविक्रयौ न स्त इति । अथ वापरो ऽर्थो मुखेनोपेक्षयति, परहस्तगतया[^२१५] शङ्कयोच्यते[^२१६] **अवहार्यौ भवेताम्** इति ॥ ८.१४५ ॥
+*Bṛhaspati* (11, 25, 28).—‘When the time for payment has passed, and
+interest has ceased, the creditor shall become the owner of the pledge;
+hut till ten days have elapsed, the debtor is entitled to redeem it.
+Notice having been given to the debtor’s family, a *pledge to be kept*
+may he used after the principal has become doubled, and so may the
+*pledge given for* a *fixed period*, on the expiry of that period. When
+the principal has been doubled, or the stipulated period has expired, in
+the case of the *pledge given for a fixed period*, the creditor becomes
+owner of the pledge after having waited for a fortnight. If the debtor
+should pay the debt during that interval, he may recover the pledge even
+then.’

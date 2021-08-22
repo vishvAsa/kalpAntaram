@@ -3,8 +3,4 @@ title = "073 तद् वै"
 
 +++
 
-युगसहस्रम् अन्तो यस्याह्नस् **तद् युगसहस्रान्तम्** । ये मनुष्या[^१०८] एतज् जानते **ते ऽहोरात्रविदः** । किं तेषाम् इत्य् अपेक्षायां पुण्यं भवतीति संबन्धः । ब्राह्मस्याह्नः परिमाणवेदनं पुण्यम् अतस् तद् वेदितव्यम् इति स्तुत्या विधिप्रतिपत्तिः ॥ १.७३ ॥
-
-
-[^१०८]:
-     J: mānuṣyāḥ
+Those who know the ‘Day of Brahmā’ as ending with the (said) thousand ‘time-cycles,’ and the ‘night’ also as of the same extent,—are people who alone know what is ‘day and night’, and acquire merit.—(73) 

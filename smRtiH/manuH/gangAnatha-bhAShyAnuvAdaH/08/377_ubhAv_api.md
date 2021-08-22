@@ -2,21 +2,14 @@
 title = "377 उभाव् अपि"
 
 +++
+‘*Both these*,’ *i.e*., the *Vaiśya* and the *Kṣatriya*—‘*offending
+against*’—*i.e*., having sexual intercourse with—a protected Brāhmaṇa
+woman—‘*should he punished like the Śūdra*,’—*i.e*. ‘deprived of
+everything, if the woman is protected’ (as declared in 374).
 
-**ताव् एव** क्षत्रियवैश्यौ **गुप्तया ब्राह्मण्या विप्लुतौ** कृतमैथुनौ मैथुनप्रवृत्ताव् एव शूद्रवद्[^२८६] दण्ड्यौ "गुप्तं[^२८७] सर्वेण हीयते" इति । **दग्धव्यौ वा कटाग्निना** । **वा**शब्दो वधप्रकारविकल्पे न वधविकल्पे[^२८८] । न हि शूद्रस्य गुप्ते[^२८९] वधाद् अन्यो दण्ड आम्नातः ॥ ८.३७७ ॥
-
-
-[^२८९]:
-     M G: śūdragupte; J: śūdrasyāgupte (but Jha's translation presupposes gupte)
-
-
-[^२८८]:
-     M G: vadhaprakāravikalpe vadhavikalpena; DK: vadhaprakāravikalpe vadhavikalpe na
-
-
-[^२८७]:
-     M G DK: gupte
+‘*Or he should be burnt in a fire of dry grass*’—the term ‘or’ is meant
+to indicate option in the *method of killing*, and not in regard to the
+*killing* itself. Because in the case of the protected Brāhmaṇa woman,
+there is no other penalty for the *Śūdra* except death—(377)
 
 
-[^२८६]:
-     M G: vipraśūdravad; DK: viprāśūdravad

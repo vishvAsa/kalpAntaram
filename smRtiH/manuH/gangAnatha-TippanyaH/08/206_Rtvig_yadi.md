@@ -2,33 +2,18 @@
 title = "206 ऋत्विग् यदि"
 
 +++
-
-संभूयसमुत्थानस्य प्रक्रमो ऽयम् । तत्र वैदिकं तावत् संभूयकार्यम् उदाहरति । **यज्ञो** ज्योतिष्टोमादिः । तत्र यागरूपानेकाङ्गकर्मनिर्वर्तनार्थम् **ऋत्विग् वृतः** "त्वया ममेदं हौत्रं कर्तव्यम् आध्वर्यवम् औद्गात्रं वा" इति[^२०] श्रौतेन विधिनानुष्ठेयम् इत्य् उपगमश् च प्रवर्तितः । कथंचिद् अपाटवादिना सामिकृतं[^२१] यत् **परिहापयेत्** त्यजेत् तदानीं तस्य **देयो** दक्षिण्**आंशः** कर्मानुरूपेण । यावती तस्मिन् क्रतौ दक्षिणा तां निरूप्य चतुर्थे भागे कर्मणः कृते चतुर्थः तृतीये तृतीय[^२२] इत्य् एतद् आनुरूप्यम्[^२३] । **सह कर्तृभिः**। कर्तारः तत्पुरुषाः[^२४] प्रधानर्त्विजां[^२५] होत्रुद्गात्रादीनां[^२६] प्रस्तोतृमैत्रावरुणप्रभृतयः ॥ ८.२०६ ॥
-
-
-[^२६]:
-     M G DK: hotrodgātrādīnāṃ
-
-
-[^२५]:
-     M G J: pradhānartvijo
-
-
-[^२४]:
-     J: puruṣāḥ
-
-
-[^२३]:
-     M G: ārūpyaṃ
+This verse is quoted in *Aparārka* (p. 836);—in *Vivādaratnākara* (p.
+118), which adds the following notes:—‘*Svakarma parihāpayet*,’ *i.e*.,
+through sickness or such causes, a part of the sacrificial fee shall be
+paid to him, after duly considering the total fee payable for the entire
+sacrifice and the part of the work that may have been done by him;—in
+*Parāśaramādhava* (Vyavahāra, p. 222), which explains ‘*sahakartṛbhiḥ*’
+as ‘by his colleagues’;—in *Vivādacintāmaṇi* (p. 48), which says that
+‘if a priest, through disease or other disability, is unable to perform
+his work, then he is to be paid his fee in proportion to the work
+actually done by him;—in *Kṛtyakalpataru* (89b);—and in *Vīramitrodaya*
+(Vyavahāra, 120a), which explains ‘*sahakartṛbhiḥ*’ as ‘by his
+collaborators,’—or the meaning may be ‘he should be paid his share of
+the fee, *along with*, at the same time as, the other priests are paid.’
 
 
-[^२२]:
-     M G J: kṛte caturthatṛtīya
-
-
-[^२१]:
-     M G: sāmikṛtāṃ
-
-
-[^२०]:
-     M G DK (1: 773): ceti

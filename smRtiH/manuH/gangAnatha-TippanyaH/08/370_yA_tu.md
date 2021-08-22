@@ -2,5 +2,16 @@
 title = "370 या तु"
 
 +++
+According to ‘others’ in Medhātithi and Nārāyaṇa, the verse describes
+three distinct penalties for women of the three distinct castes.
+Govindarāja and Kullūka hold that in any one case, whether one or the
+other of the three penalties shall be inflicted will depend upon the
+circumstances of that case.
 
-स्त्रियां कन्यानां कन्यालिङ्गं नाशयन्त्यां **मौण्ड्यं** केशवपनं दण्डः, अङ्गुलिच्छेदो वा । **खरेणोद्वहनं** केशच्छेदपक्षे । कन्याजात्यादिभेदान् निग्राह्यभेदात् त्रैवर्णिकस्त्रीणां ब्राह्मणादिक्रमेणेमं दण्डम् इच्छन्ति मुद्राश् च कल्पयन्ति । ते प्रमाणाभावाद् उपेक्षणीयाः ॥ ८.३७० ॥
+This verse is quoted in *Parāśaramādhava* (Vyavahāra, p. 321;—in
+*Vivādaratnākara* (p. 403), which explains ‘*strī*’ as a woman who is
+herself not a maiden;—in *Aparārka* (p. 859), which says *strī* meant
+here is ‘other than a maiden’, the ‘maiden’ having been already dealt
+with in the preceding verse;—in *Mitākṣarā* (2.288), which, explains
+‘*strī*’as ‘a grown up experienced woman’;—and in *Vīramitrodaya*
+(Vyavahāra, 157a), which explains ‘*prakuryāt*’ as ‘causes penetration.’

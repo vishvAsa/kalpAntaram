@@ -2,7 +2,8 @@
 title = "395 श्रोत्रियं व्याधितार्तौ"
 
 +++
-
-**संपूजनम्** अनुग्रहः, अनेकार्थत्वाद् धातूनाम् । न हि **बाला**दीनाम् अन्या पूजोपपद्यते । **श्रोत्रियो** ऽत्र ब्राह्मण एवेति स्मरन्ति । **आर्तः** प्रियवियोगादिना । **अकिंचनो** दुर्गतः । **महाकुलीनः** । ख्यातिधनविद्याशौर्यादिगुणे कुले जातो **महाकुलीनः** । **आर्य** ऋजुप्रकृतिर् अवक्रः । एतेषां दानमानादिभिर् अनुग्रहः कर्तव्यः । 
-
-<u>केचिद्</u> **अकिंचनं** महाकुलीनविशेषणं व्याचक्षते ॥ ८.३९५ ॥
+*Nārada* (18.34-35).—‘Let a king be constantly intent on showing honour
+to the Brāhmaṇas; a field furnished with Brāhmaṇas is the source of
+prosperity of the world. A Brāhmaṇa may command respect and a
+distinguished seat at the King’s court. In the morning, the King shall
+show his face to, and salute, the Brāhmaṇa first of all.’

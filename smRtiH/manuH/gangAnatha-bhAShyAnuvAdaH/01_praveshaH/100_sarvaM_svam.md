@@ -2,5 +2,18 @@
 title = "100 सर्वं स्वम्"
 
 +++
+Having raised the question that, if the Brāhmaṇa happen to be
+discontented and should again undertake to receive gifts, he would incur
+sin,—the Author offers his answer to it in this verse.
 
-असंतुष्टस्य प्रतिग्रहादिषु पुनः प्रवृत्तौ दुष्कृतिताम् आशङ्क्य समाधत्ते । **सर्वम् इदं** त्रैलोक्यान्तर्वर्ति धनं **ब्राह्मणस्य स्वं** । नात्र प्रतिग्रहो विद्यते । प्रभुत्वेनासौ गृह्णाति, न प्रतिग्रहीतृतयेति । प्रशंसैषा, न विधिः । अत एव्**आर्हति**शब्दः । **अभिजनः** अभिजातताविशिष्टत्वम् ॥ १.१०० ॥
+‘*All this*’—*i.e.*, whatever wealth exists in the three worlds—‘*is the
+property of the Brāhmaṇa*’; so that for him there can he no ‘acceptance
+of gifts’; what he takes possession of, he does by virtue of his being
+its possessor, and not as the receiver of a gift.
+
+This is mere praise, not an injunction; hence we have the word
+‘*deserves*’.
+
+‘*Noble birth*’—high hirth, superior character. (100). VERSE CI.
+
+

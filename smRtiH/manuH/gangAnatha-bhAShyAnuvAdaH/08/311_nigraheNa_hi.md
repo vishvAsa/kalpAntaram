@@ -2,21 +2,22 @@
 title = "311 निग्रहेण हि"
 
 +++
+Persons full of vice are called ‘*vicious*’; of these there should be
+‘*suppressing*’ in the manner described above.
 
-पापयुक्ताः पुरुषाः **पापाः** । तेषां **निग्रहः** पूर्वोक्तः[^१] । यथाशास्त्रवर्तिनः[^२] **साधवः** । तेषां **संग्रहो** ऽनुग्रहो यथाशक्त्युपकारः । तेन **पूयन्ते** विपाप्मानो भवन्ति प्रायश्चित्तेनेवेत्य्[^३] अर्थवादः । अथ वा पापानुत्पत्तिर् एव पूतत्वम् । ब्राह्मणा इव[^४] सततम् **इज्याभिः** नित्यैर् महायज्ञादिभिः ॥ ८.३११ ॥
+Those who behave in accordance with the scriptures are called the
+‘*virtuous*’;—of these there should be ‘*fostering*,’ *i.e*., favourable
+treatment to the best of one’s ability.
+
+By this ‘*kings become purified*’— freed from sins—as if by the
+performance of expiatory rites.
+
+This is only a commendatory declaration.
+
+Or, being ‘*purified*’ may be taken as consisting in *the non-incurring
+of sin*.
+
+Just as Brāhmaṇas are ‘*purified*’ by the ‘*daily sacrifices*’—the daily
+performance of the five Great Sacrifices.—(311)
 
 
-[^४]:
-     M G: eva
-
-
-[^३]:
-     M G J: prāyaścittena vety
-
-
-[^२]:
-     M G DK (1: 577): yathāśāstravadvartinaḥ
-
-
-[^१]:
-     M G: pūrvokta-

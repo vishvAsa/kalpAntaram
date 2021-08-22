@@ -2,21 +2,18 @@
 title = "264 गृहन् तडागम्"
 
 +++
+This verse is quoted in *Mitākṣarā* (2.155), according to which
+*ajñānāt* is meant to cover those cases where a man takes possession of
+another’s garden &c. under the impression that they really belong to
+himself; in which case the fine is to be only two hundred. *Bālambhaṭṭī*
+has the following notes:—‘*Bhīṣayā*,’ threatening with dangers from some
+other source; this includes *greed* also.
 
-क्षेत्रादिप्रसङ्गाद् इदम् उच्यते । **भीषा**ग्रहणं[^१७९] निमित्तोपलक्षणार्थम् । अस्यैवैतन् निश्चितम् इत्य् एवं जानतो हरतः पञ्चशतो दण्डः । मध्यमसाहसे प्रकृते पञ्चशतग्रहणं निमित्तभेदे न्यूनाधिकदण्डार्थम् । पूर्वत्र वा संख्यानम् अविवक्षितं[^१८०] मन्यन्ते । तेन[^१८१] "व्यवहारं लेखयामि," "राज्ञा[^१८२] दण्डयामि," "चौरैर् दोषयामि" इति भयप्रदर्शनेन हरति । तस्यां दण्डो निमित्तान्तरानुकल्पः ॥ ८.२६४ ॥
+It is quoted in *Aparārka* (p. 766);—in *Vivādaratnākara* (p. 222),
+which explains ‘*bhīṣayā*,’ as ‘by arousing fear in him,’—‘*ajñānāt*’ as
+‘through mistake’;—in *Vyavahāramayūkha* (p. 98);—in *Vivādacintāmaṇi*
+(Calcutta, p. 64), which explains that ‘if one robs the house after
+having threatened the owner, the fine is only 500 *paṇas*;’—and in
+*Vīramitrodaya*, (Vyavahāra, 143b).
 
 
-[^१८२]:
-     M G: rājani
-
-
-[^१८१]:
-     J omits: tena
-
-
-[^१८०]:
-     DK: pūrve enāṃ saṃkhyām avivakṣitāṃ 
-
-
-[^१७९]:
-     M G: sīmāgrahaṇa-; J: bhīgrahaṇaṃ; DK: vibhīṣāgrahaṇaṃ

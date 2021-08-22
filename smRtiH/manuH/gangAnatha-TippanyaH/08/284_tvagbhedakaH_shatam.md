@@ -2,18 +2,22 @@
 title = "284 त्वग्भेदकः शतम्"
 
 +++
+“According to Rāghavānanda the rule refers to Śūdras assaulting Śūdras.
+According to Nārāyaṇa, the last offender’s property shall be
+confiscated.”—Buhler.
 
-द्विजातीनाम् अयं परस्परापराधे, शूद्रस्य तु शूद्रापराधे, उच्यते[^२३२] । यः केवलाम् एव त्वचं भिन्द्याद् विदारयेन् न लोहितं दर्शयेत् तस्य **शतं दण्डः** । तावद् एव **लोहितदर्शने** । यद्य् अपि **त्वग्बेदम्** अन्तरेण न लोहितं दृश्यते, तथाप्य् अधिकापराधाद् अधिकदण्डे प्राप्ते शतवचनं[^२३३] नियमार्थम् ।
+This verse is quoted in *Vivādaratnākara* (p. 164), which remarks that
+in view of the law laid down by Viṣṇu, that for causing bleeding the
+fine shall be 64 *paṇas*,—the penalty here laid down should be
+understood to be applicable to cases where there is much bleeding caused
+by the tearing of the skin.
+
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 287);—in *Aparārka* (p.
+815) which adds that, the bleeding is due to grievous hurt, then the
+fine is to be 100, otherwise 64;—in *Mitākṣarā* (2.218), where
+*Bālambhaṭṭī* remarks that the penalty here laid down applies to cases
+where the hurt has been inflicted on some vital part of the body;—and in
+*Vivādacintāmaṇi* (Calcutta, p. 74), which explains ‘*niṣka*’ as
+equivalent to four ‘*suvarṇas*’
 
 
-[^२३३]:
-     M G: śatavacana-
-
-
-[^२३२]:
-     M G DK (1: 1804): manyate
-
-- span style="text-decoration-underline;">अन्ये</u> तु कर्णनासिकादेर् अपि स्रवति शोणितं बहिस्त्वग्भेदे ऽपि तदर्थम् उच्यत इत्य् आहुस् । 
-
-<u>तद् अयुक्तम्</u> । अन्तर्भेदे हि महत्त्वान् महादण्डो युक्तः । तस्माद् यत्रेषत्स्रवति शोणितं तत्र शतं । शिरोभेदे तु मांसवत् ।   
-**निष्क**शब्दः सुवर्णपरिमाणवाचीत्य् उक्तम् । **प्रवास्यो** **ऽस्थ्नां भेदकस्** तत्प्रयोजक इति । घञन्तेन समासं कृत्वा तं करोतीति पठितव्यः- अस्थिभेदकृद् इति । प्रवासनम् अर्थशास्त्रप्रवृत्त्या मारणम्, निर्वासनं वा । दण्डविधौ ह्य् अर्थशास्त्रश्रवणं दृश्यते । तथा हि "दशबन्धम्" इति बार्हस्पत्य औशनस्ये च प्रयोगः । निर्वासनं ब्राह्मणस्य नान्येषाम् ॥ ८.२८४ ॥

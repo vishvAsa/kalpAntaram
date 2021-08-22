@@ -2,11 +2,22 @@
 title = "253 यदि स्ंशय"
 
 +++
+“How can there be a doubt, when the marks are there?”
 
-कथं पुनर् लिङ्गेषु सत्सु संशयः । यानि तावत् प्रच्छन्नानि तानि यदि केनचित् कथंचिद् आगम्य प्रच्छन्नम् अन्यत्र नीयेरन् नैव निश्चयः स्यात् । ये ऽपि प्रकाशा[^१५७] न्यग्रोधादयस् ते ऽपि न सीमायाम् एव रोहन्त्य् अन्यत्रापि जायन्ते ततः संदेह आभासत्वात् । यत्र पुनर् इयं संभावना नास्ति तत्र प्रमाणम् एव लिङ्गानि । 
+If some one were to come and secretly remove the hidden marks to another
+place, this would give rise to uncertainty. And as for the open public
+marks—in the shape of the *Nyagrodha* and other trees,—it is not that
+these trees are to be found on boundaries only; as a matter of fact,
+they grow in other places also. It is for these reasons that the said
+marks are not always reliable, and hence doubts are likely to arise.
+
+In a case where there is no possibility of such invalidating
+circumstances, the marks themselves are sufficient proof.
+
+‘*Dependent upon witnesses*’—*i.e*., due to witnesses. The settlement,
+ascertainment, is such as has the witnesses alone for its basis. The
+meaning of the verse is that in cases where the marks are doubtful, or
+where there are no marks at all, the dispute regarding boundaries can be
+settled only by oral testimony.—(253).
 
 
-[^१५७]:
-     M G DK: prakāśyā
-
-**साक्षिप्रत्ययः** साक्षिहेतुकः । साक्षिणः प्रत्ययो यत्रेति । **विनिश्चयः** तत्त्वाधिगमः । संशयितलिङ्गे अलिङ्गे वा सीमाविवादे साक्षिहेतुको निर्णय इति तात्पर्यम् ॥ ८.२५३ ॥

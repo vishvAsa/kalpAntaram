@@ -2,21 +2,25 @@
 title = "127 अधर्मदण्डनं लोके"
 
 +++
+**(verses 8.127-128)  
+**
 
-अधर्मप्रधानदण्डनम्[^१५१] **अधर्मदण्डनम्**[^१५२] । पूर्वोक्तम् अनपेक्ष्येदं शास्त्रपाठमात्रेण[^१५३] राजेच्छया रागद्वेषादिभिर् वा । तद् यशोनाशकं कीर्तेश् च विच्छेदकम् । स्वदेशे गुणख्यातिर् **यशः,** देशान्तरे **कीर्तिः** । जीवतो वा पुण्यशब्दो **यशः**, उत्तरकालिकी **कीर्तिः** । निर्दोषगुणवती **कीर्तियशसी** । अन्यो वा भेद उन्नेयः, अर्थवादत्वात् । **अस्वर्ग्यं** स्वर्गप्राप्तौ कर्मान्तरजन्यायां प्रतिबन्धकम् । **परत्रापी**ति श्लोकपूरणार्थम्, स्वर्गस्यामुष्मिकत्वात्[^१५४] ॥ ८.१२७ ॥
+*Vaśiṣṭha* (19.42-45).—‘If an innocent person is punished, the domestic
+priest shall perform a *Kṛcchra* penance; and the King shall fast during
+three days and nights.’
 
+*Yājñavalkya* (1.356, 358).—‘Punishment illegally inflicted by the King
+destroys heaven, fame and worldly prosperity; legally inflicted, it
+brings to the King heaven, fame and victory. If the King punishes those
+who deserve punishment, and if he kills those who deserve to be killed,
+he offers, thereby, sacrifices at which excellent sacrificial fees are
+given.’
 
-[^१५४]:
-     M G omit: uttarakālikī kīrtiḥ . . . svargasyāmuṣmikatvāt
+*Nārada* (Punishments, 61).—‘Let the King, faithful to the tenets of the
+sacred law, practise the duties of his office and follow the rule of
+inflicting punishment. Let him destroy, as governor, the evil-doers,
+after having traced them by cunning stratagems and arrested them.’
 
-
-[^१५३]:
-     DK (1:576; 4: 1972) : anapekṣya daṇḍaśāstrapāṭhamātreṇa
-
-
-[^१५२]:
-     M G DK (1:576) omit: adhamadaṇḍaṇam, and add ca
-
-
-[^१५१]:
-     DK (4: 1972; but not 1: 576): adharmapradhānaṃ daṇḍanam; M G J: -daṇḍam
+*Kātyāyana* (Vivādaratnākara, p. 649).—‘By not chastising evil-doers,
+and by punishing those who are already submissive, kings and ministers
+incur sin.’

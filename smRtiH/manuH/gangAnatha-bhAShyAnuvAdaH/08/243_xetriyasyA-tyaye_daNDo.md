@@ -2,17 +2,19 @@
 title = "243 क्षेत्रियस्याऽत्यये दण्डो"
 
 +++
+If there has been some ‘*transgression*’—fault—on the part of the farmer
+himself, in connection with In’s farm,—such as untimely sowing, sowing
+of unripe seed, damage to the crops by his own cattle, harvesting before
+ripening, and so forth,—then the man should be fined ten times the
+amount of the king’s share.
 
-क्षेत्रस्वामिनः स्वक्षेत्रे **ऽत्ययो** ऽतिक्रमो ऽपराधो यदि भवेत् स्वकृतः[^१३६] — अकाले वापनम्, निदाघे अयोग्यबीजवापः, स्वपशुभिर् भक्षणम्, गृहे[^१३७] वाविदितफलप्रवेश[^१३८] इत्यादि — तदा राज्ञो यावान् भाग आगच्छति तं दशगुणं दण्डनीयः । अथ तस्याज्ञातम् एतत् प्रयुक्तैर् भृत्यैः क्षेत्रजागर्यानियुक्तैर् वा अपराद्धम्, तदा अर्धदण्दो भृत्यानाम् अत्यये क्षेत्रिकस्य दण्ड इति संबन्धः । क्षेत्रप्रसङ्गाद् अत्रेदम् उक्तम् ॥ ८.२४३ ॥
+If without the farmer’s knowledge, the wrong has been done by the
+servants employed by him—in the shape of night-watchers and others,—then
+these servants shall be fined half the aforesaid amount.
+
+The construction is—‘*atyaye kṣetriyasya daṇḍaḥ*.’
+
+This has been set forth here in the present context, because it deals
+with cultivated fields.—(243)
 
 
-[^१३८]:
-     M G J: vāviditaphalake prāyaśa
-
-
-[^१३७]:
-     M G J: giraṇaṃ
-
-
-[^१३६]:
-     M G J: svakṛte

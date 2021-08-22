@@ -3,4 +3,4 @@ title = "112 दाराधिगमनञ् चैव"
 
 +++
 
-**दाराणाम् अधिगमनं** भार्यासंग्रहः । **विवाहानां** ब्राह्मादीनां तत्प्राप्त्युपायानां च **लक्षणं** स्वरूपाधिगमने हेतुम् । **महायज्ञाः** पञ्च वैश्वदेवादयः । **श्राद्धस्य** पितृयज्ञस्य **कल्पो** विधिर् इतिकर्तव्यता । परग्रहणं शाशवतग्रहणं च वृत्तपूरणार्थम् । एष तृतीयाध्यायार्थः ॥ १.११२ ॥
+The taking of wife,—the definition of the several forms of Marriage,—the method of the Great Sacrifices,—the eternal regulations relating to the offering to Pitṛs. — (112)

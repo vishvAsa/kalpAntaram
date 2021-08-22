@@ -2,5 +2,8 @@
 title = "043 पशवश् च"
 
 +++
-
-एते **जरायुजाः** । जरायुर् उल्बं गर्भशय्या । तत्र प्रथमं ते संभवन्ति । ततो मुक्ता जायन्ते । एष एतेषां जन्मक्रमः । दन्तशब्दसमानार्थो दत्शब्दो ऽन्यो ऽस्तीत्य् उभयतोदत इति प्रथमाबहुवचने रूपं युज्यते ॥ १.४३ ॥
+‘*Ubhayatodataḥ*’—A compound difficult to explain. The word ‘*danta*’
+becomes transformed into ‘*dat*’ only in special cases, laid down in
+Pāṇini 5.4.141-145. The only explanation possible is that given by
+Medhātithi,—that the term ‘*dat*’ is an entirely different word from
+‘*danta*’

@@ -2,21 +2,13 @@
 title = "389 न माता"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 357), which notes that
+‘*tyāga*,’ ‘abandonment,’ here means ‘not according such treatment to
+them as has been prescribed in the scriptures’;—and that ‘*strī*’ here
+stands for the *wife*.
 
-**माता न त्यागम् अर्हति** । न त्याज्या । त्यागः स्वगृहान् निष्कासनां मातृवृत्तेः स्खलितायाः,[^३१४] उपकारस्योपक्रियायाम् उदितायाम् अकारणे । एवं पित्रादीनाम् अपि व्याख्येयम् । संबन्धसाहचर्यात्[^३१५] **स्त्री** भार्यैवाभिप्रेता । अपतितानाम् एषां त्यागो नास्ति । मातुस् तु "न माता पुत्रं प्रति पततीत्य् एके" इति शातातपः । भार्यायाश् चापि त्यागः असंभोगो[^३१६] गृहकार्यनिषेधः । भक्तवस्त्रादिदानं तु न निषिध्यते । "योषित्सु पतितास्व् अपि । वस्त्रान्नपानं[^३१७] देयं च वसेयुः स्वगृहान्तिके" (म्ध् ११.१८७) इति पठ्यते ॥ ८.३८९ ॥
-
-
-[^३१७]:
-     M G: vastrānnamānaṃ
-
-
-[^३१६]:
-     M G: saṃbhoge
+It is quoted in *Aparārka* (p. 823), which remarks that this rule refers
+to the abandoning of all the four collectively;—and in *Vivādacintāmaṇi*
+(p. 154).
 
 
-[^३१५]:
-     M G DK (1: 1627): saṃbandhe sāhacaryāt
-
-
-[^३१४]:
-     M G: saktāyā

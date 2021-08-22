@@ -2,13 +2,22 @@
 title = "368 स-कामान् दूषयंस्"
 
 +++
+Inasmuch as the foregoing verse also pertains to the case of a willing
+maiden, the penalty therein laid down applies to the case where the man
+defiles her through sheer audacity; while in a case where he does it by
+stealth, secretly like a thief, the punishment shall consist of the fine
+of two hundred, without the amputation of the fingers.
 
-**सकामाम्** इत्य् अनुवादः, पूर्वस्यापि सकामविषयात् । अभिषह्य करणे पूर्वं दण्डः,[^२६१] अप्रकाशं चौर्यवद् द्विशतो ऽङ्गुलीच्छेदवर्जितः । अथ कस्मिंश्चित् पुरुषे ऽनुरागवती कन्या तेन संयुज्यमाना कन्यात्वनिवृत्तौ सकामा येन विकृतीक्रियते तस्यायं दण्डः । अथ वा[^२६२] हस्तस्पर्शमात्रम् इह दूषण । प्रार्थनीयायाः कन्याया हस्तस्पर्शः "मया स्पृष्टां ज्ञात्वा नान्य एताम् अर्थैष्यते ऽन्यस्मिन्न् अनुरागिणीं मन्यमानः" ॥ ८.३६८ ॥
+Or, the text may refer to the following case—
+
+If the maiden happens to be in lore with a certain man, and having had
+intercourse with him has lost her virginity,—then since the girl was
+willing, the man, for the crime of defiling her, shall suffer the
+penalty here laid down.
+
+Or, the ‘*defiling*’ meant here may be taken as the *touching of the
+hand* and some such part of the body; the man’s motive being—‘if people
+see me touching her hand, they will think that she loves me and then no
+one else will seek for her baud, and she shall be mine.’—(368)
 
 
-[^२६२]:
-     M G omit: vā
-
-
-[^२६१]:
-     DK (1: 1868): pūrvadaṇḍaḥ

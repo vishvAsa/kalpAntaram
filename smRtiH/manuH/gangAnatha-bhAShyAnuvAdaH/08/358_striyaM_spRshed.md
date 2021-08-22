@@ -2,49 +2,24 @@
 title = "358 स्त्रियं स्पृशेद्"
 
 +++
+‘*Improper place*,’ for touching, would he one where the man could pass
+along without touching the woman; there would he no harm in large
+crowds.
 
-अदेशस्पर्शस् तु[^१९८] यत्र विनैव तत्स्पर्शनं गमनागमनादि संसिध्यति । महाजनसंकुले न दोषः । तथा[^१९९] शरीरावयवो ऽपि देशः । तत्र हस्तस्कन्धधृतभाण्डावरोपणे[^२००] तत्स्पर्शे न दोषः । ओष्ठचिबुकस्तनादिषु दोषः । तया वा स्तनादिस्पर्षेनोत्पीडितो यदि तत् सहते[^२०१] "भवति[^२०२] मा[^२०३] कार्षीः" इत्यादिना न[^२०४] प्रतिषेधति । **परस्परस्यानुमते** मतिपूर्वम् एतस्मिन्न् अकृते न दोषो ऽयम् । न पुनः कर्मादौ । स्खलन्ती[^२०५] पुरुषं कण्ठे ऽवलंबते, पुरुषो वा स्तनान्तरे स्त्रियम्, तद्धस्तगृहीतद्रव्यादानप्रवृत्तौ,[^२०६] शुष्के[^२०७] पतिष्यामीति कर्द्दमे पततीतिवत्, ताव् अपि न दुष्येताम्[^२०८] ॥ ८.३५८ ॥
+Or ‘*place*’ may stand f or *part of the body*. There can be no wrong in
+the man happening to touch the hands, or the shoulder, or the back, when
+taking down a load from her head: whereas it would be very wrong to
+touch her lips or chin or breasts and such other parts.
 
+Or, when touched by her, pressed with her breasts for instance, if the
+man does not resent it, by saying ‘do not do this.’
 
-[^२०८]:
-     M G: patatīti nivedanasyāpi na duṣyatām
-
-
-[^२०७]:
-     M G: śulke
-
-
-[^२०६]:
-     M G: -pravṛttā-; DK: -pravṛttaḥ
-
-
-[^२०५]:
-     M G: khalaṃ; DK: tatra khalu
-
-
-[^२०४]:
-     M G omit: na
+‘*By mutual consent*’;—the act is wrong only when done intentionally;
+and not if he touches her during sacrificial and other
+performances,—when, for instance, the woman hangs by the neck of the
+man, or when the man touches the woman between her breasts, or when he
+touches her when taking something from her hands and so forth. This
+being due to chance,—just like the case where one desiring to fall back
+upon dry ground, falls in mud,—the parties incur no guilt at all.—(358)
 
 
-[^२०३]:
-     M G: na
-
-
-[^२०२]:
-     M G: bhaven; J omits: bhavati
-
-
-[^२०१]:
-     M G: yadi kas tat sahate; DK: yadi kaścit sahate 
-
-
-[^२००]:
-     M G DK: h-skaṃdhaspṛṣṭabhāṇḍā-
-
-
-[^१९९]:
-     M G: yathā
-
-
-[^१९८]:
-     M G: pradeśasparśasya; J: adeśasparśasya

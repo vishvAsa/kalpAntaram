@@ -3,8 +3,4 @@ title = "319 यस् तु"
 
 +++
 
-प्रपिबन्त्य् अस्याम् इति **प्रपा**, जलाधारस्थानम् उद्धृतजलनिधानं वा । माषस्य जातिर् न निर्दिष्टा । सा मरुजाङ्गलानूपभेदा[^५८] द्रष्टव्या । **तच् च** रज्ज्वादि **समाहरेद्** दद्यात् तस्मिन् स्थाने, न राजनि ॥ ८.३१९ ॥
-
-
-[^५८]:
-     J: -bhedād
+When one steals the rope or the water-pot from the well, or damages a water-drinking establishment, he should be punished with a fine of one ‘māṣa,’ and should restore the article to the place.—(319)

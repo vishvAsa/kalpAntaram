@@ -2,25 +2,31 @@
 title = "374 शूद्रो गुप्तम्"
 
 +++
+‘*Śūdra*’—*i.e*., down to the *Caṇḍāla*;—‘*having
+intercourse*’—sexual—‘*with a twice-born woman*’;—‘*protected or
+unprotected*’—by her husband,—shall be punished according to law.
+
+What shall be the punishment?
+
+If he has intercourse with an unprotected woman, he shall be deprived of
+his ‘*limb*,’ and also of ‘*his whole property*.’
+
+As to the question regarding what he is to be deprived of, the answer is
+provided by the epithet ‘*aṅgasarvasvi*,’ which mentions the ‘*limb*’
+and the ‘*whole properly*’; especially as nothing else is mentioned, and
+no other thing is specified.
+
+The limb of which he is to be deprived is that with which he has
+offended.
+
+If he has intercourse with a ‘*protected*’ woman, ‘*he is to be deprived
+of everything*,’— not of only one limb, but of the whole body.
+
+The present verse lays down the amputation of the limb, the confiscation
+of his entire property, and the inflicting of death, as forms of
+punishment,—the sense being that punishment should be inflicted on the
+man. Says Gautama (12.2):—In the case of intercourse with women, there
+should be amputation of the generative organ and also the confiscation
+of his entire property,—if she happens to be protected’—(374)
 
 
-[^२८०]:
-     M G DK (1: 1862): -sarvasvair
-
-**शूद्र** आ चाण्डालात्, **गुप्तं वर्णं द्वैजातं** द्विजातीनां स्त्रिय **आवसन्** मैथुनेन गच्छन् रक्षिता[^२८१] भर्त्रादिभिः स[^२८२] नियमेन दण्ड्यः । को दण्ड इति चेत्, **अगुप्तां** चेद् गच्छत्य् **अङ्गसर्वस्वी** **हीयते** । अङ्गं च सर्वस्वं तद्वान्[^२८३] । केन **हीयते** । प्रकृतत्वात् ताभ्याम् एव, अन्यस्यानिर्देशात्, विशेषस्यानुपादानात् । अपराध्य्[^२८४] एवाङ्गम् । **गुप्तं** चेद् गच्छति **सर्वेण हीयते** । नैकेनाङ्गेन यावच् छरीरेणापि । हान्युद्देशेनाङ्गच्छेदनसर्वस्वहरणमरणान्य् उपदिष्टानि भवन्ति । हानिर् अस्य कर्तव्येत्य् अर्थः । तथा च गौतमः- "आर्यस्त्र्यबिगमने लिङ्गोद्धारः सर्वस्वहरणं च । गुप्तां चेत्" (ग्ध् १२.२–३) ॥ ८.३७४ ॥
-
-
-[^२८४]:
-     M G DK: aparādhānantaram
-
-
-[^२८३]:
-     M G: tadvat
-
-
-[^२८२]:
-     M G: dva; J omit: sa
-
-
-[^२८१]:
-     J: rakṣitāṃ

@@ -2,9 +2,15 @@
 title = "251 यानि चैवम्प्रकाराणि"
 
 +++
+The ‘*thicket*’ and other things have been mentioned only by way of
+illustration; and not for the purpose of excluding other things; since
+such trees as the *Khadira*, the *Sāra*, the *Kālāñjana* and so
+forth,—as also things similar to the ‘*pebble*’—are also used.
 
-गुल्मादीनाम् उपदेशः प्रदर्शनर्थो न परिसंख्यार्थः । **एवंप्रकारानि**[^१५२] खदिरसारकालाञ्जनाद्यानि शर्करादितुल्यानि । का एवंप्रकारता । अत आह **कालाद् भूमिर् न भक्षयेत्** । भूमेर् भक्षणम् उपमया स्वरूपोपादानम् । यथा भक्षितं भेदेन नोपलभ्यन्ते तद्वद् भूमिसादापन्नम् इव तादृशं कुर्यात् ॥ ८.२५१ ॥
+The text adds what is meant by ‘*such-like*’—‘*which* *the earth may not
+eat up in time*.’ ‘*Eating-up*’ is used figuratively, for *corroding*.
+Just as what has been *eaten up* cannot be differentiated from other
+things, so also what has become obliterated by the corrosion of the
+earth.—(251)
 
 
-[^१५२]:
-     M G DK omit: evaṃprakārāni

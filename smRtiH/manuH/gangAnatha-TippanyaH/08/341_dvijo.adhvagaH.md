@@ -2,9 +2,13 @@
 title = "341 द्विजो ऽध्वगः"
 
 +++
+This verse is quoted in *Mitākṣara* (2.275), to the effect that there is
+no punishment for way-farers stealing some little things on the way.
+*Bālambhaṭṭī* adds the following notes:—‘*Adhvāga*,’
+way-farer,—‘*kṣīṇavṛttiḥ*,’ with his food-supply exhausted.
 
-**द्विज**ग्रहणं शूद्रप्रतिषेधार्थम् । **अध्वगो** नैकग्रामवासी । तत्रापि **क्षीणवृत्तिः** क्षीणपथ्योदनः । **द्वाव् इक्षू** दण्डौ, **मूलके,** प्रदर्शनार्थं चैतत् परिमितहरीतकमुद्गादिशमीधान्यानाम् । तथा च "शमीत्रपुसयुग्यघासेषु च न प्रतिषेधः"[^१४२] इति स्मृत्यन्तरम् । **परक्षेत्रात्** परकीयस्थानाद् इत्यर्थः, परिवृताद् अपि ॥ ८.३४१ ॥
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 314);—in
+*Vivādacintāmaṇi* (p. 146), which explains ‘*kṣīṇavṛttiḥ*’ as having no
+food for the journey;—and in *Saṃskāramayūkha* (p. 124).
 
 
-[^१४२]:
-     M G J: nāpratiṣedhaḥ

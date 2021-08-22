@@ -2,19 +2,17 @@
 title = "397 तन्तुवायो दशपलम्"
 
 +++
+‘*Dvādaśakam*’—‘*Twelve paṇas*’ (Kullūka and Medhātithi, who does not
+say ‘*palas*,’ as asserted by Buhler);—‘twelve times the value of the
+yarn’(Govindarāja);—‘one-twelth of the value of the yarn’ (Nārāyaṇa).
 
-ततून् वयति **तन्तुवायः** कुविन्दः । शाकटकादेः पटस्य कर्ता । स सूत्रपलानि दश गृहीत्वा शाटकं वयन् एकपलाधिकं[^३४१] वस्त्रं दद्यात् । अनया वृद्ध्या सर्वं दद्यात् । स्थूलसूक्ष्मादिवाससां रोमवतां च कल्पना कर्तव्या । **अन्यथा** द्वादशपणो दण्डः । वृद्ध्यदाने[^३४२] ऽयं दण्डः । मूलच्छेदे तु[^३४३] गणोक्तः । एवं विंशतिपलं यदि न ददाति वृद्धिं द्विगुणो दण्डः । एवं कल्पना कार्या- त्रिगुणश् चतुर्गुण इत्यादि । 
+This verse is quoted in *Aparārka*, (p. 785), which explains
+‘*dvādaśakam*’ as ‘fine consisting of 12 *kārṣāpaṇas*’;—and in
+*Vivādaratnākara* (p. 311), which adds the following
+notes:—‘*Tantuvāya*,’ the weaver of cloth, having received 10 *palas* of
+yarn, shall, after weaving it, give to the owner cloth weighing 11
+*palas*; otherwise acting,—*i.e*., having received 10 *palas* of yam, if
+he gives cloth weighing only 10 *palas*,—he should pay a fine. It adds
+that this rule refers to coarse yams.
 
 
-[^३४३]:
-     M G DK add: sūtrāṇi
-
-
-[^३४२]:
-     M G: vṛddhidāne
-
-
-[^३४१]:
-     M G: yaṃ naikapalādhikaṃ; DK: vayannaikapalādhikaṃ
-
-<u>अन्ये</u> तु दण्डं राजभागम् इत्य् आहुः ॥ ८.३९७ ॥

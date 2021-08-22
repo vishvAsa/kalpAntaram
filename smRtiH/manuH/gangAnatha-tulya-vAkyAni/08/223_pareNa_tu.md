@@ -2,9 +2,8 @@
 title = "223 परेण तु"
 
 +++
+**(verses 8.222-223)  
+**
 
-दशाहात् परतो न क्रीतानुशयः । जातानुशयश् चापि क्रेता विक्रेता वा यदि[^७४] राजनि विवदतां तौ ततः **षट् शतानि दण्ड्यौ** । **न दद्याद्** इति नायम् अदृष्टार्थः प्रतिषेधः । किं तर्हि ज्ञायते । स्थितिर् ईदृशी । अनिच्छन् क्रेता दशाहाद् ऊर्ध्वं न त्याजनीयो नापि विक्रेता ग्राह्यितव्यः । अतश् च यदि साम्नोभयेच्छायां दानादाने स्यातां तत्र न कश्चिद् दोषः ॥ ८.२२३ ॥
-
-
-[^७४]:
-     M G: parato na kretā yāvatānuśayaś cāpi vikretā yadi; DK: parato na | kretā jātānuśayaś cāpi vikretā yadi
+See Comparative notes for [Verse
+8.222](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201152.html#comparative-notes "English translation of verse").

@@ -2,37 +2,35 @@
 title = "398 शुल्कस्थानेषु कुशलाः"
 
 +++
+‘*Custom houses*’ are those places where duties and tolls are realised,
+as fixed by the king and the merchants in accordance with the special
+conditions of each country. Those who have experience of these are the
+‘custom-house officials’; these men cannot be hoodwinked by clever
+rogues.
 
-येषु प्रदेशेषु शुल्कम् आदीयते तानि **शुल्कस्थानानि**[^३४४] राजभिर् वणिग्भिः[^३४५] स्वप्रतिदेशनियतानि कल्पितानि । तेषु स्थानेषु ये **कुशलाः** शौल्किकाः,[^३४६] ये धूर्तैर् न[^३४७] शक्यन्ते वञ्चयितुम्, तथा सर्वेषां पण्यानाम् आगमक्रयविक्रयक्षयव्ययसारासारादिविधिज्ञा[^३४८] **विचक्षणाः** ते[^३४९] भाण्डस्यागतस्य देशान्तरात्[^३५०] नीयमानस्य **वार्घं कुर्युः** । **ततो** **विंश**तिभागं राजा गृह्णीयात् । 
+Similarly there are men who are ‘*experts in all kinds of merchandise*,’
+*i.e*., who know all about the demand and supply, the good and bad
+qualities and such details regarding all commodities.
+
+When things are brought by merchants in boxes from other countries, the
+said experts fix their prices; and of this price the king shall take the
+twentieth part.
+
+“What is the use of the valuation? It would be enough to say that the
+king shall receive the twentieth part of each commodity.”
+
+This would be all right in cases where the king realises his dues *in
+kind*. But in the case of such cloth-pieces as are used in the form in
+which they are sold, the twentieth part could not be taken without
+tearing each piece. Hence it is that valuation becomes necessary.
+
+In the case of unsaleable commodities, or of articles meant for personal
+use, there are no duties, hence the text adds the term ‘*yathā-paṇyam*,’
+‘*saleable commodities*.’
+
+The valuation has to be done in accordance with several considerations
+of time, place and other circumstances; for instance, all commodities do
+not sell at the same price at all times; so that the price of any
+article cannot be regarded as fixed for all time.—(398)
 
 
-[^३५०]:
-     M G: -āgatasyānyadeśāntarā; J: deśāntare
-
-
-[^३४९]:
-     M G: tair
-
-
-[^३४८]:
-     M G omit: kṣayavyaya, and read: -sārasādividhi-; DK (1: 1708; but not 4: 2330): āgamakṣayakrayasārāsārādividhijñā
-
-
-[^३४७]:
-     M G DK (1: 1708) add: ca
-
-
-[^३४६]:
-     M G: śauktikāḥ
-
-
-[^३४५]:
-     DK (1: 1708; but no 4: 2330) add: ca
-
-
-[^३४४]:
-     M G add: ca
-
-- span style="text-decoration-underline;">किं पुनर्</u> अर्घकरणेन । एतावद् एव वक्तव्यं पण्यानां विंश्तिभागम् इति । 
-
-<u>सत्यम्,</u> यदा स्वरूपेण द्रव्यं राजा[^३५१] गृह्णाति । स्वरूपकान्य् उपयुज्यन्ते[^३५२] शाटकादीनि[^३५३] । तत्र विंशतिभागः प्राग् विंशतेर्<sup> </sup>[^३५४] न पाटनम् अन्तरेणोपपद्यत इत्य् एवमर्थम् अर्घकरणम् । अविक्रेयाणाम् आत्मोपयोगिनां नास्ति शुल्क इति ज्ञापितुं यथापण्यम् । एवं कालानुरूप्येण । न सर्वपण्यं सर्वदा विक्रियत एकरूपेणार्घेण । अतो देशकालापेक्षया पण्यानाम् अर्घव्यवस्था, न नियतो ऽर्घ इति ॥ ८.३९८ ॥

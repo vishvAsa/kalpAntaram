@@ -2,25 +2,20 @@
 title = "212 धर्मार्थं येन"
 
 +++
+‘*Kartāhametat karmeti*’—(Medhātithi, p. 1009, l. 5).—The text of Nārada
+(4.10-11) is—‘*Kartāhametat karmeti pratilābhecchayā ca yat Apātre
+pātramityukte kārye vā dharmasaṃhite Yaddattam syādavijñānādadattam
+tadapi smṛtam*.’
 
-यः कश्चिद् आह "सान्तानिको ऽहम्, यियक्षुर् वा, देहि मे किंचित्" इति । तस्मै यदि **दत्तं** भवेत्, स च न यजेत न विवाहकर्मणि प्रवर्तेत । तद्धनं द्यूतेन वेश्याभिर् वा क्षपयेद् अन्यत्र वा विनियुञ्जीत वृद्धिलाभकृष्यादौ, न देयं तस्य । तद्दत्तस्य दानप्रतिषेधो नोपपद्यते । अतः प्रत्याहरणीयम् इति वाक्यार्थः । अथ वा दत्तान्तो[^४२] गौणो व्याख्येयः- दत्तं प्रतिश्रुतं न देयम् । तथा च गौतमः- "प्रतिश्रुत्याप्य् अधर्मसंयुक्ताय न दद्यात्" (ग्ध् ५.२३) । किं पुनर् अत्र युक्तम् । उभयम्[^४३] इत्य् आह- दत्तस्य प्रत्याहरणं प्रतिश्रुतस्य वादानम् । तथा च स्मृत्यन्तर उभयं पठितम् । आह हि नारदः- "कर्ताहम् एतत् कर्म" इति उपक्रम्य " यद् दत्तं स्याद् अविज्ञानाद् अदत्तं तद् अपि स्मृतम्" (न्स्म् ४.९–१०) इति । प्रयोजनविशेषोद्देशेन यद् दत्तं तस्मिन्न् अनिर्वर्त्यमाने[^४४] व्यवस्थितम्[^४५] अपि प्रतिग्रहीतुर् गृहाद् आहर्तव्यम् । दानस्योपक्रममात्रं तदानीं समर्पणं समाप्तिस् तु निर्वृत्ते प्रयोजनेति[^४६] नारदस्य मतम् ॥ ८.२१२ ॥
+This verse is quoted in *Vivādaratnākara* (p. 137), which explains the
+meaning to be—‘If the man begs money for the performance of a pious act,
+but having got it, he does not do the act, then the gift should be
+recovered from him.’
 
-
-[^४६]:
-     M G: nirvartaprayojaneti; J: nirvṛttaprayojaneti
-
-
-[^४५]:
-     M G: svavasthitam
-
-
-[^४४]:
-     M G DK: anivartyamāne
-
-
-[^४३]:
-     M G: upāyam
+It is quoted in *Smṛtitattva* (II, p. 348), to the effect that when
+money has been given to a Brāhmaṇa who has begged it for the purpose of
+performing a sacrifice or some such act,—but he does not do such an
+act,—then the money is to be taken back from him;—and in
+*Kṛtyakalpataru* (94a).
 
 
-[^४२]:
-     M G DK (1: 795): naṣṭānto; DK in parentheses: (naḥ ktāntaḥ)

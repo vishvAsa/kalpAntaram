@@ -2,17 +2,13 @@
 title = "382 वैश्यश् चेत्"
 
 +++
+It has been said above (in 376) that in the case of approaching an
+unprotected Brāhmaṇa woman, the Vaiśya ‘should be committed with five
+hundred and the Kṣatriya with one thousand.’ So in the present case also
+the fine for the *Vaisḥya* would be five hundred.
 
-**अगुप्ताया** **ब्राह्मण्यां**[^२९६] गमने "वैश्यं[^२९७] पञ्चशतं कुर्यात् क्षत्रियं सहस्रिणम्" (म्ध् ८.३७६) इति । तत्र वैश्यस्य पञ्चशतः[^२९८] । य एव परिपालयति स एव चेन् नाश्यति युक्तं तस्य दण्डमहत्त्वम् ॥ ८.३८२ ॥
-
-
-[^२९८]:
-     J: pañcaśataṃ
-
-
-[^२९७]:
-     M G: vaiśyaḥ
+The heavier punishment for the *Kṣatriya* is justified on the ground
+that being entrusted with the task of protecting the people, if he takes
+to offending against them, he incurs a great sin.—(382)
 
 
-[^२९६]:
-     M G J: brāhmaṇyā

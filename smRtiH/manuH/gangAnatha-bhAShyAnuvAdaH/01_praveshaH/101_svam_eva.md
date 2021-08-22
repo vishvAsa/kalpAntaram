@@ -2,13 +2,17 @@
 title = "101 स्वम् एव"
 
 +++
-
-यत् परगृह आतिथ्यादिरूपेण **भुङ्क्ते** तद् आत्मीयम् एव । नैवं मन्तव्यं परपाकेनेति । **स्वं वस्ते** । याचित्वायाचित्वा वा वस्त्रं लभते नासौ तस्य लाभाय, अपि तु स्वकस्याच्छादने[^१४८] विनियोगः । तिष्ठतु तावद् आत्मोपयोगि यद्[^१४९] गृह्णाति तत्र प्रभूतम्, यद् अन्येभ्यो ददाति परकीयम् तद् अपि तस्य नानुचितम् । **आनृशंस्यं** कारुण्यम् । तदीयया महासत्त्वतया पृथिव्यां राजानः स्वानि धनान्य् उपयुञ्जते । अन्यथा यद्य् असाव् इच्छेत् "अहम् एतद् आदाय स्वकार्ये विनियुञ्जीय" इति, तदा सर्वे निर्धनाः निरुपयोगाः स्युः ॥ १.१०१ ॥
-
-
-[^१४९]:
-     M G 1st ed. omit: yad
-
-
-[^१४८]:
-     M G: svakṛtyācchādane
+What the Brāhmaṇa eats as a guest in the house of others is really his
+own; it should not be thought that he is receiving food from another
+person’s kitchen.—Similarly ‘*what he wears is his own*’;—*i.e*., when
+he obtains clothing, either by begging or otherwise, it does not mean
+that he has acquired it from others; what it means is that he is
+employing what is *his own* in the covering of his body.—What he obtains
+for his own use, in that he may lie exercising his own right of
+possession; hut when he gives away to people what belongs to others,
+this also is nothing wrong for him; it is only his *good will*,
+benevolence. It is by reason of the large-heartedness of the Brāhmaṇa
+that Kings on earth enjoy their possessions; otherwise, if the Brāhmaṇa
+were to wish—‘I should take all this and apply it to my own use,’—then
+all others would become penniless, having nothing that they could use
+for their own benefit.—(101)

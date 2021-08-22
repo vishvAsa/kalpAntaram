@@ -2,12 +2,8 @@
 title = "132 जालान्तरगते भानौ"
 
 +++
+**(verses 8.131-137)  
+**
 
-इमं श्लोकं केचिन् नाधीयते, त्रसरेणौ विप्रतिपत्त्यभावात्[^१६४] । गवाक्षकुचिकाविवरप्रविष्टे सूर्ये यो रेणुर् दृश्यते स त्रसरेणुः । **अन्तर**शब्दो विवरपर्यायः । **प्रथमं तत्प्रमाणानाम्** इति ॥ ८.१३२ ॥
-
-
-[^१६४]:
-     M G DK (1: 528): vipratipattyā tāvad
-
-
-
+See Comparative notes for [Verse
+8.131](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201046.html#comparative-notes "English translation of verse").

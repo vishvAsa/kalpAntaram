@@ -2,5 +2,12 @@
 title = "407 गर्भिणी तु"
 
 +++
+*Nārada* (18.38).—‘The Brāhmaṇa has the right to cross rivers without
+paying toll, and to be conveyed to the other side before others. When
+engaged in trading, if he uses a ferry boat, he shall have to pay no
+toll.’
 
-द्वाभ्यां मासाभ्याम् ऋतुदर्शनस्य व्यक्तगर्भा स्त्री भवति । तस्या अनुग्राह्यत्वात् तरपणो न ग्राह्यः । **प्रव्रजितश्** चतुर्थाश्रमी । **मुनिस्** तापसः । **ब्राह्मणा लिङ्गिनो** ब्रह्मचारिणः । ब्राह्मणग्रहणं विशेषणम् । तेन बाह्यप्रव्रज्यालिङ्गधरिणां नैष विधिः । तरप्रयोजनं **तारिकं** पणादि तरनिमित्तं न दाप्याः । वृत्तानुरोधात् **तारिकम्** इति सिद्धे **तर**ग्रहणम् ॥ ८.४०७ ॥
+*Viṣṇu* (5.132-133).—‘A ferry-man, or a toll-official, who takes a fare
+or toll from a student or an ascetic or a renunciate, or a pregnant
+woman, or one going on pilgrimage,—shall he fined 10 Paṇas,—and he shall
+restore the toll to them.’

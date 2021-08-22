@@ -2,5 +2,15 @@
 title = "370 या तु"
 
 +++
+If a woman destroys the virginity of a maiden, she shall have her head
+shaven off; or undergo amputation of her fingers.
 
-स्त्रियां कन्यानां कन्यालिङ्गं नाशयन्त्यां **मौण्ड्यं** केशवपनं दण्डः, अङ्गुलिच्छेदो वा । **खरेणोद्वहनं** केशच्छेदपक्षे । कन्याजात्यादिभेदान् निग्राह्यभेदात् त्रैवर्णिकस्त्रीणां ब्राह्मणादिक्रमेणेमं दण्डम् इच्छन्ति मुद्राश् च कल्पयन्ति । ते प्रमाणाभावाद् उपेक्षणीयाः ॥ ८.३७० ॥
+‘*Being carried by a donkey*’—in the case of shaving. Some people hold
+that the different penalties are laid down in view of the caste of the
+girl, and the caste of the polluter;—the three penalties applying to the
+three castes Brāhmaṇa and the rest:
+
+But there being no authority for such a view, it should be
+ignored.—(370)
+
+

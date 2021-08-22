@@ -2,45 +2,37 @@
 title = "030 प्रणष्ट-स्वामिकं रिक्थम्"
 
 +++
+*Gautama* (10.36-38).—‘Those who find lost, property, the owner of which
+is not known, shall report it to the King. The King shall cause it to be
+proclaimed and hold it in his custody for a year. After that one-fourth
+of the value of the property goes to the finder and the remainder to the
+King.’
 
-यद् द्रव्यं स्वामिनो **नष्टं** प्रमादात् कथंचित् पथि गच्छतो भ्रष्टम्, अरण्ये कान्तारे वा स्थापयित्वारण्यपालैर् अन्यैर् वा राजपुरुषैर् लब्धं राजसकाशम् आनीतम्, तद् राज्ञा[^१२३] रक्षां कृत्वा राजद्वारे राजमार्गे वा प्रकाशं स्थापयितव्यम् । पटहघोषणेन वा कस्य किं हारितम् इति प्रकाशयितव्यम् । यतः प्रदेशाल् लब्धं तस्मिन्न् एव प्रदेशे रक्षिपुरुषाधिष्ठितं कर्तव्यम् । एवं **त्रीणि** वर्षाणि स्थापयितव्यम् । तत्र्**आर्वाक्** **त्रिभ्यो** वर्षेभ्यो यः कारणत आत्मीयं ज्ञापयेत् तस्योद्धृतवक्ष्यमाणषड्भागादिभागकं समर्पयितव्यम्, परतः स्वकोष्ठे प्रवेशनीयाम् इति ।
+*Vaśiṣṭha* (16.19-20).—‘Property entirely given up goes to the King. If
+it be otherwise, the King with his ministers and the citizens shall
+administer it.’
 
+*Yājñavalkya* (2.33).—‘The property lost and found, the King shall make
+over to him to whom it belongs; if he fails to substantiate with proofs
+his claim to it, he shall he punished with fine equal to the value of
+the property.’
 
-[^१२३]:
-     M G DK (1: 1953) add: svāṃ
+Do. (2.172).—‘If a man obtains from another person the property that had
+been stolen or lost,—without reporting it to the King—he should he fined
+96 *Paṇas*.’
 
-- प्रनष्टः स्वामी यस्य रिक्थस्य तत् **प्रनष्टस्वामिकम् ।** **प्रनष्टो** ऽविज्ञातः । **रिक्थं** धनम् । त्रयाणाम् अब्दानां समाहारस् **त्र्यब्दम् ।** त्रिवर्षवत् त्र्यब्दे ङीबभावः । अब्दशब्दः संवत्सरपर्यायः । **निधापयेत्** स्थापयेत् । **अर्वाक् त्र्यब्दात्** पूर्वं त्रिभ्यो वर्षेभ्यः, **हरेत् स्वामी** स्वीकुर्यात् । **अर्वाक्**शब्दो ऽवधौ दिग्देशादिकात् पूर्वम्[^१२४] आह ।
+*Yājñavalkya* (2.173).—‘When a stolen or lost property is brought to the
+King by the customs-officers or by village-officers, the owner thereof
+shall get it if he turns up before one year; after that the King shall
+take it himself.’
 
+*Agnipurāṇa* (Rājadharma, 222.16-17).—(Same as Manu.)
 
-[^१२४]:
-     M G DK: digdeśādikān pūrvān
-
-- span style="text-decoration-underline;">अन्ये</u> तु **नृपतिर् हरेद्** इति भोगानुज्ञानम् अपहारम् आहुः । न हि ऊर्ध्वम् अपि त्रिभ्यो वर्षेभ्यः परकीयस्य द्रव्यसापहारो युक्तः । तस्मात् त्रिभ्यो वर्षेभ्य ऊर्ध्वम् अनागच्छति स्वामिनि राज्ञा[^१२५] भोक्तव्यम् । 
-
-
-[^१२५]:
-     J: rājñā svāmini 
-
-- span style="text-decoration-underline;">तैर्</u>[^१२६] अयं श्लोकः कथं व्याख्यानीयः- "यत् किंचिद् दशवर्षाणि" (म्ध् ८.१४७) इति । यदि च परकीयस्यापहारो न युक्त इत्य् उच्यते भोगो ऽपि नैव युक्तः । परकीयं[^१२७] वस्त्रादिवद् भुज्यमानं नश्यत्य् एव । तत्रानपहारोपचारो युक्तः, भुक्तेर्[^१२८] एवापहारफलस्य सद्भावात् । गजतुरगादेस्[^१२९] तु कीदृशो भोग इति वाच्यम् । तस्मान् न यथाश्रुतार्थत्यागे कारणम् अस्ति । हरतिश् च गृह्णात्यर्थे असकृद् दृष्टप्रयोग **ऋक्थं हरेद्** इत्यादौ । तस्त्मात् **परेण नृपतिर् हरेत्** स्वीकुर्याद् इत्य् अयम् एवार्थः ॥ ८.३० ॥
-
-
-[^१२९]:
-     M G: japamudrādes
-
-
-[^१२८]:
-     M G DK: tatrānapahāravācoyuktir evāpahāraphalasya
-
-
-[^१२७]:
-     M G: parakīyasya
-
-
-[^१२६]:
-     M G: tad
-
-_कथं पुनः स्वामी प्रनष्टे धने स्वामित्वं ज्ञापयेत् । अत_[^१३०] _आह_ ।
-
-
-[^१३०]:
-     M G DK: jñāpayitum alam
+*Arthaśāstra* (p. 96).—‘If the owner of the lost property proves his
+ownership, he obtains what had been lost and recovered. If he fails to
+prove his ownership, he is fined the fifth part of the value of the
+article: and the article becomes the lawful property of the King; if the
+owner takes forcible possession of the article lost and found, he is to
+he fined the first amercement. Property lost and found should remain
+deposited in the Customs Office; and after three fortnights, it is to he
+handed over to the rightful owner or surrendered to the royal treasury.’

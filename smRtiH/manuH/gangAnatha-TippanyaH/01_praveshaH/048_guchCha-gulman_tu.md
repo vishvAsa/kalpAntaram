@@ -2,5 +2,11 @@
 title = "048 गुच्छ-गुल्मन् तु"
 
 +++
-
-याः संहता भूमेर् बद्धा एकमूला अनेकमूलाश् च लता उत्तिष्ठन्ति न च वृद्धिं महतीं प्राप्नुवन्ति तासां संघातो **गुच्छगुल्म**शब्दवाच्यः तृणमूलकादिः । तयोस् तु भेदः पुष्पवद् अपुष्पकृतो वा । अन्या वा **तृणजातयः** कुशशाद्वलशङ्खपुष्पीप्रभृतयः । **प्रताना** दीर्घा भूमिगतास् तृणप्ररोहाः । **वल्ल्यो** व्रतत्यः भूमेर् उत्पत्य वृक्षम् अन्यं वा कंचित् परिवेष्ट्योर्ध्वम् आरुहन्ति । सर्वम् एतत् वृक्षवत् **बीजकाण्डरुहम्** ॥ १.४८ ॥
+Burnell represents Medhātithi to explain ‘*guccha-gulma*’ as ‘one root
+and many roots’. This is not fair. What Medhātithi says is that the
+names ‘*guccha-gulma*’ are applied to clusters of short-growing creepers
+which may have one root or several roots.’ Kullūka defines ‘*guccha*’ as
+the single shoot springing from the root and having no boughs, and
+‘*gulma*’ as a clump of shoots coming up from one root According to
+Medhātithi the difference between the two consists in the fact that
+while the former has flowers, the latter has none.

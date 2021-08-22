@@ -2,5 +2,20 @@
 title = "108 यस्य दृश्येत"
 
 +++
+*Yājñavalkya* (2.113).—‘If a man suffers no calamity, arising either
+from the King or from some supernatural force, within fourteen days (of
+his deposition), he should undoubtedly be regarded as pure (honest).’
 
-**सप्ताहाद्** इति पञ्चमीदर्शनाद् अर्वाग् इत्य् अध्याह्रियते । सप्तानां दिवसानाम् अन्यतमस्मिन्न् अहनि **यस्य** **साक्षिणो** **रोगा**दि दृश्यते स मृषावादी दैवेन विभावितः पूर्वोक्तेन विधिना दापयितव्यः । **रोगो** ऽत्यन्तपीडाकरः, **अग्निर्** गोवाहनदहनः, पुत्रदारादिप्रत्यासन्न**ज्ञातिमरणम्,** तस्य कूटसाक्षित्वे लिङ्गम् ॥ ८.१०८ ॥
+*Nārada* (Aparārka, p. 715).—‘If the man suffers some calamity after the
+lapse of two weeks, he shall not be accused on that account (of
+dishonesty).’
+
+*Viṣṇu* (14.4-5).—‘He to whom any calamity happens within a fortnight or
+three weeks—such as an illness, or fine, or death of a relative, or a
+heavy visitation by the King,—should be known to be
+dishonest,—otherwise, he should be known as honest.’
+
+*Pitāmaha* (Aparārka, p. 715).—‘If within three days, or seven days, or
+two weeks, some calamity befalls the man, he should be regarded as a
+sinner. If he alone, and none other, should suffer from illness, or
+death of a relative, or fine, this would be an indication of his sin.’

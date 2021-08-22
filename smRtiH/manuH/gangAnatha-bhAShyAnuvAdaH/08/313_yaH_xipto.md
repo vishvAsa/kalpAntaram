@@ -2,13 +2,26 @@
 title = "313 यः क्षिप्तो"
 
 +++
+‘*Men in distress*,’—*i.e*., the man who is punished, or his relations.
 
-**आर्तैर्** दण्ड्यमनतत्संबन्धिभिर् अधि**क्षिप्त** आक्रुष्टो यन् **मर्षयति** न क्रुध्यति **तेन** क्षमणेन **स्वर्गे महीयते** । कण्ड्वादित्वाद् यः[^८] । महत्त्वं प्राप्नोति स्वर्गे । अकोपेन तर्हि क्षमा कर्तव्या । अकामिनो यथाकामी अत आह । यत् तु[^९] प्रभुर् अहम् इत्य् अभिमानेन न सहते **तेन** **नरकं** प्राप्नोति । **आर्त**ग्रहणं बालवृद्धयोर् अपि प्रदर्शनार्थं पूर्वशेषत्वाद् अस्य ॥ ८.३१३ ॥
+‘*Abused*’—reproached.
+
+‘*Forgives*’—does not become angry.
+
+‘*By that act*’—by the act of forgiving.
+
+‘*Becomes exalted to heaven*’—the root ‘*maha*’ (in ‘*mahīyate*) belongs
+to the ‘*Kaṇḍvādi*’ group, hence the ‘*ya*’ in the middle of the word.
+The meaning is that ‘in heaven he gains an exalted position.’
+
+For this reason, without showing any anger, he shall forgive.
+
+If, however, under the influence of pride, thinking himself to be
+all-powerful, he does not condone the abuse, then, by that act he goes
+to hell.
+
+The term ‘*men in distress*’ includes *the young and the infirm* also;
+since the present verse is supplementary to the foregoing (where these
+latter have been mentioned).—(313)
 
 
-[^९]:
-     DK: svarge akopena | na tarhi kṣamā kartavyā akāminā ayathākāminā | ata āha yas tv iti |
-
-
-[^८]:
-     M G: kaṇvādir ayam; DK (1: 79): kaṇḍvādir ayam

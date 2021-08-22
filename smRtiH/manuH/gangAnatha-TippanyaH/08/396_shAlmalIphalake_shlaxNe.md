@@ -2,25 +2,27 @@
 title = "396 शाल्मलीफलके श्लक्ष्णे"
 
 +++
+This verse is quoted in *Aparārka* (p. 823), which adds the following
+notes:—The washerman shall not carry clothes tying them in
+cloth;—‘*navāsayet*,’ nor should he keep them in his house, or he should
+not allow them to be used by others on receiving cash-hire from them.
 
-**शाल्मली** नाम वृक्षस् तद्विकारे **फलके** । स हि प्रकृत्यैव शल्क्ष्णो[^३३६] भवति । न च वाससो ऽपि पातैर् अवयवा अस्य च्यवन्ते । ते हि च्युता वासः पाटयेयुः । न चायं जातिनियमो ऽदृष्टाय[^३३७] । तेनान्यद्[^३३८] अपि यत् काष्ठम् एवंस्वभावं तत्फलके न दोषः । **श्लक्ष्णे** ऽपरुषे च । **वासांस्य्** अन्यदीयान्य् अन्यदीयैर् **वासोभिर् न निर्हरेत्** । बद्ध्वोपरिवेष्ट्य तीर्थे प्रक्षालयितुं न नयेत् । बन्धनाद् वाससां विनाशो मा भूत् । अधिकं हि तानि पीडितानि भवन्ति । **न च वासयेत्** । अन्यदीयानि वासांस्य् अन्यस्मै न प्रयच्छेत्,[^३३९] मूल्येन[^३४०] वसनार्थं न दद्यात् । एतद् धि वासनम्- वस्ते ऽपरः, तं रजको वासयति । अश्रुतत्वाद् दण्डस्य प्रकृतमाषकयोजना कर्तव्या ॥ ८.३९६ ॥
+It is quoted in *Mitākṣarā* (2.238), which adds the following
+explanation:—The washerman shall wash clothes by rinsing them on a plank
+of cotton-wood, and not on stone; he shall not mix them up, *i.e*.,
+shall not exchange them among the diverse owners, says
+*Bālambhaṭṭī*,—nor shall he keep them in his house;—if he does any of
+these things, he should be punished.
+
+This verse is quoted in *Vivādaratnākara* (p. 313), which adds the
+following notes:—‘*Śālmale*,’ made of cotton-wood,—‘*ślakṣṇe*,’
+soft,—‘*nirṇijyāt*,’ should wash,—‘*nejakaḥ*,’ washerman,—‘*nacha
+vāsāṃsi vāsobhirnirharet*,’ he should not carry clothes tied up in other
+clothes, to the washing-place,—‘*na ca vāsayet*,’ he should not let the
+clothes of one person be worn by another. The meaning is that if he does
+not act up to these rules, he becomes liable to punishment.
+
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 311), as laying down
+rules for washermen.
 
 
-[^३४०]:
-     M G DK omit: mūlyena
-
-
-[^३३९]:
-     M G: anyasmai prayacchan
-
-
-[^३३८]:
-     M G: yenānyad
-
-
-[^३३७]:
-     M G: dṛṣṭo
-
-
-[^३३६]:
-     M G DK (1: 1709): dṛḍho

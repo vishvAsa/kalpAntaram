@@ -2,13 +2,14 @@
 title = "365 कन्याम् भजन्तीम्"
 
 +++
+‘*Samyatām*’—‘Kept away from amusements and guarded by chamberlains’
+\[not ‘relatives’ as stated by Buhler\] (Medhātithi);—‘bound’
+(Nārāyaṇa). Kullūka is misrepresented by Buhler: he says nothing about
+‘fettering’; he only says that she is to be kept in the house ‘with
+care’.
 
-जातिधनशीलविद्यानाम् अन्यतमेनापि पितृकुलाद् **उत्कृष्टं भजन्तीं** प्रवर्तितमैथुनां **न**[^२५४] **किंचिद्** दण्डयेत् । कन्यायाः स्वातन्त्र्याभावात् तद्रक्षाधिकृतानां पित्रादीनां दण्डे प्राप्ते प्रतिषेधः । **जघन्यं** जात्यादिभिर् हीनं **सेवमानां** मैथुनायोत्कलयन्तीं[^२५५] **संयतां** निवृत्तक्रीडाविहारा कञ्चुकिभिर् अधिष्ठितां पितृगृह एव **वासयेद्** यावन् निवृत्ताभिलाषा संजाता । अथ हीनजातीये निर्वृत्तप्रीतिविशेषा तदा आ अन्त्योच्छ्वासात् संयतैव तिष्ठेत् ॥ ८.३६५ ॥
+This verse is quoted in *Vivādaratnākara* (p. 404), which explains
+‘*Sāvamānām*’ as ‘winning him over to herself for the purposes of sexual
+intercourse’,—and ‘*samyatām*’ as ‘imprisoned.’
 
 
-[^२५५]:
-     DK (1: 1866): maithunāyānukūlayantīṃ
-
-
-[^२५४]:
-     M G omit: na

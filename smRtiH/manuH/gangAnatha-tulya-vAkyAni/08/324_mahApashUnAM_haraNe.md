@@ -2,10 +2,33 @@
 title = "324 महापशूनां हरणे"
 
 +++
+**(verses 8.324-325)  
+**
 
-**महापशवो** हस्त्यश्वादयः । तेषाम् **हरणे** कालकार्यापेक्षा दण्डप्रकॢप्तिः । 
+*Viṣṇu* (5.77-78).—‘He who has stolen a cow, or a horse, or a camel, or
+an elephant, shall have one hand, or one foot cut off;—he who has stolen
+a goat, or a sheep shall have one hand cut off.’
 
-- span style="text-decoration-underline;">ननु</u> च सर्वत्रैव कालाद्यपेक्षोक्ता । तथा च "कालदेशवयःशक्तीश् चिन्तयेद् दण्डकर्माणि" (य्ध् २.२७९) इति । 
+*Nārada* (Theft, 29).—‘On him who forcibly seizes large domestic
+animals—the highest fine shall be inflicted; the middlemost amercement
+on him who steals cattle of the middle size; and the smallest fine on
+him who steals small cattle.’
 
-<u>सत्यम्</u> । विज्ञाते दण्डस्वरूपे न्यूनाधिकभावो ऽनुबन्धाद्यपेक्षः । यथा वधविधौ ताडनमारणादिकल्पनापेक्ष्या । इहात्यन्तविलक्षणो दण्डः । तथा हि विंशतिपणो ऽपि खड्गः शत्रोर् उद्यतशस्त्रस्य संनिधौ यदि ह्रियते तेन कार्यातिशयेन तेन च कालेन मारणं दण्डः । अन्यदा द्विगुण एकादशगुणो वा । तथौषधम् अलभयत्वेन महाप्रयोजनं तदुपयोगवेलायां ह्रियते, लोल्यमानम् अपि क्वाथाद्यपेक्षं कालातिक्रमणेन महदातुरस्य दुःखं जनयतीति, तत्र महान् दण्डः । अन्यदा तु स्वल्प इति । न यत्रान्तराम् अन्तरेणेदृशं वैषम्यं लभ्यते । अन्यथा स एवैकः श्लोको दण्डविधौ पठितव्यः स्यात् । तस्माद् वक्तव्यम् इदम् । विग्रहकाले ऽश्वादीनां राज्यापेक्षो दण्डः । शस्त्राणां राजोपयोगिनां कदाचित् क्षमा कदाचिन् महान् दण्डः । गोमहीष्यादीनां तु प्रजासंबन्धिनां न राज्ञा क्षन्तव्य । कार्यं च यद् अश्वादिभिः कर्तव्यं तद् अप्य् अपेक्ष्यम्[^७४] । विग्रहो ऽ पि यदि पर्वतादौ भवति यत्र नातीवाश्वैः प्रयोजनं भवत्य् एव दण्डह्रासः[^७५] ।  
-**कालम् आसाद्य** ज्ञात्वा निरूप्य **दण्डं** **कल्पयेत्** । स एवात्र प्रभवति,[^७६] न[^७७] शास्त्रम् ॥ ८.३२४ ॥
+Do. (Do., 33).—‘For stealing cows belonging to a Brāhmaṇa, for piercing
+the nostrils of a barren cow, and for stealing a female slave, the thief
+shall, in every case, lose half his feet.’
+
+*Bṛhaspati* (22, 26).—‘One injuring or stealing cattle, clothes, food,
+drinks, or household utensils shall be compelled to pay a fine of not
+less than 200 *Paṇas*.’
+
+*Yājñavalkya* (2.273).—‘Stealers of horses and elephants shall be
+impaled.’
+
+*Vyāsa* (Aparārka, p. 845).—‘The stealer of horses is killed by having
+his hands, feet and loin cut off; the stealer of cattle has half of his
+feet cut off by a sharp weapon.’
+
+*Arthaśāstra* (p. 101).—‘For stealing large cattle, human beings,
+fields, houses, gold, fine doth, and such things, the fine shall be not
+less than 200 or more than 500 *Paṇas*, *i.e*., the middle amercement.’

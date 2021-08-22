@@ -2,5 +2,6 @@
 title = "244 एतद् विधानम्"
 
 +++
+This verse is easily intelligible.—(244)
 
-सुबोधो ऽयं श्लोकः ॥ ८.२४४ ॥
+

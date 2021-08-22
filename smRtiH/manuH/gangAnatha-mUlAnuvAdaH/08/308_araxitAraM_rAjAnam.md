@@ -3,4 +3,4 @@ title = "308 अरक्षितारं राजानम्"
 
 +++
 
-पूर्वस्य शेषो ऽयं निन्दार्थवादः । न रक्षति, **अत्ता** उपजीविता प्रजानां राजभागग्रहणेन । एतद् एव स्पष्टयति- **बलिषड्भागहारिणम्** । **तं** तादृशं राजानम् **आहुः** शिष्टाः **सर्वलोकस्य** सर्वस्याः प्रजायाः **समग्रं मलं** पापं तस्य **हारकं** स्वीकर्तारम् । सर्वेण प्रजापापेन दूष्यत इत्य् अर्थः ॥ ८.३०८ ॥
+He who affords no protection and devours the people, grabbing his tribute of the sixth part of the produce,—him they declare to be the imbiber of the filth of the whole people.—(308)

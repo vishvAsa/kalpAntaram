@@ -2,9 +2,23 @@
 title = "282 अवनिष्ठीवतो दर्पाद्"
 
 +++
+If he sprinkles urine on his superior, or passes urine in his presence,
+with a view to insult him,—then, even though the urine may not actually
+touch the man, yet, in as much as he insults his superior with
+‘urination,’ the penis shall he cut off.
 
-मूत्रेणावसिञ्चतो ऽभिमुखं वा तदवमानार्थं क्षिपतो ऽसत्य् अपि संस्पर्शे ऽवमानयते मूत्रेणेति निष्कर्तव्यः । समानफलत्वाद् एतस्यापि दण्डो ऽयम् । **निष्टीवनं** नासिकास्यश्रावः । तस्य[^२२९] घ्राणेन क्षेपे नासापुटच्छेदः, "येनाङ्गेन" (म्ध् ८.२७९) इत्य् उक्तत्वात् । **शर्धनं** कुत्सितो गुदशब्दः । **दर्पान्** न प्रमादात् ॥ ८.२८२ ॥
+This same rule applies to the case of *semen*; as the effect is the same
+in this ease also.
+
+‘Spitting’ consists in letting the fluid pass out of the nostrils or the
+mouth. Hence if it is done through the nostrils, it is the nostrils that
+have to be cut off; in accordance with what has been said (under 279)
+regarding the punishment to be inflicted upon that limb with which the
+offence has been committed.
+
+‘*Breaking wind*’—is making an improper sound with the anus.
+
+All this is to be punished, when done ‘*out of arrogance*’ and not when
+done by chance.—(282)
 
 
-[^२२९]:
-     M G: nāsikāsyaśrāvasya

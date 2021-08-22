@@ -2,13 +2,22 @@
 title = "058 अभियोक्ता न"
 
 +++
+*Nārada* (2.2).—‘Tho defendant, immediately after having become
+acquainted with the plaint, shall write down his answer, which must
+correspond to the tenour of the plaint; or, let him deliver his answer
+on the next day, or in three days, or in seven days.’
 
-**अभियोक्ता** अर्थी राज्ञान्तिकं कंचन[^२३४] पुरुषम् आहूय यदि व्यवहारपदं न कथयति, तदा निष्प्रयोजनाद् **बध्यो**[^२३५] **दण्ड्यश्** **च** । दण्डबन्धने दण्डपरिमाणे च गुणवत्तां प्रत्यर्थिन आह्वानेन च हानिम् अपेक्ष्य कल्पनीयानि । अतस् तदहर् एवार्थिना विवदितव्यम् । प्रत्यर्थी तु **न चेत् त्रिपक्षाद् ब्रूयाद्** इत्य् अर्थः — तदा नासौ दण्ड्यो बन्धयितव्यो वा । किं तर्हीयता कालेनोत्तरे सत्य् अपराजित एव । **धर्मं प्रति** । धर्मत एवायं पराजयो न छलम् इत्य् अर्थः । **त्रिपक्षाद्** इति पात्रादिषु द्रष्टव्यस् तेनेकाराभावः । अर्थतत्त्वम् अस्य लोकस्यास्माभिः प्राङ् निरूपितम् ॥ ८.५८ ॥
-
-
-[^२३५]:
-     J: bandhyo
-
-
-[^२३४]:
-     M G DK: ca
+*Bṛhaspati* (4.1-6).—‘When the plaint has been well-defined, a clear
+exposition given of what is claimed and what not, and the meaning of the
+plaint fully established, the judge shall cause the answer to be
+submitted by the defendant. If the defendant does not make an answer
+fully meeting the contents of the plaint, he shall be compelled to pay
+by gentle remonstrance and other methods;—kindly speeches constitute
+*gentle remonstrance*, intimidation is *pointing out danger*.’ *Force*
+consists of depriving one of his property, or striking or confining him.
+When a man makes no answer, even though all methods have been employed,
+he is defeated and liable to punishment after a week. When the defendant
+asks for time, through timidity or terror or failing memory, time shall
+be granted to him. He shall bo allowed time extending to one day, or
+three days, or five days, or seven days, or a fortnight, or a month, or
+three seasons, or a year, according to his circumstances.’

@@ -2,25 +2,9 @@
 title = "419 अहन्य् अहन्य्"
 
 +++
+*Viṣṇudharmottara* (Vīramitrodaya-Rājanīti, p. 154).—‘Towards the end of
+the night the King shall listen to an account of his income and
+expenditure.’
 
-राजधर्माणाम् अनुसंधानार्थम् । **कर्मान्ताः** कृषिशुल्कस्थानादयः[^४२२] । **वाहनम्**[^४२३] हस्त्यादि । **आयव्ययम्**[^४२४] इदम् अस्य प्रविष्टम्, इदं निर्यातम्, इत्य् एव[^४२५] सततं गवेषणीयम् । **आकराः** धातवः सुवर्णाद्युत्पादे भवन्ति भूमयः । **कोशः** द्रव्यनिचयस्थानम्[^४२६] ॥ ८.४१९ ॥
-
-
-[^४२६]:
-     M G DK: dravyaniścalasthānam
-
-
-[^४२५]:
-     DK: evaṃ
-
-
-[^४२४]:
-     DK (4: 949): āyavyayau (but not DK 1: 823)
-
-
-[^४२३]:
-     DK: vāhanāni
-
-
-[^४२२]:
-     M G: kṛṣiśulkasthānādapa; DK: kṛṣiśulkasthānāni (DK 4: 949 has the reading adopted)
+*Yājñavalkya* (1.325).—‘After having made arrangements for safety, he
+shall himself examine his income and expenditure.’

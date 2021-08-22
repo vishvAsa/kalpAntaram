@@ -2,17 +2,8 @@
 title = "383 सहस्रम् ब्राह्मणो"
 
 +++
+**(verses 8.382-385)  
+**
 
-
-[^२९९]:
-     J: śūdrāyā
-
-**गुप्ते** क्षत्रियावैश्ये गच्छन् **ब्राह्मणः सहस्रं** दण्ड्यः । प्रवासनाङ्कने स्थिते एव । शूद्रायां[^३००] गमने क्षत्रियवैश्ययोः **साहस्रो** दण्डः । सहस्रम् एव साहस्रम्, स्वार्थिको ऽण् । सहस्रं वा अस्यास्ति साहस्रो दण्डो ऽन्यपदार्थः[^३०१] । मत्वर्थीयो ऽण् ॥ ८.३८३ ॥
-
-
-[^३०१]:
-     M G J: sahasraṃ vā (J adds: yasmin) daṇḍo 'sti sāhasro daṇḍo 'tra padārthaḥ
-
-
-[^३००]:
-     J: śūdrāyā
+See Comparative notes for [Verse
+8.382](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201315.html#comparative-notes "English translation of verse").

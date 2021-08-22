@@ -2,13 +2,8 @@
 title = "300 पृष्ठतस् तु"
 
 +++
+**(verses 8.299-301)  
+**
 
-उक्तताडनदेशसाधनाभ्याम्[^२८४] अन्येन प्रकारेण घ्नन्न् अक्षादिषु लगुडादिभिर् वा चौरदण्डं[^२८५] प्राप्नोति । निन्दैषा । न त्व् अयम् एव दण्डः । यो ऽन्यत्र हिंसाया दण्डः सो ऽत्र भवतीत्य् उक्तं भवति ॥ ८.३०० ॥
-
-
-[^२८५]:
-     M G add: na
-
-
-[^२८४]:
-     M G DK: uktatāḍanasādhanābhyām
+See Comparative notes for [Verse
+8.299](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201232.html#comparative-notes "English translation of verse").

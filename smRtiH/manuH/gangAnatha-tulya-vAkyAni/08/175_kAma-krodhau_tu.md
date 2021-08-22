@@ -2,5 +2,8 @@
 title = "175 काम-क्रोधौ तु"
 
 +++
+**(verses 8.174-175)  
+**
 
-**सिन्धवो** नद्यो यथा **समुद्रम्** आश्रयन्ति, आश्रिताश् चानुरागिण्यस् तन्मय्यो वसन्ति, न ततो निवर्तन्ते, एवं कामक्रोधजयाद् राजानं प्रजाः समयोगक्षेमास् तन्मय्यः संपद्यन्ते ॥ ८.१७५ ॥
+See Comparative notes for [Verse
+8.174](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201096.html#comparative-notes "English translation of verse").

@@ -2,5 +2,12 @@
 title = "099 ब्राह्मणो जायमानो"
 
 +++
+The Brāhmaṇa comes to the top of the entire world; this ‘coming to the
+top’ indicates his supremacy.
 
-सर्वलोकस्योपरि भवति । श्रैष्ठ्यम् उपरिभावेनाह । **ईश्वरः सर्वभूतानाम्** इति प्रभुत्वम् । धर्माख्यस्य **कोशस्य गुप्तये** जायते । द्रव्यसंचयः **कोशः** । उपमानाद् धर्मसंचय उच्यते **कोश** इति ॥ १.९९ ॥
+‘*He is the Supreme Lord of all beings*’,— and this supremacy comes
+about for the ‘*purpose* *of guarding the treasure of
+Virtue*.’—‘*Treasure*’ means a collection of objects; hence through
+similarity, the collection of Virtues is called ‘treasure’ (99).
+
+

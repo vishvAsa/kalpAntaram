@@ -2,13 +2,25 @@
 title = "213 यदि संसाधयेत्"
 
 +++
+‘*Saṃsādhayet*’—‘If he tries to enforce the fulfilment of the promise by
+a complaint before the king’ (Medhātithi);—if he tries to obtain the
+money forcibly or refuses to refund it’ (Kullūka, Rāghavānanda and
+Govindarāja);—‘if he should withhold the repayment’ (Rāmacandra, who
+reads ‘*Sandhārayet*’);—‘if the man should really perform the act for
+which he had begged, then the man who had promised to pay, but did not
+pay, (or having paid, took it back), should be made to pay to him a
+*Suvarṇa*, by way of fine, for not fulfilling his promise’ (Nandana, who
+has been misrepresented by Hopkins).
 
-**संसाधनं** राजनिवेदनादिना ऋणवत् प्रतिश्रुतस्य मार्गणम्, स्वीकृतस्य प्रतियाच्यमानस्य राजनिवेदणम्- "अयं मह्यं दत्वा प्रतिजिहीर्षति" इति सिद्धस्य दृढीकरणं **संसाधनम्** एतत्[^४७] । **दर्पाल् लोभेनेति** कारणानुवादः । एवं कुर्वतो दण्डः **सुवर्णं स्यात् तस्य स्तेयस्य निष्कृतिर्** इति । चौरदण्डम् आशङ्कमानः[^४८] सुवर्णं विधत्ते । अचौरशङ्कया च दत्तं किल तेन तस्मै न स्वयं हृतं कथम् अयं चौरः स्याद् इति शङ्कां निवर्तयितुं स्तेयशब्दः प्रयुक्तः । सत्य् अपि चौरत्वे वाचनिकः सुवर्णदण्डो ऽन्यासु क्रियासु चौरवद् व्यवहर्तव्यः ॥ ८.२१३ ॥
+This verse is quoted in *Vivādaratnākara* (p. 137), which explains the
+meaning to be—‘if, through annoyance or greed, he should accomplish the
+purpose (*artham sādhayet*), then he should be fined by the king one
+*Suvarṇa*.’
+
+It is quoted also in *Aparārka* (p. 782), which adds the following
+explanation:—‘If on being asked to refund, the man, through annoyance or
+greed, does not refund the money, but complain before the king with a
+view to establish the fact that the gift should not be taken back,—then
+he should be forced to refund the money’;—and in *Kṛtyakalpataru* (94a).
 
 
-[^४८]:
-     M G: āśaṅkamānaṃ
-
-
-[^४७]:
-     M G J: etad etat

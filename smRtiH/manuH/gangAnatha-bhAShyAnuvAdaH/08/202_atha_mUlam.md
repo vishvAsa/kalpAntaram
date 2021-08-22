@@ -2,17 +2,25 @@
 title = "202 अथ मूलम्"
 
 +++
+It has been laid down that purchases shall be made from persons not
+suspected of dishonesty; hence where the seller is capable of being
+produced, the rule just quoted becomes applicable; but if the m in
+having sold the property goes away,—and ‘*the source*,’—the
+seller—cannot be produced by the man who bought from him the property
+that is now recognised by its real owner as his own,—then the purchaser
+has his character cleared by the fact that he made the purchase in the
+open market,—in the presence of a large number of men; and on that
+account he is let off without punishment.
 
-असंभाव्यपापात् तु पुरुषाद् इत्यादि न्यायतः क्रय उक्तः । स चेद् विक्रेत शक्य आहर्तुं तदा पूर्वोक्तो विधिः "स्वामी द्रव्यम्" (य्ध् २.१७४) इत्यादि । अथ स विक्रयी गतः, येन[^५] क्रीतं स्वामिना चिह्नीकृतं तेन च **मूलं** विक्रेता पुरुष आहर्तुं न शक्यते । **प्रकाशं** जनसमक्षं प्रसिद्धाया विक्रयभुवः क्रीतम् अत ईदृशेन क्रयेण शोधिते द्रव्ये शुद्धः क्रेता **अदण्ड्यो मुच्यते** । **धनं** तु नाष्टिकः[^६] स्वामी ज्ञापितस्वं वा लभते । नष्टम् अन्वेषते **नाष्टिकः** । नष्टम् अस्यास्तीत्य् एवं ठनि कृते प्रज्ञादित्वात् स्वार्थिको ऽण् कर्तव्यः । नष्टं प्रयोजनम् अस्येति वा । तेनायं संक्षेपः-[^७] प्रकाशक्रये तु दण्डो न स्याद् धननाशस् तु स्थित एव ॥ ८.२०२ ॥
+But the property is restored to the rightful owner, ‘*the person who had
+lost it*’ and then recognised it as his own.
+
+The term ‘*nāṣṭikaḥ*’ means *he who has lost*, derived from the
+participial noun ‘*naṣṭa*’ with the possessive affix ‘*ṭhan*’ and then
+the reflexive affix ‘*aṇ*’; or it may be explained as meaning ‘he who is
+seeking for his lost property.’
+
+The sense in brief is this:—In the case of a public sale, there is to be
+no punishment, but the loss of the price paid remains.—(202).
 
 
-[^७]:
-     M G: saṃkṣepataḥ and adds kraye
-
-
-[^६]:
-     M G: nāṣṭikaṃ
-
-
-[^५]:
-     M G: anyena; DK (1: 760): anena

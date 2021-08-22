@@ -2,25 +2,17 @@
 title = "419 अहन्य् अहन्य्"
 
 +++
+This verse shows the purpose of indicating all the duties of the king.
 
-राजधर्माणाम् अनुसंधानार्थम् । **कर्मान्ताः** कृषिशुल्कस्थानादयः[^४२२] । **वाहनम्**[^४२३] हस्त्यादि । **आयव्ययम्**[^४२४] इदम् अस्य प्रविष्टम्, इदं निर्यातम्, इत्य् एव[^४२५] सततं गवेषणीयम् । **आकराः** धातवः सुवर्णाद्युत्पादे भवन्ति भूमयः । **कोशः** द्रव्यनिचयस्थानम्[^४२६] ॥ ८.४१९ ॥
+‘*Business-centres*’—agricultural stations, customs-house and so forth.
 
+‘*Conveyances*’—elephants and the rest.
 
-[^४२६]:
-     M G DK: dravyaniścalasthānam
+‘*Income and expenditure*’—so much has come in, and so much has been
+spent. This should be looked into ‘*regularly*,’ constantly.
 
+‘*Mines*’—places whence gold and other minerals are brought out.
 
-[^४२५]:
-     DK: evaṃ
-
-
-[^४२४]:
-     DK (4: 949): āyavyayau (but not DK 1: 823)
+‘*Treasure*’—the place where money is deposited.—(419)
 
 
-[^४२३]:
-     DK: vāhanāni
-
-
-[^४२२]:
-     M G: kṛṣiśulkasthānādapa; DK: kṛṣiśulkasthānāni (DK 4: 949 has the reading adopted)

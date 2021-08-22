@@ -2,13 +2,14 @@
 title = "119 यथेदम् उक्तवाञ्"
 
 +++
+This address to the sages is for the purpose of attracting their
+attention.—(119)
 
-अवधानार्थः प्रतिबोधः ॥ १.११९ ॥
 
-**इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां **
 
-**प्रथमो ऽध्यायः**
+Thus in the Institutes of Law promulgated by Manu, in the compilation
+expounded by Bhṛgu, the first *Discourse*.
 
-**इति श्रीभट्टमेधातिथिविरचिते मनुभाष्ये **
+Also
 
-**प्रथमो ऽध्यायः**
+In the *Bhāṣya* by Bhatta Medhātithi.

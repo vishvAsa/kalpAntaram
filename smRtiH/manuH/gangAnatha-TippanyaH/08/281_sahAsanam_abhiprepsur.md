@@ -2,29 +2,15 @@
 title = "281 सहासनम् अभिप्रेप्सुर्"
 
 +++
-
-**उत्कृष्टो** ब्राह्मणो जातितो दौःशील्याद् अवकृष्टो ऽपि, इतरे वर्णा औत्तराधर्येण परस्परापक्षयोत्कृष्टाश् चावकृष्टाश् च । तत्रेह[^२२३] **अवकृष्टज** इति जनिना जन्मावकर्ष[^२२४] उपात्तः,[^२२५] तत्संनिधानाद् उत्कर्षो ऽपि जन्मनैव । जन्मना च निरपेक्षोत्कर्षो ब्राह्मणस्य नापकर्षः । तेन शूद्रस्यायं ब्राह्मणेन सहैकम् आसनम् आरूढवतो दण्डः । **कटिः** श्रोणी । तत्र कृतचिह्नः । अङ्कविधौ च सुधाकुंकुमादिना चिह्नकरणमात्रम्, अपि तु[^२२६] दण्डख्यापनार्थम्[^२२७] । अतिक्रमाद् विभियुर्[^२२८] इति । तेन देशान्तरे यद् अनपायि तच् चिह्नम् आयसो लेखनाद् उपदिश्यते । तथा च वक्ष्यति "उद्वेजनकरैर् दण्डैर् चिहनयित्वा" (म्ध् ८.३५२) इति । राष्ट्राच् च निष्कास्यः । **स्फिक्** श्रोण्येकदेशः । सव्यो दक्षिणश् च । तं **चावकर्तयेत्** चिह्नेन । विकल्पविधानात् तावन्मातरच्छेदो न सर्वस्य स्फिजः । **अभिप्रेप्सुर्** इति च नेच्छामात्रेण । किं तर्हि, प्राप्तवत एव । इच्छाया शक्यापह्नवत्वाद् दण्डस्य च महत्त्वात् ॥ ८.२८१ ॥
-
-
-[^२२८]:
-     M G: vibhidyur
-
-
-[^२२७]:
-     M G: daṇḍaḥ khyāpanārthaḥ
-
-
-[^२२६]:
-     M G DK: api ayaṃ tu
+This verse is quoted in *Aparārka*, (p. 814);—and in *Vivādaratnākara*
+(p. 268), which adds the following notes:—‘*Sahāsanamabhiprepsuḥ*’
+sitting on the same seat,—‘*abhiprepsu*’ (lit. *desirous of getting at*)
+standing here for actually *getting at* itself,—the man sitting upon the
+same seat with his superior should be ‘branded on his hip and
+banished—‘*utkṛṣṭa*,’ the Brāhmaṇa, ‘*apakṛṣṭaja*,’ the
+Śūdra,—‘*kṛtāṅkah*’, branded with red hot iron,—‘*spicha*,’ a part of
+the loin;—and in *Vivādacintāmaṇi* (Calcutta, p.75), which says that the
+‘branding’ is to be done with iron, and that ‘*spicha*’ is a part of the
+waist.
 
 
-[^२२५]:
-     M G: upāttaṃ
-
-
-[^२२४]:
-     M G: janma cotkarṣa
-
-
-[^२२३]:
-     J: tatra

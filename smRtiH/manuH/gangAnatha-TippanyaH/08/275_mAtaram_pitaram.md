@@ -2,19 +2,34 @@
 title = "275 मातरम् पितरम्"
 
 +++
+‘*Ākṣārayan*’—‘Defames, by causing dissension’ (Medhātithi),—‘accuses of
+a heinous crime’ (Govindarāja, Kullūka and Rāghavānanda),—‘accuses of
+incest’ (Nārāyaṇa),—‘makes them angry’ (Nandana).
 
-**आक्षारणं** भेदनं द्वेषजननम् अनृतेन । "एषा ते माता न स्नेहवती द्वितीये पुत्रे ऽत्यन्ततृष्णावती कनकमयम् अङ्गुलीयकं रहसि तस्मै दत्तवती" इत्य् एवमाद्य् उक्त्वा भेदयति । एवं पितापुत्रौ जायापती भ्रातॄन् गुरुशिष्यौ । **तनय**ग्रहणं द्वितीयसंबन्धिप्रदर्शनार्थम् । अन्यथा **मातरम्** इत्य् उक्ते मातरं पुत्राद् भिन्दतो[^२१६] दण्डः स्यान् न पुत्रं मातुः । यद्य् अपि भेदनम् उभयाधिष्ठानं तथापि यन्मुखेन क्रियते स एव भेदयितव्य इति व्यवहारः । तत्रासति **तनय**ग्रहणे प्रदर्शनार्थे यदैव मातरम् आह "नैष ते पुत्रो ऽभक्तो दुःशीलश् च" इत्येवमादिना मातरम् आक्षारयति तत्रैव स्यान् न तु[^२१७] पुत्रं यथा दर्शितम् । 
+This verse is quoted in *Mitākṣarā* (2.204), which (reading ‘*Śvaśuram*’
+for ‘*tanayam*’) adds that this refers to cases where the wife is
+*innocent* of what is said against her, and. where the mother and the
+rest are even *guilty* of what is alleged. *Bālambhaṭṭī* adds the
+following notes:—‘*Ākṣārayan*,’ defaming,—‘*adadat*,’ not leaving in
+favour of;—what *Mitākṣarā* says in regard to this rule answers the
+objection taken against it by Kullūka, that some explanation should be
+found for the same penalty being prescribed for insulting all the
+persons mentioned here;—Medhātithi, on the other hand, adopting the
+reading ‘*tanayam*,’ has explained ‘*ākṣārayan*’ as *causing dissension*
+among the persons mentioned.
+
+It is quoted in *Vīramitrodaya* (Vyavahāra, 149b), which explains
+‘*bhrātaram*’ as ‘elder brother,’ and adds that this refers to cases
+where the elders have done some mischief, and the wife has done nothing
+wrong;—in *Parāśaramādhava* (Vyavahāra, p. 295), which adds the same
+note as *Mitākṣarā*;—and in *Vyavahāramayūkha* (p. 99), which adds that
+the ‘brother meant here is the *elder* one, since he is mentioned along
+with the father and the rest,’ and adds that *Mitākṣarā* and other works
+have declared that this refers to the wife only when she is innocent,
+and to the mother and others even when they are guilty.
+
+It is quoted in *Vivādaratnākara* (p. 250), which reads ‘*tanayam*,’ and
+explains ‘*ākṣārayan*’ as ‘subjecting’ to insult—and in *Nṛsiṃhaprasāda*
+(Vyavahāra, 44b).
 
 
-[^२१७]:
-     M G DK omit: tu
-
-
-[^२१६]:
-     M G: bhidyato
-
-- span style="text-decoration-underline;">अन्ये तु</u> चित्तकदर्थनोत्पादनम् **आक्षारणम्** आहुः । "प्रवक्ष्यामि धनं श्रुतं वार्जयितुं तीर्थाद्य् उपसेवितुम्" तत्प्रवासशङ्कया च मानसी तृष्णया पीडा भवतीति, तथा न कर्तव्यम् । 
-
-यावद् **गुरवस्** ते जीवेयुस् तावन् नान्यं समाचरेन् न तैर् अननुज्ञात इति च । यत् तु विद्वेषणादिना चित्ते खेदोत्पादनं तत्र शता न मुच्यते, "प्रतिरोद्धा गुरोः" (म्ध् ३.१४३) इति महत्वाद् दोषस्य ।   
-
-**जायाया** अनुकूलायाः पुत्रवत्याः "करोत्य् अन्यं विवाहम्" इत्य् एतद् **आक्षारणम्** । एवं गुणवतः पुत्रस्याकारणे ऽन्यकरणम् । **गुरोः** सर्वप्रकारं **पन्थानम्** अत्यजतः शतं दण्डः ॥ ८.२७५ ॥

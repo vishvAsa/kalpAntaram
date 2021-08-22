@@ -2,13 +2,11 @@
 title = "420 एवं सर्वान्"
 
 +++
+In the aforesaid manner the king who completes all the ‘*business*’
+relating to the *Nonpayment of debts* and the rest,—*i.e*., carries them
+to their end,—removes all kinds of sin, and attains ‘*the highest
+state*’ secured by him, in the shape of Heaven and Liberation.—(420)
 
-उक्तेन प्रकारेण **व्यवहारान्** ऋणादीन् **समापयन्** निर्णयावसानं कुर्वन् यत् किंचित् तत् सर्वम् अविज्ञातदोषं तत् **सर्वं** **व्यपोह्य** अपनुद्य पापं **परमां गतिम्** अभिप्रेतां स्वर्गापवर्गभूमिं **प्राप्नोति** लभते ॥ ८.४२० ॥
+Thus ends the *Bhāṣya* on Discourse VIII.
 
-**इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां **
 
-**राजधर्मे व्यवहारनिर्णये सामान्यव्यवहारो नाम अष्टमो ऽध्यायः ॥**
-
-**इति श्रीभट्टवीरस्वामिसूनोर् भट्टमेधातिथिकृते**
-
-**मनुभाष्ये ऽष्टमो ऽध्यायः ॥**

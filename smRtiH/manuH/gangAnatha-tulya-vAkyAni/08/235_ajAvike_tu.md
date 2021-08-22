@@ -2,9 +2,11 @@
 title = "235 अजाविके तु"
 
 +++
+*Narada* (6.15).—‘If goats and sheep are surrounded by wolves, and the
+herdsman does not come to their assistance, he shall he responsible for
+any animal that the wolf attacks or kills.’
 
-अजा चाविका च **अजाविके** । अविर् एवाविकैडका । एते **वृकैः** शृगालप्रभृतिभिः **संरुद्धे** अवष्टब्धे, न[^१०४] प्रथमपात एव हते । अस्मिंश् चान्तरे सत्य् आमोक्षणे ऽहतत्वात्, न च पाल आयाति मोक्षयितुम्, **अनायत्य्** अनागच्छति **पाले** यत् तत्र **प्रसह्य** बलेनाभिभूय **वृको हन्यात्** पालस्य स दोषः । स्वामिनो दापयितव्यः । प्रायश्चित्तं चरेत् । गोर् महत्त्वाद् गोमायुना न शक्यते संरोद्धुम् इत्य् **अजाविके** इत्य् उच्यते, न पुनस् तद्रूपम् । अतश् च बालानां गोवत्सानाम् एष एव न्यायः ॥ ८.२३५ ॥
-
-
-[^१०४]:
-     M G omit: na
+*Viṣṇu* (5.137-138).—‘Cattle being attacked, during daytime, by wolves
+or other ferocious animals, and the keeper not going to repel the
+attack, the blame shall fall upon him; and he shall make good to the
+owner the value of the cattle that has perished.’

@@ -2,13 +2,9 @@
 title = "394 अन्धो जडः"
 
 +++
-
-**सप्तत्या स्थविरः** । प्रकृत्या विरूप इतिवत् तृतीया । सप्ततिर् वर्षाणि यस्य जातस्य स एवम् उच्यते । **श्रोत्रियेषु** वेदाध्यायिष्**ऊपकुर्वन्** पादशुश्रूषादिना कारुकर्मणा वा । एते **न केनचित्** "शिल्पिनो[^३३४] मासि मासि" (म्ध् ७.१३८) इत्यादि दाप्याः । क्षीणकोशेनापि न दाप्या[^३३५] इति **केनचिद्**ग्रहणम् ॥ ८.३९४ ॥
-
-
-[^३३५]:
-     M G: dātavyā
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 272), which adds
+the following notes:—‘*Pīṭhasarpī*’ is the
+*lame*;—‘*śrotriyeṣūpakurvan*,’ he who accords to learned Brāhmaṇas
+grain and monetary assistance.
 
 
-[^३३४]:
-     M G: karmavat kāruśilpino

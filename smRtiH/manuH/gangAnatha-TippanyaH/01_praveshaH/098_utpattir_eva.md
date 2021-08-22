@@ -2,9 +2,10 @@
 title = "098 उत्पत्तिर् एव"
 
 +++
+‘*Brahma*’—stands here for the Highest Spiritual Being; and not for the
+*Veda*, as Burnell understands it to mean, even after entertaining
+doubts on the matter. All the commentators agree in explaining the
+phrase ‘*brahmabhūyāya kalpate*’ as ‘becomes fit for being liberated—by
+being absorbed into Brahman, the Supreme Self.’
 
-**उत्पत्तिर् एव** गुणान् अपहाय जन्मैव, ब्राह्मणस्य जातिर् एव, **शाश्वती** **धर्मस्य मूर्तिः** शरीरम् । **धर्मार्थम् उत्पन्नो** द्वितीयेन जन्मनोपनयनेन संस्कृतः । सा हि तस्य धर्मार्थोत्पत्तिर् ब्रह्मत्वाय **कल्पते** संपद्यते । धर्मशरीरम् उज्झित्वा परानन्दभाग् भवतीति स्तुतिः[^१४७] ॥ १.९८ ॥
 
-
-[^१४७]:
-     M G: śrutiḥ

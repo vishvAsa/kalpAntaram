@@ -2,23 +2,22 @@
 title = "297 क्षुद्रकाणाम् पशूनाम्"
 
 +++
+This verse is quoted in *Mitākṣarā* (2.300), where *Bālambhaṭṭī* adds
+the following notes:—‘*Kṣūdra-paśu*’ are smaller animals,—these
+*smaller* ones being either in *age*, *e.g*., calves &c., or in
+*quality*, *e.g*., goats &c.; but it is the former that are meant here;
+so that for the killing of a young calf the fine would be 200; in the
+case of birds that are auspicious—in shape or in quality,—‘*mṛga*,’ the
+*ruru*, the *pṛṣata* and other species of the deer,—birds, such as the
+parrot, the swan and so forth,—the fine is 50.
 
-अपचितपरिमाणाः[^२७५] **क्षुद्रकाः** । ते च केचिद् वयस्तः[^२७६] वत्सकिशोरककलभादयः । केचिज् जातिस्वभावतो ऽजैडकादयः । तत्राजाविकानां पञ्च माषान् वक्ष्यति । परिशेषाणां गवादीनाम् एवायं दण्डो ऽल्पपरिमाणानाम् । **शुभा** मृगाः पृष्टादयः,[^२७७] आकारतो लक्षणतश् च । **पक्षिणो** हंसशुकसारिकादयः । अशुभाः ककोलूकशृगालादयः[^२७८] । **पशु**शब्दश् चतुष्पाज् जातिवचनः । 
+It is quoted in *Vivādaratnākara* (p. 283), which adds the following
+notes:—‘*Kṣudra*’ means *small*; and ‘smallness’ is of two kinds—due to
+age, as in the case of the elephant cub, and due to quality, as in the
+case of the goat and the like; the ‘*śubha mṛga*’ are the *Ruru*, the
+*Pṛṣata* and so forth; and ‘*śubha*’ birds are the parrot and the like.
+
+It is quoted in *Vyavahāramayūkha* (p. 109);—and in *Parāśaramādhava*
+(Vyavahāra, p. 291).
 
 
-[^२७८]:
-     M G: kakolūkaś ca śṛgālādayaḥ
-
-
-[^२७७]:
-     M G: mṛgāttapṛṣṭādayaḥ
-
-
-[^२७६]:
-     M G DK: vayasaḥ
-
-
-[^२७५]:
-     M G: apaṭhitaparimāṇāḥ
-
-हिंसामात्रेण दण्डम् इमम् इच्छन्ति । न प्रकृतयानविधिहेतुं ब्रुवते । "तत्र दण्डो विचारितः" (म्ध् ८.२९५) इत्य् अनेनैव यानप्रकरणं व्यवच्छिन्नम् । विचारितः समाप्तविचार इत्य् अर्थः । इदानीम् एतत्प्रकरणनिरपेक्षम्[^२७९] उच्यत इति । एवं तु "प्राणभृत्सु महत्स्व् अर्धम्" इति हस्तादिच्छेदो न मारणम्[^२८०] इत्य् अर्धशब्दो नेयः स्मृत्यन्तरात् ॥ ८.२९७ ॥

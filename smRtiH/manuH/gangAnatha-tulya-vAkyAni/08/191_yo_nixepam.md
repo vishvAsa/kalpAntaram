@@ -2,13 +2,7 @@
 title = "191 यो निक्षेपम्"
 
 +++
+**(verses 8.190-192)**
 
-निक्षिप्तम् अपह्नुवानस्य अनिक्षिप्तं[^६०८] याचमानस्य च[^६०९] दण्डो ऽयम् । यावति धने मिथ्या प्रवर्तते तावद् दण्ड्यते ॥ ८.१९१ ॥
-
-
-[^६०९]:
-     M G DK (1: 743) omit: ca
-
-
-[^६०८]:
-     M G: nikṣipta-
+See Comparative notes for [Verse
+8.190](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201113.html#comparative-notes "English translation of verse").

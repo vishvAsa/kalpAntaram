@@ -2,17 +2,13 @@
 title = "233 विघुष्य तु"
 
 +++
+*Nārada*.—(6.12, 16).—‘If a cow under the cowherd’s charge meets with am
+accident, he shall struggle to save her as best he may. If he is unable
+to rescue her, he shall hasten to announce the fact to his master. For
+an animal seized by robbers, though he raised a cry, the cowherd shall
+not be made to pay; provided he gives notice to his master at the proper
+time and place.’
 
-**विघुष्य** आघुष्य पटहान्[^१०१] **चौरैर् हृतं** पशुं[^१०२] **पालो न** दाप्यते । विघोषणं च पालस्याशक्त्युपलक्षणार्थम् । यदि बहवश् चोराः प्रसह्य च मुष्णन्ति तदा पालो मुच्यते । सो ऽपि यदि प्राप्तकालं तस्याम् एव वेलायां स्वामिनः कथयति । **देशे** यत्र स्वामी संनिहितः । कथं विज्ञातस् तत्र[^१०३] अथ वा निवासदेशे स्वामिनः । तत्र यद्य् असाव् असंनिहितो ऽपि भवति तथापि तत्स्थानीयो भवति, यो राजानम् अधिकारिणं वा ज्ञापयित्वा चौरान् अभिद्रवति । **स्वस्येति** राजनिवृत्त्यर्थम् । स्वो हि स्वामी स्वद्रव्यमोक्षणे यत्नं कुरुते न तथा पालज्ञापितो राजा । दुष्करा च राजज्ञपना पालस्य । अथ मुषित्वा गतेषु ज्ञापयेद् दुष्येद् एव ॥ ८.२३३ ॥
-
-
-[^१०३]:
-     DK: kathaṃcit jñātas tatra
-
-
-[^१०२]:
-     M G: paśuḥ
-
-
-[^१०१]:
-     M G: paṭahānyudghoṣaṇam; DK (1: 908): paṭahādyudghoṣaṇam
+*Vyāsa* (Vivādaratnākara, p. 172).—‘If a cattle perishes or is taken
+away, when the cowherd has been captured, or during an attack on the
+village, or during anarchy,—the cowherd shall not he held to blame.’

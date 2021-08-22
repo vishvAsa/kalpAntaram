@@ -2,5 +2,8 @@
 title = "346 साहसे वर्तमानम्"
 
 +++
+**(verses 8.345-347)  
+**
 
-अयम् अप्य् अर्थवादः । **साहसे** स्थितं पुरुषं **यो मर्षयति** । प्रकृत्यर्थे ऽयं णिच् । यो मृष्यति क्षमते, **स विनाशं** प्राप्नोति द्वेष्यतां च प्रजासु प्राप्नोति द्वेष्यैश् चाभिभूयते ॥ ८.३४६ ॥
+See Comparative notes for [Verse
+8.345](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201277.html#comparative-notes "English translation of verse").

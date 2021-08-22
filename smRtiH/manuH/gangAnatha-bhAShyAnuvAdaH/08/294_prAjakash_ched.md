@@ -2,18 +2,28 @@
 title = "294 प्राजकश् चेद्"
 
 +++
+**(verses 8.293-294)  
+**
 
-**प्राजको** यानसारथिस् तस्य **वैगुण्यम्** अशिक्षितत्वम्, न तु प्रमादः । प्रमादे हि शिक्षितस्य स्वामिनो न दोषः । तस्माद् धेतोर् यदि **युग्यं** यानं[^२५८] सहश्**आपवर्तते** स्पष्टं मार्गं हित्वा तिर्यक् पश्चाद् वा गच्छेद् गतं च[^२५९] किंचिन् नाशयेत् **तत्र स्वामी दण्ड्यः** । अशिक्षितः प्राजकः किम् इत्य् आरोपितः । "मनुष्यमारणे क्षिप्रम्" (म्ध् ८.२९६) इत्यादिवक्ष्यमाणेन प्राणिभेदेन द्रव्यभेदेन च दण्डान्तरविधानाद् **द्विशतम्** इत्य् अविवक्षितम्[^२६०] । दण्डनिमित्तम् एतद् इत्य् एतावतैव वाक्यस्यार्थत्वाद् उत्तरत्र न कश्चिद् अन्यो ऽर्थः श्रूयते येन वाक्यं तत्र संख्याविधयकम् इत्य् उच्यते ॥ ८.२९३–९४ ॥
+‘*Driver*’—the man who drives the cart; his ‘*ineptitude*’ consists in
+his being not trained. What is said here applies to the case where the
+accident is due to this, and not to want of care; for when the driver is
+a trained one, the punishment should fall on him, there being no fault
+on the part of the master.
 
+On account of the said ‘*ineptitude*,’ if the cart suddenly happens to
+‘*turn off,’—i.e*., giving up the right path, swerves off either
+sideways or backwards,—and should thereby cause some damage, the owner
+should he fined for having employed an untrained driver.
 
-[^२६०]:
-M G: iti vivakṣati; DK: (na?) vivakṣitam
+In view of what is going to be said regarding the case ‘when a man is
+killed’ (296), where diverse penalties are prescribed in accordance with
+the nature of the living being injured or article damaged,—significance
+cannot be attached to what is said in the present verse regarding the
+fine being ‘two hundred’; all that is meant by the declaration is that
+the case cited is one calling for punishment; specially as there is
+nothing else (apart from the specific cases mentioned below) to which
+the exact amount of fine here laid down may he taken as
+applicable.—(293-294)
 
-
-[^२५९]:
-M G gavāṃ ca; J omit: gataṃ ca
-
-
-[^२५८]:
-M G DK omit: yānaṃ
 

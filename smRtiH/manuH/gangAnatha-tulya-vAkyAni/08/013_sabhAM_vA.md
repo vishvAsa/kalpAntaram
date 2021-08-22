@@ -2,17 +2,15 @@
 title = "013 सभां वा"
 
 +++
+*Śukranīti* (4.5.53, 55).—‘The man who knows Dharma can speak, whether
+appointed or not appointed. Either one should not come to the Court, or
+should speak truthfully. That man is a sinner who keeps silent or utters
+falsehood.’
 
-अनेनार्थेन द्वयं विप्रतिषिध्यते । प्रतिपन्नाधिकारेण मिथ्यादर्शनं न कर्तव्यम् अन्येन च क्रियमाणं नोपेक्षणीयम् । तत्रोभयथा दोषः । **अब्रुवन्न्** अन्येन विपरीते ऽनुष्ठीयमाने तूष्णीम् आसीनो हस्तक्षेपेण वा शास्त्रन्यायविरुद्धं[^९१] ब्रुवन् **किल्बिषी** पापभाग् भवति । तेन नैषा प्रत्याशा कर्तव्या । द्वितीयः प्राड्विवाको मिथ्या पश्यति, स एव योज्यते[^९२], अहं तूष्णींभूत उदासीनः किम् इत्य् एनसा योक्ष्य इति । सभाप्रवेशनिषेधेन चात्र व्यवहारदर्शनाधिकारप्रतिपत्तिः प्रतिषिध्यते । **सभा वा न प्रवेष्टव्येति** । व्यवहारदर्शनाधिकारो न प्रतिपादनीय इत्य् अर्थः । प्रतिपन्नश् चेत् समञ्जसं वक्तव्यम् । अनेन त्व् अनधिकृतस्यापि यदृच्छया संनिहितस्य मिथ्यापश्यत्सु सभ्येषु विदुषस् तूणींभावं नेच्छन्ति । तथा च "नियुक्तो वानियुक्तो वा धर्मज्ञो वक्तुम् अर्हति" । अथ राजपुरुषपर्यनुयोग आशङ्क्यते किम् इत्य् अनधिकृतो ब्रवीति, ततश् च तत्प्रदेशाद् अपसर्तव्यम् । तद् इदम् उक्तम्- "दुर्बलहिंसायां चाविमोचने[^९३] शक्तश् चेत्" इति (ग्ध् २१.१९) ॥ ८.१३ ॥
+*Nārada* (3.10).—‘Either the judicial assembly must not be entered at
+all, or a fair opinion should be delivered. That man who stands mute or
+delivers an opinion contrary to justice, is a sinner.’
 
-
-[^९३]:
-M G J: ca vimocane
-
-
-[^९२]:
-M G DK: yojayati
-
-
-[^९१]:
-M G: śāstrānyāviruddhaṃ; DK (1: 34): śāstrājñāviruddhaṃ
+*Nārada* (3.14).—‘He who, having entered the Court, delivers a strange
+opinion, ignoring the true state of the case, resembles a blind man who,
+regardless, swallows fish together with the bones.’

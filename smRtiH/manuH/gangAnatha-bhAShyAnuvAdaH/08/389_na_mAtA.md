@@ -2,21 +2,25 @@
 title = "389 न माता"
 
 +++
+The mother does not deserve to be forsaken,—should net be cast off.
+‘Forsaking’ consists in turning her out of the house, if she has failed
+in her maternal duties; *i.e*., if she fails to do what she ought to do
+in return for what she receives at the bands of her son.
 
-**माता न त्यागम् अर्हति** । न त्याज्या । त्यागः स्वगृहान् निष्कासनां मातृवृत्तेः स्खलितायाः,[^३१४] उपकारस्योपक्रियायाम् उदितायाम् अकारणे । एवं पित्रादीनाम् अपि व्याख्येयम् । संबन्धसाहचर्यात्[^३१५] **स्त्री** भार्यैवाभिप्रेता । अपतितानाम् एषां त्यागो नास्ति । मातुस् तु "न माता पुत्रं प्रति पततीत्य् एके" इति शातातपः । भार्यायाश् चापि त्यागः असंभोगो[^३१६] गृहकार्यनिषेधः । भक्तवस्त्रादिदानं तु न निषिध्यते । "योषित्सु पतितास्व् अपि । वस्त्रान्नपानं[^३१७] देयं च वसेयुः स्वगृहान्तिके" (म्ध् ११.१८७) इति पठ्यते ॥ ८.३८९ ॥
+The same explanation applies to the case of the father and the rest
+also.
+
+The term ‘*strī*’ (woman) stands for the *wife*, as is clear from the
+fact that the text mentions only relatives.
+
+These should not be forsaken, unless they are outcasts. As regards the
+mother, Śātātapa has declared that ‘to the son the mother never becomes
+an outcast.’
+
+The ‘forsaking’ of the outcast, wife consists in giving up all
+intercourse with her and in forbidding her to do household work; but the
+giving of food and clothing is not forbidden; as it is declared
+that—‘food and clothing should be given to even outcast wives, and these
+should live near the house.’—(389)
 
 
-[^३१७]:
-     M G: vastrānnamānaṃ
-
-
-[^३१६]:
-     M G: saṃbhoge
-
-
-[^३१५]:
-     M G DK (1: 1627): saṃbandhe sāhacaryāt
-
-
-[^३१४]:
-     M G: saktāyā

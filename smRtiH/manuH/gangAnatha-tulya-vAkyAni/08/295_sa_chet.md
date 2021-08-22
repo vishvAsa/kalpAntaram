@@ -2,13 +2,13 @@
 title = "295 स चेत्"
 
 +++
+**(verses 8.295-298)**
 
-उक्तो हिंसायां दमः । तत्र विशेषं वक्तुम् इदम् आह । **स** प्राजकः **पथि संरुद्धो** ऽग्रजघनावसर्पिणा **संरुद्धो** निरुद्धगतिः पश्चात्स्थितेन असुशिक्षितत्वात् प्रमादाद् वा वेगेन धुर्याश् चोदिताः पुनः स्थिरयतश् चेन् निकटो रथस् तेन च तस्य वेगनिरोधे कृते यदि पुरोरथस्थावेगपातात् **पशुभी** रथयुक्तैर् अश्वादिभिः **रथेन** रथावयवैर् वा प्राणिनो मनुष्यादीन् मारयेत् ततो दण्डस्य विचारो नास्ति । स्थित एव दण्डः ।
+*Kātyāyana* (Vivādaratnākara, p. 284).—‘If any animal happen to be
+killed, the man should be made to pay a fine according to the character
+of the animal killed, and the value of the animal to its owner.’
 
-- अथ वा जवोत्पतिता अश्वाः पथि संरोधकसंमुखीनरथदर्शनेन बलाद् विधार्यमाणास् तिर्यग्गत्या गच्छेयुः पार्श्वकीयान्[^२६१] प्रत्यगवस्थितत्वात् तथा हन्युस् तत्र दण्डो विचारितो नास्ति, प्राजके दोषाभावात् ।
-
-
-[^२६१]:
-M G: pārśvakīyāḥ
-
-अथ वा पथि स्थितो[^२६२] वर्तमानः, संरुद्धो न विध्रियमाणः,[^२६३] विचारितो विशेषेण विहितो विशेषित इति यावत्[^२६४] ॥ ८.२९५ ॥
+*Viṣṇu* (5.50-54).—‘He who kills domestic animals shall pay a fine of
+100 *kārṣāpaṇaṣ*;—he shall make good their value to the owner; be who
+kills wild animals shall pay 500 *kārṣāpaṇas*; a killer of birds or
+fish, ten *kārṣāpaṇas*; a killer of insects, one *kārṣāpaṇa*.’

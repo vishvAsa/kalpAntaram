@@ -2,17 +2,20 @@
 title = "367 अभिषह्य तु"
 
 +++
+Even though the maiden may be willing, if her parents and other
+relatives are close hy, and their presence is not heeded by the man who,
+*through sheer audacity*, relying upon his force and having the idea
+‘who can do anything to me?’—and relying solely upon the maiden’s love
+for him—‘*defiles her*,’—the root ‘*kṛ*’ which has many meanings, stands
+here for the act *of defiling*, then ‘*his fingers should be clipped
+off*’;—or ‘*he should be fined six hundred*.’
 
-यद्य् अपि सकामा कन्या पित्रादयस्[^२५८] तु तस्याः संनिहितास् तान् अनिच्छतो **ऽभिषह्य** अभिभूय **दर्पेण** बलेन, "कः किं कर्तुं मे शक्तः", कन्यानुरागमाताश्रितः कन्यां **कुर्याद्** विकुर्याद् दूषयेत् । अनेकार्थः करोतिः । **तस्याशु कर्त्याः** छेत्तव्या अर्धाङ्गुलयः, षट्शतानि वा दण्ड्यः । 
+Others have held that this verse sums up what has been said (under 361)
+regarding the violating of an unwilling maiden, to be punished with
+‘death.’ ‘Killing’ in this connection stands for corporal
+punishment—beginning with beating and ending with actual killing; and
+what the present text means is that if a man defiles a maiden of a low
+caste, he shall not be *killed*.—he shall have only his fingers clipped
+off.
 
 
-[^२५८]:
-     M G: pitrā yas
-
-- span style="text-decoration-underline;">अन्ये तु</u> "यो ऽकामां दूषयेत्" (म्ध् ८.३६४) इत्य् अस्यैव वध्यर्थस्योपसंहारो[^२५९] ऽयम् ।
-
-
-[^२५९]:
-     DK: vadhārtha-
-
-ताडनात् प्रभृति मारणं यावद् वध्यर्थः[^२६०] । तत्रेमां निकृष्टजातीयां च दूषयन् न मार्यते, अपि त्व् अङ्गुली अस्य छिद्येत ॥ ८.३६७ ॥

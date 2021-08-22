@@ -3,4 +3,4 @@ title = "381 न ब्राह्मणवधाद्"
 
 +++
 
-पूर्वशेषो ऽयम् अर्थवादः । **न ब्राह्मणवधाद्** अन्यो बहुतरो **ऽधर्मो** दुःखफलो ऽस्ति । अन्यशब्दाध्याहारेण पञ्चमी । **तस्माद्** धेतोर् **अस्य** ब्राह्मणस्य **राजा** मारणम् अङ्गछेदं वा **मनसापि** नेच्छेत् ॥ ८.३८१ ॥
+There is no greater crime on earth than the slaying of a Brāhmaṇa; the king shall, therefore, not even think of his death in his mind.—(381)

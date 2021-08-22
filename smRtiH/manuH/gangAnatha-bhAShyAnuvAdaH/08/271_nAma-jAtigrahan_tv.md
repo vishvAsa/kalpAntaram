@@ -2,13 +2,25 @@
 title = "271 नाम-जातिग्रहन् त्व्"
 
 +++
+‘*Scorn*’—is *disrespect*, a feeling of disdain.
 
-**अभिद्रोह** आक्रोशः कुत्साबुद्धिः- "ब्राह्मणक, त्वं मा मया स्पर्धिष्टाः" । एवम् अन्यद् अपि योज्यम् । ग्रहणं **ग्रहः** । निरुपपदं नाम गृह्णाति कुत्साप्रत्यययोगेन वा- "देवदत्तक" इति । **अभिद्रोहेण** क्रोधेन, अभिद्रोहः क्रोधः गर्हा[^२०३] क्षेपः[^२०४] । न पणयेन । **निःक्षेप्यः** प्रक्षेप्यः । **शङ्कुः** कीलकः । **ज्वलन्न् अग्निना** दीप्यमानः, **अयोमयो** लोहमयः ॥ ८.२७१ ॥
+The words being in some such form as—‘O wretched Brāhmaṇa, do not touch
+me’; and so forth.
+
+Similarly with the *name* also.
+
+‘*Mention*’ means *uttering* the names without the proper honorific
+title, or accompanied by an affix signifying ‘disdain’—(‘Oh you
+Devadattaka’).
+
+Or ‘*abhidroha*’ may mean *anger*.
+
+‘*Should be thrust*’—thrown in.
+
+‘*Nail*’—wedge.
+
+‘*Burning*’—flaming with fire.
+
+‘*Iron*’—made of iron.—(271)
 
 
-[^२०४]:
-     J omits: garhā kṣepaḥ
-
-
-[^२०३]:
-     M G: garbhaḥ

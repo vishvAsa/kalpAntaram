@@ -3,4 +3,4 @@ title = "090 पशूनां रक्षणम्"
 
 +++
 
-**वनिक्पथः** वणिक्कर्मणा स्थलपथवारिपथादिना धनार्जनम् । उपयुज्यमानदेशान्तरीयद्रव्यसंनिधापनं यस्य राज्ञो विषये वसति । **कुसीदं** वृद्ध्या धनप्रयोगः ॥ १.९० ॥
+For the Vaiśya, tending of cattle, giving of gifts, sacrificing and studying; as also trade, money-lending and cultivating of land. (90).

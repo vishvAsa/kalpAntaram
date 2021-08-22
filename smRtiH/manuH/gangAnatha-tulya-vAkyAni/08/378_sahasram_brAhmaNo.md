@@ -2,17 +2,7 @@
 title = "378 सहस्रम् ब्राह्मणो"
 
 +++
+**(verses 8.374-378)**
 
-**गुप्ता** भ्रष्टशीलापि यदि केनचिद् रक्ष्यते पित्रा भ्रात्रा बन्धुभिर् वा तां हठाद् गच्छन् **सहस्रं ब्राह्मणो** दाप्यः । गुप्ता शीलवती चेत् प्रवासनाङ्कने ऽधिके[^२९०] । अथापि शीलवत्य् अपि गुप्तशब्देनोच्यते,[^२९१] तथापि सहस्रमात्राद् ब्राह्मणो मुच्यते[^२९२] । अङ्कनप्रवासने सर्वत्र मुखीक्रियेते परदाराभिमर्शे ॥ ८.३७८ ॥
-
-
-[^२९२]:
-     DK: na mucyeta
-
-
-[^२९१]:
-     DK: -śabdenocyeta
-
-
-[^२९०]:
-     M G: pravāsanāhvānenādhike; DK (1: 1858): cādhike
+See Comparative notes for [Verse
+8.374](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201307.html#comparative-notes "English translation of verse").

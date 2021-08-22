@@ -2,25 +2,23 @@
 title = "374 शूद्रो गुप्तम्"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Vyavahāra p. 378), to the
+effect that when a Śūdra has intercourse with an *unguarded* woman of a
+higher caste, his organ is to be cut off and all his property
+confiscated, and if he has recourse to a *guarded* woman of the higher
+caste, he shall suffer death and his entire property shall be
+confiscated.
+
+It is quoted in *Vivādaratnākara* (p. 395), which adds the following
+notes:—‘*Dvaijātam varṇam*’, a woman of the twice-born
+caste,—‘*āvasan*’, having recourse to,—‘*aguptaikāṅgasarvasvī*’ (which
+is its reading for ‘*aguptamaṅgasarvasvī*’), if the woman is one who is
+*not guarded*, the man shall be deprived of one limb and also of his
+entire property; and of his entire property as also of his entire body
+(if the woman is one who is *guarded*).
+
+It is quoted in *Mitākṣarā* (2.280), which has the same explanation as
+the one in para 1 above;—in *Vyavahāramayūkha* (p. 100), which also has
+the same explanation—and in *Vīramitrodaya* (Vyavahāra, 156a).
 
 
-[^२८०]:
-     M G DK (1: 1862): -sarvasvair
-
-**शूद्र** आ चाण्डालात्, **गुप्तं वर्णं द्वैजातं** द्विजातीनां स्त्रिय **आवसन्** मैथुनेन गच्छन् रक्षिता[^२८१] भर्त्रादिभिः स[^२८२] नियमेन दण्ड्यः । को दण्ड इति चेत्, **अगुप्तां** चेद् गच्छत्य् **अङ्गसर्वस्वी** **हीयते** । अङ्गं च सर्वस्वं तद्वान्[^२८३] । केन **हीयते** । प्रकृतत्वात् ताभ्याम् एव, अन्यस्यानिर्देशात्, विशेषस्यानुपादानात् । अपराध्य्[^२८४] एवाङ्गम् । **गुप्तं** चेद् गच्छति **सर्वेण हीयते** । नैकेनाङ्गेन यावच् छरीरेणापि । हान्युद्देशेनाङ्गच्छेदनसर्वस्वहरणमरणान्य् उपदिष्टानि भवन्ति । हानिर् अस्य कर्तव्येत्य् अर्थः । तथा च गौतमः- "आर्यस्त्र्यबिगमने लिङ्गोद्धारः सर्वस्वहरणं च । गुप्तां चेत्" (ग्ध् १२.२–३) ॥ ८.३७४ ॥
-
-
-[^२८४]:
-     M G DK: aparādhānantaram
-
-
-[^२८३]:
-     M G: tadvat
-
-
-[^२८२]:
-     M G: dva; J omit: sa
-
-
-[^२८१]:
-     J: rakṣitāṃ

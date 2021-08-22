@@ -2,5 +2,9 @@
 title = "403 तुलामानम् प्रतीमानम्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 301), which explains
+‘*pratimānam*’ as prices of stone and other materials stamped with a
+royal mark, which are used for determining the exact weight of gold;—and
+in *Vyavaharā-Bālambhaṭṭī* (p. 940).
 
-**तुला** प्रसिद्धा । **मानं** प्रस्थो द्रोण इत्यादि । **प्रतीमानं** सुवर्णादीनां परिच्छेदार्थं यत् क्रियते । सर्वतोभागे तत् **सुलक्षितं** राजचिह्नैर् अङ्कितं कार्यम् । स्वयं प्रत्यक्षेण परिच्छिद्य स्वमुद्रया । **परीक्षयेत् षट्सु षट्सु मासेषु पुनः** परीक्षां कारयेद् आप्तैर् अधिकारिभिर् यथा न विचालयन्ति केचित् ॥ ८.४०३ ॥
+

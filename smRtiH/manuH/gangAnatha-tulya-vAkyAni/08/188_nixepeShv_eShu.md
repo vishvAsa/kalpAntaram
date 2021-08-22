@@ -2,15 +2,16 @@
 title = "188 निक्षेपेष्व् एषु"
 
 +++
+*Nārada* (2.14, 15).—‘The same law applies in the case of *Yācita*,
+*Anvāhita*, and other forms of deposits, also in those of articles made
+over to artisans, as also *Nyāsa* and *Pratinyāsa* deposits; if a man
+takes charge of a wealthy boy, the law applicable in this case also is
+the same.’
 
+*Bṛhaspati* (12.15).—‘The same set of rules applies in the case of a
+bailment for delivery to a third party, a loan for use, an article made
+over to an artisan, a pledge and a person offering himself for
+protection.’
 
-
-**निक्षेपेषू**पचयमनेष्व् अनन्तरोक्तो **विधिः** "साक्ष्यभावे" (म्ध् ८.१८२) इत्यादिः परिसाधनार्थो[^६०४] विज्ञेयः । **समुद्रे** निक्षेपे ऽन्यद् अप्य् अस्मिन् भाण्डे द्रव्यम् अभून् नाशितं कृमिभिर् इत्यादिकं पर्यनुयोगं नाप्नुयान् निक्षेपधारी तत्र धारणकस्य । एवं मूषकादिनाशे द्रष्टव्यम् । यदि दारुमये भाण्डे वस्त्रादि स्थापितम् तीक्ष्णदशनैर् मूषकैर् दारु भित्वा भक्ष्येत न निक्षेपधारिणो दोषः । तत्रापि वासनपरिवेष्टितः स्थूलपोट्टलको मुद्रितो यदि निक्षिप्येत यत् तदीये दारुभाण्डे नैव माति[^६०५] तदा बहिर् मूषकादिभक्षिते ऽपि हि न दोषः । यदि चैतन् निक्षेप्तुर् ज्ञानं भवति, धारकेण परिभाषीतं न मम भाण्डम् अन्यद् अस्ति, चरित्रज्ञो वास्य निक्षेप्ता कदाचित् प्रत्यासन्नो भवति ॥ ८.१८७–८८ ॥
-
-
-[^६०५]:
-M G: mānti
-
-
-[^६०४]:
-M G: paramasādhanārtho
+*Yājñavalkya* (2.67).—‘The same law applies to the other forms of
+deposit- the *Yācita*, the *Anvāhita*, the *Nyāsa* and the *Nikṣepa*.’

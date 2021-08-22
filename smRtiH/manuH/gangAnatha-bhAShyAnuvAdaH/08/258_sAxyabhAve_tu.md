@@ -2,13 +2,14 @@
 title = "258 साक्ष्यभावे तु"
 
 +++
+Inhabitants of neighbouring villages should he questioned, and decision
+should be arrived at with the help of what they say.
 
-ग्रामसामन्ताः **सीमान्तवासिनः**[^१६७] प्रष्टव्याः । तेषां वचने निश्चयं कुर्यात् । **प्रयता** साक्षिधर्मेण नान्तरेण[^१६८] । **राजसंनिधाव्** इति श्लोकपूरणम् । न तु सामन्ताः स्वेच्छया राजवन् निश्चिन्वन्ति ॥ ८.२५८ ॥
+‘*Honest*,’—*i.e*., possessing the qualifications of the ‘witness’ as
+laid down in the texts.
+
+‘*In the presence of the king*’—This has been added for the purpose of
+filling up the metre; as neighbours never volunteer to decide disputes,
+in the manner of kings.—(258)
 
 
-[^१६८]:
-     J: śāstrāntareṇa
-
-
-[^१६७]:
-     M G: sīmāntaravāsinaḥ

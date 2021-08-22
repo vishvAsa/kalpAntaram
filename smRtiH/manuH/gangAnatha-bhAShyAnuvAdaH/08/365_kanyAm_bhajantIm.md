@@ -2,13 +2,24 @@
 title = "365 कन्याम् भजन्तीम्"
 
 +++
+If a maiden ‘*approaches*’—has sexual intercourse with—‘a *superior
+person*’—one whose caste, wealth, character, learning is superior to
+that of her father’s family,—she shall not be fined anything.
 
-जातिधनशीलविद्यानाम् अन्यतमेनापि पितृकुलाद् **उत्कृष्टं भजन्तीं** प्रवर्तितमैथुनां **न**[^२५४] **किंचिद्** दण्डयेत् । कन्यायाः स्वातन्त्र्याभावात् तद्रक्षाधिकृतानां पित्रादीनां दण्डे प्राप्ते प्रतिषेधः । **जघन्यं** जात्यादिभिर् हीनं **सेवमानां** मैथुनायोत्कलयन्तीं[^२५५] **संयतां** निवृत्तक्रीडाविहारा कञ्चुकिभिर् अधिष्ठितां पितृगृह एव **वासयेद्** यावन् निवृत्ताभिलाषा संजाता । अथ हीनजातीये निर्वृत्तप्रीतिविशेषा तदा आ अन्त्योच्छ्वासात् संयतैव तिष्ठेत् ॥ ८.३६५ ॥
+In as much as the girl is never her own mistress, the punishment would
+fall upon her guardians, father and others; and it is the punishment
+that is precluded here.
+
+‘*Inferior*—in caste or other things.
+
+‘*Courts*,’—tries to have intercourse with.
+
+‘*Confined*,’—not being allowed to take part in any amusements, and
+guarded by attendants.
+
+She shall be made to live in her father’s house, till she gets rid of
+her love-longings. If however she continues to have her love centred in
+the inferior persons, then she should be kept confined till her last
+breath.—(365).
 
 
-[^२५५]:
-     DK (1: 1866): maithunāyānukūlayantīṃ
-
-
-[^२५४]:
-     M G omit: na

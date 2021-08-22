@@ -2,9 +2,9 @@
 title = "111 न वृथा"
 
 +++
-
-मिथ्याशपथे फलाख्यानम् एतत् । **वृथा** अन्यथा असत्यम् इति यावत् । तत्रापह्रियमाणसुवर्णादिद्रव्यजात्यपेक्षो ऽनृतशपथदोषो ऽन्यथाशपथे स्वल्पे, गरीयसि तु कार्ये गौरवाद् अधिकतरो दोषो ऽस्त्य् एव । प्रेत्य नाशो नरकम्, इह महद् अयशः । प्रमाणान्तरे तु ज्ञाते[^८९] राजदण्डः ॥ ८.१११ ॥
-
-
-[^८९]:
-     M G: tv ajñāte
+*Nārada* (1.257, 258).—‘Where no one declares himself ready to undergo
+punishment, an ordeal cannot take place. An ordeal shall be administered
+to litigants when there is reason for it, not otherwise. Therefore an
+intelligent, virtuous, righteous and wise king (or judge) should abstain
+from administering any one of the five ordeals, unless both parties
+consent to it.’

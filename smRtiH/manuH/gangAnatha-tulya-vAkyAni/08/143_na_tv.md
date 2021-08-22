@@ -2,65 +2,49 @@
 title = "143 न त्व्"
 
 +++
+**(verses 8.143-144)  
+**
 
-बहुधा प्रयोगः- गृहीत्वाधिम् अन्यथा च । आधिर् अपि द्विविधः- गोप्यो भोग्यश् च । भोग्यो ऽपि द्विविधः- समयाद् उह्यमानभोगः सरूपतो वा । आधिर् दोग्ध्री गौः पिहितसुवर्णादि । 
+*Gautama* (12-32).—‘A loan secured by a pledge that is used by the
+creditor bears no interest.’
 
-- तत्र भोग्यम् आधिम् अधिकृत्येदम् उच्यते । **न त्व् एवाधौ सोपकार** इति । विविधः[^१९१] सोपकारः- क्षीरिणी गौः क्षेत्रारामादि च । तस्मिन् भुज्यमाने — कुसीदे भवा **कौसीदी** अनन्तरोक्ता वृद्धिस् — ताम् नाप्नुयात्[^१९२] । आधिं तु भुञ्जानो नान्यां वृद्धिं लभेत । गोप्ये ऽप्य् आधौ **कालसंरोधाच्** चिरम् अवस्थानाद् द्विगुणीभूते ऽप्य् अमोक्षमाणे[^१९३] **न निसर्गो ऽस्ति न विक्रयः** । अन्यत्र च विधिनार्पणं **निसर्गः** । अन्यत्र संक्रामितं[^१९४] द्विगुणीभूतम् अपि पुनर् वर्धत एव । तथा अ पठिष्यति "सकृद् आहृता" (म्ध् ८.१५१) इति । **विक्रयः** प्रसिद्धः । सो ऽपि न कर्तव्यः । 
+*Viṣṇu* (6.5).—‘If the pledge is used, interest becomes forfeited.’
 
+*Nārada* (l.125-229).—‘A pledge is of two kinds—one to be kept, and one
+for use. It must be preserved in the same condition in which it was
+given; otherwise, the pledgee loses interest...... A pledge must not be
+used forcibly; by so using it, the pledgee forfeits the interest due to
+him. That foolish person who uses a pledge without the authority of the
+owner, shall lose one half of his interest, as a compensation for such
+use. If a *pledge for use* has been given, the creditor must not take
+interest due on the loan.’
 
-[^१९४]:
-     J: saṃkrāmi
+*Bṛhaspati* (11.18 *et seq*.).—‘Should the creditor, actuated by
+avarice, use a pledge before interest has ceased to accrue on the loan,
+or before the stipulated period has expired, such use shall be stopped.
+The pledge has to be kept carefully, like a deposit; interest becomes
+forfeited in the event of its being damaged. If the pledge is used and
+rendered worthless, the principal itself becomes forfeited; if a very
+valuable pledge be spoilt, the creditor must satisfy the pledger.’
 
+*Yājñavalkya* (2.59).—‘There is no interest payable, if a pledge given
+as deposit is used, or if a pledge given for use is destroyed; if it is
+spoilt or lost, it should be replaced; except when such loss has been
+due to an act of god or the King.’
 
-[^१९३]:
-     DK (5: 1184) suggests: amokṣyamāṇe
+*Vyāsa* (Aparārka, p. 659).—‘If the pledge in the form of gold and the
+like, has been destroyed by the fault of the creditor, the debtor shall
+pay the principal along with the interest accrued, and the creditor
+shall be made to pay the value of the pledge to the debtor.’
 
+*Kātyāyana* (Do.).—‘If the pledgee makes use of the pledge without
+authorisation, he shall pay the price of such use; or else, he shall
+forfeit the interest.’
 
-[^१९२]:
-     M G DK (1: 638): āpnuyāt (omit "na"); but DK (5: 1184) retains "na"
-
-
-[^१९१]:
-     M G: vividha-
-
-- span style="text-decoration-underline;">किं तर्ह्य्</u> अस्याम् अवस्थायां कर्तव्यम् । 
-
-- span style="text-decoration-underline;">तावद्</u>[^१९५] <u>आधिं</u> भुञ्जीत यावद् द्विगुणं धनं प्रविष्टम् । ततः, 
-
-
-[^१९५]:
-     M G DK omit: tāvad
-
-- मोच्य आधिस् तदुत्पन्ने प्रविष्टे द्विगुणे धने । (य्ध् २.६६) 
-
-भोग्यस् तावद् एवम्[^१९६] । भोग्यस्[^१९७] त्व् आधिः शान्तलभस् तिष्ठत्य् एव यावद् आधाता नागतः । यस् तु कथंचिद् धनिको दरिद्रताम् उपगतस् तावन्मात्रशेषधनः स कंचित् कालं प्रतीक्ष्य राजनि निवेद्य विक्रीणीत बन्धम्, ततो विक्रयाद् उत्पन्नं द्विगुणम् आत्मनो धनं गृहीत्वा शेषं मध्यस्थहस्ते ऋणिकसात्कुर्यात् ।
-
-
-[^१९७]:
-     M G: abhogyas
-
-
-[^१९६]:
-     M G DK (1: 638) add: abhogyas tāvat evam; J adds: abhogyas tadanantaram (the reading here is rather confused).
-
-- span style="text-decoration-underline;">ननु च</u> 
-
-- आधिः प्रणश्येद् द्विगुणे धने यदि न मोक्षयेत् । (य्ध् २.६०) 
-
-इति पठ्यते । 
-
-- span style="text-decoration-underline;">एतद् उत्तरत्र</u> व्याख्यास्यामः । प्रणाश्यत्वान् न[^१९८] पूर्वस्वामिनः स्वाम्यहानिः प्रयोक्तुश् च स्वत्त्वापत्तिः । यदि च निसर्गविक्रयौ न स्तः, कीदृशम् अस्य स्वाम्यम् उच्यते । तस्मात् प्रतिषेधसामर्थ्येन प्रणाशवचनं प्रतिषिद्धभोगस्य[^१९९] भोगानुज्ञानार्थं व्याख्यायते । वस्त्रादिविषयं वा । तस्य हि भुज्यमानस्य प्रणाश एव । न क्षेत्रादेर् इव तिष्ठतः स्वरूपाद् प्रच्यवमानस्य[^२००] भोग्यता संभवति । तेनैतत् स्मृतिव्यवस्थायां व्याख्येयम् । 
-
-
-[^२००]:
-     M G J: svarūpāt prapacyavamānasya; DK (1: 638): acyavamānasya (I follow DK 5: 1184; reading is unclear)
-
-
-[^१९९]:
-     M G: praṇāśavacanapratiṣiddhabhoga iti
-
-
-[^१९८]:
-     DK (1: 638) suggests : praṇāśyatvaṃ cātra; (5: 1184): praṇāśyatvam atra
-
-गौणौ चात्र प्रणाशनिसर्गौ । विक्रयप्रतिषेधस् तु मुख्य एव । न ह्य् असौ गौणतया प्रतिपत्तुं शक्यते । एतद् एव प्रस्तुत्य "न स्यातां विक्रयाधीने" इति स्मृत्यन्तरपठितम्[^२०१] । अत इह **निसर्गो** ऽन्यत्राधानम्, विक्रयसाहचर्यात् ।सदृशौ हि तौ केनचिद् अंशेन ॥ ८.१४३ ॥
+*Arthaśāstra* (p. 3).—‘The man who uses the pledge should pay the price
+of such use; also a fine of 12 *paṇas*; if, by such use, the pledge
+becomes lost or spoilt, the user should replace it, and also be fined 21
+*paṇas*; so also when the pledge becomes lost in any other way. A pledge
+given for use should not be allowed to be destroyed; nor in this case
+should any interest accrue; if it is given for mere keeping and not for
+use, then interest shall accrue.’

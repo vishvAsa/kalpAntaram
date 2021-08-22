@@ -3,4 +3,4 @@ title = "057 एवं स"
 
 +++
 
-उपसंहारः पूर्वोक्तस्य । आत्मसंबन्धिभ्यां **जाग्रत्स्वप्नाभ्यां** **चराचरं** स्थावरं जंगमं जीवयति मारयति च जगत् । **अव्ययो** ऽविनाशी ॥ १.५७ ॥
+Thus by waking and sleeping, the Imperishable One incessantly brings to like and destroys all this that is moveable and immoveable.—(57)

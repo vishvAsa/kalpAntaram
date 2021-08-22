@@ -2,17 +2,16 @@
 title = "378 सहस्रम् ब्राह्मणो"
 
 +++
+Even though one has lost her chastity, if the woman continues to be
+protected by her father, brother or relatives,—and a Brāhmaṇa has
+intercourse with her by force, he should be made to pay one thousand.
 
-**गुप्ता** भ्रष्टशीलापि यदि केनचिद् रक्ष्यते पित्रा भ्रात्रा बन्धुभिर् वा तां हठाद् गच्छन् **सहस्रं ब्राह्मणो** दाप्यः । गुप्ता शीलवती चेत् प्रवासनाङ्कने ऽधिके[^२९०] । अथापि शीलवत्य् अपि गुप्तशब्देनोच्यते,[^२९१] तथापि सहस्रमात्राद् ब्राह्मणो मुच्यते[^२९२] । अङ्कनप्रवासने सर्वत्र मुखीक्रियेते परदाराभिमर्शे ॥ ८.३७८ ॥
+If however the woman is protected and still chaste, then the man is to
+be banished and branded, in addition to the fine.
+
+Even if the word ‘protected’ be taken to mean *chaste*, the Brāhmaṇa
+would be absolved by paying a thousand ‘banishment’ and ‘branding’ being
+the general punishment laid down for all cases of immoral intercourse
+with other women.—(378)
 
 
-[^२९२]:
-     DK: na mucyeta
-
-
-[^२९१]:
-     DK: -śabdenocyeta
-
-
-[^२९०]:
-     M G: pravāsanāhvānenādhike; DK (1: 1858): cādhike

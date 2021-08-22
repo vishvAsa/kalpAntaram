@@ -2,13 +2,24 @@
 title = "412 दास्यन् तु"
 
 +++
+‘*Sanctified*’—those for whom the initiatory rite has been performed.
+Though this is already implied by the term ‘*twice-born*’ itself, yet
+the additional qualification has been added in order to guard against
+this latter word being taken in the sense of all the three castes
+promiscuously. The sense of the text is that if a Brāhmaṇa makes fellow
+caste-men perform such ‘servile work’ as the washing of feet, the
+removing of offal, sweeping and so forth,—‘*against their
+will*’;—because he is their master,—*i.e*., possessed of the rights of
+the master over them,—‘*he should be fined six hundred*,’— if he does it
+‘*through greed*.’ If he does it through hatred and such other motives,
+the fine shall be heavier.
 
-**संस्कृता** उपनीताः । यद्य् अपि द्विजग्रहणाद् एवैतल् लभ्यते तथापि त्रैवर्णिकजात्युपलक्षणार्थं न विज्ञायीति । यो **ब्राह्मणः** समानजातीयान् दास्यं पादधावनोच्छिष्टावकरणसंमार्जनादिरूपम्[^३९१] **अनिच्छतः** । प्रभवतो भावः[^३९२] **प्राभवत्यं** प्रभुत्वम् । शक्यातिशययोगतो बलादिना यः कारयति **स षट्शतानि दण्ड्यः** । **लोभाद्** एतत् । द्वेषादिभिस् त्व् अधिको दण्ड्यः । शत्रन्तस्य भवतेर् भावप्रत्यये प्राभवत्याद् इति रूपम् । प्रभुत्वेनेति वचनाद् गुरोर् न दोषः । **अनिच्छत** इति वचनाद् इच्छताम् अन्यो दण्डः ॥ ८.४१२ ॥
+The form ‘*prābhavatya*’ is an abstract noun formed from the present
+participial term ‘*prabhavan*.’ And since the text speaks of
+‘*mastery*,’ which implies the idea of master and servant, there would
+be nothing wrong in the preceptor’s menial work being done by the pupil.
+
+‘*Against their will*’—this shows that if they are willing, the fine
+shall be very small.—(412)
 
 
-[^३९२]:
-     M G J: vācaḥ
-
-
-[^३९१]:
-     M G: -karaṇasaṃmārjanādikaṃ rūpam

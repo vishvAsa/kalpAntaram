@@ -2,9 +2,18 @@
 title = "357 उपचारक्रिया केलिः"
 
 +++
+The ‘*offering of help*,’— in the shape of clothes, garlands, or
+articles of food and drink and other things,—to a lady who is not
+related to one in any way.
 
-या न केनचित् संबन्धेन संबन्धिनी तस्या वस्त्रमाल्यादिदानेन **उपकार**करणम् । तथा भोजनपानादिना । **केलिः** परिहासो वक्रभणितादिना । **स्पर्शो भूषणवाससाम्**[^१९७] । **भूषणं** हारकटकादि तदङ्गलग्नम्, तदीयम् एतद् वेति ज्ञात्वा विनाप्रयोजनेनान्यगृहीतम् अपि स्पृश्यते । एकस्यां खट्वायाम् असंसक्ताङ्गयोर् अपि सहासनम् । सर्वम् एतत् तुल्यदण्डम् ॥ ८.३५७ ॥
+‘*Flirting*’—joking in ambiguous words, etc.
+
+‘*Ornaments*,’— the necklace, the bracelet and so forth, either when all
+this is actually on her body, or even when held by others, if he touches
+them, without reason, simply because they belong to that particular
+lady.
+
+‘*Sitting on the same bed*,’—oven without actually touching. All this
+makes him liable to the same punishment.—(357)
 
 
-[^१९७]:
-     M G omit: yā na kenacit . . . sparśo bhūṣaṇavāsasām

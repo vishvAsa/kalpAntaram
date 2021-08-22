@@ -2,29 +2,35 @@
 title = "245 सीमाम् प्रति"
 
 +++
+‘*Dispute regarding boundaries*,’—*i.e*., dispute on account of
+boundary: the particle ‘*prati*’ being a preposition, governs the
+accusative, according to Pāṇini 1.4.90: specially as the cause of a
+thing also can he spoken of as its characteristic feature.
 
-**सीमां प्रति विवादे** सीमानिमित्ते । लक्षणेत्थंभूतेति प्रतेः कर्मप्रवचनीयत्वात् द्वितीयानिमित्तम् अपि लक्षणम् इति शक्यते वक्तुम् । **सीमा** मर्यादा ग्रामादीनां विभागः परिमाणम् इयत्ता परिच्छेदनम् इति यावत् । **ज्येष्ठे मासि नयेन्** निर्णयः कर्तव्यः । मासविशेषनिर्णये[^१३९] हेतुम् आह **संप्रकाशेषु सेतुषु** । सेतवः सीमालिङ्गानि वक्ष्यमाणानि लोष्ठपाषाणादिविशिष्टजातीयसीमा[^१४०] ग्राह्या, तृणगुञ्जादीनि[^१४१] प्राग् अस्मात् कालाद् उत्थितेषु[^१४२] तृणेषु लोष्ठपाषाणयोर् अन्यस्याश् च भूमेर् न विशेषो लक्ष्यते । पाषाणलक्षितायां यदा तत्र तृणानि न ज्ञायन्ते तदा सा सीमेति निश्चीयते । एवं वल्लीस्थानादिष्व् अपि । प्राग् वसन्ताद् वासन्तिके दाहे विशेषो न लक्ष्यते । हेत्वभिधानाच् च यस्मिन् देशे यदा व्यज्यन्ते ततो मासात् कालहरणं कर्तुं न देयम्[^१४३] । अन्यदा तु लिङ्गज्ञानार्थं[^१४४] कालापेक्षापि भवतीत्य् एतावत्फलं **ज्येष्ठ**ग्रहणे ॥ ८.२४५ ॥
+‘*Boundary*’,—the limit of villages, their division, the exact
+determination of their extent.
+
+‘*Shall settle it*’—decide it,—‘*during the month of Jyeṣṭha*.’
+
+The text adds the reason why the boundary should be settled during this
+particular month:—‘*when the land-marks are distinctly perceptible*’—
+Boundary-marks are going to be described below; such as those consisting
+of clods of stone or things of that kind, and also thickets of grass and
+the like. Before the advent of the said month, while grass is growing on
+all sides, no difference could be perceived between grounds marked by a
+stone-piece and other grounds. When however, the boundary is marked by a
+piece of stone, if no grasses are visible, then the boundary is easily
+determined. Similarly In cases where demarcation has been done by
+creepers and thickets, the boundary should be settled before the advent
+of spring; for when trees and creepers are burnt down by forest-fires
+during the spring, no distinction could be perceived.
+
+In as much as the text has put forward a reason for settling the dispute
+during a certain month, it is to be concluded that in a case where the
+marks are easily perceptible, the king should not wait for any
+particular month, thereby affording time to the parties concerned. It is
+only for the purpose of finding the necessary marks that one need wait
+for any particular month. This is the sole purpose served by the mention
+of the month of *Jyeṣṭha*.—(245)
 
 
-[^१४४]:
-     M G: liṅgājñānārthaṃ
-
-
-[^१४३]:
-     M G J: nādeyam
-
-
-[^१४२]:
-     M G J: anutthiteṣu
-
-
-[^१४१]:
-     M G: tṛṇaṃjādīni; J: -sīmāgrāhyatṛṇa-
-
-
-[^१४०]:
-     M G: -viśeṣajātīya-
-
-
-[^१३९]:
-     DK (1: 933: māsaviśeṣeṇa nirṇayakaraṇe

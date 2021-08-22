@@ -2,8 +2,17 @@
 title = "076 यत्राऽनिबद्धो ऽपीक्षेत"
 
 +++
+*Viṣṇu* (8.12).—‘An appointed witness having died or gone abroad, those
+who have heard the tacts from him may give evidence.’
 
-<u>ननु</u> चोक्तं "समक्षदर्शनात्" (म्ध् ८.७४) इत्य् अत्र यथाकथंचिदनुभूतवतो ऽनियुक्तस्यापि साक्ष्यम् अस्तीति । तत्र किम् अनेन "यत्रानिबद्धो ऽपि" इति । को वा विशेषः । 
+*Śukranīti* (4.5.392).—‘A person present in court must depose truly as
+to what he has seen or heard, when asked, even though he may not have
+been cited as a witness.’
 
-<u>उच्यते</u> । लेख्यारूढस्य व्यापारविशेषाद्युक्तं साक्षित्वं न पुनर् अनारूढस्य । आरोहणस्यानर्थक्यप्रसङ्गाद् उभयोः साक्षित्वे[^२८३] । अत एताम् आशङ्काम् अपनेतुम् इदम् उच्यते । पूर्वस् तु श्लोको यत्रानुकाः[^२८४] साक्षिणः । अयं तु यत्र ससाक्षिकं लेख्यम् ।  
-**अनिबद्धो** लेक्यम् अनारूढो ऽपीत्य् अर्थः । ईक्षणश्रवणे व्याख्याते । शेषं सुबोधम् ॥ ८.७६ ॥
+*Nārada* (1.161).—‘He who, without having been appointed to ho a
+witness, comes of his own accord to make a deposition, is termed a *spy*
+in the law-books; he is unworthy to bear testimony.’
+
+Do. (1.166).—‘If a witness dies or goes abroad after having been
+appointed, those who may have heard his statement may give evidence; for
+indirect proof makes evidence.’

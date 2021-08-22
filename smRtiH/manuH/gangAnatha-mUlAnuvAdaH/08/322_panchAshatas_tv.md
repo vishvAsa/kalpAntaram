@@ -3,8 +3,4 @@ title = "322 पञ्चाशतस् त्व्"
 
 +++
 
-सुबोधो ऽयम् । **मूल्याद्** इति- नापहृतम् एव द्रव्यं देय, क्वचित् तज्जातीयं नैव प्राप्यते । अतो रूपकैर् धान्यादिना वा विनिमेयम्[^६९] ॥ ८.३२२ ॥
-
-
-[^६९]:
-     M G: nimeyam
+In the case of more than fifty, the cutting off of the hands is prescribed. In other cases, the king shall inflict a fine of eleven times the value.—(322)

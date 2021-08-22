@@ -2,49 +2,21 @@
 title = "267 शतम् ब्राह्मणम्"
 
 +++
+‘*Abusing*’ is speaking harshly. In most cases it takes the following
+forms:—(*a*) Causing pain by addressing foul words;—(*b*) cursing
+without reason—‘O low-born one, may you suffer long’;—(*c*) giving false
+information; *e.g*., ‘your unmarried daughter is pregnant’;—(*d*)
+defamation, attributing to him serious or non-serious offences.
 
-परुषवचनम् **आक्रोशः** । स च बहुधा- नृशंसाश्लीलभाषणान् मर्मणि तोदः,[^१८७] अभिशापः अकरणम् "हन्त[^१८८] वृषलो भूयाः[^१८९]", असता[^१९०] दुःखोत्पादनम्[^१९१] "कन्या ते गर्भ्णी" इति, पातकोपपातकैर् योजनम्[^१९२] इति । तत्र द्वयोर् ब्राह्मणाक्रोशे[^१९३] क्षत्रियवैश्ययोर्[^१९४] अयं दण्डः । अन्यत्र "पतनीये कृते क्षेपे दण्डो मध्यमसाहसः" (य्ध् २.२१४) इत्यादि स्मृत्यन्तरोक्तः । शूद्रस्य[^१९५] वधः ताडनजिह्वाछेदनमारणादिरूपः[^१९६] आक्रोशभेदाद् वेदितव्यः[^१९७] ॥ ८.२६७ ॥
+The punishment to be inflicted upon the Kṣatriya and the Vaiśya for
+abusing a Brāhmaṇa is as here laid down. In another *Smṛti*
+(Yājñavalkya, 2.2.10) however we read—‘If a defamation refers to a
+heinous offence, the penalty shall consist of the middle amercement;
+while if it refer to a minor offence, it shall be the lowest
+amercement.’
 
-
-[^१९७]:
-     M G: ākrośabhedā veditavyāḥ
-
-
-[^१९६]:
-     M G: vadhatāḍane jihvāchedanamāraṇādi sarva
-
-
-[^१९५]:
-     M G: tasya; DK: tasya śūdrasya ca
-
-
-[^१९४]:
-     M G: kṣatriyāvaiśyayor
+For the *Śūdra* ‘*immolation*,’—in the form of beating, cutting off the
+tongue, actual death, and so forth, to be adjusted in accordance, with
+the exact nature of the abuse.—(267)
 
 
-[^१९३]:
-     M G J: brāhmaṇakrośe
-
-
-[^१९२]:
-     M G J: yājanam
-
-
-[^१९१]:
-     J: upanyasanaṃ
-
-
-[^१९०]:
-     M G: asatāṃ; J: asata
-
-
-[^१८९]:
-     M G J: vṛṣalabhūyāḥ
-
-
-[^१८८]:
-     M G J: akaraṇahantā
-
-
-[^१८७]:
-     M G: nṛśaṃsāślīlabhāṣaṇaṃ tena bhaṇito yo

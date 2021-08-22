@@ -2,17 +2,14 @@
 title = "335 पिताचार्यः सुहृन्"
 
 +++
+This verse is qüoted in *Parāśaramādhava* (Ācāra, p. 391);—in
+*Vīramitrodaya* (Rājanīti, p. 291), which adds that the father and
+mother must be exceptions to this rule, as is clear from the following
+Smṛti-text quoted by *Vijñāneśvara*:—‘The following are
+unpunishable—Father, Mother, Accomplished Student, Priest, Wandering
+Mendicant, Anchorite, &c.’ Similarly the ‘very learned man’ should not
+be punished.
 
-"भार्या पुत्रः स्वका तनुः" (म्ध् ४.१८४) आत्मीयं शरीरम् । कः पुनर् आत्मनो दण्डः । प्रायश्चित्ततपोधनदानादिविवक्षितम्[^११६] । विचलितो धर्मात् स्वकात् । यो यः स्वधर्मान् नानुतिष्ठति[^११७] स सर्वो दण्ड्यः[^११८] ॥ ८.३३५ ॥
+It is quoted in *Vivādaratnākara* (p. 628).
 
 
-[^११८]:
-     M G: daṇḍaḥ
-
-
-[^११७]:
-     M G: dharmaḥ svakānyo yaḥ svadharmān na tu tiṣṭhati
-
-
-[^११६]:
-     M G DK (1: 578) omit: -vakṣitam

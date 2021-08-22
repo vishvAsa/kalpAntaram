@@ -2,25 +2,33 @@
 title = "212 धर्मार्थं येन"
 
 +++
+A man comes to the rich man praying—‘I am desirous of marrying for the
+sake of issue,’ or ‘I wish to perform such and such a sacrifice,’ ‘give,
+me some money’;—and the money is given to him;—but the man does not
+marry, and spends the money either in gambling or over prostitutes, or
+for something else, laying it out on interest or agriculture,—then ‘*it
+shall not be given to him*.’
 
-यः कश्चिद् आह "सान्तानिको ऽहम्, यियक्षुर् वा, देहि मे किंचित्" इति । तस्मै यदि **दत्तं** भवेत्, स च न यजेत न विवाहकर्मणि प्रवर्तेत । तद्धनं द्यूतेन वेश्याभिर् वा क्षपयेद् अन्यत्र वा विनियुञ्जीत वृद्धिलाभकृष्यादौ, न देयं तस्य । तद्दत्तस्य दानप्रतिषेधो नोपपद्यते । अतः प्रत्याहरणीयम् इति वाक्यार्थः । अथ वा दत्तान्तो[^४२] गौणो व्याख्येयः- दत्तं प्रतिश्रुतं न देयम् । तथा च गौतमः- "प्रतिश्रुत्याप्य् अधर्मसंयुक्ताय न दद्यात्" (ग्ध् ५.२३) । किं पुनर् अत्र युक्तम् । उभयम्[^४३] इत्य् आह- दत्तस्य प्रत्याहरणं प्रतिश्रुतस्य वादानम् । तथा च स्मृत्यन्तर उभयं पठितम् । आह हि नारदः- "कर्ताहम् एतत् कर्म" इति उपक्रम्य " यद् दत्तं स्याद् अविज्ञानाद् अदत्तं तद् अपि स्मृतम्" (न्स्म् ४.९–१०) इति । प्रयोजनविशेषोद्देशेन यद् दत्तं तस्मिन्न् अनिर्वर्त्यमाने[^४४] व्यवस्थितम्[^४५] अपि प्रतिग्रहीतुर् गृहाद् आहर्तव्यम् । दानस्योपक्रममात्रं तदानीं समर्पणं समाप्तिस् तु निर्वृत्ते प्रयोजनेति[^४६] नारदस्य मतम् ॥ ८.२१२ ॥
+When the money has been given already, there can be no sense in
+forbidding the gift; (A) hence the sentence should be taken to mean that
+‘it shall be taken back from him.’ (B) Or the former clause itself may
+be taken in a figurative sentence,—the word ‘*gives*’ being taken in the
+sense of ‘promises’; the meaning in this case would be that ‘the
+promised money shall not be given.’ In this sense we have the assertion
+of Gautama (5.23)—‘Even after promising, no money shall be given to one
+who is found to be unrighteous.’
+
+“Of these two explanations (A & B), which is the more reasonable?”
+
+Both are reasonable: the taking back of what has been given, and also
+not giving what has been promised. In another *Smṛti* -text we find both
+these courses laid down:—Beginning with the words—‘I am going to perform
+such and such an act,’ the text goes on to say—‘what is given in
+ignorance is as good as not given’ *Nārada*, 4.10-11). This means that
+when money has been given for a certain act, if that act is not done,
+the money, even though paid, shall ho brought back from the receiver’s
+house; and the opinion of Nārada is that in this case there was only a
+*promise* of the gift, and its fulfilment would be dependent upon the
+actual fulfilment of the purpose for which it had been asked for.—(212)
 
 
-[^४६]:
-     M G: nirvartaprayojaneti; J: nirvṛttaprayojaneti
-
-
-[^४५]:
-     M G: svavasthitam
-
-
-[^४४]:
-     M G DK: anivartyamāne
-
-
-[^४३]:
-     M G: upāyam
-
-
-[^४२]:
-     M G DK (1: 795): naṣṭānto; DK in parentheses: (naḥ ktāntaḥ)

@@ -2,5 +2,8 @@
 title = "221 एतद् दण्डविधिम्"
 
 +++
+**(verses 8.219-221)  
+**
 
-**जातिसमूहेषु** च नानाजातीयानां समानजातीयानां वा संघेषु तद्विषयो व्यभिचारो येषां इत्य् अर्थः । प्रकरणोपसंहारः ॥ ८.२२१ ॥
+See Comparative notes for [Verse
+8.219](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201148.html#comparative-notes "English translation of verse").

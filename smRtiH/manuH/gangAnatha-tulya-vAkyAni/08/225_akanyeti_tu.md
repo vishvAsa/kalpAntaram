@@ -2,13 +2,24 @@
 title = "225 अकन्येति तु"
 
 +++
+*Yājñavaklya* (1.66).—‘If the bridegroom relinquishes the bride when she
+has no defects, he should he punished; and if he falsely accuses her of
+defects, he should he lined a hundred.’
 
-**अकन्या** वृत्तमैथुनसंबन्धेति **यो** वदेत् तं च दोषं न भावयेत्, तदा **शतं** कार्षापणं दण्ड्यः । 
+*Viṣṇu* (5.47; Aparārka, p. 96).—‘If one speaks of a blemishless girl as
+having a blemish, he should be fined the highest amercement..’
 
-- span style="text-decoration-underline;">अन्ये</u> मन्यन्ते ऽल्पत्वाद् दण्डस्य महत्वाच् चाक्रोशस्येति करणस्य च पदार्थविपर्यये ऽसकृत्त्वेन दर्शनाद् **अकन्येति** शब्दस्वरूपं विवक्षितम् । "अकन्येयम्" इत्य् एतेनैव शब्देनाक्रोशेत् तस्य शतं दण्डः । 
+*Nārada* (12.3).—‘The selection of the bride loses its binding force
+when a blemish is subsequently discovered in her.’
 
-- span style="text-decoration-underline;">कः पुनर्</u> अत्र विसेषः । 
+Do. (12.31).—‘Let no man calumniate a faultless maiden; neither must one
+calumniate a faultless suitor. When however, there is an actual defect,
+it is no offence if they dissolve their mutual agreement.’
 
-- span style="text-decoration-underline;">उच्यते</u> । स इदंवादी पृच्छ्यते- "कथम् इयम् अकन्या" इति । स चेद् ब्रूयात् "निर्लज्जा नृशंसाश्लीलवादिनी, नैष कन्यानां धर्मः" । एतच् च न साधयेत् । तदायं दण्डः कन्यागुणनिषेध उक्ते सति । 
-
-<u>अथ वा</u> कन्याशब्दं प्रथमवयोवचनम् आश्रित्य परोक्षे प्रार्थयमानस्य ब्रूयात्- "किं तावन् नासौ कन्या अतिस्वल्पा वृद्धा वा," तत्र कन्या दत्ता यदि राजानं ज्ञापयेद् अभिरूपतमा कन्या मदीया प्रार्थ्यमानानेन तस्याम् अभिलाषः, एवम् उक्त्वाथ[^७५] पराजितः, तत्र प्राप्तकालायां यद्य् एवम् उक्तं तदा पराजितस्यायं दण्डः ॥ ८.२२५ ॥
+Do. (12.34-36).—‘When a man, from hatred, declares a maiden to have lost
+her virginity, he shall pay 100 *Paṇas* as tine, unless he is able to
+give proofs of her disgrace. When a man, after having plighted his faith
+to a maiden, abandons her although she is faultless, he shall be fined
+and made to marry the maiden, even against his will. Affliction with a
+chronic or hateful disease, deformity, loss of virginity,—these are
+declared to be the defects of a maiden.’

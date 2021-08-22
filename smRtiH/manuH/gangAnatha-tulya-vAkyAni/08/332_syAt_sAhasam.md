@@ -2,15 +2,33 @@
 title = "332 स्यात् साहसम्"
 
 +++
+*Yājñavalkya* (2.230).—‘The forcible taking away of what does not belong
+exclusively to one has been called *Robbery*. The penalty in this case
+consists of a fine double the value of the article; if the robbery is
+denied, it shall he four times that value.’
 
-परद्रव्यापहरणं **स्तेयम्** उच्यते । धात्वर्थप्रसिद्ध्या चास्यैव कर्ता स्तेनः ।[^९८] इह तु विशेषेणायं व्यवहार इष्यते तदर्थो ऽयं श्लोकः । न परद्रव्यादानमात्रं स्तेयम्, ऋणादाननिक्षेपादिष्व् अपि स्तेयदण्डप्रसङ्गात् । संज्ञाभेदो दण्डभेदार्थः ।[^९९] 
+*Bṛhaspati* (28.2 *et* *seq*.).—‘Stealers are of two kinds—open
+(robbers) and secret (thieves); fraudulent traders, quacks, gamblers,
+dishonest judges, bribe-takers, cheats, persons pretending to interpret
+omens, or to practise propitiatory rites, low artists, forgers, hired
+servants refusing to work, dishonest umpires, perjured witnesses and
+jugglers—these are *open* stealers.’
 
+*Bṛhaspati* (22.24).—‘Robbery is declared to be threefold as it may be
+of the lowest, middling or highest kind; the punishment in each case
+should also be of the lowest, middling or highest sort, according to the
+nature of the article.’
 
-[^९९]:
-     M G add: apahnutya yat tena mayā kṛtam ity āha
+*Nārada* (Theft, 1 *et seq*.).—‘Two kinds of robbers stealing the goods
+of others have to he distinguished—the one kind, open and the other kind
+concealed. Open robbers are those who forge measures and weights,
+receivers of bribes, robbers, gamblers, public prostitutes, those who go
+about in disguise, etc., etc.’
 
+*Arthaśāstra* (p. 100).—‘The taking away of an article, if accompanied
+by force, is called *Robbery*,— if not accompanied by force,
+*Theft*,—also when the act is denied.
 
-[^९८]:
-     M G DK (1:1691) add: tasya kartavyena
-
-**कर्म यत् कृतं** परपीडाकरं वस्त्रोत्पाटनाग्निदाहद्रव्यापहर्णादि[^१००] । अग्निदाहे यद्य् अपि द्रव्यापहरणं नास्ति तथापि चौर्यम् एव रहसि करणाद् अपह्नवाच् च मन्यन्ते । चौर्ये हि द्रव्यविशेषाश्रयो दण्डः । सो ऽत्र न स्यात् । एवमर्थम् एव स्तेयप्रकरणोत्कर्षणम्[^१०१] ।[^१०२] **प्रसभं कर्म** इति कर्मग्रहणाद् द्रव्यापहाराद् अन्यद् अप्य् एवंकृतम् अयुक्तं साहसम् एव । कस् तर्ह्य् अग्निदाहादाव् अप्रसभं कृते दण्डः । कण्टकशुद्धौ वक्ष्यामः । अत एव संधिछेदे[^१०३] ऽसत्य् अपि द्रव्यापहरणे कण्टकशुद्धौ दण्डम् आमनन्ति । अन्यथा स्तेय एवावक्ष्यत्[^१०४] ॥ ८.३३२ ॥
+*Kātyāyana* (Vivādaratnākara, p. 287).—‘When a thing is taken away
+forcibly, in the presence of watchmen, it is *sāhasa*, Robbery; if it is
+done secretly, it is *steya*, Theft.’

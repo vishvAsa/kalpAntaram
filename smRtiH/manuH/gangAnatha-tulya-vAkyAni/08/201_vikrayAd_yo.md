@@ -2,27 +2,28 @@
 title = "201 विक्रयाद् यो"
 
 +++
+*Bṛhaspati* (13.7, 8, 10).—‘When a purchase has been made before an
+assembly of merchants, the king’s officers also being aware of it,—but
+from a vendor whose habitation is unknown, or when the purchaser is
+dead,—the owner may recover his own property by paying half the price
+tendered; the custom in that case being that one half of the value is
+lost to each of the two parties. When a man purchases a commodity at a
+fair price, and the purchase has been announced to the King, there is no
+wrong about it.’
 
-यादृशेन क्रयेण स्वाम्यं भवति तं दर्शयति । विक्रीणते ऽस्मिन् व्यवहारिण इति **विक्रयः** आपणभूमिः, ततो यो **गृह्णीयाद्** **धनं** गवादि क्रीयमाणं द्रव्यं मूल्यं वा स **लभते** **न्यायतः** **क्रयेण** । **कुलसंनिधौ** **विशुद्धम्** । **न्यायतः क्रय** उचितेन मूल्येन । असंभाव्यपापपुरुषाकुलस्यान्यव्यवहर्तृमेलककारपुरुषसमूहस्य समक्षं गृहीतं **लभते** नापहारयति । अन्यथा स्वामिना विक्रये[^१] तु द्रव्यं प्रतिनीयते[^२], किं तु मूल्यं लभते । तस्माद् यस् तस्य विक्रयी सो ऽन्ययतः[^३] क्रयेण तु दण्ड्यते मूल्यं च हारयति । एतद् उक्तम् ।
+*Bṛhaspati* (12.3, 4).—‘When the vendor has been produced and has been
+cast in the suit, the judge shall cause him to pay the price to the
+buyer, a fine to the King, and to restore the property to the owner.
+When the former owner comes forward and makes good his claim to the
+article purchased, the vendor shall be produced by the purchaser; by
+doing so, the purchaser may clear himself.’
 
-
-[^३]:
-     M G DK: vikrayī anyayataḥ
-
-
-[^२]:
-     M G DK add: asya nyāyato vikraye
-
-
-[^१]:
-     M G DK (1: 759) omit: vikraye
-
-- विक्रेतुर् दर्शनाच् छुद्धिः स्वामी द्रव्यं नृपो दमम् ।
-
-- क्रेता मूल्यम् अवाप्नोति तस्माद् यस् तस्य विक्रयी ॥ (य्ध् २.१७४)
-
-एष एवार्थओ ऽनेन[^४] श्लोकेन प्रतिपाद्यते ॥ ८.२०१ ॥
-
-
-[^४]:
-     M G: evārthas tena
+*Nārada* (7.2-5)—‘No blame attaches to a sale effected in public; but a
+clandestine sale is viewed in the same light as theft, according to law.
+The purchaser must not make a secret of the way in which he came by a
+chattel purchased by him. He becomes free from blame if he can point out
+the way in which the chattel was acquired by him. In any other case he
+is equally guilty with the vendor, and shall suffer the punishment of a
+thief. The vendor shall restore the property to the rightful owner, and
+shall pay to the buyer the price for which it was sold to him; besides
+that, he shall pay a fine to the King.’

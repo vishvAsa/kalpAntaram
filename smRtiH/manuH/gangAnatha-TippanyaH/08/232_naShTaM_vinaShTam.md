@@ -2,17 +2,26 @@
 title = "232 नष्टं विनष्टम्"
 
 +++
+‘*Kṛmibhiḥ*’—‘A special kind of worm called *Ārohakas*’ (Medhātithi)
+‘snakes and so forth’ (Rāghavānanda).
 
-**नष्टं** दृष्टिपथाद् अपेतं न ज्ञायते क्व गतम् । **विनष्टं** **कृमिभिः** । आरोहकनामानः कृमयो गवां प्रजनवर्त्मनानुप्रविश्य नाशयन्ति । **श्वभिर् हतम्**[^९८] । प्रदर्शनार्थम् एतत् । तेन गोमायुव्याघ्रादिहतानाम् एषैव स्थितिः । **विषमे** श्वभ्रदरीशिलादिसंकटादौ **मृतं** **। प्रदद्यात् पाल एव** । **हीनं पुरुषकारेण** । पुरुषकारः[^९९] पुरुषव्यापारः । पालस्य तत्र संनिधानात् वृकनिवारणं च दण्डादिना प्रवृत्तिः । तेनापेतम् । यदि व्याप्रियमाणो व्याघ्रादेर् निवारणे नैव समर्थः, सहसैव वोत्पत्य[^१००] कश्चित् पशुर् वेगेन श्वभ्रं गच्छेद् अनुगच्छतापि न शक्यः प्रत्यावर्तयितुम्, न पाले दोषः ॥ ८.२३२ ॥
+This verse is quoted in *Aparārka* (p. 773), which adds that the keeper
+is to make good the loss by paying the price of the animal lost;—and
+that ‘*nāśa*’ of the animal here meant is its being not found, lost;—in
+*Mitākṣarā* (2.164), as describing the loss of cattle through
+carelessness;—in *Vivādaratnākara* (p. 173), which adds the following
+notes:—‘*Naṣṭam*,’ stolen;—‘*vinaṣṭam*,’ destroyed—by whom?—‘*by
+worms*’;—the ‘dog’ stands for other animals also;—‘*viṣame*,’ place
+difficult of access; such as the hill-top and so
+forth;—‘*puruṣakāreṇa*,’ care and means of rescue adopted by the
+keeper;—in *Vivādacintāmaṇi* (p. 81), which has the following
+notes:—‘*Naṣṭam*’ stolen by thieves and others,—*i.e*., what became lost
+for want proper care on the part of the keeper,—this negligence being
+the reason why the man should be made to make good the loss;—in
+*Kṛtyakalpataru* (105a), which says that ‘*śva*’ in ‘*śvahatam*’ stands
+for carnivorous animals in general;—and in *Vīramitrodaya* (Vyavahāra,
+1362), which explains ‘*viṣame*’ as ‘in an inaccessible place,’ and
+‘*hīnaṃ puruṣakāreṇa*’ as ‘what has been destroyed for want of that care
+which was possible for man to give.’
 
 
-[^१००]:
-     M G: sahasaivotpatya
-
-
-[^९९]:
-     M G omit: puruṣakāraḥ
-
-
-[^९८]:
-     DK (1:908): śvahataṃ

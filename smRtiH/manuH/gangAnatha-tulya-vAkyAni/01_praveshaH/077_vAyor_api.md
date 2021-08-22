@@ -2,5 +2,5 @@
 title = "077 वायोर् अपि"
 
 +++
-
-**विरोचिष्णु भास्वद्** इति समानार्थेन शब्दद्वयेन स्वपरप्रकाशता प्रतिपाद्यते । स्वयं दीप्तिमत् परं च भासयति ॥ १.७७ ॥
+See Comparative notes for [Verse 1.75 (Ākāśa produced out of
+‘Mind’)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi-volume-3/d/doc145508.html#comparative).

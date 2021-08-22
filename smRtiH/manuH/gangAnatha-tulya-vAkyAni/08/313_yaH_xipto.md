@@ -2,13 +2,8 @@
 title = "313 यः क्षिप्तो"
 
 +++
+**(verses 8.312-313)  
+**
 
-**आर्तैर्** दण्ड्यमनतत्संबन्धिभिर् अधि**क्षिप्त** आक्रुष्टो यन् **मर्षयति** न क्रुध्यति **तेन** क्षमणेन **स्वर्गे महीयते** । कण्ड्वादित्वाद् यः[^८] । महत्त्वं प्राप्नोति स्वर्गे । अकोपेन तर्हि क्षमा कर्तव्या । अकामिनो यथाकामी अत आह । यत् तु[^९] प्रभुर् अहम् इत्य् अभिमानेन न सहते **तेन** **नरकं** प्राप्नोति । **आर्त**ग्रहणं बालवृद्धयोर् अपि प्रदर्शनार्थं पूर्वशेषत्वाद् अस्य ॥ ८.३१३ ॥
-
-
-[^९]:
-     DK: svarge akopena | na tarhi kṣamā kartavyā akāminā ayathākāminā | ata āha yas tv iti |
-
-
-[^८]:
-     M G: kaṇvādir ayam; DK (1: 79): kaṇḍvādir ayam
+See Comparative notes for [Verse
+8.313](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201246.html#comparative-notes "English translation of verse").

@@ -2,5 +2,26 @@
 title = "024 कालङ् कालविभक्तीश्"
 
 +++
+The author mentions Time, because it belongs to the same category (of
+‘action’) as Duty. It is only according to Vaiśesikas that Time is a
+*substance*; according to others it is a form of *action*; it consists
+in the extension of the motions of the Sun and other planets, and is
+liable to return.
 
-धर्मसामान्याद् आह । द्रव्यात्मा **कालो** वैशेषिकाणाणां क्रियारूपो ऽन्येषाम् । आदित्यादिगतिप्रतान आवृत्तिमान् । **कालविभक्तयो** विभागा मासर्त्वयनसंवत्सराद्याः । **नक्षत्राणि** कृत्तिकारोहिण्यादीनि । **ग्रःआ** आदित्यादयः । **सरितो** नद्यः । **सागराः** समुद्राः । **शैलाः** पर्वताः । **समानि** स्थलान्य् एकरूपा भूभागाः खातप्रदरवर्जिताः । **विषमाणि** आरोहावरोहवन्ति ॥ १.२४ ॥
+‘*Divisious of Time*’—such divisions as into ‘month,’ ‘season,’
+‘half-year,’ ‘year’ and so forth.
+
+‘*Lunar Mansions*’—such as *Kṛttikā* (Pleiades), *Rohiṇī* (Aldebaran)
+and the rest.
+
+‘*Planets*’—Sun and the rest.
+
+‘*Rivers*’—streams.
+
+‘*Oceans*’—seas—and ‘Mountains.’
+
+‘*Even tracts of land*’—such tracts of land as are of one uniform form,
+devoid of ditches and holes.—‘*Rugged tracts of land*’—such as are high
+and low.—(24)
+
+

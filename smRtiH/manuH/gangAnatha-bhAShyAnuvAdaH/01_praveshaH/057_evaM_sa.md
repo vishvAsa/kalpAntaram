@@ -2,5 +2,8 @@
 title = "057 एवं स"
 
 +++
+This verse recapitulates what has been said before.
 
-उपसंहारः पूर्वोक्तस्य । आत्मसंबन्धिभ्यां **जाग्रत्स्वप्नाभ्यां** **चराचरं** स्थावरं जंगमं जीवयति मारयति च जगत् । **अव्ययो** ऽविनाशी ॥ १.५७ ॥
+By means of his own ‘*waking and sleeping*,’ he produces and destroys
+the world consisting of *moveable and immoveable* beings, *i.e*.,
+vegetables and animals. ‘*Imperishable*’—Indestructible.—(57).

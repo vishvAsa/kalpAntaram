@@ -2,9 +2,20 @@
 title = "341 द्विजो ऽध्वगः"
 
 +++
+The text has used the term ‘*twice-born person*’ with a view to preclude
+*Śūdras*.
 
-**द्विज**ग्रहणं शूद्रप्रतिषेधार्थम् । **अध्वगो** नैकग्रामवासी । तत्रापि **क्षीणवृत्तिः** क्षीणपथ्योदनः । **द्वाव् इक्षू** दण्डौ, **मूलके,** प्रदर्शनार्थं चैतत् परिमितहरीतकमुद्गादिशमीधान्यानाम् । तथा च "शमीत्रपुसयुग्यघासेषु च न प्रतिषेधः"[^१४२] इति स्मृत्यन्तरम् । **परक्षेत्रात्** परकीयस्थानाद् इत्यर्थः, परिवृताद् अपि ॥ ८.३४१ ॥
+‘*On a journey*’—*i.e*., not an inhabitant of the same village;—hut
+there also he should be one ‘*who has run short of provisions*’—*i.e*.,
+whose journey-rations have been exhausted.
+
+‘*Two sugar-cane stalks*’ and ‘*two roots*’;—these are mentioned only by
+way of illustration, indicating small quantities of green vegetables,
+*mudga* -grains, leguminous grains and so forth. Says another
+Smṛti-text—‘There is no prohibition regarding leguminous grains,
+cucumber and grass.’
+
+‘*From another man’s field*’—*i.e*., from a place belonging to another
+person;—even though it be within an enclosure.—(341)
 
 
-[^१४२]:
-     M G J: nāpratiṣedhaḥ

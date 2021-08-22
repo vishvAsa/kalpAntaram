@@ -2,21 +2,22 @@
 title = "274 काणं वाप्य्"
 
 +++
+This verse is quoted in *Mitākṣarā* (2.204), which notes that this rule
+refers to a case where the defamer is a very wicked person; and
+*Bālambhaṭṭī* has the following notes:—‘*Tathyena*,’ even in
+truth,—‘*kārṣāpaṇāvaram*,’ at least one *kārṣāpaṇa*, never less than
+that; this refers to cases where a wicked and ill-behaved person insults
+a caste-fellow.
 
-एकेनाक्ष्णा विकलः **काणः** । **खञ्जः** पादविकलः । **तथाविधं** कुणिं चिपट,[^२११] **तथ्येन** नासत्येन[^२१२] **अपि**शब्दाद् वितथेन, अकाणे काणे च[^२१३] काण इत्य् उक्ते **कार्षापणावरो दण्डः** । अत्यन्ताल्पो यदि दण्डः कथंचिद् अनुग्राह्यतया, तदा कार्षापणो ऽवरो[^२१४] दण्डः । अन्यथा द्वौ त्रयः पञ्च वा पुरुषविशेषापेक्षयापि दण्ड्यः शूद्रः, सर्वे वा पूर्ववत् ॥ ८.२७४ ॥
+It is quoted in *Aparārka* (p. 806), which adds that this refers to a
+case where the insulter is a man with very superior qualifications, or
+where the motive of insulting is very insignificant.
+
+It is quoted in *Vivādaratnākara* (p. 247), which explains
+‘*kārṣāpaṇāvaram*’ as ‘that than which one *kārṣā* *paṇa* is lower,’
+*i.e*., ‘two *kārṣāpaṇas*—in *Parāśaramādhava* (Vyavahāra, p. 295),
+which adds that this refers to an extremely wicked person;—in
+*Nṛsiṃhaprasāda* (Vyavahāra, 44b);—and in *Vīramitrodaya* (Vyavahāra,
+150a).
 
 
-[^२१४]:
-     J omits: 'varo
-
-
-[^२१३]:
-     J omits: kāṇe ca
-
-
-[^२१२]:
-     J: asatyena
-
-
-[^२११]:
-     M G: ciṭapaṃ; J: cipiṭanāsaṃ

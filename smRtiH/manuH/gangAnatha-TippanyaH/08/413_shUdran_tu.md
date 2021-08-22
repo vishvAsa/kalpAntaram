@@ -2,5 +2,7 @@
 title = "413 शूद्रन् तु"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 154), which explains the
+meaning to be that a *Śūdra* may be made to do even the meanest service.
 
-**क्रीतम् अक्रीतं** भक्ताद्युपनतम् । वक्ष्यमाणस्य विधेर् अनुवादो ऽयम् । **दास्यायैवे**त्य् अर्थवादः ॥ ८.४१३ ॥
+

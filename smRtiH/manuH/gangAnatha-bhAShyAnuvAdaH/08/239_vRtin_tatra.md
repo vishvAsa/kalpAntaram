@@ -2,29 +2,26 @@
 title = "239 वृतिन् तत्र"
 
 +++
+‘*Enclosure*’—is the name given to a fencing of thorns and twigs that is
+put up round fields and gardens for the preventing of the entrance of
+cattle; in some places this is called ‘*parṇikā*.’
 
-कण्टकशाखादीनां प्राकारविन्यासः[^१०७] पशुप्रवेशवारणार्थः क्षेत्रारामादीनां **वृतिर्** उच्यते । या क्वचित् पर्णिकेति प्रसिद्धा। वारणा **वृतिः**। तस्या उन्नतिर् इयती कर्तव्या ययोष्ट्रो नावलोकयति । 
+The height of this enclosure should be such that the camel shall not
+look over it.
+
+“Is the accusative ending in ‘*yām*,’ ‘*which*,’ used in the sense of
+the Instrumental?” Our answer is—*no*.
+
+“How then would be the camel not see the *enclosure*?”
+
+If it is very high, its other side being not visible, the enclosure is
+as good as *not seen*.
+
+All the openings should also he closed,—such openings as can he entered
+by the head of the dog or the hog; *i.e*, the gaps that may be of the
+size of the head of these animals: the sense is that every effort should
+be made so that their head may not be thrust in.—(239)
+
+After the enclosure has been set up—
 
 
-[^१०७]:
-     M G: prakāra-
-
-- span style="text-decoration-underline;">किम्</u> इयं द्वितीया तृतीयार्थे **याम् उष्ट्र** इति । 
-
-- span style="text-decoration-underline;">नेति</u> ब्रूमः । 
-
-- span style="text-decoration-underline;">कथं</u> तर्हि वृतिम् उष्ट्रो न पश्यति । 
-
-<u>महोत्सेधाया</u> द्वितीयपार्श्वस्यादर्शनाद् अदृष्टैव वृतिः ।   
-**छिद्रं च** विवरम् **वारयेत्**[^१०८] **सर्वम्** । **श्वसूकरमुखेन** यद् अनुगम्यते तन् मुखपरिमाणम्[^१०९] । तथा कुर्याद् यथा श्वसुखं न माति । तन्मुखाद् अप्य् अल्पछिद्रम् इत्य् अर्थः ॥ ८.२३९ ॥
-
-
-
-[^१०९]:
-     M G: mukhaṃ parimāṇaṃ
-
-
-[^१०८]:
-     M G DK: āvārayet
-
-_तथा कृतायां वृतौ ।_

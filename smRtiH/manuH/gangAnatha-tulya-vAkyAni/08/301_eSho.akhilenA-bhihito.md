@@ -2,13 +2,8 @@
 title = "301 एषो ऽखिलेनाऽभिहितो"
 
 +++
+**(verses 8.299-301)  
+**
 
-**एष** निःशेषेणोक्तो **दण्डपारुष्यनिर्णयो** निर्णयो[^२८६] दण्डव्यवस्था । दण्डशब्दो हि साधनोपलक्षकतया विवादपदे[^२८७] ऽन्वितार्थः । नामधेये पूर्वपदम् । **स्तेनस्य** चौरस्य दण्डभेदान् अतः परं **वक्ष्यामीत्य्** उपसंहारोपन्यासार्थः श्लोकः ॥ ८.३०१ ॥
-
-
-[^२८७]:
-     M G: vivāde pade
-
-
-[^२८६]:
-     M G J omit: nirṇayo
+See Comparative notes for [Verse
+8.299](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201232.html#comparative-notes "English translation of verse").

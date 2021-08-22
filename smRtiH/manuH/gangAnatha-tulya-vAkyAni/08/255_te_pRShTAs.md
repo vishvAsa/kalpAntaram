@@ -2,13 +2,7 @@
 title = "255 ते पृष्टास्"
 
 +++
+**(verses 8.253-264)**
 
-**ते** साक्षिणो **यथा** यादृशं **निश्चयं** **ब्रूयुः** **स्मस्ताः** सर्व एव । न पुनर् वाक्यभेदोक्तौ न्यायः "द्वैधे च बहूनाम्" (य्ध् २.८०) इति । **निबध्नीयात्** पत्रके लिखेत् ।[^१६०] साक्षिणश् च नाम विभागेन[^१६१] ॥ ८.२५५ ॥
-
-
-[^१६१]:
-     M G DK: vibhāge (DK na) sākṣimātreṇa
-
-
-[^१६०]:
-     M G DK add: tatra
+See Comparative notes for [Verse
+8.253](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201185.html#comparative-notes "English translation of verse").

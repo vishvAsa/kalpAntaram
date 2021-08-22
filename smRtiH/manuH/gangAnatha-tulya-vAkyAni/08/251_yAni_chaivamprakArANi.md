@@ -2,9 +2,8 @@
 title = "251 यानि चैवम्प्रकाराणि"
 
 +++
+**(verses 8.245-251)  
+**
 
-गुल्मादीनाम् उपदेशः प्रदर्शनर्थो न परिसंख्यार्थः । **एवंप्रकारानि**[^१५२] खदिरसारकालाञ्जनाद्यानि शर्करादितुल्यानि । का एवंप्रकारता । अत आह **कालाद् भूमिर् न भक्षयेत्** । भूमेर् भक्षणम् उपमया स्वरूपोपादानम् । यथा भक्षितं भेदेन नोपलभ्यन्ते तद्वद् भूमिसादापन्नम् इव तादृशं कुर्यात् ॥ ८.२५१ ॥
-
-
-[^१५२]:
-     M G DK omit: evaṃprakārāni
+See Comparative notes for [Verse
+8.245](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201177.html#comparative-notes "English translation of verse").

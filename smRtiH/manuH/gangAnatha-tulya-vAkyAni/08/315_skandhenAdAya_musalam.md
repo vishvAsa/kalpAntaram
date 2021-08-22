@@ -2,7 +2,7 @@
 title = "315 स्कन्धेनादाय मुसलम्"
 
 +++
+**(verses 8.314-315)**
 
-वर्णानाम् अनुक्रमेण मुसलादीनाम् उपदेशं <u>मन्यन्ते</u> । 
-
-<u>तद् अयुक्तम्</u> । **वा**शब्दो न समर्थितः स्यात् । न च ब्राह्मणस्येदं प्रायश्चित्तम् इच्छन्ति । तत्प्रायश्चित्तेषु निरूपयिष्यामः । **खदिर**जातिर् लगुड एव, न मुशलेनानुषक्तव्यः ॥ ८.३१५ ॥
+See Comparative notes for [Verse
+8.314](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201248.html#comparative-notes "English translation of verse").

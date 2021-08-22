@@ -2,11 +2,31 @@
 title = "040 दातव्यं सर्ववर्णेभ्यो"
 
 +++
+*Gautuma* (10.46-47).—‘Having recovered property stolen by thieves, he
+shall return it to the owner;—or he shall pay its value out of his own
+treasury.’
 
-**चौरैर्** यन् नीतं किंचिद् **धनं** तद् राजा प्रत्याहृत्य नात्मन्य् उपयुञ्जीत । किं तर्हि, य एव मुषितास् तेभ्य एव प्रतिपादयितव्यम् । **सर्व**ग्रहणेन च चण्डालेभ्यो ऽपि देयम् इति । "चौराहृतम्" इत्य् अन्यस्मिन् पाठे चौरैः आहृतम्[^१४६] इति विगृह्य साधनं "कृता" (पाण् २.१.३२) इति समासः । पाठान्तरे "चौरहृतम्" इति "तृतीया" (पाण् २.१.३०) इति योगविभागात् पूर्ववद् वा समासः । अयं त्व् अत्रार्थः- यच् चौरैर् हृतम् अशक्यप्रत्यानयनं तद् राज्ञा स्वकोशाद् दातव्यम् ।
+*Āpastamba* (2.26.8) (2.268?).—‘The King’s officers should ho made to
+repay what is stolen within the boundaries of their charge.’
 
+*Viṣṇu* (3.66-67).—‘Having recovered the goods stolen by thieves, let
+him restore them entire to their owners, to whatever caste they may
+belong. If he is unable to recover them, he must pay their value out of
+his own treasury.’
 
-[^१४६]:
-     M G DK (1: 1957): samāhṛtam; but DK (4: 704) has āhṛtam
+*Yājñavalkya* (2.36).—‘The King should give to the people, what has been
+stolen by thieves; if he does not give it, he incurs the sin of
+stealing.’
 
-उत्तरश्लोकार्ध[^१४७] एवं योजनीयः- **राजा तद् उपयुञ्जान** इति । अनेकार्थत्वाद् धातूनाम् उपपूर्वो युजिर् लक्षणया वाप्रतिपादन[^१४८] एव द्रष्टव्यः । यो ह्य् अन्यस्मै प्राप्तकालं धनं न ददाति, स्वप्रयोजनेषु विनियुङ्क्ते, तेन तदीयम् एव तदुपयुक्तं भवतीति युक्तम् उच्यते- **राजा** **तद् उपयुञ्जानश्** **चौरस्याप्नोति किल्बिषम्** । किल्बिषं[^१४९] पापम् ॥ ८.४० ॥
+*Vyāsa* (Aparārka, p. 641).—‘If the King is unable to recover what has
+been stolen by thieves, he shall make it good out of his own treasury.’
+
+*Nārada* (6.16 *et seq*.).—‘He on whose land robbery has been committed
+must trace the thieves to the best of his power; or else, he must make
+good what has been stolen, unless the footmarks can be traced from that
+ground into another man’s ground. When the footmarks, after leaving that
+ground, are lost and cannot be traced any further, the neighbours,
+inspectors of the road and governors of that region shall be made
+responsible for the loss. When a house has been plundered, the King
+shall cause the thief-catchers, the guards and the inhabitants of that
+region to make good the loss, if the thief is not caught.’

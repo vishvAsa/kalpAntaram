@@ -2,9 +2,24 @@
 title = "386 यस्य स्तेनः"
 
 +++
+That king in whoso ‘*town*’—kingdom—there is no thief, reaches the
+‘*regions of Indra*’—heaven.
 
-**यस्य** राज्ञः **पुरे** देशे राष्ट्रे **स्तेनश्** चौरो **नास्ति** स शक्रस्येन्द्रस्य लोकं स्थानं भजते स्वर्गं प्राप्नोति । नान्यस्त्रीगो, अन्यस्य या स्त्री भार्यावरुद्धा पुनर्भूर् वा, स्त्रीग्रहणम् अभार्याया अप्य् असंबन्धिन्याः प्रतिषेधार्थम् । **दुष्ट्वाक्** त्रिविधस्याक्रोशस्य कर्ता । **साहसिक** उक्तः । दण्डेन हन्ति दण्डपारुष्यकृत् । **शक्रलोकभाग्** इति सर्वत्रानुषङ्गः । स्तेनादीनां स्त्रीसंग्रहशेषो[^३०६] ऽयम् अर्थवादः ॥ ८.३८६ ॥
+‘*No adulterer*’—who has no intercourse with a married woman, or to one
+married a second time. The mention of the ‘*woman*’ indicates that the
+prohibition applies to the case of all such women as are not one’s own
+wife, and are not related to him.
+
+‘*Defamer*’—the man who commits the three kinds of defamation.
+
+‘*Criminal*’—already described above.
+
+‘*Assaulter*’—who commits physical violence.
+
+‘*Attains the regions of Indra*’—is to be construed with each of the
+phrases.
+
+This verse constitutes a hortatory supplement to the injunctions
+regarding the punishing of thieves and others.—(386)
 
 
-[^३०६]:
-     M G: sarīrasaṃgrahaśeṣo; DK: sarīranigrahaśeṣo

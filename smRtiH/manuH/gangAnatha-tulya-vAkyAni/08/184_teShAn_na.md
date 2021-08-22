@@ -2,17 +2,8 @@
 title = "184 तेषान् न"
 
 +++
+**(verses 8.181-184)  
+**
 
-
-[^५८८]:
-     M G DK: nigṛhya dāpyaḥ syād
-
-**तेषां** प्राड्विवाकप्रयुक्तनिक्षेप्तॄणां **यदि** द्रव्यं निक्षिप्तं **न दद्यात्,** **यथाविधी**ति यथाकृतपदेन व्याख्यातम् । **स** धारणको ऽवष्टब्धय[^५८९] राजपुरुषैर् **उभयम्** अर्थिनो[^५९०] राजनिक्षेपं च दाप्यः । **इति धर्मस्य धारणा** व्यवस्था । तात्पर्यम् अत्र व्याख्यातम् ॥ ८.१८४ ॥
-
-
-[^५९०]:
-     M G: arthine
-
-
-[^५८९]:
-     M G: 'vaṣṭabdhasya
+See Comparative notes for [Verse
+8.181-182](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201105.html#comparative-notes "English translation of verse").

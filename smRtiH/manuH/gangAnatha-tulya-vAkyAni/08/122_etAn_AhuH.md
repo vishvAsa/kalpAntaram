@@ -2,5 +2,7 @@
 title = "122 एतान् आहुः"
 
 +++
+**(verses 8.118-123)**
 
-उभयप्रयोजनो दण्ड इति दर्शयत्य् अवश्यानुष्ठेयत्वाय । शास्त्राचारनिरूढा व्यवस्था धर्मः, तस्याव्यभिचारो ऽनिवृत्तिर् उच्यते ॥ ८.१२२ ॥
+See Comparative notes for [Verse
+8.118](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201029.html#comparative-notes "English translation of verse").

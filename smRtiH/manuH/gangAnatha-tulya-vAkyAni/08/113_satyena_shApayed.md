@@ -2,9 +2,13 @@
 title = "113 सत्येन शापयेद्"
 
 +++
+*Viṣṇu* (8.20-23).—‘The Brāhmaṇa witness should be asked to *declare*:
+the Kṣatriya to *declare the truth*; the Vaiśya should be addressed
+thus—“*Thy kine*, *grain and gold shall yield thee no fruit if thou wert
+to lie*”: the Śūdra should be addressed thus—“*Thou shall have to atone
+for all heavy crimes if thou wert to lie*.”’
 
-
-[^१०६]:
-     The reading should probably be "ebhis", glossed as "vakṣyamāṇāni" and "vakṣyamāṇaiḥ" at 8.88; see also the citation of this phrase at 8.99, where "ebhis" is used.
-
-ननु च यद्य् अहम् एवंकुर्यां तद् इदम् अनिष्टम् आप्नुयाम् इति संकीर्तनक्रियाशपथं तं यः कारयेत् स **शापयेद्** इत्य् उच्यते । **सत्येन** शपे सत्यादिनिबन्धनो ऽयं धर्मो वा मे निष्फलः स्याद् इति । एवं चायुधानाम् अपि करणत्वं वाहनानां च । एतैर् आत्मानं शपतो न वा निष्फलानि स्युर् इति । **गोबीजकाञ्चनानि** वैश्यो हस्तेन स्पर्शयित्वाभिशपेद् एतानि वा मे निष्फलानित् पूर्ववत् । **शूद्रं सर्वैस् तु पातकैः** "वक्ष्यमाणानि पातकानि मे स्युः" इति शूद्रो वाच्यते ॥ ८.११३ ॥
+*Nārada* (1.248).—‘Let him cause the Brāhmaṇa to swear by truth, the
+Kṣatriya by his conveyance and by his weapons, the Vaiśya by his gold,
+grains, cows and so forth; or all by venerable deities or deified
+ancestors, or by their own pious gifts or meritorious deeds.’

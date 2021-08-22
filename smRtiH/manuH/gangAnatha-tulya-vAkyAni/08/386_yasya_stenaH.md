@@ -2,9 +2,25 @@
 title = "386 यस्य स्तेनः"
 
 +++
+**(verses 8.386-387)  
+**
 
-**यस्य** राज्ञः **पुरे** देशे राष्ट्रे **स्तेनश्** चौरो **नास्ति** स शक्रस्येन्द्रस्य लोकं स्थानं भजते स्वर्गं प्राप्नोति । नान्यस्त्रीगो, अन्यस्य या स्त्री भार्यावरुद्धा पुनर्भूर् वा, स्त्रीग्रहणम् अभार्याया अप्य् असंबन्धिन्याः प्रतिषेधार्थम् । **दुष्ट्वाक्** त्रिविधस्याक्रोशस्य कर्ता । **साहसिक** उक्तः । दण्डेन हन्ति दण्डपारुष्यकृत् । **शक्रलोकभाग्** इति सर्वत्रानुषङ्गः । स्तेनादीनां स्त्रीसंग्रहशेषो[^३०६] ऽयम् अर्थवादः ॥ ८.३८६ ॥
+*Viṣṇu* (5.196).—‘The King in whose dominion there exists neither thief,
+nor adulterer, nor calumniator, nor robber, nor murderer, attains the
+world of Indra.’
 
+*Cf*. The Upaniṣad text, where a king is represented as saying—‘In my
+realm there is no thief, no miser, no drunkard, none who is not tending
+the Fires, nor any illiterate person, no female libertine,—whence then
+can there be any male libertine.’
 
-[^३०६]:
-     M G: sarīrasaṃgrahaśeṣo; DK: sarīranigrahaśeṣo
+*Yama* (Vivādaratnākara, p. 408).—‘Wicked persons, criminals, rogues,
+gamblers, oppressors,—that King in whose realm these persons are not
+found becomes entitled to the realm of India.’
+
+*Nārada* (18.7-8).—‘Whenever wicked acts, opposed to the dictates of the
+sacred law, have been committed, the King, after having reflected upon
+the matter, shall himself inflict punishment upon those who deserve it.
+What is opposed to revealed and traditional law, or injurious to living
+beings, must not be practised by the King; wherever it is practised, he
+must check it.’

@@ -2,17 +2,17 @@
 title = "312 क्षन्तव्यम् प्रभुणा"
 
 +++
+**(verses 8.312-313)  
+**
 
-**कार्यिणो** ऽर्थिप्रत्यर्थिज्ञातिसुहृदः । कस्मिंश्चिद् वध्यमाने[^५] यदि तत्पिता तन्माता वा राजानं क्षिपेत् कुत्सयेत् अभ्शपेद् वा तदा क्षमा कार्या । **बाला**दीनां **कार्यिणाम्** अपि[^६] । एवम् **आत्मने हितं** कृतं भवति । क्षन्तव्यम् इत्य् एतद्विधेः फलम्[^७] एवात्महितम् ॥ ८.३१२ ॥
+*Nārada* (Theft, 39-40).—‘Neither for the purpose of gaining a friend,
+nor for the acquisition of wealth, should a wicked criminal be suffered
+by the King to go free. By pardoning an offender, a king commits the
+same offence as by punishing an innocent man. Religious merit accrues to
+him from punishing the wicked.’
 
+*Bṛhaspati* (22-33).—‘By punishment of the wicked and release of the
+virtuous, the renown and religious merit of the King is increased.’
 
-[^७]:
-     M G: etad vividhaphalam
-
-
-[^६]:
-     M G DK omit: api
-
-
-[^५]:
-     M G DK (1: 78): dhanyamāne
+*Gautama* (12-52).—‘Or pardon may be granted in accordance with an
+assemblage of persons learned in the Vedas.’

@@ -2,13 +2,14 @@
 title = "368 स-कामान् दूषयंस्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 403), which adds that this
+applies to the case where the maiden is of a lower caste;—in
+*Parāśaramādhava* (Vyavahāra, p. 321);—in *Mitākṣarā* (2.288) as
+providing for a case where the finger-defilement occurs in the case of a
+willing maiden. *Bālambhaṭṭī* adds that ‘*tulyaḥ*’ means a man of the
+same caste as the girl;—he is to be fined 200 with a view to prevent
+repetition.
 
-**सकामाम्** इत्य् अनुवादः, पूर्वस्यापि सकामविषयात् । अभिषह्य करणे पूर्वं दण्डः,[^२६१] अप्रकाशं चौर्यवद् द्विशतो ऽङ्गुलीच्छेदवर्जितः । अथ कस्मिंश्चित् पुरुषे ऽनुरागवती कन्या तेन संयुज्यमाना कन्यात्वनिवृत्तौ सकामा येन विकृतीक्रियते तस्यायं दण्डः । अथ वा[^२६२] हस्तस्पर्शमात्रम् इह दूषण । प्रार्थनीयायाः कन्याया हस्तस्पर्शः "मया स्पृष्टां ज्ञात्वा नान्य एताम् अर्थैष्यते ऽन्यस्मिन्न् अनुरागिणीं मन्यमानः" ॥ ८.३६८ ॥
+It is quoted in *Vīramitrodaya* (Vyavahāra, 157a).
 
 
-[^२६२]:
-     M G omit: vā
-
-
-[^२६१]:
-     DK (1: 1868): pūrvadaṇḍaḥ

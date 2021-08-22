@@ -2,9 +2,11 @@
 title = "322 पञ्चाशतस् त्व्"
 
 +++
+This verse is easily understood.
 
-सुबोधो ऽयम् । **मूल्याद्** इति- नापहृतम् एव द्रव्यं देय, क्वचित् तज्जातीयं नैव प्राप्यते । अतो रूपकैर् धान्यादिना वा विनिमेयम्[^६९] ॥ ८.३२२ ॥
+‘*Eleven times the value*.’—It is not only that the stolen article is to
+be restored; for sometimes it may so happen that a thing of the same
+kind is not available. Hence money or grain may be given in
+exchange.—(322)
 
 
-[^६९]:
-     M G: nimeyam

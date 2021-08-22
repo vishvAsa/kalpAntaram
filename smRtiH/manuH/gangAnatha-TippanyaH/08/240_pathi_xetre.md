@@ -2,29 +2,31 @@
 title = "240 पथि क्षेत्रे"
 
 +++
+‘*Vārayet*’—Rāmacandra reads ‘*cārayet*’ and takes the whole verse as a
+single sentence—‘If the cattle-keeper *takes the cattle to graze* in a
+field that is fenced, he shall be fined along with his master.’
 
-**परिवृते पथि क्षेत्रे** **ग्राम**समीपवर्तिनि च परीहारमध्यगते । **अन्त**शब्दः समीपवचनः । यदि भक्षयेत् पशुः **सपालश्** च स्यात्, संनिहिते पाले,[^११०] **पालः शतदण्डार्थः** पशोर् दण्डासंभवात् । पाले ऽसंनिहिते ऽपि गृहे यदा[^१११] । नाप्य् असौ[^११२] पालः प्रसिद्धो न पुनस् तत्प्रेषितो वारिको रूपकमात्रवेतनः[^११३] । **विपालाः पशवो वारयितव्या** दण्डादिना, न तु दण्डनीयाः । **विपालाश्** चोत्सृष्टवृषादयः । अन्येषां तु विपालानां स्वामिनो दण्डः । 
+This verse is quoted in *Vivādaratnākara* (p. 232), which reads
+‘*cārayet*’ for ‘*vārayet* it explains the meaning of the verse to
+be—‘The field on the road-side or on village precincts being duly
+fenced, if its crops are eaten (this clause is to be added), then the
+keeper of the cattle is to be fined one hundred (*paṇas*), and the stray
+cattle is to he caught and tied up.’
+
+It is quoted in *Parāśaramādhava* (Vyavahāra, p. 266), which adds the
+following notes:—When a field on the road-side has been duly fenced, if
+cattle break through the fence and destroy the crops, the keeper of the
+cattle is to be filled a hundred *paṇas*; similarly when a field on the
+precincts of a village has been duly fenced, if cattle break into it and
+eat the crops, the keeper is to be fined a hundred *paṇas*. This
+indicates that there is to be no punishment if the field is unfenced.
+
+It is quoted in *Aparārka* (p. 771), which explains the meaning to be
+that when the field on the road-side and other such places has been duly
+fenced, if it is damaged by cattle which is attended by their keeper,
+then the keeper is to be fined one hundred; but if the cattle is
+unattended it shall be driven off;—and in *Vīramitrodaya* (Vyavahāra,
+137b), which explains ‘*pathi kṣetre*’ a s ‘in a field close by the
+path,’—and ‘*grāmāntīye*’ as ‘lying on the outskirts of the village.’
 
 
-[^११३]:
-     M G: rūpamātracetanaḥ
-
-
-[^११२]:
-     DK omits: nāpy asau
-
-
-[^१११]:
-     DK: gṛhādau kāryavyagratayā (this looks like a conjectural reading)
-
-
-[^११०]:
-     M G J omit: pāle; J: saṃnihitaḥ
-
-- span style="text-decoration-underline;">अथ वा</u> **अपरिवृते** इति प्रश्लेषः । क्षेत्रसंबन्धाच् च गम्यमानः क्षेत्रस्वामी सपाल इत्य् अन्यपदार्थतयाभिसंबध्यते "सहपालेन"[^११४] इति । 
-
-
-[^११४]:
-     M G: sahapāleti
-
-क्षेत्रे को दण्ड्यः । उभौ दण्ड्यौ । पालः क्षेत्रिकश् च । क्षेत्रिकस् तावत् किल किम् इति पथि क्षेत्रे वृतिं न कृतवान् । पालेनापि वृतौ चास्त्यां किं क्षेत्रं खादयितव्यम् । विपालं[^११५] प्रमादाद् यूथच्युतं वारयेत् । तथा च गौतमः- "पथि क्षेत्रे ऽनावृते पालक्षेत्रिकयोः" (ग्ध् १२.२१) इति ॥ ८.२४० ॥

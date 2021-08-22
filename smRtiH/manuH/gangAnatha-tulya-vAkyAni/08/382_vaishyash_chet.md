@@ -2,17 +2,11 @@
 title = "382 वैश्यश् चेत्"
 
 +++
+**(verses 8.382-385)  
+**
 
-**अगुप्ताया** **ब्राह्मण्यां**[^२९६] गमने "वैश्यं[^२९७] पञ्चशतं कुर्यात् क्षत्रियं सहस्रिणम्" (म्ध् ८.३७६) इति । तत्र वैश्यस्य पञ्चशतः[^२९८] । य एव परिपालयति स एव चेन् नाश्यति युक्तं तस्य दण्डमहत्त्वम् ॥ ८.३८२ ॥
-
-
-[^२९८]:
-     J: pañcaśataṃ
-
-
-[^२९७]:
-     M G: vaiśyaḥ
-
-
-[^२९६]:
-     M G J: brāhmaṇyā
+\[See Texts under
+[371](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201304.html),
+[372](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201305.html)
+and
+[374-378](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201307.html#comparative-notes).\]

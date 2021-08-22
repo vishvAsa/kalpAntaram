@@ -2,11 +2,12 @@
 title = "088 ब्रूहीति ब्राह्मणम्"
 
 +++
+*Viṣṇu* (8.20-23).—‘The Brāhmaṇa witness, the Judge shall exhort to
+*declare*,—the Kṣatriya, to *declare the truth*:—the Vaiśya he shall
+address thus:—‘*Thy kine and gold shall yield thee no fruit*”;—the Śūdra
+he should address thus:—“*Thou shalt have to atone for all heavy
+crimes*.”’
 
-
-[^३०९]:
-     All editions read "sarvais," but it is clear that Medhātithi's reading was "ebhis", as is evident from his commentary: "vakṣyamāṇaiḥ pātakaiḥ", and the reading "śūdram ebhis tu pātakaiḥ" given at 8.99.
-
-<u>क्व पुनर्</u> इयं तृतीया **गोबीजकाञ्चनैर्** इति । यदि तावत् **पृच्छेद्** इति क्रियासंबन्धात् करणम् उच्यते, तद् अनुपपन्नम् । शब्दो हि तत्र करणम्, नार्थः । 
-
-<u>नैष दोषः</u> । यथा गवादीनि प्रश्नकरणत्वं प्रतिपद्यन्ते तथा व्याख्येयम् । **पातकैर्** इत्य् उभयशेषो विज्ञेयः- **गोबीजकाञ्चनैः** **पातकैर्** इति । तेनायम् अर्थो भवति । गोबीजकाञ्चनविषयैः पातकप्रदर्शनैः पृच्छेद् इति । "गां हृत्वा हत्वा वा यत् पातकं तद् भवति तव मिथ्या वदतः" इति प्रश्नवाक्यं पठितव्यम् । एवं वक्ष्यमाणैः पातकैः शूद्रं पृच्छेत् । पातकशब्दस् तु पातकप्रदर्शनार्थेष्व्[^३१०] अभिधानेषु द्रष्टव्यो मुख्यानां प्रश्नकरणत्वाभावाद् इत्य् उक्तम् ॥ ८.८८ ॥
+*Nārada* (1.198).—‘He shall cause the Brāhmaṇa to swear by truth, the
+Kṣatriya by his conveyances and weapons, the Vaiśya by his cows, grain
+or gold; and the Śūdra by all sorts of crimes.’

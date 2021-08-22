@@ -2,21 +2,23 @@
 title = "314 राजा स्तेनेन"
 
 +++
+In as much as nothing is specified, the ‘*thief*’ here is to be
+understood as one who has stolen *gold*; specially as it is only in the
+case of such a thief that other Smṛti-texts have laid down the
+‘approaching of the king.’ The present text itself cannot be taken as an
+injunction laying down the act of ‘approaching’; because the
+subject-matter of the present context consists of the injunction of
+punishments for theft, as clearly declared above in Verse 301—‘I am now
+going to expound the law relating to punishments for theft.’ Hence the
+present can only be taken as a *re-iteration* of the act of
+‘approaching’ (enjoined elsewhere); hence it must mean that ‘one who has
+stolen gold should approach the king’—‘*with flying hair*.’
 
-अविशेषोपादाने सुवर्णहारी **स्तेनो** द्रष्टव्यः, तस्यैव शास्त्रान्तरे गमनविधानात् । न चेदम् आगमनपरं[^११] विधिशास्त्रम्,[^१२] दण्डविधित्वात् । उक्तं हि "स्तेनस्यातः प्रवक्ष्यामि विधिं दण्डविनिर्णये" (म्ध् ८.३०१) इति । अतो ऽनुवादओ गमनस्यात्र[^१३] । राजसकाशं सुवर्णचौरेण गन्तव्यम्[^१४] । **मुक्तकेशेन धीमता** दैर्यवता । "धावता" इति पाठान्तरम् । **आचक्षाणेन** कथयता पथि तत्पातकम् "**एवंकर्मास्मि** ब्राह्मणस्य मयेयत् सुवर्णं हृतम् इति कुरु निग्रहं मे" ॥ ८.३१४ ॥
+‘*Wise*’—courageous.
+
+Another reading for ‘*dhīmatā*,’ ‘*wise*,’ is ‘*dhāvatā*,’ ‘*running*.’
+‘*confessing*’—proclaiming his crime on the road—‘*i have done
+this*’—act of stealing brāhmaṇa’s gold—inflict upon me the proper
+punishment.’—(314)
 
 
-[^१४]:
-     DK: gantavyam iti
-
-
-[^१३]:
-     M G: ato 'nuvādam agamanasyātra; DK: ato 'nuvādamātraṃ (and connects with what follows)
-
-
-[^१२]:
-     M G: vidhiśāstra-
-
-
-[^११]:
-     M G: vedanam āgamanaparaṃ

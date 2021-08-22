@@ -2,13 +2,13 @@
 title = "255 ते पृष्टास्"
 
 +++
+When the witnesses declare an opinion ‘*unanimously*’—all together; and
+there is no difference of opinion among them.
 
-**ते** साक्षिणो **यथा** यादृशं **निश्चयं** **ब्रूयुः** **स्मस्ताः** सर्व एव । न पुनर् वाक्यभेदोक्तौ न्यायः "द्वैधे च बहूनाम्" (य्ध् २.८०) इति । **निबध्नीयात्** पत्रके लिखेत् ।[^१६०] साक्षिणश् च नाम विभागेन[^१६१] ॥ ८.२५५ ॥
+In the case of a difference of opinion, the opinion of a majority of
+them should be accepted.
+
+‘*Lay down*’—write down upon a piece of paper;—as also the names of the
+witnesses.—(255).
 
 
-[^१६१]:
-     M G DK: vibhāge (DK na) sākṣimātreṇa
-
-
-[^१६०]:
-     M G DK add: tatra

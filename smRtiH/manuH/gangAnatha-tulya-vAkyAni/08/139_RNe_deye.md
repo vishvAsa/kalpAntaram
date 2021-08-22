@@ -2,13 +2,33 @@
 title = "139 ऋणे देये"
 
 +++
+*Viṣṇu* (6.20-22).—‘If a creditor goes before the King and fully proves
+his demand, the debtor shall pay as fine to the King a tenth part of the
+sum proved. The creditor, on receiving the sum, shall pay the twentieth
+part of it. If the whole demand has been contested by the debtor, and
+even a part of it has been proved against him, he must pay the whole.’
 
-यो राजसभायाम् आनीतो धर्मेण ऋणं देयतया प्रतिजानीते "सत्यम् अस्मै धारयामि," स **पञ्चकं शतम् अर्हति** दण्डम् इति शेषः । अनेन संकल्पितेन विंशतितमो भागो दण्ड्यते । किम् इति । "मत्सकाशम्[^१७७] उत्तमर्णः प्रेषितो बहिर् एव कस्मान् न परितोषितः" इत्य् अतो ऽनेन शास्त्रव्यतिक्रमेण दण्डम् अर्हति । यस् तु व्यतिक्रमान्तरं करोत्य् **अपह्नुते** "नाहम् अस्मै धारयामि" इति, स तैः प्रतिपादितस् **तद्द्विगुणं** । तस्मात् पञ्चकाद् द्विगुणं दशकं शतम् इत्य् अर्थः । **तन् मनोः** प्रजापतेर् **अनुशासनं** सृष्टिकालप्रभृतिव्यवस्था नीतिर् इति यावत् ।
+*Yājñavalkya* (2.44).—‘Out of the sum proved against him, the King shall
+make the debtor pay ten per cent, (as fine) and the creditor, on having
+realised his dues, shall pay five per cent,’
 
+*Nārada* (1.132-134).—‘If a wealthy debtor, from malice) refuses to pay
+his debt, the King shall compel him to pay it by forcible means, and
+shall take five in the hundred for himself. If the debtor acknowledges
+the debt with his own mouth, the King shall take from him ten per cent,
+of the debt as fine; and twice as much if he has been convicted. If the
+debtor, owing to a calamity, has not means sufficient to discharge the
+whole debt, the claim of the creditor shall be entered in a legal
+document, specifying the caste of the debtor and of the creditor, their
+names, and the names of their neighbours.’
 
-[^१७७]:
-     M G: tatsakāśam
+*Bṛhaspati* (11.60-02).—‘When the time fixed for pay ment has elapsed,
+and the accruing of interest has ceased, the creditor may either recover
+his loan or cause a new bond to bo written in the form of compound
+interest. This rule concerns an acknowledged debt; but a debtor denying
+his liability shall be compelled to pay, on the debt being proved in a
+court, by a document or by witnesses.’
 
-- span style="text-decoration-underline;">अन्ये तु</u> **तच्**छब्देन देयम् एव प्रत्यवमृशन्ति । यावत् तस्मै देयं तद्द्विगुणम् । तेन यावद् ऋणम् इत्य् अनेनैकवाक्यं भवति । अन्यथा वाक्यभेदः । विषयविशेषानिर्देशाद् एकविषयत्वे विकल्पः प्राप्नोति । 
-
-<u>स च</u> न युक्तो द्विगुणस्यात्यन्तबहुत्वात् । असत्य् अपि निर्देशे तस्य विषयो दर्शनीयः,[^१७८] तस्य प्रत्यासन्ने[^१७९] पञ्चकम् इति, अर्थात्[^१८०] तस्यैवानुप्रत्यवमर्शो युक्तः ॥ ८.१३९ ॥
+*Yama* (Vivādaratnākara, p. 78).—‘If a wealthy debtor refuses to repay
+the debt, through ill-will, he should be compelled by the King to pay,
+after having realised from him double the amount of the claim.’

@@ -2,21 +2,21 @@
 title = "082 इतरेष्व् आगमाद्"
 
 +++
+In the Cycles other than the *Kṛta*;—‘*from the scriptures*,’ called
+‘Veda’;—‘*virtue*’—‘*foot by foot*’—by one foot in each succeeding
+Cycle,—‘*fell off*,’ was carried away;—the Vedic Texts disappeared, by
+reason of the deterioration in the powers of learning and assimilating
+of men (le arning the texts).
 
-कृतयुगाद् अन्येषु युगेष्व् **आगमद्** वेदाख्याद् **धर्मः पादशः** युगे युगे पादेन्**आवरोपितो** व्यपनीतः । अन्तर्हिता[^१२७] वेदशाखाः,[^१२८] पुरुषाणां ग्रहणावधारणशक्तिवैकल्यात् । यो ऽप्य् अद्यत्वे धर्मो ज्योतिष्टोमादिः प्रचरति सो ऽपि चौर्यादिभिः पादशो हीयते । ऋत्विजां यजमानानां दातॄणां संप्रदानानां चैतैर् दोषैर् युक्तत्वान् न यथाविधि धर्मो निष्पद्यते । फलम् अतो यथोक्तं न प्राप्यते[^१२९] । तेन धर्मापायहेतूनां चौरिकादीनां न युगैर् यथासंख्यं संबन्धः,[^१३०] सर्वेषाम् अद्योपलम्भात् ॥ १.८२ ॥
+The ‘*virtuous acts*’—in the form of the *Jyotiṣṭoma* and other
+sacrifices, that are performed now a days,—these also ‘*deteriorated
+foot by foot*’ on account of ‘*theft*’ &c.; *i.e*., since Priests,
+Sacrifices, Bestowers and Recipients of gifts, are all beset with the
+said evils, the virtuous act is not accomplished in the proper manner,
+and hence the result mentioned (as accruing from that act) also is not
+attained. In as much as this is the real meaning, we do not take
+‘*theft*’ and the rest as applied to each of the three Cycles
+respectively; specially as all of them (theft &c.,) are found prevalent
+even now a days (in *Kali*)—(82).
 
 
-[^१३०]:
-     M G omit: sambandhaḥ
-
-
-[^१२९]:
-     M G: pariprāpyate
-
-
-[^१२८]:
-     M: tāvad eva śākhāḥ
-
-
-[^१२७]:
-     M G: vyapanītaḥ antarhitaḥ |

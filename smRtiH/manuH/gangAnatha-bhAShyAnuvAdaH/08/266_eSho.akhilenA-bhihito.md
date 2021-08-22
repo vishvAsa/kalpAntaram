@@ -2,13 +2,18 @@
 title = "266 एषो ऽखिलेनाऽभिहितो"
 
 +++
+This verse sums up the preceding section and introduces the next.
 
-पूर्वोपसंहारो ऽपरसंक्षेपोपन्यासः श्लोकार्थः । "दण्डवाचिके" (म्ध् ८.६) इत्य् उक्त्वा क्रमभेदो लाघवाद् वाक्पारुष्यं स्यात् ततो दण्डव्यापारः । द्वन्द्वे चेतरेतरयोगाद् व्यस्तक्रमसमासार्थप्रतिपत्तेर् एकैकस्योभयार्थप्रतिपादनाद्[^१८५] दण्डशब्देन वागर्थो ऽप्य् उपात्त इति कः क्रमभेदः । तथा च[^१८६] "यथासंख्य"सूत्रारंभो (पाण् १.३.१०) महाभाष्यकारेण समर्थितः, एतद् एव दर्शनम् आश्रित्य "संज्ञासमासनिर्देशात्" (कात् ओन् १.३.१० – १) इति ॥ ८.२६६ ॥
-
-
-[^१८६]:
-     M G add: yathā
-
-
-[^१८५]:
-     M G: -bhayārthāpratipādanād
+Under 8.6, this head of dispute has been mentioned as ‘assault—corporal
+and verbal’ (Hurt and Defamation) \[‘Hurt’ coming first\], in the
+present context, the latter has been taken up first. This alteration of
+the order of sequence is due to considerations of simplicity: In most
+oases actual *physical* assault is preceded by *verbal* assault.
+Further, a copulative compound (as ‘*daṇḍavācike*’ of verse 6) denotes
+only mutual relationship, it lays no stress upon the order in which the
+terms occur. So that both kinds of ‘assault ’—*physical* as well as
+*verbal*—being equally meant, what sort of ‘alteration of order of
+sequence’ is there in the present case? This has been folly explained by
+the author of the *Mahābhāṣya* on Pāṇini, 1.8.10; and it is on the basis
+of this theory that the two assaults have been mentioned by means of a
+compound.—(206)

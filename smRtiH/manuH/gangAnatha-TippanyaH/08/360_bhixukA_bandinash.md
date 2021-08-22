@@ -2,5 +2,8 @@
 title = "360 भिक्षुका बन्दिनश्"
 
 +++
-
-**भिक्षुका** भिक्षाजीविनो भिक्षायाचनारूपं संभाषणम् **अवारिताः** **कुर्युर्** यदि स्वामिना न निषिद्धाः । अथ वा नैते वारयितव्याः । **बन्दिनः** स्तावकाः । **दीक्षिता** यज्ञे भृतिवचनार्थं संभाषेरन् । **कारवः** सूपकारादयः । एते तीर्थादिष्व् अपि न निवार्याः ॥ ८.३६० ॥
+This verse is quoted in *Vivādaratnākara* (p. 386), which adds the
+following notes ‘*Vandinaḥ*,’ bards singing the praises of
+people,—‘*dīkṣitāḥ*,’ persons initiated for a sacrificial
+performance,—‘*kāravaḥ*,’ professional artisans;—and in
+*Vyavahāra-Bālambhaṭṭī* (p. 1002).

@@ -3,20 +3,4 @@ title = "391 यथार्हम् एतान्"
 
 +++
 
-[^३२०]यथा तत् कर्तव्यं तथेदानीम् आह । यो यादृशी पूजाम् अर्हति गुनानुरूपेण तं तथैव्**आभ्यर्च्य** **ब्राह्मणैर्** मन्त्रिपुरोहितादिभिः । अर्चायां साहित्यं[^३२१] धर्मप्रवचने वा । तदा च ब्राह्मणाः सत्या विज्ञेयाः । तैः **सह** **स्वधर्मं**[^३२२]** **न्याय्यम् अर्थं बोधयेत् । सिद्धे महत्त्वे सभ्येभ्य उपदेशः प्राधान्यार्थः । तान् पुरस्कुर्यात् । तथा हि । न राज्ञः क्रुध्यन्ति शास्त्रेण । प्रीतिस्तुतिवचनैः प्रथमं प्रशमय्य व्यपनीतक्रोधान्[^३२३] कृत्वा ततो ब्रूयात् ॥ ८.३९१ ॥
-
-
-[^३२३]:
-     M G: prathamam prathamam apy avyapanītakrodhān
-
-
-[^३२२]:
-     M G: svadharma-
-
-
-[^३२१]:
-     M G: ācāryasāhitye
-
-
-[^३२०]:
-     DK (1: 1927) does not give the commentary on this verse
+Having, with the assistance of Brāhmaṇas, received them with due honour, the king shall, at first, pacify them with soothing words, and then explain to them their duty.—(391)

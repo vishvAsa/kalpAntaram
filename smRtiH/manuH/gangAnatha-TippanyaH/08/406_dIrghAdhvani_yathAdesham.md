@@ -2,21 +2,15 @@
 title = "406 दीर्घाध्वनि यथादेशम्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Rājanīti, p. 270), which
+explains the meaning to be that for voyages by river, the freight, etc.
+payable is to be determined by considerations of place and time; and in
+the case of voyages *by sea*, there is no such hard and fast rule, the
+freight payable being what is agreed upon in each case.
 
-पारावारोत्तारणे पूर्वं दानम् । अयं नावा ग्रामान्तरगमने । **दीर्घाध्वनि** योजनादिपरिमाणेन गन्तव्ये[^३७४] । **यथादेशम्** । यस्मिन् देशे यत् तरिदानं नाविकैः स्थापितं तद् एव । **यथाकालम्** । कालो वर्षादिः बहूदकः,[^३७५] तत्रान्यन् मूल्यम् । स्वल्पोदकायां सरिति चिरेण ग्रामप्राप्तौ नाविकानाम् अधिकतरायासवताम् अधिकमूल्यम् । तरमूल्ये कारणे कार्यशब्दस् **तरो**[^३७६] **भवेद्** इति । यावद् यावद् दीर्घो देशस् तावत् तावत् तरपणो वर्धते । एतच् च **नदीतीरेषु विद्यात्** । **समुद्रे** सागरे **नास्ति** तर**लक्षणम्** । न शक्यते लक्षयितुं कति योजनानि नौर् व्यूढा येन तदनुसारेण मूल्यं कल्प्यते[^३७७] । नदनदीषु शक्यते ज्ञातुम् अयं पन्था योजनमात्रो द्वियोजन इति । तत्र हि तत्र ग्रामाः परिमाणचिह्नम् । तत्रैकयोजने ऽध्वनि यन् मूल्यं द्विगुणं तद् द्वियोजने । समुद्रे तु बहुवाह्या नौः, न च सुष्टु शक्यते योजनादिपरिच्छेदः कर्तुम् । अत एवोक्तं **समुद्रे नास्ति लक्षणम्** इति ॥ ८.४०६ ॥
-
-
-[^३७७]:
-     M G: kalpante; DK (4: 1348; not 1: 1945) kalpyeta
-
-
-[^३७६]:
-     M G: tare
-
-
-[^३७५]:
-     M G J: varṣādibahūdakas
-
-
-[^३७४]:
-     M G: -parimāṇenāgantavye
+It is quoted in *V* *yavahāra-Bālambhaṭṭī* (p. 263), which has the
+following notes:—What has been said in the preceding verse applies to
+river-crossings; in the case of long voyages by river the fares are to
+be determined by such considerations as whether the river is sluggish or
+swift, whether the season is summer or the rains; for voyages by sea, no
+rates can be fixed.

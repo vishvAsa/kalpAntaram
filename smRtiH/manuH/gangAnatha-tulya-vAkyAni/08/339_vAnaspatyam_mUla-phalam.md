@@ -2,25 +2,26 @@
 title = "339 वानस्पत्यम् मूल-फलम्"
 
 +++
+*Gautama* (12.28).—‘One may take as one’s own, grass for a cow, and fuel
+for his fire; as also flowers of creepers and trees and their fruit, if
+these be unfenced.’
 
-वनस्पतय[^१३५] एव **वानस्पत्यं** वृक्षाः । स्वार्थे प्रत्ययः । **ग्रासार्थं** गृह्यमाणम् **अस्तेयं** वंशाङ्कुरादि । **मूलफलं** वनस्पतीनाम् अन्यद् बिससस्यादि । सूत्रादिगणे (म्ध् ८.३२६) अग्रासार्थं मूलफलाहरणे दण्ड उक्तः । **अस्तेय**वचनं **ग्रासार्थम्,** मात्रार्थम्[^१३६] अक्षीणवृत्तेर् अपि कथंचिज् जातलौल्यस्य स्मृत्यन्तरदर्शनात् स्वापरिवृत्तेश्[^१३७] च दण्डः । तथा च **गौतमः-** "पुष्पाणि स्ववद् आददीत फलानि चापरिवृत्तानाम्" (ग्ध् १२.२८) इति । **दार्वग्न्यार्थम्,**[^१३८] आहिताग्नेर् असंनिहिते वनस्पताव् उद्वात्य् अग्नौ तद्धारणार्थं काष्ठम् अदोषम्, पालाशीर् वा समिधो व्यादध्यात् । अप्रचुरपलाशे च ग्रामे कथं स्याद् इति यदि गृह्येरन्[^१३९] न दोषः । **तृणं च गोभ्यः** । तादर्थ्ये चतुर्थी । गोग्रहणात् प्रस्तारार्थं दोष एव । ये तु ग्रासार्थपदेन गवाम् अभिसंबन्धम् इच्छन्ति तेषां गोभ्य इति नोपपद्यते । षष्ठी हि तत्र युक्ता ॥ ८.३३९ ॥
+*Āpastamba* (1.28.1-6).—‘He who, under any condition whatsoever, covets
+and takes another man’s property is a *thief*; thus teach Kautsa and
+Hārīta, as well as Kaṇva and Puskarsādi. Vārsyāyani declares that there
+are exceptions to this law, in regard to some things;—*e.g*., seeds
+ripening in the pod, food for a draught-ox; if these are taken, the
+owner should not forbid it. To take even these in large quantities is
+sinful. Hārīta declares that in every case the permission of the owner
+must he obtained first.’
 
+*Yājñavalkya* (2.166).—‘Grass, fuel and flowers, the twice-born may take
+from all places.’
 
-[^१३९]:
-     M G: syād ityādi gṛhyeran; J: syād ityāditi gṛhyeran
+*Smṛtyantara* (Aparārka, p. 774).—‘Grass, wood, flower or fruit—if one
+takes any of these without permission, he deserves to have his hand cut
+oil.’
 
-
-[^१३८]:
-     M G: doṣārtham
-
-
-[^१३७]:
-     J: -darśanāc cāparivṛtteś
-
-
-[^१३६]:
-     J: grāsārthamātrārtham
-
-
-[^१३५]:
-     M G: vanaspata; Dk (1: 1722): vanaspatir
+*Nārada* (Theft, 22-24).—‘For stealing, wood, cane, grass and the
+like...... vegetables, green roots, grass or flowers... a fine of five
+times the value of the article stolen.’

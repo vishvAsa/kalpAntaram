@@ -2,5 +2,8 @@
 title = "083 सत्येन पूयते"
 
 +++
+**(verses 8.79-86)  
+**
 
-**पूयते** शुद्ध्यत्य् अन्यस्माद् अपि पापान् मुच्यत इति यावत् । शेषं गतार्थम् ॥ ८.८३ ॥
+See Comparative notes for [Verse
+8.79](http://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").

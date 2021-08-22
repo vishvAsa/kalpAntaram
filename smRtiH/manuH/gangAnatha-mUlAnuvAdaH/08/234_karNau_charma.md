@@ -3,4 +3,4 @@ title = "234 कर्णौ चर्म"
 
 +++
 
-आयुषः क्षयान् **मृतेषु पशुषु स्वामिनः कर्णाद्य्** अर्पणीयम् । **गोरोचनां** गवां शृङ्गेषु चूर्णं भवति । **बस्तिर्** अङ्गविशेषः । **अङ्काः** कर्णादयः, स्वामिविशेषज्ञानार्थं चिह्नानि । तान् अपि दर्शयेत् । एवं पालस्य शुद्धिः । अङ्कदर्शनेन हि प्रत्यभिज्ञा भवत्य् अयं स पशुर् इति ॥ ८.२३४ ॥
+On the death of the animals, he shall make over to the owner their ears, skin, tail-hairs, bladder and tendons and the concrete bile, and also point out their marks.—(231)

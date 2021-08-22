@@ -2,33 +2,33 @@
 title = "242 अनिर्दशाहाङ् गाम्"
 
 +++
+The present verse lays down an exception to what has been said above.
 
-**गो**ग्रहणान् महिष्यादिषु दोषः । **वृषाः** उक्षाणः[^१२९] । **देवपशवो** देवयागार्थं यजमानेन कल्पिताः प्रत्यासन्नयागाः । अथ वेष्टकादिकूटस्थापिता करिहरादीनां प्रतिकृतयो[^१३०] देवा उच्यन्ति । तेषां पशवः । तान् उद्दिश्य केनचिद् उत्सृष्टाः । तदा ह्य् अस्य देवानां पशूनां च स्वस्वामिसंबन्धस्य संभवात्, पुरुषस्वामिभावस्यासंभवात्[^१३१], देवायतनमण्डनानाम् चैष धर्मः । न तु तत्पालकैर् वाहदोहाद्यर्थं ये देवगृहेषु धार्यन्ते । यतः पालका एव तेषां देवानाम् अर्थं[^१३२] विनियुञ्जते । अतस् तत्र पालका एव स्वामिनः । अतो युक्तः स्वामिवताम् अन्येषां यो धर्मः स तत्र । आयतनमण्डनास् त्व् अपरिगृहीता[^१३३] अव्यवधानेन देवपशुशुद्धिम् उत्पादयन्ति । वृषोत्सर्गादिविधानोत्सृष्टा वृषाः कैश्चित् परिगृह्यन्ते । ततः **सपाला** अथ वापरिगृहीतास्[^१३४] ततो **विपालाः**, उभयेषाम् अदण्डः[^१३५] ॥ ८.२४२ ॥
+Since the text speaks of the ‘*cow*,’ it follows that, in the case of
+other animals, such as the buffalo and the like, the wrong done is
+cognisable. The term ‘*vṛṣāh*’ stands for *bulls*.
+
+‘*Dedicated cattle*,’—such cattle as have been selected by a sacrificer
+for being used at an impending sacrificial performance. Or the term
+‘*deva*’ may stand for the images of Viṣṇu, Śiva or other Gods installed
+within brick-structures; and such ‘cattle’ as may have been presented to
+these ‘Gods’ would be called ‘*dedicated cattle*’; as in such cases
+there would be a relation of possession and possessed between the ‘Gods’
+and the ‘cattle.’
+
+What is declared here pertains to such cattle as serve as ornaments of
+temples; and not to those that are only brought there for the purpose of
+their milk being offered to the temple. Because in the case of the
+latter, it is the keepers that offer the milk to the Gods, and hence are
+the ‘owners’ of the cattle; so that these have to be regarded as on the
+same footing as other owners. On the other hand, those that serve as
+ornaments to the temple have been presented to the temple, and as such
+come to be regarded as being ‘dedicated cattle.’
+
+Some people hold that the term ‘*vṛṣāh*’ stands for such bulls as have
+been let off, in connection with the ceremony of *Vṛṣotsarga*.
+
+Such cattle—whether they be ‘*with keepers*,’ or not belonging to any
+one and hence ‘*without keepers*’—are not to be penalised.—(242)
 
 
-[^१३५]:
-     M G: ayaṃ daṇḍaḥ
-
-
-[^१३४]:
-     M G DK: cāparigṛhītās
-
-
-[^१३३]:
-     M G: -maṇḍanasthaḥ parigṛhītā
-
-
-[^१३२]:
-     DK: arthe
-
-
-[^१३१]:
-     J omits: puruṣasvāmibhāvasyāsaṃbhavāt; M G: puruṣasvāmisvāmibhāvasya saṃbhavāt
-
-
-[^१३०]:
-     M G: prakṛtayo
-
-
-[^१२९]:
-     M G: satkārair

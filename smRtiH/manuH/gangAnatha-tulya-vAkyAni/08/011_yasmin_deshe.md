@@ -2,9 +2,23 @@
 title = "011 यस्मिन् देशे"
 
 +++
+*Bṛhaspati* (1.11).—‘That assembly is equal in sanctity to a sacrificial
+session in which there sit seven, or five or three Brāhmaṇas, who are
+acquainted with the world, with the Veda and with Law.’
 
-उक्तं सभां प्रविश्य व्यवहारान् पश्येद् इति । सभाशब्दश् च लोके गृहप्रासादविशेषे वर्तते "मयेन निर्मिता दिव्या सभा हेमपरिष्कृता" इति । क्वचित् पुरुषविशेषसंघटिता सभेति तन्निवृत्त्यर्थं सभाया लक्षणम् आह । यत्र त्रयो ब्राह्मणा वेदविदः संनिधीयन्ते, राज्ञश् च संबन्धी प्रकृतो ऽधिकृतो विद्वान् इति । अथ वा प्रकृतो ऽनन्तरश्लोके संनिहितः । सेह सभाभिप्रेता । ब्रह्मग्रहणं स्तुत्यर्थम् । यथा ब्रह्मणः सभा निरवद्यैवम् इयम्[^९०] अपीति ॥ ८.११ ॥
+*Bṛhaspati* (1.5).—‘A Court of Justice is composed of ten members; and
+an assembly of this sort, in which the King examines the cases
+attentively, is comparable to a religious session.’
 
+*Śukranīti* (4.5.50-52).—‘The assembly in which there are seven, five,
+or even three Brāhmaṇas versed in human affairs, the Vedas and the
+Dharmaśāstras is like a sacrificial session.’
 
-[^९०]:
-     M G: niravadyaiveyam
+*Śukranīti* (4.5.72).—‘The ten requisites in the administration of
+justice are—the king, officers, councillors, smṛti-books, accountant,
+clerk, gold, fire, water and one’s own men.’
+
+*Nārada* (3.18).—‘That is not a court where there are no elders; they
+are not elders who do not pass a just, sentence; that is not just
+sentence where there is no truth; that is not truth which is vitiated by
+error.’

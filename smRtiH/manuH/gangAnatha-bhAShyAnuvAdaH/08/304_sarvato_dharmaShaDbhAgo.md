@@ -2,45 +2,24 @@
 title = "304 सर्वतो धर्मषड्भागो"
 
 +++
+The king obtains the sixth part of the spiritual merit arising from the
+open performance of sacrifices by the inhabitants of villages, as well
+as by those living in forests; so also the sixth part of the ‘demerit’
+acquired by the secret acts of stealing and the like committed by
+thieves and others. It is not only by his failure to protect those who
+are robbed by thieves that the king incurs sin, but also by his failing
+to suppress those who, by committing theft and such other misdeeds,
+incur sin, a portion whereof falls upon the king. Because ‘protection’
+also means saving them from the incurring of sin. So that if the king
+fails in this duty of his, it is only right that he should incur sin.
 
-**सर्वतः** प्रकाशाद्[^२९७] यज्ञादेः तथा ग्रामवासिभिः वनवासिभिश् च कृताद्[^२९८] धर्मषड्भागं[^२९९] राजा लभते । एवम् **अधर्माद्** **अपि** चौरैः प्रच्छन्नकृताद् राज्ञः षड्भागो भवति । न केवलं स्तेनैर् ये मुच्यन्ते तदरक्षातो राज्ञाम् अधर्मः, यावद् ये हरन्ति तेषाम् अपि चौर्यभावेनाधर्मोदयः, तदंशेनापि राजानः संबध्यन्ते तान्[^३००] अनिगृह्णन्तः[^३०१] । अदृष्टदोषसंबन्धनिवारणम् अपि रक्ष्याणां[^३०२] रक्षैव[^३०३] । तत्राधिकृतस्य[^३०४] राज्ञस् तदकरणाद् युक्तः प्रत्यवायः । 
+“In as much as the protection rendered by the king is in return for what
+he receives as wages (in the way of taxes), it is not right, to say that
+he obtains the sixth part of the people’s spiritual merit.”
 
-
-[^३०४]:
-     DK: adhikṛtasya (but not DK 4: 708)
-
-
-[^३०३]:
-     DK: rakṣaṇe (but not DK 4: 708)
-
-
-[^३०२]:
-     M G: rakṣāṇā
-
-
-[^३०१]:
-     M G: nigṛhṇataḥ; DK: nigṛhṇatāṃ
-
-
-[^३००]:
-     M G: tāni
+It has already been explained that there are many persons who pay no
+taxes at all,—such as the poor, the orphans, the ascetics and so forth.
+So that if the king fulfills his full duty, what incongruity is there in
+the assertion made in the text?—(304)
 
 
-[^२९९]:
-     DK (1: 1700): dharmāt ṣaḍbhāgaṃ (But DK 4: 707 has dharmaṣaḍbhāgaṃ)
-
-
-[^२९८]:
-     M G: kṛtākṛtād
-
-
-[^२९७]:
-     DK (1: 1700: sakāśād (But DK 4: 707 has prakāśād)
-
-- span style="text-decoration-underline;">ननु</u> च भृतिपरिक्रीतत्वाद् धर्मषड्भागम्[^३०५] अयुक्तम् । 
-
-
-[^३०५]:
-     DK (4: 708): dharmaṣaḍbhāgavacanam
-
-<u>उक्तं</u> दीनानाथप्रव्रजितादयः[^३०६] सन्त्य् अकरप्रदाः । परिपूर्णस्वधर्मपालने कानुपपत्तिः[^३०७] ॥ ८.३०४ ॥

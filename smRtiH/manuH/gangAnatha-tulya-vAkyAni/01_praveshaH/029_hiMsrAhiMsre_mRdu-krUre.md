@@ -2,13 +2,12 @@
 title = "029 हिंस्राहिंस्रे मृदु-क्रूरे"
 
 +++
+**(verse xviii-xix)**
 
-**हिंस्रं** परप्राणवियोगकरं सर्पसिंहहस्त्यादि । तद्विपरीतम् **अहिंस्रं** रुरुपृषतादि । **मृदु** पेशलम् अनायासकम्[^७४] । **क्रूरं** कठिनं परदुःखोत्पादनात्मकम् । अन्यत् प्रसिद्धम् । यद् एतद् द्विशः प्रसिद्धं कर्म जातं ततो यस्य यद् एव **अदधाद्** दत्तवान् कल्पितवान् **स** प्रजापतिः **सर्गे** सृष्ट्यादौ पूर्वकर्मानुरूप्यम् अवेक्ष्य, तत्कर्म स सृष्टः[^७५] प्राणी **स्वयम् आविशत्** प्रतिपद्यते । भूतकालता न विवक्षिता । आद्यत्वे ऽपि जातिधर्मस्यानुपदिष्टस्य स्वयंप्रतिपत्तिदर्शनात् ॥ १.२९ ॥
-
-
-[^७५]:
-     M G: tatkarmasaṃsṛṣṭaḥ
-
-
-[^७४]:
-     M G 1st ed.: anāyāsam
+*Mahābhārata*, 12.232.16.—‘Of the created things, whatever functions
+became assigned to whichever thing at the beginning of creation, that
+thing take to those same functions, whenever they are created again and
+again.’ ‘Harmfulness or harmlessness, gentleness or ferociousness,
+righteousness or unrighteousness, truthfulness or untruthfulness, with
+one or the other of these they are obsessed, and hence are they fond of
+just those.’

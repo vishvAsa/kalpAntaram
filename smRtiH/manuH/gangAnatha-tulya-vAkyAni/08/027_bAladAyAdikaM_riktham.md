@@ -2,7 +2,26 @@
 title = "027 बालदायादिकं रिक्थम्"
 
 +++
+*Gautama* (10.48).—‘The property of infants must be protected until they
+attain their majority or complete their studentship.’
 
-<u>ननु</u> च व्यवहारदर्शनं वक्तव्यतया प्रस्तुतम् । तत्र कः प्रसङ्गो बालधनरक्षायाः । 
+*Vaśiṣṭha* (16.8-9).—‘The King shall protect the property of persons
+unfit to transact business;—but when a minor comes of age, his property
+must be made over to him.’
 
-<u>उच्यते</u> । विवादपदताम् एवैतद् विषयान् निवर्तयितुम् इदम् आरभ्यते[^११२] । बालधनं राज्ञा स्वधनवत् परिपालनीयम् । अन्यथा पितृव्यादिबान्धवा मयेदं रक्षणीयं मयेदम् इति विवदेरन् । न चान्यः प्रसङ्गो ऽस्ति । आशङ्क्यमानव्यवहारवच् च । न केवलेषु राजधर्मेषूपदिश्यते अतो ऽस्मिन्न् एवावसरे वक्तव्यम्[^११३] । बालो दायादो ऽस्य तद् इदं **बालदायादिकम्** । दायादः स्वाम्य् अत्रोच्यते । बालस्वामिकं धनं **तावद्** **राजा** रक्षेद् **यावद्** असौ **समावृत्तः** गुरुकुलात् प्रत्यागतः **यावद् वातीतशैशवः** अतिक्रान्तबालभावः । अयं च विकल्पः । यो गृहशैशवो भवति तदर्थम् अतीतशैशवम् उच्यते । यस् तु व्रतकः स निवृत्ते ऽपि शैशवे[^११४] आ समावर्तनात् प्रतिपाल्यधनः स्यात् । अथ वा द्विजातीनां समावर्तनम् अवधिः, अन्येषां शैशवात्ययः ॥ ८.२७ ॥
+*Viṣṇu* (3.65, Vivādaratnākara, p. 598).—‘The King shall protect the
+property of infants, of people without protectors and of women.’
+
+*Śaṅkha-Likhita* (Do., p. 599).—‘The King shall protect the property of
+infants, of persons unable to transact business, and of the wives of the
+Vedic Scholar and the Warrior. Ownerless properties revert to the King.’
+
+*Baudhāyana* (Do.).—‘Until sons are able to transact, business, they
+shall keep their property along with the accrued profits carefully till
+they attain majority.’
+
+*Agnipurāṇa* (Rājadharma, 222.18-19).—(Same as Manu, reading
+‘*bālaputrāsu*’ in place of ‘*baśāputrāsu*.’)
+
+*Kātyāyana* (Do.).—‘If a man dies leaving an infant, son, the relations
+shall protect his property.’

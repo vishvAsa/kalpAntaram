@@ -2,21 +2,17 @@
 title = "204 अन्याञ् चेद्"
 
 +++
+Since the present context is dealing with matters relating to sales, it
+lays down certain rules relating to maidens given in marriage for a
+price.
 
-विक्रयप्रकारत्वाच् छुल्कादिना कन्यादानस्य अस्मिन्न् प्रकरणे[^१३] धर्म उच्यते । शुल्ककाले रूपवतीं दर्शयित्वा गृहीतशुल्को यस्य[^१४] रूपहीनां ददाति वयोहीनां गूणहीनां वा तस्य्**ओभे**[^१५] ऽपि शुल्कदेन्**ऐकेन** **शुल्केन** हर्तव्ये[^१६] । कन्यानाम् एवायं धर्मः । गवाश्वादिद्रव्याणां त्व् अस्मिन् व्यतिक्रमे ऽन्यो विधिर् वक्ष्यते ॥ ८.२०४ ॥
+At the time of receiving the price, if the man shows a beautiful girl,
+but after having received it, he gives an ugly one, or one not of proper
+age, or of inferior qualifications,—then for that same price, the
+bridegroom shall marry both the girls.
 
-
-[^१६]:
-     M G: hartavyā
-
-
-[^१५]:
-     M G: tasyobhau
-
-
-[^१४]:
-     M G: 'syāṃ
+The rule here laid down pertains to the case of girls only, that
+relating to similar frauds in connection with the selling of cattle and
+other goods shall be laid down later on.—(204)
 
 
-[^१३]:
-     M G: chulkāder yo yat kanyāyā asminn avadhau; DK (1: 881): chulkadeyāyāḥ kanyāyā asminn avadhau

@@ -2,16 +2,5 @@
 title = "329 अन्येषाञ् चैवम्-आदीनाम्"
 
 +++
-**सूत्रम्** ऊर्णासणादि । **लवणानि** सैन्धवबिडलवणादीनि । **यच् चान्यत् पशुसंभवम्** आमिषादि[^८६] । **अन्येषाम्** अपूपमोदकादीनाम् । **आदि**शब्दः प्रकारे । प्रकारः सादृश्यं तुल्यता सदृशकार्यकरणोपयोगादिरूपा । तथा च सर्पिर्मण्डेक्षुखण्डशर्कराकिलाटकूर्चिकाद्या अपूपा गृह्यन्ते । **पशुसंभवं** राङ्कवाजिनाद्य् अपीच्छन्ति <u>केचित्</u> । **आदि**ग्रहणात् प्रकृतिर् विकृतिर् अपि ।[^८७] यच् चोभयोपादानं दध्नः क्षीरस्य चेति तद् उदाहरणार्थम् । एवं **सूत्र**ग्रहणेन सूत्रमयं वासो ऽपि गृह्यते । नलिकादीनां सत्य् अपि सूत्रमयत्वे पशुसंभवत्व उत्तमत्वाद् उत्तमानां चेत्य् अस्यापवादविषयः[^८८] । प्रकृत्यन्तरे तैलशब्दः स्नेहवाची, न तिलविकार एव । तेनातसीप्रियङ्गुपञ्चाङ्गुलतैलादयो ऽपि गृह्यन्ते ॥ ८.३२६–२९ ॥
 
-
-[^८८]:
-M G DK: ayam apavādaviṣayaḥ
-
-
-[^८७]:
-M G add: prakṛtiṃ
-
-
-[^८६]:
-M G: āmiṣāditi
+In the case of the theft of yarns, cotton, fermenting drug, cowdung, molasses, curds, milk, skimmed curd, water and grass (326),—of vessels made of bamboo or cane, as also of salts, earthenware, earth and ashes (327)—of fish, birds, oil, clarified butter, meat, honey, and other animal-products (328)—of other things of this kind, spirituous liquors, cooked rice and all kinds of cooked food,—the fine shall be double the value of the thing (stolen).—(326-329)

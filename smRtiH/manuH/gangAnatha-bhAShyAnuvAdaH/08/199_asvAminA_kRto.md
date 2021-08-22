@@ -2,5 +2,17 @@
 title = "199 अस्वामिना कृतो"
 
 +++
+It is not only purchase from one who is not the owner that is
+invalid,—but also what is received as ‘*gift*’—a ‘gift’ is that which is
+given either as *charity* or as a *friendly present*,—is not valid.
 
-न केवलम् अस्वामिसकाशाद् यत् क्रीतं तन् न सिध्यति, किं तर्हि प्रतिगृहीतम् अपि । प्रतिग्रहेण प्रीत्या वा दानं **दायः,** सो ऽपि न सिध्यति । "विक्रीणीते परस्य" (म्ध् ८.१९७) इत्य् अनेन विक्रेतुः प्रतिग्रहीतुश् चास्वाम्यम् उच्यते । "स्वामी रिक्थक्रय" (ग्ध् १०.३९) इत्यादिना स्वाम्याशङ्कायां प्राप्तो ऽयं प्रतिषेधः । **व्यवहार** एषा **स्थितिर्** नातिक्रमणीया ॥ ८.१९९ ॥
+Verse 197 has declared that neither the buyer nor the seller is the
+owner of the property; and the present verse denies the ownership in
+cases where it may be considered as having been acquired, in accordance
+with the law that—‘one becomes the owner, through inheritance, purchase,
+partition and gift’ (*Gautama*, 10.39).
+
+Such is the rule of judicial proceedings, and it should not be
+transgressed.—(199)
+
+

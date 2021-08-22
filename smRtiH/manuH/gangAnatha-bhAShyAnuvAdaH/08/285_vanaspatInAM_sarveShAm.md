@@ -2,13 +2,20 @@
 title = "285 वनस्पतीनां सर्वेषाम्"
 
 +++
+The ‘*trees*’ have been mentioned as representing all immovable things.
 
-**वनस्पति**ग्रहणं सर्वस्थावरप्रदर्शनार्थम् । फलपुष्पपत्रच्छायादिना महोपभोग्यस्य वृक्षस्य **हिंसायां** विनाशे[^२३५] दण्ड उत्तमसाहसः,[^२३६] मध्यमस्य मध्यमः, निकृष्टस्य प्रथमः । तथा स्थानविशेषो द्रष्टव्यः- पत्रच्छेदः फलच्छेदः शाखाधेद इति । फलानाम् अपि विशेषो महार्घता दुष्प्रापता । तथा स्थानविशेषो ऽपि द्रष्टव्यः- सीम्नि चतुष्पथे तपोवन इति ॥ ८.२८५ ॥
+When injury is done to a tree which is of great utility, the fine
+consists of the ‘highest amercement’; when the tree is of ordinary
+utility, it consists of the ‘middle amercement’; and when it is of small
+utility, it consists of the ‘lowest amercement.’
+
+Account has also got to be taken of the part of the tree where the
+injury is done;—whether it is the leaf, the fruit or the branch that has
+been cut off. In regard to fruits also, their market-value has to be
+taken into consideration.
+
+Similarly account has to be taken of the position of the tree,—whether
+it stands on the boundary, on road-crossings or in a hermitage, and so
+on.—(285)
 
 
-[^२३६]:
-     M G DK (1: 1804) add: sa
-
-
-[^२३५]:
-     M G: vināśam āha; J omit: vināśe

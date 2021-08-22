@@ -2,13 +2,12 @@
 title = "050 यः स्वयम्"
 
 +++
+*Viṣṇu* (6.18).—‘A creditor recovering, by any means, the loan advanced
+by him shall not be reproved by the King.’
 
-उक्तस्यैवार्थस्य स्पष्टीकरणार्थः श्लोकः । न छलादिनोपायेन स्वेच्छय्**ओत्तमर्णो** **ऽधमर्णाद्** धनं **संसाधयन्** **राज्ञा** किंचिद् वक्तव्यः- "माम् अविज्ञाप्य किम् इत्य् अस्माद् आभरणादि स्वधनसंशुद्ध्यर्थं व्याजेन छद्मना गृहीतम्,[^१९२] गृहीत्वा वा[^१९३] किं नास्मै प्रतिप्रयच्छसि" इति ॥ ८.५० ॥
+*Yājñavalkya* (2.40).—‘If a creditor tries to recover an admitted debt,
+he shall not be reproved by the King.’
 
-
-[^१९३]:
-     M G J omit: vā
-
-
-[^१९२]:
-     M G J omit: gṛhītam
+*Nārada* (1.123).—‘A creditor who tries to recover his loan from the
+debtor must not be checked by the King, both for secular and religious
+reasons.’

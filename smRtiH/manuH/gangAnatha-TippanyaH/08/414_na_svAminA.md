@@ -2,29 +2,13 @@
 title = "414 न स्वामिना"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 146), which adds the
+following:—Even through the favour of the owner of the Śūdra-slave,
+there is no freedom for the latter from the lowest service or slavery.
 
-यम् आश्रितः सप्तभिर् दासयोनिभिस्[^३९३] तेन **निसृष्टो ऽपि** तन्मुक्तो ऽपि[^३९४] ।[^३९५] किं तु **निसर्गजं** सहजं जतिसहभावि **कः**[^३९६] **तस्माच्** छूद्रात् **तद्** दास्यम्[^३९७] **अपोहति** अपनयति । यथा शूद्रजातिर् न तस्यापनेतुं शक्या, एवं दास्यम् अपि । अर्थवादो ऽयम् । यतो वक्ष्यति निमित्तविशेषे शूद्रस्य[^३९८] दास्यान् मोक्षः ॥ ८.४१४ ॥
-
-
-[^३९८]:
-     M G add: vā
-
-
-[^३९७]:
-     M G: chūdro dāsyam
+It is quoted in *Aparārka* (p. 786);—and in *Kṛtyakalpataru* (97a),
+which explains the meaning as that howsoever favourably inclined he may
+be towards either the borne Śūdra or to the bought slave, cannot absolve
+him from servitude.
 
 
-[^३९६]:
-     M G: jatisahabhāvikam 
-
-
-[^३९५]:
-     J adds: na svāminā nisṛṣṭo 'pi dāsyād vimucyate; M G add: na svāminā nisṛṣṭo 'pi 
-
-
-[^३९४]:
-     M G omit: tanmukto 'pi
-
-
-[^३९३]:
-     M G: dāśayonibhis

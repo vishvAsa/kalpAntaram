@@ -2,5 +2,12 @@
 title = "346 साहसे वर्तमानम्"
 
 +++
+This also is a declamation.
 
-अयम् अप्य् अर्थवादः । **साहसे** स्थितं पुरुषं **यो मर्षयति** । प्रकृत्यर्थे ऽयं णिच् । यो मृष्यति क्षमते, **स विनाशं** प्राप्नोति द्वेष्यतां च प्रजासु प्राप्नोति द्वेष्यैश् चाभिभूयते ॥ ८.३४६ ॥
+He who condones the man addicted to violence—the causal affix in
+‘*marṣayati*’ having the reflexive force, it means ‘forgives,’ ‘bears
+with,’—‘*quickly falls into destruction*,’ and becomes hated among his
+people; and being thus hated, he comes to be assailed and
+overcome.—(346)
+
+

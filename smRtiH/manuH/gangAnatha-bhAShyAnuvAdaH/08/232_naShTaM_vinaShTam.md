@@ -2,17 +2,25 @@
 title = "232 नष्टं विनष्टम्"
 
 +++
+‘*Strayed*’—the cattle that has disappeared from sight, and one does not
+know where it has gone to.
 
-**नष्टं** दृष्टिपथाद् अपेतं न ज्ञायते क्व गतम् । **विनष्टं** **कृमिभिः** । आरोहकनामानः कृमयो गवां प्रजनवर्त्मनानुप्रविश्य नाशयन्ति । **श्वभिर् हतम्**[^९८] । प्रदर्शनार्थम् एतत् । तेन गोमायुव्याघ्रादिहतानाम् एषैव स्थितिः । **विषमे** श्वभ्रदरीशिलादिसंकटादौ **मृतं** **। प्रदद्यात् पाल एव** । **हीनं पुरुषकारेण** । पुरुषकारः[^९९] पुरुषव्यापारः । पालस्य तत्र संनिधानात् वृकनिवारणं च दण्डादिना प्रवृत्तिः । तेनापेतम् । यदि व्याप्रियमाणो व्याघ्रादेर् निवारणे नैव समर्थः, सहसैव वोत्पत्य[^१००] कश्चित् पशुर् वेगेन श्वभ्रं गच्छेद् अनुगच्छतापि न शक्यः प्रत्यावर्तयितुम्, न पाले दोषः ॥ ८.२३२ ॥
+‘*Destroyed by worms*’;—Worms called ‘*ārśaka*’ enter through the
+genital organs of the cow and kill it.
+
+‘*Killed by dogs*’;—this is mentioned only by way of illustration; so
+that the same rule applies to the case of cattle being killed by
+jackals, tigers and other wild animals.
+
+‘*In an unsafe place*’;—such as holes, pits, stony places and so forth.
+
+All this ‘*the keeper shall make good*.’—‘*if it has been left without
+human aid*.’—The ‘human aid’ in such cases would consist in remaining
+near the cattle and lighting the stick for keeping away wolves and other
+animals; and when they are left without all this care. In a case where
+the man, himself on the point of death, is unable to scare away the
+tiger—or where if the cattle, running fast, happen to fall into a pit,
+from which it could not be turned back by the keeper, even when he would
+be following it,—no fault can lie with the keeper.—(232)
 
 
-[^१००]:
-     M G: sahasaivotpatya
-
-
-[^९९]:
-     M G omit: puruṣakāraḥ
-
-
-[^९८]:
-     DK (1:908): śvahataṃ

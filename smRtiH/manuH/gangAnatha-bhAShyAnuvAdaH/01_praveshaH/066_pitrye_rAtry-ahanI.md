@@ -2,5 +2,20 @@
 title = "066 पित्र्ये रात्र्य्-अहनी"
 
 +++
+That which is the ‘month’ of men is a ‘day and night’ of the ‘*Pitṛs*.’
+As regards ‘division’ as to which part is ‘day’ and which ‘night,’—this
+division, that ‘this is *day* and that is *night*,’ is determined ‘*by
+fortnights,’ i.e*., the *fifteen days*, which are known by the name of
+‘half-month.’ That is, the said division is based upon fortnights: one
+fortnight is ‘day,’ and another fortnight is ‘night.’ In view of the
+fact that ‘day’ and ‘night’ differ in their character and occur in a
+fixed order of sequence, the author adds the following distinction:—The
+darker fortnight is ‘day,’ and the brighter fortnight, ‘night.’
 
-यो मनुष्याणां मासः स पितॄणाम् अहर्निशम् । कतरद् अहः कतमा च रात्रिर् इति **प्रविभागः** । इदम् अहर् इयम् रात्रिर् इत्य् एष विभागः । **पक्षयोः** पञ्चदशरात्रिसंमितयोर् अर्धमासाख्ययोर् व्यवस्थितः । पक्षाश्रित इत्य् अर्थः । एकः पक्षो ऽहर् अपरो रात्रिस् तयोश् च भिन्नस्वभावत्वान् नियतक्रमत्वाच् च विशेषम् आह । **अहः कृष्णः** पक्षः । **शुक्लः** पक्षः **शर्वरी** रात्रिः । "कर्मचेष्टाभ्यः" इति युक्तः पाठः, यथा "**स्वप्नाय**" इति । तादर्थ्यम् एव विषयभावेन विवक्षितम् । वृत्तानुरोधाद् अतः सप्तमी ॥ १.६६ ॥
+The right reading (in view of the meaning intended) would be
+‘*Karmaceṣṭābhyaḥ*’ (the Dative form), just as we have ‘*svapnāya*’; for
+the meaning meant to be conveyed is that the day is *for the purpose* of
+‘activity.’ Hence the Locative ending in the text can be explained only
+as used on account of the exigencies of metre.—(66)
+
+

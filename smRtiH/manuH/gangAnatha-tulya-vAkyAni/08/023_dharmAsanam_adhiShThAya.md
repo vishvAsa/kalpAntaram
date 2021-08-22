@@ -2,5 +2,20 @@
 title = "023 धर्मासनम् अधिष्ठाय"
 
 +++
+*Bṛhaspati* (1.21-23).—‘The King having risen early in the morning and
+performed ablutions according to rule, and having shown due honour to
+elders, astronomers, physicians, deities, Brāhmaṇas and domestic
+priests,—should enter the Court-room, decorated with flowers, ornaments
+and fine clothes, with a cheerful countenance. Having entered the Court
+in the forenoon, together with the elders, ministers and attendants, he
+should try cases and listen to the exposition of Purāṇas, Law-Codes and
+Rules of Policy.’
 
-धर्मः प्रधानः यस्मिन्न् आसने भवति तद् **धर्मासनम्** । राजासने हि राज्यस्थित्यानुगुण्येनार्थम् एव प्रधानीकरोति न्यक्कृत्यापि धर्मम् । व्यवहारनिर्णये तु धर्मम् एव प्रधानं आश्रयेद् इत्य् अर्थः, न पुनर् आश्रयभेदो ऽनेन ज्ञाप्यते । **संवीताङ्गः** वस्त्रादिना स्थगितसरीरः । **प्रणम्य लोकपालेभ्य** इन्द्राद्यष्टौ लोकपालास् तान् नमस्कृत्य **कार्यदर्शनम् आरभेतेत्य्** अदृष्टार्थम् एतद् द्वयम् अङ्गसंवरणं लोकपालप्रणामश् च । **समाहितः** अनन्यचित्तः कार्यदर्शने । एवं हि दृष्टार्थं भवति । प्रणामविशेषणं वा समाहितग्रहणम् । यद्य् अप्य् अत्र किंचिद् उक्तम् एव प्रतिभाति तथापि पद्यग्रन्थत्वान् नातीव पौनरुक्त्यम् । **लोकपालेभ्य** इति चतुर्थी संप्रदाने । कथं । क्रियाग्रहणं संप्रदानसूत्रे चोदितम् "श्राद्धाय निगृह्णते" "पत्ये शेते" (पत् इ- ३३०) इत्याद्यर्थम् । न च क्रियाग्रहणं गृह्णात्यादिविषयम् एव, भाष्ये ऽनुक्तत्वात् ॥ ८.२३ ॥
+*Śukranīti* (4.5.85-87).—‘The King should enter the Court modestly,
+together with the Brāhmaṇas and the Ministers versed in state-craft,
+with the object of investigating cases. He should proceed with the work
+after taking the seat of justice.’
+
+*Saṃvarta* (Smṛticandrikā-Vyavahāra).—‘Bowing to the Guardians of the
+Regions, the King shall enter the splendid Court and carry on the work
+of protecting the people by looking into their suits.’

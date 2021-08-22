@@ -2,9 +2,24 @@
 title = "209 रथं हरेत्"
 
 +++
+At the rite of Fire-laying the *Adhvaryu* shall take the chariot; and
+the *Brahman* or the *Hotṛ* shall take the swift horse.
 
-**रथम् अध्वर्युर् आधाने हरेत्** । **ब्रह्मा च वाजिनं** वेगवन्तम् अश्वम् । **होता वा अश्वं** वृषम् अन्यं वा । कासुचिच् छाकास्व् आधान एता दक्षिणाः । अतः सोम**क्रये** यच् छकटं तद् उद्गातुः । तत्र शकटे ऽन्यतरो ऽनड्वान् युक्तः स्यात्, अन्यतरो वियुक्त इत्य् अपि पठ्यते । तेन च सोमः क्रीत उपाह्रियते । 
+In certain rescensional texts, these form the ‘sacrificial fee’ for the
+rite of Fire-laying.
 
-- span style="text-decoration-underline;">अन्ये</u> त्व् अपूर्वम् **अन** आहुर् न सोमोपाहरणार्थम्, न हि क्रयेण शक्यते विशेषयितुम् ॥ ८.२०९ ॥
+At, the rite of ‘Soma-purchase,’ there is a cart, which is to be taken
+by the *Udgātṛ*. To this cart one calf is yoked, and another unyoked:
+and it is on this cart that the purchased *Soma* is carried. Others hold
+that the rites laid down in connection with the ‘purchase of Soma’ have
+some transcendental purpose, and their use does not lie only in the
+obtaining of the *Soma*; because there is no new character produced in
+the *Soma* by its being purchased in the peculiar manner prescribed.
 
-_एवं तावत् पुरुषविशेषसंयोगिनीनाम् अङ्गदक्षिणानां विधिर् उक्तः । प्रधानदक्षिणानां सामान्यतः श्रुतानां इदानीं विभागम् आह ।_
+This verse has described how the fees prescribed in connection with the
+subsidiary details are to be distributed among the several persons
+concerned; the next verse is going to describe the rule concerning the
+distribution of the sacrificial fee prescribed in connection with all
+rites in general.—(209)
+
+

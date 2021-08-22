@@ -2,13 +2,11 @@
 title = "271 नाम-जातिग्रहन् त्व्"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 153), which adds the
+following notes:—‘*Abhidroheṇa*’, in an extremely insulting
+manner,—‘*ayomayaḥ*’, made of iron,—‘*śaṅkuḥ*’, nail.
 
-**अभिद्रोह** आक्रोशः कुत्साबुद्धिः- "ब्राह्मणक, त्वं मा मया स्पर्धिष्टाः" । एवम् अन्यद् अपि योज्यम् । ग्रहणं **ग्रहः** । निरुपपदं नाम गृह्णाति कुत्साप्रत्यययोगेन वा- "देवदत्तक" इति । **अभिद्रोहेण** क्रोधेन, अभिद्रोहः क्रोधः गर्हा[^२०३] क्षेपः[^२०४] । न पणयेन । **निःक्षेप्यः** प्रक्षेप्यः । **शङ्कुः** कीलकः । **ज्वलन्न् अग्निना** दीप्यमानः, **अयोमयो** लोहमयः ॥ ८.२७१ ॥
+It is quoted in *Aparārka* (p. 809), which says that this is meant for
+very frequently repeated offence.
 
 
-[^२०४]:
-     J omits: garhā kṣepaḥ
-
-
-[^२०३]:
-     M G: garbhaḥ

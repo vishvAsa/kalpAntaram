@@ -2,15 +2,10 @@
 title = "069 चत्वार्य् आहुः"
 
 +++
+‘*Sandhyā*’—it is not clear whether the *succeeding* or *preceding*
+twilight is meant. Kullūka, and possibly Medhātithi, accepts the former
+view.
 
-प्रकृतत्वाद् दैविकानि वर्षाणि परिगृह्यन्ते । तथा च पुराणकारः-
-
-- इत्य् एतद् ऋषिभिर् गीतं दिव्यया संख्यया द्विजाः ।
-
-- दिव्येनैव प्रमाणेन युगसंख्या प्रकीर्तिता ॥
-
-तानि **चत्वारि सहस्राणि कृतयुगं** नाम कालः । **तस्य** कृतयुगस्य तावन्त्यैव शतानि चत्वारि **संध्या** । **संध्यांशस् तस्य तथाविधस्** तत्परिमाणश् चत्वारिवर्षशतानीत्य् अर्थः । यत्रातीतस्य[^१०४] कालस्यागामिनश् च स्वभावानुवृत्तिः सा संध्या । उभयकालधर्मानुविधानं संध्यांसः, यत्रेषत्पूर्वधर्मानुवृत्तिर् भूयसी भाविनो युगस्य ॥ १.६९ ॥
-
-
-[^१०४]:
-     M G 1st ed.: yatrātītasya
+*Medhātithi* (p. 34, l. 24) for ‘*Svabhāvānuvṛttiḥ*’; how would it do to
+read ‘*Svabhāvānanuvṛttiḥ*’—the meaning being that the preceding
+Twilight has the character of neither Day nor Night?

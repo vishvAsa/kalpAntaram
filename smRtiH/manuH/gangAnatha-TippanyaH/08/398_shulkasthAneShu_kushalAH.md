@@ -2,37 +2,16 @@
 title = "398 शुल्कस्थानेषु कुशलाः"
 
 +++
+‘*Tataḥ*’—‘Of the amount thus fixed’ (Medhātithi);—‘out of the profit on
+that amount’ (Kullūka).
 
-येषु प्रदेशेषु शुल्कम् आदीयते तानि **शुल्कस्थानानि**[^३४४] राजभिर् वणिग्भिः[^३४५] स्वप्रतिदेशनियतानि कल्पितानि । तेषु स्थानेषु ये **कुशलाः** शौल्किकाः,[^३४६] ये धूर्तैर् न[^३४७] शक्यन्ते वञ्चयितुम्, तथा सर्वेषां पण्यानाम् आगमक्रयविक्रयक्षयव्ययसारासारादिविधिज्ञा[^३४८] **विचक्षणाः** ते[^३४९] भाण्डस्यागतस्य देशान्तरात्[^३५०] नीयमानस्य **वार्घं कुर्युः** । **ततो** **विंश**तिभागं राजा गृह्णीयात् । 
-
-
-[^३५०]:
-     M G: -āgatasyānyadeśāntarā; J: deśāntare
-
-
-[^३४९]:
-     M G: tair
-
-
-[^३४८]:
-     M G omit: kṣayavyaya, and read: -sārasādividhi-; DK (1: 1708; but not 4: 2330): āgamakṣayakrayasārāsārādividhijñā
+This verse is quoted in *Vivādaratnākara* (p. 304), which remarks that
+this refers to commodity. imported from other countries;—in *Aparārka*
+(p. 833);—in *Vīramitrodaya*, (Rājanīti, p. 164), which adds that,
+though from the words it would seem that the twentieth part of the value
+of the commodity is meant, yet, in fact, it is of the profit over and
+above the value fixed; for if the king were to take the twentieth part
+of the value, then the trader would have no profit at all, and his
+business would be ruined;—and in *Vyavahāra-Bālambhaṭṭī*, (p. 954.)
 
 
-[^३४७]:
-     M G DK (1: 1708) add: ca
-
-
-[^३४६]:
-     M G: śauktikāḥ
-
-
-[^३४५]:
-     DK (1: 1708; but no 4: 2330) add: ca
-
-
-[^३४४]:
-     M G add: ca
-
-- span style="text-decoration-underline;">किं पुनर्</u> अर्घकरणेन । एतावद् एव वक्तव्यं पण्यानां विंश्तिभागम् इति । 
-
-<u>सत्यम्,</u> यदा स्वरूपेण द्रव्यं राजा[^३५१] गृह्णाति । स्वरूपकान्य् उपयुज्यन्ते[^३५२] शाटकादीनि[^३५३] । तत्र विंशतिभागः प्राग् विंशतेर्<sup> </sup>[^३५४] न पाटनम् अन्तरेणोपपद्यत इत्य् एवमर्थम् अर्घकरणम् । अविक्रेयाणाम् आत्मोपयोगिनां नास्ति शुल्क इति ज्ञापितुं यथापण्यम् । एवं कालानुरूप्येण । न सर्वपण्यं सर्वदा विक्रियत एकरूपेणार्घेण । अतो देशकालापेक्षया पण्यानाम् अर्घव्यवस्था, न नियतो ऽर्घ इति ॥ ८.३९८ ॥

@@ -2,17 +2,16 @@
 title = "312 क्षन्तव्यम् प्रभुणा"
 
 +++
+‘*Partisans of litigants*,’—*i.e*., the relations and friends of the
+plaintiff and the defendant. When one of the parties is imprisoned, his
+father or mother may ‘*abuse*’— cast aspersions upon, or curse—the king;
+then he should forgive them.
 
-**कार्यिणो** ऽर्थिप्रत्यर्थिज्ञातिसुहृदः । कस्मिंश्चिद् वध्यमाने[^५] यदि तत्पिता तन्माता वा राजानं क्षिपेत् कुत्सयेत् अभ्शपेद् वा तदा क्षमा कार्या । **बाला**दीनां **कार्यिणाम्** अपि[^६] । एवम् **आत्मने हितं** कृतं भवति । क्षन्तव्यम् इत्य् एतद्विधेः फलम्[^७] एवात्महितम् ॥ ८.३१२ ॥
+Also the litigants themselves, when they happen to be ‘*young or aged or
+infirm*.’
+
+In this manner his own welfare becomes accomplished. This
+‘accomplishment of welfare’ is the fruit of obeying the injunction
+‘shall forgive.’—(312)
 
 
-[^७]:
-     M G: etad vividhaphalam
-
-
-[^६]:
-     M G DK omit: api
-
-
-[^५]:
-     M G DK (1: 78): dhanyamāne

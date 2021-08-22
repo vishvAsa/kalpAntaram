@@ -3,4 +3,4 @@ title = "355 यस् त्व्"
 
 +++
 
-पूर्वस्य प्रत्युदाहरणम् एतत् । **अनाक्षारितो** ऽप्य् अकारणात् संभाषयन् मिश्रयन् पूर्वदण्डभाक् ॥ ८.३५५ ॥
+If, however, he is one who has not been previously accused, and converses with her for some good reason, he does not incur any guilt; as in his case there has been no transgression.—(355)

@@ -2,9 +2,15 @@
 title = "319 यस् तु"
 
 +++
+A place where people drink water is called ‘*prapā*,’ ‘*water-drinking
+establishment*,’ the place where water is stored after having been drawn
+from a reservoir.
 
-प्रपिबन्त्य् अस्याम् इति **प्रपा**, जलाधारस्थानम् उद्धृतजलनिधानं वा । माषस्य जातिर् न निर्दिष्टा । सा मरुजाङ्गलानूपभेदा[^५८] द्रष्टव्या । **तच् च** रज्ज्वादि **समाहरेद्** दद्यात् तस्मिन् स्थाने, न राजनि ॥ ८.३१९ ॥
+The exact nature of the substance is not stated—of what substance the
+fine of a ‘*māṣa*’ shall consist. It should he regarded as being copper
+or silver.
+
+The article—rope and the rest—ho shall restore ‘*to the place*’ and not
+to the king.—(319)
 
 
-[^५८]:
-     J: -bhedād

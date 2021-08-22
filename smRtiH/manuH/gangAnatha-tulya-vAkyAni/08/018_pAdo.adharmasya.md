@@ -2,9 +2,18 @@
 title = "018 पादो ऽधर्मस्य"
 
 +++
+*Baudhāyana* (1.19.8).—‘Of injustice in decisions, one quarter falls on
+the party in the cause, one quarter on his witnesses, one quarter on all
+the judges, and one quarter on the King.’
 
-न चैषा मनिषा कर्तव्या- "अर्थिना प्रत्यर्थिना वान्यतरस्य भूम्याद्य् अपह्रियते स एव भूम्यपहारदोषभाग् भविष्यति । वयं तु तदकारिणः किम् इति दोषवन्तः स्याम" यतस् तत् पापं चतुर्धा विभज्यते । अर्थवादश् चायम् । न ह्य् अन्यकृतस्यैनसो ऽन्यत्र गमनम् अस्ति । तेषाम् अपि मिथ्यादर्शननिषेधातिक्रमाद् उत्पद्यते पापं मिथ्यालम्बनम्, राज्ञः स्वयम् अपश्यतो ऽप्य् अधिकृतराजस्थानीयादिदोषाद् दोषवत्त्वम् । यदि वा[^१०२] राजाधिकृतो मिथ्याचरितेन ज्ञापितः, पराजितं दुष्टं न निगृह्णीते न च पुनः सम्यक् निर्णयं करोति, ततः सो ऽपि पापभाग् भवति । अधिकृतोपलक्षणार्थं वा राजग्रहणम् । यदा राजा स्वयं मिथ्या पश्यति तदा दुष्यति । यदा राजस्थानीयस् तदा तस्य दोष इत्य् अर्थः ॥ ८.१८ ॥
+*Gautama* (13.11).—‘If the sacred law or the rules are violated, the
+guilt falls on the witnesses, the Assessors, the King, and the
+offender.’
 
+*Nārada* (3.12).—‘One quarter of the iniquity goes to the offender, one
+quarter goes to the witness; one quarter goes to all the members of the
+Court; one quarter goes to the King.’
 
-[^१०२]:
-     M G DK (1:36) omit: vā
+*Hārīta* (Vyavahāratattva).—‘Of injustice, one quarter falls on the
+perpetrator, one quarter on the witness, one quarter on all the members
+of the Court and one quarter on the King.’

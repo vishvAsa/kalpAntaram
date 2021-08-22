@@ -2,13 +2,24 @@
 title = "399 राज्ञः प्रख्यातभाण्डानि"
 
 +++
+Those commodities that have been ‘*proclaimed*’ to belong to the king’s
+monopoly,—*e.g*. elephants in the eastern countries, saffron, silks and
+woolens in Kaśmir, horses among the western countries, precious stones,
+pearls, etc., among the southern countries; in fact such articles as are
+easily obtainable in the dominions of the king concerned, but rare in
+other countries. Kings come to a mutual understanding among themselves
+regarding all such commodities.
 
-**राज्ञः** संबन्धितया **प्रख्यातानि** **यानि** **भाण्डानि** राजोपयोगितया — यथा हस्तिनः, काश्मीरेषु कुंकुमम्, प्राच्येषु[^३५५] पट्टोर्णादीनि, प्रतीच्येष्व् अश्वाः, दाक्षिणात्येषु मणिमुक्तादीनि — यद् यस्य राज्ञो विषये सुलभम् अन्यत्र दुर्लभं तत्र तस्य प्रख्यापनं[^३५६] भवति । तेन हि राजान इतरेतरं संदधते । **प्रतिषिद्धानि यानि** राज्ञा मदीयाद् देशान् नैतद् अन्यत्र नेयम् अत्रैव वा विक्रेयं यथा दुर्भिक्षे धान्यम् इत्य् एवमादीनि । **लोभान् निर्हरतो** देशान्तरं नयतो विक्रीणानस्य वा **सर्वहारं हरेत्,** सर्वहरणं सर्वहारः । अयं धनलोभान् नयतो दण्डः । राजान्तरोपायनार्थं त्व् अधिकतरः शारीरो ऽपि दुर्गावरोधादिः ॥ ८.३९९ ॥
+‘*Forbidden*’—*i.e*., those in regard to which the king has ordered that
+they should not he exported outside his dominions; *e.g*. during
+famines, the exporting of food-grains is prohibited.
+
+‘*Through greed*,’—if some one exports for sale such commodities to
+other countries, the king shall confiscate all his property.
+
+This punishment is meant for one who does the exporting with a view to
+profiteering, if they are carried for being presented to a foreign king,
+then the punishment shall be severer in the form of imprisonment and
+other forms of corporeal punishment.—(399)
 
 
-[^३५६]:
-     M G: prakṣālanaṃ; DK 1: 1706; not 4: 2330): prakhyātaṃ
-
-
-[^३५५]:
-     M G: kuṃkumaprāyeṣu; DK (1: 1706; not 4: 2330) omits: prācyeṣu

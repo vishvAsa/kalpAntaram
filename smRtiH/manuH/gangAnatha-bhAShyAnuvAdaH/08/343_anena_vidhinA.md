@@ -2,13 +2,8 @@
 title = "343 अनेन विधिना"
 
 +++
+In the manner described above, he who punishes thieves, obtains
+‘*fame*’—praise from all men, ‘*in this world*,’ as long as he lives;
+and ‘*after death, unsurpassable bliss*’ in the shape of Heaven.
 
-**अनेना**न्तरप्रक्रान्तेन[^१५३] मार्गेण **चौरनिग्रहं कुर्वाणो यशः** सकलजनसाधुवादो **अस्मिंऌ लोके** यावज्जीवम्, **प्रेत्य** मृतश् च्**आनुत्तमं**[^१५४] स्वर्गाख्यं **सुखम्** अश्नुत इति । प्रकरणोपसंहारो ऽयम् ॥ ८.३४३ ॥
-
-
-[^१५४]:
-     M G: mṛtasyānuttamaṃ
-
-
-[^१५३]:
-     DK (1: 1727): anenānantara-
+This sums up the section.—(343)

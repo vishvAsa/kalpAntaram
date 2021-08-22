@@ -2,9 +2,21 @@
 title = "320 धान्यन् दशभ्यः"
 
 +++
+The term ‘*jar*’ is used in the sense of a particular measure, and not
+in that of one *jarful* only. The exact quantity is sometimes 20 seers,
+and in others 22 seers according to the custom of the place.
 
-**कुम्भ**शब्दः परिमाणविशेषे वर्तते न घटमात्रे । क्वचिद् विंशतिप्रस्थान् क्वचिद् द्वाविंशतिर् इति देशभेदाद् व्यवस्था । **दशभ्यो ऽधिकं हरतो** वधविधिर् उक्तार्थो ऽनुबन्धादिना नियम्यते । **शेषेषु** दशसु प्राकृत एकादशगुणो दण्डः । तत् **तस्य**[^५९] **च तद् धनम्** इति सर्वत्र स्तेये योज्यम् । **धान्यं** व्रीहियवादिसप्तदशानीति स्मर्यते ॥ ८.३२० ॥
+He who steals more than ten ‘jars,’ should be punished with
+‘immolation.’ This rule is relaxed in accordance with the circumstances
+attending each case.
+
+‘*In* *the rest*,’—*i.e*., in the case of ten jars and less,—the fine
+shall be eleven times the quantity stolen.
+
+‘*The property shall be made good to the owner*’;—this applies to all
+cases of theft.
+
+‘*Grain*’—under this term are included seventeen things—the *Vrīhi*, the
+*Yava* and so forth,—as mentioned in the *Smṛtis*.—(320)
 
 
-[^५९]:
-     M G: tat tasya

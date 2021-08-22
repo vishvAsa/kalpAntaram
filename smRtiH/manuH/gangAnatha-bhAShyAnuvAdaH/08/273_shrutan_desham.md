@@ -2,25 +2,37 @@
 title = "273 श्रुतन् देशम्"
 
 +++
+When, as a matter of fact, a man is really learned, one may say ‘this
+has not been properly learnt by him’; or he may defame his learning by
+declaring—‘what he has learnt is not right.’
 
-सत्ये च **श्रुते** "नैतद् अनेन सम्यक् श्रुतम्" इत्य् आह । **श्रुतम्** एव वाक्षिपति "नैतत् संस्कारकं[^२०७] यद् अनेन श्रुतम्" इति । ब्रह्मावर्तीयम् अभिजनाभिमानिनम् "बाह्यको ऽयम्" इत्य् आह । एवं **जात्**इब्राह्मणं[^२०८] "क्षत्रियो ऽयम्" इत्य् आह, क्षत्रियं वा हेलया "ब्राह्मण" इति । **कर्म** ब्राह्मचारिणम्[^२०९] "स्नातक" इति । शरीरावयवः **शारीरे** ऽव्यङ्गं "दुश्चर्मा" इति । **वितथेन** वितथम् अनृतम् । "प्रकृत्यादिभ्यः" (कात् ओन् पाण् २.३.१८) इति तृतीया । अथ वा, अधर्मो[^२१०] वैतथ्यम्, तस्य वाच्यं प्रति कारणता युक्तैव । स्वगुणमदात् परावज्ञानं **दर्पः** । अज्ञानात् परिहासतो वा न दोषः । 
+With regard to one who regards himself as an inhabitant of Brahmāvarta,
+he may say ‘he is a foreigner.’
+
+With regard to a real Brāhmaṇa, he may say ‘he is a Kṣatriya’; or
+through friendship he may call a *Kṣatriya*, ‘*Brāhmaṇa*.’
+
+‘*Occupation*’;—the ‘student’ may be called ‘one who has finished his
+studies.’
+
+In regard to one’s ‘*bodily details*, ho may say ‘he is suffering from
+skin diseases,’ when, in reality, the man has no defects at all.
+
+‘*Falsely* ’;—‘*false*’ is what is a lie. The instrumental ending being
+used in accordance with Pāṇini’s rule ‘*Prakṛtyādibhya upasaṅkhyānam*.’
+
+Or ‘*falsity*’ may stand for *unrighteousness*; and it is only right
+that *unrighteousness* should be regarded as instrumental in defaming
+other persons.
+
+‘*Through arrogance*’;—‘*arrogance*’ stands for *disregard for others*.
+So that if the assertions in question are made through ignorance, or in
+joke, there is no harm.
+
+“For whom is this penalty laid down?”
+
+We say—for all castes. Others however hold that, since the context
+pertains to the *Śūdra*, it must be regarded as meant for the *Śūdra*
+falsely defaming a twice-born person.—(273)
 
 
-[^२१०]:
-     M G DK: atha vāyaṃ dharmo
-
-
-[^२०९]:
-     M G DK (1: 1776) omit: brāhmacāriṇam
-
-
-[^२०८]:
-     J: jātyābrāhmaṇaṃ
-
-
-[^२०७]:
-     J: samyak
-
-- span style="text-decoration-underline;">कस्य</u> पुनर् अयं दण्डः । 
-
-<u>सर्वेषाम्</u> इति ब्रूमः । शूद्राधिकाराच् छूद्रस्यैवेति परे, द्विजातिविषये वैतथ्ये ॥ ८.२७३ ॥

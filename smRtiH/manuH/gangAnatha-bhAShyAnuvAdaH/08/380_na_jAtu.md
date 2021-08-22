@@ -2,9 +2,27 @@
 title = "380 न जातु"
 
 +++
+‘*In all crimes*.’—What is said here should not, on the strength of
+context, be taken as applying to ‘adultery’ only; it pertains to other
+crimes also.
 
-**सर्वपापेष्व्** इति प्रकरणविधौ न केवलं संग्रहणे ब्राह्मणो न हन्यते, यावद् अन्येष्व् अप्य् अपराधेषु । **अपि**शब्दो युगपत् सर्वपापकार्य् अपि **ब्राह्मणो न जातु** कदाचिद् धन्तव्यः । किं तर्हि, तस्य पापकारिणः कर्तव्यम् । **राष्ट्राद् एनं** विषयाद् ब्राह्मणं **बहिः कुर्यान्** निर्वासयेत् । **समग्रधनं** सर्वस्वसहितम्, **अक्षतम्** अक्षतशरीरम् । धनम् अप्य् अस्य नापहर्तव्यम् । कथं तर्हि दण्डो ब्राह्मणस्य ।
+‘*Even*’—This term means that even though the Brāhmaṇa may have
+committed all the crimes simultaneously, he should never be made to
+suffer the death-penalty.
 
-- span style="text-decoration-underline;">केचिद्</u> आहुः । निर्वासने त्व् आधीयमानं सधनं निर्वास्य धनदण्डं प्रतिषेधति ।
+“What then should be done to the criminal?”
 
-<u>अन्ये</u> तु **समग्रधनं**[^२९५] हृतसर्वस्वं कृत्वा निर्वास्यत इति मन्यन्ते ॥ ८.३८० ॥
+The king shall ‘*banish him*’—send him away—‘*from the kingdom*’—out of
+his realm;—‘*with all his property*’—along with all his
+belongings;—‘*unhurt*’—in body.
+
+“If the property even is not to be confiscated, what would be the
+punishment to the Brāhmaṇa?”
+
+Some people say that when the text distinctly says that the man is to be
+banished ‘with his property,’ it is clear that it forbids the imposition
+of fine. Others however explain the words ‘banished with his property’
+to mean that he shall be banished after all his property has been
+confiscated.—(380)
+
+

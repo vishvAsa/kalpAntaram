@@ -2,5 +2,14 @@
 title = "276 ब्राह्मण-क्षत्रियाभ्यान् तु"
 
 +++
+This verse is quoted in *Vivādaratnākara* (p. 255), which adds the
+following explanations:—In a case where a Brāhmaṇa and a Kṣatriya have
+insulted one another, the ‘first amercement’ on the latter.—According to
+*Bālambhaṭṭī* (2.207) the rule refers to cases where the defamation is
+in regard to a heinous offence;—It is quoted in *Vivādacintāmaṇi*
+(Calcutta, p. 71), which says that this refers to cases of mutual
+defamation between the Brāhmaṇa and the Kṣatriya, and adds that the same
+law holds good as between the Vaiśya and the Śūdra also-;—and in
+*Vīramitrodaya* (Vyavahāra, 150a).
 
-**ब्राह्मणक्षत्रियाभ्यां** परस्पराक्रोशे कृते तयोर् अयं **दण्ड** इत्य् एवम् अध्याहारेण योजना । तादर्थ्ये चतुर्थी वा । तद्विनयाय दण्डः कर्तव्यः । पातकस्याक्रोशे कृते ऽयं दण्डो दुःखोत्पादनरूपे ॥ ८.२७६ ॥
+

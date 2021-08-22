@@ -2,13 +2,7 @@
 title = "090 जन्मप्रभृति यत्"
 
 +++
+**(verses 8.89-97)**
 
-**शुनो गच्छेन्** निष्फलं स्याद् भवत इत्य्[^३१३] अर्थः । <u>अन्ये</u> तु[^३१४] दोषप्रदर्शनार्थं श्वगमनवचनम् । यथा कृच्छ्रेण महता सुवर्णाद्युत्तमद्रव्यम् अर्जयित्वाशुचिप्रवाहे त्यजेत् तादृक् सुकृतं भवति । न पुनर् अन्यकृतस्य सुकृतस्यान्यत्र गमनम् अस्तीत्य् असकृद् उक्तम् एतत् ॥ ८.९० ॥
-
-
-[^३१४]:
-     M G DK: atyalpa-
-
-
-[^३१३]:
-     M G: bhavaty evety
+\[See the texts under [79 *et
+seq*.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "Comparative notes of verse 8.79")\]

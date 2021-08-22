@@ -2,29 +2,25 @@
 title = "392 प्रतिवेश्यानुवेश्यौ च"
 
 +++
+‘*Veśa*’ is that where people live, a dwelling-house; the house that is
+in the front of one’s house is ‘*prativeśa*’; and he who lives in that
+is the ‘*prativeśya*,’ ‘*frontal neighbour*’ If we read ‘*prātiveśya*,’
+we would add the reflexive affix ‘*aṇ*.’ Similarly ‘*anuveśya* ‘is one
+dwelling at the back of one’s house.’
 
-विशन्त्य् अस्मिन्न् इति वेशो निवासः, तत्प्रतिगतः प्रतिवेशः[^३२५] गृहाभिमुखः,[^३२६] तत्र भवः **प्रतिवेश्यः**[^३२७] । आदिदीर्घपाठे[^३२८] स्वार्थिको ऽण् । एवम् **अनुवेश्यः** पृष्ठतो वसन्न् उच्यते[^३२९] । तौ चेन् न भोजयेत् । यदि स्वगृहम् आनीय **कल्याणे** विवाहाद्युत्सवे **विंशति**मात्रा यत्र **द्विजा** अन्ये भोज्यन्ते, तदा माषकं सुवर्णं दण्डं दाप्यः । हिरण्यम् इत्य् उत्तरत्र विशेषणाद् इहापि विज्ञायते । **अर्हौ** यदि तौ प्रतिवेश्यानुवेश्यौ[^३३०] योग्यौ भवतः, न द्विषन्तौ नात्यन्तनिर्गुणौ ॥ ८.३९२ ॥
+Persons occupying houses on the two sides also are called ‘neighbours’;
+hence the two terras ‘*prativeśya*’ and ‘*anuveśya*’ may be taken as
+standing for persons occupying houses next, and on both sides, to one’s
+own house.
 
+If the man does not entertain these two, after having invited them to
+the ‘*festival*’ in his house, in the shape of marriage and the
+like,—‘at which *twenty other twice-born persons are invited*,’—then he
+should be made to pay a fine of one ‘*māṣa*.’ That this ‘*māṣa*’ is to
+be of gold is indicated by its being distinctly specified in another
+place.
 
-[^३३०]:
-     M G DK: prāti-
-
-
-[^३२९]:
-     M G DK omit: ucyate
-
-
-[^३२८]:
-     M G: prāgdīrghapāṭhe; DK: pradīrghapāṭhe
-
-
-[^३२७]:
-     M G DK: prātiveśyaḥ
-
-
-[^३२६]:
-     M G: pṛṣṭagṛhābhimukhas; J: gṛhābhimukhaṃ
+‘*Worthy*’;—if the frontal and back neighbours are both worthy,—*i.e*.,
+neither inimical, nor absolutely unqualified.—(392)
 
 
-[^३२५]:
-     M G DK: prativeśyaḥ

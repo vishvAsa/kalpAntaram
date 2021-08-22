@@ -2,45 +2,28 @@
 title = "321 तथा धरिममेयानाम्"
 
 +++
+*Viṣṇu* (15.13).—‘One who steals more than a hundred *māṣas* of such
+things as arc usually sold by weight, shall be put to death.’
 
-धरणं धरिमा, तुला, तेन मीयन्ते परिछिद्यन्ते तानि **धर्ममेयानि** । घृतादीनां द्रवाणां प्रस्थादिमेयतास्तीति, कठिनानां परिमेयता भवतीति, तद् अर्थम् आह **सुवर्णरजतादीनाम्** । **आदि**ग्रहणाद् एव रजते लब्धे पुनर् उपादानात् तुल्यग्रहणार्थात् प्रवालादीनि गृह्यन्ते, न तु ताम्रलोहादीनि । तेषां शताद् ऊर्ध्वं हरणे वधः । 
+*Nārada* (Theft, 27).—‘For stealing more than a hundred *palas* of gold,
+silver or other precious metals, or valuable clothes, or very precious
+gems, corporal punishment or death shall be inflicted.’
 
-- span style="text-decoration-underline;">किं पुनर्</u> एतच् छतं पलानाम् उत कर्षाणाम् एव कार्षापणानां वा । 
+*Bṛhaspati* (22.27).—‘In the case of stealing women, men, gold, gems,
+silk and other precious things, the fine shall be equal to the value of
+the thing stolen; or double the amount shall be inflicted by the King as
+fine; or the thief shall be executed, to prevent a repetition of the
+offence.’
 
-- span style="text-decoration-underline;">केचिद्</u> आहुः पलानाम् इति । 
+*Yājñavalkya* (2.275).—‘Punishments shall be inflicted in accordance
+with the nature of the thing stolen, as to its being trifling, mediocre
+or of high class; and in inflicting punishments, the time, place, age
+and capacity should be taken into consideration.’
 
-न त्व् अत्र विशेषे[^६०] हेतुर्[^६१] अस्ति । तस्माद् यस्मिन् देशे धर्ममानकाले यया[^६२] संख्यया व्यवहारः, शतम्[^६३] इदं सुवर्णस्य, क्वचित् तोलके क्वचित् पलेषु, यथादेशं व्यवस्था । 
+*Śaṅkha-Likhita* (Vivādaratnākara, p. 324).—‘For stealing gold and gems,
+corporal punishment.’
 
-
-[^६३]:
-     M G: śrutam
-
-
-[^६२]:
-     M G: yathā
-
-
-[^६१]:
-     M G: hantur
-
-
-[^६०]:
-     M G DK (1: 1716): viśeṣo
-
-**उत्तमानां च वाससां** कौशेयपट्टादीनाम् इति ।[^६४] **शताद् अभ्यधिके वधः**[^६५] इत्य् अनुषङ्गः । अत्रापि शाटकयुगम्[^६६] एकम् इति संख्यायते । पुष्पपटाद्युपबर्हणं त्व् एकम् एवेति । 
-
-
-[^६६]:
-     M G: śākaṭakayugam
-
-
-[^६५]:
-     M G add: kecid āhuḥ | palānām iti | na tva atra viśeṣahetur
-
-
-[^६४]:
-     M G add: nanv atra viśeṣahetur asti | tasmād yasmin
-
-- span style="text-decoration-underline;">ननु</u> च सुवर्णरजतादीनाम् इत्य् एव सिद्धे परिमेयग्रहणम् अनर्थकम् । 
-
-<u>नानर्थक,</u> कर्पूरागुरुकस्तूरिकादीनां महार्घाणां ग्रहणार्थम् । **आदि**ग्रहणाद् धि तैजसानि गृह्यन्ते, निष्कादिपरिमाणव्यपदेश्यानि वा । न हि कर्पूरादीनां कर्षादिव्यपदेशो ऽस्ति । यद्य् अपि सुवर्णवद् रजते ऽपि शतसंख्या तथापि प्रायश्चित्तभेदवद् दण्डभेदो ऽपि युक्तो विषमसमीकरणस्यान्याय्यत्वात्[^६७] । अतो यावत् सुवर्णगतस्य मूल्यं तावति रूप्ये[^६८] गृहीते वधः । कर्पूरादीनां तु पलानाम् एव शतसंख्या ॥ ८.३२१ ॥
+*Arthaśāstra* (Do., p. 100).—‘For stealing gems and metals, the fine
+shall be of the value of the article stolen, say the followers of
+Manu,—double the value, say the followers of Uśanas; it shall be in
+keeping with the nature of the crime, says Kauṭilya.’

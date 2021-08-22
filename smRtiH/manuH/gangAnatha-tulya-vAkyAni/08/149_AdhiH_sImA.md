@@ -2,38 +2,30 @@
 title = "149 आधिः सीमा"
 
 +++
+*Śukranīti* (4.5.445).—‘The following property cannot be destroyed by
+length of adverse, possession:—pledge, boundary-land, minor’s property,
+trust property, sealed deposit, female slaves, government property and
+the property of Vedic Scholars.’
 
-आधीयत इत्य् **आधिर्** बन्धकद्रव्यं गोभूहिरण्याद्य् उच्यते । यच् चोत्तमर्णाद् धनम् आदीयते । **उपनिधिः** शास्त्रान्तरेणान्तर्हितो[^२७९] न्यास उक्तः, यद् अप्रदर्शितरूपं सचिह्नवस्त्रादिना पिहितं निक्षिप्यते । प्रीतिभोग्यं तु युक्तम् उपनिधिशब्दवाच्यम्, तस्य निक्षेपग्रहणेनैव गृहीतत्वात् । **सीमा** मर्यादा ग्रामादीनाम् । बहुसाधारण्याद् धि तत्रोपेक्षा संभवति । गृहादीनां तु प्राकारपरिखादिरूपा द्वित्रिहस्तपरिमाणरूपा द्वयोः साधारणी यान्यतरेण[^२८०] कथंचिद् उपजीव्यमाना[^२८१] । स्वल्पत्वाद् भोगश् च[^२८२] कश्चित् कियन्तं कालम् उपेक्षेतापि[^२८३] । तत्रापि[^२८४] दानादिसत्त्वापगमहेतुं संभावयतः[^२८५] । अतस् तत्पुत्राः पौत्रा वा गूढचिह्नादिना प्रज्ञापितसीमत्वाद् आच्छिन्दयत्य् एव । **बालधनं** दृष्टान्तार्थम्, पोगण्डशब्दस्य दर्शितत्वाद् (म्ध् ८.१४८) इत्य् उक्तम् । **स्त्रियो** दास्यः, भार्या वा । नेतरस्याधनस्यापहार उक्तः "धनस्य दशवार्षिकी" (य्ध् २.२४) इति ।
+*Nārada* (1.81).—‘A pledge, a boundary, property of a child, an open
+deposit, a sealed deposit, women, what belongs to the King, or to the
+Vedic Scholar—none of these is lost by adverse possession.’
 
+*Bṛhaspati* (9.13, 14).—‘Forcible means should not be resorted to by the
+present occupant, or his son, in maintaining possession of the property
+of an infant, or of a learned Brāhmaṇa, or the property inherited from
+one’s father;—nor of cattle, a woman, a slave, or other property.’
 
-[^२८५]:
-     DK (1: 1: 388): saṃbhāvayati (DK 5: 1190 follows edition)
+*Vaśiṣṭha* (16.18).—‘They quote the following:—“A pledge, a boundary,
+the property of minors, an open deposit, a sealed deposit, women, king’s
+property and property of the Vedic Scholar are not lost by being enjoyed
+by others.”
 
+*Gautama* (12.39).—‘Animals, land, and females are not lost by adverse
+possession.’
 
-[^२८४]:
-     DK (1: 388) add: na; (DK 5: 1190 follows edition)
-
-
-[^२८३]:
-     M G: upekṣya; J: upekṣyetāpi
-
-
-[^२८२]:
-     G M DK (1: 388): bhogasya
-
-
-[^२८१]:
-     M G: upajīyamānā; J: upajīryamāṇā
-
-
-[^२८०]:
-     M G J: yānyatare
-
-
-[^२७९]:
-     DK (1: 388): vastrā-
-
-- span style="text-decoration-underline;">ननु</u> च नेह धनम् अस्ति । "यत्किंचित्" (म्ध् ८.१४७) इति वस्तुमात्रनिर्देशो ऽयम् । 
-
-<u>नैवम्</u> । "धनी" (म्ध् ८.४७) इति संबन्धेन धनविषयतैव "यत्किंचित्" इति सामान्यशब्दस्य प्रतीयते । क एवम् आह स्त्रियो न धनम् इति । इत्थं विनियोज्ये[^२८६] द्रव्ये धनशब्दो वर्तते । अथास्माद् एव स्त्रीधनात् स्वत्वमात्रोपलक्षणम् । धनोपमानेन पुमांसो ऽपि भोगेन दासाः स्वीक्रियन्त एव ।  
-**राजस्वं** । देशेश्वरा राजानः, तेषां धनम् । ते हि महाधनत्वाद् उच्चत्वान्वयं[^२८७] धनम् अन्विच्छन्तो ऽधिकृतैर् विरुतभेदादिभिर्[^२८८] निधनीक्रियन्ते तदूनापेक्षया[^२८९] । **श्रोत्रिय**द्रव्यं श्रोत्रियधनाभियुक्तिः ॥ ८.१४९ ॥
+*Yājñavalkya* (2.25).—‘A pledge, a boundary, deposit—^(:) open and
+sealed, the property of infants, idiots, and of the King, and of women,
+and of the Vedic scholars;—with the exception of these, all property
+becomes lost to the owner by adverse possession extending over twenty
+years.’

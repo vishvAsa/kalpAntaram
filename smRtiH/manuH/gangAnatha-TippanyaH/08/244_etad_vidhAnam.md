@@ -2,5 +2,5 @@
 title = "244 एतद् विधानम्"
 
 +++
-
-सुबोधो ऽयं श्लोकः ॥ ८.२४४ ॥
+This verse is quoted in *Vivādaratnākara* (p. 176);—and in
+*Vīramitrodaya* (Vyavahāra, 139a).

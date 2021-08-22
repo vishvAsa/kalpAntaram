@@ -2,21 +2,45 @@
 title = "219 यो ग्राम-देश-सङ्घानाम्"
 
 +++
+‘*Village*’—is a group of households; and the term here stands for the
+*inhabitants* of the village; as it is only among *men* that there can
+he a compact. Similarly ‘*country*’ is a group of villages.
 
-शालासमुदायो **ग्रामः** । तन्निवासिनो मनुष्या गृह्यन्ते । तेषाम् एव संविदः संभवात् । एवं ग्रामसमुदायो **देशः** । **संघ** एकधर्मानुगतानां नानादेशवासिनां नानाजातीयानाम् अपि प्राणिनां समूहः । यथा भिक्षूणां संघो वणिजां संघश् चातुर्विद्यानां संघ इति । ग्रामादीनां यत् कार्यम्, यथा पारग्रामिकैर् ग्रामो नो ऽपहतप्रायः अस्माकीने गोप्रचारे गाश् चारयन्ति उदकं च भित्त्वा नयन्ति । तद् यदि वो मतं तद् अद्य[^५७] एतद् एषां कर्तुं न दद्मे । एवं नः प्रतिबध्नतां[^५८] यदि तैः सह दण्डादण्डिर् भवति राजकुले वा व्यवहारस् तत्र सर्वे वयम् एककार्याः, नो चेद् उपेक्षामाहे" । तत्र ये संविदते, "बाढम्, किम् इति प्राक्तनी ग्रामस्थितिस् तैर् व्यतिक्रम्यते" इति, एवं प्रोत्साह्य विसंवदेद् बलात् तैर् एव सह संगच्छेत स्वेषु वा नाभ्यन्तरः[^५९] स्यात्, स राज्ञा स्वराष्ट्रान् निर्वास्यितव्यो निष्कासयितव्यः । स्वविषये ऽस्य वस्तुं न देयम् । 
+‘*Confederation*’—a combination formed by persons professing the same
+faith or path, even though inhabiting different countries and belonging
+to different castes. For instance, there is the ‘confederation of
+mendicants,’ the ‘confederation of traders,’ the ‘confederation of
+persons learned in the Vedas,’ and so forth.
+
+There are several kinds of business is which inhabitants of villages,
+etc., make a combination among themselves. For instance—‘our village is
+being encroached upon by the inhabitants of another village,—very
+frequently they graze their cattle on our pasture-lands,—they cut our
+embankments and carry away water,—if you be all agreed, then we shall
+prevent their doing all this,—and when we prevent them, it is possible
+that we may come to blows, or may have to appear before the ‘court;—if
+we remain combined in all this, then we shall go forward to prevent the
+encroachment; otherwise we shall let it be.’ On this compact being
+proposed, men may agree to it, saying—‘yes; why should the ancient
+privileges of our village be trespassed by them?’ Now, after having thus
+entered the compact and encouraged it, if some one were to shirk away
+and make common cause with the other party, and become lukewarm towards
+his own neighbours,—such a person should be banished by the king from
+his kingdom; *i.e*., he should not be allowed to live there any longer.
+
+Similarly, in regard to the business of tradespeople or Brāhmaṇas and
+others, when once a man has entered into a compact, he should not break
+it.
+
+The penalty here laid down pertains to the breach of compacts relating
+to such work as is of public utility, in due accordance with law and
+custom, and not detrimental to the interests of the city and kingdom at
+large.
+
+‘*Through* *greed*—‘*greed*’ here stands for succumbing to one’s own
+selfish interests as served by the inhabitants of the rival village.
+
+For cases of such breach, *through ignorance*, there is another
+remedy.—(219)
 
 
-[^५९]:
-     M G: bāhyābhyantaraḥ
-
-
-[^५८]:
-     M G: prativardhatāṃ; DK (1: 864): pratibandhatāṃ
-
-
-[^५७]:
-     M G: yad yam
-
-एवं वणिङ्मठब्राह्मणादिकार्ये ईदृशे कृतसंइत् तेन नातिक्रमितव्यम् । यत् कार्यं ग्रामाद्युपकारकं शास्त्राचारप्रसिद्धं पुरराष्ट्राविरोधि तत्संविद्व्यतिक्रमे दण्डो ऽयम् ।   
-
-**लोभाद्** इति । स्वेनोपकारगन्धेन परग्रामणीकृतेनास्वातन्त्र्यं **लोभः** । अज्ञानात् तु विसंवादमान्यस्यान्यः[^६०] कल्पः ॥ ८.२१९ ॥

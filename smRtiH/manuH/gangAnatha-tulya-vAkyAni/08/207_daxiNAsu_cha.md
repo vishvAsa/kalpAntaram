@@ -2,15 +2,23 @@
 title = "207 दक्षिणासु च"
 
 +++
+*Yājñavalkya* (2.265).—(See under 206.)
 
-माध्यन्दिने सवने दक्षीना दीयन्त इति । तत उपरिष्टात् कर्म त्यजताम् अप्रत्याहरणीयां[^२७] लभेत, दक्षिणाम् इति शेषः,[^२८] न प्रतीपं त्याजयेद् इत्य् अर्थः । अन्यां भृतिं दत्वा **अन्येन** पुरुषेण यजमानस् तत्कर्म समापयेत् । ऋत्विग्भिः कर्म कर्तव्यं वरणाच् च ऋत्विजो भवन्ति । तच् च नियतकाले प्राक् कर्मण आरम्भात् । अतः क्रतु क्रियमाणं विगुणं भवति, समाप्तिश् चापि कर्तव्येति विगुणं चेत् समापनीयम् अङ्गान्य् एव तदन्यकर्तृकाणि करिष्यामीति बुद्धिनिवृत्त्यर्थम् उक्तम् **अन्येनैवेति** । तावद् एव विगुणं यद् अशक्यम्, शक्यं तु सर्वं कर्तव्यम् । 
+*Śaṅkha-Likhita* (Vivādaratnākara, p. 120).—‘After a Priest has been
+appointed, if the sacrificer appoint another, the fee shall be paid to
+the former; if he happen to go out for some time, then his return shall
+be awaited, and the sacrificer shall not go on with the performance
+during his absence. If the completion of the performance becomes urgent,
+he may have it completed; and on his return, the priest may be given
+some fee.’
 
-
-[^२८]:
-     M G DK omit: dakṣiṇām iti śeṣaḥ
-
-
-[^२७]:
-     M G: apratyāharaṇīyā; DK (1: 774): apratyāharaṇīyaṃ
-
-<u>केचित्</u> **कारयेद्** इति ऋत्विजो ऽपि संबन्धम् आहुः । गृहीत्वा दक्षिणां वाधिकां दद्यात् स्वयम् अशक्नुवन् । प्राग् दक्षिणाभ्यः शेषकर्मसमापने यजमान एवाधिक्रियते ॥ ८.२०७ ॥
+*Nārada* (3.8-11).—‘When an officiating priest has met with an accident,
+another priest shall officiate for him, and receive from him his part of
+the fee. Where an officiating priest forsakes a sacrificer, who is no
+offender and is free from guilt,—or when a sacrificer forsakes a
+faultless priest,—they shall both be punished. There are three sorts of
+officiating priests: hereditary, appointed by the sacrificer himself,
+and one who performs the priestly functions of his own accord, through
+friendship; the above law applies to the hereditary and appointed
+priests; no sin attaches to the forsaking of the priest acting of his
+own accord.’

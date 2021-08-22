@@ -2,21 +2,11 @@
 title = "411 क्षत्रियञ् चैव"
 
 +++
-
-[^३८७]**वृत्त्या कर्शितौ ब्राह्मणो बिभृयाद्** भक्तदानादिना, क्षत्रियवैश्ययोर् भरणं कुर्यात् । **आनृशंस्येन **अनुकम्पया **स्वानि कर्माणि कारयेत्**, ब्राह्मणस्य यानि स्वानि समित्कुशोदकुंभाहरणादीनि । अथ वा क्षत्रियवैशयोर् यानि स्वानि । क्षत्रियो ग्रामरक्षादौ नियोक्तव्यो वैश्यः स्वकृषिपसुपाल्यादौ । महाधनो यो ब्राह्मणो महापरिच्छदश्[^३८८] च सामर्थ्यात् तस्यैष विधिः । **स्वानि कर्माणीति** वचनात् दास्यं न[^३८९] कारयितव्यौ[^३९०] गर्हितोच्छिष्टमार्जनादि ॥ ८.४११ ॥
-
-
-[^३९०]:
-     M G: kārayitavyo
-
-
-[^३८९]:
-     M G omit: na
+This verse is quoted in *Vivādaratnākara* (p. 253), which explains
+‘*svāni karmāṇi*’ as ‘duties prescribed for their respective castes’;—in
+*Aparārka* (p. 789);—and in *Vīramitrodaya* (Vyavahāra, 126a), which
+says that the meaning is that ‘if a Kṣatriya or a Vaiśya has become a
+slave through want of living, his master should treat him well and take
+light work from him.’
 
 
-[^३८८]:
-     M G: mahāpariṣac
-
-
-[^३८७]:
-     M G adds at the beginning: brāhmaṇasya ca

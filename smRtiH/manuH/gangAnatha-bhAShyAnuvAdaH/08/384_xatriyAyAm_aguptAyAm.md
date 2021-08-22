@@ -2,13 +2,14 @@
 title = "384 क्षत्रियायाम् अगुप्तायाम्"
 
 +++
+For the *Vaiśya* there shall be a fine of five hundred, if he has
+intercourse with an unprotected *Kṣatriya* woman.
+
+For the *Kṣatriya* also there shall be the same penalty; or he may
+suffer ‘tonsure’—shaving of the head with ass’s urine.
+
+The same punishment is applicable to both the *Vaiśya* and the
+*Kṣatriya* for having intercourse with an unprotected *Vaiśya*
+woman.—(384)
 
 
-[^३०२]:
-     M G DK: icchet
-
-वैश्यस्य पञ्च शतानि दण्डः, अगुप्तां चेत्[^३०३] क्षत्रियां गच्छति । क्षत्रियस्य स एव । यदि वा मौण्ड्यं मुण्डनम् **ऋच्छेत्** प्राप्नुयाद् गर्दभमूत्रेण । एष एव वैश्यागमन उभयोर् दण्डः ॥ ८.३८४ ॥
-
-
-[^३०३]:
-     M G DK: ca

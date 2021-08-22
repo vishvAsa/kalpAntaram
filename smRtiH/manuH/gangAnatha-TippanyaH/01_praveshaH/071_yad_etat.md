@@ -2,9 +2,20 @@
 title = "071 यद् एतत्"
 
 +++
+Burnell remarks—“According to the commentators the translation should
+run thus: ‘The four Yugas just reckoned (consisting of) twelve thousand
+years are called a *Yuga* of the gods.” This is the translation adopted
+by Buhler also. What is not quite accurate is the statement that such a
+translation is “according to the commentators”,—when we find that
+according to Medhātithi at least, the meaning of the verse is as it is
+represented by Burnell in his text. Medhātithi says
+explicitly—‘*dvādaśa-chaturyuga—sahasrāṇi devayugam nāma kāla
+ityarthaḥ*’.
 
-**यद् एतद्** इति लौकिकी वाचो युक्तिः । समुदायेन प्रक्रान्तो ऽर्थः परामृश्यते । यद् एतच् **चतुर्युगं** **परिसंख्यातं** चत्वारि सहस्राणीत्यादिना निश्चितसंख्यम् **आदौ** प्राग् अस्माच् छ्लोकात्- एतस्य[^१०७] चतुर्युगस्य द्वादशभिः सहस्रैर् **देवानां युगम् उच्यते** । द्वादशचतुर्युगसहस्राणि देवयुगं नाम काल इत्य् अर्थः । सहस्रशब्दात् स्वार्थे ऽण् । द्वादशचतुर्युगसहस्राणि परिमाणं यस्मिन्न् इति विग्रहः ॥ १.७१ ॥
-
-
-[^१०७]:
-     M: chlokākasya; G: ekasya
+In face of the fact that the words of the text themselves convey this
+meaning—which involves the ‘lengthening’ of the ordinary into divine
+years,—it is difficult to understand Burnell’s remark that this
+‘lengthening’ ‘is the work of commentators.’ On the contrary, on
+Burnell’s own showing, the ‘commentators’ would appear to have
+*shortened* the great length of the divine year clearly expressed by the
+words of the text.

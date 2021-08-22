@@ -2,25 +2,29 @@
 title = "126 अनुबन्धम् परिज्ञाय"
 
 +++
+*Gautama* (12.51).—‘The award of punishment must be regulated by a
+consideration of the status of the criminal, of his bodily strength, of
+the nature of the crime, and whether the offence has been repeated.’
 
-उक्तानुक्तदण्ड्येष्व् अपराधेषु मातृकाश्लोको ऽयम् । एतदर्थानुसारणेन सर्वत्र दण्डकॢप्तिः कर्तव्या । तत्र पौनःपुन्येन प्रवृत्तिर् **अनुबन्धः**, प्रवृत्तिकरणं वा, अनुबध्यते प्रयुज्यते येन तस्मिन् कर्मणि । तं **परिज्ञाय** । किम् अयम् आत्मकुटुम्बक्षुदवसायेन[^१४६] धर्मतन्त्रप्रसङ्गेन[^१४७] वा, अथ मद्यद्यूतादिशौण्डतया, तथा प्रमादाद् बुद्धिपूर्वं वा परप्रयुक्तः[^१४८] स्वेच्छया वेत्यादिर् **अनुबन्धः** । **देशो** ग्रामारण्यगृहजलजन्मप्रसवभूम्यादिः[^१४९] । **कालो** नक्तं दिवादिः सुभिक्षदुर्भिक्षबाल्ययौवनादिर् वा[^१५०] । **सारः** शक्त्यशक्ती आढ्यत्वदारिद्र्ये । **अपराधो** ऽष्टादशानां पदानाम् अन्यतमः । एतत् सर्वं पौर्वापर्येण निरूप्य तथा **दण्डं पातयेत्** कुर्याद् यथा स्थितिः सांसारिकी न भ्रश्यतीति ॥ ८.१२६ ॥
+*Yājñavalkya* (1.367).—‘On those deserving punishment, the King shall
+inflict punishment after having considered the nature of the crime, the
+time, place and strength of the criminal, as also his age, conduct and
+wealth.’
 
+*Nārada* (Punishments, 38).—‘After carefully considering the nature of
+the offence, the place and time, and after examining the ability of the
+offender, and his motive, he shall inflict the punishments.’
 
-[^१५०]:
-     M G DK (1:576) omit: vā
-
-
-[^१४९]:
-     M G: -graha-
-
-
-[^१४८]:
-     M G J: paraprayukta-
-
-
-[^१४७]:
-     M G DK (1:576): -tantrasaṅgena
-
-
-[^१४६]:
-     MD (4:1971; but not 1: 576): -avasādena
+*Bṛhaspati* (27.4-7).—‘When he has discovered a man to be an offender,
+the King should inflict on him, reprimand, reproach or corporal
+chastisement, or one of the four grades of fines. He shall inflict
+gentle reprimand when the offence is very light; harsh reproach for a
+crime of the first degree; a fine for a crime of the middlemost degree,
+and arrest in the case of high treason. Banishment also may be resorted
+to by a king desirous of promoting his own welfare;...... and all the
+various forms of punishment should be combined in the case of one who
+has committed a mortal sin. The King should punish elders, domestic
+priests and persons commanding respect, with admonition only; other
+litigants he should punish with fine, when they are found guilty; and on
+the perpetrators of a heavy crime, he should inflict corporal
+punishment.’

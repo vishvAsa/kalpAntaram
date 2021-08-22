@@ -2,13 +2,12 @@
 title = "399 राज्ञः प्रख्यातभाण्डानि"
 
 +++
+*Viṣṇu* (5.130).—‘He who sells a commodity on which the King has laid an
+embargo, shall have it confiscated.’
 
-**राज्ञः** संबन्धितया **प्रख्यातानि** **यानि** **भाण्डानि** राजोपयोगितया — यथा हस्तिनः, काश्मीरेषु कुंकुमम्, प्राच्येषु[^३५५] पट्टोर्णादीनि, प्रतीच्येष्व् अश्वाः, दाक्षिणात्येषु मणिमुक्तादीनि — यद् यस्य राज्ञो विषये सुलभम् अन्यत्र दुर्लभं तत्र तस्य प्रख्यापनं[^३५६] भवति । तेन हि राजान इतरेतरं संदधते । **प्रतिषिद्धानि यानि** राज्ञा मदीयाद् देशान् नैतद् अन्यत्र नेयम् अत्रैव वा विक्रेयं यथा दुर्भिक्षे धान्यम् इत्य् एवमादीनि । **लोभान् निर्हरतो** देशान्तरं नयतो विक्रीणानस्य वा **सर्वहारं हरेत्,** सर्वहरणं सर्वहारः । अयं धनलोभान् नयतो दण्डः । राजान्तरोपायनार्थं त्व् अधिकतरः शारीरो ऽपि दुर्गावरोधादिः ॥ ८.३९९ ॥
+*Yājñavalkya* (2.261).—‘If anything is sold of which the sale has been
+prohibited or which is fit for the King’s own use, shall go to the
+King.’
 
-
-[^३५६]:
-     M G: prakṣālanaṃ; DK 1: 1706; not 4: 2330): prakhyātaṃ
-
-
-[^३५५]:
-     M G: kuṃkumaprāyeṣu; DK (1: 1706; not 4: 2330) omits: prācyeṣu
+*Śaṅkha-Likhita* (Vivādaratnākara, p. 301).—‘On selling a forbidden
+commodity, one shall have his limbs cut off.’

@@ -2,27 +2,21 @@
 title = "107 त्रिपक्षाद् अब्रुवन्"
 
 +++
+*Gautama* (13.6).—‘If witnesses, on being asked, do not answer, they are
+guilty of a crime.’
 
-पञ्चदशाहोरात्राणि **पक्षः** । त्रयाणां पक्षाणां समाहारः **त्रिपक्षम्** । "अकारान्तोत्तरपदो द्विगुः" (पत् इ- ४८०) इति स्त्रीत्वे प्राप्ते पात्रादिदर्शनात्[^७८] प्रतिषेधः । यद्य् एवं त्रिपक्षीति न प्राप्नोति । छान्दसस् तत्र लिङ्गव्यत्ययः । ल्यब्लोपे कर्मणि पञ्चमी । त्रीन् पक्षान् यावद् अतीय यः साक्ष्यं न ददाति । **अगदो** ऽपीडितशरीरस् **तद् ऋणं**[^७९]** प्राप्नुयाद्** इत्य् अर्थः । **दशबन्धं** **च** । दशमं भागं दण्डनीयस् तस्माद् ऋणात् । **ऋणादिषु** इत्यादिग्रहणेन सर्वव्यवहारोपक्रमः । द्वितीयम् ऋणग्रहणम् उपलक्षणार्थम् । यस्मिन् व्यवहारे साक्ष्यम् इयन्तं कालं न[^८०] भवति पराजीयमानस्य[^८१] साक्षिणो बोढार[^८२] इत्य् उक्तं भवति । **गदो** रोगस् तत्समानप्रत्युत्थानहेतूपलक्षणार्थम् । तेनात्र कुटुम्बोपद्रवधनिकोपरोधाद्य् अपि परीक्ष्यम् । **बन्ध**शब्दः संख्यादिपरो दण्डविषये दशमाषवचनः । **नर**ग्रहणं **सर्वतो**ग्रहणं च श्लोकपूरणार्थम् । 
+*Yājñavalkya* (2.76).—‘A person not deposing as a witness should be made
+to pay, on the forty-sixth day, the entire amount of the debt (involved
+in the suit), along with the tenth part of that amount as penalty.’
 
+*Bṛhaspati* (7.31).—‘If a witness, who is not ill, being summoned, does
+not make his appearance, he should be made to pay the debt and also a
+fine, after the lapse of three fortnights.’
 
-[^८२]:
-     M G DK: bāḍham; I do not understand the meaning of boḍhāra accepted by Jha.
+*Nārada* (1.197).—‘He who conceals his knowledge at the time of trial,
+although previously he has stated to others what he knows, deserves
+specially heavy punishment; for he is more criminal than a false
+witness.’
 
-
-[^८१]:
-     M G DK add: bādhaḥ sa
-
-
-[^८०]:
-     M G DK omit: na
-
-
-[^७९]:
-     M G: tatsadṛśaṃ
-
-
-[^७८]:
-     See Pat I: 480.12: pātrādibhyaḥ pratiṣedho vaktavyaḥ. 
-
-<u>अन्ये त्व्</u> आहुस् **तद् ऋणं प्राप्नुयाद्** इत्य् अस्यायम् अर्थः । ऋणापहरणलक्षणेन[^८३] पापेन युज्येत । राज्ञे वा जीयमानस्य यो दण्डस् ततो दशमम् अंशं दद्याद् इति दण्डितः पुनः दण्ड्यते[^८४] ॥ ८.१०७ ॥
+*Śukranīti* (4.5.387).—‘The man who, when summoned, does not bear
+witness is punishable.’
