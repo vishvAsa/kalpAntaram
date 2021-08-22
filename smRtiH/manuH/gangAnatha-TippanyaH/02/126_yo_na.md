@@ -2,11 +2,28 @@
 title = "126 यो न"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 450), where the
+following explanation is added:—The meaning is that the man who does not
+know the return greeting in strict consonance with rules of salutation
+does not deserve to be greeted at all, the correct form of the response
+being as laid down in the preceding verse—the ultra-elongation of the
+vowel at the end of the name pronounced by the saluter in the formula of
+salutation. What is prohibited here is only that salutation which is
+accompanied by the formula containing the saluter’s name; that all
+salutation is not entirely interdicted is indicated by the words ‘he is
+exactly as the Śūdra is’;—the Śūdra also, when over ninety years of age,
+is deserving of salutation, according to Manu 2. 137. The word
+‘*pratyabhivādanam*’ means the pronouncing, by the elder who has been
+saluted, of benediction with prescribed formula.
 
-**यो न वेत्ति प्रत्यभिवादनम्** इत्य् <u>एवं वाच्यम्</u> **अभिवादस्येत्य्** अतिरिच्यते, न संगच्छते । <u>नैवम्</u> । **अभिवादस्य** अनुरूपं **प्रत्यभिवादनम्** इत्य् एवं योजना क्रियते । येन स्वनामोच्चार्याभिवादनं कृतं तस्य नामान्ते प्लुतिः कर्तव्या । यस् त्व् "अहं भो" इत्य् एवम् अभिवदेन् न तस्य नामोच्चारणं[^३५९] नापि प्लुतिर् इति । 
+This verse is quoted also in *Madanapārijāta* (p. 28), which adds a
+verse from Yama to the effect that the Brāhmaṇa who, on being saluted,
+does not return the proper benediction, is born as a tree in the
+crematorium, inhabited by crows and vultures.
+
+It is quoted in *Parāśaramādhava* (Ācāra, p. 297) as laying down that no
+salutation should be offered to one ignorant of the proper form of the
+response to it;—in *Nityāchārapradīpa* (p. 407);—in *Saṃskāramayūkha*
+(p. 57);—and in *Smṛticandrikā* (Saṃskāra, p. 98).
 
 
-[^३५९]:
-     M G: nāmnoccāraṇaṃ
-
-- **नाभिवाद्य** इत्य् अभिवादनशब्दोच्चारणप्रतिषेधः । यथा विहितम् अभिवादनं कर्तव्यम्, न पुनर् "अहं भो" इत्यादि, तस्य प्राग् दर्शितत्वात् । **यथा शूद्र** इति च दृष्टान्तेनैतद् एव ज्ञायते । शूद्रस्यापि वृद्धवयसो ऽभिवाद्यत्वं पूर्वाभिभाष्यत्वम् इष्यते । **विदुषेति** पादपूरणार्थम् ॥ २.१२६ ॥

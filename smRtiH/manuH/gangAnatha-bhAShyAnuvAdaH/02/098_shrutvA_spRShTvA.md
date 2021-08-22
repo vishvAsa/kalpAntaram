@@ -2,15 +2,30 @@
 title = "098 श्रुत्वा स्पृष्ट्वा"
 
 +++
+‘*Having heard*,’—such things as the sound of the flute, singing, etc.,
+or such flattering words as ‘you are Bṛhaspati himself,’—‘*does not
+rejoice*.’
 
-**श्रुत्वा** वंशगीतादिध्वनिम्, "त्वं बृहस्पतिः" इत्यादिवचनं श्रुत्वा, **न** **हृष्यति** । रूक्षपरुषाक्रोशवाचः श्रुत्वा **न ग्लायति,** न मनोदुःखं भजति[^२९९] । ग्लानिः खेदः । **स्पृष्ट्वा** राङ्कवकौशेयादिवस्त्रम् अजलोमकुतपं च समत्वेनानुभवति । एवं सुवेषतरुणीजननटप्रेक्षासु शत्रुदर्शने च समः । बहुघृतं क्षीरषष्टिकान्[^३००] कोद्रवांश् च समं भोजने । देवदारुतैलं कर्पूरादि च तुल्यं जिघ्रतः । तथा कर्तव्यं यथा केवलैर् मानसैः सुखदुःखैर् न स्पृश्यते । एवं तेन जितानीन्द्रियाणि भवन्ति । न त्व् अप्रवृत्त्यैव । इयत्पर्यन्तः संयमः आश्रयणीयः ॥ २.९८ ॥
+‘*Does not grieve*’—does not suffer mental sorrow; ‘*grief*’ means
+sorrow.
+
+‘*Having touched*’;—such things as garments made of the hair of the
+*Raṅku* deer, or of silk, or of the wool of sheep and goats, he touches
+with equal feelings. Similarly he has exactly the same feelings in
+regard to the sight of beautiful young women or of enemies; he eats with
+equal feelings food cooked with plenty of butter and milk, as well as
+coarse *rava* grains; he has the same feelings when smelling such things
+as the oil of *Devadāru* and the oil of camphor, etc.
+
+The man should behave so that he is not touched by mental joy or sorrow;
+it is thus that his organs become subjugated; and not by mere
+inactivity. So that restraint should be practised up to the said
+point.—(98)
+
+*Objection*—“Contact with women alone having been prohibited for the
+Religions Student, why should the taking of nicely cooked food received
+in alms be prohibited for him?”
+
+In answer to this we have this next verse:—
 
 
-[^३००]:
-     J: -ṣaṣṭikāṃ
-
-
-[^२९९]:
-     M G 1st ed.: bhajati
-
-_<u>ननु</u> च ब्रह्मचारिणा स्त्रीसंबन्धो यत्नेन वर्ज्यः, संस्कृतभिक्षालाभस् तु किम् इति निषिध्यते । अत आह_ ।[^३०१]

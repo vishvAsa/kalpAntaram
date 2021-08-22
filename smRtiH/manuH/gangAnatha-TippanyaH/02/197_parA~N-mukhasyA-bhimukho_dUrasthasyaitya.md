@@ -2,5 +2,16 @@
 title = "197 पराङ्-मुखस्याऽभिमुखो दूरस्थस्यैत्य"
 
 +++
+‘*Nideśe tiṣṭhataḥ*’.—‘Standing close by’ (Medhātithi, Govindarāja,
+Kullūka, and Rāghavānanda);—‘standing in a lower place’ (Nārāyaṇa and
+Nandana).
 
-तथा **पराङ्मुखस्य** गुरोः संमुखोपविष्टः शिष्यः । यदि गुरुः परावृत्य कथंचित् स्थितः प्रेष्यति, तां दिशं गत्वाभिमुखीभूय पूर्वोक्तं कर्तव्यम् । **दूरस्थस्य** समीपं **अन्तिकम्** **एत्य** आगत्य प्राप्य । आसीनस्यापि **शयानस्य प्रणम्य** प्रह्वो भूत्वा गात्राण्य् अवनमय्य । **निदेशे** निकटे तिष्ठतो ऽपि प्रणम्यैव यत् प्राग् उक्तम् अभिगच्छन्न् इति ॥ २.१९७ ॥
+This verse is quoted in *Madanapārijāta* (p. 106), where the following
+explanation is added:—We have the form ‘*osyetya*’ (which is the reading
+adopted by the writer) and ṇot ‘*syaitya*’ because of the Sūtra
+‘*mānaśca*’;—‘*praṇamya*’ is to be construed with ‘*nirdeśe* (the
+reading adopted by the writer) *tiṣṭhataḥ*’;—‘*nirdeśe*’ meaning *in a
+lower place*, or, according to others *in a place close by*;—and in
+*Aparārka* (p. 56).
+
+

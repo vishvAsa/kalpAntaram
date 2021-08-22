@@ -2,5 +2,26 @@
 title = "183 वेद-यज्ञैर् अहीनानाम्"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 453) in support of
+the view that alms are to be begged only from ‘praiseworthy’ persons;—in
+*Vīramitrodaya* (Saṃskāra, p. 381), as laying down the special
+qualifications of the Brāhmaṇas from whom the Brāhmaṇa Student is to beg
+alms;—and in *Vidhānapārijāta* (p. 496) in support of the view that even
+among people of his own caste, alms should be begged only from the
+houses of specially qualified men.
 
-**वेदज्ञैश्** च य **अहीना** वेदाध्ययनेन संयुक्ताः यज्ञानां च सत्य् अधिकारे कर्तार **अहीना** अवर्जिता तदुपेता इति यावत् । **स्वकर्मसु च प्रशस्ताः** । येषां यज्ञ्ē ऽधिकारो नास्त्य् अन्यस्मिन् शस्ते कर्मणि तत्पराः । अथ वा स्वकर्मप्रशस्तास् ते उच्यन्ते ये स्ववृत्ताव् एव संतुष्टा न वार्द्धुषिकादिवृत्त्युपजीविनः । तेषां **गृहेभ्यो भैक्षम् आहरेद्** याचित्वा गृह्णीयात् **प्रयतः** शुचिः । **अन्वहम्** इत्य् अनुवादः ॥ २.१८३ ॥
+This is quoted in *Aparārka* (p. 59);—in *Saṃskāramayūkha* (p. 60);—in
+*Saṃskāraratnamālā* (p.
+
+288), which adds the following notes:—Those who are not devoid of the
+knowledge of one or two or three Vedas,—those who have not omitted to
+perform the sacrifices,—and those who are carrying out in a praiseworthy
+manner all the duties prescribed for them,—from the house of such
+parsons, the Brahmacārī—ha who is keeping the vows for the sake of Vedic
+study—keeping all the restraints and observances—should daily obtain
+‘alms’—‘*bhaikṣam*’ being a collective noun;—and in *Smṛticandrikā*
+(Saṃskāra, p. 109).
+
+
+
+

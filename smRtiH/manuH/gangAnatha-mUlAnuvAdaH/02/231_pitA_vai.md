@@ -3,4 +3,4 @@ title = "231 पिता वै"
 
 +++
 
-केनचित् सामान्येनायं पित्रादीनां गार्हपत्यादिव्यपदेशः । **साग्नित्रेता** आधानाग्नित्रेता या **गरीयसी** महाफला । त्राणं त्राणार्थम् इता प्राप्ता त्रेता इति शब्दव्युत्पत्तिः ॥ २.२३१ ॥
+The Father has been declared to be the Gārhapatya Fire, the Mother the Dakṣiṇa Fire, and the Preceptor the Āhavanīya fire; and this Triad of fires is highly important.—(231)

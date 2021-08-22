@@ -2,9 +2,15 @@
 title = "115 यम् एव"
 
 +++
+As a parallel to this *Vīramitrodaya* (Saṃskāra, p. 515) quotes the
+following ‘śruti’—
 
-**यं** शिष्यं **शुचिं** जानीयाः[^३४६] **नियतं** संयतेन्द्रियं यत्नपरं **ब्रह्मचारिणं तस्मै मां ब्रूहि** । यो हि निधिं पाति रक्षति । यतो ऽसाव् **अप्रमादी** न प्रमाद्यति न स्खलति, तत्परत्वात् । शक्ताप्तार्थदादीनां सर्वशिष्याणाम् एतद्गुणसंयोगे देयेत्य् अस्माद् अर्थवादाद् गम्यते ॥ २.११५ ॥
+> yameva vidyā śucimapramattaṃ  
+> medhāvinaṃ brahmacaryopapannam \|  
+> yaste na duhyet katamañca nāhaṃ  
+> tasmai māṃ vrūyā nidhidāya brahman \|\|
+
+This verse is quoted in *Madanapārijāta* (p. 103) also in
+*Vidhānapārijāta* (p. 523).
 
 
-[^३४६]:
-     M G: jānīyān

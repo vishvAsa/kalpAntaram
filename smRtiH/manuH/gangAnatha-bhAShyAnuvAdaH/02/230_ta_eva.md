@@ -2,5 +2,24 @@
 title = "230 त एव"
 
 +++
+What is stated here is on the understanding that there is no difference
+between the cause and its effects.
 
-कार्यकारणयोर् अभेदाद् एवम् उच्यते । त्रयाणां लोकानां प्राप्तिहेतुत्वात् **त एव त्रयो लोका** उच्यन्ते । **त एव च त्रयः** प्रथमाद् ब्रह्मचर्याद् अन्ये **त्रय आश्रमाः** । गार्हस्थ्यादिभिर् त्रिभिर् आश्रमैर् यत् फलं प्राप्यते तत् तैस् त्रिभिस् तुष्टैः । **त एव त्रयो वेदा** वेदत्रयजपतुल्यफलत्वात् । **त एव त्रयो ऽग्नयः** । अग्निसाध्यकर्मानुष्ठानफलावाप्तेस् तच् छ्रुश्रूषातः । एषापि प्रशंसैव ॥ २.२३० ॥
+‘*These have been declared to be the three regions*,’—because they are
+the means by which one is enabled to reach the three regions.
+
+‘*These the three life-stages*’—*i.e*., with the exception of *the
+first*, that of the Religious Student. The meaning is that the reward
+obtained by means of the three life-stages beginning with that of the
+Householder is obtained if these three persons are satisfied.
+
+‘*These the three Vedas*’;—because service of them brings the same
+reward that is obtained by reciting the three Vedas.
+
+‘*These the three Fires*’;—because the serving these brings the rewards
+that are obtained by the performance of acts done with the help of the
+three sacrificial fires.
+
+This also is purely eulogistic.—(230)
+
+

@@ -2,9 +2,27 @@
 title = "114 विद्या ब्राह्मणम्"
 
 +++
+This verse is an adaptation of a very much older text. *Vīramitrodaya*
+(Saṃskāra, p. 515) quotes this latter text as ‘śruti’—
 
-अयम् अप्य् अर्थवाद एव । **विद्या** मूर्तिमती कंचिद् उपाध्यायम् आगत्य **आह** प्रोक्तवती । **शेवधिर्** निधिस् तव **अस्मि रक्ष माम्** । का पुनस् ते रक्षा । **असूयकाय** कुत्साकराय निन्दकाय **मां** **मादाः** । निन्दकं माध्यापय । **तथा** चैवम् अहं **वीर्यवत्तमा** अतिशयेन तव कार्यकारिणी[^३४४] भवामि । वीर्यं कार्यनिवृत्तौ सामर्थ्यातिशयः । "शेवधिष्टे ऽस्मि" इति कृतषत्वं पठितं तच्छान्दसप्रयोगानुकरणम् ॥ २.११४ ॥
+> vidyā ha vai brāhmaṇamājagām  
+> gopāya māṃ śevadhiṣṭe'hamasmi \|  
+> asūyakāyānṛjave apatāya  
+> nā mām brūyāt avīryavatī tathā syām \|\|
+
+Burnell and Hopkins remark as follows:—“This with verse 144, which
+appears to have originally followed these verses as a whole, constitutes
+a favourite saying of the Brāhmaṇas. These verses in an older form are
+quoted in the Nirukta (ii-4), and (more like this present text) they
+occur also in the *Viṣṇu* and *Vaśiṣṭha Smṛtis* s they also occur in
+*Saṃhitopaniṣad-brāhmaṇa* of the Sāmaveda (pp. 29-30). The older form of
+these two verses 114 and 115 (as well as 144) was in the *Tṛṣṭup* metre,
+as in the Smṛtis just referred to.”
+
+This verse is quoted in *Madanapārijāta* (p. 103)—where the Amarakoṣa is
+quoted as explaining ‘*Śevadhi*’ as ‘*nidhi*,’ ‘treasure and ‘*asūyā*’
+is defined as ‘tendency to fault-finding.’
+
+It is quoted also in *Vidhānapārijāta* (p. 523).
 
 
-[^३४४]:
-     M G 1st ed,: kārakarī

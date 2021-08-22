@@ -3,8 +3,4 @@ title = "163 सुखं ह्य्"
 
 +++
 
-पूर्वस्य विधेर् अर्थवादो ऽयं फलदर्शनार्थः । सो ऽवमानान् न क्षुभ्यति स **सुखं शेते** । अन्यथा द्वेषेण दह्यमानो न कथंचिन् निद्रां लभते । प्रतिबुद्धश् च तच्चिन्तापरो न **सुखं** विन्दति । उत्थितश् च शयनात् कार्येषु **सुखं चरति** । यस् त्व् अवमानस्य कर्ता स तेन पापेन **विनश्यति**[^४११] ॥ २.१६३ ॥
-
-
-[^४११]:
-     M G 1st ed. omit: yas tv . . . vinaśyati
+One who is scorned sleeps in comport and wakes up in comfort and goes about in the world in comport; it is the scorner that perishes.—(163)

@@ -2,7 +2,16 @@
 title = "155 विप्राणाञ् ज्ञानतो"
 
 +++
+This verse is quoted in *Vidhānapārijāta II* (p. 233);—in
+*Madanapārijāta* (p. 32);—and in *Vīramitrodaya* (Saṃskāra, p. 480).
 
-अयम् अप्य् अर्थवाद एव । यद् उक्तं वित्तादिभ्यः समुदितेभ्यः केवलापि विद्या ज्यायसीति तद् एव सप्रपञ्चम् अनेन निर्दिश्यते । 
+*Medhātithi* (P. 145,1.16)—‘*Brāhmaṇaparivrājakavat*’—This maxim is
+generally cited in cases where an object whose character has become
+modified is spoken of by a name connotative of its former condition. For
+instance, when a Brāhmaṇa has become a ‘wandering mendicant’, he is
+called ‘Brāhmaṇa-mendicant’, in consideration of his past
+*Brahmaṇahood*. In the present context however the maxim is used in the
+sense that where one uses the term ‘*Brāhmaṇaparivrājaka*’, the Brāhmaṇa
+being already spoken of by name, the term
 
-- ब्राह्मणानां ज्ञानेन **ज्यैष्ठ्यं** न वित्तादिभिः, **क्षत्रियाणां वीर्यतः** ।वीर्यं द्रव्यस्य कौशलं दृढप्राणता च । **वैश्यानां धान्यधनतः** । धान्यस्य पृथगुपादानाद् धनशब्दो हिरन्यादिवचनः, ब्राह्मणपरिव्राजकवत् । बहुधनो वैश्यः स ज्येष्ठः । आद्यादित्वात् तृतीयार्थे तसिः । "हेतौ तृतीया" (पाण् २.३.२३) ॥ २.१५५ ॥
+

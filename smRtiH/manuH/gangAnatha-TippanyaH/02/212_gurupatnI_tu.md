@@ -2,9 +2,10 @@
 title = "212 गुरुपत्नी तु"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462), where it is
+explained that the term ‘*purṇaviṃśativarṣeṇa*’ stands for *full youth*,
+and stress is not meant to be laid upon the precise age mentioned;—also
+in *Parāśaramādhava* (Ācāra, p. 301);—and in *Smṛticandrikā* (Saṃskāra,
+p. 104).
 
-**पूर्णविंशतिवर्षेण** तरुणेनेत्य् अर्थः । बालस्य आ षोडशाद् वर्षाद् अदोषः । पूर्णानि विंशतिवर्षाणि यस्य स एवम् उच्यते । अयं कालो[^५३२] यौवनोद्भेदोपलक्षणार्थः । अत एवाह **गुणदोषौ विजानता** । कामजे सुखदुःखे गुणदोषाव् अभिप्रेतौ स्त्रीगतौ च स्वाकृतिदुराकृतिलक्षणौ धर्यचापले वा । सर्वथातन्त्रा विंशतिसंख्या ॥ २.२१२ ॥
 
-
-[^५३२]:
-     M G 1st ed.: nyāyo

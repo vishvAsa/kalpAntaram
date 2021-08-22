@@ -3,8 +3,4 @@ title = "092 एकादशम् मनो"
 
 +++
 
-एकादशसंख्यापूरकं **मन** इन्द्रियाणाम् । स्वो गुणो मनसः संकल्पः । तेनोभयं शुभम् अशुभं वा संकल्प्यते । अथ वा बुद्धीन्द्रियेषु कर्मेन्द्रियेषु स्वविषयप्रवृत्तौ संकल्पमूलत्वाद् **उभयात्मकम्** उच्यते । **यस्मिञ् जिते एतौ** बुद्धीन्द्रियवर्गः कर्मेन्द्रियवर्गश् च **पञ्चकौ** प्राक्प्रदर्शितपरिमाणौ **जितौ भतः** । तत्त्वाख्यानम् एतत्[^२८७] ॥ २.९२ ॥
-
-
-[^२८७]:
-     M G omit: tattvākhyānam etat
+The Mind is to be regarded as the eleventh, which, by its own quality, is of two-fold nature; and on this being subdued, both the aforesaid five-mentioned groups become subdued.—(92)

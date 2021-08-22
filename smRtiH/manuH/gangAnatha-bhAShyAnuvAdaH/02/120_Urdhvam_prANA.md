@@ -2,5 +2,16 @@
 title = "120 ऊर्ध्वम् प्राणा"
 
 +++
+This verse is commendatory to what has gone before.
 
-पूर्वस्यार्थवादः । **स्थविरे** वृद्धवयस्य् **आयात्य्** आगच्छति, **यूनस्** तरुणस्य **ऊर्ध्वं प्राणाः** जीवितहेतवो ऽन्तर्मरुत ऊर्ध्वम् आस्याद् बहिर् निक्रामन्ति । अपानवृत्तिं परित्यज्य जीवविच्छेदं चिकीर्षन्ति । **प्रत्युत्थाय** यद् **अभिवादनं** क्रियते तेन यथापूर्वं जीवितस्थेम्ने कल्पन्ते । **प्रतिपद्यते** प्रत्युज्जीवति ॥ २.१२० ॥
+‘*On the elder*’—the person of higher *age*—‘*approaching*’—coming
+up,—‘*the vital breaths*’—the sources of life, the inner airs—‘*of the
+younger*’—‘*rush outward*’—move out; *i.e*., giving up their functions,
+they intend to cut off his life.
+
+When however he rises to meek him and salutes him, the breaths proceed,
+as before, to sustain his life.
+
+‘*Recovers*’—becomes resuscitated.—(120)
+
+

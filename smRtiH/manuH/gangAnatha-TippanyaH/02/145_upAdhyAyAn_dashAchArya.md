@@ -2,17 +2,27 @@
 title = "145 उपाध्यायान् दशाचार्य"
 
 +++
+The first quarter of this is referred to in *Parāśaramādhava* (Ācāra, p.
+304).
 
-स्तुत्यक्रमेण प्रकृष्टपूर्वविधानम् । उपाध्यायाच् छ्रेष्ट आचार्यस् तस्मात् पिता ततो ऽपि मातेति । दशादिसंख्यानिर्देशः स्तुतिमात्रम् । पूर्वस्मात् पूर्वस्मात् परस्य परस्यातिशयो विवक्षितः । अत एव सहस्रं पितुर् इति वचनम् । 
+The verse is quoted in *Madanapārijāta* (p. 31);—and in *Vīramitrodaya*
+(Saṃskāra, p. 478), where the following notes are added:—In point of
+veneration, the ‘*Ācārya*’ is superior as compared to ten
+‘*Upādhyāyas*’, the Father is superior to a hundred *Ācāryas*, and the
+Mother is superior to a thousand Fathers;—the person spoken of as
+*ācārya* here is the person who performs the *Upanayana* and teaches the
+*Sāvtrī* only (not the entire Veda),—as is clear from the next verse
+where the man who performs the *Upanayana* and teaches the entire Veda
+is described as superior to the Father.
 
-- **उपाध्यायान् दशातिरिच्यते** । दशभ्य उपाध्यायेभ्यो ऽधिकः । कथं पुनर् अत्र द्वितीया । अतिर् अयं कर्मप्रवचनीयः । उपाध्यायान् अतिक्रम्यातिक्रम्यातिरिच्यते **गौरवेण** सातिशयेन युज्यते । अथ वाधिक्यम् अतिरेकः तद्धेतुके ऽभिभवे धातुर् वर्तते । गौरवाधिक्येनोपाध्यायान् अभिभवति । **अतिरिच्यत** इति कर्मकर्तरि द्वितीया चाविरुद्धा "दुहिपच्योर् बहुलं सकर्मकयोः" (पाण् वार् १४ ओन् ३.१.८७) इति बहुलग्रहणात् । 
+This same explanation is given by Medhātithi and Kullūka also.
+Govindarāja and Nārāyaṇa on the other hand, hold that the word ‘*Pitā*’,
+‘Father’, stands for that Father who, having begotten the child,
+performs its *Upanayana* and himself teaches it the entire Veda.
 
-- <u>ननु</u> चानन्तरम् एव वक्ष्यति "गरीयान् ब्रह्मदः पिता" इति, इह चाचार्यात् पितुर् आधिक्यम् उच्यते तद् इतरेतरव्याहतम् । <u>नैष दोषः</u> । इहाचार्यो नैरुक्तदर्शनेनाध्यापकः, संस्कारमात्रेणाचारोपदेशमात्रेण चाभिप्रेतः- आचार्य आचारं ग्राहयतीति । न चैष नियमः स्वशास्त्रसिद्धाभिर् एव संज्ञाभिर् व्यवहारः । गुरुशब्दो ह्य् अत्र पितरि परिभाषितः, आचार्ये च तत्र तत्र प्रयुज्यते । तेन स्वल्पोपकाराद् उपनयनमात्रकराद् आचारग्राहकाद् अध्यापनरहिताद् इदं पितुर् ज्यायस्त्वम् । 
+This verse is quoted in *Smṛticandrikā* (Saṃskāra, p. 92), which adds
+that the Father meant here is one who is a mere Progenitor and has not
+performed any sacramental rites for the boy; in other eases, when he
+*has* performed these, it is the Father that is superior.
 
-- अस्मिंश् च क्रमे विवक्षिते समवाय एतेषां माता प्रथमं वन्द्या ततः पिता तत आचार्यस् तत उपाध्यायः ॥ २.१४५ ॥
 
-_मुख्याचार्यसंनिधौ पितरि च संस्कर्तरि संनिहिते कः_[^४००]_ क्रमः । अत आह । _
-
-
-[^४००]:
-     M G: tatra

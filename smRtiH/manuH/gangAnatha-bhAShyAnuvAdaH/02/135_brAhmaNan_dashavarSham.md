@@ -2,5 +2,22 @@
 title = "135 ब्राह्मणन् दशवर्षम्"
 
 +++
+One since whose birth ten years have elapsed is ‘of ten years.’ The
+*time* is the *determining* and the *Brāhmaṇa* the *determined* factor;
+but it is not possible to determine, by means of *time*, either his
+tallness or shortness or thinness, etc.; what can be determined by it is
+only a certain act of his; and this act can only be that of *maintaining
+his life-breath*, which subsists in him continuously since his birth.
 
-दशवर्षाणि जातस्य यस्य स भवति **दशवर्षः** परिच्छेदकः कालः, तस्य परिच्छेद्यो ब्राह्मणः श्रुतः । न च तस्योच्चनीचतादि कार्श्यादि वा कालेन परिमातुं शक्यम्, किं तर्हि तदीया काचित् क्रिया । सा च जन्मनः प्रभृति नित्यसमवायिनी प्राणधारणलक्षणैव । एवं **शतवर्षम्** इति । **पितापुत्रौ** तौ द्रष्टव्यौ । **तयोः** संप्रधार्यमाणयोर् **ब्राह्मणः पिता** । चिरवृद्धेनापि क्षत्रियेण स्वल्पवर्षो ऽपि ब्राह्मणः प्रत्युत्तायाभिवाद्यश् चेति प्रकरणार्थः ॥ २.१३५ ॥
+The same explanation applies to the epithet ‘*of a* *hundred years*.’
+
+They should be looked upon as ‘father and son.’
+
+‘*Of the two*’—as compared with each other,—’ *the Brāhmaṇa is the
+father*.’
+
+All that this means is that even when the Kṣatriya is very old and the
+Brāhmaṇa very young in years, the former should rise to meet and salute
+the latter.—(135)
+
+

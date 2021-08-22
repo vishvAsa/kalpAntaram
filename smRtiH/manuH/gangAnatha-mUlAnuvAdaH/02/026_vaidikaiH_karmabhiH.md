@@ -3,7 +3,4 @@ title = "026 वैदिकैः कर्मभिः"
 
 +++
 
-वैदिकैः कर्मभिः पुण्यैर्  
-निषेकादिर् द्विजन्मनाम् ।  
-कार्यः शरीरसंस्कारः  
-पावनः प्रेत्य चेह च  ॥ २.२६ ॥
+For the twice-born persons corporeal consecration, beginning with ‘Conception,’ should be performed with auspicious Vedic rites; it purifies in this world and also after death.—(26)

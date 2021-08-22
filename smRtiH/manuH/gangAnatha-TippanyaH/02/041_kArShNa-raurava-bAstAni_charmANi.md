@@ -2,15 +2,63 @@
 title = "041 कार्ष्ण-रौरव-बास्तानि चर्माणि"
 
 +++
+‘*Ruru*’—has been described by Rāghavānanda as ‘tiger.’
 
-कृष्णशब्दो यद्य् अपि कृष्णगुणयुक्तवस्तुमात्रे वर्तते "कृष्णा गौः, कृष्णः कम्बलः" इति, तथापीह स्मृत्यन्तराद् रौरवसाहचर्याच् च मृग एव प्रतीयते । **रुरुर्** मृगजातिविशेषः । **बस्तः** छागः । सर्वत्र विकारे ऽवयवे वा तद्धितः । कृष्णाजिनं ब्राह्मणो, रुरुचर्म क्षत्रियो, वैश्यश् छागचर्म **वसीरन्न्** आच्छादयेयुः । शणक्षुमोर्णास् तत्र कृतानि च वस्त्राणि । **च**शब्दः समुच्चये । तत्रानुत्तरीयाणि शाणादीनि । चर्माण्य् उत्तरीयान्य् औचित्यात् कौपीनाच्छादनानि च वस्त्राण्य् । आनुपूर्व्येण नैकैकस्य सर्वैर् अभिसंबन्धो नापि व्युत्क्रमेण । प्रथमस्य ब्रह्मचारिणः प्रथमेन चर्मणा वस्त्रेण च संबन्धो द्वितीयस्य द्वितीयस्थानस्थेन । तथा च दर्शितम् ।
+*Medhātithi* (p. 92,1. 11)—‘*Smṛtyantara*—This refers to Baudhāyana,
+*Gṛhyasūtra*, 2. 5. 16.
 
-- <u>ननु</u> चान्तरेणापि वचनं लोकत एवैतत् सिद्धम् "चूर्णिताक्षिप्तदग्धानां वज्रानिलहुताशनैः" (म्भ् ७.६६.१८) इति यथाक्रमं संबन्धप्रतिपत्तिः, चूर्णिता वज्रेणाक्षिप्ताः अनिलेन दग्धा अग्निनेति । <u>उच्यते</u> । भवेद् एतद् एवं यदि भेदेन निर्देशः स्यात् समसंख्यात्वं च । इह तु ब्रह्मचारिण इत्य् एकशब्दोपादानान् न क्रमो ऽवगम्यते । त्रयश् च ब्रह्मचारिणः । षड् अनुदेशिनः त्रीणि चर्माणि त्रीणि[^१८०] वस्त्राणि । आनुपूर्व्यग्रहणे[^१८१] तु सति वाक्यान्तरोपात्तः क्रम आश्रीयते । तथा च चर्मभिः संबध्य पुनर् ब्रह्मचारिपदम् आवर्त्य वासोभिः संबध्यते । ततः संख्यासाम्यसिद्धिः । ईदृश एव विषये भगवता पाणिनिना यत्नः कृतः "यथासंख्यम् अनुदेशः समानाम्" इति (पाण् १.३.१०) ॥ २.४१ ॥
+This verse is quoted in *Aparārka* (p.„ 57) as laying down that the skin
+of the *Kṛṣṇamṛga, Ruru* and *Chāga* should be worn as the ‘upper
+garment,’ respectively, by the Brāhmaṇa, the Kṣatriya and the Vaiśya,
+
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 446), where it is
+explained that the skins mentioned are to be used as the upper garment,
+and the hempen and other cloths as the lower garment
+
+*Madanapārijāta* (p. 20) quotes the second half as prescribing the
+cloths to be used by the three castes respectively;—and the first half
+(on p. 22) as laying down the skins.
+
+The second half is quoted in *Vīramitrodaya* (Saṃskā ra, p. 411) and the
+first half also (p. 413).
+
+The verse is quoted in *Saṃskāramayūkha* (p. 36), which adds that the
+skins of the Black Antelope, the *Ruru* deer and the goat are to be used
+as the *upper garment*:—in *Nṛsiṃhaprasāda* (Saṃskāra, p. 430);—and in
+*Smṛticandrikā* (Saṃskāra, p. 75).
+
+Burnell is again inaccurate in saying that cotton and silk (with the
+well to do) are *alone* used now for outer garments.”
+
+Medhātithi rightly remarks that the *triplication* cannot apply to the
+Kṣatriya’s girdle; as on triplication the bowstring would cease to be a
+‘bowstring. Govindarāja agrees with him. So also *Madanapārijāta* (p.
+20) and *Vīramitrodaya* (Saṃskāra; p. 432), Rāghavānanda explains that
+as the bow-string itself is a triplicated cord, no further triplication
+would be necessary.
+
+The ‘*Muñja*’ grass, in Northern India called *muṃja*, is, as Burnell
+notes, the *Saccarum Sara* of the botanists.
+
+Madanapārijāta (p. 20) explains that the *Muñja* has ‘*tejanī*’ as its
+other name; and a foot-note adds that it is what is called *muragā*.
+
+This verge is quoted in *Parāśaramādhava* (Ācāra, p. 447);—also in
+*Vīramitrodaya* (Saṃskāra, p. 432), which explains ‘*trivṛt*’ not as
+*twisted three-fold*, but as ‘going round the waist three times’;—in
+*Nirṇayasindhu* (p. 189);—in
+
+*Aparārka* (p. 58); in *Smṛticandrikā* (Saṃskāra, p. 70), which explains
+‘*trivṛt*’ as *threefold*;—in *Saṃskāramayūkha* (p. 37), which quotes
+Medhātithi to the effect that since bowstrings are made sometimes of
+*leather*, the author has added the epithet ‘*Maurvī*’, ‘*Murvā* grass’;
+in *Saṃskāraratnamālā* (p. 192), which reproduces the above remark of
+Medhātithi, as also his further remark that the string is to be removed
+from the bow and then tied round the waist: it adds the following notes:
+the ‘*Samā*’, not uneven, thin in one place and thick in another; it
+should be of uniform thickness all through;—the three-fold twist applies
+to the hempen cord and not to the bow-string, which would cease to be a
+bowstring when so twisted;—it is quoted also in *Nṛsiṃhaprasāda*
+(Saṃskāra, p. 43 b).
 
 
-[^१८१]:
-     M G: ānupūrvagrahaṇe
-
-
-[^१८०]:
-     M G 1st ed. omit: trīṇi

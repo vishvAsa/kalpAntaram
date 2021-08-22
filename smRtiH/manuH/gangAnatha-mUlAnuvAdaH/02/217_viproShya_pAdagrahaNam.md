@@ -3,4 +3,4 @@ title = "217 विप्रोष्य पादग्रहणम्"
 
 +++
 
-प्रवासाद् एत्य पादयोर् ग्रहणं "सव्येन सव्यम्" (म्ध् २.७२) इति । **अन्वहम्** अहन्य् अहनि । **अभिवादनं** भूमौ । **सतां** शिष्टानां एष धर्म आचार इत्य् **अनुस्मरन्** ॥ २.२१७ ॥
+Having returned from a journey, he should clasp the feet of his Teacher’s wife, and daily he should salute her, bearing in mind the duty of the righteous.—(217)

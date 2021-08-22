@@ -2,9 +2,27 @@
 title = "046 केशान्तिको ब्राह्मणस्य"
 
 +++
+The term ‘staff’ denotes the particular shape (of the wood carried);—a
+long piece of wood of a well-defined size is called ‘*staff*.’
 
-आकारविशेषवचनो दण्डशब्दः । दीर्घं काष्ठं[^१८७] संमितायामं दण्ड इत्य् उच्यते । कियत् तस्य दैर्घ्यम् इत्य् अपेक्षायाम् आह । केशान्तं गच्छति प्राप्नोति **केशान्तगो** मूर्द्धप्रमाणः । पादाग्राद् आरभ्य मूर्द्धावधिः **केशान्तगः** । केशा वान्तो ऽस्येति **केशान्तकः** । समासान्तः ककारः । **प्रमाणतः** प्रमाणेनानेन युक्तो **दण्डः कार्यः** कारयितव्यः **ब्राह्मणस्या**चार्येण । **ललाटसंमितः** ललाटान्तम् इतः ललाटन्तप्रमाणः । ललाटमात्रे चतुरङ्गुलेन मीयमानस्य दण्डशब्दवाच्यत्वाभावाद् एवं व्याख्यायते- पादाग्राद् आरभ्य यावल् ललाटान्तं प्राप्तः । एवं **विशो** वैश्यस्य **नासान्तग** इति ॥ २.४६ ॥
+The question arising as to what its length should be, the Text answers
+it. That which reaches up to the end of the hair is called
+‘*Keśāntika*,’ *i.e*., reaching up to the head; *i.e*., in size it
+should reach from the tip of the foot up to the head. Or, the compound
+‘*Keśānta*.’ may be expounded as ‘that of which the hair forms the end,’
+the *ka* coming in as an additional affix at the end of the compound.
+
+‘*In size*,’—the staff—‘*should be made*’ of the said size,—‘*for the
+Brāhmaṇa*,’—*i.e*., by the Teacher.
+
+‘*Reaching to the forehead*’—*i.e*., of the size reaching up to the
+forehead. The ‘forehead’ itself is only four inches in width; and as a
+piece of wood of that size could never be spoken of as ‘staff,’ we have
+to explain the term ‘*lalāṭasamnitaḥ*’ (which, as it stands, means ‘of
+the size of the forehead’) as meaning ‘that which reaches from the tip
+of the foot up to the forehead.’
+
+Similarly for the Vaiśya, it should reach up to the tip of the
+nose.—(46)
 
 
-[^१८७]:
-     M G: kāṇḍa

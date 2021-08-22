@@ -2,9 +2,21 @@
 title = "204 गो-ऽश्वोष्ट्र-यान-प्रासाद- प्रस्तरेषु"
 
 +++
+This verse is quoted in *Madanapārijāta* (p. 107);—and in
+*Vīramitrodaya* (Saṃskāra, p. 462) where ‘*phalakam*’ is explained as
+*Kāṣṭhanirmitam dīrghāsanam*, ‘a long seat made of wood’, a bench:—also
+on page 491, where it is quoted in support of the view that the
+prohibition contained in verse 198 must refer to cases other than those
+of carts and conveyances. It further adds that though the riding on
+conveyances drawn by ox etc. is prohibited,—yet the sanction accorded
+here is in view of the possibility of such lading in abnormal times of
+distress. It is interesting to note that no such scruples have
+prejudiced Medhātithi, who apparently belonged to a part of the country
+where riding on bullock-carts is permissible; while the author of
+*Vīramitrodaya* belonged to a part of the country where such riding is
+prohibited, e.g. in Mithilā.
 
-**यान**शब्दः प्रत्येकम् अभिसंबध्यते । गोऽश्वोष्ट्रैर् उक्तं यानं **गोऽश्वोष्ट्रयानम्** । दधिघटादिवत् समासे युक्तशब्दस्य लोपः । केवलेषु तु अश्वपृष्टादिष्व् आरोहणं नास्ति । यदि स्वतन्त्रो यानशब्दो विज्ञायेत तदा स्याद् अप्य् अनुज्ञा । समाचारात् तु कादाचित्कम् अनुज्ञानं दृश्यते । **प्रासाद** उपरिगृहादीनां या भूमिस् तस्यां गृहादिभूमिवत् सिद्धं सहासनम् । **प्रस्तरः** दर्भादितृणाकीर्णः आस्तरः । **कटः** तु[^५२३] शरवीरणादिकृतः प्रसिद्धः । **शिला** गिरिशिखरादाव् अन्यत्र वा । **फलकं** दारुमयम् आसनं पोतवर्तादि । **नौर्** जलतरणसंप्लवः । तेन पोतादाव् अपि सिद्धं भवति ॥ २.२०४ ॥
+It is quoted in *Smṛticandrikā* (Saṃskāra, p. 120) as sanctioning, in
+certain cases, the sitting of the pupil with the teacher.
 
 
-[^५२३]:
-     M G: na tu

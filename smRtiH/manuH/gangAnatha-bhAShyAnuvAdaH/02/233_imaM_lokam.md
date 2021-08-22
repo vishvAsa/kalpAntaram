@@ -2,7 +2,27 @@
 title = "233 इमं लोकम्"
 
 +++
+‘*This region*;’—*i.e*., the Earth; the Mother being equal to the Earth,
+on account of both of them being capable of bearing burdens.
 
-अयं लोकः पृथिवी । भारसहत्वात् तुल्या माता पृथिव्या । **पितृभक्त्या** मध्यमो लोको ऽन्तरिक्षम् । प्रजापतिः पितोक्तः । मध्यमस्थानश् च प्रजापतिर् नैरुक्तानाम् । स हि वर्षकर्मणां प्रजानां पाता वा पालयिता वा । **ब्रह्मलोकम्** आदित्यलोकम् । आदित्यो ब्रह्मेत्यादेशः । **लोकः** स्थानविशेषस् तम् **अश्नुते** प्राप्नोति । 
+‘*By devotion to his* *Father*, *the middle region*;’—*i.e*., the sky.
+The Father has been described as Prajāpati; and according to the
+followers of the Nirukta, Prajāpati has his abode in the middle Region;
+and he is the sustainer or protector of men.
 
-- अर्थवादा एते । तत्र नाभिनिवेष्टव्यम् । न च लोकाधिपत्यकामस्य तदाराधनाधिकारः । नायं काम्यो विधिः । पितृत्वम् एवात्र निमित्तम्, अकरणे शास्त्रातिक्रमः ॥ २.२३३ ॥
+‘*The Region of Brahman*’—*i.e*., the solar region; according to the
+declaration (in the *Chāndogya Upaniṣad*) that ‘the Sun is Brahman, such
+is the teaching.’
+
+‘*Region*’—means a particular place.
+
+‘*Acquires*’—gains.
+
+All this is a purely commendatory statement; and much attention need not
+be paid to it. Nor is it that only persons desirous of sovereignty over
+the said regions are to do honour to the Rather, etc.; for the
+injunction is not an optional one. In fact, the mere fact of the person
+being one’s father is the sole condition of his being honoured; and the
+omission of it involves a transgression of the scriptures.—(233)
+
+

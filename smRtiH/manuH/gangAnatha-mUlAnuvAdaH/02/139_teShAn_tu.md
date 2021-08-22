@@ -3,4 +3,4 @@ title = "139 तेषान् तु"
 
 +++
 
-**तेषां तु समवेतानाम्** एकत्र संनिपतितानां **मान्यौ स्नातकपार्थिवौ**, प्रकृतेन पथोदानेन । **नृपमानभाक्** नृपस्य सकाशान् मानं भजते लभते । षष्ठी निर्धारणे (पाण् २.३.४१) । चक्र्यादीनां त्व् अन्योय्नं विकल्पः । स च शक्त्यपेक्षः ॥ २.१३९ ॥
+Among these, when they come together, the man who has just passed his studentship and the King deserve to be honoured; and between the person just passed his studentship and the King, the person just passed his studentship receives the respects op the King.—(139)

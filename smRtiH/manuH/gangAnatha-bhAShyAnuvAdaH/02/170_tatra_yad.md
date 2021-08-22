@@ -2,11 +2,22 @@
 title = "170 तत्र यद्"
 
 +++
+‘*Among these*’—above-mentioned births;—that which is ‘*Brahmic
+birth*’—i .*e*., U panayana—‘*which is marked by the tying of the*
+*girdle*,’—which is symbolised by the tying of the girdle made of
+*Muñja-grass*; at this ‘*Sāvitrī is his mother*,’—*i.e*., it becomes
+accomplished by the expounding of the Sāvitrī-mantra. This shows that in
+the whole Upanayana ceremony, the expounding of the *Sāvitrī* is the
+most important factor; it is for this purpose that the child is ‘brought
+near’ (*upa-nīyate*). ‘*The Teacher is his father*.’
 
-**तत्र** एतेषु त्रिजन्मसु[^४२३] **यद्** एतद् **ब्रह्मजन्म** उपनयनं **मौञ्जीबन्धनचिह्नितं** मेखलाबन्धनेनोपलक्षितम् । **तत्रास्य माता सावित्री** । तया ह्य् अनूक्तया तन्निष्पन्नं भवति । अनेन च सावित्र्यनुवचनम् उपनयने प्रधानं दर्शयति, तदर्थं ह्य् असौ समीपम् आनीयते । **पिताचार्यः** । मातापितृनिर्वर्त्यं जन्म । अतो रूपकभङ्ग्या तत्राप्य् आचार्यसावित्र्यौ मातापितराव् उक्तौ ॥ २.१७० ॥
+Birth is always brought about by the Father and Mother; hence
+metaphorically the Teacher and the Sāvitrī hare, been described as
+‘father’ and ‘mother.’—(170)
+
+The Upanayana has been described as ‘*marked by the tying of the
+Girdle*’; and this might be understood to mean that it is on acoount of
+tying the girdle that the Teacher is to be honoured like the father;
+hence the next verse is added
 
 
-[^४२३]:
-     M G: dvijanmasu
-
-_मौञ्जीबन्धनचिह्नितम् इत्य् उक्तम् । तत्र रज्ज्वासञ्जनाद् आचार्यः पितृवन् मान्यः स्यात् तदर्थम् उच्यते ।_

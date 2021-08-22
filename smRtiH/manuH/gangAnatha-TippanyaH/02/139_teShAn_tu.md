@@ -2,5 +2,10 @@
 title = "139 तेषान् तु"
 
 +++
+This verse also is simply quoted in *Vīramitrodaya* (Saṃskāra, p.
+477);—and in *Smṛticandrikā* (Saṃskāra, p. 107) to the effect that among
+the persons mentioned in the preceding verse the accomplished student
+and the king deserve to be respected by the others’, and between these
+two the former is to be respected by the latter.
 
-**तेषां तु समवेतानाम्** एकत्र संनिपतितानां **मान्यौ स्नातकपार्थिवौ**, प्रकृतेन पथोदानेन । **नृपमानभाक्** नृपस्य सकाशान् मानं भजते लभते । षष्ठी निर्धारणे (पाण् २.३.४१) । चक्र्यादीनां त्व् अन्योय्नं विकल्पः । स च शक्त्यपेक्षः ॥ २.१३९ ॥
+

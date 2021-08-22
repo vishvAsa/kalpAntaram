@@ -2,9 +2,29 @@
 title = "186 दूराद् आहृत्य"
 
 +++
+The term ‘*distance*’ is meant to stand for such plots of land as are
+not owned by any one; for instance, the forest is ‘distant’ from the
+village, and it is not owned by any one. If such were not the meaning,
+and ‘distance’ simply meant ‘remote places,’—then since the exact degree
+of remoteness is not specified, the manning of the injunction would
+remain indefinite.
 
-**दूर**ग्रहणम् अपरिगृहीतदेशोपलक्षणार्थम् । ग्रामात् किल दूरम् अरण्यम्, न च तत्र कस्यचित् परिग्रहः । अनुपलक्षणे हि दूरार्थे कियद् दूरम् इत्य् अनवस्थितः शास्त्रार्थः स्यात् । **आहृत्य** आनीय । **संनिदध्यात्** स्थापयेत् । **विहायसि** गृहस्योपरि । न हि निरालम्बने ऽन्तरिक्षे निधानं संभवति । **ताभिः सायंप्रातर् जुहुयात्** । आहरणं तु तात्कालिकम् अन्यदा वेच्छया । विहायसि[^४६०] निधानम् अदृष्टार्थम् इत्य् आहुः । <u>अन्ये</u> तु ब्रुवते संप्रत्यानीय्मानं वृक्षाद् दारु आर्द्रं भवतीति, गृहस्योपरि अन्यस्य वा प्रकारादेस् तत एवावगन्तव्यम् ॥ २.१८६ ॥
+‘*Having fetched*’—having brought.
+
+‘*Should place*’—should keep.
+
+‘*In the air*’—*i.e*., on the roof of the house; no placing is possible
+in the open air, without some support.
+
+‘*With* *these* *he should make offerings morning and evening*.’
+
+The fetching of the fuel may he at that or at any other time, according
+as the student pleases.
+
+Some people regard the ‘placing in the air’ as serving some
+transcendental purpose. Others have however held that the fuel brought
+fresh from the tree is wet; and hence it is necessary to place it either
+on the top of the house or on that of a wall, etc. (for the purpose of
+drying).—(186)
 
 
-[^४६०]:
-     M G 1st ed.: vihāyasa

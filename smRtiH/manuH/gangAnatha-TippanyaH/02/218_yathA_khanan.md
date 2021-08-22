@@ -2,9 +2,10 @@
 title = "218 यथा खनन्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 525) as laying
+down the method of acquiring learning;—and in *Smṛticandrikā* (Saṃskāra,
+p. 139) as describing the results accruing from serving the Teacher.
 
-सर्वस्य शुश्रूषाविधेः फलम् इदम् । गुर्वाराधनद्वारेण स्वाध्यायविध्यर्थवादः[^५३६] । **यथा** काश्चिन् मनुष्यः **खनित्रेण** कुद्दालादिना भूमिं **खनन्** **वारि** प्राप्नोति, नाक्लेशेन, एवम् अयं **विद्यां गुरुगतां शुश्रूषुः** गुरुसेवापरो **ऽधिगच्छति** ॥ २.२१८ ॥
 
 
-[^५३६]:
-     M G 1st ed.: -vidhyarthatā
+

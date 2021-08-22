@@ -2,5 +2,19 @@
 title = "131 मातृश्वसा मातुलानी"
 
 +++
+These ‘*deserve to be honoured like the Teacher’s wife*’—by rising to
+meet them, saluting them, offering them seat and so forth.
 
-एताश् च **गुरुपत्नीवत् संपूज्याः** प्रत्युत्थानाभिवादनासनदानादिभिः । **गुरुपत्नीवत्** इत्य् अनेनैव सिद्धे **समास्ता** इति वचनम् अन्यद् अप्य् आज्ञादि गुरुपत्नीकार्यं कदाचिद् अनुजानाति । इतरथा प्रकरणात् संपूज्या इत्य् अभिवादनविषयम् एव स्यात् । पलितवयसश् च स्त्रियः स्मर्यन्ते । कनीयसीनाम् अप्य् एष एवाभिवादनविधिः ॥ २.१३१ ॥
+The equality of these to the Teacher’s wife haviug been already
+mentioned by the phrase ‘like the Teacher’s wife,’ the addition of the
+words ‘*they are equal, etc*,’ is meant to indicate that one should do
+for these persons other things also;—such as carrying out their wishes
+and so forth—that one does for the Teacher’s wifìe. If this were not so
+indicated, the implication of the context would be that it is only in
+the matter of salutation that they have to be treated ‘like the
+Teacher’s wife.’
+
+The text speaks of only ladies of older age; but in the case of younger
+ladies also the same rule of salutation has to be observed.—(131)
+
+

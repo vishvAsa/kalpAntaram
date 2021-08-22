@@ -2,9 +2,18 @@
 title = "157 यथा काष्ठमयो"
 
 +++
+This verse praises learning and the learner.
 
-इयम् अध्ययनाध्येतृस्तुतिः। काष्ठमयो दारुणा[^४०६] यः क्रियते क्रकचादिना हस्त्याकृतिः, स यथा निष्फलः, न हस्तिकार्यं राज्ञां शत्रुवधादि करोति, एवं यो ब्राह्मणो नाधीते स काष्ठतुल्यः, न क्वचिद् अधिकारी । **चर्ममयो मृगः** चर्मविकारो ऽन्यो ऽपि यो मृगः स निष्फलो नाखेटकादिकार्यं करोति । **त्रय एते** नाममात्रं **बिभ्रति**, न तस्यार्थम् ॥ २.१५७ ॥
+‘*Made of wood*’;—the form of the elephant made of wood by means of the
+said and other implements; just as this is useless, does not serve any
+useful purpose for the king, in the shape of killing his enemies and so
+forth,—so the Brāhmaṇa who does not learn is like a piece of wood, not
+fit for anything.
+
+‘*The deer made of leather*’;—similarly the deer that has been made out
+of leather is useless; it is of no use for purposes of limiting, etc.
+
+‘*These three only bear their names*’—and do not fulfil what is
+signified by these names.—(157)
 
 
-[^४०६]:
-     M G: vāraṇo

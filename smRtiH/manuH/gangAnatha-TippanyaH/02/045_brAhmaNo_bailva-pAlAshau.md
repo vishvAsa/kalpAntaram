@@ -2,9 +2,21 @@
 title = "045 ब्राह्मणो बैल्व-पालाशौ"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 447);—in
+*Madanapārijāta* (p. 22),—in *Vīramitrodaya* (Saṃskāra, p. 436);—in
+*Smṛtitattva* (p. 930), which last points out that the copulative
+compound ‘*bailvapālaśau*’ should not be taken to imply that two staves
+have to be taken up; because later on, in verse 48, we have the singular
+form ‘*daṇḍam*’;—in *Nirṇayasindhu* (p. 189), and *Aparārka* (p. 57);—in
+*Nṛsiṃhaprasāda* (Saṃskāra p. 43b);—in *Smṛticandrikā* (Saṃskāra, p.
+77), which adds that the text lays down optional alternatives;—in
+*Saṃskāramayūkha* (p. 37), which adds that a combination of all the
+staves is not meant, only one staff being held, as is clear from the
+singular number in the next verse; they are to be taken as optional
+alternatives;—and in *Saṃskāraratnamālā* (p. 193), which, along with
+*Mayūkha* reads ‘*paippala*’ or ‘*pailava*,’ and adds that option is
+clearly meant.
 
-सत्य् अपि द्वन्द्वनिर्देशे गुणविधिष्व् एकत्वश्रवणात् "केशान्तकः" (म्ध् २.४६) इति "प्रतिगृह्येप्सितं दण्डम्" (म्ध् २.४८) इति च विकल्पितम् एकदण्डधारं प्रतीयते । "बैल्वः पालाशो ब्राह्मणस्य दण्डः" (च्ड़्। पार्ग् २.५.२५) इति गृह्ये । गौतमीये चैकदण्डग्रहणम् एवोक्तम् (च्ड़्। ग्ध् १.२२) । इह केवला दण्डसत्ता श्रूयते- **दण्डान् अर्हन्ति** । दण्डा एते ब्रह्मचारिणां योज्याः । कस्यां क्रियायाम् इत्य् एतद् अत्र चोक्तम् उत्तरत्र भविष्यति "प्रतिगृह्येप्सितम्" (म्ध् २.४८) इति । तस्मिंश् च ग्रहणे दण्डस्योपायत्वाद् विवक्षितम् एकत्वम् अत इह द्विवचननिर्देशः । देवश् चेद् वर्षेद् बहवः कृषिं कुर्युर् इति यथा प्राप्तानुवादः । बिल्वपलाशवटखदिरपीलूदुम्बरा[^१८६] वृक्षजातिविशेषनामधेयानि । बिल्वस्य विकारो ऽवयवो वा बैल्वः । एवं सर्वत्र । प्रदर्शनार्थाश् चैते । "यज्ञिया वा सर्वेषाम्" (ग्ध् १.२४) इति वचनात् । एतान् दण्डान् वक्ष्यमाणे कार्ये **अर्हन्ति** । **धर्मतः** शास्त्रतः ॥ २.४५ ॥
 
 
-[^१८६]:
-     M G: -ūdumbara
+

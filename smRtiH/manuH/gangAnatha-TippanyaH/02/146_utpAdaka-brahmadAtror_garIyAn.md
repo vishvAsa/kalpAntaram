@@ -2,7 +2,26 @@
 title = "146 उत्पादक-ब्रह्मदात्रोर् गरीयान्"
 
 +++
+For the apparent inconsistency between this and the preceding verse, see
+*note* above.
 
-**उत्पादको** जनकः **ब्रह्मदाता** अध्यापकः तौ द्वाव् अपि पितरौ । तयोः पित्रोर् **गरीयान् पिता** यो **ब्रह्मदः** । अतः पित्राचार्यसमवाये आचार्यः प्रथमम् अभिवाद्यः । 
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 305), in support of
+the view that the ‘*Ācārya*’ also, in certain cases, is superior to the
+Father and Mother;—and in *Madanapārijāta* (p. 32), which adds the
+following notes:—‘*Brahmajanma*’ means *birth from Veda*, i. e.
+*Upanayana*; ‘*after death?*—because it creates in the boy the capacity
+to attain all the good, even the Final Release,—as also ‘*here*’—by
+reason of creating the capacity to perform all religious rites,—it is
+‘*eternally*’—the bringer about of lasting good.
 
-- अत्र हेतुरूपम् अर्थवादम् आह । **ब्रह्मजन्म हि,** ब्रह्मग्रहणार्थं जन्म **ब्रह्मजन्म** । शाकपार्थिवादित्वात् समासः (च्ड़्। पाण् वार् ८ ओन् २.१.६९) । अस्मिन् समासे उपनयनं **ब्रह्मजन्म** । अथ वा ब्रह्मग्रहणम् एव जन्म । तद् **विप्रस्य शाश्वतं** नित्यं **प्रेत्यो**पकारकम् **इह** चोपकारकम् ॥ २.१४६ ॥
+*Vīramitrodaya* (Saṃskāra, p. 479) simply quotes the verse.
+
+It is quoted in *Aparārka* (p. 97) in support of the view that the
+orders of the Teacher carry more weight than those of the Father;—it
+explains ‘*brahmadaḥ*’ as ‘the teacher’;—and in *Smṛticandrikā*
+(Saṃskāra, p. 93), which adds that ‘*brahmadaḥ*’ stands for the
+*Ācārya*, not the *Upādhyāya*, as is clear from the second line which
+means—‘because he gives that *birth which serves the purpose of Vedic
+study*, *i.e*. the Upanayana, he is superior.’
+
+

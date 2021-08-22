@@ -2,21 +2,22 @@
 title = "089 एकादशेन्द्रियाण्य् आहुर्"
 
 +++
+This enumeration of the organs is as laid down in other sources of
+information; and the present text is not intended to lay down the number
+of organs. The description is provided by our author only on account of
+his good will towards his audience. The organs have been *named by the
+ancient sages*; and I shall now describe their names and also their
+function.
 
-संख्यानिर्देशो ऽयं प्रमाणान्तरगम्यो न शास्त्रार्थः,[^२७९] सौहार्देन तु व्युत्पाद्यते । तानि **पूर्वे मनीषिण** आहुः । परस्तान् नामतः कर्मतश् च वक्ष्यामि । **आनुपूर्व्यम्** अनाकुलता । **पूर्व**ग्रहणान् नेयं तार्किकैर् एव व्यवस्था कल्पिता, किं तु पूर्वेषाम् अप्य् आचार्याणां स्थितैव । एताम् अजानन्तो नागमिका[^२८०] इति लोकैर् उपहस्यन्ते,[^२८१] इत्य् अतो ऽयं वेदितव्यः[^२८२] । प्रसिद्धाः पदार्था व्याख्याताश् च प्राक् ॥ २.८९ ॥
+‘*In due order*.’— Implies *absence of confusion*.
+
+The reference to the ‘*ancient sages*’ is meant to indicate that the
+enumeration of the organs is not something invented by the logicians, it
+was something already known among the ancient teachers. In fact, people
+not knowing this are ridiculed by men as ‘not learned in the
+scriptures’; hence these should be properly understood.
+
+The meaning of the words of the text are well known, and have been
+already explained.—(89)
 
 
-[^२८२]:
-     M G: ye veditavyāḥ
-
-
-[^२८१]:
-     M G 1st ed.: api hasyate
-
-
-[^२८०]:
-     M G 1st ed.: ajānato nāgamika
-
-
-[^२७९]:
-     M G: padārthaḥ

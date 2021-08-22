@@ -2,17 +2,35 @@
 title = "142 निषेकादीनि कर्माणि"
 
 +++
+The mention of the ‘Rites of Impregnation’ indicates that the present
+verse lays down the fact of the Father being a ‘Mentor.’
 
-निषेकग्रहणात् पितुर् अयं गुरुत्वोपदेशः । **निषेको** रेतःसेकः, स आदिर् येषां कर्मणाम् । **आदि**ग्रहणात् सर्वे संस्कारा गृह्यन्ते । तानि **यः करोत्य् अन्नेन च यः संभावयति** संवर्धयति । "चैवेनम्" इति वा पाठः । अर्थस् तु स एव, अन्नेनैव संभावनोपपत्तेः । अर्थान्तरनिर्देशः एनं कुमारम् ।
+‘*Niṣeka*’ ‘Impregnation,’ is the ‘Sprinkling of the semen’:—those acts
+of which the ‘Impregnation’ is the first or beginning; the term
+‘beginning’ shows that all the Sacramental Rites are meant.
 
-- <u>ननु</u> चान्वादेशः । न चेह कुमारस्य पूर्वम् उपदेशः । <u>नैवम्</u> । कस्यान्यस्य **निषेकादीनि** क्रियन्ते ।[^३९६] सामर्थ्याद् अपि निर्देशो न निर्देशत एव । तानि **यः करोति** । एवम् आभ्यां गुणाभ्यां हीनः केवलजनकत्वे पितैव भवति न गुरुः । न चैवं मन्तव्यम् असति गुरुत्वे नासौ मान्यः । सर्वप्रथमम् असाव् एव मान्यः । तथा च भगवान् व्यासः- 
+He who performs these rites and also ‘*supports*’—fosters—‘*with food*.’
+
+‘*Chaivainam*’ is another reading (for ‘*cānnena*’). The meaning remains
+the same; as ‘supporting’ can be done only by means of *food*. The only
+additional sense obtained from this other reading is the reference, by
+means of the pronoun ‘*enam*,’ to the boy.
+
+“As a matter of fact, ‘*enam* is only a relative pronoun; and the ‘Boy’
+does not appear anywhere here as its antecedent.”
+
+There is no force in this; for whom else (if not for the *boy*) are the
+Kites of Impregnation and the rest performed? And ‘reference’ is often
+only *implied*, not always expressly stated.
+
+He who does not fulfil these two conditions, but gives one birth, is
+only a ‘progenitor,’ not a ‘mentor.’ Nor should the notion be
+entertained that, not being a ‘mentor,’ he should not be respected; as a
+matter of fact, he is the very first to deserve respect; as says the
+revered Vyāsa—‘The Father is the master, the source of the body, the
+benefactor, the life-giver, the mentor, the advisor, of all that is
+good, the visible God.’
+
+The mention of the ‘*Brāhmaṇa*’ is only illustrative.—(142)
 
 
-[^३९६]:
-     M G place here: tāni yaḥ karoti (M = yat)
-
-- प्रभुः शरीरप्रभवः प्रियकृत् प्राणदो गुरुः ।
-
-- हितानाम् उपदेष्टा च प्रथ्यक्षं दैवतं पिता ॥ इति ।
-
-**विप्र**ग्रहणं प्रदर्शनार्थम् ॥ २.१४२ ॥

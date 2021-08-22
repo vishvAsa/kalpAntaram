@@ -2,5 +2,21 @@
 title = "183 वेद-यज्ञैर् अहीनानाम्"
 
 +++
+‘*Who are not devoid of Veda and sacrifices*—who are equipped with Vedic
+learning, and perform the sacrifices to which they are entitled;—‘*not
+devoid*’ means *not without*, *i.e*., *fully equipped*.
 
-**वेदज्ञैश्** च य **अहीना** वेदाध्ययनेन संयुक्ताः यज्ञानां च सत्य् अधिकारे कर्तार **अहीना** अवर्जिता तदुपेता इति यावत् । **स्वकर्मसु च प्रशस्ताः** । येषां यज्ञ्ē ऽधिकारो नास्त्य् अन्यस्मिन् शस्ते कर्मणि तत्पराः । अथ वा स्वकर्मप्रशस्तास् ते उच्यन्ते ये स्ववृत्ताव् एव संतुष्टा न वार्द्धुषिकादिवृत्त्युपजीविनः । तेषां **गृहेभ्यो भैक्षम् आहरेद्** याचित्वा गृह्णीयात् **प्रयतः** शुचिः । **अन्वहम्** इत्य् अनुवादः ॥ २.१८३ ॥
+‘*Famed for their deeds*;’—thoso who may not be entitled to the
+performance of sacrifices, but who are accustomed to meritorious acts.
+Or, those persons may be called ‘*for their deeds*’ who are content with
+their own means of livelihood, and do not go in for such means of living
+as usury and the like.
+
+‘*From the houses of*’ these people ‘*he should fetch alms*’—*i.e*., beg
+and bring it away.
+
+‘*Pure*’—Clean.
+
+‘*Daily*’—This is a descriptive reiteration.—(188)
+
+

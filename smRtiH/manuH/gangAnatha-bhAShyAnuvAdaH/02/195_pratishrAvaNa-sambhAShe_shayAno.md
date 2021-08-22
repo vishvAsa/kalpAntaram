@@ -2,13 +2,24 @@
 title = "195 प्रतिश्रावण-सम्भाषे शयानो"
 
 +++
+‘*Listen to*’—*i.e*., listening to the words of the Teacher, when the
+latter calls him and directs him to do some work.
 
-**प्रतिश्रवणम्** आहूयमानस्य कार्ये नियुज्यमानस्य गुरुसंबन्धिवचनाकर्णनम् । **संभाषा** गुरुणा सहोक्तिप्रत्युक्तिकरणम् । ते **प्रतिशवणसंभाशे** । **शयानः** स्वे स्रस्तरे निक्षिप्तगात्रः । **न समाचरेन्** न कुर्यात् । **नासीन** आसने चोपविष्टः । **न भुञ्जानः** । **न तिष्ठन्न्** एकस्मिन्न् एव देशे ऽविचलन्न् ऊर्ध्वं स्थितः । **न** पुनः **पराङ्मुखः** । यस्यां दिशि[^५१३] गुरुर् दृश्यते ततः परावृत्य स्थितो[^५१४] न कुर्यात् ॥ २.१९५ ॥
+‘*Converse with*’—*i.e*., holding conversation with the teacher.
+
+‘Listening’ and ‘conversing’ form the copulative compound
+‘*pratiśravaṇasambhāṣe*.’
+
+‘*While lying down*’;—*i.e*., with his body reclining upon his owa bed.
+
+‘*Na samācaret*’—should not do.
+
+‘*Not* *while seated*’—upon a seat.
+
+‘*Nor while eating, nor while stand*,’—*i.e*., standing up right in one
+place, without moving.
+
+‘*Nor with face turned away*’—*i.e*., with face averted from the
+direction in which the Teacher may be looking.—(195)
 
 
-[^५१४]:
-     J: sthitir
-
-
-[^५१३]:
-     M G omit: diśi

@@ -2,9 +2,15 @@
 title = "047 ऋजवस् ते"
 
 +++
+‘*Anudvegakarāḥ*’—‘not frightening’ (Medhātithi and
+Govindarāja);—Kullūka does not explain the term;—‘not displeasing to the
+wearer’ (Nārāyaṇa).
 
-**ऋजवः** अवक्राः । **सर्वे** इत्य् अनुवादः, प्रकृतत्वाविशेषात् । **अव्रणा** अच्छिद्राः । **सौम्यं** प्रियकरं[^१८८] दर्शनम् एषां ते **सौम्यदर्शनाः** वर्णपरिशुद्धाः, अकण्टकिताश् च । **अनुद्वेगकराः** । नैतैः कश्चिद् उद्वेजयितव्यः स्वा वा मनुष्यो वा । **नृणाम्** इति प्रदर्शनार्थम् । **सत्वच** अतष्टाः । **अनग्निदूषिताः** वैद्युतेन दावोत्थेन वास्पृष्टाः ॥ २.४७ ॥
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 448);—in
+*Smṛtitattva* (p. 930)—in *Madanapārijāta* (p. 22);—‘in *Vīramitrodaya*
+(Saṃskāra, p. 436);—in *Aparārka* (p. 57);—and in *Saṃskāraratnamālā*
+(p. 193), which adds the following notes:—‘*Ṛjavaḥ*,’
+straight,—‘*avraṇāḥ*,’ free from holes,—‘*Saumyadarśanāḥ*,’ free from
+thorns, etc.,—‘*Agnidūṣitaḥ*,’ burnt by fire.
 
 
-[^१८८]:
-     M G: priyaṃkaraṃ

@@ -2,9 +2,13 @@
 title = "055 पूजितं ह्य्"
 
 +++
+‘*Ūrjam*’.—Buhler wrongly attributes to Medhātithi the explanation that
+this term means ‘bulk’. The term used by him is ‘*mahāprāṇatā*’ which
+means the same as ‘*vīrya*’ of Kullūka or ‘energy’ of Nārāyaṇa. Buhler
+has apparently been misled by a mis-reading of Medhātithi.
 
-पूर्वविधिशेषो ऽयम् अर्थवादः, न तु फलविधिः । फलविधौ[^२०४] हि काम्यो ऽयं विधिः स्याद् ऊर्जकामस्य बलकामस्य च । ततश् च नित्यशब्दो नोपपद्येत **पूजितं ह्य् अशनं नित्यम्** इति । अतो ऽयं यावज्जीविकः प्राङ्मुखता नियमः । **अपूजितं भुक्तं ह्य् उभयं नाशयेद्** बलम् ऊर्जं च । बलं सामर्थ्यम् अनायासेन भारोद्यमनादिशक्तता । कृशस्याप्य् ऊर्जं महाप्राणता । अङ्गोपचयः महाकायो महाबलश् च भवति ॥ २.५५ ॥
+This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 486) where
+‘*pūjitam*’ has been explained as, ‘*samskṛtam*’, well prepared;—and in
+*Smṛticandrikā* (Saṃskāra, p. 114).
 
 
-[^२०४]:
-     M G 1st ed.: phalavidho

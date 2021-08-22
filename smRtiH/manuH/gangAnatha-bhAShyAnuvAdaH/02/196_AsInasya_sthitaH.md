@@ -2,9 +2,18 @@
 title = "196 आसीनस्य स्थितः"
 
 +++
+\[The question arising \]—“How then is he to listen to and converse with
+the Teacher?”—the Text answers:—When the Teacher gives his directions
+seated, then the pupil should rise from his seat, and do the ‘listening
+and conversing’ while standing.
 
-कथं तर्हि । आसीनो यदाज्ञां ददाति तदा **स्थित** आसनाद् उत्थाय प्रतिश्रवणसंभाषे **कुर्यात्** । **अभिगच्छंस् तु तिष्ठतः** । तिष्ठन् गुरुर् यदादिशति तदाभिगच्छंस् तदभिमुखः कतिचित् पदानि गत्वा । **आव्रजत** आगच्छतः **प्रत्युद्गम्य, **अभिमुखम् एव गत्वा । प्रतिर् आभिमुख्ये । **धावतो** वेगेन गच्छतः **पश्चाद् धावन्** । पश्चाद् वा वसतस् तथा[^५१५] ॥ २.१९६ ॥
+‘*Advancing towards him, when he* *is* *standing*’;—when the Teacher
+gives his orders standing, the pupil should advance towards him a few
+steps.
+
+‘*Going forward* *to* *him, when he advances*’;—*i.e*., going up to the
+teacher. The prefix ‘*prati*’ has the sense of being face to face.
+
+‘*When he runs*’—moves with force; he should run behind him.
 
 
-[^५१५]:
-     J omits: paścād vā vasatas tathā

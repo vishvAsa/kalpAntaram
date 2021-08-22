@@ -2,13 +2,19 @@
 title = "179 द्यूतञ् च"
 
 +++
+‘*Janavādam*’—‘Quarelling with people’ (Medhātithi, Govindarāja, Kullūka
+and Rāghavānanda);—‘asking people at random for news’ (alternative
+suggested by Medhātithi, and Nārāyaṇa).
+
+This is quoted in *Parāśaramādhava* (Ācāra, p. 456);—in *Madanapārijāta*
+(p. 39);—in *Vīramitrodaya* (Saṃskāra, p. 495);—in *Saṃskāramayūkha* (p.
+42), which notes that ‘*prekṣanālambhana*’ of women is forbidden, lest
+they lead on to intercourse;—in *Smṛticandrikā* (Saṃskāra, p. 125),
+which has the same notes and adds that in ordinary crowds and other
+places, the *seeing* and *touching* cannot be avoided;—and in
+*Saṃskāraratnamālā* (p. 292), which explains ‘*dyūta*’ as gambling with
+dice, and ‘*janavāda*’ as talking of the people in general.
 
 
-[^४५०]:
-     M G: -ālambham
-
-**द्यूतम्** अक्षक्रीडा । समाह्वयः कुक्कुटादिभिः प्रतिषिद्धः, द्यूतशब्दस्य सामान्यशब्दत्वात् । **जनैर् वादः** अकारणेन लौकिकेष्व् अर्थेषु वाक्कलहः, देशवार्ताद्यन्वेषणं प्रश्नो वा । **परिवादः** असूयया परदोषकथनम् । **अनृतम्** अन्यथा दृष्टम् अन्यथा च श्रुतं यद् अन्यथोच्यते । "सर्वत्र वर्जयेत्" इत्य् अनुषङ्गाद् द्वितीया । **स्त्रीणां च प्रेक्षणालम्भौ** । अवयवसंस्थाननिरूपणं **प्रेक्षणम्** इदम् अस्याः शोभते ऽङ्गम् इदं नेति । **आलम्भः** आलिङ्गनम् । मैथुनशङ्कायां चैतौ प्रतिषिध्येते बालस्य यथातथम् । **परस्योपघातो** ऽपकारः कस्यांचिद् अर्थसिद्धौ प्रबन्धः । कन्यालाभादौ पृच्छ्यमानेन अयोग्यस्याप्य् अयोग्यत्वं[^४५१] न वक्तव्यम्, तूष्णीम् आसितव्यम्, अनृतप्रतिषेधात् ॥ २.१७९ ॥
 
 
-[^४५१]:
-     M G 1st ed: prayogyasyāpy ayogatvaṃ; G 2nd ed.: ayogyasyāpy ayogatvaṃ

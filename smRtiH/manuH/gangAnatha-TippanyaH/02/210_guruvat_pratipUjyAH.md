@@ -2,5 +2,9 @@
 title = "210 गुरुवत् प्रतिपूज्याः"
 
 +++
+The verse is quoted in *Parāśaramādhava* (Ācāra, p. 300) and in
+*Vīramitrodaya* (Saṃskāra, p. 402);—in *Smṛticandrikā* (Saṃskāra, pp.
+103 and 123) as indicating the figurative use of the title ‘*guru*’;—and
+in *Smṛtikaustubha* (p. 478).
 
-**गुरुयोषितो** गुरुपत्न्यः । **सवर्णाः** समानजातीयाः । **गुरुवत् प्रतिपूज्या** आज्ञाकरणादिना । **असवर्णास् तु** केवलैः **प्रत्युत्थानाभिवादनैः** । बहुवचनाद् आद्यर्थो ऽत्रान्तर्भवति । तेन हि प्रियहितादि गत्याद्य् अननुकरणाद्य् अप्य् अतिदिश्यते ॥ २.२१० ॥
+

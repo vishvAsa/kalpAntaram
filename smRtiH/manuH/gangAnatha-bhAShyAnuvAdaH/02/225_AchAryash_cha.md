@@ -2,5 +2,15 @@
 title = "225 आचार्यश् च"
 
 +++
+In fact no one should bo treated with disrespect; specially these. That
+is to say, the disrespect of these entails a heavier expiation.
 
-अन्यो ऽपि न कश्चिद् अवमन्तव्यः, एते पुनर् विशेषतः । प्रायश्चित्ताधिक्यम् अत्रेत्य् अर्थः । **आर्त्तेन** तैः पीडितेनाप्य् । **अवमानम्** अवज्ञा, प्राप्तायाः पूजाया अकरणं न्यक्कारश् चानादराख्यः । ब्राह्मणग्रहणं पूरणार्थम् ॥ २.२२५ ॥
+‘*Distressed*’—injured by them.
+
+‘Treating with disrespect’ consists in disregard; the omitting of honour
+due; as also insulting, which is called ‘want of respect.’
+
+The term ‘*Brāhmaṇa*’ has been added only for filling up the
+metre.—(225)
+
+

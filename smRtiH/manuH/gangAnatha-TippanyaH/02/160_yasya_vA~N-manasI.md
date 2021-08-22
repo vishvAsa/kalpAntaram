@@ -2,17 +2,30 @@
 title = "160 यस्य वाङ्-मनसी"
 
 +++
+‘*Vedāntopagatam*’—‘*Vedānta*’ stands for the Upaniṣads, and the
+‘reward’ is Final Release (Govindarāja, Kullūka, Nārāyaṇa Nandana and
+Rāghavānanda);—it stands for the ‘doctrines of the Veda’, and ‘reward’
+stands for the results accruing from the sacrifices and rites prescribed
+in the Veda (Medhātithi).
 
-**यस्या**ध्यापयितुर् अन्यस्य वा संक्षोभहेतौ सति **वाङ्मनसी शुद्धे** न कालुष्यं गच्छतः । **सम्यग्गुप्ते** चोत्पन्ने ऽपि कालुष्ये न परद्रोहव्यवसायो न च तत्पीडार्थः कर्मारम्भः, एतत् सम्यग्गोपनं वाङ्मनसयोः । **सर्वदा**ग्रहणं पुरुषमात्रधर्मार्थं, नाध्यापयितुर् एव अध्यापनकाले । **स वै सर्वम् अवाप्नोति** । **वेदान्ता** वेदसिद्धान्ताः । सिद्धशब्दस्यात्यन्तं सिद्ध इति "सिद्धे शब्दार्थसंबन्धे" (पाण् वार् इन् पत् इ- ६) इत्य् अत्रात्यन्तशब्दस्येव लोपः । वैदिकेषु वाक्येषु य सिद्धान्तो व्यवस्थितार्थो ऽस्य कर्मण इदं फलम् इत्य् उपगतः, अभ्युपगतो वेदविद्भिः, **तत्फलं सर्वं प्राप्नोति** । एवम् च वदता वाङ्मनससंयमस्यानेन वाक्येन क्रतुषु[^४०८] पुरुषोभयधर्मतोक्ता भवति । केवलपुरुषधर्मातिक्रमे ह्य् असति क्रतुवैगुण्ये[^४०९] ऽसंयतो ऽपि वाङ्मनसाभ्यां किम् इति कृत्स्नं फलं न प्राप्नोति, येनोच्यते "संयमी सर्वम् आप्नोति" इति ।
+*Medhātithi* (P. 140, l. 26)—‘*Kratupuruṣobhayadharmatā*’—Details
+prescribed in the Veda have been grouped under three heads—(1)
+*puruṣārtha*, (2) *kratvartha* and (3) *kratupuruṣobhayārtha*.
+
+\(1\) The *Darśapūrṇamāsa* sacrifices belong to the *puruṣārtha* class,
+as they accomplish something agreeable and desirable for the agent;—
+
+\(2\) all material substances and their purifications and preparations
+are *kratvartha*, as they are directly helpful in the accomplishment of
+the sacrifice;—
+
+\(3\) certain things come under both categories; e.g. *Curd* is
+mentioned in one place simply as a substance to be offered, where it is
+only *kratvartha*; while in another place, it is mentioned as the
+substance to be offered for the sake of one who desires efficient
+sense-organs, in which case it becomes *puruṣārtha*. (See *Prābhākara
+Mīmāṃsā*, pp. 197-199).
 
 
-[^४०९]:
-     M G: ṛtuvaiguṇye
 
 
-[^४०८]:
-     M G: ṛtuṣu
-
-- <u>अन्ये</u> तु वेदान्तान् रहस्यब्राह्मणान् व्याचक्षते । तेषु यद् अभ्युपगतं फलं नित्यानां कर्मणां निष्फलानां च यमनियमानां तत्फलं ब्रह्मप्राप्तिलक्षणं **सर्वम् आप्नोति** । कथं पुनर् नित्यानि ब्रह्मप्राप्त्यर्थानीति चेद् अस्ति केषांचिद् दर्शनम् । 
-
-- <u>अथ वा</u> वेदस्यान्तो ऽध्यापनसमाप्तिस् ततो यत् फलम् आचार्यकरणविधिस् तत् प्राप्नोति । एवं तु व्याख्याने ऽध्यापनविध्यर्थतैव स्यात् ॥ २.१६० ॥

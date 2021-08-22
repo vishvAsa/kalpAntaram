@@ -2,19 +2,66 @@
 title = "058 ब्राह्मेण विप्रस्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 76), where it is
+noted that according to Hemādri, the term ‘*vipra*’ stands for all the
+three twice-born castes, on the ground that Yājñavalkya’s text bearing
+on the subject uses the generic term ‘*dvija*—but this view is
+controverted on the ground that it is more reasonable to take, on the
+strength of Manu’s use of the particular term ‘*vipra*,’ the term
+‘*dvija*’ of Yājñavalkya’s text as standing for the Brāhmaṇa only,
+rather than the other way about; as in this there is no stretching of
+the term ‘*dvija*’ which is often used for the Brāhmaṇa only; while in
+the other case the natural meaning of the term ‘*vipra*’ is unduly
+extended to other than Brāhmaṇas. The writer goes on to quote
+Medhātithi’s words (p. 100, 11.20-21)—“The mention of the *Vipra* is not
+meant to be significant here. For special rules for the Kṣatriya etc.,
+are going to be added later on (in verse 62, *et seq*), and unless we
+had a general rule there could be no room for specifications; \[and it
+is the present verse alone that could be taken as formulating that
+general rule, and hence it could not be taken as restricted to the
+Brāhmaṇa only.”\] (*Translation* pp. 306-307);—and traverses this
+argument, on the ground that the present text is not injunctive of
+*Ācamana*, and hence the special rule that follows in verse 62 regarding
+*ācamana* can have no bearing upon this verse; the real injunction of
+*Ācamana* is contained in verse 61. Verse 58, therefore, it is
+concluded, must be taken only as enjoining a particular ‘*tīrtha*’ for
+the Brāhmaṇa.
 
-**तीर्थ**शब्देन पवित्रम् उदकाधिकरणम् उच्यते । तारणाय पापप्रमोचनाय च तिष्ठतीति तीर्थम् । क्वचित् तु तरन्त्य् अनेनेति तीर्थम् उदकावतरणमार्गः । इह तूदकाधारकरतलैकदेश उच्यते । स्तुत्या वा तीर्थशब्दप्रयोगः । न हि तत्र नित्यस्था आपः । तेन **उपस्पृशेद्** आचामेत् । **ब्राह्मेणेत्य्** एतद् अपि स्तुत्यर्थम् एव । ब्रह्मा देवतास्येति । न हि तीर्थस्य देवता भवत्य् अयागरूपत्वाद् अमन्त्रत्वाच् च । यागरूपतां च केनचिद् धर्मेण शुद्धिहेतुत्वादिनाध्यारोप्य देवतातद्धितः । **नित्यकालं** शौचार्थे कर्माङ्गे च । **कः** प्रजापतिः, स देवतास्येति **कायम्** । एवं त्रिदशा देवता अस्येति **त्रैदशिकम्** । त्रिदशशब्दाद् देवताणिकृते स्वार्थे कः । देवतात्वं च पूर्ववत् । एभिस् तीर्थैर् **उपस्पृशेत्** । **विप्र**ग्रहणम् अविवक्षितम् । यतः क्षत्रियादीनं विशेषं वक्ष्यति । न चासत्यां सामान्यतः प्राप्तौ विशेषविधानम् उपपद्यते, "कण्ठगाभिस् तु भूमिपः" (म्ध् २.६२) इत्यादि । **न पित्र्येण** पितृदैवत्येन **कदाचिद्** अपि । स्फोटपिटकादिना ब्राह्मादितीर्थेष्व् अयोग्यताम् आयातेष्व् अपि ।
+Proceeding with the explanation of the verse, *Vīramitrodaya*
+adds—‘*nityakālam*’ meaning *always*; so that whenever *ācamana* has got
+to be done, it should be done by the Brāhmaṇa by anyone of the thfee
+methods herein described; and it adds that such is the ‘*svarasa*,’
+‘inclination,’ of Medhātithi also, which clearly refers to Medhātithi,
+p. 100, 1. 22. It goes on to point out, however, that the view of many
+Digests is that *as far as possible* the *Brāhmatīrtha* should be
+used.,—such being the implication of the qualification ‘*nityakālam*,’
+which is more nearly related to the first option; and the other
+alternatives are to be taken up only when the *Brahma tīrtha* is
+disabled.—‘*Kāya*’ means ‘dedicated to Prajāpati,’ and ‘*Traidaśika*,’
+‘dedicated to the gods.’
 
-- <u>ननु</u> चाविधानाद्[^२१०] एव पित्र्यस्याप्राप्तिः । <u>अस्त्य्</u> अत्राशङ्का । पितृतीर्थज्ञापनार्थं तावत् पित्र्यं तयोर् अध[^२११] इत्य् अवश्यं वक्तव्यम् । न च तस्येह कार्यं निर्दिश्यते । कार्याकाङ्क्षायां[^२१२] प्रकृतत्वात् तेन कार्येण संबन्ध आशङ्क्येत । अद्य पुनः प्रतिषेधे सति पित्र्यम् इति समाख्ययैव कार्यावगतिः, उदकतर्पणादि पितृकर्म एतेन तीर्थेन कर्तव्यम् । एवं स्तुतिर् अन्वयिनी भवति । श्रुतिनोदितत्वाच् च ब्राह्मादीनां तदभावे प्राप्ताशङ्कानिवृत्त्यर्थं युक्तम् अस्याभिधानम् ॥ २.५८ ॥
+It goes on to add that, though there was no possibility for the ‘*Pitrya
+tīrtha*’ to be employed,—it not being mentioned among those
+sanctioned,—yet it has been specially interdicted with a view to
+indicate that the *Pitryatīrtha* is never to be used, not even when
+every one of the three *tīrthas* permitted is impossible, through
+pimples and sores: so that in such emergencies, the *tīrtha* to be
+employed would be the *Āgneya* and others.
+
+This verse is quoted in *Nityāchārapradīpa* (p. 64 and p. 253), which
+notes that ‘*Kāyatraidaśikabhyām*’ is the secondary alternative
+mentioned in view of the contingency of there being a wound or some
+incapacity in the ‘*Brāhmatīrtha*;—in *Śuddhikaumudī* (p. 339), which
+has the following note—‘*Kāya*’ is *Prājāpatya*; ‘*Traidaśika*’ is
+*Daiva*; ‘*nityakālam*’ indicates that the second and third alternatives
+are to be resorted to only in the event of the using of the first being
+impossible;—in *Ācāramayūkha* (p. 20), which explains *traidaśikam*’ as
+*daivam*;—in *Smṛtisāroddhāra* (p. 311), which connects the negative
+particle ‘*na*’ with the whole of the second line, and explains
+‘*brāhma*’ as the base of the *aṅguṣṭha*, ‘*kāya*’ as *prājāpatya*, the
+base of the little finger, ‘*traidaśika*’ as *daiva*, the tip of the
+fingers, and ‘*pitrya*’ the base of the index finger;—and in
+*Vīramitrodaya* (Paribhāṣā. p. 77), which quotes ‘Medhātithis’
+explanation of the derivation of the term ‘*traidaśikam*’.
 
 
-[^२१२]:
-     M G: -kāṅkṣāya
-
-
-[^२११]:
-     M G omit: adha
-
-
-[^२१०]:
-     M G 1st ed.: cāvidhānavad

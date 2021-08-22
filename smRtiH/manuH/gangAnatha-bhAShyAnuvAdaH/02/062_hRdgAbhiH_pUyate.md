@@ -2,13 +2,56 @@
 title = "062 हृद्गाभिः पूयते"
 
 +++
+‘*Reaching the heart*’—that which reaches down to the regions of the
+heart; the word being derived from the root ‘*gam*’ with the ‘ḍa’ affix,
+according to Pāṇini, 6. 2.101; the term ‘*hṛdaya*’ being changed into
+‘*hṛd*’ according to Pāṇini’s Sūtra, 6.3.50.
 
-हृदयं गच्छन्ति प्राप्नुवन्ति **हृद्गाः** । "अन्येष्व् अपि दृश्यते" (पाण् ३.२.१०१) इति गभेर् डः । "हृदयस्य हृद्" (पाण् ६.३.५०) इति योगविभागाद् धृदादेशः । **पूयते** पवित्रतां प्राप्नोत्य् अशुचित्वं व्यावर्तते । आप[^२१९] ईषदूनचुलुकमात्रप्रमाणः, **कण्ठगाभिस्** ताभिः कण्ठमात्रव्यापिनीभिः **भूमिपः** क्षत्रियः । भूमेर् आधिपत्यं क्षत्रियस्य विहितम् । तेन प्रसिद्धेन कर्मणा क्षत्रियजातिर् लक्ष्यते । आधिपत्यविवक्षायां राजधर्मेष्व् एवावक्ष्यत् । **वैश्यः** **प्राशिताभिर्** अन्तरास्यप्रवेशिताभिः । कण्ठम् अप्राप्ता अपि शुद्धिहेतवो वैश्यस्य । **शूद्रः स्पृष्टाभिर् अन्तत** अन्तेनेति । आद्यादित्वात् तृतीयार्थे तसिः । अन्तशब्दो ऽयं समीपवचनो ऽस्ति । उदकान्तं गत उदकसमीपम् इति गम्यते । अस्त्य् अवयववचनः । वस्त्रान्तो वसनान्त इत्य् उभयत्रापि वर्तमानः संबन्ध्यन्तरम् अपेक्ष्यते, कस्य[^२२०] समीपं कस्य वावयव इति । तत्रेह येन स्थानेन वर्णान्तराणाम् आचमनं विहितम्, तीर्थैर् जिह्वोष्ठेन च तदन्तेनेति प्रतीयते । समीपवचनस् तु न संभाव्यः विधीयमानस्याचमनस्य तत्साध्यत्वासंभवात् । स्पर्शे ऽपि प्राशनम् अस्ति । जिह्वौष्ठेन हि स्पृश्यमानस्य रसास्वादनम् अवश्यंभावि । तत्र वैश्यपरिमाणात् किंचिन्न्यूनतात्र विवक्षिता । जिह्वामूलं यावद् वैश्यस्य, जिह्वाग्रं शूद्रस्य । द्रवत्वाद् उदकस्यापरिहार्यो ऽवध्यतिक्रमः, अवश्यप्राप्तौ त्व् अशुद्धिः । सर्वश् चायं तीर्थविभागो दक्षिणहस्तस्योपस्पर्शने हस्तस्यौचित्याद् दक्षिणाचारतायाश् च पुरुषधर्मतया विहितत्वात् । एवमर्थम् एव चास्मिन्न् अवधाव् इदम् उच्यते ॥ २.६२ ॥
+‘*Is purified*’—Reaches sanctity; that is, gets rid of impurity. The
+water (reaching the heart) would, in quantity, be just a little less
+than a handful.
+
+‘*The Kṣatriya by that reaching the throat*’—*i.e*., by that which
+reaches only down to the throat. The term ‘*bhūmipaḥ*’ in the text
+stands for the Kṣatriya; as the ‘lordship of land’ is laid down for the
+Kṣatriya only; and hence this well-known function (of ruling the land)
+indicates here the *Kṣatriya* caste. If actual ‘lordship’ of the land
+were meant, then what is laid down here would have been prescribed among
+the ‘duties of tho king.’
+
+‘*The Vaiśya by the water that is just sipped*,’—*i.e*., which is just
+taken into the mouth; even without reaching the throat, the water thus
+sipped serves to purify the Vaiśya.
+
+‘*The Śūdra by what is touched with the end*;’—‘*anṭataḥ*’ stands for
+‘*antena*’; the ‘*tasil*’ affix having the force of the instrumental,
+according to the *Vārtika* on Pāṇini, 5. 4. 44. The term ‘*end*’
+(*anta*) means proximity; *e.g*., the phrase ‘*udakānta*’ means ‘*near*
+water’. It also means *a part*; *e.g*., in such expressions as
+‘*vastrānta*,’ ‘*vasanānta*’ and the like. With both these
+significations the term ‘end’ (being a relative term) stands in need of
+a correlative; whenever it is used, one always wants to know—‘*near*
+*what* ’ or ‘*part of what*.’ Now in the present case, the water-sipping
+has been laid down for the other castes as to he done with certain parts
+of the hand and the lips and the tongue; and it is the ‘end’ of these
+that is meant. It cannot mean mere ‘*proxi* *mity*’; because the
+‘*water-sipping*’ prescribed cannot he accomplished by mere proximity.
+Then again, the ‘touch’ (of the water with the tongue and lips) would
+involve *sipping* (which has been laid down for the Vaiśya); for one is
+sure to feel the taste of that which is touched with the tongue and
+lips. Hence the conclusion appears to he that the quantity of water
+sufficient for the *Śūdra* is just a little less in quantity than that
+for the *Vaiśya*; *e.g*., while for the Vaiśya the water should touch
+the root of the tongue, for the Śūdra it should touch only its tip.
+
+Water being a fluid substance, its going beyond the limits prescribed
+would be unavoidable; hence all that is meant is that if the water
+sipped fails to reach the prescribed limits, it fails to purify the man.
+
+The description of the ‘receptacles’ (parts of the hand) refers to the
+right hand; as it is this hand that should be used in all washings;
+specially as it has been laid down that men should perform (religious)
+acts with the right hand. It is for this reason that we reiterate this
+fact in the present connection.—(62)
 
 
-[^२२०]:
-     M G 1st ed.: asya
-
-
-[^२१९]:
-     M G: sparśa

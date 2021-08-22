@@ -3,7 +3,4 @@ title = "067 वैवाहिको विधिः"
 
 +++
 
-वैवाहिको विधिः स्त्रीणां  
-संस्कारो वैदिकः स्मृतः ।  
-पतिसेवा गुरौ वासो  
-गृहार्थो ऽग्नि-परिक्रिया  ॥ २.६७ ॥+++(5)+++ 
+For females the Rites of marriage have been ordained to be their ‘Vedic Sacrament,’ the serving of the husbands their ‘residence with the Teacher,’ and the household-duties their ‘tending of fire.’—(67) 

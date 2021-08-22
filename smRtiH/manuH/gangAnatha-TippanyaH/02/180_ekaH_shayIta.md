@@ -2,9 +2,12 @@
 title = "180 एकः शयीत"
 
 +++
+This verse is quoted in *Madanapārijāta* (p. 39), which explains
+‘*Vratam*’ as ‘*brahmacharyam*’;—in *Vīramitrodaya* (Saṃskāra, p.
+496);—only the first half in *Parāśaramādhava* (Ācāra, p. 456);—in
+*Nṛsiṃhaprasāda* (Saṃskāra, p. 46b);—and in *Smṛticandrikā* (Saṃskāra,
+p. 127), which explains ‘*vratam*’ as the vow of
+Studentship;—unintentional emission involves only an expiation, and not
+a breach of the vow.
 
-**एकः शयीत सर्वत्र न रेतः स्कन्दयेत् क्वचित्**, अयोनाव् अपि, योनौ[^४५२] स्त्रीप्रतिषेधाद् एव सिद्धत्वात् । अत्रार्थवादः **कामाद् धि स्कन्दयन्** । इच्छात्र **कामः** । हस्तव्यापारादिनायोनौ मैथुनेन च **रेतः** शुक्रं **स्कन्दयन्** क्षरयन् **हिनस्ति** नाशयति ब्रह्मचर्य**व्रतम् आत्मनः **॥ २.१८० ॥
 
-
-[^४५२]:
-     M G: yaunau

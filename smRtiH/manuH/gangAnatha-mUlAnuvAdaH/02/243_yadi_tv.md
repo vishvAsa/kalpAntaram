@@ -3,4 +3,4 @@ title = "243 यदि त्व्"
 
 +++
 
-अत्यन्तं भवम् **आत्यन्तिकं** **वासं गुरोः कुले** नैष्ठिकं ब्रह्मचर्यं **यदि रोचयेत्** तदा **युक्तस्** तत्परः **परिचरेद् एनं** गुरुम्, **आ श्रीरस्य विमोक्षणात्** पाताद् यावच्छरीरं ध्रियत इत्य् अर्थः ॥ २.२४३ ॥
+If one likes to live in life-long residence in the teacher’s house, he should, intently serve him till he becomes freed from his body.—(243)

@@ -2,21 +2,30 @@
 title = "064 मेखलाम् अजिनम्"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), which says
+that it lays down the method of disposing of the sacred thread and other
+things whenever they happen to break;—also in *Nirṇayasindhu* (p. 190).
 
-विनष्टानाम् अप्सु प्रासनम् अन्येषां च ग्रहणम् अत्र विधीयते । प्रासनग्रहणयोः पौर्वापर्यं यथाश्रुतम् एव । अस्माच् च पुनर् उपादानान् नैषाम् उपनयनाङ्गतैव । तदङ्गत्वे हि तत्प्रयोगापवर्गितैव स्यात् । किं तर्हि, यावद् ब्रह्मचर्यं धारणम् ।
+It is quoted in *Smṛtitattva* (p. 934) which says that, as the use of
+mantras is essential, if a certain Gṛhyasūtra does not mention the
+mantra, it has to be borrowed from another Gṛhyasūtra;—and in
+*Vīramitrodaya* (Saṃskāra, p. 423), where also the verse is explained as
+laying down the ‘disposal’ of the tilings mentioned. The latter quotes
+the verse again on p. 887, where it is explained that in a case where an
+injunction lays down a certain act as to be done ‘with the proper
+mantras’—as is done in the present verse—and no particular *mantra* is
+prescribed? one has to use the *mantra* that may be found mentioned in a
+particular *Gṛhyasūtra*. This is what ‘*mantravat*’ has beeif explained
+to mean, in *Madanapārijāta* (p. 37 also.)
 
-- <u>अथ किम्</u> उपनयनकाल एव प्राक् कर्मनिष्पत्तेः दैवान् मानुषाद् वा प्रतिबलाद् विनष्टानां प्रतिपत्तिर् न संभवति । प्रयोगसमाप्त्यर्थं च पुनरुपादानम्, यथा कपालस्य, येनैवम् उच्यत अस्मात् पुनरुपादानाद् धारणम् अनुमीयते ।
+It is quoted in *Smṛticandrikā* (Saṃskāra,, p. 85) as laying down the
+disposal of the sacred thread that has been worn out;—in
+*Saṃskāramayūkha* (p. 39), which notes that the meaning of the term
+‘*mantravat*’ is that they have to be worn with those same mantras that
+were used for wearing them at the *Upanayana*;—and in *Vīramitrodaya*
+(Paribhāṣā, p. 72) as an example of the principle that where the text
+laying down a certain act as to be done ‘with mantras’ does not specify
+the particular mantras to be used, these have to be taken as laid down
+in other *Gṛhyasūtras*.
 
-- <u>उच्यते</u> । ग्रहणं तावद् दण्डस्य चोदितम्, मेखलाया बन्धनम् । तत्र सूत्रस्य[^२२५] विन्यासस् तावद् उपनयनाङ्गत्वेनावश्यं कर्तव्यम् । कृते तस्मिन् कृतः शास्त्रार्थः । उत्तरकालं किं तैर् नष्टैर् अनष्टैर् वा । अङ्गनाशे च प्रतिपत्तिविशेषः कर्मोपकारको भवति । न च तेषां किंचन कार्यम् आम्नातं येन तत्सिद्ध्यर्थं विशिष्टे काले वाचनिकम् उपादानम् । अकृतत्वाच् च कार्यस्य तत्प्रयुक्तं पुनरुपादानम् अर्थसिद्धम् उच्यते । तस्मात् प्रतिपत्तिविधानाद् उपादानवचनाच् च धारणम् अङ्गम्, न च प्रयोगापवर्गि । यतः कमण्डलुनोपनयनोत्तरकालानुवर्तिना तुल्यवन् निर्देशात् तेषाम् अप्य् उत्तरत्रानुवृत्तिः प्रतीयते । सा च व्रताङ्गम् । अत उभयार्था मेखलादयः- प्रकरणाद् उपनयनार्थाः, निवृत्ते चोपनयने दर्शनाद् यावद् ब्रह्मचर्यभाविनः । कमण्डलुश्[^२२६] चोदकार्थः कर्तव्यो ऽस्माद् एव प्रतिपत्तिविधानात् । अन्यथा यदा कमण्डलुस् तदेयं प्रतिपत्तिर् इति पाक्षिकत्वं स्यात् । 
 
-
-[^२२६]:
-     M G 1st ed.: kamaṇḍalunā
-
-
-[^२२५]:
-     G: sūtrakasya
-
-- तत्र दण्डधारणं प्रतिगृह्य दण्डं भिक्षां चरेद् इति क्रमाद् भैक्ष्यचर्याङ्गत्वम् एव प्राप्तं समाचाराद् अभैक्षे ऽर्थे ऽपि भ्रमणे भवत्य् एव । न तु सर्वदैव करतलधृतदण्डस्य स्थानासनशयनभोजनादीनि । तथा च स्वाध्याये ब्रह्माञ्जलिं वक्ष्यति । 
-
-- **मन्त्रवद्** इत्य् उपनयनविधिना ग्रहणम् अनुवदति । तत्र च मेखलाया मन्त्रः, न दण्डस्य ॥ २.६४ ॥

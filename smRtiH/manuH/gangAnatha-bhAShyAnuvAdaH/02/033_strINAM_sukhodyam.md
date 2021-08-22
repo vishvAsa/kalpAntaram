@@ -2,13 +2,53 @@
 title = "033 स्त्रीणां सुखोद्यम्"
 
 +++
+Inasmuch as significance has been attached to the mention of the ‘male’
+child (in verse 29), what has been said in the preceding verses is not
+applicable to women; and the present verse is going to lay down rules
+regarding the names of women.
 
-पुंस इत्य् अधिकृतत्वात् स्त्रीणाम् अप्राप्तौ नियम्यते । सुखेनोद्यते **सुखोद्यम्** । स्त्रीबालैर् अपि यत् सुखेनोच्चारयितुं शक्यते तत् स्त्रीणां नाम कर्तव्यम् । बाहुल्येन स्त्रीणां स्त्रीभिर् बालैश् च व्यवहारस् तेषां च स्वकरणसौष्टवाभावान्[^१६४] न सर्वं संस्कृतं शब्दम् उच्चारयितुं शक्तिर् अस्ति । अतो विशेषेणोपदिश्यते । न तु[^१६५] पुंसाम् असुखोद्यम् अभ्यनुज्ञायते । उदाहरणं मङ्गलदेवी चारुदती सुवनदेत्यादि । प्रत्युदाहरणं शर्मिष्ठा सुश्लिष्टाङ्गीति । **अक्रूरम्** अक्रूरार्थवाचि । क्रूरार्थवाचि क्रूरार्थं डाकिनी परुषेति । **विस्पष्टार्थं** यस्यार्थो व्याख्यानगम्यो न भवति, श्रुत एव विदुषाम् अविदुषां वार्थप्रतीतिं करोति । अविस्पष्टार्थं यथा- कामनिधा कारीषगन्ध्येति । कामस्य निधेव निधा तया कामस् तत्रैव तिष्ठतीति । एवं यावन् न व्याख्यातं तावन् नावगम्यते । एवं कारीषगन्धेर् दुहिता कारीषगन्ध्येति व्याख्यानम् अपक्ष्यते । **मनोहरं** चित्ताह्लादकरम्- आश्रेयसी । विपरीतं तु- कालाक्षी । शर्मवती रुद्रवतीति **मङ्गल्यम्** । विपरीतम्- अभागा मदभागेति । **दीर्घो वर्णो ऽन्ते** यस्य । विपरीतम्- शरत् । आशिषं वदतीत्य् **आशीर्वादम्** । **अभिधानं** शब्दः । तयोर् विशेषणसमासः । तद् यस्मिन्न् अस्ति विद्यते तद् **आशीर्वादाभिधानवत्**- सपुत्रा बहुपुत्रा कुलवाहिकेति । एते ह्य् अर्था आशीर्विषया । वपरीता- अप्रशस्ता अलक्षणेति । अथ मङ्गल्यस्याशीर्वादस्य च को विशेषः । न कश्चित् । वृत्तपूर्णार्थं तु भेदेनोपादानम् ॥ २.३३ ॥
+‘*Easily pronouncible*’;—that which can be easily pronounced; the name
+of women should be such as can be uttered, with ease, even by women and
+children. It is mostly women and children that have got to deal with
+women; and the woman’s organ of speech being not very efficient, she
+cannot pronounce each and every Sanskrit word; hence the Text lays
+stress upon this pronouncibility in the case of feminine names. This
+however docs not mean that the masculine names may be unpronouncible. As
+examples of ‘pronouncible’ names wo have, ‘*Maṅgala-devī*,’
+‘*Chārudati*,’ ‘*Suvadanā*,’ etc., and as counter-examples (*i.e*., of
+*unpronouncible* names), ‘*Śarmiṣṭhā*,’ ‘*Suśliṣṭāṅgī*,’ and the like.
+
+‘*Not harsh*,’—*i.e*., not denoting any thing harsh; names denoting
+harsh things are such as ‘*Ḍākinī*’ (Sorceress), ‘*Paruṣā*’ (Rough) and
+so forth.
+
+‘*Of plain meaning*,’—whose moaning does not need to be explained before
+it is comprehended; which, as soon as it is heard, couveys its meaning
+to the learned and the unlearned alike. As examples of names with
+meanings not plain, we have, (*a*) ‘*Kāmaniḍhā*’ and (*b*)
+‘*Kāriṣagandhī*’; the meaning of these terms is not comprehended until
+the following explanations have been provided:—(*a*) ‘who is, as if it
+were, the *very* receptacle of love, she in whom all love is contained,’
+and (*b*) ‘*Kārīṣagandhī*’ is the ‘daughter of Kariṣagandhi.’
+
+‘*Heart-captivating*,’—that which pleases the mind; *e.g*., ‘*Śreyasī*’;
+while of the contrary kind we have the name ‘*Kālākṣī*.’
+
+‘*Auspicious*,’—such as ‘*Śarmavatī*’; of the contrary kind is the name
+‘*Abhāgā*,’ ‘M *andabhāgā*.’ ‘*Ending in a long vowel*,’—that which has
+a long vowel at the end. Contrary to this is the name ‘*Śarat*.’
+
+‘*Āśīrvāda*’ is *that which denotes benediction*; ‘*abhidhāna*’ is
+*term*; and when the two are compounded in tho *dhāraya* form, we get
+the meaning ‘*benedictory term*’; and the name that contains such a term
+is called ‘*āśīrvādābhidhānavat*,’ ‘*containing a benedictory term*.’
+Examples of such names—‘*Saputrā*,’ ‘*Bahuputrā*,’ ‘*Kulavāhikā*’; these
+are benedictory names; of the contrary kind are such names as,
+‘*Apraśastā*,’ ‘*Alakṣaṇā*.’
+
+“What is the difference between ‘auspicious’ and ‘benedictory’?”
+
+None whatsoever. The second epithet has been added only for the purpose
+of filling up the metre.—(33)
 
 
-[^१६५]:
-     M G 1st ed.: tat tu
-
-
-[^१६४]:
-     M G: svakāraṇa-

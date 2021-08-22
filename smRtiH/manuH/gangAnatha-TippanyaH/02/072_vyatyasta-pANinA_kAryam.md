@@ -2,11 +2,21 @@
 title = "072 व्यत्यस्त-पाणिना कार्यम्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 455), where it is
+explained that the ‘left’ and ‘right’ of the second half stand for the
+left and right *feet*; so that the meaning is that the left foot of the
+teacher should be touched by the left hand and the right one by the
+right hand; and it quotes Baudhāyann laying down that the pupil should
+pass his hands from the knee downwards to the foot.
 
-यद् उपसंग्रहणं पूर्वश्लोके गुरोर् उक्तं तद् **व्यत्यस्तपाणिना कार्यम्** । कीदृशः पुनः पाण्योर् व्यत्यासः कर्तव्य इत्य् अत आह । **सव्येन** हस्तेन **सव्यः** पादः **स्प्रष्टव्यः** स्पर्शः कर्तव्यः, न तु चिरं निपीड्यासितव्यम् । एष च व्यत्यासो युगपद् इतरेतरदिक्संचारेण हस्तयोर् भवति । अग्रतः स्थितेन संमुखेन **गुरोर् उपसंग्रहणं** कर्तव्यम् । तत्र वामो दक्षिणमार्गं नीयते, दक्षिणो वामम् इत्य् एवं **सव्येन सव्यः** स्पृष्टो भवति, **दक्षिणेन च दक्षिण** इत्य् एष पाणिव्यत्यासः । 
+A similar explanation is given also in *Parāśaramādhava* (Ācāra, p.
+300).
 
-- <u>अन्ये</u> तु "विन्यस्तपाणिना" इति पठन्ति । स्पर्शाद् एव च विन्यासे सिद्धे नाग्नितप्तायःपिण्डस्पर्शनवद् दाहभयाद् अङ्गुल्यग्रमात्रेण स्पर्शनं न[^२४५] कर्तव्यम्, अपि तु हस्तौ विन्यसितव्यौ निधातव्यौ । पीडनं तु पीडाकरं निषिद्धम् इति वर्णयन्ति ॥ २.७२ ॥
+The verse is quoted also in *Vidhānapārijāta* (p. 52.1);—in *Aparārka*
+(p. 55), as laying down the ‘feet clasping’ of the teacher;—in
+*Saṃskāramayūkha* (p. 40), which says that ‘*spraṣṭavyaḥ*’ goes with
+‘*gurucaraṇaḥ*’ understood;—and in *Smṛticandrikā* (Saṃskāra, p. 103),
+which explains the meaning to be that the left and right feet of the
+teacher are to be touched with the left and right hands respectively.
 
 
-[^२४५]:
-     J omits: na

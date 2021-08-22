@@ -2,11 +2,22 @@
 title = "087 जप्येनैव तु"
 
 +++
+‘*Maitraḥ*’—‘of friendly disposition (towards all living
+beings)’—Medhātithi;—‘worshipper of Mitra, Sun’ (suggested by
+Rāghavāṇanda).
 
-**जप्येनैव** सिद्धिं काम्यफलावाप्तिं ब्रह्मप्राप्तिं वा प्राप्नुयात् । नात्र हृदि सङ्का कर्तव्या । यज् ज्योतिष्टोमादिभ्यो महाप्रयासेभ्यो भावनाभ्यश् च यल् लब्धव्यं यज् जपेन कथं सिध्यतीति । सिध्यत्य् एव । 
+‘*Brāhmaṇaḥ*’—‘one who will be absorbed in Brahman’ (Kullūka);—‘the best
+of Brāhmaṇas’ (Rāghavānanda);—
 
-- **कुर्याद् अन्यद्** अनित्यं[^२७५] ज्योतिष्टोमादि । अथ वा तद् अपि **न कुर्याद्** यतो **मैत्रो ब्राह्मण** उच्यते । मित्रम् एव मैत्रम् । सर्वभूतमैत्रीरतेन ब्राह्मणेन भवितव्यम् । अग्निष्ॐइयपशुहिंसायां च कुतो मैत्री । अयम् अर्थवाद् एव, न पुनः पश्वङ्गकर्मप्रतिषेधः, पूर्वशेषत्वावगतेः । प्रत्यक्षश्रुतिविहितत्वाच् च तेषाम् । अतिक्रान्तो जपविधिः ॥ २.८८ ॥
+Buhler remarks—“Medhātithi and Govindarāja take the last clause
+differently: it is declared (in the Veda that) a Brāhmaṇa (shall be) a
+friend (of all creatures).” But in Medhātithi we find no mention of the
+Veda here.
+
+The verse is clearly meant to be deprecatory of Animal-sacrifices, which
+involve the killing of animals, whereas the Brāhmaṇa should be friendly
+to all creatures.
+
+This verse is quoted in *Yatidharmasaṃgraha* (p. 127).
 
 
-[^२७५]:
-     M G 1st ed.: kuryān nityaṃ

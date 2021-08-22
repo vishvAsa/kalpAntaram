@@ -2,5 +2,15 @@
 title = "086 ये पाकयज्ञास्"
 
 +++
+The five ‘great sacrifices,’ leaving off the are what are meant by the
+‘four cooked offerings.’
 
-महायज्ञाः **पाकयज्ञा** उच्यन्ते, ब्रह्मयज्ञं वर्जयित्वा **चत्वारो** यज्ञा भवन्ति । **विधियज्ञा** उक्तास् तैः समन्विताः सहिताः । **कलाम्** अंशं **षोडशीं नार्हन्ति** । षोडशेन भागेन न समा भवन्ति । अथ वार्हतिः प्राप्त्यङ्गे मूल्यपणने वर्तते । अर्हशब्दात् तिपं कृत्वा अर्हन्ति रूपम् ॥ २.८६ ॥
+‘*Enjoined sacrifices*’—those already described (under the preceding
+verse); along with these latter, the former (four) ‘are not worth the
+sixteenth part’—*i.e*., are not equal to the sixteenth part.
+
+Or, the root ‘*arha*’ may be taken in the sense of the price paid for
+the obtaining of a certain thing. The root ‘*arha*’ with the
+Present-Tense-ending ‘*tip*’ gives the form ‘*arhanti*.’—(86)
+
+

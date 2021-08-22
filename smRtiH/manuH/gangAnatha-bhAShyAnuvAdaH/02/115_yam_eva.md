@@ -2,9 +2,15 @@
 title = "115 यम् एव"
 
 +++
+That pupil whom thou knowest to be ‘*pure*’
+‘*self-controlled*’—*i.e*.,having full control over his senses; and *a
+‘qualified student*,’ ever attentive ;—‘*unto him expound me*.’ He who
+*guards his treasures*, being never careless; he never commits mistakes,
+never fails, being ever attentive to his business.
 
-**यं** शिष्यं **शुचिं** जानीयाः[^३४६] **नियतं** संयतेन्द्रियं यत्नपरं **ब्रह्मचारिणं तस्मै मां ब्रूहि** । यो हि निधिं पाति रक्षति । यतो ऽसाव् **अप्रमादी** न प्रमाद्यति न स्खलति, तत्परत्वात् । शक्ताप्तार्थदादीनां सर्वशिष्याणाम् एतद्गुणसंयोगे देयेत्य् अस्माद् अर्थवादाद् गम्यते ॥ २.११५ ॥
+What is deduced from this valedictory description is the advice that
+learning should be imparted to the pupils already described above as
+qualified (under 109), only when they fulfil the conditions described in
+the present verse.—(115)
 
 
-[^३४६]:
-     M G: jānīyān

@@ -2,21 +2,34 @@
 title = "059 अङ्गुष्ठमूलस्य तले"
 
 +++
+The ‘root’ of the thumb is its lower part; and the part, of the hand
+just below that root is the ‘receptacle dedicated to Brahmā.’—The term
+‘*tala*’ stands for the inner part (the palm). That inner portion of the
+hand which extends up to the long palm-line and faces one’s own eyes is
+the part ‘dedicated to Brahmā.’
 
-**अङ्गुष्ठस्य मूलम्** अधोभागः । तस्य **तल**प्रदेशो **ब्राह्मं तीर्थम्** । हस्ताभ्यन्तरं तलम् आह । महारेखान्तम् अभिमुखम् आत्मनो ब्राह्मं हस्तमध्ये । अङ्गुलीनां मूले दण्डरेखाया ऊर्ध्वं **कायम्** । अग्रे अङ्गुलीनां **दैवम्**[^२१३] । उपसर्जनीभूतो ऽपि मूले अङ्गुलिशब्दः सापेक्षत्वाद् अग्रशब्दस्य[^२१४] संबध्यते । **पित्र्यं तयोर् अधः** । अत्रापि गुणीभूतस्याङ्गुलीशब्दस्याङ्गुष्टस्य च संबन्धः । प्रदेशिनी चात्राङ्गुलिर् विवक्षिता । तयोर् अध अन्तरं पित्र्यम् । स्मृत्यन्तरशिष्टप्रसिद्धिसामर्थ्याद् एवं व्याख्यायते, यथाश्रुतान्वयासंभवात् । यथा च शङ्खः- "अङ्गुष्ठस्याधरतः प्राग् अग्रायाश् च रेखाया ब्राह्मं तीर्थम्, प्रदेशिन्यङ्गुष्ठयोर् अन्तरा पित्र्यम्, कनिष्ठातलयोः[^२१५] पूर्वेणा पर्वण् कायम्, अग्रम्[^२१६] अङ्गुलीनां दैविकम्" इति ॥ २.५९ ॥
+That at the root of the fingers, above the horizontal palmline is
+‘dedicated to Prajāpati.’
+
+‘*That on the tip of the fingers is dedicated to the Gods*’—Even though
+the term ‘*aṅguli*’ forms the subordinate factor in the compound
+(‘*aṅguli-mule*’), yet it is construed with the term ‘*agre*,’ for the
+simple reason that this latter is a relative term (and hence stands in
+need of a correlative).
+
+‘*That below these two is dedicated to the Pitṛs*.’—This also is to be
+construed with the terms ‘*aṅguli*’ and ‘*aṅguṣṭha*,’ though both of
+these form subordinate factors in the two compounds. The ‘finger’ meant
+here is the index-finger. Hence it is the part below the thumb and the
+index-finger which is ‘dedicated to the Pitṛs.’
+
+We interpret the text in this manner on the strength of what is
+prescribed in other Smṛtis, and also upon that of the practices of
+cultured people; specially as no sense could be got out of the words as
+they stand. Says Śaṅkha—‘Below the thumb and behind the first palm-line
+is the receptacle dedicated to Brahmā; that between the thumb and the
+index-finger is dedicated to the Pitṛs; that below the little finger is
+dedicated to Prajāpati, that at the tip of the fingers is dedicated to
+the Gods.’—(59)
 
 
-[^२१६]:
-     M G: -layoḥ kāyaṃ pūrveṇāgram 
-
-
-[^२१५]:
-     M G: kaṇiṣṭhāntaralayoḥ
-
-
-[^२१४]:
-     J: agraśabde
-
-
-[^२१३]:
-     G: evaṃ; J adds: evaṃ after daivaṃ; G misread daivaṃ as evaṃ, and J added this misreading to the original daivam

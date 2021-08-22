@@ -2,9 +2,15 @@
 title = "021 हिमवद्-विन्ध्ययोर् मध्यम्"
 
 +++
+On the north lies the Himālaya and on the south the Vindhya.
+‘*Vinaśana*’ is the name of the place where the Sarasvatī river has
+disappeared.—(20)
 
-उत्तरस्यां दिशि हिमवान् पर्वतः, दक्षिणस्यां विन्ध्यः । **विनशनं** सरस्वत्या अन्तर्धानदेशः । **प्रयागः** गङ्गायमुनयोः संगमः । एतान् देशान् अवधीकृत्य[^१०६] मध्यं **मध्यदेश**नामानं देशं विद्यात् । नात्युत्कृष्टो नातिनिकृष्ट इत्य् अतो ऽयं मध्यदेशः, न तु पृथिवीमध्यभवत्वात् ॥ २.२१ ॥
+‘*Prayāga*’—is the confluence of the Gaṅgā and the Yamunā.
+
+The region having these four as its boundaries is to be known by the
+name ‘*Madhya-deśa*.’ It is called ‘*madhya*’ or ‘middle,’ because it is
+neither very superior nor very inferior,—and *not* because it is located
+*the centre* of the Earth.—(21)
 
 
-[^१०६]:
-     M G: avadhīn kṛtvā

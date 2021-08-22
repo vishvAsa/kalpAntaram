@@ -2,5 +2,17 @@
 title = "099 इन्द्रियाणान् तु"
 
 +++
+‘*Prajñā*’—‘Wisdom, control over the senses’ (Medhātithi, Govindarāja,
+and Rāghavānanda);—‘knowledge of truth’ (Kullūka).
 
-निर्धारणे षष्ठी । एकम् एव **यदीन्द्रियं क्षरति**, स्वातन्त्र्येण स्वविषये वर्तमानं न निवार्यते, ततो ऽस्य **क्षरति प्रज्ञा** धैर्यम् इन्द्रियान्तरविषयम् अपि । **दृतिश्** छागादिचर्मोदकाद्याहरणभाजनम् । तस्य संवृतेष्व् अपीतरेषु यद्य् एकस्माद् **उदकं पादात्** स्रवति, सर्वं रिच्यते । ज्ञानाभ्याससंभृतं धैर्यं सम्यक्ज्ञानम् एव वा । विषयगृध्नुतया तद्गतमानसस्य न तत्त्वतो युक्तिशास्त्रगम्या अर्थाः सम्यक् पर्तिभासन्ते ॥ २.९९ ॥
+‘*Pādāt*’—This may be taken literally in the sense of *foot*; as Hopkins
+rightly remarks—“The hide often is used in oriental countries complete,
+each leg being made water-tight.” This is indicated by Medhātithi’s
+remarks also.
+
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 493) where the
+‘*dṛti*’ is explained as a ‘leathern bag.’ It is quoted to show that
+during studentship the strict observance of the vows and restraints is
+essential.
+
+

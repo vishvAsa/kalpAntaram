@@ -2,5 +2,17 @@
 title = "232 त्रिष्व् अप्रमाद्यन्न्"
 
 +++
+‘*Who fails not*’—who does not omit the servise; *i.e*., by serving
+these ‘*he wins*,’—makes his own, obtains mastery over—‘*the three
+regions*.’
 
-**एतेष्व् अप्रमाद्यन्न्** आराधने ऽस्खलन् । तथा च तदाराधात् **त्रीन् लोकाञ् जयेत्** स्वीकुर्याद् आधिपत्यम् आप्नुयात् । **गृही** । गृहस्थावस्थस्य हि पुत्रस्य पित्रादीनां तत्कृतम् आराधनम् उपयुज्यते । तदा हि तौ वृद्धौ भवतः । **दीप्यमानः** शोभमानः प्रकाशमानो वा स्वेनैव तेजसा । **देववद्** आदित्यवद् **दिवि** लोके **मोदते** ॥ २.२३२ ॥
+‘*The householder*.’—It is when the son has reached the householder’s
+stage that his service becomes of great value to his parents and others;
+as by that time they become old.
+
+‘*Radiant*.’—Shining, resplendent with his own effulgence. ‘*Like a
+God*,’—*i.e*., like the Sun.
+
+‘*Rejoices in heaven*’—in the heavenly regions.—(232)
+
+

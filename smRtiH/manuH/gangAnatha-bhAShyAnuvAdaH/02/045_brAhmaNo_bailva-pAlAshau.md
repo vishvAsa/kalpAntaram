@@ -2,9 +2,36 @@
 title = "045 ब्राह्मणो बैल्व-पालाशौ"
 
 +++
+Even though the text uses the Copulative Compound (which implies that
+two staves have to be carried), yet, in as much as in connection with
+the detailed qualifications of the staff laid down in the text, we find
+the singular number used,—*e.g*., in the next verse, and in Verse 18
+below,—it is understood that only one staff is to be carried; specially
+as in the *Gṛhya-sūtra* we read—‘the Brāhmaṇa’s *staff*’ is of Bilva or
+Palāśa’; and the Gautama-sūtra speaks of the carrying of *one* staff
+only. In the present context all that is done is to lay down the mere
+possibility of the staff; the expression ‘should have staves’ meaning
+that the said staves are fit for Brahmacārīs. As regards the question as
+to the act during which the staff is to be held, we shall have the
+answer in Verse 48 below; so that the *staff* being only an auxiliary to
+that act, the singular number used in that verse must be regarded as
+significant. For these reasons the
 
-सत्य् अपि द्वन्द्वनिर्देशे गुणविधिष्व् एकत्वश्रवणात् "केशान्तकः" (म्ध् २.४६) इति "प्रतिगृह्येप्सितं दण्डम्" (म्ध् २.४८) इति च विकल्पितम् एकदण्डधारं प्रतीयते । "बैल्वः पालाशो ब्राह्मणस्य दण्डः" (च्ड़्। पार्ग् २.५.२५) इति गृह्ये । गौतमीये चैकदण्डग्रहणम् एवोक्तम् (च्ड़्। ग्ध् १.२२) । इह केवला दण्डसत्ता श्रूयते- **दण्डान् अर्हन्ति** । दण्डा एते ब्रह्मचारिणां योज्याः । कस्यां क्रियायाम् इत्य् एतद् अत्र चोक्तम् उत्तरत्र भविष्यति "प्रतिगृह्येप्सितम्" (म्ध् २.४८) इति । तस्मिंश् च ग्रहणे दण्डस्योपायत्वाद् विवक्षितम् एकत्वम् अत इह द्विवचननिर्देशः । देवश् चेद् वर्षेद् बहवः कृषिं कुर्युर् इति यथा प्राप्तानुवादः । बिल्वपलाशवटखदिरपीलूदुम्बरा[^१८६] वृक्षजातिविशेषनामधेयानि । बिल्वस्य विकारो ऽवयवो वा बैल्वः । एवं सर्वत्र । प्रदर्शनार्थाश् चैते । "यज्ञिया वा सर्वेषाम्" (ग्ध् १.२४) इति वचनात् । एतान् दण्डान् वक्ष्यमाणे कार्ये **अर्हन्ति** । **धर्मतः** शास्त्रतः ॥ २.४५ ॥
+Dual number used in the present verse must be taken merely as referring
+to all possible staves; just like the plural number in the assertion—‘if
+God were to give rain *many persons* would take to cultivation.’
+
+‘*Bilva*,’ ‘*Palāśa*,’ ‘*Vaṭa*,’ ‘*Khadira’ Pīlu*’ and ‘*bara*’ are
+names of particular species of trees.
+
+‘*Bailva*’ means ‘made of Bilva’; and so with the rest.
+
+The naming of the woods is meant to be merely illustrative; as the
+general rule is that ‘staves made of sacred woods are fit for all
+castes’ (*Gautama* 1.1.24).
+
+These staves the Brahmacārīs ‘*should* *have*’ during the act to be
+described below (in 48);—‘*by law*’—*i.e*., in accordance with
+scriptural injunctions.—(45)
 
 
-[^१८६]:
-     M G: -ūdumbara

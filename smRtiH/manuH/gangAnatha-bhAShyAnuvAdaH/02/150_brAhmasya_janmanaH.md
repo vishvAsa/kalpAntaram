@@ -2,19 +2,30 @@
 title = "150 ब्राह्मस्य जन्मनः"
 
 +++
+The ‘birth’ that is for the purpose of getting up the Veda is called
+‘*Vedic birth*,’—*i.e*., the Initiatory Rite.—He who brings about this;
+and ‘*he who teaches him his duty*—instructs him in it, by expounding
+the meaning of Vedic texts,—such a Brāhmaṇa,—‘*even though he be a
+child*.’—becomes tho father of the old man. That is, even though the
+pupil be older in age, he should treat the teacher as his father.
 
-ब्रह्मग्रहणार्थं जन्म **ब्राह्मम्** उपनयनं तस्य **कर्ता** । **स्वधर्मस्य शासिता** उपदेष्टा, वेदार्थव्याख्यानेन । स तादृशो **बालो ऽपि** ब्राह्मणो **वृद्धस्य** ज्येष्टस्य[^४०१] **पिता भवति** । पितृतुल्या तत्र वृत्तिः कर्तव्या ज्येष्ठेनापि । 
+*Question*.—“How can the younger man ‘initiate’ the older? Specially as
+initiation is performed in the eighth year; and until one has duly
+learnt and studied the Veda, he is not entitled to act up to the
+injunction of ‘becoming a teacher.’”
+
+*Answer*.—Well, in that case, we can take the term ‘*Vedic birth*’ to
+mean not necessarily the Initiatory Ṛte, but only the getting up of the
+Veda. *One who* ‘*brings about*’ this—*i.e*., the *Teacher*,—and ‘*he
+who teaches*’—expounds—‘*him his duty*’—*i. e*., the meaning of the
+Vedic texts,—‘*becomes his father*.’
+
+‘*In law*;’—this means that the treatment of the father should be
+accorded to him; so that what the phrase ‘*in law*’ means is that the
+parental character of the teacher is based upon the treatment accorded
+to him. The ‘treatment of the father’ has not yet been declared as to be
+accorded to the teacher and the expounder; hence it has been laid down
+here; in the same manner as the injunction that ‘the Kṣatriya should be
+treated as the Brāhmaṇa.’—(150)
 
 
-[^४०१]:
-     M G 1st ed. add: tarkakalāśastrasya vā yad alpaṃ vā bahu vā tena
-
-- <u>कथं</u> पुनः कनीयाञ् ज्येष्ठम् उपनयते । अष्टमे ह्य् उपनयनम् । यावच् च नाधीतश्रुतवेदस् तावन् नाचार्यकरणविधाव् अधिक्रियते । <u>एवं तर्हि</u> नोपनयनम् अत्र[^४०२] **ब्राह्म**[^४०३] जन्म, किं तर्हि स्वाध्यायग्रहणम् एव । तस्य **कर्ता** अध्यापयिता । **स्वधर्मस्य** वेदार्थस्य **शासिता** व्याख्याता **पिता भवति** । **धर्मतः** पितृधर्मास् तत्र कर्तव्याः । धर्मत इति धर्मनिमित्तं तत्र पितृत्वम् । न च ते धर्मा अध्यापकव्याख्यात्रोः पितृसंबन्धिनः सिद्धाः सन्ति । अतो विधीयते ब्राह्मणवत् क्षत्रिये वर्तितव्यम् इति ॥ २.१५० ॥
-
-
-[^४०३]:
-     M G 1st ed.: brahma
-
-
-[^४०२]:
-     M G 1st ed.: -yanamantraṃ

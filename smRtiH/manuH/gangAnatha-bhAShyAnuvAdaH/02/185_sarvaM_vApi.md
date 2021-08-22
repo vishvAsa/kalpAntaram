@@ -2,5 +2,17 @@
 title = "185 सर्वं वापि"
 
 +++
+‘*All the aforesaid*’—*i.e., those not devoid of the Veda and
+sacrifices* and so forth—‘*being* *unavailable*’;—‘*wander over the
+whole village*’;—he may go over the whole village, irrespectively of
+caste and other distinctions, for the purpose of obtaining his means of
+subsistence. Only ‘*he should avoid persons of ill-repute*’—*i.e*.,
+those who are known to have committed serious sins, even though they may
+never have been seen to commit them; Says Gautama (2-35)—‘The begging of
+alms may be done from all castes, save the disreputable and the fallen.’
 
-**पूर्वोक्तानां** वेदयज्ञैर् अहीनानां **असंभवे** **सर्वं ग्रामम्** अनपेक्षवर्णविभागं **विचरेत्** भ्राम्येज् जीवनर्थम् । केवलम् **अभिशस्तान्** कृतपातकत्वेन प्रसिद्धान् अदृष्टपातकान् अपि वर्जयित्वा । तथा च गौतमः- "सार्ववर्णिकं भैक्ष्यचरणम् अभिशस्तपतितवर्जम्" (ग्ध् २.३५) । **नियम्य वाचं** भिक्षावाक्यं वर्जयित्वा आ भैक्षलाभाद् अन्यां वाचं नोच्चरेत् ॥ २.१८५ ॥
+‘*Having his speech well-controlled*’;—*i.e*., till he obtains the alms,
+he should not utter any words save those used in the actual
+begging.—(186)
+
+

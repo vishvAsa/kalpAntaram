@@ -2,5 +2,17 @@
 title = "199 नोदाहरेद् अस्य"
 
 +++
+‘*Kevalam*’—Such titles are always to be added as ‘*Upādhyāya*’ or
+‘*Bhaṭṭa*’ or ‘*Ācārya*’ (Medhātithi),—‘*ācārya*’ (Kullūka),—‘*caraṇa*’
+(Nārāyaṇa).
 
-**नोदाहरेन्** नोच्चारयेद् **अस्य** गुरोर् **नाम** **केवलं** उपाध्यायाचार्यभट्टाद्युपपदरहितं **परोक्षम् अपि** । **न चैवास्यानुकुर्वीत** सदृशं न कुर्यान् नाट्यकार इव । **गतिः-** एवम् अस्मद्गुरुर् अपक्रामति । **भाषितम्**- द्रुतविलम्बितमध्यमत्वादि । **चेष्टितम्**- एवं भुङ्क्ते एवम् उष्णीषं बध्नाति एवं परिवर्तत इत्यादि । उपहासबुद्ध्यायम् अनुकरणप्रतिषेधः ॥ २.१९९ ॥
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 492) in support of
+the view that whenever the teacher’s name has got to he pronounced, it
+should he accompanied with such honorific titles as ‘*upādhyāya*’ and
+the like;—also in *Madanapārijāta* (p. 1 06);—in *Aparārka* (p. 56);—in
+*Saṃskāramayūkha* (p. 42), which says that the name should not be
+uttered *by itself* (*kevalam*), it should always he accompanied by some
+such title as ‘*upādhyāya*’ and the like;—and in *Smṛticandrikā*
+(Saṃskāra, p. 121).
+
+

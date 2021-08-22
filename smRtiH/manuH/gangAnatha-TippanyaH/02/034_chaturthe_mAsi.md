@@ -2,5 +2,19 @@
 title = "034 चतुर्थे मासि"
 
 +++
+‘*Yadveṣṭam maṅgalam kule*’—Medhātithi, along with Govindarāja and
+Kullūka, takes this as applicable to all the sacraments.—‘*Kula*’ is
+*family*, not *tribe*.
 
-जन्म**चतुर्थमासे** **गृहाद्** बहिर् **निष्क्रमणम्** आदित्यदर्शनं **शिशोर्** बालस्य **कर्तव्यम्** । त्रीन् मासान् गर्भगृह एव वासयेत् । शिशुग्रहणं शूद्रस्यापि प्राप्त्यर्थम् । एवं षष्ठे माश्य् अप्य् अन्नप्राशनम् । पञ्चमासान् क्षीराहार एव । **यद् वा कुले** दारकस्य स्रेयस्यं **मङ्गल्यं** पूतना शकुनिकैकवृक्षोपहारादि प्रसिद्धम् । कालविशेषे वा तत् कर्तव्यम् । अयं च संस्कारशेषः । तेन नामधेयम् उक्तलक्षणव्यतिरेकेणापि यथाकुलधर्मं लभ्यते । इन्द्रस्वामी इन्द्रशर्मा इन्द्रभूमिः इन्द्रघोष इन्द्ररात इन्द्रविष्णुः इन्द्रदेव इन्द्रज्योतिः इन्द्रयशा इत्यादि कुलभेदेनोपपन्नं भवति ॥ २.३४ ॥
+The first half of the verse is quoted in *Parāśaramādhava* (Ācāra, p.
+442), and the second half in *Madanapārijāta* (p. 360) and in
+*Vīramitrodaya* (Saṃskāra, p. 267), which latter remarks that this
+option regarding family-custom applies only to the sacrament of the
+First Feeding. *The* verse is quoted in
+
+*Smṛticandrikā* (Saṃskāra, pp. 55 and 57), which adds that the ‘*Gṛha*,’
+‘house,’ means the one in which birth has taken place;—in
+*Gadādharapaddhati* (Kālasāra, p. 218);—and in *Nṛsiṃhaprasāda*
+(Saṃskāra, p. 366).
+
+

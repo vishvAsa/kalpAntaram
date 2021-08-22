@@ -2,7 +2,23 @@
 title = "149 अल्पं वा"
 
 +++
+That teacher who *benefits* a pupil *means of knowledge*,—‘*more or*
+*less*’—this is an adverb;—‘*him also*’—who helps with a little
+knowledge only—‘*one should regard as the mentor*.’
 
-य उपाध्यायो **यस्य** माणवकस्य्**ओपकरोति** **श्रुतस्य** श्रुतेनेत्य् अर्थः । **अल्पं वा बहु वा** क्रियाविशेषणम् एतत् । **तम् अपि** स्वल्पश्रुतोपकारिणं **गुरुं विद्यात्** । 
+The following construction is better:—‘*yasya śrutasya*’—these are in
+apposition—*i.e*., of the knowledge of the Veda, or of the Vedic
+subsidiaries, or of other Sciences, or of Reasoning and Art—*alpam vahu
+vā*—*tena*—this has to be supplied—*upakaroti*’ \[The meaning, by this
+construction being—‘that knowledge by a little or more of which he
+benefits him, etc., etc.’\]
 
-- एवं तु योजना ज्यायसी । **यस्य श्रुतस्य** सामानाधिकरण्ये वेदविषयस्य वेदाङ्गविषयस्य वा शास्त्रान्तरविषयस्य तर्ककलाशास्त्रस्य यद् **अल्पं बहु वा** तेनोपकरोतीत्य् अध्याहारः । श्रुतं च तदुपक्रिया चासौ श्रुतोपक्रिया तया, उपकारक्रियया तद्धेतुत्वाच् छ्रुतम् उपक्रियेति सामानाधिकरण्यम् । गुरुवृत्तिस् तत्र कर्तव्या तद्व्यपदेशो वा तत्राचार्यादिशब्दवत् स्मर्यते ॥ २.१४९ ॥
+The word ‘*śrutopakriyayā*’ is an appositional compound the apposition
+being based upon the fact of the ‘knowledge’ being the means of the
+‘benefit.’
+
+What is meant by this is that the teacher referred to should be called
+and treated as a ‘mentor’: just as we haver had above in the case of the
+terms ‘*Ācārya*’ and the rest.—(149)
+
+

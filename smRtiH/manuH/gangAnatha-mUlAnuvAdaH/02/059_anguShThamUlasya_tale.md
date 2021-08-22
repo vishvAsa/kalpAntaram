@@ -3,20 +3,9 @@ title = "059 अङ्गुष्ठमूलस्य तले"
 
 +++
 
-**अङ्गुष्ठस्य मूलम्** अधोभागः । तस्य **तल**प्रदेशो **ब्राह्मं तीर्थम्** । हस्ताभ्यन्तरं तलम् आह । महारेखान्तम् अभिमुखम् आत्मनो ब्राह्मं हस्तमध्ये । अङ्गुलीनां मूले दण्डरेखाया ऊर्ध्वं **कायम्** । अग्रे अङ्गुलीनां **दैवम्**[^२१३] । उपसर्जनीभूतो ऽपि मूले अङ्गुलिशब्दः सापेक्षत्वाद् अग्रशब्दस्य[^२१४] संबध्यते । **पित्र्यं तयोर् अधः** । अत्रापि गुणीभूतस्याङ्गुलीशब्दस्याङ्गुष्टस्य च संबन्धः । प्रदेशिनी चात्राङ्गुलिर् विवक्षिता । तयोर् अध अन्तरं पित्र्यम् । स्मृत्यन्तरशिष्टप्रसिद्धिसामर्थ्याद् एवं व्याख्यायते, यथाश्रुतान्वयासंभवात् । यथा च शङ्खः- "अङ्गुष्ठस्याधरतः प्राग् अग्रायाश् च रेखाया ब्राह्मं तीर्थम्, प्रदेशिन्यङ्गुष्ठयोर् अन्तरा पित्र्यम्, कनिष्ठातलयोः[^२१५] पूर्वेणा पर्वण् कायम्, अग्रम्[^२१६] अङ्गुलीनां दैविकम्" इति ॥ २.५९ ॥
+The part of the palm at the root of the thumb they call ‘the receptacle dedicated to Brahmā’; that which is at the root of the finger ‘Sacred to Prajāpati’; that on the finger-tops ‘dedicated to the Gods’; and that which is below these two ‘dedicated to the Pitṛs.’—(59)
 
 
-[^२१६]:
-     M G: -layoḥ kāyaṃ pūrveṇāgram 
-
-
-[^२१५]:
-     M G: kaṇiṣṭhāntaralayoḥ
-
-
-[^२१४]:
-     J: agraśabde
-
-
-[^२१३]:
-     G: evaṃ; J adds: evaṃ after daivaṃ; G misread daivaṃ as evaṃ, and J added this misreading to the original daivam
+kāyaṃ kaviṣṭakāmūle tīrthamūktammanīṣibhiḥ 
+aṅguṣṭhamūle ca tathā prājāpatyaṃ vica?ṇai | 
+aṅgus?yagre sthitaṃ daivaṃ piś?yaṃ tarjanimūlake |

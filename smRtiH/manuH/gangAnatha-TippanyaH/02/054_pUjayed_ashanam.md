@@ -2,17 +2,22 @@
 title = "054 पूजयेद् अशनम्"
 
 +++
+*Pūjayet*—‘worship’ (Govindarāja and Nandana.);—Medhātithi offers three
+explanations as to what is meant by the ‘worshipping’ of the
+food;—Nārāyaṇa takes it to mean that the *mantra* (Ṛgveda, 1. 187.1)
+should be addressed to it Kullūka explains it as ‘meditate upon it as
+sustaining life’.
 
-अश्यत इत्य् **अशनं** भक्तसक्त्वपूपाद्य्[^२०२] उच्यते । तद् अशनार्थम् आनीतं देवतारूपेण पश्येत्- "एषा वै परमा देवता यद् अन्नम्" । तस्य सर्वेषां भूतानां स्रष्टृत्वेन स्थितिहेतुतया च यद्दर्शनं सास्य पूजा । अथ वा प्राणार्थत्वेन भावनं ध्यायन्-[^२०३] "यजन् मम यद् अर्थत्वं संपूजयति मां सदा" इति । नमस्कारादिना वा प्रणम्य ग्रहणं पूजा । 
+The first half of the verse is quoted in *Vīramitrodaya* (Saṃskāra, p.
+486), which explains the *pūjā* as standing for saṃskāra, *due
+preparation*.
+
+It is quoted again in the *Āhnika* section of the same work (p. 382),
+where, on the strength of a statement attributed to Śātātapa, it is said
+that in the case of food, ‘worship’ can only mean being *regarded as a
+deity*.
+
+The verse is quoted in *Smṛtitattva* (p. 433);—and in *Smṛticandrikā*
+(Saṃskāra, p. 114), which explains ‘*akutsayan*’ as ‘not decrying.’
 
 
-[^२०३]:
-     M G 1st ed.: dhyānaṃ
-
-
-[^२०२]:
-     M G 1st ed.: -saktupūpādy
-
-- **अद्याच् चैतद् अकुत्सयन्** । कदन्नतया दुःसंस्कारोपग्रहणेन वा कुत्साहेतुसंभवे नान्नं कुत्सयेत् । "किम् इदम् अश्यते, अरुचिकरं धातुवैषम्यजनकम्" इत्य् एवमादिनाभिधानेन नाक्षिपेत् । यदि तु तद्रूपं भवति तदा नाद्यान् न कुत्सयन्न् अद्यात् । 
-
-**दृष्ट्वैव हृष्येत्** । पुत्रस्त्र्यादिसंदर्शनेन चिरप्रवासप्रत्यगत इव् तुष्येत प्रीयेत । **प्रसीदेच् च** । निमित्तान्तरजम् अपि कालुष्यम् अन्नदर्शनेन हित्वा मनःप्रसादम् आश्रयेत् । **प्रतिनन्देच् च** । समृद्ध्या शंसनं प्रतिनन्दनम् । "नित्ययुक्ता एतेन स्याम" इत्य् आदरोपदर्शनम् अभिनन्दनम् । **सर्वशः** सर्वदा । "अन्यतरस्याम्" इति व्यवस्थितविभाषाविज्ञानात् सप्तम्यर्थे शम् कर्तव्यः । सर्वदेति वा पठितव्यम् ॥ २.५४ ॥

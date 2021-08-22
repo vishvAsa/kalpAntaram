@@ -2,25 +2,39 @@
 title = "100 वशे कृत्वेन्द्रियग्रामम्"
 
 +++
+The present verse sums up the section.
 
-उपसंहरति । सत्य् अपीन्द्रियत्वे मनसः प्राधान्यात् पृथग् उपादानम् । **ग्रामः** संघातः । विधेयीकृत्येन्द्रियाणि[^३०२] तथा मनः । **सर्वान् अर्थाञ्** श्रौतस्मार्तकर्मसाध्यान् **संसाधयेन्** निष्पादयेत् । **तनुं** शरीरम् **अक्षिण्वन्न्** अपीडयन् । **योगतः** युक्त्या । सहसा कस्यचित् कठिनासनकृष्णाजिनादिप्रावरणात्[^३०३] पीडा भवति सुकुमारप्रकृतेः[^३०४] । तदर्थम् इदम् उच्यते । येषां सुशीलितं सुसंस्कृतं भोजनं मृदुशय्यादि, न तैः सहसा तत् त्यक्तव्यम् अपि तु क्रमेण सात्म्यताम् आनेतव्यं तद्विपरीतम् । योगः क्रमेण प्रवृत्तिर् उच्यते । तत्र च योगतो **वशे कृत्वेति**[^३०५] संबन्धः । यथास्थानम् एव वा **योगत** इति योजनीयम् । युक्त्या औचित्यतः शरीरं नापनयेत् । यद् उचितं शरीरस्य न तज् झट् इति निवर्तयेत् । तात्पर्यं वा योगः[^३०६] । तृतीयर्थे तसिः । तात्पर्येण शरीरं रक्षेत् ॥ २.१०० ॥
+Even though the Mind also is an ‘organ’ yet it is mentioned separately
+by reason of its importance.
+
+‘*Grama*,’ ‘*host*,’ means *group*.
+
+Having brought under subjection the organs and the Mind, ‘*me should
+accomplish*’—bring about—‘*all his purposes*’—all those results that are
+accomplished by means of rites laid down in *Śrutis* and *Smṛtis*.
+
+‘*Not injuring*’—causing pain to—his body.
+
+‘*Yogataḥ*,’ ‘*taking care*,’—*i.e*., by careful means. This is added
+with a view to such cases in which a person with delicate constitution
+suffers great pain if, all on a sudden, he takes to such austere ways of
+living as sleeping upon hard beds and wearing the deer-skin and so
+forth. The sense is that people, who are accustomed to well-cooked and
+delicious food, and to soft beds, etc., should not abandon these all at
+once; they should only gradually accustom themselves to things other
+than those they are accustomed to.
+
+The term ‘*Yoga*’ may stand for well-graduated activity. In this sense
+the epithet ‘*Yogataḥ* is to be construed with ‘*having* *brought under
+control*.’
+
+Or, we may construe the epithet just as it stands, the meaning being
+that ‘he should have recourse to such methods as not to injure his
+body.’ That is, he should not hurriedly renounce what may be necessary
+for his body.
+
+Or again, ‘*Yoga*’ may stand for *care*; and the ‘*tasi*’ affix in this
+case has the sense of the instrumental; the sense being ‘he should
+protect his body with care.’—(100)
 
 
-[^३०६]:
-     M G 1st ed. add: tṛtīyāyogaḥ
-
-
-[^३०५]:
-     M G: vaśīkṛtveti
-
-
-[^३०४]:
-     M G: sukumāratvāt prakṛtes
-
-
-[^३०३]:
-     M G: -prāvaraṇa
-
-
-[^३०२]:
-     M G 1st ed.: vidhehi kṛtyendriyāṇi

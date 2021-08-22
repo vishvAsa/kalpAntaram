@@ -2,17 +2,17 @@
 title = "184 गुरोः कुले"
 
 +++
+‘*Vihāyasi*’—In the air, *i.e.* on the roof of the house (Medhātithi,
+Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air
+(Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
 
-सत्य् अप्य् एतद्गुणयोगे गुरुगृहे **न भिक्षेत** । पूर्वं कुलं वंशस् ततो गुरोर् ये पितृव्यादयस् तेभ्यो ऽपि न ग्रहीतव्यम् । **ज्ञातयो** ब्रह्मचारिणः पितृपक्षाः, तेषां कुले । **बन्धुषु** च मातृपक्षेषु मातुलादिषु । नैवम् अभिसंबन्धः कर्तव्यो गुरुज्ञात्यादिष्व् इति, यतो[^४५७] गुरोः कुल इति कुलशब्देनैव तेषां संगृहीतत्वात् । कुतस् तर्हि भिक्षेत । एतद्व्यतिरेकेणान्यगेहेभ्यः । **अलाभे** ऽसंभवे **ऽन्यगेहानां** सर्व एव यदि ग्रामो गुरुज्ञातिबन्धुभिर् व्याप्तो भवत्य् अन्ये नैव सन्त्य्[^४५८], सन्तो[^४५९] वान्नं न ददति । एतेष्व् अपि गृहेषु भिक्षितव्यम् । अन्याभावे प्रथमं बन्धुं भिक्षेत, तदभावे ज्ञातिं, तदभावे गुरुकुलम् ॥ २.१८४ ॥
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying
+down the method of ‘tending the fire’, and ‘explains it that ‘he should
+place the fuel somewhere in the open, not on the grouhd;’—in
+*Smṛtitattva* (p. 936) as laying down the morning and evening offerings
+into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is
+explained as from a spot not owned
 
 
-[^४५९]:
-     G 2nd ed.: nivasaṃto
 
 
-[^४५८]:
-     M G 1st ed. omit: santi
-
-
-[^४५७]:
-     J omits: yato

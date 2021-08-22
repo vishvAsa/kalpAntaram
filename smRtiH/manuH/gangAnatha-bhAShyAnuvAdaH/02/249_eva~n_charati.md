@@ -2,13 +2,13 @@
 title = "249 एवञ् चरति"
 
 +++
+‘*Thus*’ refers to the methods of the Lifelong Student.
 
-**एवम्** इति नैष्ठिकवृत्तिं प्रत्यवमृशति । **एवं यो ब्रह्मचर्यं चरत्य् अविप्लुतः** अस्खलः **स** प्राप्नोत्य् **उत्तमस्थानं** धाम परमात्मप्राप्तिलक्षणम् । **न चेह पुनर् जायते** न संसारम् आपद्यते । ब्रह्मरूपं संपद्यत इति ॥ २.२४९ ॥
+‘*He who thus keeps his Studentship unflinchingly*’—without
+failing,—‘*goes to*’—obtains—‘*the highest place*’—above; *i.e*., he
+attains the Supreme Self.
 
-**इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां**
+‘*Is not born again into this world*—he does not fall into the cycle of
+births. That is, he becomes absorbed into Brahman.—(249)
 
-**द्वितीयो ऽध्यायः**
 
-**इति श्रीभट्टमेधातिथिविरचिते मनुभाष्ये**
-
-**द्वितीयो ऽध्यायः**

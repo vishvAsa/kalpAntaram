@@ -2,17 +2,36 @@
 title = "054 पूजयेद् अशनम्"
 
 +++
+‘*Food*,’ ‘*aśana*,’ is *that which in eaten (aśyate), i.e*., rice and
+curry, etc. When the food is brought to him, he should look upon it as a
+‘deity’; *i.e*., he should have the notion—‘this food is my highest
+deity.’ (*a*) The ‘worshipping’ of the food may consist in regarding it
+as the source of the birth and sustenance of all living beings; or (*b*)
+in regarding it as the means of sustaining his life; as the food is
+declared to have said—‘he worships me regarding me as sustaining life’;
+or (*c*) in receiving it with due obeisance, etc.
 
-अश्यत इत्य् **अशनं** भक्तसक्त्वपूपाद्य्[^२०२] उच्यते । तद् अशनार्थम् आनीतं देवतारूपेण पश्येत्- "एषा वै परमा देवता यद् अन्नम्" । तस्य सर्वेषां भूतानां स्रष्टृत्वेन स्थितिहेतुतया च यद्दर्शनं सास्य पूजा । अथ वा प्राणार्थत्वेन भावनं ध्यायन्-[^२०३] "यजन् मम यद् अर्थत्वं संपूजयति मां सदा" इति । नमस्कारादिना वा प्रणम्य ग्रहणं पूजा । 
+‘*He should eat it without disparaging it*’;—even when there is any such
+source of disparagement as that the article of food is of bad quality,
+or it is badly cooked, he should not disparage the food; *i.e*., he
+should not make any such disparaging remarks as—‘this is most
+disagreeable,’ or ‘it is likely to upset the constitution of the body,’
+and so forth. If the food happens to be really defective, he should
+simply *not* eat it; he should not eat it and yet find fault with it.
+
+‘*When he sees it he should rejoice*’—he should rejoice just as he does
+when, on returning from a long journey, he sees his wife and children.
+
+‘*He should feel gratified*’;—on seeing the food, he should remove from
+his mind even such displeasure as may have been produced by other
+causes.
+
+‘*He should welcome it*’;—‘welcoming’ consists in acclaiming it as a
+boon; *i.e*., receiving it with honour, with such words as ‘may we have
+such food every day.’
+
+‘*Always*,’—at all times. The affix ‘*shas*’ has the sense of the
+locative, according to the option involved in Pāṇini’s *Sūtra* 5. 4. 42.
+Or, wo may read ‘*sarvadā*’ (instead of ‘*sarvaśaḥ*’).—(54)
 
 
-[^२०३]:
-     M G 1st ed.: dhyānaṃ
-
-
-[^२०२]:
-     M G 1st ed.: -saktupūpādy
-
-- **अद्याच् चैतद् अकुत्सयन्** । कदन्नतया दुःसंस्कारोपग्रहणेन वा कुत्साहेतुसंभवे नान्नं कुत्सयेत् । "किम् इदम् अश्यते, अरुचिकरं धातुवैषम्यजनकम्" इत्य् एवमादिनाभिधानेन नाक्षिपेत् । यदि तु तद्रूपं भवति तदा नाद्यान् न कुत्सयन्न् अद्यात् । 
-
-**दृष्ट्वैव हृष्येत्** । पुत्रस्त्र्यादिसंदर्शनेन चिरप्रवासप्रत्यगत इव् तुष्येत प्रीयेत । **प्रसीदेच् च** । निमित्तान्तरजम् अपि कालुष्यम् अन्नदर्शनेन हित्वा मनःप्रसादम् आश्रयेत् । **प्रतिनन्देच् च** । समृद्ध्या शंसनं प्रतिनन्दनम् । "नित्ययुक्ता एतेन स्याम" इत्य् आदरोपदर्शनम् अभिनन्दनम् । **सर्वशः** सर्वदा । "अन्यतरस्याम्" इति व्यवस्थितविभाषाविज्ञानात् सप्तम्यर्थे शम् कर्तव्यः । सर्वदेति वा पठितव्यम् ॥ २.५४ ॥

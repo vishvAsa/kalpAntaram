@@ -2,9 +2,18 @@
 title = "247 आचार्ये तु"
 
 +++
+‘*Sapiṇḍe*’.—The ‘*Sapiṇḍa*’ is defined below in 5.60.
 
-नैष्ठिकस्यायम् उपदेशः । असत्य् **आचार्ये**, तत्पुत्रे श्रोत्रियत्वादिगुणयुक्ते, गुरुपत्न्याम् आचार्याण्यां वा, सपिण्डे वा गुरोर् एव, वसेत् । तत्र च **गुरुवद् वृत्तिम् आचरेद्** भैक्षनिवेदनादि सर्वं कुर्यात् । दारशब्दो बहुवचनान्तो भार्यावचनो वैयाकरणैः स्मर्यते । स्मृतिकारास् त्व् एकवचनान्तम् अपि प्रयुञ्जते- "धर्मप्रजासंपन्ने[^५९९] दारे नान्यां कुर्वीत" (आप्ध् २.११.१२) इति ॥ २.२४७ ॥
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 458) as laying down
+the duties of the life-long Student;—in *Madanapārijāta* (p. 109) in
+support of the view that in the absence of the Teacher’s wife, the
+Student should take up ‘residence’ with the Teacher’s *Sapiṇḍa*, and in
+the absence of this latter also, he should betake himself to the
+‘tending of Fire’;—in *Vīramitrodaya* (Saṃskāra, p. 549) to the effect
+that ‘residence with Fire’ is to be taken up only in the absence of the
+Teacher’s Sapiṇḍa;—in *Vidhānapārijāta* (p. 504), along with the
+following verse;—in *Hāralatā* (p. 76) as referring to the ‘*Life-long*
+Student’;—and in *Smṛticandrikā* (Saṃskāra, p. 167), which says that
+this refers to cases where no *Sapiṇḍa* is available.
 
 
-[^५९९]:
-     M G 1st ed.: dharmaprayāsayatne

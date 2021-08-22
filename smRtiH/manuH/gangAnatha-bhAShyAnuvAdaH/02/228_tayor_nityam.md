@@ -2,9 +2,15 @@
 title = "228 तयोर् नित्यम्"
 
 +++
+For reasons stated above,—‘*of these two*’—of the father and the
+mother,—‘*and of the preceptor*,’—‘*always*’—as long as one lives,—‘*he
+should do what is pleasing to*’; and one should not be satisfied with
+acting agreeably to them once, twice or thrice only.
 
-तस्मात् **तयोर्** मातापित्रोर् **आचार्यस्य च सर्वदा** यावज्जीवं यत् **प्रियं** तेषां तत् **कुर्यात्,** न सकृद् द्विस् त्रिर् वा कृत्वा कृती भवेत् । **तेष्व् एवा**चार्यादिषु **त्रिषु** **तुष्टेषु**[^५५८] भक्त्याराधितेषु **तपः सर्वं** बहून् वर्षगणांश् चान्द्रायणादितपस् तप्त्वा यत् फलं प्राप्यते तत् तत्परितोषाद् एव लभ्यत इति ॥ २.२२८ ॥
+‘*On these three*’—preceptor and the rest—‘*being satisfied*’—*i.e*.,
+when they have been propitiated by devoted service,—‘*all austerity*’;
+*i.e*., the rewards that Are obtained by the performance of the
+‘*Cāndrāyaṇa*’ and other penances for several years are obtained from
+the satisfaction of these three.—(228)
 
 
-[^५५८]:
-     M G 1st ed.: puruṣeṣu

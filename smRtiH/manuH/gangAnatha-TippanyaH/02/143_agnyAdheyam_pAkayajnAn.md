@@ -2,5 +2,18 @@
 title = "143 अग्न्याधेयम् पाकयज्ञान्"
 
 +++
+This verse is quoted in *Vidhānapārijāta* (H, p. 5) as supporting the
+view that the title ‘*Ṛtvik*’ is applicable to the man from the moment
+of ‘appointment’ till the end of the performance of the rites for which
+he has been appointed; and that during this time any impurity attaching
+to the man would be only ‘immediate’;—and in *Smṛticandrikā* (Saṃskāra,
+p. 91) as defining the *Ṛtvik'*
 
-आहवनीयादीनाम् अग्नीनाम् उत्पादककर्म **अग्न्याधेयम्** उच्यते । "वसन्ते ब्राह्मणो ऽग्नीन् आदधीत" (त्ब् १.१.२.६) इति विहितम् । **पाकयज्ञा** दर्शपूर्णमासादयः । **अग्निष्टोमादयो मखाः** सोमयागः । **मख**शब्दः क्रतुपर्यायः । एतानि कर्माणि **यस्य यः करोति स तस्यर्त्विग्** इत्य् **उच्यते** । यस्य तस्येतिशब्दौ संबन्धितां दर्शयतः । यस्यैवैतानि कर्माणि करोति तस्यैवासाव् **ऋत्विग् उच्यते** नान्यस्य । सर्व एत आचार्यादयः संबन्धिशब्दाः । **वृतः** प्रार्थितः शास्त्रीयेण विधिना कृतवरणः । मान्यताप्रसङ्गाद् ऋत्विक्संज्ञोपदेशो ऽत्र न हि ब्रह्मचारिधर्मेषु ऋत्विजाम् अवसरः । आचार्यादिवत् पूज्य इत्य् अस्मिन्न् अवधौ तल्लक्षणम् उच्यते ॥ २.१४३ ॥
+It is quoted also in *Vīramitrodaya* (Saṃskāra, p. 477) where
+‘*agnyādhāyam*’ is explained as *agnyādhānam*, and ‘*Pākayajña'* as *the
+Aṣṭaka and the rest*;—in *Madanapārijāta* (p. 31);—and in *Aparārka* (p.
+66) as meaning that the title ‘Ṛtvik’ applies to that man whose services
+are paid for by a sacrificer for the performance of the sacrificial
+rite;—and again on p. 919.
+
+

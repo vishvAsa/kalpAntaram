@@ -2,5 +2,40 @@
 title = "205 गुरोर् गुरौ"
 
 +++
+The present verse permits the afore-mentioned behaviour towards one’s
+Teacher to be adopted in certain other cases.
 
-उक्ता गुरुवृत्तिर् इदानीम् अन्यत्रातिदिश्यते । अध्ययनधर्मत्वात् सर्वस्यास्य गुरुर् अत्राचार्यो विज्ञेयः । तस्य यो **गुरुस्** तस्मिन् **संनिहिते** **गुरुवद्** वर्तितव्यम् । **संनिहित** इति न तद्गृहगमनम् अभिवादनाद्यर्थं कर्तव्यम् । गुरुगृहे वसन् **गुरुणानिसृष्टो** अननुज्ञातः **स्वान् गुरून्** मातापितृप्रभृतीन् नाभिवादयितुं गच्छेत्, न पुनर् गुरुगृहे स्थितस्य यद् स्वे गुरव आगच्छन्ति तदा तदभिवादने गुर्वज्ञापेक्षितव्या । कुत एतत्, मातापित्रोर् अत्यन्तमान्यत्वात् । पितृव्यमातुलादीनाम् अप्य् अभिवादनप्रवृत्तस्य न कश्चिद् गुरुवृत्तेर् विघ्नः । आराधनार्थ एवायं सर्वः प्रयासः । मातापितृगुरुसंनिपाते कः क्रमो ऽभिवादनस्येत्य् उक्तम् "सर्वमहती माता" । पित्राचार्ययोस् तु विकल्पः । यतः पितृत्वाध्यारोपेणाचार्यस्य गौरवं विहितम् । अतः पिता श्रेष्ठः । यतश् चोक्तम् "गरीयान् ब्रह्मदः पिता" (म्ध् २.१४६) इति तत आचार्यः । अतो ऽयम् विकल्पः ॥ २.२०५ ॥
+Since the whole of the present deals with study, the term ‘*guru*’
+should throughout be taken in the sense of ‘teacher.’ If the teacher of
+one’s Teacher happens to be near, he should behave towards him as
+towards his own teacher.
+
+‘*When he happens to be close* *by*.’—This implies that it is not
+incumbent upon the pupil to go over to the house of his teacher’s
+teacher for the purpose of paying respects to him.
+
+While living in the Teacher’s house,—‘*until* *he is permitted by his
+Teacher*’—allowed by him to do so,—he should not go to pay respects to
+his own ‘elders’;—to his father, mother, etc. This does not mean that
+when these elders come to his Teacher’s house, hc shall wait for the
+Teacher’s permission before he offers obeisance to them.
+
+“Whence do you get this meaning?”
+
+It follows from the fact that one’s parents are the highest objects of
+veneration; and as regards the paternal uncle, maternal uncle and other
+relations, if one salutes them, this does not stand in the way of his
+proper behaviour towards the Teacher. For after all, all his efforts are
+meant to win the Teacher’s favour.
+
+As regards the order to be observed in saluting the mother, the father
+and the Teacher, when all these happen to be together,—it has already
+been declared that the Mother is superior to all; and as between the
+Father and the Teacher, there is option: In as much as the respect due
+to the Teacher is by reason of the position of the ‘Father’ having been
+imposed upon him, the Father should be regarded as superior; but since
+it has been declared (in 146) that ‘the father imparting the Veda is
+superior,’ it would follow that the Teacher is superior. It is for this
+reason that there is option.—(205)
+
+

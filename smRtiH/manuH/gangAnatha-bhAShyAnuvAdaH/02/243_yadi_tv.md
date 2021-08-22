@@ -2,5 +2,9 @@
 title = "243 यदि त्व्"
 
 +++
+If he likes to live in absolute—*i.e*., life long, permanent,—residence
+in the Teacher’s house,—then, in that owe,—‘*he should
+intently*’—diligently—‘*serve him*,’—the Teacher; ‘*till he becomes
+freed from his body*,—*i.e*., as long as his body lasts.—(243)
 
-अत्यन्तं भवम् **आत्यन्तिकं** **वासं गुरोः कुले** नैष्ठिकं ब्रह्मचर्यं **यदि रोचयेत्** तदा **युक्तस्** तत्परः **परिचरेद् एनं** गुरुम्, **आ श्रीरस्य विमोक्षणात्** पाताद् यावच्छरीरं ध्रियत इत्य् अर्थः ॥ २.२४३ ॥
+

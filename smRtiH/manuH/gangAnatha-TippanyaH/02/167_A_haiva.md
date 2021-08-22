@@ -2,5 +2,26 @@
 title = "167 आ हैव"
 
 +++
+*Cf. Śatapatha Brāhmaṇa*, 11. 5. 7. 4.
 
-अयम् अपरो वाजसनेयकस्वाध्यायविधिर् ब्राह्मणे ऽर्थवादानुवादः । **आ नखाग्रेभ्य एवे**ति संबन्धः । **ह**शब्द ऐतिह्यसूचकः । **परम**शब्दात् तपसः प्रकर्षे प्रतिपन्ने नखाग्रग्रहणं प्रकृष्टस्यापि प्रकर्षम् आह । नखाग्राणि निर्जीवानि तान्य् अपि तपसानेन व्याप्यन्ते । तपो हि कृच्छ्रादिकं नखाग्राणाम् अव्यापकत्वान् न निःशेषफलप्रदम् । इदं तु तान्य् अपि व्याप्नोतीति प्रशंसा । **तप्यते तप** इति । "तपस् तपः कर्मकस्यैव" (पाण् ३.१.८८) इति यगामनेपदे । **यः स्रग्व्य् अपि** । स्रग् अस्यास्तीति **स्रग्वी,** कृतकुसुमदामा पुरुष उच्यते । अनेन च ब्रह्मचारिनियमत्यागं दर्शयति । परित्यज्यापि ब्रह्मचारिधर्मान् यदि **शक्तितो** यावच् छक्नोति स्वल्पम् **अप्य् अन्वहं** प्रत्यहं वेदम् **अधीते** सो ऽपि प्रकृष्टेन पुरुषार्थेन युज्यते । स्तुतिर् इयं न पुनर् नियमत्यागे ऽध्ययनम् उच्यते ॥ २.१६७ ॥
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 509), which adds
+the following explanatory notes:—The meaning is that the man who, even
+though wearing the garland,—*i.e*. though not observing the rules and
+restrictions strictly,—sedulously carries on Vedic study, carries on
+excellent austerity ‘to the very fingertips—the particle ‘*ha*’
+indicates that the fact stated is universally recognised. Thus the sense
+is that “when Vedic study, carried on without strict adherence to the
+rules, is conducive to excellent results,—what to say of it, when done
+in strict accordance with the rules.”
+
+This is quoted in *Aparārka* (p. 69), which gives the *Anvaya*
+as—‘*ānakhāgrebhyaḥ tapastapyate ha*’;—and in *Smṛticandrikā* (Saṃskāra,
+p. 128), which explains the meaning as one who studies the Veda to the
+best of his capacity performs the ‘highest austerity, to the very
+finger-tips it adds the notes—‘*ha*’ indicates that what is stated here
+is well-known,—‘*sragvī*’, wearing a garland, *i.e*. even though not
+strictly observing the restraints and observances.
+
+
+
+

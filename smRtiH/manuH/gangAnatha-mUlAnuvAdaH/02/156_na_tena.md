@@ -3,4 +3,4 @@ title = "156 न तेन"
 
 +++
 
-**न तेन वृद्ध** उच्यते **येनास्य पलितं** धवलं **शिरः** शिरःस्थाः केशाः । कथं तर्हि **यो वै युवापि** तरुणो ऽपि अथ चाधीते **तं देवाः स्थविरं विदुः** ब्रुवते । देवाः किल सर्वस्य वेदितार इति प्रशंसा ॥ २.१५६ ॥
+One does not become venerable by the fact that his hair has turned grey; the gods know him to be venerable who, though young, continues to study.—(156) 

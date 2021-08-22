@@ -2,9 +2,20 @@
 title = "114 विद्या ब्राह्मणम्"
 
 +++
+‘*Learning*’—in an embodied form, having approached a certain teacher,
+said to him.
 
-अयम् अप्य् अर्थवाद एव । **विद्या** मूर्तिमती कंचिद् उपाध्यायम् आगत्य **आह** प्रोक्तवती । **शेवधिर्** निधिस् तव **अस्मि रक्ष माम्** । का पुनस् ते रक्षा । **असूयकाय** कुत्साकराय निन्दकाय **मां** **मादाः** । निन्दकं माध्यापय । **तथा** चैवम् अहं **वीर्यवत्तमा** अतिशयेन तव कार्यकारिणी[^३४४] भवामि । वीर्यं कार्यनिवृत्तौ सामर्थ्यातिशयः । "शेवधिष्टे ऽस्मि" इति कृतषत्वं पठितं तच्छान्दसप्रयोगानुकरणम् ॥ २.११४ ॥
+‘*I am thy wealth*’—treasure —‘*guard me*.’
+
+The question arising as to what would the ‘guarding of Learning,—it is
+added—‘*Impart me not unto the*’—one who talks ill of, who despises.
+That is, never teach a scorner.
+
+‘*Thus may I become extremely powerful*.’—I shall be extremely useful to
+you. ‘*Vīrya*’, ‘*power*,’ here stands for great efficiency in
+accomplishing what is useful.
+
+The insertion of the cerebral ‘in the phrase ‘*śevadhiṣṭe* *smi*’ is an
+imitation of a Vedic form.—(l14)
 
 
-[^३४४]:
-     M G 1st ed,: kārakarī

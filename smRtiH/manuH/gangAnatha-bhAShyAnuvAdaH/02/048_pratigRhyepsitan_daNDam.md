@@ -2,15 +2,25 @@
 title = "048 प्रतिगृह्येप्सितन् दण्डम्"
 
 +++
+After the skins have been put on, the tying of the girdle should be
+done; and after having tied the girdle, the Initiation should be
+performed; the staff is taken up after the ‘sacred thread’ ceremony has
+been performed. After the staff has been taken up, the Sun should be
+worshipped; *i.e*., one should stand facing the sun and worship Him with
+those Mantras of which the sun is the presiding deity; what are the
+particular Mantras to be employed can be ascertained from the
+*Gṛhyasūtras*; as also the other details of procedure.
 
-प्रावृतेषु चर्मसु मेखलाबन्धनं कर्तव्यम् । आबध्य मेखलाम् उपनयनं कर्तव्यम् । कृते चोपवीते दण्डग्रहणम् । दण्डं गृहीत्वा **भास्कर** आदित्य उपस्थेयः । अभिमुखं स्थित्वादित्यदैवतैर् मन्त्रैर्[^१८९] उपस्थानम्[^१९०] आदित्यस्य कर्तव्यम् । गृह्यान् मन्त्रावगमः । अन्या चेतिकर्तव्यता तत एव । यत् सर्वसाधारणं तद् इहोच्यते ।
+The present verse describes only what is common to all persons.
+
+‘*Having walked round the* *fire* *to his right*,’—having passed all
+round it.
+
+‘*Gharet*’—(lit.) should accomplish;—‘*alms*’ is a collective term,
+stauding for collection of fool;—this he ‘*should beg*.’
+
+‘*According to prescribed rule*’—refers to the rules going to be laid
+down below. The term ‘*bhikṣū*’ (food) stands for small quantities of
+cooked rice, etc.—(18)
 
 
-[^१९०]:
-     M G: abhidhānam
-
-
-[^१८९]:
-     M G 1st ed. omit: mantrair
-
-- **प्रदक्षिणं परीत्य** सर्वतो गत्व्**आग्निम्** । **चरेत्** कुर्यात् । **भैक्षम् । **भिक्षाणाम् समूहो भैक्षम् । तच् **चरेद्** याचेत । **यथाविधी**ति वक्ष्यमाणविध्यनुवादः । भिक्षाशब्देन स्वल्पपरिमाणं भक्ताद्य् उच्यते ॥ २.४८ ॥

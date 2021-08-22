@@ -2,9 +2,13 @@
 title = "046 केशान्तिको ब्राह्मणस्य"
 
 +++
+This verse is quoted in *Smṛtitattva* (p. 930), which adds that in the
+event of the specified wood not being available any one of the woods
+recommended for the three castes may be used for any one of these
+three;—in *Madanapārijāta* (p. 22);—in *Vīramitrodaya* (Saṃskāra, p.
+436), which last explains ‘*Keśāntikaḥ*’ as ‘*Mūrdhāpramāṇaḥ*’;—in
+*Parāśaramādhava* (Ācāra, p. 448);—in *Aparārka* (p. 57);—in
+*Nṛsiṃhaprasāda* (Saṃskāra, p.43b);—and in *Smṛticandrikā* (Saṃskāra, p.
+78), which explains ‘*Keśāntikaḥ*’ as *reaching up to the head*.
 
-आकारविशेषवचनो दण्डशब्दः । दीर्घं काष्ठं[^१८७] संमितायामं दण्ड इत्य् उच्यते । कियत् तस्य दैर्घ्यम् इत्य् अपेक्षायाम् आह । केशान्तं गच्छति प्राप्नोति **केशान्तगो** मूर्द्धप्रमाणः । पादाग्राद् आरभ्य मूर्द्धावधिः **केशान्तगः** । केशा वान्तो ऽस्येति **केशान्तकः** । समासान्तः ककारः । **प्रमाणतः** प्रमाणेनानेन युक्तो **दण्डः कार्यः** कारयितव्यः **ब्राह्मणस्या**चार्येण । **ललाटसंमितः** ललाटान्तम् इतः ललाटन्तप्रमाणः । ललाटमात्रे चतुरङ्गुलेन मीयमानस्य दण्डशब्दवाच्यत्वाभावाद् एवं व्याख्यायते- पादाग्राद् आरभ्य यावल् ललाटान्तं प्राप्तः । एवं **विशो** वैश्यस्य **नासान्तग** इति ॥ २.४६ ॥
 
-
-[^१८७]:
-     M G: kāṇḍa

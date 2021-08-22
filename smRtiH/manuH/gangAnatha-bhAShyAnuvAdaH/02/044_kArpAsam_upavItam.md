@@ -2,21 +2,48 @@
 title = "044 कार्पासम् उपवीतम्"
 
 +++
+The term ‘*upavīta*’ stands for the peculiar manner in which cloth is
+worn; as will be explained later in Verse 63; as such, it is only a
+*quality*; and since this *quality* cannot be *made of cotton*, the
+quality is taken as standing for the thing to which the quality belongs;
+the meaning being that the *thing* that is to be worn in the particular
+way should be made of cotton; the term ‘*upavītam*’ being regarded as
+formed with the ‘*ach*’ affix, according to Pāṇini 5.2.127, ‘*upavītam*’
+being equivalent to ‘*upavītavat*.’
 
-उपवीतशब्देन वासो विन्यासविशेष उच्यते । वक्ष्यति "उद्धृते दक्षिणे पाणौ" (म्ध् २.६३) इति । तच् च धर्ममात्रम् । तस्य न कार्पासता संभवत्य् अतो धर्मेण धर्मी लक्ष्यते, यस्यासौ विन्यासस् तत् कार्पासम् उच्यते । अर्श आदित्वाद् वा मत्वर्थीयो ऽकारः कर्तव्यः, उपवीतवद् उपवीतम् इति । 
+‘*Twisted upwards*’—*i.e*., turned round, coiled upwards.
 
-- **ऊर्ध्ववृत्तम्** ऊर्ध्वां दिशं दिशं प्रतिवर्त्यते वेष्ट्यते । **त्रिवृत्** त्रिगुणम् । कर्तनिकाभ्यो लब्धसूत्रभावस्य त्रिगुणीकृतस्येदम् ऊर्ध्वनिवर्तनं[^१८३] विधीयते । संहत्य तन्तुत्रयम् ऊर्ध्ववेष्टनेन रज्ज्वाकारं कृत्वा तेनोपवीतं कुर्यात् । सा च रज्जुर् एकैव धारयितव्या, तिस्रः पञ्च सप्त वा । यज्ञसंबन्धाद् धि तद् यज्ञोपवीताख्यां[^१८४] लभते । यज्ञार्थो ऽयम् उद्यते इति भक्त्योपचर्यते । तत्रेष्टिपशुसोमानां यज्ञरूपतयैकत्वाद् एकतन्तुकं क्रियते । अग्नित्रयसाध्यत्वाद् अहीनैकाहसत्रभेदाद् वा त्रितन्तुकम् । सोमसंस्थानां सप्तसङ्ख्यत्वात् सप्त वा तन्तवः । "त्रीणि सवनानि त्रिसंध्येन" इति पञ्च । सूत्राभावे[^१८५] पटादिनापि कर्तव्यम् । स्मृत्यन्तर एवम् उक्तम् । 
+‘*Triple*’—consisting of three yarns.
+
+This ‘*twisting upwards*’ is laid down for that article which, on coming
+out of the spinning wheel, has acquired the properties of the ‘yarn’ and
+has then been folded three times. That is to say, three yarns should be
+brought together and by upward twisting made into a cord, and then used
+as the ‘sacred thread.’ Of this cord, either only one or three or five
+or seven should be worn. It comes to be known as the ‘*sacrificial*
+thread’ by reason of its being connected with sacrificial performances;
+in as much as it is worn for the purposes of sacrificial performances,
+it is so called figuratively.
+
+Now, of the three kinds of sacrifice, the *Iṣṭi*, the *Paśu* and the
+*Soma* sacrifices, it may be worn single at all these, when they are all
+looked upon as ‘sacrifices’ in general (and hence, uniform); or it may
+be worn three-fold, when they are looked upon either as performed with
+the help of *three* fires, or as being divided into the *three* classes
+of ‘*Ahīna*,’
+
+‘*Ekāha*’ and ‘*Satra*’; or again, it may be worn seven-fold, in view of
+the number of stages in the Soma sacrifice being *seven*; or lastly, it
+may be worn five-fold, in view of there being *three* ‘Savanas’
+(extractions of Soma-juice) and two ‘*Sandhyās*’ (twilights).
+
+\[In the absence of Cotton\], the ‘Thread’ may be made of silk and other
+fibres also; such is the direction given ill other *Smṛtis*.
+
+‘*Avi*’ is *sheep*; the yarn made of wool is ‘woolen fibre’; the term
+‘*ārik?sūtrikam*’ being formed with the ‘*ṭhañ*’ affix, according to the
+*Vārtika on* Paṇini 4.3.60. Or, we may read ‘*avikasūtrikam*’ this word
+being formed with the ‘*ṭhan*’ affix having the sense of the
+possessive.—(14)
 
 
-[^१८५]:
-     M G: pañcasūtrābhāve
-
-
-[^१८४]:
-     G: -ākhyaṃ
-
-
-[^१८३]:
-     M G 1st ed.: triguṇīkṛtavedamūrdhani vartanaṃ
-
-- अविः मेषस् तस्य सूत्रं तेन कृतं **आविकसूत्रिकम्** । अध्यात्मादित्वाट् ठञ् कर्तव्यः । "अविकसूत्रिकम्" इति वा पठितव्यम् । तत्र च मत्वर्थीयेन ठना रूपसिद्धिः ॥ २.४४ ॥

@@ -2,5 +2,17 @@
 title = "200 गुरोर् यत्र"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 491), where the
+distinction is made between ‘*parīvāda*’ which is *the proclaiming of
+wrongs really* *committed*, and ‘*nindā*’ the *setting forth of wrongs
+not committed*.
 
-**यत्र** देशे दुर्जनसंपाते **गुरोः परीवादः** संभूतदोषानुकथनं **निन्दा** अविद्यमानानां दोषाणाम् अभिधानं **प्रवर्तते तत्र कर्णौ पिधातव्याव्** अङ्गुल्यादिना संवरीतव्यौ । **ततः** प्रेदेशाद् वान्यत्र **गन्तव्यम्** ॥ २.२०० ॥
+It is quoted also in *Madanapārijāta* (p. 107);—in *Aparārka* (p.
+56);—in *Smṛticandrikā* (Saṃskāra, p. 120), which says that the
+‘*parīvāda*’ is the mentioning of such defects as are really present,
+and ‘*nindā*’ the mentioning of such as are not present;—in
+*Saṃskāramayūkha* (p. 41), which notes the same distinction;—in
+*Nṛsiṃhaprasāda* (Saṃskāra, p. 45b);—and in *Yatidharmasaṅgraha* (p.
+33).
+
+

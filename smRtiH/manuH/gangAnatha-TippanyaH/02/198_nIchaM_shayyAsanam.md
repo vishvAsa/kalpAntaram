@@ -2,9 +2,12 @@
 title = "198 नीचं शय्यासनम्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 491), where it is
+added that this does not apply to carts and other such conveyances in
+*Madanapārijāta* (p. 106);—in *Aparārka* (p. 56);—in *Saṃskāramayūkha*
+(p. 40 ), which explains the last clause to mean that ‘he should not
+spread out his legs and so forth’;—and in *Smṛticandrikā* (Saṃskāra, p.
+120), which says that this refers to cases other than riding on a
+bullock and so forth, where *sitting together* cannot be avoided.
 
-**नीचम्** अनुन्नतं गुरुशय्याद्यपेक्षया च नीचत्वम् । **नित्य**ग्रहणाद् ब्रह्मचर्याद् उत्तरकालम् अपि । **गुरोश्** च दृष्टिगोचरे, यत्र[^५१७] गुरुः पश्यति तत्र न यथेष्टम् आसीत, पादप्रसारणाङ्गनिषङ्गादिना । **आसन**ग्रहणं चेष्टामात्रोपलक्षणार्थम् । यथेष्टचेष्टो न भवेत् ॥ २.१९८ ॥
 
-
-[^५१७]:
-     M G in place of yatra reads: nāsthatavyam

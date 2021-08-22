@@ -2,23 +2,23 @@
 title = "108 अग्नीन्धनम् भैक्षचर्याम्"
 
 +++
+‘Āsamāvartanāt ’—See 3. 3-4.
 
-सायंप्रातः समिद्भिर् अग्नेर् आदीपनम् **अगीन्धनम्** । अपर्यङ्कारोहणम् **अधःशय्या** । न तु स्थण्डिलशायित्वम् एव । गुरवे **हितम्** उदकुम्भाद्याहरणं शुश्रूषणलक्षणम् । यत् तु तदुपकारकरणं तद् यावज्जीविकम् । एतद् **आ** ब्रह्मचर्यसमाप्तेर् गुरुकुलनिवृत्तिलक्षणात् स्नानात् कर्तव्यम्, स्वाध्यायाध्ययनविध्यर्थत्वात् । ब्रह्मचर्यस्य तद्धर्माणां च यावद् ग्रहणम् अनुवृत्तिस् तन्निवृत्त्या च निवृत्तिः सिद्धैवेति ।
+This verse, is quoted in Parāśaramādhava (Ācāra. p. 455), as laying down
+the duties of the Student;—inVīramitrodaya (Saṃskāra, p. 489) as laying
+down the ‘ miscellaneous duties ’ of the Student;—and in Aparārka (p.
+76), as laying down the time-limit up to which the fire-tending and
+other functions have to be kept up.
 
-- अग्नीन्धनादीनां पुनर्वचनं तद्व्यतिरिक्तस्यातिक्रान्तस्य धर्मकलापस्योत्तरेषाम् अप्य् आश्रमिणाम् अनुष्ठानार्थम् । तथा च गौतमः- "उत्तरेषां चैतद् अविरोधि[^३३०]" इति (ग्ध् ३.९) । 
+‘*Acting for the teacher’s well-being*.’ The details of this have been
+described by Hārīta, quoted in *Vīramitrodaya* (Saṃskāra, p. 490)—‘By
+fetching of water, Kuśa-grass, flowers, fuel, roots, fruits, sweeping
+and washing of the house, bodily service and so forth,—he should
+devotedly attend upon the Teacher, whose cast off clothes, bed and seat
+he should never step over.’
+
+This verse is quoted in *Nṛsiṃhaprasāda* (Saṃskāra, p. 46a);—and in
+*Smṛticandrikā* (Saṃskāra, p. 118), which adds that those mentioned here
+indicate the other duties also.
 
 
-[^३३०]:
-     M G 1st ed.: avirodhāt
-
-- <u>अथैवं</u> कस्मान् न भवति एते यावद् ब्रह्मचर्यभाविनः, अन्ये पुनर् अर्वाग् अपि निवर्तन्त इति । स्मृत्यन्तरम् अत्रदर्शितम्[^३३१] । प्रधानकानानुवर्तिनश् च नियमा इत्य् एष न्यायः सत्यां गतौ[^३३२] स्यात् । 
-
-
-[^३३२]:
-     M G 1st ed. add: bādhitaḥ
-
-
-[^३३१]:
-     M G: smṛtyantaramātradarśita-
-
-- गुरवे हितम् इति हितयोगे चतुर्थी (पाण् २.१.३६) न्याय्या ॥ २.१०८ ॥

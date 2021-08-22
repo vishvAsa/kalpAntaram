@@ -2,5 +2,11 @@
 title = "111 अधर्मेण च"
 
 +++
+‘*Vidveṣam vādhigacchati*’—‘Incurs the ill-will of the people’
+(Medhātithi and Govindarāja);—‘loses the reward’ (Rāghavānanda);—‘incurs
+the other party’s enmity’ (Kullūka).
 
-अस्य प्रतिषेधस्यातिक्रमे दोषम् आह । **अधर्मेण** पृष्टो ऽन्यायपृष्टश् च **यः** प्रब्रवीति "एवम् एतद् उक्तम् अध्येतुम्" इति । **यश् च पृच्छति** । ताव् उभाव् अपि म्रियेते अप्राप्तकालौ । अथैको व्यतिक्रमकारी स एव म्रियते । यद्य् अन्यायेन पृष्टो न वक्ति तदा प्रष्टैव वाथ प्रतिवक्ति तदोभाव् अपि । अनेनान्यायप्रश्ने दोषदर्शनेन प्रष्टुर् न्याय्यः प्रश्नविधिः । **दिद्वेषं वा** द्वेष्यतां लोके प्राप्नोति ॥ २.१११ ॥
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 516), as laying
+down the duties of the Teacher.
+
+

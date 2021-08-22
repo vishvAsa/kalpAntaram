@@ -2,9 +2,22 @@
 title = "047 ऋजवस् ते"
 
 +++
+‘*Straight*’—not crooked.
 
-**ऋजवः** अवक्राः । **सर्वे** इत्य् अनुवादः, प्रकृतत्वाविशेषात् । **अव्रणा** अच्छिद्राः । **सौम्यं** प्रियकरं[^१८८] दर्शनम् एषां ते **सौम्यदर्शनाः** वर्णपरिशुद्धाः, अकण्टकिताश् च । **अनुद्वेगकराः** । नैतैः कश्चिद् उद्वेजयितव्यः स्वा वा मनुष्यो वा । **नृणाम्** इति प्रदर्शनार्थम् । **सत्वच** अतष्टाः । **अनग्निदूषिताः** वैद्युतेन दावोत्थेन वास्पृष्टाः ॥ २.४७ ॥
+‘*All*’—refers to those mentioned above; all those mentioned being
+equally the things under consideration.
+
+‘*Unimpaired*’—without holes.
+
+‘*Handsome looking*’;—whose appearance is pleasing. That is, of pure
+colour and without thorns.
+
+‘*Not frightening*’;—they should not be used to frighten anyone, dog or
+man; ‘*to men*’ being only indicative (of animals in general).
+
+‘*With bark*’—uncut, unpeeled.
+
+‘*Unspoilt by fire*,’—not affected by fire either of lightning or of the
+forest.—(47)
 
 
-[^१८८]:
-     M G: priyaṃkaraṃ

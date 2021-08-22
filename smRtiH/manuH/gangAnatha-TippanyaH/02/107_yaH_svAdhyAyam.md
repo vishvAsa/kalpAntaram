@@ -2,11 +2,26 @@
 title = "107 यः स्वाध्यायम्"
 
 +++
+‘*Payo dadhi ghṛtam madhu*’—stand respectively for Merit, Wealth,
+Pleasure and Final Release, according to Nārāyaṇa and Nandana.
+Medhātithi notes this explanation as provided by ‘others.’
 
-प्रकृतविधिशेषो ऽयम् । स च नित्यः समधिगतः । नित्ये च फलश्रवणम् अर्थवादः । न च विधिविभक्तिर् विद्यते । येन "एकस्य तूभयत्वे संयोगः पृथक्त्वम्" (प्म्स् ४.३.५) इत्य् अनेन न्यायेनाधिकारान्तरहेतुः पयःप्रभ्र्तिः स्यात् । लब्धे च नित्ये ऽधिकारे रात्रिसत्रन्यायो ऽपि नास्ति, येन पयआदीनि निष्फलत्वेन कल्पेरन् । तस्माद् अर्थवाद एवायम्, अधीयानस्य लोकपक्त्या प्रतिग्रहादिना गोलाभात् पयःप्रभृतेः प्रक्षरणानुवादस्यालम्बनम् । 
+*Medhātithi* (p. 124, 1. 15)—‘*Ekasya tūhhayatve*’—This is Mīmāṃsā Sūtra
+4. 3. 4. There are two texts—‘makes an offering of curd’ and ‘for the
+benefit of one desiring sense-organs, one should sacrifice with curd’;
+the question that arises is whether these two texts lay down two
+distinct acts, or both conjointly enjoin a single act; and the
+conclusion is that the two acts are distinct.
 
-- **स्वाध्यायं** वेदम् **अधीते ऽब्दं** संवत्सरं **विधिना** प्राक्कूलाध्यासनेन **नियतः** संयतेन्द्रियः **शुचिः** स्नानादिना **तस्य** पुरुषस्य **नित्यं** यावज्जीवं **क्षरति** स्रवति ददाति । एषः स्वाध्यायः । **पयोदध्**ईति । 
+This principle, Medhātithi argues, is not applicable to the present
+case; the mention of the four distinct substances cannot he taken as
+supplying the motive for four distinct acts.
 
-- <u>अन्ये</u> तु धर्मार्थकाममोक्षान् पयआदिभिः शब्दैर् अभिहितान् मन्यन्ते । **पयः** शुद्धिसामान्याद् धर्मः, **दधि** पुष्टिहेतुत्वाद् अर्थः, स्नेहसामान्यात् **घृतं** कामः, सर्वरसैक्यान् **मधु** मोक्षः । यावान् कश्चन पुरुषार्थः स सर्वो वेदाध्ययनात् संवत्सरेणैव प्राप्यते, किं पुनर् बहुना कालेन । 
+*Medhātithi* (p. 124,1. 16)—‘*Rātrisatranyāyaḥ*’—This is enunciated in
+Mīmāṃsā Sūtra 4. 3. 17 *et seq*. In connection with the *Rātrisatra*
+sacrifice, it has been held that it is conducive to ‘respectability,’
+even though this is a result mentioned in an Arthavāda passage. This
+principle also is not applicable to the present case where the necessary
+motive is provided by the compulsory character of the act.
 
-- अर्थवादत्वात् पयआदिशब्दानां को ऽर्थो युक्त इति नाभिनिवेष्टव्यम् ॥ २.१०७ ॥
+

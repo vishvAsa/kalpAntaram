@@ -2,5 +2,15 @@
 title = "147 कामान् माता"
 
 +++
+These two verses are purely valedictory.
 
-श्लोकद्वयम् अर्थवादः । मातापितरौ **यद् एनं** दारकम् **उत्पादयतो** जनयतो **मिथो** रहसि परस्परं तत् **कामाद्** धेतोर् मन्मथपरवशौ । **संभूतिं तस्य तां विद्यात्** । **तस्य** दारकस्य संभवोत्पत्तिर् **यद् योनौ** मातृकुक्षाव् **अभिजायते** ऽङ्गप्रत्यङ्गानि लभते । संभवश् च येषां भावानां ते तथैव विनश्यन्ति । अतः किं तेन संभवेन यस्यानन्तरभावी विनाशः ॥ २.१४७ ॥
+‘*When the Father and. Mother beget him*’—the child—‘*through mutual
+desire*’—in secret, under the influence of desire.
+
+‘*Should be regarded as his production*;’—that the child is born in the
+womb of the Mother—*i.e*., b ecomes endowed with his several limbs—this
+is mere *production*. And those entities that have their *production*
+are sure to be destroyed; so that what is the use of that ‘production’
+which is doomed to immediate destruction?—(117)
+
+

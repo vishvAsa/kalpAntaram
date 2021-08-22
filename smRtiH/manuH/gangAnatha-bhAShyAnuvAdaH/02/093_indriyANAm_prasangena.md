@@ -2,13 +2,13 @@
 title = "093 इन्द्रियाणाम् प्रसङ्गेन"
 
 +++
+‘*Attachment*’ means *addiction*; ‘*by*’ this, as the means, one
+‘*incurs*’—attains—‘*evil*,’ \[visible\] as well as invisible. There is
+no doubt in this; it is absolutely certain.
+
+‘*By subjugating these*’—organs—one subsequently ‘*attains
+success*,’—the attainment of the desired end; *i.e*., he acquires in its
+entirety all the fruits of the performance of acts enjoined in *Śruti*
+and in *Smṛti*.—(93)
 
 
-[^२८८]:
-     M G 1st ed.: niyacchati
-
-**प्रसङ्गस्** तत्परता । तेन हेतुभूतेन **दोषं**[^२८९] दृष्टम् अदृष्टं च **ऋच्छति** प्राप्नोति । नात्र संशयो निश्चितम् एतत् । **संनियम्य** **तानि** इन्द्रियाणि **ततः सिद्धिम्** अभिप्रेतार्थावाप्तिं श्रौतस्मार्तकर्मणाम् अनुष्ठानफलं निःशेषं **गच्छति** प्राप्नोति ॥ २.९३ ॥
-
-
-[^२८९]:
-     M G omit: doṣaṃ

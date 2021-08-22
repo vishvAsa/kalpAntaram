@@ -2,11 +2,25 @@
 title = "124 भोःशब्दङ् कीर्तयेद्"
 
 +++
+This verse is quoted in *Madanapārijāta* (p. 26) with the following
+notes:—The term ‘*bhoḥ*’ is the ‘*marūpabhāva*’ of names; *i.e*. it
+leads the name uttered to reach the person addressed; the sense being
+that when addressed with the term ‘*bhoḥ*’, the person catches the
+saluter’s name. The root in the term ‘*bhāva*’ denotes *reaching*. If we
+read ‘*bhobhāvaḥ*’ this would mean ‘the *bhāva*, or presence, of the
+term *bhoḥ*:
 
-**स्वस्य नाम्नो ऽन्ते भोःशब्दं कीर्तयेत्** । स्वग्रहणम् अभिवाद्यमानप्रतिषेधार्थम् । परिशिष्टो ऽर्थवादः । न च नामाक्षराणाम् एवान्ते ऽपि तु ततः परेषाम् "अहम् अस्मि" इति । एष हि तत्रेतिकरणं प्रयोगावधारणार्थम् । एवम् एव प्रयोक्तव्यः । अपि च "देवदत्तो भो अहम्" इति दुःशिष्टे प्रयोगे विलम्बितायां प्रतिपत्तौ संमुखीभावश् चिरेण स्यात् तत्र कार्यविरोधः । व्यवहितसंबन्धे कश्चिन् नैवावधानवान् स्यात् ।
+It is quoted in *Vīramitrodaya* (Saṃskāra, p. 450) where we have the
+following notes:—At the end of the name pronounced in the salutation,
+one should utter the term ‘*bhoḥ*’ for attracting the attention of the
+person saluted; because it has been declared by the sages that the term
+‘*bhoḥ*’ stands for the names of the persons addressed; so that, even
+though the name of the saluted person be not uttered, the term ‘*bhoḥ*’
+becomes the proper form of address. Thus then the formula for saluting
+comes to be ‘*abhivādaye amukanāma ahamasmi bhoḥ*.’
 
-- **स्वरूपभावः** स्वरूपस्य सत्ता । अथ वाभिवाद्य**नाम्नां** स्वरूपे भवति, तत्स्थाने भवत्य् अतस् तन्नामनिवृत्तिः । भावसाधनः कर्तृसाधनो वा भावशब्दः । **स्वरूपभाव** इति सप्तम्यन्तो वा पठितव्यः । **भोभावः**[^३५६] । भो इत्य् एतस्य यद् भवनं यत् स्वरूपं तन् **नाम्नां** स्वरूपम् । यथैव नाम गृहीत्वा कस्यचित् संबोधनं क्रियते "देवदत्त श्रूयताम्" इति, एवं भोःशब्दो ऽप्य् आमन्त्रितविभक्त्यन्तः संबोधनायैवं **ऋषिभिः** स्मर्यते ॥ २.१२४ ॥
+This is quoted also in *Nirṇayasindhu* (p. 191);—in *Saṃskāramayūkha*
+(p. 45), which states the complete formula as ‘*Ābhivādaye Devadatto’ham
+bho*’;—and in *Smṛticandrikā* (Saṃskāra, p. 96).
 
 
-[^३५६]:
-     J: bhāvaḥ (omits bho)

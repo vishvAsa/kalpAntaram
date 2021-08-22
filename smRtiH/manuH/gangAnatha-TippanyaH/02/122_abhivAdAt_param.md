@@ -2,23 +2,39 @@
 title = "122 अभिवादात् परम्"
 
 +++
+This verse is quoted in *Madanapārijāta* (p. 25), where the following
+notes are added:—‘*abhivādāt*,’ *i.e*., after the word ‘*ahhivādaye*,’
+‘I salute’—one should mention his name, ‘I am so and so’;—the term
+‘*vipra*’ stands for all the *twice-born* men;—also in *Saṃskāramayūkha*
+(p. 45), which says that what is meant by ‘*abhivādāt*’ is ‘after having
+pronounced the words ‘*I salute*’;—and in *Smṛticandrikā* (Saṃskāra, p.
+96), which adds the explanation ‘one should pronounce his own name, *I
+am Devadatta*, after having saluted.’
 
-येअन् शब्देन परः संबोध्यते, आशिषं प्रति प्रयोज्यते, कुशलप्रश्नं वा कार्यते, सो ऽभिवादः । अस्माद् **अभिवादाद्** अभिवादप्रतिपादकाच् छब्दात् **परम्** अव्यवहितपूर्वं इमं[^३५२] शब्दम् उच्चारयेत्- **असौ नामाहम् अस्मीत्य्** । असाव् इति सर्वनाम सर्वविशेषप्रतिपादकम् । अभिमुखीकरणार्थो ऽयम् ईदृशः शब्दप्रयोगः "मया त्वम् अभिवाद्यसे आशीर्वादार्थम् अभिमुखीक्रियसे" । ततो ऽध्येषणाम् अवगम्य प्रत्यभिवादम् आशीर्दानादि कर्तुम् आरभते । 
+It is quoted in *Vīramitrodaya* (Saṃskāra, p. 450), where the following
+explanation is added:—When saluting the elder—*i.e*., an aged
+person—‘*abhivādātparam*’—*i.e*., after uttering the word
+‘*abhivādaye*’, ‘I salute,’—one should utter his proper name, ‘I am so
+and so.’ It has been declared in the *Yajñasūtra* that the generic
+pronoun ‘*asau*’ (‘so and so’) indicates the proper name. Since the text
+uses the term ‘elder,’ it follows that the method here laid down is not
+to be employed in saluting such *uncles* and other superior relatives as
+are younger in age to the saluter; the method for saluting them is going
+to be described later on. The term ‘*Vipra*’ includes the *Kṣatriya* and
+the rest also; as is clear from the rules regarding the returning of
+salutation, under verse 127 below.
+
+On the expression ‘*ahamasmi*,’ this work quotes Medhātithi’s remark
+that both ‘*aham*’ and ‘*asmi*’ meaning the same thing, the use of the
+one or the other is optional. But this has been quoted as the opinion of
+‘others’ by Medhātithi. This view is rejected by Vīramitrodaya as being
+repugnant to Manu, verse 122. It rejects the view of Kullūka also, who
+opines that the term ‘*nāma*’ need not be used in the formula.
+
+This verse is quoted also in *Parāśaramādhava* (Ācāra, p. 296) where too
+the term ‘*abhivādātparam*’ is explained to mean—‘Having first uttered
+the words *I salute*, he should pronounce his name’;—and in Aparārka (p.
+52), which says that the formula is ‘*abhivādaye caitranāmāhamasmi
+bhoḥ*.’;—and in *Aparārka* (p. 52), which *bìiivādaye caitranāmāhamasmi*
 
 
-[^३५२]:
-     M G 1st ed. omit: imaṃ
-
-- न च सामान्यवाचिना सर्वनाम्ना प्रयुज्यमानेनैतद्[^३५३] उक्तं भवतीदं नामधेयेन मयाभिवाद्यसे इत्य् अतो ऽध्येषणाम् अनवबुध्य कस्याशिषं प्रयुङ्क्ताम् ।अपि च **स्वनाम परिकीर्तयेद्** इति श्रुतम् । तत्रासौ देवदत्तनामाहम् इत्य् उक्तेनाभिवादनं प्रतिपद्येत । असाव् इत्य् एतस्य पदस्यानर्थक्याद् अर्थानवसायः ।
-
-
-[^३५३]:
-     M G: prayojyamā-
-
-- स्मृत्यन्तरतन्त्रेणापि व्यवहरन्ति च सूत्रकाराः । यथा पाणिनिः- "कर्मणि द्वितीया" (पाण् २.३.२) इति द्वितीयादिशब्दैः । इहाप्य् असाव् इति । "स्वं नामातिदिशत" इति यज्ञसूत्रे ऽपि परिभाषितम् । यद्य् एवं स्वं नामेत्य् अनेनैव सिद्धे ऽसौ नामेत्य् अनर्थकम् । नामशब्दप्रयोगार्थम् । कथम् । स्वं नाम कीर्तयेद् इदं नामाहम् इति । अनेन स्वरूपेणाहम् अस्मीति । समानार्थत्वाद् विकल्पं मन्यन्ते ।
-
-- अत्र श्लोकद्वये[^३५४] एतावद् अभिवादनवाक्यस्य रूपं सिद्धम्- "अभिवादये देवदत्तनामाहं भोः" । उत्तरेण श्लोकेन भोर् इत्य् एतद् विधास्यते । **ज्यायांसम्** इति वचनात् समहीनानाम् अप्य् अभिवादनम् अस्ति, न त्व् अयं प्रकारः, ज्यायोविषयत्वाद् अस्य ॥ २.१२२ ॥
-
-
-[^३५४]:
-     M G 1st ed. omit: -dvaye

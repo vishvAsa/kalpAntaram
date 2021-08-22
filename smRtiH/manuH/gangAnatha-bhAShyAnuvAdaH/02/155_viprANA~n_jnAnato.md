@@ -2,7 +2,26 @@
 title = "155 विप्राणाञ् ज्ञानतो"
 
 +++
+This also is a purely commendatory description.
 
-अयम् अप्य् अर्थवाद एव । यद् उक्तं वित्तादिभ्यः समुदितेभ्यः केवलापि विद्या ज्यायसीति तद् एव सप्रपञ्चम् अनेन निर्दिश्यते । 
+It has been asserted above that *knowledge* singly is superior to wealth
+and other things taken together; and the same idea is re-iterated in
+greater detail, in this verse.
 
-- ब्राह्मणानां ज्ञानेन **ज्यैष्ठ्यं** न वित्तादिभिः, **क्षत्रियाणां वीर्यतः** ।वीर्यं द्रव्यस्य कौशलं दृढप्राणता च । **वैश्यानां धान्यधनतः** । धान्यस्य पृथगुपादानाद् धनशब्दो हिरन्यादिवचनः, ब्राह्मणपरिव्राजकवत् । बहुधनो वैश्यः स ज्येष्ठः । आद्यादित्वात् तृतीयार्थे तसिः । "हेतौ तृतीया" (पाण् २.३.२३) ॥ २.१५५ ॥
+‘*Among Brāhmaṇas*, *seniority is by knowledge*’—not by wealth, etc.
+
+‘*Among Kṣatriyas by valour*’;—‘*va* *lour*’ stands for the ‘efficiency’
+of a substance and also for ‘firmness of strength.’
+
+‘*Among Vaiśyas by grains and riches*’;—‘*grains*’ being mentioned
+separately, the term ‘*riches*’ is to be taken as signifying *gold*,
+etc.; just as in the expression ‘*brāhamaṇa-pariv* *rājaka*.’ \[Where
+the Brāhmaṇa being mentioned separately, the term ‘*parivrājaka*’ is
+taken as standing for the renunciate of other castes.\]
+
+The Vaiśya possessing a large quantity of wealth is regarded as senior.
+
+The affiix ‘*tasi*’ (in the words ‘*jñānataḥ*,’ etc.) denotes cause, and
+is used in accordance with Pāṇini 2.3.23.—(155)
+
+

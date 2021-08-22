@@ -2,35 +2,71 @@
 title = "140 उपनीय तु"
 
 +++
+The present section is taken up for determining the exact signification
+of ‘*Ācārya*’ (Preceptor) and other terms. As a matter of fact, people
+make use of these names on the basis of certain qualifications; and this
+particular matter has not been dealt with by Pāṇini and other writers on
+the subject of the meanings of words. What the present text says
+regarding the meaning of the titles is based, like the Smṛti of Pāṇini
+and others, upon usage, not upon the Veda; as it does not prescribe
+anything *to be done*; that such and such a word means such and such a
+thing is a *well-established fact*, not something *to be accomplished*.
 
-आचार्यादिशब्दानाम् एवार्थनिरूपणार्थम् इदम् आरभ्यते । सोपचारो हि लोके एषां प्रयोगः । न च शब्दार्थसंबन्धस्य स्मर्तृभिर् आचार्यपाणिनिप्रभृतिभिर् एतन् निरूपितम् । इयं चाचार्यपदार्थस्मृतिर् व्यवहारमूला, न वेदमूला, पाणिन्यादिस्मृतिवत् । न ह्य् अत्र किंचित् कर्तव्यम् उपदिश्यते । अस्य शब्दस्यायम् अर्थ इति सिद्धरूपो ऽयम् अर्थः, न साध्यरूपः ।
+‘*Having initiated*,’—*i.e*., having performed the Initiatory Rite,—‘*he
+who teaches*’—makes him get up—‘*the Veda*’—is the ‘preceptor.’ The
+‘getting up’ of the Veda here meant consists in the remembering of the
+exact words of the text, independently of other learners.
 
-- **उपनीय** उपनयनं कृत्वा **यो वेदम् अध्यापयति** ग्राहयति स **आचार्यः** । ग्रहणं चात्राध्येत्रन्तरनिरपेक्षं वाक्यानुपूर्वीस्मरणम् । **कल्प**शब्दः सर्वाङ्गप्रदर्शनार्थः । **रहस्यम्** उपनिषदः । यद्य् अपि ते ऽपि वेदशब्देनैव गृहीतास् तथापि द्वितीयस् तेषां व्यपदेशो ऽस्ति, वेदान्ता इत्य् अन्तशब्दं समीपवचनं मन्यमानो नैते वेदा इति मन्येत तदाशङ्कानिवृत्त्यर्थं रहस्यग्रहणम् ।
+‘*Kalpa*,’ ‘*Ritualistic Treatise*,’—stands here for all the Subsidiary
+Sciences.—‘*Esoteric Treatises*’ are the Upaniṣads. Though these latter
+also are inoluded under the name ‘Veda,’ yet the text has mentioned them
+separately by the name ‘Esoteric Treatises,’ with a view to remove the
+misconception that these are not Veda,—a misconception that might arise
+from the fact that they have a second name ‘*Vedānta*,’ where the term
+‘*anta*’ denotes ‘proximity’ (only, not *identity*).
 
-- <u>अन्ये</u> तु **रहस्यं** वेदार्थं वर्णयन्ति । तेन न स्वरूपग्रहणमात्राद् आचार्यकनिष्पत्तिः,[^३८९] अपि तु तद्व्याख्यानसहितात् । तथा चाभिधानकोशे ऽभिहितम्- "विवृणोति च मन्त्रार्थान् आचार्यः सो ऽभिधीयते" (म्भ् १४. अप्प्। ४- २५२८) इति । मन्त्रग्रहणं वेदवाक्योपलक्षणार्थम् । 
+Others have explained the term ‘*rahasya*,’ ‘*Esoteric Treatises*,’ to
+mean ‘the meaning of the Vedic texts’; and by this explanation, the
+teaching of the verbal text only would not make one a ‘Teacher,’ it
+would be necessary ‘for him to explain the meaning also.’ To this effect
+we have the following declaration in the *Abhidhāna-Kośa*;—‘He who
+expounds the meanings of mantras is called the *Preceptor*”;—here the
+term ‘*mantra*’ stands for all Vedic passages.
+
+In accordance with this explanation, the learning of the meaning also,
+and not the mere getting up of the Text, would be prompted by the
+injunction of ‘becoming a Preceptor so that for every man the injunction
+of Vedic study would come to be carried out by other persons.
+
+“That may be so; but even when the Injunction of Vedic study is carried
+out by other persons, the purpose of the student becomes accomplished
+all the same.”
+
+In that case then, since ‘becoming a Preceptor’ is a purely voluntary
+act, if the Teacher does not have recourse to the necessary activity,
+then the carying out of the injunction of Vedic study would remain
+unaccomplished; so that this injunction of Vedic study would no longer
+be compulsory.
+
+Then again, as a matter of fact, the term ‘*rahasya*,’ ‘*esoteric
+treatise*,’ is not ordinarily known as denoting the ‘explanation of the
+meaning of Vedic texts.’
+
+From all this it is clear that the purpose of adding the term
+‘*rahasya*’ is as explained before.
+
+Or, the separate mention of the ‘*Upaniṣads*,’ may be explained as
+indicating the importance of that part of the Veda.
+
+As regards the declaration quoted above—‘he is called Preceptor who
+explains the meaning of mantras,’—this is not a *Smṛti* (and hence not
+authoritative). Nor is there any ground for taking the term ‘*mantra*’
+as standing for *Vedic texts* in general.
+
+For all these reasons it is dear that the purpose of the present
+Injunction lies in the reading of the mere Text. So that when the boy
+has accomplished the getting up of the words of the Veda, this also
+means that he has carried out the injunction of ‘becoming a
+Teacher.’—(140)
 
 
-[^३८९]:
-     M G 1st ed.: ācāryakaniṣpattiḥ
-
-- अस्मिंश् च व्याख्याने ऽर्थावबोधो ऽप्य् आचार्यकरणविधिप्रयुक्तः स्यान् न केवलं संपाठमात्रम् । ततश् च सर्वस्य सर्वः[^३९०] स्वाध्यायविधेर्[^३९१] अनुष्ठापकः स्यात् । अस्तु परप्रयुक्ते ऽप्य् अनुष्ठाने स्वाध्यायविधेर् ब्रह्मचारिणः स्वार्थसिद्धिः । यदा तर्हि काम्यत्वाद् आचार्यकरणविधेर् आचार्यो न प्रवर्तते, तदा स्वाध्यायविध्यर्थानुष्ठानं न प्राप्नोति । ततश् च नित्यः[^३९२] स्वाधायविधिः स्यात् । न च रहस्यशब्दो वेदार्थवचनतया प्रसिद्धः । तस्मात् पूर्वम् एव रहस्यग्रहणस्य प्रयोजनम् । प्राधान्याद् वा पृथग् उपादानम् । यत् तु "विवृणोति च मन्त्रार्थान्" इत्य् अस्मृतिर् एवैषा, मन्त्रशब्दस्योपलक्षणत्वे प्रमाणाभावात् । तस्मात् पाठाभिप्रायम् अस्य विधेः प्रयोजकत्वम्[^३९३] । अतो वेदस्वरूपग्रहणे माणवकस्य जाते आचार्यकरणविधिनिर्वृत्तिः[^३९४] ॥ २.१४० ॥
-
-
-[^३९४]:
-     M G: -nivṛttiḥ
-
-
-[^३९३]:
-     M G: aprayojakatvam
-
-
-[^३९२]:
-     M G: nitya
-
-
-[^३९१]:
-     M G 1st ed.: -vidhir
-
-
-[^३९०]:
-     M G 1st ed.: sarveṇa sarva-

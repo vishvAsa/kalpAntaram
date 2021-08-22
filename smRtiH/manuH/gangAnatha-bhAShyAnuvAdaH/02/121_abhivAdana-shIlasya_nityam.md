@@ -2,5 +2,19 @@
 title = "121 अभिवादन-शीलस्य नित्यम्"
 
 +++
+The ‘*habit of saluting*’ stands, not only for the uttering of words of
+salute, but for the act of addressing all men with respect and in the
+proper manner. The term ‘*habit*’ indicates that the man does it without
+any personal motive at all.
 
-सर्वान् एव प्रति पूर्वाभिभाषिता यथार्हाभिवादनशीलता न पुनर् **अभिवादन**शब्दोच्चारणम् एव । **शील**शब्देन प्रयोजनापेक्षाभाव उच्यते । **नित्यं** **वृद्धान् उपसेवते** प्रियवचनादिना । यथाशक्त्या ह्य् उपकारेण चाराधयते । तस्य **चत्वारि संप्रवर्धन्ते** । **आयुर् धर्मो** ऽमुत्र स्वर्गादिफलपादपः । **यशोबले** च प्रागुक्ते । अर्थवादो ऽप्य् अयं फलावगमहेतुः ॥ २.१२१ ॥
+‘*Constantly reveres elders*’—by talking agreeably, and also attends
+upon them with such service as he can render.
+
+‘*For him four things prosper*—*longevity, merit*’—which is the tree
+that hears fruit in the other world, in the shape of Heaven,—‘*fame and
+strength*’—as described above.
+
+Though this verse is purely valedictory, yet it serves to afford some
+idea as to the effects that ensue.—(121)
+
+

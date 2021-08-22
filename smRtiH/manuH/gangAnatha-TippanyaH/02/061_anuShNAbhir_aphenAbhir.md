@@ -2,17 +2,36 @@
 title = "061 अनुष्णाभिर् अफेनाभिर्"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 66), where it is
+explained that what the epithet ‘*anuṣṇabhiḥ*’ means is that the water
+should *not be heated by fire*, as is distinctly stated by Viṣṇu;—again
+on page 77, where it is stated to be the injunction of *ācamana* in
+general, for all the three castes;—also on page 79, where it is added
+that ‘*ekānte*’ means *not crowded*,—where alone the mind can be calm
+and collected,—as is laid down by Viṣṇu.
 
-**उष्ण**शब्दः क्वाथोपलक्षणार्थः । तथा हि पट्ःयते- "अशृताभिर् अद्भिः" इति । एवं च ग्रीष्मोष्मतप्ताः स्वभावोष्णाश् च न प्रतिषिध्यन्ते । **फेन**ग्रहणं बुद्बुदानाम् अपि प्रदर्शनार्थम् । पठितं च "हीनाभिः फेनबुद्बुदैः" (य्ध् १.२०) इति । **तीर्थेन धर्मविद्** इति वृत्तपूरणम् एव । शौचम् आप्तुम् इच्छुः **शौचेप्सुः** । शुद्धिकाम इत्य् अर्थः । नान्यथा शुद्धो भवति । **सर्वदा** । न प्रकरणाद् भोजन एव । किं तर्हि, न रेतोविण्मूत्रादिशुद्धिष्व्[^२१७] अपि । अपां भक्षणे कर्मत्वात् तृतीयानिर्देशः, न भक्षमाणानाम् एवायं धर्मः, अपि तु कारणभूतानाम् अपि पादाभ्युक्षणादौ । वयं तु ब्रूमो भक्षणे ऽपि करणम् एवापो न हि तासाम् आचमनं संस्कारः । **एकान्ते** शुचौ देशे । एकान्तो हि जनैर् अनाकीर्णः प्रायेण शुचिर् भवति ।
+On the tern ‘*prāgudaṅmukhaḥ*,’ this work has the following note,
+criticising Medhātithi’s explanation:—“The term *prāgudaṅmukhaḥ* must
+mean the *north-east quarter*, on the strength of the declaration of
+Hārīta; and in the Śruti also we see the term used in the sense of the
+*north-east*—*e. g*. in the passage referring to the branch of the
+*Palāśa* tree—
+
+‘*Prāchīmāharati*, *udīchīmāharati*, *prāgudīchīmāharati*’ and also in
+*Kātyāyanasūtra*, where it is said—‘*prāgudakpravaṇam devayajanam*,’
+where the term ‘*prāgudak*’ stands for the north-east. For these reasons
+the assertion of Medhātithi—that ‘the term *prāgudak* being never found
+used in the sense of north-east, it should not be explained as
+such,’—must be disregarded. Medhātithi has explained the compound
+*prāguduṅmukhaḥ* as a Bahuvrīhi compound composed of three terms,
+whereby the meaning comes to be that the man must face the East or the
+North.”
+
+The writer has conveniently ignored Medhātithi’s reference to Gautama
+1.35, in support of his interpretation.
+
+The second half of the verse is quoted in *Śuddhi-kaumudī* (p. 339);—and
+in *Hemādri* (Śrāddha, p. 983), which notes that ‘*anuṣṇābhiḥ*’ is meant
+to prohibit the water heated by fire.
 
 
-[^२१७]:
-     M G 1st ed.: netaro viṇmūtrādi-
-
-- **प्रगुदङ्मुखः** । मुखशब्दः प्रत्येकम् अभिसंबध्यते । "प्राङ्मुख उदङ्मुखो वा " एवं हि गौतमेन पठितम् (ग्ध् १.३५) । विग्रहश् चैवं कर्तव्यः प्रागुदङ्मुखम् अस्येति । नायं द्वंद्वगर्भो बहुव्रीहिः, अपि तु बहुव्रीहिर् एव । द्वंद्वगर्भतायां समाहारे समासान्तेनाकारेण भवितव्यम् । इतरेतरयोगो ऽपि नैव । न हि युगपद् उभयदिङ्मुखता संभवति । तत्र कश्चिद् आचमनभागः प्राङ्मुखेन कर्तव्यः कश्चिद् उदङ्मुखेनेत्य् आपतति, न चैकदेश आचमनम् । न च दिगर्थ उपादेयो येन परस्परापेक्षे संबध्येयाताम् । नापि दक्षिणपूर्वादिवत् प्रागुदक्शब्दो ऽपराजिताया दिशो वाचकत्वेन् प्रसिद्धो येन दिक्समासबहुव्रीहिर् ज्ञायते । तस्मान् नायं वृत्त्यन्तरगर्भो बहुव्रीहिः । अतो विकल्पः । उदाहृतं च स्मृत्यन्तरे- "प्राङ्मुख उदङ्मुखो वा शौचम् आरभेत" इति (ग्ध् १.३५) । यथा "बृहद्रथन्तरसाम षडहे" इति केषुचिद् अहःसु[^२१८] बृहत् केषुचिद् रथन्तरम्, न त्व् एकस्मिन्न् अहनि समस्तोभयसामत्वम् । २.६१ ॥
-
-
-[^२१८]:
-     M G: aharahaḥsu
-
-_उक्तम् आचमनं तीर्थेनापां भक्षणम् । परिमाणं तु नोक्तम् । अतस् तद् अवधारणार्थम् आह ।_

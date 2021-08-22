@@ -2,5 +2,14 @@
 title = "217 विप्रोष्य पादग्रहणम्"
 
 +++
+Having returned from a journey, he should clasp her feet—‘the left foot
+by the left hand, etc.’ (Verse 72).
 
-प्रवासाद् एत्य पादयोर् ग्रहणं "सव्येन सव्यम्" (म्ध् २.७२) इति । **अन्वहम्** अहन्य् अहनि । **अभिवादनं** भूमौ । **सतां** शिष्टानां एष धर्म आचार इत्य् **अनुस्मरन्** ॥ २.२१७ ॥
+‘*Daily*’—every day.
+
+‘*Salute her*’—on the ground.
+
+‘*Righteous*’—Cultured. Bearing in mind that such is this duty of
+cultured men.—(217)
+
+

@@ -2,15 +2,17 @@
 title = "117 लौकिकं वैदिकम्"
 
 +++
+This verse is quoted in *Madanapārijāta* (p. 25);—in *Vidhānapārijāta*
+(p. 501);—in *Parāśaramādhava* (Ācāra, p. 296), as mentioning the person
+to whom, among a number of people, the salutation is to be offered
+first;—and in *Vīramitrodaya* (Saṃskāra, p. 460); where ‘*laukikam*’ is
+explained as *arthaśāstrīyādi*, and ‘*ādhyātmikam*’ as
+*brahmapratipādakaśāstrīyādi*;—‘*pūrvan*’ as *bahumānyasamavāye
+prathamam*;—and it proceeds to point out that among the teachers
+enumerated, the succeeding one is to have priority over the preceding
+one;—also in *Aparārka* (p. 54) without comment;—and again on p.
+142;—also in *Smṛticandrikā* (Saṃskāra, p. 97) as laying down the order
+in which salutation has to be offered when there are a number of
+Brāhmaṇas assembled;—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 44a).
 
-अतिक्रान्तं प्रासङ्गिकम् । अभिवादनविधिर् इदानीं प्रक्रम्यते । 
 
-- लोके भवं **लौकिकं** लोकाचारशिक्षणम् । अथ वा गीतवादित्रकलानां ज्ञानं वात्स्यायनविशाखिकलाविषयग्रन्थज्ञानं वा । **वैदिकं** विधिनोदितं वेदवेदाङ्गस्मृतिविषयम् । आध्यात्मिकविद्यात्मोपनिषद्विद्या । आत्मोपचाराद् वा शरीरस्य वैदिकम् । एतज् **ज्ञानं** यतः शिक्षेत तं **पूर्वम्** उपदेष्टारं पुरुषम् **अभिवादयेत्** । प्रथमसंगमे यद् आशीःप्रयोगार्थं वक्ष्यमाणस्वरूपेण प्रयोगेण शब्देन संमुखीकरणं सो ऽभिवादयतेर् अर्थः । **पूर्वम्** इति प्रथमम् । तेनासौ संबोध्यः, न पुनस् तदीयं वचनम् अपेक्षितव्यम् । तदा हि प्रत्यभिवादयिता भवेत् । अभिवादयेद्[^३४७] इत्य् अनेनैव सिद्धत्वात् पूर्वशब्दो ऽनर्थक इति चेत् तन् न । सति ह्य् अस्मिन्न् अयम् अर्थो लभ्यते । धातूपसर्गार्थपर्यालोचनया ह्य् आभिमुख्येन वदनमात्रं प्रतीयते । अन्येनापि संबोधितस्य भवत्य् एव । ये तु पूर्वं स्वयोनिगुरुभ्य[^३४८] इति व्याचक्षते, तद् अप्रकृतसंशब्दितम् इत्य् उपक्ष्यम् ॥ २.११७ ॥
-
-
-[^३४८]:
-     M G 1st ed.: svayogi-
-
-
-[^३४७]:
-     M G 1st ed.: pratyabhivādayitābhivādayed

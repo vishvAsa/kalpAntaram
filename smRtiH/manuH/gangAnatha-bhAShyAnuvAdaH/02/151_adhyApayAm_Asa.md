@@ -2,5 +2,19 @@
 title = "151 अध्यापयाम् आस"
 
 +++
+The preceding verse has laid down the ‘fatherly treatment’ (of a
+youthful teacher); the present verse supplies, in its support, a
+descriptive eulogy of the kind called ‘*Parakṛti*.’ The ‘*son of
+Añgiras*,’—‘*Kavi*’ by name,—‘*the child*,’ youthful ‘*His
+fathers*’—*i.e*., his paternal and maternal uncles; the sons of these,
+and other elderly persons, equal (in dignity) to the father.
 
-पूर्वस्य पितृवद् वृत्तिविधेर् अर्थवादो ऽयं परकृतिनामा । **अङ्गिरसः पुत्रः कविर्** नाम **शिशुर्** बालः पितृतुल्यान् पितृव्यमातुलतत्पुत्रादीन् अधिकवयसो **ऽध्यपयाञ् चकार** अध्यापितवान् । स चाह्वाननिमित्तेषु तान्** पुत्रका** आगच्छत इत्य् आजुहाव । **ज्ञानेन परिगृह्य तान्** स्वीकृत्य शिष्यान् कृत्वा ॥ २.१५१ ॥
+‘*Taught*,’—instructed.
+
+Whenever occasion arose for calling them, he called them with the words
+‘*little sons*, come here.’
+
+‘*Having received and trained them*’—*i.e*., having accepted them and
+made them his pupils.—(151)
+
+

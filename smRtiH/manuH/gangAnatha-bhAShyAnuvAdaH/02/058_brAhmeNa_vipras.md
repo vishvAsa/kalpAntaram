@@ -2,19 +2,70 @@
 title = "058 ब्राह्मेण विप्रस्"
 
 +++
+The term ‘*tīrtha*,’ ‘Receptacle,’ means a clean vessel containing
+water; ‘*tīrtha*’ (literally) is that which exists for the purpose of
+saving people, *i.e*., freeing them from their sins. In some places
+‘*tīrtha*’ is explained as ‘that by which people descend into water.’ In
+the present context however it stands for that part of the palm of the
+hand which contains water; and we must take the word ‘*tīrtha*’ as
+applied to the hand, with a view to eulogise it, only figuratively; for
+water does not remain in the hand always (and as such it cannot be
+called *tīrtha* in its literal sense).
 
-**तीर्थ**शब्देन पवित्रम् उदकाधिकरणम् उच्यते । तारणाय पापप्रमोचनाय च तिष्ठतीति तीर्थम् । क्वचित् तु तरन्त्य् अनेनेति तीर्थम् उदकावतरणमार्गः । इह तूदकाधारकरतलैकदेश उच्यते । स्तुत्या वा तीर्थशब्दप्रयोगः । न हि तत्र नित्यस्था आपः । तेन **उपस्पृशेद्** आचामेत् । **ब्राह्मेणेत्य्** एतद् अपि स्तुत्यर्थम् एव । ब्रह्मा देवतास्येति । न हि तीर्थस्य देवता भवत्य् अयागरूपत्वाद् अमन्त्रत्वाच् च । यागरूपतां च केनचिद् धर्मेण शुद्धिहेतुत्वादिनाध्यारोप्य देवतातद्धितः । **नित्यकालं** शौचार्थे कर्माङ्गे च । **कः** प्रजापतिः, स देवतास्येति **कायम्** । एवं त्रिदशा देवता अस्येति **त्रैदशिकम्** । त्रिदशशब्दाद् देवताणिकृते स्वार्थे कः । देवतात्वं च पूर्ववत् । एभिस् तीर्थैर् **उपस्पृशेत्** । **विप्र**ग्रहणम् अविवक्षितम् । यतः क्षत्रियादीनं विशेषं वक्ष्यति । न चासत्यां सामान्यतः प्राप्तौ विशेषविधानम् उपपद्यते, "कण्ठगाभिस् तु भूमिपः" (म्ध् २.६२) इत्यादि । **न पित्र्येण** पितृदैवत्येन **कदाचिद्** अपि । स्फोटपिटकादिना ब्राह्मादितीर्थेष्व् अयोग्यताम् आयातेष्व् अपि ।
+Through the said receptacle, *he should sip water*.
 
-- <u>ननु</u> चाविधानाद्[^२१०] एव पित्र्यस्याप्राप्तिः । <u>अस्त्य्</u> अत्राशङ्का । पितृतीर्थज्ञापनार्थं तावत् पित्र्यं तयोर् अध[^२११] इत्य् अवश्यं वक्तव्यम् । न च तस्येह कार्यं निर्दिश्यते । कार्याकाङ्क्षायां[^२१२] प्रकृतत्वात् तेन कार्येण संबन्ध आशङ्क्येत । अद्य पुनः प्रतिषेधे सति पित्र्यम् इति समाख्ययैव कार्यावगतिः, उदकतर्पणादि पितृकर्म एतेन तीर्थेन कर्तव्यम् । एवं स्तुतिर् अन्वयिनी भवति । श्रुतिनोदितत्वाच् च ब्राह्मादीनां तदभावे प्राप्ताशङ्कानिवृत्त्यर्थं युक्तम् अस्याभिधानम् ॥ २.५८ ॥
+‘*Dedicated to Brahmā*’;—this also is a figurative eulogy. The term
+means ‘that of which Brahmā is the deity’; and certainly the said
+‘Receptacle,’ not being of the nature of a ‘sacrifice,’ or of a
+‘Mantra,’ could not be said to be ‘dedicated to a deity.’ The special
+nominal affix in the word ‘*brāhma*,’ which denotes ‘dedication to a
+deity,’ may however be justified on the assumption that the said
+receptacle resembles a ‘sacrifice’ in certain characteristics, such as
+being the means of sanctification and so forth.
+
+‘*Every time*’—*i.e*., for the purposes of cleanliness, as also as part
+of religious performances.
+
+‘*Kāya*’—‘Ka’ stands for Prajāpati: hence ‘*kāya*’ is that which is
+dedicated to Prajāpati.
+
+Similarly that which is dedicated to the ‘thrice-ten’—*i.e*., the
+Gods—is called the ‘*traidaśikam*.’ The word ‘*traidaśikam*’ is derived
+from ‘*tridaśa*’ with the deifìc affix ‘*aṇ*,’ and then the reflexive
+‘*ka*.’ And the deific character in this case also is of the same kind
+as before (in the term ‘*brāhma*’).
+
+Through these receptacles one should sip water. The mention of the
+*Brāhmaṇa* (Vipra) is not meant to be significant here. For special
+rules for the *Kṣatriya*, etc., are going to be added later on (in verse
+62, *et seq*.); and unless we had a general rule, there could he no room
+for specifications \[and it is the present verse alone that could be
+taken as formulating that general rule, and hence it could not be taken
+as restricted to. the Brāhmaṇa only.\]
+
+‘*Not through that dedicated to the* *Pitṛs*’—*i.e*., never through that
+of which the Pitṛs are the deity; even in cases where the aforesaid
+parts of the hand are disabled by the presence of boils and pimples.
+
+*Objection*.—“The mere fact of *what is sacred to Pitṛs* not having been
+enjoined makes it impossible to be used (why should the negation be
+re-iterated)?”
+
+*Answer*.—There is one danger in that: The next verse supplies the
+description of ‘the receptacle dedicated to Pitṛs’; while there is no
+use for it laid down in the present context; so that when one would
+proceed to seek for the use to which this particular receptacle could
+lie put, he might form the idea that it is to be used in connection with
+the act (*of sipping water*) that forms the subject-matter of the
+context. When, h owever, wc have the direct prohibition (of this
+receptacle, in connection with *water-sipping*), we gather the use for
+it from its very name, and conclude that the offering of water and such
+other rites for the *Pitṛs* are to be performed with ‘the receptacle
+dedicated to Pitṛs.’ In this manner the eulogy also becomes consistent.
+The ‘receptacles’ dedicated to Brahmā and the rest being directly
+enjoined as those to be used, people might be led into the mistake that
+in the absence of these the other may be used; hence with a view to
+prevent this it was only right to mention the *Pitrya-tīrtha* also (as
+that which should never be used).—(58)
 
 
-[^२१२]:
-     M G: -kāṅkṣāya
-
-
-[^२११]:
-     M G omit: adha
-
-
-[^२१०]:
-     M G 1st ed.: cāvidhānavad

@@ -2,11 +2,41 @@
 title = "107 यः स्वाध्यायम्"
 
 +++
+This also is supplementary to the Injunction under consideration. The
+Injunction has been understood to be a compulsory one; and the mention
+of results in connection with compulsory injunctions is purely
+valedictory; nor do we find any Injunctive affix (in the present verse);
+so that the principle enunciated in the *Mīmāṃsā Sūtra* 1.3.5 not
+applying to the present case, the mention of ‘milk, curd and the rest’
+could not be taken as laying down a fresh motive for another action; and
+when the compulsory character of the Injunction has been ascertained,
+the principle of the ‘also is not applicable; so tbat ‘milk’ and the
+rest could not be regarded as of any use. For all these reasons the
+passage must be regarded as a purely valedictory description; and it is
+based upon the fact that one who studies the Veda regularly becomes
+famous among people, and hence becoming the recipient of gifts of
+cattle, be naturally obtains large quantities of milk, etc.
 
-प्रकृतविधिशेषो ऽयम् । स च नित्यः समधिगतः । नित्ये च फलश्रवणम् अर्थवादः । न च विधिविभक्तिर् विद्यते । येन "एकस्य तूभयत्वे संयोगः पृथक्त्वम्" (प्म्स् ४.३.५) इत्य् अनेन न्यायेनाधिकारान्तरहेतुः पयःप्रभ्र्तिः स्यात् । लब्धे च नित्ये ऽधिकारे रात्रिसत्रन्यायो ऽपि नास्ति, येन पयआदीनि निष्फलत्वेन कल्पेरन् । तस्माद् अर्थवाद एवायम्, अधीयानस्य लोकपक्त्या प्रतिग्रहादिना गोलाभात् पयःप्रभृतेः प्रक्षरणानुवादस्यालम्बनम् । 
+‘*Svādhyāya*’—Veda;—‘*udhīte*’—recites;—‘for one year’—for one full year
+;—‘*in due form*,’—*i.e*., seated upon Kuśa-grass with its tips pointing
+eastwards;—‘*self-controlled*,’—*i.e*., with the organs under bis full
+control;—‘*clean*’—by means of bathing, etc.,; ‘*for him*’—for that
+man;—‘*constantly*’—as long as he lives;—‘*pours out*’—makes to flow,
+supplies;—‘*this*’—recitation;—‘*milk*, *curd*, *etc*.’
 
-- **स्वाध्यायं** वेदम् **अधीते ऽब्दं** संवत्सरं **विधिना** प्राक्कूलाध्यासनेन **नियतः** संयतेन्द्रियः **शुचिः** स्नानादिना **तस्य** पुरुषस्य **नित्यं** यावज्जीवं **क्षरति** स्रवति ददाति । एषः स्वाध्यायः । **पयोदध्**ईति । 
+Others hold that the terms ‘*payaḥ*’ (‘milk’) and the rest stand
+respectively for Merit, Worldly Prosperity, Pleasure and Pinal
+Liberation. Merit is called ‘milk’ because the two are similar in the
+point of purity; Worldly Prosperity is called ‘curd,’ because it
+resembles the latter in being a source of strengthening the body;
+Pleasure is called ‘clarified butter,’ because of the resemblance
+consisting in both containing ‘*Sneha*’ (smoothness); Pinal Liberation
+is called ‘honey’ because it combines in one all flavours. The meaning
+thus is that all the purposes of man are accomplished in a single year,
+what to say of the study being continued for a longer time!
 
-- <u>अन्ये</u> तु धर्मार्थकाममोक्षान् पयआदिभिः शब्दैर् अभिहितान् मन्यन्ते । **पयः** शुद्धिसामान्याद् धर्मः, **दधि** पुष्टिहेतुत्वाद् अर्थः, स्नेहसामान्यात् **घृतं** कामः, सर्वरसैक्यान् **मधु** मोक्षः । यावान् कश्चन पुरुषार्थः स सर्वो वेदाध्ययनात् संवत्सरेणैव प्राप्यते, किं पुनर् बहुना कालेन । 
+As the whole passage is purely valedictory, we need not be very
+particular as to what is the right signification of the terms ‘milk’ and
+the rest.—(107)
 
-- अर्थवादत्वात् पयआदिशब्दानां को ऽर्थो युक्त इति नाभिनिवेष्टव्यम् ॥ २.१०७ ॥
+

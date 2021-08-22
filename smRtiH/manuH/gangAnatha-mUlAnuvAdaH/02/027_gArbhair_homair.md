@@ -3,34 +3,63 @@ title = "027 गार्भैर् होमैर्"
 
 +++
 
-उक्तं संस्कारप्रयोजनं पावनः शरीरसंस्कारः पुण्यश् च । तत्र पावनत्वम् उच्यते- दुष्टस्य दोषापकर्षणम् । 
-
-- कुतः पुनः शरीरस्य दुष्टतेत्य् आशङ्कायाम् आह । **बैजिकं गार्भिकं चैन** इति । बीजे भवं बीजनिमित्तं वा **बैजिकम्** । एवं **गार्भिकम्** । **एनः** पापम् अदृष्टं दुःखकारणम् । तस्य बीजगर्भयोर् निमित्तभावाद् शुचित्वमात्रम् इहोच्यते । शुक्रशोणिते पुरुषस्य बीजम् । ते च स्वभावाद् अशुचिनी । गर्भाधान्य् अपि दोषसंक्रान्त्या दुष्टैव । अतस् तन्निमित्तम् अशुचित्वं पुरुषस्य संस्कारैर् **अपमृज्यते** ऽपनुद्यते । 
-
-- तान् इदानीं[^१३१] कांश्चिन् नामधेयेन, कांश्चित् संस्कार्यविशेषोपलक्षितान् कृत्वा निर्दिशति । **गार्भैर् होमैः** । गर्भे संभ्हुते नार्याः क्रियन्ते । गर्भं वा ग्रहीतुम् गर्भप्रयोजनकत्वाद् गार्भाः । नारी तत्र द्वारमात्रम् । प्रयोजकस् तु गर्भ एव । अतस् तत्प्रयुक्तत्वाच् च तदर्था होमाः पुंसवनसीमन्तोन्नयनगर्भाधानानि । होमशब्द उपलक्षणार्थः कर्ममात्रस्य । न हि गर्भाधानं होमः । एतेषां च कर्मणां दर्व्यदेवतादिरूपं गृह्यस्मृतिभ्यो ऽवसातव्यम् । यथैव गार्भैर् होमैर् एवं **जातकर्मा**ख्येन संस्कारेण । एवं **चौडेन** । चूडार्थः चौडः । **मौञ्जीनिबन्धनम्** उपनयनम् । तत्र हि मुञ्जविकारो मेखला बध्यते । अतस् तेनोपनयनकर्मोपलक्ष्यते । बन्धनम् एव **निबन्धनम्** । निः वृत्तपूरणः । जातकर्मादीनि संस्कारनामधेयानि कृतद्वन्द्वानि करणविभक्त्या एनोपमार्जनस्य निर्दिश्यन्ते ।
+Of twice-born men the taint of seed and womb is removed by the ‘Libations in connection with Pregnancy’ and by ‘Jātakarman’ (Rites attendant upon birth), ‘Chauḍa’ (Tonsure) and ‘Mauñjībandhana’ (Tying of the grass-girdle). (27)
 
 
-[^१३१]:
-     M G: tānīdānīṃ
-
-- संस्कारश् च सर्वः संस्कार्ये कार्यान्तरशेषभूते कृतार्थे करिष्यमाणार्थे वा कंचिद् दृष्टम् अदृष्टं वा विशेषम् आदधाति । "व्रीहीन् अवहन्ति" (आप्श्१.२१.७) इति, "व्रीहिभिर् यजेत" (श्ब् ११.३.१.३) इति यागं निर्वर्तयिष्यतां तुषकणविप्रमोक्षो दृष्टो विशेष आदधाति[^१३२] । "शिरसो ऽवतार्य स्रजं शुचौ देशे निदधाति" इति उपभुक्ताया आकीर्णाकारायाः प्रतिपत्तिनियमाद् अदृष्टः स्रजो विशेषः । तत्रेमे संस्काराः श्रीरशुद्ध्यर्थाः श्रुताः । न च गन्धाध्यपकर्षणं मृद्वारिसंबन्धाद् इव शरीरे दृश्यते । तेनेयं जन्मादिकालशुद्धिवद् अदृष्टविशेषा शुद्धिर् वेदितव्या । एतया च शुद्ध्या पूतः श्रौतस्मार्तेषु कर्मस्व् अधिक्रियते । यथा मन्त्रपूतम् आज्यं होमे । लौकिके तु कार्ये द्रव्यशुद्ध्यैव शुद्धिर् यथाज्यस्य भोजनादौ । स्पृष्यता हि कुमारस्य "अद्भिर् गात्राणि शुद्ध्यन्ति" (म्ध् ५.१०८) इत्य् एतावतैव भवति । तथा चाह- "न तदुपस्पर्शनाद् अशौचम्" (ग्ध् २.३) इति ।
+“How can these sacraments be regarded as subserving the purposes of actions? As regards the ‘sprinkling of butter,’ it is only natural that through the butter it should subserve the purposes of the sacrificial act, in Connection with which it has been prescribed. These sacraments however lie entirely, outside the pale of any action;—their injunction not occurring in the context of any sacrificial act. So it is difficult to say that they help in the sacrifice through the man (in the way in which the does through the butter). And unless it subserves the purposes of an act, consecration cannot be performed for its own sake; as in that case it should cease to be a ‘consecration’ (which is always subsidiary to something else), and become a primary act itself, and (when it ceases to be a consecration) this would mean the nullification of the statement ‘corporeal consecration should be performed’ (verse 26), and also of the Accusative ending in the statement ‘when, the boy is born, before he is touched by any other person, the father should etc.’ (which refers to the Birth-rites); and in that case, the sense of the injunction will have to be altered, as is done in the case of the injunction ‘Saktūñjuhoti’ [where the incompatibility of the Accusative ending leads us to alter it into the Instrumental ],—a particular result (as arising out of the consecration, as a primary act by itself) will have to be assumed; and so forth, a number of absurd assumptions will have to be made.”
 
 
-[^१३२]:
-     J omits: ādadhāti
+(1) Ādhāna, 
+(2) Puṃsavana, 
+(3) Sīmanta, 
+(4) Jāta, 
+(5) Nāma, 
+(6) Anna, 
+(7) Chaula, 
+(8) Mauñjī, 
+(9-12) the four Vratas, 
+(13) Godāna, 
+(14) Samāvartana, 
+(15) Vivāha, 
+and (16) Antya.’
 
-- <u>कथं</u> पुनः कर्मार्थत्वम् एतेषाम् । युक्तम् उत्पवनस्याज्यद्वारकं प्रकरणेन विनियोगात् । अमी तु बाह्या न कस्यचित् कर्मणः प्रकरणे श्रुताः । अतः पुरुषद्वारिका कर्मार्थता दुर्भणा । न चासति कार्योपयोगे स्वरूपतः संस्कार एव निर्वर्त्यः । तथा सति संस्कार्तैव हीयेत प्रधानकर्मता स्यात् । अतश् च "कार्यः शरीरसंस्कार" इति, "कुमारे जाते पुरान्यैर् आलम्भात्" (आश्ग् १.१३.१) इति च द्वितीया श्रुतिर् बाध्येत, "शत्रूञ् जुहोति" इतिवद् विनियोगभङ्गः स्यात् । तत्र चाधिकारकल्पनेत्यादिबह्वसमञ्जसं प्राप्नोति । 
 
-- <u>उच्यते</u> । न वयं श्रुत्यादिप्रामाण्यापेक्षं[^१३३] तादर्थ्यम् अङ्गलक्षणं ब्रूमः, अपि तूपकारकत्वम् । तच् चानङ्गत्वे ऽप्य् उपपद्यते । यथाधानविधिः स्वाध्यायाध्ययनविधिश् च । न ह्य् अत्र श्रुत्यादयः सन्ति । यदाहवनीये जुहोतीत्याहवनीयादयो विनियुक्ताः । अलौकिकत्वाच् च तत्स्वरूपस्याधानविधिनैव सिद्धिः "वसन्ते ब्राह्मणो ऽग्नीन् आदधीत" इति (त्ब् १.१.२.६) । अत आहवनीयादिनिर्वृत्तिद्वारेणाधानं क्रतुषूपयुज्यते । न चाङ्गम् । अध्ययनविधिर् अप्य् अर्थावबोधद्वारेण क्रतूपकारकः । एवम् अमी संस्काराः । एतत्संकृतस्याध्ययनविधिः, निष्पादिताध्ययनविध्यर्थस्य[^१३४] विवाहः, कृतविवाहस्याधानम्, आहिताग्नेर् अधिकार इत्य् अस्ति संस्कारकार्योपयोगिता बाह्यपुरुषसंस्काराणाम् ।
+(1) Garbhādhāna, 
+(2) Puṃsavana, 
+(3) Sīmanta, 
+(4) Bali, 
+(5) Jātakṛtya, 
+(6) Nāmakaraṇa, 
+(7) Niṣkrama, 
+(8) Annaprāśana, 
+(9) Chaulakarma, 
+(10) Upanayana, 
+(11-14) the Four Veda-vratas, 
+(15) Snāna, 
+(16) Udvāha, 
+(17) Āgrayaṇa, 
+(18) Aṣṭakā, 
+(19) Śrāvaṇī, 
+(20) Āśvayujī, 
+(21) Mārgaśīrṣī, 
+(22) Pārvaṇa, 
+(23) Utsarga, 
+(24) Upākaraṇa, 
+(25) Mahāyajñas;
 
 
-[^१३४]:
-     M G: niṣpādito 'dhyayana-
-
-
-[^१३३]:
-     M G: -āpekṣyaṃ
-
-- निषेकग्रहाच् च सर्वत्रापि पितुर् अधिकारः । तथा च जातकर्मणि मन्त्रः "आत्मा वै पुत्रनामासि" (श्ब् १४.९.४.२६) इति । तस्य ह्य् अपत्योत्पादनम् अपत्यानुशासनं च विहितम् । "ऋणानि त्रीण्य् अपाकृत्य" (म्ध् ६.३५) इति । "तस्माद् अनुशिष्टं पुत्रं लोक्यम् आहुः" (बाउ १.५.१७) इति । अनुशासनं च स्वाधिकारप्रतिपादनम्, तच् च वेदाध्यापनेनार्थावबोधपर्यन्तेन भवतीति वक्ष्यामः । अत एवोभयोपकारकाः संस्काराः, अपत्योत्पत्तिविधौ पितुर् माणवकस्य च संस्कृतसाध्यासु क्रियासु । तस्मात् पितुर् अधिकारस् तदभावे तत्स्थानापन्नस्य । तथा चाह "असंस्कृतास् तु संस्कार्या भ्रातृभिः पूर्वसंस्कृतैः" (य्ध् २.१२८) इति ॥ २.२७ ॥
-
-_येषु कर्मसु माणवकस्य संस्कारा उपकारकास् तान् इदानीम् उदाहरणमात्रेण दर्शयति ।_
+(1) Garbhādhāna, 
+(2) Puṃsavana, 
+(3) Sīmantonnayana, 
+(4) Jātakarma, 
+(5) Nāmakaraṇa, 
+(6) Annaprāśana, 
+(7) Chaula, 
+(8) Upanayana, 
+(9-12) the four Veda-vratas, 
+(13) Snāna, 
+(14) Sahadharmacāriṇīsaṃyoga, 
+(15-19) the five mahāyajñas, 
+(20-26) the seven Pākayajñas—Aṣṭakā, Pārvaṇa-Śrāddba, Śrāvanī, Āgrahāyaṇī, Caitrī and Āśvayujī, 
+(27-33) the seven Haviryajñas—Agnyādheya, Agnihotra, Darśapūrṇamāsa, Cāturmāsya, Āgrayaṇeṣṭi, Nirūdhapaśubandha, and Sautrāmaṇi, 
+(33-40) the seven Somayajñas—Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍasbī, Vājapeya, Atirātra and Āptoryamā’

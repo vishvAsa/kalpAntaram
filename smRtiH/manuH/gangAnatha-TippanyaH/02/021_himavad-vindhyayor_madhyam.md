@@ -2,9 +2,17 @@
 title = "021 हिमवद्-विन्ध्ययोर् मध्यम्"
 
 +++
+‘*Vināśana*’—This is the name given to the place where the river
+Sarasvatī becomes lost in the sands. Buhler says it lies in the district
+of Hissar, in the Punjab.
 
-उत्तरस्यां दिशि हिमवान् पर्वतः, दक्षिणस्यां विन्ध्यः । **विनशनं** सरस्वत्या अन्तर्धानदेशः । **प्रयागः** गङ्गायमुनयोः संगमः । एतान् देशान् अवधीकृत्य[^१०६] मध्यं **मध्यदेश**नामानं देशं विद्यात् । नात्युत्कृष्टो नातिनिकृष्ट इत्य् अतो ऽयं मध्यदेशः, न तु पृथिवीमध्यभवत्वात् ॥ २.२१ ॥
+Buhler curiously translates ‘*pratyak*’ by ‘east,’ while it means
+*west*.
+
+This verse is quoted in the *Smṛticandrikā* (p. 18), which explains
+‘*vinaśana*’ as the place where the Sarasvatī has disappeared;—in the
+*Vīramitrodaya* (Paribhāṣa, p. 56) which locates ‘Vinaśana’ in the
+*Kurukṣetra*,—in the *Dānamayūkha*, (p. 7),—and the *Saṃskāramayūkha*
+(p. 4).
 
 
-[^१०६]:
-     M G: avadhīn kṛtvā

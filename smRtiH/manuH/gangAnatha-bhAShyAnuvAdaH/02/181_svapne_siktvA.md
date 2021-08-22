@@ -2,17 +2,20 @@
 title = "181 स्वप्ने सिक्त्वा"
 
 +++
+When one renounces his vow of continence intentionally, then he has to
+perform the expiatory rite prescribed for the ‘*Avakīrṇī*’ (11.120 *et.
+seq*.); the present verse lays down what one should do when he does it
+unintentionally.
 
-कामाद् व्रतलोपेनावकीर्णिप्रायश्चित्तम्,[^४५३] अकामात् त्व् इदम् आह । **स्वप्न**ग्रहणम् अविवक्षितम्, **अकामत** इत्य् एतद् एव निमित्तम् । न हि स्वप्ने कामसंभवः । अतो यद्य् असुप्तस्यापि कथंचिद् अनिच्छया स्वमलासृगवयववत् प्रक्षरति **शुक्रं** तत्राप्य् एतद् एव प्रायश्चित्तम् । **अकामतो रेतः** **सिक्त्वे**दं प्रायश्चित्तं कुर्यात्, **पुनर् माम् इत्य्**[^४५४]** **एतद्[^४५५] **ऋचं जपेत्** ॥ २.१८१ ॥
+No significance attaches to the mention of ‘dream’; the *absence of
+intention* is the only necessary condition; and no intention can be
+present during dreams. Hence this same expiatory rite is to be performed
+in a case where, even though he may be not asleep, the flow occurs
+involuntarily, in the same manner as certain other fluids flow out of
+the body.
+
+The sense of the verse thus is that—‘if one drops his manhood
+unintentionally, he should perform this expiatory rite that he should
+recite the three verses, etc., etc.—(181)
 
 
-[^४५५]:
-     J omits: etad
-
-
-[^४५४]:
-     M G 1st ed.: punar mām ity
-
-
-[^४५३]:
-     M G 1st ed.: vratalopo nāva-

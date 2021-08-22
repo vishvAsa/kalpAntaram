@@ -2,5 +2,20 @@
 title = "017 सरस्वती-दृशद्वत्योर् देवनद्योर्"
 
 +++
+The sources of the knowledge of Dharma have been described; it has also
+been stated that in cases of couflict there is *option*; persons
+entitled to the performance of *dharma* have also been indicated in a
+general way. Now the author proceeds to describe those countries that
+are fit for the performance of Dharma, and where (on that account) it
+becomes incumbent to perform it.
 
-उक्तानि धर्मे प्रमाणानि । विरोधे च विकल्पो ऽभिहितः । अधिकारिणश् च सामान्येनोक्ताः । इदानीं येषु योग्यतया धर्मो ऽनुष्टेयताम् आपद्यते ते देशा वर्ण्यन्ते । **सरस्वती** नाम नदी । अपरा **दृषद्वती** । तयोर् **नद्योर्** **यद् अन्तरं** मध्यं **तं देशं ब्रह्मावर्त** इत्य् अनया संज्ञया **प्रचक्षते** व्यवहरन्ति शिष्टाः । **देव**ग्रहणम् अवध्यवधिमतोः स्तुत्यर्थम् । देवैः स निर्मितो ऽतः सर्वेभ्यो देशेभ्यः पावनतर इति ॥ २.१७ ॥
+‘*Sarasvatī*’ is the river bearing that name. ‘*Dṛṣadvatī*’ is another
+river; that which *lies between these two*, that region they call by the
+name of ‘*Brahmāvarta*’; that is the region which the cultured speak of
+by that name.
+
+‘*Created by the Gods*’—is for the purpose of eulogising the boundaries
+and the bounded region; the sense being that ‘the region is created by
+the Gods, and is therefore more sacred than all other regions.’—(17)
+
+

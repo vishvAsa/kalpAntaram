@@ -2,5 +2,14 @@
 title = "080 एतयार्चा विसंयुक्तः"
 
 +++
+The text of this verse, and hence its meaning, is entirely changed in
+*Vīramitrodaya* (Saṃskāra, p. 429); the words as quoted here are,
 
-**एतया** सावित्र्या । **विसंयुक्तो** हीनसंध्योपासनस् त्यक्तस्वाध्यायश् च । **गर्हणां** निन्दां **साधुषु** विशिष्टेषु **याति** प्राप्नोति । कीदृशीं गर्हणां प्राप्नोत्य् अत आह- **काले च क्रियया स्वया** । कालः "आ षोडशाद्" (म्ध् २.३८) इत्य् अस्मिन् वियुक्ते गते निन्द्यते । एवम् उपनीतो ऽपि स्वाध्यायारम्भयोग्यः सावित्रीवर्जितो व्रात्य एव भवति । त्रयाणां या साधारणी **स्वक्रिया** सेह निर्दिष्टा । सा चोपनयनम् एव । कालशब्दश् चैवमर्थवान् । अध्ययनादिस्वकर्मविवक्षायाम् एतावद् एव वाच्यं स्यात् यत् **क्रियया स्वयेति** । **योनि**शब्दो जन्मपर्यायो जात्यर्थं गमयति । विप्रादिजातीय इत्य् अर्थः । अर्थवादो ऽयं व्रात्यप्रायश्चित्तार्थः ॥ २.८० ॥
+> *etayar??'pi saṃyuktaḥ kāle?a kriyayā'mu?ā* \|  
+> *?ipra?triya?i?yonirprāha?ya?ṃ yāti prādhuṣu* \|\|
+
+it may be rendered thus—‘Equipped with this verse, and timely
+performance of this act, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth
+becomes acceptable among the good.’
+
+

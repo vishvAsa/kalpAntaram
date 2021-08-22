@@ -2,11 +2,30 @@
 title = "127 ब्राह्मणङ् कुशलम्"
 
 +++
+When a greeting has been offered and answered, and friendly relations
+have thereby become established, occasion arises for enquiry; and the
+present verse lays down the verbal forms whose diversity is based upon
+distinctions of caste; and the caste-distinction pertains to the persons
+questioned, not to the questioner. And, in as much as there is not very
+much of a difference in the meaning of the words laid down, the
+restriction is with reference to the verbal forms only. For instance,
+the terms ‘*anāmaya*,’ ‘freedom from distemper,’ and ‘*ārogya*,’
+‘freedom from disease,’ mean the same thing; nor is there much
+difference in the meanings of the terms ‘*kuśala*,’ ‘welfare’ and
+‘*kṣema*,’ ‘prosperity.’ Though the term ‘*kuśala*’ denotes
+*erpertness*, yet it is also used in the sense of the *non-deficiency of
+the body* and other things related to it.
 
-कृताभिवादनप्रत्यभिवादनयोः सौहार्दे प्राप्ते जिज्ञसाप्रश्ने जातिभेदाश्रयः शब्दनियमो ऽयम् इष्यते । प्रष्टव्यानां जातिनियमो ऽयम्, न प्रष्टॄणाम् । नात्यन्तभिन्नार्थत्वाच् च एतेषां स्वरूपनियमो ऽयं विधीयते । **आरोग्यानामय**शब्दौ समानर्थौ । एवं क्षेमकुशलशब्दाव् अपि नात्यन्तभिन्नौ । कुशलशब्दो यद्य् अपि प्रावीण्यवचनस् तथापीह संयोगिनाम् अर्थानां शरीराणां चानपाये वर्तते । एते ऽवश्यं प्रयोक्तव्याः । अन्येषाम् अपि यथाप्रतिभं विशेषजिज्ञासयाप्रतिषेधः[^३६०] । तथा महाभारते कस्मिंश्चिद् अध्याये दर्शितम् । 
+The words here laid down must be used; but this does not mean that the
+man should not make use of other words also, if he wishes to make
+detailed enquiries; as has been clearly shown somewhere in the
+
+On the strength of the expression ‘*having*,’ some people explain this
+verse to mean tbat the questions are to be put only to persons of equal
+age, and they do not apply to the case of the teacher and other
+superiors; for the teacher has to be ‘*approached*,’ not ‘*met*.’
+
+But, as a matter of fact, there is ‘meeting’ in ‘approaching’ also; so
+there is no force in the said explanation.—(127)
 
 
-[^३६०]:
-     M G 1st ed.: viśeṣe jijñā-
-
-- <u>केचिद्</u> इह **समागम्येति** लिङ्गान् न गुर्वादिविषयो ऽयं प्रश्नः, किं तर्हि सवयसाम् एव । अभिगमनं हि गुरौ विहितम्, न यदृच्छया समागमः । <u>अभिगमने</u> ऽपि समागमो ऽस्तीति यत्किंचिद् एतत् ॥ २.१२७ ॥

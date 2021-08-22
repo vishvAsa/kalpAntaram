@@ -2,29 +2,41 @@
 title = "038 आ षोदशाद्"
 
 +++
+Burnell, in applying the name ‘vrātya’ to ‘Aryans not Brāhmanised,’
+should have quoted his authorities.
 
-एवं तावन् मुख्यकाम्याव् उपनयनकालाव् उक्तौ । इदानीं पितुर् अभावे व्याध्यादिना वा कथंचिद् अनुपनीते माणवके कालातिपत्ताव् अनुपनेयता प्राप्ता, सत्य् अपि कालस्याङ्गत्वे तदभावे ऽधिकारनिवृत्तेः,[^१७२] यथा सायंप्रातःकालातिपत्ताव् अग्निहोत्रस्याकरणे । अतो विहितकालव्यतिरेकेण प्रतिप्रसवार्थम् इदम् आरभ्यते । **यावत् ष्ōडशं** वर्षं गर्भाद् आरभ्य तावद् ब्राह्मणस्योपनयनर्हता न निवर्तते । सावित्रीशब्देन तदनुवचनसाधनम् उपनयनाख्यं कर्म लक्ष्यते । **नातिवर्तते** नातिक्रान्तकालं भवतीत्य् अर्थः । 
+Kullūka notes that some people have taken the particle ‘*ā*,’ ‘till,’ in
+the sense of ‘until the beginning of’.
+
+This verse has been quoted in *Vīramitrodaya* (Saṃskāra, p. 342), where
+it is pointed out that the ‘sixteenth’ and other years mentioned here
+should be counted ‘from conception,’ as in the case of the *eighth* and
+others in verse 36. It points out that this verse lays down the many
+secondary occasions for the performance of the ceremony.
+
+This same work on p. 344, refers to the passage in Medhātithi, where a
+Vedic text is quoted, which connects. the *Gāyatrī Triṣṭup* and *Jagati*
+metres with the Brāhmaṇa, the Kṣatriya and the Vaiśya respectively; and
+as under 36, so here also, it explains that the limits fixed in this
+verse too are determined by the number of syllables in a foot of each of
+the three metres mentioned. A foot of the *gāyatrī* has eight syllables;
+so till the bṇy is sixteen years old, the Gāyatrī retains more than a
+third of its force; and it is only when the boy has passed his sixteenth
+year (corresponding to the sixteen syllables of the two feet of the
+*Gāyatrī*) that the force of the mantra becomes weakened. Similarly
+twenty two years correspond to the twenty-two syllables of the two feet
+of the *Triṣṭup*, sacred for the Kṣatriya, and twenty four years
+correspond to the twenty four syllables of the first two feet of the
+*Jagati* metre, sacred for the *Vaiśya*.
+
+It is quoted in *Parāśaramādhava* (Ācāra, p. 446); and in
+*Madanapārijāta* (p. 36) as the outside age-limit for *Upanayana*;—in
+*Hemādri* (Pariśeṣa, p. 751), which adds that ‘*ā*’ here denotes
+limit;—in *Nṛsiṃhaprasāda* (Saṃskāra. p. 41b);—and in *Smṛticandrikā*
+(Saṃskāra, p. 72), as Laying down the secondary times for the
+initiation.
+
+*Vidhānapārijāta*, (p. 471) has quoted the verse as laying down the
+secondary occasion for Upanayana;—so also *Nirṇayasindhu* (p. 184).
 
 
-[^१७२]:
-     M G: -nivṛtte
-
-- एवम् **आ द्वाविंशात् क्षत्रबन्धोः** क्षत्रियजातीयस्येत्य् अर्थः । बन्धुशब्दो ऽयं क्वचित् कुत्सायां प्रवर्तते । यत् स्वं कथं वेत्स[^१७३] ब्रह्मबन्ध[^१७४] इति । ज्ञातिवचनः यथा,
-
-
-[^१७४]:
-     M G: -bandhāv; J: -bandhav; this is probably a vocative: brahmabandho
-
-
-[^१७३]:
-     M G: ceccha
-
-- ग्रामता जनता चैव बन्धुता च सहायता ।
-
-- महेन्द्रस्याप्य् अगम्यासौ भूमिभागभुजां कुतः ॥
-
-द्रव्यवचनो "जात्यन्ताच्छ बन्धुनि" इति (पान् ५.४.९) । तत्र पूर्वयोर् अर्थयोर् असंभवात् तृतीयो ऽर्थो गृह्यते । द्वाविंशतेः पूरणो द्वाविंशो ऽब्दः तद्धितार्थः । 
-
-- **आ चतुर्विंशतेर् विशः** । प्राप्तो ऽप्य् अत्र पूरणप्रत्ययो वृत्तानुरोधान् न कृतः, प्रतीयते तु तदर्थः । न हि सुमुदायविषयायाश् चतुर्विंशतिसंख्याया अवधित्वेन संभवः । तदवयवस् तु चतुर्विंशो भवति संवत्सरो ऽवधिः । आङम् अभिविधौ व्याचक्षते । 
-
-- लिङ्गदर्शनं चोदाहरन्ति । "गायत्र्या ब्राह्मणम् उपनयीत, त्रिष्टुभा राजन्यम्, जगत्या वैश्यम्" इति । एतेषां च छंदसाम् इयता कालेन द्वौ पादौ पूर्येते । तावन्तं कालं बलवन्ति न त्यजन्ति स्वाश्रयभूतान् वर्णान् । तृतीये तु पादे ऽपक्रान्ते गतरसान्य् अतिवयांसि न्यूनसामर्थ्यानि भवन्ति समाप्तिम् उपयान्ति । यथा "पञ्चशता स्थविरो मनुष्यः" इति । अतश् च नैतेन वयम् उपासितानीति त्यजन्ति तं वर्णम् । ततो "न गायत्रो ब्राह्मणो, न त्रैष्टुभो राजन्यो, न जागतो वैश्यः" इति । सविता देवता यस्या ऋचः सा सवित्रीः; सा च गायत्री द्रष्टव्या प्रदर्शिता, गृह्याच् च । एवं क्षत्रियस्य त्रिष्टुप् सावित्री "आकृष्णेन" (र्व् १.३५.२) इति । वैश्यस्य जगती "विश्वा रूपाणि" (र्व् ५.८१.२) इति ॥ २.३८ ॥

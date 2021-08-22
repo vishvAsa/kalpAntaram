@@ -2,9 +2,19 @@
 title = "211 अभ्यञ्जनं स्नापनम्"
 
 +++
+‘*Annointing*’—rubbing of the head and body with oil, butter, and such
+things.
 
-घृततैलादिना केशकायोपदेहनम् **अभ्यञ्जनम्** । **गात्राणाम् उत्सादनम्** उद्वर्तनम् । कार्यसामान्यात् पादधावनम् अपि । सर्वथा शरीरस्पर्शसाध्या या काचिद् अनुवृत्तिः सा सर्वा प्रतिषिध्यते । वक्ष्यति च[^५३१] हेतुं "स्वभाव एष नारीणाम्" (म्ध् २.२१३) इति । **केशानां च प्रसाधनं** विन्यासरचनादिकरणम्, कुङ्कुमसिन्दूरादिना सीमन्तोत्थापनम् । प्रदर्शनार्थं चैतद् उक्तम् । तेन देहप्रसाधनम् अपि चन्दनानुलेपनानि निषिध्यन्ते ॥ २.२११ ॥
+‘*Shampooing*’—rubbing—‘*of limbs* this includes the washing of feet
+also.
+
+What is prohibited here is every service that involves the touching of
+the body; and the reason for this the author is going to explain below
+(in 213).
+
+‘*Dressing of the hair*’;—arranging the, hair into various shapes, and
+adorning the frontal hair with *Kuṅkuma*, *Sindūra* and other things.
+This has been mentioned only by way of illustration; hence the adorning
+of the body also with sandal-paint, etc., becomes interdicted.—(211)
 
 
-[^५३१]:
-     M G 1st ed.: yaṃ

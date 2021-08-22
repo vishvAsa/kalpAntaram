@@ -3,4 +3,4 @@ title = "221 सूर्येण ह्य्"
 
 +++
 
-पूर्वप्रायाश्चित्तविधेर् अयम् अर्थवादः । निम्लोचनेनाभिदुष्टः **अभिनिम्लुक्तः** । एवम् **अभ्युदितः** । **प्रायश्चित्तं** पूर्वोक्तं न करोति । तदा **महता** पापेन संबध्यते, न स्वल्पेन । नरकादिदुःखोपभोग्निमित्तम् अदृष्टपापम् उच्यते ॥ २.२२१ ॥
+If during one’s sleep the sun has set, and if during one’s sleep the sun has risen,—if he does not perform the Expiatory Rite, he becomes tainted by grievous sin.—(221)

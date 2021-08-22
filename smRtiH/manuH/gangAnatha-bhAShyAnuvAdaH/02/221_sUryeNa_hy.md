@@ -2,5 +2,13 @@
 title = "221 सूर्येण ह्य्"
 
 +++
+This is a commendatory statement pertaining to the aforesaid injunction
+of the expiatory rite.
 
-पूर्वप्रायाश्चित्तविधेर् अयम् अर्थवादः । निम्लोचनेनाभिदुष्टः **अभिनिम्लुक्तः** । एवम् **अभ्युदितः** । **प्रायश्चित्तं** पूर्वोक्तं न करोति । तदा **महता** पापेन संबध्यते, न स्वल्पेन । नरकादिदुःखोपभोग्निमित्तम् अदृष्टपापम् उच्यते ॥ २.२२१ ॥
+He who becomes tainted by the setting of the sun,—similarly who becomes
+tainted by the rising of the sun;—and he does not perform the expiatory
+rite prescribed above,—then he becomes tainted by ‘*grievous*’—not
+minor—‘*sin*.’ ‘Sin’ is the name of that unseen force which leads one to
+suffer pain in the form of living in hell and so forth.—(221)
+
+

@@ -2,5 +2,19 @@
 title = "216 कामन् तु"
 
 +++
+‘*May*’ signifies dis-satisfaction on the part of the author; or, it may
+bo construed with the next verse.
 
-**कामम्** इत्य् अरुचिं सूचयति । उत्तरेण चैतत् संबध्यते "विप्रोष्य पादग्रहणम्" (म्ध् २.२१७) इति । **भुवि** तु पादवन्दनम् इष्यत एव । **युवतीनां युवा** द्वयोर् यूनोर् अयं विधिः । यदि बालो ब्रह्मचारी वृद्धा वा गुरुपत्नी तदा पादोपसंग्रहणम् अविरुद्धम् । **असाव् अहम् इति** प्राग् उक्तस्य विधेर् अनुवादः । **विधिवद्** इति व्यस्तपाणिना ॥ २.२१६ ॥
+‘*On the ground*’—the clasping of the feet is not necessarily meant to
+be done.
+
+‘*The young man..... to the young wives*’;—*i.e*., what is here laid
+down pertains to cases where both parties are young. If the student is a
+child, or the Teacher’s wife is old, then the clasping of the feet is
+unobjectionable.
+
+‘*Here I am*’;—this refers to the rule prescribed before (in 123).
+
+‘*Proper*’—*i.e*., with upturned hands, etc. (see 72).—(216)
+
+

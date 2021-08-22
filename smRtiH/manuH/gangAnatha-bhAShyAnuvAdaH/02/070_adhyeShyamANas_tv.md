@@ -2,5 +2,41 @@
 title = "070 अध्येष्यमाणस् त्व्"
 
 +++
+The Future ending (in ‘*adhyīṣyamāṇaḥ*’) denotes the immediate future;
+and means ‘when engaging in study,’ ‘when beginning to study,’ ‘when
+desiring to proceed with his study.’
 
-प्रत्यासन्ने भविष्यति ऌडयं द्रष्टव्यः । अध्ययने प्रवर्तमानः, अध्ययनम् आरभमाणः, अध्येतुम् इच्छन्न् इति यावत् । **उदङ्मुखो ऽध्याप्यः** । गौतमीये तु प्राङ्मुखो वा शिष्यः प्रत्यङ्मुख आचार्यः इति (ग्ध् १.५४) । **आचान्तो यथाशास्त्रम्** इति । प्रागुक्तम् आचमनविधिं स्मारयति । **ब्रह्माञ्जलिः कृतो** येनेति । आहिताग्न्यादेर् आकृतिगणत्वान् निष्ठान्तस्य परनिपातः । "ब्रह्माञ्जलिकृद्" इति वा पाठः । **लघुवासा** धौतवासाः । प्रक्षालनेन लघुनी वाससी भवतः । अतो लघुत्वेन वाससः शुद्धिर् लक्ष्यते । अथ वायं रोमादिस्थूलवसनः चित्तव्याक्षेपे ताड्यमानो न प्रहारं वेदयेत् ततश् च न युक्तः पठेत् । अपनीयमाने तु वाससि गुरोः खेदः स्यात् । निरावरणे च काये रज्ज्वादिना ताड्यमानो महतीं बालो वेदनाम् अनुभवेत् । अतो दृष्टार्थं लघुवासस्त्वम् । जितानि नियमितानीन्द्रियाण्य् उभयान्य् अपि येन स **जितेन्द्रियः** । न इतस् ततो वीक्षेत, यत् किंचिन् न शृणुयात्, अध्ययने ऽवहितो भवेत्, इत्य् उक्तं भवति ॥ २.७० ॥
+‘*He* *shall be* *taught*, *with hist face* *to* *the north*.’—Gautama
+(1.65) has laid down that ‘the pupil should face the east, while the
+Teacher faces the west.’
+
+‘*When he has sipped water according to law*’—refers to the rules
+prescribed above regarding the sipping of water.
+
+The compound ‘*brahmāñjalikṛtaḥ*’ is to be expounded as ‘he by whom
+Brahmāñjali has been formed.’ the past participal adjective
+(‘*kṛtaḥ*’)being placed at the end, according to Pāṇini 2.2.37;—the
+present compound being analogous to such compounds as ‘*āhitāgni*’ and
+the like. Or, we may read ‘*brahmāñjalikṛt*.’
+
+‘*Wears light clothing*’;—*i.e*., with clothes thoroughly washed; a
+thorough washing always makes the cloth ‘light’; hence ‘lightness’
+indicates *cleanliness*. Or, ‘light clothing’ may be taken in its
+literal sense, the lightness of the clothing being meant to serve a
+visible purpose: if the boy were
+
+Heavily clad in thick woolen clothes, he would not feel the strokes of
+the rope with which he would be struck when found to be inattentive, and
+not feeling the stroke, he would not study in the proper manner; and if
+the teacher, on this account, found it necessary to remove the cloth
+from the back (each time that the rope would be laid on the back), this
+would tire the teacher himself; and further, if the boy were struck with
+the rope on the naked body, he, would feel great pain.
+
+‘*One who has his organs under full control*’;—*i.e*., one who has fully
+subdued all bis organs, both external and internal. The sense is that he
+should not turn his eyes this way and that, should not listen to
+anything and everything that may be talked of, he should devote all his
+attention to his own study.—(70)
+
+

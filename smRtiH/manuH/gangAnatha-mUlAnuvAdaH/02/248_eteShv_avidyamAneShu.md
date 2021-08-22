@@ -3,14 +3,10 @@ title = "248 एतेष्व् अविद्यमानेषु"
 
 +++
 
-**अविद्यमानता** सर्वेषाम् अभावः, यदि वा गुणहीनता । **एतेष्व्** असत्स्व् **अग्निशुश्रूषां** प्रयुञ्जीत, अग्निशरणोपलेपनम् अग्नीन्धनम् आचार्यवत् संनिधाननियमाद् भृत्यवद्[^६००] अहोरात्रासनम् एषाग्नेः **शुश्रूषा** तां[^६०१] कुर्वन् **देहं साधयेत्** शरीरं क्षपयेत् । यथान्धश् चक्षुष्मान् उच्यते एवं साधयेद् इति । **स्थानासन** एव **विहारः** तद्वान्, न कदाचिद् आसीत एवं विहरेत् ।
+When all these are non-existent, he should perfect his body, while he carries on the tending of the Fire, with only such diversions as standing and sitting.—(248)
 
 
-[^६०१]:
-     M G 1st ed.: śuśrūṣaitāṃ; G 2nd ed.: śuśrūṣatāṃ
+samudrasamyānam...... eṣāmanyatamat kṛtvā chaturtha kālāmitabhojinaḥ syuḥ ape? bhyapeyuḥ savanānukalpam sthānāsanābhyām viharanta ete tribhirvarṣaistadapahanti pāpam.
 
 
-[^६००]:
-     M G: vṛttavad
-
-- <u>अन्ये</u> तु मन्यन्ते- स्थानाय स्वस्तिकादिना यद् आसनं ध्यानकाले तत् **स्थानासनम्**, **विहारो** ऽन्यो भिक्षाचरणादिः ॥ २.२४८ ॥
+‘Sea-voyage (and a few other acts enumerated)..., having done any one of these acts, people should eat sparsely at the fourth part of the day, should enter water in the morning, at midday and in the evening; amusing themselves by sitting and standing, they destroy that sin after three years.’

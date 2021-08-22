@@ -2,5 +2,12 @@
 title = "131 मातृश्वसा मातुलानी"
 
 +++
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 458) in support of
+the view that the mother-in-law should be accosted with the clasping of
+her feet, whereby the prohibition of clasping of the feet of the
+mother-in-law, met with in some Smṛtis, has to be taken as referring to
+eases where the mother-in-law happens to be a youthful woman,—under
+which circumstances the Teacher’s wife also should not be clasped in the
+feet.
 
-एताश् च **गुरुपत्नीवत् संपूज्याः** प्रत्युत्थानाभिवादनासनदानादिभिः । **गुरुपत्नीवत्** इत्य् अनेनैव सिद्धे **समास्ता** इति वचनम् अन्यद् अप्य् आज्ञादि गुरुपत्नीकार्यं कदाचिद् अनुजानाति । इतरथा प्रकरणात् संपूज्या इत्य् अभिवादनविषयम् एव स्यात् । पलितवयसश् च स्त्रियः स्मर्यन्ते । कनीयसीनाम् अप्य् एष एवाभिवादनविधिः ॥ २.१३१ ॥
+

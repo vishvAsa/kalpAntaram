@@ -2,19 +2,34 @@
 title = "030 नामधेयन् दशम्याम्"
 
 +++
+‘*Daśamyām dvādaśyām*’—‘The tenth of twelfth day of the
+month’—Medhātithi, who also notes and rejects the explanation—‘after the
+lapse of the tenth or twelfth day—i.e., ‘on the lapsing of the period of
+impurity’—which is accepted by Kullūka.
 
-**दशम्यां** तिथौ **द्वादश्यां वस्य** दारकस्य **नामधेयं** कुर्वीत । णिजर्थो न विवक्षितः । तथा च गृह्यम्- "दशम्याम् उत्थाप्य पिता नाम करोति" (पार्ग् १.१७.१) इति । नामैव नामधेयम् । येन शब्देन कार्येष्व् आहूयते तन् नाम । "प्राङ् नाभिवर्धनात्" (म्ध् २.२९) इति जातकर्मणः प्रकृतत्वाज् जन्मनः प्रभृति दशमीद्वादश्यौ गृह्येते न चन्द्रतिथी ।
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 233) where it
+notes the latter explanation and says that it has been rejected by
+Medhātithi and Aparārka. It is curious that having the work of
+Medhātithi before him, the author of Vīramitrodaya did not note his
+explanation that the ceremony is to be performed on the 10th or 12th day
+(*tithi*) of the month.
 
-- <u>इह केचिद्</u> दशमीग्रहणम् आशौचनिवृत्तिर् इत्य् उपलक्षणार्थं वर्णयन्ति । अतीतायाम् इति चाध्याहारः दशम्याम् अतीतायां ब्राह्मणस्य द्वादश्यां क्षत्रियस्य पञ्चदश्यां वैश्यस्येति । 
+The verse is quoted in *Madanapārijāta* (p. 855) also, where however no
+explanation is given—and in *Nirṇayasindhu* (p. 371), where it is added
+that what is meant is that the naming of the Brāhmaṇa should be done *on
+the expiry of the tenth day*, of the Kṣatriya *on the expiry of the
+twelfth day*, of the Vaiśya *on the expiry of the sixteenth day* and of
+the Shudra *on the expiry of the twenty-first day*;—and the second half
+of the verse lays down substitutes.
 
-- <u>तद् अयुक्तं</u>[^१५३] । लक्षणायां प्रमाणाभावाज् जातकर्मवद् आशौचे ऽपि करिष्यते । यदि तु ब्राह्मणभोजनं विहितं क्वचित् तदा युक्ता लक्षणा । यदि दशमीद्वादश्यौ वक्ष्यमाणगुणयुक्ते भवतः तदा तयोः कर्तव्यम् । अथ न, तदान्यस्मिन्न् अपि **पुण्ये** ऽहनि । पुण्यान्य् अहानि द्वितीयापञ्चम्यादीनि । पुण्यं प्रशस्तम्, नवमीचतुर्दश्यादयो रिक्तास् तिथयः अपुण्याः । **मुहूर्तो** लग्नं कुम्भादि । तस्मिन् पुण्ये पापग्रहैर् अनधिष्ठिते गुरुभ्यां च दृश्यमाने । लग्नशुद्धिर् ज्योतिषाद् अवगम्यते । **नक्षत्रे** च गुणयुक्ते । नक्षत्रं श्रविष्ठादि, तद् यस्मिन्न् अहनि गुणयुक्तं भवति । नक्षत्रगुणाश् च क्रूरग्रहपापग्रहविष्टिव्यतीपातविवर्जितम्[^१५४] । वाशब्दः समुच्चये । तेन प्रशस्तायां तिथौ नक्षत्रे च शुद्धे लग्न इत्य् उपदिष्टं भवति । समुच्चयश् च ज्योतिषावगम्यः । अयं च परमार्थः । दशमीद्वाधशमीभ्याम् अर्वाङ् न कर्तव्यम् । उत्तरकालं च यद् अहर् नक्षत्रं लग्नं परिशुद्धं तद् अहर् एव कर्तव्यम् ॥ २.३० ॥
+This verse is quoted in *Saṃskāramayūkha* (p. 24), which adds that
+‘*daśamyām*’ has been taken as ‘*daśamyām añtāyam*’, ‘after the lapse of
+the tenth day’,—that no significance attaches to the causal affix in
+‘*kārayet*’;—in *Saṃskāṛaratnamālā* (p. 850), which adds that the causal
+affix in ‘*kārayet*’ has the reflexive sense;—in *Nṛsiṃhaprasāda*
+(Saṃskāra, p. 34a);—and in *Sṛmticandrikā* (Saṃskāra, p. 52), which
+explains meaning as ‘on the tenth day from the day of the birth, the
+*father* should do the naming’, it being the father’s business to do
+this.
 
 
-[^१५४]:
-     M G 1st ed.: -viṣṭipātavivarjitam
-
-
-[^१५३]:
-     G: tad uktaṃ
-
-_इदानीं यादृशं नाम कर्तव्यं तन् नियमयति स्वरूपतो ऽर्थतश् च ।_

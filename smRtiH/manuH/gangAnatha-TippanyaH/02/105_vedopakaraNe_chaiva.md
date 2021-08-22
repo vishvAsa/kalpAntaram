@@ -2,19 +2,30 @@
 title = "105 वेदोपकरणे चैव"
 
 +++
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 149), as an
+exception to the rule mentioning certain days as ‘unfit for study’;—and
+the term ‘*upakaraṇa*’ is explained as *aṅgāni*, ‘the subsidiary
+sciences’; and the ‘*nitya-svādhyāya*’ as that reciting of Vedic texts
+which constitutes the ‘*Brahmayajña*’. The same work quotes it again (on
+p. 314) as precluding the *Brahmayajña* from the scope of the rule
+prohibiting the reading of Vedic texts on certain days.
 
-**उपकरणम्** उपकारकं वेदाङ्गं कल्पसूत्रनिरुकाद्य् उच्यते । तस्मिन् पठ्यमाने **ऽनध्याये** ऽप्य् **अनुरोध** आदरो **नास्ति** । **अनध्याये** **होममन्त्रेषु चैव ह्य्** अनध्याया नादरणीयाः[^३२७] । अनध्यायेष्व् अध्येतव्यम् । न निरोध इति वा पाठः । निवृत्तिर् अनध्यायेष्व् अध्ययनस्य नास्ति । 
+It is quoted in *Vidhānapārijāta* (I, p. 534) as embodying an exception
+to the rule regarding days unfit for study;—and again in II, p. 262 as
+embodying an eulogy on *Brahmayajña*;—also in *Madanapārijāta* (p. 105)
+as laying down a case where the rules relating to time unfit for study
+do not apply;—and also in *Vīramitrodaya* (Saṃskāra, p. 537), as the
+foremost exception to the rules regarding days unfit for study.
+
+It is quoted in *Aparārka* (p. 137), where ‘*vedopakaraṇa*’ is explained
+as ‘*vedāṅga*’;—in *Smṛtisāroddhāra* (p. 141), which construes the
+passage as ‘*vedopakaraṇe naityake nānadhyāyaḥ*,’ as otherwise there
+would be conflict with other texts;—in *Smṛticandrikā* (Saṃskāra, pp.
+148 and 162) which adds the following notes: ‘*Vedopakaraṇa*’ are the
+*Vedāṅgas*—‘*nitya-svādhyāya*’ is *Brahmayajña*;—in *Hemādri* (Śrāddha,
+p. 775);—in *Saṃskāramayūkha* (p. 59), which supplies the same
+explanation of ‘*nityasvādhyāya*’;—and in *Saṃskāraratnamālā* (p. 338),
+which explains ‘*Vedopakaraṇa*’ as the *Vedaṇgas*, and notes that the
+singular number is used since the noun is treated as a *class-name*.
 
 
-[^३२७]:
-     M G: nādaraṇīyā
-
-- यद्य् अप्य् अध्ययनविधिधर्मो ऽनध्यायेष्व् अनध्ययनम्, अध्ययनविधिश् च स्वाध्यायविषयः, स्वाध्यायश् च वेदो, न च वेदशब्दवाच्यान्य् अङ्गानि, तथापि वेदवाक्यमिश्रत्वात् तद्बुद्धिः[^३२८] स्याद् इति स्पष्टार्थम् उच्यते । 
-
-
-[^३२८]:
-     M G 1st ed.: -miśratvabuddhiḥ; G 2nd ed.: -miśratvāt buddhiḥ
-
-- दृष्टान्तो वायम् । वेदाङ्गेष्व् इव वेदे ऽप्य् अनध्यायो नास्ति । 
-
-- **होममन्त्रेष्व्** अग्निहोत्रहोमे ये मन्त्रा अन्यस्मिन् वा सावित्रादिशान्तिहोमे । एतच् च प्रदर्शनार्थम् । शश्वज्जपप्रैषादिमन्त्राणां कर्माङ्गानां वैदिकवाक्योच्चारणमात्रधर्मो ऽनध्यायानध्ययनं स्वाध्यायाध्ययनविधिप्रयुक्त इति मन्यमानो होमादिमन्त्रेषु चतुर्दश्यादिष्व् अनुच्चारणं प्रपद्येत यः, स न्यायसिद्धेनार्थेनानूद्यमानेन प्रतिबोध्यते । स्वाध्यायाध्ययनविधिप्रयुक्तम् अनध्यायानुक्रमणं न वेदधर्मः, ततो नास्ति कर्माङ्गमन्त्रेष्व् अनध्यायः । **नैत्यके स्वाध्याये** पूर्वेण वाक्येन सर्वाश्रमिणां विहिते नित्ये स्वाध्यायविधौ ॥ २.१०५ ॥

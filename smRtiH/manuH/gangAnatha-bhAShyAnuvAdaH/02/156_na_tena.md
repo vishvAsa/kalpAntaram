@@ -2,5 +2,11 @@
 title = "156 न तेन"
 
 +++
+One is not called ‘*venerable by the fact that his head has turned
+grey*’;—*i.e*., the hairs of his head have become white. How then?
 
-**न तेन वृद्ध** उच्यते **येनास्य पलितं** धवलं **शिरः** शिरःस्थाः केशाः । कथं तर्हि **यो वै युवापि** तरुणो ऽपि अथ चाधीते **तं देवाः स्थविरं विदुः** ब्रुवते । देवाः किल सर्वस्य वेदितार इति प्रशंसा ॥ २.१५६ ॥
+He who, ‘*though young*’—is of young age—and yet carries on his
+study,—him ‘*the gods know*’—declare—‘*to be venerable*.’ The gods know
+all things, hence this is a praise (of the learned man).—(156)
+
+

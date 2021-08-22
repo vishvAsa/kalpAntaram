@@ -2,27 +2,19 @@
 title = "207 श्रेयःसु गुरुवद्"
 
 +++
+‘*Ācārye*’—is construed as qualifying ‘*guruputre*’ according to
+Medhātithi, who explains the two terms as ‘the teacher’s son who imparts
+instruction for a few days during the absence of the teacher’.—Another
+reading, suggested by
 
-**श्रेयांस** आत्मापेक्षया वित्तवयोविद्याद्यतिशययुक्ताः । तेषु **गुरुवद् वृत्तिं** यथासंभवम् अभिवादनप्रत्युत्थानादि सर्वदैव **समाचरेत्** । बहवो ऽत्र शब्दा गतार्थाः प्रयुज्यन्ते । तेषां वृत्तवशात् प्रयोगो न दुष्यति । **श्रेयःस्व्** इत्य् एतावाद् वक्तव्यम् । **गुरुवद्** इत्य् आक्षिप्यते । वृत्तिम् इत्यादि प्राप्तम् एव । तद् एतत् सर्वस्मिन्न् एवास्मिन् ग्रन्थे स्वयम् उत्प्रेक्ष्यम् । 
+Medhātithi is ‘*āryeṣu*’, explained as ‘duly qualified Brāhmaṇas’
+(Medhātithi, Kullūka and Govindarāja);—‘virtuous’ (Nārāyaṇa and
+Nandana);—‘older in age’ (Vīramitrodaya).
 
-- **गुरुपुत्रे तथाचार्ये** । आचार्यग्रहणेनाध्यापकत्वं लक्ष्यते । यद्य् असंनिहिते गुरौ तत्पुत्रो ऽध्यापयति कतिचिद् अहानि तदा तस्मिन् गुरुवद् वृत्तिः । पाठान्तरम्- "गुरुपुत्रेष्व् अथार्येषु[^५२५]" । आर्यशब्दो[^५२६] गुणवद्ब्राह्मणजातिवचनः । शूद्राच् चार्यो[^५२७] ज्यायान् इति प्रयोगदर्शनात्[^५२८] । न च सर्वस्मिन् गुरुपुत्रे वृत्तिर् एषा विधीयते । **गुरोश् चैव स्वबन्धुषु** । स्वग्रहणं गुरुवंश्यर्थम्[^५२९] । गुरुवंशसंबन्धितैवात्र निमित्तम्, न वयोविद्याद्यपेक्ष्यते ॥ २.२०७ ॥ 
-
-
-[^५२९]:
-     M G 1st ed.: -arthi
-
-
-[^५२८]:
-     M G 1st ed.: śūdrācāryau carmaṇi vyāyacchete tayor ācāryaṃ varṇaṃ jāpayantīti prayogadarśanāt
-
-
-[^५२७]:
-     G 2nd ed.: śūdrācāryo
+This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 462), where we
+have the following explanations:—‘*Śreyaḥsu*’ means ‘those possessed of
+superior learning and other qualifications;—‘*āryeṣu*’ means ‘older in
+age’;—‘*guroḥ svabandhuṣu*’ means ‘the teacher’s uncles and other
+relations—and in *Yatidharmasaṅgraha* (p. 34).
 
 
-[^५२६]:
-     M G: ācāryaśabdo
-
-
-[^५२५]:
-     M G: athācārye

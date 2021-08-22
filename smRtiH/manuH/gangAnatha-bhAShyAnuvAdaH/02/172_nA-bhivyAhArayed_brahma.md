@@ -2,15 +2,41 @@
 title = "172 नाऽभिव्याहारयेद् ब्रह्म"
 
 +++
+The phrase ‘*till the tying of the girdle*’ has to be construed with
+this verse; or the intended limit may be taken as supplied by the
+commendatory statement contained in the second half—‘*so long as he is
+not born in the* *Veda*.’
 
-"आ मौञ्जिबन्धनात्" इत्य् अनुवर्तते । यदि वा **यावद् वेदे न जायत** इत्य् अर्थवादतो ऽवधिपरिनिश्चयः । **ब्रह्म** वेदस् तन् नोच्चारयेत् । पितुर् अयम् उपदेशः । यथा मद्यपानादिभ्यो रक्षेत् तथा वेदाक्षरोच्चारणात् । 
+‘*Brahma*’—Vedic text—‘*he should not pronounce*.’ This is an
+instruction to the father of the boy; the sense being that he should
+guard the child from pronouncing Vedic texts in the same manner as ho
+guards him from the drinking of wine and such other acts.
 
-- <u>केचित्</u> त्व् इमम् एव ब्रह्माभिव्याहारनिषेधं प्राग् उपनयाद् व्याकरणाद्यङ्गध्ययने ज्ञापकं वर्णयन्ति । णिजर्थं व्याचक्षते- पित्रा न वचनीयः, बाल्यात् तु कानिचिद् अव्यक्तानि वेदवाक्यानि स्वयं पठतो न दोषः । 
+Some people interpret this prohibition of pronouncing Vedic texts to
+indicate the propriety of learning the Subsidiary Sciences before
+*Upanayana*. They further explain the causal affix (in
+‘*abhivyāhārayet*’) to mean that the child should not be made by his
+father to pronouce Vedic texts, there is no harm done if the child
+himself pronounces a few indistinct words of the Veda.’
 
-- <u>एतत् तु न युक्तम्</u> । स्मृत्यन्तरे हि पठ्यते- "न ब्रह्माभिव्याहरेत्" इति (ग्ध् २.५) । अर्थवादे च श्रुतं **शूद्रेण हि समस् तावद्** इति । यथा शूद्रो दुष्यति तद्वद् अयम् अपीत्य् उक्तं भवति । 
+But this is not right; as we read in another *Smṛti*—‘He should not
+*pronounce* Vedic texts’ (Gautama, 2.5). And in the following
+commendatory statement also it is stated that ‘*he is equal to a
+Śūdra,'* which means that the child pronouncing Vedic texts is just as
+reprehensible as the Śūdra.
 
-- **स्वधा**शब्देन पितृभ्यः कल्पितम् अन्नम् इहोच्यते । अथ वा पित्र्यं कर्म **स्वधा**शब्देनोच्यते । तन् **निनीयते** त्यज्यते प्राप्यते येन मन्त्रेण स **स्वधानिनयनः**- "शुन्धन्तां पितरः" (आश्श् २.६.१४) इत्यादिः । तं वर्जयित्वान्यमन्त्रो नोच्चारयितव्यः । अनुपनीतेनोदकदाननवश्राद्धादि पितुः कर्तव्यम् इत्य् अस्माद् एव प्रतीयते । पार्वणश्राद्धादौ त्व् अग्निमत्त्वाभावाद् अनधिकारः । पिण्डान्वाहार्यके[^४२७] हि तद् वक्ष्यते । तृतीये चैतन् निपुणम् उपपादयिष्यामः ॥ २.१७२ ॥
+The term ‘*svadhā*’ stands for the food offered to Pitṛs; or, the term
+may stand for the ‘rites performed in honour of Pitṛs’.; and the term
+‘*svadhāninayana'* means ‘that mantra by means of which the said food is
+offered or given’; *e.g*., such mantras as ‘*śundhantām pitaraḥ*’ and so
+forth. With the exception of such mantras, the boy should not pronounce
+any Vedic texts.
+
+It is from this that we deduce the fact that the uninitiated boy should
+offer to his father libations of water, the ‘*nava-śrāddha*’; etc. That
+he is not entitled to the *Pārvana* and other *śrāddhas* follows from
+the fact of his still being without the ‘Fire.’ These latter shall be
+described under the section on ‘*Piṇḍānrāhāryaka* (?).’ We shall explain
+all this in full detail in *Adhyāya III*.—(172)
 
 
-[^४२७]:
-     M G 1st ed.: -hāryakaṃ

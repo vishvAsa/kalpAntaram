@@ -2,15 +2,24 @@
 title = "248 एतेष्व् अविद्यमानेषु"
 
 +++
+‘*Non-existence*’ may mean either *death*, or absence of proper
+qualification.
 
-**अविद्यमानता** सर्वेषाम् अभावः, यदि वा गुणहीनता । **एतेष्व्** असत्स्व् **अग्निशुश्रूषां** प्रयुञ्जीत, अग्निशरणोपलेपनम् अग्नीन्धनम् आचार्यवत् संनिधाननियमाद् भृत्यवद्[^६००] अहोरात्रासनम् एषाग्नेः **शुश्रूषा** तां[^६०१] कुर्वन् **देहं साधयेत्** शरीरं क्षपयेत् । यथान्धश् चक्षुष्मान् उच्यते एवं साधयेद् इति । **स्थानासन** एव **विहारः** तद्वान्, न कदाचिद् आसीत एवं विहरेत् ।
+‘*When all these are non-existent*,’ *he should carry on the tending of
+the fire,—i.e*., he should continue to wash and besmear with clay the
+fire-house, he should kindle the fire, he should constantly keep near
+the Fire, just as his Preceptor used to do;—all this constitutes the
+‘tending of the fire.’ While doing all this, ‘*he should perfect his
+body*’—*i.e*., let it wear away; this is called ‘*perfecting*’ in the
+same manner (of contrary signification) as the blind man is described as
+‘having excellent eyes.’
+
+‘*Sthānāsanavihāravān*’—‘*with only such diversion as standing and
+sitting*’; *i.e*., he should amuse himself only by standing for sometime
+and sitting for sometime.
+
+Others have explained this to mean that he ‘should sit in the proper
+posture for meditation’—such as the *Svasti(k/h?*) and the rest—‘and
+should go about begging alms.’—(248)
 
 
-[^६०१]:
-     M G 1st ed.: śuśrūṣaitāṃ; G 2nd ed.: śuśrūṣatāṃ
-
-
-[^६००]:
-     M G: vṛttavad
-
-- <u>अन्ये</u> तु मन्यन्ते- स्थानाय स्वस्तिकादिना यद् आसनं ध्यानकाले तत् **स्थानासनम्**, **विहारो** ऽन्यो भिक्षाचरणादिः ॥ २.२४८ ॥

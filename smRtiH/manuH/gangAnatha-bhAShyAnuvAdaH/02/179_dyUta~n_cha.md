@@ -2,13 +2,35 @@
 title = "179 द्यूतञ् च"
 
 +++
+‘*Gambling*;’—playing with dice. Cock-fighting, etc., are also
+prohibited by this,—the term ‘gambling’ being used in its most general
+sense.
+
+‘*Quarelling with people*’;—wordy dispute, without any reason, on common
+matters; or asking people at random for news.
+
+‘*Calumniating*.’—Recounting the defects of other people through sheer
+ill-will.
+
+‘*Lying*’—describing things otherwise than what is actually seen or
+heard.
+
+Every one of these words has the Accusative ending, on account of its
+being governed by the verb ‘should abstain from’ (in the preceding
+verse).
+
+‘*The gazing at and touching of women*’;—‘*gazing at*’ means looking
+intently with a view to observe the shape of limbs; ‘this part of her
+body is beautiful—that is not so,’and so forth.
+
+‘*Touching*’ stands for *embracing*. These two are prohibited for fear
+of their leading up to sexual intercourse; and this is to be applied to
+the case of the young boy in some way or other.
+
+‘*Injuring of others*,’—*i.e*., doing harm; obstructing the fulfilment
+of some purpose. For instance, if he is questioned on matters relating
+to the marriage of girls, he should not say that a certain bridegroom is
+unfit, even if he be really so; he should remain quiet (say nothing), as
+lying has been prohibited.—(179)
 
 
-[^४५०]:
-     M G: -ālambham
-
-**द्यूतम्** अक्षक्रीडा । समाह्वयः कुक्कुटादिभिः प्रतिषिद्धः, द्यूतशब्दस्य सामान्यशब्दत्वात् । **जनैर् वादः** अकारणेन लौकिकेष्व् अर्थेषु वाक्कलहः, देशवार्ताद्यन्वेषणं प्रश्नो वा । **परिवादः** असूयया परदोषकथनम् । **अनृतम्** अन्यथा दृष्टम् अन्यथा च श्रुतं यद् अन्यथोच्यते । "सर्वत्र वर्जयेत्" इत्य् अनुषङ्गाद् द्वितीया । **स्त्रीणां च प्रेक्षणालम्भौ** । अवयवसंस्थाननिरूपणं **प्रेक्षणम्** इदम् अस्याः शोभते ऽङ्गम् इदं नेति । **आलम्भः** आलिङ्गनम् । मैथुनशङ्कायां चैतौ प्रतिषिध्येते बालस्य यथातथम् । **परस्योपघातो** ऽपकारः कस्यांचिद् अर्थसिद्धौ प्रबन्धः । कन्यालाभादौ पृच्छ्यमानेन अयोग्यस्याप्य् अयोग्यत्वं[^४५१] न वक्तव्यम्, तूष्णीम् आसितव्यम्, अनृतप्रतिषेधात् ॥ २.१७९ ॥
-
-
-[^४५१]:
-     M G 1st ed: prayogyasyāpy ayogatvaṃ; G 2nd ed.: ayogyasyāpy ayogatvaṃ

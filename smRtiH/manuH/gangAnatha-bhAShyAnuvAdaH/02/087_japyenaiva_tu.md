@@ -2,11 +2,29 @@
 title = "087 जप्येनैव तु"
 
 +++
+*By means of repeating Mantras alone the Brāhmaṇa succeeds*;—*i.e*.,
+acquires all desirable results,and also attains Brahman.
 
-**जप्येनैव** सिद्धिं काम्यफलावाप्तिं ब्रह्मप्राप्तिं वा प्राप्नुयात् । नात्र हृदि सङ्का कर्तव्या । यज् ज्योतिष्टोमादिभ्यो महाप्रयासेभ्यो भावनाभ्यश् च यल् लब्धव्यं यज् जपेन कथं सिध्यतीति । सिध्यत्य् एव । 
+No such doubt on this point should be entertained in the mind, as—“How
+can one acquire, by means of Mantra-repetition alone, such results as
+are obtained only by means of such elaborate acts as the *Jyotiṣṭoma*
+and the rest, which cost much effort, or from deep and prolonged
+meditations?”—Because as a matter of fact, such success does actually
+follow.
 
-- **कुर्याद् अन्यद्** अनित्यं[^२७५] ज्योतिष्टोमादि । अथ वा तद् अपि **न कुर्याद्** यतो **मैत्रो ब्राह्मण** उच्यते । मित्रम् एव मैत्रम् । सर्वभूतमैत्रीरतेन ब्राह्मणेन भवितव्यम् । अग्निष्ॐइयपशुहिंसायां च कुतो मैत्री । अयम् अर्थवाद् एव, न पुनः पश्वङ्गकर्मप्रतिषेधः, पूर्वशेषत्वावगतेः । प्रत्यक्षश्रुतिविहितत्वाच् च तेषाम् । अतिक्रान्तो जपविधिः ॥ २.८८ ॥
+‘*He may do anything else*.’—In the shape of the Jyotiṣṭoma and other
+non-com pulsory acts, —‘*or* *not do it*.’—For ‘one comes to be called a
+*Brahmaṇa if lie is of a friendly disposition*.’ ‘*Maitra*’ is the same
+as ‘*mitra*.’ The Brahmaṇa should be friendly to all living beings; and
+how can there be any *friendliness* (benevolence) in such acts as the
+killing of animals during the *Agnīṣomīya* offerings?
+
+This passage is purely valedictory; it is not a prohibition of the
+killing of animals during sacrifices; because it is only supplementary
+to what has gone before (and as such it cannot be taken as an
+independent prohibition), and because such killing is directly enjoined
+in the Veda itself.
+
+*Thus ends the process of Repeating Mantras*.—(87)
 
 
-[^२७५]:
-     M G 1st ed.: kuryān nityaṃ

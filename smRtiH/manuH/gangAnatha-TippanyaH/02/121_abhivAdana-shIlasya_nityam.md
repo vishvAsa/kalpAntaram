@@ -2,5 +2,9 @@
 title = "121 अभिवादन-शीलस्य नित्यम्"
 
 +++
+This verse is quoted in *Vīramitrodaya*, (Saṃskāra, p. 460);—in
+*Vidhānapārijāta* (p. 501) as describing the reward for saluting one’s
+superiors;—in *Parāśaramādhava* (Ācāra, p. 306) as eulogising the act of
+saluting one’s superiors;—and in *Smṛticandrikā* (Saṃskāra, p. 97).
 
-सर्वान् एव प्रति पूर्वाभिभाषिता यथार्हाभिवादनशीलता न पुनर् **अभिवादन**शब्दोच्चारणम् एव । **शील**शब्देन प्रयोजनापेक्षाभाव उच्यते । **नित्यं** **वृद्धान् उपसेवते** प्रियवचनादिना । यथाशक्त्या ह्य् उपकारेण चाराधयते । तस्य **चत्वारि संप्रवर्धन्ते** । **आयुर् धर्मो** ऽमुत्र स्वर्गादिफलपादपः । **यशोबले** च प्रागुक्ते । अर्थवादो ऽप्य् अयं फलावगमहेतुः ॥ २.१२१ ॥
+

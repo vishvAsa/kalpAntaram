@@ -2,9 +2,18 @@
 title = "247 आचार्ये तु"
 
 +++
+This injunction is meant for the Life-long Student.
 
-नैष्ठिकस्यायम् उपदेशः । असत्य् **आचार्ये**, तत्पुत्रे श्रोत्रियत्वादिगुणयुक्ते, गुरुपत्न्याम् आचार्याण्यां वा, सपिण्डे वा गुरोर् एव, वसेत् । तत्र च **गुरुवद् वृत्तिम् आचरेद्** भैक्षनिवेदनादि सर्वं कुर्यात् । दारशब्दो बहुवचनान्तो भार्यावचनो वैयाकरणैः स्मर्यते । स्मृतिकारास् त्व् एकवचनान्तम् अपि प्रयुञ्जते- "धर्मप्रजासंपन्ने[^५९९] दारे नान्यां कुर्वीत" (आप्ध् २.११.१२) इति ॥ २.२४७ ॥
+In the absence of the Preceptor, he should continue to live in
+residence, either with the Preceptor’s son, who is endowed with Vedic
+learning and other qualities, or with the Preceptor’s widow, or with the
+Preceptor’s ‘*Sapiṇḍa*’; and towards each of these he should behave as
+towards his Preceptor; *i.e*., he should present to him the food he
+obtains as alms, and so forth.
+
+The term ‘*dārā*,’ denoting, has been regarded by grammarians as always
+used with the plural ending; but writers on Smṛti use the singular form
+also; *e.g*., ‘*Dharmaprajā-* *sampanne dāre nānyām kurvīta*’
+(Āpaṣṭamba, 2.11.13).—(247)
 
 
-[^५९९]:
-     M G 1st ed.: dharmaprayāsayatne

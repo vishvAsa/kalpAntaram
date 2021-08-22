@@ -2,13 +2,29 @@
 title = "201 परीवादात् खरो"
 
 +++
+This is a statement commendatory of what has been enjoined in the
+foregoing verses. Hence it has to be explained as follows:—
 
-पूर्वप्रतिषेधशेषो[^५१८] ऽयम् अर्थवादः । अत एवं व्याख्येयम् । **परीवादाञ्** छ्रुत्वा **खरो भवति** । हेतौ ल्यप्लोपे वा कर्मणि पञ्चमी- परीवादं श्रुत्वा । **निन्दको** निन्दाश्रावी, उपचारान् निन्दक उच्यते । तथा संस्कर्तावघातकः । श्रवणनिषेधाद् एव साक्षात् करणनिषेधसिद्धिः । **परिभोक्ता** यो गुरुम् उपजीवति कुसृत्यानुवर्तते । **मत्सरी** गुरुसमृद्धिम् अभ्युच्चयं न सहते ऽन्तर् दह्यते । अनयोर् अप्राप्तत्वाद् अपूर्वो विधिः । परिवादपरीवादयोर् "घञ्य् अमनुष्ये[^५१९] बहुलम्" (पाण् ६.३.१२२) इति दीर्घत्वादीर्घत्वे ॥ २.२०१ ॥
+‘*Through cenmre*’;—*i.e*., by listening to the censuring of his
+Teacher—‘*one becomes an ass*’; the ablative being taken either as
+denoting *cause*, or as having the force of the participle; *parīvādāt*
+being construed as ‘*parīvādam śrutvā*,’ ‘having listened to censuring.’
+
+‘*Defamer*,’—the person listening to defamation is figuratively called
+‘defamer just as one preparing meat has been called the ‘Killer’ of the
+animal. As for the act of defaming itself, the prohibition of this
+becomes naturally implied by the prohibition of hearing it.
+
+‘*One who lives upon*’;—he who supports himself on what he receives from
+his Teacher; or one who behaves ill-mannerly towards him.
+
+‘*One who is jealous*’;—who does not brook the rise and advancement of
+his Teacher and burns within (at its sight).
+
+The two latter have not been spoken of before this; hence what is said
+in regard to these is to be regarded as direct injunction.
+
+‘*Parīvāda*’ and ‘*parivāda*,’ both forms—with long as well as with the
+short *ī*—are correct, according to Pāṇini, 6.3.122.—(201)
 
 
-[^५१९]:
-     M G J: ghañamanuṣye; my version follows Pāṇini's reading
-
-
-[^५१८]:
-     M G: pūrvapratiṣedhe śeṣo

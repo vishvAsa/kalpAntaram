@@ -2,9 +2,19 @@
 title = "191 चोदितो गुरुणा"
 
 +++
+‘*Prompted*’—ordered—‘*by the teacher, he put forth his exertion*’—make
+an effort—‘*to study*.’
 
-**नोदितो**[^५०६] **गुरुणा**नियुक्तो ऽपि कुर्याद् **अध्ययने योगं** यत्नम् । <u>ननु</u> चाहूतो ऽधीयीत इत्य् उक्तम् । कथम् अप्रणोदितस्य योग उच्यते । <u>गृहीत</u>वेदैकदेशस्य परिशेषकगुणार्थम् एतद् उच्यते । न तत्राचार्यनियोगो ऽपेक्षितव्यः । एवम् आचार्याय **हितं** यद् उदकुम्भाहरणादि श्रान्तसंवाहनादि तद् अप्य् अनियुक्तेन कर्तव्यम् ॥ २.१९१ ॥
+“It has been already laid down that ‘one should rend when wanted by the
+Teacher.’ How then can there he any exertion put forth by one who is
+*not prompted*?”
+
+What is here said refers to the student who has learnt a part of the
+Veda, and is going to learn the remainder; for this latter the
+‘instruction of the teacher’ is not necessary.
+
+Similarly he should do, without being told to do so, such helpful acts
+for the teacher as fetching jars of water, massaging his body whenever
+he happens to be fatigued, and so forth.—(191)
 
 
-[^५०६]:
-     G 2nd ed.: codito

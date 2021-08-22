@@ -2,9 +2,18 @@
 title = "209 उत्सादनञ् च"
 
 +++
+‘*Shampooing*’—rubbing after oiling—he shall not do.
 
-अभ्यक्तस्योद्वर्तनम् उत्सादनं न कुर्यात् । **गुरुपुत्रस्य** । **पादयोश् चावनेजनं** प्रक्षालनम् । अस्माद् एव प्रतिषेधाद् गुराव् एतद् अनुक्तम् अपि कर्तव्यतया प्रतीयते । यदा तु गुरुपुत्र एव गुरुः संपद्यते कृत्स्नवेदाध्यापनोपयोगितया, तदा स्वनिमित्तं तत्रोच्छिष्टभोजनाद्य् अस्ति । तद् अनेन न[^५३०] प्रतिषिध्यते । आतिदेशिकस्यानेन निषेधो नौपदेशिकस्य ॥ २.२०९ ॥
+‘*Washing of his feet*’ also he shall not do;—for the teacher’s son.
+
+It is from this prohibition that it follows that, even though not
+directly enjoined, these acts should be done for the teacher. When
+however the teacher’s son himself becomes the teacher, by becoming fully
+equipped to teach the entire Veda,—then the eating of the food left by
+him, etc., come to be done for his own sake; and the present prohibition
+does not apply to the acts under such circumstances. For their
+prohibition refers to what is due to the son, through the injunction
+transferring to him the treatment accorded to the teacher,—and not to
+what would be due to him by direct injunction.—(209)
 
 
-[^५३०]:
-     M G 1st ed. omit: na

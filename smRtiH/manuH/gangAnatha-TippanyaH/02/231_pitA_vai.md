@@ -2,5 +2,14 @@
 title = "231 पिता वै"
 
 +++
+“For the arrangement of these three fires, see the plan at the end of
+the first volume of Haig’s Aitareya Brāhmaṇa, and that at page 191 of
+Hillebrandt’s *Das Altindische Neu-und Vollmondsopfer*. These fires are
+on circular, semi-circular and square altars respectively. For the same
+comparisons, otherwise employed, see Āpastamba,
+2.7.2.”—(Burnell—Hopkins).
 
-केनचित् सामान्येनायं पित्रादीनां गार्हपत्यादिव्यपदेशः । **साग्नित्रेता** आधानाग्नित्रेता या **गरीयसी** महाफला । त्राणं त्राणार्थम् इता प्राप्ता त्रेता इति शब्दव्युत्पत्तिः ॥ २.२३१ ॥
+This verse is quoted in *Prāyascittaviveka* (p. 128);—and in
+*Smṛticandrikā* (Saṃskāra, p. 95).
+
+

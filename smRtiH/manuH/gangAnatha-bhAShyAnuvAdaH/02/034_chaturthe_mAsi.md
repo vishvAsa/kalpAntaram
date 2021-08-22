@@ -2,5 +2,27 @@
 title = "034 चतुर्थे मासि"
 
 +++
+‘*In the fourth month*’—from birth—‘*should be performed the ceremony of
+the child’s egress*’—being taken out of the room and shown the sun. This
+implies that for three months the child should he kept in the lying-in
+room itself.
 
-जन्म**चतुर्थमासे** **गृहाद्** बहिर् **निष्क्रमणम्** आदित्यदर्शनं **शिशोर्** बालस्य **कर्तव्यम्** । त्रीन् मासान् गर्भगृह एव वासयेत् । शिशुग्रहणं शूद्रस्यापि प्राप्त्यर्थम् । एवं षष्ठे माश्य् अप्य् अन्नप्राशनम् । पञ्चमासान् क्षीराहार एव । **यद् वा कुले** दारकस्य स्रेयस्यं **मङ्गल्यं** पूतना शकुनिकैकवृक्षोपहारादि प्रसिद्धम् । कालविशेषे वा तत् कर्तव्यम् । अयं च संस्कारशेषः । तेन नामधेयम् उक्तलक्षणव्यतिरेकेणापि यथाकुलधर्मं लभ्यते । इन्द्रस्वामी इन्द्रशर्मा इन्द्रभूमिः इन्द्रघोष इन्द्ररात इन्द्रविष्णुः इन्द्रदेव इन्द्रज्योतिः इन्द्रयशा इत्यादि कुलभेदेनोपपन्नं भवति ॥ २.३४ ॥
+The common name ‘*child*’ is used, with a view to include the *śūdra*
+also.
+
+Similarly ‘*in the sixth month*,’ the ceremony of First Feeding on
+grains. For five months the child should he kept purely on milk.
+
+‘*Or, whatever might be regarded as auspicious*’—conducive to
+welfare—‘*in the family*’ of the child; such well-known rites, for
+instance, as making offerings to *Pūṭanā*, to *Śakunika*, to certain
+trees, etc., etc. This may he done at specified times.
+
+This last clause is meant to apply to all ceremonies; so that the
+*naming* also may he done according to family custom, even though it be
+not in strict conformity with the rules laid down above. Hence with
+different families, such names become possible as—‘*Indrasvāmī*,’
+‘*Indraśarman*’ ‘*Indrabhūti*,’ ‘*Indrarāta*,’ *Indraviṣṇu*,’
+‘*Indradeva*,’ ‘*Indrajyotiṣ*,’ ‘*Indrayaśaṣ*,’ and so forth.—(34)
+
+

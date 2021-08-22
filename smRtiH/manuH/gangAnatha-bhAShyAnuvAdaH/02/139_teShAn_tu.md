@@ -2,5 +2,18 @@
 title = "139 तेषान् तु"
 
 +++
+‘*Among these, when they come together*,’—when they happen to
+meet,—‘*the person just passed his studentship and the King deserve to
+he honoured*’—by the ‘making of way,’ which is the particular form of
+‘honouring’ mentioned in the present context.
 
-**तेषां तु समवेतानाम्** एकत्र संनिपतितानां **मान्यौ स्नातकपार्थिवौ**, प्रकृतेन पथोदानेन । **नृपमानभाक्** नृपस्य सकाशान् मानं भजते लभते । षष्ठी निर्धारणे (पाण् २.३.४१) । चक्र्यादीनां त्व् अन्योय्नं विकल्पः । स च शक्त्यपेक्षः ॥ २.१३९ ॥
+‘*Receives the respects of the King*’—*i.e*., obtains honour from the
+King.
+
+The genitive case-ending has the sense of *selection* (according to
+Pāṇini 2.3.41)
+
+Among the rest—the person riding a chariot and others—there is option,
+dependent upon their respective capacity.—(139)
+
+

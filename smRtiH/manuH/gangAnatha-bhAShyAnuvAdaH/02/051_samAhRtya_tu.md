@@ -2,11 +2,52 @@
 title = "051 समाहृत्य तु"
 
 +++
+The term ‘*having collected*’ shows that the food should be obtained
+from several ladies, and a large quantity should not be obtained from a
+single lady.
 
-**समाहृत्य्**एति शब्दो बह्वीभ्य आहरणं दर्शयति । नैकस्याः सकाशात् बह्व्यो ग्रहीतव्याः । **तद्** इति यस्यानन्तरं शब्दसंनिधिर् वृत्त्यर्थस्य, न प्राकरणिकस्योपनयनाङ्गस्य । तस्य हि गृह्यकारैः- "अनुप्रवचनीयं श्रपयेत्" (आश्ग् १.२२.१२) इति विहितम्, न भोजनम् । "तिष्ठेद् अहःशेषम्" (आश्ग् १.२२.१) इति च कृतप्रातराशस्य चोपनयनम् । अतो नोपनयनाङ्गं भैक्षभोजनम् । 
+‘*It*’—refers to that which has gone immediately before this, *i.e*.,
+the food begged for ordinary eating, and not that which is done as part
+of the Initiation-rites, with which the context deals; specially as with
+regard to the latter all that the Gṛḥya-Sūtra prescribes is that the
+food should be ‘cooked,’ and nothing is said regarding ‘eating.’
+Further, the injunction that ‘the boy should fast for the rest of the
+day’ shows that the boy undergoes the Initiatory rite *after breakfast*;
+so that the actual *eating* of the food cannot be part of that rite.
 
-- **यावदर्थं** यावता बैक्ष्येण तृप्ताख्यप्रयोजननिर्वृत्तिः । न बहु भिक्षितव्यम् । **अमायया निवेद गुरवे** न कदन्नेन संस्कृतम् अन्नं प्रच्छाद्य कदन्नं गुरोः प्रकाशयेत् । कदन्नं[^१९३] किल एष न ग्रहीष्यतीत्य् अनया बुद्ध्या । निवेदनम् "इदं प्राप्तम्" इति प्रकटीकरणम् । अगृहीते गुरुणा अनुज्ञातो **अश्नीयात्** । कथं पुनर् निवेदनम् अदृष्टसंस्कारार्थम् एव न भवति, इतिहासप्रामाण्यात् । तथा च भगवान् व्यासः त्रितकूपाख्याने "गुरुणा गृहीतम्" इति दर्शितवान् । "अनुज्ञातो भुञ्जीत" (ग्ध् २.३९) इति यत् क्वचिच् छ्रूयते । **आचम्य प्राङ्मुखः** । आचमने प्राङ्मुखतेयम् आनन्तर्याद् इति केचित् । तद् अयुक्तम् । "प्रागुदङ्मुखः" (म्ध् २.६१) इत्य् आचमने दिङ्नियमो भविष्यति । तस्माद् भोजनेनैव संबन्धः । **शुचिः** । चाण्डालादिदर्शनम् अशुचि देशाक्रमनिष्ठीवनादि कृताचमनस्य भोजनकाले ऽनेन निषिध्यते ॥ २.५१ ॥
+‘*As much os way he needed*’;—*i.e*., just as much food as may be
+necessary for the satisfaction of hunger; large quantities of food
+should not be begged.
+
+‘*Having offered it without guile to the Teacher*;’—*i.e*., he should
+not show the teacher only the inferior articles of food, hiding with
+these the superior ones, with the view that the Teacher would not take
+any thing out of the inferior articles. The ‘*offering*’ consists of
+presenting it to him, saying ‘this is what I have obtained.’
+
+What the teacher does not take, ‘*he should eat*,’ after having been
+permitted by the teacher to do so.
+
+“Why should not the *offering* be regarded merely as an act producing in
+the food some transcendental effect (and not as a real offering meant to
+be accepted by the teacher)?”
+
+That it is not so is proved by historical evidence: says the revered
+Vyāsa in the story of *Hṛtakūpa*, where it is distinctly stated that the
+teacher actually took what was offered.
+
+That the boy should eat only after being permitted to do so, is laid
+down in several *Gṛhyasūtras*.
+
+‘*With his face to the east, after having sipped tenter*.’—Some people
+have asserted that *the facing of the east* is meant to be connected
+with the sipping of water,—the two being in close proximity. But this is
+not right; as the rule regarding *sipping*—that it should be done with
+the face towards the east or north,—will come later on. Hence what is
+mentioned here is connected with the *eating*.
+
+‘*Pure*.’—This means that after *rinsing the mouth* he should avoid,
+during meals, such tilings as looking at the *Cāṇḍāla* going to unclean
+places, spitting and so forth.—(51)
 
 
-[^१९३]:
-     M G 1st ed.: tadannaṃ

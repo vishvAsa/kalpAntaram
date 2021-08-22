@@ -2,19 +2,45 @@
 title = "125 आयुष्मान् भव"
 
 +++
+On salutation having been done, the answering greeting should be made by
+the Father to the accoster, with the words—‘Be long-lived, Oh Gentle
+One.’ The particle ‘*iti*’ in the text is meant to show that the
+preceding words constitute the formula. The use of such expressions also
+as (*a*) ‘*āyuṣmān edhi*,’ ' Prosper O Long-lived One,’ (*b*)
+‘*dīrghāyurbhūyāh*,’ ‘Be long-lived,’ (*c*) ‘*cirañjīva*,’ ‘Live
+long’—is permitted by the usage of cultured men.
 
-अभिवादने कृते प्रत्यभिवादः पित्राभिवादयिता एवं वाच्यः **आयुष्मान् भव सौमेति** । इत्य्शब्दः प्रकारे । आयुष्मान् एधि दीर्घायुर् भूयाश् चिरञ्जीवेत्य् एवमादिशब्दपरिग्रहः शिष्टाचारप्रसिद्धो भवति ।
+‘*The vowel* “a”’—which occurs at the end of the name of the person
+whose salutation is answered—‘*should be pronounced ultra-long*.’ The
+term ‘*pluta*,’ ‘ultra-long,’ stands for the vowel that is drawn out to
+the length of three moras. The vowel ‘a’ is mentioned only by way of
+illustration; it stands for ‘i’ and other vowels also. The ‘*end*’
+spoken of in the text is in relation to the vowels only; so that in the
+case of names ending in consonants also, the lengthening applies to the
+vowel that happens to be the *last*, ‘at the end.’ The term
+‘*pūrvākṣaraḥ*’ qualities the ‘vowel *a*,’ which is to be lengthened;
+and ‘*akṣara*’ here stands for the *consonant*; and the compound means
+‘that vowel of which the preceding syllable is a consonant’; *i.e*., the
+vowel occurring along with the consonant. What is meant is that it is
+the vowel ‘a’ already there tbat is to be lengthened, and not any such
+vowel as might be added; that is, the vowel that is already present in
+the name is to be lengthened out.
 
-- **अकारश् चास्य** प्रत्यभिवाद्यस्य यन् नाम तदन्ते यो ऽकारः स **प्लुतः** कर्तव्यः । प्लुत इति त्रिमात्रस्य संज्ञा । अकारग्रहणम् इकारादीनाम् अपि प्रदर्शनार्थम् । अजपेक्षम् एव चान्तत्वं द्रष्टव्यम् । व्यज्ञनान्तस्यापि यो ऽन्त्यः स्वरस् तस्य भवति । **पूर्वाक्षर** एव प्लुतभाविनो ऽकारस्य विशेषणम् एतत् । **अक्षरम्** अत्र व्यञ्जनम् । तत्र पूर्वश्लिष्टः[^३५७] स एवम् उच्यते । एतद् उक्तं भवति । पूर्व एव नागन्तुर् **अकारः** **प्लुतः** कर्तव्यः । किं तर्हि, य एव नाम्नि विद्यते स एव प्लावयितव्यः । 
+All this explanation is in accordance with the rules of the revered
+Pāṇini; as in the matter of the use of words and their meaning, the
+revered Pāṇini is more authoritative than Manu and other writers. And
+Pāṇini has laid down (in 8.2.83) that ‘in answering tile greeting of a
+non-śūdra, the *ṭi* should be ultra-long and the name ‘*ṭi*’ is given to
+that syllable of which the last vowel forms the beginning (which in tho
+present case is the ‘*a*,’ which is regarded as a part of itself and
+hence ‘having the last vowel for its beginning’). No significance is
+meant to be attached to the specification of the ‘*Brāhmaṇa*’ in the
+present verse; as what is here prescribed is applicable to the
+*Kṣatriya* and others also. The usage sanctioned by other Smṛtis is also
+the same, and no separate rules are laid down for these other castes.
+
+As an example we have such expressions as ‘Be long-lived, O Devaḍattā’;
+and one containing a name ending in consonant,—‘Be long lived, O
+Somaśarmān.’—(125)
 
 
-[^३५७]:
-     M G: pūrvasmin yasmin śliṣṭaḥ
-
-- सर्वं चैतद् एवं व्याख्यानं भगवतः पाणिनेः स्मृतिसामर्थ्येन[^३५८] । शब्दार्थप्रयोगे च मन्वादिभ्यो ऽधिकतरः प्रामाण्ये भगवान् पाणिनिः । स च "प्रत्यभिवादे ऽशूद्रे" (पाण् ८.२.८३) टेः प्लुतिं स्मरति । टिशब्देन यो ऽन्त्योच् तदादिशब्दरूपम् उच्यते । 
-
-
-[^३५८]:
-     M G 1st ed.: spṛśati sāmarthyena
-
-- **विप्र**ग्रहणम् अविवक्षितम् । क्षत्रियादीनाम् अप्य् एष एव विधिः । स्मृत्यन्तरसमाचारो ह्य् एवम् एव स्थितः । न चैषां विध्यन्तरम् अस्ति । अत्रोदाहरणम् "आयुष्मान् देवदत्त३" । व्यञ्जनान्तस्य "आयुष्मान् एधि सोमशर्म३न्" ॥ २.१२५ ॥

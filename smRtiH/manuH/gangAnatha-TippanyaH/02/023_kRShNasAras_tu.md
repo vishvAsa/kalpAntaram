@@ -2,37 +2,38 @@
 title = "023 कृष्णसारस् तु"
 
 +++
+‘*Kṛṣṇaṣāraḥ*—Burnell—“What animal is intended it is impossible to say.
+In Southern India, a pretty little, but rare, gazelle is taken for it.
+It does not however answer to the name so far as its colour (light
+brown) goes.”
 
-कृष्णश्वेतः कृष्णपीतो वा कृष्णसारङ्गो[^१०७] **मृगो यत्र चरति** निवसति । संभव उत्पत्तिर् यत्र देशे तस्य **स्व्भावतः,** न पुनर् देशान्तरात् प्राशस्त्योपायनादिना निमित्तेनानीतस्य कियन्तम् अपि कालं निवासः । **स देशो यज्ञियो** यागार्हो बोद्धव्यः । अतः कृष्णमृगचरणात् परो ऽन्यो **म्लेच्छदेशः** । म्लेच्छाः प्रसिद्धाः । चातुर्वर्ण्यजात्यपेताः प्रतिलोमजातीया अनधिकृता[^१०८] मेदान्ध्रशबरपुलिन्दादयः । 
+From the explanation given by Medhātithi the deer meant is that which is
+‘black with white spots’, or ‘black with yellow spots’; and there is no
+doubt that the animal meant is that which is black in the upper, and
+white (or yellow) in the lower parts of its body.
+
+*Medhātithi* (p. 76, 1. 26)—‘*Śūrpādhikaraṇe*’—in Mīmāṃsā Sūtra 1-2-26;
+and the next sentence ‘*etaddhi kriyate ityucyate*’ is from Śabara on
+that Sūtra,—the whole sentence being—‘*etat* (*i. e. shakyate
+kartumiti*) *hi kriyate ityucyate, na ca vartamānakālaḥ kaschidasti
+yasyāyam pratinirdeṣhaḥ*.’
+
+‘*Mleccadeśastvataḥparaḥ*’—Note the liberalised interpretation of this
+provided by Medhātithi. Burnell curiously enough regards this to be an
+‘order to dwell in this land’. There is no ‘order’ to dwell in the
+Mleccadeśa. The countries to be inhabited having been defined and all
+beyond these being designated as ‘Mlechadeśa’, the term ‘these
+countries’ of verse 24 refers, as Medhātithi clearly points out, to
+Brahmāvarta, Madhyadeśa, Brahmarṣideśa and Yajñīyadeśa; and the order to
+dwell contained in verse 24 also refers to those, and not to the
+‘Mlecchadeśa’, which is ‘beyond these.’
+
+This verse is quoted in the *Smṛticandrikā* (Saṃskāra, p. 18), which
+adds that the country described as ‘fit for sacrificial performances’ is
+meant to be so used only when the aforesaid four countries are not
+available;—in the *Vīramitrodaya* (Paribhāṣā,p. 56), which explains
+‘*Yājñiyaḥ*’ as ‘fit for sacrificial performances’, and ‘*Mlecca*’ as
+‘unfit *for sacrificial* performances’;—and in the *Saṃskāramayūkha* (p.
+4).
 
 
-[^१०८]:
-     M G J: pratilomajātīyānadhikṛtā
-
-
-[^१०७]:
-     J: kṛṣṇasārākhyo
-
-- न चानेन यागाधिकरणतास्य देशस्य विधीयते, "समे यजेत" इतिवत्, चरतीति वर्तमाननिर्देशात् । न हि यत्रैव चरितुं प्रवृत्तस् तदैव तत्र यागः शक्यः कर्तुम् । यागस्य हि देशो ऽधिकरणम्, तत्साधनकर्त्रादिकारकाश्रितद्रवादिधारणद्वारेण । न च द्वयोर् मूर्त्तयोर् एककाले एकदेशे स्थनसंभवः । न च कालान्तरलक्षणा न्याय्या, विधौ लक्षणाया अन्याय्यत्वात् । यथोकं शूर्पाधिकरणे- "एतद् धि क्रियत इत्य् उच्यते" (शब् १.२.२६) इति ।
-
-- <u>ननु</u> च नाभिव्यापक एवाधेयः, येन कृत्स्नाधाराभिव्याप्त्यैवाधिकरणार्थनिर्वृत्तिः स्यात्, "तिलेषु तैलम्" (श्वेउ १.१५) इतिवत् । किं तर्हि, एकदेशसंबन्धिनाप्य् आधेयेन भवति कृत्स्नस्याधारभावः, "प्रासाद आस्ते", "रथं अधितिष्ठति" इति (च्ड़्। पाण् १.४.४५) । एवम् हि ग्रामनगरसमुदायस्य नदीपर्वतान्ताद्यवधिकस्य देशस्य प्रकृतत्वाद् एकदेशे ऽपि पर्वतारण्यादौ चरन् सर्वम् आधारीकरोति । तेनायम् अदोषः मूर्तयोर् नैकदेशः संभवति । 
-
-- <u>उच्यते</u> । नैवात्र यष्टव्यम् इति विधिर् अस्ति । जानातेः परो विधायकः[^१०९] श्रुतः, न यजेः । यागस्य तत्रार्हता श्रुता, यागार्हो ऽसौ देश इति । सा च यागार्हतासत्य्[^११०] अपि विधौ घटते । एतेषु देशेषु यागाङ्गानि दर्भपलाशखदिरादीनि प्रायेण च भवन्ति । अधिकारिणश् च त्रैवर्णिका त्रैविद्याश्[^१११] च तेष्व् एव देशेषु दृश्यन्ते । अत एतदवलम्बनो यागार्हतानुवादः । कृत्यो ऽपि "ज्ञेयः" इत्य् अध्यारोपितविध्यर्थः "जर्तिलयवाग्वा जुहुयाद्" (सेए मुरोय) इतिवद् विधिवन् निगदार्थवाद एव ।
-
-
-[^१११]:
-     M G 1st ed.: vaidyāś; G 2nd ed.: traividyavaidyāś
-
-
-[^११०]:
-     M G: yāgārhatā saty
-
-
-[^१०९]:
-     M G 1st ed.: -vidhāyaka
-
-- यच् चोक्तम् **म्लेच्छदेशस् त्व् अतः परः** इत्य् एषो ऽपि प्रायिको ऽनुवाद एव । प्रायेण ह्य् एषु देशेषु म्लेच्छा भवन्ति । न त्व् अनेन देशसंबन्धेन म्लेच्छा लक्ष्यन्ते,[^११२] स्वतस् तेषां प्रसिद्धेर् ब्राह्मणादिजातिवत् । अथार्थद्वारेणायं शब्दः प्रवृत्तो म्लेच्छानां देश इति । तत्र यदि कथंचिद् ब्रह्मावर्तादिदेशम् अपि म्लेच्छा आक्रमेयुः, तत्रैवावस्थानं कुर्युः, भवेद् एवासौ म्लेच्छदेशः । तथा यदि कश्चित् क्षत्रियादिजातीयो राजा साध्वाचरणो म्लेच्छान् पराजयेत्, चातुर्वर्ण्यं वासयेत्, म्लेच्छांश् चार्यावर्त इव चाण्डालान् व्यवस्थापयेत्, सो ऽपि स्याद् यज्ञियः । यतो न भूमिः स्वतो दुष्टा, संसर्गाद् धि सा दुष्यत्य् अमेध्योपहतेव । अत उक्तदेशव्यतिरेकेणापि सति सामग्र्ये त्रैवर्णिकेनाकृष्णमृगचरणे ऽपि देशे यष्टव्यम् एव । तस्माद् अनुवादो ऽयम् **स ज्ञेयो यज्ञियो देशो म्लेच्छदेशस् त्व् अतः परः** इत्य् उत्तरविधिशेषः ॥ २.२३ ॥
-
-
-[^११२]:
-     M G: vakṣyante

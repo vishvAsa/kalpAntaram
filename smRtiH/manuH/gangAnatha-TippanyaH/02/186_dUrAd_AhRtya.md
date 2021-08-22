@@ -2,9 +2,23 @@
 title = "186 दूराद् आहृत्य"
 
 +++
+‘*Vihāyasi*’—In the air, *i*. *e*. on the roof of the house (Medhātithi,
+Govindarāja and Kullūka);—‘on a platform’ (Nārāyaṇa);—‘in the open air
+(Nandana);—‘in any pure place except the ground’ (Rāghavānanda).
 
-**दूर**ग्रहणम् अपरिगृहीतदेशोपलक्षणार्थम् । ग्रामात् किल दूरम् अरण्यम्, न च तत्र कस्यचित् परिग्रहः । अनुपलक्षणे हि दूरार्थे कियद् दूरम् इत्य् अनवस्थितः शास्त्रार्थः स्यात् । **आहृत्य** आनीय । **संनिदध्यात्** स्थापयेत् । **विहायसि** गृहस्योपरि । न हि निरालम्बने ऽन्तरिक्षे निधानं संभवति । **ताभिः सायंप्रातर् जुहुयात्** । आहरणं तु तात्कालिकम् अन्यदा वेच्छया । विहायसि[^४६०] निधानम् अदृष्टार्थम् इत्य् आहुः । <u>अन्ये</u> तु ब्रुवते संप्रत्यानीय्मानं वृक्षाद् दारु आर्द्रं भवतीति, गृहस्योपरि अन्यस्य वा प्रकारादेस् तत एवावगन्तव्यम् ॥ २.१८६ ॥
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 451), as laying
+down the method of ‘tending the fire’, and ‘explains it that ‘he should
+place the fuel somewhere in the open, not on the grouhd;’—in
+*Smṛtitattva* (p. 936) as laying down the morning and evening offerings
+into the Fire;—in *Vīramitrodaya* (Saṃskāra, p. 448), where ‘*dūrāt*’ is
+explained as from a spot not owned by any one’;—in *Vidhānapārijāta* (p.
+498), where *vihāyasi* is explained as ‘*antarīkṣe*’ ‘in the open air—in
+*Madanapārijāta* (p. 24), where ‘*dūrāt*’ is explained as ‘from a spot
+not owned by any other person’, and ‘*vihāyasi*’ as ‘*maṇḍapādau*’ ‘oh
+an altar or some such place’;—in *Saṃskāramayūkha* (p. 43), which says
+that, according to *Dharmaprakāśa*, ‘*vihāyasi*’ means ‘on the
+house-top’;—in *Smṛticandrikā* (Saṃskāra, p. 86), which explains
+*dūrāt*, as ‘from places not belonging to any person’, and *vihāyasi* as
+‘on the house-top’,—and in *Nṛsiṃhaprasāda* (Saṃskāra, p. 34a).
 
 
-[^४६०]:
-     M G 1st ed.: vihāyasa
