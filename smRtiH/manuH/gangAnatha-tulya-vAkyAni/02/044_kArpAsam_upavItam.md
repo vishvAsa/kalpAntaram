@@ -2,21 +2,73 @@
 title = "044 कार्पासम् उपवीतम्"
 
 +++
+*Baudhāyana-Dharmasūtra*, 5.5.—‘The Sacred Garment consists of the
+silken thread triplicated, hanging down to the navel and passing under
+the right arm.’ \[‘*Kauśa*’ has been taken to mean ‘silken’ by the
+*Kalpataru*, but ‘made of *kuśa*’ by the *Vīramitrodaya-* Saṃskāra, p.
+415.\]
 
-उपवीतशब्देन वासो विन्यासविशेष उच्यते । वक्ष्यति "उद्धृते दक्षिणे पाणौ" (म्ध् २.६३) इति । तच् च धर्ममात्रम् । तस्य न कार्पासता संभवत्य् अतो धर्मेण धर्मी लक्ष्यते, यस्यासौ विन्यासस् तत् कार्पासम् उच्यते । अर्श आदित्वाद् वा मत्वर्थीयो ऽकारः कर्तव्यः, उपवीतवद् उपवीतम् इति । 
+*Viṣṇu-Smṛti*, 27.19.—‘The sacred garment and the cloths are to be of
+cotton, hempen fibre and wool.’
 
-- **ऊर्ध्ववृत्तम्** ऊर्ध्वां दिशं दिशं प्रतिवर्त्यते वेष्ट्यते । **त्रिवृत्** त्रिगुणम् । कर्तनिकाभ्यो लब्धसूत्रभावस्य त्रिगुणीकृतस्येदम् ऊर्ध्वनिवर्तनं[^१८३] विधीयते । संहत्य तन्तुत्रयम् ऊर्ध्ववेष्टनेन रज्ज्वाकारं कृत्वा तेनोपवीतं कुर्यात् । सा च रज्जुर् एकैव धारयितव्या, तिस्रः पञ्च सप्त वा । यज्ञसंबन्धाद् धि तद् यज्ञोपवीताख्यां[^१८४] लभते । यज्ञार्थो ऽयम् उद्यते इति भक्त्योपचर्यते । तत्रेष्टिपशुसोमानां यज्ञरूपतयैकत्वाद् एकतन्तुकं क्रियते । अग्नित्रयसाध्यत्वाद् अहीनैकाहसत्रभेदाद् वा त्रितन्तुकम् । सोमसंस्थानां सप्तसङ्ख्यत्वात् सप्त वा तन्तवः । "त्रीणि सवनानि त्रिसंध्येन" इति पञ्च । सूत्राभावे[^१८५] पटादिनापि कर्तव्यम् । स्मृत्यन्तर एवम् उक्तम् । 
+*Paiṭhīnasi* (Vīra-Saṃskāra, p. 415).—‘Cotton thread is for all.’
 
+*Gobhila* (Vīramitrodaya-Saṃskāra, p. 415).—‘The sacred garment is made
+of cotton, cloth or *Kuśa* -string.’
 
-[^१८५]:
-     M G: pañcasūtrābhāve
+*Devala* (Vīramitrodaya-Sarhskāra,p. 415).—‘The Twice-born should wear
+the sacred garment made of cotton or flax or cow-hair or hemp or
+tree-bark or grass.’
 
+*Devala* (Parāśaramādhava, p. 449).—‘The sacred thread should be made of
+nine-yarned thread.’
 
-[^१८४]:
-     G: -ākhyaṃ
+*Ṛṣyaśṛṅga* (Parāśaramādhava, p. 449).—‘The purposes of the sacred
+garment should be served by means of the cloth, and in the absence of
+cloth, by means of the Triplicated Thread.’
 
+*Ādityapurāṇa* (Parāśaramādhava, p. 449).—‘The sacred garment to be worn
+should consist of either flax or cotton or hemp.’
 
-[^१८३]:
-     M G 1st ed.: triguṇīkṛtavedamūrdhani vartanaṃ
+*Bhṛgu and Kātyāyana* (Do., p. 416).—‘The Upavīta should consist of
+three threads twisted upwards, then twisted downwards, then twisted
+upwards again.
 
-- अविः मेषस् तस्य सूत्रं तेन कृतं **आविकसूत्रिकम्** । अध्यात्मादित्वाट् ठञ् कर्तव्यः । "अविकसूत्रिकम्" इति वा पठितव्यम् । तत्र च मत्वर्थीयेन ठना रूपसिद्धिः ॥ २.४४ ॥
+*Gṛhyapariśiṣṭa* (Do.).—‘One thread should be folded thrice and then
+twisted three times.’
+
+*Devala* (Do.).—‘The sacred garment should consist of nine threads, with
+a single knot.’
+
+*Paiṭhinasi* (Do.).—‘The sacred garment should be of cotton for the
+Brāhmaṇa consisting of six triplicated threads; for the Kṣatriya, of
+flax, and for the Vaiśya, of wool.’
+
+*Bhṛgu* (Do., p. 421).—‘For the Student there should be only one
+Upavīta, for the Householder and the Recluse, two; and for the
+Renunciate also only one.’
+
+*Bhṛgu* (Aparārka, p. 58).—‘Three threads should he twisted upwards in
+three folds; the Upavīta shall be triplicated; and it should have a
+single knot.’
+
+*Vaśiṣṭha* (Do.).—‘For the Accomplished Student there should he two
+Upavītas.’
+
+*Kaśyapa* (Do.).—‘For the Householder, they may he three, four, five,
+eight or ten; for the Student only one; so also for the Recluse.’
+
+*Kātyāyana* (Do., p. 422).—‘One should always wear the Upavīta.’
+
+*Kātyāyana* (Parāśaramādhava, p. 449).—‘It should he of three threads
+three-fold, twisted upward and turned downwards. It has one knot.’
+
+*Pariśiṣṭa* (Do., p. 423).—‘During acts in honour of Gods, the garment
+should be worn on the left shoulder (technically called *Upavīta*);
+during those in honour of Pitṛs, on the right shoulder (technically
+called *Prāchīnāvīta*); during malevolent rites, on both shoulders,
+hanging over the chest down to the navel; and during the vulgar act,
+hanging on the hack (technically called *nivīta*).’
+
+*Śruti* (Darśapūrṇamāsa section—quoted by Śabara, 3.4.1).—‘*Nivīta* for
+men, *Prachīnāvīta* for Pitṛs and *Upavīta* for Gods.’

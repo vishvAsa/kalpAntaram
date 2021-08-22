@@ -2,17 +2,33 @@
 title = "145 उपाध्यायान् दशाचार्य"
 
 +++
+*Gautama-Dharmasūtra*, 2.58.—‘Among elders the Ācārya is the highest;
+the mother—say some.’
 
-स्तुत्यक्रमेण प्रकृष्टपूर्वविधानम् । उपाध्यायाच् छ्रेष्ट आचार्यस् तस्मात् पिता ततो ऽपि मातेति । दशादिसंख्यानिर्देशः स्तुतिमात्रम् । पूर्वस्मात् पूर्वस्मात् परस्य परस्यातिशयो विवक्षितः । अत एव सहस्रं पितुर् इति वचनम् । 
+*Vaśiṣṭha*, 13.17.—(Manu’s words reproduced.)
 
-- **उपाध्यायान् दशातिरिच्यते** । दशभ्य उपाध्यायेभ्यो ऽधिकः । कथं पुनर् अत्र द्वितीया । अतिर् अयं कर्मप्रवचनीयः । उपाध्यायान् अतिक्रम्यातिक्रम्यातिरिच्यते **गौरवेण** सातिशयेन युज्यते । अथ वाधिक्यम् अतिरेकः तद्धेतुके ऽभिभवे धातुर् वर्तते । गौरवाधिक्येनोपाध्यायान् अभिभवति । **अतिरिच्यत** इति कर्मकर्तरि द्वितीया चाविरुद्धा "दुहिपच्योर् बहुलं सकर्मकयोः" (पाण् वार् १४ ओन् ३.१.८७) इति बहुलग्रहणात् । 
+*Yājñavalkya*, 1.35.—‘These deserve to be respected in the order in
+which they are mentioned; the mother is more venerable than all of
+them.’
 
-- <u>ननु</u> चानन्तरम् एव वक्ष्यति "गरीयान् ब्रह्मदः पिता" इति, इह चाचार्यात् पितुर् आधिक्यम् उच्यते तद् इतरेतरव्याहतम् । <u>नैष दोषः</u> । इहाचार्यो नैरुक्तदर्शनेनाध्यापकः, संस्कारमात्रेणाचारोपदेशमात्रेण चाभिप्रेतः- आचार्य आचारं ग्राहयतीति । न चैष नियमः स्वशास्त्रसिद्धाभिर् एव संज्ञाभिर् व्यवहारः । गुरुशब्दो ह्य् अत्र पितरि परिभाषितः, आचार्ये च तत्र तत्र प्रयुज्यते । तेन स्वल्पोपकाराद् उपनयनमात्रकराद् आचारग्राहकाद् अध्यापनरहिताद् इदं पितुर् ज्यायस्त्वम् । 
+*Bhaviṣya-Purāṇa* (Vīramitrodaya-Saṃskāra, p. 478).—(Manu’s words
+reproduced.)
 
-- अस्मिंश् च क्रमे विवक्षिते समवाय एतेषां माता प्रथमं वन्द्या ततः पिता तत आचार्यस् तत उपाध्यायः ॥ २.१४५ ॥
+*Śaṅkha-Likhita* (Vīramitrodaya-Saṃskāra, p. 479).—‘One should not
+intervene between his Father and Mother; he may speak in favour of his
+mother: as she is the person that bore him and brought him up.’
 
-_मुख्याचार्यसंनिधौ पितरि च संस्कर्तरि संनिहिते कः_[^४००]_ क्रमः । अत आह । _
+*Nārada* (Vīramitrodaya-Saṃskāra).—‘Of the two the Father is superior,
+on account of the supremacy attaching to the seed: in the absence of the
+Father, the Mother is the highest; and in her absence, the elder
+brother.’
 
+*Purāṇa* (Parāśaramādhava, p. 304).—‘By law these are two *gurus* for
+man: the Father and the Mother; between these two, the Father is
+superior, then the Mother, then the elder brother.’
 
-[^४००]:
-     M G: tatra
+*Vyāsa* (Do.).—‘For ten months she keeps the child in her womb,
+suffering from shooting pains, then she gives him birth, being rendered
+unconscious in the process; devoted to her son, she regards him as
+superior even to her very life; who can recompense her even in a hundred
+years?’

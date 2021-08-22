@@ -2,11 +2,34 @@
 title = "107 यः स्वाध्यायम्"
 
 +++
+*Viṣṇu-Smṛti* (30. 34-38).—‘When one recites the Ṛk verses, he satisfies
+the Pitṛs with clarified butter;—when he recites the Yajuṣ verse, he
+satisfies them with honey;—when he recites the Sāma verses, he satisfies
+them with milk;—when he recites the Atharva verses, he satisfies them
+with meat;—when he reads the Purāṇas, the Itihāsas, the Vedic Subsidiary
+Sciences and the Dharmaśāstras,—he satisfies them with grain-food.’
 
-प्रकृतविधिशेषो ऽयम् । स च नित्यः समधिगतः । नित्ये च फलश्रवणम् अर्थवादः । न च विधिविभक्तिर् विद्यते । येन "एकस्य तूभयत्वे संयोगः पृथक्त्वम्" (प्म्स् ४.३.५) इत्य् अनेन न्यायेनाधिकारान्तरहेतुः पयःप्रभ्र्तिः स्यात् । लब्धे च नित्ये ऽधिकारे रात्रिसत्रन्यायो ऽपि नास्ति, येन पयआदीनि निष्फलत्वेन कल्पेरन् । तस्माद् अर्थवाद एवायम्, अधीयानस्य लोकपक्त्या प्रतिग्रहादिना गोलाभात् पयःप्रभृतेः प्रक्षरणानुवादस्यालम्बनम् । 
+*Yājñavalkya-Smṛti* (1. 41-47).—‘One who daily reads the Ṛk verses
+satisfies the gods and the Pitṛs with honey and clarified butter;—he who
+reads the Yajuṣ verses every day, to the best of his ability, satisfies
+the gods with clarified butter and the Pitṛs with clarified butter and
+honey;—he who reads the Sāma verses daily satisfies the gods with Soma
+and clarified butter, and the Pitṛs with honey and clarified butter;—he
+who daily reads the Atharvāñgiras texts satisfies the gods with fat and
+the Pitre with honey and clarified butter;—he who to the best of his
+capacity, daily reads the Vākovākya, Purāṇa, the Narāśamsī hymns,
+ītihāsa and the Sciences, satisfies the gods with meat, milk, rice and
+honey, and the Pitṛs with honey and clarified butter—all these being
+satisfied endow him with all kinds of prosperity.’
 
-- **स्वाध्यायं** वेदम् **अधीते ऽब्दं** संवत्सरं **विधिना** प्राक्कूलाध्यासनेन **नियतः** संयतेन्द्रियः **शुचिः** स्नानादिना **तस्य** पुरुषस्य **नित्यं** यावज्जीवं **क्षरति** स्रवति ददाति । एषः स्वाध्यायः । **पयोदध्**ईति । 
-
-- <u>अन्ये</u> तु धर्मार्थकाममोक्षान् पयआदिभिः शब्दैर् अभिहितान् मन्यन्ते । **पयः** शुद्धिसामान्याद् धर्मः, **दधि** पुष्टिहेतुत्वाद् अर्थः, स्नेहसामान्यात् **घृतं** कामः, सर्वरसैक्यान् **मधु** मोक्षः । यावान् कश्चन पुरुषार्थः स सर्वो वेदाध्ययनात् संवत्सरेणैव प्राप्यते, किं पुनर् बहुना कालेन । 
-
-- अर्थवादत्वात् पयआदिशब्दानां को ऽर्थो युक्त इति नाभिनिवेष्टव्यम् ॥ २.१०७ ॥
+*Āpastamba-Gṛhyasūtra* (3. 3. 2-3).—‘When one reads the Ṛk verses he
+satisfies the gods with offerings of milk;—when he reads the Yajuṣ
+verses, with offerings of clarified butter;—when he reads the Sāma
+verses, with offerings of honey;—when he reads the Atharvāñgiras verses,
+with offerings of Soma;—when he reads the Brāhmaṇas, the Kalpas, the
+Nārāśamsī hymns, the Itihāsas and the Purāṇas,—with offerings of nectar.
+When he reads the Ṛk verses, streams of milk reach his Pitṛs;—when he
+reads the Yajuṣ verses, streams of clarified butter;—when he reads the
+Sāma verses, streams of honey;—when he reads the tharvāúgiras verses,
+streams of Soma;—when he reads the Brāhmaṇas, the Kalpas, the Nārāśamsī
+hymns, the Itihāsas and Purāṇas, streams of nectar.’

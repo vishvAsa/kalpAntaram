@@ -2,9 +2,37 @@
 title = "186 दूराद् आहृत्य"
 
 +++
+*Āpastamba-Dharmasūtra* (2.4.16).—‘Having kindled fire and swept the
+place, he should lay fuel on it, morning and evening, in accordance with
+instructions received.’
 
-**दूर**ग्रहणम् अपरिगृहीतदेशोपलक्षणार्थम् । ग्रामात् किल दूरम् अरण्यम्, न च तत्र कस्यचित् परिग्रहः । अनुपलक्षणे हि दूरार्थे कियद् दूरम् इत्य् अनवस्थितः शास्त्रार्थः स्यात् । **आहृत्य** आनीय । **संनिदध्यात्** स्थापयेत् । **विहायसि** गृहस्योपरि । न हि निरालम्बने ऽन्तरिक्षे निधानं संभवति । **ताभिः सायंप्रातर् जुहुयात्** । आहरणं तु तात्कालिकम् अन्यदा वेच्छया । विहायसि[^४६०] निधानम् अदृष्टार्थम् इत्य् आहुः । <u>अन्ये</u> तु ब्रुवते संप्रत्यानीय्मानं वृक्षाद् दारु आर्द्रं भवतीति, गृहस्योपरि अन्यस्य वा प्रकारादेस् तत एवावगन्तव्यम् ॥ २.१८६ ॥
+*Āpastamba-Dharmasūtra* (Vīramitrodaya-Saṃskāra, p. 448).—‘He should not
+go for fetching fuel in the evening.’
 
+*Viṣṇu* (28.4).—‘Both times, bathing and fire-tending.’
 
-[^४६०]:
-     M G 1st ed.: vihāyasa
+*Āśvalāyana Gṛhyasūtra* (2.22.6).—‘Morning and evening, he should fetch
+fuel.’
+
+*Pāraskara Gṛhyasūtra* (2.5.9)—‘Without causing injury, he should fetch
+fuel from the forest, lay it on the fire and then utter speech.’
+
+*Gobhila Gṛhyasūtra* (3-2-27).—‘Girdle-wearing, alms-begging,
+staff-carrying, fuel-fetching, water-bathing, morning salutation,—these
+are the daily compulsory duties.’
+
+*Baudhāyana* (1.2.54).—‘Therefore, the Religious Student should fetch
+fuel.’
+
+*Āpastamba* (Vīramitrodaya-Saṃskāra, p. 448).—‘Some people say that
+Fire-kindling should be done in the evening only.’ *Laugākṣi*
+(Do.)—(same as above).
+
+*Baijavāpa* (Do.).—‘Before sunset, and also in the morning, going
+northward, without causing injury, he should fetch fuel,—wet, if
+desirous of food; dry, if desirous of Brahmic glory; both, if desirous
+of both.’
+
+*Vāyu-purāṇa* (Parāśaramādhava, p. 452).—‘The fuel should he of Palāśa;
+in the absence of that, Khadira or Śamī or Rohitaka or Aśvattha; and in
+the absence of these, Arka and Vetasa.’

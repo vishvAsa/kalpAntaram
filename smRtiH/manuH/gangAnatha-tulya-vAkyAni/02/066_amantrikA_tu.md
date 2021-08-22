@@ -2,19 +2,22 @@
 title = "066 अमन्त्रिका तु"
 
 +++
+*Viṣṇu-Smṛti*, 27.13.—‘The same rites for women are done without
+mantras.’
 
-**इयम् आवृद् अशेषतः स्त्रीणाम् अमन्त्रिका कार्या** । जातकर्मण आरभ्य **इयं** संस्काराणाम् **आवृत्** परिपाठी । सेतिकर्तव्यताकः संस्कारकलाप इति यावत् । **संस्कारार्थं** शुद्ध्यर्थं **शरीरस्य** पुंसाम् इव[^२२७] स्त्रीणाम् अपि प्रयोजनम् आह । **यथाकालम्** । यस्मिन् काले यः संस्कार उक्तस् तं कालम् अनतिक्रम्य । पदार्थानतिवृत्तौ "यथासादृश्ये" (पाण् २.१.७) अव्ययीभावः । एवं क्रमे ऽपि द्रष्टव्यम् । मन्त्रमात्ररहिताया आवृतो विहितत्वाद् अयथाकालक्रमप्राप्तिर् एव नास्तीत्य् अतो[^२२८] निषेधो नित्यानुवादो वृत्तपूरणार्थः । एतावद् विवक्षितं स्त्रीणां चैते अमन्त्रका इति ॥ २.६६ ॥
+*Yājñavalkya*, 1.13.—‘These rites for women are to be performed
+silently, but Marriage is to be with manteras.’
 
+*Āśvalāyana-Gṛhyasūtra*, 15 (16.7)—1.2.—‘For the girl, the Āvṛta only’
+\[‘āvṛta’ standing for the Jātakarma and other rites\],
 
-[^२२८]:
-     J: nāsti | atyato
+*Gobhila-Gṛhyasūtra* (Vīramitrodaya-Samskāra, p. 191).—‘For women, these
+rites are to be performed silently, but the Homa is to be done with
+mantras.’
 
+*Śaunaka* (Do., p. 278).—‘All this rite is to be performed for the girl,
+without mantras.’
 
-[^२२७]:
-     M G 1st ed.: pauṃsnam eva
-
-_पूर्वेणावृद्वचनेन जातकर्मादिवद् उपनयने ऽप्य् अमन्त्रके प्राप्ते_[^२२९]_ तन्निवृत्त्यर्त्यम् आरभ्यते ।_
-
-
-[^२२९]:
-     M G 1st ed. add: tadāpattivacanaṃ vivāhasya; this is included in the third sentence of the commentary.
+*Āśvalāyana-Smṛti* (Do., p. 278).—‘The rites beginning with the
+Jātakarma and ending with Tonsure are to be done for women, without
+mantras; but even in Tonsure, the Homa is to be done with mantras.’

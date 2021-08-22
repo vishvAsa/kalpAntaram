@@ -2,35 +2,51 @@
 title = "018 तस्मिन् देशे"
 
 +++
+**(Verses 18-23)  
+**
 
-<u>अथास्मिन्</u> देशे य आचारस् तस्य प्रामाण्ये किं विद्वत्ता शिष्टता चोपाधिर् अङ्गीक्रियते । अथाविदुषाम् अशिष्टानां च देशोपाधिर् एव प्रमाणम् । किं चातः । यदि नापेक्ष्यते, यत् तद् उक्तम् "आचारश् चैव साधूनाम्"(म्ध् २.६) इति विशेषणद्वयम् अनर्थकम् । न त्व् असाध्वाचारस्य धर्ममूलतोपपद्यते, वेदसंयोगासंभवात् । अथापेक्ष्यते, देशविशेषसंबन्धानुपकारः । न हि देशान्तरे ऽपि शिष्टसमाचारस्याप्रामाण्यं शक्यते वक्तुम् । 
+*Vaśiṣṭha*, 1.7-12.—‘Aryāvarta is the country which is to the East of
+the *spot of* disappearance, to the West of Kālakavana, to the North of
+Pāriyātra and the Vindhya and to the South of the Himālaya. The Dharma
+and practices prevalent in this country should be accepted in all
+places. Some people apply the name *Āryāvarta* to the land between the
+Gaṅgā and the Yamunā. Brahmanic glory is coterminous with the tract over
+which the black antelope roams.
 
-- <u>उच्यते</u> । प्रायिकम् एतद् अभिधानम् । प्रायोवृत्त्यासमिन् देशे शिष्टानां संभव इत्य् उक्तम्- **तस्मिन् देशे य आचारः स सदाचार** इति ।
+*Vaśiṣṭha*, 15.9-14.—‘The Dharmas and Ācāras prevalent in that country
+should be accepted everywhere. The others are of contrary Dharma. Some
+people restrict Dharma to the country lying between the Gaṅgā and the
+Yamunā. Others again state that Brahmanic glory extends all over that
+tract of land over which the black deer roams. The limits of this tract
+are hounded on the west by the river Sindhu and on other sides by the
+Vaitariṇī river (in Mālwā, according to Vīramitrodaya, Paribhāṣa, p.
+57); and by the spot where the sun rises.’ *Vyāsa*, 1.3.—‘The Vedic
+dharma can prevail only in that country over which the black deer roams
+naturally.’
 
-- <u>अन्ये तु</u>, देशान्तरे मातुलदुहितुः परिणयनाद् देशाचारनिषेधार्थम् इदम् इत्य् आहुः ।
+*Samvarta*, 4.—‘That country where the black deer constantly roams at
+will is to be known as *Dharma-deśa*, where alone the duties of the
+twice-born can be performed.’
 
-- <u>तद् अयुक्तम्</u> । अविशेषेणैवोक्तम्-
+*Baudhāyana*, 1.25.25.—‘To the East of the spot of disappearance (of the
+Sarasvatī river), to the West of the Kālakavana, to the North of
+Pāriyātra and to the South of Himālaya,—this is Āryāvarta; it is the
+*Sadāchāra* of this country that is authoritative; according to some
+people it is the tract included between the Gaṅgā and the Yamunā.’
 
-- तद् देशकुलजातीनाम् अविरुद्धं प्रकल्पयेत् । (म्ध् ८.४६)
+*Śaṅkha-Likhita* (Vīra-Pari.,p. 57).—‘That country is noble which lies
+to the East of the mountain where the Sun sets, to the West of that
+where the Sun rises, which is interspersed with high mountains and
+sacred rivers; this is the *sacred land*; or the land where the black
+antelope roams, or that to the East of the Sindhu and the Sauvīra, to
+the West of Kāmpilya, to the North of the Pāriyātra and to the South of
+the Himalaya,—here Brahmanic glory is complete.’
 
-स च विरुद्धः "ऊर्ध्वं सप्तमात् पितृबन्धुभ्यः । । । मातृबन्धुभ्यश् च पञ्चमात्" (ग्ध् ४.३, ५) इत्य् एतेन । अस्मिन्न् अपि देशे ऽनुपनीतेन सह भोजनादिर् आचारो नैव धर्मत्वेनेष्यते । न च स्मृतिविरुद्धस्याचारस्य प्रामाण्यसंभवः, श्रुतिविप्रकर्षात् । आचारात् स्मृतिर् अनुमातव्या, स्मृतेः श्रुतिः । स्मृतिस् त्व् अव्यवहिताम् एव श्रुतिम् अनुमापयति । किं च कारणग्रहाच् चैवमादेर् आचारस्य । रूपवतीं मातुलकन्यां कामयमाना राजभयाद् ऊढवन्तः, कन्यागमनं[^१००] दण्डो मा भूद् इति । 
+*Paiṭhīnasi* (*ibid*).—‘From Himālaya to the Kumārī (Cape Comorin), from
+the Sindhu and the Vaitariṇī and to the place where the sun rises, or
+where the black antelope roams,—over this land alone is Dharma present
+in its complete form.’
 
-
-[^१००]:
-     DK (5: 117) suggests: kanyāgamane
-
-- <u>अन्ये</u> त्व् अविद्वांसः "येनास्य पितरो याताः" (म्ध् ४.१७८) इत्य् अस्य यथाश्रुतम् अर्थं गृहीत्वा धर्मो ऽयम् इति प्रतिपन्नाः । अपि च[^१०१] "एतास् तिस्रस् तु भार्यार्थे नोपयच्छेत" (म्ध् ११.१७३) इति प्रायश्चित्तं श्रुतम् अपि, भ्रान्तिहेतुः "आभ्यस् तिसृभ्यो ऽन्या न प्रतिषिद्धा" इति । यथा चास्य नायम् अर्थस् तथा वक्ष्यामः ।
-
-
-[^१०१]:
-     DK (5: 117) suggests: yathā ca
-
-- न च दृष्टकारणयोः स्मृत्याचारयोः प्रामाण्यम् । उक्तं भट्टपादैः- 
-
-- विरुद्धा च विगीता च दृष्टार्था दृष्टकारणा ।
-
-- स्मृतिर् न श्रुतिमूला स्याद् या चैषा संभवश्रुतिः ॥[^१०२]
-
-तस्मात् "एतान् द्विजातयो देशान् संश्रयेरन्" (म्ध् २.२४) इत्य् एतद्विधिशेषा देशप्रशंसार्थवादा एते । 
-
-- परंपरैव **पारंपर्यम्** । अन्यस्माद् अन्यम् उपसंक्रामति, तस्माद् अन्यम्, ततो ऽप्य् अन्यम् इत्य् एवंरूपः प्रवाहः परंपरा । **क्रमः** तदविच्छेदः, तत **आगतः** संप्राप्तः । संकीर्णयोनयः **अन्तरालाः** । तत्सहितानां **वर्णानाम्** ॥ २.१८ ॥
+*Viṣṇu*, 74.4.—‘That country where there is no differentiation of the
+four castes should be known as the *mleccha deśa*; other than this is
+Āryāvarta.’

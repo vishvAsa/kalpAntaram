@@ -2,15 +2,13 @@
 title = "248 एतेष्व् अविद्यमानेषु"
 
 +++
+*Gautama* (3. 8).—‘In the absence of them, he shall reside either with a
+senior fellow-student, or with the fire.’
 
-**अविद्यमानता** सर्वेषाम् अभावः, यदि वा गुणहीनता । **एतेष्व्** असत्स्व् **अग्निशुश्रूषां** प्रयुञ्जीत, अग्निशरणोपलेपनम् अग्नीन्धनम् आचार्यवत् संनिधाननियमाद् भृत्यवद्[^६००] अहोरात्रासनम् एषाग्नेः **शुश्रूषा** तां[^६०१] कुर्वन् **देहं साधयेत्** शरीरं क्षपयेत् । यथान्धश् चक्षुष्मान् उच्यते एवं साधयेद् इति । **स्थानासन** एव **विहारः** तद्वान्, न कदाचिद् आसीत एवं विहरेत् ।
+*Vaśiṣṭha* (7.5, 6).—‘On the teacher's death, he shall attend upon the
+Fire;—as the fire has been recognised as the teacher.’
 
+*Viṣṇu* (28, 46).—‘In his absence, the Life-long Student shall attend
+upon the Fire.
 
-[^६०१]:
-     M G 1st ed.: śuśrūṣaitāṃ; G 2nd ed.: śuśrūṣatāṃ
-
-
-[^६००]:
-     M G: vṛttavad
-
-- <u>अन्ये</u> तु मन्यन्ते- स्थानाय स्वस्तिकादिना यद् आसनं ध्यानकाले तत् **स्थानासनम्**, **विहारो** ऽन्यो भिक्षाचरणादिः ॥ २.२४८ ॥
+*Yājñavalkya* (1. 49).—(See above.)

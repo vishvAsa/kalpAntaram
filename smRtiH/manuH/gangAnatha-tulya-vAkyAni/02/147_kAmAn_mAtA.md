@@ -2,5 +2,10 @@
 title = "147 कामान् माता"
 
 +++
+*Viṣṇu-smṛti*, 30.44.—(Reproduces Manu.)
 
-श्लोकद्वयम् अर्थवादः । मातापितरौ **यद् एनं** दारकम् **उत्पादयतो** जनयतो **मिथो** रहसि परस्परं तत् **कामाद्** धेतोर् मन्मथपरवशौ । **संभूतिं तस्य तां विद्यात्** । **तस्य** दारकस्य संभवोत्पत्तिर् **यद् योनौ** मातृकुक्षाव् **अभिजायते** ऽङ्गप्रत्यङ्गानि लभते । संभवश् च येषां भावानां ते तथैव विनश्यन्ति । अतः किं तेन संभवेन यस्यानन्तरभावी विनाशः ॥ २.१४७ ॥
+*Āpastamba-Dharmasūtra*, 1.2-2.—‘The parents produce body.’
+
+*Vaśiṣṭha-Dharmasūtra*, 2.5.9.—‘They call the Teacher Father because of
+his imparting the Veda.’—‘Therefore the learned expounder of the Veda is
+never regarded as *childless*.’

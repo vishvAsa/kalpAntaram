@@ -2,5 +2,24 @@
 title = "070 अध्येष्यमाणस् त्व्"
 
 +++
+*Kāmandaka* (2. 22-23).—‘The duties of the Religious Student are—to live
+in the house of his preceptor, to tend the sacred fires, to study the
+Veda and its auxiliaries, to observe vows, to perform ablutions three
+times, to beg alms, and live with the teacher all his life In the
+absence of the preceptor, he may live with the preceptor’s son, or with
+one of his fellow-students;—or if he likes, he may adopt another mode of
+life.’
 
-प्रत्यासन्ने भविष्यति ऌडयं द्रष्टव्यः । अध्ययने प्रवर्तमानः, अध्ययनम् आरभमाणः, अध्येतुम् इच्छन्न् इति यावत् । **उदङ्मुखो ऽध्याप्यः** । गौतमीये तु प्राङ्मुखो वा शिष्यः प्रत्यङ्मुख आचार्यः इति (ग्ध् १.५४) । **आचान्तो यथाशास्त्रम्** इति । प्रागुक्तम् आचमनविधिं स्मारयति । **ब्रह्माञ्जलिः कृतो** येनेति । आहिताग्न्यादेर् आकृतिगणत्वान् निष्ठान्तस्य परनिपातः । "ब्रह्माञ्जलिकृद्" इति वा पाठः । **लघुवासा** धौतवासाः । प्रक्षालनेन लघुनी वाससी भवतः । अतो लघुत्वेन वाससः शुद्धिर् लक्ष्यते । अथ वायं रोमादिस्थूलवसनः चित्तव्याक्षेपे ताड्यमानो न प्रहारं वेदयेत् ततश् च न युक्तः पठेत् । अपनीयमाने तु वाससि गुरोः खेदः स्यात् । निरावरणे च काये रज्ज्वादिना ताड्यमानो महतीं बालो वेदनाम् अनुभवेत् । अतो दृष्टार्थं लघुवासस्त्वम् । जितानि नियमितानीन्द्रियाण्य् उभयान्य् अपि येन स **जितेन्द्रियः** । न इतस् ततो वीक्षेत, यत् किंचिन् न शृणुयात्, अध्ययने ऽवहितो भवेत्, इत्य् उक्तं भवति ॥ २.७० ॥
+*Gautama-Dharmasūtra*, 1. 52, 54, 60.—‘Touching the organs with
+Kuśa-grass;—permitted by the teacher, he should sit to the right of the
+teacher, facing the East or the North; touching the teacher’s left foot,
+with his hand, be should address the request to the teacher, saving
+“*Please sir, teach*.”
+
+*Śaṅkha-Smṛti*, 3. 5.—‘Being permitted by the teacher, one should begin
+reading, adopting the *Brahmāñjali* attitude, respectfully looking on
+the teacher’s face.’
+
+*Laghu-Vyāsa* (Vīramitrodaya-Saṃskāra, p. 524).—‘He who reads a verse,
+or a half or a quarter of it, without the teacher’s permission, is a
+*stealer of Veda*, and falls into hell.’

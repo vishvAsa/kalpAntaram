@@ -2,13 +2,23 @@
 title = "179 द्यूतञ् च"
 
 +++
+**(verses 177-179)  
+**
 
+Include Comparative notes for [Verse
+2.177].
 
-[^४५०]:
-     M G: -ālambham
+*Gautama* (2.22.24).—‘Looking at and touching of women should be
+avoided, for fear of the intercourse proceeding further; also gambling,
+service of low people, appropriating what is not given, killing;—also
+harsh words.’
 
-**द्यूतम्** अक्षक्रीडा । समाह्वयः कुक्कुटादिभिः प्रतिषिद्धः, द्यूतशब्दस्य सामान्यशब्दत्वात् । **जनैर् वादः** अकारणेन लौकिकेष्व् अर्थेषु वाक्कलहः, देशवार्ताद्यन्वेषणं प्रश्नो वा । **परिवादः** असूयया परदोषकथनम् । **अनृतम्** अन्यथा दृष्टम् अन्यथा च श्रुतं यद् अन्यथोच्यते । "सर्वत्र वर्जयेत्" इत्य् अनुषङ्गाद् द्वितीया । **स्त्रीणां च प्रेक्षणालम्भौ** । अवयवसंस्थाननिरूपणं **प्रेक्षणम्** इदम् अस्याः शोभते ऽङ्गम् इदं नेति । **आलम्भः** आलिङ्गनम् । मैथुनशङ्कायां चैतौ प्रतिषिध्येते बालस्य यथातथम् । **परस्योपघातो** ऽपकारः कस्यांचिद् अर्थसिद्धौ प्रबन्धः । कन्यालाभादौ पृच्छ्यमानेन अयोग्यस्याप्य् अयोग्यत्वं[^४५१] न वक्तव्यम्, तूष्णीम् आसितव्यम्, अनृतप्रतिषेधात् ॥ २.१७९ ॥
+*Baudhāyana* (1.2.23-24).—‘Truthful in speech, modest, free from
+egotism;—conversing with women, only to the extent that may be
+necessary.’
 
+*Āpastamba-Dharmasūtra* (1.3.11, 23).—‘He should not see any dancing; he
+should not talk ill of people.’
 
-[^४५१]:
-     M G 1st ed: prayogyasyāpy ayogatvaṃ; G 2nd ed.: ayogyasyāpy ayogatvaṃ
+*Viṣṇu* (28.26).—‘He should not stay at a place where calumniating is
+going on.’

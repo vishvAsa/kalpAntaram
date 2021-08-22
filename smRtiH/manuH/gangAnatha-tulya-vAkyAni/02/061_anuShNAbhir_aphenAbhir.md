@@ -2,17 +2,60 @@
 title = "061 अनुष्णाभिर् अफेनाभिर्"
 
 +++
+*Bodhāyanā-Dharmasūtra*, 1. 5. 14.—‘Water-sipping should never be done
+with the lingers, nor with such water as has hubbies or foam, is
+brackish or saltish, or muddy, or discoloured, or foul-smelling.’
 
-**उष्ण**शब्दः क्वाथोपलक्षणार्थः । तथा हि पट्ःयते- "अशृताभिर् अद्भिः" इति । एवं च ग्रीष्मोष्मतप्ताः स्वभावोष्णाश् च न प्रतिषिध्यन्ते । **फेन**ग्रहणं बुद्बुदानाम् अपि प्रदर्शनार्थम् । पठितं च "हीनाभिः फेनबुद्बुदैः" (य्ध् १.२०) इति । **तीर्थेन धर्मविद्** इति वृत्तपूरणम् एव । शौचम् आप्तुम् इच्छुः **शौचेप्सुः** । शुद्धिकाम इत्य् अर्थः । नान्यथा शुद्धो भवति । **सर्वदा** । न प्रकरणाद् भोजन एव । किं तर्हि, न रेतोविण्मूत्रादिशुद्धिष्व्[^२१७] अपि । अपां भक्षणे कर्मत्वात् तृतीयानिर्देशः, न भक्षमाणानाम् एवायं धर्मः, अपि तु कारणभूतानाम् अपि पादाभ्युक्षणादौ । वयं तु ब्रूमो भक्षणे ऽपि करणम् एवापो न हि तासाम् आचमनं संस्कारः । **एकान्ते** शुचौ देशे । एकान्तो हि जनैर् अनाकीर्णः प्रायेण शुचिर् भवति ।
+*Baudhāyana* (Vīra-Āhnika, p. 71).—‘Sipping should not be done with
+water left over after washing the feet; or if this has to be done, it
+should be done after pouring out some of the water on the ground.’
 
+*Āpastamba-Dharmasūtra*, 5. 15. 4-7.—‘Water should not bo sipped out of
+rain-showers; nor out of cavities in the Earth; nor with warm water,
+without reason.’ \[‘Reason’ such as sickness.\] \[Hut according to
+Vaśiṣṭha, if the cavity contained water enough for satisfying the cow,
+which is not unclean, then, it may be used.\]
 
-[^२१७]:
-     M G 1st ed.: netaro viṇmūtrādi-
+*Vaśiṣṭha-Smṛti*, 3. 36.—‘Sipping should not be done with water with bad
+colour, bad smell or bad taste, or that proceeding from an unclean
+source.’
 
-- **प्रगुदङ्मुखः** । मुखशब्दः प्रत्येकम् अभिसंबध्यते । "प्राङ्मुख उदङ्मुखो वा " एवं हि गौतमेन पठितम् (ग्ध् १.३५) । विग्रहश् चैवं कर्तव्यः प्रागुदङ्मुखम् अस्येति । नायं द्वंद्वगर्भो बहुव्रीहिः, अपि तु बहुव्रीहिर् एव । द्वंद्वगर्भतायां समाहारे समासान्तेनाकारेण भवितव्यम् । इतरेतरयोगो ऽपि नैव । न हि युगपद् उभयदिङ्मुखता संभवति । तत्र कश्चिद् आचमनभागः प्राङ्मुखेन कर्तव्यः कश्चिद् उदङ्मुखेनेत्य् आपतति, न चैकदेश आचमनम् । न च दिगर्थ उपादेयो येन परस्परापेक्षे संबध्येयाताम् । नापि दक्षिणपूर्वादिवत् प्रागुदक्शब्दो ऽपराजिताया दिशो वाचकत्वेन् प्रसिद्धो येन दिक्समासबहुव्रीहिर् ज्ञायते । तस्मान् नायं वृत्त्यन्तरगर्भो बहुव्रीहिः । अतो विकल्पः । उदाहृतं च स्मृत्यन्तरे- "प्राङ्मुख उदङ्मुखो वा शौचम् आरभेत" इति (ग्ध् १.३५) । यथा "बृहद्रथन्तरसाम षडहे" इति केषुचिद् अहःसु[^२१८] बृहत् केषुचिद् रथन्तरम्, न त्व् एकस्मिन्न् अहनि समस्तोभयसामत्वम् । २.६१ ॥
+*Viṣṇu-Smṛti*, 62. 5.—‘Seated in a clean place, with arms between the
+knees, facing the East or the North, with happy and concentrated mind,
+he should sip water, which is not fire-heated, which is free from foam,
+which has not been brought by the Śūdra, and which is not brackish.’
 
+*Yājñavalkya*, 1.20.—‘With water in its natural condition, free from
+bubbles and foam.’
 
-[^२१८]:
-     M G: aharahaḥsu
+*Gobhila-Gṛhyasūtra*, 1.2.22-23.—‘With water, not hot, nor with
+bubbles.’
 
-_उक्तम् आचमनं तीर्थेनापां भक्षणम् । परिमाणं तु नोक्तम् । अतस् तद् अवधारणार्थम् आह ।_
+*Śaṅkha* (Vīra-Āhnika, p. 66).—‘With water pulled out, which is free
+from bubbles and foam, not heated by fire, nor brackish.’
+
+*Gautama and Śaṅkha-Likhita* (Do., p. 67).—‘Not with water fetched by a
+Śūdra or an unclean person or by one hand.’ *Kūrmapurāṇa* (Do.).—‘With
+water which is not brackish and which has not been fetched by a Śūdra or
+by an unclean person; nor with water brought with one hand.’
+
+*Saṃvarta* (Do.).—‘Never with water offered by a Śūdra or an unclean
+person, or with one hand.’
+
+*Śaṅkha-Likhita* (Do., p. 68).—‘With water pulled out, purified,
+examined, not brackish, nor heated, nor with foam and bubbles.’
+
+*Pracetas* (Do., p. 69).—‘One should twice, thrice or four times sip
+water, without making any sound, which is not hot, nor with foam, which
+has been purified by cloth and by the eve,—reaching the heart.’
+
+*Hārīta* (Do., p. 70).—‘Nor with water which has not been looked into,
+which is hot or unclean; discoloured or foul-smelling or foamy.’
+
+*Parāśara* (Do., p. 71).—‘Sipping should not be done with water fetched
+by a Śūdra, or with one hand, or by one who has not kept the
+observances, or by an unknown person.’
+
+*Yama* (Parāśaramādhava, p. 222).—‘It has been declared that at night,
+the wise men may be purified by even such water as has not been looked
+into; as also for sick men.’

@@ -2,39 +2,18 @@
 title = "102 पूर्वां सन्ध्याम्"
 
 +++
+*Vaśiṣṭha-Smṛti* (26. 2. 8).—(See under 101.)
 
-अयम् अत्राधिकार उच्यते । **एनः** प्रतिषिद्धसेवनाज् जातो दोषस् तं **व्यपोहत्य्** अपनुदति । निशि भवं **नैशं** रात्रौ कृतम् । एवं **मलम्** एनःशब्देन समानार्थम् ।
+*Baudhāyana-Dharmasūtra* (2. 4. 18-21).—‘The sin committed through the
+reproductive organs, through the feet, through the arms, through the
+mind, through speech,—from all this one becomes absolved by offering the
+Evening Prayers. If one offers the Evening Prayers, him Varuṇa captures
+not. Similarly by offering the Morning Prayers, one becomes absolved
+from sins committed during the night.’
 
-- न च सर्वस्य दिवाकृतस्य नैशिकस्य चैतत् प्रायश्चित्तम् । तथा सति कृच्छ्राद्युपदेशप्रायश्चित्तविशेषो[^३१९] ऽनर्थकः स्यात् । "
-
-
-[^३१९]:
-     M G: -upadeśaḥ
-
-- अर्के[^३२०] चेन् मधु विन्देत किमर्थं पर्वतं व्रजेत् । 
-
-
-[^३२०]:
-     J: atke
-
-इति लौकिकात् प्रवादात् । किं तर्हि यद् असेवितं[^३२१] कृतम् अशक्यपरिहारम् अनाम्नातप्रायश्चित्तविशेषं लघीय एनस् तद् अपैति । यदा सुप्तस्य हस्तचारशय्यापरिवर्तनादिना सूक्ष्मप्राणिवधो गुह्याङ्गकण्डूकर्षणं नाकस्मात्[^३२२] स्पृशेद् इति प्रतिषिद्धम्, लालास्रवादिना चाशुचित्वम् अतत्कालकृताशौचस्यावस्थाने[^३२३] प्रतिषिद्धसेवनादि । एतदभिप्रायम् एवेदम्-
-
-
-[^३२३]:
-     M G 1st ed.: etatkāla-
-
-
-[^३२२]:
-     M G 1st ed.: -karṣaṇenākasmāt
-
-
-[^३२१]:
-     J: anucitaṃ
-
-- सर्वदैवाशुचिर् ज्ञेयः संध्योपासनवर्जितः । इति ।
-
-न चानित्यतापत्तिः, एवंविधस्य दोषस्य सर्वदाभावात् । दिवा च पथि गच्छन्न् अन्यस्त्रीमुखसंधानसंपन्नं तज्जन्यचित्तविकारोन्मीलने क्रुद्धाश्लीलसंभाषणम्[^३२४] । तत्संध्याविधी अपनुदतः ॥ २.१०२ ॥
-
-
-[^३२४]:
-     M G 1st ed.: -saṃbhāṣaṇe
+*Yama (Parāśaramādhava*, p. 278).—‘Those who constantly observe the
+Twilight have their sins removed;... whatever sin is committed during
+the day, by act, mind and word, all that one destroys by means of the
+Evening Prayers and by Breath-control; whatever sin is committed during
+the night, all that one destroys by means of the Morning Prayers and by
+Breath-control.’

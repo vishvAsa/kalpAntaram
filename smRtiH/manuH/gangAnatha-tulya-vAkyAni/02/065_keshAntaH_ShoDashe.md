@@ -2,5 +2,14 @@
 title = "065 केशान्तः षोडशे"
 
 +++
+*Yājñavalkya*, 1 36.—‘The *keśānta* is to be done in the sixteenth
+year.’
 
-**केशान्तो** नाम संस्करः । स गर्भ**षोडशे वर्षे ब्राह्मणस्य **कर्तव्यः । तस्य च स्वरूपपरिज्ञाने गृह्यम् एव शरणम् । द्वे वर्षे ऽधिके यस्य द्वाविंशस्य तस्मिन् द्व्यधिके **द्वाविंशे** । अथ वा कालमात्रम् अन्यपदार्थः । **ततो** द्वाविंशाद् वर्षाद् **द्व्यधिके** काले । **वैश्यस्येति** । द्विशब्दस्य च वर्षाण्य् एव संख्येयानि प्रकृतानि हि तानि ॥ २.६५ ॥
+*Āpastamba- Gṛhyasūtra*, 1.17.1-2.—‘The Godāna (Hair-cutting) in the
+sixteenth year.’
+
+*Pāraskara-Gṛhyasūtra*, 2.3.—‘When the boy is sixteen years old, comes
+the *keśānta*.’
+
+*Gobhila- Gṛhyasūtra*, 3.1.—‘Now, the Godāna in the sixteenth year; the
+*keśānta* ceremony is described by the description of the *Cūḍākaraṇa*

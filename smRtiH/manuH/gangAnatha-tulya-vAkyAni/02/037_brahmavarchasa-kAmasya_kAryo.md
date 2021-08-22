@@ -2,27 +2,39 @@
 title = "037 ब्रह्मवर्चस-कामस्य कार्यो"
 
 +++
+*Gautama-Dharmasūtra*, 1.7-8.—‘When special results are desired, during
+the ninth or the fifth year.’
 
-पितृधर्मेणापत्यं व्यादिशति "ब्रह्मवर्चसी मे पुत्रः स्यात्" इति पितृकामनया पुत्रो व्यपदिष्टस् तत्कामस्येति । पुत्रस्य बालत्वान् नैवंविधा कामना संभवति ।
+*Āpastamba-Dharmasūtra*, 1.21-26.—‘During the seventh year, if Brāhmic
+glory is desired for the boy; during the eighth year, if longevity is
+desired; during the ninth year, if brilliance is desired; during the
+tenth year, if possession of much food is desired; during the eleventh
+year, if efficiency of sense-organs is desired; during the twelfth year,
+if possession of cattle is desired.’
 
-- <u>ननु</u> चैवम् अन्यकृतात् कर्मण अन्यस्य फले ऽभ्युपगम्यमाने ऽकृताभ्यागमदोषापत्तिः । अकाम्यमानं च फलं भवत्य् एतद् अप्य् उत्क्रान्तशब्दप्रमाणन्यायमर्यादयोच्यते । 
+*Uśanas* (Vīramitrodaya-Saṃskāra, p. 315).—‘The Upanayana of the
+Brāhmaṇa should be done during the fifth year from birth, of the
+Kṣatriya during the sixth, and of the Vaiśya during the seventh year,—if
+strength is desired.’
 
-- <u>नैष दोषः</u> । स्येनवद् एतद् भविष्यति । श्येनम् अभिचरन् करोत्य् अभिचर्यमाणश् च म्रियते । अथोच्यते कामिन एवैतत् फलम् । शत्रुमरणं हि यजमानः कामयते । तद् एव प्राप्नोतीति नाकर्तृगामिता फलस्य । अत्रापि विशिष्टपुत्रवत्तालक्षणम् उपनेतुर् एव फलम् । यथा पुत्रस्यारोग्येण पितुः प्रीतिः, एवं ब्रह्मवर्चसेनाप्य् अतो ऽधिकृतस्य कर्तुश् च तत्फलम् अन्वयानुसारी हि शास्त्रार्थावसायः । इह च पुत्रस्य फलकामेनैवं कर्तव्यम् इत्य् अन्वयः प्रतीयते । न च यथाश्रुतान्वयत्यागे[^१६९] किंचन प्रमाणम् अस्ति । एतेन पितुर् और्धव्देहिकः पुत्रकृत उपकारो व्याख्यातः । तत्रापि हि पुत्रः कर्ता पितृतृप्तिश् च फलम् । तथा च लिङ्गं "अत्मा वै पुत्रनामासि" (पार्ग् १.१६.१८) इति । पित्रैव हि तावच् छ्राद्धम् आत्मसंप्रदानकं वस्तुतः कृतम् एव येनापत्योत्पादनम् एवमर्थम् एव कृतम् । यथा सर्वस्वारे मृतस्यार्भकावमानात् ये पराञ्चः पदार्थास् तेष्व् अपि यजमानस्यैव कर्तृत्वम् । "ब्राह्मणाह् संस्थापयत यज्ञम्" इत् प्रैषेण, दक्षिणाभिर् वरणेन वा प्रयोगसमाप्ताव् ऋत्विजां विनियोक्तृत्वात्, एवम् इहापि तादर्थ्येन पुत्रस्योत्पादनात्, यच् छ्राद्धादिकं पित्रर्थं क्रियते पित्रैव तत्कृतं भवति । अध्ययनविज्ञानसंपन्नं **ब्रह्मवर्चसम्** ।
+*Vaśiṣṭha* (Vīra-Saṃskara, p. 345).—‘For the Brāhmaṇa if Brāhmic glory
+is desired, his Upanayana should be performed during the eighth year
+(either from conception or from birth); if food is desired, during the
+ninth year; if intelligence is desired, during the tenth year: if
+possession of jewels is desired, during the eleventh year; if bodily
+stoutness is desired, during the twelfth year.’
 
+*Aṅgiras* (Do., p. 346).—‘For the Kṣatriya desiring prosperity or
+strength, it should be performed during the sixth or the twelfth year,
+respectively; for the Vaiśya desiring success in agriculture or
+longevity, it should be performed during the eighth or fourth year,
+respectively.’
 
-[^१६९]:
-     M G 1st ed.: yathāśrutānavāparo
-
-- **बलं** सामर्थ्यम् आभ्यन्तरं ब्राह्मं च । उत्साहशक्तिर् महाप्राणता चेत्य् एतद्[^१७०] आभ्यन्तरम्, बाह्यं च हस्त्यश्वरथपदातिकोशसंपत् । तद् उक्तम्- "स्वाङ्गाभ्युच्चयं सांयौगिकानां चार्थानाम्" (निर् १.२) इति । 
-
-
-[^१७०]:
-     M G: -prāṇatā cetad
-
-- **ईहा** चेष्टा । बहुना धनेन कृषिवाणिज्यादिव्यवहारः । 
-
-- सर्वत्र गर्भादिसंख्या च[^१७१] वर्षाणाम्, **गर्भाद्** इति ह्य् अनुवर्तते ॥ २.३७ ॥
-
-
-[^१७१]:
-     J omits: ca
+*Baudhāyana* (Do., p. 346).—‘During the seventh year, if Brāhmic glory
+is desired; during the eighth, if longevity is desired; during the
+ninth, if brilliance is desired; during the tenth, if food is desired;
+during the eleventh, if efficient sense-organs are desired; during the
+twelfth, if cattle is desired; during the thirteenth, if intelligence is
+desired; during the fourteenth, if stoutness is desired; during the
+fifteenth, if the birth of a brother’s son is desired; and during the
+sixteenth, if all desirable things are desired.’

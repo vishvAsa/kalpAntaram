@@ -2,45 +2,127 @@
 title = "031 मङ्गल्यम् ब्राह्मणस्य"
 
 +++
+*Śaṅkha* (Smṛti, 2.3).—‘The name of all castes should consist of an even
+number of letters; an auspicious one for the Brāhmaṇa, one endowed with
+strength for the Kṣatriya.’
 
-तत्र स्वरूपम् अवधारयिष्यन्न् आह । मङ्गलाय हितं तत्र वा साधु **माङ्गल्यम्** इति व्युत्पत्तिः । "अभिमतस्यार्थस्य चिरजीवित्वबहुधनादेर् दृष्टादृष्टसुखफलस्य सिद्धिः" मङ्गलम् । तदभिधानम् एव शब्दस्य हितत्वं साधुत्वं चेति तद्धितसिद्धिः । साधुत्वं नाभिप्रेतार्थसिद्धिप्रतिपादनम् एव विवक्षितम् । किं तर्हि, य आशास्यते तद्वचनेनैव सिद्धिः । समासाद् आयुःसिद्धिः धनसिद्धिः पुत्रलाभ इत्यादेः प्रतीयते । तद्धिताद् वा हितनिमित्तप्रयोजनार्थीयात् । तत्र गृह्ये तद्धितान्तं प्रतिषिद्धम्- "कृतं कुर्यान् न तद्धितम्" (पार्ग् १.१७.२) इति । समासे ऽपि पदद्वयैकार्थीभावस् तत्र बह्वक्षरप्रयोगप्रसङ्गाः[^१५५] । यतो वक्ष्यति "शर्मवद् ब्राह्मणस्य" (म्ध् २.३२) इत्य् उपपदनियमम् । तत्र चतुरक्षरे त्र्यक्षरे वा नाम्नि शर्मशब्दे चोपपदे पञ्चाक्षरं षडक्षरं नाम भवति । तच् च प्रतिषिद्धम् "द्व्यक्षरं चतुरक्षरं वा कुर्यात्" (पार्ग् १.१७.२) इति । तेन यद् यत् किंचित् प्रायेण सर्वस्याभिलषणीयम् अगर्हितं पुत्रपशुग्रामकन्याधनादि तद्वचनाः शब्दा नामधेयत्वेन[^१५६] विनियोक्त्व्याः शर्मान्ताः । तेन गोशर्मा धनशर्मा हिरण्यशर्मा कल्याणशर्मा मङ्गल्यशर्मेत्यादिशब्दपरिग्रहः सिद्धो भवति ।
+*Viṣṇu* (Smṛti, 1.27.6-9).—‘The Brāhmaṇa’s name should be expressive of
+auspiciousness—the Kṣatriya’s expressive of strength,—the Vaiśya’s
+expressive of wealth,—the Śūdra’s expressive of depreciation.’
 
+*Vīramitrodaya* (Śaṃskāra, p. 237).—Names are of four kinds;
 
-[^१५६]:
-     G adds: matyā
+1.  connected with family-deity,
+2.  connected with month,
+3.  connected with asterism,
+4.  and temporal.
 
+(*a*) Says Śaṅkha.—‘The father should fix a name connected with the
+family-deity,’ *i.e*., a name consisting of words expressive of the
+Deity.
 
-[^१५५]:
-     M G: -prasaṅgo
+(*b*) Gārgya.—‘The father should impart to the hoy the name of the month
+and the name of the preceptor. The months have been declared to have the
+following names:—
 
-- <u>अथ वा</u> मङ्गलं धर्मस् तत्साधनं मङ्गल्यं नाम । कतमत् पुनर् धर्मसाधनं नाम । य एते देवताशब्दाः इन्द्रो ऽग्निर् वायुः । तथा ऋषिशब्दाः । वसिष्ठो विश्वामित्रो मेधातिथिः । तेषाम् अपि धर्मसाधनम् अस्ति । ऋषींस् तर्पयेत् पुण्यकृतो मनसा ध्यायेद् इति । 
+1.  Mārgaśīrṣa—Kṛṣṇa,
+2.  Pauṣa—Ananta,
+3.  Māgha—Achyuta,
+4.  Phālguna—Chakrī,
+5.  Caitra—Vaikuṇṭha,
+6.  Vaiśākha,—Janārdana,
+7.  Jyaiṣṭha,—Upendra,
+8.  Āṣāḍha—Yajñapuruṣa.
+9.  Śrāvaṇa—Vāsudeva.
+10. Bhādra—Hari,
+11. Āśvina—Yogīśa,
+12. Kārttika—Puṇḍarīkākṣa.’
 
-- देवतानाम् ऋषीणां च द्विजानां पुण्यकर्मणाम् ।
+(*c*) Śaṅkha-Likhita.—‘Either the father or some other senior member of
+the family should fix a name connected with the asterism.’ This name has
+been held to be the one to be used when the person bearing the name
+accosts a superior.
 
-- प्रातः प्रबुद्धः श्रीकामो नरो नामानि कीर्तयेत् ॥ इति ।
+Says Baudhāyana—‘This name in accordance with the asterism is the secret
+one, which is known only to the father and the mother and which the boy
+is to use in accosting.’
 
-मङ्गल्यग्रहणाच् च यद् अप्रशस्तं यमो मृत्युर् इत्यादि तन् निरस्यते, यच् चानर्थकं डित्थादि यदृच्छानिमित्तम् ।
+Also Āśvalāyana—‘The accosting name should be known only to the father
+and the mother; as it is under this name that the boy is initiated.’
 
-- **क्षत्रियस्य बलान्वितम्** । बलसंयुक्तं बलवाचि । अन्वयः संबन्धह् । शब्दस्यार्थेन संबन्धः प्रतिपादकभाव एव । सामर्थ्यं बलं तद् येन येन[^१५७] प्रतिपाद्यते तादृशं नाम क्षत्रियस्य कर्तव्यम् । शत्रुंतपः दुर्योधनः प्रजापाल इत्यादि । येन[^१५८] विभागेन च नामनिर्देशो जातिचिह्नम् । 
+Also Śaunaka, ‘That name under which he is to be initiated, and by which
+he will do the accosting of the teacher,—should also be fixed at the
+time of the naming ceremony. This accostive name should be pronounced by
+the father very silently, so that others may not know it. This
+initiative name the parents should bear in mind.’
 
+Like the names attached to the months the names attached to the
+asterisms are as follows:—
 
-[^१५८]:
-     M G 1st ed. omit: yena
+1.  Agni (Kṛttikā),
+2.  Prajāpati (Rohiṇī),
+3.  Soma (Mṛgaśiras),
+4.  Rudra (Ārdrā),
+5.  Diti (Punarvasū),
+6.  Bṛhaspati (Puṣvā),
+7.  Sarpa (Aśleṣā),
+8.  Pitṛ (Maghā),
+9.  Bhaga (Purvaphalgunī),
+10. Aryamā (Uttaraphalgunī),
+11. Savitṛ (Hastā),
+12. Tvaṣtṛ (Chitrā),
+13. Āyuṣ (Svātī),
+14. Indra-Agni (Viśākhā),
+15. Mitra (Anurādhā),
+16. Indra (Jyeṣṭhā),
+17. Nirṛti (Mūlā),
+18. Apas (Pūrvāṣāḍhā),
+19. Viśvedevas (Uttarāṣāḍhā),
+20. Viṣṇu (Śravaṇā),
+21. Vasu (Dhaniṣṭhā),
+22. Varuṇa (Śatabhiṣa),
+23. Ajaikapāt (Pūrvabhādra),
+24. Ahirbudhnya (Uttarabhādra),
+25. Pūṣan (Revatī),
+26. Aśvins (Aśvinī),
+27. Yama (Bharaṇī).
 
+But according to Baudhāyana, the “name connected with the asterism” is
+in accordance with the names of the asterisms themselves—such as
+‘Rohiṇī,’ ‘Bharaṇī,’ and the rest; and not in accordance with the name
+of the deity attached to each asterism. According to the astrologers
+however each asterism has four letters assigned to it (such as
+*chū-che-cho-la*, assigned to Aśvinī, and so forth, and “the name
+connected with the asterism of Aśvinī,” would be the name whose first
+letter consists of one of these four letters).
 
-[^१५७]:
-     J omits one yena
+(*d*) The ‘temporal name’ has been described by Bṛhaspati as ‘conducive
+to all kinds of business.’ It is this name that has been laid down by
+Āśvalāyana as having for its first letter one of the ghoṣa-letters, in
+its middle one of the *antastha* letters; ending with the *visarga*,
+containing either two or four vowels; and in male names the number of
+letters should always be even.
 
-- एवं **वैश्यस्य धनसंयुक्तम्** । न चात्र पर्याया एव गृह्यन्ते "धनं वित्तं स्वापतेयम्" (अम्क् २.९.९०) इति । किं तर्हि, येन प्रकारेण प्रतिपत्तिः । यदि वा धनादिशब्दप्रयोगाद् अर्थसंबन्धाद्[^१५९] वा, धनकर्मा महाधनः गोमान् धान्यग्रह इति । 
+But Baijavāpa—‘The father fixes the name, which consists of either two
+or three or four letters, or of unlimited number of letters.’
 
+Vaśiṣṭha—‘The name should consist of either two or four vowels, but
+those ending in *l* or *r* should be avoided.’
 
-[^१५९]:
-     M G: -prayogādarśasaṃbandhād
+The Mahābhāṣya—‘The first letter of the name should be *ghoṣa-vat*, the
+middle one of the *antastha* letters, it should not be similar to the
+names of the ancestors, or of the enemy; it should be one formed with a
+verbal affix, not with a nominal affix.’
 
-- एवं सर्वत्र द्रष्टव्यम् । तथा चान्वितादिशब्दप्रयोगो बलान्वितं धनसंयुक्तम् इति । इतरथा एवम् एवावक्ष्यद् "बलनामानि कुर्यात्" इति । स्वल्पत्वाद् बलाद्यर्थवाचिनाम्[^१६०]  आनन्त्याच् च पुरुषव्यक्तीनां दुरवधाने भेदे व्यवहारोच्छेद एव स्यात् । 
+Āśvalāyana—‘That name is best which consists of either four or two
+letters, which is in consonance with that of the *grandfather*’ (this
+last includes also the *gods*).
 
+Kapila-Saṃhitā—‘On the eleventh day, in due form, the name should be
+given, which is in consonance with the family-custom, and resembles the
+name of the gods or of the parents.’
 
-[^१६०]:
-     M G: balārthavācinām
-
-- **शूद्रस्य जुगुप्सितम्** । कृपणको दीनः शबरक इत्यादि ॥ २.३१ ॥
+*Baijavāpa* (Aparārka, p. 27).—‘The father gives a name either of one
+letter or two letters or three letters or four letters, or of letters
+without limit; it should be one formed with a verbal, never with a
+nominal, affix.’

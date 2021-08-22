@@ -2,5 +2,10 @@
 title = "217 विप्रोष्य पादग्रहणम्"
 
 +++
+*Gautama* (2. 40).—‘Returning from a journey, he should clasp the feet
+of the teacher’s wives.’
 
-प्रवासाद् एत्य पादयोर् ग्रहणं "सव्येन सव्यम्" (म्ध् २.७२) इति । **अन्वहम्** अहन्य् अहनि । **अभिवादनं** भूमौ । **सतां** शिष्टानां एष धर्म आचार इत्य् **अनुस्मरन्** ॥ २.२१७ ॥
+*Āpastamba* (1.14.7).—‘Also when meeting her on returning from a
+journey.’
+
+*Viṣṇu* (32.15).—\[Reproduces Manu.\]

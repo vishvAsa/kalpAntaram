@@ -2,9 +2,42 @@
 title = "042 मौञ्जी त्रिवृत्"
 
 +++
+*Gautama-Dharmasūtra*, 1.17.—‘The girdles are of *Muñja* grass, of
+bowstring and made of Murvā grass, and of fibres respectively.’
 
-मुञ्जस् तृणजातिस् तद्विकारो **मौञ्जी** । सा ब्राह्मणस्य **मेखला** रशना कर्तव्या मध्यबन्धनी । **त्रिवृत्** त्रिगुणा । **समा** न क्वचित् सूक्ष्मा न क्वचित् सूक्ष्मतरा । किं तर्हि सर्वत एव समा । **श्लक्ष्णा** तनुत्वगुणयुक्ता परिघृष्टा च ।
+*Baudhāyana-Dharmasūtra*, 1.2.14.—‘The girdles are of Muñja, bowstring
+and hempen.’
 
-- **क्षत्रियस्य** पुनर् **ज्या** धनुर्गुणः । सा कदाचिच् चर्ममयी भवति, कदाचित् तृणमयी, भङ्गोमादिरज्जुर् वा । तदर्थम् आह **मौर्वीति** । तया धनुषो ऽवतारितया श्रोणीबन्धः कर्तव्यः । यद्य् अपि त्रिवृत्तादिर् गुणो मेखलामात्राश्रितो मौञ्ज्या एव, तथापि ज्यायाः स्वरूपनाशप्रसङ्गान् न भवति ।
+*Āpastamba- Dharmasūtra*, 1.1.2.33-37.—‘For the Brahmaṇa, the girdle
+consists of Muñja-string three-fold; for the Kṣatriya, of bowstring; or
+of Muñja-string mixed with iron; for the Vaiśya, of woolen yarn; or
+according to some, of fibres of the Āsana tree, or of those of the
+Tamāla tree.’
 
-शणतन्तुविकारः **शणतान्तवी** । छान्दसत्वाद् उत्तरपदवृद्धिः । अथ वा केवलात् तन्तुशब्दात् तद्धिते कृते तदन्तस्य शणैः संबन्धः- शणानां तान्तवीति । प्रकृतेर्[^१८२] विकारः शणतान्तवी प्रकृतिसंबन्धितया व्यपदिश्यते । "गव्यं घृतम्" "देवदत्तस्य पौत्रः" इति । तन्तुः सूत्रं शणमौञ्जीवत् कर्तव्या । गृह्यकारैर् वैश्यमेखलायाः त्रिवृत्तादिधर्मः सुस्पष्ट एवोक्तः ॥ २.४२ ॥
+*Vaśiṣṭha-Smṛti*, 11.46.—‘The girdle for the Brāhmaṇa consists of the
+Muñja-string; for the Kṣatriya, of the bowstring; for the Vaiśya, of
+hempen fibre.’
+
+*Viṣṇu-Smṛti*, 27.18.—‘For these the girdles are of Muñja, of bowstring
+and of Balvaja fibres.’
+
+*Āśvalāyana-Gṛhyasütra*, 1.19.11.—‘The girdle for the Brāhmaṇa is of
+Muñja grass, for the Kṣatriya, of the bowstring; for the Vaiśya, of
+wool.’
+
+*Pāraskara-Gṛhyasūtra*, 2.5.21-23.—‘For the Brāhmaṇa, the girdle is of
+Muñja grass; for the Kṣatriya, of the bowstring; for the Vaiśya, of
+Murvā grass.’
+
+*Gobhilā- Gṛhyasūtra*, 2.10.10.—‘The girdles are of Muñja, Kāśa and
+Kambala.’
+
+*Paiṭhīnasi* (Aparārka, p. 55).—‘For the Brāhmaṇa, the girdle of *Muñja*
+and *Aśmāntaka*.’
+
+*Yama* (Vīramitrodaya-Saṃskāra, p. 433).—‘The girdle of the Brāhmaṇa is
+of Muñja grass; of the Kṣatriya of the bowstring made of Murvā grass;
+and that of the Vaiśyas, of hempen fibre.’
+
+*Śaṅkha* (Vīramitrodaya-Saṃskāra, p. 434).—‘Or, for all, of Muñja
+grass.’

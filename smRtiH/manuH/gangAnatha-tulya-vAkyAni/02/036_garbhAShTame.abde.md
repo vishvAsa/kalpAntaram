@@ -2,11 +2,77 @@
 title = "036 गर्भाष्टमे ऽब्दे"
 
 +++
+*Gautama-Dharmasūtra*, 1-7, 8, 13.—‘For the Brāhmaṇa, the Upanayana
+daring the eighth year;—for the Kṣatriya and the Vaiśya, during the
+eleventh and twelfth years, respectively.’
 
-गर्भस्थस्य यः संवत्सरस् तत आरभ्यते यो ऽष्टमो ऽब्दः । गर्भशब्देन[^१६८] साहचर्यात् संवत्सरो लक्ष्यते । न हि मुख्यया वृत्त्या गर्भस्य संवत्सरो ऽष्टम इति व्यपदेशं लभते । तस्मिन्न् **औपनायनं ब्राह्मणस्य कुर्वीत** । उपनयनम् एवौपनायनं स्वार्थिको ऽण् । "अन्येषाम् अपि दृश्यते" (पाण् ६.३.१८७) इत्य् उत्तर्पदस्य दीर्घः । छान्दसत्वाद् वोभयपदवृद्धिः । उपनयनम् इति हि एष संस्कारो वेदविदां गृह्यस्मृतिषु प्रसिद्धो माउज्ञीबन्धनापरपर्यायः । उपनीयते समीपं प्राप्यते येनाचार्यस्य स्वाध्यायाध्ययनार्थं कुड्यं कटं वा कर्तुं तद् उपनयनम् । विशिष्टस्य संस्कारकर्मणो नामधेयम् एतत् । 
+*Gautama* (Aparārka, p. 32).—‘*Initiation* during the eighth, fifth or
+ninth year; the eighth year from conception is the time fixed for all,
+the ninth or the fifth only for those with distinct motives.’
 
+*Baudhāyana-Dharmasūtra*, 2.8-10.—‘The years in this connection being
+computed from conception,—the Upanayana of the Brāhmaṇa should be
+performed during the eighth year;—three years after the eighth, of the
+Kṣatriya;—and after one more year, of the Vaiśya.’
 
-[^१६८]:
-     M G: garbhaśabde
+*Vaśiṣṭha-Smṛti*, 11.44.—‘The Upanayana of the Brāhmaṇa should be done
+during the eighth year from conception, of the Kṣatriya during the
+eleventh year from conception, and of the Vaiśya during the twelfth year
+from conception.’ *Viṣṇu*, 27.15-17.—‘The Upanayana of the Brāhmaṇa
+during the eighth year from conception; of the Kṣatriya during the
+eleventh year from conception; of the Vaiśnava during the twelfth year
+from conception.’
 
-- **गर्भाद् एकादशे राज्ञः** । गर्भात् प्रभृति गर्भाद् वा परो य एकादशो ऽब्दस् तत्र क्षत्रियस्य कर्तव्यम् । राजशब्दो ऽयं क्षत्रियजातिवचनो नाभिषेकादिगुणयोगम् अपेक्षते ग्रन्थेषु तथा प्रयोगदर्शनात्, ब्राह्मणादिजातिशब्दसाहचर्याच् च । गुणविधिषु च क्षत्रियशब्ददर्शनात् "क्षत्रियस्य तु मौर्वी" (म्ध् २.४२) इति । यस् तु राजशब्दस्य क्षत्रियाद् अन्यत्र जनपदेश्वरे वैश्यादौ प्रयोगः स गौण इति वक्ष्यामः । मुख्ये चासति गौणस्य ग्रहणम् । तथा च गृह्यकारः- "अष्टमे वर्षे ब्राह्मणम् उपनयेद् एकादशे क्षत्रियं द्वादशे वैश्यम्" (आश्ग् १.१७.१–४) इति । भगवांश् च पाणिनिः एवम् एव प्रतिपन्नो राज्ञः कर्म राज्यम् इति राज्यशब्दस्य राजशब्दं प्रति प्रकृतित्वं ब्रुवन्न् एव जनपदैश्वर्येण राजशब्दार्थप्रसिद्धिम् आह । एवं **गर्भात् तु द्वादशे** ऽब्दे **विशः** वैश्यस्य ॥ २.३६ ॥
+*Yājñavalkya*, 1.14.—‘The Brāhmaṇa’s Upanayana?s?? be performed either
+during the eighth year from conception, or during the eighth year (from
+birth); the Kṣatriya’s during the eleventh year; the Vaiśya’s during the
+twelfth year; according to some, it is to be done in accordance with the
+practice prevailing in the family.’
+
+*Āśvalāyana* - *Gṛhyasūtrā*, 1.19.1-4.—‘The Brāhmaṇa’s, Upanayana should
+be done during the eighth year, or during the eighth year from
+conception; the Kṣatriya’s during the eleventh year; the Vaiśya’s during
+the twelfth year.’
+
+*Pāraskara-Gṛhyasūtrā*, 1-2.1-3.—‘The Brāhmaṇa’s Upanayana should be
+performed during the eighth vear, or during the eighth year from
+conception; the Kṣatriya’s during the eleventh year; the Vaiśya’s during
+the twelfth year.’
+
+*Gobhila-Gṛhyasūtrā*, 1.10.1-3.—‘The Upanayana of the Brāhmaṇa should be
+done during the eighth year from conception; of the Kṣatriya, during the
+eleventh year; of the Vaiśya, during the twelfth year.’
+
+*Āpastamba-Dharmasūtra*, 1.19.—‘The Upanayana of the Brāhmaṇa should be
+done during the spring, of the Kṣatriya during the summer, and of the
+Vaiśya, during the autumn. Of the Brāhmaṇa during the eighth year from
+conception, of the Kṣatriya, during the twelfth year from conception.’
+
+*Śruti* (Vīramitrodaya, Saṃskāra, p. 339).—‘The Upanayana of the
+Brāhmaṇa should he performed when he is eight years old.’
+
+*Āśvalāyana-Smṛti* (Do., p. 340).—‘The Brāhmaṇa should acquire the
+‘twice-born’ state during the eighth year from conception, or during the
+eighth, or the tenth year; the Kṣatriya during the eleventh year: and
+the Vaiśya during the twelfth year.
+
+*Nārada* (Do., p. 31-1).—‘For the Brāhmaṇa, the Upanayana should be
+performed during the eighth year, either from conception or from birth;
+for Kṣatriyas, during the eleventh year, and for Vaiśyas during the
+twelfth year.’
+
+*Paiṭhīnasi* (Do., p. 310).—‘The Upanayana of the Brāhmaṇa should he
+performed during the fifth year from conception or during the eighth
+year from conception; of the Kṣatriya during the eleventh year from
+conception; of the Vaiśya, during the twelfth year.’
+
+*Laugākṣi* (Do., p. 311'.—‘The Brāhmaṇa’s Upanayana during the seventh
+year; of the Kṣatriya during the ninth year, and of the Vaiśya, during
+the eleventh year.’
+
+*Budha* (Aparārka, p. 31).—‘The Brāhmaṇa should get himself initiated in
+his eighth year from conception, during the spring.'
+
+*Shannaka* (Do.).—‘One should initiate the Brāhmaṇa in his eighth year,
+or in his eighth year from conception; the Kṣattnya in the eleventh and
+the Vaiśya in the twelfth year.’

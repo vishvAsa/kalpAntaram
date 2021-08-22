@@ -2,5 +2,21 @@
 title = "205 गुरोर् गुरौ"
 
 +++
+*Āpastamba Dharmasūtra* (1.8.19).—‘When the Teacher and the Teacher’s
+Teacher are seated together, he should clasp the feet of the latter and
+then those of the former.’
 
-उक्ता गुरुवृत्तिर् इदानीम् अन्यत्रातिदिश्यते । अध्ययनधर्मत्वात् सर्वस्यास्य गुरुर् अत्राचार्यो विज्ञेयः । तस्य यो **गुरुस्** तस्मिन् **संनिहिते** **गुरुवद्** वर्तितव्यम् । **संनिहित** इति न तद्गृहगमनम् अभिवादनाद्यर्थं कर्तव्यम् । गुरुगृहे वसन् **गुरुणानिसृष्टो** अननुज्ञातः **स्वान् गुरून्** मातापितृप्रभृतीन् नाभिवादयितुं गच्छेत्, न पुनर् गुरुगृहे स्थितस्य यद् स्वे गुरव आगच्छन्ति तदा तदभिवादने गुर्वज्ञापेक्षितव्या । कुत एतत्, मातापित्रोर् अत्यन्तमान्यत्वात् । पितृव्यमातुलादीनाम् अप्य् अभिवादनप्रवृत्तस्य न कश्चिद् गुरुवृत्तेर् विघ्नः । आराधनार्थ एवायं सर्वः प्रयासः । मातापितृगुरुसंनिपाते कः क्रमो ऽभिवादनस्येत्य् उक्तम् "सर्वमहती माता" । पित्राचार्ययोस् तु विकल्पः । यतः पितृत्वाध्यारोपेणाचार्यस्य गौरवं विहितम् । अतः पिता श्रेष्ठः । यतश् चोक्तम् "गरीयान् ब्रह्मदः पिता" (म्ध् २.१४६) इति तत आचार्यः । अतो ऽयम् विकल्पः ॥ २.२०५ ॥
+*Āpastamba Dharmasūtra* (1.6.29).—‘In the presence of the Ācārya, he
+should not clasp the feet of other Teachers of the lower grade.’
+
+*Gautama* (6. 3, 4).—‘Mother, father, relations, elders, intellectual
+teachers;—when all these are present, the preceding should be saluted
+before the succeeding.’
+
+*Viṣṇu* (28.29, 30).—‘When the Teacher’s Teacher is present, behaviour
+towards him should be like that towards the Teacher;—until permitted by
+the teacher, he should not salute his elders.’
+
+*Vaśiṣṭha* (13.22).—‘When the Teacher’s Teacher is present, the
+behaviour towards him is prescribed to be like that towards the
+Teacher.’

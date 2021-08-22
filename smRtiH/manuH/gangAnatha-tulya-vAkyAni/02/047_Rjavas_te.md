@@ -2,9 +2,12 @@
 title = "047 ऋजवस् ते"
 
 +++
+*Gautama- Dharmasūtra*, 1.27.—‘They should he uninjured, tapering
+towards the top, and with bark.’
 
-**ऋजवः** अवक्राः । **सर्वे** इत्य् अनुवादः, प्रकृतत्वाविशेषात् । **अव्रणा** अच्छिद्राः । **सौम्यं** प्रियकरं[^१८८] दर्शनम् एषां ते **सौम्यदर्शनाः** वर्णपरिशुद्धाः, अकण्टकिताश् च । **अनुद्वेगकराः** । नैतैः कश्चिद् उद्वेजयितव्यः स्वा वा मनुष्यो वा । **नृणाम्** इति प्रदर्शनार्थम् । **सत्वच** अतष्टाः । **अनग्निदूषिताः** वैद्युतेन दावोत्थेन वास्पृष्टाः ॥ २.४७ ॥
+*Visṇu-Smṛti*, 27.24.—‘They should be not crooked, and with bark.’
 
+*Vyāsa* (Vīramitrodaya-Sarhskāra, p. 436).—‘They should be tapering like
+the sacrificial post.’
 
-[^१८८]:
-     M G: priyaṃkaraṃ
+*Paiṭhīnasi* (Do.).—(The same words as Gautama’s.)

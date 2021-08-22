@@ -2,17 +2,36 @@
 title = "049 भवत्-पूर्वञ् चरेद्"
 
 +++
+*Gautama-Dharmaṣūtra*, 2.43.—‘The term *bhavat* shall be used in the
+beginning, middle or end, respectively, according to the caste.’
 
-भिक्षाप्रार्थनावाक्यम् अत्र **भैक्ष**शब्देनोच्यते । तस्य हि **भवच्**छब्दपूर्वता संभवति, न भक्तादेर् अर्थस्य । स्त्रीणां च प्रथमं भिक्ष्यमाणतयोपदेशात् प्रार्थनायां च प्रार्थ्यमानस्य संबोध्यत्वात् संबुद्धिविभक्त्यन्तः स्त्रीलिङ्गो भवच्छब्दः प्रयोक्तव्यः । क्रम एव चात्रादृष्टार्थो नियम्यते । यथार्थं तु शब्दप्रोयोगो "भवति भिक्षां देहि" इति ।
+*Baudhāyana-Dharmasūtra*, 1.2.17-18.—‘In the formula used, the term
+*bhavat* should come in the beginning and the term *bhikṣām* in the
+middle. In begging, the Brāhmaṇa should use the term *bhavat* in the
+beginning; the Kṣatriya, in the middle; the Vaiśya, in the end.’
 
-- <u>कुतः</u> पुनः संस्कृतशब्दार्थलाभः यावता स्त्रियः संबोध्यन्ते । ताश् च संस्कृतं नावबुद्ध्यन्ते । <u>नित्यम्</u> उपनयनम् । तस्य च शब्दोच्चारणम् अङ्गत्वेनोक्तम् इति । अनित्याश् चापभ्रंशाः । न तैर् नित्यस्य संयोग उपपद्यते । तथैव च शिष्टा असाधून् उपश्रुत्यैकदेशसादृश्येन साधून् संस्मृत्यार्थं प्रतियन्त्य् असाधुर् अनुमानेन वाचक इति दर्शनेन गाशब्दो हि सादृश्याद् गोशब्दम् अनुमापयति । ततो ऽर्थप्रतिपत्तेः, एवं स्त्रियः सादृश्यात् साधुभ्यः असाधून् उत्पन्नसंबन्धात् स्मृत्वा तेभ्यो ऽर्थं प्रत्येष्यन्ति । स्वल्पाक्षरं चैतत् पदत्रयं सर्वत्र प्रसिद्धं स्त्रीभिर् अपि सुज्ञानम् । एवं **भवन्मध्यं** क्षत्रियः "भिक्षां भवति देहि" इति । तथा **वैश्यो** भवच्छब्द उत्तरम् अस्येति, **भवदुत्तरं** वाक्यं समासार्थः[^१९१] ।
+*Āpastamba-Dharmaṣūtra*, 1,3.28-30.—‘The Brāhmaṇa should beg alms with
+words beginning with *bhavat*, the Kṣatriya with words having *bhavat*
+in the middle, and the Vaiśya with words having *bhavat* in the end.’
 
+*Vaśiṣṭha-Smṛti*, 11.50.—‘The Brāhmaṇa should beg alms with words
+beginning with *bhavat*, the Kṣatriya, with *bhavat* in the middle, and
+the Vaiśya, with *bhavat* in the end.’
 
-[^१९१]:
-     J: samārtham
+*Viṣṇu-Smrti*, 27.25.—‘Alms-begging is accompanied by the term *bhavat*
+in the beginning, in the middle and in the end.’
 
-- **उपनीत** इति भूतप्रत्ययनिर्देशाद् आन्वहिके ऽपि वृत्त्यर्थे भैक्ष्यचरणे ऽयम् एव विधिर् इति दर्शयति । "एष प्रोक्तो हि द्विजातीनाम् औपनायनिकः" (म्ध् २.६८) इत्य् अत्रोपनयनप्रकरणम् उपसंहरन्न् उपनयनाङ्गस्यापि भैक्ष्यस्यायम् एव विधिर् इत्य् आह । अन्यथाकरणाद् उपनयनाङ्गम् एवैतत् स्याद् यदि वा भूतप्रत्ययसामर्थ्यात्[^१९२] प्रकरणं बाधित्वा वृत्त्यर्थ एव भैक्ष्ये । उपनीयमानस्य तदङ्गं यद्भैक्षं यच् चाहर् अहर् वृत्त्यर्थं तत्र सर्वत्रायं धर्मः ॥ २.४९ ॥
+*Yājñavalkya*, 1.30.—‘The alms-begging of the Brāhmaṇa, the Kṣattnya and
+the Vaiśya, should be accompanied by the term *bhavat* in the beginning,
+middle and end, respectively.’
 
+*Āśvalāyana-Gṛhyasūtra*, 22.8.—‘The formula used should be *bhavat
+bhikṣām dadātu*.’
 
-[^१९२]:
-     M G 1st ed. : yadi vā na pratyaya-
+*Pāraskara-Gṛhyasūtra*, 5.2.2-4).—‘The Brāhmaṇa should beg alms with the
+term *bhavat* in the beginning; the Kṣatriya, with the term *bhavat* in
+the middle; the Vaiśya, with the term *bhavat* in the end.’
+
+*Śaunaka* (Vīramitrodaya-Saṃskāra, p. 439).—‘In begging from males, he
+should say *bhikṣām bhavat dadātu*, and in begging from females *bhikṣām
+bhavatī dadātu*.’

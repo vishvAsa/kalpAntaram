@@ -2,9 +2,11 @@
 title = "212 गुरुपत्नी तु"
 
 +++
+*Viṣṇu* (32, 13).—(Reproduces Manu.)
 
-**पूर्णविंशतिवर्षेण** तरुणेनेत्य् अर्थः । बालस्य आ षोडशाद् वर्षाद् अदोषः । पूर्णानि विंशतिवर्षाणि यस्य स एवम् उच्यते । अयं कालो[^५३२] यौवनोद्भेदोपलक्षणार्थः । अत एवाह **गुणदोषौ विजानता** । कामजे सुखदुःखे गुणदोषाव् अभिप्रेतौ स्त्रीगतौ च स्वाकृतिदुराकृतिलक्षणौ धर्यचापले वा । सर्वथातन्त्रा विंशतिसंख्या ॥ २.२१२ ॥
+*Gautama* (2. 39).—‘Feet-washing and feet-clasping shall not be done for
+the teacher’s wife.’
 
-
-[^५३२]:
-     M G 1st ed.: nyāyo
+*Baudhāyana* (1. 2. 34).—‘One who has become an adult shall not salute
+(by feet-clasping) the youthful sister-in-law or the youthful wife of
+the teacher.’

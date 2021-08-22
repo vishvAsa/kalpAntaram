@@ -2,17 +2,29 @@
 title = "142 निषेकादीनि कर्माणि"
 
 +++
+See also Manu, 149.
 
-निषेकग्रहणात् पितुर् अयं गुरुत्वोपदेशः । **निषेको** रेतःसेकः, स आदिर् येषां कर्मणाम् । **आदि**ग्रहणात् सर्वे संस्कारा गृह्यन्ते । तानि **यः करोत्य् अन्नेन च यः संभावयति** संवर्धयति । "चैवेनम्" इति वा पाठः । अर्थस् तु स एव, अन्नेनैव संभावनोपपत्तेः । अर्थान्तरनिर्देशः एनं कुमारम् ।
+*Yājñavalkya*, 1.34.—‘He is the *Guru* who, having performed all the
+rites, imparts the Veda to the pupil.’
 
-- <u>ननु</u> चान्वादेशः । न चेह कुमारस्य पूर्वम् उपदेशः । <u>नैवम्</u> । कस्यान्यस्य **निषेकादीनि** क्रियन्ते ।[^३९६] सामर्थ्याद् अपि निर्देशो न निर्देशत एव । तानि **यः करोति** । एवम् आभ्यां गुणाभ्यां हीनः केवलजनकत्वे पितैव भवति न गुरुः । न चैवं मन्तव्यम् असति गुरुत्वे नासौ मान्यः । सर्वप्रथमम् असाव् एव मान्यः । तथा च भगवान् व्यासः- 
+*Yama* (Vīramitrodaya-Saṃskāra, p. 478).—‘He is a *Guru* who is fully
+equipped with knowledge of the Veda, has excellent character, with
+senses under control.’
 
+*Hārīta* (Parāśaramādhava, p. 303),
 
-[^३९६]:
-     M G place here: tāni yaḥ karoti (M = yat)
+*Devala* (Aparārka, p. 65),
 
-- प्रभुः शरीरप्रभवः प्रियकृत् प्राणदो गुरुः ।
+‘The sub-teacher, the father, the elder brother, the king, the maternal
+uncle, the father-in-law, the protector, the maternal and paternal
+grand-fathers, the uncle, one of the superior caste,—these are *gurus*
+among males. The mother, the maternal and paternal grandmothers, the
+teacher’s wife, the uterine sisters of the father and of the mother, the
+mother-in-law, and the elderly nurse,—these are *gurus* among females,’
 
-- हितानाम् उपदेष्टा च प्रथ्यक्षं दैवतं पिता ॥ इति ।
-
-**विप्र**ग्रहणं प्रदर्शनार्थम् ॥ २.१४२ ॥
+*Vyāsa* (Aparārka, p. 65).—‘Maternal grandfather, maternal uncle,
+paternal uncle, father-in-law are *gurus*; the elder brother, the
+Accomplished Student and the Ṛtvik are to be inspected like the *guru*.
+The mother’s sister, the maternal aunt, the mother-in-law, the nurse,
+the father’s sister, the paternal grandmother, the paternal aunt and the
+teacher’s wife are to be treated as the mother.’

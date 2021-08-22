@@ -2,7 +2,10 @@
 title = "110 नाऽपृष्टः कस्य"
 
 +++
+*Vaśiṣṭha-Smṛti* (2.18).—‘The Veda should not be taught to one who is
+not prepared to render such respect as lies within his power.’
 
-अधीयानेनानुपसन्नेन यदि नाशितम् अपाक्षरं विस्वरं वाधीतं तदापृष्टेन न वक्तव्यम्- "नाशितं त्वयैवम् एतत् पठितव्यम्" इति । शिष्यस्य त्व् अपृच्छतो ऽपि वक्तव्यम् । पृच्छमानो ऽपि यद्य् **अन्यायेन** पृच्छति तथापि न वक्तव्यम् । प्रशयपूर्वकम् "अस्मिन् वस्तुनि मे संदेहस् तद् उपदेष्टुम् अर्हसि" इति शिष्यधर्मेण प्रश्नो न्यायेन । अन्यथा तु **जानन्न् अपि जडवन्** मूक इव **लोके** वर्तेत **आचरेद्** अज्ञ इव तूष्णीम् आसीत । 
-
-- शास्त्रविषयो ऽयम् अपृष्टसंदेहापनयननिषेधः । व्यवहारे तु वक्ष्यति- "नियुक्तो वानियुक्तो वा धर्मज्ञो वक्तुम् अर्हति" इति । अन्ये त्व् अविशेषेणेच्छन्ति ॥ २.११० ॥
+*Baudhāyana-Dharmasūtra* (2.50).—‘If a question regarding the Veda is
+asked without due respect, it destroys the questioner, as fire burns
+straw; therefore the Veda should not be expounded to those who do not
+render proper respect.’

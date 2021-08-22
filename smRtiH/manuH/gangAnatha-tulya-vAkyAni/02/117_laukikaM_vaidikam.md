@@ -2,15 +2,34 @@
 title = "117 लौकिकं वैदिकम्"
 
 +++
+*Āpastamba-Dharmasūtra*, (1.2,15).—‘He should never bear malice towards
+him.’
 
-अतिक्रान्तं प्रासङ्गिकम् । अभिवादनविधिर् इदानीं प्रक्रम्यते । 
+*Āpastamba-Dharmasūtra* (5.19-20).—‘He should be always saluted; some
+people hold that the Teacher’s feet should he clasped.’
 
-- लोके भवं **लौकिकं** लोकाचारशिक्षणम् । अथ वा गीतवादित्रकलानां ज्ञानं वात्स्यायनविशाखिकलाविषयग्रन्थज्ञानं वा । **वैदिकं** विधिनोदितं वेदवेदाङ्गस्मृतिविषयम् । आध्यात्मिकविद्यात्मोपनिषद्विद्या । आत्मोपचाराद् वा शरीरस्य वैदिकम् । एतज् **ज्ञानं** यतः शिक्षेत तं **पूर्वम्** उपदेष्टारं पुरुषम् **अभिवादयेत्** । प्रथमसंगमे यद् आशीःप्रयोगार्थं वक्ष्यमाणस्वरूपेण प्रयोगेण शब्देन संमुखीकरणं सो ऽभिवादयतेर् अर्थः । **पूर्वम्** इति प्रथमम् । तेनासौ संबोध्यः, न पुनस् तदीयं वचनम् अपेक्षितव्यम् । तदा हि प्रत्यभिवादयिता भवेत् । अभिवादयेद्[^३४७] इत्य् अनेनैव सिद्धत्वात् पूर्वशब्दो ऽनर्थक इति चेत् तन् न । सति ह्य् अस्मिन्न् अयम् अर्थो लभ्यते । धातूपसर्गार्थपर्यालोचनया ह्य् आभिमुख्येन वदनमात्रं प्रतीयते । अन्येनापि संबोधितस्य भवत्य् एव । ये तु पूर्वं स्वयोनिगुरुभ्य[^३४८] इति व्याचक्षते, तद् अप्रकृतसंशब्दितम् इत्य् उपक्ष्यम् ॥ २.११७ ॥
+*Āpastamba-Dharmasūtra* (14.7-9)—‘When one has completed his study he
+should clasp the feet of all his superiors;—also when he meets them on
+returning from a journey;—there should he clasping of the feet of
+brothers and sisters, in the order of seniority.’
 
+*Vaśiṣṭha-Smṛti* (13.12).—‘The feet should be clasped of one who is
+superior either in Vedic learning or in birth.’
 
-[^३४८]:
-     M G 1st ed.: svayogi-
+*Viṣṇu-Smṛti* (27. 14-17).—‘Having offered the Twilight Prayers, he
+should salute the Teacher:—he should touch his feet with reverent hands,
+the right with the right and the left with the left;—at the salutation,
+he should also announce his name, ending with the term *bhoḥ*.’
 
+*Gobhila-Gṛhyasūtra* (3.1.27).—‘Wearing of the girdle, begging alms,
+fetching fuel, water-sipping, morning-salutation,—these are obligatory
+daily duties.’
 
-[^३४७]:
-     M G 1st ed.: pratyabhivādayitābhivādayed
+*Śānkhyāyana-Gṛhyasūtra* (Vīramitrodaya-Saṃskāra, p. 460).—‘Daily, one
+shall salute the Teacher, as also his elders—of these, the Vedic scholar
+whenever one meets him; and one who is not learned in the Veda, only
+when one meets him on returning from a journey.’
+
+*Paiṭhīnasi* (Do.).—‘One should salute, first of all, that person from
+whom one acquires knowledge, either temporal or scriptural or related to
+Dharma.’

@@ -2,9 +2,13 @@
 title = "211 अभ्यञ्जनं स्नापनम्"
 
 +++
+*Baudhāyana* (1. 2. 38).—(See above.)
 
-घृततैलादिना केशकायोपदेहनम् **अभ्यञ्जनम्** । **गात्राणाम् उत्सादनम्** उद्वर्तनम् । कार्यसामान्यात् पादधावनम् अपि । सर्वथा शरीरस्पर्शसाध्या या काचिद् अनुवृत्तिः सा सर्वा प्रतिषिध्यते । वक्ष्यति च[^५३१] हेतुं "स्वभाव एष नारीणाम्" (म्ध् २.२१३) इति । **केशानां च प्रसाधनं** विन्यासरचनादिकरणम्, कुङ्कुमसिन्दूरादिना सीमन्तोत्थापनम् । प्रदर्शनार्थं चैतद् उक्तम् । तेन देहप्रसाधनम् अपि चन्दनानुलेपनानि निषिध्यन्ते ॥ २.२११ ॥
+*Gautama* (2. 39).—‘There should be no eating of the leavings, bathing,
+hair-dressing, feet-washing, shampooing and feet-clasping.’
 
+*Āpastamba Dharmasūtra* (1. 7. 57).—(See above.)
 
-[^५३१]:
-     M G 1st ed.: yaṃ
+*Viṣṇu* (32. 6).—‘For the teacher’s wives one should not do shampooing,
+applying of collyrium, dressing of hair, or touching the feet and such
+like acts.’

@@ -2,27 +2,55 @@
 title = "056 नोच्छिष्टङ् कस्य"
 
 +++
+**(Verse 56-57)  
+**
 
-पात्रीस्थम् अन्नम् आस्यस्पर्शदूषितम् **उच्छिष्टम्** उच्यते । तन् **न कस्यचिद् दद्याद्** अनेनैव सिद्धे स्नातकव्रतेषु यः शूद्रविषयः प्रतिषेधः स तत्रैव निरूपयिष्यते । चतुर्थ्यां प्राप्तायां षष्ठी संबन्धमात्रनिषेधार्था । ये ऽपि दत्तम् इदम् अस्मभ्यम् इति न विदुस् तेषाम् अपि भोजनाय न[^२०५] प्रकल्प्यं[^२०६] श्वबिडालादीनाम् । न ह्य् अत्र ददात्यर्थः परिपूर्णः[^२०७] स्वत्वनिवृत्तिमात्रं दातुः, परस्य स्वत्वापत्तिर्[^२०८] नास्ति । 
+*Āpastamba-Dharmasūtra*, 1. 3. 36-10.—‘After eating, he should himself
+wash the dish; he should not have any leavings; what he does not eat he
+should bury in the ground; or throw into water.’
 
+*Āpastamba*, 1. 11- 31. 22.—‘He should not offer the leavings to a
+non-Brāhmaṇa.’
 
-[^२०८]:
-     M G J: satvāpattir; my reading is conjectural, and based also on Jha's translation of this sentence.
+*Āpastamba*, 2.1.2-3.—‘He should eat twice; never satiating himself with
+food.’
 
+*Vaśiṣṭha* (Aparārka, p. 61).—‘For the ascetic the meal should consist
+of eight morsels, for the hermit, sixteen, for the householder,
+thirty-two; for the student, there is no limit.’
 
-[^२०७]:
-     M G: paripūrṇa
+\[This same text is quoted in Parāśaramādhava, p. 370, as from
+Āpastamba. \]
 
+*Vaśiṣṭha*, 17.—‘Leavings or no leavings,—he should not offer the food
+to a Śūdra.’
 
-[^२०६]:
-     M G 1st ed.: prakalpaṃ
+*Vaśiṣṭha*, 11.17.—‘Leavings, except those of the Teacher, should never
+be eaten; nor one’s own leavings.’
 
+*Āpastamba-Dharmasūtra*, 2. 7. 17. 12.—‘He should not. offer the
+leavings to any one who does not possess the necessary qualifications.’
 
-[^२०५]:
-     M G 1st ed. omit: na
+*Viṣṇu-Smṛti*, 67. 36.—‘One should not eat clarified butter, with mouth
+unclean.’
 
-- **अन्तरा**शब्दो मध्यवचनः । द्वौ भोजनकालौ सायं प्रातश् च । ततो ऽन्यस्मिन् काले न भुञ्जीत । अथ वा व्यवधाने **अन्तरा**शब्दः । त्यक्तभोजनव्यापारः क्रियान्तरेण व्यवधाय पुनस् तद् एव प्राक्पात्रगृहीतं न भुञ्जीत । स्मृत्यन्तरे तु विशेषः पठ्यते- "उत्थानाचमनव्यापेतम्" इति (च्ड़्। ग्ध् १७.१९) । केचित् तु विच्छेदम् अन्तरम् आचक्षते । "सव्येन पाणिना पात्रम् अन्वालभ्य दक्षिणेनावदाय प्राणायास्ये जुहोति" इति श्रूयते । तत्र यः सव्येन पात्रस्यानुग्रहस् तदनन्तरम् । 
+*Baudhāyana-Dharmasūtra*, 1. 2. 37.—‘Leavings should he avoided.’
 
-- **न चैवात्यशनम्** अतिमात्रम् अशनं **कुर्यात्** । एतच् चानारोग्यकारणं गुरुविरुद्धादीनां प्रदर्शनार्थम् । हेतूपदेशान् मात्राशितायाश् चायुर्वेदाद् अतिमात्रता बोद्धव्या । यावद् अशितम् अन्नम् उदरपूरं न करोति सम्यग् जीर्यति तावद् अशितव्यम् । त्रयः कुक्षेर् भागाः, अध्यर्धम् अन्नस्य भागार्धं पानस्य भागो दोषसंचाराय । अन्यथानारोग्यम् । 
+*Saṃvarta* (Aparārka, p. 61).—‘Eating in the morning and in the evening
+has been prescribed for men, by the gods; one shall not eat in between
+these two meals; this practice is equal to the Agnihotra.’
 
-- **न चोच्छित्ष्टः क्वचिद् व्रजेत्** । अतश् चोच्छिष्टम् अपनीय शुचित्वम् आपादिते तस्मिन्न् एव देश आचान्तव्यम् ॥ २.५६ ॥
+*Mahābhārata*. (Aśvamedhika-Parāśaramādhava, p. 370).—‘One should never
+overeat himself, nor eat too little.’
+
+*Pulastya* (Do.). One shall never eat all that is served to him, except
+curd, butter, fruits, milk, honey, and *sattu*.’
+
+*Brahmapurāṇa* (Do., p. 372).—‘He shall not leave food needlessly; he
+shall not go anywhere with particles of food still on him.’
+
+*Gautama-Dharmasūtra*, 2.47.—‘\[He should eat\] contentedly. not
+greedily.’
+
+*Gautama-Dharmasūtra* (Parāśaramādhava, p. 371).—‘Morning and evening,
+he shall eat food, which has been worshipped, without decrying it.’

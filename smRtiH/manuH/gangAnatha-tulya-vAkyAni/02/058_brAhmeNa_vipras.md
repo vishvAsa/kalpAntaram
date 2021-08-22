@@ -2,19 +2,44 @@
 title = "058 ब्राह्मेण विप्रस्"
 
 +++
+**(Verses 58-59)  
+**
 
-**तीर्थ**शब्देन पवित्रम् उदकाधिकरणम् उच्यते । तारणाय पापप्रमोचनाय च तिष्ठतीति तीर्थम् । क्वचित् तु तरन्त्य् अनेनेति तीर्थम् उदकावतरणमार्गः । इह तूदकाधारकरतलैकदेश उच्यते । स्तुत्या वा तीर्थशब्दप्रयोगः । न हि तत्र नित्यस्था आपः । तेन **उपस्पृशेद्** आचामेत् । **ब्राह्मेणेत्य्** एतद् अपि स्तुत्यर्थम् एव । ब्रह्मा देवतास्येति । न हि तीर्थस्य देवता भवत्य् अयागरूपत्वाद् अमन्त्रत्वाच् च । यागरूपतां च केनचिद् धर्मेण शुद्धिहेतुत्वादिनाध्यारोप्य देवतातद्धितः । **नित्यकालं** शौचार्थे कर्माङ्गे च । **कः** प्रजापतिः, स देवतास्येति **कायम्** । एवं त्रिदशा देवता अस्येति **त्रैदशिकम्** । त्रिदशशब्दाद् देवताणिकृते स्वार्थे कः । देवतात्वं च पूर्ववत् । एभिस् तीर्थैर् **उपस्पृशेत्** । **विप्र**ग्रहणम् अविवक्षितम् । यतः क्षत्रियादीनं विशेषं वक्ष्यति । न चासत्यां सामान्यतः प्राप्तौ विशेषविधानम् उपपद्यते, "कण्ठगाभिस् तु भूमिपः" (म्ध् २.६२) इत्यादि । **न पित्र्येण** पितृदैवत्येन **कदाचिद्** अपि । स्फोटपिटकादिना ब्राह्मादितीर्थेष्व् अयोग्यताम् आयातेष्व् अपि ।
+*Vaśiṣṭha-Sṃṛti*, 3. 29.—‘The line beyond the base of the thumb is the
+*Brāhma-tīrtha*; through that one should sip water thrice and then wash
+with water.’
 
-- <u>ननु</u> चाविधानाद्[^२१०] एव पित्र्यस्याप्राप्तिः । <u>अस्त्य्</u> अत्राशङ्का । पितृतीर्थज्ञापनार्थं तावत् पित्र्यं तयोर् अध[^२११] इत्य् अवश्यं वक्तव्यम् । न च तस्येह कार्यं निर्दिश्यते । कार्याकाङ्क्षायां[^२१२] प्रकृतत्वात् तेन कार्येण संबन्ध आशङ्क्येत । अद्य पुनः प्रतिषेधे सति पित्र्यम् इति समाख्ययैव कार्यावगतिः, उदकतर्पणादि पितृकर्म एतेन तीर्थेन कर्तव्यम् । एवं स्तुतिर् अन्वयिनी भवति । श्रुतिनोदितत्वाच् च ब्राह्मादीनां तदभावे प्राप्ताशङ्कानिवृत्त्यर्थं युक्तम् अस्याभिधानम् ॥ २.५८ ॥
+*Viṣṇu-Sṃṛti*, 62. 6.—‘He should sip water through the *Brahma-tīrtha*.’
 
+*Yajñavalkya*, 1.18.—‘With hands between his knees, seated on a pure
+spot, facing the north or the east, the twice-born should sip water.’
 
-[^२१२]:
-     M G: -kāṅkṣāya
+*Baudhāyana-Dharmasūtra*, 1. 5. 11.—‘One should sip water through the
+*Brāhma-tīrtha*.’
 
+*Baudhāyana-Dharmasūtra*, 5. 1. 12-13.—‘The base of the thumb is the
+*Brāhma-tīrtha*; the tip of the thumb is the *Pitrya-tīrtha*; the tips
+of the fingers, the *Daiva-tīrtha*; the base of the fingers, the
+*Ārṣa-tīrtha*; the *Pitrya-tīrtha* is also that between the thumb and
+the forefinger.’
 
-[^२११]:
-     M G omit: adha
+*Viṣṇu-Smṛti*, 62.1-4.—‘For the twice born, the base of the little
+finger is the**Prājāpatya*-tīrtha*; at the base of the thumb, the
+*Brāhma-tīrtha*; at the tip of the fingers, the *Daiva*; at the base of
+the forefinger, the *Pitrya*.’
 
+*Yājñavalkya*, 1.19.—‘The base of the little finger, the base of the
+forefinger, the base of the thumb, and the tip of the fingers of the
+hand constitute the *Prājāpatya, Pitrya, Brahma* and *Daiva* tīrthas
+respectively.’
 
-[^२१०]:
-     M G 1st ed.: cāvidhānavad
+*Śaṅkha* (quoted in Medhātithi).—‘The *Kāya* is at the base of the
+little finger; the *Prājāpatya* at the base of the thumb, the *Daiva*,
+at the tips of the fingers; the *Pitrya*, at the base of the
+index-finger.’
+
+*Śaṅkha-Likhita* (Parāśaramādhava, p. 221).—‘The *Brahmatīrtha* is
+situated to the left of the thumb, on the line pointing upwards; the
+*Pitrya* between the thumb and the index finger; the *Prājāpatya*
+between the palm and the little index: on the top of the finger tips,
+the *Daiva*.’

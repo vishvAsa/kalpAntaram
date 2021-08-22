@@ -2,9 +2,31 @@
 title = "046 केशान्तिको ब्राह्मणस्य"
 
 +++
+*Gautama-Dharmasūtra*, 1.27.—‘They are of the size reaching up to the
+head, the forehead and the nose-tip.’
 
-आकारविशेषवचनो दण्डशब्दः । दीर्घं काष्ठं[^१८७] संमितायामं दण्ड इत्य् उच्यते । कियत् तस्य दैर्घ्यम् इत्य् अपेक्षायाम् आह । केशान्तं गच्छति प्राप्नोति **केशान्तगो** मूर्द्धप्रमाणः । पादाग्राद् आरभ्य मूर्द्धावधिः **केशान्तगः** । केशा वान्तो ऽस्येति **केशान्तकः** । समासान्तः ककारः । **प्रमाणतः** प्रमाणेनानेन युक्तो **दण्डः कार्यः** कारयितव्यः **ब्राह्मणस्या**चार्येण । **ललाटसंमितः** ललाटान्तम् इतः ललाटन्तप्रमाणः । ललाटमात्रे चतुरङ्गुलेन मीयमानस्य दण्डशब्दवाच्यत्वाभावाद् एवं व्याख्यायते- पादाग्राद् आरभ्य यावल् ललाटान्तं प्राप्तः । एवं **विशो** वैश्यस्य **नासान्तग** इति ॥ २.४६ ॥
+*Baudhāyana-Dharmasūtra*.—‘The staves are of a sacrificial wood,
+reaching up to the head, the forehead and the nose-ṭip.’
 
+*Vaśiṣṭha-Smṛti*, 11.46.—‘For the Brāhmaṇa, it should reach up to the
+hair; for the Kṣatriya, up to the forehead; for the Vaiśya, up to tho
+nose.’
 
-[^१८७]:
-     M G: kāṇḍa
+*Āśvalāyana-Gṛhyasūtra*, 19.13.—‘For the Brāhmaṇa, reaching up to the
+hair; for the Kṣatriya, reaching up to the forehead; for the Vaiśya,
+reaching up to ṭhe Breath (Nose-tip).’
+
+*Pāraskara-Gṛhyasūtra* (Vīramitrodaya-Saṃskāra, p. 436).—‘The staff of
+the Brāhmaṇa should reach to his hair; of the Kṣatriya, to his forehead;
+of the Vaiśya, to the Breath.’
+
+*Vyāsa* (Do.).—‘Reaching up to the head, the forehead and the nose-tip.’
+
+*Śaṅkha* (Do., p. 437).—‘They have been described as ranging between the
+Hair and the Forehead.’
+
+*Viṣṇu* (Vīra-Saṃskara, p. 437).—‘They should reach the Hair, the
+Forehead and the Nose.’
+
+*Śaṅkha-Likhita* (Do.).—‘They should reach the Hair, the Forehead and
+the Mouth.

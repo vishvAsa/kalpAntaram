@@ -2,11 +2,16 @@
 title = "158 यथा षण्ढो"
 
 +++
+*Parāśara-smṛti* (Prā. 8-18).—(Reproduces Manu with a slight verbal
+variation.)
 
-**षण्ढो** नपुंसक उभव्यञ्जनो ऽशक्तः स्त्रीगमने, **यथा स्त्रीष्व् अफलः** । **यथा गौर् गवि** स्त्रीगौः स्त्रीगव्याम्[^४०७] एवं **तथा विप्रो ऽनृचो** ऽनधीयानो **ऽफलः** ॥ २.१५८ ॥
+*Vyāsa* (*Vīramitrodaya-Saṃskāra*, p. 511).—‘For one who is devoid of
+the Veda, all actions are futile.’
 
+*Vaśiṣṭha* (Do,).—‘One bereft of the Veda is not a Brāhmaṇa.’
 
-[^४०७]:
-     M G: strīgavyā
+*Hārīta* (Do., p. 512).—‘The Veda is what should be learnt by the
+Brāhmaṇa.’
 
-_सप्ताष्टश्लोकाः अध्येतृवेदित्रोः प्रशंसार्था अतिक्रान्ताः। इदानीम् अश्रद्धस्य शिष्यस्याधीयानस्येतस् ततश् चित्तं व्याक्षिप्यते ।_
+*Mahāhhārata*, 12.36.47.—(First half the same as Manu)—‘as the bird is
+without wings, so is the Brāhmaṇa devoid of *Mantras*.’

@@ -2,23 +2,22 @@
 title = "032 शर्मवद् ब्राह्मणस्य"
 
 +++
+*Pāraskara-Gṛhyasūtrā*, 1. 17.4.—‘*Śarma* for the Brāhmaṇa, *Varma* for
+the Kṣatriya, *Gupta* for the Vaiśya.’
 
-अत्र स्वरूपग्रहणं पाठानुक्रमश् चादौ मङ्गल्यम् अन्ते शर्मशब्दः[^१६१] । तथा चोदाहृतम् । क्षत्रियादिनाम्नां तु नैतत् संभवति, रक्षाशब्दस्य स्त्रीलिङ्गस्य श्रवणात् पुंसां सामानाधिकरण्यानुपपत्तेः । तस्माद् एकोपक्रमत्वात् समाचाराच् च सर्वत्रार्थग्रहणं । वाक्यभेदाच् च समुच्चयः । यन् मङ्गल्यं तच् छर्मार्थवत् । शर्म[^१६२] शरणम् आश्रयः सुखं च । अर्थग्रहणात् स्वामिदत्तभभूत्यादिशब्दपरिग्रहः । इन्द्रस्वामीन्द्राश्रयः इन्द्रदत्तः[^१६३] । तदाश्रयता प्रतीयते । एवं सर्वत्रोन्नेयम् ।
+*Vyāsa-Smṛti* (Vīramitrodaya-Saṃskāra, p. 213).—‘*Śarma* is the name
+commended for the Brāhmaṇa, *Varma* for the Kṣatriya, *Gupta* for the
+Vaiśya, and *Dāsa* for the Śūdra.’
 
+*Yama-Smṛti* (Do.).—‘*Śarma* and *Deva* for the Brāhmaṇa, *Rājā* for the
+Kṣatriya, *Gupta* and *Datta* for the Vaiśya and *Dāsa* for the Śūdra.
 
-[^१६३]:
-     M G: indrāvato 'pi
-
-
-[^१६२]:
-     G omits: śarma
-
-
-[^१६१]:
-     M G: ete śarmaśabdāḥ
-
-- <u>अथ</u> को ऽयं हेतुर् वाक्यभेदात् समुच्चय इति । "व्रीहिभिर् यजेत," "यवैर् यजेत" इति किं न समुच्चय इति । 
-
-- <u>उच्यते</u> । लिङ्गदर्शनमात्रम् एतत् पौरुषेयत्वात् ग्रन्थस्य । विकल्पे ऽभिप्रेते मङ्गल्यं शर्मवद् वेति लाघवाद् अवक्ष्यत् । वाक्यभेदे हि द्विराख्यातोच्चारणम् । तद् गुरु भवति । 
-
-- **रक्षा** परिपालनम्, **पुष्टिर्** वृद्धिर् गुप्तिश् च । गोवृद्धो धनगुप्त इति । **प्रेष्यो** दासः । ब्राह्मणदासो देवदासो ब्राह्मणाश्रितो देवताश्रित इति ॥ २.३२ ॥
+These titles have been thus explained by Āśvalāyanāchārya:—‘The name of
+the Brāhmaṇa should end with *Śarma* because he imparts *Śarma*
+(happiness) to the world through his religious character, calmness and
+self-control; that of the Kṣatriya should end with *Varmā*, because like
+the *Varma* (armour), he protects the world from the three kinds of
+pain; that of the Vaiśya should end with *Gupta*, because he fosters
+(*gopāyati*) the people by giving them money at certain times; that of
+the Śūdra should end with *Dāsa*, because he keeps the twice-born people
+satisfied by constant service.’

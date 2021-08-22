@@ -2,11 +2,13 @@
 title = "170 तत्र यद्"
 
 +++
+Vaśiṣṭha (2.4),  
+Viṣṇu (28.37),  
+—(reproduce the second half of Manu).
 
-**तत्र** एतेषु त्रिजन्मसु[^४२३] **यद्** एतद् **ब्रह्मजन्म** उपनयनं **मौञ्जीबन्धनचिह्नितं** मेखलाबन्धनेनोपलक्षितम् । **तत्रास्य माता सावित्री** । तया ह्य् अनूक्तया तन्निष्पन्नं भवति । अनेन च सावित्र्यनुवचनम् उपनयने प्रधानं दर्शयति, तदर्थं ह्य् असौ समीपम् आनीयते । **पिताचार्यः** । मातापितृनिर्वर्त्यं जन्म । अतो रूपकभङ्ग्या तत्राप्य् आचार्यसावित्र्यौ मातापितराव् उक्तौ ॥ २.१७० ॥
+*Śruti* (Vīramitrodaya-Saṃskāra, p. 335).—‘With the Gāyatrī, he created
+the Brāhmaṇa; with the Triṣṭup, the Kṣatriya; with the Jagatī, the
+Vaiśya; and the Śūdra without any Vedic verse.’
 
-
-[^४२३]:
-     M G: dvijanmasu
-
-_मौञ्जीबन्धनचिह्नितम् इत्य् उक्तम् । तत्र रज्ज्वासञ्जनाद् आचार्यः पितृवन् मान्यः स्यात् तदर्थम् उच्यते ।_
+*Gautama* (Vīramitrodaya-Saṃskāra, p. 335).—‘This is his second *birth*,
+whereat the Sāvitrī is the *mother*, and the Teacher the *father*

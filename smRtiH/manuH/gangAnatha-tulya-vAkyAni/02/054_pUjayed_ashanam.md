@@ -2,17 +2,34 @@
 title = "054 पूजयेद् अशनम्"
 
 +++
+**(Verses 54-55)  
+**
 
-अश्यत इत्य् **अशनं** भक्तसक्त्वपूपाद्य्[^२०२] उच्यते । तद् अशनार्थम् आनीतं देवतारूपेण पश्येत्- "एषा वै परमा देवता यद् अन्नम्" । तस्य सर्वेषां भूतानां स्रष्टृत्वेन स्थितिहेतुतया च यद्दर्शनं सास्य पूजा । अथ वा प्राणार्थत्वेन भावनं ध्यायन्-[^२०३] "यजन् मम यद् अर्थत्वं संपूजयति मां सदा" इति । नमस्कारादिना वा प्रणम्य ग्रहणं पूजा । 
+*Yājñavalkya*, 1. 31,—‘He should eat the food, paying due regard to it,
+not disparaging it.’
 
+*Baudhāyana-Dharmasūtra*, 7.2.6.—‘Seated—he should eat the food, intent
+upon it, without disparaging the food,—not dropping it on the ground;
+and after earing, he should touch Fire.’
 
-[^२०३]:
-     M G 1st ed.: dhyānaṃ
+*Viṣṇu-Smṛti*, 67.42-43.—‘Worshipping the food, with contented mind,
+wearing a garland and smeared with sandal-paste.’
 
+*Baudhāyana Dhaṛmasūtra*, 2.3.17.—‘\[Says the Food\]—He who eats me,
+without having made offerings to Pitṛs, Gods, dependents, guests, and to
+friends, eats, through foolishness, poison; and him I devour; for him I
+am death. He who eats me after having made the Agnihotra-ofFerings and
+the Vaiśvadeva-offerings and after having honoured the guests and fed
+his dependents,—content, clean and reverential,—for him I am nectar; he
+alone eats me.’
 
-[^२०२]:
-     M G 1st ed.: -saktupūpādy
+*Gautama-Dharmasūtra*, 7.59.—‘He should eat the food, morning and
+evening, after worshipping it, never disparaging it.’
 
-- **अद्याच् चैतद् अकुत्सयन्** । कदन्नतया दुःसंस्कारोपग्रहणेन वा कुत्साहेतुसंभवे नान्नं कुत्सयेत् । "किम् इदम् अश्यते, अरुचिकरं धातुवैषम्यजनकम्" इत्य् एवमादिनाभिधानेन नाक्षिपेत् । यदि तु तद्रूपं भवति तदा नाद्यान् न कुत्सयन्न् अद्यात् । 
+*Old Saying* (Parāśaramādhava, p. 369).—(See under 52.)
 
-**दृष्ट्वैव हृष्येत्** । पुत्रस्त्र्यादिसंदर्शनेन चिरप्रवासप्रत्यगत इव् तुष्येत प्रीयेत । **प्रसीदेच् च** । निमित्तान्तरजम् अपि कालुष्यम् अन्नदर्शनेन हित्वा मनःप्रसादम् आश्रयेत् । **प्रतिनन्देच् च** । समृद्ध्या शंसनं प्रतिनन्दनम् । "नित्ययुक्ता एतेन स्याम" इत्य् आदरोपदर्शनम् अभिनन्दनम् । **सर्वशः** सर्वदा । "अन्यतरस्याम्" इति व्यवस्थितविभाषाविज्ञानात् सप्तम्यर्थे शम् कर्तव्यः । सर्वदेति वा पठितव्यम् ॥ २.५४ ॥
+*Vṛddha-Manu* (Parāśaramādhava, p. 375).—‘One should always welcome the
+food while eating it, with speech in check, not decrying the food.’
+
+*Mahābhārata* (Āśvamedhika-Parāśaramādhava, p. 375).—‘Silent or not
+silent, he shall be happy while eating.’

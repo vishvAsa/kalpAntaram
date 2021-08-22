@@ -2,15 +2,21 @@
 title = "098 श्रुत्वा स्पृष्ट्वा"
 
 +++
+*Śaṅkha-smṛti* (7. 8-9).—‘One should never mind it—whether his body is
+smeared with sandal-paste, or ripped by an axe, or he attains prosperity
+or adversity. Equally friendly towards all beings, looking equally upon
+gold and Upon a clod of earth, fixed in contemplative meditation, the
+Brāhmaṇa attains the highest state.’
 
-**श्रुत्वा** वंशगीतादिध्वनिम्, "त्वं बृहस्पतिः" इत्यादिवचनं श्रुत्वा, **न** **हृष्यति** । रूक्षपरुषाक्रोशवाचः श्रुत्वा **न ग्लायति,** न मनोदुःखं भजति[^२९९] । ग्लानिः खेदः । **स्पृष्ट्वा** राङ्कवकौशेयादिवस्त्रम् अजलोमकुतपं च समत्वेनानुभवति । एवं सुवेषतरुणीजननटप्रेक्षासु शत्रुदर्शने च समः । बहुघृतं क्षीरषष्टिकान्[^३००] कोद्रवांश् च समं भोजने । देवदारुतैलं कर्पूरादि च तुल्यं जिघ्रतः । तथा कर्तव्यं यथा केवलैर् मानसैः सुखदुःखैर् न स्पृश्यते । एवं तेन जितानीन्द्रियाणि भवन्ति । न त्व् अप्रवृत्त्यैव । इयत्पर्यन्तः संयमः आश्रयणीयः ॥ २.९८ ॥
+*Viṣṇu-smṛti* (96. 23).—‘While one arm is being ripped with an axe and
+another is being smeared with sandal-paint,—and while, on the one hand,
+he meets with prosperity, and on the other, with adversity,—he should
+not mind either.’
 
+*Bhagavadgītā* (2. 57).—‘He who has no attachment to, anything, and on
+meeting with happiness, neither rejoices nbr‘is grieved, his wisdom is
+firm.’
 
-[^३००]:
-     J: -ṣaṣṭikāṃ
-
-
-[^२९९]:
-     M G 1st ed.: bhajati
-
-_<u>ननु</u> च ब्रह्मचारिणा स्त्रीसंबन्धो यत्नेन वर्ज्यः, संस्कृतभिक्षालाभस् तु किम् इति निषिध्यते । अत आह_ ।[^३०१]
+*Bhagavadgītā* (5. 20).—‘One should not rejoice on coming by happiness;
+nor should he become ruffled on coming by unhappiness; he whose mind is
+firm, never deluded, he knows Brahman, and rests in Brahman.’

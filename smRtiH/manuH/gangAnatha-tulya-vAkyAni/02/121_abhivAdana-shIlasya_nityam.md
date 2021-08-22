@@ -2,5 +2,9 @@
 title = "121 अभिवादन-शीलस्य नित्यम्"
 
 +++
+*Āpastamba-Dharmasūtra* (1.5.15).—‘Desiring Heaven and Longevity (one
+should salute the Teacher).’
 
-सर्वान् एव प्रति पूर्वाभिभाषिता यथार्हाभिवादनशीलता न पुनर् **अभिवादन**शब्दोच्चारणम् एव । **शील**शब्देन प्रयोजनापेक्षाभाव उच्यते । **नित्यं** **वृद्धान् उपसेवते** प्रियवचनादिना । यथाशक्त्या ह्य् उपकारेण चाराधयते । तस्य **चत्वारि संप्रवर्धन्ते** । **आयुर् धर्मो** ऽमुत्र स्वर्गादिफलपादपः । **यशोबले** च प्रागुक्ते । अर्थवादो ऽप्य् अयं फलावगमहेतुः ॥ २.१२१ ॥
+*Baudhāyana-Dharmasūtra* (1.2.26).—‘Desiring Heaven and Longevity, one
+should grasp his right foot with the right hand and the left foot with
+the left.’

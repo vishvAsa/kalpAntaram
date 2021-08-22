@@ -2,11 +2,26 @@
 title = "126 यो न"
 
 +++
+*Vaśiṣṭha* (13.14).—‘He should simply say *Here I am*, when saluting one
+who knows not the form of the return-greeting.’
 
-**यो न वेत्ति प्रत्यभिवादनम्** इत्य् <u>एवं वाच्यम्</u> **अभिवादस्येत्य्** अतिरिच्यते, न संगच्छते । <u>नैवम्</u> । **अभिवादस्य** अनुरूपं **प्रत्यभिवादनम्** इत्य् एवं योजना क्रियते । येन स्वनामोच्चार्याभिवादनं कृतं तस्य नामान्ते प्लुतिः कर्तव्या । यस् त्व् "अहं भो" इत्य् एवम् अभिवदेन् न तस्य नामोच्चारणं[^३५९] नापि प्लुतिर् इति । 
+*Yama* (Vīramitrodaya-Saṃskāra, p. 465).—‘On being saluted, if one does
+not offer his blessing, a part of the saluter’s sins falls upon the
+person saluted. To the Brāhmaṇa he should say *svasti* (all may be
+well), to the Kṣatriya *āyuṣyam* (long-life), to the Vaiśya *vardhatām*
+(may you prosper), to the Śūdra *ārogyam* (freedom from disease).’
 
+\[Yama also reproduces Manu’s Verse.\]
 
-[^३५९]:
-     M G: nāmnoccāraṇaṃ
+*Bhaviṣya-purāṇa* (Parāśaramādhava, p. 298).—‘On bring saluted, if one
+does not return the salutation, or if one does not pronounce the
+blessing, one falls into many hells.’
 
-- **नाभिवाद्य** इत्य् अभिवादनशब्दोच्चारणप्रतिषेधः । यथा विहितम् अभिवादनं कर्तव्यम्, न पुनर् "अहं भो" इत्यादि, तस्य प्राग् दर्शितत्वात् । **यथा शूद्र** इति च दृष्टान्तेनैतद् एव ज्ञायते । शूद्रस्यापि वृद्धवयसो ऽभिवाद्यत्वं पूर्वाभिभाष्यत्वम् इष्यते । **विदुषेति** पादपूरणार्थम् ॥ २.१२६ ॥
+*Gautama-Dharmasūtra* (7.42).—‘*Welfare, Freedom from* *Distemper* ,
+*Freedom from Loss* and *Freedom from Disease*, the asking of these
+constitutes the return-greeting; the last being for the Śūdra.’
+
+*Āpastamba-Dharmasūtra* (1.14.26-29).—‘One should ask one who is not
+senior, also one of the same age, about his *welfare*; the Kṣatriya
+about his *freedom from distemper*;—the Vaiśya about *freedom from
+loss*;—the Śūdra about *freedom from disease*.’

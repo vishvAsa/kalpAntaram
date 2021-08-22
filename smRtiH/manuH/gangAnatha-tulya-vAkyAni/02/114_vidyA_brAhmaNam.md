@@ -2,9 +2,14 @@
 title = "114 विद्या ब्राह्मणम्"
 
 +++
+**(Verse 114-115)**
 
-अयम् अप्य् अर्थवाद एव । **विद्या** मूर्तिमती कंचिद् उपाध्यायम् आगत्य **आह** प्रोक्तवती । **शेवधिर्** निधिस् तव **अस्मि रक्ष माम्** । का पुनस् ते रक्षा । **असूयकाय** कुत्साकराय निन्दकाय **मां** **मादाः** । निन्दकं माध्यापय । **तथा** चैवम् अहं **वीर्यवत्तमा** अतिशयेन तव कार्यकारिणी[^३४४] भवामि । वीर्यं कार्यनिवृत्तौ सामर्थ्यातिशयः । "शेवधिष्टे ऽस्मि" इति कृतषत्वं पठितं तच्छान्दसप्रयोगानुकरणम् ॥ २.११४ ॥
+Viṣṇu-Smṛti (29.9-10),  
+Vaśiṣṭha-Smṛti (2.14-15).  
+These authorities, along with Manu, paraphrase the text which is found
+in Nirukta-Naigama Kāṇḍa, 2.4.
 
-
-[^३४४]:
-     M G 1st ed,: kārakarī
+*Kūrmapurāṇa* (Vīramitrodaya-Saṃskāra, pp. 514-515).—‘One who teaches
+the Vedas, the Dharma, the Purāṇas and the subsidiary sciences to one
+who is endowed with character and is self-controlled and is ever
+attentive.’

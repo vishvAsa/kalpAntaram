@@ -2,67 +2,59 @@
 title = "024 एताण् द्विजातयो"
 
 +++
+*Baudhāyana*, 1-30.—‘Āraṭṭa, Kāraskara, Puṇḍraka, Sauvīra, Baṅga,
+Kaliṅga, Prāsūna,—if one goes to those countries, he should perform the
+expiatory rite of either Punaḥstoma or Sarvapṛṣṭhā.
 
-यदर्थं देशसंज्ञाभेदकथनं तम् इदानीं विधिम् आह । **एतान्** ब्रह्मावर्तादीन् **देशान्** **द्विजातयो** देशान्तरे ऽपि जाताः **संश्रयेरन्**[^११३] । जन्मदेशं त्यक्त्वा ब्रह्मावर्तादिदेशसंश्रयणं प्रयत्नेन कर्तव्यम् ।
+*Baudhāyana*.—‘Anantaka (Dvārakā), Aṅga, Magadha, Surāṣṭra, Dakṣiṇāpatha
+Upāvṛt, Sindhu, Sauvīra, these countries are of *mixed origin*.’
 
+*Ādipurāṇa* (Vīra-Pari., p. 59).—‘A person horn in Āryāvarta either
+twice-born or not, should never cross the Karmāda (Karmanāśā), the
+Sindhu or the Karatoyā. The twice-born person should never go beyond
+Āryāvarta except on pilgrimage, or in obedience to the order of his
+parents.’ In Magadha, the sacred places of pilgrimage are Gaya, the
+river Poonpoon; the Hermitage of Chyavana and the forest of Rājagṛha.’
 
-[^११३]:
-     M G: jātā āśrayeran
+*Vāyu-purāṇa* (*Ibid*).—‘Kāñchī, Kośala, Saurāṣṭra, Karṇāṭa, Kacheha,
+Kāverī, Kolvaṇa (land near the Tryambaka Hill, near Nāsik),—these tracts
+are not commended. That tract of land over which the five rivers
+(Śatadru, Vipāśā, Airāvaiī, Chandrabhāgā and Vitastā) flow is called
+*Āraṭṭa*; the Ārya should not permanently dwell in this country. One who
+crosses the Narmadā, the Sindhu aud the Kosi, or goes to the West of
+Puṣkara, and lives there beyond the time of pilgrimage, goes to
+hell.—Aṅga, Baṅga, Kaliṅga, Andhra, Madra, Mālavika, tract to the South
+of the Narmadā or to the North of the Sindhu, Pauṇḍra, Surāṣṭra,
+Vaindhya, Māgadhaka, Khaśa,—these are all sinful tracts.’
 
-- <u>अत्र केचिद्</u> आहुर् अदृष्टार्थ एवायम् एतद्देशसंश्रयणविधिः । सत्य् अपि देशान्तरे[^११४] ऽधिकारसंभवे एतेषु देशेषु निवासः कर्तव्यः । तत्र कल्प्याधिकारत्वे,[^११५] यदि वा गङ्गादितीर्थस्नानवद् एतद्देशनिवासविधिः पावनत्वेन कल्प्यते । यथैव काश्चिद् आपः पवित्रतरा एवं भूमिभागा अपि केचिद् एव पवित्राः, यथोक्तं पुराणे । यदि वा संश्रयणाद् एव स्वतन्त्रात् स्वर्गो विश्वजिद्वत् ।
+*Vāyu-purāṇa (Ibid*).—‘The country bounded on the South by the Mahānadī,
+and on the North by Magadha is the *country of Triśaṅku*, with an area
+of 48 square miles; this country should be avoided.’
 
+*Vāyu-purāṇa* (*Ibid*, p. 57).—‘Wise men should take shelter in that
+country where there is prosperity due to the black antelope, barley,
+grass, the four castes and the four life-stages.’
 
-[^११५]:
-     M G: kalpādhikāratve
+*Skanda-purāṇa* (Vira-Pari., p. GO).—‘Aṅga, Baṅga, Kaliṅga, Parvata,
+Khaśa, Sindhu, Sauvīra, Saurāṣṭra, Pārada, Andhra, Mālava,—these the
+twice-born should avoid. But when pressed for livelihood, the
+Householder may betake himself to these countries.’
 
+*Bhaviṣya purāṇa* (Do., p. 55).—Brahmāvarta is the best country; less
+than that is the Ṛṣideśa; less than this latter is the Madhyadeśa; next
+to that comes the Āryāvarta.’
 
-[^११४]:
-     M G: deśāntare 'py adhi-
+*Chāndogya Upaniṣad* (quoted in Vīra-Paribhāṣā, p. 60).—‘One shall not
+approach the Caṇḍāla, nor the inferior country.’
 
-- <u>तत्रैतौ</u> द्वाव् अपि पक्षाव् अप्राप्तौ । यद्य् अप्राप्तः संश्रयो विधीयते, कल्प्येताप्य् अधिकारः । तत्र चिन्त्यते । कतरः पक्षो युक्त इति । स तु नित्यकाम्यानाम्[^११६] उक्तया रीत्या एतद्देश एवानुष्ठानसंभवाद् अधिकृतानां प्राप्त एव । न ह्य् एतद्देशव्यतिरेकेण कृत्स्नधर्मानुष्ठानसंभवः । तथा हि, हिमवति तावत् काश्मीरादौ शीतेनार्दिता न बहिः संध्योपासने ऽधिक्रियन्ते, न च यथाविधि स्वाध्यायसंभवः "प्राग् वोदग् वा ग्रामाद् उपनिष्क्रम्य" इति । न हि हेमन्तशिशिरयोर् अहर् अहर् नदीस्नानादिसंभवः ।
+*Pitāmaha* (Do., p. 60).—‘One may reside even in the kingdom of the
+Śūdra, if the Gaṅgā flows through it: even though that country may he
+inhabited by uncultured people, yet it is a sacred land.
 
+*Vyāsa* (Do., p. 61).—‘Those places, those countries, those mountains
+and those hermitages are sacred through which the best of rivers, the
+Gaṅgā, flows.’
 
-[^११६]:
-     M G: tv anityakāmyānām
-
-- इदम् एव च **द्विजातय** इति वचनलिङ्गम्[^११७] । न कश्चिद् एव देशो ऽसति म्लेच्छसंबन्धे स्वत एव म्लेच्छदेशः । अन्यथा तद्देशसंबन्धान् म्लेच्छत्वे कथं द्विजातित्वम् ।
-
-
-[^११७]:
-     M G: vacanaṃ liṅgam
-
-- <u>अथोच्यते</u> । न गमनमात्रान् म्लेच्छता, अपि तु निवासात् । स चानेन प्रतिषिध्यते ।
-
-- <u>तच् च न</u> । संश्रयो ऽत्र श्रूयते । स च देशान्तरे भवतस् तत्त्यागेनान्यदेशसंबन्धः । न संश्रितस्यैव संश्रयणम् । अन्यथा एवम् एवावक्ष्यत्- एतान् देशांस् त्यक्त्वा नान्यत्र निवसेत् । अथ सिद्धे संश्रयणे तद्वचनम् अन्यनिवृत्तियर्थम् इति, परिसंख्या तथा स्यात् । तस्याश् च त्रयो दोषाः । अथ श्रुतार्थहानिर्[^११८] लक्ष्यते- "एतान् देशान् न जह्यात्" इति । न श्रुतार्थसंभवे लक्षणा युक्ता । अत एव न भूतपूर्वगतिः । तस्माल् लिङ्गम्[^११९] इदं न देशसंबन्धेन पुरुषा म्लेच्छाः, किं तर्हि, पुरुषसंबन्धेन म्लेच्छदेशता ।
-
-
-[^११९]:
-     M G 1st ed.: liṅgād
-
-
-[^११८]:
-     M G: arthahānir; J: atha hānir 
-
-- शूद्रस्य द्विजातिशुश्रूषाया विहितत्वात् तद्देशनिवासे सर्वदा प्राप्ते तत्राजीवतो देशान्तरनिवासो ऽभ्यनुज्ञायते । यदा बहुकुटुम्बतया शुश्रूषाशक्त्या वा यं द्विजातिम्[^१२०] आश्रितः स एनं[^१२१] बिभृयात्, तदा देशान्तरे संभवति धनार्जने निवसेत् । तत्रापि न म्लेच्छभूयिष्ठे, किं तर्हि, याज्ञिये, म्लेच्छावृते यानासनाशनादिक्रियानिमित्तस्य संसर्गस्यापरिहार्यत्वात् तद्भावापत्तिप्रसङ्गात् ।
-
-
-[^१२१]:
-     DK (5: 762) suggests: enaṃ na
-
-
-[^१२०]:
-     M G 1st ed.: vā dvijātiyam
-
-- **वृत्तिकर्शितो** वृत्त्यभावपीडितः । वृत्तिर् आत्मकुटुम्बस्थितिसमर्थं धनम् । तदभावे यत् कर्शनं तत्संबन्धितयोच्यते, यथा "वर्षाकृते सुभिक्षदुर्भिक्षे" वर्षाभावकृतं दुर्भिक्षं वर्षाकृतत्वेन[^१२२] व्यपदिश्यते । **यस्मिंस् तस्मिन्न्** इति अनियमम्[^१२३] आह[^१२४] ॥ २.२४ ॥
-
-
-[^१२४]:
-     M G: place this sentence as an introduction to verse 25.
-
-
-[^१२३]:
-     G: atiniyamam
-
-
-[^१२२]:
-     M G 1st ed.: varṣakṛtatvena
+*Viṣṇudharmottara* (Do.).—‘The righteous man should reside at Prabhāsa,
+at Puṣkara, at Kāśī, at Naimiṣa, at Amarakaṇṭaka, on the Gaṅgā or on the
+Sarayū.’

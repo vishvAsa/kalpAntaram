@@ -2,5 +2,22 @@
 title = "135 ब्राह्मणन् दशवर्षम्"
 
 +++
+*Āpastamba-Dharmasūtra* (1.14.25)—(a paraphrase of Manu).
 
-दशवर्षाणि जातस्य यस्य स भवति **दशवर्षः** परिच्छेदकः कालः, तस्य परिच्छेद्यो ब्राह्मणः श्रुतः । न च तस्योच्चनीचतादि कार्श्यादि वा कालेन परिमातुं शक्यम्, किं तर्हि तदीया काचित् क्रिया । सा च जन्मनः प्रभृति नित्यसमवायिनी प्राणधारणलक्षणैव । एवं **शतवर्षम्** इति । **पितापुत्रौ** तौ द्रष्टव्यौ । **तयोः** संप्रधार्यमाणयोर् **ब्राह्मणः पिता** । चिरवृद्धेनापि क्षत्रियेण स्वल्पवर्षो ऽपि ब्राह्मणः प्रत्युत्तायाभिवाद्यश् चेति प्रकरणार्थः ॥ २.१३५ ॥
+*Viṣṇu-Smṛti* (32.17)—(reproduces the exact words of Manu).
+
+*Bhaviṣya-purāṇa* (Vīramitrodaya-Saṃskāra, p. 474)—(has the verse of
+Manu, to which it adds another verse to the effect that)—‘the Brāhmaṇa
+has thus been declared by the wise the Kṣatriya’s father, the Vaiśya’s
+grand-father and the Śūdra’s great-grand-father.’
+
+*Śātātapa* (Vīramitrodaya-Saṃskāra, pp. 473-474).—‘Agni is the superior
+of the Twice-born men, the Brāhmaṇa is the superior of all castes.’
+
+*Śātātapa* (Parāśaramāḍhava, p. 299).—‘The Kṣatriya and the rest should
+never be saluted by the Brāhmaṇa, even though they be endowed with
+knowledge and of good conduct and very learned.’
+
+*Mahābhārata* (13.8.21).—‘The Kṣatriya, hundred years old and the
+Brāhmaṇa, ten years old, should he regarded as father and son; of the
+two, the Brāhmaṇa being the superior.’

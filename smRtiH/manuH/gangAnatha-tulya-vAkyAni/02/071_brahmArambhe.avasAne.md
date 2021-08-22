@@ -2,25 +2,32 @@
 title = "071 ब्रह्मारम्भे ऽवसाने"
 
 +++
+*Āpastamba-Dharmasūtra*, 1.3.10.—‘The teacher’s fee? should be clasped
+at both times,—at the time when one is going to read and also when he
+has read.’
 
-**ब्रह्म**शब्दो ऽयम् अनेकार्थो ऽप्य् अध्ययनाधिकाराद् अत्र वेदवचनः प्रतीयते । तस्य्**आरम्भे** । निमित्तसप्तम्य् एषा । अध्ययनाधिकाराद् एव च तद्विषयाध्ययनक्रिया, तस्यायम् आरम्भः, प्रथमावृत्तिः पुरुषस्य । तत्रेदं पादग्रहणम् । वेदस्य तु यान्य् आद्यक्षराणि "अग्निम् ईऌए" (र्व् १.१.१), "इषे त्वा" (त्स् १.१.१.१), "अग्न आयाहि" (स्व् १.१) इति, न सो ऽत्रारम्भ उच्यते । न हि तस्य निमित्तभावः संभावितः, नित्यत्वात् । कादाचित्कं हि निमित्तं भवति । तेनैतद् उक्तं भवति- वेदाध्ययनम् आरिप्समानो गुरोः पादसंग्रहणं कुर्यात्, कृत्वा ततः स्वाध्यायाक्षरान्य् उच्चारयेत्, न पुनः प्रवृत्ताध्ययनक्रियः पादौ गृह्णीयात् ।
+*Viṣṇu-Smrti*, 30, 32.—‘At the beginning and at the end of the reading
+of Veda, the clasping of the teacher’s feet should be done.’
 
-- <u>ननु</u> चाद्यक्रियाक्षण आरम्भः, स च निमित्तम् । विद्यमानस्य च निमित्तत्वं युक्तं जीवनस्येव । अत्र गेहदाहाद्यतीतम् अपि निमित्तं तत्र तथैव श्रवणम् । तस्मात् सहप्रयोग एवाध्ययनपादोपसंग्रहणयोर् युक्तः ।
+*Yājñavalkya*. 1. 26.—‘Then declaring himself—*here I am*—he should
+approach the teacher for purposes of study.’
 
-- <u>उच्यते</u> । अध्यापनाध्यवसाय आरम्भ उच्यते, नाद्यः क्रियाक्षणः । यदैव गुरुर् अधीष्येत्य् आह तदैवाध्यवस्यति मानवकः । अतस् तदनन्तरं पादोपग्रहः । उपकारप्रवृत्तस्य गुरोश् चित्तप्रसादनम् एतत् । यथा लोके कश्चिद् उपकारप्रवृत्तं सभाजयति वाचा "ननु त्वया वयम् अस्मात् पापान् मोचिताः" इति । अनक्षरा चेयम् अध्येषणा "उपसन्नो ऽस्म्य् अध्ययनाय[^२४२]" इति । न हि गुरुर् उपरोध्यो ऽध्यापयेति । केवलम् उपसदनम् अस्य कर्तव्यं संबोधार्थम् अवसरो ऽध्ययनस्येति । अतः कृतोपसदनस्य वेदाक्षरोच्चरणम् । अपि च **संहत्य हस्ताव् अधेतव्यम्** इत्य् उच्यते । तत्राधीयानः पादोपसंग्रहणविधिम् अतिक्रमेत । 
+*Gautama-Dharmasūtra*, 1. 52, 59.—‘Clasping the left feet with his hand,
+he should address the teacher “*Please sir teach me*”; and he should
+clasp his feet at the beginning and at the end of the expounding of the
+Veda.’
 
+*Aṅgiras* (Vīramitrodaya-Saṃskāra, pp. 523-524).—‘At the approach of the
+Vedic lecture, and also at its close, the teacher’s feet should be
+clasped, as also when one returns from a journey.’ *Āśvalāyana-Smṛti*
+(Vīramitrodaya-Saṃskāra, 9. 524).—‘The left hand with palm upwards, and
+the right with the palm downwards, the backs of the hands being firmly
+attached, the thumbs being firmly steady,—this attitude of the hands is
+called *Brahmāñjali*, because of its having been adopted first of all by
+Brahmā. This has to be adopted at the beginning of Vedic study, also at
+its completion, during the Brahmayajña, and also during the time that
+the *Sāvitrī* is being taught.’
 
-[^२४२]:
-     M G 1st ed.: upasannāḥ smādhyayanāya
-
-- **अवसानं** समाप्तिर् अध्ययनाद् उपरमः । यद्य् अपि ब्रह्मशब्द आरम्भे गुणभूतस् तथाप्य् अवसानस्य सापेक्षत्वात् संनिहितत्वाद् ब्रह्मपदेनैव संबन्धः प्रतीयते, अन्यस्याश्रुतत्वात् । **सदा**ग्रहणम् अन्वहं भाविप्रयोगारम्भावसानयोर् एष विधिर् यथा स्याद् इतरथा य एव व्रतादेशानन्तरो मुख्यप्रारम्भः तत्रैव स्यात् । अथान्वारम्भणीया दर्शपूर्णमासारम्भे चोदिता य एवाधानानन्तरभावी दर्शपूर्णमासप्रयोगारम्भः तत्रैव भवति, न मासिकप्रयोगारम्भे । [^२४३]प्रातर् आरभ्य यावद् आह्निकं न निवृत्तं प्रपाठकद्वयमात्रपरिमाणम्, तावद् एकैव साध्ययनक्रियेति । अन्तरा कथंचिद् विच्छेदे ऽपि पुनः प्रवृत्तौ नारम्भशब्दवाच्यतास्तीति न पुनः पादोपसदनं क्रियते । स्मृत्यन्तरे च पठ्यते- "पादोपग्रहणं गुरोः प्रातर् अन्वहम्" इति । 
-
-
-[^२४३]:
-     M G add before prātar: na māsikaprayogārambhe prātaḥ
-
-- **संहत्य** संलग्नौ संश्लिष्टौ परस्परं कृत्वा **अध्येयम्** । कच्छप[^२४४] इति यः संनिवेशो हस्तयोः प्रसिद्धस् तथा कर्तव्यः । **स हि ब्रह्माञ्जलिः** । पदार्थकथनम् एतत् ॥ २.७१ ॥
-
-
-[^२४४]:
-     MG: kacchapakarṇa
+*Saṃvarta* (Vīramitrodaya-Saṃskāra, 9. 524).—‘Then he should road the
+Veda, looking at the teacher’s face, keeping the hands in control,
+placed over the knees.’

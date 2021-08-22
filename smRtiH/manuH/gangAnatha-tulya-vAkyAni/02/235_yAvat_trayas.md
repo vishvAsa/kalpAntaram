@@ -2,5 +2,6 @@
 title = "235 यावत् त्रयस्"
 
 +++
-
-उक्तार्थो ऽयं श्लोकः । **नान्यं** समाचरेद् दृष्टम् अदृष्टं वा तदनुज्ञानम् अन्तरेणेत्य् उक्तम् । **तेष्व् एव नित्यं शुश्रूषां कुर्यात्** । **प्रियहिते रतः** । प्रियं च हितं च तत् । यत् प्रीतिकरं तत् **प्रियं** यत् पालनं तद् **धितम्** ॥ २.२३५ ॥
+*Viṣṇu* (31.3.5.6).—‘One should always attend upon these;—he should do
+what is agreeable and beneficial to them;—he should do nothing without
+their permission.’

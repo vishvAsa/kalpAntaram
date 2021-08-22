@@ -2,9 +2,11 @@
 title = "204 गो-ऽश्वोष्ट्र-यान-प्रासाद- प्रस्तरेषु"
 
 +++
+*Baudhāyana* (1. 2. 35).—‘There is nothing wrong in sitting with the
+Teacher on a boat, or a stone-slab, or an elephant, or the roof of a
+house, or a mat, or on a wheeled conveyance.’ *Āpastamba Dharmasūtra*
+(1. 8. 12).—‘In a journey he should ascend the conveyance behind the
+Teacher.’
 
-**यान**शब्दः प्रत्येकम् अभिसंबध्यते । गोऽश्वोष्ट्रैर् उक्तं यानं **गोऽश्वोष्ट्रयानम्** । दधिघटादिवत् समासे युक्तशब्दस्य लोपः । केवलेषु तु अश्वपृष्टादिष्व् आरोहणं नास्ति । यदि स्वतन्त्रो यानशब्दो विज्ञायेत तदा स्याद् अप्य् अनुज्ञा । समाचारात् तु कादाचित्कम् अनुज्ञानं दृश्यते । **प्रासाद** उपरिगृहादीनां या भूमिस् तस्यां गृहादिभूमिवत् सिद्धं सहासनम् । **प्रस्तरः** दर्भादितृणाकीर्णः आस्तरः । **कटः** तु[^५२३] शरवीरणादिकृतः प्रसिद्धः । **शिला** गिरिशिखरादाव् अन्यत्र वा । **फलकं** दारुमयम् आसनं पोतवर्तादि । **नौर्** जलतरणसंप्लवः । तेन पोतादाव् अपि सिद्धं भवति ॥ २.२०४ ॥
-
-
-[^५२३]:
-     M G: na tu
+*Viṣṇu* (28.27, 28).—‘He should not sit on the same seat with the
+Teacher;—except on a stone-slab, a boat, or a conveyance.’

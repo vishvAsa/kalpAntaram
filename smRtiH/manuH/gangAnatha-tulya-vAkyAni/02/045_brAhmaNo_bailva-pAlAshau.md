@@ -2,9 +2,55 @@
 title = "045 ब्राह्मणो बैल्व-पालाशौ"
 
 +++
+*Bodhāyana-Dhannasūtra*, 1.2.16.—‘The staves are to be of a sacrificial
+tree.’
 
-सत्य् अपि द्वन्द्वनिर्देशे गुणविधिष्व् एकत्वश्रवणात् "केशान्तकः" (म्ध् २.४६) इति "प्रतिगृह्येप्सितं दण्डम्" (म्ध् २.४८) इति च विकल्पितम् एकदण्डधारं प्रतीयते । "बैल्वः पालाशो ब्राह्मणस्य दण्डः" (च्ड़्। पार्ग् २.५.२५) इति गृह्ये । गौतमीये चैकदण्डग्रहणम् एवोक्तम् (च्ड़्। ग्ध् १.२२) । इह केवला दण्डसत्ता श्रूयते- **दण्डान् अर्हन्ति** । दण्डा एते ब्रह्मचारिणां योज्याः । कस्यां क्रियायाम् इत्य् एतद् अत्र चोक्तम् उत्तरत्र भविष्यति "प्रतिगृह्येप्सितम्" (म्ध् २.४८) इति । तस्मिंश् च ग्रहणे दण्डस्योपायत्वाद् विवक्षितम् एकत्वम् अत इह द्विवचननिर्देशः । देवश् चेद् वर्षेद् बहवः कृषिं कुर्युर् इति यथा प्राप्तानुवादः । बिल्वपलाशवटखदिरपीलूदुम्बरा[^१८६] वृक्षजातिविशेषनामधेयानि । बिल्वस्य विकारो ऽवयवो वा बैल्वः । एवं सर्वत्र । प्रदर्शनार्थाश् चैते । "यज्ञिया वा सर्वेषाम्" (ग्ध् १.२४) इति वचनात् । एतान् दण्डान् वक्ष्यमाणे कार्ये **अर्हन्ति** । **धर्मतः** शास्त्रतः ॥ २.४५ ॥
+*Gautama-Dharmasūtra*, 1.21.26.—‘The staff of the Brāhmaṇa is of Bilva
+and Palāśa; for the rest, of Aśvattha and Pīlu; or for all, of some
+sacrificial wood.’
 
+*Āpastamba-Dharmasūtra*, 1.2.37.—‘The staff for tho Brāhmaṇa is of
+Palāśa; for the Kṣatriya, of the trunk or of the lower ends of the
+Nyagrodha tree; for the Vaiśya, of Badara or Udumbara; some people
+prescribe simply that the staff should be of some tree, without
+reference to particular castes.’
 
-[^१८६]:
-     M G: -ūdumbara
+*Vaśiṣṭha-Smṛti*, 11.45.—‘For the Brāhmaṇa, the staff is of Palāśa or
+Bilva; for the Kṣatriya of Nyagrodha; for the Vaiśya, of Udumbara.’
+
+*Viṣṇu-Smṛti*, 27.21.—‘Staves are of Palāśa, Khadira and Udumbara.’
+
+*Āśvalāyana-Gṛhyasūtra*, 19.12-13.—‘The staff for the Brāhmaṇa is of
+Palāśa; for the Kṣatriya, of Udumbara; for the Vaiśva, of Bilva.’
+
+*Pāraskara-Gṛhyasūtra*, 2.5.25-28.—‘The staff for the Brāhmaṇa is of
+Palāśa; for the Kṣatriya, of Bilva; for the Vaiśya, of Udumbara; or all
+for all.’
+
+*Gobhila-Gṛhyasūtra*, 2.10.11.—‘Staves are of Palāśa, Bilva and
+Aśvattha.’
+
+*Hīraṇyakeśin* (Vīramitrodaya-Saṃskāra, p. 134).—‘The staff for the
+Brāhmaṇa is of Bilva or Palāśa; for the Kṣatriya, of Nyagrodha; for the
+Vaiśya, of Udumbara.’
+
+*Bhaviṣya-purāṇa* (Do., p. 434).—‘For the Brāhmaṇa, the staff is of
+Bilva, Palāśa and Plakṣa; for the Kṣatriya, of Nyagrodha, Khadira and
+Vetasa; for tho Vaiśya, of Pīlu, Udumbara and Aśvattha.’
+
+*Śaṅkha* (Vīramitrodaya-Saṃskara, p. 435).—‘The staves are of Palāśa,
+Pippala and Bilva, respectively.’
+
+*Śaṅkha-Likhita* (Do., p.437).—‘Staves of Bilva, Palāśa, Khadira,
+Aśvattha, Pīlu and Udumbara.’
+
+*Paiṭhīnasi* (Do., 435).—‘For the Vaiśya, of Udumbara or Badara and
+Varaṇa.’
+
+*Yama* (Aparārka, p. 57).—‘In the absence of those enumerated, any
+sacrificial wood may be used by any caste.’
+
+The ‘sacrificial trees have been enumerated in Brahma-purāṇa, as
+follows:—‘Śamī, Palāśa, Nyagrodha, Plakṣa, Vikaṅkata, Aśvattha,
+Udumbara, Bilva, Chandana, Sarala, Sālva, Devadāru and Khadira.’
+(Vīramitrodaya-Saṃskara, p. 435).
