@@ -2,13 +2,17 @@
 title = "185 त्रिणाचिकेतः पञ्चाग्निस्"
 
 +++
-त्रिणाचिकेतः पञ्चाग्निस्  
-त्रिसुपर्णः षडङ्गवित् ।  
-ब्रह्मदेयात्म+++(=ब्राह्मविवाहित)+++-सन्तानो  
-ज्येष्ठसामग एव च [मेधातिथिपाठः - ब्रह्मदेयानुसन्तानो]  ॥ ३.१८५ ॥ [१७५ मेधातिथिपाठे]
 
-‘Triṇāciketa’ is the name of a portion of the Yajurveda, beginning with the words ‘pītodakā jagdhatṛṇā; and the man is called ‘triṇāciketa’ by the circumstance of his having learnt that portion. Others, however, explain that there are certain observances prescribed for those who are learning the Tṛṇāciketa Mantras; and the person who has kept these observances is called ‘Triṇāciketa.’ Here also the term is applied to the man only figuratively.
+**त्रिणाचिकेता**ख्यो वेदविभागो ऽध्वर्यूणाम्- "पीतोदका जग्धतृणाः" (च्ड़्। काटु १.३) इत्यादिः । तदध्ययनसंबन्धात् पुरुषो ऽत्र **त्रिणाचिकेत** उच्यते । अन्ये च त्रिणाचिकेतम् अधीयानानां व्रतम् आम्नातम् । तत् येन चरितं स **त्रिणाचिकेतः**[^३१५] । अत्रापि लक्षणयैव पुरुष उच्यते ।[^३१६]
 
-‘Five fires,’ ‘Pañcāgnividyā,’ is the name of a certain teaching occurring in the Chāndogya Upaniṣad (5.10.9), the reward whereof has been described in the words ‘stenohiraṇyasya, etc.’)+++
 
-‘Trisuparṇa’ is the name of a mantra occurring in the Taittirīya Veda, and also in the Ṛgveda, beginning with the words ‘ye brāhmaṇās trisuparṇam paṭhanti; etc.’
+[^३१५]:
+     G 1st ed. in place of triṇāciketākhyo . . . sa triṇāciketaḥ, reads: triṇāciketaṃ yajurvekaikadeśaḥ tad vrataṃ ca | tadvratācaraṇena tadadhyāyī triṇāciketaḥ | 
+
+- न चैवं मन्तव्यं तावन्मात्रेण पङ्क्तिपावनत्वम्, किं तर्हि सति श्रोत्रियत्वादिगुणयोगे ऽधिको ऽयं गुणो द्रष्टव्यः पङ्क्तिपावनहेतुतया । 
+
+- पञ्चाग्निविद्या नाम छान्दोग्योपनिषदि (छु ५.३–१०) विद्याम्नायते, "स्तेनो हिरण्यस्य" इत्यादि (छु ५.१०.९) यस्याः फलम् । तदध्ययनसंबन्धात् पुरुषो ऽपि **पञ्चाग्निः** पूर्ववत् । 
+
+- <u>अन्ये</u> तु पञ्चाग्नयो यस्य, त्रयस् त्रेताग्नयः सभ्यावसथ्यौ च द्वौ, **पञ्चाग्निः** । तत्र सभ्यो नाम यो महासाधनस्य शीतापनोदार्थम् एव बहुषु देशेषु व्यवह्रियते । 
+
+- **त्रिसुपर्णो** नाम मन्त्रस् तैत्तिरीयके बाह्वृच्ये च- "ये ब्राह्मणास् त्रिसुपर्णं पठन्ति" इत्यादिः । षडङ्गो वेदस् तं वेत्तीति **षडङ्गवित्** । ब्राह्मधर्मेण आहूय दानेन या दत्ता तस्यानुसन्तानस् ततो जातः । **ज्येष्ठसामगश्** च । ज्येष्ठदोहानि आरण्यके सामानि, तानि गायति स एवम् उच्यते । अत्रापि सामगानेन तद्व्रताचरणेन वा पुरुष इत्य् उच्यते ॥ ३.१७५ ॥
