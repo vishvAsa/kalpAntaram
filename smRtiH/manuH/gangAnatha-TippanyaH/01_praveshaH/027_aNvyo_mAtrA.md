@@ -2,9 +2,5 @@
 title = "027 अण्व्यो मात्रा"
 
 +++
-This verse is quoted in *Aparārka* (p. 999), which has the following
-notes:—‘*Prīti*’ is *sukha*, happiness; what brings about this happiness
-is ‘*prītisaṃyuktam*’;—*śuddhābham*, the source of faultless
-knowledge,—this is ‘*Sattva*.’
 
-
+उपसंहारो ऽयम् । **दशार्धानां** पञ्चानां महाभूतानां या **अण्व्यः** सूक्ष्मा **मात्रा** अवयवास् तन्मात्रास् ता **विनाशिन्यः** । परिणामधर्मित्वात् स्थौल्यप्रतिपत्त्याविनाशिन्य उच्यन्ते । ताभिः **सार्धम्** **इदं** जगत् **सर्वं** **संभवत्य्** उत्पद्यते । **अनुपूर्वशः** क्रमेण । सूक्ष्मात् स्थूलं स्थूलात् स्थूलतरम् । यादृशो वा क्रम उक्तः प्राक् ॥ १.२७ ॥

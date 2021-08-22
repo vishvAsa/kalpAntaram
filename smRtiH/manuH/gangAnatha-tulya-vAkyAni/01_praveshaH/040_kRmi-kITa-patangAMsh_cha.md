@@ -2,8 +2,9 @@
 title = "040 कृमि-कीट-पतङ्गांश् च"
 
 +++
-**(verses 12.32-51)  
-**
 
-See Comparative notes for [Verse
-12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").
+**कृमयो** ऽत्यन्तसूक्ष्मा प्राणिनः । **कीटास्** तेभ्य ईषत्स्थूला भूमिचराः । **पतङ्गाः** शलभपक्षकादयः[^८५] । **स्थावरं** वृक्षपर्वतादि । **पृथग्विधं** नानाप्रकारम् । क्षुद्रजन्तव इत्य् एकवद्भावः ॥ १.४० ॥
+
+
+[^८५]:
+     J: śalabhādayaḥ

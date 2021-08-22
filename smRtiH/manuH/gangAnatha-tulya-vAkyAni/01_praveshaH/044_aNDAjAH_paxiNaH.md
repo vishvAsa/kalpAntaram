@@ -2,8 +2,5 @@
 title = "044 अण्डाजाः पक्षिणः"
 
 +++
-**(verses 12.32-51)  
-**
 
-See Comparative notes for [Verse
-12.32](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202212.html#comparative-notes "English translation of verse").
+**नक्राः** शिशुमरादयः । **कच्छपः** कूर्मः । **यानि चैवंप्रकाराणि** कृकलासादीनि **स्थलजानि** । एवंरूपाण्य् **औदकानि** जलजानि शङ्खादीनि ॥ १.४४ ॥

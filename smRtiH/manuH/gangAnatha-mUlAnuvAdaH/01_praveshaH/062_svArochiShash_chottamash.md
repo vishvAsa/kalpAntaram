@@ -3,4 +3,4 @@ title = "062 स्वारोचिषश् चोत्तमश्"
 
 +++
 
-By stealing grains one becomes a rat; by stealing bronze, a Haṃsa; by stealing water, a Plava; by stealing honey, a gnat; by stealing milk, a crow; by stealing sweets, a dog; and by stealing clarified butter, an ichneumon.—(62). 
+तान् मनून् नामतो निर्दिशति । **महातेजा** इति विशेषनम् । अन्यानि नामानि रूढ्या निबन्धेन वा । **विवस्वत्सुत** इति समासपदरूपं शब्दान्तरं कृष्णसर्पनरसिंहादिशब्दवत् ॥ १.६२ ॥

@@ -3,4 +3,10 @@ title = "034 अहम् प्रजाः"
 
 +++
 
-This should be understood to be in brief the characteristic of these three qualities in order, as they appear at the three times.—(34)
+**अहम् असृजम्** उत्पादितवान् । **दश** **प्रजापतीन् महर्षीन्** । **आदितः सुदुश्चरं तपः** कृत्वा । सुष्टु दुःखेन तपश् चर्यते ऽतिपीडाकरं बहुकालं च ॥ १.३४ ॥
+
+_तान् महर्षीन् नामतो निर्दिशति_[^८२] ।
+
+
+[^८२]:
+     J adds: marīcim iti

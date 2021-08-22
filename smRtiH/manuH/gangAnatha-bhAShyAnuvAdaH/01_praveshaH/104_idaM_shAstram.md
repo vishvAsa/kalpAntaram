@@ -2,15 +2,9 @@
 title = "104 इदं शास्त्रम्"
 
 +++
-What is meant by this is that, even though one may possess
-knowledge,—until his sins have been destroyed, he does not attain
-Liberation;—nor if, though his sins may have been destroyed, he has not
-acquired knowledge of the Self.
 
-Thus there is no truth in the assertion that man attains Liberation by
-his very nature.
-
-‘*Immortality*’—not returning to metempsychic birth; which has also been
-described as consisting in pure Bliss.—(104)
+एवं संबन्धिद्वारेण ब्राह्मणार्थतया शास्त्रं स्तुत्वाधुना साक्षात् स्तौति । **इदं शास्त्रं** जानानः शंसितव्रतो[^१५२] भवतीति परिपूर्णयमनियमानुष्ठायी भवति । शास्त्राद् अननुष्ठाने प्रत्यवायं ज्ञात्वा तद्भयाद् अनुतिष्ठति सर्वान् यमनियमान् यथाशास्त्रं सर्वम् अनुतिष्ठति । अनुतिष्ठन् विहितातिक्रमप्रतिषिद्ध**कर्म**जनितैर् **दोषैर् न लिप्यते** न संबध्यते ॥ १.१०४ ॥
 
 
+[^१५२]:
+     G 1st ed.: saṃśitavrato

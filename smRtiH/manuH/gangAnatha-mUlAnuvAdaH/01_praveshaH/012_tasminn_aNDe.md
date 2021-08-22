@@ -3,4 +3,12 @@ title = "012 तस्मिन्न् अण्डे"
 
 +++
 
-He who is the impeller of this body, him they call the ‘Kṣetrajña,’ ‘the Conscious Being’; while he who does the acts is called by the learned, the ‘Bhūtātman,’ ‘the Material Entity.’—(12)
+**स भगवान्** ब्रह्मा **परिवत्सरं** संवत्सरम् **उषित्वा** **तस्मिन्न् अण्डे** स्थित उत्पन्नः सर्वज्ञः कथं निर्गच्छेयम् इति ध्यातवान्[^४२] । **तद् अण्डम् अकरोद् द्विधा** । तावता कालेन गर्भः परिपच्यते । अण्डम् अपि तावत्कालेन भेदजातं[^४३] परिपाकाद् अतः काकतालीयन्यायेन तद् अण्डम् अकरोद् द्विधेत्य् उच्यते ॥ १.१२ ॥
+
+
+[^४३]:
+     G 2nd ed.: bhedaṃ jātam
+
+
+[^४२]:
+     J places tasminn aṇḍe sthita utpannaḥ sarvajñaḥ kathaṃ nirgaccheyam iti dhyātavān, after paripacyate.

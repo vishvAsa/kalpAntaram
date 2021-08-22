@@ -2,7 +2,5 @@
 title = "057 एवं स"
 
 +++
-**(verses 12.53-59)**
 
-See Comparative notes for [Verse
-12.53](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202233.html#comparative-notes "English translation of verse").
+उपसंहारः पूर्वोक्तस्य । आत्मसंबन्धिभ्यां **जाग्रत्स्वप्नाभ्यां** **चराचरं** स्थावरं जंगमं जीवयति मारयति च जगत् । **अव्ययो** ऽविनाशी ॥ १.५७ ॥

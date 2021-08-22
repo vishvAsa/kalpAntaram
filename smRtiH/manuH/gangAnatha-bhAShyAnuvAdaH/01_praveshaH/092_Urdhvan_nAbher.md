@@ -2,17 +2,7 @@
 title = "092 ऊर्ध्वन् नाभेर्"
 
 +++
-‘*Even the said acts*.’—This does not sanction the abandoning of such
-acts as the *Agnihotra* and the like; all that is meant to be enjoined
-is that ‘one should concentrate his effort on the knowledge of
-Self’—which prescribes the acquiring of the knowledge of Self.
 
-‘*Having renounced the acts*.’—What the meaning of this phrase is that
-one should concentrate his efforts upon the acquiring of the knowledge
-of Self, even though this might involve the abandoning of such acts as
-the worshipping at certain temples or attending upon elders and so
-forth. This does not however sanction the voluntary renunciation of the
-compulsory rites; but all other rites have to be renounced, without
-which the knowledge of Self cannot be acquired.—(92)
+आ पादान्तान् मेध्यः पुरुषः । तस्य **नाभेर् ऊर्ध्वम्** अतिशयेन मेध्यम् । ततो ऽपि **मुखम्** । एतच् च स्वयम् एव जगत्कारणपुरुषेणोक्तम् ॥ १.९२ ॥
 
-
+_ततः किम् । अत आह ।_

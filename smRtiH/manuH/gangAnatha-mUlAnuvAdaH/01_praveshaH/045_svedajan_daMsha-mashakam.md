@@ -3,4 +3,4 @@ title = "045 स्वेदजन् दंश-मशकम्"
 
 +++
 
-Stick-fencers, wrestlers, actors, men subsisting by the use of weapons, those addicted to gambling and drinking,—represent the lowest state among those partaking of the quality of ‘Rajas.’—(45)
+**स्वेदः** पार्थिवानां द्रव्याणाम् अग्न्यादित्यादितापसंबन्धाद् अन्तःक्लेदस् ततो जायते **दंशमशकादि** । **अन्यद्** अपि **यद् ईदृशम्** अत्यन्तसूक्ष्मं पुत्तिकापिपीलिकादि यद् **ऊष्मण उपजायते** । ऊष्मा स्वेद एव, तद्धेतुर् वा तापः । "उपजायन्ते" इति वा पाठः । "ये चान्ये केचिद् ईदृशाः" इति पठितव्यम् ॥ १.४५ ॥

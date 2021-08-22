@@ -2,12 +2,5 @@
 title = "072 दैविकानां युगानाम्"
 
 +++
-‘*Maitrākṣajyotika*,’ like the foregoing terms, is another name for a
-*Piśāca*. Or the name may mean—“one who has *light* (‘*jyotiḥ*’) issuing
-from the *hole* (‘*akṣi*’) of the *anus* (‘*maitra*’).”
 
-Others explain the term as standing for the *owl*; ‘*maitra*’ being the
-*light of the sun*, and ‘*akṣajyotiḥ*’ meaning *visual perception*; the
-name connoting the fact that the owl cannot see in solar light—(72)
-
-
+देवयुगसाहस्रं **ब्राह्मम् एकम् अहः** । **तावती** ब्रह्मणो **रात्रिर्** देवयुगसहस्रम् एव । **परिसंख्यया** संख्यानेन यत् सहस्रम् इति संबन्धः । श्लोकपूरणार्थश् चायम् अनुवादः । न ह्य् असंख्यया सहस्रादिव्यवहारः । हेतौ तृतीया ॥ १.७२ ॥

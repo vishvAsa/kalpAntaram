@@ -2,23 +2,11 @@
 title = "097 ब्राह्मणेषु च"
 
 +++
-This also is in praise of the Veda.
 
-‘The *four castes*’ are learnt from the Veda,—*i.e*., the duties of the
-four castes ate tints known; *e.g*., ‘the Brāhmaṇa shall be initiated
-during the spring, the Kṣatriya during the summer,’ and so forth. As for
-the external features they are the same in all castes, and can be
-definitely ascertained only by experience; as we have shown elsewhere.
-
-‘*The three worlds*’—Such texts as ‘the gods subsist upon offerings from
-this world’ indicate that the Veda points out the means of subsistence
-for all the three worlds; specially as the *Smṛtis* (which contain
-details regarding these matters) also have their source in the Veda.
-
-The ‘*life-stages*’ also are learnt from the Veda.
-
-Similarly the ‘*past*’ births, pleasures and pains;—the
-‘*present*’—current,—and the ‘*future*’—what is to come; for the
-knowledge of all this one must seek help from the Veda.—(97)
+विदुषां श्रैष्ठ्यं महाफलेषु यागादिष्व् अधिकारात् । तेषाम् अपि **कृतबुद्धयः** । परिनिष्ठितवेदतत्त्वार्था न बौद्धादिभिः कलुषीक्रियन्ते । तेषाम् अपि **कर्तारः** कर्मणाम् अनुष्ठातारः । ते हि विहितकरणात् प्रतिषिद्धासेवनाच् च नोपहन्यन्ते । तेषाम् अपि **ब्रह्मवेदिनः**,[^१४५] ब्रह्मस्वरूपत्वात् । तत्र ह्य् अक्षय्यानन्दः ॥ १.९७ ॥
 
 
+[^१४५]:
+     M G 1st ed. omit; J brahmavādinaḥ
+
+_विद्वत्तादिगुणसंबन्धिनो ब्राह्मणस्य विशेषे दर्शिते, जातिमात्रं ब्राह्मणं कश्चिद् अवमन्येत । तन्निवृत्त्यर्थम् इदम् उच्यते ।_[^१४६]

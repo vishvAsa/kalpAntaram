@@ -2,10 +2,9 @@
 title = "110 एवम् आचारतो"
 
 +++
-*Gautama* (28.49).—‘They declare that a *Pariṣad*, Assembly, shall
-consist of at least the ten following—four men who have completely
-studied the four Vedas, three men belonging to the first three orders,
-and three men who know the different institutes of Law.’
 
-*Baudhāyana* (1.1.7, 9).—‘On failure of the *śiṣṭas*, an assembly
-consisting of at least ten members shall decide disputed points of Law.’
+यावत् किंचित् **तपः** प्राणायाममौनयमनियमकृच्छ्रचान्द्रायणानशनादि तस्य **सर्वस्य** फलप्रसवे **मूलम्** आचारः, अतस् तम् एव **मुनयस्** तपःफलार्थिनो मूलत्वेन कारणतया **जगृहुः** गृहीतवन्तः । आचाराद् दृष्ट्वा **धर्मस्य मुनयो गतिं **प्राप्तिम् । अतिक्लेशकरं तपस् तथाप्य्[^१५८] आचारहीनस्य न फलतीति श्रुतिः ॥ १.११० ॥
+
+
+[^१५८]:
+     M G: tadāpy

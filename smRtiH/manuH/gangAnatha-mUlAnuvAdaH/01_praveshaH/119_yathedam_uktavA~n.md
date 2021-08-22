@@ -3,4 +3,12 @@ title = "119 यथेदम् उक्तवाञ्"
 
 +++
 
-The Self alone is all the gods; everything subsists in the Self; it is the Self that brings about the connection of these embodied beings with actions.—(119)
+अवधानार्थः प्रतिबोधः ॥ १.११९ ॥
+
+**इति मानवे धर्मशास्त्रे भृगुप्रोक्तायां संहितायां **
+
+**प्रथमो ऽध्यायः**
+
+**इति श्रीभट्टमेधातिथिविरचिते मनुभाष्ये **
+
+**प्रथमो ऽध्यायः**

@@ -3,4 +3,8 @@ title = "013 ताभ्यां स"
 
 +++
 
-An inner ‘self,’ called ‘Jīva,’ ‘Soul,’ is different,—generated along with all embodied beings, through which one experiences pleasure and fain during the several births.—(13)
+शकले अण्डकपाले[^४४] । ताभ्याम् अण्डकपालाभ्याम् उत्तरेण **दिवं निर्ममे** निर्मितवान् । अधरेण पृथिवी मध्ये **व्योमा**काशम् । **दिशो ऽष्टौ च** प्रागाद्याः, अवान्तरदिग्भिर् दक्षिणपूर्वादिभिः सह । **अपां स्थानम्** अन्तरिक्षे समुद्रम् आकाशं च पृथिवी पातालगता ॥ १.१३ ॥
+
+
+[^४४]:
+     M: śakalam aṇḍakapāle; J: śakalam aṇḍakapālam

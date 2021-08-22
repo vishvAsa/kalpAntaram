@@ -2,15 +2,13 @@
 title = "096 भूतानाम् प्राणिनः"
 
 +++
-‘*Other*’—*i.e*., apart from the Veda;—‘*doctrines*’— teachings;—‘*which
-spring up and perish*,’—and because they spring up and perish, they are
-*not eternal*,—while the Veda is *eternal*.
 
-‘*Being of modern growths*’— having been propounded by some person of
-the present time,—‘*they are worthless*’—not productive of any
-transcendental result.
-
-‘*Those other doctrines*’—which bear traces of being propounded by
-dissemblers, and such other signs.—(96)
+पृथिव्यां ये भावाः स्थावरा वृक्षादयो जङ्गमाः कृमिकीटादयस् ते **भूत**शब्देनोच्यन्ते । तेषां ये **प्राणिन** आहारविहारादिचेष्टासमर्थास् ते **श्रेष्ठाः**[^१४३] । ते हि पटुतरं सुखम् अनुभवन्ति । तेषां ये **बुद्ध्या जीवन्ति** हिताहिते विचिन्वन्ति श्वशृगालादयः, ते हि घर्मेणोपतप्ताः छायाम् उपसर्पन्ति, शीतेनार्दिता आतपम्[^१४४], निराहारं स्थानं त्यजन्ति । तेषाम् अधिकतरा मनुष्याः, तेषां च **ब्राह्मणाः** । ते हि लोके पूज्यतमाः, न च सर्वेण परिभूयन्ते । जातिमात्राश्रयं हि तद्वधे महत् प्रायश्चित्तम् ॥ १.९६ ॥
 
 
+[^१४४]:
+     G 1st ed.: ātāpe
+
+
+[^१४३]:
+     M G add: prāṇinas

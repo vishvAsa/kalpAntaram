@@ -2,12 +2,13 @@
 title = "075 मनः सृष्टिम्"
 
 +++
-**(verses 12.75-76)**
 
-[\[See above,
-4.88-89.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200193.html#comparative-notes)
+उक्ताप्य् एषा तत्त्वस्य सृष्टिः । यो विशेषो नोक्तस् तत्प्रतिपादनाय पुनर् उच्यते । **विकुरुते** विशेषतः करोति[^११०] ब्रह्मणा **चोद्यमानम्** । तस्माच् चोदिताद्[^१११] **आकाशं जायते** । तस्याकाशस्य शब्दाख्यो गुणो भवति । गुण आश्रित उच्यते, आकाशं तस्याश्रयः । न ह्य् आकाशं विना शब्दस्य संभवः ॥ १.७५ ॥
 
-*Yājñavalkya* (3.206).—‘Having passed through most despised hells, by
-virtue of their grievous sins, and thus having their had Karma
-exhausted, those who had committed heinous offences become born again in
-the world.’
+
+[^१११]:
+     M G 1st ed.: tasmān noditād
+
+
+[^११०]:
+     M G 1st ed. omit: vikurute viśeṣataḥ karoti

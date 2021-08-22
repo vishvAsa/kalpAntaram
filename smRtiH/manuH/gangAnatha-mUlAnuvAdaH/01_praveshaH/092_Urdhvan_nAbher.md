@@ -3,4 +3,6 @@ title = "092 ऊर्ध्वन् नाभेर्"
 
 +++
 
-Having renounced even the said acts, the Brāhmaṇa shall concentrate his effort on the knowledge of Self, on calmness and on the study of the Veda.—(92)
+आ पादान्तान् मेध्यः पुरुषः । तस्य **नाभेर् ऊर्ध्वम्** अतिशयेन मेध्यम् । ततो ऽपि **मुखम्** । एतच् च स्वयम् एव जगत्कारणपुरुषेणोक्तम् ॥ १.९२ ॥
+
+_ततः किम् । अत आह ।_

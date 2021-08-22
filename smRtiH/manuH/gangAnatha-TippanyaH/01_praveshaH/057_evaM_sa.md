@@ -2,8 +2,5 @@
 title = "057 एवं स"
 
 +++
-This verse is quoted in *Mitākṣarā* (3.208), which explains ‘*lūtā*’ as
-the spider, and ‘*saraṭa*’ as the lizard;—and in *Parāśaramādhava*
-(Prāyaścitta, p. 511).
 
-
+उपसंहारः पूर्वोक्तस्य । आत्मसंबन्धिभ्यां **जाग्रत्स्वप्नाभ्यां** **चराचरं** स्थावरं जंगमं जीवयति मारयति च जगत् । **अव्ययो** ऽविनाशी ॥ १.५७ ॥

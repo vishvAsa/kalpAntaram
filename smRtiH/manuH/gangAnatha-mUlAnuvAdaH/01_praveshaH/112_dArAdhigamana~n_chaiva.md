@@ -3,4 +3,4 @@ title = "112 दाराधिगमनञ् चैव"
 
 +++
 
-A person knowing the Ṛgveda, a person knowing the Yajurveda, and a person knowing the Sāmaveda, shall be understood to form the assembly of at least three members, competent to decide doubtful points of law.—(112)
+**दाराणाम् अधिगमनं** भार्यासंग्रहः । **विवाहानां** ब्राह्मादीनां तत्प्राप्त्युपायानां च **लक्षणं** स्वरूपाधिगमने हेतुम् । **महायज्ञाः** पञ्च वैश्वदेवादयः । **श्राद्धस्य** पितृयज्ञस्य **कल्पो** विधिर् इतिकर्तव्यता । परग्रहणं शाशवतग्रहणं च वृत्तपूरणार्थम् । एष तृतीयाध्यायार्थः ॥ १.११२ ॥

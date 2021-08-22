@@ -2,23 +2,5 @@
 title = "024 कालङ् कालविभक्तीश्"
 
 +++
-All that appertains to the Action-side of human activity has been
-expounded; what appertains to the Knowledge-side of it. is now set
-forth. And what is now stated, at the outset, deals with the subordinate
-factors, and hence appears to savour of *Dualism*.
 
-*Sattva* and the rest are the three qualities of the ‘Self.’ The term
-‘Self’ here stands, not for the Soul, but for the Great Principle. In
-fact, the term ‘*Self*’ denotes one’s *nature*, and not necessarily the
-*inner side of things*. And then the *Soul* by its very nature, is
-devoid of qualities.
-
-Or what is mentioned here refers to the Soul that undergoes
-experiences,—the qualities being the *object* of experience.
-
-‘*Great One*’—This stands for Primordial matter itself,—this being what
-happens to be in closest proximity to the Great Principle, which is the
-first to evolve out of Primordial Matter. It is so called (the ‘Great
-One’) because it is the source of all Emanations.—(24)
-
-
+धर्मसामान्याद् आह । द्रव्यात्मा **कालो** वैशेषिकाणाणां क्रियारूपो ऽन्येषाम् । आदित्यादिगतिप्रतान आवृत्तिमान् । **कालविभक्तयो** विभागा मासर्त्वयनसंवत्सराद्याः । **नक्षत्राणि** कृत्तिकारोहिण्यादीनि । **ग्रःआ** आदित्यादयः । **सरितो** नद्यः । **सागराः** समुद्राः । **शैलाः** पर्वताः । **समानि** स्थलान्य् एकरूपा भूभागाः खातप्रदरवर्जिताः । **विषमाणि** आरोहावरोहवन्ति ॥ १.२४ ॥

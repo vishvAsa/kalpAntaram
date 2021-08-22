@@ -3,6 +3,4 @@ title = "044 अण्डाजाः पक्षिणः"
 
 +++
 
-
-
-Cāraṇas, Suparṇas, hypocritical men, Rākṣasas, and Piśācas—represent the highest state among those partaking of the quality of ‘Tamas.’—(44)
+**नक्राः** शिशुमरादयः । **कच्छपः** कूर्मः । **यानि चैवंप्रकाराणि** कृकलासादीनि **स्थलजानि** । एवंरूपाण्य् **औदकानि** जलजानि शङ्खादीनि ॥ १.४४ ॥

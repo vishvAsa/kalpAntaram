@@ -3,4 +3,4 @@ title = "090 पशूनां रक्षणम्"
 
 +++
 
-He who devotes himself to the ‘active’ side, attains equality to the gods; while he who devotes himself to the ‘passive’ section, passes beyond the five material substances.—(90)
+**वनिक्पथः** वणिक्कर्मणा स्थलपथवारिपथादिना धनार्जनम् । उपयुज्यमानदेशान्तरीयद्रव्यसंनिधापनं यस्य राज्ञो विषये वसति । **कुसीदं** वृद्ध्या धनप्रयोगः ॥ १.९० ॥
