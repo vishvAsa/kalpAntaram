@@ -6,4 +6,4 @@ title = "363 किञ् चिद्"
 **
 
 See Comparative notes for [Verse
-8.362](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201295.html#comparative-notes "English translation of verse").
+8.362].

@@ -5,7 +5,7 @@ title = "349 आत्मनश् च"
 **(verses 8.348-349)**
 
 From what has been said above ([in
-4.36](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200140.html))
+4.36])
 regarding the carrying of ‘a bamboo-stick’ the carrying of weapon being
 permitted to a Vedic-scholar, it is just possible that when possessed of
 much physical strength, if he were to take up arms, he would be regarded

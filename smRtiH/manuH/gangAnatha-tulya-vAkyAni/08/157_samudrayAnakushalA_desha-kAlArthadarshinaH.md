@@ -6,4 +6,4 @@ title = "157 समुद्रयानकुशला देश-काला�
 **
 
 See Comparative notes for [Verse
-8.156](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201075.html#comparative-notes "English translation of verse").
+8.156].

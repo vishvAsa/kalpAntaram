@@ -6,7 +6,7 @@ title = "288 द्रव्याणि हिंस्याद्"
 **
 
 *Arthaśāstra* (pp. 108-109).—([See under
-285](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201220.html),
+285],
 then)—‘For damaging such things as clothes, ornaments, gold-vessels, the
 first amercement and also double the value of the article damaged.’
 

@@ -3,7 +3,7 @@ title = "324 महापशूनां हरणे"
 
 +++
 [*Cf*.
-8.26.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200920.html)
+8.26.]
 
 This verse is quoted in *Vivādaratnākara* (p. 319), which adds the
 following notes—‘*Mahāpaśu*’ are the elephant and other large

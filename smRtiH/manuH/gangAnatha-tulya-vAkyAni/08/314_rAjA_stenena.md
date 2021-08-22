@@ -5,7 +5,7 @@ title = "314 राजा स्तेनेन"
 **(verses 8.314-315)**
 
 [\[ *See* Manu
-11.100-101.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201979.html#comparative-notes)
+11.100-101.\]]
 
 *Gautama* (12.48).—‘A man who has stolen gold shall approach the King,
 with flying hair, holding a club in his hand, and proclaim his deed.’

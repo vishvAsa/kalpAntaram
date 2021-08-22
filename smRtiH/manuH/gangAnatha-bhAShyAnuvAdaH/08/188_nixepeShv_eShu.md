@@ -4,7 +4,7 @@ title = "188 निक्षेपेष्व् एषु"
 +++
 In the case of open deposits ‘*the method of restoration*’ shall be as
 just described in [verses 182 *et
-seq*.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201105.html)
+seq*.]
 
 The depositary shall not incur the censure of the debtor, as regards the
 deposit to be restored.

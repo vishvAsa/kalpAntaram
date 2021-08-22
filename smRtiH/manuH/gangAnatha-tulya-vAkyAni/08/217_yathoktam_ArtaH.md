@@ -6,4 +6,4 @@ title = "217 यथोक्तम् आर्तः"
 **
 
 See Comparative notes for [Verse
-8.215](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201143.html#comparative-notes "English translation of verse").
+8.215].

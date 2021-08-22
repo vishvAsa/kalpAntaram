@@ -8,4 +8,4 @@ punished as a thief;—so also one who offers and accepts a gift in anger
 for the injuring of a third person.’
 
 [(See texts under
-212.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201139.html)
+212.)]

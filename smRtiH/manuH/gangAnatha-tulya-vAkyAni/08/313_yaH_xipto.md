@@ -6,4 +6,4 @@ title = "313 यः क्षिप्तो"
 **
 
 See Comparative notes for [Verse
-8.313](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201246.html#comparative-notes "English translation of verse").
+8.313].

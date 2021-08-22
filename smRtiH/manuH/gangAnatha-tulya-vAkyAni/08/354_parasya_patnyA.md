@@ -23,7 +23,7 @@ or places, or in a forest,—winking at her and smiling at her,—these
 constitute the first degree of Adultery.’
 
 *Śaṅkha-Likhita* (Aparārka, p. 855).—[(See under
-CCCLII-CCCLIII.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201284.html#comparative-notes)
+CCCLII-CCCLIII.)]
 
 *Nārada* (12-62).—‘To meet another man’s wife at an unreasonable hour or
 place, and to sit, converse or dally with her,—these are the three

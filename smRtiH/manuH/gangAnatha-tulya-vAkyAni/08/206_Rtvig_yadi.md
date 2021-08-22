@@ -3,7 +3,7 @@ title = "206 ऋत्विग् यदि"
 
 +++
 [(See Manu below,
-388.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201323.html)
+388.)]
 
 *Yājñavalkya* (2.265).—‘Among a company of joint workers, if one happen
 to be dishonest, the others should expel him without payment; if he

@@ -5,7 +5,7 @@ title = "374 शूद्रो गुप्तम्"
 **(verses 8.374-378)**
 
 [(See the texts under
-372.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201305.html)
+372.)]
 
 *Gautama* (12.2).—‘If a Śūdra has intercourse with an *Ārya* woman, his
 organ shall he cut off, and all his property shall be confiscated.’
@@ -20,7 +20,7 @@ Do. (2-26.20).—‘If a man has actually committed adultery, his organ
 shall be cut off, together with the testicles.’
 
 *Vaśiṣṭha* (21.1-5).—[(See under
-372.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201305.html)
+372.)]
 
 *Yājñavalkya* (2.286, 294).—‘If one has intercourse with a woman of the
 same caste as himself, he shall be punished with the highest fine; if

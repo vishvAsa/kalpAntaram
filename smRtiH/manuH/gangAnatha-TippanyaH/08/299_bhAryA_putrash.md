@@ -3,7 +3,7 @@ title = "299 भार्या पुत्रश्"
 
 +++
 [*Cf*.
-4.164.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200269.html)
+4.164.]
 
 This verse is quoted in *Vivādaratnākara* (p. 271), which explains that
 the *younger* ‘brother’ is meant;—in *Vīramitrodaya* (Saṃskāra, p.

@@ -6,7 +6,7 @@ title = "382 वैश्यश् चेत्"
 **
 
 \[See Texts under
-[371](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201304.html),
-[372](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201305.html)
+[371],
+[372]
 and
-[374-378](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201307.html#comparative-notes).\]
+[374-378].\]

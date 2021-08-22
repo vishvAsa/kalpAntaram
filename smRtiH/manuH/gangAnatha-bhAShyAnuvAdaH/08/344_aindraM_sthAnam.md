@@ -8,7 +8,7 @@ the man who, not minding either the physical or spiritual effects of his
 acts, is prompted by the sheer spirit of violence, and openly engages
 himself in causing suffering to others by such acts as theft, hurt,
 adultery and so forth. This is what has been already [referred to under
-332](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201264.html).
+332].
 
 This ‘violence’ is not anything different from *theft* and the rest;
 these same acts are called ‘violent crimes’ when they are done with a

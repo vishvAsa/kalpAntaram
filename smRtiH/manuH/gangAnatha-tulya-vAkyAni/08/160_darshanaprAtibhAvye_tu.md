@@ -6,4 +6,4 @@ title = "160 दर्शनप्रातिभाव्ये तु"
 **
 
 See Comparative notes for [Verse
-8.159](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201079.html#comparative-notes "English translation of verse").
+8.159].

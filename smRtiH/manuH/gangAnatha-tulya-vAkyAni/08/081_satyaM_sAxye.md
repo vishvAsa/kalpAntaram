@@ -6,4 +6,4 @@ title = "081 सत्यं साक्ष्ये"
 **
 
 See Comparative notes for [Verse
-8.79](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200984.html#comparative-notes "English translation of verse").
+8.79].

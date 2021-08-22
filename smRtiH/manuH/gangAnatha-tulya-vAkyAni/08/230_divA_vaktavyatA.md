@@ -6,4 +6,4 @@ title = "230 दिवा वक्तव्यता"
 **
 
 See Comparative notes for [Verse
-8.229](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201160.html#comparative-notes "English translation of verse").
+8.229].

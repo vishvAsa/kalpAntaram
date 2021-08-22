@@ -6,4 +6,4 @@ title = "381 न ब्राह्मणवधाद्"
 **
 
 See Comparative notes for [Verse
-8.379](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201312.html#comparative-notes "English translation of verse").
+8.379].

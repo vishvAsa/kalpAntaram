@@ -6,4 +6,4 @@ title = "384 क्षत्रियायाम् अगुप्ताया
 **
 
 See Comparative notes for [Verse
-8.382](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201315.html#comparative-notes "English translation of verse").
+8.382].

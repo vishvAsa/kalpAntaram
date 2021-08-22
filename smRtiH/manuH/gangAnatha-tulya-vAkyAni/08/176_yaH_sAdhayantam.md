@@ -24,7 +24,7 @@ confinement in the house.’
 *Nārada* (1.122, 123).
 
 \[122 is same as [Manu
-8.49](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200951.html)\].—
+8.49]\].—
 
 ‘A creditor who tides to recover his loan from the debtor must not he
 checked by the King, both for secular and religious reasons.’

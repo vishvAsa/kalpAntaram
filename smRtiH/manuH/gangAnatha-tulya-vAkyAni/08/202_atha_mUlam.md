@@ -3,9 +3,9 @@ title = "202 अथ मूलम्"
 
 +++
 (See the texts under [verses
-198-199](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201123.html#comparative-notes)
+198-199]
 and [verse
-201](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201126.html).)
+201].)
 
 *Viṣṇu* (5.164-165).—‘He who buys unawares in open market the property
 of a person other than the rightful owner is not to blame; but the owner

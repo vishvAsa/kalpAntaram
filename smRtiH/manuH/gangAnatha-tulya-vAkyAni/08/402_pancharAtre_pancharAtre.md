@@ -6,4 +6,4 @@ title = "402 पञ्चरात्रे पञ्चरात्रे"
 **
 
 See Comparative notes for [Verse
-8.401](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201336.html#comparative-notes "English translation of verse").
+8.401].

@@ -6,7 +6,7 @@ title = "193 उपधाभिश् च"
 **
 
 [\[See the texts under
-190-192.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201113.html#comparative-notes)
+190-192.\]]
 
 *Nārada* (2.3).—‘In whatever manner a man may have delivered any of his
 effects to another, in that same manner shall the article be restored to

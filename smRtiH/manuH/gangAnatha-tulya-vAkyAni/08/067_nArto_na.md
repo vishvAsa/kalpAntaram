@@ -6,4 +6,4 @@ title = "067 नार्तो न"
 **
 
 See Comparative notes for [Verse
-8.64](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200968.html#comparative-notes "English translation of verse").
+8.64].

@@ -6,4 +6,4 @@ title = "101 एतान् दोषान्"
 say exactly what they have seen or heard.’
 
 [\[See texts under
-74.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200978.html)
+74.\]]

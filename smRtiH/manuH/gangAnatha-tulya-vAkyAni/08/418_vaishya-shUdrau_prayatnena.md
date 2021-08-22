@@ -6,4 +6,4 @@ title = "418 वैश्य-शूद्रौ प्रयत्नेन"
 **
 
 See Comparative notes for [Verse
-8.410](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201345.html#comparative-notes "English translation of verse").
+8.410].
