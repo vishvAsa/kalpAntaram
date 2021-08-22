@@ -3,4 +3,4 @@ title = "218 उदकन् निनयेच्"
 
 +++
 
-Seats with kuśa grass having been separately placed, he should seat the said Brāhmaṇas who have performed their ablutions.—(208)
+The remaining water he should gently pour near the balls; and with collected mind he should smell those halls in the order in which they were offered.—(218).

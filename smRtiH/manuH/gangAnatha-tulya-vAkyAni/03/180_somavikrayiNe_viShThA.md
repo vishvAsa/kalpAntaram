@@ -2,8 +2,6 @@
 title = "180 सोमविक्रयिणे विष्ठा"
 
 +++
-**(verses 3.169-170)  
-**
-
-See Comparative notes for [Verse
-3.170](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199950.html#comparative-notes "English translation of verse").
+*Mahābhārata* (13.90, 13, 14).—‘What is given to the Soma-seller and to
+the physician becomes pus and blood; what is given to the temple-servant
+perishes; it is neither here nor there.’

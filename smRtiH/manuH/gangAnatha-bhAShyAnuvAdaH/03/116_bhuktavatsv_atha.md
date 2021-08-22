@@ -2,22 +2,20 @@
 title = "116 भुक्तवत्स्व् अथ"
 
 +++
-Soup, butter, curds, sugar, and such other rich food, he himself should
-not eat, so long as he does not offer it to the guest that may have
-arrived. As for gruel and such other bitter medicinal drinks, he shall
-not offer these to him, if he does not desire it; there is no harm in
-the man taking these without offering them to the guest. All that this
-means is that he should uot himself eat rich food and offer to the guest
-poor fare.
+‘*Brāhmaṇas*’—*i.e*., guests.
 
-‘*Conducive to wealth*’— procures, brings, wealth. Similarly,
-‘*conducive to fame*,’ and so forth.
+‘*His men people*’—people of the same caste, and so forth. When all
+these have eaten, then ‘what is left by them,’ the husband and wife
+should eat.
 
-All this is purely laudatory; because the honouring of guests is a
-compulsory duty, if he happen to be there, and also because what is here
-said is clearly supplementary to the foregoing injunction (of
-guest-honouring). And so long us a passage can be taken as purely
-laudatory, there is no justification for taking it as putting forward
-another incentive.—(106)
+‘*Afterwards*’—this is added with a view to perclude the notion that a
+portion of the food having been assigned to the guests and others, and
+kept aside, the remainder might be called ‘what is left,’ and as such
+might be eaten by the householder and his wife, even before the guests,
+&c.
+
+Half of this verse is meant to be the injunction of the time for the
+husband and wife to eat; the rest of it is a purely descriptive
+reference.—(116)
 
 

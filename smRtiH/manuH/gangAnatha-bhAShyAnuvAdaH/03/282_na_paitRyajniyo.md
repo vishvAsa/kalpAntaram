@@ -2,39 +2,59 @@
 title = "282 न पैतृयज्ञियो"
 
 +++
-‘*Kālaśāka*’—is a well-known variety of vegetable; applying to the
-darker variety of the ‘*Vāstūka*.’
+The ‘Homa,’ ‘oblation into fire,’ offered in connection with the Rite in
+honour of the Pitṛs is called ‘*Paitṛyajñikahoma*;’—this ‘*has not been
+prescribed as to be offered into the common*’—*i.e*., the
+*Smārta*—‘*fire*.’ That is, the Scriptures do not enjoin it as to be
+done in that manner. Hence it follows that the offering of *Śrāddha*
+‘three times during the year’ is to be made by one who has not set up
+the Fire. Though this offering three times would be ‘offering into the
+common Fire,’ yet it would be as good as ‘*not done*,’ in comparison
+with what is done throughout the year. For instance, when a man who can
+eat a seer has eaten less, people are found to say, ‘he has not eaten.’
 
-‘*Mahāśalka*’ stands for the porcupine. Others have explained it as
-standing for a special kind of fish.
+Older commentators have explained this as a reiterative supplement to
+what has gone in the preceding verse.
 
-‘*Khaḍga*’—Rhinoceros.
+The right view to take, however, appears to be that what is said in the
+text is that the oblation into Fire, in connection with *Śrāddhas*,
+should not be offered into the ‘common Fire,’—*i.e*., such fire as has
+not been set up at marriage or other prescribed times. And this
+prohibition of the ‘oblation into Fire’ implies that details other than
+that may be done in the common fire. If such were not the meaning, then,
+in view of the fact that the ‘oblation into fire,’ offered by the person
+who has set up the fire, has been prescribed as part of the
+*Pārvaṇa-Śrāddha*, the person who has not set up the Fire would not be
+entitled to the performance of *Śrāddhas* at all; just as, in view of
+the fact that the blind person cannot do the ‘looking into the butter,’
+he is not entitled to the performance of the *Darśa Pūrṇamāsa*
+sacrifi-ces. If it be, as we have explained it, then it comes to this
+that the *Śrāddha* performed by the man who has set up the fire would be
+accompanied by oblations into fire, while that performed by one. who has
+not set up the fire would be without such oblations. And in this, case,
+what is said here falls within what has been said in verse 212 above.
 
-‘*Loha*’—the black goat, or one whiçh is *red* all over. Says the
-*Purāṇa*—‘the red goat, and the black one, serve for endless time.’
-Though the term ‘*loha*’ denotes the *colour*, it indirectly indicates
-the goat having that colour. The term ‘*loha*’ is used in the sense of
-‘black’ as well as ‘red’—being applied to iron, which is black, as also
-to *copper* which is red. Though this variety of colour is found in
-sheep and other animals also, yet, on the strength of other *Smṛtis*, it
-has been explained here as standing for the *goat* only.
+Some people have offered the following explanation:—“What is meant here
+is the *Piṇḍapitṛyajña*; and the oblation into fire that is offered at
+this is never offered into the Common Fire.”
 
-Others, however, have explained the term ‘*loha*’ as standing for the
-bird, called ‘*lohapṛṣṭha*,’ the Heron; which is mentioned by means of a
-part of the name only. Just as Devadatta is often spoken of as simply
-‘Datta.’
+Others have said that this is not right, for even so the person who has
+not set up the Fire might cook the oblation day by day and then offer
+it.
 
-It is necessary to find the support of usage in the case of both these
-explanations.
+Others, again, assert that, in view of the phrase, ‘*apart from the
+Moonless Day*,’ it follows that by the person who has set up the Fire
+the *Śrāddha* should be offered every month; and that the rule regarding
+‘three times in the year’ does not apply to him.
 
-‘*Honey*’—that collected by bees.
+Others, again, have declared that such is not the reading.
 
-In the case of all the things mentioned in the present contest, all that
-is meant is the *great satisfaction* produced by the offerings; and
-stress is not meant to be laid upon the exact period of time mentioned
-in each case. If this were really meant, then one might be justified in
-omitting the performance of *Śrāddhas* for twelve years; and this would
-be contrary to what has been declared, to the effect that ‘Rites in
-honour of the Pitṛs should be performed till death.’ (Verse 279).—(272)
+What then is the meaning?
+
+The meaning is that, apart from the *Śrāddha* performed on the Moonless
+Day, no other *Śrāddha*—such as the ‘*Maghā-Śrāddha*,’ and the like—is
+binding upon him; the former alone being necessary for him. For the
+person who has not set up the Fire, however, the *Śrāddhas* prescribed
+in connection with the winter, etc., also are obligatory.—(282)
 
 

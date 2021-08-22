@@ -2,23 +2,15 @@
 title = "266 हविर् यच्"
 
 +++
-‘*Kuśa-grass*’—is well-known.
+‘The term ‘*chira-rātra*’ means *long time*.
 
-‘*Sanctificatory texts*’—Mantras.
+‘*That which serves for eternity*’ as well as that which brings about
+long-standing satisfaction;—both these I am going to describe.
 
-‘*Sacrificial food*’— articles of food fit for sacrifices; these are
-going to be described in the next verse.
+This is said for the purpose of attracting the attention of the
+audience.
 
-‘*Purity*’—cleanliness of conduct.
-
-‘*And also the afore-mentioned*’—*i.e*., what have been mentioned in the
-preceding verse, in the shape of ‘setting up of the dwelling,
-liberality, cleaning, superior Brāhmaṇas’ equipped with character and
-learning.
-
-‘*Essentials of a sacrifice*’—‘Sacrifice’ consists in the act of
-offering to the gods and of feeding Brāhmaṇas in honour of the gods; the
-term ‘*havya*,’ ‘sacrifice,’ standing for what is done in honour of the
-gods.—(256)
+After ‘*kalpate*,’ the term ‘*prete*,’ ‘for the food,’ should be
+supplied.—(266)
 
 

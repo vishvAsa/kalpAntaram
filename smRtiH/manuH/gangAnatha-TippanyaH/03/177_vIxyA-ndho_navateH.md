@@ -2,9 +2,11 @@
 title = "177 वीक्ष्याऽन्धो नवतेः"
 
 +++
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 688) and (on p.
-694) explains ‘*ubhayatrāpi varjayet*’ as ‘a11 these men are to be
-excluded from both kinds of rites—those in honour of the Gods as well as
-those in honour of the Pitṛs’;—and in *Hemādri* (Śrāddha, p. 482).
+“Regarding the diseases which are punishments for sins committed in a
+former life, see below, 11.49 *et. seq*.”—Buhler.
 
-
+This verse is quoted in *Aparārka* (p. 454), which adds that what is
+meant is that ‘if a blind man remains in a place from where a man with
+eyes could see the Brāhmaṇas eating,—then he destroys the merit that
+would result from the feeding of ninety men’;—and in *Hemādri* (Śrāddha,
+p. 499).

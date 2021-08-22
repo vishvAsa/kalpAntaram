@@ -2,9 +2,10 @@
 title = "168 यावतः संस्पृशेद्"
 
 +++
-*Mahābhārata* (13.90.46).—\[Reproduces Manu, reading ‘*śrāddham*’ for
-‘*havyam*.’\]
+*Viṣṇu* (82.14).—‘Those who sacrifice for the Śūdra (should be
+avoided).’
 
-*Mahābhārata* (13.90.46).—‘Just as a butter-oblation that is poured in
-extinguished fire reaches neither the Gods nor the Pitṛs, so also what
-is given to the dancer or the singer.’
+*Bṛhad-Yama-Smṛti* (35, 37, 38).—‘The ill-visaged, the eunuch, the
+heretic, the decrier of the Veda, the sophist, the sacrificer for the
+Śūdra, and those who sacrifice for improper persons,—these should be
+avoided with great care at the Śrāddha.’

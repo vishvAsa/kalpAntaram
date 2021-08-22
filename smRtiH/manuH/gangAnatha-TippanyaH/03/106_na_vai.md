@@ -2,9 +2,7 @@
 title = "106 न वै"
 
 +++
-‘*Satkṛtya*’—‘Having honoured’ (the Brāhmaṇa) (Medhātithi and
-Govindarāja);—‘having garnished’ (the food) (Kullūka and Rāghávānanda).
-
-This is quoted, without comment, in *Vīramitrodaya* (Āhnika, p. 434).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 451) without
+comment.
 
 

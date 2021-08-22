@@ -3,4 +3,4 @@ title = "147 एष वै"
 
 +++
 
-‘Of these two one should regard him as superior whose father is learned in the Veda; while the other deserves honour for the sake of the veneration due to the Veda.—(137)
+This is the first course to be adopted in the presenting of the offerings made to Gods and Pitṛs. This (following) is to be regarded as the secondary course always adopted by the good.’—(147)

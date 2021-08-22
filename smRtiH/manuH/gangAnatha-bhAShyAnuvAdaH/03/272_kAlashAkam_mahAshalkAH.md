@@ -2,20 +2,39 @@
 title = "272 कालशाकम् महाशल्काः"
 
 +++
-The modes of disposal mentioned above apply to the first and the last
-balls; but the middlemost of the balls the lawful wife, desiring a son,
-should eat; *i.e*., the wife who has not been married merely for the
-sake of pleasure.
+‘*Kālaśāka*’—is a well-known variety of vegetable; applying to the
+darker variety of the ‘*Vāstūka*.’
 
-‘*Devoted to her husband*;’—one who makes it her vow that—‘I shall serve
-my husband alone, even in my mind I shall never entertain even a thought
-of faithlessness to him.’
+‘*Mahāśalka*’ stands for the porcupine. Others have explained it as
+standing for a special kind of fish.
 
-‘*Intent upon*’—with full faith in—‘*the worshipping*’—the *śrāddha* and
-other rites—‘*of the Pitṛs*.’ That is, she betakes herself with great
-care to the performance of these.
+‘*Khaḍga*’—Rhinoceros.
 
-‘*Should eat in the proper manner*—*i.e*., fully observing the rules
-regarding the rinsing of the mouth and sipping of.water etc., etc.—(262)
+‘*Loha*’—the black goat, or one whiçh is *red* all over. Says the
+*Purāṇa*—‘the red goat, and the black one, serve for endless time.’
+Though the term ‘*loha*’ denotes the *colour*, it indirectly indicates
+the goat having that colour. The term ‘*loha*’ is used in the sense of
+‘black’ as well as ‘red’—being applied to iron, which is black, as also
+to *copper* which is red. Though this variety of colour is found in
+sheep and other animals also, yet, on the strength of other *Smṛtis*, it
+has been explained here as standing for the *goat* only.
+
+Others, however, have explained the term ‘*loha*’ as standing for the
+bird, called ‘*lohapṛṣṭha*,’ the Heron; which is mentioned by means of a
+part of the name only. Just as Devadatta is often spoken of as simply
+‘Datta.’
+
+It is necessary to find the support of usage in the case of both these
+explanations.
+
+‘*Honey*’—that collected by bees.
+
+In the case of all the things mentioned in the present contest, all that
+is meant is the *great satisfaction* produced by the offerings; and
+stress is not meant to be laid upon the exact period of time mentioned
+in each case. If this were really meant, then one might be justified in
+omitting the performance of *Śrāddhas* for twelve years; and this would
+be contrary to what has been declared, to the effect that ‘Rites in
+honour of the Pitṛs should be performed till death.’ (Verse 279).—(272)
 
 

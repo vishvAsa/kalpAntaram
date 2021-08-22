@@ -2,13 +2,22 @@
 title = "158 अगारदाही गरकूटकारकः"
 
 +++
-‘*Bandhuḥ*’—‘The brother-in-law, one belonging to the same *gotra*, or
-some such remote relation’ (Medhātithi and Govindarāja);—‘cognate
-kinsman’ (Kullūkā and Rāghavānanda).
+‘*Agāradāhī*’—‘An incendiary; as also (according to Nandana) one who
+burns corpses for money’.
 
-This verse is quoted in *Madanapārijāta* (p. 558), which explains
-‘*vitpati*’ as ‘the son-in-law and ‘*bandhu*’ as ‘blood relations, as
-well as those related by friendship’;—in *Hemādri* (Śrāddha, p. 447);—in
-*Godādharapoddhati* (Kāla, p. 574);—and in *Saṃskāraratnamālā* (p. 991).
+‘*Kuṇḍāśī*’—‘One who eats the food of the son of an adultress’
+(Medhātithi and Kullūka) ‘the glutton who eats sixty *palas* of rice’
+(Nārāyaṇa).
+
+‘*Kūtakārakaḥ*’—‘The perjuring witness’ (Medhātithi, Rāghavānanda and
+also Kullūka, whose explanation does not differ from Medhātithi’s as
+noted by Buhler);—Medhātithi explains the word as ‘*Sākṣyeṣvanṛtavādī*,’
+and Kullūka as ‘*Sākṣivāde mṛṣāvādasya-kartā*’;—‘any one who commits
+fraud, *i.e*. a forger, a falsifier of weights and measures’ (Nārāyaṇa
+and Nandana).
+
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 687) without any
+comment;—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda*
+(Śrāddha, p. 9a).
 
 

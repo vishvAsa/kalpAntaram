@@ -3,4 +3,4 @@ title = "119 राजर्त्विक्-स्नातक-गुरू�
 
 +++
 
-A Brāhmaṇa should not advertise his family and Gotra for the purpose of obtaining a meal. Bragging about these, for the purpose of obtaining a meal, he comes to be called a “feeder on filth” by the wise.—(109)
+He should receive, with the “honey-mixture,” the king, the priest, the accomplished Student, the Teacher, the Son-in-law, the Father-in-law and the Maternal uncle,—coming again after a year.—(119)

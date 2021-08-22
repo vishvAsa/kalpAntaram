@@ -3,4 +3,4 @@ title = "183 अपाङ्क्त्योपहता पङ्क्ति
 
 +++
 
-He who would lasciviously make love to the wife of his dead brother, even though she may have been appointed according to law (to bear a child by him), should be known as the “didhiṣūpati.”—(173)
+Now listen to the full description of those chief of twice-born men, the sanctifiers of company, by which best of the twice-born a company defiled by men unworthy of company becomes purified.—(183)

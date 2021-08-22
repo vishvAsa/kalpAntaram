@@ -3,4 +3,4 @@ title = "151 जटिलञ् चाऽनधीयानम्"
 
 +++
 
-This convivial dinner has been called by twice-born people the “gift of devils.” It remains in this world alone, like the blind cow tied in a single room.—(141)
+One should not feed, at a Śrāddha, one with braided hair, who is not learned, one who is hairless, the gambler, and those who sacrifice for hosts.—(151)

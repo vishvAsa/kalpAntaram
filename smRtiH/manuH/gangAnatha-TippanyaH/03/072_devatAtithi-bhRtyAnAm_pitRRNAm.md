@@ -2,10 +2,17 @@
 title = "072 देवतातिथि-भृत्यानाम् पितॄणाम्"
 
 +++
-> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-> interpolations?\] “These are very probably a later addition. The
-> corresponding section in the Mahābhārata, 13.46 stops right here
-> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-> *Parāśaramādhava*.
+‘*Bhṛtya*’ stands for ‘aged parents and others’ (Medhātithi, Govindarāja
+and Kullūka),—or ‘born slaves and others too old to work for them
+living,’ also aged cattle &c., which is the alternative explanation,
+suggested by Medhātithi, and not only ‘animals unfit for work,’ as noted
+by Buhler. Nārāyaṇa, and Nandana read ‘*bhūtānām*’ and explain it as
+‘goblins or living beings.’
 
-(verse 3.61-62).—These verses are quoted in *Vivādaratnākara* (p. 421).
+This verse is quoted in *Viramītrodaya* (Āhnika, p. 392), which reads
+‘*bhūtānām*’ for ‘*pāñcānām*’;—and in *Aparārka* (p. 146), in support of
+the view that there is nothing wrong in doing the cooking for one’s own
+self along with the gods and *Pitṛs*; it is only when one cooks for
+himself alone that it is wrong.
+
+

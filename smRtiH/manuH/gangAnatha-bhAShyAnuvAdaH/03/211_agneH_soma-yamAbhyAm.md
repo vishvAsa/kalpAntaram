@@ -2,15 +2,23 @@
 title = "211 अग्नेः सोम-यमाभ्याम्"
 
 +++
-The rite in honour of the Pitṛs should not be looked upon as inferior to
-that in honour of the gods; in fact, the former is the more important of
-the two; because by birth, the Pitṛs are elder than the gods. For, the
-order of creation is that the Pitṛs were born from the sages, and the
-gods were born from the Pitṛs, and from the gods, the whole of the rest
-of the world—‘*moveable*’—animate—as well as ‘*immoveable*’—inanimate.
+It is now described what is to be done in the Fire.
 
-‘*In* *due order*’—the order having been already described under
-Discourse I.
+The Genitive in ‘*agneḥ*’ has the sense of the Dative;
 
-The entire series of purely laudatory descriptions has now come to an
-end.—(201)
+Agni is one deity, and Soma-Yama conjointly form one conjunct deity;
+just like Agni-Soma.
+
+Of these two deities, ‘*having brought about at first, the
+satisfaction*, *by the offering of sacrificial food, he should
+afterwards satisfy the Pitṛs*.’ That is, he should offer balls of food
+and feed the Brāhmaṇas.
+
+In the *Gṛhyasūtra*, other deities have been prescribed; so that the
+deities mentioned in the present text are for those who have no
+*Gṛhyasūtra* of their own.
+
+‘*Satisfaction*’ *stands* for *sustenance*. That gods are sustained by
+sacrificial food, is a laudatory exaggertion.—(211).
+
+

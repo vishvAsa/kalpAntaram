@@ -2,37 +2,25 @@
 title = "183 अपाङ्क्त्योपहता पङ्क्तिः"
 
 +++
-He who, acting in accordance with the law of ‘*Niyoga*,’ should happen
-to make love to—take delight in intercourse with—the wife of his dead
-brother;—‘*lasciviously*’—*i.e*., in transgression of the exact form of
-‘*Niyoga*,’—*i.e*., renouncing the injunction that ‘one should have
-intercourse with his brother’s wife only *once* during her periods,’—if
-he should have recourse, at will, to such advances as cousist in firm
-embrace, kissing, and so forth,—or if he should have intercourse with
-her more than once,—or even allow his mind to be inclined that
-way,—then, such a person, impressed with the mark of passion by such
-signs, as casting longing glances upon the woman, and so forth, is to be
-known as the ‘*didhiṣūpati*.’
+‘*By men unworthy of company*’—as described above—‘*defiled*’—rendered
+defective,—‘*company*’—assembly—by which *Brāhmaṇas* ‘*become
+purified*’—rendered free from defilement,—to those ‘*listen*’— as
+described in the coming verses;—‘*full*’—the description that is being
+given by me fully.
 
-The exact definition of the ‘*agredidhiṣūpati*’ is to be learnt from
-another *Smṛti*, which says—‘when the brother is alive, the man is to be
-known as the *agredidhiṣūpati*.’
+The remaining words are purely laudatory reiterations. What is meant is
+that the ‘sanctifier of company,’ by reason of the excellence of his
+qualities, removes the defects of other persons also by dining with
+them; just as the impure man, dining with others, makes even faultless
+men defective.
 
-Some people have held that the present verse does not form part of the
-text at all; and as a reason for this, they urge the fact of its being
-incomplete. It being necessary to provide definitions of both (the
-*didhiṣūpati* and the *agredidhiṣūpati*), it is not possible for authors
-who know their business to provide the definition of only one of them;
-specially, as another *Smṛti* has provided the definitions of
-both:—(*a*) ‘the wise men regard him as *didhiṣūpati*, who is the
-husband of a woman who has had a previous husband; and (*b*) that
-Brāhmaṇa is to be regarded as the *agredidhiṣūpati* of whom that woman
-was the wife;’—and
-
-these definitions are not applicable to the present context (which might
-have justified the omission by our author); as (the husband of a woman
-who has had a previous husband’ has been excluded already before (in
-verse 160). Hence the ‘*didhiṣūpati*’ must be different from the one
-defined as such in the passage just quoted (from another *Smṛti*).—(173)
+This verse does not sanction the feeding of men unworthy of company. All
+that it means is, that one should always seek for the ‘sanctifier of
+company;’ and that if one such person has been found, one might
+feed,—even though it he futile to do so,—those who have not been
+carefully examined to three degrees of ancestors, if they are not found
+to be marked by any perceptible disqualifications. It is with this end
+in view that the author provides the description of the ‘sanctifier of
+company.’—(183)
 
 

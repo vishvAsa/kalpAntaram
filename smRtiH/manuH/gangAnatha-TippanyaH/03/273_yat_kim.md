@@ -2,8 +2,15 @@
 title = "273 यत् किम्"
 
 +++
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759);—in *Aparārka*
-(p. 550);—in *Śrāddhakriyākaumudī* (p. 215):—and in *Gadādharapaddhati*
-(Kāla, p. 553).
+“The day meant is *Bhādrapada*, *Badi*, 13”—Buhler.
+
+This verse is quoted in *Smṛtitattva* (p. 117) without comment;—in
+*Aparārka* (p. 555), which adds that the Accusative ending in
+‘*trayodaśīm*’ has the force of the Locative;—in *Hemādri* (Śrāddha, p.
+201);—in *Śrāddhakriyākaumudī* (p. 272), which explains the meaning as
+‘whatever mixed with Honey is offered on the thirteenth of the month,
+under the asterism of *Maghā* becomes inexhaustible’;—in
+*Puruṣārthacintāmaṇi* (p. 385);—in *Varṣakriyākaumudī* (p. 356);—and in
+*Hemādri* (Kāla, p. 470 and Śrāddha, p. 87).
 
 

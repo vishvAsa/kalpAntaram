@@ -2,30 +2,38 @@
 title = "265 उच्छेषणन् तु"
 
 +++
-The *Śrāddha* should be performed in the afternoon.
+Until the Brāhmaṇas have departed, the food that may be contained in the
+dishes out of which they have eaten, or which may have fallen on the
+ground, shall not be removed.
 
-‘*These are the essentials* *of* *Śrāddha rites*,’—*i.e*., attempt
-should be made to bring about all these things.
+‘*After that, he should make the domestic offering*.’ The *Śrāddha* rite
+having been finished, he should offer the oblation to the Viśvedevas and
+attend to the daily routine of feeding the guests, &c. The term
+‘*offering*’ is merely indicative.
 
-Though the present text mentions the ‘afternoon’ without reference to
-any particular *Śrāddha*, yet it is not to be observed in connection
-with *all* Śrāddhas: for we have another Smṛti-text to the effect
-that—‘rites in honour of the gods shall he performed in the forenoon;
-that in honour of the Pitṛs in the afternoon; the Śrāddha offered to a
-single person shall be performed at mid-day, while that in connection
-with auspicious rites shall be performed in the morning.’
+Others offer the following explanation:—“The term ‘offering’ here stands
+for the offering made to the elementals; and in this way the pouring of
+libations into fire before the feeding of *Brāhmaṇas*, does not become
+improper. It will not be right to argue that—‘when the rite in honour of
+the Pitṛs has been begun, it cannot be right to thrust into it other
+rites;’—for, according to the rule by which the *Śrāddha* extends over
+two days, though the inviting of the Brāhmaṇas (which is part of the
+*Śrāddha*) is done on the preceding day, yet there is nothing wrong in
+the morning and evening libations being offered into fire; and the same
+may be the case with the *Vaiśvadeva* libation, which also is poured
+into the ‘Upasad’ fire. So that what are postponed (till after the
+completion of the *Śrāddha*) are only those details that come
+*after*—and not those that come *before*—the offering to the
+elementals.”
 
-‘*Dwelling*’—house; the ‘*setting* *up*’ ‘of this consists in the
-white-washing of the walls with lime etc., the smearing of the floor
-with cowdung; having its slope to wards the south.
-
-‘*Liberality*’—charity; *i.e*., unstinted giving away of food and
-vegetables.
-
-‘*Cleaning*’—washing; *i.e*., a particular maimer of preparing the food.
-
-Others have explained this verse to mean that these things constitute
-the ‘excellence’—the superiority—of the rites,—and not that they shall
-not be performed without these.—(255)
+Our reply to the above is as follows:—If the *Vaiśvadeva* oblation is
+offered into the fire beforehand, then the *ball-offering* would come
+after the *Śrāddha*; and in that case the ‘sacrifice to the gods’ and
+the ‘offering to the elementals’ would become separated; and this would
+militate against the prescribed order of sequence. Further, the time
+being taken up by the *Śrāddha* offered to the Pitṛs, this does not
+quite interfere with the time of the *Vaiśvadeva* oblation. From all
+this it follows that all the ‘Great Sacrifices’ should be performed
+after the *Śrāddha*.
 
 

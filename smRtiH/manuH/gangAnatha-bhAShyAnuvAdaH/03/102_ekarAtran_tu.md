@@ -2,28 +2,27 @@
 title = "102 एकरात्रन् तु"
 
 +++
-Having taken up some food in a vessel, he should place food on the
-ground, with a view to benefit the dogs and the rest.
+Inasmuch as the meaning of the term ‘*Atithi*’ (guest) is not well-known
+among men, the author provides a definition of the same.
 
-‘*Persons afflicted with filthy diseases*’—Lepers, consumptives, and so
-forth.
+One becomes a ‘guest’ by staying in another man’s house for one night;
+and this character belongs only to a Brāhmaṇa, to none else.
 
-‘*Vayāṃsi*’—birds.
+Whether the next day also the guest should be honoured or not, depends
+upon the wish of the Householder; it is not. obligatory. It being done
+by persons desiring prosperity, the incentive to it is something totally
+different (from that of the obligatory honouring during the first
+night). Says Apastamba (2.7.16)—‘One should lodge him for one night;’
+whereby he wins the regions of the earth; by keeping him on the second
+night, the regions of the sky; and on the third night, the regions of
+Heaven”—which shows that the incentive to the entertaining of the guest
+on the second and following nights consists in the desire for particular
+rewards.
 
-‘*Gently*’—*i.e*., in such, a way that the food does not become mixed
-with the dust raised from the ground.
-
-The ‘*ground*’ has been mentioned, not with a view to preclude the use
-of a vessel, but simply to indicate that food for the Cāṇḍāla, the
-outcast and the leper should not be given in their hands.
-
-What the present verse prescribes is the *according of help*; that is
-why the verse contains the Genitive, not the Dative, ending.
-
-For the birds, food should be placed on a spot where they can eat it
-without being scared away by dogs, &ç.
-
-For *insects*, the food should be placed on a spot where they are likely
-to be present.—(92)
+For the purpose of lending strength to the above explanation, the author
+provides the etymological meaning—‘*His stay is not long*; which means
+that the word ‘*atithi*’ is derived from the root ‘*sthā*’ (to stay),
+preceded by ‘*ati*;’ the term being formed somehow by the addition of an
+*Uṇādi* affix.—(102)
 
 

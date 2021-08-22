@@ -3,4 +3,4 @@ title = "168 यावतः संस्पृशेद्"
 
 +++
 
-The unlearned Brāhmaṇa becomes quenched in the same manner as the fire of dry grass. The sacrificial offering should not be presented to him; as no libation is poured upon ashes.—(168) 
+As many Brāhmaṇas the officiator at the sacrifices performed by Śūdras may happen to touch with his limbs,—the reward relating to charity in connection with the gift to so many Brāhmaṇas fails to accrue to the giver.—(178)

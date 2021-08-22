@@ -2,13 +2,14 @@
 title = "142 यथेरिणे बीजम्"
 
 +++
-One who is ‘*distinguished*’—who excels—‘*by knowledge*’—in learning; to
-such a one ‘*should be given*’ ‘*the offerings for gods and Pitṛs*.’
+‘*Barren soil*’—Unproductive ground. that plot of land is called
+‘barren’ on which if seed is sown, it does not sprout; there the ‘*sower
+reaps no harvest*.’
 
-The sense of the metaphor of the ‘*hand smeared with bloo*’ is as
-follows:—‘Hands smeared with blood when washed with blood only become
-all the more reddened, and they are not cleansed; similarly, the
-ignorant *Brāhmaṇa*, when, fed, only carries the ancestors to still
-worse hells,’—(132)
+‘*Even so*,’ ‘*to the person ignorant of die Veda*’—‘*having given the
+offerings* made to gods and ancestors,—‘*the giver obtains no reward*.’
+
+The term ‘*anṛce*’ is with the Locative ending; and the term ‘*ṛk*’
+stands for the *Veda* in general.—(142)
 
 

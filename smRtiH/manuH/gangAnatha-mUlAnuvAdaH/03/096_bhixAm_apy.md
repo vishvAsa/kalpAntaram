@@ -3,4 +3,4 @@ title = "096 भिक्षाम् अप्य्"
 
 +++
 
-To Kuhū, to Anumati, and to Prajāpati; then to Dyauḥ—Pṛthivī jointly, and finally to Sviṣṭakṛt,’—(86)
+In accordance with scriptural injunctions, one should make over to the Brāhmaṇa knowing the true meaning of the Veda even alms and a water-put, after having honoured him.—(90)

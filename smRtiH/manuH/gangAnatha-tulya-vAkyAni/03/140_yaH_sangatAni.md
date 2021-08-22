@@ -2,8 +2,8 @@
 title = "140 यः सङ्गतानि"
 
 +++
-*Viṣṇu-Smṛti* (72.2).—‘At the offering to Pitṛs one should examine the
-Brāhmaṇas with care.’
+**(verses 3.139-140)  
+**
 
-*Atri-saṃhitā* (357).—‘The Brāhmaṇa should be carefully examined,
-specially at the time of the Śrāddha.’
+See Comparative notes for [Verse
+3.139](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199919.html#comparative-notes "English translation of verse").

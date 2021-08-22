@@ -3,4 +3,4 @@ title = "267 तिलैर् व्रीहि-यवैर्"
 
 +++
 
-The food of hermits, milk, the soma-herb, meat that is not forbidden, salt other than alkaline. are, by nature, called “sacrificial food.”—(257)
+By the proper offering of sesamum, rice and barley, māṣa, water, roots and fruits, men’s ancestors are satisfied for one month.—(267)

@@ -2,26 +2,29 @@
 title = "086 कुह्वै चैवाऽनुमत्यै"
 
 +++
-‘*Into the fire being thrown*’—by the sacrificer.
+‘*To Dyauḥ-Pṛthivī jointly*’—with the formula ‘*dyāvā-pṛthivībhyām
+svāhā*.’
 
-‘*Oblation*’—cooked rice, cakes and such other things, when thrown into
-the fire, are called ‘oblation.’
+‘*Finally to Sviṣṭakṛt*’—‘*Sviṣṭakṛt*’ (accomplisher of what is
+extremely desirable) is an adjective, the deity qualified by it being
+Agni. That this is so is indicated by the assertion in another *Smṛti*
+to the effect that ‘this offering is to be made *to Agni-Sviṣṭakṛt*.’
+This offering to *Agni-Sviṣṭakṛt* has been prescribed in the Veda as to
+be made in the case of all *Homas*.
 
-‘*Reaches the sun*’—in an invisible form. The sun absorbs the essence of
-all things; hence the essence of the oblation is described as reaching
-the sun. This essence, evolving in the sun’s rays, becomes in time
-developed into rain. From that proceeds ‘*food*’—in the shape of *Vrīhi*
-and other grains. From that proceed ‘*creatures*,’—all living beings.
+‘*Finally*’— though this is already implied by the order in which the
+names have been mentioned, yet it has been reiterated (by means of the
+term ‘finally’) for the purpose of indicating that when, according to
+another *Smṛti*, a large number of oblations are offered conjointly
+under this head, that to ‘*Agni-Sviṣṭakṛt*’ should come first.
 
-Thus, by throwing an oblation into the fire, the sacrificer continues to
-help on the world-process.
+“All these oblations forming a single act of *Homa*, the several deities
+mentioned should be treated as optional alternatives.”
 
-What is stated here is only a commendatory supplement to the foregoing
-injunction, and it is not meant to be literally true. If it were
-literally true, then only one who desires rain would he entitled to the
-performation of the act referred to; but no such thing has been asserted
-anywhere. Nor is there any occasion for assuming such an assertion, when
-it is possible to take the verse as supplementary to the principal
-subject-matter of the context.—(76)
+But whence does- it follow that there is a single Homa? Verse 85, which
+speaks of oblations ‘to Agni and to Soma, etc.,’ is the originative
+Injunction of the Homas; and hence the *Homa* -offerings being severally
+qualified by the mention of several special deities, the Homas are
+clearly recognised as distinct.—(86)
 
 

@@ -2,8 +2,13 @@
 title = "245 असंस्कृत-प्रमीतानान् त्यागिनाम्"
 
 +++
-**(verses 3.234-235)  
-**
+*Viṣṇu* (81.22).—\[Reproduces Manu.\]
 
-See Comparative notes for [Verse
-3.234](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200024.html#comparative-notes "English translation of verse").
+*Vaśiṣṭha* (11.20).—‘For those persons of one’s family who may have died
+before the performance of their sacramental rites,—Manu has laid down
+the share in the form of the remnants and the scatterings.’
+
+*Laghu-Āśvalāyana* (23.90-91).—‘Having shaken the vessels, and
+pronouncing the syllable *svasti*, he shall throw on each of the spots
+sesamum and washed rice, and then scatter food also, for those of his
+Pitṛs who may have died without, sacraments.’

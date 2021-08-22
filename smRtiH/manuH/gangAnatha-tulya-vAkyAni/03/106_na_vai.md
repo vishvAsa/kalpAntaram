@@ -2,23 +2,17 @@
 title = "106 न वै"
 
 +++
-*Vaśiṣṭha* (11.12).—‘It is Vaiśvānara that enters the household as a
-Brāhmaṇa-guest; hence they offer him water and food; thereby attaining
-calm and peace extending over one year.’
+*Gautama* (5. 38, 39).—‘Honouring and feeding on fresh food; bedding,
+seat, lodging, attending and following; all this in the same way as in
+the case of elders.’
 
-*Yājñavalkya* (1.108).—‘Food should be given, with due honour, to the
-Recluse who is strict in his vows.’
+*Āpastamba-Dharmasūtra*.—‘He shall eat what remains after the feeding of
+guests; of the highly flavoured foods, he shall not eat any except what
+has been left by the guests;—he shall not have cooked for himself any
+specially good food.’
 
-*Āpastamba-Dharmasūtra* (2.9.8.).—‘All gifts are preceded by water.’
+*Yājñavalkya* (l.5.104).—‘One should not cook food for himself.’
 
-*Bṛhaspati* (Vīramitrodaya-Āhnika, p. 434).—‘By the offer of welcome to
-the guest, Agni is pleased; by the offer of food, Indra; by washing his
-feet, the Pitṛs; and by feeding him, Prajāpati.’
-
-*Śātātapa* (Do., p. 435).—‘The alms offered should be either *Bhikṣā*
-(*i.e*., enough for one meal), or *Puṣkala* (enough for four meals); or
-*Hantakāra* (enough for sixteen meals); if none of these is possible
-then only a pot of water.’
-
-*Gautama* (5.19).—‘If food is offered after having made the guest
-pronounce the syllable *svasti*,—it is excellent.’
+*Mārkaṇḍeya-purāṇa* (Vīramitrodaya-Āhnika, p. 451).—‘Meat, grains,
+vegetables,—these he shall not eat if they have not been offered to the
+guest.’

@@ -3,4 +3,4 @@ title = "266 हविर् यच्"
 
 +++
 
-Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial food, purity and also the afore-mentioned these should be regarded as the essentials of a sacrifice.—(256)
+I shall now fully describe what offering-material, on being offered to the Pitṛs, according to role, serves for a long time, and for eternity.—(266)

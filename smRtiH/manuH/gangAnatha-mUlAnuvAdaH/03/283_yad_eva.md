@@ -3,4 +3,4 @@ title = "283 यद् एव"
 
 +++
 
-Whatever thing, mixed with honey, one might offer on the thirteenth day of the month, during the rains, under the asterism of Maghā,—that also would be imperishable.—(273)
+When the best of Brāhmaṇas, having bathed, satisfies the Pitṛs with water,—by that alone he obtains the whole reward of the performance of the offering to the Pitṛs.—(283)

@@ -3,4 +3,4 @@ title = "240 होमे प्रदाने"
 
 +++
 
-Tears make the food go to ghosts, anger to enemies, lie to dogs, touching with the foot to demons, and shaking to sinners.—(230)
+At the offering into Fire, at gifts, at feeding, or at any rite in honour of the Gods or of the Pitṛs,—whatever is seen by these goes wrong.—(240)

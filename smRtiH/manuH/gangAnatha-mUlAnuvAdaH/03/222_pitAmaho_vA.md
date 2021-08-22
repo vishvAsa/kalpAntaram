@@ -3,4 +3,4 @@ title = "222 पितामहो वा"
 
 +++
 
-In the absence of Fire, he shall make the offering into the Brāhmaṇa’s hand; for it has been declared by the Brāhmaṇa seers of Vedic texts that what the Fire is, that same is the Brāhmaṇa.—(212).
+Manu has declared that either the grandfather may eat at that Śrāddha, or the man himself may, according to his will, perform it, after being permitted by him.—(222)

@@ -2,15 +2,25 @@
 title = "247 आ-सपिण्डक्रियाकर्म द्विजातेः"
 
 +++
-This verse is quoted in *Smṛtitattva* (p. 223), which adds that the
-control of speech itself being sufficient to the men describing the good
-qualities of the food, what is meant by the last clause ‘as long as the
-qualities of the food are not described’ is that these qualities should
-not be indicated even by gesticulation;—and it further points out that
-the rule regarding the food being ‘steaming’ is not meant to apply to
-such food as *parched rice* and others of the kind.
+This verse, as quoted by Medhātithi on p. 290, l. 1, reads
+‘*Asapiṇḍa*’.—But the same sense may be got out of the reading
+‘*Āsapiṇḍa*’.—See *Translation*.
 
-This verse is quoted in *Aparārka* (p. 497);—and in
-*Śrāddhakriyākaumudī* (p. 170).
+“The *Sapiṇḍīkaraṇa*, the solemn reception of a dead person among the
+partakers of oblations, is performed either on the thirteenth day, or a
+year after death,”—says Buhler. But the rite is performed on the
+*twelfth*, not the *thirteenth* day.
+
+Hopkins has misunderstood the signification of the *Sapiṇḍīkaraṇa* rite.
+He calls it ‘ceremony on making a Sapiṇḍa (relative) for him’ and adds
+that ‘it implies that the deceased died without any family to offer the
+Śrāddha for him.’
+
+As a matter of fact, this rite is performed for every one; and its
+meaning is as explained by Buhler (see above).
+
+The second half of this verse is quoted in *Smṛtitattva* (p. 802) in
+support of the view that the ‘Śrāddha’ and ‘offering of the Ball’ are
+two distinct acts.
 
 

@@ -2,35 +2,44 @@
 title = "140 यः सङ्गतानि"
 
 +++
-One is not to be fed simply because he is thoroughly versed in the Veda;
-in fact, he should be examined ‘*from far off*;’ *i.e*., one should
-carefully ascertain the purity of his father’s and mother’s families. It
-has been declared that persons should be regarded as real Brāhmaṇaa on
-both sides, only when it is found that everyone of their ancestors on
-the father’s and on the mother’s side up to ten degrees were
-accomplished in learning and austerities and their acts were virtuous;
-this is what constitutes ‘examination from far off;’ similarly, the
-man’s own learning and knowledge of practical details should be
-ascertained.
+‘*Friendships*’—friendly relations—he ‘*who make*’ ‘*by means of
+Śrāddhas*’ ‘*through folly*—*i.e*., being ignorant of what is contained
+in the scriptures,—*falls from heaven*,’—*i.e*., never reaches heaven;
+the root ‘fall’ being used in the sense of *want of connection* in
+general; the sense being ‘just as a man on reaching heaven and falling
+from there loses all connection with it, so this man also.’ What is
+meant is that the man does not obtain the reward for performing the
+*śrāddha*. in this sense alone can the passage have any connection with
+all that has gone in the present context.
 
-‘*Vedapāragaḥ*’—he who has gone to the end of the Veda; *i.e*., one does
-not become respected by reading the *Saṃhitā* only, or the *Brāhmaṇa*
-only. Because we find this term used here, we conclude that the term
-‘*śrotriya*’ is applied to one who may have learnt only a portion of the
-Veda.
+‘*Having the. śrāddha for his friend*;’—the *śrāddha* is spoken of as
+his friend, on account of its being the means of his acquiring a friend,
+it is in this sense that we have the Bahuvrīhi compound in
+‘*śrāddhamitra*.’
 
-‘*Such a one is the channel for offerings to gods and
-Pitṛs*;’—‘*channel*’ means *like a channel*. The ‘channel’ is that
-whereby people descend to the water; hence what is meant by the metaphor
-is the eulogium that ‘just as people seeking water get it only if they
-go to it by the right channel, similarly, the offerings reach the gods
-and ancestors only through the aforesaid *Brāhmaṇa*.’
+‘*The meanest of twice-born men*;’—the ‘twice-born men’ have been
+mentioned only by way of illustration; in reality, the *Śūdra* also
+should not feed friends at *śrādḍhas*.
 
-In connection with gifts and charities also the Brāhmaṇa is the ‘guest.’
-To the guest that arrives by himself, gifts are offered freely, and thus
-given, they bring about great results; and, in the same manner, to the
-said Brāhmaṇa the offerings to gods and ancestors should be given
-freely; and when thus given, they become conducive to great
-results.—(130)
+“The mere fact of the Śūdra being a *non-Brāhmaṇa* makes it impossible
+for him to feed a friend at *śrāddhas* (where only Brāhmaṇas are fed).”
+
+But who has laid down the rule that Brāhmaṇas cannot be the friends of
+Śūdras?
+
+“As a matter of fact, it is only persons of the same caste that are
+regarded as *friends*; so that there could be no friendship between
+persons, one of whom belongs to the higher and the other to the lower
+caste.”
+
+This also is not true; since Śvetaketu, the son of Aruṇi, is declared to
+have said—‘In the Pañcāla country, there is a *Kṣatriya* friend of
+mine.’
+
+Then again, it has already been explained that the term ‘friend’ in the
+present context has been used as connoting *relationship* in general.
+And Brāhmaṇas also come to have pecuniary relations with *Śūdras*; and
+to the *Pāraśavaśūdra* (the Śūdra born of a Brāhmaṇa father and a
+*Śūdra* mother), Brāhmaṇas hear even blood-relationships.—(140)
 
 

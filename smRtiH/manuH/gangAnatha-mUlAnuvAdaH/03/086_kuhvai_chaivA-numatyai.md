@@ -3,4 +3,4 @@ title = "086 कुह्वै चैवाऽनुमत्यै"
 
 +++
 
-An oblation duly thrown into the fire reaches the sun; from the sun proceeds rain from, rain food, and from food, the creatures.—(76)
+To Kuhū, to Anumati, and to Prajāpati; then to Dyauḥ—Pṛthivī jointly, and finally to Sviṣṭakṛt,’—(86)

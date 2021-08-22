@@ -2,12 +2,15 @@
 title = "237 यावद् उष्मा"
 
 +++
-This verse is quoted in *Smṛtitattva* (p. 229) without comment;—in
-*Gadādharapaddhati* (Kāla, p. 546);—in *Śrāddhakaumudī* (pp. 20 and
-158), which explains ‘*bhakṣyam*’ as standing for the *śaṣkulī*,
-butter-baked bread and such things,—and ‘*bhojyam*’ as for ‘milk-rice’
-and the like;—and in *Hemādri* (Śrāddha, p. 1368), which explains
-‘*bhakṣyam*’ as standing for *śaṣkulī*, sweet cakes and so forth, and
-‘*bhojyam*’ for *ghṛtapūra* and such preparations.
+This verse is quoted in *Smṛtitattva* (p. 223), which adds that the
+control of speech itself being sufficient to the men describing the good
+qualities of the food, what is meant by the last clause ‘as long as the
+qualities of the food are not described’ is that these qualities should
+not be indicated even by gesticulation;—and it further points out that
+the rule regarding the food being ‘steaming’ is not meant to apply to
+such food as *parched rice* and others of the kind.
+
+This verse is quoted in *Aparārka* (p. 497);—and in
+*Śrāddhakriyākaumudī* (p. 170).
 
 

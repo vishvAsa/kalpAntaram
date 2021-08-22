@@ -3,4 +3,4 @@ title = "154 यक्ष्मी च"
 
 +++
 
-One may entertain a friend at Śrāddhas, but never a foe, even though qualified. The offering eaten by the enemy becomes futile after death.—(144)
+The invalid, the cattle-tender, one who has superseded h is elder brother, he who neglects the Great Sacrifices, one who is inimical to Brāhmaṇas, he who has been superseded by his younger brother, and one who is member of a company.—(154)

@@ -2,8 +2,8 @@
 title = "130 दूराद् एव"
 
 +++
-**(verses 3.119-120)  
-**
+*Viṣṇu-Smṛti* (72.2).—‘At the offering to Pitṛs one should examine the
+Brāhmaṇas with care.’
 
-See Comparative notes for [Verse
-3.119](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199898.html#comparative-notes "English translation of verse").
+*Atri-saṃhitā* (357).—‘The Brāhmaṇa should be carefully examined,
+specially at the time of the Śrāddha.’

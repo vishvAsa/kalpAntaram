@@ -2,13 +2,18 @@
 title = "208 आसनेषूपकॢप्तेषु बर्हिष्मत्सु"
 
 +++
-The Havirbhujs are here spoken of as ‘Haviṣmats.’
+‘*Placed*’—*i.e*., prepared and duly arranged.
 
-‘*Kavi*’ is Bhrgu. They say that ‘Uśanas is called *Kāvya*, as also
-*Bhārgava*.’
+‘*Separately*’—with proper partition. He shall not provide for all a
+single seat, in the form of a long piece of cloth or wooden plank. They
+shall be seated in such a manner that they should not touch one another.
+It is in this sense that ‘*separately*’ has been added.
 
-‘Just as these gods are the sons of sages, so your Pitṛs also are
-god-like in their nature; hence you should not disregard them,’—\[such
-is the purport of these verses\].—(198)
+‘*With kuśa grass*’— with bundles of Kuśa spread over them.
+
+‘*Who have performed their ablutions*’—*i.e*., who have bathed and
+rinsed their mouth in the prescribed manner.
+
+‘*The said*’—those previously invited—‘*he should seat*.’—(208)
 
 

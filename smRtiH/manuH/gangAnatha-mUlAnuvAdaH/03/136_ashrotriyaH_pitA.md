@@ -3,4 +3,4 @@ title = "136 अश्रोत्रियः पिता"
 
 +++
 
-Respectful treatment, place and time, purity and the qualities of Brāhmaṇas,—a large company hampers these five; therefore one shall not seek a large company.—(126)
+If a father happen to be ignorant of the Veda, whose son is thoroughly versed in the Veda,—and if the son happen to be ignorant of the Veda and the father is t horoughly versed in the Veda;—(136)

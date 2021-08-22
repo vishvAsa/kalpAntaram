@@ -2,15 +2,26 @@
 title = "254 पित्र्ये स्वदितम्"
 
 +++
-The term ‘*varṇa*’ should be taken as standing for *kind*. Having
-‘*mixed up*’— brought together—the food along with all the various kinds
-of seasonings—‘*having wetted it with water*’—‘*he should throw it
-before the Brāhmaṇas who have eaten*’—*i.e*., become fully satisfied;
-after they have pronounced the words, ‘We are fully satisfied;’
-‘*scattering it*’—*i.e*., it should not be thrown at one place, but
-broken up and scattered;—‘*on the ground*’—not in any vessel; on the
-ground also, not on the bare ground, but on *Kuśa-grass*, as it is going
-to be laid down in the next verse. Śaṅkha says that the scattering
-should be done ‘either once or thrice.’—(244)
+Other persons also, happening to be present on the occasion, should
+offer words of encouragement; and the terms to be used are here
+mentioned.
+
+Another commentator explains as follows:—The permission to take food
+should be sought by means of these terms; hence these words have got to
+be uttered by the performer of the *Śrāddha*. But he should say,
+‘*Svadadhvam*,’ ‘please eat well,’ and not ‘*Svaditam*,’ ‘well eaten;’
+or, the reading may be ‘*Svadatu*’ (‘do eat please’).
+
+This explanation is based upon another *Smṛti* and upon custom; and,
+according to this, when the Brāhmaṇas have begun to eat, they should be
+enlivened by the performer of the *Śrāddha* with these words.
+
+‘*At the goṣṭha*’—*i.e*., when several cows are sitting at the same
+place;—the word to be pronounced is ‘*Suśṛtam*,’ ‘well-cooked.’
+
+The word ‘*Astu*,’ ‘may it be,’ is understood everywhere.
+
+At the rite in honour of the gods, the term used should be ‘*rucitam*’
+or ‘*rocitam*—(254)
 
 

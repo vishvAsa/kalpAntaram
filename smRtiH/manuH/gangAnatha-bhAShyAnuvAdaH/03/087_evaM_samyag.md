@@ -2,33 +2,29 @@
 title = "087 एवं सम्यग्"
 
 +++
-The present verse proceeds to indicate, in another way, the necessity of
-performing the Great Sacrifices.
+‘*Duly*’—*i.e*., with the mind bent upon the deity, and not wandering
+over anything else.
 
-All creatures subsist by desiring support from ‘*Air*’—*i.e*., from
-life-breath; no one can live without the life-breath; in fact, the act
-of ‘living’ consists in the bearing of the life-breath.
+Having offered in the Fire the oblation to these deities—he should place
+‘*in all directions*, *proceeding*,’ in due order, ‘*towards his
+right*;’ at first in the East, then in the South, and so forth, this
+being the ‘movement towards one’s right;’
 
-The term ‘*creatures*’ stands for all living beings.
+‘*To* *Indra, Antaka, Ap-pati and Indu*’—in each direction.
 
-The epithet ‘*all*’ has been added with a view to the fact that the
-subsistence of even gods and sages, who are endowed with superior
-powers, is dependent upon Air.
+Another writer remarks that ‘Indu’ has no share in the oblation (the
+offering being made to *Soma*). If this name is not to be used in making
+the offering, how could ‘Indu’ be spoken of (as he is in this verse) as
+a partaker of the oblation? And it has been explained that the ‘placing
+of the *bali*’ is nothing other than *Homa*.
 
-Similarly, the Householder is like Air for persons in all other states.
-Hence, what the Injunction means is that the Householder should act in
-such a manner that all others may derive their subsistence from him.
+As a matter of fact, no stress is meant to be laid upon the special form
+of the names used; as they have been used only in view of the exigencies
+of metre; so that, in actual usage, the names to be used should be those
+mentioned in other *Smṛtis*.
 
-Though the presence of the term ‘*other*’ would indicate that persons
-other than householders were meant, yet the text is not meant to exclude
-the householder from the said support, specially because the making of
-gifts to guests and others has been specially prescribed for the
-*Snātaka*. Hence the term ‘*other*’ is meant to indicate that the other
-states are on the same footing as the state of the Householder. Nor has
-it been declared anywhere that the Householder should not support
-himself, or should not take steps for the supporting of the members of
-his family \[and all this would excluded from his support if ‘other
-states’ stood for states other than that of the Householder.\]
+‘*Along with their followers*’—‘followers’ stands for servants,
+attendants; the formula used in such cases being ‘*Indrapuruṣebhyaḥ
+svāhā*,’ and so forth.—(87)
 
-The compound ‘*itarāśramāḥ*’ is to be expounded as a *Karmadhāraya*
-compound.—(77)
+

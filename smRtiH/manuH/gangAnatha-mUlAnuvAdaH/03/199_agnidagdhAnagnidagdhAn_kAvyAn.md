@@ -3,4 +3,4 @@ title = "199 अग्निदग्धानग्निदग्धान् 
 
 +++
 
-The Pitṛs attend upon those invited Brāhmaṇas; like the wind, they follow them and sit down when they are seated.—(189)
+‘The Anagnidagdhas, the Agnidagdhas, the Kāvyas, the Barhiṣads, the Agniṣvāttas, and the Saumyas,—these one should regard as the Pitṛs of Brāhmaṇas.—(199)

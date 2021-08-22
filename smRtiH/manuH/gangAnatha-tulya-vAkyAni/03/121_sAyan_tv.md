@@ -2,8 +2,9 @@
 title = "121 सायन् त्व्"
 
 +++
-**(verses 3.110-112)  
-**
+*Gobhila* (1. 4.19).—‘The Bali is to be offered by the woman in the
+evening, and by the man in the morning.’
 
-See Comparative notes for [Verse
-3.110](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199889.html#comparative-notes "English translation of verse").
+*Gautama* (Aparārka, p. 145).—‘The Vaiśvadeva-offering and the
+Bali-offering should be made both morning and evening, even though the
+man himself may not take any food.’

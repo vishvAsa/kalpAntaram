@@ -2,38 +2,39 @@
 title = "113 इतरान् अपि"
 
 +++
-One who fives in the same village is not a ‘guest,’ even though he may
-happen to come just at the time of the ‘Vaiśvadeva’ offerings.
+‘*Friend*’— Companion; they of whom the friend is the first. The term
+‘*and the rest*’ connotes *kind*, and includes relations, associates,
+class-fellows, and so forth;—all except the Teacher.
 
-‘*Companion*’—a fellow-student, other than one’s ‘friend;’ the rule
-regarding the entertaining of the latter will come later—‘the Vaiśya and
-the Śūdra and one’s friend, &c., &c.’ (Verse 110).
+‘*That may come out of affection*,’—The context pertaining to the
+*guest*, the term ‘*affection*,’ has been added with a view to preclude
+that character.
 
-It appears right to take the term ‘*sāṅgatika*’ as excluding the man who
-is in the habit of meeting all men on terms of equality, entertaining
-them with jokes ami stories,—oven though he be such as has never been
-met before.
+‘*He should feed them*.’
 
-For the Householder, when away from home, no one can be a ‘guest,’ even
-though he may fulfil all the conditions of one; one is to be regarded as
-such only when he ‘*arrives at one’s house*;’ *i.e*., to the place where
-one lives permanently, that which is called his ‘abode.’ But even when
-the man is away from home, if his wife and Fires happen to be there,
-then the Brāhmaṇa arriving will be his ‘guest,’ even though he himself
-may not be there. Hence the householder should provide for the
-entertaining of guests during his absence, in the same manner as he does
-for the maintenance of the Fires and the performance of the
-*Darśa-Pūrṇmāsa* and other periodical sacrifices.
+‘*Specially prepared*’—Having cooked the food with special care.
 
-The term ‘or’ implies that (*a*) when the man goes on a journey taking
-his wife and the fires with him, then, even during his stay in another
-village, if some one arrives, he should be treated as a ‘guest;”—(*b*)
-that the same is the case at his own house, during his absence, if his
-wife and Fires are there that hence, when one goes out with his wife,
-but leaves the Fires at home, the rule regarding the entertaining of
-guests does not apply.
+‘*To the best of his ability*;’—the term ‘ability’ is meant to be merely
+illustrative; the meaning is that the cooking and the seasoning should
+be in accordance with the man’s own ability, and also according to what
+each guest may deserve.
 
-The term ‘or’ is to be construed with ‘should regard’ not as between the
-‘wife’ and the ‘fires.’—(103)
+‘*Together with his wife*’—the time for the wife’s eating is the same as
+the husband’s; no time being laid down specifically for the wife; all
+that is said is that ‘the husband and Wife should eat the remnant’
+(verse 116). In the Mahābhārata, however, it is shown that the wife eats
+after the husband: In the course of conversation between Draupadī and
+Satyabhāmā, Draupadī, describing the duties of the wife, has said—‘after
+all my husbands have eaten, I eat what is left’. The eating of food left
+by the husband is among the wife’s duties. Hence, what is here laid down
+is not that the Friend and others should eat at the time that, the wife
+eats; nor does the phrase ‘*along with*’ mean that, they are to eat out
+of the same dish. All that is, meant is that they should not be fed
+alone; the housewife also should eat there. This might go against the
+rule that ‘the husband and wife should eat what is left,’ What is meant
+is that if some respectable person is to be waited for, or if the
+husband feels disinclined to eat, then the husband may not eat with the
+Friend, etc., and in his place his wife should eat; this will bear
+testimony to his friendly feelings towards the diners.—(113)
 
 

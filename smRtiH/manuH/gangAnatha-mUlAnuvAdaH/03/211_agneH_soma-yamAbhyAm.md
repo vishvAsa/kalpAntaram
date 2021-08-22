@@ -3,4 +3,4 @@ title = "211 अग्नेः सोम-यमाभ्याम्"
 
 +++
 
-From the sages were born the Pitṛs, Gods and Men; and from the gods the entire world, moveable and immoveable, in due order.—(201)
+Having at fir st brought about the satisfaction of Agni and Soma-Yama by the offering of sacrificial food, he should afterwards satisfy, according to rule, the Pitṛs.—(211).

@@ -3,4 +3,4 @@ title = "278 यथा चैवाऽपरः"
 
 +++
 
-For two months by fish-meat; for three months by the meat of deer; for four by that of sheep, and for five by that of birds.—(268)
+Just as, for purposes of śrāddha, the latter half of the month is preferable to the former half, so also, the afternoon is preferable to the forenoon.—(278)

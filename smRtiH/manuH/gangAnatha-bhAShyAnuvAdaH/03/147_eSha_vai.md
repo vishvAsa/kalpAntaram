@@ -2,38 +2,24 @@
 title = "147 एष वै"
 
 +++
-Having raised the question as to which is superior of the two—one whose
-father is illiterate, but he himself is ‘*thoroughly versed in the
-Veda*,’ *i.e*., who has read the Veda along with the subsidiary
-sciences,—and the other whose father is thoroughly versed in the Veda,
-but he himself is illiterate,—the author now sets forth the established
-conclusion.
+Beginning with verse 122, twenty-five verses have gone before; and the
+upshot of them all is as follows: (*a*) Śrāddhas should be performed on
+the moon-less day;—(*b*) the person fed should be learned in the Veda,
+highly educated, of right behaviour, belonging to a known family, the
+sou of a person learned in the Veda and not bearing any relationship to
+the person offering the *Śrāddha*. The rest of it all is only
+commendatory.
 
-‘*Of these two*’—between one who is himself learned in the Veda, but his
-father is illiterate, and one who is himself illiterate, but his father
-is learned in the Veda—one should know him to be ‘superior’—more
-praiseworthy—who is himself illiterate, but his father is learned in the
-Veda.
+‘*This*’—what has been just described,—is ‘*the the first*’— the
+primary—‘*course*’—procedure at *Śrāddhas*; *viz*., that, the food shall
+be presented to one who is not related to the performer.
 
-‘*The other...... for the sake of the veneration due to the Veda*’—He is
-to be honoured, not because he is a Brāhmaṇa, but because he has learnt
-the Vedic Mantras, which have to be honoured; and since the honouring of
-the Veda has not been prescribed in connection with *Śrāddhas*, such a
-person does not deserve to be fed at these.
+‘*This*’—what is going to be described—‘should be regarded as ‘*the
+secondary course*’—which is to be adopted only in the event of the
+primary course being not possible This course is called ‘*anukalpa*,’
+‘secondary course,’ by the ‘law of substitutes’ (propounded in
+*Mīmāṃsā-sūtra* 3.6.37 *et. seq*.).
 
-What the author does by means of these two verses, propounding us they
-do a question and its answer, is to indicate, through a laudatory
-description, that what entitles a man to eat at *Śrāddhas* is the fact
-of his father being learned in the Veda, and that of himself being
-learned in the Veda (the two combined). The mere fact of he himself
-being learned in the Veda, does not entitle him to *the eating, nor the
-fact of his father being learned in* the Veda, while he himself is
-illiterate.
+‘*Always adopted*’— this is purely commendatory.—(147)
 
-It is with reference to this that it has been said above (in 130) that
-‘one should examine the Brāhmaṇa from far off etc.;’ and the examination
-of ‘*learning*’ there mentioned refers to enquiries concerning the
-learning of both father and son; while those relating to *caste* and
-*qualif* *ications*, these have to be extended to higher ancestors also.
-And since it is this distinction that is sought to be brought out in
-this verse, it cannot be regarded as a needless repetition.—(137)
+

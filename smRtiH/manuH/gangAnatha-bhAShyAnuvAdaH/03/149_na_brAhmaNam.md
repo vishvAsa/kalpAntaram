@@ -2,31 +2,21 @@
 title = "149 न ब्राह्मणम्"
 
 +++
-This verse supplies the commendatory supplement to the foregoing
-prohibition.
+This verse is not meant to be prohibitive o? the examination of
+Brāhmaṇas (to be invited) at the rite performed in honour of the gods;
+what is meant by it is the permitting, at certain times, of the feeding,
+at rites in honour of gods, of such persons as are one-eyed, suffering
+from elephantiasis, and so forth.
 
-The term ‘*friend*’ is used here in the abstract sense; hence the
-meaning is ‘in which friendship enters as the prime consideration.’ And
-this includes both friend and foe.
+‘*At the rite in honour of the Pitṛs*’—*i,e*., when the time for
+*Śrāddha* has arrived, one should do the examination with great care;
+not so at the rite performed in honour of the gods. At the latter, one
+may sometimes even feed those going to be mentioned. Who are those that
+are permitted to be fed, we shall show later on.
 
-The term ‘*sacrifice’ stands* for (1) gifts given with reference to gods
-and (2) the feeding of Brāhmaṇas with a view to some transcendental
-result.
-
-‘*Pretya phalam nāsti*’ (‘after death there is no reward’)—
-
-“No construction is possible of this clause; since the nominative of the
-root ‘*pra + iṇ*’ (of the act of *dying* denoted by the word ‘*pretya*’)
-is the person performing the *śrāddha*, whereas of the verb ‘*na* +
-*asti*’ (‘is not’) the nominative is ‘*phala*,’ ‘reward’ \[and as a
-rule, the nominative of the participle ‘*pretya*’ and the finite verb
-‘*nāsti*’ should be one and the same\].”
-
-In answer to this, some people explain that the term ‘*pretya*’ is an
-independent word, an indeclinable noun, denoting *the other world* \[and
-is not a participle at all\]. Another explanation is that of the root
-*pra* + *in* also ‘reward’ is the nominative; the meaning of the
-participle in this case being ‘*even though arriving near*,’ ‘it does
-not come about,’—*i.e*., it fails to be enjoyed.—(139)
+According to others, however, this verse has been introduced for the
+purpose of enjoining the strict exclusion of those going to be
+mentioned; and not for that of permitting the feeding of those at the
+rites in honour of gods.—(149)
 
 

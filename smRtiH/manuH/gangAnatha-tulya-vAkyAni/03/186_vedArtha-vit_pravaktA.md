@@ -2,6 +2,8 @@
 title = "186 वेदार्थ-वित् प्रवक्ता"
 
 +++
-*Mahābhārafa* (13.137.17).—‘The one-eyed person defiles sixty; the
-eunuch, a hundred; the man suffering from leucoderma, as much as he sees
-_(;)—in the line of invitees seated in a line.’
+**(verses 3.184-186)  
+**
+
+See Comparative notes for [Verse
+3.184](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199966.html#comparative-notes "English translation of verse").

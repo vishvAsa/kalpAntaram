@@ -2,26 +2,20 @@
 title = "200 य एते"
 
 +++
-‘*Ketitaḥ*’ means *invited*.
+The ‘*Somapā*,’ and the rest, are the ‘*principal bodies of Pitṛs*.’ Of
+these there are endless sons and grandsons; and these latter also are
+Pitṛs.
 
-‘*Havye kavye*’—at the rite in honour of Gods, and at the rite in honour
-of the Pitṛs. Having accepted the invitation and promised to eat,—if
-‘*somehow he neglects it*,’—*i.e*., does not present himself at the time
-of eating, or, if he does not maintain continence,—then such a Brāhmaṇa
-‘*becomes a hog*.’
+The mention;of this indefinite number indicates that the offerings are
+not to be made in reference to the *Somapa* andothers; for, if the sons
+and grandsons of these were ‘Pitṛs’ then, as Pitṛs, these sons and
+grandsons also may have the offerings made in reference to them; and yet
+no names of these have been mentioned; whence it is clear that all this
+is merely laudatory description.
 
-‘*Somehow*’—*i.e*., either intentionally, or through lapse of memory.
+The singular number in ‘*putrapautrakam*’ is in accordance with Pāṇini
+2.4.10.
 
-‘*Duly*’—this has been added for the purpose of filling up the verse.
-
-Others have held that the ‘*neglect*’ here stands for *non-acceptance of
-the invitation*; according to what has been said in the
-*Śrāddhakalpa*—‘one should not fail to accept the invitation of a man
-free from all blame.’
-
-This, however, is not right; it is through desire to eat that men become
-prone to go to *śrāddhas*; and if a man happens to have no such desire,
-and hence refuses the invitation, what sin could there be in
-this?—(190.)
+‘*Endless*’—unlimited; the ‘*ka*’ having the reflexive sense.—(200)
 
 

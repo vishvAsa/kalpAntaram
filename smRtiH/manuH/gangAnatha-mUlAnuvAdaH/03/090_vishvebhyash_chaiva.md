@@ -3,4 +3,4 @@ title = "090 विश्वेभ्यश् चैव"
 
 +++
 
-Sages, Pitṛs, gods, elementals and guests have expectations from family-men; one who knows should fulfil (one’s duty) towards them.’—(80)
+The offering to the Viśvedevas he should throw into the sky; as also to the Elementals roaming in the day and to those roaming at night.—(90)

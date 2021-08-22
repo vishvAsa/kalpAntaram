@@ -2,26 +2,37 @@
 title = "173 भ्रातुर् मृतस्य"
 
 +++
-‘*Water-courses*’—the sources of water;—‘*he who diverts*’ these;
-*i.e*., having cut the embankments, takes the water to irrigate his
-field, &c.
+He who, acting in accordance with the law of ‘*Niyoga*,’ should happen
+to make love to—take delight in intercourse with—the wife of his dead
+brother;—‘*lasciviously*’—*i.e*., in transgression of the exact form of
+‘*Niyoga*,’—*i.e*., renouncing the injunction that ‘one should have
+intercourse with his brother’s wife only *once* during her periods,’—if
+he should have recourse, at will, to such advances as cousist in firm
+embrace, kissing, and so forth,—or if he should have intercourse with
+her more than once,—or even allow his mind to be inclined that
+way,—then, such a person, impressed with the mark of passion by such
+signs, as casting longing glances upon the woman, and so forth, is to be
+known as the ‘*didhiṣūpati*.’
 
-‘He who is addicted to obstructing them’—*i.e*, the water-courses.
+The exact definition of the ‘*agredidhiṣūpati*’ is to be learnt from
+another *Smṛti*, which says—‘when the brother is alive, the man is to be
+known as the *agredidhiṣūpati*.’
 
-‘*Obstructing*’ means *covering up*; hence the meaning is that^(‘)he who
-closes the source from which the water flows.’
+Some people have held that the present verse does not form part of the
+text at all; and as a reason for this, they urge the fact of its being
+incomplete. It being necessary to provide definitions of both (the
+*didhiṣūpati* and the *agredidhiṣūpati*), it is not possible for authors
+who know their business to provide the definition of only one of them;
+specially, as another *Smṛti* has provided the definitions of
+both:—(*a*) ‘the wise men regard him as *didhiṣūpati*, who is the
+husband of a woman who has had a previous husband; and (*b*) that
+Brāhmaṇa is to be regarded as the *agredidhiṣūpati* of whom that woman
+was the wife;’—and
 
-The person who advises regarding the position of houses;—one who lives
-by the science of architecture; *i.e*., the architect, the mason, and so
-forth. One who plans his own houses is not meant here.
-
-‘*Messenger*,’—the king’s servant; who is employed by him as a slave. He
-is one who is employed in business relating to peace and war.
-
-He who plants trees for payment. Planting them as a righteous act is not
-reprehensible; because such an act would not be ‘reprehensible
-practice;’ in fact, the planting of trees has been actually enjoined, as
-we learn from such assertions as^(‘)he who has planted ten mango-trees
-goes not to hell.’—(163)
+these definitions are not applicable to the present context (which might
+have justified the omission by our author); as (the husband of a woman
+who has had a previous husband’ has been excluded already before (in
+verse 160). Hence the ‘*didhiṣūpati*’ must be different from the one
+defined as such in the passage just quoted (from another *Smṛti*).—(173)
 
 

@@ -3,4 +3,4 @@ title = "260 एवन् निर्वपणम्"
 
 +++
 
-Having eaten at a Śrāddha, if one enters the bed of a woman on that day, his ancestors lie in her ordure for the whole of that month.—(250)
+Having made the offering thus, he should, after this, either make the cow or the Brāhmaṇa or the goat or the fire to eat the balls, or throw them into water.—(260)

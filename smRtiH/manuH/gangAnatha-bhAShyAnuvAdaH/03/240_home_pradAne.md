@@ -2,19 +2,24 @@
 title = "240 होमे प्रदाने"
 
 +++
-This verse is supplementary to what has gone before in the preceding
-verse.
+‘*At the offering into Fire*’—such as the *Agnihotra*, or the
+propitiatory offerings.
 
-The shedding of tears, when done, makes the Śrāddha-offering go—*i.e*.,
-sends it—to ‘*ghosts*’; and it does not become helpful to the Pitṛs. The
-term ‘*preta*,’ ‘ghost,’ here stands for a particular class of beings,
-of the same kind as *Piśācas*; and not. for persons recently dead and
-not yet joined to their ancestors.
+‘*At gifts*’—of such valuable things as the cow, gold and so forth—made
+for the purpose of attaining prosperity.
 
-‘*Demons*’—also should be understood in the same manner as ‘ghosts.’
+‘*Feeding*’—where Brāhmaṇas are fed for a religious purpose.
 
-‘*Enemies*’—well-known.
+‘*Rite in honour of the gods*’—such the as offering at the
+*Darśa-pūrṇamāsa* and other sacrifices.
 
-‘*Sinners*’—People addicted to sinful deeds.—(230)
+‘*Rite in honour of the Pitṛs*’—*i.e.*, *Śrāddha*.
+
+‘*Goes wrong*,’—that is, it brings about results contrary to what it was
+intended for.
+
+Though *Śrāddha* forms the subject-matter of the present context, yet,
+through syntactical connection, the present prohibition applies to other
+acts also, in the shape of the *offering into fire* and so forth.—(240)
 
 

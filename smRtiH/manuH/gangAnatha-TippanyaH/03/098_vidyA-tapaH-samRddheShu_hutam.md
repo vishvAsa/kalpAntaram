@@ -3,6 +3,6 @@ title = "098 विद्या-तपः-समृद्धेषु हुत�
 
 +++
 This verse is quoted without comment in *Vīramitrodaya* (Āhnika, p.
-402).
+434).
 
 

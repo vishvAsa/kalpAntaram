@@ -3,4 +3,4 @@ title = "091 पृष्ठवास्तुनि कुर्वीत"
 
 +++
 
-One should worship, according to law, the Sages by Vedic Study, the Gods by Homa-offerings, the Pitṛs by Śrāddha offerings, the Men by food and the Elementals by the offering of Bali.’—(81)
+These offerings one should make in the upper dwelling, for the purpose of acquiring all kinds of food. The entire remnant of the offerings he should offer towards the South, to the pitṛs.—(91)

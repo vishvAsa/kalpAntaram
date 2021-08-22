@@ -2,22 +2,17 @@
 title = "235 त्रीणि श्राद्धे"
 
 +++
-The food should be *fetched* and *served* with both hands, not with one
-hand, *serving* also being a kind of *fetching*; hence, the rule laid
-down in connection with the latter is applicable to the former also. In
-support of this, the present verse supplies a commendatory supplement.
+‘*Sacred*’—*i.e*., conducive to sanctity, bringing about excellence.
 
-That which is ‘*abandoned*’—not held—‘*by both hands*,’ such food, when
-brought up for serving,—the ‘*demons destroy*’
-‘*forcibly*,’—‘*wicked-minded*’—of malevolent nature;—‘*demons*’ *i.e*.,
-the enemies of gods.
+The first half of this verse is purely reiterative, and the latter half
+is injunctive.
 
-In ‘*ubhayoḥ*,’ ‘*both*,’ the Locative ending denotes location; and
-‘*abandoned*’ means *not held*. As a matter of fact, case-endings are
-used even when what is spoken of is the *negation* of what is denoted by
-the ending; *e.g*., we have such expressions as ‘he does *not come from
-the village*,’ ‘he does *not sit on the seat*,’ ‘he does *not fast for
-three dags*.’ \[Similarly, in the text though *negation of holding* is
-mentioned, yet we have the Locative ending denoting location\].—(225)
+‘*Cleanliness*’—avoidance of contact with unclean things; and if,
+through want of care, the man happens to become unclean, he should
+purify himself with clay, water, &c., in the manner prescribed in the
+scriptures.
+
+‘*Absence of haste*’—*i.e*., the feeding of Brāhmaṇas and doing the
+other acts with confidence and in a steady manner.—(235)
 
 

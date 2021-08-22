@@ -3,4 +3,4 @@ title = "271 संवत्सरन् तु"
 
 +++
 
-Some people do the ball-offering afterwards, others cause them to be eaten by birds, or throw them into fire or water.—(261)
+For one year by cow’s milk and milk-preparations; and by the meat of old goat there is satisfaction lasting for twelve years.—(271) 

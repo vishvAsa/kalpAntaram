@@ -2,9 +2,8 @@
 title = "237 यावद् उष्मा"
 
 +++
-‘*Hard food*’—parched grains and pastries; what is tough, distinct, and
-requires to be masticated, is called ‘*hard food*, *bhakṣya*.’
+This is a commendatory supplement to the foregoing Injunction,
 
-‘*Soft food*’—butter-pudding, &c.—(227)
+‘*Steaming*’—*i.e*., hot.—(237)
 
 

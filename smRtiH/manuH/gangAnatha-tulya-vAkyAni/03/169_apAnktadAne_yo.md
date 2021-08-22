@@ -2,8 +2,9 @@
 title = "169 अपाङ्क्तदाने यो"
 
 +++
-**(verses 3.150-166)  
+**(verses 3.169-170)  
 **
 
-See Comparative notes for [Verse
-3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").
+*Mahābhārata* (13.90, 11).—‘O Yudhiṣṭhira, that offering to the gods
+which is eaten by the twice-born men ‘unfit for company’ goes to the
+Rākṣasas; so say the teachers of the Veda.’

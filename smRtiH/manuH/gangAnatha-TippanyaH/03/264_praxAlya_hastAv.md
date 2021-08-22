@@ -2,16 +2,21 @@
 title = "264 प्रक्षाल्य हस्ताव्"
 
 +++
-‘*Vācyam*’—‘By the giver of the feast or any other person that happens
-to come’ (Medhātithi and Govindarāja);—‘by the giver of the feast’
-(Kullūka).
+There is nothing in Medhātithi to show that he reads ‘*pūjayet*’ for
+‘*bhojayet*’, as stated by Buhler.
 
-‘*Goṣṭhe*’—‘In the cow-pen’ (Medhātithi);—‘at the *Goṣṭhīśrāddha*’
-(Kullūka and Rāghavānanda);—‘at a feast given to Brāhmaṇas for the
-purpose of bringing some benefit to the cows’ (Nārāyaṇa).
-
-This verse is quoted in *Śrāddhakriyākaumudī* (p. 177) as prescribing
-the form of ṭhe question to be addressed to the invited at a Śrāddha,
-after they have been fed.
+This verse is quoted in *Aparārka* (p. 512), which explains ‘*Jñāti*’ as
+‘relations on the father’s side’, and ‘*bāndhava*’ as ‘relations on the
+mother’s side’;—and in *Hemādri* (Śrāddha, p. 1515), which has the
+following notes:—‘*Jñāti*’ are relations on the father’s side, *i.e*.,
+Sapiṇḍas;—the remnant of the food cooked for the *Śrāddha* should be
+made to reach those; *i.e*., they should be fed with it with due
+respect; after which one should honour the ‘*Bāndhavas*,’ *i.e*.,
+relations on the mother’s and the wife’s side; if, however, on being
+asked ‘what shall be done with the remnant?’—the Brāhmaṇas should say
+‘give it to us’—then other food should be cooked for the relations; and
+these are to be fed with the remnant, only if so permitted by the
+Brāhmaṇas. It may be regarded as incumbent on the Brāhmaṇas to give this
+permission.
 
 

@@ -2,16 +2,15 @@
 title = "221 पिता यस्य"
 
 +++
-This verse is quoted in *Hemādri* (Śrāddha, p. 1353), which adds the
-following notes:—The meaning is that ‘after having made offerings to (1)
-Agni, (2) Soma and (3) Yama, one should satisfy the Fathers who are
-present in the person of the invited Brāhmaṇas’;—according to the
-explanation given by Medhātithi and Harihara, we have only two deities
-here—(1) Agni and (2) the joint deity Soma-Yama; and the genitive ending
-in ‘*agneḥ*’ has the sense of the Dative, and this conjoint deity is to
-be accepted only by those in whose *Gṛhya* such a joint deity is
-mentioned. Our view is that the two, Soma and Yama, are to be treated
-separately, not jointly, as is clear from the reading
-‘*agnisomayamānāñca*’ adopted by some *Nibandhas*.
+This verse is quoted in *Madanapārijāta* (p. 542), which, in explaining
+the phrase ‘*pituḥ svanāma saṅkīrtya*,’ says that in offering the
+Ball—to his own great-grandfather, *e.g*., he should refer to him as
+‘the grandfather of my father, so aṇd so’;—also in *Nirṇayasindhu* (p.
+362) in support of the view that if the grandfather be living, the
+offerings; should be made to the Father, the great-grandfather and the
+great-great-grandfather;—and in *Śrāddhakriyākaumudī* (p. 553), which
+notes that ‘*nāmakīrtaṇa*,’ ‘mentioning of the name’ stands for
+‘offering the Śrāddha’ and ‘*prapitāmaha*,’ ‘great-grandfather’ means
+the ‘great-great-grandfather’ also.
 
 

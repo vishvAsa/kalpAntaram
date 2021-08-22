@@ -2,24 +2,19 @@
 title = "228 उपनीय तु"
 
 +++
-Water should be poured again near the balls, out of the same vessel from
-which it had been poured upon the kuśa-blades, before the offering or
-the balls.
+‘*Having brought* *up*’—having presented before the Brāhmaṇas,—‘*he
+shall serve it*’—which means the placing of it in the dish in which the
+person eats. Though all that is meant by ‘serving’ is the placing of the
+food within reach of the diner,—yet this placing should be done in such
+a way that among the several persons dining, the articles of food shall
+not flow from one man’s dish into another’s.
 
-‘*Remaining*’;—this is meant to show that, the net mentioned is to be
-regarded as the ‘disposal of remnants;’ it is only in this sense that
-the term ‘*remaining*’ becomes justifiable. From this it follows that,
-in the event of there being no ‘remnant,’ there shall be no ‘pouring.’
-But in the *Gṛhyasūtra*, it has been declared that this ‘pouring of
-water’ is obligatory.
+‘*Qualities*,’—*i.e*., those qualities of the Hard and Soft food, which
+consist of acidity, etc.,—these he should describe, saying—‘this is
+acid—this is sweet,—this is a pastry’ and so forth. When they have been
+thus apprised, ‘he should give them whatever they relish most’—this has
+to be construed from what follows later on (in verse 231).
 
-‘*He should smell these balls*;’—‘*smelling*,’ consists of *eeling the
-odour*; but in the *Gṛhyasūtra* it is said that ‘he should *eat* it with
-his breath.’
-
-‘*in the order in which they were offered*,’—the order in which they
-were offered being, *first* to the father, *second* to the grandfather,
-and *third* to the great-grandfather;—‘*with collected mind*’—this is
-for filling up the metre.—(218.)
+‘*Gently*’—this is a reiteration for filling up the metre.—(228)
 
 

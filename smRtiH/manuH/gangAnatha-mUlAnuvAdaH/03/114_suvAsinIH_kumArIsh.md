@@ -3,4 +3,4 @@ title = "114 सुवासिनीः कुमारीश्"
 
 +++
 
-Those foolish householders who wait upon the food cooked by others, become, after death, on that account, cattle belonging to the givers of food.—(104).
+Newly married girls, maidens, sick persons and pregnant women,—these he should, without hesitation, feed immediately after the guests.—(114) 

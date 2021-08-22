@@ -3,4 +3,4 @@ title = "111 यदि त्व्"
 
 +++
 
-Grasses, place, water and kind word as the fourth,—even these never fail in the house of good people.—(101)
+If a Kṣatriya should happen to come to one’s house in the character of a guest, one may feed him also, after the Brāhmaṇas have eaten.—(111)

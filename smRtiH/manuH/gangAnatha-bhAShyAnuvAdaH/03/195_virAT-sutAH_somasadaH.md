@@ -2,46 +2,31 @@
 title = "195 विराट्-सुताः सोमसदः"
 
 +++
-‘*Triṇāciketa*’ is the name of a portion of the Yajurveda, beginning
-with the words ‘*pītodakā jagdhatṛṇā*; and the man is called
-‘*triṇāciketa*’ by the circumstance of his having learnt that portion.
-Others, however, explain that there are certain observances prescribed
-for those who are learning the *Tṛṇāciketa* Mantras; and the person who
-has kept these observances is called ‘*Triṇāciketa*.’ Here also the term
-is applied to the man only figuratively.
+All these verses are laudatory descriptions relating to *Śrāddhas*; as
+they are all construable together. The ‘Pitṛs of the Sādhyas’ have not
+been laid down as the recipients of *Śrāddhas*; specially because they
+are gods, and also because the *Sādhyas* also, who are themselves gods,
+are not entitled to the performance of *Śrāddhas*; for the simple reason
+that they are not such as. can be directed to do an act. Gods cannot be
+directed to do an act; for, if they were, this would deprive them of
+their god-like character. If gods were entitled to the performance of an
+act, they would be regarded as the ‘ *doer*;’ and the ‘doer’ or ‘agent’
+could never be the ‘recipient;’ while, in reality, the very nature of
+the gods consists in their being ‘recipients’ (of sacrifices).
 
-It should not be thought that merely this (fact of having learnt a
-certain portion of the Veda) makes one a ‘Sanctifier of Company;’ what
-is meant is, that when the other qualifications of being learned in the
-Veda and the like are present, the circumstance here mentioned forms an
-additional qualification as indicating the character of being a
-‘Sanctifier of Company.’
+The sous of Virāj are the *Somasads*; and these are the ‘Pitṛs of the
+Sādhyas.’
 
-‘*Five fires*,’ ‘*Pañcāgnividyā*,’ is the name of a certain teaching
-occurring in the *Chāndogya Upaniṣad* (5.10.9), the reward whereof has
-been described in the words ‘*stenohiraṇyasya*, etc.’ The man is also so
-called by the circumstance of his having learnt the said teaching, as in
-the case of the previous word.
+\[The sense of all this laudatory description is as follows\]—This rite
+in honour of the Pitṛs must always be performed; since, even the
+*Sādhyas*, who are *gods*, and as such, have accomplished all that they
+had to do, worship their Pitṛs.
 
-Others have explained the term ‘*Pañcāgni*’ as ‘one maintains the five
-fires,’—*i.e*., the three sacrificial fires, the social fire and the
-domestic fire. Of these, the ‘social fire’ is that which is lighted in
-many countries with large quantities of fuel, for the purpose of
-relieving cold.
+The *Agniṣvāttas*, who are the Pitṛs of Agni and other Gods, relish the
+cake and milk and rice cooked on fire.
 
-‘*Trisuparṇa*’ is the name of a *mantra* occurring in the *Taittirīya
-Veda*, and also in the *Ṛgveda*, beginning with the words ‘*ye brāhmaṇās
-trisuparṇam paṭhanti*; etc.’
+‘*Mārīcāḥ*’—sons of Marīci.
 
-The ‘*six-limbed science*’ is the Veda; one who has learnt this.
-
-One who is born of a woman who has been married in the “Brāhma”
-form,—*i.e*., who has been given to a bridegroom brought home by
-invitation.
-
-‘*One who sings the Jyeṣṭha Sāmas*;’—The ‘*Jyeṣṭhadohas*’ are
-*Sāman-mantras* found in the *Āraṇyaka*; one who sings these is called
-‘*Jyeṣṭhasāmaga*.’ Here also the man is so called by reason of his
-singing the *Sāman* and keeping the observances in relation to it.—(185)
+‘*Lokaviśrutāḥ*’—famed in the world.—(195)
 
 

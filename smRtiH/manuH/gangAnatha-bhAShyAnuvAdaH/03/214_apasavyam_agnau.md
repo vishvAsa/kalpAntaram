@@ -2,26 +2,38 @@
 title = "214 अपसव्यम् अग्नौ"
 
 +++
-‘*Ārakṣa*’ is the same as ‘*rakṣā*;’ and that which has reached that is
-called ‘*ārakṣabhūtam*;’ *i.e*., that which serves the purpose of
-protecting.
+What is done in fire, in the form of pouring the libation, with the
+words, ‘*agnaye svadhā namaḥ*’ (‘this is an offering for Agni,’) should
+be done in the ‘*apasavya*’ form.
 
-Or, the term ‘*bhūtam*’ may be taken as connoting *similitude*; in which
-case, the meaning is—‘which is, as it were, a protection.’
+Some people explain the term ‘*apasavya*’ to mean that the act should be
+done with the right hand, not with the left, nor by both; in view of the
+prohibition contained in verse 225 below. This, according to these
+people, has been added, in view of it being thought possible to do the
+act with both hands.
 
-Because it is so, therefore ‘*one should first engage*’—invite—‘*the
-Brāhmaṇa in honour of the gods*’— and make him sit upon a proper seat.
+This, however, is not right. Because the ‘*apasavya form*’ here enjoined
+is in reference to the ‘serial performance’ of those libations that are
+poured into Fire; hence, what is meant is that the libations should be
+poured in such a manner that they tend *towards the South, not towards
+the North*;—this latter being what is right in the case of offerings to
+the gods. That is to say, when the sacrificial material is being poured
+with the ladle, one should be facing the South, and not the North—this
+rule standing on the same footing as that which prescribes the pouring
+of water-libations to the Pitṛs in such a manner that it flows between
+the thumb and the index-finger.
 
-The rest of the verse is a purely laudatory description.
+The epithet ‘*entire*’ indicates that all such acts as the placing of
+the material in the dish, and so forth, should be done in the
+‘*apasavya*’ form.
 
-‘*Rākṣasas*;’—certain invisible beings, described in *Itihāsas*—‘*take
-away*’—the Śrāddha—from the Pitṛs.
+‘*He should offer water with the hand in the apasavya position*,’
 
-“Who are the gods, in honour of whom the Brāhmaṇa is to be invited?”
+‘*Śanaiḥ*’ (for ‘*bhuvi*’) is another reading.
 
-In the *Gṛhyasūtra*, we find the *mantra*—‘We invite the Viśvedevas,
-&c.’—as the one to be used; from which it follows that the *Viśvedevas*
-are the gods. In the *Purāṇas* also it is said—‘The *Śruti* says that it
-is *Viśvedevas*.’—(204)
+The purpose of this rule is that it has been emphasised with a view to
+preclude the use of silver implements (according to 202).
+
+‘*Āvṛt*’ stands for ‘*Āvṛtti*,’ ‘repetition.’—(214)
 
 

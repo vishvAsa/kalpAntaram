@@ -2,24 +2,26 @@
 title = "217 आचम्योदक्परावृत्य त्रिर्"
 
 +++
-‘*Avakāśa*,’ is *place, spot*.
+Having placed the balls on the kuśa-grass, he should turn towards the
+North, leftwards; since we read in another *Smṛti*—‘turning to the left,
+towards the north.’
 
-‘*Cokṣa*’—naturally clean and tending to mental calm; such as forests,
-etc.
+Seated with his face towards the North, he should sip water. ‘*Having
+sipped water*’— he should perform ‘breath-suppression’ three times;
+*e.g*., simply supressing the breath three times—only this much;—the
+rule relating to the repeating of the *Gāyatrī* verse along with the
+‘*Śiras*’ formula (Yājña. *Ācāra* 23) not applying to the present case.
 
-‘*Water-banks*’— sand-banks, near rivers.
+‘*Gently*’—so that there may not he much pain. This is what has been
+asserted (elsewhere) in the words—‘having suppressed the breathing as
+much as one can.’
 
-‘*Secluded places*’—uncrowded sacred places.
+Still facing the North, he should salute, &c., &c.—saying, ‘Salutation
+to the spring!’ and so forth.
 
-This verse contains a totally different injunction. Hence, in the case
-of such places, the rule regarding *smearing with cowdung* does not
-apply; because the rule (in the preceding verse) distinctly says that
-‘one should make it so;’ which means that the rule applies to a place
-where *cleanness* has to be brought about. In regard to places that are
-naturally clean, their fitness is secured by ‘being examined and
-sprinkled with water.’
-
-By the Śrāddha ‘*offered*’— performed—in such places, the Pitṛs become
-greatly pleased.—(207)
+He should also salute the Pitṛs; ‘*with proper formulas* with the
+*mantra*, ‘*Na* *mo vaḥ pitaraḥ*, &c., &c.’ This saluting of the Pitṛs
+should be done with face turned towards the Balls; for another *Smṛti*
+says that this is to be done by ‘turning round.’—(217).
 
 

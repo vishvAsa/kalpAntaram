@@ -2,32 +2,38 @@
 title = "137 ज्यायांसम् अनयोर्"
 
 +++
-‘Rites performed for the gods’ are not regarded as conferring any
-benefit on the gods; such, however, is not the case with this rite which
-is named ‘*Pitrya*.’ “What then?” It is ‘*known*,’ among people learned
-in the Vedas as ‘*beneficial to the dead*’—as conferring a benefit on
-the dead.
+Having raised the question as to which is superior of the two—one whose
+father is illiterate, but he himself is ‘*thoroughly versed in the
+Veda*,’ *i.e*., who has read the Veda along with the subsidiary
+sciences,—and the other whose father is thoroughly versed in the Veda,
+but he himself is illiterate,—the author now sets forth the established
+conclusion.
 
-‘*On the moonless night*’—on the day on which there is no moon; *i.e*.,
-the *amārasyā* day. Another residing is ‘*vidhikṣaye*.’ But the most
-faultless reading is ‘*vidhuhṣaye*.’ The meaning of the former would be
-that the rile named *Pitryā* is one that has been prescribed as to be
-done in the house.
+‘*Of these two*’—between one who is himself learned in the Veda, but his
+father is illiterate, and one who is himself illiterate, but his father
+is learned in the Veda—one should know him to be ‘superior’—more
+praiseworthy—who is himself illiterate, but his father is learned in the
+Veda.
 
-‘*Upon this*’—upon this rite,—‘*he who is intent*’—he who is busy with
-its performance. To him there ‘*always accrues*,’ ‘*benefit after
-death*;’ *i.e*., for him also benefit after death is conferred by his
-sons performing the *śrāddha* and other rites for him.
+‘*The other...... for the sake of the veneration due to the Veda*’—He is
+to be honoured, not because he is a Brāhmaṇa, but because he has learnt
+the Vedic Mantras, which have to be honoured; and since the honouring of
+the Veda has not been prescribed in connection with *Śrāddhas*, such a
+person does not deserve to be fed at these.
 
-What this means is that the continuity of the lines of one’s
-descendants—sons and grandsons—is the reward of performing *śrāddhas*.
-But this reward is not the incentive to its performance; as the rite has
-already been described as an obligatory one.
+What the author does by means of these two verses, propounding us they
+do a question and its answer, is to indicate, through a laudatory
+description, that what entitles a man to eat at *Śrāddhas* is the fact
+of his father being learned in the Veda, and that of himself being
+learned in the Veda (the two combined). The mere fact of he himself
+being learned in the Veda, does not entitle him to *the eating, nor the
+fact of his father being learned in* the Veda, while he himself is
+illiterate.
 
-Others, however, have regarded this as indicating another incentive, for
-one desiring continuity of his line.
-
-‘*Offered according to human ordinances*’:—*i.e*., this rite is
-performed according to rules laid down in the *Smṛtis*.—(127)
-
-
+It is with reference to this that it has been said above (in 130) that
+‘one should examine the Brāhmaṇa from far off etc.;’ and the examination
+of ‘*learning*’ there mentioned refers to enquiries concerning the
+learning of both father and son; while those relating to *caste* and
+*qualif* *ications*, these have to be extended to higher ancestors also.
+And since it is this distinction that is sought to be brought out in
+this verse, it cannot be regarded as a needless repetition.—(137)

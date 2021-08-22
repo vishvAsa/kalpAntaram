@@ -3,4 +3,4 @@ title = "125 द्वौ दैवे"
 
 +++
 
-The foolish man, who eats before giving food to these, does not understand, that, in thus eating, he is himself devoured by dogs and vultures.—(115) 
+Even though wealthy, one should feed two at the rite performed in honour of the gods, and three at that in honour of the Pitṛs; or one only at each of the two rites he should not indulge in large company.—(125)

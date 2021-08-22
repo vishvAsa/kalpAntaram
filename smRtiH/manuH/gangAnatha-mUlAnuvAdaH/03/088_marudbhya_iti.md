@@ -2,6 +2,5 @@
 title = "088 मरुद्भ्य इति"
 
 +++
-Because men in all the three states are sustained by householders only, with knowledge and food, therefore the householder’s is the highest state.—(78)
 
-samo bhūteṣu hiṃsānugrahayoḥ | anārambhī |
+Saying “this to the Maruts,” he should make an offering at the door; also one in water, saying, “this to the Apas;” and he should hake an offering on the pestle and mortar, saying, “this to the Vanaspatis.”—(88)

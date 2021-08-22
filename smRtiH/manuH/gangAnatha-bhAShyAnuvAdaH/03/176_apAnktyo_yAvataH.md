@@ -2,20 +2,19 @@
 title = "176 अपाङ्क्त्यो यावतः"
 
 +++
-‘*Urabhra*’ is *sheep*; one who ‘deals’ in these,—*i.e*., carries on the
-business of buying and selling them; it may also mean ‘one whose chief
-wealth consists in sheep.’
+‘*Pāṅktya*’ are those that deserve the *paṅkti, line*. One is called
+‘*pāṅktya*’ when one is deserving of sitting on the same seat as, and
+eating in the company of, good men. He who is not so deserving, is
+‘*a-pāṅktya*.’
 
-Similarly, the ‘*buffalo-keeper*.’
+As many worthy people—learned men, ascetics and persons learned in the
+Veda—the unworthy man happens to look upon while the former are
+eating,—the reward of feeding so many men,—in the shape of the
+satisfaction of his ancestors—fails to be accomplished.
 
-‘He who has had another man for her former husband;’—the husband of such
-a one; *i.e*., one who marries again the woman who has been previously
-given to—or married by—another man; he who ‘again’ (*punaḥ*) ‘*becomes*’
-(*bhavati*) the husband; such a husband is called ‘*paunarbhava*’ by the
-scriptures.
+For this reason, when one is performing *śrāddhas*, one should send away
+from that place all thieves and others.
 
-He who carries the dead—*i.e*., carries the dead bodies.
-
-These ‘*should be avoided with care*’— (166).
+‘*Foolish*’—ignorant.—(176)
 
 

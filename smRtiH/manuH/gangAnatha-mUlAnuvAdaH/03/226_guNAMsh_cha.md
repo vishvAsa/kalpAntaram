@@ -3,4 +3,4 @@ title = "226 गुणांश् च"
 
 +++
 
-Self-controlled, he should, after having offered those balls on Kuśa-blades, according to rule, wipe that hand on those same (Kuśa-blades), for the sake of the “Partakers of Smearings.”—(216)
+Pure and with collected mind, he shall first place on the ground the accessories, such as soups and vegetaui.es, &c., milk, curd, butter and honey.—(226)

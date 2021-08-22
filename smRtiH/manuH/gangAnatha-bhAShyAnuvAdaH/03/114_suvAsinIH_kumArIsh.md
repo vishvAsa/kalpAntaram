@@ -2,18 +2,18 @@
 title = "114 सुवासिनीः कुमारीश्"
 
 +++
-‘*Waiting upon*’ means attending repeatedly. Some Brāhmaṇas wander from
-house to house with a view to the fact that at such and such a house the
-guest is sure to be fed; and it is this that is deprecated in the
-present verse.
+The term ‘*Suvāsinī*’ stands for newly married girls, daughters as well
+as daughters-in-law. Others have held that ‘girls whose father-in-law
+and father are both living are called *Suvāsinī*, even after they have
+given birth to children.’
 
-One who is in the habit of waiting upon the food cooked for others,—rand
-not one who happens to do it only once by the way,—‘*on that
-account*’—by reason of that act—‘*after death, cattle*’—are born as a
-bull, &c., in the house of the ‘*givers of food*;’ *i.e*., are born as
-his elephant, mule or horse.
+‘*These......immediately after the guests*’—in continuation of them—‘*he
+should feed*.’ That is, as soon as the guests have commenced eating,
+they should be fed at the same time.
 
-This is a defect only in the Householder, who has established his own
-domestic hearth.—(104)
+Others read ‘*agre*’ ‘*before*’ (the guests).
+
+‘*Without hesitation*’—*i.e*., he should not entertain any doubt as to
+the propriety of feeding youngsters before the guests have eaten.—(114)
 
 

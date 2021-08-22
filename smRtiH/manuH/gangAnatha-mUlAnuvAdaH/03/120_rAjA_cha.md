@@ -3,4 +3,4 @@ title = "120 राजा च"
 
 +++
 
-In a Brāhmaṇa’s house, the Kṣatriya is not called a ‘guest;’ nor the Vaiśya or the Śūdra, nor his friends or relations, or his Teacher.—(110)
+The king and the Learned Man should be honoured with the Honey-mixture, at the approach of a sacrificial performance,—not if there is no sacrifice (going to be performed).—(120)

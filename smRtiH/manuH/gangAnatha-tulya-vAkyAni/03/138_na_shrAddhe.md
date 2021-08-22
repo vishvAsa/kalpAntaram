@@ -2,26 +2,26 @@
 title = "138 न श्राद्धे"
 
 +++
-*Vaśiṣṭha* (3.9).—‘Offerings made to Gods and Pitṛs should be presented
-to the Vedic scholars; that which is presented to one ignorant of the
-Veda reaches neither the Pitṛs nor the Gods.’
+*Gautama* (15).—‘He should not behave towards him as towards a friend.’
 
-*Āśvalāyana-Gṛhyasūtra* (4.2).—(See under 125.)
+*Āpastamba-Dharmasūtra* (17.4).—‘He shall feed such Brāhmaṇas... as are
+not related to him either through otra or through marriage or through
+Vedic learning or through discipleship.’
 
-*Gautama* (15.9).—‘Vedic scholars, endowed with eloquence, beauty, age
-and character.’
+*Baudhāyana* (2.8.6).—‘Such as are not related to him through the Veda.’
 
-*Prajāpati-Smṛti* (70, 71, 74).—‘Those engaged in Vedic rites, calm,
-sinless, maintainers of Fire, devoted to their duties, austerities,
-conversant with the meaning of the Veda, born in noble families, devoted
-to parents, maintaining themselves by means of livelihood recommended
-for Brāhmaṇas, teachers knowing Brahman,—such are the Brāhmaṇas that are
-helpful in the success of Śrāddhas.
+*Vaśiṣṭha*. (11.14).—‘During the darker fortnight, after the fourth day,
+he shall make offerings to the Pitṛs; having, on the previous day, got
+together such Brāhmaṇas as are renunciates or hermits or are old, not
+engaged in any improper profession, learned in the Veda,—but who are not
+his own pupils or disciples. But he shall feed even his disciples, if
+they are endowed with exceptional qualities.’
 
-*Smṛtyantara* (Parāśaramādhava, p. 350).—‘If food is offered to a
-Brāhmaṇa who is devoid of cleanliness, fallen from his vows, and
-ignorant of the Veda, it weeps and says —*what sin have I committed*!’
+*Mahābhārata* (Anuśāsana, 137.44).—‘One who has offered the Śrāddha
+shall not receive a friend; for the purpose of making friends he shall
+make presents of riches; in connection with the offerings to gods and
+Pitṛs, he shall feed one who is neutral, whom he regards neither as a
+friend nor as a foe.’
 
-*Mahābhārata-Āśvamedhika* (Do.).—‘Food should be offered to one who
-arrives at the right time and place, suffering from hunger, thirst and
-fatigue.’
+*Kaśyapa* (Aparārka, p. 448).—‘Enemies...... should not be invited at
+Śrāddha.’

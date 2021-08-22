@@ -3,4 +3,4 @@ title = "189 निमन्त्रितान् हि"
 
 +++
 
-If a Brāhmaṇa, though learned in the Veda, should, through covetousness, accept a gift from him,—he quickly perishes; just like the unbaked vessel in water.—(170)
+The Pitṛs attend upon those invited Brāhmaṇas; like the wind, they follow them and sit down when they are seated.—(189)

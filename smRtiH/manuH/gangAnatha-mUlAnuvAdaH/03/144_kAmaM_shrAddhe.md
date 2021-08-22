@@ -3,4 +3,4 @@ title = "144 कामं श्राद्धे"
 
 +++
 
-Some twice-born persons excel in learning; others excel in austerities; some others excel in austerities and Vedic study, and others again excel in rites.—(134)
+One may entertain a friend at Śrāddhas, but never a foe, even though qualified. The offering eaten by the enemy becomes futile after death.—(144)

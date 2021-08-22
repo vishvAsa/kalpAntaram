@@ -2,15 +2,12 @@
 title = "252 स्वधास्त्व् इत्य्"
 
 +++
-‘*Servant*’—a paid attendant.
+When the Brāhmaṇas have dined and obtained permission to *go*, they
+should pronounce the syllable ‘*svadhā*.’
 
-The term ‘*even*’ indicates that a relation or any other person also,
-who may, by chance, happen to be there, should be removed.
-
-‘*Cripple*’—one incapable of moving; not able to walk.
-
-‘*One who is without a limb, and one who has a redundant limb*’—*i.e*.,
-one who is maimed, one with a crippled arm, one suffering from
-elephantiasis, and so forth.—(242)
+*The syllable* ‘*svadhā*’—*i.e*., the utterance of the syllable
+‘*svadhā*’—constitutes the ‘*highest benediction*’— at all rites
+performed in honour of the Pitṛs;—those performed with cooked food as
+well as those offered with uncooked food.—(252)
 
 

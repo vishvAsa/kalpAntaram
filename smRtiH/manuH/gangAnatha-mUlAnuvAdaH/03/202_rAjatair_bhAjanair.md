@@ -3,4 +3,4 @@ title = "202 राजतैर् भाजनैर्"
 
 +++
 
-The Pitṛs are the foremost gods, free from anger, ever intent on purity, chaste, rid of all means of offence, and supremely blessed.—(192)
+Even water offered to these with faith, in vessels, either made of silver or connected with silver, is conducive to imperishability.—(202) 

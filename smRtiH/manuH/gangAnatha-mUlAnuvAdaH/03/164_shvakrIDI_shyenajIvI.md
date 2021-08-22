@@ -3,4 +3,4 @@ title = "164 श्वक्रीडी श्येनजीवी"
 
 +++
 
-The invalid, the cattle-tender, one who has superseded h is elder brother, he who neglects the Great Sacrifices, one who is inimical to Brāhmaṇas, he who has been superseded by his younger brother, and one who is member of a company.—(154)
+He who sports with dogs, the falconer, the defiler of virgins, the cruel man, he who derives his subsistence from Śūdras, and he who sacrifices to the Gaṇas.—(164)

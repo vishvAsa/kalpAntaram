@@ -3,4 +3,4 @@ title = "242 खञ्जो वा"
 
 +++
 
-At the rite in honour of the Pitṛs, one should recite the Vedic text, Legal Institutes, Stories, Histories, Legends and supplementary Texts.—(232)
+The cripple, or the one-eyed man, the man without a limb, or the man with a redundant limb,—even if he be the offerer’s servant—he should remove from there.—(242)

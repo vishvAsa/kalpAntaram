@@ -2,22 +2,8 @@
 title = "283 यद् एव"
 
 +++
-*Mahābhārata* (13.88.15).—‘Water, roots, fruits, meat, and
-grains—whatsoever is mixed with honey and offered during Pitṛpakṣa, is
-conducive to imperishability.’
+*Baudhāyana* (2.6.3).—‘Day after day, one shall moke offerings out of
+the water-vessel; even so is the Pitṛyajña accomplished.’
 
-*Yājñavalkya* (1.260).—‘During the rains, on the thirteenth day of the
-month, and during the asterism of Maghā.’
-
-*Pitṛgāthā* (Aparārka, p. 555).—‘May some one be born in our family who
-may offer rice cooked in milk mixed with honey and butter, during the
-rains, on the thirteenth day of the month and during the asterism of
-Maghā.’
-
-*Vaśiṣṭha* (Do.).—‘The ancestors rejoice at the birth of a son in the
-hope that he would offer Śrāddha to them with honey, meat, vegetables,
-milk and rice cooked in milk.’
-
-*Paiṭhīnasi* (Aparārka, p. 555).—‘A son or a grandson may offer to us
-Śrāddha with a red goat during the rains, during the asterism of Maghā,
-on the thirteenth day of the month.’
+*Āpastamba-Dharmasūtra* (1.13.1).—‘By the wateroffering is accomplished
+the offering to gods, the offering to Pitṛs and also Vedic Study.’

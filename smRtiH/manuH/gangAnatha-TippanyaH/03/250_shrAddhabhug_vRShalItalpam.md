@@ -2,10 +2,13 @@
 title = "250 श्राद्धभुग् वृषलीतल्पम्"
 
 +++
-This verse is quoted in *Aparārka* (p. 472);—in *Śrāddhakriyākaumudī*,
-which explains ‘*ayathāyatham*’ as ‘nullified’;—also in
-*Gadādharapaddhati* (Kāla, p. 521), which explains the same word as
-‘leading to results contrary to those expected’;—and in *Hemādri* (Dāna,
-p. 108, and Śrāddha, p. 516).
+‘*Vṛṣalī*’—Neither Medhātithi nor Kullūka takes this in the sense of a
+‘Śūdra female.’ Buhler is not right in attributing this explanation to
+them. Both of them explain it as ‘any woman’; and they derive this
+meaning etymologically, by using the term ‘*vṛṣasyati*,’ ‘one who
+attracts to herself the male.’ Nor is Buhler right in attributing to
+Nārāyaṇa the explanation that the word ‘*vṛṣalī*’ means ‘a seducing
+woman’; as Nārāyaṇa also uses the term ‘*vṛṣasyanti*’ only by way of
+pointing out the etymological signification of the term ‘*vṛṣalī*’.
 
 

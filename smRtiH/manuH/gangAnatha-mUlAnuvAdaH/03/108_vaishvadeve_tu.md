@@ -3,4 +3,4 @@ title = "108 वैश्वदेवे तु"
 
 +++
 
-An oblation thrown into the mouth-fire of Brāhmaṇas, effulgent with learning and austerities, saves from trouble, and also from great sin.—(98)
+On the Vaiśvadeva having been finished, if another guest should happen to arrive,—for him also he should provide food to the best of his ability; but he shall not make any offering (out of that food).—(108)

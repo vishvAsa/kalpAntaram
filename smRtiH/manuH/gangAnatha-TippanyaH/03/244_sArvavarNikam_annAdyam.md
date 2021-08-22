@@ -2,12 +2,10 @@
 title = "244 सार्ववर्णिकम् अन्नाद्यम्"
 
 +++
-‘*Kutapam*’—The commentators are agreed in explaining this as ‘blanket,’
-The word also means ‘the hour of the day after half-past eleven, the
-best suited for the offering of Śrāddhas.’ This meaning, however, is not
-applicable to the present verse.
-
-This verse is quoted in *Aparārka* (p. 475), which explains ‘*kutapa*’
-as ‘blanket.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 750), which adds
+the following notes:—‘*Sārvavarṇikam*’ means ‘that food which contains
+the particular vegetable called *Sarvavarṇā*;—and in *Aparārka* (p.
+504), which explains that what is meant by ‘*sannīya*’ is that the food
+should be collected in one vessel.
 
 

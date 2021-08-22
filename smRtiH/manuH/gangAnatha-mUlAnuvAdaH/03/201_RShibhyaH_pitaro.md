@@ -3,4 +3,4 @@ title = "201 ऋषिभ्यः पितरो"
 
 +++
 
-If the man invited at the śrāddha dallies with a woman, he takes upon himself all the sin that there may be in the giver.—(191)
+From the sages were born the Pitṛs, Gods and Men; and from the gods the entire world, moveable and immoveable, in due order.—(201)

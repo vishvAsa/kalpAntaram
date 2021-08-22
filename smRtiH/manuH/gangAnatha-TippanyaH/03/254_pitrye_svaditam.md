@@ -2,10 +2,16 @@
 title = "254 पित्र्ये स्वदितम्"
 
 +++
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 750), which adds
-the following notes:—‘*Sārvavarṇikam*’ means ‘that food which contains
-the particular vegetable called *Sarvavarṇā*;—and in *Aparārka* (p.
-504), which explains that what is meant by ‘*sannīya*’ is that the food
-should be collected in one vessel.
+‘*Vācyam*’—‘By the giver of the feast or any other person that happens
+to come’ (Medhātithi and Govindarāja);—‘by the giver of the feast’
+(Kullūka).
+
+‘*Goṣṭhe*’—‘In the cow-pen’ (Medhātithi);—‘at the *Goṣṭhīśrāddha*’
+(Kullūka and Rāghavānanda);—‘at a feast given to Brāhmaṇas for the
+purpose of bringing some benefit to the cows’ (Nārāyaṇa).
+
+This verse is quoted in *Śrāddhakriyākaumudī* (p. 177) as prescribing
+the form of ṭhe question to be addressed to the invited at a Śrāddha,
+after they have been fed.
 
 

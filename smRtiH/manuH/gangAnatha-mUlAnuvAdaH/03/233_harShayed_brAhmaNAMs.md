@@ -3,4 +3,4 @@ title = "233 हर्षयेद् ब्राह्मणांस्"
 
 +++
 
-Having poured into their hands water and sesamum along with kuśa blades, he should offer the top portion of the ball, saying “May this be svadhā to these.”—(223)
+Being happy himself, he shall bring delight to the Brāhmaṇas; he shall feed them, gently and slowly, with dishes, and urge them repeatedly by means of seasonings.—(233)

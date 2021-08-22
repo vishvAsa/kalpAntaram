@@ -2,39 +2,50 @@
 title = "123 पितॄणाम् मासिकम्"
 
 +++
-‘*Friend*’— Companion; they of whom the friend is the first. The term
-‘*and the rest*’ connotes *kind*, and includes relations, associates,
-class-fellows, and so forth;—all except the Teacher.
+‘*Anvāhārya*’ is the name of the fee paid to the priests officiating at
+the *Darṣa-Pūrṇamāsa* sacrifices; and the monthly *śrāddha* offered to
+the Pitṛs is the ‘Anvāhārya fee’ for the Ancestors; and the sense of the
+metaphor is that the Pitṛs are as much pleased on receiving the
+*śrāddha-ofterings* as the Priests are on receiving the fee. This name
+serves to indicate that the *śrāddha* is performed for the Pitṛs. But
+the relation in which the Ancestors stand to the *śrāddha* is not the
+same in which the Deities stand to the *Darśa* and other sacrifices; as
+the *śrāddha* is performed for their benefit; and it is in this sense
+that we have the genitive case in ‘*pitṛṛṇām* (*pitṝṇām*?)’; if the
+Pitṛs were the ‘deities,’ then there would be no reason for the omitting
+of the Dative affix.
 
-‘*That may come out of affection*,’—The context pertaining to the
-*guest*, the term ‘*affection*,’ has been added with a view to preclude
-that character.
+Another reading giving a totally different sense is ‘*piṇḍānām
+māsikam*.’
 
-‘*He should feed them*.’
+‘*The wise call Anvāhārya*’— This also indicates the obligatory
+character of the *Pitṛ-yajña* (which is as necessary as the sacrificial
+gift); but with this difference that it is not a mere subordinate factor
+(as the sacrificial fee is).
 
-‘*Specially prepared*’—Having cooked the food with special care.
+‘*It should be performed with such meat as has been comended*’—*i.e*.,
+not prohibited, or particularly recommended; as in 268, where it is said
+‘with the meat of fish the Ancestors remain satisfied for two months,
+etc., etc.’
 
-‘*To the best of his ability*;’—the term ‘ability’ is meant to be merely
-illustrative; the meaning is that the cooking and the seasoning should
-be in accordance with the man’s own ability, and also according to what
-each guest may deserve.
+This is the principal method; in the absence of meat, curds, butter,
+milk, cakes, etc., shall be offered, as is going to be prescribed later
+on.
 
-‘*Together with his wife*’—the time for the wife’s eating is the same as
-the husband’s; no time being laid down specifically for the wife; all
-that is said is that ‘the husband and Wife should eat the remnant’
-(verse 116). In the Mahābhārata, however, it is shown that the wife eats
-after the husband: In the course of conversation between Draupadī and
-Satyabhāmā, Draupadī, describing the duties of the wife, has said—‘after
-all my husbands have eaten, I eat what is left’. The eating of food left
-by the husband is among the wife’s duties. Hence, what is here laid down
-is not that the Friend and others should eat at the time that, the wife
-eats; nor does the phrase ‘*along with*’ mean that, they are to eat out
-of the same dish. All that is, meant is that they should not be fed
-alone; the housewife also should eat there. This might go against the
-rule that ‘the husband and wife should eat what is left,’ What is meant
-is that if some respectable person is to be waited for, or if the
-husband feels disinclined to eat, then the husband may not eat with the
-Friend, etc., and in his place his wife should eat; this will bear
-testimony to his friendly feelings towards the diners.—(113)
+The meat, however, is only the sauce for the seasoning of such food as
+cooked rice and the like; it does not consti-tute a food by itself,
+since the text is going to describe ‘such subsidiaries us soup and
+vegetables, etc.’ (226), and also ‘on what kinds of food, etc.’ (next
+verse).—(123)
+
+The question that arises now is that the *śrāddha* consisting of the
+several acts of (*a*) oblations in fire, (*b*) feeding of Brāhmaṇas,
+(*c*) offering of hulls of food, and so forth,—are they all equally
+principal and expressible by the name ‘*śrāddha*?’ Or, some are
+principal and some secondary? The answer is that, in view of suoh
+expressions as—‘one should feed Brāhmaṇas in *śrāddha*,’ ‘this man has
+eaten at the *śrāddha*,’ and so forth, where ‘feeding’ and ‘*śrāddha*’
+are spoken of as synonyms,—the ‘feeding of Brāhmaṇas appears to be the
+principal factor.’ To the same end our Author says—
 
 

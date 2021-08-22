@@ -2,6 +2,7 @@
 title = "090 विश्वेभ्यश् चैव"
 
 +++
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 392).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403) without any
+comment.
 
 

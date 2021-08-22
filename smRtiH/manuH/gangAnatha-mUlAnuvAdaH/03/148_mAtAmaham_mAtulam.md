@@ -3,4 +3,4 @@ title = "148 मातामहम् मातुलम्"
 
 +++
 
-At a Śrāddha one should not feed a friend; his acquisition shall be made by means of riches. At a Śrāddha one should feed him whom he regards neither as friend nor as foe.—(138)
+One may feed the maternal grandfather, the maternal uncle, the sister’s son, father-in-law, the teacher, the daughter’s son, the son-in-law, a relative, the priest and him at whose sacrifices the performer officiates.—(148)

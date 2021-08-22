@@ -3,4 +3,4 @@ title = "210 तेषाम् उदकम्"
 
 +++
 
-Of the principal bodies of Pitṛs that have been described, know that there are endless sons and grandsons in this world.—(200)
+Having presented to them water, and also sesamum along with kuśa-blade, the Brāhmaṇa, permitted by the Brāhmaṇas collectively, should make an offering into fire.—(210)

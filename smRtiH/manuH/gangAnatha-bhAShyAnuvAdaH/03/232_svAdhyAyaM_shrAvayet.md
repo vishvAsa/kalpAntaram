@@ -2,11 +2,19 @@
 title = "232 स्वाध्यायं श्रावयेत्"
 
 +++
-Just as the living father is fed, so is the grandfather also.
+‘*Svādhyāyaḥ*’— Vedic Text.
 
-Having sought permission from the grandfather, the man himself may
-perform the *śrāddha*; *i.e*., he should make the offering to the two
-remoter ancestors, or to the great-grandfather only. This is what is
-implied by the terms ‘*may*’ and ‘*according to his will*.’—(222)
+‘*Legal Institutes*’—the works of Manu and others.
+
+‘*Stories*’—such as those of Suparṇa, Mitrāvaruṇa, and the rest, related
+in the Ṛgveda.
+
+‘*Histories*’—Mahābhārata, etc.
+
+‘*Legends*’—describing the creation of the world and such other
+subjects, written by Vyāsa and others.
+
+‘*Supplementary texts*’—*e.g*., the *Śrī-sūkta*, the *Mahānāmnikā*, and
+the like.—(232)
 
 

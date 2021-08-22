@@ -2,31 +2,39 @@
 title = "202 राजतैर् भाजनैर्"
 
 +++
-‘*Free from anger*’—without wrath.
+‘*Vessels made of silver*’—those built entirely of silver. In the
+absence of these ‘those, *connected with silver*’—*i.e*., vessels of
+wood, or of copper, or of gold, should have one part touched with
+silver. The vessels referred to here are those in which large quantities
+of butter, honey and vegetables and other things are kept for being
+offered; and in connection with these, it is enjoined that they should
+be *of silver*. As for the actual offering of the *ball* and other
+things, this has to be done with the hands; the libations of water—such
+as those poured over the balls, etc.—these also should be offered, with
+the hands; in view of the clear injunction that these offerings should
+be made ‘with hand, the thread passing over the right shoulder.’ The
+daily libations of water also are to be offered with the hands—the
+thread passing over the left or the right shoulder.
 
-‘*Intent on purity*,’—‘purity’ standing either for external purity
-obtained by means of clay and water, or internal purity obtained by
-means of expiatory rites.
+“But all this has been laid down in connection with *śrāddhas*, and, as
+such, cannot be connected with another act.”
 
-‘*Ever*’—qualifies ‘purity.’ Hence the meaning is that, whenever one
-happens to spit or do any such unclean act, one should rinse one’s mouth
-immediately.
+Even such subsidiary details are admissible in an act as are not
+mentioned in the same context with itself.
 
-‘*Chaste*’—avoiding all intercourse with women.
+“But such details are already mentioned in connection with the act
+itself.”
 
-‘*Rid of all means of offence*—those by whom the means of offence have
-been laid aside. ‘Offence’ stands for roughness and strife of all kinds.
+That may be so; and in that case, the present right may be only a
+reiteration of the same.
 
-‘*Supremely blessed*;’—‘blessedness’ consists in the presence of such
-qualities as nobility, prosperity, and so forth.
+‘*Even water*’—the term ‘*even*’ indicates high praise; the sense being
+that—‘to say nothing of the offering of richly cooked food, even water
+alone, if offered in a silver-vessel, becomes, by reason of its
+connection with silver, ‘*conducive* *to imperishability*’—*i.e*., it
+becomes the source of ever-lasting satisfaction (to the Pitṛs).
 
-Since it is in all this form that the Pitṛs enter into the body of the
-Brāhmaṇas,—therefore, the Brāhmaṇas also should assume these same
-forms;—this is what is enjoined by means of the commendatory description
-contained in the verse.
-
-‘*Foremost gods*.’—That in another time-cycle the ancestors were gods,
-is an eulogium bestowed on the ancestors. They are called ‘*foremost*’
-because they are worshipped *before* the gods.—(192)
+‘*With faith*;’—being already enjoined in connection with *all givings*,
+its mention here is purely reiterative.—(202)
 
 

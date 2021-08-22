@@ -2,10 +2,9 @@
 title = "123 पितॄणाम् मासिकम्"
 
 +++
-This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p.
-394);—and in *Aparārka* (p. 154) as laying down the treatment to be
-accorded to such relations and friends as happen to arrive after the
-Householder himself has eaten,—and as implying that the wife should eat
-*after* the husband has eaten.
+This verse is quoted in *Hemādri* (Śrāddha, p. 573);—and in
+*Godādharapaddhati* (Kāla, p. 431), which expounds the name
+‘*anvāhāryam*’ as ‘*anu, paścāt*, *āhāryam kāryam*,’ and says that this
+the learned call ‘*Dārśa-Śrāddha*.’
 
 

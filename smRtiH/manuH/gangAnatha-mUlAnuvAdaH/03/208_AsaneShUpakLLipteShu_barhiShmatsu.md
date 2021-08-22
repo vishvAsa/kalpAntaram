@@ -3,4 +3,4 @@ title = "208 आसनेषूपकॢप्तेषु बर्हिष्
 
 +++
 
-Somapas are the sons of Kavi; Haviṣmats are the sons of Aṅgiras; Ājyapās are the sons of Pulastya, and Sukālins, of Vaśiṣṭha.—(198)
+Seats with kuśa grass having been separately placed, he should seat the said Brāhmaṇas who have performed their ablutions.—(208)

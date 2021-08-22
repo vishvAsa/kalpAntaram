@@ -2,20 +2,21 @@
 title = "177 वीक्ष्याऽन्धो नवतेः"
 
 +++
-These men, whose ‘*conduct*’—line of action—is ‘reprehensible.’ The
-‘blind’ and the rest having their previous misconduct indicated by these
-disabilities; while the ‘thief,’ etc., have their misconduct actually
-perceptible in the present.
+“How can there be any *looking* by the blind man;—by virtue of which the
+text says ‘*the* blind man *by looking*, etc.’?”
 
-‘*At both*’— rites for gods and pitṛs.
+True; what is meant is only his proximity to the place. The meaning is
+that, in an uncovered place, the blind man should be removed away from
+such distance from which the man with eyes could see.
 
-‘*Should avoid*’— should exclude.
+‘*The one-eyed man of sixty*;’—this does not mean that if the number is
+more than these, they may be fed (even in the presence of the blind,
+etc.). All that the reducing of the number means is that the delinquency
+would be less serious, and hence the expiatory rite to be performed
+would be on a smaller scale.
 
-‘*Unworthy of company*’—*i.e*., they do not deserve company. The
-‘*ḍhak*’ affix denoting *presence. Absence from company indicates
-unworthiness*. That is, he does not deserve to eat in the company of
-other Brāhmaṇas. It is for this reason that such persons have been
-called ‘defilers of company;’ the meaning being that those who sit at
-dinner with them become defiled.—(167)
+It is the *leper* that is called ‘*śvitrī*.’
+
+‘*The man suffering from a foul disease*’—is well known,—(177)
 
 

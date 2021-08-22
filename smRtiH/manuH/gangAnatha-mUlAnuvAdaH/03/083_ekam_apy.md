@@ -3,4 +3,4 @@ title = "083 एकम् अप्य्"
 
 +++
 
-‘They also call these five sacrifices—(1) “Ahuta,” (2) “Huta,” (3) “Prahuta,” (4) “Brāhmya-huta,” and (5) “Prāśita.”’—(73)
+At that (Śrāddha) which forms part of the Five Sacrifices, one should feed even one Brāhmaṇa in honour of the pitṛs; and on this occasion he shall not feed any Brāhmaṇa in honour of the Viśve-devas.—(83)

@@ -2,21 +2,21 @@
 title = "274 अपि नः"
 
 +++
-There is nothing in Medhātithi to show that he reads ‘*pūjayet*’ for
-‘*bhojayet*’, as stated by Buhler.
+‘*Prākchāye kuñjarasya*’—‘In the afternoon, when the shadow cast by the
+elephant falls towards the East’ (Medhātithi, Kullūka, Nārāyaṇa and
+Rāghavānanda);—‘daring an eclipse’ (‘others’ in Medhātithi, who rejects
+it).—*Mitākṣarā* (on 1.218) quotes a definition by which the name
+applies to a particular day—
 
-This verse is quoted in *Aparārka* (p. 512), which explains ‘*Jñāti*’ as
-‘relations on the father’s side’, and ‘*bāndhava*’ as ‘relations on the
-mother’s side’;—and in *Hemādri* (Śrāddha, p. 1515), which has the
-following notes:—‘*Jñāti*’ are relations on the father’s side, *i.e*.,
-Sapiṇḍas;—the remnant of the food cooked for the *Śrāddha* should be
-made to reach those; *i.e*., they should be fed with it with due
-respect; after which one should honour the ‘*Bāndhavas*,’ *i.e*.,
-relations on the mother’s and the wife’s side; if, however, on being
-asked ‘what shall be done with the remnant?’—the Brāhmaṇas should say
-‘give it to us’—then other food should be cooked for the relations; and
-these are to be fed with the remnant, only if so permitted by the
-Brāhmaṇas. It may be regarded as incumbent on the Brāhmaṇas to give this
-permission.
+> yadenduḥ pitṛdaivatye haṃsaścaiva kare sthitaḥ \|  
+> yāmyāṃ tithirbhavetsāhi gajacchāyā prakīrtitā \|\|
+
+This verse is quoted in *Nirṇayasindhu* (p. 109), which quotes from
+*Vāyupurāṇa* a definition of ‘*Gajacchāyā*’ as the 13th day of the month
+during which the sun lies in the asterism of Hastā, and the moon in that
+of Maghā;—in *Hemādri* (Śrāddha, p. 245);—in *Śrāddhakriyākaumudī* (p.
+271), which explains ‘*dadyāt*’ as ‘*dadāti*’ and ‘*prākchāye etc*.’ as
+‘when the shadow of the elephant is cast towards the East,’ and notes
+that this is mere *Arthavāda*;—and in *Vaṛṣakriyākaumudī* (p. 355).
 
 

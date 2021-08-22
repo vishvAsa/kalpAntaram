@@ -2,14 +2,6 @@
 title = "182 इतरेषु त्व्"
 
 +++
-*Laghu-Śātātapa* (40).—\[Reproduces the words of Manu.\]
-
-*Gobhila-Smṛti* (1.71).—‘The Superseder and the Superseded both
-assuredly go to hell; if they have performed the expiatory rite, even so
-they participate in the effects reduced only by a quarter.’
-
-*Baudhāyana* (2.1.39).—\[Same as Manu, except that for ‘*Yāyā ca
-parividyate*’ the reading is *Yā chainam parivindati*.’
-
-*Mahābhārata* (12.165-68).—(The first line is the same as Manu.)—‘He who
-marries illegally—all these are outcasts.’
+*Mahābhārata* (13. 90, 239).—‘Those *unfit for the line* should be
+avoided: those *fit for the line* alone should be invited; if one feeds
+the sinful man, he goes to hell.’

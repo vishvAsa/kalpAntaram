@@ -3,4 +3,4 @@ title = "121 सायन् त्व्"
 
 +++
 
-If a Kṣatriya should happen to come to one’s house in the character of a guest, one may feed him also, after the Brāhmaṇas have eaten.—(111)
+Out of the food cooked in the evening the wife should offer the Bali-oblation, without sacred formulas. This is the “Vaiśvadeva” rite which has been enjoined for both Morning and evening.—(121)

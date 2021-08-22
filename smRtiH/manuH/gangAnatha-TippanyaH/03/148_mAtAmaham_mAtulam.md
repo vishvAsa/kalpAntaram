@@ -2,9 +2,13 @@
 title = "148 मातामहम् मातुलम्"
 
 +++
-This verse is quoted in *Madanapārijāta* (p. 559);—in *Aparārka* (p.
-448);—in *Hemādri* (Śrāddha, p. 401);—and in *Śrāddhakriyākaumudī* (p.
-41), which explains ‘*dhanaiḥ*’ as ‘by presents of other kinds,’ and
-‘*saṅgraha*’ as ‘affection.’
+‘*Bandhuḥ*’—‘The brother-in-law, one belonging to the same *gotra*, or
+some such remote relation’ (Medhātithi and Govindarāja);—‘cognate
+kinsman’ (Kullūkā and Rāghavānanda).
+
+This verse is quoted in *Madanapārijāta* (p. 558), which explains
+‘*vitpati*’ as ‘the son-in-law and ‘*bandhu*’ as ‘blood relations, as
+well as those related by friendship’;—in *Hemādri* (Śrāddha, p. 447);—in
+*Godādharapoddhati* (Kāla, p. 574);—and in *Saṃskāraratnamālā* (p. 991).
 
 

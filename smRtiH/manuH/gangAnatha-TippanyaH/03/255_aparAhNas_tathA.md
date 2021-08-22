@@ -2,32 +2,16 @@
 title = "255 अपराह्णस् तथा"
 
 +++
-This verse is quoted in *Varṣakriyākaumudī*, (p. 359), as enumerating
-those entitled to the scattered food;—in *Gadādharapaddhati* (Kāla, p.
-562), which explains ‘*kulayoṣitām tyāginām*’ as ‘those who abandon the
-ladies of their family without cause’, and adds that the food scattered
-in the dish is for those who have died without sacraments, while that on
-the ground is for the slaves;—in *Śrāddhakriyākaumudī* (p. 275);—and in
-*Hemādri* (Śrāddha, p. 1512), which adds the following
-notes:—‘*asaṃskṛta*’ stands for those whose Upanayana has not been done,
-and also the unmarried girls,—‘*tyāginaḥ*’ are
-suicides,—‘*kulayoṣitām*’, those ladies to whom water-offerings have not
-been made;—or ‘*kulayoṣitām tyāginām*’ may be taken together, meaning
-‘those who have abandoned their wives and ladies without cause.’
-
-‘*Tyāginām kulayoṣitām*’—‘For those who abandon their elders *and* for
-unmarried maidens; or to those who have abandoned the ladies of their
-family, without fault’ (Medhātithi);—‘For women who have forsaken their
-families’ (Govindarāja);—‘suicides and childless women’ (Nārāyaṇa);—‘For
-ascetics and...’ (Nandana).
-
-This verse is quoted also in *Vīramitrodaya* (Āhnika, p. 376) without
-any comment;—and in *Aparārka* (p. 504), which explains ‘*bhāgadheyam*’
-as ‘share’; and adds that what is meant is that ‘for those persons of
-his family who have died without Upanayana, and for those who have
-forsaken the ladies of his family or such others as should not be
-forsaken,—one should assign the food left in the dish in which the
-Brāhmaṇas have eaten, as also that which has been scattered on the
-grass’.
+This verse is quoted in *Aparārka* (p. 474), which explains ‘*Sṛṣṭi*’ as
+connoting ‘plenty’, and ‘*Mṛṣṭi*’ as connoting ‘deliciousness’;—and in
+*Hemādri* (Śrāddha, pp. 111 and 72), which adds the following
+notes:—‘*V* *āstu*’, the house built for the Śrāddha-performance,—its
+‘*Sampādana*’ means ‘building or acquiring by purchase, making it slope
+towards the South, levelling, washing and besmearing with
+cow-dung’—‘*Sṛṣṭi*’ means ‘giving away’ *i.e*., freely giving away
+vegetables and other things,—‘*Mṛṣṭi*’, cleanliness or
+sweetness,—‘*agryāḥ*’, those equipped with *Vedic* learning,—these are
+‘*Śrāddhasampadaḥ*’ *i.e*., excellences of things used at the Śrāddha;
+this implies that all these should be got together.
 
 

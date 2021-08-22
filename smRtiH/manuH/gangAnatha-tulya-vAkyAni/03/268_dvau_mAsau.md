@@ -2,15 +2,29 @@
 title = "268 द्वौ मासौ"
 
 +++
-**(verses 3.258-259)  
-**
+*Matsyapurāṇa* (Parāśaramādhava, p. 705).—‘Food mixed with curd and milk
+and cow’s butter mixed with sugar keep the Pitṛs satisfied for a month.’
 
-*Viṣṇu* (73.27-30).—‘Pronouncing the name and the gotra, he shall offer
-the *imperishable water*; then he shall address the words—*Viśvedevāḥ
-priyantam*—to those facing the east; and then with joined hands and mind
-calm and concentrated on them, he shall beg for the following
-blessings—(Manu, 259 and the following) May we have much food! May we
-have guests! May there be persons to beg from us! May we not beg of any
-one!.’
+*Mārkaṇḍeya* (Do.).—‘With wheat, sugar-cane, Mudga, Kṣīṇaka, grains,
+offered at Śrāddha, the forefathers remain satisfied for a month.—With
+Vidārya, Bhacuṇḍa, lotus-root, Śṛṅgāṭaka, Kecuka, Kanda, Karkandhū,
+plums, Pālevata, Rātuka, Akṣoṭa, jack-fruit, Kākolī, Kṣīrakākolī,
+Piṇḍālaka, fried grains, Śalā, Trapusa, Vāru, Cirbhaṭa, Sarṣapa,
+Rājaśāka, Iṅguḍa, Rājajambū, Priyāla, Āmalaka, Parigu, Tilambaka,
+Vetrāṅkura, Tālakanda, Cakrikā, Kṣīrika, Vaca, Moca with Lakuca,
+Bījapūraka, Muñjātaka, Padmapala, and other well-cooked food,—offered at
+Śrāddha, the Pitṛs of men remain satisfied for a month.’
 
-*Yājñavalkya* (1.246).—\[Reproduces Manu 259.\]
+*Viṣṇu* (80. 2-5).—‘For two months, with fish and meat;—for three months
+with deer-moat;—for four months with sheep-meat;—for five months with
+bird-meat; for eleven months with the *aurabhra* meat, for one year with
+milk or its preparations.’
+
+*Yājñavalkya* (1.258).—‘Fish and the meat of deer, sheep, bird, goat and
+the Pṛṣat deer.’
+
+*Āpastamba* (2.7.2-3).—‘So also with the meat of the Śātabali fish,—and
+that of old goat.’
+
+*Mahābhārata* (13.88.5)—‘The satisfaction of Pitṛs, obtained with fish,
+lasts for two months.’

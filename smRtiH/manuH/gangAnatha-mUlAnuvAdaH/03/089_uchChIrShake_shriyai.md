@@ -3,4 +3,4 @@ title = "089 उच्छीर्षके श्रियै"
 
 +++
 
-That state, which cannot be maintained by men with weak organs, should be kept up with care by one desiring imperishable heaven and also undying happiness in this world.—(79)
+He should hake an offering to Śrī on the “head” and to Bhadrakālī on the “feet;” for Brahman and Vāstoṣpati, he should place an offering in the centre of the homestead.—(89)

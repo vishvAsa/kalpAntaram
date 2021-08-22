@@ -2,5 +2,4 @@
 title = "077 यथा वायुम्"
 
 +++
-
-In the marriage-fire the householder should perform the ‘gṛhya’ rites; as also the rite of the ‘five sacrifices’ and the daily cooking.—(67)
+Just as all Creatures subsist by deriving support from air, so do the other states subsist by deriving support from the Housohelder.—(77)

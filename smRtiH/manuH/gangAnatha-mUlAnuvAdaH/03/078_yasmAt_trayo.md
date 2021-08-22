@@ -2,5 +2,6 @@
 title = "078 यस्मात् त्रयो"
 
 +++
+Because men in all the three states are sustained by householders only, with knowledge and food, therefore the householder’s is the highest state.—(78)
 
-For the householder there are five slaughter-houses: the hearth, the grinding-stone, household implements, mortar and pestle and water-jar;—by using which he becomes stricken.—(68)
+samo bhūteṣu hiṃsānugrahayoḥ | anārambhī |

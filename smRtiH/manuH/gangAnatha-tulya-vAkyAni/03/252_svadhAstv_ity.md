@@ -2,10 +2,8 @@
 title = "252 स्वधास्त्व् इत्य्"
 
 +++
-*Viṣṇu* (81, 15).—‘Persons with deficient or superfluous limbs should
-not look at the Śrāddha.’
+*Yājñavalkya* (1.245).—‘They shall say —*May there be svadhā*; thereupon
+he shall sprinkle water.’
 
-*Yama* (Caturvargacintāmaṇi-Śrāddha, p. 518).—‘If any servant of the
-Śrāddha-offerer should happen to be crippled or one-eyed, or with a
-crooked arm, or suffering from leucoderma, or with deficient limbs, or
-with redundant limbs,—he should be speedily removed from the place.’
+*Āśvalāyana Gṛhyasūtra* (4.18.15).—‘Or, they may say—*May there be
+svadhā*.’

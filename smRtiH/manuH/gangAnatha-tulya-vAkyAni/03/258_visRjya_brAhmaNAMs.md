@@ -2,11 +2,15 @@
 title = "258 विसृज्य ब्राह्मणांस्"
 
 +++
-*Jātūkarṇa* (Parāśaramādhava, p. 445).—‘When the father has become one
-of the Pitṛs, his son shall, year after year, and month after month,
-offer to him Śrāddha in the manner of the *Pārvaṇa* Śrāddhas.’
+**(verses 3.258-259)  
+**
 
-*Jamadagni* (Do.).—‘When the father or the mother has become amalgamated
-with the Piṭṛs, the body-born son shall offer to the parents, on the day
-of their death, in the manner of the Śrāddha performed on the moonless
-day.’
+*Viṣṇu* (73.27-30).—‘Pronouncing the name and the gotra, he shall offer
+the *imperishable water*; then he shall address the words—*Viśvedevāḥ
+priyantam*—to those facing the east; and then with joined hands and mind
+calm and concentrated on them, he shall beg for the following
+blessings—(Manu, 259 and the following) May we have much food! May we
+have guests! May there be persons to beg from us! May we not beg of any
+one!.’
+
+*Yājñavalkya* (1.246).—\[Reproduces Manu 259.\]

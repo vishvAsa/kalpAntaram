@@ -2,14 +2,16 @@
 title = "246 उच्छेषणाम् भूमिगतम्"
 
 +++
-This verse is quoted in *Parāśaramādhava* (Ācāra, p. 748), which
-explains that the addition of the particle ‘*eva*’ is meant to emphasise
-that ‘they should not give up eating, even though they may happen to
-touch one another.’
-
-The second half of the verse is quoted in *Aparārka* (p. 497);—in
-*Śrāddhakriyākaumudī* (p. 170), which says that this verse forbids the
-praising of the food even by means of gestures;—and in
-*Gadādharapaddhati* (Kāla, p. 553), which adds the same note.
+This verse is quoted in *Mitākṣarā* (on 1.239) in support of the view
+that ‘the food served to the Brāhmaṇas should be served in sufficiently
+large quantities, to make it possible for there being *leavings*, which
+constitute the share of the servants and others;—in *Vīramitrodaya*
+(Āhnika, p. 376), without any comment;—in *Nirṇayasindhu* (p. 325);—in
+*Aparārka* (p. 504), which adds that what has been left fallen on the
+ground by the Brāhmaṇas should be offered for such honest and hard
+working slaves as may have died;—in *Hemādri* (Śrāddha, pp. 151 and
+1511), which adds that *dāsavarga* here stands for the father’s
+principal servant who may be dead;—and in *Gadādharapaddhati* (Kāla, p.
+562).
 
 

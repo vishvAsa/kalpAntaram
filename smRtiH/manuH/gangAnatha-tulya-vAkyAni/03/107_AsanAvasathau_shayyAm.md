@@ -2,37 +2,36 @@
 title = "107 आसनावसथौ शय्याम्"
 
 +++
-**(verses 3.97-98)  
-**
+*Yājñavalkya* (1. 107).—‘The guest shall not be deprived of sweet words,
+place, straws and water.’
 
-*Vaśiṣṭha* (3.9-11).—‘The *Havya* and offerings are to be offered to the
-Vedic scholar only; what is offered to the non-learned reaches neither
-the Pitṛs nor the gods; gifts should be offered to one who is extremely
-learned; there is nothing Wrong in ignoring the uneducated. In the
-presence of flaming fire, one should not pour libations on ashes.’
+*Yājñavalkya* (1.113).—After the Śrotriya guest has become satisfied,
+one should follow him up to the boundary.’
 
-*Yājñavalkya* (1.201, 202).—‘Cows, sesamum and gold should be given,
-with due respects, to a qualified person; never should the wise man
-desiring his own welfare make a gift to the unqualified. In fact, a man
-devoid of learning and austerities should not accept any gift; if he
-does accept them, he drags downwards both himself and the giver.’
+*Gautama* (5.39,40).—‘Bedding, seat, lodging, following and attendance,
+in the same manner as in the case of elders;—in the case of inferior
+persons, all this has to be done even to a small extent.’
 
-*Vyāsa* (4.39,42,50,52,54,57).—‘If a man ignores the Brāhmaṇa student
-near him, when offering food and gifts, he damages his merit extending
-over three generations. Gift made to a non-Brāhmaṇa remains the same;
-that made to the Brāhmaṇa becomes two-fold; that made to the Preceptor
-becomes thousand-fold, and that made to the person learned in the Veda
-becomes endless. The Brāhmaṇa’s mouth is the soil, fertile and free from
-thorns; therein should one sow the seeds; such cultivation fulfils all
-desires. When there comes to one’s house a Brāhmaṇa endowed with
-learning and humility, all the herbs become delighted at the prospect of
-(being eaten by him and thereby) reaching the highest state. One should
-feed a mouth equipped with Veda, even though that person may have
-already taken his food, rather than the illiterate person that may have
-been fasting for six days. When the person learned in the Veda and
-attentive to his duties takes his food, he brings to the giver rewards
-endless and extending over many lives.’
+*Baudhāyana* (Vīramitrodaya-Āhnika, p. 452).—‘Both morning and evening,
+whatever food there may be, with that he shall make the Vaiśvadeva
+offerings and then entertain, to the best of his capacity, such
+Brāhmaṇa, Kṣatriya, Vaiśya and Śūdra guests as may happen to arrive; in
+the event of his being unable to entertain several guests, he may offer
+the food to only one of them, either to one who may be the best
+qualified among them, or to him who may have been the first to arrive.’
 
-*Āśvalāyana* (1.150).—‘If the good man offers food into the mouth of the
-man learned in the Veda, he becomes freed from heinous sins, and attains
-union with Brahman.’
+*Śaṅkha-Likhita* (Do.).—‘A non-Brāhmaṇa is not to be treated as the
+guest of a Brāhmaṇa; it is only the learned and highly qualified
+Brāhmaṇa that deserves the honours of a *guest*; the Kṣatriya and the
+Vaiśya are to be received as friends; and the Śūdra is to be entertained
+only out of kindness and sympathy.’
+
+*Śaṅkha* (Aparārka, p. 157).—‘One shall sit with him, at night he shall
+retire to sleep on being permitted by him, rise before him, and follow
+him when he leaves, turning back only when he asks him to do so.’
+
+*Parāśara* (1.43-44).—‘When a guest arrives, one shall receive him with
+warm welcome and honour him with the offering of water and seat and also
+with washing of feet, shall offer food with respect and sweet-worded
+enquiries, and shall follow him when he leaves; by these he shall win
+his good will.’

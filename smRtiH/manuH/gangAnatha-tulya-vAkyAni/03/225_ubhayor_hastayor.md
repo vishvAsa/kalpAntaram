@@ -2,14 +2,15 @@
 title = "225 उभयोर् हस्तयोर्"
 
 +++
-*Viṣṇu* (73.17-19).—‘Near the food-remnant, upon kuśa-blades pointing
-southwards, he shall deposit one ball for his father, with the mantra
-*Pṛthivī darvirakṣitā*, etc.;—the second to the grand-father, with the
-mantra *Antarikṣam darvirakṣitā*, etc.; the third to the
-great-grand-father, with the mantra *Dyaurdarviraksiṭā*, *etc*.’
+*Vaśiṣṭha* (11.22).—‘One shall offer food to the Pitṛs, with both hands;
+wicked-minded Asuras keep in waiting for the interval between the two
+hands.’
 
-*Yājñavalkya* (1.241-242).—‘Taking up all the food and mixing it up with
-sesamum, he shall offer the balls near the food-remnant, in the manner
-of the Pitṛyajña.’
+*Maṭysapurāṇa* (quoted in Caturvarga-cintāmaṇi-Śrāddha, p. 2370).—‘He
+shall bring up the food, with both hands, then serve it, with a calm
+mind, keeping in his hand water and kuśa.’
 
-*Laghu-Āśvalāyana* (13.74).—(See above.)
+*Brahmāṇḍapurāṇa* (quoted in Caturvarga-cintāmaṇi-Śrāddha, p.
+2370).—‘Serving shall not be done at the Śrāddha with any article made
+of iron, nor by one who is without the Pavitra and the kuśa, nor with
+one hand.’

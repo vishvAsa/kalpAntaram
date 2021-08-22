@@ -3,4 +3,4 @@ title = "126 सत्क्रियान् देश-कालौ"
 
 +++
 
-After the Brāhmaṇas, his own people and servants have dined,—the husband and wife should afterwards eat what is left.—(116)
+Respectful treatment, place and time, purity and the qualities of Brāhmaṇas,—a large company hampers these five; therefore one shall not seek a large company.—(126)

@@ -2,19 +2,15 @@
 title = "242 खञ्जो वा"
 
 +++
-‘*Svādhyāyaḥ*’— Vedic Text.
+‘*Servant*’—a paid attendant.
 
-‘*Legal Institutes*’—the works of Manu and others.
+The term ‘*even*’ indicates that a relation or any other person also,
+who may, by chance, happen to be there, should be removed.
 
-‘*Stories*’—such as those of Suparṇa, Mitrāvaruṇa, and the rest, related
-in the Ṛgveda.
+‘*Cripple*’—one incapable of moving; not able to walk.
 
-‘*Histories*’—Mahābhārata, etc.
-
-‘*Legends*’—describing the creation of the world and such other
-subjects, written by Vyāsa and others.
-
-‘*Supplementary texts*’—*e.g*., the *Śrī-sūkta*, the *Mahānāmnikā*, and
-the like.—(232)
+‘*One who is without a limb, and one who has a redundant limb*’—*i.e*.,
+one who is maimed, one with a crippled arm, one suffering from
+elephantiasis, and so forth.—(242)
 
 

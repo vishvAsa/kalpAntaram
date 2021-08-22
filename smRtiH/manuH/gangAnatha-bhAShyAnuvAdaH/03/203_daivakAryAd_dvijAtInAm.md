@@ -2,12 +2,17 @@
 title = "203 दैवकार्याद् द्विजातीनाम्"
 
 +++
-He from whom these—Pitṛs—‘*have their origin*,’ and ‘*who*’—which
-Pitṛs—‘*have to be worshipped by whom*,’ *i.e*., the ‘Somapa’ Manes by
-*Brāhmaṇas*, the ‘*Haviṣmat*’ Pitṛs by *Kṣatriyas*, and so forth;—all
-this ‘*learn fully*,’ as described now.
+The rite done in honour of the gods is excelled by that done in honour
+of the Pitṛs; *i.e*., the latter has been more emphatically enjoined.
 
-‘*Rules*;’—this is a mere reiterative reference; the rules having been
-already laid down in the words, ‘one should remain self-controlled, &c.,
-&c.’ The plural number is due to there being a large number of
-rules.—(193)
+This only indicates the predominance of the rite in honour of the Pitṛs;
+the meaning being that the rite in honour of the gods is subsidiary to
+that in honour of the Pitṛs.
+
+This same subsidiary character is more clearly stated,—‘*The
+rite*’—*i.e*., the feeding of Brāhmaṇas—‘*that is done in honour of the
+gods*’ is the, ‘*sustainer*’—helper—‘*of the rite done in honour of the
+Pitṛs*;’ so that it is not by itself an important act, being only an aid
+of that in honour of the Pitṛs.—(203)
+
+

@@ -2,11 +2,14 @@
 title = "180 सोमविक्रयिणे विष्ठा"
 
 +++
-‘*Avrataiḥ*’—‘Devoid of self-restraint’ (Medhātithi);—‘who have not
-fulfilled the vows of studentship’ (Govindarāja, Kullūka and
-Rāghavānanda);—‘who do not observe the rules laid down for the
-Accomplished Student’.
+What is meant is that ‘the man will be born as an animal feeding upon
+the things specified’ (according to Medhātithi, Govindarāja, Kullūka and
+Rāghavānanda);—that ‘the food will be rejected by the Pitṛs and Gods, as
+impure’ (according to Nārāyaṇa).
 
-This verse is quoted in *Hemādri* (Śrāddha, pp. 471 and 493).
+‘*Apratiṣṭham*’—‘Has no place’ (Medātithi, Govindarāja, Kullūka and
+Rāghvānanda);—‘secures no fame to the giver’ (Nārāyaṇa).
+
+This verse is quoted in *Aparārka* (p. 454).
 
 

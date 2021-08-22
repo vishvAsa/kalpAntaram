@@ -2,12 +2,12 @@
 title = "083 एकम् अप्य्"
 
 +++
-Two of these technical terms occur in the beginning of Baudhāyana’s
-*Gṛhyasūtra*, and four in Pāraskara’s *Gṛhyasūtra* 1.4.1, as well as in
-Śāṅkhāyana’s 1.5.1.
-
-This verse is quoted, without comment, in *Vīramitrodaya* (Āhnika, p.
-392);—and in *Aparārka* (p. 142), which adds that these are the names
-for the ‘five sacrifices.’
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 432), where the
+following notes are added:—‘*Pāñcayajñike*’ means ‘at that *Pitṛyajña*
+which forms part of the Five Great Sarifices;’—the particle ‘*api*’
+implies that, if possible, one should feed several Brāhmaṇas also;—the
+second half of the verse means that ‘*Viśvedeva-Śrāddha*’ does not form
+part of ‘*Nityaśrāddha*’, in support of which it quotes a text from
+*Bhaviṣya Purāṇa*;—also in *Hemādri* (Śrāddha, p. 1565).
 
 

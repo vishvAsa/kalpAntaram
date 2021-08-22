@@ -2,9 +2,9 @@
 title = "179 वेदविच् चाऽपि"
 
 +++
-**(verses 3.169-170)  
-**
+*Atri-Smṛti* (2, 5).—‘One shall not be addicted to sinful acts, on the
+strength of the Veda; for an intentional sin is not destroyed by the
+Veda.’
 
-*Mahābhārata* (13.90, 11).—‘O Yudhiṣṭhira, that offering to the gods
-which is eaten by the twice-born men ‘unfit for company’ goes to the
-Rākṣasas; so say the teachers of the Veda.’
+*Atri-Saṃhitā* (145).—‘By accepting gifts they perish, as fire perishes
+by water.’

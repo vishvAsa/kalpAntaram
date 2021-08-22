@@ -3,4 +3,4 @@ title = "195 विराट्-सुताः सोमसदः"
 
 +++
 
-One who has learnt the “Triṇāciketa,” one who knows the science of the five fires, one who has learnt the “Trisuparṇa,” one who knows the six-limbed science, one who is born of a woman married in the “Brahma (Brāhma)” form, one who sings the Jyeṣṭha-sāmas.—(185)
+The Somasads, the sons of Virāj, have been declared to be the Pitṛs of the Sādhyas; and the Agnisvāttas, the sons of Marīci, are famed in the world as the Pitṛs of the Gods.—(195) 

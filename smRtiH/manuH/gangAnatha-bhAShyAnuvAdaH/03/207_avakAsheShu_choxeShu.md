@@ -2,19 +2,24 @@
 title = "207 अवकाशेषु चोक्षेषु"
 
 +++
-What this verse means has been explained before.
+‘*Avakāśa*,’ is *place, spot*.
 
-The ‘*Somapās*’ are *those that drink Soma*; *i.e*., Indra and other
-deities of the *Jyotiṣṭoma* and other sacrifices.
+‘*Cokṣa*’—naturally clean and tending to mental calm; such as forests,
+etc.
 
-‘*Havirbhujs*’—are the deities for cooked rice, cake, &c.
+‘*Water-banks*’— sand-banks, near rivers.
 
-‘*Ājyapas*’—are the deities for the libations called ‘*Āghāra*,’
-‘*Ājyabhāga*,’ ‘*Pragāju*,’ and so forth.
+‘*Secluded places*’—uncrowded sacred places.
 
-‘*Sukālins*’—are those who *complete, accomplish*, sacrificial rites.
-The deities conducive to the accomplishment of sacrificial rites are
-those prescribed in such *Mantras* as ‘*Ayāścāgnesyanabhiśasti*, &c.,
-&e.’—(197)
+This verse contains a totally different injunction. Hence, in the case
+of such places, the rule regarding *smearing with cowdung* does not
+apply; because the rule (in the preceding verse) distinctly says that
+‘one should make it so;’ which means that the rule applies to a place
+where *cleanness* has to be brought about. In regard to places that are
+naturally clean, their fitness is secured by ‘being examined and
+sprinkled with water.’
+
+By the Śrāddha ‘*offered*’— performed—in such places, the Pitṛs become
+greatly pleased.—(207)
 
 

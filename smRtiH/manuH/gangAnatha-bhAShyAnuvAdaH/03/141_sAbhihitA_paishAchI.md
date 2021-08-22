@@ -2,39 +2,21 @@
 title = "141 साभिहिता पैशाची"
 
 +++
-‘*Anṛcām (Anṛcām?*)’, ‘*ignorant of the Veda*,’—those who do not know
-the meaning of the Vedic verses.
+The particle ‘*sam*’ (in ‘*Sambhojanī*) connotes *convivility*; and the
+term ‘*sambhojanī*’ means that at which men dine together; such
+convivial dinner is possible only among friends. Or, the word
+‘*sambhojamī*’ may be taken as standing for a social dinner of several
+people.
 
-This is only by way of illustration; since there is no possibility of
-persons ignorant of the Veda being fed; because of the restriction that
-the food shall be offered only to one learned in the Veda. The affix at
-the end of this compound has been dropped because of the term being
-Vedic, and also because of the exigencies of metre. They say—‘one had
-better read *maṣa* in place of *māṣa* rather than distort the metre.’
+The making of friendships by Śrāddhas is a custom with ‘devils,’—the
+term ‘devil’ here standing for highway robbers.
 
-Or, we may read ‘*anṛcā*’ in the Nominative Plural; the construction
-being ‘thousand persons ignorant, &c.;’ just as we have the phrase
-‘thousand bulls.’
+This gift ‘*remains in this world alone*’—*i.e*., it is not capable of
+bringing rewards in the other world; just as the blind cow, which
+remains tied in a single room, so this gift also remains in this world
+only,—*i.e*., the only result it brings about is the goodwill of
+friends,—and it does not bring any benefit to the ancestors.
 
-‘*A single man learned in the Veda*’—knowing the meaning of the Veda—‘on
-*being satisfied*’—*i.e*., fed—‘absorbs all those’ ignorant persons;
-*i.e*., becomes identified with them; and in face of this identity, the
-result that might accrue from the feeding of those thousands would be
-obtained by the feeding of a single learned man; this is the sense got
-at. from the text.
-
-This deprecation of the ignorant person is meant to be a praise of the
-learned man; and it does not really mean that the feeding of a single
-man produces results equal to those produced by feeding a thousand.
-Further, inasmuch as the scriptures lay down the feeding of the learned
-only, there is no possibility of the ignorant ever being fed. It may be
-that people might think that, in the absence of the fully learned man
-(thoroughly versed in the Veda), the feeding of the man⁽learned in the
-Veda’ (who is comparatively *ignorant*) laid down in verse 128 above
-permits, under certain conditions, the feeding of ignorant persons also;
-and in view of this, for the purpose of preventing the prohibition of
-feeding a ‘large company’ from applying to the case of ignorant persons
-also, the present text may be taken in its direct sense (whereby the
-feeding of thousands of ignorant persons is permitted).—(131)
+The term ‘*dakṣiṇā*’ here stands for *gift*.—(141)
 
 

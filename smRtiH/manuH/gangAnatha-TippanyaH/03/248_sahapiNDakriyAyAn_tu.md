@@ -2,13 +2,21 @@
 title = "248 सहपिण्डक्रियायान् तु"
 
 +++
-This verse is quoted in *Śrāddhakriyākaumudī* (p. 169);—and in *Hemādri*
-(Śrāddha, p. 1021), which explains ‘*veṣṭitam*’ as wrapped up by turban
-etc.;—the specific prohibition of facing the south implies that when
-there is scarcity of room one may eat facing any other quarter but the
-south,—‘*upānahau*’ are foot-covers of leather (shoes).
+Burnell is wrong in saying that ‘verse 248 is apparently omitted by
+Medhātithi’ It is strange that scholars of the ‘Critical School’ should
+be making such statements on the strength of Mss. which they know to be
+imperfect and incomplete.
 
-“The same verse in the Mahābhārata ends: *Sarvam vidyāt tadāsuram*
-(13.90.19), ‘belonging to the Asuras’.”—Hopkins.
+This verse is quoted in *Smṛtitattva* (p. 802) as likely to be
+interpreted as indicating the ‘offering of the Ball’ to be the principal
+factor. It combats this view and adds that in the compound
+‘*piṇḍanirvapaṇam*’ the term ‘*piṇḍa*’ is to be understood as synonymous
+with ‘*pitṛ*’, so that what the compound means is ‘offering to the
+Pitṛs.’
+
+*Medhātithi* (P. 286, l. 14)—‘*Sapiṇḍīkaraṇaśrāddham* *&c*.’ This
+appears to be a paraphrase of the verse, which is quoted also in
+*Mitākṣarā* (on ll. 253-254), where, however, the reading is ‘*pretānna
+nirdishet*.’ See below Bhāṣya, p. 289, ll. 15-20.
 
 

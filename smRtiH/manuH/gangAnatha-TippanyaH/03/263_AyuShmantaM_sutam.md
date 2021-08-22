@@ -2,8 +2,8 @@
 title = "263 आयुष्मन्तं सुतम्"
 
 +++
-This verse is quoted in *Aparārka* (p. 504), which adds that ‘if the
-Brāhmaṇas so wish, the food should be sent over to their house; or if
-they permit him to eat it, along with his relations, this may be done.’
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 759);—in *Aparārka*
+(p. 550);—in *Śrāddhakriyākaumudī* (p. 215):—and in *Gadādharapaddhati*
+(Kāla, p. 553).
 
 

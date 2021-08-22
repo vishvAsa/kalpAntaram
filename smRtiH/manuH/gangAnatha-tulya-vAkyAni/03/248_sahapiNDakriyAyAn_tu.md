@@ -2,8 +2,11 @@
 title = "248 सहपिण्डक्रियायान् तु"
 
 +++
-*Viṣṇu* (81.12-13).—‘Not people with covered heads; nor those with shoes
-on.’
+*Jātūkarṇa* (Parāśaramādhava, p. 445).—‘When the father has become one
+of the Pitṛs, his son shall, year after year, and month after month,
+offer to him Śrāddha in the manner of the *Pārvaṇa* Śrāddhas.’
 
-*Mahābhārata* (13.237, 19).—\[Reproduces Manu, but reading ‘*sarvam
-vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]
+*Jamadagni* (Do.).—‘When the father or the mother has become amalgamated
+with the Piṭṛs, the body-born son shall offer to the parents, on the day
+of their death, in the manner of the Śrāddha performed on the moonless
+day.’

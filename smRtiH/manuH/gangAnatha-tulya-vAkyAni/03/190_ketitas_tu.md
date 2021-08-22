@@ -2,6 +2,9 @@
 title = "190 केतितस् तु"
 
 +++
-*Mahābhārata* (13.90, 13, 14).—‘What is given to the Soma-seller and to
-the physician becomes pus and blood; what is given to the temple-servant
-perishes; it is neither here nor there.’
+*Yama* (Parāśaramādhava, p. 701).—‘Having been invited, if the Brāhmaṇa
+goes elsewhere to take his food, he goes to a hundred hells and is born
+among Cāṇḍālas.’
+
+*Ādipurāṇa* (Do.).—‘Being invited, the Brāhmaṇa should not be late; one
+who is late... falls into hell.’

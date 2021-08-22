@@ -2,8 +2,8 @@
 title = "238 यद् वेष्टित-शिरा"
 
 +++
-**(verses 3.226-228)  
-**
+*Viṣṇu* (81.12-13).—‘Not people with covered heads; nor those with shoes
+on.’
 
-See Comparative notes for [Verse
-3.226](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200015.html#comparative-notes "English translation of verse").
+*Mahābhārata* (13.237, 19).—\[Reproduces Manu, but reading ‘*sarvam
+vidyāt tadāsuram*’ for ‘*tadvai rakṣāṃsi bhuñjaṭe*.’\]

@@ -2,14 +2,12 @@
 title = "073 अहुतञ् च"
 
 +++
-> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-> interpolations?\] “These are very probably a later addition. The
-> corresponding section in the Mahābhārata, 13.46 stops right here
-> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-> *Parāśaramādhava*.
+Two of these technical terms occur in the beginning of Baudhāyana’s
+*Gṛhyasūtra*, and four in Pāraskara’s *Gṛhyasūtra* 1.4.1, as well as in
+Śāṅkhāyana’s 1.5.1.
 
-This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as
-enumerating the causes leading to the degradation of families;—and in
-*Smṛticandrikā* (Saṃskāra, p. 232).
+This verse is quoted, without comment, in *Vīramitrodaya* (Āhnika, p.
+392);—and in *Aparārka* (p. 142), which adds that these are the names
+for the ‘five sacrifices.’
 
 

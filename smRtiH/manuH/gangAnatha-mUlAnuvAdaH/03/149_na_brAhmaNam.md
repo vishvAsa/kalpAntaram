@@ -3,4 +3,4 @@ title = "149 न ब्राह्मणम्"
 
 +++
 
-He at whose Śrāddhas and sacrifices, the friend forms the principal factor,—for him, after death, there is no reward, either for Śrāddhas or for sacrifices.—(139)
+At the rite in honour of the gods, the man knowing the law shall not examine the Brāhmaṇa. But when the rite in honour of the Pitṛs comes to be performed, he shall examine him carefullv.—(149)

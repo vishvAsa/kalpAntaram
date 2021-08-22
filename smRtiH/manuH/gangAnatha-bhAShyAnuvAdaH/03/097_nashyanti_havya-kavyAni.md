@@ -2,29 +2,34 @@
 title = "097 नश्यन्ति हव्य-कव्यानि"
 
 +++
-‘*Duly*’—*i.e*., with the mind bent upon the deity, and not wandering
-over anything else.
+The preceding verse has described the person to whom presents are to be
+made; the present verse proceeds to prohibit the giving of presents to
+unqualified persons.
 
-Having offered in the Fire the oblation to these deities—he should place
-‘*in all directions*, *proceeding*,’ in due order, ‘*towards his
-right*;’ at first in the East, then in the South, and so forth, this
-being the ‘movement towards one’s right;’
+‘*Become lost*’—become fruitless.
 
-‘*To* *Indra, Antaka, Ap-pati and Indu*’—in each direction.
+‘*Rites in honour of the gods*’—Such acts as the feeding of Brāhmaṇas
+and the like, which are done in honour of the gods.
 
-Another writer remarks that ‘Indu’ has no share in the oblation (the
-offering being made to *Soma*). If this name is not to be used in making
-the offering, how could ‘Indu’ be spoken of (as he is in this verse) as
-a partaker of the oblation? And it has been explained that the ‘placing
-of the *bali*’ is nothing other than *Homa*.
+‘*Rites in honour of the Pitṛs*’—those that form part of the acts done
+in honour of one’s ancestors; *i.e*., *Śrāddhas*.
 
-As a matter of fact, no stress is meant to be laid upon the special form
-of the names used; as they have been used only in view of the exigencies
-of metre; so that, in actual usage, the names to be used should be those
-mentioned in other *Smṛtis*.
+‘*Ash-like*—those who hav *become ashes* are called ‘*bhasmabhūta*. Or,
+the term ‘*bhūta*’ may mean *similarity*; hence the word ‘*bhasmabhūta*’
+means ‘*ash-like*;’ just as in the compound ‘*kāṣṭhabhūta*.’
 
-‘*Along with their followers*’—‘followers’ stands for servants,
-attendants; the formula used in such cases being ‘*Indrapuruṣebhyaḥ
-svāhā*,’ and so forth.—(87)
+“What is the point of similarity between *ash* and the *Brāhmaṇas?*”
+
+The meaning is that, just as the ash is of no use, and is mere refuse
+and deserves only to be thrown away, so the Brāhmaṇa in question is to
+be removed from all religious functions.
+
+‘*Made by ignorant men*’— this is to be construed with ‘*become lost*.’
+
+‘*Presented by givers through folly*’—‘ignorant’ and ‘folly’ are only
+re-iterations. Anything that is prohibited in the scriptures is done
+only through folly.
+
+The next verse describes what sort of Brāhmaṇas are not ‘ash-like.’—(97)
 
 

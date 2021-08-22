@@ -2,9 +2,8 @@
 title = "154 यक्ष्मी च"
 
 +++
-*Āpastamba-Dharmasūtra* (2.17.5-6).—‘When other men with proper
-qualifications are not available, one may feed even his own uterine
-brother; or even his own pupils.’
+**(verses 3.150-166)  
+**
 
-*Baudhāyana* (2.8.4).—‘One may feed even a Sapiṇḍa if he is equipped
-with the Ṛk, the Yajuṣ and the Sāman.’
+See Comparative notes for [Verse
+3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").

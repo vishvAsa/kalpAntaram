@@ -3,4 +3,4 @@ title = "167 एतान् विगर्हिताचारान्"
 
 +++
 
-The forsaker, without cause, of his mother, father and superior; and he who has formed a connection, through the relationship of either Veda or marriage, with outcasts.—(157)
+The learned Brāhmaṇa should avoid at both (rites) these l owest of twice-born men, who are of reprehensible conduct and who are unworthy of company.—(167)

@@ -2,29 +2,15 @@
 title = "278 यथा चैवाऽपरः"
 
 +++
-*Matsyapurāṇa* (Parāśaramādhava, p. 705).—‘Food mixed with curd and milk
-and cow’s butter mixed with sugar keep the Pitṛs satisfied for a month.’
+*Āpastamba-Dharmasūtra*. (2.16.45).—‘The afternoon of the darker
+fortnight is more commendable.’
 
-*Mārkaṇḍeya* (Do.).—‘With wheat, sugar-cane, Mudga, Kṣīṇaka, grains,
-offered at Śrāddha, the forefathers remain satisfied for a month.—With
-Vidārya, Bhacuṇḍa, lotus-root, Śṛṅgāṭaka, Kecuka, Kanda, Karkandhū,
-plums, Pālevata, Rātuka, Akṣoṭa, jack-fruit, Kākolī, Kṣīrakākolī,
-Piṇḍālaka, fried grains, Śalā, Trapusa, Vāru, Cirbhaṭa, Sarṣapa,
-Rājaśāka, Iṅguḍa, Rājajambū, Priyāla, Āmalaka, Parigu, Tilambaka,
-Vetrāṅkura, Tālakanda, Cakrikā, Kṣīrika, Vaca, Moca with Lakuca,
-Bījapūraka, Muñjātaka, Padmapala, and other well-cooked food,—offered at
-Śrāddha, the Pitṛs of men remain satisfied for a month.’
+*Yājñavalkya* (1.226).—‘Having worshipped the Brāhmaṇas *in the
+afternoon*, etc.’
 
-*Viṣṇu* (80. 2-5).—‘For two months, with fish and meat;—for three months
-with deer-moat;—for four months with sheep-meat;—for five months with
-bird-meat; for eleven months with the *aurabhra* meat, for one year with
-milk or its preparations.’
+*Vyāsa* (Aparārka, p. 465).—‘Three *muhurtas* constitute the morning,
+three *muhūrtas* again form the *Saṅgava*; three, *midday*; another
+three, *afternoon*.
 
-*Yājñavalkya* (1.258).—‘Fish and the meat of deer, sheep, bird, goat and
-the Pṛṣat deer.’
-
-*Āpastamba* (2.7.2-3).—‘So also with the meat of the Śātabali fish,—and
-that of old goat.’
-
-*Mahābhārata* (13.88.5)—‘The satisfaction of Pitṛs, obtained with fish,
-lasts for two months.’
+*Śruti* (Do.).—‘The morning is for the gods, the midday for men and the
+afternoon for Pitṛs.’

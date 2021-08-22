@@ -2,13 +2,12 @@
 title = "265 उच्छेषणन् तु"
 
 +++
-*Prajāpati* (70.71).—‘The following Brāhmaṇas are conducive to the
-accomplishment of the Śrāddha:—Those that are devoted to the Vedic
-duties, those that are of calm disposition, sinless, devoted to the
-fires, firm in their duties, firm in their austerities, conversant with
-the meaning of the Veda, born of noble families, devoted to their
-parents, living by the methods prescribed for Brāhmaṇas, teachers, those
-conversant with Brahman.’
+*Yājñavalkya* (1.\`257).—‘So long as the Brāhmaṇas are there, the
+leavings shall not he washed.’
 
-*Yama-Hārīta-Śātātapa* (quoted in Caturvargacintāmaṇi-Śrāddha, p.
-1172).—\[Reproduce Manu.\]
+*Vaśiṣṭha* (11.18-20).—‘Till the end of ṭhe day, the leavings of the
+Śrāddha shall not be removed; as from those flow currents of nectar
+which are drunk by those to whom no water-offerings have been made.—So
+long as the sun has not set, the leavings shall not be washed.—Manu has
+declared that the leavings and the remnants form the share of those who
+have died before the performance of their sacramental rites.’

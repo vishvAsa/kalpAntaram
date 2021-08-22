@@ -2,26 +2,26 @@
 title = "163 स्रोतसाम् भेदको"
 
 +++
-‘*Servant*’—one who carries out orders: one who is sent by the
-village-people hither and thither, on business.
+‘*Water-courses*’—the sources of water;—‘*he who diverts*’ these;
+*i.e*., having cut the embankments, takes the water to irrigate his
+field, &c.
 
-Similarly, ‘*the servant of the king*,’ ‘*one who hew deformed nail*,’
-‘*one who has black teeth*.’
+‘He who is addicted to obstructing them’—*i.e*, the water-courses.
 
-‘*Opposer of his teacher*’— he who, in conversation and other things,
-remains against and in opposition to his superior.
+‘*Obstructing*’ means *covering up*; hence the meaning is that^(‘)he who
+closes the source from which the water flows.’
 
-‘*One who has forsaken the Fire*’—*i.e*., out of the Three Fires and the
-Domestic Fire, one who has given up even one,
+The person who advises regarding the position of houses;—one who lives
+by the science of architecture; *i.e*., the architect, the mason, and so
+forth. One who plans his own houses is not meant here.
 
-‘*Usurer*’—one who, even though he has other menus of living available,
-lives upon interest. Though ‘Usury’ has been defined as ‘the
-accumulating *of grains* by interest,’ yet this definition can be
-accepted as authoritative only within the limited scope of the subject
-dealt with by the Smṛti in which it occurs; in fact, grammarians apply
-the term ‘usurer’ to persons making a living by interest, in connection
-with things other than grains also: and, in the matter of words and
-their meanings, grammarians are more authoritative than others; because
-they make these the subject of careful study.—(153)
+‘*Messenger*,’—the king’s servant; who is employed by him as a slave. He
+is one who is employed in business relating to peace and war.
+
+He who plants trees for payment. Planting them as a righteous act is not
+reprehensible; because such an act would not be ‘reprehensible
+practice;’ in fact, the planting of trees has been actually enjoined, as
+we learn from such assertions as^(‘)he who has planted ten mango-trees
+goes not to hell.’—(163)
 
 

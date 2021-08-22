@@ -2,20 +2,26 @@
 title = "128 श्रोत्रियायैव देयानि"
 
 +++
-*Viṣṇu* (67.43).—\[Reproduces Manu.\]
+*Vaśiṣṭha* (3.9).—‘Offerings made to Gods and Pitṛs should be presented
+to the Vedic scholars; that which is presented to one ignorant of the
+Veda reaches neither the Pitṛs nor the Gods.’
 
-*Baudhāyana* (2.7.16).—‘He who eats alone is entirely sinful; the food
-he takes is futile.’
+*Āśvalāyana-Gṛhyasūtra* (4.2).—(See under 125.)
 
-*Yama* (Vīramitrodaya-Āhnika, p. 457).—‘He who cooks for himself eats
-sin; one should always avoid that futile cooking which is intended only
-to please his own palate.’
+*Gautama* (15.9).—‘Vedic scholars, endowed with eloquence, beauty, age
+and character.’
 
-*Paiṭhīnasi* (Vīramitrodaya-Āhnika).—‘One shall not cook for himself,
-nor shall he kill animals for himself; one who cooks for the sake of
-gods and for the sake of Brāhmaṇas does not become tainted with sin.’
+*Prajāpati-Smṛti* (70, 71, 74).—‘Those engaged in Vedic rites, calm,
+sinless, maintainers of Fire, devoted to their duties, austerities,
+conversant with the meaning of the Veda, born in noble families, devoted
+to parents, maintaining themselves by means of livelihood recommended
+for Brāhmaṇas, teachers knowing Brahman,—such are the Brāhmaṇas that are
+helpful in the success of Śrāddhas.
 
-*Jābāla* (Do.)—‘He who eats without bathing, eats dirt; he who eats
-without having repeated mantras, eats pus and blood; he who eats without
-having offered Homa, eats insects; and he who eats food without offering
-it to others, eats poison.’
+*Smṛtyantara* (Parāśaramādhava, p. 350).—‘If food is offered to a
+Brāhmaṇa who is devoid of cleanliness, fallen from his vows, and
+ignorant of the Veda, it weeps and says —*what sin have I committed*!’
+
+*Mahābhārata-Āśvamedhika* (Do.).—‘Food should be offered to one who
+arrives at the right time and place, suffering from hunger, thirst and
+fatigue.’

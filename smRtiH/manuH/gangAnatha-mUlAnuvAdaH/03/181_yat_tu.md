@@ -3,8 +3,4 @@ title = "181 यत् तु"
 
 +++
 
-He who unites himself with “wife” and “Agnihotra,” while his elder remains, is to be regarded as the “superseder of his elder;” and the elder is to be regarded as “one who is superseded.”’—(171)
-
-
-agraje brahmacaryasthe yo'nujo dārasaṅgraham | 
-kurute parivettā sa paricitto'grejo bhavet ||
+That which is given to the trader is neither here nor there. Similarly, what is given to the Brāhmaṇa born of a remarried woman is like a libation poured on ashes.—(181)

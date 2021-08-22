@@ -3,4 +3,4 @@ title = "131 सहस्रं हि"
 
 +++
 
-Out of the food cooked in the evening the wife should offer the Bali-oblation, without sacred formulas. This is the “Vaiśvadeva” rite which has been enjoined for both Morning and evening.—(121)
+Where one thousand persons ignorant of the Veda eat, all those a single man learned in the Veda, on being satisfied, absorbs, in point of merit.—(131)

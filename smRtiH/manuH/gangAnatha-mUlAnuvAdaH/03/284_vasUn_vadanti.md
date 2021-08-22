@@ -3,8 +3,4 @@ title = "284 वसून् वदन्ति"
 
 +++
 
-‘May there be one in our family, who may offer milk-rice mixed with honey and butter on the thirteenth, and when the shadow of the elephant falls towards the east.’—(274)
-
-
-yadenduḥ pitṛdaivatye haṃsaścaiva kare sthitaḥ | 
-yāmyāṃ tithirbhavetsāhi gajacchāyā prakīrtitā ||
+They call the Fathers “Vasus;” the grandfathers they call “Rudras,” and the great-grandfathers they call “ādityas” such is the ancient text.—(284)

@@ -2,28 +2,26 @@
 title = "153 प्रेष्यो ग्रामस्य"
 
 +++
-That the gift that is presented to the learned person makes the *givers*
-partakers of reward is only right: but what is the reward obtained by
-the receivers? If it be held that they obtain some transcendental
-result,—that, cannot be right: because the act of *receiving* gifts has
-not been so enjoined, and also because the receiver is prompted to
-accept the gift only with a view to the perceptible reward. If, on the
-other hand, the reward to the *receiver* be held to be something
-perceptible,—then such a reward is found to be obtained by the ignorant
-person also.”
+‘*Servant*’—one who carries out orders: one who is sent by the
+village-people hither and thither, on business.
 
-True; but what is stated here is mere praise; the sense lasing that—‘the
-presenting of offerings to the learned man is so effective that the
-*receiver* also comes to partake of the imperceptible reward, in
-addition to the perceptible one,—what to say of the *giver*.’
+Similarly, ‘*the servant of the king*,’ ‘*one who hew deformed nail*,’
+‘*one who has black teeth*.’
 
-‘*Alter death*’— in heaven.
+‘*Opposer of his teacher*’— he who, in conversation and other things,
+remains against and in opposition to his superior.
 
-‘*Here*’—the reward is in the form of fame; the man being praised by men
-as doing things in exact accordance with the scriptures,
+‘*One who has forsaken the Fire*’—*i.e*., out of the Three Fires and the
+Domestic Fire, one who has given up even one,
 
-‘*According to rule*;’—this is a mere reiterative reference to the
-injunction that ‘gifts should be made to persons posessing such and such
-qualifications.’—(143)
+‘*Usurer*’—one who, even though he has other menus of living available,
+lives upon interest. Though ‘Usury’ has been defined as ‘the
+accumulating *of grains* by interest,’ yet this definition can be
+accepted as authoritative only within the limited scope of the subject
+dealt with by the Smṛti in which it occurs; in fact, grammarians apply
+the term ‘usurer’ to persons making a living by interest, in connection
+with things other than grains also: and, in the matter of words and
+their meanings, grammarians are more authoritative than others; because
+they make these the subject of careful study.—(153)
 
 

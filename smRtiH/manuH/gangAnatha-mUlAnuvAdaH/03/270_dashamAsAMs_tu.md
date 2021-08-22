@@ -3,4 +3,4 @@ title = "270 दशमासांस् तु"
 
 +++
 
-Having made the offering thus, he should, after this, either make the cow or the Brāhmaṇa or the goat or the fire to eat the balls, or throw them into water.—(260)
+They are satisfied for ten months by the meat of boars and buffaloes; and for eleven months by the meat of the hare and the tortoise.’—(270)

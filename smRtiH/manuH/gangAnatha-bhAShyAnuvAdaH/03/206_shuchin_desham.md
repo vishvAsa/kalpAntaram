@@ -2,20 +2,18 @@
 title = "206 शुचिन् देशम्"
 
 +++
-All these, Daityas, &c., though not worthy of being mentioned in
-scriptures, have been mentioned here for purposes of the laudatory
-description. The forms and character of these beings are as described in
-the *Itihāsas*.
+^(‘)*Clean*’— not defiled by the presence of ashes, bones, skulls, and
+such things.
 
-‘*Suparṇas*’—are a particular kind of birds.
+‘*Secluded*’—large and unoccupied by many men.
 
-‘*Kinnaras*’—are horse-faced beings.
+‘*Sloping towards the south*’—that which is of lower level on the
+southern side. Such he should make the place, ‘*with care*.’ That is, if
+one fails to find a spot that is not naturally so, one should make it
+so, by one’s own effort.
 
-The purport of this laudatory description is that—so essential is the
-performance of *Śrāddhas* that even Daityas, Dānavas and Rākṣasas, who
-generally interfere with sacrificial performances, cannot avoid it; nor
-even animals, who have no intelligence and no memory.
-
-The sons of Atri are called ‘*Barhiṣads*.’— (196)
+This place he should smear with cowdung. This precludes the use of clay
+and such things, the rule being that the smearing should be done with
+cowdung.—(206)
 
 

@@ -3,4 +3,4 @@ title = "191 आमन्त्रितस् तु"
 
 +++
 
-That which is given to the trader is neither here nor there. Similarly, what is given to the Brāhmaṇa born of a remarried woman is like a libation poured on ashes.—(181)
+If the man invited at the śrāddha dallies with a woman, he takes upon himself all the sin that there may be in the giver.—(191)

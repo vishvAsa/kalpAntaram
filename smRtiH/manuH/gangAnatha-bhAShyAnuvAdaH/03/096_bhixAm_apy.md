@@ -2,29 +2,47 @@
 title = "096 भिक्षाम् अप्य्"
 
 +++
-‘*To Dyauḥ-Pṛthivī jointly*’—with the formula ‘*dyāvā-pṛthivībhyām
-svāhā*.’
+It has been said above that the alms is to be given ‘in the proper
+form;’ and this form is now described.
 
-‘*Finally to Sviṣṭakṛt*’—‘*Sviṣṭakṛt*’ (accomplisher of what is
-extremely desirable) is an adjective, the deity qualified by it being
-Agni. That this is so is indicated by the assertion in another *Smṛti*
-to the effect that ‘this offering is to be made *to Agni-Sviṣṭakṛt*.’
-This offering to *Agni-Sviṣṭakṛt* has been prescribed in the Veda as to
-be made in the case of all *Homas*.
+The mention of the ‘water-pot,’ which has not been referred to in this
+context before, is meant to indicate that in all cases one need not
+always give *alms* only.
 
-‘*Finally*’— though this is already implied by the order in which the
-names have been mentioned, yet it has been reiterated (by means of the
-term ‘finally’) for the purpose of indicating that when, according to
-another *Smṛti*, a large number of oblations are offered conjointly
-under this head, that to ‘*Agni-Sviṣṭakṛt*’ should come first.
+‘*Having honoured*,’—after having worshipped.
 
-“All these oblations forming a single act of *Homa*, the several deities
-mentioned should be treated as optional alternatives.”
+‘*Vidhipūrvakam*,’—‘*in accordance with scriptural injun*
+*ctions*’—means ‘that which has scriptural injunctions for its
+precedent;’ the term ‘precedent’ meaning *reason*; the compound
+therefore means that what is here stated is on the basis of scriptural
+injunctions.
 
-But whence does- it follow that there is a single Homa? Verse 85, which
-speaks of oblations ‘to Agni and to Soma, etc.,’ is the originative
-Injunction of the Homas; and hence the *Homa* -offerings being severally
-qualified by the mention of several special deities, the Homas are
-clearly recognised as distinct.—(86)
+Or, the term ‘*vidhi*’ may stand for *method*; the sense being that the
+right, method should be adopted first; the method being that ‘he should
+be honoured,’ as already mentioned.
+
+‘*The true meaning of the Veda*’—the real, the undoubted, sense of the
+Veda; he who knows this meaning—to such a Brāhmaṇa one should ‘make
+over’ the things.
+
+The term ‘*to the Brāhmaṇa*’ restricts the gift to the particular caste;
+and the term ‘*knowing*, &c.’ restricts it to persons possessing a
+certain qualification.
+
+Hence, in connection with the act of giving, three things are enjoined
+here—
+
+1.  ‘whatever is to be given should be given to the Brāhmaṇa,’
+2.  ‘to a Brāhmaṇa who knows the meaning of the Veda,’
+3.  and ‘only after having honoured him,’
+
+And this multiplicity of injunctions (in a single verse) (though
+inadmissible in a Vedic text) may be admissible in the work of a human
+author.
+
+The next, verse proceeds to point out the danger in connection with the
+act of ‘giving’ enjoined above.—(96).
+
+
 
 

@@ -2,9 +2,9 @@
 title = "141 साभिहिता पैशाची"
 
 +++
-*Bṛhad-Yama* (3.40-42).—‘The excellent Brāhmaṇa, free from jealousy, of
-pure character, learned in the Veda, knowing Brahman, youthful, endowed
-with learning and humility,—is the proper recipient; one who is learned
-in Vedanta, superior in Sāman, free from avarice, devoted to the Veda,
-should be employed in rites sacred to Pitṛs and Gods; whatever is
-offered to such a one is imperishable without doubt.’
+*Mahābhārata* (Anuśāsana, 90.46).—‘A convivial dinner is the *Devil’s
+Gift*; it reaches neither the gods nor Pitṛs; devoid of virtue, it
+wanders about in this world.’
+
+*Āpastamba-Dharmasūtra* (2.17.7).—\[Reproduces the above with one slight
+verbal variation.\]

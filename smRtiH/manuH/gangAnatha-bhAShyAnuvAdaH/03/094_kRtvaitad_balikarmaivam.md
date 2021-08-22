@@ -2,36 +2,35 @@
 title = "094 कृत्वैतद् बलिकर्मैवम्"
 
 +++
-‘*Vaiśvadeva*,’ ‘*for the Viśvedevas*’—*i.e*., what is cooked for the
-sake of the Viśvedevas. Though the term ‘*viśvedeva*’ literally means
-‘all deities,’ yet here it is indicative of only those to whom oblations
-are offered. Hence the term may be taken as standing also for what is
-cooked for guests and others.
+The right definition of the ‘guest’ shall he given later on (in 102);
+when such a guest has arrived, he shall feed him *first*,—*i.e*., before
+all others that may be near the house and may be going to eat.
 
-‘*Out of the food cooked, Homa should be offered to these deities*’— to
-those going to be mentioned in the next verse. The term ‘*cooked*’
-implies that the offering is made out of what has been already cooked
-for all recipients, and that there is no special cooking for the deities
-only, done with the *mantra ‘Devasya tvā savituḥ, etc*.’
+*Alms to one who is a mendicant*’—*i.e*., he should give it to a person
+that asks for it. The term ‘*alms*’ stands for the gift of a small
+quantity of food; it has been said that ‘it is a handful that
+constitutes *alms*;’ and this is well known among housewives.
 
-‘*According to rule*’—this means that the Homa is to be offered in
-accordance with rules laid down in the *Gṛhyasūtras*; by which all such
-details of procedure become included as sweeping the spot, sprinkling
-water over it, and so forth.
+‘*In the proper form*,’ to ‘*a Brahmacārin*’—to others even to a beggar
+that may be a disguised heretic, alms may be given,—but not in the
+proper form; but to the Brahmacārin it should be given ‘*in the proper
+form*;’ *i.e*., the giving is to be preceded by the syllable ‘*svasti*’
+by the *recipient*; this is the ‘form’ referred to.
 
-The term ‘*Brāhmaṇa*’ is for the purpose of indicating the fact of the
-three higher castes being entitled to the performance.
+Or, the term ‘*bhikṣu*,’ ‘mendicant,’ in the text may be taken in the
+sense of the *Parivrāṭ*, the Renunciate,—and the term ‘*brahmacārī*’ in
+that of one who is still in the first stage of *Studentship*. The
+particle ‘*ca*’ occurs in the wrong place on account of exigencies of
+metre; it should occur after ‘*brahmacārine*.’
 
-‘*Every day*’— daily.
-
-‘*Deities*’ (in the Dative) serves to indicate the necessity of using
-the syllable ‘*svāhā*,’ If the genitive bad been used, then the words
-need (at the offering) would have been ‘*agneḥ idam*’ (not ‘*agnaye
-svāhā*). The use of the term ‘*devatā*’ (‘Deity’), however, makes the
-rule mean that ‘all offerings to the gods should be made with’ the
-syllable *svāhā*.’ As for the syllable ‘*vaṣaṭ*,’ it is to be pronounced
-at the end of the ‘*Yājyā*’ *mantras*, but never at a *Smārta Homa*;
-while the syllable ‘*svāhā*’ is to be pronounced at all *Homas*; such
-being the case, the formula used should be ‘*agnaye svāhā*.’—(84)
+But under this explanation, no alms would ever be given to the Recluse
+(the person in the third stage.) Hence the right view appears to be to
+take the term ‘*bhikṣu*’ (mendicant) in the sense of ‘one who begs,’ and
+the term ‘*brahmacārin*’ (*chaste*) as a qualification of the former.
+And in this way the giving of alms to persons in all the three stages
+becomes regularly sanctioned. As for heretics, they are to be treated
+like outcasts (*vide* 92),—and the mention of ‘all’ (in 93) has already
+enjoined the helping in the form of giving food, according to one’s
+means, to all living beings.—(94)
 
 

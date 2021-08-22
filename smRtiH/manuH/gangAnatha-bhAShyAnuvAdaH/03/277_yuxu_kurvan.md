@@ -2,13 +2,20 @@
 title = "277 युक्षु कुर्वन्"
 
 +++
-The mention of the sesamum and other grains is not meant to be
-preclusive of other grains; it is meant only to be indicative of the
-peculiar results following from their offering; the sense being that
-when those are offered in the right manner, the ancestors remain
-satisfied for one year.
+‘*Even dates*’—the second, the fourth, and so forth.
 
-‘*Proper*,’ ‘*ancestors*,’ ‘*men’s*.’—These terms are purely
-reiterative, put in for the purpose of filling up the metre.—(267)
+‘*Asterism*’—lunar mansion; ‘*Bharaṇī*,’ and the rest are called ‘even
+asterisms.’
+
+The first, the third, the fifth, the seventh and the ninth days of the
+month are called ‘*odd*;’ and the second, the fourth, the sixth, the
+eighth and the tenth are called ‘*even*.’ Similarly, the eleventh day is
+‘odd,’ and so on with the asterisms also.
+
+‘*All desires*,’—the desires being described in detail in *Itihāsas* and
+*Purāṇas*.
+
+‘*Prosperous offspring*,’—that which is replete with persons possessed
+of wealth, learning and strength, is called ‘*prosperous*.’— (277)
 
 

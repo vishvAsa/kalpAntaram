@@ -2,33 +2,40 @@
 title = "156 भृतकाध्यापको यश्"
 
 +++
-Some people might argue as follows:—“It has been asserted that ‘at the
-rite performed in honour of ancestors one should feed three Brāhmaṇas;’
-and in the preceding verse the learners of several recensional texts
-have been mentioned; so that there is no possibility of one’s own
-companions in study being fed.”
+‘*One who teaches for a stipulated fee*’— one who teaches only while be
+is engaged on a fee; one who undertakes the work of teaching after
+having made the stipulation that ‘if you pay me so much, I shall teach
+you the Veda,’ is called ‘one who teaches for a stipulated fee.’ Such is
+the form of payment known among bearers and others. If, however, without
+having verbally stipulated that one would receive a certain amount of
+money, one does the work of teaching and receives payment afterwards,
+then such a teacher is not ‘one who teaches for a stipulated fee.’ In
+fact, teaching in return for payment of an amount not previously
+stipulated, has been actually sanctioned.
 
-And it is with a view to set aside this notion that the author puts
-forward the present verse.
+Similarly, ‘*one who is taught by one who teaches for a stipulated
+fee*;’ this is the name given to one who *himself*, like Satyakāma, pays
+a stipulated fee and then reads with the teacher. The boy, however, who,
+in the absence of any other teacher, is put by his father and others
+under the tuition of one who is paid a stipulated fee, is not regarded
+as ‘of reprehensible practice.’ Because it is for the father to save the
+boy from all that is prohibited. It has been declared (in 8.317)—‘The
+pupil and the sacrificer transmit their guilt to the Teacher.’
 
-Of these three—the adherents of the three Vedas—anyone may be fed.
+‘*The pupil of a Śūdra*’— in the learning of Grammar and other Sciences.
 
-That is to say, one may feed either persons professing the same
-recensional text as oneself or those professing other several texts.
+‘*Teacher*’—of the Śūdra, Though the term ‘*śūdra*,’ forms the
+subordinate factor in the compound ‘*śūdraśiṣya*,’ yet it is construed
+with the following word; such construction being permissible in works on
+*Smṛti*. Then again, the condition of being ‘reprehensible practice’ is
+a qualification that governs all that is said here, and it is only the
+teaching of the Śūdra. that is reprehensible, not the teaching of any
+other higher caste.
 
-‘*Duly honoured*’—worshipped, approached, with offerings of water, etc.
+‘*Reprehensible in speech*’—*i.e*., rude and untruthful of speech.
+Others explain this to mean ‘one who is accused of a serious offence.’
 
-‘*Satisfaction to the seventh degree*’—*i.e*., the satisfaction
-continues till the seventh degree of descendants. The prolonging of both
-vowels in the term ‘*sāptapauruṣī*’ is in accordance with Pāṇini 7.3.20.
-This epithet has been added for the purpose of indicating great length
-of time; the meaning being that ‘the satisfaction of the ancestors lasts
-for a long time.’ The meaning is that ‘by the feeding of the said
-Brāhmaṇa, the satisfaction secured to the ancestors is such as lasts
-till such time as his sons and grandsons to the seventh degree are
-born.’
-
-‘*Everlasting*,’—*i.e*., it does not cease, and then appears again; it
-remains there always.—(146)
+‘*The son of an adulteress and the son of a widow*’—to be described
+later on (174),—(156).
 
 

@@ -2,31 +2,35 @@
 title = "274 अपि नः"
 
 +++
-The balls having been disposed of, he should wash his hands; and then
-follow the rules regarding sipping of water.
+What is said here is with reference to the thirteenth day of the month
+spoken of above, as accompanied by the rainy season and the asterism of
+*Maghā*.
 
-‘*Jñatiprāyam*’—is to be explained as ‘that which goes to (*praiti*) to
-the paternal relations (*jñātiṣu*);’ this he should make; *i.e*., he
-should offer food to them.
+What is described in the text is the wish expressed by the Pitṛs.
 
-‘*Having treated than well*, *he should feed other relations*.’ Those
-belonging to the same ‘*gotra*’ are called ‘*jñati*,’ ‘paternal
-relations,’ while those related on the mother’s and the wife’s side are
-called ‘*bāṇḍhava*,’ ‘releations.’
+‘*May there be*’—born—‘*in our famity*’—one such person, endowed with
+excellent qualities, who may offer to us, on the said thirteenth day,
+‘*milk-rice mixed with honey and butter*;’—also ‘*when the shadow of the
+elephant falls towards the east*;’ *i.e*., during the afternoon; towards
+the close of day, the shadow cast by the elephant is long and falls
+towards the East.
 
-The following question is here raised:—
+Another reading for ‘*prākchāyā*’ is ‘*prākchāyām*;’ it is in a shady
+place that Brāhmaṇas are fed; as for the rest of the rite, if the shade
+is not enough to permit of its being done there, then it should be done
+in a place close to the shadow. Since the details form part of the rite,
+the whole of it should, as far as possible, be performed in the shadow
+of the elephant.
 
-“It has been said above (in verse 253) that ‘he should do us they tell
-him;’ now if they were to tell him, ‘Send all this food to our home,’
-then, what would become of the *Vaiśvadeva* and other oblations?”
+Some people have explained the term ‘shadow of the elephant’ to mean
+‘eclipse,’ adding that Rāhu takes the shape of the elephant and pierces
+the sun with darkness.
 
-In that case, the man will have to cook food again. Or, the offering of
-the remnant to the Brāhmaṇas may be regarded as being prescribed only
-with a view to some transcendental result,—and not with a view to their
-actually taking it all away. For instance, it has been laid down that —‘
-When informed of food having been left, they should say *it is for your
-friends*;’ and this direction would have to be regarded as only
-optional, if, in certain cases, the Brāhmaṇas were to take away the
-food.—(264)
+But this is not right; as in that case, the term ‘elephant’ will have to
+ba regarded as figurative. Further, in another *Smṛti* the ‘elephant’s
+shadow’ has been described as something entirely different from
+eclipse:—‘the elephant’s shadow, the eclipse of the Sun, and the eclipse
+of the Moon’ \[where the three are mentioned as distinct from one
+another\].—(274)
 
 

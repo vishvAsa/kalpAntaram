@@ -2,25 +2,12 @@
 title = "193 यस्माद् उत्पत्तिर्"
 
 +++
-‘*By men unworthy of company*’—as described above—‘*defiled*’—rendered
-defective,—‘*company*’—assembly—by which *Brāhmaṇas* ‘*become
-purified*’—rendered free from defilement,—to those ‘*listen*’— as
-described in the coming verses;—‘*full*’—the description that is being
-given by me fully.
+He from whom these—Pitṛs—‘*have their origin*,’ and ‘*who*’—which
+Pitṛs—‘*have to be worshipped by whom*,’ *i.e*., the ‘Somapa’ Manes by
+*Brāhmaṇas*, the ‘*Haviṣmat*’ Pitṛs by *Kṣatriyas*, and so forth;—all
+this ‘*learn fully*,’ as described now.
 
-The remaining words are purely laudatory reiterations. What is meant is
-that the ‘sanctifier of company,’ by reason of the excellence of his
-qualities, removes the defects of other persons also by dining with
-them; just as the impure man, dining with others, makes even faultless
-men defective.
-
-This verse does not sanction the feeding of men unworthy of company. All
-that it means is, that one should always seek for the ‘sanctifier of
-company;’ and that if one such person has been found, one might
-feed,—even though it he futile to do so,—those who have not been
-carefully examined to three degrees of ancestors, if they are not found
-to be marked by any perceptible disqualifications. It is with this end
-in view that the author provides the description of the ‘sanctifier of
-company.’—(183)
-
-
+‘*Rules*;’—this is a mere reiterative reference; the rules having been
+already laid down in the words, ‘one should remain self-controlled, &c.,
+&c.’ The plural number is due to there being a large number of
+rules.—(193)

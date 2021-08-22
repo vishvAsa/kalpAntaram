@@ -2,9 +2,5 @@
 title = "217 आचम्योदक्परावृत्य त्रिर्"
 
 +++
-*Viṣṇu* (85.54-61).—‘On large rivers, on all natural spots, on
-river-banks, on streams, on hills, in groves, in forests, in parks.’
-
-*Yama* (*Aparārka* p. 471).—‘Śrāddhas should be offered in sacred
-buildings, on river-banks, in Tīrthas, and on one’s own land, in groves
-near hills, and on mountain-tops.’
+*Laghu-Āśvalāyana* (13.75).—‘Having taken leave with the mantra, *Atra,
+etc*., he shall turn towards the north and restrain his breath.’

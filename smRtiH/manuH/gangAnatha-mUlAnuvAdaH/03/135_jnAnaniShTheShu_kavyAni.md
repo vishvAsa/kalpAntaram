@@ -3,4 +3,4 @@ title = "135 ज्ञाननिष्ठेषु कव्यानि"
 
 +++
 
-Even though wealthy, one should feed two at the rite performed in honour of the gods, and three at that in honour of the Pitṛs; or one only at each of the two rites he should not indulge in large company.—(125)
+The offerings to the pitṛs should be carefully presented to those excelling in learning; and the offerings to gods to all the four, according to law.—(135) 

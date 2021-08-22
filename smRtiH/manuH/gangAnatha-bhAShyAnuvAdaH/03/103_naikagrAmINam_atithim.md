@@ -2,40 +2,38 @@
 title = "103 नैकग्रामीणम् अतिथिम्"
 
 +++
-This sums up what has gone before.
+One who fives in the same village is not a ‘guest,’ even though he may
+happen to come just at the time of the ‘Vaiśvadeva’ offerings.
 
-The epithet ‘*all*’ indicates that one should help with food the deer,
-the cock, the cat and such other animals as grow in the villages.
+‘*Companion*’—a fellow-student, other than one’s ‘friend;’ the rule
+regarding the entertaining of the latter will come later—‘the Vaiśya and
+the Śūdra and one’s friend, &c., &c.’ (Verse 110).
 
-‘*Honour*’ here denotes *help*, not *worship*; us worship could not
-apply to dogs, &c. In fact, what is meant is the forbidding of
-ill-treatment; and it in with this view that the author has not used the
-term ‘help.’
+It appears right to take the term ‘*sāṅgatika*’ as excluding the man who
+is in the habit of meeting all men on terms of equality, entertaining
+them with jokes ami stories,—oven though he be such as has never been
+met before.
 
-‘*Highest place*’—*i.e*., he reaches Brahman.
+For the Householder, when away from home, no one can be a ‘guest,’ even
+though he may fulfil all the conditions of one; one is to be regarded as
+such only when he ‘*arrives at one’s house*;’ *i.e*., to the place where
+one lives permanently, that which is called his ‘abode.’ But even when
+the man is away from home, if his wife and Fires happen to be there,
+then the Brāhmaṇa arriving will be his ‘guest,’ even though he himself
+may not be there. Hence the householder should provide for the
+entertaining of guests during his absence, in the same manner as he does
+for the maintenance of the Fires and the performance of the
+*Darśa-Pūrṇmāsa* and other periodical sacrifices.
 
-‘*By the straight path*’—*i.e*., he has not to wander through an endless
-series of births as different animals.
+The term ‘or’ implies that (*a*) when the man goes on a journey taking
+his wife and the fires with him, then, even during his stay in another
+village, if some one arrives, he should be treated as a ‘guest;”—(*b*)
+that the same is the case at his own house, during his absence, if his
+wife and Fires are there that hence, when one goes out with his wife,
+but leaves the Fires at home, the rule regarding the entertaining of
+guests does not apply.
 
-*Question*—“Is this verse meant to lay down the reward (to be
-obtained)?”
-
-We say—*no*. For it has already been explained that the injunction of
-the offerings is an obligatory one; and if a reward happen to be
-mentioned in connection with an obligatory act, it can only be taken as
-a commendatory description. Nor is any injunctive word found in the
-verse; the word used is ‘*goes*,’ in the present tense.
-
-‘*With a body of light*’—*i.e*., with a body made up of light only; he
-is no longer tramelled with a body made up of the five elemental
-substances; *i.e*., he becomes of the nature of pure Consciousness. Or,
-the term may be takeu as connoting *freedom from sin*; the meaning being
-that he becomes pure of character. The act done is one of helping all
-beings; and when the man does not transgress any scriptural injunctions,
-he incurs no sin; and hence it is only right that he should be *pure*.
-If it were otherwise, then *sin* being an impurity, he could never have
-a *body of light*. There being no sin in him, it is only natural that
-the man should reach the highest place, which consists in a state free
-from all pain and suffering.—(93)
+The term ‘or’ is to be construed with ‘should regard’ not as between the
+‘wife’ and the ‘fires.’—(103)
 
 

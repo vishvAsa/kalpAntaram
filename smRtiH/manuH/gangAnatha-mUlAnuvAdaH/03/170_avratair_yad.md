@@ -3,4 +3,4 @@ title = "170 अव्रतैर् यद्"
 
 +++
 
-The maker of bows and arrows, he whose wife dallies with another person and he who makes love to his brother’s widow, he who injures a friend, he who subsists by gambling and he who has his own son for his teacher.—(160)
+Demons indeed consume the food that is eaten by Brāhmaṇas deviod of self-restraint, by such as those who have superseded their elder brother and the like, or by others that are unworthy of company.—(170)

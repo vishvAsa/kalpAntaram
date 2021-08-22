@@ -2,7 +2,8 @@
 title = "269 षण्मासांश् छागमांसेन"
 
 +++
-This verse is quoted in *Smṛtitattva* (p. 183) without comment;—in
-*Nirṇayasindhu* (p. 330);—and in *Hemādri* (Śrāddha, p. 1483).
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri*
+(Śrāddha, p. 586);—and in *Gadādharapaddhati* (Kāla, p. 536), which
+explains ‘*pārṣata*’ as meat of the *Pṛṣat* *i.e*., the spotted deer.
 
 

@@ -2,27 +2,32 @@
 title = "112 वैश्य-शूद्राव् अपि"
 
 +++
-Inasmuch as the meaning of the term ‘*Atithi*’ (guest) is not well-known
-among men, the author provides a definition of the same.
+Those that have the character of guests are said to arrive ‘*in the
+character of guests*;’ the ‘character of the guest’ has been already
+described.
 
-One becomes a ‘guest’ by staying in another man’s house for one night;
-and this character belongs only to a Brāhmaṇa, to none else.
+‘*Family*’—House.
 
-Whether the next day also the guest should be honoured or not, depends
-upon the wish of the Householder; it is not. obligatory. It being done
-by persons desiring prosperity, the incentive to it is something totally
-different (from that of the obligatory honouring during the first
-night). Says Apastamba (2.7.16)—‘One should lodge him for one night;’
-whereby he wins the regions of the earth; by keeping him on the second
-night, the regions of the sky; and on the third night, the regions of
-Heaven”—which shows that the incentive to the entertaining of the guest
-on the second and following nights consists in the desire for particular
-rewards.
+‘*Arrived*’—Come.
 
-For the purpose of lending strength to the above explanation, the author
-provides the etymological meaning—‘*His stay is not long*; which means
-that the word ‘*atithi*’ is derived from the root ‘*sthā*’ (to stay),
-preceded by ‘*ati*;’ the term being formed somehow by the addition of an
-*Uṇādi* affix.—(102)
+He should feed the *Vaiśya* and the *Śūdra* also, like the *Kṣatriya*.
+The time, for feeding them is after the quests, relations and friends
+have eaten, but before the House-holder and his wife.
+
+‘*Along with*’ means simply ‘at the same time.’
+
+‘*Compassionate disposition*’—sympathy, pity.
+
+‘*Showing*’—providing proof of, having recourse to.
+
+This last clause has been added with a view to show that those here
+mentioned are not objects of respect. It is one who is to be kindly
+treated that deserves compassion, and not one who is to be worshipped.
+Towards pergons deserving kindly treatment, if help can be accorded,
+this is done by everyone who desires his own welfare. But its omission
+does not mean ill-treatment of the guest. What is meant is that the
+merit derived from helping the person deserving compassion is not
+similar to that derived from entertaining the guest; it is inferior to
+this latter.—(112)
 
 

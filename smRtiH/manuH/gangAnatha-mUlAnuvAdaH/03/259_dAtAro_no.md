@@ -3,4 +3,4 @@ title = "259 दातारो नो"
 
 +++
 
-He who, having eaten at a śrāddha, gives the leavings to a śūdra,—this foolish man falls headlong into the Kālasūtra hell.—(249)
+‘May our benefactors prosper! As also the Vedas and our progeny! May our faith never waver! May there be much for us to give away!’—(259)

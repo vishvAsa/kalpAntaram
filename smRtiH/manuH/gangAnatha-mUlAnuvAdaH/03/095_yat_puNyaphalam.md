@@ -3,4 +3,4 @@ title = "095 यत् पुण्यफलम्"
 
 +++
 
-First to Agni and to Soma, then to both these together, then to the Viśve-devas and to Dhanvantari.—(85)
+The twice-born householder, giving alms, obtains the same reward for merit which reward for merit one obtains by giving a cow, in the proper form, to his Teacher.—(95) 

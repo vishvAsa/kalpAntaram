@@ -2,19 +2,26 @@
 title = "190 केतितस् तु"
 
 +++
-The sense is that the man becomes born in that species of creatures
-where ordure is eaten.
+‘*Ketitaḥ*’ means *invited*.
 
-Similarly, with the physician.
+‘*Havye kavye*’—at the rite in honour of Gods, and at the rite in honour
+of the Pitṛs. Having accepted the invitation and promised to eat,—if
+‘*somehow he neglects it*,’—*i.e*., does not present himself at the time
+of eating, or, if he does not maintain continence,—then such a Brāhmaṇa
+‘*becomes a hog*.’
 
-‘*Becomes lost*’—*i.e*., fruitless; or source of anxiety; anything that
-is ‘lost’ becomes a source of anxiety.
+‘*Somehow*’—*i.e*., either intentionally, or through lapse of memory.
 
-That which has no place, no existence at all, is called ‘*apratiṣṭham*.’
+‘*Duly*’—this has been added for the purpose of filling up the verse.
 
-Various forms of expression have been used here to show the
-fruitlessness of the gift and also the evils attaching to the giver. The
-terms ‘*lost*’ and ‘*without place*’ should not be regarded as
-synonymous, as there is a distinct difference in their effects.—(180)
+Others have held that the ‘*neglect*’ here stands for *non-acceptance of
+the invitation*; according to what has been said in the
+*Śrāddhakalpa*—‘one should not fail to accept the invitation of a man
+free from all blame.’
+
+This, however, is not right; it is through desire to eat that men become
+prone to go to *śrāddhas*; and if a man happens to have no such desire,
+and hence refuses the invitation, what sin could there be in
+this?—(190.)
 
 

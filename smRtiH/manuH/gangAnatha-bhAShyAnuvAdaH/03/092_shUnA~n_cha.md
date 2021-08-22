@@ -2,20 +2,28 @@
 title = "092 शूनाञ् च"
 
 +++
-‘*Should offer*’—*i.e*., should perform.
+Having taken up some food in a vessel, he should place food on the
+ground, with a view to benefit the dogs and the rest.
 
-‘*Daily*’—every day.
+‘*Persons afflicted with filthy diseases*’—Lepers, consumptives, and so
+forth.
 
-‘*Śrāddha*’—this term indicates the duty by its proper name. ‘*Śrāddha*’
-is the name of the rite laid down as to be done in honour of one’s
-ancestors, on the *Amāvasyā* day; and the whole process of that rite is
-indicated by the name ‘Śrāddha.’
+‘*Vayāṃsi*’—birds.
 
-‘*With food*’—this is only a reiteration of ‘sesamum, barley, &c.’
-(mentioned in 3.267); what is reiterated here being intended to be
-described later on.
+‘*Gently*’—*i.e*., in such, a way that the food does not become mixed
+with the dust raised from the ground.
 
-‘*With water*;’—‘*udaka*’ is *water*, and ‘*payaḥ*’ stands for
-milk.—(82)
+The ‘*ground*’ has been mentioned, not with a view to preclude the use
+of a vessel, but simply to indicate that food for the Cāṇḍāla, the
+outcast and the leper should not be given in their hands.
+
+What the present verse prescribes is the *according of help*; that is
+why the verse contains the Genitive, not the Dative, ending.
+
+For the birds, food should be placed on a spot where they can eat it
+without being scared away by dogs, &ç.
+
+For *insects*, the food should be placed on a spot where they are likely
+to be present.—(92)
 
 

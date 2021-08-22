@@ -3,4 +3,4 @@ title = "177 वीक्ष्याऽन्धो नवतेः"
 
 +++
 
-The learned Brāhmaṇa should avoid at both (rites) these l owest of twice-born men, who are of reprehensible conduct and who are unworthy of company.—(167)
+The blind man, by looking, destroys the feeder’s reward for feeding ninety men, the one-eyed man of sixty, the leper of one hundred, and the man afflicted with a foul disease of a thousand.—(177)

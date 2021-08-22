@@ -3,4 +3,4 @@ title = "117 देवान् ऋषीन्"
 
 +++
 
-He should offer seat, room, bed, foliowing and attendance of the best kind to superiors, of the inferior kind to inferiors and of the equal (ordinary) kind to equals.—(107)
+Having worshipped the gods, sages, men, the Pitṛs and the household deities, the Householder shall eat afterwards what remains.—(117) 

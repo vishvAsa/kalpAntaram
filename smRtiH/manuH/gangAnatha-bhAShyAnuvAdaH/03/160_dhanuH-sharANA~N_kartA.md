@@ -2,29 +2,41 @@
 title = "160 धनुः-शराणाङ् कर्ता"
 
 +++
-‘*Thieves*’—stealers.
+He who, as a professional artisan, makes bows and arrows.
 
-‘*Outcast*’—one who commits any one of the five ‘great sins.’
+‘*Agredidhiṣūpatiḥ*;’—the term ‘*didhiṣū*’ is connected both ways, like
+the single eye-ball of the crow operating in both sockets. Such a
+construction is permissible, because the text belongs to the category of
+a ‘*snmṛti-śātra*.’ Even (meaningless) lines and clods of earth are made
+to yield some meaning, in consideration of the requirements of *Smṛtis*;
+and they come out useful too. For this reason, the objection need not be
+raised as to how a single term occurring in the middle of a compound can
+be construed with two different terms. In fact. Gautama (15.16) has
+expressly prohibited both (The ‘*agredidhiṣū*’ and the ‘*didhiṣūpati*’),
+and this indicates the plausibility of the above construction; and the
+compound really contains two terms. Further, there is no such person as
+‘*agredidhiṣūpati*.’ The definition of these two (‘*agredidhiṣū* and
+*didhiṣūpatī*’) will he supplied later on.
 
-‘*Eunuch*’— emasculate, having the marks of both man and woman,
-unvirile, impotent.
+‘*Who injures a friend*’—who puts obstacles in a friend’s business.
 
-‘*Atheists*’—Materialists and others; those whose firm conviction is
-that ‘gifts are nothing, oblations are nothing, there is no other world
-the behaviour of those is unbelief; ‘those whose behaviour is like the
-behaviour of atheists’ are called ‘having the behaviour of
-atheists,’—this being an instance of the compound that drops its last
-term. The word ‘atheist’ by itself would be sufficient; the term
-‘behaviour’ has been introduced for the purpose of filling up the metre.
+‘*Who subsists* *by gambling*’—The man for whom gambling is the means of
+subsistence.
 
-Or, the term ‘*nāstikavṛttayaḥ*’ may be taken to mean ‘those who derive
-their livelihood from atheists.’
+“Such a person has already been mentioned in the preceding verse.”
 
-These Manu has declared to be undeserving of the offerings made at the
-rites performed in honour of gods and Pitṛs.
+But the person who helps people to gamble (The ‘keeper of a gambling
+house, mentioned before) is not necessarily one who makes a living by
+it; in fact, it is one who himself does not know gambling, or who does
+not do it through fear of his elders; hut, being addicted to it as an
+amusement, he always makes others gamble; and it is for excluding this
+kind of man that we had the second ‘*Kitava*’ (in the preceding verse;
+the word ‘*Kitava*’ having been first included in verse 151).
 
-The name of ‘Manu’ has been added for the purpose of lending force to
-the prohibition; as, in reality, all duties have been described by
-Manu.—(150)
+Or, the term ‘*dyūtavṛtti*’ may stand for those who, without any money
+themselves, are constant dummy visitors at gambling places.
+
+He whose son is his *teacher*; it is not possible for the son to be his
+father’s ‘*ācārya*’ in the real sense of this term.—(160)
 
 

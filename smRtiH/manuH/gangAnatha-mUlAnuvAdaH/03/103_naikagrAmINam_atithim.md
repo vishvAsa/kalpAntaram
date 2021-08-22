@@ -3,4 +3,4 @@ title = "103 नैकग्रामीणम् अतिथिम्"
 
 +++
 
-The Brāhmaṇa who thus daily honours all beings, becomes endowed with a body of light, and goes to the highest place, by the straight path.—(93)
+One should not regard as “guest” a Brāhmaṇa who lives in the same village or who is a companion. He should regard him as such when he arrives at his house, or where the wife and the fires are at the time.—(103)

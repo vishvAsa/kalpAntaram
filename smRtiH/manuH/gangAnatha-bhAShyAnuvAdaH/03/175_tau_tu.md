@@ -2,27 +2,18 @@
 title = "175 तौ तु"
 
 +++
-‘*Right* *conduct*’ stands here for the ordinary acts of courtesy, such
-as offering worship to persons coming to one’s house, and so forth;—he
-who is devoid of this.
+The plural number in ‘*prāṇinaḥ*,’ ‘*creatures*,’ is according to Pāṇini
+1.2,58.
 
-^(‘)*Without vigour*’—*i.e*., with very little energy; who has lost all
-enthusiasm for doing his duties.
+These people do not deserve the names of ‘*Brāhmaṇa*,’ and the rest; and
+they only deserve to be called ‘creatures;’ they are not worthy of any
+other name. For this reason, they ‘*cause the destruction of the
+offerings to gods and Pitṛs*;’—*i.e*.,. they render them fruitless—‘*for
+the givers*’—those who give it to them.
 
-‘*Constant beggar*’—one who is always begging, he who teases people by
-his begging; it is in the very nature of things that begging should
-displease the person bagged from. The term ‘*yācanakaḥ*’ is formed with
-the ‘*yu*’ affix, according to Pāṇini 3.1.134, and then the reflexive
-‘*ka’* added to it.
-
-‘*He who lives by agriculture*’—by doing the cultivating himself; or
-even by the cultivating done by others, if other means of living are
-available.
-
-‘*One suffering form elephantiasis*’—whose one leg is thicker than the
-other,
-
-‘*He who is spoken ill of by good men*’—the unfortunate man, who is
-despised by good men, even without doing anything wrong.—(165)
+The terms ‘*parivettṛ*’ (superseder) and the rest are not sufficiently
+well known in ordinary usage; nor are they capable of being
+etymologically analysed. Hence, the author has provided the definition
+of these.—(175)
 
 

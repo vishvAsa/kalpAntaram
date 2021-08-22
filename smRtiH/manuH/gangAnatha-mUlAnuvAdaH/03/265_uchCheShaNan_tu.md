@@ -3,4 +3,4 @@ title = "265 उच्छेषणन् तु"
 
 +++
 
-The afternoon, Kuśa-Grass, setting up of the dwelling, sesamum grains, liberality, cleaning and superior Brāhmaṇas;—these are the essentials of Śrāddha-rites.—(255)
+The leavings shall remain until the Brāhmaṇas have been dismissed. After that, he should make the domestic offerings. Such is the established law.—(265)

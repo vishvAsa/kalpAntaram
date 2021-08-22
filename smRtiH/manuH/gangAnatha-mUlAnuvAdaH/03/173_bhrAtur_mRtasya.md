@@ -3,4 +3,4 @@ title = "173 भ्रातुर् मृतस्य"
 
 +++
 
-He who diverts water-courses, he who is addicted to obstructing them, the house-planner, the messenger and 
+He who would lasciviously make love to the wife of his dead brother, even though she may have been appointed according to law (to bear a child by him), should be known as the “didhiṣūpati.”—(173)

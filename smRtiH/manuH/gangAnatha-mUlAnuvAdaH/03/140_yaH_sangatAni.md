@@ -3,4 +3,4 @@ title = "140 यः सङ्गतानि"
 
 +++
 
-From far off one should examine the Brāhmaṇa thoroughly versed in the Veda; such a one is the proper channel for offerings to gods and Pitṛ and in the matter of gifts he has been declared to be the guest.—(130)
+The man who, through folly, makes friendships by means of Śrāddhas,—that meanest of twice-born men, having the Śrāddha for his friend, falls from the regions of heaven.—(140)

@@ -2,5 +2,8 @@
 title = "227 भक्ष्यम् भोज्यम्"
 
 +++
-*Laghu-Āśvalāyana* (13.75).—‘Having taken leave with the mantra, *Atra,
-etc*., he shall turn towards the north and restrain his breath.’
+**(verses 3.226-228)  
+**
+
+See Comparative notes for [Verse
+3.226](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200015.html#comparative-notes "English translation of verse").

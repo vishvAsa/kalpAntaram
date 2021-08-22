@@ -3,4 +3,4 @@ title = "228 उपनीय तु"
 
 +++
 
-The remaining water he should gently pour near the balls; and with collected mind he should smell those halls in the order in which they were offered.—(218).
+Having gently brought up all this, he shall, with collected mind and pure, serve it,—describing all its qualities.—(228)

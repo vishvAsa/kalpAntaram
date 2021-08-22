@@ -2,29 +2,30 @@
 title = "255 अपराह्णस् तथा"
 
 +++
-In connection with infants who have not completed their third year, it
-is going to be said that ‘cremation shall not be performed for him;’ it
-is these that are spoken of here as ‘*those who have died without
-sacraments*.’
+The *Śrāddha* should be performed in the afternoon.
 
-‘*The remnant*’—contained in the dishes; as also ‘*what is scattered on
-the Kuśa*’ forms their ‘*share*’ The term ‘*bhāgadheya*’ is the same as
-‘*bhāga*.’
+‘*These are the essentials* *of* *Śrāddha rites*,’—*i.e*., attempt
+should be made to bring about all these things.
 
-This does not mean that these persons are not helped by the *śrāddha*.
+Though the present text mentions the ‘afternoon’ without reference to
+any particular *Śrāddha*, yet it is not to be observed in connection
+with *all* Śrāddhas: for we have another Smṛti-text to the effect
+that—‘rites in honour of the gods shall he performed in the forenoon;
+that in honour of the Pitṛs in the afternoon; the Śrāddha offered to a
+single person shall be performed at mid-day, while that in connection
+with auspicious rites shall be performed in the morning.’
 
-^(‘)*Those who* *hare* *abandoned*’—their elders. Or, ‘those who have
-abandoned the ladies of their family, without finding any fault in
-them.’ According to the former explanation, the term ‘*Kulayoṣitām*’ is
-to be construed by itself, and taken to mean ‘unmarried maidens.’
+‘*Dwelling*’—house; the ‘*setting* *up*’ ‘of this consists in the
+white-washing of the walls with lime etc., the smearing of the floor
+with cowdung; having its slope to wards the south.
 
-For the reason stated, the remnant should be offered to the persons
-mentioned.
+‘*Liberality*’—charity; *i.e*., unstinted giving away of food and
+vegetables.
 
-It would not be right to raise the question—“Since the remnant would be
-unclean, how could it be offered as the said share?”—because, in view of
-this very text, there is no uncleanliness attaching to the remnant; just
-as there is none in the case of the remnant of Soma-juice (at the
-Soma-sacrifices).—(245)
+‘*Cleaning*’—washing; *i.e*., a particular maimer of preparing the food.
+
+Others have explained this verse to mean that these things constitute
+the ‘excellence’—the superiority—of the rites,—and not that they shall
+not be performed without these.—(255)
 
 

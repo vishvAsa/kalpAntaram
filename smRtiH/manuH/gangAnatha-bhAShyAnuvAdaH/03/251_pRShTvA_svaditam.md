@@ -2,32 +2,26 @@
 title = "251 पृष्ट्वा स्वदितम्"
 
 +++
-The cock defiles by the wind raised by its wings.
+After food, drink and water for sipping have been offered, the guests
+should be questioned—with the words ‘have you eaten well?’
 
-The meaning of this verse has already been explained above (under 239);
-the sense is that the proximity of these should be avoided up to such
-distance that they may not be able to see the performance.
+According to another *Smṛti*, the question should be put by the host,
+food in hand. It is the nature of some people that if the food is not
+near at hand, they do not ask for it, even though they may have desire
+for it, fearing the trouble they would cause; but if the food is close
+by, they take it.
 
-‘*The man born of the low caste*’—here meant is the *Cāṇḍāla*; as it is
-this that has been spoken of above.
+‘*After they have been fully satisfied, he shall make them wash*.’
 
-It has been already explained above that the actions of *touching* and
-the rest stand here for the action that has been mentioned above (in
-239), and not for these actions themselves. For this reason, there is no
-room for the following criticism.—“The touch of the *Cāṇḍāla* being
-already prohibited generally, there could be no possibility of such
-touching, and hence the prohibition here contained becomes superfluous;
-hence the ‘man born of the low caste’ must be taken as the *Śūdra*; and
-what is prohibited is the Śūdra touching the *Śrāddha*, etc., offered by
-twice-born men, but not those performed by himself.”
+Others have explained this to mean that the guests should be put the
+question—‘Are you fully satisfied?’ And when they have ascertained the
+fact of their having been fully satisfied, they should be further
+propitiated by the question—‘Have you dined well?’ It is going to be
+declared (under 254) that ‘at the rite in honour of the Pitṛs one should
+say *Have you dined well?*’
 
-Even if the actions of *touching*, etc., stand for themselves,—what is
-meant is not that evil results from the Cāṇḍāla touching the articles of
-food and drink, but that he should not touch the unsheltered spot on the
-river-bank and such other places that has been selected for the
-performance; as the impurity caused by such contact has been described
-as removed by wind and fire. And thus, inasmuch as the touch of such
-persons would be quite possible (under the circumstances just
-described), it is only right that it should be prohibited.—(241)
+‘*When they ham washed, he shall say &c*.’—‘*Where you choose*’—*i.e*.,
+at either of the two places,—here or at your own house, you may take
+your rest, in any manner you choose.—(251)
 
 

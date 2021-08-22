@@ -2,15 +2,13 @@
 title = "283 यद् एव"
 
 +++
-‘*Whatever*’—*food*—‘*mixed with honey*;’—‘*on the thirteenth day,
-during the rains*, *and under the asterism of Maghā*,’—‘*that is
-imperishable*,’ The season, the asterism and the date are to be taken
-together as the desired qualification.
+The present verse sets forth an option to the daily *Śrāddha* that has
+been prescribed in connection with the ‘Five Sacrifices.’
 
-According to the declaration of Āpastamba, the same holds good regarding
-offerings made during the rains, on the thirteenth, eighth and tenth
-days of the month also. As regards the asterism of Maghā, however, there
-is no option; as he says—‘there is abundance under the asterism of
-Maghā,’ (Āpastamba, 2.8.19-20).—(273)
+The ‘offering of water’ that is made after bath,—by that he obtains the
+reward of the offering to the Pitṛs. That is, it is not absolutely
+necessary to do what has been said (in 3.83) regarding the feeding of at
+least one Brāhmaṇa and the rest of it. It is only the *Water-offering*
+that must be made.—(283).
 
 

@@ -3,4 +3,4 @@ title = "169 अपाङ्क्तदाने यो"
 
 +++
 
-One quarrelling with one’s father, the keeper of a gambling house, the drunkard, one afflicted with a foul disease, one accused of sins, the hypocrite, and the dealer in essence.—(159)
+I am going to describe fully the results that afterwards accrue to the giver from giving, out of the offering to gods and to Pitṛs, to one who is unworthy of the line.—(169)

@@ -3,4 +3,4 @@ title = "128 श्रोत्रियायैव देयानि"
 
 +++
 
-He who cooks for himself eats only sin; for the eating of good mem has been described as the eating of the remains of sacrifices.—(118).
+Food offered to the gods and that offered in the Pitṛs are to be given to the most deserving; Brāhmaṇa learned in the Vedas. What is given to him is conducive to great results.—(128)

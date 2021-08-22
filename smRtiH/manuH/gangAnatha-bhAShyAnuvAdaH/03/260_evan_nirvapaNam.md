@@ -2,29 +2,13 @@
 title = "260 एवन् निर्वपणम्"
 
 +++
-They say that the term ‘*vṛṣalī*’ in this verse stands for *woman*
-generally; and in this sense they explain the etymology of the term to
-mean—‘*vṛṣasyati’—chālayati*, ‘moves’—‘*bhartāram*.’ ‘her husband,’ Be
-this woman a *Brāhmaṇī* or any other caste—all are prohibited. Says
-another *Smṛti* (Gautama, 15.23)—‘On that day he shall remain firmly
-continent.’
+‘*After this*’—after the offering of the balls.
 
-‘*Bed*’ denotes *sexual intercourse*; the prohibition does not apply to
-merely *entering the bed*.
+‘*The balls*’—that have been offered to the Pitṛs—‘he should make the
+cow, etc. to eat.’ In the case of the fire, the ‘making to eat’ would
+consist in their being thrown into the fire.
 
-‘*Day*’ stands for day and night; hence the prohibition applies to the
-night also.
-
-‘*Ordure*’—this is a deprecatory exaggeration, intended to dissuade men.
-
-‘*His ancestors*’—*i.e*., the ancestors of the man eating at the
-*śrāddha*.
-
-This also has to be explained as before; that is, the rule applies to
-both (the feeder and the eater). As regards the eater, what is here laid
-down is only ‘circumstantial;’ that is, it is enjoined as to be observed
-by him only when the circumstance of eating at *śrāddhas* is present.
-From the context, however, it is clear that it pertains to the Rite (and
-hence to the Performer) also.—(250)
+‘*Prāpayet*’ ( offer) is another reading for ‘*prāśayet*’ (make to
+cat).—(260)
 
 

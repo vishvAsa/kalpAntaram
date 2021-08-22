@@ -3,4 +3,4 @@ title = "187 पूर्वेद्युर् अपरेद्युर्
 
 +++
 
-The blind man, by looking, destroys the feeder’s reward for feeding ninety men, the one-eyed man of sixty, the leper of one hundred, and the man afflicted with a foul disease of a thousand.—(177)
+When the śrāddha-performance has approaohed, one should invite, either on the preceding day or the next day, in the proper manner, at least three brāhmaṇas, such as have been described.—(187)

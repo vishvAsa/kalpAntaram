@@ -3,4 +3,4 @@ title = "229 नाऽस्रम् आपातयेज्"
 
 +++
 
-Having, in due order of sequence, taken very small portions out of the halls, he shall first feed those same seated Brāhmaṇas with them, in accordance with role.—(219).
+Never should he shed tears; nor should he become angry; nor tell a lie. He should not touch the food with his foot, nob shake it.—(229)

@@ -3,4 +3,4 @@ title = "245 असंस्कृत-प्रमीतानान् त्�
 
 +++
 
-Three things are sacred at Śrāddhas—the daughter’s son, blanket and sesamum, and they commend three things in this connection—cleanliness, absence of anger and absence of haste.—(235)
+The remnant and that which has been scattered on the Kuśa grass form the share of those who have died without sacraments, and of those who have abandoned family ladies.—(245)

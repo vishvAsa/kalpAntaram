@@ -3,4 +3,4 @@ title = "142 यथेरिणे बीजम्"
 
 +++
 
-Offerings for gods and Pitṛs should be given to one who is distinguished by knowledge; for hands smeared with blood are not cleansed by blood.—(132)
+Just as having sown the seed in barren soil, the sower reaps no harvest,—even so, having given the offerings to one ignorant of the Veda, the giver obtains no reward.—(142)

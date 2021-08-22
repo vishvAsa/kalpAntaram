@@ -2,19 +2,10 @@
 title = "268 द्वौ मासौ"
 
 +++
-The preceding verse was only by the way; the present verse takes up the
-thread of the context.
+‘*Urabhra*’—Sheep.
 
-‘*Dismissed*’—having permitted them to go wherever they please.
+‘*Birds*’—Wild cocks, etc.
 
-‘*Those Brāhmaṇas*’—who have dined.
-
-After this, looking towards the southern direction, he should
-‘*beg*’—ask for—the following ‘*boom*’—desirable things —‘*of his
-ancestors*;’ thinking all the time of his ancestors. He should beg—with
-such words as—‘may this and this be mine after you have been
-satisfied.’—(258)
-
-The next verse describes what the boons are that should he begged.
+‘*fish*’—*Pāṭhīna*, and the rest.—(268)
 
 

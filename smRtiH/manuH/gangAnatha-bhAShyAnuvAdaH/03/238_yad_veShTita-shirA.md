@@ -2,19 +2,28 @@
 title = "238 यद् वेष्टित-शिरा"
 
 +++
-‘*Having brought* *up*’—having presented before the Brāhmaṇas,—‘*he
-shall serve it*’—which means the placing of it in the dish in which the
-person eats. Though all that is meant by ‘serving’ is the placing of the
-food within reach of the diner,—yet this placing should be done in such
-a way that among the several persons dining, the articles of food shall
-not flow from one man’s dish into another’s.
+‘*Wound up*’—with turban and such other things. The Northerners cover
+their heads with cloth.
 
-‘*Qualities*,’—*i.e*., those qualities of the Hard and Soft food, which
-consist of acidity, etc.,—these he should describe, saying—‘this is
-acid—this is sweet,—this is a pastry’ and so forth. When they have been
-thus apprised, ‘he should give them whatever they relish most’—this has
-to be construed from what follows later on (in verse 231).
+Some people explain that this refers also to persons who cover their
+heads with their hairs Arranged in the form of a top-knot. Rut what they
+say is not reasonable; as, in this case, it is the *hair* that is ‘wound
+up,’ not the *head*; and the *hairs* do not form the *head*; in fact,
+they are *on the head*. The prohibition does not apply to threads and
+such things; as such things are not regarded as ‘covering’ the head.
 
-‘*Gently*’—this is a reiteration for filling up the metre.—(228)
+What is meant by indicating the facing of the south as defective is
+that, when there is want of space, eating with face towards all
+directions *except the south* is permissible. If this were not meant,
+where would there be any possibility of anyone eating with face to the
+south, when it has been distinctly enjoined that one should eat facing
+the north?
+
+‘*Shoes*’—foot-guards made of leather. Some people explain this as
+sandals of leather.
+
+‘*The demons eat*,’—and not the Pitṛs.
+
+This is deprecatory of the conditions described.—(238)
 
 

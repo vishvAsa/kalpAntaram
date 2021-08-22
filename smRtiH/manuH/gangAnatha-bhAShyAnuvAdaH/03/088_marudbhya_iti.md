@@ -2,33 +2,26 @@
 title = "088 मरुद्भ्य इति"
 
 +++
-‘*Because men in all the three states are sustained*’—*i.e.,
-helped*—‘*with knowledge*’—*i.e*., knowledge brought about by the
-expounding of the meaning of the Veda—‘*and food*,’ by the
-Householder,—therefore, ‘*the Householder’s state is the highest*’—best.
+The particle ‘*iti*’ is meant to lay stress upon the exact form of the
+words to be used.
 
-If we read ‘*gṛhī*’ for ‘*gṛham*,’ the compound ‘*jyeṣṭhāśramaḥ*’ should
-be expounded as a *Bahuvrīhi*; while with reading ‘*gṛham*’ it is
-*Karmadhāraya*.
+‘*In water*’—this specifies the receptacle of the offering; and ‘*to
+Apas*’ indicates the deity to whom the offering is to be made.
 
-Here also the specification ‘*by Householders only*’ serves only to
-re-iterate what is right and proper, and it does not mean that persons
-in the state of the Recluse and others are not to do the work of
-teaching. In fact, for the Recluse the work of teaching has been
-specially enjoined in the verse—‘he should perforin these great
-sacrifices, etc.’ (below, 6. 5). As for the Renunciate, it is true that
-the according of any help to anybody has been prohibited by the rule—‘he
-should take no part in injuring or helping’ (*Gautama* 3. 24-25); but
-the expounding of the meaning of the Veda has been actually enjoined
-among the duties of the Mendicant. Further, for the Recluse and the
-Renunciate, much effort would not be needed in the expounding of the
-Veda, as they are required to cultivate a high degree of knowledge,
-dispassion, thought-power and practice. As for the Religious Student,
-the work of teaching would interfere with his own proper work (of
-study); and as for the gift of food, how could this be possible for him,
-when he himself has been advised to live on alms?
-
-Thus, since it is for the Housholder alone that the two are generally
-possible, the text has used the phrase ‘*by Householders only*.’— (78)
+‘*Saying “this to Vanaspatis,” on the pestle and mortar*; the singular
+number in the Copulative Compound ‘*musalolūkhale*’ would indicate that
+the two things are not two optional alternative receptacles; and, since
+two receptacles are mentioned, the right. course would appear to be that
+there should be a repetition of the oblation, which is the principal
+factor; specially, as it is not possible for the pestle and the mortar
+to be unified and then serve as a receptacle for the offering; as the
+two will ever remain distinct; they can never be mixed up like milk and
+water; so that if the oblation is poured on the mortar, it is not poured
+on the pestle; and if it is poured on the pestle, it is not poured on
+the mortar; nor is it possible for the oblation to be poured in parts
+(over the two receptacles); as the exact quantity of the oblation has
+been fixed by law. With all this, in view of the copulative compound, it
+appears best that the oblation should be poured on one of the two things
+mentioned (*i.e*., either on the pestle or on the mortar).—(88)
 
 

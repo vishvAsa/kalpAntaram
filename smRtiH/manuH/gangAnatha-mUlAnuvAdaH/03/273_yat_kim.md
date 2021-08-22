@@ -3,4 +3,4 @@ title = "273 यत् किम्"
 
 +++
 
-She brings forth a long-lived son, endowed with fame and intelligence, wealthy, with numerous offspring, good and righteous.—(263)
+Whatever thing, mixed with honey, one might offer on the thirteenth day of the month, during the rains, under the asterism of Maghā,—that also would be imperishable.—(273)

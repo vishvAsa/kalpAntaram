@@ -3,4 +3,4 @@ title = "158 अगारदाही गरकूटकारकः"
 
 +++
 
-One may feed the maternal grandfather, the maternal uncle, the sister’s son, father-in-law, the teacher, the daughter’s son, the son-in-law, a relative, the priest and him at whose sacrifices the performer officiates.—(148)
+The house-burner, the poisoner, one who eats the food of an adulteress’ son, the seller of Soma, the sea-voyager, the bard, the dealer in oils, and the perjuror.—(158)

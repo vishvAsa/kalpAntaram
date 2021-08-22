@@ -3,4 +3,4 @@ title = "246 उच्छेषणाम् भूमिगतम्"
 
 +++
 
-All the food should be very hot, and they should eat with controlled speech; when asked by the giver, the Brāhmaṇas should not describe the qualities of the sacrificial food.—(236)
+At the rite in honour of the Pitṛs, the remnant fallen on the ground is regarded as the share of straightforward, dutiful servants.—(246)

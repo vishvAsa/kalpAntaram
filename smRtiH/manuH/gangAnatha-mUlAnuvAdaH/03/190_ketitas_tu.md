@@ -3,4 +3,4 @@ title = "190 केतितस् तु"
 
 +++
 
-What is given to the Soma-seller becomes ordure; to the physician, pus and blood; that to the temple-attendant becomes lost; and that to the usurer has no place.—(180)
+The rest of Brāhmaṇas, who, when duly invited at the rite in honour of Gods and Pitṛs, happens, somehow, to neglect it, incurs sin and becomes a hog.’—(190)

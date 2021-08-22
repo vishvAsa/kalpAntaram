@@ -2,28 +2,73 @@
 title = "100 शिलान् अप्य्"
 
 +++
-The particle ‘*eha*’ indicates that there is only one oblation.
+Even for one who is extremely poor it is not right to omit the honouring
+of the guest.
 
-‘*To the Viśvedevas*’ the offering is to be thrown up into the
-sky—either within the house, or outside the house.
+‘*Harvest-droppings*’— Ears of corn dropped in the fields after
+harvesting.
 
-During the day, the offering should be made to the ‘elementals roaming
-in the day,’ and during the night it should be made to those ‘roaming at
-night;’—‘elementals’ being construed both ways.
+‘*Gathering*’—Collecting.
 
-Some people explain that these two offerings pertain respectively to the
-morning and evening.
+This is meant to indicate difficulty of livelihood in general.
 
-But this is not right, as the evening-oblation is to be offered without
-any words, as is going to be mentioned below (verse 121).
+‘*Offers oblations into the five fires*.’
 
-“But what is mentioned there may mean simply that the articulate
-dedication of the offering is forbidden; but what is there to prevent
-the mental (silent) dedication? In fact, without some such dedication
-the offering would not be an ‘offering’ at all.”
+What is meant by this is that, even if the householder is one who obeys
+all the injunctions of the scriptures, and he is also poor, and
+(therefore) does not honour, with food &c., the guest that happens to
+arrive,—then the said strict observance of the laws of livelihood
+becomes fruitless. Hence (it is said) that the guest ‘*takes away all
+his merit*’—*i.e*., nullities it;—if he ‘*stays unhonoured*.’ Hence one
+should honour the guest—this is the meaning of the injunction.
 
-But what you have got to explain is—from where you have learnt this
-distinction. If it is one that has been made by authors of the
-(*Gṛhyasūtras* themselves;—then it may be as you say.—(90)
+The term ‘*slays*’ indicates that the injunction pertains to one who
+arrives in the evening.
+
+The ‘*five fires*’ are—The ‘Tretā’ (Three Sacrificial Fires), (4) the
+‘*Gṛhya*’ (Domestic Fire) and (5) the ‘*Sabhya*’ (Social Fire).
+
+“What is the fire called ‘*sabhya*,’ Social’?”
+
+They offer the following explanation:—When one goes to another village,
+and cooks his food in the ordinary fire;—or, in the house of a rich man
+fire is lighted in several rooms for the alleviation of cold,—this is
+what is called the ‘*sabhya*,’ ‘social’, ‘fire’.
+
+“In that case, what is the *oblation* that would be offered in such a
+fire? Since the rule is that⁽the *gṛhya* oblations are to be offered in
+that fire (which is set up after marriage or after succession)’ \[
+*Gautama* 5.7 & 8\]”.
+
+On the strength of the present verse itself they say that, when the man
+is away from home, he may offer the Vaiśvadeva oblations in the ordinary
+fire also; and they quote the Smṛti-text—‘wherever one happens to see a
+well-lighted flaming fire, he should offer into it oblations of dry
+paddy, or of *vrīhi* and *yava*.’
+
+Our revered teachers, however, offer the following explanation:—It is in
+the Upaniṣads that the⁽science of the Five Fires’ has been described;
+these five forms of fire have been assumed; and what is called
+‘oblation’ here is the act of recognising the fire and worshipping it in
+those forms. This worshipping has been recognised as leading to results
+superior to those accomplished by means of all the *Śrauta* rites. In
+connection with this, it has been declared that—‘the theft of gold, the
+drinking of wine, having intercourse with the teacher’s wife and one who
+kills the Brāhmaṇa,—all these four are fallen, as also one who has
+relations with these \[ and even these sins are purified by the
+knowledge of the science of Five Fires\].’
+
+The result of all these five becomes lost if the guest is not honoured
+and is sent away; this exaggerated praise is meant to convey the idea
+that the said honouring of the guest is absolutely necessary.
+
+In connection with the morning breakfast also there is the rule that the
+guest should be fed; but the omission of it in the evening entails the
+penalty of a higher expiatory site.
+
+Some people do not take the phrase ‘to the best of his ability’ in the
+preceding verse as applying to the ‘food; and they assert the meaning to
+be that ‘guests should be honoured to the best of one’s ability—*i.e*.,
+one or two or many (as many as one can).’—(100)
 
 

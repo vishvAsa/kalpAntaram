@@ -3,4 +3,4 @@ title = "264 प्रक्षाल्य हस्ताव्"
 
 +++
 
-At the rite in honour of the Pitṛs, one should say “svaditam” (well-dined); at the Goṣṭha, “suśṛtam” (well-cooked); at the Ābhyudayika rite, “sampannam” (accomplished); and at the rite in honour of the gods, “rucitam” (agreeable).—(254)
+Having washed the hands and sipped water, he should make offerings to his paternal relations; and having treated his paternal relations well, he should feed his other relations also.—(264)

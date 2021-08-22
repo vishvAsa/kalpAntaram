@@ -2,5 +2,4 @@
 title = "153 प्रेष्यो ग्रामस्य"
 
 +++
-
-The presenting of the gift, according to rule, to the learned makes the givers and receivers partakers of reward, here as well as after death.—(143)
+The servant of a village and of the king, one with deformed nails, one with black teeth, the opposer of his superior, one who has forsaken the Fire and the usurer.—(153)

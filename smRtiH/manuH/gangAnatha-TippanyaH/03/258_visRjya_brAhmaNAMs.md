@@ -2,21 +2,22 @@
 title = "258 विसृज्य ब्राह्मणांस्"
 
 +++
-Burnell is wrong in saying that ‘verse 248 is apparently omitted by
-Medhātithi’ It is strange that scholars of the ‘Critical School’ should
-be making such statements on the strength of Mss. which they know to be
-imperfect and incomplete.
+The second half of this verse is quoted in *Smṛtitattva* (p. 183), which
+adds the following notes:—Vācaspati Miśra has explained this to mean
+that ‘though actually facing the East, the man should, *in thought* face
+the South’; but this is not right; as Gobhila has distinctly laid down
+that the man should be actually facing the South.—Nor is there any
+reason for taking the words of Manu in that sense; it is for this reason
+that the commentators have explained the phrase ‘*dakṣiṇām
+diśamākāṅkṣan*’ as ‘looking towards the South’.
 
-This verse is quoted in *Smṛtitattva* (p. 802) as likely to be
-interpreted as indicating the ‘offering of the Ball’ to be the principal
-factor. It combats this view and adds that in the compound
-‘*piṇḍanirvapaṇam*’ the term ‘*piṇḍa*’ is to be understood as synonymous
-with ‘*pitṛ*’, so that what the compound means is ‘offering to the
-Pitṛs.’
-
-*Medhātithi* (P. 286, l. 14)—‘*Sapiṇḍīkaraṇaśrāddham* *&c*.’ This
-appears to be a paraphrase of the verse, which is quoted also in
-*Mitākṣarā* (on ll. 253-254), where, however, the reading is ‘*pretānna
-nirdishet*.’ See below Bhāṣya, p. 289, ll. 15-20.
+The verse is quoted in *Śrāddhakriyākaumudī* (p. 207), which has the
+following notes:—‘facing the East but looking sideways towards the
+South’; Kullūka has explained ‘*ākāṅkṣan*’ as *looking towards*; but
+such is not the meaning of the word;—and in *Hemādri* (Śrāddha, p.
+1483), which explains the meaning as—‘Dismissing them, to go their way,
+rising and following them and bringing them to the place for washing the
+feet, and then looking towards the South, should ask for the desired
+boons.’
 
 

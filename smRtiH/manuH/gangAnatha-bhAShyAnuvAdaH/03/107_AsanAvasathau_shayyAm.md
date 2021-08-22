@@ -2,34 +2,23 @@
 title = "107 आसनावसथौ शय्याम्"
 
 +++
-The preceding verse has described the person to whom presents are to be
-made; the present verse proceeds to prohibit the giving of presents to
-unqualified persons.
+When several guests of several grades—superior, inferior and
+equal—arrive at the same time, then the seat, &c., that are offered to
+them should not all be of the same quality; they should be in accordance
+with their relative merits.
 
-‘*Become lost*’—become fruitless.
+‘*Seat*’— the mat, and so forth.
 
-‘*Rites in honour of the gods*’—Such acts as the feeding of Brāhmaṇas
-and the like, which are done in honour of the gods.
+‘*Room*’—place for resting.
 
-‘*Rites in honour of the Pitṛs*’—those that form part of the acts done
-in honour of one’s ancestors; *i.e*., *Śrāddhas*.
+‘*Bed*’—bedstead, &c.
 
-‘*Ash-like*—those who hav *become ashes* are called ‘*bhasmabhūta*. Or,
-the term ‘*bhūta*’ may mean *similarity*; hence the word ‘*bhasmabhūta*’
-means ‘*ash-like*;’ just as in the compound ‘*kāṣṭhabhūta*.’
+‘*Following*’— going after him when he goes.
 
-“What is the point of similarity between *ash* and the *Brāhmaṇas?*”
+‘*Attendance*’— keeping near him and entertaining him with conversation.
 
-The meaning is that, just as the ash is of no use, and is mere refuse
-and deserves only to be thrown away, so the Brāhmaṇa in question is to
-be removed from all religious functions.
-
-‘*Made by ignorant men*’— this is to be construed with ‘*become lost*.’
-
-‘*Presented by givers through folly*’—‘ignorant’ and ‘folly’ are only
-re-iterations. Anything that is prohibited in the scriptures is done
-only through folly.
-
-The next verse describes what sort of Brāhmaṇas are not ‘ash-like.’—(97)
+All this should be ‘*of the best kind, to superiors*.’ &e.,—*i.e*., the
+superior guest should be followed to a great distance; the medium guest,
+not very far: and the inferior, only a few steps.—(107)
 
 

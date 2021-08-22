@@ -2,10 +2,24 @@
 title = "214 अपसव्यम् अग्नौ"
 
 +++
-This verse is quoted in *Aparārka* (p. 476), which explains ‘*ārakṣa*’
-as equivalent to ‘*rakṣaṇa*’;—in *Gadādharapaddhati* (Kāla, p. 426),
-which explains ‘*ārakṣabhūtam*,’ as some little (not complete)
-safeguard;—and in *Śrāddhakriyākaumudī* (p. 54) as indicating the
-importance of Daiva Śrāddha.
+‘*Apasavyam*’—‘In such a manner that they tend towards the South’
+(Medhātithi);—‘Passing the sacrificial thread over the right shoulder
+under the left arm’ (Nārāyaṇa);—‘with the right hand’ (‘others’ in
+Medhātithi, which he rejects).
+
+‘*Āpasavyena hastena*’—‘With the right hand’ (Kullūka). This
+explanation, which Buhler wrongly attributes to ‘others’ (in
+Medhātithi), is really put forth by Medhātithi in connection with the
+former term ‘*Apasavyam*’, and not the second expression ‘*Āpasavyena
+hastena*.’ Nor is it right to say that according to Medhātithi this
+second expression means ‘out of the Tīrtha of the right hand which is
+sacred to the Manes’; because, as a matter of fact, Medhātithi has given
+no explanation of this expression at all. Buhler seems to have got an
+imperfect copy of Medhātithi; or did he not pay careful attention to
+reading it?
+
+This verse is quoted in *Madanapārijāta* (p. 601) without any
+comment;—and in *Hemādri* (Śrāddha, p. 1321) as distinctly laying down
+the ‘*Prācīnāvīta*’.
 
 

@@ -2,12 +2,20 @@
 title = "231 यद् यद्"
 
 +++
-The pronouncing of the Father’s name stands here for his invitation,
-offering of the ball and the feeding of Brāhmaṇas.
+Whatever food, vegetable or drink they may ask for,—all this he shall
+give ‘*ungrudgingly*’—without the least hesitation or covetousness. The
+term ‘*matsara*’ stands here for *avarice*.
 
-‘*Should mention the great-grandfather*;’—*i.e*., he should not make any
-offering to the living grandfather; it should be made to his previous
-ancestors; as it has been declared that ‘one should make offerings to
-his father’s ancestors.’—(221)
+‘*Be agreeable to*’—*i.e*., cause pleasure to.
+
+‘*Told in the Veda*’—those that are related in the Veda; such, *e.g*.,
+as the story of the war between the gods and demons, that of the death
+of Vṛttra, the doings of Saramā, and so forth. Or, it may stand for such
+stories as ‘*Kaḥ svidekākī charati*,’ etc. (Vājasaneya Saṃhitā, 23.9).
+
+Another reading is ‘*brahmādyāśca kathāḥ*’—*i.e*., discourses, in
+ordinary language, upon the meaning of mantras bearing upon Brahman.
+
+‘*This is liked by the Pitṛs*;’—this is a commendatory supplement.—(231)
 
 

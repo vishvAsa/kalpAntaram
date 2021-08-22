@@ -2,6 +2,9 @@
 title = "269 षण्मासांश् छागमांसेन"
 
 +++
-This has to be recited like a Mantra-text—(259)
+‘*Ruru*,’ ‘*pṛṣat*’ and ‘*eṇa*’ denote special varieties of the deer.
+
+In the terms ‘*raurava*,’ ‘*pārṣata*,’ and ‘*aiṇeya*’ the nominal affix
+denotes *arising from*.—(269)
 
 

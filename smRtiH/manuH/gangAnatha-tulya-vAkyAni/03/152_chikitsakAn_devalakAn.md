@@ -2,7 +2,8 @@
 title = "152 चिकित्सकान् देवलकान्"
 
 +++
-*Mahābhārata* (Anuśāsana, 90.45).—‘As seed sown in barren soil does not
-germinate and the sower does not reap even a part of the seed, so also
-the Śrāddha partaken of by undeserving persons confers no benefits
-either here or elsewhere.’
+**(verses 3.150-166)  
+**
+
+See Comparative notes for [Verse
+3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").

@@ -2,16 +2,18 @@
 title = "218 उदकन् निनयेच्"
 
 +++
-*Viṣṇu* (73.2).—‘On the second day, in the forenoon during the brighter
-fortnight,—and in the afternoon during the darker fortnight,—he shall
-seat on seats covered with kuśa-grass, the Brāhmaṇas who have bathed and
-rinsed their mouths, in the order of their learning.’
+*Viṣṇu* (73.23-24).—‘With the mantra *ūrjam vahantīḥ*, etc., he shall
+pour water over the balls and then offer washing-water, flowers,
+sandal-paste and articles of food, as also the cup of water mixed with
+honey, butter and sesamum.’
 
-*Yājñavalkya* (1.226).—‘During the afternoon, having respectfully
-welcomed the Brāhmaṇas that have come and have rinsed their mouth, he,
-with clean hands, shall seat them on seats.’
+*Laghu-Āsvalāyana* (13.76-77).—‘With the mantra
 
-*Āśvalāyana-Gṛhyasūtra* (4.7.2).—‘The Brāhmaṇas equipped with learning,
-character, and excellent conduct, who may have arrived at the same time
-and have washed their feet and rinsed their mouths,—these he shall seat,
-as if they were his forefathers, with faces turned towards the north.’
+*Amimadanta*, etc., he shall turn back and then eat the remnant of the
+cooked food; or, according to some, only smell it;—he shall then
+sprinkle water over the balls, as before, with the mantra *Śundhantām*,
+etc.
+
+*Bṛhaspati* (Aparārka, p. 508).—‘Having worshipped the water-pot with
+sandal, flowers, garlands, incense, lamp, cloth and unguents, he should
+pour ṭhe water on the balls.’

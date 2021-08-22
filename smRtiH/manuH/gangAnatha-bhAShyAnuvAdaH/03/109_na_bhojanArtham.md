@@ -2,20 +2,24 @@
 title = "109 न भोजनार्थम्"
 
 +++
-‘*That has happened to come*’—*i.e*., who has come of his own accord,
-and has not been invited; one who has been invited is not a ‘guest.’ The
-proper place where the guest is to arrive shall be described later
-on—‘where the wife and the Fires are, &c., &c.’ (103).
+This verse contains an advice offered, by the way, to the guest.
 
-‘*Water and seat he should offer*;’—first of all he should offer water
-for the washing of his feet, and then the seat; ‘*and also food*.’
+Seeking for food, he shall not say—‘I belong to such and such a family,
+I am the son of so and son; in this fashion he shall not advertise his
+‘family or *gotra*.’ The ‘*family*’ consists of his father, grandfather,
+and so forth;—‘*gotra*’—may stand either for such Ṛṣi-names as
+‘*Garga*,’ ‘*Bhārgava*,’ etc.; or for one’s *name*. That the term
+‘*gotra*’ means *name* also is shown by such usage as ‘mistake in
+names,’ ‘*gotraskhalita*’ which term is used in the event of a man
+pronouncing a name other than the one he intended to pronounce.
 
-‘*Prepared to the best of his ability*;’—this qualifies ‘food.’ The
-meaning is that he should prepare the food with special care and then
-offer it—feed him with it.
+His ‘learning’ also he should not advertise; as this also has been
+prohibited in another *Smṛti*.
 
-‘*According to rule*’—*i.e*., that offering which is
-preceded—supported—by injunction; *i.e*., that which is sanctioned by
-scripture.—(99)
+The Text adds a declamatory, assertion:—‘*For the purpose of obtaining a
+meal*’—*i.e*., with the motive that by advertising my family and *gotra*
+I shall succeed in obtaining a meal, if one brags about these—*family
+and gotra*,—he is called by the wise ‘*Vāntāśin*,’ ‘*feeder-on
+filth*,’—he who swallows what has been vomitted.—(109)
 
 

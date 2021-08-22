@@ -2,41 +2,24 @@
 title = "101 तृणानि भूमिर्"
 
 +++
-What is said here is supplementary to the two offerings spoken of in the
-latter half of the foregoing verse; and the first, half of this verse
-prescribes the receptacle for those two offerings.
+If, through poverty, one is unable to provide food,—even then one should
+not entertain such thoughts as these—‘feeding is the chief factor in the
+honouring of a guest; this is not possible in my case; why then should I
+let him enter my house?’ Because for one who is incapable of doing
+anything else, even the providing of ‘grass,’ &c., would constitute the
+act of ‘honouring the guest.’ Or, the meaning may be that the providing
+of food alone does not constitute the full compliance with the
+injunction of ‘honouring the guest;’ one has to provide bedding, &c.,
+also.
 
-The dwelling on the top of another dwelling is called the ‘*upper
-dwelling*.’ In the case of a single-storied house, it means the *roof*.
-There one should make the offering to the ‘roamers at night’ and
-‘roamers during the day.’
+‘*Grasses*’—stands for *bedding*.
 
-‘*Sarvānnabhūtaye*’—‘*for the purpose* *of* *acquiring all kinds* *of
-food*’;—the Dative ending has the sense of ‘for the purpose of,’ ‘with a
-view to,’ and not that of ‘recipient;’ for no oblations have been laid
-down as to be offered to any such deity as *Sarvānnabhūti*; specially,
-as the term ‘offering’ in the present verse is supplementary to the
-preceding verse, and the offerings prescribed in the preceding verse
-require the mention of a receptacle for them. Even in other *Smṛtis* no
-such deity as ‘*Sarvānnabhūti*’ has been mentioned in connection with
-the ‘*Vaiśvadeva*’ offerings. Hence, what the word means is that ‘the
-act is to be done *for* *the purpose o* *f* *acquiring all kinds of
-food*;’ *i.e*., ‘when this offering is made, all kinds of food are
-obtained.’ And when the etymological signification of a word is found
-compatible with the context, there can be no justification for assuming
-a signification for the word as a whole (irrespectively of its
-etymology.) So that, if the word (‘*Sarvānnabhūti*’) were to be taken as
-signifying a deity, an absolutely unknown denotation will have to be
-attributed to it.
+‘*Place*’—*i.e*., space for sitting, sleeping and moving about.
 
-‘*The remnant of the offerings*;’—tbe use of the term ‘remnant’ implies
-that the offering material has to be collected in a vessel and then
-offered, and that the oblations are not to be taken out of what is
-contained in the cooking pot.
+‘*Kind words*’—*i.e*., words, sweet as well as wholesome; in the form of
+conversation and stories, &c.
 
-‘*Towards the South*’—*i.e*., in the southerly direction; *i.e*., the
-man should face the south.
-
-‘*Entire*’—*i.e*., all that has been taken out in the vessel.—(91)
+In the absence of food,’ ‘*even these never fail*’—*i.e*., are always
+provided—‘*in the house of good people*.’—(101)
 
 

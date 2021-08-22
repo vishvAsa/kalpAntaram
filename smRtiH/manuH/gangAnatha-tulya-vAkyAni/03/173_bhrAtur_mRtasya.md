@@ -2,8 +2,8 @@
 title = "173 भ्रातुर् मृतस्य"
 
 +++
-**(verses 3.150-166)  
-**
+*Vyāghrī Smṛti* (quoted in the Gautama-sūtravṛtti).—‘One who is the
+husband of a woman who has had a previous husband,—the wise called
+*Didhiṣūpati*.’
 
-See Comparative notes for [Verse
-3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").
+*Prajāpati* (quoted in do.).—\[Reproduces Manu.\]

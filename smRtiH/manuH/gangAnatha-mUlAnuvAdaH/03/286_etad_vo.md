@@ -3,4 +3,4 @@ title = "286 एतद् वो"
 
 +++
 
-‘No dates are so commended for the offering of śrāddha as those of the dark fortnight, beginning with the tenth day, leaving out the fourteenth.—(276)
+Thus has been described to you the procedure of the “Five Sacrifices;” listen now to the means of livelihood for the best of twice-born persons.—(286)

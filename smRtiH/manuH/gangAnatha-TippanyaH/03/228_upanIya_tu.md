@@ -2,10 +2,11 @@
 title = "228 उपनीय तु"
 
 +++
-This verse is quoted in *Madanapārijāta* (p. 601), without comment—The
-first half is quoted in *Nirṇaya* *sindhu* (p. 328);—and the second half
-in *Aparārka* (p. 508);—and in *Śrāddhakriyākaumudī* (p. 201), which
-adds that the ‘smelling’ is to begin with the Ball offered to the
-Father.
+This verse is quoted in *Smṛtitattva* (p. 230) without comment;—in
+*Hemādri* (Śrāddha, p. 1308);—in *Gadādharapaddhati* (Kāla, p. 546),
+which explains ‘*guṇān*’ as ‘sweetness and the rest’;—and in
+*Śrāddhakriyākaumudī*, (pp. 158 and 164), which explains ‘*śanakaiḥ*’ as
+‘one after the other’, ‘*guṇān prachodayan*’ as ‘mentioning that *this
+is sweet, this is acid*, and so forth.’
 
 

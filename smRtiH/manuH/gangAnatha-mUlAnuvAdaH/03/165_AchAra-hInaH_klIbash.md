@@ -3,4 +3,4 @@ title = "165 आचार-हीनः क्लीबश्"
 
 +++
 
-An actor, one who has broken the vows of continence, the husband of a Śūdra woman, the son of a re-married woman, one who has only one eye, and he in whose house lives the paramour.—(155)
+One devoid of right conduct, the man without vigour, the constant beggar, he who lives by agriculture, one suffering from elephantiasis, and he who is spoken ill of by good men.—(165) 

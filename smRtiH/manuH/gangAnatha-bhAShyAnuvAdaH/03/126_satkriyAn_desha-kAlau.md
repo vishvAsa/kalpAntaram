@@ -2,20 +2,28 @@
 title = "126 सत्क्रियान् देश-कालौ"
 
 +++
-‘*Brāhmaṇas*’—*i.e*., guests.
+Since ‘large company’ entails all these defects, therefore ‘large
+company’ is not considered desirable. When, however, respectful
+treatment and the rest are found feasible, then one might net according
+to one’s enthusiasm.
 
-‘*His men people*’—people of the same caste, and so forth. When all
-these have eaten, then ‘what is left by them,’ the husband and wife
-should eat.
+‘*Respectful treatment*’—careful preparation of the food.
 
-‘*Afterwards*’—this is added with a view to perclude the notion that a
-portion of the food having been assigned to the guests and others, and
-kept aside, the remainder might be called ‘what is left,’ and as such
-might be eaten by the householder and his wife, even before the guests,
-&c.
+‘*Place*’—ground sloping to the south, and so forth (which has been
+recommended for *Śrāddhas*), as one going to be described below (in
+207).
 
-Half of this verse is meant to be the injunction of the time for the
-husband and wife to eat; the rest of it is a purely descriptive
-reference.—(116)
+‘*Time*’—the afternoon; laid dowu in such texts as ‘when the sun has
+just passed the meridian, &c.’
+
+‘*Purity*’—of oneself, of the Brāhmaṇas invited, and of his own
+servants.
+
+‘*Qualities of Brāhmaṇas*’—the obtaining of qualified Brāhmaṇas.
+
+All these advantages are such as must be secured; and these are hampered
+by having a large company; hence large company becomes a drawback; and
+this is involved in inviting too many Brāhmaṇas. *Hence ‘one should not
+seek*’—bring together—‘*a large company*.’— (126)
 
 

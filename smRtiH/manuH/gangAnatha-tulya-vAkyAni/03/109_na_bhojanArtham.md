@@ -2,33 +2,22 @@
 title = "109 न भोजनार्थम्"
 
 +++
-*Gautama*. (5.32.34).—‘To the guest not learned in the Veda, water for
-washing the feet, an offering of water and also special kinds of food,
-always specially cooked.’
+*Baudhāyana* (Parāśaramadhava, p. 357).—‘If one offers food after asking
+about country, name, family and learning,—he does not obtain the reward
+of that act, and does not go to heaven.’
 
-*Vaśiṣṭha* (4.12).—‘When a person comes to his house, he should welcome
-him, rising from his seat and offering him a seat and a bed, and
-receiving him with true and agreeable words, free from jealousy.’
+*Parāśara* (1.405).—‘If one offers food after making enquiries regarding
+the name, the family and the learning of the guest, he does not obtain
+its reward, nor does he go to heaven.’
 
-*Āpastamba-Dharmasūtra* (2.4.13-16).—‘The master and mistress of the
-house should not refuse to receive anyone who comes to seek for anything
-at the proper time; if they have nothing else to offer, they should
-offer a place, water, grass and agreeable words.........To a Brāhmaṇa
-not learning or learned in the Veda, he shall only offer seat, water and
-food and he shall not rise to receive him.’
+*Parāśara* (1.48).—‘One should not ask the guest his *gotra* or Vedic
+text, nor the extent of his knowledge of Veda or learning; one should
+think of him as the god, since he embodies all the gods.’
 
-*Āpastamba* (6.7-14 ).—‘ Having gone up before him, and having met him,
-he shall offer to him a seat...... He shall wash his feet; some people
-hold that it is only the Śūdra householder and his wife that are to do
-this... He shall offer to him water in an earthen vessel, say some...
-But if the guest is one who has completed his study, no water is to be
-offered to him......... Having pleased him, he shall satisfy him with
-sweetly flavoured food.’ \[So on, there are very full directions.\]
+*Yama* (Parāśaramādhava, p. 357).—‘One shall not ask his *gotra* or
+Vedic text, or country or family or name or learning—when a Brāhmaṇa
+traveller arrives seeking for food.’
 
-*Viṣṇu* (67.45).—‘In the morning and in the evening, he shall offer to
-the guest both seat and water, as also food to the best of his power,
-after having received him with honour.’
-
-*Yājñavalkya* (1.107).—‘To the guest one should make offerings to the
-best of one’s capacity; and in the evening the guest is not to be
-deprived of sweet words, place and water.’
+*Viṣṇu-purāṇa* (Do.)—‘The householder shall honour the guest as
+Hiraṇyagarbha, not asking him about his study, *gotra*, Vedic text or
+family.’

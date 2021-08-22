@@ -3,4 +3,4 @@ title = "105 अप्रणोद्यो ऽतिथिः"
 
 +++
 
-The twice-born householder, giving alms, obtains the same reward for merit which reward for merit one obtains by giving a cow, in the proper form, to his Teacher.—(95) 
+The guest brought by the sun in the evening should not be driven away by the house-holder. Arrived in time, or not in time, he shall not stay in his house without taking food.—(105)

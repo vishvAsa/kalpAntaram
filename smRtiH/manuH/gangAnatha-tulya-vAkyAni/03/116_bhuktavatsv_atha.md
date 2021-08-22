@@ -2,17 +2,13 @@
 title = "116 भुक्तवत्स्व् अथ"
 
 +++
-*Gautama* (5. 38, 39).—‘Honouring and feeding on fresh food; bedding,
-seat, lodging, attending and following; all this in the same way as in
-the case of elders.’
+*Viṣṇu* (67.41).—\[Reproduces Manu.\]
 
-*Āpastamba-Dharmasūtra*.—‘He shall eat what remains after the feeding of
-guests; of the highly flavoured foods, he shall not eat any except what
-has been left by the guests;—he shall not have cooked for himself any
-specially good food.’
+*Āpastamba-Dharmasūtra* (2.8.2).—‘He shall eat what has been left by the
+guests.’
 
-*Yājñavalkya* (l.5.104).—‘One should not cook food for himself.’
+*Yājñavalkya* (1.105).—‘The husband and wife shall eat what is left
+after the guests and dependents have been fed.’
 
-*Mārkaṇḍeya-purāṇa* (Vīramitrodaya-Āhnika, p. 451).—‘Meat, grains,
-vegetables,—these he shall not eat if they have not been offered to the
-guest.’
+*Paraskara* (3.9.14).—‘The householder and his wife, after all the
+rest.’

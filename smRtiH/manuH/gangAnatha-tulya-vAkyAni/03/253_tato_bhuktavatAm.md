@@ -2,16 +2,19 @@
 title = "253 ततो भुक्तवताम्"
 
 +++
-*Viṣṇu* (81.18).—‘At the time, he shall feed a Brāhmaṇa or a mendicant,
-with the permission of the Brāhmaṇas (invited).’
+*Śaunaka* (Aparārka, p. 503).—‘Having seen that the Brāhmaṇas are
+satisfied,...... he shall keep some food for the sake of the
+ball-offerings, and offer the rest to the Brāhmaṇas, or use it according
+to their instructions.’
 
-*Yama* (Caturvargacintāmaṇi-Śrāddha, p. 439).—‘If a mendicant or a
-Religious Student happen to arrive seeking for food,—after the Brāhmaṇas
-have been seated, he also should be fed.’
+*Āśvalāyana-Gṛhyasūtra* (4.8.11).—‘Having enquired if all was complete,
+he shall keep, for the *Sthālīpāka* and the Piṇḍa offerings, everything
+that may have been used, and what remains he shall present (to the
+Brāhmaṇas).’
 
-*Varāhapurāṇa* (Do.).—‘If at that time an excellent Brāhmaṇa seeking for
-food, or a guest, should arrive, he shall, on being permitted by the
-Brāhmaṇas, freely feed him also.’
+*Yājñavalkya* (1.242).—In regard to the remnants, he should ascertain
+their wishes.’
 
-*Chāgaleya* (Parāśaramādhava, p. 728).—‘At the time of the Śrāddha also
-one shall welcome the Ascetic and the Religious Student.’
+*Laghu-Āśvalāyana* (23.70).—‘Everything having been completed, he shall
+ask them ‘*what is to he done with the remnants?*’—On being permitted by
+them, he shall eat it, along with his friends.’

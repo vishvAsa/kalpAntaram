@@ -3,4 +3,4 @@ title = "166 औरभ्रिकोपूर्वा-पतिस् तथ�
 
 +++
 
-One who teaches for a stipulated fee, he who is taught by one who teaches for a stipulated fee, the pupil and also the teacher of a Śūdra, one who is reprehensible in speech, the son of an adulteress and the son of a widow.—(156)
+The sheep-dealer, the buffalo-keeper, the husband of a woman who had another previous husband, the carrier of the dead—all these should be avoided with care.—(166)

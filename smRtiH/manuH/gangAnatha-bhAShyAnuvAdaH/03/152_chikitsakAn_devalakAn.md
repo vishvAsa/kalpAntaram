@@ -2,14 +2,31 @@
 title = "152 चिकित्सकान् देवलकान्"
 
 +++
-‘*Barren soil*’—Unproductive ground. that plot of land is called
-‘barren’ on which if seed is sown, it does not sprout; there the ‘*sower
-reaps no harvest*.’
+‘*Healers* physicians.
 
-‘*Even so*,’ ‘*to the person ignorant of die Veda*’—‘*having given the
-offerings* made to gods and ancestors,—‘*the giver obtains no reward*.’
+^(‘)*Temple-attendants*’—those who attend upon idols.
 
-The term ‘*anṛce*’ is with the Locative ending; and the term ‘*ṛk*’
-stands for the *Veda* in general.—(142)
+These two are prohibited only as means of living. Healing and serving
+idols, when done entirely with a righteous motive (and not as a means of
+living), are not reprehensible.
+
+‘*Meat-sellers*’—Butchers.
+
+If we read these words with the Accusative ending, then they have to be
+construed with the verb of the preceding verse.
+
+‘*Those living by trade*’—*i.e*., by improper trade; improper
+merchandise shall be described under Discourse 10,—those who live by
+such trade.
+
+‘*Should be avoided*’—at both kinds of rites.
+
+Meat-selling is reprehensible, even when done with a *righteous* motive.
+For instance, when one man has *got* meat and another man has need for
+it;—the former man who has got the meat stands in need *of* butter for
+oblations; *and he exchanges his* meat with the other man’s butter;
+*this exchange is done* ‘with a righteous motive,’ and *exchange also is
+called* ‘selling;’ *hence* those also *become* excluded who do such
+meat-selling, even with a righteous motive.—(152)
 
 

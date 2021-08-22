@@ -3,4 +3,4 @@ title = "194 मनोर् हैरण्यगर्भस्य"
 
 +++
 
-Those persons should be known as “sanctifiers of company” who are foremost in all the vedas and in all the explanatory sciences, and who are born in the family of men learned in the veda.—(184)
+Of Manu, the son of Hiraṇyagarbha, Marīci and the rest were sons; and the sons of all these sages have been declared to constitute the “Body of Pitṛs.”—(194)

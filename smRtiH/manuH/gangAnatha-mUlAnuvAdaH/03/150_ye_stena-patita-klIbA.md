@@ -3,4 +3,4 @@ title = "150 ये स्तेन-पतित-क्लीबा"
 
 +++
 
-The man who, through folly, makes friendships by means of Śrāddhas,—that meanest of twice-born men, having the Śrāddha for his friend, falls from the regions of heaven.—(140)
+Manu has declared those Brāhmaṇas undeserving of (receiving) the offerings to gods and Pitṛs who are thieves, outcasts and eunuchs, as also those that have the behaviour of atheists.—(150)

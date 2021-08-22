@@ -3,4 +3,4 @@ title = "107 आसनावसथौ शय्याम्"
 
 +++
 
-Rites in honour of the gods and those in honour of the Pitṛs performed by ignorant men become lost, when they are presented by the givers, through folly, to ash-like Brāhmaṇas.—(97)
+He should offer seat, room, bed, foliowing and attendance of the best kind to superiors, of the inferior kind to inferiors and of the equal (ordinary) kind to equals.—(107)

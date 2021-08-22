@@ -2,37 +2,41 @@
 title = "091 पृष्ठवास्तुनि कुर्वीत"
 
 +++
-What is meant by the words ‘*svādhyāyamadhīyīta*’ (‘one should study the
-Veda’) is exactly what is meant by the words, ‘*one should worship the
-sages by Vedic Study*.’
+What is said here is supplementary to the two offerings spoken of in the
+latter half of the foregoing verse; and the first, half of this verse
+prescribes the receptacle for those two offerings.
 
-As a matter of fact, what is called *worship* is done either (*a*) by
-means of faith and devotion, or (*b*) by means of offering water for the
-feet, garlands and sandal-paint. But the present verse is purely
-eulogistic; ‘Vedic Study’ cannot be the means of either of these two
-forms of ‘worship’ of the sages. As for the *mantras* of the Veda, those
-also contain praises of Agni and other gods (and not the sages). For all
-these reasons the statement that ‘one should worship sages by Vedic
-Study’ is purely eulogistic.
+The dwelling on the top of another dwelling is called the ‘*upper
+dwelling*.’ In the case of a single-storied house, it means the *roof*.
+There one should make the offering to the ‘roamers at night’ and
+‘roamers during the day.’
 
-Or, the term ‘*sages*’ may be taken as standing, not for *Marīci* and
-other persons (generally known as ‘sages’), but for the *Vedas*
-themselves. The term ‘*svādhyāya*’ (Vedic Study) here denotes an
-*action*; it does not stand for the *Veda*, as it does in the sentence,
-‘*svādhyāyo* *dhyetavyaḥ*’ (‘the Veda should be studied’). Hence what
-the passage means is that ‘one should worship the Vedas by the act of
-study;’ *i.e*., one should study them in the proper manner; no other
-form of ‘worship’ being possible.
+‘*Sarvānnabhūtaye*’—‘*for the purpose* *of* *acquiring all kinds* *of
+food*’;—the Dative ending has the sense of ‘for the purpose of,’ ‘with a
+view to,’ and not that of ‘recipient;’ for no oblations have been laid
+down as to be offered to any such deity as *Sarvānnabhūti*; specially,
+as the term ‘offering’ in the present verse is supplementary to the
+preceding verse, and the offerings prescribed in the preceding verse
+require the mention of a receptacle for them. Even in other *Smṛtis* no
+such deity as ‘*Sarvānnabhūti*’ has been mentioned in connection with
+the ‘*Vaiśvadeva*’ offerings. Hence, what the word means is that ‘the
+act is to be done *for* *the purpose o* *f* *acquiring all kinds of
+food*;’ *i.e*., ‘when this offering is made, all kinds of food are
+obtained.’ And when the etymological signification of a word is found
+compatible with the context, there can be no justification for assuming
+a signification for the word as a whole (irrespectively of its
+etymology.) So that, if the word (‘*Sarvānnabhūti*’) were to be taken as
+signifying a deity, an absolutely unknown denotation will have to be
+attributed to it.
 
-‘*The gods by Homa-offerings*’—here also the ‘worship’ is figurative;
-for in a Homa, the deity is not the most predominant factor,—being only
-a subordinate factor, tending to the fulfilment of the act.
+‘*The remnant of the offerings*;’—tbe use of the term ‘remnant’ implies
+that the offering material has to be collected in a vessel and then
+offered, and that the oblations are not to be taken out of what is
+contained in the cooking pot.
 
-‘*The Pitṛs by Śrāddha offerings*’—here the Injunction is to be taken in
-its direct sense; and this shall be explained under the section on
-‘*Śrāddha*.’
+‘*Towards the South*’—*i.e*., in the southerly direction; *i.e*., the
+man should face the south.
 
-‘*The men*’—*i.e*., guests, beggars, and so forth—‘one should
-worship’—*i.e*., give them food with due respect.—(81)
+‘*Entire*’—*i.e*., all that has been taken out in the vessel.—(91)
 
 

@@ -2,4 +2,5 @@
 title = "230 अस्रङ् गमयति"
 
 +++
-While his father holds, one should make the offering to the previous ancestors; or, he may feed his own father at the Śrāddha as a Brāhmana.—(220).
+
+Tears make the food go to ghosts, anger to enemies, lie to dogs, touching with the foot to demons, and shaking to sinners.—(230)

@@ -2,4 +2,7 @@
 title = "210 तेषाम् उदकम्"
 
 +++
-This verse is quoted in *Hemādri*, (Śrāddha, p. 48).
+“Water-bringing is a Northern-custom according to Āpastamba
+2.17.17.”—Hopkins.
+
+

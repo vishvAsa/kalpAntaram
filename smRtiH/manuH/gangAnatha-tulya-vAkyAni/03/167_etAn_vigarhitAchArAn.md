@@ -2,8 +2,9 @@
 title = "167 एतान् विगर्हिताचारान्"
 
 +++
-**(verses 3.150-166)  
-**
+*Bṛhad-* *Yama-Smṛti* (37, 38).—‘These should be avoided at Śrāddhas and
+at gifts; these should be avoided with great care—so Yama has declared.’
 
-See Comparative notes for [Verse
-3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").
+*Viṣṇu* (82.30).—‘These have been declared to be low Brāhmaṇas, defilers
+of the line; the wise man should avoid them with great care at the
+performance of Śrāddha.’

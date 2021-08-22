@@ -2,6 +2,6 @@
 title = "213 अक्रोधनान् सु-प्रसादान्"
 
 +++
-*Āśvalāyana* (24.1).—‘Without offering the sacrifice to the Pitṛs, or
-the annual Śrāddha to individual ancestors,—if one performs other five
-sacrifices, he surely goes to hell.’
+*Mahābhārata* (13.237.31).—‘At the Śrāddha, one should invite such
+persons as are free from anger, not fickle, tolerant, self-controlled,
+with senses suppressed, and benevolent towards all beings.’

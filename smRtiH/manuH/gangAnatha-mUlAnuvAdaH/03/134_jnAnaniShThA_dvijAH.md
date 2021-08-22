@@ -3,4 +3,4 @@ title = "134 ज्ञाननिष्ठा द्विजाः"
 
 +++
 
-I am now going to describe fully which and how many Brāhmaṇas should be fed at it, and on what food,—as also those that should be avoided.—(124)
+Some twice-born persons excel in learning; others excel in austerities; some others excel in austerities and Vedic study, and others again excel in rites.—(134)

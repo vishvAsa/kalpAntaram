@@ -2,13 +2,14 @@
 title = "067 वैवाहिके ऽग्नौ"
 
 +++
-> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-> interpolations?\] “These are very probably a later addition. The
-> corresponding section in the Mahābhārata, 13.46 stops right here
-> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-> *Parāśaramādhava*.
+*Medhātithi* (P. 217, l. 27)—‘*Etadevānyatra paṭhitam*’.—The verse is
+quoted from Yājñavalkya (1.97), where *Mitākṣarā* explains the phrase
+‘*smārtam karma*’ as ‘the Vaiśvadeva and other religious rites
+prescribed in the *Smṛtis*’, as also ‘the ordinary worldly acts of
+cooking and the like’, while *Aparārka* explains it simply as ‘acts laid
+down in the *Smṛtis*’.
 
-*Vivādaratnākara* (p. 417.) explains ‘*jāmayaḥ*’ as ‘ladies of the
-family; sisters, daughters-in-law, and so forth’.
+This verse is quoted in *Nirṇayasindhu* (p. 301);—and in *Śāntimayūkha*
+(p. 4).
 
 

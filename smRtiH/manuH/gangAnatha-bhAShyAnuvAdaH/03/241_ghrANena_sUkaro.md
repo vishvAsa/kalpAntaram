@@ -2,20 +2,32 @@
 title = "241 घ्राणेन सूकरो"
 
 +++
-Whatever food, vegetable or drink they may ask for,—all this he shall
-give ‘*ungrudgingly*’—without the least hesitation or covetousness. The
-term ‘*matsara*’ stands here for *avarice*.
+The cock defiles by the wind raised by its wings.
 
-‘*Be agreeable to*’—*i.e*., cause pleasure to.
+The meaning of this verse has already been explained above (under 239);
+the sense is that the proximity of these should be avoided up to such
+distance that they may not be able to see the performance.
 
-‘*Told in the Veda*’—those that are related in the Veda; such, *e.g*.,
-as the story of the war between the gods and demons, that of the death
-of Vṛttra, the doings of Saramā, and so forth. Or, it may stand for such
-stories as ‘*Kaḥ svidekākī charati*,’ etc. (Vājasaneya Saṃhitā, 23.9).
+‘*The man born of the low caste*’—here meant is the *Cāṇḍāla*; as it is
+this that has been spoken of above.
 
-Another reading is ‘*brahmādyāśca kathāḥ*’—*i.e*., discourses, in
-ordinary language, upon the meaning of mantras bearing upon Brahman.
+It has been already explained above that the actions of *touching* and
+the rest stand here for the action that has been mentioned above (in
+239), and not for these actions themselves. For this reason, there is no
+room for the following criticism.—“The touch of the *Cāṇḍāla* being
+already prohibited generally, there could be no possibility of such
+touching, and hence the prohibition here contained becomes superfluous;
+hence the ‘man born of the low caste’ must be taken as the *Śūdra*; and
+what is prohibited is the Śūdra touching the *Śrāddha*, etc., offered by
+twice-born men, but not those performed by himself.”
 
-‘*This is liked by the Pitṛs*;’—this is a commendatory supplement.—(231)
+Even if the actions of *touching*, etc., stand for themselves,—what is
+meant is not that evil results from the Cāṇḍāla touching the articles of
+food and drink, but that he should not touch the unsheltered spot on the
+river-bank and such other places that has been selected for the
+performance; as the impurity caused by such contact has been described
+as removed by wind and fire. And thus, inasmuch as the touch of such
+persons would be quite possible (under the circumstances just
+described), it is only right that it should be prohibited.—(241)
 
 

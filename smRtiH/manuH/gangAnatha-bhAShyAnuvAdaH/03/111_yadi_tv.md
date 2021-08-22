@@ -2,24 +2,23 @@
 title = "111 यदि त्व्"
 
 +++
-If, through poverty, one is unable to provide food,—even then one should
-not entertain such thoughts as these—‘feeding is the chief factor in the
-honouring of a guest; this is not possible in my case; why then should I
-let him enter my house?’ Because for one who is incapable of doing
-anything else, even the providing of ‘grass,’ &c., would constitute the
-act of ‘honouring the guest.’ Or, the meaning may be that the providing
-of food alone does not constitute the full compliance with the
-injunction of ‘honouring the guest;’ one has to provide bedding, &c.,
-also.
+The ‘character’ of the guest consists of—(*a*) having run short of food
+during the journey, (*b*) bring in a strange village and (*c*) arriving
+at the time of eating. In this character, if a *Kṣatriya* happen to come
+to one’s house, then the householder shall feed him also.
 
-‘*Grasses*’—stands for *bedding*.
+By specifically mentioning ‘feeding,’ the other factors of the
+‘honouring’ of guests become precluded; but the addressing of agreeable
+and wholesome words has been generally enjoined as to be addressed
+equally to everyone coming to one’s house. The proper time for feeding
+him is this:—he should be fed after the Brāhmaṇas—guests as well as such
+non-guests as are entitled to eat first—have eaten.
 
-‘*Place*’—*i.e*., space for sitting, sleeping and moving about.
-
-‘*Kind words*’—*i.e*., words, sweet as well as wholesome; in the form of
-conversation and stories, &c.
-
-In the absence of food,’ ‘*even these never fail*’—*i.e*., are always
-provided—‘*in the house of good people*.’—(101)
+‘*May*’—this shows the absence of compulsion; the sense being that what
+is here laid down is voluntary, not obligatory. And since the reward has
+not been mentioned, it follows that Heaven is the reward, as it is in
+the case of all those acts whose rewards are not specifically mentioned.
+Or, we might connect with this the phrase ‘conducive to wealth, fame,
+etc.’ (of verse 106).—(111)
 
 

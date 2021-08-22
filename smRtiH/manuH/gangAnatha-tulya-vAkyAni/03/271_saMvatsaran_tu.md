@@ -2,8 +2,8 @@
 title = "271 संवत्सरन् तु"
 
 +++
-**(verses 3.260-261)  
+**(verses 3.269-271)  
 **
 
 See Comparative notes for [Verse
-3.260](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200057.html#comparative-notes "English translation of verse").
+3.269](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200070.html#comparative-notes "English translation of verse").

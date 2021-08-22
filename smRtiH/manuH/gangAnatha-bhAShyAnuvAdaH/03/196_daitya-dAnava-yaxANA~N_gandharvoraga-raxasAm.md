@@ -2,41 +2,20 @@
 title = "196 दैत्य-दानव-यक्षाणाङ् गन्धर्वोरग-रक्षसाम्"
 
 +++
-‘*He who understands the meaning of the Veda*.’
+All these, Daityas, &c., though not worthy of being mentioned in
+scriptures, have been mentioned here for purposes of the laudatory
+description. The forms and character of these beings are as described in
+the *Itihāsas*.
 
-“The *knower of the ‘six-limbed science*’ has already been mentioned.”
+‘*Suparṇas*’—are a particular kind of birds.
 
-True; but the man meant here is one who himself, even without the help
-of the Subsidiary Sciences, finds out the meaning of the Veda, by his
-own intelligence. Or, the same person spoken of before may be taken as
-referred to again and again; the meaning being that in the absence of
-the knowledge of the meaning of the Veda, people are not deserving of
-being fed at *Śrāddhas*, even though they may have other qualifications.
+‘*Kinnaras*’—are horse-faced beings.
 
-‘*One who expounds it*’—*i.e*., the meaning of the Veda.
+The purport of this laudatory description is that—so essential is the
+performance of *Śrāddhas* that even Daityas, Dānavas and Rākṣasas, who
+generally interfere with sacrificial performances, cannot avoid it; nor
+even animals, who have no intelligence and no memory.
 
-‘*The, Student*.’
-
-‘*The giver of a thousand*;’—in the absence of mention of any particular
-thing, this should be taken to mean ‘*one who has given away* a
-*thousand cows*.’ But the right view appears to be that the term,
-‘*thousand*,’ standing for *much*, the person meant is one who gives
-much, *i.e*., the extremely generous person; specially, as there is
-nothing definite to indicate that the number refers to *cows*. But the
-Veda having asserted that^(‘)cows are the mothers of sacrifice,’—where
-no particular thing is mentioned—*cows* should be understood to be
-meant.
-
-‘*The centenarian*’—*i.e*., one who is of advanced age; such a person,
-having all his impurities cleared off, acquires the sanctifying
-character. The ‘*centenarian*’ is one whose life extends over a hundred
-years; the number being taken, on the basis of usage, as referring *to
-years*. Or, the term ‘hundred’ may be taken as standing for *many*, so
-that the word means ‘long-lived,’ ‘of advanced age.’
-
-Gautama (15.10-11) has declared that ‘gifts should first be made to
-young men;—others say it is like the Father;’ and people have taken the
-term ‘*Student*’ of the present verse as conveying this same idea; the
-student being the person of ‘early age.’—(186)
+The sons of Atri are called ‘*Barhiṣads*.’— (196)
 
 

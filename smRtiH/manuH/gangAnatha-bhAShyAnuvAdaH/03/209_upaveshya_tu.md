@@ -2,50 +2,36 @@
 title = "209 उपवेश्य तु"
 
 +++
-*Soma* (the Soma plant) is what is called ‘*anagnidagdha*’ (‘not burnt
-by fire’); because it is not cooked on fire; and the gods to whom
-sacrifices are offered with *Soma*, also come to be called
-‘*Anagnidagdha*;’ which connotes the quality of *prosperity*.
+After having seated them, he should worship them *with perfumes and
+garlands*: ‘*Perfumes*’—in the form of saffron, camphor, and such
+things—he should offer them; and so also ‘*garlands*’—strings of
+flowers. The eptihet ‘*sweet-smelling*’ qualifies ‘*garlands*;’ the
+sense being that one should not offer flowers devoid of sweet smell. The
+epithet is proper as qualifying ‘perfumes’ also, as there are
+evil-smelling perfumes also, which have to be excluded.
 
-Similarly, ‘*agnidagdha*’ (‘burnt by fire’) stands for such substances
-as cooked rice, cake, and the like, which are all prepared on fire; and
-the gods to whom sacrifices are offered with these are called
-‘*Agnidagdha*.’
+Or, the term may stand for ‘*surabhi*’ *incense*, in which case, this
+term would stand by itself.
 
-As before, we construe the verse to mean as follows:—‘Those that are
-called *Agnidagdha* should be mentioned as *agnidagdha*, and those that
-are called *Anagnidagdha* should be mentioned as *Somapā*.’
+Having first given these things to the Brāhmaṇas invited in honour of
+the gods, he should give them to those invited in honour of the Pitṛs.
 
-Similarly with ‘*Kāvyas*’ and ‘*Barhiṣuds* the ‘*Kāvyas*’ have been
-described (in 198) as ‘Somapā;’ and ‘*Barhiṣads*’ as ‘the sons of Atri.’
+This rule, that these things shall be given first to those invited in
+honour of the gods, is meant to imply that before the Brāhmaṇas have
+commenced eating, things should be given to them in that order. When
+once they have begun to eat, there can be no restriction regarding the
+serving of the several vegetables, etc. This is the explanation that is
+offered; as otherwise, why should this have been laid down over and over
+again.
 
-The particle ‘*eva*’ is not to be construed where it occurs; as, in that
-case, the meaning would be that all those mentioned are the Pitṛs of
-*Brāhmaṇas only*, not of *Kṣatriyas* and others; and this would be
-contrary to what has gone before. Nor have the beings in question been
-mentioned as the Pitṛs of various castes, which alone could justify a
-few of them being selected and marked as belonging specifically to
-*Brāhmaṇas only*. Hence the ‘*eva*’ should be construed along with the
-‘*Agniṣvāttas*,’ the ‘*Saumyas*,’ and the rest.
-
-The mention of the ‘*Brāhmaṇa*’ being purely reiterative, stands for the
-Kṣatriya, &c. also.
-
-The Pitṛs bearing the names here mentioned are found mentioned in the
-Veda also:—‘The Pitṛs, named Agniṣvātta, Agnidagdha, Anagnidagdha.’ And
-it is out of those mentioned in this *mantra* that our author has
-selected some and described them here.
-
-Or, the verse may be construed in the following manner:—‘The Pitṛs that
-are spoken of by these names, all these one should mention as the
-Brāhmaṇa’s Pitṛs:’ the mere difference in the names should not lead one
-to think of the named beings being different.’ In this case, the term
-‘*Brāhmaṇa*’ would stand for ‘persons entitled to the performance of
-Śrāddha;’ the Brāhmaṇa being so, above all others; and it is always the
-predominant factor that serves as the indicative; as we find in the case
-of such expressions as ‘the king is passing by.’
-
-\[ *This latter interpretation, being much the simpler of the two, has
-been adopted in the Text*.\]—(199)
+‘*Unreproached*’—blameless—‘*Brāhmaṇas*.’ This is a mere reiteration; as
+it is only such Brāhmaṇas as have been specified for being invited. Or,
+the use of the past-participal affix nifty be taken as prohibiting the
+act denoted by the verbal root; the sense being—that ‘he should not
+reproach, or find fault with them, after (they have been invited and
+seated).’ People who favour this explanation argue that it is better to
+abandon the denotation of the affix than give up that of the entire
+word; and if it is taken as a mere reiteration, the whole word becomes
+redundaut and meaningless.—(209)
 
 

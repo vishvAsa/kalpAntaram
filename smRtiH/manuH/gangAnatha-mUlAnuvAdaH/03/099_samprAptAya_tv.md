@@ -3,4 +3,10 @@ title = "099 सम्प्राप्ताय त्व्"
 
 +++
 
-He should hake an offering to Śrī on the “head” and to Bhadrakālī on the “feet;” for Brahman and Vāstoṣpati, he should place an offering in the centre of the homestead.—(89)
+To the guest that has happened to come, he should offer; according to rule, water and seat, and also food prepared to the best of his abilitv.—(99)
+
+
+annaṃ hutvā vidhānena yatpuṇyaphalamaśanūte | 
+tena tus?yaṃ viśiṣṭaṃ vā brāhmaṇe tarpite phalam || 
+mantr?akarmaviparyāsād? duritād? durgatādapi | 
+tatphalaṃ naśyate karturidaṃ na śraddhayā h?tam ||

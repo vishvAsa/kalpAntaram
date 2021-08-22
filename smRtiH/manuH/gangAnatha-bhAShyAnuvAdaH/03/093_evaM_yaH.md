@@ -2,41 +2,40 @@
 title = "093 एवं यः"
 
 +++
-Since the offering to the Viśvedevas has been enjoined under the name
-‘*Śrāddha*,’ it would follow that the entire procedure of the Śrāddha
-has to be gone through at that offering also; hence the present verse
-proceeds to preclude a certain portion of that procedure. ‘*On this
-occasion*’—of the daily *Śrāddha—one* should not feed any Brāhmaṇas in
-honour of the *Viśvedevas*,—*i.e*., with reference to these.
+This sums up what has gone before.
 
-On this point, some people make the following observations:—“Since
-feeding is already understood as forming part of the Śrāddha, the
-presence of the verb ‘should feed’ in this verse indicates that this
-feeding is something new (different from the feeding that forms an
-integral part of all *Śrāddhas*.) Hence the *Śrāddha* that is laid down
-in the present verse is to be regarded as consisting merely in the act
-of feeding one Brāhmaṇa, and there is nothing else to be done at it, in
-the shape of the offering of a vessel of water, oblations, and so forth;
-nor are the restraints relating to ‘avoidance of sexual intercourse,’
-‘omitting of Vedic Study,’ and so forth to be observed in this
-connection.”
+The epithet ‘*all*’ indicates that one should help with food the deer,
+the cock, the cat and such other animals as grow in the villages.
 
-‘*Should feed even one Brāhmaṇa*’—the number of Brāhmaṇas to be fed
-having been fixed at *three*,—and what is said (under 3.125) regarding
-the feeding of ‘one at each of the two’ not being of.the nature of an
-Injunction—the number ‘one,’ which has not been indicated by any other
-authority, is what is distinctly enjoined here;—the sense being that
-‘one should feed even one Brāhmaṇa,—but also many, if possible.’
+‘*Honour*’ here denotes *help*, not *worship*; us worship could not
+apply to dogs, &c. In fact, what is meant is the forbidding of
+ill-treatment; and it in with this view that the author has not used the
+term ‘help.’
 
-‘*In honour of the pitṛs*’—*i.e*., for the purpose of satisfying the
-pitṛs.
+‘*Highest place*’—*i.e*., he reaches Brahman.
 
-‘*That which forms part of the Five Sacrifices*’—*i.e*., that which is
-included among the Five Sacrifices; this term being used here in the
-sense of ‘*Śrāddha*;’ what is spoken of as ‘what forms part of the Five
-Sacrifices’ is not the *Tarpaṇa*—offering (of water); but the
-combination of this *water—offering* and the *feeding* of the Brāhmaṇa.
-The optional alternative to this shall be described below, under
-3.283.—(83)
+‘*By the straight path*’—*i.e*., he has not to wander through an endless
+series of births as different animals.
+
+*Question*—“Is this verse meant to lay down the reward (to be
+obtained)?”
+
+We say—*no*. For it has already been explained that the injunction of
+the offerings is an obligatory one; and if a reward happen to be
+mentioned in connection with an obligatory act, it can only be taken as
+a commendatory description. Nor is any injunctive word found in the
+verse; the word used is ‘*goes*,’ in the present tense.
+
+‘*With a body of light*’—*i.e*., with a body made up of light only; he
+is no longer tramelled with a body made up of the five elemental
+substances; *i.e*., he becomes of the nature of pure Consciousness. Or,
+the term may be takeu as connoting *freedom from sin*; the meaning being
+that he becomes pure of character. The act done is one of helping all
+beings; and when the man does not transgress any scriptural injunctions,
+he incurs no sin; and hence it is only right that he should be *pure*.
+If it were otherwise, then *sin* being an impurity, he could never have
+a *body of light*. There being no sin in him, it is only natural that
+the man should reach the highest place, which consists in a state free
+from all pain and suffering.—(93)
 
 

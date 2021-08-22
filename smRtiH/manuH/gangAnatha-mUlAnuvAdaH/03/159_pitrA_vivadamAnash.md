@@ -3,4 +3,4 @@ title = "159 पित्रा विवदमानश्"
 
 +++
 
-At the rite in honour of the gods, the man knowing the law shall not examine the Brāhmaṇa. But when the rite in honour of the Pitṛs comes to be performed, he shall examine him carefullv.—(149)
+One quarrelling with one’s father, the keeper of a gambling house, the drunkard, one afflicted with a foul disease, one accused of sins, the hypocrite, and the dealer in essence.—(159)

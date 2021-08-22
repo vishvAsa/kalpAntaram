@@ -2,20 +2,25 @@
 title = "099 सम्प्राप्ताय त्व्"
 
 +++
-‘*Ucchīrṣake*’—‘Head of the bed’ (‘Others’in Medhātithi, Nārāyaṇa and
-Nandana);—‘the North-East portion of the house, where the head of the
-Vāstupuruṣa lies’ (Govindarāja, Kullūka and Rāghavānanda);—‘the place of
-the head, well-known as the *Devatāśaraṇa*’ (the N.-E. corner of the
-house is what is meant).
+This verse is quoted in *Vīramitrodaya* (Āhnika, p. 441), which explains
+‘*samprāptāya*’ as ‘one who has happened to come of his own accord, *i*.
+*e*., without invitation’; and ‘*vidhipūrvakam*’ as ‘in the manner
+prescribed for the entertaining of guests’;—and in *Hemādri* (Śrāddha,
+p. 433).
 
-‘*Pādataḥ*’—‘the lower portion of the house’ (Medhātithi);—‘the South
-West corner of the house, where the Vāstupuruṣa has his feet’
-(Govindarāja, Kullūka and Rāghavānanda).
+Between verses 99 and 100, *Vīramitrodaya* (Āhnika, p. 441) quotes the
+following two additional verses—
 
-This verse is quoted in *Vīramitrodaya* (Āhnika, p. 403), which explains
-‘*Ucchīrṣahe*’ as ‘the head of the bedstead lying in the house’—and
-‘*Pādataḥ*’ as ‘the foot-end of the bedstead in the house’, and adds
-that the formula to be used in making the offering should be as put in
-the text ‘*Brahmavāstoṣpatibhyām svāhā*.’
+> annaṃ hutvā vidhānena yatpuṇyaphalamaśanūte \|  
+> tena tus?yaṃ viśiṣṭaṃ vā brāhmaṇe tarpite phalam \|\|  
+> mantr?akarmaviparyāsād? duritād? durgatādapi \|  
+> tatphalaṃ naśyate karturidaṃ na śraddhayā h?tam \|\|
+
+and adds the following explanations:—‘*annam hutvā*’—*i*. *e*., in the
+fire;—‘*mantra &c*.’.—*i.e*., ‘from that sin which would accrue from the
+misuse of Mantras and Rites, and from the delinquencies of the
+Agent’;—‘*tatphalam*’—the result following from the Homa;—‘*Idam
+na*’—the construction is that ‘whatever is offered to the guest with due
+respect, in the shape of all this, seat and the rest, is never lost’.
 
 

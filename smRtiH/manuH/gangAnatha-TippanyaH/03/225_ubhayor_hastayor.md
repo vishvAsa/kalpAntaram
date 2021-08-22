@@ -2,11 +2,11 @@
 title = "225 उभयोर् हस्तयोर्"
 
 +++
-This verse is quoted in *Madanapārijāta* (p. 601), without any
-comment;—and in *Hemādri* (Śrāddha, p. 1427), which adds the following
-notes:—‘*Tasmāt haviḥśeṣāt*’, out of the remnant of the substance
-offered into the Fire,—‘*audakavidhi*’ stands for the method by which an
-offering of water is made with hands in the *Apasavya* form, as laid
-down in the preceding verse.
+This verse is quoted in *Aparārka* (p. 439);—in *Hemādri* (Śrāddha, p.
+1368), which explains the meaning as ‘the food that is not brought by
+both hands is taken away by force’ (‘*sahasā*’) by the wicked
+(*duṣṭacetasaḥ*) ‘Asuras’;—in ‘*Śrāddhakriyākaumudī*’ (p. 158), which
+explains ‘*ubhayorhastayormuktam*’ as ‘(brought) with only one
+hand’;—and in ‘*Gadādharapaddhati*’ (Kāla, p. 545).
 
 

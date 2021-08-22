@@ -3,4 +3,4 @@ title = "112 वैश्य-शूद्राव् अपि"
 
 +++
 
-A Brāhmaṇa staying for a single night has been declared to be a “guest” (Atithi). Because his stay is not long, therefore he is called “Atithi” (guest).—(102)
+The Vaiśya and the Śūdra also, when arrived in the family in the character of guests, he should feed, along with his servants,—showing his compassionate disposition.—(112)

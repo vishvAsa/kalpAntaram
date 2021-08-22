@@ -2,18 +2,18 @@
 title = "124 तत्र ये"
 
 +++
-The term ‘*Suvāsinī*’ stands for newly married girls, daughters as well
-as daughters-in-law. Others have held that ‘girls whose father-in-law
-and father are both living are called *Suvāsinī*, even after they have
-given birth to children.’
+‘*At* *it*’—at the *śrāddha*;—those Brāhmaṇas that should be fed,—as
+also those that should be avoided;—‘*how* *many*’—what number; as is
+going to be pointed out that ‘two should be fed at the offering to the
+gods, and so forth’ (125);—‘*on what food*,’—‘on sesamum, barley, etc.’
+(267) all this ‘*I am now going to describe*’— listen-to it.
 
-‘*These......immediately after the guests*’—in continuation of them—‘*he
-should feed*.’ That is, as soon as the guests have commenced eating,
-they should be fed at the same time.
-
-Others read ‘*agre*’ ‘*before*’ (the guests).
-
-‘*Without hesitation*’—*i.e*., he should not entertain any doubt as to
-the propriety of feeding youngsters before the guests have eaten.—(114)
+This (feeding of Brāhmaṇas) is the chief thing to be accomplished; for
+without this the *śrāddha* is as good as not done. As for the subsidiary
+factors,—those that help in the performance directly, as well as those
+that help indirectly,—even if these are not duly accomplished, the
+*śrāddha* is done,—only it is not quite complete in its details. Hence
+it is that the subjects have been propounded again, for the purpose of
+indicating their predominant character.—(124.)
 
 

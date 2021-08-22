@@ -2,9 +2,8 @@
 title = "151 जटिलञ् चाऽनधीयानम्"
 
 +++
-*Mahābhārata* (Anuśāsana, 90.46).—‘A convivial dinner is the *Devil’s
-Gift*; it reaches neither the gods nor Pitṛs; devoid of virtue, it
-wanders about in this world.’
+**(verses 3.150-166)  
+**
 
-*Āpastamba-Dharmasūtra* (2.17.7).—\[Reproduces the above with one slight
-verbal variation.\]
+See Comparative notes for [Verse
+3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").

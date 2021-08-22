@@ -2,32 +2,38 @@
 title = "122 पितृयज्ञन् तु"
 
 +++
-Those that have the character of guests are said to arrive ‘*in the
-character of guests*;’ the ‘character of the guest’ has been already
-described.
+*The śrāddha* described here is the compulsory one, as distinct from the
+*Vaiśvadeva-śrāddha*, which is optional.
 
-‘*Family*’—House.
+‘*On the moon-leas day*’— on the *Amāvāsya* day. There also not at any
+and every time, but only ‘*after having performed the Pitṛyajña*.’ That
+is, after having performed that *Ptṛyajña* which has been prescribed in
+the *Śruti*. Thus the time for the *Śrāddha* in question comes to be the
+same as that for this latter; and in connection with this it has been
+laid down that the *Piṇḍapitṛyajña* is to be performed on the *Amāvāsya*
+day, in the afternoon.’
 
-‘*Arrived*’—Come.
+Even for one who has not set up the fire, the performance of such
+offerings is essential; as it is declared—‘the person who has not set up
+the fire having made the accessary offerings &c.’
 
-He should feed the *Vaiśya* and the *Śūdra* also, like the *Kṣatriya*.
-The time, for feeding them is after the quests, relations and friends
-have eaten, but before the House-holder and his wife.
+‘*The Brāhmaṇa with the fire*’—*i.e*., he who is keeping up the
+marriage-fire, or who has set up the fire since succession to his
+property. No significance is meant to be attached to the mention of the
+‘*Brāhmaṇa*,’ since the *śrāddha* in question is meant to be performed
+by the *Kṣatriya* and the *Vaiśya* also; hence it is that other *smṛtis*
+have prescribed this *śrāddha* without special reference to any
+particular caste.
 
-‘*Along with*’ means simply ‘at the same time.’
+‘*Piṇḍānvāhārya* *kam*;’—this is the proper name of this *śrāddha*; the
+etymological explanation is that ‘that which is offered along with balls
+of food, *Piṇḍas*, is *piṇḍānvāhāryaka*.’
 
-‘*Compassionate disposition*’—sympathy, pity.
-
-‘*Showing*’—providing proof of, having recourse to.
-
-This last clause has been added with a view to show that those here
-mentioned are not objects of respect. It is one who is to be kindly
-treated that deserves compassion, and not one who is to be worshipped.
-Towards pergons deserving kindly treatment, if help can be accorded,
-this is done by everyone who desires his own welfare. But its omission
-does not mean ill-treatment of the guest. What is meant is that the
-merit derived from helping the person deserving compassion is not
-similar to that derived from entertaining the guest; it is inferior to
-this latter.—(112)
+‘*Month after month*,’—in one month, and also in another month. The
+compound word connotes monthly repetition; thus the meaning is that the
+*śrāddha* is to be performed every month. Thus it is that its compulsory
+character becomes established. Though the term ‘*anumāsa*’ alone
+dignities repetition, and the second term ‘*māsa*’ is superfluous, yet
+prolixity (anti redundance) is not minded in a metrical treatise.—(122)
 
 

@@ -3,4 +3,4 @@ title = "256 दर्भाः पवित्रम्"
 
 +++
 
-At the rite in honour of the Pitṛs, the remnant fallen on the ground is regarded as the share of straightforward, dutiful servants.—(246)
+Kuśa-Grass, the sanctificatory texts, the forenoon, all kinds of sacrificial food, purity and also the afore-mentioned these should be regarded as the essentials of a sacrifice.—(256)

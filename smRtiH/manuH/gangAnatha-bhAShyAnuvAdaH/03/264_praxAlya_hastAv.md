@@ -2,26 +2,31 @@
 title = "264 प्रक्षाल्य हस्ताव्"
 
 +++
-Other persons also, happening to be present on the occasion, should
-offer words of encouragement; and the terms to be used are here
-mentioned.
+The balls having been disposed of, he should wash his hands; and then
+follow the rules regarding sipping of water.
 
-Another commentator explains as follows:—The permission to take food
-should be sought by means of these terms; hence these words have got to
-be uttered by the performer of the *Śrāddha*. But he should say,
-‘*Svadadhvam*,’ ‘please eat well,’ and not ‘*Svaditam*,’ ‘well eaten;’
-or, the reading may be ‘*Svadatu*’ (‘do eat please’).
+‘*Jñatiprāyam*’—is to be explained as ‘that which goes to (*praiti*) to
+the paternal relations (*jñātiṣu*);’ this he should make; *i.e*., he
+should offer food to them.
 
-This explanation is based upon another *Smṛti* and upon custom; and,
-according to this, when the Brāhmaṇas have begun to eat, they should be
-enlivened by the performer of the *Śrāddha* with these words.
+‘*Having treated than well*, *he should feed other relations*.’ Those
+belonging to the same ‘*gotra*’ are called ‘*jñati*,’ ‘paternal
+relations,’ while those related on the mother’s and the wife’s side are
+called ‘*bāṇḍhava*,’ ‘releations.’
 
-‘*At the goṣṭha*’—*i.e*., when several cows are sitting at the same
-place;—the word to be pronounced is ‘*Suśṛtam*,’ ‘well-cooked.’
+The following question is here raised:—
 
-The word ‘*Astu*,’ ‘may it be,’ is understood everywhere.
+“It has been said above (in verse 253) that ‘he should do us they tell
+him;’ now if they were to tell him, ‘Send all this food to our home,’
+then, what would become of the *Vaiśvadeva* and other oblations?”
 
-At the rite in honour of the gods, the term used should be ‘*rucitam*’
-or ‘*rocitam*—(254)
+In that case, the man will have to cook food again. Or, the offering of
+the remnant to the Brāhmaṇas may be regarded as being prescribed only
+with a view to some transcendental result,—and not with a view to their
+actually taking it all away. For instance, it has been laid down that —‘
+When informed of food having been left, they should say *it is for your
+friends*;’ and this direction would have to be regarded as only
+optional, if, in certain cases, the Brāhmaṇas were to take away the
+food.—(264)
 
 

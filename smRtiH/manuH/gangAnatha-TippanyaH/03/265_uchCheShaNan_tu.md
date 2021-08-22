@@ -2,16 +2,17 @@
 title = "265 उच्छेषणन् तु"
 
 +++
-This verse is quoted in *Aparārka* (p. 474), which explains ‘*Sṛṣṭi*’ as
-connoting ‘plenty’, and ‘*Mṛṣṭi*’ as connoting ‘deliciousness’;—and in
-*Hemādri* (Śrāddha, pp. 111 and 72), which adds the following
-notes:—‘*V* *āstu*’, the house built for the Śrāddha-performance,—its
-‘*Sampādana*’ means ‘building or acquiring by purchase, making it slope
-towards the South, levelling, washing and besmearing with
-cow-dung’—‘*Sṛṣṭi*’ means ‘giving away’ *i.e*., freely giving away
-vegetables and other things,—‘*Mṛṣṭi*’, cleanliness or
-sweetness,—‘*agryāḥ*’, those equipped with *Vedic* learning,—these are
-‘*Śrāddhasampadaḥ*’ *i.e*., excellences of things used at the Śrāddha;
-this implies that all these should be got together.
+This verse is quoted in *Nirṇayasindhu* (p. 331);—in *Gadādharapaddhati*
+(Kāla, p. 490), which explains ‘*Gṛhabali*’ as standing for *Bhūtayajña*
+and implying the entire Vaiśvadeva offering,—as held in *Kalpataru*;—in
+*Saṃskāraratnamālā* (p. 958), which notes that according to Medhātithi
+and Karka the term ‘*bali*’ here stands for the Vaiśvadeva offering; but
+for the Kākabali, according to Divodāsa;—in *Hemādri* (*Kāla*, p. 606),
+which reproduces the entire commentary of Medhātithi—in
+
+*Puruṣārthacintāmaṇi* (p. 426), which also quotes Medhātithi to the
+effect that ‘*bali*’ stands for the *Vaiśvadeva* offering;—and in
+*Hemādri* (Śrāddha, p. 1062), where also Medhātithi’s commentary is
+reproduced *in toto*.
 
 

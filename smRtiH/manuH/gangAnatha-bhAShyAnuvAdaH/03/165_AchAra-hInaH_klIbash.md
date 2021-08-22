@@ -2,35 +2,27 @@
 title = "165 आचार-हीनः क्लीबश्"
 
 +++
-Bards, dramatic performers, dancers and singers are called ‘actors.’
+‘*Right* *conduct*’ stands here for the ordinary acts of courtesy, such
+as offering worship to persons coming to one’s house, and so forth;—he
+who is devoid of this.
 
-‘*One who has broken the vows of continence*’—necessary for the student.
+^(‘)*Without vigour*’—*i.e*., with very little energy; who has lost all
+enthusiasm for doing his duties.
 
-The term ‘*vṛṣalī*’ stands for the *śūdra* woman; her ‘*husband*.’
-People think that this refers to a case where there is no other wife;
-the meaning being ‘he who is the husband of the Śūdra woman alone, he
-who has no wife of any twice-born caste.’
+‘*Constant beggar*’—one who is always begging, he who teases people by
+his begging; it is in the very nature of things that begging should
+displease the person bagged from. The term ‘*yācanakaḥ*’ is formed with
+the ‘*yu*’ affix, according to Pāṇini 3.1.134, and then the reflexive
+‘*ka’* added to it.
 
-“Whence is this sense got at?”
+‘*He who lives by agriculture*’—by doing the cultivating himself; or
+even by the cultivating done by others, if other means of living are
+available.
 
-In another connection, we find a recapitulation of reprehensible
-practices, where we read—‘these are men addicted to reprehensible
-practices’ (167); the mere marrying of a *Śūdra* woman, which is
-sanctioned by all, is not ‘reprehensible;’ but it has been sanctioned
-only for one who has already married a wife of the same caste as
-himself. Hence, what is excluded here is that husband of the Śūdra woman
-who has no wife of the same caste as himself.
+‘*One suffering form elephantiasis*’—whose one leg is thicker than the
+other,
 
-‘*The son of a re-married woman*;’—‘*punarbhūḥ*’ is the remarried woman;
-described under Discourse 9, in the verse ‘she who has been abandoned by
-her husband, etc.’ (9.175).
-
-‘*Who has only one eye*’—whose one eye is maimed.
-
-‘*He in whose house lives the paramour*,’—*i.e*., the paramour of his
-lawfully wedded wife. Such a man is despised by reason of his tolerating
-such a thing. It is said below (8.317)—‘The abortionist transmits bis
-guilt to him who feeds him, and the misbehaved wife transmits hers to
-her husband.’—(155)
+‘*He who is spoken ill of by good men*’—the unfortunate man, who is
+despised by good men, even without doing anything wrong.—(165)
 
 

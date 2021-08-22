@@ -2,17 +2,23 @@
 title = "256 दर्भाः पवित्रम्"
 
 +++
-The preceding verse has described the disposal of the remnant in the
-dishes; the present verse mentions the fact that the remnant fallen on
-the ground is for servants.
+‘*Kuśa-grass*’—is well-known.
 
-‘*Ajihma*’ means ‘*not dishonest*,’ ‘straightforward.’
+‘*Sanctificatory texts*’—Mantras.
 
-‘*Aśaṭha*’ is ‘not idle,’ ‘dutiful.’
+‘*Sacrificial food*’— articles of food fit for sacrifices; these are
+going to be described in the next verse.
 
-Of such servants the said remnant is the share.
+‘*Purity*’—cleanliness of conduct.
 
-For this reason, large quantities of food shall be served, so that, when
-the invited person is eating, something may fall on the ground.—(246)
+‘*And also the afore-mentioned*’—*i.e*., what have been mentioned in the
+preceding verse, in the shape of ‘setting up of the dwelling,
+liberality, cleaning, superior Brāhmaṇas’ equipped with character and
+learning.
+
+‘*Essentials of a sacrifice*’—‘Sacrifice’ consists in the act of
+offering to the gods and of feeding Brāhmaṇas in honour of the gods; the
+term ‘*havya*,’ ‘sacrifice,’ standing for what is done in honour of the
+gods.—(256)
 
 

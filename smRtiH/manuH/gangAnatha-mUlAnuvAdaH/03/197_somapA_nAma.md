@@ -3,4 +3,4 @@ title = "197 सोमपा नाम"
 
 +++
 
-When the śrāddha-performance has approaohed, one should invite, either on the preceding day or the next day, in the proper manner, at least three brāhmaṇas, such as have been described.—(187)
+Those by name Somapās are the Pitṛs of Brāhmaṇas; the Havirbhujs are the Pitṛs of Kṣatriyas; those by name Ājyapas, of Vaiśyas; and of Śūdras, Sukālins.—(197) 

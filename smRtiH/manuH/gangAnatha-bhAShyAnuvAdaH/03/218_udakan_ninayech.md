@@ -2,18 +2,24 @@
 title = "218 उदकन् निनयेच्"
 
 +++
-‘*Placed*’—*i.e*., prepared and duly arranged.
+Water should be poured again near the balls, out of the same vessel from
+which it had been poured upon the kuśa-blades, before the offering or
+the balls.
 
-‘*Separately*’—with proper partition. He shall not provide for all a
-single seat, in the form of a long piece of cloth or wooden plank. They
-shall be seated in such a manner that they should not touch one another.
-It is in this sense that ‘*separately*’ has been added.
+‘*Remaining*’;—this is meant to show that, the net mentioned is to be
+regarded as the ‘disposal of remnants;’ it is only in this sense that
+the term ‘*remaining*’ becomes justifiable. From this it follows that,
+in the event of there being no ‘remnant,’ there shall be no ‘pouring.’
+But in the *Gṛhyasūtra*, it has been declared that this ‘pouring of
+water’ is obligatory.
 
-‘*With kuśa grass*’— with bundles of Kuśa spread over them.
+‘*He should smell these balls*;’—‘*smelling*,’ consists of *eeling the
+odour*; but in the *Gṛhyasūtra* it is said that ‘he should *eat* it with
+his breath.’
 
-‘*Who have performed their ablutions*’—*i.e*., who have bathed and
-rinsed their mouth in the prescribed manner.
-
-‘*The said*’—those previously invited—‘*he should seat*.’—(208)
+‘*in the order in which they were offered*,’—the order in which they
+were offered being, *first* to the father, *second* to the grandfather,
+and *third* to the great-grandfather;—‘*with collected mind*’—this is
+for filling up the metre.—(218.)
 
 

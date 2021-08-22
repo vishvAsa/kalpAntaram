@@ -3,4 +3,4 @@ title = "113 इतरान् अपि"
 
 +++
 
-One should not regard as “guest” a Brāhmaṇa who lives in the same village or who is a companion. He should regard him as such when he arrives at his house, or where the wife and the fires are at the time.—(103)
+Others also, friends and the rest, that may come to his house out of affection, he should feed on food specially prepared, to the best of his ability, together with his wife.—(113)
