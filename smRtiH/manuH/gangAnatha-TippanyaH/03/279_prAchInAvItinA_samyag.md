@@ -1,0 +1,9 @@
++++
+title = "279 प्राचीनावीतिना सम्यग्"
+
++++
+This verse is quoted in *Parāśaramādhava* (Ācāra, p. 706);—in *Hemādri*
+(Śrāddha, p. 586);—and in *Gadādharapaddhati* (Kāla, p. 536), which
+explains ‘*pārṣata*’ as meat of the *Pṛṣat* *i.e*., the spotted deer.
+
+

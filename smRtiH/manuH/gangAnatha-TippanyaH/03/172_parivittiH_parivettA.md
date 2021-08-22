@@ -1,0 +1,9 @@
++++
+title = "172 परिवित्तिः परिवेत्ता"
+
++++
+This verse is quoted without comment in *Parāśaramādhava* (Ācāra, p.
+688);—in *Hemādri* (Śrāddha, p. 481);—and in *Nṛsiṃhaprasāda* (Śrāddha,
+p. 9a).
+
+
