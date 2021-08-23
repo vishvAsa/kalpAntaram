@@ -110,7 +110,7 @@ years, the Brāhmaṇa-slayer becomes absolved (then follow Manu’s verses
 74, 76, 77).
 
 (See [Manu above,
-9.317](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201510.html#comparative-notes),
+9.317],
 and
-[1.93-95](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145541.html#comparative-notes);
+[1.93-95];
 and below 12.112 in connection with 11.85 and 86.)

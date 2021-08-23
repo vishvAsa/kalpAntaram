@@ -3,7 +3,7 @@ title = "054 ओघ-वाताहृतम् बीजम्"
 
 +++
 It has been declared ([under
-43](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201402.html))
+43])
 that when a man sows his seed in another man’s soil, his seed is lost.
 And on the basis people may have the following idea—“In the case cited,
 it is only right that the produce shall be confiscated, since a wrong

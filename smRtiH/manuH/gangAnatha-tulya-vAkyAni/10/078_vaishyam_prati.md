@@ -6,7 +6,7 @@ title = "078 वैश्यम् प्रति"
 **
 
 [\[See texts under 9.326 *et
-seq*.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201719.html#comparative-notes)
+seq*.\]]
 
 See Comparative notes for [Verse
-10.77](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201813.html "English translation of verse").
+10.77].

@@ -7,4 +7,4 @@ guilt, if he once recites the hymn beginning with “*Asya vāmasya*,” and
 also the *Śivasaṅkalpa* texts.’
 
 *Yājñavalkya* (3.303).—[(See above verse
-249.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202156.html#comparative-notes)
+249.)]

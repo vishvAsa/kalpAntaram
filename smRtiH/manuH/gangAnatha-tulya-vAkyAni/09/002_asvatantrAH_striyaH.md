@@ -3,7 +3,7 @@ title = "002 अस्वतन्त्राः स्त्रियः"
 
 +++
 [\[See also Manu, 5.147-148 and the texts under
-them.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200533.html)
+them.\]]
 
 *Gautama* (18.1).—‘A wife is not independent with respect to the sacred
 Law.’

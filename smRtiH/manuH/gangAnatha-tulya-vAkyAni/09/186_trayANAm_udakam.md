@@ -6,7 +6,7 @@ title = "186 त्रयाणाम् उदकम्"
 **
 
 [\[See Text under
-185.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201565.html)
+185.\]]
 
 *Mānava-Śrāddhakalpa* (III).—(Same as Manu.)
 

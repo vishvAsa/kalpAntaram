@@ -5,9 +5,9 @@ title = "031 न ब्राह्मणो"
 **(verses 11.31-35)**
 
 \[[See 9.290
-above](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201680.html);
+above];
 and texts thereunder; [also
-9.313-321.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201705.html#comparative-notes)\]
+9.313-321.]\]
 
 *Mahābhārata* (12.165.18-2).—(Same as Manu.)
 

@@ -6,4 +6,4 @@ title = "048 वाय्व्-अग्नि-विप्रम् आदि�
 **
 
 See Comparative notes for [Verse
-4.45](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200149.html#comparative-notes "English translation of verse").
+4.45].

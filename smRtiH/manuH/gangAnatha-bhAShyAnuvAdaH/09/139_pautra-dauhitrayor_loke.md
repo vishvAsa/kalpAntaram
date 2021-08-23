@@ -8,7 +8,7 @@ the *son of the. Appointed Daughter*.
 ‘*The daughters son, like the son’s son, saves the man* *in* *the next
 world*’;—this is purely declamatory;—the fact having been already
 enjoined before ([in
-133](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201506.html)).
+133]).
 
 Between these two ‘*there is no difference*’;—in the case of one (the
 son’s son), it is the mother, while in that of the other (the daughter’s

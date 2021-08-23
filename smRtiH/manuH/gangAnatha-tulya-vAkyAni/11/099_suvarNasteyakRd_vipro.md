@@ -6,7 +6,7 @@ title = "099 सुवर्णस्तेयकृद् विप्रो"
 **
 
 [\[See above
-8.314-316.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201248.html#comparative-notes)
+8.314-316.\]]
 
 *Āpastamba* (1.25.10).—‘Those who have stolen gold, drunk wine or
 violated the *Guru’s* bed, but not those who have slain a Brāhmaṇa,

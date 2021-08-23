@@ -6,4 +6,4 @@ title = "007 हीन-क्रियन् निष्-पुरुषम्"
 **
 
 See Comparative notes for [Verse
-3.6](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199778.html#comparative-notes "English translation of verse").
+3.6].

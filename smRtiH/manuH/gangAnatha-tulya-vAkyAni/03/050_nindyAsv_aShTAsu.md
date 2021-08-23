@@ -6,4 +6,4 @@ title = "050 निन्द्यास्व् अष्टासु"
 **
 
 See Comparative notes for [Verse
-3.45](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199821.html#comparative-notes "English translation of verse").
+3.45].

@@ -6,4 +6,4 @@ title = "046 ऋतुः स्वाभाविकः"
 **
 
 See Comparative notes for [Verse
-3.45](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199821.html#comparative-notes "English translation of verse").
+3.45].

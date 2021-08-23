@@ -6,7 +6,7 @@ title = "331 सारासारञ् च"
 **
 
 [\[See texts under
-8.410-418.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201345.html#comparative-notes)
+8.410-418.\]]
 
 See Comparative notes for [Verse
-9.326](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201719.html#comparative-notes "English translation of verse").
+9.326].

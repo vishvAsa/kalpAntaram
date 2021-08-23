@@ -6,4 +6,4 @@ title = "088 मरुद्भ्य इति"
 **
 
 See Comparative notes for [Verse
-3.84](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199863.html#comparative-notes "English translation of verse").
+3.84].

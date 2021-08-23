@@ -56,7 +56,7 @@ belongs to the unmarried daughter; the son cannot have it; if the
 daughter has been married, the son shall share it equally with her.’
 
 [(See the texts under
-192-193.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201572.html#comparative-notes)
+192-193.)]
 
 *Kātyāyana* (Vivādaratnākara, p. 573).—‘Neither the husband, nor the
 son, nor the father, nor the brothers have the right to take away or to

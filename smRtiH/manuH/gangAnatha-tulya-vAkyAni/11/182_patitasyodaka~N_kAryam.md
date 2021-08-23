@@ -6,7 +6,7 @@ title = "182 पतितस्योदकङ् कार्यम्"
 **
 
 [\[See above,
-9.201.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201581.html#comparative-notes)
+9.201.\]]
 
 *Gautama* (20.4-9).—‘A slave or a hired servant shall fetch an impure
 vessel from a dust-heap, fill it with water taken from the pot of a

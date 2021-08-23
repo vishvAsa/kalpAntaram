@@ -3,7 +3,7 @@ title = "071 न दत्त्वा"
 
 +++
 [See above,
-8.98.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201003.html)
+8.98.]
 
 “Medhātithi and Nandana say that the verse is meant to forbid marriage
 of a girl whose betrothed has died. But Kullūka thinks that it refers to

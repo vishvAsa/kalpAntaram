@@ -3,7 +3,7 @@ title = "191 येषान् द्विजानाम्"
 
 +++
 [See
-2.38.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145625.html)
+2.38.]
 
 This verse is quoted in *Parāśaramādhava* (Prāyaścitta, p. 433), as
 laying down the expiation for the ‘*Vrātya*’;—in *Madanapārijāta* (p.

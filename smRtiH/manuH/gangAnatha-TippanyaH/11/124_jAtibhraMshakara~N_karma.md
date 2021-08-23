@@ -3,7 +3,7 @@ title = "124 जातिभ्रंशकरङ् कर्म"
 
 +++
 The ‘*Jātibhraṃśakara*’ offences have been enumerated [above in verse
-67](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201944.html).
+67].
 
 This verse is quoted in *Mitākṣarā* (3.254),—and again under 3.290);—in
 *Smṛtitattva* (p. 542);—in *Parāśaramādhava* (Prāyaścitta p. 441), as

@@ -3,7 +3,7 @@ title = "214 सर्व एव"
 
 +++
 [\[See texts under
-201-202.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201581.html#comparative-notes)
+201-202.\]]
 
 *Mahābhārata* (13.105.10).—(Same as Manu.)
 

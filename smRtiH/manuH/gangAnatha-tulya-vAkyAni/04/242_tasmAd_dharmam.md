@@ -6,4 +6,4 @@ title = "242 तस्माद् धर्मम्"
 **
 
 See Comparative notes for [Verse
-4.241](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200348.html#comparative-notes "English translation of verse").
+4.241].

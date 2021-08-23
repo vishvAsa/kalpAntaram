@@ -6,4 +6,4 @@ title = "042 तां विवर्जयतस्"
 **
 
 See Comparative notes for [Verse
-4.40](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200144.html#comparative-notes "English translation of verse").
+4.40].

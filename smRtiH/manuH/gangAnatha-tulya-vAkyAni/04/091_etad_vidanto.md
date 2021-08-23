@@ -6,4 +6,4 @@ title = "091 एतद् विदन्तो"
 **
 
 See Comparative notes for [Verse
-4.87](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200192.html#comparative-notes "English translation of verse").
+4.87].

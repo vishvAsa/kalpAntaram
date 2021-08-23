@@ -3,7 +3,7 @@ title = "274 ग्रामघाते हिताभङ्गे"
 
 +++
 [\[See texts under
-272.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201663.html)
+272.\]]
 
 *Viṣṇu* (5.74)—‘The double punishment is likewise ordained for those who
 do not give assistance to one calling for help, though they happen to he

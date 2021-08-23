@@ -6,4 +6,4 @@ title = "154 यक्ष्मी च"
 **
 
 See Comparative notes for [Verse
-3.150](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199930.html#comparative-notes "English translation of verse").
+3.150].

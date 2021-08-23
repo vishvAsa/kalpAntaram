@@ -3,7 +3,7 @@ title = "047 सकृद् अंशो"
 
 +++
 This has been explained by us under the [section on ‘Rescision’
-(8.227)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201157.html).
+(8.227)].
 
 At the time of partition, if the co-partners are such as are entitled to
 equal as well as unequal shares, they should divide the property in such

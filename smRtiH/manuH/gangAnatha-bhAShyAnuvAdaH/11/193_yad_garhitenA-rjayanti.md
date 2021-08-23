@@ -23,7 +23,7 @@ the verse as follows:—Any means of acquiring property that has been
 forbidden for a man—be he a twice-born or Śūdra—is ‘*objectionable*’ for
 him. *E.g*., it has been declared that—‘The Brāhmaṇa or the Kṣatriya
 shall not take interest’
-([10.117](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201487.html)).
+([10.117]).
 For one who earns wealth by such means, the expiation consists of
 ‘giving up,’ ‘repeating of texts’ and ‘austerities,’ all three combined.
 In the ease of the Brāhmaṇa accepting an improper gift, however, there

@@ -6,7 +6,7 @@ title = "192 जनन्यां संस्थितायाम्"
 **
 
 \[[See
-131](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201504.html)
+131]
 and the texts there under. Also 198.\]
 
 *Yājñavalkya* (2.117).—‘Of the mother’s property, what remains after

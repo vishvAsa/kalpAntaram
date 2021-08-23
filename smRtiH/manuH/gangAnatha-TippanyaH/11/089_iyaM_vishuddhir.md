@@ -3,7 +3,7 @@ title = "089 इयं विशुद्धिर्"
 
 +++
 ‘*Iyam*’.—According to some this refers to [verse
-72](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201950.html),
+72],
 and these people hold that “in the case of wilful murder the penance has
 to be made severer by doubling or trebling the term of twelve
 years.”—Buhler.

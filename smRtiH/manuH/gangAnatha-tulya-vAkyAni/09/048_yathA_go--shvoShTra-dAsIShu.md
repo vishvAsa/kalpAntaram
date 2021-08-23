@@ -6,7 +6,7 @@ title = "048 यथा गो-ऽश्वोष्ट्र-दासीषु"
 **
 
 [(See the texts under
-31-44.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201390.html#comparative-notes)
+31-44.)]
 
 *Parāśara* (1.16).—(Same as Manu.)
 

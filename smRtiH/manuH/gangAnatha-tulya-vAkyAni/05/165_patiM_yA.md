@@ -6,7 +6,7 @@ title = "165 पतिं या"
 **
 
 See Comparative notes for [Verse
-5.154](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200540.html#comparative-notes "English translation of verse").
+5.154].
 
 **(verse 5.164)**
 

@@ -6,4 +6,4 @@ title = "305 अष्टौ मासान्"
 **
 
 [\[See texts under
-7.1-42.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200661.html)
+7.1-42.\]]

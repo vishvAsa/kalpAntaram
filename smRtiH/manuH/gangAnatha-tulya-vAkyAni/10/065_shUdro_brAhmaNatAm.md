@@ -6,7 +6,7 @@ title = "065 शूद्रो ब्राह्मणताम्"
 **
 
 [\[See texts under
-42.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201772.html#comparative-notes)
+42.\]]
 
 See Comparative notes for [Verse
-10.64](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201799.html#comparative-notes "English translation of verse").
+10.64].

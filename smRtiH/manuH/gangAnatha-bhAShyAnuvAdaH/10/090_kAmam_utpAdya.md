@@ -3,7 +3,7 @@ title = "090 कामम् उत्पाद्य"
 
 +++
 [Under
-86](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201823.html),
+86],
 the selling of ‘cooked food and sesamum’ has been forbidden; and to this
 the present verse is an exception, in view of certain special conditions
 and purposes.

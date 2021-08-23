@@ -6,7 +6,7 @@ title = "077 त्रयो धर्मा"
 **
 
 [\[See texts under 9.326 *et
-seq*.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201719.html#comparative-notes)
+seq*.\]]
 
 *Gautama* (10.1, 7, 15, 49).—‘The occupations common to all the
 twice-born are—studying, offering sacrifices, and giving gifts,—to

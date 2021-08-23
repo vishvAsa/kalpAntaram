@@ -15,7 +15,7 @@ indicating that the expiation in this case shall be the ‘performance of
 the *Kṛcchra* for one year,’ and not that which has been laid down in
 connection with ‘the eating of the food of persons whose food should not
 be eaten’ ([Verse
-152](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202043.html)).
+152]).
 
 Similarly the ‘*receiving of gifts*’ also has been mentioned here for
 the purpose of indicating the said *Kṛcchra* as the expiation, and not

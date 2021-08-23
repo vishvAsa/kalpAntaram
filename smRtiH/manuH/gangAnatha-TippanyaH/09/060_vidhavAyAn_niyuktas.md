@@ -6,6 +6,6 @@ title = "060 विधवायान् नियुक्तस्"
 **
 
 See Explanatory notes for [Verse
-9.59](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201419.html#explanatory-notes "English translation of verse").
+9.59].
 
 

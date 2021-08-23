@@ -3,9 +3,9 @@ title = "140 मातुः प्रथमतः"
 
 +++
 See texts under
-[132](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201505.html)
+[132]
 and
-[136](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201509.html).
+[136].
 
 *Baudhāyana* (2.3.16).—‘They quote the following:—“The son of an
 Appointed Daughter offers the first funeral cake to his mother, the

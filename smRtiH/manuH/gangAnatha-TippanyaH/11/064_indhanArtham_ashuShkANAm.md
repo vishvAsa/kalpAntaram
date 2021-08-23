@@ -3,7 +3,7 @@ title = "064 इन्धनार्थम् अशुष्काणाम्
 
 +++
 [See
-3.118.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199897.html)
+3.118.]
 
 ‘*Ninditānna*.’—‘Forbidden food’ (Medhātithi and Kullūka);—‘food given
 by persons from whom it should not be accepted, *e.g*. by a king, a

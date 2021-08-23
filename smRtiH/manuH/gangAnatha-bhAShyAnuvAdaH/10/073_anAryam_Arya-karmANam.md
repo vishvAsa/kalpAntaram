@@ -30,7 +30,7 @@ good qualities, his caste cannot come to his rescue; for if it did, then
 there would be no point in the prescribing of expiatory rites.
 
 [From verse
-66](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201801.html)
+66]
 to the present one, the text is intended to be a deprecation of the
 ‘confusion of castes,’ and the praise of the due performance of one’s
 duties; there is nothing either enjoined or forbidden, nor is anything

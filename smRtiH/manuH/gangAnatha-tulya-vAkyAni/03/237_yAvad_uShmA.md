@@ -6,4 +6,4 @@ title = "237 यावद् उष्मा"
 **
 
 See Comparative notes for [Verse
-3.236](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200026.html#comparative-notes "English translation of verse").
+3.236].

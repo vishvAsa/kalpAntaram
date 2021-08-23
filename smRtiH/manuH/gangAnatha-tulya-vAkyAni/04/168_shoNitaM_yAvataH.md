@@ -6,4 +6,4 @@ title = "168 शोणितं यावतः"
 **
 
 See Comparative notes for [Verse
-4.167](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200272.html#comparative-notes "English translation of verse").
+4.167].

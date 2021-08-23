@@ -6,4 +6,4 @@ title = "041 स्वजातिजानन्तरजाः षट्"
 **
 
 See Comparative notes for [Verse
-10.6](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201739.html#comparative-notes "English translation of verse").
+10.6].

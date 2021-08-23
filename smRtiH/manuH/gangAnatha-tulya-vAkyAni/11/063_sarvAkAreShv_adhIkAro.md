@@ -6,4 +6,4 @@ title = "063 सर्वाकारेष्व् अधीकारो"
 **
 
 See Comparative notes for [Verse
-11.58](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201935.html#comparative-notes "English translation of verse").
+11.58].

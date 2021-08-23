@@ -3,7 +3,7 @@ title = "114 सर्वेषान् धनजातानाम्"
 
 +++
 [See texts above, under
-112-113.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201482.html#comparative-notes)
+112-113.]
 
 *Gautama* (28.11-13).—‘Or, let them each take one kind of property,
 selecting, according to seniority, what they desire, ten head of cattle.

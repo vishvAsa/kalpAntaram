@@ -19,7 +19,7 @@ girdle; since he is on a level with the Śūdra before he is born in the
 Veda.’
 
 \[See
-above.—[2.72](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199529.html);
-[5.155](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200541.html)
+above.—[2.72];
+[5.155]
 and
-[9.18](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201376.html).\]
+[9.18].\]

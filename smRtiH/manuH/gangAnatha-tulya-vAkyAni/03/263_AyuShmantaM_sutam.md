@@ -6,4 +6,4 @@ title = "263 आयुष्मन्तं सुतम्"
 **
 
 See Comparative notes for [Verse
-3.262](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200059.html#comparative-notes "English translation of verse").
+3.262].

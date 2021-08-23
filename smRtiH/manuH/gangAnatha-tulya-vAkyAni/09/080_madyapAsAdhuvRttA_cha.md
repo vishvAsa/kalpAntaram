@@ -6,4 +6,4 @@ title = "080 मद्यपासाधुवृत्ता च"
 **
 
 See Comparative notes for [Verse
-9.77](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201440.html#comparative-notes "English translation of verse").
+9.77].

@@ -3,7 +3,7 @@ title = "062 व्रात्यता बान्धवत्यागो"
 
 +++
 [See
-10.20.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201750.html#comparative-notes)
+10.20.]
 
 This verse is quoted in *Prāyaścittaviveka* (p. 192), which has the
 following notes—‘*Vrātyatā*’, whose Upanayana has not been performed at

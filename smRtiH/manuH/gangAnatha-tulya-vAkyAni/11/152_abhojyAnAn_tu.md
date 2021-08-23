@@ -3,7 +3,7 @@ title = "152 अभोज्यानान् तु"
 
 +++
 See above under
-[4.222](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200326.html).
+[4.222].
 
 *Vaśiṣṭha* (14. 33).—‘For eating garlic, onions, mushrooms, turnips,
 śleṣmātaka, exudations from trees, the red sap flowing from incisions in

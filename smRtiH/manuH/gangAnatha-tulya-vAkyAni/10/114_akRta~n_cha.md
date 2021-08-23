@@ -6,7 +6,7 @@ title = "114 अकृतञ् च"
 **
 
 [\[See 4.84 *et*
-*seq*.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200189.html#comparative-notes)
+*seq*.\]]
 
 See Comparative notes for [Verse
-10.113](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201854.html#comparative-notes "English translation of verse").
+10.113].

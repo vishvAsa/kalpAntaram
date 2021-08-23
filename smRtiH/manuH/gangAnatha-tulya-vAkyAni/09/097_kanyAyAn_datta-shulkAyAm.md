@@ -3,10 +3,10 @@ title = "097 कन्यायान् दत्त-शुल्काया�
 
 +++
 (See under
-[47](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201406.html),
-[69](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201429.html#comparative-notes)
+[47],
+[69]
 and
-[71](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201431.html).)
+[71].)
 
 *Vaśiṣṭha* (17-72).—‘If the betrothed of a maiden die after she has been
 promised to him verbally and by a libation of water,—but before she was

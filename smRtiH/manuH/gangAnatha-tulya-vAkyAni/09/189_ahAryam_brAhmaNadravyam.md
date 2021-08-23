@@ -6,7 +6,7 @@ title = "189 अहार्यम् ब्राह्मणद्रव्य
 **
 
 [\[See Text under
-185.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201565.html)
+185.\]]
 
 See Comparative notes for [Verse
-9.186](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201566.html#comparative-notes "English translation of verse").
+9.186].

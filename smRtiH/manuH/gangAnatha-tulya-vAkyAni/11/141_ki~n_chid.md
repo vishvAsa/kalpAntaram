@@ -6,4 +6,4 @@ title = "141 किञ् चिद्"
 **
 
 See Comparative notes for [Verse
-11.140](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202028.html#comparative-notes "English translation of verse").
+11.140].

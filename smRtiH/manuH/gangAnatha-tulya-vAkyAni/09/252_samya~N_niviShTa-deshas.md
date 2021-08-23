@@ -3,4 +3,4 @@ title = "252 सम्यङ् निविष्ट-देशस्"
 
 +++
 \[See under
-[7.69](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200732.html)-[70](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200733.html).\]
+[7.69]-[70].\]

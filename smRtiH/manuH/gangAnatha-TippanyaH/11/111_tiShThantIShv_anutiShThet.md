@@ -6,7 +6,7 @@ title = "111 तिष्ठन्तीष्व् अनुतिष्ठे
 **
 
 See Explanatory notes for [Verse
-11.108](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201991.html#explanatory-notes "English translation of verse").
+11.108].
 
 
 

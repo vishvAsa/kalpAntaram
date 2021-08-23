@@ -3,7 +3,7 @@ title = "156 क्रव्याद-सूकरोष्ट्राणाङ
 
 +++
 [*Cf*.
-5.19-21.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200394.html#comparative-notes)
+5.19-21.]
 
 For the *Tapta-Kṛchhra* see 11.215.
 

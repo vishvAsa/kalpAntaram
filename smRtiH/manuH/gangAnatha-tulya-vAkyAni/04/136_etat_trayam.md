@@ -6,4 +6,4 @@ title = "136 एतत् त्रयम्"
 **
 
 See Comparative notes for [Verse
-4.135](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200243.html#comparative-notes "English translation of verse").
+4.135].

@@ -6,4 +6,4 @@ title = "044 नाऽञ्जयन्तीं स्वके"
 **
 
 See Comparative notes for [Verse
-4.43](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200147.html#comparative-notes "English translation of verse").
+4.43].

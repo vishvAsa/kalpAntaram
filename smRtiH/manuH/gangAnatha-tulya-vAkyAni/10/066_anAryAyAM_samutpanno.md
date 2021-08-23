@@ -6,4 +6,4 @@ title = "066 अनार्यायां समुत्पन्नो"
 **
 
 [\[See texts under 9.33 *et
-seq*.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201392.html#comparative-notes)
+seq*.\]]

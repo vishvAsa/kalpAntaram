@@ -3,7 +3,7 @@ title = "054 ब्रह्महत्या सुरापानम्"
 
 +++
 [\[See
-above.—9.235.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201622.html#comparative-notes)
+above.—9.235.\]]
 
 *Gautama* (21.1).—‘The slayer of a Brāhmaṇa, he who drinks wine, the
 violator of the Guru’s bed, he who has connection with the female

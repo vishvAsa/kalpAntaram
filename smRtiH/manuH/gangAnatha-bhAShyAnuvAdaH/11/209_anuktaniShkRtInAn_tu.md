@@ -9,7 +9,7 @@ the expiation.’
 
 “In the present work itself, it has been declared that—‘for killing
 animals with bones, one may give something to a Brāhmaṇa’ ([Verse
-141](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202029.html));
+141]);
 and this should include the *Caṇḍāla* and others.”
 
 In that verse, inasmuch as the said animals are spoken of along with

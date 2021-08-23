@@ -6,7 +6,7 @@ title = "121 शूद्रस् तु"
 **
 
 [\[See under 99
-above.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201839.html#comparative-notes)
+above.\]]
 
 *Gautama* (10.56).—‘Serving the higher castes (is the duty of the
 Śūdra).’

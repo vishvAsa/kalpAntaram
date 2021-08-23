@@ -6,7 +6,7 @@ title = "060 विधवायान् नियुक्तस्"
 **
 
 [(See texts under
-59.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201419.html#explanatory-notes)
+59.)]
 
 *Vaśiṣṭha* (17.61, *et seq*.).—‘He shall approach the widow in the
 moment sacred to Prajāpati, behaving like a husband, without dallying

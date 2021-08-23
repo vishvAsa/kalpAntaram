@@ -6,4 +6,4 @@ title = "006 इमं हि"
 **
 
 See Comparative notes for [Verse
-9.5](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201363.html#comparative-notes "English translation of verse").
+9.5].

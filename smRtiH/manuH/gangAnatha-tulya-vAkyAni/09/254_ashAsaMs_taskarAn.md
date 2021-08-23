@@ -6,8 +6,8 @@ title = "254 अशासंस् तस्करान्"
 **
 
 \[See under
-[8.307](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201241.html#comparative-notes),
-[386-387](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201320.html#comparative-notes).\]
+[8.307],
+[386-387].\]
 
 See Comparative notes for [Verse
-9.253](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201642.html#comparative-notes "English translation of verse").
+9.253].

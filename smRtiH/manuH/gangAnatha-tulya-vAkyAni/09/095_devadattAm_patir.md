@@ -7,4 +7,4 @@ gods is the teaching of the Law; he (who does not treat her well)
 falsifies the word of man and god.’
 
 [(See above, under
-1.28.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc145433.html)
+1.28.)]

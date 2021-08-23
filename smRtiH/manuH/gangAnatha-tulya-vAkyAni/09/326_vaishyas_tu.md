@@ -6,7 +6,7 @@ title = "326 वैश्यस् तु"
 **
 
 [\[See texts under
-8.410-418.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201345.html#comparative-notes)
+8.410-418.\]]
 
 *Parāśara* (Ācāra, 63).—‘Profitable Business, dealing in gems, tending
 of cows, agriculture and trade are declared to be the means of

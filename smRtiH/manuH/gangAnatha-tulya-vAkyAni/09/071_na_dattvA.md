@@ -17,4 +17,4 @@ himself,—after the nuptial fee has already been presented by a former
 suitor,—the verbal engagement previously made shall he annulled.’
 
 [(See texts under
-47.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201406.html)
+47.)]

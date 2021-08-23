@@ -6,4 +6,4 @@ title = "072 यस्माद् बीजप्रभावेण"
 **
 
 [\[See texts under 9.33 *et
-seq*.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201392.html#comparative-notes)
+seq*.\]]

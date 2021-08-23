@@ -3,7 +3,7 @@ title = "240 प्रायश्चित्तन् तु"
 
 +++
 ‘*Uttama-sāhasam*’ [see
-8.138](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201054.html).
+8.138].
 
 This verse is quoted in *Vivādaratnākara* (p. 635);—in
 *Vyavahāramayūkha* (p. 102);—in *Mitākṣarā*, (under 2.270);—and again

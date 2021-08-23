@@ -6,4 +6,4 @@ title = "161 आसनञ् चैव"
 **
 
 See Comparative notes for [Verse
-7.160](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200828.html#comparative-notes "English translation of verse").
+7.160].

@@ -6,4 +6,4 @@ title = "129 एतद् एव"
 **
 
 See Comparative notes for [Verse
-11.126](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202011.html#comparative-notes "English translation of verse").
+11.126].

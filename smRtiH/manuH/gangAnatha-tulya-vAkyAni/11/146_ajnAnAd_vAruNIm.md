@@ -3,7 +3,7 @@ title = "146 अज्ञानाद् वारुणीम्"
 
 +++
 [(See texts under 91 *et
-seq*.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201969.html#comparative-notes)
+seq*.)]
 
 *Gautama* (23.2).—‘If the Brāhmaṇa has drunk wine unintentionally, he
 shall subsist for three days on hot milk, clarified hatter and water;

@@ -4,7 +4,7 @@ title = "071 न दत्त्वा"
 +++
 It has been declared ‘that consummation of it is to be understood as
 occurring at the seventh step’
-[(8.227)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201157.html).
+[(8.227)].
 People may be inclined to the notion that if the bridegroom dies before
 this point has been reached, the girl may be given away to another man;
 it is this notion that the present text, precludes.

@@ -6,4 +6,4 @@ title = "076 षण्णान् तु"
 **
 
 See Comparative notes for [Verse
-10.74](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201810.html#comparative-notes "English translation of verse").
+10.74].

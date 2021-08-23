@@ -3,7 +3,7 @@ title = "203 यद्य् अर्थिता"
 
 +++
 [\[See Texts under
-201-202.\]](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201581.html#comparative-notes)
+201-202.\]]
 
 *Gautama* (28.44).—‘The male offspring of the idiot receives his
 father’s share.’

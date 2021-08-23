@@ -3,9 +3,9 @@ title = "120 धान्ये ऽष्टमम्"
 
 +++
 \[[See under
-7.130](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200797.html),
+7.130],
 [and 8.398 *et
-seq*.](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201333.html)\]
+seq*.]\]
 
 *Vaśiṣṭha* (12.37).—‘They quote a verse proclaimed by Manu referring to
 duties and taxes—“No duty is paid on a sum less than a *Kārṣāpaṇa*;

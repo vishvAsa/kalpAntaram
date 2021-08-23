@@ -6,4 +6,4 @@ title = "055 मां स"
 **
 
 See Comparative notes for [Verse
-5.54](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200430.html#comparative-notes "English translation of verse").
+5.54].

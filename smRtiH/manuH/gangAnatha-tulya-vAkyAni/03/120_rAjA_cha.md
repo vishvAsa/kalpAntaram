@@ -6,4 +6,4 @@ title = "120 राजा च"
 **
 
 See Comparative notes for [Verse
-3.119](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc199898.html#comparative-notes "English translation of verse").
+3.119].

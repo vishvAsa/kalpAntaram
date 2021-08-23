@@ -6,7 +6,7 @@ title = "170 गुरुतल्पव्रतङ् कुर्याद्
 **
 
 [(See text under 49,
-above.)](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201928.html#comparative-notes)
+above.)]
 
 *Gautama* (23.12, 13, 32).—‘The guilt of one who has intercourse with
 the wife of a friend, a sister, a female belonging to the same family,

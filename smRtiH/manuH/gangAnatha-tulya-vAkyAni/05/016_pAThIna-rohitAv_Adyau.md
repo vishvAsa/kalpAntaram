@@ -6,4 +6,4 @@ title = "016 पाठीन-रोहिताव् आद्यौ"
 **
 
 See Comparative notes for [Verse
-5.15](/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc200389.html#comparative-notes "English translation of verse").
+5.15].
