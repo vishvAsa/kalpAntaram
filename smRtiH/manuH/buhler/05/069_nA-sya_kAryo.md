@@ -2,7 +2,4 @@
 title = "069 नाऽस्य कार्यो"
 
 +++
-नाऽस्य कार्यो ऽग्निसंस्कारो  
-न च कार्योदकक्रिया ।  
-अरण्ये काष्ठवत् त्यक्त्वा  
-क्षपेयुस् त्र्यहम् एव तु [मेधातिथिपाठः - क्षपेत त्र्यहम् एव च]  ॥ ५.६९ ॥ [६८ मेधातिथिपाठे]
+069	Such (a child) shall not be burnt with fire, and no libations of water shall be offered to it; leaving it like a (log of) wood in the forest, (the relatives) shall remain impure during three days only.

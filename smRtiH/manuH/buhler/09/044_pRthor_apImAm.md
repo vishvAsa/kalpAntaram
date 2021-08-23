@@ -2,7 +2,4 @@
 title = "044 पृथोर् अपीमाम्"
 
 +++
-पृथोर् अपीमां पृथिवीं  
-भार्यां पूर्वविदो विदुः ।  
-स्थाणु-च्छेदस्य केदारम्  
-आहुः शाल्यवतो मृगम्  ॥ ९.४४ ॥
+044	(Sages) who know the past call this earth (prithivi) even the wife of Prithu; they declare a field to belong to him who cleared away the timber, and a deer to him who (first) wounded it.

@@ -2,8 +2,4 @@
 title = "066 अमन्त्रिका तु"
 
 +++
-
-अमन्त्रिका तु कार्येयं  
-स्त्रीणाम् आवृद् अशेषतः ।  
-संस्कारार्थं शरीरस्य  
-यथाकालं यथाक्रमम्  ॥ २.६६ ॥
+066	This whole series (of ceremonies) must be performed for females (also), in order to sanctify the body, at the proper time and in the proper order, but without (the recitation of) sacred texts.

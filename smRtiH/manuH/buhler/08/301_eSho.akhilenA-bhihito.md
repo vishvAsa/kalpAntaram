@@ -2,7 +2,4 @@
 title = "301 एषो ऽखिलेनाऽभिहितो"
 
 +++
-एषो ऽखिलेनाऽभिहितो  
-दण्डपारुष्यनिर्णयः ।  
-स्तेनस्याऽतः प्रवक्ष्यामि  
-विधिं दण्डविनिर्णये  ॥ ८.३०१ ॥
+301	Thus the whole law of assault (and hurt) has been declared completely; I will now explain the rules for the decision (in cases) of theft.

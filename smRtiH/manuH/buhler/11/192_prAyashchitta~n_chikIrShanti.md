@@ -2,7 +2,4 @@
 title = "192 प्रायश्चित्तञ् चिकीर्षन्ति"
 
 +++
-प्रायश्चित्तं चिकीर्षन्ति  
-विकर्मस्थास् तु ये द्विजाः ।  
-ब्रह्मणा च परित्यक्तास्  
-तेषाम् अप्य् एतद् आदिशेत्  ॥ ११.१९२ ॥ [१९१ मेधातिथिपाठे]
+193	Let him prescribe the same (expiation) when twice-born men, who follow forbidden occupations or have neglected (to learn) the Veda, desire to perform a penance.

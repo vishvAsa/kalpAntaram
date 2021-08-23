@@ -2,8 +2,4 @@
 title = "173 कृतोपनयनस्याऽस्य व्रतादेशनम्"
 
 +++
-
-कृतोपनयनस्याऽस्य  
-व्रतादेशनम् इष्यते ।  
-ब्रह्मणो ग्रहणं चैव  
-क्रमेण विधि-पूर्वकम्  ॥ २.१७३ ॥
+173	The (student) who has been initiated must be instructed in the performance of the vows, and gradually learn the Veda, observing the prescribed rules.

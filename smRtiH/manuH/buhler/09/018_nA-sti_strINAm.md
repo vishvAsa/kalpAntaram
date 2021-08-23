@@ -2,7 +2,4 @@
 title = "018 नाऽस्ति स्त्रीणाम्"
 
 +++
-नाऽस्ति स्त्रीणां क्रिया मन्त्रैर्  
-इति धर्मे व्यवस्थितिः ।  
-निर्-इन्द्रिया ह्य् अमन्त्राश् च  
-स्त्रीभ्यो ऽनृतम् इति स्थितिः [मेधातिथिपाठः - स्त्रियो]  ॥ ९.१८ ॥
+018	For women no (sacramental) rite (is performed) with sacred texts, thus the law is settled; women (who are) destitute of strength and destitute of (the knowledge of) Vedic texts, (are as impure as) falsehood (itself), that is a fixed rule.

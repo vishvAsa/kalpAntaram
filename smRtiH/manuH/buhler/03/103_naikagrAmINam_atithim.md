@@ -2,7 +2,4 @@
 title = "103 नैकग्रामीणम् अतिथिम्"
 
 +++
-नैकग्रामीणम् अतिथिं  
-विप्रं साङ्गतिकं तथा ।  
-उपस्थितं गृहे विद्याद्  
-भार्या यत्राऽग्नयो ऽपि वा  ॥ ३.१०३ ॥ [९३ मेधातिथिपाठे]
+103	One must not consider as a guest a Brahmana who dwells in the same village, nor one who seeks his livelihood by social intercourse, even though he has come to a house where (there is) a wife, and where sacred fires (are kept).

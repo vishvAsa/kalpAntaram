@@ -2,7 +2,4 @@
 title = "094 कृत्वैतद् बलिकर्मैवम्"
 
 +++
-कृत्वैतद् बलिकर्मैवम्  
-अतिथिं पूर्वम् आशयेत् ।  
-भिक्षां च भिक्षवे दद्याद्  
-विधिवद् ब्रह्मचारिणे  ॥ ३.९४ ॥ [८४ मेधातिथिपाठे]
+094	Having performed this Bali offering, he shall first feed his guest and, according to the rule, give alms to an ascetic (and) to a student.

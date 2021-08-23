@@ -2,7 +2,4 @@
 title = "196 भिन्द्याच् चैव"
 
 +++
-भिन्द्याच् चैव तडागानि  
-प्राकार-परिखास् तथा ।  
-समवस्कन्दयेच् चैनं  
-रात्रौ वित्रासयेत् तथा  ॥ ७.१९६ ॥ [१९७ मेधातिथिपाठे]
+196	Likewise let him destroy the tanks, ramparts, and ditches, and let him assail the (foe unawares) and alarm him at night.

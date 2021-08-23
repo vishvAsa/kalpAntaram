@@ -2,7 +2,4 @@
 title = "083 वैश्यवृत्त्यापि जीवंस्"
 
 +++
-वैश्यवृत्त्यापि जीवंस् तु  
-ब्राह्मणः क्षत्रियो ऽपि वा ।  
-हिंसा-प्रायां पराधीनां  
-कृषिं यत्नेन वर्जयेत्  ॥ १०.८३ ॥
+083	But a Brahmana, or a Kshatriya, living by a Vaisya's mode of subsistence, shall carefully avoid (the pursuit of) agriculture, (which causes) injury to many beings and depends on others.

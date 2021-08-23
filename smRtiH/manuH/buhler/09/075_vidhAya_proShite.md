@@ -2,7 +2,4 @@
 title = "075 विधाय प्रोषिते"
 
 +++
-विधाय प्रोषिते वृत्तिं  
-जीवेन् नियमम् आस्थिता ।  
-प्रोषिते त्व् अविधायैव  
-जीवेच् छिल्पैर् अगर्हितैः  ॥ ९.७५ ॥
+075	If (the husband) went on a journey after providing (for her), the wife shall subject herself to restraints in her daily life; but if he departed without providing (for her), she may subsist by blameless manual work.

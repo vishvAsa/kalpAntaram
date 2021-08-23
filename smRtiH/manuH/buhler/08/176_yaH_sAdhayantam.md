@@ -2,7 +2,4 @@
 title = "176 यः साधयन्तम्"
 
 +++
-यः साधयन्तं छन्देन  
-वेदयेद् धनिकं नृपे ।  
-स राज्ञा तच् चतुर्भागं  
-दाप्यस् तस्य च तद् धनम्  ॥ ८.१७६ ॥
+176	(The debtor) who complains to the king that his creditor recovers (the debt) independently (of the court), shall be compelled by the king to pay (as a fine) one quarter (of the sum) and to his (creditor) the money (due).

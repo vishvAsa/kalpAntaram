@@ -2,7 +2,4 @@
 title = "047 अतिवादांस् तितिक्षेत"
 
 +++
-अतिवादांस् तितिक्षेत  
-नाऽवमन्येत कं चन ।  
-न चेमं देहम् आश्रित्य  
-वैरं कुर्वीत केन चित्  ॥ ६.४७ ॥
+047	Let him patiently bear hard words, let him not insult anybody, and let him not become anybody's enemy for the sake of this (perishable) body.

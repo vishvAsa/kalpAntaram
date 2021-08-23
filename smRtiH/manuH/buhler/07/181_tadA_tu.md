@@ -2,7 +2,4 @@
 title = "181 तदा तु"
 
 +++
-तदा तु यानम् आतिष्ठेद्  
-अरिराष्ट्रं प्रति प्रभुः ।  
-तदानेन विधानेन  
-यायाद् अरिपुरं शनैः  ॥ ७.१८१ ॥ [१८२ मेधातिथिपाठे]
+181	But if the king undertakes an expedition against a hostile kingdom, then let him gradually advance, in the following manner, against his foe's capital.

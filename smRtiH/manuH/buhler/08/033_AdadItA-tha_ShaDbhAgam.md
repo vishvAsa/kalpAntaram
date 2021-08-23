@@ -2,7 +2,4 @@
 title = "033 आददीताऽथ षड्भागम्"
 
 +++
-आददीताऽथ षड्भागं  
-प्रनष्टाधिगतान् नृपः ।  
-दशमं द्वादशं वापि  
-सतां धर्मम् अनुस्मरन्  ॥ ८.३३ ॥
+033	Now the king, remembering the duty of good men, may take one-sixth part of property lost and afterwards found, or one-tenth, or at least one-twelfth.

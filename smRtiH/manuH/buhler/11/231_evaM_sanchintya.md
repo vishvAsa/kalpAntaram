@@ -2,7 +2,4 @@
 title = "231 एवं सञ्चिन्त्य"
 
 +++
-एवं संचिन्त्य मनसा  
-प्रेत्य कर्मफलोदयम् ।  
-मनो-वाङ्-गूर्तिभिर् नित्यं  
-शुभं कर्म समाचरेत्  ॥ ११.२३१ ॥ [२३० मेधातिथिपाठे]
+232	Having thus considered in his mind what results will arise from his deeds after death, let him always be good in thoughts, speech, and actions.

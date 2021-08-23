@@ -2,8 +2,4 @@
 title = "163 सुखं ह्य्"
 
 +++
-
-सुखं ह्य् अवमतः शेते  
-सुखं च प्रतिबुध्यते ।  
-सुखं चरति लोके ऽस्मिन्न्  
-अवमन्ता विनश्यति  ॥ २.१६३ ॥
+163	For he who is scorned (nevertheless may) sleep with an easy mind, awake with an easy mind, and with an easy mind walk here among men; but the scorner utterly perishes.

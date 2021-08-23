@@ -2,7 +2,4 @@
 title = "052 सप्तकस्याऽस्य वर्गस्य"
 
 +++
-सप्तकस्याऽस्य वर्गस्य  
-सर्वत्रैवाऽनुषङ्गिणः ।  
-पूर्वं पूर्वं गुरुतरं  
-विद्याद् व्यसनम् आत्मवान्  ॥ ७.५२ ॥
+052	A self-controlled (king) should know that in this set of seven, which prevails everywhere, each earlier-named vice is more abominable (than those named later).

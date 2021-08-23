@@ -2,8 +2,4 @@
 title = "144 अनातुरः स्वानि"
 
 +++
-
-अनातुरः स्वानि खानि+++(=नेत्रादिगर्तानि)+++  
-न स्पृशेद् अनिमित्ततः ।  
-रोमाणि च रहस्यानि  
-सर्वाण्य् एव विवर्जयेत्  ॥ ४.१४४ ॥+++(5)+++  
+144	Except when sick he must not touch the cavities (of the body) without a reason, and he must avoid (to touch) the hair on the secret (parts).

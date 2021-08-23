@@ -2,7 +2,4 @@
 title = "226 एतैर् द्विजातयः"
 
 +++
-एतैर् द्विजातयः शोध्या  
-व्रतैर् आविष्कृतैनसः ।  
-अनाविष्कृत-पापांस् तु  
-मन्त्रैर् होमैश् च शोधयेत्  ॥ ११.२२६ ॥ [२२५ मेधातिथिपाठे]
+227	By these expiations twice-born men must be purified whose sins are known, but let him purify those whose sins are not known by (the recitation of) sacred texts and by (the performance of) burnt oblations.

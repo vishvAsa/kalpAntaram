@@ -2,7 +2,4 @@
 title = "206 अवगूर्य त्व्"
 
 +++
-अवगूर्य त्व् अब्दशतं  
-सहस्रम् अभिहत्य च ।  
-जिघांसया ब्राह्मणस्य  
-नरकं प्रतिपद्यते  ॥ ११.२०६ ॥ [२०५ मेधातिथिपाठे]
+207	But he who, intending to hurt a Brahmana, has threatened (him with a stick and the like) shall remain in hell during a hundred years; he who (actually) struck him, during one thousand years.

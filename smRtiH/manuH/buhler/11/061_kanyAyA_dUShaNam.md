@@ -2,7 +2,4 @@
 title = "061 कन्याया दूषणम्"
 
 +++
-कन्याया दूषणं चैव  
-वार्धुष्यं व्रतलोपनम् ।  
-तडागाराम-दाराणाम्  
-अपत्यस्य च विक्रयः  ॥ ११.६१ ॥ [६० मेधातिथिपाठे]
+062	Defiling a damsel, usury, breaking a vow, selling a tank, a garden, one's wife, or child,

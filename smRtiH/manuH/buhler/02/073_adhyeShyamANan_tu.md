@@ -2,8 +2,4 @@
 title = "073 अध्येष्यमाणन् तु"
 
 +++
-
-अध्येष्यमाणं तु गुरुर्  
-नित्यकालम् अतन्द्रितः ।  
-अधीष्व भो इति ब्रूयाद्  
-विरामो ऽस्त्व् इति चारमेत्  ॥ २.७३ ॥
+073	But to him who is about to begin studying, the teacher always unwearied, must say: Ho, recite! He shall leave off (when the teacher says): Let a stoppage take place!

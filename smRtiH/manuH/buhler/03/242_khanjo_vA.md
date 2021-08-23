@@ -2,7 +2,4 @@
 title = "242 खञ्जो वा"
 
 +++
-खञ्जो वा यदि वा काणो  
-दातुः प्रेष्यो ऽपि वा भवेत् ।  
-हीनातिरिक्त-गात्रो वा  
-तम् अप्य् अपनयेत् पुनः  ॥ ३.२४२ ॥ [२३२ मेधातिथिपाठे]
+242	If a lame man, a one-eyed man, one deficient in a limb, or one with a redundant limb, be even the servant of the performer (of the Sraddha), he must be removed from that place (where the Sraddha is held).

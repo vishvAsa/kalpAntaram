@@ -2,8 +2,4 @@
 title = "048 तापसा यतयो"
 
 +++
-
-तापसा यतयो विप्रा  
-ये च वैमानिका गणाः ।  
-नक्षत्राणि च दैत्याश् च  
-प्रथमा सात्त्विकी गतिः  ॥ १२.४८ ॥
+048	Hermits, ascetics, Brahmanas, the crowds of the Vaimanika deities, the lunar mansions, and the Daityas (form) the first (and lowest rank of the) existences caused by Goodness.

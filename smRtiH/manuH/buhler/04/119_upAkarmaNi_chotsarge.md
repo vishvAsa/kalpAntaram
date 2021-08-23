@@ -2,8 +2,4 @@
 title = "119 उपाकर्मणि चोत्सर्गे"
 
 +++
-
-उपाकर्मणि चोत्सर्गे  
-त्रिरात्रं क्षेपणं स्मृतम् ।  
-अष्टकासु त्व् अहोरात्रम्  
-ऋत्वन्तासु च रात्रिषु  ॥ ४.११९ ॥+++(4)+++  
+119	On (the occasion of) the Upakarman and (of) the Vedotsarga an omission (of the Veda-study) for three days has been prescribed, but on the Ashtakas and on the last nights of the seasons for a day and a night.

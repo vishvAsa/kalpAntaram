@@ -2,7 +2,4 @@
 title = "089 कामम् आ"
 
 +++
-कामम् आ मरणात् तिष्ठेद्  
-गृहे कन्या र्तुमत्य् अपि ।  
-न चैवैनां प्रयच्चेत् तु  
-गुण-हीनाय कर्हि चित्  ॥ ९.८९ ॥
+089	(But) the maiden, though marriageable, should rather stop in (the father's) house until death, than that he should ever give her to a man destitute of good qualities.

@@ -2,7 +2,4 @@
 title = "131 मार्जार-नकुलौ हत्वा"
 
 +++
-मार्जार-नकुलौ हत्वा  
-चाषं मण्डूकम् एव च ।  
-श्व-गोधोलूक-काकांश् च  
-शूद्रहत्याव्रतं चरेत्  ॥ ११.१३१ ॥ [१३० मेधातिथिपाठे]
+132	Having killed a cat, an ichneumon, a blue jay, a frog, a dog, an iguana, an owl, or a crow, he shall perform the penance for the murder of a Sudra;

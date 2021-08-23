@@ -2,7 +2,4 @@
 title = "093 एवं यः"
 
 +++
-एवं यः सर्वभूतानि  
-ब्राह्मणो नित्यम् अर्चति ।  
-स गच्छति परं स्थानं  
-तेजोमूर्तिः पथा र्जुना  ॥ ३.९३ ॥ [८३ मेधातिथिपाठे]
+093	That Brahmana who thus daily honours all beings, goes, endowed with a resplendent body, by a straight road to the highest dwelling-place (i.e. Brahman).

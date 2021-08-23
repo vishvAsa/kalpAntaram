@@ -2,8 +2,4 @@
 title = "099 बिभर्ति सर्वभूतानि"
 
 +++
-
-बिभर्ति सर्वभूतानि  
-वेदशास्त्रं सनातनम् ।  
-तस्माद् एतत् परं मन्ये  
-यज् जन्तोर् अस्य साधनम्  ॥ १२.९९ ॥
+099	The eternal lore of the Veda upholds all created beings; hence I hold that to be supreme, which is the means of (securing happiness to) these creatures.

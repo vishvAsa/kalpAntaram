@@ -2,7 +2,4 @@
 title = "332 भृत्यानाञ् च"
 
 +++
-भृत्यानां च भृतिं विद्याद्  
-भाषाश् च विविधा नृणां ।  
-द्रव्याणां स्थान-योगांश् च  
-क्रय-विक्रयम् एव च  ॥ ९.३३२ ॥
+332	He must be acquainted with the (proper), wages of servants, with the various languages of men, with the manner of keeping goods, and (the rules of) purchase and sale.

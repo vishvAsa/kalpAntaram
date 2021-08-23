@@ -2,7 +2,4 @@
 title = "034 विशिष्टङ् कुत्र"
 
 +++
-विशिष्टं कुत्र चिद् बीजं  
-स्त्रीयोनिस् त्व् एव कुत्र चित् ।  
-उभयं तु समं यत्र  
-सा प्रसूतिः प्रशस्यते  ॥ ९.३४ ॥
+034	In some cases the seed is more distinguished, and in some the womb of the female; but when both are equal, the offspring is most highly esteemed.

@@ -2,8 +2,4 @@
 title = "006 ततः स्वयम्भूर्"
 
 +++
-
-ततः स्वयम्भूर् भगवान्  
-अव्यक्तो व्यञ्जयन्न् इदम् ।  
-महाभूतादि वृत्तौजाः  
-प्रादुर् आसीत् तमोनुदः  ॥ १.६ ॥
+006	Then the divine Self-existent (Svayambhu, himself) indiscernible, (but) making (all) this, the great elements and the rest, discernible, appeared with irresistible (creative) power, dispelling the darkness.

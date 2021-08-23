@@ -2,7 +2,4 @@
 title = "078 नदीकूलं यथा"
 
 +++
-नदीकूलं यथा वृक्षो  
-वृक्षं वा शकुनिर् यथा ।  
-तथा त्यजन्न् इमं देहं  
-कृच्छ्राद् ग्राहाद् विमुच्यते  ॥ ६.७८ ॥
+078	He who leaves this body, (be it by necessity) as a tree (that is torn from) the river-bank, or (freely) like a bird (that) quits a tree, is freed from the misery (of this world, dreadful like) a shark.

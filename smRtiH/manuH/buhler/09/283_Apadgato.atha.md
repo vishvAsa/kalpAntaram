@@ -2,7 +2,4 @@
 title = "283 आपद्गतो ऽथ"
 
 +++
-आपद्गतो ऽथ वा वृद्धा  
-गर्भिणी बाल एव वा ।  
-परिभाषणम् अर्हन्ति  
-तच् च शोध्यम् इति स्थितिः  ॥ ९.२८३ ॥
+283	But a person in urgent necessity, an aged man, a pregnant woman, or a child, shall be reprimanded and clean the (place); that is a settled rule.

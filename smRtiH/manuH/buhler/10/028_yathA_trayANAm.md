@@ -2,7 +2,4 @@
 title = "028 यथा त्रयाणाम्"
 
 +++
-यथा त्रयाणां वर्णानां  
-द्वयोर् आत्मास्य जायते ।  
-आनन्तर्यात् स्वयोन्यां तु  
-तथा बाह्येष्व् अपि क्रमात् [मेधातिथिपाठः - क्रमः]  ॥ १०.२८ ॥
+028	As a (Brahmana) begets on (females of) two out of the three (twice-born castes a son similar to) himself, (but inferior) on account of the lower degree (of the mother), and (one equal to himself) on a female of his own race, even so is the order in the case of the excluded (races, vahya).

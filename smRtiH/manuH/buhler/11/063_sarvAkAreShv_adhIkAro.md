@@ -2,7 +2,4 @@
 title = "063 सर्वाकारेष्व् अधीकारो"
 
 +++
-सर्वाकारेष्व् अधीकारो  
-महायन्त्रप्रवर्तनम् ।  
-हिंसौषधीनां स्त्र्य्-आजीवो  
-ऽभिचारो मूलकर्म च  ॥ ११.६३ ॥ [६२ मेधातिथिपाठे]
+064	Superintending mines (or factories) of any sort, executing great mechanical works, injuring (living) plants, subsisting on (the earnings of) one's wife, sorcery (by means of sacrifices), and working (magic by means of) roots, (and so forth),

@@ -2,7 +2,4 @@
 title = "158 आसीता८ मरणात्"
 
 +++
-आसीता८ मरणात् क्षान्ता  
-नियता ब्रह्मचारिणी ।  
-यो धर्म एकपत्नीनां  
-काङ्क्षन्ती तम् अनुत्तमम्  ॥ ५.१५८ ॥ [१५६ मेधातिथिपाठे]
+158	Until death let her be patient (of hardships), self-controlled, and chaste, and strive (to fulfil) that most excellent duty which (is prescribed) for wives who have one husband only.

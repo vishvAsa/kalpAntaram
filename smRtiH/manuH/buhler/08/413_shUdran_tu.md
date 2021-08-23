@@ -2,7 +2,4 @@
 title = "413 शूद्रन् तु"
 
 +++
-शूद्रं तु कारयेद् दास्यं  
-क्रीतम् अक्रीतम् एव वा ।  
-दास्यायैव हि सृष्टो ऽसौ  
-ब्राह्मणस्य स्वयंभुवा  ॥ ८.४१३ ॥
+413	But a Sudra, whether bought or unbought, he may compel to do servile work; for he was created by the Self-existent (Svayambhu) to be the slave of a Brahmana.

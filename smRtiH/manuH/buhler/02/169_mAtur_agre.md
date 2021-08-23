@@ -2,8 +2,4 @@
 title = "169 मातुर् अग्रे"
 
 +++
-
-मातुर् अग्रे ऽधिजननं  
-द्वितीयं मौञ्जिबन्धने ।  
-तृतीयं यज्ञदीक्षायां  
-द्विजस्य श्रुतिचोदनात्  ॥ २.१६९ ॥
+169	According to the injunction of the revealed texts the first birth of an Aryan is from (his natural) mother, the second (happens) on the tying of the girdle of Munga grass, and the third on the initiation to (the performance of) a (Srauta) sacrifice.

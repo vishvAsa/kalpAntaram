@@ -2,7 +2,4 @@
 title = "086 भर्तुः शरीरशुश्रूषाम्"
 
 +++
-भर्तुः शरीरशुश्रूषां  
-धर्मकार्यं च नैत्यकम् ।  
-स्वा चैव कुर्यात् सर्वेषां  
-नाऽस्वजातिः कथं चन [मेधातिथिपाठः - स्वा स्वैव]  ॥ ९.८६ ॥
+086	Among all (twice-born men) the wife of equal caste alone, not a wife of a different caste by any means, shall personally attend her husband and assist him in his daily sacred rites.

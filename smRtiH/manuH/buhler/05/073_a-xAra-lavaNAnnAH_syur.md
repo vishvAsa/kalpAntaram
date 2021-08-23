@@ -2,7 +2,4 @@
 title = "073 अ-क्षार-लवणान्नाः स्युर्"
 
 +++
-अ-क्षार-लवणान्नाः स्युर्  
-निमज्जेयुश् च ते त्र्यहम् ।  
-मांसाशनं च नाऽश्नीयुः  
-शयीरंश् च पृथक् क्षितौ  ॥ ५.७३ ॥ [७२ मेधातिथिपाठे]
+073	Let (mourners) eat food without factitious salt, bathe during three days, abstain from meat, and sleep separate on the ground.

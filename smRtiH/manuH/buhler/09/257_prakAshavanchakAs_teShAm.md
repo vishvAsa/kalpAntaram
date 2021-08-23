@@ -2,7 +2,4 @@
 title = "257 प्रकाशवञ्चकास् तेषाम्"
 
 +++
-प्रकाशवञ्चकास् तेषां  
-नानापण्योपजीविनः ।  
-प्रच्छन्नवञ्चकास् त्व् एते  
-ये स्तेनाटविकादयः  ॥ ९.२५७ ॥
+257	Among them, the open rogues (are those) who subsist by (cheating in the sale of) various marketable commodities, but the concealed rogues are burglars, robbers in forests, and so forth.

@@ -2,7 +2,4 @@
 title = "205 सर्वङ् कर्मेदम्"
 
 +++
-सर्वं कर्मेदम् आयत्तं  
-विधाने दैव-मानुषे ।  
-तयोर् दैवम् अचिन्त्यं तु  
-मानुषे विद्यते क्रिया  ॥ ७.२०५ ॥ [२०६ मेधातिथिपाठे]
+205	All undertakings (in) this (world) depend both on the ordering of fate and on human exertion; but among these two (the ways of) fate are unfathomable; in the case of man's work action is possible.

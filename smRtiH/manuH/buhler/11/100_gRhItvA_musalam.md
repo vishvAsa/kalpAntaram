@@ -2,7 +2,4 @@
 title = "100 गृहीत्वा मुसलम्"
 
 +++
-गृहीत्वा मुसलं राजा  
-सकृद् धन्यात् तु तं स्वयम् ।  
-वधेन शुध्यति स्तेनो  
-ब्राह्मणस् तपसैव तु  ॥ ११.१०० ॥ [९९ मेधातिथिपाठे]
+101	Taking (from him) the club (which he must carry), the king himself shall strike him once, by his death the thief becomes pure; or a Brahmana (may purify himself) by austerities.

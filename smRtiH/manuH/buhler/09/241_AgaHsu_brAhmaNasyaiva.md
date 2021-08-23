@@ -2,7 +2,4 @@
 title = "241 आगःसु ब्राह्मणस्यैव"
 
 +++
-आगःसु ब्राह्मणस्यैव  
-कार्यो मध्यमसाहसः ।  
-विवास्यो वा भवेद् राष्ट्रात्  
-स-द्रव्यः स-परिच्छदः  ॥ ९.२४१ ॥
+241	For (such) offences the middlemost amercement shall be inflicted on a Brahmana, or he may be banished from the realm, keeping his money and his chattels.

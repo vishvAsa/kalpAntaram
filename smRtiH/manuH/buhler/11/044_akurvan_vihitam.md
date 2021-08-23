@@ -2,7 +2,4 @@
 title = "044 अकुर्वन् विहितम्"
 
 +++
-अकुर्वन् विहितं कर्म  
-निन्दितं च समाचरन् ।  
-प्रसक्तश् चेन्द्रियार्थेषु  
-प्रायश्चित्तीयते नरः [मेधातिथिपाठः - प्रसज्जन् इन्द्रियार्थेषु]  ॥ ११.४४ ॥ [४३ मेधातिथिपाठे]
+044	A man who omits a prescribed act, or performs a blamable act, or cleaves to sensual enjoyments, must perform a penance.

@@ -2,7 +2,4 @@
 title = "080 त्रिरात्रम् आहुर्"
 
 +++
-त्रिरात्रम् आहुर् आशौचम्  
-आचार्ये संस्थिते सति ।  
-तस्य पुत्रे च पत्न्यां च  
-दिवा-रात्रम् इति स्थितिः  ॥ ५.८० ॥ [७९ मेधातिथिपाठे]
+080	They declare that, when the teacher (akarya) has died, the impurity (lasts) three days; if the (teacher's) son or wife (is dead, it lasts) a day and a night; that is a settled (rule).

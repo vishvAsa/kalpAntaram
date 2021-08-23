@@ -2,7 +2,4 @@
 title = "292 छेदने चैव"
 
 +++
-छेदने चैव यन्त्राणां  
-योक्त्र-रश्म्योस् तथैव च ।  
-आक्रन्दे चाऽप्य् अपैहीति  
-न दण्डं मनुर् अब्रवीत्  ॥ ८.२९२ ॥
+292	When the leather-thongs, the rope around the neck or the bridle are broken, and when (the driver) has loudly called out, 'Make way,' Manu has declared (that in all these cases) no punishment (shall be inflicted).

@@ -2,7 +2,4 @@
 title = "046 ये द्विजानाम्"
 
 +++
-ये द्विजानाम् अपसदा  
-ये चाऽपध्वंसजाः स्मृताः ।  
-ते निन्दितैर् वर्तयेयुर्  
-द्विजानाम् एव कर्मभिः  ॥ १०.४६ ॥
+046	Those who have been mentioned as the base-born (offspring, apasada) of Aryans, or as produced in consequence of a violation (of the law, apadhvamsaga), shall subsist by occupations reprehended by the twice-born.

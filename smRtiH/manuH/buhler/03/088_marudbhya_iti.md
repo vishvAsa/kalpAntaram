@@ -2,7 +2,4 @@
 title = "088 मरुद्भ्य इति"
 
 +++
-मरुद्भ्य इति तु द्वारि  
-क्षिपेद् अप्स्व् अद्भ्य इत्य् अपि ।  
-वनस्पतिभ्य इत्य् एवं  
-मुसलोलूखले हरेत्  ॥ ३.८८ ॥ [७८ मेधातिथिपाठे]
+088	Saying, '(Adoration) to the Maruts,' he shall scatter (some food) near the door, and (some) in water, saying, '(Adoration to the waters;' he shall throw (some) on the pestle and the mortar, speaking thus, '(Adoration) to the trees.'

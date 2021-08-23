@@ -2,8 +2,4 @@
 title = "197 पराङ्-मुखस्याऽभिमुखो दूरस्थस्यैत्य"
 
 +++
-
-पराङ्-मुखस्याऽभिमुखो  
-दूरस्थस्यैत्य चान्तिकम् ।  
-प्रणम्य तु शयानस्य  
-निदेशे चैव तिष्ठतः  ॥ २.१९७ ॥
+197	Going (round) to face (the teacher), if his face is averted, approaching him if he stands at a distance, but bending towards him if he lies on a bed, and if he stands in a lower place.

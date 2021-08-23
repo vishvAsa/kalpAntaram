@@ -2,7 +2,4 @@
 title = "081 श्रोत्रिये तूपसम्पन्ने"
 
 +++
-श्रोत्रिये तूपसम्पन्ने  
-त्रिरात्रम् अशुचिर् भवेत् ।  
-मातुले पक्षिणीं रात्रिं  
-शिष्यर्त्विग्-बान्धवेषु च  ॥ ५.८१ ॥ [८० मेधातिथिपाठे]
+081	For a Srotriya who resides with (him out of affection), a man shall be impure for three days; for a maternal uncle, a pupil, an officiating priest, or a maternal relative, for one night together with the preceding and following days.

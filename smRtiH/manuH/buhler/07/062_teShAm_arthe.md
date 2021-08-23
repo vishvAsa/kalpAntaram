@@ -2,7 +2,4 @@
 title = "062 तेषाम् अर्थे"
 
 +++
-तेषाम् अर्थे नियुञ्जीत  
-शूरान् दक्षान् कुलोद्गतान् ।  
-शुचीन् आकर-कर्मान्ते  
-भीरून् अन्तर्निवेशने  ॥ ७.६२ ॥
+062	Among them let him employ the brave, the skilful, the high-born, and the honest in (offices for the collection of) revenue, (e.g.) in mines, manufactures, and storehouses, (but) the timid in the interior of his palace.

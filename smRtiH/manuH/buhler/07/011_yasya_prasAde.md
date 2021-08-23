@@ -2,7 +2,4 @@
 title = "011 यस्य प्रसादे"
 
 +++
-यस्य प्रसादे पद्मा श्रीर्  
-विजयश् च पराक्रमे ।  
-मृत्युश् च वसति क्रोधे  
-सर्वतेजोमयो हि सः  ॥ ७.११ ॥
+011	He, in whose favour resides Padma, the goddess of fortune, in whose valour dwells victory, in whose anger abides death, is formed of the lustre of all (gods).

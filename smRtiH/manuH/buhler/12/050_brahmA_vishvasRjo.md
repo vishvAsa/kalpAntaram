@@ -2,8 +2,4 @@
 title = "050 ब्रह्मा विश्वसृजो"
 
 +++
-
-ब्रह्मा विश्वसृजो धर्मो  
-महान् अव्यक्तम् एव च ।  
-उत्तमां सात्त्विकीम् एतां  
-गतिम् आहुर् मनीषिणः  ॥ १२.५० ॥
+050	The sages declare Brahma, the creators of the universe, the law, the Great One, and the Undiscernible One (to constitute) the highest order of beings produced by Goodness.

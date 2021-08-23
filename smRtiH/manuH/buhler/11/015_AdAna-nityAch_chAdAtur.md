@@ -2,7 +2,4 @@
 title = "015 आदान-नित्याच् चादातुर्"
 
 +++
-आदान-नित्याच् चादातुर्  
-आहरेद् अप्रयच्छतः ।  
-तथा यशो ऽस्य प्रथते  
-धर्मश् चैव प्रवर्धते  ॥ ११.१५ ॥ [१४ मेधातिथिपाठे]
+015	(Or) he may take (it by force or fraud) from one who always takes and never gives, and who refuses to give it; thus the fame (of the taker) will spread and his merit increase.

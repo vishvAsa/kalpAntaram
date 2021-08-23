@@ -2,7 +2,4 @@
 title = "130 एते चतुर्णाम्"
 
 +++
-एते चतुर्णां वर्णानाम्  
-आपद्धर्माः प्रकीर्तिताः ।  
-यान् सम्यग् अनुतिष्ठन्तो  
-व्रजन्ति परमं गतिम्  ॥ १०.१३० ॥
+130	The duties of the four castes (varna) in times of distress have thus been declared, and if they perform them well, they will reach the most blessed state.

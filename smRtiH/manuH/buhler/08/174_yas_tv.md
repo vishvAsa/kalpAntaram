@@ -2,7 +2,4 @@
 title = "174 यस् त्व्"
 
 +++
-यस् त्व् अधर्मेण कार्याणि  
-मोहात् कुर्यान् नराधिपः ।  
-अचिरात् तं दुर्-आत्मानं  
-वशे कुर्वन्ति शत्रवः  ॥ ८.१७४ ॥
+174	But that evil-minded king who in his folly decides causes unjustly, his enemies soon subjugate.

@@ -2,8 +2,4 @@
 title = "244 उत्तमैर् उत्तमैर्"
 
 +++
-
-उत्तमैर् उत्तमैर् नित्यं  
-सम्बन्धान् आचरेत् सह [मेधातिथिपाठः - सम्भन्धान्] ।  
-निनीषुः कुलम् उत्कर्षम्  
-अधमान् अधमांस् त्यजेत्  ॥ ४.२४४ ॥ [२४५ मेधातिथिपाठे]+++(5)+++  
+244	Let him, who desires to raise his race, ever form connexions with the most excellent (men), and shun all low ones.

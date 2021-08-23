@@ -2,7 +2,4 @@
 title = "256 मन्त्रैः शाकलहोमीयैर्"
 
 +++
-मन्त्रैः शाकलहोमीयैर्  
-अब्दं हुत्वा घृतं द्विजः ।  
-सुगुर्व् अप्य् अपहन्त्य् एनो  
-जप्त्वा वा नम इत्य् ऋचम्  ॥ ११.२५६ ॥ [२५५ मेधातिथिपाठे]
+257	A twice-born man removes even very great guilt by offering clarified butter with the sacred texts belonging to the Sakala-homas, or by muttering the Rik, (beginning) 'Adoration.'

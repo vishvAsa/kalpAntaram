@@ -2,7 +2,4 @@
 title = "034 न तादृशम्"
 
 +++
-न तादृशं भवत्य् एनो  
-मृग-हन्तुर् धनार्थिनः ।  
-यादृशं भवति प्रेत्य  
-+++(कुविधिप्रेरितानि)+++ वृथा-मांसानि खादतः  ॥ ५.३४ ॥
+034	After death the guilt of one who slays deer for gain is not as (great) as that of him who eats meat for no (sacred) purpose.

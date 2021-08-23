@@ -2,8 +2,4 @@
 title = "242 तस्माद् धर्मम्"
 
 +++
-
-तस्माद् धर्मं सहायार्थं  
-नित्यं सञ्चिनुयाच् छनैः ।  
-धर्मेण हि सहायेन  
-तमस् तरति दुस्तरम्  ॥ ४.२४२ ॥ [२४३ मेधातिथिपाठे]  
+242	Let him therefore always slowly accumulate spiritual merit, in order (that it may be his) companion (after death); for with merit as his companion he will traverse a gloom difficult to traverse.

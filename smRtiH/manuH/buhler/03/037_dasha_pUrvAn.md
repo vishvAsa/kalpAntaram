@@ -2,7 +2,4 @@
 title = "037 दश पूर्वान्"
 
 +++
-दश पूर्वान् परान् वंश्यान्  
-आत्मानं चैकविंशकम् ।  
-ब्राह्मीपुत्रः सुकृतकृन्  
-मोचयत्य् एनसः पितॄन्  ॥ ३.३७ ॥
+037	The son of a wife wedded according to the Brahma rite, if he performs meritorious acts, liberates from sin ten ancestors, ten descendants and himself as the twenty-first.

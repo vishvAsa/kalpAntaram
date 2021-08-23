@@ -2,7 +2,4 @@
 title = "102 सर्वतः प्रतिगृह्णीयाद्"
 
 +++
-सर्वतः प्रतिगृह्णीयाद्  
-ब्राह्मणस् त्व् अनयं गतः ।  
-पवित्रं दुष्यतीत्य् एतद्  
-धर्मतो नोपपद्यते  ॥ १०.१०२ ॥
+102	A Brahmana who has fallen into distress may accept (gifts) from anybody; for according to the law it is not possible (to assert) that anything pure can be sullied.

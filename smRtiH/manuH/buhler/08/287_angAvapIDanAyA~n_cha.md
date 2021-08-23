@@ -2,7 +2,4 @@
 title = "287 अङ्गावपीडनायाञ् च"
 
 +++
-अङ्गावपीडनायां च  
-व्रण-शोनितयोस् तथा [मेधातिथिपाठः - प्राण-शोनितयोस्] ।  
-समुत्थानव्ययं दाप्यः  
-सर्वदण्डम् अथाऽपि वा  ॥ ८.२८७ ॥
+287	If a limb is injured, a wound (is caused), or blood (flows, the assailant) shall be made to pay (to the sufferer) the expenses of the cure, or the whole (both the usual amercement and the expenses of the cure as a) fine (to the king).

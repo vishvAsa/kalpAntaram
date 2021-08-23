@@ -2,8 +2,4 @@
 title = "025 एषा धर्मस्य"
 
 +++
-
-एषा धर्मस्य वो योनिः  
-समासेन प्रकीर्तिता ।  
-सम्भवश् चाऽस्य सर्वस्य  
-वर्णधर्मान् निबोधत  ॥ २.२५ ॥
+025	Thus has the origin of the sacred law been succinctly described to you and the origin of this universe; learn (now) the duties of the castes (varna).

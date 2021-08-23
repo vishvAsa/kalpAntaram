@@ -2,7 +2,4 @@
 title = "385 अगुप्ते क्षत्रिया-वैश्ये"
 
 +++
-अगुप्ते क्षत्रिया-वैश्ये  
-शूद्रां वा ब्राह्मणो व्रजन् ।  
-शतानि पञ्च दण्ड्यः स्यात्  
-सहस्रं त्व् अन्त्यजस्त्रियम्  ॥ ८.३८५ ॥
+385	A Brahmana who approaches unguarded females (of the) Kshatriya or Vaisya (castes), or a Sudra female, shall be fined five hundred (panas); but (for intercourse with) a female (of the) lowest (castes), one thousand.

@@ -2,7 +2,4 @@
 title = "161 अपत्यलोभाद् या"
 
 +++
-अपत्यलोभाद् या तु स्त्री  
-भर्तारम् अतिवर्तते ।  
-सेह निन्दाम् अवाप्नोति  
-परलोकाच् च हीयते  ॥ ५.१६१ ॥ [१५९ मेधातिथिपाठे]
+161	But a woman who from a desire to have offspring violates her duty towards her (deceased) husband, brings on herself disgrace in this world, and loses her place with her husband (in heaven).

@@ -2,8 +2,4 @@
 title = "106 प्रादुष्कृतेष्व् अग्निषु"
 
 +++
-
-प्रादुष्कृतेष्व्+++(=प्रज्वालितेषु)+++ अग्निषु तु  
-विद्युत्-स्तनित-निःस्वने ।  
-स-+++(अग्नि)+++ज्योतिः स्याद् अनध्यायः  
-शेषे रात्रौ यथा दिवा  ॥ ४.१०६ ॥  
+106	But when lightning and the roar of thunder (are observed) after the sacred fires have been made to blaze, the stoppage shall last as long as the light (of the sun or of the stars is visible); if the remaining (above-named phenomenon, rain, occurs, the reading shall cease), both in the day-time and at night.

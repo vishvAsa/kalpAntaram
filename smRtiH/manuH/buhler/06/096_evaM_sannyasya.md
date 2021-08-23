@@ -2,7 +2,4 @@
 title = "096 एवं सन्न्यस्य"
 
 +++
-एवं सन्न्यस्य कर्माणि  
-स्वकार्य-परमो ऽस्पृहः ।  
-सन्न्यासेनाऽपहत्यैनः  
-प्राप्नोति परमं गतिम्  ॥ ६.९६ ॥
+096	He who has thus given up (the performance of) all rites, who is solely intent on his own (particular) object, (and) free from desires, destroys his guilt by his renunciation and obtains the highest state.

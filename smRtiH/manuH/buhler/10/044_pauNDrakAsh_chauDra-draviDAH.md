@@ -2,8 +2,4 @@
 title = "044 पौण्ड्रकाश् चौड्र-द्रविडाः"
 
 +++
-पौण्ड्रकाश् चौड्र-द्रविडाः  
-काम्बोजा यवनाः शकाः [मेधातिथिपाठः - पुण्ड्रकाश् चोड-  
-द्रविडाः] ।  
-पारदा-पह्लवाश् चीनाः  
-किराता दरदाः खशाः  ॥ १०.४४ ॥
+044	(Viz.) the Paundrakas, the Kodas, the Dravidas, the Kambogas, the Yavanas, the Sakas, the Paradas, the Pahlavas, the Kinas, the Kiratas, and the Daradas.

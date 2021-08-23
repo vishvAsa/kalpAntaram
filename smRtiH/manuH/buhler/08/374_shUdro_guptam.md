@@ -2,7 +2,4 @@
 title = "374 शूद्रो गुप्तम्"
 
 +++
-शूद्रो गुप्तम् अगुप्तं वा  
-द्वैजातं वर्णम् आवसन् ।  
-अगुप्तम् अङ्ग-सर्वस्वैर्  
-गुप्तं सर्वेण हीयते [मेधातिथिपाठः - अङ्ग-सर्वस्वी]  ॥ ८.३७४ ॥
+374	A Sudra who has intercourse with a woman of a twice-born caste (varna), guarded or unguarded, (shall be punished in the following manner): if she was unguarded, he loses the part (offending) and all his property; if she was guarded, everything (even his life).

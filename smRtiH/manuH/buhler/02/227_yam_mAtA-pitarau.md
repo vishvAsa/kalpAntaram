@@ -2,8 +2,4 @@
 title = "227 यम् माता-पितरौ"
 
 +++
-
-यं माता-पितरौ क्लेशं  
-सहेते सम्भवे नृणाम् ।  
-न तस्य निष्कृतिः शक्या  
-कर्तुं वर्षशतैर् अपि  ॥ २.२२७ ॥
+227	That trouble (and pain) which the parents undergo on the birth of (their) children, cannot be compensated even in a hundred years.

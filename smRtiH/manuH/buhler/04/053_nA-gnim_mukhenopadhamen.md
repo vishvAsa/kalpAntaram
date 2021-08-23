@@ -2,8 +2,4 @@
 title = "053 नाऽग्निम् मुखेनोपधमेन्"
 
 +++
-
-नाऽग्निं मुखेनोपधमेन्  
-नग्नां नेक्षेत च स्त्रियम् ।  
-नाऽमेध्यं प्रक्षिपेद् अग्नौ  
-न च पादौ प्रतापयेत्  ॥ ४.५३ ॥  
+053	Let him not blow a fire with his mouth; let him not look at a naked woman; let him not throw any impure substance into the fire, and let him not warm his feet at it.

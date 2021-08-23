@@ -2,8 +2,4 @@
 title = "064 कौशेयन् तित्तिरिर्"
 
 +++
-
-कौशेयं तित्तिरिर् हृत्वा  
-क्षौमं हृत्वा तु दर्दुरः ।  
-कार्पासतान्तवं क्रौञ्चो  
-गोधा गां वाग्गुदो गुडम्  ॥ १२.६४ ॥
+064	For stealing silk a partridge, for stealing linen a frog, for stealing cotton-cloth a crane, for stealing a cow an iguana, for stealing molasses a flying-fox;

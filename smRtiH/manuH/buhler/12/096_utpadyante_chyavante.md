@@ -2,8 +2,4 @@
 title = "096 उत्पद्यन्ते च्यवन्ते"
 
 +++
-
-उत्पद्यन्ते च्यवन्ते च  
-यान्य् अतो ऽन्यानि कानि चित् [मेधातिथिपाठः - उत्पद्यन्ते विनश्यन्ति] ।  
-तान्य् अर्वाक्कालिकतया  
-निष्-फलान्य् अनृतानि च  ॥ १२.९६ ॥
+096	All those (doctrines), differing from the (Veda), which spring up and (soon) perish, are worthless and false, because they are of modern date.

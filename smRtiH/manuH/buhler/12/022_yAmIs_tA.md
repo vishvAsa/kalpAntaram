@@ -2,8 +2,4 @@
 title = "022 यामीस् ता"
 
 +++
-
-यामीस् ता यातनाः प्राप्य  
-स जीवो वीत-कल्मषः ।  
-तान्य् एव पञ्च भूतानि  
-पुनर् अप्येति भागशः  ॥ १२.२२ ॥
+022	The individual soul, having endured those torments of Yama, again enters, free from taint, those very five elements, each in due proportion.

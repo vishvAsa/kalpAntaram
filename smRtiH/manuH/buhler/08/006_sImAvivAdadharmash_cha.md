@@ -2,7 +2,4 @@
 title = "006 सीमाविवादधर्मश् च"
 
 +++
-सीमाविवादधर्मश् च  
-पारुष्ये दण्डवाचिके ।  
-स्तेयं च साहसं चैव  
-स्त्रीसङ्ग्रहणम् एव च  ॥ ८.६ ॥
+006	(10) Disputes regarding boundaries, (11) assault and (12) defamation, (13) theft, (14) robbery and violence, (15) adultery,

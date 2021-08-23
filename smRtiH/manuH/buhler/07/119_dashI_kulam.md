@@ -2,7 +2,4 @@
 title = "119 दशी कुलम्"
 
 +++
-दशी कुलं तु भुञ्जीत  
-विंशी पञ्च कुलानि च ।  
-ग्रामं ग्रामशताध्यक्षः  
-सहस्राधिपतिः पुरम्  ॥ ७.११९ ॥ [१२० मेधातिथिपाठे]
+119	The ruler of ten (villages) shall enjoy one kula (as much land as suffices for one family), the ruler of twenty five kulas, the superintendent of a hundred villages (the revenues of) one village, the lord of a thousand (the revenues of) a town.

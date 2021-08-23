@@ -2,7 +2,4 @@
 title = "142 एवं सर्वम्"
 
 +++
-एवं सर्वं विधायेदम्  
-इतिकर्तव्यम् आत्मनः ।  
-युक्तश् चैवाऽप्रमत्तश् च  
-परिरक्षेद् इमाः प्रजाः  ॥ ७.१४२ ॥ [१४३ मेधातिथिपाठे]
+142	Having thus arranged all the affairs (of) his (government), he shall zealously and carefully protect his subjects.

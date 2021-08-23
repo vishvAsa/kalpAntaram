@@ -2,7 +2,4 @@
 title = "134 विण्-मूत्रोत्सर्ग-शुद्ध्य्-अर्थम् मृद्-वार्य्"
 
 +++
-विण्-मूत्रोत्सर्ग-शुद्ध्य्-अर्थं  
-मृद्-वार्य् आदेयम् अर्थवत् ।  
-दैहिकानां मलानां च  
-शुद्धिषु द्वादशस्व् अपि  ॥ ५.१३४ ॥ [१३२ मेधातिथिपाठे]
+134	In order to cleanse (the organs) by which urine and faeces are ejected, earth and water must be used, as they may be required, likewise in removing the (remaining ones among) twelve impurities of the body.

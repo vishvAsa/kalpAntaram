@@ -2,7 +2,4 @@
 title = "265 जीर्णोद्यानान्य् अरण्यानि"
 
 +++
-जीर्णोद्यानान्य् अरण्यानि  
-कारुकावेशनानि च ।  
-शून्यानि चाऽप्य् अगाराणि  
-वनान्य् उपवनानि च  ॥ ९.२६५ ॥
+265	Old gardens, forests, the shops of artisans, empty dwellings, natural and artificial groves,

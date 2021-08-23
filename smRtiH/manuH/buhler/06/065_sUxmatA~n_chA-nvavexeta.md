@@ -2,7 +2,4 @@
 title = "065 सूक्ष्मताञ् चाऽन्ववेक्षेत"
 
 +++
-सूक्ष्मतां चाऽन्ववेक्षेत  
-योगेन परमात्मनः ।  
-देहेषु च समुत्पत्तिम्  
-उत्तमेष्व् अधमेषु च [मेधातिथिपाठः - देहेषु चैवोपपत्तिम्]  ॥ ६.६५ ॥
+065	By deep meditation let him recognise the subtile nature of the supreme Soul, and its presence in all organisms, both the highest and the lowest.

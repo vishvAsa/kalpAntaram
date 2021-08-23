@@ -2,7 +2,4 @@
 title = "167 बलस्य स्वामिनश्"
 
 +++
-बलस्य स्वामिनश् चैव  
-स्थितिः कार्यार्थसिद्धये ।  
-द्विविधं कीर्त्यते द्वैधं  
-षाड्गुण्यगुणवेदिभिः  ॥ ७.१६७ ॥ [१६८ मेधातिथिपाठे]
+167	If the army stops (in one place) and its master (in another) in order to effect some purpose, that is called by those acquainted with the virtues of the measures of royal policy, the twofold division of the forces.

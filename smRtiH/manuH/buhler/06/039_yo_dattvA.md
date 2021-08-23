@@ -2,7 +2,4 @@
 title = "039 यो दत्त्वा"
 
 +++
-यो दत्त्वा सर्वभूतेभ्यः  
-प्रव्रजत्य् अभयं गृहात् ।  
-तस्य तेजोमया लोका  
-भवन्ति ब्रह्मवादिनः  ॥ ६.३९ ॥
+039	Worlds, radiant in brilliancy, become (the portion) of him who recites (the texts regarding) Brahman and departs from his house (as an ascetic), after giving a promise of safety to all created beings.

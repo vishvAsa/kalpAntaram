@@ -2,8 +2,4 @@
 title = "177 वर्जयेन् मधु"
 
 +++
-
-वर्जयेन् मधु मांसं च  
-गन्धं माल्यं रसान् स्त्रियः ।  
-शुक्तानि यानि सर्वाणि  
-प्राणिनां चैव हिंसनम्  ॥ २.१७७ ॥
+177	Let him abstain from honey, meat, perfumes, garlands, substances (used for) flavouring (food), women, all substances turned acid, and from doing injury to living creatures.

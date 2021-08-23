@@ -2,7 +2,4 @@
 title = "034 प्रनष्टाधिगतन् द्रव्यम्"
 
 +++
-प्रनष्टाधिगतं द्रव्यं  
-तिष्ठेद् युक्तैर् अधिष्ठितम् ।  
-यांस् तत्र चौरान् गृह्णीयात्  
-तान् राजेभेन घातयेत्  ॥ ८.३४ ॥
+034	Property lost and afterwards found (by the king's servants) shall remain in the keeping of (special) officials; those whom the king may convict of stealing it, he shall cause to be slain by an elephant.

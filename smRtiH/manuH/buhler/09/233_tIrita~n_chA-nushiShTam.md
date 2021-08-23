@@ -2,7 +2,4 @@
 title = "233 तीरितञ् चाऽनुशिष्टम्"
 
 +++
-तीरितं चाऽनुशिष्टं च  
-यत्र क्व चन यद् भवेत् ।  
-कृतं तद् धर्मतो विद्यान्  
-न तद् भूयो निवर्तयेत्  ॥ ९.२३३ ॥
+233	Whenever any (legal transaction) has been completed or (a punishment) been inflicted according to the law, he shall sanction it and not annul it.

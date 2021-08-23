@@ -2,7 +2,4 @@
 title = "038 चण्डालेन तु"
 
 +++
-चण्डालेन तु सोपाको  
-मूलव्यसनवृत्तिमान् ।  
-पुक्कस्यां जायते पापः  
-सदा सज्जनगर्हितः [मेधातिथिपाठः - पुल्कस्यां]  ॥ १०.३८ ॥
+038	But from a Kandala by a Pukkasa woman is born the sinful Sopaka, who lives by the occupations of his sire, and is ever despised by good men.

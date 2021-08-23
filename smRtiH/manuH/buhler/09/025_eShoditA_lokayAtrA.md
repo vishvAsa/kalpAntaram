@@ -2,7 +2,4 @@
 title = "025 एषोदिता लोकयात्रा"
 
 +++
-एषोदिता लोकयात्रा  
-नित्यं स्त्री-पुंसयोः शुभा ।  
-प्रेत्येह च सुखोदर्कान्  
-प्रजाधर्मान् निबोधत  ॥ ९.२५ ॥
+025	Thus has been declared the ever pure popular usage (which regulates the relations) between husband and wife; hear (next) the laws concerning children which are the cause of happiness in this world and after death.

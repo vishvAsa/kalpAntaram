@@ -2,7 +2,4 @@
 title = "279 येन केन"
 
 +++
-येन केन चिद् अङ्गेन  
-हिंस्याच् चेच् छ्रेष्ठम् अन्त्यजः ।  
-छेत्तव्यं तद् तद् एवाऽस्य  
-तन् मनोर् अनुशासनम्  ॥ ८.२७९ ॥
+279	With whatever limb a man of a low caste does hurt to (a man of the three) highest (castes), even that limb shall be cut off; that is the teaching of Manu.

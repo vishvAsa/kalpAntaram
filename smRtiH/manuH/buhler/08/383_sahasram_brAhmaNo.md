@@ -2,7 +2,4 @@
 title = "383 सहस्रम् ब्राह्मणो"
 
 +++
-सहस्रं ब्राह्मणो दण्डं  
-दाप्यो गुप्ते तु ते व्रजन् ।  
-शूद्रायां क्षत्रिय-विशोः  
-साहस्रो वै भवेद् दमः [मेधातिथिपाठः - शूद्राया]  ॥ ८.३८३ ॥
+383	A Brahmana shall be compelled to pay a fine of one thousand (panas) if he has intercourse with guarded (females of) those two (castes); for (offending with) a (guarded) Sudra female a fine of one thousand (panas shall be inflicted) on a Kshatriya or a Vaisya.

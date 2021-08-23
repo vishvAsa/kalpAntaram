@@ -2,7 +2,4 @@
 title = "130 दूराद् एव"
 
 +++
-दूराद् एव परीक्षेत  
-ब्राह्मणं वेदपारगम् ।  
-तीर्थं तद् +धव्य-कव्यानां  
-प्रदाने सो ऽतिथिः स्मृतः  ॥ ३.१३० ॥ [१२० मेधातिथिपाठे]
+130	Let him make inquiries even regarding the remote (ancestors of) a Brahmana who has studied an entire (recension of the) Veda; (if descended from a virtuous race) such a man is a worthy recipient of gifts (consisting) of food offered to the gods or to the manes, he is declared (to procure as great rewards as) a guest (atithi).

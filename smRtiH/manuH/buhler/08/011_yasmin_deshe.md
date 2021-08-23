@@ -2,7 +2,4 @@
 title = "011 यस्मिन् देशे"
 
 +++
-यस्मिन् देशे निषीदन्ति  
-विप्रा वेदविदस् त्रयः ।  
-राज्ञश् चाऽधिकृतो विद्वान्  
-ब्रह्मणस् तां सभां विदुः  ॥ ८.११ ॥
+011	Where three Brahmanas versed in the Vedas and the learned (judge) appointed by the king sit down, they call that the court of (four-faced) Brahman.

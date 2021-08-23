@@ -2,7 +2,4 @@
 title = "060 इन्द्रियाणान् निरोधेन"
 
 +++
-इन्द्रियाणां निरोधेन  
-राग-द्वेश-क्षयेण च ।  
-अहिंसया च भूतानाम्  
-अमृतत्वाय कल्पते  ॥ ६.६० ॥
+060	By the restraint of his senses, by the destruction of love and hatred, and by the abstention from injuring the creatures, he becomes fit for immortality.

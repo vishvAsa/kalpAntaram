@@ -2,7 +2,4 @@
 title = "192 निक्षेपस्याऽपहर्तारन् तत्समम्"
 
 +++
-निक्षेपस्याऽपहर्तारं  
-तत्समं दापयेद् दमम् ।  
-तथोपनिधिहर्तारम्  
-अविशेषेण पार्थिवः  ॥ ८.१९२ ॥
+192	The king should compel him who does not restore an open deposit, and in like manner him who retains a sealed deposit, to pay a fine equal (to its value).

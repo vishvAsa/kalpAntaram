@@ -2,7 +2,4 @@
 title = "128 आपः शुद्धा"
 
 +++
-आपः शुद्धा भूमिगता  
-वैतृष्ण्यं यासु गोर् भवेत् ।  
-अव्याप्ताश् चेद् अमेध्येन  
-गन्ध-वर्ण-रसान्विताः  ॥ ५.१२८ ॥ [१२६ मेधातिथिपाठे]
+128	Water, sufficient (in quantity) in order to slake the thirst of a cow, possessing the (proper) smell, colour, and taste, and unmixed with impure substances, is pure, if it is collected on (pure) ground.

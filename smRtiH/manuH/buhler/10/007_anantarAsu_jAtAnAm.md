@@ -2,7 +2,4 @@
 title = "007 अनन्तरासु जातानाम्"
 
 +++
-अनन्तरासु जातानां  
-विधिर् एष सनातनः ।  
-द्व्य्-एकान्तरासु जातानां  
-धर्म्यं विद्याद् इमं विधिम्  ॥ १०.७ ॥
+007	Such is the eternal law concerning (children) born of wives one degree lower (than their husbands); know (that) the following rule (is applicable) to those born of women two or three degrees lower.

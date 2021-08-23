@@ -2,8 +2,4 @@
 title = "139 तेषान् तु"
 
 +++
-
-तेषां तु समावेतानां  
-मान्यौ स्नातक-पार्थिवौ ।  
-राज-स्नातकयोश् चैव  
-स्नातको नृपमानभाक्  ॥ २.१३९ ॥
+139	Among all those, if they meet (at one time), a Snataka and the king must be (most) honoured; and if the king and a Snataka (meet), the latter receives respect from the king.

@@ -2,7 +2,4 @@
 title = "021 ब्राह्मो दैवस्"
 
 +++
-ब्राह्मो दैवस् तथैवार्षः  
-प्राजापत्यस् तथासुरः ।  
-गान्धर्वो राक्षसश् चैव  
-पैशाचश् चाऽष्टमो ऽधमः  ॥ ३.२१ ॥
+021	(They are) the rite of Brahman (Brahma), that of the gods (Daiva), that of the Rishis (Arsha), that of Pragapati (Pragapatya), that of the Asuras (Asura), that of the Gandharvas (Gandharva), that of the Rhashasas (Rakshasa), and that of the Pisakas (Paisaka).

@@ -2,7 +2,4 @@
 title = "005 कृत-दारो ऽपरान्"
 
 +++
-कृत-दारो ऽपरान् दारान्  
-भिक्षित्वा यो ऽधिगच्छति ।  
-रति-मात्रं फलं तस्य  
-द्रव्यदातुस् तु संततिः  ॥ ११.५ ॥
+005	If a man who has a wife weds a second wife, having begged money (to defray the marriage expenses, he obtains) no advantage but sensual enjoyment; but the issue (of his second marriage belongs) to the giver of the money.

@@ -2,7 +2,4 @@
 title = "141 किञ् चिद्"
 
 +++
-किं चिद् एव तु विप्राय  
-दद्याद् अस्थिमतां वधे ।  
-अनस्थ्नां चैव हिंसायां  
-प्राणायामेन शुध्यति  ॥ ११.१४१ ॥ [१४० मेधातिथिपाठे]
+142	But for killing (small) animals which have bones, he should give some trifle to a Brahmana; if he injures boneless (animals), he becomes pure by a suppressing his breath (pranayama).

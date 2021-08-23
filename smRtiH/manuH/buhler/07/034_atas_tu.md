@@ -2,7 +2,4 @@
 title = "034 अतस् तु"
 
 +++
-अतस् तु विपरीतस्य  
-नृपतेर् अजितात्मनः ।  
-सङ्क्षिप्यते यशो लोके  
-घृतबिन्दुर् इवाऽम्भसि  ॥ ७.३४ ॥
+034	But the fame of a king who acts in a contrary manner and who does not subdue himself, diminishes in extent among men like a drop of clarified butter in water.

@@ -2,7 +2,4 @@
 title = "184 तेषान् न"
 
 +++
-तेषां न दद्याद् यदि तु  
-तद् +धिरण्यं यथाविधि ।  
-उभौ निगृह्य दाप्यः स्याद्  
-इति धर्मस्य धारणा [मेधातिथिपाठः - स निगृह्योभयं दाप्य इति  ॥ ८.१८४ ॥
+184	But if he restores not that gold, as be ought, to those (spies), then he shall be compelled by force to restore both (deposits); that is a settled rule of law.

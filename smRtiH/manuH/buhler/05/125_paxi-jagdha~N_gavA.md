@@ -2,7 +2,4 @@
 title = "125 पक्षि-जग्धङ् गवा"
 
 +++
-पक्षि-जग्धं गवा घ्रातम्  
-अवधूतम् अवक्षुतम् ।  
-दूषितं केश-कीटैश् च  
-मृत्-प्रक्षेपेण शुध्यति  ॥ ५.१२५ ॥ [१२३ मेधातिथिपाठे]
+125	(Food) which has been pecked at by birds, smelt at by cows, touched (with the foot), sneezed on, or defiled by hair or insects, becomes pure by scattering earth (over it).

@@ -2,7 +2,4 @@
 title = "098 एषो ऽनुपस्कृतः"
 
 +++
-एषो ऽनुपस्कृतः प्रोक्तो  
-योधधर्मः सनातनः ।  
-अस्माद् धर्मान् न च्यवेत  
-क्षत्रियो घ्नन् रणे रिपून्  ॥ ७.९८ ॥ [९९ मेधातिथिपाठे]
+098	Thus has been declared the blameless, primeval law for warriors; from this law a Kshatriya must not depart, when he strikes his foes in battle.

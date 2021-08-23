@@ -2,7 +2,4 @@
 title = "126 न शूद्रे"
 
 +++
-न शूद्रे पातकं किं चिन्  
-न च संस्कारम् अर्हति ।  
-नाऽस्याऽधिकारो धर्मे ऽस्ति  
-न धर्मात् प्रतिषेधनम्  ॥ १०.१२६ ॥
+126	A Sudra cannot commit an offence, causing loss of caste (pataka), and he is not worthy to receive the sacraments; he has no right to (fulfil) the sacred law (of the Aryans, yet) there is no prohibition against (his fulfilling certain portions of) the law.

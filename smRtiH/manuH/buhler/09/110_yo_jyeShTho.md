@@ -2,7 +2,4 @@
 title = "110 यो ज्येष्ठो"
 
 +++
-यो ज्येष्ठो ज्येष्ठ-वृत्तिः स्यान्  
-मातेव स पितेव सः ।  
-अज्येष्ठवृत्तिर् यस् तु स्यात्  
-स संपूज्यस् तु बन्धुवत्  ॥ ९.११० ॥
+110	If the eldest brother behaves as an eldest brother (ought to do), he (must be treated) like a mother and like a father; but if he behaves in a manner unworthy of an eldest brother, he should yet be honoured like a kinsman.

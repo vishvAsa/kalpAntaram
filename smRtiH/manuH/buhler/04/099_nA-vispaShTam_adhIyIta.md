@@ -2,8 +2,4 @@
 title = "099 नाऽविस्पष्टम् अधीयीत"
 
 +++
-
-नाऽविस्पष्टम् अधीयीत  
-न शूद्र-जन-सन्निधौ ।  
-न निशान्ते परिश्रान्तो  
-ब्रह्माऽधीत्य पुनः स्वपेत्  ॥ ४.९९ ॥  
+099	Let him not recite (the texts) indistinctly, nor in the presence of Sudras; nor let him, if in the latter part of the night he is tired with reciting the Veda, go again to sleep.

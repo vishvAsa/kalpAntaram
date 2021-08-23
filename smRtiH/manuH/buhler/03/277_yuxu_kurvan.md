@@ -2,7 +2,4 @@
 title = "277 युक्षु कुर्वन्"
 
 +++
-युक्षु कुर्वन् दिनर्क्षेषु  
-सर्वान् कामान् समश्नुते ।  
-अयुक्षु तु पितॄन् सर्वान्  
-प्रजां प्राप्नोति पुष्कलाम्  ॥ ३.२७७ ॥ [२६७ मेधातिथिपाठे]
+277	He who performs it on the even (lunar) days and under the even constellations, gains (the fulfilment of) all his wishes; he who honours the manes on odd (lunar days) and under odd (constellations), obtains distinguished offspring.

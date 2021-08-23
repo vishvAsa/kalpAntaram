@@ -2,7 +2,4 @@
 title = "133 मक्षिका विप्रुषश्"
 
 +++
-मक्षिका विप्रुषश् छाया  
-गौर् अश्वः सूर्यरश्मयः ।  
-रजो भूर् वायुर् अग्निश् च  
-स्पर्शे मेध्यानि निर्दिशेत्  ॥ ५.१३३ ॥ [१३१ मेधातिथिपाठे]
+133	Flies, drops of water, a shadow, a cow, a horse, the rays of the sun, dust, earth, the wind, and fire one must know to be pure to the touch.

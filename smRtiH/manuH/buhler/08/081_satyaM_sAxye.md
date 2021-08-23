@@ -2,7 +2,4 @@
 title = "081 सत्यं साक्ष्ये"
 
 +++
-सत्यं साक्ष्ये ब्रुवन् साक्षी  
-लोकान् आप्नोति पुष्कलान् [मेधातिथिपाठः - आप्नोत्य् अनिन्दितान्] ।  
-इह चाऽनुत्तमां कीर्तिं  
-वाग् एषा ब्रह्मपूजिता  ॥ ८.८१ ॥
+081	'A witness who speaks the truth in his evidence, gains (after death) the most excellent regions (of bliss) and here (below) unsurpassable fame; such testimony is revered by Brahman (himself).

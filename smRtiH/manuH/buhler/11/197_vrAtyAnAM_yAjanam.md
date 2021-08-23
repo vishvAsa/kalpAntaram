@@ -2,7 +2,4 @@
 title = "197 व्रात्यानां याजनम्"
 
 +++
-व्रात्यानां याजनं कृत्वा  
-परेषाम् अन्त्यकर्म च ।  
-अभिचारम् अहीनं च  
-त्रिभिः कृच्छ्रैर् व्यपोहति  ॥ ११.१९७ ॥ [१९६ मेधातिथिपाठे]
+198	He who has sacrificed for Vratyas, or has performed the obsequies of strangers, or a magic sacrifice (intended to destroy life) or an Ahina sacrifice, removes (his guilt) by three Krikkhra (penances).

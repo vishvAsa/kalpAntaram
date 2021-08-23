@@ -2,8 +2,4 @@
 title = "120 नाऽधीयीताऽश्वम् आरूढो"
 
 +++
-
-नाऽधीयीताऽश्वम् आरूढो  
-न वृक्षं न च हस्तिनम् ।  
-न नावं न खरं नोष्ट्रं  
-नेरिणस्थो न यानगः  ॥ ४.१२० ॥+++(5)+++  
+120	Let him not recite the Veda on horseback, nor on a tree, nor on an elephant, nor in a boat (or ship), nor on a donkey, nor on camel, nor standing on barren ground, nor riding in a carriage,

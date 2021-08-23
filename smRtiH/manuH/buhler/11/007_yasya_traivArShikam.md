@@ -2,7 +2,4 @@
 title = "007 यस्य त्रैवार्षिकम्"
 
 +++
-यस्य त्रैवार्षिकं भक्तं  
-पर्याप्तं भृत्यवृत्तये ।  
-अधिकं वापि विद्येत  
-स सोमं पातुम् अर्हति  ॥ ११.७ ॥ [०६ मेधातिथिपाठे]
+007	He who may possess (a supply of) food sufficient to maintain those dependant on him during three years or more than that, is worthy to drink the Soma-juice.

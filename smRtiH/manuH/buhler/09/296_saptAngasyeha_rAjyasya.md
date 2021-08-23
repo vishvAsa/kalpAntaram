@@ -2,7 +2,4 @@
 title = "296 सप्ताङ्गस्येह राज्यस्य"
 
 +++
-सप्ताङ्गस्येह राज्यस्य  
-विष्टब्धस्य त्रिदण्डवत् ।  
-अन्योन्यगुणवैशेष्यान्  
-न किं चिद् अतिरिच्यते  ॥ ९.२९६ ॥
+296	Yet in a kingdom containing seven constituent parts, which is upheld like the triple staff (of an ascetic), there is no (single part) more important (than the others), by reason of the importance of the qualities of each for the others.

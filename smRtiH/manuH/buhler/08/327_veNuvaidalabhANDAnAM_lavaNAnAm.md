@@ -2,7 +2,4 @@
 title = "327 वेणुवैदलभाण्डानां लवणानाम्"
 
 +++
-वेणुवैदलभाण्डानां  
-लवणानां तथैव च ।  
-मृण्मयानां च हरणे  
-मृदो भस्मन एव च  ॥ ८.३२७ ॥
+327	Vessels made of bamboo or other cane, salt of various kinds, earthen (vessels), earth and ashes,

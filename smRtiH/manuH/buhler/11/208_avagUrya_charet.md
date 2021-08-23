@@ -2,7 +2,4 @@
 title = "208 अवगूर्य चरेत्"
 
 +++
-अवगूर्य चरेत् कृच्छ्रम्  
-अतिकृच्छ्रं निपातने ।  
-कृच्छ्रातिकृच्छ्रौ कुर्वीत  
-विप्रस्योत्पाद्य शोणितम्  ॥ ११.२०८ ॥ [२०७ मेधातिथिपाठे]
+209	For threatening a Brahmana, (the offender) shall perform a Krikkhra, for striking him an Atikrikkhra, for shedding his blood a Krikkhra and an Atikrikkhra.

@@ -2,7 +2,4 @@
 title = "257 महापातकसंयुक्तो ऽनुगच्छेद्"
 
 +++
-महापातकसंयुक्तो  
-ऽनुगच्छेद् गाः समाहितः ।  
-अभ्यस्याऽब्दं पावमानीर्  
-भैक्षाहारो विशुध्यति  ॥ ११.२५७ ॥ [२५६ मेधातिथिपाठे]
+258	He who is stained by mortal sin, becomes pure, if, with a concentrated mind, he attends cows for a year, reciting the Pavamani (hymns) and subsisting on alms.

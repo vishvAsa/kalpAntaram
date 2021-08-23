@@ -2,8 +2,4 @@
 title = "199 नोदाहरेद् अस्य"
 
 +++
-
-नोदाहरेद् अस्य नाम  
-परोक्षम् अपि केवलम् ।  
-न चैवाऽस्यानुकुर्वीत  
-गति-भाषित-चेष्टितम्  ॥ २.१९९ ॥
+199	Let him not pronounce the mere name of his teacher (without adding an honorific title) behind his back even, and let him not mimic his gait, speech, and deportment.

@@ -2,7 +2,4 @@
 title = "162 निरादिष्टधनश् चेत्"
 
 +++
-निरादिष्टधनश् चेत् तु  
-प्रतिभूः स्याद् अलंधनः ।  
-स्वधनाद् एव तद् दद्यान्  
-निरादिष्ट इति स्थितिः  ॥ ८.१६२ ॥
+162	If the surety had received money (from him for whom he stood bail) and had money enough (to pay), then (the heir of him) who received it, shall pay (the debt) out of his property; that is the settled rule.

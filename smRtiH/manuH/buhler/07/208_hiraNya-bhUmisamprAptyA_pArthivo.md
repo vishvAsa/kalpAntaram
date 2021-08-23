@@ -2,7 +2,4 @@
 title = "208 हिरण्य-भूमिसम्प्राप्त्या पार्थिवो"
 
 +++
-हिरण्य-भूमिसम्प्राप्त्या  
-पार्थिवो न तथैधते ।  
-यथा मित्रं ध्रुवं लब्ध्वा  
-कृशम् अप्य् आयतिक्षमम्  ॥ ७.२०८ ॥ [२१२ मेधातिथिपाठे]
+208	By gaining gold and land a king grows not so much in strength as by obtaining a firm friend, (who), though weak, (may become) powerful in the future.

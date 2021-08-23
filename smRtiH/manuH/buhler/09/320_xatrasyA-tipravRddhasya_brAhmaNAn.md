@@ -2,7 +2,4 @@
 title = "320 क्षत्रस्याऽतिप्रवृद्धस्य ब्राह्मणान्"
 
 +++
-क्षत्रस्याऽतिप्रवृद्धस्य  
-ब्राह्मणान् प्रति सर्वशः ।  
-ब्रह्मैव संनियन्तृ स्यात्  
-क्षत्रं हि ब्रह्म-संभवम्  ॥ ९.३२० ॥
+320	When the Kshatriyas become in any way overbearing towards the Brahmanas, the Brahmanas themselves shall duly restrain them; for the Kshatriyas sprang from the Brahmanas.

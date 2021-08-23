@@ -2,7 +2,4 @@
 title = "088 उक्त्वा चैवाऽनृतम्"
 
 +++
-उक्त्वा चैवाऽनृतं साक्ष्ये  
-प्रतिरुध्य गुरुं तथा [मेधातिथिपाठः - प्रतिरभ्य] ।  
-अपहृत्य च निःक्षेपं  
-कृत्वा च स्त्री-सुहृद्-वधम् [मेधातिथिपाठः - निक्षेपं]  ॥ ११.८८ ॥ [८७ मेधातिथिपाठे]
+089	Likewise for giving false evidence (in an important cause), for passionately abusing the teacher, for stealing a deposit, and for killing (his) wife or his friend:

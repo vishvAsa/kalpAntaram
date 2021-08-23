@@ -2,7 +2,4 @@
 title = "160 सन्धिञ् च"
 
 +++
-सन्धिं च विग्रहं चैव  
-यानम् आसनम् एव च ।  
-द्वैधीभावं संश्रयं च  
-षड्गुणांश् चिन्तयेत् सदा  ॥ ७.१६० ॥ [१६१ मेधातिथिपाठे]
+160	Let him constantly think of the six measures of royal policy (guna, viz.) alliance, war, marching, halting, dividing the army, and seeking protection.

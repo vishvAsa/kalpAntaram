@@ -2,7 +2,4 @@
 title = "085 तेषां वेदविदो"
 
 +++
-तेषां वेदविदो ब्रूयुस्  
-त्रयो ऽप्य् एनः सुनिष्कृतिम् ।  
-सा तेषां पावनाय स्यात्  
-पवित्रा विदुषां हि वाक् [मेधातिथिपाठः - पवित्रं]  ॥ ११.८५ ॥ [८४ मेधातिथिपाठे]
+086	(If) only three of them who are learned in the Veda proclaim the expiation for offences, that shall purify the (sinners); for the words of learned men are a means of purification.

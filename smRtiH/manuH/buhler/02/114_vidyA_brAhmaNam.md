@@ -2,8 +2,4 @@
 title = "114 विद्या ब्राह्मणम्"
 
 +++
-
-विद्या ब्राह्मणम् एत्याह  
-शेवधिस् ते ऽस्मि रक्ष माम् [मेधातिथिपाठः - शेवधिष् टे] ।  
-असूयकाय मां मादास्  
-तथा स्यां वीर्यवत्तमा  ॥ २.११४ ॥
+114	Sacred Learning approached a Brahmana and said to him: 'I am thy treasure, preserve me, deliver me not to a scorner; so (preserved) I shall become supremely strong.'

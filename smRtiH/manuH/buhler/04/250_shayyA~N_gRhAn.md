@@ -2,8 +2,4 @@
 title = "250 शय्याङ् गृहान्"
 
 +++
-
-शय्यां गृहान् कुशान् गन्धान्  
-अपः पुष्पं मणीन् दधि ।  
-धाना मत्स्यान् पयो मांसं  
-शाकं चैव न निर्णुदेत्  ॥ ४.२५० ॥ [२५१ मेधातिथिपाठे]  
+250	A couch, a house, Kusa grass, perfumes, water, flowers, jewels, sour milk, grain, fish, sweet milk, meat, and vegetables let him not reject, (if they are voluntarily offered.)

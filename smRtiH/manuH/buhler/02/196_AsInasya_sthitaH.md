@@ -2,8 +2,4 @@
 title = "196 आसीनस्य स्थितः"
 
 +++
-
-आसीनस्य स्थितः कुर्याद्  
-अभिगच्छंस् तु तिष्ठतः ।  
-प्रत्युद्गम्य त्व् आव्रजतः  
-पश्चाद् धावंस् तु धावतः  ॥ २.१९६ ॥
+196	Let him do (that), standing up, if (his teacher) is seated, advancing towards him when he stands, going to meet him if he advances, and running after him when he runs;

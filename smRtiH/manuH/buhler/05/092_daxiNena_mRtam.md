@@ -2,7 +2,4 @@
 title = "092 दक्षिणेन मृतम्"
 
 +++
-दक्षिणेन मृतं शूद्रं  
-पुरद्वारेण निर्हरेत् ।  
-पश्चिमोत्तर-पूर्वैस् तु  
-यथायोगं द्विजन्मनः  ॥ ५.९२ ॥ [९१ मेधातिथिपाठे]
+092	Let him carry out a dead Sudra by the southern gate of the town, but (the corpses of) twice-born men, as is proper, by the western, northern, or eastern (gates).

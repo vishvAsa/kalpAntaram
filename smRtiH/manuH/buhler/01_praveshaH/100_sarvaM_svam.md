@@ -2,8 +2,4 @@
 title = "100 सर्वं स्वम्"
 
 +++
-
-सर्वं स्वं ब्राह्मणस्येदं  
-यत् किं चिज् जगतीगतं ।  
-श्रैष्ठ्येनाऽभिजनेनेदं  
-सर्वं वै ब्राह्मणो ऽर्हति  ॥ १.१०० ॥
+100	Whatever exists in the world is, the property of the Brahmana; on account of the excellence of his origin The Brahmana is, indeed, entitled to all.

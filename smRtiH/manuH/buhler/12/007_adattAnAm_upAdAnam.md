@@ -2,8 +2,4 @@
 title = "007 अदत्तानाम् उपादानम्"
 
 +++
-
-अदत्तानाम् उपादानं  
-हिंसा चैवाऽविधानतः ।  
-परदारोपसेवा च  
-शारीरं त्रिविधं स्मृतम्  ॥ १२.७ ॥
+007	Taking what has not been given, injuring (creatures) without the sanction of the law, and holding criminal intercourse with another man's wife, are declared to be the three kinds of (wicked) bodily action.

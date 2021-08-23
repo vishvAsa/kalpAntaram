@@ -2,7 +2,4 @@
 title = "138 कारुकाञ् शिल्पिनश्"
 
 +++
-कारुकाञ् शिल्पिनश् चैव  
-शूद्रांस् चात्मोपजीविनः ।  
-एकैकं कारयेत् कर्म  
-मासि मासि महीपतिः  ॥ ७.१३८ ॥ [१३९ मेधातिथिपाठे]
+138	Mechanics and artisans, as well as Sudras who subsist by manual labour, he may cause to work (for himself) one (day) in each month.

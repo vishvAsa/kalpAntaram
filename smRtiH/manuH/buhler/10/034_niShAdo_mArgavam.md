@@ -2,7 +2,4 @@
 title = "034 निषादो मार्गवम्"
 
 +++
-निषादो मार्गवं सूते  
-दासं नौकर्मजीविनम् ।  
-कैवर्तम् इति यं प्राहुर्  
-आर्यावर्तनिवासिनः  ॥ १०.३४ ॥
+034	A Nishada begets (on the same) a Margava (or) Dasa, who subsists by working as a boatman, (and) whom the inhabitants of Aryavarta call a Kaivarta.

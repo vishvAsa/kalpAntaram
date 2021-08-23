@@ -2,7 +2,4 @@
 title = "023 षड् आनुपूर्व्या"
 
 +++
-षड् आनुपूर्व्या विप्रस्य  
-क्षत्रस्य चतुरो ऽवरान् ।  
-विट्-शूद्रयोस् तु तान् एव  
-विद्याद् धर्म्यान् अराक्षसान् [मेधातिथिपाठः - धर्म्यान् न राक्षसान्]  ॥ ३.२३ ॥
+023	One may know that the first six according to the order (followed above) are lawful for a Brahmana, the four last for a Kshatriya, and the same four, excepting the Rakshasa rite, for a Vaisya and a Sudra.

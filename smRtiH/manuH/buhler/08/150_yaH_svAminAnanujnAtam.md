@@ -2,7 +2,4 @@
 title = "150 यः स्वामिनाननुज्ञातम्"
 
 +++
-यः स्वामिनाननुज्ञातम्  
-आधिं भूङ्क्ते ऽविचक्षणः ।  
-तेनाऽर्धवृद्धिर् मोक्तव्या  
-तस्य भोगस्य निष्कृतिः  ॥ ८.१५० ॥
+150	The fool who uses a pledge without the permission of the owner, shall remit half of his interest, as a compensation for (such) use.

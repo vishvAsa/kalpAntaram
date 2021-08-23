@@ -2,7 +2,4 @@
 title = "400 शुल्कस्थानम् परिहरन्न्"
 
 +++
-शुल्कस्थानं परिहरन्न्  
-अकाले क्रय-विक्रयी ।  
-मिथ्यावादी च संख्याने  
-दाप्यो ऽष्टगुणम् अत्ययम्  ॥ ८.४०० ॥
+400	He who avoids a custom-house (or a toll), he who buys or sells at an improper time, or he who makes a false statement in enumerating (his goods), shall be fined eight times (the amount of duty) which he tried to evade.

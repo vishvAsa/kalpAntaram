@@ -2,7 +2,4 @@
 title = "141 नोच्छिष्टङ् कुर्वते"
 
 +++
-नोच्छिष्टं कुर्वते मुख्या  
-विप्रुषो ऽङ्गं न यान्ति याः ।  
-न श्मश्रूणि गतान्य् आस्यं  
-न दन्तान्तर्-अधिष्ठितम्  ॥ ५.१४१ ॥ [१३९ मेधातिथिपाठे]
+141	Drops (of water) from the mouth which do not fall on a limb, do not make (a man) impure, nor the hair of the moustache entering the mouth, nor what adheres to the teeth.

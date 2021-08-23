@@ -2,8 +2,4 @@
 title = "101 यथा जात-बलो"
 
 +++
-
-यथा जात-बलो वह्निर्  
-दहत्य् आर्द्रान् अपि द्रुमान् ।  
-तथा दहति वेदज्ञः  
-कर्मजं दोषम् आत्मनः  ॥ १२.१०१ ॥
+101	As a fire that has gained strength consumes even trees full of sap, even so he who knows the Veda burns out the taint of his soul which arises from (evil) acts.

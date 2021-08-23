@@ -2,7 +2,4 @@
 title = "160 दर्शनप्रातिभाव्ये तु"
 
 +++
-दर्शनप्रातिभाव्ये तु  
-विधिः स्यात् पूर्वचोदितः ।  
-दानप्रतिभुवि प्रेते  
-दायादान् अपि दापयेत्  ॥ ८.१६० ॥
+160	This just mentioned rule shall apply to the case of a surety for appearance (only); if a surety for payment should die, the (judge) may compel even his heirs to discharge the debt.

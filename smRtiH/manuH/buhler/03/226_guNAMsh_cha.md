@@ -2,7 +2,4 @@
 title = "226 गुणांश् च"
 
 +++
-गुणांश् च सूप-शाकाद्यान्  
-पयो दधि घृतं मधु ।  
-विन्यसेत् प्रयतः पूर्वं  
-भूमाव् एव समाहितः  ॥ ३.२२६ ॥ [२१६ मेधातिथिपाठे]
+226	Let him, being pure and attentive, carefully place on the ground the seasoning (for the rice), such as broths and pot herbs, sweet and sour milk, and honey,

@@ -2,7 +2,4 @@
 title = "115 सप्त वित्तागमा"
 
 +++
-सप्त वित्तागमा धर्म्या  
-दायो लाभः क्रयो जयः ।  
-प्रयोगः कर्मयोगश् च  
-सत्प्रतिग्रह एव च  ॥ १०.११५ ॥
+115	There are seven lawful modes of acquiring property, (viz.) inheritance, finding or friendly donation, purchase, conquest, lending at interest, the performance of work, and the acceptance of gifts from virtuous men.

@@ -2,8 +2,4 @@
 title = "043 हस्तिनश् च"
 
 +++
-
-हस्तिनश् च तुरङ्गाश् च  
-शूद्रा म्लेच्छाश् च गर्हिताः ।  
-सिंहा व्याघ्रा वराहाश् च  
-मध्यमा तामसी गतिः  ॥ १२.४३ ॥
+043	Elephants, horses, Sudras, and despicable barbarians, lions, tigers, and boars (are) the middling states, caused by (the quality of) Darkness.

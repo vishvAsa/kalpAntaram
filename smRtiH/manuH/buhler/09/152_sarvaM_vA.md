@@ -2,7 +2,4 @@
 title = "152 सर्वं वा"
 
 +++
-सर्वं वा रिक्थजातं तद्  
-दशधा परिकल्प्य च ।  
-धर्म्यं विभागं कुर्वीत  
-विधिनानेन धर्मवित्  ॥ ९.१५२ ॥
+152	Or let him who knows the law make ten shares of the whole estate, and justly distribute them according to the following rule:

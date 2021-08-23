@@ -2,7 +2,4 @@
 title = "102 एतैर् व्रतैर्"
 
 +++
-एतैर् व्रतैर् अपोहेत  
-पापं स्तेयकृतं द्विजः ।  
-गुरुस्त्रीगमनीयं तु  
-व्रतैर् एभिर् अपानुदेत्  ॥ ११.१०२ ॥ [१०१ मेधातिथिपाठे]
+103	By these penances a twice-born man may remove the guilt incurred by a theft (of gold); but he may atone for connexion with a Guru's wife by the following penances.

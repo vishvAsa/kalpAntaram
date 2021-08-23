@@ -2,8 +2,4 @@
 title = "156 न तेन"
 
 +++
-
-न तेन वृद्धो भवति  
-येनाऽस्य पलितं शिरः ।  
-यो वै युवाप्य् अधीयानस्  
-तं देवाः स्थविरं विदुः  ॥ २.१५६ ॥
+156	A man is not therefore (considered) venerable because his head is gray; him who, though young, has learned the Veda, the gods consider to be venerable.

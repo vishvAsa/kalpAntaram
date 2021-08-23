@@ -2,8 +2,4 @@
 title = "070 इतरेषु स-सन्ध्येषु"
 
 +++
-
-इतरेषु स-सन्ध्येषु  
-स-सन्ध्यांशेषु च त्रिषु ।  
-एकापायेन वर्तन्ते  
-सहस्राणि शतानि च  ॥ १.७० ॥
+070	In the other three ages with their twilights preceding and following, the thousands and hundreds are diminished by one (in each).

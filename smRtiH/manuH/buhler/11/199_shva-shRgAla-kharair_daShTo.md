@@ -2,7 +2,4 @@
 title = "199 श्व-शृगाल-खरैर् दष्टो"
 
 +++
-श्व-शृगाल-खरैर् दष्टो  
-ग्राम्यैः क्रव्याद्भिर् एव च ।  
-नराश्वोष्ट्र-वराहैश् च  
-प्राणायामेन शुध्यति  ॥ ११.१९९ ॥ [१९८ मेधातिथिपाठे]
+200	He who has been bitten by a dog, a jackal, or a donkey, by a tame carnivorous animal, by a man, a horse, a camel, or a (village-) pig, becomes pure by suppressing his breath (Pranayama).

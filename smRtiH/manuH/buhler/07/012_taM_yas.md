@@ -2,7 +2,4 @@
 title = "012 तं यस्"
 
 +++
-तं यस् तु द्वेष्टि सम्मोहात्  
-स विनश्यत्य् असंशयम् ।  
-तस्य ह्य् आशु विनाशाय  
-राजा प्रकुरुते मनः  ॥ ७.१२ ॥
+012	The (man), who in his exceeding folly hates him, will doubtlessly perish; for the king quickly makes up his mind to destroy such (a man).

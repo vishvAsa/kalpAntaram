@@ -2,8 +2,4 @@
 title = "010 आपो नरा"
 
 +++
-
-आपो नरा इति प्रोक्ता  
-आपो वै नरसूनवः ।  
-ता यद् अस्यायनं पूर्वं  
-तेन नारायणः स्मृतः  ॥ १.१० ॥
+010	The waters are called narah, (for) the waters are, indeed, the offspring of Nara; as they were his first residence (ayana), he thence is named Narayana.

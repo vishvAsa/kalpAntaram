@@ -2,7 +2,4 @@
 title = "135 पलं सुवर्णाश्"
 
 +++
-पलं सुवर्णाश् चत्वारः  
-पलानि धरणं दश ।  
-द्वे कृष्णले समधृते  
-विज्ञेयो रौप्यमाषकः [मेधातिथिपाठः - रूप्यमाषकः]  ॥ ८.१३५ ॥
+135	Four suvarnas are one pala, and ten palas one dharana; two krishnalas (of silver), weighed together, must be considered one mashaka of silver.

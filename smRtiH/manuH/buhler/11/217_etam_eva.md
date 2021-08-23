@@ -2,7 +2,4 @@
 title = "217 एतम् एव"
 
 +++
-एतम् एव विधिं कृत्स्नम्  
-आचरेद् यवमध्यमे ।  
-शुक्लपक्षादिनियतश्  
-चरंश् चान्द्रायणं व्रतम्  ॥ ११.२१७ ॥ [२१६ मेधातिथिपाठे]
+218	Let him follow throughout the same rule at the (Kandrayana, called) yavamadhyama (shaped like a barley-corn), (but) let him (in that case) begin the lunar penance, (with a) controlled (mind), on the first day of the bright half (of the month).

@@ -2,7 +2,4 @@
 title = "199 न निर्हारम्"
 
 +++
-न निर्हारं स्त्रियः कुर्युः  
-कुटुम्बाद् बहुमध्यगात् ।  
-स्वकाद् अपि च वित्ताद् +धि  
-स्वस्य भर्तुर् अनाज्ञया  ॥ ९.१९९ ॥
+199	Women should never make a hoard from (the property of) their families which is common to many, nor from their own (husbands' particular) property without permission.

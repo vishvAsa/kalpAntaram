@@ -2,7 +2,4 @@
 title = "222 अलङ्कृतश् च"
 
 +++
-अलङ्कृतश् च सम्पश्येद्  
-आयुधीयं पुनर् जनम् ।  
-वाहनानि च सर्वाणि  
-शस्त्राण्य् आभरणानि च  ॥ ७.२२२ ॥ [२२६ मेधातिथिपाठे]
+222	Adorned (with his robes of state), let him again inspect his fighting men, all his chariots and beasts of burden, the weapons and accoutrements.

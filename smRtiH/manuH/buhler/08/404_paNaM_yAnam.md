@@ -2,7 +2,4 @@
 title = "404 पणं यानम्"
 
 +++
-पणं यानं तरे दाप्यं  
-पौरुषो ऽर्धपणं तरे ।  
-पादं पशुश् च योषिच् च  
-पादार्धं रिक्तकः पुमान् [मेधातिथिपाठः - पादे]  ॥ ८.४०४ ॥
+404	At a ferry an (empty) cart shall be made to pay one pana, a man's (load) half a pana, an animal and a woman one quarter of a (pana), an unloaded man one-half of a quarter.

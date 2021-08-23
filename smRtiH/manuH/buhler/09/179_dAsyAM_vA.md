@@ -2,7 +2,4 @@
 title = "179 दास्यां वा"
 
 +++
-दास्यां वा दासदास्यां वा  
-यः शूद्रस्य सुतो भवेत् ।  
-सो ऽनुज्ञातो हरेद् अंशम्  
-इति धर्मो व्यवस्थितः  ॥ ९.१७९ ॥
+179	A son who is (begotten) by a Sudra on a female slave, or on the female slave of his slave, may, if permitted (by his father), take a share (of the inheritance); thus the law is settled.

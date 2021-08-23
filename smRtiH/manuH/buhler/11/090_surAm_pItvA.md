@@ -2,7 +2,4 @@
 title = "090 सुराम् पीत्वा"
 
 +++
-सुरां पीत्वा द्विजो मोहाद्  
-अग्नि-वर्णां सुरां पिबेत् ।  
-तया स काये निर्दग्धे  
-मुच्यते किल्बिषात् ततः  ॥ ११.९० ॥ [८९ मेधातिथिपाठे]
+091	A twice-born man who has (intentionally) drunk, through delusion of mind, (the spirituous liquor called) Sura shall drink that liquor boiling-hot; when his body has been completely scalded by that, he is freed from his guilt;

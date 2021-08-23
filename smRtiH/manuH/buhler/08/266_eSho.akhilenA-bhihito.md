@@ -2,7 +2,4 @@
 title = "266 एषो ऽखिलेनाऽभिहितो"
 
 +++
-एषो ऽखिलेनाऽभिहितो  
-धर्मः सीमाविनिर्णये ।  
-अत ऊर्ध्वं प्रवक्ष्यामि  
-वाक्पारुष्यविनिर्णयम्  ॥ ८.२६६ ॥
+266	Thus the law for deciding boundary (disputes) has been fully declared, I will next propound the (manner of) deciding (cases of) defamation.

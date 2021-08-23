@@ -2,8 +2,4 @@
 title = "042 मौञ्जी त्रिवृत्"
 
 +++
-
-मौञ्जी त्रिवृत् समा श्लक्ष्णा  
-कार्या विप्रस्य मेखला ।  
-क्षत्रियस्य तु मौर्वी ज्या  
-वैश्यस्य शणतान्तवी  ॥ २.४२ ॥
+042	The girdle of a Brahmana shall consist of a of a triple cord of Munga grass, smooth and soft; (that) of a Kshatriya, of a bowstring, made of Murva fibres; (that) of a Vaisya, of hempen threads.

@@ -2,7 +2,4 @@
 title = "132 पत्र-शाक-तृणानाञ् च"
 
 +++
-पत्र-शाक-तृणानां च  
-चर्मणां वैदलस्य च ।  
-मृन्मयानां च भाण्डानां  
-सर्वस्याऽश्ममयस्य च  ॥ ७.१३२ ॥ [१३३ मेधातिथिपाठे]
+132	Of leaves, pot-herbs, grass, (objects) made of cane, skins, of earthen vessels, and all (articles) made of stone.

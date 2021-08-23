@@ -2,7 +2,4 @@
 title = "123 मद्यैर् मूत्रैः"
 
 +++
-मद्यैर् मूत्रैः पुरीषैर् वा  
-ष्ठीवनैह् पूयशोणितैः [Not in M] ।  
-संस्पृष्टं नैव शुद्ध्येत  
-पुनःपाकेन मृन्-मयम्  ॥ ५.१२३ ॥  [५.१२३ क्ब् Not in M]
+123	An earthen vessel which has been defiled by spirituous liquor, urine, ordure, saliva, pus or blood cannot be purified by another burning.

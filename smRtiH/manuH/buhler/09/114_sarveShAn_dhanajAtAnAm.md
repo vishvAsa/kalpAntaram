@@ -2,7 +2,4 @@
 title = "114 सर्वेषान् धनजातानाम्"
 
 +++
-सर्वेषां धनजातानाम्  
-आददीताऽग्र्यम् अग्रजः ।  
-यच् च सातिशयं किं चिद्  
-दशतश् चाप्नुयाद् वरम्  ॥ ९.११४ ॥
+114	Among the goods of every kind the eldest shall take the best (article), and (even a single chattel) which is particularly good, as well as the best of ten (animals).

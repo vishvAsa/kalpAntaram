@@ -2,7 +2,4 @@
 title = "140 अस्थिमतान् तु"
 
 +++
-अस्थिमतां तु सत्त्वानां  
-सहस्रस्य प्रमापणे ।  
-पूर्णे चाऽनस्य् अनस्थ्नां तु  
-शूद्रहत्याव्रतं चरेत्  ॥ ११.१४० ॥ [१३९ मेधातिथिपाठे]
+141	But for destroying one thousand (small) animals that have bones, or a whole cart-load of boneless (animals), he shall perform the penance (prescribed) for the murder of a Sudra.

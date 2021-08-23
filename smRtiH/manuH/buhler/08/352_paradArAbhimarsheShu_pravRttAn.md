@@ -2,7 +2,4 @@
 title = "352 परदाराभिमर्शेषु प्रवृत्तान्"
 
 +++
-परदाराभिमर्शेषु  
-प्रवृत्तान् नॄन् महीपतिः ।  
-उद्वेजनकरैर् दण्डैश्  
-छिन्नयित्वा प्रवासयेत् [मेधातिथिपाठः - चिह्नयित्वा]  ॥ ८.३५२ ॥
+352	Men who commit adultery with the wives of others, the king shall cause to be marked by punishments which cause terror, and afterwards banish.

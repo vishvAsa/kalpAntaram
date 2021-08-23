@@ -2,7 +2,4 @@
 title = "181 य एते"
 
 +++
-य एते ऽभिहिताः पुत्राः  
-प्रसङ्गाद् अन्यबीजजाः ।  
-यस्य ते बीजतो जातास्  
-तस्य ते नेतरस्य तु  ॥ ९.१८१ ॥
+181	Those sons, who have been mentioned in connection with (the legitimate son of the body), being begotten by strangers, belong (in reality) to him from whose seed they sprang, but not to the other (man who took them).

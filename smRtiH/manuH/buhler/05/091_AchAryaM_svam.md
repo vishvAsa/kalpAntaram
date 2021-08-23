@@ -2,7 +2,4 @@
 title = "091 आचार्यं स्वम्"
 
 +++
-आचार्यं स्वम् उपाध्यायं  
-पितरं मातरं गुरुम् ।  
-निर्हृत्य तु व्रती प्रेतान्  
-न व्रतेन वियुज्यते  ॥ ५.९१ ॥ [९० मेधातिथिपाठे]
+091	A student does not break his vow by carrying out (to the place of cremation) his own dead teacher (akarya), sub-teacher (upadhyaya), father, mother, or Guru.

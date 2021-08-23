@@ -2,7 +2,4 @@
 title = "085 इदन् तु"
 
 +++
-इदं तु वृत्तिवैकल्यात्  
-त्यजतो धर्मनैपुणं ।  
-विट्-पण्यम् उद्धृतोद्धारं  
-विक्रेयं वित्तवर्धनम्  ॥ १०.८५ ॥
+085	But he who, through a want of means of subsistence, gives up the strictness with respect to his duties, may sell, in order to increase his wealth, the commodities sold by Vaisyas, making (however) the (following) exceptions.

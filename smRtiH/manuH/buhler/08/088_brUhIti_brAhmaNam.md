@@ -2,7 +2,4 @@
 title = "088 ब्रूहीति ब्राह्मणम्"
 
 +++
-ब्रूहीति ब्राह्मणं पृच्छेत्  
-सत्यं ब्रूहीति पार्थिवम् ।  
-गो-बीज-काञ्चनैर् वैश्यं  
-शूद्रं सर्वैस् तु पातकैः  ॥ ८.८८ ॥
+088	Let him examine a Brahmana (beginning with) 'Speak,' a Kshatriya (beginning with) 'Speak the truth,' a Vaisya (admonishing him) by (mentioning) his kine, grain, and gold, a Sudra (threatening him) with (the guilt of) every crime that causes loss of caste;

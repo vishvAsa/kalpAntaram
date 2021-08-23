@@ -2,8 +2,4 @@
 title = "214 अविद्वांसम् अलम्"
 
 +++
-
-अविद्वांसम् अलं लोके  
-विद्वांसम् अपि वा पुनः ।  
-प्रमदा ह्य् उत्पथं नेतुं  
-काम-क्रोधवशानुगम्  ॥ २.२१४ ॥
+214	For women are able to lead astray in (this) world not only a fool, but even a learned man, and (to make) him a slave of desire and anger.

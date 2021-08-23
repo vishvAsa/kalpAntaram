@@ -2,7 +2,4 @@
 title = "240 कीताश् चाऽहि-पतङ्गाश्"
 
 +++
-कीताश् चाऽहि-पतंगाश् च  
-पशवश् च वयांसि च ।  
-स्थावराणि च भूतानि  
-दिवं यान्ति तपोबलात्  ॥ ११.२४० ॥ [२३९ मेधातिथिपाठे]
+241	Insects, snakes, moths, bees, birds and beings, bereft of motion, reach heaven by the power of austerities.

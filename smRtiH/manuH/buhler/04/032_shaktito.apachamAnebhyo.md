@@ -2,8 +2,4 @@
 title = "032 शक्तितो ऽपचमानेभ्यो"
 
 +++
-
-शक्तितो ऽपचमानेभ्यो  
-दातव्यं गृहमेधिना ।  
-संविभागश् च भूतेभ्यः  
-कर्तव्यो ऽनुपरोधतः  ॥ ४.३२ ॥+++(4)+++  
+032	A householder must give (as much food) as he is able (to spare) to those who do not cook for themselves, and to all beings one must distribute (food) without detriment (to one's own interest).

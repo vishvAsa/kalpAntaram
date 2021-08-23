@@ -2,8 +2,4 @@
 title = "032 द्विधा कृत्वात्मनो"
 
 +++
-
-द्विधा कृत्वात्मनो देहम्  
-अर्धेन पुरुषो ऽभवत् ।  
-अर्धेन नारी तस्यां स  
-विराजम् असृजत् प्रभुः  ॥ १.३२ ॥
+032	Dividing his own body, the Lord became half male and half female; with that (female) he produced Virag.

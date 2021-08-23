@@ -2,7 +2,4 @@
 title = "220 यथा कथम्"
 
 +++
-यथा कथं चित् पिण्डानां  
-तिस्रो ऽशीतीः समाहितः ।  
-मासेनाऽश्नन् हविष्यस्य  
-चन्द्रस्यैति सलोकताम्  ॥ ११.२२० ॥ [२१९ मेधातिथिपाठे]
+221	He who, concentrating his mind, eats during a month in any way thrice eighty mouthfuls of sacrificial food, dwells (after death) in the world of the moon.

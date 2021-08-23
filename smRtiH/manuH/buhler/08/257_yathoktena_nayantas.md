@@ -2,7 +2,4 @@
 title = "257 यथोक्तेन नयन्तस्"
 
 +++
-यथोक्तेन नयन्तस् ते  
-पूयन्ते सत्यसाक्षिणः ।  
-विपरीतं नयन्तस् तु  
-दाप्याः स्युर् द्विशतं दमम्  ॥ ८.२५७ ॥
+257	If they determine (the boundary) in the manner stated, they are guiltless (being) veracious witnesses; but if they determine it unjustly, they shall be compelled to pay a fine of two hundred (panas).

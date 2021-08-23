@@ -2,7 +2,4 @@
 title = "041 मधुपर्के च"
 
 +++
-मधुपर्के च यज्ञे च  
-पितृ-दैवत-कर्मणि ।  
-अत्रैव पशवो हिंस्या  
-नाऽन्यत्रेत्य् अब्रवीन् मनुः  ॥ ५.४१ ॥
+041	On offering the honey-mixture (to a guest), at a sacrifice and at the rites in honour of the manes, but on these occasions only, may an animal be slain; that (rule) Manu proclaimed.

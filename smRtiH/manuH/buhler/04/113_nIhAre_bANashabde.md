@@ -2,8 +2,4 @@
 title = "113 नीहारे बाणशब्दे"
 
 +++
-
-नीहारे बाणशब्दे च  
-सन्ध्ययोर् एव चोभयोः ।  
-अमावास्या-चतुर्दश्योः  
-पौर्णमास्य्-अष्टकासु च  ॥ ४.११३ ॥  +++(4)+++
+113	Nor during a fog, nor while the sound of arrows is audible, nor during both the twilights, nor on the new-moon day, nor on the fourteenth and the eighth (days of each half-month), nor on the full-moon day.

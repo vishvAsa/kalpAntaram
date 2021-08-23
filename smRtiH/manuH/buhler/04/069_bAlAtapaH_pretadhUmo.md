@@ -2,8 +2,4 @@
 title = "069 बालातपः प्रेतधूमो"
 
 +++
-
-बालातपः प्रेतधूमो  
-वर्ज्यं भिन्नं तथासनम् ।  
-न छिन्द्यान् नख-रोमाणि  
-दन्तैर् नोत्पाटयेन् नखान् [मेधातिथिपाठः - न च्छिन्द्यान्]  ॥ ४.६९ ॥+++(4)+++  
+069	The morning sun, the smoke rising from a (burning) corpse, and a broken seat must be avoided. Let him not clip his nails or hair, and not tear his nails with his teeth.

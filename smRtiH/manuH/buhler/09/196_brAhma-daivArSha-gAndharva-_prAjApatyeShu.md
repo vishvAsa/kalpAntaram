@@ -2,7 +2,4 @@
 title = "196 ब्राह्म-दैवार्ष-गान्धर्व- प्राजापत्येषु"
 
 +++
-ब्राह्म-दैवार्ष-गान्धर्व-  
-प्राजापत्येषु यद् वसु ।  
-अप्रजायाम् अतीतायां  
-भर्तुर् एव तद् इष्यते  ॥ ९.१९६ ॥
+196	It is ordained that the property (of a woman married) according to the Brahma, the Daiva, the Arsha, the Gandharva, or the Pragapatya rite (shall belong) to her husband alone, if she dies without issue.

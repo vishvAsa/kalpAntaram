@@ -2,7 +2,4 @@
 title = "073 यस् तु"
 
 +++
-यस् तु दोषवतीं कन्याम्  
-अनाख्यायोपपादयेत् ।  
-तस्य तद् वितथं कुर्यात्  
-कन्यादातुर् दुरात्मनः  ॥ ९.७३ ॥
+073	If anybody gives away a maiden possessing blemishes without declaring them, (the bridegroom) may annul that (contract) with the evil-minded giver.

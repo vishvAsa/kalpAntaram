@@ -2,7 +2,4 @@
 title = "357 उपचारक्रिया केलिः"
 
 +++
-उपचारक्रिया केलिः  
-स्पर्शो भूषण-वाससाम् [मेधातिथिपाठः - उपकारक्रिया] ।  
-सह खट्वासनं चैव  
-सर्वं संग्रहणं स्मृतम्  ॥ ८.३५७ ॥
+357	Offering presents (to a woman), romping (with her), touching her ornaments and dress, sitting with her on a bed, all (these acts) are considered adulterous acts (samgrahana).

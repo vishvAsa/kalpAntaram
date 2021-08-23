@@ -2,8 +2,4 @@
 title = "019 तेषाम् इदम्"
 
 +++
-
-तेषाम् इदं तु सप्तानां  
-पुरुषाणां महौजसाम् ।  
-सूक्ष्माभ्यो मूर्तिमात्राभ्यः  
-सम्भवत्य् अव्ययाद् व्ययम्  ॥ १.१९ ॥
+019	But from minute body (-framing) particles of these seven very powerful Purushas springs this (world), the perishable from the imperishable.

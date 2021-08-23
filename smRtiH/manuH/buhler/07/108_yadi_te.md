@@ -2,7 +2,4 @@
 title = "108 यदि ते"
 
 +++
-यदि ते तु न तिष्ठेयुर्  
-उपायैः प्रथमैस् त्रिभिः ।  
-दण्डेनैव प्रसह्यैताञ्  
-शनकैर् वशम् आनयेत्  ॥ ७.१०८ ॥ [१०९ मेधातिथिपाठे]
+108	If they cannot be stopped by the three first expedients, then let him, overcoming them by force alone, gradually bring them to subjection.

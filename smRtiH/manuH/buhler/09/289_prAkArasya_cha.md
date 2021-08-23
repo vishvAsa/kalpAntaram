@@ -2,7 +2,4 @@
 title = "289 प्राकारस्य च"
 
 +++
-प्राकारस्य च भेत्तारं  
-परिखाणां च पूरकम् ।  
-द्वाराणां चैव भङ्क्तारं  
-क्षिप्रम् एव प्रवासयेत्  ॥ ९.२८९ ॥
+289	Him who destroys the wall (of a town), or fills up the ditch (round a town), or breaks a (town)- gate, he shall instantly banish.

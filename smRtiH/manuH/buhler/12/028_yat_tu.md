@@ -2,8 +2,4 @@
 title = "028 यत् तु"
 
 +++
-
-यत् तु दुःखसमायुक्तम्  
-अप्रीतिकरम् आत्मनः ।  
-तद् रजो प्रतीपं विद्यात्  
-सततं हारि देहिनाम् [मेधातिथिपाठः - हर्तृ]  ॥ १२.२८ ॥
+028	What is mixed with pain and does not give satisfaction to the soul one may know (to be the quality of) Activity, which is difficult to conquer, and which ever draws embodied (souls towards sensual objects).

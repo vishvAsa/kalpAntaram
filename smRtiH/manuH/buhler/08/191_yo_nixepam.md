@@ -2,7 +2,4 @@
 title = "191 यो निक्षेपम्"
 
 +++
-यो निक्षेपं नाऽर्पयति  
-यश् चाऽनिक्षिप्य याचते ।  
-ताव् उभौ चौरवच् छास्यौ  
-दाप्यौ वा तत्समं दमम्  ॥ ८.१९१ ॥
+191	He who does not return a deposit and he who demands what he never bailed shall both be punished like thieves, or be compelled to pay a fine equal (to the value of the object retained or claimed).

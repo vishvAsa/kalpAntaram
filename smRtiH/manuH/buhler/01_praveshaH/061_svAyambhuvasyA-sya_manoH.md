@@ -2,8 +2,4 @@
 title = "061 स्वायम्भुवस्याऽस्य मनोः"
 
 +++
-
-स्वायम्भुवस्याऽस्य मनोः  
-षड्वंश्या मनवो ऽपरे ।  
-सृष्टवन्तः प्रजाः स्वाः स्वा  
-महात्मानो महौजसः  ॥ १.६१ ॥
+061	Six other high-minded, very powerful Manus, who belong to the race of this Manu, the descendant of the Self-existent (Svayambhu), and who have severally produced created beings,

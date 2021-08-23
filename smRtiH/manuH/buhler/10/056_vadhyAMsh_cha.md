@@ -2,7 +2,4 @@
 title = "056 वध्यांश् च"
 
 +++
-वध्यांश् च हन्युः सततं  
-यथाशास्त्रं नृपाज्ञया ।  
-वध्यवासांसि गृह्णीयुः  
-शय्याश् चाभरणानि च  ॥ १०.५६ ॥
+056	By the king's order they shall always execute the criminals, in accordance with the law, and they shall take for themselves the clothes, the beds, and the ornaments of (such) criminals.

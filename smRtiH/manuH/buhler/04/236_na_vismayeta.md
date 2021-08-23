@@ -2,8 +2,4 @@
 title = "236 न विस्मयेत"
 
 +++
-
-न विस्मयेत तपसा  
-वदेद् इष्ट्वा च नाऽनृतम् ।  
-नार्तो ऽप्य् अपवदेद् विप्रान्  
-न दत्त्वा परिकीर्तयेत् [मेधातिथिपाठः - दत्वा]  ॥ ४.२३६ ॥ [२३७ मेधातिथिपाठे]+++(5)+++  
+236	Let him not be proud of his austerities; let him not utter a falsehood after he has offered a sacrifice; let him not speak ill of Brahmanas, though he be tormented (by them); when he has bestowed (a gift), let him not boast of it.

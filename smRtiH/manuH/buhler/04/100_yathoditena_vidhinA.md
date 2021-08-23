@@ -2,8 +2,4 @@
 title = "100 यथोदितेन विधिना"
 
 +++
-
-यथोदितेन विधिना नित्यं  
-छन्दस्कृतं+++(→पद्यं)+++ पठेत् ।  
-+++(गद्य)+++ब्रह्म छन्दस्कृतं चैव  
-द्विजो युक्तो ह्य् अनापदि  ॥ ४.१०० ॥  
+100	According to the rule declared above, let him recite the daily (portion of the) Mantras, and a zealous Brahmana, (who is) not in distress, (shall study) the Brahmana and the Mantrasamhita.

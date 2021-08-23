@@ -2,7 +2,4 @@
 title = "262 क्षेत्र-कूप-तडागानाम् आरामस्य"
 
 +++
-क्षेत्र-कूप-तडागानाम्  
-आरामस्य गृहस्य च ।  
-सामन्तप्रत्ययो ज्ञेयः  
-सीमासेतुविनिर्णयः  ॥ ८.२६२ ॥
+262	The decision concerning the boundary-marks of fields, wells, tanks, of gardens and houses depends upon (the evidence of) the neighbours.

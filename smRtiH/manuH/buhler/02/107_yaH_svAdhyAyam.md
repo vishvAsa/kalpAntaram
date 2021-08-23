@@ -2,8 +2,4 @@
 title = "107 यः स्वाध्यायम्"
 
 +++
-
-यः स्वाध्यायम् अधीते ऽब्दं  
-विधिना नियतः शुचिः ।  
-तस्य नित्यं क्षरत्य् एष  
-पयो दधि घृतं मधु  ॥ २.१०७ ॥
+107	For him who, being pure and controlling his organs, during a year daily recites the Veda according to the rule, that (daily recitation) will ever cause sweet and sour milk, clarified butter and honey to flow.

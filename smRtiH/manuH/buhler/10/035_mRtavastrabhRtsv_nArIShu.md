@@ -2,7 +2,4 @@
 title = "035 मृतवस्त्रभृत्स्व् नारीषु"
 
 +++
-मृतवस्त्रभृत्स्व् नारीषु  
-गर्हितान्नाशनासु च [मेधातिथिपाठः - अनार्याषु] ।  
-भवन्त्य् आयोगवीष्व् एते  
-जातिहीनाः पृथक् त्रयः  ॥ १०.३५ ॥
+035	Those three base-born ones are severally begot on Ayogava women, who wear the clothes of the dead, are wicked, and eat reprehensible food.

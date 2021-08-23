@@ -2,7 +2,4 @@
 title = "108 पितेव पालयेत्"
 
 +++
-पितेव पालयेत् पूत्रान्  
-ज्येष्ठो भ्रातॄण् यवीयसः ।  
-पुत्रवच् चाऽपि वर्तेरन्  
-ज्येष्ठे भ्रातरि धर्मतः  ॥ ९.१०८ ॥
+108	As a father (supports) his sons, so let the eldest support his younger brothers, and let them also in accordance with the law behave towards their eldest brother as sons (behave towards their father).

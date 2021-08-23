@@ -2,8 +2,4 @@
 title = "081 यादृशेन तु"
 
 +++
-
-यादृशेन तु भावेन  
-यद् यत् कर्म निषेवते ।  
-तादृशेन शरीरेण  
-तत् तत् फलम् उपाश्नुते  ॥ १२.८१ ॥
+081	But with whatever disposition of mind (a man) forms any act, he reaps its result in a (future) body endowed with the same quality.

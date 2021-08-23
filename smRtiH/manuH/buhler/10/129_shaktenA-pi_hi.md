@@ -2,7 +2,4 @@
 title = "129 शक्तेनाऽपि हि"
 
 +++
-शक्तेनाऽपि हि शूद्रेण  
-न कार्यो धनसंचयः ।  
-शूद्रो हि धनम् आसाद्य  
-ब्राह्मणान् एव बाधते  ॥ १०.१२९ ॥
+129	No collection of wealth must be made by a Sudra, even though he be able (to do it); for a Sudra who has acquired wealth, gives pain to Brahmanas.

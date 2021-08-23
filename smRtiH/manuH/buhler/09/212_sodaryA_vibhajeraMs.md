@@ -2,7 +2,4 @@
 title = "212 सोदर्या विभजेरंस्"
 
 +++
-सोदर्या विभजेरंस् तं  
-समेत्य सहिताः समम् ।  
-भ्रातरो ये च संसृष्टा  
-भागिन्यश् च स-नाभयः  ॥ ९.२१२ ॥
+212	His uterine brothers, having assembled together, shall equally divide it, and those brothers who were reunited (with him) and the uterine sisters.

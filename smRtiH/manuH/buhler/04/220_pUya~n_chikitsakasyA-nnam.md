@@ -2,8 +2,4 @@
 title = "220 पूयञ् चिकित्सकस्याऽन्नम्"
 
 +++
-
-पूयं चिकित्सकस्याऽन्नं  
-पुंश्चल्यास् त्व् अन्नम् इन्द्रियम् ।  
-विष्ठा+++(=पुरिषं)+++ वार्धुषिकस्याऽन्नं  
-शस्त्रविक्रयिणो मलम्  ॥ ४.२२० ॥ [२२१ मेधातिथिपाठे]  
+220	The food of a physician (is as vile as) pus, that of an unchaste woman (equal to) semen, that of a usurer (as vile as) ordure, and that of a dealer in weapons (as bad as) dirt.

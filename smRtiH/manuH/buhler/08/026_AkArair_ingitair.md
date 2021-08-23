@@ -2,7 +2,4 @@
 title = "026 आकारैर् इङ्गितैर्"
 
 +++
-आकारैर् इङ्गितैर् गत्या  
-चेष्टया भाषितेन च ।  
-नेत्र-वक्त्रविकारैश् च  
-गृह्यते ऽन्तर्गतं मनः  ॥ ८.२६ ॥
+026	The internal (working of the) mind is perceived through the aspect, the motions, the gait, the gestures, the speech, and the changes in the eye and of the face.

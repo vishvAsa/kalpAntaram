@@ -2,8 +2,4 @@
 title = "107 नित्यानध्याय एव"
 
 +++
-
-नित्यानध्याय एव स्याद्  
-ग्रामेषु नगरेषु च ।  
-धर्मनैपुण्य-कामानां  
-पूतिगन्धे च सर्वदा [मेधातिथिपाठः - सर्वशः]  ॥ ४.१०७ ॥+++(4)+++  
+107	For those who wish to acquire exceedingiy great merit, a continual interruption of the Veda-study (is prescribed) in villages and in towns, and (the Veda-study must) always (cease) when any kind of foul smell (is perceptible).

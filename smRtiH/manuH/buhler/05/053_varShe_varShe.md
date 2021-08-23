@@ -2,7 +2,4 @@
 title = "053 वर्षे वर्षे"
 
 +++
-वर्षे वर्षे ऽश्वमेधेन  
-यो यजेत शतं समाः ।  
-मांसानि च न खादेद् यस्  
-तयोः पुण्यफलं समम्  ॥ ५.५३ ॥
+053	He who during a hundred years annually offers a horse-sacrifice, and he who entirely abstains from meat, obtain the same reward for their meritorious (conduct).

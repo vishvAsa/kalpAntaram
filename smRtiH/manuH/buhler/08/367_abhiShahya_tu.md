@@ -2,7 +2,4 @@
 title = "367 अभिषह्य तु"
 
 +++
-अभिषह्य तु यः कन्यां  
-कुर्याद् दर्पेण मानवः ।  
-तस्याशु कर्त्ये अङ्गुल्यौ  
-दण्डं चाऽर्हति षट्शतम् [मेधातिथिपाठः - कर्त्या अङ्गुल्यो]  ॥ ८.३६७ ॥
+367	But if any man through insolence forcibly contaminates a maiden, two of his fingers shall be instantly cut off, and he shall pay a fine of six hundred (panas).

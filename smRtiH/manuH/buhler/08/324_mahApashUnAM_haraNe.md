@@ -2,7 +2,4 @@
 title = "324 महापशूनां हरणे"
 
 +++
-महापशूनां हरणे  
-शस्त्राणाम् औषधस्य च ।  
-कालम् आसाद्य कार्यं च  
-दण्डं राजा प्रकल्पयेत्  ॥ ८.३२४ ॥
+324	For stealing large animals, weapons, or medicines, let the king fix a punishment, after considering the time and the purpose (for which they were destined).

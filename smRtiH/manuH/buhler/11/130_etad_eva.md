@@ -2,7 +2,4 @@
 title = "130 एतद् एव"
 
 +++
-एतद् एव व्रतं कृत्स्नं  
-षण्मासाञ् शूद्रहा चरेत् ।  
- वृषभैकादशा वापि  
-दद्याद् विप्राय गाः सिताः  ॥ ११.१३० ॥ [१२९ मेधातिथिपाठे]
+131	He who has slain a Sudra, shall perform that whole penance during six months, or he may also give ten white cows and one bull to a Brahmana.

@@ -2,7 +2,4 @@
 title = "075 साक्षी दृष्ट-श्रुताद्"
 
 +++
-साक्षी दृष्ट-श्रुताद् अन्यद्  
-विब्रुवन्न् आर्यसंसदि ।  
-अवाङ् नरकम् अभ्येति  
-प्रेत्य स्वर्गाच् च हीयते  ॥ ८.७५ ॥
+075	A witness who deposes in an assembly of honourable men (Arya) anything else but what he has seen or heard, falls after death headlong into hell and loses heaven.

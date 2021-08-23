@@ -2,8 +2,4 @@
 title = "162 सम्मानाद् ब्राह्मणो"
 
 +++
-
-सम्मानाद् ब्राह्मणो नित्यम्  
-उद्विजेत विषाद् इव ।  
-अमृतस्येव चाकाङ्क्षेद्  
-अवमानस्य सर्वदा  ॥ २.१६२ ॥+++(5)+++
+162	A Brahmana should always fear homage as if it were poison; and constantly desire (to suffer) scorn as (he would long for) nectar.

@@ -2,7 +2,4 @@
 title = "097 राज्ञश् च"
 
 +++
-राज्ञश् च दद्युर् उद्धारम्  
-इत्य् एषा वैदिकी श्रुतिः ।  
-राज्ञा च सर्वयोधेभ्यो  
-दातव्यम् अपृथग्जितम्  ॥ ७.९७ ॥ [९८ मेधातिथिपाठे]
+097	A text of the Veda (declares) that (the soldiers) shall present a choice portion (of the booty) to the king; what has not been taken singly, must be distributed by the king among all the soldiers.

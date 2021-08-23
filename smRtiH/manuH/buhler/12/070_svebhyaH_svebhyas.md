@@ -2,8 +2,4 @@
 title = "070 स्वेभ्यः स्वेभ्यस्"
 
 +++
-
-स्वेभ्यः स्वेभ्यस् तु कर्मभ्यश्  
-च्युता वर्णा ह्य् अनापदि ।  
-पापान् संसृत्य संसारान्  
-प्रेष्यतां यान्ति शत्रुषु [मेधातिथिपाठः - यान्ति दस्युषु]  ॥ १२.७० ॥
+070	But (men of the four) castes who have relinquished without the pressure of necessity their proper occupations, will become the servants of Dasyus, after migrating into despicable bodies.

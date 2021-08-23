@@ -2,7 +2,4 @@
 title = "177 वीक्ष्याऽन्धो नवतेः"
 
 +++
-वीक्ष्याऽन्धो नवतेः काणः  
-षष्टेः श्वित्री शतस्य तु [मेधातिथिपाठः - शतस्य च] ।  
-पापरोगी सहस्रस्य  
-दातुर् नाशयते फलम्  ॥ ३.१७७ ॥ [१६७ मेधातिथिपाठे]
+177	A blind man by his presence causes to the giver (of the feast) the loss of the reward for ninety (guests), a one-eyed man for sixty, one who suffers from white leprosy for a hundred, and one punished by a (terrible) disease for a thousand.

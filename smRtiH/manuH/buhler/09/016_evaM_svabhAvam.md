@@ -2,7 +2,4 @@
 title = "016 एवं स्वभावम्"
 
 +++
-एवं स्वभावं ज्ञात्वासां  
-प्रजापतिनिसर्गजम् ।  
-परमं यत्नम् आतिष्ठेत्  
-पुरुषो रक्षणं प्रति  ॥ ९.१६ ॥
+016	Knowing their disposition, which the Lord of creatures laid in them at the creation, to be such, (every) man should most strenuously exert himself to guard them.

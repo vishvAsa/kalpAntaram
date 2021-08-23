@@ -2,8 +2,4 @@
 title = "097 वेदास् त्यागश्"
 
 +++
-
-वेदास् त्यागश् च यज्ञाश् च  
-नियमाश् च तपांसि च ।  
-न विप्रदुष्ट-भावस्य  
-सिद्धिं गच्छति कर्हि चित्  ॥ २.९७ ॥
+097	Neither (the study of) the Vedas, nor liberality, nor sacrifices, nor any (self-imposed) restraint, nor austerities, ever procure the attainment (of rewards) to a man whose heart is contaminated (by sensuality).

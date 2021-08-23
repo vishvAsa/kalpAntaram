@@ -2,8 +2,4 @@
 title = "062 स्वारोचिषश् चोत्तमश्"
 
 +++
-
-स्वारोचिषश् चोत्तमश् च  
-तामसो रैवतस् तथा ।  
-चाक्षुषश् च महातेजा  
-विवस्वत्-सुत एव च  ॥ १.६२ ॥
+062	(Are) Svarokisha, Auttami, Tamasa, Raivata, Kakshusha, possessing great lustre, and the son of Vivasvat.

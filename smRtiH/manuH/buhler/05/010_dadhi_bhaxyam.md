@@ -2,7 +2,4 @@
 title = "010 दधि भक्ष्यम्"
 
 +++
-दधि भक्ष्यं च शुक्तेषु  
-सर्वं च दधि-सम्भवम् [मेधातिथिपाठः - दधि-सम्भवम्] ।  
-यानि चैवाऽभिषूयन्ते  
-पुष्प-मूल-फलैः शुभैः  ॥ ५.१० ॥
+010	Among (things turned) sour, sour milk, and all (food) prepared of it may be eaten, likewise what is extracted from pure flowers, roots, and fruit.

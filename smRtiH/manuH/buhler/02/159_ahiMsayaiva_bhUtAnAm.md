@@ -2,8 +2,4 @@
 title = "159 अहिंसयैव भूतानाम्"
 
 +++
-
-अहिंसयैव भूतानां  
-कार्यं श्रेयो ऽनुशासनम् ।  
-वाक् चैव मधुरा श्लक्ष्णा  
-प्रयोज्या धर्मम् इच्छता  ॥ २.१५९ ॥
+159	Created beings must be instructed in (what concerns) their welfare without giving them pain, and sweet and gentle speech must be used by (a teacher) who desires (to abide by) the sacred law.

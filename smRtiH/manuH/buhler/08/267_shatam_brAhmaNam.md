@@ -2,7 +2,4 @@
 title = "267 शतम् ब्राह्मणम्"
 
 +++
-शतं ब्राह्मणम् आक्रुश्य  
-क्षत्रियो दण्डम् अर्हति ।  
-वैश्यो ऽप्य् अर्धशतं द्वे वा  
-शूद्रस् तु वधम् अर्हति  ॥ ८.२६७ ॥
+267	A Kshatriya, having defamed a Brahmana, shall be fined one hundred (panas); a Vaisya one hundred and fifty or two hundred; a Sudra shall suffer corporal punishment.

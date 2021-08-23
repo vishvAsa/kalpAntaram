@@ -2,7 +2,4 @@
 title = "188 निमन्त्रितो द्विजः"
 
 +++
-निमन्त्रितो द्विजः पित्र्ये  
-नियतात्मा भवेत् सदा ।  
-न च छन्दांस्य् अधीयीत  
-यस्य श्राद्धं च तद् भवेत्  ॥ ३.१८८ ॥ [१७८ मेधातिथिपाठे]
+188	A Brahmana who has been invited to a (rite) in honour of the manes shall always control himself and not recite the Veda, and he who performs the Sraddha (must act in the same manner).

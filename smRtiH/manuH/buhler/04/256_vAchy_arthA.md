@@ -2,8 +2,4 @@
 title = "256 वाच्य् अर्था"
 
 +++
-
-वाच्य् अर्था नियताः सर्वे  
-वाङ्-मूला वाग्-विनिःसृताः ।  
-तांस् तु यः स्तेनयेद्+++(=चोरयेद्)+++ वाचं  
-स सर्वस्तेयकृन् नरः [मेधातिथिपाठः - तान् तु?]  ॥ ४.२५६ ॥ [२५७ मेधातिथिपाठे]  
+256	All things (have their nature) determined by speech; speech is their root, and from speech they proceed; but he who is dishonest with respect to speech, is dishonest in everything.

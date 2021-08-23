@@ -2,8 +2,4 @@
 title = "148 वेदाभ्यासेन सततम्"
 
 +++
-
-वेदाभ्यासेन सततं  
-शौचेन तपसैव च ।  
-अद्रोहेण च भूतानां  
-जातिं स्मरति पौर्विकीम्  ॥ ४.१४८ ॥+++(5)+++  
+148	By daily reciting the Veda, by (the observance of the rules of) purification, by (practising) austerities, and by doing no injury to created beings, one (obtains the faculty of) remembering former births.

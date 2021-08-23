@@ -2,7 +2,4 @@
 title = "074 समक्षदर्शनात् साक्ष्यम्"
 
 +++
-समक्षदर्शनात् साक्ष्यं  
-श्रवणाच् चैव सिध्यति ।  
-तत्र सत्यं ब्रुवन् साक्षी  
-धर्मार्थाभ्यां न हीयते  ॥ ८.७४ ॥
+074	Evidence in accordance with what has actually been seen or heard, is admissible; a witness who speaks truth in those (cases), neither loses spiritual merit nor wealth.

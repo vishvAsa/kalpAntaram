@@ -2,7 +2,4 @@
 title = "052 फलन् त्व्"
 
 +++
-फलं त्व् अनभिसंधाय  
-क्षेत्रिणां बीजिनां तथा ।  
-प्रत्यक्षं क्षेत्रिणाम् अर्थो  
-बीजाद् योनिर् गलीयसी [मेधातिथिपाठः - बरीयसी]  ॥ ९.५२ ॥
+052	If no agreement with respect to the crop has been made between the owner of the field and the owner of the seed, the benefit clearly belongs to the owner of the field; the receptacle is more important than the seed.

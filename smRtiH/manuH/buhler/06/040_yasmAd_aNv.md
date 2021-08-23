@@ -2,7 +2,4 @@
 title = "040 यस्माद् अण्व्"
 
 +++
-यस्माद् अण्व् अपि भूतानां  
-द्विजान् नोत्पद्यते भयम् ।  
-तस्य देहाद् विमुक्तस्य  
-भयं नाऽस्ति कुतश् चन  ॥ ६.४० ॥
+040	For that twice-born man, by whom not the smallest danger even is caused to created beings, there will be no danger from any (quarter), after he is freed from his body.

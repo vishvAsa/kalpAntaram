@@ -2,7 +2,4 @@
 title = "084 ब्रह्मणः सम्भवेनैव"
 
 +++
-ब्रह्मणः संभवेनैव  
-देवानाम् अपि दैवतम् ।  
-प्रमाणं चैव लोकस्य  
-ब्रह्मात्रैव हि कारणम्  ॥ ११.८४ ॥ [८३ मेधातिथिपाठे]
+085	By his origin alone a Brahmana is a deity even for the gods, and (his teaching is) authoritative for men, because the Veda is the foundation for that.

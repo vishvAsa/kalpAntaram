@@ -2,8 +2,4 @@
 title = "012 वेदः स्मृतिः"
 
 +++
-
-वेदः स्मृतिः सदाचारः  
-स्वस्य च प्रियम् आत्मनः ।  
-एतच् चतुर्विधं प्राहुः  
-साक्षाद् धर्मस्य लक्षणम्  ॥ २.१२ ॥
+012	The Veda, the sacred tradition, the customs of virtuous men, and one's own pleasure, they declare to be visibly the fourfold means of defining the sacred law.

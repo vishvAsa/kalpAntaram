@@ -2,7 +2,4 @@
 title = "067 नृणाम् अकृतचूडानाम्"
 
 +++
-नृणाम् अकृतचूडानां  
-विशुद्धिर् नैशिकी स्मृता ।  
-निर्वृत्त-चूडकानां तु  
-त्रिरात्राच् छुद्धिर् इष्यते [मेधातिथिपाठः - निर्वृत्त-मुण्डकानां]  ॥ ५.६७ ॥ [६६ मेधातिथिपाठे]
+067	(On the death) of children whose tonsure (Kudakarman) has not been performed, the (Sapindas) are declared to become pure in one (day and) night; (on the death) of those who have received the tonsure (but not the initiation, the law) ordains (that) the purification (takes place) after three days.

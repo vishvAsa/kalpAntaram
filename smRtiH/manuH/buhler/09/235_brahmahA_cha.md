@@ -2,7 +2,4 @@
 title = "235 ब्रह्महा च"
 
 +++
-ब्रह्महा च सुरापश् च  
-स्तेयी च गुरुतल्पगः [मेधातिथिपाठः - तस्करो गुरुतल्पगः] ।  
-एते सर्वे पृथग् ज्ञेया  
-महापातकिनो नराः  ॥ ९.२३५ ॥
+235	The slayer of a Brahmana, (A twice-born man) who drinks (the spirituous liquor called) Sura, he who steals (the gold of a Brahmana), and he who violates a Guru's bed, must each and all be considered as men who committed mortal sins (mahapataka).

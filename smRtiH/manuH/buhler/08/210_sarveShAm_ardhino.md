@@ -2,7 +2,4 @@
 title = "210 सर्वेषाम् अर्धिनो"
 
 +++
-सर्वेषाम् अर्धिनो मुख्यास्  
-तदर्धेनाऽर्धिनो ऽपरे ।  
-तृतीयिनस् तृतीयांशाश्  
-चतुर्थांशाश् च पादिनः  ॥ ८.२१० ॥
+210	The (four) chief priests among all (the sixteen), who are entitled to one half, shall receive a moiety (of the fee), the next (four) one half of that, the set entitled to a third share, one third, and those entitled to a fourth a quarter.

@@ -2,8 +2,4 @@
 title = "114 अमावास्या गुरुम्"
 
 +++
-
-अमावास्या गुरुं हन्ति  
-शिष्यं हन्ति चतुर्दशी ।  
-ब्रह्माऽष्टक-पौर्णमास्यौ  
-तस्मात् ताः परिवर्जयेत्  ॥ ४.११४ ॥  
+114	The new-moon day destroys the teacher, the fourteenth (day) the pupil, the eighth and the full-moon days (destroy all remembrance of) the Veda; let him therefore avoid (reading on) those (days).

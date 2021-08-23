@@ -2,7 +2,4 @@
 title = "246 सींआवृक्षांश् च"
 
 +++
-सींआवृक्षांश् च कुर्वीत  
-न्यग्रोधाश्वत्थ-किंशुकान् ।  
-शाल्मलीन् सालतालांश् च  
-क्षीरिणश् चैव पादपान्  ॥ ८.२४६ ॥
+246	Let him mark the boundaries (by) trees, (e.g.) Nyagrodhas, Asvatthas, Kimsukas, cotton-trees, Salas, Palmyra palms, and trees with milky juice,

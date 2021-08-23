@@ -2,7 +2,4 @@
 title = "174 परदारेषु जायेते"
 
 +++
-परदारेषु जायेते  
-द्वौ सुतौ कुण्ड-गोलकौ ।  
-पत्यौ जीवति कुण्डः स्यान्  
-मृते भर्तरि गोलकः  ॥ ३.१७४ ॥ [१६४ मेधातिथिपाठे]
+174	Two (kinds of) sons, a Kunda and a Golaka, are born by wives of other men; (he who is born) while the husband lives, will be a Kunda, and (he who is begotten) after the husband's death, a Golaka.

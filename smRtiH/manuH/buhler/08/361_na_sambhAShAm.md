@@ -2,7 +2,4 @@
 title = "361 न सम्भाषाम्"
 
 +++
-न संभाषां परस्त्रीभिः  
-प्रतिषिद्धः समाचरेत् ।  
-निषिद्धो भाषमाणस् तु  
-सुवर्णं दण्डम् अर्हति  ॥ ८.३६१ ॥
+361	Let no man converse with the wives of others after he has been forbidden (to do so); but he who converses (with them), in spite of a prohibition, shall be fined one suvarna.

@@ -2,7 +2,4 @@
 title = "101 अन्योन्यस्याऽव्यभिचारो भवेद्"
 
 +++
-अन्योन्यस्याऽव्यभिचारो  
-भवेद् आ-मरणान्तिकः ।  
-एष धर्मः समासेन  
-ज्ञेयः स्त्री-पुंसयोः परः  ॥ ९.१०१ ॥
+101	'Let mutual fidelity continue until death,' this may be considered as the summary of the highest law for husband and wife.

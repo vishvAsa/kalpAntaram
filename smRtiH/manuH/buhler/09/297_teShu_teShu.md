@@ -2,7 +2,4 @@
 title = "297 तेषु तेषु"
 
 +++
-तेषु तेषु तु कृत्येषु  
-तत् तद् अङ्गं विशिष्यते ।  
-येन यत् साध्यते कार्यं  
-तत् तस्मिञ् श्रेष्ठम् उच्यते  ॥ ९.२९७ ॥
+297	For each part is particularly qualified for (the accomplishment of) certain objects, (and thus) each is declared to be the most important for that particular purpose which is effected by its means.

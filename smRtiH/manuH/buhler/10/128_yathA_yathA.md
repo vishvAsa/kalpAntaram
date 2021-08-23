@@ -2,7 +2,4 @@
 title = "128 यथा यथा"
 
 +++
-यथा यथा हि सद्वृत्तम्  
-आतिष्ठत्य् अनसूयकः ।  
-तथा तथेमं चाऽमुं च  
-लोकं प्राप्नोत्य् अनिन्दितः  ॥ १०.१२८ ॥
+128	The more a (Sudra), keeping himself free from envy, imitates the behaviour of the virtuous, the more he gains, without being censured, (exaltation in) this world and the next.

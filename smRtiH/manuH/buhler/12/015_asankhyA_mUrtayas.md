@@ -2,8 +2,4 @@
 title = "015 असङ्ख्या मूर्तयस्"
 
 +++
-
-असंख्या मूर्तयस् तस्य  
-निष्पतन्ति शरीरतः ।  
-उच्चावचानि भूतानि  
-सततं चेष्टयन्ति याः  ॥ १२.१५ ॥
+015	From his body innumerable forms go forth, which constantly impel the multiform creatures to action.

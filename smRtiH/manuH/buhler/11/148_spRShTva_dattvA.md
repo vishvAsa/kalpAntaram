@@ -2,7 +2,4 @@
 title = "148 स्पृष्ट्व दत्त्वा"
 
 +++
-स्पृष्ट्व दत्त्वा च मदिरां  
-विधिवत् प्रतिगृह्य च ।  
-शूद्रोच्छिष्टाश् च पीत्वापः  
-कुशवारि पिबेत् त्र्यहम्  ॥ ११.१४८ ॥ [१४७ मेधातिथिपाठे]
+149	He who has touched spirituous liquor, has given it away, or received it in accordance with the rule, or has drunk water left by a Sudra, shall drink during three days water in which Kusa-grass has been boiled.

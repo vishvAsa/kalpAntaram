@@ -2,7 +2,4 @@
 title = "144 न भोक्तव्यो"
 
 +++
-न भोक्तव्यो बलाद् आधिर्  
-भुञ्जानो वृद्धिम् उत्सृजेत् ।  
-मूल्येन तोषयेच् चैनम्  
-आधिस्तेनो ऽन्यथा भवेत्  ॥ ८.१४४ ॥
+144	A pledge (to be kept only) must not be used by force, (the creditor), so using it, shall give up his (whole) interest, or, (if it has been spoilt by use) he shall satisfy the (owner) by (paying its) original price; else he commits a theft of the pledge.

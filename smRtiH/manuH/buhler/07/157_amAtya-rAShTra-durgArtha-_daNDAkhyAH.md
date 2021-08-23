@@ -2,7 +2,4 @@
 title = "157 अमात्य-राष्ट्र-दुर्गार्थ- दण्डाख्याः"
 
 +++
-अमात्य-राष्ट्र-दुर्गार्थ-  
-दण्डाख्याः पञ्च चाऽपराः ।  
-प्रत्येकं कथिता ह्य् एताः  
-सङ्क्षेपेण द्विसप्ततिः  ॥ ७.१५७ ॥ [१५८ मेधातिथिपाठे]
+157	The minister, the kingdom, the fortress, the treasury, and the army are five other (constituent elements of the circle); for, these are mentioned in connexion with each (of the first twelve; thus the whole circle consists), briefly (speaking, of) seventy-two (constituent parts).

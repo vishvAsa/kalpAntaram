@@ -2,7 +2,4 @@
 title = "250 उदितो ऽयम्"
 
 +++
-उदितो ऽयं विस्तरशो  
-मिथो विवादमानयोः ।  
-अष्टादशसु मार्गेषु  
-व्यवहारस्य निर्णयः  ॥ ९.२५० ॥
+250	Thus the (manner of) deciding suits (falling) under the eighteen titles, between two litigant parties, has been declared at length.

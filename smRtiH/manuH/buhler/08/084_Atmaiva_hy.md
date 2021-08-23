@@ -2,7 +2,4 @@
 title = "084 आत्मैव ह्य्"
 
 +++
-आत्मैव ह्य् आत्मनः साक्षी  
-गतिर् आत्मा तथात्मनः ।  
-मावमंस्थाः स्वम् आत्मानं  
-नृणां साक्षिणम् उत्तमम्  ॥ ८.८४ ॥
+084	'The Soul itself is the witness of the Soul, and the Soul is the refuge of the Soul; despise not thy own Soul, the supreme witness of men.

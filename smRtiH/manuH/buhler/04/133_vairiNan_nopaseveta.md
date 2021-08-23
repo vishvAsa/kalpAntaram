@@ -2,8 +2,4 @@
 title = "133 वैरिणन् नोपसेवेत"
 
 +++
-
-वैरिणं नोपसेवेत  
-सहायं चैव वैरिणः ।  
-अधार्मिकं तस्करं च  
-परस्यैव च योषितं  ॥ ४.१३३ ॥  
+133	Let him not show particular attention to an enemy, to the friend of an enemy, to a wicked man, to a thief, or to the wife of another man.

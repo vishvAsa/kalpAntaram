@@ -2,8 +2,4 @@
 title = "065 न पादौ"
 
 +++
-
-न पादौ धावयेत् कांस्ये  
-कदा चिद् अपि भाजने ।  
-न भिन्न+++(=भग्न)+++-भाण्डे भुञ्जीत  
-न भावप्रतिदूषिते  ॥ ४.६५ ॥  
+065	Let him never wash his feet in a vessel of white brass; let him not eat out of a broken (earthen) dish, nor out of one that (to judge) from its appearance (is) defiled.

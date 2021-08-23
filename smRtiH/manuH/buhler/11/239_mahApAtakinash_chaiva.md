@@ -2,7 +2,4 @@
 title = "239 महापातकिनश् चैव"
 
 +++
-महापातकिनश् चैव  
-शेषाश् चाऽकार्यकारिणः ।  
-तपसैव सुतप्तेन  
-मुच्यन्ते किल्बिषात् ततः  ॥ ११.२३९ ॥ [२३८ मेधातिथिपाठे]
+240	Both those who have committed mortal sin (Mahapataka) and all other offenders are severally freed from their guilt by means of well-performed austerities.

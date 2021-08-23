@@ -2,7 +2,4 @@
 title = "002 वेदान् अधीत्य"
 
 +++
-वेदान् अधीत्य वेदौ वा  
-वेदं वापि यथाक्रमम् ।  
-अविप्लुत-ब्रह्मचर्यो  
-गृहस्थाश्रमम् आवसेत्  ॥ ३.२ ॥
+002	(A student) who has studied in due order the three Vedas, or two, or even one only, without breaking the (rules of) studentship, shall enter the order of householders.

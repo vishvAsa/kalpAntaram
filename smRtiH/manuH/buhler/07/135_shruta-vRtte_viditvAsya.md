@@ -2,7 +2,4 @@
 title = "135 श्रुत-वृत्ते विदित्वास्य"
 
 +++
-श्रुत-वृत्ते विदित्वास्य  
-वृत्तिं धर्म्यां प्रकल्पयेत् ।  
-संरक्षेत् सर्वतश् चैनं  
-पिता पुत्रम् इवाऽउरसम्  ॥ ७.१३५ ॥ [१३६ मेधातिथिपाठे]
+135	Having ascertained his learning in the Veda and (the purity of) his conduct, the king shall provide for him means of subsistence in accordance with the sacred law, and shall protect him in every way, as a father (protects) the lawful son of his body.

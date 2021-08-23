@@ -2,8 +2,4 @@
 title = "132 भ्रातुर् भार्योपसङ्ग्राह्या"
 
 +++
-
-भ्रातुर् भार्योपसङ्ग्राह्या  
-सवर्णाहन्य् अहन्य् अपि ।  
-विप्रोष्य तूपसङ्ग्राह्या  
-ज्ञाति-सम्बन्धि-योषितः  ॥ २.१३२ ॥
+132	(The feet of the) wife of one's brother, if she be of the same caste (varna), must be clasped every day; but (the feet of) wives of (other) paternal and maternal relatives need only be embraced on one's return from a journey.

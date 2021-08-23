@@ -2,8 +2,4 @@
 title = "079 सहस्रकृत्वस् त्व्"
 
 +++
-
-सहस्रकृत्वस् त्व् अभ्यस्य  
-बहिर् एतत् त्रिकं द्विजः ।  
-महतो ऽप्य् एनसो मासात्  
-त्वचेवाऽहिर् विमुच्यते  ॥ २.७९ ॥
+079	A twice-born man who (daily) repeats those three one thousand times outside (the village), will be freed after a month even from great guilt, as a snake from its slough.

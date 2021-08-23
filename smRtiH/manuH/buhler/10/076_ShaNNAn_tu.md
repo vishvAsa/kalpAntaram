@@ -2,7 +2,4 @@
 title = "076 षण्णान् तु"
 
 +++
-षण्णां तु कर्मणाम् अस्य  
-त्रीणि कर्माणि जीविका ।  
-याजनाध्यापने चैव  
-विशुद्धाच् च प्रतिग्रहः  ॥ १०.७६ ॥
+076	But among the six acts (ordained) for him three are his means of subsistence, (viz.) sacrificing for others, teaching, and accepting gifts from pure men.

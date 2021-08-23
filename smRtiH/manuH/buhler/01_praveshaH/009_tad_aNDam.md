@@ -2,8 +2,4 @@
 title = "009 तद् अण्डम्"
 
 +++
-
-तद् अण्डम् अभवद् +धैमं  
-सहस्रांशुसम-प्रभम् ।  
-तस्मिञ् जज्ञे स्वयं  
-ब्रह्मा सर्वलोकपितामहः  ॥ १.९ ॥
+009	That (seed) became a golden egg, in brilliancy equal to the sun; in that (egg) he himself was born as Brahman, the progenitor of the whole world.

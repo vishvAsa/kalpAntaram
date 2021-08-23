@@ -2,7 +2,4 @@
 title = "188 एतद् एव"
 
 +++
-एतद् एव विधिं कुर्याद्  
-योषित्सु पतितास्व् अपि [मेधातिथिपाठः - एतम् एव विधिं] ।  
-वस्त्रान्न-पानं देयं तु  
-वसेयुश् च गृहान्तिके  ॥ ११.१८८ ॥ [१८७ मेधातिथिपाठे]
+189	Let him follow the same rule in the case of female outcasts; but clothes, food, and drink shall be given to them, and they shall live close to the (family-) house.

@@ -2,7 +2,4 @@
 title = "020 चान्द्रायणविधानैर् वा"
 
 +++
-चान्द्रायणविधानैर् वा  
-शुक्ल-कृष्णे च वर्तयेत् ।  
-पक्षान्तयोर् वाप्य् अश्नीयाद्  
-यवागूं क्वथितां सकृत्  ॥ ६.२० ॥
+020	Or he may live according to the rule of the lunar penance (Kandrayana, daily diminishing the quantity of his food) in the bright (half of the month) and (increasing it) in the dark (half); or he may eat on the last days of each fortnight, once (a day only), boiled barley-gruel.

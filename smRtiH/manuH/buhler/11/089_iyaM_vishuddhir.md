@@ -2,7 +2,4 @@
 title = "089 इयं विशुद्धिर्"
 
 +++
-इयं विशुद्धिर् उदिता  
-प्रमाप्याऽकामतो द्विजम् ।  
-कामतो ब्राह्मणवधे  
-निष्कृतिर् न विधीयते  ॥ ११.८९ ॥ [८८ मेधातिथिपाठे]
+090	This expiation has been prescribed for unintentionally killing a Brahmana; but for intentionally slaying a Brahmana no atonement is ordained.

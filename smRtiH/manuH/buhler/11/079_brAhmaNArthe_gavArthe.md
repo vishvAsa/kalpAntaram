@@ -2,7 +2,4 @@
 title = "079 ब्राह्मणार्थे गवार्थे"
 
 +++
-ब्राह्मणार्थे गवार्थे वा  
-सद्यः प्राणान् परित्यजेत् [मेधातिथिपाठः - संयक् प्राणान्] ।  
-मुच्यते ब्रह्महत्याया  
-गोप्ता गोर् ब्राह्मणस्य च  ॥ ११.७९ ॥ [७८ मेधातिथिपाठे]
+080	He who unhesitatingly abandons life for the sake of Brahmanas or of cows, is freed from (the guilt of) the murder of a Brahmana, and (so is he) who saves (the life of) a cow, or of a Brahmana.

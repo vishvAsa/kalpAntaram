@@ -2,7 +2,4 @@
 title = "296 मनुष्यमारणे क्षिप्रम्"
 
 +++
-मनुष्यमारणे क्षिप्रं  
-चौरवत् किल्बिषं भवेत् ।  
-प्राणभृत्सु महत्स्व् अर्धं  
-गो-गजोष्ट्र-हयादिषु  ॥ ८.२९६ ॥
+296	If a man is killed, his guilt will be at once the same as (that of) a thief; for large animals such as cows, elephants, camels or horses, half of that.

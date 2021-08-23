@@ -2,7 +2,4 @@
 title = "182 इतरेषु त्व्"
 
 +++
-इतरेषु त्व् अपाङ्क्त्येषु  
-यथोद्दिष्टेष्व् असाधुषु ।  
-मेदो-ऽसृङ्-मांस-मज्जास्थि  
-वदन्त्य् अन्नं मनीषिणः +++(न पितृतर्पकम्)+++ ॥ ३.१८२ ॥ [१७२ मेधातिथिपाठे]
+182	But the wise declare that the food which (is offered) to other unholy, inadmissible men, enumerated above, (is turned into) adipose secretions, blood, flesh, marrow, and bone.

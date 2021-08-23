@@ -2,7 +2,4 @@
 title = "065 अनाहिताग्निता स्तेयम्"
 
 +++
-अनाहिताग्निता स्तेयम्  
-ऋणानाम् अनपक्रिया ।  
-असच्-छाष्ट्राधिगमनं  
-कौशीलव्यस्य च क्रिया  ॥ ११.६५ ॥ [६४ मेधातिथिपाठे]
+066	Neglecting to kindle the sacred fires, theft, non-payment of (the three) debts, studying bad books, and practising (the arts of) dancing and singing,

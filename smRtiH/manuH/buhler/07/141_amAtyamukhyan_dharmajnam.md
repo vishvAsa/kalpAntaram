@@ -2,7 +2,4 @@
 title = "141 अमात्यमुख्यन् धर्मज्ञम्"
 
 +++
-अमात्यमुख्यं धर्मज्ञं  
-प्राज्ञं दान्तं कुलोद्गतम् ।  
-स्थापयेद् आसने तस्मिन्  
-खिन्नः कार्येक्षणे नृणाम्  ॥ ७.१४१ ॥ [१४२ मेधातिथिपाठे]
+141	When he is tired with the inspection of the business of men, let him place on that seat (of justice) his chief minister, (who must be) acquainted with the law, wise, self-controlled, and descended from a (noble) family.

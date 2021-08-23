@@ -2,7 +2,4 @@
 title = "125 सदृशस्त्रीषु जातानाम्"
 
 +++
-सदृशस्त्रीषु जातानां  
-पुत्राणाम् अविशेषतः ।  
-न मातृतो ज्यैष्ठ्यम् अस्ति  
-जन्मतो ज्यैष्ठ्यम् उच्यते  ॥ ९.१२५ ॥
+125	Between sons born of wives equal (in caste) (and) without (any other) distinction no seniority in right of the mother exists; seniority is declared (to be) according to birth.

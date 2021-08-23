@@ -2,7 +2,4 @@
 title = "277 विट्-शूद्रयोर् एवम्"
 
 +++
-विट्-शूद्रयोर् एवम् एव  
-स्वजातिं प्रति तत्त्वतः ।  
-छेद-वर्जं प्रणयनं  
-दण्डस्येति विनिश्चयः  ॥ ८.२७७ ॥
+277	A Vaisya and a Sudra must be punished exactly in the same manner according to their respective castes, but the tongue (of the Sudra) shall not be cut out; that is the decision.

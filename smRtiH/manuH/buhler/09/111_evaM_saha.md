@@ -2,7 +2,4 @@
 title = "111 एवं सह"
 
 +++
-एवं सह वसेयुर् वा  
-पृथग् वा धर्मकाम्यया ।  
-पृथग् विवर्धते धर्मस्  
-तस्माद् धर्म्या पृथक्क्रिया  ॥ ९.१११ ॥
+111	Either let them thus live together, or apart, if (each) desires (to gain) spiritual merit; for (by their living) separate (their) merit increases, hence separation is meritorious.

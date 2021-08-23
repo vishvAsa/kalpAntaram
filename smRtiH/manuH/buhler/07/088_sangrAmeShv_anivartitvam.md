@@ -2,7 +2,4 @@
 title = "088 सङ्ग्रामेष्व् अनिवर्तित्वम्"
 
 +++
-सङ्ग्रामेष्व् अनिवर्तित्वं  
-प्रजानां चैव पालनम् ।  
-शुश्रूषा ब्राह्मणानां च  
-राज्ञां श्रेयस्करं परम्  ॥ ७.८८ ॥ [८९ मेधातिथिपाठे]
+088	Not to turn back in battle, to protect the people, to honour the Brahmanas, is the best means for a king to secure happiness.

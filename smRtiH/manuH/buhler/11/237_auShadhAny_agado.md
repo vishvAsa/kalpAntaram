@@ -2,7 +2,4 @@
 title = "237 औषधान्य् अगदो"
 
 +++
-औषधान्य् अगदो विद्या  
-दैवी च विविधा स्थितिः ।  
-तपसैव प्रसिध्यन्ति  
-तपस् तेषां हि साधनम्  ॥ ११.२३७ ॥ [२३६ मेधातिथिपाठे]
+238	Medicines, good health, learning, and the various divine stations are attained by austerities alone; for austerity is the means of gaining them.

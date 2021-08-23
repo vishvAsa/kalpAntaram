@@ -2,7 +2,4 @@
 title = "016 वृषो हि"
 
 +++
-वृषो हि भगवान् धर्मस्  
-तस्य यः कुरुते ह्य् अलम् [मेधातिथिपाठः - त्व् अलम्] ।  
-वृषलं तं विदुर् देवास्  
-तस्माद् धर्मं न लोपयेत्  ॥ ८.१६ ॥
+016	For divine justice (is said to be) a bull (vrisha); that (man) who violates it (kurute 'lam) the gods consider to be (a man despicable like) a Sudra (vrishala); let him, therefore, beware of violating justice.

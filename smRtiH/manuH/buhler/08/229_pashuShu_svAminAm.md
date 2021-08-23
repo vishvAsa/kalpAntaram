@@ -2,7 +2,4 @@
 title = "229 पशुषु स्वामिनाम्"
 
 +++
-पशुषु स्वामिनां चैव  
-पालानां च व्यतिक्रमे ।  
-विवादं संप्रवक्ष्यामि  
-यथावद् धर्मतत्त्वतः  ॥ ८.२२९ ॥
+229	I will fully declare in accordance with the true law (the rules concerning) the disputes, (arising) from the transgressions of owners of cattle and of herdsmen.

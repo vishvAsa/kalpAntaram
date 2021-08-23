@@ -2,7 +2,4 @@
 title = "012 अरक्षिता गृहे"
 
 +++
-अरक्षिता गृहे रुद्धाः  
-पुरुषैर् आप्तकारिभिः ।  
-आत्मानम् आत्मना यास् तु  
-रक्षेयुस् ताः सुरक्षिताः  ॥ ९.१२ ॥
+012	Women, confined in the house under trustworthy and obedient servants, are not (well) guarded; but those who of their own accord keep guard over themselves, are well guarded.

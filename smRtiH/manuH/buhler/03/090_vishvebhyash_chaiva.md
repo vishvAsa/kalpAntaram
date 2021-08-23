@@ -2,7 +2,4 @@
 title = "090 विश्वेभ्यश् चैव"
 
 +++
-विश्वेभ्यश् चैव देवेभ्यो  
-बलिम् आकाश उत्क्षिपेत् ।  
-दिवाचरेभ्यो भूतेभ्यो  
-नक्तञ्चारिभ्य एव च  ॥ ३.९० ॥ [८० मेधातिथिपाठे]
+090	Let him throw up into the air a Bali for all the gods, and (in the day-time one) for the goblins roaming about by day, (and in the evening one) for the goblins that walk at night.

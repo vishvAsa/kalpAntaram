@@ -2,8 +2,4 @@
 title = "031 मङ्गल्यम् ब्राह्मणस्य"
 
 +++
-
-मङ्गल्यं ब्राह्मणस्य स्यात्  
-क्षत्रियस्य बलान्वितम् ।  
-वैश्यस्य धनसंयुक्तं  
-शूद्रस्य तु जुगुप्सितम्  ॥ २.३१ ॥
+031	Let (the first part of) a Brahmana's name (denote something) auspicious, a Kshatriya's be connected with power, and a Vaisya's with wealth, but a Sudra's (express something) contemptible.

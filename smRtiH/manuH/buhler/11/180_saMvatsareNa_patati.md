@@ -2,7 +2,4 @@
 title = "180 संवत्सरेण पतति"
 
 +++
-संवत्सरेण पतति  
-पतितेन सहाचरन् ।  
-याजनाध्यापनाद् यौनान्  
-न तु यानासनाशनात्  ॥ ११.१८० ॥ [१७९ मेधातिथिपाठे]
+181	He who associates with an outcast, himself becomes an outcast after a year, not by sacrificing for him, teaching him, or forming a matrimonial alliance with him, but by using the same carriage or seat, or by eating with him.

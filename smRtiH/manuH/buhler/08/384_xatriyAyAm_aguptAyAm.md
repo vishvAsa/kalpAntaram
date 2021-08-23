@@ -2,7 +2,4 @@
 title = "384 क्षत्रियायाम् अगुप्तायाम्"
 
 +++
-क्षत्रियायाम् अगुप्तायां  
-वैश्ये पञ्चशतं दमः ।  
-मूत्रेण मौण्ड्यम् इच्छेत् तु  
-क्षत्रियो दण्डम् एव वा [मेधातिथिपाठः - ऋच्छेत् तु]  ॥ ८.३८४ ॥
+384	For (intercourse with) an unguarded Kshatriya a fine of five hundred (panas shall fall) on a Vaisya; but (for the same offence) a Kshatriya shall be shaved with the urine (of a donkey) or (pay) the same fine.

@@ -2,7 +2,4 @@
 title = "105 वाग्-गैवत्यैश् च"
 
 +++
-वाग्-गैवत्यैश् च चरुभिर्  
-यजेरंस् ते सरस्वतीम् ।  
-अनृतस्यैनसस् तस्य  
-कुर्वाणा निष्कृतिं पराम्  ॥ ८.१०५ ॥
+105	Such (witnesses) must offer to Sarasvati oblations of boiled rice (karu) which are sacred to the goddess of speech, (thus) performing the best penance in order to expiate the guilt of that falsehood.

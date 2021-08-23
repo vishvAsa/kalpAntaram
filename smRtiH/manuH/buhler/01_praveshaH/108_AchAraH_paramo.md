@@ -2,8 +2,4 @@
 title = "108 आचारः परमो"
 
 +++
-
-आचारः परमो धर्मः  
-श्रुत्य्-उक्तः स्मार्त एव च ।  
-तस्माद् अस्मिन् सदा युक्तो  
-नित्यं स्याद् आत्मवान् द्विजः  ॥ १.१०८ ॥
+108	The rule of conduct is transcendent law, whether it be taught in the revealed texts or in the sacred tradition; hence a twice-born man who possesses regard for himself, should be always careful to (follow) it.

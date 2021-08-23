@@ -2,7 +2,4 @@
 title = "103 नाऽध्यापनाद् याजनाद्"
 
 +++
-नाऽध्यापनाद् याजनाद् वा  
-गर्हिताद् वा प्रतिग्रहात् ।  
-दोषो भवति विप्राणां  
-ज्वलनाम्बु-समा हि ते  ॥ १०.१०३ ॥
+103	By teaching, by sacrificing for, and by accepting gifts from despicable (men) Brahmanas (in distress) commit not sin; for they (are as pure) as fire and water.

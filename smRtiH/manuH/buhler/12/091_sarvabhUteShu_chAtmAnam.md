@@ -2,8 +2,4 @@
 title = "091 सर्वभूतेषु चात्मानम्"
 
 +++
-
-सर्वभूतेषु चात्मानं  
-सर्वभूतानि चात्मनि ।  
-समं पश्यन्न् आत्मयाजी  
-स्वाराज्यम् अधिगच्छति  ॥ १२.९१ ॥
+091	He who sacrifices to the Self (alone), equally recognising the Self in all created beings and all created beings in the Self, becomes (independent like) an autocrat and self-luminous.

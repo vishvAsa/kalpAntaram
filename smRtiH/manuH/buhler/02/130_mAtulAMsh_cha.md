@@ -2,8 +2,4 @@
 title = "130 मातुलांश् च"
 
 +++
-
-मातुलांश् च पितृव्यांश् च  
-श्वशुरान् ऋत्विजो गुरून् ।  
-असाव् अहम् इति ब्रूयात्  
-प्रत्युत्थाय यवीयसः  ॥ २.१३० ॥
+130	To his maternal and paternal uncles, fathers-in-law, officiating priests, (and other) venerable persons, he must say, 'I am N. N.,' and rise (to meet them), even though they be younger (than himself).

@@ -2,7 +2,4 @@
 title = "308 वरुणेन यथा"
 
 +++
-वरुणेन यथा पाशैर्  
-बद्ध एवाऽभिदृश्यते ।  
-तथा पापान् निगृह्णीयाद्  
-व्रतम् एतद् +धि वारुणम्  ॥ ९.३०८ ॥
+308	As (a sinner) is seen bound with ropes by Varuna, even so let him punish the wicked; that is his office in which he resembles Varuna.

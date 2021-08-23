@@ -2,8 +2,4 @@
 title = "036 गर्भाष्टमे ऽब्दे"
 
 +++
-
-गर्भाष्टमे ऽब्दे कुर्वीत  
-ब्राह्मणस्योपनायनम् ।  
-गर्भाद् एकादशे राज्ञो  
-गर्भात् तु द्वादशे विशः  ॥ २.३६ ॥
+036	In the eighth year after conception, one should perform the initiation (upanayana) of a Brahmana, in the eleventh after conception (that) of a Kshatriya, but in the twelfth that of a Vaisya.

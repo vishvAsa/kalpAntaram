@@ -2,7 +2,4 @@
 title = "333 धर्मेण च"
 
 +++
-धर्मेण च द्रव्यवृद्धाव्  
-आतिष्ठेद् यत्नम् उत्तमम् ।  
-दद्याच् च सर्वभूतानाम्  
-अन्नम् एव प्रयत्नतः  ॥ ९.३३३ ॥
+333	Let him exert himself to the utmost in order to increase his property in a righteous manner, and let him zealously give food to all created beings.

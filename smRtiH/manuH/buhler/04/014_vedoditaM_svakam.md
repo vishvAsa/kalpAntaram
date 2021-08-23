@@ -2,8 +2,4 @@
 title = "014 वेदोदितं स्वकम्"
 
 +++
-
-वेदोदितं स्वकं कर्म  
-नित्यं कुर्याद् अतन्द्रितः ।  
-तद् +धि कुर्वन् यथाशक्ति  
-प्राप्नोति परमां गतिम्  ॥ ४.१४ ॥  
+014	Let him, untired, perform daily the rites prescribed for him in the Veda; for he who performs those according to his ability, attains to the highest state.

@@ -2,7 +2,4 @@
 title = "315 लोकान् अन्यान्"
 
 +++
-लोकान् अन्यान् सृजेयुर् ये  
-लोकपालांश् च कोपिताः ।  
-देवान् कुर्युर् अदेवांश् च  
-कः क्षिण्वंस् तान् समृध्नुयात्  ॥ ९.३१५ ॥
+315	Who could prosper, while he injures those (men) who provoked to anger, could create other worlds and other guardians of the world, and deprive the gods of their divine station?

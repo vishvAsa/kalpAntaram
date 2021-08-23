@@ -2,7 +2,4 @@
 title = "212 गोमूत्रङ् गोमयम्"
 
 +++
-गोमूत्रं गोमयं क्षीरं  
-दधि सर्पिः कुशोदकम् ।  
-एकरात्रोपवासश् च  
-कृच्छ्रं सांतपनं स्मृतम्  ॥ ११.२१२ ॥ [२११ मेधातिथिपाठे]
+213	(Subsisting on) the urine of cows, cowdung, milk, sour milk, clarified butter, and a decoction of Kusa-grass, and fasting during one (day and) night, (that is) called a Samtapana Krikkhra.

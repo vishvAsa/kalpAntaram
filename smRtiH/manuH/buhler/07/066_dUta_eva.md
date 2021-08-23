@@ -2,7 +2,4 @@
 title = "066 दूत एव"
 
 +++
-दूत एव हि सन्धत्ते  
-भिनत्त्य् एव च संहतान् ।  
-दूतस् तत् कुरुते कर्म  
-भिद्यन्ते येन मानवः  ॥ ७.६६ ॥
+066	For the ambassador alone makes (kings') allies and separates allies; the ambassador transacts that business by which (kings) are disunited or not.

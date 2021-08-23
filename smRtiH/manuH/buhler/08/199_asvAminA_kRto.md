@@ -2,7 +2,4 @@
 title = "199 अस्वामिना कृतो"
 
 +++
-अस्वामिना कृतो यस् तु  
-दायो विक्रय एव वा ।  
-अकृतः स तु विज्ञेयो  
-व्यवहारे यथा स्थितिः  ॥ ८.१९९ ॥
+199	A gift or sale, made by anybody else but the owner, must be considered as null and void, according to the rule in judicial proceedings.

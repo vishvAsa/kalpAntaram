@@ -2,8 +2,4 @@
 title = "038 आ षोदशाद्"
 
 +++
-
-आ षोदशाद् ब्राह्मणस्य  
-सावित्री नाऽतिवर्तते ।  
-आ द्वाविंशात् क्षत्रबन्धोर्  
-आ चतुर्विंशतेर् विशः  ॥ २.३८ ॥
+038	The (time for the) Savitri (initiation) of a Brahmana does not pass until the completion of the sixteenth year (after conception), of a Kshatriya until the completion of the twenty-second, and of a Vaisya until the completion of the twenty-fourth.

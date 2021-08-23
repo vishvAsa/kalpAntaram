@@ -2,7 +2,4 @@
 title = "155 शुष्काणि भुक्त्वा"
 
 +++
-शुष्काणि भुक्त्वा मांसानि  
-भौमानि कवकानि च ।  
-अज्ञातं चैव सूनास्थम्  
-एतद् एव व्रतं चरेत्  ॥ ११.१५५ ॥ [१५४ मेधातिथिपाठे]
+156	He who has eaten dried meat, mushrooms growing on the ground, or (meat, the nature of) which is unknown, (or) such as had been kept in a slaughter-house, shall perform the same penance.

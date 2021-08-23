@@ -2,8 +2,4 @@
 title = "109 आचार्यपुत्रः शुश्रूषुर्"
 
 +++
-
-आचार्यपुत्रः शुश्रूषुर्  
-ज्ञानदो धार्मिकः शुचिः ।  
-आप्तः शक्तो ऽर्थदः साधुः  
-स्वो ऽध्याप्या दश धर्मतः  ॥ २.१०९ ॥
+109	According to the sacred law the (following) ten (persons, viz.) the teacher's son, one who desires to do service, one who imparts knowledge, one who is intent on fulfilling the law, one who is pure, a person connected by marriage or friendship, one who possesses (mental) ability, one who makes presents of money, one who is honest, and a relative, may be instructed (in the Veda).

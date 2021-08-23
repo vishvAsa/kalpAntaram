@@ -2,7 +2,4 @@
 title = "266 हविर् यच्"
 
 +++
-हविर् यच् चिररात्राय  
-यच् चानन्त्याय कल्पते ।  
-पितृभ्यो विधिवद् दत्तं  
-तत् प्रवक्ष्याम्य् अशेषतः  ॥ ३.२६६ ॥ [२५६ मेधातिथिपाठे]
+266	I will now fully declare what kind of sacrificial food, given to the manes according to the rule, will serve for a long time or for eternity.

@@ -2,8 +2,4 @@
 title = "038 तमसो लक्षणम्"
 
 +++
-
-तमसो लक्षणं कामो  
-रजसस् त्व् अर्थ उच्यते ।  
-सत्त्वस्य लक्षणं धर्मः  
-श्रैष्ठ्यम् एषां यथोत्तरम्  ॥ १२.३८ ॥
+038	The craving after sensual pleasures is declared to be the mark of Darkness, (the pursuit of) wealth (the mark) of Activity, (the desire to gain) spiritual merit the mark of Goodness; each later) named quality is) better than the preceding one.

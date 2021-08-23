@@ -2,7 +2,4 @@
 title = "098 पञ्च पश्व्-अनृते"
 
 +++
-पञ्च पश्व्-अनृते हन्ति  
-दश हन्ति गवानृते ।  
-शतम् अश्वानृते हन्ति  
-सहस्रं पुरुषानृते  ॥ ८.९८ ॥
+098	'He kills five by false Testimony regarding (small) cattle, he kills ten by false testimony regarding kine, he kills a hundred by false evidence concerning horses, and a thousand by false evidence concerning men.

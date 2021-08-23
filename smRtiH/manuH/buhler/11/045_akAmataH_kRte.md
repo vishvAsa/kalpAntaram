@@ -2,7 +2,4 @@
 title = "045 अकामतः कृते"
 
 +++
-अकामतः कृते पापे  
-प्रायश्चित्तं विदुर् बुधाः ।  
-कामकारकृते ऽप्य् आहुर्  
-एके श्रुतिनिदर्शनात्  ॥ ११.४५ ॥ [४४ मेधातिथिपाठे]
+045	(All) sages prescribe a penance for a sin unintentionally committed; some declare, on the evidence of the revealed texts, (that it may be performed) even for an intentional (offence).

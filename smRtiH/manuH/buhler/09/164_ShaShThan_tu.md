@@ -2,7 +2,4 @@
 title = "164 षष्ठन् तु"
 
 +++
-षष्ठं तु क्षेत्रजस्याऽंशं  
-प्रदद्यात् पैतृकाद् धनात् ।  
-औरसो विभजन् दायं  
-पित्र्यं पञ्चमम् एव वा  ॥ ९.१६४ ॥
+164	But when the legitimate son of the body divides the paternal estate, he shall give one-sixth or one-fifth part of his father's property to the son begotten on the wife.

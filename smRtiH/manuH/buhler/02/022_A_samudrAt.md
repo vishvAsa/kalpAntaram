@@ -2,8 +2,4 @@
 title = "022 आ समुद्रात्"
 
 +++
-
-आ समुद्रात् तु वै पूर्वाद्  
-आ समुद्राच् च पश्चिमात् ।  
-तयोर् एवाऽन्तरं गिर्योर्  
-आर्यावर्तं विदुर् बुधाः  ॥ २.२२ ॥
+022	But (the tract) between those two mountains (just mentioned), which (extends) as far as the eastern and the western oceans, the wise call Aryavarta (the country of the Aryans).

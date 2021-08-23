@@ -2,7 +2,4 @@
 title = "217 आचम्योदक्परावृत्य त्रिर्"
 
 +++
-आचम्योदक्परावृत्य  
-त्रिर् आयम्य शनैर् असून् ।  
-षड् ऋतूंश् च नमस्कुर्यात्  
-पितॄन् एव च मन्त्रवत्  ॥ ३.२१७ ॥ [२०७ मेधातिथिपाठे]
+217	Having (next) sipped water, turned round (towards the north), and thrice slowly suppressed his breath, (the sacrificer) who knows the sacred texts shall worship (the guardian deities of) the six seasons and the manes.

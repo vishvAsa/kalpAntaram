@@ -2,7 +2,4 @@
 title = "260 एवन् निर्वपणम्"
 
 +++
-एवं निर्वपणं कृत्वा  
-पिण्डांस् तांस् तदनन्तरम् ।  
-गां विप्रम् अजम् अग्निं वा  
-प्राशयेद् अप्सु वा क्षिपेत्  ॥ ३.२६० ॥ [२५० मेधातिथिपाठे]+++(4)+++
+260	Having thus offered (the cakes), let him, after (the prayer), cause a cow, a Brahmana, a goat, or the sacred fire to consume those cakes, or let him throw them into water.

@@ -2,7 +2,4 @@
 title = "063 आप्ताः सर्वेषु"
 
 +++
-आप्ताः सर्वेषु वर्णेषु  
-कार्याः कार्येषु साक्षिणः ।  
-सर्वधर्मविदो ऽलुब्धा  
-विपरीतांस् तु वर्जयेत्  ॥ ८.६३ ॥
+063	Trustworthy men of all the (four) castes (varna) may be made witnesses in lawsuits, (men) who know (their) whole duty, and are free from covetousness; but let him reject those (of an) opposite (character).

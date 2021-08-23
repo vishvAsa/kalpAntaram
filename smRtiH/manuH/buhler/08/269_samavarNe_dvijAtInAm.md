@@ -2,7 +2,4 @@
 title = "269 समवर्णे द्विजातीनाम्"
 
 +++
-समवर्णे द्विजातीनां  
-द्वादशैव व्यतिक्रमे ।  
-वादेष्व् अवचनीयेषु  
-तद् एव द्विगुणं भवेत्  ॥ ८.२६९ ॥
+269	For offences of twice-born men against those of equal caste (varna, the fine shall be) also twelve (panas); for speeches which ought not to be uttered, that (and every fine shall be) double.

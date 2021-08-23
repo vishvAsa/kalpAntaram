@@ -2,7 +2,4 @@
 title = "306 रक्षन् धर्मेण"
 
 +++
-रक्षन् धर्मेण भूतानि  
-राजा वध्यांश् च घातयन् ।  
-यजते ऽहर् अहर् यज्ञैः  
-सहस्रशत-दक्षिणैः  ॥ ८.३०६ ॥
+306	A king who protects the created beings in accordance with the sacred law and smites those worthy of corporal punishment, daily offers (as it were) sacrifices at which hundred thousands (are given as) fees.

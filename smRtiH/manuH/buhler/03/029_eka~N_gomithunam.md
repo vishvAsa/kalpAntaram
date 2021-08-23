@@ -2,7 +2,4 @@
 title = "029 एकङ् गोमिथुनम्"
 
 +++
-एकं गोमिथुनं द्वे वा  
-वराद् आदाय धर्मतः ।  
-कन्याप्रदानं विधिवद्  
-आर्षो धर्मः स उच्यते  ॥ ३.२९ ॥
+029	When (the father) gives away his daughter according to the rule, after receiving from the bridegroom, for (the fulfilment of) the sacred law, a cow and a bull or two pairs, that is named the Arsha rite.

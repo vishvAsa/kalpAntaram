@@ -2,7 +2,4 @@
 title = "266 एवंविधान् नृपो"
 
 +++
-एवंविधान् नृपो देशान्  
-गुल्मैः स्थावर-जङ्गमैः ।  
-तस्करप्रतिषेधार्थं  
-चारैश् चाऽप्य् अनुचारयेत्  ॥ ९.२६६ ॥
+266	These and the like places the king shall cause to be guarded by companies of soldiers, both stationary and patrolling, and by spies, in order to keep away thieves.

@@ -2,7 +2,4 @@
 title = "202 सर्वेषान् तु"
 
 +++
-सर्वेषां तु विदित्वैषां  
-समासेन चिकीर्षितम् ।  
-स्थापयेत् तत्र तद्वंश्यं  
-कुर्याच् च समयक्रियाम्  ॥ ७.२०२ ॥ [२०३ मेधातिथिपाठे]
+202	But having fully ascertained the wishes of all the (conquered), let him place there a relative of the (vanquished ruler on the throne), and let him impose his conditions.

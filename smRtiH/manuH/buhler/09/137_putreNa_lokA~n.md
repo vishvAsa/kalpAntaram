@@ -2,7 +2,4 @@
 title = "137 पुत्रेण लोकाञ्"
 
 +++
-पुत्रेण लोकाञ् जयति  
-पौत्रेणानन्त्यम् अश्नुते ।  
-अथ पुत्रस्य पौत्रेण  
-ब्रध्नस्याप्नोति विष्टपम्  ॥ ९.१३७ ॥
+137	Through a son he conquers the worlds, through a son's son he obtains immortality, but through his son's grandson he gains the world of the sun.

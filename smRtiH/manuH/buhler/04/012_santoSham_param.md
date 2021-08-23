@@ -2,8 +2,4 @@
 title = "012 सन्तोषम् परम्"
 
 +++
-
-सन्तोषं परम् आस्थाय  
-सुखार्थी संयतो भवेत् ।  
-सन्तोष-मूलं हि सुखं  
-दुःख-मूलं विपर्ययः  ॥ ४.१२ ॥+++(5)+++  
+012	He who desires happiness must strive after a perfectly contented disposition and control himself; for happiness has contentment for its root, the root of unhappiness is the contrary (disposition).

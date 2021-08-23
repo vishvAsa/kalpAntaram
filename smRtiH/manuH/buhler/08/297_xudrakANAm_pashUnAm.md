@@ -2,7 +2,4 @@
 title = "297 क्षुद्रकाणाम् पशूनाम्"
 
 +++
-क्षुद्रकाणां पशूनां तु  
-हिंसायां द्विशतो दमः ।  
-पञ्चाशत् तु भवेद् दण्डः  
-शुभेषु मृगपक्षिषु  ॥ ८.२९७ ॥
+297	For injuring small cattle the fine (shall be) two hundred (panas); the fine for beautiful wild quadrupeds and birds shall amount to fifty (panas).

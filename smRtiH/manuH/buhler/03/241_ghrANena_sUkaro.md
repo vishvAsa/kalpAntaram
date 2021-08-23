@@ -2,7 +2,4 @@
 title = "241 घ्राणेन सूकरो"
 
 +++
-घ्राणेन सूकरो हन्ति  
-पक्षवातेन कुक्कुटः [मेधातिथिपाठः - शूकरो] ।  
-श्वा तु दृष्टिनिपातेन  
-स्पर्शेणाऽवरवर्णजः  ॥ ३.२४१ ॥ [२३१ मेधातिथिपाठे]
+241	A boar makes (the rite) useless by inhaling the smell (of the offerings), a cock by the air of his wings, a dog by throwing his eye (on them), a low-caste man by touching (them).

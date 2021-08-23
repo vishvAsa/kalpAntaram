@@ -2,8 +2,4 @@
 title = "118 देशधर्माञ् जातिधर्मान्"
 
 +++
-
-देशधर्माञ् जातिधर्मान्  
-कुलधर्मांश् च शाश्वतान् ।  
-पाषण्ड-गणधर्मांश् च  
-शास्त्रे ऽस्मिन्न् उक्तवान् मनुः  ॥ १.११८ ॥
+118	The primeval laws of countries, of castes (gati), of families, and the rules concerning heretics and companies (of traders and the like)- (all that) Manu has declared in these Institutes.

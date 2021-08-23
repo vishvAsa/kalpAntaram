@@ -2,8 +2,4 @@
 title = "211 अभ्यञ्जनं स्नापनम्"
 
 +++
-
-अभ्यञ्जनं स्नापनं च  
-गात्रोत्सादनम् एव च ।  
-गुरुपत्न्या न कार्याणि  
-केशानां च प्रसाधनम्  ॥ २.२११ ॥
+211	Let him not perform for a wife of his teacher (the offices of) anointing her, assisting her in the bath, shampooing her limbs, or arranging her hair.

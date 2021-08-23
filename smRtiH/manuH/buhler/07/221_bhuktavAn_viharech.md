@@ -2,7 +2,4 @@
 title = "221 भुक्तवान् विहरेच्"
 
 +++
-भुक्तवान् विहरेच् चैव  
-स्त्रीभिर् अन्तःपुरे सह ।  
-विहृत्य तु यथाकालं  
-पुनः कार्याणि चिन्तयेत्  ॥ ७.२२१ ॥ [२२५ मेधातिथिपाठे]
+221	When he has dined, he may divert himself with his wives in the harem; but when he has diverted himself, he must, in due time, again think of the affairs of state.

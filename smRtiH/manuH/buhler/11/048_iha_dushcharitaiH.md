@@ -2,7 +2,4 @@
 title = "048 इह दुश्चरितैः"
 
 +++
-इह दुश्चरितैः के चित्  
-के चित् पूर्वकृतैस् तथा ।  
-प्राप्नुवन्ति दुर्-आत्मानो  
-नरा रूपविपर्ययम्  ॥ ११.४८ ॥ [४७ मेधातिथिपाठे]
+048	Some wicked men suffer a change of their (natural) appearance in consequence of crimes committed in this life, and some in consequence of those committed in a former (existence).

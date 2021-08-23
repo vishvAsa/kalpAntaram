@@ -2,8 +2,4 @@
 title = "048 वाय्व्-अग्नि-विप्रम् आदित्यम्"
 
 +++
-
-वाय्व्-अग्नि-विप्रम् आदित्यम्  
-अपः पश्यंस् तथैव गाः ।  
-न कदा चन कुर्वीत  
-विण्-मूत्रस्य विसर्जनम्  ॥ ४.४८ ॥  
+048	Let him never void faeces or urine, facing the wind, or a fire, or looking towards a Brahmana, the sun, water, or cows.

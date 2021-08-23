@@ -2,7 +2,4 @@
 title = "254 सोमारौद्रन् तु"
 
 +++
-सोमारौद्रं तु बह्व्-एनाः  
-मासम् अभ्यस्य शुध्यति [मेधातिथिपाठः - समाम् अभ्यस्य] ।  
-स्रवन्त्याम् आचरन् स्नानम्  
-अर्यम्णाम् इति च तृचम्  ॥ ११.२५४ ॥ [२५३ मेधातिथिपाठे]
+255	But he who has committed many sins, becomes pure, if he recites during a month the (four verses) addressed to Soma and Rudra, and the three verses (beginning) 'Aryaman, Varuna, and Mitra,' while he bathes in a river.

@@ -2,7 +2,4 @@
 title = "154 विड्वराह-खरोष्ट्राणाङ् गोमायोः"
 
 +++
-विड्वराह-खरोष्ट्राणां  
-गोमायोः कपि-काकयोः ।  
-प्राश्य मूत्र-पुरीषाणि  
-द्विजश् चान्द्रायणं चरेत्  ॥ ११.१५४ ॥ [१५३ मेधातिथिपाठे]
+155	A twice-born man, who has swallowed the urine or ordure of a village pig, of a donkey, of a camel, of a jackal, of a monkey, or of a crow, shall perform a lunar penance.

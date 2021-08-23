@@ -2,7 +2,4 @@
 title = "194 मनोर् हैरण्यगर्भस्य"
 
 +++
-मनोर् हैरण्यगर्भस्य  
-ये मरीच्य्-आदयः सुताः ।  
-तेषाम् ऋषीणां सर्वेषां  
-पुत्राः पितृगणाः स्मृताः  ॥ ३.१९४ ॥ [१८४ मेधातिथिपाठे]
+194	The (various) classes of the manes are declared to be the sons of all those sages, Mariki and the rest, who are children of Manu, the son of Hiranyagarbha.

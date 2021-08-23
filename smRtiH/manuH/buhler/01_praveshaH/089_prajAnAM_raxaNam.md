@@ -2,8 +2,4 @@
 title = "089 प्रजानां रक्षणम्"
 
 +++
-
-प्रजानां रक्षणं दानम्  
-इज्याध्ययनम् एव च ।  
-विषयेष्व् अप्रसक्तिश् च  
-क्षत्रियस्य समासतः [मेधातिथिपाठः - समादिशत्]  ॥ १.८९ ॥
+089	The Kshatriya he commanded to protect the people, to bestow gifts, to offer sacrifices, to study (the Veda), and to abstain from attaching himself to sensual pleasures;

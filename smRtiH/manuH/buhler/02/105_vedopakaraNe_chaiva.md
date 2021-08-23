@@ -2,8 +2,4 @@
 title = "105 वेदोपकरणे चैव"
 
 +++
-
-वेदोपकरणे चैव  
-स्वाध्याये चैव नैत्यके ।  
-नाऽनुरोधो ऽस्त्य् अनध्याये  
-होममन्त्रेषु चैव हि  ॥ २.१०५ ॥
+105	Both when (one studies) the supplementary treatises of the Veda, and when (one recites) the daily portion of the Veda, no regard need be paid to forbidden days, likewise when (one repeats) the sacred texts required for a burnt oblation.

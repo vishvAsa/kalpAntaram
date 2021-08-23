@@ -2,8 +2,4 @@
 title = "088 सुखाभ्युदयिकञ् चैव"
 
 +++
-
-सुखाभ्युदयिकं चैव  
-नैःश्रेयसिकम् एव च ।  
-प्रवृत्तं च निवृत्तं च  
-द्विविधं कर्म वैदिकम्  ॥ १२.८८ ॥
+088	The acts prescribed by the Veda are of two kinds, such as procure an increase of happiness and cause a continuation (of mundane existence, pravritta), and such as ensure supreme bliss and cause a cessation (of mundane existence, nivritta).

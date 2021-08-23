@@ -2,7 +2,4 @@
 title = "089 सर्वेषाम् अपि"
 
 +++
-सर्वेषाम् अपि चैतेषां  
-वेद-स्मृतिविधानतः [मेधातिथिपाठः - वेद-श्रुतिविधानतः] ।  
-गृहस्थ उच्यते श्रेष्ठः  
-स त्रीन् एतान् बिभर्ति हि  ॥ ६.८९ ॥
+089	And in accordance with the precepts of the Veda and of the Smriti, the housekeeper is declared to be superior to all of them; for he supports the other three.

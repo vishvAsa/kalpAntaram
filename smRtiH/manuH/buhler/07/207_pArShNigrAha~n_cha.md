@@ -2,7 +2,4 @@
 title = "207 पार्ष्णिग्राहञ् च"
 
 +++
-पार्ष्णिग्राहं च सम्प्रेक्ष्य  
-तथाक्रन्दं च मण्डले ।  
-मित्राद् अथाऽप्य् अमित्राद् वा  
-यात्राफलम् अवाप्नुयात्  ॥ ७.२०७ ॥ [२११ मेधातिथिपाठे]
+207	Having paid due attention to any king in the circle (of neighbouring states) who might attack him in the rear, and to his supporter who opposes the latter, let (the conqueror) secure the fruit of the expedition from (the prince whom he attacks), whether (he may have become) friendly or (remained) hostile.

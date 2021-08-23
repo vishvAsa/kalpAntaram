@@ -2,8 +2,4 @@
 title = "203 नाऽन्यद् अन्येन"
 
 +++
-नाऽन्यद् अन्येन संसृष्ट-  
-रूपं विक्रयम् अर्हति ।  
-न चाऽसारं न च न्यूनं  
-न दूरेण तिरोहितम् [मेधातिथिपाठः - न सावद्यं न च न्यूनं न  
-दूरे]  ॥ ८.२०३ ॥
+203	One commodity mixed with another must not be sold (as pure), nor a bad one (as good), nor less (than the proper quantity or weight), nor anything that is not at hand or that is concealed.

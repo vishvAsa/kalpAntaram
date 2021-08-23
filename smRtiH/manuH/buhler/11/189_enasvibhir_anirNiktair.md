@@ -2,7 +2,4 @@
 title = "189 एनस्विभिर् अनिर्णिक्तैर्"
 
 +++
-एनस्विभिर् अनिर्णिक्तैर्  
-नाऽर्थं किं चित् सहाचरेत् ।  
-कृतनिर्णेजनांश् चैव  
-न जुगुप्सेत कर्हि चित् [मेधातिथिपाठः - कृतनिर्णेजनांश् चैतान्]  ॥ ११.१८९ ॥ [१८८ मेधातिथिपाठे]
+190	Let him not transact any business with unpurified sinners; but let him in no way reproach those who have made atonement.

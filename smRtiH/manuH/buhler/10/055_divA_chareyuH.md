@@ -2,7 +2,4 @@
 title = "055 दिवा चरेयुः"
 
 +++
-दिवा चरेयुः कार्यार्थं  
-चिह्निता राजशासनैः ।  
-अबान्धवं शवं चैव  
-निर्हरेयुर् इति स्थितिः  ॥ १०.५५ ॥
+055	By day they may go about for the purpose of their work, distinguished by marks at the king's command, and they shall carry out the corpses (of persons) who have no relatives; that is a settled rule.

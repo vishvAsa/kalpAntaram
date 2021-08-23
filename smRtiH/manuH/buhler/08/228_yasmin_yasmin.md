@@ -2,7 +2,4 @@
 title = "228 यस्मिन् यस्मिन्"
 
 +++
-यस्मिन् यस्मिन् कृते कार्ये  
-यस्येहानुशयो भवेत् ।  
-तम् अनेन विधानेन  
-धर्म्ये पथि निवेशयेत्  ॥ ८.२२८ ॥
+228	If anybody in this (world) repent of any completed transaction, (the king) shall keep him on the road of rectitude in accordance with the rules given above.

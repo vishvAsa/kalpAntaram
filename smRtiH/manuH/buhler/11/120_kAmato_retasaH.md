@@ -2,7 +2,4 @@
 title = "120 कामतो रेतसः"
 
 +++
-कामतो रेतसः सेकं  
-व्रतस्थस्य द्विजन्मनः ।  
-अतिक्रमं व्रतस्याहुर्  
-धर्मज्ञा ब्रह्मवादिनः  ॥ ११.१२० ॥ [११९ मेधातिथिपाठे]
+121	Those who know the Veda declare that a voluntary effusion of semen by a twice-born (youth) who fulfils the vow (of studentship constitutes) a breach of that vow.

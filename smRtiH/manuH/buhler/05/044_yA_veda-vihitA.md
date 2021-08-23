@@ -2,7 +2,4 @@
 title = "044 या वेद-विहिता"
 
 +++
-या वेद-विहिता हिंसा  
-नियतास्मिंश् चराचरे ।  
-अहिंसाम् एव तां विद्याद्  
-वेदाद् धर्मो हि निर्बभौ  ॥ ५.४४ ॥
+044	Know that the injury to moving creatures and to those destitute of motion, which the Veda has prescribed for certain occasions, is no injury at all; for the sacred law shone forth from the Veda.

@@ -2,7 +2,4 @@
 title = "214 तप्तकृच्छ्रञ् चरन्"
 
 +++
-तप्तकृच्छ्रं चरन् विप्रो  
-जल-क्षीर-घृतानिलान् ।  
-प्रति-त्र्यहं पिबेद् उष्णान्  
-सकृत्स्नायी समाहितः  ॥ ११.२१४ ॥ [२१३ मेधातिथिपाठे]
+215	A Brahmana who performs a Taptakrikkhra (penance) must drink hot water, hot milk, hot clarified butter and (inhale) hot air, each during three days, and bathe once with a concentrated mind.

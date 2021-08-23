@@ -2,7 +2,4 @@
 title = "028 दण्डो हि"
 
 +++
-दण्डो हि सुमहत्-तेजो  
-दुर्धरश् चाऽकृतात्मभिः ।  
-धर्माद् विचलितं हन्ति  
-नृपम् एव स-बान्धवम्  ॥ ७.२८ ॥
+028	Punishment (possesses) a very bright lustre, and is hard to be administered by men with unimproved minds; it strikes down the king who swerves from his duty, together with his relatives.

@@ -2,7 +2,4 @@
 title = "108 यस्य दृश्येत"
 
 +++
-यस्य दृश्येत सप्ताहाद्  
-उक्त-वाक्यस्य साक्षिणः ।  
-रोगो ऽग्निर् ज्ञातिमरणम्  
-ऋणं दाप्यो दमं च सः  ॥ ८.१०८ ॥
+108	The witness to whom, within seven days after he has given evidence, happens (a misfortune through) sickness, a fire, or the death of a relative, shall be made to pay the debt and a fine.

@@ -2,7 +2,4 @@
 title = "046 सद्भिर् आचरितम्"
 
 +++
-सद्भिर् आचरितं यत् स्याद्  
-धार्मिकैश् च द्विजातिभिः ।  
-तद् देश-कुल-जातीनाम्  
-अविरुद्धं प्रकल्पयेत्  ॥ ८.४६ ॥
+046	What may have been practised by the virtuous, by such twice-born men as are devoted to the law, that he shall establish as law, if it be not opposed to the (customs of) countries, families, and castes (gati).

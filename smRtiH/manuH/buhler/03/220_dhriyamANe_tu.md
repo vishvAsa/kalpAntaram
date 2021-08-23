@@ -2,7 +2,4 @@
 title = "220 ध्रियमाणे तु"
 
 +++
-ध्रियमाणे तु पितरि  
-पूर्वेषाम् एव निर्वपेत् ।  
-विप्रवद् वापि तं श्राद्धे  
-स्वकं पितरम् आशयेत् [मेधातिथिपाठः - श्राद्धं]  ॥ ३.२२० ॥ [२१० मेधातिथिपाठे]
+220	But if the (sacrificer's) father is living, he must offer (the cakes) to three remoter (ancestors); or he may also feed his father at the funeral sacrifice as (one of the) Brahmana (guests).

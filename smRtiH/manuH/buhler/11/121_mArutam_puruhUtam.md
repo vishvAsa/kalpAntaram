@@ -2,7 +2,4 @@
 title = "121 मारुतम् पुरुहूतम्"
 
 +++
-मारुतं पुरुहूतं च  
-गुरुं पावकम् एव च ।  
-चतुरो व्रतिनो ऽभ्येति  
-ब्राह्मं तेजो ऽवकीर्णिनः  ॥ ११.१२१ ॥ [१२० मेधातिथिपाठे]
+122	The divine light which the Veda imparts to the student, enters, if he breaks his vow, the Maruts, Puruhuta (Indra), the teacher (of the gods, Brihaspati) and Pavaka (Fire).

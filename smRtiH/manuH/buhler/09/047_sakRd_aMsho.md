@@ -2,7 +2,4 @@
 title = "047 सकृद् अंशो"
 
 +++
-सकृद् अंशो निपतति  
-सकृत् कन्या प्रदीयते ।  
-सकृद् आह ददानीति त्रीण्य्  
-एतानि सतां सकृत् [मेधातिथिपाठः - ददामीति]  ॥ ९.४७ ॥
+047	Once is the partition (of the inheritance) made, (once is) a maiden given in marriage, (and) once does (a man) say,' I will give;' each of those three (acts is done) once only.

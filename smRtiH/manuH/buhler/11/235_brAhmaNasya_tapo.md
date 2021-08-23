@@ -2,7 +2,4 @@
 title = "235 ब्राह्मणस्य तपो"
 
 +++
-ब्राह्मणस्य तपो ज्ञानं  
-तपः क्षत्रस्य रक्षणम् ।  
-वैश्यस्य तु तपो वार्ता  
-तपः शूद्रस्य सेवनम्  ॥ ११.२३५ ॥ [२३४ मेधातिथिपाठे]
+236	(The pursuit of sacred) knowledge is the austerity of a Brahmana, protecting (the people) is the austerity of a Kshatriya, (the pursuit of) his daily business is the austerity of a Vaisya, and service the austerity of a Sudra.

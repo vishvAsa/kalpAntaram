@@ -2,7 +2,4 @@
 title = "219 चतुरः प्रातर्"
 
 +++
-चतुरः प्रातर् अश्नीयात्  
-पिण्डान् विप्रः समाहितः ।  
-चतुरो ऽस्तम् इते सूर्ये  
-शिशुचान्द्रायणं स्मृतम्  ॥ ११.२१९ ॥ [२१८ मेधातिथिपाठे]
+220	If a Brahmana, with concentrated mind, eats (during a month daily) four mouthfuls in a morning and four after sunset, (that is) called the lunar penance of children.

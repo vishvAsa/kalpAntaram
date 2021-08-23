@@ -2,7 +2,4 @@
 title = "248 तडागान्य् उदपानानि"
 
 +++
-तडागान्य् उदपानानि  
-वाप्यः प्रस्रवणानि च ।  
-सीमासंधिषु कार्याणि  
-देवतायतनानि च  ॥ ८.२४८॥ [म्२५०च्]
+248	Tanks, wells, cisterns, and fountains should be built where boundaries meet, as well as temples,

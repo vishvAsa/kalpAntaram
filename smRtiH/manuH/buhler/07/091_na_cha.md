@@ -2,7 +2,4 @@
 title = "091 न च"
 
 +++
-न च हन्यात् स्थलारूढं  
-न क्लीबं न कृताञ्जलिम् ।  
-न मुक्त-केशं नासीनं  
-न तवाऽस्मीति वादिनम्  ॥ ७.९१ ॥ [९२ मेधातिथिपाठे]
+091	Let him not strike one who (in flight) has climbed on an eminence, nor a eunuch, nor one who joins the palms of his hands (in supplication), nor one who (flees) with flying hair, nor one who sits down, nor one who says 'I am thine;'

@@ -2,7 +2,4 @@
 title = "343 अनेन विधिना"
 
 +++
-अनेन विधिना राजा  
-कुर्वाणः स्तेननिग्रहम् ।  
-यशो ऽस्मिन् प्राप्नुयाल् लोके  
-प्रेत्य चाऽनुत्तमं सुखम्  ॥ ८.३४३ ॥
+343	A king who punishes thieves according to these rules, will gain fame in this world and after death unsurpassable bliss.

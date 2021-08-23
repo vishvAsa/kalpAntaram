@@ -2,7 +2,4 @@
 title = "026 अप्रयत्नः सुखार्थेषु"
 
 +++
-अप्रयत्नः सुखार्थेषु  
-ब्रह्मचारी धराशयः ।  
-शरणेष्व् अममश् चैव  
-वृक्षमूल-निकेतनः  ॥ ६.२६ ॥
+026	Making no effort (to procure) things that give pleasure, chaste, sleeping on the bare ground, not caring for any shelter, dwelling at the roots of trees.

@@ -2,7 +2,4 @@
 title = "004 अनभ्यासेन वेदानाम्"
 
 +++
-अनभ्यासेन वेदानाम्  
-आचारस्य च वर्जनात् ।  
-आलस्याद् अन्नदोषाच् च  
-मृत्युर् विप्राञ् जिघांसति [मेधातिथिपाठः - विप्रान्]  ॥ ५.४ ॥+++(4)+++
+004	'Through neglect of the Veda-study, through deviation from the rule of conduct, through remissness (in the fulfilment of duties), and through faults (committed by eating forbidden) food, Death becomes eager to shorten the lives of Brahmanas.'

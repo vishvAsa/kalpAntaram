@@ -2,8 +2,4 @@
 title = "065 छुच्छुन्दरिः शुभान्"
 
 +++
-
-छुच्छुन्दरिः शुभान् गन्धान्  
-पत्रशाकं तु बर्हिणः [मेधातिथिपाठः - छुच्छुन्दरीः] ।  
-श्वावित् कृतान्नं विविधम्  
-अकृतान्नं तु शल्यकः  ॥ १२.६५ ॥
+065	For stealing fine perfumes a musk-rat, for stealing vegetables consisting of leaves a peacock, for stealing cooked food of various kinds a porcupine, for stealing uncooked food a hedgehog.

@@ -2,8 +2,4 @@
 title = "151 अध्यापयाम् आस"
 
 +++
-
-अध्यापयाम् आस पितॄन्  
-शिशुर् आङ्गिरसः कविः ।  
-पुत्रका इति होवाच  
-ज्ञानेन परिगृह्य तान्  ॥ २.१५१ ॥
+151	Young Kavi, the son of Angiras, taught his (relatives who were old enough to be) fathers, and, as he excelled them in (sacred) knowledge, he called them 'Little sons.'

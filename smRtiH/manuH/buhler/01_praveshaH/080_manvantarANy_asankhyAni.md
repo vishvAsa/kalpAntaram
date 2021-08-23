@@ -2,8 +2,4 @@
 title = "080 मन्वन्तराण्य् असङ्ख्यानि"
 
 +++
-
-मन्वन्तराण्य् असङ्ख्यानि  
-सर्गः संहार एव च ।  
-क्रीडन्न् इवैतत् कुरुते  
-परमेष्ठी पुनः पुनः  ॥ १.८० ॥
+080	The Manvantaras, the creations and destructions (of the world, are) numberless; sporting, as it were, Brahman repeats this again and again.

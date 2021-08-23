@@ -2,8 +2,4 @@
 title = "226 श्रद्धयेष्टञ् च"
 
 +++
-
-श्रद्धयेष्टं च पूर्तं च  
-नित्यं कुर्याद् अतन्द्रितः ।  
-श्रद्धाकृते ह्य् अक्षये  
-ते भवतः स्वागतैर् धनैः  ॥ ४.२२६ ॥ [२२७ मेधातिथिपाठे]+++(5)+++  
+226	Let him, without tiring, always offer sacrifices and perform works of charity with faith; for offerings and charitable works made with faith and with lawfully-earned money, (procure) endless rewards.

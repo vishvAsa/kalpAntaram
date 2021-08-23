@@ -2,8 +2,4 @@
 title = "018 तद् आविशन्ति"
 
 +++
-
-तद् आविशन्ति भूतानि  
-महान्ति सह कर्मभिः ।  
-मनश् चाऽवयवैः सूक्ष्मैः  
-सर्वभूतकृद् अव्ययम्  ॥ १.१८ ॥
+018	That the great elements enter, together with their functions and the mind, through its minute parts the framer of all beings, the imperishable one.

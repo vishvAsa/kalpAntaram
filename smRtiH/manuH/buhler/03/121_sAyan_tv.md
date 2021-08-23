@@ -2,7 +2,4 @@
 title = "121 सायन् त्व्"
 
 +++
-सायं त्व् अन्नस्य सिद्धस्य  
-पत्न्य् अमन्त्रं बलिं हरेत् ।  
-वैश्वदेवं हि नामैतत्  
-सायं प्रातर् विधीयते  ॥ ३.१२१ ॥ [१११ मेधातिथिपाठे]
+121	But the wife shall offer in the evening (a portion) of the dressed food as a Bali-oblation, without (the recitation of) sacred formulas; for that (rite which is called the) Vaisvadeva is prescribed both for the morning and the evening.

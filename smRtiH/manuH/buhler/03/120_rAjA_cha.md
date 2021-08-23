@@ -2,7 +2,4 @@
 title = "120 राजा च"
 
 +++
-राजा च श्रोत्रियश् चैव  
-यज्ञकर्मण्य् उपस्थितौ [मेधातिथिपाठः - उपस्थिते] ।  
-मधुपर्केण सम्पूज्यौ  
-न त्व् अयज्ञ इति स्थितिः  ॥ ३.१२० ॥ [११० मेधातिथिपाठे]
+120	A king and a Srotriya, who come on the performance of a sacrifice, must be honoured with the honey-mixture, but not if no sacrifice is being performed; that is a settled rule.

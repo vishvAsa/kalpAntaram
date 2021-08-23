@@ -2,7 +2,4 @@
 title = "106 श्वमांसम् इच्छन्"
 
 +++
-श्वमांसम् इच्छन् आर्तो ऽत्तुं  
-धर्माधर्मविचक्षणः ।  
-प्राणानां परिरक्षार्थं  
-वामदेवो न लिप्तवान्  ॥ १०.१०६ ॥
+106	Vamadeva, who well knew right and wrong, did not sully himself when, tormented (by hunger), he desired to eat the flesh of a dog in order to save his life.

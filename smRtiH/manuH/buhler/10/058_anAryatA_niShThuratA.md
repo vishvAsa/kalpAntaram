@@ -2,7 +2,4 @@
 title = "058 अनार्यता निष्ठुरता"
 
 +++
-अनार्यता निष्ठुरता  
-क्रूरता निष्क्रियात्मता ।  
-पुरुषं व्यञ्जयन्तीह  
-लोके कलुषयोनिजम्  ॥ १०.५८ ॥
+058	Behaviour unworthy of an Aryan, harshness, cruelty, and habitual neglect of the prescribed duties betray in this world a man of impure origin.

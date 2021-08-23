@@ -2,7 +2,4 @@
 title = "267 तत्सहायैर् अनुगतैर्"
 
 +++
-तत्सहायैर् अनुगतैर्  
-नानाकर्मप्रवेदिभिः ।  
-विद्याद् उत्सादयेच् चैव  
-निपुणैः पूर्वतस्करैः  ॥ ९.२६७ ॥
+267	By the means of clever reformed thieves, who associate with such (rogues), follow them and know their various machinations, he must detect and destroy them.

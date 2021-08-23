@@ -2,7 +2,4 @@
 title = "346 साहसे वर्तमानम्"
 
 +++
-साहसे वर्तमानं तु  
-यो मर्षयति पार्थिवः ।  
-स विनाशं व्रजत्य् आशु  
-विद्वेषं चाऽधिगच्छति  ॥ ८.३४६ ॥
+346	But that king who pardons the perpetrator of violence quickly perishes and incurs hatred.

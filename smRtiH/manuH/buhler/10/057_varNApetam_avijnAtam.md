@@ -2,7 +2,4 @@
 title = "057 वर्णापेतम् अविज्ञातम्"
 
 +++
-वर्णापेतम् अविज्ञातं  
-नरं कलुषयोनिजम् ।  
-आर्य-रूपम् इवाऽनार्यं  
-कर्मभिः स्वैर् विभावयेत्  ॥ १०.५७ ॥
+057	A man of impure origin, who belongs not to any caste, (varna, but whose character is) not known, who, (though) not an Aryan, has the appearance of an Aryan, one may discover by his acts.

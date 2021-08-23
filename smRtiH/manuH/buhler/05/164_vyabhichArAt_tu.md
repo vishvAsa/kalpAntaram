@@ -2,7 +2,4 @@
 title = "164 व्यभिचारात् तु"
 
 +++
-व्यभिचारात् तु भर्तुः स्त्री  
-लोके प्राप्नोति निन्द्यताम् [मेधातिथिपाठः - व्यभिचारे तु] ।  
-शृगाल-योनिं प्राप्नोति  
-पाप-रोगैश् च पीड्यते  ॥ ५.१६४ ॥ [१६२ मेधातिथिपाठे]
+164	By violating her duty towards her husband, a wife is disgraced in this world, (after death) she enters the womb of a jackal, and is tormented by diseases (the punishment of) her sin.

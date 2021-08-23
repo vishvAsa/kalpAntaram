@@ -2,7 +2,4 @@
 title = "055 एककालञ् चरेद्"
 
 +++
-एककालं चरेद् भैक्षं  
-न प्रसज्जेत विस्तरे ।  
-भैक्षे प्रसक्तो हि यतिर्  
-विषयेष्व् अपि सज्जति  ॥ ६.५५ ॥
+055	Let him go to beg once (a day), let him not be eager to obtain a large quantity (of alms); for an ascetic who eagerly seeks alms, attaches himself also to sensual enjoyments.

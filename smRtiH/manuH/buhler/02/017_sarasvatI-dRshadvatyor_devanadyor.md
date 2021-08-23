@@ -2,8 +2,4 @@
 title = "017 सरस्वती-दृशद्वत्योर् देवनद्योर्"
 
 +++
-
-सरस्वती-दृशद्वत्योर्  
-देवनद्योर् यद् अन्तरम् ।  
-तं देवनिर्मितं देशं  
-ब्रह्मावर्तं प्रचक्षते  ॥ २.१७ ॥+++(5)+++
+017	That land, created by the gods, which lies between the two divine rivers Sarasvati and Drishadvati, the (sages) call Brahmavarta.

@@ -2,7 +2,4 @@
 title = "256 शिरोभिस् ते"
 
 +++
-शिरोभिस् ते गृहीत्वोर्वीं  
-स्रग्विणो रक्त-वाससः ।  
-सुकृतैः शापिथाः स्वैः  
-स्वैर् नयेयुस् ते समञ्जसम्  ॥ ८.२५६ ॥
+256	Let them, putting earth on their heads, wearing chaplets (of red flowers) and red dresses, being sworn each by (the rewards for) his meritorious deeds, settle (the boundary) in accordance with the truth.

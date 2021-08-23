@@ -2,7 +2,4 @@
 title = "224 स्थानासनाभ्यां विहरेद्"
 
 +++
-स्थानासनाभ्यां विहरेद्  
-अशक्तो ऽधः शयीत वा ।  
-ब्रह्मचारी व्रती च स्याद्  
-गुरु-देव-द्विजार्चकः  ॥ ११.२२४ ॥ [२२३ मेधातिथिपाठे]
+225	Let him pass the time standing (during the day) and sitting (during the night), or if he is unable (to do that) let him lie on the (bare) ground; let him be chaste and observe the vows (of a student) and worship his Gurus, the gods, and Brahmanas.

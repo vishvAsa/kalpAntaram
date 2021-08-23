@@ -2,7 +2,4 @@
 title = "019 क्षत्तुर् जातस्"
 
 +++
-क्षत्तुर् जातस् तथोग्रायां  
-श्वपाक इति कीर्त्यते ।  
-वैदेहकेन त्व् अम्बष्ठ्याम्  
-उत्पन्नो वेण उच्यते  ॥ १०.१९ ॥
+019	Moreover, the son of by Kshattri by an Ugra female is called a Svapaka; but one begotten by a Vaidehaka on an Ambashtha female is named a Vena.

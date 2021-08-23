@@ -2,7 +2,4 @@
 title = "060 कुले मुख्ये"
 
 +++
-कुले मुख्ये ऽपि जातस्य  
-यस्य स्याद् योनिसंकरः ।  
-संश्रयत्य् एव तच्-छीलं  
-नरो ऽल्पम् अपि वा बहु  ॥ १०.६० ॥
+060	Even if a man, born in a great family, sprang from criminal intercourse, he will certainly possess the faults of his (father), be they small or great.

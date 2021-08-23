@@ -2,8 +2,4 @@
 title = "041 रजसाभिप्लुतान् नारीम्"
 
 +++
-
-रजसाभिप्लुतां नारीं  
-नरस्य ह्य् उपगच्छतः ।  
-प्रज्ञा तेजो बलं चक्षुर्  
-आयुश् चैव प्रहीयते  ॥ ४.४१ ॥  
+041	For the wisdom, the energy, the strength, the sight, and the vitality of a man who approaches a woman covered with menstrual excretions, utterly perish.

@@ -2,7 +2,4 @@
 title = "119 स्वधर्मो विजयस्"
 
 +++
-स्वधर्मो विजयस् तस्य  
-नाहवे स्यात् पराङ्-मुखः ।  
-शस्त्रेण वैश्यान् रक्षित्वा  
-धर्म्यम् आहारयेद् बलिम् [मेधातिथिपाठः - वैश्याद् रक्षित्वा]  ॥ १०.११९ ॥
+119	His peculiar duty is conquest, and he must not turn back in danger; having protected the Vaisyas by his weapons, he may cause the legal tax to be collected;

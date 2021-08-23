@@ -2,8 +2,4 @@
 title = "181 स्वप्ने सिक्त्वा"
 
 +++
-
-स्वप्ने सिक्त्वा ब्रह्मचारी  
-द्विजः शुक्रम् अकामतः ।  
-स्नात्वार्कम् अर्चयित्वा त्रिः  
-पुनर् माम् इत्य् ऋचं जपेत्  ॥ २.१८१ ॥
+181	A twice-born student, who has involuntarily wasted his manly strength during sleep, must bathe, worship the sun, and afterwards thrice mutter the Rik-verse (which begins), 'Again let my strength return to me.'

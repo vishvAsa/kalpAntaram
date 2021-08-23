@@ -2,7 +2,4 @@
 title = "287 समैर् हि"
 
 +++
-समैर् हि विषमं यस् तु  
-चरेद् वै मूल्यतो ऽपि वा ।  
-समाप्नुयाद् दमं पूर्वं  
-नरो मध्यमम् एव वा  ॥ ९.२८७ ॥
+287	But that man who behaves dishonestly to honest (customers) or cheats in his prices, shall be fined in the first or in the middlemost amercement.

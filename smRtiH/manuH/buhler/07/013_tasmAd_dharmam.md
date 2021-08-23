@@ -2,7 +2,4 @@
 title = "013 तस्माद् धर्मम्"
 
 +++
-तस्माद् धर्मं यम् इष्टेषु  
-स व्यवस्येन् नराधिपः ।  
-अनिष्टं चाऽप्य् अनिष्टेषु  
-तं धर्मं न विचालयेत्  ॥ ७.१३ ॥
+013	Let no (man), therefore, transgress that law which favourites, nor (his orders) which inflict pain on those in disfavour.

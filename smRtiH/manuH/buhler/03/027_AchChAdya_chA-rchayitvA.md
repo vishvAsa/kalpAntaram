@@ -2,7 +2,4 @@
 title = "027 आच्छाद्य चाऽर्चयित्वा"
 
 +++
-आच्छाद्य चाऽर्चयित्वा च  
-श्रुत-शीलवते स्वयम् ।  
-आहूय दानं कन्याया  
-ब्राह्मो धर्मः प्रकीर्तितः  ॥ ३.२७ ॥
+027	The gift of a daughter, after decking her (with costly garments) and honouring (her by presents of jewels), to a man learned in the Veda and of good conduct, whom (the father) himself invites, is called the Brahma rite.

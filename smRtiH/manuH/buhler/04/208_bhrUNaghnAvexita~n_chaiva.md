@@ -2,8 +2,4 @@
 title = "208 भ्रूणघ्नावेक्षितञ् चैव"
 
 +++
-
-भ्रूणघ्नावेक्षितं चैव  
-संस्पृष्टं चाऽप्य् उदक्यया+++(=रजस्वलया)+++ ।  
-पतत्रिणावलीढं च  
-शुना संस्पृष्टम् एव च  ॥ ४.२०८ ॥ [२०९ मेधातिथिपाठे]  
+208	Nor that at which the slayer of a learned Brahmana has looked, nor that which has been touched by a menstruating woman, nor that which has been pecked at by birds or touched by a dog,

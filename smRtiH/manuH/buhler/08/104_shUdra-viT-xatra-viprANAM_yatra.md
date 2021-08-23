@@ -2,7 +2,4 @@
 title = "104 शूद्र-विट्-क्षत्र-विप्राणां यत्र"
 
 +++
-शूद्र-विट्-क्षत्र-विप्राणां  
-यत्र र्तोक्तौ भवेद् वधः ।  
-तत्र वक्तव्यम् अनृतं  
-तद् +धि सत्याद् विशिष्यते  ॥ ८.१०४ ॥
+104	Whenever the death of a Sudra, of a Vaisya, of a Kshatriya, or of a Brahmana would be (caused) by a declaration of the truth, a falsehood may be spoken; for such (falsehood) is preferable to the truth.

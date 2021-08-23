@@ -2,8 +2,4 @@
 title = "064 मेखलाम् अजिनम्"
 
 +++
-
-मेखलाम् अजिनं दण्डम्  
-उपवीतं कमण्डलुम् ।  
-अप्सु प्रास्य विनष्टानि  
-गृह्णीताऽन्यानि मन्त्रवत्  ॥ २.६४ ॥
+064	His girdle, the skin (which serves as his upper garment), his staff, his sacrificial thread, (and) his water-pot he must throw into water, when they have been damaged, and take others, reciting sacred formulas.

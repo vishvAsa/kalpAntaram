@@ -2,7 +2,4 @@
 title = "061 अवेक्षेत गतीर्"
 
 +++
-अवेक्षेत गतीर् नॄणां  
-कर्मदोष-समुद्भवाः ।  
-निरये चैव पतनं  
-यातनाश् च यमक्षये  ॥ ६.६१ ॥
+061	Let him reflect on the transmigrations of men, caused by their sinful deeds, on their falling into hell, and on the torments in the world of Yama,

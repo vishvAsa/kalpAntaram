@@ -2,8 +2,4 @@
 title = "221 सूर्येण ह्य्"
 
 +++
-
-सूर्येण ह्य् अभिनिर्मुक्तः  
-शयानो ऽभ्युदितश् च यः [मेधातिथिपाठः - अभिनिम्लुक्तः] ।  
-प्रायश्चित्तम् अकुर्वाणो  
-युक्तः स्यान् महतैनसा  ॥ २.२२१ ॥
+221	For he who lies (sleeping), while the sun sets or rises, and does not perform (that) penance, is tainted by great guilt.

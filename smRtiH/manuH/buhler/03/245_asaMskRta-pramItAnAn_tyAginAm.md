@@ -2,7 +2,4 @@
 title = "245 असंस्कृत-प्रमीतानान् त्यागिनाम्"
 
 +++
-असंस्कृत-प्रमीतानां+++(=मृतानां)+++  
-त्यागिनां कुलयोषिताम् ।  
-उच्छिष्टं भागधेयं स्याद्  
-दर्भेषु विकिरश् च यः  ॥ ३.२४५ ॥ [२३५ मेधातिथिपाठे]
+245	The remnant (in the dishes), and the portion scattered on Kusa grass, shall be the share of deceased (children) who received not the sacrament (of cremation) and of those who (unjustly) forsook noble wives.

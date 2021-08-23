@@ -2,7 +2,4 @@
 title = "110 एष शौचस्य"
 
 +++
-एष शौचस्य वः प्रोक्तः  
-शरीरस्य विनिर्णयः ।  
-नानाविधानां द्रव्याणां  
-शुद्धेः शृणुत निर्णयम्  ॥ ५.११० ॥ [१०९ मेधातिथिपाठे]
+110	Thus the precise rules for the purification of the body have been declared to you; hear now the decision (of the law) regarding the purification of the various (inanimate) things.

@@ -2,8 +2,4 @@
 title = "237 त्रिष्व् एतेष्व्"
 
 +++
-
-त्रिष्व् एतेष्व् इतिकृत्यं हि  
-पुरुषस्य समाप्यते ।  
-एष धर्मः परः साक्षाद्  
-उपधर्मो ऽन्य उच्यते  ॥ २.२३७ ॥
+237	By (honouring) these three all that ought to be done by man, is accomplished; that is clearly the highest duty, every other (act) is a subordinate duty.

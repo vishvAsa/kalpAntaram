@@ -2,7 +2,4 @@
 title = "234 कर्णौ चर्म"
 
 +++
-कर्णौ चर्म च वालांश् च  
-बस्तिं स्नायुं च रोचनाम् ।  
-पशुषु स्वामिनां दद्यान्  
-मृतेष्व् अङ्कानि दर्शयेत् [मेधातिथिपाठः - अङ्कांश् च दर्शयेत्]  ॥ ८.२३४ ॥
+234	If cattle die, let him carry to his master their ears, skin, tails, bladders, tendons, and the yellow concrete bile, and let him point out their particular. marks.

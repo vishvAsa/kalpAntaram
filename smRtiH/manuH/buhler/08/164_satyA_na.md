@@ -2,7 +2,4 @@
 title = "164 सत्या न"
 
 +++
-सत्या न भाषा भवति  
-यद्य् अपि स्यात् प्रतिष्ठिता ।  
-बहिश् चेद् भाष्यते धर्मान्  
-नियताद् व्यवहारिकात्  ॥ ८.१६४ ॥
+164	That agreement which has been made contrary to the law or to the settled usage (of the virtuous), can have no legal force, though it be established (by proofs).

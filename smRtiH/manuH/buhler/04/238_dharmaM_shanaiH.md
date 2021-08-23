@@ -2,8 +2,4 @@
 title = "238 धर्मं शनैः"
 
 +++
-
-धर्मं शनैः सञ्-चिनुयाद्  
-वल्मीकम् इव पुत्तिकाः [मेधातिथिपाठः - सञ्चिनुयाद्] ।  
-परलोकसहायार्थं  
-सर्वभूतान्य् अपीडयन्  ॥ ४.२३८ ॥ [२३९ मेधातिथिपाठे]+++(5)+++  
+238	Giving no pain to any creature, let him slowly accumulate spiritual merit, for the sake (of acquiring) a companion to the next world, just as the white ant (gradually raises its) hill.

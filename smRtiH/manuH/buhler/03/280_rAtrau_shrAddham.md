@@ -2,7 +2,4 @@
 title = "280 रात्रौ श्राद्धम्"
 
 +++
-रात्रौ श्राद्धं न कुर्वीत  
-राक्षसी कीर्तिता हि सा ।  
-सन्ध्ययोर् उभयोश् चैव  
-सूर्ये चैवाऽचिरोदिते  ॥ ३.२८० ॥ [२७० मेधातिथिपाठे]
+280	Let him not perform a funeral sacrifice at night, because the (night) is declared to belong to the Rakshasas, nor in the twilight, nor when the sun has just risen.

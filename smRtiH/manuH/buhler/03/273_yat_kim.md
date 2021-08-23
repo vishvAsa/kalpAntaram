@@ -2,7 +2,4 @@
 title = "273 यत् किम्"
 
 +++
-यत् किं चिन् मधुना मिश्रं  
-प्रदद्यात् तु त्रयोदशीम् ।  
-तद् अप्य् अक्षयम् एव स्याद्  
-वर्षासु च मघासु च  ॥ ३.२७३ ॥ [२६३ मेधातिथिपाठे]
+273	Whatever (food), mixed with honey, one gives on the thirteenth lunar day in the rainy season under the asterism of Maghah, that also procures endless (satisfaction).

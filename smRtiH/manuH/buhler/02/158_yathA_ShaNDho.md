@@ -2,8 +2,4 @@
 title = "158 यथा षण्ढो"
 
 +++
-
-यथा षण्ढो ऽफलः स्त्रीषु  
-यथा गौर् गवि चाऽफला ।  
-यथा चाऽज्ञे ऽफलं दानं  
-तथा विप्रो ऽनृचो ऽफलः  ॥ २.१५८ ॥
+158	As a eunuch is unproductive with women, as a cow with a cow is unprolific, and as a gift made to an ignorant man yields no reward, even so is a Brahmana useless, who (does) not (know) the Rikas.

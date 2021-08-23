@@ -2,7 +2,4 @@
 title = "094 यस् तु"
 
 +++
-यस् तु भीतः परावृत्तः  
-सङ्ग्रामे हन्यते परैः ।  
-भर्तुर् यद् दुष्कृतं किं चित्  
-तत् सर्वं प्रतिपद्यते  ॥ ७.९४ ॥ [९५ मेधातिथिपाठे]
+094	But the (Kshatriya) who is slain in battle, while he turns back in fear, takes upon himself all the sin of his master, whatever (it may be);

@@ -2,8 +2,4 @@
 title = "104 इदं शास्त्रम्"
 
 +++
-
-इदं शास्त्रम् अधीयानो  
-ब्राह्मणः शंसित-व्रतः ।  
-मनो-वाग्-गेहजैर् नित्यं  
-कर्मदोषैर् न लिप्यते  ॥ १.१०४ ॥
+104	A Brahmana who studies these Institutes (and) faithfully fulfils the duties (prescribed therein), is never tainted by sins, arising from thoughts, words, or deeds.

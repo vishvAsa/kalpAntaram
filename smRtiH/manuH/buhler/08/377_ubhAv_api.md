@@ -2,7 +2,4 @@
 title = "377 उभाव् अपि"
 
 +++
-उभाव् अपि तु ताव् एव  
-ब्राह्मण्या गुप्तया सह ।  
-विप्लुतौ शूद्रवद् दण्ड्यौ  
-दग्धव्यौ वा कटाग्निना  ॥ ८.३७७ ॥
+377	But even these two, if they offend with a Brahmani (not only) guarded (but the wife of an eminent man), shall be punished like a Sudra or be burnt in a fire of dry grass.

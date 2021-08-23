@@ -2,7 +2,4 @@
 title = "063 कु-विवाहैः क्रिया-लोपैर्"
 
 +++
-कु-विवाहैः क्रिया-लोपैर्  
-वेदानध्ययनेन च ।  
-कुलान्य् अकुलतां यान्ति  
-ब्राह्मणातिक्रमेण च  ॥ ३.६३ ॥
+063	By low marriages, by omitting (the performance of) sacred rites, by neglecting the study of the Veda, and by irreverence towards Brahmanas, (great) families sink low.

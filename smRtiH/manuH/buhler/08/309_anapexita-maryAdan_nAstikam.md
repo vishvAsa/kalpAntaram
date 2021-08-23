@@ -2,7 +2,4 @@
 title = "309 अनपेक्षित-मर्यादन् नास्तिकम्"
 
 +++
-अनपेक्षित-मर्यादं  
-नास्तिकं विप्रलुंपकम् [मेधातिथिपाठः - अनवेक्षित-मर्यादं] ।  
-अरक्षितारम् अत्तारं  
-नृपं विद्याद् अधो-गतिम्  ॥ ८.३०९ ॥
+309	Know that a king who heeds not the rules (of the law), who is an atheist, and rapacious, who does not protect (his subjects, but) devours them, will sink low (after death).

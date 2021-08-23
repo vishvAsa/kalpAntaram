@@ -2,7 +2,4 @@
 title = "021 व्रात्यात् तु"
 
 +++
-व्रात्यात् तु जायते विप्रात्  
-पापात्मा भूर्जकण्टकः [मेधातिथिपाठः - भृज्जकण्टकः] ।  
-आवन्त्य-वाटधानौ च  
-पुष्पधः शैख एव च  ॥ १०.२१ ॥
+021	But from a Vratya (of the) Brahmana (caste) spring the wicked Bhriggakantaka, the Avantya, the Vatadhana, the Pushpadha, and the Saikha.

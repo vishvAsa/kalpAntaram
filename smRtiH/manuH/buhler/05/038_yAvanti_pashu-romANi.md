@@ -2,7 +2,4 @@
 title = "038 यावन्ति पशु-रोमाणि"
 
 +++
-यावन्ति पशु-रोमाणि  
-तावत्-कृत्वो ह मारणम् ।  
-वृथा-पशु-घ्नः प्राप्नोति  
-प्रेत्य जन्मनि जन्मनि  ॥ ५.३८ ॥
+038	As many hairs as the slain beast has, so often indeed will he who killed it without a (lawful) reason suffer a violent death in future births.

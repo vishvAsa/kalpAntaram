@@ -2,8 +2,4 @@
 title = "247 आचार्ये तु"
 
 +++
-
-आचार्ये तु खलु प्रेते  
-गुरुपुत्रे गुणान्विते ।  
-गुरुदारे सपिण्डे वा  
-गुरुवद् वृत्तिम् आचरेत्  ॥ २.२४७ ॥
+247	(A perpetual student) must, if his teacher dies, serve his son (provided he be) endowed with good qualities, or his widow, or his Sapinda, in the same manner as the teacher.

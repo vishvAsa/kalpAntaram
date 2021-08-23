@@ -2,7 +2,4 @@
 title = "044 कपालं वृक्षमूलानि"
 
 +++
-कपालं वृक्षमूलानि  
-कुचेलम् असहायता [मेधातिथिपाठः - कुचैलम्] ।  
-समता चैव सर्वस्मिन्न्  
-एतन् मुक्तस्य लक्षणम्  ॥ ६.४४ ॥
+044	A potsherd (instead of an alms-bowl), the roots of trees (for a dwelling), coarse worn-out garments, life in solitude and indifference towards everything, are the marks of one who has attained liberation.

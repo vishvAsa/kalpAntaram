@@ -2,8 +2,4 @@
 title = "153 अज्ञो भवति"
 
 +++
-
-अज्ञो भवति वै बालः  
-पिता भवति मन्त्रदः ।  
-अज्ञं हि बालम् इत्य् आहुः  
-पितेत्य् एव तु मन्त्रदम्  ॥ २.१५३ ॥
+153	'For (a man) destitute of (sacred) knowledge is indeed a child, and he who teaches him the Veda is his father; for (the sages) have always said "child" to an ignorant man, and "father" to a teacher of the Veda.'

@@ -2,8 +2,4 @@
 title = "065 अहोरात्रे विभजते"
 
 +++
-
-अहोरात्रे विभजते  
-सूर्यो मानुष-दैविके ।  
-रात्रिः स्वप्नाय भूतानां  
-चेष्टायै कर्मणाम् अहः  ॥ १.६५ ॥
+065	The sun divides days and nights, both human and divine, the night (being intended) for the repose of created beings and the day for exertion.

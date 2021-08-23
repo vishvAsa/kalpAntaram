@@ -2,8 +2,4 @@
 title = "029 हिंस्राहिंस्रे मृदु-क्रूरे"
 
 +++
-
-हिंस्राहिंस्रे मृदु-क्रूरे  
-धर्माधर्माव् ऋतानृते ।  
-यद् यस्य सो ऽदधात् सर्गे  
-तत् तस्य स्वयम् आविशत्  ॥ १.२९ ॥
+029	Whatever he assigned to each at the (first) creation, noxiousness or harmlessness, gentleness or ferocity, virtue or sin, truth or falsehood, that clung (afterwards) spontaneously to it.

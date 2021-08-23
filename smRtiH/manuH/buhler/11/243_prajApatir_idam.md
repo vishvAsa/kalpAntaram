@@ -2,7 +2,4 @@
 title = "243 प्रजापतिर् इदम्"
 
 +++
-प्रजापतिर् इदं शास्त्रं  
-तपसैवाऽसृजत् प्रभुः ।  
-तथैव वेदान् ऋषयस्  
-तपसा प्रतिपेदिरे  ॥ ११.२४३ ॥ [२४२ मेधातिथिपाठे]
+244	The lord, Pragapati, created these Institutes (of the sacred law) by his austerities alone; the sages likewise obtained (the revelation of) the Vedas through their austerities.

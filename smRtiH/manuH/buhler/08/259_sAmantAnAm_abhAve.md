@@ -2,7 +2,4 @@
 title = "259 सामन्तानाम् अभावे"
 
 +++
-सामन्तानाम् अभावे तु  
-मौलानां सीम्नि साक्षिणाम् ।  
-इमान् अप्य् अनुयुञ्जीत  
-पुरुषान् वन-गोचरान्  ॥ ८.२५९ ॥
+259	On failure of neighbours (who are) original inhabitants (of the country and can be) witnesses with respect to the boundary, (the king) may hear the evidence even of the following inhabitants of the forest.

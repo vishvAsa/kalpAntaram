@@ -2,7 +2,4 @@
 title = "211 सम्भूय स्वानि"
 
 +++
-संभूय स्वानि कर्माणि  
-कुर्वद्भिर् इह मानवैः ।  
-अनेन विधियोगेन  
-कर्तव्यांशप्रकल्पना  ॥ ८.२११ ॥
+211	By the application of these principles the allotment of shares must be made among those men who here (below) perform their work conjointly.

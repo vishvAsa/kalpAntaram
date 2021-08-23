@@ -2,8 +2,4 @@
 title = "103 न तिष्ठति"
 
 +++
-
-न तिष्ठति तु यः पूर्वां  
-नोपास्ते यश् च पश्चिमाम् ।  
-स शूद्रवद् बहिष्कार्यः  
-सर्वस्माद् द्विजकर्मणः  ॥ २.१०३ ॥
+103	But he who does not (worship) standing in the morning, nor sitting in the evening, shall be excluded, just like a Sudra, from all the duties and rights of an Aryan.

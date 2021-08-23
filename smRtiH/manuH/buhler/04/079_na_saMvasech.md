@@ -2,8 +2,4 @@
 title = "079 न संवसेच्"
 
 +++
-
-न संवसेच् च पतितैर्  
-न चाण्डालैर् न पुल्कसैः ।  
-न मूर्खैर् नाऽवलिप्तैश् च  
-नाऽन्त्यैर्+++(=म्लेच्छैः)+++ नाऽन्त्यावसायिभिः+++(=चण्डालनिषादीसुतैः)+++  ॥ ४.७९ ॥  
+079	Let him not stay together with outcasts, nor with Kandalas, nor with Pukkasas, nor with fools, nor with overbearing men, nor with low-caste men, nor with Antyavasayins.

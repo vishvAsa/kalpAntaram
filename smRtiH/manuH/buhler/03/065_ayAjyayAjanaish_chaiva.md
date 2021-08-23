@@ -2,7 +2,4 @@
 title = "065 अयाज्ययाजनैश् चैव"
 
 +++
-अयाज्ययाजनैश् चैव  
-नास्तिक्येन च कर्मणाम् ।  
-कुलान्य् आशु विनश्यन्ति  
-यानि हीनानि मन्त्रतः  ॥ ३.६५ ॥
+065	By sacrificing for men unworthy to offer sacrifices and by denying (the future rewards for good) works, families, deficient in the (knowledge of the) Veda, quickly perish.

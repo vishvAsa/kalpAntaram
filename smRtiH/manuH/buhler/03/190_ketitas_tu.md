@@ -2,7 +2,4 @@
 title = "190 केतितस् तु"
 
 +++
-केतितस् तु यथान्यायं  
-हव्ये कव्ये द्विजोत्तमः ।  
-कथं चिद् अप्य् अतिक्रामन्  
-पापः सूकरतां व्रजेत्  ॥ ३.१९० ॥ [१८० मेधातिथिपाठे]
+190	But a Brahmana who, being duly invited to a rite in honour of the gods or of the manes, in any way breaks (the appointment), becomes guilty (of a crime), and (in his next birth) a hog.

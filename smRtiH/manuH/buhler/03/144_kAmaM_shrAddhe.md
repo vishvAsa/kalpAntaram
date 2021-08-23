@@ -2,7 +2,4 @@
 title = "144 कामं श्राद्धे"
 
 +++
-कामं श्राद्धे ऽर्चयेन् मित्रं  
-नाऽभिरूपम् अपि त्व् अरिम् ।  
-द्विषता हि हविर् भुक्तं  
-भवति प्रेत्य निष्-फलम्  ॥ ३.१४४ ॥ [१३४ मेधातिथिपाठे]
+144	(If no learned Brahmana be at hand), he may rather honour a (virtuous) friend than an enemy, though the latter may be qualified (by learning and so forth); for sacrificial food, eaten by a foe, bears no reward after death.

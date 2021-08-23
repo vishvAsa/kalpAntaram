@@ -2,8 +2,4 @@
 title = "105 पुनाति पङ्क्तिम्"
 
 +++
-
-पुनाति पङ्क्तिं वंश्यांश् च  
-सप्त-सप्त परावरान् ।  
-पृथिवीम् अपि चैवेमां  
-कृत्स्नाम् एको ऽपि सो ऽर्हति  ॥ १.१०५ ॥
+105	He sanctifies any company (which he may enter), seven ancestors and seven descendants, and he alone deserves (to possess) this whole earth.

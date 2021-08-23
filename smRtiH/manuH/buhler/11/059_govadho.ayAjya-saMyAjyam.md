@@ -2,7 +2,4 @@
 title = "059 गोवधो ऽयाज्य-संयाज्यम्"
 
 +++
-गोवधो ऽयाज्य-संयाज्यं  
-पारदार्यात्मविक्रयः ।  
-गुरु-मातृ-पितृ-त्यागः  
-स्वाध्यायाग्न्योः सुतस्य च  ॥ ११.५९ ॥ [५८ मेधातिथिपाठे]
+060	Slaying kine, sacrificing for those who are unworthy to sacrifice, adultery, selling oneself, casting off one's teacher, mother, father, or son, giving up the (daily) study of the Veda, and neglecting the (sacred domestic) fire,

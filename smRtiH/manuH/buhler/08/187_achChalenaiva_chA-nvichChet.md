@@ -2,7 +2,4 @@
 title = "187 अच्छलेनैव चाऽन्विच्छेत्"
 
 +++
-अच्छलेनैव चाऽन्विच्छेत्  
-तम् अर्थं प्रीतिपूर्वकम् ।  
-विचार्य तस्य वा वृत्तं  
-साम्नैव परिसाधयेत्  ॥ ८.१८७ ॥
+187	And (in doubtful cases) he should try to obtain that object by friendly means, without (having recourse to) artifice, or having inquired into (depositary's) conduct, he should settle (the matter) with gentle means.

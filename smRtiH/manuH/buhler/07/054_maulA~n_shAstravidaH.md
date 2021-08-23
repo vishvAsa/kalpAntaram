@@ -2,7 +2,4 @@
 title = "054 मौलाञ् शास्त्रविदः"
 
 +++
-मौलाञ् शास्त्रविदः शूरांल्  
-लब्ध-लक्षान् कुलोद्भवान् [मेधातिथिपाठः - कुलोद्गतान्] ।  
-सचिवान् सप्त चाऽष्टौ वा  
-प्रकुर्वीत परीक्षितान् [मेधातिथिपाठः - कुर्वीत सुपरीक्षितान्]  ॥ ७.५४ ॥
+054	Let him appoint seven or eight ministers whose ancestors have been royal servants, who are versed in the sciences, heroes skilled in the use of weapons and descended from (noble) families and who have been tried.

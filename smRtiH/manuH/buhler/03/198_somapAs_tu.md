@@ -2,7 +2,4 @@
 title = "198 सोमपास् तु"
 
 +++
-सोमपास् तु कवेः पुत्रा  
-हविष्मन्तो ऽङ्गिरःसुताः ।  
-पुलस्त्यस्याज्यपाः पुत्रा  
-वसिष्ठस्य सुकालिनः  ॥ ३.१९८ ॥ [१८८ मेधातिथिपाठे]
+198	The Somapas are the sons of Kavi (Bhrigu), the Havishmats the children of Angiras, the Agyapas the offspring of Pulastya, but the Sukalins (the issue) of Vasishtha.

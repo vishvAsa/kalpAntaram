@@ -2,7 +2,4 @@
 title = "095 डिम्भाहव-हतानाञ् च"
 
 +++
-डिम्भाहव-हतानां च  
-विद्युता पार्थिवेन च [मेधातिथिपाठः - डिम्बाहव-हतानां] ।  
-गो-ब्राह्मणस्य चैवाऽर्थे  
-यस्य चेच्छति पार्थिवः  ॥ ५.९५ ॥ [९४ मेधातिथिपाठे]
+095	(The same rule applies to the kinsmen) of those who have fallen in a riot or a battle, (of those who have been killed) by lightning or by the king, and (of those who perished fighting) for cows and Brahmanas, and to those whom the king wishes (to be pure).

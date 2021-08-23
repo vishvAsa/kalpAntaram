@@ -2,8 +2,4 @@
 title = "126 इत्य् एतन्"
 
 +++
-
-इत्य् एतन् मानवं शास्त्रं  
-भृगुप्रोक्तं पठन् द्विजः ।  
-भवत्य् आचारवान् नित्यं  
-यथेष्टां प्राप्नुयाद् गतिम्  ॥ १२.१२६ ॥
+126	A twice-born man who recites these Institutes, revealed by Manu, will be always virtuous in conduct, and will reach whatever condition he desires.

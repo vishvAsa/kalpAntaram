@@ -2,8 +2,4 @@
 title = "008 मानसम् मनसैवाऽयम्"
 
 +++
-
-मानसं मनसैवाऽयम्  
-उपभुङ्क्ते शुभाशुभम् ।  
-वाचा वाचा कृतं कर्म  
-कायेनैव च कायिकम्  ॥ १२.८ ॥
+008	(A man) obtains (the result of) a good or evil mental (act) in his mind, (that of) a verbal (act) in his speech, (that of) a bodily (act) in his body.

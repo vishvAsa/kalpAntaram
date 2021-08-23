@@ -2,7 +2,4 @@
 title = "190 गुल्मांश् च"
 
 +++
-गुल्मांश् च स्थापयेद् आप्तान्  
-कृतसञ्ज्ञान् समन्ततः ।  
-स्थाने युद्धे च कुशलान्  
-अभीरून् अविकारिणः  ॥ ७.१९० ॥ [१९१ मेधातिथिपाठे]
+190	On all sides let him place troops of soldiers, on whom he can rely, with whom signals have been arranged, who are expert both in sustaining a charge and in charging, fearless and loyal.

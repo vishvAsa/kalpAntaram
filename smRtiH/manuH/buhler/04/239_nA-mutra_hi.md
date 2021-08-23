@@ -2,8 +2,4 @@
 title = "239 नाऽमुत्र हि"
 
 +++
-
-नाऽमुत्र हि सहायार्थं  
-पिता माता च तिष्ठतः ।  
-न पुत्रदारं न ज्ञातिर्  
-धर्मस् तिष्ठति केवलः  ॥ ४.२३९ ॥ [२४० मेधातिथिपाठे]  
+239	For in the next world neither father, nor mother, nor wife, nor sons, nor relations stay to be his companions; spiritual merit alone remains (with him).

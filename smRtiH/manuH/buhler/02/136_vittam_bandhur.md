@@ -2,8 +2,4 @@
 title = "136 वित्तम् बन्धुर्"
 
 +++
-
-वित्तं बन्धुर् वयः कर्म  
-विद्या भवति पञ्चमी ।  
-एतानि मान्यस्थानानि  
-गरीयो यद् यद् उत्तरम् [मेधातिथिपाठः - मानस्थानानि]  ॥ २.१३६ ॥
+136	Wealth, kindred, age, (the due performance of) rites, and, fifthly, sacred learning are titles to respect; but each later-named (cause) is more weighty (than the preceding ones).

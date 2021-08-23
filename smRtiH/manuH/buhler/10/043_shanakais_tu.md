@@ -2,7 +2,4 @@
 title = "043 शनकैस् तु"
 
 +++
-शनकैस् तु क्रियालोपाद्  
-इमाः क्षत्रिय-जातयः ।  
-वृषलत्वं गता लोके  
-ब्राह्मणादर्शनेन च [मेधातिथिपाठः - ब्राह्मणातिक्रमेण च]  ॥ १०.४३ ॥
+043	But in consequence of the omission of the sacred rites, and of their not consulting Brahmanas, the following tribes of Kshatriyas have gradually sunk in this world to the condition of Sudras;

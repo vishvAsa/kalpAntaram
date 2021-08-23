@@ -2,8 +2,4 @@
 title = "141 एकदेशन् तु"
 
 +++
-
-एकदेशं तु वेदस्य  
-वेदाङ्गान्य् अपि वा पुनः ।  
-यो ऽध्यापयति वृत्त्यर्थम्  
-उपाध्यायः स उच्यते  ॥ २.१४१ ॥
+141	But he who for his livelihood teaches a portion only of the Veda, or also the Angas of the Veda, is called the sub-teacher (upadhyaya).

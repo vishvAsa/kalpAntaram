@@ -2,8 +2,4 @@
 title = "154 यद्य् अपि"
 
 +++
-यद्य् अपि स्यात् तु सत्-पुत्रो ऽप्य्  
-असत्-पुत्रो ऽपि वा भवेत् [मेधातिथिपाठः - यद्य् अपि स्यात् तु सत्-पुत्रो  
-यद्य् अपुत्रो ऽपि वा भवेत्] ।  
-नाऽधिकं दशमाद् दद्याच्  
-छूद्रापुत्राय धर्मतः  ॥ ९.१५४ ॥
+154	Whether (a Brahmana) have sons or have no sons (by wives of the twice-born castes), the (heir) must, according to the law, give to the son of a Sudra (wife) no more than a tenth (part of his estate).

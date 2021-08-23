@@ -2,8 +2,4 @@
 title = "118 स्वेभ्यो ऽंशेभ्यस्"
 
 +++
-स्वेभ्यो ऽंशेभ्यस् तु कन्याभ्यः  
-प्रदद्युर् भ्रातरः पृथक् [मेधातिथिपाठः - स्वाभ्यः स्वाभ्यस्  
-तु] ।  
-स्वात् स्वाद् अंशाच् चतुर्भागं  
-पतिताः स्युर् अदित्सवः  ॥ ९.११८ ॥
+118	But to the maiden (sisters) the brothers shall severally give (portions) out of their shares, each out of his share one-fourth part; those who refuse to give (it), will become outcasts.

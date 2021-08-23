@@ -2,8 +2,4 @@
 title = "179 ऋत्विक्-पुरोहिताचार्यैर् मातुलातिथि-संश्रितैः"
 
 +++
-
-ऋत्विक्-पुरोहिताचार्यैर्  
-मातुलातिथि-संश्रितैः ।  
-बाल-वृद्धातुरैर् वैद्यैर्  
-ज्ञाति-सम्बन्धि-बान्धवैः  ॥ ४.१७९ ॥  
+179	With an officiating or a domestic priest, with a teacher, with a maternal uncle, a guest and a dependant, with infants, aged and sick men, with learned men, with his paternal relatives, connexions by marriage and maternal relatives,

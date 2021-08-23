@@ -2,8 +2,4 @@
 title = "236 तेषाम् अनुपरोधेन"
 
 +++
-
-तेषाम् अनुपरोधेन  
-पारत्र्यं यद् यद् आचरेत् ।  
-तत् तन् निवेदयेत् तेभ्यो  
-मनो-वचन-कर्मभिः  ॥ २.२३६ ॥
+236	He shall inform them of everything that with their consent he may perform in thought, word, or deed for the sake of the next world.

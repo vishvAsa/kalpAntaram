@@ -2,8 +2,4 @@
 title = "109 धर्मेणाऽधिगतो यैस्"
 
 +++
-
-धर्मेणाऽधिगतो यैस् तु  
-वेदः स-परिबृंहणः ।  
-ते शिष्टा ब्राह्मणा ज्ञेयाः  
-श्रुति-प्रत्यक्षहेतवः  ॥ १२.१०९ ॥
+109	Those Brahmanas must be considered as Sishtas who, in accordance with the sacred law, have studied the Veda together with its appendages, and are able to adduce proofs perceptible by the senses from the revealed texts.

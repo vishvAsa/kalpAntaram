@@ -2,8 +2,4 @@
 title = "142 न स्पृशेत्"
 
 +++
-
-न स्पृशेत् पाणिनोच्छिष्टो  
-विप्रो गो-ब्राह्मणानलाण् ।  
-न चाऽपि पश्येद् अशुचिः  
-सुस्थो ज्योतिर्गणान् दिवा [मेधातिथिपाठः - स्वस्थो ज्योतिर्गणान् दिवि]  ॥ ४.१४२ ॥+++(5)+++  
+142	A Brahmana who is impure must not touch with his hand a cow, a Brahmana, or fire; nor, being in good health, let him look at the luminaries in the sky, while he is impure.

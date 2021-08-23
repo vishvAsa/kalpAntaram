@@ -2,7 +2,4 @@
 title = "388 ऋत्विजं यस्"
 
 +++
-ऋत्विजं यस् त्यजेद् याज्यो  
-याज्यं च र्त्विक् त्यजेद् यदि ।  
-शक्तं कर्मण्य् अदुष्टं च  
-तयोर् दण्डः शतं शतम्  ॥ ८.३८८ ॥
+388	A sacrificer who forsakes an officiating priest, and an officiating priest who forsakes a sacrificer, (each being) able to perform his work and not contaminated (by grievous crimes), must each be fined one hundred (panas).

@@ -2,7 +2,4 @@
 title = "066 अयन् द्विजैर्"
 
 +++
-अयं द्विजैर् हि विद्वद्भिः  
-पशुधर्मो विगर्हितः ।  
-मनुष्याणाम् अपि प्रोक्तो  
-वेने राज्यं प्रशासति  ॥ ९.६६ ॥
+066	This practice which is reprehended by the learned of the twice-born castes as fit for cattle is said (to have occurred) even among men, while Vena ruled.

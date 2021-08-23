@@ -2,7 +2,4 @@
 title = "316 शासनाद् वा"
 
 +++
-शासनाद् वा विमोक्षाद् वा  
-स्तेनः स्तेयाद् विमुच्यते ।  
-अशासित्वा तु तं राजा  
-स्तेनस्याप्नोति किल्बिषम्  ॥ ८.३१६ ॥
+316	Whether he be punished or pardoned, the thief is freed from the (guilt of) theft; but the king, if he punishes not, takes upon himself the guilt of the thief.

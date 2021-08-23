@@ -2,8 +2,4 @@
 title = "150 सावित्राञ् शान्तिहोमांश्"
 
 +++
-
-सावित्राञ् शान्तिहोमांश् च  
-कुर्यात् पर्वसु नित्यशः [मेधातिथिपाठः - सावित्रान् शान्तिहोमांश्] ।  
-पितॄंश् चैवाऽष्टकास्व् अर्चेन्  
-नित्यम् अन्वष्टकासु च  ॥ ४.१५० ॥  
+150	Let him always offer on the Parva-days oblations to Savitri and such as avert evil omens, and on the Ashtakas and Anvashtakas let him constantly worship the manes.

@@ -2,7 +2,4 @@
 title = "062 ब्राह्मणार्थे गवार्थे"
 
 +++
-ब्राह्मणार्थे गवार्थे वा  
-देहत्यागो ऽनुपस्कृतः ।  
-स्त्री-बालाभ्युपपत्तौ च  
-बाह्यानां सिद्धिकारणम् [मेधातिथिपाठः - स्त्री-बालाभ्यवपत्तौ च]  ॥ १०.६२ ॥
+062	Dying, without the expectation of a reward, for the sake of Brahmanas and of cows, or in the defence of women and children, secures beatitude to those excluded (from the Aryan community, vahya.)

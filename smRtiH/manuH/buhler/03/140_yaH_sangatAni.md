@@ -2,7 +2,4 @@
 title = "140 यः सङ्गतानि"
 
 +++
-यः सङ्गतानि+++(→स्नेहं)+++ कुरुते  
-मोहाच् छ्राद्धेन मानवः ।  
-स स्वर्गाच् च्यवते लोकाच्  
-छ्राद्ध-मित्रो द्विजाधमः  ॥ ३.१४० ॥ [१३० मेधातिथिपाठे]+++(4)+++
+140	That meanest among twice-born men who in his folly contracts friendships through a funeral sacrifice, loses heaven, because he performed a Sraddha for the sake of friendship.

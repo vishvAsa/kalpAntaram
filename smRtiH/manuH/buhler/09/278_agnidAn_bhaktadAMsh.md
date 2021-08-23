@@ -2,7 +2,4 @@
 title = "278 अग्निदान् भक्तदांश्"
 
 +++
-अग्निदान् भक्तदांश् चैव  
-तथा शस्त्रावकाशदान् ।  
-संनिधातॄंश् च मोषस्य  
-हन्याच् चौरम् इवेश्वरः  ॥ ९.२७८ ॥
+278	Those who give (to thieves) fire, food, arms, or shelter, and receivers of stolen goods, the ruler shall punish like thieves.

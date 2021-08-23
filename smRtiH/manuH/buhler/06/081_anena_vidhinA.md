@@ -2,7 +2,4 @@
 title = "081 अनेन विधिना"
 
 +++
-अनेन विधिना सर्वांस्  
-त्यक्त्वा सङ्गाञ् शनैः शनैः ।  
-सर्वद्वन्द्वविनिर्मुक्तो  
-ब्रह्मण्य् एवाऽवतिष्ठते  ॥ ६.८१ ॥
+081	He who has in this manner gradually given up all attachments and is freed from all the pairs (of opposites), reposes in Brahman alone.

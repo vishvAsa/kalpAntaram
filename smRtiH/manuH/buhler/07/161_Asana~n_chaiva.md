@@ -2,7 +2,4 @@
 title = "161 आसनञ् चैव"
 
 +++
-आसनं चैव यानं च  
-सन्धिं विग्रहम् एव च ।  
-कार्यं वीक्ष्य प्रयुञ्जीत  
-द्वैधं संश्रयम् एव च  ॥ ७.१६१ ॥ [१६२ मेधातिथिपाठे]
+161	Having carefully considered the business (in hand), let him resort to sitting quiet or marching, alliance or war, dividing his forces or seeking protection (as the case may require).

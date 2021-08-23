@@ -2,8 +2,4 @@
 title = "216 कामन् तु"
 
 +++
-
-कामं तु गुरुपत्नीनां  
-युवतीनां युवा भुवि ।  
-विधिवद् वन्दनं कुर्याद्  
-असाव् अहम् इति ब्रुवन्  ॥ २.२१६ ॥
+216	But at his pleasure a young student may prostrate himself on the ground before the young wife of a teacher, in accordance with the rule, and say, 'I, N. N., (worship thee, O lady).'

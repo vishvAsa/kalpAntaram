@@ -2,7 +2,4 @@
 title = "045 दश काम-समुत्थानि"
 
 +++
-दश काम-समुत्थानि  
-तथाष्टौ क्रोधजानि च ।  
-व्यसनानि दुर्-अन्तानि  
-प्रयत्नेन विवर्जयेत्  ॥ ७.४५ ॥
+045	Let him carefully shun the ten vices, springing from love of pleasure, and the eight, proceeding from wrath, which (all) end in misery.

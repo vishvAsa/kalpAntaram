@@ -2,7 +2,4 @@
 title = "311 निग्रहेण हि"
 
 +++
-निग्रहेण हि पापानां  
-साधूनां संग्रहेण च ।  
-द्विजातय इवेज्याभिः  
-पूयन्ते सततं नृपाः  ॥ ८.३११ ॥
+311	For by punishing the wicked and by favouring the virtuous, kings are constantly sanctified, just as twice-born men by sacrifices.

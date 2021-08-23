@@ -2,7 +2,4 @@
 title = "325 गोषु ब्राह्मणसंस्थासु"
 
 +++
-गोषु ब्राह्मणसंस्थासु  
-छुरिकायाश् च भेदने [मेधातिथिपाठः - खरिकायाश् च] ।  
-पशूनां हरणे चैव  
-सद्यः कार्यो ऽर्धपादिकः  ॥ ८.३२५ ॥
+325	For (stealing) cows belonging to Brahmanas, piercing (the nostrils of) a barren cow, and for stealing (other) cattle (belonging to Brahmanas, the offender) shall forthwith lose half his feet.

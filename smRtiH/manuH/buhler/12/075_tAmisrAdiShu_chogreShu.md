@@ -2,8 +2,4 @@
 title = "075 तामिस्रादिषु चोग्रेषु"
 
 +++
-
-तामिस्रादिषु चोग्रेषु  
-नरकेषु विवर्तनम् ।  
-असिपत्रवनादीनि  
-बन्धन-छेदनानि च  ॥ १२.७५ ॥
+075	(The torture of) being tossed about in dreadful hells, Tamisra and the rest, (that of) the Forest with sword-leaved trees and the like, and (that of) being bound and mangled;

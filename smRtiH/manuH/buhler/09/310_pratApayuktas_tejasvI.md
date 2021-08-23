@@ -2,7 +2,4 @@
 title = "310 प्रतापयुक्तस् तेजस्वी"
 
 +++
-प्रतापयुक्तस् तेजस्वी  
-नित्यं स्यात् पापकर्मसु ।  
-दुष्टसामन्तहिंस्रश् च  
-तद् आग्नेयं व्रतं स्मृतम्  ॥ ९.३१० ॥
+310	(If) he is ardent in wrath against criminals and endowed with brilliant energy, and destroys wicked vassals, then his character is said (to resemble) that of Fire.

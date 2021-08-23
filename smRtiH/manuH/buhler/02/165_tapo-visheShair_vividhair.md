@@ -2,8 +2,4 @@
 title = "165 तपो-विशेषैर् विविधैर्"
 
 +++
-
-तपो-विशेषैर् विविधैर्  
-व्रतैश् च विधिचोदितैः ।  
-वेदः कृत्स्नो ऽधिगन्तव्यः  
-स-रहस्यो द्विजन्मना  ॥ २.१६५ ॥
+165	An Aryan must study the whole Veda together with the Rahasyas, performing at the same time various kinds of austerities and the vows prescribed by the rules (of the Veda).

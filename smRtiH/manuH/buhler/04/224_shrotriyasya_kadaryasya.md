@@ -2,8 +2,4 @@
 title = "224 श्रोत्रियस्य कदर्यस्य"
 
 +++
-
-श्रोत्रियस्य कदर्यस्य  
-वदान्यस्य च वार्धुषेः ।  
-मीमांसित्वोभयं देवाः  
-समम् अन्नम् अकल्पयन्  ॥ ४.२२४ ॥ [२२५ मेधातिथिपाठे]  
+224	The gods, having considered (the respective merits) of a niggardly Srotriya and of a liberal usurer, declared the food of both to be equal (in quality).

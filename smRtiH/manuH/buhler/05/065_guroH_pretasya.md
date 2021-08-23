@@ -2,7 +2,4 @@
 title = "065 गुरोः प्रेतस्य"
 
 +++
-गुरोः प्रेतस्य शिष्यस् तु  
-पितृमेधं समाचरन् ।  
-प्रेतहारैः समं तत्र  
-दशरात्रेण शुध्यति [मेधातिथिपाठः - प्रेताहारैः]  ॥ ५.६५ ॥ [६४ मेधातिथिपाठे]
+065	A pupil who performs the Pitrimedha for his deceased teacher, becomes also pure after ten days, just like those who carry the corpse out (to the burial-ground).

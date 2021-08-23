@@ -2,7 +2,4 @@
 title = "228 उपनीय तु"
 
 +++
-उपनीय तु तत् सर्वं  
-शनकैः सुसमाहितः ।  
-परिवेषयेत प्रयतो  
-गुणान् सर्वान् प्रचोदयन्  ॥ ३.२२८ ॥ [२१८ मेधातिथिपाठे]
+228	All this he shall present (to his guests), being pure and attentive, successively invite them to partake of each (dish), proclaiming its qualities.

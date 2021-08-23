@@ -2,7 +2,4 @@
 title = "159 तान् सर्वान्"
 
 +++
-तान् सर्वान् अभिसन्दध्यात्  
-सामादिभिर् उपक्रमैः ।  
-व्यस्तैश् चैव समस्तैश् च  
-पौरुषेण नयेन च  ॥ ७.१५९ ॥ [१६० मेधातिथिपाठे]
+159	Let him overcome all of them by means of the (four) expedients, conciliation and the rest, (employed) either singly or conjointly, (or) by bravery and policy (alone).

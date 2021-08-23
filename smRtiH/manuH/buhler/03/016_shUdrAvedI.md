@@ -2,7 +2,4 @@
 title = "016 शूद्रावेदी "
 
 +++
-शूद्रावेदी +++(विवाहेन)+++ पतत्य् अत्रेर्  
-उतथ्यतनयस्य च +++(मते)+++।  
-शौनकस्य सुतोत्पत्त्या  
-तद्-अपत्यतया +++(अन्यापत्याभावे)+++ भृगोः +++(मते)+++ ॥ ३.१६ ॥
+016	According to Atri and to (Gautama) the son of Utathya, he who weds a Sudra woman becomes an outcast, according to Saunaka on the birth of a son, and according to Bhrigu he who has (male) offspring from a (Sudra female, alone).

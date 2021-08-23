@@ -2,8 +2,4 @@
 title = "011 यत् तत्"
 
 +++
-
-यत् तत् कारणम् अव्यक्तं  
-नित्यं सद्-असद्-आत्मकं ।  
-तद्-विसृष्टः स पुरुषो  
-लोके ब्रह्मेति कीर्त्यते  ॥ १.११ ॥
+011	From that (first) cause, which is indiscernible, eternal, and both real and unreal, was produced that male (Purusha), who is famed in this world (under the appellation of) Brahman.

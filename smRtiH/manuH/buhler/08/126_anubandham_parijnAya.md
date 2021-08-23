@@ -2,7 +2,4 @@
 title = "126 अनुबन्धम् परिज्ञाय"
 
 +++
-अनुबन्धं परिज्ञाय  
-देश-कालौ च तत्त्वतः ।  
-सारापराधो चालोक्य  
-दण्डं दण्ड्येषु पातयेत्  ॥ ८.१२६ ॥
+126	Let the (king), having fully ascertained the motive, the time and place (of the offence), and having considered the ability (of the criminal to suffer) and the (nature of the) crime, cause punishment to fall on those who deserve it.

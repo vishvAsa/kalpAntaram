@@ -2,7 +2,4 @@
 title = "018 जातो निषादाच्"
 
 +++
-जातो निषादाच् छूद्रायां  
-जात्या भवति पुक्कसः ।  
-शूद्राज् जातो निषाद्यां तु  
-स वै कुक्कुटकः स्मृतः  ॥ १०.१८ ॥
+018	The son of a Nishada by a Sudra female becomes a Pukkasa by caste (gati), but the son of a Sudra by a Nishada female is declared to be a Kukkutaka.

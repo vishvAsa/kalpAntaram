@@ -2,7 +2,4 @@
 title = "096 भिक्षाम् अप्य्"
 
 +++
-भिक्षाम् अप्य् उदपात्रं वा  
-सत्कृत्य विधिपूर्वकम् ।  
-वेदतत्त्वार्थविदुषे  
-ब्राह्मणायोपपादयेत्  ॥ ३.९६ ॥ [८६ मेधातिथिपाठे]
+096	Let him give, in accordance with the rule, to a Brahmana who knows the true meaning of the Veda, even (a small portion of food as) alms, or a pot full of water, having garnished (the food with seasoning, or the pot with flowers and fruit).

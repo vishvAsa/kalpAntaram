@@ -2,7 +2,4 @@
 title = "091 अदीयमाना भर्तारम्"
 
 +++
-अदीयमाना भर्तारम्  
-अधिगच्छेद् यदि स्वयम् ।  
-नैनः किं चिद् अवाप्नोति  
-न च यं साधिगच्छति  ॥ ९.९१ ॥
+091	If, being not given in marriage, she herself seeks a husband, she incurs no guilt, nor (does) he whom she weds.

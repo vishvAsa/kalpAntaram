@@ -2,7 +2,4 @@
 title = "144 कृष्टजानाम् ओषधीनाम्"
 
 +++
-कृष्टजानाम् ओषधीनां  
-जातानां च स्वयं वने ।  
-वृथालम्भे ऽनुगच्छेद् गां  
-दिनम् एकं पयो-व्रतः  ॥ ११.१४४ ॥ [१४३ मेधातिथिपाठे]
+145	If a man destroys for no good purpose plants produced by cultivation, or such as spontaneously spring up in the forest, he shall attend a cow during one day, subsisting on milk alone.

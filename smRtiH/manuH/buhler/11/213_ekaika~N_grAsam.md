@@ -2,7 +2,4 @@
 title = "213 एकैकङ् ग्रासम्"
 
 +++
-एकैकं ग्रासम् अश्नीयात्  
-त्र्यहाणि त्रीणि पूर्ववत् ।  
-त्र्यहं चोपवसेद् अन्त्यम्  
-अतिकृच्छ्रं चरन् द्विजः  ॥ ११.२१३ ॥ [२१२ मेधातिथिपाठे]
+214	A twice-born man who performs an Atikrikkhra (penance), must take his food during three periods of three days in the manner described above, (but) one mouthful only at each meal, and fast during the last three days.

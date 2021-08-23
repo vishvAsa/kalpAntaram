@@ -2,7 +2,4 @@
 title = "039 पुण्यान्य् अन्यानि"
 
 +++
-पुण्यान्य् अन्यानि कुर्वीत  
-श्रद्दधानो जितेन्द्रियः ।  
-न त्व् अल्प-दक्षिणैर् यज्ञैर्  
-यजेतेह कथं चन  ॥ ११.३९ ॥ [३८ मेधातिथिपाठे]
+039	Let him who has faith and controls his senses perform other meritorious acts, but let him on no account offer sacrifices at which he gives smaller fees (than those prescribed).

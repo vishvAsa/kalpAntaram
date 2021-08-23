@@ -2,7 +2,4 @@
 title = "089 आरण्यांश् च"
 
 +++
-आरण्यांश् च पशून् सर्वान्  
-दंष्ट्रिणश् च वयांसि च ।  
-मद्यं नीलिं च लाक्षां च  
-सर्वांश् चैक-शफांस् तथा [मेधातिथिपाठः - नीलीं]  ॥ १०.८९ ॥
+089	All beasts of the forest, animals with fangs or tusks, birds, spirituous liquor, indigo, lac, and all one-hoofed beasts.

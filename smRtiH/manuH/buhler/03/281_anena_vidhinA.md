@@ -2,7 +2,4 @@
 title = "281 अनेन विधिना"
 
 +++
-अनेन विधिना श्राद्धं  
-त्रिर् अब्दस्येह निर्वपेत् ।  
-हेमन्त-ग्रीष्म-वर्षासु  
-पाञ्चयज्ञिकम् अन्वहम्  ॥ ३.२८१ ॥ [२७१ मेधातिथिपाठे]
+281	Let him offer here below a funeral sacrifice, according to the rule given above, (at least) thrice a year, in winter, in summer, and in the rainy season, but that which is included among the five great sacrifices, every day.

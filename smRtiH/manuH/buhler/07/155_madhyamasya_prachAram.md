@@ -2,7 +2,4 @@
 title = "155 मध्यमस्य प्रचारम्"
 
 +++
-मध्यमस्य प्रचारं च  
-विजीगिषोश् च चेष्टितम् ।  
-उदासीनप्रचारं च  
-शत्रोश् चैव प्रयत्नतः  ॥ ७.१५५ ॥ [१५६ मेधातिथिपाठे]
+155	On the conduct of the middlemost (prince), on the doings of him who seeks conquest, on the behaviour of the neutral (king), and (on that) of the foe (let him) sedulously (meditate).

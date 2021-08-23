@@ -2,7 +2,4 @@
 title = "008 अनिर्दशाया गोः"
 
 +++
-अनिर्दशाया गोः क्षीरम्  
-औष्ट्रम् ऐकशफं तथा ।  
-आविकं सन्धिनी+++(उभयसन्ध्यक्षीरदात्रि)+++-क्षीरं  
-वि-वत्सायाश् च गोः पयः [मेधातिथिपाठः - सन्धिनीक्षीरं]  ॥ ५.८ ॥
+008	The milk of a cow (or other female animal) within ten days after her calving, that of camels, of one-hoofed animals, of sheep, of a cow in heat, or of one that has no calf with her,

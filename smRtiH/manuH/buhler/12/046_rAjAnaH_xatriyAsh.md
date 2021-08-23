@@ -2,8 +2,4 @@
 title = "046 राजानः क्षत्रियाश्"
 
 +++
-
-राजानः क्षत्रियाश् चैव  
-राज्ञां चैव पुरोहिताः ।  
-वाद-युद्ध-प्रधानाश् च  
-मध्यमा राजसी गतिः  ॥ १२.४६ ॥
+046	Kings and Kshatriyas, the domestic priests of kings, and those who delight in the warfare of disputations (constitute) the middling (rank of the) states caused by Activity.

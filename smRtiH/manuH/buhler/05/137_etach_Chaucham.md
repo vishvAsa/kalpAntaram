@@ -2,7 +2,4 @@
 title = "137 एतच् छौचम्"
 
 +++
-एतच् छौचं गृहस्थानां  
-द्विगुणं ब्रह्मचारिणाम् ।  
-त्रिगुणं स्याद् वनस्थानां  
-यतीनां तु चतुर्गुणम्  ॥ ५.१३७ ॥ [१३५ मेधातिथिपाठे]
+137	Such is the purification ordained for householders; (it shall be) double for students, treble for hermits, but quadruple for ascetics.

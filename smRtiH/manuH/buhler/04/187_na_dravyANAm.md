@@ -2,8 +2,4 @@
 title = "187 न द्रव्याणाम्"
 
 +++
-
-न द्रव्याणाम् अविज्ञाय  
-विधिं धर्म्यं प्रतिग्रहे ।  
-प्राज्ञः प्रतिग्रहं कुर्याद्  
-अवसीदन्न् अपि क्षुधा  ॥ ४.१८७ ॥  
+187	Without a full knowledge of the rules, prescribed by the sacred law for the acceptance of presents, a wise man should not take anything, even though he may pine with hunger.

@@ -2,8 +2,4 @@
 title = "179 द्यूतञ् च"
 
 +++
-
-द्यूतं च जनवादं च  
-परिवादं तथानृतम् ।  
-स्त्रीणां च प्रेक्षणालम्भम्  
-उपघातं परस्य च (मेधातिथिपाठः - -आलम्भाव्  ॥ २.१७९ ॥
+179	From gambling, idle disputes, backbiting, and lying, from looking at and touching women, and from hurting others.

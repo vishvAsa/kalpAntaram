@@ -2,8 +2,4 @@
 title = "122 अतिथिञ् चाऽननुज्ञाप्य"
 
 +++
-
-अतिथिं चाऽननुज्ञाप्य  
-मारुते वाति वा भृशम् ।  
-रुधिरे च स्रुते गात्राच्  
-छस्त्रेण च परिक्षते  ॥ ४.१२२ ॥+++(4)+++  
+122	Nor without receiving permission from a guest (who stays in his house), nor while the wind blows vehemently, nor while blood flows from his body, nor when he is wounded by a weapon.

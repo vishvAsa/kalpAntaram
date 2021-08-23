@@ -2,7 +2,4 @@
 title = "023 वैश्यात् तु"
 
 +++
-वैश्यात् तु जायते व्रात्यात्  
-सुधन्वाचार्य एव च ।  
-कारुषश् च विजन्मा च  
-मैत्रः सात्वत एव च  ॥ १०.२३ ॥
+023	From a Vratya (of the) Vaisya (caste) are born a Sudhanvan, an Akarya, a Karusha, a Viganman, a Maitra, and a Satvata.

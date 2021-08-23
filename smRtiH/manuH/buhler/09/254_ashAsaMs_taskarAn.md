@@ -2,7 +2,4 @@
 title = "254 अशासंस् तस्करान्"
 
 +++
-अशासंस् तस्करान् यस् तु  
-बलिं गृह्णाति पार्थिवः ।  
-तस्य प्रक्षुभ्यते राष्ट्रं  
-स्वर्गाच् च परिहीयते  ॥ ९.२५४ ॥
+254	The realm of that king who takes his share in kind, though he does not punish thieves, (will be) disturbed and he (will) lose heaven.

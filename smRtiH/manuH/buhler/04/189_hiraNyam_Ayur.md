@@ -2,8 +2,4 @@
 title = "189 हिरण्यम् आयुर्"
 
 +++
-
-हिरण्यम् आयुर् अन्नं च  
-भूर् गौश् चाऽप्य् ओषतस्+++(→ओषति = दहति)+++ तनुम् ।  
-अश्वश् चक्षुस् त्वचं वासो  
-घृतं तेजस् तिलाः प्रजाः  ॥ ४.१८९ ॥  
+189	Gold and food destroy his longevity, land and a cow his body, a horse his eye (sight), a garment his skin, clarified butter his energy, sesamum-grains his offspring.

@@ -2,7 +2,4 @@
 title = "116 वत्सस्य ह्य्"
 
 +++
-वत्सस्य ह्य् अभिशस्तस्य  
-पुरा भ्रात्रा यवीयसा ।  
-नाऽग्निर् ददाह रोमाऽपि  
-सत्येन जगतः स्पशः  ॥ ८.११६ ॥
+116	For formerly when Vatsa was accused by his younger brother, the fire, the spy of the world, burned not even a hair (of his) by reason of his veracity.

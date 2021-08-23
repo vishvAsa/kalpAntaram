@@ -2,7 +2,4 @@
 title = "024 उपस्पृशंस् त्रिषवणम्"
 
 +++
-उपस्पृशंस् त्रिषवणं  
-पितॄन् देवांश् च तर्पयेत् ।  
-तपश् चरंश् चोग्रतरं  
-शोषयेद् देहम् आत्मनः  ॥ ६.२४ ॥
+024	When he bathes at the three Savanas (sunrise, midday, and sunset), let him offer libations of water to the manes and the gods, and practising harsher and harsher austerities, let him dry up his bodily frame.

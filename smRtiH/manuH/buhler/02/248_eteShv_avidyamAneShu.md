@@ -2,8 +2,4 @@
 title = "248 एतेष्व् अविद्यमानेषु"
 
 +++
-
-एतेष्व् अविद्यमानेषु  
-स्थानासन-विहारवान् ।  
-प्रयुञ्जानो ऽग्निशुश्रूषां  
-साधयेद् देहम् आत्मनः  ॥ २.२४८ ॥
+248	Should none of these be alive, he must serve the sacred fire, standing (by day) and sitting (during the night), and thus finish his life.

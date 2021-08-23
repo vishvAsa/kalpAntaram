@@ -2,7 +2,4 @@
 title = "206 विद्याधनन् तु"
 
 +++
-विद्याधनं तु यद्य् अस्य  
-तत् तस्यैव धनं भवेत् ।  
-मैत्र्यम् औद्वाहिकं चैव  
-माधुपर्किकम् एव च  ॥ ९.२०६ ॥
+206	Property (acquired) by learning belongs solely to him to whom (it was given), likewise the gift of a friend, a present received on marriage or with the honey-mixture.

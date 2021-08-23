@@ -2,8 +2,4 @@
 title = "147 कामान् माता"
 
 +++
-
-कामान् माता पिता चैनं  
-यद् उत्पादयतो मिथः ।  
-सम्भूतिं तस्य तां विद्याद्  
-यद् योनाव् अभिजायते  ॥ २.१४७ ॥
+147	Let him consider that (he received) a (mere animal) existence, when his parents begat him through mutual affection, and when he was born from the womb (of his mother).

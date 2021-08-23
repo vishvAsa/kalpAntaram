@@ -2,7 +2,4 @@
 title = "061 यथेदं शावम्"
 
 +++
-यथेदं शावम् आशौचं  
-सपिण्डेषु विधीयते [Not in M] ।  
-जनने ऽप्य् एवम् एव स्यान्  
-निपुणं शुद्धिम् इच्छताम् [Not in M]  ॥ ५.६१ ॥+++(4)+++
+061	As this impurity on account of a death is prescribed for (all) Sapindas, even so it shall be (held) on a birth by those who desire to be absolutely pure.

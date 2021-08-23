@@ -2,8 +2,4 @@
 title = "020 एतद् देशप्रसूतस्य"
 
 +++
-
-एतद् देशप्रसूतस्य  
-सकाशाद् अग्रजन्मनः ।  
-स्वं स्वं चरित्रं शिक्षेरन्  
-पृथिव्यां सर्वमानवाः  ॥ २.२० ॥
+020	From a Brahmana, born in that country, let all men on earth learn their several usages.

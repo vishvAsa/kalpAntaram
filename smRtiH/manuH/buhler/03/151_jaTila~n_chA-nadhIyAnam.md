@@ -2,7 +2,4 @@
 title = "151 जटिलञ् चाऽनधीयानम्"
 
 +++
-जटिलं चाऽनधीयानं  
-दुर्बालं कितवं तथा ।  
-याजयन्ति च ये पूगांस्  
-तांश् च श्राद्धे न भोजयेत्  ॥ ३.१५१ ॥ [१४१ मेधातिथिपाठे]
+151	Let him not entertain at a Sraddha one who wears his hair in braids (a student), one who has not studied (the Veda), one afflicted with a skin-disease, a gambler, nor those who sacrifice for a multitude (of sacrificers).

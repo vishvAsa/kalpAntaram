@@ -2,7 +2,4 @@
 title = "152 परस्परविरुद्धानान् तेषाम्"
 
 +++
-परस्परविरुद्धानां  
-तेषां च समुपार्जनम् ।  
-कन्यानां सम्प्रदानं च  
-कुमाराणां च रक्षणं  ॥ ७.१५२ ॥ [१५३ मेधातिथिपाठे]
+152	On (reconciling) the attainment of these (aims) which are opposed to each other, on bestowing his daughters in marriage, and on keeping his sons (from harm),

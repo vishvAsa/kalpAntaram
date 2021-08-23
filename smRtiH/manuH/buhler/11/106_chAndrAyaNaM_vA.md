@@ -2,7 +2,4 @@
 title = "106 चान्द्रायणं वा"
 
 +++
-चान्द्रायणं वा त्रीन् मासान्  
-अभ्यस्येन् नियतेन्द्रियः ।  
-हविष्येण यवाग्वा वा  
-गुरुतल्पापनुत्तये  ॥ ११.१०६ ॥ [१०५ मेधातिथिपाठे]
+107	Or, controlling his organs, he may during three months continuously perform the lunar penance, (subsisting) on sacrificial food or barley-gruel, in order to remove (the guilt of) violating a Guru's bed.

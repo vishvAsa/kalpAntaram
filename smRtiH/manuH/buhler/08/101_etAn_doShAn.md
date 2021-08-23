@@ -2,7 +2,4 @@
 title = "101 एतान् दोषान्"
 
 +++
-एतान् दोषान् अवेक्ष्य त्वं  
-सर्वान् अनृतभाषणे ।  
-यथाश्रुतं यथादृष्टं  
-सर्वम् एवाऽञ्जसा वद  ॥ ८.१०१ ॥
+101	'Marking well all the evils (which are produced) by perjury, declare thou openly everything as (thou hast) heard or seen (it).'

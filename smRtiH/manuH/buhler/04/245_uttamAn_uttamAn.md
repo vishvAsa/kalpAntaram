@@ -2,8 +2,4 @@
 title = "245 उत्तमान् उत्तमान्"
 
 +++
-
-उत्तमान् उत्तमान् एव  
-गच्छन् हीनांस् तु वर्जयन् ।  
-ब्राह्मणः श्रेष्ठताम् एति  
-प्रत्यवायेन शूद्रताम्  ॥ ४.२४५ ॥ [२४६ मेधातिथिपाठे]  
+245	A Brahmana who always connects himself with the most excellent (ones), and shuns all inferior ones, (himself) becomes most distinguished; by an opposite conduct he becomes a Sudra.

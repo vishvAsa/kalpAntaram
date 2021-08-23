@@ -2,7 +2,4 @@
 title = "055 अपि यत्"
 
 +++
-अपि यत् सुकरं कर्म  
-तद् अप्य् एकेन दुष्करम् ।  
-विशेषतो ऽसहायेन  
-किं तु राज्यं महोदयम् [मेधातिथिपाठः - किं नु]  ॥ ७.५५ ॥
+055	Even an undertaking easy (in itself) is (sometimes) hard to be accomplished by a single man; how much (harder is it for a king), especially (if he has) no assistant, (to govern) a kingdom which yields great revenues.

@@ -2,8 +2,4 @@
 title = "157 दुर्-आचारो हि"
 
 +++
-
-दुर्-आचारो हि पुरुषो  
-लोके भवति निन्दितः ।  
-दुःखभागी च सततं  
-व्याधितो ऽल्पायुर् एव च  ॥ ४.१५७ ॥  
+157	For a man of bad conduct is blamed among people, constantly suffers misfortunes, is afflicted with diseases, and short-lived.

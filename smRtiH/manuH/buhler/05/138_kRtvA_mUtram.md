@@ -2,7 +2,4 @@
 title = "138 कृत्वा मूत्रम्"
 
 +++
-कृत्वा मूत्रं पुरीषं वा  
-खान्य् आचान्त उपस्पृशेत् ।  
-वेदम् अध्येष्यमाणश् च  
-अन्नम् अश्नंश् च सर्वदा  ॥ ५.१३८ ॥ [१३६ मेधातिथिपाठे]
+138	When he has voided urine or faeces, let him, after sipping water, sprinkle the cavities, likewise when he is going to recite the Veda, and always before he takes food.

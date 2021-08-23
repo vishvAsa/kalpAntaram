@@ -2,7 +2,4 @@
 title = "001 श्रुत्वैतान् ऋषयो"
 
 +++
-श्रुत्वैतान् ऋषयो धर्मान्  
-स्नातकस्य यथोदितान् ।  
-इदम् ऊचुर् महात्मानम्  
-अनल-प्रभवं भृगुम्  ॥ ५.१ ॥
+001	The sages, having heard the duties of a Snataka thus declared, spoke to great-souled Bhrigu, who sprang from fire:

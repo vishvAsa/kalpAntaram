@@ -2,7 +2,4 @@
 title = "005 लशुनङ् गृञ्जनम्"
 
 +++
-लशुनं गृञ्जनं+++(=रक्तलशुनं)+++ चैव  
-पलाण्डुं +++(छत्राकार-)+++कवकानि+++(=mushroom)+++ च ।  
-अभक्ष्याणि द्विजातीनाम्  
-अमेध्य-प्रभवानि च  ॥ ५.५ ॥
+005	Garlic, leeks and onions, mushrooms and (all plants), springing from impure (substances), are unfit to be eaten by twice-born men.

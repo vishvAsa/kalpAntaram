@@ -2,7 +2,4 @@
 title = "281 यस् तु"
 
 +++
-यस् तु पूर्वनिविष्टस्य  
-तडागस्योदकं हरेत् ।  
-आगमं वाप्य् अपां भिन्द्यात्  
-स दाप्यः पूर्वसाहसम्  ॥ ९.२८१ ॥
+281	But he who shall take away the water of a tank, made in ancient times, or shall cut off the supply of water, must be made to pay the first (or lowest) amercement.

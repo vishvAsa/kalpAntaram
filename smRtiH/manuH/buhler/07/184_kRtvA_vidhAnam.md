@@ -2,7 +2,4 @@
 title = "184 कृत्वा विधानम्"
 
 +++
-कृत्वा विधानं मूले तु  
-यात्रिकं च यथाविधि ।  
-उपगृह्यास्पदं चैव  
-चारान् सम्यग् विधाय च  ॥ ७.१८४ ॥ [१८५ मेधातिथिपाठे]
+184	But having duly arranged (all affairs) in his original (kingdom) and what relates to the expedition, having secured a basis (for his operations) and having duly dispatched his spies;

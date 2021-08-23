@@ -2,7 +2,4 @@
 title = "051 न कन्यायाः"
 
 +++
-न कन्यायाः पिता विद्वान्  
-गृह्णीयाच् छुल्कम् अण्व् अपि ।  
-गृह्णञ् शुल्कं हि लोभेन  
-स्यान् नरो ऽपत्यविक्रयी  ॥ ३.५१ ॥
+051	No father who knows (the law) must take even the smallest gratuity for his daughter; for a man who, through avarice, takes a gratuity, is a seller of his offspring.

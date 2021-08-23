@@ -2,7 +2,4 @@
 title = "101 वैश्यवृत्तिम् अनातिष्ठन्"
 
 +++
-वैश्यवृत्तिम् अनातिष्ठन्  
-ब्राह्मणः स्वे पथि स्थितः ।  
-अवृत्तिकर्षितः सीदन्न्  
-इमं धर्मं समाचरेत्  ॥ १०.१०१ ॥
+101	A Brahmana who is distressed through a want of means of subsistence and pines (with hunger), (but) unwilling to adopt a Vaisya's mode of life and resolved to follow his own (prescribed) path, may act in the following manner.

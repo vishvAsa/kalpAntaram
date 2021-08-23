@@ -2,7 +2,4 @@
 title = "408 यन् नावि"
 
 +++
-यन् नावि किं चिद् दाशानां  
-विशीर्येताऽपराधतः ।  
-तद् दाशैर् एव दातव्यं  
-समागम्य स्वतो ऽंशतः  ॥ ८.४०८ ॥
+408	Whatever may be damaged in a boat by the fault of the boatmen, that shall be made good by the boatmen collectively, (each paying) his share.

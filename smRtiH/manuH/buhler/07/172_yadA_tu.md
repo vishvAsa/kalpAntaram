@@ -2,7 +2,4 @@
 title = "172 यदा तु"
 
 +++
-यदा तु स्यात् परिक्षीणो  
-वाहनेन बलेन च ।  
-तदासीत प्रयत्नेन  
-शनकैः सान्त्वयन्न् अरीन्  ॥ ७.१७२ ॥ [१७३ मेधातिथिपाठे]
+172	But if he is very weak in chariots and beasts of burden and in troops, then let him carefully sit quiet, gradually conciliating his foes.

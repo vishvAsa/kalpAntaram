@@ -2,7 +2,4 @@
 title = "260 एवमादीन् विजानीयात्"
 
 +++
-एवमादीन् विजानीयात्  
-प्रकाशांल् लोककण्टकान् [मेधातिथिपाठः - एवमाद्यान्] ।  
-निगूढचारिणश् चाऽन्यान्  
-अनार्यान् आर्यलिङ्गिनः  ॥ ९.२६० ॥
+260	These and the like who show themselves openly, as well as others who walk in disguise (such as) non-Aryans who wear the marks of Aryans, he should know to be thorns (in the side of his people).

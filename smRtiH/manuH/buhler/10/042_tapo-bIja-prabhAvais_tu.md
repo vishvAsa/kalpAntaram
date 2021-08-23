@@ -2,7 +2,4 @@
 title = "042 तपो-बीज-प्रभावैस् तु"
 
 +++
-तपो-बीज-प्रभावैस् तु  
-ते गच्छन्ति युगे युगे ।  
-उत्कर्षं चाऽपकर्षं च  
-मनुष्येष्व् इह जन्मतः  ॥ १०.४२ ॥
+042	By the power of austerities and of the seed (from which they sprang), these (races) obtain here among men more exalted or lower rank in successive births.

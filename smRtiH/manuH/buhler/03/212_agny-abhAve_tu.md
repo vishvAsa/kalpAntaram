@@ -2,7 +2,4 @@
 title = "212 अग्न्य्-अभावे तु"
 
 +++
-अग्न्य्-अभावे तु विप्रस्य  
-पाणाव् एवोपपादयेत् ।  
-यो ह्य् अग्निः स द्विजो विप्रैर्  
-मन्त्रदर्शिभिर् उच्यते  ॥ ३.२१२ ॥ [२०२ मेधातिथिपाठे]
+212	But if no (sacred) fire (is available), he shall place (the offerings) into the hand of a Brahmana; for Brahmanas who know the sacred texts declare, 'What fire is, even such is a Brahmana.'

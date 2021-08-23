@@ -2,7 +2,4 @@
 title = "028 प्राणस्याऽन्नम् इदम्"
 
 +++
-प्राणस्याऽन्नम् इदं सर्वं  
-प्रजापतिर् अकल्पयत् ।  
-स्थावरं जङ्गमं चैव  
-सर्वं प्राणस्य भोजनम्  ॥ ५.२८ ॥+++(5)+++
+028	The Lord of creatures (Pragapati) created this whole (world to be) the sustenance of the vital spirit; both the immovable and the movable (creation is) the food of the vital spirit.

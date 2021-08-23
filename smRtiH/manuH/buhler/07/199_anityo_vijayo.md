@@ -2,7 +2,4 @@
 title = "199 अनित्यो विजयो"
 
 +++
-अनित्यो विजयो यस्माद्  
-दृश्यते युध्यमानयोः ।  
-पराजयश् च सङ्ग्रामे  
-तस्माद् युद्धं विवर्जयेत्  ॥ ७.१९९ ॥ [२०० मेधातिथिपाठे]
+199	For when two (princes) fight, victory and defeat in the battle are, as experience teaches, uncertain; let him therefore avoid an engagement.

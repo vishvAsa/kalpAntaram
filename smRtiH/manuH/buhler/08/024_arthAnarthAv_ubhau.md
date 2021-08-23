@@ -2,7 +2,4 @@
 title = "024 अर्थानर्थाव् उभौ"
 
 +++
-अर्थानर्थाव् उभौ बुद्ध्वा  
-धर्माधर्मौ च केवलौ ।  
-वर्णक्रमेण सर्वाणि  
-पश्येत् कार्याणि कार्यिणाम्  ॥ ८.२४ ॥
+024	Knowing what is expedient or inexpedient, what is pure justice or injustice, let him examine the causes of suitors according to the order of the castes (varna).

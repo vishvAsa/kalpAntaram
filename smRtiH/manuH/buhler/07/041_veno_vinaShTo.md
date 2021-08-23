@@ -2,7 +2,4 @@
 title = "041 वेनो विनष्टो"
 
 +++
-वेनो विनष्टो ऽविनयान्  
-नहुषश् चैव पार्थिवः ।  
-सुदाः पैजवनश् चैव  
-सुमुखो निमिर् एव च  ॥ ७.४१ ॥
+041	Through a want of humility Vena perished, likewise king Nahusha, Sudas, the son of Pigavana, Sumukha, and Nemi.

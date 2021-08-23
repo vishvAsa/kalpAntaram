@@ -2,7 +2,4 @@
 title = "104 जीवितात्ययम् आपन्नो"
 
 +++
-जीवितात्ययम् आपन्नो  
-यो ऽन्नम् अत्ति ततस् ततः ।  
-आकाशम् इव पङ्केन  
-न स पापेन लिप्यते  ॥ १०.१०४ ॥
+104	He who, when in danger of losing his life, accepts food from any person whatsoever, is no more tainted by sin than the sky by mud.

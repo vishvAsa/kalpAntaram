@@ -2,7 +2,4 @@
 title = "174 क्रीणीयाद् यस्"
 
 +++
-क्रीणीयाद् यस् त्व् अपत्यार्थं  
-माता-पित्रोर् यम् अन्तिकात् ।  
-स क्रीतकः सुतस् तस्य  
-सदृशो ऽसदृशो ऽपि वा  ॥ ९.१७४ ॥
+174	If a man buys a (boy), whether equal or unequal (in good qualities), from his father and mother for the sake of having a son, that (child) is called a (son) bought (Kritaka).

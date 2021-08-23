@@ -2,7 +2,4 @@
 title = "124 ज्येष्ठस् तु"
 
 +++
-ज्येष्ठस् तु जातो ज्येष्ठायां  
-हरेद् वृषभ-षोडशाः ।  
-ततः स्वमातृतः शेषा  
-भजेरन्न् इति धारणा  ॥ ९.१२४ ॥
+124	But the eldest (son, being) born of the eldest wife, shall receive fifteen cows and a bull, the other sons may then take shares according to (the seniority of) their mothers; that is a settled rule.

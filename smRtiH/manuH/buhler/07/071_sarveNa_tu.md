@@ -2,7 +2,4 @@
 title = "071 सर्वेण तु"
 
 +++
-सर्वेण तु प्रयत्नेन  
-गिरिदुर्गं समाश्रयेत् ।  
-एषां हि बाहुगुण्येन  
-गिरिदुर्गं विशिष्यते  ॥ ७.७१ ॥
+071	Let him make every effort to secure a hill-fort, for amongst all those (fortresses mentioned) a hill-fort is distinguished by many superior qualities.

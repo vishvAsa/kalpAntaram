@@ -2,7 +2,4 @@
 title = "207 दक्षिणासु च"
 
 +++
-दक्षिणासु च दत्तासु  
-स्वकर्म परिहापयन् ।  
-कृत्स्नम् एव लभेताऽंशम्  
-अन्येनैव च कारयेत्  ॥ ८.२०७ ॥
+207	But he who abandons his work after the sacrificial fees have been given, shall obtain his full share and cause to be performed (what remains) by another (priest).

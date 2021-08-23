@@ -2,7 +2,4 @@
 title = "087 सर्वञ् च"
 
 +++
-सर्वं च तान्तवं रक्तं  
-शाण-क्षौमाविकानि च ।  
-अपि चेत् स्युर् अरक्तानि  
-फल-मूले तथौषधीः  ॥ १०.८७ ॥
+087	All dyed cloth, as well as cloth made of hemp, or flax, or wool, even though they be not dyed, fruit, roots, and (medical) herbs

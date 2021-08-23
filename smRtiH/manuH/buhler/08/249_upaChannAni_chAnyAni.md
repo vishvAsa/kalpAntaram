@@ -2,7 +2,4 @@
 title = "249 उपछन्नानि चान्यानि"
 
 +++
-उपछन्नानि चान्यानि  
-सीमालिङ्गानि कारयेत् ।  
-सीमाज्ञाने नृणां वीक्ष्य  
-नित्यं लोके विपर्ययम्  ॥ ८.२४९ ॥
+249	And as he will see that through men's ignorance of the boundaries trespasses constantly occur in the world, let him cause to be made other hidden marks for boundaries,

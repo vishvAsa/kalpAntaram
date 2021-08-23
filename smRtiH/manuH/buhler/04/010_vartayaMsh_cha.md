@@ -2,8 +2,4 @@
 title = "010 वर्तयंश् च"
 
 +++
-
-वर्तयंश् च शिलोञ्छाभ्याम्  
-अग्निहोत्र-परायणः ।  
-+++(समृद्धिसङ्कोचात्)+++ इष्टीः पार्वायणान्तीयाः  
-केवला निर्वपेत् सदा  ॥ ४.१० ॥  
+010	He who maintains himself by picking up grains and ears of corn, must be always intent on (the performance of) the Agnihotra, and constantly offer those Ishtis only, which are prescribed for the days of the conjunction and opposition (of the moon), and for the solstices.

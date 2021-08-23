@@ -2,7 +2,4 @@
 title = "319 यस् तु"
 
 +++
-यस् तु रज्जुं घटं कूपाद्  
-धरेद् भिन्द्याच् च यः प्रपाम् ।  
-स दण्डं प्राप्नुयान् माषं  
-तच् च तस्मिन् समाहरेत्  ॥ ८.३१९ ॥
+319	He who steals the rope or the water-pot from a well, or damages a hut where water is distributed, shall pay one masha as a fine and restore the (article abstracted or damaged) in its (proper place).

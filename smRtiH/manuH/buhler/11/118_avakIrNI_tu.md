@@ -2,7 +2,4 @@
 title = "118 अवकीर्णी तु"
 
 +++
-अवकीर्णी तु काणेन  
-गर्दभेन चतुष्पथे ।  
-पाकयज्ञविधानेन  
-यजेत निरृतिं निशि  ॥ ११.११८ ॥ [११७ मेधातिथिपाठे]
+119	But a student who has broken his vow shall offer at night on a crossway to Nirriti a one-eyed ass, according to the rule of the Pakayagnas.

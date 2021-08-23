@@ -2,7 +2,4 @@
 title = "066 रात्रिभिर् मास-तुल्याभिर्"
 
 +++
-रात्रिभिर् मास-तुल्याभिर्  
-गर्भस्रावे विशुध्यति +++(स्त्रीः)+++ ।  
-रजस्य् उपरते साध्वी  
-स्नानेन स्त्री रजस्वला +++(शुध्यति)+++ ॥ ५.६६ ॥ [६५ मेधातिथिपाठे]
+066	(A woman) is purified on a miscarriage in as many (days and) nights as months (elapsed after conception), and a menstruating female becomes pure by bathing after the menstrual secretion has ceased (to flow).

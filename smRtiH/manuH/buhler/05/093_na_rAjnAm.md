@@ -2,7 +2,4 @@
 title = "093 न राज्ञाम्"
 
 +++
-न राज्ञाम् अघदोषो ऽस्ति  
-व्रतिनां न च सत्त्रिणाम् ।  
-ऐन्द्रं स्थानम् उपासीना  
-ब्रह्मभूता हि ते सदा  ॥ ५.९३ ॥ [९२ मेधातिथिपाठे]
+093	The taint of impurity does not fall on kings, and those engaged in the performance of a vow, or of a Sattra; for the (first are) seated on the throne of Indra, and the (last two are) ever pure like Brahman.

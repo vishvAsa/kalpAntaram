@@ -2,8 +2,4 @@
 title = "112 ऋग्वेदविद् यजुर्विच्"
 
 +++
-
-ऋग्वेदविद् यजुर्विच् च  
-सामवेदविद् एव च ।  
-त्र्य्-अवरा परिषज् ज्ञेया  
-धर्मसंशयनिर्णये  ॥ १२.११२ ॥
+112	One who knows the Rig-veda, one who knows the Yagur-veda, and one who knows the Sama-veda, shall be known (to form) an assembly consisting of at least three members (and competent) to decide doubtful points of law.

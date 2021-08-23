@@ -2,7 +2,4 @@
 title = "246 यथैधस् तेजसा"
 
 +++
-यथैधस् तेजसा वह्निः  
-प्राप्तं निर्दहति क्षणात् ।  
-तथा ज्ञानाग्निना पापं  
-सर्वं दहति वेदवित्  ॥ ११.२४६ ॥ [२४५ मेधातिथिपाठे]
+247	As a fire in one moment consumes with its bright flame the fuel that has been placed on it, even so he who knows the Veda destroys all guilt by the fire of knowledge.

@@ -2,7 +2,4 @@
 title = "095 सन्न्यस्य सर्वकर्माणि"
 
 +++
-सन्न्यस्य सर्वकर्माणि  
-कर्मदोषान् अपानुदन् ।  
-नियतो वेदम् अभ्यस्य  
-पुत्रैश्वर्ये सुखं वसेत्  ॥ ६.९५ ॥
+095	Having given up (the performance of) all rites, throwing off the guilt of his (sinful) acts, subduing his organs and having studied the Veda, he may live at his ease under the protection of his son.

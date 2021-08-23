@@ -2,7 +2,4 @@
 title = "117 देवान् ऋषीन्"
 
 +++
-देवान् ऋषीन् मनुष्यांश् च  
-पितॄन् गृह्याश् च देवताः ।  
-पूजयित्वा ततः पश्चाद्  
-गृहस्थः शेषभुग् भवेत्  ॥ ३.११७ ॥ [१०७ मेधातिथिपाठे]
+117	Having honoured the gods, the sages, men, the manes, and the guardian deities of the house, the householder shall eat afterwards what remains.

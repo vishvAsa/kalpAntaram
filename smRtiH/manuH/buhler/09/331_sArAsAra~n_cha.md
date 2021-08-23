@@ -2,7 +2,4 @@
 title = "331 सारासारञ् च"
 
 +++
-सारासारं च भाण्डानां  
-देशानां च गुणागुणान् ।  
-लाभालाभं च पण्यानां  
-पशूनां परिवर्धनम्  ॥ ९.३३१ ॥
+331	Moreover, the excellence and defects of commodities, the advantages and disadvantages of (different) countries, the (probable) profit and loss on merchandise, and the means of properly rearing cattle.

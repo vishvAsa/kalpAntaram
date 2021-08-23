@@ -2,7 +2,4 @@
 title = "062 व्रात्यता बान्धवत्यागो"
 
 +++
-व्रात्यता बान्धवत्यागो  
-भृत्याध्यापनम् एव च ।  
-भृत्या चाऽध्ययनादानम्  
-अपण्यानां च विक्रयः [मेधातिथिपाठः - भृताच् चाऽध्ययनादानम्]  ॥ ११.६२ ॥ [६१ मेधातिथिपाठे]
+063	Living as a Vratya, casting off a relative, teaching (the Veda) for wages, learning (the Veda) from a paid teacher, and selling goods which one ought not to sell,

@@ -2,7 +2,4 @@
 title = "204 अन्याञ् चेद्"
 
 +++
-अन्यां चेद् दर्शयित्वान्या  
-वोढुः कन्या प्रदीयते ।  
-उभे त एकशुल्केन  
-वहेद् इत्य् अब्रवीन् मनुः  ॥ ८.२०४ ॥
+204	If, after one damsel has been shown, another be given to the bridegroom, he may marry them both for the same price; that Manu ordained.

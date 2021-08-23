@@ -2,7 +2,4 @@
 title = "036 कारावरो निषादात्"
 
 +++
-कारावरो निषादात् तु  
-चर्मकारः प्रसूयते [मेधातिथिपाठः - चर्मकारं] ।  
-वैदेहिकाद् अन्ध्र-मेदौ  
-बहिर्ग्राम-प्रतिश्रयौ  ॥ १०.३६ ॥
+036	From a Nishada springs (by a woman of the Vaideha caste) a Karavara, who works in leather; and from a Vaidehaka (by women of the Karavara and Nishada castes), an Andhra and a Meda, who dwell outside the village.

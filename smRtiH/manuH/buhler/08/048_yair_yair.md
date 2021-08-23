@@ -2,7 +2,4 @@
 title = "048 यैर् यैर्"
 
 +++
-यैर् यैर् उपायैर् अर्थं स्वं  
-प्राप्नुयाद् उत्तमर्णिकः ।  
-तैर् तैर् उपायैः सङ्गृह्य  
-दापयेद् अधमर्णिकम्  ॥ ८.४८ ॥
+048	By whatever means a creditor may be able to obtain possession of his property, even by those means may he force the debtor and make him pay.

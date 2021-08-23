@@ -2,8 +2,4 @@
 title = "209 उत्सादनञ् च"
 
 +++
-
-उत्सादनं च गात्राणां  
-स्नापनोच्छिष्टभोजने ।  
-न कुर्याद् गुरुपुत्रस्य  
-पादयोश् चाऽवनेजनम्  ॥ २.२०९ ॥
+209	(A student) must not shampoo the limbs of his teacher's son, nor assist him in bathing, nor eat the fragments of his food, nor wash his feet.

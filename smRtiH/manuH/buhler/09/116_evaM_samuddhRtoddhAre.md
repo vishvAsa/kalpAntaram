@@ -2,7 +2,4 @@
 title = "116 एवं समुद्धृतोद्धारे"
 
 +++
-एवं समुद्धृतोद्धारे  
-समान् अंशान् प्रकल्पयेत् ।  
-उद्धारे ऽनुद्धृते त्व् एषाम्  
-इयं स्याद् अंशकल्पना  ॥ ९.११६ ॥
+116	If additional shares are thus deducted, one must allot equal shares (out of the residue to each); but if no deduction is made, the allotment of the shares among them shall be (made) in the following manner.

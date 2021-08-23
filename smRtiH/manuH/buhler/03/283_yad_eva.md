@@ -2,7 +2,4 @@
 title = "283 यद् एव"
 
 +++
-यद् एव तर्पयत्य् अद्भिः  
-पितॄन् स्नात्वा द्विजोत्तमः ।  
-तेनैव कृत्स्नम् आप्नोति  
-पितृयज्ञक्रियाफलम्  ॥ ३.२८३ ॥ [२७३ मेधातिथिपाठे]
+283	Even when a Brahmana, after bathing, satisfies the manes with water, he obtains thereby the whole reward for the performance of the (daily) Sraddha.

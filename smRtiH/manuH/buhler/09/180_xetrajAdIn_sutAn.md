@@ -2,7 +2,4 @@
 title = "180 क्षेत्रजादीन् सुतान्"
 
 +++
-क्षेत्रजादीन् सुतान् एतान्  
-एकादश यथोदितान् ।  
-पुत्रप्रतिनिधीन् आहुः  
-क्रियालोपान् मनीषिणः  ॥ ९.१८० ॥
+180	These eleven, the son begotten on the wife and the rest as enumerated (above), the wise call substitutes for a son, (taken) in order (to prevent) a failure of the (funeral) ceremonies.

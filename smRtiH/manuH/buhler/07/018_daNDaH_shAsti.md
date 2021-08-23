@@ -2,7 +2,4 @@
 title = "018 दण्डः शास्ति"
 
 +++
-दण्डः शास्ति प्रजाः सर्वा  
-दण्ड एवाऽभिरक्षति ।  
-दण्डः सुप्तेषु जागर्ति  
-दण्डं धर्मं विदुर् बुधाः  ॥ ७.१८ ॥
+018	Punishment alone governs all created beings, punishment alone protects them, punishment watches over them while they sleep; the wise declare punishment (to be identical with) the law.

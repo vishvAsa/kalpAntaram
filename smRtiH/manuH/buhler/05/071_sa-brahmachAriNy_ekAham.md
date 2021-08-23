@@ -2,7 +2,4 @@
 title = "071 स-ब्रह्मचारिण्य् एकाहम्"
 
 +++
-स-ब्रह्मचारिण्य् एकाहम्  
-अतीते क्षपणं स्मृतम् ।  
-जन्मन्य् एकोदकानां तु  
-त्रिरात्राच् छुद्धिर् इष्यते  ॥ ५.७१ ॥ [७० मेधातिथिपाठे]
+071	If a fellow-student has died, the Smriti prescribes an impurity of one day; on a birth the purification of the Samanodakas is declared (to take place) after three (days and) nights.

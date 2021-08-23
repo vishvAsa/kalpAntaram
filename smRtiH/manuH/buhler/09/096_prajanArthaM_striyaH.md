@@ -2,7 +2,4 @@
 title = "096 प्रजनार्थं स्त्रियः"
 
 +++
-प्रजनार्थं स्त्रियः सृष्टाः  
-संतानार्थं च मानवः ।  
-तस्मात् साधारणो धर्मः  
-श्रुतौ पत्न्या सहोदितः  ॥ ९.९६ ॥
+096	To be mothers were women created, and to be fathers men; religious rites, therefore, are ordained in the Veda to be performed (by the husband) together with the wife.

@@ -2,7 +2,4 @@
 title = "007 यद्-भक्ष्यं स्याद्"
 
 +++
-यद्-भक्ष्यं स्याद् ततो दद्याद्  
-बलिं भिक्षां च शक्तितः [मेधातिथिपाठः - यद्भक्षः] ।  
-अम्-मूल-फल-भिक्षाभिर्  
-अर्चयेद् आश्रमागतान् [म्:आश्रमागतम्]  ॥ ६.७ ॥
+007	Let him perform the Bali-offering with such food as he eats, and give alms according to his ability; let him honour those who come to his hermitage with alms consisting of water, roots, and fruit.

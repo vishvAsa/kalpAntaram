@@ -2,8 +2,4 @@
 title = "192 न वार्य्"
 
 +++
-
-न वार्य् अपि प्रयच्छेत् तु  
-बैडाल-व्रतिके द्विजे ।  
-न बकव्रतिके पापे  
-नाऽवेदविदि धर्मवित् ॥ ४.१९२ ॥  
+192	(A man) who knows the law should not offer even water to a Brahmana who acts like a cat, nor to a Brahmana who acts like a heron, nor to one who is unacquainted with the Veda.

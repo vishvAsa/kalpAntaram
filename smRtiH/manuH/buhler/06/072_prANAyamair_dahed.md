@@ -2,7 +2,4 @@
 title = "072 प्राणायमैर् दहेद्"
 
 +++
-प्राणायमैर् दहेद् दोषान्  
-धारणाभिश् च किल्बिषम् ।  
-प्रत्याहारेण संसर्गान्  
-ध्यानेनाऽनीश्वरान् गुणान्  ॥ ६.७२ ॥
+072	Let him destroy the taints through suppressions of the breath, (the production of) sin by fixed attention, all sensual attachments by restraining (his senses and organs), and all qualities that are not lordly by meditation.

@@ -2,7 +2,4 @@
 title = "002 ब्राह्मम् प्राप्तेन"
 
 +++
-ब्राह्मं प्राप्तेन संस्कारं  
-क्षत्रियेण यथाविधि ।  
-सर्वस्याऽस्य यथान्यायं  
-कर्तव्यं परिरक्षणम्  ॥ ७.२ ॥
+002	A Kshatriya, who has received according to the rule the sacrament prescribed by the Veda, must duly protect this whole (world).

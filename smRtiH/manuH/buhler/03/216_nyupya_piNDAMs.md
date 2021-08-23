@@ -2,7 +2,4 @@
 title = "216 न्युप्य पिण्डांस्"
 
 +++
-न्युप्य पिण्डांस् ततस् तांस् तु  
-प्रयतो विधिपूर्वकम् ।  
-तेषु दर्भेषु तं हस्तं  
-निर्मृज्याल् लेपभागिनाम्  ॥ ३.२१६ ॥ [२०६ मेधातिथिपाठे]
+216	Having offered those cakes according to the (prescribed) rule, being pure, let him wipe the same hand with (the roots of) those blades of Kusa grass for the sake of the (three ancestors) who partake of the wipings (lepa).

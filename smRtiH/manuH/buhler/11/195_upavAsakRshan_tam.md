@@ -2,7 +2,4 @@
 title = "195 उपवासकृशन् तम्"
 
 +++
-उपवासकृशं तं तु  
-गोव्रजात् पुनर् आगतम् ।  
-प्रणतं प्रति पृच्छेयुः  
-साम्यं सौम्येच्छसीति किम्  ॥ ११.१९५ ॥ [१९४ मेधातिथिपाठे]
+196	But when he returns from the cow-house, emaciated with his fast, and reverently salutes, (the Brahmanas) shall ask him, 'Friend, dost thou desire to become our equal?'

@@ -2,7 +2,4 @@
 title = "251 एवन् धर्म्याणि"
 
 +++
-एवं धर्म्याणि कार्याणि  
-सम्यक् कुर्वन् महीपतिः ।  
-देशान् अलब्धांल् लिप्सेत  
-लब्धांश् च परिपालयेत्  ॥ ९.२५१ ॥
+251	A king who thus duly fulfils his duties in accordance with justice, may seek to gain countries which he has not yet gained, and shall duly protect them when he has gained them.

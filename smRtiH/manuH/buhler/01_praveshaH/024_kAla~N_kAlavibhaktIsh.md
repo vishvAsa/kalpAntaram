@@ -2,8 +2,4 @@
 title = "024 कालङ् कालविभक्तीश्"
 
 +++
-
-कालं कालविभक्तीश् च  
-नक्षत्राणि ग्रहांस् तथा ।  
-सरितः सागराञ् शैलान्  
-समानि विषमानि च  ॥ १.२४ ॥
+024	Time and the divisions of time, the lunar mansions and the planets, the rivers, the oceans, the mountains, plains, and uneven ground.

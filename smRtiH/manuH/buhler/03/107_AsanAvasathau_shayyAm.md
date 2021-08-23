@@ -2,7 +2,4 @@
 title = "107 आसनावसथौ शय्याम्"
 
 +++
-आसनावसथौ शय्याम्  
-अनुव्रज्याम् उपासनाम् ।  
-उत्तमेषूत्तमं कुर्याद्  
-+धीने हीनं समे समम्  ॥ ३.१०७ ॥ [९७ मेधातिथिपाठे]
+107	Let him offer (to his guests) seats, rooms, beds, attendance on departure and honour (while they stay), to the most distinguished in the best form, to the lower ones in a lower form, to equals in an equal manner.

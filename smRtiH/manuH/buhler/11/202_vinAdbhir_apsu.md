@@ -2,7 +2,4 @@
 title = "202 विनाद्भिर् अप्सु"
 
 +++
-विनाद्भिर् अप्सु वाप्य् आर्तः  
-शारीरं संनिषेव्य च ।  
-स-चैलो बहिर् आप्लुत्य  
-गाम् आलभ्य विशुध्यति  ॥ ११.२०२ ॥ [२०१ मेधातिथिपाठे]
+203	He who has relieved the necessities of nature, being greatly pressed, either without (using) water or in water, becomes pure by bathing outside (the village) in his clothes and by touching a cow.

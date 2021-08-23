@@ -2,7 +2,4 @@
 title = "414 न स्वामिना"
 
 +++
-न स्वामिना निसृष्टो ऽपि  
-शूद्रो दास्याद् विमुच्यते ।  
-निसर्गजं हि तत् तस्य  
-कस् तस्मात् तद् अपोहति  ॥ ८.४१४ ॥
+414	A Sudra, though emancipated by his master, is not released from servitude; since that is innate in him, who can set him free from it?

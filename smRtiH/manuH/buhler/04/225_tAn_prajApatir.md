@@ -2,8 +2,4 @@
 title = "225 तान् प्रजापतिर्"
 
 +++
-
-तान् प्रजापतिर् आहैत्य  
-मा कृध्वं विषमं समम् ।  
-श्रद्धापूतं वदान्यस्य  
-हतम् अश्रद्धयेतरत्  ॥ ४.२२५ ॥ [२२६ मेधातिथिपाठे]  
+225	The Lord of created beings (Pragapati) came and spake to them, 'Do not make that equal, which is unequal. The food of that liberal (usurer) is purified by faith; (that of the) of the) other (man) is defiled by a want of faith.'

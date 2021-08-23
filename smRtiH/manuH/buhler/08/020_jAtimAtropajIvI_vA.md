@@ -2,7 +2,4 @@
 title = "020 जातिमात्रोपजीवी वा"
 
 +++
-जातिमात्रोपजीवी वा  
-कामं स्याद् ब्राह्मणब्रुवः ।  
-धर्मप्रवक्ता नृपतेर्  
-न तु शूद्रः कथं चन  ॥ ८.२० ॥
+020	A Brahmana who subsists only by the name of his caste (gati), or one who merely calls himself a Brahmana (though his origin be uncertain), may, at the king's pleasure, interpret the law to him, but never a Sudra.

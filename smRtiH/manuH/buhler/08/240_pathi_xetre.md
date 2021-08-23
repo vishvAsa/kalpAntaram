@@ -2,7 +2,4 @@
 title = "240 पथि क्षेत्रे"
 
 +++
-पथि क्षेत्रे परिवृते  
-ग्रामान्तीये ऽथ वा पुनः ।  
-स-पालः शतदण्डार्हो  
-विपालान् वारयेत् पशून्  ॥ ८.२४० ॥
+240	(If cattle do mischief) in an enclosed field near a highway or near a village, the herdsman shall be fined one hundred (panas); (but cattle), unattended by a herdsman, (the watchman in the field) shall drive away.

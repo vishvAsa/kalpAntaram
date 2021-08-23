@@ -2,7 +2,4 @@
 title = "235 अजाविके तु"
 
 +++
-अजाविके तु संरुद्धे  
-वृकैः पाले त्व् अनायति ।  
-यां प्रसह्य वृको हन्यात्  
-पाले तत् किल्बिषं भवेत्  ॥ ८.२३५ ॥
+235	But if goats or sheep are surrounded by wolves and the herdsman does not hasten (to their assistance), lie shall be responsible for any (animal) which a wolf may attack and kill.

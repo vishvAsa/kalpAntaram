@@ -2,8 +2,4 @@
 title = "235 यावत् त्रयस्"
 
 +++
-
-यावत् त्रयस् ते जीवेयुस्  
-तावन् नाऽन्यं समाचरेत् ।  
-तेष्व् एव नित्यं शुश्रूषां  
-कुर्यात् प्रियहिते रतः  ॥ २.२३५ ॥
+235	As long as those three live, so long let him not (independently) perform any other (meritorious acts); let him always serve them, rejoicing (to do what is) agreeable and beneficial (to them).

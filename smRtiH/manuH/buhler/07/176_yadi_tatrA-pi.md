@@ -2,7 +2,4 @@
 title = "176 यदि तत्राऽपि"
 
 +++
-यदि तत्राऽपि सम्पश्येद्  
-दोषं संश्रयकारितम् ।  
-सुयुद्धम् एव तत्राऽपि  
-निर्विशङ्कः समाचरेत्  ॥ ७.१७६ ॥ [१७७ मेधातिथिपाठे]
+176	When, even in that (condition), he sees (that) evil is caused by (such) protection, let him without hesitation have recourse to war.

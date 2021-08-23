@@ -2,7 +2,4 @@
 title = "042 अनिन्दितैः स्त्रीविवाहैर्"
 
 +++
-अनिन्दितैः स्त्रीविवाहैर्  
-अनिन्द्या भवति प्रजा ।  
-निन्दितैर् निन्दिता नॄणां  
-तस्मान् निन्द्यान् विवर्जयेत्  ॥ ३.४२ ॥
+042	In the blameless marriages blameless children are born to men, in blamable (marriages) blamable (offspring); one should therefore avoid the blamable (forms of marriage).

@@ -2,8 +2,4 @@
 title = "046 केशान्तिको ब्राह्मणस्य"
 
 +++
-
-केशान्तिको ब्राह्मणस्य  
-दण्डः कार्यः प्रमाणतः ।  
-ललाटसम्मितो राज्ञः  
-स्यात् तु नासान्तिको विशः  ॥ २.४६ ॥
+046	The staff of a Brahmana shall be made of such length as to reach the end of his hair; that of a Kshatriya, to reach his forehead; (and) that of a Vaisya, to reach (the tip of his) nose.

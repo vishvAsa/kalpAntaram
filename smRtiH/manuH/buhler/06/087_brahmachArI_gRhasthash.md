@@ -2,7 +2,4 @@
 title = "087 ब्रह्मचारी गृहस्थश्"
 
 +++
-ब्रह्मचारी गृहस्थश् च  
-वानप्रस्थो यतिस् तथा ।  
-एते गृहस्थ-प्रभवाश्  
-चत्वारः पृथग् आश्रमाः  ॥ ६.८७ ॥
+087	The student, the householder, the hermit, and the ascetic, these (constitute) four separate orders, which all spring from (the order of) householders.

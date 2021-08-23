@@ -2,8 +2,4 @@
 title = "035 मरीचिम् अत्र्य्-अङ्गिरसौ"
 
 +++
-
-मरीचिम् अत्र्य्-अङ्गिरसौ  
-पुलस्त्यं पुलहं क्रतुम् ।  
-प्रचेतसं वसिष्ठं च  
-भृगुं नारदम् एव च  ॥ १.३५ ॥
+035	Mariki, Atri, Angiras, Pulastya, Pulaha, Kratu, Praketas, Vasishtha, Bhrigu, and Narada.

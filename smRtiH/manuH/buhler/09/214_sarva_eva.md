@@ -2,7 +2,4 @@
 title = "214 सर्व एव"
 
 +++
-सर्व एव विकर्मस्था  
-नाऽर्हन्ति भ्रातरो धनम् ।  
-न चाऽदत्त्वा कनिष्ठेभ्यो  
-ज्येष्ठः कुर्वीत यौतकम्  ॥ ९.२१४ ॥
+214	All brothers who habitually commit forbidden acts, are unworthy of (a share of) the property, and the eldest shall not make (anything his) separate property without giving (an equivalent) to his younger brothers.

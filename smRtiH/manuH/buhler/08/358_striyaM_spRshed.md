@@ -2,7 +2,4 @@
 title = "358 स्त्रियं स्पृशेद्"
 
 +++
-स्त्रियं स्पृशेद् अदेशे यः  
-स्पृष्टो वा मर्षयेत् तया ।  
-परस्परस्याऽनुमते  
-सर्वं संग्रहणं स्मृतम्  ॥ ८.३५८ ॥
+358	If one touches a woman in a place (which ought) not (to be touched) or allows (oneself to be touched in such a spot), all (such acts done) with mutual consent are declared (to be) adulterous (samgrahana).

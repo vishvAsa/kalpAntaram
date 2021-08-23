@@ -2,7 +2,4 @@
 title = "284 वसून् वदन्ति"
 
 +++
-वसून् वदन्ति तु पितॄन्  
-रुद्रांश् चैव पितामहान् ।  
-प्रपितामहांस् तथादित्यान्  
-श्रुतिर् एषा सनातनी  ॥ ३.२८४ ॥ [२७४ मेधातिथिपाठे]
+284	They call (the manes of) fathers Vasus, (those of) grandfathers Rudras, and (those of) great-grandfathers Adityas; thus (speaks) the eternal Veda.

@@ -2,8 +2,4 @@
 title = "045 नाऽन्नम् अद्याद्"
 
 +++
-
-नाऽन्नम् अद्याद् एकवासा  
-न नग्नः स्नानम् आचरेत् ।  
-न मूत्रं पथि कुर्वीत  
-न भस्मनि न गोव्रजे  ॥ ४.४५ ॥  
+045	Let him not eat, dressed with one garment only; let him not bathe naked; let him not void urine on a road, on ashes, or in a cow-pen,

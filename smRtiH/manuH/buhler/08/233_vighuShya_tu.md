@@ -2,7 +2,4 @@
 title = "233 विघुष्य तु"
 
 +++
-विघुष्य तु हृतं चौरैर्  
-न पालो दातुम् अर्हति ।  
-यदि देशे च काले च  
-स्वामिनः स्वस्य शंसति  ॥ ८.२३३ ॥
+233	But for (an animal) stolen by thieves, though he raised an alarm, the herdsman shall not pay, provided he gives notice to his master at the proper place and time.

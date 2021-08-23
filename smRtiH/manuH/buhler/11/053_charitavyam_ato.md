@@ -2,7 +2,4 @@
 title = "053 चरितव्यम् अतो"
 
 +++
-चरितव्यम् अतो नित्यं  
-प्रायश्चित्तं विशुद्धये ।  
-निन्द्यैर् हि लक्षणैर् युक्ता  
-जायन्ते ऽनिष्कृतैनसः  ॥ ११.५३ ॥ [५२ मेधातिथिपाठे]
+054	Penances, therefore, must always be performed for the sake of purification, because those whose sins have not been expiated, are born (again) with disgraceful marks.

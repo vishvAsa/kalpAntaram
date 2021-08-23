@@ -2,8 +2,4 @@
 title = "008 सर्वन् तु"
 
 +++
-
-सर्वं तु समवेक्ष्येदं  
-निखिलं ज्ञानचक्षुषा ।  
-श्रुतिप्रामाण्यतो विद्वान्  
-स्वधर्मे निविशेत वै  ॥ २.८ ॥
+008	But a learned man after fully scrutinising all this with the eye of knowledge, should, in accordance with the authority of the revealed texts, be intent on (the performance of) his duties.

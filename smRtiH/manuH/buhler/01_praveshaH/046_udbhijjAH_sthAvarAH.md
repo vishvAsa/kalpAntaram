@@ -2,8 +2,4 @@
 title = "046 उद्भिज्जाः स्थावराः"
 
 +++
-
-उद्भिज्जाः स्थावराः सर्वे  
-बीज-काण्डप्ररोहिणः ।  
-ओषध्यः फलपाकान्ता  
-बहु-पुष्प-फलोपगाः  ॥ १.४६ ॥
+046	All plants, propagated by seed or by slips, grow from shoots; annual plants (are those) which, bearing many flowers and fruits, perish after the ripening of their fruit;

@@ -2,7 +2,4 @@
 title = "050 चैत्यद्रुम-श्मशानेषु शैलेषूपवनेषु"
 
 +++
-चैत्यद्रुम-श्मशानेषु  
-शैलेषूपवनेषु च ।  
-वसेयुर् एते विज्ञाता  
-वर्तयन्तः स्वकर्मभिः  ॥ १०.५० ॥
+050	Near well-known trees and burial-grounds, on mountains and in groves, let these (tribes) dwell, known (by certain marks), and subsisting by their peculiar occupations.

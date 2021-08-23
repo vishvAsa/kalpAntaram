@@ -2,7 +2,4 @@
 title = "191 द्वौ तु"
 
 +++
-द्वौ तु यौ विवदेयातां  
-द्वाभ्यां जातौ स्त्रिया धने ।  
-तयोर् यद् यस्य पित्र्यं स्यात्  
-तत् स गृह्णीत नेतरः  ॥ ९.१९१ ॥
+191	But if two (sons), begotten by two (different men), contend for the property (in the hands) of their mother, each shall take, to the exclusion of the other, what belonged to his father.

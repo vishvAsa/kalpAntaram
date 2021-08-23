@@ -2,7 +2,4 @@
 title = "083 धर्मस्य ब्राह्मणो"
 
 +++
-धर्मस्य ब्राह्मणो मूलम्  
-अग्रं राजन्य उच्यते ।  
-तस्मात् समागमे तेषाम्  
-एनो विख्याप्य शुध्यति  ॥ ११.८३ ॥ [८२ मेधातिथिपाठे]
+084	The Brahmana is declared (to be) the root of the sacred law and the Kshatriya its top; hence he who has confessed his sin before an assembly of such men, becomes pure.

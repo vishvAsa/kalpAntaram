@@ -2,8 +2,4 @@
 title = "183 जामयो ऽप्सरसाम्"
 
 +++
-
-जामयो ऽप्सरसां लोके  
-वैश्वदेवस्य बान्धवाः ।  
-सम्बन्धिनो ह्य् अपां लोके  
-पृथिव्यां मातृ-मातुलौ  ॥ ४.१८३ ॥  
+183	The female relatives (have power) over the world of the Apsarases, the maternal relatives over that of the Visve Devas, the connexions by marriage over that of the waters, the mother and the maternal uncle over the earth.

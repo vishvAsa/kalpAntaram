@@ -2,7 +2,4 @@
 title = "381 न ब्राह्मणवधाद्"
 
 +++
-न ब्राह्मणवधाद् भूयान्  
-अधर्मो विद्यते भुवि ।  
-तस्माद् अस्य वधं राजा  
-मनसापि न चिन्तयेत्  ॥ ८.३८१ ॥
+381	No greater crime is known on earth than slaying a Brahmana; a king, therefore, must not even conceive in his mind the thought of killing a Brahmana.

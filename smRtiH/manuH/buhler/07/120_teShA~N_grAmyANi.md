@@ -2,7 +2,4 @@
 title = "120 तेषाङ् ग्राम्याणि"
 
 +++
-तेषां ग्राम्याणि कार्यानि  
-पृथक्कार्याणि चैव हि ।  
-राज्ञो ऽन्यः सचिवः स्निग्धस्  
-तानि पश्येद् अतन्द्रितः  ॥ ७.१२० ॥ [१२१ मेधातिथिपाठे]
+120	The affairs of these (officials), which are connected with (their) villages and their separate business, another minister of the king shall inspect, (who must be) loyal and never remiss;

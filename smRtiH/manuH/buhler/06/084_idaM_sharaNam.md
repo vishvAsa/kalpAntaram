@@ -2,7 +2,4 @@
 title = "084 इदं शरणम्"
 
 +++
-इदं शरणम् अज्ञानाम्  
-इदम् एव विजानताम् ।  
-इदम् अन्विच्छतां स्वर्गम्  
-इदम् आनन्त्यम् इच्छताम्  ॥ ६.८४ ॥
+084	That is the refuge of the ignorant, and even that (the refuse) of those who know (the meaning of the Veda); that is (the protection) of those who seek (bliss in) heaven and of those who seek endless (beatitude).

@@ -2,7 +2,4 @@
 title = "191 येषान् द्विजानाम्"
 
 +++
-येषां द्विजानां सावित्री  
-नाऽनूच्येत यथाविधि ।  
-तांश् चारयित्वा त्रीन् कृच्छ्रान्  
-यथाविध्य् उपनाययेत्  ॥ ११.१९१ ॥ [१९० मेधातिथिपाठे]
+192	Those twice-born men who may not have been taught the Savitri (at the time) prescribed by the rule, he shall cause to perform three Krikkhra (penances) and afterwards initiate them in accordance with the law.

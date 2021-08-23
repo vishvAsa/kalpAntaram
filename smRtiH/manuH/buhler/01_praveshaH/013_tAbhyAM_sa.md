@@ -2,8 +2,4 @@
 title = "013 ताभ्यां स"
 
 +++
-
-ताभ्यां स शकलाभ्यां च  
-दिवं भूमिं च निर्ममे ।  
-मध्ये व्योम दिशश् चाऽष्टाव्  
-अपां स्थानं च शाश्वतं  ॥ १.१३ ॥
+013	And out of those two halves he formed heaven and earth, between them the middle sphere, the eight points of the horizon, and the eternal abode of the waters.

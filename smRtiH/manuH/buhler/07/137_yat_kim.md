@@ -2,7 +2,4 @@
 title = "137 यत् किम्"
 
 +++
-यत् किं चिद् अपि वर्षस्य  
-दापयेत् करसञ्ज्ञितम् ।  
-व्यवहारेण जीवन्तं  
-राजा राष्ट्रे पृथग्जनम्  ॥ ७.१३७ ॥ [१३८ मेधातिथिपाठे]
+137	Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.

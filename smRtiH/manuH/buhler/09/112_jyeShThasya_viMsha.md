@@ -2,7 +2,4 @@
 title = "112 ज्येष्ठस्य विंश"
 
 +++
-ज्येष्ठस्य विंश उद्धारः  
-सर्वद्रव्याच् च यद् वरम् ।  
-ततो ऽर्धं मध्यमस्य  
-स्यात् तुरीयं तु यवीयसः  ॥ ९.११२ ॥
+112	The additional share (deducted) for the eldest shall be one-twentieth (of the estate) and the best of all chattels, for the middlemost half of that, but for the youngest one-fourth.

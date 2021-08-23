@@ -2,7 +2,4 @@
 title = "276 कृष्णपक्षे दशम्यादौ"
 
 +++
-कृष्णपक्षे दशम्यादौ  
-वर्जयित्वा चतुर्दशीम् ।  
-श्राद्धे प्रशस्तास् तिथयो  
-यथैता न तथेतराः  ॥ ३.२७६ ॥ [२६६ मेधातिथिपाठे]
+276	The days of the dark half of the month, beginning with the tenth, but excepting the fourteenth, are recommended for a funeral sacrifice; (it is) not thus (with) the others.

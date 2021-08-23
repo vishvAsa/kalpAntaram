@@ -2,7 +2,4 @@
 title = "395 श्रोत्रियं व्याधितार्तौ"
 
 +++
-श्रोत्रियं व्याधितार्तौ च  
-बाल-वृद्धाव् अकिंचनम् ।  
-महाकुलीनम् आर्यं च  
-राजा संपूजयेत् सदा  ॥ ८.३९५ ॥
+395	Let the king always treat kindly a Srotriya, a sick or distressed man, an infant and an aged or indigent man, a man of high birth, and an honourable man (Arya).

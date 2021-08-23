@@ -2,8 +2,4 @@
 title = "058 तृण-गुल्म-लतानाञ् च"
 
 +++
-
-तृण-गुल्म-लतानां च  
-क्रव्यादां दंष्ट्रिणाम् अपि ।  
-क्रूरकर्मकृतां चैव  
-शतशो गुरुतल्पगः  ॥ १२.५८ ॥
+058	The violator of a Guru's bed (enters) a hundred times (the forms) of grasses, shrubs, and creepers, likewise of carnivorous (animals) and of (beasts) with fangs and of those doing cruel deeds.

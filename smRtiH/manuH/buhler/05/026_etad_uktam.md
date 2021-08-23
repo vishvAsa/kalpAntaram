@@ -2,7 +2,4 @@
 title = "026 एतद् उक्तम्"
 
 +++
-एतद् उक्तं द्विजातीनां  
-भक्ष्याभक्ष्यम् अशेषतः ।  
-मांसस्याऽतः प्रवक्ष्यामि  
-विधिं भक्षणवर्जने  ॥ ५.२६ ॥
+026	Thus has the food, allowed and forbidden to twice-born men, been fully described; I will now propound the rules for eating and avoiding meat.

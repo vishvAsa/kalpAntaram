@@ -2,7 +2,4 @@
 title = "019 छत्राकं विड्वराहम्"
 
 +++
-छत्राकं+++(=छत्राकारकवकानि)+++ विड्वराहं च  
-लशुनं ग्रामकुक्कुटम् ।  
-पलाण्डुं गृञ्जनं चैव  
-मत्या जग्ध्वा पतेद् द्विजः  ॥ ५.१९ ॥
+019	A twice-born man who knowingly eats mushrooms, a village-pig, garlic, a village-cock, onions, or leeks, will become an outcast.

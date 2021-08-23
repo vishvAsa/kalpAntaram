@@ -2,7 +2,4 @@
 title = "020 चतुर्णाम् अपि"
 
 +++
-चतुर्णाम् अपि वर्णानं  
-प्रेत्य चेह हिताहितान् ।  
-अष्टाव् इमान् समासेन  
-स्त्रीविवाहान् निबोधत  ॥ ३.२० ॥
+020	Now listen to (the) brief (description of) the following eight marriage-rites used by the four castes (varna) which partly secure benefits and partly produce evil both in this life and after death.

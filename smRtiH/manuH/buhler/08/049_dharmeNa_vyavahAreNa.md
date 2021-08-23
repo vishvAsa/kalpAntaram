@@ -2,7 +2,4 @@
 title = "049 धर्मेण व्यवहारेण"
 
 +++
-धर्मेण व्यवहारेण  
-छलेनाचरितेन च ।  
-प्रयुक्तं साधयेद् अर्थं  
-पञ्चमेन बलेन च  ॥ ८.४९ ॥
+049	By moral suasion, by suit of law, by artful management, or by the customary proceeding, a creditor may recover property lent; and fifthly, by force.

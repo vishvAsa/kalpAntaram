@@ -2,7 +2,4 @@
 title = "090 पाषण्डम् आश्रितानाम्"
 
 +++
-पाषण्डम् आश्रितानां च  
-चरन्तीनां च कामतः ।  
-गर्भ-भर्तृ-द्रुहां चैव  
-सुरापीनां च योषिताम्  ॥ ५.९० ॥ [८९ मेधातिथिपाठे]
+090	To women who have joined a heretical sect, who through lust live (with many men), who have caused an abortion, have killed their husbands, or drink spirituous liquor.

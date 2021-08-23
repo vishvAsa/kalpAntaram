@@ -2,8 +2,4 @@
 title = "025 यो यदैषाम्"
 
 +++
-
-यो यदैषां गुणो देहे  
-साकल्येनाऽतिरिच्यते ।  
-स तदा तद्गुणप्रायं  
-तं करोति शरीरिणम्  ॥ १२.२५ ॥
+025	When one of these qualities wholly predominates in a body, then it makes the embodied (soul) eminently distinguished for that quality.

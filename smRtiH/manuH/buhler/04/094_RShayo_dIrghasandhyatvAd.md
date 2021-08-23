@@ -2,8 +2,4 @@
 title = "094 ऋषयो दीर्घसन्ध्यत्वाद्"
 
 +++
-
-ऋषयो दीर्घसन्ध्यत्वाद्  
-दीर्घम् आयुर् अवाप्नुयुः ।  
-प्रज्ञां यशश् च कीर्तिं च  
-ब्रह्मवर्चसम् एव च  ॥ ४.९४ ॥  
+094	By prolonging the twilight devotions, the sages obtained long life, wisdom, honour, fame, and excellence in Vedic knowledge.

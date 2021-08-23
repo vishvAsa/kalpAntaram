@@ -2,7 +2,4 @@
 title = "123 कौटसाक्ष्यन् तु"
 
 +++
-कौटसाक्ष्यं तु कुर्वाणांस्  
-त्रीन् वर्णान् धार्मिको नृपः ।  
-प्रवासयेद् दण्डयित्वा  
-ब्राह्मणं तु विवासयेत्  ॥ ८.१२३ ॥
+123	But a just king shall fine and banish (men of) the three (lower) castes (varna) who have given false evidence, but a Brahmana he shall (only) banish.

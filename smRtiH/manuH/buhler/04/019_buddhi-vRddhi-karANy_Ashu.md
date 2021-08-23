@@ -2,8 +2,4 @@
 title = "019 बुद्धि-वृद्धि-कराण्य् आशु"
 
 +++
-
-बुद्धि-वृद्धि-कराण्य् आशु  
-धन्यानि च हितानि च ।  
-नित्यं शास्त्राण्य् अवेक्षेत  
-निगमांश् चैव वैदिकान्  ॥ ४.१९ ॥+++(5)+++  
+019	Let him daily pore over those Institutes of science which soon give increase of wisdom, those which teach the acquisition of wealth, those which are beneficial (for other worldly concerns), and likewise over the Nigamas which explain the Veda.

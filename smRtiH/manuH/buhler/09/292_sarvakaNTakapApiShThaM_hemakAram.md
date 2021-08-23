@@ -2,7 +2,4 @@
 title = "292 सर्वकण्टकपापिष्ठं हेमकारम्"
 
 +++
-सर्वकण्टकपापिष्ठं  
-हेमकारं तु पार्थिवः ।  
-प्रवर्तमानम् अन्याये  
-छेदयेल् लवशः क्षुरैः [मेधातिथिपाठः - छेदयेत् खण्डशः क्षुरैः]  ॥ ९.२९२ ॥
+292	But the king shall cause a goldsmith who behaves dishonestly, the most nocuous of all the thorns, to be cut to pieces with razors.

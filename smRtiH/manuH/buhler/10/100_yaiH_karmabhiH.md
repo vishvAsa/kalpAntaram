@@ -2,7 +2,4 @@
 title = "100 यैः कर्मभिः"
 
 +++
-यैः कर्मभिः प्रचरितैः  
-शुश्रूष्यन्ते द्विजातयः ।  
-तानि कारुक-कर्माणि  
-शिल्पानि विविधानि च  ॥ १०.१०० ॥
+100	(Let him follow) those mechanical occupations and those various practical arts by following which the twice-born are (best) served.

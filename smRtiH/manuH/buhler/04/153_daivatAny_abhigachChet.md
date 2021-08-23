@@ -2,8 +2,4 @@
 title = "153 दैवतान्य् अभिगच्छेत्"
 
 +++
-
-दैवतान्य् अभिगच्छेत् तु  
-धार्मिकांश् च द्विजोत्तमान् ।  
-ईश्वरं चैव रक्षार्थं  
-गुरून् एव च पर्वसु  ॥ ४.१५३ ॥+++(4)+++  
+153	But on the Parva-days let him go to visit the (images of the) gods, and virtuous Brahmanas, and the ruler (of the country), for the sake of protection, as well as his Gurus.

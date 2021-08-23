@@ -2,7 +2,4 @@
 title = "324 एवञ् चरन्"
 
 +++
-एवं चरन् सदा युक्तो  
-राजधर्मेषु पार्थिवः ।  
-हितेषु चैव लोकस्य  
-सर्वान् भृत्यान् नियोजयेत् [मेधातिथिपाठः - हितेषु चैव लोकेभ्यः]  ॥ ९.३२४ ॥
+324	Thus conducting himself (and) ever intent on (discharging) his royal duties, a king shall order all his servants (to work) for the good of his people.

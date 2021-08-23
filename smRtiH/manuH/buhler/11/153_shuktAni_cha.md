@@ -2,7 +2,4 @@
 title = "153 शुक्तानि च"
 
 +++
-शुक्तानि च कषायांश् च  
-पीत्वा मेध्यान्य् अपि द्विजः ।  
-तावद् भवत्य् अप्रयतो  
-यावत् तन् न व्रजत्य् अधः  ॥ ११.१५३ ॥ [१५२ मेधातिथिपाठे]
+154	A twice-born man who has drunk (fluids that have turned) sour, or astringent decoctions, becomes, though (these substances may) not (be specially) forbidden, impure until they have been digested.

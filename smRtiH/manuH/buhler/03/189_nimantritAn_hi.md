@@ -2,7 +2,4 @@
 title = "189 निमन्त्रितान् हि"
 
 +++
-निमन्त्रितान् हि पितर  
-उपतिष्ठन्ति तान् द्विजान् ।  
-वायुवच् चाऽनुगच्छन्ति  
-तथासीनान् उपासते  ॥ ३.१८९ ॥ [१७९ मेधातिथिपाठे]
+189	For the manes attend the invited Brahmanas, follow them (when they walk) like the wind, and sit near them when they are seated.

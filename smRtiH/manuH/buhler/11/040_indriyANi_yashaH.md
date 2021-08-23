@@ -2,7 +2,4 @@
 title = "040 इन्द्रियाणि यशः"
 
 +++
-इन्द्रियाणि यशः स्वर्गम्  
-आयुः कीर्तिं प्रजाः पशून् ।  
-हन्त्य् अल्प-दक्षिणो यज्ञस्  
-तस्मान् नाऽल्प-धनो यजेत्  ॥ ११.४० ॥ [३९ मेधातिथिपाठे]
+040	The organs (of sense and action), honour, (bliss in) heaven, longevity, fame, offspring, and cattle are destroyed by a sacrifice at which (too) small sacrificial fees are given; hence a man of small means should not offer a (Srauta) sacrifice.

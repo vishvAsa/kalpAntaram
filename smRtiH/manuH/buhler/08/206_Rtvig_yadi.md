@@ -2,7 +2,4 @@
 title = "206 ऋत्विग् यदि"
 
 +++
-ऋत्विग् यदि वृतो यज्ञे  
-स्वकर्म परिहापयेत् ।  
-तस्य कर्मानुरूपेण  
-देयो ऽंशः सहकर्तृभिः  ॥ ८.२०६ ॥
+206	If an officiating priest, chosen to perform a sacrifice, abandons his work, a share only (of the fee) in proportion to the work (done) shall be given to him by those who work with him.

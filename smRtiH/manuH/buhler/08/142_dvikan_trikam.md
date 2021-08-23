@@ -2,7 +2,4 @@
 title = "142 द्विकन् त्रिकम्"
 
 +++
-द्विकं त्रिकं चतुष्कं च  
-पञ्चकं च शतं समम् ।  
-मासस्य वृद्धिं गृह्णीयाद्  
-वर्णानाम् अनुपूर्वशः  ॥ ८.१४२ ॥
+142	Just two in the hundred, three, four, and five (and not more), he may take as monthly interest according to the order of the castes (varna).

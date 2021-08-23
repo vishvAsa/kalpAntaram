@@ -2,7 +2,4 @@
 title = "090 जन्मप्रभृति यत्"
 
 +++
-जन्मप्रभृति यत् किं चित्  
-पुण्यं भद्र त्वया कृतम् ।  
-तत् ते सर्वं शुनो गच्छेद्  
-यदि ब्रूयास् त्वम् अन्यथा  ॥ ८.९० ॥
+090	'(The reward) of all meritorious deeds which thou, good man, hast done since thy birth, shall become the share of the dogs, if in thy speech thou departest from the truth.

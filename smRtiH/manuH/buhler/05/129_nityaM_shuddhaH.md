@@ -2,7 +2,4 @@
 title = "129 नित्यं शुद्धः"
 
 +++
-नित्यं शुद्धः कारु-हस्तः  
-पण्ये यच् च प्रसारितम् [मेधातिथिपाठः - पण्यं] ।  
-ब्रह्मचारिगतं भैक्ष्यं  
-नित्यं मेध्यम् इति स्थितिः  ॥ ५.१२९ ॥ [१२७ मेधातिथिपाठे]
+129	The hand of an artisan is always pure, so is (every vendible commodity) exposed for sale in the market, and food obtained by begging which a student holds (in his hand) is always fit for use; that is a settled rule.

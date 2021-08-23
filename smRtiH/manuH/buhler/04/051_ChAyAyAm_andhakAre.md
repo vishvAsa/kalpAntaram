@@ -2,8 +2,4 @@
 title = "051 छायायाम् अन्धकारे"
 
 +++
-
-छायायाम् अन्धकारे वा  
-रात्राव् अहनि वा द्विजः ।  
-यथासुख-मुखः कुर्यात् +++(दिङ्नियमं विना)+++  
-प्राणबाध-भयेषु च  ॥ ४.५१ ॥ [५२ मेधातिथिपाठे]  
+051	In the shade or in darkness a Brahmana may, both by day and at night, do it, assuming any position he pleases; likewise when his life is in danger.

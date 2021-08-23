@@ -2,7 +2,4 @@
 title = "125 उच्छिष्टम् अन्नम्"
 
 +++
-उच्छिष्टम् अन्नं दातव्यं  
-जीर्णानि वसनानि च ।  
-पुलाकाश् चैव धान्यानां  
-जीर्णाश् चैव परिच्छदाः  ॥ १०.१२५ ॥
+125	The remnants of their food must be given to him, as well as their old clothes, the refuse of their grain, and their old household furniture.

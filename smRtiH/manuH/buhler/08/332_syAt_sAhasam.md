@@ -2,7 +2,4 @@
 title = "332 स्यात् साहसम्"
 
 +++
-स्यात् साहसं त्व् अन्वयवत्  
-प्रसभं कर्म यत् कृतम् ।  
-निरन्वयं भवेत् स्तेयं  
-हृत्वापव्ययते च यत्  ॥ ८.३३२ ॥
+332	An offence (of this description), which is committed in the presence (of the owner) and with violence, will be robbery; if (it is committed) in his absence, it will be theft; likewise if (the possession of) anything is denied after it has been taken.

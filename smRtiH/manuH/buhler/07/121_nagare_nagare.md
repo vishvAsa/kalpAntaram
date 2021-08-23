@@ -2,7 +2,4 @@
 title = "121 नगरे नगरे"
 
 +++
-नगरे नगरे चैकं  
-कुर्यात् सर्वार्थचिन्तकम् ।  
-उच्चैःस्थानं घोररूपं  
-नक्षत्राणाम् इव ग्रहम्  ॥ ७.१२१ ॥ [१२२ मेधातिथिपाठे]
+121	And in each town let him appoint one superintendent of all affairs, elevated in rank, formidable, (resembling) a planet among the stars.

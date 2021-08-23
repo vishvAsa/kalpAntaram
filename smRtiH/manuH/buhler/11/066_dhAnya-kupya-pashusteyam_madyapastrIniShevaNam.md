@@ -2,7 +2,4 @@
 title = "066 धान्य-कुप्य-पशुस्तेयम् मद्यपस्त्रीनिषेवणम्"
 
 +++
-धान्य-कुप्य-पशुस्तेयं  
-मद्यपस्त्रीनिषेवणम् ।  
-स्त्री-शूद्र-विट्-क्षत्रवधो  
-नास्तिक्यं चोपपातकम्  ॥ ११.६६ ॥ [६५ मेधातिथिपाठे]
+067	Stealing grain, base metals, or cattle, intercourse with women who drink spirituous liquor, slaying women, Sudras, Vaisyas, or Kshatriyas, and atheism, (are all) minor offences, causing loss of caste (Upapataka).

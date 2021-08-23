@@ -2,7 +2,4 @@
 title = "158 ब्रह्मचारी तु"
 
 +++
-ब्रह्मचारी तु यो ऽश्नीयान्  
-मधु मांसं कथं चन [मेधातिथिपाठः - व्रतचारी तु] ।  
-स कृत्वा प्राकृतं कृच्छ्रं  
-व्रतशेषं समापयेत्  ॥ ११.१५८ ॥ [१५७ मेधातिथिपाठे]
+159	But a student who on any occasion eats honey or meat, shall perform an ordinary Krikkhra (penance), and afterwards complete his vow (of studentship).

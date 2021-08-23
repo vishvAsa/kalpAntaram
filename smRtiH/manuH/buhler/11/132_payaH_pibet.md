@@ -2,7 +2,4 @@
 title = "132 पयः पिबेत्"
 
 +++
-पयः पिबेत् त्रिरात्रं वा  
-योजनं वाध्वनो व्रजेत् ।  
-उपस्पृशेत् स्रवन्त्यां वा  
-सूक्तं वाब्-दैवतं जपेत्  ॥ ११.१३२ ॥ [१३१ मेधातिथिपाठे]
+133	Or he may drink milk during three days, or walk one hundred yoganas, or bathe in a river, or mutter the hymn addressed to the Waters.

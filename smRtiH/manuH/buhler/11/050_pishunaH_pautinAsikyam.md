@@ -2,7 +2,4 @@
 title = "050 पिशुनः पौतिनासिक्यम्"
 
 +++
-पिशुनः पौतिनासिक्यं  
-सूचकः पूतिवक्त्रताम् ।  
-धान्यचौरो ऽङ्गहीनत्वम्  
-आतिरैक्यं तु मिश्रकः  ॥ ११.५० ॥ [४९ मेधातिथिपाठे]
+050	An informer, a foul-smelling nose; a calumniator, a stinking breath; a stealer of grain, deficiency in limbs; he who adulterates (grain), redundant limbs;

@@ -2,7 +2,4 @@
 title = "249 कौत्सञ् जप्त्वाप"
 
 +++
-कौत्सं जप्त्वाप इत्य् एतद्  
-वसिष्ठं च प्रतीत्य् ऋचम् ।  
-माहित्रं शुद्धवत्यश् च  
-सुरापो ऽपि विशुध्यति  ॥ ११.२४९ ॥ [२४८ मेधातिथिपाठे]
+250	Even a drinker of (the spirituous liquor called) Sura becomes pure, if he mutters the hymn (seen) by Kutsa, 'Removing by thy splendour our guilt, O Agni,' &c., (that seen) by Vasishtha, 'With their hymns the Vasishthas woke the Dawn,' &c., the Mahitra (hymn) and (the verses called) Suddhavatis.

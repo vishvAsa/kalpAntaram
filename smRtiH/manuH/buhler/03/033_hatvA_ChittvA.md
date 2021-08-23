@@ -2,7 +2,4 @@
 title = "033 हत्वा छित्त्वा"
 
 +++
-हत्वा छित्त्वा च भित्त्वा च  
-क्रोशन्तीं रुदन्तीं गृहात् ।  
-प्रसह्य कन्याहरणं  
-राक्षसो विधिर् उच्यते  ॥ ३.३३ ॥
+033	The forcible abduction of a maiden from her home, while she cries out and weeps, after (her kinsmen) have been slain or wounded and (their houses) broken open, is called the Rakshasa rite.

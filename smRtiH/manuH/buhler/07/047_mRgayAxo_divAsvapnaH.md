@@ -2,7 +2,4 @@
 title = "047 मृगयाक्षो दिवास्वप्नः"
 
 +++
-मृगयाक्षो दिवास्वप्नः  
-परिवादः स्त्रियो मदः ।  
-तौर्यत्रिकं वृथाट्या च  
-कामजो दशको गणः  ॥ ७.४७ ॥
+047	Hunting, gambling, sleeping by day, censoriousness, (excess with) women, drunkenness, (an inordinate love for) dancing, singing, and music, and useless travel are the tenfold set (of vices) springing from love of pleasure.

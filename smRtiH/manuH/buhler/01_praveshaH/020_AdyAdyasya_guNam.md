@@ -2,8 +2,4 @@
 title = "020 आद्याद्यस्य गुणम्"
 
 +++
-
-आद्याद्यस्य गुणं त्व् एषाम्  
-अवाप्नोति परः परः ।  
-यो यो यावतिथश् चैषां  
-स स तावद् गुणः स्मृतः  ॥ १.२० ॥
+020	Among them each succeeding (element) acquires the quality of the preceding one, and whatever place (in the sequence) each of them occupies, even so many qualities it is declared to possess.

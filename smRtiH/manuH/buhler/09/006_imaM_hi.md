@@ -2,7 +2,4 @@
 title = "006 इमं हि"
 
 +++
-इमं हि सर्ववर्णानां  
-पश्यन्तो धर्मम् उत्तमम् ।  
-यतन्ते रक्षितुं भार्यां  
-भर्तारो दुर्बला अपि  ॥ ९.६ ॥
+006	Considering that the highest duty of all castes, even weak husbands (must) strive to guard their wives.

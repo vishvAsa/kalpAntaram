@@ -2,7 +2,4 @@
 title = "219 यो ग्राम-देश-सङ्घानाम्"
 
 +++
-यो ग्राम-देश-संघानां  
-कृत्वा सत्येन संविदम् ।  
-विसंवदेन् नरो लोभात्  
-तं राष्ट्राद् विप्रवासयेत्  ॥ ८.२१९ ॥
+219	If a man belonging to a corporation inhabiting a village or a district, after swearing to an agreement, breaks it through avarice, (the king) shall banish him from his realm,

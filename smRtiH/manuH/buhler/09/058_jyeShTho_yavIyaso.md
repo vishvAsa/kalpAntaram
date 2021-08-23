@@ -2,7 +2,4 @@
 title = "058 ज्येष्ठो यवीयसो"
 
 +++
-ज्येष्ठो यवीयसो भार्यां  
-यवीयान् वाग्रजस्त्रियम् ।  
-पतितौ भवतो गत्वा  
-नियुक्ताव् अप्य् अनापदि  ॥ ९.५८ ॥
+058	An elder (brother) who approaches the wife of the younger, and a younger (brother who approaches) the wife of the elder, except in times of misfortune, both become outcasts, even though (they were duly) authorised.

@@ -2,7 +2,4 @@
 title = "052 एवङ् कर्मविशेषेण"
 
 +++
-एवं कर्मविशेषेण  
-जायन्ते सद्विगर्हिताः ।  
-जड-मूकान्ध-बधिरा  
-विकृताकृतयस् तथा  ॥ ११.५२ ॥ [५१ मेधातिथिपाठे]
+053	Thus in consequence of a remnant of (the guilt of former) crimes, are born idiots, dumb, blind, deaf, and deformed men, who are (all) despised by the virtuous.

@@ -2,7 +2,4 @@
 title = "277 अङ्गुलीर् ग्रन्थिभेदस्य"
 
 +++
-अङ्गुलीर् ग्रन्थिभेदस्य  
-छेदयेत् प्रथमे ग्रहे ।  
-द्वितीये हस्त-चरणौ  
-तृतीये वधम् अर्हति  ॥ ९.२७७ ॥
+277	On the first conviction, let him cause two fingers of a cut-purse to be amputated; on the second, one hand and one foot; on the third, he shall suffer death.

@@ -2,8 +2,4 @@
 title = "067 वृको मृगेभम्"
 
 +++
-
-वृको मृगेभं व्याघ्रो ऽश्वं  
-फल-मूलं तु मर्कटः ।  
-स्त्रीम् ऋक्षः स्तोकको वारि  
-यानान्य् उष्ट्रः पशून् अजः  ॥ १२.६७ ॥
+067	For stealing a deer or an elephant a wolf, for stealing a horse a tiger, for stealing fruit and roots a monkey, for stealing a woman a bear, for stealing water a black-white cuckoo, for stealing vehicles a camel, for stealing cattle a he-goat.

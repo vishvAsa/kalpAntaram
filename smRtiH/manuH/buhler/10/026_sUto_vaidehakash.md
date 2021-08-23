@@ -2,7 +2,4 @@
 title = "026 सूतो वैदेहकश्"
 
 +++
-सूतो वैदेहकश् चैव  
-चण्डालश् च नराधमः ।  
-मागधः तथायोगव  
-एव च क्षत्रजातिश् च [मेधातिथिपाठः - क्षत्तृजातिश् च]  ॥ १०.२६ ॥
+026	The Suta, the Vaidehaka, the Kandala, that lowest of mortals, the Magadha, he of the Kshattri caste (gati), and the Ayogava,

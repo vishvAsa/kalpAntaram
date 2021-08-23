@@ -2,8 +2,4 @@
 title = "113 विद्ययैव समम्"
 
 +++
-
-विद्ययैव समं कामं  
-मर्तव्यं ब्रह्मवादिना ।  
-आपद्य् अपि हि घोरायां  
-न त्व् एनाम् इरिणे वपेत्  ॥ २.११३ ॥
+113	Even in times of dire distress a teacher of the Veda should rather die with his knowledge than sow it in barren soil.

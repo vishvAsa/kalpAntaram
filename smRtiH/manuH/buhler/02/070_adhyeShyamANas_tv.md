@@ -2,8 +2,4 @@
 title = "070 अध्येष्यमाणस् त्व्"
 
 +++
-
-अध्येष्यमाणस् त्व् आचान्तो  
-यथाशास्त्रम् उदङ्-मुखः ।  
-+++(वक्ष्यमाण)+++ब्रह्माञ्जलि-कृतो ऽध्याप्यो  
-लघु-वासा जितेन्द्रियः  ॥ २.७० ॥
+070	But (a student) who is about to begin the Study (of the Veda), shall receive instruction, after he has sipped water in accordance with the Institutes (of the sacred law), has made the Brahmangali, (has put on) a clean dress, and has brought his organs under due control.

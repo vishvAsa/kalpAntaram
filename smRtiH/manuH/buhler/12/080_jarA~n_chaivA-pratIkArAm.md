@@ -2,8 +2,4 @@
 title = "080 जराञ् चैवाऽप्रतीकाराम्"
 
 +++
-
-जरां चैवाऽप्रतीकारां  
-व्याधिभिश् चोपपीडनम् ।  
-क्लेशांश् च विविधांस् तांस् तान्  
-मृत्युम् एव च दुर्-जयम्  ॥ १२.८० ॥
+080	Old age against which there is no remedy, the pangs of diseases, afflictions of many various kinds, and (finally) unconquerable death.

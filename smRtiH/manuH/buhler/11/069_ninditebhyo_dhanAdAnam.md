@@ -2,7 +2,4 @@
 title = "069 निन्दितेभ्यो धनादानम्"
 
 +++
-निन्दितेभ्यो धनादानं  
-वाणिज्यं शूद्रसेवनम् ।  
-अपात्रीकरणं ज्ञेयम्  
-असत्यस्य च भाषणम्  ॥ ११.६९ ॥ [६८ मेधातिथिपाठे]
+070	Accepting presents from blamed men, trading, serving Sudras, and speaking a falsehood, make (the offender) unworthy to receive gifts (Apatra).

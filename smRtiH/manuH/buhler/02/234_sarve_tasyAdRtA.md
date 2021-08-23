@@ -2,8 +2,4 @@
 title = "234 सर्वे तस्यादृता"
 
 +++
-
-सर्वे तस्यादृता धर्मा  
-यस्यैते त्रय आदृताः ।  
-अनादृतास् तु यस्यैते  
-सर्वास् तस्याऽफलाः क्रियाः  ॥ २.२३४ ॥
+234	All duties have been fulfilled by him who honours those three; but to him who honours them not, all rites remain fruitless.

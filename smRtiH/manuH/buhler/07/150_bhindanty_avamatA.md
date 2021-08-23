@@ -2,7 +2,4 @@
 title = "150 भिन्दन्त्य् अवमता"
 
 +++
-भिन्दन्त्य् अवमता मन्त्रं  
-तैर्यग्योनास् तथैव च ।  
-स्त्रियश् चैव विशेषेण  
-तस्मात् तत्रादृतो भवेत्  ॥ ७.१५० ॥ [१५१ मेधातिथिपाठे]
+150	(Such) despicable (persons), likewise animals, and particularly women betray secret council; for that reason he must be careful with respect to them.

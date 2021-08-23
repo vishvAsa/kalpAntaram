@@ -2,8 +2,4 @@
 title = "068 विनीतैस् तु"
 
 +++
-
-विनीतैस् तु व्रजेन् नित्यम्  
-आशुगैर् लक्षणान्वितैः ।  
-वर्ण-रूपोपसम्पन्नैः  
-प्रतोदेनातुदन् भृशम् [मेधातिथिपाठः - प्रतोदेनाक्षिपन्]  ॥ ४.६८ ॥+++(5)+++  
+068	Let him always travel with (beasts) which are well broken in, swift, endowed with lucky marks, and perfect in colour and form, without urging them much with the goad.

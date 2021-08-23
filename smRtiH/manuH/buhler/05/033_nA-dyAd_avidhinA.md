@@ -2,7 +2,4 @@
 title = "033 नाऽद्याद् अविधिना"
 
 +++
-नाऽद्याद् अविधिना मांसं  
-विधिज्ञो ऽनापदि द्विजः ।  
-जग्ध्वा ह्य् अविधिना मांसं  
-प्रेतस् तैर् अद्यते ऽवशः  ॥ ५.३३ ॥
+033	A twice-born man who knows the law, must not eat meat except in conformity with the law; for if he has eaten it unlawfully, he will, unable to save himself, be eaten after death by his (victims).

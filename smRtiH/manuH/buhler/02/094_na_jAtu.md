@@ -2,8 +2,4 @@
 title = "094 न जातु"
 
 +++
-
-न जातु कामः कामानाम्  
-उपभोगेन शाम्यति ।  
-हविषा कृष्णवर्त्मेव  
-भूय एवाऽभिवर्धते  ॥ २.९४ ॥
+094	Desire is never extinguished by the enjoyment of desired objects; it only grows stronger like a fire (fed) with clarified butter.

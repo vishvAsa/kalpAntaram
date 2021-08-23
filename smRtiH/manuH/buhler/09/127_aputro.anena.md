@@ -2,7 +2,4 @@
 title = "127 अपुत्रो ऽनेन"
 
 +++
-अपुत्रो ऽनेन विधिना  
-सुतां कुर्वीत पुत्रिकाम् ।  
-यद् अपत्यं भवेद् अस्यां  
-तन् मम स्यात् स्वधाकरम्  ॥ ९.१२७ ॥
+127	He who has no son may make his daughter in the following manner an appointed daughter (putrika, saying to her husband), 'The (male) child, born of her, shall perform my funeral rites.'

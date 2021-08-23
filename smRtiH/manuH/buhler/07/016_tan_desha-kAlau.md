@@ -2,7 +2,4 @@
 title = "016 तन् देश-कालौ"
 
 +++
-तं देश-कालौ शक्तिं च  
-विद्यां चाऽवेक्ष्य तत्त्वतः ।  
-यथार्हतः सम्प्रणयेन्  
-नरेष्व् अन्याय-वर्तिषु  ॥ ७.१६ ॥
+016	Having fully considered the time and the place (of the offence), the strength and the knowledge (of the offender), let him justly inflict that (punishment) on men who act unjustly.

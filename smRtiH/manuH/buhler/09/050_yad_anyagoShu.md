@@ -2,7 +2,4 @@
 title = "050 यद् अन्यगोषु"
 
 +++
-यद् अन्यगोषु वृषभो  
-वत्सानां जनयेच् छतम् ।  
-गोमिनाम् एव ते वत्सा  
-मोघं स्कन्दितम् आर्षभम्  ॥ ९.५० ॥
+050	If (one man's) bull were to beget a hundred calves on another man's cows, they would belong to the owner of the cows; in vain would the bull have spent his strength.

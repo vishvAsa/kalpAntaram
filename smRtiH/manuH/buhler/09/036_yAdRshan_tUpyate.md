@@ -2,7 +2,4 @@
 title = "036 यादृशन् तूप्यते"
 
 +++
-यादृशं तूप्यते बीजं  
-क्षेत्रे कालोपपादिते ।  
-तादृग् रोहति तत् तस्मिन्  
-बीजं स्वैर् व्यञ्जितं गुणैः  ॥ ९.३६ ॥
+036	Whatever (kind on seed is sown in a field, prepared in due season, (a plant) of that same kind, marked with the peculiar qualities of the seed, springs up in it.

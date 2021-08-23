@@ -2,7 +2,4 @@
 title = "048 युग्मासु पुत्रा"
 
 +++
-युग्मासु पुत्रा जायन्ते  
-स्त्रियो ऽयुग्मासु रात्रिषु ।  
-तस्माद् युग्मासु पुत्रार्थी  
-संविशेद् आर्तवे स्त्रियम्  ॥ ३.४८ ॥
+048	On the even nights sons are conceived and daughters on the uneven ones; hence a man who desires to have sons should approach his wife in due season on the even (nights).

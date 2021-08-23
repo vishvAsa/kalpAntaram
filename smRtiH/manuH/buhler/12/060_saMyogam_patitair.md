@@ -2,8 +2,4 @@
 title = "060 संयोगम् पतितैर्"
 
 +++
-
-संयोगं पतितैर् गत्वा  
-परस्यैव च योषितम् ।  
-अपहृत्य च विप्रस्वं  
-भवति ब्रह्मराक्षसः  ॥ १२.६० ॥
+060	He who has associated with outcasts, he who has approached the wives of other men, and he who has stolen the property of a Brahmana become Brahmarakshasas.

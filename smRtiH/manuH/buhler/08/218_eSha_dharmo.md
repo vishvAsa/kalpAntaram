@@ -2,7 +2,4 @@
 title = "218 एष धर्मो"
 
 +++
-एष धर्मो ऽखिलेनोक्तो  
-वेतनादानकर्मणः ।  
-अत ऊर्ध्वं प्रवक्ष्यामि  
-धर्मं समयभेदिनाम्  ॥ ८.२१८ ॥
+218	Thus the law for the non-payment of wages has been completely stated; I will next explain the law concerning men who break an agreement.

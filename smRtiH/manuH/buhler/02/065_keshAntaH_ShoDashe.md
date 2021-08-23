@@ -2,8 +2,4 @@
 title = "065 केशान्तः षोडशे"
 
 +++
-
-केशान्तः षोडशे वर्षे  
-ब्राह्मणस्य विधीयते ।  
-राजन्यबन्धोर् द्वाविंशे  
-वैश्यस्य द्व्यधिके मतः  ॥ २.६५ ॥
+065	(The ceremony called) Kesanta (clipping the hair) is ordained for a Brahmana in the sixteenth year (from conception); for a Kshatriya, in the twenty-second; and for a Vaisya, two (years) later than that.

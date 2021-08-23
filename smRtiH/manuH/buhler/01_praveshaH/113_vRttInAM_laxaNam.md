@@ -2,8 +2,4 @@
 title = "113 वृत्तीनां लक्षणम्"
 
 +++
-
-वृत्तीनां लक्षणं चैव  
-स्नातकस्य व्रतानि च ।  
-भक्ष्याभक्ष्यं च शौचं च  
-द्रव्याणां शुद्धिम् एव च  ॥ १.११३ ॥
+113	The description of the modes of (gaining) subsistence and the duties of a Snataka, (the rules regarding) lawful and forbidden food, the purification of men and of things,

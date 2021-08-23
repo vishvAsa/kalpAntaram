@@ -2,8 +2,4 @@
 title = "059 एतद् वो"
 
 +++
-
-एतद् वो ऽयं भृगुः शास्त्रं  
-श्रावयिष्यत्य् अशेसतः ।  
-एतद् +धि मत्तो ऽधिजगे  
-सर्वम् एषो ऽखिलं मुनिः  ॥ १.५९ ॥+++(5)+++ 
+059	Bhrigu, here, will fully recite to you these Institutes; for that sage learned the whole in its entirety from me.

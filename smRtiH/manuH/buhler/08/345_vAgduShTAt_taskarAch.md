@@ -2,7 +2,4 @@
 title = "345 वाग्दुष्टात् तस्कराच्"
 
 +++
-वाग्दुष्टात् तस्कराच् चैव  
-दण्डेनैव च हिंसतः ।  
-साहसस्य नरः कर्ता  
-विज्ञेयः पापकृत्तमः  ॥ ८.३४५ ॥
+345	He who commits violence must be considered as the worst offender, (more wicked) than a defamer, than a thief, and than he who injures (another) with a staff.

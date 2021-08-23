@@ -2,7 +2,4 @@
 title = "061 यदि हि"
 
 +++
-यदि हि स्त्री न रोचेत  
-पुमांसं न प्रमोदयेत् ।  
-अप्रमोदात् पुनः पुंसः  
-प्रजनं न प्रवर्तते  ॥ ३.६१ ॥
+061	For if the wife is not radiant with beauty, she will not attract her husband; but if she has no attractions for him, no children will be born.

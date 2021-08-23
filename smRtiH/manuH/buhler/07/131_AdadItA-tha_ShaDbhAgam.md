@@ -2,7 +2,4 @@
 title = "131 आददीताऽथ षड्भागम्"
 
 +++
-आददीताऽथ षड्भागं  
-द्रु-मांस-मधु-सर्पिषाम् ।  
-गन्धौषधि-रसानां च  
-पुष्प-मूल-फलस्य च  ॥ ७.१३१ ॥ [१३२ मेधातिथिपाठे]
+131	He may also take the sixth part of trees, meat, honey, clarified butter, perfumes, (medical) herbs, substances used for flavouring food, flowers, roots, and fruit;

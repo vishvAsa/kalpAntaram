@@ -2,7 +2,4 @@
 title = "046 कामजेषु प्रसक्तो"
 
 +++
-कामजेषु प्रसक्तो हि  
-व्यसनेषु महीपतिः ।  
-वियुज्यते ऽर्थ-धर्माभ्यां  
-क्रोधजेष्व् आत्मनैव तु  ॥ ७.४६ ॥
+046	For a king who is attached to the vices springing from love of pleasure, loses his wealth and his virtue, but (he who is given) to those arising from anger, (loses) even his life.

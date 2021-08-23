@@ -2,7 +2,4 @@
 title = "198 स्त्रियान् तु"
 
 +++
-स्त्रियां तु यद् भवेद् वित्तं  
-पित्रा दत्तं कथं चन ।  
-ब्राह्मणी तद् धरेत् कन्या  
-तदपत्यस्य वा भवेत्  ॥ ९.१९८ ॥
+198	Whatever property may have been given by her father to a wife (who has co-wives of different castes), that the daughter (of the) Brahmani (wife) shall take, or that (daughter's) issue.

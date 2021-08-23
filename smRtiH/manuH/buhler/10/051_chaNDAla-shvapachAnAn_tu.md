@@ -2,7 +2,4 @@
 title = "051 चण्डाल-श्वपचानान् तु"
 
 +++
-चण्डाल-श्वपचानां तु  
-बहिर् ग्रामात् प्रतिश्रयः ।  
-अपपात्राश् च कर्तव्या  
-धनम् एषां श्व-गर्दभम्  ॥ १०.५१ ॥
+051	But the dwellings of Kandalas and Svapakas shall be outside the village, they must be made Apapatras, and their wealth (shall be) dogs and donkeys.

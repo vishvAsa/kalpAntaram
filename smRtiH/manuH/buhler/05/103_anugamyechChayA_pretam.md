@@ -2,7 +2,4 @@
 title = "103 अनुगम्येच्छया प्रेतम्"
 
 +++
-अनुगम्येच्छया प्रेतं  
-ज्ञातिम् अज्ञातिम् एव च [मेधातिथिपाठः - अज्ञातिम् एव वा] ।  
-स्नात्वा स-चैलः स्पृष्ट्वाग्निं  
-घृतं प्राश्य विशुध्यति [मेधातिथिपाठः - स-चैलं, विशुद्ध्यति]  ॥ ५.१०३ ॥ [१०२ मेधातिथिपाठे]
+103	Having voluntarily followed a corpse, whether (that of) a paternal kinsman or (of) a stranger, he becomes pure by bathing, dressed in his clothes, by touching fire and eating clarified butter.

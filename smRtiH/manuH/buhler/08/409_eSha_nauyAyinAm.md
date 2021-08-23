@@ -2,7 +2,4 @@
 title = "409 एष नौयायिनाम्"
 
 +++
-एष नौयायिनाम् उक्तो  
-व्यवहारस्य निर्णयः ।  
-दाशापराधतस् तोये  
-दैविके नाऽस्ति निग्रहः  ॥ ८.४०९ ॥
+409	This decision in suits (brought) by passengers (holds good only) in case the boatmen are culpably negligent on the water; in the case of (an accident) caused by (the will of) the gods, no fine can be (inflicted on them).

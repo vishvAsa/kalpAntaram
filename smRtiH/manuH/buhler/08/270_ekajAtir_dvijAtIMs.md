@@ -2,7 +2,4 @@
 title = "270 एकजातिर् द्विजातींस्"
 
 +++
-एकजातिर् द्विजातींस् तु  
-वाचा दारुणया क्षिपन् ।  
-जिह्वायाः प्राप्नुयाच् छेदं  
-जघन्य-प्रभवो हि सः  ॥ ८.२७० ॥
+270	A once-born man (a Sudra), who insults a twice-born man with gross invective, shall have his tongue cut out; for he is of low origin.

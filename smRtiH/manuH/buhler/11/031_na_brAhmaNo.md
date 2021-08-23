@@ -2,7 +2,4 @@
 title = "031 न ब्राह्मणो"
 
 +++
-न ब्राह्मणो वेदयेत  
-किं चिद् राजनि धर्मवित् ।  
-स्ववीर्येणैव ताञ् शिष्यान्  
-मानवान् अपकारिणः  ॥ ११.३१ ॥ [३० मेधातिथिपाठे]
+031	A Brahmana who knows the law need not bring any (offence) to the notice of the king; by his own power alone be can punish those men who injure him.

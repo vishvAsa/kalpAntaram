@@ -2,8 +2,4 @@
 title = "028 यन् तु"
 
 +++
-
-यं तु कर्मणि यस्मिन् स  
-न्ययुङ्क्त प्रथमं प्रभुः ।  
-स तद् एव स्वयं भेजे  
-सृज्यमानः पुनः पुनः  ॥ १.२८ ॥
+028	But to whatever course of action the Lord at first appointed each (kind of beings), that alone it has spontaneously adopted in each succeeding creation.

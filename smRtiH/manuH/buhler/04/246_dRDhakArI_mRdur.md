@@ -2,8 +2,4 @@
 title = "246 दृढकारी मृदुर्"
 
 +++
-
-दृढकारी मृदुर् दान्तः  
-क्रूराचारैर् असंवसन् ।  
-अहिंस्रो दम-दानाभ्यां  
-जयेत् स्वर्गं तथा-व्रतः  ॥ ४.२४६ ॥ [२४७ मेधातिथिपाठे]  
+246	He who is persevering, gentle, (and) patient, shuns the company of men of cruel conduct, and does no injury (to living creatures), gains, if he constantly lives in that manner, by controlling his organs and by liberality, heavenly bliss.

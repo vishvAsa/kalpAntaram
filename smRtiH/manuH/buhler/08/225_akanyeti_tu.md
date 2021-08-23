@@ -2,7 +2,4 @@
 title = "225 अकन्येति तु"
 
 +++
-अकन्येति तु यः कन्यां  
-ब्रूयाद् द्वेषेण मानवः ।  
-स शतं प्राप्नुयाद् दण्डं  
-तस्या दोषम् अदर्शयन्  ॥ ८.२२५ ॥
+225	But that man who, out of malice, says of a maiden, 'She is not a maiden,' shall be fined one hundred (panas), if he cannot prove her blemish.

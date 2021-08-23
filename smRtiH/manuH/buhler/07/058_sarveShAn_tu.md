@@ -2,7 +2,4 @@
 title = "058 सर्वेषान् तु"
 
 +++
-सर्वेषां तु विशिष्टेन  
-ब्राह्मणेन विपश्चिता ।  
-मन्त्रयेत् परमं मन्त्रं  
-राजा षाड्गुण्यसंयुतम्  ॥ ७.५८ ॥
+058	But with the most distinguished among them all, a learned Brahmana, let the king deliberate on the most important affairs which relate to the six measures of royal policy.

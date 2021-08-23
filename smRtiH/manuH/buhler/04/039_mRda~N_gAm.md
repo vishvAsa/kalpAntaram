@@ -2,8 +2,4 @@
 title = "039 मृदङ् गाम्"
 
 +++
-
-मृदं गां दैवतं विप्रं  
-घृतं मधु चतुष्पथम् ।  
-प्रदक्षिणानि कुर्वीत  
-प्रज्ञातांश् च वनस्पतीन्  ॥ ४.३९ ॥+++(4)+++  
+039	Let him pass by (a mound of) earth, a cow, an idol, a Brahmana, clarified butter, honey, a crossway, and well-known trees, turning his right hand towards them.

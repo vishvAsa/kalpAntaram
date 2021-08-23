@@ -2,7 +2,4 @@
 title = "098 आददीत न"
 
 +++
-आददीत न शूद्रो ऽपि  
-शुल्कं दुहितरं ददन् ।  
-शुल्कं हि गृह्णन् कुरुते  
-छन्नं दुहितृविक्रयम्  ॥ ९.९८ ॥
+098	Even a Sudra ought not to take a nuptial fee, when he gives away his daughter; for he who takes a fee sell his daughter, covering (the transaction by another name).

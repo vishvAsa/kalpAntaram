@@ -2,7 +2,4 @@
 title = "225 कितवान् कुशीलवान्"
 
 +++
-कितवान् कुशीलवान् क्रूरान्  
-पाषण्डस्थांश् च मानवान् ।  
-विकर्मस्थान् शौण्डिकांश् च  
-क्षिप्रं निर्वासयेत् पुरात्  ॥ ९.२२५ ॥
+225	Gamblers, dancers and singers, cruel men, men belonging to an heretical sect, those following forbidden occupations, and sellers of spirituous liquor, let him instantly banish from his town.

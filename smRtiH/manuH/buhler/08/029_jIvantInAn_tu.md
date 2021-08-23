@@ -2,7 +2,4 @@
 title = "029 जीवन्तीनान् तु"
 
 +++
-जीवन्तीनां तु तासां ये  
-तद् धरेयुः स्वबान्धवाः ।  
-ताञ् शिष्याच् चौरदण्डेन  
-धार्मिकः पृथिवीपतिः  ॥ ८.२९ ॥
+029	A righteous king must punish like thieves those relatives who appropriate the property of such females during their lifetime.

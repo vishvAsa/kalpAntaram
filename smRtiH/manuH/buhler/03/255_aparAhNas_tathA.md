@@ -2,7 +2,4 @@
 title = "255 अपराह्णस् तथा"
 
 +++
-अपराह्णस् तथा दर्भा  
-वास्तुसम्पादनं तिलाः [मेधातिथिपाठः - सम्पादनं] ।  
-+++(अन्न)+++सृष्टिर् +++(भोजनान्ते)+++ मृष्टिर् द्विजाश् चाऽग्र्याः  
-श्राद्धकर्मसु सम्पदः  ॥ ३.२५५ ॥ [२४५ मेधातिथिपाठे]
+255	The afternoon, Kusa grass, the due preparation of the dwelling, sesamum grains, liberality, the careful preparation of the food, and (the company of) distinguished Brahmanas are true riches at all funeral sacrifices.

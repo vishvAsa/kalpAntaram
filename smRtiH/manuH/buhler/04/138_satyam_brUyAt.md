@@ -2,8 +2,4 @@
 title = "138 सत्यम् ब्रूयात्"
 
 +++
-
-सत्यं ब्रूयात् प्रियं ब्रूयान्  
-न ब्रूयात् सत्यम् अप्रियम् ।  
-प्रियं च नाऽनृतं ब्रूयाद्  
-एष धर्मः सनातनः  ॥ ४.१३८ ॥+++(5)+++  
+138	Let him say what is true, let him say what is pleasing, let him utter no disagreeable truth, and let him utter no agreeable falsehood; that is the eternal law.

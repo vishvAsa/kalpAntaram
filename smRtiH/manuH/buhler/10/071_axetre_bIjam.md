@@ -2,7 +2,4 @@
 title = "071 अक्षेत्रे बीजम्"
 
 +++
-अक्षेत्रे बीजम् उत्सृष्टम्  
-अन्तरैव विनश्यति ।  
-अबीजकम् अपि क्षेत्रं  
-केवलं स्थण्डिलं भवेत्  ॥ १०.७१ ॥
+071	Seed, sown on barren ground, perishes in it; a (fertile) field also, in which no (good) seed (is sown), will remain barren.

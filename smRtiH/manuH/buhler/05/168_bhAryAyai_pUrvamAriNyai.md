@@ -2,7 +2,4 @@
 title = "168 भार्यायै पूर्वमारिण्यै"
 
 +++
-भार्यायै पूर्वमारिण्यै  
-दत्त्वाग्नीन् अन्त्यकर्मणि ।  
-पुनर् दारक्रियां कुर्यात्  
-पुनर् आधानम् एव च  ॥ ५.१६८ ॥ [१६६ मेधातिथिपाठे]
+168	Having thus, at the funeral, given the sacred fires to his wife who dies before him, he may marry again, and again kindle (the fires).

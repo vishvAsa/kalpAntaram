@@ -2,7 +2,4 @@
 title = "103 तद् वदन्"
 
 +++
-तद् वदन् धर्मतो ऽर्थेषु  
-जानन्न् अप्य् अन्य्था नरः ।  
-न स्वर्गाच् च्यवते लोकाद्  
-दैवीं वाचं वदन्ति ताम्  ॥ ८.१०३ ॥
+103	In (some) cases a man who, though knowing (the facts to be) different, gives such (false evidence) from a pious motive, does not lose heaven; such (evidence) they call the speech of the gods.

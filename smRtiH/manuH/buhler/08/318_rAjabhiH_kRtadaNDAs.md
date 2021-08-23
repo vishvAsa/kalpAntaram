@@ -2,7 +2,4 @@
 title = "318 राजभिः कृतदण्डास्"
 
 +++
-राजभिः कृतदण्डास् तु  
-कृत्वा पापानि मानवाः [मेधातिथिपाठः - राजभिर् धृतदण्डास् तु] ।  
-निर्-मलाः स्वर्गम् आयान्ति  
-सन्तः सुकृतिनो यथा  ॥ ८.३१८ ॥
+318	But men who have committed crimes and have been punished by the king, go to heaven, being pure like those who performed meritorious deeds.

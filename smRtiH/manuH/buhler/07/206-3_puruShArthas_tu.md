@@ -2,7 +2,4 @@
 title = "206-३ पुरुषार्थस् तु"
 
 +++
-पुरुषार्थस् तु दैवेन  
-संयुक्तो यः प्रवर्तते।  
-अक्लेशेन स सर्वेषां  
-मन्त्रार्थानाम् एव साधकः ॥ ७.२०६.३ ॥ [मेधातिथिपाठे ऽधिकः-३।]
+206	Or (the king, bent on conquest), considering a friend, gold, and land (to be) the triple result (of an expedition), may, using diligent care, make peace with (his foe) and return (to his realm).

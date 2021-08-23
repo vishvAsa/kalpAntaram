@@ -2,7 +2,4 @@
 title = "026 देवस्वम् ब्राह्मणस्वम्"
 
 +++
-देवस्वं ब्राह्मणस्वं वा  
-लोभेनोपहिनस्ति यः ।  
-स पापात्मा परे लोके  
-गृध्रोच्छिष्टेन जीवति  ॥ ११.२६ ॥ [२५ मेधातिथिपाठे]
+026	That sinful man, who, through covetousness, seizes the property of the gods, or the property of Brahmanas, feeds in another world on the leavings of vultures.

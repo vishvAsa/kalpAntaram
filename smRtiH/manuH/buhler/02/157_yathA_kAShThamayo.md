@@ -2,8 +2,4 @@
 title = "157 यथा काष्ठमयो"
 
 +++
-
-यथा काष्ठमयो हस्ती  
-यथा चर्ममयो मृगः ।  
-यश् च विप्रो ऽनधीयानस्  
-त्रयस् ते नाम बिभ्रति  ॥ २.१५७ ॥
+157	As an elephant made of wood, as an antelope made of leather, such is an unlearned Brahmana; those three have nothing but the names (of their kind).

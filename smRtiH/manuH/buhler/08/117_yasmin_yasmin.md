@@ -2,7 +2,4 @@
 title = "117 यस्मिन् यस्मिन्"
 
 +++
-यस्मिन् यस्मिन् विवादे तु  
-कौटसाक्ष्यं कृतं भवेत् ।  
-तत् तत् कार्यं निवर्तेत  
-कृतं चाऽप्य् अकृतं भवेत्  ॥ ८.११७ ॥
+117	Whenever false evidence has been given in any suit, let the (judge) reverse the judgment, and whatever has been done must be (considered as) undone.

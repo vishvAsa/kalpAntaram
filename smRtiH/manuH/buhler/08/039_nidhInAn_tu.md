@@ -2,7 +2,4 @@
 title = "039 निधीनान् तु"
 
 +++
-निधीनां तु पुराणानां  
-धातूनाम् एव च क्षितौ ।  
-अर्धभाग् रक्षणाद् राजा  
-भूमेर् अधिपतिर् हि सः  ॥ ८.३९ ॥
+039	The king obtains one half of ancient hoards and metals (found) in the ground, by reason of (his giving) protection, (and) because he is the lord of the soil.

@@ -2,7 +2,4 @@
 title = "167 यस् तल्पजः"
 
 +++
-यस् तल्पजः प्रमीतस्य  
-क्लीबस्य व्याधितस्य वा ।  
-स्वधर्मेण नियुक्तायां  
-स पुत्रः क्षेत्रजः स्मृतः  ॥ ९.१६७ ॥
+167	He who was begotten according to the peculiar law (of the Niyoga) on the appointed wife of a dead man, of a eunuch, or of one diseased, is called a son begotten on a wife (Kshetraga).

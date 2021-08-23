@@ -2,8 +2,4 @@
 title = "074 ब्रह्मणः प्रणवम्"
 
 +++
-
-ब्रह्मणः प्रणवं कुर्याद्  
-आदाव् अन्ते च सर्वदा ।  
-स्रवत्य् अन्+ॐकृतं पूर्वं  
-परस्ताच् च विशीर्यति  ॥ २.७४ ॥
+074	Let him always pronounce the syllable Om at the beginning and at the end of (a lesson in) the Veda; (for) unless the syllable Om precede (the lesson) will slip away (from him), and unless it follow it will fade away.

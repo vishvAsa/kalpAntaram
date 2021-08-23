@@ -2,7 +2,4 @@
 title = "054 अलाबुन् दारुपात्रम्"
 
 +++
-अलाबुं दारुपात्रं च  
-मृण्मयं वैदलं तथा ।  
-एताणि यतिपात्राणि  
-मनुः स्वायम्भुवो ऽब्रवीत्  ॥ ६.५४ ॥
+054	A gourd, a wooden bowl, an earthen (dish), or one made of split cane, Manu, the son of Svayambhu, has declared (to be) vessels (suitable) for an ascetic.

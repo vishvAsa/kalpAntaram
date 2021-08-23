@@ -2,7 +2,4 @@
 title = "037 चण्डालात् पाण्डुसोपाकस्"
 
 +++
-चण्डालात् पाण्डुसोपाकस्  
-त्वक्सारव्यवहारवान् ।  
-आहिण्डिको निषादेन  
-वैदेह्याम् एव जायते  ॥ १०.३७ ॥
+037	From a Kandala by a Vaideha woman is born a Pandusopaka, who deals in cane; from a Nishada (by the same) an Ahindika.

@@ -2,8 +2,4 @@
 title = "035 कॢप्तकेश-नख-श्मश्रुर् दान्तः"
 
 +++
-
-कॢप्तकेश-नख-श्मश्रुर्  
-दान्तः शुक्लाम्बरः शुचिः ।  
-स्वाध्याये चैव युक्तः स्यान्  
-नित्यम् आत्महितेषु च  ॥ ४.३५ ॥  
+035	Keeping his hair, nails, and beard clipped, subduing his passions by austerities, wearing white garments and (keeping himself) pure, he shall be always engaged in studying the Veda and (such acts as are) conducive to his welfare.

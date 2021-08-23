@@ -2,7 +2,4 @@
 title = "185 निक्षेपोपनिधी नित्यम्"
 
 +++
-निक्षेपोपनिधी नित्यं  
-न देयौ प्रत्यनन्तरे ।  
-नश्यतो विनिपाते ताव्  
-अनिपाते त्व् अनाशिनौ  ॥ ८.१८५ ॥
+185	An open or a sealed deposit must never be returned to a near relative (of the depositor during the latter's lifetime); for if (the recipient) dies (without delivering them), they are lost, but if he does not die, they are not lost.

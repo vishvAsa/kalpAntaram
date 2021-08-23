@@ -2,8 +2,4 @@
 title = "048 गुच्छ-गुल्मन् तु"
 
 +++
-
-गुच्छ-गुल्मं तु विविधं  
-तथैव तृणजातयः ।  
-बीज-काण्डरुहाण्य् एव  
-प्रताना वल्ल्य एव च  ॥ १.४८ ॥
+048	But the various plants with many stalks, growing from one or several roots, the different kinds of grasses, the climbing plants and the creepers spring all from seed or from slips.

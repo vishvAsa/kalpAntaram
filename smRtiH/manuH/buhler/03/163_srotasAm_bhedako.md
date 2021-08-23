@@ -2,7 +2,4 @@
 title = "163 स्रोतसाम् भेदको"
 
 +++
-+++(कृष्याद्यर्थे)+++ स्रोतसां भेदको यश् च  
-तेषां चावरणे रतः ।  
-गृहसंवेशको दूतो  
-वृक्षारोपक एव च  ॥ ३.१६३ ॥ [१५३ मेधातिथिपाठे]
+163	He who diverts water-courses, and he who delights in obstructing them, an architect, a messenger, and he who plants trees (for money),

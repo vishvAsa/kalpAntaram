@@ -2,7 +2,4 @@
 title = "061 यादृशा धनिभिः"
 
 +++
-यादृशा धनिभिः कार्या  
-व्यवहारेषु साक्षिणः ।  
-तादृशान् संप्रवक्ष्यामि  
-यथा वाच्यम् ऋतं च तैः  ॥ ८.६१ ॥
+061	I will fully declare what kind of men may be made witnesses in suits by creditors, and in what manner those (witnesses) must give true (evidence).

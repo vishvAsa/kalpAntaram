@@ -2,7 +2,4 @@
 title = "337 अष्टापाद्यन् तु"
 
 +++
-अष्टापाद्यं तु शूद्रस्य  
-स्तेये भवति किल्बिषम् ।  
-षोडशैव तु वैश्यस्य  
-द्वात्रिंशत् क्षत्रियस्य च  ॥ ८.३३७ ॥
+337	In (a case of) theft the guilt of a Sudra shall be eightfold, that of a Vaisya sixteenfold, that of a Kshatriya two-and-thirtyfold,

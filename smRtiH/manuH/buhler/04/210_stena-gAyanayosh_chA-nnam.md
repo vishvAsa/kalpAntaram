@@ -2,8 +2,4 @@
 title = "210 स्तेन-गायनयोश् चाऽन्नम्"
 
 +++
-
-स्तेन-गायनयोश् चाऽन्नं  
-तक्ष्णो वार्धुषिकस्य च ।  
-दीक्षितस्य कदर्यस्य+++(=कृपणस्य)+++  
-बद्धस्य निगडस्य+++(=पादशृङ्खलस्य)+++ च  ॥ ४.२१० ॥ [२११ मेधातिथिपाठे]  
+210	Nor the food (given) by a thief, a musician, a carpenter, a usurer, one who has been initiated (for the performance of a Srauta sacrifice), a miser, one bound with fetters,

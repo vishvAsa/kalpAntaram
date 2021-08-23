@@ -2,7 +2,4 @@
 title = "151 यस्मै दद्यात्"
 
 +++
-यस्मै दद्यात् पिता त्व् एनां  
-भ्राता वानुमते पितुः ।  
-तं शुश्रूषेत जीवन्तं  
-संस्थितं च न लङ्घयेत्  ॥ ५.१५१ ॥ [१४९ मेधातिथिपाठे]
+151	Him to whom her father may give her, or her brother with the father's permission, she shall obey as long as he lives, and when he is dead, she must not insult (his memory).

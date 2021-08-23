@@ -2,7 +2,4 @@
 title = "322 नाऽब्रह्म क्षत्रम्"
 
 +++
-नाऽब्रह्म क्षत्रम् ऋध्नोति  
-नाऽक्षत्रं ब्रह्म वर्धते ।  
-ब्रह्म क्षत्रं च संपृक्तम्  
-इह चाऽमुत्र वर्धते  ॥ ९.३२२ ॥
+322	Kshatriyas prosper not without Brahmanas, Brahmanas prosper not without Kshatriyas; Brahmanas and Kshatriyas, being closely united, prosper in this (world) and in the next.

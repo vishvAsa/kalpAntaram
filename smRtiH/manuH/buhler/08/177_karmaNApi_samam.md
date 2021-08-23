@@ -2,7 +2,4 @@
 title = "177 कर्मणापि समम्"
 
 +++
-कर्मणापि समं कुर्याद्  
-धनिकायाऽधमर्णिकः ।  
-समो ऽवकृष्टजातिस् तु  
-दद्याच् छ्रेयांस् तु तच् छनैः  ॥ ८.१७७ ॥
+177	Even by (personal) labour shall the debtor make good (what he owes) to his creditor, if he be of the same caste or of a lower one; but a (debtor) of a higher caste shall pay it gradually (when he earns something).

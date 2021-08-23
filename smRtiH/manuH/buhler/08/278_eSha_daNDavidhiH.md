@@ -2,7 +2,4 @@
 title = "278 एष दण्डविधिः"
 
 +++
-एष दण्डविधिः प्रोक्तो  
-वाक्पारुष्यस्य तत्त्वतः ।  
-अत ऊर्ध्वं प्रवक्ष्यामि  
-दण्डपारुष्यनिर्णयम्  ॥ ८.२७८ ॥
+278	Thus the rules for punishments (applicable to cases) of defamation have been truly declared; I will next propound the decision (of cases) of assault.

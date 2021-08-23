@@ -2,7 +2,4 @@
 title = "153 चतुरो ऽंशान्"
 
 +++
-चतुरो ऽंशान् हरेद् विप्रस्  
-त्रीन् अंशान् क्षत्रियासुतः ।  
-वैश्यापुत्रो हरेद् द्व्यंशं  
-अंशं शूद्रासुतो हरेत्  ॥ ९.१५३ ॥
+153	The Brahmana (son) shall take four shares, son of the Kshatriya (wife) three, the son of the Vaisya shall have two parts, the son of the Sudra may take one share.

@@ -2,7 +2,4 @@
 title = "165 औरस-क्षेत्रजौ पुत्रौ"
 
 +++
-औरस-क्षेत्रजौ पुत्रौ  
-पितृ-रिक्थस्य भागिनौ ।  
-दशाऽपरे तु क्रमशो  
-गोत्र-रिक्थांशभागिनः  ॥ ९.१६५ ॥
+165	The legitimate son and the son of the wife (thus) share the father's estate; but the other tell become members of the family, and inherit according to their order (each later named on failure of those named earlier).

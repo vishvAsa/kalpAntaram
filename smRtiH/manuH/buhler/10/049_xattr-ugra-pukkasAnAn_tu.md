@@ -2,7 +2,4 @@
 title = "049 क्षत्त्र्-उग्र-पुक्कसानान् तु"
 
 +++
-क्षत्त्र्-उग्र-पुक्कसानां तु  
-बिलौकोवध-बन्धनम् ।  
-धिग्वणानां चर्मकार्यं  
-वेणानां भाण्डवादनम्  ॥ १०.४९ ॥
+049	To Kshattris, Ugras, and Pukkasas, catching and killing (animals) living in holes; to Dhigvanas, working in leather; to Venas, playing drums.

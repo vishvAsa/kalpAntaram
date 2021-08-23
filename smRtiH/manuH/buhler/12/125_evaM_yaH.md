@@ -2,8 +2,4 @@
 title = "125 एवं यः"
 
 +++
-
-एवं यः सर्वभूतेषु  
-पश्यत्य् आत्मानम् आत्मना ।  
-स सर्वसमताम् एत्य  
-ब्रह्माऽभ्येति परं पदम्  ॥ १२.१२५ ॥
+125	He who thus recognises the Self through the Self in all created beings, becomes equal (-minded) towards all, and enters the highest state, Brahman.

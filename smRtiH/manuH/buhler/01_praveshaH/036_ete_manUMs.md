@@ -2,8 +2,4 @@
 title = "036 एते मनूंस्"
 
 +++
-
-एते मनूंस् तु सप्तान् यान्  
-असृजन् भूरितेजसः ।  
-देवान् देवनिकायांश् च  
-महर्षींश् चाऽमितौजसः  ॥ १.३६ ॥
+036	They created seven other Manus possessing great brilliancy, gods and classes of gods and great sages of measureless power,

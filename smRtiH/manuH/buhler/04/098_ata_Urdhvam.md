@@ -2,8 +2,4 @@
 title = "098 अत ऊर्ध्वम्"
 
 +++
-
-अत ऊर्ध्वं तु छन्दांसि  
-शुक्लेषु नियतः पठेत् ।  
-वेदाङ्गानि च सर्वाणि  
-कृष्णपक्षेषु सम्पठेत्  ॥ ४.९८ ॥+++(5)+++  
+098	Afterwards he shall diligently recite the Vedas during the bright (halves of the months), and duly study all the Angas of the Vedas during the dark fortnights.

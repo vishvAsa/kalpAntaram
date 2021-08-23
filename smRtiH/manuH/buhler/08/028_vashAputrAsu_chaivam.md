@@ -2,7 +2,4 @@
 title = "028 वशापुत्रासु चैवम्"
 
 +++
-वशापुत्रासु चैवं स्याद्  
-रक्षणं निष्-कुलासु च ।  
-पति-व्रतासु च स्त्रीषु  
-विधवास्व् आतुरासु च  ॥ ८.२८ ॥
+028	In like manner care must be taken of barren women, of those who have no sons, of those whose family is extinct, of wives and widows faithful to their lords, and of women afflicted with diseases.

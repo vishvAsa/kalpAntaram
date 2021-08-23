@@ -2,7 +2,4 @@
 title = "100 शिलान् अप्य्"
 
 +++
-शिलान् अप्य् उञ्छतो नित्यं  
-पञ्चाग्नीन् अपि जुह्वतः ।  
-सर्वं सुकृतम् आदत्ते  
-ब्राह्मणो ऽनर्चितो वसन्  ॥ ३.१०० ॥ [९० मेधातिथिपाठे]
+100	A Brahmana who stays unhonoured (in the house), takes away (with him) all the spiritual merit even of a man who subsists by gleaning ears of corn, or offers oblations in five fires.

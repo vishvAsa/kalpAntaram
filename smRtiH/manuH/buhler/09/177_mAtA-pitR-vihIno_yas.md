@@ -2,7 +2,4 @@
 title = "177 माता-पितृ-विहीनो यस्"
 
 +++
-माता-पितृ-विहीनो यस्  
-त्यक्तो वा स्याद् अकारणात् ।  
-आत्मानम् अर्पयेद् यस्मै  
-स्वयंदत्तस् तु स स्मृतः  ॥ ९.१७७ ॥
+177	He who, having lost his parents or being abandoned (by them) without (just) cause, gives himself to a (man), is called a son self-given (Svayamdatta).

@@ -2,7 +2,4 @@
 title = "132 जालान्तरगते भानौ"
 
 +++
-जालान्तरगते भानौ  
-यत् सूक्ष्मं दृश्यते रजः ।  
-प्रथमं तत् प्रमाणानां  
-त्रसरेणुं प्रचक्षते  ॥ ८.१३२ ॥
+132	The very small mote which is seen when the sun shines through a lattice, they declare (to be) the least of (all) quantities and (to be called) a trasarenu (a floating particle of dust).

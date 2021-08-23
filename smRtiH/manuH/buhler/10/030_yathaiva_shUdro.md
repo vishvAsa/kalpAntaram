@@ -2,7 +2,4 @@
 title = "030 यथैव शूद्रो"
 
 +++
-यथैव शूद्रो ब्राह्मण्यां  
-बाह्यं जन्तुं प्रसूयते ।  
-तथा बाह्यतरं बाह्यश्  
-चातुर्वर्ण्ये प्रसूयते  ॥ १०.३० ॥
+030	Just as a Sudra begets on a Brahmana female a being excluded (from the Aryan community), even so (a person himself) excluded pro creates with (females of) the four castes (varna, sons) more (worthy of being) excluded (than he himself).

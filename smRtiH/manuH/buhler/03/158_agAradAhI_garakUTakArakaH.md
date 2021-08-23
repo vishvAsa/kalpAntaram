@@ -2,7 +2,4 @@
 title = "158 अगारदाही गरकूटकारकः"
 
 +++
-अगारदाही गर+++(ल)+++दः  
-कुण्डाशी+++(=जारजाशी)+++ सोमविक्रयी ।  
-समुद्रयायी बन्दी च  
-तैलिकः +++(न्यायालय)+++कूटकारकः  ॥ ३.१५८ ॥ [१४८ मेधातिथिपाठे]
+158	An incendiary, a prisoner, he who eats the food given by the son of an adulteress, a seller of Soma, he who undertakes voyages by sea, a bard, an oil-man, a suborner to perjury,

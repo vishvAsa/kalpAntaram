@@ -2,7 +2,4 @@
 title = "282 अवनिष्ठीवतो दर्पाद्"
 
 +++
-अवनिष्ठीवतो दर्पाद्  
-द्वाव् ओष्ठौ छेदयेन् नृपः ।  
-अवमूत्रयतो मेढ्रम्  
-अवशर्धयतो गुदम्  ॥ ८.२८२ ॥
+282	If out of arrogance he spits (on a superior), the king shall cause both his lips to be cut off; if he urines (on him), the penis; if he breaks wind (against him), the anus.

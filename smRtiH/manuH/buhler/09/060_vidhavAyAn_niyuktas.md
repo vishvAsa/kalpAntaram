@@ -2,7 +2,4 @@
 title = "060 विधवायान् नियुक्तस्"
 
 +++
-विधवायां नियुक्तस् तु  
-घृताक्तो वाग्यतो निशि ।  
-एकम् उत्पादयेत् पुत्रं  
-न द्वितीयं कथं चन  ॥ ९.६० ॥
+060	He (who is) appointed to (cohabit with) the widow shall (approach her) at night anointed with clarified butter and silent, (and) beget one son, by no means a second.

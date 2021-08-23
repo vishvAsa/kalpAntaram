@@ -2,8 +2,4 @@
 title = "116 एतद् वो"
 
 +++
-
-एतद् वो ऽभिहितं सर्वं  
-निःश्रेयसकरं परम् ।  
-अस्माद् अप्रच्युतो विप्रः  
-प्राप्नोति परमां गतिम्  ॥ १२.११६ ॥
+116	All that which is most efficacious for securing supreme bliss has been thus declared to you; a Brahmana who does not fall off from that obtains the most excellent state.

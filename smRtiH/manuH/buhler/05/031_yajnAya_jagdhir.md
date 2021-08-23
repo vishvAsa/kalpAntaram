@@ -2,7 +2,4 @@
 title = "031 यज्ञाय जग्धिर्"
 
 +++
-यज्ञाय जग्धिर् मांसस्येत्य्  
-एष दैवो विधिः स्मृतः ।  
-अतो ऽन्यथा प्रवृत्तिस् तु  
-राक्षसो विधिर् उच्यते  ॥ ५.३१ ॥+++(4)+++
+031	'The consumption of meat (is befitting) for sacrifices,' that is declared to be a rule made by the gods; but to persist (in using it) on other (occasions) is said to be a proceeding worthy of Rakshasas.

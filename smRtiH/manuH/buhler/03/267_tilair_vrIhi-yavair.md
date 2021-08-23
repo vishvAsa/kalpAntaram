@@ -2,7 +2,4 @@
 title = "267 तिलैर् व्रीहि-यवैर्"
 
 +++
-तिलैर् व्रीहि-यवैर् माषैर्  
-अद्भिर् मूल-फलेन वा ।  
-दत्तेन मासं तृप्यन्ति  
-विधिवत् पितरो नृनाम्  ॥ ३.२६७ ॥ [२५७ मेधातिथिपाठे]
+267	The ancestors of men are satisfied for one month with sesamum grains, rice, barley, masha beans, water, roots, and fruits, which have been given according to the prescribed rule,

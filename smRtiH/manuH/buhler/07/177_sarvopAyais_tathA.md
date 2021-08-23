@@ -2,7 +2,4 @@
 title = "177 सर्वोपायैस् तथा"
 
 +++
-सर्वोपायैस् तथा कुर्यान्  
-नीतिज्ञः पृथिवीपतिः ।  
-यथास्याऽभ्यधिका न स्युर्  
-मित्रोदासीन-शत्रवः  ॥ ७.१७७ ॥ [१७८ मेधातिथिपाठे]
+177	By all (the four) expedients a politic prince must arrange (matters so) that neither friends, nor neutrals, nor foes are superior to himself.

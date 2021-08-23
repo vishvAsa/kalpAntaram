@@ -2,7 +2,4 @@
 title = "227 ख्यापनेनानुतापेन तपसाध्ययनेन"
 
 +++
-ख्यापनेनानुतापेन  
-तपसाध्ययनेन च ।  
-पापकृन् मुच्यते पापात्  
-तथा दानेन चापदि  ॥ ११.२२७ ॥ [२२६ मेधातिथिपाठे]
+228	By confession, by repentance, by austerity, and by reciting (the Veda) a sinner is freed from guilt, and in case no other course is possible, by liberality.

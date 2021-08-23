@@ -2,7 +2,4 @@
 title = "227 द्यूतम् एतत्"
 
 +++
-द्यूतम् एतत् पुरा कल्पे  
-दृष्टं वैरकरं महत् ।  
-तस्माद् द्यूतं न सेवेत  
-हास्यार्थम् अपि बुद्धिमान्  ॥ ९.२२७ ॥
+227	In a former Kalpa this (vice of) gambling has been seen to cause great enmity; a wise man, therefore, should not practise it even for amusement.

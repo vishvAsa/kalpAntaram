@@ -2,8 +2,4 @@
 title = "069 उपनीय गुरुः"
 
 +++
-
-उपनीय गुरुः शिष्यं  
-शिक्षयेच् छौचम् आदितः ।  
-आचारम् अग्निकार्यं च  
-सन्ध्योपासनम् एव च  ॥ २.६९ ॥
+069	Having performed the (rite of) initiation, the teacher must first instruct the (pupil) in (the rules of) personal purification, of conduct, of the fire-worship, and of the twilight devotions.

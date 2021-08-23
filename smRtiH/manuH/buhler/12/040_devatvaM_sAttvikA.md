@@ -2,8 +2,4 @@
 title = "040 देवत्वं सात्त्विका"
 
 +++
-
-देवत्वं सात्त्विका यान्ति  
-मनुष्यत्वं च राजसाः ।  
-तिर्यक्त्वं तामसा नित्यम्  
-इत्य् एषा त्रिविधा गतिः  ॥ १२.४० ॥
+040	Those endowed with Goodness reach the state of gods, those endowed with Activity the state of men, and those endowed with Darkness ever sink to the condition of beasts; that is the threefold course of transmigrations.

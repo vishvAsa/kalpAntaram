@@ -2,7 +2,4 @@
 title = "082 या रोगिणी"
 
 +++
-या रोगिणी स्यात् तु हिता  
-संपन्ना चैव शीलतः ।  
-सानुज्ञाप्याऽधिवेत्तव्या  
-नाऽवमान्या च कर्हि चित्  ॥ ९.८२ ॥
+082	But a sick wife who is kind (to her husband) and virtuous in her conduct, may be superseded (only) with her own consent and must never be disgraced.

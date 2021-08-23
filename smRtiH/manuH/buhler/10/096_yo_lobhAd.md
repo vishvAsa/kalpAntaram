@@ -2,7 +2,4 @@
 title = "096 यो लोभाद्"
 
 +++
-यो लोभाद् अधमो जात्या  
-जीवेद् उत्कृष्ट-कर्मभिः ।  
-तं राजा निर्धनं कृत्वा  
-क्षिप्रम् एव प्रवासयेत्  ॥ १०.९६ ॥
+096	A man of low caste who through covetousness lives by the occupations of a higher one, the king shall deprive of his property and banish.

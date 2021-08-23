@@ -2,7 +2,4 @@
 title = "216 एकैकं ह्रासयेत्"
 
 +++
-एकैकं ह्रासयेत् पिण्डं  
-कृष्णे शुक्ले च वर्धयेत् ।  
-उपस्पृशंस् त्रिषवणम्  
-एतच् चाण्द्रायणं स्मृतम्  ॥ ११.२१६ ॥ [२१५ मेधातिथिपाठे]
+217	If one diminishes (one's food daily by) one mouthful during the dark (half of the month) and increases (it in the same manner) during the bright half, and bathes (daily) at the time of three libations (morning, noon, and evening), that is called a lunar penance (Kandrayana).

@@ -2,7 +2,4 @@
 title = "064 शूद्रायाम् ब्राह्मणाज्"
 
 +++
-शूद्रायां ब्राह्मणाज् जातः  
-श्रेयसा चेत् प्रजायते ।  
-अश्रेयान् श्रेयसीं जातिं  
-गच्छत्य् आ सप्तमाद् युगात्  ॥ १०.६४ ॥
+064	If (a female of the caste), sprung from a Brahmana and a Sudra female, bear (children) to one of the highest caste, the inferior (tribe) attains the highest caste within the seventh generation.

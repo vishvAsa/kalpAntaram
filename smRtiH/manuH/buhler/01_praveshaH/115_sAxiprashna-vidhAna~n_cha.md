@@ -2,8 +2,4 @@
 title = "115 साक्षिप्रश्न-विधानञ् च"
 
 +++
-
-साक्षिप्रश्न-विधानं च  
-धर्मं स्त्री-पुंसयोर् अपि ।  
-विभागधर्मं द्यूतं च  
-कण्टकानां च शोधनम्  ॥ १.११५ ॥
+115	The rules for the examination of witnesses, the laws concerning husband and wife, the law of (inheritance and) division, (the law concerning) gambling and the removal of (men nocuous like) thorns,

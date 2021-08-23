@@ -2,7 +2,4 @@
 title = "134 घृतकुम्भं वराहे"
 
 +++
-घृतकुम्भं वराहे तु  
-तिलद्रोणं तु तित्तिरौ ।  
-शुके द्विहायनं वत्सं  
-क्रौञ्चं हत्वा त्रिहायनम्  ॥ ११.१३४ ॥ [१३३ मेधातिथिपाठे]
+135	For a boar a pot of clarified butter, for a partridge a drona of sesamum-grains, for a parrot a calf two years old, for a crane (a calf) three years old.

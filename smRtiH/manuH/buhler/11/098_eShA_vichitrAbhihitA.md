@@ -2,7 +2,4 @@
 title = "098 एषा विचित्राभिहिता"
 
 +++
-एषा विचित्राभिहिता  
-सुरापानस्य निष्कृतिः ।  
-अत ऊर्ध्वं प्रवक्ष्यामि  
-सुवर्णस्तेयनिष्कृतिम्  ॥ ११.९८ ॥ [९७ मेधातिथिपाठे]
+099	The various expiations for drinking (the spirituous liquors called) Sura have thus been explained; I will next proclaim the atonement for stealing the gold (of a Brahmana).

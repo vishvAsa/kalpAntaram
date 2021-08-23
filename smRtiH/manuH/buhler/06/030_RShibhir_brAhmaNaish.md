@@ -2,7 +2,4 @@
 title = "030 ऋषिभिर् ब्राह्मणैश्"
 
 +++
-ऋषिभिर् ब्राह्मणैश् चैव  
-गृहस्थैर् एव सेविताः ।  
-विद्या-तपो-विवृद्ध्यर्थं  
-शरीरस्य च शुद्धये  ॥ ६.३० ॥
+030	(As well as those rites and texts) which have been practised and studied by the sages (Rishis), and by Brahmana householders, in order to increase their knowledge (of Brahman), and their austerity, and in order to sanctify their bodies;

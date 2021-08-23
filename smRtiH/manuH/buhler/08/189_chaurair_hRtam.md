@@ -2,7 +2,4 @@
 title = "189 चौरैर् हृतम्"
 
 +++
-चौरैर् हृतं जलेनोढम्  
-अग्निना दग्धम् एव वा ।  
-न दद्याद् यदि तस्मात् स  
-न संहरति किं चन  ॥ ८.१८९ ॥
+189	(A deposit) which has been stolen by thieves or washed away by water or burned by fire, (the bailee) shall not make it good, unless he took part of it (for himself).

@@ -2,7 +2,4 @@
 title = "165 योगाधमनविक्रीतं योगदानप्रतिग्रहम्"
 
 +++
-योगाधमनविक्रीतं  
-योगदानप्रतिग्रहम् ।  
-यत्र वाप्य् उपधिं पश्येत्  
-तत् सर्वं विनिवर्तयेत्  ॥ ८.१६५ ॥
+165	A fraudulent mortgage or sale, a fraudulent gift or acceptance, and (any transaction) where he detects fraud, the (judge) shall declare null and void.

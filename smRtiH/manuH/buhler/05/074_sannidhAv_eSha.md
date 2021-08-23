@@ -2,7 +2,4 @@
 title = "074 सन्निधाव् एष"
 
 +++
-सन्निधाव् एष वै कल्पः  
-शावाशौचस्य कीर्तितः ।  
-असन्निधाव् अयं ज्ञेयो  
-विधिः सम्बन्धि-बान्धवैः  ॥ ५.७४ ॥ [७३ मेधातिथिपाठे]
+074	The above rule regarding impurity on account of a death has been prescribed (for cases where the kinsmen live) near (the deceased); (Sapinda) kinsmen and (Samanodaka) relatives must know the following rule (to refer to cases where deceased lived) at a distance (from them).

@@ -2,7 +2,4 @@
 title = "224 पाणिभ्यान् तूपसङ्गृह्य"
 
 +++
-पाणिभ्यां तूपसङ्गृह्य  
-स्वयम् अन्नस्य वर्धितम् [मेधातिथिपाठः - वर्द्धितम्] ।  
-विप्रान्तिके पितॄन् ध्यायन्  
-शनकैर् उपनिक्षिपेत्  ॥ ३.२२४ ॥ [२१४ मेधातिथिपाठे]
+224	But carrying (the vessel) filled with food with both hands, the (sacrificer) himself shall gently place it before the Brahmanas, meditating on the manes.

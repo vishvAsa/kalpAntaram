@@ -2,7 +2,4 @@
 title = "115 यम् इद्धो"
 
 +++
-यम् इद्धो न दहत्य् अग्निर्  
-आपो नोन्मज्जयन्ति च ।  
-न चार्तिम् ऋच्छति क्षिप्रं  
-स ज्ञेयः शपथे शुचिः  ॥ ८.११५ ॥
+115	He whom the blazing fire burns not, whom the water forces not to come (quickly) up, who meets with no speedy misfortune, must be held innocent on (the strength of) his oath.

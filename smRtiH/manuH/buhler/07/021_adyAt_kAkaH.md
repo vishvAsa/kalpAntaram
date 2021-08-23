@@ -2,7 +2,4 @@
 title = "021 अद्यात् काकः"
 
 +++
-अद्यात् काकः पुरोडाशं  
-श्वा च लिह्याद् +धविस् तथा [मेधातिथिपाठः - श्वावलिह्याद्द्] ।  
-स्वाम्यं च न स्यात् कस्मिंश् चित्  
-प्रवर्तेताऽधरोत्तरम्  ॥ ७.२१ ॥
+021	The crow would eat the sacrificial cake and the dog would lick the sacrificial viands, and ownership would not remain with any one, the lower ones would (usurp the place of) the higher ones.

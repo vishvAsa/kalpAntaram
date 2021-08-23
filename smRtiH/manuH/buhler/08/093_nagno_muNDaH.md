@@ -2,7 +2,4 @@
 title = "093 नग्नो मुण्डः"
 
 +++
-नग्नो मुण्डः कपालेन च  
-भिक्षार्थी क्षुत्-पिपासितः [मेधातिथिपाठः - कपाली] ।  
-अन्धः शत्रुकुलं गच्छेद्  
-यः साक्ष्यम् अनृतं वदेत्  ॥ ८.९३ ॥
+093	'Naked and shorn, tormented with hunger and thirst, and deprived of sight, shall the man who gives false evidence, go with a potsherd to beg food at the door of his enemy.

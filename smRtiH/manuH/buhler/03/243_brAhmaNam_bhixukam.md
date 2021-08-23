@@ -2,7 +2,4 @@
 title = "243 ब्राह्मणम् भिक्षुकम्"
 
 +++
-ब्राह्मणं भिक्षुकं वापि  
-भोजनार्थम् उपस्थितम् ।  
-ब्राह्मणैर् अभ्यनुज्ञातः  
-शक्तितः प्रतिपूजयेत्  ॥ ३.२४३ ॥ [२३३ मेधातिथिपाठे]
+243	To a Brahmana (householder), or to an ascetic who comes for food, he may, with the permission of (his) Brahmana (guests), show honour according to his ability.

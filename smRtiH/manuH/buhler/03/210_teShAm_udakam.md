@@ -2,7 +2,4 @@
 title = "210 तेषाम् उदकम्"
 
 +++
-तेषाम् उदकम् आनीय  
-स-पवित्रांस् तिलान् अपि ।  
-अग्नौ कुर्याद् अनुज्ञातो  
-ब्राह्मणो ब्राह्मणैः सह  ॥ ३.२१० ॥ [२०० मेधातिथिपाठे]
+210	Having presented to them water, sesamum grains, and blades of Kusa grass, the Brahmana (sacrificer) shall offer (oblations) in the sacred fire, after having received permission (to do so) from (all) the Brahmana (guests) conjointly.

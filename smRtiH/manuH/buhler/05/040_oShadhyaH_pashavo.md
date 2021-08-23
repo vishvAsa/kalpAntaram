@@ -2,7 +2,4 @@
 title = "040 ओषध्यः पशवो"
 
 +++
-ओषध्यः पशवो वृक्षास्  
-तिर्यञ्चः पक्षिणस् तथा ।  
-यज्ञार्थं निधनं प्राप्ताः  
-प्राप्नुवन्त्य् उत्सृतीः पुनः [मेधातिथिपाठः - उच्छ्रितीः]  ॥ ५.४० ॥
+040	Herbs, trees, cattle, birds, and (other) animals that have been destroyed for sacrifices, receive (being reborn) higher existences.

@@ -2,7 +2,4 @@
 title = "055 अनृतञ् च"
 
 +++
-अनृतं च समुत्कर्षे  
-राजगामि च पैशुनम् ।  
-गुरोश् चालीक-निर्बन्धः  
-समानि ब्रह्महत्यया  ॥ ११.५५ ॥ [५४ मेधातिथिपाठे]
+056	Falsely attributing to oneself high birth, giving information to the king (regarding a crime), and falsely accusing one's teacher, (are offences) equal to slaying a Brahmana.

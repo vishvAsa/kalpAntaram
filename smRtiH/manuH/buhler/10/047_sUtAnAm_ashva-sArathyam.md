@@ -2,7 +2,4 @@
 title = "047 सूतानाम् अश्व-सारथ्यम्"
 
 +++
-सूतानाम् अश्व-सारथ्यम्  
-अम्बष्ठानां चिकित्सनम् ।  
-वैदेहकानां स्त्रीकार्यं  
-मागधानां वणिक्पथः  ॥ १०.४७ ॥
+047	To Sutas (belongs) the management of horses and of chariots; to Ambashthas, the art of healing; to Vaidehakas, the service of women; to Magadhas, trade;

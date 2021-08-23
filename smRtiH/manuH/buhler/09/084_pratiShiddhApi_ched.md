@@ -2,7 +2,4 @@
 title = "084 प्रतिषिद्धापि चेद्"
 
 +++
-प्रतिषिद्धापि चेद् या तु  
-मद्यम् अभ्युदयेष्व् अपि [ मेधातिथिपाठः - प्रतिषेधे पिबेद् या तु] ।  
-प्रेक्षा-समाजं गच्छेद् वा  
-सा दण्ड्या कृष्णलानि षट्  ॥ ९.८४ ॥
+084	But she who, though having been forbidden, drinks spirituous liquor even at festivals, or goes to public spectacles or assemblies, shall be fined six krishnalas.

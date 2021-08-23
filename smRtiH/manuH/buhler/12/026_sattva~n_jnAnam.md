@@ -2,8 +2,4 @@
 title = "026 सत्त्वञ् ज्ञानम्"
 
 +++
-
-सत्त्वं ज्ञानं तमो ऽज्ञानं  
-राग-द्वेषौ रजः स्मृतम् ।  
-एतद् व्याप्तिमद् एतेषां  
-सर्वभूताश्रितं वपुः  ॥ १२.२६ ॥
+026	Goodness is declared (to have the form of) knowledge, Darkness (of) ignorance, Activity (of) love and hatred; such is the nature of these (three) which is (all-) pervading and clings to everything created.

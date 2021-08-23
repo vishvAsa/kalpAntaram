@@ -2,7 +2,4 @@
 title = "293 यत्राऽपवर्तते युग्यम्"
 
 +++
-यत्राऽपवर्तते युग्यं  
-वैगुण्यात् प्राजकस्य तु ।  
-तत्र स्वामी भवेद् दण्ड्यो  
-हिंसायां द्विशतं दमम्  ॥ ८.२९३ ॥
+293	But if the cart turns off (the road) through the driver's want of skill, the owner shall be fined, if damage (is done), two hundred (panas).

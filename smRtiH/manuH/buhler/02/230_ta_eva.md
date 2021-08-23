@@ -2,8 +2,4 @@
 title = "230 त एव"
 
 +++
-
-त एव हि त्रयो लोकास्  
-त एव त्रय आश्रमाः ।  
-त एव हि त्रयो वेदास्  
-त एवोक्तास् त्रयो ऽग्नयः  ॥ २.२३० ॥
+230	For they are declared to be the three worlds, they the three (principal) orders, they the three Vedas, and they the three sacred fires.

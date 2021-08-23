@@ -2,7 +2,4 @@
 title = "263 सामन्ताश् चेन्"
 
 +++
-सामन्ताश् चेन् मृषा ब्रूयुः  
-सेतौ विवादतां नृणाम् ।  
-सर्वे पृथक् पृथग् दण्ड्या  
-राज्ञा मध्यमसाहसम्  ॥ ८.२६३ ॥
+263	Should the neighbours give false evidence, when men dispute about a boundary-mark, the king shall make each of them pay the middlemost amercement as a fine.

@@ -2,7 +2,4 @@
 title = "029 पतिं या"
 
 +++
-पतिं या नाऽभिचरति  
-मनो-वाग्-देहसंयता ।  
-सा भर्तृलोकान् आप्नोति  
-सद्भिः साध्वीति चोच्यते  ॥ ९.२९ ॥
+029	She who, controlling her thoughts, speech, and acts, violates not her duty towards her lord, dwells with him (after death) in heaven, and in this world is called by the virtuous a faithful (wife, sadhvi)

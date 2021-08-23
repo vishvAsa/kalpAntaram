@@ -2,7 +2,4 @@
 title = "057 प्रेत-शुद्धिम् प्रवक्ष्यामि"
 
 +++
-प्रेत-शुद्धिं प्रवक्ष्यामि  
-द्रव्य-शुद्धिं तथैव च ।  
-चतुर्णाम् अपि वर्णानां  
-यथावद् अनुपूर्वशः  ॥ ५.५७ ॥
+057	I will now in due order explain the purification for the dead and the purification of things as they are prescribed for the four castes (varna).

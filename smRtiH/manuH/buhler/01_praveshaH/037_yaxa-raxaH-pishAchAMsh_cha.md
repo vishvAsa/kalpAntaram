@@ -2,8 +2,4 @@
 title = "037 यक्ष-रक्षः-पिशाचांश् च"
 
 +++
-
-यक्ष-रक्षः-पिशाचांश् च  
-गन्धर्वाप्सरसो ऽसुरान् ।  
-नागान् सर्पान् सुपर्णांश् च  
-पितॄणांश् च पृथग्गणम् [मेधातिथिपाठः - पितॄणां]  ॥ १.३७ ॥
+037	Yakshas (the servants of Kubera, the demons called) Rakshasas and Pisakas, Gandharvas (or musicians of the gods), Apsarases (the dancers of the gods), Asuras, (the snake-deities called) Nagas and Sarpas, (the bird-deities called) Suparnas and the several classes of the manes,

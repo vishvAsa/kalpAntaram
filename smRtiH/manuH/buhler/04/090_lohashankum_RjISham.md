@@ -2,8 +2,4 @@
 title = "090 लोहशङ्कुम् ऋजीषम्"
 
 +++
-
-लोहशङ्कुम् ऋजीषं च  
-पन्थानं शाल्मलीं नदीम् ।  
-असिपत्रवनं चैव  
-लोहदारकम् एव च  ॥ ४.९० ॥  
+090	Lohasanku, Rigisha, Pathin, the (flaming) river, Salmala, Asipatravana, and Lohakaraka.

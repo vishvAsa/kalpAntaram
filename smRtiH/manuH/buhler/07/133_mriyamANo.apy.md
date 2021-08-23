@@ -2,7 +2,4 @@
 title = "133 म्रियमाणो ऽप्य्"
 
 +++
-म्रियमाणो ऽप्य् आददीत न  
-राजा श्रोत्रियात् करम् ।  
-न च क्षुधास्य संसीदेच्  
-छ्रोत्रियो विषये वसन्  ॥ ७.१३३ ॥ [१३४ मेधातिथिपाठे]
+133	Though dying (with want), a king must not levy a tax on Srotriyas, and no Srotriya, residing in his kingdom, must perish from hunger.

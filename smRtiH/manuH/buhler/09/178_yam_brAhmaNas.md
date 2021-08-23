@@ -2,7 +2,4 @@
 title = "178 यम् ब्राह्मणस्"
 
 +++
-यं ब्राह्मणस् तु शूद्रायां  
-कामाद् उत्पादयेत् सुतम् ।  
-स पारयन्न् एव शवस्  
-तस्मात् पारशवः स्मृतः  ॥ ९.१७८ ॥
+178	The son whom a Brahmana begets through lust on a Sudra female is, (though) alive (parayan), a corpse (sava), and hence called a Parasava (a living corpse).

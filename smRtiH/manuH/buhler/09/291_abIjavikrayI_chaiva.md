@@ -2,7 +2,4 @@
 title = "291 अबीजविक्रयी चैव"
 
 +++
-अबीजविक्रयी चैव  
-बीजोत्कृष्टा तथैव च ।  
-मर्यादाभेदकश् चैव  
-विकृतं प्राप्नुयाद् वधम्  ॥ ९.२९१ ॥
+291	He who sells (for seed-corn that which is) not seed-corn, he who takes up seed (already sown), and he who destroys a boundary (-mark), shall be punished by mutilation.

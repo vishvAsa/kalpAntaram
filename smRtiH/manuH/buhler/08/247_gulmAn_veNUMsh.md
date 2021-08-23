@@ -2,7 +2,4 @@
 title = "247 गुल्मान् वेणूंश्"
 
 +++
-गुल्मान् वेणूंश् च विविधान्  
-शमी-वल्ली-स्थलानि च ।  
-शरान् कुब्जकगुल्मांश् च  
-तथा सीमा न नश्यति  ॥ ८.२४७ ॥
+247	By clustering shrubs, bamboos of different kinds, Samis, creepers and raised mounds, reeds, thickets of Kubgaka; thus the boundary will not be forgotten.

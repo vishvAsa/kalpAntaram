@@ -2,8 +2,4 @@
 title = "009 श्रुति-स्मृत्य्-उदितन् धर्मम्"
 
 +++
-
-श्रुति-स्मृत्य्-उदितं धर्मम्  
-अनुतिष्ठन् हि मानवः ।  
-इह कीर्तिम् अवाप्नोति  
-प्रेत्य चाऽनुत्तमं सुखम्  ॥ २.९ ॥
+009	For that man who obeys the law prescribed in the revealed texts and in the sacred tradition, gains fame in this (world) and after death unsurpassable bliss.

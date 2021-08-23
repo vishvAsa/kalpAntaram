@@ -2,7 +2,4 @@
 title = "123 राज्ञो हि"
 
 +++
-राज्ञो हि रक्षाधिकृताः  
-परस्वादायिनः शठाः ।  
-भृत्या भवन्ति प्रायेण  
-तेभ्यो रक्षेद् इमाः प्रजाः  ॥ ७.१२३ ॥ [१२४ मेधातिथिपाठे]
+123	For the servants of the king, who are appointed to protect (the people), generally become knaves who seize the property of others; let him protect his subjects against such (men).

@@ -2,7 +2,4 @@
 title = "038 प्राजापत्यन् निरुप्येष्टिम्"
 
 +++
-प्राजापत्यं निरुप्येष्टिं  
-सर्ववेदस-दक्षिणाम् [मेधातिथिपाठः - सार्ववेदसदक्षिणाम्] ।  
-आत्मन्य् अग्नीन् समारोप्य  
-ब्राह्मणः प्रव्रजेद् गृहात्  ॥ ६.३८ ॥
+038	Having performed the Ishti, sacred to the Lord of creatures (Pragapati), where (he gives) all his property as the sacrificial fee, having reposited the sacred fires in himself, a Brahmana may depart from his house (as an ascetic).

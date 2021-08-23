@@ -2,8 +2,4 @@
 title = "010 श्रुतिस् तु"
 
 +++
-
-श्रुतिस् तु वेदो विज्ञेयो  
-धर्मशास्त्रं तु वै स्मृतिः ।  
-ते सर्वार्थेष्व् अमीमांस्ये  
-ताभ्यां धर्मो हि निर्बभौ  ॥ २.१० ॥
+010	But by Sruti (revelation) is meant the Veda, and by Smriti (tradition) the Institutes of the sacred law: those two must not be called into question in any matter, since from those two the sacred law shone forth.

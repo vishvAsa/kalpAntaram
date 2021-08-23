@@ -2,7 +2,4 @@
 title = "071 न दत्त्वा"
 
 +++
-न दत्त्वा कस्य चित् कन्यां  
-पुनर् दद्याद् विचक्षणः ।  
-दत्त्वा पुनः प्रयच्छन् हि  
-प्राप्नोति पुरुषानृतम्  ॥ ९.७१ ॥
+071	Let no prudent man, after giving his daughter to one (man), give her again to another; for he who gives (his daughter) whom he had before given, incurs (the guilt of) speaking falsely regarding a human being.

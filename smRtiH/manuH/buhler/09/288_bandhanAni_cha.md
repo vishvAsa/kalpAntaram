@@ -2,7 +2,4 @@
 title = "288 बन्धनानि च"
 
 +++
-बन्धनानि च सर्वाणि  
-राजा मार्गे निवेशयेत् [मेधातिथिपाठः - राजमार्गे] ।  
-दुःखिता यत्र दृश्येरन्  
-विकृताः पापकारिणह्  ॥ ९.२८८ ॥
+288	Let him place all prisons near a high-road, where the suffering and disfigured offenders can be seen.

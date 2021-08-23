@@ -2,7 +2,4 @@
 title = "073 अनार्यम् आर्य-कर्माणम्"
 
 +++
-अनार्यम् आर्य-कर्माणम्  
-आर्यं चाऽनार्यकर्मिणम् ।  
-संप्रधार्याऽब्रवीद् धाता  
-न समौ नाऽसमाव् इति  ॥ १०.७३ ॥
+073	Having considered (the case of) a non-Aryan who acts like an Aryan, and (that of) an Aryan who acts like a non-Aryan, the creator declared, 'Those two are neither equal nor unequal.'

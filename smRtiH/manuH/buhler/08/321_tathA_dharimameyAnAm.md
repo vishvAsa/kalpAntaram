@@ -2,7 +2,4 @@
 title = "321 तथा धरिममेयानाम्"
 
 +++
-तथा धरिममेयानां  
-शताद् अभ्यधिके वधः ।  
-सुवर्ण-रजतादीनाम्  
-उत्तमानां च वाससाम्  ॥ ८.३२१ ॥
+321	So shall corporal punishment be inflicted for stealing more than a hundred (palas) of articles sold by the weight, (i.e.) of gold, silver, and so forth, and of most excellent clothes.

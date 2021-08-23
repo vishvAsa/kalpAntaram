@@ -2,8 +2,4 @@
 title = "129 परपत्नी तु"
 
 +++
-
-परपत्नी तु या स्त्री स्याद्  
-असम्बन्धा च योनितः ।  
-तां ब्रूयाद् भवतीत्य् एवं  
-सुभगे भगिनीति च  ॥ २.१२९ ॥
+129	But to a female who is the wife of another man, and not a blood-relation, he must say, 'Lady' (bhavati) or 'Beloved sister!'

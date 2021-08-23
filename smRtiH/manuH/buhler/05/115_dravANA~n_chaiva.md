@@ -2,7 +2,4 @@
 title = "115 द्रवाणाञ् चैव"
 
 +++
-द्रवाणां चैव सर्वेषां  
-शुद्धिर् उत्पवनं स्मृतम् ।  
-प्रोक्षणं संहतानां च  
-दारवाणां च तक्षणम्  ॥ ५.११५ ॥ [११४ मेधातिथिपाठे]
+115	The purification prescribed for all (sorts of) liquids is by passing two blades of Kusa grass through them, for solid things by sprinkling (them with water), for (objects) made of wood by planing them.

@@ -2,7 +2,4 @@
 title = "207 भ्रातॄणां यस्"
 
 +++
-भ्रातॄणां यस् तु नेहेत  
-धनं शक्तः स्वकर्मणा ।  
-स निर्भाज्यः स्वकाद् अंशात्  
-किं चिद् दत्त्वोपजीवनम्  ॥ ९.२०७ ॥
+207	But if one of the brothers, being able (to maintain himself) by his own occupation, does not desire (a share of the family) property, he may be made separate (by the others) receiving a trifle out of his share to live upon.

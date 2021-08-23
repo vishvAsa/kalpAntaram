@@ -2,8 +2,4 @@
 title = "073 तद् वै"
 
 +++
-
-तद् वै युगसहस्रान्तं  
-ब्राह्मं पुण्यम् अहर् विदुः ।  
-रात्रिं च तावतीम् एव  
-ते ऽहोरात्रविदो जनाः  ॥ १.७३ ॥
+073	Those (only, who) know that the holy day of Brahman, indeed, ends after (the completion of) one thousand ages (of the gods) and that his night lasts as long, (are really) men acquainted with (the length of) days and nights.

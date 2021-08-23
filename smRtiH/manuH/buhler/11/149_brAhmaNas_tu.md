@@ -2,7 +2,4 @@
 title = "149 ब्राह्मणस् तु"
 
 +++
-ब्राह्मणस् तु सुरापस्य  
-गन्धम् आघ्राय सोमपः ।  
-प्राणान् अप्सु त्रिर् आयम्य  
-घृतं प्राश्य विशुध्यति  ॥ ११.१४९ ॥ [१४८ मेधातिथिपाठे]
+150	But when a Brahmana who has partaken of Soma-juice, has smelt the odour exhaled by a drinker of Sura, he becomes pure by thrice suppressing his breath in water, and eating clarified butter.

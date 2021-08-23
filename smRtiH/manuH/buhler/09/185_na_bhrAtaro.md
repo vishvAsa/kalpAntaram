@@ -2,7 +2,4 @@
 title = "185 न भ्रातरो"
 
 +++
-न भ्रातरो न पितरः  
-पुत्रा रिक्थहराः पितुः ।  
-पिता हरेद् अपुत्रस्य  
-रिक्थं भ्रातर एव च  ॥ ९.१८५ ॥
+185	Not brothers, nor fathers, (but) sons take the paternal estate; but the father shall take the inheritance of (a son) who leaves no male issue, and his brothers.

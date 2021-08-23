@@ -2,7 +2,4 @@
 title = "248 सहपिण्डक्रियायान् तु"
 
 +++
-सहपिण्डक्रियायां तु  
-कृतायाम् अस्य धर्मतः ।  
-अनयैवावृता कार्यं  
-पिण्डनिर्वपनं सुतैः  ॥ ३.२४८ ॥ [२३८ मेधातिथिपाठे]
+248	But after the Sapindikarana of the (deceased father) has been performed according to the sacred law, the sons must offer the cakes with those ceremonies, (described above.)

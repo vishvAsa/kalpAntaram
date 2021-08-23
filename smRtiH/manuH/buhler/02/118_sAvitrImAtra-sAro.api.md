@@ -2,8 +2,4 @@
 title = "118 सावित्रीमात्र-सारो ऽपि"
 
 +++
-
-सावित्रीमात्र-सारो ऽपि  
-वरं विप्रः सुयन्त्रितः ।  
-नाऽयन्त्रितस् त्रिवेदो ऽपि  
-सर्वाशी सर्वविक्रयी  ॥ २.११८ ॥
+118	A Brahmana who completely governs himself, though he know the Savitri only, is better than he who knows the three Vedas, (but) does not control himself, eats all (sorts of) food, and sells all (sorts of goods).

@@ -2,7 +2,4 @@
 title = "063 निरस्य तु"
 
 +++
-निरस्य तु पुमाञ् शुक्रम्  
-उपस्पृश्यैव शुध्यति ।  
-+++(तदपेक्षया, प्रसवे)+++ बैजिकाद् अभिसम्बन्धाद्  
-अनुरुन्ध्याद् अघं त्र्यहम् +++(पितुः)+++ ॥ ५.६३ ॥ [६२ मेधातिथिपाठे]
+063	But a man, having spent his strength, is purified merely by bathing; after begetting a child (on a remarried female), he shall retain the impurity during three days.

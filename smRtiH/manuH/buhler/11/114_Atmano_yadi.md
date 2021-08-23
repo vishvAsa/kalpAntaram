@@ -2,7 +2,4 @@
 title = "114 आत्मनो यदि"
 
 +++
-आत्मनो यदि वान्येषां  
-गृहे क्षेत्रे ऽथ वा खले ।  
-भक्षयन्तीं न कथयेत्  
-पिबन्तं चैव वत्सकम्  ॥ ११.११४ ॥ [११३ मेधातिथिपाठे]
+115	Let him not say (a word), if a cow eats (anything) in his own or another's house or field or on the threshing-floor, or if a calf drinks (milk).

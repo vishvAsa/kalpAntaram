@@ -2,7 +2,4 @@
 title = "072 ब्रह्महा द्वादश"
 
 +++
-ब्रह्महा द्वादश समाः  
-कुटीं कृत्वा वने वसेत् ।  
-भैक्षाश्य् आत्मविशुद्ध्यर्थं  
-कृत्वा शवशिरो ध्वजम्  ॥ ११.७२ ॥ [७१ मेधातिथिपाठे]
+073	For his purification the slayer of a Brahmana shall make a hut in the forest and dwell (in it) during twelve years, subsisting on alms and making the skull of a dead man his flag.

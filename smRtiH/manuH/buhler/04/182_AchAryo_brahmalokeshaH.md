@@ -2,8 +2,4 @@
 title = "182 आचार्यो ब्रह्मलोकेशः"
 
 +++
-
-आचार्यो ब्रह्मलोकेशः  
-प्राजापत्ये पिता प्रभुः ।  
-अतिथिस् त्व् इन्द्रलोकेशो  
-देवलोकस्य चर्त्विजः  ॥ ४.१८२ ॥+++(5)+++  
+182	The teacher is the lord of the world of Brahman, the father has power over the world of the Lord of created beings (Pragapati), a guest rules over the world of Indra, and the priests over the world of the gods.

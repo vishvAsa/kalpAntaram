@@ -2,7 +2,4 @@
 title = "391 यथार्हम् एतान्"
 
 +++
-यथार्हम् एतान् अभ्यर्च्य  
-ब्राह्मणैः सह पार्थिवः ।  
-सान्त्वेन प्रशमय्यादौ  
-स्वधर्मं प्रतिपादयेत्  ॥ ८.३९१ ॥
+391	Having shown them due honor, he should, with (the assistance of) Brahmanas, first soothe them by gentle (speech) and afterwards teach them their duty.

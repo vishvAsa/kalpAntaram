@@ -2,8 +2,4 @@
 title = "120 खं सन्निवेशयेत्"
 
 +++
-
-खं संनिवेशयेत् खेषु  
-चेष्टन-स्पर्शने ऽनिलम् ।  
-पक्ति-दृष्ट्योः परं तेजः  
-स्नेहे ऽपो गां च मूर्तिषु  ॥ १२.१२० ॥
+120	Let him meditate on the ether as identical with the cavities (of the body), on the wind as identical with the organs of motions and of touch, on the most excellent light as the same with his digestive organs and his sight, on water as the same with the (corporeal) fluids, on the earth as the same with the solid parts (of his body);

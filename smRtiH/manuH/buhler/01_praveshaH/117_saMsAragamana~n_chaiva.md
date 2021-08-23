@@ -2,8 +2,4 @@
 title = "117 संसारगमनञ् चैव"
 
 +++
-
-संसारगमनं चैव  
-त्रिविधं कर्म-सम्भवम् ।  
-निःश्रेयसं कर्मणां च  
-गुण-दोषपरीक्षणम्  ॥ १.११७ ॥
+117	The threefold course of transmigrations, the result of (good or bad) actions, (the manner of attaining) supreme bliss and the examination of the good and bad qualities of actions,

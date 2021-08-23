@@ -2,8 +2,4 @@
 title = "057 नैकः सुप्याच्"
 
 +++
-
-नैकः सुप्याच् छून्यगेहे [शून्यगृहे स्वप्यान्]  
-न श्रेयांसं +++(जनं)+++ प्रबोधयेत्  ।  
-नोदक्यया+++(=रजस्वलया)+++ ऽभिभाषेत  
-यज्ञं गच्छेन् न चाऽवृतः+++(=अनाहूतः [खादितुम्])+++  ॥ ४.५७ ॥  
+057	Let him not sleep alone in a deserted dwelling; let him not wake (a superior) who is sleeping; let him not converse with a menstruating woman; nor let him go to a sacrifice, if he is not chosen (to be officiating priest).

@@ -2,8 +2,4 @@
 title = "001 चातुर्वर्ण्यस्य कृत्स्नो"
 
 +++
-
-चातुर्वर्ण्यस्य कृत्स्नो ऽयम्  
-उक्तो धर्मस् त्वयानघः ।  
-कर्मणां फलनिर्वृत्तिं  
-शंस नस् तत्त्वतः पराम्  ॥ १२.१ ॥
+001	'O sinless One, the whole sacred law, (applicable) to the four castes, has been declared by thee; communicate to us (now), according to the truth, the ultimate retribution for (their) deeds.'

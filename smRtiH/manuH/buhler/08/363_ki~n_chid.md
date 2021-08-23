@@ -2,7 +2,4 @@
 title = "363 किञ् चिद्"
 
 +++
-किं चिद् एव तु दाप्यः स्यात्  
-संभाषां ताभिर् आचरन् ।  
-प्रैष्यासु चैकभक्तासु  
-रहः प्रव्रजितासु च [मेधातिथिपाठः - प्रेष्यासु]  ॥ ८.३६३ ॥
+363	Yet he who secretly converses with such women, or with female slaves kept by one (master), and with female ascetics, shall be compelled to pay a small fine.

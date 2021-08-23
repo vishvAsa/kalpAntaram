@@ -2,8 +2,4 @@
 title = "082 न संहताभ्याम्"
 
 +++
-
-न संहताभ्यां पाणिभ्यां  
-कण्डूयेद् आत्मनः शिरः ।  
-न स्पृशेच् चैतद् उच्छिष्टो  
-न च स्नायाद् विना ततः  ॥ ४.८२ ॥  
+082	Let him not scratch his head with both hands joined; let him not touch it while he is impure, nor bathe without (submerging) it.

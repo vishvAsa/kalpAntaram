@@ -2,8 +2,4 @@
 title = "222 आचम्य प्रयतो"
 
 +++
-
-आचम्य प्रयतो नित्यम्  
-उभे सन्ध्ये समाहितः ।  
-शुचौ देशे जपञ् जप्यम्  
-उपासीत यथाविधि  ॥ २.२२२ ॥
+222	Purified by sipping water, he shall daily worship during both twilights with a concentrated mind in a pure place, muttering the prescribed text according to the rule.

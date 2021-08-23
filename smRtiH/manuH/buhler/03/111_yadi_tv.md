@@ -2,7 +2,4 @@
 title = "111 यदि त्व्"
 
 +++
-यदि त्व् अतिथिधर्मेण  
-क्षत्रियो गृहम् आव्रजेत् ।  
-भुक्तवत्सु च विप्रेषु  
-कामं तम् अपि भोजयेत्  ॥ ३.१११ ॥ [१०१ मेधातिथिपाठे]
+111	But if a Kshatriya comes to the house of a Brahmana in the manner of a guest, (the house-holder) may feed him according to his desire, after the above-mentioned Brahmanas have eaten.

@@ -2,8 +2,4 @@
 title = "121 न विवादे"
 
 +++
-
-न विवादे न कलहे  
-न सेनायां न सङ्गरे ।  
-न भुक्तमात्रे नाऽजीर्णे  
-न वमित्वा न शुक्तके+++(=आम्लोद्गीरणं कण्ठे)+++  ॥ ४.१२१ ॥+++(4)+++  
+121	Nor during a verbal altercation, nor during a mutual assault, nor in a camp, nor during a battle, nor when he has just eaten, nor during an indigestion, nor after vomiting, nor with sour eructations,

@@ -2,7 +2,4 @@
 title = "055 मां स"
 
 +++
-मां स भक्षयितामुत्र  
-यस्य मांसम् इहाऽद्म्य् अहम् ।  
-एतन् मांसस्य मांसत्वं  
-प्रवदन्ति मनीषिणः  ॥ ५.५५ ॥+++(4)+++
+055	'Me he (mam sah)' will devour in the next (world), whose flesh I eat in this (life); the wise declare this (to be) the real meaning of the word 'flesh' (mamsah).

@@ -2,7 +2,4 @@
 title = "131 लोकसंव्यवहारार्थं याः"
 
 +++
-लोकसंव्यवहारार्थं  
-याः संज्ञाः प्रथिता भुवि ।  
-ताम्र-रूप्य-सुवर्णानां  
-ताः प्रवक्ष्याम्य् अशेषतः  ॥ ८.१३१ ॥
+131	Those technical names of (certain quantities of) copper, silver, and gold, which are generally used on earth for the purpose of business transactions among men, I will fully declare.

@@ -2,8 +2,4 @@
 title = "072 न विगर्ह्य"
 
 +++
-
-न विगर्ह्य कथां कुर्याद्  
-+++(वस्त्राद्)+++ बहिर् माल्यं न धारयेत् [मेधातिथिपाठः - न विगृह्य कथां कुर्याद्] ।  
-गवां च यानं पृष्ठेन (नाम, गोपृष्ठ उपविश्य)  
-सर्वथैव विगर्हितम्  ॥ ४.७२ ॥+++(5)+++  
+072	Let him not wrangle; let him not wear a garland over (his hair). To ride on the back of cows (or of oxen) is anyhow a blamable act.

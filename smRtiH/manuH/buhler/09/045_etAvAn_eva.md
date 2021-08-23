@@ -2,7 +2,4 @@
 title = "045 एतावान् एव"
 
 +++
-एतावान् एव पुरुषो  
-यज् जायात्मा प्रजेति ह ।  
-विप्राः प्राहुस् तथा चैतद्  
-यो भर्ता सा स्मृताङ्गना  ॥ ९.४५ ॥
+045	He only is a perfect man who consists (of three persons united), his wife, himself, and his offspring; thus (says the Veda), and (learned) Brahmanas propound this (maxim) likewise, 'The husband is declared to be one with the wife.'

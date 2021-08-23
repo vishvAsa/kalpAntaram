@@ -2,7 +2,4 @@
 title = "031 पुत्रम् प्रत्युदितम्"
 
 +++
-पुत्रं प्रत्युदितं सद्भिः  
-पूर्वजैश् च महर्षिभिः ।  
-विश्वजन्यम् इमं पुण्यम्  
-उपन्यासं निबोधत  ॥ ९.३१ ॥
+031	Listen (now) to the following holy discussion, salutary to all men, which the virtuous (of the present day) and the ancient great sages have held concerning male offspring.

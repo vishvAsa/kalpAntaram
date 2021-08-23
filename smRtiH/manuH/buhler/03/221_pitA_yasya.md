@@ -2,7 +2,4 @@
 title = "221 पिता यस्य"
 
 +++
-पिता यस्य निवृत्तः स्याज्  
-जीवेच् चाऽपि पितामहः [मेधातिथिपाठः - पिता यस्य तु वृत्तः स्याज्] ।  
-पितुः स नाम सङ्कीर्त्य  
-कीर्तयेत् प्रपितामहम्  ॥ ३.२२१ ॥ [२११ मेधातिथिपाठे]
+221	But he whose father is dead, while his grandfather lives, shall, after pronouncing his father's name, mention (that of) his great-grandfather.

@@ -2,7 +2,4 @@
 title = "006 स्त्रीष्व् अनन्तरजातासु"
 
 +++
-स्त्रीष्व् अनन्तरजातासु  
-द्विजैर् उत्पादितान् सुतान् ।  
-सदृशान् एव तान् आहुर्  
-मातृदोषविगर्हितान्  ॥ १०.६ ॥
+006	Sons, begotten by twice-born man on wives of the next lower castes, they declare to be similar (to their fathers, but) blamed on account of the fault (inherent) in their mothers.

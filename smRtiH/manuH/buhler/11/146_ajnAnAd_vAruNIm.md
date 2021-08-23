@@ -2,7 +2,4 @@
 title = "146 अज्ञानाद् वारुणीम्"
 
 +++
-अज्ञानाद् वारुणीं पीत्वा  
-संस्कारेणैव शुध्यति ।  
-मतिपूर्वम् अनिर्देश्यं  
-प्राणान्तिकम् इति स्थितिः  ॥ ११.१४६ ॥ [१४५ मेधातिथिपाठे]
+147	He who drinks unintentionally (the spirituous liquor, called) Varuni, becomes pure by being initiated (again); (even for drinking it) intentionally (a penance) destructive to life must not be imposed; that is a settled rule.

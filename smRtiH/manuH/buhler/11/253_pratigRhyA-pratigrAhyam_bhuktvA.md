@@ -2,7 +2,4 @@
 title = "253 प्रतिगृह्याऽप्रतिग्राह्यम् भुक्त्वा"
 
 +++
-प्रतिगृह्याऽप्रतिग्राह्यं  
-भुक्त्वा चाऽन्नं विगर्हितम् ।  
-जपंस् तरत्समन्दीयं  
-पूयते मानवस् त्र्यहात्  ॥ ११.२५३ ॥ [२५२ मेधातिथिपाठे]
+254	That man who, having accepted presents which ought not to be accepted, or having eaten forbidden food, mutters the Taratsamandiya (Rikas), becomes pure after three days.

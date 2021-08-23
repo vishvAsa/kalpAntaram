@@ -2,7 +2,4 @@
 title = "134 सर्षपाः षड्"
 
 +++
-सर्षपाः षड् यवो मध्यस्  
-त्रियवं त्व् एककृष्णलम् ।  
-पञ्चकृष्णलको माषस्  
-ते सुवर्णस् तु षोडश  ॥ ८.१३४ ॥
+134	Six grains of white mustard are one middle-sized barley-corn, and three barley-corns one krishnala (raktika, or gunga-berry); five krishnalas are one masha (bean), and sixteen of those one suvarna.

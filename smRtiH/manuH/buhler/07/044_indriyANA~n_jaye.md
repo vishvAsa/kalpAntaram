@@ -2,7 +2,4 @@
 title = "044 इन्द्रियाणाञ् जये"
 
 +++
-इन्द्रियाणां जये योगं  
-समातिष्ठेद् दिवा-निशम् ।  
-जितेन्द्रियो हि शक्नोति  
-वशे स्थापयितुं प्रजाः  ॥ ७.४४ ॥
+044	Day and night he must strenuously exert himself to conquer his senses; for he (alone) who has conquered his own senses, can keep his subjects in obedience.

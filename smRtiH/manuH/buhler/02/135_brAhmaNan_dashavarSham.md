@@ -2,8 +2,4 @@
 title = "135 ब्राह्मणन् दशवर्षम्"
 
 +++
-
-ब्राह्मणं दशवर्षं तु  
-शतवर्षं तु भूमिपम् ।  
-पिता-पुत्रौ विजानीयाद्  
-ब्राह्मणस् तु तयोः पिता  ॥ २.१३५ ॥
+135	Know that a Brahmana of ten years and Kshatriya of a hundred years stand to each other in the relation of father and son; but between those two the Brahmana is the father.

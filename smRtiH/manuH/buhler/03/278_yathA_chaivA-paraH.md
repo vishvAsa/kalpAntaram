@@ -2,7 +2,4 @@
 title = "278 यथा चैवाऽपरः"
 
 +++
-यथा चैवाऽपरः पक्षः  
-पूर्वपक्षाद् विशिष्यते ।  
-तथा श्राद्धस्य पूर्वाह्णाद्  
-अपराह्णो विशिष्यते  ॥ ३.२७८ ॥ [२६८ मेधातिथिपाठे]
+278	As the second half of the month is preferable to the first half, even so the afternoon is better for (the performance of) a funeral sacrifice than the forenoon.

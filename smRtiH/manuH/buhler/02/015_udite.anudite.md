@@ -2,8 +2,4 @@
 title = "015 उदिते ऽनुदिते"
 
 +++
-
-उदिते ऽनुदिते चैव  
-समयाध्युषिते तथा ।  
-सर्वथा वर्तते यज्ञ  
-इतीयं वैदिकी श्रुतिः  ॥ २.१५ ॥
+015	(Thus) the (Agnihotra) sacrifice may be (optionally) performed, at any time after the sun has risen, before he has risen, or when neither sun nor stars are visible; that (is declared) by Vedic texts.

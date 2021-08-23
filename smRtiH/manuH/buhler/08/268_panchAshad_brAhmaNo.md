@@ -2,7 +2,4 @@
 title = "268 पञ्चाशद् ब्राह्मणो"
 
 +++
-पञ्चाशद् ब्राह्मणो दण्ड्यः  
-क्षत्रियस्याऽभिशंसने ।  
-वैश्ये स्याद् अर्धपञ्चाशच्  
-छूद्रे द्वादशको दमः  ॥ ८.२६८ ॥
+268	A Brahmana shall be fined fifty (panas) for defaming a Kshatriya; in (the case of) a Vaisya the fine shall be twenty-five (panas); in (the case of) a Sudra twelve.

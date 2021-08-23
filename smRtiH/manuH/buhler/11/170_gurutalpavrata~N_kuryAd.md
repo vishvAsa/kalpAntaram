@@ -2,7 +2,4 @@
 title = "170 गुरुतल्पव्रतङ् कुर्याद्"
 
 +++
-गुरुतल्पव्रतं कुर्याद्  
-रेतः सिक्त्वा स्वयोनिषु ।  
-सख्युः पुत्रस्य च स्त्रीषु  
-कुमारीष्व् अन्त्यजासु च  ॥ ११.१७० ॥ [१६९ मेधातिथिपाठे]
+171	He who has had sexual intercourse with sisters by the same mother, with the wives of a friend, or of a son, with unmarried maidens, and with females of the lowest castes, shall perform the penance, prescribed for the violation of a Guru's bed.

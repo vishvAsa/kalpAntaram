@@ -2,7 +2,4 @@
 title = "044 शरः क्षत्रियया"
 
 +++
-शरः क्षत्रियया ग्राह्यः  
-प्रतोदो वैश्यकन्यया ।  
-वसनस्य दशा ग्राह्या  
-शूद्रयोत्कृष्टवेदने  ॥ ३.४४ ॥
+044	On marrying a man of a higher caste a Kshatriya bride must take hold of an arrow, a Vaisya bride of a goad, and a Sudra female of the hem of the (bridegroom's) garment.

@@ -2,7 +2,4 @@
 title = "218 उदकन् निनयेच्"
 
 +++
-उदकं निनयेच् छेषं  
-शनैः पिण्डान्तिके पुनः ।  
-अवजिघ्रेच् च तान् पिण्डान्  
-यथान्युप्तान् समाहितः  ॥ ३.२१८ ॥ [२०८ मेधातिथिपाठे]
+218	Let him gently pour out the remainder of the water near the cakes, and, with fixed attention, smell those cakes, in the order in which they were placed (on the ground).

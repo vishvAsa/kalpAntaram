@@ -2,10 +2,4 @@
 title = "005 ऋतम् उञ्छ-शिलम्"
 
 +++
-
-+++(work for free, make money from leisure इति केचित्।)+++
-
-ऋतम् उञ्छ+++(=सङ्ग्रहण)+++-शिलं+++(=कर्तनं)+++ ज्ञेयम्  
-अमृतं स्याद् अयाचितम् ।  
-मृतं तु याचितं भैक्षं  
-प्रमृतं कर्षणं स्मृतम्  ॥ ४.५ ॥  
+005	By Rita shall be understood the gleaning of corn; by Amrita, what is given unasked; by Mrita, food obtained by begging and agriculture is declared to be Pramrita.

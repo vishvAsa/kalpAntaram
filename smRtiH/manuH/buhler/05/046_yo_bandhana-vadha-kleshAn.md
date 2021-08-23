@@ -2,7 +2,4 @@
 title = "046 यो बन्धन-वध-क्लेशान्"
 
 +++
-यो बन्धन-वध-क्लेशान्  
-प्राणिनां न चिकीर्षति ।  
-स सर्वस्य हितप्रेप्सुः  
-सुखम् अत्यन्तम् अश्नुते  ॥ ५.४६ ॥
+046	He who does not seek to cause the sufferings of bonds and death to living creatures, (but) desires the good of all (beings), obtains endless bliss.

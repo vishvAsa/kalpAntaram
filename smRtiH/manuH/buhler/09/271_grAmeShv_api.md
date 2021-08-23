@@ -2,7 +2,4 @@
 title = "271 ग्रामेष्व् अपि"
 
 +++
-ग्रामेष्व् अपि च ये के चिच्  
-चौराणां भक्तदायकाः ।  
-भाण्डावकाशदाश् चैव  
-सर्वांस् तान् अपि घातयेत्  ॥ ९.२७१ ॥
+271	All those also who in villages give food to thieves or grant them room for (concealing their implements), he shall cause to be put to death.

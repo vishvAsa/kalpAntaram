@@ -2,8 +2,4 @@
 title = "220 तञ् चेद्"
 
 +++
-
-तं चेद् अभ्युदियात् सूर्यः  
-शयानं कामचारतः ।  
-निम्लोचेद् वाप्य् अविज्ञानाज्  
-जपन्न् उपवसेद् दिनम्  ॥ २.२२० ॥
+220	If the sun should rise or set while he is sleeping, be it (that he offended) intentionally or unintentionally, he shall fast during the (next) day, muttering (the Savitri).

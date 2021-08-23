@@ -2,7 +2,4 @@
 title = "015 पौंश्चल्याच् चलचित्ताच्"
 
 +++
-पौंश्चल्याच् चलचित्ताच् च  
-नैस्नेह्याच् च स्वभावतः [मेधातिथिपाठः - नैःस्नेह्याच्] ।  
-रक्षिता यत्नतो ऽपीह  
-भर्तृष्व् एता विकुर्वते  ॥ ९.१५ ॥
+015	Through their passion for men, through their mutable temper, through their natural heartlessness, they become disloyal towards their husbands, however carefully they may be guarded in this (world).

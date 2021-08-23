@@ -2,7 +2,4 @@
 title = "265 सीमायाम् अविषह्यायाम्"
 
 +++
-सीमायाम् अविषह्यायां  
-स्वयं राजैव धर्मवित् ।  
-प्रदिशेद् भूमिम् एकेषाम्  
-उपकाराद् इति स्थितिः  ॥ ८.२६५ ॥
+265	If the boundary cannot be ascertained (by any evidence), let a righteous king with (the intention of) benefiting them (all), himself assign (his) land (to each); that is the settled rule.

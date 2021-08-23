@@ -2,8 +2,4 @@
 title = "110 प्रतिगृह्य द्विजो"
 
 +++
-
-प्रतिगृह्य द्विजो विद्वान्  
-एकोद्दिष्टस्य केतनम् [मेधातिथिपाठः - एकोद्दिष्ट-निकेतनम्] ।  
-त्र्यहं न कीर्तयेद् ब्रह्म  
-राज्ञो राहोश् च सूतके  ॥ ४.११० ॥  
+110	A learned Brahmana shall not recite the Veda during three days, when he has accepted an invitation to a (funeral rite) in honour of one ancestor (ekoddishta), or when the king has become impure through a birth or death in his family (sutaka), or when Rahu by an eclipse makes the moon impure.

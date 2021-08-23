@@ -2,7 +2,4 @@
 title = "197 विक्रीणीते परस्य"
 
 +++
-विक्रीणीते परस्य स्वं  
-यो ऽस्वामी स्वाम्यसम्मतः ।  
-न तं नयेत साक्ष्यं तु  
-स्तेनम् अस्तेनमानिनम्  ॥ ८.१९७ ॥
+197	If anybody sells the property of another man, without being the owner and without the assent of the owner, the (judge) shall not admit him who is a thief, though he may not consider himself as a thief, as a witness (in any case).

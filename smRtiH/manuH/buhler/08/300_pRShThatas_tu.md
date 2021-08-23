@@ -2,7 +2,4 @@
 title = "300 पृष्ठतस् तु"
 
 +++
-पृष्ठतस् तु शरीरस्य  
-नोत्तमाङ्गे कथं चन ।  
-अतो ऽन्यथा तु प्रहरन्  
-प्राप्तः स्याच् चौरकिल्बिषम्  ॥ ८.३०० ॥
+300	But on the back part of the body (only), never on a noble part; he who strikes them otherwise will incur the same guilt as a thief.

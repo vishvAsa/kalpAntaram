@@ -2,7 +2,4 @@
 title = "186 प्रायश्चित्ते तु"
 
 +++
-प्रायश्चित्ते तु चरिते  
-पूर्णकुम्भम् अपां नवम् ।  
-तेनैव सार्धं प्रास्येयुः  
-स्नात्वा पुण्ये जलाशये  ॥ ११.१८६ ॥ [१८५ मेधातिथिपाठे]
+187	But when he has performed his penance, they shall bathe with him in a holy pool and throw down a new pot, filled with water.

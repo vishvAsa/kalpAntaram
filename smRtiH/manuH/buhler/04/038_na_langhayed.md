@@ -2,8 +2,4 @@
 title = "038 न लङ्घयेद्"
 
 +++
-
-न लङ्घयेद् वत्सतन्त्रीं  
-न प्रधावेच् च वर्षति ।  
-न चोदके निरीक्षेत  
-स्वरूपम् इति धारणा  ॥ ४.३८ ॥  
+038	Let him not step over a rope to which a calf is tied, let him not run when it rains, and let him not look at his own image in water; that is a settled rule.

@@ -2,7 +2,4 @@
 title = "323 दत्त्वा धनम्"
 
 +++
-दत्त्वा धनं तु विप्रेभ्यः  
-सर्वदण्डसमुत्थितम् ।  
-पुत्रे राज्यं समासृज्य  
-कुर्वीत प्रायणं रणे [मेधातिथिपाठः - समासाद्य]  ॥ ९.३२३ ॥
+323	But (a king who feels his end drawing nigh) shall bestow all his wealth, accumulated from fines, on Brahmanas, make over his kingdom to his son, and then seek death in battle.

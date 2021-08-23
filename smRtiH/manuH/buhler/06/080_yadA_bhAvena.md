@@ -2,7 +2,4 @@
 title = "080 यदा भावेन"
 
 +++
-यदा भावेन भवति  
-सर्वभावेषु निःस्पृहः ।  
-तदा सुखम् अवाप्नोति  
-प्रेत्य चेह च शाश्वतम्  ॥ ६.८० ॥
+080	When by the disposition (of his heart) he becomes indifferent to all objects, he obtains eternal happiness both in this world and after death.

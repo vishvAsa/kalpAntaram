@@ -2,7 +2,4 @@
 title = "165 आचार-हीनः क्लीबश्"
 
 +++
-आचार-हीनः क्लीबश् च  
-नित्यं याचनकस् तथा ।  
-कृषिजीवी श्लीपदी+++(=पादवल्मीकरोगी)+++ च  
-सद्भिर् निन्दित एव च  ॥ ३.१६५ ॥ [१५५ मेधातिथिपाठे]
+165	He who does not follow the rule of conduct, a (man destitute of energy like a) eunuch, one who constantly asks (for favours), he who lives by agriculture, a club-footed man, and he who is censured by virtuous men,

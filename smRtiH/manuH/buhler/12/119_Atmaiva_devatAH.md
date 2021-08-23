@@ -2,8 +2,4 @@
 title = "119 आत्मैव देवताः"
 
 +++
-
-आत्मैव देवताः सर्वाः  
-सर्वम् आत्मन्य् अवस्थितम् ।  
-आत्मा हि जनयत्य् एषां  
-कर्मयोगं शरीरिणाम्  ॥ १२.११९ ॥
+119	The Self alone is the multitude of the gods, the universe rests on the Self; for the Self produces the connexion of these embodied (spirits) with actions.

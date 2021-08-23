@@ -2,7 +2,4 @@
 title = "079 अन्तर्-दशाहे स्याताम्"
 
 +++
-अन्तर्-दशाहे स्यातां चेत्  
-पुनर् मरण-जन्मनी [मेधातिथिपाठः - चेत् स्यातां] ।  
-तावत् स्याद् अशुचिर् विप्रो  
-यावत् तत् स्याद् अनिर्दशम्  ॥ ५.७९ ॥ [७८ मेधातिथिपाठे]
+079	If within the ten days (of impurity) another birth or death happens, a Brahmana shall remain impure only until the (first) period of ten days has expired.

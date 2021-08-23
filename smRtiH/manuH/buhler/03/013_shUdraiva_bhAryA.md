@@ -2,7 +2,4 @@
 title = "013 शूद्रैव भार्या"
 
 +++
-शूद्रैव भार्या शूद्रस्य  
-सा च स्वा च विशः स्मृते ।  
-ते च स्वा चैव राज्ञश् च  
-ताश् च स्वा चाऽग्र-जन्मनः  ॥ ३.१३ ॥
+013	It is declared that a Sudra woman alone (can be) the wife of a Sudra, she and one of his own caste (the wives) of a Vaisya, those two and one of his own caste (the wives) of a Kshatriya, those three and one of his own caste (the wives) of a Brahmana.

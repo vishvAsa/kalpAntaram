@@ -2,7 +2,4 @@
 title = "015 यो यस्य"
 
 +++
-यो यस्य मांसम् अश्नाति  
-स तन्मांसाद उच्यते ।  
-मत्स्यादः सर्वमांसादस्  
-तस्मान् मत्स्यान् विवर्जयेत्  ॥ ५.१५ ॥
+015	He who eats the flesh of any (animal) is called the eater of the flesh of that (particular creature), he who eats fish is an eater of every (kind of) flesh; let him therefore avoid fish.

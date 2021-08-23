@@ -2,7 +2,4 @@
 title = "098 उद्यतैर् आहवे"
 
 +++
-उद्यतैर् आहवे शस्त्रैः  
-क्षत्रधर्महतस्य च ।  
-सद्यः सन्तिष्ठते यज्ञस्  
-तथाशौचम् इति स्थितिः  ॥ ५.९८ ॥ [९७ मेधातिथिपाठे]
+098	By him who is slain in battle with brandished weapons according to the law of the Kshatriyas, a (Srauta) sacrifice is instantly completed, and so is the period of impurity (caused by his death); that is a settled rule.

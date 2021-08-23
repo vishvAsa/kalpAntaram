@@ -2,7 +2,4 @@
 title = "217 अनपत्यस्य पुत्रस्य"
 
 +++
-अनपत्यस्य पुत्रस्य  
-माता दायम् अवाप्नुयात् ।  
-मातर्य् अपि च वृत्तायां  
-पितुर् माता हरेद् धनम्  ॥ ९.२१७ ॥
+217	A mother shall obtain the inheritance of a son (who dies) without leaving issue, and, if the mother be dead, the paternal grandmother shall take the estate.

@@ -2,7 +2,4 @@
 title = "152 अभोज्यानान् तु"
 
 +++
-अभोज्यानां तु भुक्त्वान्नं  
-स्त्री-शूद्रोच्छिष्टम् एव च ।  
-जग्ध्वा मांसम् अभक्ष्यं च  
-सप्तरात्रं यवान् पिबेत्  ॥ ११.१५२ ॥ [१५१ मेधातिथिपाठे]
+153	But he who has eaten the food of men, whose food must not be eaten, or the leavings of women and Sudras, or forbidden flesh, shall drink barley (-gruel) during seven (days and) nights.

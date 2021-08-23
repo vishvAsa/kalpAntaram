@@ -2,7 +2,4 @@
 title = "029 ते चाऽपि"
 
 +++
-ते चाऽपि बाह्यान् सुबहूंस्  
-ततो ऽप्य् अधिकदूषितान् ।  
-परस्परस्य दारेषु  
-जनयन्ति विगर्हितान्  ॥ १०.२९ ॥
+029	Those (six mentioned above) also beget, the one on the females of the other, a great many (kinds of) despicable (sons), even more sinful than their (fathers), and excluded (from the Aryan community, vahya).

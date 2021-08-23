@@ -2,8 +2,4 @@
 title = "094 पितृ-देव-मनुष्याणां वेदश्"
 
 +++
-
-पितृ-देव-मनुष्याणां  
-वेदश् चक्षुः सनातनम् ।  
-अशक्यं चाऽप्रमेयं च  
-वेदशास्त्रम् इति स्थितिः  ॥ १२.९४ ॥
+094	The Veda is the eternal eye of the manes, gods, and men; the Veda-ordinance (is) both beyond the sphere of (human) power, and beyond the sphere of (human) comprehension; that is a certain fact.

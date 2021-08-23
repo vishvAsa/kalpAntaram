@@ -2,8 +2,4 @@
 title = "047 गन्धर्वा गुह्यका"
 
 +++
-
-गन्धर्वा गुह्यका यक्षा  
-विबुधानुचराश् च ये ।  
-तथैवाऽप्सरसः सर्वा  
-राजसीषूत्तमा गतिः  ॥ १२.४७ ॥
+047	The Gandharvas, the Guhyakas, and the servants of the gods, likewise the Apsarases, (belong all to) the highest (rank of) conditions produced by Activity.

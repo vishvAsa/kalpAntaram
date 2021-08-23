@@ -2,7 +2,4 @@
 title = "059 पित्र्यं वा"
 
 +++
-पित्र्यं वा भजते शीलं  
-मातुर् वोभयम् एव वा ।  
-न कथं चन दुर्योनिः  
-प्रकृतिं स्वां नियच्छति  ॥ १०.५९ ॥
+059	A base-born man either resembles in character his father, or his mother, or both; he can never conceal his real nature.

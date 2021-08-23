@@ -2,7 +2,4 @@
 title = "070 यथाविध्य् अधिगम्यैनाम्"
 
 +++
-यथाविध्य् अधिगम्यैनां  
-शुक्ल-वस्त्रां शुचि-व्रताम् ।  
-मिथो भजेताऽऽप्रसवात्  
-सकृत्-सकृद् ऋताव्-ऋतौ  ॥ ९.७० ॥
+070	Having, according to the rule, espoused her (who must be) clad in white garments and be intent on purity, he shall approach her once in each proper season until issue (be had).

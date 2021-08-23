@@ -2,7 +2,4 @@
 title = "021 ध्यायत्य् अनिष्टम्"
 
 +++
-ध्यायत्य् अनिष्टं यत् किं चित्  
-पाणिग्राहस्य चेतसा ।  
-तस्यैष व्यभिचारस्य  
-निह्नवः सम्यग् उच्यते  ॥ ९.२१ ॥
+021	If a woman thinks in her heart of anything that would pain her husband, the (above-mentioned text) is declared (to be a means for) completely removing such infidelity.

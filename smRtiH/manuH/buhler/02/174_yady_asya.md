@@ -2,8 +2,4 @@
 title = "174 यद्य् अस्य"
 
 +++
-
-यद्य् अस्य विहितं चर्म  
-यत् सूत्रं या च मेखला ।  
-यो दण्डो यच् च वसनं  
-तत् तद् अस्य व्रतेष्व् अपि  ॥ २.१७४ ॥
+174	Whatever dress of skin, sacred thread, girdle, staff, and lower garment are prescribed for a (student at the initiation), the like (must again be used) at the (performance of the) vows.

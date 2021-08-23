@@ -2,8 +2,4 @@
 title = "103 अज्ञेभ्यो ग्रन्थिनः"
 
 +++
-
-अज्ञेभ्यो ग्रन्थिनः श्रेष्ठा  
-ग्रन्थिभ्यो धारिणो वराः ।  
-धारिभ्यो ज्ञानिनः श्रेष्ठा  
-ज्ञानिभ्यो व्यवसायिनः  ॥ १२.१०३ ॥
+103	(Even forgetful) students of the (sacred) books are more distinguished than the ignorant, those who remember them surpass the (forgetful) students, those who possess a knowledge (of the meaning) are more distinguished than those who (only) remember (the words), men who follow (the teaching of the texts) surpass those who (merely) know (their meaning).

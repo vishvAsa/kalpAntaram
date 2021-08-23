@@ -2,8 +2,4 @@
 title = "034 त्रयाणाम् अपि"
 
 +++
-
-त्रयाणाम् अपि चैतेषां  
-गुणानां त्रिषु तिष्ठताम् ।  
-इदं सामासिकं ज्ञेयं  
-क्रमशो गुणलक्षणम्  ॥ १२.३४ ॥
+034	Know, moreover, the following to be a brief description of the three qualities, each in its order, as they appear in the three (times, the present, past, and future).

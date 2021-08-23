@@ -2,7 +2,4 @@
 title = "059 दशाहं शावम्"
 
 +++
-दशाहं शावम् आशौचं  
-सपिण्डेषु विधीयते ।  
-अर्वाक् सञ्चयनाद् अस्थ्नां  
-त्र्यहम् एकाहम् एव वा  ॥ ५.५९ ॥
+059	It is ordained (that) among Sapindas the impurity on account of a death (shall last) ten days, (or) until the bones have been collected, (or) three days or one day only.

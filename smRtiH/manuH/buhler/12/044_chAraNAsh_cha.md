@@ -2,8 +2,4 @@
 title = "044 चारणाश् च"
 
 +++
-
-चारणाश् च सुपर्णाश् च  
-पुरुषाश् चैव दाम्भिकाः ।  
-रक्षांसि च पिशाचाश् च  
-तामसीषूत्तमा गतिः  ॥ १२.४४ ॥
+044	Karanas, Suparnas and hypocrites, Rakshasas and Pisakas (belong to) the highest (rank of) conditions among those produced by Darkness.

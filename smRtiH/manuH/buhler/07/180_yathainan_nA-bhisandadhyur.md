@@ -2,7 +2,4 @@
 title = "180 यथैनन् नाऽभिसन्दध्युर्"
 
 +++
-यथैनं नाऽभिसन्दध्युर्  
-मित्रोदासीन-शत्रवः ।  
-तथा सर्वं संविदध्याद्  
-एष सामासिको नयः  ॥ ७.१८० ॥ [१८१ मेधातिथिपाठे]
+180	Let him arrange everything in such a manner that no ally, no neutral or foe may injure him; that is the sum of political wisdom.

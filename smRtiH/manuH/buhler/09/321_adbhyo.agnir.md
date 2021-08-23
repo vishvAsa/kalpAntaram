@@ -2,7 +2,4 @@
 title = "321 अद्भ्यो ऽग्निर्"
 
 +++
-अद्भ्यो ऽग्निर् ब्रह्मतः क्षत्रम्  
-अश्मनो लोहम् उत्थितम् ।  
-तेषां सर्वत्रगं तेजः  
-स्वासु योनिषु शाम्यति  ॥ ९.३२१ ॥
+321	Fire sprang from water, Kshatriyas from Brahmanas, iron from stone; the all-penetrating force of those (three) has no effect on that whence they were produced.

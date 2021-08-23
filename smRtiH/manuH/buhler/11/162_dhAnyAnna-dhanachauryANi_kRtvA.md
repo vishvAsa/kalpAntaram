@@ -2,7 +2,4 @@
 title = "162 धान्यान्न-धनचौर्याणि कृत्वा"
 
 +++
-धान्यान्न-धनचौर्याणि  
-कृत्वा कामाद् द्विजोत्तमः ।  
-स्वजातीयगृहाद् एव  
-कृच्छ्राब्देन विशुध्यति  ॥ ११.१६२ ॥ [१६१ मेधातिथिपाठे]
+163	The chief of the twice-born, having voluntarily stolen (valuable) property, grain, or cooked food, from the house of a caste-fellow, is purified by performing Krikkhra (penances) during a whole year.

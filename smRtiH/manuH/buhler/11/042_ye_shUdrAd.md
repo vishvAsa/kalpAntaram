@@ -2,7 +2,4 @@
 title = "042 ये शूद्राद्"
 
 +++
-ये शूद्राद् अधिगम्याऽर्थम्  
-अग्निहोत्रम् उपासते ।  
-ऋत्विजस् ते हि शूद्राणां  
-ब्रह्मवादिषु गर्हिताः  ॥ ११.४२ ॥ [४१ मेधातिथिपाठे]
+042	Those who, obtaining wealth from Sudras, (and using that) offer an Agnihotra, are priests officiating for Sudras, (and hence) censured among those who recite the Veda.

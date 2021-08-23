@@ -2,7 +2,4 @@
 title = "313 यः क्षिप्तो"
 
 +++
-यः क्षिप्तो मर्षयत्य् आर्तैस्  
-तेन स्वर्गे महीयते ।  
-यस् त्व् ऐश्वर्यान् न क्षमते  
-नरकं तेन गच्छति  ॥ ८.३१३ ॥
+313	He who, being abused by men in pain, pardons (them), will in reward of that (act) be exalted in heaven; but he who, (proud) of his kingly state, forgives them not, will for that (reason) sink into hell.

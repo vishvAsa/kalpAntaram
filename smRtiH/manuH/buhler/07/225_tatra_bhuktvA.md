@@ -2,7 +2,4 @@
 title = "225 तत्र भुक्त्वा"
 
 +++
-तत्र भुक्त्वा पुनः किं चित्  
-तूर्यघोषैः प्रहर्षितः ।  
-संविशेत् तं यथाकालम्  
-उत्तिष्ठेच् च गतक्लमः  ॥ ७.२२५ ॥ [२२९ मेधातिथिपाठे]
+225	Having eaten there something for the second time, and having been recreated by the sound of music, let him go to rest and rise at the proper time free from fatigue.

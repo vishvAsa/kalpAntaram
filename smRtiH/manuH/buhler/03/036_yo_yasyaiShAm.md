@@ -2,7 +2,4 @@
 title = "036 यो यस्यैषाम्"
 
 +++
-यो यस्यैषां विवाहानां  
-मनुना कीर्तितो गुणः ।  
-सर्वं शृणुत तं विप्राः  
-सर्वं कीर्तयतो मम [मेधातिथिपाठः - सम्यक् कीर्तयतो]  ॥ ३.३६ ॥
+036	Listen now to me, ye Brahmanas, while I fully declare what quality has been ascribed by Manu to each of these marriage-rites.

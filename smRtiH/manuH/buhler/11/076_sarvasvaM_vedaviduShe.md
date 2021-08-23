@@ -2,7 +2,4 @@
 title = "076 सर्वस्वं वेदविदुषे"
 
 +++
-सर्वस्वं वेदविदुषे  
-ब्राह्मणायोपपादयेत् ।  
-धनं हि जीवनायाऽलं  
-गृहं वा स-परिच्छदम्  ॥ ११.७६ ॥ [७५ मेधातिथिपाठे]
+077	Or he may present to a Brahmana, learned in the Vedas, whole property, as much wealth as suffices for the maintenance (of the recipient), or a house together with the furniture;

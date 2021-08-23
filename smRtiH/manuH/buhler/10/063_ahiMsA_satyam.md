@@ -2,7 +2,4 @@
 title = "063 अहिंसा सत्यम्"
 
 +++
-अहिंसा सत्यम् अस्तेयं  
-शौचम् इन्द्रियनिग्रहः ।  
-एतं सामासिकं धर्मं  
-चातुर्वर्ण्ये ऽब्रवीन् मनुः  ॥ १०.६३ ॥
+063	Abstention from injuring (creatures), veracity, abstention from unlawfully appropriating (the goods of others), purity, and control of the organs, Manu has declared to be the summary of the law for the four castes.

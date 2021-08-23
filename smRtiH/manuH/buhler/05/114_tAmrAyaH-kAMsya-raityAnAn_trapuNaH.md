@@ -2,7 +2,4 @@
 title = "114 ताम्रायः-कांस्य-रैत्यानान् त्रपुणः"
 
 +++
-ताम्रायः-कांस्य-रैत्यानां  
-त्रपुणः सीसकस्य च ।  
-शौचं यथार्हं कर्तव्यं  
-क्षाराम्लोदक-वारिभिः  ॥ ५.११४ ॥ [११३ मेधातिथिपाठे]
+114	Copper, iron, brass, pewter, tin, and lead must be cleansed, as may be suitable (for each particular case), by alkaline (substances), acids or water.

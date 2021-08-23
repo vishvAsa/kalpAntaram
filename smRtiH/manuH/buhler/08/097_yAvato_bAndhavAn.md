@@ -2,7 +2,4 @@
 title = "097 यावतो बान्धवान्"
 
 +++
-यावतो बान्धवान् यस्मिन्  
-हन्ति साक्ष्ये ऽनृतं वदन् ।  
-तावतः संख्यया तस्मिन्  
-शृणु सौम्याऽनुपूर्वशः  ॥ ८.९७ ॥
+097	'Learn now, O friend, from an enumeration in due order, how many relatives he destroys who gives false evidence in several particular cases.

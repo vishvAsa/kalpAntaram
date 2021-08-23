@@ -2,8 +2,4 @@
 title = "015 महान्तम् एव"
 
 +++
-
-महान्तम् एव चात्मानं  
-सर्वाणि त्रि-गुणानि च ।  
-विषयाणां ग्रहीतॄणि  
-शनैः पञ्चेन्द्रियाणि च  ॥ १.१५ ॥
+015	Moreover, the great one, the soul, and all (products) affected by the three qualities, and, in their order, the five organs which perceive the objects of sensation.

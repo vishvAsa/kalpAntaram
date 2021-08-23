@@ -2,7 +2,4 @@
 title = "004 सर्वरत्नानि राजा"
 
 +++
-सर्वरत्नानि राजा तु  
-यथार्हं प्रतिपादयेत् ।  
-ब्राह्मणान् वेदविदुषो  
-यज्ञार्थं चैव दक्षिणाम्  ॥ ११.४ ॥
+004	But a king shall bestow, as is proper, jewels of all sorts, and presents for the sake of sacrifices on Brahmanas learned in the Vedas.

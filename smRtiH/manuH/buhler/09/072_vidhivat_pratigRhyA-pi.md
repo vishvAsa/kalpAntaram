@@ -2,7 +2,4 @@
 title = "072 विधिवत् प्रतिगृह्याऽपि"
 
 +++
-विधिवत् प्रतिगृह्याऽपि  
-त्यजेत् कन्यां विगर्हिताम् ।  
-व्याधितां विप्रदुष्टां वा  
-छद्मना चोपपादिताम्  ॥ ९.७२ ॥
+072	Though (a man) may have accepted a damsel in due form, he may abandon (her if she be) blemished, diseased, or deflowered, and (if she have been) given with fraud.

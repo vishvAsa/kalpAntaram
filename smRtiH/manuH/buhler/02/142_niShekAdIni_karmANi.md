@@ -2,8 +2,4 @@
 title = "142 निषेकादीनि कर्माणि"
 
 +++
-
-निषेकादीनि कर्माणि  
-यः करोति यथाविधि ।  
-सम्भावयति चाऽन्नेन  
-स विप्रो गुरुर् उच्यते  ॥ २.१४२ ॥
+142	That Brahmana, who performs in accordance with the rules (of the Veda) the rites, the Garbhadhana (conception-rite), and so forth, and gives food (to the child), is called the Guru (the venerable one).

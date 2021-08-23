@@ -2,7 +2,4 @@
 title = "014 बकञ् चैव"
 
 +++
-बकं चैव बलाकां च  
-काकोलं खञ्जरीटकम् ।  
-मत्स्यादान् विड्-वराहांश् च  
-मत्स्यान् एव च सर्वशः  ॥ ५.१४ ॥
+014	The Baka and the Balaka crane, the raven, the Khangaritaka, (animals) that eat fish, village-pigs, and all kinds of fishes.

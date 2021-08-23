@@ -2,7 +2,4 @@
 title = "046 अकामतः कृतम्"
 
 +++
-अकामतः कृतं पापं  
-वेदाभ्यासेन शुध्यति ।  
-कामतस् तु कृतं मोहात्  
-प्रायश्चित्तैः पृथग्विधैः  ॥ ११.४६ ॥ [४५ मेधातिथिपाठे]
+046	A sin unintentionally committed is expiated by the recitation of Vedic texts, but that which (men) in their folly commit intentionally, by various (special) penances.

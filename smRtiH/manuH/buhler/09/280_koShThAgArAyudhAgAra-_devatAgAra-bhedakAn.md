@@ -2,7 +2,4 @@
 title = "280 कोष्ठागारायुधागार- देवतागार-भेदकान्"
 
 +++
-कोष्ठागारायुधागार-  
-देवतागार-भेदकान् ।  
-हस्त्य्-अश्व-रथहर्तॄंश् च  
-हन्याद् एवाऽविचारयन्  ॥ ९.२८० ॥
+280	Those who break into a (royal) storehouse, an armoury, or a temple, and those who steal elephants, horses, or chariots, he shall slay without hesitation.

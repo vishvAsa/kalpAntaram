@@ -2,7 +2,4 @@
 title = "093 इतरेषान् तु"
 
 +++
-इतरेषां तु पण्यानां  
-विक्रयाद् इह कामतः ।  
-ब्राह्मणः सप्तरात्रेण  
-वैश्यभावं नियच्छति  ॥ १०.९३ ॥
+093	But by willingly selling in this world other (forbidden) commodities, a Brahmana assumes after seven nights the character of a Vaisya.

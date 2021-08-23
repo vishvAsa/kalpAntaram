@@ -2,7 +2,4 @@
 title = "061 द्वितीयम् एके"
 
 +++
-द्वितीयम् एके प्रजनं  
-मन्यन्ते स्त्रीषु तद्विदः ।  
-अनिर्वृतं नियोगार्थं  
-पश्यन्तो धर्मतस् तयोः [मेधातिथिपाठः - अ-निर्वृत्तं]  ॥ ९.६१ ॥
+061	Some (sages), versed in the law, considering the purpose of the appointment not to have been attained by those two (on the birth of the first), think that a second (son) may be lawfully procreated on (such) women.

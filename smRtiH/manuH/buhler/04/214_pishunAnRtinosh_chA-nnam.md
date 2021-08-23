@@ -2,8 +2,4 @@
 title = "214 पिशुनानृतिनोश् चाऽन्नम्"
 
 +++
-
-पिशुनानृतिनोश् चाऽन्नं  
-क्रतु-विक्रयिणस् तथा [मेधातिथिपाठः - क्रतुविक्रयकस्य च] ।  
-शैलूष-तुन्नवायान्नं+++(=तन्तुवायान्नम्)+++  
-कृतघ्नस्याऽन्नम् एव च  ॥ ४.२१४ ॥ [२१५ मेधातिथिपाठे]  
+214	Nor the food (given) by an informer, by one who habitually tells falsehoods, or by one who sells (the rewards for) sacrifices, nor the food (given) by an actor, a tailor, or an ungrateful (man),

@@ -2,7 +2,4 @@
 title = "242 अनिर्दशाहाङ् गाम्"
 
 +++
-अनिर्दशाहां गां सूतां  
-वृषान् देवपशूंस् तथा ।  
-स-पालान् वा वि-पालान् वा  
-न दण्ड्यान् मनुर् अब्रवीत्  ॥ ८.२४२ ॥
+242	But Manu has declared that no fine shall be paid for (damage done by) a cow within ten days after her calving, by bulls and by cattle sacred to the gods, whether they are attended by a herdsman or not.

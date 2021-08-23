@@ -2,7 +2,4 @@
 title = "036 तेन यद्"
 
 +++
-तेन यद् यत् स-भृत्येन  
-कर्तव्यं रक्षता प्रजाः ।  
-तत् तद् वो ऽहं प्रवक्ष्यामि  
-यथावद् अनुपूर्वशः  ॥ ७.३६ ॥
+036	Whatever must be done by him and by his servants for the protection of his people, that I will fully declare to you in due order.

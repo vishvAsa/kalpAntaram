@@ -2,7 +2,4 @@
 title = "148 अजडश् चेद्"
 
 +++
-अजडश् चेद् अपोगण्डो  
-विषये चाऽस्य भुज्यते ।  
-भग्नं तद् व्यवहारेण  
-भोक्ता तद् द्रव्यम् अर्हति [मेधातिथिपाठः - तद् धनम् अर्हति]  ॥ ८.१४८ ॥
+148	If (the owner is) neither an idiot nor a minor and if (his chattel) is enjoyed (by another) before his eyes, it is lost to him by law; the adverse possessor shall retain that property.

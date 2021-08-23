@@ -2,8 +2,4 @@
 title = "078 अधितिष्ठेन् न"
 
 +++
-
-अधितिष्ठेन् न केशांस् तु  
-न भस्मास्थि-+++(कुम्भ)+++कपालिकाः ।  
-न कार्पासास्थि+++(→कार्पासबीजं)+++ न तुषान्  
-दीर्घम् आयुर् जिजीविषुः  ॥ ४.७८ ॥  
+078	Let him not step on hair, ashes, bones, potsherds, cotton-seed or chaff, if he desires long life.

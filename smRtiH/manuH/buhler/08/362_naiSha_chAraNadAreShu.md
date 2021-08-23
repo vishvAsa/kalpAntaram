@@ -2,7 +2,4 @@
 title = "362 नैष चारणदारेषु"
 
 +++
-नैष चारणदारेषु  
-विधिर् नात्मोपजीविषु ।  
-सज्जयन्ति हि ते नारीर्  
-निगूढाश् चारयन्ति च  ॥ ८.३६२ ॥
+362	This rule does not apply to the wives of actors and singers, nor (of) those who live on (the intrigues of) their own (wives); for such men send their wives (to others) or, concealing themselves, allow them to hold criminal intercourse.

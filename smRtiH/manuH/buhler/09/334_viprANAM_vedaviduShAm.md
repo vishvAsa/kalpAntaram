@@ -2,7 +2,4 @@
 title = "334 विप्राणां वेदविदुषाम्"
 
 +++
-विप्राणां वेदविदुषां  
-गृहस्थानां यशस्विनाम् ।  
-शुश्रूषैव तु शूद्रस्य  
-धर्मो नैश्रेयसः परः [क्: परम्]  ॥ ९.३३४ ॥
+334	But to serve Brahmanas (who are) learned in the Vedas, householders, and famous (for virtue) is the highest duty of a Sudra, which leads to beatitude.

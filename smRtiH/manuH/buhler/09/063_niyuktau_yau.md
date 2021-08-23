@@ -2,7 +2,4 @@
 title = "063 नियुक्तौ यौ"
 
 +++
-नियुक्तौ यौ विधिं हित्वा  
-वर्तेयातां तु कामतः ।  
-ताव् उभौ पतितौ स्यातां  
-स्नुषाग-गुरुतल्पगौ  ॥ ९.६३ ॥
+063	If those two (being thus) appointed deviate from the rule and act from carnal desire, they will both become outcasts, (as men) who defile the bed of a daughter-in-law or of a Guru.

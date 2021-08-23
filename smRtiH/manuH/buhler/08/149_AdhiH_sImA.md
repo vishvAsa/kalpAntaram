@@ -2,7 +2,4 @@
 title = "149 आधिः सीमा"
 
 +++
-आधिः सीमा बालधनं  
-निक्षेपोपनिधिः स्त्रियः [मेधातिथिपाठः - निक्षेपोपनिधी] ।  
-राजस्वं श्रोत्रियस्वं च  
-न भोगेन प्रणश्यति  ॥ ८.१४९ ॥
+149	A pledge, a boundary, the property of infants, an (open) deposit, a sealed deposit, women, the property of the king and the wealth of a Srotriya are not lost in consequence of (adverse) enjoyment.

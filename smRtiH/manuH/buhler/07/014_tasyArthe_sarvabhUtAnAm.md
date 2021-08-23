@@ -2,7 +2,4 @@
 title = "014 तस्यार्थे सर्वभूतानाम्"
 
 +++
-तस्यार्थे सर्वभूतानां  
-गोप्तारं धर्मम् आत्मजम् [मेधातिथिपाठः - तदर्थं] ।  
-ब्रह्मतेजोमयं दण्डम्  
-असृजत् पूर्वम् ईश्वरः  ॥ ७.१४ ॥
+014	For the (king's) sake the Lord formerly created his own son, Punishment, the protector of all creatures, (an incarnation of) the law, formed of Brahman's glory.

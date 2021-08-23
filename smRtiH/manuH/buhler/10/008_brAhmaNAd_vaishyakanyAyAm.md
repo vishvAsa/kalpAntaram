@@ -2,7 +2,4 @@
 title = "008 ब्राह्मणाद् वैश्यकन्यायाम्"
 
 +++
-ब्राह्मणाद् वैश्यकन्यायाम्  
-अम्बष्ठो नाम जायते ।  
-निषादः शूद्रकन्यायां  
-यः पारशव उच्यते  ॥ १०.८ ॥
+008	From a Brahmana a with the daughter of a Vaisya is born (a son) called an Ambashtha, with the daughter of a sudra a Nishada, who is also called Parasava.

@@ -2,7 +2,4 @@
 title = "111 मोहाद् राजा"
 
 +++
-मोहाद् राजा स्वराष्ट्रं  
-यः कर्षयत्य् अनवेक्षया ।  
-सो ऽचिराद् भ्रश्यते राज्याज्  
-जीविताच् च स-बान्धवः  ॥ ७.१११ ॥ [११२ मेधातिथिपाठे]
+111	That king who through folly rashly oppresses his kingdom, (will), together with his relatives, ere long be deprived of his life and of his kingdom.

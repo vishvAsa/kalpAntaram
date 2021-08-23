@@ -2,8 +2,4 @@
 title = "192 शरीरञ् चैव"
 
 +++
-
-शरीरं चैव वाचं च  
-बुद्धीन्द्रिय-मनांसि च ।  
-नियम्य प्राञ्जलिस् तिष्ठेद्  
-वीक्षमाणो गुरोर् मुखम्  ॥ २.१९२ ॥
+192	Controlling his body, his speech, his organs (of sense), and his mind, let him stand with joined hands, looking at the face of his teacher.

@@ -2,7 +2,4 @@
 title = "210 यैर् अभ्युपायैर्"
 
 +++
-यैर् अभ्युपायैर् एनांसि  
-मानवो व्यपकर्षति ।  
-तान् वो ऽभ्युपायान् वक्ष्यामि  
-देवर्षि-पितृसेवितान्  ॥ ११.२१० ॥ [२०९ मेधातिथिपाठे]
+211	I will (now) describe to you those means, adopted by the gods, the sages, and the manes, through which a man may remove his sins.

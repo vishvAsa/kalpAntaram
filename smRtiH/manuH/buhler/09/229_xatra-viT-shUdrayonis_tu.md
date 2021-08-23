@@ -2,7 +2,4 @@
 title = "229 क्षत्र-विट्-शूद्रयोनिस् तु"
 
 +++
-क्षत्र-विट्-शूद्रयोनिस् तु  
-दण्डं दातुम् अशक्नुवन् ।  
-आनृण्यं कर्मणा गच्छेद्  
-विप्रो दद्याच् छनैः शनैः  ॥ ९.२२९ ॥
+229	But a Kshatriya, a Vaisya, and a Sudra who are unable to pay a fine, shall discharge the debt by labour; a Brahmana shall pay it by installments.

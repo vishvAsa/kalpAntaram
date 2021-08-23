@@ -2,7 +2,4 @@
 title = "188 सर्वेषाम् अप्य्"
 
 +++
-सर्वेषाम् अप्य् अभावे तु  
-ब्राह्मणा रिक्थभागिनः ।  
-त्रैविद्याः शुचयो दान्तास्  
-तथा धर्मो न हीयते  ॥ ९.१८८ ॥
+188	But on failure of all (heirs) Brahmanas (shall) share the estate, (who are) versed the in the three Vedas, pure and self-controlled; thus the law is not violated.

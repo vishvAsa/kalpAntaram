@@ -2,8 +2,4 @@
 title = "029 प्राङ् नाभिवर्धनात्"
 
 +++
-
-प्राङ् नाभिवर्धनात् पुंसो  
-जातकर्म विधीयते ।  
-मन्त्रवत् प्राशनं चाऽस्य  
-हिरण्य-मधु-सर्पिषाम्  ॥ २.२९ ॥
+029	Before the navel-string is cut, the Gatakarman (birth-rite) must be performed for a male (child); and while sacred formulas are being recited, he must be fed with gold, honey, and butter.

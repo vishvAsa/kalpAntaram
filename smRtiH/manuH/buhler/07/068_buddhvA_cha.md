@@ -2,7 +2,4 @@
 title = "068 बुद्ध्वा च"
 
 +++
-बुद्ध्वा च सर्वं तत्त्वेन  
-परराजचिकीर्षितम् ।  
-तथा प्रयत्नम् आतिष्ठेद्  
-यथात्मानं न पीडयेत्  ॥ ७.६८ ॥
+068	Having learnt exactly (from his ambassador) the designs of the foreign king, let (the king) take such measures that he does not bring evil on himself.

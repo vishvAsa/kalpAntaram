@@ -2,7 +2,4 @@
 title = "176 अपाङ्क्त्यो यावतः"
 
 +++
-अपाङ्क्त्यो यावतः पङ्क्त्यान्  
-भुञ्जानान् अनुपश्यति [मेधातिथिपाठः - अ-पङ्क्त्यो यावतः] ।  
-तावतां न फलं तत्र  
-दाता प्राप्नोति बालिशः  ॥ ३.१७६ ॥ [१६६ मेधातिथिपाठे]
+176	The foolish giver (of a funeral repast) does not reap the reward for as many worthy guests as a man, inadmissible into company, can look on while they are feeding.

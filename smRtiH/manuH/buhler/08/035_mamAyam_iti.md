@@ -2,7 +2,4 @@
 title = "035 ममायम् इति"
 
 +++
-ममायम् इति यो ब्रूयान्  
-निधिं सत्येन मानवः ।  
-तस्याददीत षड्भागं  
-राजा द्वादशम् एव वा  ॥ ८.३५ ॥
+035	From that man who shall truly say with respect to treasure-trove, 'This belongs to me,' the king may take one-sixth or one-twelfth part.

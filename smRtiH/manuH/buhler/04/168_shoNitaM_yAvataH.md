@@ -2,8 +2,4 @@
 title = "168 शोणितं यावतः"
 
 +++
-
-शोणितं यावतः पांसून्  
-सङ्गृह्णाति महीतलात् ।  
-तावतो ऽब्दान् अमुत्राऽन्यैः  
-+++(ब्राह्मण)+++शोणितोत्पादको ऽद्यते  ॥ ४.१६८ ॥  
+168	As many particles of dust as the blood takes up from the ground, during so many years the spiller of the blood will be devoured by other (animals) in the next world.

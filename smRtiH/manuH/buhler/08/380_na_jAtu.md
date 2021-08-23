@@ -2,7 +2,4 @@
 title = "380 न जातु"
 
 +++
-न जातु ब्राह्मणं हन्यात्  
-सर्वपापेष्व् अपि स्थितम् ।  
-राष्ट्राद् एनं बहिः कुर्यात्  
-समग्र-धनम् अक्षतम्  ॥ ८.३८० ॥
+380	Let him never slay a Brahmana, though he have committed all (possible) crimes; let him banish such an (offender), leaving all his property (to him) and (his body) unhurt.

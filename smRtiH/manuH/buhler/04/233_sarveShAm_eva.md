@@ -2,8 +2,4 @@
 title = "233 सर्वेषाम् एव"
 
 +++
-
-सर्वेषाम् एव दानानां  
-ब्रह्म-दानं विशिष्यते ।  
-वार्य्-अन्न-गो-मही-वासस्-  
-तिल-काञ्चन-सर्पिषाम्  ॥ ४.२३३ ॥ [२३४ मेधातिथिपाठे]  
+233	The gift of the Veda surpasses all other gifts, water, food, cows, land, clothes, sesamum, gold, and clarified butter.

@@ -2,7 +2,4 @@
 title = "102 नित्यम् उद्यत-दण्डः"
 
 +++
-नित्यम् उद्यत-दण्डः स्यान्  
-नित्यं विवृत-पौरुषः ।  
-नित्यं संवृत-संवार्यो  
-नित्यं छिद्रानुसार्य् अरेः  ॥ ७.१०२ ॥ [१०३ मेधातिथिपाठे]
+102	Let him be ever ready to strike, his prowess constantly displayed, and his secrets constantly concealed, and let him constantly explore the weaknesses of his foe.

@@ -2,7 +2,4 @@
 title = "316 यान् उपाश्रित्य"
 
 +++
-यान् उपाश्रित्य तिष्ठन्ति  
-लोका देवाश् च सर्वदा ।  
-ब्रह्म चैव धनं येषां  
-को हिंस्यात् ताञ् जिजीविषुः  ॥ ९.३१६ ॥
+316	What man, desirous of life, would injure them to whose support the (three) worlds and the gods ever owe their existence, and whose wealth is the Veda?

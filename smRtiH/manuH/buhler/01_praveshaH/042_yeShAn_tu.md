@@ -2,8 +2,4 @@
 title = "042 येषान् तु"
 
 +++
-
-येषां तु यादृषं कर्म  
-भूतानाम् इह कीर्तितम् ।  
-तत् तथा वो ऽभिधास्यामि  
-क्रमयोगं च जन्मनि  ॥ १.४२ ॥
+042	But whatever act is stated (to belong) to (each of) those creatures here below, that I will truly declare to you, as well as their order in respect to birth.

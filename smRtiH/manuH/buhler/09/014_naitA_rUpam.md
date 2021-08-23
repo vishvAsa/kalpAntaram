@@ -2,7 +2,4 @@
 title = "014 नैता रूपम्"
 
 +++
-नैता रूपं परीक्षन्ते  
-नासां वयसि संस्थितिः ।  
-सुरूपं वा विरूपं वा  
-पुमान् इत्य् एव भुञ्जते  ॥ ९.१४ ॥
+014	Women do not care for beauty, nor is their attention fixed on age; (thinking), '(It is enough that) he is a man,' they give themselves to the handsome and to the ugly.

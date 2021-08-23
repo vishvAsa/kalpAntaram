@@ -2,8 +2,4 @@
 title = "190 अतपास् त्व्"
 
 +++
-
-अतपास् त्व् अनधीयानः  
-प्रतिग्रह-रुचिर् द्विजः ।  
-अम्भस्य् अश्मप्लवेनेव  
-सह तेनैव मज्जति  ॥ ४.१९० ॥+++(5)+++  
+190	A Brahmana who neither performs austerities nor studies the Veda, yet delights in accepting gifts, sinks with the (donor into hell), just as (he who attempts to cross over in) a boat made of stone (is submerged) in the water.

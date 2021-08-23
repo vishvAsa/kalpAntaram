@@ -2,7 +2,4 @@
 title = "195 विराट्-सुताः सोमसदः"
 
 +++
-विराट्-सुताः सोमसदः  
-साध्यानां पितरः स्मृताः ।  
-अग्निष्वात्ताश् च देवानां  
-मारीचा लोकविश्रुताः  ॥ ३.१९५ ॥ [१८५ मेधातिथिपाठे]
+195	The Somasads, the sons of Virag, are stated to be the manes of the Sadhyas, and the Agnishvattas, the children of Mariki, are famous in the world (as the manes) of the gods.

@@ -2,8 +2,4 @@
 title = "100 वशे कृत्वेन्द्रियग्रामम्"
 
 +++
-
-वशे कृत्वेन्द्रियग्रामं  
-संयम्य च मनस् तथा ।  
-सर्वान् संसाधयेद् अर्थान्  
-अक्षिण्वन् योगतस् तनुम्  ॥ २.१०० ॥
+100	If he keeps all the (ten) organs as well as the mind in subjection, he may gain all his aims, without reducing his body by (the practice) of Yoga.

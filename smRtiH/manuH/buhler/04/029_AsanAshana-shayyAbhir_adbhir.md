@@ -2,8 +2,4 @@
 title = "029 आसनाशन-शय्याभिर् अद्भिर्"
 
 +++
-
-आसनाशन-शय्याभिर्  
-अद्भिर् मूल-फलेन वा ।  
-नाऽस्य कश् चिद् वसेद् गेहे  
-शक्तितो ऽनर्चितो ऽतिथिः  ॥ ४.२९ ॥  
+029	No guest must stay in his house without being honoured, according to his ability, with a seat, food, a couch, water, or roots and fruits.

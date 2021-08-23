@@ -2,7 +2,4 @@
 title = "009 एकम् एव"
 
 +++
-एकम् एव दहत्य् अग्निर्  
-नरं दुरुपसर्पिणम् ।  
-कुलं दहति राजाग्निः  
-स-पशु-द्रव्यसञ्चयम्  ॥ ७.९ ॥
+009	Fire burns one man only, if he carelessly approaches it, the fire of a king's (anger) consumes the (whole) family, together with its cattle and its hoard of property.

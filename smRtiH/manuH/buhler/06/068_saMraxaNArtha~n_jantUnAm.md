@@ -2,7 +2,4 @@
 title = "068 संरक्षणार्थञ् जन्तूनाम्"
 
 +++
-संरक्षणार्थं जन्तूनां  
-रात्राव् अहनि वा सदा ।  
-शरीरस्याऽत्यये चैव  
-समीक्ष्य वसुधां चरेत्  ॥ ६.६८ ॥
+068	In order to preserve living creatures, let him always by day and by night, even with pain to his body, walk, carefully scanning the ground.

@@ -2,8 +2,4 @@
 title = "110 नाऽपृष्टः कस्य"
 
 +++
-
-नाऽपृष्टः कस्य चिद् ब्रूयान्  
-न चाऽन्यायेन पृच्छतः ।  
-जानन्न् अपि हि मेधावी  
-जडवल् लोक आचरेत्  ॥ २.११० ॥
+110	Unless one be asked, one must not explain (anything) to anybody, nor (must one answer) a person who asks improperly; let a wise man, though he knows (the answer), behave among men as (if he were) an idiot.

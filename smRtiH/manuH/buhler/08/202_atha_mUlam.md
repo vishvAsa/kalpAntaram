@@ -2,7 +2,4 @@
 title = "202 अथ मूलम्"
 
 +++
-अथ मूलम् अनाहार्यं  
-प्रकाशक्रयशोधितः ।  
-अदण्ड्यो मुच्यते राज्ञा  
-नाष्टिको लभते धनम्  ॥ ८.२०२ ॥
+202	If the original (seller) be not producible, (the buyer) being exculpated by a public sale, must be dismissed by the king without punishment, but (the former owner) who lost the chattel shall receive it (back from the buyer).

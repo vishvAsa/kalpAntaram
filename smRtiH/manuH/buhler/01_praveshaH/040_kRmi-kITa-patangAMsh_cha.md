@@ -2,8 +2,4 @@
 title = "040 कृमि-कीट-पतङ्गांश् च"
 
 +++
-
-कृमि-कीट-पतङ्गांश् च  
-यूका-मक्षिक-मत्कुणम् ।  
-सर्वं च दंश-मशकं  
-स्थावरं च पृथग्विधम्  ॥ १.४० ॥
+040	Small and large worms and beetles, moths, lice, flies, bugs, all stinging and biting insects and the several kinds of immovable things.

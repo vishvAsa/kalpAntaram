@@ -2,7 +2,4 @@
 title = "113 ज्येष्ठश् चैव"
 
 +++
-ज्येष्ठश् चैव कनिष्ठश् च  
-संहरेतां यथोदितम् ।  
-ये ऽन्ये ज्येष्ठ-कनिष्ठाभ्यां  
-तेषां स्यान् मध्यमं धनम्  ॥ ९.११३ ॥
+113	Both the eldest and the youngest shall take (their shares) according to (the rule just) stated (each of) those who are between the eldest and the youngest, shall have the share (prescribed for the) middlemost.

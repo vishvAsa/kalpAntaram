@@ -2,8 +2,4 @@
 title = "055 तमो ऽयम्"
 
 +++
-
-तमो ऽयं तु समाश्रित्य  
-चिरं तिष्ठति सेन्द्रियः ।  
-न च स्वं कुरुते कर्म  
-तदोत्क्रामति मूर्तितः  ॥ १.५५ ॥
+055	When this (soul) has entered darkness, it remains for a long time united with the organs (of sensation), but performs not its functions; it then leaves the corporeal frame.

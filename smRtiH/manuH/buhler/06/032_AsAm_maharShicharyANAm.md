@@ -2,7 +2,4 @@
 title = "032 आसाम् महर्षिचर्याणाम्"
 
 +++
-आसां महर्षिचर्याणां  
-त्यक्त्वान्यतमया तनुम् ।  
-वीत-शोक-भयो विप्रो  
-ब्रह्मलोके महीयते  ॥ ६.३२ ॥
+032	A Brahmana, having got rid of his body by one of those modes practised by the great sages, is exalted in the world of Brahman, free from sorrow and fear.

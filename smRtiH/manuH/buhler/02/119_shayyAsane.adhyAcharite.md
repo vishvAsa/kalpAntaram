@@ -2,8 +2,4 @@
 title = "119 शय्यासने ऽध्याचरिते"
 
 +++
-
-शय्यासने ऽध्याचरिते  
-श्रेयसा न समाविशेत् ।  
-शय्यासनस्थश् चैवैनं  
-प्रत्युत्थायाऽभिवादयेत्  ॥ २.११९ ॥
+119	One must not sit down on a couch or seat which a superior occupies; and he who occupies a couch or seat shall rise to meet a (superior), and (afterwards) salute him.

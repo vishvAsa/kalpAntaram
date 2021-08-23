@@ -2,8 +2,4 @@
 title = "115 यं वदन्ति"
 
 +++
-
-यं वदन्ति तमोभूता  
-मूर्खा धर्मम् अतद्विदः ।  
-तत्पापं शतधा भूत्वा  
-तद्वक्तॄन् अनुगच्छति  ॥ १२.११५ ॥
+115	The sin of him whom dunces, incarnations of Darkness, and unacquainted with the law, instruct (in his duty), falls, increased a hundredfold, on those who propound it.

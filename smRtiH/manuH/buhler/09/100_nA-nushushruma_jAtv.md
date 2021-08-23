@@ -2,7 +2,4 @@
 title = "100 नाऽनुशुश्रुम जात्व्"
 
 +++
-नाऽनुशुश्रुम जात्व् एतत्  
-पूर्वेष्व् अपि हि जन्मसु ।  
-शुल्क-संज्ञेन मूल्येन  
-छन्नं दुहितृविक्रयम्  ॥ ९.१०० ॥
+100	Nor, indeed, have we heard, even in former creations, of such (a thing as) the covert sale of a daughter for a fixed price, called a nuptial fee.

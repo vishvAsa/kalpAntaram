@@ -2,7 +2,4 @@
 title = "105 ज्येष्ठ एव"
 
 +++
-ज्येष्ठ एव तु गृह्णीयात्  
-पित्र्यं धनम् अशेषतः ।  
-शेषास् तम् उपजीवेयुर्  
-यथैव पितरं तथा  ॥ ९.१०५ ॥
+105	(Or) the eldest alone may take the whole paternal estate, the others shall live under him just as (they lived) under their father.

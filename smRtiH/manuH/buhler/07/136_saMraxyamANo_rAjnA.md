@@ -2,7 +2,4 @@
 title = "136 संरक्ष्यमाणो राज्ञा"
 
 +++
-संरक्ष्यमाणो राज्ञा यं]  
-कुरुते धर्मम् अन्वहम् [मेधातिथिपाठः - राज्ञायं] ।  
-तेनायुर् वर्धते राज्ञो  
-द्रविणं राष्ट्रम् एव च  ॥ ७.१३६ ॥ [१३७ मेधातिथिपाठे]
+136	Whatever meritorious acts (such a Brahmana) performs under the full protection of the king, thereby the king's length of life, wealth, and kingdom increase.

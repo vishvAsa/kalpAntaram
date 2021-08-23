@@ -2,7 +2,4 @@
 title = "015 त्यजेद् आश्वयुजे"
 
 +++
-त्यजेद् आश्वयुजे मासि  
-मुन्य्-अन्नं पूर्वसञ्चितम् ।  
-जीर्णानि चैव वासांसि  
-शाक-मूल-फलानि च  ॥ ६.१५ ॥
+015	Let him throw away in the month of Asvina the food of ascetics, which he formerly collected, likewise his worn-out clothes and his vegetables, roots, and fruit.

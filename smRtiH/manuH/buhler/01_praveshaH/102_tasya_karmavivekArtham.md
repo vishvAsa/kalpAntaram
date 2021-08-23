@@ -2,8 +2,4 @@
 title = "102 तस्य कर्मविवेकार्थम्"
 
 +++
-
-तस्य कर्मविवेकार्थं  
-शेषाणाम् अनुपूर्वशः ।  
-स्वायम्भुवो मनुर् धीमान्  
-इदं शास्त्रम् अकल्पयत्  ॥ १.१०२ ॥
+102	In order to clearly settle his duties those of the other (castes) according to their order, wise Manu sprung from the Self-existent, composed these Institutes (of the sacred Law).

@@ -2,7 +2,4 @@
 title = "121 शूद्रस् तु"
 
 +++
-शूद्रस् तु वृत्तिम् आकाङ्क्षन्  
-क्षत्रम् आराधयेद् यदि [मेधातिथिपाठः - आराधयेद् इति] ।  
-धनिनं वाप्य् उपाराध्य  
-वैश्यं शूद्रो जिजीविषेत्  ॥ १०.१२१ ॥
+121	If a Sudra, (unable to subsist by serving Brahmanas,) seeks a livelihood, he may serve Kshatriyas, or he may also seek to maintain himself by attending on a wealthy Vaisya.

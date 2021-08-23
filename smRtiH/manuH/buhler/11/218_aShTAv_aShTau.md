@@ -2,7 +2,4 @@
 title = "218 अष्टाव् अष्टौ"
 
 +++
-अष्टाव् अष्टौ समश्नीयात्  
-पिण्डान् मध्यंदिने स्थिते ।  
-नियतात्मा हविष्याशी  
-यतिचान्द्रायणं चरन्  ॥ ११.२१८ ॥ [२१७ मेधातिथिपाठे]
+219	He who performs the lunar penance of ascetics, shall eat (during a month) daily at midday eight mouthfuls, controlling himself and consuming sacrificial food (only).

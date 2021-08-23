@@ -2,7 +2,4 @@
 title = "104 ऊर्ध्वम् पितुश्"
 
 +++
-ऊर्ध्वं पितुश् च मातुश् च  
-समेत्य भ्रातरः समम् ।  
-भजेरन् पैतृकं रिक्थम्  
-अनीशास् ते हि जीवतोः  ॥ ९.१०४ ॥
+104	After the death of the father and of the mother, the brothers, being assembled, may divide among themselves in equal shares the paternal (and the maternal) estate; for, they have no power (over it) while the parents live.

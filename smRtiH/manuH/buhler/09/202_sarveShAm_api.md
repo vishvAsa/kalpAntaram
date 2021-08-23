@@ -2,7 +2,4 @@
 title = "202 सर्वेषाम् अपि"
 
 +++
-सर्वेषाम् अपि तु न्याय्यं  
-दातुं शक्त्या मनीषिणा ।  
-ग्रासाच्छादनम् अत्यन्तं  
-पतितो ह्य् अददद् भवेत्  ॥ ९.२०२ ॥
+202	But it is just that (a man) who knows (the law) should give even to all of them food and raiment without stint, according to his ability; he who gives it not will become all outcast.

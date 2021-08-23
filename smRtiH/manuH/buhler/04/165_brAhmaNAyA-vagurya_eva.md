@@ -2,8 +2,4 @@
 title = "165 ब्राह्मणायाऽवगुर्य +एव"
 
 +++
-
-ब्राह्मणायाऽवगुर्य+++(=ताडनाभिनयं कृत्वा)+++ +एव  
-द्विजातिर् वधकाम्यया ।  
-शतं वर्षाणि तामिस्रे  
-नरके परिवर्तते  ॥ ४.१६५ ॥  
+165	A twice-born man who has merely threatened a Brahmana with the intention of (doing him) a corporal injury, will wander about for a hundred years in the Tamisra hell.

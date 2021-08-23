@@ -2,7 +2,4 @@
 title = "049 समुत्पत्तिञ् च"
 
 +++
-समुत्पत्तिं च मांसस्य  
-वध-बन्धौ च देहिनाम् ।  
-प्रसमीक्ष्य निवर्तेत  
-सर्व-मांसस्य भक्षणात्  ॥ ५.४९ ॥
+049	Having well considered the (disgusting) origin of flesh and the (cruelty of) fettering and slaying corporeal beings, let him entirely abstain from eating flesh.

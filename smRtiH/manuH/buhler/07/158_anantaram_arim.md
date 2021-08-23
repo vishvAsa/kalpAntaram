@@ -2,7 +2,4 @@
 title = "158 अनन्तरम् अरिम्"
 
 +++
-अनन्तरम् अरिं विद्याद्  
-अरिसेविनम् एव च ।  
-अरेर् अनन्तरं मित्रम्  
-उदासीनं तयोः परम्  ॥ ७.१५८ ॥ [१५९ मेधातिथिपाठे]
+158	Let (the king) consider as hostile his immediate neighbour and the partisan of (such a) foe, as friendly the immediate neighbour of his foe, and as neutral (the king) beyond those two.

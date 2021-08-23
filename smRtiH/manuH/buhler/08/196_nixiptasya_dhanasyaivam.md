@@ -2,7 +2,4 @@
 title = "196 निक्षिप्तस्य धनस्यैवम्"
 
 +++
-निक्षिप्तस्य धनस्यैवं  
-प्रीत्योपनिहितस्य च ।  
-राजा विनिर्णयं कुर्याद्  
-अक्षिण्वन् न्यासधारिणम्  ॥ ८.१९६ ॥
+196	Thus let the king decide (causes) concerning a deposit and a friendly loan (for use) without showing (undue) rigour to the depositary.

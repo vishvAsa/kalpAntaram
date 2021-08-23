@@ -2,7 +2,4 @@
 title = "212 धर्मार्थं येन"
 
 +++
-धर्मार्थं येन दत्तं स्यात्  
-कस्मै चिद् याचते धनम् ।  
-पश्चाच् च न तथा तत् स्यान्  
-न देयं तस्य तद् भवेत्  ॥ ८.२१२ ॥
+212	Should money be given (or promised) for a pious purpose by one man to another who asks for it, the gift shall be void, if the (money is) afterwards not (used) in the manner (stated).

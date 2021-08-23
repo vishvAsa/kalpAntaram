@@ -2,8 +2,4 @@
 title = "045 स्वेदजन् दंश-मशकम्"
 
 +++
-
-स्वेदजं दंश-मशकं  
-यूका-मक्षिक-मत्कुणम् ।  
-ऊष्मणश् चोपजायन्ते  
-यच् चाऽन्यत् किं चिद् ईदृषम्  ॥ १.४५ ॥
+045	From hot moisture spring stinging and biting insects, lice, flies, bugs, and all other (creatures) of that kind which are produced by heat.

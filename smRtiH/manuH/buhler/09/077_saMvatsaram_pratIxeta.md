@@ -2,7 +2,4 @@
 title = "077 संवत्सरम् प्रतीक्षेत"
 
 +++
-संवत्सरं प्रतीक्षेत  
-द्विषन्तीं योषितं पतिः [मेधातिथिपाठः - द्विषाणां] ।  
-ऊर्ध्वं संवत्सरात् त्व् एनां  
-दायं हृत्वा न संवसेत्  ॥ ९.७७ ॥
+077	For one year let a husband bear with a wife who hates him; but after (the lapse of) a year let him deprive her of her property and cease to cohabit with her.

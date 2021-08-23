@@ -2,7 +2,4 @@
 title = "146 धनं यो"
 
 +++
-धनं यो बिभृयाद् भ्रातुर्  
-मृतस्य स्त्रियम् एव च ।  
-सो ऽपत्यं भ्रातुर् उत्पाद्य  
-दद्यात् तस्यैव तद्धनम्  ॥ ९.१४६ ॥
+146	He who takes care of his deceased brother's estate and of his widow, shall, after raising up a son for his brother, give that property even to that (son).

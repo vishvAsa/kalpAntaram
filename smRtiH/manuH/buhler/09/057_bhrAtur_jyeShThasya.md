@@ -2,7 +2,4 @@
 title = "057 भ्रातुर् ज्येष्ठस्य"
 
 +++
-भ्रातुर् ज्येष्ठस्य भार्या या  
-गुरुपत्न्य् अनुजस्य सा ।  
-यवीयसस् तु या भार्या  
-स्नुषा ज्येष्ठस्य सा स्मृता  ॥ ९.५७ ॥
+057	The wife of an elder brother is for his younger (brother) the wife of a Guru; but the wife of the younger is declared (to be) the daughter-in-law of the elder.

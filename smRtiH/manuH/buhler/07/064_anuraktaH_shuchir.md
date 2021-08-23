@@ -2,7 +2,4 @@
 title = "064 अनुरक्तः शुचिर्"
 
 +++
-अनुरक्तः शुचिर् दक्षः  
-स्मृतिमान् देश-कालवित् ।  
-वपुष्मान् वीतभीर् वाग्मी  
-दूतो राज्ञः प्रशस्यते  ॥ ७.६४ ॥
+064	(Such) an ambassador is commended to a king (who is) loyal, honest, skilful, possessing a good memory, who knows the (proper) place and time (for action, who is) handsome, fearless, and eloquent.

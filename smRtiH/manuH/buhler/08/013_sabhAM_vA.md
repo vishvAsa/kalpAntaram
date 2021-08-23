@@ -2,7 +2,4 @@
 title = "013 सभां वा"
 
 +++
-सभां वा न प्रवेष्टव्यं  
-वक्तव्यं वा समञ्जसम् [मेधातिथिपाठः - सभा वा न प्रवेष्टव्या] ।  
-अब्रुवन् विब्रुवन् वापि  
-नरो भवति किल्बिषी  ॥ ८.१३ ॥
+013	Either the court must not be entered, or the truth must be spoken; a man who either says nothing or speaks falsely, becomes sinful.

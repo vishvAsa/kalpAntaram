@@ -2,7 +2,4 @@
 title = "027 तं राजा"
 
 +++
-तं राजा प्रणयन् सम्यक्  
-त्रिवर्गेणाऽभिवर्धते ।  
-कामात्मा विषमः क्षुद्रो  
-दण्डेनैव निहन्यते [मेधातिथिपाठः - कामान्धो]  ॥ ७.२७ ॥
+027	A king who properly inflicts (punishment), prospers with respect to (those) three (means of happiness); but he who is voluptuous, partial, and deceitful will be destroyed, even through the (unjust) punishment (which he inflicts).

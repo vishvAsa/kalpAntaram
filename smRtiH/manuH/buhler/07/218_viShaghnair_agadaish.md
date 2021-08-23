@@ -2,7 +2,4 @@
 title = "218 विषघ्नैर् अगदैश्"
 
 +++
-विषघ्नैर् अगदैश् चाऽस्य  
-सर्वद्रव्याणि योजयेत् [मेधातिथिपाठः - विषघ्नैर् उदकैश् चाऽस्य सर्वद्रव्याणि शोधयेत्] ।  
-विषघ्नानि च रत्नानि  
-नियतो धारयेत् सदा  ॥ ७.२१८ ॥ [२२२ मेधातिथिपाठे]
+218	Let him mix all his food with medicines (that are) antidotes against poison, and let him always be careful to wear gems which destroy poison.

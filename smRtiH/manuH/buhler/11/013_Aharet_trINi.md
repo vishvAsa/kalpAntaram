@@ -2,7 +2,4 @@
 title = "013 आहरेत् त्रीणि"
 
 +++
-आहरेत् त्रीणि वा द्वे वा  
-कामं शूद्रस्य वेश्मनः ।  
-न हि शूद्रस्य यज्ञेषु  
-कश् चिद् अस्ति परिग्रहः  ॥ ११.१३ ॥ [१२ मेधातिथिपाठे]
+013	(Or) the (sacrificer) may take at his pleasure two or three (articles required for a sacrifice) from the house of a Sudra; for a Sudra has no business with sacrifices.

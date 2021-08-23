@@ -2,8 +2,4 @@
 title = "115 पांसुवर्षे दिशाम्"
 
 +++
-
-पांसुवर्षे दिशां दाहे  
-गोमायु-विरुते तथा ।  
-श्व-खरोष्ट्रे च रुवति  
-+++(श्वपद)+++पङ्क्तौ च न पठेद् द्विजः  ॥ ४.११५ ॥  
+115	A Brahmana shall not recite (the Veda) during a dust-storm, nor while the sky is preternaturally red, nor while jackals howl, nor while the barking of dogs, the braying of donkeys, or the grunting of camels (is heard), nor while (he is seated) in a company.

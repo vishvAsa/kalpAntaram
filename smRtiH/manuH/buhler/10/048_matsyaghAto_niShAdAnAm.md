@@ -2,7 +2,4 @@
 title = "048 मत्स्यघातो निषादानाम्"
 
 +++
-मत्स्यघातो निषादानां  
-त्वष्टिस् त्व् आयोगवस्य च ।  
-मेदान्ध्र-चुञ्चु-मद्गूनाम्  
-आरण्यपशुहिंसनम्  ॥ १०.४८ ॥
+048	Killing fish to Nishadas; carpenters' work to the Ayogava; to Medas, Andhras, Kunkus, and Madgus, the slaughter of wild animals;

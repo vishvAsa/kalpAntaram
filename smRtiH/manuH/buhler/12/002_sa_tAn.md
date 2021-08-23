@@ -2,8 +2,4 @@
 title = "002 स तान्"
 
 +++
-
-स तान् उवाच धर्मात्मा  
-महर्षीन् मानवो भृगुः ।  
-अस्य सर्वस्य शृणुत  
-कर्मयोगस्य निर्णयम्  ॥ १२.२ ॥
+002	To the great sages (who addressed him thus) righteous Bhrigu, sprung from Manu, answered, 'Hear the decision concerning this whole connexion with actions.'

@@ -2,8 +2,4 @@
 title = "049 तिरस्कृत्योच्चरेत् काष्ठ-"
 
 +++
-
-+++(भूमिं)+++ तिरस्कृत्योच्चरेत् +++(मूत्रेण)+++ काष्ठ-  
-लोष्ठ-पत्र-तृणादिना [मेधातिथिपाठः - तृणादि च] ।  
-नियम्य प्रयतो वाचं  
-संवीताङ्गो ऽवगुण्ठितः  ॥ ४.४९ ॥ [५० मेधातिथिपाठे]  
+049	He may ease himself, having covered (the ground) with sticks, clods, leaves, grass, and the like, restraining his speech, (keeping himself) pure, wrapping up his body, and covering his head.

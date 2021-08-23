@@ -2,7 +2,4 @@
 title = "298 चारेणोत्साहयोगेन क्रिययैव"
 
 +++
-चारेणोत्साहयोगेन  
-क्रिययैव च कर्मणाम् ।  
-स्वशक्तिं परशक्तिं च  
-नित्यं विद्यान् महीपतिः [मेधातिथिपाठः - विद्यात् परात्मनोः]  ॥ ९.२९८ ॥
+298	By spies, by a (pretended) display of energy, and by carrying out (various) undertakings, let the king constantly ascertain his own and his enemy's strength;

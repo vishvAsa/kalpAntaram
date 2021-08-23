@@ -2,8 +2,4 @@
 title = "036 येनाऽस्मिन् कर्मना"
 
 +++
-
-येनाऽस्मिन् कर्मना लोके  
-ख्यातिम् इच्छति पुष्कलाम् ।  
-न च शोचत्य् असंपत्तौ  
-तद् विज्ञेयं तु राजसम्  ॥ १२.३६ ॥
+036	But, when (a man) desires (to gain) by an act much fame in this world and feels no sorrow on failing, know that it (bears the mark of the quality of) Activity.

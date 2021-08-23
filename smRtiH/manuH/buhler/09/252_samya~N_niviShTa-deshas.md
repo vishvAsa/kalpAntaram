@@ -2,7 +2,4 @@
 title = "252 सम्यङ् निविष्ट-देशस्"
 
 +++
-सम्यङ् निविष्ट-देशस् तु  
-कृत-दुर्गश् च शास्त्रतः ।  
-कण्टकोद्धरणे नित्यम्  
-आतिष्ठेद् यत्नम् उत्तमम्  ॥ ९.२५२ ॥
+252	Having duly settled his country, and having built forts in accordance with the Institutes, he shall use his utmost exertions to remove (those men who are nocuous like) thorns.

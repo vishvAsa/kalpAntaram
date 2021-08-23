@@ -2,8 +2,4 @@
 title = "140 नाऽतिकल्यन् नाऽतिसायम्"
 
 +++
-
-नाऽतिकल्यं+++(=अतिप्रातः)+++ नाऽतिसायं  
-नाऽतिमध्यन्दिने स्थिते ।  
-नाऽज्ञातेन समं गच्छेन्  
-नैको न वृषलैः सह  ॥ ४.१४० ॥+++(4)+++  
+140	Let him not journey too early in the morning, nor too late in the evening, nor just during the midday (heat), nor with an unknown (companion), nor alone, nor with Sudras.

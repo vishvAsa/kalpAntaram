@@ -2,8 +2,4 @@
 title = "033 तपस् तप्त्वासृजद्"
 
 +++
-
-तपस् तप्त्वासृजद् यं तु  
-स स्वयं पुरुषो विराट् ।  
-तं मां वित्ताऽस्य सर्वस्य  
-स्रष्टारं द्विजसत्तमाः  ॥ १.३३ ॥
+033	But know me, O most holy among the twice-born, to be the creator of this whole (world), whom that male, Virag, himself produced, having performed austerities.

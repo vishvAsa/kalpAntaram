@@ -2,7 +2,4 @@
 title = "074 एकः शतम्"
 
 +++
-एकः शतं योधयति  
-प्राकारस्थो धनुर्धरः ।  
-शतं दशसहस्राणि  
-तस्माद् दुर्गं विधीयते  ॥ ७.७४ ॥
+074	One bowman, placed on a rampart, is a match in battle for one hundred (foes), one hundred for ten thousand; hence it is prescribed (in the Sastras that a king will posses) a fortress.

@@ -2,7 +2,4 @@
 title = "252 एनसां स्थूल-सूक्ष्माणाम्"
 
 +++
-एनसां स्थूल-सूक्ष्माणां  
-चिकीर्षन्न् अपनोदनम् ।  
-अवेत्य् ऋचं जपेद् अब्दं  
-यत् किं चेदम् इतीति वा  ॥ ११.२५२ ॥ [२५१ मेधातिथिपाठे]
+253	He who desires to expiate sins great or small, must mutter during a year the Rit-verse 'May we remove thy anger, O Varuna,' &c., or 'Whatever offence here, O Varuna,' &c.

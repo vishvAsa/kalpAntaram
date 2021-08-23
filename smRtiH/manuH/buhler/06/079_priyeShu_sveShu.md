@@ -2,7 +2,4 @@
 title = "079 प्रियेषु स्वेषु"
 
 +++
-प्रियेषु स्वेषु सुकृतम्  
-अप्रियेषु च दुष्कृतम् ।  
-विसृज्य ध्यानयोगेन  
-ब्रह्माऽभ्येति सनातनम्  ॥ ६.७९ ॥
+079	Making over (the merit of his own) good actions to his friends and (the guilt of) his evil deeds to his enemies, he attains the eternal Brahman by the practice of meditation.

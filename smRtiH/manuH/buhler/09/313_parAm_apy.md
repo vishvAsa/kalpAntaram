@@ -2,7 +2,4 @@
 title = "313 पराम् अप्य्"
 
 +++
-पराम् अप्य् आपदं प्राप्तो  
-ब्राह्मणान् न प्रकोपयेत् ।  
-ते ह्य् एनं कुपिता हन्युः  
-सद्यः स-बल-वाहनम्  ॥ ९.३१३ ॥
+313	Let him not, though fallen into the deepest distress, provoke Brahmanas to anger; for they, when angered, could instantly destroy him together with his army and his vehicles.

@@ -2,7 +2,4 @@
 title = "058 अभियोक्ता न"
 
 +++
-अभियोक्ता न चेद् ब्रूयाद्  
-बध्यो दण्ड्यश् च धर्मतः [मेधातिथिपाठः - बन्ध्यो दण्ड्यश् च] ।  
-न चेत् त्रिपक्षात् प्रब्रूयाद्  
-धर्मं प्रति पराजितः  ॥ ८.५८ ॥
+058	If a plaintiff does not speak, he may be punished corporally or fined according to the law; if (a defendant) does not plead within three fortnights, he has lost his cause.

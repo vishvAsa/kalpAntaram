@@ -2,7 +2,4 @@
 title = "124 ये कार्यिकेभ्यो"
 
 +++
-ये कार्यिकेभ्यो ऽर्थम् एव  
-गृह्णीयुः पापचेतसः ।  
-तेषां सर्वस्वम् आदाय  
-राजा कुर्यात् प्रवासनम्  ॥ ७.१२४ ॥ [१२५ मेधातिथिपाठे]
+124	Let the king confiscate the whole property of those (officials) who, evil-minded, may take money from suitors, and banish them.

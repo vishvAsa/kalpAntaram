@@ -2,7 +2,4 @@
 title = "273 यश् चाऽपि"
 
 +++
-यश् चाऽपि धर्मसमयात्  
-प्रच्युतो धर्म-जीवनः ।  
-दण्डेनैव तम् अप्य् ओषेत्  
-स्वकाद् धर्माद् +धि विच्युतम्  ॥ ९.२७३ ॥
+273	Moreover if (a man), who subsists by (the fulfilment of) the law, departs from the established rule of the law, the (king) shall severely punish him by a fine, (because he) violated his duty.

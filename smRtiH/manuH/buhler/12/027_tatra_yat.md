@@ -2,8 +2,4 @@
 title = "027 तत्र यत्"
 
 +++
-
-तत्र यत् प्रीतिसंयुक्तं  
-किं चिद् आत्मनि लक्षयेत् ।  
-प्रशान्तम् इव शुद्धाभं  
-सत्त्वं तद् उपधारयेत्  ॥ १२.२७ ॥
+027	When (man) experiences in his soul a (feeling) full of bliss, a deep calm, as it were, and a pure light, then let him know (that it is) among those three (the quality called) Goodness.

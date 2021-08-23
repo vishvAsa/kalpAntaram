@@ -2,8 +2,4 @@
 title = "006 सत्यानृतन् तु"
 
 +++
-
-सत्यानृतं तु वाणिज्यं  
-तेन चैवाऽपि जीव्यते ।  
-सेवा श्ववृत्तिर् आख्याता  
-तस्मात् तां परिवर्जयेत्  ॥ ४.६ ॥  
+006	But trade and (money-lending) are Satyanrita, even by that one may subsist. Service is called Svavritti; therefore one should avoid it.

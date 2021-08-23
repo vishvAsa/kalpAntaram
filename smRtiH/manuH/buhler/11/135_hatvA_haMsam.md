@@ -2,7 +2,4 @@
 title = "135 हत्वा हंसम्"
 
 +++
-हत्वा हंसं बलाकां च  
-बकं बर्हिणम् एव च ।  
-वानरं श्येन-भासौ च  
-स्पर्शयेद् ब्राह्मणाय गाम्  ॥ ११.१३५ ॥ [१३४ मेधातिथिपाठे]
+136	If he has killed a Hamsa, a Balaka, a heron, a peacock, a monkey, a falcon, or a Bhasa, he shall give a cow to a Brahmana.

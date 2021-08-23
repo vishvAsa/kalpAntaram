@@ -2,7 +2,4 @@
 title = "156 सम-वर्णासु वा"
 
 +++
-सम-वर्णासु वा जाताः  
-सर्वे पुत्रा द्विजन्मनाम् ।  
-उद्धारं ज्यायसे दत्त्वा  
-भजेरन्न् इतरे समम्  ॥ ९.१५६ ॥
+156	All the sons of twice-born men, born of wives of the same caste, shall equally divide the estate, after the others have given to the eldest an additional share.

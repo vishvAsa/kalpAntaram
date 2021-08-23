@@ -2,8 +2,4 @@
 title = "078 एतद् अक्षरम्"
 
 +++
-
-एतद् अक्षरम् एतां च  
-जपन् व्याहृति-पूर्विकाम् ।  
-सन्ध्ययोर् वेदविद् विप्रो  
-वेदपुण्येन युज्यते  ॥ २.७८ ॥
+078	A Brahmana, learned in the Veda, who recites during both twilights that syllable and that (verse), preceded by the Vyahritis, gains the (whole) merit which (the recitation of) the Vedas confers.

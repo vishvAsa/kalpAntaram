@@ -2,8 +2,4 @@
 title = "126 यो न"
 
 +++
-
-यो न वेत्त्य् अभिवादस्य  
-विप्रः प्रत्यभिवादनम् ।  
-नाऽभिवाद्यः स विदुषा  
-यथा शूद्रस् तथैव सः  ॥ २.१२६ ॥
+126	A Brahmana who does not know the form of returning a salutation, must not be saluted by a learned man; as a Sudra, even so is he.

@@ -2,7 +2,4 @@
 title = "129 ददौ स"
 
 +++
-ददौ स दश धर्माय  
-कश्यपाय त्रयोदश ।  
-सोमाय राज्ञे सत्कृत्य  
-प्रीतात्मा सप्तविंशतिम्  ॥ ९.१२९ ॥
+129	He gave ten to Dharma, thirteen to Kasyapa, twenty-seven to King Soma, honouring (them) with an affectionate heart.

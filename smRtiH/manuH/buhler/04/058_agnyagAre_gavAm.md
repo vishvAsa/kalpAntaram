@@ -2,8 +2,4 @@
 title = "058 अग्न्यगारे गवाम्"
 
 +++
-
-अग्न्यगारे गवां गोष्ठे  
-ब्राह्मणानां च सन्निधौ ।  
-स्वाध्याये भोजने चैव  
-दक्षिणं पाणिम् उद्धरेत्  ॥ ४.५८ ॥  
+058	Let him keep his right arm uncovered in a place where a sacred fire is kept, in a cow-pen, in the presence of Brahmanas, during the private recitation of the Veda, and at meals.

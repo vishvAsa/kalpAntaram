@@ -2,7 +2,4 @@
 title = "050 न चोत्पात-निमित्ताभ्याम्"
 
 +++
-न चोत्पात-निमित्ताभ्यां  
-न नक्षत्राङ्गविद्यया ।  
-नाऽनुशासन-वादाभ्यां  
-भिक्षां लिप्सेत कर्हि चित्  ॥ ६.५० ॥
+050	Neither by (explaining) prodigies and omens, nor by skill in astrology and palmistry, nor by giving advice and by the exposition (of the Sastras), let him ever seek to obtain alms.

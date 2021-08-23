@@ -2,7 +2,4 @@
 title = "259 असम्यक्कारिणश् चैव"
 
 +++
-असम्यक्कारिणश् चैव  
-महामात्राश् चिकित्सकाः ।  
-शिल्पोपचारयुक्ताश् च  
-निपुणाः पण्ययोषितः  ॥ ९.२५९ ॥
+259	Officials of high rank and physicians who act improperly, men living by showing their proficiency in arts, and clever harlots,

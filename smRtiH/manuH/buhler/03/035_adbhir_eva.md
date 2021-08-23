@@ -2,7 +2,4 @@
 title = "035 अद्भिर् एव"
 
 +++
-अद्भिर् एव द्विजाग्र्याणां  
-कन्यादानं विशिष्यते ।  
-इतरेषां तु वर्णानाम्  
-इतरेतरकाम्यया  ॥ ३.३५ ॥
+035	The gift of daughters among Brahmanas is most approved, (if it is preceded) by (a libation of) water; but in the case of other castes (it may be performed) by (the expression of) mutual consent.

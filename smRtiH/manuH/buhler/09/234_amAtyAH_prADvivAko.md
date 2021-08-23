@@ -2,7 +2,4 @@
 title = "234 अमात्याः प्राड्विवाको"
 
 +++
-अमात्याः प्राड्विवाको वा  
-यत् कुर्युः कार्यम् अन्यथा ।  
-तत् स्वयं नृपतिः कुर्यात्  
-तान् सहस्रं च दण्डयेत् [मेधातिथिपाठः - तं]  ॥ ९.२३४ ॥
+234	Whatever matter his ministers or the judge may settle improperly, that the king himself shall (re-) settle and fine (them) one thousand (panas).

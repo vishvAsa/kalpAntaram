@@ -2,7 +2,4 @@
 title = "099 एतत् तु"
 
 +++
-एतत् तु न परे चक्रुर्  
-नाऽपरे जातु साधवः ।  
-यद् अन्यस्य प्रतिज्ञाय  
-पुनर् अन्यस्य दीयते  ॥ ९.९९ ॥
+099	Neither ancients nor moderns who were good men have done such (a deed) that, after promising (a daughter) to one man, they have her to another;

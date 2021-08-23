@@ -2,8 +2,4 @@
 title = "026 कर्मणाञ् च"
 
 +++
-
-कर्मणां च विवेकार्थं  
-धर्माधर्मौ व्यवेचयत् [क्:विवेकाय] ।  
-द्वन्द्वैर् अयोजयच् चेमाः  
-सुख-दुःखादिभिः प्रजाः  ॥ १.२६ ॥
+026	Moreover, in order to distinguish actions, he separated merit from demerit, and he caused the creatures to be affected by the pairs (of opposites), such as pain and pleasure.

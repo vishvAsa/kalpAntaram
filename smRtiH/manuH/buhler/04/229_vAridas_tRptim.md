@@ -2,8 +2,4 @@
 title = "229 वारिदस् तृप्तिम्"
 
 +++
-
-वारिदस् तृप्तिम् आप्नोति  
-सुखम् अक्षय्यम् अन्नदः [मेधातिथिपाठः - अक्षयम्] ।  
-तिलप्रदः प्रजाम् इष्टां  
-दीपदश् चक्षुर् उत्तमम्  ॥ ४.२२९ ॥ [२३० मेधातिथिपाठे]  
+229	A giver of water obtains the satisfaction (of his hunger and thirst), a giver of food imperishable happiness, a giver of sesamum desirable offspring, a giver of a lamp a most excellent eyesight.

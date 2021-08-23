@@ -2,7 +2,4 @@
 title = "130 वधेनाऽपि यदा"
 
 +++
-वधेनाऽपि यदा त्व् एतान्  
-निग्रहीतुं न शक्नुयात् ।  
-तदैषु सर्वम् अप्य् एतत्  
-प्रयुञ्जीत चतुष्टयम्  ॥ ८.१३० ॥
+130	But when he cannot restrain such (offenders) even by corporal punishment, then let him apply to them even all the four (modes cojointly).

@@ -2,7 +2,4 @@
 title = "052 अपह्नवे ऽधमर्णस्य"
 
 +++
-अपह्नवे ऽधमर्णस्य  
-देहीत्य् उक्तस्य संसदि ।  
-अभियोक्ता दिशेद् देश्यं  
-करणं वान्यद् उद्दिशेत्  ॥ ८.५२ ॥
+052	On the denial (of a debt) by a debtor who has been required in court to pay it, the complainant must call (a witness) who was present (when the loan was made), or adduce other evidence.

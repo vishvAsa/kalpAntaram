@@ -2,7 +2,4 @@
 title = "200 त्रयाणाम् अप्य्"
 
 +++
-त्रयाणाम् अप्य् उपायानां  
-पूर्वोक्तानाम् असम्भवे ।  
-तथा युध्येत सम्पन्नो  
-विजयेत रिपून् यथा  ॥ ७.२०० ॥ [२०१ मेधातिथिपाठे]
+200	(But) if even those three before-mentioned expedients fail, then let him, duly exerting himself, fight in such a manner that he may completely conquer his enemies.

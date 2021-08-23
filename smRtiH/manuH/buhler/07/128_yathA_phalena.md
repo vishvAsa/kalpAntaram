@@ -2,7 +2,4 @@
 title = "128 यथा फलेन"
 
 +++
-यथा फलेन युज्येत  
-राजा कर्ता च कर्मणाम् ।  
-तथावेक्ष्य नृपो राष्ट्रे  
-कल्पयेत् सततं करान्  ॥ ७.१२८ ॥ [१२९ मेधातिथिपाठे]
+128	After (due) consideration the king shall always fix in his realm the duties and taxes in such a manner that both he himself and the man who does the work receive (their due) reward.

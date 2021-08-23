@@ -2,7 +2,4 @@
 title = "108 मृत्-तोयैः शुध्यते"
 
 +++
-मृत्-तोयैः शुध्यते शोध्यं  
-नदी वेगेन शुध्यति ।  
-रजसा स्त्री मनोदुष्टा  
-सन्न्यासेन द्विजोत्तमाः  ॥ ५.१०८ ॥ [१०७ मेधातिथिपाठे]
+108	By earth and water is purified what ought to be made pure, a river by its current, a woman whose thoughts have been impure by the menstrual secretion, a Brahmana by abandoning the world (samnyasa).

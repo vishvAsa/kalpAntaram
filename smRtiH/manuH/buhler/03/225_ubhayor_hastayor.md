@@ -2,7 +2,4 @@
 title = "225 उभयोर् हस्तयोर्"
 
 +++
-उभयोर् हस्तयोर् मुक्तं  
-यद् अन्नम् उपनीयते ।  
-तद् विप्रलुम्पन्त्य् असुराः  
-सहसा दुष्ट-चेतसः  ॥ ३.२२५ ॥ [२१५ मेधातिथिपाठे]
+225	The malevolent Asuras forcibly snatch away that food which is brought without being held with both hands.

@@ -2,7 +2,4 @@
 title = "081 अजीवंस् तु"
 
 +++
-अजीवंस् तु यथोक्तेन  
-ब्राह्मणः स्वेन कर्मणा ।  
-जीवेत् क्षत्रियधर्मेण  
-स ह्य् अस्य प्रत्य् अनन्तरः  ॥ १०.८१ ॥
+081	But a Brahmana, unable to subsist by his peculiar occupations just mentioned, may live according to the law applicable to Kshatriyas; for the latter is next to him in rank.

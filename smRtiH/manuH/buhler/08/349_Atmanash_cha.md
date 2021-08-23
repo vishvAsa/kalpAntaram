@@ -2,7 +2,4 @@
 title = "349 आत्मनश् च"
 
 +++
-आत्मनश् च परित्राणे  
-दक्षिणानां च संगरे ।  
-स्त्री-विप्राभ्युपपत्तौ च  
-घ्नन् धर्मेण न दुष्यति  ॥ ८.३४९ ॥
+349	In their own defence, in a strife for the fees of officiating priests, and in order to protect women and Brahmanas; he who (under such circumstances) kills in the cause of right, commits no sin.

@@ -2,7 +2,4 @@
 title = "116 ग्रामदोषान् समुत्पन्नान्"
 
 +++
-ग्रामदोषान् समुत्पन्नान्  
-ग्रामिकः शनकैः स्वयम् ।  
-शंसेद् ग्रामदशेशाय  
-दशेशो विंशतीशिने  ॥ ७.११६ ॥ [११७ मेधातिथिपाठे]
+116	The lord of one village himself shall inform the lord of ten villages of the crimes committed in his village, and the ruler of ten (shall make his report) to the ruler of twenty.

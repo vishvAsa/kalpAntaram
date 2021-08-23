@@ -2,7 +2,4 @@
 title = "080 मद्यपासाधुवृत्ता च"
 
 +++
-मद्यपासाधुवृत्ता च  
-प्रतिकूला च या भवेत् [मेधातिथिपाठः - मद्यपासत्यवृत्ता] ।  
-व्याधिता वाधिवेत्तव्या  
-हिंस्रार्थघ्नी च सर्वदा  ॥ ९.८० ॥
+080	She who drinks spirituous liquor, is of bad conduct, rebellious, diseased, mischievous, or wasteful, may at any time be superseded (by another wife).

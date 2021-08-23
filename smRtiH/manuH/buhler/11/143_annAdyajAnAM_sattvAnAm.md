@@ -2,7 +2,4 @@
 title = "143 अन्नाद्यजानां सत्त्वानाम्"
 
 +++
-अन्नाद्यजानां सत्त्वानां  
-रसजानां च सर्वशः ।  
-फल-पुष्पोद्भवानां च  
-घृतप्राशो विशोधनम्  ॥ ११.१४३ ॥ [१४२ मेधातिथिपाठे]
+144	(For destroying) any kind of creature, bred in food, in condiments, in fruit, or in flowers, the expiation is to eat clarified butter.

@@ -2,7 +2,4 @@
 title = "222 क्रीत्वा विक्रीय"
 
 +++
-क्रीत्वा विक्रीय वा किं चिद्  
-यस्येहानुशयो भवेत् ।  
-सो ऽन्तर् दशाहात् तद् द्रव्यं  
-दद्याच् चैवाददीत वा  ॥ ८.२२२ ॥
+222	If anybody in this (world), after buying or selling anything, repent (of his bargain), he may return or take (back) that chattel within ten days.

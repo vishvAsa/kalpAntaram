@@ -2,7 +2,4 @@
 title = "198 शरणागतम् परित्यज्य"
 
 +++
-शरणागतं परित्यज्य  
-वेदं विप्लाव्य च द्विजः ।  
-संवत्सरं यवाहारस्  
-तत् पापम् अपसेधति  ॥ ११.१९८ ॥ [१९७ मेधातिथिपाठे]
+199	A twice-born man who has cast off a suppliant for protection, or has (improperly) divulged the Veda, atones for his offence, if he subsists during a year on barley.

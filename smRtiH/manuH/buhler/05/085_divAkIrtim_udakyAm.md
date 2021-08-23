@@ -2,7 +2,4 @@
 title = "085 दिवाकीर्तिम् उदक्याम्"
 
 +++
-दिवाकीर्तिम् उदक्यां च  
-पतितं सूतिकां तथा ।  
-शवं तत्स्पृष्टिनं चैव  
-स्पृष्ट्वा स्नानेन शुध्यति  ॥ ५.८५ ॥ [८४ मेधातिथिपाठे]
+085	When he has touched a Kandala, a menstruating woman, an outcast, a woman in childbed, a corpse, or one who has touched a (corpse), he becomes pure by bathing.

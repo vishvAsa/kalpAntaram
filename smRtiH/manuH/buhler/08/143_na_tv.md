@@ -2,7 +2,4 @@
 title = "143 न त्व्"
 
 +++
-न त्व् एवाधौ सोपकारे  
-कौसीदीं वृद्धिम् आप्नुयात् ।  
-न चाधेः कालसंरोधान्  
-निसर्गो ऽस्ति न विक्रयः  ॥ ८.१४३ ॥
+143	But if a beneficial pledge (i.e. one from which profit accrues, has been given), he shall receive no interest on the loan; nor can he, after keeping (such) a pledge for a very long time, give or sell it.

@@ -2,7 +2,4 @@
 title = "369 कन्यैव कन्याम्"
 
 +++
-कन्यैव कन्यां या कुर्यात्  
-तस्याः स्याद् द्विशतो दमः ।  
-शुल्कं च द्विगुणं दद्याच्  
-छिफाश् चैवाप्नुयाद् दश  ॥ ८.३६९ ॥
+369	A damsel who pollutes (another) damsel must be fined two hundred (panas), pay the double of her (nuptial) fee, and receive ten (lashes with a) rod.

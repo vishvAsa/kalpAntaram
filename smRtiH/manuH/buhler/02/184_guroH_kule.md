@@ -2,8 +2,4 @@
 title = "184 गुरोः कुले"
 
 +++
-
-गुरोः कुले न भिक्षेत  
-न ज्ञाति-कुल-बन्धुषु ।  
-अलाभे त्व् अन्यगेहानां  
-पूर्वं पूर्वं विवर्जयेत्  ॥ २.१८४ ॥
+184	Let him not beg from the relatives of his teacher, nor from his own or his mother's blood-relations; but if there are no houses belonging to strangers, let him go to one of those named above, taking the last-named first;

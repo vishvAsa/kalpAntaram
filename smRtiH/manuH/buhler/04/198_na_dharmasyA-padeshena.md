@@ -2,8 +2,4 @@
 title = "198 न धर्मस्याऽपदेशेन"
 
 +++
-
-न धर्मस्याऽपदेशेन  
-पापं कृत्वा व्रतं चरेत् ।  
-व्रतेन पापं प्रच्छाद्य  
-कुर्वन् स्त्री-शूद्र-दम्भनम्  ॥ ४.१९८ ॥ [१९९ मेधातिथिपाठे]+++(5)+++  
+198	When he has committed a sin, let him not perform a penance under the pretence (that the act is intended to gain) spiritual merit, (thus) hiding his sin under (the pretext of) a vow and deceiving women and Sudras.

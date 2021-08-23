@@ -2,8 +2,4 @@
 title = "101 स्वम् एव"
 
 +++
-
-स्वम् एव ब्राह्मणो भुङ्क्ते  
-स्वं वस्ते स्वं ददाति च ।  
-आनृशंस्याद् ब्राह्मणस्य  
-भुञ्जते हीतरे जनाः  ॥ १.१०१ ॥
+101	The Brahmana eats but his own food, wears but his own apparel, bestows but his own in alms; other mortals subsist through the benevolence of the Brahmana.

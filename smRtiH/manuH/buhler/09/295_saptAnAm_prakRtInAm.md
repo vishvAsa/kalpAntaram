@@ -2,7 +2,4 @@
 title = "295 सप्तानाम् प्रकृतीनाम्"
 
 +++
-सप्तानां प्रकृतीनां तु  
-राज्यस्यासां यथाक्रमम् ।  
-पूर्वं पूर्वं गुरुतरं  
-जानीयाद् व्यसनं महत्  ॥ ९.२९५ ॥
+295	But let him know (that) among these seven constituent parts of a kingdom (which have been enumerated) in due order, each earlier (named) is more important and (its destruction) the greater calamity.

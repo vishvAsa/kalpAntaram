@@ -2,7 +2,4 @@
 title = "209 अनुक्तनिष्कृतीनान् तु"
 
 +++
-अनुक्तनिष्कृतीनां तु  
-पापानाम् अपनुत्तये ।  
-शक्तिं चाऽवेक्ष्य पापं च  
-प्रायश्चित्तं प्रकल्पयेत्  ॥ ११.२०९ ॥ [२०८ मेधातिथिपाठे]
+210	For the expiation of offences for which no atonement has been prescribed, let him fix a penance after considering (the offender's) strength and the (nature of the) offence.

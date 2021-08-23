@@ -2,8 +2,4 @@
 title = "028 नवेनाऽनर्चिता ह्य्"
 
 +++
-
-नवेनाऽनर्चिता ह्य् अस्य  
-पशुहव्येन चाऽग्नयः ।  
-प्राणान् एवाऽत्तुम् इच्छन्ति  
-नवान्नामिषगर्धिनः  ॥ ४.२८ ॥+++(4)+++  
+028	For his fires, not being worshipped by offerings of new grain and of an animal, seek to devour his vital spirits, (because they are) greedy for new grain and flesh.

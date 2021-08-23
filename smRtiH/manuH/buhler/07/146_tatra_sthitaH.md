@@ -2,7 +2,4 @@
 title = "146 तत्र स्थितः"
 
 +++
-तत्र स्थितः प्रजाः सर्वाः  
-प्रतिनन्द्य विसर्जयेत् ।  
-विसृज्य च प्रजाः सर्वा  
-मन्त्रयेत् सह मन्त्रिभिः  ॥ ७.१४६ ॥ [१४७ मेधातिथिपाठे]
+146	Tarrying there, he shall gratify all subjects (who come to see him by a kind reception) and afterwards dismiss them; having dismissed his subjects, he shall take counsel with his ministers.

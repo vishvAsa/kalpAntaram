@@ -2,7 +2,4 @@
 title = "017 एक एव"
 
 +++
-एक एव सुहृद् धर्मो  
-निधाने ऽप्य् अनुयाति यः ।  
-शरीरेण समं नाशं  
-सर्वम् अन्यद् +धि गच्छति  ॥ ८.१७ ॥
+017	The only friend who follows men even after death is justice; for everything else is lost at the same time when the body (perishes).

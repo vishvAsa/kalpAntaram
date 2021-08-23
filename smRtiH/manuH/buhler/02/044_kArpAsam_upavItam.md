@@ -2,8 +2,4 @@
 title = "044 कार्पासम् उपवीतम्"
 
 +++
-
-कार्पासम् उपवीतं स्याद्  
-विप्रस्योर्ध्ववृतं त्रिवृत् ।  
-शण-सूत्रमयं राज्ञो  
-वैश्यस्याविकसौत्रिकम्  ॥ २.४४ ॥
+044	The sacrificial string of a Brahmana shall be made of cotton, (shall be) twisted to the right, (and consist) of three threads, that of a Kshatriya of hempen threads, (and) that of a Vaisya of woollen threads.

@@ -2,8 +2,4 @@
 title = "249 नाऽश्नन्ति पितरस्"
 
 +++
-
-नाऽश्नन्ति पितरस् तस्य  
-दशवर्षाणि पञ्च च ।  
-न च हव्यं वहत्य् अग्निर्  
-यस् ताम् अभ्यवमन्यते  ॥ ४.२४९ ॥ [२५० मेधातिथिपाठे]  
+249	During fifteen years the manes do not eat (the food) of that man who disdains a (freely-offered gift), nor does the fire carry his offerings (to the gods).

@@ -2,7 +2,4 @@
 title = "082 आवृत्तानाङ् गुरुकुलाद्"
 
 +++
-आवृत्तानां गुरुकुलाद्  
-विप्राणां पूजको भवेत् ।  
-नृपाणाम् अक्षयो ह्य् एष  
-निधिर् ब्राह्मो ऽभिधीयते  ॥ ७.८२ ॥
+082	Let him honour those Brahmanas who have returned from their teacher's house (after studying the Veda); for that (money which is given) to Brahmanas is declared to be an imperishable treasure for kings.

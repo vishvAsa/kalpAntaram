@@ -2,8 +2,4 @@
 title = "216 श्व-वतां शौण्डिकानाम्"
 
 +++
-
-श्व-वतां शौण्डिकानां च  
-चैल+++(=वस्त्र)+++-निर्णेजकस्य च ।  
-रञ्जकस्य नृशंसस्य  
-यस्य चोपपतिर् गृहे [मेधातिथिपाठः - रजकस्य]  ॥ ४.२१६ ॥ [२१७ मेधातिथिपाठे]  
+216	By trainers of hunting dogs, publicans, a washerman, a dyer, a pitiless (man), and a man in whose house (lives) a paramour (of his wife),

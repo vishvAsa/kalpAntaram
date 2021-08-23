@@ -2,8 +2,4 @@
 title = "211 अभिशस्तस्य षण्ढस्य"
 
 +++
-
-+++(दोषीत्य्)+++ अभिशस्तस्य षण्ढस्य  
-पुंश्चल्या दाम्भिकस्य च ।  
-शुक्तं+++(=आम्लीकृतम्)+++ पर्युषितं चैव  
-शूद्रस्योच्छिष्टम् एव च  ॥ ४.२११ ॥ [२१२ मेधातिथिपाठे]  
+211	By one accused of a mortal sin (Abhisasta), a hermaphrodite, an unchaste woman, or a hypocrite, nor (any sweet thing) that has turned sour, nor what has been kept a whole night, nor (the food) of a Sudra, nor the leavings (of another man),

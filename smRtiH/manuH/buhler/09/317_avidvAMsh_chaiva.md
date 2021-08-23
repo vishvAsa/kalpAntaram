@@ -2,7 +2,4 @@
 title = "317 अविद्वांश् चैव"
 
 +++
-अविद्वांश् चैव विद्वांश् च  
-ब्राह्मणो दैवतं महत् ।  
-प्रणीतश् चाऽप्रणीतश् च  
-यथाग्निर् दैवतं महत्  ॥ ९.३१७ ॥
+317	A Brahmana, be he ignorant or learned, is a great divinity, just as the fire, whether carried forth (for the performance of a burnt-oblation) or not carried forth, is a great divinity.

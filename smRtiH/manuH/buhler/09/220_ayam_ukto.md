@@ -2,7 +2,4 @@
 title = "220 अयम् उक्तो"
 
 +++
-अयम् उक्तो विभागो वः  
-पुत्राणां च क्रियाविधिः ।  
-क्रमशः क्षेत्रजादीनां  
-द्यूतधर्मं निबोधत  ॥ ९.२२० ॥
+220	The division (of the property) and the rules for allotting (shares) to the (several) sons, those begotten on a wife and the rest, in (due) order, have been thus declared to you; hear (now) the laws concerning gambling.

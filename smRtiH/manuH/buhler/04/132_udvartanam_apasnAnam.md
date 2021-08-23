@@ -2,8 +2,4 @@
 title = "132 उद्वर्तनम् अपस्नानम्"
 
 +++
-
-उद्वर्तनम्+++(=फेनकचूर्णम्)+++ अपस्नानं  
-विण्-मूत्रे रक्तम् एव च ।  
-श्लेश्म-निष्ठ्यूत-वान्तानि  
-नाऽधितिष्ठेत् तु कामतः  ॥ ४.१३२ ॥  
+132	Let him not step intentionally on things used for cleansing the body, on water used for a bath, on urine or ordure, on blood, on mucus, and on anything spat out or vomited.

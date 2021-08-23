@@ -2,7 +2,4 @@
 title = "110 यथोद्धरति निर्दाता"
 
 +++
-यथोद्धरति निर्दाता  
-कक्षं धान्यं च रक्षति ।  
-तथा रक्षेन् नृपो राष्ट्रं  
-हन्याच् च परिपन्थिनः  ॥ ७.११० ॥ [१११ मेधातिथिपाठे]
+110	As the weeder plucks up the weeds and preserves the corn, even so let the king protect his kingdom and destroy his opponents.

@@ -2,7 +2,4 @@
 title = "288 द्रव्याणि हिंस्याद्"
 
 +++
-द्रव्याणि हिंस्याद् यो यस्य  
-ज्ञानतो ऽज्ञानतो ऽपि वा ।  
-स तस्योत्पादयेत् तुष्टिं  
-राज्ञे दद्याच् च तत्समम्  ॥ ८.२८८ ॥
+288	He who damages the goods of another, be it intentionally or unintentionally, shall give satisfaction to the (owner) and pay to the king a fine equal to the (damage).

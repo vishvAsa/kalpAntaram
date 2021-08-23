@@ -2,7 +2,4 @@
 title = "211 अग्नेः सोम-यमाभ्याम्"
 
 +++
-अग्नेः सोम-यमाभ्यां च  
-कृत्वाप्यायनम् आदितः ।  
-हविर्दानेन विधिवत्  
-पश्चात् सन्तर्पयेत् पितॄन्  ॥ ३.२११ ॥ [२०१ मेधातिथिपाठे]
+211	Having first, according to the rule, performed, as a means of protecting (the Sraddha), oblations to Agni, to Soma, and to Yama, let him afterwards satisfy the manes by a gift of sacrificial food.

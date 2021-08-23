@@ -2,8 +2,4 @@
 title = "098 शब्दः स्पर्शश्"
 
 +++
-
-शब्दः स्पर्शश् च रूपं च  
-रसो गन्धश् च पञ्चमः ।  
-वेदाद् एव प्रसूयन्ते  
-प्रसूतिर् गुण-कर्मतः  ॥ १२.९८ ॥
+098	Sound, touch, colour, taste, and fifthly smell are known through the Veda alone, (their) production (is) through the (Vedic rites, which in this respect are) secondary acts.

@@ -2,8 +2,4 @@
 title = "122 अभिवादात् परम्"
 
 +++
-
-अभिवादात् परं विप्रो  
-ज्यायांसम् अभिवादयन् ।  
-असौ नामाऽहम् अस्मीति  
-स्वं नाम परिकीर्तयेत्  ॥ २.१२२ ॥
+122	After the (word of) salutation, a Brahmana who greets an elder must pronounce his name, saying, 'I am N. N.'

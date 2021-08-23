@@ -2,7 +2,4 @@
 title = "111 तैजसानाम् मणीनाम्"
 
 +++
-तैजसानां मणीनां च  
-सर्वस्याऽश्ममयस्य च ।  
-भस्मनाद्भिर् मृदा चैव  
-शुद्धिर् उक्ता मनीषिभिः  ॥ ५.१११ ॥ [११० मेधातिथिपाठे]
+111	The wise ordain that all (objects) made of metal, gems, and anything made of stone are to be cleansed with ashes, earth, and water.

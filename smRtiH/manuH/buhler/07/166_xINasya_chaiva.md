@@ -2,7 +2,4 @@
 title = "166 क्षीणस्य चैव"
 
 +++
-क्षीणस्य चैव क्रमशो  
-दैवात् पूर्वकृतेन वा ।  
-मित्रस्य चाऽनुरोधेन  
-द्विविधं स्मृतम् आसनम्  ॥ ७.१६६ ॥ [१६७ मेधातिथिपाठे]
+166	Sitting quiet is stated to be of two kinds, (viz. that incumbent) on one who has gradually been weakened by fate or in consequence of former acts, and (that) in favour of a friend.

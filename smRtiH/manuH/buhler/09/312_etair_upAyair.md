@@ -2,7 +2,4 @@
 title = "312 एतैर् उपायैर्"
 
 +++
-एतैर् उपायैर् अन्यैश् च  
-युक्तो नित्यम् अतन्द्रितः ।  
-स्तेनान् राजा निगृह्णीयात्  
-स्वराष्ट्रे पर एव च  ॥ ९.३१२ ॥
+312	Employing these and other means, the king shall, ever untired, restrain thieves both in his own dominions and in (those of) others.

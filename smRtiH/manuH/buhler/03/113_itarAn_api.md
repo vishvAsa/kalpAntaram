@@ -2,7 +2,4 @@
 title = "113 इतरान् अपि"
 
 +++
-इतरान् अपि सख्य्-आदीन्  
-सम्प्रीत्या गृहम् आगतान् ।  
-प्रकृत्याऽन्नं यथाशक्ति  
-भोजयेत् सह भार्यया  ॥ ३.११३ ॥ [१०३ मेधातिथिपाठे]
+113	Even to others, personal friends and so forth, who have come to his house out of affection, he may give food, garnished (with seasoning) according to his ability, (at the same time) with his wife.

@@ -2,8 +2,4 @@
 title = "105 प्रत्यक्षञ् चाऽनुमानम्"
 
 +++
-
-प्रत्यक्षं चाऽनुमानं च  
-शास्त्रं च विविधागमम् ।  
-त्रयं सुविदितं कार्यं  
-धर्मशुद्धिम् अभीप्सता  ॥ १२.१०५ ॥
+105	The three (kinds of evidence), perception, inference, and the (sacred) Institutes which comprise the tradition (of) many (schools), must be fully understood by him who desires perfect correctness with respect to the sacred law.

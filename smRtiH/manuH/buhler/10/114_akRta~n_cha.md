@@ -2,7 +2,4 @@
 title = "114 अकृतञ् च"
 
 +++
-अकृतं च कृतात् क्षेत्राद्  
-गौर् अजाविकम् एव च ।  
-हिरण्यं धान्यम् अन्नं च  
-पूर्वं पूर्वम् अदोषवत्  ॥ १०.११४ ॥
+114	(The acceptance on an untilled field is less blamable than (that of) a tilled one; (with respect to) cows, goats, sheep, gold, grain, and cooked food, (the acceptance of) each earlier-named (article is less blamable than of the following ones).

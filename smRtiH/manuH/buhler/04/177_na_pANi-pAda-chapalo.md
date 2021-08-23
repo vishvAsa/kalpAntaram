@@ -2,8 +2,4 @@
 title = "177 न पाणि-पाद-चपलो"
 
 +++
-
-न पाणि-पाद-चपलो  
-न नेत्र-चपलो ऽनृजुः ।  
-न स्याद् वाक्-चपलश् चैव  
-न परद्रोहकर्म-धीः  ॥ ४.१७७ ॥+++(5)+++  
+177	Let him not be uselessly active with his hands and feet, or with his eyes, nor crooked (in his ways), nor talk idly, nor injure others by deeds or even think of it.

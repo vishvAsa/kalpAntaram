@@ -2,7 +2,4 @@
 title = "057 शोचन्ति जामयो"
 
 +++
-शोचन्ति जामयो यत्र  
-विनश्यत्य् आशु तत् कुलम् ।  
-न शोचन्ति तु यत्रैता  
-वर्धते तद् +धि सर्वदा  ॥ ३.५७ ॥
+057	Where the female relations live in grief, the family soon wholly perishes; but that family where they are not unhappy ever prospers.

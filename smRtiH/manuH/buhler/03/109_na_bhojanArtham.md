@@ -2,7 +2,4 @@
 title = "109 न भोजनार्थम्"
 
 +++
-न भोजनार्थं स्वे विप्रः  
-कुल-गोत्रे निवेदयेत् ।  
-भोजनार्थं हि ते शंसन्  
-वान्ताशीत्य् उच्यते बुधैः  ॥ ३.१०९ ॥ [९९ मेधातिथिपाठे]
+109	A Brahmana shall not name his family and (Vedic) gotra in order to obtain a meal; for he who boasts of them for the sake of a meal, is called by the wise a foul feeder (vantasin).

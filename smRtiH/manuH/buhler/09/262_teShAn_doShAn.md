@@ -2,7 +2,4 @@
 title = "262 तेषान् दोषान्"
 
 +++
-तेषां दोषान् अभिख्याप्य  
-स्वे स्वे कर्मणि तत्त्वतः ।  
-कुर्वीत शासनं राजा  
-सम्यक् सारापराधतः  ॥ ९.२६२ ॥
+262	Then having caused the crimes, which they committed by their several actions, to be proclaimed in accordance with the facts, the king shall duly punish them according to their strength and their crimes.

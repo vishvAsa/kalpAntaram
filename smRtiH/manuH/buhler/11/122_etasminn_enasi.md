@@ -2,7 +2,4 @@
 title = "122 एतस्मिन्न् एनसि"
 
 +++
-एतस्मिन्न् एनसि प्राप्ते  
-वसित्वा गर्दभाजिनम् ।  
-सप्तागारांश् चरेद् भैक्षं  
-स्वकर्म परिकीर्तयन्  ॥ ११.१२२ ॥ [१२१ मेधातिथिपाठे]
+123	When this sin has been committed, he shall go begging to seven houses, dressed in the hide of the (sacrificed) ass, proclaiming his deed.

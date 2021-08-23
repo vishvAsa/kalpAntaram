@@ -2,8 +2,4 @@
 title = "218 राजान्नन् तेज"
 
 +++
-
-राजान्नं तेज आदत्ते  
-शूद्रान्नं ब्रह्मवर्चसम् ।  
-आयुः सुवर्णकारान्नं  
-यशश् चर्मावकर्तिनः  ॥ ४.२१८ ॥ [२१९ मेधातिथिपाठे]  
+218	The food of a king impairs his vigour, the food of a Sudra his excellence in sacred learning, the food of a goldsmith his longevity, that of a leather-cutter his fame;

@@ -2,7 +2,4 @@
 title = "060 सपिण्डता तु"
 
 +++
-सपिण्डता तु पुरुषे  
-सप्तमे विनिवर्तते ।  
-समानोदक-भावस् तु  
-जन्म-नाम्नोर् अवेदने  ॥ ५.६० ॥
+060	But the Sapinda-relationship ceases with the seventh person (in the ascending and descending lines), the Samanodaka-relationship when the (common) origin and the (existence of a common family)-name are no (longer) known.

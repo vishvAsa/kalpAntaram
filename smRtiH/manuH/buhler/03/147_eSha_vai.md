@@ -2,7 +2,4 @@
 title = "147 एष वै"
 
 +++
-एष वै प्रथमः कल्पः  
-प्रदाने हव्य-कव्ययोः ।  
-अनुकल्पस् त्व् अयं ज्ञेयः  
-सदा सद्भिर् अनुष्ठितः  ॥ ३.१४७ ॥ [१३७ मेधातिथिपाठे]
+147	This is the chief rule (to be followed) in offering sacrifices to the gods and manes; know that the virtuous always observe the following subsidiary rule.

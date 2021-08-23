@@ -2,7 +2,4 @@
 title = "032 स्ववीर्याद् राजवीर्याच्"
 
 +++
-स्ववीर्याद् राजवीर्याच् च  
-स्ववीर्यं बलवत्तरम् ।  
-तस्मात् स्वेनैव वीर्येण  
-निगृह्णीयाद् अरीन् द्विजः  ॥ ११.३२ ॥ [३१ मेधातिथिपाठे]
+032	His own power is greater than the power of the king; the Brahmana therefore, may punish his foes by his own power alone.

@@ -2,7 +2,4 @@
 title = "111 न वृथा"
 
 +++
-न वृथा शपथं कुर्यात्  
-स्वल्पे ऽप्य् अर्थे नरो बुधः ।  
-वृथा हि शपथं कुर्वन्  
-प्रेत्य चेह च नश्यति  ॥ ८.१११ ॥
+111	Let no wise man swear an oath falsely, even in a trifling matter; for he who swears an oath falsely is lost in this (world) and after death.

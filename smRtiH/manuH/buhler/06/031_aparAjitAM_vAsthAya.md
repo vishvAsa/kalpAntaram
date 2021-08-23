@@ -2,7 +2,4 @@
 title = "031 अपराजितां वास्थाय"
 
 +++
-अपराजितां वास्थाय  
-व्रजेद् दिशम् अजिह्मगः ।  
-आ निपाताच् छरीरस्य  
-युक्तो वार्य्-अनिलाशनः  ॥ ६.३१ ॥
+031	Or let him walk, fully determined and going straight on, in a north-easterly direction, subsisting on water and air, until his body sinks to rest.

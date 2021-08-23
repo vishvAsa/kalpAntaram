@@ -2,7 +2,4 @@
 title = "392 प्रतिवेश्यानुवेश्यौ च"
 
 +++
-प्रतिवेश्यानुवेश्यौ च  
-कल्याणे विंशतिद्विजे ।  
-अर्हाव् अभोजयन् विप्रो  
-दण्डम् अर्हति माषकम्  ॥ ८.३९२ ॥
+392	A Brahmana who does not invite his next neighbour and his neighbour next but one, (though) both (he) worthy (of the honour), to a festival at which twenty Brahmanas are entertained, is liable to a fine of one masha.

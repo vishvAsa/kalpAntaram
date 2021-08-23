@@ -2,8 +2,4 @@
 title = "057 साक्षिणः सन्ति"
 
 +++
-साक्षिणः सन्ति मेत्य् उक्त्वा  
-दिशेत्य् उक्तो दिशेन् न यः [मेधातिथिपाठः - ज्ञातारः सन्ति मेत्य्*]  
-*{मेत्य् < म इत्य् ?} ।  
-धर्मस्थः कारणैर् एतैर्  
-हीनं तम् अपि निर्दिशेत् [मेधातिथिपाठः - तम् इति निर्दिशेत्  ॥ ८.५७ ॥
+057	Him also who says 'I have witnesses,' and, being ordered to produce them, produces them not, the judge must on these (same) grounds declare to be non-suited.

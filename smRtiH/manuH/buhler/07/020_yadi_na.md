@@ -2,7 +2,4 @@
 title = "020 यदि न"
 
 +++
-यदि न प्रणयेद् राजा  
-दण्डं दण्ड्येष्व् अतन्द्रितः ।  
-शूले मत्स्यान् इवाऽपक्ष्यन्  
-दुर्बलान् बलवत्तराः  ॥ ७.२० ॥
+020	If the king did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit;

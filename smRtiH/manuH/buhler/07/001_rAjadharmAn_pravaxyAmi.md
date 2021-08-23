@@ -2,7 +2,4 @@
 title = "001 राजधर्मान् प्रवक्ष्यामि"
 
 +++
-राजधर्मान् प्रवक्ष्यामि  
-यथावृत्तो भवेन् नृपः ।  
-सम्भवश् च यथा तस्य  
-सिद्धिश् च परमा यथा  ॥ ७.१ ॥
+001	I will declare the duties of kings, (and) show how a king should conduct himself, how he was created, and how (he can obtain) highest success.

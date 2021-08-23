@@ -2,7 +2,4 @@
 title = "236 चतुर्णाम् अपि"
 
 +++
-चतुर्णाम् अपि चैतेषां  
-प्रायश्चित्तम् अकुर्वताम् ।  
-शारीरं धनसंयुक्तं  
-दण्डं धर्म्यं प्रकल्पयेत्  ॥ ९.२३६ ॥
+236	On those four even, if they do not perform a penance, let him inflict corporal punishment and fines in accordance with the law.

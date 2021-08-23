@@ -2,7 +2,4 @@
 title = "314 राजा स्तेनेन"
 
 +++
-राजा स्तेनेन गन्तव्यो  
-मुक्त-केशेन धावता [मेधातिथिपाठः - धीमता] ।  
-आचक्षाणेन तत् स्तेयम्  
-एवंकर्मास्मि शाधि माम्  ॥ ८.३१४ ॥
+314	A thief shall, running, approach the king, with flying hair, confessing that theft (and saying), 'Thus have I done, punish me;'

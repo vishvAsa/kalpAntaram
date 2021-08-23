@@ -2,7 +2,4 @@
 title = "209 रथं हरेत्"
 
 +++
-रथं हरेत् चाऽध्वर्युर्  
-ब्रह्माधाने च वाजिनम् ।  
-होता वापि हरेद् अश्वम्  
-उद्गाता चाऽप्य् अनः क्रये  ॥ ८.२०९ ॥
+209	The Adhvaryu priest shall take the chariot, and the Brahman at the kindling of the fires (Agnyadhana) a horse, the Hotri priest shall also take a horse, and the Udgatri the cart, (used) when (the Soma) is purchased.

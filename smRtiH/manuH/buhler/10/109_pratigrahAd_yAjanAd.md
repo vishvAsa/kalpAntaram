@@ -2,7 +2,4 @@
 title = "109 प्रतिग्रहाद् याजनाद्"
 
 +++
-प्रतिग्रहाद् याजनाद् वा  
-तथैवाऽध्यापनाद् अपि ।  
-प्रतिग्रहः प्रत्यवरः  
-प्रेत्य विप्रस्य गर्हितः  ॥ १०.१०९ ॥
+109	On (comparing) the acceptance (of gifts from low men), sacrificing (for them), and teaching (them), the acceptance of gifts is the meanest (of those acts) and (most) reprehensible for a Brahmana (on account of its results) in the next life.

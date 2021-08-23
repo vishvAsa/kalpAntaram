@@ -2,7 +2,4 @@
 title = "059 अल्पान्नाभ्यवहारेण रहःस्थानासनेन"
 
 +++
-अल्पान्नाभ्यवहारेण  
-रहःस्थानासनेन च ।  
-ह्रियमाणानि विषयैर्  
-इन्द्रियाणि निवर्तयेत्  ॥ ६.५९ ॥
+059	By eating little, and by standing and sitting in solitude, let him restrain his senses, if they are attracted by sensual objects.

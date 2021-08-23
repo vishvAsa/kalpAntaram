@@ -2,7 +2,4 @@
 title = "197 सोमपा नाम"
 
 +++
-सोमपा नाम विप्राणां  
-क्षत्रियाणां हविर्भुजः ।  
-वैश्यानाम् आज्यपा नाम  
-शूद्राणां तु सुकालिनः  ॥ ३.१९७ ॥ [१८७ मेधातिथिपाठे]
+197	The Somapas those of the Brahmanas, the Havirbhugs those of the Kshatriyas, the Agyapas those of the Vaisyas, but the Sukalins those of the Sudras.

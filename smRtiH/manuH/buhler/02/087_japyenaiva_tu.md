@@ -2,8 +2,4 @@
 title = "087 जप्येनैव तु"
 
 +++
-
-जप्येनैव तु संसिध्येद्  
-ब्राह्मणो नाऽत्र संशयः ।  
-कुर्याद् अन्यन् न वा कुर्यान्  
-मैत्रो ब्राह्मण उच्यते  ॥ २.८७ ॥
+087	But, undoubtedly, a Brahmana reaches the highest goal by muttering prayers only; (whether) he perform other (rites) or neglect them, he who befriends (all creatures) is declared (to be) a (true) Brahmana.

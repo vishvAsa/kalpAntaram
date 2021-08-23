@@ -2,8 +2,4 @@
 title = "201 परकीयनिपानेषु न"
 
 +++
-
-परकीयनिपानेषु  
-न स्नायाद् +धि कदा चन [क्:स्नायाच् च कदा चन] ।  
-निपानकर्तुः स्नात्वा तु  
-दुष्कृतांशेन लिप्यते  ॥ ४.२०१ ॥ [२०२ मेधातिथिपाठे]  
+201	Let him never bathe in tanks belonging to other men; if he bathes (in such a one), he is tainted by a portion of the guilt of him who made the tank.

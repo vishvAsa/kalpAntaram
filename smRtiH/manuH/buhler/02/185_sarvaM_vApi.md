@@ -2,8 +2,4 @@
 title = "185 सर्वं वापि"
 
 +++
-
-सर्वं वापि चरेद् ग्रामं  
-पूर्वोक्तानाम् असम्भवे ।  
-नियम्य प्रयतो वाचम्  
-अभिशस्तांस् तु वर्जयेत्  ॥ २.१८५ ॥
+185	Or, if there are no (virtuous men of the kind) mentioned above, he may go to each (house in the) village, being pure and remaining silent; but let him avoid Abhisastas (those accused of mortal sin).

@@ -2,7 +2,4 @@
 title = "022 यद् राष्ट्रम्"
 
 +++
-यद् राष्ट्रं शूद्र-भूयिष्ठं  
-नास्तिकाक्रान्तम् अद्विजम् ।  
-विनश्यत्य् आशु तत् कृत्स्नं  
-दुर्भिक्ष-व्याधिपीडितम्  ॥ ८.२२ ॥
+022	That kingdom where Sudras are very numerous, which is infested by atheists and destitute of twice-born (inhabitants), soon entirely perishes, afflicted by famine and disease.

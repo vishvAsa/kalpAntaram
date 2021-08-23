@@ -2,7 +2,4 @@
 title = "020 द्विजातयः सवर्णासु"
 
 +++
-द्विजातयः सवर्णासु  
-जनयन्त्य् अव्रतांस् तु यान् ।  
-तान् सावित्रीपरिभ्रष्टान्  
-व्रात्यान् इति विनिर्दिशेत्  ॥ १०.२० ॥
+020	Those (sons) whom the twice-born beget on wives of equal caste, but who, not fulfilling their sacred duties, are excluded from the Savitri, one must designate by the appellation Vratyas.

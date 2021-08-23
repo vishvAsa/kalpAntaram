@@ -2,9 +2,4 @@
 title = "062 सर्वेषां शावम्"
 
 +++
-सर्वेषां शावम् आशौचं  
-माता-पित्रोस् तु सूतकम्  
-[मेधातिथिपाठः - जनने ऽप्य् एवम् एव स्यान्  
-माता-पित्रोस् तु सूतकम्] ।  
-सूतकं मातुर् एव स्याद्  
-+++(त्र्यहात् परम्)+++ उपस्पृश्य पिता शुचिः  ॥ ५.६२ ॥ [६१ मेधातिथिपाठे]
+062	(Or while) the impurity on account of a death is common to all (Sapindas), that caused by a birth (falls) on the parents alone; (or) it shall fall on the mother alone, and the father shall become pure by bathing;

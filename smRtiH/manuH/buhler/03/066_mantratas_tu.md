@@ -2,7 +2,4 @@
 title = "066 मन्त्रतस् तु"
 
 +++
-मन्त्रतस् तु समृद्धानि  
-कुलान्य् अल्प-धनान्य् अपि ।  
-कुलसङ्ख्यां च गच्छन्ति  
-कर्षन्ति च महद् यशः  ॥ ३.६६ ॥
+066	But families that are rich in the knowledge of the Veda, though possessing little wealth, are numbered among the great, and acquire great fame.

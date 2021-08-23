@@ -2,8 +2,4 @@
 title = "209 गवा चाऽन्नम्"
 
 +++
-
-गवा चाऽन्नम् उपघ्रातं  
-+++(सार्वजनिकेभ्यो)+++ घुष्टान्नं च विशेषतः ।  
-गणान्नं गणिकान्नं च  
-विदुषा च जुगुप्सितम्  ॥ ४.२०९ ॥ [२१० मेधातिथिपाठे]  
+209	Nor food at which a cow has smelt, nor particularly that which has been offered by an invitation to all comers, nor that (given) by a multitude or by harlots, nor that which is declared to be had by a learned (man),

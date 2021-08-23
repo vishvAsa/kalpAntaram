@@ -2,7 +2,4 @@
 title = "193 उपधाभिश् च"
 
 +++
-उपधाभिश् च यः कश् चित्  
-परद्रव्यं हरेन् नरः ।  
-स-सहायः स हन्तव्यः  
-प्रकाशं विविधैर् वधैः  ॥ ८.१९३ ॥
+193	That man who by false pretences may possess himself of another's property, shall be publicly punished by various (modes of) corporal (or capital) chastisement, together with his accomplices.

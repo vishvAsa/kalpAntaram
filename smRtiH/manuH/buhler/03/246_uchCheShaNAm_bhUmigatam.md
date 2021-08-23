@@ -2,7 +2,4 @@
 title = "246 उच्छेषणाम् भूमिगतम्"
 
 +++
-उच्छेषणां भूमिगतम्  
-अजिह्मस्याऽशठस्य च ।  
-दासवर्गस्य तत् पित्र्ये  
-भागधेयं प्रचक्षते  ॥ ३.२४६ ॥ [२३६ मेधातिथिपाठे]
+246	They declare the fragments which have fallen on the ground at a (Sraddha) to the manes, to be the share of honest, dutiful servants.

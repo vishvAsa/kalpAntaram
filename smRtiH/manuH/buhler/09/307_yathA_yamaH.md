@@ -2,7 +2,4 @@
 title = "307 यथा यमः"
 
 +++
-यथा यमः प्रिय-द्वेष्यौ  
-प्राप्ते काले नियच्छति ।  
-तथा राज्ञा नियन्तव्याः  
-प्रजास् तद् +धि यमव्रतम्  ॥ ९.३०७ ॥
+307	As Yama at the appointed time subjects to his rule both friends and foes, even so all subjects must be controlled by the king; that is the office in which he resembles Yama.

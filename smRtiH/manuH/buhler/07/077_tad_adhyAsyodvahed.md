@@ -2,7 +2,4 @@
 title = "077 तद् अध्यास्योद्वहेद्"
 
 +++
-तद् अध्यास्योद्वहेद् भार्यां  
-स-वर्णां लक्षणान्विताम् ।  
-कुले महति सम्भूतां  
-हृद्यां रूप-गुणान्वीताम्  ॥ ७.७७ ॥
+077	Inhabiting that, let him wed a consort of equal caste (varna), who possesses auspicious marks (on her body), and is born in a great family, who is charming and possesses beauty and excellent qualities.

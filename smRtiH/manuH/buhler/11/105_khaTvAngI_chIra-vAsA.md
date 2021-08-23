@@ -2,7 +2,4 @@
 title = "105 खट्वाङ्गी चीर-वासा"
 
 +++
-खट्वाङ्गी चीर-वासा वा  
-श्मश्रुलो विजने वने ।  
-प्राजापत्यं चरेत् कृच्छ्रम्  
-अब्दम् एकं समाहितः  ॥ ११.१०५ ॥ [१०४ मेधातिथिपाठे]
+106	Or, carrying the foot of a bedstead, dressed in (garments of) bark and allowing his beard to grow, he may, with a concentrated mind, perform during a whole year the Krikkhra (or hard, penance), revealed by Pragapati, in a lonely forest;

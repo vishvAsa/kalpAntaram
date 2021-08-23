@@ -2,8 +2,4 @@
 title = "046 न फालकृष्टे"
 
 +++
-
-न फालकृष्टे न जले  
-न चित्यां न च पर्वते ।  
-न जीर्णदेवायतने  
-न वल्मीके कदा चन  ॥ ४.४६ ॥  
+046	Nor on ploughed land, in water, on an altar of bricks, on a mountain, on the ruins of a temple, nor ever on an ant-hill,

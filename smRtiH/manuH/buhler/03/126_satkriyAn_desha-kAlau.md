@@ -2,7 +2,4 @@
 title = "126 सत्क्रियान् देश-कालौ"
 
 +++
-सत्क्रियां देश-कालौ च  
-शौचं ब्राह्मणसम्पदः ।  
-पञ्चैतान् विस्तरो हन्ति  
-तस्मान् नेहेत विस्तरम्  ॥ ३.१२६ ॥ [११६ मेधातिथिपाठे]
+126	A large company destroys these five (advantages) the respectful treatment (of the invited, the propriety of) place and time, purity and (the selection of) virtuous Brahmana (guests); he therefore shall not seek (to entertain) a large company.

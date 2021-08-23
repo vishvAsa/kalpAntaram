@@ -2,7 +2,4 @@
 title = "169 सदृशन् तु"
 
 +++
-सदृशं तु प्रकुर्याद् यं  
-गुण-दोष-विचक्षणम् ।  
-पुत्रं पुत्रगुणैर् युक्तं  
-स विज्ञेयश् च कृत्रिमः  ॥ ९.१६९ ॥
+169	But he is considered a son made (Kritrima) whom (a man) makes his son, (he being) equal (by caste), acquainted with (the distinctions between) right and wrong, (and) endowed with filial virtues.

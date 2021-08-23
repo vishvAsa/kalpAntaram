@@ -2,8 +2,4 @@
 title = "162 आचार्यञ् च"
 
 +++
-
-आचार्यं च प्रवक्तारं  
-पितरं मातरं गुरुम् ।  
-न हिंस्याद् ब्राह्मणान् गाश् च  
-सर्वांश् चैव तपस्विनः  ॥ ४.१६२ ॥  
+162	Let him never offend the teacher who initiated him, nor him who explained the Veda, nor his father and mother, nor (any other) Guru, nor cows, nor Brahmanas, nor any men performing austerities.

@@ -2,7 +2,4 @@
 title = "094 त्रिंशद्वर्षो वहेत्"
 
 +++
-त्रिंशद्वर्षो वहेत् कन्यां  
-हृद्यां द्वादशवार्षिकीम् ।  
-त्र्यष्टवर्षो ऽष्टवर्षां वा  
-धर्मे सीदति सत्वरः  ॥ ९.९४ ॥
+094	A man, aged thirty years, shall marry a maiden of twelve who pleases him, or a man of twenty-four a girl eight years of age; if (the performance of) his duties would (otherwise) be impeded, (he must marry) sooner.

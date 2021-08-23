@@ -2,8 +2,4 @@
 title = "020 यद्य् आचरति"
 
 +++
-
-यद्य् आचरति धर्मं स  
-प्रायशो ऽधर्मम् अल्पशः [मेधातिथिपाठः - यथाचरति] ।  
-तैर् एव चावृतो भूतैः  
-स्वर्गे सुखम् उपाश्नुते  ॥ १२.२० ॥
+020	If (the soul) chiefly practises virtue and vice to a small degree, it obtains bliss in heaven, clothed with those very elements.

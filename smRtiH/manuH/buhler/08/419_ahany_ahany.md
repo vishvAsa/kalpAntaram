@@ -2,7 +2,4 @@
 title = "419 अहन्य् अहन्य्"
 
 +++
-अहन्य् अहन्य् अवेक्षेत  
-कर्मान्तान् वाहनानि च ।  
-आय-व्ययौ च नियताव्  
-आकरान् कोशम् एव च  ॥ ८.४१९ ॥
+419	Let him daily look after the completion of his undertakings, his beasts of burden, and carriages, (the collection of) his revenues and the disbursements, his mines and his treasury.

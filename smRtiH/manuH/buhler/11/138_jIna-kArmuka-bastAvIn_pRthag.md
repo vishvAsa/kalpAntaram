@@ -2,7 +2,4 @@
 title = "138 जीन-कार्मुक-बस्तावीन् पृथग्"
 
 +++
-जीन-कार्मुक-बस्तावीन्  
-पृथग् दद्याद् विशुद्धये ।  
-चतुर्णाम् अपि वर्णानां  
-नारीर् हत्वानवस्थिताः  ॥ ११.१३८ ॥ [१३७ मेधातिथिपाठे]
+139	For killing adulterous women of the four castes, he must give, in order to purify himself, respectively a leathern bag, a bow, a goat, or a sheep.

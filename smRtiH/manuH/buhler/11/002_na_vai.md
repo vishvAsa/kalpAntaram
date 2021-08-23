@@ -2,7 +2,4 @@
 title = "002 न वै"
 
 +++
-न वै तान् स्नातकान् विद्याद्  
-ब्राह्मणान् धर्मभिक्षुकान् ।  
-निःस्वेभ्यो देयम् एतेभ्यो  
-दानं विद्याविशेषतः  ॥ ११.२ ॥
+002	These nine Brahmanas one should consider as Snatakas, begging in order to fulfil the sacred law; to such poor men gifts must be given in proportion to their learning.

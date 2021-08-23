@@ -2,7 +2,4 @@
 title = "042 पृथुस् तु"
 
 +++
-पृथुस् तु विनयाद् राज्यं  
-प्राप्तवान् मनुर् एव च ।  
-कुबेरश् च धनैश्वर्यं  
-ब्राह्मण्यं चैव गाधिजः  ॥ ७.४२ ॥
+042	But by humility Prithu and Manu gained sovereignty, Kubera the position of the Lord of wealth, and the son of Gadhi the rank of a Brahmana.

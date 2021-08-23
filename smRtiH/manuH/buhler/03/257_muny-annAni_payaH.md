@@ -2,7 +2,4 @@
 title = "257 मुन्य्-अन्नानि पयः"
 
 +++
-मुन्य्-अन्नानि पयः सोमो  
-मांसं यच् चाऽनुपस्कृतम्+++(=अनिषिद्धम्)+++ ।  
-अक्षार-लवणं चैव  
-प्रकृत्या हविर् उच्यते  ॥ ३.२५७ ॥ [२४७ मेधातिथिपाठे]
+257	The food eaten by hermits in the forest, milk, Soma-juice, meat which is not prepared (with spices), and salt unprepared by art, are called, on account of their nature, sacrificial food.

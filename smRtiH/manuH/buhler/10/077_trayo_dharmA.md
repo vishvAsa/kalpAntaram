@@ -2,7 +2,4 @@
 title = "077 त्रयो धर्मा"
 
 +++
-त्रयो धर्मा निवर्तन्ते  
-ब्राह्मणात् क्षत्रियं प्रति ।  
-अध्यापनं याजनं च  
-तृतीयश् च प्रतिग्रहः  ॥ १०.७७ ॥
+077	(Passing) from the Brahmana to the Kshatriya, three acts (incumbent on the former) are forbidden, (viz.) teaching, sacrificing for others, and, thirdly, the acceptance of gifts.

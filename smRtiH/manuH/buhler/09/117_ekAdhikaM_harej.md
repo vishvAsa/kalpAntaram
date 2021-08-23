@@ -2,7 +2,4 @@
 title = "117 एकाधिकं हरेज्"
 
 +++
-एकाधिकं हरेज् ज्येष्ठः  
-पुत्रो ऽध्यर्धं ततो ऽनुजः ।  
-अंशम् अंशं यवीयांस  
-इति धर्मो व्यवस्थितः  ॥ ९.११७ ॥
+117	Let the eldest son take one share in excess, the (brother) born next after him one (share) and a half, the younger ones one share each; thus the law is settled.

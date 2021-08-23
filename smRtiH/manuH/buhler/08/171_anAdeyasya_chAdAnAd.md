@@ -2,7 +2,4 @@
 title = "171 अनादेयस्य चादानाद्"
 
 +++
-अनादेयस्य चादानाद्  
-आदेयस्य च वर्जनात् ।  
-दौर्बल्यं ख्याप्यते राज्ञः  
-स प्रेत्येह च नश्यति  ॥ ८.१७१ ॥
+171	In consequence of his taking what ought not to be taken, or of his refusing what ought to be received, a king will be accused of weakness and perish in this (world) and after death.

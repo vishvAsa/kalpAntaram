@@ -2,7 +2,4 @@
 title = "161 भ्रामरी गन्डमाली"
 
 +++
-भ्रामरी गन्डमाली च  
-श्वित्र्य् अथो पिशुनस् तथा ।  
-उन्मत्तो ऽन्धश् च वर्ज्याः स्युर्  
-वेदनिन्दक एव च  ॥ ३.१६१ ॥ [१५१ मेधातिथिपाठे]
+161	An epileptic man, who suffers from scrofulous swellings of the glands, one afflicted with white leprosy, an informer, a madman, a blind man, and he who cavils at the Veda must (all) be avoided.

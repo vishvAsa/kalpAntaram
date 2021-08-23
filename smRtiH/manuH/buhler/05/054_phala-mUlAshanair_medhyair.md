@@ -2,7 +2,4 @@
 title = "054 फल-मूलाशनैर् मेध्यैर्"
 
 +++
-फल-मूलाशनैर् मेध्यैर्  
-मुन्य्-अन्नानां च भोजनैः ।  
-न तत् फलम् अवाप्नोति  
-यन् मांस-परिवर्जनात्  ॥ ५.५४ ॥
+054	By subsisting on pure fruit and roots, and by eating food fit for ascetics (in the forest), one does not gain (so great) a reward as by entirely avoiding (the use of) flesh.

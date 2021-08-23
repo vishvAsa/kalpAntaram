@@ -2,7 +2,4 @@
 title = "226 पाणिग्रहणिका मन्त्राः"
 
 +++
-पाणिग्रहणिका मन्त्राः  
-कन्यास्व् एव प्रतिष्ठिताः ।  
-नाऽकन्यासु क्व चिन् नॄणां  
-लुप्त-धर्मक्रिया हि ताः  ॥ ८.२२६ ॥
+226	The nuptial texts are applied solely to virgins, (and) nowhere among men to females who have lost their virginity, for such (females) are excluded from religious ceremonies.

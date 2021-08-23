@@ -2,7 +2,4 @@
 title = "089 उच्छीर्षके श्रियै"
 
 +++
-उच्छीर्षके श्रियै कुर्याद्  
-भद्रकाल्यै च पादतः ।  
-ब्रह्म-वास्तोष्पतिभ्यां तु  
-वास्तुमध्ये बलिं हरेत्  ॥ ३.८९ ॥ [७९ मेधातिथिपाठे]
+089	Near the head (of the bed) he shall make an offering to Sri (fortune), and near the foot (of his bed) to Bhadrakali; in the centre of the house let him place a Bali for Brahman and for Vastoshpati (the lord of the dwelling) conjointly.

@@ -2,8 +2,4 @@
 title = "018 वयसः कर्मणो"
 
 +++
-
-वयसः कर्मणो ऽर्थस्य  
-श्रुतस्याऽभिजनस्य च ।  
-वेष-वाग्-बुद्धि-सारूप्यम्  
-आचरन् विचरेद् इह  ॥ ४.१८ ॥++(5)+++  
+018	Let him walk here (on earth), bringing his dress, speech, and thoughts to a conformity with his age, his occupation, his wealth, his sacred learning, and his race.

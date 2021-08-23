@@ -2,7 +2,4 @@
 title = "006 लोहितान् वृक्षनिर्यासान्"
 
 +++
-लोहितान् वृक्षनिर्यासान्  
-वृश्चन-प्रभवांस् तथा [मेधातिथिपाठः - व्रश्चन-प्रभवांस्] ।  
-शेलुं+++(=फलविशेषं)+++ गव्यं च पेयूषं+++(=सद्यःप्रसूतगोदुग्धं)+++  
-प्रयत्नेन विवर्जयेत् [मेधातिथिपाठः - पीयूषं]  ॥ ५.६ ॥
+006	One should carefully avoid red exudations from trees and (juices) flowing from incisions, the Selu (fruit), and the thickened milk of a cow (which she gives after calving).

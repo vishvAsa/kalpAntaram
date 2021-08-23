@@ -2,7 +2,4 @@
 title = "128 श्रोत्रियायैव देयानि"
 
 +++
-श्रोत्रियायैव देयानि  
-हव्य-कव्यानि दातृभिः ।  
-अर्हत्तमाय विप्राय  
-तस्मै दत्तं महाफलम्  ॥ ३.१२८ ॥ [११८ मेधातिथिपाठे]
+128	Oblations to the gods and manes must be presented by the givers to a Srotriya alone; what is given to such a most worthy Brahmana yields great reward.

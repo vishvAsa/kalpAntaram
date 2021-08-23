@@ -2,7 +2,4 @@
 title = "237 धनुःशतम् परीहारो"
 
 +++
-धनुःशतं परीहारो  
-ग्रामस्य स्यात् समन्ततः ।  
-शम्यापातास् त्रयो वापि  
-त्रिगुणो नगरस्य तु  ॥ ८.२३७ ॥
+237	On all sides of a village a space, one hundred dhanus or three samya-throws (in breadth), shall be reserved (for pasture), and thrice (that space) round a town.

@@ -2,7 +2,4 @@
 title = "067 ब्राह्मणस्य रुजः"
 
 +++
-ब्राह्मणस्य रुजः कृत्वा  
-घ्रातिर् अघ्रेय-मद्ययोः [मेधातिथिपाठः - रुजःकृत्यं] ।  
-जैह्म्यं च मैथुनं पुंसि  
-जातिभ्रंशकरं स्मृतम्  ॥ ११.६७ ॥ [६६ मेधातिथिपाठे]
+068	Giving pain to a Brahmana (by a blow), smelling at things which ought not to be smelt at, or at spirituous liquor, cheating, and an unnatural offence with a man, are declared to cause the loss of caste (Gatibhramsa)

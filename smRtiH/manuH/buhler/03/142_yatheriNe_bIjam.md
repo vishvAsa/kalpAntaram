@@ -2,7 +2,4 @@
 title = "142 यथेरिणे बीजम्"
 
 +++
-यथेरिणे बीजम् उप्त्वा  
-न वप्ता लभते फलम् ।  
-तथानृचे हविर् दत्त्वा  
-न दाता लभते फलम्  ॥ ३.१४२ ॥ [१३२ मेधातिथिपाठे]
+142	As a husbandman reaps no harvest when he has sown the seed in barren soil, even so the giver of sacrificial food gains no reward if he presented it to a man unacquainted with the Rikas.

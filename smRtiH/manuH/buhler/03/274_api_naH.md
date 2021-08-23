@@ -2,7 +2,4 @@
 title = "274 अपि नः"
 
 +++
-अपि नः स कुले भूयाद्  
-यो नो दद्यात् त्रयोदशीम् ।  
-पायसं मधु-सर्पिर्भ्यां  
-प्राक् छाये कुञ्जरस्य च +++(→ अपराह्णे)+++ ॥ ३.२७४ ॥ [२६४ मेधातिथिपाठे]
+274	'May such a man (the manes say) be born in our family who will give us milk-rice, with honey and clarified butter, on the thirteenth lunar day (of the month of Bhadrapada) and (in the afternoon) when the shadow of an elephant falls towards the east.'

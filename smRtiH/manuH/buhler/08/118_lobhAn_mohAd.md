@@ -2,7 +2,4 @@
 title = "118 लोभान् मोहाद्"
 
 +++
-लोभान् मोहाद् भयान् मैत्रात्  
-कामात् क्रोधात् तथैव च ।  
-अज्ञानाद् बालभावाच् च  
-साक्ष्यं वितथम् उच्यते  ॥ ८.११८ ॥
+118	Evidence (given) from covetousness, distraction, terror, friendship, lust, wrath, ignorance, and childishness is declared (to be) invalid.

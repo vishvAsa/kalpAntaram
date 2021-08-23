@@ -2,7 +2,4 @@
 title = "042 एक एव"
 
 +++
-एक एव चरेन् नित्यं  
-सिद्ध्यर्थम् असहायवान् ।  
-सिद्धिम् एकस्य सम्पश्यन्  
-न जहाति न हीयते [मेधातिथिपाठः - सिद्धम्]  ॥ ६.४२ ॥
+042	Let him always wander alone, without any companion, in order to attain (final liberation), fully understanding that the solitary (man, who) neither forsakes nor is forsaken, gains his end.

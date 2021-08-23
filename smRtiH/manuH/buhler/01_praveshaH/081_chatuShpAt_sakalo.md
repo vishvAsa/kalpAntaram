@@ -2,8 +2,4 @@
 title = "081 चतुष्पात् सकलो"
 
 +++
-
-चतुष्पात् सकलो धर्मः  
-सत्यं चैव कृते युगे ।  
-नाऽधर्मेणागमः कश् चिन्  
-मनुष्यान् प्रति वर्तते [मेधातिथिपाठः - उपवर्तते]  ॥ १.८१ ॥
+081	In the Krita age Dharma is four-footed and entire, and (so is) Truth; nor does any gain accrue to men by unrighteousness.

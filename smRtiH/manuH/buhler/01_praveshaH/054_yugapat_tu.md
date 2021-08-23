@@ -2,8 +2,4 @@
 title = "054 युगपत् तु"
 
 +++
-
-युगपत् तु प्रलीयन्ते  
-यदा तस्मिन् महात्मनि ।  
-तदायं सर्वभूतात्मा  
-सुखं स्वपिति निर्वृतः  ॥ १.५४ ॥
+054	When they are absorbed all at once in that great soul, then he who is the soul of all beings sweetly slumbers, free from all care and occupation.

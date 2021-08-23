@@ -2,7 +2,4 @@
 title = "083 अधियज्ञम् ब्रह्म"
 
 +++
-अधियज्ञं ब्रह्म जपेद्  
-आधिदैविकम् एव च ।  
-आध्यात्मिकं च सततं  
-वेदान्ताभिहितं च यत्  ॥ ६.८३ ॥
+083	Let him constantly recite (those texts of) the Veda which refer to the sacrifice, (those) referring to the deities, and (those) which treat of the Soul and are contained in the concluding portions of the Veda (Vedanta).

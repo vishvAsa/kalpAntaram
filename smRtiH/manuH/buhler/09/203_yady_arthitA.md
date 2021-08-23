@@ -2,7 +2,4 @@
 title = "203 यद्य् अर्थिता"
 
 +++
-यद्य् अर्थिता तु दारैः स्यात्  
-क्लीबादीनां कथं चन ।  
-तेषाम् उत्पन्न-तन्तूनाम्  
-अपत्यं दायम् अर्हति  ॥ ९.२०३ ॥
+203	If the eunuch and the rest should somehow or other desire to (take) wives, the offspring of such among them as have children is worthy of a share.

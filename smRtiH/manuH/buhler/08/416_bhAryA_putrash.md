@@ -2,7 +2,4 @@
 title = "416 भार्या पुत्रश्"
 
 +++
-भार्या पुत्रश् च दासश् च  
-त्रय एवाऽधनाः स्मृताः ।  
-यत् ते समधिगच्छन्ति  
-यस्य ते तस्य तद् धनम्  ॥ ८.४१६ ॥
+416	A wife, a son, and a slave, these three are declared to have no property; the wealth which they earn is (acquired) for him to whom they belong.

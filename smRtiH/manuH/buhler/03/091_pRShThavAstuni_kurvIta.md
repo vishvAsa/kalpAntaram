@@ -2,7 +2,4 @@
 title = "091 पृष्ठवास्तुनि कुर्वीत"
 
 +++
-पृष्ठवास्तुनि कुर्वीत  
-बलिं सर्वात्मभूतये [मेधातिथिपाठः - सर्वान्नभूतये] ।  
-पितृभ्यो बलिशेषं तु  
-सर्वं दक्षिणतो हरेत्  ॥ ३.९१ ॥ [८१ मेधातिथिपाठे]
+091	In the upper story let him offer a Bali to Sarvatmabhuti; but let him throw what remains (from these offerings) in a southerly direction for the manes.

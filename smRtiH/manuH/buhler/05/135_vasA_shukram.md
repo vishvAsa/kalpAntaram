@@ -2,7 +2,4 @@
 title = "135 वसा शुक्रम्"
 
 +++
-वसा शुक्रम् असृङ् मज्जा  
-मूत्र-विट् घ्राण-कर्ण-विट् ।  
-श्लेश्म अश्रु दूषिका स्वेदो  
-द्वादशैते नृणां मलाः  ॥ ५.१३५ ॥ [१३३ मेधातिथिपाठे]
+135	Oily exudations, semen, blood, (the fatty substance of the) brain, urine, faeces, the mucus of the nose, ear-wax, phlegm, tears, the rheum of the eyes, and sweat are the twelve impurities of human (bodies).

@@ -2,7 +2,4 @@
 title = "097 यस्य कायगतम्"
 
 +++
-यस्य कायगतं ब्रह्म  
-मद्येनाप्लाव्यते सकृत् ।  
-तस्य व्यपैति ब्राह्मण्यं  
-शूद्रत्वं च स गच्छति  ॥ ११.९७ ॥ [९६ मेधातिथिपाठे]
+098	When the Brahman (the Veda) which dwells in his body is (even) once (only) deluged with spirituous liquor, his Brahmanhood forsakes him and he becomes a Sudra.

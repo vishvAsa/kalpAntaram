@@ -2,7 +2,4 @@
 title = "157 अकारणे परित्यक्ता"
 
 +++
-अकारणे परित्यक्ता  
-माता-पित्रोर् गुरोस् तथा [क्- अकारणपरित्यक्ता] ।  
-ब्राह्मैर्+++(=मन्त्रैर्)+++ यौनैश्+++(=योनिसम्बन्धैः)+++ च सम्बन्धैः  
-संयोगं पतितैर् गतः  ॥ ३.१५७ ॥ [१४७ मेधातिथिपाठे]
+157	He who forsakes his mother, his father, or a teacher without a (sufficient) reason, he who has contracted an alliance with outcasts either through the Veda or through a marriage,

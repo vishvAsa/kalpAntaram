@@ -2,7 +2,4 @@
 title = "075 अहिंसयेन्द्रियासङ्गैर् वैदिकैश्"
 
 +++
-अहिंसयेन्द्रियासङ्गैर्  
-वैदिकैश् चैव कर्मभिः ।  
-तपसश् चरणैश् चोग्रैः  
-साधयन्तीह तत्पदम्  ॥ ६.७५ ॥
+075	By not injuring any creatures, by detaching the senses (from objects of enjoyment), by the rites prescribed in the Veda, and by rigorously practising austerities, (men) gain that state (even) in this (world).

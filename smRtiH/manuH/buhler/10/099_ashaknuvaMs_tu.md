@@ -2,7 +2,4 @@
 title = "099 अशक्नुवंस् तु"
 
 +++
-अशक्नुवंस् तु शुश्रूषां  
-शूद्रः कर्तुं द्विजन्मनाम् ।  
-पुत्र-दारात्ययं प्राप्तो  
-जीवेत् कारुक-कर्मभिः  ॥ १०.९९ ॥
+099	But a Sudra, being unable to find service with the twice-born and threatened with the loss of his sons and wife (through hunger), may maintain himself by handicrafts.

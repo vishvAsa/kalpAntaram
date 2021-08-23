@@ -2,8 +2,4 @@
 title = "092 ब्राह्मे मुहूर्ते"
 
 +++
-
-ब्राह्मे मुहूर्ते बुध्येत  
-धर्मार्थौ चाऽनुचिन्तयेत् ।  
-काय-क्लेशांश् च तन्-मूलान्  
-वेदतत्त्वार्थम् एव च  ॥ ४.९२ ॥+++(5)+++  
+092	Let him wake in the muhurta, sacred to Brahman, and think of (the acquisition of) spiritual merit and wealth, of the bodily fatigue arising therefrom, and of the true meaning of the Veda.

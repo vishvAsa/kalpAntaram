@@ -2,8 +2,4 @@
 title = "057 लूताहि-सरटानाञ् च"
 
 +++
-
-लूताहि-सरटानां च  
-तिरश्चां चाऽम्बुचारिणाम् ।  
-हिंस्राणां च पिशाचानां  
-स्तेनो विप्रः सहस्रशः  ॥ १२.५७ ॥
+057	A Brahmana who steals (the gold of a Brahmana shall pass) a thousand times (through the bodies) of spiders, snakes and lizards, of aquatic animals and of destructive Pisakas.

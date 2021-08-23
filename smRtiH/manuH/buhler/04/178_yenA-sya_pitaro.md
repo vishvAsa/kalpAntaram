@@ -2,8 +2,4 @@
 title = "178 येनाऽस्य पितरो"
 
 +++
-
-येनाऽस्य पितरो याता  
-येन याताः पितामहाः ।  
-तेन यायात् सतां मार्गं  
-तेन गच्छन् न रिष्यति  ॥ ४.१७८ ॥+++(5)+++  
+178	Let him walk in that path of holy men which his fathers and his grandfathers followed; while he walks in that, he will not suffer harm.

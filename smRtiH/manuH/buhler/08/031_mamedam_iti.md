@@ -2,7 +2,4 @@
 title = "031 ममेदम् इति"
 
 +++
-ममेदम् इति यो ब्रूयात्  
-सो ऽनुयोज्यो यथाविधि ।  
-संवाद्य रूप-सङ्ख्यादीन्  
-स्वामी तद् द्रव्यम् अर्हति  ॥ ८.३१ ॥
+031	He who says, 'This belongs to me,' must be examined according to the rule; if he accurately describes the shape, and the number (of the articles found) and so forth, (he is) the owner, (and) ought (to receive) that property.

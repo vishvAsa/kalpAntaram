@@ -2,7 +2,4 @@
 title = "376 ब्राह्मणीं यद्य्"
 
 +++
-ब्राह्मणीं यद्य् अगुप्तां तु  
-गच्छेतां वैश्य-पार्थिवौ ।  
-वैश्यं पञ्चशतं कुर्यात्  
-क्षत्रियं तु सहस्रिणम्  ॥ ८.३७६ ॥
+376	If a Vaisya or a Kshatriya has connexion with an unguarded Brahmana, let him fine the Vaisya five hundred (panas) and the Kshatriya one thousand.

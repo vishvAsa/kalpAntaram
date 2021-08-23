@@ -2,7 +2,4 @@
 title = "144 नियुक्तायाम् अपि"
 
 +++
-नियुक्तायाम् अपि पुमान्  
-नार्यां जातो ऽविधानतः ।  
-नैवाऽर्हः पैतृकं रिक्थं  
-पतितोत्पादितो हि सः  ॥ ९.१४४ ॥
+144	Even the male (child) of a female (duly) appointed, not begotten according to the rule (given above), is unworthy of the paternal estate; for he was procreated by an outcast.

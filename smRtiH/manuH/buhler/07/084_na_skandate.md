@@ -2,7 +2,4 @@
 title = "084 न स्कन्दते"
 
 +++
-न स्कन्दते न व्यथते  
-न विनश्यति कर्हि चित् [मेधातिथिपाठः - न स्कन्दति न च्यवते] ।  
-वरिष्ठम् अग्निहोत्रेभ्यो  
-ब्राह्मणस्य मुखे हुतम्  ॥ ७.८४ ॥
+084	The offering made through the mouth of a Brahmana, which is neither spilt, nor falls (on the ground), nor ever perishes, is far more excellent than Agnihotras.

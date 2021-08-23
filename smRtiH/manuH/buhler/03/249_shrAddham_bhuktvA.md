@@ -2,7 +2,4 @@
 title = "249 श्राद्धम् भुक्त्वा"
 
 +++
-श्राद्धं भुक्त्वा य उच्छिष्टं  
-वृषलाय प्रयच्छति ।  
-स मूढो नरकं याति  
-कालसूत्रम् अवाक्शिराः  ॥ ३.२४९ ॥ [२३९ मेधातिथिपाठे]
+249	The foolish man who, after having eaten a Sraddha (-dinner), gives the leavings to a Sudra, falls headlong into the Kalasutra hell.

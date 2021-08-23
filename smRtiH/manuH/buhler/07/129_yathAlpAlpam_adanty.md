@@ -2,7 +2,4 @@
 title = "129 यथाल्पाल्पम् अदन्त्य्"
 
 +++
-यथाल्पाल्पम् अदन्त्य् आद्यं  
-वार्योको-वत्स-षट्पदाः ।  
-तथाल्पाल्पो ग्रहीतव्यो  
-राष्ट्राद् राज्ञाब्दिकः करः  ॥ ७.१२९ ॥ [१३० मेधातिथिपाठे]
+129	As the leech, the calf, and the bee take their food little by little, even so must the king draw from his realm moderate annual taxes.

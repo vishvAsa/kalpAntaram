@@ -2,8 +2,4 @@
 title = "135 क्षत्रियञ् चैव"
 
 +++
-
-क्षत्रियं चैव सर्पं च  
-ब्राह्मणं च बहु-श्रुतम् ।  
-नाऽवमन्येत वै भूष्णुः  
-कृशान् अपि कदा चन  ॥ ४.१३५ ॥+++(5)+++  
+135	Let him who desires prosperity, indeed, never despise a Kshatriya, a snake, and a learned Brahmana, be they ever so feeble.

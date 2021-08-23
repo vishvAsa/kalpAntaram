@@ -2,7 +2,4 @@
 title = "010 भृत्यानाम् उपरोधेन"
 
 +++
-भृत्यानाम् उपरोधेन  
-यत् करोत्य् और्ध्वदेहिकम् ।  
-तद् भवत्य् असुखोदर्कं  
-जीवतश् च मृतस्य च  ॥ ११.१० ॥ [०९ मेधातिथिपाठे]
+010	If (a man) does anything for the sake of his happiness in another world, to the detriment of those whom he is bound to maintain, that produces evil results for him, both while he lives and when he is dead.

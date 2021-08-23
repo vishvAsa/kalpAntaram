@@ -2,8 +2,4 @@
 title = "082 एष सर्वः"
 
 +++
-
-एष सर्वः समुद्दिष्टः  
-कर्मणां वः फलोदयः ।  
-नैःश्रेयसकरं कर्म  
-विप्रस्येदं निबोधत  ॥ १२.८२ ॥
+082	All the results, proceeding from actions, have been thus pointed out; learn (next) those acts which secure supreme bliss to a Brahmana.

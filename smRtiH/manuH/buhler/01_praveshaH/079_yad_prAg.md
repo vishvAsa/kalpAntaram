@@ -2,8 +2,4 @@
 title = "079 यद् प्राग्"
 
 +++
-
-यद् प्राग् द्वादशसाहस्रम्  
-उदितं दैविकं युगम् ।  
-तद् एकसप्तति-गुणं  
-मन्वन्तरम् इहोच्यते  ॥ १.७९ ॥
+079	The before-mentioned age of the gods, (or) twelve thousand (of their years), being multiplied by seventy-one, (constitutes what) is here named the period of a Manu (Manvantara).

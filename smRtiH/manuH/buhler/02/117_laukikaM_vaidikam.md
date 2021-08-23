@@ -2,8 +2,4 @@
 title = "117 लौकिकं वैदिकम्"
 
 +++
-
-लौकिकं वैदिकं वापि  
-तथाध्यात्मिकम् एव वा ।  
-आददीत यतो ज्ञानं  
-तं पूर्वम् अभिवादयेत्  ॥ २.११७ ॥
+117	(A student) shall first reverentially salute that (teacher) from whom he receives (knowledge), referring to worldly affairs, to the Veda, or to the Brahman.

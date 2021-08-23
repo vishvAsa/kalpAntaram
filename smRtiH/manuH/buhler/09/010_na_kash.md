@@ -2,7 +2,4 @@
 title = "010 न कश्"
 
 +++
-न कश् चिद् योषितः शक्तः  
-प्रसह्य परिरक्षितुम् ।  
-एतैर् उपाययोगैस् तु  
-शक्यास् ताः परिरक्षितुम्  ॥ ९.१० ॥
+010	No man can completely guard women by force; but they can be guarded by the employment of the (following) expedients:

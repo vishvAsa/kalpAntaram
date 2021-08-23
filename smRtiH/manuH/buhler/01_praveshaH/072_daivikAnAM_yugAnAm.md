@@ -2,8 +2,4 @@
 title = "072 दैविकानां युगानाम्"
 
 +++
-
-दैविकानां युगानां तु  
-सहस्रं परिसङ्ख्यया ।  
-ब्राह्मम् एकम् अहर् ज्ञेयं  
-तावतीं रात्रिम् एव च [मेधातिथिपाठः - तावती रात्रिर् एव च]  ॥ १.७२ ॥
+072	But know that the sum of one thousand ages of the gods (makes) one day of Brahman, and that his night has the same length.

@@ -2,7 +2,4 @@
 title = "064 अह्ना चैकेन"
 
 +++
-अह्ना चैकेन रात्र्या च  
-त्रिरात्रैर् एव च त्रिभिः +++(→१० दिनैः)+++।  
-शव-स्पृशो विशुध्यन्ति,  
-त्र्यहाद् उदक-दायिनः  ॥ ५.६४ ॥ [६३ मेधातिथिपाठे]
+064	Those who have touched a corpse are purified after one day and night (added to) three periods of three days; those who give libations of water, after three days.

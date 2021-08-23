@@ -2,8 +2,4 @@
 title = "021 यदि तु"
 
 +++
-
-यदि तु प्रायशो ऽधर्मं  
-सेवते धर्मम् अल्पशः ।  
-तैर् भूतैः स परित्यक्तो  
-यामीः प्राप्नोति यातनाः  ॥ १२.२१ ॥
+021	But if it chiefly cleaves to vice and to virtue in a small degree, it suffers, deserted by the elements, the torments inflicted by Yama.

@@ -2,7 +2,4 @@
 title = "059 यो यावन्"
 
 +++
-यो यावन् निह्नुवीताऽर्थं  
-मिथ्या यावति वा वदेत् ।  
-तौ नृपेण ह्य् अधर्मज्ञौ  
-दाप्यो तद्द्विगुणं दमम्  ॥ ८.५९ ॥
+059	In the double of that sum which (a defendant) falsely denies or on which (the plaintiff) falsely declares, shall those two (men) offending against justice be fined by the king.

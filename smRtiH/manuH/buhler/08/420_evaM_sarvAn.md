@@ -2,7 +2,4 @@
 title = "420 एवं सर्वान्"
 
 +++
-एवं सर्वान् इमान् राजा  
-व्यवहारान् समापयन् ।  
-व्यपोह्य किल्बिषं सर्वं  
-प्राप्नोति परमां गतिम्  ॥ ८.४२० ॥
+420	A king who thus brings to a conclusion. all the legal business enumerated above, and removes all sin, reaches the highest state (of bliss).

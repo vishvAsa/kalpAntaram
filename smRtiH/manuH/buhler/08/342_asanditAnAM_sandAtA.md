@@ -2,7 +2,4 @@
 title = "342 असन्दितानां सन्दाता"
 
 +++
-असंदितानां संदाता  
-संदितानां च मोक्षकः ।  
-दासाश्व-रथहर्ता च  
-प्राप्तः स्याच् चोरकिल्बिषम्  ॥ ८.३४२ ॥
+342	He who ties up unbound or sets free tied up (cattle of other men), he who takes a slave, a horse, or a carriage will have incurred the guilt of a thief.

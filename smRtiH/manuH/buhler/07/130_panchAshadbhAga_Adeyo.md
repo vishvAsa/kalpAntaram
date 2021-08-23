@@ -2,7 +2,4 @@
 title = "130 पञ्चाशद्भाग आदेयो"
 
 +++
-पञ्चाशद्भाग आदेयो  
-राज्ञा पशु-हिरण्ययोः ।  
-धान्यानाम् अष्टमो भागः  
-षष्ठो द्वादश एव वा  ॥ ७.१३० ॥ [१३१ मेधातिथिपाठे]
+130	A fiftieth part of (the increments on) cattle and gold may be taken by the king, and the eighth, sixth, or twelfth part of the crops.

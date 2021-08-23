@@ -2,7 +2,4 @@
 title = "048 यथा गो-ऽश्वोष्ट्र-दासीषु"
 
 +++
-यथा गो-ऽश्वोष्ट्र-दासीषु  
-महिष्य् अजाविकासु च ।  
-नोत्पादकः प्रजाभागी  
-तथैवाऽन्याङ्गनास्व् अपि  ॥ ९.४८ ॥
+048	As with cows, mares, female camels, slave-girls, buffalo-cows, she-goats, and ewes, it is not the begetter (or his owner) who obtains the offspring, even thus (it is) with the wives of others.

@@ -2,7 +2,4 @@
 title = "348 शस्त्रन् द्विजातिभिर्"
 
 +++
-शस्त्रं द्विजातिभिर् ग्राह्यं  
-धर्मो यत्रोपरुध्यते ।  
-द्विजातीनां च वर्णानां  
-विप्लवे कालकारिते  ॥ ८.३४८ ॥
+348	Twice-born men may take up arms when (they are) hindered (in the fulfilment of their duties, when destruction (threatens) the twice-born castes (varna) in (evil) times,

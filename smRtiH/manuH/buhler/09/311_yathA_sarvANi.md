@@ -2,7 +2,4 @@
 title = "311 यथा सर्वाणि"
 
 +++
-यथा सर्वाणि भूतानि  
-धरा धारयते समम् ।  
-तथा सर्वाणि भूतानि  
-बिभ्रतः पार्थिवं व्रतम्  ॥ ९.३११ ॥
+311	As the Earth supports all created beings equally, thus (a king) who supports all his subjects, (takes upon himself) the office of the Earth.

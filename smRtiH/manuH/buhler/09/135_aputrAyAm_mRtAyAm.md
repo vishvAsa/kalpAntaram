@@ -2,7 +2,4 @@
 title = "135 अपुत्रायाम् मृतायाम्"
 
 +++
-अपुत्रायां मृतायां तु  
-पुत्रिकायां कथं चन ।  
-धनं तत् पुत्रिकाभर्ता  
-हरेतैवाऽविचारयन्  ॥ ९.१३५ ॥
+135	But if an appointed daughter by accident dies without (leaving) a son, the husband of the appointed daughter may, without hesitation, take that estate.

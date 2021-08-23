@@ -2,7 +2,4 @@
 title = "124 जातिभ्रंशकरङ् कर्म"
 
 +++
-जातिभ्रंशकरं कर्म  
-कृत्वान्यतमम् इच्छया ।  
-चरेत् सांतपनं कृच्छ्रं  
-प्राजापत्यम् अनिच्छया  ॥ ११.१२४ ॥ [१२३ मेधातिथिपाठे]
+125	For committing with intent any of the deeds which cause loss of caste (Gatibhramsakara), (the offender) shall perform a Samtapana Krikkhra; (for doing it) unintentionally, (the Krikkhra) revealed by Pragapati.

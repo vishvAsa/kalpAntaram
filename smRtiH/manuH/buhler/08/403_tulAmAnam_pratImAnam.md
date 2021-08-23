@@ -2,7 +2,4 @@
 title = "403 तुलामानम् प्रतीमानम्"
 
 +++
-तुलामानं प्रतीमानं  
-सर्वं च स्यात् सुलक्षितम् ।  
-षट्सु षट्सु च मासेषु  
-पुनर् एव परीक्षयेत्  ॥ ८.४०३ ॥
+403	All weights and measures must be duly marked, and once in six months let him re-examine them.

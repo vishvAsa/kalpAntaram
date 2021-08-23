@@ -2,7 +2,4 @@
 title = "030 प्रणष्ट-स्वामिकं रिक्थम्"
 
 +++
-प्रणष्ट-स्वामिकं रिक्थं  
-राजा त्र्यब्दं निधापयेत् ।  
-अर्वाक् त्र्यब्दाद् धरेत् स्वामी  
-परेण नृपतिर् हरेत्  ॥ ८.३० ॥
+030	Property, the owner of which has disappeared, the king shall cause to be kept as a deposit during three years; within the period of three years the owner may claim it, after (that term) the king may take it.

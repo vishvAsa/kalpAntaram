@@ -2,7 +2,4 @@
 title = "168 कार्पास-कीटजोर्णानान् द्विशफैकशफस्य"
 
 +++
-कार्पास-कीटजोर्णानां  
-द्विशफैकशफस्य च [मेधातिथिपाठः - द्वेशफैकखुरस्य च] ।  
-पक्षि-गन्धौषधीनां च  
-रज्ज्वाश् चैव त्र्यहं पयः  ॥ ११.१६८ ॥ [१६७ मेधातिथिपाठे]
+169	(For stealing) cotton, silk, wool, an animal with cloven hoofs, or one with uncloven hoofs, a bird, perfumes, medicinal herbs, or a rope (the penance is to subsist) during three days (on) milk.

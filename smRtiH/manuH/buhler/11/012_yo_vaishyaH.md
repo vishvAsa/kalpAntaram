@@ -2,7 +2,4 @@
 title = "012 यो वैश्यः"
 
 +++
-यो वैश्यः स्याद् बहुपशुर्  
-हीन-क्रतुर् असोमपः ।  
-कुटुम्बात् तस्य तद् द्रव्यम्  
-आहरेद् यज्ञसिद्धये  ॥ ११.१२ ॥ [११ मेधातिथिपाठे]
+012	That article (required) for the completion of the sacrifice, may be taken (forcibly) from the house of any Vaisya, who possesses a large number of cattle, (but) neither performs the (minor) sacrifices nor drinks the Soma-juice;

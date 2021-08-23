@@ -2,8 +2,4 @@
 title = "098 उत्पत्तिर् एव"
 
 +++
-
-उत्पत्तिर् एव विप्रस्य  
-मूर्तिर् धर्मस्य शाश्वती ।  
-स हि धर्मार्थम् उत्पन्नो  
-ब्रह्मभूयाय कल्पते  ॥ १.९८ ॥
+098	The very birth of a Brahmana is an eternal incarnation of the sacred law; for he is born to (fulfil) the sacred law, and becomes one with Brahman.

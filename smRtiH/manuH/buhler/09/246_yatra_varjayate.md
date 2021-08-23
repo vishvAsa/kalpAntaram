@@ -2,7 +2,4 @@
 title = "246 यत्र वर्जयते"
 
 +++
-यत्र वर्जयते राजा  
-पापकृद्भ्यो धनागमम् ।  
-तत्र कालेन जायन्ते  
-मानवा दीर्घजीविनः  ॥ ९.२४६ ॥
+246	In that (country), where the king avoids taking the property of (mortal) sinners, men are born in (due) time (and are) long-lived,

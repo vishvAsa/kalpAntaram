@@ -2,7 +2,4 @@
 title = "038 यन् तु"
 
 +++
-यं तु पश्येन् निधिं राजा  
-पुराणं निहितं क्षितौ ।  
-तस्माद् द्विजेभ्यो दत्त्वार्धम्  
-अर्धं कोशे प्रवेशयेत्  ॥ ८.३८ ॥
+038	When the king finds treasure of old concealed in the ground let him give one half to Brahmanas and place the (other) half in his treasury.

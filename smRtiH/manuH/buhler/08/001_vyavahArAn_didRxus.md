@@ -2,7 +2,4 @@
 title = "001 व्यवहारान् दिदृक्षुस्"
 
 +++
-व्यवहारान् दिदृक्षुस् तु  
-ब्राह्मणैः सह पार्थिवः ।  
-मन्त्रज्ञैर् मन्त्रिभिश् चैव  
-विनीतः प्रविशेत् सभाम्  ॥ ८.१ ॥
+001	A king, desirous of investigating law cases, must enter his court of justice, preserving a dignified demeanour, together with Brahmanas and with experienced councillors.

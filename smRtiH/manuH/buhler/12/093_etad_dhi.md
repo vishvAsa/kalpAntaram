@@ -2,8 +2,4 @@
 title = "093 एतद् +धि"
 
 +++
-
-एतद् +धि जन्मसाफल्यं  
-ब्राह्मणस्य विशेषतः ।  
-प्राप्यैतत् कृत-कृत्यो हि  
-द्विजो भवति नाऽन्यथा  ॥ १२.९३ ॥
+093	For that secures the attainment of the object of existence, especially in the case of a Brahmana, because by attaining that, not otherwise, a twice-born man has gained all his ends.

@@ -2,8 +2,4 @@
 title = "016 निषेकादि-श्मशानान्तो मन्त्रैर्"
 
 +++
-
-निषेकादि-श्मशानान्तो  
-मन्त्रैर् यस्योदितो विधिः ।  
-तस्य शास्त्रे ऽधिकारो ऽस्मिञ्  
-ज्ञेयो नाऽन्यस्य कस्य चित्  ॥ २.१६ ॥
+016	Know that he for whom (the performance of) the ceremonies beginning with the rite of impregnation (Garbhadhana) and ending with the funeral rite (Antyeshti) is prescribed, while sacred formulas are being recited, is entitled (to study) these Institutes, but no other man whatsoever.

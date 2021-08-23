@@ -2,7 +2,4 @@
 title = "310 अधार्मिकन् त्रिभिर्"
 
 +++
-अधार्मिकं त्रिभिर् न्यायैर्  
-निगृह्णीयात् प्रयत्नतः ।  
-निरोधनेन बन्धेन  
-विविधेन वधेन च  ॥ ८.३१० ॥
+310	Let him carefully restrain the wicked by three methods,- by imprisonment by putting them in fetters, and by various (kinds of) corporal punishments.

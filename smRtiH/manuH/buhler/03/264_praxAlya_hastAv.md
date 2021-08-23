@@ -2,7 +2,4 @@
 title = "264 प्रक्षाल्य हस्ताव्"
 
 +++
-प्रक्षाल्य हस्ताव् आचाम्य  
-ज्ञातिप्रायं प्रकल्पयेत् ।  
-ज्ञातिभ्यः सत्कृतं दत्त्वा  
-बान्धवान् अपि भोजयेत् [मेधातिथिपाठः - दत्वा]  ॥ ३.२६४ ॥ [२५४ मेधातिथिपाठे]
+264	Having washed his hands and sipped water, let him prepare (food) for his paternal relations and, after giving it to them with due respect, let him feed his maternal relatives also.

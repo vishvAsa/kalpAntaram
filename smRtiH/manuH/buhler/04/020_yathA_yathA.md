@@ -2,8 +2,4 @@
 title = "020 यथा यथा"
 
 +++
-
-यथा यथा हि पुरुषः  
-शास्त्रं समधिगच्छति ।  
-तथा तथा विजानाति  
-विज्ञानं चाऽस्य रोचते  ॥ ४.२० ॥+++(5)+++  
+020	For the more a man completely studies the Institutes of science, the more he fully understands (them), and his great learning shines brightly.

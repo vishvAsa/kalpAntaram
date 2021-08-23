@@ -2,7 +2,4 @@
 title = "102 गोरक्षकान् वाणिजिकांस्"
 
 +++
-गोरक्षकान् वाणिजिकांस्  
-तथा कारु-कुशीलवान् [मेधातिथिपाठः - वाणिजकांस्] ।  
-प्रेष्यान् वार्धुषिकांश् चैव  
-विप्रान् शूद्रवद् आचरेत्  ॥ ८.१०२ ॥
+102	Brahmanas who tend cattle, who trade, who are mechanics, actors (or singers), menial servants or usurers, the (judge) shall treat like Sudras.

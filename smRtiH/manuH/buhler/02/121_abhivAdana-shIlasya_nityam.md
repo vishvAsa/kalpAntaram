@@ -2,8 +2,4 @@
 title = "121 अभिवादन-शीलस्य नित्यम्"
 
 +++
-
-अभिवादन-शीलस्य  
-नित्यं वृद्धोपसेविनः ।  
-चत्वारि तस्य वर्धन्ते  
-आयुर् धर्मो यशो बलम् [मेधातिथिपाठः - चत्वारि सम्प्रवर्धन्ते]  ॥ २.१२१ ॥
+121	He who habitually salutes and constantly pays reverence to the aged obtains an increase of four (things), (viz.) length of life, knowledge, fame, (and) strength.

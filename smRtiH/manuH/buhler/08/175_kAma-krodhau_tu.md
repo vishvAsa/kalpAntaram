@@ -2,7 +2,4 @@
 title = "175 काम-क्रोधौ तु"
 
 +++
-काम-क्रोधौ तु संयम्य  
-यो ऽर्थान् धर्मेण पश्यति ।  
-प्रजास् तम् अनुवर्तन्ते  
-समुद्रम् इव सिन्धवः  ॥ ८.१७५ ॥
+175	If, subduing love and hatred, he decides the causes according to the law, (the hearts of) his subjects turn towards him as the rivers (run) towards the ocean.

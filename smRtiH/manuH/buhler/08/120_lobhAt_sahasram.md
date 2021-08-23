@@ -2,7 +2,4 @@
 title = "120 लोभात् सहस्रम्"
 
 +++
-लोभात् सहस्रं दण्ड्यस् तु  
-मोहात् पूर्वं तु साहसम् ।  
-भयाद् द्वौ मध्यमौ दण्डौ  
-मैत्रात् पूर्वं चतुर्गुणम्  ॥ ८.१२० ॥
+120	(He who commits perjury) through covetousness shall be fined one thousand (panas), (he who does it) through distraction, in the lowest amercement; (if a man does it) through fear, two middling amercements shall be paid as a fine, (if he does it) through friendship, four times the amount of the lowest (amercement).

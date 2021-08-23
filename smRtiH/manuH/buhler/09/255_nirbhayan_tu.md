@@ -2,7 +2,4 @@
 title = "255 निर्भयन् तु"
 
 +++
-निर्भयं तु भवेद् यस्य  
-राष्ट्रं बाहु-बलाश्रितम् ।  
-तस्य तद् वर्धते नित्यं  
-सिच्यमान इव द्रुमः  ॥ ९.२५५ ॥
+255	But if his kingdom be secure, protected by the strength of his arm, it will constantly flourish like a (well)- watered tree.

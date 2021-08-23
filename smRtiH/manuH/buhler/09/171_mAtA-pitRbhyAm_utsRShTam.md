@@ -2,7 +2,4 @@
 title = "171 माता-पितृभ्याम् उत्सृष्टम्"
 
 +++
-माता-पितृभ्याम् उत्सृष्टं  
-तयोर् अन्यतरेण वा ।  
-यं पुत्रं परिगृह्णीयाद्  
-अपविद्धः स उच्यते  ॥ ९.१७१ ॥
+171	He whom (a man) receives as his son, (after he has been) deserted by his parents or by either of them, is called a son cast off (Apaviddha).

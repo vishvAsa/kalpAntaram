@@ -2,7 +2,4 @@
 title = "105 अजीगर्तः सुतम्"
 
 +++
-अजीगर्तः सुतं हन्तुम्  
-उपासर्पद् बुभुक्षितः ।  
-न चालिप्यत पापेन  
-क्षुत्प्रतीकारम् आचरन्  ॥ १०.१०५ ॥
+105	Agigarta, who suffered hunger, approached in order to slay (his own) son, and was not tainted by sin, since he (only) sought a remedy against famishing.

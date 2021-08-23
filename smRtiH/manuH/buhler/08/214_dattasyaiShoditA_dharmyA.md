@@ -2,7 +2,4 @@
 title = "214 दत्तस्यैषोदिता धर्म्या"
 
 +++
-दत्तस्यैषोदिता धर्म्या  
-यथावद् अनपक्रिया ।  
-अत ऊर्ध्वं प्रवक्ष्यामि  
-वेतनस्याऽनपक्रियाम्  ॥ ८.२१४ ॥
+214	Thus the lawful subtraction of a gift has been fully explained; I will next propound (the law for) the non-payment of wages.

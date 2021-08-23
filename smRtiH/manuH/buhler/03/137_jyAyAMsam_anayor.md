@@ -2,7 +2,4 @@
 title = "137 ज्यायांसम् अनयोर्"
 
 +++
-ज्यायांसम् अनयोर् विद्याद्  
-यस्य स्याच् छ्रोत्रियः पिता ।  
-मन्त्रसम्पूजनार्थं तु  
-सत्कारम् इतरो ऽर्हति  ॥ ३.१३७ ॥ [१२७ मेधातिथिपाठे]
+137	Know that he whose father knows the Veda, is the more venerable one (of the two); yet the other one is worthy of honour, because respect is due to the Veda (which he has learned).

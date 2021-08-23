@@ -2,8 +2,4 @@
 title = "158 सर्वलक्षण-हीनो ऽपि"
 
 +++
-
-सर्वलक्षण-हीनो ऽपि  
-यः सदाचारवान् नरः ।  
-श्रद्दधानो ऽनसूयश् च  
-शतं वर्षाणि जीवति  ॥ ४.१५८ ॥  
+158	A man who follows the conduct of the virtuous, has faith and is free from envy, lives a hundred years, though he be entirely destitute of auspicious marks.

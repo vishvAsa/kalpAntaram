@@ -2,7 +2,4 @@
 title = "011 वासन्त-शारदैर् मेध्यैर्"
 
 +++
-वासन्त-शारदैर् मेध्यैर्  
-मुन्य्-अन्नैः स्वयम् आहृतैः ।  
-पुरोडाशांश् चरूंश् चैव  
-विधिवन् निर्वपेत् पृथक्  ॥ ६.११ ॥
+011	With pure grains, fit for ascetics, which grow in spring and in autumn, and which he himself has collected, let him severally prepare the sacrificial cakes (purodasa) and the boiled messes (karu), as the law directs.

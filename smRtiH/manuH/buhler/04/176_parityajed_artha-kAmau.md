@@ -2,8 +2,4 @@
 title = "176 परित्यजेद् अर्थ-कामौ"
 
 +++
-
-परित्यजेद् अर्थ-कामौ  
-यौ स्यातां धर्मवर्जितौ ।  
-धर्मं चाऽप्य् असुखोदर्कं  
-लोकसङ्क्रुष्टम् एव च  ॥ ४.१७६ ॥+++(5)+++  
+176	Let him avoid (the acquisition of) wealth and (the gratification of his) desires, if they are opposed to the sacred law, and even lawful acts which may cause pain in the future or are offensive to men.

@@ -2,7 +2,4 @@
 title = "338 ब्राह्मणस्य चतुःषष्टिः"
 
 +++
-ब्राह्मणस्य चतुःषष्टिः  
-पूर्णं वापि शतं भवेत् ।  
-द्विगुणा वा चतुःषष्टिस्  
-तद्दोषगुणविद् +धि सः  ॥ ८.३३८ ॥
+338	That of a Brahmana sixty-fourfold, or quite a hundredfold, or (even) twice four-and-sixtyfold; (each of them) knowing the nature of the offence.

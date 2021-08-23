@@ -2,8 +2,4 @@
 title = "040 नैतैर् अपूतैर्"
 
 +++
-
-नैतैर् अपूतैर् विधिवद्  
-आपद्य् अपि हि कर्हि चित् ।  
-ब्राह्मान् यौनांश् च सम्बन्धान्  
-नाचरेद् ब्राह्मणः सह [मेधातिथिपाठः - ब्राह्मणैः सह]  ॥ २.४० ॥
+040	With such men, if they have not been purified according to the rule, let no Brahmana ever, even in times of distress, form a connexion either through the Veda or by marriage.

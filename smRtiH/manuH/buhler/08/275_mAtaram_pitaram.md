@@ -2,7 +2,4 @@
 title = "275 मातरम् पितरम्"
 
 +++
-मातरं पितरं जायां  
-भ्रातरं तनयं गुरुम् ।  
-आक्षारयञ् शतं दाप्यः  
-पन्थानं चाऽददद् गुरोः  ॥ ८.२७५ ॥
+275	He who defames his mother, his father, his wife, his brother, his son, or his teacher, and he who gives not the way to his preceptor, shall be compelled to pay one hundred (panas).

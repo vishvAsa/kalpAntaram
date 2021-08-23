@@ -2,8 +2,4 @@
 title = "005 आसीद् इदम्"
 
 +++
-
-आसीद् इदं तमोभूतम्  
-अप्रज्ञातम् अलक्षणम् ।  
-अप्रतर्क्यम् अविज्ञेयं  
-प्रसुप्तम् इव सर्वतः  ॥ १.५ ॥
+005	This (universe) existed in the shape of Darkness, unperceived, destitute of distinctive marks, unattainable by reasoning, unknowable, wholly immersed, as it were, in deep sleep.

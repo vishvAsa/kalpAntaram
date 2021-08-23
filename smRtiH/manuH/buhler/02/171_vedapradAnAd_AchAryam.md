@@ -2,8 +2,4 @@
 title = "171 वेदप्रदानाद् आचार्यम्"
 
 +++
-
-वेदप्रदानाद् आचार्यं  
-पितरं परिचक्षते ।  
-न ह्य् अस्मिन् युज्यते कर्म  
-किञ् चिद् आ मौञ्जिबन्धनात्  ॥ २.१७१ ॥
+171	They call the teacher (the pupil's) father because he gives the Veda; for nobody can perform a (sacred) rite before the investiture with the girdle of Munga grass.

@@ -2,8 +2,4 @@
 title = "063 स्वायम्भुवाद्याः सप्तैते"
 
 +++
-
-स्वायम्भुवाद्याः सप्तैते  
-मनवो भूरितेजसः ।  
-स्वे स्वे ऽन्तरे सर्वम् इदम्  
-उत्पाद्यापुश् चराचरम्  ॥ १.६३ ॥
+063	These seven very glorious Manus, the first among whom is Svayambhuva, produced and protected this whole movable and immovable (creation), each during the period (allotted to him).

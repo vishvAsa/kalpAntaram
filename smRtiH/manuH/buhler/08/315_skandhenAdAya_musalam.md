@@ -2,7 +2,4 @@
 title = "315 स्कन्धेनादाय मुसलम्"
 
 +++
-स्कन्धेनादाय मुसलं  
-लगुडं वापि खादिरम् [मेधातिथिपाठः - मुशलं] ।  
-शक्तिं चोभयतस् तीक्ष्णाम्  
-आयसं दण्डम् एव वा  ॥ ८.३१५ ॥
+315	(And he must) carry on his shoulder a pestle, or a club of Khadira wood, or a spear sharp at both ends, or an iron staff.

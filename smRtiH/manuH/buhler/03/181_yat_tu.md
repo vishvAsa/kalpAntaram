@@ -2,7 +2,4 @@
 title = "181 यत् तु"
 
 +++
-यत् तु वाणिजके दत्तं  
-नेह नाऽमुत्र तद् भवेत् ।  
-भस्मनीव हुतं द्रव्यं  
-तथा पौनर्भवे द्विजे  ॥ ३.१८१ ॥ [१७१ मेधातिथिपाठे]
+181	What has been given to a Brahmana who lives by trade that is not (useful) in this world and the next, and (a present) to a Brahmana born of a remarried woman (resembles) an oblation thrown into ashes.

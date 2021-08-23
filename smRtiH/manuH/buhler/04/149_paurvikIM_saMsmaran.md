@@ -2,8 +2,4 @@
 title = "149 पौर्विकीं संस्मरन्"
 
 +++
-
-पौर्विकीं संस्मरन् जातिं  
-ब्रह्मैवाऽभ्यस्यते पुनः [मेधातिथिपाठः - द्विजः] ।  
-ब्रह्माभ्यासेन चाऽजस्रम्  
-अनन्तं सुखम् अश्नुते  ॥ ४.१४९ ॥+++(5)+++  
+149	He who, recollecting his former existences, again recites the Veda, gains endless bliss by the continual study of the Veda.

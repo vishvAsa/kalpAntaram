@@ -2,7 +2,4 @@
 title = "083 अधिविन्ना तु"
 
 +++
-अधिविन्ना तु या नारी  
-निर्गच्छेद् रुषिता गृहात् ।  
-सा सद्यः संनिरोद्धव्या  
-त्याज्या वा कुलसंनिधौ  ॥ ९.८३ ॥
+083	A wife who, being superseded, in anger departs from (her husband's) house, must either be instantly confined or cast off in the presence of the family.

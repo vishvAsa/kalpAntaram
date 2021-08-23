@@ -2,7 +2,4 @@
 title = "351 नाततायिवधे दोषो"
 
 +++
-नाततायिवधे दोषो  
-हन्तुर् भवति कश् चन ।  
-प्रकाशं वाप्रकाशं वा  
-मन्युस् तं मन्युम् ऋच्छति  ॥ ८.३५१ ॥
+351	By killing an assassin the slayer incurs no guilt, whether (he does it) publicly or secretly; in that case fury recoils upon fury.

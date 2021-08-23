@@ -2,7 +2,4 @@
 title = "086 आचम्य प्रयतो"
 
 +++
-आचम्य प्रयतो नित्यं  
-जपेद् अशुचिदर्शने ।  
-सौरान् मन्त्रान् यथोत्साहं  
-पावमानीश् च शक्तितः  ॥ ५.८६ ॥ [८५ मेधातिथिपाठे]
+086	He who has purified himself by sipping water shall, on seeing any impure (thing or person), always mutter the sacred texts, addressed to Surya, and the Pavamani (verses).

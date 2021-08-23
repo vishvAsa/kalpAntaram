@@ -2,7 +2,4 @@
 title = "057 तेषां स्वम्"
 
 +++
-तेषां स्वं स्वम् अभिप्रायम्  
-उपलभ्य पृथक् पृथक् ।  
-समस्तानां च कार्येषु  
-विदध्याद् +धितम् आत्मनः  ॥ ७.५७ ॥
+057	Having (first) ascertained the opinion of each (minister) separately and (then the views) of all together, let him do what is (most) beneficial for him in his affairs.

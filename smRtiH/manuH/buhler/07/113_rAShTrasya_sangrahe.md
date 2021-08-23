@@ -2,7 +2,4 @@
 title = "113 राष्ट्रस्य सङ्ग्रहे"
 
 +++
-राष्ट्रस्य सङ्ग्रहे नित्यं  
-विधानम् इदम् आचरेत् ।  
-सुसङ्गृहीतराष्ट्रे हि  
-पार्थिवः सुखम् एधते  ॥ ७.११३ ॥ [११४ मेधातिथिपाठे]
+113	In governing his kingdom let him always observe the (following) rules; for a king who governs his kingdom well, easily prospers.

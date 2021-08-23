@@ -2,8 +2,4 @@
 title = "035 चूडाकर्म द्विजातीनाम्"
 
 +++
-
-चूडाकर्म द्विजातीनां  
-सर्वेषाम् एव धर्मतः ।  
-प्रथमे ऽब्दे तृतीये वा  
-कर्तव्यं श्रुतिचोदनात् [मेधातिथिपाठः - श्रुतिनोदनात्]  ॥ २.३५ ॥
+035	According to the teaching of the revealed texts, the Kudakarman (tonsure) must be performed, for the sake of spiritual merit, by all twice-born men in the first or third year.

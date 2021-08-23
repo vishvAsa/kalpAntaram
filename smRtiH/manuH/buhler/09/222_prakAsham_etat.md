@@ -2,7 +2,4 @@
 title = "222 प्रकाशम् एतत्"
 
 +++
-प्रकाशम् एतत् तास्कर्यं  
-यद् देवन-समाह्वयौ ।  
-तयोर् नित्यं प्रतीघाते  
-नृपतिर् यत्नवान् भवेत्  ॥ ९.२२२ ॥
+222	Gambling and betting amount to open theft; the king shall always exert himself in suppressing both (of them).

@@ -2,7 +2,4 @@
 title = "029 ततो दुर्गम्"
 
 +++
-ततो दुर्गं च राष्ट्रं च  
-लोकं च स-चराचरम् ।  
-अन्तरिक्षगतांश् चैव  
-मुनीन् देवांश् च पीडयेत्  ॥ ७.२९ ॥
+029	Next it will afflict his castles, his territories, the whole world together with the movable and immovable (creation), likewise the sages and the gods, who (on the failure of offerings) ascend to the sky.

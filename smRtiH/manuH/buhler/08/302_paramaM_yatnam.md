@@ -2,7 +2,4 @@
 title = "302 परमं यत्नम्"
 
 +++
-परमं यत्नम् आतिष्ठेत्  
-स्तेनानां निग्रहे नृपः ।  
-स्तेनानां निग्रहाद् अस्य  
-यशो राष्ट्रं च वर्धते  ॥ ८.३०२ ॥
+302	Let the king exert himself to the utmost to punish thieves; for, if he punishes thieves, his fame grows and his kingdom prospers.

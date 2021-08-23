@@ -2,8 +2,4 @@
 title = "229 तेषान् त्रयाणाम्"
 
 +++
-
-तेषां त्रयाणां शुश्रूषा  
-परमं तप उच्यते ।  
-न तैर् अनभ्यनुज्ञातो  
-धर्मम् अन्यं समाचरेत्  ॥ २.२२९ ॥
+229	Obedience towards those three is declared to be the best (form of) austerity; let him not perform other meritorious acts without their permission.

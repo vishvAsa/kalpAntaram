@@ -2,7 +2,4 @@
 title = "082 उभाभ्याम् अप्य्"
 
 +++
-उभाभ्याम् अप्य् अजीवंस् तु  
-कथं स्याद् इति चेद् भवेत् ।  
-कृषि-गोरक्षम् आस्थाय  
-जीवेद् वैश्यस्य जीविकाम्  ॥ १०.८२ ॥
+082	If it be asked, 'How shall it be, if he cannot maintain himself by either (of these occupations?' the answer is), he may adopt a Vaisya's mode of life, employing himself in agriculture and rearing cattle.

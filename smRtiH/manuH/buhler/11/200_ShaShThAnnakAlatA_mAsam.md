@@ -2,7 +2,4 @@
 title = "200 षष्ठान्नकालता मासम्"
 
 +++
-षष्ठान्नकालता मासं  
-संहिताजप एव वा ।  
- होमाश् च सकला नित्यम्  
-अपाङ्क्त्यानां विशोधनम् [मेधातिथिपाठः - होमाश् च शाकला]  ॥ ११.२०० ॥ [१९९ मेधातिथिपाठे]
+201	To eat during a month at each sixth mealtime (only), to recite the Samhita (of a Veda), and (to perform) daily the Sakala oblations, are the means of purifying those excluded from society at repasts (Apanktya).

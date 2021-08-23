@@ -2,7 +2,4 @@
 title = "139 यस्य मित्र-प्रधानानि"
 
 +++
-यस्य मित्र-प्रधानानि  
-श्राद्धानि च हवींषि च ।  
-तस्य प्रेत्य फलं नाऽस्ति  
-श्राद्धेषु च हविःषु च  ॥ ३.१३९ ॥ [१२९ मेधातिथिपाठे]+++(4)+++
+139	He who performs funeral sacrifices and offerings to the gods chiefly for the sake of (gaining) friends, reaps after death no reward for Sraddhas and sacrifices.

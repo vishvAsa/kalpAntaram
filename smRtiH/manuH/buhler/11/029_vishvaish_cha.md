@@ -2,7 +2,4 @@
 title = "029 विश्वैश् च"
 
 +++
-विश्वैश् च देवैः साध्यैश् च  
-ब्राह्मणैश् च महर्षिभिः ।  
-आपत्सु मरणाद् भीतैर्  
-विधेः प्रतिनिधिः कृतः  ॥ ११.२९ ॥ [२८ मेधातिथिपाठे]
+029	By the Visve-devas, by the Sadhyas, and by the great sages (of the) Brahmana (caste), who were afraid of perishing in times of distress, a substitute was made for the (principal) rule.

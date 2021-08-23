@@ -2,7 +2,4 @@
 title = "272 राष्ट्रेषु रक्षाधिकृतान्"
 
 +++
-राष्ट्रेषु रक्षाधिकृतान्  
-सामन्तांश् चैव चोदितान् ।  
-अभ्याघातेषु मध्यस्थाञ्  
-शिष्याच् चौरान् इव द्रुतम्  ॥ ९.२७२ ॥
+272	Those who are appointed to guard provinces and his vassals who have been ordered (to help), he shall speedily punish like thieves, (if they remain) inactive in attacks (by robbers).

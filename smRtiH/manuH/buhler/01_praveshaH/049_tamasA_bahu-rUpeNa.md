@@ -2,8 +2,4 @@
 title = "049 तमसा बहु-रूपेण"
 
 +++
-
-तमसा बहु-रूपेण  
-वेष्टिताः कर्महेतुना ।  
-अन्तः-सञ्ज्ञा भवन्त्य् एते  
-सुख-दुःख-समन्विताः  ॥ १.४९ ॥
+049	These (plants) which are surrounded by multiform Darkness, the result of their acts (in former existences), possess internal consciousness and experience pleasure and pain.

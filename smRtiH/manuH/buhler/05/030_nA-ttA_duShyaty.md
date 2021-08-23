@@ -2,7 +2,4 @@
 title = "030 नाऽत्ता दुष्यत्य्"
 
 +++
-नाऽत्ता दुष्यत्य् अदन्न् आद्यान्  
-प्राणिनो ऽहन्य् अहन्य् अपि ।  
-धात्रैव सृष्टा ह्य् आद्याश् च  
-प्राणिनो ऽत्तार एव च  ॥ ५.३० ॥
+030	The eater who daily even devours those destined to be his food, commits no sin; for the creator himself created both the eaters and those who are to be eaten (for those special purposes).

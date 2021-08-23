@@ -2,7 +2,4 @@
 title = "405 भाण्डपूर्णानि यानानि"
 
 +++
-भाण्डपूर्णानि यानानि  
-तार्यं दाप्यानि सारतः ।  
-रिक्तभाण्डानि यत् किं चित्  
-पुमांसश् चाऽपरिच्छदाः  ॥ ८.४०५ ॥
+405	Carts (laden) with vessels full (of merchandise) shall be made to pay toll at a ferry according to the value (of the goods), empty vessels and men without luggage some trifle.

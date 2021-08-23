@@ -2,7 +2,4 @@
 title = "043 नश्यतीषुर् यथा"
 
 +++
-नश्यतीषुर् यथा विद्धः  
-खे विद्धम् अनुविध्यतः ।  
-तथा नश्यति वै क्षिप्रं  
-बीजं परपरिग्रहे [मेधातिथिपाठः - क्षिप्तं]  ॥ ९.४३ ॥
+043	As the arrow, shot by (a hunter) who afterwards hits a wounded (deer) in the wound (made by another), is shot in vain, even so the seed, sown on what belongs to another, is quickly lost (to the sower).

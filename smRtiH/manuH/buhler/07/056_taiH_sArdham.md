@@ -2,7 +2,4 @@
 title = "056 तैः सार्धम्"
 
 +++
-तैः सार्धं चिन्तयेन् नित्यं  
-सामान्यं सन्धि-विग्रहम् ।  
-स्थानं समुदयं गुप्तिं  
-लब्धप्रशमनानि च  ॥ ७.५६ ॥
+056	Let him daily consider with them the ordinary (business, referring to) peace and war, (the four subjects called) sthana, the revenue, the (manner of) protecting (himself and his kingdom), and the sanctification of his gains (by pious gifts).

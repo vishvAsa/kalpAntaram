@@ -2,7 +2,4 @@
 title = "387 एतेषान् निग्रहो"
 
 +++
-एतेषां निग्रहो राज्ञः  
-पञ्चानां विषये स्वके ।  
-सांराज्यकृत् सजात्येषु  
-लोके चैव यशस्करः  ॥ ८.३८७ ॥
+387	The suppression of those five in his dominions secures to a king paramount sovereignty among his peers and fame in the world.

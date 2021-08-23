@@ -2,8 +2,4 @@
 title = "171 न सीदन्न्"
 
 +++
-
-न सीदन्न् अपि धर्मेण  
-मनो ऽधर्मे निवेशयेत् ।  
-अधार्मिकानां पापानाम्  
-आशु पश्यन् विपर्ययम्  ॥ ४.१७१ ॥+++(5)+++  
+171	Let him, though suffering in consequence of his righteousness, never turn his heart to unrighteousness; for he will see the speedy overthrow of unrighteous, wicked men.

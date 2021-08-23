@@ -2,8 +2,4 @@
 title = "219 मुण्डो वा"
 
 +++
-
-मुण्डो वा जटिलो वा स्याद्  
-अथ वा स्याच् छिखा-जटः ।  
-नैनं ग्रामे ऽभिनिम्लोचेत्  
-सूर्यो नाऽभ्युदियात् क्व चित्  ॥ २.२१९ ॥
+219	A (student) may either shave his head, or wear his hair in braids, or braid one lock on the crown of his head; the sun must never set or rise while he (lies asleep) in the village.

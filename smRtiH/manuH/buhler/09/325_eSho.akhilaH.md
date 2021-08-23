@@ -2,7 +2,4 @@
 title = "325 एषो ऽखिलः"
 
 +++
-एषो ऽखिलः कर्मविधिर्  
-उक्तो राज्ञः सनातनः ।  
-इमं कर्मविधिं विद्यात्  
-क्रमशो वैश्य-शूद्रयोः  ॥ ९.३२५ ॥
+325	Thus the eternal law concerning the duties of a king has been fully declared; know that the following rules apply in (due) order to the duties of Vaisyas and Sudras.

@@ -2,7 +2,4 @@
 title = "112 आतुराम् अभिशस्ताम्"
 
 +++
-आतुराम् अभिशस्तां वा  
-चौर-व्याघ्रादिभिर् भयैः ।  
-पतितां पङ्कलग्नं वा  
-सर्वोपायैर् विमोचयेत् [क्:सर्वप्राणैर्]  ॥ ११.११२ ॥ [१११ मेधातिथिपाठे]
+113	(When a cow is) sick, or is threatened by danger from thieves, tigers, and the like, or falls, or sticks in a morass, he must relieve her by all possible means:

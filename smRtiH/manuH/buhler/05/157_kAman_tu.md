@@ -2,7 +2,4 @@
 title = "157 कामन् तु"
 
 +++
-कामं तु क्षपयेद् देहं  
-पुष्प-मूल-फलैः शुभैः ।  
-न तु नामाऽपि गृह्णीयात्  
-पत्यौ प्रेते परस्य तु  ॥ ५.१५७ ॥ [१५५ मेधातिथिपाठे]
+157	At her pleasure let her emaciate her body by (living on) pure flowers, roots, and fruit; but she must never even mention the name of another man after her husband has died.

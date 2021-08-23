@@ -2,7 +2,4 @@
 title = "106 सर्वेषाम् एव"
 
 +++
-सर्वेषाम् एव शौचानाम्  
-अर्थशौचं परं स्मृतं ।  
-यो ऽर्थे शुचिर् हि स शुचिर्  
-न मृद्-वारि-शुचिः शुचिः  ॥ ५.१०६ ॥ [१०५ मेधातिथिपाठे]
+106	Among all modes of purification, purity in (the acquisition of) wealth is declared to be the best; for he is pure who gains wealth with clean hands, not he who purifies himself with earth and water.

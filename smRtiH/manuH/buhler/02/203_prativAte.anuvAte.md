@@ -2,8 +2,4 @@
 title = "203 प्रतिवाते ऽनुवाते"
 
 +++
-
-प्रतिवाते ऽनुवाते च  
-नासीत गुरुणा सह [मेधातिथिपाठः - प्रतिवातानुवाते] ।  
-असंश्रवे चैव गुरोर्  
-न किं चिद् अपि कीर्तयेत्  ॥ २.२०३ ॥
+203	Let him not sit with his teacher, to the leeward or to the windward (of him); nor let him say anything which his teacher cannot hear.

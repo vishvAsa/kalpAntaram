@@ -2,7 +2,4 @@
 title = "040 अन्यद् उप्तम्"
 
 +++
-अन्यद् उप्तं जातम् अन्यद्  
-इत्य् एतन् नोपपद्यते ।  
-उप्यते यद् +धि यद् बीजं  
-तत् तद् एव प्ररोहति  ॥ ९.४० ॥
+040	That one (plant) should be sown and another be produced cannot happen; whatever seed is sown, (a plant of) that kind even comes forth.

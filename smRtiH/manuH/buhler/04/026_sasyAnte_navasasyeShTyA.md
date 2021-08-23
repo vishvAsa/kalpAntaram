@@ -2,8 +2,4 @@
 title = "026 सस्यान्ते नवसस्येष्ट्या"
 
 +++
-
-सस्यान्ते नवसस्येष्ट्या  
-तथार्त्व्-अन्ते द्विजो ऽध्वरैः ।  
-पशुना त्व् अयनस्यादौ  
-समान्ते सौमिकैर् मखैः [मेधातिथिपाठः - अयनान्ते तु समान्ते]  ॥ ४.२६ ॥  
+026	When the old grain has been consumed the (Agrayana) Ishti with new grain, at the end of the (three) seasons the (Katurmasya-) sacrifices, at the solstices an animal (sacrifice), at the end of the year Soma-offerings.

@@ -2,7 +2,4 @@
 title = "121 उपसर्जनम् प्रधानस्य"
 
 +++
-उपसर्जनं प्रधानस्य  
-धर्मतो नोपपद्यते ।  
-पिता प्रधानं प्रजने  
-तस्माद् धर्मेण तं भजेत्  ॥ ९.१२१ ॥
+121	The representative (the son begotten on the wife) is not invested with the right of the principal (the eldest brother to an additional share); the principal (became) a father on the procreation (of a son by his younger brother); hence one should give a share to the (son begotten on the wife of the elder brother) according to the rule (stated above).

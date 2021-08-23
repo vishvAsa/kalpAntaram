@@ -2,7 +2,4 @@
 title = "078 स्वभावेनैव यद्"
 
 +++
-स्वभावेनैव यद् ब्रूयुस्  
-तद् ग्राह्यं व्यावहारिकम् ।  
-अतो यद् अन्यद् विब्रूयुर्  
-धर्मार्थं तद् अपार्थकम्  ॥ ८.७८ ॥
+078	What witnesses declare quite naturally, that must be received on trials; (depositions) differing from that, which they make improperly, are worthless for (the purposes of) justice.

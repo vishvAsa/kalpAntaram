@@ -2,7 +2,4 @@
 title = "019 तथा च"
 
 +++
-तथा च श्रुतयो बह्व्यो  
-निगीता निगमेष्व् अपि ।  
-स्वालक्षण्यपरीक्षार्थं  
-तासां शृणुत निष्कृतीः  ॥ ९.१९ ॥
+019	And to this effect many sacred texts are sung also in the Vedas, in order to (make) fully known the true disposition (of women); hear (now those texts which refer to) the expiation of their (sins).

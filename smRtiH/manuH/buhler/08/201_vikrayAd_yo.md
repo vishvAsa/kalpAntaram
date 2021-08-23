@@ -2,7 +2,4 @@
 title = "201 विक्रयाद् यो"
 
 +++
-विक्रयाद् यो धनं किं चिद्  
-गृह्णीयत् कुलसंनिधौ ।  
-क्रयेण स विशुद्धं हि  
-न्यायतो लभते धनम्  ॥ ८.२०१ ॥
+201	He who obtains a chattel in the market before a number (of witnesses), acquires that chattel with a clear legal title by purchase.

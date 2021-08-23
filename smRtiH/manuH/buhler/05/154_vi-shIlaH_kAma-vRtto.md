@@ -2,7 +2,4 @@
 title = "154 वि-शीलः काम-वृत्तो"
 
 +++
-वि-शीलः काम-वृत्तो वा  
-गुणैर् वा परिवर्जितः ।  
-उपचार्यः स्त्रिया साध्व्या  
-सततं देववत् पतिः  ॥ ५.१५४ ॥ [१५२ मेधातिथिपाठे]
+154	Though destitute of virtue, or seeking pleasure (elsewhere), or devoid of good qualities, (yet) a husband must be constantly worshipped as a god by a faithful wife.

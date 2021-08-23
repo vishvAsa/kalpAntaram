@@ -2,7 +2,4 @@
 title = "205 नोन्मत्ताया न"
 
 +++
-नोन्मत्ताया न कुष्ठिन्या  
-न च या स्पृष्ट-मैथुना ।  
-पूर्वं दोषान् अभिख्याप्य  
-प्रदाता दण्डम् अर्हति  ॥ ८.२०५ ॥
+205	He who gives (a damsel in marriage), having first openly declared her blemishes, whether she be insane, or afflicted with leprosy, or have lost her virginity, is not liable to punishment.

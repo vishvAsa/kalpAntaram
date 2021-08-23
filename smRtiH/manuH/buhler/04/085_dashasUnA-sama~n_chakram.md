@@ -2,8 +2,4 @@
 title = "085 दशसूना-समञ् चक्रम्"
 
 +++
-
-दशसूना-समं चक्रं  
-दशचक्र-समो ध्वजः ।  
-दशध्वज-समो वेशो  
-दशवेश-समो नृपः  ॥ ४.८५ ॥  
+085	One oil-press is as (bad) as ten slaughter-houses, one tavern as (bad as) ten oil-presses, one brothel as (bad as) ten taverns, one king as (bad as) ten brothels.

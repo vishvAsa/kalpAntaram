@@ -2,7 +2,4 @@
 title = "259 दातारो नो"
 
 +++
-दातारो नो ऽभिवर्धन्तां  
-वेदाः सन्ततिर् एव च ।  
-श्रद्धा च नो मा व्यगमद्  
-बहुदेयं च नो ऽस्त्व् इति  ॥ ३.२५९ ॥ [२४९ मेधातिथिपाठे]+++(5)+++
+259	'May liberal men abound with us! May (our knowledge of) the Vedas and (our) progeny increase! May faith not forsake us! May we have much to give (to the needy)!'

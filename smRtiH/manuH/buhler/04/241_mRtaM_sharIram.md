@@ -2,8 +2,4 @@
 title = "241 मृतं शरीरम्"
 
 +++
-
-मृतं शरीरम् उत्सृज्य  
-काष्ठ-लोष्ट-समं क्षितौ ।  
-विमुखा बान्धवा यान्ति  
-धर्मस् तम् अनुगच्छति  ॥ ४.२४१ ॥ [२४२ मेधातिथिपाठे]  
+241	Leaving the dead body on the ground like a log of wood, or a clod of earth, the relatives depart with averted faces; but spiritual merit follows the (soul).

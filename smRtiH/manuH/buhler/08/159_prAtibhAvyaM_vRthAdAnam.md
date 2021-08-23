@@ -2,7 +2,4 @@
 title = "159 प्रातिभाव्यं वृथादानम्"
 
 +++
-प्रातिभाव्यं वृथादानम्  
-आक्षिकं सौरिकां च यत् ।  
-दण्ड-शुल्कावशेषं च  
-न पुत्रो दातुम् अर्हति  ॥ ८.१५९ ॥
+159	But money due by a surety, or idly promised, or lost at play, or due for spirituous liquor, or what remains unpaid of a fine and a tax or duty, the son (of the party owing it) shall not be obliged to pay.

@@ -2,8 +2,4 @@
 title = "019 कुरुक्षेत्रञ् च"
 
 +++
-
-कुरुक्षेत्रं च मत्स्याश् च  
-पञ्चालाः शूरसेनकाः ।  
-एष ब्रह्मर्षिदेशो वै  
-ब्रह्मावर्ताद् अनन्तरः  ॥ २.१९ ॥
+019	The plain of the Kurus, the (country of the) Matsyas, Pankalas, and Surasenakas, these (form), indeed, the country of the Brahmarshis (Brahmanical sages, which ranks) immediately after Brahmavarta.

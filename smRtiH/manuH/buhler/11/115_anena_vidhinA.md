@@ -2,7 +2,4 @@
 title = "115 अनेन विधिना"
 
 +++
-अनेन विधिना यस् तु  
-गोघ्नो गाम् अनुगच्छति ।  
-स गोहत्याकृतं पापं  
-त्रिभिर् मासैर् व्यपोहति  ॥ ११.११५ ॥ [११४ मेधातिथिपाठे]
+116	The slayer of a cow who serves cows in this manner, removes after three months the guilt which he incurred by killing a cow.

@@ -2,7 +2,4 @@
 title = "179 एषा पापकृताम्"
 
 +++
-एषा पापकृताम् उक्ता  
-चतुर्णाम् अपि निष्कृतिः ।  
-पतितैः संप्रयुक्तानाम्  
-इमाः शृणुत निष्कृतीः  ॥ ११.१७९ ॥ [१७८ मेधातिथिपाठे]
+180	The atonement (to be performed) by sinners (of) four (kinds) even, has been thus declared; hear now the penances for those who have intercourse with outcasts.

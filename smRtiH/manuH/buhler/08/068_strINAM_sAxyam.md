@@ -2,7 +2,4 @@
 title = "068 स्त्रीणां साक्ष्यम्"
 
 +++
-स्त्रीणां साक्ष्यं स्त्रियः कुर्युर्  
-द्विजानां सदृशा द्विजाः ।  
-शूद्राश् च सन्तः शूद्राणाम्  
-अन्त्यानाम् अन्त्य-योनयः  ॥ ८.६८ ॥
+068	Women should give evidence for women, and for twice-born men twice-born men (of the) same (kind), virtuous Sudras for Sudras, and men of the lowest castes for the lowest.

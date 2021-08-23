@@ -2,8 +2,4 @@
 title = "096 भूतानाम् प्राणिनः"
 
 +++
-
-भूतानां प्राणिनः श्रेष्ठाः  
-प्राणिनां बुद्धिजीविनः ।  
-बुद्धिमत्सु नराः श्रेष्ठा  
-नरेषु ब्राह्मणाः स्मृताः  ॥ १.९६ ॥
+096	Of created beings the most excellent are said to be those which are animated; of the animated, those which subsist by intelligence; of the intelligent, mankind; and of men, the Brahmanas;

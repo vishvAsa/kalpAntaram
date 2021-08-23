@@ -2,7 +2,4 @@
 title = "006 तपत्य् आदित्यवच्"
 
 +++
-तपत्य् आदित्यवच् चैष  
-चक्षूंषि च मनांसि च ।  
-न चैनं भुवि शक्नोति  
-कश् चिद् अप्य् अभिवीक्षितुम्  ॥ ७.६ ॥
+006	And, like the sun, he burns eyes and hearts; nor can anybody on earth even gaze on him.

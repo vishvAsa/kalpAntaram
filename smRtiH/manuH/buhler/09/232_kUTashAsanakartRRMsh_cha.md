@@ -2,7 +2,4 @@
 title = "232 कूटशासनकर्तॄंश् च"
 
 +++
-कूटशासनकर्तॄंश् च  
-प्रकृतीनां च दूषकान् ।  
-स्त्री-बाल-ब्राह्मणघ्नांश् च  
-हन्याद् द्विट्-सेविनस् तथा  ॥ ९.२३२ ॥
+232	Forgers of royal edicts, those who corrupt his ministers, those who slay women, infants, or Brahmanas, and those who serve his enemies, the king shall put to death.

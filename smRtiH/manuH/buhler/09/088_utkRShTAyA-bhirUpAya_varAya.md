@@ -2,7 +2,4 @@
 title = "088 उत्कृष्टायाऽभिरूपाय वराय"
 
 +++
-उत्कृष्टायाऽभिरूपाय  
-वराय सदृशाय च ।  
-अप्राप्ताम् अपि तां तस्मै  
-कन्यां दद्याद् यथाविधि  ॥ ९.८८ ॥
+088	To a distinguished, handsome suitor (of) equal (caste) should (a father) give his daughter in accordance with the prescribed rule, though she have not attained (the proper age).

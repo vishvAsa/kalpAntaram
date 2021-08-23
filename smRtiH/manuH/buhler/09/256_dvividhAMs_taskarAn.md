@@ -2,7 +2,4 @@
 title = "256 द्विविधांस् तस्करान्"
 
 +++
-द्विविधांस् तस्करान् विद्यात्  
-परद्रव्यापहारकान् ।  
-प्रकाशांश् चाऽप्रकाशांश् च  
-चार-चक्षुर् महीपतिः  ॥ ९.२५६ ॥
+256	Let the king who sees (everything) through his spies, discover the two sorts of thieves who deprive others of their property, both those who (show themselves) openly and those who (lie) concealed.

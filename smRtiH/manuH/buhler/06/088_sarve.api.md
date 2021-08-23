@@ -2,7 +2,4 @@
 title = "088 सर्वे ऽपि"
 
 +++
-सर्वे ऽपि क्रमशस् त्व् एते  
-यथाशास्त्रं निषेविताः ।  
-यथोक्त-कारिणं विप्रं  
-नयन्ति परमां गतिम्  ॥ ६.८८ ॥
+088	But all (or) even (any of) these orders, assumed successively in accordance with the Institutes (of the sacred law), lead the Brahmana who acts by the preceding (rules) to the highest state.

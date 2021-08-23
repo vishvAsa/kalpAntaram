@@ -2,7 +2,4 @@
 title = "068 पञ्च सूना"
 
 +++
-पञ्च सूना गृहस्थस्य  
-चुल्ली पेषण्य् उपस्करः ।  
-कण्डनी चोदकुम्भश् च  
-बध्यते यास् तु वाहयन् [मेधातिथिपाठः - वध्यते]  ॥ ३.६८ ॥ [५८ मेधातिथिपाठे]
+068	A householder has five slaughter-houses (as it were, viz.) the hearth, the grinding-stone, the broom, the pestle and mortar, the water-vessel, by using which he is bound (with the fetters of sin).

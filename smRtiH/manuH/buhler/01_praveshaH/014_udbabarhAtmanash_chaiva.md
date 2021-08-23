@@ -2,8 +2,4 @@
 title = "014 उद्बबर्हात्मनश् चैव"
 
 +++
-
-उद्बबर्हात्मनश् चैव  
-मनः सद्-असद्-आत्मकम् ।  
-मनसश् चाऽप्य् अहङ्कारम्  
-अभिमन्तारम् ईश्वरम् [मेधातिथिपाठः - अहङ्कारम्]  ॥ १.१४ ॥
+014	From himself (atmanah) he also drew forth the mind, which is both real and unreal, likewise from the mind egoism, which possesses the function of self-consciousness (and is) lordly;

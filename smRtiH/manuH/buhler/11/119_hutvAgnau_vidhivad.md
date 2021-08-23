@@ -2,7 +2,4 @@
 title = "119 हुत्वाग्नौ विधिवद्"
 
 +++
-हुत्वाग्नौ विधिवद् +धोमान्  
-अन्ततश् च समेत्य् ऋचा ।  
-वातेन्द्र-गुरु-वह्नीनां  
-जुहुयात् सर्पिषाहुतीः  ॥ ११.११९ ॥ [११८ मेधातिथिपाठे]
+120	Having offered according to the rule oblations in the fire, he shall finally offer (four) oblations of clarified butter to Vata, to Indra, to the teacher (of the gods, Brihaspati) and to Agni, reciting the Rik verse 'May the Maruts grant me,' &c.

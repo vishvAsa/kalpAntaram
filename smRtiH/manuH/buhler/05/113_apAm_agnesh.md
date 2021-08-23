@@ -2,7 +2,4 @@
 title = "113 अपाम् अग्नेश्"
 
 +++
-अपाम् अग्नेश् च संयोगाद्  
-धैमं रौप्यं च निर्बभौ ।  
-तस्मात् तयोः स्वयोन्यैव  
-निर्णेको गुणवत्तरः  ॥ ५.११३ ॥ [११२ मेधातिथिपाठे]
+113	From the union of water and fire arose the glittering gold and silver; those two, therefore, are best purified by (the elements) from which they sprang.

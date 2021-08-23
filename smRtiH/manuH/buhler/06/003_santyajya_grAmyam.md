@@ -2,7 +2,4 @@
 title = "003 सन्त्यज्य ग्राम्यम्"
 
 +++
-सन्त्यज्य ग्राम्यम् आहारं  
-सर्वं चैव परिच्छदम् ।  
-पुत्रेषु भार्यां निक्षिप्य  
-वनं गच्छेत् सहैव वा  ॥ ६.३ ॥
+003	Abandoning all food raised by cultivation, and all his belongings, he may depart into the forest, either committing his wife to his sons, or accompanied by her.

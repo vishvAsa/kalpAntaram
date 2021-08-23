@@ -2,8 +2,4 @@
 title = "034 अहम् प्रजाः"
 
 +++
-
-अहं प्रजाः सिसृक्षुस् तु  
-तपस् तप्त्वा सु-दुश्चरम् ।  
-पतीन् प्रजानाम् असृजं  
-महर्षीन् आदितो दश  ॥ १.३४ ॥
+034	Then I, desiring to produce created beings, performed very difficult austerities, and (thereby) called into existence ten great sages, lords of created beings,

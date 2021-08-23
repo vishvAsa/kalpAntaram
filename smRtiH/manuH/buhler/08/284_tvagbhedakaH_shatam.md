@@ -2,7 +2,4 @@
 title = "284 त्वग्भेदकः शतम्"
 
 +++
-त्वग्भेदकः शतं दण्ड्यो  
-लोहितस्य च दर्शकः ।  
-मांसभेत्ता तु षण्-निष्कान्  
-प्रवास्यस् त्व् अस्थिभेदकः  ॥ ८.२८४ ॥
+284	He who breaks the skin (of an equal) or fetches blood (from him) shall be fined one hundred (panas), he who cuts a muscle six nishkas, he who breaks a bone shall be banished.

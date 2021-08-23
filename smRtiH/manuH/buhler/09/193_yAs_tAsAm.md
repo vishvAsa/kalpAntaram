@@ -2,7 +2,4 @@
 title = "193 यास् तासाम्"
 
 +++
-यास् तासां स्युर् दुहितरस्  
-तासाम् अपि यथार्हतः [ह्: तस्यां] ।  
-मातामह्या धनात् किं चित्  
-प्रदेयं प्रीतिपूर्वकम्  ॥ ९.१९३ ॥
+193	Even to the daughters of those (daughters) something should be given, as is seemly, out of the estate of their maternal grandmother, on the score of affection.

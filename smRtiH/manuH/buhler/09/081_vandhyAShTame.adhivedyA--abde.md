@@ -2,7 +2,4 @@
 title = "081 वन्ध्याष्टमे ऽधिवेद्या-ऽअब्दे"
 
 +++
-वन्ध्याष्टमे ऽधिवेद्या-ऽअब्दे  
-दशमे तु मृत-प्रजा ।  
-एकादशे स्त्रीजननी  
-सद्यस् त्व् अप्रियवादिनी  ॥ ९.८१ ॥
+081	A barren wife may be superseded in the eighth year, she whose children (all) die in the tenth, she who bears only daughters in the eleventh, but she who is quarrelsome without delay.

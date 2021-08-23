@@ -2,7 +2,4 @@
 title = "041 अगाराद् अभिनिष्क्रान्तः"
 
 +++
-अगाराद् अभिनिष्क्रान्तः  
-पवित्रोपचितो मुनिः ।  
-समुपोढेषु कामेषु  
-निर्-अपेक्षः परिव्रजेत्  ॥ ६.४१ ॥
+041	Departing from his house fully provided with the means of purification (Pavitra), let him wander about absolutely silent, and caring nothing for enjoyments that may be offered (to him).

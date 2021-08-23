@@ -2,7 +2,4 @@
 title = "056 ब्रह्मोज्झता वेदनिन्दा"
 
 +++
-ब्रह्मोज्झता वेदनिन्दा  
-कौटसाक्ष्यं सुहृद्वधः ।  
-गर्हितानाद्ययोर् जग्धिः  
-सुरापानसमानि षट्  ॥ ११.५६ ॥ [५५ मेधातिथिपाठे]
+057	Forgetting the Veda, reviling the Vedas, giving false evidence, slaying a friend, eating forbidden food, or (swallowing substances) unfit for food, are six (offences) equal to drinking Sura.

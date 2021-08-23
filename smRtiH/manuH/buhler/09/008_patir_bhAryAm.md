@@ -2,7 +2,4 @@
 title = "008 पतिर् भार्याम्"
 
 +++
-पतिर् भार्यां संप्रविश्य  
-गर्भो भूत्वेह जायते ।  
-जायायास् तद् +धि जायात्वं  
-यद् अस्यां जायते पुनः  ॥ ९.८ ॥
+008	The husband, after conception by his wife, becomes an embryo and is born again of her; for that is the wifehood of a wife (gaya), that he is born (gayate) again by her.

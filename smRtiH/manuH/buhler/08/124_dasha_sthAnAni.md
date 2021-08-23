@@ -2,7 +2,4 @@
 title = "124 दश स्थानानि"
 
 +++
-दश स्थानानि दण्डस्य  
-मनुः स्वयंभुवो ऽब्रवीत् ।  
-त्रिषु वर्णेषु यानि स्युर्  
-अक्षतो ब्राह्मणो व्रजेत्  ॥ ८.१२४ ॥
+124	Manu, the son of the Self-existent (Svayambhu), has named ten places on which punishment may be (made to fall) in the cases of the three (lower) castes (varna); but a Brahmana shall depart unhurt (from the country).

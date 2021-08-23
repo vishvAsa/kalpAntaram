@@ -2,8 +2,4 @@
 title = "076 विविधाश् चैव"
 
 +++
-
-विविधाश् चैव संपीडाः  
-काकोलूकैश् च भक्षणम् ।  
-करम्भवालुकातापान्  
-कुम्भीपाकांश् च दारुणान्  ॥ १२.७६ ॥
+076	And various torments, the (pain of) being devoured by ravens and owls, the heat of scorching sand, and the (torture of) being boiled in jars, which is hard to bear;

@@ -2,7 +2,4 @@
 title = "187 अनन्तरः सपिण्डाद्"
 
 +++
-अनन्तरः सपिण्डाद् यस्  
-तस्य तस्य धनं भवेत् ।  
-अत ऊर्ध्वं सकुल्यः स्याद्  
-आचार्यः शिष्य एव वा  ॥ ९.१८७ ॥
+187	Always to that (relative within three degrees) who is nearest to the (deceased) Sapinda the estate shall belong; afterwards a Sakulya shall be (the heir, then) the spiritual teacher or the pupil.

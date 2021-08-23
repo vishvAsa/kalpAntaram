@@ -2,8 +2,4 @@
 title = "037 ब्रह्मवर्चस-कामस्य कार्यो"
 
 +++
-
-ब्रह्मवर्चस-कामस्य  
-कार्यो विप्रस्य पञ्चमे ।  
-राज्ञो बलार्थिनः षष्ठे  
-वैश्यस्येहाऽर्थिनो ऽष्टमे  ॥ २.३७ ॥
+037	(The initiation) of a Brahmana who desires proficiency in sacred learning should take place in the fifth (year after conception), (that) of a Kshatriya who wishes to become powerful in the sixth, (and that) of a Vaisya who longs for (success in his) business in the eighth.

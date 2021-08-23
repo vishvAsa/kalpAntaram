@@ -2,7 +2,4 @@
 title = "005 वेतनस्यैव चादानम्"
 
 +++
-वेतनस्यैव चादानं  
-संविदश् च व्यतिक्रमः ।  
-क्रय-विक्रयानुशयो  
-विवादः स्वामि-पालयोः  ॥ ८.५ ॥
+005	(6) Non-payment of wages, (7) non-performance of agreements, (8) rescission of sale and purchase, (9) disputes between the owner (of cattle) and his servants,

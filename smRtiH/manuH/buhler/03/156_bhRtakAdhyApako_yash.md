@@ -2,7 +2,4 @@
 title = "156 भृतकाध्यापको यश्"
 
 +++
-भृतकाध्यापको यश् च  
-भृतकाध्यापितस् तथा ।  
-शूद्र-शिष्यो गुरुश् चैव  
-वाग्दुष्टः कुण्ड+++(=जारज)+++-गोलकौ+++(=व्यभिचारिविध्वासुतः)+++  ॥ ३.१५६ ॥ [१४६ मेधातिथिपाठे]
+156	He who teaches for a stipulated fee and he who is taught on that condition, he who instructs Sudra pupils and he whose teacher is a Sudra, he who speaks rudely, the son of an adulteress, and the son of a widow,

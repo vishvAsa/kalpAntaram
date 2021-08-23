@@ -2,7 +2,4 @@
 title = "303 इन्द्रस्याऽर्कस्य वायोश्"
 
 +++
-इन्द्रस्याऽर्कस्य वायोश् च  
-यमस्य वरुणस्य च ।  
-चन्द्रस्याऽग्नेः पृथिव्याश् च  
-तेजोवृत्तं नृपश् चरेत्  ॥ ९.३०३ ॥
+303	Let the king emulate the energetic action of Indra, of the Sun, of the Wind, of Yama, of Varuna, of the Moon, of the Fire, and of the Earth.

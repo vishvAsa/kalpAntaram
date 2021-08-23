@@ -2,7 +2,4 @@
 title = "085 मन्यन्ते वै"
 
 +++
-मन्यन्ते वै पापकृतो  
-न कश् चित् पश्यतीति नः ।  
-तांस् तु देवाः प्रपश्यन्ति  
-स्वस्यैवाऽन्तरपूरुषः  ॥ ८.८५ ॥
+085	'The wicked, indeed, say in their hearts, "Nobody sees us;" but the gods distinctly see them and the male within their own breasts.

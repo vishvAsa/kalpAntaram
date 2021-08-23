@@ -2,7 +2,4 @@
 title = "085 यदि स्वाश्"
 
 +++
-यदि स्वाश् चाऽपराश् चैव  
-विन्देरन् योषितो द्विजाः ।  
-तासां वर्णक्रमेण स्याज्  
-ज्येष्ठ्यं पूजा च वेश्म च  ॥ ९.८५ ॥
+085	If twice-born men wed women of their own and of other (lower castes), the seniority, honour, and habitation of those (wives) must be (settled) according to the order of the castes (varna).

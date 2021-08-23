@@ -2,7 +2,4 @@
 title = "035 विधाता शासिता"
 
 +++
-विधाता शासिता वक्ता  
-मैत्रो ब्राह्मण उच्यते ।  
-तस्मै नाऽकुशलं ब्रूयान्  
-न शुष्कां गिरम् ईरयेत्  ॥ ११.३५ ॥ [३४ मेधातिथिपाठे]
+035	The Brahmana is declared (to be) the creator (of the world), the punisher, the teacher, (and hence) a benefactor (of all created beings); to him let no man say anything unpropitious, nor use any harsh words.

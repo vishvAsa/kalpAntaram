@@ -2,7 +2,4 @@
 title = "152 कृतानुसाराद् अधिका"
 
 +++
-कृतानुसाराद् अधिका  
-व्यतिरिक्ता न सिध्यति ।  
-कुसीदपथम् आहुस् तं  
-पञ्चकं शतम् अर्हति  ॥ ८.१५२ ॥
+152	Stipulated interest beyond the legal rate, being against (the law), cannot be recovered; they call that a usurious way (of lending); (the lender) is (in no case) entitled to (more than) five in the hundred.

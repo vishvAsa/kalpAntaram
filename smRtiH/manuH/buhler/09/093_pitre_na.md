@@ -2,7 +2,4 @@
 title = "093 पित्रे न"
 
 +++
-पित्रे न दद्याच् छुल्कं तु  
-कन्याम् ऋतुमतीं हरन् ।  
-स च स्वाम्याद् अतिक्रामेद्  
-ऋतूनां प्रतिरोधनात्  ॥ ९.९३ ॥
+093	But he who takes (to wife) a marriageable damsel, shall not pay any nuptial fee to her father; for the (latter) will lose his dominion over her in consequence of his preventing (the legitimate result of the appearance of) her enemies.

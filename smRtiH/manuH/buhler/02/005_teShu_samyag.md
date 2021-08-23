@@ -2,8 +2,4 @@
 title = "005 तेषु सम्यग्"
 
 +++
-
-तेषु सम्यग् वर्तमानो  
-गच्छत्य् अमरलोकताम् ।  
-यथा सङ्कल्पितांश् चेह  
-सर्वान् कामान् समश्नुते  ॥ २.५ ॥
+005	He who persists in discharging these (prescribed duties) in the right manner, reaches the deathless state and even in this (life) obtains (the fulfilment of) all the desires that he may have conceived.

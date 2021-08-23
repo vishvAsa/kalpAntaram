@@ -2,7 +2,4 @@
 title = "147 बालया वा"
 
 +++
-बालया वा युवत्या वा  
-वृद्धया वापि योषिता ।  
-न स्वातन्त्र्येण कर्तव्यं  
-किं चिद् कार्यं गृहेष्व् अपि  ॥ ५.१४७ ॥ [१४५ मेधातिथिपाठे]
+147	By a girl, by a young woman, or even by an aged one, nothing must be done independently, even in her own house.

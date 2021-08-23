@@ -2,7 +2,4 @@
 title = "272 धर्मोपदेशन् दर्पेण"
 
 +++
-धर्मोपदेशं दर्पेण  
-विप्राणाम् अस्य कुर्वतः ।  
-तप्तम् आसेचयेत् तैलं  
-वक्त्रे श्रोत्रे च पार्थिवः [मेधातिथिपाठः - श्रौत्रे]  ॥ ८.२७२ ॥
+272	If he arrogantly teaches Brahmanas their duty, the king shall cause hot oil to be poured into his mouth and into his ears.

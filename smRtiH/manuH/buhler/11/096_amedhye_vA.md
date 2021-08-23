@@ -2,7 +2,4 @@
 title = "096 अमेध्ये वा"
 
 +++
-अमेध्ये वा पतेन् मत्तो  
-वैदिकं वाप्य् उदाहरेत् ।  
-अकार्यम् अन्यत् कुर्याद् वा  
-ब्राह्मणो मदमोहितः  ॥ ११.९६ ॥ [९५ मेधातिथिपाठे]
+097	A Brahmana, stupefied by drunkenness, might fall on something impure, or (improperly) pronounce Vedic (texts), or commit some other act which ought not to be committed.

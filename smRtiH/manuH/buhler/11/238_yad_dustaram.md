@@ -2,7 +2,4 @@
 title = "238 यद् दुस्तरम्"
 
 +++
-यद् दुस्तरं यद् दुरापं  
-यद् दुर्गं यच् च दुष्करम् ।  
-सर्वं तु तपसा साध्यं  
-तपो हि दुरतिक्रमम् [मेधातिथिपाठः - सर्वं तत् तपसा]  ॥ ११.२३८ ॥ [२३७ मेधातिथिपाठे]
+239	Whatever is hard to be traversed, whatever is hard to be attained, whatever is hard to be reached, whatever is hard to be performed, all (this) may be accomplished by austerities; for austerity (possesses a power) which it is difficult to surpass.

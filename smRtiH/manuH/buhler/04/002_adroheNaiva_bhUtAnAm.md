@@ -2,8 +2,4 @@
 title = "002 अद्रोहेणैव भूतानाम्"
 
 +++
-
-अद्रोहेणैव भूतानाम्  
-अल्पद्रोहेण वा पुनः ।  
-या वृत्तिस् तां समास्थाय  
-विप्रो जीवेद् अनापदि  ॥ ४.२ ॥+++(5)+++  
+002	A Brahmana must seek a means of subsistence which either causes no, or at least little pain (to others), and live (by that) except in times of distress.

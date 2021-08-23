@@ -2,7 +2,4 @@
 title = "128 अदण्ड्यान् दण्डयन्"
 
 +++
-अदण्ड्यान् दण्डयन् राजा  
-दण्ड्यांश् चैवाऽप्य् अदण्डयन् ।  
-अयशो महद् आप्नोति  
-नरकं चैव गच्छति  ॥ ८.१२८ ॥
+128	A king who punishes those who do not deserve it, and punishes not those who deserve it, brings great infamy on himself and (after death) sinks into hell.

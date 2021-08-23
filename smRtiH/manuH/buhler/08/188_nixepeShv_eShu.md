@@ -2,7 +2,4 @@
 title = "188 निक्षेपेष्व् एषु"
 
 +++
-निक्षेपेष्व् एषु सर्वेषु  
-विधिः स्यात् परिसाधने ।  
-स-मुद्रे नाप्नुयात् किं चिद्  
-यदि तस्मान् न संहरेत्  ॥ ८.१८८ ॥
+188	Such is the rule for obtaining back all those open deposits; in the case of a sealed deposit (the depositary) shall incur no (censure), unless he has taken out something.

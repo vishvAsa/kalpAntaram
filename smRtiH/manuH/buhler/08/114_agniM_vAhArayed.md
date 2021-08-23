@@ -2,7 +2,4 @@
 title = "114 अग्निं वाहारयेद्"
 
 +++
-अग्निं वाहारयेद् एनम्  
-अप्सु चैनं निमज्जयेत् ।  
-पुत्र-दारस्य वाप्य् एनं  
-शिरांसि स्पर्शयेत् पृथक्  ॥ ८.११४ ॥
+114	Or the (judge) may cause the (party) to carry fire or to dive under water, or severally to touch the heads of his wives and children.

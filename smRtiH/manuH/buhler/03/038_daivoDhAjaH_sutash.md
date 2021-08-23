@@ -2,7 +2,4 @@
 title = "038 दैवोढाजः सुतश्"
 
 +++
-दैवोढाजः सुतश् चैव  
-सप्त सप्त परावरान् ।  
-आर्षोढाजः सुतस् त्रींस् त्रीन्  
-षट् षट् कायोढजः सुतः  ॥ ३.३८ ॥
+038	The son born of a wife, wedded according to the Daiva rite, likewise (saves) seven ancestors and seven descendants, the son of a wife married by the Arsha rite three (in the ascending and descending lines), and the son of a wife married by the rite of Ka (Pragapati) six (in either line).

@@ -2,8 +2,4 @@
 title = "054 बहून् वर्षगणान्"
 
 +++
-
-बहून् वर्षगणान् घोरान्  
-नरकान् प्राप्य तत्क्षयात् ।  
-संसारान् प्रतिपद्यन्ते  
-महापातकिनस् त्व् इमान्  ॥ १२.५४ ॥
+054	Those who committed mortal sins (mahapataka), having passed during large numbers of years through dreadful hells, obtain, after the expiration of (that term of punishment), the following births.

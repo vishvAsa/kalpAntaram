@@ -2,8 +2,4 @@
 title = "217 मृष्यन्ति ये"
 
 +++
-
-मृष्यन्ति ये चोपपतिं  
-स्त्रीजितानां च सर्वशः ।+++(5)+++  
-अनिर्दशं+++(=दशदिनगमनात् पूर्वम्)+++ च प्रेतान्नम्  
-अतुष्टिकरम् एव च  ॥ ४.२१७ ॥ [२१८ मेधातिथिपाठे]  
+217	Nor (the food given) by those who knowingly bear with paramours (of their wives), and by those who in all matters are ruled by women, nor food (given by men) whose ten days of impurity on account of a death have not passed, nor that which is unpalatable.

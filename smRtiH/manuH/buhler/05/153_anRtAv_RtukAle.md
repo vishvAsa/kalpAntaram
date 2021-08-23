@@ -2,7 +2,4 @@
 title = "153 अनृताव् ऋतुकाले"
 
 +++
-अनृताव् ऋतुकाले च  
-मन्त्र-संस्कारकृत् पतिः ।  
-सुखस्य नित्यं दातेह  
-परलोके च योषितः  ॥ ५.१५३ ॥ [१५१ मेधातिथिपाठे]
+153	The husband who wedded her with sacred texts, always gives happiness to his wife, both in season and out of season, in this world and in the next.

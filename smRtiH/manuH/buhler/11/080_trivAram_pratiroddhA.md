@@ -2,7 +2,4 @@
 title = "080 त्रिवारम् प्रतिरोद्धा"
 
 +++
-त्रिवारं प्रतिरोद्धा वा  
-सर्वस्वम् अवजित्य वा [मेधातिथिपाठः - त्र्यवरं] ।  
-विप्रस्य तन्निमित्ते वा  
-प्राणालाभे विमुच्यते [मेधातिथिपाठः - प्राणालाभे ऽपि मुच्यते]  ॥ ११.८० ॥ [७९ मेधातिथिपाठे]
+081	If either he fights at least three times (against robbers in defence of) a Brahmana's (property), or reconquers the whole property of a Brahmana, or if he loses his life for such a cause, he is freed (from his guilt).

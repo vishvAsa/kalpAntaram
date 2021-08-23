@@ -2,7 +2,4 @@
 title = "083 शुद्ध्येद् विप्रो"
 
 +++
-शुद्ध्येद् विप्रो दशाहेन  
-द्वादशाहेन भूमिपः ।  
-वैश्यः पञ्चदशाहेन  
-शूद्रो मासेन शुध्यति  ॥ ५.८३ ॥ [८२ मेधातिथिपाठे]
+083	A Brahmana shall be pure after ten days, a Kshatriya after twelve, a Vaisya after fifteen, and a Sudra is purified after a month.

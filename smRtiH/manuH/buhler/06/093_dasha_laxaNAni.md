@@ -2,7 +2,4 @@
 title = "093 दश लक्षणानि"
 
 +++
-दश लक्षणानि धर्मस्य  
-ये विप्राः समधीयते ।  
-अधीत्य चाऽनुवर्तन्ते  
-ते यान्ति परमां गतिम्  ॥ ६.९३ ॥
+093	Those Brahmanas who thoroughly study the tenfold law, and after studying obey it, enter the highest state.

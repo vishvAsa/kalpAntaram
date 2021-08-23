@@ -2,7 +2,4 @@
 title = "040 सङ्करे जातयस्"
 
 +++
-संकरे जातयस् त्व् एताः  
-पितृ-मातृ-प्रदर्शिताः ।  
-प्रछन्ना वा प्रकाशा वा  
-वेदितव्याः स्वकर्मभिः  ॥ १०.४० ॥
+040	These races, (which originate) in a confusion (of the castes and) have been described according to their fathers and mothers, may be known by their occupations, whether they conceal or openly show themselves.

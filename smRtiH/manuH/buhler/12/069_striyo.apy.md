@@ -2,8 +2,4 @@
 title = "069 स्त्रियो ऽप्य्"
 
 +++
-
-स्त्रियो ऽप्य् एतेन कल्पेन  
-हृत्वा दोषम् अवाप्नुयुः ।  
-एतेषाम् एव जन्तूनां  
-भार्यात्वम् उपयान्ति ताः  ॥ १२.६९ ॥
+069	Women, also, who in like manner have committed a theft, shall incur guilt; they will become the females of those same creatures (which have been enumerated above).

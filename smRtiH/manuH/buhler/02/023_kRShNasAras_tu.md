@@ -2,8 +2,4 @@
 title = "023 कृष्णसारस् तु"
 
 +++
-
-कृष्णसारस् तु चरति  
-मृगो यत्र स्वभावतः ।  
-स ज्ञेयो यज्ञियो देशो  
-म्लेच्छदेशस् त्व् अतः परः  ॥ २.२३ ॥
+023	That land where the black antelope naturally roams, one must know to be fit for the performance of sacrifices; (the tract) different from that (is) the country of the Mlekkhas (barbarians).

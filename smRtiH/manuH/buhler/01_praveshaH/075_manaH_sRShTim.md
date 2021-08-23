@@ -2,8 +2,4 @@
 title = "075 मनः सृष्टिम्"
 
 +++
-
-मनः सृष्टिं विकुरुते  
-चोद्यमानं सिसृक्षया ।  
-आकाशं जायते तस्मात्  
-तस्य शब्दं गुणं विदुः  ॥ १.७५ ॥
+075	Mind, impelled by (Brahman's) desire to create, performs the work of creation by modifying itself, thence ether is produced; they declare that sound is the quality of the latter.

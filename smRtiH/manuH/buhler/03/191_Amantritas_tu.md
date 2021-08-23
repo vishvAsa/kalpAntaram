@@ -2,7 +2,4 @@
 title = "191 आमन्त्रितस् तु"
 
 +++
-आमन्त्रितस् तु यः श्राद्धे  
-वृशल्या सह मोदते ।  
-दातुर् यद् दुष्कृतं किं चित्  
-तत् सर्वं प्रतिपद्यते  ॥ ३.१९१ ॥ [१८१ मेधातिथिपाठे]
+191	But he who, being invited to a Sraddha, dallies with a Sudra woman, takes upon himself all the sins which the giver (of the feast) committed.

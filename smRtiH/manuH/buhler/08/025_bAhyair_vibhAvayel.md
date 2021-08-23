@@ -2,7 +2,4 @@
 title = "025 बाह्यैर् विभावयेल्"
 
 +++
-बाह्यैर् विभावयेल् लिङ्गैर्  
-भावम् अन्तर्गतं नृणाम् ।  
-स्वर-वर्णेङ्गिताकारैश्  
-चक्षुषा चेष्टितेन च  ॥ ८.२५ ॥
+025	By external signs let him discover the internal disposition of men, by their voice, their colour, their motions, their aspect, their eyes, and their gestures.

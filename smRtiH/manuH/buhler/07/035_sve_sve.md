@@ -2,7 +2,4 @@
 title = "035 स्वे स्वे"
 
 +++
-स्वे स्वे धर्मे निविष्टानां  
-सर्वेषाम् अनुपूर्वशः ।  
-वर्णानाम् आश्रमाणां च  
-राजा सृष्टो ऽभिरक्षिता  ॥ ७.३५ ॥
+035	The king has been created (to be) the protector of the castes (varna) and orders, who, all according to their rank, discharge their several duties.

@@ -2,7 +2,4 @@
 title = "083 एकम् अप्य्"
 
 +++
-एकम् अप्य् आशयेद् विप्रं  
-पित्र्-अर्थे पाञ्चयज्ञिके [मेधातिथिपाठः - पित्र्-अर्थं] ।  
-न चैवाऽत्राशयेत् किं चिद्  
-वैश्वदेवं प्रति द्विजम्  ॥ ३.८३ ॥ [७३ मेधातिथिपाठे]
+083	Let him feed even one Brahmana in honour of the manes at (the Sraddha), which belongs to the five great sacrifices; but let him not feed on that (occasion) any Brahmana on account of the Vaisvadeva offering.

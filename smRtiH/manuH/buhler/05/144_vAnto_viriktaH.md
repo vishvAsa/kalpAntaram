@@ -2,7 +2,4 @@
 title = "144 वान्तो विरिक्तः"
 
 +++
-वान्तो विरिक्तः स्नात्वा तु  
-घृतप्राशनम् आचरेत् ।  
-आचामेद् एव भुक्त्वान्नं  
-स्नानं मैथुनिनः स्मृतम्  ॥ ५.१४४ ॥ [१४२ मेधातिथिपाठे]
+144	He who has vomited or purged shall bathe, and afterwards eat clarified butter; but if (the attack comes on) after he has eaten, let him only sip water; bathing is prescribed for him who has had intercourse with a woman.

@@ -2,7 +2,4 @@
 title = "198 अवहार्यो भवेच्"
 
 +++
-अवहार्यो भवेच् चैव  
-सान्वयः षट्शतं दमम् ।  
-निर्-अन्वयो ऽनपसरः  
-प्राप्तः स्याच् चौरकिल्बिषम्  ॥ ८.१९८ ॥
+198	If the (offender) is a kinsman (of the owner), he shall be fined six hundred panas; if he is not a kinsman, nor has any excuse, he shall be guilty of theft.

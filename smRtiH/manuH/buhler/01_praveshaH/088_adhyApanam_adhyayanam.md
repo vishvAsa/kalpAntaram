@@ -2,8 +2,4 @@
 title = "088 अध्यापनम् अध्ययनम्"
 
 +++
-
-अध्यापनम् अध्ययनं  
-यजनं याजनं तथा ।  
-दानं प्रतिग्रहं चैव  
-ब्राह्मणानाम् अकल्पयत्  ॥ १.८८ ॥
+088	To Brahmanas he assigned teaching and studying (the Veda), sacrificing for their own benefit and for others, giving and accepting (of alms).

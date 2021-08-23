@@ -2,8 +2,4 @@
 title = "170 अधार्मिको नरो"
 
 +++
-
-अधार्मिको नरो यो हि  
-यस्य चाऽप्य् अनृतं धनम् ।  
-हिंसा-रतश् च यो नित्यं  
-नेहाऽसौ सुखम् एधते [मेधातिथिपाठः - हिंसारतिश्]  ॥ ४.१७० ॥  
+170	Neither a man who (lives) unrighteously, nor he who (acquires) wealth (by telling) falsehoods, nor he who always delights in doing injury, ever attain happiness in this world.

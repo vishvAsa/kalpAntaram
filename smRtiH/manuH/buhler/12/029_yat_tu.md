@@ -2,8 +2,4 @@
 title = "029 यत् तु"
 
 +++
-
-यत् तु स्यान् मोहसंयुक्तम्  
-अव्यक्तं विषयात्मकम् ।  
-अप्रतर्क्यम् अविज्ञेयं  
-तमस् तद् उपधारयेत्  ॥ १२.२९ ॥
+029	What is coupled with delusion, what has the character of an undiscernible mass, what cannot be fathomed by reasoning, what cannot be fully known, one must consider (as the quality of) Darkness.

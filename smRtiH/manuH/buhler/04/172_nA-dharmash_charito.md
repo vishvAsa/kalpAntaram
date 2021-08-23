@@ -2,8 +2,4 @@
 title = "172 नाऽधर्मश् चरितो"
 
 +++
-
-नाऽधर्मश् चरितो लोके  
-सद्यः फलति गौर् इव ।  
-शनैर् आवर्त्यमानस् तु  
-कर्तुर् मूलानि कृन्तति  ॥ ४.१७२ ॥+++(5)+++  
+172	Unrighteousness, practised in this world, does not at once produce its fruit, like a cow; but, advancing slowly, it cuts off the roots of him who committed it.

@@ -2,7 +2,4 @@
 title = "040 बहवो ऽविनयान्"
 
 +++
-बहवो ऽविनयान् नष्टा  
-राजानः स-परिच्छदाः [मेधातिथिपाठः - स-परिग्रहाः] ।  
-वनस्था अपि राज्यानि  
-विनयात् प्रतिपेदिरे  ॥ ७.४० ॥
+040	Through a want of modesty many kings have perished, together with their belongings; through modesty even hermits in the forest have gained kingdoms.

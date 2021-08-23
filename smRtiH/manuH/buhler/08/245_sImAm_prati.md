@@ -2,7 +2,4 @@
 title = "245 सीमाम् प्रति"
 
 +++
-सीमां प्रति समुत्पन्ने  
-विवादे ग्रामयोर् द्वयोः ।  
-ज्येष्ठे मासि नयेत् सीमां  
-सु-प्रकाशेषु सेतुषु  ॥ ८.२४५ ॥
+245	If a dispute has arisen between two villages concerning a boundary, the king shall settle the limits in the month of Gyaishtha, when the landmarks are most distinctly visible.

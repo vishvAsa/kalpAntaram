@@ -2,7 +2,4 @@
 title = "258 उत्कोचकाश् चाऽउपधिका"
 
 +++
-उत्कोचकाश् चाऽउपधिका  
-वञ्चकाः कितवास् तथा ।  
-मङ्गलादेश-वृत्ताश् च  
-भद्राश् चेक्षणिकैः सह [मेधातिथिपाठः - भद्रप्रेक्षणिकैः सह]  ॥ ९.२५८ ॥
+258	Those who take bribes, cheats and rogues, gamblers, those who live by teaching (the performance of) auspicious ceremonies, sanctimonious hypocrites, and fortune-tellers,

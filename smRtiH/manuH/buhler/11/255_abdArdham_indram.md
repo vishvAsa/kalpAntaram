@@ -2,7 +2,4 @@
 title = "255 अब्दार्धम् इन्द्रम्"
 
 +++
-अब्दार्धम् इन्द्रम् इत्य् एतद्  
-एनस्वी सप्तकं जपेत् ।  
-अप्रशस्तं तु कृत्वाप्सु  
-मासम् आसीत भैक्षभुक्  ॥ ११.२५५ ॥ [२५४ मेधातिथिपाठे]
+256	A grievous offender shall mutter the seven verses (beginning with) 'Indra,' for half a year; but he who has committed any blamable act in water, shall subsist during a month on food obtained by begging.

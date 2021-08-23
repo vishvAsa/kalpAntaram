@@ -2,7 +2,4 @@
 title = "182 मार्गशीर्षे शुभे"
 
 +++
-मार्गशीर्षे शुभे मासि  
-यायाद् यात्रां महीपतिः ।  
-फाल्गुनं वाथ चैत्रं वा  
-मासौ प्रति यथाबलम्  ॥ ७.१८२ ॥ [१८३ मेधातिथिपाठे]
+182	Let the king undertake his march in the fine month Margasirsha, or towards the months of Phalguna and Kaitra, according to the (condition of his) army.

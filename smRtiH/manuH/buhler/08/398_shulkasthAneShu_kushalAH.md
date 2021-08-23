@@ -2,7 +2,4 @@
 title = "398 शुल्कस्थानेषु कुशलाः"
 
 +++
-शुल्कस्थानेषु कुशलाः  
-सर्वपण्य-विचक्षणाः ।  
-कुर्युर् अर्घं यथापण्यं  
-ततो विंशं नृपो हरेत्  ॥ ८.३९८ ॥
+398	Let the king take one-twentieth of that (amount) which men, well acquainted with the settlement of tolls and duties (and) skilful in (estimating the value of) all kinds of merchandise, may fix as the value for each saleable commodity.

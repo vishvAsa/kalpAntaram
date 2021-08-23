@@ -2,7 +2,4 @@
 title = "125 उपस्थम् उदरम्"
 
 +++
-उपस्थम् उदरं जिह्वा  
-हस्तौ पादौ च पञ्चमम् ।  
-चक्षुर् नासा च कर्णौ च  
-धनं देहस् तथैव च  ॥ ८.१२५ ॥
+125	(These are) the organ, the belly, the tongue, the two hands, and fifthly the two feet, the eye, the nose, the two ears, likewise the (whole) body.

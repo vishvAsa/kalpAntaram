@@ -2,7 +2,4 @@
 title = "024 न यज्ञार्थम्"
 
 +++
-न यज्ञार्थं धनं शूद्राद्  
-विप्रो भिक्षेत कर्हि चित् ।  
-यजमानो हि भिक्षित्वा  
-चण्डालः प्रेत्य जायते  ॥ ११.२४ ॥ [२३ मेधातिथिपाठे]
+024	A Brahmana shall never beg from a Sudra property for a sacrifice; for a sacrificer, having begged (it from such a man), after death is born (again) as a Kandala.

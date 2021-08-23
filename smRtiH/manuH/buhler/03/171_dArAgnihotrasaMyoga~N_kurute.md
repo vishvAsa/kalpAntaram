@@ -2,7 +2,4 @@
 title = "171 दाराग्निहोत्रसंयोगङ् कुरुते"
 
 +++
-दाराग्निहोत्रसंयोगं  
-कुरुते यो ऽग्रजे स्थिते ।  
-परिवेत्ता स विज्ञेयः  
-परिवित्तिस् तु पूर्वजः  ॥ ३.१७१ ॥ [१६१ मेधातिथिपाठे]
+171	He must be considered as a Parivettri who marries or begins the performance of the Agnihotra before his elder brother, but the latter as a Parivitti.

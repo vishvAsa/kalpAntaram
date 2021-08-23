@@ -2,7 +2,4 @@
 title = "131 एष धर्मविधिः"
 
 +++
-एष धर्मविधिः कृत्स्नश्  
-चातुर्वर्ण्यस्य कीर्तितः ।  
-अतः परं प्रवक्ष्यामि  
-प्रायश्चित्तविधिं शुभम्  ॥ १०.१३१ ॥
+131	Thus all the legal rules for the four castes have been proclaimed; I next will promulgate the auspicious rules for penances.

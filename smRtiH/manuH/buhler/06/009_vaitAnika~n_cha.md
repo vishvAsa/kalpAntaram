@@ -2,7 +2,4 @@
 title = "009 वैतानिकञ् च"
 
 +++
-वैतानिकं च जुहुयाद्  
-अग्निहोत्रं यथाविधि ।  
-दर्शम् अस्कन्दयन् पर्व  
-पौर्णमासं च योगतः  ॥ ६.९ ॥
+009	Let him offer, according to the law, the Agnihotra with three sacred fires, never omitting the new-moon and full-moon sacrifices at the proper time.

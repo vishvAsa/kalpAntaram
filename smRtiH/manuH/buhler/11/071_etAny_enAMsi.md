@@ -2,7 +2,4 @@
 title = "071 एतान्य् एनांसि"
 
 +++
-एतान्य् एनांसि सर्वाणि  
-यथोक्तानि पृथक् पृथक् ।  
-यैर् यैर् व्रतैर् अपोह्यन्ते  
-तानि सम्यङ् निबोधत  ॥ ११.७१ ॥ [७० मेधातिथिपाठे]
+072	Learn (now) completely those penances, by means of which all the several offences mentioned (can) be expiated.

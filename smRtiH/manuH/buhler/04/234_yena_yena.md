@@ -2,8 +2,4 @@
 title = "234 येन येन"
 
 +++
-
-येन येन तु भावेन  
-यद् यद् दानं प्रयच्छति ।  
-तत् तत् तेनैव भावेन  
-प्राप्नोति प्रतिपूजितः  ॥ ४.२३४ ॥ [२३५ मेधातिथिपाठे]  
+234	For whatever purpose (a man) bestows any gift, for that same purpose he receives (in his next birth) with due honour its (reward).

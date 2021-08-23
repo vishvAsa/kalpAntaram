@@ -2,7 +2,4 @@
 title = "274 काणं वाप्य्"
 
 +++
-काणं वाप्य् अथ वा खञ्जम्  
-अन्यं वापि तथाविधम् ।  
-तथ्येनाऽपि ब्रुवन् दाप्यो  
-दण्डं कार्षापणावरम्  ॥ ८.२७४ ॥
+274	He who even in accordance with the true facts (contemptuously) calls another man one-eyed, lame, or the like (names), shall be fined at least one karshapana.

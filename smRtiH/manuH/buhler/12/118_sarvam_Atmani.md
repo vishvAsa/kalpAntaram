@@ -2,8 +2,4 @@
 title = "118 सर्वम् आत्मनि"
 
 +++
-
-सर्वम् आत्मनि संपश्येत्  
-सच् चाऽसच् च समाहितः ।  
-सर्वं ह्य् आत्मनि संपश्यन्  
-नाऽधर्मे कुरुते मनः [मेधातिथिपाठः - मतिम्]  ॥ १२.११८ ॥
+118	Let (every Brahmana), concentrating his mind, fully recognise in the Self all things, both the real and the unreal, for he who recognises the universe in the Self, does not give his heart to unrighteousness.

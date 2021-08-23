@@ -2,7 +2,4 @@
 title = "122 पुत्रः कनिष्ठो"
 
 +++
-पुत्रः कनिष्ठो ज्येष्ठायां  
-कनिष्ठायां च पूर्वजः ।  
-कथं तत्र विभागः स्याद्  
-इति चेत् संशयो भवेत्  ॥ ९.१२२ ॥
+122	If there be a doubt, how the division shall be made, in case the younger son is born of the elder wife and the elder son of the younger wife,

@@ -2,7 +2,4 @@
 title = "108 वैश्वदेवे तु"
 
 +++
-वैश्वदेवे तु निर्वृत्ते  
-यद्य् अन्यो ऽतिथिर् आव्रजेत् ।  
-तस्याऽप्य् अन्नं यथाशक्ति  
-प्रदद्यान् न बलिं हरेत्  ॥ ३.१०८ ॥ [९८ मेधातिथिपाठे]
+108	But if another guest comes after the Vaisvadeva offering has been finished, (the householder) must give him food according to his ability, (but) not repeat the Bali offering.

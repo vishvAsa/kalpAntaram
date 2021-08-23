@@ -2,8 +2,4 @@
 title = "012 तस्मिन्न् अण्डे"
 
 +++
-
-तस्मिन्न् अण्डे स भगवान्  
-उषित्वा परिवत्सरम् ।  
-स्वयम् एवात्मनो ध्यानात्  
-तद् अण्डम् अकरोद् द्विधा  ॥ १.१२ ॥
+012	The divine one resided in that egg during a whole year, then he himself by his thought (alone) divided it into two halves;

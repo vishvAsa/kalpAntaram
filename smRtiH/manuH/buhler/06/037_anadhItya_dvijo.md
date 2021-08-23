@@ -2,7 +2,4 @@
 title = "037 अनधीत्य द्विजो"
 
 +++
-अनधीत्य द्विजो वेदान्  
-अनुत्पाद्य तथा सुतान् [मेधातिथिपाठः - तथा प्रजाम्] ।  
-अनिष्ट्वा चैव यज्ञैश् च  
-मोक्षम् इच्छन् व्रजत्य् अधः  ॥ ६.३७ ॥
+037	A twice-born man who seeks final liberation, without having studied the Vedas, without having begotten sons, and without having offered sacrifices, sinks downwards.

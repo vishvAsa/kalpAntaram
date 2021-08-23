@@ -2,8 +2,4 @@
 title = "019 तौ धर्मम्"
 
 +++
-
-तौ धर्मं पश्यतस् तस्य  
-पापं चाऽतन्द्रितौ सह ।  
-याभ्यां प्राप्नोति संपृक्तः  
-प्रेत्येह च सुखासुखम्  ॥ १२.१९ ॥
+019	Those two together examine without tiring the merit and the guilt of that (individual soul), united with which it obtains bliss or misery both in this world and the next.

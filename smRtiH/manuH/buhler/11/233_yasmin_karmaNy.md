@@ -2,7 +2,4 @@
 title = "233 यस्मिन् कर्मण्य्"
 
 +++
-यस्मिन् कर्मण्य् अस्य कृते  
-मनसः स्याद् अलाघवम् ।  
-तस्मिंस् तावत् तपः कुर्याद्  
-यावत् तुष्टिकरं भवेत्  ॥ ११.२३३ ॥ [२३२ मेधातिथिपाठे]
+234	If his mind be uneasy with respect to any act, let him repeat the austerities (prescribed as a penance) for it until they fully satisfy (his conscience).

@@ -2,8 +2,4 @@
 title = "198 नीचं शय्यासनम्"
 
 +++
-
-नीचं शय्यासनं चास्य  
-नित्यं स्याद् गुरुसन्निधौ ।  
-गुरोस् तु चक्षुर्विषये  
-न यथेष्टासनो भवेत्  ॥ २.१९८ ॥
+198	When his teacher is nigh, let his bed or seat be low; but within sight of his teacher he shall not sit carelessly at ease.

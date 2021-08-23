@@ -2,7 +2,4 @@
 title = "151 वपनम् मेखला"
 
 +++
-वपनं मेखला दण्डो  
-भैक्षचर्या व्रतानि च [मेधातिथिपाठः - भैक्ष्यचर्या] ।  
-निवर्तन्ते द्विजातीनां  
-पुनःसंस्कारकर्मणि  ॥ ११.१५१ ॥ [१५० मेधातिथिपाठे]
+152	The tonsure, (wearing) the sacred girdle, (carrying) a staff, going to beg, and the vows (incumbent on a student), are omitted on the second initiation of twice-born men.

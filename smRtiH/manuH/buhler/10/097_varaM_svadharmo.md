@@ -2,8 +2,4 @@
 title = "097 वरं स्वधर्मो"
 
 +++
-वरं स्वधर्मो विगुणो  
-न पारक्यः स्वनुष्ठितः [मेधातिथिपाठः - विगुणः परधर्मात्  
-स्वधिष्ठितात्] ।  
-परधर्मेण जीवन् हि  
-सद्यः पतति जातितः  ॥ १०.९७ ॥
+097	It is better (to discharge) one's own (appointed) duty incompletely than to perform completely that of another; for he who lives according to the law of another (caste) is instantly excluded from his own.

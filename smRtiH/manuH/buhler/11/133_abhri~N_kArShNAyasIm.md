@@ -2,7 +2,4 @@
 title = "133 अभ्रिङ् कार्ष्णायसीम्"
 
 +++
-अभ्रिं कार्ष्णायसीं दद्यात्  
-सर्पं हत्वा द्विजोत्तमः ।  
-पलालभारकं षण्ढे  
-सैसकं चैकमाषकम्  ॥ ११.१३३ ॥ [१३२ मेधातिथिपाठे]
+134	For killing a snake, a Brahmana shall give a spade of black iron, for a eunuch a load of straw and a masha of lead;

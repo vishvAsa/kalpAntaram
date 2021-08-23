@@ -2,7 +2,4 @@
 title = "088 आदिष्टी नोदकम्"
 
 +++
-आदिष्टी नोदकं कुर्याद्  
-आ व्रतस्य समापनात् ।  
-समाप्ते तूदकं कृत्वा  
-त्रिरात्रेणैव शुध्यति  ॥ ५.८८ ॥ [८७ मेधातिथिपाठे]
+088	He who has undertaken the performance of a vow shall not pour out libations (to the dead) until the vow has been completed; but when he has offered water after its completion, he becomes pure in three days only.

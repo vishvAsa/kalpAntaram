@@ -2,7 +2,4 @@
 title = "118 अद्भिस् तु"
 
 +++
-अद्भिस् तु प्रोक्षणं शौचं  
-बहूनां धान्य-वाससाम् ।  
-प्रक्षालनेन त्व् अल्पानाम्  
-अद्भिः शौचं विधीयते  ॥ ५.११८ ॥ [११७ मेधातिथिपाठे]
+118	The manner of purifying large quantities of grain and of cloth is to sprinkle them with water; but the purification of small quantities is prescribed (to take place) by washing them.

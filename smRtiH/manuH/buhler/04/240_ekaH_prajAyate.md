@@ -2,8 +2,4 @@
 title = "240 एकः प्रजायते"
 
 +++
-
-एकः प्रजायते जन्तुर्  
-एक एव प्रलीयते ।  
-एको ऽनुभुङ्क्ते सुकृतम्  
-एक एव च दुष्कृतम्  ॥ ४.२४० ॥ [२४१ मेधातिथिपाठे]  
+240	Single is each being born; single it dies; single it enjoys (the reward of its) virtue; single (it suffers the punishment of its) sin.

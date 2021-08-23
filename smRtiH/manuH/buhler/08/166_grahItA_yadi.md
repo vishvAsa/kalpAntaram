@@ -2,7 +2,4 @@
 title = "166 ग्रहीता यदि"
 
 +++
-ग्रहीता यदि नष्टः स्यात्  
-कुटुम्बार्थे कृतो व्ययः [मेधातिथिपाठः - कुटुम्बे च] ।  
-दातव्यं बान्धवैस् तत् स्यात्  
-प्रविभक्तैर् अपि स्वतः  ॥ ८.१६६ ॥
+166	If the debtor be dead and (the money borrowed) was expended for the family, it must be paid by the relatives out of their own estate even if they are divided.

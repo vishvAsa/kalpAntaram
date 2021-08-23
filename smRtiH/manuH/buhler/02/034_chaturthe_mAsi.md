@@ -2,8 +2,4 @@
 title = "034 चतुर्थे मासि"
 
 +++
-
-चतुर्थे मासि कर्तव्यं  
-शिशोर् निष्क्रमणं गृहात् ।  
-षष्ठे ऽन्नप्राशनं मासि  
-यद् वेष्टं मङ्गलं कुले  ॥ २.३४ ॥
+034	In the fourth month the Nishkramana (the first leaving of the house) of the child should be performed, in the sixth month the Annaprasana (first feeding with rice), and optionally (any other) auspicious ceremony required by (the custom of) the family.

@@ -2,7 +2,4 @@
 title = "149 पित्रा भर्त्रा"
 
 +++
-पित्रा भर्त्रा सुतैर् वापि  
-नेच्छेद् विरहम् आत्मनः ।  
-एषां हि विरहेण स्त्री  
-गर्ह्ये कुर्याद् उभे कुले  ॥ ५.१४९ ॥ [१४७ मेधातिथिपाठे]
+149	She must not seek to separate herself from her father, husband, or sons; by leaving them she would make both (her own and her husband's) families contemptible.

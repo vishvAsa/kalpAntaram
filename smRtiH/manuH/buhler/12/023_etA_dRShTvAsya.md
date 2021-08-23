@@ -2,8 +2,4 @@
 title = "023 एता दृष्ट्वास्य"
 
 +++
-
-एता दृष्ट्वास्य जीवस्य  
-गतीः स्वेनैव चेतसा ।  
-धर्मतो ऽधर्मतश् चैव  
-धर्मे दध्यात् सदा मनः  ॥ १२.२३ ॥
+023	Let (man), having recognised even by means of his intellect these transitions of the individual soul (which depend) on merit and demerit, always fix his heart on (the acquisition of) merit.

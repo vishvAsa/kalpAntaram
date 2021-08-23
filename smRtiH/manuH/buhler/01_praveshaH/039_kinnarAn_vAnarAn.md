@@ -2,8 +2,4 @@
 title = "039 किन्नरान् वानरान्"
 
 +++
-
-किन्नरान् वानरान् मत्स्यान्  
-विविधांश् च विहङ्गमान् ।  
-पशून् मृगान् मनुष्यांश् च  
-व्यालांश् चोभयतोदतः  ॥ १.३९ ॥
+039	(Horse-faced) Kinnaras, monkeys, fishes, birds of many kinds, cattle, deer, men, and carnivorous beasts with two rows of teeth,

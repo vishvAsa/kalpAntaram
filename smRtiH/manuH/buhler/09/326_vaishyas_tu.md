@@ -2,7 +2,4 @@
 title = "326 वैश्यस् तु"
 
 +++
-वैश्यस् तु कृत-संस्कारः  
-कृत्वा दारपरिग्रहम् ।  
-वार्तायां नित्ययुक्तः स्यात्  
-पशूनां चैव रक्षणे  ॥ ९.३२६ ॥
+326	After a Vaisya has received the sacraments and has taken a wife, he shall be always attentive to the business whereby he may subsist and to (that of) tending cattle.

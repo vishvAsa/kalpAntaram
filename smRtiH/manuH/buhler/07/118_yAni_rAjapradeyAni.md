@@ -2,7 +2,4 @@
 title = "118 यानि राजप्रदेयानि"
 
 +++
-यानि राजप्रदेयानि  
-प्रत्यहं ग्रामवासिभिः ।  
-अन्न-पानेन्धनादीनि  
-ग्रामिकस् तान्य् अवाप्नुयात्  ॥ ७.११८ ॥ [११९ मेधातिथिपाठे]
+118	Those (articles) which the villagers ought to furnish daily to the king, such as food, drink, and fuel, the lord of one village shall obtain.

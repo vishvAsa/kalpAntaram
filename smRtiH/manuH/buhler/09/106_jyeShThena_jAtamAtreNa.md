@@ -2,7 +2,4 @@
 title = "106 ज्येष्ठेन जातमात्रेण"
 
 +++
-ज्येष्ठेन जातमात्रेण  
-पुत्री भवति मानवः ।  
-पितॄणाम् अनृणश् चैव  
-स तस्मात् सर्वम् अर्हति  ॥ ९.१०६ ॥
+106	Immediately on the birth of his first-born a man is (called) the father of a son and is freed from the debt to the manes; that (son), therefore, is worthy (to receive) the whole estate.

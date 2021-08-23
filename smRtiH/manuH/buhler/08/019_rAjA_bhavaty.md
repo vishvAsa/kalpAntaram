@@ -2,7 +2,4 @@
 title = "019 राजा भवत्य्"
 
 +++
-राजा भवत्य् अनेनास् तु  
-मुच्यन्ते च सभासदः ।  
-एनो गच्छति कर्तारं  
-निन्दार्हो यत्र निन्द्यते  ॥ ८.१९ ॥
+019	But where he who is worthy of condemnation is condemned, the king is free from guilt, and the judges are saved (from sin); the guilt falls on the perpetrator (of the crime alone).

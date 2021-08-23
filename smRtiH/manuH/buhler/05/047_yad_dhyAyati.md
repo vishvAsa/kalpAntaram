@@ -2,7 +2,4 @@
 title = "047 यद् ध्यायति"
 
 +++
-यद् ध्यायति यत् कुरुते  
-रतिं बध्नाति यत्र च ।  
-तद् अवाप्नोत्य् अयत्नेन  
-यो हिनस्ति न किं चन  ॥ ५.४७ ॥+++(5)+++
+047	He who does not injure any (creature), attains without an effort what he thinks of, what he undertakes, and what he fixes his mind on.

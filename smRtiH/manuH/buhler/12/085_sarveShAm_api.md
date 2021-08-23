@@ -2,8 +2,4 @@
 title = "085 सर्वेषाम् अपि"
 
 +++
-
-सर्वेषाम् अपि चैतेषाम्  
-आत्मज्ञानं परं स्मृतम् ।  
-तद् +ध्य् अग्र्यं सर्वविद्यानां  
-प्राप्यते ह्य् अमृतं ततः  ॥ १२.८५ ॥
+085	(The answer is that) the knowledge of the Soul is stated to be the most excellent among all of them; for that is the first of all sciences, because immortality is gained through that.

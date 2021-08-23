@@ -2,7 +2,4 @@
 title = "329 मणि-मुक्ता-प्रवालानां लोहानाम्"
 
 +++
-मणि-मुक्ता-प्रवालानां  
-लोहानां तान्तवस्य च ।  
-गन्धानां च रसानां च  
-विद्याद् अर्घ-बलाबलम्  ॥ ९.३२९ ॥
+329	(A Vaisya) must know the respective value of gems, of pearls, of coral, of metals, of (cloth) made of thread, of perfumes, and of condiments.

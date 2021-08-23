@@ -2,7 +2,4 @@
 title = "187 स त्व्"
 
 +++
-स त्व् अप्सु तं घटं प्रास्य  
-प्रविश्य भवनं स्वकम् ।  
-सर्वाणि ज्ञातिकार्याणि  
-यथापूर्वं समाचरेत्  ॥ ११.१८७ ॥ [१८६ मेधातिथिपाठे]
+188	But he shall throw that pot into water, enter his house and perform, as before, all the duties incumbent on a relative.

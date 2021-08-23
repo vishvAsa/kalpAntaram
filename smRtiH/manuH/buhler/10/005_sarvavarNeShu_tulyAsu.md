@@ -2,7 +2,4 @@
 title = "005 सर्ववर्णेषु तुल्यासु"
 
 +++
-सर्ववर्णेषु तुल्यासु  
-पत्नीष्व् अक्षत-योनिषु ।  
-आनुलोम्येन संभूता  
-जात्या ज्ञेयास् त एव ते  ॥ १०.५ ॥
+005	In all castes (varna) those (children) only which are begotten in the direct order on wedded wives, equal (in caste and married as) virgins, are to be considered as belonging to the same caste (as their fathers)

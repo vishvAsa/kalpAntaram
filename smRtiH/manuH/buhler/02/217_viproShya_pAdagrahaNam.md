@@ -2,8 +2,4 @@
 title = "217 विप्रोष्य पादग्रहणम्"
 
 +++
-
-विप्रोष्य पादग्रहणम्  
-अन्वहं चाऽभिवादनम् ।  
-गुरुदारेषु कुर्वीत  
-सतां धर्मम् अनुस्मरन्  ॥ २.२१७ ॥
+217	On returning from a journey he must clasp the feet of his teacher's wife and daily salute her (in the manner just mentioned), remembering the duty of the virtuous.

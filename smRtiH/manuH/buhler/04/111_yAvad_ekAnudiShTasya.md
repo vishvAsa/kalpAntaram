@@ -2,8 +2,4 @@
 title = "111 यावद् एकानुदिष्टस्य"
 
 +++
-
-यावद् एकानुदिष्टस्य  
-गन्धो लेपश् च तिष्ठति ।  
-विप्रस्य विदुषो देहे  
-तावद् ब्रह्म न कीर्तयेत्  ॥ ४.१११ ॥  
+111	As long as the smell and the stains of the (food given) in honour of one ancestor remain on the body of a learned Brahmana, so long he must not recite the Veda.

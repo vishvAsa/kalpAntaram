@@ -2,7 +2,4 @@
 title = "227 भक्ष्यम् भोज्यम्"
 
 +++
-भक्ष्यं भोज्यं च विविधं  
-मूलानि च फलानि च ।  
-हृद्यानि चैव मांसानि  
-पानानि सुरभीणि च  ॥ ३.२२७ ॥ [२१७ मेधातिथिपाठे]
+227	(As well as) various (kinds of) hard food which require mastication, and of soft food, roots, fruits, savoury meat, and fragrant drinks.

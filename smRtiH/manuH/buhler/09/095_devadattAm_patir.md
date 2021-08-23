@@ -2,7 +2,4 @@
 title = "095 देवदत्ताम् पतिर्"
 
 +++
-देवदत्तां पतिर् भार्यां  
-विन्दते नेच्छयात्मनः ।  
-तां साध्वीं बिभृयान् नित्यं  
-देवानां प्रियम् आचरन्  ॥ ९.९५ ॥
+095	The husband receives his wife from the gods, (he does not wed her) according to his own will; doing what is agreeable to the gods, he must always support her (while she is) faithful.

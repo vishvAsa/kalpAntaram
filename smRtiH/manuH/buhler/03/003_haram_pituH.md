@@ -2,7 +2,4 @@
 title = "003 हरम् पितुः"
 
 +++
-+++(पिता ऽपरो ऽपि वा)+++ तं प्रतीतं स्वधर्मेण  
-ब्रह्म-दाय-+++(उभय)+++हरं पितुः ।  
-स्रग्विणं तल्प आसीनम्  
-अर्हयेत् प्रथमं गवा  ॥ ३.३ ॥
+003	He who is famous for (the strict performance of) his duties and has received his heritage, the Veda, from his father, shall be honoured, sitting on a couch and adorned with a garland, with (the present of) a cow (and the honey-mixture).

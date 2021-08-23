@@ -2,7 +2,4 @@
 title = "069 यस्या म्रियेत"
 
 +++
-यस्या म्रियेत कन्याया  
-वाचा सत्ये कृते पतिः ।  
-ताम् अनेन विधानेन  
-निजो विन्देत देवरः  ॥ ९.६९ ॥
+069	If the (future) husband of a maiden dies after troth verbally plighted, her brother-in-law shall wed her according to the following rule.

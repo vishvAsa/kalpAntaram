@@ -2,7 +2,4 @@
 title = "233 हर्षयेद् ब्राह्मणांस्"
 
 +++
-हर्षयेद् ब्राह्मणांस् तुष्टो  
-भोजयेच् च शनैः-शनैः ।  
-अन्नाद्येनाऽसकृच् चैतान्  
-गुणैश् च परिचोदयेत्  ॥ ३.२३३ ॥ [२२३ मेधातिथिपाठे]
+233	Himself being delighted, let him give delight to the Brahmanas, cause them to partake gradually and slowly (of each dish), and repeatedly invite (them to eat) by (offering) the food and (praising) its qualities.

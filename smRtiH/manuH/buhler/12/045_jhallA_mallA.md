@@ -2,8 +2,4 @@
 title = "045 झल्ला मल्ला"
 
 +++
-
-झल्ला मल्ला नटाश् चैव  
-पुरुषाः शस्त्र-वृत्तयः ।  
-द्यूत-पान-प्रसक्ताश् च  
-जघन्या राजसी गतिः  ॥ १२.४५ ॥
+045	Ghallas, Mallas, Natas, men who subsist by despicable occupations and those addicted to gambling and drinking (form) the lowest (order of) conditions caused by Activity.

@@ -2,7 +2,4 @@
 title = "263 आयुष्मन्तं सुतम्"
 
 +++
-आयुष्मन्तं सुतं सूते  
-यशो-मेधासमन्वितम् ।  
-धनवन्तं प्रजावन्तं  
-सात्त्विकं धार्मिकं तथा  ॥ ३.२६३ ॥ [२५३ मेधातिथिपाठे]
+263	(Thus) she will bring forth a son who will be long-lived, famous, intelligent, rich, the father of numerous offspring, endowed with (the quality of) goodness, and righteous.

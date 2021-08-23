@@ -2,8 +2,4 @@
 title = "087 वैदिके कर्मयोगे"
 
 +++
-
-वैदिके कर्मयोगे तु  
-सर्वाण्य् एतान्य् अशेषतः ।  
-अन्तर्भवन्ति क्रमशस्  
-तस्मिंस् तस्मिन् क्रियाविधौ  ॥ १२.८७ ॥
+087	For in the performance of the acts prescribed by the Veda all those (others) are fully comprised, (each) in its turn in the several rules for the rites.

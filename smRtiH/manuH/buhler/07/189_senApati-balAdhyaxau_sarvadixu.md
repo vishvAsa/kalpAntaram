@@ -2,7 +2,4 @@
 title = "189 सेनापति-बलाध्यक्षौ सर्वदिक्षु"
 
 +++
-सेनापति-बलाध्यक्षौ  
-सर्वदिक्षु निवेशयेत् ।  
-यतश् च भयम् आशङ्केत्  
-प्राचीं तां कल्पयेद् दिशम्  ॥ ७.१८९ ॥ [१९० मेधातिथिपाठे]
+189	Let him allot to the commander-in-chief, to the (subordinate) general, (and to the superior officers) places in all directions, and let him turn his front in that direction whence he fears danger.

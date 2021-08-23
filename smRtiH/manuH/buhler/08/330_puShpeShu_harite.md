@@ -2,7 +2,4 @@
 title = "330 पुष्पेषु हरिते"
 
 +++
-पुष्पेषु हरिते धान्ये  
-गुल्म-वल्ली-नगेषु च ।  
-अन्येष्व् अपरिपूतेषु  
-दण्डः स्यात् पञ्चकृष्णलः  ॥ ८.३३० ॥
+330	For flowers, green corn, shrubs, creepers, trees, and other unhusked (grain) the fine (shall be) five krishnalas.

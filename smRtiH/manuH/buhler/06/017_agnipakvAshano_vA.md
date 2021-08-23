@@ -2,7 +2,4 @@
 title = "017 अग्निपक्वाशनो वा"
 
 +++
-अग्निपक्वाशनो वा स्यात्  
-कालपक्वभुग् एव वा ।  
-अश्म-कुट्टो भवेद् वापि  
-दन्तोलूखलिको ऽपि वा  ॥ ६.१७ ॥
+017	He may eat either what has been cooked with fire, or what has been ripened by time; he either may use a stone for grinding, or his teeth may be his mortar.

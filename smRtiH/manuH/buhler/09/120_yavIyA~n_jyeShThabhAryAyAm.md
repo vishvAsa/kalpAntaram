@@ -2,7 +2,4 @@
 title = "120 यवीयाञ् ज्येष्ठभार्यायाम्"
 
 +++
-यवीयाञ् ज्येष्ठभार्यायां  
-पुत्रम् उत्पादयेद् यदि ।  
-समस् तत्र विभागः स्याद्  
-इति धर्मो व्यवस्थितः  ॥ ९.१२० ॥
+120	If a younger brother begets a son on the wife of the elder, the division must then be made equally; this the law is settled.

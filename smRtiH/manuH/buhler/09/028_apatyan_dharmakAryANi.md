@@ -2,7 +2,4 @@
 title = "028 अपत्यन् धर्मकार्याणि"
 
 +++
-अपत्यं धर्मकार्याणि  
-शुश्रूषा रतिर् उत्तमा ।  
-दाराधीनस् तथा स्वर्गः  
-पितॄणाम् आत्मनश् च ह  ॥ ९.२८ ॥
+028	Offspring, (the due performance on religious rites, faithful service, highest conjugal happiness and heavenly bliss for the ancestors and oneself, depend on one's wife alone.

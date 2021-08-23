@@ -2,7 +2,4 @@
 title = "181 यो येन"
 
 +++
-यो येन पतितेनैषां  
-संसर्गं याति मानवः ।  
-स तस्यैव व्रतं कुर्यात्  
-तत्संसर्गविशुद्धये  ॥ ११.१८१ ॥ [१८० मेधातिथिपाठे]
+182	He who associates with any one of those outcasts, must perform, in order to atone for (such) intercourse, the penance prescribed for that (sinner).

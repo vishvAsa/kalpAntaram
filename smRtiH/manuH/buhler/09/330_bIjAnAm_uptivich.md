@@ -2,7 +2,4 @@
 title = "330 बीजानाम् उप्तिविच्"
 
 +++
-बीजानाम् उप्तिविच् च स्यात्  
-क्षेत्रदोष-गुणस्य च ।  
-मानयोगं च जानीयात्  
-तुलायोगांश् च सर्वशः  ॥ ९.३३० ॥
+330	He must be acquainted with the (manner of) sowing of seeds, and of the good and bad qualities of fields, and he must perfectly know all measures and weights.

@@ -2,7 +2,4 @@
 title = "141 द्विकं शतम्"
 
 +++
-द्विकं शतं वा गृह्णीयात्  
-सतां धर्मम् अनुस्मरन् ।  
-द्विकं शतं हि गृह्णानो  
-न भवत्य् अर्थकिल्बिषी  ॥ ८.१४१ ॥
+141	Or, remembering the duty of good men, he may take two in the hundred (by the month), for he who takes two in the hundred becomes not a sinner for gain.

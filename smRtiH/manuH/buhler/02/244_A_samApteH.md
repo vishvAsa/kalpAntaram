@@ -2,8 +2,4 @@
 title = "244 आ समाप्तेः"
 
 +++
-
-आ समाप्तेः शरीरस्य  
-यस् तु शुश्रूषते गुरुम् ।  
-स गच्छत्य् अञ्जसा विप्रो  
-ब्रह्मणः सद्म शाश्वतम्  ॥ २.२४४ ॥
+244	A Brahmana who serves his teacher till the dissolution of his body, reaches forthwith the eternal mansion of Brahman.

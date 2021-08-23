@@ -2,7 +2,4 @@
 title = "163 समान-यानकर्मा च"
 
 +++
-समान-यानकर्मा च  
-विपरीतस् तथैव च ।  
-तदा त्व् आयतिसंयुक्तः  
-सन्धिर् ज्ञेयो द्विलक्षणः  ॥ ७.१६३ ॥ [१६४ मेधातिथिपाठे]
+163	An alliance which yields present and future advantages, one must know to be of two descriptions, (viz.) that when one marches together (with an ally) and the contrary (when the allies act separately).

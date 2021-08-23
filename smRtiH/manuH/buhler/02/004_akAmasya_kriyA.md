@@ -2,8 +2,4 @@
 title = "004 अकामस्य क्रिया"
 
 +++
-
-अकामस्य क्रिया का चिद्  
-दृश्यते नेह कर्हि चित् ।  
-यद् यद् +धि कुरुते किं चित्  
-तत् तत् कामस्य चेष्टितम्  ॥ २.४ ॥
+004	Not a single act here (below) appears ever to be done by a man free from desire; for whatever (man) does, it is (the result of) the impulse of desire.

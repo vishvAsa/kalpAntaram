@@ -2,7 +2,4 @@
 title = "163 एक एवाऽउरसः"
 
 +++
-एक एवाऽउरसः पुत्रः  
-पित्र्यस्य वसुनः प्रभुः ।  
-शेषाणाम् आनृशंस्यार्थं  
-प्रदद्यात् तु प्रजीवनम्  ॥ ९.१६३ ॥
+163	The legitimate son of the body alone (shall be) the owner of the paternal estate; but, in order to avoid harshness, let him allow a maintenance to the rest.

@@ -2,7 +2,4 @@
 title = "095 जीवेद् एतेन"
 
 +++
-जीवेद् एतेन राजन्यः  
-सर्वेणाऽप्य् अनयं गतः ।  
-न त्व् एव ज्यायंसीं वृत्तिम्  
-अभिमन्येत कर्हि चित्  ॥ १०.९५ ॥
+095	A Kshatriya who has fallen into distress, may subsist by all these (means); but he must never arrogantly adopt the mode of life (prescribed for his) betters.

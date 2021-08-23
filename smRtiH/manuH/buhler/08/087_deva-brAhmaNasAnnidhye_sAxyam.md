@@ -2,7 +2,4 @@
 title = "087 देव-ब्राह्मणसान्निध्ये साक्ष्यम्"
 
 +++
-देव-ब्राह्मणसांनिध्ये  
-साक्ष्यं पृच्छेद् ऋतं द्विजान् ।  
-उदङ्-मुखान् प्राङ्-मुखान् वा  
-पूर्वाह्णे वै शुचिः शुचीन्  ॥ ८.८७ ॥
+087	The (judge), being purified, shall ask in the forenoon the twice-born (witnesses) who (also have been) purified, (and stand) facing the north or the east, to give true evidence in the presence of (images of) the gods and of Brahmanas.

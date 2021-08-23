@@ -2,7 +2,4 @@
 title = "074 यजेत वाश्वमेधेन"
 
 +++
-यजेत वाश्वमेधेन  
-स्वर्जिता गोसवेन वा ।  
-अभिजिद्-विश्वजिद्भ्यां वा  
-त्रिवृताग्निष्टुतापि वा  ॥ ११.७४ ॥ [७३ मेधातिथिपाठे]
+075	Or he may offer a horse-sacrifice, a Svargit, a Gosava, an Abhigit, a Visvagit, a Trivrit, or an Agnishtut;

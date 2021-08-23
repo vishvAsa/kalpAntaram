@@ -2,8 +2,4 @@
 title = "146 मङ्गलाचारयुक्तानान् नित्यम्"
 
 +++
-
-मङ्गलाचारयुक्तानां  
-नित्यं च प्रयतात्मनाम् ।  
-जपतां जुह्वतां चैव  
-विनिपातो न विद्यते  ॥ ४.१४६ ॥  
+146	No calamity happens to those who eagerly follow auspicious customs and the rule of good conduct, to those who are always careful of purity, and to those who mutter (sacred texts) and offer burnt-oblations.

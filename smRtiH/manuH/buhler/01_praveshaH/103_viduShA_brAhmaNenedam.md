@@ -2,8 +2,4 @@
 title = "103 विदुषा ब्राह्मणेनेदम्"
 
 +++
-
-विदुषा ब्राह्मणेनेदम्  
-अध्येतव्यं प्रयत्नतः ।  
-शिश्येभ्यश् च प्रवक्तव्यं  
-सम्यङ् नाऽन्येन केन चित्  ॥ १.१०३ ॥
+103	A learned Brahmana must carefully study them, and he must duly instruct his pupils in them, but nobody else (shall do it).

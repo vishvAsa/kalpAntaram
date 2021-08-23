@@ -2,7 +2,4 @@
 title = "126 पणो देयो"
 
 +++
-पणो देयो ऽवकृष्टस्य  
-षड् उत्कृष्टस्य वेतनम् ।  
-षाण्मासिकस् तथाच्छादो  
-धान्यद्रोणस् तु मासिकः  ॥ ७.१२६ ॥ [१२७ मेधातिथिपाठे]
+126	One pana must be given (daily) as wages to the lowest, six to the highest, likewise clothing every six months and one drona of grain every month.

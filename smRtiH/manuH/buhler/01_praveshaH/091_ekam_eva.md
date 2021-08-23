@@ -2,8 +2,4 @@
 title = "091 एकम् एव"
 
 +++
-
-एकम् एव तु शूद्रस्य  
-प्रभुः कर्म समादिशत् ।  
-एतेषाम् एव वर्णानां  
-शुश्रूषाम् अनसूयया  ॥ १.९१ ॥
+091	One occupation only the lord prescribed to the Sudra, to serve meekly even these (other) three castes.

@@ -2,7 +2,4 @@
 title = "160 धनुः-शराणाङ् कर्ता"
 
 +++
-धनुः-शराणां कर्ता च  
-यश् चाऽग्रेदिधिषूपतिः ।  
-मित्रध्रुग् द्यूत-वृत्तिश् च  
-पुत्राचार्यस् तथैव च  ॥ ३.१६० ॥ [१५० मेधातिथिपाठे]
+160	A maker of bows and of arrows, he who lasciviously dallies with a brother's widow, the betrayer of a friend, one who subsists by gambling, he who learns (the Veda) from his son,

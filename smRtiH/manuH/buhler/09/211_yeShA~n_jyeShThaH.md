@@ -2,7 +2,4 @@
 title = "211 येषाञ् ज्येष्ठः"
 
 +++
-येषां ज्येष्ठः कनिष्ठो वा  
-हीयेताऽंशप्रदानतः ।  
-म्रियेताऽन्यतरो वापि  
-तस्य भागो न लुप्यते  ॥ ९.२११ ॥
+211	If the eldest or the youngest (brother) is deprived of his share, or if either of them dies, his share is not lost (to his immediate heirs).

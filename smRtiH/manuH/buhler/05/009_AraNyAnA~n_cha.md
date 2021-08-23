@@ -2,7 +2,4 @@
 title = "009 आरण्यानाञ् च"
 
 +++
-आरण्यानां च सर्वेषां  
-मृगाणां माहिषं विना ।  
-स्त्रीक्षीरं चैव वर्ज्यानि  
-सर्व-शुक्तानि+++(=आम्लानि)+++ चैव हि  ॥ ५.९ ॥
+009	(The milk) of all wild animals excepting buffalo-cows, that of women, and all (substances turned) sour must be avoided.

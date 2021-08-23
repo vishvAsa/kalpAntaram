@@ -2,7 +2,4 @@
 title = "067 नार्तो न"
 
 +++
-नार्तो न मत्तो नोन्मत्तो  
-न क्षुत्-तृष्णोपपीडितः ।  
-न श्रमार्तो न कामार्तो  
-न क्रुद्धो नाऽपि तस्करः  ॥ ८.६७ ॥
+067	Nor one extremely grieved, nor one intoxicated, nor a madman, nor one tormented by hunger or thirst, nor one oppressed by fatigue, nor one tormented by desire, nor a wrathful man, nor a thief.

@@ -2,8 +2,4 @@
 title = "017 यन् मूर्त्य्-अवयवाः"
 
 +++
-
-यन् मूर्त्य्-अवयवाः सूक्ष्मास्  
-तानीमान्य् आश्रयन्ति षट् ।  
-तस्माच् छरीरम् इत्य् आहुस्  
-तस्य मूर्तिं मनीषिणः  ॥ १.१७ ॥
+017	Because those six (kinds of) minute particles, which form the (creator's) frame, enter (a-sri) these (creatures), therefore the wise call his frame sarira, (the body.)

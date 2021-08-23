@@ -2,7 +2,4 @@
 title = "048 पैशुन्यं साहसम्"
 
 +++
-पैशुन्यं साहसं द्रोह  
-ईर्ष्यासूयार्थदूषणम् ।  
-वाग्दण्डजं च पारुष्यं  
-क्रोधजो ऽपि गणो ऽष्टकः  ॥ ७.४८ ॥
+048	Tale-bearing, violence, treachery, envy, slandering, (unjust) seizure of property, reviling, and assault are the eightfold set (of vices) produced by wrath.

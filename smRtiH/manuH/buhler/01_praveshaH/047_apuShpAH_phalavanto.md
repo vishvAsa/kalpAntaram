@@ -2,8 +2,4 @@
 title = "047 अपुष्पाः फलवन्तो"
 
 +++
-
-अपुष्पाः फलवन्तो ये  
-ते वनस्पतयः स्मृताः ।  
-पुष्पिणः फलिनश् चैव  
-वृक्षास् तूभयतः स्मृताः  ॥ १.४७ ॥
+047	(Those trees) which bear fruit without flowers are called vanaspati (lords of the forest); but those which bear both flowers and fruit are called vriksha.

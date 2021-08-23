@@ -2,8 +2,4 @@
 title = "151 दूराद् आवसथान्"
 
 +++
-
-दूराद् आवसथान् मूत्रं  
-दूरात् पादावसेचनम् ।  
-उच्छिष्टान्न-निषेकं च  
-दूराद् एव समाचरेत्  ॥ ४.१५१ ॥  
+151	Far from his dwelling let him remove urine (and ordure), far (let him remove) the water used for washing his feet, and far the remnants of food and the water from his bath.

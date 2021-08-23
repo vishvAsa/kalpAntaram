@@ -2,7 +2,4 @@
 title = "093 नायुधव्यसनप्राप्तन् नार्तम्"
 
 +++
-नायुधव्यसनप्राप्तं  
-नार्तं नाऽतिपरिक्षतं ।  
-न भीतं न परावृत्तं  
-सतां धर्मम् अनुस्मरन्  ॥ ७.९३ ॥ [९४ मेधातिथिपाठे]
+093	Nor one whose weapons are broken, nor one afflicted (with sorrow), nor one who has been grievously wounded, nor one who is in fear, nor one who has turned to flight; (but in all these cases let him) remember the duty (of honourable warriors).

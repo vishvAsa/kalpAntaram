@@ -2,7 +2,4 @@
 title = "360 भिक्षुका बन्दिनश्"
 
 +++
-भिक्षुका बन्दिनश् चैव  
-दीक्षिताः कारवस् तथा ।  
-संभाषनं सह स्त्रीभिः  
-कुर्युर् अप्रतिवारिताः  ॥ ८.३६० ॥
+360	Mendicants, bards, men who have performed the initiatory ceremony of a Vedic sacrifice, and artisans are not prohibited from speaking to married women.

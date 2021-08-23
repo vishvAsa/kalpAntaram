@@ -2,7 +2,4 @@
 title = "208 आसनेषूपकॢप्तेषु बर्हिष्मत्सु"
 
 +++
-आसनेषूपकॢप्तेषु  
-बर्हिष्मत्सु पृथक्-पृथक् ।  
-उपस्पृष्टोदकान् सम्यग्  
-विप्रांस् तान् उपवेशयेत्  ॥ ३.२०८ ॥ [१९८ मेधातिथिपाठे]
+208	The (sacrificer) shall make the (invited) Brahmanas, who have duly performed their ablutions, sit down on separate, prepared seats, on which blades of Kusa grass have been placed.

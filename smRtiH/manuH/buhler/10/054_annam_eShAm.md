@@ -2,7 +2,4 @@
 title = "054 अन्नम् एषाम्"
 
 +++
-अन्नम् एषां पराधीनं  
-देयं स्याद् भिन्नभाजने ।  
-रात्रौ न विचरेयुस् ते  
-ग्रामेषु नगरेषु च  ॥ १०.५४ ॥
+054	Their food shall be given to them by others (than an Aryan giver) in a broken dish; at night they shall not walk about in villages and in towns.

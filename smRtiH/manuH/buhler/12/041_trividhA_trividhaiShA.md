@@ -2,8 +2,4 @@
 title = "041 त्रिविधा त्रिविधैषा"
 
 +++
-
-त्रिविधा त्रिविधैषा तु  
-विज्ञेया गौणिकी गतिः ।  
-अधमा मध्यमाग्र्या च  
-कर्म-विद्या-विशेषतः  ॥ १२.४१ ॥
+041	But know this threefold course of transmigrations that depends on the (three) qualities (to be again) threefold, low, middling, and high, according to the particular nature of the acts and of the knowledge (of each man).

@@ -2,8 +2,4 @@
 title = "107 अस्मिन् धर्मो"
 
 +++
-
-अस्मिन् धर्मो ऽखिलेनोक्तो  
-गुण-दोषौ च कर्मणाम् ।  
-चतुर्णाम् अपि वर्णानाम्  
-आचारश् चैव शाश्वतः  ॥ १.१०७ ॥
+107	In this (work) the sacred law has been fully stated as well as the good and bad qualities of (human) actions and the immemorial rule of conduct, (to be followed) by all the four castes (varna).

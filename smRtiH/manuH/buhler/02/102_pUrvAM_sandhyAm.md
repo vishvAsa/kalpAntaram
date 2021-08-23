@@ -2,8 +2,4 @@
 title = "102 पूर्वां सन्ध्याम्"
 
 +++
-
-पूर्वां सन्ध्यां जपंस् तिष्ठन्  
-नैशम् एनो व्यपोहति ।  
-पश्चिमां तु समासीनो  
-मलं हन्ति दिवाकृतम्  ॥ २.१०२ ॥
+102	He who stands during the morning twilight muttering (the Savitri), removes the guilt contracted during the (previous) night; but he who (recites it), seated, in the evening, destroys the sin he committed during the day.

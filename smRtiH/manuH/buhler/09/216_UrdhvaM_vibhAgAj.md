@@ -2,7 +2,4 @@
 title = "216 ऊर्ध्वं विभागाज्"
 
 +++
-ऊर्ध्वं विभागाज् जातस् तु  
-पित्र्यम् एव हरेद् धनम् ।  
-संसृष्टास् तेन वा ये स्युर्  
-विभजेत स तैः सह  ॥ ९.२१६ ॥
+216	But a son, born after partition, shall alone take the property of his father, or if any (of the other sons) be reunited with the (father), he shall share with them.

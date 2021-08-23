@@ -2,8 +2,4 @@
 title = "152 चिकित्सकान् देवलकान्"
 
 +++
-चिकित्सकान् देवलकान्  
-मांसविक्रयिणस् तथा [मेधातिथिपाठः - चिकित्सका देवलका मांसविक्रयिणस्  
-तथा] ।  
-विपणेन च जीवन्तो  
-वर्ज्याः स्युर् हव्य-कव्ययोः  ॥ ३.१५२ ॥ [१४२ मेधातिथिपाठे]+++(4)+++
+152	Physicians, temple-priests, sellers of meat, and those who subsist by shop-keeping must be avoided at sacrifices offered to the gods and to the manes.

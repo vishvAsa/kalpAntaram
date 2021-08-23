@@ -2,7 +2,4 @@
 title = "104 न विप्रम्"
 
 +++
-न विप्रं स्वेषु तिष्ठत्सु  
-मृतं शूद्रेण नाययेत् ।  
-अस्वर्ग्या ह्य् आहुतिः सा स्याच्  
-छूद्रसंस्पर्शदूषिता  ॥ ५.१०४ ॥ [१०३ मेधातिथिपाठे]
+104	Let him not allow a dead Brahmana to be carried out by a Sudra, while men of the same caste are at hand; for that burnt-offering which is defiled by a Sudra's touch is detrimental to (the deceased's passage to) heaven.

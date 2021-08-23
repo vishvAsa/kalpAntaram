@@ -2,7 +2,4 @@
 title = "058 रेतःसेकः स्वयोनीषु"
 
 +++
-रेतःसेकः स्वयोनीषु  
-कुमारीष्व् अन्त्यजासु च ।  
-सख्युः पुत्रस्य च स्त्रीषु  
-गुरुतल्पसमं विदुः  ॥ ११.५८ ॥ [५७ मेधातिथिपाठे]
+059	Carnal intercourse with sisters by the same mother, with (unmarried) maidens, with females of the lowest castes, with the wives of a friend, or of a son, they declare to be equal to the violation of a Guru's bed.

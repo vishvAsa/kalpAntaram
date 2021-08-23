@@ -2,7 +2,4 @@
 title = "013 स्थलजाउदकशाकानि पुष्प-मूल-फलानि"
 
 +++
-स्थलजाउदकशाकानि  
-पुष्प-मूल-फलानि च ।  
-मेध्यवृक्षोद्भवान्य् अद्यात्  
-स्नेहांश् च फल-सम्भवान्  ॥ ६.१३ ॥
+013	Let him eat vegetables that grow on dry land or in water, flowers, roots, and fruits, the productions of pure trees, and oils extracted from forest-fruits.

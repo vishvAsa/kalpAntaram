@@ -2,7 +2,4 @@
 title = "165 एकाकिनश् चात्ययिके"
 
 +++
-एकाकिनश् चात्ययिके  
-कार्ये प्राप्ते यदृच्छया ।  
-संहतस्य च मित्रेण  
-द्विविधं यानम् उच्यते  ॥ ७.१६५ ॥ [१६६ मेधातिथिपाठे]
+165	Marching (to attack) is said to be twofold, (viz. that undertaken) by one alone when an urgent matter has suddenly arisen, and (that undertaken) by one allied with a friend.

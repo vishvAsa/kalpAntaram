@@ -2,8 +2,4 @@
 title = "123 एतम् एके"
 
 +++
-
-एतम् एके वदन्त्य् अग्निं  
-मनुम् अन्ये प्रजापतिम् ।  
-इन्द्रम् एके परे प्राणम्  
-अपरे ब्रह्म शाश्वतम्  ॥ १२.१२३ ॥
+123	Some call him Agni (Fire), others Manu, the Lord of creatures, others Indra, others the vital air, and again others eternal Brahman.

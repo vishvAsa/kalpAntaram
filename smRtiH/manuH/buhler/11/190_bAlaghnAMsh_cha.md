@@ -2,7 +2,4 @@
 title = "190 बालघ्नांश् च"
 
 +++
-बालघ्नांश् च कृतघ्नांश् च  
-विशुद्धान् अपि धर्मतः ।  
-शरणागतहन्तॄंश् च  
-स्त्रीहन्तॄंश् च न संवसेत्  ॥ ११.१९० ॥ [१८९ मेधातिथिपाठे]
+191	Let him not dwell together with the murderers of children, with those who have returned evil for good, and with the slayers of suppliants for protection or of women, though they may have been purified according to the sacred law.

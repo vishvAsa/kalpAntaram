@@ -2,7 +2,4 @@
 title = "173 अमानुषीषू पुरुष"
 
 +++
-अमानुषीषू पुरुष  
-उदक्यायाम् अयोनिषु ।  
-रेतः सिक्त्वा जले चैव  
-कृच्छ्रं सांतपनं चरेत्  ॥ ११.१७३ ॥ [१७२ मेधातिथिपाठे]
+174	A man who has committed a bestial crime, or an unnatural crime with a female, or has had intercourse in water, or with a menstruating woman, shall perform a Samtapana Krikkhra.

@@ -2,7 +2,4 @@
 title = "412 दास्यन् तु"
 
 +++
-दास्यं तु कारयंल् लोभाद्  
-ब्राह्मणः संस्कृतान् द्विजान् ।  
-अनिच्छतः प्राभवत्याद्  
-राज्ञा दण्ड्यः शतानि षट्  ॥ ८.४१२ ॥
+412	But a Brahmana who, because he is powerful, out of greed makes initiated (men of the) twice-born (castes) against their will do the work of slaves, shall be fined by the king six hundred (panas).

@@ -2,7 +2,4 @@
 title = "004 अग्निहोत्रं समादाय"
 
 +++
-अग्निहोत्रं समादाय  
-गृह्यं चाऽग्निपरिच्छदम् ।  
-ग्रामाद् अरण्यं निःसृत्य  
-निवसेन् नियतेन्द्रियः [मेधातिथिपाठः - निष्क्रम्य]  ॥ ६.४ ॥
+004	Taking with him the sacred fire and the implements required for domestic (sacrifices), he may go forth from the village into the forest and reside there, duly controlling his senses.

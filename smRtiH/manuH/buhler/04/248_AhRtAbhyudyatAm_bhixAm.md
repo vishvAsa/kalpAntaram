@@ -2,8 +2,4 @@
 title = "248 आहृताभ्युद्यताम् भिक्षाम्"
 
 +++
-
-आहृताभ्युद्यतां भिक्षां  
-पुरस्ताद् अप्रचोदिताम् ।  
-मेने प्रजापतिर् ग्राह्याम्  
-अपि दुष्कृत-कर्मणः  ॥ ४.२४८ ॥ [२४९ मेधातिथिपाठे]+++(5)+++  
+248	The Lord of created beings (Pragapati) has declared that alms freely offered and brought (by the giver himself) may be accepted even from a sinful man, provided (the gift) had not been (asked for or) promised beforehand.

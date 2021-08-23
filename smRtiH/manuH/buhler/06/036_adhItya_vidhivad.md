@@ -2,7 +2,4 @@
 title = "036 अधीत्य विधिवद्"
 
 +++
-अधीत्य विधिवद् वेदान्  
-पुत्रांश् चोत्पाद्य धर्मतः ।  
-इष्ट्वा च शक्तितो यज्ञैर्  
-मनो मोक्षे निवेशयेत्  ॥ ६.३६ ॥
+036	Having studied the Vedas in accordance with the rule, having begat sons according to the sacred law, and having offered sacrifices according to his ability, he may direct his mind to (the attainment of) final liberation.

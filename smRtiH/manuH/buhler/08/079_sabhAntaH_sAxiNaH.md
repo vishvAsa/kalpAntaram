@@ -2,7 +2,4 @@
 title = "079 सभान्तः साक्षिणः"
 
 +++
-सभान्तः साक्षिणः प्राप्तान्  
-अर्थि-प्रत्यर्थि-संनिधौ ।  
-प्राड्विवाको ऽनुयुञ्जीत  
-विधिनानेन सान्त्वयन्  ॥ ८.७९ ॥
+079	The witnesses being assembled in the court in the presence of the plaintiff and of the defendant, let the judge examine them, kindly exhorting them in the following manner:

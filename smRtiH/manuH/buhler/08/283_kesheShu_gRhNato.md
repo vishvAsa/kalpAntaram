@@ -2,7 +2,4 @@
 title = "283 केशेषु गृह्णतो"
 
 +++
-केशेषु गृह्णतो हस्तौ  
-छेदयेद् अविचारयन् ।  
-पादयोर् दाढिकायां च  
-ग्रीवायां वृषणेषु च  ॥ ८.२८३ ॥
+283	If he lays hold of the hair (of a superior), let the (king) unhesitatingly cut off his hands, likewise (if he takes him) by the feet, the beard, the neck, or the scrotum.

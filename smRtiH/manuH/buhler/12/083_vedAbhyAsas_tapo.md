@@ -2,8 +2,4 @@
 title = "083 वेदाभ्यासस् तपो"
 
 +++
-
-वेदाभ्यासस् तपो ज्ञानम्  
-इन्द्रियाणां च संयमः ।  
-अहिंसा गुरुसेवा च  
-निःश्रेयसकरं परम्  ॥ १२.८३ ॥
+083	Studying the Veda, (practising) austerities, (the acquisition of true) knowledge, the subjugation of the organs, abstention from doing injury, and serving the Guru are the best means for attaining supreme bliss.

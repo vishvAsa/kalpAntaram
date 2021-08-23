@@ -2,7 +2,4 @@
 title = "176 सा चेद्"
 
 +++
-सा चेद् अक्षत-योनिः स्याद्  
-गत-प्रत्यागतापि वा ।  
-पौनर्भवेन भर्त्रा सा  
-पुनः संस्कारम् अर्हति  ॥ ९.१७६ ॥
+176	If she be (still) a virgin, or one who returned (to her first husband) after leaving him, she is worthy to again perform with her second (or first deserted) husband the (nuptial) ceremony.

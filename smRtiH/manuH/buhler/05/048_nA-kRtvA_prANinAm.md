@@ -2,7 +2,4 @@
 title = "048 नाऽकृत्वा प्राणिनाम्"
 
 +++
-नाऽकृत्वा प्राणिनां हिंसां  
-मांसम् उत्पद्यते क्व चित् ।  
-न च प्राणि-वधः स्वर्ग्यस्  
-तस्मान् मांसं विवर्जयेत्  ॥ ५.४८ ॥
+048	Meat can never be obtained without injury to living creatures, and injury to sentient beings is detrimental to (the attainment of) heavenly bliss; let him therefore shun (the use of) meat.

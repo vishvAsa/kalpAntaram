@@ -2,7 +2,4 @@
 title = "076 अग्नौ प्रास्ताहुतिः"
 
 +++
-अग्नौ प्रास्ताहुतिः सम्यग्  
-आदित्यम् उपतिष्ठते ।  
-आदित्याज् जायते वृष्टिर्  
-वृष्टेर् अन्नं ततः प्रजाः  ॥ ३.७६ ॥ [६६ मेधातिथिपाठे]
+076	An oblation duly thrown into the fire, reaches the sun; from the sun comes rain, from rain food, therefrom the living creatures (derive their subsistence).

@@ -2,8 +2,4 @@
 title = "233 इमं लोकम्"
 
 +++
-
-इमं लोकं मातृभक्त्या  
-पितृभक्त्या तु मध्यमम् ।  
-गुरुशुश्रूषया त्व् एवं  
-ब्रह्मलोकं समश्नुते  ॥ २.२३३ ॥
+233	By honouring his mother he gains this (nether) world, by honouring his father the middle sphere, but by obedience to his teacher the world of Brahman.

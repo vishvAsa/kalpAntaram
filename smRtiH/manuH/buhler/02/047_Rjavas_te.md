@@ -2,8 +2,4 @@
 title = "047 ऋजवस् ते"
 
 +++
-
-ऋजवस् ते तु सर्वे स्युर्  
-अव्रणाः सौम्य-दर्शनाः ।  
-अनुद्वेगकरा नॄणां  
-स-त्वचो ऽनग्निदूषिताः  ॥ २.४७ ॥
+047	Let all the staves be straight, without a blemish, handsome to look at, not likely to terrify men, with their bark perfect, unhurt by fire.

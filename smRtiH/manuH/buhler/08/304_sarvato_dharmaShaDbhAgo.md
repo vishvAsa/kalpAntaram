@@ -2,7 +2,4 @@
 title = "304 सर्वतो धर्मषड्भागो"
 
 +++
-सर्वतो धर्मषड्भागो  
-राज्ञो भवति रक्षतः ।  
-अधर्माद् अपि षड्भागो  
-भवत्य् अस्य ह्य् अरक्षतः  ॥ ८.३०४ ॥
+304	A king who (duly) protects (his subjects) receives from each and all the sixth part of their spiritual merit; if he does not protect them, the sixth part of their demerit also (will fall on him).

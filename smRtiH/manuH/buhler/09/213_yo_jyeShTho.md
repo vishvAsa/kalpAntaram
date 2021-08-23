@@ -2,7 +2,4 @@
 title = "213 यो ज्येष्ठो"
 
 +++
-यो ज्येष्ठो विनिकुर्वीत  
-लोभाद् भ्रातॄन् यवीयसः ।  
-सो ऽज्येष्ठः स्याद् अभागश् च  
-नियन्तव्यश् च राजभिः  ॥ ९.२१३ ॥
+213	An eldest brother who through avarice may defraud the younger ones, shall no (longer hold the position of) the eldest, shall not receive an (eldest son's additional) share, and shall be punished by the king.

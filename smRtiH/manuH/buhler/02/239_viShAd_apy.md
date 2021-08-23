@@ -2,8 +2,4 @@
 title = "239 विषाद् अप्य्"
 
 +++
-
-विषाद् अप्य् अमृतं ग्राह्यं  
-बालाद् अपि सुभाषितम् ।  
-अमित्राद् अपि सद्वृत्तम्  
-अमेध्याद् अपि काञ्चनम्  ॥ २.२३९ ॥+++(5)+++ 
+239	Even from poison nectar may be taken, even from a child good advice, even from a foe (a lesson in) good conduct, and even from an impure (substance) gold.

@@ -2,7 +2,4 @@
 title = "402 पञ्चरात्रे पञ्चरात्रे"
 
 +++
-पञ्चरात्रे पञ्चरात्रे  
-पक्षे पक्षे ऽथ वा गते ।  
-कुर्वीत चैषां प्रत्यक्षम्  
-अर्घसंस्थापनं नृपः  ॥ ८.४०२ ॥
+402	Once in five nights, or at the close of each fortnight, let the king publicly settle the prices for the (merchants).

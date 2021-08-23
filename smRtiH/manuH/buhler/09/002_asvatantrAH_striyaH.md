@@ -2,7 +2,4 @@
 title = "002 अस्वतन्त्राः स्त्रियः"
 
 +++
-अस्वतन्त्राः स्त्रियः कार्याः  
-पुरुषैः स्वैर् दिवा-निशम् ।  
-विषयेषु च सज्जन्त्यः  
-संस्थाप्या आत्मनो वशे  ॥ ९.२ ॥
+002	Day and night woman must be kept in dependence by the males (of) their (families), and, if they attach themselves to sensual enjoyments, they must be kept under one's control.

@@ -2,7 +2,4 @@
 title = "075 तत् स्याद्"
 
 +++
-तत् स्याद् आयुधसम्पन्नं  
-धन-धान्येन वाहनैः ।  
-ब्राह्मणैः शिल्पिभिर् यन्त्रैर्  
-यवसेनोदकेन च  ॥ ७.७५ ॥
+075	Let that (fort) be well supplied with weapons, money, grain and beasts of burden, with Brahmanas, with artisans, with engines, with fodder, and with water.

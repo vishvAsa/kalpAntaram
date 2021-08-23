@@ -2,7 +2,4 @@
 title = "079 स सन्धार्यः"
 
 +++
-स सन्धार्यः प्रयत्नेन  
-स्वर्गम् अक्षयम् इच्छता ।  
-सुखं चेहेच्छतात्यन्तं  
-यो ऽधार्यो दुर्बलेन्द्रियैः  ॥ ३.७९ ॥ [६९ मेधातिथिपाठे]
+079	(The duties of) this order, which cannot be practised by men with weak organs, must be carefully observed by him who desires imperishable (bliss in) heaven, and constant happiness in this (life).

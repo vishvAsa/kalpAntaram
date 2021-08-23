@@ -2,7 +2,4 @@
 title = "251 पृष्ट्वा स्वदितम्"
 
 +++
-पृष्ट्वा स्वदितम् इत्य् एवं  
-तृप्तान् आचामयेत् ततः ।  
-आचान्तांश् चाऽनुजानीयाद्  
-अभितो रम्यताम् इति  ॥ ३.२५१ ॥ [२४१ मेधातिथिपाठे]
+251	Having addressed the question, 'Have you dined well?' (to his guests), let him give water for sipping to them who are satisfied, and dismiss them, after they have sipped water, (with the words) 'Rest either (here or at home)!'

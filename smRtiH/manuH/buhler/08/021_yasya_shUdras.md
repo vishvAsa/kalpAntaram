@@ -2,7 +2,4 @@
 title = "021 यस्य शूद्रस्"
 
 +++
-यस्य शूद्रस् तु कुरुते  
-राज्ञो धर्मविवेचनम् ।  
-तस्य सीदति तद् राष्ट्रं  
-पङ्के गौर् इव पश्यतः  ॥ ८.२१ ॥
+021	The kingdom of that monarch, who looks on while a Sudra settles the law, will sink (low), like a cow in a morass.

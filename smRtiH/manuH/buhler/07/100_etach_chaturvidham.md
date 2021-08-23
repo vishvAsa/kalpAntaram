@@ -2,7 +2,4 @@
 title = "100 एतच् चतुर्विधम्"
 
 +++
-एतच् चतुर्विधं विद्यात्  
-पुरुषार्थप्रयोजनम् ।  
-अस्य नित्यम् अनुष्ठानं  
-सम्यक् कुर्याद् अतन्द्रितः  ॥ ७.१०० ॥ [१०१ मेधातिथिपाठे]
+100	Let him know that these are the four means for securing the aims of human (existence); let him, without ever tiring, properly employ them.

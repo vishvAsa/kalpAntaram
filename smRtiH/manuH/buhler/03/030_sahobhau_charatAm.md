@@ -2,7 +2,4 @@
 title = "030 सहोभौ चरताम्"
 
 +++
-सहोभौ चरतां धर्मम्  
-इति वाचानुभाष्य च ।  
-कन्याप्रदानम् अभ्यर्च्य  
-प्राजापत्यो विधिः स्मृतः  ॥ ३.३० ॥
+030	The gift of a daughter (by her father) after he has addressed (the couple) with the text, 'May both of you perform together your duties,' and has shown honour (to the bridegroom), is called in the Smriti the Pragapatya rite.

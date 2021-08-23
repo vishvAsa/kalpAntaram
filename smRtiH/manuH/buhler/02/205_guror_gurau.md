@@ -2,8 +2,4 @@
 title = "205 गुरोर् गुरौ"
 
 +++
-
-गुरोर् गुरौ सन्निहिते  
-गुरुवद् वृत्तिम् आचरेत् ।  
-न चाऽनिसृष्टो गुरुणा  
-स्वान् गुरून् अभिवादयेत्  ॥ २.२०५ ॥
+205	If his teacher's teacher is near, let him behave (towards him) as towards his own teacher; but let him, unless he has received permission from his teacher, not salute venerable persons of his own (family).

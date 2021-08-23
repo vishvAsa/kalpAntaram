@@ -2,7 +2,4 @@
 title = "060 पृष्टो ऽपव्ययमानस्"
 
 +++
-पृष्टो ऽपव्ययमानस् तु  
-कृतावस्थो धनैषिणा ।  
-त्र्यवरैः साक्षिभिर् भाव्यो  
-नृप-ब्राह्मणसंनिधौ  ॥ ८.६० ॥
+060	(A defendant) who, being brought (into court) by the creditor, (and) being questioned, denies (the debt), shall be convicted (of his falsehood) by at least three witnesses (who must depose) in the presence of the Brahmana (appointed by) the king.

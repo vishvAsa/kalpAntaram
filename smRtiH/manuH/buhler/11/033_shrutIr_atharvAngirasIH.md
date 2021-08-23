@@ -2,7 +2,4 @@
 title = "033 श्रुतीर् अथर्वाङ्गिरसीः"
 
 +++
-श्रुतीर् अथर्वाङ्गिरसीः  
-कुर्याद् इत्य् अविचारयन् ।  
-वाक्शस्त्रं वै ब्राह्मणस्य  
-तेन हन्याद् अरीन् द्विजः  ॥ ११.३३ ॥ [३२ मेधातिथिपाठे]
+033	Let him use without hesitation the sacred texts, revealed by Atharvan and by Angiras; speech, indeed, is the weapon of the Brahmana, with that he may slay his enemies.

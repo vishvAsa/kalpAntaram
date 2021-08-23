@@ -2,8 +2,4 @@
 title = "091 एतद् विदन्तो"
 
 +++
-
-एतद् विदन्तो विद्वांसो  
-ब्राह्मणा ब्रह्मवादिनः ।  
-न राज्ञः प्रतिगृह्णन्ति  
-प्रेत्य श्रेयो ऽभिकाङ्क्षिणः  ॥ ४.९१ ॥  
+091	Learned Brahmanas, who know that, who study the Veda and desire bliss after death, do not accept presents from a king.

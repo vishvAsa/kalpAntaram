@@ -2,9 +2,4 @@
 title = "097 चातुर्वर्ण्यन् त्रयो"
 
 +++
-
-चातुर्वर्ण्यं त्रयो लोकाश्  
-चत्वारश् चाश्रमाः पृथक् ।  
-भूतं भव्यं भविष्यं च  
-सर्वं वेदात् प्रसिध्यति [मेधातिथिपाठः - भूतं भवद् भविष्यं  
-च]  ॥ १२.९७ ॥
+097	The four castes, the three worlds, the four orders, the past, the present, and the future are all severally known by means of the Veda.

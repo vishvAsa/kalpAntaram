@@ -2,7 +2,4 @@
 title = "056 एतद् वः"
 
 +++
-एतद् वः सारफल्गुत्वं  
-बीज-योन्योः प्रकीर्तितम् ।  
-अतः परं प्रवक्ष्यामि  
-योषितां धर्मम् आपदि  ॥ ९.५६ ॥
+056	Thus the comparative importance of the seed and of the womb has been declared to you; I will next propound the law (applicable) to women in times of misfortune.

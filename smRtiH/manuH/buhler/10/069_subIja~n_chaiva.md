@@ -2,7 +2,4 @@
 title = "069 सुबीजञ् चैव"
 
 +++
-सुबीजं चैव सुक्षेत्रे  
-जातं संपद्यते यथा ।  
-तथार्याज् जात आर्यायां  
-सर्वं संस्कारम् अर्हति  ॥ १०.६९ ॥
+069	As good seed, springing up in good soil, turns out perfectly well, even so the son of an Aryan by an Aryan woman is worthy of all the sacraments.

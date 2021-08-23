@@ -2,7 +2,4 @@
 title = "279 प्राचीनावीतिना सम्यग्"
 
 +++
-प्राचीनावीतिना सम्यग्  
-अपसव्यम् अतन्द्रिणा ।  
-पित्र्यम् आ निधनात् कार्यं  
-विधिवद् दर्भ-पाणिना  ॥ ३.२७९ ॥ [२६९ मेधातिथिपाठे]
+279	Let him, untired, duly perform the (rites) in honour of the manes in accordance with the prescribed rule, passing the sacred thread over the right shoulder, proceeding from the left to the right (and) holding Kusa grass in his hands, up to the end (of the ceremony).

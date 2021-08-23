@@ -2,7 +2,4 @@
 title = "071 पञ्चैतान् यो"
 
 +++
-पञ्चैतान् यो महाअयज्ञान्  
-न हापयति शक्तितः ।  
-स गृहे ऽपि वसन् नित्यं  
-सूनादोषैर् न लिप्यते  ॥ ३.७१ ॥ [६१ मेधातिथिपाठे]
+071	He who neglects not these five great sacrifices, while he is able (to perform them), is not tainted by the sins (committed) in the five places of slaughter, though he constantly lives in the (order of) house (-holders).

@@ -2,7 +2,4 @@
 title = "328 न च"
 
 +++
-न च वैश्यस्य कामः स्यान्  
-न रक्षेयं पशून् इति ।  
-वैश्ये चेच्छति नाऽन्येन  
-रक्षितव्याः कथं चन  ॥ ९.३२८ ॥
+328	A Vaisya must never (conceive this) wish, I will not keep cattle; and if a Vaisya is willing (to keep them), they must never be kept by (men of) other (castes).

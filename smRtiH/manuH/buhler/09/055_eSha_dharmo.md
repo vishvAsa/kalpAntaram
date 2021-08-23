@@ -2,7 +2,4 @@
 title = "055 एष धर्मो"
 
 +++
-एष धर्मो गवाश्वस्य  
-दास्य्-उष्ट्राजाविकस्य च ।  
-विहंग-महिषीणां च  
-विज्ञेयः प्रसवं प्रति  ॥ ९.५५ ॥
+055	Know that such is the law concerning the offspring of cows, mares, slave-girls, female camels, she-goats, and ewes, as well as of females of birds and buffalo-cows.

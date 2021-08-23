@@ -2,7 +2,4 @@
 title = "127 अकामतस् तु"
 
 +++
-अकामतस् तु राजन्यं  
-विनिपात्य द्विजोत्तमः ।  
-वृषभैकसहस्रा गा  
-दद्यात् सुचरित-व्रतः  ॥ ११.१२७ ॥ [१२६ मेधातिथिपाठे]
+128	But if a Brahmana unintentionally kills a Kshatriya, he shall give, in order to purify himself, one thousand cows and a bull;

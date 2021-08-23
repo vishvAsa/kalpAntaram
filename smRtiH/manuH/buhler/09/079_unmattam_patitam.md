@@ -2,7 +2,4 @@
 title = "079 उन्मत्तम् पतितम्"
 
 +++
-उन्मत्तं पतितं क्लीबम्  
-अबीजं पापरोगिणम् ।  
-न त्यागो ऽस्ति द्विषन्त्याश् च  
-न च दायापवर्तनम्  ॥ ९.७९ ॥
+079	But she who shows aversion towards a mad or outcast (husband), a eunuch, one destitute of manly strength, or one afflicted with such diseases as punish crimes, shall neither be cast off nor be deprived of her property.

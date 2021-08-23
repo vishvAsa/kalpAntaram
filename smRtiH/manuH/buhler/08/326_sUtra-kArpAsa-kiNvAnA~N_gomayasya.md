@@ -2,7 +2,4 @@
 title = "326 सूत्र-कार्पास-किण्वानाङ् गोमयस्य"
 
 +++
-सूत्र-कार्पास-किण्वानां  
-गोमयस्य गुडस्य च ।  
-दध्नः क्षीरस्य तक्रस्य  
-पानीयस्य तृणस्य च  ॥ ८.३२६ ॥
+326	(For stealing) thread, cotton, drugs causing fermentation, cowdung, molasses, sour milk, sweet milk, butter-milk, water, or grass,

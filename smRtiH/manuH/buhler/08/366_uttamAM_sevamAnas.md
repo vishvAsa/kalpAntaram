@@ -2,7 +2,4 @@
 title = "366 उत्तमां सेवमानस्"
 
 +++
-उत्तमां सेवमानस् तु  
-जघन्यो वधम् अर्हति ।  
-शुल्कं दद्यात् सेवमानः  
-समाम् इच्छेत् पिता यदि  ॥ ८.३६६ ॥
+366	A (man of) low (caste) who makes love to a maiden (of) the highest (caste) shall suffer corporal punishment; he who addresses a maiden (on) equal (caste) shall pay the nuptial fee, if her father desires it.

@@ -2,7 +2,4 @@
 title = "092 शूनाञ् च"
 
 +++
-शूनां च पतितानां च  
-श्वपचां पाप-रोगिणाम् ।  
-वयसानां कृमीणां च  
-शनकैर् निर्वपेद् भुवि [मेधातिथिपाठः - वयसां च]  ॥ ३.९२ ॥ [८२ मेधातिथिपाठे]+++(4)+++
+092	Let him gently place on the ground (some food) for dogs, outcasts, Kandalas (Svapak), those afflicted with diseases that are punishments of former sins, crows, and insects.

@@ -2,7 +2,4 @@
 title = "039 व्रीहयः शालयो"
 
 +++
-व्रीहयः शालयो मुद्गास्  
-तिला माषास् तथा यवाः ।  
-यथाबीजं प्ररोहन्ति  
-लशुनानीक्षवस् तथा  ॥ ९.३९ ॥
+039	The rice (called) vrihi and (that called) sali, mudga-beans, sesamum, masha-beans, barley, leeks, and sugar-cane, (all) spring up according to their seed.

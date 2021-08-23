@@ -2,7 +2,4 @@
 title = "049 सुवर्णचौरः कौनख्यम्"
 
 +++
-सुवर्णचौरः कौनख्यं  
-सुरापः श्यावदन्तताम् ।  
-ब्रह्महा क्षयरोगित्वं  
-दौश्चर्म्यं गुरुतल्पगः  ॥ ११.४९ ॥ [४८ मेधातिथिपाठे]
+049	He who steals the gold (of a Brahmana) has diseased nails; a drinker of (the spirituous liquor called) Sura, black teeth; the slayer of a Brahmana, consumption; the violator of a Guru's bed, a diseased skin;

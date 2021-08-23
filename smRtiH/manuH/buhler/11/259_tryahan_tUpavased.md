@@ -2,7 +2,4 @@
 title = "259 त्र्यहन् तूपवसेद्"
 
 +++
-त्र्यहं तूपवसेद् युक्तस्  
-त्रिर् अह्नो ऽभ्युपयन्न् अपः ।  
-मुच्यते पातकैः सर्वैस्  
-त्रिर् जपित्वाघमर्षणम्  ॥ ११.२५९ ॥ [२५८ मेधातिथिपाठे]
+260	But if (a man) fasts during three days, bathing thrice a day, and muttering (in the water the hymn seen by) Aghamarshana, he is (likewise) freed from all sins causing loss of caste.

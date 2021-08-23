@@ -2,8 +2,4 @@
 title = "180 एकः शयीत"
 
 +++
-
-एकः शयीत सर्वत्र  
-न रेतः स्कन्दयेत् क्व चित् ।  
-कामाद् +धि स्कन्दयन् रेतो  
-हिनस्ति व्रतम् आत्मनः  ॥ २.१८० ॥
+180	Let him always sleep alone, let him never waste his manhood; for he who voluntarily wastes his manhood, breaks his vow.

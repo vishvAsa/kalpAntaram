@@ -2,8 +2,4 @@
 title = "076 आकाशात् तु"
 
 +++
-
-आकाशात् तु विकुर्वाणात्  
-सर्वगन्धवहः शुचिः ।  
-बलवाञ् जायते वायुः  
-स वै स्पर्श-गुणो मतः  ॥ १.७६ ॥
+076	But from ether, modifying itself, springs the pure, powerful wind, the vehicle of all perfumes; that is held to possess the quality of touch.

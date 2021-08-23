@@ -2,7 +2,4 @@
 title = "025 पञ्चानान् तु"
 
 +++
-पञ्चानां तु त्रयो धर्म्या  
-द्वाव् अधर्म्यौ स्मृताव् इह ।  
-पैशाचश् चाऽसुरश् चैव  
-न कर्तव्यौ कदा चन  ॥ ३.२५ ॥
+025	But in these (Institutes of the sacred law) three of the five (last) are declared to be lawful and two unlawful; the Paisaka and the Asura (rites) must never be used.

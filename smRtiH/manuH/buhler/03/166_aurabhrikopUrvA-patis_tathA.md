@@ -2,7 +2,4 @@
 title = "166 औरभ्रिकोपूर्वा-पतिस् तथा"
 
 +++
-औरभ्रिको+++(=मेषपालः)+++ माहिषिकः  
-पर+++(पति)+++पूर्वा-पतिस् तथा ।  
-प्रेतनिर्यापकश् चैव  
-वर्जनीयाः प्रयत्नतः  ॥ ३.१६६ ॥ [१५६ मेधातिथिपाठे]
+166	A shepherd, a keeper of buffaloes, the husband of a remarried woman, and a carrier of dead bodies, (all these) must be carefully avoided.

@@ -2,7 +2,4 @@
 title = "024 व्यभिचारेण वर्णानाम्"
 
 +++
-व्यभिचारेण वर्णानाम्  
-अवेद्यावेदनेन च ।  
-स्वकर्मणां च त्यागेन  
-जायन्ते वर्णसंकराः  ॥ १०.२४ ॥
+024	By adultery (committed by persons) of (different) castes, by marriages with women who ought not to be married, and by the neglect of the duties and occupations (prescribed) to each, are produced (sons who owe their origin) to a confusion the castes.

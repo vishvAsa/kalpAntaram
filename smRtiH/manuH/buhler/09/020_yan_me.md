@@ -2,7 +2,4 @@
 title = "020 यन् मे"
 
 +++
-यन् मे माता प्रलुलुभे  
-विचरन्त्य् अपतिव्रता ।  
-तन् मे रेतः पिता वृङ्क्ताम्  
-इत्य् अस्यैतन् निदर्शनम्  ॥ ९.२० ॥
+020	'If my mother, going astray and unfaithful, conceived illicit desires, may my father keep that seed from me,' that is the scriptural text.

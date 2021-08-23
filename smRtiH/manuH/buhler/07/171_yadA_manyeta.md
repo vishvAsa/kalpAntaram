@@ -2,7 +2,4 @@
 title = "171 यदा मन्येत"
 
 +++
-यदा मन्येत भावेन  
-हृष्टं पुष्टं बलं स्वकम् ।  
-परस्य विपरीतं च  
-तदा यायाद् रिपुं प्रति  ॥ ७.१७१ ॥ [१७२ मेधातिथिपाठे]
+171	When he knows his own army to be cheerful in disposition and strong, and (that) of his enemy the reverse, then let him march against his foe.

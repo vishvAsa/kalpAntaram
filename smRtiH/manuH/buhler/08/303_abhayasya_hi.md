@@ -2,7 +2,4 @@
 title = "303 अभयस्य हि"
 
 +++
-अभयस्य हि यो दाता  
-स पूज्यः सततं नृपः ।  
-सत्त्रं हि वर्धते तस्य  
-सदैवाऽभय-दक्षिणम्  ॥ ८.३०३ ॥
+303	That king, indeed, is ever worthy of honour who ensures the safety (of his subjects); for the sacrificial session (sattra, which he, as it were, performs thereby) ever grows in length, the safety (of his subjects representing) the sacrificial fee.

@@ -2,7 +2,4 @@
 title = "230 दिवा वक्तव्यता"
 
 +++
-दिवा वक्तव्यता पाले  
-रात्रौ स्वामिनि तद्गृहे ।  
-योगक्षेमे ऽन्यथा चेत् तु  
-पालो वक्तव्यताम् इयात्  ॥ ८.२३० ॥
+230	During the day the responsibility for the safety (of the cattle rests) on the herdsman, during the night on the owner, (provided they are) in his house; (if it be) otherwise, the herdsman will be responsible (for them also during the night).

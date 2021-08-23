@@ -2,7 +2,4 @@
 title = "195 अन्वाधेयञ् च"
 
 +++
-अन्वाधेयं च यद् दत्तं  
-पत्या प्रीतेन चैव यत् ।  
-पत्यौ जीवति वृत्तायाः  
-प्रजायास् तद् धनं भवेत्  ॥ ९.१९५ ॥
+195	(Such property), as well as a gift subsequent and what was given (to her) by her affectionate husband, shall go to her offspring, (even) if she dies in the lifetime of her husband.

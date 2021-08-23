@@ -2,7 +2,4 @@
 title = "201 जित्वा सम्पूजयेद्"
 
 +++
-जित्वा सम्पूजयेद् देवान्  
-ब्राह्मणांश् चैव धार्मिकान् ।  
-प्रदद्यात् परिहारार्थं  
-ख्यापयेद् अभयानि च  ॥ ७.२०१ ॥ [२०२ मेधातिथिपाठे]
+201	When he has gained victory, let him duly worship the gods and honour righteous Brahmanas, let him grant exemptions, and let him cause promises of safety to be proclaimed.

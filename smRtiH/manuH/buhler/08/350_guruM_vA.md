@@ -2,7 +2,4 @@
 title = "350 गुरुं वा"
 
 +++
-गुरुं वा बाल-वृद्धौ वा  
-ब्राह्मणं वा बहु-श्रुतम् ।  
-आततायिनम् आयान्तं  
-हन्याद् एवाऽविचारयन्  ॥ ८.३५० ॥
+350	One may slay without hesitation an assassin who approaches (with murderous intent), whether (he be one's) teacher, a child or an aged man, or a Brahmana deeply versed in the Vedas.

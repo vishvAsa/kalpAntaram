@@ -2,7 +2,4 @@
 title = "067 स विद्याद्"
 
 +++
-स विद्याद् अस्य कृत्येषु  
-निर्गूढेङ्गित-चेष्टितैः ।  
-आकारम् इङ्गितं चेष्टां  
-भृत्येषु च चिकीर्षितम्  ॥ ७.६७ ॥
+067	With respect to the affairs let the (ambassador) explore the expression of the countenance, the gestures and actions of the (foreign king) through the gestures and actions of his confidential (advisers), and (discover) his designs among his servants.

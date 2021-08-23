@@ -2,7 +2,4 @@
 title = "050 निन्द्यास्व् अष्टासु"
 
 +++
-निन्द्यास्व् अष्टासु चाऽन्यासु  
-स्त्रियो रात्रिषु वर्जयन् ।  
-ब्रह्मचार्य् एव भवति  
-यत्र तत्राश्रमे वसन्  ॥ ३.५० ॥
+050	He who avoids women on the six forbidden nights and on eight others, is (equal in chastity to) a student, in whichever order he may live.

@@ -2,7 +2,4 @@
 title = "112 शरीरकर्षणात् प्राणाः"
 
 +++
-शरीरकर्षणात् प्राणाः  
-क्षीयन्ते प्राणिनां यथा ।  
-तथा राज्ञाम् अपि प्राणाः  
-क्षीयन्ते राष्ट्रकर्षणात्  ॥ ७.११२ ॥ [११३ मेधातिथिपाठे]
+112	As the lives of living creatures are destroyed by tormenting their bodies, even so the lives of kings are destroyed by their oppressing their kingdoms.

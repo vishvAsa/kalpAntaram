@@ -2,8 +2,4 @@
 title = "058 इदं शास्त्रम्"
 
 +++
-
-इदं शास्त्रं तु कृत्वासौ  
-माम् एव स्वयम् आदितः ।  
-विधिवद् ग्राहयाम् आस  
-मरीच्य्-आदींस् त्व् अहं मुनीन्  ॥ १.५८ ॥
+058	But he having composed these Institutes (of the sacred law), himself taught them, according to the rule, to me alone in the beginning; next I (taught them) to Mariki and the other sages.

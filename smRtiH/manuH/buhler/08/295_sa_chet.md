@@ -2,7 +2,4 @@
 title = "295 स चेत्"
 
 +++
-स चेत् तु पथि संरुद्धः  
-पशुभिर् वा रथेन वा ।  
-प्रमापयेत् प्राणभृतस्  
-तत्र दण्डो ऽविचारितः  ॥ ८.२९५ ॥
+295	But if he is stopped on his way by cattle or by (another) carriage, and he causes the death of any living being, a fine shall without doubt be imposed.

@@ -2,8 +2,4 @@
 title = "066 पित्र्ये रात्र्य्-अहनी"
 
 +++
-
-पित्र्ये रात्र्य्-अहनी मासः  
-प्रविभागस् तु पक्षयोः ।  
-कर्म-चेष्टास्व् अहः कृष्णः  
-शुक्लः स्वप्नाय शर्वरी  ॥ १.६६ ॥
+066	A month is a day and a night of the manes, but the division is according to fortnights. The dark (fortnight) is their day for active exertion, the bright (fortnight) their night for sleep.

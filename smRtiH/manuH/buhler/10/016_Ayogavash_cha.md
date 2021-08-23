@@ -2,7 +2,4 @@
 title = "016 आयोगवश् च"
 
 +++
-आयोगवश् च क्षत्ता च  
-चण्डालश् चाऽधमो नृणाम् ।  
-प्रातिलोम्येन जायन्ते  
-शूद्राद् अपसदास् त्रयः  ॥ १०.१६ ॥
+016	From a Sudra spring in the inverse order (by females of the higher castes) three base-born (sons, apasada), an Ayogava, a Kshattri, and a Kandala, the lowest of men;

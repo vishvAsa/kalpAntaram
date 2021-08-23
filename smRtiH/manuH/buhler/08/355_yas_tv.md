@@ -2,7 +2,4 @@
 title = "355 यस् त्व्"
 
 +++
-यस् त्व् अनाक्षारितः पूर्वम्  
-अभिभाषते कारणात् ।  
-न दोषं प्राप्नुयात् किं चिन्  
-न हि तस्य व्यतिक्रमः  ॥ ८.३५५ ॥
+355	But a man, not before accused, who (thus) speaks with (a woman) for some (reasonable) cause, shall not incur any guilt, since in him there is no transgression.

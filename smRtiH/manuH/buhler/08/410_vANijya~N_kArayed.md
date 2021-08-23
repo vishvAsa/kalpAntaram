@@ -2,7 +2,4 @@
 title = "410 वाणिज्यङ् कारयेद्"
 
 +++
-वाणिज्यं कारयेद् वैश्यं  
-कुसीदं कृषिम् एव च ।  
-पशूनां रक्षणं चैव  
-दास्यं शूद्रं द्विजन्मनाम्  ॥ ८.४१० ॥
+410	(The king) should order a Vaisya to trade, to lend money, to cultivate the land, or to tend cattle, and a Sudra to serve the twice-born castes

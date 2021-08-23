@@ -2,8 +2,4 @@
 title = "131 मध्यन्दिने ऽर्धरात्रे"
 
 +++
-
-मध्यन्दिने ऽर्धरात्रे च  
-श्राद्धं भुक्त्वा च सामिषम् ।  
-सन्ध्ययोर् उभयोश् चैव  
-न सेवेत चतुष्पथम्  ॥ ४.१३१ ॥  
+131	At midday and at midnight, after partaking of meat at a funeral dinner, and in the two twilights let him not stay long on a cross-road.

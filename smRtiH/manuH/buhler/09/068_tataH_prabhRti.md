@@ -2,7 +2,4 @@
 title = "068 ततः प्रभृति"
 
 +++
-ततः प्रभृति यो मोहात्  
-प्रमीत-पतिकां स्त्रियम् ।  
-नियोजयत्य् अपत्यार्थं  
-तं विगर्हन्ति साधवः  ॥ ९.६८ ॥
+068	Since that (time) the virtuous censure that (man) who in his folly appoints a woman, whose husband died, to (bear) children (to another man).

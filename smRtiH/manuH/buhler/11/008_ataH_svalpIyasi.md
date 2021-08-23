@@ -2,7 +2,4 @@
 title = "008 अतः स्वल्पीयसि"
 
 +++
-अतः स्वल्पीयसि द्रव्ये  
-यः सोमं पिबति द्विजः ।  
-स पीतसोम-पूर्वो ऽपि  
-न तस्याप्नोति तत्फलम्  ॥ ११.८ ॥ [०७ मेधातिथिपाठे]
+008	But a twice-born man, who, though possessing less than that amount of property, nevertheless drinks the Soma-juice, does not derive any benefit from that (act), though he may have formerly drunk the Soma-juice.

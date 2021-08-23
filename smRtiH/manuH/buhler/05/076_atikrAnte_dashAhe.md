@@ -2,7 +2,4 @@
 title = "076 अतिक्रान्ते दशाहे"
 
 +++
-अतिक्रान्ते दशाहे च  
-त्रिरात्रम् अशुचिर् भवेत् ।  
-संवत्सरे व्यतीते तु  
-स्पृष्ट्वैवापो विशुध्यति  ॥ ५.७६ ॥ [७५ मेधातिथिपाठे]
+076	If the ten days have passed, he shall be impure during three (days and) nights; but if a year has elapsed (since the occurrence of the death), he becomes pure merely by bathing.

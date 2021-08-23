@@ -2,7 +2,4 @@
 title = "001 अधीयीरंस् त्रयो"
 
 +++
-अधीयीरंस् त्रयो वर्णाः  
-स्वकर्मस्था द्विजातयः ।  
-प्रब्रूयाद् ब्राह्मणस् त्व् एषां  
-नेतराव् इति निश्चयः  ॥ १०.१ ॥
+001	Let the three twice-born castes (varna), discharging their (prescribed) duties, study (the Veda); but among them the Brahmana (alone) shall teach it, not the other two; that is an established rule.

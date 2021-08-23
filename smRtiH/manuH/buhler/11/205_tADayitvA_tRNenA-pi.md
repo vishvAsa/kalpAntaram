@@ -2,7 +2,4 @@
 title = "205 ताडयित्वा तृणेनाऽपि"
 
 +++
-ताडयित्वा तृणेनाऽपि  
-कण्ठे वाबध्य वाससा ।  
-विवादे वा विनिर्जित्य  
-प्रणिपत्य प्रसादयेत्  ॥ ११.२०५ ॥ [२०४ मेधातिथिपाठे]
+206	He who has struck (a Brahmana) even with a blade of grass, tied him by the neck with a cloth, or conquered him in an altercation, shall appease him by a prostration.

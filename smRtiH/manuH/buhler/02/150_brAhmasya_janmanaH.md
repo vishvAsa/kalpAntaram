@@ -2,8 +2,4 @@
 title = "150 ब्राह्मस्य जन्मनः"
 
 +++
-
-ब्राह्मस्य जन्मनः कर्ता  
-स्वधर्मस्य च शासिता ।  
-बालो ऽपि विप्रो वृद्धस्य  
-पिता भवति धर्मतः  ॥ २.१५० ॥
+150	That Brahmana who is the giver of the birth for the sake of the Veda and the teacher of the prescribed duties becomes by law the father of an aged man, even though he himself be a child.

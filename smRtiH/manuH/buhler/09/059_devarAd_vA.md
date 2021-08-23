@@ -2,7 +2,4 @@
 title = "059 देवराद् वा"
 
 +++
-देवराद् वा सपिण्डाद् वा  
-स्त्रिया सम्यङ् नियुक्तया ।  
-प्रजेप्सिताआधिगन्तव्या  
-संतानस्य परिक्षये  ॥ ९.५९ ॥
+059	On failure of issue (by her husband) a woman who has been authorised, may obtain, (in the) proper (manner prescribed), the desired offspring by (cohabitation with) a brother-in-law or (with some other) Sapinda (of the husband).

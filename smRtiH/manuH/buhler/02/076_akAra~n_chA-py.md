@@ -2,8 +2,4 @@
 title = "076 अकारञ् चाऽप्य्"
 
 +++
-
-अकारं चाऽप्य् उ-कारं च  
-म-कारं च प्रजापतिः ।  
-वेदत्रयान् निरदुहद्  
-भूर् भुवः स्वर् इतीति च  ॥ २.७६ ॥
+076	Pragapati (the lord of creatures) milked out (as it were) from the three Vedas the sounds A, U, and M, and (the Vyahritis) Bhuh, Bhuvah, Svah.

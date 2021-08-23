@@ -2,7 +2,4 @@
 title = "272 कालशाकम् महाशल्काः"
 
 +++
-कालशाकं महाशल्काः  
-खङ्ग-लोहामिषं मधु ।  
-आनन्त्यायैव कल्प्यन्ते  
-मुन्य्-अन्नानि च सर्वशः  ॥ ३.२७२ ॥ [२६२ मेधातिथिपाठे]
+272	The (vegetable called) Kalasaka, (the fish called) Mahasalka, the flesh of a rhinoceros and that of a red goat, and all kinds of food eaten by hermits in the forest serve for an endless time.

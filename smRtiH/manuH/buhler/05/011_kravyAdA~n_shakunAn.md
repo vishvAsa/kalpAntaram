@@ -2,7 +2,4 @@
 title = "011 क्रव्यादाञ् शकुनान्"
 
 +++
-क्रव्यादाञ् शकुनान् सर्वांस्  
-तथा ग्रामनिवासिनः [मेधातिथिपाठः - क्रव्यादः शकुनीन्] ।  
-अनिर्दिष्टांश् चैकशफांष्  
-टिट्टिभं +++(पक्षिणं)+++ च विवर्जयेत्  ॥ ५.११ ॥
+011	Let him avoid all carnivorous birds and those living in villages, and one-hoofed animals which are not specially permitted (to be eaten), and the Tittibha (Parra Jacana),

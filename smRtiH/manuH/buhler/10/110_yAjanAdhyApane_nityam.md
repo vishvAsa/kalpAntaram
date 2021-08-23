@@ -2,7 +2,4 @@
 title = "110 याजनाध्यापने नित्यम्"
 
 +++
-याजनाध्यापने नित्यं  
-क्रियेते संस्कृतात्मनाम् ।  
-प्रतिग्रहस् तु क्रियते  
-शूद्राद् अप्य् अन्त्य-जन्मनः  ॥ १०.११० ॥
+110	(For) assisting in sacrifices and teaching are (two acts) always performed for men who have received the sacraments; but the acceptance of gifts takes place even in (case the giver is) a Sudra of the lowest class.

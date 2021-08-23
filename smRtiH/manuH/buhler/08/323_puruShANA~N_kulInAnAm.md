@@ -2,7 +2,4 @@
 title = "323 पुरुषाणाङ् कुलीनानाम्"
 
 +++
-पुरुषाणां कुलीनानां  
-नारीणां च विशेषतः ।  
-मुख्यानां चैव रत्नानां  
-हरणे वधम् अर्हति  ॥ ८.३२३ ॥
+323	For stealing men of noble family and especially women and the most precious gems, (the offender) deserves corporal (or capital) punishment.

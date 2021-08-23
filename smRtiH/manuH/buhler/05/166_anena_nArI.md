@@ -2,7 +2,4 @@
 title = "166 अनेन नारी"
 
 +++
-अनेन नारी वृत्तेन  
-मनो-वाग्-देहसंयता ।  
-इहाऽग्र्यां कीर्तिम् आप्नोति  
-पतिलोकं परत्र च  ॥ ५.१६६ ॥ [१६४ मेधातिथिपाठे]
+166	In reward of such conduct, a female who controls her thoughts, speech, and actions, gains in this (life) highest renown, and in the next (world) a place near her husband.

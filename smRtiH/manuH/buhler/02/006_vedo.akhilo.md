@@ -2,8 +2,4 @@
 title = "006 वेदो ऽखिलो"
 
 +++
-
-वेदो ऽखिलो धर्ममूलं  
-स्मृति-शीले च तद्विदाम् ।  
-आचारश् चैव साधूनाम्  
-आत्मनस् तुष्टिर् एव च  ॥ २.६ ॥
+006	The whole Veda is the (first) source of the sacred law, next the tradition and the virtuous conduct of those who know the (Veda further), also the customs of holy men, and (finally) self-satisfaction.

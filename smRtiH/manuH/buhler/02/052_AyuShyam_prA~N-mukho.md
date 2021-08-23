@@ -2,8 +2,4 @@
 title = "052 आयुष्यम् प्राङ्-मुखो"
 
 +++
-
-आयुष्यं प्राङ्-मुखो भुङ्क्ते  
-यशस्यं दक्षिणा-मुखः ।  
-श्रियं प्रत्यङ्-मुखो भुङ्क्ते  
-ऋतं भुङ्क्ते ह्य् उदङ्-मुखः  ॥ २.५२ ॥
+052	(His meal will procure) long life, if he eats facing the east; fame, if he turns to the south; prosperity, if he turns to the west; truthfulness, if he faces the east.

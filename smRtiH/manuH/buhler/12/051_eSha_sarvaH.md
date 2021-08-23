@@ -2,8 +2,4 @@
 title = "051 एष सर्वः"
 
 +++
-
-एष सर्वः समुद्दिष्टस्  
-त्रि-प्रकारस्य कर्मणः [मेधातिथिपाठः - त्रिष्-प्रकारस्य] ।  
-त्रिविधस् त्रिविधः कृत्स्नः  
-संसारः सार्वभौतिकः  ॥ १२.५१ ॥
+051	Thus (the result) of the threefold action, the whole system of transmigrations which (consists) of three classes, (each) with three subdivisions, and which includes all created beings, has been fully pointed out.

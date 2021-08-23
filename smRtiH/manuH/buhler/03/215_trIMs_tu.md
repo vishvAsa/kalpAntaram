@@ -2,7 +2,4 @@
 title = "215 त्रींस् तु"
 
 +++
-त्रींस् तु तस्माद् +धविःशेषात्  
-पिण्डान् कृत्वा समाहितः ।  
-औदकेनैव विधिना  
-निर्वपेद् दक्षिणा-मुखः  ॥ ३.२१५ ॥ [२०५ मेधातिथिपाठे]
+215	But having made three cakes out of the remainder of that sacrificial food, he must, concentrating his mind and turning towards the south, place them on (Kusa grass) exactly in the same manner in which (he poured out the libations of) water.

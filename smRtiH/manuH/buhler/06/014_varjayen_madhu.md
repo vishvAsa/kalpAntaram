@@ -2,7 +2,4 @@
 title = "014 वर्जयेन् मधु"
 
 +++
-वर्जयेन् मधु मांसं च  
-भौमानि कवकानि च ।  
-भूस्तृणं शिग्रुकं चैव  
-श्लेश्मातक-फलानि च  ॥ ६.१४ ॥
+014	Let him avoid honey, flesh, and mushrooms growing on the ground (or elsewhere, the vegetables called) Bhustrina, and Sigruka, and the Sleshmantaka fruit.

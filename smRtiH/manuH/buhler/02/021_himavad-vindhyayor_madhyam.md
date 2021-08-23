@@ -2,8 +2,4 @@
 title = "021 हिमवद्-विन्ध्ययोर् मध्यम्"
 
 +++
-
-हिमवद्-विन्ध्ययोर् मध्यं  
-यत् प्राग् विनशनाद् अपि ।  
-प्रत्यग् एव प्रयागाच् च  
-मध्यदेशः प्रकीर्तितः  ॥ २.२१ ॥
+021	That (country) which (lies) between the Himavat and the Vindhya (mountains) to the east of Prayaga and to the west of Vinasana (the place where the river Sarasvati disappears) is called Madhyadesa (the central region).

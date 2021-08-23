@@ -2,7 +2,4 @@
 title = "109 सामादीनाम् उपायानाम्"
 
 +++
-सामादीनाम् उपायानां  
-चतुर्णाम् अपि पण्डिताः ।  
-साम-दण्डौ प्रशंसन्ति  
-नित्यं राष्ट्राभिवृद्धये  ॥ ७.१०९ ॥ [११० मेधातिथिपाठे]
+109	Among the four expedients, conciliation and the rest, the learned always recommend conciliation and (the employment of) force for the prosperity of kingdoms.

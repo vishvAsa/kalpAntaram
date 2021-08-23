@@ -2,7 +2,4 @@
 title = "093 सुरा वै"
 
 +++
-सुरा वै मलम् अन्नानां  
-पाप्मा च मलम् उच्यते ।  
-तस्माद् ब्राह्मण-राजन्यौ  
-वैश्यश् च न सुरां पिबेत्  ॥ ११.९३ ॥ [९२ मेधातिथिपाठे]
+094	Sura, indeed, is the dirty refuse (mala) of grain, sin also is called dirt (mala); hence a Brahmana, a Kshatriya, and a Vaisya shall not drink Sura.

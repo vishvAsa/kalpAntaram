@@ -2,7 +2,4 @@
 title = "231 यद् यद्"
 
 +++
-यद् यद् रोचेत विप्रेभ्यस्  
-तत् तद् दद्याद् अमत्सरः ।  
-ब्रह्मोद्याश् च कथाः कुर्यात्  
-पितॄणाम् एतद् ईप्सितम्  ॥ ३.२३१ ॥ [२२१ मेधातिथिपाठे]
+231	Whatever may please the Brahmanas, let him give without grudging it; let him give riddles from the Veda, for that is agreeable to the manes.

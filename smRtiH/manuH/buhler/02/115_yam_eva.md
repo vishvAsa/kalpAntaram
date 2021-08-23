@@ -2,8 +2,4 @@
 title = "115 यम् एव"
 
 +++
-
-यम् एव तु शुचिं विद्यान्  
-नियत-ब्रह्मचारिणम् [मेधातिथिपाठः - विद्या नियतं ब्रह्मचारिणम्] ।  
-तस्मै मां ब्रूहि विप्राय  
-निधिपायाऽप्रमादिने  ॥ २.११५ ॥
+115	'But deliver me, as to the keeper of thy treasure, to a Brahmana whom thou shalt know to be pure, of subdued senses, chaste and attentive.'

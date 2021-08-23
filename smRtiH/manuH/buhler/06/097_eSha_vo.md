@@ -2,7 +2,4 @@
 title = "097 एष वो"
 
 +++
-एष वो ऽभिहितो धर्मो  
-ब्राह्मणस्य चतुर्-विधः ।  
-पुण्यो ऽक्षय-फलः प्रेत्य  
-राज्ञां धर्मं निबोधत  ॥ ६.९७ ॥
+097	Thus the fourfold holy law of Brahmanas, which after death (yields) imperishable rewards, has been declared to you; now learn the duty of kings.

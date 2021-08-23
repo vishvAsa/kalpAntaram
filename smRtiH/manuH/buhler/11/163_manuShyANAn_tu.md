@@ -2,7 +2,4 @@
 title = "163 मनुष्याणान् तु"
 
 +++
-मनुष्याणां तु हरणे  
-स्त्रीणां क्षेत्र-गृहस्य च ।  
-कूप-वापीजलानां च  
-शुद्धिश् चान्द्रायणं स्मृतम्  ॥ ११.१६३ ॥ [१६२ मेधातिथिपाठे]
+164	The lunar penance has been declared to be the expiation for stealing men and women, and (for wrongfully appropriating) a field, a house, or the water of wells and cisterns.

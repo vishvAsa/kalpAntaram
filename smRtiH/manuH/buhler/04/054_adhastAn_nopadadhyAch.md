@@ -2,8 +2,4 @@
 title = "054 अधस्तान् नोपदध्याच्"
 
 +++
-
-अधस्तान् नोपदध्याच् च  
-न चैनम् अभिलङ्घयेत् ।  
-न चैनं पादतः कुर्यान्  
-न प्राणबाधम् आचरेत्  ॥ ४.५४ ॥+++(4)+++  
+054	Let him not place (fire) under (a bed or the like); nor step over it, nor place it (when he sleeps) at the foot-(end of his bed); let him not torment living creatures.

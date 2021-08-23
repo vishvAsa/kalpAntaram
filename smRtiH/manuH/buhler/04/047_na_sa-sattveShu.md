@@ -2,8 +2,4 @@
 title = "047 न स-सत्त्वेषु"
 
 +++
-
-न स-सत्त्वेषु गर्तेषु  
-न गच्छन्न् अपि न स्थितः ।  
-न नदीतीरम् आसाद्य  
-न च पर्वतमस्तके  ॥ ४.४७ ॥  
+047	Nor in holes inhabited by living creatures, nor while he walks or stands, nor on reaching the bank of a river, nor on the top of a mountain.

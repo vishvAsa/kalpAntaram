@@ -2,7 +2,4 @@
 title = "090 कामम् उत्पाद्य"
 
 +++
-कामम् उत्पाद्य कृष्यां तु  
-स्वयम् एव कृषीवलः ।  
-विक्रीणीत तिलाञ् शूद्रान्  
-धर्मार्थम् अचिरस्थितान् [मेधातिथिपाठः - तिलाञ् शुद्धान्]  ॥ १०.९० ॥
+090	But he who subsists by agriculture, may at pleasure sell unmixed sesamum grains for sacred purposes, provided he himself has grown them and has not kept them long.

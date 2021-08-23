@@ -2,7 +2,4 @@
 title = "209 उपवेश्य तु"
 
 +++
-उपवेश्य तु तान् विप्रान्  
-आसनेष्व् अजुगुप्सितान् ।  
-गन्ध-माल्यैः सुरभिभिर्  
-अर्चयेद् दैवपूर्वकम्  ॥ ३.२०९ ॥ [१९९ मेधातिथिपाठे]
+209	Having placed those blameless Brahmanas on their seats, he shall honour them with fragrant garlands and perfumes, beginning with (those who are invited in honour of) the gods.

@@ -2,7 +2,4 @@
 title = "109 असाक्षिकेषु त्व्"
 
 +++
-असाक्षिकेषु त्व् अर्थेषु  
-मिथो विवादमानयोः ।  
-अविन्दंस् तत्त्वतः सत्यं  
-शपथेनाऽपि लम्भयेत्  ॥ ८.१०९ ॥
+109	If two (parties) dispute about matters for which no witnesses are available, and the (judge) is unable to really ascertain the truth, he may cause it to be discovered even by an oath.

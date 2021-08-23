@@ -2,8 +2,4 @@
 title = "071 वान्ताश्य् उल्कामुखः"
 
 +++
-
-वान्ताश्य् उल्कामुखः प्रेतो  
-विप्रो धर्मात् स्वकाच् च्युतः ।  
-अमेध्य-कुणपाशी च  
-क्षत्रियः कटपूतनः [मेधातिथिपाठः - कूटपूतनः]  ॥ १२.७१ ॥
+071	A Brahmana who has fallen off from his duty (becomes) an Ulkamukha Preta, who feeds on what has been vomited; and a Kshatriya, a Kataputana (Preta), who eats impure substances and corpses.

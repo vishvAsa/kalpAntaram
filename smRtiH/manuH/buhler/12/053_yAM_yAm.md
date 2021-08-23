@@ -2,8 +2,4 @@
 title = "053 यां याम्"
 
 +++
-
-यां यां योनिं तु जीवो ऽयं  
-येन येनेह कर्मणा ।  
-क्रमशो याति लोके ऽस्मिंस्  
-तत् तत् सर्वं निबोधत  ॥ १२.५३ ॥
+053	What wombs this individual soul enters in this world and in consequence of what actions, learn the particulars of that at large and in due order.

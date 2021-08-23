@@ -2,7 +2,4 @@
 title = "136 ते षोडश"
 
 +++
-ते षोडश स्याद् +धरणं  
-पुराणश् चैव राजतः ।  
-कार्षापणस् तु विज्ञेयस्  
-ताम्रिकः कार्षिकः पणः  ॥ ८.१३६ ॥
+136	Sixteen of those make a silver dharana, or purana; but know (that) a karsha of copper is a karshapana, or pana.

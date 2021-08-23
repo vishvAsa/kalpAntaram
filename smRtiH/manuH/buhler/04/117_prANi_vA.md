@@ -2,8 +2,4 @@
 title = "117 प्राणि वा"
 
 +++
-
-प्राणि वा यदि वाप्राणि  
-यत् किं चिच् छ्राद्धिकं भवेत् ।  
-तद् आलभ्याऽप्य् अनध्यायः  
-पाण्य्-आस्यो हि द्विजः स्मृतः  ॥ ४.११७ ॥+++(5)+++  
+117	Be it an animal or a thing inanimate, whatever be the (gift) at a Sraddha, let him not, having just accepted it, recite the Veda; for the hand of a Brahmana is his mouth.

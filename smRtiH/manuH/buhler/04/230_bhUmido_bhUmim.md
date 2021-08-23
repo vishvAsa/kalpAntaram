@@ -2,8 +2,4 @@
 title = "230 भूमिदो भूमिम्"
 
 +++
-
-भूमिदो भूमिम् आप्नोति  
-दीर्घम् आयुर् हिरण्यदः ।  
-गृहदो ऽग्र्याणि वेश्मानि  
-रूप्य+++(=रजत)+++दो रूपम् उत्तमम्  ॥ ४.२३० ॥ [२३१ मेधातिथिपाठे]  
+230	A giver of land obtains land, a giver of gold long life, a giver of a house most excellent mansions, a giver of silver (rupya) exquisite beauty (rupa),

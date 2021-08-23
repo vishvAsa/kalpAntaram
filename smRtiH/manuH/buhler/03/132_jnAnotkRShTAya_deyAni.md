@@ -2,7 +2,4 @@
 title = "132 ज्ञानोत्कृष्टाय देयानि"
 
 +++
-ज्ञानोत्कृष्टाय देयानि  
-कव्यानि च हवींषि च ।  
-न हि हस्ताव् असृग्दिग्धौ  
-रुधिरेणैव शुध्यतः  ॥ ३.१३२ ॥ [१२२ मेधातिथिपाठे]
+132	Food sacred to the manes or to the gods must be given to a man distinguished by sacred knowledge; for hands, smeared with blood, cannot be cleansed with blood.

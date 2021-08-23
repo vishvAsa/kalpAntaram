@@ -2,7 +2,4 @@
 title = "221 एतद् रुद्रास्"
 
 +++
-एतद् रुद्रास् तथादित्या  
-वसवश् चाचरन् व्रतम् ।  
-सर्वाकुशलमोक्षाय  
-मरुतश् च महर्षिभिः  ॥ ११.२२१ ॥ [२२० मेधातिथिपाठे]
+222	The Rudras, likewise the Adityas, the Vasus and the Maruts, together with the great sages, practised this (rite) in order to remove all evil.

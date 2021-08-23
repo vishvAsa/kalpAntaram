@@ -2,7 +2,4 @@
 title = "107 क्षान्त्या शुध्यन्ति"
 
 +++
-क्षान्त्या शुध्यन्ति विद्वांसो  
-दानेनाऽकार्यकारिणः [मेधातिथिपाठः - शुद्ध्यन्ति] ।  
-प्रच्छन्न-पापा जप्येन  
-तपसा वेदवित्तमाः  ॥ ५.१०७ ॥ [१०६ मेधातिथिपाठे]
+107	The learned are purified by a forgiving disposition, those who have committed forbidden actions by liberality, secret sinners by muttering (sacred texts), and those who best know the Veda by austerities.

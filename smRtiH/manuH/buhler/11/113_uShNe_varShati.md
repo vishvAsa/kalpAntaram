@@ -2,7 +2,4 @@
 title = "113 उष्णे वर्षति"
 
 +++
-उष्णे वर्षति शीते वा  
-मारुते वाति वा भृशम् ।  
-न कुर्वीतात्मनस् त्राणं  
-गोर् अकृत्वा तु शक्तितः  ॥ ११.११३ ॥ [११२ मेधातिथिपाठे]
+114	In heat, in rain, or in cold, or when the wind blows violently, he must not seek to shelter himself, without (first) sheltering the cows according to his ability.

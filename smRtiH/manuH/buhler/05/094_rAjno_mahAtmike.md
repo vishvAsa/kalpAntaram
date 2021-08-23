@@ -2,7 +2,4 @@
 title = "094 राज्ञो महात्मिके"
 
 +++
-राज्ञो महात्मिके स्थाने  
-सद्यःशौचं विधीयते ।  
-प्रजानां परिरक्षार्थम्  
-आसनं चाऽत्र कारणम्  ॥ ५.९४ ॥ [९३ मेधातिथिपाठे]
+094	For a king, on the throne of magnanimity, immediate purification is prescribed, and the reason for that is that he is seated (there) for the protection of (his) subjects.

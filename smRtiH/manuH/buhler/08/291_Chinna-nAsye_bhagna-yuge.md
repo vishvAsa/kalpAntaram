@@ -2,7 +2,4 @@
 title = "291 छिन्न-नास्ये भग्न-युगे"
 
 +++
-छिन्न-नास्ये भग्न-युगे  
-तिर्यक्-प्रतिमुखागते ।  
-अक्ष-भङ्गे च यानस्य  
-चक्र-भङ्गे तथैव च  ॥ ८.२९१ ॥
+291	When the nose-string is snapped, when the yoke is broken, when the carriage turns sideways or back, when the axle or a wheel is broken,

@@ -2,7 +2,4 @@
 title = "284 चिकित्सकानां सर्वेषाम्"
 
 +++
-चिकित्सकानां सर्वेषां  
-मिथ्याप्रचरतां दमः ।  
-अमानुषेषु प्रथमो  
-मानुषेषु तु मध्यमः  ॥ ९.२८४ ॥
+284	All physicians who treat (their patients) wrongly (shall pay) a fine; in the case of animals, the first (or lowest); in the case of human beings, the middlemost (amercement).

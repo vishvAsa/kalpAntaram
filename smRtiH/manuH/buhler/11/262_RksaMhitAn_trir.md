@@ -2,7 +2,4 @@
 title = "262 ऋक्संहितान् त्रिर्"
 
 +++
-ऋक्संहितां त्रिर् अभ्यस्य  
-यजुषां वा समाहितः ।  
-साम्नां वा स-रहस्यानां  
-सर्वपापैः प्रमुच्यते  ॥ ११.२६२ ॥ [२६१ मेधातिथिपाठे]
+263	He who, with a concentrated mind, thrice recites the Riksamhita, or (that of the) Yagur-veda; or (that of the) Sama-veda together with the secret (texts, the Upanishads), is completely freed from all sins.

@@ -2,7 +2,4 @@
 title = "045 मुख-बाहूरु-पज्-जानां या"
 
 +++
-मुख-बाहूरु-पज्-जानां  
-या लोके जातयो बहिः ।  
-म्लेच्छ-वाचश् चार्य-वाचः  
-सर्वे ते दस्यवः स्मृताः  ॥ १०.४५ ॥
+045	All those tribes in this world, which are excluded from (the community of) those born from the mouth, the arms, the thighs, and the feet (of Brahman), are called Dasyus, whether they speak the language of the Mlekkhas (barbarians) or that of the Aryans.

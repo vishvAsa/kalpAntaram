@@ -2,8 +2,4 @@
 title = "057 एवं स"
 
 +++
-
-एवं स जाग्रत्-स्वप्नाभ्याम्  
-इदं सर्वं चराचरम् ।  
-सञ्जीवयति चाऽजस्रं  
-प्रमापयति चाऽव्ययः  ॥ १.५७ ॥
+057	Thus he, the imperishable one, by (alternately) waking and slumbering, incessantly revivifies and destroys this whole movable and immovable (creation).

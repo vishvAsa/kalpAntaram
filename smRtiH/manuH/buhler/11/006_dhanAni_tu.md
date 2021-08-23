@@ -2,7 +2,4 @@
 title = "006 धनानि तु"
 
 +++
-धनानि तु यथाशक्ति  
-विप्रेषु प्रतिपादयेत् [Not in M] ।  
-वेदवित्सु विविक्तेषु  
-प्रेत्य स्वर्गं समश्नुते [Not in M]  ॥ ११.६ ॥
+006	One should give, according to one's ability, wealth to Brahmanas learned in the Veda and living alone; (thus) one obtains after death heavenly bliss.

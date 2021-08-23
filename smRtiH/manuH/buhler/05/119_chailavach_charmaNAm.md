@@ -2,7 +2,4 @@
 title = "119 चैलवच् चर्मणाम्"
 
 +++
-चैलवच् चर्मणां शुद्धिर्  
-वैदलानां तथैव च ।  
-शाक-मूल-फलानां च  
-धान्यवच् छुद्धिर् इष्यते [मेधातिथिपाठः - तु]  ॥ ५.११९ ॥ [११८ मेधातिथिपाठे]
+119	Skins and (objects) made of split cane must be cleaned like clothes; vegetables, roots, and fruit like grain;

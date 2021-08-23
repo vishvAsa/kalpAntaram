@@ -2,8 +2,4 @@
 title = "080 न शूद्राय"
 
 +++
-
-न शूद्राय मतिं दद्यान्  
-नोच्छिष्टं न हविष्कृतम् ।  
-न चाऽस्योपदिशेद् धर्मं  
-न चाऽस्य व्रतम् आदिशेत्  ॥ ४.८० ॥+++(4)+++  
+080	Let him not give to a Sudra advice, nor the remnants (of his meal), nor food offered to the gods; nor let him explain the sacred law (to such a man), nor impose (upon him) a penance.

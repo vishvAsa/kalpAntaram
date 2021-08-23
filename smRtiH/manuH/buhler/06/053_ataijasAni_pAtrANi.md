@@ -2,7 +2,4 @@
 title = "053 अतैजसानि पात्राणि"
 
 +++
-अतैजसानि पात्राणि  
-तस्य स्युर् निर्-व्रणानि च ।  
-तेषाम् अद्भिः स्मृतं शौचं  
-चमसानाम् इवाऽध्वरे  ॥ ६.५३ ॥
+053	His vessels shall not be made of metal, they shall be free from fractures; it is ordained that they shall be cleansed with water, like (the cups, called) Kamasa, at a sacrifice.

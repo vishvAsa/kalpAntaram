@@ -2,8 +2,4 @@
 title = "006 पारुष्यम् अनृतम्"
 
 +++
-
-पारुष्यम् अनृतं चैव  
-पैशुन्यं चाऽपि सर्वशः ।  
-असंबद्धप्रलापश् च  
-वाङ्-मयं स्याच् चतुर्विधम्  ॥ १२.६ ॥
+006	Abusing (others, speaking) untruth, detracting from the merits of all men, and talking idly, shall be the four kinds of (evil) verbal action.

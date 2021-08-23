@@ -2,7 +2,4 @@
 title = "117 एतद् एव"
 
 +++
-एतद् एव व्रतं कुर्युर्  
-उपपातकिनो द्विजाः ।  
-अवकीर्णिवर्ज्यं शुद्ध्यर्थं  
-चान्द्रायणम् अथाऽपि वा [मेधातिथिपाठः - अवकीर्णिवर्जं]  ॥ ११.११७ ॥ [११६ मेधातिथिपाठे]
+118	Twice-born men who have committed (other) minor offences (Upapataka), except a student who has broken his vow (Avakirnin), may perform, in order to purify themselves, the same penance or also a lunar penance.

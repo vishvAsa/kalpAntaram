@@ -2,8 +2,4 @@
 title = "068 ब्राह्मस्य तु"
 
 +++
-
-ब्राह्मस्य तु क्षपाहस्य  
-यत् प्रमाणं समासतः ।  
-एकैकशो युगानां तु  
-क्रमशस् तन् निबोधत  ॥ १.६८ ॥
+068	But hear now the brief (description of) the duration of a night and a day of Brahman and of the several ages (of the world, yuga) according to their order.

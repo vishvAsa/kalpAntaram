@@ -2,7 +2,4 @@
 title = "019 वृषलीफेन-पीतस्य निःश्वासोपहतस्य"
 
 +++
-वृषलीफेन-पीतस्य  
-निःश्वासोपहतस्य च ।  
-तस्यां चैव प्रसूतस्य  
-निष्कृतिर् न विधीयते  ॥ ३.१९ ॥
+019	For him who drinks the moisture of a Sudra's lips, who is tainted by her breath, and who begets a son on her, no expiation is prescribed.

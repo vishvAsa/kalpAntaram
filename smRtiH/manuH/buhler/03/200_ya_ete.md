@@ -2,7 +2,4 @@
 title = "200 य एते"
 
 +++
-य एते तु गणा मुख्याः  
-पितॄणां परिकीर्तिताः ।  
-तेषाम् अपीह विज्ञेयं  
-पुत्र-पौत्रम् अनन्तकम्  ॥ ३.२०० ॥ [१९० मेधातिथिपाठे]
+200	But know also that there exist in this (world) countless sons and grandsons of those chief classes of manes which have been enumerated.

@@ -2,7 +2,4 @@
 title = "140 शूद्राणाम् मासिकम्"
 
 +++
-शूद्राणां मासिकं कार्यं  
-वपनं न्यायवर्तिनाम् ।  
-वैश्यवच् छौचकल्पश् च  
-द्विजोच्छिष्टं च भोजनम्  ॥ ५.१४० ॥ [१३८ मेधातिथिपाठे]
+140	Sudras who live according to the law, shall each month shave (their heads); their mode of purification (shall be) the same as that of Vaisyas, and their food the fragments of an Aryan's meal.

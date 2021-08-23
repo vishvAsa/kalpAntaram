@@ -2,7 +2,4 @@
 title = "200 सम्भोगो दृश्यते"
 
 +++
-संभोगो दृश्यते यत्र  
-न दृश्येतागमः क्व चित् ।  
-आगमः कारणं तत्र  
-न संभोग इति स्थितिः  ॥ ८.२०० ॥
+200	Where possession is evident, but no title is perceived, there the title (shall be) a proof (of ownership), not possession; such is the settled rule.

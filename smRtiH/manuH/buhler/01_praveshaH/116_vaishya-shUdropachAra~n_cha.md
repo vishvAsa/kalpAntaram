@@ -2,8 +2,4 @@
 title = "116 वैश्य-शूद्रोपचारञ् च"
 
 +++
-
-वैश्य-शूद्रोपचारं च  
-सङ्कीर्णानां च सम्भवम् ।  
-आपद्-धर्मं च वर्णानां  
-प्रायश्चित्त-विधिं तथा  ॥ १.११६ ॥
+116	(The law concerning) the behaviour of Vaisyas and Sudras, the origin of the mixed castes, the law for all castes in times of distress and the law of penances,

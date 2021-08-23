@@ -2,8 +2,4 @@
 title = "094 तं हि"
 
 +++
-
-तं हि स्वयम्भूः स्वाद्  
-आस्यात् तपस् तप्त्वादितो ऽसृजत् ।  
-हव्य-कव्याभिवाह्याय  
-सर्वस्याऽस्य च गुप्तये  ॥ १.९४ ॥
+094	For the Self-existent (Svayambhu), having performed austerities, produced him first from his own mouth, in order that the offerings might be conveyed to the gods and manes and that this universe might be preserved.

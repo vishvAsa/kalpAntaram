@@ -2,7 +2,4 @@
 title = "065 अमात्ये दण्ड"
 
 +++
-अमात्ये दण्ड आयत्तो  
-दण्डे वैनयिकी क्रिया ।  
-नृपतौ कोश-राष्ट्रे च  
-दूते सन्धि-विपर्ययौ  ॥ ७.६५ ॥
+065	The army depends on the official (placed in charge of it), the due control (of the subjects) on the army, the treasury and the (government of) the realm on the king, peace and its opposite (war) on the ambassador.

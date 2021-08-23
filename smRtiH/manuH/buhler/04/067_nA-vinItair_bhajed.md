@@ -2,8 +2,4 @@
 title = "067 नाऽविनीतैर् भजेद्"
 
 +++
-
-नाऽविनीतैर् भजेद् धुर्यैर्  
-न च क्षुध्-व्याधि-पीडितैः [मेधातिथिपाठः - नाऽविनीतैर् व्रजेद्] ।  
-न भिन्न-शृङ्गाक्षि-खुरैर्  
-न वालधि+++(=केशवत्पुच्छ)+++-विरूपितैः  ॥ ४.६७ ॥  
+067	Let him not travel with untrained beasts of burden, nor with (animals) that are tormented by hunger or disease, or whose horns, eyes, and hoofs have been injured, or whose tails have been disfigured.

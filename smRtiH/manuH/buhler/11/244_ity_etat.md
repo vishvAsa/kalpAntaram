@@ -2,7 +2,4 @@
 title = "244 इत्य् एतत्"
 
 +++
-इत्य् एतत् तपसो देवा  
-महाभाग्यं प्रचक्षते [मेधातिथिपाठः - यद् एतत् तपसो] ।  
-सर्वस्याऽस्य प्रपश्यन्तस्  
-तपसः पुण्यम् उत्तमम् [मेधातिथिपाठः - पुण्यं उद्भवम्]  ॥ ११.२४४ ॥ [२४३ मेधातिथिपाठे]
+245	The gods, discerning that the holy origin of this whole (world) is from austerity, have thus proclaimed the incomparable power of austerity.

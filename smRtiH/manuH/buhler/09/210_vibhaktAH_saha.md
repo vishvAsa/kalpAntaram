@@ -2,7 +2,4 @@
 title = "210 विभक्ताः सह"
 
 +++
-विभक्ताः सह जीवन्तो  
-विभजेरन् पुनर् यदि ।  
-समस् तत्र विभागः स्याज्  
-ज्यैष्ठ्यं तत्र न विद्यते  ॥ ९.२१० ॥
+210	If brothers, (once) divided and living (again) together (as coparceners), make a second partition, the division shall in that case be equal; in such a case there is no right of primogeniture.

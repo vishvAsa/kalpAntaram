@@ -2,7 +2,4 @@
 title = "193 यस्माद् उत्पत्तिर्"
 
 +++
-यस्माद् उत्पत्तिर् एतेषां  
-सर्वेषाम् अप्य् अशेषतः ।  
-ये च यैर् उपचर्याः स्युर्  
-नियमैस् तान् निबोधत  ॥ ३.१९३ ॥ [१८३ मेधातिथिपाठे]
+193	Now learn fully from whom all these (manes derive) their origin, and with what ceremonies they ought to be worshipped.

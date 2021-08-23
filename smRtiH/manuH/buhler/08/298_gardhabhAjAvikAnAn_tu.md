@@ -2,7 +2,4 @@
 title = "298 गर्धभाजाविकानान् तु"
 
 +++
-गर्धभाजाविकानां तु  
-दण्डः स्यात् पञ्चमाषिकः [मेधातिथिपाठः - पाञ्चमाषिकः] ।  
-माषिकस् तु भवेद् दण्डः  
-श्व-सूकरनिपातने  ॥ ८.२९८ ॥
+298	For donkeys, sheep, and goats the fine shall be five mashas; but the punishment for killing a dog or a pig shall be one masha.

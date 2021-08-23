@@ -2,7 +2,4 @@
 title = "088 अपः शस्त्रम्"
 
 +++
-अपः शस्त्रं विषं मांसं  
-सोमं गन्धांश् च सर्वशः ।  
-क्षीरं क्षौद्रं दधि घृतं  
-तैलं मधु गुडं कुशान्  ॥ १०.८८ ॥
+088	Water, weapons, poison, meat, Soma, and perfumes of all kinds, fresh milk, honey, sour milk, clarified butter, oil, wax, sugar, Kusa-grass;

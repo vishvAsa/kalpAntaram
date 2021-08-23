@@ -2,7 +2,4 @@
 title = "056 न मांस-भक्षणे"
 
 +++
-न मांस-भक्षणे दोषो  
-न मद्ये न च मैथुने ।  
-प्रवृत्तिर् एषा भूतानां  
-निवृत्तिस् तु महाफला  ॥ ५.५६ ॥
+056	There is no sin in eating meat, in (drinking) spirituous liquor, and in carnal intercourse, for that is the natural way of created beings, but abstention brings great rewards.

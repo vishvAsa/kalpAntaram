@@ -2,7 +2,4 @@
 title = "223 सन्ध्याञ् चोपास्य"
 
 +++
-सन्ध्यां चोपास्य शृणुयाद्  
-अन्तर्वेश्मनि शस्त्रभृत् ।  
-रहस्याख्यायिनां चैव  
-प्रणिधीनां च चेष्टितम्  ॥ ७.२२३ ॥ [२२७ मेधातिथिपाठे]
+223	Having performed his twilight-devotions, let him, well armed, hear in an inner apartment the doings of those who make secret reports and of his spies.

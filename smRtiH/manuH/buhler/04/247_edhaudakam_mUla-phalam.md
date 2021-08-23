@@ -2,8 +2,4 @@
 title = "247 एध+उदकम् मूल-फलम्"
 
 +++
-
-एध+++(=इन्धन)++++उदकं मूल-फलम्  
-अन्नम् अभ्युद्यतं च यत् ।  
-सर्वतः प्रतिगृह्णीयान्  
-मध्व् अथाऽभय-दक्षिणाम्  ॥ ४.२४७ ॥ [२४८ मेधातिथिपाठे]+++(5)+++  
+247	He may accept from any (man), fuel, water, roots, fruit, food offered without asking, and honey, likewise a gift (which consists in) a promise of protection.

@@ -2,8 +2,4 @@
 title = "017 सर्वान् परित्यजेद्"
 
 +++
-
-सर्वान् परित्यजेद् अर्थान्  
-स्वाध्यायस्य विरोधिनः ।  
-यथा तथाध्यापयंस् तु  
-सा ह्य् अस्य कृतकृत्यता  ॥ ४.१७ ॥+++(4)+++  
+017	Let him avoid all (means of acquiring) wealth which impede the study of the Veda; (let him maintain himself) anyhow, but study, because that (devotion to the Veda-study secures) the realisation of his aims.

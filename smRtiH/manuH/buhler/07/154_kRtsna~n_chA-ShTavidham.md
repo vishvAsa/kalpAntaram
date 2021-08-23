@@ -2,7 +2,4 @@
 title = "154 कृत्स्नञ् चाऽष्टविधम्"
 
 +++
-कृत्स्नं चाऽष्टविधं कर्म  
-पञ्चवर्गं च तत्त्वतः ।  
-अनुरागापरागौ च  
-प्रचारं मण्डलस्य च  ॥ ७.१५४ ॥ [१५५ मेधातिथिपाठे]
+154	On the whole eightfold business and the five classes (of spies), on the goodwill or enmity and the conduct of the circle (of neighbours he must) carefully (reflect).

@@ -2,7 +2,4 @@
 title = "090 न कूटैर्"
 
 +++
-न कूटैर् आयुधैर् हन्याद्  
-युध्यमानो रणे रिपून् ।  
-न कर्णिभिर् नाऽपि दिग्धैर्  
-नाऽग्निज्वलित-तेजनैः  ॥ ७.९० ॥ [९१ मेधातिथिपाठे]
+090	When he fights with his foes in battle, let him not strike with weapons concealed (in wood), nor with (such as are) barbed, poisoned, or the points of which are blazing with fire.

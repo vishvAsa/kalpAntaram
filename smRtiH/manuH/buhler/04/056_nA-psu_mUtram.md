@@ -2,8 +2,4 @@
 title = "056 नाऽप्सु मूत्रम्"
 
 +++
-
-नाऽप्सु मूत्रं पुरीषं वा  
-ष्ठीवनं वा समुत्सृजेत् ।  
-अमेध्यलिप्तम् अन्यद् वा  
-लोहितं वा विषाणि वा  ॥ ४.५६ ॥  
+056	Let him not throw urine or faeces into the water, nor saliva, nor (clothes) defiled by impure substances, nor any other (impurity), nor blood, nor poisonous things.

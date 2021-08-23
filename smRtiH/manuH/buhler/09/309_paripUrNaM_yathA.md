@@ -2,7 +2,4 @@
 title = "309 परिपूर्णं यथा"
 
 +++
-परिपूर्णं यथा चन्द्रं  
-दृष्ट्वा हृष्यन्ति मानवाः ।  
-तथा प्रकृतयो यस्मिन्  
-स चान्द्रव्रतिको नृपः  ॥ ९.३०९ ॥
+309	He is a king, taking upon himself the office of the Moon, whose (appearance) his subjects (greet with as great joy) as men feel on seeing the full moon.

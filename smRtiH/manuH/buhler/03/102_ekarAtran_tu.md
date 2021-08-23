@@ -2,7 +2,4 @@
 title = "102 एकरात्रन् तु"
 
 +++
-एकरात्रं तु निवसन्न्  
-अतिथिर् ब्राह्मणः स्मृतः ।  
-अनित्यं हि स्थितो यस्मात्  
-तस्माद् अतिथिर् उच्यते  ॥ ३.१०२ ॥ [९२ मेधातिथिपाठे]
+102	But a Brahmana who stays one night only is declared to be a guest (atithi); for because he stays (sthita) not long (anityam), he is called atithi (a guest).

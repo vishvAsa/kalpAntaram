@@ -2,7 +2,4 @@
 title = "097 नश्यन्ति हव्य-कव्यानि"
 
 +++
-नश्यन्ति हव्य-कव्यानि  
-नराणाम् अविजानताम् ।  
-भस्मीभूतेषु विप्रेषु  
-मोहाद् दत्तानि दातृभिः [मेधातिथिपाठः - भस्मभूतेषु]  ॥ ३.९७ ॥ [८७ मेधातिथिपाठे]
+097	The oblations to gods and manes, made by men ignorant (of the law of gifts), are lost, if the givers in their folly present (shares of them) to Brahmanas who are mere ashes.

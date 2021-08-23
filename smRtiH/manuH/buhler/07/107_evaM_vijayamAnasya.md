@@ -2,7 +2,4 @@
 title = "107 एवं विजयमानस्य"
 
 +++
-एवं विजयमानस्य  
-ये ऽस्य स्युः परिपन्थिनः ।  
-तान् आनयेद् वशं सर्वान्  
-सामादिभिर् उपक्रमैः  ॥ ७.१०७ ॥ [१०८ मेधातिथिपाठे]
+107	When he is thus engaged in conquest, let him subdue all the opponents whom he may find, by the (four) expedients, conciliation and the rest.

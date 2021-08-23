@@ -2,8 +2,4 @@
 title = "111 त्रैविद्यो हेतुकस्"
 
 +++
-
-त्रैविद्यो हेतुकस् तर्की  
-नैरुक्तो धर्मपाठकः ।  
-त्रयश् चाश्रमिणः पूर्वे  
-परिषत् स्याद् दशावरा  ॥ १२.१११ ॥
+111	Three persons who each know one of the three principal Vedas, a logician, a Mimamsaka, one who knows the Nirukta, one who recites (the Institutes of) the sacred law, and three men belonging to the first three orders shall constitute a (legal) assembly, consisting of at least ten members.

@@ -2,7 +2,4 @@
 title = "070 बीजम् एके"
 
 +++
-बीजम् एके प्रशंसन्ति  
-क्षेत्रम् अन्ये मनीषिणः ।  
-बीज-क्षेत्रे तथैवाऽन्ये  
-तत्रेयं तु व्यवस्थितिः  ॥ १०.७० ॥
+070	Some sages declare the seed to be more important, and others the field; again others (assert that) the seed and the field (are equally important); but the legal decision on this point is as follows:

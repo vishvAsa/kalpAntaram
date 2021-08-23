@@ -2,8 +2,4 @@
 title = "030 त्रयाणाम् अपि"
 
 +++
-
-त्रयाणाम् अपि चैतेषां  
-गुणानां यः फलोदयः ।  
-अग्र्यो मध्यो जघन्यश् च  
-तं प्रवक्ष्याम्य् अशेषतः  ॥ १२.३० ॥
+030	I will, moreover, fully describe the results which arise from these three qualities, the excellent ones, the middling ones, and the lowest.

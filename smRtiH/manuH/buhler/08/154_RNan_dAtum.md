@@ -2,7 +2,4 @@
 title = "154 ऋणन् दातुम्"
 
 +++
-ऋणं दातुम् अशक्तो यः  
-कर्तुम् इच्छेत् पुनः क्रियाम् ।  
-स दत्त्वा निर्जितां वृद्धिं  
-करणं परिवर्तयेत्  ॥ ८.१५४ ॥
+154	He who, unable to pay a debt (at the fixed time), wishes to make a new contract, may renew the agreement, after paying the interest which is due.

@@ -2,8 +2,4 @@
 title = "078 असकृद् गर्भवासेषु"
 
 +++
-
-असकृद् गर्भवासेषु  
-वासं जन्म च दारुणम् ।  
-बन्धनानि च काष्ठानि  
-परप्रेष्यत्वम् एव च [मेधातिथिपाठः - कष्टानि]  ॥ १२.७८ ॥
+078	The (pain of) repeatedly lying in various wombs and agonizing births, imprisonment in fetters hard to bear, and the misery of being enslaved by others,

@@ -2,7 +2,4 @@
 title = "120 कौशेयाविकयोर् ऊषैः"
 
 +++
-कौशेयाविकयोर् ऊषैः  
-कुतपानाम् अरिष्टकैः ।  
-श्रीफलैर् अंशुपट्टानां  
-क्षौमाणां गौरसर्षपैः  ॥ ५.१२० ॥ [११९ मेधातिथिपाठे]
+120	Silk and woollen stuffs with alkaline earth; blankets with pounded Arishta (fruit); Amsupattas with Bel fruit; linen cloth with (a paste of) yellow mustard.

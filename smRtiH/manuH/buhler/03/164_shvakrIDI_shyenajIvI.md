@@ -2,7 +2,4 @@
 title = "164 श्वक्रीडी श्येनजीवी"
 
 +++
-श्वक्रीडी श्येनजीवी च  
-कन्यादूषक एव च ।  
-हिंस्रो वृषल-वृत्तिश् च  
-गणानां चैव याजकः  ॥ ३.१६४ ॥ [१५४ मेधातिथिपाठे]
+164	A breeder of sporting-dogs, a falconer, one who defiles maidens, he who delights in injuring living creatures, he who gains his subsistence from Sudras, and he who offers sacrifices to the Ganas,

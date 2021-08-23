@@ -2,8 +2,4 @@
 title = "010 वाग्दण्डो ऽथ"
 
 +++
-
-वाग्दण्डो ऽथ मनोदण्डः  
-कायदण्डस् तथैव च ।  
-यस्यैते निहिता बुद्धौ  
-त्रिदण्डीति स उच्यते  ॥ १२.१० ॥
+010	That man is called a (true) tridandin in whose mind these three, the control over his speech (vagdanda), the control over his thoughts (manodanda), and the control over his body (kayadanda), are firmly fixed.

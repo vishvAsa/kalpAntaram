@@ -2,8 +2,4 @@
 title = "110 एवम् आचारतो"
 
 +++
-
-एवम् आचारतो दृष्ट्वा  
-धर्मस्य मुनयो गतिं ।  
-सर्वस्य तपसो मूलम्  
-आचारं जगृहुः परम्  ॥ १.११० ॥
+110	The sages who saw that the sacred law is thus grounded on the rule of conduct, have taken good conduct to be the most excellent root of all austerity.

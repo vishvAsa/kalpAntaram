@@ -2,7 +2,4 @@
 title = "077 हविष्यभुग् वानुसरेत्"
 
 +++
-हविष्यभुग् वानुसरेत्  
-प्रतिस्रोतः सरस्वतीम् ।  
-जपेद् वा नियताहारस्  
-त्रिर् वै वेदस्य संहिताम्  ॥ ११.७७ ॥ [७६ मेधातिथिपाठे]
+078	Or, subsisting on sacrificial food, he may walk against the stream along (the whole course of the river) Sarasvati; or, restricting his food (very much), he may mutter thrice the Samhita of a Veda.

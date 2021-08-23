@@ -2,8 +2,4 @@
 title = "143 स्पृष्ट्वैतान् अशुचिर्"
 
 +++
-
-स्पृष्ट्वैतान् अशुचिर् नित्यम्  
-अद्भिः प्राणान् +++(→इन्द्रियाणि)+++ उपस्पृशेत् ।  
-गात्राणि चैव सर्वाणि  
-नाभिं पाणितलेन तु  ॥ ४.१४३ ॥  
+143	If he has touched these, while impure, let him always sprinkle with his hand water on the organs of sensation, all his limbs, and the navel.

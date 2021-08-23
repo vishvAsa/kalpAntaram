@@ -2,8 +2,4 @@
 title = "079 बन्धु-प्रिय-वियोगांश् च"
 
 +++
-
-बन्धु-प्रिय-वियोगांश् च  
-संवासं चैव दुर्जनैः ।  
-द्रव्यार्जनं च नाशं च  
-मित्रामित्रस्य चाऽर्जनम्  ॥ १२.७९ ॥
+079	And separations from their relatives and dear ones, and the (pain of) dwelling together with the wicked, (labour in) gaining wealth and its loss, (trouble in) making friends and (the appearance of) enemies,

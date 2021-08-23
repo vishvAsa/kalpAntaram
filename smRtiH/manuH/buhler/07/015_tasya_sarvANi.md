@@ -2,7 +2,4 @@
 title = "015 तस्य सर्वाणि"
 
 +++
-तस्य सर्वाणि भूतानि  
-स्थावराणि चराणि च ।  
-भयाद् भोगाय कल्पन्ते  
-स्वधर्मान् न चलन्ति च  ॥ ७.१५ ॥
+015	Through fear of him all created beings, both the immovable and the movable, allow themselves to be enjoyed and swerve not from their duties.

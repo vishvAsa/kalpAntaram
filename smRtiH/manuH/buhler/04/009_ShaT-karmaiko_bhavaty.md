@@ -2,8 +2,4 @@
 title = "009 षट्-कर्मैको भवत्य्"
 
 +++
-
-+++(पूर्वोक्त+ऋतादि-)+++षट्-कर्मैको भवत्य् एषां  
-त्रिभिर् अन्यः प्रवर्तते ।  
-द्वाभ्याम् एकश् चतुर्थस् तु  
-ब्रह्मसत्त्रेण जीवति  ॥ ४.९ ॥  
+009	One of these follows six occupations, another subsists by three, one by two, but the fourth lives by the Brahmasattra.

@@ -2,7 +2,4 @@
 title = "017 शूद्रां शयनम्"
 
 +++
-शूद्रां शयनम् आरोप्य  
-ब्राह्मणो यात्य् अधोगतिम् ।  
-जनयित्वा सुतं तस्यां  
-ब्राह्मण्याद् एव हीयते  ॥ ३.१७ ॥
+017	A Brahmana who takes a Sudra wife to his bed, will (after death) sink into hell; if he begets a child by her, he will lose the rank of a Brahmana.

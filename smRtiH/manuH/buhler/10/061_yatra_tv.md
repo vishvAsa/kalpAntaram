@@ -2,7 +2,4 @@
 title = "061 यत्र त्व्"
 
 +++
-यत्र त्व् एते परिध्वंसाज्  
-जायन्ते वर्णदूषकाः ।  
-राष्ट्रिकैः सह तद् राष्ट्रं  
-क्षिप्रम् एव विनश्यति [मेधातिथिपाठः - राष्ट्रियैः]  ॥ १०.६१ ॥
+061	But that kingdom in which such bastards, sullying (the purity of) the castes, are born, perishes quickly together with its inhabitants.

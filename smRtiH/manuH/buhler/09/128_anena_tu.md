@@ -2,7 +2,4 @@
 title = "128 अनेन तु"
 
 +++
-अनेन तु विधानेन  
-पुरा चक्रे ऽथ पुत्रिकाः ।  
-विवृद्ध्यर्थं स्ववंशस्य  
-स्वयं दक्षः प्रजापतिः  ॥ ९.१२८ ॥
+128	According to this rule Daksha, himself, lord of created beings, formerly made (all his female offspring) appointed daughters in order to multiply his race.

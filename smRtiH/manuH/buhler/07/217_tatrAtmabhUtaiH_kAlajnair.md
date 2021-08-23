@@ -2,7 +2,4 @@
 title = "217 तत्रात्मभूतैः कालज्ञैर्"
 
 +++
-तत्रात्मभूतैः कालज्ञैर्  
-अहार्यैः परिचारकैः ।  
-सुपरीक्षितम् अन्नाद्यम्  
-अद्यान् मन्त्रैर् विषापहैः  ॥ ७.२१७ ॥ [२२१ मेधातिथिपाठे]
+217	There he may eat food, (which has been prepared) by faithful, incorruptible (servants) who know the (proper) time (for dining), which has been well examined (and hallowed) by sacred texts that destroy poison.

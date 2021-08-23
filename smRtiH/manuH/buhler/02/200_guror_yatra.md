@@ -2,8 +2,4 @@
 title = "200 गुरोर् यत्र"
 
 +++
-
-गुरोर् यत्र परिवादो  
-निन्दा वापि प्रवर्तते ।  
-कर्णौ तत्र पिधातव्यौ  
-गन्तव्यं वा ततो ऽन्यतः  ॥ २.२०० ॥
+200	Wherever (people) justly censure or falsely defame his teacher, there he must cover his ears or depart thence to another place.

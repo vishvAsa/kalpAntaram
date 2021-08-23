@@ -2,7 +2,4 @@
 title = "019 नक्तञ् चाऽन्नम्"
 
 +++
-नक्तं चाऽन्नं समश्नीयाद्  
-दिवा वाहृत्य शक्तितः ।  
-चतुर्थकालिको वा स्यात्  
-स्याद् वाप्य् अष्टम-कालिकः  ॥ ६.१९ ॥
+019	Having collected food according to his ability, he may either eat at night (only), or in the day-time (only), or at every fourth meal-time, or at every eighth.

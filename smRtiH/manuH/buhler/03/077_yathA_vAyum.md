@@ -2,7 +2,4 @@
 title = "077 यथा वायुम्"
 
 +++
-यथा वायुं समाश्रित्य  
-वर्तन्ते सर्वजन्तवः [मेधातिथिपाठः - सर्वे जीवन्ति जन्तवः] ।  
-तथा गृहस्थम् आश्रित्य  
-वर्तन्ते सर्व आश्रमाः [मेधातिथिपाठः - वर्तन्त इतराश्रमः]  ॥ ३.७७ ॥ [६७ मेधातिथिपाठे]
+077	As all living creatures subsist by receiving support from air, even so (the members of) all orders subsist by receiving support from the householder.

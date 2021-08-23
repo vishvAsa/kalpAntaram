@@ -2,8 +2,4 @@
 title = "106 आर्षन् धर्मोपदेशम्"
 
 +++
-
-आर्षं धर्मोपदेशं च  
-वेदशास्त्राविरोधिना ।  
-यस् तर्केणाऽनुसंधत्ते  
-स धर्मं वेद नेतरः  ॥ १२.१०६ ॥
+106	He alone, and no other man, knows the sacred law, who explores the (utterances) of the sages and the body of the laws, by (modes of) reasoning, not repugnant to the Veda-lore.

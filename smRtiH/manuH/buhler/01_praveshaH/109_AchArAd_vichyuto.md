@@ -2,8 +2,4 @@
 title = "109 आचाराद् विच्युतो"
 
 +++
-
-आचाराद् विच्युतो विप्रो  
-न वेदफलम् अश्नुते ।  
-आचारेण तु संयुक्तः  
-सम्पूर्णफलभाज् भवेत् [मेधातिथिपाठः - सम्पूर्णफलभाक् स्मृतः]  ॥ १.१०९ ॥
+109	A Brahmana who departs from the rule of conduct, does not reap the fruit of the Veda, but he who duly follows it, will obtain the full reward.

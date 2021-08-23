@@ -2,7 +2,4 @@
 title = "097 कन्यायान् दत्त-शुल्कायाम्"
 
 +++
-कन्यायां दत्त-शुल्कायां  
-म्रियेत यदि शुल्कदः ।  
-देवराय प्रदातव्या  
-यदि कन्यानुमन्यते  ॥ ९.९७ ॥
+097	If, after the nuptial fee has been paid for a maiden, the giver of the fee dies, she shall be given in marriage to his brother, in case she consents.

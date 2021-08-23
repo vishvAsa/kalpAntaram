@@ -2,8 +2,4 @@
 title = "045 ब्राह्मणो बैल्व-पालाशौ"
 
 +++
-
-ब्राह्मणो बैल्व-पालाशौ  
-क्षत्रियो वाट-खादिरौ ।  
-पैलवाउदुम्बरौ वैश्यो  
-दण्डान् अर्हन्ति धर्मतः  ॥ २.४५ ॥
+045	A Brahmana shall (carry), according to the sacred law, a staff of Bilva or Palasa; a Kshatriya, of Vata or Khadira; (and) a Vaisya, of Pilu or Udumbara.

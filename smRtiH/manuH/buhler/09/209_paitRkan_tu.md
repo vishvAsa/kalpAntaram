@@ -2,7 +2,4 @@
 title = "209 पैतृकन् तु"
 
 +++
-पैतृकं तु पिता द्रव्यम्  
-अनवाप्तं यद् आप्नुयात् ।  
-न तत् पुत्रैर् भजेत् सार्धम्  
-अकामः स्वयम् अर्जितम्  ॥ ९.२०९ ॥
+209	But if a father recovers lost ancestral property, he shall not divide it, unless by his own will, with his sons, (for it is) self-acquired (property).

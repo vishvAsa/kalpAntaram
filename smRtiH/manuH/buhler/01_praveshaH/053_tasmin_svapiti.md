@@ -2,8 +2,4 @@
 title = "053 तस्मिन् स्वपिति"
 
 +++
-
-तस्मिन् स्वपिति तु स्वस्थे  
-कर्मात्मानः शरीरिणः [मेधातिथिपाठः - स्वपति] ।  
-स्वकर्मभ्यो निवर्तन्ते  
-मनश् च ग्लानिम् ऋच्छति  ॥ १.५३ ॥
+053	But when he reposes in calm sleep, the corporeal beings whose nature is action, desist from their actions and mind becomes inert.

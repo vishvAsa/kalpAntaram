@@ -2,7 +2,4 @@
 title = "347 न मित्रकारणाद्"
 
 +++
-न मित्रकारणाद् राजा  
-विपुलाद् वा धनागमात् ।  
-समुत्सृजेत् साहसिकान्  
-सर्वभूतभयावहान्  ॥ ८.३४७ ॥
+347	Neither for friendship's sake, nor for the sake of great lucre, must a king let go perpetrators of violence, who cause terror to all creatures.

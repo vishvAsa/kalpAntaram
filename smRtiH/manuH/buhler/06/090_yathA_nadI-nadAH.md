@@ -2,7 +2,4 @@
 title = "090 यथा नदी-नदाः"
 
 +++
-यथा नदी-नदाः सर्वे  
-सागरे यान्ति संस्थितिम् ।  
-तथैवाश्रमिणः सर्वे  
-गृहस्थे यान्ति संस्थितिम्  ॥ ६.९० ॥
+090	As all rivers, both great and small, find a resting-place in the ocean, even so men of all orders find protection with householders

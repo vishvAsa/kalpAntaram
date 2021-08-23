@@ -2,7 +2,4 @@
 title = "051 अर्थे ऽपव्ययमानम्"
 
 +++
-अर्थे ऽपव्ययमानं तु  
-करणेन विभावितम् ।  
-दापयेद् धनिकस्याऽर्थं  
-दण्डलेशं च शक्तितः  ॥ ८.५१ ॥
+051	But him who denies a debt which is proved by good evidence, he shall order to pay that debt to the creditor and a small fine according to his circumstances.

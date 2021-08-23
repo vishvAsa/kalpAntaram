@@ -2,7 +2,4 @@
 title = "223 त्रिर् अह्नस्"
 
 +++
-त्रिर् अह्नस् त्रिर् निशायां च  
-स-वासा जलम् आविशेत् ।  
-स्त्री-शूद्र-पतितांश् चैव  
-नाऽभिभाषेत कर्हि चित्  ॥ ११.२२३ ॥ [२२२ मेधातिथिपाठे]
+224	Let him bathe three times each day and thrice each night, dressed in his clothes; let him on no account talk to women, Sudras, and outcasts.

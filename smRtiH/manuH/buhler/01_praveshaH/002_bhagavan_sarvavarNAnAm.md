@@ -2,8 +2,4 @@
 title = "002 भगवन् सर्ववर्णानाम्"
 
 +++
-
-भगवन् सर्ववर्णानां  
-यथावद् अनुपूर्वशः ।  
-अन्तरप्रभवानां च  
-धर्मान् नो वक्तुम् अर्हसि  ॥ १.२ ॥
+002	'Deign, divine one, to declare to us precisely and in due order the sacred laws of each of the (four chief) castes (varna) and of the intermediate ones.

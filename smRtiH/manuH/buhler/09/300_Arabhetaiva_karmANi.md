@@ -2,7 +2,4 @@
 title = "300 आरभेतैव कर्माणि"
 
 +++
-आरभेतैव कर्माणि  
-श्रान्तः श्रान्तः पुनः पुनः ।  
-कर्माण्य् आरभमाणं हि  
-पुरुषं श्रीर् निषेवते  ॥ ९.३०० ॥
+300	(Though he be) ever so much tired (by repeated failures), let him begin his operations again and again; for fortune greatly favours the man who (strenuously) exerts himself in his undertakings.

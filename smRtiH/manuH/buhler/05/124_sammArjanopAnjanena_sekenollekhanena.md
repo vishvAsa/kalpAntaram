@@ -2,7 +2,4 @@
 title = "124 सम्मार्जनोपाञ्जनेन सेकेनोल्लेखनेन"
 
 +++
-सम्मार्जनोपाञ्जनेन  
-सेकेनोल्लेखनेन च ।  
-गवां च परिवासेन  
-भूमिः शुध्यति पञ्चभिः [मेधातिथिपाठः - शुद्ध्यति]  ॥ ५.१२४ ॥ [१२२ मेधातिथिपाठे]
+124	Land is purified by (the following) five (modes, viz.) by sweeping, by smearing (it with cowdung), by sprinkling (it with cows' urine or milk), by scraping, and by cows staying (on it during a day and night).

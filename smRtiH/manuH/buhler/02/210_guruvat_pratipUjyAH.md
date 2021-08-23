@@ -2,8 +2,4 @@
 title = "210 गुरुवत् प्रतिपूज्याः"
 
 +++
-
-गुरुवत् प्रतिपूज्याः स्युः  
-स-वर्णा गुरुयोषितः ।  
-असवर्णास् तु सम्पूज्याः  
-प्रत्युत्थानाभिवादनैः  ॥ २.२१० ॥
+210	The wives of the teacher, who belong to the same caste, must be treated as respectfully as the teacher; but those who belong to a different caste, must be honoured by rising and salutation.

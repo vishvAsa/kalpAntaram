@@ -2,7 +2,4 @@
 title = "140 वसिष्ठविहितां वृद्धिम्"
 
 +++
-वसिष्ठविहितां वृद्धिं  
-सृजेद् वित्तविवर्धिनीम् ।  
-अशीतिभागं गृह्णीयान्  
-मासाद् वार्धुषिकः शते  ॥ ८.१४० ॥
+140	A money-lender may stipulate as an increase of his capital, for the interest, allowed by Vasishtha, and take monthly the eightieth part of a hundred.

@@ -2,7 +2,4 @@
 title = "393 श्रोत्रियः श्रोत्रियम्"
 
 +++
-श्रोत्रियः श्रोत्रियं साधुं  
-भूतिकृत्येष्व् अभोजयन् ।  
-तद्-अन्नं द्विगुणं दाप्यो  
-हिरण्यं चैव माषकम् [मेधातिथिपाठः - हैरण्यं]  ॥ ८.३९३ ॥
+393	A Srotriya who does not entertain a virtuous Srotriya at auspicious festive rites, shall be made to pay him twice (the value of) the meal and a masha of gold (as a fine to the king).

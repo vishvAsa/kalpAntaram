@@ -2,7 +2,4 @@
 title = "045 नाऽभिनन्देत मरणम्"
 
 +++
-नाऽभिनन्देत मरणं  
-नाऽभिनन्देत जीवितम् ।  
-कालम् एव प्रतीक्षेत  
-निर्वेशं भृतको यथा  ॥ ६.४५ ॥
+045	Let him not desire to die, let him not desire to live; let him wait for (his appointed) time, as a servant (waits) for the payment of his wages.

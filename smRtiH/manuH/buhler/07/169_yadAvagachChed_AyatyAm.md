@@ -2,7 +2,4 @@
 title = "169 यदावगच्छेद् आयत्याम्"
 
 +++
-यदावगच्छेद् आयत्याम्  
-आधिक्यं ध्रुवम् आत्मनः ।  
-तदात्वे चाऽल्पिकां पीडां  
-तदा सन्धिं समाश्रयेत्  ॥ ७.१६९ ॥ [१७० मेधातिथिपाठे]
+169	When (the king) knows (that) at some future time his superiority (is) certain, and (that) at the time present (he will suffer) little injury, then let him have recourse to peaceful measures.

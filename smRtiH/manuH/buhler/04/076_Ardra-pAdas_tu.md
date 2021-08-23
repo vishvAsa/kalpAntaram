@@ -2,8 +2,4 @@
 title = "076 आर्द्र-पादस् तु"
 
 +++
-
-आर्द्र-पादस् तु भुञ्जीत  
-नार्द्र-पादस् तु संविशेत् ।  
-आर्द्र-पादस् तु भुञ्जानो  
-दीर्घम् आयुर् अवाप्नुयात्  ॥ ४.७६ ॥+++(4)+++  
+076	Let him eat while his feet are (yet) wet (from the ablution), but let him not go to bed with wet feet. He who eats while his feet are (still) wet, will attain long life.

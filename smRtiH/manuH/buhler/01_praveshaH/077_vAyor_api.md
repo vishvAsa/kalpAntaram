@@ -2,8 +2,4 @@
 title = "077 वायोर् अपि"
 
 +++
-
-वायोर् अपि विकुर्वाणाद्  
-विरोचिष्णु तमोनुदम् ।  
-ज्योतिर् उत्पद्यते भास्वत्  
-तद् रूप-गुणम् उच्यते  ॥ १.७७ ॥
+077	Next from wind modifying itself, proceeds the brilliant light, which illuminates and dispels darkness; that is declared to possess the quality of colour;

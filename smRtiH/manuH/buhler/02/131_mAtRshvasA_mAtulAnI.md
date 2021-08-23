@@ -2,8 +2,4 @@
 title = "131 मातृश्वसा मातुलानी"
 
 +++
-
-मातृश्वसा मातुलानी  
-श्वश्रूर् अथ पितृश्वसा ।  
-सम्पूज्या गुरुपत्नीवत्  
-समास् ता गुरुभार्यया  ॥ २.१३१ ॥
+131	A maternal aunt, the wife of a maternal uncle, a mother-in-law, and a paternal aunt must be honoured like the wife of one's teacher; they are equal to the wife of one's teacher.

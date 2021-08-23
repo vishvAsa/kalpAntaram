@@ -2,8 +2,4 @@
 title = "141 हीनाङ्गान् अतिरिक्ताङ्गान्"
 
 +++
-
-हीनाङ्गान् अतिरिक्ताङ्गान्  
-विद्या-हीनान् वयो-ऽधिकान् [मेधातिथिपाठः - वयोऽअतिगान्] ।  
-रूप-द्रविण-हीनांश् च  
-जाति-हीनांश् च नाक्षिपेत् [मेधातिथिपाठः - रूपद्रव्य-हीनांश् च]  ॥ ४.१४१ ॥+++(5)+++  
+141	Let him not insult those who have redundant limbs or are deficient in limbs, nor those destitute of knowledge, nor very aged men, nor those who have no beauty or wealth, nor those who are of low birth.

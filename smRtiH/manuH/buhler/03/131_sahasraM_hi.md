@@ -2,7 +2,4 @@
 title = "131 सहस्रं हि"
 
 +++
-सहस्रं हि सहस्राणाम्  
-अनृचां यत्र भुञ्जते ।  
-एकस् तान् मन्त्रवित् प्रीतः  
-सर्वान् अर्हति धर्मतः  ॥ ३.१३१ ॥ [१२१ मेधातिथिपाठे]
+131	Though a million of men, unaquainted with the Rikas, were to dine at a (funeral sacrifice), yet a single man, learned in the Veda, who is satisfied (with his entertainment), is worth them all as far as the (production of) spiritual merit (is concerned).

@@ -2,8 +2,4 @@
 title = "053 उपस्पृश्य द्विजो"
 
 +++
-
-उपस्पृश्य द्विजो नित्यम्  
-अन्नम् अद्यात् समाहितः ।  
-भुक्त्वा चोपस्पृशेत् सम्यग्  
-अद्भिः खानि च संस्पृशेत्  ॥ २.५३ ॥
+053	Let a twice-born man always eat his food with concentrated mind, after performing an ablution; and after he has eaten, let him duly cleanse himself with water and sprinkle the cavities (of his head).

@@ -2,7 +2,4 @@
 title = "075 जपन् वान्यतमम्"
 
 +++
-जपन् वान्यतमं वेदं  
-योजनानां शतं व्रजेत् ।  
-ब्रह्महत्यापनोदाय  
-मितभुङ् नियतेन्द्रियः  ॥ ११.७५ ॥ [७४ मेधातिथिपाठे]
+076	Or, in order to remove (the guilt of) slaying a Brahmana, he may walk one hundred yoganas, reciting one of the Vedas, eating little, and controlling his organs;

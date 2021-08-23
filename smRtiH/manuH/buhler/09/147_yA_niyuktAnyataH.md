@@ -2,7 +2,4 @@
 title = "147 या नियुक्तान्यतः"
 
 +++
-या नियुक्तान्यतः पुत्रं  
-देवराद् वाप्य् अवाप्नुयात् ।  
-तं कामजम् अरिक्थीयं  
-वृथोत्पन्नं प्रचक्षते [मेधातिथिपाठः - मिथ्योत्पन्नं]  ॥ ९.१४७ ॥
+147	If a woman (duly) appointed bears a son to her brother-in-law or to another (Sapinda), that (son, if he is) begotten through desire, they declare (to be) incapable of inheriting and to be produced in vain.

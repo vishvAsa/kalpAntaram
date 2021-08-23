@@ -2,8 +2,4 @@
 title = "056 यदाणुमात्रिको भूत्वा"
 
 +++
-
-यदाणुमात्रिको भूत्वा  
-बीजं स्थास्नु चरिष्णु च ।  
-समाविशति संसृष्टस्  
-तदा मूर्तिं विमुञ्चति  ॥ १.५६ ॥
+056	When, being clothed with minute particles (only), it enters into vegetable or animal seed, it then assumes, united (with the fine body), a (new) corporeal frame.

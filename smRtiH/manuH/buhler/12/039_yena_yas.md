@@ -2,8 +2,4 @@
 title = "039 येन यस्"
 
 +++
-
-येन यस् तु गुणेनैषां  
-संसरान् प्रतिपद्यते [मेधातिथिपाठः - येन यांस् तु] ।  
-तान् समासेन वक्ष्यामि  
-सर्वस्याऽस्य यथाक्रमम्  ॥ १२.३९ ॥
+039	I will briefly declare in due order what transmigrations in this whole (world a man) obtains through each of these qualities.

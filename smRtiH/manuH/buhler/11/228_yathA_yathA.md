@@ -2,7 +2,4 @@
 title = "228 यथा यथा"
 
 +++
-यथा यथा नरो ऽधर्मं  
-स्वयं कृत्वानुभाषते ।  
-तथा तथा त्वचेवाऽहिस्  
-तेनाऽधर्मेण मुच्यते  ॥ ११.२२८ ॥ [२२७ मेधातिथिपाठे]
+229	In proportion as a man who has done wrong, himself confesses it, even so far he is freed from guilt, as a snake from its slough.

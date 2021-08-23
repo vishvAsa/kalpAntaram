@@ -2,7 +2,4 @@
 title = "118 चतुर्थम् आददानो"
 
 +++
-चतुर्थम् आददानो ऽपि  
-क्षत्रियो भागम् आपदि ।  
-प्रजा रक्षन् परं शक्त्या  
-किल्बिषात् प्रतिमुच्यते  ॥ १०.११८ ॥
+118	A Kshatriya (king) who, in times of distress, takes even the fourth part (of the crops), is free from guilt, if he protects his subjects to the best of his ability.

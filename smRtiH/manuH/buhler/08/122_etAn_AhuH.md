@@ -2,7 +2,4 @@
 title = "122 एतान् आहुः"
 
 +++
-एतान् आहुः कौटसाक्ष्ये  
-प्रोक्तान् दण्डान् मनीषिभिः ।  
-धर्मस्याऽव्यभिचारार्थम्  
-अधर्मनियमाय च  ॥ ८.१२२ ॥
+122	They declare that the wise have prescribed these fines for perjury, in order to prevent a failure of justice, and in order to restrain injustice.

@@ -2,7 +2,4 @@
 title = "072 यस्माद् बीजप्रभावेण"
 
 +++
-यस्माद् बीजप्रभावेण  
-तिर्यग्जा ऋषयो ऽभवन् ।  
-पूजिताश् च प्रशस्ताश् च  
-तस्माद् बीजं प्रशस्यते [मेधातिथिपाठः - विशिष्यते]  ॥ १०.७२ ॥
+072	As through the power of the seed (sons) born of animals became sages who are honoured and praised, hence the seed is declared to be more important.

@@ -2,8 +2,4 @@
 title = "075 सर्वञ् च"
 
 +++
-
-सर्वं च तिलसम्बद्धं  
-नाऽद्याद् अस्तम् इते रवौ ।  
-न च नग्नः शयीतेह  
-न चोच्छिष्टः+++(=अक्षालितमुखः)+++ क्व चिद् व्रजेत्  ॥ ४.७५ ॥+++(4)+++  
+075	Let him not eat after sunset any (food) containing sesamum grains; let him never sleep naked, nor go anywhere unpurified (after meals).

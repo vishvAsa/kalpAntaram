@@ -2,7 +2,4 @@
 title = "177 सा चेत्"
 
 +++
-सा चेत् पुनः प्रदुष्येत् तु  
-सदृशेनोपमन्त्रिता [क्:सदृशेनोपयन्त्रिता?] ।  
-कृच्छ्रं चान्द्रायणं चैव  
-तद् अस्याः पावनं स्मृतम्  ॥ ११.१७७ ॥ [१७६ मेधातिथिपाठे]
+178	If, being solicited by a man (of) equal (caste), she (afterwards) is again unfaithful, then a Krikkhra and a lunar penance are prescribed as the means of purifying her.

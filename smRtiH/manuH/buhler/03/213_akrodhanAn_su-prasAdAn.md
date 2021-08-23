@@ -2,7 +2,4 @@
 title = "213 अक्रोधनान् सु-प्रसादान्"
 
 +++
-अक्रोधनान् सु-प्रसादान्  
-वदन्त्य् एतान् पुरातनान् ।  
-लोकस्याप्यायने युक्तान्  
-श्राद्ध-देवान् द्विजोत्तमान् [मेधातिथिपाठः - श्राद्धे देवान् द्विजोत्तमान्]  ॥ ३.२१३ ॥ [२०३ मेधातिथिपाठे]
+213	They (also) call those first of twice-born men the ancient deities of the funeral sacrifice, free from anger, easily pleased, employed in making men prosper.

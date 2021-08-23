@@ -2,7 +2,4 @@
 title = "089 आहवेषु मिथो"
 
 +++
-आहवेषु मिथो ऽन्योन्यं  
-जिघांसन्तो महीक्षितः ।  
-युध्यमानाः परं शक्त्या  
-स्वर्गं यान्त्य् अपराङ्मुखाः  ॥ ७.८९ ॥ [९० मेधातिथिपाठे]
+089	Those kings who, seeking to slay each other in battle, fight with the utmost exertion and do not turn back, go to heaven.

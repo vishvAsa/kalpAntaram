@@ -2,7 +2,4 @@
 title = "041 तत् प्राज्ञेन"
 
 +++
-तत् प्राज्ञेन विनीतेन  
-ज्ञान-विज्ञानवेदिना ।  
-आयुष्कामेन वप्तव्यं  
-न जातु परयोषिति  ॥ ९.४१ ॥
+041	Never therefore must a prudent well-trained man, who knows the Veda and its Angas and desires long life, cohabit with another's wife.

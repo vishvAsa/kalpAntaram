@@ -2,8 +2,4 @@
 title = "023 वाच्य् एके"
 
 +++
-
-वाच्य् एके जुह्वति प्राणं  
-प्राणे वाचं च सर्वदा ।  
-वाचि प्राणे च पश्यन्तो  
-यज्ञनिर्वृत्तिम् अक्षयाम्  ॥ ४.२३ ॥  
+023	Knowing that the (performance of the) sacrifice in their speech and their breath yields imperishable (rewards), some always offer their breath in their speech, and their speech in their breath.

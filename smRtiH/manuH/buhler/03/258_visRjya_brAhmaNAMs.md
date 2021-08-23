@@ -2,7 +2,4 @@
 title = "258 विसृज्य ब्राह्मणांस्"
 
 +++
-विसृज्य ब्राह्मणांस् तांस् तु  
-नियतो वाग्यतः शुचिः [मेधातिथिपाठः - विसर्ज्य ब्राह्मनांस् तांस् तु प्रयतो विधिपूर्वकम्] ।  
-दक्षिणां दिशम् आकाङ्क्षन्  
-याचेतेमान् वरान् पितॄन्  ॥ ३.२५८ ॥ [२४८ मेधातिथिपाठे]
+258	Having dismissed the (invited) Brahmanas, let him, with a concentrated mind, silent and pure, look towards the south and ask these blessings of the manes:

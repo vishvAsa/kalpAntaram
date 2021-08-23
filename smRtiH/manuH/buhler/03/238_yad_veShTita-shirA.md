@@ -2,7 +2,4 @@
 title = "238 यद् वेष्टित-शिरा"
 
 +++
-यद् वेष्टित-शिरा भुङ्क्ते  
-यद् भुङ्क्ते दक्षिणा-मुखः ।  
-सोपानत्कश् च यद् भुङ्क्ते  
-तद् वै रक्षांसि भुञ्जते  ॥ ३.२३८ ॥ [२२८ मेधातिथिपाठे]
+238	What (a guest) eats, covering his head, what he eats with his face turned towards the south, what he eats with sandals on (his feet), that the Rakshasas consume.

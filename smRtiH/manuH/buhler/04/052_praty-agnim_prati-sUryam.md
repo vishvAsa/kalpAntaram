@@ -2,8 +2,4 @@
 title = "052 प्रत्य्-अग्निम् प्रति-सूर्यम्"
 
 +++
-
-प्रत्य्-अग्निं प्रति-सूर्यं च  
-प्रति-सोमोदक-द्विजम् ।  
-प्रति-गु प्रति-वातं च  
-प्रज्ञा नश्यति मेहतः [क्:प्रति-गां प्रति-वातं]  ॥ ४.५२ ॥ [४९ मेधातिथिपाठे]  
+052	The intellect of (a man) who voids urine against a fire, the sun, the moon, in water, against a Brahmana, a cow, or the wind, perishes.

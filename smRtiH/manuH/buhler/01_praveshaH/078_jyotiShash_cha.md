@@ -2,8 +2,4 @@
 title = "078 ज्योतिषश् च"
 
 +++
-
-ज्योतिषश् च विकुर्वाणाद्  
-आपो रस-गुणाः स्मृताः ।  
-अद्भ्यो गन्ध-गुणा भूमिर्  
-इत्य् एषा सृष्टिर् आदितः  ॥ १.७८ ॥
+078	And from light, modifying itself, (is produced) water, possessing the quality of taste, from water earth which has the quality of smell; such is the creation in the beginning.

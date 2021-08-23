@@ -2,7 +2,4 @@
 title = "304 वार्षिकांश् चतुरो"
 
 +++
-वार्षिकांश् चतुरो मासान्  
-यथेन्द्रो ऽभिप्रवर्षति ।  
-तथाभिवर्षेत् स्वं राष्ट्रं  
-कामैर् इन्द्रव्रतं चरन्  ॥ ९.३०४ ॥
+304	As Indra sends copious rain during the four months of the rainy season, even so let the king, taking upon himself the office of Indra, shower benefits on his kingdom.

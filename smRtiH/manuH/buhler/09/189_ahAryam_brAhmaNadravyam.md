@@ -2,7 +2,4 @@
 title = "189 अहार्यम् ब्राह्मणद्रव्यम्"
 
 +++
-अहार्यं ब्राह्मणद्रव्यं  
-राज्ञा नित्यम् इति स्थितिः ।  
-इतरेषां तु वर्णानां  
-सर्वाभावे हरेन् नृपः  ॥ ९.१८९ ॥
+189	The property of a Brahmana must never be taken by the king, that is a settled rule; but (the property of men) of other castes the king may take on failure of all (heirs).

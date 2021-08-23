@@ -2,7 +2,4 @@
 title = "005 यस्माद् एषाम्"
 
 +++
-यस्माद् एषां सुरेन्द्राणां  
-मात्राभ्यो निर्मितो नृपः ।  
-तस्माद् अभिभवत्य् एष  
-सर्वभूतानि तेजसा  ॥ ७.५ ॥
+005	Because a king has been formed of particles of those lords of the gods, he therefore surpasses all created beings in lustre;

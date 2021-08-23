@@ -2,7 +2,4 @@
 title = "068 ऊन-द्विवार्षिकम् प्रेतम्"
 
 +++
-ऊन-द्विवार्षिकं प्रेतं  
-निदध्युर् बान्धवा बहिः ।  
-अलङ्कृत्य शुचौ भूमाव्  
-अस्थिसञ्चयनाद् ऋते +++(स्थाने)+++ ॥ ५.६८ ॥ [६७ मेधातिथिपाठे]+++(5)+++
+068	A child that has died before the completion of its second year, the relatives shall carry out (of the village), decked (with flowers, and bury it) in pure ground, without collecting the bones (afterwards).

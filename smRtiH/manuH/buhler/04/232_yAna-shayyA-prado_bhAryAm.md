@@ -2,8 +2,4 @@
 title = "232 यान-शय्या-प्रदो भार्याम्"
 
 +++
-
-यान-शय्या-प्रदो भार्याम्  
-ऐश्वर्यम् अभयप्रदः ।  
-धान्यदः शाश्वतं सौख्यं  
-ब्रह्मदो ब्रह्म-सार्ष्टिताम्+++(=साम्यम्)+++  ॥ ४.२३२ ॥ [२३३ मेधातिथिपाठे]  
+232	A giver of a carriage or of a bed a wife, a giver of protection supreme dominion, a giver of grain eternal bliss, a giver of the Veda (brahman) union with Brahman;

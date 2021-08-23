@@ -2,8 +2,4 @@
 title = "093 उत्तमाङ्गोद्भवाज् ज्येष्ठ्याद्"
 
 +++
-
-उत्तमाङ्गोद्भवाज् ज्येष्ठ्याद्  
-ब्रह्मणश् चैव धारणात् [मेधातिथिपाठः - ज्यैष्ठ्याद्] ।  
-सर्वस्यैवाऽस्य सर्गस्य  
-धर्मतो ब्राह्मणः प्रभुः  ॥ १.९३ ॥
+093	As the Brahmana sprang from (Brahman's) mouth, as he was the first-born, and as he possesses the Veda, he is by right the lord of this whole creation.

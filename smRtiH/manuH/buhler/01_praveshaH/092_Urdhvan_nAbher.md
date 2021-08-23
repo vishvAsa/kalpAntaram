@@ -2,8 +2,4 @@
 title = "092 ऊर्ध्वन् नाभेर्"
 
 +++
-
-ऊर्ध्वं नाभेर् मेध्यतरः  
-पुरुषः परिकीर्तितः ।  
-तस्मान् मेध्यतमं त्व् अस्य  
-मुखम् उक्तं स्वयम्भुवा  ॥ १.९२ ॥
+092	Man is stated to be purer above the navel (than below); hence the Self-existent (Svayambhu) has declared the purest (part) of him (to be) his mouth.

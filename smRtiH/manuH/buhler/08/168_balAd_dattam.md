@@ -2,7 +2,4 @@
 title = "168 बलाद् दत्तम्"
 
 +++
-बलाद् दत्तं बलाद् भुक्तं  
-बलाद् यच् चाऽपि लेखितम् ।  
-सर्वान् बलकृतान् अर्थान्  
-अकृतान् मनुर् अब्रवीत्  ॥ ८.१६८ ॥
+168	What is given by force, what is enjoyed by force, also what has been caused to be written by force, and all other transactions done by force, Manu has declared void.

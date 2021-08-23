@@ -2,8 +2,4 @@
 title = "021 सर्वेषान् तु"
 
 +++
-
-सर्वेषां तु स नामानि  
-कर्माणि च पृथक् पृथक् ।  
-वेदशब्देभ्य एवादौ  
-पृथक् संस्थाश् च निर्ममे  ॥ १.२१ ॥
+021	But in the beginning he assigned their several names, actions, and conditions to all (created beings), even according to the words of the Veda.

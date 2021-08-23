@@ -2,7 +2,4 @@
 title = "078 वैश्यम् प्रति"
 
 +++
-वैश्यं प्रति तथैवैते  
-निवर्तेरन्न् इति स्थितिः ।  
-न तौ प्रति हि तान् धर्मान्  
-मनुर् आह प्रजापतिः [मेधातिथिपाठः - प्रति हितान् धर्मान्]  ॥ १०.७८ ॥
+078	The same are likewise forbidden to a Vaisya, that is a settled rule; for Manu, the lord of creatures (Pragapati), has not prescribed them for (men of) those two (castes).

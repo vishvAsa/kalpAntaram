@@ -2,8 +2,4 @@
 title = "191 तस्माद् अविद्वान्"
 
 +++
-
-तस्माद् अविद्वान् बिभियाद्  
-यस्मात् तस्मात् प्रतिग्रहात् ।  
-स्वल्पकेनाऽप्य् अविद्वान् हि  
-पङ्के गौर् इव सीदति  ॥ ४.१९१ ॥+++(5)+++  
+191	Hence an ignorant (man) should be afraid of accepting any presents; for by reason of a very small (gift) even a fool sinks (into hell) as a cow into a morass.

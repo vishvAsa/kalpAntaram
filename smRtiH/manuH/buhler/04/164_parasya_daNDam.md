@@ -2,8 +2,4 @@
 title = "164 परस्य दण्डम्"
 
 +++
-
-परस्य दण्डं नोद्यच्छेत्  
-क्रुद्धो नैनं निपातयेत् ।  
-अन्यत्र पुत्राच् छिष्याद् वा  
-शिष्ट्य्-अर्थं ताडयेत् तु तौ  ॥ ४.१६४ ॥+++(4)+++  
+164	Let him, when angry, not raise a stick against another man, nor strike (anybody) except a son or a pupil; those two he may beat in order to correct them.

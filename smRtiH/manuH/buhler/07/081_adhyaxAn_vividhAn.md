@@ -2,7 +2,4 @@
 title = "081 अध्यक्षान् विविधान्"
 
 +++
-अध्यक्षान् विविधान् कुर्यात्  
-तत्र तत्र विपश्चितः ।  
-ते ऽस्य सर्वाण्य् अवेक्षेरन्  
-नृणां कार्याणि कुर्वताम्  ॥ ७.८१ ॥
+081	For the various (branches of business) let him appoint intelligent supervisors; they shall inspect all (the acts) of those men who transact his business.

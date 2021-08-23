@@ -2,8 +2,4 @@
 title = "055 नाऽश्नीयात् सन्धिवेलायाम्"
 
 +++
-
-नाऽश्नीयात् सन्धिवेलायां  
-न गच्छेन् नाऽपि संविशेत् ।  
-न चैव प्रलिखेद् भूमिं  
-नात्मनो ऽपहरेत् स्रजम्  ॥ ४.५५ ॥  
+055	Let him not eat, nor travel, nor sleep during the twilight; let him not scratch the ground; let him not take off his garland.

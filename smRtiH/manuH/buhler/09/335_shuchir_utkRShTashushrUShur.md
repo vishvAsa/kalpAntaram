@@ -2,7 +2,4 @@
 title = "335 शुचिर् उत्कृष्टशुश्रूषुर्"
 
 +++
-शुचिर् उत्कृष्टशुश्रूषुर्  
-मृदु-वाग् अनहंकृतः ।  
-ब्राह्मणाद्य्-आश्रयो नित्यम्  
-उत्कृष्टां जातिम् अश्नुते [मेधातिथिपाठः - ब्राह्मणापाश्रयो]  ॥ ९.३३५ ॥
+335	(A Sudra who is) pure, the servant of his betters, gentle in his speech, and free from pride, and always seeks a refuge with Brahmanas, attains (in his next life) a higher caste.

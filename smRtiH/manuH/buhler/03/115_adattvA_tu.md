@@ -2,7 +2,4 @@
 title = "115 अदत्त्वा तु"
 
 +++
-अदत्त्वा तु य एतेभ्यः  
-पूर्वं भुङ्क्ते ऽविचक्षणः ।  
-स भुञ्जानो न जानाति  
-श्व-गृध्रैर् जग्धिम् आत्मनः  ॥ ३.११५ ॥ [१०५ मेधातिथिपाठे]
+115	But the foolish man who eats first without having given food to these (persons) does, while he crams, not know that (after death) he himself will be devoured by dogs and vultures.

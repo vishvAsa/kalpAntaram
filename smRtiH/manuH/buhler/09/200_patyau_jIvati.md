@@ -2,7 +2,4 @@
 title = "200 पत्यौ जीवति"
 
 +++
-पत्यौ जीवति यः स्त्रीभिर्  
-अलङ्कारो धृतो भवेत् ।  
-न तं भजेरन् दायादा  
-भजमानाः पतन्ति ते  ॥ ९.२०० ॥
+200	The ornaments which may have been worn by women during their husbands' lifetime, his heirs shall not divide; those who divide them become outcasts.

@@ -2,8 +2,4 @@
 title = "014 ताव् उभौ"
 
 +++
-
-ताव् उभौ भूतसंपृक्तौ  
-महान् क्षेत्रज्ञ एव च ।  
-उच्चावचेषु भूतेषु  
-स्थितं तं व्याप्य तिष्ठतः  ॥ १२.१४ ॥
+014	These two, the Great One and the Kshetragna, who are closely united with the elements, pervade him who resides in the multiform created beings.

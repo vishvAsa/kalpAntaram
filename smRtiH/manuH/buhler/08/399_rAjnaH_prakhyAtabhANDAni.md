@@ -2,7 +2,4 @@
 title = "399 राज्ञः प्रख्यातभाण्डानि"
 
 +++
-राज्ञः प्रख्यातभाण्डानि  
-प्रतिषिद्धानि यानि च ।  
-ताणि निर्हरतो लोभात्  
-सर्वहारं हरेन् नृपः  ॥ ८.३९९ ॥
+399	Let the king confiscate the whole property of (a trader) who out of greed exports goods of which the king has a monopoly or (the export of which is) forbidden.

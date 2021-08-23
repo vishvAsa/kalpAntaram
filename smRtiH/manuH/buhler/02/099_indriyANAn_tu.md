@@ -2,8 +2,4 @@
 title = "099 इन्द्रियाणान् तु"
 
 +++
-
-इन्द्रियाणां तु सर्वेषां  
-यद्य् एकं क्षरतीन्द्रियम् ।  
-तेनाऽस्य क्षरति प्रज्ञा  
-दृतेः पादाद् इवोदकम्  ॥ २.९९ ॥
+099	But when one among all the organs slips away (from control), thereby (man's) wisdom slips away from him, even as the water (flows) through the one (open) foot of a (water-carrier's) skin.

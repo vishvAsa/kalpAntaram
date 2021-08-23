@@ -2,8 +2,4 @@
 title = "124 एष सर्वाणि"
 
 +++
-
-एष सर्वाणि भूतानि  
-पञ्चभिर् व्याप्य मूर्तिभिः ।  
-जन्म-वृद्धि-क्षयैर् नित्यं  
-संसारयति चक्रवत्  ॥ १२.१२४ ॥
+124	He pervades all created beings in the five forms, and constantly makes them, by means of birth, growth and decay, revolve like the wheels (of a chariot).

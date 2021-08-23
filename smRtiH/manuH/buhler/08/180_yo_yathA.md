@@ -2,7 +2,4 @@
 title = "180 यो यथा"
 
 +++
-यो यथा निक्षिपेद् +धस्ते  
-यम् अर्थं यस्य मानवः ।  
-स तथैव ग्रहीतव्यो  
-यथा दायस् तथा ग्रहः  ॥ ८.१८० ॥
+180	In whatever manner a person shall deposit anything in the hands of another, in the same manner ought the same thing to be received back (by the owner); as the delivery (was, so must be) the re-delivery.

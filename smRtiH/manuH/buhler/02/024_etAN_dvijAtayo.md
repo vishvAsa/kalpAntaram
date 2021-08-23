@@ -2,8 +2,4 @@
 title = "024 एताण् द्विजातयो"
 
 +++
-
-एताण् द्विजातयो देशान्  
-संश्रयेरन् प्रयत्नतः ।  
-शूद्रस् तु यस्मिन् कस्मिन् वा  
-निवसेद् वृत्तिकर्शितः [मेधातिथिपाठः - यस्मिंस् तस्मिन् वा]  ॥ २.२४ ॥
+024	Let twice-born men seek to dwell in those (above-mentioned countries); but a Sudra, distressed for subsistence, may reside anywhere.

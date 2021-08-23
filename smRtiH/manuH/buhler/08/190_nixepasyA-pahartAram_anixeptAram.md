@@ -2,7 +2,4 @@
 title = "190 निक्षेपस्याऽपहर्तारम् अनिक्षेप्तारम्"
 
 +++
-निक्षेपस्याऽपहर्तारम्  
-अनिक्षेप्तारम् एव च ।  
-सर्वैर् उपायैर् अन्विच्छेच्  
-छपथैश् चैव वैदिकैः  ॥ ८.१९० ॥
+190	Him who appropriates a deposit and him (who asks for it) without having made it, (the judge) shall try by all (sorts of) means, and by the oaths prescribed in the Veda.

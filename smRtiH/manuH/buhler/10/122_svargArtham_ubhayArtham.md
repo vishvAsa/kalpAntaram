@@ -2,7 +2,4 @@
 title = "122 स्वर्गार्थम् उभयार्थम्"
 
 +++
-स्वर्गार्थम् उभयार्थं वा  
-विप्रान् आराधयेत् तु सः ।  
-जातब्राह्मण-शब्दस्य  
-सा ह्य् अस्य कृतकृत्यता  ॥ १०.१२२ ॥
+122	But let a (Sudra) serve Brahmanas, either for the sake of heaven, or with a view to both (this life and the next); for he who is called the servant of a Brahmana thereby gains all his ends.

@@ -2,7 +2,4 @@
 title = "034 आश्रमाद् आश्रमम्"
 
 +++
-आश्रमाद् आश्रमं गत्वा  
-हुत-होमो जितेन्द्रियः ।  
-भिक्षा-बलि-परिश्रान्तः  
-प्रव्रजन् प्रेत्य वर्धते  ॥ ६.३४ ॥
+034	He who after passing from order to order, after offering sacrifices and subduing his senses, becomes, tired with (giving) alms and offerings of food, an ascetic, gains bliss after death.

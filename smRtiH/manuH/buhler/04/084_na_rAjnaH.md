@@ -2,8 +2,4 @@
 title = "084 न राज्ञः"
 
 +++
-
-न राज्ञः प्रतिगृह्णीयाद्  
-अराजन्य+++(=अक्षत्रिय)+++-प्रसूतितः ।+++(4)+++  
-सूना-+++(तैलोत्पादन)+++चक्र-+++(सुराविक्रयण)+++ध्वजवतां  
-वेशेनैव +++(→वेश्यावृत्त्या)+++ च जीवताम्  ॥ ४.८४ ॥  
+084	Let him not accept presents from a king who is not descended from the Kshatriya race, nor from butchers, oil-manufacturers, and publicans, nor from those who subsist by the gain of prostitutes.

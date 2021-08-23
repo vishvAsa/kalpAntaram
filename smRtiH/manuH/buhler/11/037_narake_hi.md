@@ -2,7 +2,4 @@
 title = "037 नरके हि"
 
 +++
-नरके हि पतन्त्य् एते  
-जुह्वन्तः स च यस्य तत् [मेधातिथिपाठः - जुह्वतः] ।  
-तस्माद् वैतानकुशलो  
-होता स्याद् वेदपारगः  ॥ ११.३७ ॥ [३६ मेधातिथिपाठे]
+037	For such (persons) offering a burnt-oblation sink into hell, as well as he to whom that (Agnihotra) belongs; hence the person who sacrifices (for another) must be skilled in (the performance of) Vaitana (rites), and know the whole Veda.

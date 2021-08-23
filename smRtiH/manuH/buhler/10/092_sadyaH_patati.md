@@ -2,7 +2,4 @@
 title = "092 सद्यः पतति"
 
 +++
-सद्यः पतति मांसेन  
-लाक्षया लवणेन च ।  
-त्र्यहेण शूद्रो भवति  
-ब्राह्मणः क्षीरविक्रयात्  ॥ १०.९२ ॥
+092	By (selling) flesh, salt, and lac a Brahmana at once becomes an outcast; by selling milk he becomes (equal to) a Sudra in three days.

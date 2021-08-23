@@ -2,7 +2,4 @@
 title = "098 वैश्यो ऽजीवन्"
 
 +++
-वैश्यो ऽजीवन् स्वधर्मेण  
-शूद्रवृत्त्यापि वर्तयेत् ।  
-अनाचरन्न् अकार्याणि  
-निवर्तेत च शक्तिमान्  ॥ १०.९८ ॥
+098	A Vaisya who is unable to subsist by his own duties, may even maintain himself by a Sudra's mode of life, avoiding (however) acts forbidden (to him), and he should give it up, when he is able (to do so).

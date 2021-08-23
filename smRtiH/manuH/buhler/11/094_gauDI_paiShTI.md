@@ -2,7 +2,4 @@
 title = "094 गौडी पैष्टी"
 
 +++
-गौडी पैष्टी च माध्वी च  
-विज्ञेया त्रिविधा सुरा ।  
-यथैवैका तथा सर्वा  
-न पातव्या द्विजोत्तमैः  ॥ ११.९४ ॥ [९३ मेधातिथिपाठे]
+095	Sura one must know to be of three kinds, that distilled from molasses (gaudi), that distilled from ground rice, and that distilled from Madhuka-flowers (madhvi); as the one (named above) even so are all (three sorts) forbidden to the chief of the twice-born.

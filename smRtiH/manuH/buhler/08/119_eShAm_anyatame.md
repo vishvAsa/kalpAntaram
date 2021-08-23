@@ -2,7 +2,4 @@
 title = "119 एषाम् अन्यतमे"
 
 +++
-एषाम् अन्यतमे स्थाने  
-यः साक्ष्यम् अनृतं वदेत् ।  
-तस्य दण्डविशेषांस् तु  
-प्रवक्ष्याम्य् अनुपूर्वशः  ॥ ८.११९ ॥
+119	I will propound in (due) order the particular punishments for him who gives false evidence from any one of these motives.

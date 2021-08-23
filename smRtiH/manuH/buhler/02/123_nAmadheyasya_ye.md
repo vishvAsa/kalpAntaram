@@ -2,8 +2,4 @@
 title = "123 नामधेयस्य ये"
 
 +++
-
-नामधेयस्य ये के चिद्  
-अभिवादं न जानते ।  
-तान् प्राज्ञो ऽहम् इति ब्रूयात्  
-स्त्रियः सर्वास् तथैव च  ॥ २.१२३ ॥
+123	To those (persons) who, when a name is pronounced, do not understand (the meaning of) the salutation, a wise man should say, 'It is I;' and (he should address) in the same manner all women.

@@ -2,8 +2,4 @@
 title = "099 ब्राह्मणो जायमानो"
 
 +++
-
-ब्राह्मणो जायमानो हि  
-पृथिव्याम् अधिजायते ।  
-ईश्वरः सर्वभूतानां  
-धर्मकोशस्य गुप्तये  ॥ १.९९ ॥
+099	A Brahmana, coming into existence, is born as the highest on earth, the lord of all created beings, for the protection of the treasury of the law.

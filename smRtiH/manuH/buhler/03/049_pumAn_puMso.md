@@ -2,7 +2,4 @@
 title = "049 पुमान् पुंसो"
 
 +++
-पुमान् पुंसो ऽधिके शुक्रे  
-स्त्री भवत्य् अधिके स्त्रियाः ।  
-समे ऽपुमान् पुं स्त्रियौ वा  
-क्षीणे ऽल्पे च विपर्ययः  ॥ ३.४९ ॥
+049	A male child is produced by a greater quantity of male seed, a female child by the prevalence of the female; if (both are) equal, a hermaphrodite or a boy and a girl; if (both are) weak or deficient in quantity, a failure of conception (results).

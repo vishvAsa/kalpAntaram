@@ -2,7 +2,4 @@
 title = "140 तीक्ष्णश् चैव"
 
 +++
-तीक्ष्णश् चैव मृदुश् च स्यात्  
-कार्यं वीक्ष्य महीपतिः ।  
-तीक्ष्णश् चैव मृदुश् चैव  
-राज भवति सम्मतः  ॥ ७.१४० ॥ [१४१ मेधातिथिपाठे]
+140	Let the king, having carefully considered (each) affair, be both sharp and gentle; for a king who is both sharp and gentle is highly respected.

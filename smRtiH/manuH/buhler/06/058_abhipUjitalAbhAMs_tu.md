@@ -2,7 +2,4 @@
 title = "058 अभिपूजितलाभांस् तु"
 
 +++
-अभिपूजितलाभांस् तु  
-जुगुप्सेतैव सर्वशः ।  
-अभिपूजितलाभैश् च  
-यतिर् मुक्तो ऽपि बध्यते  ॥ ६.५८ ॥
+058	Let him disdain all (food) obtained in consequence of humble salutations, (for) even an ascetic who has attained final liberation, is bound (with the fetters of the Samsara) by accepting (food given) in consequence of humble salutations.

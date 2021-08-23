@@ -2,8 +2,4 @@
 title = "124 भोःशब्दङ् कीर्तयेद्"
 
 +++
-
-भोःशब्दं कीर्तयेद् अन्ते  
-स्वस्य नाम्नो ऽभिवादने ।  
-नाम्नां स्वरूप-भावो हि  
-भो-भाव ऋषिभिः स्मृतः  ॥ २.१२४ ॥
+124	In saluting he should pronounce after his name the word bhoh; for the sages have declared that the nature of bhoh is the same as that of (all proper) names.

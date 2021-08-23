@@ -2,7 +2,4 @@
 title = "163 पतिं हित्वापकृष्टम्"
 
 +++
-पतिं हित्वापकृष्टं स्वम्  
-उत्कृष्टं या निषेवते [मेधातिथिपाठः - हित्वावकृष्टं] ।  
-निन्द्यैव सा भवेल् लोके  
-पर-पूर्वेति चोच्यते  ॥ ५.१६३ ॥ [१६१ मेधातिथिपाठे]
+163	She who cohabits with a man of higher caste, forsaking her own husband who belongs to a lower one, will become contemptible in this world, and is called a remarried woman (parapurva).

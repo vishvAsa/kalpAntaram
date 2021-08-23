@@ -2,7 +2,4 @@
 title = "035 नियुक्तस् तु"
 
 +++
-नियुक्तस् तु यथान्यायं  
-यो मांसं नाऽत्ति मानवः ।  
-स प्रेत्य पशुतां याति  
-सम्भवान् एकविंशतिम्  ॥ ५.३५ ॥+++(5)+++
+035	But a man who, being duly engaged (to officiate or to dine at a sacred rite), refuses to eat meat, becomes after death an animal during twenty-one existences.

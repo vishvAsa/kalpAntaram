@@ -2,7 +2,4 @@
 title = "213 आपदर्थन् धनम्"
 
 +++
-आपदर्थं धनं रक्षेद्  
-दारान् रक्षेद् धनैर् अपि [मेधातिथिपाठः - आपदर्थे] ।  
-आत्मानं सततं रक्षेद्  
-दारैर् अपि धनैर् अपि  ॥ ७.२१३ ॥ [२१७ मेधातिथिपाठे]
+213	For times of need let him preserve his wealth; at the expense of his wealth let him preserve his wife; let him at all events preserve himself even by (giving up) his wife and his wealth.

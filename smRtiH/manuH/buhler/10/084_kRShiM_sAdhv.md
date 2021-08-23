@@ -2,7 +2,4 @@
 title = "084 कृषिं साध्व्"
 
 +++
-कृषिं साध्व् इति मन्यन्ते  
-सा वृत्तिः सद्विगर्हिताः ।  
-भूमिं भूमिशयांश् चैव  
-हन्ति काष्ठम् अयो-मुखम्  ॥ १०.८४ ॥
+084	(Some) declare that agriculture is something excellent, (but) that means of subsistence is blamed by the virtuous; (for) the wooden (implement) with iron point injuries the earth and (the beings) living in the earth.

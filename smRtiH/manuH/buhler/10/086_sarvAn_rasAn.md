@@ -2,7 +2,4 @@
 title = "086 सर्वान् रसान्"
 
 +++
-सर्वान् रसान् अपोहेत  
-कृतान्नं च तिलैः सह ।  
-अश्मनो लवणं चैव  
-पशवो ये च मानुषाः  ॥ १०.८६ ॥
+086	He must avoid (selling) condiments of all sorts, cooked food and sesamum, stones, salt, cattle, and human (beings),

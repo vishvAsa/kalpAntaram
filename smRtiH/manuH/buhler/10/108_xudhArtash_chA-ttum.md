@@ -2,7 +2,4 @@
 title = "108 क्षुधार्तश् चाऽत्तुम्"
 
 +++
-क्षुधार्तश् चाऽत्तुम् अभ्यागाद्  
-विश्वामित्रः श्वजाघनीम् ।  
-चण्डालहस्ताद् आदाय  
-धर्माधर्मविचक्षणः  ॥ १०.१०८ ॥
+108	Visvamitra, who well knew what is right or wrong, approached, when he was tormented by hunger, (to eat) the haunch of a dog, receiving it the hands of a Kandala.

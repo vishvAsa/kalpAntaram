@@ -2,7 +2,4 @@
 title = "121 कामाद् दशगुणम्"
 
 +++
-कामाद् दशगुणं पूर्वं  
-क्रोधात् तु त्रिगुणं परम् ।  
-अज्ञानाद् द्वे शते पूर्णे  
-बालिश्याच् छतम् एव तु  ॥ ८.१२१ ॥
+121	(He who does it) through lust, (shall pay) ten times the lowest amercement, but (he who does it) through wrath, three times the next (or second amercement); (he who does it) through ignorance, two full hundreds, but (he who does it) through childishness, one hundred (panas).

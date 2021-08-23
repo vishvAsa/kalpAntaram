@@ -2,8 +2,4 @@
 title = "086 षण्णाम् एषाम्"
 
 +++
-
-षण्णाम् एषां तु सर्वेषां  
-कर्मणां प्रेत्य चेह च ।  
-श्रेयस्करतरं ज्ञेयं  
-सर्वदा कर्म वैदिकम्  ॥ १२.८६ ॥
+086	Among those six (kinds of) actions (enumerated) above, the performance of) the acts taught in the Veda must ever be held to be most efficacious for ensuring happiness in this world and the next.

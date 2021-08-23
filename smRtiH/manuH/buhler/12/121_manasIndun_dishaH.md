@@ -2,8 +2,4 @@
 title = "121 मनसीन्दुन् दिशः"
 
 +++
-
-मनसीन्दुं दिशः श्रोत्रे  
-क्रान्ते विष्णुं बले हरम् ।  
-वाच्य् अग्निं मित्रम् उत्सर्गे  
-प्रजने च प्रजापतिम्  ॥ १२.१२१ ॥
+121	On the moon as one with the internal organ, on the quarters of the horizon as one with his sense of hearing, on Vishnu as one with his (power of) motion, on Hara as the same with his strength, on Agni (Fire) as identical with his speech, on Mitra as identical with his excretions, and on Pragapati as one with his organ of generation.

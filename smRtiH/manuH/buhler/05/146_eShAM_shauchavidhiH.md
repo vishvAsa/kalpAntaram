@@ -2,7 +2,4 @@
 title = "146 एषां शौचविधिः"
 
 +++
-एषां शौचविधिः कृत्स्नो  
-द्रव्यशुद्धिस् तथैव च [मेधातिथिपाठः - एष] ।  
-उक्तो वः सर्ववर्णानां  
-स्त्रीणां धर्मान् निबोधत  ॥ ५.१४६ ॥ [१४४ मेधातिथिपाठे]
+146	Thus the rules of personal purification for men of all castes, and those for cleaning (inanimate) things, have been fully declared to you: hear now the duties of women.

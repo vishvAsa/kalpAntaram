@@ -2,7 +2,4 @@
 title = "165 पतिं या"
 
 +++
-पतिं या नाऽभिचरति  
-मनो-वाग्-देहसंयुता [मेधातिथिपाठः - -देहसंयता] ।  
-सा भर्तृलोकम् आप्नोति  
-सद्भिः साध्वीति चोच्यते  ॥ ५.१६५ ॥ [१६३ मेधातिथिपाठे]
+165	She who, controlling her thoughts, words, and deeds, never slights her lord, resides (after death) with her husband (in heaven), and is called a virtuous (wife).

@@ -2,7 +2,4 @@
 title = "175 तौ तु"
 
 +++
-तौ तु जातौ परक्षेत्रे  
-प्राणिनौ प्रेत्य चेह च [मेधातिथिपाठः - ते तु जाताः परक्षेत्रे प्राणिनः] ।  
-दत्तानि हव्य-कव्यानि  
-नाशयन्ति प्रदायिनाम्  ॥ ३.१७५ ॥ [१६५ मेधातिथिपाठे]
+175	But those two creatures, who are born of wives of other men, cause to the giver the loss (of the rewards), both in this life and after death, for the food sacred to gods or manes which has been given (to them).

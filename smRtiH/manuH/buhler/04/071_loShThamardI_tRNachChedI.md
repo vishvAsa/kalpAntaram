@@ -2,8 +2,4 @@
 title = "071 लोष्ठमर्दी तृणच्छेदी"
 
 +++
-
-लोष्ठमर्दी तृणच्छेदी  
-नखखादी च यो नरः ।  
-स विनाशं व्रजत्य् आशु  
-सूचकाशुचिर्+++(मेधातिथिपाठो वरः)+++ एव च [मेधातिथिपाठः - +++(दोष)+++सूचको ऽशुचिर् एव च]  ॥ ४.७१ ॥  
+071	A man who crushes clods, tears off grass, or bites his nails, goes soon to perdition, likewise an informer and he who neglects (the rules of) purification.

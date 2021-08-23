@@ -2,7 +2,4 @@
 title = "171 पैतृस्वसेयीम् भगिनीम्"
 
 +++
-पैतृस्वसेयीं भगिनीं  
-स्वस्रीयां मातुर् एव च ।  
-मातुश् च भ्रातुस् तनयां  
-गत्वा चान्द्रायणं चरेत् [भ्रातुर् आप्तस्य गत्वा]  ॥ ११.१७१ ॥ [१७० मेधातिथिपाठे]
+172	He who has approached the daughter of his father's sister, (who is almost equal to) a sister, (the daughter) of his mother's sister, or of his mother's full brother, shall perform a lunar penance.

@@ -2,8 +2,4 @@
 title = "071 ब्रह्मारम्भे ऽवसाने"
 
 +++
-
-ब्रह्मारम्भे ऽवसाने च  
-पादौ ग्राह्यौ गुरोः सदा ।  
-संहत्य हस्ताव् अध्येयं  
-स हि **ब्रह्माञ्जलिः** स्मृतः  ॥ २.७१ ॥+++(4)+++
+071	At the beginning and at the end of (a lesson in the) Veda he must always clasp both the feet of his teacher, (and) he must study, joining his hands; that is called the Brahmangali (joining the palms for the sake of the Veda).

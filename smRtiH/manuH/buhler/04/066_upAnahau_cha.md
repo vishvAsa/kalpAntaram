@@ -2,8 +2,4 @@
 title = "066 उपानहौ च"
 
 +++
-
-उपानहौ च वासश् च  
-धृतम् अन्यैर् न धारयेत् ।  
-उपवीतम् अलङ्कारं  
-स्रजं करकम्+++(=कूपीम्)+++ एव च  ॥ ४.६६ ॥  
+066	Let him not use shoes, garments, a sacred string, ornaments, a garland, or a water-vessel which have been used by others.

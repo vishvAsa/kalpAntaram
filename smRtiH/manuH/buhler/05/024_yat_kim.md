@@ -2,7 +2,4 @@
 title = "024 यत् किम्"
 
 +++
-यत् किं चित् स्नेहसंयुक्तं  
-भक्ष्यं भोज्यम् अगर्हितम् ।  
-तत् पर्युषितम् अप्य् आद्यं  
-हविःशेषं च यद् भवेत्  ॥ ५.२४ ॥+++(5)+++
+024	All lawful hard or soft food may be eaten, though stale, (after having been) mixed with fatty (substances), and so may the remains of sacrificial viands.

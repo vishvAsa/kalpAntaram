@@ -2,7 +2,4 @@
 title = "029 चराणाम् अन्नम्"
 
 +++
-चराणाम् अन्नम् अचरा  
-दंष्ट्रिणाम् अप्य् अदंष्ट्रिणः ।  
-अहस्ताश् च स-हस्तानां  
-शूराणां चैव भीरवः  ॥ ५.२९ ॥+++(5)+++
+029	What is destitute of motion is the food of those endowed with locomotion; (animals) without fangs (are the food) of those with fangs, those without hands of those who possess hands, and the timid of the bold.

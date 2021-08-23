@@ -2,8 +2,4 @@
 title = "227 दानधर्मन् निषेवेत"
 
 +++
-
-दानधर्मं निषेवेत  
-नित्यम् ऐष्टिक-पौर्तिकम् ।  
-परितुष्टेन भावेन  
-पात्रम् आसाद्य शक्तितः  ॥ ४.२२७ ॥ [२२८ मेधातिथिपाठे]  
+227	Let him always practise, according to his ability, with a cheerful heart, the duty of liberality, both by sacrifices and by charitable works, if he finds a worthy recipient (for his gifts.)

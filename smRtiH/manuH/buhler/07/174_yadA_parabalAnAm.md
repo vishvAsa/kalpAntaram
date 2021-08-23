@@ -2,7 +2,4 @@
 title = "174 यदा परबलानाम्"
 
 +++
-यदा परबलानां तु  
-गमनीयतमो भवेत् ।  
-तदा तु संश्रयेत् क्षिप्रं  
-धार्मिकं बलिनं नृपम्  ॥ ७.१७४ ॥ [१७५ मेधातिथिपाठे]
+174	But when he is very easily assailable by the forces of the enemy, then let him quickly seek refuge with a righteous, powerful king.

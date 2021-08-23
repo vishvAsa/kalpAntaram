@@ -2,8 +2,4 @@
 title = "110 दशावरा वा"
 
 +++
-
-दशावरा वा परिषद्  
-यं धर्मं परिकल्पयेत् ।  
-त्र्य्-अवरा वापि वृत्तस्था  
-तं धर्मं न विचालयेत्  ॥ १२.११० ॥
+110	Whatever an assembly, consisting either of at least ten, or of at least three persons who follow their prescribed occupations, declares to be law, the legal (force of) that one must not dispute.

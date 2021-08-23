@@ -2,7 +2,4 @@
 title = "370 या तु"
 
 +++
-या तु कन्यां प्रकुर्यात् स्त्री  
-सा सद्यो मौण्ड्यम् अर्हति ।  
-अङ्गुल्योर् एव वा छेदं  
-खरेणोद्वहनं तथा  ॥ ८.३७० ॥
+370	But a woman who pollutes a damsel shall instantly have (her head) shaved or two fingers cut off, and be made to ride (through the town) on a donkey.

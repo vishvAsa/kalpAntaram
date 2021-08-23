@@ -2,7 +2,4 @@
 title = "411 क्षत्रियञ् चैव"
 
 +++
-क्षत्रियं चैव वैश्यं च  
-ब्राह्मणो वृत्तिकर्शितौ ।  
-बिभृयाद् आनृशंस्येन  
-स्वानि कर्माणि कारयेत्  ॥ ८.४११ ॥
+411	(Some wealthy) Brahmana shall compassionately support both a Kshatriya and a Vaisya, if they are distressed for a livelihood, employing them on work (which is suitable for) their (castes).

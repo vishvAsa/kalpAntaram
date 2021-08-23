@@ -2,7 +2,4 @@
 title = "005 सूक्ष्मेभ्यो ऽपि"
 
 +++
-सूक्ष्मेभ्यो ऽपि प्रसङ्गेभ्यः  
-स्त्रियो रक्ष्या विशेषतः [मेधातिथिपाठः - स्त्रिया] ।  
-द्वयोर् हि कुलयोः शोकम्  
-आवहेयुर् अरक्षिताः  ॥ ९.५ ॥
+005	Women must particularly be guarded against evil inclinations, however trifling (they may appear); for, if they are not guarded, they will bring sorrow on two families.

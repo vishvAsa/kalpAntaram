@@ -2,7 +2,4 @@
 title = "210 प्राज्ञङ् कुलीनम्"
 
 +++
-प्राज्ञं कुलीनं शूरं च  
-दक्षं दातारम् एव च ।  
-कृतज्ञं धृतिमन्तं च  
-कष्टम् आहुर् अरिं बुधाः  ॥ ७.२१० ॥ [२१४ मेधातिथिपाठे]
+210	The wise declare him (to be) a most dangerous foe, who is wise, of noble race, brave, clever, liberal, grateful, and firm.

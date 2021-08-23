@@ -2,7 +2,4 @@
 title = "023 अक्षमाला वसिष्ठेन"
 
 +++
-अक्षमाला वसिष्ठेन  
-संयुक्ताधमयोनिजा ।  
-शारङ्गी मन्दपालेन  
-जगामाऽभ्यर्हणीयताम्  ॥ ९.२३ ॥
+023	Akshamala, a woman of the lowest birth, being united to Vasishtha and Sarangi, (being united) to Mandapala, became worthy of honour.

@@ -2,7 +2,4 @@
 title = "208 यस्मिन् कर्मणि"
 
 +++
-यस्मिन् कर्मणि यास् तु स्युर्  
-उक्ताः प्रत्यङ्गदक्षिणाः ।  
-स एव ता आदिदीत  
-भजेरन् सर्व एव वा  ॥ ८.२०८ ॥
+208	But if (specific) fees are ordained for the several parts of a rite, shall he (who performs the part) receive them, or shall they all share them?

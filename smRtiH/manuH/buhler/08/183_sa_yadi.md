@@ -2,7 +2,4 @@
 title = "183 स यदि"
 
 +++
-स यदि प्रतिपद्येत  
-यथान्यस्तं यथाकृतम् ।  
-न तत्र विद्यते किं चिद्  
-यत् परैर् अभियुज्यते  ॥ ८.१८३ ॥
+183	If the (defendant) restores it in the manner and shape in which it was bailed, there is nothing (of that description) in his hands, for which others accuse him.

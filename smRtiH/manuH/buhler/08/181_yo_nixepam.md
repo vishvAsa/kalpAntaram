@@ -2,7 +2,4 @@
 title = "181 यो निक्षेपम्"
 
 +++
-यो निक्षेपं याच्यमानो  
-निक्षेप्तुर् न प्रयच्छति ।  
-स याच्यः प्राड्विवाकेन  
-तन् निक्षेप्तुर् असंनिधौ  ॥ ८.१८१ ॥
+181	He who restores not his deposit to the depositor at his request, may be tried by the judge in the depositor's absence.

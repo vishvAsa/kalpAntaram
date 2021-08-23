@@ -2,7 +2,4 @@
 title = "035 बीजस्य चैव"
 
 +++
-बीजस्य चैव योन्याश् च  
-बीजम् उत्कृष्टम् उच्यते ।  
-सर्वभूतप्रसूतिर् हि  
-बीजलक्षणलक्षिता  ॥ ९.३५ ॥
+035	On comparing the seed and the receptacle (of the seed), the seed is declared to be more important; for the offspring of all created beings is marked by the characteristics of the seed.

@@ -2,7 +2,4 @@
 title = "004 इन्द्रानिल-यमार्काणाम् अग्नेश्"
 
 +++
-इन्द्रानिल-यमार्काणाम्  
-अग्नेश् च वरुणस्य च ।  
-चन्द्र-वित्तेशयोश् चैव  
-मात्रा निर्हृत्य शाश्वतीः  ॥ ७.४ ॥
+004	Taking (for that purpose) eternal particles of Indra, of the Wind, of Yama, of the Sun, of Fire, of Varuna, of the Moon, and of the Lord of wealth (Kubera).

@@ -2,7 +2,4 @@
 title = "212 क्षेम्यां सस्यप्रदाम्"
 
 +++
-क्षेम्यां सस्यप्रदां नित्यं  
-पशुवृद्धिकरीम् अपि ।  
-परित्यजेन् नृपो भूमिम्  
-आत्मार्थम् अविचारयन्  ॥ ७.२१२ ॥ [२१६ मेधातिथिपाठे]
+212	Let the king, without hesitation, quit for his own sake even a country (which is) salubrious, fertile, and causing an increase of cattle.

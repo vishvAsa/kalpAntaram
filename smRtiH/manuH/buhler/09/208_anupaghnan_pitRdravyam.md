@@ -2,7 +2,4 @@
 title = "208 अनुपघ्नन् पितृद्रव्यम्"
 
 +++
-अनुपघ्नन् पितृद्रव्यं  
-श्रमेण यद् उपार्जितम् ।  
-स्वयम् ईहितलब्धं तन्  
-नाऽकामो दातुम् अर्हति  ॥ ९.२०८ ॥
+208	What one (brother) may acquire by his labour without using the patrimony, that acquisition, (made solely) by his own effort, he shall not share unless by his own will (with his brothers).

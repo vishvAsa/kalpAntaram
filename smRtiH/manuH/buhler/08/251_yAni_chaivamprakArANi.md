@@ -2,7 +2,4 @@
 title = "251 यानि चैवम्प्रकाराणि"
 
 +++
-यानि चैवंप्रकाराणि  
-कालाद् भूमिर् न भक्षयेत् ।  
-तानि संधिषु सीमायाम्  
-अप्रकाशानि कारयेत् [मेधातिथिपाठः - सीमाया]  ॥ ८.२५१ ॥
+251	And whatever other things of a similar kind the earth does not corrode even after a long time, those he should cause to be buried where one boundary joins (the other).

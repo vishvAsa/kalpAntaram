@@ -2,7 +2,4 @@
 title = "333 यस् त्व्"
 
 +++
-यस् त्व् एतान्य् उपकॢप्तानि  
-द्रव्याणि स्तेनयेन् नरः ।  
-तम् आद्यं दण्डयेद् राजा  
-यश् चाग्निं चोरयेद् गृहात् [मेधातिथिपाठः - तं शतं]  ॥ ८.३३३ ॥
+333	On that man who may steal (any of) the above-mentioned articles, when they are prepared for (use), let the king inflict the first (or lowest) amercement; likewise on him who may steal (a sacred) fire out of the room (in which it is kept).

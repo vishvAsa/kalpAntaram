@@ -2,8 +2,4 @@
 title = "183 वेद-यज्ञैर् अहीनानाम्"
 
 +++
-
-वेद-यज्ञैर् अहीनानां  
-प्रशस्तानां स्वकर्मसु ।  
-ब्रह्मचार्य् आहरेद् भैक्षं  
-गृहेभ्यः प्रयतो ऽन्वहम्  ॥ २.१८३ ॥
+183	A student, being pure, shall daily bring food from the houses of men who are not deficient in (the knowledge of) the Veda and in (performing) sacrifices, and who are famous for (following their lawful) occupations.

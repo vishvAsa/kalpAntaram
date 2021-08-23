@@ -2,8 +2,4 @@
 title = "195 प्रतिश्रावण-सम्भाषे शयानो"
 
 +++
-
-प्रतिश्रावण-सम्भाषे  
-शयानो न समाचरेत् ।  
-नासीनो न च भुञ्जानो  
-न तिष्ठन् न पराङ्-मुखः  ॥ २.१९५ ॥
+195	Let him not answer or converse with (his teacher), reclining on a bed, nor sitting, nor eating, nor standing, nor with an averted face.

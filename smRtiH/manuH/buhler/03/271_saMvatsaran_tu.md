@@ -2,7 +2,4 @@
 title = "271 संवत्सरन् तु"
 
 +++
-संवत्सरं तु गव्येन  
-पयसा पायसेन च [मेधातिथिपाठः - संवत्सरे] ।  
-वार्ध्रीणसस्य मांसेन  
-तृप्तिर् द्वादशवार्षिकी  ॥ ३.२७१ ॥ [२६१ मेधातिथिपाठे]
+271	One year with cow-milk and milk-rice; from the flesh of a long-eared white he-goat their satisfaction endures twelve years.

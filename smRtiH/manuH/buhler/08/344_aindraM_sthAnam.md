@@ -2,7 +2,4 @@
 title = "344 ऐन्द्रं स्थानम्"
 
 +++
-ऐन्द्रं स्थानम् अभिप्रेप्सुर्  
-यशश् चाऽक्षयम् अव्ययम् ।  
-नोपेक्षेत क्षणम् अपि  
-राजा साहसिकं नरम्  ॥ ८.३४४ ॥
+344	A king who desires to gain the throne of Indra and imperishable eternal fame, shall not, even for a moment, neglect (to punish) the man who commits violence.

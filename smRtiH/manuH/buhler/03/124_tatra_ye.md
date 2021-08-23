@@ -2,7 +2,4 @@
 title = "124 तत्र ये"
 
 +++
-तत्र ये भोजनीयाः स्युर्  
-ये च वर्ज्या द्विजोत्तमाः ।  
-यावन्तश् चैव यैश् चाऽन्नैस्  
-तान् प्रवक्ष्याम्य् अशेषतः  ॥ ३.१२४ ॥ [११४ मेधातिथिपाठे]
+124	I will fully declare what and how many (Brahmanas) must be fed on that (occasion), who must be avoided, and on what kinds of food (they shall dine).

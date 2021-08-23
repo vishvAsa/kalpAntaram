@@ -2,7 +2,4 @@
 title = "214 अपसव्यम् अग्नौ"
 
 +++
-अपसव्यम् अग्नौ कृत्वा  
-सर्वम् आवृत्य विक्रमम् [मेधातिथिपाठः - आवृत्-परिक्रमम्] ।  
-अपसव्येन हस्तेन  
-निर्वपेद् उदकं भुवि  ॥ ३.२१४ ॥ [२०४ मेधातिथिपाठे]
+214	After he has performed (the oblations) in the fire, (and) the whole series of ceremonies in such a manner that they end in the south, let him sprinkle water with his right hand on the spot (where the cakes are to be placed).

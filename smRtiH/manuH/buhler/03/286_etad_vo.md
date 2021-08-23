@@ -2,7 +2,4 @@
 title = "286 एतद् वो"
 
 +++
-एतद् वो ऽभिहितं सर्वं  
-विधानं पाञ्चयज्ञिकम् ।  
-द्विजातिमुख्यवृत्तीनां  
-विधानं श्रूयताम् इति  ॥ ३.२८६ ॥ [२७६ मेधातिथिपाठे]
+286	Thus all the ordinances relating to the five (daily great) sacrifices have been declared to you; hear now the law for the manner of living fit for Brahmanas.

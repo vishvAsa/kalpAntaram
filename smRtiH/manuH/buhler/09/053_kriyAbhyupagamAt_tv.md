@@ -2,7 +2,4 @@
 title = "053 क्रियाभ्युपगमात् त्व्"
 
 +++
-क्रियाभ्युपगमात् त्व् एतद्  
-बीजार्थं यत् प्रदीयते ।  
-तस्येह भागिनौ दृष्टौ  
-बीजी क्षेत्रिक एव च  ॥ ९.५३ ॥
+053	But if by a special contract (a field) is made over (to another) for sowing, then the owner of the seed and the owner of the soil are both considered in this world as sharers of the (crop).

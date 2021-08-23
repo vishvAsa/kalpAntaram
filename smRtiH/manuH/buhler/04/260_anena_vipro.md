@@ -2,8 +2,4 @@
 title = "260 अनेन विप्रो"
 
 +++
-
-अनेन विप्रो वृत्तेन  
-वर्तयन् वेद-शास्त्रवित् ।  
-व्यपेत-कल्मषो नित्यं  
-ब्रह्मलोके महीयते  ॥ ४.२६० ॥ [२६१ मेधातिथिपाठे]  
+260	A Brahmana who, being learned in the lore of the Vedas, conducts himself in this manner and daily destroys his sins, will be exalted in Brahman's world.

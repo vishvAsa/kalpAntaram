@@ -2,8 +2,4 @@
 title = "199 प्रेत्येह चेदृशा"
 
 +++
-
-प्रेत्येह चेदृशा विप्रा  
-गर्ह्यन्ते ब्रह्मवादिभिः ।  
-छद्मना चरितं यच् च  
-व्रतं रक्षांसि गच्छति  ॥ ४.१९९ ॥ [२०० मेधातिथिपाठे]  
+199	Such Brahmanas are reprehended after death and in this (life) by those who expound the Veda, and a vow, performed under a false pretence, goes to the Rakshasas.

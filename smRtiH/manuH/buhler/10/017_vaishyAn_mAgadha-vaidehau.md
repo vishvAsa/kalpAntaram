@@ -2,7 +2,4 @@
 title = "017 वैश्यान् मागध-वैदेहौ"
 
 +++
-वैश्यान् मागध-वैदेहौ  
-क्षत्रियात् सूत एव तु ।  
-प्रतीपम् एते जायन्ते  
-परे ऽप्य् अपसदास् त्रयः  ॥ १०.१७ ॥
+017	From a Vaisya are born in the inverse order of the castes a Magadha and a Vaideha, but from a Kshatriya a Suta only; these are three other base-born ones (apasada).

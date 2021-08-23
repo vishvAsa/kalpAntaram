@@ -2,8 +2,4 @@
 title = "221 य एते"
 
 +++
-
-य एते ऽन्ये त्व् अभोज्यान्नाः  
-क्रमशः परि-कीर्तिताः ।  
-तेषां त्वग्-अस्थि-रोमाणि  
-वदन्त्य् अन्नं मनीषिणः  ॥ ४.२२१ ॥ [२२२ मेधातिथिपाठे]  
+221	The food of those other persons who have been successively enumerated as such whose food must not be eaten, the wise declare (to be as impure as) skin, bones, and hair.

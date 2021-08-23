@@ -2,7 +2,4 @@
 title = "082 ध्यानिकं सर्वम्"
 
 +++
-ध्यानिकं सर्वम् एवैतद्  
-यद् एतद् अभिशब्दितम् ।  
-न ह्य् अनध्यात्मवित् कश् चित्  
-क्रियाफलम् उपाश्नुते  ॥ ६.८२ ॥
+082	All that has been declared (above) depends on meditation; for he who is not proficient in the knowledge of that which refers to the Soul reaps not the full reward of the performance of rites.

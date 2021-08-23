@@ -2,7 +2,4 @@
 title = "086 द्यौर् भूमिर्"
 
 +++
-द्यौर् भूमिर् आपो हृदयं  
-चन्द्रार्काग्नि-यमानिलाः ।  
-रात्रिः संध्ये च धर्मश् च  
-वृत्तज्ञाः सर्वदेहिनाम्  ॥ ८.८६ ॥
+086	'The sky, the earth, the waters, (the male in) the heart, the moon, the sun, the fire, Yama and the wind, the night, the two twilights, and justice know the conduct of all corporeal beings.'

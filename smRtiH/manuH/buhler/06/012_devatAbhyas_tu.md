@@ -2,7 +2,4 @@
 title = "012 देवताभ्यस् तु"
 
 +++
-देवताभ्यस् तु तद् +धुत्वा  
-वन्यं मेध्यतरं हविः ।  
-शेषम् आत्मनि युञ्जीत  
-लवणं च स्वयं कृतम्  ॥ ६.१२ ॥
+012	Having offered those most pure sacrificial viands, consisting of the produce of the forest, he may use the remainder for himself, (mixed with) salt prepared by himself.

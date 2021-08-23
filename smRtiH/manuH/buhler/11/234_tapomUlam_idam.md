@@ -2,7 +2,4 @@
 title = "234 तपोमूलम् इदम्"
 
 +++
-तपोमूलम् इदं सर्वं  
-दैव-मानुषकं सुखम् ।  
-तपोमध्यं बुधैः प्रोक्तं  
-तपो-ऽन्तं वेददर्शिभिः  ॥ ११.२३४ ॥ [२३३ मेधातिथिपाठे]
+235	All the bliss of gods and men is declared by the sages to whom the Veda was revealed, to have austerity for its root, austerity for its middle, and austerity for its end.

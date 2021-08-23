@@ -2,7 +2,4 @@
 title = "083 सत्येन पूयते"
 
 +++
-सत्येन पूयते साक्षी  
-धर्मः सत्येन वर्धते ।  
-तस्मात् सत्यं हि वक्तव्यं  
-सर्ववर्णेषु साक्षिभिः  ॥ ८.८३ ॥
+083	'By truthfulness a witness is purified, through truthfulness his merit grows, truth must, therefore, be spoken by witnesses of all castes (varna).

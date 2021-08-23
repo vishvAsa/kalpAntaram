@@ -2,7 +2,4 @@
 title = "038 वृद्धांश् च"
 
 +++
-वृद्धांश् च नित्यं सेवेत  
-विप्रान् वेदविदः शुचीन् ।  
-वृद्धसेवी हि सततं  
-रक्षोभिर् अपि पूज्यते  ॥ ७.३८ ॥
+038	Let him daily worship aged Brahmanas who know the Veda and are pure; for he who always worships aged men, is honoured even by Rakshasas.

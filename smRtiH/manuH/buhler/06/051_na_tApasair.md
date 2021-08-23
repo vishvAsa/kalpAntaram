@@ -2,7 +2,4 @@
 title = "051 न तापसैर्"
 
 +++
-न तापसैर् ब्राह्मणैर् वा  
-वयोभिर् अपि वा श्वभिः ।  
-आकीर्णं भिक्षुकैर् वान्यैर्  
-अगारम् उपसंव्रजेत्  ॥ ६.५१ ॥
+051	Let him not (in order to beg) go near a house filled with hermits, Brahmanas, birds, dogs, or other mendicants.

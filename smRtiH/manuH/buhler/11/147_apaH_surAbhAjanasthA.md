@@ -2,7 +2,4 @@
 title = "147 अपः सुराभाजनस्था"
 
 +++
-अपः सुराभाजनस्था  
-मद्यभाण्डस्थितास् तथा ।  
-पञ्चरात्रं पिबेत् पीत्वा  
-शङ्खपुष्पीशृतं पयः  ॥ ११.१४७ ॥ [१४६ मेधातिथिपाठे]
+148	He who has drunk water which has stood in a vessel used for keeping (the spirituous liquor, called) Sura, or other intoxicating drinks, shall drink during five (days and) nights (nothing but) milk in which the Sankhapushpi (plant) has been boiled.

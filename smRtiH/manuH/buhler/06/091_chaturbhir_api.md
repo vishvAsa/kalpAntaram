@@ -2,7 +2,4 @@
 title = "091 चतुर्भिर् अपि"
 
 +++
-चतुर्भिर् अपि चैवैतैर्  
-नित्यम् आश्रमिभिर् द्विजैः ।  
-दश-लक्षणको धर्मः  
-सेवितव्यः प्रयत्नतः  ॥ ६.९१ ॥
+091	By twice-born men belonging to (any of) these four orders, the tenfold law must be ever carefully obeyed.

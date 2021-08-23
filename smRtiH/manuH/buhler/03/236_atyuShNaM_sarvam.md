@@ -2,7 +2,4 @@
 title = "236 अत्युष्णं सर्वम्"
 
 +++
-अत्युष्णं सर्वम् अन्नं स्याद्  
-भुञ्जीरंस् ते च वाग्यताः ।  
-न च द्विजातयो ब्रूयुर्  
-दात्रा पृष्टा हविर्गुणान्  ॥ ३.२३६ ॥ [२२६ मेधातिथिपाठे]
+236	All the food must be very hot, and the (guests) shall eat in silence; (even though) asked by the giver (of the feast), the Brahmanas shall not proclaim the qualities of the sacrificial food.

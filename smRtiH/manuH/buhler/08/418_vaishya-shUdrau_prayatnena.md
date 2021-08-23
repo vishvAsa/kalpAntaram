@@ -2,7 +2,4 @@
 title = "418 वैश्य-शूद्रौ प्रयत्नेन"
 
 +++
-वैश्य-शूद्रौ प्रयत्नेन  
-स्वानि कर्माणि कारयेत् ।  
-तौ हि च्युतौ स्वकर्मभ्यः  
-क्षोभयेताम् इदं जगत्  ॥ ८.४१८ ॥
+418	(The king) should carefully compel Vaisyas and Sudra to perform the work (prescribed) for them; for if these two (castes) swerved from their duties, they would throw this (whole) world into confusion.

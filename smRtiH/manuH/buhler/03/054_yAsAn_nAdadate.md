@@ -2,7 +2,4 @@
 title = "054 यासान् नाददते"
 
 +++
-यासां नाददते शुल्कं  
-ज्ञातयो न स विक्रयः ।  
-अर्हणं तत् कुमारीणाम्  
-आनृशंस्यं च केवलम् [मेधातिथिपाठः - न केवलम्]  ॥ ३.५४ ॥
+054	When the relatives do not appropriate (for their use) the gratuity (given), it is not a sale; (in that case) the (gift) is only a token of respect and of kindness towards the maidens.

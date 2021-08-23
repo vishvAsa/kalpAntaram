@@ -2,7 +2,4 @@
 title = "258 साक्ष्यभावे तु"
 
 +++
-साक्ष्यभावे तु चत्वारो  
-ग्रामाः सामन्तवासिनः [मेधातिथिपाठः - ग्रामसीमान्तवासिनः] ।  
-सीमाविनिर्णयं कुर्युः  
-प्रयता राजसंनिधौ  ॥ ८.२५८ ॥
+258	On failure of witnesses (from the two villages, men of) the four neighbouring villages, who are pure, shall make (as witnesses) a decision concerning the boundary in the presence of the king.

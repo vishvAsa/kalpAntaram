@@ -2,7 +2,4 @@
 title = "068 ताव् उभाव्"
 
 +++
-ताव् उभाव् अप्य् असंस्कार्याव्  
-इति धर्मो व्यवस्थितः ।  
-वैगुण्याज् जन्मनः पूर्व  
-उत्तरः प्रतिलोमतः [मेधातिथिपाठः - जन्मतः]  ॥ १०.६८ ॥
+068	The law prescribes that neither of the two shall receive the sacraments, the first (being excluded) on account of the lowness of his origin, the second (because the union of his parents was) against the order of the castes.

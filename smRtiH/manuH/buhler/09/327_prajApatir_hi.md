@@ -2,7 +2,4 @@
 title = "327 प्रजापतिर् हि"
 
 +++
-प्रजापतिर् हि वैश्याय  
-सृष्ट्वा परिददे पशून् ।  
-ब्राह्मणाय च राज्ञे च  
-सर्वाः परिददे प्रजाः  ॥ ९.३२७ ॥
+327	For when the Lord of creatures (Pragapati) created cattle, he made them over to the Vaisya; to the Brahmana, and to the king he entrusted all created beings.

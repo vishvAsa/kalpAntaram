@@ -2,7 +2,4 @@
 title = "339 वानस्पत्यम् मूल-फलम्"
 
 +++
-वानस्पत्यं मूल-फलं  
-दार्व् अग्न्य्-अर्थं तथैव च ।  
-तृणं च गोभ्यो ग्रासार्थम्  
-अस्तेयं मनुर् अब्रवीत्  ॥ ८.३३९ ॥
+339	(The taking of) roots and of fruit from trees, of wood for a (sacrificial) fire, and of grass for feeding cows, Manu has declared (to be) no theft.

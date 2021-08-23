@@ -2,7 +2,4 @@
 title = "417 विस्रब्धम् ब्राह्मणः"
 
 +++
-विस्रब्धं ब्राह्मणः शूद्राद्  
-द्रव्योपादानम् आचरेत् ।  
-न हि तस्याऽस्ति किं चित् स्वं  
-भर्तृहार्य-धनो हि सः  ॥ ८.४१७ ॥
+417	A Brahmana may confidently seize the goods of (his) Sudra (slave); for, as that (slave) can have no property, his master may take his possessions.

@@ -2,7 +2,4 @@
 title = "016 न फालकृष्टम्"
 
 +++
-न फालकृष्टम् अश्नीयाद्  
-उत्सृष्टम् अपि केन चित् ।  
-न ग्रामजातान्य् आर्तो ऽपि  
-मूलाणि च फलानि च [मेधातिथिपाठः - पुष्पानि च फलानि च]  ॥ ६.१६ ॥
+016	Let him not eat anything (grown on) ploughed (land), though it may have been thrown away by somebody, nor roots and fruit grown in a village, though (he may be) tormented (by hunger).

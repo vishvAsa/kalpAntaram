@@ -2,7 +2,4 @@
 title = "103 गुरुतल्प्य् अभिभाष्यैनस्"
 
 +++
-गुरुतल्प्य् अभिभाष्यैनस्  
-तप्ते स्वप्याद् अयोमये [मेधातिथिपाठः - तल्पे स्वप्याद्] ।  
-सूर्मीं ज्वलन्तीं स्वाश्लिष्येन्  
-मृत्युना स विशुध्यति [मेधातिथिपाठः - वाश्लिष्येन्]  ॥ ११.१०३ ॥ [१०२ मेधातिथिपाठे]
+104	He who has violated his Guru's bed, shall, after confessing his crime, extend himself on a heated iron bed, or embrace the red-hot image (of a woman); by dying he becomes pure;

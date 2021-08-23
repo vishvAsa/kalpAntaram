@@ -2,7 +2,4 @@
 title = "202 राजतैर् भाजनैर्"
 
 +++
-राजतैर् भाजनैर् एषाम्  
-अथो वा रजतान्वितैः ।  
-वार्य् अपि श्रद्धया दत्तम्  
-अक्षयायोपकल्पते  ॥ ३.२०२ ॥ [१९२ मेधातिथिपाठे]
+202	Even water offered with faith (to the manes) in vessels made of silver or adorned with silver, produces endless (bliss).

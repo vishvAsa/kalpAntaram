@@ -2,7 +2,4 @@
 title = "059 नित्यन् तस्मिन्"
 
 +++
-नित्यं तस्मिन् समाश्वस्तः  
-सर्वकार्याणि निःक्षिपेत् [मेधातिथिपाठः - निक्षिपेत्] ।  
-तेन सार्धं विनिश्चित्य  
-ततः कर्म समारभेत्  ॥ ७.५९ ॥
+059	Let him, full of confidence, always entrust to that (official) all business; having taken his final resolution with him, let him afterwards begin to act.

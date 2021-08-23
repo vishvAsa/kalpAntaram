@@ -2,7 +2,4 @@
 title = "003 एतेभ्यो हि"
 
 +++
-एतेभ्यो हि द्विजाग्र्येभ्यो  
-देयम् अन्नं स-दक्षिणम् ।  
-इतरेभ्यो बहिर्वेदि  
-कृतान्नं देयम् उच्यते  ॥ ११.३ ॥
+003	To these most excellent among the twice-born, food and presents (of money) must be given; it is declared that food must be given to others outside the sacrificial enclosure.

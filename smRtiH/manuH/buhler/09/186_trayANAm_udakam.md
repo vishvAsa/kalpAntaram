@@ -2,7 +2,4 @@
 title = "186 त्रयाणाम् उदकम्"
 
 +++
-त्रयाणाम् उदकं कार्यं  
-त्रिषु पिण्डः प्रवर्तते ।  
-चतुर्थः संप्रदातैषां  
-पञ्चमो नोपपद्यते  ॥ ९.१८६ ॥
+186	To three (ancestors) water must be offered, to three the funeral cake is given, the fourth (descendant is) the giver of these (oblations), the fifth has no connection (with them).

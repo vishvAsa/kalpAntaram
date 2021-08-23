@@ -2,8 +2,4 @@
 title = "096 न तथैतानि"
 
 +++
-
-न तथैतानि शक्यन्ते  
-सन्नियन्तुम् असेवया ।  
-विषयेषु प्रजुष्टानि  
-यथा ज्ञानेन नित्यशः  ॥ २.९६ ॥
+096	Those (organs) which are strongly attached to sensual pleasures, cannot so effectually be restrained by abstinence (from enjoyments) as by a constant (pursuit of true) knowledge.

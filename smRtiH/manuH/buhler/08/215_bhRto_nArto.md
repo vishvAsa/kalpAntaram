@@ -2,7 +2,4 @@
 title = "215 भृतो नार्तो"
 
 +++
-भृतो नार्तो न कुर्याद् यो  
-दर्पात् कर्म यथोदितम् [मेधातिथिपाठः - अनार्तो] ।  
-स दण्ड्यः कृष्णलान्य् अष्टौ  
-न देयं चाऽस्य वेतनम्  ॥ ८.२१५ ॥
+215	A hired (servant or workman) who, without being ill, out of pride fails to perform his work according to the agreement, shall be fined eight krishnalas and no wages shall be paid to him.

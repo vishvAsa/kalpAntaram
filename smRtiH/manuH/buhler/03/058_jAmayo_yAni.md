@@ -2,7 +2,4 @@
 title = "058 जामयो यानि"
 
 +++
-जामयो यानि गेहानि  
-शपन्त्य् अप्रतिपूजिताः ।  
-तानि कृत्याहतानीव  
-विनश्यन्ति समन्ततः  ॥ ३.५८ ॥
+058	The houses on which female relations, not being duly honoured, pronounce a curse, perish completely, as if destroyed by magic.

@@ -2,7 +2,4 @@
 title = "256 दर्भाः पवित्रम्"
 
 +++
-दर्भाः पवित्रं पूर्वाह्णो  
-हविष्याणि च सर्वशः ।  
-पवित्रं यच् च पूर्वोक्तं  
-विज्ञेया हव्यसम्पदः  ॥ ३.२५६ ॥ [२४६ मेधातिथिपाठे]
+256	Know that Kusa grass, purificatory (texts), the morning, sacrificial viands of all kinds, and those means of purification, mentioned above, are blessings at a sacrifice to the gods.

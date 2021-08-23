@@ -2,8 +2,4 @@
 title = "122 प्रशासितारं सर्वेषाम्"
 
 +++
-
-प्रशासितारं सर्वेषाम्  
-अणीयांसम् अणोर् अपि ।  
-रुक्माभं स्वप्नधीगम्यं  
-विद्यात् तं पुरुषं परम्  ॥ १२.१२२ ॥
+122	Let him know the supreme Male (Purusha, to be) the sovereign ruler of them all, smaller even than small, bright like gold, and perceptible by the intellect (only when) in (a state of) sleep (-like abstraction).

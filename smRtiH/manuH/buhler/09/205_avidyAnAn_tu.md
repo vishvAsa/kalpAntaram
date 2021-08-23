@@ -2,7 +2,4 @@
 title = "205 अविद्यानान् तु"
 
 +++
-अविद्यानां तु सर्वेषां  
-ईहातश् चेद् धनं भवेत् ।  
-समस् तत्र विभागः स्याद्  
-अपित्र्य इति धारणा  ॥ ९.२०५ ॥
+205	But if all of them, being unlearned, acquire property by their labour, the division of that shall be equal, (as it is) not property acquired by the father; that is a settled rule.

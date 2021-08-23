@@ -2,8 +2,4 @@
 title = "092 यथोक्तान्य् अपि"
 
 +++
-
-यथोक्तान्य् अपि कर्माणि  
-परिहाय द्विजोत्तमः ।  
-आत्मज्ञाने शमे च स्याद्  
-वेदाभ्यासे च यत्नवान्  ॥ १२.९२ ॥
+092	After giving up even the above-mentioned sacrificial rites, a Brahmana should exert himself in (acquiring) the knowledge of the Soul, in extinguishing his passions, and in studying the Veda.

@@ -2,7 +2,4 @@
 title = "142 स्पृशन्ति बिन्दवः"
 
 +++
-स्पृशन्ति बिन्दवः पादौ  
-य आचामयतः परान् ।  
-भौमिकैस् ते समा ज्ञेया  
-न तैर् आप्रयतो भवेत् [मेधातिथिपाठः - अप्रयतो]  ॥ ५.१४२ ॥ [१४० मेधातिथिपाठे]
+142	Drops which trickle on the feet of him who offers water for sipping to others, must be considered as equal to (water collected on the ground; they render him not impure.

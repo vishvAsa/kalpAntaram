@@ -2,7 +2,4 @@
 title = "179 वेदविच् चाऽपि"
 
 +++
-वेदविच् चाऽपि विप्रो ऽस्य  
-लोभात् कृत्वा प्रतिग्रहम् ।  
-विनाशं व्रजति क्षिप्रम्  
-आमपात्रम् इवाऽम्भसि  ॥ ३.१७९ ॥ [१६९ मेधातिथिपाठे]
+179	And if a Brahmana, though learned in the Veda, accepts through covetousness a gift from such (a man), he will quickly perish, like a vessel of unburnt clay in water.

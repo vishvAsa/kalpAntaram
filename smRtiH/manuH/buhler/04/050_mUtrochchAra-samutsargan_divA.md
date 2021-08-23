@@ -2,8 +2,4 @@
 title = "050 मूत्रोच्चार-समुत्सर्गन् दिवा"
 
 +++
-
-मूत्रोच्चार-समुत्सर्गं  
-दिवा कुर्याद् उदङ्-मुखः ।  
-दक्षिणाभिमुखो रात्रौ  
-सन्ध्यायोश् च यथा दिवा  ॥ ४.५० ॥ [५१ मेधातिथिपाठे]  
+050	Let him void faeces and urine, in the daytime turning to the north, at night turning towards the south, during the two twilights in the same (position) as by day.

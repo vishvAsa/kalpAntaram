@@ -2,7 +2,4 @@
 title = "127 क्रय-विक्रयम् अध्वानम्"
 
 +++
-क्रय-विक्रयम् अध्वानं  
-भक्तं च स-परिव्ययम् ।  
-योगक्षेमं च सम्प्रेक्ष्य  
-वणिजो दापयेत् करान्  ॥ ७.१२७ ॥ [१२८ मेधातिथिपाठे]
+127	Having well considered (the rates of) purchase and (of) sale, (the length of) the road, (the expense for) food and condiments, the charges of securing the goods, let the king make the traders pay duty.

@@ -2,7 +2,4 @@
 title = "109 अद्भिर् गात्राणि"
 
 +++
-अद्भिर् गात्राणि शुध्यन्ति  
-मनः सत्येन शुध्यति ।  
-विद्या-तपोभ्यां भूतात्मा  
-बुद्धिर् ज्ञानेन शुध्यति [मेधातिथिपाठः - शुद्ध्यति]  ॥ ५.१०९ ॥ [१०८ मेधातिथिपाठे]
+109	The body is cleansed by water, the internal organ is purified by truthfulness, the individual soul by sacred learning and austerities, the intellect by (true) knowledge.

@@ -2,8 +2,4 @@
 title = "086 दश सूनासहस्राणि"
 
 +++
-
-दश सूनासहस्राणि  
-यो वाहयति सौनिकः ।  
-तेन तुल्यः स्मृतो राजा  
-घोरस् तस्य प्रतिग्रहः  ॥ ४.८६ ॥+++(5)+++  
+086	A king is declared to be equal (in wickedness) to a butcher who keeps a hundred thousand slaughter-houses; to accept presents from him is a terrible (crime).

@@ -2,8 +2,4 @@
 title = "014 श्रुतिद्वैधन् तु"
 
 +++
-
-श्रुतिद्वैधं तु यत्र स्यात्  
-तत्र धर्माव् उभौ स्मृतौ ।  
-उभाव् अपि हि तौ धर्मौ  
-सम्यग् उक्तौ मनीषिभिः  ॥ २.१४ ॥
+014	But when two sacred texts (Sruti) are conflicting, both are held to be law; for both are pronounced by the wise (to be) valid law.

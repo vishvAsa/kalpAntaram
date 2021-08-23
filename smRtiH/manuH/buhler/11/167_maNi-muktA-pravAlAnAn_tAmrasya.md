@@ -2,7 +2,4 @@
 title = "167 मणि-मुक्ता-प्रवालानान् ताम्रस्य"
 
 +++
-मणि-मुक्ता-प्रवालानां  
-ताम्रस्य रजतस्य च ।  
-अयः-कांस्योपलानां च  
-द्वादशाहं कणान्नता  ॥ ११.१६७ ॥ [१६६ मेधातिथिपाठे]
+168	To subsist during twelve days on (uncooked) grains (is the penance for stealing) gems, pearls, coral, copper, silver, iron, brass, or stone.

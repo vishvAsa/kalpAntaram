@@ -2,7 +2,4 @@
 title = "239 वृतिन् तत्र"
 
 +++
-वृतिं तत्र प्रकुर्वीत  
-याम् उष्ट्रो न विलोकयेत् ।  
-छिद्रं च वारयेत् सर्वं  
-श्व-सूकरमुखानुगम्  ॥ ८.२३९ ॥
+239	(The owner of the field) shall make there a hedge over which a camel cannot look, and stop every gap through which a dog or a boar can thrust his head.

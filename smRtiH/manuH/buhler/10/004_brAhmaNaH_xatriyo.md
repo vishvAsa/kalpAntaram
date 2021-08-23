@@ -2,7 +2,4 @@
 title = "004 ब्राह्मणः क्षत्रियो"
 
 +++
-ब्राह्मणः क्षत्रियो वैश्यस्  
-त्रयो वर्णा द्विजातयः ।  
-चतुर्थ एकजातिस् तु  
-शूद्रो नाऽस्ति तु पञ्चमः  ॥ १०.४ ॥
+004	Brahmana, the Kshatriya, and the Vaisya castes (varna) are the twice-born ones, but the fourth, the Sudra, has one birth only; there is no fifth (caste).

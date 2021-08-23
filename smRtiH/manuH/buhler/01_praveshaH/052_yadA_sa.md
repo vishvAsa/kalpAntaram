@@ -2,8 +2,4 @@
 title = "052 यदा स"
 
 +++
-
-यदा स देवो जागर्ति  
-तद् एवं चेष्टते जगत् ।  
-यदा स्वपिति शान्तात्मा  
-तदा सर्वं निमीलति  ॥ १.५२ ॥+++(5)+++ 
+052	When that divine one wakes, then this world stirs; when he slumbers tranquilly, then the universe sinks to sleep.

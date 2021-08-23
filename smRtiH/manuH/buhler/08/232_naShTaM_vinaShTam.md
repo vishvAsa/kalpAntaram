@@ -2,7 +2,4 @@
 title = "232 नष्टं विनष्टम्"
 
 +++
-नष्टं विनष्टं कृमिभिः  
-श्वहतं विषमे मृतम् ।  
-हीनं पुरुषकारेण  
-प्रदद्यात् पाल एव तु  ॥ ८.२३२ ॥
+232	The herdsman alone shall make good (the loss of a beast) strayed, destroyed by worms, killed by dogs or (by falling) into a pit, if he did not duly exert himself (to prevent it).

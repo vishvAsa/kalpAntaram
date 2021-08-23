@@ -2,8 +2,4 @@
 title = "001 मनुम् एकाग्रम्"
 
 +++
-
-मनुम् एकाग्रम् आसीनम्  
-अभिगम्य महर्षयः ।  
-प्रतिपूज्य यथान्यायम्  
-इदं वचनम् अब्रुवन्  ॥ १.१ ॥
+001	The great sages approached Manu, who was seated with a collected mind, and, having duly worshipped him, spoke as follows:

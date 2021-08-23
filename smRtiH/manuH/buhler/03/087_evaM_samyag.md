@@ -2,7 +2,4 @@
 title = "087 एवं सम्यग्"
 
 +++
-एवं सम्यग् +हविर् हुत्वा  
-सर्वदिक्षु प्रदक्षिणम् ।  
-इन्द्र+अन्तक+अप्पतीन्दुभ्यः  
-सानुगेभ्यो बलिं हरेत्  ॥ ३.८७ ॥ [७७ मेधातिथिपाठे]
+087	After having thus duly offered the sacrificial food, let him throw Bali offerings in all directions of the compass, proceeding (from the east) to the south, to Indra, Yama, Varuna, and Soma, as well as to the servants (of these deities).

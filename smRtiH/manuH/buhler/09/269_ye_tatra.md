@@ -2,7 +2,4 @@
 title = "269 ये तत्र"
 
 +++
-ये तत्र नोपसर्पेयुर्  
-मूलप्रणिहिताश् च ये ।  
-तान् प्रसह्य नृपो हन्यात्  
-स-मित्र-ज्ञाति-बान्धवान्  ॥ ९.२६९ ॥
+269	Those among them who do not come, and those who suspect the old (thieves employed by the king), the king shall attack by force and slay together with their friends, blood relations, and connexions.

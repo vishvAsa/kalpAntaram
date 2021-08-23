@@ -2,8 +2,4 @@
 title = "107 नैःश्रेयसम् इदम्"
 
 +++
-
-नैःश्रेयसम् इदं कर्म  
-यथोदितम् अशेषतः ।  
-मानवस्याऽस्य शास्त्रस्य  
-रहस्यम् उपदिश्यते [मेधातिथिपाठः - उपदेक्ष्यते]  ॥ १२.१०७ ॥
+107	Thus the acts which secure supreme bliss have been exactly and fully described; (now) the secret portion of these Institutes, proclaimed by Manu, will be taught.

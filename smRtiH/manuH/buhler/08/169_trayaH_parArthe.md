@@ -2,7 +2,4 @@
 title = "169 त्रयः परार्थे"
 
 +++
-त्रयः परार्थे क्लिश्यन्ति  
-साक्षिणः प्रतिभूः कुलम् ।  
-चत्वारस् तूपचीयन्ते  
-विप्र आढ्यो वणिङ् नृपः  ॥ ८.१६९ ॥
+169	Three suffer for the sake of others, witnesses, a surety, and judges; but four enrich themselves (through others), a Brahmana, a money-lender, a merchant, and a king.

@@ -2,7 +2,4 @@
 title = "102 यद्य् अन्नम्"
 
 +++
-यद्य् अन्नम् अत्ति तेषां तु  
-दशाहेनैव शुध्यति ।  
-अनदन्न् अन्नम् अह्नैव  
-न चेत् तस्मिन् गृहे वसेत्  ॥ ५.१०२ ॥ [१०१ मेधातिथिपाठे]
+102	But if he eats the food of the (Sapindas of the deceased), he is purified in ten days, (but) in one day, if he does not eat their food nor dwells in their house.

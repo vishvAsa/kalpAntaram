@@ -2,7 +2,4 @@
 title = "182 भ्रातॄणाम् एकजातानाम्"
 
 +++
-भ्रातॄणाम् एकजातानाम्  
-एकश् चेत् पुत्रवान् भवेत् ।  
-सर्वांस् तांस् तेन पुत्रेण  
-पुत्रिणो मनुर् अब्रवीत्  ॥ ९.१८२ ॥
+182	If among brothers, sprung from one (father), one have a son, Manu has declared them all to have male offspring through that son.

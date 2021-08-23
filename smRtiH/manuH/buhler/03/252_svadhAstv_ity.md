@@ -2,7 +2,4 @@
 title = "252 स्वधास्त्व् इत्य्"
 
 +++
-स्वधास्त्व् इत्य् एव तं ब्रूयुर्  
-ब्राह्मणास् तदनन्तरम् ।  
-स्वधाकारः परा ह्य् आषीः  
-सर्वेषु पितृकर्मसु  ॥ ३.२५२ ॥ [२४२ मेधातिथिपाठे]
+252	The Brahmana (guests) shall then answer him, 'Let there be Svadha;' for at all rites in honour of the manes the word Svadha is the highest benison.

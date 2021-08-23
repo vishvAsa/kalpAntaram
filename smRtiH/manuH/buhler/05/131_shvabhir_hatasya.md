@@ -2,7 +2,4 @@
 title = "131 श्वभिर् हतस्य"
 
 +++
-श्वभिर् हतस्य यन् मांसं  
-शुचि तन् मनुर् अब्रवीत् ।  
-क्रव्याद्भिश् च हतस्याऽन्यैश्  
-चण्डालाद्यैश् च दस्युभिः  ॥ ५.१३१ ॥ [१२९ मेधातिथिपाठे]
+131	Manu has declared that the flesh (of an animal) killed by dogs is pure, likewise (that) of a (beast) slain by carnivorous (animals) or by men of low caste (Dasyu), such as Kandalas.

@@ -2,7 +2,4 @@
 title = "150 सदा प्रहृष्टया"
 
 +++
-सदा प्रहृष्टया भाव्यं  
-गृहकार्ये च दक्षया ।  
-सुसंस्कृतोपस्करया  
-व्यये चाऽमुक्त-हस्तया  ॥ ५.१५० ॥ [१४८ मेधातिथिपाठे]
+150	She must always be cheerful, clever in (the management of her) household affairs, careful in cleaning her utensils, and economical in expenditure.

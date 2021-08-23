@@ -2,7 +2,4 @@
 title = "132 दौहित्रो ह्य्"
 
 +++
-दौहित्रो ह्य् अखिलं रिक्थम्  
-अपुत्रस्य पितुर् हरेत् ।  
-स एव दद्याद् द्वौ पिण्डौ  
-पित्रे मातामहाय च  ॥ ९.१३२ ॥
+132	The son of an (appointed) daughter, indeed, shall (also) take the estate of his (own) father, who leaves no (other) son; he shall (then) present two funeral cakes to his own father and to his maternal grandfather.

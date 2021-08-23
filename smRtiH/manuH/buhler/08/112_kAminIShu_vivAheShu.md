@@ -2,7 +2,4 @@
 title = "112 कामिनीषु विवाहेषु"
 
 +++
-कामिनीषु विवाहेषु  
-गवां भक्ष्ये तथेन्धने ।  
-ब्राह्मणाभ्युपपत्तौ च  
-शपथे नाऽस्ति पातकम्  ॥ ८.११२ ॥
+112	No crime, causing loss of caste, is committed by swearing (falsely) to women, the objects of one's desire, at marriages, for the sake of fodder for a cow, or of fuel, and in (order to show) favour to a Brahmana.

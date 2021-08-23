@@ -2,8 +2,4 @@
 title = "184 आकाशेशास् तु"
 
 +++
-
-आकाशेशास् तु विज्ञेया  
-बाल-वृद्ध-कृशातुराः ।  
-भ्राता ज्येष्ठः समः पित्रा  
-भार्या पुत्रः स्वका तनुः  ॥ ४.१८४ ॥+++(5)+++  
+184	Infants, aged, poor and sick men must be considered as rulers of the middle sphere, the eldest brother as equal to one's father, one's wife and one's son as one's own body,

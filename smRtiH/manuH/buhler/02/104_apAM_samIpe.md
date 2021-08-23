@@ -2,8 +2,4 @@
 title = "104 अपां समीपे"
 
 +++
-
-अपां समीपे नियतो  
-नैत्यकं विधिम् आस्थितः ।  
-सावित्रीम् अप्य् अधीयीत  
-गत्वारण्यं समाहितः  ॥ २.१०४ ॥
+104	He who (desires to) perform the ceremony (of the) daily (recitation), may even recite the Savitri near water, retiring into the forest, controlling his organs and concentrating his mind.

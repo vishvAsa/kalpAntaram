@@ -2,7 +2,4 @@
 title = "397 तन्तुवायो दशपलम्"
 
 +++
-तन्तुवायो दशपलं  
-दद्याद् एकपलाधिकम् ।  
-अतो ऽन्यथा वर्तमानो  
-दाप्यो द्वादशकं दमम्  ॥ ८.३९७ ॥
+397	A weaver (who has received) ten palas (of thread), shall return (cloth weighing) one pala more; he who acts differently shall be compelled to pay a fine of twelve (panas).

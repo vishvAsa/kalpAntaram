@@ -2,8 +2,4 @@
 title = "095 या वेदबाह्याः"
 
 +++
-
-या वेदबाह्याः स्मृतयो  
-याश् च काश् च कुदृष्टयः [मेधातिथिपाठः - श्रुतयो] ।  
-सर्वास् ता निष्-फलाः प्रेत्य  
-तमो-निष्ठा हि ताः स्मृताः  ॥ १२.९५ ॥
+095	All those traditions (smriti) and those despicable systems of philosophy, which are not based on the Veda, produce no reward after death; for they are declared to be founded on Darkness.

@@ -2,7 +2,4 @@
 title = "005 मुन्य्-अन्नैर् विविधैर्"
 
 +++
-मुन्य्-अन्नैर् विविधैर् मेध्यैः  
-शाक-मूल-फलेन वा ।  
-एतान् एव महायज्ञान्  
-निर्वपेद् विधिपूर्वकम्  ॥ ६.५ ॥
+005	Let him offer those five great sacrifices according to the rule, with various kinds of pure food fit for ascetics, or with herbs, roots, and fruit.

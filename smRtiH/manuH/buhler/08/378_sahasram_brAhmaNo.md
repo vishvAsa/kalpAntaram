@@ -2,7 +2,4 @@
 title = "378 सहस्रम् ब्राह्मणो"
 
 +++
-सहस्रं ब्राह्मणो दण्ड्यो  
-गुप्तां विप्रां बलाद् व्रजन् ।  
-शतानि पञ्च दण्ड्यः स्याद्  
-इच्छन्त्या सह संगतः  ॥ ८.३७८ ॥
+378	A Brahmana who carnally knows a guarded Brahmani against her will, shall be fined one thousand (panas); but he shall be made to pay five hundred, if he had connexion with a willing one.

@@ -2,7 +2,4 @@
 title = "269 षण्मासांश् छागमांसेन"
 
 +++
-षण्मासांश् छागमांसेन  
-पार्षतेन च सप्त वै ।  
-अष्टाव् एनस्य मांसेन  
-रौरवेण नवैव तु [मेधातिथिपाठः - ऐणेयमांसेन]  ॥ ३.२६९ ॥ [२५९ मेधातिथिपाठे]
+269	Six months with the flesh of kids, seven with that of spotted deer, eight with that of the black antelope, but nine with that of the (deer called) Ruru,

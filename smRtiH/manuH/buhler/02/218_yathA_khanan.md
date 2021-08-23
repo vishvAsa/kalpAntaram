@@ -2,8 +2,4 @@
 title = "218 यथा खनन्"
 
 +++
-
-यथा खनन् खनित्रेण  
-नरो वार्य् अधिगच्छति ।  
-तथा गुरुगतां विद्यां  
-शुश्रूषुर् अधिगच्छति  ॥ २.२१८ ॥
+218	As the man who digs with a spade (into the ground) obtains water, even so an obedient (pupil) obtains the knowledge which lies (hidden) in his teacher.

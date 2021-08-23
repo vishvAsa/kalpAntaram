@@ -2,7 +2,4 @@
 title = "224 गत्वा कक्षान्तरम्"
 
 +++
-गत्वा कक्षान्तरं त्व् अन्यत्  
-समनुज्ञाप्य तं जनम् ।  
-प्रविशेद् भोजनार्थं च  
-स्त्रीवृतो ऽन्तःपुरं पुनः  ॥ ७.२२४ ॥ [२२८ मेधातिथिपाठे]
+224	But going to another secret apartment and dismissing those people, he may enter the harem, surrounded by female (servants), in order to dine again.

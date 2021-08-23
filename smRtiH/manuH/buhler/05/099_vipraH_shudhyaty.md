@@ -2,7 +2,4 @@
 title = "099 विप्रः शुध्यत्य्"
 
 +++
-विप्रः शुध्यत्य् अपः स्पृष्ट्वा  
-क्षत्रियो वाहनायुधम् ।  
-वैश्यः प्रतोदं रश्मीन् वा  
-यष्टिं शूद्रः कृत-क्रियः  ॥ ५.९९ ॥ [९८ मेधातिथिपाठे]
+099	(At the end of the period of impurity) a Brahmana who has performed the necessary rites, becomes pure by touching water, a Kshatriya by touching the animal on which he rides, and his weapons, a Vaisya by touching his goad or the nose-string (of his oxen), a Sudra by touching his staff.

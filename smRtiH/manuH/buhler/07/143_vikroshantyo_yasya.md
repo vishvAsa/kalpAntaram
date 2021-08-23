@@ -2,7 +2,4 @@
 title = "143 विक्रोशन्त्यो यस्य"
 
 +++
-विक्रोशन्त्यो यस्य राष्ट्राद्  
-ह्रियन्ते दस्युभिः प्रजाः ।  
-सम्पश्यतः स-भृत्यस्य  
-मृतः स न तु जीवति  ॥ ७.१४३ ॥ [१४४ मेधातिथिपाठे]
+143	That (monarch) whose subjects are carried off by robbers (Dasyu) from his kingdom, while they loudly call (for help), and he and his servants are (quietly) looking on, is a dead and not a living (king).

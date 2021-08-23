@@ -2,7 +2,4 @@
 title = "034 क्षत्रियो बाहुवीर्येण"
 
 +++
-क्षत्रियो बाहुवीर्येण  
-तरेद् आपदम् आत्मनः ।  
-धनेन वैश्य-शूद्रौ तु  
-जप-होमैर् द्विजोत्तमः  ॥ ११.३४ ॥ [३३ मेधातिथिपाठे]
+034	A Kshatriya shall pass through misfortunes which have befallen him by the strength of his arms, a Vaisya and a Sudra by their wealth, the chief of the twice-born by muttered prayers and burnt-oblations.

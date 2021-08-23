@@ -2,8 +2,4 @@
 title = "251 गुरून् भृत्यांश्"
 
 +++
-
-गुरून् भृत्यांश् चोज्जिहीर्षन्न्  
-अर्चिष्यन् देवतातिथीन् ।  
-सर्वतः प्रतिगृह्णीयान्  
-न तु तृप्येत् स्वयं ततः  ॥ ४.२५१ ॥ [२५२ मेधातिथिपाठे]  
+251	He who desires to relieve his Gurus and those whom he is bound to maintain, or wishes to honour the gods and guests, may accept (gifts) from anybody; but he must not satisfy his (own hunger) with such (presents).

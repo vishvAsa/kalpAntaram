@@ -2,7 +2,4 @@
 title = "238 तत्राऽपरिवृतन् धान्यम्"
 
 +++
-तत्राऽपरिवृतं धान्यं  
-विहिंस्युः पशवो यदि ।  
-न तत्र प्रणयेद् दण्डं  
-नृपतिः पशुरक्षिणाम्  ॥ ८.२३८ ॥
+238	If the cattle do damage to unfenced crops on that (common), the king shall in that case not punish the herdsmen.

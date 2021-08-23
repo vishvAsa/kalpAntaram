@@ -2,7 +2,4 @@
 title = "282 समुत्सृजेद् राजमार्गे"
 
 +++
-समुत्सृजेद् राजमार्गे  
-यस् त्व् अमेध्यम् अनापदि ।  
-स द्वौ कार्षापणौ दद्याद्  
-अमेध्यं चाशु शोधयेत्  ॥ ९.२८२ ॥
+282	But he who, except in a case of extreme necessity, drops filth on the king's high-road, shall pay two karshapanas and immediately remove (that) filth.

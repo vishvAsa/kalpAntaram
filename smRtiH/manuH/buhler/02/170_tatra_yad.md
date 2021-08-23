@@ -2,8 +2,4 @@
 title = "170 तत्र यद्"
 
 +++
-
-तत्र यद् ब्रह्मजन्माऽस्य  
-मौञ्जीबन्धनचिह्नितम् ।  
-तत्राऽस्य माता सावित्री  
-पिता त्व् आचार्य उच्यते  ॥ २.१७० ॥
+170	Among those (three) the birth which is symbolised by the investiture with the girdle of Munga grass, is his birth for the sake of the Veda; they declare that in that (birth) the Sivitri (verse) is his mother and the teacher his father.

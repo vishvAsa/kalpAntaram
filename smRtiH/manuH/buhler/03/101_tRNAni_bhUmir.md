@@ -2,7 +2,4 @@
 title = "101 तृणानि भूमिर्"
 
 +++
-तृणानि भूमिर् उदकं  
-वाक् चतुर्थी च सूनृता ।  
-एतान्य् अपि सतां गेहे  
-नोच्छिद्यन्ते कदा चन  ॥ ३.१०१ ॥ [९१ मेधातिथिपाठे]+++(5)+++
+101	Grass, room (for resting), water, and fourthly a kind word; these (things) never fail in the houses of good men.

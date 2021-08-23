@@ -2,7 +2,4 @@
 title = "145 आधिश् चोपनिधिश्"
 
 +++
-आधिश् चोपनिधिश् चोभौ  
-न कालात्ययम् अर्हतः ।  
-अवहार्यौ भवेतां तौ  
-दीर्घकालम् अवस्थितौ  ॥ ८.१४५ ॥
+145	Neither a pledge nor a deposit can be lost by lapse of time; they are both recoverable, though they have remained long (with the bailee).

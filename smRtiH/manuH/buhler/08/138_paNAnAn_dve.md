@@ -2,7 +2,4 @@
 title = "138 पणानान् द्वे"
 
 +++
-पणानां द्वे शते सार्धे  
-प्रथमः साहसः स्मृतः ।  
-मध्यमः पञ्च विज्ञेयः  
-सहस्रं त्व् एव चोत्तमः  ॥ ८.१३८ ॥
+138	Two hundred and fifty panas are declared (to be) the first (or lowest) amercement, five (hundred) are considered as the mean (or middlemost), but one thousand as the highest.

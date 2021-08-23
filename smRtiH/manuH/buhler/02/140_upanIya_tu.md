@@ -2,8 +2,4 @@
 title = "140 उपनीय तु"
 
 +++
-
-उपनीय तु यः शिष्यं  
-वेदम् अध्यापयेद् द्विजः ।  
-स-कल्पं स-रहस्यं च  
-तम् आचार्यं प्रचक्षते  ॥ २.१४० ॥
+140	They call that Brahmana who initiates a pupil and teaches him the Veda together with the Kalpa and the Rahasyas, the teacher (akarya, of the latter).

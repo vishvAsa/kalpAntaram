@@ -2,7 +2,4 @@
 title = "225 सावित्रीञ् च"
 
 +++
-सावित्रीं च जपेन् नित्यं  
-पवित्राणि च शक्तितः ।  
-सर्वेष्व् एव व्रतेष्व् एवं  
-प्रायश्चित्तार्थम् आदृतः  ॥ ११.२२५ ॥ [२२४ मेधातिथिपाठे]
+226	Let him constantly mutter the Savitri and (other) purificatory texts according to his ability; (let him) carefully (act thus) on (the occasion of) all (other) vows (performed) by way of penance.

@@ -2,7 +2,4 @@
 title = "139 नोच्छिन्द्याद् आत्मनो"
 
 +++
-नोच्छिन्द्याद् आत्मनो  
-मूलं परेषां चाऽतितृष्णया ।  
-उच्छिन्दन् ह्य् आत्मनो  
-मूलम् आट्मानं तांश् च पीदयेत्  ॥ ७.१३९ ॥ [१४० मेधातिथिपाठे]
+139	Let him not cut up his own root (by levying no taxes), nor the root of other (men) by excessive greed; for by cutting up his own root (or theirs), he makes himself or them wretched.

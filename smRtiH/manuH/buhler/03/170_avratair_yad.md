@@ -2,7 +2,4 @@
 title = "170 अव्रतैर् यद्"
 
 +++
-अव्रतैर् यद् द्विजैर् भुक्तं  
-परिवेत्र्-आदिभिस् तथा ।  
-अपाङ्क्तेयैर् यद् अन्यैश् च  
-तद् वै रक्षांसि भुञ्जते  ॥ ३.१७० ॥ [१६० मेधातिथिपाठे]
+170	The Rakshasas, indeed, consume (the food) eaten by Brahmanas who have not fulfilled the vow of studentship, by a Parivettri and so forth, and by other men not admissible into the company.

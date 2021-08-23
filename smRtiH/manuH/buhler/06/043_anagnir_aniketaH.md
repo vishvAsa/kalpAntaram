@@ -2,7 +2,4 @@
 title = "043 अनग्निर् अनिकेतः"
 
 +++
-अनग्निर् अनिकेतः स्याद्  
-ग्रामम् अन्नार्थम् आश्रयेत् ।  
-उपेक्षको ऽसङ्कुसुको  
-मुनिर् भावसमाहितः [मेधातिथिपाठः - अ-साङ्कुसुको]  ॥ ६.४३ ॥
+043	He shall neither possess a fire, nor a dwelling, he may go to a village for his food, (he shall be) indifferent to everything, firm of purpose, meditating (and) concentrating his mind on Brahman.

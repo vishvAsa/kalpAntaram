@@ -2,7 +2,4 @@
 title = "164 द्रव्याणाम् अल्प-साराणाम्"
 
 +++
-द्रव्याणाम् अल्प-साराणां  
-स्तेयं कृत्वान्यवेश्मतः [मेधातिथिपाठः - कृत्वान्यवेश्मनि] ।  
-चरेत् सांतपनं कृच्छ्रं  
-तन् निर्यात्य् आत्मशुद्धये  ॥ ११.१६४ ॥ [१६३ मेधातिथिपाठे]
+165	He who has stolen objects of small value from the house of another man, shall, after restoring the (stolen article), perform a Samtapana Krikkhra for his purification.

@@ -2,8 +2,4 @@
 title = "173 यदि नात्मनि"
 
 +++
-
-यदि नात्मनि पुत्रेषु  
-न चेत् पुत्रेषु नप्तृषु ।  
-न त्व् एव तु कृतो ऽधर्मः  
-कर्तुर् भवति निष्-फलः [मेधातिथिपाठः - कृतो धर्मः?]  ॥ ४.१७३ ॥+++(5)+++  
+173	If (the punishment falls) not on (the offender) himself, (it falls) on his sons, if not on the sons, (at least) on his grandsons; but an iniquity (once) committed, never fails to produce fruit to him who wrought it.

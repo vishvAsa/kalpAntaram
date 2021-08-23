@@ -2,7 +2,4 @@
 title = "305 यद् अधीते"
 
 +++
-यद् अधीते यद् यजते  
-यद् ददाति यद् अर्चति ।  
-तस्य षड्भागभाग् राजा  
-सम्यग् भवति रक्षणात्  ॥ ८.३०५ ॥
+305	Whatever (merit a man gains by) reading the Veda, by sacrificing, by charitable gifts, (or by) worshipping (Gurus and gods), the king obtains a sixth part of that in consequence of his duly protecting (his kingdom).

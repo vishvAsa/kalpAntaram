@@ -2,8 +2,4 @@
 title = "037 नेक्षेतोद्यन्तम् आदित्यम्"
 
 +++
-
-+++(व्यसनरूपेण)+++ नेक्षेतोद्यन्तम् आदित्यं  
-नाऽस्तं यान्तं कदा चन ।  
-नोपसृष्टं +++(ग्रहणेन)+++ न वारिस्थं  
-न मध्यं नभसो गतम्  ॥ ४.३७ ॥  
+037	Let him never look at the sun, when he sets or rises, is eclipsed or reflected in water, or stands in the middle of the sky.

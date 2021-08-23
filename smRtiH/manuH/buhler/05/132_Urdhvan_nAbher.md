@@ -2,7 +2,4 @@
 title = "132 ऊर्ध्वन् नाभेर्"
 
 +++
-ऊर्ध्वं नाभेर् यानि खानि  
-तानि मेध्यानि सर्वशः ।  
-यान्य् अधस् तान्य् अमेध्यानि  
-देहाच् चैव मलाश् च्युताः  ॥ ५.१३२ ॥ [१३० मेधातिथिपाठे]
+132	All those cavities (of the body) which lie above the navel are pure, (but) those which are below the navel are impure, as well as excretions that fall from the body.

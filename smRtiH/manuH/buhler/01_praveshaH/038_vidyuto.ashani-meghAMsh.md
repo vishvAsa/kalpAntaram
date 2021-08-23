@@ -2,8 +2,4 @@
 title = "038 विद्युतो ऽशनि-मेघांश्"
 
 +++
-
-विद्युतो ऽशनि-मेघांश् च  
-रोहितेन्द्रधनूंषि च ।  
-उल्कानिर्घात-केतूंश् च  
-ज्योतींष्य् उच्चावचानि च  ॥ १.३८ ॥
+038	Lightnings, thunderbolts and clouds, imperfect (rohita) and perfect rainbows, falling meteors, supernatural noises, comets, and heavenly lights of many kinds,

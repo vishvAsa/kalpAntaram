@@ -2,8 +2,4 @@
 title = "089 एकादशेन्द्रियाण्य् आहुर्"
 
 +++
-
-एकादशेन्द्रियाण्य् आहुर्  
-यानि पूर्वे मनीषिणः ।  
-तानि सम्यक् प्रवक्ष्यामि  
-यथावद् अनुपूर्वशः  ॥ २.८९ ॥
+089	Those eleven organs which former sages have named, I will properly (and) precisely enumerate in due order,

@@ -2,7 +2,4 @@
 title = "003 अराजके हि"
 
 +++
-अराजके हि लोके ऽस्मिन्  
-सर्वतो विद्रुतो भयात् ।  
-रक्षार्थम् अस्य सर्वस्य  
-राजानम् असृजत् प्रभुः  ॥ ७.३ ॥
+003	For, when these creatures, being without a king, through fear dispersed in all directions, the Lord created a king for the protection of this whole (creation),

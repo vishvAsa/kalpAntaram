@@ -2,7 +2,4 @@
 title = "320 धान्यन् दशभ्यः"
 
 +++
-धान्यं दशभ्यः कुम्भेभ्यो  
-हरतो ऽभ्यधिकं वधः ।  
-शेषे ऽप्य् एकादशगुणं  
-दाप्यस् तस्य च तद् धनम्  ॥ ८.३२० ॥
+320	On him who steals more than ten kumbhas of grain corporal punishment (shall be inflicted); in other cases he shall be fined eleven times as much, and shall pay to the (owner the value of his) property.

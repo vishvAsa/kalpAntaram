@@ -2,8 +2,4 @@
 title = "071 यद् एतत्"
 
 +++
-
-यद् एतत् परिसङ्ख्यातम्  
-आदाव् एव चतुर्युगम् ।  
-एतद् द्वादशसाहस्रं  
-देवानां युगम् उच्यते  ॥ १.७१ ॥
+071	These twelve thousand (years) which thus have been just mentioned as the total of four (human) ages, are called one age of the gods.

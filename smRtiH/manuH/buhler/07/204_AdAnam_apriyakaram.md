@@ -2,7 +2,4 @@
 title = "204 आदानम् अप्रियकरम्"
 
 +++
-आदानम् अप्रियकरं  
-दानं च प्रियकारकम् ।  
-अभीप्सितानाम् अर्थानां  
-काले युक्तं प्रशस्यते [मेधातिथिपाठः - कालयुक्तं]  ॥ ७.२०४ ॥ [२०५ मेधातिथिपाठे]
+204	The seizure of desirable property which causes displeasure, and its distribution which causes pleasure, are both recommendable, (if they are) resorted to at the proper time.

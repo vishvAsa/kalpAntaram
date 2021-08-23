@@ -2,7 +2,4 @@
 title = "027 इष्टिं वैश्वानरीम्"
 
 +++
-इष्टिं वैश्वानरीं नित्यं  
-निर्वपेद् अब्दपर्यये ।  
-कॢप्तानां पशु-सोमानां  
-निष्कृत्यर्थम् असंभवे  ॥ ११.२७ ॥ [२६ मेधातिथिपाठे]
+027	In case the prescribed animal and Soma-sacrifices cannot be performed, let him always offer at the change of the year a Vaisvanari Ishti as a penance (for the omission).

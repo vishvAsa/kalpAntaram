@@ -2,7 +2,4 @@
 title = "023 बभूवुर् हि"
 
 +++
-बभूवुर् हि पुरोडाशा  
-भक्ष्याणां मृग-पक्षिणाम् ।  
-पुराणेष्व् अपि यज्ञेषु  
-ब्रह्म-क्षत्र-सवेषु च [[मेधातिथिपाठः - पुराणेष्व् ऋषियज्ञेषु]  ॥ ५.२३ ॥
+023	For in ancient (times) the sacrificial cakes were (made of the flesh) of eatable beasts and birds at the sacrifices offered by Brahmanas and Kshatriyas.

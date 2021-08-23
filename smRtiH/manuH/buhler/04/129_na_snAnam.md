@@ -2,8 +2,4 @@
 title = "129 न स्नानम्"
 
 +++
-
-न स्नानम् आचरेद् भुक्त्वा  
-नातुरो न महानिशि ।  
-न वासोभिः सहाऽजस्रं  
-नाऽविज्ञाते जलाशये  ॥ ४.१२९ ॥+++(4)+++  
+129	Let him not bathe (immediately) after a meal, nor when he is sick, nor in the middle of the night, nor frequently dressed in all his garments, nor in a pool which he does not perfectly know.

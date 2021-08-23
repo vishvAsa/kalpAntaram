@@ -2,7 +2,4 @@
 title = "047 तासाम् आद्याश्"
 
 +++
-तासाम् आद्याश् चतस्रस् तु  
-निन्दितैकादशी च या ।  
-त्रयोदशी च शेषास् तु  
-प्रशस्ता दशरात्रयः  ॥ ३.४७ ॥
+047	But among these the first four, the eleventh and the thirteenth are (declared to be) forbidden; the remaining nights are recommended.

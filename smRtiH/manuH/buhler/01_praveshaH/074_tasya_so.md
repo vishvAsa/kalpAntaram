@@ -2,8 +2,4 @@
 title = "074 तस्य सो"
 
 +++
-
-तस्य सो ऽहर्-निशस्याऽन्ते  
-प्रसुप्तः प्रतिबुध्यते ।  
-प्रतिबुद्धश् च सृजति  
-मनः सद्-असद्-आत्मकम्  ॥ १.७४ ॥
+074	At the end of that day and night he who was asleep, awakes and, after awaking, creates mind, which is both real and unreal.

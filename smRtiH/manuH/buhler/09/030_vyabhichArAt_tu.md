@@ -2,7 +2,4 @@
 title = "030 व्यभिचारात् तु"
 
 +++
-व्यभिचारात् तु भर्तुः स्त्री  
-लोके प्राप्नोति निन्द्यताम् ।  
-सृगालयोनिं चाप्नोति  
-पापरोगैश् च पीड्यते [मेधातिथिपाठः - शृगालयोनिं]  ॥ ९.३० ॥
+030	But for disloyalty to her husband a wife is censured among men, and (in her next life) she is born in the womb of a jackal and tormented by diseases, the punishment of her sin.

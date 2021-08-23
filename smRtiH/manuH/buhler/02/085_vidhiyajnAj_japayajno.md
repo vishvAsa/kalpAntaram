@@ -2,8 +2,4 @@
 title = "085 विधियज्ञाज् जपयज्ञो"
 
 +++
-
-विधियज्ञाज् जपयज्ञो  
-विशिष्टो दशभिर् गुणैः ।  
-उपांशुः स्याच् छतगुणः  
-साहस्रो मानसः स्मृतः  ॥ २.८५ ॥
+085	An offering, consisting of muttered prayers, is ten times more efficacious than a sacrifice performed according to the rules (of the Veda); a (prayer) which is inaudible (to others) surpasses it a hundred times, and the mental (recitation of sacred texts) a thousand times.

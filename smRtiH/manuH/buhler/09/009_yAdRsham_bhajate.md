@@ -2,7 +2,4 @@
 title = "009 यादृशम् भजते"
 
 +++
-यादृशं भजते हि स्त्री  
-सुतं सूते तथाविधम् ।  
-तस्मात् प्रजाविशुद्ध्य्-अर्थं  
-स्त्रियं रक्षेत् प्रयत्नतः  ॥ ९.९ ॥
+009	As the male is to whom a wife cleaves, even so is the son whom she brings forth; let him therefore carefully guard his wife, in order to keep his offspring pure.

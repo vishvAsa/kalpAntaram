@@ -2,7 +2,4 @@
 title = "286 अदूषितानान् द्रव्याणाम्"
 
 +++
-अदूषितानां द्रव्याणां  
-दूषणे भेदने तथा ।  
-मणीनाम् अपवेधे च  
-दण्डः प्रथमसाहसः  ॥ ९.२८६ ॥
+286	For adulterating unadulterated commodities, and for breaking gems or for improperly boring (them), the fine is the first (or lowest) amercement.

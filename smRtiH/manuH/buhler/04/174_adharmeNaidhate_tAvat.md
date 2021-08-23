@@ -2,8 +2,4 @@
 title = "174 अधर्मेणैधते तावत्"
 
 +++
-
-अधर्मेणैधते तावत्  
-ततो भद्राणि पश्यति ।  
-ततः सपत्नान् जयति  
-स-मूलस् तु विनश्यति  ॥ ४.१७४ ॥+++(5)+++  
+174	He prospers for a while through unrighteousness, then he gains great good fortune, next he conquers his enemies, but (at last) he perishes (branch and) root.

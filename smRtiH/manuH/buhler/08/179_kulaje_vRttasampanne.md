@@ -2,7 +2,4 @@
 title = "179 कुलजे वृत्तसम्पन्ने"
 
 +++
-कुलजे वृत्तसंपन्ने  
-धर्मज्ञे सत्यवादिनि ।  
-महापक्षे धनिन्य् आर्ये  
-निक्षेपं निक्षिपेद् बुधः  ॥ ८.१७९ ॥
+179	A sensible man should make a deposit (only) with a person of (good) family, of good conduct, well acquainted with the law, veracious, having many relatives, wealthy, and honourable (arya).

@@ -2,8 +2,4 @@
 title = "095 श्रावण्याम् प्रौष्ठपद्याम्"
 
 +++
-
-श्रावण्यां प्रौष्ठपद्यां वाप्य्  
-उपाकृत्य यथाविधि ।  
-युक्तश् छन्दांस्य् अधीयीत  
-मासान् विप्रो ऽर्धपञ्चमान्  ॥ ४.९५ ॥+++(4)+++  
+095	Having performed the Upakarman according to the prescribed rule on (the full moon of the month) Sravana, or on that of Praushthapada (Bhadrapada), a Brahmana shall diligently study the Vedas during four months and a half.

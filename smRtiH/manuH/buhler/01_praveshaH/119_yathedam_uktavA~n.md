@@ -2,8 +2,4 @@
 title = "119 यथेदम् उक्तवाञ्"
 
 +++
-
-यथेदम् उक्तवाञ् शास्त्रं  
-पुरा पृष्टो मनुर् मया ।  
-तथेदं यूयम् अप्य् अद्य  
-मत्-सकाशान् निबोधत  ॥ १.११९ ॥
+119	As Manu, in reply to my questions, formerly promulgated these Institutes, even so learn ye also the (whole work) from me.

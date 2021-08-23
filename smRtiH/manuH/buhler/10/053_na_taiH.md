@@ -2,7 +2,4 @@
 title = "053 न तैः"
 
 +++
-न तैः समयम् अन्विच्छेत्  
-पुरुषो धर्मम् आचरन् ।  
-व्यवहारो मिथस् तेषां  
-विवाहः सदृशैः सह  ॥ १०.५३ ॥
+053	A man who fulfils a religious duty, shall not seek intercourse with them; their transactions (shall be) among themselves, and their marriages with their equals.

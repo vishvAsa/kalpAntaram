@@ -2,8 +2,4 @@
 title = "061 अनुष्णाभिर् अफेनाभिर्"
 
 +++
-
-अनुष्णाभिर् अफेनाभिर्  
-अद्भिस् तीर्थेन धर्मवित् ।  
-शौचेप्सुः सर्वदाचामेद्  
-एकान्ते प्राग्-उदङ्-मुखः  ॥ २.६१ ॥
+061	He who knows the sacred law and seeks purity shall always perform the rite of sipping with water neither hot nor frothy, with the (prescribed) tirtha, in a lonely place, and turning to the east or to the north.

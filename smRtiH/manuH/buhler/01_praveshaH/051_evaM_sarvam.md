@@ -2,8 +2,4 @@
 title = "051 एवं सर्वम्"
 
 +++
-
-एवं सर्वं स सृष्ट्वेदं  
-मां चाऽचिन्त्य-पराक्रमः ।  
-आत्मन्य् अन्तर्दधे भूयः  
-कालं कालेन पीडयन्  ॥ १.५१ ॥
+051	When he whose power is incomprehensible, had thus produced the universe and men, he disappeared in himself, repeatedly suppressing one period by means of the other.

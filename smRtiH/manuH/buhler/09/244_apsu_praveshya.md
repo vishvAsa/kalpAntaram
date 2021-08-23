@@ -2,7 +2,4 @@
 title = "244 अप्सु प्रवेश्य"
 
 +++
-अप्सु प्रवेश्य तं दण्डं  
-वरुणायोपपादयेत् ।  
-श्रुत-वृत्तोपपन्ने वा  
-ब्राह्मणे प्रतिपादयेत्  ॥ ९.२४४ ॥
+244	Having thrown such a fine into the water, let him offer it to Varuna, or let him bestow it on a learned and virtuous Brahmana.

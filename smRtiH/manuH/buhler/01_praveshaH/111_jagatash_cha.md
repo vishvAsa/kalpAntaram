@@ -2,8 +2,4 @@
 title = "111 जगतश् च"
 
 +++
-
-जगतश् च समुत्पत्तिं  
-संस्कारविधिम् एव च ।  
-व्रतचर्योपचारं च  
-स्नानस्य च परं विधिम्  ॥ १.१११ ॥
+111	The creation of the universe, the rule of the sacraments, the ordinances of studentship, and the respectful behaviour (towards Gurus), the most excellent rule of bathing (on return from the teacher's house),

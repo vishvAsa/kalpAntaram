@@ -2,7 +2,4 @@
 title = "072 देवतातिथि-भृत्यानाम् पितॄणाम्"
 
 +++
-देवतातिथि-भृत्यानां  
-पितॄणाम् आत्मनश् च यः ।  
-न निर्वपति पञ्चानाम्  
-उच्छ्वसन् न स जीवति  ॥ ३.७२ ॥ [६२ मेधातिथिपाठे]
+072	But he who does not feed these five, the gods, his guests, those whom he is bound to maintain, the manes, and himself, lives not, though he breathes.

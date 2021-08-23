@@ -2,7 +2,4 @@
 title = "182 साक्ष्य्-अभावे प्रणिधिभिर्"
 
 +++
-साक्ष्य्-अभावे प्रणिधिभिर्  
-वयो-रूप-समन्वितैः ।  
-अपदेशैश् च संन्यस्य  
-हिरण्यं तस्य तत्त्वतः  ॥ ८.१८२ ॥
+182	On failure of witnesses let the (judge) actually deposit gold with that (defendant) under some pretext or other through spies of suitable age and appearance (and afterwards demand it back).

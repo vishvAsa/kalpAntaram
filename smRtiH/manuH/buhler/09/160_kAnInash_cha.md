@@ -2,7 +2,4 @@
 title = "160 कानीनश् च"
 
 +++
-कानीनश् च सहोढश् च  
-क्रीतः पौनर्भवस् तथा ।  
-स्वयंदत्तश् च शौद्रश् च  
-षड् अदायाद-बान्धवाः  ॥ ९.१६० ॥
+160	The son of an unmarried damsel, the son received with the wife, the son bought, the son begotten on a re-married woman, the son self-given, and the son of a Sudra female, (are) the six (who are) not heirs, (but) kinsmen.

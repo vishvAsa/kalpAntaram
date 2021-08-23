@@ -2,7 +2,4 @@
 title = "053 व्यसनस्य च"
 
 +++
-व्यसनस्य च मृत्योश् च  
-व्यसनं कष्टम् उच्यते ।  
-व्यसन्य् अधो ऽधो व्रजति  
-स्वर् यात्य् अव्यसनी मृतः  ॥ ७.५३ ॥
+053	(On a comparison) between vice and death, vice is declared to be more pernicious; a vicious man sinks to the nethermost (hell), he who dies, free from vice, ascends to heaven.

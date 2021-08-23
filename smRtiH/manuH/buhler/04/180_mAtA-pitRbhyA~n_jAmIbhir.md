@@ -2,8 +2,4 @@
 title = "180 माता-पितृभ्याञ् जामीभिर्"
 
 +++
-
-माता-पितृभ्यां जामीभिर्  
-भ्रात्रा पुत्रेण भार्यया ।  
-दुहित्रा दासवर्गेण  
-विवादं न समाचरेत्  ॥ ४.१८० ॥+++(5)+++  
+180	With his father and his mother, with female relatives, with a brother, with his son and his wife, with his daughter and with his slaves, let him not have quarrels.

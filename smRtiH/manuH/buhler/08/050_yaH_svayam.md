@@ -2,7 +2,4 @@
 title = "050 यः स्वयम्"
 
 +++
-यः स्वयं साधयेद् अर्थम्  
-उत्तमर्णो ऽधमर्णिकात् ।  
-न स राज्ञाभियोक्तव्यः  
-स्वकं संसाधयन् धनम्  ॥ ८.५० ॥
+050	A creditor who himself recovers his property from his debtor, must not be blamed by the king for retaking what is his own.

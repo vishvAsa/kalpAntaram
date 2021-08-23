@@ -2,7 +2,4 @@
 title = "396 शाल्मलीफलके श्लक्ष्णे"
 
 +++
-शाल्मलीफलके श्लक्ष्णे  
-नेनिज्यान् नेजकः शनैः ।  
-न च वासांसि वासोभिर्  
-निर्हरेन् न च वासयेत्  ॥ ८.३९६ ॥
+396	A washerman shall wash (the clothes of his employers) gently on a smooth board of Salmaliwood he shall not return the clothes (of one person) for those (of another), nor allow anybody (but the owner) to wear them.

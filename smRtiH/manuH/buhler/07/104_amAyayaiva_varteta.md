@@ -2,7 +2,4 @@
 title = "104 अमाययैव वर्तेत"
 
 +++
-अमाययैव वर्तेत  
-न कथं चन मायया ।  
-बुध्येताऽरिप्रयुक्तां च  
-मायां नित्यं सुसंवृतः  ॥ ७.१०४ ॥ [१०५ मेधातिथिपाठे]
+104	Let him ever act without guile, and on no account treacherously; carefully guarding himself, let him always fathom the treachery which his foes employ.

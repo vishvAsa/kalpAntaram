@@ -2,8 +2,4 @@
 title = "077 अचक्षुर् विषयम्"
 
 +++
-
-अचक्षुर् विषयं दुर्गं  
-न प्रपद्येत कर्हि चित् ।  
-न विण्-मूत्रम् उदीक्षेत  
-न बाहुभ्यां नदीं तरेत्  ॥ ४.७७ ॥  
+077	Let him never enter a place, difficult of access, which is impervious to his eye; let him not look at urine or ordure, nor cross a river (swimming) with his arms.

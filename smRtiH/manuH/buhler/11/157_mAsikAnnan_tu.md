@@ -2,7 +2,4 @@
 title = "157 मासिकान्नन् तु"
 
 +++
-मासिकान्नं तु यो ऽश्नीयाद्  
-असमावर्तको द्विजः ।  
-स त्रीण्य् अहान्य् उपवसेद्  
-एकाहं चोदके वसेत्  ॥ ११.१५७ ॥ [१५६ मेधातिथिपाठे]
+158	If a twice-born man, who has not returned (home from his teacher's house), eats food, given at a monthly (Sraddha,) he shall fast during three days and pass one day (standing) in water.

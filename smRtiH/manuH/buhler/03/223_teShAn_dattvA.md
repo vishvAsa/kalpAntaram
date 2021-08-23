@@ -2,7 +2,4 @@
 title = "223 तेषान् दत्त्वा"
 
 +++
-तेषां दत्त्वा तु हस्तेषु  
-स-पवित्रं तिलोदकम् ।  
-तत्पिण्डाग्रं प्रयच्छेत  
-स्वधैषाम् अस्त्व् इति ब्रुवन् [मेधातिथिपाठः - प्रयच्छेत् तु]  ॥ ३.२२३ ॥ [२१३ मेधातिथिपाठे]
+223	Having poured water mixed with sesamum, in which a blade of Kusa grass has been placed, into the hands of the (guests), he shall give (to each) that (above-mentioned) portion of the cake, saying, 'To those, Svadha!'

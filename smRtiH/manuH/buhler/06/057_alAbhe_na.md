@@ -2,7 +2,4 @@
 title = "057 अलाभे न"
 
 +++
-अलाभे न विषदी स्याल्  
-लाभे चैव न हर्षयेत् ।  
-प्राणयात्रिक-मात्रः स्यान्  
-मात्रासङ्गाद् विनिर्गतः  ॥ ६.५७ ॥
+057	Let him not be sorry when he obtains nothing, nor rejoice when he obtains (something), let him (accept) so much only as will sustain life, let him not care about the (quality of his) utensils.

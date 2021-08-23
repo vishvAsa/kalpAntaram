@@ -2,7 +2,4 @@
 title = "128 त्र्यब्दञ् चरेद्"
 
 +++
-त्र्यब्दं चरेद् वा नियतो  
-जटी ब्रह्महणो व्रतम् ।  
-वसन् दूरतरे ग्रामाद्  
-वृक्षमूल-निकेतनः  ॥ ११.१२८ ॥ [१२७ मेधातिथिपाठे]
+129	Or he may perform the penance prescribed for the murderer of a Brahmana during three years, controlling himself, wearing his hair in braids, staying far away from the village, and dwelling at the root of a tree.

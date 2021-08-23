@@ -2,7 +2,4 @@
 title = "222 महाव्याहृतिभिर् होमः"
 
 +++
-महाव्याहृतिभिर् होमः  
-कर्तव्यः स्वयम् अन्वहम् ।  
-अहिंसा सत्यम् अक्रोधम्  
-आर्जवं च समाचरेत्  ॥ ११.२२२ ॥ [२२१ मेधातिथिपाठे]
+223	Burnt oblations, accompanied by (the recitation of) the Mahavyahritis, must daily be made (by the penitent) himself, and he must abstain from injuring (sentient creatures), speak the truth, and keep himself free from anger and from dishonesty.

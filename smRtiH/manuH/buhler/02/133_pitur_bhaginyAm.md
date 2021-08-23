@@ -2,8 +2,4 @@
 title = "133 पितुर् भगिन्याम्"
 
 +++
-
-पितुर् भगिन्यां मातुश् च  
-ज्यायस्यां च स्वसर्य् अपि ।  
-मातृवद् वृत्तिम् आतिष्ठेन्  
-माता ताभ्यो गरीयसी  ॥ २.१३३ ॥
+133	Towards a sister of one's father and of one's mother, and towards one's own elder sister, one must behave as towards one's mother; (but) the mother is more venerable than they.

@@ -2,8 +2,4 @@
 title = "084 वेदोक्तम् आयुर्"
 
 +++
-
-वेदोक्तम् आयुर् मर्त्यानाम्  
-आशिषश् चैव कर्मणाम् ।  
-फलन्त्य् अनुयुगं लोके  
-प्रभावश् च शरीरिणाम्  ॥ १.८४ ॥
+084	The life of mortals, mentioned in the Veda, the desired results of sacrificial rites and the (supernatural) power of embodied (spirits) are fruits proportioned among men according to (the character of) the age.

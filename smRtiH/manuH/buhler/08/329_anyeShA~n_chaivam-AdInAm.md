@@ -2,7 +2,4 @@
 title = "329 अन्येषाञ् चैवम्-आदीनाम्"
 
 +++
-अन्येषां चैवम्-आदीनां  
-मद्यानाम् ओदनस्य च [मेधातिथिपाठः - चैवमादीनाम् अद्यानाम्] ।  
-पक्वान्नानां च सर्वेषां  
-तन्मुल्याद् द्विगुणो दमः  ॥ ८.३२९ ॥
+329	Or other things of a similar kind, spirituous liquor, boiled rice, and every kind of cooked food, the fine (shall be) twice the value (of the stolen article).

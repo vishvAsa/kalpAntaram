@@ -2,7 +2,4 @@
 title = "205 दैवाद्यन्तन् तद्"
 
 +++
-दैवाद्यन्तं तद् ईहेत  
-पित्र्-आद्यन्तं न तद् भवेत् ।  
-पित्र्-आद्यन्तं त्व् ईहमानः  
-क्षिप्रं नश्यति सान्वयः  ॥ ३.२०५ ॥ [१९५ मेधातिथिपाठे]
+205	Let him make (the Sraddha) begin and end with (a rite) in honour of the gods; it shall not begin and end with a (rite) to the manes; for he who makes it begin and end with a (rite) in honour of the manes, soon perishes together with his progeny.

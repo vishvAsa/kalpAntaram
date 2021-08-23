@@ -2,8 +2,4 @@
 title = "243 धर्म-प्रधानम् पुरुषम्"
 
 +++
-
-धर्म-प्रधानं पुरुषं  
-तपसा हत-किल्बिषम् ।  
-परलोकं नयत्य् आशु  
-भास्वन्तं ख-शरीरिणम्  ॥ ४.२४३ ॥ [२४४ मेधातिथिपाठे]  
+243	(That companion) speedily conducts the man who is devoted to duty and effaces his sins by austerities, to the next world, radiant and clothed with an ethereal body.

@@ -2,7 +2,4 @@
 title = "186 वेदार्थ-वित् प्रवक्ता"
 
 +++
-वेदार्थ-वित् प्रवक्ता च  
-ब्रह्मचारी सहस्रदः ।  
-शतायुश् चैव विज्ञेया  
-ब्राह्मणाः पङ्क्तिपावनाः  ॥ ३.१८६ ॥ [१७६ मेधातिथिपाठे]+++(5)+++
+186	One who knows the meaning of the Veda, and he who expounds it, a student, one who has given a thousand (cows), and a centenarian must be considered as Brahmanas who sanctify a company.

@@ -2,8 +2,4 @@
 title = "051 समाहृत्य तु"
 
 +++
-
-समाहृत्य तु तद् भैक्षं  
-यावदन्नम् अमायया [मेधातिथिपाठः - यावदर्थम्] ।  
-निवेद्य गुरवे ऽश्नीयाद्  
-आचम्य प्राङ्मुखः शुचिः  ॥ २.५१ ॥
+051	Having collected as much food as is required (from several persons), and having announced it without guile to his teacher, let him eat, turning his face towards the east, and having purified himself by sipping water.

@@ -2,7 +2,4 @@
 title = "085 अग्नेः सोमस्य"
 
 +++
-अग्नेः सोमस्य चैवादौ  
-तयोश् चैव समस्तयोः ।  
-विश्वेभ्यश् चैव देवेभ्यो  
-धन्वन्तरय एव च  ॥ ३.८५ ॥ [७५ मेधातिथिपाठे]
+085	First to Agni, and (next) to Soma, then to both these gods conjointly, further to all the gods (Visve Devah), and (then) to Dhanvantari,

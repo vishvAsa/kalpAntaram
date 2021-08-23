@@ -2,8 +2,4 @@
 title = "136 एतत् त्रयम्"
 
 +++
-
-एतत् त्रयं हि पुरुषं  
-निर्दहेद् अवमानितम् ।  
-तस्माद् एतत् त्रयं नित्यं  
-नाऽवमन्येत बुद्धिमान्  ॥ ४.१३६ ॥  
+136	Because these three, when treated with disrespect, may utterly destroy him; hence a wise man must never despise them.

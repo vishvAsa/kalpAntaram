@@ -2,7 +2,4 @@
 title = "386 यस्य स्तेनः"
 
 +++
-यस्य स्तेनः पुरे नाऽस्ति  
-नाऽन्यस्त्रीगो न दुष्ट-वाक् ।  
-न साहसिक-दण्डघ्नो  
-स राजा शक्रलोकभाक्  ॥ ८.३८६ ॥
+386	That king in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults, attains the world of Sakra (Indra).

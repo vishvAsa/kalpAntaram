@@ -2,7 +2,4 @@
 title = "290 यानस्य चैव"
 
 +++
-यानस्य चैव यातुश् च  
-यानस्वामिन एव च ।  
-दशातिवर्तनान्य् आहुः  
-शेषे दण्डो विधीयते  ॥ ८.२९० ॥
+290	They declare with respect to a carriage, its driver and its owner, (that there are) ten cases in which no punishment (for damage done) can be inflicted; in other cases a fine is prescribed.

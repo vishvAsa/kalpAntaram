@@ -2,7 +2,4 @@
 title = "065 नोद्वाहिकेषु मन्त्रेषु"
 
 +++
-नोद्वाहिकेषु मन्त्रेषु  
-नियोगः कीर्त्यते क्व चित् ।  
-न विवाहविधाव् उक्तं  
-विधवावेदनं पुनः  ॥ ९.६५ ॥
+065	In the sacred texts which refer to marriage the appointment (of widows) is nowhere mentioned, nor is the re-marriage of widows prescribed in the rules concerning marriage.

@@ -2,7 +2,4 @@
 title = "072 स्त्रीणाम् असंस्कृतानाम्"
 
 +++
-स्त्रीणाम् असंस्कृतानां तु  
-त्र्यहाच् छुध्यन्ति बान्धवाः ।  
-यथोक्तेनैव कल्पेन  
-शुध्यन्ति तु स-नाभयः  ॥ ५.७२ ॥ [७१ मेधातिथिपाठे]
+072	(On the death) of females (betrothed but) not married (the bridegroom and his) relatives are purified after three days, and the paternal relatives become pure according to the same rule.

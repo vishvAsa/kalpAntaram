@@ -2,7 +2,4 @@
 title = "147 यत् किम्"
 
 +++
-यत् किं चिद् दशवर्षाणि  
-संनिधौ प्रेक्षते धनी ।  
-भुज्यमानं परैस् तूष्णीं  
-न स तल् लब्धुम् अर्हति  ॥ ८.१४७ ॥
+147	(But in general) whatever (chattel) an owner sees enjoyed by others during ten years, while, though present, he says nothing, that (chattel) he shall not recover.

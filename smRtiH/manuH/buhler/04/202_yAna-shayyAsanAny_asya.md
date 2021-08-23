@@ -2,8 +2,4 @@
 title = "202 यान-शय्यासनान्य् अस्य"
 
 +++
-
-यान-शय्यासनान्य् अस्य  
-कूपोद्यान-गृहाणि च ।  
-अदत्तान्य् उपयुञ्जान  
-एनसः स्यात् तुरीय-भाक्  ॥ ४.२०२ ॥ [२०३ मेधातिथिपाठे]  
+202	He who uses without permission a carriage, a bed, a seat, a well, a garden or a house belonging to an (other man), takes upon himself one fourth of (the owner's) guilt.

@@ -2,8 +2,4 @@
 title = "084 सर्वेषाम् अपि"
 
 +++
-
-सर्वेषाम् अपि चैतेषां  
-शुभानाम् इह कर्मणाम् ।  
-किं चिच् छ्रेयस्करतरं  
-कर्मोक्तं पुरुषं प्रति  ॥ १२.८४ ॥
+084	(If you ask) whether among all these virtuous actions, (performed) here below, (there be) one which has been declared more efficacious (than the rest) for securing supreme happiness to man,

@@ -2,8 +2,4 @@
 title = "030 नामधेयन् दशम्याम्"
 
 +++
-
-नामधेयं दशम्यां तु  
-द्वादश्यां वास्य कारयेत् ।  
-पुण्ये तिथौ मुहूर्ते वा  
-नक्षत्रे वा गुणान्विते  ॥ २.३० ॥
+030	But let (the father perform or) cause to be performed the Namadheya (the rite of naming the child), on the tenth or twelfth (day after birth), or on a lucky lunar day, in a lucky muhurta, under an auspicious constellation.

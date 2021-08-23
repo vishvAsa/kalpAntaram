@@ -2,7 +2,4 @@
 title = "263 न हि"
 
 +++
-न हि दण्डाद् ऋते शक्यः  
-कर्तुं पाप-विनिग्रहः ।  
-स्तेनानां पापबुद्धीनां  
-निभृतं चरतां क्षितौ  ॥ ९.२६३ ॥
+263	For the wickedness of evil-minded thieves, who secretly prowl over this earth, cannot be restrained except by punishment.

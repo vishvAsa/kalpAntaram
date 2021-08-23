@@ -2,7 +2,4 @@
 title = "018 ब्राह्मणस्वन् न"
 
 +++
-ब्राह्मणस्वं न हर्तव्यं  
-क्षत्रियेण कदा चन ।  
-दस्यु-निष्क्रिययोस् तु स्वम्  
-अजीवन् हर्तुम् अर्हति  ॥ ११.१८ ॥ [१७ मेधातिथिपाठे]
+018	(On such occasions) a Kshatriya must never take the property of a (virtuous Brahmana; but he who is starving may appropriate the possessions of a Dasyu, or of one who neglects his sacred duties.

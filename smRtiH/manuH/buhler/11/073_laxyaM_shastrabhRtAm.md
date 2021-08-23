@@ -2,7 +2,4 @@
 title = "073 लक्ष्यं शस्त्रभृताम्"
 
 +++
-लक्ष्यं शस्त्रभृतां वा स्याद्  
-विदुषाम् इच्छयात्मनः ।  
-प्रास्येद् आत्मानम् अग्नौ वा  
-समिद्धे त्रिर् अवाक्-शिराः  ॥ ११.७३ ॥ [७२ मेधातिथिपाठे]
+074	Or let him, of his own free will, become (in a battle) the target of archers who know (his purpose); or he may thrice throw himself headlong into a blazing fire;

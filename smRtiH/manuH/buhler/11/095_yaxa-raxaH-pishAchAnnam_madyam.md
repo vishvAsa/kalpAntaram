@@ -2,7 +2,4 @@
 title = "095 यक्ष-रक्षः-पिशाचान्नम् मद्यम्"
 
 +++
-यक्ष-रक्षः-पिशाचान्नं  
-मद्यं मांसं सुरासवम् ।  
-तद् ब्राह्मणेन नाऽत्तव्यं  
-देवानाम् अश्नता हविः  ॥ ११.९५ ॥ [९४ मेधातिथिपाठे]
+096	Sura, (all other) intoxicating drinks and decoctions and flesh are the food of the Yakshas, Rakshasas, and Pisakas; a Brahmana who eats (the remnants of) the offerings consecrated to the gods, must not partake of such (substances).

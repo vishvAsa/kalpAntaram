@@ -2,7 +2,4 @@
 title = "032 प्रसाधनोपचारज्ञम् अदासम्"
 
 +++
-प्रसाधनोपचारज्ञम्  
-अदासं दासजीवनम् [मेधातिथिपाठः - दास्यजीविनम्] ।  
-सैरिन्ध्रं वागुरा-वृत्तिं  
-सूते दस्युर् अयोगवे [मेधातिथिपाठः - सैरन्ध्रं]  ॥ १०.३२ ॥
+032	A Dasyu begets on an Ayogava (woman) a Sairandhra, who is skilled in adorning and attending (his master), who, (though) not a slave, lives like a slave, (or) subsists by snaring (animals).

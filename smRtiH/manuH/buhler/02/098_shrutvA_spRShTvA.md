@@ -2,8 +2,4 @@
 title = "098 श्रुत्वा स्पृष्ट्वा"
 
 +++
-
-श्रुत्वा स्पृष्ट्वा च दृष्ट्वा च  
-भुक्त्वा घ्रात्वा च यो नरः ।  
-न हृष्यति ग्लायति वा  
-स विज्ञेयो जितेन्द्रियः  ॥ २.९८ ॥
+098	That man may be considered to have (really) subdued his organs, who on hearing and touching and seeing, on tasting and smelling (anything) neither rejoices nor repines.

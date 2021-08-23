@@ -2,7 +2,4 @@
 title = "003 प्रत्यहन् देशदृष्टैश्"
 
 +++
-प्रत्यहं देशदृष्टैश् च  
-शास्त्रदृष्टैश् च हेतुभिः ।  
-अष्टादशसु मार्गेषु  
-निबद्धानि पृथक् पृथक्  ॥ ८.३ ॥
+003	Daily (deciding) one after another (all cases) which fall under the eighteen titles (of the law) according to principles drawn from local usages. and from the Institutes of the sacred law.

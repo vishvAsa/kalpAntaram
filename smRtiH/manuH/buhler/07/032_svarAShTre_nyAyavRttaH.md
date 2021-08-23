@@ -2,7 +2,4 @@
 title = "032 स्वराष्ट्रे न्यायवृत्तः"
 
 +++
-स्वराष्ट्रे न्यायवृत्तः स्याद्  
-भृश-दण्डश् च शत्रुषु ।  
-सुहृत्स्व् अजिह्मः स्निग्धेषु  
-ब्राह्मणेषु क्षमान्वितः  ॥ ७.३२ ॥
+032	Let him act with justice in his own domain, with rigour chastise his enemies, behave without duplicity towards his friends, and be lenient towards Brahmanas.

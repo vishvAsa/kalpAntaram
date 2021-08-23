@@ -2,7 +2,4 @@
 title = "201 ऋषिभ्यः पितरो"
 
 +++
-ऋषिभ्यः पितरो जाताः  
-पितृभ्यो देव-मानवाः ।  
-देवेभ्यस् तु जगत् सर्वं  
-चरं स्थाण्व् अनुपूर्वशः  ॥ ३.२०१ ॥ [१९१ मेधातिथिपाठे]+++(5)+++
+201	From the sages sprang the manes, from the manes the gods and the Danavas, but from the gods the whole world, both the movable and the immovable in due order.

@@ -2,7 +2,4 @@
 title = "170 अनादेयन् नाददीत"
 
 +++
-अनादेयं नाददीत  
-परिक्षीणो ऽपि पार्थिवः ।  
-न चादेयं समृद्धो ऽपि  
-सूक्ष्मम् अप्य् अर्थम् उत्सृजेत्  ॥ ८.१७० ॥
+170	No king, however indigent, shall take anything that ought not to be taken, nor shall he, however wealthy, decline taking that which he ought to take, be it ever so small.

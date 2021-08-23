@@ -2,7 +2,4 @@
 title = "169 अपाङ्क्तदाने यो"
 
 +++
-अपाङ्क्तदाने यो दातुर्  
-भवत्य् ऊर्ध्वं फलोदयः [मेधातिथिपाठः - अपङ्क्त्यदाने] ।  
-दैवे हविषि पित्र्ये वा  
-तं प्रवक्ष्याम्य् अशेषतः [मेधातिथिपाठः - दैवे कर्मणि]  ॥ ३.१६९ ॥ [१५९ मेधातिथिपाठे]
+169	I will fully declare what result the giver obtains after death, if he gives food, destined for the gods or manes, to a man who is unworthy to sit in the company.

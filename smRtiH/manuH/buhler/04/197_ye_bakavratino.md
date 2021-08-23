@@ -2,8 +2,4 @@
 title = "197 ये बकव्रतिनो"
 
 +++
-
-ये बकव्रतिनो विप्रा  
-ये च मार्जारलिङ्गिनः ।  
-ते पतन्त्य् अन्धतामिस्रे  
-तेन पापेन कर्मणा  ॥ ४.१९७ ॥ [१९८ मेधातिथिपाठे]  
+197	Those Brahmanas who act like herons, and those who display the characteristics of cats, fall in consequence of that wicked mode of acting into (the hell called) Andhatamisra.

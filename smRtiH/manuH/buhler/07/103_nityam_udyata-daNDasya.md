@@ -2,7 +2,4 @@
 title = "103 नित्यम् उद्यत-दण्डस्य"
 
 +++
-नित्यम् उद्यत-दण्डस्य  
-कृत्स्नम् उद्विजते जगत् ।  
-तस्मात् सर्वाणि भूतानि  
-दण्डेनैव प्रसाधयेत्  ॥ ७.१०३ ॥ [१०४ मेधातिथिपाठे]
+103	Of him who is always ready to strike, the whole world stands in awe; let him therefore make all creatures subject to himself even by the employment of force.

@@ -2,7 +2,4 @@
 title = "010 ऋक्षेष्ट्य्-आग्रयणञ् चैव"
 
 +++
-ऋक्षेष्ट्य्-आग्रयणं चैव  
-चातुर्मास्यानि चाहरेत् [मेधातिथिपाठः - दर्शेष्ट्य्-आग्रयणं] ।  
-तुरायणं च क्रमशो  
-दक्षस्यायनम् एव च [क्मेधातिथिपाठः - दाक्षस्यायनम्]  ॥ ६.१० ॥
+010	Let him also offer the Nakshatreshti, the Agrayana, and the Katurmasya (sacrifices), as well as the Turayana and likewise the Dakshayana, in due order.

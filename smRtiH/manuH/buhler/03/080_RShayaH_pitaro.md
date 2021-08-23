@@ -2,7 +2,4 @@
 title = "080 ऋषयः पितरो"
 
 +++
-ऋषयः पितरो देवा  
-भूतान्य् अतिथयस् तथा ।  
-आशासते कुटुम्बिभ्यस्  
-तेभ्यः कार्यं विजानता  ॥ ३.८० ॥ [७० मेधातिथिपाठे]
+080	The sages, the manes, the gods, the Bhutas, and guests ask the householders (for offerings and gifts); hence he who knows (the law), must give to them (what is due to each).

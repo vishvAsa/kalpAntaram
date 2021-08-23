@@ -2,7 +2,4 @@
 title = "052 वासांसि मृतचैलानि"
 
 +++
-वासांसि मृतचैलानि  
-भिन्नभाण्डेषु भोजनम् ।  
-कार्ष्णायसम् अलङ्कारः  
-परिव्रज्या च नित्यशः  ॥ १०.५२ ॥
+052	Their dress (shall be) the garments of the dead, (they shall eat) their food from broken dishes, black iron (shall be) their ornaments, and they must always wander from place to place.

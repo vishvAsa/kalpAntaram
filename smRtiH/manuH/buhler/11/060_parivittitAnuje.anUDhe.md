@@ -2,7 +2,4 @@
 title = "060 परिवित्तितानुजे ऽनूढे"
 
 +++
-परिवित्तितानुजे ऽनूढे  
-परिवेदनम् एव च ।  
-तयोर् दानं च कन्यायास्  
-तयोर् एव च याजनम्  ॥ ११.६० ॥ [५९ मेधातिथिपाठे]
+061	Allowing one's younger brother to marry first, marrying before one's elder brother, giving a daughter to, or sacrificing for, (either brother),

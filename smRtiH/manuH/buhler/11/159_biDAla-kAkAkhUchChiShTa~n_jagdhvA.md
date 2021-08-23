@@ -2,7 +2,4 @@
 title = "159 बिडाल-काकाखूच्छिष्टञ् जग्ध्वा"
 
 +++
-बिडाल-काकाखूच्छिष्टं  
-जग्ध्वा श्व-नकुलस्य च ।  
-केश-कीटावपन्नं च  
-पिबेद् ब्रह्मसुवर्चलाम्  ॥ ११.१५९ ॥ [१५८ मेधातिथिपाठे]
+160	He who eats what is left by a cat, by a crow, by a mouse (or rat), by a dog, or by an ichneumon, or (food) into which a hair or an insect has fallen, shall drink (a decoction of) the Brahmasuvarkala (plant).

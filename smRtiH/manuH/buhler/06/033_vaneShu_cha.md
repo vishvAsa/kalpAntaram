@@ -2,7 +2,4 @@
 title = "033 वनेषु च"
 
 +++
-वनेषु च विहृत्यैवं  
-तृतीयं भागम् आयुषः ।  
-चतुर्थम् आयुषो भागं  
-त्यक्वा सङ्गान् परिव्रजेत्  ॥ ६.३३ ॥
+033	But having thus passed the third part of (a man's natural term of) life in the forest, he may live as an ascetic during the fourth part of his existence, after abandoning all attachment to worldly objects.

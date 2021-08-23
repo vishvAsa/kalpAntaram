@@ -2,7 +2,4 @@
 title = "168 माता पिता"
 
 +++
-माता पिता वा दद्यातां  
-यम् अद्भिः पुत्रम् आपदि ।  
-सदृशं प्रीतिसंयुक्तं  
-स ज्ञेयो दत्त्रिमः सुतः  ॥ ९.१६८ ॥
+168	That (boy) equal (by caste) whom his mother or his father affectionately give, (confirming the gift) with (a libation of) water, in times of distress (to a man) as his son, must be considered as an adopted son (Datrima).

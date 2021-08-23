@@ -2,8 +2,4 @@
 title = "025 तपो वाचम्"
 
 +++
-
-तपो वाचं रतिं चैव  
-कामं च क्रोधम् एव च ।  
-सृष्टिं ससर्ज चैवेमां  
-स्रष्टुम् इच्छन्न् इमाः प्रजाः  ॥ १.२५ ॥
+025	Austerity, speech, pleasure, desire, and anger, this whole creation he likewise produced, as he desired to call these beings into existence.

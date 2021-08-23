@@ -2,8 +2,4 @@
 title = "033 लोभः स्वप्नो"
 
 +++
-
-लोभः स्वप्नो ऽधृतिः क्रौर्यं  
-नास्तिक्यं भिन्नवृत्तिता ।  
-याचिष्णुता प्रमादश् च  
-तामसं गुणलक्षणम्  ॥ १२.३३ ॥
+033	Covetousness, sleepiness, pusillanimity, cruelty, atheism, leading an evil life, a habit of soliciting favours, and inattentiveness, are the marks of the quality of Darkness.

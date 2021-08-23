@@ -2,7 +2,4 @@
 title = "038 भूमाव् अप्य्"
 
 +++
-भूमाव् अप्य् एककेदारे  
-कालोप्तानि कृषीवलैः ।  
-नानारूपाणि जायन्ते  
-बीजानीह स्वभावतः  ॥ ९.३८ ॥
+038	In this world seeds of different kinds, sown at the proper time in the land, even in one field, come forth (each) according to its kind.

@@ -2,7 +2,4 @@
 title = "153 दूतसम्प्रेषणञ् चैव"
 
 +++
-दूतसम्प्रेषणं चैव  
-कार्यशेषं तथैव च ।  
-अन्तःपुरप्रचारं च  
-प्रणिधीनां च चेष्टितम्  ॥ ७.१५३ ॥ [१५४ मेधातिथिपाठे]
+153	On sending ambassadors, on the completion of undertakings (already begun), on the behaviour of (the women in) his harem, and on the doings of his spies.

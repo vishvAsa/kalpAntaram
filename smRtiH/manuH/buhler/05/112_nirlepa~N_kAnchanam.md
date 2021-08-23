@@ -2,7 +2,4 @@
 title = "112 निर्लेपङ् काञ्चनम्"
 
 +++
-निर्लेपं काञ्चनं भाण्डम्  
-अद्भिर् एव विशुध्यति [मेधातिथिपाठः - विशुद्ध्यति] ।  
-अब्-जम् अश्ममयं चैव  
-राजतं चाऽनुपस्कृतम्  ॥ ५.११२ ॥ [१११ मेधातिथिपाठे]
+112	A golden vessel which shows no stains, becomes pure with water alone, likewise what is produced in water (as shells and coral), what is made of stone, and a silver (vessel) not enchased.

@@ -2,7 +2,4 @@
 title = "127 त्रीणि देवाः"
 
 +++
-त्रीणि देवाः पवित्राणि  
-ब्राह्मणानाम् अकल्पयन् ।  
-अदृष्टम् अद्भिर् निर्णिक्तं  
-यच् च वाचा प्रशस्यते  ॥ ५.१२७ ॥ [१२५ मेधातिथिपाठे]
+127	The gods declared three things (to be) pure to Brahmanas, that (on which) no (taint is) visible, what has been washed with water, and what has been commended (as pure) by the word (of a Brahmana).

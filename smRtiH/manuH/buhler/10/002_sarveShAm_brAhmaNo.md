@@ -2,7 +2,4 @@
 title = "002 सर्वेषाम् ब्राह्मणो"
 
 +++
-सर्वेषां ब्राह्मणो विद्याद्  
-वृत्त्युपायान् यथाविधि ।  
-प्रब्रूयाद् इतरेभ्यश् च  
-स्वयं चैव तथा भवेत्  ॥ १०.२ ॥
+002	The Brahmana must know the means of subsistence (prescribed) by law for all, instruct the others, and himself live according to (the law)

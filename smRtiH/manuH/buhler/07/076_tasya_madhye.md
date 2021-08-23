@@ -2,7 +2,4 @@
 title = "076 तस्य मध्ये"
 
 +++
-तस्य मध्ये सुपर्याप्तं  
-कारयेद् गृहम् आत्मनः ।  
-गुप्तं सर्वर्तुकं शुभ्रं  
-जल-वृक्षसमन्वितम्  ॥ ७.७६ ॥
+076	Let him cause to be built for himself, in the centre of it, a spacious palace, (well) protected, habitable in every season, resplendent (with whitewash), supplied with water and trees.

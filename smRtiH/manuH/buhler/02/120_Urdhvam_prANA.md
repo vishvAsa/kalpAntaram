@@ -2,8 +2,4 @@
 title = "120 ऊर्ध्वम् प्राणा"
 
 +++
-
-ऊर्ध्वं प्राणा ह्य् उत्क्रामन्ति  
-यूनः स्थविर आयति ।  
-प्रत्युत्थानाभिवादाभ्यां  
-पुनस् तान् प्रतिपद्यते  ॥ २.१२० ॥
+120	For the vital airs of a young man mount upwards to leave his body when an elder approaches; but by rising to meet him and saluting he recovers them.

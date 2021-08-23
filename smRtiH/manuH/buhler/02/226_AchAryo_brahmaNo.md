@@ -2,8 +2,4 @@
 title = "226 आचार्यो ब्रह्मणो"
 
 +++
-
-आचार्यो ब्रह्मणो मूर्तिः  
-पिता मूर्तिः प्रजापतेः ।  
-माता पृथिव्या मूर्तिस् तु  
-भ्राता स्वो मूर्तिर् आत्मनः  ॥ २.२२६ ॥
+226	The teacher is the image of Brahman, the father the image of Pragipati (the lord of created beings), the mother the image of the earth, and an (elder) full brother the image of oneself.

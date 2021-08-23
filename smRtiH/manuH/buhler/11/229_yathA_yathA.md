@@ -2,7 +2,4 @@
 title = "229 यथा यथा"
 
 +++
-यथा यथा मनस् तस्य  
-दुष्कृतं कर्म गर्हति ।  
-तथा तथा शरीरं तत्  
-तेनाऽधर्मेण मुच्यते  ॥ ११.२२९ ॥ [२२८ मेधातिथिपाठे]
+230	In proportion as his heart loathes his evil deed, even so far is his body freed from that guilt.

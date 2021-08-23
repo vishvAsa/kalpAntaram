@@ -2,8 +2,4 @@
 title = "072 मैत्राक्षज्योतिकः प्रेतो"
 
 +++
-
-मैत्राक्षज्योतिकः प्रेतो  
-वैश्यो भवति पूयभुक् [मेधातिथिपाठः - मैत्राक्षिज्योतिकः] ।  
-चैलाशकश् च भवति  
-शूद्रो धर्मात् स्वकाच् च्युतः  ॥ १२.७२ ॥
+072	A Vaisya who has fallen off from his duty becomes a Maitrakshagyotika Preta, who feeds on pus; and a Sudra, a Kailasaka (Preta, who feeds on moths).

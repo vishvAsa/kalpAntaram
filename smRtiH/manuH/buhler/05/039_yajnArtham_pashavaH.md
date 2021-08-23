@@ -2,7 +2,4 @@
 title = "039 यज्ञार्थम् पशवः"
 
 +++
-यज्ञार्थं पशवः सृष्टाः  
-स्वयम् एव स्वयम्भुवा ।  
-यज्ञो ऽस्य भूत्यै सर्वस्य  
-तस्माद् यज्ञे वधो ऽवधः  ॥ ५.३९ ॥
+039	Svayambhu (the Self-existent) himself created animals for the sake of sacrifices; sacrifices (have been instituted) for the good of this whole (world); hence the slaughtering (of beasts) for sacrifices is not slaughtering (in the ordinary sense of the word).

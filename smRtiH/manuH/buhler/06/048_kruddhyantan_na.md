@@ -2,7 +2,4 @@
 title = "048 क्रुद्ध्यन्तन् न"
 
 +++
-क्रुद्ध्यन्तं न प्रतिक्रुध्येद्  
-आक्रुष्टः कुशलं वदेत् ।  
-सप्तद्वारावकीर्णां च  
-न वाचम् अनृतां वदेत्  ॥ ६.४८ ॥
+048	Against an angry man let him not in return show anger, let him bless when he is cursed, and let him not utter speech, devoid of truth, scattered at the seven gates.

@@ -2,8 +2,4 @@
 title = "095 यश् चैतान्"
 
 +++
-
-यश् चैतान् प्राप्नुयात् सर्वान्  
-यश् चैतान् केवलांस् त्यजेत् ।  
-प्रापणात् सर्वकामानां  
-परित्यागो विशिष्यते  ॥ २.९५ ॥
+095	If one man should obtain all those (sensual enjoyments) and another should renounce them all, the renunciation of all pleasure is far better than the attainment of them.

@@ -2,7 +2,4 @@
 title = "268 द्वौ मासौ"
 
 +++
-द्वौ मासौ मत्स्यमांसेन  
-त्रीन् मासान् हारिणेन तु ।  
-औरभ्रेणाऽथ चतुरः  
-शाकुनेनाऽथ पञ्च वै  ॥ ३.२६८ ॥ [२५८ मेधातिथिपाठे]
+268	Two months with fish, three months with the meat of gazelles, four with mutton, and five indeed with the flesh of birds,

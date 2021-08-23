@@ -2,7 +2,4 @@
 title = "226 एतद्विधानम् आतिष्ठेद्"
 
 +++
-एतद्विधानम् आतिष्ठेद्  
-अरोगः पृथिवीपतिः ।  
-अस्वस्थः सर्वम् एतत् तु  
-भृत्येषु विनियोजयेत्  ॥ ७.२२६ ॥ [२३० मेधातिथिपाठे]
+226	A king who is in good health must observe these rules; but, if he is indisposed, he may entrust all this (business) to his servants.

@@ -2,7 +2,4 @@
 title = "146 सम्प्रीत्या भुज्यमानानि"
 
 +++
-संप्रीत्या भुज्यमानानि  
-न नश्यन्ति कदा चन ।  
-धेनुर् उष्ट्रो वहन्न् अश्वो  
-यश् च दम्यः प्रयुज्यते  ॥ ८.१४६ ॥
+146	Things used with friendly assent, a cow, a camel, a riding-horse, and (a beast) made over for breaking in, are never lost (to the owner).

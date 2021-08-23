@@ -2,7 +2,4 @@
 title = "262 पति-व्रता धर्मपत्नी"
 
 +++
-पति-व्रता धर्मपत्नी  
-पितृपूजन-तत्परा ।  
-मध्यमं तु ततः पिण्डम्  
-अद्यात् सम्यक् सुतार्थिनी  ॥ ३.२६२ ॥ [२५२ मेधातिथिपाठे]
+262	The (sacrificer's) first wife, who is faithful and intent on the worship of the manes, may eat the middle-most cake, (if she be) desirous of bearing a son.

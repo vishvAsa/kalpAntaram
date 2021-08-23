@@ -2,8 +2,4 @@
 title = "073 यथा यथा"
 
 +++
-
-यथा यथा निषेवन्ते  
-विषयान् विषयात्मकाः ।  
-तथा तथा कुशलता  
-तेषां तेषूपजायते  ॥ १२.७३ ॥
+073	In proportion as sensual men indulge in sensual pleasures, in that same proportion their taste for them grows.

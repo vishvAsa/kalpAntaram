@@ -2,7 +2,4 @@
 title = "354 परस्य पत्न्या"
 
 +++
-परस्य पत्न्या पुरुषः  
-संभाषां योजयन् रहः ।  
-पूर्वम् आक्षारितो दोषैः  
-प्राप्नुयात् पूर्वसाहसम्  ॥ ८.३५४ ॥
+354	A man formerly accused of (such) offences, who secretly converses with another man's wife, shall pay the first (or lowest) amercement.

@@ -2,7 +2,4 @@
 title = "126 तुरीयो ब्रह्महत्यायाः"
 
 +++
-तुरीयो ब्रह्महत्यायाः  
-क्षत्रियस्य वधे स्मृतः ।  
-वैश्ये ऽष्टमांशो वृत्तस्थे  
-शूद्रे ज्ञेयस् तु षोडशः  ॥ ११.१२६ ॥ [१२५ मेधातिथिपाठे]
+127	One fourth (of the penance) for the murder of a Brahmana is prescribed (as expiation) for (intentionally) killing a Kshatriya, one-eighth for killing a Vaisya; know that it is one-sixteenth for killing a virtuous Sudra.

@@ -2,7 +2,4 @@
 title = "301 कृतन् त्रेतायुगम्"
 
 +++
-कृतं त्रेतायुगं चैव  
-द्वापरं कलिर् एव च ।  
-राज्ञो वृत्तानि सर्वाणि  
-राजा हि युगम् उच्यते  ॥ ९.३०१ ॥
+301	The various ways in which a king behaves (resemble) the Krita, Treta, Dvapara, and Kali ages; hence the king is identified with the ages (of the world).

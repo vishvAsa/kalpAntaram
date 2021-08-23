@@ -2,7 +2,4 @@
 title = "250 अश्मनो ऽस्थीनि"
 
 +++
-अश्मनो ऽस्थीनि गोवालांस्  
-तुषान् भस्म कपालिकाः ।  
-करीषम् इष्टकाङ्गारांश्  
-शर्करा वालुकास् तथा  ॥ ८.२५०॥ [म्२४८]
+250	Stones, bones, cow's hair, chaff, ashes, potsherds, dry cowdung, bricks, cinders, pebbles, and sand,

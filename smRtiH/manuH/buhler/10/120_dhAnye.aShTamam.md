@@ -2,7 +2,4 @@
 title = "120 धान्ये ऽष्टमम्"
 
 +++
-धान्ये ऽष्टमं विशां शुल्कं  
-विंशं कार्षापणावरम् ।  
-कर्मोपकरणाः शूद्राः  
-कारवः शिल्पिनस् तथा  ॥ १०.१२० ॥
+120	(Viz.) from Vaisyas one-eighth as the tax on grain, one-twentieth (on the profits on gold and cattle), which amount at least to one Karshapana; Sudras, artisans, and mechanics (shall) benefit (the king) by (doing) work (for him).

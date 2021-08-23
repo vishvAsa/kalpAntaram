@@ -2,7 +2,4 @@
 title = "111 तिष्ठन्तीष्व् अनुतिष्ठेत्"
 
 +++
-तिष्ठन्तीष्व् अनुतिष्ठेत् तु  
-व्रजन्तीष्व् अप्य् अनुव्रजेत् ।  
-आसीनासु तथासीनो  
-नियतो वीत-मत्सरः  ॥ ११.१११ ॥ [११० मेधातिथिपाठे]
+112	Controlling himself and free from anger, he must stand when they stand, follow them when they walk, and seat himself when they lie down.

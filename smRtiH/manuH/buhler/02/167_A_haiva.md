@@ -2,8 +2,4 @@
 title = "167 आ हैव"
 
 +++
-
-आ हैव स नखाग्रेभ्यः  
-परमं तप्यते तपः ।  
-यः स्रग्व्य् अपि द्विजो ऽधीते  
-स्वाध्यायं शक्तितो ऽन्वहम्  ॥ २.१६७ ॥
+167	Verily, that twice-born man performs the highest austerity up to the extremities of his nails, who, though wearing a garland, daily recites the Veda in private to the utmost of his ability.

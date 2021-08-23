@@ -2,7 +2,4 @@
 title = "172 एतास् तिस्रस्"
 
 +++
-एतास् तिस्रस् तु भार्यार्थे  
-नोपयच्छेत् तु बुद्धिमान् ।  
-ज्ञातित्वेनाऽनुपेयास् ताः  
-पतति ह्य् उपयन्न् अधः  ॥ ११.१७२ ॥ [१७१ मेधातिथिपाठे]
+173	A wise man should not take as his wife any of these three; they must not be wedded because they are (Sapinda-) relatives, he who marries (one of them), sinks low.

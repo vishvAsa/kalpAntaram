@@ -2,8 +2,4 @@
 title = "245 न पूर्वम्"
 
 +++
-
-न पूर्वं गुरवे किं चिद्  
-उपकुर्वीत धर्मवित् ।  
-स्नास्यंस् तु गुरुणाज्ञप्तः  
-शक्त्या गुर्व्-अर्थम् आहरेत्  ॥ २.२४५ ॥
+245	He who knows the sacred law must not present any gift to his teacher before (the Samavartana); but when, with the permission of his teacher, he is about to take the (final) bath, let him procure (a present) for the venerable man according to his ability,

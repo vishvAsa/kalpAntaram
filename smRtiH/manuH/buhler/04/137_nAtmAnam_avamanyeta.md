@@ -2,8 +2,4 @@
 title = "137 नात्मानम् अवमन्येत"
 
 +++
-
-नात्मानम् अवमन्येत  
-पुर्वाभिर् असमृद्धिभिः ।  
-आ मृत्योः श्रियम् अन्विच्छेन्  
-नैनां मन्येत दुर्-लभाम्  ॥ ४.१३७ ॥+++(5)+++  
+137	Let him not despise himself on account of former failures; until death let him seek fortune, nor despair of gaining it.

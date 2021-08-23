@@ -2,7 +2,4 @@
 title = "314 यैः कृतः"
 
 +++
-यैः कृतः सर्वभक्ष्यो ऽग्निर्  
-अपेयश् च महोदधिः [मेधातिथिपाठः - सर्वभक्षो] ।  
-क्षयी चाप्यायितः सोमः  
-को न नश्येत् प्रकोप्य तान्  ॥ ९.३१४ ॥
+314	Who could escape destruction, when he provokes to anger those (men), by whom the fire was made to consume all things, by whom the (water of the) ocean was made undrinkable, and by whom the moon was made to wane and to increase again?

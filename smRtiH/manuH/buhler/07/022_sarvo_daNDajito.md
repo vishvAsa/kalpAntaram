@@ -2,7 +2,4 @@
 title = "022 सर्वो दण्डजितो"
 
 +++
-सर्वो दण्डजितो लोको  
-दुर्लभो हि शुचिर् नरः ।  
-दण्डस्य हि भयात् सर्वं  
-जगद् भोगाय कल्पते  ॥ ७.२२ ॥
+022	The whole world is kept in order by punishment, for a guiltless man is hard to find; through fear of punishment the whole world yields the enjoyments (which it owes).

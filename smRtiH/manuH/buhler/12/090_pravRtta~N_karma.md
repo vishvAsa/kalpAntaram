@@ -2,8 +2,4 @@
 title = "090 प्रवृत्तङ् कर्म"
 
 +++
-
-प्रवृत्तं कर्म संसेव्यं  
-देवानाम् एति साम्यताम् ।  
-निवृत्तं सेवमानस् तु  
-भूतान्य् अत्येति पञ्च वै  ॥ १२.९० ॥
+090	He who sedulously performs acts leading to future births (pravritta) becomes equal to the gods; but he who is intent on the performance of those causing the cessation (of existence, nivritta) indeed, passes beyond (the reach of) the five elements.

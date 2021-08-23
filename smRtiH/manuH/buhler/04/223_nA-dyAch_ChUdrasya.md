@@ -2,8 +2,4 @@
 title = "223 नाऽद्याच् छूद्रस्य"
 
 +++
-
-नाऽद्याच् छूद्रस्य पक्वान्नं  
-विद्वान् अश्राद्धिनो द्विजः ।  
-आददीतामम् एवाऽस्माद्  
-+++(आपद्य्)+++ अवृत्ताव् एकरात्रिकम् +++(आमम्)+++ ॥ ४.२२३ ॥ [२२४ मेधातिथिपाठे]+++(4)+++  
+223	A Brahmana who knows (the law) must not eat cooked food (given) by a Sudra who performs no Sraddhas; but, on failure of (other) means of subsistence, he may accept raw (grain), sufficient for one night (and day).

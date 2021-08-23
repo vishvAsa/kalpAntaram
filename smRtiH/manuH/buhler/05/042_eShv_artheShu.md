@@ -2,7 +2,4 @@
 title = "042 एष्व् अर्थेषु"
 
 +++
-एष्व् अर्थेषु पशून् हिंसन्  
-वेद-तत्त्वार्थ-विद् द्विजः ।  
-आत्मानं च पशुं चैव  
-गमयत्य् उत्तमं गतिम्  ॥ ५.४२ ॥
+042	A twice-born man who, knowing the true meaning of the Veda, slays an animal for these purposes, causes both himself and the animal to enter a most blessed state.

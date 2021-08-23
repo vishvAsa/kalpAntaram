@@ -2,8 +2,4 @@
 title = "191 चोदितो गुरुणा"
 
 +++
-
-चोदितो गुरुणा नित्यम्  
-अप्रचोदित एव वा ।  
-कुर्याद् अध्ययने यत्नम्  
-आचार्यस्य हितेषु च [मेधातिथिपाठः - अध्ययने योगम्]  ॥ २.१९१ ॥
+191	Both when ordered by his teacher, and without a (special) command, (a student) shall always exert himself in studying (the Veda), and in doing what is serviceable to his teacher.

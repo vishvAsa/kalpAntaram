@@ -2,7 +2,4 @@
 title = "222 पितामहो वा"
 
 +++
-पितामहो वा तच्-छ्राद्धं  
-भुञ्जीतेत्य् अब्रवीन् मनुः ।  
-कामं वा समनुज्ञातः  
-स्वयम् एव समाचरेत्  ॥ ३.२२२ ॥ [२१२ मेधातिथिपाठे]
+222	Manu has declared that either the grandfather may eat at that Sraddha (as a guest), or (the grandson) having received permission, may perform it, as he desires.

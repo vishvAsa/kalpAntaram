@@ -2,7 +2,4 @@
 title = "237 गुरुतल्पे भगः"
 
 +++
-गुरुतल्पे भगः कार्यः  
-सुरापाने सुराध्वजः ।  
-स्तेये च श्वपदं कार्यं  
-ब्रह्महण्य् अशिराः पुमान् [मेधातिथिपाठः - तस्करे श्वपदं कार्यं]  ॥ ९.२३७ ॥
+237	For violating a Guru's bed, (the mark of) a female part shall be (impressed on the forehead with a hot iron); for drinking (the spirituous liquor called) Sura, the sign of a tavern; for stealing (the gold of a Brahmana), a dog's foot; for murdering a Brahmana, a headless corpse.

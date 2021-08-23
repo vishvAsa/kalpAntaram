@@ -2,8 +2,4 @@
 title = "035 यत् कर्म"
 
 +++
-
-यत् कर्म कृत्वा कुर्वंश् च  
-करिष्यंश् चैव लज्जति ।  
-तज् ज्ञेयं विदुषा सर्वं  
-तामसं गुणलक्षणम्  ॥ १२.३५ ॥
+035	When a (man), having done, doing, or being about to do any act, feels ashamed, the learned may know that all (such acts bear) the mark of the quality of Darkness.

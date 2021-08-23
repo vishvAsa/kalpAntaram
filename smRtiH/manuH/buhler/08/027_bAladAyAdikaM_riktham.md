@@ -2,7 +2,4 @@
 title = "027 बालदायादिकं रिक्थम्"
 
 +++
-बालदायादिकं रिक्थं  
-तावद् राजानुपालयेत् ।  
-यावत् स स्यात् समावृत्तो  
-यावच् चाऽतीत-शैशवः [मेधातिथिपाठः - यावद् वातीत-शैशवः]  ॥ ८.२७ ॥
+027	The king shall protect the inherited (and other) property of a minor, until he has returned (from his teacher's house) or until he has passed his minority.

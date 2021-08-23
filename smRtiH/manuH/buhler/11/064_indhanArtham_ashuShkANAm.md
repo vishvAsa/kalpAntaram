@@ -2,7 +2,4 @@
 title = "064 इन्धनार्थम् अशुष्काणाम्"
 
 +++
-इन्धनार्थम् अशुष्काणां  
-द्रुमाणाम् अवपातनम् ।  
-आत्मार्थं च क्रियारम्भो  
-निन्दितान्नादनं तथा  ॥ ११.६४ ॥ [६३ मेधातिथिपाठे]
+065	Cutting down green trees for firewood, doing acts for one's own advantage only, eating prohibited food,

@@ -2,7 +2,4 @@
 title = "037 विद्वांस् तु"
 
 +++
-विद्वांस् तु ब्राह्मणो दृष्ट्वा  
-पूर्वोपनिहितं निधिम् ।  
-अशेषतो ऽप्य् आददीत  
-सर्वस्याऽधिपतिर् हि सः  ॥ ८.३७ ॥
+037	When a learned Brahmana has found treasure, deposited in former (times), he may take even the whole (of it); for he is master of everything.

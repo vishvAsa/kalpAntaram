@@ -2,7 +2,4 @@
 title = "192 जनन्यां संस्थितायाम्"
 
 +++
-जनन्यां संस्थितायां तु  
-समं सर्वे सहोदराः ।  
-भजेरन् मातृकं रिक्थं  
-भगिन्यश् च स-नाभयः  ॥ ९.१९२ ॥
+192	But when the mother has died, all the uterine brothers and the uterine sisters shall equally divide the mother's estate.

@@ -2,7 +2,4 @@
 title = "201 उष्ट्रयानं समारुह्य"
 
 +++
-उष्ट्रयानं समारुह्य  
-खरयानं तु कामतः ।  
-स्नात्वा तु विप्रो दिग्-वासाः  
-प्राणायामेन शुध्यति  ॥ ११.२०१ ॥ [२०० मेधातिथिपाठे]
+202	A Brahmana who voluntarily rode in a carriage drawn by camels or by asses, and he who bathed naked, become pure by suppressing his breath (Pranayama).

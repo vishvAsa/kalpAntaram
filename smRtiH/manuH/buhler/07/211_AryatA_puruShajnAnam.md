@@ -2,7 +2,4 @@
 title = "211 आर्यता पुरुषज्ञानम्"
 
 +++
-आर्यता पुरुषज्ञानं  
-शौर्यं करुणवेदिता ।  
-स्थौललक्ष्यं च सततम्  
-उदासीनगुणोदयः  ॥ ७.२११ ॥ [२१५ मेधातिथिपाठे]
+211	Behaviour worthy of an Aryan, knowledge of men, bravery, a compassionate disposition, and great liberality are the virtues of a neutral (who may be courted).

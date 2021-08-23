@@ -2,7 +2,4 @@
 title = "031 ज्ञातिभ्यो द्रविणम्"
 
 +++
-ज्ञातिभ्यो द्रविणं दत्त्वा  
-कन्यायै चैव शक्तितः ।  
-कन्याप्रदानं स्वाच्छन्द्याद्  
-आसुरो धर्म उच्यते  ॥ ३.३१ ॥
+031	When (the bridegroom) receives a maiden, after having given as much wealth as he can afford, to the kinsmen and to the bride herself, according to his own will, that is called the Asura rite.

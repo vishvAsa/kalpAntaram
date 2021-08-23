@@ -2,8 +2,4 @@
 title = "164 अनेन क्रमयोगेन"
 
 +++
-
-अनेन क्रमयोगेन  
-संस्कृतात्मा द्विजः शनैः ।  
-गुरौ वसन् सञ्चिनुयाद्  
-ब्रह्माधिगमिकं तपः  ॥ २.१६४ ॥
+164	A twice-born man who has been sanctified by the (employment of) the means, (described above) in due order, shall gradually and cumulatively perform the various austerities prescribed for (those who) study the Veda.

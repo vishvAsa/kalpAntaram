@@ -2,8 +2,4 @@
 title = "161 यत् कर्म"
 
 +++
-
-यत् कर्म कुर्वतो ऽस्य स्यात्  
-परितोषो ऽन्तरात्मनः ।  
-तत् प्रयत्नेन कुर्वीत  
-विपरीतं तु वर्जयेत्  ॥ ४.१६१ ॥+++(5)+++  
+161	When the performance of an act gladdens his heart, let him perform it with diligence; but let him avoid the opposite.

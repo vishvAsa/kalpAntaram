@@ -2,8 +2,4 @@
 title = "166 वेदम् एव"
 
 +++
-
-वेदम् एव सदाभ्यस्येत्  
-तपस् तप्स्यन् द्विजोत्तमः ।  
-वेदाभ्यासो हि विप्रस्य  
-तपः परम् इहोच्यते  ॥ २.१६६ ॥
+166	Let a Brahmana who desires to perform austerities, constantly repeat the Veda; for the study of the Veda is declared (to be) in this world the highest austerity for a Brahmana.

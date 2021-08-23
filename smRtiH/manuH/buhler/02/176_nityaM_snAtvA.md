@@ -2,8 +2,4 @@
 title = "176 नित्यं स्नात्वा"
 
 +++
-
-नित्यं स्नात्वा शुचिः कुर्याद्  
-देवर्षि-पितृतर्पणम् ।  
-देवताभ्यर्चनं चैव  
-समिदाधानम् एव च  ॥ २.१७६ ॥
+176	Every day, having bathed, and being purified, he must offer libations of water to the gods, sages and manes, worship (the images of) the gods, and place fuel on (the sacred fire).

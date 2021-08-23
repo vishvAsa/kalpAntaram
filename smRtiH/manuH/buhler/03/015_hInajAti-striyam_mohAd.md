@@ -2,7 +2,4 @@
 title = "015 हीनजाति-स्त्रियम् मोहाद्"
 
 +++
-हीनजाति-स्त्रियं मोहाद्  
-उद्वहन्तो द्विजातयः ।  
-कुलान्य् एव नयन्त्य् आशु  
-स-सन्तानानि शूद्रताम्  ॥ ३.१५ ॥
+015	Twice-born men who, in their folly, wed wives of the low (Sudra) caste, soon degrade their families and their children to the state of Sudras.

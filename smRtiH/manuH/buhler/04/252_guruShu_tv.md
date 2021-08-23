@@ -2,8 +2,4 @@
 title = "252 गुरुषु त्व्"
 
 +++
-
-गुरुषु त्व् अभ्यतीतेषु  
-विना वा तैर् गृहे वसन् ।  
-आत्मनो वृत्तिम् अन्विच्छन्  
-गृह्णीयात् साधुतः सदा  ॥ ४.२५२ ॥ [२५३ मेधातिथिपाठे]  
+252	But if his Gurus are dead, or if he lives separate from them in (another) house, let him, when he seeks a subsistence, accept (presents) from good men alone.

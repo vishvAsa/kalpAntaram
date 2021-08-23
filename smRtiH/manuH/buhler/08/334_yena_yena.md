@@ -2,7 +2,4 @@
 title = "334 येन येन"
 
 +++
-येन येन यथाङ्गेन  
-स्तेनो नृषु विचेष्टते ।  
-तत् तद् एव हरेत् तस्य  
-प्रत्यादेशाय पार्थिवः  ॥ ८.३३४ ॥
+334	With whatever limb a thief in any way commits (an offence) against men, even of that (the king) shall deprive him in order to prevent (a repetition of the crime).

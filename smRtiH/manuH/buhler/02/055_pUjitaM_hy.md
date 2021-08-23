@@ -2,8 +2,4 @@
 title = "055 पूजितं ह्य्"
 
 +++
-
-पूजितं ह्य् अशनं नित्यं  
-बलम् ऊर्जं च यच्छति ।  
-अपूजितं तु तद् भुक्तम्  
-उभयं नाशयेद् इदम्  ॥ २.५५ ॥
+055	Food, that is always worshipped, gives strength and manly vigour; but eaten irreverently, it destroys them both.

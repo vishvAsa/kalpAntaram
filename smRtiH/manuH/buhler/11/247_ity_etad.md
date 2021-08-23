@@ -2,7 +2,4 @@
 title = "247 इत्य् एतद्"
 
 +++
-इत्य् एतद् एनसाम् उक्तं  
-प्रायश्चित्तं यथाविधि ।  
-अत ऊर्ध्वं रहस्याऽनां  
-प्रायश्चित्तं निबोधत  ॥ ११.२४७ ॥ [२४६ मेधातिथिपाठे]
+248	The penances for sins (made public) have been thus declared according to the law; learn next the penances for secret (sins).

@@ -2,8 +2,4 @@
 title = "093 इन्द्रियाणाम् प्रसङ्गेन"
 
 +++
-
-इन्द्रियाणां प्रसङ्गेन  
-दोषम् ऋच्छत्य् असंशयम् ।  
-सन्नियम्य तु तान्य् एव  
-ततः सिद्धिं निगच्छति  ॥ २.९३ ॥
+093	Through the attachment of his organs (to sensual pleasure) a man doubtlessly will incur guilt; but if he keep them under complete control, he will obtain success (in gaining all his aims).

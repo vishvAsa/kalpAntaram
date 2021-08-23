@@ -2,7 +2,4 @@
 title = "261 पिण्डनिर्वपणङ् के"
 
 +++
-पिण्डनिर्वपणं के चित्  
-परस्ताद् एव कुर्वते ।  
-वयोभिः खादयन्त्य् अन्ये  
-प्रक्षिपन्त्य् अनले ऽप्सु वा  ॥ ३.२६१ ॥ [२५१ मेधातिथिपाठे]
+261	Some make the offering of the cakes after (the dinner); some cause (them) to be eaten by birds or throw them into fire or into water.

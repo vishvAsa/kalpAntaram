@@ -2,7 +2,4 @@
 title = "092 यमो वैवस्वतो"
 
 +++
-यमो वैवस्वतो देवो यस्  
-तवैष हृदि स्थितः ।  
-तेन चेद् अविवादस् ते  
-मा गङ्गां मा कुरून् गमः  ॥ ८.९२ ॥
+092	'If thou art not at variance with that divine Yama, the son of Vivasvat, who dwells in thy heart, thou needest neither visit the Ganges nor the (land of the) Kurus.

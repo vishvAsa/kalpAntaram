@@ -2,8 +2,4 @@
 title = "237 यज्ञो ऽनृतेन"
 
 +++
-
-यज्ञो ऽनृतेन क्षरति  
-तपः क्षरति विस्मयात् ।  
-आयुर् विप्रापवादेन  
-दानं च परिकीर्तनात्  ॥ ४.२३७ ॥ [२३८ मेधातिथिपाठे]  
+237	By falsehood a sacrifice becomes vain, by self-complacency (the reward for) austerities is lost, longevity by speaking evil of Brahmanas, and (the reward of) a gift by boasting.

@@ -2,7 +2,4 @@
 title = "025 चिरस्थितम् अपि"
 
 +++
-चिरस्थितम् अपि त्व् आद्यम्  
-अ-स्नेहाक्तं द्विजातिभिः ।  
-यव-गोधूमजं सर्वं  
-पयसश् चैव विक्रिया  ॥ ५.२५ ॥+++(5)+++
+025	But all preparations of barley and wheat, as well as preparations of milk, may be eaten by twice-born men without being mixed with fatty (substances), though they may have stood for a long time.

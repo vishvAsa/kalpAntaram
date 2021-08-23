@@ -2,7 +2,4 @@
 title = "261 हत्वा लोकान्"
 
 +++
-हत्वा लोकान् अपीमांस् त्रीन्  
-अश्नन्न् अपि यतस् ततः ।  
-ऋग्वेदं धारयन् विप्रो  
-नैनः प्राप्नोति किं चन  ॥ ११.२६१ ॥ [२६० मेधातिथिपाठे]
+262	A Brahmana who retains in his memory the Rig-veda is not stained by guilt, though he may have destroyed these three worlds, though he may eat the food of anybody.

@@ -2,7 +2,4 @@
 title = "123 तेभ्यो लब्धेन"
 
 +++
-तेभ्यो लब्धेन भैक्षेण  
-वर्तयन्न् एककालिकम् ।  
-उपस्पृशंस् त्रिषवणं त्व्  
-अब्देन स विशुध्यति [मेधातिथिपाठः - त्रिषवणम् अब्देन]  ॥ ११.१२३ ॥ [१२२ मेधातिथिपाठे]
+124	Subsisting on a single (daily meal that consists) of the alms obtained there and bathing at (the time of) the three savanas (morning, noon, and evening), he becomes pure after (the lapse of) one year.

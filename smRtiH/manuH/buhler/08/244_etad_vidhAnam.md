@@ -2,7 +2,4 @@
 title = "244 एतद् विधानम्"
 
 +++
-एतद् विधानम् आतिष्ठेद्  
-धार्मिकः पृथिवीपतिः ।  
-स्वामिनां च पशूनां च  
-पालानां च व्यतिक्रमे  ॥ ८.२४४ ॥
+244	To these rules a righteous king shall keep in (all cases of) transgressions by masters, their cattle, and herdsmen.

@@ -2,7 +2,4 @@
 title = "145 हरेत् तत्र"
 
 +++
-हरेत् तत्र नियुक्तायां  
-जातः पुत्रो यथाउरसः ।  
-क्षेत्रिकस्य तु तद् बीजं  
-धर्मतः प्रसवश् च सः  ॥ ९.१४५ ॥
+145	A son (legally) begotten on such an appointed female shall inherit like a legitimate son of the body; for that seed and the produce belong, according to the law, to the owner of the soil.

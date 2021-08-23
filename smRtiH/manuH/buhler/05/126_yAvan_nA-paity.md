@@ -2,7 +2,4 @@
 title = "126 यावन् नाऽपैत्य्"
 
 +++
-यावन् नाऽपैत्य् अमेध्याक्ताद्  
-गन्धो लेपश् च तत्-कृतः ।  
-तावन् मृद्-वारि चादेयं  
-सर्वासु द्रव्यशुद्धिषु  ॥ ५.१२६ ॥ [१२४ मेधातिथिपाठे]
+126	As long as the (foul) smell does not leave an (object) defiled by impure substances, and the stain caused by them (does not disappear), so long must earth and water be applied in cleansing (inanimate) things.

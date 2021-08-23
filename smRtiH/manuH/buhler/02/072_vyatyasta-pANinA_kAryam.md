@@ -2,8 +2,4 @@
 title = "072 व्यत्यस्त-पाणिना कार्यम्"
 
 +++
-
-व्यत्यस्त-पाणिना कार्यम्  
-उपसङ्ग्रहणं गुरोः ।  
-सव्येन सव्यः स्प्रष्टव्यो  
-दक्षिणेन च दक्षिणः  ॥ २.७२ ॥
+072	With crossed hands he must clasp (the feet) of the teacher, and touch the left (foot) with his left (hand), the right (foot) with his right (hand).

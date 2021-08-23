@@ -2,7 +2,4 @@
 title = "011 अर्थस्य सङ्ग्रहे"
 
 +++
-अर्थस्य संग्रहे चैनां  
-व्यये चैव नियोजयेत् ।  
-शौचे धर्मे ऽन्नपक्त्यां च  
-पारिणाह्यस्य वेक्षणे  ॥ ९.११ ॥
+011	Let the (husband) employ his (wife) in the collection and expenditure of his wealth, in keeping (everything) clean, in (the fulfilment of) religious duties, in the preparation of his food, and in looking after the household utensils.

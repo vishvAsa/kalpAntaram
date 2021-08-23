@@ -2,8 +2,4 @@
 title = "144 य आवृणोत्य्"
 
 +++
-
-य आवृणोत्य् अवितथं  
-ब्रह्मणा श्रवणाव् उभौ ।  
-स माता स पिता ज्ञेयस्  
-तं न द्रुह्येत् कदा चन  ॥ २.१४४ ॥
+144	That (man) who truthfully fills both his ears with the Veda, (the pupil) shall consider as his father and mother; he must never offend him.

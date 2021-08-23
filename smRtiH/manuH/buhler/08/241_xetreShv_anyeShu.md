@@ -2,7 +2,4 @@
 title = "241 क्षेत्रेष्व् अन्येषु"
 
 +++
-क्षेत्रेष्व् अन्येषु तु पशुः  
-स-पादं पणम् अर्हति ।  
-सर्वत्र तु सदो देयः  
-क्षेत्रिकस्येति धारणा  ॥ ८.२४१ ॥
+241	(For damage) in other fields (each head of) cattle shall (pay a fine of one (pana) and a quarter, and in all (cases the value of) the crop (destroyed) shall be made good to the owner of the field; that is the settled rule.

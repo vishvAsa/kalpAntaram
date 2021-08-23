@@ -2,8 +2,4 @@
 title = "054 पूजयेद् अशनम्"
 
 +++
-
-पूजयेद् अशनं नित्यम्  
-अद्याच् चैतद् अकुत्सयन् ।  
-दृष्ट्वा हृष्येत् प्रसीदेच् च  
-प्रतिनन्देच् च सर्वशः  ॥ २.५४ ॥
+054	Let him always worship his food, and eat it without contempt; when he sees it, let him rejoice, show a pleased face, and pray that he may always obtain it.

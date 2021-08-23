@@ -2,8 +2,4 @@
 title = "030 पाषाण्डिनो विकर्मस्थान्"
 
 +++
-
-पाषाण्डिनो विकर्मस्थान्  
-बैडाल-व्रतिकाञ् शठान् ।  
-हैतुकान् बक-वृत्तींश् च  
-वाङ्-मात्रेणाऽपि नाऽर्चयेत्  ॥ ४.३० ॥+++(4)+++  
+030	Let him not honour, even by a greeting, heretics, men who follow forbidden occupations, men who live like cats, rogues, logicians, (arguing against the Veda,) and those who live like herons.

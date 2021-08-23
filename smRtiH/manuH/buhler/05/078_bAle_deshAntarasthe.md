@@ -2,7 +2,4 @@
 title = "078 बाले देशान्तरस्थे"
 
 +++
-बाले देशान्तरस्थे च  
-पृथक्-पिण्डे च संस्थिते ।  
-स-वासा जलम् आप्लुत्य  
-सद्य एव विशुध्यति  ॥ ५.७८ ॥ [७७ मेधातिथिपाठे]
+078	If an infant (that has not teethed), or a (grownup relative who is) not a Sapinda, die in a distant country, one becomes at once pure after bathing in one's clothes.

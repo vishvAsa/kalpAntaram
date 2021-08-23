@@ -2,8 +2,4 @@
 title = "143 अग्न्याधेयम् पाकयज्ञान्"
 
 +++
-
-अग्न्याधेयं पाकयज्ञान्  
-अग्निष्टोमादिकान् मखान् ।  
-यः करोति वृतो यस्य  
-स तस्यर्त्विग् इहोच्यते  ॥ २.१४३ ॥
+143	He who, being (duly) chosen (for the purpose), performs the Agnyadheya, the Pakayagnas, (and) the (Srauta) sacrifices, such as the Agnishtoma (for another man), is called (his) officiating priest.

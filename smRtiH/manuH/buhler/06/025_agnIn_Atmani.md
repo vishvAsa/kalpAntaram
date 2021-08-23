@@ -2,7 +2,4 @@
 title = "025 अग्नीन् आत्मनि"
 
 +++
-अग्नीन् आत्मनि वैतानान्  
-समारोप्य यथाविधि ।  
-अनग्निर् अनिकेतः स्यान्  
-मुनिर् मूल-फलाशनः  ॥ ६.२५ ॥
+025	Having reposited the three sacred fires in himself, according to the prescribed rule, let him live without a fire, without a house, wholly silent, subsisting on roots and fruit,

@@ -2,8 +2,4 @@
 title = "243 यदि त्व्"
 
 +++
-
-यदि त्व् आत्यन्तिकं वासं  
-रोचयेत गुरोः कुले ।  
-युक्तः परिचरेद् एनम्  
-आ शरीरविमोक्षणात्  ॥ २.२४३ ॥
+243	But if (a student) desires to pass his whole life in the teacher's house, he must diligently serve him, until he is freed from this body.

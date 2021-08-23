@@ -2,8 +2,4 @@
 title = "068 यद् वा"
 
 +++
-
-यद् वा तद् वा परद्रव्यम्  
-अपहृत्य बलान् नरः ।  
-अवश्यं याति तिर्यक्त्वं  
-जग्ध्वा चैवाऽहुतं हविः  ॥ १२.६८ ॥
+068	That man who has forcibly taken away any kind of property belonging to another, or who has eaten sacrificial food (of) which (no portion) had been offered, inevitably becomes an animal.

@@ -2,7 +2,4 @@
 title = "022 यज्ञार्थम् ब्राह्मणैर्"
 
 +++
-यज्ञार्थं ब्राह्मणैर् वध्याः  
-प्रशस्ता मृग-पक्षिणः ।  
-भृत्यानां चैव वृत्त्य्-अर्थम्  
-अगस्त्यो ह्य् आचरत् पुरा  ॥ ५.२२ ॥
+022	Beasts and birds recommended (for consumption) may be slain by Brahmanas for sacrifices, and in order to feed those whom they are bound to maintain; for Agastya did this of old.

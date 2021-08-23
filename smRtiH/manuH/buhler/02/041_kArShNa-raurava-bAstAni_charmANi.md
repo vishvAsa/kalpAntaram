@@ -2,8 +2,4 @@
 title = "041 कार्ष्ण-रौरव-बास्तानि चर्माणि"
 
 +++
-
-कार्ष्ण-रौरव-बास्तानि  
-चर्माणि ब्रह्मचारिणः ।  
-वसीरन्न् आनुपूर्व्येण  
-शाण-क्षौमाविकानि च  ॥ २.४१ ॥
+041	Let students, according to the order (of their castes), wear (as upper dresses) the skins of black antelopes, spotted deer, and he-goats, and (lower garments) made of hemp, flax or wool.

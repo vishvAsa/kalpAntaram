@@ -2,7 +2,4 @@
 title = "010 कार्यं सो"
 
 +++
-कार्यं सो ऽवेक्ष्य शक्तिं च  
-देश-कालौ च तत्त्वतः ।  
-कुरुते धर्मसिद्ध्यर्थं  
-विश्वरूपं पुनः पुनः  ॥ ७.१० ॥
+010	Having fully considered the purpose, (his) power, and the place and the time, he assumes by turns many (different) shapes for the complete attainment of justice.

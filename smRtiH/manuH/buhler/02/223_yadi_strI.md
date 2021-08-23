@@ -2,8 +2,4 @@
 title = "223 यदि स्त्री"
 
 +++
-
-यदि स्त्री यद्य् अवरजः  
-श्रेयः किं चित् समाचरेत् ।  
-तत् सर्वम् आचरेद् युक्तो  
-यत्र चाऽस्य रमेन् मनः  ॥ २.२२३ ॥
+223	If a woman or a man of low caste perform anything (leading to) happiness, let him diligently practise it, as well as (any other permitted act) in which his heart finds pleasure.

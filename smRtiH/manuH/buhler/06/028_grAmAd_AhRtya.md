@@ -2,7 +2,4 @@
 title = "028 ग्रामाद् आहृत्य"
 
 +++
-ग्रामाद् आहृत्य वाश्नीयाद्  
-अष्टौ ग्रासान् वने वसन् ।  
-प्रतिगृह्य पुटेनैव  
-पाणिना शकलेन वा  ॥ ६.२८ ॥
+028	Or (the hermit) who dwells in the forest may bring (food) from a village, receiving it either in a hollow dish (of leaves), in (his naked) hand, or in a broken earthen dish, and may eat eight mouthfuls.

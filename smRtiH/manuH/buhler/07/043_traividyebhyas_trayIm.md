@@ -2,7 +2,4 @@
 title = "043 त्रैविद्येभ्यस् त्रयीम्"
 
 +++
-त्रैविद्येभ्यस् त्रयीं विद्यां  
-दण्डनीतिं च शाश्वतीम् [मेधातिथिपाठः - त्रयीं विद्यात्] ।  
-आन्वीक्षिकीं चात्मविद्यां  
-वार्तारम्भांश् च लोकतः  ॥ ७.४३ ॥
+043	From those versed in the three Vedas let him learn the threefold (sacred science), the primeval science of government, the science of dialectics, and the knowledge of the (supreme) Soul; from the people (the theory of) the (various) trades and professions.

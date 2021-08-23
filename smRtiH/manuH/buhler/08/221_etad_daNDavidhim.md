@@ -2,7 +2,4 @@
 title = "221 एतद् दण्डविधिम्"
 
 +++
-एतद् दण्डविधिं कुर्याद्  
-धार्मिकः पृथिवीपतिः ।  
-ग्राम-जाति-समूहेषु  
-समयव्यभिचारिणाम्  ॥ ८.२२१ ॥
+221	A righteous king shall apply this law of fines in villages and castes (gati) to those who break an agreement.

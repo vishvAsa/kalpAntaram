@@ -2,7 +2,4 @@
 title = "312 क्षन्तव्यम् प्रभुणा"
 
 +++
-क्षन्तव्यं प्रभुणा नित्यं  
-क्षिपतां कार्यिणां नृणाम् ।  
-बाल-वृद्धातुराणां च  
-कुर्वता हितम् आत्मनः  ॥ ८.३१२ ॥
+312	A king who desires his own welfare must always forgive litigants, infants, aged and sick men, who inveigh against him.

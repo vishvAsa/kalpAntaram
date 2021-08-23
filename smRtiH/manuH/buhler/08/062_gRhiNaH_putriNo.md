@@ -2,7 +2,4 @@
 title = "062 गृहिणः पुत्रिणो"
 
 +++
-गृहिणः पुत्रिणो मौलाः  
-क्षत्र-विश्-शूद्र-योनयः ।  
-अर्थ्युक्ताः साक्ष्यम् अर्हन्ति  
-न ये के चिद् अनापदि  ॥ ८.६२ ॥
+062	Householders, men with male issue, and indigenous (inhabitants of the country, be they) Kshatriyas, Vaisyas, or Sudras, are competent, when called by a suitor, to give evidence, not any persons whatever (their condition may be) except in cases of urgency.

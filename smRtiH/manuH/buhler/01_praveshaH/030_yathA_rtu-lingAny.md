@@ -2,8 +2,4 @@
 title = "030 यथा र्तु-लिङ्गान्य्"
 
 +++
-
-यथा र्तु-लिङ्गान्य् ऋतवः  
-स्वयम् एव र्तुपर्यये ।  
-स्वानि स्वान्य् अभिपद्यन्ते  
-तथा कर्माणि देहिनः  ॥ १.३० ॥
+030	As at the change of the seasons each season of its own accord assumes its distinctive marks, even so corporeal beings (resume in new births) their (appointed) course of action.

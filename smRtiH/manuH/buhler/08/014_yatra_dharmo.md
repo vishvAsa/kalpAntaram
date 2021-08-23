@@ -2,7 +2,4 @@
 title = "014 यत्र धर्मो"
 
 +++
-यत्र धर्मो ह्य् अधर्मेण  
-सत्यं यत्राऽनृतेन च ।  
-हन्यते प्रेक्षमाणानां  
-हतास् तत्र सभासदः  ॥ ८.१४ ॥
+014	Where justice is destroyed by injustice, or truth by falsehood, while the judges look on, there they shall also be destroyed.

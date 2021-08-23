@@ -2,7 +2,4 @@
 title = "050 न भक्षयति"
 
 +++
-न भक्षयति यो मांसं  
-विधिं हित्वा पिशाचवत् ।  
-न लोके ऽप्रियतां याति  
-व्याधिभिश् च न पीड्यते  ॥ ५.५० ॥
+050	He who, disregarding the rule (given above), does not eat meat like a Pisaka, becomes dear to men, and will not be tormented by diseases.

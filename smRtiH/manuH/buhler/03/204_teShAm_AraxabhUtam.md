@@ -2,7 +2,4 @@
 title = "204 तेषाम् आरक्षभूतम्"
 
 +++
-तेषाम् आरक्षभूतं तु  
-पूर्वं दैवं नियोजयेत् ।  
-रक्षांसि विप्रलुम्पन्ति  
-श्राद्धम् आरक्षवर्जितम्  ॥ ३.२०४ ॥ [१९४ मेधातिथिपाठे]
+204	Let him first invite a (Brahmana) in honour of the gods as a protection for the (offering to the manes); for the Rakshasas destroy a funeral sacrifice which is left without such a protection.

@@ -2,7 +2,4 @@
 title = "226 एते राष्ट्रे"
 
 +++
-एते राष्ट्रे वर्तमाना  
-राज्ञः प्रछन्नतस्कराः ।  
-विकर्मक्रियया नित्यं  
-बाधन्ते भद्रिकाः प्रजाः  ॥ ९.२२६ ॥
+226	If such (persons who are) secret thieves, dwell in the realm of a king, they constantly harass his good subjects by their forbidden practices.

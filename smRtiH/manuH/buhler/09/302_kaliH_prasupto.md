@@ -2,7 +2,4 @@
 title = "302 कलिः प्रसुप्तो"
 
 +++
-कलिः प्रसुप्तो भवति  
-स जाग्रद् द्वापरं युगम् ।  
-कर्मस्व् अभ्युद्यतस् त्रेता  
-विचरंस् तु कृतं युगम्  ॥ ९.३०२ ॥
+302	Sleeping he represents the Kali (or iron age), waking the Dvapara (or brazen) age, ready to act the Treta (or silver age), but moving (actively) the Krita (or golden) age.

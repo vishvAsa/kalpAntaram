@@ -2,7 +2,4 @@
 title = "069 तासाङ् क्रमेण"
 
 +++
-तासां क्रमेण सर्वासां  
-निष्कृत्यर्थं महर्षिभिः ।  
-पञ्च कॢप्ता महायज्ञाः  
-प्रत्यहं गृहमेधिनाम्  ॥ ३.६९ ॥ [५९ मेधातिथिपाठे]
+069	In order to successively expiate (the offences committed by means) of all these (five) the great sages have prescribed for householders the daily (performance of the five) great sacrifices.

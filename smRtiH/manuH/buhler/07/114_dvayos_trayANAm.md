@@ -2,7 +2,4 @@
 title = "114 द्वयोस् त्रयाणाम्"
 
 +++
-द्वयोस् त्रयाणां पञ्चानां  
-मध्ये गुल्मम् अधिष्ठितम् ।  
-तथा ग्रामशतानां च  
-कुर्याद् राष्ट्रस्य सङ्ग्रहम्  ॥ ७.११४ ॥ [११५ मेधातिथिपाठे]
+114	Let him place a company of soldiers, commanded (by a trusty officer), the midst of two, three, five or hundreds of villages, (to be) a protection of the kingdom.

@@ -2,7 +2,4 @@
 title = "220 निगृह्य दापयेच्"
 
 +++
-निगृह्य दापयेच् चैनं  
-समयव्यभिचारिणम् ।  
-चतुःसुवर्णान् षण्निष्कांश्  
-छतमानं च राजकम्  ॥ ८.२२० ॥
+220	And having imprisoned such a breaker of an agreement, he shall compel him to pay six nishkas, (each of) four suvarnas, and one satamana of silver.

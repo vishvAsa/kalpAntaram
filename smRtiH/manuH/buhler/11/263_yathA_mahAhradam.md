@@ -2,7 +2,4 @@
 title = "263 यथा महाह्रदम्"
 
 +++
-यथा महाह्रदं प्राप्य  
-क्षिप्तं लोष्टं विनश्यति ।  
-तथा दुश्चरितं सर्वं  
-वेदे त्रिवृति मज्जति  ॥ ११.२६३ ॥ [२६२ मेधातिथिपाठे]
+264	As a clod of earth, falling into a great lake, is quickly dissolved, even so every sinful act is engulfed in the threefold Veda.

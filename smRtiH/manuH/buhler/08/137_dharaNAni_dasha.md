@@ -2,7 +2,4 @@
 title = "137 धरणानि दश"
 
 +++
-धरणानि दश ज्ञेयः  
-शतमानस् तु राजतः ।  
-चतुःसौवर्णिको निष्को  
-विज्ञेयस् तु प्रमाणतः  ॥ ८.१३७ ॥
+137	Know (that) ten dharanas of silver make one satamana; four suvarnas must be considered (equal) in weight to a nishka.

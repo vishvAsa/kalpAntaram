@@ -2,7 +2,4 @@
 title = "155 ब्राह्मण-क्षत्रिय-विशां शूद्रापुत्रो"
 
 +++
-ब्राह्मण-क्षत्रिय-विशां  
-शूद्रापुत्रो न रिक्थभाक् ।  
-यद् एवाऽस्य पिता दद्यात्  
-तद् एवाऽस्य धनं भवेत्  ॥ ९.१५५ ॥
+155	The son of a Brahmana, a Kshatriya, and a Vaisya by a Sudra (wife) receives no share of the inheritance; whatever his father may give to him, that shall be his property.

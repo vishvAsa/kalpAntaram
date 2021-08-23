@@ -2,7 +2,4 @@
 title = "039 तेभ्यो ऽधिगच्छेद्"
 
 +++
-तेभ्यो ऽधिगच्छेद् विनयं  
-विनीतात्मापि नित्यशः ।  
-विनीतात्मा हि नृपतिर्  
-न विनश्यति कर्हि चित्  ॥ ७.३९ ॥
+039	Let him, though he may already be modest, constantly learn modesty from them; for a king who is modest never perishes.

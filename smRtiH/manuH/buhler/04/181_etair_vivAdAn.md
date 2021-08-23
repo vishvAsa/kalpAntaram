@@ -2,8 +2,4 @@
 title = "181 एतैर् विवादान्"
 
 +++
-
-एतैर् विवादान् सन्त्यज्य  
-सर्व-पापैः प्रमुच्यते ।  
-एतैर् जितैश् च जयति  
-सर्वाल्ँ लोकान् इमान् गृही  ॥ ४.१८१ ॥  
+181	If he avoids quarrels with these persons, he will be freed from all sins, and by suppressing (all) such (quarrels) a householder conquers all the following worlds.

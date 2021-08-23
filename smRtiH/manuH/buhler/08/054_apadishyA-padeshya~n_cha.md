@@ -2,7 +2,4 @@
 title = "054 अपदिश्याऽपदेश्यञ् च"
 
 +++
-अपदिश्याऽपदेश्यं च  
-पुनर् यस् त्व् अपधावति [मेधातिथिपाठः - अपदिश्याऽपदेशं] ।  
-सम्यक् प्रणिहितं चाऽर्थं  
-पृष्टः सन् नाऽभिनन्दति  ॥ ८.५४ ॥
+054	Or who having stated what he means to prove afterwards varies (his case), or who being questioned on a fact duly stated by himself does not abide by it;

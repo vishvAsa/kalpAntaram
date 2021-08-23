@@ -2,7 +2,4 @@
 title = "129 एतद् एव"
 
 +++
-एतद् एव चरेद् अब्दं  
-प्रायश्चित्तं द्विजोत्तमः ।  
-प्रमाप्य वैश्यं वृत्तस्थं  
-दद्याच् चैकशतं गवाम् [मेधातिथिपाठः - दद्याद् वैकशतं]  ॥ ११.१२९ ॥ [१२८ मेधातिथिपाठे]
+130	A Brahmana who has slain a virtuous Vaisya, shall perform the same penance during one year, or he may give one hundred cows and one (bull).

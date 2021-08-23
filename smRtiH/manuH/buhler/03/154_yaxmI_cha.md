@@ -2,7 +2,4 @@
 title = "154 यक्ष्मी च"
 
 +++
-यक्ष्मी च पशुपालश् च  
-परिवेत्ता+++(=अग्रजम् उपेक्ष्य भार्यां वेत्ति यः)+++ निराकृतिः+++(=महायज्ञविहीनः)+++ ।  
-ब्रह्मद्विट् परिवित्तिश्+++(=यस्यानुजो गृहस्थः स्वापेक्षया)+++ च  
-गणाभ्यन्तर एव च  ॥ ३.१५४ ॥ [१४४ मेधातिथिपाठे]
+154	One suffering from consumption, one who subsists by tending cattle, a younger brother who marries or kindles the sacred fire before the elder, one who neglects the five great sacrifices, an enemy of the Brahmana race, an elder brother who marries or kindles the sacred fire after the younger, and one who belongs to a company or corporation,

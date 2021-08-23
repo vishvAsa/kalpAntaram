@@ -2,7 +2,4 @@
 title = "245 वेदाभ्यासो ऽन्वहम्"
 
 +++
-वेदाभ्यासो ऽन्वहं शक्त्या  
-महायज्ञक्रिया क्षमा ।  
-नाशयन्त्य् आशु पापानि  
-महापातकजान्य् अपि  ॥ ११.२४५ ॥ [२४४ मेधातिथिपाठे]
+246	The daily study of the Veda, the performance of the great sacrifices according to one's ability, (and) patience (in suffering) quickly destroy all guilt, even that caused by mortal sins.

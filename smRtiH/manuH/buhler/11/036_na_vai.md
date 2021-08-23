@@ -2,7 +2,4 @@
 title = "036 न वै"
 
 +++
-न वै कन्या न युवतिर्  
-नाऽल्प-विद्यो न बालिशः ।  
-होता स्याद् अग्निहोत्रस्य  
-नार्तो नाऽसंस्कृतस् तथा  ॥ ११.३६ ॥ [३५ मेधातिथिपाठे]
+036	Neither a girl, nor a (married) young woman, nor a man of little learning, nor a fool, nor a man in great suffering, nor one uninitiated, shall offer an Agnihotra.

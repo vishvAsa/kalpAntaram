@@ -2,8 +2,4 @@
 title = "159 यद् यत्"
 
 +++
-
-यद् यत् परवशं कर्म  
-तत् तद् यत्नेन वर्जयेत् ।  
-यद् यद् आत्मवशं तु स्यात्  
-तत् तत् सेवेत यत्नतः  ॥ ४.१५९ ॥+++(5)+++  
+159	Let him carefully avoid all undertakings (the success of) which depends on others; but let him eagerly pursue that (the accomplishment of) which depends on himself.

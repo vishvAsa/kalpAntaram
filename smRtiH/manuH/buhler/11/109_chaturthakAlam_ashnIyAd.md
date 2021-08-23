@@ -2,7 +2,4 @@
 title = "109 चतुर्थकालम् अश्नीयाद्"
 
 +++
-चतुर्थकालम् अश्नीयाद्  
-अक्षार-लवणं मितम् ।  
-गोमूत्रेणाचरेत् स्नानं  
-द्वौ मासौ नियतेन्द्रियः  ॥ ११.१०९ ॥ [१०८ मेधातिथिपाठे]
+110	During the two (following) months he shall eat a small (quantity of food) without any factitious salt at every fourth meal-time, and shall bathe in the urine of cows, keeping his organs under control.

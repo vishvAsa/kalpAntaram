@@ -2,8 +2,4 @@
 title = "043 पशवश् च"
 
 +++
-
-पशवश् च मृगाश् चैव  
-व्यालाश् चोभयतोदतः ।  
-रक्षांसि च पिशाचाश् च  
-मनुष्याश् च जरायुजाः [मेधातिथिपाठः - मनुषाश् च]  ॥ १.४३ ॥
+043	Cattle, deer, carnivorous beasts with two rows of teeth, Rakshasas, Pisakas, and men are born from the womb.

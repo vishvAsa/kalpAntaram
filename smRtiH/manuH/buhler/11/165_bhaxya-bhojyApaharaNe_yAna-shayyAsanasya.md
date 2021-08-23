@@ -2,7 +2,4 @@
 title = "165 भक्ष्य-भोज्यापहरणे यान-शय्यासनस्य"
 
 +++
-भक्ष्य-भोज्यापहरणे  
-यान-शय्यासनस्य च ।  
-पुष्प-मूल-फलानां च  
-पञ्चगव्यं विशोधनम्  ॥ ११.१६५ ॥ [१६४ मेधातिथिपाठे]
+166	(To swallow) the five products of the cow (pankagavya) is the atonement for stealing eatables of various kinds, a vehicle, a bed, a seat, flowers, roots, or fruit.

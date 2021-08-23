@@ -2,8 +2,4 @@
 title = "083 एकाक्षरम् परम्"
 
 +++
-
-एकाक्षरं परं ब्रह्म  
-प्राणायामः परं तपः ।  
-सावित्र्यास् तु परं नाऽस्ति  
-मौनात् सत्यं विशिष्यते  ॥ २.८३ ॥
+083	The monosyllable (Om) is the highest Brahman, (three) suppressions of the breath are the best (form of) austerity, but nothing surpasses the Savitri truthfulness is better than silence.

@@ -2,7 +2,4 @@
 title = "169 अनेन विधिना"
 
 +++
-अनेन विधिना नित्यं  
-पञ्चयज्ञान् न हापयेत् ।  
-द्वितीयम् आयुषो भागं  
-कृत-दारो गृहे वसेत्  ॥ ५.१६९ ॥ [१६७ मेधातिथिपाठे]
+169	(Living) according to the (preceding) rules, he must never neglect the five (great) sacrifices, and, having taken a wife, he must dwell in (his own) house during the second period of his life.

@@ -2,7 +2,4 @@
 title = "056 वि-धूमे सन्न-मुसले"
 
 +++
-वि-धूमे सन्न-मुसले  
-व्य्-अङ्गारे भुक्तवज्-जने ।  
-वृत्ते शरावसम्पाते  
-भिक्षां नित्यं यतिश् चरेत्  ॥ ६.५६ ॥
+056	When no smoke ascends from (the kitchen), when the pestle lies motionless, when the embers have been extinguished, when the people have finished their meal, when the remnants in the dishes have been removed, let the ascetic always go to beg.

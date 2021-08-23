@@ -2,7 +2,4 @@
 title = "009 नर्क्ष-वृक्ष-नदी-नाम्नीन् नाऽन्त्य-पर्वत-नामिकाम्"
 
 +++
-नर्क्ष-वृक्ष-नदी-नाम्नीं  
-नाऽन्त्य-पर्वत-नामिकाम् ।  
-न पक्ष्य्-अहि-प्रेष्य-नाम्नीं  
-न च भीषण-नामिकाम्  ॥ ३.९ ॥
+009	Nor one named after a constellation, a tree, or a river, nor one bearing the name of a low caste, or of a mountain, nor one named after a bird, a snake, or a slave, nor one whose name inspires terror.

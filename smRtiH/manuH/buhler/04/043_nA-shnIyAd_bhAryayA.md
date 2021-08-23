@@ -2,8 +2,4 @@
 title = "043 नाऽश्नीयाद् भार्यया"
 
 +++
-
-नाऽश्नीयाद् भार्यया सार्धं  
-नैनाम् ईक्षेत चाऽश्नतीम् ।  
-क्षुवतीं जृम्भमाणां वा  
-न चासीनां यथासुखम्  ॥ ४.४३ ॥  
+043	Let him not eat in the company of his wife, nor look at her, while she eats, sneezes, yawns, or sits at her ease.

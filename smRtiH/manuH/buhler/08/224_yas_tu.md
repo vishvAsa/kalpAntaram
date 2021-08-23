@@ -2,7 +2,4 @@
 title = "224 यस् तु"
 
 +++
-यस् तु दोषवतीं कन्याम्  
-अनाख्याय प्रयच्छति ।  
-तस्य कुर्यान् नृपो दण्डं  
-स्वयं षण्णवतिं पणान्  ॥ ८.२२४ ॥
+224	But the king himself shall impose a fine of ninety-six panas on him who gives a blemished damsel (to a suitor) without informing (him of the blemish).

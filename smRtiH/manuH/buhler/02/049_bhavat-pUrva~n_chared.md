@@ -2,8 +2,4 @@
 title = "049 भवत्-पूर्वञ् चरेद्"
 
 +++
-
-भवत्-पूर्वं चरेद् भैक्षम्  
-उपनीतो द्विजोत्तमः ।  
-भवन्-मध्यं तु राजन्यो  
-वैश्यस् तु भवद्-उत्तरम्  ॥ २.४९ ॥
+049	An initiated Brahmana should beg, beginning (his request with the word) lady (bhavati); a Kshatriya, placing (the word) lady in the middle, but a Vaisya, placing it at the end (of the formula).

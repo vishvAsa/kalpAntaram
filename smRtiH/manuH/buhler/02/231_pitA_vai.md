@@ -2,8 +2,4 @@
 title = "231 पिता वै"
 
 +++
-
-पिता वै गार्हपत्यो ऽग्निर्  
-माताग्निर् दक्षिणः स्मृतः ।  
-गुरुर् आहवनीयस् तु  
-साग्नित्रेता गरीयसी  ॥ २.२३१ ॥
+231	The father, forsooth, is stated to be the Garhapatya fire, the mother the Dakshinagni, but the teacher the Ahavaniya fire; this triad of fires is most venerable.

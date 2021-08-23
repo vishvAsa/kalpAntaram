@@ -2,8 +2,4 @@
 title = "206 अश्लीकम् एतत्"
 
 +++
-
-अश्लीकम्+++(=अश्लीलम्)+++ एतत् साधूनां  
-यत्र जुह्वत्य् अमी हविः [मेधातिथिपाठः - अ-श्लीलम्] ।  
-प्रतीपम् एतद् देवानां  
-तस्मात् तत् परिवर्जयेत्  ॥ ४.२०६ ॥ [२०७ मेधातिथिपाठे]  
+206	When those persons offer sacrificial viands in the fire, it is unlucky for holy (men) it displeases the gods; let him therefore avoid it.

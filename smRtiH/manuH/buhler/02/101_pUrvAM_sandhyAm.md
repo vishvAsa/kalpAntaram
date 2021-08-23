@@ -2,8 +2,4 @@
 title = "101 पूर्वां सन्ध्याम्"
 
 +++
-
-पूर्वां सन्ध्यां जपांस् तिष्ठेत्  
-सावित्रीम् आर्कदर्शनात् ।  
-पश्चिमां तु समासीनः  
-सम्यग् ऋक्षविभावनात् [मेधातिथिपाठः - पश्चिमां तु सदासीत]  ॥ २.१०१ ॥
+101	Let him stand during the morning twilight, muttering the Savitri until the sun appears, but (let him recite it), seated, in the evening until the constellations can be seen distinctly.

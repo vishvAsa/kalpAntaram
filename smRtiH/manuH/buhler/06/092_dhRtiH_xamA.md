@@ -2,7 +2,4 @@
 title = "092 धृतिः क्षमा"
 
 +++
-धृतिः क्षमा दमो ऽस्तेयं  
-शौचम् इन्द्रियनिग्रहः ।  
-धीर् विद्या सत्यम् अक्रोधो  
-दशकं धर्मलक्षणम्  ॥ ६.९२ ॥
+092	Contentment, forgiveness, self-control, abstention from unrighteously appropriating anything, (obedience to the rules of) purification, coercion of the organs, wisdom, knowledge (of the supreme Soul), truthfulness, and abstention from anger, (form) the tenfold law.

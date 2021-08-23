@@ -2,7 +2,4 @@
 title = "023 ग्रीष्मे पञ्च-तपास्"
 
 +++
-ग्रीष्मे पञ्च-तपास् तु स्याद्  
-वर्षास्व् अभ्रावकाशिकः ।  
-आर्द्र-वासास् तु हेमन्ते  
-क्रमशो वर्धयंस् तपः  ॥ ६.२३ ॥
+023	In summer let him expose himself to the heat of five fires, during the rainy season live under the open sky, and in winter be dressed in wet clothes, (thus) gradually increasing (the rigour of) his austerities.

@@ -2,7 +2,4 @@
 title = "020 यद् धनम्"
 
 +++
-यद् धनं यज्ञशीलानां  
-देवस्वं तद् विदुर् बुधाः ।  
-अयज्वनां तु यद् वित्तम्  
-आसुरस्वं तद् उच्यते  ॥ ११.२० ॥ [१९ मेधातिथिपाठे]
+020	The property of those who zealously offer sacrifices, the wise call the property of the gods; but the wealth of those who perform no sacrifices is called the property of the Asuras.

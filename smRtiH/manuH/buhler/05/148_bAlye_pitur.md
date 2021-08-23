@@ -2,7 +2,4 @@
 title = "148 बाल्ये पितुर्"
 
 +++
-बाल्ये पितुर् वशे तिष्ठेत्  
-पाणिग्राहस्य यौवने ।  
-पुत्राणां भर्तरि प्रेते  
-न भजेत् स्त्री स्वतन्त्रताम्  ॥ ५.१४८ ॥ [१४६ मेधातिथिपाठे]
+148	In childhood a female must be subject to her father, in youth to her husband, when her lord is dead to her sons; a woman must never be independent.

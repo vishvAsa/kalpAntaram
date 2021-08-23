@@ -2,7 +2,4 @@
 title = "209 धर्मज्ञञ् च"
 
 +++
-धर्मज्ञं च कृतज्ञं च  
-तुष्टप्रकृतिम् एव च ।  
-अनुरक्तं स्थिरारम्भं  
-लघुमित्रं प्रशस्यते  ॥ ७.२०९ ॥ [२१३ मेधातिथिपाठे]
+209	A weak friend (even) is greatly commended, who is righteous (and) grateful, whose people are contented, who is attached and persevering in his undertakings.

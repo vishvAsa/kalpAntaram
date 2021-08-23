@@ -2,8 +2,4 @@
 title = "225 आचार्यश् च"
 
 +++
-
-आचार्यश् च पिता चैव  
-माता भ्राता च पूर्वजः ।  
-नार्तेनाऽप्य् अवमन्तव्या  
-ब्राह्मणेन विशेषतः  ॥ २.२२५ ॥
+225	The teacher, the father, the mother, and an elder brother must not be treated with disrespect, especially by a Brahmana, though one be grievously offended (by them).

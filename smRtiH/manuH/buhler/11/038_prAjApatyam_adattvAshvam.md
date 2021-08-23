@@ -2,7 +2,4 @@
 title = "038 प्राजापत्यम् अदत्त्वाश्वम्"
 
 +++
-प्राजापत्यम् अदत्त्वाश्वम्  
-अग्न्याधेयस्य दक्षिणाम् ।  
-अनाहिताग्निर् भवति  
-ब्राह्मणो विभवे सति  ॥ ११.३८ ॥ [३७ मेधातिथिपाठे]
+038	A Brahmana who, though wealthy, does not give, as fee for the performance of an Agnyadheya, a horse sacred to Pragapati, becomes (equal to one) who has not kindled the sacred fires.

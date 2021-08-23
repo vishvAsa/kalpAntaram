@@ -2,7 +2,4 @@
 title = "194 अध्यग्न्य्-अध्यावाहनिकन् दत्तम्"
 
 +++
-अध्यग्न्य्-अध्यावाहनिकं  
-दत्तं च प्रीतिकर्मणि ।  
-भ्रातृ-मातृ-पितृप्राप्तं  
-षड्विधं स्त्रीधनं स्मृतम्  ॥ ९.१९४ ॥
+194	What (was given) before the (nuptial) fire, what (was given) on the bridal procession, what was given in token of love, and what was received from her brother, mother, or father, that is called the sixfold property of a woman.

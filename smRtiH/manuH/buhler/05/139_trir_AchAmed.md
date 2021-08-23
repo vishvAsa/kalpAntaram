@@ -2,7 +2,4 @@
 title = "139 त्रिर् आचामेद्"
 
 +++
-त्रिर् आचामेद् अपः पूर्वं  
-द्विः प्रमृज्यात् ततो मुखम् ।  
-शरीरं शौचम् इच्छन् हि  
-स्त्री शूद्रस् तु सकृत् सकृत्  ॥ ५.१३९ ॥ [१३७ मेधातिथिपाठे]
+139	Let him who desires bodily purity first sip water three times, and then twice wipe his mouth; but a woman and a Sudra (shall perform each act) once (only).

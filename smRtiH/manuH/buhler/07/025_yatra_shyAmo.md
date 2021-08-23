@@ -2,7 +2,4 @@
 title = "025 यत्र श्यामो"
 
 +++
-यत्र श्यामो लोहिताक्षो  
-दण्डश् चरति पापहा ।  
-प्रजास् तत्र न मुह्यन्ति  
-नेता चेत् साधु पश्यति  ॥ ७.२५ ॥
+025	But where Punishment with a black hue and red eyes stalks about, destroying sinners, there the subjects are not disturbed, provided that he who inflicts it discerns well.

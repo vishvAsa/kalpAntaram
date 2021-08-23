@@ -2,7 +2,4 @@
 title = "037 इयम् भूमिर्"
 
 +++
-इयं भूमिर् हि भूतानां  
-शाश्वती योनिर् उच्यते ।  
-न च योनिगुणान् कांश् चिद्  
-बीजं पुष्यति पुष्टिषु  ॥ ९.३७ ॥
+037	This earth, indeed, is called the primeval womb of created beings; but the seed develops not in its development any properties of the womb.

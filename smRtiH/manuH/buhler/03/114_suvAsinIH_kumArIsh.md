@@ -2,7 +2,4 @@
 title = "114 सुवासिनीः कुमारीश्"
 
 +++
-सुवासिनीः कुमारीश् च  
-रोगिणो गर्भिणीः स्त्रियः ।  
-अतिथिभ्यो ऽग्र एवैतान्  
-भोजयेद् अविचारयन् [मेधातिथिपाठः - अतिथिभ्यो ऽन्वग् एवैतान्]  ॥ ३.११४ ॥ [१०४ मेधातिथिपाठे]
+114	Without hesitation he may give food, even before his guests, to the following persons, (viz.) to newly-married women, to infants, to the sick, and to pregnant women.

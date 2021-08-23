@@ -2,7 +2,4 @@
 title = "096 यस्य विद्वान्"
 
 +++
-यस्य विद्वान् हि वदतः  
-क्षेत्रज्ञो नाऽभिशङ्कते [मेधातिथिपाठः - नाऽतिशङ्कते ।  
-तस्मान् न देवाः श्रेयांसं  
-लोके ऽन्यं पुरुषं विदुः  ॥ ८.९६ ॥
+096	'The gods are acquainted with no better man in this world than him, of whom his conscious Soul has no distrust, when he gives evidence.

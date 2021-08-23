@@ -2,8 +2,4 @@
 title = "016 तेषान् त्व्"
 
 +++
-
-तेषां त्व् अवयवान् सूक्ष्मान्  
-षण्णाम् अप्य् अमितौजसाम् ।  
-सन्निवेश्यात्ममात्रासु  
-सर्वभूतानि निर्ममे [मेधातिथिपाठः - सन्निवेश्य]  ॥ १.१६ ॥
+016	But, joining minute particles even of those six, which possess measureless power, with particles of himself, he created all beings.

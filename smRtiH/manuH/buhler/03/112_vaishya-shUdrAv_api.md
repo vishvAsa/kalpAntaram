@@ -2,7 +2,4 @@
 title = "112 वैश्य-शूद्राव् अपि"
 
 +++
-वैश्य-शूद्राव् अपि प्राप्तौ  
-कुटुम्बे ऽतिथि-धर्मिणौ ।  
-भोजयेत् सह भृत्यैस् ताव्  
-आनृशंस्यं प्रयोजयन्  ॥ ३.११२ ॥ [१०२ मेधातिथिपाठे]
+112	Even a Vaisya and a Sudra who have approached his house in the manner of guests, he may allow to eat with his servants, showing (thereby) his compassionate disposition.

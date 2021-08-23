@@ -2,7 +2,4 @@
 title = "239 चाण्डालश् च"
 
 +++
-चाण्डालश् च वराहश् च  
-कुक्कुटः श्वा तथैव च ।  
-रजस्वला च षण्ढश् च  
-नेक्षेरन्न् अश्नतो द्विजान्  ॥ ३.२३९ ॥ [२२९ मेधातिथिपाठे]
+239	A Kandala, a village pig, a cock, a dog, a menstruating woman, and a eunuch must not look at the Brahmanas while they eat.

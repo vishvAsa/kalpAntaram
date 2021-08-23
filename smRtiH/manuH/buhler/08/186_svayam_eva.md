@@ -2,7 +2,4 @@
 title = "186 स्वयम् एव"
 
 +++
-स्वयम् एव तु यौ दद्यान्  
-मृतस्य प्रत्यनन्तरे ।  
-न स राज्ञाभियोक्तव्यो  
-न निक्षेप्तुश् च बन्धुभिः  ॥ ८.१८६ ॥
+186	But (a depositary) who of his own accord returns them to a near relative of a deceased (depositor), must not be harassed (about them) by the king or by the depositor's relatives.

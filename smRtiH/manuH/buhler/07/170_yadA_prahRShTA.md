@@ -2,7 +2,4 @@
 title = "170 यदा प्रहृष्टा"
 
 +++
-यदा प्रहृष्टा मन्येत  
-सर्वास् तु प्रकृतीर् भृशम् ।  
-अत्युच्छ्रितं तथात्मानं  
-तदा कुर्वीत विग्रहम्  ॥ ७.१७० ॥ [१७१ मेधातिथिपाठे]
+170	But when he thinks all his subjects to be exceedingly contented, and (that he) himself (is) most exalted (in power), then let him make war.

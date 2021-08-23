@@ -2,7 +2,4 @@
 title = "122 पितृयज्ञन् तु"
 
 +++
-पितृयज्ञं तु निर्वर्त्य  
-विप्रश् चन्द्रक्षये ऽग्निमान् [क्:चेन्दुक्षये] ।  
-पिण्डान्वाहार्यकं श्राद्धं  
-कुर्यान् मासानुमासिकम्  ॥ ३.१२२ ॥ [११२ मेधातिथिपाठे]
+122	After performing the Pitriyagna, a Brahmana who keeps a sacred fire shall offer, month by month, on the new-moon day, the funeral sacrifice (Sraddha, called) Pindanvaharyaka.

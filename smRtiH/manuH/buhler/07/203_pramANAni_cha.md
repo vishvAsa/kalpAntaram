@@ -2,7 +2,4 @@
 title = "203 प्रमाणानि च"
 
 +++
-प्रमाणानि च कुर्वीत  
-तेषां धर्मान् यथोदितान् ।  
-रत्नैश् च पूजयेद् एनं  
-प्रधानपुरुषैः सह  ॥ ७.२०३ ॥ [२०४ मेधातिथिपाठे]
+203	Let him make authoritative the lawful (customs) of the (inhabitants), just as they are stated (to be), and let him honour the (new king) and his chief servants with precious gifts.

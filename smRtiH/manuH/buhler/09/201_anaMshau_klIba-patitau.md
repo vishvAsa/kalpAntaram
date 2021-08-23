@@ -2,7 +2,4 @@
 title = "201 अनंशौ क्लीब-पतितौ"
 
 +++
-अनंशौ क्लीब-पतितौ  
-जात्यन्ध-बधिरौ तथा ।  
-उन्मत्त-जड-मूकाश् च  
-ये च के चिन् निर्-इन्द्रियाः  ॥ ९.२०१ ॥
+201	Eunuchs and outcasts, (persons) born blind or deaf, the insane, idiots and the dumb, as well as those deficient in any organ (of action or sensation), receive no share.

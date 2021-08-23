@@ -2,7 +2,4 @@
 title = "173 मन्येताऽरिं यदा"
 
 +++
-मन्येताऽरिं यदा राजा  
-सर्वथा बलवत्तरम् ।  
-तदा द्विधा बलं कृत्वा  
-साधयेत् कार्यम् आत्मनः  ॥ ७.१७३ ॥ [१७४ मेधातिथिपाठे]
+173	When the king knows the enemy to be stronger in every respect, then let him divide his army and thus achieve his purpose.

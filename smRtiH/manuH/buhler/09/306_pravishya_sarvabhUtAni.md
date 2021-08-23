@@ -2,7 +2,4 @@
 title = "306 प्रविश्य सर्वभूतानि"
 
 +++
-प्रविश्य सर्वभूतानि  
-यथा चरति मारुतः ।  
-तथा चारैः प्रवेष्टव्यं  
-व्रतम् एतद् +धि मारुतम्  ॥ ९.३०६ ॥
+306	As the Wind moves (everywhere), entering (in the shape of the vital air) all created beings, even so let him penetrate (everywhere) through his spies; that is the office in which he resembles the Wind.

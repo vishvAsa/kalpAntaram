@@ -2,7 +2,4 @@
 title = "089 वृथा-सङ्कर-जातानाम् प्रव्रज्यासु"
 
 +++
-वृथा-सङ्कर-जातानां  
-प्रव्रज्यासु च तिष्ठताम् ।  
-आत्मनस् त्यागिनां चैव  
-निवर्तेतोदकक्रिया  ॥ ५.८९ ॥ [८८ मेधातिथिपाठे]
+089	Libations of water shall not be offered to those who (neglect the prescribed rites and may be said to) have been born in vain, to those born in consequence of an illegal mixture of the castes, to those who are ascetics (of heretical sects), and to those who have committed suicide,

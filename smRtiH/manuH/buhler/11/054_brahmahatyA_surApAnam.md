@@ -2,7 +2,4 @@
 title = "054 ब्रह्महत्या सुरापानम्"
 
 +++
-ब्रह्महत्या सुरापानं  
-स्तेयं गुर्वङ्गनागमः ।  
-महान्ति पातकान्य् आहुः  
-संसर्गश् चाऽपि तैः सह  ॥ ११.५४ ॥ [५३ मेधातिथिपाठे]
+055	Killing a Brahmana, drinking (the spirituous liquor called) Sura, stealing (the gold of a Brahmana), adultery with a Guru's wife, and associating with such (offenders), they declare (to be) mortal sins (mahapataka).

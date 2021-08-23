@@ -2,7 +2,4 @@
 title = "050 पानम् अक्षाः"
 
 +++
-पानम् अक्षाः स्त्रियश् चैव  
-मृगया च यथाक्रमम् ।  
-एतत् कष्टतमं विद्याच्  
-चतुष्कं कामजे गणे  ॥ ७.५० ॥
+050	Drinking, dice, women, and hunting, these four (which have been enumerated) in succession, he must know to be the most pernicious in the set that springs from love of pleasure.

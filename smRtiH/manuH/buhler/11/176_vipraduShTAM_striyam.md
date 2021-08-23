@@ -2,7 +2,4 @@
 title = "176 विप्रदुष्टां स्त्रियम्"
 
 +++
-विप्रदुष्टां स्त्रियं भर्ता  
-निरुन्ध्याद् एकवेश्मनि ।  
-यत् पुंसः परदारेषु  
-तच् चैनां चारयेद् व्रतम्  ॥ ११.१७६ ॥ [१७५ मेधातिथिपाठे]
+177	An exceedingly corrupt wife let her husband confine to one apartment, and compel her to perform the penance which is prescribed for males in cases of adultery.

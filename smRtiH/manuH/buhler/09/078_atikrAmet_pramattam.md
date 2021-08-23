@@ -2,7 +2,4 @@
 title = "078 अतिक्रामेत् प्रमत्तम्"
 
 +++
-अतिक्रामेत् प्रमत्तं या  
-मत्तं रोगार्तम् एव वा ।  
-सा त्रीन् मासान् परित्याज्या  
-विभूषण-परिच्छदा  ॥ ९.७८ ॥
+078	She who shows disrespect to (a husband) who is addicted to (some evil) passion, is a drunkard, or diseased, shall be deserted for three months (and be) deprived of her ornaments and furniture.

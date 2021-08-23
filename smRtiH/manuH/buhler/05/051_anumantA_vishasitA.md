@@ -2,7 +2,4 @@
 title = "051 अनुमन्ता विशसिता"
 
 +++
-अनुमन्ता विशसिता  
-निहन्ता क्रय-विक्रयी ।  
-संस्कर्ता चोपहर्ता च  
-खादकश् चेति घातकाः  ॥ ५.५१ ॥+++(4)+++
+051	He who permits (the slaughter of an animal), he who cuts it up, he who kills it, he who buys or sells (meat), he who cooks it, he who serves it up, and he who eats it, (must all be considered as) the slayers (of the animal).

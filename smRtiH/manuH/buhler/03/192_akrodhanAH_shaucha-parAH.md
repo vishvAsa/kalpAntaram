@@ -2,7 +2,4 @@
 title = "192 अक्रोधनाः शौच-पराः"
 
 +++
-अक्रोधनाः शौच-पराः  
-सततं ब्रह्मचारिणः ।  
-न्यस्त-शस्त्रा महा-भागाः  
-पितरः पूर्वदेवताः  ॥ ३.१९२ ॥ [१८२ मेधातिथिपाठे]
+192	The manes are primeval deities, free from anger, careful of purity, ever chaste, averse from strife, and endowed with great virtues.

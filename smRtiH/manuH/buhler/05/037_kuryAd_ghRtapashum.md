@@ -2,7 +2,4 @@
 title = "037 कुर्याद् घृतपशुम्"
 
 +++
-कुर्याद् घृतपशुं +++(अवैदिक-प्र)+++सङ्गे  
-कुर्यात् पिष्टपशुं तथा ।  
-न त्व् एव तु वृथा हन्तुं  
-पशुम् इच्छेत् कदा चन  ॥ ५.३७ ॥+++(5)+++
+037	If he has a strong desire (for meat) he may make an animal of clarified butter or one of flour, (and eat that); but let him never seek to destroy an animal without a (lawful) reason.

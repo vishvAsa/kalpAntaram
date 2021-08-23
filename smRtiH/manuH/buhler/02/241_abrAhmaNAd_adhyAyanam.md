@@ -2,8 +2,4 @@
 title = "241 अब्राह्मणाद् अध्यायनम्"
 
 +++
-
-अब्राह्मणाद् अध्यायनम्  
-आपत्काले विधीयते ।  
-अनुव्रज्या च शुश्रूषा  
-यावद् अध्यायनं गुरोः  ॥ २.२४१ ॥
+241	It is prescribed that in times of distress (a student) may learn (the Veda) from one who is not a Brahmana; and that he shall walk behind and serve (such a) teacher, as long as the instruction lasts.

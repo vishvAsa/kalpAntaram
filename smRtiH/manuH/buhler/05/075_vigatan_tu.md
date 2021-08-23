@@ -2,7 +2,4 @@
 title = "075 विगतन् तु"
 
 +++
-विगतं तु विदेशस्थं  
-शृणुयाद् यो ह्य् अनिर्दशम् ।  
-यच् छेषं दशरात्रस्य  
-तावद् एवाऽशुचिर् भवेत्  ॥ ५.७५ ॥ [७४ मेधातिथिपाठे]
+075	He who may hear that (a relative) residing in a distant country has died, before ten (days after his death have elapsed), shall be impure for the remainder of the period of ten (days and) nights only.

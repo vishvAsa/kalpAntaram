@@ -2,7 +2,4 @@
 title = "149 न ब्राह्मणम्"
 
 +++
-न ब्राह्मणं परीक्षेत  
-दैवे कर्मणि धर्मवित् ।  
-पित्र्ये कर्मणि तु प्राप्ते  
-परीक्षेत प्रयत्नतः  ॥ ३.१४९ ॥ [१३९ मेधातिथिपाठे]+++(5)+++
+149	For a rite sacred to the gods, he who knows the law will not make (too close) inquiries regarding an (invited) Brahmana; but when one performs a ceremony in honour of the manes, one must carefully examine (the qualities and parentage of the guest).

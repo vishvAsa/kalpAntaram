@@ -2,7 +2,4 @@
 title = "100 अप्सु भूमिवद्"
 
 +++
-अप्सु भूमिवद् इत्य् आहुः  
-स्त्रीणां भोगे च मैथुने ।  
-अब्जेषु चैव रत्नेषु  
-सर्वेष्व् अश्ममयेषु च  ॥ ८.१०० ॥
+100	'They declare (false evidence) concerning water, concerning the carnal enjoyment of women, and concerning all gems, produced in water, or consisting of stones (to be) equally (wicked) as a lie concerning land.

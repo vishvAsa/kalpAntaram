@@ -2,7 +2,4 @@
 title = "013 प्रतुदाञ् जालपादांश्"
 
 +++
-+++(चञ्चुभिः)+++ प्रतुदाञ् जालपादांश् च  
-कोयष्टि+++(=lapwing)+++--नख-विष्किरान् [मेधातिथिपाठः - प्रतुदान्] ।  
-निमज्जतश् च मत्स्यादान्  
-सौनं+++(=सूनाप्राप्तं)+++ वल्लूरम्+++(=शोषीतमांसम्)+++ एव च  ॥ ५.१३ ॥
+013	Those which feed striking with their beaks, web-footed birds, the Koyashti, those which scratch with their toes, those which dive and live on fish, meat from a slaughter-house and dried meat,

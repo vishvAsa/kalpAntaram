@@ -2,7 +2,4 @@
 title = "110 दिवानुगच्छेद् गास्"
 
 +++
-दिवानुगच्छेद् गास् तास् तु  
-तिष्ठन्न् ऊर्ध्वं रजः पिबेत् ।  
-शुश्रूषित्वा नमस्कृत्य  
-रात्रौ वीरासनं वसेत् [मेधातिथिपाठः - वीरासनो]  ॥ ११.११० ॥ [१०९ मेधातिथिपाठे]
+111	During the day he shall follow the cows and, standing upright, inhale the dust (raised by their hoofs); at night, after serving and worshipping them, he shall remain in the (posture, called) virasana.

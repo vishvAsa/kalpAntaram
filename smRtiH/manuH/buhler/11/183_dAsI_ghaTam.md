@@ -2,7 +2,4 @@
 title = "183 दासी घटम्"
 
 +++
-दासी घटम् अपां पूर्णं  
-पर्यस्येत् प्रेतवत् पदा ।  
-अहोरात्रम् उपासीरन्न्  
-अशौचं बान्धवैः सह  ॥ ११.१८३ ॥ [१८२ मेधातिथिपाठे]
+184	A female slave shall upset with her foot a pot filled with water, as if it were for a dead person; (his Sapindas) as well as the Samanodakas shall be impure for a day and a night;

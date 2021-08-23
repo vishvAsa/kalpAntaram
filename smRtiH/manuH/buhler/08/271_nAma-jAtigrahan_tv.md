@@ -2,7 +2,4 @@
 title = "271 नाम-जातिग्रहन् त्व्"
 
 +++
-नाम-जातिग्रहं त्व् एषाम्  
-अभिद्रोहेण कुर्वतः ।  
-निक्षेप्यो ऽयोमयः शङ्कुर्  
-ज्वलन्न् आस्ये दशाङ्गुलः  ॥ ८.२७१ ॥
+271	If he mentions the names and castes (gati) of the (twice-born) with contumely, an iron nail, ten fingers long, shall be thrust red-hot into his mouth.

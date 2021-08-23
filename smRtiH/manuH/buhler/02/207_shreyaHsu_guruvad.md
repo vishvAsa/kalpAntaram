@@ -2,8 +2,4 @@
 title = "207 श्रेयःसु गुरुवद्"
 
 +++
-
-श्रेयःसु गुरुवद् वृत्तिं  
-नित्यम् एव समाचरेत् ।  
-गुरुपुत्रेषु चार्येषु  
-गुरोश् चैव स्वबन्धुषु [मेधातिथिपाठः - गुरुपुत्रे तथाचार्ये]  ॥ २.२०७ ॥
+207	Towards his betters let him always behave as towards his teacher, likewise towards sons of his teacher, born by wives of equal caste, and towards the teacher's relatives both on the side of the father and of the mother.

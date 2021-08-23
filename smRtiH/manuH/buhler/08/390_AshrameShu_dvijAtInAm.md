@@ -2,7 +2,4 @@
 title = "390 आश्रमेषु द्विजातीनाम्"
 
 +++
-आश्रमेषु द्विजातीनां  
-कार्ये विवदतां मिथः ।  
-न विब्रूयान् नृपो धर्मं  
-चिकीर्षन् हितम् आत्मनः  ॥ ८.३९० ॥
+390	If twice-born men dispute among each other concerning the duty of the orders, a king who desires his own welfare should not (hastily) decide (what is) the law.

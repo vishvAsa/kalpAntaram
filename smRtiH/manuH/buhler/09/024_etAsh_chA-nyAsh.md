@@ -2,7 +2,4 @@
 title = "024 एताश् चाऽन्याश्"
 
 +++
-एताश् चाऽन्याश् च लोके ऽस्मिन्न्  
-अपकृष्टप्रसूतयः [मेधातिथिपाठः - अवकृष्टप्रसूतयः] ।  
-उत्कर्षं योषितः प्राप्ताः  
-स्वैः स्वैर् भर्तृगुणैः शुभैः  ॥ ९.२४ ॥
+024	These and other females of low birth have attained eminence in this world by the respective good qualities of their husbands.

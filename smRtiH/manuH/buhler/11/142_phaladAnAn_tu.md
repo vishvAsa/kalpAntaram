@@ -2,7 +2,4 @@
 title = "142 फलदानान् तु"
 
 +++
-फलदानां तु वृक्षाणां  
-छेदने जप्यम् ऋक्-शतम् ।  
-गुल्म-वल्ली-लतानां च  
-पुष्पितानां च वीरुधाम्  ॥ ११.१४२ ॥ [१४१ मेधातिथिपाठे]
+143	For cutting fruit-trees, shrubs, creepers, lianas, or flowering plants, one hundred Rikas must be muttered.

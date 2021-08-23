@@ -2,7 +2,4 @@
 title = "143 उच्छिष्टेन तु"
 
 +++
-उच्छिष्टेन तु संस्पृष्टो  
-द्रव्य-हस्तः कथं चन ।  
-अनिधायैव तद् द्रव्यम्  
-आचान्तः शुचिताम् इयात्  ॥ ५.१४३ ॥ [१४१ मेधातिथिपाठे]
+143	He who, while carrying anything in any manner, is touched by an impure (person or thing), shall become pure, if he performs an ablution, without putting down that object.

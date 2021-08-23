@@ -2,7 +2,4 @@
 title = "082 प्रेते राजनि"
 
 +++
-प्रेते राजनि स-ज्योतिर्  
-यस्य स्याद् विषये स्थितः ।  
-अश्रोत्रिये त्व् अहः कृत्स्नम्  
-अनूचाने तथा गुरौ [मेधातिथिपाठः - कृत्स्नाम्]  ॥ ५.८२ ॥ [८१ मेधातिथिपाठे]
+082	If the king in whose realm he resides is dead, (he shall be impure) as long as the light (of the sun or stars shines), but for (an intimate friend) who is not a Srotriya (the impurity lasts) for a whole day, likewise for a Guru who knows the Veda and the Angas.

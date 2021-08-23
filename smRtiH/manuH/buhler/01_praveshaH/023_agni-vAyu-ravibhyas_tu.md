@@ -2,8 +2,4 @@
 title = "023 अग्नि-वायु-रविभ्यस् तु"
 
 +++
-
-अग्नि-वायु-रविभ्यस् तु  
-त्रयं ब्रह्म सनातनम् ।  
-दुदोह यज्ञसिद्ध्य्-अर्थम्  
-ऋग्-यजुः-साम-लक्षणम्  ॥ १.२३ ॥
+023	But from fire, wind, and the sun he drew forth the threefold eternal Veda, called Rik, Yagus, and Saman, for the due performance of the sacrifice.
