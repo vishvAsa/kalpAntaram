@@ -995,7 +995,7 @@ iti manuvacanāt | na tu vandhyāvidhavāduhitroḥ svasattayā svajanyasattayā
 
 **	**[[4.2.12]] uktānāṃ tu sarveṣāṃ dauhitraparyantānām abhāve vandhyāvidhavayor api mātṛdhanādhikāritā tayor api tatprajātvāt prajābhāve cānyeṣām adhikārāt |
 
-[[4.2.13]] yat tu duhitṛmātrādhikārārthaṃ gautamavacanam: "strīdhanaṃ duhitṛṇām aprattānām apratiṣṭhitānāṃ ca" [G 28.24] | yac ca nāradasya,
+[[4.2.13]] yat tu duhitṛmātrādhikārārthaṃ gautamavacanam: "strīdhanaṃ duhitṝṇāṃ aprattānām apratiṣṭhitānāṃ ca" [G 28.24] | yac ca nāradasya,
 
 		mātur duhitaro 'bhāve duhitṝṇāṃ tadanvayaḥ | [N 13.2cd]
 
@@ -1025,7 +1025,7 @@ atra pitrā dattam iti viśeṣaṇād vivāhasamayād anyatrāpi yat pitṛdatt
 
 [[4.2.17]] na ca vācyam — nāradādibhir duhitur abhāve duhituḥ putrāṇām eva dhanādhikāro darśitaḥ pratyasannaduhitṛpadenaivānvayapadasyānvayād iti | 
 
-	yato duhitṛpadasyānvayapadasya ca janyaviśeṣaparatvena janakākāṅkṣitatvān na janyāntareṇānvayapadopāttena putreṇānvayaḥ saṃbhavati samatvāt | [[4.2.18]] na cādhiṣṭhānalakṣaṇayānvayo vācyaḥ mātranvayenaiva sarveṣāṃ mukhyatvasaṃbhavāt | mātṛpadānvaye ca duhitṛpadasya mukhyatvasvīkārāt | [[4.2.19]] na ca tadanvaya iti tacchabdopāttāyā duhitur anvayayogyatā vācyā tacchabdasyāpi prakṛtavācitayā duhitṛtvarūpeṇaivopapādakatvāt |
+yato duhitṛpadasyānvayapadasya ca janyaviśeṣaparatvena janakākāṅkṣitatvān na janyāntareṇānvayapadopāttena putreṇānvayaḥ saṃbhavati samatvāt | [[4.2.18]] na cādhiṣṭhānalakṣaṇayānvayo vācyaḥ mātranvayenaiva sarveṣāṃ mukhyatvasaṃbhavāt | mātṛpadānvaye ca duhitṛpadasya mukhyatvasvīkārāt | [[4.2.19]] na ca tadanvaya iti tacchabdopāttāyā duhitur anvayayogyatā vācyā tacchabdasyāpi prakṛtavācitayā duhitṛtvarūpeṇaivopapādakatvāt |
 
 [[4.2.20]] kiṃ ca yājñavalkyavacane duhitara iti padaṃ prathamāntaṃ tābhya iti padaṃ pañcamyantam anvayapadena ṣaṣṭyantānvayayogyena nānvīyate | kiṃ tu vyavahitam api mātur ity eva padam anvayi | tad atra mātur anvaye niścite nārada-kātyāyanavākye 'pi mātur evānvayo nyāyyaḥ avirodhāt |
 
