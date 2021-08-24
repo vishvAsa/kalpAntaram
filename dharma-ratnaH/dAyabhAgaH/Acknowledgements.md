@@ -33,7 +33,7 @@ Typos I have noticed in Rocher's edition; only from chapter 11 onward.
 
 [[11.1.33]]	upakāratvād	>>	upakārakatvād
 
-[[11.1.35]] 	पौत्राधि-		>> 	added stroke after प
+[[11.1.35]] 	पौत्राधि-> >> 	added stroke after प
 
 [[11.1.41]]	ityavaṃ	>> 	ityevaṃ
 
@@ -41,7 +41,7 @@ Typos I have noticed in Rocher's edition; only from chapter 11 onward.
 
 [[11.1.48]]	javinaṃ	>>	jīvanaṃ
 
-[[11.1.59]]	tadānī		>>	tadānīṃ
+[[11.1.59]]	tadānī> >>	tadānīṃ
 
 [[11.1.59]]	evānyapekṣayā >>	evānyāpekṣayā
 
@@ -65,9 +65,9 @@ Typos I have noticed in Rocher's edition; only from chapter 11 onward.
 
 [[11.5.30]]	bādhānāpekṣam	>>	bādhānapekṣam
 
-[[11.5.33]]	arth□		>> 	arthe
+[[11.5.33]]	arth□> >> 	arthe
 
-[[11.6.14]]	artho		>> 	arthā
+[[11.6.14]]	artho> >> 	arthā
 
 [[11.6.17]]	vacyām	>>	vācyam
 
@@ -75,11 +75,11 @@ Typos I have noticed in Rocher's edition; only from chapter 11 onward.
 
 [[11.6.35]]	brahmacārināṃ	>>	brahmacāriṇāṃ
 
-[[12.1]]	jayaiṣṭyaṃ		>>	jyaiṣṭhyaṃ
+[[12.1]]	jayaiṣṭyaṃ> >>	jyaiṣṭhyaṃ
 
 [[13.10]]	-sāmarthyat	>>	-sāmarthyāt
 
-[[14.2]]	teṣe		>>	teṣu
+[[14.2]]	teṣe> >>	teṣu
 
 [[14.4]]	-vibhāgārth⧠	>>	-vibhāgārthe
 
