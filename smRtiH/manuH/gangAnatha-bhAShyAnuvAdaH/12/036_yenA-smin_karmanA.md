@@ -1,5 +1,5 @@
 +++
-title = "036 येनाऽस्मिन् कर्मना"
+title = "036 येनाऽस्मिन् कर्मणा"
 
 +++
 The motive being—‘by doing this act I shall obtain praise in the
