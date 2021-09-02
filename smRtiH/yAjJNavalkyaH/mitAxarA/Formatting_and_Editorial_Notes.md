@@ -8,7 +8,7 @@ title = "Formatting and Editorial Notes"
 *   YDh _mūla_ (root-text)- **BOLD**
 *   Names of authors and texts- RED
 *   Citations from other texts- BLUE
-*   Pūrvapakṣa and Uttarapakṣa- <span style="text-decoration-underline;">underlined</span>
+*   Pūrvapakṣa and Uttarapakṣa- <u>underlined</u>
 *   Introductory comments that precede the _mūla _verses are given in _Italics_.
 *   Words of YDh verse in the commentary are given in bold (but only partially)
 *   There are no hyphens used, unless absolutely necessary for an overly long compound. Lack of hyphens should help with word searches.

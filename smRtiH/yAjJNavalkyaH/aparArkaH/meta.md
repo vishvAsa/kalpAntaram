@@ -28,7 +28,7 @@ Patrick Olivelle
 
 * 	Texts cites- BLUE
 
-* 	Pūrvapakṣa and Uttarapakṣa- <span style="text-decoration-underline;">underlined</span>
+* 	Pūrvapakṣa and Uttarapakṣa- <u>underlined</u>
 
 
 * 	There are no hyphens used, unless absolutely necessary for an overly long compound. Lack of hyphens will help with word searches.
