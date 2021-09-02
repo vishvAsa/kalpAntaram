@@ -3,197 +3,122 @@ title = "०३ विवाह-प्रकरणम्"
 
 +++
 
-गुरवे तु वरं दत्त्वा  
-स्नायाद् वा तद्-अनुज्ञया।  
-वेदं व्रतानि वा पारं  
-नीत्वा ह्य् उभयम् एव वा  ॥ १.५१ ॥
 
-अविप्लुत-ब्रह्म-चर्यो  
-लक्षण्यां स्त्रियम् उद्वहेत्।  
-अनन्य-पूर्विकां कान्ताम्  
-असपिण्डां यवीयसीम्  ॥ १.५२ ॥
 
-अरोगिणीं भ्रातृमतीम्  
-असमानार्ष-गोत्रजान्।  
-पञ्चमात् सप्तमाद् ऊर्ध्वं  
-मातृतः पितृतस् तथा   ॥ १.५३ ॥
 
-दश-पूरुष-विख्याताच्  
-छ्रोत्रियाणां महा-कुलात्।  
-स्फीताद् अपि न सञ्चारि-  
-रोग-दोष-समन्वितात्   ॥ १.५४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/051_gurave_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-एतैर् एव गुणैर् युक्तः  
-सवर्णः श्रोत्रियो वरः।  
-यत्नात् परीक्षितः पुंस्त्वे  
-युवा धीमान् जन-प्रियः  ॥ १.५५ ॥
 
-यद् उच्यते द्विजातीनां  
-शूद्राद् दारोपसङ्ग्रहः।  
-नैतन् मम मतं यस्मात्  
-तत्रायं जायते स्वयम्  ॥ १.५६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/052_aviplutabrahmacharyo_laxaNyAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-तिस्रो वर्णानुपूर्व्येण  
-द्वे तथैका यथा-क्रमम्।  
-ब्राह्मण-क्षत्रिय-विशां  
-भार्या स्वा शूद्र-जन्मनः  ॥ १.५७ ॥
 
-ब्राह्मो विवाह आहूय  
-दीयते शक्त्य्-अलङ्कृता।  
-तज्जः पुनात्य् उभयतः  
-पुरुषान् एकविंशतिम्  ॥ १.५८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/053_arogiNIm_bhrAtRmatIm.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यज्ञस्थ ऋत्विजे दैव  
-आदाय+आर्षस् तु गो-द्वयम्।  
-चतुर्दश प्रथमजः  
-पुनात्य् उत्तरजश् च षट्  ॥ १.५९ ॥
 
-इत्य् उक्त्वा चरतां धर्मं  
-सह या दीयते ऽर्थिने।  
-स कायः पावयेत् तज्जः  
-षट् षड्-वंश्यान् सह+आत्मना  ॥ १.६० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/054_dashapUruShavikhyAtAch_ChrotriyANAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-आसुरो द्रविणादानाद्  
-गान्धर्वः समयान् मिथः।  
-राक्षसो युद्ध-हरणात्  
-पैशाचः कन्यका-छलात्  ॥ १.६१ ॥
 
-पाणिर् ग्राह्यः सवर्णासु  
-गृह्णीयात् क्षत्रिया शरम्।  
-वैश्या प्रतोदम् आदद्याद्  
-वेदने त्व् अग्र-जन्मनः  ॥ १.६२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/055_etair_eva.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पिता पितामहो भ्राता  
-सकुल्यो जननी तथा।  
-कन्या-प्रदः पूर्व-नाशे  
-प्रकृतिस्थः परः परः  ॥ १.६३ ॥
 
-अप्रयच्छन् समाप्नोति  
-भ्रूण-हत्याम् ऋताव् ऋतौ।  
-गम्यं त्व् अभावे दातॄणां  
-कन्या कुर्यात् स्वयंवरम्  ॥ १.६४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/056_yad_uchyate.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सकृत् प्रदीयते कन्या  
-हरंस् तां चोर-दण्ड-भाक्।  
-दत्ताम् अपि हरेत् पूर्वाच्  
-छ्रेयांश् चेद् वर आव्रजेत्  ॥ १.६५ ॥
 
-अनाख्याय ददद् दोषं  
-दण्ड्य उत्तम-साहसम्।  
-अदुष्टां तु त्यजन् दण्ड्यो  
-दूषयंस् तु मृषा शतम्  ॥ १.६६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/057_tisro_varNAnupUrvyeNa.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अक्षता च क्षता चैव  
-पुनर्-भूः संस्कृता पुनः।  
-स्वैरिणी या पतिं हित्वा  
-सवर्णं कामतः श्रयेत्  ॥ १.६७ ॥
 
-अपुत्रां गुर्व्-अनुज्ञातो  
-देवरः पुत्र-काम्यया।  
-सपिण्डो वा सगोत्रो वा  
-घृताभ्यक्त ऋताव् इयात्  ॥ १.६८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/058_brAhmo_vivAha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-आ-गर्भ-सम्भवाद् गच्छेत्  
-पतितस् त्व् अन्यथा भवेत्।  
-अनेन विधिना जातः  
-क्षेत्रजो ऽस्य भवेत् सुतः  ॥ १.६९ ॥
 
-हृताधिकारां मलिनां  
-पिण्ड-मात्रोपजीविनाम्।  
-परिभूताम् अधः-शय्यां  
-वासयेद् व्यभिचारिणीम्  ॥ १.७० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/059_yajnastha_Rtvije.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सोमः शौचं ददाव् आसां  
-गन्धर्वश् च शुभां गिरम्।  
-पावकः सर्व-मेध्यत्वं  
-मेध्या वै योषितो ह्य् अतः  ॥ १.७१ ॥
 
-व्यभिचाराद् ऋतौ शुद्धिर्  
-गर्भे त्यागो विधीयते।  
-गर्भ-भर्तृ-वधादौ च  
-तथा महति पातके  ॥ १.७२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/060_ity_uktvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सुरापी व्याधिता धूर्ता  
-वन्ध्या ऽर्थघ्न्य् अप्रियं-वदा।  
-स्त्री-प्रसूश् चाधिवेत्तव्या  
-पुरुष-द्वेषिणी तथा  ॥ १.७३ ॥
 
-अधिविन्ना तु भर्तव्या  
-महद् एनो ऽन्यथा भवेत्।  
-यत्र+आनुकूल्यं दम्पत्योस्  
-त्रिवर्गस् तत्र वर्धते  ॥ १.७४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/061_Asuro_draviNAdAnAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-मृते जीवति वा पत्यौ  
-या नान्यम् उपगच्छति।  
-सेह कीर्तिम् अवाप्नोति  
-मोदते चोमया सह  ॥ १.७५ ॥
 
-आज्ञा-सम्पादिनीं दक्षां  
-वीरसूं प्रिय-वादिनीम्।  
-त्यजन् दाप्यस् तृतीयांशम्  
-अद्रव्यो भरणं स्त्रियाः  ॥ १.७६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/062_pANir_grAhyaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्त्रीभिर् भर्तृ-वचः कार्यम्  
-एष धर्मः परः स्त्रियाः।  
-आ-शुद्धेः सम्प्रतीक्ष्यो हि  
-महा-पातक-दूषितः  ॥ १.७७ ॥
 
-लोकानन्त्यं दिवः प्राप्तिः  
-पुत्र-पौत्र-प्रपौत्रकैः।  
-यस्मात् तस्मात् स्त्रियः सेव्याः  
-कर्तव्याश् च सु-रक्षिताः  ॥ १.७८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/063_pitA_pitAmaho.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-षोडशर्तु-निशाः स्त्रीणां  
-तस्मिन् युग्मासु संविशेत्।  
-ब्रह्म-चार्य् एव पर्वाण्य्  
-आद्याश् चतस्रस् तु वर्जयेत्  ॥ १.७९ ॥
 
-एवं गच्छन् स्त्रियं क्षामां  
-मघां मूलं च वर्जयेत्।  
-सुस्थ इन्दौ सकृत् पुत्रं  
-लक्षण्यं जनयेत् पुमान्  ॥ १.८० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/064_aprayachChan_samApnoti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यथा-कामी भवेद् वा ऽपि  
-स्त्रीणां वरम् अनुस्मरन्।  
-स्व-दार-निरतश् चैव  
-स्त्रियो रक्ष्या यतः स्मृताः  ॥ १.८१ ॥
 
-भर्तृ-भ्रातृ-पितृ-ज्ञाति-  
-श्वश्रू-श्वशुर-देवरैः।  
-बन्धुभिश् च स्त्रियः पूज्या  
-भूषणाच्छादनाशनैः  ॥ १.८२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/065_sakRt_pradIyate.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-संयतोपस्करा दक्षा  
-हृष्टा व्यय-पराङ्-मुखी।  
-कुर्याच् छ्वशुरयोः पाद-  
-वन्दनं भर्तृ-तत्-परा  ॥ १.८३ ॥
 
-क्रीडां शरीर-संस्कारं  
-समाजोत्सव-दर्शनम्।  
-हास्यं पर-गृहे यानं  
-त्यजेत् प्रोषित-भर्तृका  ॥ १.८४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/066_anAkhyAya_dadad.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-रक्षेत् कन्यां पिता विन्नां  
-पतिः पुत्रास् तु वार्धके।  
-अभावे ज्ञातयस् तेषां  
-न स्वातन्त्र्यं क्वचित् स्त्रियाः  ॥ १.८५ ॥
 
-पितृ-मातृ-सुत-भ्रातृ-  
-श्वश्रू-श्वशुर-मातुलैः।  
-हीना न स्याद् विना भर्त्रा  
-गर्हणीया ऽन्यथा भवेत्  ॥ १.८६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/067_axatA_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पति-प्रिय-हिते युक्ता  
-स्वाचारा विजितेन्द्रिया।  
-सेह कीर्तिम् अवाप्नोति  
-प्रेत्य चानुत्तमां गतिम्  ॥ १.८७ ॥
 
-सत्याम् अन्यां सवर्णायां  
-धर्म-कार्यं न कारयेत्।  
-सवर्णासु विधौ धर्म्ये  
-ज्येष्ठया न विनेतरा  ॥ १.८८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/068_aputrA~N_gurvanujnAto.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-दाहयित्वा ऽग्नि-होत्रेण  
-स्त्रियं वृत्तवतीं पतिः।  
-आहरेद् विधिवद् दारान्  
-अग्नींश् चैवाविलम्बयन्  ॥ १.८९ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/069_AgarbhasambhavAd_gachChet.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/070_hRtAdhikArAm_malinAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/071_somaH_shauchan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/072_vyabhichArAd_Rtau.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/073_surApI_vyAdhitA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/074_adhivinnA_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/075_mRte_jIvati.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/076_AjnAsampAdinIn_daxAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/077_strIbhir_bhartRvachaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/078_lokAnantyan_divaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/079_ShoDashartunishAH_strINAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/080_eva~N_gachChan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/081_yathAkAmI_bhaved.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/082_bhartRbhrAtRpitRjnAti_shvashrUshvashuradevaraiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/083_saMyatopaskarA_daxA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/084_krIDAM_sharIrasaMskAraM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/085_raxet_kanyAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/086_pitRmAtRsutabhrAtR_shvashrUshvashuramAtulaiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/087_patipriyahite_yuktA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/088_satyAm_anyAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/03_vivAha-prakaraNam/089_dAhayitvA.agnihotreNa.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

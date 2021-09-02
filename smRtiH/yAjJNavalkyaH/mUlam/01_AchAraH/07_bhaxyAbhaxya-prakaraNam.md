@@ -3,76 +3,49 @@ title = "०७ भक्ष्याभक्ष्य-प्रकरणम्
 
 +++
 
-अनर्चितं वृथा-मांसं  
-केश-कीट-समन्वितम्।  
-शुक्तं पर्युषितोच्छिष्टं  
-श्व-स्पृष्टं पतितेक्षितम्  ॥ १.१६७ ॥
 
-उदक्या-स्पृष्ट-सङ्घुष्टं  
-पर्यायान्नं च वर्जयेत्।  
-गो-घ्रातं शकुनोच्छिष्टं  
-पदा स्पृष्टं च कामतः  ॥ १.१६८ ॥
 
-अन्नं पर्युषितं भोज्यं  
-स्नेहाक्तं चिर-संस्थितम्।  
-अस्नेहा अपि गो-धूम-  
-यव-गो-रस-विक्रियाः  ॥ १.१६९ ॥
 
-सन्धिन्य्-अनिर्दशा-वत्सा-  
-गो-पयः परिवर्जयेत्।  
-औष्ट्रम् ऐकशफं स्त्रैणम्  
-आरण्यकम् अथाविकम्  ॥ १.१७० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/167_anarchitaM_vRthAmAMsaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-देवतार्थं हविः शिग्रुं  
-लोहितान् व्रश्चनांस् तथा।  
-अनुपाकृत-मांसानि  
-विड्जानि कवकानि च  ॥ १.१७१ ॥
 
-क्रव्याद-पक्षि-दात्यूह-  
-शुक-प्रतुद-टिट्टिभान्।  
-सारसैकशफान् हंसान्  
-सर्वांश् च ग्राम-वासिनः  ॥ १.१७२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/168_udakyAspRShTasanghuShTaM_paryAyAnna~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-कोयष्टि-प्लव-चक्राह्व-  
-बलाका-बक-विष्किरान्।  
-वृथा-कृसर-सम्याव-  
-पायसापूप-शष्कुलीः  ॥ १.१७३ ॥
 
-कलविङ्कं स-काकोलं  
-कुररं रज्जु-दालकम्।  
-जाल-पादान् खञ्जरीटान्  
-अज्ञातांश् च मृग-द्विजान्  ॥ १.१७४ ॥  
-चाषांश् च रक्त-पादांश् च  
-सौनं वल्लूरम् एव च।  
-मत्स्यांश् च कामतो जग्ध्वा  
-सोपवासस् त्र्यहं वसेत्  ॥ १.१७५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/169_annam_paryuShitam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पलाण्डुं विड्-वराहं च  
-छत्राकं ग्राम-कुक्कुटम्।  
-लशुनं गृञ्जनं चैव  
-जग्ध्वा चान्द्रायणं चरेत्  ॥ १.१७६ ॥
 
-भक्ष्याः पञ्च-नखाः  
-सेधा-गोधा-कच्छप-शल्लकाः।  
-शशश् च मत्स्येष्व् अपि हि  
-सिंह-तुण्डक-रोहिताः  ॥ १.१७७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/170_sandhinyanirdashAvatsA_gopayaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-तथा पाठीन-राजीव-  
-सशल्काश् च द्विजातिभिः।  
-अतः शृणुध्वं मांसस्य  
-विधिं भक्षण-वर्जने  ॥ १.१७८ ॥
 
-प्राणात्यये तथा श्राद्धे  
-प्रोक्षिते द्विज-काम्यया।  
-देवान् पितॄन् समभ्यर्च्य  
-खादन् मांसं न दोष-भाक्  ॥ १.१७९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/171_devatArthaM_haviH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-वसेत् स नरके घोरे  
-दिनानि पशु-रोमभिः।  
-सम्मितानि दुराचारो यो  
-हन्त्य् अविधिना पशून्  ॥ १.१८० ॥
 
-सर्वान् कामान् अवाप्नोति  
-हय-मेध-फलं तथा।  
-गृहे ऽपि निवसन् विप्रो  
-मुनिर् मांस-विवर्जनात्  ॥ १.१८१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/172_kravyAdapaxidAtyUha_shukapratudaTiTTibhAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/173_koyaShTiplavachakrAhva_balAkAbakaviShkirAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/174_kalavinkaM_sakAkolaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/175_chAShAMsh_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/176_palANDuM_viDvarAha~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/177_bhaxyAH_panchanakhAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/178_tathA_pAThInarAjIva.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/179_prANAtyaye_tathA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/180_vaset_sa.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/07_bhaxyAbhaxya-prakaraNam/181_sarvAn_kAmAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

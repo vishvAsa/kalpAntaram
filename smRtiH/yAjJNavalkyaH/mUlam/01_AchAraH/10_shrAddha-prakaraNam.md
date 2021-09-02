@@ -3,271 +3,166 @@ title = "१० श्राद्ध-प्रकरणम्"
 
 +++
 
-अमावास्या ऽष्टका वृद्धिः  
-कृष्ण-पक्षो ऽयन-द्वयम्।  
-द्रव्यं ब्राह्मण-सम्पत्तिर्  
-विषुवत् सूर्य-सङ्क्रमः  ॥ १.२१७ ॥
 
-व्यतीपातो गज-च्छाया  
-ग्रहणं चन्द्र-सूर्ययोः।  
-श्राद्धं प्रति रुचिश् चैते  
-श्राद्ध-कालाः प्रकीर्तिताः  ॥ १.२१८ ॥
 
-अग्र्यः सर्वेषु वेदेषु  
-श्रोत्रियो ब्रह्मविद् युवा।  
-वेदार्थविज् ज्येष्ठ-सामा  
-त्रि-मधुस् त्रि-सुपर्णकः  ॥ १.२१९ ॥
 
-स्वस्रीयर्त्विज्-जामातृ-  
-याज्य-श्वशुर-मातुलाः।  
-त्रिणाचिकेत-दौहित्र-  
-शिष्य-सम्बन्धि-बान्धवाः  ॥ १.२२० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/217_amAvAsyA.aShTakA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-कर्म-निष्ठास् तपो-निष्ठाः  
-पञ्चाग्निर् ब्रह्म-चारिणः।  
-पितृ-मातृ-पराश् चैव  
-ब्राह्मणाः श्राद्ध-सम्पदः  ॥ १.२२१ ॥
 
-रोगी हीनातिरिक्ताङ्गः  
-काणः पौनर्भवस् तथा।  
-अवकीर्णी कुण्ड-गोलौ  
-कुनखी श्याव-दन्तकः  ॥ १.२२२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/218_vyatIpAto_gajachChAyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-भृतकाध्यापकः क्लीबः  
-कन्या-दूष्य् अभिशस्तकः।  
-मित्र-ध्रुक् पिशुनः सोम-  
-विक्रयी परिविन्दकः  ॥ १.२२३ ॥
 
-माता-पितृ-गुरु-त्यागी  
-कुण्डाशी वृषलात्मजः।  
-पर-पूर्वा-पतिः स्तेनः  
-कर्म-दुष्टाश् च निन्दिताः  ॥ १.२२४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/219_agryaH_sarveShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-निमन्त्रयेत पूर्वे-द्युर्  
-ब्राह्मणान् आत्मवान् शुचिः।  
-तैश् चापि संयतैर् भाव्यं  
-मनो-वाक्-काय-कर्मभिः  ॥ १.२२५ ॥
 
-अपराह्णे समभ्यर्च्य  
-स्वागतेन+आगतांस् तु तान्।  
-पवित्र-पाणिर् आचान्तान्  
-आसनेषूपवेशयेत्  ॥ १.२२६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/220_svasrIyartvijjAmAtR_yAjyashvashuramAtulAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-युग्मान् दैवे यथा-शक्ति  
-पित्र्ये ऽयुग्मांस् तथैव च।  
-परिस्तृते शुचौ देशे  
-दक्षिणा-प्रवणे तथा  ॥ १.२२७ ॥
 
-द्वौ दैवे प्राक् त्रयः पित्र्य  
-उदग् एकैकम् एव वा।  
-मातामहानाम् अप्य् एवं  
-तन्त्रं वा वैश्वदेविकम्  ॥ १.२२८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/221_karmaniShThAs_taponiShThAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पाणि-प्रक्षालनं दत्त्वा  
-विष्टरार्थं कुशान् अपि।  
-आवाहयेद् अनुज्ञातो  
-विश्वे देवास इत्य् ऋचा  ॥ १.२२९ ॥
 
-यवैर् अन्ववकीर्याथ  
-भाजने स-पवित्रके।  
-शं नो देव्या पयः क्षिप्त्वा  
-यवो ऽसीति यवांस् तथा  ॥ १.२३० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/222_rogI_hInAtiriktAngaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-या दिव्या इति मन्त्रेण  
-हस्तेष्व् अर्घ्यं विनिक्षिपेत्।  
-दत्त्वा उदकं गन्ध-माल्यं  
-धूप-दानं स-दीपकम्   ॥ १.२३१ ॥
 
-तथ +आच्छादन-दानं च  
-कर-शौचार्थम् अम्बु च।  
-अपसव्यं ततः कृत्वा  
-पितॄणाम् अप्रदक्षिणम्  ॥ १.२३२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/223_bhRtakAdhyApakaH_klIbaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-द्वि-गुणांस् तु कुशान् दत्त्वा ह्य्  
-उषन्तस् त्वेत्य् ऋचा पितॄन्।  
-आवाह्य तद्-अनुज्ञातो  
-जपेद् आयन्तु नस् ततः  ॥ १.२३३ ॥
 
-अपहता इति तिलान्  
-विकीर्य च समन्ततः।  
-यवार्थास् तु तिलैः कार्याः  
-कुर्याद् अर्घ्यादि पूर्ववत्  ॥ १.२३४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/224_mAtApitRgurutyAgI_kuNDAshI.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-दत्त्वा अर्घ्यं संस्रवांस् तेषां  
-पात्रे कृत्वा विधानतः।  
-पितृभ्यः स्थानम् असीति  
-न्युब्जं पात्रं करोत्य् अधः  ॥ १.२३५ ॥
 
-अग्नौ करिष्यन्न् आदाय  
-पृच्छत्य् अन्नं घृत-प्लुतम्।  
-कुरुष्वेत्य् अभ्यनुज्ञातो  
-हुत्वा ऽग्नौ पितृ-यज्ञवत्  ॥ १.२३६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/225_nimantrayeta_pUrvedyur.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-हुत-शेषं प्रदद्यात् तु  
-भाजनेषु समाहितः।  
-यथा-लाभोपपन्नेषु  
-रौप्येषु च विशेषतः  ॥ १.२३७ ॥
 
-दत्त्वा ऽन्नं पृथिवी-पात्रम्  
-इति पात्राभिमन्त्रणम्।  
-कृत्वेदं विष्णुर् इत्य् अन्ने  
-द्विजाङ्गुष्ठं निवेशयेत्  ॥ १.२३८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/226_aparAhNe_samabhyarchya.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स-व्याहृतिकां गायत्रीं  
-मधु वाता इति त्र्यृचम्।  
-जप्त्वा यथा-सुखं वाच्यं  
-भुञ्जीरंस् ते ऽपि वाग्-यताः  ॥ १.२३९ ॥
 
-अन्नम् इष्तं हविष्यं च  
-दद्याद् अक्रोधनो ऽत्वरः।  
-आ-तृप्तेस् तु पवित्राणि  
-जप्त्वा पूर्व-जपं तथा  ॥ १.२४० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/227_yugmAn_daive.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अन्नम् आदाय तृप्ताः स्थ  
-शेषं चैवानुमान्य च।  
-तद् अन्नं विकिरेद् भूमौ  
-दद्याच् चापः सकृत् सकृत्  ॥ १.२४१ ॥
 
-सर्वम् अन्नम् उपादाय  
-स-तिलं दक्षिणा-मुखः।  
-उच्छिष्ट-सन्निधौ पिण्डान्  
-दद्याद् वै पितृ-यज्ञवत्  ॥ १.२४२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/228_dvau_daive.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-मातामहानाम् अप्य् एवं  
-दद्याद् आचमनं ततः।  
-स्वस्ति-वाच्यं ततः कुर्याद्  
-अक्षय्योदकम् एव च  ॥ १.२४३ ॥
 
-दत्त्वा तु दक्षिणां शक्त्या  
-स्वधा-कारम् उदाहरेत्।  
-वाच्यताम् इत्य् अनुज्ञातः  
-प्रकृतेभ्यः स्वधोच्यताम्  ॥ १.२४४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/229_pANipraxAlanan_dattvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-ब्रूयुर् अस्तु स्वधेत्य् उक्ते  
-भूमौ सिञ्चेत् ततो जलम् (४)।  
-विश्वे देवाश् च प्रीयन्तां  
-विप्रैश् चोक्त इदं जपेत्  ॥ १.२४५ ॥
 
-दातारो नो ऽभिवर्धन्तां  
-वेदाः सन्ततिर् एव च।  
-श्रद्धा च नो मा व्यगमद्  
-बहु देयं च नो ऽस्त्व् इति  ॥ १.२४६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/230_yavair_anvavakIryAtha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-इत्य् उक्त्वोक्त्वा प्रिया वाचः  
-प्रणिपत्य विसर्जयेत्।  
-वाजे वाज इति प्रीतः  
-पितृ-पूर्वं विसर्जनम्  ॥ १.२४७ ॥
 
-यस्मिंस् तु संस्रवाः पूर्वम्  
-अर्घ्य-पात्रे निवेशिताः।  
-पितृ-पात्रं तद्-उत्तानं  
-कृत्वा विप्रान् विसर्जयेत्  ॥ १.२४८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/231_yA_divyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-प्रदक्षिणम् अनुव्रज्य  
-भुञ्जीत पितृ-सेवितम्।  
-ब्रह्म-चारी भवेत् तां तु  
-रजनीं ब्राह्मणैः सह  ॥ १.२४९ ॥
 
-एवं प्रदक्षिणावृत्को  
-वृद्धौ नान्दी-मुखान् पितॄन्।  
-यजेत दधि कर्कन्धु-  
-मिश्रान् पिण्डान् यवैः क्रियाः  ॥ १.२५० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/232_tatha_AchChAdanadAna~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-एकोद्दिष्टं देव-हीनम्  
-एकार्घ्यैक-पवित्रकम्।  
-आवाहनाग्नौ-करण-  
-रहितं ह्य् अपसव्यवत्  ॥ १.२५१ ॥
 
-उपतिष्ठताम् अक्षय्य-  
-स्थाने विप्र-विसर्जने।  
-अभिरम्यताम् इति वदेद्  
-ब्रूयुस् ते ऽभिरताः स्म ह  ॥ १.२५२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/233_dviguNAMs_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-गन्धोदक-तिलैर् युक्तं  
-कुर्यात् पात्र-चतुष्टयम्।  
-अर्घ्यार्थं पितृ-पात्रेषु  
-प्रेत-पात्रं प्रसेचयेत्  ॥ १.२५३ ॥
 
-ये समाना इति द्वाभ्यां  
-शेषं पूर्ववद् आचरेत्।  
-एतत् सपिण्डी-करणम्  
-एकोद्दिष्टं स्त्रिया अपि  ॥ १.२५४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/234_apahatA_iti.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अर्वाक्-सपिण्डी-करणं  
-यस्य संवत्सराद् भवेत्।  
-तस्याप्य् अन्नं सोद-कुम्भं  
-दद्यात् संवत्सरं द्विजे  ॥ १.२५५ ॥
 
-मृते ऽहनि प्रकर्तव्यं  
-प्रतिमासं तु वत्सरम्।  
-प्रतिसंवत्सरं चैवम्  
-आद्यम् एकादशे ऽहनि  ॥ १.२५६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/235_dattvA_arghyaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पिण्डांस् तु गो-ज-विप्रेभ्यो  
-दद्याद् अग्नौ जले ऽपि वा।  
-प्रक्षिपेत् सत्सु विप्रेषु  
-द्विजोच्छिष्टं न मार्जयेत्  ॥ १.२५७ ॥
 
-हविष्यान्नेन वै मासं  
-पायसेन तु वत्सरम्।  
-मात्स्य-हारिण-कौरभ-  
-शाकुन-च्छाग-पार्षतैः  ॥ १.२५८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/236_agnau_kariShyann.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-ऐण-रौरव-वाराह-  
-शाशैर् मांसैर् यथा-क्रमम्।  
-मास-वृद्ध्या ऽभितृप्यन्ति  
-दत्तैर् इह पितामहाः  ॥ १.२५९ ॥
 
-खड्दामिषं महा-शल्कं  
-मधु मुन्य्-अन्नम् एव वा।  
-लौहामिषं महा-शाकं  
-मांसं वार्ध्रीणसस्य च  ॥ १.२६० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/237_hutasheSham_pradadyAt.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यद् ददाति गयास्थश् च  
-सर्वम् आनन्त्यम् अश्नुते।  
-तथा वर्षा-त्रयोदश्यां  
-मघासु च विशेषतः  ॥ १.२६१ ॥
 
-कन्यां कन्या-वेदिनश् च  
-पशून् वै सत्-सुतान् अपि।  
-द्यूतं कृषिं वाणिज्यां च  
-द्विशफैकशफांस् तथा  ॥ १.२६२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/238_dattvA.annam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-ब्रह्म-वर्चस्विनः पुत्रान्  
-स्वर्ण-रूप्ये स-कुप्यके।  
-ज्ञाति-श्रैष्ठ्यं सर्व-कामान्  
-आप्नोति श्राद्धदः सदा  ॥ १.२६३ ॥
 
-प्रतिपत्-प्रभृतिष्व् एकां  
-वर्जयित्वा चतुर्दशीम्।  
-शस्त्रेण तु हता ये वै  
-तेभ्यस् तत्र प्रदीयते  ॥ १.२६४ ॥  
-स्वर्गं ह्य् अपत्यम् ओजश् च  
-शौर्यं क्षेत्रं बलं तथा।  
-पुत्रं श्रैष्ठ्यं च सौभाग्यं  
-समृद्धिं मुख्यतां शुभम्  ॥ १.२६५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/239_savyAhRtikA~N_gAyatrIM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-प्रवृत्त-चक्रतां चैव  
-वाणिज्य-प्रभृतीन् अपि।  
-अरोगित्वं यशो वीत-  
-शोकतां परमां गतिम्  ॥ १.२६६ ॥
 
-धनं वेदान् भिषक्-सिद्धिं  
-कुप्यं गा अप्य् अजाविकम्।  
-अश्वान् आयुश् च विधिवद्  
-यः श्राद्धं सम्प्रयच्छति  ॥ १.२६७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/240_annam_iShtaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-कृत्तिकादि-भरण्य्-अन्तं  
-स कामान् आप्नुयाद् इमान्।  
-आस्तिकः श्रद्दधानश् च  
-व्यपेत-मद-मत्सरः  ॥ १.२६८ ॥
 
-वसु-रुद्रादिति-सुताः  
-पितरः श्राद्ध-देवताः।  
-प्रीणयन्ति मनुष्याणां  
-पितॄन् श्राद्धेन तर्पिताः  ॥ १.२६९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/241_annam_AdAya.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-आयुः प्रजां धनं विद्यां  
-स्वर्गं मोक्षं सुखानि च।  
-प्रयच्छन्ति तथा राज्यं  
-प्रीता नॄणां पितामहाः  ॥ १.२७० ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/242_sarvam_annam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/243_mAtAmahAnAm_apy.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/244_dattvA_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/245_brUyur_astu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/246_dAtAro_no.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/247_ity_uktvoktvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/248_yasmiMs_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/249_pradaxiNam_anuvrajya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/250_evam_pradaxiNAvRtko.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/251_ekoddiShTan_devahInam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/252_upatiShThatAm_axayya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/253_gandhodakatilair_yuktaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/254_ye_samAnA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/255_arvAksapiNDIkaraNaM_yasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/256_mRte.ahani.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/257_piNDAMs_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/258_haviShyAnnena_vai.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/259_aiNarauravavArAha_shAshair.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/260_khaDdAmiSham_mahAshalkaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/261_yad_dadAti.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/262_kanyA~N_kanyAvedinash.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/263_brahmavarchasvinaH_putrAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/264_pratipatprabhRtiShv_ekAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/265_svargaM_hy.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/266_pravRttachakratA~n_chaiva.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/267_dhanaM_vedAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/268_kRttikAdibharaNyantaM_sa.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/269_vasurudrAditisutAH_pitaraH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/10_shrAddha-prakaraNam/270_AyuH_prajAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

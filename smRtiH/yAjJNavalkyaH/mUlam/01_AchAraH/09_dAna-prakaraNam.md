@@ -3,95 +3,60 @@ title = "०९ दान-प्रकरणम्"
 
 +++
 
-तपस् तप्त्वा ऽसृजद् ब्रह्मा  
-ब्राह्मणान् वेद-गुप्तये।  
-तृप्त्य्-अर्थं पितृ-देवानां  
-धर्म-संरक्षणाय च  ॥ १.१९८ ॥
 
-सर्वस्य प्रभवो विप्राः  
-श्रुताध्ययन-शीलिनः।  
-तेभ्यः क्रिया-पराः श्रेष्ठास्  
-तेभ्यो ऽप्य् अध्यात्मवित्तमाः  ॥ १.१९९ ॥
 
-न विद्यया केवलया  
-तपसा वा ऽपि पात्रता।  
-यत्र वृत्तम् इमे चोभे  
-तद् धि पात्रं प्रकीर्तितम्  ॥ १.२०० ॥
 
-गो-भू-तिल-हिरण्यादि  
-पात्रे दातव्यम् अर्चितम्।  
-नापात्रे विदुषा किञ्चिद्  
-आत्मनः श्रेय इच्छता  ॥ १.२०१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/198_tapas_taptvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-विद्या-तपोभ्यां हीनेन  
-न तु ग्राह्यः प्रतिग्रहः।  
-गृह्णन् प्रदातारम् अधो  
-नयत्य् आत्मानम् एव च  ॥ १.२०२ ॥
 
-दातव्यं प्रत्यहं पात्रे  
-निमित्तेषु विशेषतः।  
-याचितेनापि दातव्यं  
-श्रद्धा-पूतं स्व-शक्तितः  ॥ १.२०३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/199_sarvasya_prabhavo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-हेम-शृङ्गी शफै रौप्यैः  
-सु-शीला वस्त्र-संयुता।  
-स-कांस्य-पात्रा दातव्या  
-क्षीरिणी गौः स-दक्षिणा  ॥ १.२०४ ॥
 
-दाता ऽस्याः स्वर्गम् आप्नोति  
-वत्सरान् रोम-सम्मितान्।  
-कपिला चेत् तारयति  
-भूयश् च+आ-सप्तमं कुलम्  ॥ १.२०५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/200_na_vidyayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सवत्सा-रोम-तुल्यानि  
-युगान्य् उभयतो-मुखीम्।  
-दाता ऽस्याः स्वर्गम् आप्नोति  
-पूर्वेण विधिना ददत्  ॥ १.२०६ ॥
 
-यावद् वत्सस्य पादौ द्वौ  
-मुखं योन्यां च दृश्यते।  
-तावद् गौः पृथिवी ज्ञेया  
-यावद् गर्भं न मुञ्चति  ॥ १.२०७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/201_gobhUtilahiraNyAdi_pAtre.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यथा-कथञ्चिद् दत्त्वा गां  
-धेनुं वा ऽधेनुम् एव वा।  
-अरोगाम् अपरिक्लिष्टां  
-दाता स्वर्गे महीयते  ॥ १.२०८ ॥
 
-श्रान्त-संवाहनं रोगि-  
-परिचर्या सुरार्चनम्।  
-पाद-शौचं द्विजोच्छिष्ट-  
-मार्जनं गो-प्रदानवत्  ॥ १.२०९ ॥  
-भू-दीपांश् चान्न-वस्त्राम्भस्-  
-तिल-सर्पिः-प्रतिश्रयान् (२)।  
-नैवेशिकं स्वर्ण-धुर्यं  
-दत्त्वा स्वर्गे महीयते  ॥ १.२१० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/202_vidyAtapobhyAM_hInena.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-गृह-धान्याभयोपानच्-  
-छत्र-माल्यानुलेपनम्।  
-यानं वृक्षं प्रियं शय्यां  
-दत्त्वा ऽत्यन्तं सुखी भवेत्  ॥ १.२११ ॥
 
-सर्व-धर्म-मयं ब्रह्म  
-प्रदानेभ्यो ऽधिकं यतः।  
-तद् ददत् समवाप्नोति  
-ब्रह्म-लोकम् अविच्युतम्  ॥ १.२१२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/203_dAtavyam_pratyaham.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-प्रतिग्रह-समर्थो ऽपि  
-न+आदत्ते यः प्रतिग्रहम्।  
-ये लोका दान-शीलानां  
-स तान् आप्नोति पुष्कलान्  ॥ १.२१३ ॥
 
-कुशाः शाकं पयो मत्स्या  
-गन्धाः पुष्पं दधि क्षितिः।  
-मांसं शय्य +आसनं धानाः  
-प्रत्याखेयं न वारि च  ॥ १.२१४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/204_hemashRngI_shaphai.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अयाचिताहृतं ग्राह्यम्  
-अपि दुष्कृत-कर्मणः।  
-अन्यत्र कुलटा-षण्ढ-  
-पतितेभ्यस् तथा द्विषः  ॥ १.२१५ ॥  
-देवातिथि-अर्चन-कृते  
-गुरु-भृत्यार्थम् एव वा।  
-सर्वतः प्रतिगृह्णीयाद्  
-आत्म-वृत्त्य्-अर्थम् एव च  ॥ १.२१६ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/205_dAtA.asyAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/206_savatsAromatulyAni_yugAny.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/207_yAvad_vatsasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/208_yathAkathanchid_dattvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/209_shrAntasaMvAhanaM_rogi.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/210_bhUdIpAMsh_chAnnavastrAmbhas.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/211_gRhadhAnyAbhayopAnach_ChatramAlyAnulepanam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/212_sarvadharmamayam_brahma.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/213_pratigrahasamartho.api.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/214_kushAH_shAkam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/215_ayAchitAhRta~N_grAhyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/09_dAna-prakaraNam/216_devAtithiarchanakRte_gurubhRtyArtham.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
