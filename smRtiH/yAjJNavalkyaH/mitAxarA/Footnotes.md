@@ -3,164 +3,165 @@ title = "Footnotes"
 
 +++
 
-[^1]-
-    Setlur- asatv; the additional text given in Setlur and Pāṇḍeya (Chaukhamba).
 
-[^2]-
-    Added verses in ms. ka.- hlādiphenilamūtraś ca guruśukrarṣabhasvaraḥ | pumān syād anyathā pāṇḍuduścikitsyo mukhe bhagaḥ || śubhabījavati kṣetre putrāḥ saṃtānavardhanāḥ | niṣṭhā vivāhamantrāṇāṃ tāsāṃ syāt saptame pade ||
+[^1]:
+     Setlur: asatv; the additional text given in Setlur and Pāṇḍeya (Chaukhamba).
 
-[^3]-
-    NSP ed. tatra
+[^2]:
+     Added verses in ms. ka.: hlādiphenilamūtraś ca guruśukrarṣabhasvaraḥ | pumān syād anyathā pāṇḍuduścikitsyo mukhe bhagaḥ || śubhabījavati kṣetre putrāḥ saṃtānavardhanāḥ | niṣṭhā vivāhamantrāṇāṃ tāsāṃ syāt saptame pade ||
 
-[^4]-
-    NSP ed. dvividhaḥ samo viṣamaś ceti 
+[^3]:
+     NSP ed. tatra
 
-[^5]-
-    om. in Pāṇḍeya Chow. ed.
+[^4]:
+     NSP ed. dvividhaḥ samo viṣamaś ceti 
 
-[^6]-
-    Seltur- aprāvṛtam
+[^5]:
+     om. in Pāṇḍeya Chow. ed.
 
-[^7]-
-    NSP- vivektum 
+[^6]:
+     Seltur: aprāvṛtam
 
-[^8]-
-    Added passage- "sevā śvavṛttir ākhyātā tasmāt tāṃ parivarjayet" iti manusmaraṇāt.
+[^7]:
+     NSP: vivektum 
 
-[^9]-
-    Some mss. omit- samāpya . . . vratasnātakaḥ
+[^8]:
+     Added passage: "sevā śvavṛttir ākhyātā tasmāt tāṃ parivarjayet" iti manusmaraṇāt.
 
-[^10]-
-    NSP ed. omits baudhāyana.
+[^9]:
+     Some mss. omit: samāpya . . . vratasnātakaḥ
 
-[^11]-
-    NSP ed. reads eva
+[^10]:
+     NSP ed. omits baudhāyana.
 
-[^12]-
-    Pāṇḍeya and Setlur read- grastātaviṣayam
+[^11]:
+     NSP ed. reads eva
 
-[^13]-
-    NSP reads yamalasū
+[^12]:
+     Pāṇḍeya and Setlur read: grastātaviṣayam
 
-[^14]-
-    Additional passage in NSP ms. ka- daśakṣārān āha | 
-    tilamuṣkakaśigrūṇāṃ kokilākṣapalāśayoḥ | 
-    kākajaṅghā tathāvajñaciñcāśvathavaṭasya ca || 
-    ebhis tu daśabhiḥ kṣairaiḥ śuddhir bhavati kāṃsyake || 
+[^13]:
+     NSP reads yamalasū
 
-[^15]-
-    Before this, NSP adds- piṇḍapradānam |
+[^14]:
+     Additional passage in NSP ms. ka: daśakṣārān āha | 
+    	tilamuṣkakaśigrūṇāṃ kokilākṣapalāśayoḥ | 
+    	kākajaṅghā tathāvajñaciñcāśvathavaṭasya ca || 
+    	ebhis tu daśabhiḥ kṣairaiḥ śuddhir bhavati kāṃsyake || 
 
-[^16]-
-    Before this, NSP and Pāṇḍeya add- akṣayyodakadānam |
+[^15]:
+     Before this, NSP adds: piṇḍapradānam |
 
-[^17]-
-    Before this NSP and Pāṇḍeya add- svadhāvācanam |
+[^16]:
+     Before this, NSP and Pāṇḍeya add: akṣayyodakadānam |
 
-[^18]-
-    Before this NSP and Pāṇḍeya add- brāhmaṇaprārthanā |
+[^17]:
+     Before this NSP and Pāṇḍeya add: svadhāvācanam |
 
-[^19]-
-    NSP reads- uttiṣṭhantu
+[^18]:
+     Before this NSP and Pāṇḍeya add: brāhmaṇaprārthanā |
 
-[^20]-
-    NSP reads- āsyatām
+[^19]:
+     NSP reads: uttiṣṭhantu
 
-[^21]-
-    Pāṇḍeya and Seltur read- vināyakopasthāne "bhagavan" ity ūhaḥ.
+[^20]:
+     NSP reads: āsyatām
 
-[^22]-
-    Variant- -sāmamayyāṃ
+[^21]:
+     Pāṇḍeya and Seltur read: vināyakopasthāne "bhagavan" ity ūhaḥ.
 
-[^23]-
-    NSP omits ya
+[^22]:
+     Variant: -sāmamayyāṃ
 
-[^24]-
-    Additional verse in some mss- vṛddher vṛddhiś cakravṛddhiḥ pratimāsaṃ tu kālikā | icchākṛtā kāritā syāt kāyikā kāyakarmaṇā ||
+[^23]:
+     NSP omits ya
 
-[^25]-
-    Before api ca, NSP and Pāṇḍeya adds- jānataḥ sākṣyānaṅgīkāre āha |
+[^24]:
+     Additional verse in some mss: vṛddher vṛddhiś cakravṛddhiḥ pratimāsaṃ tu kālikā | icchākṛtā kāritā syāt kāyikā kāyakarmaṇā ||
 
-[^26]-
-    Before kiṃ ca, NSP and Pāṇḍeya add divye sādhāraṇavidhiḥ |
+[^25]:
+     Before api ca, NSP and Pāṇḍeya adds: jānataḥ sākṣyānaṅgīkāre āha |
 
-[^27]-
-    This is NSm 1.24. Not ascribed to Viṣṇu even in the DhKo.
+[^26]:
+     Before kiṃ ca, NSP and Pāṇḍeya add divye sādhāraṇavidhiḥ |
 
-[^28]-
-    Kṛtyakalpataru, Dāna 10.13 (Brick's ed.) ascribed there to Dāna-Bṛhaspati
+[^27]:
+     This is NSm 1.24. Not ascribed to Viṣṇu even in the DhKo.
 
-[^29]-
-    NSP and Pāṇḍeya add here a parenthetical statement, which was probably intended to explain the citation- (niyogam anatikramya yathāniyogaṃ, niyogādhīno yo dharmo devarāc ca sutotpattir ityādiḥ sa no bhavati) | It is omitted in Setlur's edition.
+[^28]:
+     Kṛtyakalpataru, Dāna 10.13 (Brick's ed.) ascribed there to Dāna-Bṛhaspati
 
-[^30]-
-    For this maxim, see Jacob, _A Handful of Popular Maxims _(Bombay 1907), Part I, p. 29.
+[^29]:
+     NSP and Pāṇḍeya add here a parenthetical statement, which was probably intended to explain the citation: (niyogam anatikramya yathāniyogaṃ, niyogādhīno yo dharmo devarāc ca sutotpattir ityādiḥ sa no bhavati) | It is omitted in Setlur's edition.
 
-[^31]-
-    Here NSP and Pāṇḍeya add- gautamaḥ, as if this citation is from the GDh, but it is not. Omitted by Seltur.
+[^30]:
+     For this maxim, see Jacob, _A Handful of Popular Maxims _(Bombay 1907), Part I, p. 29.
 
-[^32]-
-    NSP and several mss (see Seltur, p. 690) read- dvitīyaḥ.
+[^31]:
+     Here NSP and Pāṇḍeya add: gautamaḥ, as if this citation is from the GDh, but it is not. Omitted by Seltur.
 
-[^33]-
-    See previous note.
+[^32]:
+     NSP and several mss (see Seltur, p. 690) read: dvitīyaḥ.
 
-[^34]-
-    NSP reads wrongly- yoīśvareṇa.
+[^33]:
+     See previous note.
 
-[^35]-
-    Pāṇḍeya- tat kim.
+[^34]:
+     NSP reads wrongly: yoīśvareṇa.
 
-[^36]-
-    Pāṇḍeya- -yukte.
+[^35]:
+     Pāṇḍeya: tat kim.
 
-[^37]-
-    NSP reads- caure daṇḍam.
+[^36]:
+     Pāṇḍeya: -yukte.
 
-[^38]-
-    NSP and Pāṇḍeya read- manusmaraṇāt. Probably an error; Setlur gives one ms. with that reading.
+[^37]:
+     NSP reads: caure daṇḍam.
 
-[^39]-
-    NSP and Pāṇḍeya read- jyeṣṭhaḥ; I follow Seltur. The compound is the only grammatical possibility.
+[^38]:
+     NSP and Pāṇḍeya read: manusmaraṇāt. Probably an error; Setlur gives one ms. with that reading.
 
-[^40]-
-    NSP reads- kasya brahmacāry.
+[^39]:
+     NSP and Pāṇḍeya read: jyeṣṭhaḥ; I follow Seltur. The compound is the only grammatical possibility.
 
-[^41]-
-    NSP- liṅgavivakṣitam
+[^40]:
+     NSP reads: kasya brahmacāry.
 
-[^42]-
-    All editions read "manuḥ" here, but the cited text is ascribed to "smṛtyantara" Further, the Mit never simply uses the nominative "manuḥ" to introduce a verse; it is always "āha manuḥ". I think the word here should be "nanu", introducing the pūrvapakṣa, to which a response is given several lines down with "ucyate".
+[^41]:
+     NSP: liṅgavivakṣitam
 
-[^43]-
-    Seltur omits- ca.
+[^42]:
+     All editions read "manuḥ" here, but the cited text is ascribed to "smṛtyantara" Further, the Mit never simply uses the nominative "manuḥ" to introduce a verse; it is always "āha manuḥ". I think the word here should be "nanu", introducing the pūrvapakṣa, to which a response is given several lines down with "ucyate".
 
-[^44]-
-    In NSP and Pāṇḍeya, there is an introductory statement- evaṃ ca tiryaktvād uttīrṇānāṃ mānuṣye rogādilakṣaṇāṇi bhavantīty āha | And "kiṃ ca" is given as part of the commentary. Since this is unusual, I think Seltur is right in taking this as the introduction. He notes that the longer sentence is found only in a single manuscript.
+[^43]:
+     Seltur omits: ca.
 
-[^45]-
-    In place of the actual commentary, NSP mistakenly puts here part of the commentary on 3.213- hīnajātau hemakārākhyāyāṃ pakṣijātau pararatnādyapahārako jāyate | nirjale deśe brahmarākṣaso bhūtaviśeṣo jāyate |
+[^44]:
+     In NSP and Pāṇḍeya, there is an introductory statement: evaṃ ca tiryaktvād uttīrṇānāṃ mānuṣye rogādilakṣaṇāṇi bhavantīty āha | And "kiṃ ca" is given as part of the commentary. Since this is unusual, I think Seltur is right in taking this as the introduction. He notes that the longer sentence is found only in a single manuscript.
 
-[^46]-
-    NSP reads- -ābhyāsād.
+[^45]:
+     In place of the actual commentary, NSP mistakenly puts here part of the commentary on 3.213: hīnajātau hemakārākhyāyāṃ pakṣijātau pararatnādyapahārako jāyate | nirjale deśe brahmarākṣaso bhūtaviśeṣo jāyate |
 
-[^47]-
-    The verse within parentheses is probably an insertion into the GDh passage. But it is given by all three editions.
+[^46]:
+     NSP reads: -ābhyāsād.
 
-[^48]-
-    This endings are given only in NSP and Pāṇḍeya; omitted by Seltur. I have placed them within parentheses. They may have been inserted by the editors of the NSP.
+[^47]:
+     The verse within parentheses is probably an insertion into the GDh passage. But it is given by all three editions.
 
-[^49]-
-    Before this the NSP and Pāṇḍeya adds a passage within parentheses that is found in one ms. It is probably an interpolation- (vikraye yad vrataṃ proktaṃ haraṇe dviguṇaṃ hi tat | surāvikraye somye catuṣṭayaṃ lākṣālavaṇamāṃsamadhvājyatilahomānāṃ cāndrāyaṇatrayaṃ payaḥpāyasāpūpadadhīkṣurasaguḍakhaṇḍādisnehapakvādiṣu parākaḥ | siddhānnavikraye prājāpatyaṃ | panasasya tridinaṃ | kadalīnārikerajambīrabījapūrakanāraṅgānāṃ pādakṛcchraṃ | kastūrikāvikraye gandhānāṃ ca kṛcchraṃ | karpūre 'rdhaṃ hiṃgvādivikraye dinam upavāsaḥ | śuklakṛṣṇapītavastravikraye tridinaṃ | ajānām aindavaṃ | kharāśvatarakarabhāṇāṃ parākaḥ | śunāṃ dviguṇaṃ | ekāhād vedavikraye cāndraṃ | aṅgānāṃ parākaḥ | smṛtīnāṃ kṛcchraṃ | itihāsapurāṇānāṃ sāṃtapanaṃ | rahasyānāṃ kṛcchraṃ | gāthānāṃ śiśirātattvavidyānāṃ pādaṃ |)
+[^48]:
+     This endings are given only in NSP and Pāṇḍeya; omitted by Seltur. I have placed them within parentheses. They may have been inserted by the editors of the NSP.
 
-[^50]-
-    Before this NSP and Pāṇḍeya add a passage within parentheses, which is omitted by Seltur. The passage in question is probably an interpolation- (anulomavyavāye garbhe dviguṇaṃ yadi sā atidūṣitā na pratilomagā bhavati tadaiva | anyajātigamane dvaiguṇyaṃ pratilomadūṣitāsu antyāvasāyistrīṣu ca cāṇḍālīgarbhe yathā gurutalpatvaṃ tathā kiṃcin nyūnaṃ tāratamyaṃ kalpyam | cāṇḍālīgamane vārṣikam | garbhe gurutalpatvaṃ tathaiva jñeyam |)
+[^49]:
+     Before this the NSP and Pāṇḍeya adds a passage within parentheses that is found in one ms. It is probably an interpolation: (vikraye yad vrataṃ proktaṃ haraṇe dviguṇaṃ hi tat | surāvikraye somye catuṣṭayaṃ lākṣālavaṇamāṃsamadhvājyatilahomānāṃ cāndrāyaṇatrayaṃ payaḥpāyasāpūpadadhīkṣurasaguḍakhaṇḍādisnehapakvādiṣu parākaḥ | siddhānnavikraye prājāpatyaṃ | panasasya tridinaṃ | kadalīnārikerajambīrabījapūrakanāraṅgānāṃ pādakṛcchraṃ | kastūrikāvikraye gandhānāṃ ca kṛcchraṃ | karpūre 'rdhaṃ hiṃgvādivikraye dinam upavāsaḥ | śuklakṛṣṇapītavastravikraye tridinaṃ | ajānām aindavaṃ | kharāśvatarakarabhāṇāṃ parākaḥ | śunāṃ dviguṇaṃ | ekāhād vedavikraye cāndraṃ | aṅgānāṃ parākaḥ | smṛtīnāṃ kṛcchraṃ | itihāsapurāṇānāṃ sāṃtapanaṃ | rahasyānāṃ kṛcchraṃ | gāthānāṃ śiśirātattvavidyānāṃ pādaṃ |)
 
-[^51]-
-    NSP reads- manuvacanam.
+[^50]:
+     Before this NSP and Pāṇḍeya add a passage within parentheses, which is omitted by Seltur. The passage in question is probably an interpolation: (anulomavyavāye garbhe dviguṇaṃ yadi sā atidūṣitā na pratilomagā bhavati tadaiva | anyajātigamane dvaiguṇyaṃ pratilomadūṣitāsu antyāvasāyistrīṣu ca cāṇḍālīgarbhe yathā gurutalpatvaṃ tathā kiṃcin nyūnaṃ tāratamyaṃ kalpyam | cāṇḍālīgamane vārṣikam | garbhe gurutalpatvaṃ tathaiva jñeyam |)
 
-[^52]-
-    NSP and Pāṇḍeya add here a passage within parentheses- (citibhraṣṭā tu yā nārī mohādvicalitā kvacit | prājāpatyena śudhyet tu tasmād evāpakarmaṇaḥ || citibhraṣṭā bhartur anugamane āpastambasmaraṇāt kvacid ity uktam |) This is omitted by Seltur.
+[^51]:
+     NSP reads: manuvacanam.
 
-[^53]-
-    NSp and Pāṇḍeya omit- kiṃ ca.
+[^52]:
+     NSP and Pāṇḍeya add here a passage within parentheses: (citibhraṣṭā tu yā nārī mohādvicalitā kvacit | prājāpatyena śudhyet tu tasmād evāpakarmaṇaḥ || citibhraṣṭā bhartur anugamane āpastambasmaraṇāt kvacid ity uktam |) This is omitted by Seltur.
+
+[^53]:
+     NSp and Pāṇḍeya omit: kiṃ ca.
