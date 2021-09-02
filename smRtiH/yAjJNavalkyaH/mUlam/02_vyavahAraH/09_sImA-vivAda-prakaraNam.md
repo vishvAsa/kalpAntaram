@@ -3,46 +3,29 @@ title = "०९ सीमा-विवाद-प्रकरणम्"
 
 +++
 
-सीन्नो विवादे क्षेत्रस्य  
-सामन्ताः स्थविरादयः।  
-गोपाः सीमा-कृषाणा ये  
-सर्वे च वन-गोचराः  ॥ २.१५० ॥
 
-नयेयुर् एते सीमानं  
-स्थलाङ्गार-तुष-द्रुमैः।  
-सेतु-वल्मीक-निन्नास्थि-  
-चैत्याद्यैर् उपलक्षिताम्  ॥ २.१५१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/150_sInno_vivAde.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सामन्ता वा सम-ग्रामाश्  
-चत्वारो ऽष्टौ दशापि वा।  
-रक्त-स्रग्-वसनाः सीमां  
-नयेयुः क्षिति-धारिणः  ॥ २.१५२ ॥  
-अनृते तु पृथग् दण्ड्या  
-राज्ञा मध्यम-साहसम्।  
-अभावे ज्ञातृ-चिह्नानां  
-राजा सीन्नः प्रवर्तिता  ॥ २.१५३ ॥
 
-आरामायतन-ग्राम-  
-निपानोद्यान-वेश्मसु।  
-एष एव विधिर् ज्ञेयो  
-वर्षाम्बु-प्रवहादिषु  ॥ २.१५४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/151_nayeyur_ete.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-मर्यादायाः प्रभेदे च  
-सीमातिक्रमणे तथा।  
-क्षेत्रस्य हरणे दण्डा  
-अधमोत्तम-मध्यमाः  ॥ २.१५५ ॥
 
-न निषेध्यो ऽल्प-बाधस् तु  
-सेतुः कल्याण-कारकः।  
-पर-भूमिं हरन् कूपः  
-स्वल्प-क्षेत्रो-बहूदकः  ॥ २.१५६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/152_sAmantA_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/153_anRte_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्वामिने यो ऽनिवेद्यैव  
-क्षेत्रे सेतुं प्रवर्तयेत्।  
-उत्पन्ने स्वामिनो भोगस्  
-तद्-अभावे मही-पतेः  ॥ २.१५७ ॥
 
-फालाहतम् अपि क्षेत्रं  
-न कुर्याद् यो न कारयेत्।  
-स प्रदाप्यः कृष्ट-फलं  
-क्षेत्रम् अन्येन कारयेत्  ॥ २.१५८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/154_ArAmAyatanagrAma_nipAnodyAnaveshmasu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/155_maryAdAyAH_prabhede.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/156_na_niShedhyo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/157_svAmine_yo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/09_sImA-vivAda-prakaraNam/158_phAlAhatam_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

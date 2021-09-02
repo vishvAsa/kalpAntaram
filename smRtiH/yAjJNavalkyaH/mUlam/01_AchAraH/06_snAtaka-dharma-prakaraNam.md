@@ -6,6 +6,7 @@ title = "०६ स्नातक-धर्म-प्रकरणम्"
 
 
 
+
 <div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/06_snAtaka-dharma-prakaraNam/129_na_svAdhyAyavirodhyartham.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
 

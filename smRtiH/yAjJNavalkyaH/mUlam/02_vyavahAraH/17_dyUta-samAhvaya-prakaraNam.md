@@ -3,27 +3,18 @@ title = "१७ द्यूत-समाह्वय-प्रकरणम्"
 
 +++
 
-ग्लहे शतिक-वृद्धेस् तु  
-सभिकः पञ्चकं शतम्।  
-गृह्णीयाद् धूर्त-कितवाद्  
-इतराद् दशकं शतम्  ॥ २.१९९ ॥
 
-स सम्यक्-पालितो दद्याद्  
-राज्ञे भागं यथा-कृतम्।  
-जितम् उद्ग्राहयेज् जेत्रे  
-दद्यात् सत्यं वचः क्षमी  ॥ २.२०० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/199_glahe_shatikavRddhes.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-प्राप्ते नृपतिना भागे  
-प्रसिद्धे धूर्त-मण्डले।  
-जितं स-सभिके स्थाने  
-दापयेद् अन्यथा न तु  ॥ २.२०१ ॥
 
-द्रष्टारो व्यवहाराणां  
-साक्षिणश् च त एव हि।  
-राज्ञा स-चिह्नं निर्वास्याः  
-कूटाक्षोपधि-देविनः  ॥ २.२०२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/200_sa_samyakpAlito.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-द्यूतम् एक-मुखं कार्यं  
-तस्कर-ज्ञान-कारणात्।  
-एष एव विधिर् ज्ञेयः  
-प्राणि-द्यूते समाह्वये  ॥ २.२०३ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/201_prApte_nRpatinA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/202_draShTAro_vyavahArANAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/17_dyUta-samAhvaya-prakaraNam/203_dyUtam_ekamukha~N.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

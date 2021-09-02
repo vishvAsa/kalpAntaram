@@ -3,37 +3,24 @@ title = "२२ सम्भूय-समुत्थान-प्रकरण�
 
 +++
 
-समवायेन वणिजां  
-लाभार्थं कर्म कुर्वताम्।  
-लाभालाभौ यथा-द्रव्यं  
-यथा वा संविदा कृतौ  ॥ २.२५९ ॥
 
-प्रतिषिद्धम् अनादिष्टं  
-प्रमादाद् यच् च नाशितम्।  
-स तद् दद्याद् विप्लवाच् च  
-रक्षिताद् दशमांश-भाक्  ॥ २.२६० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/259_samavAyena_vaNijAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अर्घ-प्रक्षेपणाद् विंशं  
-भागं शुल्कं नृपो हरेत्।  
-व्यासिद्धं राज-योग्यं च  
-विक्रीतं राज-गामि तत्  ॥ २.२६१ ॥
 
-मिथ्या वदन् परीमाणं  
-शुल्क-स्थानाद् अपासरन्।  
-दाप्यस् त्व् अष्ट-गुणं यश् च  
-स-व्याज-क्रय-विक्रयी  ॥ २.२६२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/260_pratiShiddham_anAdiShTaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-तरिकः स्थलजं शुल्कं  
-गृह्णन् दाप्यः पणान् दश।  
-ब्राह्मण-प्रातिवेश्यानाम्  
-एतद् एवानिमन्त्रणे  ॥ २.२६३ ॥
 
-देशान्तर-गते प्रेते  
-द्रव्यं दायाद-बान्धवाः।  
-ज्ञातयो वा हरेयुस् तद्-  
-आगतास् तैर् विना नृपः  ॥ २.२६४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/261_arghapraxepaNAd_viMshaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-जिह्मं त्यजेयुर् निर्लाभम्  
-अशक्तो ऽन्येन कारयेत्।  
-अनेन विधिर् आख्यात  
-ऋत्विक्-कर्षक-कर्मिणाम्  ॥ २.२६५ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/262_mithyA_vadan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/263_tarikaH_sthalajaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/264_deshAntaragate_prete.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/22_sambhUya-samutthAna-prakaraNam/265_jihman_tyajeyur.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

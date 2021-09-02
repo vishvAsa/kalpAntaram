@@ -6,6 +6,7 @@ title = "०१ उपोद्घात-प्रकरणम्"
 
 
 
+
 <div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/01_upodghAta-prakaraNam/001_yogIshvaraM_yAjnavalkyaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
 

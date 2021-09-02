@@ -3,27 +3,18 @@ title = "२१ विक्रीयासम्प्रदान-प्रक
 
 +++
 
-गृहीत-मूल्यं यः पण्यं  
-क्रेतुर् नैव प्रयच्छति।  
-सोदयं तस्य दाप्यो ऽसौ  
-दिग्-लाभं वा दिग्-आगते  ॥ २.२५४ ॥
 
-विक्रीतम् अपि विक्रेयं  
-पूर्व-क्रेतर्य् अगृह्णति।  
-हानिश् चेत् क्रेतृ-दोषेण  
-क्रेतुर् एव हि सा भवेत्  ॥ २.२५५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/254_gRhItamUlyaM_yaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-राज-दैवोपघातेन  
-पण्ये दोषम् उपागते।  
-हानिर् विक्रेतुर् एवासौ  
-याचितस्याप्रयच्छतः  ॥ २.२५६ ॥
 
-अन्य-हस्ते च विक्रीय  
-दुष्टं वा ऽदुष्टवद् यदि।  
-विक्रीणीते दमस् तत्र  
-मूल्यात् तु द्वि-गुणो भवेत्  ॥ २.२५७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/255_vikrItam_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-क्षयं वृद्धिं च वणिजा  
-पण्यानाम् अविजानता।  
-क्रीत्वा नानुशयः कार्यः  
-कुर्वन् षड्-भाग-दण्ड-भाक्  ॥ २.२५८ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/256_rAjadaivopaghAtena_paNye.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/257_anyahaste_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/21_vikrIyAsampradAna-prakaraNam/258_xayaM_vRddhi~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

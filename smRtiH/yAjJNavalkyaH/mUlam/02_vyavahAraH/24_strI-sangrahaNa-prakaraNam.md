@@ -3,61 +3,38 @@ title = "२४ स्त्री-सङ्ग्रहण-प्रकरण�
 
 +++
 
-पुमान् सङ्ग्रहणे ग्राह्यः  
-केशा-केशि पर-स्त्रिया।  
-सद्यो वा कामजैश् चिह्नैः  
-प्रतिपत्तौ द्वयोस् तथा  ॥ २.२८३ ॥
 
-नीवी-स्तन-प्रावरण-  
-सक्थि-केशावमर्शनम्।  
-अदेश-काल-सम्भाषं  
-सहैकासनम् एव च  ॥ २.२८४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/283_pumAn_sangrahaNe.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्त्री निषेधे शतं दद्याद्  
-द्वि-शतं तु दमं पुमान्।  
-प्रतिषेधे तयोर् दण्डो  
-यथा सङ्ग्रहणे तथा  ॥ २.२८५ ॥
 
-सजाताव् उत्तमो दण्ड  
-आनुलोम्ये तु मध्यमः।  
-प्रातिलोम्ये वधः पुंसो  
-नार्याः कर्णादि-कर्तनम्  ॥ २.२८६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/284_nIvIstanaprAvaraNa_sakthikeshAvamarshanam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अलङ्कृतां हरन् कन्याम्  
-उत्तमं ह्य् अन्यथा ऽधमम्।  
-दण्डं दद्यात् सवर्णासु  
-प्रातिलोम्ये वधः स्मृतः  ॥ २.२८७ ॥
 
-स-कामास्व् अनुलोमासु न  
-दोषस् त्व् अन्यथा दमः।  
-दूषणे तु कर-च्छेद  
-उत्तमायां वधस् तथा  ॥ २.२८८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/285_strI_niShedhe.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-शतं स्त्री-दूषणे दद्याद्  
-द्वे तु मिथ्याभिशंसने।  
-पशून् गच्छन् शतं दाप्यो  
-हीनां स्त्रीं गां च मध्यमम्  ॥ २.२८९ ॥  
-अवरुद्धासु दासीसु  
-भुजिष्यासु तथैव च।  
-गम्यास्व् अपि पुमान् दाप्यः  
-पञ्चाशत् पणिकं दमम्  ॥ २.२९० ॥
 
-प्रसह्य दास्य्-अभिगमे  
-दण्डो दश-पणः स्मृतः।  
-बहूनां यद्य् अकामा ऽसौ  
-चतुर्विंशतिकः पृथक्  ॥ २.२९१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/286_sajAtAv_uttamo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-गृहीत-वेतना वेश्या  
-नेच्छन्ती द्वि-गुणं वहेत्।  
-अगृहीते समं दाप्यः  
-पुमान् अप्य् एवम् एव हि  ॥ २.२९२ ॥
 
-अयोनौ गच्छतो योषां  
-पुरुषं वा ऽभिमेहतः।  
-चतुर्विंशतिको दण्डस्  
-तथा प्रव्रजिता-गमे  ॥ २.२९३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/287_alankRtAM_haran.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अन्त्याभिगमने त्व् अङ्क्यह्[अङ्क्य?]  
-कुबन्धेन प्रवासयेत्।  
-शूद्रस् तथा ऽन्त्य एव स्याद्  
-अन्त्यस्य+आर्या-गमे वधः  ॥ २.२९४ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/288_sakAmAsv_anulomAsu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/289_shataM_strIdUShaNe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/290_avaruddhAsu_dAsIsu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/291_prasahya_dAsyabhigame.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/292_gRhItavetanA_veshyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/293_ayonau_gachChato.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/24_strI-sangrahaNa-prakaraNam/294_antyAbhigamane_tv.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

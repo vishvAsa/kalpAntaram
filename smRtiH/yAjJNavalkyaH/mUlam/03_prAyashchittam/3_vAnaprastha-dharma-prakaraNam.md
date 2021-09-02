@@ -3,57 +3,36 @@ title = "३ वानप्रस्थ-धर्म-प्रकरणम्"
 
 +++
 
-सुत-विन्यस्त-पत्नीकस्  
-तया वा ऽनुगतो वनम्।  
-वानप्रस्थो ब्रह्म-चारी  
-साग्निः सोपासनो व्रजेत्  ॥ ३.४५ ॥
 
-अफाल-कृष्तेनाग्नींश् च  
-पितॄन् देवातिथीन् अपि।  
-भृत्यांश् च तर्पयेत् श्मश्रु-  
-जटा-लोम-भृद् आत्मवान्  ॥ ३.४६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/045_sutavinyastapatnIkas_tayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अह्नो मासस्य षण्णां वा  
-तथा संवत्सरस्य वा।  
-अर्थस्य सञ्चयं कुर्यात्  
-कृतम् आश्वयुजे त्यजेत्  ॥ ३.४७ ॥
 
-दान्तस् त्रिषवण-स्नायी  
-निवृत्तश् च प्रतिग्रहात्।  
-स्वाध्यायवान् दान-शीलः  
-सर्व-सत्त्व-हिते रतः  ॥ ३.४८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/046_aphAlakRShtenAgnIMsh_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-दन्तोलूखलिकः काल-  
-पक्वाशी वा ऽश्म-कुट्टकः।  
-श्रौत्रं स्मार्तं फल-स्नेहैः  
-कर्म कुर्यात् तथा क्रियाः  ॥ ३.४९ ॥
 
-चान्द्रायणैर् नयेत् कालं  
-कृच्छ्रैर् वा वर्तयेत् सदा।  
-पक्षे गते वा ऽप्य् अश्नीयान्  
-मासे वा ऽहनि वा गते  ॥ ३.५० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/047_ahno_mAsasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्वप्याद् भूमौ शुची रात्रौ  
-दिवा सम्प्रपदैर् नयेत्।  
-स्थानासन-विहारैर् वा  
-योगाभ्यासेन वा तथा  ॥ ३.५१ ॥
 
-ग्रीष्मे पञ्चाग्नि-मध्यस्थो  
-वर्षासु स्थण्डिले-शयः।  
-आर्द्र-वासास् तु हेमन्ते  
-शक्त्या वा ऽपि तपश् चरेत्  ॥ ३.५२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/048_dAntas_triShavaNasnAyI.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यः कण्टकैर् वितुदति  
-चन्दनैर् यश् च लिम्पति।  
-अक्रुद्धो ऽपरितुष्टश् च  
-समस्तस्य च तस्य च  ॥ ३.५३ ॥
 
-अग्नीन् वा ऽप्य् आत्मसात्-कृत्वा  
-वृक्षावासो मिताशनः।  
-वानप्रस्थ-गृहेष्व् एव  
-यात्रार्थं भैक्षम् आचरेत्  ॥ ३.५४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/049_dantolUkhalikaH_kAla.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-ग्रामाद् आहृत्य वा ग्रासान्  
-अष्टौ भुञ्जीत वाग्-यतः।  
-वायु-भक्षः प्राग्-उदीचीं  
-गच्छेद् व +आवर्ष्म-सङ्क्षयात्  ॥ ३.५५ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/050_chAndrAyaNair_nayet.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/051_svapyAd_bhUmau.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/052_grIShme_panchAgnimadhyastho.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/053_yaH_kaNTakair.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/054_agnIn_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/3_vAnaprastha-dharma-prakaraNam/055_grAmAd_AhRtya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

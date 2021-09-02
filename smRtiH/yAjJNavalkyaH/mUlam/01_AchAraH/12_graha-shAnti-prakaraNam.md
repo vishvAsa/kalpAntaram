@@ -5,6 +5,7 @@ title = "१२ ग्रह-शान्ति-प्रकरणम्"
 
 
 
+
 <div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/12_graha-shAnti-prakaraNam/295_shrIkAmaH_shAntikAmo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
 

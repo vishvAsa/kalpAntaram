@@ -3,651 +3,386 @@ title = "५ प्रायश्चित्त-प्रकरणम्"
 
 +++
 
-महा-पातकजान् घोरान्  
-नरकान् प्राप्य दारुणान्।  
-कर्म-क्षयात् प्रजायन्ते  
-महा-पातकिनस् त्व् इह  ॥ ३.२०६ ॥
-
-मृगाश्व[?]-सूकरोष्ट्राणां  
-ब्रह्महा योनिम् ऋच्छति।  
-खर-पुल्कस-वेनानां  
-सुरापो नात्र संशयः  ॥ ३.२०७ ॥
-
-कृमि-कीट-पतङ्गत्वं  
-स्वर्ण-हारी समाप्नुयात्।  
-तृण-गुल्म-लतात्वं च  
-क्रमशो गुरु-तल्पगः  ॥ ३.२०८ ॥
-
-ब्रह्महा क्षय-रोगी स्यात्  
-सुरापः श्याव-दन्तकः।  
-हेम-हारी तु कुनखी  
-दुश्चर्मा गुरु-तल्पगः  ॥ ३.२०९ ॥
-
-यो येन संवसत्य् एषां  
-स तल्-लिङ्गो ऽभिजायते।  
-अन्न-हर्त +आम-यावी स्यान्  
-मूको वाग्-अपहारकः  ॥ ३.२१० ॥
-
-धान्य-मिश्रो ऽतिरिक्ताञ्गः  
-पिशुनः पूति-नासिकः।  
-तैल-हृत् तैल-पायी स्यात्  
-पूति-वक्त्रस् तु सूचकः  ॥ ३.२११ ॥
-
-परस्य योषितं हृत्वा  
-ब्रह्म-स्वम् अपहृत्य च।  
-अरण्ये निर्जले देशे  
-भवति ब्रह्म-राक्षसः  ॥ ३.२१२ ॥
-
-हीन-जातौ प्रजायेत  
-पर-रत्नापहारकः।  
-पत्र-शाकं शिखी हत्वा  
-गन्धान् छुच्छुन्दरी शुभान्  ॥ ३.२१३ ॥
-
-मूषको धान्य-हारी स्याद्  
-यानम् उष्ट्रः कपिः फलम्।  
-जलं प्लवः पयः काको  
-गृह-कारी ह्य् उपस्करम्  ॥ ३.२१४ ॥
-
-मधु दंशः पलं गृध्रो  
-गां गोधा ऽग्निं बकस् तथा।  
-श्वित्री वस्त्रं श्वा रसं तु  
-चीरी लवण-हारकः  ॥ ३.२१५ ॥
-
-प्रदर्शनार्थम् एतत् तु  
-मयोक्तं स्तेय-कर्मणि।  
-द्रव्य-प्रकारा हि यथा  
-तथैव प्राणि-जातयः  ॥ ३.२१६ ॥
-
-यथा-कर्म फलं प्राप्य  
-तिर्यक्त्वं काल-पर्ययात्।  
-जायन्ते लक्षण-भ्रष्टा  
-दरिद्राः पुरुषाधमाः  ॥ ३.२१७ ॥
-
-ततो निष्कल्मषी-भूताः  
-कुले महति भोगिनः।  
-जायन्ते विद्ययोपेता  
-धन-धान्य-समन्विताः  ॥ ३.२१८ ॥
-
-विहितस्याननुष्ठानान्  
-निन्दितस्य च सेवनात्।  
-अनिग्रहाच् चेन्द्रियाणां  
-नरः पतनम् ऋच्छति  ॥ ३.२१९ ॥
-
-तस्मात् तेनेह कर्तव्यं  
-प्रायश्चित्तं विशुद्धये।  
-एवम् अस्यान्तर्-आत्मा च  
-लोकश् चैव प्रसीदति  ॥ ३.२२० ॥
-
-प्रायश्चित्तम् अकुर्वाणाः  
-पापेषु निरता नराः।  
-अपश्चात्-तापिनः कष्टान्  
-नरकान् यान्ति दारुणान्  ॥ ३.२२१ ॥
-
-तामिस्रं लोह-शङ्कुं च  
-महा-निरय-शाल्मली।  
-रौरवं कुड्मलं पूति-  
-मृत्तिकं काल-सूत्रकम्  ॥ ३.२२२ ॥
-
-सङ्घातं लोहितोदं च  
-स-विषं सम्प्रपातनम्।  
-महा-नरक-काकोलं  
-सञ्जीवन-महा-पथम्  ॥ ३.२२३ ॥
-
-अवीचिम् अन्ध-तामिस्रं  
-कुम्भी-पाकं तथैव च।  
-असि-पत्र-वनं चैव  
-तापनं चैकविंशकम्  ॥ ३.२२४ ॥
-
-महा-पातकजैर् घोरैर्  
-उपपातकजैस् तथा।  
-अन्विता यान्त्य् अचरित-  
-प्रायश्चित्ता नराधमाः  ॥ ३.२२५ ॥
-
-प्रायश्चित्तैर् अपैत्य् एनो  
-यद् अज्ञान-कृतं भवेत्।  
-कामतो व्यवहार्यस् तु  
-वचनाद् इह जायते  ॥ ३.२२६ ॥
-
-ब्रह्महा मद्यपः स्तेनस्  
-तथैव गुरु-तल्पगः।  
-एते महा-पातकिनो  
-यश् च तैः सह संवसेत्  ॥ ३.२२७ ॥
-
-गुरूणाम् अध्यधिक्षेपो  
-वेद-निन्दा सुहृद्-वधः।  
-ब्रह्म-हत्या-समं ज्ञेयम्  
-अधीतस्य च नाशनम्  ॥ ३.२२८ ॥
-
-निषिद्ध-भक्षणं जैह्म्यम्  
-उत्कर्षे च वचो ऽनृतम्।  
-रजस्वला-मुखास्वादः  
-सुरा-पान-समानि तु  ॥ ३.२२९ ॥
-
-अश्व-रत्न-मनुष्य-स्त्री-  
-भू-धेनु-हरणं तथा।  
-निक्षेपस्य च सर्वं हि  
-सुवर्ण-स्तेय-सम्मितम्  ॥ ३.२३० ॥
-
-सखि-भार्या-कुमारीषु  
-स्व-योनिष्व् अन्त्यजासु च।  
-स-गोत्रासु सु-तन्त्रीषु  
-गुरु-तल्प-समं स्मृतम्  ॥ ३.२३१ ॥
-
-पितुः स्वसारं मातुश् च  
-मतुलानीं स्नुषाम् अपि।  
-मातुः सपत्नीं भगिनीम्  
-आचार्य-तनयां तथा  ॥ ३.२३२ ॥
-
-आचार्य-पत्नीं स्व-सुतां  
-गच्छंस् तु गुरु-तल्पगः।  
-लिङ्गं छित्त्वा वधस्  
-तस्य स-कामायाः स्त्रिया अपि  ॥ ३.२३३ ॥
-
-गो-वधो व्रात्यता स्तेयम्  
-ऋणानां चानपाक्रिया।  
-अनाहिताग्निता ऽपण्य-  
-विक्रयः परिदेवनम्  ॥ ३.२३४ ॥
-
-भृताद् अध्ययनादानं  
-भृतकाध्यापनं तथा।  
-पारदार्यं पारिवित्त्यं  
-वार्धुष्यं लवण-क्रिया  ॥ ३.२३५ ॥
-
-स्त्री-शूद्र-विट्-क्षत्र-वधो  
-निन्दितार्थोपजीवनम्।  
-नास्तिक्यं व्रत-लोपश् च  
-सुतानां चैव विक्रयः  ॥ ३.२३६ ॥
-
-धान्य-कुप्य-पशु-स्तेयम्  
-अयाज्यानां च याजनम्।  
-पितृ-मातृ-सुत-त्यागस्  
-तडागाराम-विक्रयः  ॥ ३.२३७ ॥
-
-कन्या-सन्दूषणं चैव  
-परिविन्दक-याजनम्।  
-कन्या-प्रदानं तस्यैव  
-कौटिल्यं व्रत-लोपनम्  ॥ ३.२३८ ॥
-
-आत्मनो ऽर्थे क्रियारम्भो  
-मद्यप-स्त्री-निषेवणम्।  
-स्वाध्यायाग्नि-सुत-त्यागो  
-बान्धव-त्याग एव च  ॥ ३.२३९ ॥
-
-इन्धनार्थं द्रुम-छेदः  
-स्त्री-हिंसा ऽउषध-जीवनम्।  
-हिंस्र-यन्त्र-विधानं च  
-व्यसनान्य् आत्म-विक्रयः  ॥ ३.२४० ॥
-
-शूद्र-प्रेष्यं हीन-सख्यं  
-हीन-योनि-निषेवणम्।  
-तथैवानाश्रमे वासः  
-परान्न-परिपुष्टता  ॥ ३.२४१ ॥
-
-असच्-छास्त्राधिगमनम्  
-आकरेष्व् अधिकारिता।  
-भार्याया विक्रयश् चैषाम्  
-एकैकम् उपपातकम्  ॥ ३.२४२ ॥
-
-शिरः-कपाली ध्वजवान्  
-भिक्षाशी कर्म वेदयन्।  
-ब्रह्महा द्वादशाब्दानि  
-मित-भुक् शुद्धिम् आप्नुयात्  ॥ ३.२४३ ॥
-
-ब्राह्मणस्य परित्राणाद्  
-गवां द्वादशकस्य च।  
-तथा ऽश्वमेधावभृथ-  
-स्नानाद् वा शुद्धिम् आप्नुयात्  ॥ ३.२४४ ॥
-
-दीर्घ-तीव्रामय-ग्रस्तं  
-ब्राह्मणं गाम् अथापि वा।  
-दृष्ट्वा पथि निरातङ्कं  
-कृत्वा तु ब्रह्महा शुचिः  ॥ ३.२४५ ॥
-
-आनीय विप्र-सर्वस्वं  
-हृतं घातित एव वा।  
-तन्-निमित्तं क्षतः शस्त्रैर्  
-जीवन्न् अपि विशुध्यति  ॥ ३.२४६ ॥
-
-लोमभ्यः स्वाहेत्य् एवं हि  
-लोम-प्रभृति वै तनुम्।  
-मज्जान्तां जुहुयाद् वा ऽपि  
-मन्त्रैर् एभिर् यथा-क्रमम्  ॥ ३.२४७ ॥
-
-सङ्ग्रामे वा हतो लक्ष्य-  
-भूतः शुद्धिम् अवाप्नुयात्।  
-मृत-कल्पः प्रहारार्तो  
-जीवन्न् अपि विशुध्यति  ॥ ३.२४८ ॥
-
-अरण्ये नियतो जप्त्वा  
-त्रिर् वै वेदस्य संहिताम्।  
-शुध्येत वा मिताशित्वात्  
-प्रतिस्रोतः सरस्वतीम्  ॥ ३.२४९ ॥
-
-पात्रे धनं वा पर्याप्तं  
-दत्त्वा शुद्धिम् अवाप्नुयात्।  
-आदातुश् च विशुद्ध्य्-अर्थम्  
-इष्टैर् वैश्वानरी स्मृता  ॥ ३.२५० ॥
-
-यागस्थ-क्षत्र-विड्-घाती  
-चरेद् ब्रह्महणि व्रतम्।  
-गर्भहा च यथा-वर्णं  
-तथ +आत्रेयी-निषूदकः  ॥ ३.२५१ ॥
-
-चरेद् व्रतम् अहत्वा ऽपि  
-घातार्थं चेत् समागतः।  
-द्वि-गुणं सवनस्थे तु  
-ब्राह्मणे व्रतम् आदिशेत्  ॥ ३.२५२ ॥
-
-सुराम्बु-घृत-गो-मूत्र-  
-पयसाम् अग्नि-सन्निभम्।  
-सुरापो ऽन्यतमं पीत्वा  
-मरणाच् छुद्धिम् ऋच्छति  ॥ ३.२५३ ॥
-
-वाल-वासा जटी वा ऽपि  
-ब्रह्म-हत्या-व्रतं चरेत्।  
-पिण्याकं वा कणान् वा ऽपि  
-भक्षयेत् त्रि-समा निशि  ॥ ३.२५४ ॥
-
-अज्ञानात् तु सुरां पीत्वा  
-रेतो विण्-मूत्रम् एव च।  
-पुनः संस्कारम् अर्हन्ति  
-त्रयो वर्णा द्विजातयः  ॥ ३.२५५ ॥
-
-पति-लोकं न सा याति  
-ब्राह्मणी या सुरां पिबेत्।  
-इहैव सा शुनी गृध्री  
-सूकरी चोपजायते  ॥ ३.२५६ ॥  
-ब्राह्मण-स्वर्ण-हारी तु  
-राज्ञे मुसलम् अर्पयेत्।  
-स्व-कर्म व्याख्यायंस् तेन  
-हतो मुक्तो ऽपि वा-शुचिः  ॥ ३.२५७ ॥
-
-अनिवेद्य नृपे शुध्येत्  
-सुराप-व्रतम् आचरन्।  
-आत्म-तुल्यं सुवर्णं वा  
-दद्याद् वा विप्र-तुष्टि-कृत्  ॥ ३.२५८ ॥
-
-तप्ते ऽयः-शयने सार्धम्  
-आयस्या योषिता स्वपेत्।  
-गृहीत्वोत्कृत्य[उत्कृत्त्य] वृषणौ  
-नैरृत्यां चोत्सृजेत् तनुम्  ॥ ३.२५९ ॥
-
-प्राजापत्यं चरेत् कृच्छ्रं  
-समा वा गुरु-तल्पगः।  
-चान्द्रायणं वा त्रीन् मासान्  
-अभ्यसेद् वेद-संहिताम्  ॥ ३.२६० ॥
-
-एभिस् तु संवसेद् यो वै  
-वत्सरं सो ऽपि तत्-समः।  
-कन्यां समुद्वहेद् एषां  
-सोपवासाम् अकिञ्चनाम्   ॥ ३.२६१ ॥
-
-चान्द्रायणं चरेत् सर्वान्  
-अवकृष्टान् निहत्य तु।  
-शूद्रो ऽधिकार-हीनो-पि  
-कालेनानेन शुध्यति  ॥ ३.२६२ ॥
-
-पञ्च-गव्यं पिबेद् गोघ्नो  
-मासम् आसीत संयतः।  
-गोष्ठे-शयो गो-नुगामी  
-गो-प्रदानेन शुध्यति  ॥ ३.२६३ ॥  
-कृच्छ्रं चैवातिकृच्छ्रं च  
-चरेद् वा ऽपि समाहितः।  
-दद्यात् त्रि-रात्रं चोपोष्य  
-वृषभैकादशास् तु गाः  ॥ ३.२६४ ॥
-
-उपपातक-शुद्धिः स्याद्  
-एवं चान्द्रायणेन वा।  
-पयसा वा ऽपि मासेन  
-पराकेणाथ वा पुनः  ॥ ३.२६५ ॥
-
-ऋषभैकसहस्रा गा  
-दद्यात् क्षत्र-वधे पुमान्।  
-ब्रह्म-हत्या-व्रतं वा ऽपि  
-वत्सर-त्रितयं चरेत्  ॥ ३.२६६ ॥
-
-वैश्य-हा ऽब्दं चरेद् एतद्  
-दद्याद् वैकशतं गवाम्।  
-षण्-मासाच् छूद्रहा ऽप्य् एतद्  
-धेनुर् दद्याद् दशाथ वा  ॥ ३.२६७ ॥
-
-दुर्वृत्त-ब्रह्म-विट्-क्षत्र-  
-शूद्र-योषाः प्रमाप्य तु।  
-दृतिं धनुर् बस्तम् अविं  
-क्रमाद् दद्याद् विशुद्धये  ॥ ३.२६८ ॥
-
-अप्रदुष्टां स्त्रियं हत्वा  
-शूद्र-हत्या-व्रतं चरेत्।  
-अस्थिमतां सहस्रं तु  
-तथा ऽनस्थिमताम् अनः  ॥ ३.२६९ ॥
-
-मार्जार-गोधा-नकुल-  
-मण्डूकांश् च पतत्रिणः।  
-हत्वा त्र्यहं पिबेत् क्षीरं  
-कृच्छ्रं वा पादिकं चरेत्  ॥ ३.२७० ॥
-
-गजे नील-वृषाः पञ्च  
-शुके वत्सो द्वि-हायनः।  
-खराज-मेषेषु वृषो  
-देयः क्रौञ्चे त्रि-हायनः  ॥ ३.२७१ ॥
-
-हंस-श्येन-कपि-क्रव्याज्  
-जल-स्थल-शिखण्डिनः।  
-भासं च हत्वा दद्याद् गाम्  
-अक्रव्यादस् तु वत्सिकाम्  ॥ ३.२७२ ॥
-
-उरगेष्व् आयसो दण्डः  
-पण्डके त्रपु सीसकम्।  
-कोले घृत-घटो देय  
-उष्ट्रे गुञ्जा हये ऽंशुकम्  ॥ ३.२७३ ॥
-
-तित्तिरौ तु तिल-द्रोणं  
-गजादीनाम् अशक्नुवन्।  
-दानं दातुं चरेत् कृच्छ्रम्  
-एकैकस्य विशुद्धये  ॥ ३.२७४ ॥
-
-फल-पुष्पान्न-रसज-  
-सत्त्व-घाते घृताशनम्।  
-किञ्चित् सास्थि-वधे देयं  
-प्राणायामस् त्व् अनस्थिके   ॥ ३.२७५ ॥  
-वृक्ष-गुल्म-लता-वीरु-  
-च्छेदने जप्यम् ऋक्-शतम्।  
-स्याद् ओषधि-वृथा-छेदे  
-क्षीराशी गो-नुगो दिनम्  ॥ ३.२७६ ॥
-
-पुंश्चली-वानर-खरैर्  
-दष्ट[दष्टः?]-श्वोष्ट्रादि-वायसैः।  
-प्राणायामं जले कृत्वा  
-घृतं प्राश्य विशुध्यति  ॥ ३.२७७ ॥
-
-यन् मे ऽद्य रेत इत्य्-आभ्यां  
-स्कन्नं रेतो ऽभिमन्त्रयेत्।  
-स्तनान्तरं भ्रुवोर् मध्यं  
-तेनानामिकया स्पृशेत्  ॥ ३.२७८ ॥
-
-मयि तेज इति छायां  
-स्वां दृष्ट्वा ऽम्बु-गतां जपेत्।  
-सावित्रीम् अशुचौ दृष्टे  
-चापल्ये चानृते ऽपि च  ॥ ३.२७९ ॥
-
-अवकीर्णी भवेद् गत्वा  
-ब्रह्म-चारी तु योषितम्।  
-गर्दभं पशुम् आलभ्य  
-नैरृतं स विशुध्यति  ॥ ३.२८० ॥
-
-भैक्षाग्नि-कार्ये त्यक्त्वा तु  
-सप्त-रात्रम् अनातुरः।  
-कामावकीर्ण इत्य् आभ्यां  
-जुहुयाद् आहुति-द्वयम्  ॥ ३.२८१ ॥
-
-उपस्थानं ततः कुर्यात्  
-सं मा सिञ्चन्त्व् अनेन तु।  
-मधु-मांसाशने कार्यः  
-कृच्छ्रः शेष-व्रतानि च  ॥ ३.२८२ ॥
-
-प्रतिकूलं गुरोः कृत्वा  
-प्रसाद्यैव विशुध्यति।  
-कृच्छ्र-त्रयं गुरुः कुर्यान्  
-म्रियते प्रहितो यदि   ॥ ३.२८३ ॥
-
-क्रियमाणोपकारे तु  
-मृते विप्रे न पातकम्।  
-विपाके गो-वृषाणां तु  
-भेषजाग्नि-क्रियासु च  ॥ ३.२८३: ॥
-
-मिथ्याभिशंसिनो दोषो  
-द्विः समो भूत-वादिनः।  
-मिथ्याभिशस्त-दोषं च  
-समादत्ते मृषा वदन्  ॥ ३.२८४ ॥
-
-महा-पापोपपापाभ्यां यो  
-ऽभिशंसेन् मृषा परम्।  
-अब्-भक्षो मासम् आसीत  
-स जापी नियतेन्द्रियः  ॥ ३.२८५ ॥
-
-अभिशस्तो मृषा कृच्छ्रं  
-चरेद् आग्नेयम् एव वा।  
-निर्वपेत् तु पुरोडाशं  
-वायव्यं पशुम् एव वा  ॥ ३.२८६ ॥
-
-अनियुक्तो भ्रातृ-जायां  
-गच्छंश् चान्द्रायणं चरेत्।  
-त्रि-रात्रान्ते घृतं प्राश्य  
-गत्वोदक्यां विशुध्यति  ॥ ३.२८७ ॥
-
-त्रीन् कृच्छ्रान् आचरेद् व्रात्य-  
-याजको ऽभिचरन्न् अपि।  
-वेद-प्लावी यवाश्य् अब्दं  
-त्यक्त्वा च शरणागतम्  ॥ ३.२८८ ॥
-
-गोष्ठे वसन् ब्रह्म-चारी  
-मासम् एकं पयो-व्रतम्।  
-गायत्री-जप्य-निरतः  
-शुध्यते ऽसत्-प्रतिग्रहात्  ॥ ३.२८९ ॥
-
-प्राणायामी जले स्नात्वा  
-खर-यानोष्ट्र-यान-गः।  
-नग्नः स्नात्वा च भुक्त्वा च  
-गत्वा चैव दिवा स्त्रियम्  ॥ ३.२९० ॥
-
-गुरुं हुं-कृत्य त्वं-कृत्य  
-विप्रं निर्जित्य वादतः।  
-बद्ध्वा वा वाससा क्षिप्रं  
-प्रसाद्योपवसेद् दिनम्  ॥ ३.२९१ ॥
-
-विप्र-दण्डोद्यमे कृच्छ्रस् त्व्  
-अति-कृच्छ्रो निपातने।  
-कृच्छ्राति-कृच्छ्रो ऽसृक्-पाते  
-कृच्छ्रो ऽभ्यन्तर-शोणिते  ॥ ३.२९२ ॥
-
-देशं कालं वयः शक्तिं  
-पापं चावेक्ष्य यत्नतः।  
-प्रायश्चित्तं प्रकल्प्यं स्याद्  
-यत्र चोक्ता न निष्कृतिः  ॥ ३.२९३ ॥  
-दाषी-कुम्भं बहिर्-ग्रामान्  
-निनयेरन् स्व-बान्धवाः।  
-पतितस्य बहिः कुर्युः  
-सर्व-कार्येषु चैव तम्  ॥ ३.२९४ ॥
-
-चरित-व्रत आयाते  
-निनयेरन् नवं घटम्।  
-जुगुप्सेरन् न चाप्य् एनं  
-संवसेयुश् च सर्वशः  ॥ ३.२९५ ॥
-
-पतितानाम् एष एव  
-विधिः स्त्रीणां प्रकीर्तितः।  
-वासो गृहान्तके देयम्  
-अन्नं वासः स-रक्षणम्  ॥ ३.२९६ ॥
-
-नीचाभिगमनं गर्भ-  
-पातनं भर्तृ-हिंसनम्।  
-विशेष-पतनीयानि  
-स्त्रीमाम् एतान्य् अपि ध्रुवम्  ॥ ३.२९७ ॥
-
-शरणागत-बाल-स्त्री-  
-हिंसकान् संवसेन् न तु।  
-चीर्ण-व्रतान् अपि सतः  
-कृत-घ्न-सहितान् इमान्  ॥ ३.२९८ ॥
-
-घटे ऽपवर्जिते ज्ञाति-  
-मध्यस्थो यवसं गवाम्।  
-स दद्यात् प्रथमं गोभिः  
-सत्कृतस्य हि सत्क्रिया  ॥ ३.२९९ ॥
-
-विख्यात-दोषः कुर्वीत  
-पर्षदो ऽनुमतं व्रतम्।
-
-[रहस्य-प्रायश्चित्तम्]
-
-अनभिख्यात-दोषस् तु  
-रहस्यं व्रतम् आचरेत्  ॥ ३.३०० ॥
-
-त्रि-रात्रोपोषितो जप्त्वा  
-ब्रह्महा त्व् अघ-मर्षणम्।  
-अन्तर्-जले विशुध्येत  
-दत्त्वा गां च पयस्विनाम्  ॥ ३.३०१ ॥
-
-लोमभ्यः स्वाहेत्य् अथ वा  
-दिवसं मारुताशनः।  
-जले स्थित्वा ऽभिजुहुयाच्  
-चत्वारिंशद्-घृताहुतीः  ॥ ३.३०२ ॥
-
-त्रि-रात्रोपोषितो हुत्वा  
-कूष्माण्डीभिर् घृतं शुचिः।  
-ब्राह्मण-स्वर्ण-हारी तु  
-रुद्र-जापी जले स्थितः   ॥ ३.३०३ ॥
-
-सहस्र-शीर्षा-जापी तु  
-मुच्यते गुरु-तल्पगः।  
-गौर् देया कर्मणो ऽस्यान्ते  
-पृथग् एभिः पयस्विनी  ॥ ३.३०४ ॥
-
-प्राणायाम-शतं कार्यं  
-सर्व-पापापनुत्तये।  
-उपपातक-जातानाम्  
-अनादिष्टस्य चैव हि  ॥ ३.३०५ ॥
-
-ॐ-काराभिष्टुतं सोम-  
-सलिलं पावनं पिबेत्।  
-कृत्वा हि रेतो-विण्-मूत्र-  
-प्राशनं तु द्विजोत्तमः  ॥ ३.३०६ ॥
-
-निशायां वा दिवा वा ऽपि  
-यद् अज्ञान-कृतं भवेत्।  
-त्रैकाल्य-सन्ध्या-करणात्  
-तत् सर्वं विप्रणश्यति  ॥ ३.३०७ ॥
-
-शुक्रियारण्यक-जपो  
-गायत्र्याश् च विशेषतः।  
-सर्व-पाप-हरा ह्य् एते  
-रुद्रैकादशिनी तथा  ॥ ३.३०८ ॥
-
-यत्र यत्र च सङ्कीर्णम्  
-आत्मानं मन्यते द्विजः।  
-तत्र तत्र तिलैर् होमो  
-गायत्र्या वाचनं तथा  ॥ ३.३०९ ॥
-
-वेदाभ्यास-रतं क्षान्तं  
-पञ्च-यज्ञ-क्रिया-परम्।  
-न स्पृशन्तीह पापानि  
-महा-पातकजान्य् अपि  ॥ ३.३१० ॥
-
-वायु-भक्षो दिवा तिष्ठन्  
-रात्रिं नीत्वा ऽप्सु सूर्य-दृक्।  
-जप्त्वा सहस्रं गायत्र्याः  
-शुध्येद् ब्रह्म-वधाद् ऋते  ॥ ३.३११ ॥
-
-ब्रह्मचर्यं दया क्षान्तिर्  
-दानं सत्यम् अकल्कता।  
-अहिंसा स्तेय-माधुर्ये  
-दमश् चेति यमाः स्मृताः  ॥ ३.३१२ ॥
-
-स्नानं मौनोपवासेज्या-  
-स्वाध्यायोपस्थ-निग्रहाः।  
-नियमा गुरु-शुश्रूषा  
-शौचाक्रोधाप्रमादता  ॥ ३.३१३ ॥
-
-गो-मूत्रं गो-मयं क्षीरं  
-दधि सर्पिः कुशोदकम्।  
-जग्ध्वा परे ऽह्न्य् उपवसेत्  
-कृच्छ्रं सान्तपनं चरेत्  ॥ ३.३१४ ॥
-
-पृथक्-सान्तपन-द्रव्यैः  
-षड्-अहः सोपवासकः।  
-सप्ताहेन तु कृच्छ्रो ऽयं  
-महा-सान्तपनः स्मृतः  ॥ ३.३१५ ॥
-
-पर्णोदुम्बर-राजीव-  
-बिल्व-पत्र-कुशोदकैः।  
-प्रत्येकं प्रत्यहं पीतैः  
-पर्ण-कृच्छ्र उदाहृतः  ॥ ३.३१६ ॥
-
-तप्त-क्षीर-घृताम्बूनाम्  
-एकैकं प्रत्यहं पिबेत्।  
-एक-रात्रोपवासश् च  
-तप्त-कृच्छ्र उदाहृतः  ॥ ३.३१७ ॥
-
-एक-भक्तेन नक्तेन  
-तथैवायाचितेन च।  
-उपवासेन चैवायं  
-पाद-कृच्छ्रः प्रकीर्तितः  ॥ ३.३१८ ॥
-
-यथा-कथञ्चित् त्रि-गुणः  
-प्राजापत्यो ऽयम् उच्यते।  
-अयम् एवाति-कृच्छ्रः स्यात्  
-पाणि-पूरान्न-भोजनः   ॥ ३.३१९ ॥
-
-कृच्छ्राति-कृच्छ्रः पयसा  
-दिवसा ऽनेकविंशतिम्।  
-द्वादशाहोपवासेन  
-पराकः परिकीर्तितः   ॥ ३.३२० ॥
-
-पिण्याकाचाम-तक्राम्बु-  
-सक्तूनां प्रतिवासरम्।  
-एक-रात्रोपवासश् च  
-कृच्छ्रः सौम्यो ऽयम् उच्यते  ॥ ३.३२१ ॥
-
-एषां त्रि-रात्रम् अभ्यासाद्  
-एकैकस्य यथा-क्रमम्।  
-तुला-पुरुष इत्य् एष  
-ज्ञेयः पञ्चदशाहिकः  ॥ ३.३२२ ॥
-
-तिथि-वृद्ध्या चरेत् पिण्डान्  
-शुक्ले शिख्य्-अण्ड-सम्मितान्।  
-एकैकं ह्रासयेत् कृष्ने  
-पिण्डं चान्द्रायणं चरन्  ॥ ३.३२३ ॥
-
-यथा-कथञ्चित् पिण्डानां  
-चत्वारिंशच् छत-द्वयम्।  
-मासेनैवोपभुञ्जीत  
-चान्द्रायणम् अथापरम्  ॥ ३.३२४ ॥
-
-कुर्यात् त्रिषवण-स्नायी  
-कृच्छ्रं चान्द्रायणं तथा।  
-पवित्राणि जपेत् पिण्डान्  
-गायत्र्या चाभिमन्त्रयेत्  ॥ ३.३२५ ॥
-
-अनादिष्टेषु पापेषु  
-शुद्धिश् चान्द्रायणेन च।  
-धर्मार्थं यश् चरेद् एतच्  
-चन्द्रस्यैति स-लोकताम्  ॥ ३.३२६ ॥
-
-कृच्छ्र-कृद् धर्म-कामस् तु  
-महतीं श्रियम् आप्नुयात्।  
-यथा गुरु-क्रतु-फलं  
-प्राप्नोति सु-समाहितः  ॥ ३.३२७ ॥
-
-श्रुत्वैतान् ऋषयो धर्मान्  
-याज्ञवल्क्येन भाषितान्।  
-इदम् ऊचुर् महात्मानं  
-योगीन्द्रम् अमितौजसम्  ॥ ३.३२८ ॥
-
-य इदं धारयिष्यन्ति  
-धर्म-शास्त्रम् अतन्द्रिताः।  
-इह लोके यशः प्राप्य  
-ते यास्यन्ति त्रि-विष्टपम्  ॥ ३.३२९ ॥
-
-विद्यार्थी प्राप्नुयाद् विद्यां  
-धन-कामो धनं तथा।  
-आयुष्-कामस् तथैव+आयुः  
-श्री-कामो महतीं श्रियम्  ॥ ३.३३० ॥
-
-श्लोक-त्रयम् अपि ह्य् अस्माद्  
-यः श्राद्धे श्रावयिष्यति।  
-पितॄणां तस्य तृप्तिः स्याद्  
-अक्षय्या नात्र संशयः  ॥ ३.३३१ ॥
-
-ब्राह्मणः पात्रतां याति  
-क्षत्रियो विजयी भवेत्।  
-वैश्यश् च धान्य-धनवान्  
-अस्य शास्त्रस्य धारणात्  ॥ ३.३३२ ॥
-
-य इदं श्रावयेद् विद्वान्  
-द्विजान् पर्वसु पर्वसु।  
-अश्व-मेध-फलं तस्य  
-तद् भवान् अनुमन्यताम्  ॥ ३.३३३ ॥
-
-श्रुत्वैतद् याज्ञवक्ल्यो ऽपि  
-प्रीतात्मा मुनि-भाषितम्।  
-एवम् अस्त्व् इति होवाच  
-नमस्-कृत्य स्वयम्भुवे  ॥ ३.३३४ ॥  
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/206_mahApAtakajAn_ghorAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/207_mRgAshvasUkaroShTrANAM_brahmahA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/208_kRmikITapatangatvaM_svarNahArI.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/209_brahmahA_xayarogI.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/210_yo_yena.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/211_dhAnyamishro.atiriktA~ngaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/212_parasya_yoShitaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/213_hInajAtau_prajAyeta.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/214_mUShako_dhAnyahArI.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/215_madhu_daMshaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/216_pradarshanArtham_etat.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/217_yathAkarma_phalam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/218_tato_niShkalmaShIbhUtAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/219_vihitasyAnanuShThAnAn_ninditasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/220_tasmAt_teneha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/221_prAyashchittam_akurvANAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/222_tAmisraM_lohashanku~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/223_sanghAtaM_lohitoda~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/224_avIchim_andhatAmisraM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/225_mahApAtakajair_ghorair.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/226_prAyashchittair_apaity.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/227_brahmahA_madyapaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/228_gurUNAm_adhyadhixepo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/229_niShiddhabhaxaNa~n_jaihmyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/230_ashvaratnamanuShyastrI_bhUdhenuharaNan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/231_sakhibhAryAkumArIShu_svayoniShv.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/232_pituH_svasAram.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/233_AchAryapatnIM_svasutAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/234_govadho_vrAtyatA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/235_bhRtAd_adhyayanAdAnaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/236_strIshUdraviTxatravadho_ninditArthopajIvanam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/237_dhAnyakupyapashusteyam_ayAjyAnA~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/238_kanyAsandUShaNa~n_chaiva.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/239_Atmano.arthe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/240_indhanArthan_drumaChedaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/241_shUdrapreShyaM_hInasakhyaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/242_asachChAstrAdhigamanam_AkareShv.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/243_shiraHkapAlI_dhvajavAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/244_brAhmaNasya_paritrANAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/245_dIrghatIvrAmayagrastaM_brAhmaNa~N.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/246_AnIya_viprasarvasvaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/247_lomabhyaH_svAhety.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/248_sangrAme_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/249_araNye_niyato.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/250_pAtre_dhanaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/251_yAgasthaxatraviDghAtI_chared.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/252_chared_vratam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/253_surAmbughRtagomUtra_payasAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/254_vAlavAsA_jaTI.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/255_ajnAnAt_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/256_patilokan_na.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/257_brAhmaNasvarNahArI_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/258_anivedya_nRpe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/259_tapte.ayaHshayane.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/260_prAjApatya~n_charet.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/261_ebhis_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/262_chAndrAyaNa~n_charet.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/263_panchagavyam_pibed.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/264_kRchChra~n_chaivAtikRchChra~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/265_upapAtakashuddhiH_syAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/266_RShabhaikasahasrA_gA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/267_vaishyahA.abda~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/268_durvRttabrahmaviTxatra_shUdrayoShAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/269_apraduShTAM_striyaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/270_mArjAragodhAnakula_maNDUkAMsh.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/271_gaje_nIlavRShAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/272_haMsashyenakapikravyAj_jalasthalashikhaNDinaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/273_urageShv_Ayaso.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/274_tittirau_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/275_phalapuShpAnnarasaja_sattvaghAte.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/276_vRxagulmalatAvIru_chChedane.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/277_puMshchalIvAnarakharair_daShTadaShTaHshvoShTrAdivAyasaiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/278_yan_me.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/279_mayi_teja.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/280_avakIrNI_bhaved.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/281_bhaixAgnikArye_tyaktvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/282_upasthAnan_tataH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/283_pratikUla~N_guroH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/283_kriyamANopakAre_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/285_mahApApopapApAbhyAM_yo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/286_abhishasto_mRShA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/287_aniyukto_bhrAtRjAyAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/288_trIn_kRchChrAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/289_goShThe_vasan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/290_prANAyAmI_jale.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/291_guruM_hunkRtya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/292_vipradaNDodyame_kRchChras.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/293_desha~N_kAlaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/294_dAShIkumbham_bahirgrAmAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/295_charitavrata_AyAte.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/296_patitAnAm_eSha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/297_nIchAbhigamana~N_garbha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/298_sharaNAgatabAlastrI_hiMsakAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/299_ghaTe.apavarjite.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/300_vikhyAtadoShaH_kurvIta.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/301_trirAtropoShito_japtvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/302_lomabhyaH_svAhety.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/303_trirAtropoShito_hutvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/304_sahasrashIrShAjApI_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/305_prANAyAmashata~N_kAryaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/306_OMkArAbhiShTutaM_soma.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/307_nishAyAM_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/308_shukriyAraNyakajapo_gAyatryAsh.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/309_yatra_yatra.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/310_vedAbhyAsarata~N_xAntaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/311_vAyubhaxo_divA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/312_brahmacharyan_dayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/313_snAnam_maunopavAsejyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/314_gomUtra~N_gomaya~N.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/315_pRthaksAntapanadravyaiH_ShaDahaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/316_parNodumbararAjIva_bilvapatrakushodakaiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/317_taptaxIraghRtAmbUnAm_ekaikam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/318_ekabhaktena_naktena.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/319_yathAkathanchit_triguNaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/320_kRchChrAtikRchChraH_payasA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/321_piNyAkAchAmatakrAmbu_saktUnAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/322_eShAn_trirAtram.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/323_tithivRddhyA_charet.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/324_yathAkathanchit_piNDAnAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/325_kuryAt_triShavaNasnAyI.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/326_anAdiShTeShu_pApeShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/327_kRchChrakRd_dharmakAmas.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/328_shrutvaitAn_RShayo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/329_ya_idan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/330_vidyArthI_prApnuyAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/331_shlokatrayam_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/332_brAhmaNaH_pAtratAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/333_ya_idaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/03_prAyashchittam/5_prAyashchitta-prakaraNam/334_shrutvaitad_yAjnavaklyo.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  

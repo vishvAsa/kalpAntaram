@@ -2,42 +2,27 @@
 title = "१८ वाक्-पारुष्य-प्रकरणम्"
 
 +++
-सत्यासत्यान्यथा-स्तोत्रैर्  
-न्यूनाङ्गेन्द्रिय-रोगिणाम्(८३)।  
-क्षेपं करोति चेद् दण्ड्यः  
-पणान् अर्ध-त्रयोदशान्  ॥ २.२०४ ॥
 
-अभिगन्ता ऽस्मि भगिनीं  
-मातरं वा तवेति ह।  
-शपन्तं दापयेद् राजा  
-पञ्च-विंशतिकं दमम्  ॥ २.२०५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/204_satyAsatyAnyathAstotrair_nyUnAngendriyarogiNAm83.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अर्धो ऽधर्मेषु द्वि-गुणः  
-पर-स्त्रीषूत्तमेषु च।  
-दण्ड-प्रणयनं कार्यं  
-वर्ण-जात्य्-उत्तराधरैः  ॥ २.२०६ ॥
 
-प्रातिलोम्यापवादेषु  
-द्वि-गुण-त्रि-गुणा दमाः।  
-वर्णानाम् आनुलोम्येन  
-तस्माद् अर्धार्ध-हानितः  ॥ २.२०७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/205_abhigantA.asmi.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-बाहु-ग्रीवा-नेत्र-सक्थि-  
-विनाशे वाचिके दमः।  
-सत्यस् तद्-अर्धिकः पाद-  
-नासा-कर्ण-करादिषु  ॥ २.२०८ ॥
 
-अशक्तस् तु वदन्न् एवं  
-दण्डनीयः पणान् दश।  
-तथा शक्तः प्रतिभुवं  
-दाप्यः क्षेमाय तस्य तु  ॥ २.२०९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/206_ardho.adharmeShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पतनीय-कृते क्षेपे  
-दण्डो मध्यम-साहसः।  
-उपपातक-युक्ते तु  
-दाप्यः प्रथम-साहसम्  ॥ २.२१० ॥
 
-त्रैविद्य-नृप-देवानां  
-क्षेप उत्तम-साहसः।  
-मध्यमो जाति-पूगानां  
-प्रथमो ग्राम-देशयोः  ॥ २.२११ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/207_prAtilomyApavAdeShu_dviguNatriguNA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/208_bAhugrIvAnetrasakthi_vinAshe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/209_ashaktas_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/210_patanIyakRte_xepe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/18_vAk-pAruShya-prakaraNam/211_traividyanRpadevAnAM_xepa.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

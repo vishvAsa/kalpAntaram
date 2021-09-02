@@ -3,87 +3,54 @@ title = "२३ स्तेय-प्रकरणम्"
 
 +++
 
-ग्राहकैर् गृह्यते चौरो  
-लोप्त्रेणाथ पदेन वा।  
-पूर्व-कर्मापराधी च  
-तथा चाशुद्ध-वासकः  ॥ २.२६६ ॥
 
-अन्ये ऽपि शङ्कया ग्राह्या  
-जाति-नामादि-निह्नवैः।  
-द्यूत-स्त्री-पान-सक्ताश् च  
-शुष्क-भिन्न-मुख-स्वराः  ॥ २.२६७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/266_grAhakair_gRhyate.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पर-द्रव्य-गृहाणां च  
-पृच्छका गूढ-चारिणः।  
-निराया व्ययवन्तश् च  
-विनष्ट-द्रव्य-विक्रयाः  ॥ २.२६८ ॥
 
-गृहीतः शङ्कया चौर्ये  
-न+आत्मानं चेद् विशोधयेत्।  
-दापयित्वा हृतं द्रव्यं  
-चौर-दण्डेन दण्डयेत्  ॥ २.२६९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/267_anye.api.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-चौरं प्रदाप्यापहृतं  
-घातयेद् विविधैर् वधैः।  
-स-चिह्नं ब्राह्मणं कृत्वा  
-स्व-राष्ट्राद् विप्रवासयेत्  ॥ २.२७० ॥
 
-घातिते ऽपहृते दोषो  
-ग्राम-भर्तुर् अनिर्गते।  
-विवीत-भर्तुस् तु पथि  
-चौरोद्धर्तुर् अवीतके  ॥ २.२७१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/268_paradravyagRhANA~n_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्व-सीन्नि दद्याद् ग्रामस् तु  
-पदं वा यत्र गच्छति।  
-पञ्च-ग्रामी बहिः क्रोशाद्  
-दश-ग्राम्य् अथ वा पुनः  ॥ २.२७२ ॥
 
-बन्दि-ग्राहांस् तथा वाजि-  
-कुञ्जराणां च हारिणः।  
-प्रसह्य-घातिनश् चैव  
-शूलान् आरोपयेन् नरान्  ॥ २.२७३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/269_gRhItaH_shankayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-उत्क्षेपक-ग्रन्थि-भेदौ  
-कर-सन्दंश-हीनकौ।  
-कार्यौ द्वितीयापराधे  
-कर-पादैक-हीनकौ  ॥ २.२७४ ॥
 
-क्षुद्र-मध्य-महा-द्रव्य-  
-हरणे सारतो दमः।  
-देश-काल-वयः-शक्ति  
-सञ्चिन्त्यं दण्ड-कर्मणि  ॥ २.२७५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/270_chauram_pradApyApahRtaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-भक्तावकाशाग्न्य्-उदक-  
-मन्त्रोपकरण-व्ययान्।  
-दत्त्वा चौरस्य वा हन्तुर्  
-जानतो दम उत्तमः  ॥ २.२७६ ॥
 
-शस्त्रावपाते गर्भस्य  
-पातने चोत्तमो दमः।  
-उत्तमो वा ऽधमो वा ऽपि  
-पुरुष-स्त्री-प्रमापणे  ॥ २.२७७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/271_ghAtite.apahRte.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-विप्रदुष्टां स्त्रियं चैव  
-पुरुष-घ्नीम् अगर्भिणीम्।  
-सेतु-भेद-करीं चाप्सु  
-शिलां बद्ध्वा प्रवेशयेत्  ॥ २.२७८ ॥
 
-विषाग्निदां पति-गुरु-  
-निजापत्य-प्रमापणीम्।  
-विकर्ण-कर-नासौष्ठीं  
-कृत्वा गोभिः प्रमापयेत्  ॥ २.२७९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/272_svasInni_dadyAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अविज्ञात-हतस्य+आशु  
-कलहं सुत-बान्धवाः।  
-प्रष्टव्या योषितश् चास्य  
-पर-पुंसि रताः पृथक्  ॥ २.२८० ॥
 
-स्त्री-द्रव्य-वृत्ति-कामो वा  
-केन वा ऽयं गतः सह।  
-मृत्यु-देश-समासन्नं  
-पृच्छेद् वा ऽपि जनं शनैः  ॥ २.२८१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/273_bandigrAhAMs_tathA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-क्षेत्र-वेश्म-वन-ग्राम-  
-विवीत-खल-दाहकाः।  
-राज-पत्न्य्-अभिगामी च  
-दग्धव्यास् तु कटाग्निना  ॥ २.२८२ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/274_utxepakagranthibhedau_karasandaMshahInakau.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/275_xudramadhyamahAdravya_haraNe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/276_bhaktAvakAshAgnyudaka_mantropakaraNavyayAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/277_shastrAvapAte_garbhasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/278_vipraduShTAM_striya~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/279_viShAgnidAm_patiguru.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/280_avijnAtahatasyaAshu_kalahaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/281_strIdravyavRttikAmo_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/23_steya-prakaraNam/282_xetraveshmavanagrAma_vivItakhaladAhakAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

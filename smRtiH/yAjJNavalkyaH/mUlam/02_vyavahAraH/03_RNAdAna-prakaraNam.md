@@ -3,141 +3,86 @@ title = "०३ ऋणादान-प्रकरणम्"
 
 +++
 
-अशीति-भागो वृद्धिः स्यान्  
-मासि मासि सबन्धके।  
-वर्ण-क्रमाच् छतं द्वि-त्रि-  
-चतुष्-पञ्चकम् अन्यथा  ॥ २.३७ ॥
 
-कान्तारगास् तु दशकं  
-सामुद्रा विंशकं शतम्।  
-दद्युर् वा स्व-कृतां वृद्धिं  
-सर्वे सर्वासु जातिषु  ॥ २.३८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/037_ashItibhAgo_vRddhiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सन्ततिस् तु पशु-स्त्रीणां  
-रसस्याष्ट-गुणा परा।  
-वस्त्र-धान्य-हिरण्यानां  
-चतुस्-त्रि-द्वि-गुणा परा  ॥ २.३९ ॥
 
-प्रपन्नं साधयन्न् अर्थं  
-न वाच्यो नृपतेर् भवेत्।  
-साध्यमानो नृपं गच्छन्  
-दण्ड्यो दाप्यश् च तद्-धनम्  ॥ २.४० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/038_kAntAragAs_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-गृहीतानुक्रमाद् दाप्यो  
-धनिनाम् अधमर्णिकः।  
-दत्त्वा तु ब्राह्मणायैव  
-नृपतेस् तद्-अनन्तरम्  ॥ २.४१ ॥
 
-राज्ञा ऽधमर्णिको दाप्यः  
-साधिताद् दशकं शतम्।  
-पञ्चकं च शतं दाप्यः  
-प्राप्तार्थो ह्य् उत्तमर्णिकः  ॥ २.४२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/039_santatis_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-हीन-जातिं परिक्षीणम्  
-ऋणार्थं कर्म कारयेत्।  
-ब्राह्मणस् तु परिक्षीणः  
-शनैर् दाप्यो यथोदयम्  ॥ २.४३ ॥
 
-दीयमानं न गृह्णाति  
-प्रयुक्तं यः स्वकं धनम्।  
-मध्यस्थ-स्थापितं चेत् स्याद्  
-वर्धते न ततः परम्  ॥ २.४४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/040_prapannaM_sAdhayann.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अविभक्तैः कुटुम्बार्थे  
-यद् ऋणं तु कृतं भवेत्।  
-दद्युस् तद् रिक्थिनः प्रेते  
-प्रोषिते वा कुटुम्बिनि  ॥ २.४५ ॥
 
-न योषित्-पति-पुत्राभ्यां  
-न पुत्रेण कृतं पिता।  
-दद्याद् ऋते कुटुम्बार्थान्  
-न पतिः स्त्री-कृतं तथा  ॥ २.४६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/041_gRhItAnukramAd_dApyo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सुरा-काम-द्यूत-कृतं  
-दण्ड-शुल्कावशिष्टकम्।  
-वृथा-दानं तथैवेह  
-पुत्रो दद्यान् न पैतृकम्  ॥ २.४७ ॥
 
-गोप-शौण्डिक-शैलूष-  
-रजक-व्याध-योषिताम्।  
-ऋणं दद्यात् पतिस् तेषां  
-यस्माद् वृत्तिस् तद्-आश्रया  ॥ २.४८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/042_rAjnA.adhamarNiko.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-प्रतिपन्नं स्त्रिया देयं  
-पत्या वा सह यत् कृतम्।  
-स्वयं-कृतं वा यद् ऋणं  
-नान्यत् स्त्री दातुम् अर्हति  ॥ २.४९ ॥
 
-पितरि प्रोषिते प्रेते  
-व्यसनाभिप्लुते ऽपि वा।  
-पुत्र-पौत्रैर् ऋणं देयं  
-निह्नवे साक्षि-भावितम्  ॥ २.५० ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/043_hInajAtim_parixINam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-रिक्थ-ग्राह ऋणं दाप्यो  
-योषिद्-ग्राहस् तथैव च।  
-पुत्रो ऽनन्याश्रित-द्रव्यः  
-पुत्र-हीनस्य रिक्थिनः  ॥ २.५१ ॥
 
-भ्रातॄणाम् अथ दम्पत्योः  
-पितुः पुत्रस्य चैव हि।  
-प्रातिभाव्यम् ऋणं साक्ष्यम्  
-अविभक्ते न तु स्मृतम्  ॥ २.५२ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/044_dIyamAnan_na.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-दर्शने प्रत्यये दाने  
-प्रातिभाव्यं विधीयते।  
-आद्यौ तु वितथे दाप्याव्  
-इतरस्य सुता अपि  ॥ २.५३ ॥
 
-दर्शन-प्रतिभूर् यत्र  
-मृतः प्रात्ययिको ऽपि वा।  
-न तत्-पुत्रा ऋणं दद्युर्  
-दद्युर् दानाय यः स्थितः  ॥ २.५४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/045_avibhaktaiH_kuTumbArthe.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-बहवः स्युर् यदि स्वांशैर्  
-दद्युः प्रतिभुवो धनम्।  
-एक-च्छायाश्रितेष्व् एषु  
-धनिकस्य यथा-रुचि  ॥ २.५५ ॥
 
-प्रतिभूर् दापितो यत् तु  
-प्रकाशं धनिनो धनम्।  
-द्वि-गुणं प्रतिदातव्यम्  
-ऋणिकैस् तस्य तद् भवेत्  ॥ २.५६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/046_na_yoShitpatiputrAbhyAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-सन्ततिः स्त्री-पशुष्व् एव  
-धान्यं त्रि-गुणम् एव च।  
-वस्त्रं चतुर्-गुणं प्रोक्तं  
-रसश् चाष्ट-गुणस् तथा  ॥ २.५७ ॥
 
-आधिः प्रणश्येद् द्वि-गुणे  
-धने यदि न मोक्ष्यते।  
-काले काल-कृतो नश्येत्  
-फल-भोग्यो न नश्यति  ॥ २.५८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/047_surAkAmadyUtakRtaM_daNDashulkAvashiShTakam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-गोप्याधिभोगे नो वृद्धिः  
-सोपकारे च हापिते।  
-नष्टो देयो विनष्टश् च  
-दैव-राज-कृताद् ऋते  ॥ २.५९ ॥
 
-आधेः स्वीकरणात् सिद्धी  
-रक्ष्यमाणो ऽप्य् असारताम्।  
-यातश् चेद् अन्य आधेयो  
-धन-भाग् वा धनी भवेत्  ॥ २.६० ॥  
-चरित्र-बन्धक-कृतं  
-स वृद्ध्या दापयेद् धनम्।  
-सत्यं-कार-कृतं द्रव्यं  
-द्वि-गुणं प्रतिदापयेत्  ॥ २.६१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/048_gopashauNDikashailUSha_rajakavyAdhayoShitAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-उपस्थितस्य मोक्तव्य  
-आधिः स्तेनो ऽन्यथा भवेत्।  
-प्रयोजके ऽसति धनं  
-कुले न्यस्य+आधिम् आप्नुयात्  ॥ २.६२ ॥
 
-तत्-काल-कृत-मूल्यो वा  
-तत्र तिष्ठेद् अवृद्धिकः।  
-विना धारणकाद् वा ऽपि  
-विक्रीणीत स-साक्षिकम्  ॥ २.६३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/049_pratipannaM_striyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यदा तु द्वि-गुणी-भूतम्  
-ऋणम् आधौ तदा खलु।  
-मोच्य आधिस् तद्-उत्पन्ने  
-प्रविष्टे द्वि-गुणे धने  ॥ २.६४ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/050_pitari_proShite.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/051_rikthagrAha_RNan.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/052_bhrAtRRNAm_atha.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/053_darshane_pratyaye.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/054_darshanapratibhUr_yatra.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/055_bahavaH_syur.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/056_pratibhUr_dApito.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/057_santatiH_strIpashuShv.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/058_AdhiH_praNashyed.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/059_gopyAdhibhoge_no.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/060_AdheH_svIkaraNAt.md"  newLevelForH1="3" includeTitle="true"  > </div>
+  
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/061_charitrabandhakakRtaM_sa.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/062_upasthitasya_moktavya.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/063_tatkAlakRtamUlyo_vA.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/03_RNAdAna-prakaraNam/064_yadA_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

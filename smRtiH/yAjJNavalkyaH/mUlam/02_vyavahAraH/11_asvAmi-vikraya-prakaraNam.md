@@ -3,37 +3,24 @@ title = "११ अस्वामि-विक्रय-प्रकरणम�
 
 +++
 
-स्वं लभेतान्य-विक्रीतं  
-क्रेतुर् दोषो ऽप्रकाशिते।  
-हीनाद् रहो हीन-मूल्ये  
-वेला-हीने च तस्करः  ॥ २.१६८ ॥
 
-नष्टापहृतम् आसाद्य  
-हर्तारं ग्राहयेन् नरम्।  
-देश-कालातिपत्तौ च  
-गृहीत्वा स्वयम् अर्पयेत्  ॥ २.१६९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/168_svaM_labhetAnyavikrItaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-विक्रेतुर् दर्शनाच् छुद्धिः  
-स्वामी द्रव्यं नृपो दमम्।  
-क्रेता मूल्यम् अवाप्नोति  
-तस्माद् यस् तस्य विक्रयी  ॥ २.१७० ॥
 
-आगमेनोपभोगेन  
-नष्टं भाव्यम् अतो ऽन्यथा।  
-पञ्च-बन्धो दमस् तस्य  
-राज्ञे तेनाविभाविते  ॥ २.१७१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/169_naShTApahRtam_AsAdya.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-हृतं प्रनष्टं यो द्रव्यं  
-पर-हस्ताद् अवाप्नुयात्।  
-अनिवेद्य नृपे दण्ड्यः  
-स तु षण्-णवतिं पणान्  ॥ २.१७२ ॥
 
-शौल्किकैः स्थान-पालैर् वा  
-नष्टापहृतम् आहृतम्।  
-अर्वाक् संवत्सरात् स्वामी  
-हरेत परतो नृपः  ॥ २.१७३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/170_vikretur_darshanAch.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-पणान् एकशफे दद्याच्  
-चतुरः पञ्च मानुषे।  
-महिषोष्ट्र-गवां द्वौ द्वौ  
-पादं पादम् अजाविके  ॥ २.१७४ ॥
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/171_Agamenopabhogena_naShTam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/172_hRtam_pranaShTaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/173_shaulkikaiH_sthAnapAlair.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/11_asvAmi-vikraya-prakaraNam/174_paNAn_ekashaphe.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

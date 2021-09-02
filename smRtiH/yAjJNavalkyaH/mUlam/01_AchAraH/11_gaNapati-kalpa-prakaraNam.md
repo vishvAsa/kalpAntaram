@@ -6,6 +6,7 @@ title = "११ गणपति-कल्प-प्रकरणम्"
 
 
 
+
 <div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/01_AchAraH/11_gaNapati-kalpa-prakaraNam/271_vinAyakaH_karmavighna.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
 

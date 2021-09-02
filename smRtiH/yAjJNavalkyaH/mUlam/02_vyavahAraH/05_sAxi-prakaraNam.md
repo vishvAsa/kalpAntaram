@@ -3,82 +3,51 @@ title = "०५ साक्षि-प्रकरणम्"
 
 +++
 
-तपस्विनो दान-शीलाः  
-कुलीनाः सत्य-वादिनः।  
-धर्म-प्रधाना ऋजवः  
-पुत्रवन्तो धनान्विताः  ॥ २.६८ ॥
 
-त्र्य्-अवराः साक्षिणो ज्ञेयाः  
-श्रौत-स्मार्त-क्रिया-पराः।  
-यथा-जाति यथा-वर्णं  
-सर्वे सर्वेषु वा स्मृताः  ॥ २.६९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/068_tapasvino_dAnashIlAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-स्त्री-बाल-वृद्ध-कितव-  
-मत्तोन्मत्ताभिशस्तकाः।  
-रङ्गावतारि-पाखण्डि-  
-कूट-कृद्-विकलेन्द्रियाः  ॥ २.७० ॥
 
-पतिताप्तार्थ-सम्बन्धि-  
-सहाय-रिपु-तस्कराः।  
-साहसी दृष्ट-दोषश् च  
-निर्धूताद्यास् त्व् असाक्षिणः  ॥ २.७१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/069_tryavarAH_sAxiNo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-उभयानुमतः साक्षी  
-भवत्य् एको ऽपि धर्मवित्।  
-सर्वः साक्षी सङ्ग्रहणे  
-चौर्य-पारुष्य-साहसे  ॥ २.७२ ॥
 
-साक्षिणः श्रावयेद् वादि-  
-प्रतिवादि-समीपगान्।  
-ये पातक-कृतां लोका  
-महा-पातकिनां तथा   ॥ २.७३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/070_strIbAlavRddhakitava_mattonmattAbhishastakAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अग्नि-दानां च ये लोका  
-ये च स्त्री-बाल-घातिनाम्।  
-स तान् सर्वान् अवाप्नोति  
-यः साक्ष्यम् अनृतं वदेत्  ॥ २.७४ ॥
 
-सुकृतं यत् त्वया किञ्चिज्  
-जन्मान्तर-शतैः कृतम्।  
-तत् सर्वं तस्य जानीहि  
-यं पराजयसे मृषा  ॥ २.७५ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/071_patitAptArthasambandhi_sahAyariputaskarAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अब्रुवन् हि नरः साक्ष्यम्  
-ऋणं स-दश-बन्धकम्।  
-राज्ञा सर्वं प्रदाप्यः स्यात्  
-षट्-चत्वारिंशके ऽहनि  ॥ २.७६ ॥
 
-न ददाति हि यः साक्ष्यं  
-जानन्न् अपि नराधमः।  
-स कूट-साक्षिणां पापैस्  
-तुल्यो दण्डेन चैव हि  ॥ २.७७ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/072_ubhayAnumataH_sAxI.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-द्वैधे बहूनां वचनं  
-समेषु गुणिनां तथा।  
-गुणि-द्वैधे तु वचनं  
-ग्राह्यं ये गुणवत्तमाः  ॥ २.७८ ॥
 
-यस्योचुः साक्षिणः सत्यां  
-प्रतिज्ञां स जयी भवेत्।  
-अन्यथा वादिनो यस्य  
-ध्रुवस् तस्य पराजयः  ॥ २.७९ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/073_sAxiNaH_shrAvayed.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-उक्ते ऽपि साक्षिभिः साक्ष्ये  
-यद्य् अन्ये गुणवत्तमाः।  
-द्वि-गुणा वा ऽन्यथा ब्रूयुः  
-कूटाः स्युः पूर्व-साक्षिणः  ॥ २.८० ॥
 
-पृथक् पृथग् दण्डनीयाः  
-कूटकृत् साक्षिणस् तथा।  
-विवादाद् द्वि-गुणं दण्डं  
-विवास्यो ब्राह्मणः स्मृतः  ॥ २.८१ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/074_agnidAnA~n_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-यः साक्ष्यं श्रावितो ऽन्येभ्यो  
-निह्नुते तत् तमो-वृतः।  
-स दाप्यो ऽष्ट-गुणं दण्डं  
-ब्राह्मणं तु विवासयेत्  ॥ २.८२ ॥
 
-वर्णिनां हि वधो यत्र  
-तत्र साक्ष्य् अनृतं वदेत्।  
-तत्-पावनाय निर्वाप्यश्  
-चरुः सारस्वतो द्विजैः   ॥ २.८३ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/075_sukRtaM_yat.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/076_abruvan_hi.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/077_na_dadAti.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/078_dvaidhe_bahUnAM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/079_yasyochuH_sAxiNaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/080_ukte.api.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/081_pRthak_pRthag.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/082_yaH_sAxyaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/05_sAxi-prakaraNam/083_varNinAM_hi.md"  newLevelForH1="3" includeTitle="true"  > </div>
+

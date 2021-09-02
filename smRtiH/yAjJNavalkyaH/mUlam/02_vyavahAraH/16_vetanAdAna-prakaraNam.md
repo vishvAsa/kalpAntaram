@@ -3,32 +3,21 @@ title = "१६ वेतनादान-प्रकरणम्"
 
 +++
 
-गृहीत-वेतनः कर्म  
-त्यजन् द्वि-गुणम् आवहेत्।  
-अगृहीते समं दाप्यो  
-भृत्यै रक्ष्य उपस्करः  ॥ २.१९३ ॥
 
-दाप्यस् तु दशमं भागं  
-वाणिज्य-पशु-सस्यतः।  
-अनिश्चित्य भृतिं यस् तु  
-कारयेत् स मही-क्षिता  ॥ २.१९४ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/193_gRhItavetanaH_karma.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-देशं कालं च यो ऽतीयाल्  
-लाभं कुर्याच् च यो ऽन्यथा।  
-तत्र स्यात् स्वामिनश् छन्दो  
-ऽधिकं देयं कृते ऽधिके  ॥ २.१९५ ॥
 
-यो यावत् कुरुते कर्म  
-तावत् तस्य तु वेतनम्।  
-उभयोर् अप्य् असाध्यं चेत्  
-साध्ये कुर्याद् यथा-श्रुतम्  ॥ २.१९६ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/194_dApyas_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 
-अराज-दैविकं नष्टं  
-भाण्डं दाप्यस् तु वाहकः।  
-प्रस्थान-विघ्न-कृच् चैव  
-प्रदाप्यो द्वि-गुणां भृतिम्  ॥ २.१९७ ॥
 
-प्रक्रान्ते सप्तमं भागं  
-चतुर्थं पथि सन्त्यजन्।  
-भृतिम् अर्ध-पथे सर्वां  
-प्रदाप्यस् त्याजको ऽपि च  ॥ २.१९८ ॥
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/195_desha~N_kAla~n.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/196_yo_yAvat.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/197_arAjadaivikan_naShTaM.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
+
+<div class="js_include " url="/kalpAntaram/smRtiH/yAjJNavalkyaH/mUlam/02_vyavahAraH/16_vetanAdAna-prakaraNam/198_prakrAnte_saptamam.md"  newLevelForH1="3" includeTitle="true"  > </div>
+
