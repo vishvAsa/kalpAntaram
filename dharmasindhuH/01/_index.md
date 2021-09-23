@@ -1,5 +1,5 @@
 +++
-title = "+प्रथमपरिच्छेदः"
+title = "+०१"
 unicode_script = "devanagari"
 
 +++
