@@ -300,7 +300,8 @@ kātyāyanaḥ [44–45] |
 
 **[19]**
 
-**1 — atha deśācārādi**
+## 01 deśācārādi
+atha deśācārādi
 
 tatra gautamaḥ: 'deśajātikuladharmāś cāmnāyaiḥ aviruddhāḥ pramāṇam | karṣakavaṇikpaśupālakusīdikāravaḥ sve sve varge | tebhyo yathādhikāram arthān pratyavahṛtya dharmavyavasthā' | **'deśadharmaḥ'** – yathā karavibhāgādiḥ prasiddho yo yatra sa tatraiva pramāṇam | **'jātidharmaḥ'** – yathā ābhīrāṇāṃ dantarañjanābhāvaḥ | **'kuladharmaḥ'** – yathā dadhyamathanādiḥ | **'āmnāyaiḥ'** śrutismṛtyādibhiḥ | **'pratyavahṛtya'** avadhārya |
 
@@ -371,7 +372,8 @@ kātyāyanaḥ |
 
 **[24]**
 
-**2 — atha prāḍvivākaḥ**
+## 02 prāḍvivākaḥ
+atha prāḍvivākaḥ
 
 tatra kātyāyanaḥ [63–64] |
 
@@ -410,7 +412,8 @@ gautamaḥ [13.31]: 'sarvadharmebhyo garīyaḥ prāḍvivāke satyavacanam' |
 
 **[26]**
 
-**3 — atha sabhā**
+## 03 sabhā
+atha sabhā
 
 tatra bṛhaspatiḥ |
 
@@ -550,7 +553,8 @@ kātyāyanaḥ [84, prathame] |
 
 **[33]**
 
-**4 — atha sabhyopadeśaḥ**
+## 04 sabhyopadeśaḥ
+atha sabhyopadeśaḥ
 
 tatra bṛhaspatiḥ [1.96–97]
 
@@ -695,7 +699,8 @@ bṛhaspatiḥ [1.76] |
 
 **[40]**
 
-**5 — atha vyavahāralakṣaṇam**
+## 05 vyavahāralakṣaṇam
+atha vyavahāralakṣaṇam
 
 tatra kātyāyanaḥ [25–26] |
 
@@ -1061,7 +1066,8 @@ kātyāyanaḥ [117] |
 
 **[58]**
 
-**7 — atha bhāṣā**
+## 07 bhāṣā
+atha bhāṣā
 
 tatra bṛhaspatiḥ [3.25] |
 
@@ -1188,6 +1194,8 @@ nāradaḥ [2.19, 20, 7] |
 **vyavahārakāṇḍe bhāṣāpādaḥ |**
 
 **[64]**
+## 08 uttaram
+
 
 **8 — athottaram**
 
@@ -1380,7 +1388,8 @@ kātyāyanaḥ [206, 193] |
 
 **[75]**
 
-**9 — atha pratinidhiḥ**
+## 09 pratinidhiḥ
+atha pratinidhiḥ
 
 tatra kātyāyanaḥ [89–90] |
 
@@ -1436,7 +1445,8 @@ bṛhaspatiḥ [3.31, 32] |
 
 **[77]**
 
-**10 — atha pratyākalitam**
+## 10 pratyākalitam
+atha pratyākalitam
 
 tatra duṣṭalakṣaṇam | tatra manuḥ [8.25–26] |
 
@@ -1485,7 +1495,8 @@ rāmāyaṇe [yuddhakāṇḍa, 16.64] |
 
 **[80]**
 
-**11 — atha hīnaḥ**
+## 11 hīnaḥ
+atha hīnaḥ
 
 tatra manuḥ [8.53–58] |
 
@@ -1582,7 +1593,8 @@ bṛhaspatiḥ [3.40–42] |
 > pūrvottare niviṣṭe tu vicāre saṃpravartite |  
 > prathamaṃ ye mitho yānti dāpyās te dviguṇaṃ damam ||
 
-**12 — atha saṃdhiḥ**
+## 12 saṃdhiḥ
+atha saṃdhiḥ
 
 tatra bṛhaspatiḥ [3.43–45, 47–49] |
 
@@ -1601,7 +1613,8 @@ tatra bṛhaspatiḥ [3.43–45, 47–49] |
 
 **[86]** **sākṣisabhyavikalpa** iti | ubhayor api arthipratyarthinor yatra sākṣisabhyavikalpo bhavet kim ete vakṣyantīti, tatra dolāyamāne kāryanirṇaye kathaṃ bhaviṣyatīti saṃdigdhe yau saṃdhiṃ kuryātāṃ tau vicakṣaṇāv ity arthaḥ | samateti | ubhayor apy arthipratyarthinoḥ pakṣe sabhyānāṃ pramāṇasāmānyaṃ yatra pratibhāti | yatra ca bhedaḥ śāstracaritrayoḥ | śāstre śāstrāntareṇa vipratipattiḥ, vyavahāre ca vyavahārāntareṇa vipratipattis tatra rājājñayā saṃdhiḥ praśasyata ity arthaḥ | nigrahānugraham iti | arthipratyarthinor vigrahe saty avasthitāni nigrahādīni bhavantīty ataḥ saṃdhiḥ śreyān ity arthaḥ |
 
-**13 — atha kriyādānam**
+## 13 kriyādānam
+atha kriyādānam
 
 tatra bṛhaspatiḥ [4.2] |
 
@@ -1662,7 +1675,7 @@ vyāsaḥ |
 **iti pratyākalitapādaḥ**
 
 **[90]**
-
+## 14 pramāṇaviṣayaḥ
 **14 — atha kriyāpādaḥ**
 
 **tatra pramāṇaviṣayaḥ**
@@ -1864,7 +1877,8 @@ nārada-kātyāyanau |
 
 **iti kriyāpāde pramāṇaviṣayaḥ**
 
-**15 — atha sākṣiṇaḥ**
+## 15 sākṣiṇaḥ
+atha sākṣiṇaḥ
 
 tatra nāradaḥ [4.147] |
 
@@ -2084,6 +2098,7 @@ manu-kātyāyanau [ma. 8.68; kā. 351] |
 
 **[108]**
 
+## 16 asākṣiṇaḥ
 **16 — athāsākṣiṇaḥ**
 
 tatra nāradaḥ [4.157–158] |
@@ -2226,7 +2241,8 @@ kātyāyanaḥ [360] |
 
 **117]**
 
-**17 — atha sākṣipratyuddhāraḥ**
+## 17 sākṣipratyuddhāraḥ
+atha sākṣipratyuddhāraḥ
 
 tatra manu-nāradau [ma. 8.72; nā. 4.189] |
 
@@ -2282,7 +2298,8 @@ kātyāyanaḥ [365] |
 
 **[120]**
 
-**18 — atha sākṣidūṣaṇam**
+## 18 sākṣidūṣaṇam
+atha sākṣidūṣaṇam
 
 tatra bṛhaspatiḥ [5.21] |
 
@@ -2350,7 +2367,8 @@ kātyāyanaḥ [407, 379] |
 
 **[123]**
 
-**19 — atha sākṣiśrāvaṇam**
+## 19 sākṣiśrāvaṇam
+atha sākṣiśrāvaṇam
 
 tatra kātyāyanaḥ [339] |
 
@@ -2474,7 +2492,8 @@ nāradaḥ [4.200–202, 206, 212–213, 226–228] |
 
 **[130]**
 
-**20 — atha sākṣiśapathaḥ**
+## 20 sākṣiśapathaḥ
+atha sākṣiśapathaḥ
 
 tatra gautamaḥ: 'śapathenaike satyakarma | tad devarājabrāhmaṇasaṃsadi syāt abrāhmaṇānām' |
 
@@ -2579,7 +2598,8 @@ ete brāhmaṇā api santaḥ sākṣye śūdravad eva śapathaṃ kārayitavyā
 
 **[136]**
 
-**21 — atha sakṣyoktavidhiḥ**
+## 21 sakṣyoktavidhiḥ
+atha sakṣyoktavidhiḥ
 
 tatra kātyāyanaḥ [387, 391] |
 
@@ -2625,7 +2645,8 @@ kātyāyanaḥ [393] |
 
 **[138]**
 
-**22 — atha sākṣiparīkṣā**
+## 22 sākṣiparīkṣā
+atha sākṣiparīkṣā
 
 kātyāyanaḥ [340, 409] |
 
@@ -2667,7 +2688,8 @@ nāradaḥ [4: 193–198] |
 
 **[141]**
 
-**23 — atha sākṣidaṇḍah**
+## 23 sākṣidaṇḍah
+atha sākṣidaṇḍah
 
 tatra kātyāyanaḥ [406] |
 
@@ -2759,6 +2781,7 @@ gautamaḥ [13.7–8]: avacane doṣiṇaḥ syuḥ | svargaḥ satyavacane, vip
 
 [**146]**
 
+## 24 satyāpavādaḥ
 **24 — satyāpavādaḥ**
 
 tatra vasiṣṭhaḥ [viṣṇuḥ 8.14–15]: 'sākṣiṇaḥ satyena pūyante | varṇināṃ yatra vadhas tatrānṛtena' |
@@ -2792,7 +2815,8 @@ manuḥ [8.105–106] |
 
 **[148]**
 
-**25 — atha sākṣibalatvam**
+## 25 sākṣibalatvam
+atha sākṣibalatvam
 
 tatra manuḥ [8.73] |
 
@@ -2827,7 +2851,8 @@ kātyāyanaḥ [408] |
 
 **[150]**
 
-**26 — atha sākṣinigadaḥ**
+## 26 sākṣinigadaḥ
+atha sākṣinigadaḥ
 
 tatra vyāsaḥ |
 
@@ -2841,6 +2866,7 @@ viṣṇu-yājñavalkyau |
 
 **[151]**
 
+### anigadaḥ
 **athānigadaḥ**
 
 [tatra] nāradaḥ [4.232–234] |
@@ -2854,7 +2880,8 @@ viṣṇu-yājñavalkyau |
 
 **[152]**
 
-**27 — atha likhitam**
+## 27 likhitam
+atha likhitam
 
 tatra bṛhaspatiḥ |
 
@@ -2950,7 +2977,8 @@ kātyāyanaḥ [251] |
 
 **[157]**
 
-**28 — atha śāsanam**
+## 28 śāsanam
+atha śāsanam
 
 tatra vyāsaḥ |
 
@@ -3017,7 +3045,8 @@ vṛddhavasiṣṭhaḥ |
 
 **[161]**
 
-**29 — atha sallekhyam**
+## 29 sallekhyam
+atha sallekhyam
 
 tatra kātyāyanaḥ [252] |
 
@@ -3060,6 +3089,7 @@ kātyāyanaḥ [312] |
 
 **[163]**
 
+## 30 duṣṭalekhyam
 **30 — duṣṭalekhyam**
 
 [tatra] kātyāyanaḥ [273–274] |
@@ -3107,7 +3137,8 @@ vyāsaḥ [kātyāyana 311] |
 
 **[165]**
 
-**31 — atha dūṣitalekhyaparīkṣā**
+## 31 dūṣitalekhyaparīkṣā
+atha dūṣitalekhyaparīkṣā
 
 [tatra] kātyāyanaḥ [276, 323] |
 
@@ -3204,7 +3235,8 @@ prajāpatiḥ |
 
 **[170]**
 
-**32 — atha lekhyabalam**
+## 32 lekhyabalam
+atha lekhyabalam
 
 tatra bṛhaspatiḥ [6.49] |
 
@@ -3269,7 +3301,8 @@ kātyāyanaḥ [306–307] |
 
 **174]**
 
-**33 — atha lekhyadaurbalyam**
+## 33 lekhyadaurbalyam
+atha lekhyadaurbalyam
 
 tatra bṛhaspatiḥ [6.51, 47, 48] |
 
@@ -3312,7 +3345,8 @@ kātyāyanaḥ |
 
 **[177]**
 
-**34 — atha bhuktiḥ**
+## 34 bhuktiḥ
+atha bhuktiḥ
 
 tatra bṛhaspatiḥ [27.22–28] |
 
@@ -3467,6 +3501,7 @@ tathā [nārada 8.87–88, 92] |
 > anvāhitaṃ hṛtaṃ nyastaṃ balāvaṣṭabdhayācitam |  
 > apratyakṣaṃ ca yad bhuktaṃ ṣaḍ etāny āgamaṃ vinā ||
 
+### anupabhogenāsiddhiḥ
 **athānupabhogenāsiddhiḥ **
 
 tatra yājñavalkyaḥ [2.27] |
@@ -3530,7 +3565,7 @@ tathā [7.66–67] |
 > tena kāryāṇi sidhyanti sthāvarāṇi carāṇi ca ||
 
 **[189]**
-
+## 35 anya-bhoga-hāny-apavādaḥ
 **35 — athānyabhogahānyapavādaḥ**
 
 tatra bṛhaspatiḥ [7.43, 44, 46] |
@@ -3596,7 +3631,8 @@ yājñavalkyaḥ [2.26] |
 
 **192]**
 
-**36 — atha vicchinnabhoganirṇayaḥ**
+## 36 vicchinnabhoganirṇayaḥ
+atha vicchinnabhoganirṇayaḥ
 
 tatra bṛhaspatiḥ [7.48–52] |
 
@@ -3613,7 +3649,8 @@ tatra bṛhaspatiḥ [7.48–52] |
 
 **[193]**
 
-**37 — atha yuktiah**
+## 37 yuktayah
+atha yuktayah
 
 tatra bṛhaspatiḥ [7.68] |
 
@@ -3681,7 +3718,8 @@ nāradaḥ [4.172–175] |
 
 **[197]**
 
-**38 — atha divyāni**
+## 38 divyāni
+atha divyāni
 
 **(ka) divyabhedāiḥ**
 
@@ -4035,7 +4073,8 @@ kātyāyanaḥ [438] |
 
 **[214]**
 
-**39 — atha dhaṭavidhiḥ**
+## 39 dhaṭavidhiḥ
+atha dhaṭavidhiḥ
 
 tatra viṣṇuḥ [10.2–3]: "atha dhaṭaḥ | caturhastocchrito dvihastāyataḥ | tatra ca sāravṛkṣodbhavā pañcahastāyatā ubhayataḥ śikyā tulā" |
 
@@ -4225,7 +4264,7 @@ kātyāyanaḥ [440] |
 > śuddhes tu saṃśaye caiva parīkṣeta punar naram ||
 
 **[224]**
-
+## 40 agnividhiḥ
 **40 — athāgnividhiḥ**
 
 tatra bṛhaspatiḥ [pitāmahaḥ] |
@@ -4426,7 +4465,8 @@ vṛddhaḥ |
 
 **[234]**
 
-**41 — atha toyavidhiḥ**
+## 41 toyavidhiḥ
+atha toyavidhiḥ
 
 tatra pitāmahaḥ |
 
@@ -4561,7 +4601,8 @@ kātyāyanaḥ [444-45] |
 
 **[240]**
 
-**42 — atha viṣavidhiḥ**
+## 42 viṣavidhiḥ
+atha viṣavidhiḥ
 
 tatra nāradaḥ [4.318–21] |
 
@@ -4671,7 +4712,8 @@ pitāmahaḥ |
 
 **[245]**
 
-**43 — atha kośavidhiḥ**
+## 43 kośavidhiḥ
+atha kośavidhiḥ
 
 tatra nāradaḥ [4.327–28] |
 
@@ -4777,7 +4819,8 @@ nāradaḥ [4.333] |
 
 **[250]**
 
-**44 — atha taṇḍulavidhiḥ**
+## 44 taṇḍulavidhiḥ
+atha taṇḍulavidhiḥ
 
 tatra pitāmahaḥ |
 
@@ -4809,7 +4852,8 @@ bṛhaspati-pitāmahau |
 
 **[252]**
 
-**45 — atha taptamāṣakavidhiḥ**
+## 45 taptamāṣakavidhiḥ
+atha taptamāṣakavidhiḥ
 
 tatra pitāmahaḥ |
 
@@ -4841,7 +4885,8 @@ kālikāpurāṇe |
 
 **[253]**
 
-**46 — atha phālavidhiḥ**
+## 46 phālavidhiḥ
+atha phālavidhiḥ
 
 tatra bṛhaspatiḥ [8.79–80] |
 
@@ -4852,7 +4897,8 @@ tatra bṛhaspatiḥ [8.79–80] |
 
 **[254]**
 
-**47 — atha dharmajavidhiḥ**
+## 47 dharmajavidhiḥ
+atha dharmajavidhiḥ
 
 tatra bṛhaspatiḥ [8.82–85] |
 
@@ -4868,7 +4914,8 @@ tatra bṛhaspatiḥ [8.82–85] |
 
 **[255]**
 
-**48 — atha śapathavidhiḥ**
+## 48 śapathavidhiḥ
+atha śapathavidhiḥ
 
 tatra manuḥ [8.110] |
 
@@ -4939,7 +4986,8 @@ yamaḥ |
 
 **[258]**
 
-**49 — atha nirṇayaprakāraḥ**
+## 49 nirṇayaprakāraḥ
+atha nirṇayaprakāraḥ
 
 tatra vyāsaḥ |
 
@@ -5018,7 +5066,8 @@ bṛhaspatiḥ |
 
 **[261]**
 
-**50 — atha nirṇayabalābalam**
+## 50 nirṇayabalābalam
+atha nirṇayabalābalam
 
 nāradaḥ [1.10] |
 
@@ -5072,7 +5121,8 @@ kātyāyanaḥ [42, 43] |
 
 **[263]**
 
-**51 — atha nirṇītakṛtyam**
+## 51 nirṇītakṛtyam
+atha nirṇītakṛtyam
 
 tatra nāradaḥ [2.41] |
 
@@ -5129,7 +5179,8 @@ bṛhaspatiḥ [9.25] |
 
 **[266]**
 
-**52 — atha jayīpratipattiḥ**
+## 52 jayipratipattiḥ
+atha jayīpratipattiḥ
 
 tatra bṛhaspatiḥ [9.21] |
 
@@ -5159,7 +5210,8 @@ kātyāyanaḥ [264] |
 
 **[267]**
 
-**53 — atha punarnyāyaḥ**
+## 53 punarnyāyaḥ
+atha punarnyāyaḥ
 
 tatra manuḥ [9.233] |
 
@@ -5214,7 +5266,8 @@ manuḥ [9.234] |
 
 **[270]**
 
-**54 — atha kṛtanivṛttiḥ**
+## 54 kṛtanivṛttiḥ
+atha kṛtanivṛttiḥ
 
 tatra manu-viṣṇū |
 
@@ -5280,7 +5333,8 @@ kārtyāyanaḥ [467] |
 
 **[274]**
 
-**55 — atha svatantrāsvatantralakṣaṇam**
+## 55 svatantrāsvatantralakṣaṇam
+atha svatantrāsvatantralakṣaṇam
 
 tatra nāradaḥ [4.31, 33–37] |
 
@@ -5355,7 +5409,8 @@ kātyāyanaḥ [471] |
 
 **atharṇādānādivyavahārapadāni**
 
-**56 — atha ṛṇādānavidhiḥ**
+## 56 ṛṇādānavidhiḥ
+atha ṛṇādānavidhiḥ
 
 tatra bṛhaspatiḥ [10.1–2] |
 
@@ -6658,7 +6713,8 @@ nāradaḥ [4.116, 112, 113] |
 
 **[338]**
 
-**57 — atha nikṣepaḥ**
+## 57 nikṣepaḥ
+atha nikṣepaḥ
 
 tatra nāradaḥ [5.1] |
 
@@ -6915,7 +6971,7 @@ kātyāyanaḥ [603, 604, 604, 596] |
 **vyavahārakāṇde nikṣepavivādaparva ||**
 
 **[350]**
-
+## 58 asvāmivikrayaḥ
 **58 — athāsvāmivikrayaḥ**
 
 tatra nāradaḥ [10.1] |
@@ -7097,7 +7153,8 @@ yājñavlkyaḥ [2.172] |
 
 **[358]**
 
-**59 — atha saṃbhūyasamuttthānam**
+## 59 saṃbhūyasamuttthānam
+atha saṃbhūyasamuttthānam
 
 tatra nāradaḥ [6.1] |
 
@@ -7372,7 +7429,8 @@ kātyāyanaḥ [633–35, 637] |
 
 **[373]**
 
-**60 — atha dattāpradānikam**
+## 60 dattāpradānikam
+atha dattāpradānikam
 
 tatra nāradaḥ [7.1–3] |
 
@@ -7562,7 +7620,8 @@ kātyāyanaḥ [654, 650, 651] |
 
 **[382]**
 
-**61 — atha bhṛtividhiḥ**
+## 61 bhṛtividhiḥ
+atha bhṛtividhiḥ
 
 **tatrābhyupetyāśuśrūṣā**
 
@@ -7850,7 +7909,8 @@ kātyāyanaḥ [726–29] |
 
 **[400]**
 
-**62 — atha vetanasyānapākriyā**
+## 62 vetanasyānapākriyā
+atha vetanasyānapākriyā
 
 tatra nāradaḥ [9.1–3] |
 
@@ -8099,7 +8159,8 @@ nāradaḥ [9.22] |
 
 **[413]**
 
-**63 — atha svāmipālavivādaḥ**
+## 63 svāmipālavivādaḥ
+atha svāmipālavivādaḥ
 
 tatra manuḥ [8.229, 231] |
 
@@ -8218,7 +8279,8 @@ nāradaḥ [9.17] |
 
 **[419]**
 
-**64 — atha saṃvidvyatikarmaḥ**
+## 64 saṃvidvyatikarmaḥ
+atha saṃvidvyatikarmaḥ
 
 tatra nāradaḥ [13.1] |
 
@@ -8409,7 +8471,8 @@ bṛhaspatiḥ [17.13–15] |
 
 **[429]**
 
-**65 — atha vikrīyāsaṃpradānam**
+## 65 vikrīyāsaṃpradānam
+atha vikrīyāsaṃpradānam
 
 tatra nāradaḥ [11.1–5] |
 
@@ -8521,7 +8584,8 @@ nāradaḥ |
 
 **[435]**
 
-**66 — atha krītvānuśayaḥ**
+## 66 krītvānuśayaḥ
+atha krītvānuśayaḥ
 
 tatra nāradaḥ [12.1–3] |
 
@@ -8601,7 +8665,8 @@ nāradaḥ [12.7] |
 
 **[438]**
 
-**67 — atha sīmāvivādaḥ**
+## 67 sīmāvivādaḥ
+atha sīmāvivādaḥ
 
 tatra bṛhaspatiḥ [19.1] |
 
@@ -9330,7 +9395,8 @@ kātyāyanaḥ [665, 664] |
 
 **[471]**
 
-**68 — atha vākpāruṣyam**
+## 68 vākpāruṣyam
+atha vākpāruṣyam
 
 tatra nāradaḥ [18.1] |
 
@@ -9604,7 +9670,8 @@ uśanā |
 
 **[485]**
 
-**69 — atha daṇḍapāruṣyam**
+## 69 daṇḍapāruṣyam
+atha daṇḍapāruṣyam
 
 tatra bṛhaspatiḥ [21.1] |
 
@@ -10029,7 +10096,8 @@ vasiṣṭhaḥ [19.11–13]: "phalapuṣpopagān pādapān na hiṃsyāt | kar�
 
 **[505]**
 
-**70 — atha steyam**
+## 70 steyam
+atha steyam
 
 tatra manuḥ [8.301–02] |
 
@@ -11052,7 +11120,8 @@ gautamaḥ [10.35–37]: “praṇaṣṭam asvāmikam adhigamya rājñe prabrū
 
 **[556]**
 
-**71 — atha sāhasam**
+## 71 sāhasam
+atha sāhasam
 
 tatra nāradaḥ |
 
@@ -11469,7 +11538,8 @@ vyāsaḥ |
 
 **[577]**
 
-**72 — atha strīsaṃgrahaṇam**
+## 72 strīsaṃgrahaṇam
+atha strīsaṃgrahaṇam
 
 tatra bṛhaspatiḥ [24.1–5] |
 
@@ -11967,7 +12037,8 @@ yamaḥ |
 
 **[601]**
 
-**73 — atha strīpuṃyogaḥ**
+## 73 strīpuṃyogaḥ
+atha strīpuṃyogaḥ
 
 tatra bṛhaspatiḥ [25.1] |
 
@@ -12855,7 +12926,8 @@ kātyāyanaḥ |
 
 **[648]**
 
-**74 — atha dāyavibhāgaḥ**
+## 74 dāyavibhāgaḥ
+atha dāyavibhāgaḥ
 
 tatra nāradaḥ [26.2] |
 
@@ -14992,7 +15064,8 @@ tathā [vya 26] |
 
 **[761]**
 
-**75 — atha dyūtasamāhvayam**
+## 75 dyūtasamāhvayam
+atha dyūtasamāhvayam
 
 tatra nāradaḥ [19.1] |
 
@@ -15181,7 +15254,8 @@ manuḥ [8.178–80] |
 
 **[771]**
 
-**76 — atha kriyābhedaḥ**
+## 76 kriyābhedaḥ
+atha kriyābhedaḥ
 
 tatra bṛhaspatiḥ [vya. 10.56–59] |
 
@@ -15221,7 +15295,8 @@ bṛhaspatiḥ [vya. 10.61–64] |
 
 **[773]**
 
-**77 — atha prakīrṇakam**
+## 77 prakīrṇakam
+atha prakīrṇakam
 
 tatra bṛhaspatiḥ [vya. 29.1] |
 
@@ -15523,7 +15598,8 @@ yamaḥ |
 
 **[788]**
 
-**78 — atha taraśulkaḥ**
+## 78 taraśulkaḥ
+atha taraśulkaḥ
 
 tatra vasiṣthaḥ (18.17–22): “saṃyāne daśavāhavāhinī dviguṇakāriṇī syāt | daśapuruṣavatī pratyekaṃ prapāḥ syuḥ | puṃsāṃ cāvarārdhavāhaṃ vahet | adhyardhā striyaḥ syus taro ‘ṣṭau māṣāḥ śaramadhyāyā aśaramadhyāyāḥ pādaḥ kārṣāpaṇasya | nirudakas taro māṣyaḥ” |
 
@@ -15557,7 +15633,8 @@ manuḥ [8.408–09] |
 
 **[791]**
 
-**79 — atha nidhiḥ**
+## 79 nidhiḥ
+atha nidhiḥ
 
 tatra manuḥ [8.35–36] |
 
@@ -15608,7 +15685,8 @@ vasiṣṭhaḥ: “udvāhakāriṇaṃ tv āgmayet kasya kena saha vivāho yujy
 
 **[794]**
 
-**80 — atha daṇḍapraṇayanavivekaḥ**
+## 80 daṇḍapraṇayanavivekaḥ
+atha daṇḍapraṇayanavivekaḥ
 
 tatra manuḥ [7.14–15, 17–18] |
 
@@ -15942,7 +16020,8 @@ tatra kātyāyanaḥ [678–82] |
 
 **[811]**
 
-**81 — atha varṇānulomapratilomāḥ**
+## 81 varṇānulomapratilomāḥ
+atha varṇānulomapratilomāḥ
 
 tatra āpastambaḥ [1.1.4–5]: “catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ | teṣāṃ pūrvaḥ pūrvo janmataḥ śreyān” |
 

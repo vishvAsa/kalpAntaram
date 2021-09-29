@@ -1884,8 +1884,8 @@ kanyāgaṇaiḥ parivṛtaḥ padam indumauleḥ || [MP 279.13, Hem 268]
 
 iti kāmadhenudānam ||
 
-## 04.07 hiraņyāśvadānam 
-atha hiraņyāśvadānam 
+## 04.07 hiraṇyāśvadānam 
+atha hiraṇyāśvadānam 
 
 tatra matsyapurāṇe
 
