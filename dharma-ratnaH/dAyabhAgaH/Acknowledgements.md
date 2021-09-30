@@ -2,7 +2,7 @@
 title = "Acknowledgements"
 
 +++
-(See comment in manuH/medhAtithiH for conversion steps used here.) 
+(See comment in /manuH/medhAtithiH for conversion steps used here.) 
 
 
 **Open Educational Resources**
