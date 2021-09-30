@@ -2,4 +2,5 @@
 title = "089 आहवेषु मिथो"
 
 +++
-089	Those kings who, seeking to slay each other in battle, fight with the utmost exertion and do not turn back, go to heaven.
+
+अतश् च संग्रामाद् अनिवर्तित्वं राज्ञां विशेषधर्मः । तस्य च युध्यतो नियमः शिष्यते च ॥ ७.८९ ॥

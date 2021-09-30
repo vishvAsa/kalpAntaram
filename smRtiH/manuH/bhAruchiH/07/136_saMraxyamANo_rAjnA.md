@@ -2,4 +2,5 @@
 title = "136 संरक्ष्यमाणो राज्ञा"
 
 +++
-136	Whatever meritorious acts (such a Brahmana) performs under the full protection of the king, thereby the king's length of life, wealth, and kingdom increase.
+
+श्रोत्रियस्याधिकक्षेमप्रयोजनार्थास् त्रयः श्लोकाः ॥ ७.१३४–३६ ॥

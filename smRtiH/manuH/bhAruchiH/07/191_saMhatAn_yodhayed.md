@@ -2,4 +2,5 @@
 title = "191 संहतान् योधयेद्"
 
 +++
-191	Let him make a small number of soldiers fight in close order, at his pleasure let him extend a large number in loose ranks; or let him make them fight, arranging (a small number) in the needle-array, (and a large number) in the thunderbolt-array.
+
+**अल्पाः संहताः** परस्परापेक्षया युध्यन्तो न बिभ्यति । **वज्रव्यूहस्** त्रिधाव्यवस्थितः । **सूची**व्यूहो व्याख्यातः । सर्वे तु व्यूहा यथासामर्थ्यं कल्पयितव्याः ॥ ७.१९१ ॥

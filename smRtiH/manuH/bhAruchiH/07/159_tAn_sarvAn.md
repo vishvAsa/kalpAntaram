@@ -2,4 +2,5 @@
 title = "159 तान् सर्वान्"
 
 +++
-159	Let him overcome all of them by means of the (four) expedients, conciliation and the rest, (employed) either singly or conjointly, (or) by bravery and policy (alone).
+
+**सामादिभिश्** चतुर्भिः **समस्तैर् व्यस्तैर्** वा **पौरुषेण नयेन** वा केवलेन दण्डेन वा । केवलेन दण्डेनेति समासिकः षाड्गुण्यक्रम उच्यते ॥ ७.१५९ ॥

@@ -2,4 +2,5 @@
 title = "121 नगरे नगरे"
 
 +++
-121	And in each town let him appoint one superintendent of all affairs, elevated in rank, formidable, (resembling) a planet among the stars.
+
+हस्त्यश्वादि[बल]संपन्नं प्रतिनगरं नागरिकं स्थापयेत् ॥ ७.१२१ ॥

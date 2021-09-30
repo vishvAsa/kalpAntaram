@@ -2,4 +2,5 @@
 title = "189 सेनापति-बलाध्यक्षौ सर्वदिक्षु"
 
 +++
-189	Let him allot to the commander-in-chief, to the (subordinate) general, (and to the superior officers) places in all directions, and let him turn his front in that direction whence he fears danger.
+
+**सेनापतिबलाध्यक्ष**पुरुषाश् च सर्वत्र निविशेरन् । अनेकप्रकारास् त्व् अपरे कल्पिताः परान् जेष्यन्तीत्य् अतः पुरुषान् इति युज्यन्ते । गिरिं वनं वा पृष्ठतः कृत्वा भयसिशश् चाग्रतः तत्र युध्येयुः निविशेरन् वा ॥ ७.१८९ ॥

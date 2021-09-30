@@ -2,4 +2,5 @@
 title = "214 सह सर्वाः"
 
 +++
-214	A wise (king), seeing that all kinds of misfortunes violently assail him at the same time, should try all (the four) expedients, be it together or separately, (in order to save himself.)
+
+[**सर्वाः समुत्पन्नाह्** समीक्ष्य्]**आपदो भृशम्**, संयुक्तांश् च समस्तान् त्रीन् वा द्वौ वा वियुक्तांश् च प्रत्येकं **सर्वोपायान्** समादीन् **सृजेद्** विसृजेद् **बुधः** । न सहसा विषण्ण आसीतेत्य् अर्थः । स्वप्रकृतिभया[न्य् उप]क्षेपतस् तद् उपसंहरति ॥ ७.२१४ ॥

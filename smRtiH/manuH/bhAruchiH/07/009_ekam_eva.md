@@ -2,4 +2,7 @@
 title = "009 एकम् एव"
 
 +++
-009	Fire burns one man only, if he carelessly approaches it, the fire of a king's (anger) consumes the (whole) family, together with its cattle and its hoard of property.
+
+यस्माद् अकार्यकारिणां तत्सहायानां तदपराधसंबन्धानां च **कुलं दहति** । अतो ऽप्य् असौ नावमन्तव्यः ॥ ७.९॥
+
+_यतश् च-_

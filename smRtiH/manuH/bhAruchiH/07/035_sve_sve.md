@@ -2,4 +2,5 @@
 title = "035 स्वे स्वे"
 
 +++
-035	The king has been created (to be) the protector of the castes (varna) and orders, who, all according to their rank, discharge their several duties.
+
+उपन्यासार्थम् उत्तरविवक्षार्थं चेदम् उक्तम् अप् सद् उच्यते ॥ ७.३५ ॥

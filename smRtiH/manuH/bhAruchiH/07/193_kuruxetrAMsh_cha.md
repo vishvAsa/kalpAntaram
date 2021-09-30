@@ -2,4 +2,5 @@
 title = "193 कुरुक्षेत्रांश् च"
 
 +++
-193	(Men born in) Kurukshetra, Matsyas, Pankalas, and those born in Surasena, let him cause to fight in the van of the battle, as well as (others who are) tall and light.
+
+एते हि पृथुवक्षस आजानुबाहवो द्विस्पृशो महावर्ष्माणश् च सेनामुखेष्व् ईषन्मनोघातं परेषां कुर्वन्ति ॥ ७.१९३ ॥

@@ -2,4 +2,5 @@
 title = "185 संशोध्य त्रिविधम्"
 
 +++
-185	Having cleared the three kinds of roads, and (having made) his sixfold army (efficient), let him leisurely proceed in the manner prescribed for warfare against the enemy's capital.
+
+जाङ्गलातपाटविक**त्रिविधं मार्गं **पन्थानं यवसेन्धनोद[को]पादानवीरुध्[अविच्छेद्]आदिभिः **संशोध्य, बलं च षड्विधं** हस्त्यश्वरथपदातिविष्टिकरकोशाख्यं **संशोध्य** किम् अग्रहृतम् इत्य् एवमादिना संपरायिककल्पेन युयुत्सुकल्पेन यायात् ॥ ७.१८५ ॥

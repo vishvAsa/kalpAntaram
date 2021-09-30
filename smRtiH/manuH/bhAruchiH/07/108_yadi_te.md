@@ -2,4 +2,5 @@
 title = "108 यदि ते"
 
 +++
-108	If they cannot be stopped by the three first expedients, then let him, overcoming them by force alone, gradually bring them to subjection.
+
+सामाध्युपायत्रयपरिक्षये दण्डस्य प्रयोगनियमः ॥ ७.१०८ ॥

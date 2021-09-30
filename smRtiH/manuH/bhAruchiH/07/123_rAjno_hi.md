@@ -2,4 +2,5 @@
 title = "123 राज्ञो हि"
 
 +++
-123	For the servants of the king, who are appointed to protect (the people), generally become knaves who seize the property of others; let him protect his subjects against such (men).
+
+शुचयो ऽप्य् अधिकृता भक्षयन्ति वित्तानीत्य् अर्थत्वान् मनुष्याणाम् । अतो न शुच्यनुमानोपेक्षणीयास् त इति ॥ ७.१२३ ॥

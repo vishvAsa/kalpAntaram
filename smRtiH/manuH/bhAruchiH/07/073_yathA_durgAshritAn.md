@@ -2,4 +2,5 @@
 title = "073 यथा दुर्गाश्रितान्"
 
 +++
-073	As enemies do not hurt these (beings, when they are) sheltered by (their) fortresses, even so foes (can) not injure a king who has taken refuge in his fort.
+
+दृष्टानत्श्लोकाव् आदरप्रतिपत्त्यर्थौ ॥ ७.७२–७३ ॥

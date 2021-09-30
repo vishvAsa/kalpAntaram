@@ -2,4 +2,5 @@
 title = "179 आयत्याङ् गुण-दोषज्ञस्"
 
 +++
-179	He who knows the good and the evil (which will result from his acts) in the future, is quick in forming resolutions for the present, and understands the consequences of past (actions), will not be conquered.
+
+**आयत्यां** तावद् गुणदोषौ सर्वकार्येषु विज्ञेयौ; शेषावधृतिर् अनुष्ठानं च तस्य राजतन्त्रानुग्रहाय दोषपरिहारेणेति एवं च तत्शत्रुनिबर्हणं कवचम् इव सर्वकार्यानुगतं नित्यं विजिगीषुणा चिन्त्यम् ॥ ७.१७९ ॥

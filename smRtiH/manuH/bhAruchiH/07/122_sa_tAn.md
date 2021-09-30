@@ -2,4 +2,7 @@
 title = "122 स तान्"
 
 +++
-122	Let that (man) always personally visit by turns all those (other officials); let him properly explore their behaviour in their districts through spies (appointed to) each.
+
+अयम् अधिपतीन् सदा परिक्रामेत् परिरक्षणाय, तेषां च वृत्तं राज[चरैः] कापटिकादिभ्या आगमयेत् ॥ ७.१२२ ॥
+
+_यत्कारणम् ।_

@@ -2,4 +2,7 @@
 title = "014 तस्यार्थे सर्वभूतानाम्"
 
 +++
-014	For the (king's) sake the Lord formerly created his own son, Punishment, the protector of all creatures, (an incarnation of) the law, formed of Brahman's glory.
+
+इदम् आरभ्य द्वादशश्लोकाः दण्डोत्पत्त्यर्थाः । दण्डनामानं **तेजोमयं सर्वभूतगोप्तारं धर्मम् आत्मजम् असृजत् पूर्वं** राजोत्पत्तेः । एतद् उक्तं भवति "दण्डाद् ऋते राजसत्वं नाभिवर्तते तस्मान् नैव दण्डोत्सर्जनेन राजा प्रजा रक्षिष्यति" इति ॥ ७.१४ ॥
+
+_यतश् च-_

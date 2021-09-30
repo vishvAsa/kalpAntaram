@@ -2,4 +2,5 @@
 title = "028 दण्डो हि"
 
 +++
-028	Punishment (possesses) a very bright lustre, and is hard to be administered by men with unimproved minds; it strikes down the king who swerves from his duty, together with his relatives.
+
+येषां स्वाभाविको विद्योपनीतश् च विनयस् ते कृतात्मानः । तैर् अयम् शको धारयितुम् । व्परीतं तस्माच् **चलितं दण्द एव सबान्धवं हन्ति** ॥ ७.२८ ॥

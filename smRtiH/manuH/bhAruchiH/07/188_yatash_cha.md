@@ -2,4 +2,5 @@
 title = "188 यतश् च"
 
 +++
-188	From whatever (side) he apprehends danger, in that (direction) let him extend his troops, and let him always himself encamp in an array, shaped like a lotus.
+
+सर्वथा प्रदर्शनम् एतत्- **यतो भयं** प्रपश्येत् तु **ततो विस्तारेयेद् बलम्** । सर्वत उदितेन **पद्मव्यूहेन** **सदा निविशेत** ॥ ७.१८८ ॥

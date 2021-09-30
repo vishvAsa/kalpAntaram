@@ -2,4 +2,5 @@
 title = "137 यत् किम्"
 
 +++
-137	Let the king make the common inhabitants of his realm who live by traffic, pay annually some trifle, which is called a tax.
+
+ब्राह्मणाद् अन्यः **पृथग्जनः** । स्वल्पेनापि व्यवहारेण जीवन् दापयितव्यः करः ॥ ७.१३७ ॥

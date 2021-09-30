@@ -2,4 +2,5 @@
 title = "081 अध्यक्षान् विविधान्"
 
 +++
-081	For the various (branches of business) let him appoint intelligent supervisors; they shall inspect all (the acts) of those men who transact his business.
+
+सुवर्णकोष्ठागारप्ण्यकुप्यायुधतुलाशुल्कनौहस्त्यश्वरथपदात्य्**अध्यक्षा**दीन् **विविधान् विपश्चितः** स्थापयेत् । सर्व एते अमात्यगुणसंपद्युक्ता विज्ञेयाः ॥ ७.८१ ॥

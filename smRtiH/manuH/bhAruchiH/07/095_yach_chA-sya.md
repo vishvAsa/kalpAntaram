@@ -2,4 +2,5 @@
 title = "095 यच् चाऽस्य"
 
 +++
-095	And whatever merit (a man) who is slain in flight may have gained for the next (world), all that his master takes.
+
+राज्ञो ऽन्यस्यापि दण्डपुरुषस्य परावृत्तस्य् निन्दा श्लोकद्वयेनोक्ता, युक्ता च तन्निन्दा । यदर्थम् असौ ह्रियते तद् अकुर्वन् प्रत्यवेत्य् एव ॥ ७.९४–९५ ॥

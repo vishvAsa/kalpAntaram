@@ -2,4 +2,5 @@
 title = "065 अमात्ये दण्ड"
 
 +++
-065	The army depends on the official (placed in charge of it), the due control (of the subjects) on the army, the treasury and the (government of) the realm on the king, peace and its opposite (war) on the ambassador.
+
+यथा बलाधिकृते हस्त्यश्वादिबलम् **आ[यत्तम्** । । । राजसमुद्यमेन राष्ट्रम् अ]भिप्रायेण वर्धते, तद् उपेक्षया च क्षीयते । एवं **दूते** संधिविग्रहाव् आयत्ताव् इत् भूतार्थसंबन्धेनैषा दूतस्तुतिः । यतश् चैतद् एव मतम् ॥ ७.६५ ॥

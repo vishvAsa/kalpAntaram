@@ -2,4 +2,5 @@
 title = "018 दण्डः शास्ति"
 
 +++
-018	Punishment alone governs all created beings, punishment alone protects them, punishment watches over them while they sleep; the wise declare punishment (to be identical with) the law.
+
+न शास्त्रं राजा वा शास्ति । सत्य् अपि च शास्त्रे राजनि च **दण्ड**भयाद् एव शासनम् अनुवर्तन्ते वर्णाश्रमिणः । एवं च स **एवाभिरक्षति**, अकार्यकारिभ्य इतरान् । सुप्तेष्व् अपि राजपुरुषेष्व् ऐहिकभयात् परलोकभयाद् वा न यथाकामं प्रवर्तते लोकः ॥ ७.१८ ॥

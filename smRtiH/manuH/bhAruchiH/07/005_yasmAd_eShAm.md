@@ -2,4 +2,7 @@
 title = "005 यस्माद् एषाम्"
 
 +++
-005	Because a king has been formed of particles of those lords of the gods, he therefore surpasses all created beings in lustre;
+
+कार्येणैतद् अर्थं दर्शयति । यस्माद् आधिपत्यैश्वर्यात् **सर्वभूतान्य् अभिभवति** स्वेन **तेजसा** अत इन्द्रादिदेवता**मात्राभ्यो** **निर्मित** इति स्तूयते ॥ ७.५ ॥
+
+_यतश् च ।_

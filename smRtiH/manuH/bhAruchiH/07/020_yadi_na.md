@@ -2,4 +2,5 @@
 title = "020 यदि न"
 
 +++
-020	If the king did not, without tiring, inflict punishment on those worthy to be punished, the stronger would roast the weaker, like fish on a spit;
+
+न केवलं दण्डप्रणीतौ गुणावाप्तिः, अप्रणीतौ मत्स्यस्य न्यायः प्रवर्तते ॥ ७.२० ॥

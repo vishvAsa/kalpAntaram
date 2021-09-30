@@ -2,4 +2,5 @@
 title = "190 गुल्मांश् च"
 
 +++
-190	On all sides let him place troops of soldiers, on whom he can rely, with whom signals have been arranged, who are expert both in sustaining a charge and in charging, fearless and loyal.
+
+विशेषतो गुलेष्व् एवंगुणाह् स्थाप्याः । ततो हि भयम् उत्पन्नं महते ऽनर्थाय भवति स्वबलेन ॥ ७.१९० ॥

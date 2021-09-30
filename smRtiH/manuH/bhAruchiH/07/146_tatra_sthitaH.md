@@ -2,4 +2,5 @@
 title = "146 तत्र स्थितः"
 
 +++
-146	Tarrying there, he shall gratify all subjects (who come to see him by a kind reception) and afterwards dismiss them; having dismissed his subjects, he shall take counsel with his ministers.
+
+**मन्त्रि]भिः सह** । नित्यवृत्तं राज्ञः श्लोकद्वयेनोच्यते ॥ ७.१४५–४६ ॥

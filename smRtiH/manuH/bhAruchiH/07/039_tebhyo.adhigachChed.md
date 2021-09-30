@@ -2,4 +2,7 @@
 title = "039 तेभ्यो ऽधिगच्छेद्"
 
 +++
-039	Let him, though he may already be modest, constantly learn modesty from them; for a king who is modest never perishes.
+
+विनयो हि द्विविधः- वाभाविकः आधेयश् च । शुश्रूषादिगुणयुक्तं च विद्या विनयति । अतो यद्य् अपि स्वभावतो विनीतात्मा भवेत्, तथाप्य् अभ्यासेन पाटवं जनयेत् । कस्मात् । पुनर् इयान् विनयाधाने यत्न आस्थीयते ॥ ७.३९ ॥
+
+_येन-_

@@ -2,4 +2,5 @@
 title = "082 आवृत्तानाङ् गुरुकुलाद्"
 
 +++
-082	Let him honour those Brahmanas who have returned from their teacher's house (after studying the Veda); for that (money which is given) to Brahmanas is declared to be an imperishable treasure for kings.
+
+इदम् अपि स्नातकेभ्यो नियमदानं राज्ञो **विधीयते** । एतेभ्यो ऽपि ह्य् अददतः प्रत्यवायः । तथा चोक्तम् "अदित्संस् त्यागम् अर्हति" (म्ध् १०.११३) इति ॥ ७.८२ ॥

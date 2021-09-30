@@ -2,4 +2,5 @@
 title = "069 जाङ्गलं सस्यसम्पन्नम्"
 
 +++
-069	Let him settle in a country which is open and has a dry climate, where grain is abundant, which is chiefly (inhabited) by Aryans, not subject to epidemic diseases (or similar troubles), and pleasant, where the vassals are obedient and his own (people easily) find their livelihood.
+
+जाङ्ल्गलं नानाविधधान्यमूलफलपुष्पतृणेन्धनहेतुम् । **सस्यसंपन्नं** दुर्भिक्षरहितम् । **आर्यप्रायं** ब्राह्मणभूयिष्ठं धर्मादिपरिपालननिमित्तम् । **अनाविलं** श्वापदसरीसृपतस्करदंशमशकादिभिर् अनाकुलम् । **रम्यं** सर्वर्तुकुसुमसमृद्धपादपोद्यानादिभिः । **आनतसामन्तं** प्रह्वीभूतविनतसामन्तम् । **स्वाजीव्यं** प्रसन्नसलिलजलाशयम् अतिविशंकटगृहप्रासादमालिनम् । एभिश् च जाङ्गलादिभिर् अन्यैश् च देशगुणैः संपन्नं **देशम् आवसेत्** ॥ ७.६९ ॥

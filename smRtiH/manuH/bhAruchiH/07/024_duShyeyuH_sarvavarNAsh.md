@@ -2,4 +2,5 @@
 title = "024 दुष्येयुः सर्ववर्णाश्"
 
 +++
-024	All castes (varna) would be corrupted (by intermixture), all barriers would be broken through, and all men would rage (against each other) in consequence of mistakes with respect to punishment.
+
+अधार्यमाणे न्यायन् दण्डे वर्णनिमित्ता धर्मा **दुष्येयुः** । ये च धर्मार्थकाम**सेतवः** ते च **भुद्येरन्** । किं बहुना, कः शक्नोति भगवन्तं दण्डं धर्मनामानं व्यवस्थाकारिणं बहुगुणत्वात् स्तोतुम् ॥ ७.२४ ॥

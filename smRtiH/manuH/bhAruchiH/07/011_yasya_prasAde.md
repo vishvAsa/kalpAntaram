@@ -2,4 +2,7 @@
 title = "011 यस्य प्रसादे"
 
 +++
-011	He, in whose favour resides Padma, the goddess of fortune, in whose valour dwells victory, in whose anger abides death, is formed of the lustre of all (gods).
+
+अतो न केवलम् असौ भयात् प्रत्यवायपरिहारार्थम् आराध्यः, अभ्युदयो ऽपि हि तस्मात् सम्यग् उपचरिताद् विशिष्टो भवति ॥ ७.११ ॥
+
+_अतश् चैवं च सति-_

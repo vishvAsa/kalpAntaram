@@ -2,4 +2,5 @@
 title = "075 तत् स्याद्"
 
 +++
-075	Let that (fort) be well supplied with weapons, money, grain and beasts of burden, with Brahmanas, with artisans, with engines, with fodder, and with water.
+
+दुर्गोपरोधकालप्रयोजनवतां प्रदर्शनार्थः श्लोकः । एवं च सत्य् अन्यद् अपि यत् कालप्रयोजनं वधशल्यविषवैद्यमौहूर्तिकादि तद् अपि ग्राह्यम् ॥ ७.७५ ॥

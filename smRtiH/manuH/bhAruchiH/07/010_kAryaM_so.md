@@ -2,4 +2,7 @@
 title = "010 कार्यं सो"
 
 +++
-010	Having fully considered the purpose, (his) power, and the place and the time, he assumes by turns many (different) shapes for the complete attainment of justice.
+
+अतश् चासौ वाल्लभ्यान् मैत्र्यात् स्वाजन्यद्वारेण वा नावमन्तव्यः ॥ ७.१० ॥
+
+_यतश् च तस्य सम्यग् उपचरितस्य-_

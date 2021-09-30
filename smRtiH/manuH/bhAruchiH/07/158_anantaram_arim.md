@@ -2,4 +2,5 @@
 title = "158 अनन्तरम् अरिम्"
 
 +++
-158	Let (the king) consider as hostile his immediate neighbour and the partisan of (such a) foe, as friendly the immediate neighbour of his foe, and as neutral (the king) beyond those two.
+
+विजिगीषोर् भूम्य्**अनन्तरम्** **अरिं विद्यात्** । तथारिमित्रं मित्रमित्रं च । एवम् अपरभूम्यन्तरो विजिगीषोर् **मित्रं** भवति । **उदासीनस् तयोः परः** । अरिमित्रलक्षणं सहजकृत्रिमयोर् अपि द्रष्टव्यम् ॥ ७.१५८ ॥

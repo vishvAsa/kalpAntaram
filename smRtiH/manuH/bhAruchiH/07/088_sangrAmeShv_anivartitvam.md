@@ -2,4 +2,7 @@
 title = "088 सङ्ग्रामेष्व् अनिवर्तित्वम्"
 
 +++
-088	Not to turn back in battle, to protect the people, to honour the Brahmanas, is the best means for a king to secure happiness.
+
+यथा प्रजापालनब्राह्मणशुश्रूषणे राज्ञां विशिष्टो धर्म, एवं संग्रामेष्व् अनिवर्तित्वम् इत्य् अनिवृत्तिस्तुतिः ॥ ७.८८ ॥
+
+_तथा चाह ।_

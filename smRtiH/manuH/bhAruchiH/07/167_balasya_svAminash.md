@@ -2,4 +2,5 @@
 title = "167 बलस्य स्वामिनश्"
 
 +++
-167	If the army stops (in one place) and its master (in another) in order to effect some purpose, that is called by those acquainted with the virtues of the measures of royal policy, the twofold division of the forces.
+
+बलवताभिभूतो दुर्गापाश्रयो द्विविधा बलं कृत्वा स्वकार्यसिद्धिं कुर्यात् । समर्थो वा परानुग्रहे निरण्यादिफलापेक्षया बलस्य केनचिद् अंशेन ऽन्यं राजानम् अनुगृह्णीयात् ॥ ७.१६७ ॥

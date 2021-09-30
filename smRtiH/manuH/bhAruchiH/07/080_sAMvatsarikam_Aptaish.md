@@ -2,4 +2,5 @@
 title = "080 सांवत्सरिकम् आप्तैश्"
 
 +++
-080	Let him cause the annual revenue in his kingdom to be collected by trusty (officials), let him obey the sacred law in (his transactions with) the people, and behave like a father towards all men.
+
+यथोक्तेभ्य आयस्थानेभ्य आम्नायप्रामाण्येन षष्ठाष्टमभागग्रहणादिना **बलिम् आहारयेत्** । [करदेष्व् अन्येषु च **पितृवत्**] स्यात् ।

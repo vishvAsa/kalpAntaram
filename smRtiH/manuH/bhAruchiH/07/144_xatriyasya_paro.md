@@ -2,4 +2,5 @@
 title = "144 क्षत्रियस्य परो"
 
 +++
-144	The highest duty of a Kshatriya is to protect his subjects, for the king who enjoys the rewards, just mentioned, is bound to (discharge that) duty.
+
+**युक्तश् चैवाप्रमत्तश्** चा[स्खलितबुद्धिर्] यस्य । प्रजारक्षणविध्यर्थवादार्थास् त्रयः श्लोकाः ॥ ७.१४२–४४ ॥

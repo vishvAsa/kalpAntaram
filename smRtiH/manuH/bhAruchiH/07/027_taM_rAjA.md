@@ -2,4 +2,7 @@
 title = "027 तं राजा"
 
 +++
-027	A king who properly inflicts (punishment), prospers with respect to (those) three (means of happiness); but he who is voluptuous, partial, and deceitful will be destroyed, even through the (unjust) punishment (which he inflicts).
+
+अदृष्टम् उत्सृज्य दृष्टेन चैनं प्रगुणीकरोति । येन **सम्यक्** प्रणीत एष त्रिवर्गेण प्रणेतारं वर्धयति । कामादिदिषैश् च **दण्डेनैव निहन्यते** ॥ ७.२७ ॥
+
+_यस्माद्-_

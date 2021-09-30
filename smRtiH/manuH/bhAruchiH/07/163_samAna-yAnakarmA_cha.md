@@ -2,4 +2,5 @@
 title = "163 समान-यानकर्मा च"
 
 +++
-163	An alliance which yields present and future advantages, one must know to be of two descriptions, (viz.) that when one marches together (with an ally) and the contrary (when the allies act separately).
+
+संभूय यानं यस्य स **समानयानकर्मा** संधिः । त्वम् इतो याहि अहम् इति यास्यामीत्य् असमानयानकर्मा **विपरीतः** संधिः । तथा कोशादिलाभेनैकस्य तदात्वयुक्तः इतरस्य्**आयतियुक्तः** । एवं चायं **द्विलक्षणः** संपद्यते **संधिः** ॥ ७.१६३ ॥

@@ -2,4 +2,7 @@
 title = "044 इन्द्रियाणाञ् जये"
 
 +++
-044	Day and night he must strenuously exert himself to conquer his senses; for he (alone) who has conquered his own senses, can keep his subjects in obedience.
+
+श्रोत्रादीनां शब्दादिषु यथाशास्त्रं प्रवृत्तिर् इन्द्रियजयः । स च वर्णधर्मेषूक्तो [मुख्यो विनय इति पुनर् इहोपदिष्टः] ॥ ७.४४ ॥
+
+_कथं नामायं जितेन्द्रियः ।_

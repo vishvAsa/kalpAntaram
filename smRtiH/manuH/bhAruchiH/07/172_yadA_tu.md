@@ -2,4 +2,5 @@
 title = "172 यदा तु"
 
 +++
-172	But if he is very weak in chariots and beasts of burden and in troops, then let him carefully sit quiet, gradually conciliating his foes.
+
+परिक्षीणे हिरण्यादीनां संधायात्मनो ऽभ्युच्चयं कुर्वन्न् आसीत, सान्त्वयन्न् अरिं सामोपप्रदानाभ्याम् ॥ ७.१७२ ॥

@@ -2,4 +2,5 @@
 title = "139 नोच्छिन्द्याद् आत्मनो"
 
 +++
-139	Let him not cut up his own root (by levying no taxes), nor the root of other (men) by excessive greed; for by cutting up his own root (or theirs), he makes himself or them wretched.
+
+तद् एव प्रतिषेधाद् आत्मनः परेषां च तन्त्रं नोच्छिन्द्यात् ॥ ७.१३९ ॥

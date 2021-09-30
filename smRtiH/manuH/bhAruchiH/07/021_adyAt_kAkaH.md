@@ -2,4 +2,7 @@
 title = "021 अद्यात् काकः"
 
 +++
-021	The crow would eat the sacrificial cake and the dog would lick the sacrificial viands, and ownership would not remain with any one, the lower ones would (usurp the place of) the higher ones.
+
+सर्वा धर्माण् (?) । काकश्वादयः ऋद्धिमद्भिः सर्वोत्तमैर् अपि देवैर् दण्डाद् ऋते न शक्यन्ते प्रतिवारयितुम् । किं पुनर् अन्यः । सुहृन्मित्रस्वजनवचनाद् इति ॥ ७.२१ ॥
+
+_एवं च सति-_

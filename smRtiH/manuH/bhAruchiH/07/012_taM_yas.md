@@ -2,4 +2,5 @@
 title = "012 तं यस्"
 
 +++
-012	The (man), who in his exceeding folly hates him, will doubtlessly perish; for the king quickly makes up his mind to destroy such (a man).
+
+अनयस् तु द्विष्यमाणः कदाचिद् धर्मापेक्षयाशक्त्या वा सहेत, राज्ञः पुनः सहमानस्य स्वतन्त्रविरोदो यतो ऽशक्तश् चासौ निग्रहणं कर्तुम् इति । अतः सदानुवर्तितव्यो निरुपधैस् सद्भिः ॥ ७.१२ ॥

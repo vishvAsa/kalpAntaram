@@ -2,4 +2,5 @@
 title = "038 वृद्धांश् च"
 
 +++
-038	Let him daily worship aged Brahmanas who know the Veda and are pure; for he who always worships aged men, is honoured even by Rakshasas.
+
+इमान् अपरान् विद्यावृद्धान् ब्राह्मणान् धर्मायैव केवलाय सेवेत । येन **वृद्धसेवी** न केवलं धर्मेण युज्यते, लोके ऽपि च विश्वसनीयतमो भवति । अतश् च **रक्षोभिर् अपि पूज्यते** इत्य् उच्यते ॥ ७.३८ ॥

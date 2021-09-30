@@ -2,4 +2,5 @@
 title = "098 एषो ऽनुपस्कृतः"
 
 +++
-098	Thus has been declared the blameless, primeval law for warriors; from this law a Kshatriya must not depart, when he strikes his foes in battle.
+
+अनुपस्कृतः अकृतः स्वभावसिद्धगुण इत्य् अर्थः । विगुणम् उपस्क्रियते गुणाधानार्थम् । उपसंहारार्थश्लोकः ॥ ७.९८ ॥

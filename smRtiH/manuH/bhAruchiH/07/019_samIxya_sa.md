@@ -2,4 +2,5 @@
 title = "019 समीक्ष्य स"
 
 +++
-019	If (punishment) is properly inflicted after (due) consideration, it makes all people happy; but inflicted without consideration, it destroys everything.
+
+नैतावता मुच्यामहे, असम्यग्धृतः कार्यं न करोतीति । यथैव सम्यग्धृतो **रञ्जयति प्रजाः**, एवम् असम्यग्धृतः सर्वम् एव **विनाशयति** ॥ ७.१९ ॥

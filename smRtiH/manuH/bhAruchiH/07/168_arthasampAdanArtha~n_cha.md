@@ -2,4 +2,5 @@
 title = "168 अर्थसम्पादनार्थञ् च"
 
 +++
-168	Seeking refuge is declared to be of two kinds, (first) for the purpose of attaining an advantage when one is harassed by enemies, (secondly) in order to become known among the virtuous (as the protege of a powerful king).
+
+महता परेण पीड्यमानस्य संश्रयः तत्संश्रितश् चैनं सर्वयत्नैस् तथात्मकार्यं संपादयेत् । **साधुष्व् अव्यपदेशा**र्थं पापिनापि । संश्रयकारणेनापदा संश्रयेत् । तत्संश्रितो हि समानानाम् अभिभवनीयस् तदा भवति ॥ ७.१६८ ॥

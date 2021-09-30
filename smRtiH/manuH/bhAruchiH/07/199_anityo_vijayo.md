@@ -2,4 +2,5 @@
 title = "199 अनित्यो विजयो"
 
 +++
-199	For when two (princes) fight, victory and defeat in the battle are, as experience teaches, uncertain; let him therefore avoid an engagement.
+
+जयपराजययोर् अनित्यत्वात् प्रयत्नतो युद्धं परिहरणीयम् । तस्माद् असंदिग्धः तनुर् अप्य् अर्थसंदिग्धान् महतो ऽपि श्रेयान् ॥ ७.१९९ ॥

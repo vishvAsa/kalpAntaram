@@ -2,4 +2,7 @@
 title = "017 स राजा"
 
 +++
-017	Punishment is (in reality) the king (and) the male, that the manager of affairs, that the ruler, and that is called the surety for the four orders' obedience to the law.
+
+**दण्ड** एव **राजा**, तन्निमित्तत्वाद् राजत्वस्य । स एव **पुरुषः**, येन बलीयसो ऽपि पुरुषान् स्त्रीवन् न्यक्क्र्त्वा वशम् आनयति । स नेता यस्मात् तद्भयाद् एव कार्याणि सम्याङ् नीयन्ते । स एव **शासिता** येन तदपेक्षयैव वासना शासनीभवति । स एव **पतिभूर्** वर्णाश्रमव्यतिक्रमे प्रतिभूर् इव प्रतिभूः ॥ ७.१७ ॥
+
+_यतश् चैवम् अतः-_

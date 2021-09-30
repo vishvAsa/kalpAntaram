@@ -2,4 +2,5 @@
 title = "183 अन्येष्व् अपि"
 
 +++
-183	Even at other times, when he has a certain prospect of victory, or when a disaster has befallen his foe, he may advance to attack him.
+
+हस्तिबलप्रायो वर्षास्व् अश्वबलप्रायं रिपुं गच्छेत् । एतस्मिन् हि स्वबलकाले गच्छतो राज्ञो ऽवश्यंभावी जयः । व्यसनं च रिपोर् यदा तदा कदाचिद् यायात् । शक्तो [यायाद् अ]नाक्रन्दं च ॥ ७.१८३ ॥

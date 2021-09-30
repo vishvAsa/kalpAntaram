@@ -2,4 +2,7 @@
 title = "055 अपि यत्"
 
 +++
-055	Even an undertaking easy (in itself) is (sometimes) hard to be accomplished by a single man; how much (harder is it for a king), especially (if he has) no assistant, (to govern) a kingdom which yields great revenues.
+
+एवं च सति मन्त्रिणाम् अविधानाद् अन्यत्रैत एव यथासंभवं राज्ञो मन्त्रिणः स्युः । तथा च कृत्वोक्तम् एवेति ॥ ७.५५
+
+_तत्र ये तेषां मन्त्रिसचिवः,_

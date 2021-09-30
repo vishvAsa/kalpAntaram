@@ -2,4 +2,5 @@
 title = "170 यदा प्रहृष्टा"
 
 +++
-170	But when he thinks all his subjects to be exceedingly contented, and (that he) himself (is) most exalted (in power), then let him make war.
+
+वि[ग्रहार्थं दण्डादिसंपदाभ्युच्चि]तः स संतुष्टोपगृहीतप्रकृतिः संधिविग्रहं कुर्यात् ॥ ७.१७० ॥

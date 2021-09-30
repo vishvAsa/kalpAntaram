@@ -2,4 +2,5 @@
 title = "105 नाऽस्य छिद्रम्"
 
 +++
-105	His enemy must not know his weaknesses, but he must know the weaknesses of his enemy; as the tortoise (hides its limbs), even so let him secure the members (of his government against treachery), let him protect his own weak points.
+
+अभियोगातिशयेन स्वछिद्रगूहनं परछिद्रदर्शनं च शक्यते कर्तुम् । तच् च स्वविषये गूढपुरुषाणां कापटिकादीनां संचारेण विजानीयात् परविषये चेति ॥ ७.१०५ ॥

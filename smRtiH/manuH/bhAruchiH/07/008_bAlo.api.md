@@ -2,4 +2,7 @@
 title = "008 बालो ऽपि"
 
 +++
-008	Even an infant king must not be despised, (from an idea) that he is a (mere) mortal; for he is a great deity in human form.
+
+शक्नोति ह्य् अयं बालो ऽप्य् अमात्यादिभिर् अकार्यकारिणो निवर्तयितुम् ॥ ७.८ ॥
+
+_किं चान्यत् ।_

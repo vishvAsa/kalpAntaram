@@ -2,4 +2,5 @@
 title = "156 एताः प्रकृतयो"
 
 +++
-156	These (four) constituents (prakriti, form), briefly (speaking), the foundation of the circle (of neighbours); besides, eight others are enumerated (in the Institutes of Polity) and (thus) the (total) is declared to be twelve.
+
+**एताः प्रकृतयो मण्डलस्य** व्याख्याताः । अष्टौ चान्या आसां प्रकृतीनाम् एकैकस्याः प्रकृतेर् मित्रं मित्रमित्रं चेति द्वे द्वे प्रकृती उच्येते । एका अष्टौ चान्याः प्रसंख्याताः । एवम् उभयतो ऽपि द्वादश भवन्ति ॥ ७.१५६ ॥

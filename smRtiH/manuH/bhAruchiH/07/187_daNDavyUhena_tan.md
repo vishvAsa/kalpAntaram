@@ -2,4 +2,5 @@
 title = "187 दण्डव्यूहेन तन्"
 
 +++
-187	Let him march on his road, arraying (his troops) like a staff (i.e. in an oblong), or like a waggon (i.e. in a wedge), or like a boar (i.e. in a rhombus), or like a Makara (i.e. in two triangles, with the apices joined), or like a pin (i.e. in a long line), or like a Garuda (i.e. in a rhomboid with far-extended wings).
+
+पुरस्तान् नायकः पश्चात् सेनापतिः स्वामी च मध्ये पार्श्वयोर् हस्तिनः ततो ऽश्वा इत्य् एष साम्ग्रामिको यानविधिः दीर्घः समविन्यासो **दण्डव्यूहः** सर्वतो भये कार्यः । सूचीमुखः पश्चाद् विस्तृतः **शकटव्यूहः** पृष्टततो भये योजयितव्यः । श्लक्ष्णमुखपश्चार्धो बृहन्मध्यो **वराहव्यूहः** पार्श्वतो भये प्रशस्यते । एतेन **गरुडव्यूह** व्याख्यातः । लघुसमुत्थानसैनिकं सूचीव्यूहः दीर्घः प्रवीरपुरुषमुखः, अग्रतो भये च सादिष्ठः । **मकरव्यूहो** मुखजघनयोः पृथुर् उभयतो भये प्रशस्यते ॥ ७.१८७ ॥

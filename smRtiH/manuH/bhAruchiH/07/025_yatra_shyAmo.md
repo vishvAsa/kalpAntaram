@@ -2,4 +2,5 @@
 title = "025 यत्र श्यामो"
 
 +++
-025	But where Punishment with a black hue and red eyes stalks about, destroying sinners, there the subjects are not disturbed, provided that he who inflicts it discerns well.
+
+एतद्रूपं मनुष्याणां प्रशस्तम् अभीष्टं चातस् तेनासता रूपकं कृत्वा स्तौति । अथ वा द्विरूपो दण्डः कुःखदो भयदश् चेति । यतस् तस्य द्वाभ्यां रूपाभ्यां स्तूयते भयहेतुत्वं श्यामतया दुःखहेतुत्वं च लोहिताक्षत्वेनेति, देवतारूपं वेदं शास्त्रप्रत्यक्षं यथाभूतम् अनेनानूद्यते । समाप्ता दण्डस्तुतिः ॥ ७.२५ ॥

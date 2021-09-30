@@ -2,4 +2,7 @@
 title = "058 सर्वेषान् तु"
 
 +++
-058	But with the most distinguished among them all, a learned Brahmana, let the king deliberate on the most important affairs which relate to the six measures of royal policy.
+
+अधिकतरप्रज्ञो हि ब्राह्मणो धार्मिकत्वाच् च निर्दोषतया विश्वसनीयः ॥ ७.५८ ॥
+
+_एवं च सति,_

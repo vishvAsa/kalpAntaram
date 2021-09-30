@@ -2,4 +2,5 @@
 title = "062 तेषाम् अर्थे"
 
 +++
-062	Among them let him employ the brave, the skilful, the high-born, and the honest in (offices for the collection of) revenue, (e.g.) in mines, manufactures, and storehouses, (but) the timid in the interior of his palace.
+
+**तेषाम् अर्थे** शुचयो ऽर्थस्यायव्यययोः स्थाप्याः । दृष्टकर्मतयाविषादिनः **शूरा** बलाध्यक्षा भीरवस् तु भोजनादौ नियोक्तव्याः । सर्वे चैते **दक्षाः** कर्याः, ते हि द्वन्द्वोपनिपातान् अपरिगणय्योत्थानशीलतया स्वामिनः कार्यकालं नातिपातयन्ति ॥ ७.६२ ॥

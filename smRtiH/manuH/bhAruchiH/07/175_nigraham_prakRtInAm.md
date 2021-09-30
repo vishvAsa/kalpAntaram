@@ -2,4 +2,5 @@
 title = "175 निग्रहम् प्रकृतीनाम्"
 
 +++
-175	That (prince) who will coerce both his (disloyal) subjects and the army of the foe, let him ever serve with every effort like a Guru.
+
+यासां **प्रकृतीनां** दोषेण गमनीयतमो जातस् तासां यो निग्रहे समर्थस् तद्**अरिबलस्य च**, तदा तं **सर्वयत्नैर् गुरुं यथा** निरुपरोधेन चेतसा परं सद्भावम् आश्रितः **सेवेत** ॥ ७.१७५ ॥

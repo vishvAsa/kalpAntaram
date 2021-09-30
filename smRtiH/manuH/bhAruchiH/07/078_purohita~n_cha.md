@@ -2,4 +2,5 @@
 title = "078 पुरोहितञ् च"
 
 +++
-078	Let him appoint a domestic priest (purohita) and choose officiating priests (ritvig); they shall perform his domestic rites and the (sacrifices) for which three fires are required.
+
+अमात्यगुणैर् ब्राह्मणगुणैश् च युक्तः पुरो[हितः स्]यात् । ऋत्विजस् तु ब्राह्मणगुणयुक्ता एव ॥ ७.७८ ॥

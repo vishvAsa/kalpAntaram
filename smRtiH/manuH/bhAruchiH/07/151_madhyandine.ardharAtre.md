@@ -2,4 +2,5 @@
 title = "151 मध्यन्दिने ऽर्धरात्रे"
 
 +++
-151	At midday or at midnight, when his mental and bodily fatigues are over, let him deliberate, either with himself alone or with his (ministers), on virtue, pleasure, and wealth,
+
+धर्मार्थकामानां वृद्धिं **चिन्तयेत्** । परस्परविरोधिनां राज्ञाम् अन्यतमविवृद्धौ तेषाम् उच्छित्तिर् जायते ॥ ७.१५०–५१ ॥

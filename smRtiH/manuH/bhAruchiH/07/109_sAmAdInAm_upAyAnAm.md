@@ -2,4 +2,7 @@
 title = "109 सामादीनाम् उपायानाम्"
 
 +++
-109	Among the four expedients, conciliation and the rest, the learned always recommend conciliation and (the employment of) force for the prosperity of kingdoms.
+
+सामप्रयोगे क्षयव्ययायासा न भवन्ति, दण्डे तु सर्वसिद्धिर् एव तत्प्रतापाद्, अतस् ताव् अत्र प्रशस्तौ ॥ ७.११० ॥
+
+_अस्य दृष्टान्तः ।_

@@ -2,4 +2,7 @@
 title = "101 अलब्धम् इच्छेद्"
 
 +++
-101	What he has not (yet) gained, let him seek (to gain) by (his) army; what he has gained, let him protect by careful attention; what he has protected, let him augment by (various modes of) increasing it; and what he has augmented, let him liberally bestow (on worthy men).
+
+अत्र वृद्ध्यर्थम् उपायो वृद्धिशब्देनोच्यते, प्रकरणसामर्थ्यात् । **[चतुर्विध]निर्देशः ** दानेन **पात्रेषु निक्षिपेत्** । [**चतुर्विध**]निर्देशः **पुरुषार्थ**सिद्धये राज्ञः ॥ ७.१००–०१ ॥
+
+_यत एतद् एवम्, अतः ।_

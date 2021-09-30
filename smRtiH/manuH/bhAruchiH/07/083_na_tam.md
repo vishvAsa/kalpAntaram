@@ -2,4 +2,7 @@
 title = "083 न तम्"
 
 +++
-083	Neither thieves nor foes can take it, nor can it be lost; hence an imperishable store must be deposited by kings with Brahmanas.
+
+यथा स्तेना आटविका अमित्रा नृपद्रव्यापहारिणः न तथा ब्राह्मणादिभ्यो हिरण्यादिदानेन निधेः कुतश्चिद् विनाश इत्य् अर्थवादो ऽयं नियतदानस्तुत्यर्थः ॥ ७.८४ ॥
+
+_अयं चान्यः ।_
