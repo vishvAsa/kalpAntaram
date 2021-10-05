@@ -1,7 +1,8 @@
 +++
-title = "Computer setup"
+title = "सङ्गणक-व्यवस्था"
 unicode_script = "devanagari"
 +++
+For English instructions [go here](../computer-setup_en/) ।
 
 ## समानं कर्म
 - अधः XYZ इति यद् अस्ति, तस्य स्थाने स्वीयं github-नाम प्रयुङ्क्ताम्।
