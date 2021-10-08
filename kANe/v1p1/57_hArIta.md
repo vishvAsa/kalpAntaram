@@ -45,6 +45,6 @@ POONA
 
 545 
 
-According to him sureties are of five kinds,686 abhaya (for keeping the peace), pratyaya ( for confidence ), dāna ( return of money or carrying out one's obligations ), upast băna ( return of money lent on pledge ) and darśana ( for appearance ). He prescribed an absolute tutelage for women as regards the giving a way of the husband's wealth and allow. ed only maintenance to a young window of improper conduct.887 But Hārīta was humane in his treatment of even erring wives. He does not allow a husband to cast adrift an adulterous wife and prescribes that she should be given food to keep body and soul together and bare clothes.688 
+According to him sureties are of five kinds,686 abhaya (for keeping the peace), pratyaya ( for confidence ), dāna ( return of money or carrying out one's obligations ), upast bāna ( return of money lent on pledge ) and darśana ( for appearance ). He prescribed an absolute tutelage for women as regards the giving a way of the husband's wealth and allow. ed only maintenance to a young window of improper conduct.887 But Hārīta was humane in his treatment of even erring wives. He does not allow a husband to cast adrift an adulterous wife and prescribes that she should be given food to keep body and soul together and bare clothes.688 
 
 It appears from the above that Harita the jurist must have flourished nearly at the same time as Brhasrati and Kātyāyana, i. e. between 400 and 700 A. D. 

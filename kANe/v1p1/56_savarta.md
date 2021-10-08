@@ -21,7 +21,7 @@ History of Dharmaśāstra
 
 anarchy ), then it is possession that counts and not mere writing (i. e. possession will be protected and not mere paper title without possession ).075 He lays down that no interest was to be allowed if not stipulated for in certain cases, viz., on stridhana ( when used by the husband ), on interest, on deposit ( as long as it is not lost or deteriorated ) and in suretyship.s78_He enumerates ten wrongs ( aparādhas ) of which the king was to take cognisance suo motu without any private person's complaint, viz., restraint of the defendant ( before judgment ), obstruction of the public road, women conceiving in adultery, becoming rich without any ostensible means, destruction of a meeting hall and of trees and crops, kidnapping of maidens, sinning Brāhmaṇas, champerty and maintenance, destruction of the roads where tolls are to be paid, the danger of robbers, rape, injury to cows and Brāh manas.077 He prescribed that disputes were not to be investi gated on the full moon and new moon day, and on the 14th and 8th tithis. ( Vide Par. M. Vol. II. p. 23 ). 
 
-In Jivananda's collection ( part I, pp. 584-603 ) and in the Anandasrama collection (pp. 411-424) there is a smrti of Samvarta in 227 and 230 verses respectively. It purports to have been declared to Vāmadeva and other sages by Saṁvarta. Its main contents are:-- that is the religious country where the black deer roam about, rules of conduct for a Brahma cărin, prāyascittag for various lapses on the part of a student, 
+In Jivananda's collection ( part I, pp. 584-603 ) and in the Anandasrama collection (pp. 411-424) there is a smrti of Samvarta in 227 and 230 verses respectively. It purports to have been declared to Vāmadeva and other sages by Saṁvarta. Its main contents are:-- that is the religious country where the black deer roam about, rules of conduct for a Brahma cārin, prāyascittag for various lapses on the part of a student, 
 
 675 भुज्यमाने गृहक्षेत्र विद्यमाने तु राजनि । भुक्तिर्यस्य भवेत्तस्य न लेख्यं तत्र 
 
@@ -45,7 +45,7 @@ duties of householder, eulogy of liberality, duties of forest hermit and sampyä
 
 In a few M83. (e. g. I. O. cat. No. 1367 ) the Sam varta smrti comprised is different from the printed Saṁvarta. 
 
-The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparárka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparărka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Visvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smộti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Visvarūpa. 
+The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparárka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparārka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Visvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smộti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Visvarūpa. 
 
 ADU 
 

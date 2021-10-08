@@ -49,7 +49,7 @@ There are several mss. in the Govt. Mss. Library at the Bhandarkar Institute ( P
 
 1 
 
-The Mitâksarā (on Yáj. 111. 277 ) and the Smştiratnávali of Vedācārya (I. O. cat. No. 1552 p. 475 ) quote & Bșhad Angiras and the Mităksarā also quotes a Madhyama Angiras several times (on Yaj. III. 243, 247, 258 and 260 ). 
+The Mitâksarā (on Yáj. 111. 277 ) and the Smştiratnávali of Vedācārya (I. O. cat. No. 1552 p. 475 ) quote & Bșhad Angiras and the Mitāksarā also quotes a Madhyama Angiras several times (on Yaj. III. 243, 247, 258 and 260 ). 
 
 583 वसिष्टोऽनिराश्च । जनने तु मातापित्रोरेव सूतकम् । इत्येवमेव स्यादिप्राणां शुद्धि 
 

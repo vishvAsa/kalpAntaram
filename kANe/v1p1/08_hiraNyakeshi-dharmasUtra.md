@@ -18,7 +18,7 @@ the order of years in Āp. I. 1. 1. 21-22 ), omits the words "yadi gnāyāt dand
 
 varpajyāyasām cetarair yarņaih'( Āp. II. 5. 11.8), 'anyatra rāhudarganāt' (Ap. II. 7. 17. 25), 'athopanayanam tata udakopasparśanam' (Ap. 1. 1. 1. 36.). In the case of some sütras the readings of Hiranyakeśin present a smoother and more classical Sanskrit than that of Āpastamba and are mani. festly attempts to bring them in line with the requirements of the šistas at the time when the Apastambasūtras were taken over into the Hirangakesi school. Hirapyakešisutra has 
 
-pădonam' and 'ardhonam' for 'padunam' and 'ardhena' of A pastamba (I. 1. %. 13-14), 'asandarsane' for 'asandarse' (Ap. I. 1. 2. 29), 'aglanih' for 'aglārsnuh' (Ap. I. 1. 3. 22 ) 
+pādonam' and 'ardhonam' for 'padunam' and 'ardhena' of A pastamba (I. 1. %. 13-14), 'asandarsane' for 'asandarse' (Ap. I. 1. 2. 29), 'aglanih' for 'aglārsnuh' (Ap. I. 1. 3. 22 ) 
 
 praksālayet' for 'praksālayita' (Ap. 1.1.3. 36), -kartrpatyam' for kartapatyam' (Ap. I. 2. 5. 3), yathāśakti' for 'saktivisa yena' (Ap. II. 5. 12. 1). Another noticeable feature is that the arrangement of the sūtras into sub-sections is a good deal diffe rent in the two works. Bühler notes that from the 13th khandika (6th patala ) of the second praśpa both the manuscripts consulted by him do not indioate the patalas. The Deccan College manuscript does not number them from the second patala in the second praśna. The number of patalas in the first praśna of Hira yakeši is eight, 103 'पशवश्च मुखादाना अश्मा चालषणोध (वृतः । एतद् बाह्मण ते पण्यं तन्तुचारजनी 
 

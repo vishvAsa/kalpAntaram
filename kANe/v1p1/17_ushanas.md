@@ -5,7 +5,7 @@ title = "17 Uśanas"
 
 17. Usanas Kāvya Uśanas is an ancient sage in the Rgveda ; vide æg. I. 83. 5, where Kavya Uśanas is said to have been an helper of Indra and brought out the cows (carried away and concealed by the Panis). In Rg. VIII. 23. 17 that sage is said to have established Agni for Manu and in Rg IX. 87. 3 Ušanas is called a řsi and vipra and one who knew the hidden place where cows were concealed. 
 
-That Ušanas wrote a work on politics follows from seve ral circumstances. The Kauţiliya quotes the Auśanasāļı seven times. It is almost certainly referring to a work. That work contained directions on the administration of justice also, as Kautilya speaks of Aušanasa method of partition (in allowing a tenth additional share to the eldest son, III. 6 ), as Auśana săḥ prescribed fines in cases where witnesses proved stupid &c. (III. 11,44 ). The Mahābhārata, Santiparva 236 (chap. 56, 
+That Ušanas wrote a work on politics follows from seve ral circumstances. The Kauţiliya quotes the Auśanasāļı seven times. It is almost certainly referring to a work. That work contained directions on the administration of justice also, as Kautilya speaks of Aušanasa method of partition (in allowing a tenth additional share to the eldest son, III. 6 ), as Auśana sāḥ prescribed fines in cases where witnesses proved stupid &c. (III. 11,44 ). The Mahābhārata, Santiparva 236 (chap. 56, 
 
 236 
 
@@ -39,7 +39,7 @@ HST
 
 History of Dharmasastra 
 
-down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Aušanasī Dandanīti. Visvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Ušanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhătithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhatithi cites from Ušanas the words 
+down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Aušanasī Dandanīti. Visvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Ušanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhatithi cites from Ušanas the words 
 
 prakstīnām balam rājā,' which are an Anustubh pāda. This sūtra work on politics by Uśanas has not yet been discovered. The Tāndya-Mahā brāhmaṇa says that Kávya Uśanas was the purohita of the Asuras ( 7. 5. 20). 
 
@@ -83,7 +83,7 @@ History of Dharmasastra
 
 except in a few particulars.343 At the end of all chapters from the second (except the third ) there are verses and also in the midst. There are verses introduced with the words 
 
-there is a sloka on this point' ( bhavati cătra slokaḥ) or with the words 'api codīharanti'. 
+there is a sloka on this point' ( bhavati cātra slokaḥ) or with the words 'api codīharanti'. 
 
 There are about 45 verses in the work, the 7th and last chapter being almost entirely in verse. As the mss. are corrupt and full of gaps, it is often difficult to find out whether a particular passage is prose or verse. In several verses the words Manur abravid' occur and in one place 'tan manor anusāsanam : 214 The latter closely agrees with Manu. Several verses are common to Manu and Usanas. The verse 'gurutalpe bhagaḥ kāryaḥ' (Manu 9. 237) occurs in the ms. So also the verse "yena yena cidangena' occurs in both.245 The words of Manu (V.78 ) 'bāle deśāntarasthe' are expressly quoted with the words 'Manur-āha'. There are many other verses which, though not cited expressly as from a particular author, are found in other ancient works. For example, the verse 'āpaḥ śuddhā bhūmiyatäh' is Manu 5. 128 and Baud. Db. $. I. 5, 57. The half versekāruhastaḥ sucir nityam' is Manu 5. 126 and Baud. Dh. S. 1. 5. 48. The verse 'yadekarātrena karoti pāpam' occurs in Ap. Dh. S. ( I. 9. 27. 11 ) and Baud. Dh. S II. 1. 42. The verse 'tryaham prātas tryaham naktam 'is Manu XI. 211. It is a remarkable fact that some of the verses in this dharmasūtra agree closely with the verses in the Uśanas--smrti in verse, published by Jivananda ; e. g. the verse 'dattvå tu Vedānatyartham'occurs on p. 525 and the verse 'nimantritustu yo vipro adhyānam samprapadyate' on p. 527. Even the prose passages bear a 
 
@@ -147,15 +147,15 @@ FOUN
 
 271 
 
-This smrti quotes Usanas himself, also Manu, Bhrgu (Bhrguputra III ), Prajapati and speaks of dharmaśāstras, Puranas, Mimārsā, Vedanta, Pāñcarătras, Kāpālikas and Pāśupatas. Numerous verses from the Manusmộti are found in it (e. g. Manu II. 42, 49, 50, 125 ) and occur in the first chapter alone. There is a brief prose passage towards the end of the 9th chapter. It speaks of Kāpālikas, Pāśupatas and atheists together ( 1). 525 ). 
+This smrti quotes Usanas himself, also Manu, Bhrgu (Bhrguputra III ), Prajapati and speaks of dharmaśāstras, Puranas, Mimārsā, Vedanta, Pāñcarātras, Kāpālikas and Pāśupatas. Numerous verses from the Manusmộti are found in it (e. g. Manu II. 42, 49, 50, 125 ) and occur in the first chapter alone. There is a brief prose passage towards the end of the 9th chapter. It speaks of Kāpālikas, Pāśupatas and atheists together ( 1). 525 ). 
 
 None of these smộtis in verse contains the passages in verse on vyavahāra ascribel to Ušauas that occur in the Mitākṣarā, Smrticandrikā and other works. 
 
 The Mit. (on Yāj. III. 260 ) and Aparārka (e. g. p. 158, 192, 255 ) contain prose passages ascribed to Usanas and the same works contain numerous verses ascribed to Usanas, most of which are not found in the two smrtis in Jivananda. Some of the verses in Apararka ascribed to Ušanas are found in the Aušanasasmrti (e. g. Aparūrka p. 418 'kuryād-abaraḥ śrād dham’is Jivananda I. p. 521 ). 
 
-In other cases the verses quoted from Ušanas in Aparā rka, though not quite identical, bear a very close resemblance (e. g. the four verses in Aparărka on p. 450 closely resemble Jivananda I, p. 525 and have some verses in common ). 
+In other cases the verses quoted from Ušanas in Aparā rka, though not quite identical, bear a very close resemblance (e. g. the four verses in Aparārka on p. 450 closely resemble Jivananda I, p. 525 and have some verses in common ). 
 
-Among the views on Vyavahăra quoted from Ugapas are some interesting ones. It was he who said that a son was not bound to pay his father's debt, if it was a fine or unpaid toll or what is not vyāvahārika.261 He holds that even blind, deaf or old men, women, minors could be witnesses in charges of sākasa ( Aparārka p. 671). He is quoted also on ordeals, on svāmipāla vivāda and on steya. 
+Among the views on Vyavahāra quoted from Ugapas are some interesting ones. It was he who said that a son was not bound to pay his father's debt, if it was a fine or unpaid toll or what is not vyāvahārika.261 He holds that even blind, deaf or old men, women, minors could be witnesses in charges of sākasa ( Aparārka p. 671). He is quoted also on ordeals, on svāmipāla vivāda and on steya. 
 
 Ušanas is quoted in Kalpataru (Grhastha kāņda ) 8 times, in Srāddha 13 times (8 times in prose ), in Vyavahāra eleven times (all verses, except one proge passage on p. 814 on anuloma unions ), 6 times in Niyatakāla. 
 
