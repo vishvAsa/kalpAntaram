@@ -49,7 +49,7 @@ Anothor somewhat remarkable point is that A parārka in several cases places Cat
 
 The portions of the works on saņskāra and sraddha together with the commentary of Bhattoji, son of Lakşmidhara, have been published in the Benares Sanskrit 
 
-( Continued from the previous page ) त्रियम्बकम् ॥ ब्राह्मणानि च कल्पांश्च देवतास्तवनानि च । जप्त्वा पापैः प्रमुच्यत ETHICULA FTTTT: 11 aglatía q. by F10, 311pp. 187–188 ; a: rano is æg. IV. 40.6; fag Fat is 545* THE Rg. 
+( Continued from the previous page ) त्रियम्बकम् ॥ ब्राह्मणानि च कल्पांश्च देवतास्तवनानि च । जप्त्वा पापैः प्रमुच्यत ETHICULA FTTTT: 11 aglatīa q. by F10, 311pp. 187–188 ; a: rano is æg. IV. 40.6; fag Fat is 545* THE Rg. 
 
 VII. 59.12. 589 चतुर्विशतिमतात्-वृषल्यामभिजातस्त्रीणि वर्षाणि चतुर्थसमये नतं चोन् । 
 

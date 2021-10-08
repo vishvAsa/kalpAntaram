@@ -36,7 +36,7 @@ Het Fahlara il mancato 1. p. 118 ; 34921 p. 923 omite la and roads arafa mafara.
 
 537 
 
-view of Bịhaspati.667 In another verse the view of Vaivasvata is referred to.668 The Vyavaharanirnaya quotes (on p. 13 ) two verses from Sat-trimsan-mata defining those that may be called Pasandas.968 The Prthvicaudra ( in Vyavahāra prakāka p. 19) quotes two verses ( from Sat-trinsan-mata. which state that the words of a sudra even if he be a learned man should not be accepted ( as authoritative ).660 
+view of Bṛhaspati.667 In another verse the view of Vaivasvata is referred to.668 The Vyavaharanirnaya quotes (on p. 13 ) two verses from Sat-trimsan-mata defining those that may be called Pasandas.968 The Prthvicaudra ( in Vyavahāra prakāka p. 19) quotes two verses ( from Sat-trinsan-mata. which state that the words of a sudra even if he be a learned man should not be accepted ( as authoritative ).660 
 
 The Mit. on Yij. III. 288 quotes Sat-trimsan-mata as prescribing that if one recites śruti or smrti in a place where a candāla con hear it, he should take no food for one night (as a penance ) and remarks that this refers to a person who does not do so knowingly. It is noteworthy that the Smộtican drikool on Sraddha (1. 393 ) quotes two verses from a work called 'Sul.-vimsamata.' (doetrines of 26 smrtis) as quoted below. As no ins. was available, it is difficult to say what 36 sages are relied upon as authorities. 
 

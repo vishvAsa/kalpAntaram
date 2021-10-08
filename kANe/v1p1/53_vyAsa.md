@@ -57,7 +57,7 @@ p. 946 n. 1525 and pp. 1419-21 for these. Vyāsa say8644 nobody is a friend or f
 
 844 न कश्चित्कस्यचिन्मित्रं न कश्चित्कस्यचिद्रिपुः । सामर्थ्ययोगाजायन्ते मित्राणि 
 
-fqq4720111 7670 ( on (1574 ) p. 97 ; vide ilmaga 138. 110 a afata ... PHEHET I 374aca Pragadt ... F11 11; wat high नेच्छन्त्युद्वाहकर्मणि । जन्मनाम्नोरविज्ञान उद्वहेदविशतितः ॥ p. गृहस्थ. ( Fryo ); a = Arafatt pleaft sraf ya: @TY: 1 39679778ETO Focal Hacar agladia II Tartídaanzit in Tko ( foc qo ) p. 229. अकार्यशत निन्दिता वृत्तयः; प्रतिग्रहरुचिर्न स्याद्यानार्थ ( यात्रार्थ तु समाहरेत् । स्थित्यर्थादधिकं गृह्णन् ब्राह्मणो यात्यधोगतिम् ॥ 2.21 T. ( Frigo ). 
+fqq4720111 7670 ( on (1574 ) p. 97 ; vide ilmaga 138. 110 a afata ... PHEHET I 374aca Pragadt ... F11 11; wat high नेच्छन्त्युद्वाहकर्मणि । जन्मनाम्नोरविज्ञान उद्वहेदविशतितः ॥ p. गृहस्थ. ( Fryo ); a = Arafatt pleaft sraf ya: @TY: 1 39679778ETO Focal Hacar agladia II Tartīdaanzit in Tko ( foc qo ) p. 229. अकार्यशत निन्दिता वृत्तयः; प्रतिग्रहरुचिर्न स्याद्यानार्थ ( यात्रार्थ तु समाहरेत् । स्थित्यर्थादधिकं गृह्णन् ब्राह्मणो यात्यधोगतिम् ॥ 2.21 T. ( Frigo ). 
 
 AINS 
 

@@ -103,7 +103,7 @@ History of Dharmaśāstra
 
 passage about Manu is quoted by Visvarūpa on Yāj. (II. 98 ) and corresponds closely with the teaching of Manu (8. 113). But the other passages crediting Manu with dividing ordeals into five kinds and giving his view about poison ordeal have no corresponding passage in the extant Manu. Therefore, Nārada had a version of Manu before him that was somewhat different in certain respects from our Manu or Nārada may be referring to Vrddha or Bșhat Manu. Besides this, there is one remarkable fact to be noted about the relation of Manu and Nārada. There are about 50 verses that are common to Manu and Nārada. Manu 8. 12-14 and 18-19 are Nārada (sabhā, verses 8-10 and 12-13 in a different order), Manu 8. 140-141 =N. (rņādāna 99-100), Manu 8. 148-149=N. (rņādāna 80-81), M. 8. 143=N. (mn. 129, M. 8. 64=N. (r. 177 ), M. 8. 72=N. ( ¥. 189 ), M. 8. 93 and 113=N. (r. 199, 201 ), M.98-99 = N(r. 208, 209 and Udyoga parva 35. 33-34 ), M. 8. 89=N. (r. 225 ), M. 8. 186-187, 189 191=N. ( upanidhi 10-13), M. 8. 232-233, 235=N. ( vetanasya-anapākarma 14-16 in a diffe rent order ), M. 9. 47=N. ( marital relation, verse 28 ), M. 8. 224-225=N. (marital-relation, 33-34), M, 9. 357-353=N. ( marital relation, 65-66 in reverse order ), M. 1.3=N. ( daya bhāga 31 ), M. 9. 216 =N. (dāyabhāga 44), M. 8. 267-269=N. (vākpārusya 15-17 ), M. 9. 270-272=N. ( vāk pārusya 22-24 ), M. 8. 281-284 =N. ( danda-pārusya ( 26-29), M. 4. 87=N (prakirņaka 44 ). 
 
-Nārada, mnādāna 158, 'srotriyās-tāpasā vỉddhā ye ca pravrajitā narāh I asāksinas-te vacanūn nātra heturudāhstah' has probably Manu 8.65 in view where we read 'na sākşi...na śrotriyo na lingastho na sajigebhyo vinirgataḥ'. 
+Nārada, mnādāna 158, 'srotriyās-tāpasā vṛddhā ye ca pravrajitā narāh I asāksinas-te vacanūn nātra heturudāhstah' has probably Manu 8.65 in view where we read 'na sākşi...na śrotriyo na lingastho na sajigebhyo vinirgataḥ'. 
 
 Besides these, there are several cases where Nārada closely agrees with Manu though the verses are not identical, e. g. Nārada ( sāhasa 19 ) may be compared with Manu 9. 271 and Nārada ( appendix on theft, verses 1-4 ) may be compared with Manu ( 9. 256-260 ). These facts establish that Nārada is based on a version of Manu that was essentially the same as the extant text of Manu, though there was some difference here and there. Nārada contains several verses that occur in the Mahābhārata. For example, Sānti III. 66=N. (vyavahāra mātņkā 72 ),611 Udyoga 35.58=N. ( sabhā, verse 18 ), Ustega 
 
@@ -301,7 +301,7 @@ Bhavasvāmin refers several times to other explanations of Nārada's verses with
 
 525 
 
-3916 ATA: Thirat...da Jata u sfa afati Hígangi fakte 50 
+3916 ATA: Thirat...da Jata u sfa afati Hīgangi fakte 50 
 
 a ga TEH: I on safjHT: III. 7. This is Maou X. 19 ; quifent यामपि-काणं वाप्यथवा खञ्जमन्यं यापीत्यनन्तरं वाक्पारुण्यप्रकरणे पठितं qattaateta 1; Fluo is HB VIII. 274. If may be noted that the extant Manusmrti declares that Bhrgu learnt the sāstra fon Mapy and taught it to the sages, 
 
@@ -315,7 +315,7 @@ TA
 
 481 
 
-sambitā; for example, on Stripuísayoga verse 111 he quotes Manu X. 19 as Bhāryavi-samhitā and on Manu VIII. 274 as Bhrgusamhitā on Vāguandapārusya' v. 20. He quotes Vālmiki and Vyāsa on Rnādāna' 628 verse 32. He quotes a Sārdūlavikridita verse on krodha' (anger) and a verse on unmāda'(delirium, or madness ) due to five causes on Dattāpradānika 8-10. Ou Rnülāna verse 31 he quotes an āryā on the importance of Ganita. On 'Rņādāna verge 72 Bhavasvāmin quotes a verse of Vararuci explaining the meaning of the words 'poganda, kuņi' and ' pangu '.527 
+sambitā; for example, on Stripuīsayoga verse 111 he quotes Manu X. 19 as Bhāryavi-samhitā and on Manu VIII. 274 as Bhrgusamhitā on Vāguandapārusya' v. 20. He quotes Vālmiki and Vyāsa on Rnādāna' 628 verse 32. He quotes a Sārdūlavikridita verse on krodha' (anger) and a verse on unmāda'(delirium, or madness ) due to five causes on Dattāpradānika 8-10. Ou Rnülāna verse 31 he quotes an āryā on the importance of Ganita. On 'Rņādāna verge 72 Bhavasvāmin quotes a verse of Vararuci explaining the meaning of the words 'poganda, kuņi' and ' pangu '.527 
 
 As in Bhavasvīmin's day various readings had already arisen in the Nāradasmrti and as he refers several times to the explanations of previous commentators, Bhavasvāmin would have to be placed (conjecturally ) some centuries after Nārada i. e. between 700 and 1000 A. D. 
 

@@ -25,7 +25,7 @@ Vide RI. AT. vol. III, part I, pp. 16-17, and airo p. 9-10, 120, 1910
 
 over the several varieties of stridhana and to prescribe lines of devolution as to stridhana. The verses on this topic occu rring in the nibandhas number ubout thirty. The leading nibandhas contain only a few quotations from Brhasrati on strīdhana. Hence it may be surmised that Kītyāyana proba bly was the first smộti writer to give elaborate rules on this topic. 
 
-It has been already shown how Kātyāyana often quotes the views of Bịhaspati. A few more examples may be added here. According to Brhaspati, says Kātyā yana, when a man who stands surety with others on a joint liability goes abroad, his son would have to pay the whole debt, but if the man dies then the son would be liable for his father's share only." Wheu cattle stray into fields, gardens, houses or cowpens, they may be, according to Brhas pati, caught hold of ( by the ear &c. ) or beaten.580 According to Bșhaspati, a man of the ksatriya, vaisya or sūdra caste may employ one of his own caste to do the work of a dāsa (slave or serf ), but even a Brālana could never employ another Brāhmana in the same way.561 
+It has been already shown how Kātyāyana often quotes the views of Bṛhaspati. A few more examples may be added here. According to Brhaspati, says Kātyā yana, when a man who stands surety with others on a joint liability goes abroad, his son would have to pay the whole debt, but if the man dies then the son would be liable for his father's share only." Wheu cattle stray into fields, gardens, houses or cowpens, they may be, according to Brhas pati, caught hold of ( by the ear &c. ) or beaten.580 According to Bșhaspati, a man of the ksatriya, vaisya or sūdra caste may employ one of his own caste to do the work of a dāsa (slave or serf ), but even a Brālana could never employ another Brāhmana in the same way.561 
 
 1 
 
@@ -243,7 +243,7 @@ verge about five varieties of lapses in conduct viz. mahāpā taka, atipātaka, 
 
 The next question is whether KĀtyāyana the jurist and the author of the Karmapradipa are identical. There are not sufficient data to identify the two. The only fact that points to the identity is that such eminent and early writers as Vijñānesvara and Aparārka appear to make no distinction between the two. Besides, the Karmapradipa is also an early work. Against this it has to be remembered that Visvarūpa, probably the most ancient of all extant commentators, no where quotes Kātyāyana ou acāra and prayascitta. This absence of quotations is not a very cogent argument; still it raises a doubt in one's mind whether a work of Katyāyana on ācāra and other non-jural topics was known to Visvarūpa. 
 
-A few words must be said about the additional 121 verses collected and published in Kane Festschrift by Prof. Aiyangar as ascribed to Kātyāyana. Many verses are ascribed to Bịhaspati in some Dharmaśāstra works which are attributed to Katyāyana by others. For reasons of space only a few striking examples are cited helow: (Kāt. = collection of Kātyāyana's verses by P. V. Kane and Bș. Col. stands for 
+A few words must be said about the additional 121 verses collected and published in Kane Festschrift by Prof. Aiyangar as ascribed to Kātyāyana. Many verses are ascribed to Bṛhaspati in some Dharmaśāstra works which are attributed to Katyāyana by others. For reasons of space only a few striking examples are cited helow: (Kāt. = collection of Kātyāyana's verses by P. V. Kane and Bș. Col. stands for 
 
 576 वरयित्वा तु यः कश्चित्प्रणश्येत्पुरुषो यदा।रक्तागर्मास्त्रीनतीत्य कन्यान्य वरयेद्वरम् ॥ 
 
@@ -275,7 +275,7 @@ is Br. 3.45 ( p. 43 ) found in Aparārka p. 625, Smộti
 
 candrikā and several other works. 3. 'Strībālārtālipijñānām' is Kāt. in Vy. N. p. 91, but Br. 
 
-Col. p. 66 (Bỉ. in Smr. c. p. 65 on Vy. ). 4. 'Paśyan-nanyasya dadatah' is Kāt. in Vy. N. p. 138, 
+Col. p. 66 (Bṛ. in Smr. c. p. 65 on Vy. ). 4. 'Paśyan-nanyasya dadatah' is Kāt. in Vy. N. p. 138, 
 
 while it is Br. in Aparārka p. 632, Smț. c. ( Vy. p. 68 ). 5. 'Parikseta svayam panyam'is Kāt. in Vy. N. p. 344, but 
 
@@ -283,7 +283,7 @@ Br. (in Br. Col. p. 156 and is Smp c. (Vy. p. 220 ),
 
 Vyavahāramātşkā p. 215 and others. 6. Vāgdandam prathamam kuryāt'is Kāt. acc. to Vy. N. 
 
-p. 528, but Bị. in Dandaviveka p. 263 ( Br. Col. p. 227). 
+p. 528, but Bṛ. in Dandaviveka p. 263 ( Br. Col. p. 227). 
 
 Three verses of Manu are quoted as occurring in Kāt. by Vy. N. p. 529, which are respectively Manu IX. 288 and Manu VIII. 124-125. 
 
@@ -303,7 +303,7 @@ FOUNDED
 
 507 
 
-assigned to different authors viz. to Nārada (first two occur in printed Nārada 12. 5-6 ), Byhaspati, Kāt. and Vyāsa ( No. 83 my collection of Kāt. ) is ascribed to both Bỉ, and Kāt. in Vyavahāra mītrkā p. 281 (it is Kautilya I. 19. 32 ); No. 141 (Pratijñādosa ) is ascribed to both Bộ. and Kāt. by Kalpa taru ( Vy.) p. 61, Vya. Mātrkā p. 291, but Aparārka (p. 610 ) and Smộ. c. (Vya. p. 40 ) ascribe to Bỉ. alone and it occurs in Visvarūpa on Yāj. II. 6 (without name). The Prthvi candra ascribes it to both Bỉ, and Kāt. (on Vya. p. 47, a digest of about last quarter of the 15th century A. D.); Kāt. No. 152 (sūhagasteya ' &c. ) is ascribed to both Br. and Kāt. by Přthvicandra ( Vy. p. 55 ) and Kalpataru ( Vy. p. 67 ) and is almost the same as Yāj. II. 12 ). 
+assigned to different authors viz. to Nārada (first two occur in printed Nārada 12. 5-6 ), Byhaspati, Kāt. and Vyāsa ( No. 83 my collection of Kāt. ) is ascribed to both Bṛ, and Kāt. in Vyavahāra mītrkā p. 281 (it is Kautilya I. 19. 32 ); No. 141 (Pratijñādosa ) is ascribed to both Bộ. and Kāt. by Kalpa taru ( Vy.) p. 61, Vya. Mātrkā p. 291, but Aparārka (p. 610 ) and Smộ. c. (Vya. p. 40 ) ascribe to Bṛ. alone and it occurs in Visvarūpa on Yāj. II. 6 (without name). The Prthvi candra ascribes it to both Bṛ, and Kāt. (on Vya. p. 47, a digest of about last quarter of the 15th century A. D.); Kāt. No. 152 (sūhagasteya ' &c. ) is ascribed to both Br. and Kāt. by Přthvicandra ( Vy. p. 55 ) and Kalpataru ( Vy. p. 67 ) and is almost the same as Yāj. II. 12 ). 
 
 Kātyāyana himself is named in & verse that is cited from Kātyāyana by Par. M.57? 
 

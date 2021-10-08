@@ -27,7 +27,7 @@ No. 1362 of the I. O. catalogue (and cat. of Madras Govt. msg. vol. V. pp. 1994.
 
 No. 1361 of the I. O. catalogue is a treatise in mixed pross and verse on prāyaścittas for the Mahāpātakas and Upapa takas. Several verses of Manu ( such as III, 8, 11, 171 ) occur therein. It contains 139 verses. In Mitra's Notices ( II. p. 41) there is a ms. called Karmavipāka in 87 chapters and 2376 verses, of which the work in Jivananda's collection seems to be a part or abridgment. 
 
-Aparārka in several places quotes the views of Sātātapa immediately followed by quotations from Víddha-Sātātapa or vice versa (e. g. on Yāj. I. 190, on III. 292 p. 1195 and p. 1201 ). 
+Aparārka in several places quotes the views of Sātātapa immediately followed by quotations from Vīddha-Sātātapa or vice versa (e. g. on Yāj. I. 190, on III. 292 p. 1195 and p. 1201 ). 
 
 No. 205 of A. 1882-83 of the Deccan College Collection is a Vrdilha-Siitātepa smrti in 64 verses on prāyaścittas for doing various things, on śrāddha, on washing the teeth. Her Cat. No. 1360 p. 398 is a Vrddha-Sātātapa-smști in 97 verheerse on defilement and purifications. The Anandāsrama collection 
 
