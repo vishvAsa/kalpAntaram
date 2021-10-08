@@ -40,7 +40,7 @@ La FITESI41:1 7919712: grada zzliegia:'t 3719. .; 37arait येन स्था
 
 llistory of Dhurmuśīstrou 
 
-e. g. Gệhya 8.21. 1 and Dharma II. 7. 16. 6-7. All these facts make it highly probable, if not certain, that the Grhya and Dharma sūtras were composed by the same author and that the details of certain topics were purposely omitted in the Gșhya to avoid repetition. The Smịticandrikā (III. p. 458 ) distinctly asserts that the author of the Dharmasūtra and the Grhyasūtra was the same. 
+e. g. Gṛhya 8.21. 1 and Dharma II. 7. 16. 6-7. All these facts make it highly probable, if not certain, that the Grhya and Dharma sūtras were composed by the same author and that the details of certain topics were purposely omitted in the Gșhya to avoid repetition. The Smịticandrikā (III. p. 458 ) distinctly asserts that the author of the Dharmasūtra and the Grhyasūtra was the same. 
 
 The contents of the Āp. dharma-sūtra are : 
 

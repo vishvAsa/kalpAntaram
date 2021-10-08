@@ -93,7 +93,7 @@ There are about 45 verses in the work, the 7th and last chapter being almost ent
 
 The my. (3rd chap. ) hus 7 Wanty Haunt: 1 ATTENUTA ..: 1 वैश्यायामम्बष्ठः । शूद्रायां पारशवो निषाद इत्येके। क्षत्रियेण वैश्यायां क्षत्रियः शुदायामुग्रः । वैश्येन शूद्रायां वैश्यः । शुद्रेण वैश्यायामायोगवः क्षत्रियायां क्षत्ता FETTI post: eto. 
 
-Thoms, reads 'Fat Faria Toska arhail Fetal ?)71771 Borg adf] ATHI T eagat na il'; while 47 ( 8. 124 ) 2.... SUERT मनुः स्वायंभुवोब्रवीत् । त्रिषु वर्णेषु यानि स्युरक्षतो ब्राह्मणो व्रजेत् ॥ The ms. reads, IA a lę zoša ( Parcgia?) PERTI TEHAHAHA Da for free haill; in \#7 ( 8. 279 ) the last pada is तन्मनोरनुशासनम् . 
+Thoms, reads 'Fat Faria Toska arhail Fetal ?)71771 Borg adf] ATHI T eagat na il'; while 47 ( 8. 124 ) 2.... SUERT मनुः स्वायंभुवोब्रवीत् । त्रिषु वर्णेषु यानि स्युरक्षतो ब्राह्मणो व्रजेत् ॥ The ms. reads, IA a lṛ zoša ( Parcgia?) PERTI TEHAHAHA Da for free haill; in \#7 ( 8. 279 ) the last pada is तन्मनोरनुशासनम् . 
 
 245 
 

@@ -45,7 +45,7 @@ ordeals with Nirada. 747 Vide स्मृतिसार ( I. 1). ent. No. 301,
 
 573 
 
-wrote a digest of smètis in which he paid particular attention to the explanation of the words of Yājsavalkya. The Rāja nitiratnākara750 of Candesvara quotes the views of Srikara on Rājaniti, one of which is that the poor and helpless are entitled to a share of the royal wealth. 
+wrote a digest of smṛtis in which he paid particular attention to the explanation of the words of Yājsavalkya. The Rāja nitiratnākara750 of Candesvara quotes the views of Srikara on Rājaniti, one of which is that the poor and helpless are entitled to a share of the royal wealth. 
 
 Hemālrist quotes the view of Srikara on Visnu and dis approves of the faults found therein by the author of the Paụuita-paritosa. 
 

@@ -88,7 +88,7 @@ gļhyasūtra ) are accepted or adopted by the Chandogas (i. e. Sāmavedins). The
 
 Not only Kumārila but an earlier famous writer on Logic and Philosophy viz. Dharmakirti in his Nyāyabindu appears to suggest that Gautama was chief among the exponents of Dharmaśāstra.60c 
 
-Dr. Ram Gopal relies ( on p. 52 ) mainly on two circumsta nces, viz (1) that chapter 26 of Gaut. Dh. S. dealing with expiations called Kệcchras is identical with Sāmavidhāna Br. I. % and argues that it is not unreasonable to assume that the Gautama-dharma-sūtra borrowed it from that Brāhmana; (2) that the majority of the purificatory texts prescribed in Gaut. Dh. S. (19. 13 ) belong to the Sāmaveda. I shall discuss the second point first. The relevant sūtra is set out in the note in transliteration and with explanations in some cases,60s 
+Dr. Ram Gopal relies ( on p. 52 ) mainly on two circumsta nces, viz (1) that chapter 26 of Gaut. Dh. S. dealing with expiations called Kṛcchras is identical with Sāmavidhāna Br. I. % and argues that it is not unreasonable to assume that the Gautama-dharma-sūtra borrowed it from that Brāhmana; (2) that the majority of the purificatory texts prescribed in Gaut. Dh. S. (19. 13 ) belong to the Sāmaveda. I shall discuss the second point first. The relevant sūtra is set out in the note in transliteration and with explanations in some cases,60s 
 
 60 0 सन्दिग्धसाधनव्यतिरेको यथा-न त्रयीविदा ब्राह्मणेन ग्राह्यवचनः कश्चित्पुरुषो रागादि 
 

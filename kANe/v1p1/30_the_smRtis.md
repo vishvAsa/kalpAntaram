@@ -43,7 +43,7 @@ History of Dharmaśāstra
 
 In that work the word is used, according to Sankara, with reference to the Mahābhārata or the Manusmrti ( Vedānta sutra II. 3. 47, III. 1. 14, IV. 2. 14 ). 
 
-Manu applies the word Směti also to works that are opposed to and beyond the pale of the Veda (on XII. 95 ).307 But the word is used in this work in a narrower sense viz. Smrti means a work that is not opposed to the Veda or that does not treat the Veda as not authoritative and treats of varna, jāti, āśramas and cognate topics. The word Smști occurs in the Mahābharata (Santiparva 85. 10). But the more frequent word is Dharmaśāstra, though Manu (II. 10) says . Smiti is Dharmaśāstra.' On Pān. I. 2. 64308 there is a vārtika 'Dharmaśāstram ca tathā' ( 39 in vol. I. p. 242 of Kiel horn's ed.). Passages in the Mahābhāsya show that Patan 307 The Tantravārtika (p. 196, Ānad. od. ) refers to this gracugat 
+Manu applies the word Smṛti also to works that are opposed to and beyond the pale of the Veda (on XII. 95 ).307 But the word is used in this work in a narrower sense viz. Smrti means a work that is not opposed to the Veda or that does not treat the Veda as not authoritative and treats of varna, jāti, āśramas and cognate topics. The word Smști occurs in the Mahābharata (Santiparva 85. 10). But the more frequent word is Dharmaśāstra, though Manu (II. 10) says . Smiti is Dharmaśāstra.' On Pān. I. 2. 64308 there is a vārtika 'Dharmaśāstram ca tathā' ( 39 in vol. I. p. 242 of Kiel horn's ed.). Passages in the Mahābhāsya show that Patan 307 The Tantravārtika (p. 196, Ānad. od. ) refers to this gracugat 
 
 विकर्मस्था हैतुकाचैत एव हि ॥ एतदीया ग्रन्था एव च मन्वादिभिः परिहार्य 
 
