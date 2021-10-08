@@ -15,7 +15,7 @@ AL..datno
 
 are the sources ( means) of Vidyo and of Dharma. It would be noticed that the 14 sources are arranged by Yājñavalkya in a rising scale of importance and authoritativene88.460 The word Purāna ( a class of works ) occurs in the Atharvaveda (XI. 7. 24, XV. 6. 10-11). The Sat. Br. (XI. 5.6-8 ) includes 
 
-Itihasa puranam' among 'Svādhyāya' and furtber states ( XIII. 4. 3. 13 ) that on the 9th day of the Pāriplava ( an item in the Rājasûya sacrifice) the hotr priest narrates some Purāņa. The Tai. Ār. II. 10 mentions Brāhmaṇas, Itihāsas, Purānas, Kalpas etc. ( Brühmannitihāsān Purānāni Kalpan, Gāthā Nārāśamsih). In the Chandogya Upanisad ( VII. 2 and 4 ) Itihāsa--Purāna is spoken of as the fifth Veda and the Brbadāranyaka Up. (IV. 1. 2 ) separately mentions Iti hāna and Purāna. The Āśv. Gr. includes Purāṇāni under 'svādhyāya !.461 
+Itihasa puranam' among 'Svādhyāya' and furtber states ( XIII. 4. 3. 13 ) that on the 9th day of the Pāriplava ( an item in the Rājasūya sacrifice) the hotr priest narrates some Purāņa. The Tai. Ār. II. 10 mentions Brāhmaṇas, Itihāsas, Purānas, Kalpas etc. ( Brūhmannitihāsān Purānāni Kalpan, Gāthā Nārāśamsih). In the Chandogya Upanisad ( VII. 2 and 4 ) Itihāsa--Purāna is spoken of as the fifth Veda and the Brbadāranyaka Up. (IV. 1. 2 ) separately mentions Iti hāna and Purāna. The Āśv. Gr. includes Purāṇāni under 'svādhyāya !.461 
 
 It is not unlikely that originally there was only a single work called Purana. The Mahābhāsya ( Kielhorn, vol. I p. 9) uses the word Puranam and the Matsya (chap. 53) states that ori. ginally the Purīna was only one. But since the Tai. Ar. emp. loys the word 'Purīnāni' in the plural it appears likely that there were in the times of the Aranyaka at least three (if not more) works called Purana. A verse quoted below-Purānam Mānavo dharmah etc.-'462 occurs in many copies of the Manus mrti after XII. 110 and is mentioned by the Tantravārtika on Mimāṁsāsūtra 1.3.27 p. 286 ( Anan. ed., first half). 
 
@@ -135,7 +135,7 @@ Purānas have been published by different individuals, presses and societies. A 
 
 scholars aiming at the elucidation of the textual and other problems relating to the subject-matter embodied in the Purānas. 
 
-The preparation of a subjectwise encyclopaedia of Purāṇic material, publication of popular expositions of Puranas in English or Hindi are among the lines of work that are includ ed among the objectives of the Purāna Prakāśana Samiti. The subject-concordance of six Puranas viz. Kūrma, Linga, Matsya, Mārkandeya, Visnu and Vümuna is also ready (at the end of 1964). 
+The preparation of a subjectwise encyclopaedia of Purāṇic material, publication of popular expositions of Puranas in English or Hindi are among the lines of work that are includ ed among the objectives of the Purāna Prakāśana Samiti. The subject-concordance of six Puranas viz. Kūrma, Linga, Matsya, Mārkandeya, Visnu and Vūmuna is also ready (at the end of 1964). 
 
 For the critical edition of the Matsyapurāna, Dr. Raghavan is relying on more than thirty mss., all printed edi tions and an old Tamil translation. Besides, as each indivi. dual Purāna is closely connected with many other Purānas and is almost all Purānas have numerous common topics, Dr. Raghavan is using the other Puranas for parallel portions contained in them. As Purānas have been quoted in numerous Dharmagāstra works, Dr. Raghavan has collected all quote tions from the Matsya-purāna in nibandha works on Dharmasastra. His plau of work on the Matsya has been set forth in his Presidential Address at the 21st session of the All India Oriental Conference held at Srinagar in 1961. 
 
@@ -187,7 +187,7 @@ It may be stated here that the Smrti chapters in the Puranas are very much influ
 
 and 13, XI. 17; Brahma (kailāsasaṁhita ) chap. 
 
-114 ; Garuda 49 ; Kürme 18-20 (on ācāra of' yati, 
+114 ; Garuda 49 ; Kūrme 18-20 (on ācāra of' yati, 
 
 (uttarārdha ) 1 -16 making of a disciple, 
 
@@ -199,7 +199,7 @@ prastha and yati);
 
 Mārkandeya 25–26 ; Āhnika-Agni 155; Brahma- Nārada (pūrvārdha 27 
 
-vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarārdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pür- Brøţikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyāsin ); Skamme IV. I (pūrvārdha ) chap; | IV. I ( 12ũrvādha ) chāy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
+vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarārdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pūr- Brøţikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyāsin ); Skamme IV. I (pūrvārdha ) chap; | IV. I ( 12ũrvādha ) chāy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
 
 Ahandari 
 
@@ -243,7 +243,7 @@ ttamamāhātmya chap. kbanda 27 ); Garuda 51 ;
 
 39 ), VI. 272; Vāyu Kūrma, uttarārdha 26 
 
-. 58. (4 kinds, nitya, naimi ttika, kāmya, vimala ); Kalivarjya-Nārada (pür. Linga, uttarārdha 28 vũrdha chep. 24 ). (16 mahādānas) ; Matsya 
+. 58. (4 kinds, nitya, naimi ttika, kāmya, vimala ); Kalivarjya-Nārada (pūr. Linga, uttarārdha 28 vũrdha chep. 24 ). (16 mahādānas) ; Matsya 
 
 Karmavipāka--Brahma 108 ; 81-91, 205-206, 274-289 
 
@@ -363,7 +363,7 @@ amāvāsya ). res), 36-38 (Prayāga ), uttararlha 33-44 ; Linga, Utsurga-(works 
 
 vide under dāna and 39-40 ( Gangāsnīna ), 45 
 
-pratisthú. Bhavisya II ; 47 (Gayů ), 48-49 ( Bena res ), 50 (Sivalingas ), 
+pratisthū. Bhavisya II ; 47 (Gayū ), 48-49 ( Bena res ), 50 (Sivalingas ), 
 
 Nārada, pūrvārdha to 52-61 (Jagannātha 62 
 

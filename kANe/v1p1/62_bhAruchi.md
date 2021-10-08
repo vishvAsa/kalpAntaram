@@ -3,7 +3,7 @@ title = "62 Bhāruci"
 
 +++
 
-62. Bhāruci The Mit. on Yij. (I. 81) says that Bhiruci like Visvaripa held the view that the rulertau bhüryam gacchet' was a niyanma and not a paristkrinkhayti. On Yij. II 124 the Mit. says that the explanation of' the fourth share' to be given to un married sisters oflered by Asahiya and Medhitithi was the 
+62. Bhāruci The Mit. on Yij. (I. 81) says that Bhiruci like Visvaripa held the view that the rulertau bhūryam gacchet' was a niyanma and not a paristkrinkhayti. On Yij. II 124 the Mit. says that the explanation of' the fourth share' to be given to un married sisters oflered by Asahiya and Medhitithi was the 
 
 732 अत एवोक्तं श्राद्धकलिकायां-मासिकानि सपिण्डं च अमावास्या तथाब्दिकम् । 
 
@@ -75,9 +75,9 @@ FOUNO
 
 History of Dharmaśāstra 
 
-view to Bharuci and quotes the very words of Bhāruci.739 Vide J BBRAS for 1925 pp. 210-211 for further examples. There is nothing unnatural in Bharuci, the Visistādvaita philosopher, having composed a commentary on the Visnu dharmasútra. The extant Visnulharmasītra contains doctri nes peculiar to the Višistādvaita system such as the worship of Nārāyana or Vāsudeva, the four Vyuhas of Vasudeva &c. If Bhāruci was a Višistñilvaitin he would naturally turn to the sūtra of Visnu as having the greatest claim on his atten tion. Many of the sutras of Vislu quoted in the Sarasvati vilāsa with the explanations of Bharuci are not found in the printed text of Visnu, on which Nandapandita commented in the first half of the 17th century. It appears that the Sarasvativilāsa haid before it a larger version of Visnu current in the South ( vide note 118 p. 127 above ). 
+view to Bharuci and quotes the very words of Bhāruci.739 Vide J BBRAS for 1925 pp. 210-211 for further examples. There is nothing unnatural in Bharuci, the Visistādvaita philosopher, having composed a commentary on the Visnu dharmasūtra. The extant Visnulharmasītra contains doctri nes peculiar to the Višistādvaita system such as the worship of Nārāyana or Vāsudeva, the four Vyuhas of Vasudeva &c. If Bhāruci was a Višistñilvaitin he would naturally turn to the sūtra of Visnu as having the greatest claim on his atten tion. Many of the sutras of Vislu quoted in the Sarasvati vilāsa with the explanations of Bharuci are not found in the printed text of Visnu, on which Nandapandita commented in the first half of the 17th century. It appears that the Sarasvativilāsa haid before it a larger version of Visnu current in the South ( vide note 118 p. 127 above ). 
 
-On several points there is divergence between the views of Bhāruci and those of the Mit. Bhāruci differed from the Mit. as to the definition of düyco and vibhāgu, he allowed niyoga to childless widows, while the Mit. condemned it in the case of all widows; Bharuci, like Visvarūpa, did not men tion supratibundlove and apratibuındar dayco; Bhāruci, like Visvarūpa, held that a coparcener who concealed some joint property was not guilty of theft, while the Mit. held that he was. Vide J BBRA S for 1925 pp. 211-13 for more examples and details. 
+On several points there is divergence between the views of Bhāruci and those of the Mit. Bhāruci differed from the Mit. as to the definition of dūyco and vibhāgu, he allowed niyoga to childless widows, while the Mit. condemned it in the case of all widows; Bharuci, like Visvarūpa, did not men tion supratibundlove and apratibuındar dayco; Bhāruci, like Visvarūpa, held that a coparcener who concealed some joint property was not guilty of theft, while the Mit. held that he was. Vide J BBRA S for 1925 pp. 211-13 for more examples and details. 
 
 Prof. T. R. Chintamani submitted an important paper at the Benares Session of the All India 0. Conf. (in 1943-4) which is published in the proceedings, Vol. II pp. 352-360, wherein he informed scholars that at Trivandrum exists a ms. containiny a fragment of Bhāruci's commentary on Manu called ( Manuśāstra-vivarana ) on Adhyāya VI ( almost from the beginning ), on adhyāyas VII-XI and on a portion of 
 

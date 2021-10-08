@@ -121,9 +121,9 @@ History of Dharmasastra
 
 for killing various kind of birds and insects, for cutting trees and bushes, for drinking wine, for stealing gold and for the other deadly sins etc. 632 
 
-The Anulisanaparva of the Mahābhārata (Chap. 104 verse 72 ) states that those who are conversant with ancient times recited verses (gūthūs ) of Yama and then follow 84 verses which are more or less like verses found in several smrtis e. g. the verse 'ürdhyam prānā... pratipadyate' occurs as Anušāsana 104. 64-65 (and is Manu II. 120 ); so also 
+The Anulisanaparva of the Mahābhārata (Chap. 104 verse 72 ) states that those who are conversant with ancient times recited verses (gūthūs ) of Yama and then follow 84 verses which are more or less like verses found in several smrtis e. g. the verse 'ūrdhyam prānā... pratipadyate' occurs as Anušāsana 104. 64-65 (and is Manu II. 120 ); so also 
 
-Dūrādāvasathān ..düre kāryam hitaisinā'. This is Apušāsana 104.82 (Manu IV. 151). The verge Acārāllabhate hyāyur-ācāro hantyalaksanam' ( Anu. 104. 155 ) occurs in Manu IV. 156. It is possible that the final redactor of the Mahabhārata had before him a Smrti ascribed to Yama or it is likely that a few verses ascribed to Yama were first cited and the author of the Epic added a few more from other sources. Yams is pro fusely quoted in the various Kāndas of Kalpataru. 
+Dūrādāvasathān ..dūre kāryam hitaisinā'. This is Apušāsana 104.82 (Manu IV. 151). The verge Acārāllabhate hyāyur-ācāro hantyalaksanam' ( Anu. 104. 155 ) occurs in Manu IV. 156. It is possible that the final redactor of the Mahabhārata had before him a Smrti ascribed to Yama or it is likely that a few verses ascribed to Yama were first cited and the author of the Epic added a few more from other sources. Yams is pro fusely quoted in the various Kāndas of Kalpataru. 
 
 The Smṛticandrikā quotes a verse of Yama which speaks of the Sun being in the zodiacal sign Virgo.638 
 

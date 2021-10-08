@@ -3,7 +3,7 @@ title = "39 Aṅgiras"
 
 +++
 
-39. Angiras Angiras is one of the ten primordial sages mentioned in Manusmrti 1.34-35). It is & very ancient oame even in the Rgverle. On Yāj. I. 50 Viśvarúpa quotes a verge of Angiras that what is done according to one's owo will without follow ing the dictates of Sāstra is fruitless.578 On Yaj. III. 248 Visvarūpa says that the vrutie called Vajra wu8 prescribed by Angiras for Brāhmunas guilty of deadly sins. Visvarūpa (on Yāj. III. 255 ) quotes two verses of Argiras on the prayaścitta for killine the wife of a brāhinana who has kindled the sacred fires for killing wives of other brahmanas and ksatriyas and vaisyas. On Yāj. III. 266 he quotes two verses of 
+39. Angiras Angiras is one of the ten primordial sages mentioned in Manusmrti 1.34-35). It is & very ancient oame even in the Rgverle. On Yāj. I. 50 Viśvarūpa quotes a verge of Angiras that what is done according to one's owo will without follow ing the dictates of Sāstra is fruitless.578 On Yaj. III. 248 Visvarūpa says that the vrutie called Vajra wu8 prescribed by Angiras for Brāhmunas guilty of deadly sins. Visvarūpa (on Yāj. III. 255 ) quotes two verses of Argiras on the prayaścitta for killine the wife of a brāhinana who has kindled the sacred fires for killing wives of other brahmanas and ksatriyas and vaisyas. On Yāj. III. 266 he quotes two verses of 
 
 Y 
 

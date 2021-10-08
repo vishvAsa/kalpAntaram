@@ -21,7 +21,7 @@ But it is doubtful whether we possess the ancient smṛti of Parāśara. The ext
 
 The Arthasāstra mentions the views of the Pārāśaras (School following Parāśara's views ) in I. 8. 7, I. 15. 23, I. 17. 9, II. 7. 12, VIII. 1. 24, VIII. 3. 30 ( of Prof. Kangle's edition). Therefore, it appears that there was a work of Pārāśara on politics, in which it is possible that vyavahāra also was dealt with. 
 
-The extant Parāśarasmrti is divided into twelve chapters and contains according to the last verse but only 592 verses. It deals only with ācāra and prayascitta. Mādhava intro duced his disquisition on vyuvahürı, which forms about a fourth of his extensive gloss, in an indirect way by regarding vyavahāra as a part of the duties of Ksatriyas on which the Parāsarasmṛti has something to say.491 
+The extant Parāśarasmrti is divided into twelve chapters and contains according to the last verse but only 592 verses. It deals only with ācāra and prayascitta. Mādhava intro duced his disquisition on vyuvahūrı, which forms about a fourth of his extensive gloss, in an indirect way by regarding vyavahāra as a part of the duties of Ksatriyas on which the Parāsarasmṛti has something to say.491 
 
 TITU 
 

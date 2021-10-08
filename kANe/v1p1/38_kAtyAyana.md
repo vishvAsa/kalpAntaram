@@ -29,7 +29,7 @@ It has been already shown how Kātyāyana often quotes the views of Bṛhaspati.
 
 1 
 
-More than 21 nibandhas on Vyavahāra quote about 1100 verses of Katyayana on vyavahara, the Smṛticandrikā alone citing about 600 of them. In these verses Katyāyana refers at least a score of times to the views of Burgu. It is remarka ble that only a few of the views ascribed to Bhrgu are found in the extant Manusmrti. Katyayana says, according to Bhrgu, whatever ( ancestral) wealth was concealed by one coparcener from others, whatever was badly divided should be divided in equal shares when afterwards discovered ( Parā. Sara-Mülhaviya III, p. 566). This may well be compared with Manu 9. 215. Kātyāyanu says, according to Bhrgu, it is not Brāhmana-murder to kill an ātatayin who is foremost by his austerities, learning and caste. This has in view Manu 
+More than 21 nibandhas on Vyavahāra quote about 1100 verses of Katyayana on vyavahara, the Smṛticandrikā alone citing about 600 of them. In these verses Katyāyana refers at least a score of times to the views of Burgu. It is remarka ble that only a few of the views ascribed to Bhrgu are found in the extant Manusmrti. Katyayana says, according to Bhrgu, whatever ( ancestral) wealth was concealed by one coparcener from others, whatever was badly divided should be divided in equal shares when afterwards discovered ( Parā. Sara-Mūlhaviya III, p. 566). This may well be compared with Manu 9. 215. Kātyāyanu says, according to Bhrgu, it is not Brāhmana-murder to kill an ātatayin who is foremost by his austerities, learning and caste. This has in view Manu 
 
 559 एकच्छायाश्रिते सर्व दद्यात्तु प्रोषिते सुतः । मृते पितरि पित्रंशं परणं न 
 
@@ -287,7 +287,7 @@ p. 528, but Bṛ. in Dandaviveka p. 263 ( Br. Col. p. 227).
 
 Three verses of Manu are quoted as occurring in Kāt. by Vy. N. p. 529, which are respectively Manu IX. 288 and Manu VIII. 124-125. 
 
-The verse 'strīņām sākøyam striyaḥ kuryuh' is ascribed to Kāt. (my collection No. 351 ) and to Manu by Vyavahāra. mātņkā p. 323 (and it is Manu VIII. 68). The same is the case with the verse 'Svabhāvenaiva yad-brūyus' &c. (Kāt. No. 393, which is Manu 8. 78 ). The verse anupasthāpayan mülam' (Kat. No. 619) is ascribed to Manu by the Mit. on Yāj. II. 170 and to Kāt. by Sms. can. (Vy. p. 215 ), Par. M., Vivāda-ratnākara 108 and Viramitrodaya and Vy. Mayūkba. 
+The verse 'strīņām sākøyam striyaḥ kuryuh' is ascribed to Kāt. (my collection No. 351 ) and to Manu by Vyavahāra. mātņkā p. 323 (and it is Manu VIII. 68). The same is the case with the verse 'Svabhāvenaiva yad-brūyus' &c. (Kāt. No. 393, which is Manu 8. 78 ). The verse anupasthāpayan mūlam' (Kat. No. 619) is ascribed to Manu by the Mit. on Yāj. II. 170 and to Kāt. by Sms. can. (Vy. p. 215 ), Par. M., Vivāda-ratnākara 108 and Viramitrodaya and Vy. Mayūkba. 
 
 It is difficult to say why these differences arise. All that can be proposed as the rule to be followed is that the ascrip tion to Br, or Kāt. of a verse should be accepted on this basis that one should follow what the older and distinguished authors and works ( such as Visvarūpa, Mitākṣarā, Aparārka, Kalpataru, Vyavahāramātņkā, Smṛticandrikā and Parāśara Madhaviya ) say or a majority of them say. 
 
