@@ -197,7 +197,7 @@ hastha )and 27-28 ( vāna Visnu III. 11-12
 
 prastha and yati); 
 
-Mārkandeya 25–26 ; Ähnika-Agni 155; Brahma- Nārada (pūrvārdha 27 
+Mārkandeya 25–26 ; Āhnika-Agni 155; Brahma- Nārada (pūrvārdha 27 
 
 vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarärdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pür- Brøţikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyäsin ); Skamme IV. I (pūrvärdha ) chap; | IV. I ( 12ũrvādha ) cháy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
 

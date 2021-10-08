@@ -1161,7 +1161,7 @@ mūrkhāņām-ekam-icchasi' of A); ( 5 ) A. 100.24 - S. 5.37 (reads “Dānto' f
 
 cāranaiḥ' of A which is a misreading and makes 
 
-no sense). (7) A. 100.11-12 - 8. 5.40-41 (reads'anuprastÃ' 
+no sense). (7) A. 100.11-12 - 8. 5.40-41 (reads'anuprastĀ' 
 
 for 'anudrastā of A ); (8) A. 100.25-28 - S. 5.43--46 ( 8 reads 'udvijase 
 
