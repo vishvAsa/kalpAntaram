@@ -39,4 +39,4 @@ p. 12. 710 873 a fullar ureterala HTAT: 1 TEM PAT folio 133,61. Višvarūpa
 
 553 
 
-Since Bhartryajña is quoted by Medhătithi who also men tions Asahāya but not Viśvarūpa, it follows that Bhartryajia must have flourished before 800 A. 1), and was probably & contemporary of or slightly later than Asahāya. 
+Since Bhartryajña is quoted by Medhātithi who also men tions Asahāya but not Viśvarūpa, it follows that Bhartryajia must have flourished before 800 A. 1), and was probably & contemporary of or slightly later than Asahāya. 
