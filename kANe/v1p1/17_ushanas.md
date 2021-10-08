@@ -21,13 +21,13 @@ That Ušanas wrote a work on politics follows from seve ral circumstances. The K
 
 265 
 
-29-30 and 57. 3 ) refers to a work on politics by Ušanas and quotes three werses, the last being found in Sabhā 55. 14. In other places also we have a Nitiśästra ascribed to Bhargava ( Sānti. 210. 20 ) and certain verses are ascribed to him (Santi. 57. 40-41 and 139. 70-71). The Anušāsana-parva ( 139. 8-9) states. The Sāstras known to Uśanas and Bșhaspati cannot surpass the (innate ) intelligence of women; how can men guard them (completely ). This verse occurs in Pancatantra (B. S. S. ed. of 1873 p. 41 and Hertel's ed. p. 30 ). Bhārgava is said to be the first expounder of Nitiśāstra in Santi. 210. 20. Two verses from Säntiparva, chap. 138. 113 and 139. 71 are interesting as having been declared hy Usanas to Prahlada viz.237 those that confide in persons who were once inimical are destroyed by the latter and that one should proceed cautiously even after making an alliance ( sandhi). The Adiparva ( 76. 6 ) says that KĀvya was the purohitu of the asuras. The Salyaparva ( 39. 6 ) says that Kõvya performed austerities at Kajalamocanatirtha and the whole science of Niti ( Rājaniti ) appeared to him. The Udyogaparva states that everyone except Bhargava follows the wrong niti ( 39. 30). The Sintiparva (210. 20 ) states that Bhargava expounded Nitiśāstra which is beneficial to the world and Santi ( 289. Ch. ed.) explains how Uśanas came to be called Sukra. Vide under Arthasästra of Kautilya ' for further information. The Nitiprakāśikā of Janamejaya refers to & succession of teachers of politics from Brahmā 
+29-30 and 57. 3 ) refers to a work on politics by Ušanas and quotes three werses, the last being found in Sabhā 55. 14. In other places also we have a Nitiśāstra ascribed to Bhargava ( Sānti. 210. 20 ) and certain verses are ascribed to him (Santi. 57. 40-41 and 139. 70-71). The Anušāsana-parva ( 139. 8-9) states. The Sāstras known to Uśanas and Bșhaspati cannot surpass the (innate ) intelligence of women; how can men guard them (completely ). This verse occurs in Pancatantra (B. S. S. ed. of 1873 p. 41 and Hertel's ed. p. 30 ). Bhārgava is said to be the first expounder of Nitiśāstra in Santi. 210. 20. Two verses from Sāntiparva, chap. 138. 113 and 139. 71 are interesting as having been declared hy Usanas to Prahlada viz.237 those that confide in persons who were once inimical are destroyed by the latter and that one should proceed cautiously even after making an alliance ( sandhi). The Adiparva ( 76. 6 ) says that KĀvya was the purohitu of the asuras. The Salyaparva ( 39. 6 ) says that Kõvya performed austerities at Kajalamocanatirtha and the whole science of Niti ( Rājaniti ) appeared to him. The Udyogaparva states that everyone except Bhargava follows the wrong niti ( 39. 30). The Sintiparva (210. 20 ) states that Bhargava expounded Nitiśāstra which is beneficial to the world and Santi ( 289. Ch. ed.) explains how Uśanas came to be called Sukra. Vide under Arthasāstra of Kautilya ' for further information. The Nitiprakāśikā of Janamejaya refers to & succession of teachers of politics from Brahmā 
 
 ( Continued from the previous page) nyta Haynauta il trata 56. 28–30; HT917-TAT 7TE 1747 विशांपते । तदिहैकमना राजन् गदतस्तं निबोध मे ॥ द्वाविमौ ग्रसते भूमिः सो 
 
 facarera i ha afastati appui FTTTTA II TIGAO 57. 2-3; श्लोकश्चार्य पुरा गीतो भार्गवेण महात्मना। आख्याते रामचरिते नृपतिं प्रति भारत ॥ राजानं प्रथमं विन्देत् ततो भायां ततो धनम् । राजन्यसति लोकस्य at went at 17 ll 9111o 57. 40-41; Fat-: Fateattery fast 
 
-TE0124: 1 gaat in de a tratarger ul Teo 139. 70 237 The important gåthās of Ufanns are : 
+TE0124: 1 gaat in de a tratarger ul Teo 139. 70 237 The important gāthās of Ufanns are : 
 
 शत्रुसाधारणे कृत्ये कृत्वा सन्धि बलीयसा। समाहितश्चरेयुक्त्या तार्थ न विश्वसेत् ॥ न विश्वसेदविश्वस्ते विश्वस्ते नातिविश्वसेत् । नित्यं विश्वासयदन्यान् 
 
@@ -41,7 +41,7 @@ History of Dharmasastra
 
 down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Aušanasī Dandanīti. Visvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Ušanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhatithi cites from Ušanas the words 
 
-prakstīnām balam rājā,' which are an Anustubh pāda. This sūtra work on politics by Uśanas has not yet been discovered. The Tāndya-Mahā brāhmaṇa says that Kávya Uśanas was the purohita of the Asuras ( 7. 5. 20). 
+prakstīnām balam rājā,' which are an Anustubh pāda. This sūtra work on politics by Uśanas has not yet been discovered. The Tāndya-Mahā brāhmaṇa says that Kāvya Uśanas was the purohita of the Asuras ( 7. 5. 20). 
 
 In the Deccan College collection there are two mss. of an Aušanasa-dharmaśāstra in prose with a few verses, viz. No. 644 of Viśrām bāg (i) and No. 191 of A 1881-82. The first contains only two folios ( 2 and 4 ) and the available portion begins in the midst of the 2nd chapter. In the second ms. also the first folio is wanting and there are gaps in the fourth chapter. It is noteworthy that the second folio of the second ms. begins just at the beginning of the 2nd folio of the first. 
 
@@ -49,7 +49,7 @@ In the Deccan College collection there are two mss. of an Aušanasa-dharmaśāst
 
 These verses have application in these times also. :238 ब्रह्मा महेश्वरः स्कन्दश्वेन्द्रः प्राचेतसो मनुः । बृहस्पतिश्च शुक्रश्च भारद्वाजो महा 
 
-तपाः ॥ वेदव्यासश्च भगवान् तथा गौरशिरा मुनिः । एते हि राजशास्त्राणां प्रणेतारः परंतपाः ॥ लक्षाध्यायाअगौ ब्रह्मा राजशास्त्रे महामतिः । पञ्चाशच्च HETTO 69: Afect agata 11 It is further said that Skanda, Iodra, Pracetasa Manu, Brhaspati, Sukra, Bihiradvāja, Gaurafiras and Veda-Vyása abridged respectively to 25000, 10000, 6000, 3000, 1000, 700, 500 and 300 adhyảyas and that Janamejaya abridged over the 
+तपाः ॥ वेदव्यासश्च भगवान् तथा गौरशिरा मुनिः । एते हि राजशास्त्राणां प्रणेतारः परंतपाः ॥ लक्षाध्यायाअगौ ब्रह्मा राजशास्त्रे महामतिः । पञ्चाशच्च HETTO 69: Afect agata 11 It is further said that Skanda, Iodra, Pracetasa Manu, Brhaspati, Sukra, Bihiradvāja, Gaurafiras and Veda-Vyāsa abridged respectively to 25000, 10000, 6000, 3000, 1000, 700, 500 and 300 adhyāyas and that Janamejaya abridged over the 
 
 last. 239 आदाने च विसर्गे च तथा प्रेषनिषेधयोः । पञ्चमे चार्थवचने व्यवहारस्य अक्षणे ॥ 
 
@@ -71,7 +71,7 @@ The work very often quotes the views of others with the words 'eke'; for example
 
 पुराणं च विद्या वेताश्वतुर्दश ॥ It will be noticed that there is a sloka 
 
-from EPT:, which is almost the same as Yåj. 1. 3. 242 FERTEI Falta 237: haftigefolio 2 a; compare it. 
+from EPT:, which is almost the same as Yāj. 1. 3. 242 FERTEI Falta 237: haftigefolio 2 a; compare it. 
 
 14. 14 मातापित्रो स्तन्मातुर्वा । ( and हरदत्त's 'conment thereup for various views); att. 27. 1. 1.5. 105–109, where Baudhayana' view is that both are impure for ten days, but according to uomo the mother and according to otbers the father has to be the impurity for top days, 
 
@@ -85,7 +85,7 @@ except in a few particulars.343 At the end of all chapters from the second (exce
 
 there is a sloka on this point' ( bhavati cātra slokaḥ) or with the words 'api codīharanti'. 
 
-There are about 45 verses in the work, the 7th and last chapter being almost entirely in verse. As the mss. are corrupt and full of gaps, it is often difficult to find out whether a particular passage is prose or verse. In several verses the words Manur abravid' occur and in one place 'tan manor anusāsanam : 214 The latter closely agrees with Manu. Several verses are common to Manu and Usanas. The verse 'gurutalpe bhagaḥ kāryaḥ' (Manu 9. 237) occurs in the ms. So also the verse "yena yena cidangena' occurs in both.245 The words of Manu (V.78 ) 'bāle deśāntarasthe' are expressly quoted with the words 'Manur-āha'. There are many other verses which, though not cited expressly as from a particular author, are found in other ancient works. For example, the verse 'āpaḥ śuddhā bhūmiyatäh' is Manu 5. 128 and Baud. Db. $. I. 5, 57. The half versekāruhastaḥ sucir nityam' is Manu 5. 126 and Baud. Dh. S. 1. 5. 48. The verse 'yadekarātrena karoti pāpam' occurs in Ap. Dh. S. ( I. 9. 27. 11 ) and Baud. Dh. S II. 1. 42. The verse 'tryaham prātas tryaham naktam 'is Manu XI. 211. It is a remarkable fact that some of the verses in this dharmasūtra agree closely with the verses in the Uśanas--smrti in verse, published by Jivananda ; e. g. the verse 'dattvå tu Vedānatyartham'occurs on p. 525 and the verse 'nimantritustu yo vipro adhyānam samprapadyate' on p. 527. Even the prose passages bear a 
+There are about 45 verses in the work, the 7th and last chapter being almost entirely in verse. As the mss. are corrupt and full of gaps, it is often difficult to find out whether a particular passage is prose or verse. In several verses the words Manur abravid' occur and in one place 'tan manor anusāsanam : 214 The latter closely agrees with Manu. Several verses are common to Manu and Usanas. The verse 'gurutalpe bhagaḥ kāryaḥ' (Manu 9. 237) occurs in the ms. So also the verse "yena yena cidangena' occurs in both.245 The words of Manu (V.78 ) 'bāle deśāntarasthe' are expressly quoted with the words 'Manur-āha'. There are many other verses which, though not cited expressly as from a particular author, are found in other ancient works. For example, the verse 'āpaḥ śuddhā bhūmiyatāh' is Manu 5. 128 and Baud. Db. $. I. 5, 57. The half versekāruhastaḥ sucir nityam' is Manu 5. 126 and Baud. Dh. S. 1. 5. 48. The verse 'yadekarātrena karoti pāpam' occurs in Ap. Dh. S. ( I. 9. 27. 11 ) and Baud. Dh. S II. 1. 42. The verse 'tryaham prātas tryaham naktam 'is Manu XI. 211. It is a remarkable fact that some of the verses in this dharmasūtra agree closely with the verses in the Uśanas--smrti in verse, published by Jivananda ; e. g. the verse 'dattvā tu Vedānatyartham'occurs on p. 525 and the verse 'nimantritustu yo vipro adhyānam samprapadyate' on p. 527. Even the prose passages bear a 
 
 243 
 
@@ -103,9 +103,9 @@ Thoms, reads 'Fat Faria Toska arhail Fetal ?)71771 Borg adf] ATHI T eagat na il'
 
 close resemblance to the versified smrti on many points, e. g. the prose passages about the duration of the satisfaction of the Manes by the offerings of the flesh of various animals occur almost in the same words in the versified smrti of USanas (Jivananda, part I, p. 522 ). 
 
-The Auśanasa-dharmasūtra contains several passages in prose which are the same as some verses in Manu.246 The sūtra quotes in one place the divergent views of Vasistha,247 Harita, Saunaka, and Gautama on the question whether a brāhmana could marry a śūdra woman. The view of Vasiştha (as quoted in the ms.) is that a Brāhmaṇa could take to wife girls of all the four castes, but in the printed text of Vasistha ( I. 24 ) a Brāhmana is allowed to marry girls of three higher castes only. It is possible that the ancient reading of Vasistha's text was 'catasral' (as quoted in the Auśånasa ) which was changed into 'tisrah'. The passage reminds us of Manu III. 16 (Sudrāvedi patatyatreh ), but the views ascribed to Suunaka and Gautama in the ms. differ from those ascribed to thein in Manu. In another passage Vasistha's views seem to be quoted.48 
+The Auśanasa-dharmasūtra contains several passages in prose which are the same as some verses in Manu.246 The sūtra quotes in one place the divergent views of Vasistha,247 Harita, Saunaka, and Gautama on the question whether a brāhmana could marry a śūdra woman. The view of Vasiştha (as quoted in the ms.) is that a Brāhmaṇa could take to wife girls of all the four castes, but in the printed text of Vasistha ( I. 24 ) a Brāhmana is allowed to marry girls of three higher castes only. It is possible that the ancient reading of Vasistha's text was 'catasral' (as quoted in the Auśānasa ) which was changed into 'tisrah'. The passage reminds us of Manu III. 16 (Sudrāvedi patatyatreh ), but the views ascribed to Suunaka and Gautama in the ms. differ from those ascribed to thein in Manu. In another passage Vasistha's views seem to be quoted.48 
 
-From quotatious in Haradatta's commentary on Gautama and from the Smrticandrikä it appears that they had access to a sūtra work of Uśanas dealing with all branches of 
+From quotatious in Haradatta's commentary on Gautama and from the Smrticandrikā it appears that they had access to a sūtra work of Uśanas dealing with all branches of 
 
 ................ . 
 
@@ -159,7 +159,7 @@ Among the views on Vyavahāra quoted from Ugapas are some interesting ones. It w
 
 Ušanas is quoted in Kalpataru (Grhastha kāņda ) 8 times, in Srāddha 13 times (8 times in prose ), in Vyavahāra eleven times (all verses, except one proge passage on p. 814 on anuloma unions ), 6 times in Niyatakāla. 
 
-It is interesting to note that he states that the son of a brābmana from a ksatriya wife is a bråhmana and the son of 
+It is interesting to note that he states that the son of a brābmana from a ksatriya wife is a brāhmana and the son of 
 
 STITUTE 
 
@@ -177,7 +177,7 @@ History of Dharmasastra
 
 a ksatriya from a vaibya wife is a kşatriya (p. 814 on Vyava hāra ). Aparārka quotes Ušanas dozens of times, about nine quotations being in prose ( most of them on prāyaścitta ). 
 
-The Maskaribhāsya on Gautama Dh. S. quotes prose pag sages from Ušanas in many cases e. g. on I. 64, 66, II. 17 (long), 18, 48; V. 9, X. 27 ( about principles of taxation ), 31. 36, 52; XII. 6, 10, 36, 42; XIX. 14 (long prose followed by six verses ) and also some verses as on XII. 19 Mäso vimsati bhāgastu jñeyah Kārsāpaņasya tu ! Kākani tu caturbhāgo māsasyaiva prakirtitahtiSmộticandrikā quotes Usanas 45 
+The Maskaribhāsya on Gautama Dh. S. quotes prose pag sages from Ušanas in many cases e. g. on I. 64, 66, II. 17 (long), 18, 48; V. 9, X. 27 ( about principles of taxation ), 31. 36, 52; XII. 6, 10, 36, 42; XIX. 14 (long prose followed by six verses ) and also some verses as on XII. 19 Māso vimsati bhāgastu jñeyah Kārsāpaņasya tu ! Kākani tu caturbhāgo māsasyaiva prakirtitahtiSmộticandrikā quotes Usanas 45 
 
 times on āhnika, vyavahāra and śrāddha; vide Mit. on Yāj. II. 159 quoting Nārada. 
 
@@ -189,7 +189,7 @@ tar fattet III
 
 Such passages may be interpolations made in the first quarter of the 19th century. In the year 1793 the Governer General--in-Council enacted Regulation VII of 1793 in order to induce men of education and character to take up the practice of law as a distinct profession. That Regulation applied only to the provinces of Bengal, Bihar and Orissa. In 1802 Regu lation XIV of 1802 was enacted in Bombay which consisted of 33 sections providing among other matters for the appo intment of pleaders, for the issue of sanads to them, for remuneration payable to them and for penalties in cases of misconduct or negligence. 
 
-Vide Sântiparva 57. 40-11 for a famous verse of Bhārgak ( i. e. Ušanas ); TTATA sterte pare not relf acht Tag I 77891 कोकस्य कुतो भार्या कुतो धनम् ॥ 
+Vide Sāntiparva 57. 40-11 for a famous verse of Bhārgak ( i. e. Ušanas ); TTATA sterte pare not relf acht Tag I 77891 कोकस्य कुतो भार्या कुतो धनम् ॥ 
 
 SITO 
 

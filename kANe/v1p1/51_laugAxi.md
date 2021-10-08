@@ -19,4 +19,4 @@ A
 
 529 
 
-Maskarin on Gaut. Dh. S. appears to quote Laugākşi as Lokāksi. On Gaut. 10. 42 ( about the finding of treasure trove) Lokāksi is quoted as "anubhūticibnāni musitvã gļhnataḥ pūrvasāhusam dandah tad-dravya dvigunam ca rājā haret'. Maskarin quotes verses of Lokāksi on Gaut. 14. 1, 15. 1; 22, 18 ( three verses on prāyaścittas for killing a person of pratiloma caste and others also). Kalpataru quotes Laugāksi frequently e. g. on Br. Kānda Laugākşi is quoted five times ( all prose); Kalpao (on Srāddha ) p. 98 defines ' Agredidhuşu and didhisū! 
+Maskarin on Gaut. Dh. S. appears to quote Laugākşi as Lokāksi. On Gaut. 10. 42 ( about the finding of treasure trove) Lokāksi is quoted as "anubhūticibnāni musitvā gļhnataḥ pūrvasāhusam dandah tad-dravya dvigunam ca rājā haret'. Maskarin quotes verses of Lokāksi on Gaut. 14. 1, 15. 1; 22, 18 ( three verses on prāyaścittas for killing a person of pratiloma caste and others also). Kalpataru quotes Laugāksi frequently e. g. on Br. Kānda Laugākşi is quoted five times ( all prose); Kalpao (on Srāddha ) p. 98 defines ' Agredidhuşu and didhisū! 

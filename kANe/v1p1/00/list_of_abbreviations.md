@@ -81,11 +81,11 @@ Jivānanda at Calcutta in 1876
 
 the Voluine being inserted between L. R. 
 
-and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mänava Gș. S. = Mänava-Gșhyasūtra. Mit. = Mitākṣarā on Yājñavalkya. MOO. I. A. = Moore's Indian Appeals. N = Niradasmrti ( ed. by Dr. Jolly ). P. Gr. S. = Pāraskaragshyasūtra. PMS = Purva Mimāmsi Sūtras. P. S. Series = Punjab Sanskrit Series. Rg = Rgveda. R. u. S. = Recht und Sitte ( by Dr. Jolly ). S. B. E. = Sacred Books of the East Series. S. B. H. = Sacred Books of the Hindus Series. Tai. = Taittiriya. TSS = Trivandrum Sanskrit Series. ZDMG = Zeitschrift der Deutschen Morgenländischen 
+and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mānava Gș. S. = Mānava-Gșhyasūtra. Mit. = Mitākṣarā on Yājñavalkya. MOO. I. A. = Moore's Indian Appeals. N = Niradasmrti ( ed. by Dr. Jolly ). P. Gr. S. = Pāraskaragshyasūtra. PMS = Purva Mimāmsi Sūtras. P. S. Series = Punjab Sanskrit Series. Rg = Rgveda. R. u. S. = Recht und Sitte ( by Dr. Jolly ). S. B. E. = Sacred Books of the East Series. S. B. H. = Sacred Books of the Hindus Series. Tai. = Taittiriya. TSS = Trivandrum Sanskrit Series. ZDMG = Zeitschrift der Deutschen Morgenlāndischen 
 
 Gessellschaft. Tai. S. = Taittiriya-samhitā. Tri. Cat. = Triennial Catalogue of Madras Government 
 
-Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vájasaneya-Samhita. Vas. or Vas. Dh. S. =Vasişthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Vişnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
+Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasişthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Vişnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
 
 Yāj. = Yājsavalkyasmrti. 
 
