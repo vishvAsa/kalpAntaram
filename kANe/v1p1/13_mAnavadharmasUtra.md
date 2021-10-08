@@ -55,7 +55,7 @@ As regards the few quotations which cannot be found in the extant Manusmrti the 
 
 148 
 
-martier Tentara Fagarafa Perfa: 1 g: Free STEESE TESTU 37 11 Chg 11. 23. Should we not road Fazana, which would correspond to the word दासवर्ग in Manu? मनु reads 'असं स्कृतप्रमीताना त्यागिनां कुलयोषिताम् । उच्छिष्टं भागधेयं स्याद् दर्भेषु विकिरश्च यः ॥ उच्छेषणं भूमिगतमजिह्मस्याशठस्य च । दासवर्गस्य तत्पिश्ये ATTETİ Tall' 3. 245-240. The close correspondence botrkot Vas. and Manu in idons and phraseology should be spoon marked. 
+martier Tentara Fagarafa Perfa: 1 g: Free STEESE TESTU 37 11 Chg 11. 23. Should we not road Fazana, which would correspond to the word दासवर्ग in Manu? मनु reads 'असं स्कृतप्रमीताना त्यागिनां कुलयोषिताम् । उच्छिष्टं भागधेयं स्याद् दर्भेषु विकिरश्च यः ॥ उच्छेषणं भूमिगतमजिह्मस्याशठस्य च । दासवर्गस्य तत्पिश्ये ATTETI Tall' 3. 245-240. The close correspondence botrkot Vas. and Manu in idons and phraseology should be spoon marked. 
 
 Four 
 

@@ -281,7 +281,7 @@ Prof. Aiyangar says ( on p. 493 of his reconstructed Brhaspati) that certain pas
 
 
 
-( Continued from the previous page ) This is quoted by अपरार्क on p. 1225 from मत्स्य पुराण and on the same page the quotos बृहस्पति as 'दशहस्तेन शेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तदेतद्गोचर्मलक्षणम् ॥ -- Prof. Aiyangar (quotes Homa. dri first and it is not clear why he does not mention tho Mit. and Anarárka first and why he should not have made & roforonce to the Nerses of Yāj. instond of referring to pages of some edition which many roaders might not be ablo to get. 3780 qarTTGİ बृहस्पतिः । त्रिवर्षे भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p, 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे केतुर्विक्रतुरेव च । ज्ञात्यादिगामी तत्क्षेत्र विक्रेतुर्मूल्यकार्प 
+( Continued from the previous page ) This is quoted by अपरार्क on p. 1225 from मत्स्य पुराण and on the same page the quotos बृहस्पति as 'दशहस्तेन शेन दशवंशाः समन्ततः । पञ्च चाभ्यधिकस्तदेतद्गोचर्मलक्षणम् ॥ -- Prof. Aiyangar (quotes Homa. dri first and it is not clear why he does not mention tho Mit. and Anarárka first and why he should not have made & roforonce to the Nerses of Yāj. instond of referring to pages of some edition which many roaders might not be ablo to get. 3780 qarTTGI बृहस्पतिः । त्रिवर्षे भुज्यते येन समक्षं भूरवादिता । तस्य सा नापहर्तव्या क्षमालिङ्गं न चेद्वदेत् ॥ चतुष्पाद्धनधान्यादि वर्षाद्धानिमवाप्नुयात् ॥ व्यव. नि. p, 132; पञ्चाध्याय्याम् ज्ञातिसामन्तधनिकाः ज्ञाते तात्कालिकाः स्मृताः । दशाहाद्यास्तु ते सर्वे केतुर्विक्रतुरेव च । ज्ञात्यादिगामी तत्क्षेत्र विक्रेतुर्मूल्यकार्प 
 
 णात् ॥ व्यव. नि. p. 357. 556 (1) चोरापहृतं तु सर्वेभ्योऽन्विष्यार्पणीयम् । अलाभे स्वकोशाद्वा । अददच्चोर 
 
@@ -301,7 +301,7 @@ An interesting point, with reference to the collections of verses quoted as from
 
 ( Continued from the previous page) क्लैब्येनालङ्कारेणालंकृत्य शवं भस्मना मुखं विलिप्यामेयस्य पशोऽशोणितेन पञ्चाङ्गलानि कृत्वा ग्रीवायामान्त्राणि प्रतिमुच्य सव्येन पाणिना सीमालोष्टं मूर्ति Errà i on AL. II. 156 ; (9) TFT afecarcarrera 7751 
 
-UTAHI | FITTI I on IT. II. 204; (10) TTTSİ 92 TOJIETT: 1 षड्रात्रं वा यावकाहारो गोष्ठे वसेत् । देशकालशक्त्यनुरूपं वा भवेत् । म व नखाद्यपनयनं कृत्वा ब्राह्मणान् प्रणिपत्यानुज्ञातोऽन्ते गां वृष वा तद्वय ददाता ATT TT7 311afercar prefera terata: 1 11. VII. 202. W 
+UTAHI | FITTI I on IT. II. 204; (10) TTTSI 92 TOJIETT: 1 षड्रात्रं वा यावकाहारो गोष्ठे वसेत् । देशकालशक्त्यनुरूपं वा भवेत् । म व नखाद्यपनयनं कृत्वा ब्राह्मणान् प्रणिपत्यानुज्ञातोऽन्ते गां वृष वा तद्वय ददाता ATT TT7 311afercar prefera terata: 1 11. VII. 202. W 
 
 FOUNDED 
 

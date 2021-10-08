@@ -45,7 +45,7 @@ Bhāruci, being mentioned by the Mit., is certainly older than 1050 A. D. Rāmā
 
 736 भारुचिस्तु चतुर्थभागपदेन विवाहसंस्कारमात्रोपयोगि द्रव्यं विवक्षितं, अतो 
 
-GrTHIFTZAŠTE772/1TTİ TENTO Arya 1 971. Al. vol. III, 2. p. 510. 737 In the edition of the Vedārthasangraba with English translation by 
+GrTHIFTZAŠTE772/1TTI TENTO Arya 1 971. Al. vol. III, 2. p. 510. 737 In the edition of the Vedārthasangraba with English translation by 
 
 S. S. Raghavachar published by Rāmakršņāśrama (Mysore, 1958 p. 102 paragraph 130 we road : भगवद्बोधायन-टङ्क-द्रामिड-गुहदेव-कपर्दि-भारुचि-प्रभृत्यविगीतशिष्टपरिगृहीत ... 
 

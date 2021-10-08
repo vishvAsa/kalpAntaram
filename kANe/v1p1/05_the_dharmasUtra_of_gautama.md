@@ -74,7 +74,7 @@ The Gautama Dharmasūtra appears to have been held in high esteem by Kumārila, 
 
 987910 Vol. I pp. 243-244 ( Anan. ed.) and Shiite proceeds 'TE मानवेतिहासव्यतिरिक्त-गौतम वसिष्ठ-शङ्खलिखित-हारीत-आपस्तम्ब-बोधापनादि 
 
-TÅTTEINTİ Tapai' etc. 
+TÅTTEINTI Tapai' etc. 
 
 pooms 
 
@@ -314,7 +314,7 @@ Some spocial matters presented by Gaut. Dh. S. may be briefly stated here : (1) 
 
  
 
-68 b On goz: hat ar ( 511. 3. 21) HÌ25105 p. 49 comments 'Fågos: 
+68 b On goz: hat ar ( 511. 3. 21) HI25105 p. 49 comments 'Fågos: 
 
 शिखावले मुण्डो वा। जटिलत्वानिवृत्त्यर्थोऽयमारम्भ इति भर्तृयज्ञासहायमस्करिणः. It is clear that the thrce are mentioned in chronological order, The word should be Maskarin and got Maskari. Pāņioi states that Maskarin means' parivrājaka' (VI. 1. 154 HF24Ffion au-itaisayt:)' The HET H164 explains ad HFATISFIEDla AFF Rais: 1 Beige मा कृत कर्माणि मा कृत कर्माणि शान्तिवः श्रेयसीत्याहातो मस्करी परिव्राजकः. , On Gaut. 23. 27 the bhüşyakára bimself adds tha t stegå regifTIA:. OD 11.26. 18. he quotes 31 verses beginning with yarhatsaart etc. and adds 375pagan'. 
 
@@ -324,4 +324,4 @@ History of Dharmaśāstra
 
 such usages of countries, castes and families are valid and authoritative as are not opposed to the Vedas; (3) Women are not independent as regards the performance of religious duties, that a woman is to be married before the appearances of menses, that a guardian who does not arrango for a girl's marriage incurs sin and that a girl after waiting for three menstrual periods should herself choose her husband possessing the requisite qualities and when she does so she should return the ornaments given to her by her father's family; (4) That an offender if a brāhmana was not to receive bodily punishment (XII. 43 ); (5) he allowed niy gae if the husband died childless (XVIII. 4-8). 
 
-The Mitāksarā, the Smộticandrikā, Hemādri, Madhava and (ther writers quote a sloka-Gautama. Vide Parāśara-Madhaviya, vol. I, part I, p.7. Aparārka, Hemādri and Mādhava quote VỊddha-Gautama, while the Dattakamimāṁsā (p. 72 ) quotes Vrddha-Gaut. and Brhad-Gaut. side by side on the same point. These are later works. Jīvānanda publishes a smrti of Vrddha Gautama in 22 chapters and about 1700 verses (part II, pp. 497 636 ), where it is said that Yudhisthira asked Krsna about the charias of the four castes. This smrti seems to have been originally taken from the Āývamedhikaparva of the Mahābhārata, as Mādhava and others cite verses occurring in it as from that parya ( vide Parāśaramadhaviya vol. I, part I, pp. 108-110 ). 
+The Mitāksarā, the Smộticandrikā, Hemādri, Madhava and (ther writers quote a sloka-Gautama. Vide Parāśara-Madhaviya, vol. I, part I, p.7. Aparārka, Hemādri and Mādhava quote Vṛddha-Gautama, while the Dattakamimāṁsā (p. 72 ) quotes Vrddha-Gaut. and Brhad-Gaut. side by side on the same point. These are later works. Jīvānanda publishes a smrti of Vrddha Gautama in 22 chapters and about 1700 verses (part II, pp. 497 636 ), where it is said that Yudhisthira asked Krsna about the charias of the four castes. This smrti seems to have been originally taken from the Āývamedhikaparva of the Mahābhārata, as Mādhava and others cite verses occurring in it as from that parya ( vide Parāśaramadhaviya vol. I, part I, pp. 108-110 ). 

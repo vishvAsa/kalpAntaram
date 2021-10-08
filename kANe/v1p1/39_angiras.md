@@ -27,7 +27,7 @@ The Angiras-smrti (in Jivananda part I, pp. 554-560 ) in 72 verses is probably a
 
 679 One of them is the well-known verse faet: TEILT aga 
 
-लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥ 680 GUE[ơ: 4 : I am a fewGut | HI TÌải đa nhà Ita 
+लोमानि मानुषे । तावत्कालं वसेत्स्वर्गे भर्तारं यानुगच्छति ॥ 680 GUE[ơ: 4 : I am a fewGut | HI TIải đa nhà Ita 
 
 HRT: 11 681 सर्वेषामेव वर्णानी सूतके मृतके तथा । दशाहाच्छुद्धिरेतेषामिति शातातपोवतिसाद 582 यत्पूर्व मनुना प्रोक्तं धर्मशास्त्रमनुत्तमम् । नहि तत्समतिक्रम्य वचनं हितमात्मनः ।। 
 

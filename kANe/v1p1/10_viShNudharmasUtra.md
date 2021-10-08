@@ -215,7 +215,7 @@ The date of the older portion of Vinnu may be placed between 300 B. C. to 100 B.
 
 A few of the sútras agree closely with Närada. Vide Vi. 7. 10-11 and Närada ( Ruādāta verses 136-137 ). 
 
-The Mitākşarī quotes all the prose passages of chapters 85-42 and ascribes them to Bșhadvisnu (on Yaj. 3. 242 ). Similarly, on Yaj. 3. 261 it ascribes Vi. 35. 3-5 to Brhad. visuu. Similarly, the Smộticandrikā (II. p. 298 ) ascribes Vi. 17. 4 ff to BỊhad-Vişnu. The Mitāksarā (on Yāj. 3. 267 ) quotes a verse of Vrddha-Vişnu which summarises some sutras of Viņņu"? (50.6 and 12-14). 
+The Mitākşarī quotes all the prose passages of chapters 85-42 and ascribes them to Bșhadvisnu (on Yaj. 3. 242 ). Similarly, on Yaj. 3. 261 it ascribes Vi. 35. 3-5 to Brhad. visuu. Similarly, the Smộticandrikā (II. p. 298 ) ascribes Vi. 17. 4 ff to Bṛhad-Vişnu. The Mitāksarā (on Yāj. 3. 267 ) quotes a verse of Vrddha-Vişnu which summarises some sutras of Viņņu"? (50.6 and 12-14). 
 
 In the Anandāśrama collection of smytis there is a Laghu-Vinnusmặti in five chapters and 114 verses dealing with the duties of the varras and the four asramas. Aparārka in his commentary on Yāj. 3. 238 quotes four 
 

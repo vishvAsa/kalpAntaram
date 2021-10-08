@@ -25,7 +25,7 @@ From early times the Puranas have been enumerated as eighteen ; vide H. of Dh. V
 
 BET 21. I. 3. The Mit. explains Ferrata as era: and 31957 as farama. The Nirukta speaks about itself as a Vidyasthāna 
 
-af FareTFETİ TAROTT Polefri FardhTTE I I. 16. 
+af FareTFETI TAROTT Polefri FardhTTE I I. 16. 
 
 For gifta vide H. of Dh, vol. II pt. 1231-33. 461 अथ स्वाध्यायमधीयीत । ऋचो यजूंषि सामान्यथर्वाङ्गिरसः ब्राह्मणानीतिहास. 
 

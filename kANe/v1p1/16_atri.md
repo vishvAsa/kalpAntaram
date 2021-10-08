@@ -57,7 +57,7 @@ In the Mahabharata (Anušāsana 65. 1 ) Atri is credited with the view that thos
 
 YOTSAS 
 
-The verses are yFiat g afaèrarat argiaa: 1 STETTİ चरेत्कृच्छं त्रिरात्रं त्वाहृताशनः ॥ चण्डालवर्जिते चान्ने स्पृष्टा चैनं विशेषतः । भुक्त्वा कृच्छ्रमविज्ञाते ज्ञाचा चान्द्रायणं चरेत् ॥ सर्वान् कामान् प्रयच्छन्ति ये प्रयच्छति काञ्चनम् । इत्येवं भगवानत्रिः पिता Agatata il 3773779 65. 1. The verses in the two Atris are अमेरपत्यं प्रथमं सुवर्ण भूवैष्णवी सूर्यसुताश्च गावः । लोकास्त्रयस्तेन भवन्ति दत्ता यः काञ्चनं गां च महीं च दद्यात् ॥ सर्वेषामेव दानानामेकजन्मानुगं फलम् ।। हाटकक्षितिधेनूनां सप्तजन्मानुगं फलम् ॥ The first verse occurs in Vare 28. 18, in Vannparva 200. 28, in the Rajim plate of Tivaradeva ( Fleet's Gupta inscriptions No. 81). 
+The verses are yFiat g afaèrarat argiaa: 1 STETTI चरेत्कृच्छं त्रिरात्रं त्वाहृताशनः ॥ चण्डालवर्जिते चान्ने स्पृष्टा चैनं विशेषतः । भुक्त्वा कृच्छ्रमविज्ञाते ज्ञाचा चान्द्रायणं चरेत् ॥ सर्वान् कामान् प्रयच्छन्ति ये प्रयच्छति काञ्चनम् । इत्येवं भगवानत्रिः पिता Agatata il 3773779 65. 1. The verses in the two Atris are अमेरपत्यं प्रथमं सुवर्ण भूवैष्णवी सूर्यसुताश्च गावः । लोकास्त्रयस्तेन भवन्ति दत्ता यः काञ्चनं गां च महीं च दद्यात् ॥ सर्वेषामेव दानानामेकजन्मानुगं फलम् ।। हाटकक्षितिधेनूनां सप्तजन्मानुगं फलम् ॥ The first verse occurs in Vare 28. 18, in Vannparva 200. 28, in the Rajim plate of Tivaradeva ( Fleet's Gupta inscriptions No. 81). 
 
 ( Continued on the next page ) 
 

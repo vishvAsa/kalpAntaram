@@ -301,7 +301,7 @@ verses and a half which are Bș Y. Y. VII. 2 (latter half)-5. Mr. Divanji does n
 
 Yoga-Yājñavalkya that he edited. 
 
-The Dānasāgara of Ballālasena (B. edition) mentions Yajñavalkya and Yogiyājñavalkya on p. 3 and it quotes about a dozen verses some of which are found in Yogi-Yājña valky8,474 chap. VII. ( of Br. Y. Y.) via abhāve ( D. S. p. 63=Br. VII. 139 ); na kuryāt (D. S. p. 52-Br. VII. 37); na cankraman (D. S. p. 52-Br. VII. 131 ); na padā (D. S. p. 63-BỊ VII. 132 ). . Yājñavalkya agrees very closely with the Visnudharma sūtra. What conclusions are to be drawn therefrom has been discussed above (see sec. 10). Similarly, there is close correspondence between the Kauțiliya aud Yāj. If there is any borrowing at all, it must follow from the date above assigned to the Kauţiliya that it is Yāj. who borrows. There are numerous passages in Yāj. that show remarkable agreement with the text of Manu. But there are several points on which Yāj. differs from Manu and shows in general a more advanced state of thought and feeling than the Manusmrti. The follow ing are the principal points wherein Yāj. differs from Manu. Manu seems to allow a brāhmaṇa to marry a sūdra girl ((III. 13 ), while Yāj. emphatically states it as his opinion that this is wrong (I. 56 ); Manu first describes the practice of niyoga and then severely condemns it (IX. 59-68 ), while Yāj. does not condemn it (I. 68-69). Manu enumerates eighteen vyavahārapadas; Yāj. does not expressly enumerate them in one place, though he defines vyavahāra pada and adds verses of a miscellaneous character (prakırnaka ) in his section on vyavahāra. Manu is silent about the rights of inheritance of 
+The Dānasāgara of Ballālasena (B. edition) mentions Yajñavalkya and Yogiyājñavalkya on p. 3 and it quotes about a dozen verses some of which are found in Yogi-Yājña valky8,474 chap. VII. ( of Br. Y. Y.) via abhāve ( D. S. p. 63=Br. VII. 139 ); na kuryāt (D. S. p. 52-Br. VII. 37); na cankraman (D. S. p. 52-Br. VII. 131 ); na padā (D. S. p. 63-Bṛ VII. 132 ). . Yājñavalkya agrees very closely with the Visnudharma sūtra. What conclusions are to be drawn therefrom has been discussed above (see sec. 10). Similarly, there is close correspondence between the Kauțiliya aud Yāj. If there is any borrowing at all, it must follow from the date above assigned to the Kauţiliya that it is Yāj. who borrows. There are numerous passages in Yāj. that show remarkable agreement with the text of Manu. But there are several points on which Yāj. differs from Manu and shows in general a more advanced state of thought and feeling than the Manusmrti. The follow ing are the principal points wherein Yāj. differs from Manu. Manu seems to allow a brāhmaṇa to marry a sūdra girl ((III. 13 ), while Yāj. emphatically states it as his opinion that this is wrong (I. 56 ); Manu first describes the practice of niyoga and then severely condemns it (IX. 59-68 ), while Yāj. does not condemn it (I. 68-69). Manu enumerates eighteen vyavahārapadas; Yāj. does not expressly enumerate them in one place, though he defines vyavahāra pada and adds verses of a miscellaneous character (prakırnaka ) in his section on vyavahāra. Manu is silent about the rights of inheritance of 
 
 414 क्षत्रियस्य त्रयः प्रोक्का द्वावेका वैश्यशूद्रयोः । क्षत्रियश्च चरेदेवमा संन्यासाश्रमा 
 
@@ -441,7 +441,7 @@ In III. 171 and 172 Yāj. speaks of only the conjunction of planets and of the p
 
 488 यान्येव देवनक्षत्राणि तेषु कुर्वांत यत्कारी स्यात् पुण्याह एव कुरुते । ती का 
 
-1. 6. 2. 9 ; & artha great for fullara ai FETTAİ arala s. 1. 5. 2. 3. 
+1. 6. 2. 9 ; & artha great for fullara ai FETTAI arala s. 1. 5. 2. 3. 
 
 34. The Yājñavalkyasmrti 
 
@@ -615,7 +615,7 @@ It may be noted that Sridatta ( about 1275–1310 A. D.) quotes from Yogi-Yājsa
 
 490 
 
-The verse is : 35 ATAİ oregant: Risate i FTATO JEET ARTESİ seiena II TECNTATIF. VIII. 12 g antai Tangan in groep 69275 (H1977105 page 171. ) 
+The verse is : 35 ATAI oregant: Risate i FTATO JEET ARTESI seiena II TECNTATIF. VIII. 12 g antai Tangan in groep 69275 (H1977105 page 171. ) 
 
 od 
 
