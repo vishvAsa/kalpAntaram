@@ -21,7 +21,7 @@ dharmasūtra (Mysore edition ). Bau. Gr.S. = Baudhāyanagļhyasūtra (Mysore edi
 
 by Dr. Shama Sāstri). BBRAS. = Bombay Branch of the Royal Asiatic Society. BORI= Bhandarkar Oriental Research Institute, Poona 4. Bom. H. C. R. = Bombay High Court Reports. Bom. L. R. = Bombay Law Reporter (edited by Messrs. 
 
-Ratanlal and Dhirajlal ). B. I. or B. I. S. = Bibliotheca Indica Series, Calcutta. Br. Upanişad or Br. Up. = Bșhadāraṇyaka Upanisad. B.S. or BSS. = Bombay Sanskrit Series. Cat. = Catalogue. Caturvarga = Caturvarga-Cintamani of Hemādri 
+Ratanlal and Dhirajlal ). B. I. or B. I. S. = Bibliotheca Indica Series, Calcutta. Br. Upaniṣad or Br. Up. = Bșhadāraṇyaka Upanisad. B.S. or BSS. = Bombay Sanskrit Series. Cat. = Catalogue. Caturvarga = Caturvarga-Cintamani of Hemādri 
 
 (B. I. Series ). C. 0. = Calcutta Oriental Series. CWN = Calcutta Weekly Notes. D. C. = Deccan College Collection of Sanskrit m88. now 
 
@@ -43,7 +43,7 @@ edition ). GOS = Government Oriental Series. Gr. S. = Gșhya-sūtra.
 
 H. A. S. L. = Max Müller's History of Ancient Sanskrit 
 
-Literature. Hir. = Hiraụyakeši Dharmasūtra. H. of Dh. $. = History of Dharmaśāstra. H. O. S. = Harvard Oriental Series. Hp.Cat.orHp. Nepal Cat.=Mahānahopadhyāya Haraprasad 
+Literature. Hir. = Hiraụyakeśi Dharmasūtra. H. of Dh. $. = History of Dharmaśāstra. H. O. S. = Harvard Oriental Series. Hp.Cat.orHp. Nepal Cat.=Mahānahopadhyāya Haraprasad 
 
 Sāstri's Catalogue of palm leaf and paper m88.-belonging to 
 
@@ -77,7 +77,7 @@ Jivananda Sm. = Dharmaśāstra-samgraha, published by
 
 Jivānanda at Calcutta in 1876 
 
-(two parts ). JVOI = Journal of the Venkatesvara Oriental Institute. KA = Kauţiliya Arthaśāstra. L. R. I. A. = Law Reports, Indian appeals, the number of 
+(two parts ). JVOI = Journal of the Venkatesvara Oriental Institute. KA = Kauṭiliya Arthaśāstra. L. R. I. A. = Law Reports, Indian appeals, the number of 
 
 the Voluine being inserted between L. R. 
 
@@ -85,7 +85,7 @@ and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mānava Gș. S
 
 Gessellschaft. Tai. S. = Taittiriya-samhitā. Tri. Cat. = Triennial Catalogue of Madras Government 
 
-Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasişthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Vişnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
+Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Viṣnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
 
 Yāj. = Yājsavalkyasmrti. 
 

@@ -5,7 +5,7 @@ title = "59 Asahāya"
 
 59. Asahāya 
 
-Dr. Jolly in his edition of the Nāradasmrti (B. I. series ) bas incorporated a portion of the bhāsya of Asahāya as re vised by Kalyānabhatta. Even this revised version comes up to only verse 21 of the fifth title abhyupetya-asuśrūşā. The exact relation of Kalyānabhatta's labours to the original bhāsya cannot be accurately gauged from the opening888 words ' finding that the Nāradathāsya composed by Asahāya was spoilt (bhrasta ) by bad scribes, Kalyāṇa composes this after revising the ancient one'. The colophon at the end of the first chapter of the Vyavahāramātýkā says that Kalyānabhatta 
+Dr. Jolly in his edition of the Nāradasmrti (B. I. series ) bas incorporated a portion of the bhāsya of Asahāya as re vised by Kalyānabhatta. Even this revised version comes up to only verse 21 of the fifth title abhyupetya-asuśrūṣā. The exact relation of Kalyānabhatta's labours to the original bhāsya cannot be accurately gauged from the opening888 words ' finding that the Nāradathāsya composed by Asahāya was spoilt (bhrasta ) by bad scribes, Kalyāṇa composes this after revising the ancient one'. The colophon at the end of the first chapter of the Vyavahāramātýkā says that Kalyānabhatta 
 
 689 दृष्टासहायरचितं नारदभाष्यं कुलेखकैर्धष्टम् । कल्याणेन क्रियते प्राक्तनमतद 
 
@@ -21,13 +21,13 @@ FOUNDED
 
 547 
 
-revised the bhāsya of Asahāya at the encouragement of Keśava bhatta.890 Kalyāna bhatta seems to have takeu great liberties with the text of the original bhāsya. On p. 9 verse 15.( rājā satpurusaḥ sabhyah sāstram gana kalekhakau ), the comment on sastra is · Manu-Narada - Visvarūpātmakam'. If Visvarūpa named here be identical with the Visvarūpa who commented on Yāj. (as is alunost certain ), this passage could not have occurred in Asahāya's bhāsya. Višvarūpa, in commenting on Yāj. III. 263-64, mevtions Asahāya by name and cites his explanation of a sútra of Gautama (22. 13). The name Kalyanabhatta frequently occurs in the printed commentary itself (p. 81, 86, 89 ).801 
+revised the bhāsya of Asahāya at the encouragement of Keśava bhatta.890 Kalyāna bhatta seems to have takeu great liberties with the text of the original bhāsya. On p. 9 verse 15.( rājā satpurusaḥ sabhyah sāstram gana kalekhakau ), the comment on sastra is · Manu-Narada - Visvarūpātmakam'. If Visvarūpa named here be identical with the Visvarūpa who commented on Yāj. (as is alunost certain ), this passage could not have occurred in Asahāya's bhāsya. Viśvarūpa, in commenting on Yāj. III. 263-64, mevtions Asahāya by name and cites his explanation of a sūtra of Gautama (22. 13). The name Kalyanabhatta frequently occurs in the printed commentary itself (p. 81, 86, 89 ).801 
 
 In the I. 0. ms, there is a salutation to śiva and Ganesa at the beginning. There is a ns. of the Nāradiyabhāsya as printed by Dr. Jolly in the Govt. Mss. Library at the B. O. R. Institute, Poona, ( No. 72 of 1874-75). It does not contain the first folio and curiously enough it ends just where the printed text stops. Dr. Jolly omits a few lengthy passages occurring in the ms. and generally indicates such omissions by dots. In a few cases Dr. Jolly omits only a word or two for no apparent reason, e. g. on p. 8 ( folio 7b of No. 27 of 1874-75 ) he omits the word 'paramasamrudhyā' after 
 
-vyavahārah' and before 'caturņām-api varṇānām'. 
+vyavahārah' and before 'caturṇām-api varṇānām'. 
 
-The Kalpataru (on Moksa pp. 48-49 ) quotes Gautama Dh. S. III. 10-24 from 'Anicayo bhiksuh' to · Anārambhi' and cites the explanations of Bhartryajña, Asahāya and Maskarin on some words occurring in them. Maskarin is a well-known commentator on Gautama ( the com. is printed ). It seems that Bhatryajña and Asahāya also composed com mentaries ; vide ABORI Vol. 18 p. 205 where Prof. Raghavan draws attention to Asahaya's commentary on Sankba-Likhita mentioned by Anandagiri. On p. 544 the Vivādaratnākara quotes Manu IX. 165 ( Aurasuksetrajau ) and Asahācārya's explanation thereon. 
+The Kalpataru (on Moksa pp. 48-49 ) quotes Gautama Dh. S. III. 10-24 from 'Anicayo bhiksuh' to · Anārambhi' and cites the explanations of Bhartryajña, Asahāya and Maskarin on some words occurring in them. Maskarin is a well-known commentator on Gautama ( the com. is printed ). It seems that Bhatryajña and Asahāya also composed com mentaries ; vide ABORI Vol. 18 p. 205 where Prof. Raghavan draws attention to Asahaya's commentary on Saṅkba-Likhita mentioned by Anandagiri. On p. 544 the Vivādaratnākara quotes Manu IX. 165 ( Aurasuksetrajau ) and Asahācārya's explanation thereon. 
 
 AUTE 
 
@@ -49,7 +49,7 @@ History of Dharmaśāstra
 
 The Hāralatā of Aniruddha who was the guru of king Ballālasena of Bengal, the author of Adbhutasāgara ( about 1168 A. D.), tells us that Asahāya composed a bhāsya on the Gautamadharmasutra.se Visvarupa also cites, as said above, Asahāya’s explanation of a sūtra of Gautama. 
 
-It appears that Asahāya probably wrote a commentary on the Manusmrti also. A passage of the Sarasvativilāsadis says that partition of dharma was approved of by smrtikāras like Manu, Yājšavalkya, by their commentators, viz. Asahāya, Medhātithi, Vijñānesvara and Aparārka and by writers of nibandh«18, viz. the author of the Candrikū and others. Here the order in which the commentators are named requires that Asahāya like Medhitithi was known to be a commentator of Manu. This conclusion is to some extent corroborated by the fact that the Vivādaratnākaragot quotes with reference to 
+It appears that Asahāya probably wrote a commentary on the Manusmrti also. A passage of the Sarasvativilāsadis says that partition of dharma was approved of by smrtikāras like Manu, Yājśavalkya, by their commentators, viz. Asahāya, Medhātithi, Vijñānesvara and Aparārka and by writers of nibandh«18, viz. the author of the Candrikū and others. Here the order in which the commentators are named requires that Asahāya like Medhitithi was known to be a commentator of Manu. This conclusion is to some extent corroborated by the fact that the Vivādaratnākaragot quotes with reference to 
 
 692 हारलता ( B. I. series ) [p. 35. 'गौतमः । बालदेशान्तरितप्रवजितानो सद्यः 
 
