@@ -27,7 +27,7 @@ CINE
 
 22 Vide JBBRAS. Vol. XXVI (1922), pp. 57-82. 23 mala falt: wat aalt ziararet ad Heqitia vital II. 17. 7. 24 spelfort 9174a1a2aT47571413. I. 53. Vide also Hq III. 11. 25 Vide Rgveda III. 31. 1 and Nirukta III. 4. 20 C. . the verse Teoh à AH11CT (FEE X. 85. 36). Vide 3719. Z. . 
 
-IV. 4 27 til. 7. Ę. IV.4; al. 87. 7. I. 11. 2: 3177. 47. 4. II. 5. 11. 176 
+IV. 4 27 til. 7. E. IV.4; al. 87. 7. I. 11. 2: 3177. 47. 4. II. 5. 11. 176 
 
 III, 27. 28 FEHAVE 1. 36-37: note 3779. 7. 8. II. 6. 13. 11 where the word 
 
@@ -51,7 +51,7 @@ fapt: 1 32 \#tatargar jauda dai \#a giai gyd TFT BTT i Pede X. 40. 2 33 az qalaz
 
 upon by 0119. 44. 7. 11. 6. 14. 11 and al. 27. . II. 2. 2. 34 JALUTUS ga yata atgarterais. À. II.5.2. 7. This passage is 
 
-referred to by 3774. 27. Ę. II. 6. 14. 12 and al. . . II. 2. 5. 35 'a arzat' fata RETE FEITE III. 31. 2; vide fart III. 5 for 
+referred to by 3774. 27. E. II. 6. 14. 12 and al. . . II. 2. 5. 35 'a arzat' fata RETE FEITE III. 31. 2; vide fart III. 5 for 
 
 explanations of this verse. 36 Jeniant affair 3791912kia yrgregia guitai aamaria. VI.8. 
 
