@@ -5,7 +5,7 @@ title = "47 Pracetas"
 
 47. Pracetas 
 
-Pracetas fiuds a place among the sages enumerated by Perāsara (though not in Yājñavalkya), in the list of 36 Smrti käras by Paithināsi in Smộticandrikā p. 1). In both Mit. and Aparārka there are passages in prose and verse ascribed to Pracetas on daily duties, srāddha, āśauca, prāyascitta. The Mit. (on Yāj. III. 27 ) quotes & verse from Pracetas saying that workmen, artisans, physicians, male and female slaves, kings, royal officers have not to observe periods of impurity 811 (on death). This verse is cited as a smrti by Medhātithi on Manu V. 60 without ascribing it to Pracetas. So Medhätithi looked upon Pracetas as equally authoritative with Manu, Višņu and others. 
+Pracetas fiuds a place among the sages enumerated by Perāsara (though not in Yājñavalkya), in the list of 36 Smrti kāras by Paithināsi in Smộticandrikā p. 1). In both Mit. and Aparārka there are passages in prose and verse ascribed to Pracetas on daily duties, srāddha, āśauca, prāyascitta. The Mit. (on Yāj. III. 27 ) quotes & verse from Pracetas saying that workmen, artisans, physicians, male and female slaves, kings, royal officers have not to observe periods of impurity 811 (on death). This verse is cited as a smrti by Medhātithi on Manu V. 60 without ascribing it to Pracetas. So Medhātithi looked upon Pracetas as equally authoritative with Manu, Višņu and others. 
 
 POONA 
 

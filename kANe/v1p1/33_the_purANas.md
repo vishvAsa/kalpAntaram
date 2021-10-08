@@ -15,9 +15,9 @@ AL..datno
 
 are the sources ( means) of Vidyo and of Dharma. It would be noticed that the 14 sources are arranged by Yājñavalkya in a rising scale of importance and authoritativene88.460 The word Purāna ( a class of works ) occurs in the Atharvaveda (XI. 7. 24, XV. 6. 10-11). The Sat. Br. (XI. 5.6-8 ) includes 
 
-Itihasa puranam' among 'Svädhyāya' and furtber states ( XIII. 4. 3. 13 ) that on the 9th day of the Pāriplava ( an item in the Rājasûya sacrifice) the hotr priest narrates some Purāņa. The Tai. Ār. II. 10 mentions Brāhmaṇas, Itihāsas, Purānas, Kalpas etc. ( Brühmannitihāsān Purānāni Kalpan, Gāthā Nārāśamsih). In the Chandogya Upanisad ( VII. 2 and 4 ) Itihāsa--Purāna is spoken of as the fifth Veda and the Brbadāranyaka Up. (IV. 1. 2 ) separately mentions Iti hāna and Purána. The Āśv. Gr. includes Purāṇāni under 'svādhyāya !.461 
+Itihasa puranam' among 'Svādhyāya' and furtber states ( XIII. 4. 3. 13 ) that on the 9th day of the Pāriplava ( an item in the Rājasûya sacrifice) the hotr priest narrates some Purāņa. The Tai. Ār. II. 10 mentions Brāhmaṇas, Itihāsas, Purānas, Kalpas etc. ( Brühmannitihāsān Purānāni Kalpan, Gāthā Nārāśamsih). In the Chandogya Upanisad ( VII. 2 and 4 ) Itihāsa--Purāna is spoken of as the fifth Veda and the Brbadāranyaka Up. (IV. 1. 2 ) separately mentions Iti hāna and Purāna. The Āśv. Gr. includes Purāṇāni under 'svādhyāya !.461 
 
-It is not unlikely that originally there was only a single work called Purana. The Mahābhāsya ( Kielhorn, vol. I p. 9) uses the word Puranam and the Matsya (chap. 53) states that ori. ginally the Purīna was only one. But since the Tai. Ar. emp. loys the word 'Purīnāni' in the plural it appears likely that there were in the times of the Aranyaka at least three (if not more) works called Purana. A verse quoted below-Purānam Mánavo dharmah etc.-'462 occurs in many copies of the Manus mrti after XII. 110 and is mentioned by the Tantravārtika on Mimāṁsāsūtra 1.3.27 p. 286 ( Anan. ed., first half). 
+It is not unlikely that originally there was only a single work called Purana. The Mahābhāsya ( Kielhorn, vol. I p. 9) uses the word Puranam and the Matsya (chap. 53) states that ori. ginally the Purīna was only one. But since the Tai. Ar. emp. loys the word 'Purīnāni' in the plural it appears likely that there were in the times of the Aranyaka at least three (if not more) works called Purana. A verse quoted below-Purānam Mānavo dharmah etc.-'462 occurs in many copies of the Manus mrti after XII. 110 and is mentioned by the Tantravārtika on Mimāṁsāsūtra 1.3.27 p. 286 ( Anan. ed., first half). 
 
 From early times the Puranas have been enumerated as eighteen ; vide H. of Dh. Vol. V pp. 831-836. The number of upa purānas varies from a few to several dozens. 
 
@@ -55,7 +55,7 @@ The chronology of Purānas is, like that of the Epics, . subject full of perplex
 
 It has to be mentioned here that in the first few centuries of the Christian era the idea prevailed that those rules or ordinances ( Dharmas ) that were understood from the Veda are the highest (in authority ), but the rules ( Dharmas ) stated in the Purānas ( and similar works ) were inferior.468 This posi tion assigned to the Puranas was changed a few centuries before 1000 A. D. and Purānas came to be far more relied upon by works on Dharmaśāstra. For example, the Krtyakalpa taru (about 1125-1160 A. D.) quotes the Purālas even on such a topic as Mokoa much more than the Upanişads or the Vedāntasūtra. Aparārka quotes a half verse*** as from Menu ( not found in extant Manusmrti), saying that one should strengthen the Veda by Itibāsa ( i. e. Mahābhārata ) and Pura uas. It is significant that the extensive commentary of Vigvarūpa on Yāj. hardly ever mentions a Purāļa by name, though he twice refers to Purānas in a general way on Yaj. III. 170 and 175. He flourished about 800-860 Ą. D. Simi. 453 अतः स परमो धर्मो यो वेदादधिगम्यते । अवरः स तु विज्ञेयो यः पुराणादिषु 
 
-ftua: II T q. by Aparärka p. 9 and by Kalpataru (Brshow. 
+ftua: II T q. by Aparārka p. 9 and by Kalpataru (Brshow. 
 
 vārio p. 33). 464 इतिहासपुराणाभ्यां वेदं समुपद्व्हयेत् । इति मनुवचनादितिहासपुराणानि 
 
@@ -65,7 +65,7 @@ ata ofera i 3771* p. 19 on HT. 1. 7. In some works the above half vorse is follo
 
 larly, Medhātithi on Manu very rarely refers to Purānas and mentions none by name. Vide notes below.486 
 
-The main characteristics of the teachings of the extant Purällas, some of which at least were composed in the first few centuries of the Christian era would be merely indicated here briefly. Those who want to go into greater details are requested to refer to Vol. V of the H. of Dh. pp. 928-980. North and Central India had been harassed by the invasions of foreign hordes such as the Sakas and Hūnas. Besides, the performance of Vedic sacrifices had become rare; Buddhism, Jainism and other schisms had greatly affected the minds of all persons including religious and thoughtful men. The leaders of Hindu Society had to wean away common men from the new and attractive teachings of Buddhism and hence the writers of Purāņas struck upon finding out new dogma. The first doctrine that was recommended was that great rewards ( spiritual and other-worldly ) would follow on a little 
+The main characteristics of the teachings of the extant Purāllas, some of which at least were composed in the first few centuries of the Christian era would be merely indicated here briefly. Those who want to go into greater details are requested to refer to Vol. V of the H. of Dh. pp. 928-980. North and Central India had been harassed by the invasions of foreign hordes such as the Sakas and Hūnas. Besides, the performance of Vedic sacrifices had become rare; Buddhism, Jainism and other schisms had greatly affected the minds of all persons including religious and thoughtful men. The leaders of Hindu Society had to wean away common men from the new and attractive teachings of Buddhism and hence the writers of Purāņas struck upon finding out new dogma. The first doctrine that was recommended was that great rewards ( spiritual and other-worldly ) would follow on a little 
 
  
 
@@ -89,7 +89,7 @@ trouble and effort.466
 
 Dāna (charity and gifts) came to be regarded as conferring the highest rewards in the Mapusmrti ( 1.86 'tapah param... dānamekam kalau yuge'), in Santiparva, Vāyupurāņa (6.65 66), Parāśarasmști (1. 23). The gifts of food ( and particu larly to brāhmaṇas ) were regarded as highest. When the invasions by foreigo hordes were frequent and when rulers of different kingdoms in India itself engaged in constant warfare this idea was good enough 
 
-Even the Rgveda (X. 117. 6 ) condemns one, wbo offers no food to Aryarnan (and other gods ) nor to a friend (guest etc.) and feeds himself alone, eating only sin. The same idea (almost in the same words ) occurs in Manu III. 18, Visnusmrti 67. 43 (aguam sa kevalam-bhunkte yah pacutyatmakārunāt) and the Bhagavad-gitā (III. 13 ). But the Purūnas carried this idea to extreme limits. Manu prescribed that in rites in honour of gods and pitrs, even a single learned brāhmana may be fed to secure the full reward of the rite, but not many brāhinnnas who do not know the mantri18. Again, in 111. 149 Manu says that in rites for gods no close examination about a brāhmana should be indulged in, but that in rites for ances tors effort should be made to ascertain that the family and character of the brahmanas are both good. But gradually this idea was given up, particularly at Sraddhas in Gayā. For example, the Vāyupurāna states that the brāhmaṇas of Gaya are supermen, that when they are gratitied (at a Sräddba) the gods together with the pitřs become gratified, that no question should be raised about their fainily, their character, learning or tupas and that by honouring them a man attaine liberation. 
+Even the Rgveda (X. 117. 6 ) condemns one, wbo offers no food to Aryarnan (and other gods ) nor to a friend (guest etc.) and feeds himself alone, eating only sin. The same idea (almost in the same words ) occurs in Manu III. 18, Visnusmrti 67. 43 (aguam sa kevalam-bhunkte yah pacutyatmakārunāt) and the Bhagavad-gitā (III. 13 ). But the Purūnas carried this idea to extreme limits. Manu prescribed that in rites in honour of gods and pitrs, even a single learned brāhmana may be fed to secure the full reward of the rite, but not many brāhinnnas who do not know the mantri18. Again, in 111. 149 Manu says that in rites for gods no close examination about a brāhmana should be indulged in, but that in rites for ances tors effort should be made to ascertain that the family and character of the brahmanas are both good. But gradually this idea was given up, particularly at Sraddhas in Gayā. For example, the Vāyupurāna states that the brāhmaṇas of Gaya are supermen, that when they are gratitied (at a Srāddba) the gods together with the pitřs become gratified, that no question should be raised about their fainily, their character, learning or tupas and that by honouring them a man attaine liberation. 
 
 It may be pointed out that the Vanaparva (chap. 84. 82-104 ) speaks at length about Gaya and its holy places, most of which are quoted in the Padmapurāya, Adik bauda, chap. 38 ( verses 2-19). Those interested may consult H. of Dh. Vol. 1 V for detailed statements about Gaya. 
 
@@ -103,11 +103,11 @@ SONA
 
 413 
 
-heinous sing.467 For example, the Anusāsana parva ( 25. 42) says-' In Gayà a man is purified even of the sin of three murders of brahmanan, if he visits Asmaprstha (Pretasilā in Gayā ), the hill called Niruvinda and the Kruuñcapadi. We find even the Vannparva stating that one does not secure those rewards even by performing solemn sacrifices in which fees paid to the priests are large, as one secures by pilgrima ges to holy places. 
+heinous sing.467 For example, the Anusāsana parva ( 25. 42) says-' In Gayā a man is purified even of the sin of three murders of brahmanan, if he visits Asmaprstha (Pretasilā in Gayā ), the hill called Niruvinda and the Kruuñcapadi. We find even the Vannparva stating that one does not secure those rewards even by performing solemn sacrifices in which fees paid to the priests are large, as one secures by pilgrima ges to holy places. 
 
 Another development for which Purānas are largely responsible is that of numerous observances called Vratas (described in vol. V part 1 pp. 81-462). It makes one sad to find that a great minister of State in the latter half of 13th century A. D., Heinsidri, deals with nearly 1000 vratas in about 2500 printed pages, instead of pondering over the great menace of invasions against India by foreigners from the 11th century onwards and does not take or even suggest methods or means to counteract that evil. 
 
-Another important aspect dealt with by soine Purānas is that of bhakti' (devotion to God ) and Ninasmarana (repea ting inaudibly the names of God). The word Bhakti in its technical sense of loving faith in and surrender to God does not occur in the early Upanisaids, but only in the Svetásvata ropanigad VI. 23 (yasya deve parī bhaktir-yathā deve tathā gurau ). It is developed in the Bhagavadgitā (as in IX. 27 aud 34, XI. 55 ), and in the Bhagavata, Visųu and other Purā ŅAs. The subject of bhakti has been treated at some length in H. of Db. vol. V pp. 950-980. 
+Another important aspect dealt with by soine Purānas is that of bhakti' (devotion to God ) and Ninasmarana (repea ting inaudibly the names of God). The word Bhakti in its technical sense of loving faith in and surrender to God does not occur in the early Upanisaids, but only in the Svetāsvata ropanigad VI. 23 (yasya deve parī bhaktir-yathā deve tathā gurau ). It is developed in the Bhagavadgitā (as in IX. 27 aud 34, XI. 55 ), and in the Bhagavata, Visųu and other Purā ŅAs. The subject of bhakti has been treated at some length in H. of Db. vol. V pp. 950-980. 
 
 Prof. Hazra in ludiau Culture' vol. I. pp. 587-614 con tributes a learned paper on · Purānas in the History of Smrti' and at the end of the paper sets out several nibandhu works on Dharmaśāstra in which Purana passages are quoted and relied upon. 
 
@@ -123,11 +123,11 @@ farrega il 34OTTTTT 25. 42. Vide Nilokuntha's glogs on it quote H. of Dh, Vol IV
 
 History of Dharmaśāstra 
 
-Purāuas in the Mit. he cites only one quotation from the Matsyapurana (chap. 94 ). But the Mit. quotes several Purānas on Yāj. For example, on Yāj. III. 30 it quotes a verse from Brahmāuda purāna which is also quoted by the Smrticandrikā. On Yāj. I. 297-98 the Mit. quotes two verses from Matsya purāna ( 93.11-12) on the position of the planets on a diagram or painting of planets in Grahapūjā. Matsya ( 93.33-37) prescribes the same four Vedic mantras that Yaj. prescribes (in I. 300-301 ) for the worship of the Sun, Mars, Saturn and Ketu. The Mit. on Yāj. III. 6 prescribes the offering of Nārā yanabali for those that commit suicide and states that the procedure is described in Vaişnava (purāna ?). On Yāj. III. 6 the Mit. quotes from the Bhavisyat-purána providing, for death on serpent bite, to a brahmana reciter of Purảnas the gift of a golden serpent made from one bhara of gold. The Mit. on Yāj. II. 290 refers to the view of the Skandapurana that there were veryūs that belonged to a distinct caste. It appears to quote the Märkandeya purāna several times on Yaj. 1.238, 254, III. 19, 287. Thus the Mit. mentions by name only six Purānas, while Aparärka naines twenty Purāṇas and Smrti-candrikā 22. 
+Purāuas in the Mit. he cites only one quotation from the Matsyapurana (chap. 94 ). But the Mit. quotes several Purānas on Yāj. For example, on Yāj. III. 30 it quotes a verse from Brahmāuda purāna which is also quoted by the Smrticandrikā. On Yāj. I. 297-98 the Mit. quotes two verses from Matsya purāna ( 93.11-12) on the position of the planets on a diagram or painting of planets in Grahapūjā. Matsya ( 93.33-37) prescribes the same four Vedic mantras that Yaj. prescribes (in I. 300-301 ) for the worship of the Sun, Mars, Saturn and Ketu. The Mit. on Yāj. III. 6 prescribes the offering of Nārā yanabali for those that commit suicide and states that the procedure is described in Vaişnava (purāna ?). On Yāj. III. 6 the Mit. quotes from the Bhavisyat-purāna providing, for death on serpent bite, to a brahmana reciter of Purānas the gift of a golden serpent made from one bhara of gold. The Mit. on Yāj. II. 290 refers to the view of the Skandapurana that there were veryūs that belonged to a distinct caste. It appears to quote the Mārkandeya purāna several times on Yaj. 1.238, 254, III. 19, 287. Thus the Mit. mentions by name only six Purānas, while Aparārka naines twenty Purāṇas and Smrti-candrikā 22. 
 
 In all about 40 Puranas and Upa purāṇas are quoted in Nibandhas. 
 
-Purānas have been published by different individuals, presses and societies. A critical edition of at least the eighteen Purānas based on Mss. collected from all parts of our country had long been a desideratum. But only recently the work of re-editing Purānas in a critical manner by collecting and consulting Msg. from the whole of India has been under taken by the Purana Prakāśana Samiti of the All-India Kashiraj Trust, Benares. The work which is under the general guidance of Dr. V. Raghavan, Dr. V. S. Agrawala and Panditarāja Sri Rajesvara Sastri has been going on for some time. With the help of the new Catalogus Catalogorum of Dr. V. Raghavan, a complete list of the Mss. of the Purāņas and the Upapurānas has been prepared. The work of bring ing out a critical edition of the Matsyapurāṇa has been going on in Madras under the guidance of Dr. Raghavan and the work of the critical edition of the Vámana purana has been undertaken by Dr. V. S. Agrawala at Benares. The semiti mentioned above has been also bringing out a Bulletin Calle Purāṇa, which publishes only Purāṇic studies by different 
+Purānas have been published by different individuals, presses and societies. A critical edition of at least the eighteen Purānas based on Mss. collected from all parts of our country had long been a desideratum. But only recently the work of re-editing Purānas in a critical manner by collecting and consulting Msg. from the whole of India has been under taken by the Purana Prakāśana Samiti of the All-India Kashiraj Trust, Benares. The work which is under the general guidance of Dr. V. Raghavan, Dr. V. S. Agrawala and Panditarāja Sri Rajesvara Sastri has been going on for some time. With the help of the new Catalogus Catalogorum of Dr. V. Raghavan, a complete list of the Mss. of the Purāņas and the Upapurānas has been prepared. The work of bring ing out a critical edition of the Matsyapurāṇa has been going on in Madras under the guidance of Dr. Raghavan and the work of the critical edition of the Vāmana purana has been undertaken by Dr. V. S. Agrawala at Benares. The semiti mentioned above has been also bringing out a Bulletin Calle Purāṇa, which publishes only Purāṇic studies by different 
 
 35. The Purānas 
 
@@ -141,7 +141,7 @@ For the critical edition of the Matsyapurāna, Dr. Raghavan is relying on more t
 
 As the project of the critical editions of the Purānas is a long-term one, Vyāga Institute on a permanent basis at Benares is going to be established in the near future. 
 
-The constitution of the original text of the purānas is a Herculean task which has not yet been attempted. Not only is there difference of opinion among the purānas about the Dames of the 18 Maha-Purānas, but there is divergence as regards the extent of the several purävas. For example, the commentator Visnucitta of the Vişnupuräna says (on III. 6. 20-22 ) that the extent of the Visnupurāṇa is variously given at 8000, 9000, 10000, 22000, 24000, but that he comments on a text of 6000 slokas only. The Agnipurāna ( 272.10-11 ) says that it contains 12000 slokas, while the Bhāgavata (XII. 13 ), the Brabmavaivarta, the Padma (ādi. 62 ) say that it contains 15400 slokas and the Skanda (V. 3) and the Matsya 53 giver the extent of the Agni as 16000. The Kūrma, according tortice the Bhagavata, contains 17000, according to the Matsya 18700 and only 8000 according to the Agni ( 272. 19). Though there is a remarkuble continuity in India as to religious thought 
+The constitution of the original text of the purānas is a Herculean task which has not yet been attempted. Not only is there difference of opinion among the purānas about the Dames of the 18 Maha-Purānas, but there is divergence as regards the extent of the several purāvas. For example, the commentator Visnucitta of the Vişnupurāna says (on III. 6. 20-22 ) that the extent of the Visnupurāṇa is variously given at 8000, 9000, 10000, 22000, 24000, but that he comments on a text of 6000 slokas only. The Agnipurāna ( 272.10-11 ) says that it contains 12000 slokas, while the Bhāgavata (XII. 13 ), the Brabmavaivarta, the Padma (ādi. 62 ) say that it contains 15400 slokas and the Skanda (V. 3) and the Matsya 53 giver the extent of the Agni as 16000. The Kūrma, according tortice the Bhagavata, contains 17000, according to the Matsya 18700 and only 8000 according to the Agni ( 272. 19). Though there is a remarkuble continuity in India as to religious thought 
 
 poor 
 
@@ -157,7 +157,7 @@ History of Dharmaśāstra
 
 and practices, yet the popular religion of modern Hindus is pre-eminently paurīnic. The Purīvas contain thousands of slokas on dharinaśāstra matters, they are a rich mine awaiting exploration by careful students of social and religious questions and shed a flood of light on the deve 
 
-f light on the development of reli gious beliefs and practices in meilieval and modern India. Therefore, the re-constitution of the text of the purānas is a problem that will have to be tackled in the near future. Be sides the several Mahāpurīnas, eighteen Upapurāņas also are enumerated in some of the Puranas. Vide Garuda (223.17 ff),488 Skanda (V. 3. chap. 1. 45-62 and VII. I. char. 2), Padma (Pätāla-khanda chap. 111. 95-98 and Matsya ( 53. 59 ff) for Upapurānas. The Matsya-purana (chap. 53, verse 58 ) states that the 18 purinas reached in extent four lakho of verses and also states that there were upabhodus (i.e. Upapurāvas ) and names some of them viz. Nārasimha, Nānda, (Nandam), Samba and Aditya. Besides the Malõpurānas and Upapurānas, there are other works of the purīna class such as Ganesa, Maudgala, Devi, Kalki &c. The Padmapurana (Uttarakhanda chap. 263 ) divides the 18 Purānas into three groups, sättvika, rājusa and tāmesa and says that the Visuu, Nāradiya, Bhá gavata, Garuda, Padma aud Varāha are sättvika. The Matsya ( 53 ) also speaks of this division. The Lingapurīna (39. 63 66 ) speaks of the twenty expounders of dharma just as Yājñavalkya does and quotes the two verses in the form in which the Mit. presents them (and not Visvarūpa ), while the Padma (Uttarakhanda 263. 86-89 ) divides the eighteen gmộtis into three groups of sättvika, rājasa and tāmasa. 480 It would be quite clear to any reader of the purānas and the smrtis that most of the former in their extant form are later than the smrtis of Manu, Yājňavalkya, Parāśara, Nārada &c. 458 3fotografa A: afirana OI 377F ARTTTH ARTHEAUT 
+f light on the development of reli gious beliefs and practices in meilieval and modern India. Therefore, the re-constitution of the text of the purānas is a problem that will have to be tackled in the near future. Be sides the several Mahāpurīnas, eighteen Upapurāņas also are enumerated in some of the Puranas. Vide Garuda (223.17 ff),488 Skanda (V. 3. chap. 1. 45-62 and VII. I. char. 2), Padma (Pātāla-khanda chap. 111. 95-98 and Matsya ( 53. 59 ff) for Upapurānas. The Matsya-purana (chap. 53, verse 58 ) states that the 18 purinas reached in extent four lakho of verses and also states that there were upabhodus (i.e. Upapurāvas ) and names some of them viz. Nārasimha, Nānda, (Nandam), Samba and Aditya. Besides the Malõpurānas and Upapurānas, there are other works of the purīna class such as Ganesa, Maudgala, Devi, Kalki &c. The Padmapurana (Uttarakhanda chap. 263 ) divides the 18 Purānas into three groups, sāttvika, rājusa and tāmesa and says that the Visuu, Nāradiya, Bhā gavata, Garuda, Padma aud Varāha are sāttvika. The Matsya ( 53 ) also speaks of this division. The Lingapurīna (39. 63 66 ) speaks of the twenty expounders of dharma just as Yājñavalkya does and quotes the two verses in the form in which the Mit. presents them (and not Visvarūpa ), while the Padma (Uttarakhanda 263. 86-89 ) divides the eighteen gmộtis into three groups of sāttvika, rājasa and tāmasa. 480 It would be quite clear to any reader of the purānas and the smrtis that most of the former in their extant form are later than the smrtis of Manu, Yājňavalkya, Parāśara, Nārada &c. 458 3fotografa A: afirana OI 377F ARTTTH ARTHEAUT 
 
 परम् ॥ तृतीयं स्कान्द-( नान्द ? )मुद्दिष्टं कुमारेण तु भाषितम् । चतुर्थ शिवधर्माख्यं स्यानन्दीश्वरभाषितम् ।। दुर्वाससोक्तमाश्चर्य नारदोक्तमतः परम् । कापिलं वामनं चैव तथैवोशनसेरितम् ॥ ब्रह्माण्डं वारुणं चाथ कालिकाहयमेव च । माहेश्वरं तथा साम्बं सौरं सर्वार्थसञ्चयम् । पराशरोक्तमपरं मारांचं 
 
@@ -173,13 +173,13 @@ FOUNDED
 
 417 
 
-The following table will give some idea as to how the eighteen principal purānas are rich in dharmaśāstra material. Besides the eighteen principal purānas, the Kālikā-purāņa (Venkateśvara press ed.) and the Saura-pura (Ananda srama ed.) have been drawn upon. The Anandāsrama editions of the Agni, Pauma, Matsya and Väyu and the Niruayasagara edition of the Bhagavata and the Venkatesvara Press editions of the other Purīnas have generally been relied upon in the present edition of the 1st volume. 
+The following table will give some idea as to how the eighteen principal purānas are rich in dharmaśāstra material. Besides the eighteen principal purānas, the Kālikā-purāņa (Venkateśvara press ed.) and the Saura-pura (Ananda srama ed.) have been drawn upon. The Anandāsrama editions of the Agni, Pauma, Matsya and Vāyu and the Niruayasagara edition of the Bhagavata and the Venkatesvara Press editions of the other Purīnas have generally been relied upon in the present edition of the 1st volume. 
 
 It may be stated here that the Smrti chapters in the Puranas are very much influenced by Manu, Yāj., Nārada and mostly by the first. 
 
 Ācāra--Brahma 113; Garuņa Āgu ucu--Agni 157-158 ( both 
 
-50; Kälikä 88; Kurma kinds, ou death and birth). (uttarārdha ) 13; Linga Brahma 113 (on birth ) ; (purvārdha ) 89; Markan- Garuda (preta-khanda ) deya 31 ; Nārada ( pūrvár- chap. 5; Kurma (uttarär dha ) 26 ; Padma (Adi dha chap. 23); Linga 52-56, pātālakhanda 9, (pūrvārdha 89). srstikhanda 46); Skanda I (Kaumūrika 41 ), III. 
+50; Kālikā 88; Kurma kinds, ou death and birth). (uttarārdha ) 13; Linga Brahma 113 (on birth ) ; (purvārdha ) 89; Markan- Garuda (preta-khanda ) deya 31 ; Nārada ( pūrvār- chap. 5; Kurma (uttarār dha ) 26 ; Padma (Adi dha chap. 23); Linga 52-56, pātālakhanda 9, (pūrvārdha 89). srstikhanda 46); Skanda I (Kaumūrika 41 ), III. 
 
 Āśramadharmas--Agni 160 (dharmāranya 6 ), IV. I 
 
@@ -199,7 +199,7 @@ prastha and yati);
 
 Mārkandeya 25–26 ; Āhnika-Agni 155; Brahma- Nārada (pūrvārdha 27 
 
-vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarärdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pür- Brøţikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyäsin ); Skamme IV. I (pūrvärdha ) chap; | IV. I ( 12ũrvādha ) cháy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
+vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarārdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pür- Brøţikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyāsin ); Skamme IV. I (pūrvārdha ) chap; | IV. I ( 12ũrvādha ) chāy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
 
 Ahandari 
 
@@ -209,7 +209,7 @@ History of Dharmaśāstra
 
 Bhaksyābhaksya--Brahmavai- 11 and 14 ); Skanda I 
 
-varta (brahmakhanda 27, ( Kaumārikā – khanda 2 4th khanda, uttarardha for names of famous do chap. 85 ); Kūrma (utta- nors), III. 2 (dharina rärdha chap. 17); Padma ranya 34 ), VII. I. 5 and (ädikhanda 56 ). 
+varta (brahmakhanda 27, ( Kaumārikā – khanda 2 4th khanda, uttarardha for names of famous do chap. 85 ); Kūrma (utta- nors), III. 2 (dharina rārdha chap. 17); Padma ranya 34 ), VII. I. 5 and (ādikhanda 56 ). 
 
 208 ; Varāba 99-111. Brāhmaṇa-vide under varna. | Dravyššuddhi - Agni 156, 
 
@@ -231,7 +231,7 @@ varta ( prakstikhanda 7); and utsargu.
 
 Kurma 30 ; Linga 40 ; Agni 209-213 (mahā 
 
-Náradiya (pūrvārdha 41); dānas ); Bhavisya IV. 
+Nāradiya (pūrvārdha 41); dānas ); Bhavisya IV. 
 
 Skanda I (Kaumārikā 150 ff; Brahma 109 (spe 
 
@@ -241,11 +241,11 @@ khanda chap. 40 and cially annadāna ); Bra
 
 ttamamāhātmya chap. kbanda 27 ); Garuda 51 ; 
 
-39 ), VI. 272; Väyu Kūrma, uttarärdha 26 
+39 ), VI. 272; Vāyu Kūrma, uttarārdha 26 
 
-. 58. (4 kinds, nitya, naimi ttika, kámya, vimala ); Kalivarjya-Nārada (pür. Linga, uttarārdha 28 vũrdha chep. 24 ). (16 mahādānas) ; Matsya 
+. 58. (4 kinds, nitya, naimi ttika, kāmya, vimala ); Kalivarjya-Nārada (pür. Linga, uttarārdha 28 vũrdha chep. 24 ). (16 mahādānas) ; Matsya 
 
-Karmavipäka--Brahma 108 ; 81-91, 205-206, 274-289 
+Karmavipāka--Brahma 108 ; 81-91, 205-206, 274-289 
 
 Brahmavaivarta (praksti (16 mahādānas ); Nārada 
 
@@ -285,15 +285,15 @@ Agni 153-154 and 166 ; 115 ( summary of Sau
 
 Bhavisya I ( Brāhmapar naka ). 
 
-va chap. 3-4 and 7 ); Pätakas-vide under prāyas- Nārada, pūrvärdha 25-26; 
+va chap. 3-4 and 7 ); Pātakas-vide under prāyas- Nārada, pūrvārdha 25-26; 
 
-citta; Agni 168 ( mahā- Skanda IV. I (purvārdba pätakas and lesser sins ); 36 and 38 ); Vişnu III.10. Brahma 20 and 105-106; 
+citta; Agni 168 ( mahā- Skanda IV. I (purvārdba pātakas and lesser sins ); 36 and 38 ); Vişnu III.10. Brahma 20 and 105-106; 
 
-śānti-Agni 149, 164, 167, Märkandeya 12–14; Nā 
+śānti-Agni 149, 164, 167, Mārkandeya 12–14; Nā 
 
 259-268, 290-91, 320 rada (pārvārdha 15 ) ; 
 
-324 ; Bhavisya IV chap. Siva (umäsaṁbitā 5 for 
+324 ; Bhavisya IV chap. Siva (umāsaṁbitā 5 for 
 
 141 ff; Brahmavaivarta mahāpātakas and 6 for 
 
@@ -313,13 +313,13 @@ Bralımānda (upodghāta and 127 for Sālagrāma );
 
 pāda 9-20); Kūrma Matsya 258-270 ; Siva I 
 
-uttarardha 20-22 ; Mår (vidyeśvara--samhitā 
+uttarardha 20-22 ; Mār (vidyeśvara--samhitā 
 
 kandeya 27-30 ; Linga, chap. 11. 
 
 uttarardha 45 (jivat-érā Prāyascitta-Agni 170-174 ; | ddha ); Matsya 16-22; 
 
-Brahmáuda (upasamha- Nārada, pūrvārdha 128, rapāda chap. 8; Garuda Padma (pātālakhand 52 (specially for mahi- 101, sșsti 9 11 and A pātakas ) and 222; Kūrma- Siva ( kailāsasamhita uttarärdha 30-34 ; Linga | 21-23 ( about after-deats 
+Brahmāuda (upasamha- Nārada, pūrvārdha 128, rapāda chap. 8; Garuda Padma (pātālakhand 52 (specially for mahi- 101, sșsti 9 11 and A pātakas ) and 222; Kūrma- Siva ( kailāsasamhita uttarārdha 30-34 ; Linga | 21-23 ( about after-deats 
 
 A 
 
@@ -341,7 +341,7 @@ Vamana 141-176 ; Vāyu , and co-wives ) ; Siva
 
 uttarārdha 43-50 (Gayā). ( Rudrasaṁhitā, Pārvati khanda 54 ); Skanda Title-vide under vrutas also. III. 2 (dharmāranya- Brahma 120 (ekādasi); khanda 7). 
 
-Nārada, pūrvärdha 29 
+Nārada, pūrvārdha 29 
 
 ( what tithi should be Tārtha-Agni 109-116; Bhāga 
 
@@ -365,7 +365,7 @@ vide under dāna and 39-40 ( Gangāsnīna ), 45
 
 pratisthú. Bhavisya II ; 47 (Gayů ), 48-49 ( Bena res ), 50 (Sivalingas ), 
 
-Nárada, pūrvärdha to 52-61 (Jagannātha 62 
+Nārada, pūrvārdha to 52-61 (Jagannātha 62 
 
 Padma, srsti 54150; 81 ( numerous tirthas); 
 
@@ -393,4 +393,4 @@ Umāsaṁhitā 51): Varāha
 
 (upavāsa); Bhavisya Skanda I. (Kaumārikā 1. 17 ff, IV ( several hund- khanda ) 44 ( eight ordea red vratas ); Brahma 27 
 
-is described ). (upavāşa ); Brahmavai varta ( 4th khanda, pūr- | Yugadharinas- vide also vārdha 8 and 26 ); Garuda under Kulisvarūpa. 116-137, Lirga, pūrvārdha Garuda 223 ; Linga 39 ; 83-84 ; Nirada, pirvār- Matsya 141-143, 164 ; dha 17-22, 110-124 ; Närada, pūrvārdha 41; Matsya 54-80, 94-100; Skanda VI. 272 ; Vāyu I. Padma ( bhūmi 87, brah- 32 and 58. 
+is described ). (upavāşa ); Brahmavai varta ( 4th khanda, pūr- | Yugadharinas- vide also vārdha 8 and 26 ); Garuda under Kulisvarūpa. 116-137, Lirga, pūrvārdha Garuda 223 ; Linga 39 ; 83-84 ; Nirada, pirvār- Matsya 141-143, 164 ; dha 17-22, 110-124 ; Nārada, pūrvārdha 41; Matsya 54-80, 94-100; Skanda VI. 272 ; Vāyu I. Padma ( bhūmi 87, brah- 32 and 58. 

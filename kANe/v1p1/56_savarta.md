@@ -41,11 +41,11 @@ FOUNDED 1917
 
 543 
 
-duties of householder, eulogy of liberality, duties of forest hermit and sampyäsin, prayascittas for various sins and actions, Saṁvarta is sometimes cited as an authority ( verses 38,123 ). He recommends the marriages of girls at the age of eight ( verse 67 ) and condemns marriage with a maternal uncle's daughter ( verse 157 ). 
+duties of householder, eulogy of liberality, duties of forest hermit and sampyāsin, prayascittas for various sins and actions, Saṁvarta is sometimes cited as an authority ( verses 38,123 ). He recommends the marriages of girls at the age of eight ( verse 67 ) and condemns marriage with a maternal uncle's daughter ( verse 157 ). 
 
 In a few M83. (e. g. I. O. cat. No. 1367 ) the Sam varta smrti comprised is different from the printed Saṁvarta. 
 
-The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparárka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparārka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Visvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smộti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Visvarūpa. 
+The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparārka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparārka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Visvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smộti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Visvarūpa. 
 
 ADU 
 

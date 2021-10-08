@@ -7,7 +7,7 @@ title = "49 Marīci"
 
 The name Marici is very ancient. In Manusmộti II. 34-35 Marici is mentioned first among the ten Prajāpatis. 
 
-This sage is relied upon as an authority by the Mit., Aparārka, Smrticandrika on Ahnika, Asauca, Sraddha, Prāyascitta and Vyavahāra. Aparärka quotes several verses on 
+This sage is relied upon as an authority by the Mit., Aparārka, Smrticandrika on Ahnika, Asauca, Sraddha, Prāyascitta and Vyavahāra. Aparārka quotes several verses on 
 
 है आपके 
 
