@@ -19,7 +19,7 @@ Vatsa, Harita, Guru ( Brhaspati), Narada, Parāsara, Gautama, Yama, Baudhāyana,
 
 In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bearing No. 111 of 1895-1902 of Caturvimsati mata which contains 526 verses and another No. 244 of A. 1881-82 which has 525 verses. 
 
-The work often quotes the views of Uśanas, Manu, Pārāśarya, Angiras, Yama, Hārita. It quotes Manu III. 5 ( ' asapindi. ca ya.' etc.) and Manu XII. 95 (ya vedabahyah smộtayah). Two other verges which it contains are indicated as interpolated in several editions of Manu.586 It says that the teachings of Arhat, Cārvāka and Buddha delude people. 588 Its position is that whatever is not found in the Veda or the Puranas, the Rāmāyana, or Mahābhārata or in the sāstras of Manu and others is as good as non-existent. 687 
+The work often quotes the views of Uśanas, Manu, Pārāśarya, Angiras, Yama, Hārita. It quotes Manu III. 5 ( ' asapindi. ca ya.' etc.) and Manu XII. 95 (ya vedabahyah smṛtayah). Two other verges which it contains are indicated as interpolated in several editions of Manu.586 It says that the teachings of Arhat, Cārvāka and Buddha delude people. 588 Its position is that whatever is not found in the Veda or the Puranas, the Rāmāyana, or Mahābhārata or in the sāstras of Manu and others is as good as non-existent. 687 
 
 The Caturviņsatimata is frequently quoted by the Mit., A parārka and later work8,688 but not by Visvarūpa and 
 

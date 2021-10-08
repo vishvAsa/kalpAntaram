@@ -55,9 +55,9 @@ Visvarupa and Haradatta. For example, Visvarupa cites a prose passage from Brhas
 
 History of Dharmasastra 
 
-In the Mit. and other commentaries and nibandhas over seven hundred verses on vyavahāra and a few hundred more on ācāra und prayascitta are cited from Bộlaspati. That seems to have been an independent work composed between 300 and 500 A. D., which will be discussed later on (vide sec. 37). 
+In the Mit. and other commentaries and nibandhas over seven hundred verses on vyavahāra and a few hundred more on ācāra und prayascitta are cited from Bṛlaspati. That seems to have been an independent work composed between 300 and 500 A. D., which will be discussed later on (vide sec. 37). 
 
-In Jivananda's collection (part I. pp. 644-651 ) and in the Anandāśrama collection there is a Bșhaspatismộti in 80 verses in which Brhagpati is represented as instructing Indra about gifts. Several mss. in the Deccan College Collection contain this smrti, but in an abridged form in 70 and 49 verses (No. 130 of 1884-86 and No. 147 of 1895-1902). Vide also I. O. cat. p. 386 No. 1324, 1325-1328. Apararka quotes (p. 1225 ) verse 7 of this smrti (in verse ) and the Dānaratna kara quotes verses 6 and 7 as from Dana-Brhaspati. 
+In Jivananda's collection (part I. pp. 644-651 ) and in the Anandāśrama collection there is a Bșhaspatismṛti in 80 verses in which Brhagpati is represented as instructing Indra about gifts. Several mss. in the Deccan College Collection contain this smrti, but in an abridged form in 70 and 49 verses (No. 130 of 1884-86 and No. 147 of 1895-1902). Vide also I. O. cat. p. 386 No. 1324, 1325-1328. Apararka quotes (p. 1225 ) verse 7 of this smrti (in verse ) and the Dānaratna kara quotes verses 6 and 7 as from Dana-Brhaspati. 
 
 The Barhaspatya Arthaśāstra edited by Dr. F. W. Thomas (Lahore, 1921 ) is a later work and does not deserve more than a passing notice. In six chapters it deals with the con duct, duties, studies of kings, omens, rules of policy &c. 
 

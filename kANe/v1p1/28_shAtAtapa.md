@@ -39,6 +39,6 @@ contains a Vrddha-Sātātapa smrti in 68 verses ( pp. 232-235) on prāyaścittas
 
 Hemādri mentions a Vrddha-Satātapa along with several other smrtikāras (vide note 278 above). In the Vyavahāra mātrkā of Jimutavāhana (p. 305 ) Vrddha-Sātātapa is cited on the six kinds of uttura (defendant's reply ).296 This shows that Vțddha-Sātātapa wrote on Vyavahāra also. 
 
-The Mit. (on Yāj. III. 290 ) cites a Bộbat-Sātātapa. 
+The Mit. (on Yāj. III. 290 ) cites a Bṛbat-Sātātapa. 
 
 Hemādri (III, 1. 801) speaks of a bhāsyakāra of Vrddha Sātātape. 

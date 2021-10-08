@@ -67,6 +67,6 @@ Bhanda Reseai
 
 History of Dharmasastra 
 
-Aparārka quotes about a hundred verses of Atri on vari ous topics. Aparırka quotes (on Yāj. III. 61 pp. 966-7) twelve verses of Atri on the repetitions of om, prānāyāma, and the virtues to be practised by him who desires to go into samādhi, 7 verses on Yāj. III. 64 pp. 971-72 on 24 tattvas and purusa as 25th ; on p. 1123 a prose passage on prāyaścitta for partaking of the food of or receiving gifts from actors, dancers and Andhras, Dramidas, Sukas, Kambhojas, Tukk hāras, Valhikas and Khaśas. Sarkarācārya on V. S. III. 40-43, quotes two verses from Smitis, one of which · Arūdho naisthi kam karma &c.' occurs in Atrismộti VIII, 16 ( Anan. edition ). 
+Aparārka quotes about a hundred verses of Atri on vari ous topics. Aparırka quotes (on Yāj. III. 61 pp. 966-7) twelve verses of Atri on the repetitions of om, prānāyāma, and the virtues to be practised by him who desires to go into samādhi, 7 verses on Yāj. III. 64 pp. 971-72 on 24 tattvas and purusa as 25th ; on p. 1123 a prose passage on prāyaścitta for partaking of the food of or receiving gifts from actors, dancers and Andhras, Dramidas, Sukas, Kambhojas, Tukk hāras, Valhikas and Khaśas. Sarkarācārya on V. S. III. 40-43, quotes two verses from Smitis, one of which · Arūdho naisthi kam karma &c.' occurs in Atrismṛti VIII, 16 ( Anan. edition ). 
 
 Mr. A. N. Krishna, Aiyungar edits an Ātreya-smrti in Adyar Library Bulletin, vol. VI, part 4. 

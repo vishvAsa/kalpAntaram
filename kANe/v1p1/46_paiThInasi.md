@@ -5,7 +5,7 @@ title = "46 Paiṭhīnasi"
 
 46. Paithīnasi 
 
-Paithīnasi, though not named among the Smộtikāras enu merated in Yāj. I. 4-5, is mentioned among the 36 Smộtis quoted by Aparārka (p. 7) from the Bhavisyapurāua and also in the quotation from Paithinasi about the thirty-six names of the expounders of Dharmaśāstra in the Smişti-Candrikā (p. 1). Another reason is that he appears to have dealt in his work with all three branches of Dharmaśāstra, viz. ācāra, vyavahāra and prayascitta. Another important matter is that quotations in prose from him far outnumber quotations in verse in the comparatively early digests like the Mit., Aparārka, Kalpataru. Visvarūpa on Yāj. III. 262 cites a prose 
+Paithīnasi, though not named among the Smṛtikāras enu merated in Yāj. I. 4-5, is mentioned among the 36 Smṛtis quoted by Aparārka (p. 7) from the Bhavisyapurāua and also in the quotation from Paithinasi about the thirty-six names of the expounders of Dharmaśāstra in the Smişti-Candrikā (p. 1). Another reason is that he appears to have dealt in his work with all three branches of Dharmaśāstra, viz. ācāra, vyavahāra and prayascitta. Another important matter is that quotations in prose from him far outnumber quotations in verse in the comparatively early digests like the Mit., Aparārka, Kalpataru. Visvarūpa on Yāj. III. 262 cites a prose 
 
 807 18%AATTITIETE starfa 169: 1 gratara hafa \# DEATHTHT 
 

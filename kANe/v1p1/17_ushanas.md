@@ -125,11 +125,11 @@ From quotatious in Haradatta's commentary on Gautama and from the Smrticandrikā
 
 History of Dharmaśāstra 
 
-dharma viz. ācāra, vyavahāra and prayascitta. For example, the Smộticandrikā quotes prose passages of Uśanas on anadhyāya (1, p. 59), on duntadhavana (1. p. 106 ) and Haradatta quotes a prose passage on anadhyāya (on Ap. Dh. S. I. 3. 10. I) and a prose passage on the fine for a Kşatriya abusing a sūdra (on Gau. Dh. S. 12. 10) and on Niyoga ) on Gau. Dh. S. 18. 5). These passages are not found in the ms. But there are others that are found. For example, the Smộticandrikā quotes two passages, which occur in the mss.249 It appears therefore that the mss. either contain a portion only of the complete Auśanasa-dharma-sūtra or an independent sūtra work. The former alternative looks more probable. The foregoing discussion has shown that the sutra work is later than the dharmasūtras of Gautaina and Vasistha and also than the Manusmrti, which it probably knew in a very ancient version slightly differing from the extant one. 
+dharma viz. ācāra, vyavahāra and prayascitta. For example, the Smṛticandrikā quotes prose passages of Uśanas on anadhyāya (1, p. 59), on duntadhavana (1. p. 106 ) and Haradatta quotes a prose passage on anadhyāya (on Ap. Dh. S. I. 3. 10. I) and a prose passage on the fine for a Kşatriya abusing a sūdra (on Gau. Dh. S. 12. 10) and on Niyoga ) on Gau. Dh. S. 18. 5). These passages are not found in the ms. But there are others that are found. For example, the Smṛticandrikā quotes two passages, which occur in the mss.249 It appears therefore that the mss. either contain a portion only of the complete Auśanasa-dharma-sūtra or an independent sūtra work. The former alternative looks more probable. The foregoing discussion has shown that the sutra work is later than the dharmasūtras of Gautaina and Vasistha and also than the Manusmrti, which it probably knew in a very ancient version slightly differing from the extant one. 
 
-In Jivananda's collection of smộtis there is an Aušanasa dharmaśāstra in 51 verses (part I. pp. 497-501 ). It deals with mixed castes and their avocations, such as sūta, māgadha: dāpņāla, $vapaca, pulinda-&c. The same work occurs in the Anandāśrama collection, pp. 46-48. The Mit. (on Yaj. 1. 94 ) remarks that the means of livelihood for the mixed custes should be sought for in the works of Usanas and Manu.280 It is probably this smộti that is meant. Kullūka on Manu. X. 49 says that the sale of hides and working on hides were means of livelihood for Dhigvaņas according to the Aušanasa. 
+In Jivananda's collection of smṛtis there is an Aušanasa dharmaśāstra in 51 verses (part I. pp. 497-501 ). It deals with mixed castes and their avocations, such as sūta, māgadha: dāpņāla, $vapaca, pulinda-&c. The same work occurs in the Anandāśrama collection, pp. 46-48. The Mit. (on Yaj. 1. 94 ) remarks that the means of livelihood for the mixed custes should be sought for in the works of Usanas and Manu.280 It is probably this smṛti that is meant. Kullūka on Manu. X. 49 says that the sale of hides and working on hides were means of livelihood for Dhigvaņas according to the Aušanasa. 
 
-In the same collection (part I. pp. 501-544 ) there is another smộti ascribed to Usapas in 9 chapters and about 600 verses. It treats of Upanayana, daily observances like ācamuna, Vedic study, occasions of unadhyāya, the dharmas of snātuka ; śrāddha, proper Brāhmaṇas for brāddha, impurity on birth and death, rites after death, prayascittas for the mortal sins and lesser sins. 
+In the same collection (part I. pp. 501-544 ) there is another smṛti ascribed to Usapas in 9 chapters and about 600 verses. It treats of Upanayana, daily observances like ācamuna, Vedic study, occasions of unadhyāya, the dharmas of snātuka ; śrāddha, proper Brāhmaṇas for brāddha, impurity on birth and death, rites after death, prayascittas for the mortal sins and lesser sins. 
 
 249 The passages are '79 ATC AHISTAHOERTRI Gala'(chap. V. 
 
@@ -147,9 +147,9 @@ FOUN
 
 271 
 
-This smrti quotes Usanas himself, also Manu, Bhrgu (Bhrguputra III ), Prajapati and speaks of dharmaśāstras, Puranas, Mimārsā, Vedanta, Pāñcarātras, Kāpālikas and Pāśupatas. Numerous verses from the Manusmộti are found in it (e. g. Manu II. 42, 49, 50, 125 ) and occur in the first chapter alone. There is a brief prose passage towards the end of the 9th chapter. It speaks of Kāpālikas, Pāśupatas and atheists together ( 1). 525 ). 
+This smrti quotes Usanas himself, also Manu, Bhrgu (Bhrguputra III ), Prajapati and speaks of dharmaśāstras, Puranas, Mimārsā, Vedanta, Pāñcarātras, Kāpālikas and Pāśupatas. Numerous verses from the Manusmṛti are found in it (e. g. Manu II. 42, 49, 50, 125 ) and occur in the first chapter alone. There is a brief prose passage towards the end of the 9th chapter. It speaks of Kāpālikas, Pāśupatas and atheists together ( 1). 525 ). 
 
-None of these smộtis in verse contains the passages in verse on vyavahāra ascribel to Ušauas that occur in the Mitākṣarā, Smrticandrikā and other works. 
+None of these smṛtis in verse contains the passages in verse on vyavahāra ascribel to Ušauas that occur in the Mitākṣarā, Smrticandrikā and other works. 
 
 The Mit. (on Yāj. III. 260 ) and Aparārka (e. g. p. 158, 192, 255 ) contain prose passages ascribed to Usanas and the same works contain numerous verses ascribed to Usanas, most of which are not found in the two smrtis in Jivananda. Some of the verses in Apararka ascribed to Ušanas are found in the Aušanasasmrti (e. g. Aparūrka p. 418 'kuryād-abaraḥ śrād dham’is Jivananda I. p. 521 ). 
 
@@ -177,7 +177,7 @@ History of Dharmasastra
 
 a ksatriya from a vaibya wife is a kşatriya (p. 814 on Vyava hāra ). Aparārka quotes Ušanas dozens of times, about nine quotations being in prose ( most of them on prāyaścitta ). 
 
-The Maskaribhāsya on Gautama Dh. S. quotes prose pag sages from Ušanas in many cases e. g. on I. 64, 66, II. 17 (long), 18, 48; V. 9, X. 27 ( about principles of taxation ), 31. 36, 52; XII. 6, 10, 36, 42; XIX. 14 (long prose followed by six verses ) and also some verses as on XII. 19 Māso vimsati bhāgastu jñeyah Kārsāpaņasya tu ! Kākani tu caturbhāgo māsasyaiva prakirtitahtiSmộticandrikā quotes Usanas 45 
+The Maskaribhāsya on Gautama Dh. S. quotes prose pag sages from Ušanas in many cases e. g. on I. 64, 66, II. 17 (long), 18, 48; V. 9, X. 27 ( about principles of taxation ), 31. 36, 52; XII. 6, 10, 36, 42; XIX. 14 (long prose followed by six verses ) and also some verses as on XII. 19 Māso vimsati bhāgastu jñeyah Kārsāpaņasya tu ! Kākani tu caturbhāgo māsasyaiva prakirtitahtiSmṛticandrikā quotes Usanas 45 
 
 times on āhnika, vyavahāra and śrāddha; vide Mit. on Yāj. II. 159 quoting Nārada. 
 

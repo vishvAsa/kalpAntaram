@@ -6,7 +6,7 @@ short_title = "55 Saṁgraha or"
 55 Saṁgraha or Smṛtisaṁgraha
 
 
-55. Samgraha or Smrtisamgraha This work is frequently cited by the Mitākṣarā, Aparārka, the Smộticandrikā and other works on all topics of dharma, The quotations on vyavahāra are copious and are very im 
+55. Samgraha or Smrtisamgraha This work is frequently cited by the Mitākṣarā, Aparārka, the Smṛticandrikā and other works on all topics of dharma, The quotations on vyavahāra are copious and are very im 
 
 659 
 
@@ -58,7 +58,7 @@ A
 
 1 
 
-According to the Samgraha,867 ownership does not consist in being able to dispose of a thing at one's sweet will, since it is the sāstra that prescribes the proper disposal or application of all things. The Samgraba$68 laid down that the special share given to the eldest son, the practice of niyoga and the offering of a cow are all forbidden in the present age. Dhāre svara also held the same view about the eldest son's rights and the Mit. also approves of it and quotes anonymously the same verse (on Yaj. II. 117 ). The Saṁgraha in two verses appa rently following Manu 9. 182-183, lays down that, if of several full brothers one has a son, all thereby have issue and that, if one out of the several wives of a person has a son, all the co-wives may be regarded as putruvati. The Smộti candrikā says that Devasvami explained this dictum of the Samgrahakāra (Smộticandrikā, Vy. p. 289). The Samgraha says that the widow of a separated coparcener dying childless would inberit his whole estate if she submitted to Niyoga at the behests of her elders.968 This was also the opinion of Dhare svara and was refuted according to the Smộticandrikā by Visva. rūpa. The Mit. also criticizes this view. He names Manu in con nection with the succession of a person dying without leaving any one out of the twelve kinds of sons.670 He has in view Manu 9. 185. According to the Sangrahakāra the order of succession to a sonless man is :-- widow, the daughter who is a putrikā, mother, paternal grandmother, father, full brothers, half-brothers, the line of the father (pitssantati ), the grandfather's line, the great-grand-father's line, other sapindas, sakulyas, the preceptor, the pupil, a fellow-student, 
+According to the Samgraha,867 ownership does not consist in being able to dispose of a thing at one's sweet will, since it is the sāstra that prescribes the proper disposal or application of all things. The Samgraba$68 laid down that the special share given to the eldest son, the practice of niyoga and the offering of a cow are all forbidden in the present age. Dhāre svara also held the same view about the eldest son's rights and the Mit. also approves of it and quotes anonymously the same verse (on Yaj. II. 117 ). The Saṁgraha in two verses appa rently following Manu 9. 182-183, lays down that, if of several full brothers one has a son, all thereby have issue and that, if one out of the several wives of a person has a son, all the co-wives may be regarded as putruvati. The Smṛti candrikā says that Devasvami explained this dictum of the Samgrahakāra (Smṛticandrikā, Vy. p. 289). The Samgraha says that the widow of a separated coparcener dying childless would inberit his whole estate if she submitted to Niyoga at the behests of her elders.968 This was also the opinion of Dhare svara and was refuted according to the Smṛticandrikā by Visva. rūpa. The Mit. also criticizes this view. He names Manu in con nection with the succession of a person dying without leaving any one out of the twelve kinds of sons.670 He has in view Manu 9. 185. According to the Sangrahakāra the order of succession to a sonless man is :-- widow, the daughter who is a putrikā, mother, paternal grandmother, father, full brothers, half-brothers, the line of the father (pitssantati ), the grandfather's line, the great-grand-father's line, other sapindas, sakulyas, the preceptor, the pupil, a fellow-student, 
 
 687 न च स्वमुच्यते तद्यत्स्वेच्छया विनियुज्यते । विनियोगोत्र सर्वस्य शास्त्रेणैव 
 
@@ -96,4 +96,4 @@ FOUNDED
 
 Parāśara, Manu, Yājňavalkya, Yama and Saunaka are cited by naine.673 
 
-The Samgraha or Smộtisamgraha inust have contained a very large number of verses, since the Smộticandrikā alone quotes several hundred verses, from it on 'āhnika, Vyavahāra and Srāddha'. The Vyavahāra-nirưaya of Varadaraja states ion p. 324 ) that the view of Sangrahakāra is relied upon by Dhāreśvarabhatta ! 
+The Samgraha or Smṛtisamgraha inust have contained a very large number of verses, since the Smṛticandrikā alone quotes several hundred verses, from it on 'āhnika, Vyavahāra and Srāddha'. The Vyavahāra-nirưaya of Varadaraja states ion p. 324 ) that the view of Sangrahakāra is relied upon by Dhāreśvarabhatta ! 

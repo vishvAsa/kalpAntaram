@@ -21,7 +21,7 @@ Pulastya is one of the expounders of dharma enumerated by Vrddha-Yājñavalkya. 
 
 514 
 
-combination of jñāna and karma is the correct view.807 The first of these verses is ascribed by him to Yoga-Yājñavalkya elsewhere (note 336 ). The Smộticandrika quotes about forty verses from Pulastya on āhnika and srāddha. In one place it quotes Pulastya on the efficacy of bathing on Sunday, Tuesday, and Saturday. Hos In another place it refers to the japa of Rāma, Paraśurāma, Nrsimha Trivikrama. 
+combination of jñāna and karma is the correct view.807 The first of these verses is ascribed by him to Yoga-Yājñavalkya elsewhere (note 336 ). The Smṛticandrika quotes about forty verses from Pulastya on āhnika and srāddha. In one place it quotes Pulastya on the efficacy of bathing on Sunday, Tuesday, and Saturday. Hos In another place it refers to the japa of Rāma, Paraśurāma, Nrsimha Trivikrama. 
 
 Aparārka (on p. 1136 ) quotes eight verses from Pulastya that provide various religious rites or actions for dog-bite in the case of brāhmana men and women. 
 
