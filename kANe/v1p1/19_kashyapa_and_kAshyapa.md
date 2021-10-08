@@ -31,9 +31,9 @@ FOUNDED M1917"
 
 several forbidden acts.250 Haradatta (on An. Dh. S. II. 6.13. 2 ) quotes several verses mentioning the seven kinds of punar bhūs. The Hāralatii quotes a sūtra from Kaśyapa on āsauca. Aparārka quotes several sūtras and a few verses under both names Kaýyapa and Kaśyapa (vide Yāj. I. 64, III. 265, III. 21, 25, 251, 288, 290, 292 ). 
 
-In the Deccan College collection there are two mss. (No. 200 of 1884-87 and No. 122 of A. 1881-82) which contain a Kāśyapaşmṛti in prose (4. folios having 8 lines on each side ). It begins'athātaḥ Kāģyapiyān grhasthadharmān vyākhyāsya maḥ'. It deals with the duties of householders, with prāya Ścittas for doing mischief to wells, dikes, ponds, temples and houses of Brahmanas, for killing a cow and other beasts and birds, with rules on mourning after death and impurity on birth, with prāyaścittas for eating garlic and other similar things, with the five mortal sins, with priyaścittas when such portents as earthquakes, lightning flashes occur, or for such accidental occurrences as the breaking of the milk pot, with purification of vessels of wood and inetals, with the visible physical sins and sing committed in previous lives, with the seven punarbhūs. 
+In the Deccan College collection there are two mss. (No. 200 of 1884-87 and No. 122 of A. 1881-82) which contain a Kāśyapaṣmṛti in prose (4. folios having 8 lines on each side ). It begins'athātaḥ Kāśyapiyān grhasthadharmān vyākhyāsya maḥ'. It deals with the duties of householders, with prāya Ścittas for doing mischief to wells, dikes, ponds, temples and houses of Brahmanas, for killing a cow and other beasts and birds, with rules on mourning after death and impurity on birth, with prāyaścittas for eating garlic and other similar things, with the five mortal sins, with priyaścittas when such portents as earthquakes, lightning flashes occur, or for such accidental occurrences as the breaking of the milk pot, with purification of vessels of wood and inetals, with the visible physical sins and sing committed in previous lives, with the seven punarbhūs. 
 
-In this work some of the sūtras quoted as Kāşyapa's in the cominenturies are found (e. q. the quotation No. 259 "lasuna' &c. above ). So also the verses about punarbhūs of seven kinds quoted by Haradatta are found in the mss. In this sinti, Kiiśyapa is frequently cited as an authority. 
+In this work some of the sūtras quoted as Kāṣyapa's in the cominenturies are found (e. q. the quotation No. 259 "lasuna' &c. above ). So also the verses about punarbhūs of seven kinds quoted by Haradatta are found in the mss. In this sinti, Kiiśyapa is frequently cited as an authority. 
 
 Maskarin on Gaut. 23. 19 quotes a verse of Kāśyapa providing priyaścitta for homo-sexuality and masturbation. 
 
@@ -41,7 +41,7 @@ Maskarin on Gaut. 23. 19 quotes a verse of Kāśyapa providing priyaścitta for 
 
 brahmacāri tathābhyesāt snātvātha havisā yajet Il". 
 
-The Vanaparva ( 29. 35-40) sets out five gathās which Kāśyapa declared about keunā (forbearance or mildness ). Two of the five verses on kşamā are quoted below :* 259 लशुनपलाण्डुगृजनकुक्कटभक्षणे मेदःशुक्रपानेऽयाज्ययाजनेऽभोज्यभोजनेऽभक्ष्यभक्ष 
+The Vanaparva ( 29. 35-40) sets out five gathās which Kāśyapa declared about keunā (forbearance or mildness ). Two of the five verses on kṣamā are quoted below :* 259 लशुनपलाण्डुगृजनकुक्कटभक्षणे मेदःशुक्रपानेऽयाज्ययाजनेऽभोज्यभोजनेऽभक्ष्यभक्ष 
 
 णेऽगम्यागमने चैवं प्रायश्चित्तं ब्राह्मणेभ्यो निवेद्य पडात्रोपोषितवीर्णान्ते प्राच्या मुदीच्या दिशि गत्वा यत्र ग्राम्यपशूनां शब्दो न श्रूयते तस्मिन्देशेमिं प्रज्वाल्य ब्रह्मासनमास्तीर्य तत्प्रणीतेन विधिना पुनःसंस्कारमहेति । क्षमा धर्मः क्षमा यज्ञः क्षमा वेदाः क्षमा श्रुतम् ।... क्षमा तेजस्विनी तेजः क्षमा 
 

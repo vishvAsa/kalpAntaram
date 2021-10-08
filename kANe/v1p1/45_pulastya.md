@@ -5,7 +5,7 @@ title = "45 Pulastya"
 
 45. Pulastya Pulastya's name is among the ten primordial sages men tioned in the Manusmrti I. 34--35. 
 
-Pulastya is one of the expounders of dharma enumerated by Vrddha-Yājñavalkya. Višvarūpa quotes a verse from him on sārīraśauca.604 The Mit. (on Yāj. I. 261 ) cites & verse from Pulastya that a Brāhmaṇa should principally use asce tic's food (i. e. vegetable food ) in srāddha, that ksatriyas and vaisyas should use meat and būdras madhu.606 The Mit. (Yāj. III. 253 ) quotes two verses of Pulastya who enumerates eleven intoxicating drinks together with surā as the twelfth.806 Aparārka quotes several verses from Pulastya on saṁdhyā, Sraddha, asauca, duties of yatis, prayascitta. Aparārka quotes two verses from Pulastya propounding the view that a 
+Pulastya is one of the expounders of dharma enumerated by Vrddha-Yājñavalkya. Viśvarūpa quotes a verse from him on sārīraśauca.604 The Mit. (on Yāj. I. 261 ) cites & verse from Pulastya that a Brāhmaṇa should principally use asce tic's food (i. e. vegetable food ) in srāddha, that ksatriyas and vaisyas should use meat and būdras madhu.606 The Mit. (Yāj. III. 253 ) quotes two verses of Pulastya who enumerates eleven intoxicating drinks together with surā as the twelfth.806 Aparārka quotes several verses from Pulastya on saṁdhyā, Sraddha, asauca, duties of yatis, prayascitta. Aparārka quotes two verses from Pulastya propounding the view that a 
 
 601 सागमा दीर्घकाला चाविच्छिन्नापरवोज्झिता । प्रत्यर्थिसंनिधाना च भुक्तिः 
 

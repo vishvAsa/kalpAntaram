@@ -5,7 +5,7 @@ title = "48 Prajāpati"
 
 48. Prajapati Prajāpati is cited as an authority by the Baudhāyana dharinasūtra (II. 4. 15 and II. 10. 71 ). Vasistha several times quotes Prājāpatya blokas (viz. III. 47, XIV. 16-19, 24-27, 30-32). It has been shown above that most of these Verses are found in the Manusmrti or have close correspon dence with verses of Manu. So it is not unlikely that both the writers of dharmasūtras mean Manu by Prajāpati. 
 
-In the Anandāśrama collection (p. 90-98 ) there is a smrti of Prajāpati in 198 verses on the various details of frāddha, such as the time, place, the persons authorised to perform, proper food, Brāhmanas to be invited etc. The pre vailing metre is Auustubh, but there are nine verses in the Indravajrā, Upajāti, Vasantatilakā (verse 137 ) and Sragdharā (verse 96 ). It speaks of Kalpaśāstra, smrtis, dharmaśāstra, purānas. It contains a verse referring to the Kanya and Vrścika ( scorpion ) signs of the Zodiac, which is almost the same as a verse of Kāršņājini. 
+In the Anandāśrama collection (p. 90-98 ) there is a smrti of Prajāpati in 198 verses on the various details of frāddha, such as the time, place, the persons authorised to perform, proper food, Brāhmanas to be invited etc. The pre vailing metre is Auustubh, but there are nine verses in the Indravajrā, Upajāti, Vasantatilakā (verse 137 ) and Sragdharā (verse 96 ). It speaks of Kalpaśāstra, smrtis, dharmaśāstra, purānas. It contains a verse referring to the Kanya and Vrścika ( scorpion ) signs of the Zodiac, which is almost the same as a verse of Kārśṇājini. 
 
 812 सुतत्यागो यदि विक्रयात्मकस्तत्प्रायश्चित्तमाह प्रचेताः । अनृतवाक् तस्करो 
 
