@@ -1,5 +1,5 @@
 +++
-title = "20 ṣubbarāyana ṣaśṭhī"
+title = "20 subbarāyana ṣaśṭhī"
 
 +++
 

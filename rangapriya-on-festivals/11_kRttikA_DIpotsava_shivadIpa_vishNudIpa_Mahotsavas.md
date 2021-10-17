@@ -1,9 +1,9 @@
 +++
-title = "11 Kṛttikā ḍīpotsava \\(Śivadīpa Viśṇudīpa ṃahotsavas\\)"
+title = "11 Kṛttikā dīpotsava \\(Śivadīpa Viśṇudīpa ṃahotsavas\\)"
 short_title = "11 Kṛttikā ḍīpotsava"
 
 +++
-11 Kṛttikā ḍīpotsava \(Śivadīpa Viśṇudīpa ṃahotsavas\)
+11 Kṛttikā dīpotsava \(Śivadīpa Viśṇudīpa ṃahotsavas\)
 
 
 ## 1. Names of the *parvas*

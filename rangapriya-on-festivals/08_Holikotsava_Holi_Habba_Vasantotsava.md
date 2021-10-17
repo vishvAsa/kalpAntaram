@@ -1,9 +1,8 @@
 +++
-title = "08 ḥolikotsava, ḥoli ḥabba, Vasantotsava"
-short_title = "08 ḥolikotsava, ḥoli"
+title = "08 Holikotsava, holi habba, Vasantotsava"
 
 +++
-08 ḥolikotsava, ḥoli ḥabba, Vasantotsava
+08 holikotsava, holi habba, Vasantotsava
 
 
 This is a famous festival celebrated all over India being called by the names *‘Hoḷāka’*, *‘Holikā’*, *‘Holī*‘, *‘Phālgunikā’ ‘Vasantotsava’* and *‘Kāmanahabba’* etc. Though there are differences regarding the day of observance and the modalities, it is celebrated throughout India. Thoughin some places the celebration is begun on *Vasantapañcamī*. \(i.e. *Māgha Śukla Pancamī*\) it is specially celebrated on the day of *Phālguṇa-Pūrṇimā* only. Activities like burning of a pile of fire wood, \(splashing\) of rose colored water, dancing with happiness and excitement etc, are generally seen in all places. Only in the Bengal region the custom of performing *‘Dolotsava’* on that day to Lord *Kṛshṇa* is in vogue.

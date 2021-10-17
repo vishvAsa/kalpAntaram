@@ -1,5 +1,5 @@
 +++
-title = "01 ākṣaya ṭṛtīyā"
+title = "01 ākṣaya tṛtīyā"
 
 +++
 

@@ -1,5 +1,5 @@
 +++
-title = "18 Śrī ṛāmanavamī"
+title = "18 Śrī rāmanavamī"
 
 +++
 

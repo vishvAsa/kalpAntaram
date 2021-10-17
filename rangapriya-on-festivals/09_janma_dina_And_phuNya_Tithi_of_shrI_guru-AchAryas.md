@@ -1,10 +1,8 @@
 +++
-title = "09 zanma ḍina ānd phuṇya ṭithi of ŚrĪ Guru-Ācāryas"
-short_title = "09 zanma ḍina ānd phuṇya"
+title = "09 janma dina and phuṇya ṭithi"
 
 +++
-09 zanma ḍina ānd phuṇya ṭithi of ŚrĪ Guru-Ācāryas
-
+janma dina ānd phuṇya ṭithi of ŚrĪ Guru-Ācāryas
 
 God addressed by various names, *Śrī Rāma*, *Śrī Kṛshṇa*, *Śrī Śiva*, *Śrī Subrahmaṇya* and the festival and holy days addressing the distinct deities with distinguishing divine attributes and glories, have been discussed in the preceding chapters. Similarly, there are customs in our culture to observe with devotion and enthusiasm the festivals and holy days addressing preceptors, who have realized the essence of the Supreme Being, who have guided people in the divine realization path and the path of righteous order. Realized *mahatmas* like Jain *tīrthankaras, Gautamabuddha, Śrī Śaṅkara, Śrī Rāmānuja, Śrī Madhva, Śrī Basveśvara* are some of the elite preceptors. Great souls who having realized the divine principle themselves guide others to realize those divine principles, who conducted themselves in accordance with the canons, and who shone as the guiding lights for the world at large are called *‘ācārya*s’ \[One who professes what he practices\]. Their propitious reminiscences are observed on the lunar day \(*tithi*\) of their birth and their passing away, by meditating on them, offering worship, reading their history, chanting and singing about them. These days have the same reverence and respect as the festivals and holy days addressed to distinguishing divine attributes in the form of deities. We will discuss this topic, briefly.
 

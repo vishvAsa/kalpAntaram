@@ -1,5 +1,5 @@
 +++
-title = "15 ṇarasimha zayantī"
+title = "15 narasimha jayantī"
 
 +++
 

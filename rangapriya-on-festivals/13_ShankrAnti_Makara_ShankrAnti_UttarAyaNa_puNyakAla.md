@@ -1,9 +1,9 @@
 +++
-title = "13 ṣaṅkrānti \\(*ṃakara ṣaṅkrānti, ūttarāyaṇa puṇyakāla*\\)"
+title = "13 saṅkrānti \\(*ṃakara saṅkrānti, ūttarāyaṇa puṇyakāla*\\)"
 short_title = "13 ṣaṅkrānti \\(*ṃakara"
 
 +++
-13 ṣaṅkrānti \(*ṃakara ṣaṅkrānti, ūttarāyaṇa puṇyakāla*\)
+13 saṅkrānti \(*ṃakara saṅkrānti, ūttarāyaṇa puṇyakāla*\)
 
 
 **The name and significance of this *parva***:—*Saṅkrānti* is one of the most important festivals of the *Sanātana Ārya Bhāratiyas.* In scriptures it is called by other names such as *Saṅkrānti, Makarasaṅkrānti, Makarasaṅkramaṇa, Makarasaṅkramaṇa*, and *Uttarāyaṇa puṇyakāla* also. In Tamil Nadu it is called *Pongal*. Common people also call this as *‘Ellina Habba’*. Though the distribution of sesame is in vougue in the next festival also i.e. *‘rathasaptamī’*, it is only *Saṅkrānti* which is renownedly associated with the significance and fame pertaining to the gifting of sesame, and thus is well known as *Eḷḷina habba*. The Kannada proveb *“Eḷḷu bellava tindu oḷḷeya māthanāḍu’* owes it’s origin to this festival.

@@ -1,5 +1,5 @@
 +++
-title = "21 ūgādi\\* Festival"
+title = "21 Yugādi\\* Festival"
 
 +++
 

@@ -1,9 +1,8 @@
 +++
-title = "10 Śrī Kṛśṇa zayantī—zanmāśṭamī"
+title = "10 Śrī Kṛśṇa jayantī—janmāśṭamī"
 short_title = "10 Śrī Kṛśṇa"
 
 +++
-10 Śrī Kṛśṇa zayantī—zanmāśṭamī
 
 
 *Śrī KṛshṇaJayantī* or *Janmāshṭamī* is a very important festival, which comes in the month of *srāvaṇa*. People call it by different names such as *Gokulāshṭamī*, *Jayantī*, *Śrī Jayantī* etc. It is a great festival observed all over India with joy and devotion. It is a very popular, sacred and very auspicious *parva* which is observed by people belonging to all *varṇas*, *āśramas* and classes. *Śrī Kṛshṇa* is the deity worshipped specially on that day. In this background it is necessary to know a little about the reigning deity of this festival.

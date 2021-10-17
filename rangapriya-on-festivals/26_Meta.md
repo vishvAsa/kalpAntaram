@@ -1,5 +1,5 @@
 +++
-title = "26 ṃeta"
+title = "26 Meta"
 
 +++
 

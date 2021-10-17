@@ -1,5 +1,5 @@
 +++
-title = "24 ūtthānadvādaśī"
+title = "24 utthānadvādaśī"
 
 +++
 

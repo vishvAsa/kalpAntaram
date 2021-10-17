@@ -1,9 +1,9 @@
 +++
-title = "14 ṇāgapūjā- ṇāgarapañcamī \\(ṣerpent Worśip\\)"
+title = "14 nāgapūjā- nāgarapañcamī 
 short_title = "14 ṇāgapūjā"
 
 +++
-14 ṇāgapūjā- ṇāgarapañcamī \(ṣerpent Worśip\)
+14 Nāgapūjā- ṇāgarapañcamī \(Serpent Worship\)
 
 
 The *Nāgapañcami* occupies an important place in the traditions brought forth by the *sanātana Āryabhāratīya Maharshis*, This is even considered by some as one of the supreme *parvas*, in place of *Akshaya tṛtīyā*. This *parva* is observed in all parts of this country by people belonging to all sects, creeds and philosophical systems. Though there are differences in the modalities of observance, all of them observe this with great devotion, faith and religious fervor. We see that this *vrata* is being observed by all, except by those who have a vow not to observe *kāmya vratas* and those who are devoted to only one deity like *Śiva, Vishṇu* etc. Even such *Ekadevopāsakas* \(devoted to a single god\) sometimes observe this as a *kāmyavrata*. People observe this *vrata* with the desires such as - “Let not serpents bite us, Let the peril from poison be averted. Let us have progeny. Let us be bestowed with wealth. Let us be free from skin diseases. Let us attain heaven”, Etc.,. This *vrata* is also observed with the objective of awakening *Kunḍalini* i.e. *Prāṇaśakti* for the early *phalasiddhi* \(results\) in *yogābhyāsa*. As the name of the *vrata* itself clearly states, the deity that is specially worshipped on this day is *Nāgadevatā*.

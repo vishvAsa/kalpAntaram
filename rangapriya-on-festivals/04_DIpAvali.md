@@ -1,5 +1,5 @@
 +++
-title = "04 ḍīpāvaḷi"
+title = "04 dīpāvaḷi"
 
 +++
 
