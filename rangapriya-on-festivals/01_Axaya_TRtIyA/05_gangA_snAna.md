@@ -1,121 +1,7 @@
 +++
-title = "01 ākṣaya tṛtīyā"
+title = "05 Gaṅgā Snāna"
 
 +++
-
-Many *vratas* coming in the month of *Vaiśākha* such as *Vishuvatīparva*, *Mādhava prārambhotsava, Amāvrata, Tretāyugotpatti, CandradarsanaVrata, AkshayaTṛtīya, Paraśurāmajayantī*, *Śrī Śaṅkarācārya’s Śrījayantī, ŚrīRāmānujācārya’s Tirunakshatra, GaṅgāsaptamīVrata, MohinīVrata, NṛsimhaJayantī, PaurṇimāVrata, KūrmaJayantī*, *Vaiśakhasnāna Vrata* etc., are prescribed for observance. We shall discuss only a few of them which are important from the above view points.
-
-## Importance of this Parva:
-
-*Akshaya Tṛtīyā* is considered as one of the most important festivals celebrated in the month of *Vaiśākha*.
-
-There is a reference to this *parva* in the *Bhavishya Purāṇa* where Lord *ŚrīKṛshṇa* himself has described the extraordinary greatness of this *Vrata* thus:-
-
-> बहुनात्र किमुक्तेन किं बह्वक्षरमालया ।  
-> वैशाखस्य सितामेकां तृतीयामक्षयां शृणु” ॥ 
-
-\(Of what avail is stating with plentiful words? Just listen to the topic of the *Parva* of *Akshaya Tṛtīyā* coming in the month *vaiśākha*.\) This statement proclaims the superiority of this *parva*. This day is considered as one of the most commendable days for taking bath in the *Gaṅgā* and to worship Lord *ŚrīKṛshṇa* with *dhūpa*, *dīpa*,* Pushpa* and *Candana*. *ŚrīKṛshṇa*, the God of all gods refers to *Badari* as “My *Āśrama*” and narrates the great benefits one gets by going on a pilgrimage to *Badarī*.
-
-गच्छोद्धव मयाऽदिष्टः बदर्याख्यं ममाश्रमम् ।  
-> तत्र मत्पादतीर्थोदे स्नानोपस्पर्शनैः शुचिः ।  
-> ईक्षयालकनन्दाया विधूताशेषकल्मषः । \(श्रीमद्भागवत xi-29\) 
-
-\(O *Uddhava*, I command you to visit *Badarī* which is my *āśrama*. By bathing in my *Śrīpadatīrtha* there and doing *ācamana*, and by the contact and the sight of the water of *Alakanandā* you will be freed from all the sins.\) *Tḷrumaṅgai Āḷvar*, the best among devotees, declares—“Undertake the *Badarīyātra* before reaching the state of walking with the help of a stick with a bent back, and the state of \(keeping repeatedly\) coughing \(due to old age\). It is the doorway to salvation.” And *Akshya Tṛtīyā* is the day on which the gate of *Badarinārāyaṇa mandira*, the greatest of the pilgrimages, is opened. It can be termed alternatively as the day of opening of the doors for emancipation.
-
-This day also happens to be the day of incarnation of *Paraśurāma,* who is referred to as *Brahmakshatra Avatāra*, and whose incarnation is the sixth among the ten *avatāras* of Lord *Vishṇu*.
-
-The *Akshaya Tṛtīyā Parva* is praised as a great day for the worshipping of gods and also for the worshipping of the manes.
-
-The day is also considered the first day of *Satya Yuga*, which is the first among the four *yugas*. It is also considered a good day for sowing seeds in the fields.
-
-This *parva* is called *Akshaya Tṛtīya* because the *snāna*, *japa, tapas, adhyāyana*, *tarpaṇa* and *dāna* and other rituals performed on this day bring in inexhaustible merit to the doer. *\(Akshaya Phala Tṛtīyā\)*
-
-\(“स्नात्वा हुत्वा च जप्त्वा च दत्त्वानन्तफलं लभेत्”\(*Vratarāja*\) The name is also well suited because it bestows on the performer *akshayamoksha*. The *Kannada* name *‘Akshatadige’,* is the vernacular form of the word *Akshaya Tṛtīya.*
-
-## The time of observance:
-
-It is stated that this *parva* should be observed on *Vaiśākha śukla tṛtīyā*. What should be the extent of the *Tithi* on that day? Does it require a conjunction of *Vāra* and *nakshatra*? What is the outcome of these? Let us discuss these points in detail.
-
-The *tṛtīyā tithi* should extend from sunrise to midday on that day.
-
-“सा च पूर्वाह्‌णव्यापिनी ग्राह्या” It is possible that the *tṛtiyātithi* may be touching the *caturthī*. *“Gaurīvināyakopetā”*, But if the duration of the *tithi* is less than six *ghatikās* on the next day, the *Vrata-parvas* should be celebrated on the previous day itself. If it extends beyond six *ghatikās,* the *parva* should be celebrated the next day.
-
-“त्रिमुहूर्ताधिकव्याप्तिसत्त्वे परा, त्रिमुहूर्तन्यूनत्वे पूर्वा” \(*Dharma Sindhu*\) If that day happens to be a Wednesday \(or Monday\) and if it has the conjunction with star *Rohiṇi*, it is very commendable. But, just for the sake of that conjunction, the *parva* should not be observed the previous day. \[i.e. even if such a conjunction occurs on the previous day, the *parva* should not be observed\] which means, this *Vrata* should not be observed when *Dvitīyā* and *Tṛtīyā* occur on the same day. Just as the pervasion of *Tṛtīya* in the *purvāhṇa* is prescribed, the prohibition of the observance on the day when *Tṛtīyā* has pervasion in the afternoon, is also done clearly.
-
-> पूर्वाह्‌णे तु सदा कार्याः शुक्ले मनुयुगादयः ।  
-> दैव्ये कर्मणि पित्र्ये च कृष्णे चैवापराह्‌णिकाः ॥  
-> वैशाखस्य तृतीयां च पूर्वविद्धां करोति वै ।  
-> हव्यं देवा न गृह्‌णन्ति कव्यं च पितरस्तथा ॥ 
-
-\(For the observance of *Manvādi* and *Ugādi*, only the *tṛtīyā* of the *Śuklapaksha* which has pervasion in the forenoon, has to be considered. Only in the *Kṛshṇapaksha* it can be considered, if it pervades in the afternoon, both for religious rites of gods or *pitṛs*. If it is considered when it pervades in the afternoon in the *śuklapaksha*, all the worships offered will go in vain, says the *Vratarāja*.\)
-
-## Vrata Parva procedures
-
-Early in the morning on that day, bath should be taken in the *Gaṅgā* as a part of the *Vrata,* along with vows. \(वैशाखे शुक्लपक्षे तु तृतीयायां तथैव च । गङ्गातोये नरः स्नात्वा मुच्यते सर्वकिल्बिषैः ॥\) *\(Nirṇayasindhu\)* Those who cannot afford to bathe in the *Gaṅgā* directly, should invoke HER in the water in which they wish to take bath, worship her and then take the bath. And, purified by such a bath, they should worship their *ishṭadevatā* and especially *Lakshmīnārāyaṇa* and *Śrī Kṛshṇa,* along with the rituals for the manes.
-
-> वैशाखस्य तृतीयायां श्रीसमेतं जगद्गुरुम् ।  
-> नारायणं पूजयेच्च पुष्पधूपविलेपनैः ॥ 
-
-It is very auspicious to apply sandal paste on the idol of Lord *Kṛshṇa* during his worship.
-
-> यः करोति तृतीयायां कृष्णं चन्दनलेपितम् ।  
-> वैशाखस्य सिते पक्षे स यात्यच्युतमन्दिरम् ॥ \(धर्मसिन्धु\) 
-
-The *ŚrīKṛshṇamantra* should be chanted. *Tarpaṇa* should be performed for the *pitṛs* and *Pinḍapradāna* should be done. After that, gifts of wheat, barley, roasted barley powder, Bengal gram, many varieties of cooked rice, especially curd rice, a pot filled with water and other articles useful for the summer season, should be made to the suitable persons. And the gift of cash should also be made along with other gifts. Offering of gold is very auspicious. The rule of *Ekabhukta* \(i.e. eating only once\) should be observed on that day.
-
-## The Science of Time
-
-The *Parva* is celebrated on the *śukla tṛtīyā* of *Vaiśākha* which comes only in the *vasantaṛtu*. We have already described in the chapters of *Rāmanavamī* and *Ugādi*, that *Vasanta* among seasons, and *śuklapaksha,* are most commendable for the worship of god, and for rituals relating to gods. Now let us discuss the *māsa*, *tithi* and *nakshatra* of the *parva*.
-
-### Māsa
-**A\) *Māsa:*** In the celebration of this festival, barley is prescribed as the main substance for *Havana*, *pūja* and *dāna*. Gifting wheat, Bengalgram and roasted barley powder are also mentioned as the most suitable ones for *dāna*. In our country which is predominantly agricultural, it is only in the month of *vaiśākha* all these \(grains\) become readily available, both for consumption and for sacrificial and religious purposes. Thus the science in \(mentioning\) *Vaiśākha* as the month may be noticed, when all the specific materials required for the ritual of the *parva* are available in plenty.
-
-Further, *Meshasaṅkramaṇa*, the most auspicious time of *Vishuvat* comes in this month only. We have already discussed and explained the importance of this *puṇyakāla*, in the chapter on *Ugādi*. This *saṅkramaṇa* and the time proximate to it, are the most suitable times for worshipping the *pitṛs*. Therefore it has to be noted here that the month of *vaiśākha* is convenient for the observance of *Akshaya Tṛtīyā*, which is best for the worship of both *devas* and *pitṛs*. Though the advantage of the spring season is available in *caitra* the month previous to this, there is no guarantee that grains arrive at homes in the ready-to-use form. And also, the *Vishusaṅkramaṇa* does not occur in that month. It \(i.e. *Caitra*\) is considered as a *Kharamāsa* because of the happening of *Mīnasaṅkramaṇa* in that month.
-
-### Tithi
-**b\) *Tithi***: The *tithi* of this *parva*, viz. *tṛtīyā* is called *‘Jayātithi’*. And that too, the *Jayātithi* of *Śukla Paksha* is very auspicious.
-
-		
-> नन्दा भद्रा जया रिक्ता पूर्णाःस्युः तिथयः पुनः ।  
-> पर्यायत्वेन विज्ञेयाः ॥\(पीयूषधारा = नारद वचन\) 
-
-“उदकुम्भान् सकनकान् सान्नान् सर्वरसैः सह ।  
-“यवगोधूमचणकान् सक्तु दध्योदनं तथा ॥\(निर्णय सिन्धु\) 
-
-The name *Jayā* indicates that it is the precious time for success, ie the securing of the accomplishment of the endeavours taken up with auspicious intentions.
-
-We have also heard that *tṛtīyā* conjoined with *caturthī tithi* is highly auspicious for this festival. *‘Gaurī Vināyakopetā’*. *Tṛtīyā* is considered to be the *tithi* of goddess *Gauri* who bestows auspiciousness for all living beings, and *caturthī* as the *tithi* of Lord *Gaṇeśa*, the remover of all obstacles. “चतुर्थीगणनाथस्य” गौर्याः तत्पूर्ववासरे” \(Agnipurāṇa\)
-
-The union of these two *tithis* which is dear to these gods \(i.e. Goddess *Gauri* and Lord *Gaṇeśa*\) is indeed \(a time\) which cherishes the removal of obstacles and the accomplishment of auspiciousness, brought about by the tranquility of the said time.
-
-The main reason for laying down that the *tṛtīyā tithi* should extend till noon is because *śuklapaksha* is dear to gods. As it is the domain of the gods, they desire the forenoon only for their worship. Also, in the duration of the day, the forenoon is dear to gods and the afternoon to the *pitṛs*. If any worship is offered in the afternoon of a *śuklapaksha,* it enters the sway of the *pitṛs* typically. So the *śāstras* stipulate only such a *tithi* which has a forenoon pervasion, and as the bright half of a month belongs to the gods, it is commended for worships and rituals.
-
-### Vāra and Nakshatra
-**C. *Vāra and Nakshatra***. *Yogis* says that if on that day, there is a conjunction of *Rohiṇī* with either Monday or Wednesday, it is a \(rare\) *Yoga* which is a result of imperishable good deeds. This is because, those two days and *Rohiṇī* are very auspicious days for the worship of Lord *Kṛshṇa*. So, on *Akshaya Tṛtīyā*, it is only *ŚrīKṛshṇa* who is to be specially worshipped after the worship of the *ishṭadevatā* isn’t it?
-
-> यः करोति तृतीयायां कृष्णं चन्दनलेपितम् ।  
-> वैशाखस्य सिते पक्षे स यात्यच्युतमन्दिरम् ॥ 
-
-\(We shall explain how the \(conjunction of the\) above said day and star \(*Rohiṇī*\) match well for the worship of *ŚrīKṛshṇa*, in the chapter of *ŚrīKṛshṇa Jayantī.*\)
-
-### Application to the festival
-
-*Śāstras* have prescribed the third day of the *Śuklapaksha* of *Vaiśākha* which happens to be the latter half of the spring season for this festival. It should be noted that all the limbs of the above said time, happen to be highly favourable for the observance of this festival.
-
-The distinction of *Vasanta* renowned as the king of seasons, has been explained in the discussion on *Ugādi*. Pertaining to this festival \(i.e. *Akshaya Tṛtīyā*\) it should be specially noted that grains such as barley, wheat etc., which are necessary for the worship of God and also for the offerings, arrive at homes in a ready-to-use state, in this season.
-
-It is not certain that all those grains in the ripened state arrive at homes in *caitra,* the first month of *Vasanta*. But by *Vaiśākha* they will have surely arrived at homes. As *Vishuvat parva* also occurs in this month, it is a month which is best both for the worship of gods and *pitṛs*.
-
-*Śāstras* say that the entire six months of *Uttarāyaṇa* is the day time for *devas* and the *śuklapaksha* especially is time of their delight and nourishment. In addition to this, if festivals like *Sankramaṇa* and *AkshyaTṛtīyā* also occur, they will be dear to *pitṛs* also. The time that is dear to both of them \(i.e. gods and *pitṛs*\) is the time when the centers connected with them in the temple of the human body blossom. And it is the time when nature gets specially propitious and takes those who worship at that time to the grace of gods easily and swifly. This need not be believed just because a statement is made to that effect. Those who honestly undertake that worship can experience it at the distinct time. The *Tṛtīyā* of this festival is also known by the appropriate name *“Jayā”*. Particularly the *Tṛtīyā of śuklapaksha* is still more auspicious.
-
-> नन्दा भद्रा जया रिक्ता पूर्णाः स्युस्तिथयः पुनः ।  
-> पर्यायत्वेन विज्ञेया नेष्टमध्येष्टदा सिते ॥
-
-
-And if the *Tṛtīyā* which is associated with the all auspicious *Gauri,* and the *caturthī* associated with *vighnādhipa Gaṇeśa* come together, it becomes a festival of great accomplishments.
-
-
-## Gaṅgā Snāna
 **d\) *Gaṅgā Snāna***
 
 ***Vidhi Vijnāna*\(Modalities\):** While discussing the rules of celebrating *Akshayatṛtīyā*, we have stated that a dip in the holy *Gaṅgā* is most auspicious. According to *Vagbhata*, even the \(regular\) bath taken in clean water on any day, is \(highly\) beneficial.
@@ -128,7 +14,7 @@ A bath stimulates *agni* in the stomach, increases the virility in the body, pro
 		
 Taking bath in clean water removes bodily dirt, sloth and fatigue and this is commonly experienced by all. But ordinary knowledge does not help in understanding how it can remove sins and bestow *puṇya*. Unless this is understood scientifically, the importance of having *Gaṅgāsnāna* on *akshyatṛtīyā* as prescribed by the *śāstras* cannot be known. Therefore we are taking this up for discussion. As a backdrop to this, we would like to give the commentary \(as commanded\) by Śrī Raṅgamahāguru pertaining to this.
 
-#### Puṇya and Pāpa
+### Puṇya and Pāpa
 A background for the introduction to Puṇya and Pāpa.
 
 “What do puṇya and pāpa mean? Generally no one ponders about that. The words—*‘Puṇya* is accrued”, “*Pāpa* has perished”—uttered by people casually, sometime sound as though they have better knowledge than those who have understood them clearly. But, are they visible to the naked eyes like the coming and going of, say a cow or a calf? Then what are they? A solid? Liquid? Gas? What is their form? Where are they located? How long do they exist? They are not meant for animals right? If they are applicable only to human beings, where do they remain and how long? Don’t they get reduced to ashes along with the person who has earned them, after he dies? Such questions naturally arise. They can be comprehended only when they are seen through the discriminating eyes of jnānis. Merit and sin are a kind of distinctive marks \(impressions\) recorded on the gramophone plate of the mind. They are also called *Samskāras* and *Vāsanās*. The impressions causing happiness are called *Puṇya* and the ones that cause misery are called *Pāpa*. Both these are marks imprinted on the mind. It is almost impossible to erase these inner impressions. They do not perish even when the soul leaves the body. As evident from the words “मनष्षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति”, the mind also goes with him. All the old records of impressions will be present in the mind. They stay with the person as long as the relationship between the *jīva* and the mind exists. These marks do not touch the person who crosses the wheel of mind itself and flies to the place of Brahman. In all other persons, the impressions of *puṇya* bring happiness and the impressions of pāpa bring misery, and this phenomenon exists for ever. Deeds performed to imprint the marks of merit lead to happiness, and the ones contrary to that, lead to misery.”
@@ -145,7 +31,7 @@ By minding this principle as explained below, one can easily understand how a ho
 8. With the sacred contact of the lotus feet of the *jnānis*, the *tīrthas* are rendered even more great and powerful, to remove sins. “तीर्थीकुर्वन्ति तीर्थानि तीर्थभूता हि साधवः” \(*Jnānis* make the *tīrthas* holier. They themselves are *tīrthas,* says *Bhagavān Vyāsa*\). A narrative, popular in the society of saints may be remembered here. A *sādhaka* who was standing near a hermitage of a *Brahmarshi* happened to see some women in dreadful form entering the hermitage. After sometime, he saw some women divinely beautiful women coming out of the *Āśrama*. Stopping them he asked who they are. They said, “We are *Gaṅgā* and other rivers deities. People taking bath in our waters become pure dropping all their sins on us. We became ugly like female demons on taking their sins. But on entering the hermitage of the *Brahmarshi* and staying there with devotion for a while in their presence, we got back our natural divine form.” Then the *sādhaka* asked them—“Then did the *Brahmarshi* get a dreadful from by taking your sins?” “No” they said. “The sins do not touch them at all. They were reduced to ashes by the very sight of *Brahmarshis*.” The *jnānis* untouched by either *puṇya* or *pāpa*, purify them \(the waters\) and make them *tīrthas*, and therefore, those who take bath in the *tīrthas* shed their sins and become pure. 
 9. On some occasions, the *brahmajnānis* who visit the *tīrthas*, happen to touch the waters with their divine minds, sights and bodies, and pass into them a divine energy stream with the wish “Let these *tīrthas* acquire the power of ridding bad *samskāras* of people who bathe, for a specific span of time. Let them obtain the capacity to fill good *samskāras* in such people. Let them acquire the capacity to carry them \(the devotees\) to the *Brāhmi* state which is free from *puṇyas* and *papas.*” Those who take bath in such sacred *tīrthas* which are filled with the divine willpower, reap the above said benefits accordingly. 
 
-#### Gaṅgā eminence
+### Gaṅgā eminence
 The eminence of the holy waters of Gaṅgā
 
 The word *Gaṅgā* means something which gives *mukti* \(‘सद्गतिं गमयतीति गङ्गा’\) The word applies to a goddess and also to the river presided over by that goddess. *Śāstras* and traditions openly praise the holy bath in the sacred river in similitude with the \(*dhyāna*\) of that goddess. They profusely praise not just the holy bath in the river and drinking of its sacred water, but also the very sight and the remembrance of it. \(A few of\) such extolling statements are collected as under.
@@ -205,7 +91,7 @@ Even taking a bath directly in the *Gaṅgā* causes *Puṇya*.
 > गङ्गाजललवकणिका पीता ।\(भजगोविन्द स्तोत्र\)  
 > गङ्गातीरमनुत्तमं हि सकलम् ॥\(मणिकर्णिकाष्टक\) 
 
-#### Gaṅgā - ailments and health 
+### Gaṅgā - ailments and health 
 2. The power of Gaṅgā to cure ailments and to bestow health.
 
 Many Ayurvedic texts tell us that, besides absolving people of sins, and blessing with *Sadgati*, the water of *Gaṅgā* is very tasty, removes a number of diseases, and helps to acquire good health.
@@ -227,14 +113,14 @@ A work by name *Bhojanakutūhala* showers rains of praises thus:-*“Gaṅgatīr
 > शीतं स्वादु स्वच्छमत्यन्तरुच्यं पथ्यं पाक्यं पाचनं पापहारि ।  
 > तृष्णामोहध्वंसनं दीपनं च प्रज्ञां धत्ते वारि भागीरथीजम् ॥ 
 
-#### Modern views 
+### Modern views 
 Views on the quality \(properties\) of Gaṅgā by people belonging to other religions, and experiments by modern physicians and their opinions.
 
 History tells us that the healthy qualities of the waters of *Gaṅgā* have attracted not just the Hindus, but the followers of other religions also who were cognizant of its use and were dxiligently consuming it. A travelogue writer by name Iben Batuta tells that Mohammed Bin Tughlak used to get *Gaṅgā* water from Doulathabād regularly. And it would take forty days to reach him. \(Gibb’s Translation, P. 183\)
 
 A book pertaining to Akbar by name Ayine Akbari tells that Akbar considered *Gaṅgatīrtha* on par with nectar. He was drinking it both at home and during travel. He had appointed trusted officers to get him sealed *Gaṅgātīrtha*. Though water from river *Yamunā* or rainwater was used for cooking purposes, a small quantity of water from *Gaṅgā* was being added to that. Not just Akbar, even the bigot Aurangazeb used to love *Gaṅgātīrtha*. A French physician of those times by name Vernier tells us-“*Gaṅgātīrtha* is being kept along with other food stuff and drinks of the king in Delhi and Agra. It would be there even in his travels. Camels used to carry it.” “Even Muslim Nawabs stupefied by its healthy properties, were consuming it.”—statements like this can also be seen \(Narrative P. 248\). Gulām Hussain in his book on the history of Bengal writes “No water can be equal to the water of the *Gaṅgā* in sweetness, taste and the quality of lightness. It does not deteriorate even after a long time.” Taivernier says “It would cost two to three thousand rupees to get *Gaṅgātīrtha* from a long distance and to distribute during marriages.” We come across a statement which says that after the Bhūtān War, the Tūshilāmas of Tibet bought land on the shores of *Gaṅgā* and built a monastery there. Modern physicians and scholars have conclusively stated after conducting experiments that the water of *Gaṅgā* is curative of ailments and a sure cure for skin diseases and infectious diseases, and it does not get stale like the water of other rivers. One Dr. Nelson has said “*Gaṅgātīrtha* taken from Calcutta and carried to London by ship would be thoroughly pure. But water from Thames would turn stale before it could reach Bombay. When I landed in Agra, I came to know of the astonishing fact that the water of *Gaṅgā* had the property of destroying bacteria.” After conducting research on *Gaṅgātīrtha* Dr. Han Cran declared—“We drew water from the *Gaṅgā* at *Kāsi* from a spot where a lot of dirt was getting collected. It contained cholera spreading germs in lakhs. When we examined the water after six hours, we found that all the cholera germs had died. The same was the result in the water collected at a spot where a dead body was floating. When the cholera causing germs were let into pure water, they found that they had multiplied in large numbers. And when placed in *Gaṅgātīrtha* they became dead within six hours. Therefore we began to use the *Gaṅgātīrtha* now and then for curing diseases.” *Pandit Ṭhakūrdatta Sharma*, a researcher of the periodical *“Amṛtadhāra”* says that experiments have confirmed that *Gaṅgātīrtha* kills cholera germs. One *Kaviraj Pratāp Simha* has cured a number of cholera patients in his clinic treating them with the water of *Gaṅgā*. To the question why cholera does not figure in the list of diseases in Bhutan, he says”—They drink only the water of *Gaṅgā*. They bathe the cholera afflicted patient in the *Gaṅgā* and cool him down. They make him drink *Gaṅgātīrtha* frequently and cure him of the diseases the doctors there say. “Water of the *Gaṅgotri* cures diabetes” “By using *Gaṅgātīrtha* in injections, many diseases have been cured.” the doctors say.
 
-#### Gaṅgatīrtha qualities 
+### Gaṅgatīrtha qualities 
 A Discussion on the praise of the qualities of *Gaṅgatīrtha*.
 
 **a\) A discussion on its capacity to cure diseases**
@@ -250,7 +136,7 @@ Now, argument that the water of *Gaṅgā* does not cure diseases, but causes di
 
 The reasons for these are as follows. Dangerous chemicals and effluents from many industries join *Gaṅga* river in plenty exereting urine and faces on its banks is common. Animals are washed in those waters. During festivals, thousands of people take bath at the same place, and the dirt of their bodies collects in the river. In pilgrimage centers like *Kāśī*, half burnt corpses are thrown in abundance into the river, spoiling the water further. Therefore river *Gaṅgā* is one of the most polluted rivers of our country. Germs which cause typhoid, cholera, gastroeneteritis, hepatitis and tapeworms in the stomach, spread by consuming \(drinking\) that polluted water.” This is the statement issued by an organization called *Gāndhi Śāntipīṭha*. A research work in 1976 by physicians has reported that the water of river *Gaṅgā* is unfit for consumption. We cannot refute this opinion which is based on medical research. But there is also a statement from physicians which says-“Abundant bacteria in the water was noticed by us. But we also noticed that after six hours all the germs had died.” These are opinions that have come up at different times. We need to find out the quality of water only by scientific examination from time to time. Contextually, it has to be noted that generally all rivers are naturally gifted with the property of purifying their waters.
 
-##### Self purifying rivers
+#### Self purifying rivers
 The natural capacity of rivers to purify themselves
 
 Generally all rivers naturally purify their water themselves. Scientists explain it in a book \(*Holasu Tumbida namma nadigalu—BSN\)* as follows:-In rivers, bacteria which clean water are also present. There are two types of bacteria namely aerobic and anaerobic. Bacteria belonging to the first type thrive on oxygen. The bacteria of the second type abhor vital air and live without oxygen. Anaerobic bacteria destroy the solid substances at the bottom of the stream, and the one of the other variety destroy the substances on the surface of water. And these bacteria devour even organic matter that are present in filthy water. When they enter the body of the bacteria those organic matters get converted into inorganic matter. They wont decay. They cause no harm. Moreover, some of the single cell bacteria present in the water destroy disease causing germs in the filth. “Aerobic bacteria take away the oxygen dissolved in water which is their food. Is it not harmful?”, one may ask. The answer is, even if oxygen is lost like that, the rivers draw oxygen present in the atmosphere to make up for the loss. And also, the algae in the water produce oxygen by photosynthesis, and supply it to the bacteria.
@@ -259,7 +145,7 @@ When the organic matter get reduced in the river water, the aerobes get reduced 
 
 This is the capacity of rivers to purify themselves commonly seen. Since *Gaṅgā* flows across medicinal plants and herbs, its capacity to destroy germs and to purify may be greater. Even then, if the river is dumped with filth all the time beyond a limit, the above purification capability may get weakned.
 
-#####  Preview of the argument
+####  Preview of the argument
 
 Simply because river *Gaṅgā* is getting overpolluted and becoming an abode of diseases due to our own thoughtlessness, it does not mean that the statement that *Gaṅgātīrtha* is by itself is disease-resistant and health-promoting is untrue. If unwise persons mix poison with nectar like milk and meet with death, it does not go to falsify the statement that milk by itself is nectar like.
 
@@ -289,7 +175,7 @@ In reality, *Gaṅgā* and other *tīrthas* are present within us. *Jnānis* enj
 
 Thus, drinking of even sentimental *Gaṅgā* \(water\) can help in the curing of diseases. We have noted previously, that not only sentimental devotees but even discriminating scientists, and people with first hand experience have stated that actual *Gaṅgātīrtha* has even more potential in that regard. It is our responsibility to maintain the holy water of *Gaṅgā* in the natural state and use it for the curing of both mental and physical ailments.
 
-#####  The redemptive power
+####  The redemptive power
 The redemptive power of *Gaṅgā:* An explanation
 
 Let us agree for the moment that clean *Gaṅgātīrtha* when consumed, can cure diseases. But how to believe that it has redemptive power? Doing worship of God and following the path of *dharma* is known to redeem one’s sins. How can it happen just by drinking water from a river? If sins are redeemed just by drinking water, then the fish, crocodiles and other acquatic creatures that always live in water must be more blessed than human beings, isn’t it? This question naturally arises here. The answer for this can be found by recollecting what Śrīraṅgamahāguru had expounded about the meaning of pāpa and puṇya.
@@ -302,7 +188,7 @@ One who has *samskāras* of sins may appear healthy outside, but his *dhātus* r
 
 This effect will be there even on ordinary people, at least in small proportions. When this pleasantness of *dhātus* is accomplished completely, then the very realization of *Brahman* occurs as proclaimed by the *Upanishads* in the words “धातुप्रसादत् महिमनमीशम्.” Just as the above said result \(i.e. the pleasantness of *dhātus*\) happens from *tapas* and meditation etc., it also happens in a measure, by drinking the holy *Gaṅgātīrtha*. And that is why it is valued greatly. Thus, as the drinking of the holy *Gaṅgātīrtha* causes attainment of the *brahmī* state, it may be called a destroyer of sins, without any doubt.
 
-##### Mechanism of sin-removal
+#### Mechanism of sin-removal
 The ways in which the taking of *Gaṅgātīrtha* results in the removal of sins.
 
 A\) Drinking of *Gaṅgātīrtha* causes the removal of ailments and thereby becomes instrumental in the tranquility of the self. Only a healthy person indeed can meditate well says an ayurvedic aphorism.
@@ -319,7 +205,7 @@ c\) The blemishes which distort the mind are called sins. How *Gaṅgātīrtha* 
 
 As the Holy *Gaṅgātīrtha* has had the contact of sacred most people, it brings to our mind sacred memories. “Lord *Rudra deva* performed penance in *Rudraprayāg* a on the banks of the holy *Gaṅgā*, regularly drinking its water. *Nara* and *Nārāyaṇa* \(*Arjuna* and Lord *Kṛshṇa*\), did *tapasyā* in the hermitages on the banks of this *Gaṅgā* river consuming this *tīrtha* regularly. They performed fire sacrifices at a place called *Daśāśvamedha* on its banks. The seven *ṛshis* perform rituals in its water Great sages like *Nārada, Vyāsa*, and *Vālmīki* have consumed its holy water.”—When such holy memories come to our mind, bad impressions vanish.
 
-##### Divine and grand reminiscences.
+#### Divine and grand reminiscences.
 
 A holy dip in *Gaṅgā* brings to our memory all that has been said in the holy *Vedas, purāṇas*, history and great literary works based on them, which describe the holy bath, the holy men and the power of *Gaṅgā*. These reminiscences will erase all the sinful *samskāras* in our dispositions and purify our mind, intellect and senses.
 
@@ -333,7 +219,7 @@ We come across such sayings in the stories of *Gaṅgā’*s descent \(to earth\
 
 एतन्मतं समातिष्ठ परमेण समाधिना । भवान्कल्पविकल्पेषु न विमुह्यति कर्हिचित्” ॥ “सर्वभूतमयो विश्वं ससर्जेदं स पूर्ववत्” *Mahāvishṇu* is the changeless supreme *Brāhmaṇ*. “अविकाराय शुद्धाय नित्याय परमात्मने । सदैकरूपरूपाय विष्णवे सर्वजिष्णवे” Mahādeva is *Parameśvara* \(Lord of Lords\). “विष्णुर्यथैकः पुरुषोत्तमः स्मृतः महेश्वरस्त्र्यम्बक एव नापरः” Sage *Jahnu* is a *Brahmīshṭha* who is absorbed in the bliss of meditation in the matted hair of Lord *Mahādeva. Bhagīratha* is a *Rājarshi* who by his highly astonishing penance visualized the Lord of lords, and caused the holy contact of *Gaṅgā* to his manes, to himself, and also to the world. When the flow of sentiments concerned with these great personages makes movement within us, the evil marks viz. the sins, dwelling in our dispositions get undoubtedly washed out.
 
-##### The holy water used by great men.
+#### The holy water used by great men.
 
 From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and *Siddhas* have taken a holy dip in this river. They, who are holy by themselves, in the pretext of making a pilgrimage to *Gaṅgā*, have consumed its water and enhanced its holiness. With the words “May the sins of those who take this water \(with devotion\) vanish,” they have added their divine will power to it. Because of this power also, the sins of people who take it persish,—“भवद्विधा भागवतास्तीर्थभूताः स्वयं विभो । तीर्थीकुर्वन्ति तीर्थानि स्वान्तस्थेन गदाभृता” “प्रायेण तीर्थाभिगमापदेशैः स्वयं हि तीर्थानि पुनन्ति सन्तः” ।
 
@@ -351,7 +237,7 @@ From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and 
 “अद्यप्रभृति भूतानामभिगम्योऽस्मि शुद्धये ।  
 यदध्यासितमर्हद्भिः तद्धि तीर्थं प्रचक्षते ॥\(कुमारसम्भव-सर्ग 6\) 
 
-#### Representative of Principles-a symbol
+### Representative of Principles-a symbol
 
 “The river of *jnāna* and *dharma* itself is the spiritual *Gaṅgā*. This is nothing but the image of God in the form of water.”-So say the *jnānis*. Also, we come across compositions of *jnānis* which express the following sense.-“The *Idā* nādī in our body is *Gaṅgā*. *Piṅgalā* is *Yamunā* and *Sushumnā* is *Sarasvatī*. And the place of confluence of these three viz. the place of meditational immersion between eyebrows \(*bhrūmadhya* is nothing but the *tīrtharājaprayāga*.”
 
@@ -365,7 +251,7 @@ From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and 
 
 We come across statements in scriptures which say that all the accumulated sins will get redeemed by taking a holy bath in the *Gaṅgā*. “सर्वपापहरां शिवाम्.” We also see statements such as “A person bereft of spiritual knowledge, cannot attain salvation by any means, even if he takes a holy bath in the *Gaṅgā*, or performs rituals or offers great gifts. “कुरुते गङ्गासागरगमनं व्रतपरिपालनमथवा दानम् । ज्ञानविहीनः सर्वमतेन मुक्तिं न भजति जन्मशतेन” These two statements appear to be contradictory. But when seen in the background of the above *tattvasamyoga* principles, they concur with each other. Undoubtedly, the evil impressions present in our inner and outer nature get washed out and the divine knowledge in the form of bliss, and *dharma* which is its natural disposition, flow naturally in us, if *Gaṅgātīrtha* is taken with the faith that it is a spring of *jnāntattva* and *dharmatattva*.
 
-#### The map of tattvas
+### The map of tattvas
 
 Śrī Raṅgamahāguru used to expound-“The basin of Gaṅgā and the holy pilgrimages along its banks are indeed the maps drawn in the land of Bhārata by mother nature. This can be made clear by one or two examples.
 
@@ -397,7 +283,7 @@ Thus, *Gaṅgā* is chosen by Mother nature, as an important ‘line’ to draw 
 
 In this article on *Akhshayatṛtīyā*, the discussion on the *Gaṅgā* has occupied a large part. Though this may appear to be an encroachment on the discussion of *Akshayatṛtīyā*, a lengthy analysis of *Gaṅgā* was necessitated because, this is a very important and useful matter in the study of all festivals, where the taking of the holy *Gaṅgātīrtha* is prescribed. Now, we shall attempt answering some important questions regarding *Gaṅgā*, as a remaining part of this discussion.
 
-#### The forms and features of Goddess *Gaṅgā*.
+### The forms and features of Goddess *Gaṅgā*.
 
 *Āgamas*, history and *purāṇas* proclaim Goddess *Gaṅgā* as a river of divine knowledge, a stream of *dharma* and an embodiment of the supreme power of the Almighty. In the *dhyānaśloka* of that river, it is described that *Gaṅgā* has a unique third eye, holds a lotus, a pot and a rosary in her hands, sports *varadamudrā*, and has a crocodile as her vehicle.
 
@@ -406,7 +292,7 @@ In this article on *Akhshayatṛtīyā*, the discussion on the *Gaṅgā* has oc
 
 Are these just fantasies of a poet, or can there be a form of a deity with the above said paraphernalia? This is the first question.
 
-#### Ordinary view
+### Ordinary view
 Answers coming from an ordinary vision
 
 When viewed ordinarily, these appear to be the forms imagined by a poet. “As *Gaṅgā* is in the form of a river, a water filled pot is placed in her hand. The small quantity of water that can be filled in the *kalaśa*, later expands and flows as a great river.
@@ -416,7 +302,7 @@ When viewed ordinarily, these appear to be the forms imagined by a poet. “As *
 		
 “As the lotus is the best of flowers born in water, a beautiful lotus has been placed in the hand of the goddess of holy water. The waves of the river are her hands. The shining fish are the many eyes of the goddess. As she is a great sustainer of the livelihood of people, she is fancied as one who sports the right hand in the blessing posture. As crocodiles abound in the river, a crocodile has been shown as her vehicle.”—Such answers come to the minds of the sentimental people.
 
-#### Exrta-ordinary view
+### Exrta-ordinary view
 Answers that are perceptible to the extraordinary vision
 
 But, when the disposition \(of a person\) is purified and the *tattvas* are pursued with an inner vision, it can be realized that they \(the form of *Gaṅgā* and the parapheralia\) are not mere imageries but sublime forms that are clearly and naturally visible in the divine ground. In the chapter *‘Devatā vigrahatattvādhikaraṇa* of the *Brahmasūtras*, the subject matter viz., whether the gods have forms or not, has been discussed, and it has been established that they do have forms. And, just because of this, one need not believe that \(gods have forms\). It should be clearly understood that they are forms which have been seen, being seen and are going to be seen, directly, by pious persons who undertake a spiritual inward journey in the body called *Brahmapura*. Also, it is not impossible that those principles and their paraphelnalia could be seen manifestly, by the will of God who is the almighty, *Satyakāma* and *Satyaksaṅkalpa*.
@@ -436,7 +322,7 @@ Now, about her vehicle *makara*. It is nothing but *avidyā*, which by its sharp
 
 They acquire the above said second power when they come under the command of a *guru* who has a penetrating wisdom. In the present context, the *makara* which symbolizes the *avidya*, has almost obtained that capacity, as it has come under the rule of the goddess of *Vidya*. Because of the association with that goddess who is an embodiment of *Śuddhasattva* and who looks comely with her pure white complexion, even that crocodile has turned white.
 
-#### Some problems
+### Some problems
 Some problems posed by the stories relating to *Gaṅgā*:
 
 The *Gaṅgā* is a river which takes its birth at the top of the *Himālayas*. Let us believe that its water has the power to cure a number of ailments. But *Itihāsas, purāṇas* and *āgamas* pronounce strange statements about the river. “It is the holy water which was in the *Kamanḍalu* of *Brahma Deva.* When he \(i.e. *Brahma*\) the Lord of *Satyaloka*, washed the lotus feet of *Trivikrama Nārāyaṇa*, *Gaṅgā* took birth \(there\). There-after, she ascended the head of *Śiva* the most auspicious, and later, due to the efforts of the great ascetic *Bhagīratha*, she was made to descend to the earth and the nether worlds. She also happened to flow out of the ears of the sage *Jāhnu*. The gods took her, who was a sibling of *Umā,* to heavens for their work.” We come across such statements about her origin \(*Rāmāyaṇa* 1-53 to 65-*Śrīmadbhāgavata* 8-21\).
@@ -447,7 +333,7 @@ One more question invades us-*Gaṅgā* is the holy water of Lord *Vishṇu’s*
 
 It has to be noted here that the solution for the questions pertaining to topics related to the visualization of *Gaṅgā* within, should be searched only in the *jnānabhūmi* and not in the sphere of intellectual gymnastic. A brief answer will be provided hereby, in the background of the upadeśa of our Gurudeva who has travelled in all the relevant spheres.
 
-##### Brief Answers
+#### Brief Answers
 
 *Śāstras* state that *Gaṅgā* is associated with the Trinity-famously known as *Brahma, Vishṇu* and *Maheshvara*.The philosophical meaning of this is that all these three gods are forms of *jnāna*, and they also bestow *jnāna*. *Gaṅgā* is the nectar of the divine knowledge filled in the vessel of the will of creation of Lord *Brahma* who is thoroughly proficient in the *Vedas*. She is the nectar of the divine knowledge dwelling in the head of Lord *Śiva*, which is the abode of *jnāna* of *Sadāśiva* who is the annihilator, super universal, and the embodiment of divine knowledge. She is the ambrosia of the nectar of the upward going lotus foot of *Urukrama*-*Trivikrama* praised by *Purushasūkta* as “पादोऽस्य विश्वा भूतानि, त्रिपादस्यामृतं दिवि” As all these three are \(different\) modes of the almighty, taking refuge in any one of these results indeed in the obtaining of *jnānāmṛta.*
 
@@ -472,90 +358,3 @@ Thus, the stories about *Gaṅgā* found in our *Āgamas, Itihāsas* and *purā�
 What should be done by those people who are unable to have a holy bath directly in the *Gaṅgā* on the day of *Akshaya Tṛtīya*? They should sentimentally feel that the water they are going to use for bathing is *Gaṅgātīrtha* itself. The *jnānaGaṅgā* will bestow her divine presence in that water and sanctify them.
 
 We would like to conclude after discussing briefly, the time science and the science of other modalities pertaining to *Akshaya Tṛtīyā*, and sing the epilogue for the discussion of the festival. Here *Vijnāna* means knowledge backed by discussion “विविच्य ज्ञानम्” and knowledge distinguished by the inference obtained by the study of cause and effect. “विशिष्टं ज्ञानम्”.
-
-## Modalities \(of worship\)
-
-**Worship of God:** It is a part of *Nityakarma* to worship god mentally and also to worship in detail externally, in keeping with the grandeur of the festival. Sandal paste and barley are specially prescribed for offering to god during worship on *Akshaya Tṛtīya*. Let us now discuss the appropriateness of those two \(prescribed\) for offering.
-
-यः करोति तृतीयायां कृष्णं चन्दनभूषितम् ।  
-> अर्पयेद्धान्यराजं च स यात्यच्युतमन्दिरम् ॥ 
-
-One who decorates Lord *Kṛshṇa* with sandal paste on *Tṛtīyā* and offers him barley the king of cereals, he will attain *Vaikunṭha*. As *akshaya tṛitīyā* falls in the latter part of *Vasanta* which is very close to *Grīshma*, some *śāstra* texts term it as summer season only.
-
-वैशाखज्येष्ठौ ग्रीष्मः \(सुश्रुतसूत्र 6-10\) 
-
-Whatever may be the definition of the month, it is a time of strong currents of wind, and the body gets dry because of increase in temperature in nature due to sun’s heat, and thirst increases. Sandal paste controls all these detriments.
-
-> चन्दनं शीतलं रूक्षं तिक्माह्लादनं लघु ।  
-श्रमदोषविषश्लेष्मतृष्णापित्तास्रदाहनुत्” ॥\(भावप्रकाश-कर्पूरादिवर्ग\) 
-
-\(*Śrīgandha* provides cooling effect, is fragrant, drying, bitter, delightful and light. It relieves tiredness, dryness, toxic effects, phlegm, thirst, *raktapitta* and burning sensation.\)
-
-Sandal paste in one among the important substances offered in the external worship of God. *Pūjakalpas* consider it very auspicious in using it for smearing on idols of God and for the offering of *abhisheka* with it’s water. Though there are many substances with good fragrance, sandal paste is considered best among them and also as the one very dear to Goddess *Śrīdevi* and thus it is called *‘Śrīgandha’*. As it is also delightful, it is called *‘candana’* \(*cadi āhlādane*\)’ In addition to this, there is an element in the *Śrīgandha* which provides inspiration to get divine feelings, when offered in the freshly ground state for worship. When a piece of *Śrīgandha* is being ground on the stone, the pure sandal \(paste\) obtained after the upper layer of dirt is removed, gets ready for offering in the worship of God. In this aspect, *Śrīgandha* reminds us of a Yogic experience, in which, due to the churning or grinding in the form of *dhyāna*, the bad *vāsanās* of the mind surface first in the upper layers \(of the mind\), and after they vanish, as the mind gets near *‘Mānasaspati’* the Almighty who is deep inside, good *vāsanas* appear and get offered to God. That’s why a great *yogi* by name *Śathāri* prays to God with the words, ‘Lord, My mind is the sandal to anoint you. *Pūśum Sāndum Neñjame’*.
-
-The words
-
-> यथा चन्दनागर्वादेः उदकादिसम्बन्धजक्लेदादिजमौपाधिकम्  
-> दौर्गन्ध्यं तत्स्वरूपनिघर्षणेन आच्छाद्यते स्वेन पारमार्थिकेन गन्धेन” 
-
-in the *Īśāvasyabhāshya* of *Śrī Śaṅkarabhagavatpāda* may be remembered here. We also humbly remember here the words of Śrīraṅgamahāguru, who said “we have to grind our lives, like the stump of sandal wood, in the service of the Almighty.”
-
-A question arises in the mind of laymen here. Let us agree with the view of *Āyurveda* that *Śrīgandha* is a great subtance and we should apply it on the body during festivals. The ailments of the body are removed by that and the mind gets delighted. O.K. But why should it be applied on the idol of God who is free from ailments and who is unattached? Why should it \(i.e. the idol\) be given a sandal water bath?’ This question may invade the mind. The answer to this should be gathered with discrimination. God has no need of this offering of sandal \(paste\). The *Upanishads* declare him as *‘Agandha’* and *‘Sarvagandha’* as well.
-
-So, keeping aside the thought that the sandal paste is meant for ‘we people’ who are stained with blemishful dispositions and when offered with a pure mind to God who is *Nityaśuddha* and *Nirañjana* and taken as *prasāda* after that, it becomes most divinely enjoyable because, the *Śrīgandha* here gets associated with *Brahmagandha* also. Ailments of both the body and the mind get removed. The *Bhogadravya* becomes a *yogadravya*. We are transported to pure piousness, because of an upward proclivity. It is for this intent, it should be offered to God.
-
-Also, when sandal paste is applied to the great *Sāligrama* or a *Śivalinga*, it’s inherent quality increases further by their contact. And when one takes it with the sentiment of *prasāda*, he obtains both *śreyas* and *preyas*.
-
-Now about barley. “It is the king among cereals” say the *śāstras*. \(*Yavosi Dhānyarājosi*\). In *Śrīmad Bhāgavatha*, Lord *Kṛshṇa* tells *Uddhava*. “I am barley among grains.” \(*Oshadhīnāmaham Yavah*\).
-
-यवः कषायो मधुरः शीतलो लेखनो मृदुः ।  
-> कण्ठत्वगामयश्लेष्मपित्तमेदः प्रणाशनः ॥  
-> पीनसश्वासकासोरुस्तम्भलोहिततृट्प्रणुत् ॥ 
-
-\(It is astringent, sweet, cool and tender. It is a panacea for throat pain, skin diseases, phlegm, acidity and obesity. It cures diseases like catarrh, breathing problem, cough, pain in the muscles of the thigh, diseases of blood and thirst.\) Thus the *Ayurveda* describes the qualities of barley. Consumption of this in the seasons of *Vasanta* and *Grīshma* proves highly beneficial.
-
-Using such a great substance just to gratify our senses is beastliness. It is right conduct for humans to offer it at least on the day of an auspicious festival to *Hṛshīkeśa* \(the Lord of our *Indriyas*, and *Paśupathi* \(Lord of all living beings\) and take it as *prasāda*.
-
-		
-**2\) *Pitṛ Pūja.*** “The word *Pitṛ* means one’s father and the ancestors in the family. One should serve them as long as they are alive. This itself is *pitṛpūja* or *pitṛyajna*. Other than this, performing *śrāddha* after death and offering of *tarpaṇa* etc are nothing but blind belief.”—some people say. It is better to treat this topic in a separate chapter called *Pitṛyajna.* For the time being, we wish to state that the *pitṛs* are a class of deities. *Vasu*, *Rudra*, *Āditya*, *Kavyavāhana*, *Agnishvātta* are some of the other names of *pitṛs*. Just as *Brahma* and other gods are to be worshipped with modalities in a distinct time, they \(the *pitṛs*\) also are to be worshipped in a distinct time with modalities. Those who worship them accordingly, will be duly bestowed with desired things. The word *pitṛ* also denotes the father, grand father and the great grand father. No doubt, they should be served. But, they should not be mistaken for *‘Pitṛdevatās’* in the context of *‘Pitṛyajna’* where that word \(i.e. *Pitṛdevatās*\) is used in the technical sense. This is our humble request.
-
-Persons supposed to offer *tarpaṇa* and *pinḍapradān*a to the *pitṛdevatās* on the day of *Akshaya Tṛtīyā*, will be graced by them.
-
-**3\) *Dāna:*** *Śāstras* state that gifts are to be made after worship of gods and *pitṛ devatās*. This concept of *dāna* also requires a detailed discussion in a separate chapter. This has been alluded to in the introductory section also. For the time being a few important points may be remembered in brief.
-
-The term *dāna* referred to here is not one of the four *upāyas* \(means of success\) namely *sāma, dāna, bheda* and *danḍa* in the path of the work-a-day world. It is an humble gift conforming to the *śāstras*, made either with the pure thought of making an offering to God or with a wish for the accomplishment of desires. Lord \(*Kṛshṇa*\) proclaims this as *‘Pāvana’* like *yajna* and *tapas*.
-
-> यज्ञो दानं तपश्यैव पावनानि मनीषिणाम् 
-
-*Śrīmadbhāgavata* lauds this as a means of *dravyaśuddhi*. *Srutis* also praise the glory of this—“शुद्ध्यन्ति दानैः सन्तुष्ट्या द्रव्याणि” “यज्ञेन दानेन तपसा अनाशकेन” “तस्माद्दानं परमं वदन्ति” *Śāstras* state “Those who do not gift in the form of *dāna*, but enjoy pleasures for themselves will meet with misfortunes. The one who gives-away, benefits greatly.”
-
-Here a question arises in the minds of laymen-“True, the person who receives the gifts is benefited. But the donor who parts with the gift, obviously stands as the loser. No gain is seen on his part, isn’t it?” We would like to briefly answer this in the words of *jnānis*. They say-“If a person gives-away with either hypocrisy or insolence, or makes a gift not conforming to regulations of the *śāstras*, or in the wrong place or time, or to a wrong person, such a gift does not fetch any good result. But if done in the proper place and time to a proper person, it does fetch great rewards. Such a gift takes the form of the highly valuable *‘puṇya’*, and goes on increasing in the mind-bank of a person, and in the opportune time, yields results thousand fold to the donor.” This is our concise answer. The matter of *puṇya* and *pāpa* has been already explained previously, in the discussion on the topic of *Gaṅgāsnāna*.
-
-The substance offered as a gift should be good and pleasing. The *Kaṭhopanishad* decries an arrogant person who gave a gift of old and non-milch cows which could not even eat fodder or drink water. \(*Katha*-Chap 1\). People void of judgement have created niggardly words such as coconuts of *dāna*, ghee of *homa* etc. This is indeed undoubtedly reprehensible.
-
-Places such as a holy place of pilgrimage, a temple, and a *yajnabhūmi* are some of the best places for giving gifts. Times such as the time of eclipses and nodal times like *saṅkrāntis* are the best times for giving gifts. A *Brahmajnāni*, a *śrotriya*, a man with a large family, a poor person, a weak person, a person in danger etc., are all the most deserving ones for gifts, in keeping with propriety. In this way making right gifts at the suitable time, place, and to the deserving ones with discrimination, brings in amazingly huge rewards.
-
-*Akshaya Tṛtīyā* is also one such excellent timefor making gifts. The special things that are prescribed for gifting on that day are barley powder, fried barley, Bengalgram, curd rice, water and a *pūrṇakumbha*. Among these we have already noted the greatness of barley. Likewise the dry fried powder of barley is also excellent.
-
-> यवजाः सक्तवः शीताः दीपना लघवः सराः ।  
-> कफपित्तहरा रूक्षा लेखनाश्च प्रकीर्तिताः ॥ 
-
-> ते पीता बलदा हृष्या बृंहणा मेदनास्तथा ।  
-> तर्पणा मधुरा रूक्षाः परिणामे बलावहाः ॥ 
-
-> कफपित्तश्रमक्षुत्तृट्व्रणनेत्रामयापहाः ।  
-> प्रशस्ता घर्मदाहाध्वव्यायामार्तशरीरिणाम्”\(भावप्रकाश-कर्पूरादिवर्ग\) 
-
-The dry fried powder of barley causes a cooling effect, improves digestion, is light, clears wastes from the body, removes phleghm and *pitta,* and is dry. When consumed, it provides strength, happiness, increase in virility and fat. Causes satisfaction, sweetness, and results in the increase of stamina. It removes *Kaphapitta*, exhaustion, hunger, thirst and heals wounds, and is curative of eye diseases. The science of medicine praises its quality as one which is excellent for people who are worn out with the thirst of summer and travel. Gifting of such an excellent substance in the hot summer yields a great reward and so there is no need to explain the propriety of that time \(for gifting\). It is very clear that gifting of curd rice and water in summer, is also most proper. The merit of bengalgram has been already described in the discussion of *Hanumajjayanti*.
-
-A little elaboration needs to be provided pertaining to the gift of *pūrnakumbha*. Gifting of cold water and a vessel filled with it in summer, becomes highly useful to all. Even common sense tells that highly useful things when gifted result in great *puṇya*. But in the vision of *jnānis*, this *pūrṇakumbha* is one which is filled with the riches of divine wealth also. It is suggestive of the supreme entity who is complete and an embodiment of nine *rasas*, as is evident from the words of the *śṛutis*.
-
-“ॐ पूर्णमदः पूर्णमिदं पूर्णात्पूर्णमुदच्यते । पूर्णस्य पूर्णमादाय पूर्णमेवावशिष्यते”
-
-It is also an image of the supreme *yogi* who is completely immersed in HIM. The silence of the *Kumbha* which is filled with water, is also symbolic of the great quietness of a *Yogi* in *Samādhi* who is a *Rasapūrṇa*. It also reminds us of the stillness of the *Kumbhakayoga* which is a form of complete arrest of the *praṇa* and *Apāṇa*. The shape of the *kumbha* being narrow at the bottom, wide in the center and again narrow at the top, represents the cosmos that is subject to creation, maintenance and annihilation of the universe, and the principle of *Trimūrti* carried out by God. We can see this meaning in the *ślokas* of the *mantras* recited during *Kalaśapūja*.
-
-Not that the *Purṇakumbha* has only this wealth of meaning in the eyes of the *jnānis*; even the sight or touch of such a pot can remove sufferings and can cause bliss. Worshipping of such a *pūrṇakumbha* as per modalities in the nodal time of *Akshaya Tṛtīyā,* and gifting it to the deserving person during worship, yields inexhaustible results undoubtedly.
-
-**4\) One time fasting:**We shall discuss this topic while deliberating on the observance of *Prathamaikādaśī*. Some people may object—* “Akshaya Tṛtīyā* is not a big festival. Ours is a poor country. We cannot afford to celebrate it.” They should understand that the benefit of celebrating of the festival accrues to them, even if they take up meditation and worship of god in the available time, if they cannot afford to celebrate the festival. Thus, if the *Akshaya Tṛtīyā* festival is celebrated in keeping with the science of time, materials and modalities pertaining to that day, imperishable results will be obtained in the true sense. When even the intellectual science pertaining to this can bestow brilliance and tranquility in us, what doubt can be there in \(the truth\) that it yields imperishable benefits when it is brought into practice? Many salutations to the glory of the *jnāna* and *vijnāna* of the *guruparamātman* who resides in the *guha.* Only because of that,\(glory\), the benefit of the above said *jnānavijnāna* has been obtained by us.
-
-
