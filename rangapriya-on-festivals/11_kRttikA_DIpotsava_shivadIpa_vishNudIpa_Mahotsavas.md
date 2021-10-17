@@ -1,5 +1,5 @@
 +++
-title = "11 Kṛttikā dīpotsava \\(Śivadīpa Viśṇudīpa ṃahotsavas\\)"
+title = "11 Kṛttikā dīpotsava"
 short_title = "11 Kṛttikā ḍīpotsava"
 
 +++
