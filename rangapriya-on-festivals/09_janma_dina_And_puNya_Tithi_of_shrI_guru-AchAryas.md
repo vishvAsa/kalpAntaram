@@ -1,5 +1,5 @@
 +++
-title = "09 janma dina and phuṇya ṭithi"
+title = "09 janma dina and puṇya ṭithi"
 
 +++
 janma dina ānd phuṇya ṭithi of ŚrĪ Guru-Ācāryas
