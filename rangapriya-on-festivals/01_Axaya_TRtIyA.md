@@ -11,7 +11,7 @@ Many *vratas* coming in the month of *Vaiśākha* such as *Vishuvatīparva*, *M�
 
 There is a reference to this *parva* in the *Bhavishya Purāṇa* where Lord *ŚrīKṛshṇa* himself has described the extraordinary greatness of this *Vrata* thus:-
 
-बहुनात्र किमुक्तेन किं बह्वक्षरमालया ।  
+> बहुनात्र किमुक्तेन किं बह्वक्षरमालया ।  
 > वैशाखस्य सितामेकां तृतीयामक्षयां शृणु” ॥ 
 
 \(Of what avail is stating with plentiful words? Just listen to the topic of the *Parva* of *Akshaya Tṛtīyā* coming in the month *vaiśākha*.\) This statement proclaims the superiority of this *parva*. This day is considered as one of the most commendable days for taking bath in the *Gaṅgā* and to worship Lord *ŚrīKṛshṇa* with *dhūpa*, *dīpa*,* Pushpa* and *Candana*. *ŚrīKṛshṇa*, the God of all gods refers to *Badari* as “My *Āśrama*” and narrates the great benefits one gets by going on a pilgrimage to *Badarī*.
@@ -98,7 +98,24 @@ The main reason for laying down that the *tṛtīyā tithi* should extend till n
 
 \(We shall explain how the \(conjunction of the\) above said day and star \(*Rohiṇī*\) match well for the worship of *ŚrīKṛshṇa*, in the chapter of *ŚrīKṛshṇa Jayantī.*\)
 
-### Gaṅgā Snāna
+### Application to the festival
+
+*Śāstras* have prescribed the third day of the *Śuklapaksha* of *Vaiśākha* which happens to be the latter half of the spring season for this festival. It should be noted that all the limbs of the above said time, happen to be highly favourable for the observance of this festival.
+
+The distinction of *Vasanta* renowned as the king of seasons, has been explained in the discussion on *Ugādi*. Pertaining to this festival \(i.e. *Akshaya Tṛtīyā*\) it should be specially noted that grains such as barley, wheat etc., which are necessary for the worship of God and also for the offerings, arrive at homes in a ready-to-use state, in this season.
+
+It is not certain that all those grains in the ripened state arrive at homes in *caitra,* the first month of *Vasanta*. But by *Vaiśākha* they will have surely arrived at homes. As *Vishuvat parva* also occurs in this month, it is a month which is best both for the worship of gods and *pitṛs*.
+
+*Śāstras* say that the entire six months of *Uttarāyaṇa* is the day time for *devas* and the *śuklapaksha* especially is time of their delight and nourishment. In addition to this, if festivals like *Sankramaṇa* and *AkshyaTṛtīyā* also occur, they will be dear to *pitṛs* also. The time that is dear to both of them \(i.e. gods and *pitṛs*\) is the time when the centers connected with them in the temple of the human body blossom. And it is the time when nature gets specially propitious and takes those who worship at that time to the grace of gods easily and swifly. This need not be believed just because a statement is made to that effect. Those who honestly undertake that worship can experience it at the distinct time. The *Tṛtīyā* of this festival is also known by the appropriate name *“Jayā”*. Particularly the *Tṛtīyā of śuklapaksha* is still more auspicious.
+
+> नन्दा भद्रा जया रिक्ता पूर्णाः स्युस्तिथयः पुनः ।  
+> पर्यायत्वेन विज्ञेया नेष्टमध्येष्टदा सिते ॥
+
+
+And if the *Tṛtīyā* which is associated with the all auspicious *Gauri,* and the *caturthī* associated with *vighnādhipa Gaṇeśa* come together, it becomes a festival of great accomplishments.
+
+
+## Gaṅgā Snāna
 **d\) *Gaṅgā Snāna***
 
 ***Vidhi Vijnāna*\(Modalities\):** While discussing the rules of celebrating *Akshayatṛtīyā*, we have stated that a dip in the holy *Gaṅgā* is most auspicious. According to *Vagbhata*, even the \(regular\) bath taken in clean water on any day, is \(highly\) beneficial.
@@ -455,22 +472,6 @@ Thus, the stories about *Gaṅgā* found in our *Āgamas, Itihāsas* and *purā�
 What should be done by those people who are unable to have a holy bath directly in the *Gaṅgā* on the day of *Akshaya Tṛtīya*? They should sentimentally feel that the water they are going to use for bathing is *Gaṅgātīrtha* itself. The *jnānaGaṅgā* will bestow her divine presence in that water and sanctify them.
 
 We would like to conclude after discussing briefly, the time science and the science of other modalities pertaining to *Akshaya Tṛtīyā*, and sing the epilogue for the discussion of the festival. Here *Vijnāna* means knowledge backed by discussion “विविच्य ज्ञानम्” and knowledge distinguished by the inference obtained by the study of cause and effect. “विशिष्टं ज्ञानम्”.
-
-## The Science of Time
-
-*Śāstras* have prescribed the third day of the *Śuklapaksha* of *Vaiśākha* which happens to be the latter half of the spring season for this festival. It should be noted that all the limbs of the above said time, happen to be highly favourable for the observance of this festival.
-
-The distinction of *Vasanta* renowned as the king of seasons, has been explained in the discussion on *Ugādi*. Pertaining to this festival \(i.e. *Akshaya Tṛtīyā*\) it should be specially noted that grains such as barley, wheat etc., which are necessary for the worship of God and also for the offerings, arrive at homes in a ready-to-use state, in this season.
-
-It is not certain that all those grains in the ripened state arrive at homes in *caitra,* the first month of *Vasanta*. But by *Vaiśākha* they will have surely arrived at homes. As *Vishuvat parva* also occurs in this month, it is a month which is best both for the worship of gods and *pitṛs*.
-
-*Śāstras* say that the entire six months of *Uttarāyaṇa* is the day time for *devas* and the *śuklapaksha* especially is time of their delight and nourishment. In addition to this, if festivals like *Sankramaṇa* and *AkshyaTṛtīyā* also occur, they will be dear to *pitṛs* also. The time that is dear to both of them \(i.e. gods and *pitṛs*\) is the time when the centers connected with them in the temple of the human body blossom. And it is the time when nature gets specially propitious and takes those who worship at that time to the grace of gods easily and swifly. This need not be believed just because a statement is made to that effect. Those who honestly undertake that worship can experience it at the distinct time. The *Tṛtīyā* of this festival is also known by the appropriate name *“Jayā”*. Particularly the *Tṛtīyā of śuklapaksha* is still more auspicious.
-
-> नन्दा भद्रा जया रिक्ता पूर्णाः स्युस्तिथयः पुनः ।  
-> पर्यायत्वेन विज्ञेया नेष्टमध्येष्टदा सिते ॥ 
-
-		
-And if the *Tṛtīyā* which is associated with the all auspicious *Gauri,* and the *caturthī* associated with *vighnādhipa Gaṇeśa* come together, it becomes a festival of great accomplishments.
 
 ## Modalities \(of worship\)
 
