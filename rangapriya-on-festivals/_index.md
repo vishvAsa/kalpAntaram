@@ -1,6 +1,5 @@
 +++
-title = "+raṅgapriya on festivals"
-unicode_script = "devanagari"
+title = "+shrī-raṅgapriya on festivals"
 
 +++
 
