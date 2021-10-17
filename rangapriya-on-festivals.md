@@ -426,14 +426,16 @@ It is very auspicious to apply sandal paste on the idol of Lord *Kṛshṇa* dur
 
 The *ŚrīKṛshṇamantra* should be chanted. *Tarpaṇa* should be performed for the *pitṛs* and *Pinḍapradāna* should be done. After that, gifts of wheat, barley, roasted barley powder, Bengal gram, many varieties of cooked rice, especially curd rice, a pot filled with water and other articles useful for the summer season, should be made to the suitable persons. And the gift of cash should also be made along with other gifts. Offering of gold is very auspicious. The rule of *Ekabhukta* \(i.e. eating only once\) should be observed on that day.
 
-## The Science of Time:
+### The Science of Time
 
 The *Parva* is celebrated on the *śukla tṛtīyā* of *Vaiśākha* which comes only in the *vasantaṛtu*. We have already described in the chapters of *Rāmanavamī* and *Ugādi*, that *Vasanta* among seasons, and *śuklapaksha,* are most commendable for the worship of god, and for rituals relating to gods. Now let us discuss the *māsa*, *tithi* and *nakshatra* of the *parva*.
 
+#### Māsa
 **A\) *Māsa:*** In the celebration of this festival, barley is prescribed as the main substance for *Havana*, *pūja* and *dāna*. Gifting wheat, Bengalgram and roasted barley powder are also mentioned as the most suitable ones for *dāna*. In our country which is predominantly agricultural, it is only in the month of *vaiśākha* all these \(grains\) become readily available, both for consumption and for sacrificial and religious purposes. Thus the science in \(mentioning\) *Vaiśākha* as the month may be noticed, when all the specific materials required for the ritual of the *parva* are available in plenty.
 
 Further, *Meshasaṅkramaṇa*, the most auspicious time of *Vishuvat* comes in this month only. We have already discussed and explained the importance of this *puṇyakāla*, in the chapter on *Ugādi*. This *saṅkramaṇa* and the time proximate to it, are the most suitable times for worshipping the *pitṛs*. Therefore it has to be noted here that the month of *vaiśākha* is convenient for the observance of *Akshaya Tṛtīyā*, which is best for the worship of both *devas* and *pitṛs*. Though the advantage of the spring season is available in *caitra* the month previous to this, there is no guarantee that grains arrive at homes in the ready-to-use form. And also, the *Vishusaṅkramaṇa* does not occur in that month. It \(i.e. *Caitra*\) is considered as a *Kharamāsa* because of the happening of *Mīnasaṅkramaṇa* in that month.
 
+#### Tithi
 **b\) *Tithi***: The *tithi* of this *parva*, viz. *tṛtīyā* is called *‘Jayātithi’*. And that too, the *Jayātithi* of *Śukla Paksha* is very auspicious.
 
 		
@@ -451,6 +453,7 @@ The union of these two *tithis* which is dear to these gods \(i.e. Goddess *Gaur
 
 The main reason for laying down that the *tṛtīyā tithi* should extend till noon is because *śuklapaksha* is dear to gods. As it is the domain of the gods, they desire the forenoon only for their worship. Also, in the duration of the day, the forenoon is dear to gods and the afternoon to the *pitṛs*. If any worship is offered in the afternoon of a *śuklapaksha,* it enters the sway of the *pitṛs* typically. So the *śāstras* stipulate only such a *tithi* which has a forenoon pervasion, and as the bright half of a month belongs to the gods, it is commended for worships and rituals.
 
+#### Vāra and Nakshatra
 **C. *Vāra and Nakshatra***. *Yogis* says that if on that day, there is a conjunction of *Rohiṇī* with either Monday or Wednesday, it is a \(rare\) *Yoga* which is a result of imperishable good deeds. This is because, those two days and *Rohiṇī* are very auspicious days for the worship of Lord *Kṛshṇa*. So, on *Akshaya Tṛtīyā*, it is only *ŚrīKṛshṇa* who is to be specially worshipped after the worship of the *ishṭadevatā* isn’t it?
 
 > यः करोति तृतीयायां कृष्णं चन्दनलेपितम् ।  
@@ -458,6 +461,7 @@ The main reason for laying down that the *tṛtīyā tithi* should extend till n
 
 \(We shall explain how the \(conjunction of the\) above said day and star \(*Rohiṇī*\) match well for the worship of *ŚrīKṛshṇa*, in the chapter of *ŚrīKṛshṇa Jayantī.*\)
 
+#### Gaṅgā Snāna
 **d\) *Gaṅgā Snāna***
 
 ***Vidhi Vijnāna*\(Modalities\):** While discussing the rules of celebrating *Akshayatṛtīyā*, we have stated that a dip in the holy *Gaṅgā* is most auspicious. According to *Vagbhata*, even the \(regular\) bath taken in clean water on any day, is \(highly\) beneficial.
@@ -470,7 +474,8 @@ A bath stimulates *agni* in the stomach, increases the virility in the body, pro
 		
 Taking bath in clean water removes bodily dirt, sloth and fatigue and this is commonly experienced by all. But ordinary knowledge does not help in understanding how it can remove sins and bestow *puṇya*. Unless this is understood scientifically, the importance of having *Gaṅgāsnāna* on *akshyatṛtīyā* as prescribed by the *śāstras* cannot be known. Therefore we are taking this up for discussion. As a backdrop to this, we would like to give the commentary \(as commanded\) by Śrī Raṅgamahāguru pertaining to this.
 
-## A background for the introduction to Puṇya and Pāpa.
+##### Puṇya and Pāpa
+A background for the introduction to Puṇya and Pāpa.
 
 “What do puṇya and pāpa mean? Generally no one ponders about that. The words—*‘Puṇya* is accrued”, “*Pāpa* has perished”—uttered by people casually, sometime sound as though they have better knowledge than those who have understood them clearly. But, are they visible to the naked eyes like the coming and going of, say a cow or a calf? Then what are they? A solid? Liquid? Gas? What is their form? Where are they located? How long do they exist? They are not meant for animals right? If they are applicable only to human beings, where do they remain and how long? Don’t they get reduced to ashes along with the person who has earned them, after he dies? Such questions naturally arise. They can be comprehended only when they are seen through the discriminating eyes of jnānis. Merit and sin are a kind of distinctive marks \(impressions\) recorded on the gramophone plate of the mind. They are also called *Samskāras* and *Vāsanās*. The impressions causing happiness are called *Puṇya* and the ones that cause misery are called *Pāpa*. Both these are marks imprinted on the mind. It is almost impossible to erase these inner impressions. They do not perish even when the soul leaves the body. As evident from the words “मनष्षष्ठानीन्द्रियाणि प्रकृतिस्थानि कर्षति”, the mind also goes with him. All the old records of impressions will be present in the mind. They stay with the person as long as the relationship between the *jīva* and the mind exists. These marks do not touch the person who crosses the wheel of mind itself and flies to the place of Brahman. In all other persons, the impressions of *puṇya* bring happiness and the impressions of pāpa bring misery, and this phenomenon exists for ever. Deeds performed to imprint the marks of merit lead to happiness, and the ones contrary to that, lead to misery.”
 
@@ -486,7 +491,8 @@ By minding this principle as explained below, one can easily understand how a ho
 8. With the sacred contact of the lotus feet of the *jnānis*, the *tīrthas* are rendered even more great and powerful, to remove sins. “तीर्थीकुर्वन्ति तीर्थानि तीर्थभूता हि साधवः” \(*Jnānis* make the *tīrthas* holier. They themselves are *tīrthas,* says *Bhagavān Vyāsa*\). A narrative, popular in the society of saints may be remembered here. A *sādhaka* who was standing near a hermitage of a *Brahmarshi* happened to see some women in dreadful form entering the hermitage. After sometime, he saw some women divinely beautiful women coming out of the *Āśrama*. Stopping them he asked who they are. They said, “We are *Gaṅgā* and other rivers deities. People taking bath in our waters become pure dropping all their sins on us. We became ugly like female demons on taking their sins. But on entering the hermitage of the *Brahmarshi* and staying there with devotion for a while in their presence, we got back our natural divine form.” Then the *sādhaka* asked them—“Then did the *Brahmarshi* get a dreadful from by taking your sins?” “No” they said. “The sins do not touch them at all. They were reduced to ashes by the very sight of *Brahmarshis*.” The *jnānis* untouched by either *puṇya* or *pāpa*, purify them \(the waters\) and make them *tīrthas*, and therefore, those who take bath in the *tīrthas* shed their sins and become pure. 
 9. On some occasions, the *brahmajnānis* who visit the *tīrthas*, happen to touch the waters with their divine minds, sights and bodies, and pass into them a divine energy stream with the wish “Let these *tīrthas* acquire the power of ridding bad *samskāras* of people who bathe, for a specific span of time. Let them obtain the capacity to fill good *samskāras* in such people. Let them acquire the capacity to carry them \(the devotees\) to the *Brāhmi* state which is free from *puṇyas* and *papas.*” Those who take bath in such sacred *tīrthas* which are filled with the divine willpower, reap the above said benefits accordingly. 
 
-## The eminence of the holy waters of Gaṅgā
+##### Gaṅgā eminence
+The eminence of the holy waters of Gaṅgā
 
 The word *Gaṅgā* means something which gives *mukti* \(‘सद्गतिं गमयतीति गङ्गा’\) The word applies to a goddess and also to the river presided over by that goddess. *Śāstras* and traditions openly praise the holy bath in the sacred river in similitude with the \(*dhyāna*\) of that goddess. They profusely praise not just the holy bath in the river and drinking of its sacred water, but also the very sight and the remembrance of it. \(A few of\) such extolling statements are collected as under.
 
@@ -545,7 +551,8 @@ Even taking a bath directly in the *Gaṅgā* causes *Puṇya*.
 > गङ्गाजललवकणिका पीता ।\(भजगोविन्द स्तोत्र\)  
 > गङ्गातीरमनुत्तमं हि सकलम् ॥\(मणिकर्णिकाष्टक\) 
 
-## 2. The power of Gaṅgā to cure ailments and to bestow health.
+##### Gaṅgā - ailments and health 
+2. The power of Gaṅgā to cure ailments and to bestow health.
 
 Many Ayurvedic texts tell us that, besides absolving people of sins, and blessing with *Sadgati*, the water of *Gaṅgā* is very tasty, removes a number of diseases, and helps to acquire good health.
 
@@ -566,13 +573,15 @@ A work by name *Bhojanakutūhala* showers rains of praises thus:-*“Gaṅgatīr
 > शीतं स्वादु स्वच्छमत्यन्तरुच्यं पथ्यं पाक्यं पाचनं पापहारि ।  
 > तृष्णामोहध्वंसनं दीपनं च प्रज्ञां धत्ते वारि भागीरथीजम् ॥ 
 
-## Views on the quality \(properties\) of Gaṅgā by people belonging to other religions, and experiments by modern physicians and their opinions.
+##### Modern views 
+Views on the quality \(properties\) of Gaṅgā by people belonging to other religions, and experiments by modern physicians and their opinions.
 
 History tells us that the healthy qualities of the waters of *Gaṅgā* have attracted not just the Hindus, but the followers of other religions also who were cognizant of its use and were dxiligently consuming it. A travelogue writer by name Iben Batuta tells that Mohammed Bin Tughlak used to get *Gaṅgā* water from Doulathabād regularly. And it would take forty days to reach him. \(Gibb’s Translation, P. 183\)
 
 A book pertaining to Akbar by name Ayine Akbari tells that Akbar considered *Gaṅgatīrtha* on par with nectar. He was drinking it both at home and during travel. He had appointed trusted officers to get him sealed *Gaṅgātīrtha*. Though water from river *Yamunā* or rainwater was used for cooking purposes, a small quantity of water from *Gaṅgā* was being added to that. Not just Akbar, even the bigot Aurangazeb used to love *Gaṅgātīrtha*. A French physician of those times by name Vernier tells us-“*Gaṅgātīrtha* is being kept along with other food stuff and drinks of the king in Delhi and Agra. It would be there even in his travels. Camels used to carry it.” “Even Muslim Nawabs stupefied by its healthy properties, were consuming it.”—statements like this can also be seen \(Narrative P. 248\). Gulām Hussain in his book on the history of Bengal writes “No water can be equal to the water of the *Gaṅgā* in sweetness, taste and the quality of lightness. It does not deteriorate even after a long time.” Taivernier says “It would cost two to three thousand rupees to get *Gaṅgātīrtha* from a long distance and to distribute during marriages.” We come across a statement which says that after the Bhūtān War, the Tūshilāmas of Tibet bought land on the shores of *Gaṅgā* and built a monastery there. Modern physicians and scholars have conclusively stated after conducting experiments that the water of *Gaṅgā* is curative of ailments and a sure cure for skin diseases and infectious diseases, and it does not get stale like the water of other rivers. One Dr. Nelson has said “*Gaṅgātīrtha* taken from Calcutta and carried to London by ship would be thoroughly pure. But water from Thames would turn stale before it could reach Bombay. When I landed in Agra, I came to know of the astonishing fact that the water of *Gaṅgā* had the property of destroying bacteria.” After conducting research on *Gaṅgātīrtha* Dr. Han Cran declared—“We drew water from the *Gaṅgā* at *Kāsi* from a spot where a lot of dirt was getting collected. It contained cholera spreading germs in lakhs. When we examined the water after six hours, we found that all the cholera germs had died. The same was the result in the water collected at a spot where a dead body was floating. When the cholera causing germs were let into pure water, they found that they had multiplied in large numbers. And when placed in *Gaṅgātīrtha* they became dead within six hours. Therefore we began to use the *Gaṅgātīrtha* now and then for curing diseases.” *Pandit Ṭhakūrdatta Sharma*, a researcher of the periodical *“Amṛtadhāra”* says that experiments have confirmed that *Gaṅgātīrtha* kills cholera germs. One *Kaviraj Pratāp Simha* has cured a number of cholera patients in his clinic treating them with the water of *Gaṅgā*. To the question why cholera does not figure in the list of diseases in Bhutan, he says”—They drink only the water of *Gaṅgā*. They bathe the cholera afflicted patient in the *Gaṅgā* and cool him down. They make him drink *Gaṅgātīrtha* frequently and cure him of the diseases the doctors there say. “Water of the *Gaṅgotri* cures diabetes” “By using *Gaṅgātīrtha* in injections, many diseases have been cured.” the doctors say.
 
-## A Discussion on the praise of the qualities of *Gaṅgatīrtha*.
+##### Gaṅgatīrtha qualities 
+A Discussion on the praise of the qualities of *Gaṅgatīrtha*.
 
 **a\) A discussion on its capacity to cure diseases**
 
@@ -587,7 +596,8 @@ Now, argument that the water of *Gaṅgā* does not cure diseases, but causes di
 
 The reasons for these are as follows. Dangerous chemicals and effluents from many industries join *Gaṅga* river in plenty exereting urine and faces on its banks is common. Animals are washed in those waters. During festivals, thousands of people take bath at the same place, and the dirt of their bodies collects in the river. In pilgrimage centers like *Kāśī*, half burnt corpses are thrown in abundance into the river, spoiling the water further. Therefore river *Gaṅgā* is one of the most polluted rivers of our country. Germs which cause typhoid, cholera, gastroeneteritis, hepatitis and tapeworms in the stomach, spread by consuming \(drinking\) that polluted water.” This is the statement issued by an organization called *Gāndhi Śāntipīṭha*. A research work in 1976 by physicians has reported that the water of river *Gaṅgā* is unfit for consumption. We cannot refute this opinion which is based on medical research. But there is also a statement from physicians which says-“Abundant bacteria in the water was noticed by us. But we also noticed that after six hours all the germs had died.” These are opinions that have come up at different times. We need to find out the quality of water only by scientific examination from time to time. Contextually, it has to be noted that generally all rivers are naturally gifted with the property of purifying their waters.
 
-## The natural capacity of rivers to purify themselves
+###### Self purifying rivers
+The natural capacity of rivers to purify themselves
 
 Generally all rivers naturally purify their water themselves. Scientists explain it in a book \(*Holasu Tumbida namma nadigalu—BSN\)* as follows:-In rivers, bacteria which clean water are also present. There are two types of bacteria namely aerobic and anaerobic. Bacteria belonging to the first type thrive on oxygen. The bacteria of the second type abhor vital air and live without oxygen. Anaerobic bacteria destroy the solid substances at the bottom of the stream, and the one of the other variety destroy the substances on the surface of water. And these bacteria devour even organic matter that are present in filthy water. When they enter the body of the bacteria those organic matters get converted into inorganic matter. They wont decay. They cause no harm. Moreover, some of the single cell bacteria present in the water destroy disease causing germs in the filth. “Aerobic bacteria take away the oxygen dissolved in water which is their food. Is it not harmful?”, one may ask. The answer is, even if oxygen is lost like that, the rivers draw oxygen present in the atmosphere to make up for the loss. And also, the algae in the water produce oxygen by photosynthesis, and supply it to the bacteria.
 
@@ -595,7 +605,7 @@ When the organic matter get reduced in the river water, the aerobes get reduced 
 
 This is the capacity of rivers to purify themselves commonly seen. Since *Gaṅgā* flows across medicinal plants and herbs, its capacity to destroy germs and to purify may be greater. Even then, if the river is dumped with filth all the time beyond a limit, the above purification capability may get weakned.
 
-## Preview of the argument:
+######  Preview of the argument
 
 Simply because river *Gaṅgā* is getting overpolluted and becoming an abode of diseases due to our own thoughtlessness, it does not mean that the statement that *Gaṅgātīrtha* is by itself is disease-resistant and health-promoting is untrue. If unwise persons mix poison with nectar like milk and meet with death, it does not go to falsify the statement that milk by itself is nectar like.
 
@@ -625,7 +635,8 @@ In reality, *Gaṅgā* and other *tīrthas* are present within us. *Jnānis* enj
 
 Thus, drinking of even sentimental *Gaṅgā* \(water\) can help in the curing of diseases. We have noted previously, that not only sentimental devotees but even discriminating scientists, and people with first hand experience have stated that actual *Gaṅgātīrtha* has even more potential in that regard. It is our responsibility to maintain the holy water of *Gaṅgā* in the natural state and use it for the curing of both mental and physical ailments.
 
-## The redemptive power of *Gaṅgā:* An explanation
+######  The redemptive power
+The redemptive power of *Gaṅgā:* An explanation
 
 Let us agree for the moment that clean *Gaṅgātīrtha* when consumed, can cure diseases. But how to believe that it has redemptive power? Doing worship of God and following the path of *dharma* is known to redeem one’s sins. How can it happen just by drinking water from a river? If sins are redeemed just by drinking water, then the fish, crocodiles and other acquatic creatures that always live in water must be more blessed than human beings, isn’t it? This question naturally arises here. The answer for this can be found by recollecting what Śrīraṅgamahāguru had expounded about the meaning of pāpa and puṇya.
 
@@ -637,7 +648,8 @@ One who has *samskāras* of sins may appear healthy outside, but his *dhātus* r
 
 This effect will be there even on ordinary people, at least in small proportions. When this pleasantness of *dhātus* is accomplished completely, then the very realization of *Brahman* occurs as proclaimed by the *Upanishads* in the words “धातुप्रसादत् महिमनमीशम्.” Just as the above said result \(i.e. the pleasantness of *dhātus*\) happens from *tapas* and meditation etc., it also happens in a measure, by drinking the holy *Gaṅgātīrtha*. And that is why it is valued greatly. Thus, as the drinking of the holy *Gaṅgātīrtha* causes attainment of the *brahmī* state, it may be called a destroyer of sins, without any doubt.
 
-## The ways in which the taking of *Gaṅgātīrtha* results in the removal of sins.
+###### Mechanism of sin-removal
+The ways in which the taking of *Gaṅgātīrtha* results in the removal of sins.
 
 A\) Drinking of *Gaṅgātīrtha* causes the removal of ailments and thereby becomes instrumental in the tranquility of the self. Only a healthy person indeed can meditate well says an ayurvedic aphorism.
 
@@ -653,7 +665,7 @@ c\) The blemishes which distort the mind are called sins. How *Gaṅgātīrtha* 
 
 As the Holy *Gaṅgātīrtha* has had the contact of sacred most people, it brings to our mind sacred memories. “Lord *Rudra deva* performed penance in *Rudraprayāg* a on the banks of the holy *Gaṅgā*, regularly drinking its water. *Nara* and *Nārāyaṇa* \(*Arjuna* and Lord *Kṛshṇa*\), did *tapasyā* in the hermitages on the banks of this *Gaṅgā* river consuming this *tīrtha* regularly. They performed fire sacrifices at a place called *Daśāśvamedha* on its banks. The seven *ṛshis* perform rituals in its water Great sages like *Nārada, Vyāsa*, and *Vālmīki* have consumed its holy water.”—When such holy memories come to our mind, bad impressions vanish.
 
-## Divine and grand reminiscences.
+###### Divine and grand reminiscences.
 
 A holy dip in *Gaṅgā* brings to our memory all that has been said in the holy *Vedas, purāṇas*, history and great literary works based on them, which describe the holy bath, the holy men and the power of *Gaṅgā*. These reminiscences will erase all the sinful *samskāras* in our dispositions and purify our mind, intellect and senses.
 
@@ -667,7 +679,7 @@ We come across such sayings in the stories of *Gaṅgā’*s descent \(to earth\
 
 एतन्मतं समातिष्ठ परमेण समाधिना । भवान्कल्पविकल्पेषु न विमुह्यति कर्हिचित्” ॥ “सर्वभूतमयो विश्वं ससर्जेदं स पूर्ववत्” *Mahāvishṇu* is the changeless supreme *Brāhmaṇ*. “अविकाराय शुद्धाय नित्याय परमात्मने । सदैकरूपरूपाय विष्णवे सर्वजिष्णवे” Mahādeva is *Parameśvara* \(Lord of Lords\). “विष्णुर्यथैकः पुरुषोत्तमः स्मृतः महेश्वरस्त्र्यम्बक एव नापरः” Sage *Jahnu* is a *Brahmīshṭha* who is absorbed in the bliss of meditation in the matted hair of Lord *Mahādeva. Bhagīratha* is a *Rājarshi* who by his highly astonishing penance visualized the Lord of lords, and caused the holy contact of *Gaṅgā* to his manes, to himself, and also to the world. When the flow of sentiments concerned with these great personages makes movement within us, the evil marks viz. the sins, dwelling in our dispositions get undoubtedly washed out.
 
-## The holy water used by great men.
+###### The holy water used by great men.
 
 From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and *Siddhas* have taken a holy dip in this river. They, who are holy by themselves, in the pretext of making a pilgrimage to *Gaṅgā*, have consumed its water and enhanced its holiness. With the words “May the sins of those who take this water \(with devotion\) vanish,” they have added their divine will power to it. Because of this power also, the sins of people who take it persish,—“भवद्विधा भागवतास्तीर्थभूताः स्वयं विभो । तीर्थीकुर्वन्ति तीर्थानि स्वान्तस्थेन गदाभृता” “प्रायेण तीर्थाभिगमापदेशैः स्वयं हि तीर्थानि पुनन्ति सन्तः” ।
 
@@ -685,7 +697,7 @@ From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and 
 “अद्यप्रभृति भूतानामभिगम्योऽस्मि शुद्धये ।  
 यदध्यासितमर्हद्भिः तद्धि तीर्थं प्रचक्षते ॥\(कुमारसम्भव-सर्ग 6\) 
 
-## Representative of Principles-a symbol
+##### Representative of Principles-a symbol
 
 “The river of *jnāna* and *dharma* itself is the spiritual *Gaṅgā*. This is nothing but the image of God in the form of water.”-So say the *jnānis*. Also, we come across compositions of *jnānis* which express the following sense.-“The *Idā* nādī in our body is *Gaṅgā*. *Piṅgalā* is *Yamunā* and *Sushumnā* is *Sarasvatī*. And the place of confluence of these three viz. the place of meditational immersion between eyebrows \(*bhrūmadhya* is nothing but the *tīrtharājaprayāga*.”
 
@@ -699,7 +711,7 @@ From times immemorial many *Brahmajnānis*, *Satyakāmas, Satyasaṅkalpas* and 
 
 We come across statements in scriptures which say that all the accumulated sins will get redeemed by taking a holy bath in the *Gaṅgā*. “सर्वपापहरां शिवाम्.” We also see statements such as “A person bereft of spiritual knowledge, cannot attain salvation by any means, even if he takes a holy bath in the *Gaṅgā*, or performs rituals or offers great gifts. “कुरुते गङ्गासागरगमनं व्रतपरिपालनमथवा दानम् । ज्ञानविहीनः सर्वमतेन मुक्तिं न भजति जन्मशतेन” These two statements appear to be contradictory. But when seen in the background of the above *tattvasamyoga* principles, they concur with each other. Undoubtedly, the evil impressions present in our inner and outer nature get washed out and the divine knowledge in the form of bliss, and *dharma* which is its natural disposition, flow naturally in us, if *Gaṅgātīrtha* is taken with the faith that it is a spring of *jnāntattva* and *dharmatattva*.
 
-## The map of tattvas
+##### The map of tattvas
 
 Śrī Raṅgamahāguru used to expound-“The basin of Gaṅgā and the holy pilgrimages along its banks are indeed the maps drawn in the land of Bhārata by mother nature. This can be made clear by one or two examples.
 
@@ -731,7 +743,7 @@ Thus, *Gaṅgā* is chosen by Mother nature, as an important ‘line’ to draw 
 
 In this article on *Akhshayatṛtīyā*, the discussion on the *Gaṅgā* has occupied a large part. Though this may appear to be an encroachment on the discussion of *Akshayatṛtīyā*, a lengthy analysis of *Gaṅgā* was necessitated because, this is a very important and useful matter in the study of all festivals, where the taking of the holy *Gaṅgātīrtha* is prescribed. Now, we shall attempt answering some important questions regarding *Gaṅgā*, as a remaining part of this discussion.
 
-## The forms and features of Goddess *Gaṅgā*.
+##### The forms and features of Goddess *Gaṅgā*.
 
 *Āgamas*, history and *purāṇas* proclaim Goddess *Gaṅgā* as a river of divine knowledge, a stream of *dharma* and an embodiment of the supreme power of the Almighty. In the *dhyānaśloka* of that river, it is described that *Gaṅgā* has a unique third eye, holds a lotus, a pot and a rosary in her hands, sports *varadamudrā*, and has a crocodile as her vehicle.
 
@@ -740,7 +752,8 @@ In this article on *Akhshayatṛtīyā*, the discussion on the *Gaṅgā* has oc
 
 Are these just fantasies of a poet, or can there be a form of a deity with the above said paraphernalia? This is the first question.
 
-## Answers coming from an ordinary vision
+##### Ordinary view
+Answers coming from an ordinary vision
 
 When viewed ordinarily, these appear to be the forms imagined by a poet. “As *Gaṅgā* is in the form of a river, a water filled pot is placed in her hand. The small quantity of water that can be filled in the *kalaśa*, later expands and flows as a great river.
 
@@ -749,7 +762,8 @@ When viewed ordinarily, these appear to be the forms imagined by a poet. “As *
 		
 “As the lotus is the best of flowers born in water, a beautiful lotus has been placed in the hand of the goddess of holy water. The waves of the river are her hands. The shining fish are the many eyes of the goddess. As she is a great sustainer of the livelihood of people, she is fancied as one who sports the right hand in the blessing posture. As crocodiles abound in the river, a crocodile has been shown as her vehicle.”—Such answers come to the minds of the sentimental people.
 
-## Answers that are perceptible to the extraordinary vision
+##### Exrta-ordinary view
+Answers that are perceptible to the extraordinary vision
 
 But, when the disposition \(of a person\) is purified and the *tattvas* are pursued with an inner vision, it can be realized that they \(the form of *Gaṅgā* and the parapheralia\) are not mere imageries but sublime forms that are clearly and naturally visible in the divine ground. In the chapter *‘Devatā vigrahatattvādhikaraṇa* of the *Brahmasūtras*, the subject matter viz., whether the gods have forms or not, has been discussed, and it has been established that they do have forms. And, just because of this, one need not believe that \(gods have forms\). It should be clearly understood that they are forms which have been seen, being seen and are going to be seen, directly, by pious persons who undertake a spiritual inward journey in the body called *Brahmapura*. Also, it is not impossible that those principles and their paraphelnalia could be seen manifestly, by the will of God who is the almighty, *Satyakāma* and *Satyaksaṅkalpa*.
 
@@ -768,7 +782,8 @@ Now, about her vehicle *makara*. It is nothing but *avidyā*, which by its sharp
 
 They acquire the above said second power when they come under the command of a *guru* who has a penetrating wisdom. In the present context, the *makara* which symbolizes the *avidya*, has almost obtained that capacity, as it has come under the rule of the goddess of *Vidya*. Because of the association with that goddess who is an embodiment of *Śuddhasattva* and who looks comely with her pure white complexion, even that crocodile has turned white.
 
-## Some problems posed by the stories relating to *Gaṅgā*:
+##### Some problems
+Some problems posed by the stories relating to *Gaṅgā*:
 
 The *Gaṅgā* is a river which takes its birth at the top of the *Himālayas*. Let us believe that its water has the power to cure a number of ailments. But *Itihāsas, purāṇas* and *āgamas* pronounce strange statements about the river. “It is the holy water which was in the *Kamanḍalu* of *Brahma Deva.* When he \(i.e. *Brahma*\) the Lord of *Satyaloka*, washed the lotus feet of *Trivikrama Nārāyaṇa*, *Gaṅgā* took birth \(there\). There-after, she ascended the head of *Śiva* the most auspicious, and later, due to the efforts of the great ascetic *Bhagīratha*, she was made to descend to the earth and the nether worlds. She also happened to flow out of the ears of the sage *Jāhnu*. The gods took her, who was a sibling of *Umā,* to heavens for their work.” We come across such statements about her origin \(*Rāmāyaṇa* 1-53 to 65-*Śrīmadbhāgavata* 8-21\).
 
@@ -778,7 +793,7 @@ One more question invades us-*Gaṅgā* is the holy water of Lord *Vishṇu’s*
 
 It has to be noted here that the solution for the questions pertaining to topics related to the visualization of *Gaṅgā* within, should be searched only in the *jnānabhūmi* and not in the sphere of intellectual gymnastic. A brief answer will be provided hereby, in the background of the upadeśa of our Gurudeva who has travelled in all the relevant spheres.
 
-## Brief Answers:
+###### Brief Answers
 
 *Śāstras* state that *Gaṅgā* is associated with the Trinity-famously known as *Brahma, Vishṇu* and *Maheshvara*.The philosophical meaning of this is that all these three gods are forms of *jnāna*, and they also bestow *jnāna*. *Gaṅgā* is the nectar of the divine knowledge filled in the vessel of the will of creation of Lord *Brahma* who is thoroughly proficient in the *Vedas*. She is the nectar of the divine knowledge dwelling in the head of Lord *Śiva*, which is the abode of *jnāna* of *Sadāśiva* who is the annihilator, super universal, and the embodiment of divine knowledge. She is the ambrosia of the nectar of the upward going lotus foot of *Urukrama*-*Trivikrama* praised by *Purushasūkta* as “पादोऽस्य विश्वा भूतानि, त्रिपादस्यामृतं दिवि” As all these three are \(different\) modes of the almighty, taking refuge in any one of these results indeed in the obtaining of *jnānāmṛta.*
 
@@ -804,7 +819,7 @@ What should be done by those people who are unable to have a holy bath directly 
 
 We would like to conclude after discussing briefly, the time science and the science of other modalities pertaining to *Akshaya Tṛtīyā*, and sing the epilogue for the discussion of the festival. Here *Vijnāna* means knowledge backed by discussion “विविच्य ज्ञानम्” and knowledge distinguished by the inference obtained by the study of cause and effect. “विशिष्टं ज्ञानम्”.
 
-## The Science of Time:
+### The Science of Time
 
 *Śāstras* have prescribed the third day of the *Śuklapaksha* of *Vaiśākha* which happens to be the latter half of the spring season for this festival. It should be noted that all the limbs of the above said time, happen to be highly favourable for the observance of this festival.
 
@@ -820,7 +835,7 @@ It is not certain that all those grains in the ripened state arrive at homes in 
 		
 And if the *Tṛtīyā* which is associated with the all auspicious *Gauri,* and the *caturthī* associated with *vighnādhipa Gaṇeśa* come together, it becomes a festival of great accomplishments.
 
-## Modalities \(of worship\)
+### Modalities \(of worship\)
 
 **Worship of God:** It is a part of *Nityakarma* to worship god mentally and also to worship in detail externally, in keeping with the grandeur of the festival. Sandal paste and barley are specially prescribed for offering to god during worship on *Akshaya Tṛtīya*. Let us now discuss the appropriateness of those two \(prescribed\) for offering.
 
@@ -907,9 +922,6 @@ Not that the *Purṇakumbha* has only this wealth of meaning in the eyes of the 
 
 
 
-
-
-	 
 ## Anantapadmanābha Vrata  
 \(Anantana Caturdaśī-Anantana Habba\)
 
@@ -947,7 +959,7 @@ The four faced *Brahma* is beaming in the *Padmāsana* posture in the lotus nave
 
 I salute *Padmanābha* the Lord of the highest abode who is resting on *Anantaśeshanāga*, and who is being attended by *SrīKṛshṇa, Kshetrapālaka, Dhvajabali, Bhūtanātha, Śāstā, Yogānṛsimha, Vyāsa, Śiva, Gaṇeśa, ŚrīRāmaśītā Lakshmaṇa, Hanumanta Vishvaksena, Garuḍa, devatās, sages, ŚrīDevi, Bhūdevi* and *Brahmadeva*, *Sanakādisiddhas, Tumburu Nāradas, Saptarshis, Sūrya* and *Candra, Dikpālakas*, and *Jaya Vijayas*. As all these three are *Śeshanāga Anantamūrtis*, who among the three should be meditated upon and worshipped during *Anantana Vrata*? It is the third one i.e. *AnantaPadmanābhamūrti*. \(*Ananta* is also the short form of *AnantaPadmanābhamūrti*\)
 
-## When should this Anantana Vrata be celebrated?
+### When should this Anantana Vrata be celebrated?
 
 This *Vrata* should be observed on the *caturdaśi* of *Bhādrapada śuddha*. This *vrata* should be observed even if *caturdaśī* prevails to the extent of just three *muhūrtas* at sunrise.
 
@@ -970,7 +982,7 @@ The *Bhavishya Purāṇa* says:
 
 “If *caturdaśī* is there at least for a duration of one *muhūrta, Ananta caturdaśī* should be celebrated on that day itself” says a treatise by name *Nirṇayāmṛta*. But, as per the axim “सन्दिग्धेष्वेकवाक्यत्वात्”, it is mandatory to observe *AnantaVrata* on *Caturdasī tithi* if it prevails either at the beginning or at the end of the afternoon. This is the conclusion stated in the treatise *Nirṇayasindhu*.
 
-## ii\) How to celebrate the *Vrata*?
+### How to celebrate the *Vrata*?
 
 *Saṅkalpa* to perform this *vrata* should be done after bath and *ācamana*. And a *saṅkalpa* should be done for performing *YamunāPūja,* which is a part of the *Anantavrata*. \(This *yamunā pūja* should be performed by the side of a river, a lake or a pond or even near a well\)
 
@@ -987,7 +999,7 @@ And, as a part of the *Yamunāpūja*, the worship of \(the following viz\) *Tu�
 
 The worshipped *Kalaśa* which is filled with the water of *Yamunānadī—devī* who is the daughter of the Sun god, and sister of *Yamadharmarāja,* and who is dearest to *Padmanābha ŚrīKṛshṇa*, should be taken home along with *Maṅgalavādyas*. The *tīrtha* in the *Kalaśa* should to be added to the *Pūjākalaśa* of Lord *Ananta* and, on that \(*Kalaśa*\) the *darbha* knot, clothes, coconut and flowers should be arranged decoratively. That *darbha* knot should be in the shape of a seven hooded snake.
 
-## iii\) Worship of *AnantaPadmanābha*
+### Worship of *AnantaPadmanābha*
 
 The number fouteen is a fixed number very dear to *AnantaPadmanābha*. The day of his *pūja* is the fourteenth day of *Śuklapaksha*. The number of knots in the thread in which is he invoked, should be fourteen etc. After invoking Lord *Ananta* in both the *Kalaśas*, the following should be done viz *saṅkalpa, Sarvopacārapūja Kalaśapūja, Praṇapratishṭhā, Dvārapālādiparivārapūjā, Dikpālaka pūjā, aṅga pūjā, pūjā* with leaves and flowers \(even red coloured flowers are best\), invoking *śesha* in fourteen darbha knots, *śeshapūja*, *Pūja* of fourteen *doragranthis*. and āvāhana. After *āvāhana*, these fourteen *granthi devatās* \(deities of knots\) viz., *Vishṇu, agni*, *Sūrya*, *Indra, Brahma, Vāyu, Śiva, Vighneśa, Skanda, Soma, Ākaśa, Varuṇa, Pṛthvi* and *Vasus* should be worshipped. And then *pūjā* should be done with *nāmāvalis* and *Ashṭtottara Śatanāmāvalis* addressing *Ananta*.
 
@@ -1085,7 +1097,7 @@ The person who receives the *dāna* is also *Ananta*, the person who gives it is
 	 
 ## Cāturmāsya
 
-## 1. Importance of *cāturmāsya*
+### 1. Importance of *cāturmāsya*
 
 Though the name *cāturmāsya* is familiar to many of us in the row of *vratas*, there is an impression that it is related to monks and some *Maḍi hengasaru* \(some women in the olden days who were very orthodox\) and people belonging to the other *Āśramas* need not consider it. This is a result of misunderstanding. From the view point of *śāstras* this is a *parva* that should be observed by everyone. This does not belong either to the category called *naimittika karma*, a rite which should be performed because of a *nimitta;* Or a *kāmya karma* a rite which is performed only for the fulfillment of a specific desire, which need not be observed otherwise. It happens to be a *nitya karma* only, as it belongs to a category in which certain rituals are mandatory at some distinct times, and the blemish of sinfulness may occur if they are not observed. There is no doubt that it must be specially observed by *sanyāsis*. But the *śāstras* say that is the duty of all i.e. people belonging to all *Āśramas,* to observe it to the extent possible.
 
@@ -1097,11 +1109,11 @@ The *Mahābhārata* proclaims that if this *vrata* is not observed, one will be 
 > वार्षिकांश्चतुरो मासान् वाहयेत् केनचिन्नरः ।   
 > व्रतेन नोचेदाप्नोति किल्बिषं वत्सरोद्भवम् ॥ 
 
-## 2. Names and their etymology:
+### 2. Names and their etymology:
 
 As this *vrata* comes regularly for a period four months every year. it is called *‘cāturmāsya’*. \(*“Caturshu māseshu bhavah”*\). As all the four months of observance are the months of rainy season, it is called *“Varshartu Vrata”* also.
 
-## 3. Description of the time of observance:
+### 3. Description of the time of observance:
 
 This *vrata* should be begun on the day of *ekādaśī* or *dvādaśī* or *pūrṇimā* of the bright half of *Āshādha māsa*. It must be begun either on the days of *karkāṭaka saṅkramaṇa* or, in case of difficulties, on the day of *Tulā saṅkramaṇa*. Whatever may be the day it is begun, it should be concluded on the day of *utthāna dvādaśī*.
 
@@ -1126,9 +1138,10 @@ As *Cāturmāsya* is an exceptional observance of *Devapūjā Karmas*, should it
 > खण्डत्वं चिन्तयेदादौ चातुर्मास्यविधौ नरः ॥ 
 
 After the *vrata* is begun it must be continued even if one is touched by *Aśauca* in the middle. So this is an important *vrata* that must be observed without taking into consideration any prohibition mentioned for certain times.
+### 4. Few objections
+4. A few objections pertaining to the observance of this *vrata* and answers to them.
 
-## 4. A few objections pertaining to the observance of this *vrata* and answers to them.
-
+#### avaidikatā
 \(a\) The name of this *yajna* called *cāturmāsya* appears both in *Vedas* and *smṛtis*. But it is not the famous *cāturmāsya* mentioned in the *purāṇa*s that is being currently practiced. When we study the *vedaśāstras,* we find that there are some season-related *vidhis,* which have to be observed on the full moon days of the months of *caitra, phālguṇa, Āshāḍha* and *kārtika*. They are called *‘vaiśva deva’*, *varuṇa praghāsa,* and *śākhamedha*. Other than this, there is a fourth \(*vrata*\) by name *‘śunāsīrīya’*. These are the four *cāturmāsya*s prescribed in the *Śrutis*. This alone is the *vaidika cāturmāsya* that has been prescribed by *Āpstamba, Āśwalāyana* and *yājnavalkya* and other *smṛtikāras*.
 
 The *cāturmāsya* that is being currently observed does not belong to this class. So, can’t this *cāturmāsya* be given up as it is unvaidik and of recent origin? This is the first objection.
@@ -1141,7 +1154,8 @@ This is a not a strong objection at all. It is our tradition that the mandates o
 
 So the *cāturmāsya* which involves the *niyamas* that have the consent of all the *śāstrakārās,* which can bring about *Ātmasamskāra*, should necessarily be observed.
 
-## b\) *Cāturmāsya* is a *Kāmyavrata*
+####  Kāmyavrata
+b\) *Cāturmāsya* is a *Kāmyavrata*
 
 For example, the *purāṇas* say - if one follows the rule of abstaining from consuming jaggery, his voice becomes melodious. If one gives up the use of oil \(in food\) he becomes handsome.
 
@@ -1156,7 +1170,7 @@ Some people raise an objection saying that this is specially observed in North I
 
 Even this is a very ordinary objection. If good customs are followed - be it in North India or South India, or observed by women or by men, all should follow them if they bestow *purushārthas*.
 
-## The modalities of the *vrata*
+### The modalities of the *vrata*
 
 Those who observe the *vrata* should go on fast, worship *Śrī Nārāyaṇa* and pray him “O Lord\! I am observing this *vrata* in your *Sānnidhya*. This can be completed without hurdles, only with your blessings. In case my life departs from the body in the middle of this *vrata*, let me obtain the fruits, of the *vrata* then also with your blessings.” And, reducing the worldly activities as much as possible, one should worship Lord *Nārāyaṇa* who is delightful in the posture of sleep, with meditation, stotra and worship etc. One should follow *Brahmacarya*. One should give up *Rāga* and *dvesha*. Lies should not be uttered. Robes suitable to the *vratadīksha* should be put on. One should abstain from violence to animals. Food prohibited by scriptures and causing disturbance to the *Samyama* should not be consumed. Liquor and meat should be given up during all the four months. It is good to give up some particular food items during some months. For example, One should not use vegetables in *śrāvaṇa māsa,* curds in *bhādrapadamāsa*, milk in *āśvayuja māsa* and pulses in *kārtika māsa.* \(These are respectively called the *śākavrata, dadhivrata*, *kshīravrata* and *dhānyavrata\)*.
 
@@ -1184,11 +1198,11 @@ It is best to consume only *havishyānna* in all these four months. Sins get red
 
 At the end of the *vrata, śrotriyas* should be invited and they should be informed of the *vrata* that has been taken up. They should be fed well and offere *Dakshiṇā*. They should be gifted with cow, land, gold and clothes etc. To the extent possible, it is better to make *Godāna*, *Vastradāna*, *Śayyādāna*, *Vastradāna*, go*dāna* and *Suvarṇamūrtidāna* to couples, corresponding to the *vratas* observed by the devotee viz., eating once a day, eating only in the night, sleeping on the ground, giving up of vegetables, giving up of curds, liquor and ghee, and the observance of *brahmacaryā*.
 
-## The benefits of observing *Cāturmāsya*:
+### The benefits of observing *Cāturmāsya*:
 
 Those who have observed the *vrata* with a *Kāmyadṛshti* giving up jaggery, oil, pungent oil, betel nut and betel leaves, ghee, fruits, vegetable dishes curds and milk, will obtain the benefits of sweet voice, beautiful body, destruction of enemies, enjoyment of material pleasures, loveliness, intelligence and progeny of many of sons, cooked food and sweet dishes food and attainment of the *goloka* respectively. If one gives up these for the love of God, he will obtain devotion to God through the restraint of senses. By observing *Brahmacarya* one will develop strength of the body, the senses, the mind, and intellect, and the accomplishment of *dhyāna yoga*. By worshipping God who is in the posture of sleep the *jnāna, bhakti* and *Vairāgyas* of the person will increase. *Gṛhasthas* obtain enjoyments which are not opposed to *yoga*, by worshipping God who in the posture of just woken up from sleep.
 
-## *Cāturmāsya* of *sanyāsis*
+### *Cāturmāsya* of *sanyāsis*
 
 *Sanyāsis* have some more distinct *Vidhis* in addition to the dos and don’ts regarding food.
 
@@ -1742,7 +1756,7 @@ The above opinion of modern scholars can appeal instantly to the mind and may su
 
 When we examine the above opinions, we do not feel inspired to worship *Gaṇeśa* in our hearts and also externally, as prescribed by our scriptures to obtain the four fold values of life viz., *Dharma, artha, kāma* and *moksha*. Doubts manifest as to whether he is the natural *ādimūla gaṇapa* or a *gaṇapa* of metamorphosis. It inspires one to daydream, in addition to eating *modakas* on the day of the *Gaṇeśa* festival. Then, does it help to remove the confusions and obtain peace of mind, if the modern theories are given up and only if the scriptures and traditions are followed, to understand the true form of *Gaṇeśa*? Is there unanimity of opinion in our *Śāstras* with respect to *ādimūla Gaṇapa*? Let us examine.
 
-## Opinion of Śāstras on the true form of Gaṇeśa
+### Opinion of Śāstras on the true form of Gaṇeśa
 
 Even in scriptures we do not find an unanimous opinion about his true form, that gives no room for any doubt. In some places he has been referred to as *Nirākāra, Oṅkārarūpi* and *Ādimūla*. In some other places he is described as the one having forms of an elephant face etc and as son of *Gaurī*, son of *Śiva*, and the elder brother of *Shaṇmukha* and so on. There is no unanimous opinion about his birth also. In this regard we come across many contradictory opinions in scriptures and traditions.
 
@@ -2356,7 +2370,7 @@ Thus, when viewed with discernment, it becomes very appropriate to call *Gaurī*
 
 Thus *Gaurī* is referred to by various names such as *Śiva’s* wife, sister of *Śiva* the supreme god, sister of *Sarasijanābha* \(*Vishṇu*\), younger sister of *Nārāyaṇa* etc, and the festival pertaining to her, viz. *Svarṇagaurī vrata* is called commonly *Gaurīhabba*. When should it be celebrated? What should be the modalities? These shall be discussed now.
 
-## When should it be celebrated?
+### When should it be celebrated?
 
 This festival should be celebrated on the 3rd day of the *śuklapaksha* of *bhādrapada māsa*. \(*Tṛtīyā tithi* should be there at the time of sunrise on that day. It will be very endearing to *Gaurī* if the *caturthī tithi* fixed for the worship of *Gaṇeśa* happens to be touching *tṛtīyā*. Therefore, *Gaurī* festival should be celebrated on the day when the *yoga* of *caturthī* occurs with *tṛtīyā*. Suppose *tṛtīyā* spreads for most part of the previous day, or for that whole day \(for a full sixty *Ghaṭikas*\), and it lasts for just the duration of one *muhūrta* or even less the next day Then, when should the festival be celebrated? It should be observed only on the following day.
 
@@ -2364,7 +2378,7 @@ This festival should be celebrated on the 3rd day of the *śuklapaksha* of *bhā
 > षष्टिघटीमितामपि त्यक्त्वा परदिने अल्पापि  
 > चतुर्थीयुतैव ग्राह्या गणयोग प्राशस्तात् 
 
-## ii\) How should it be observed?
+### How should it be observed?
 
 Goddess *Gaurīdevi* should be meditated upon in the heart and then worshipped externally. What should be the medium for external worship? A golden idol of *Gaurīdevi*, or a pot, or turmeric, or sand or clay collected from a pure river or a lake—in all these or in any one or two or three of these, *Devī* is invoked and worshipped. What should one do if he or she cannot afford to get an idol made of gold? “Such people may get it done in silver, which is less expensive. Such a custom is also followed by some”-some say, But it is not correct. *Kalpas* do not merely insist that the idol should be made of gold for the reason that gold is expensive. Scriptures prescribe that the idol should be made of gold because of the extraordinary property of the substance. If one cannot afford to get \(it made of\) gold he should use another material of equal merit or one with a little less merit in its place. That material is *‘haridrā’* \(turmeric\). It is not merely because that turmeric also possesses the color of gold. **Whatever the \(change in the\) state occurs in the body that helps to obtain the grace of the deity by seeing or touching gold, is accomplished on seeing or touching turmeric also. This has been demonstrated by *Śrīraṅgamahāguru* by *Nāḍīśāstra***. Even if the idol is made of clay, it should be painted with golden color only. The goddess who is worshipped is *Gaurī* the yellow complexioned. She is described as “चाम्पेयगौरार्धशरीरकायै कर्पूरगौरार्धशरीरकाय” by *Śrīśaṅkarabhagavatpāda*, as one with an auspicious form glowing with the colour of the *Campaka* flower.
 
@@ -2575,7 +2589,7 @@ We would like to respectfully remember here a sentimentful context which emerged
 
 Thus, we have discussed about Lord *Hanumān*. We shall now take up the discussion on the celebration. \(of *Hanumajjayanti*.\)
 
-## The day and time of the festival
+### The day and time of the festival
 
 When should this festival be celebrated? This topic can be discussed in two parts, viz the month, the day and the star on which it should be celebrated and precisely at what time of that day.
 
@@ -2623,11 +2637,11 @@ Thus all the three factions can be satisfied by holding that *Hanumāns’* birt
 
 And at what time should the special *pūja* of *Hanumān* be performed on the day of *KarthikaKṛshṇa caturdaśī*? “His incarnation took place in the *Meshalagna*” say the *śāstras*. *Mesha lagna* occurs at night and on that night, that time happens to be *Māsaśivarātri* also. Therefore the special worship pertaining to his *avatāra* should be done in the night. And, it should be supposed that the day of worship shall be only on the day when *Caturdaśī tithi* extends through the night.
 
-## *Pūja Vidhi:* \(Precepts of worship\)
+### *Pūja Vidhi:* \(Precepts of worship\)
 
 Those who perform the *Vrata* should observe fast on that day. Those who cannot afford to fast may take *sāttvik* food such fruits, tubers, milk, etc., which have been offered to God. Those who just perform the *pūja* of *Hanumān* without the vows of the *vrata*, should be on fast until the *pūja* is over and take the *prasāda* afterwards. But those who do it as a *vrata* should be in observance for the whole day, in accordance to the vows made. And after the worship of *ŚrīRāma* in the night, the worship of *Prāṇadevaru*, his greatest servant, should be done. *Pañcopacāra pūja* or *shoḍaśopacāra pūja* should be offered, as per scriptural precepts. It is best to do *Pañcāmṛta abhisheka* in the *upacāra* of bath to the Lord. For decorating the Lord, applying of fragrant oil and *kuṅkuma* should be specially done. The best among *naivedyas* would be the preparation made with Bengal gram and jaggery. As part of *pūja*, just as music and dance are offered to the Lord, the offering of wrestling and gymnastics in the presence of the Lord as a form of *seva* is also in vogue. Those who are able \(bodied\), should keep awake for the whole night and keep singing the glories of the Lord.
 
-## *Pūja* Rules and the Science behind that
+### *Pūja* Rules and the Science behind that
 
 1. As *Hanumān* is the preeminent servitor of *Parabrahmamūrtī ŚrīRāma*, it is proper that the *prasāda* that has been offered to *ŚrīRāma* is offered to *Hanumān* also. As proclaimed in the statements—
 
@@ -2738,7 +2752,7 @@ This is a famous festival celebrated all over India being called by the names *�
 
 **Determining the time of celebration:** This is a festival celebrated on *Phālguna Pūrṇimā*. But on the evening of *Pūrṇima*, the *Karaṇa* by name *Bhadrā* should not be prevailing. If it prevails for two days in the evening, or if it prevails partly during the next evening, the festival should be celebrated the next day only. If the blemish of *Bhadrā* prevails on the previous day, and if *pūrṇimā* doesn’t set in till the evening of the following day, or, if *pūrṇimā* prevails for a period of three *praharas* or more, the festival will be in the evening of the following day only. If *prathama* gets shorter, then the time of either the tail or the face of *Bhadrā* should be avoided, and *Holī* should be celebrated during the period of *Bhadrā* only. *Holī* should never be celebrated during day time.
 
-## Some stories related to *Holi*:
+### Some stories related to *Holi*:
 
 We come across a number of stories in the *purāṇas* pertaining to the festival of *Holī*. Some of them may be summed up as follows. If the story is observed, the *tattva* and the modalities related to the festival can be understood well.
 
@@ -2758,7 +2772,7 @@ As the festival is celebrated in the month of *‘Phālguna’* it is called *�
 
 The festival of *Kāmadahana* itself might have become, in short, the festival of *Kāma*.
 
-## The method of celebration of the festival:
+### The method of celebration of the festival:
 
 As observed earlier, there are many ways in which the festival is celebrated. In *Vangadeśa* it is observed in the form of *‘Dolayātra* of *ŚrīKṛshṇa’*. The festival is celebrated there for three or five days. *Agnideva* should be worshipped on the night of the *caturdaśī* of the bright half of *Phālguna*, on the eastern side of the pandal.
 
@@ -2984,7 +2998,7 @@ The birthdays \(*janma dina*\) or auspicious lunar calendar days of death \(*tit
 
 When an *ācārya* transits from the earth heavenward \(*parama pada*\), the lunar day, is primarily used, for commemoration. There is no difference among different customs in this regard. Since the annual reverential homage for the departed is lunar day based, that homage ceremony itself is termed *tithi* by the common people. Such a day for an *ācārya* is termed sacred lunar day \(*puṇya tithi*\)
 
-## Birthdays of a few principal *ācārya*s:
+### Birthdays of a few principal *ācārya*s:
 
 1\) In the lineage of *ācārya’*s, the foremost and which is beyond the bounds of time, is Almighty God. So, \(*pātañjala yoga śāstra*\) *Patañjali’s* treatise on *yoga* views Him as , “He is the *Guru* for all the prior *Guru’*s. Because, He is beyond the limitation of time”. “पूर्वेषामपि स गुरुः कालेनानवच्छेदात् ”
 
@@ -3575,13 +3589,13 @@ There is also a custom of completing the *Vrata* after the *Pāraṇa* by chanti
 	 
 ## Kṛttikā Dīpotsava \(Śivadīpa Vishṇudīpa Mahotsavas\)
 
-## 1. Names of the *parvas*
+### 1. Names of the *parvas*
 
 We see many *Dīpotsava parvas* in the line of festivals of *Bhāratīyas* where rows of lamps are lighted in temples, homes, *maṭhas*, *Āśramas* and *Mandirs*, both inside and outside those places. The most famous *parvas* among these are the *Vishṇu dīpa* and *Śiva dīpa* \(*Mahotsavas*\).
 
 These two fall either on the same day or one of them comes on the next day of the other, and thus they declare the deep relationship of *Śiva* and *Vishṇu*, to the sentimental devotees. These are also called by the name *laksha dīpotsava* in the temples. The *laksha dīpotsavas* of *Śiva* and *Vishṇu* and their *parivāra devatās* are observed on the full moon day of *kārtika māsa*, or *Kṛshṇa caturdaśī* or on the day of *amāvāsya tithi* of *kārtika māsa*. However in most of the places, these *Śiva*-*Vishṇu Dīpotsava*s are celebrated only in the *vṛścika māsa* of the solar calendar. Though these festivals happen to fall some times in *kārtika māsa* and at other times in *mārgaśira māsa* as per the lunar calendar, they are celebrated only in the month which is called *‘kārtikai māsam’* in the Tamil country as per the solar calendar, and importance is given to *kṛttikā Nakshatra* also in the observance of this festival. Therefore these *Śiva-Vishṇu Dīpotsava*s are also called *‘kṛttikā dīpotsava’* or *‘tirukkārtikai’*.
 
-## 2. The Day and Time of observance.
+### 2. The Day and Time of observance.
 
 Though it is stipulated to be observed in the month of *Vṛścika*, the special day and time at which is should be observed in that month, needs to be known by discussion.
 
@@ -3606,7 +3620,7 @@ Though it is stipulated to be observed in the month of *Vṛścika*, the special
 
 1. The festival of lights should be celebrated on the day of *Dīpotsava* during the time between 48 minutes to sunset \(one *muhūrta*\) and one half of a *yāma* \(ninety minutes\) after sunset. 2. As the *vrishabha lagna* is prescribed for the time of observance of festival, *Dīpotsava* should be observed after sunset on the beginning day of the month. If the festival day is in the middle of the month or at the end of the month, the festival should be observed before sunset. If the festival is to be observed like this before sunset, *sandhyāvandana* etc should be done after sunset. But if the festival of lights is to be observed after sunset, *sandhyāvandana* should be finished before sunset.
 
-## 3. The method of observation of the festival:
+### 3. The method of observation of the festival:
 
 Though *Dīpotsava* is celebrated either in the evening or at night, the whole day is indeed a festival day. On that day, God should be worshipped specially with purity and abundance of the *trikaraṇas* and materials, and the worship should be conducted in the afternoon also. If there is a shortage of materials externally speaking, the abundance of the proper *manodharma* will make up for the shortage.
 
@@ -3622,7 +3636,7 @@ After having a bath in the evening and entering the *pūja* room, and making a *
 
 After the offering of *mahā maṅgalārati* with the chanting of this *mantra* which sings the praise of *Agnideva* who is the reigning deity of *kṛttikā Nakshatra*, and also the praise of the *paramātma*n who is the form of effulgent light, who is *antaryāmī* in *Agni*, and who exists within the *agnimaṅdala* and who is referred to as *Agni*, one more special rite is observed in temples on that day. The rite is - A piece of white cloth is soaked in ghee and wrapped around the end of a \(wooden\) stick and lighted from the burning flame of either the *Nīrājana* or the fire from the burning flame of the lamp lighted in front of God, and is burnt. Its *masi* \(ash-soot\) considered as a *Rakshā* is first applied to the forehead of God, and then its *Prasāda* is taken by all the devotees and is applied to their foreheads.
 
-## 4. The significance of the time of observance:-
+### 4. The significance of the time of observance:-
 
 As we have noted before, *kṛttikā dīpotsava* \(*Śiva dīpa* and *Vishṇu dīpa* festivals\) come in the month of *Kārtika* or *mārgaśira*. Both these months are best for the development of divine knowledge and accomplishment of auspiciousness. “कार्तिके ज्ञानवृद्धिस्स्यात् मार्गशीर्षे शुभोदयः” Among these two, the month of *kārtika* is a very dear month to Lord *Śiva*, the one who grants divine knowledge, as is evident from “ज्ञानं महेश्वरादिच्छेत्”. We have already described in the chapter on the festivals of the month of *Kārtika*, that Mondays of the *kārtika māsa* are very best for the worship of *Śiva*. So, there is no doubt that a Monday occurring in *Kārtika* is best for the observance of *Śiva dīpa Utsava*. This period of time is called the time of *Jnānavṛddhi*, and the time dear to *Mahādeva* the dispenser of divine knowledge, as it is conducive to the blossoming of the centers of *Ātmajnāna* by the grace of Mother Nature. As evident from the words “ददामि बुद्धियोगं तं येन मामुपयान्ति ते” declared in the *Gīta*, even though it is a month dear to *Nārāyaṇa* the dispenser of \(divine\) knowledge, it is most dear to Lord *Śiva* also. \(The *śrāvaṇa māsa* is exceptionally dear to Lord *Vishṇu*\).
 
@@ -3658,7 +3672,7 @@ the origin of both *Nārāyaṇa* and *SadāŚiva*, is from the form of *parañj
 
 Why should a lighted lamp be placed on the heap of garbage? The answer is, the whole universe is filled with the effulgence of *Nārāyaṇa* and the same light is shining behind the heap of garbage also. This custom reminds the *tattva* “नारायण एवेदं सर्वम्”
 
-## 5. Why do they worship *‘Gajalakshmī’* ?
+### 5. Why do they worship *‘Gajalakshmī’* ?
 
 The tradition of women worshipping the idol of an elephant on the morning of *Vishṇu dīpotsava* has been mentioned earlier. “Why should the idol of an elephant be worshipped? Instead, giving rice, jaggery and coconut to a live elephant makes it and happy, and it may even serve us. Why should the clay idol of it be worshipped? Perhaps long ago people were very much troubled by the elephants. So, the custom arose from a blind faith that by worshipping its earthern image, they may escape from their menace.”—This is the guess of some. Even though this guesswork appears correct superficially, in reality it is not correct. This custom of worship was brought by *Yogis* who were *jnānis*. They call that elephant by the name *‘Gajalakshmī’*. And some say—“Like *Dhanalakshmī*, *Dhānyaakshmī* and *Ashṭa lakshmī*, elephants are also a wealth that are useful for the worldly life. So *Gajalaksmi* means the wealth of elephants, and a large number of superior elephants”. But comment also is not correct. Because not everyone will have the capacity to get elephants and bring them up and obtain service from them. It is difficult even for the kings. So, how can it be possible for ordinary people then? *Yogis* visualise elephants in the inner spiritual center of the body called *‘gajakunḍa’*. Not only this. *Yogasādhakas* visualize the divine elephants in the retinue of *Śrīdevi* which they behold just before the attainment of the divine *ambrosia*, in their *Dhyānamanthana* for the attainment of *Brahmānanda*. As they are great powers that carry \(bear\) the universe on their backs, they are called *‘Diggajas’* by the sages, in the wordly language. \(In reality, if the earth is dug no such elephants can be found. One should not be deluded by interpreting things pertaining to the inner vision of the sages in the physical plane.\) *Purāṇās* and *Śrī Sūktis* of the *ācāryas* proclaim that these divine great elephants perform the *Divyānandāmṛta—Abhisheka* to the *Jaganmāta*.
 
@@ -3683,7 +3697,7 @@ One should not make a narrow minded criticism such as—“This worship of *Gaja
 
 Since there exists a sentiment that the idols of elephants which are worshipped are the form of *Lakshmī*, their *Visarjana* is not done on Tuesdays and Fridays. Isn’t it that the female members of the family are not sent \(to another place\) on those days? Then how can it be acceptable to perform the send off of *Gajalakshmī* on those days?
 
-## 6. Why should a cloth be burnt on the *Dīpotsava* at night?
+### 6. Why should a cloth be burnt on the *Dīpotsava* at night?
 
 We have discerned earlier that the religious rite of soaking a piece of cloth in ghee and burning it is a part of the worship of the *Dīpotsava* of the night. What is the spirit behind this ?
 
@@ -3815,7 +3829,7 @@ If one observes the *vrata* on that day, all the sins committed in the entire ye
 > लिङ्गेषु च समस्तेषु चलेषु स्थावरेषु च ।   
 > सङ्क्रमिष्याम्यसान्दिग्धं वर्षपापविशुद्धये॥ 
 
-## The great glory of *Mahāśivarātri*
+### The great glory of *Mahāśivarātri*
 
 *ŚivaPurāṇa* describes the great glory of *Śivarātri* as follows:-*“Mondays, Kṛshṇapaksha, Ashṭamī* and *Caturdaśī* are the ones which undoubtedly cause delight to *Śiva*. Among these four, the *Śivarātri* \(i.e. the *Kṛshṇa Caturdaśī*\) is most auspicious. Those who desire *Bhukti* and *Mukti* must necessarily observe this *vrata*.”
 
@@ -3895,7 +3909,7 @@ Are these stories true or only imaginations? Even if all of them are true which 
 
 *Śivarātri vrata* should necessarily be observed by all. On that day *Śivā* should be worshipped by fasting, restraint of senses, meditation, *pūjā* and singing of his praises. By these, one attains all the four fold values. The purport of these stories is to drive home this *tattva* indeed.
 
-## When and at what time should this be observed
+### When and at what time should this be observed
 
 		
 We have already noted that *Mahāśivarātri vrata* should be observed on the *caturdaśī* of the *Kṛshṇapaksha* of the month of *māgha*. Now we shall explain the specific day of the *vrata* and the time of worship.
@@ -3942,7 +3956,7 @@ We had noted earlier that it is auspicious for the observance of *ŚrīKṛshṇ
 > माघकृष्णचतुर्दश्यां रविवारो भवेद्यदि।   
 > भौमो वापि भवेद्देवि कर्तव्यं व्रतमुत्तमम् ॥ \(स्कान्द\) 
 
-## How should it be observed?
+### How should it be observed?
 
 *Śivarātri vrata* should be observed in such a manner that it pleases Lord *Śiva*. The bliss of meditation and the wealth of *ātmaguṇas* are very dear to him. The eight famous *ātmaguṇas* are—kindness to all the living beings, absence of envy, purity, obsence of exertion \(difficulty\), absence of greed, absence of stinginess, forgiveness and auspiciousness. One should possess both the external and the internal purities which are in accordance with the experience of *ātmānanda* and the expression of *ātmaguṇas*. The vows such as non-violence, truthfulness, absence of anger, *Brahmacarya* etc., which are common in all observances should be strictly followed in this *vrata* also. *Mānasapūja* of God is the best. It is also good to perform the external worship that fosters the mental worship, or as a form of expression of mental worship. The inner worship is in the form *dhyānasamādhi*. The external worship will be in the form of *Āvāhana, Āsana, Arghya, pādya, Ācamanīya, Abhisheka, Vastra, Upavīta, Gandha, Pushpa, Dhūpa, Dīpa, Arcana, Naivedya, Pradakshiṇanamaskāra, stotra* and *Sangīta* \(inclusive of dance, songs and instrumental music etc.\) Among these services, *Abhisheka* is most dear to *Śiva.* The *śāstras* say:
 
@@ -3977,7 +3991,7 @@ This ambrosial teaching of *Śrīmad Anandatīrtha* may be remembered here.
 
 Now, based on the course of these arguments, what the *śāstras* and traditions tell us about the worship of God, is the next topic.
 
-## How should the *parva* be observed?
+### How should the *parva* be observed?
 
 To the question how should the great *Śivarātri parva* be observed, the direct and the essential answer is “It should be observed in a manner that pleases *Śiva”. Śiva* is the Lord who is an embodiment of *jnāna* - *ānanda* and *amṛta*. As said in “यश्शिवो नामरूपाभ्याम्”’, HE is the one who has the most auspicious names, forms, attributes and deeds. If one immerses himself in such a God and fills up himself with that God in his mind, speech and acts, it will be a thing which pleases HIM.
 
@@ -4467,7 +4481,7 @@ It should be remembered here that this is not merely a *Malāpakarshaṇa snāna
 
 We will now critically analyse a well known problem related to the significance of *uttarāyaṇa*, and discuss the modalities of the observance of the festival.
 
-## The problem of *uttarāyaṇa*
+### The problem of *uttarāyaṇa*
 
 *Ayana* means a path. “अयनं वत्र्ममर्गाध्वपन्थानः पदवी सृतिः ” *uttarāyaṇa* means the way towards the north. The special time during which the Sun appears to be travelling in the path of the northern direction is called *‘uttarāyaṇa’* technically. This time starts when the Sun enters the *Makararāśi* and continues till the time he enters into *karkaṭa rāśi*. Similarly the special time in the Sun’s journey from the *karkaṭa rāśi* to his entry into *Makara rāśi* is called *‘dakshiṇāyana’*.
 
@@ -4810,7 +4824,7 @@ Answer: The description here does not refer to the time of *Saṅkrānti*. Time 
 
 The *Nāgapañcami* occupies an important place in the traditions brought forth by the *sanātana Āryabhāratīya Maharshis*, This is even considered by some as one of the supreme *parvas*, in place of *Akshaya tṛtīyā*. This *parva* is observed in all parts of this country by people belonging to all sects, creeds and philosophical systems. Though there are differences in the modalities of observance, all of them observe this with great devotion, faith and religious fervor. We see that this *vrata* is being observed by all, except by those who have a vow not to observe *kāmya vratas* and those who are devoted to only one deity like *Śiva, Vishṇu* etc. Even such *Ekadevopāsakas* \(devoted to a single god\) sometimes observe this as a *kāmyavrata*. People observe this *vrata* with the desires such as - “Let not serpents bite us, Let the peril from poison be averted. Let us have progeny. Let us be bestowed with wealth. Let us be free from skin diseases. Let us attain heaven”, Etc.,. This *vrata* is also observed with the objective of awakening *Kunḍalini* i.e. *Prāṇaśakti* for the early *phalasiddhi* \(results\) in *yogābhyāsa*. As the name of the *vrata* itself clearly states, the deity that is specially worshipped on this day is *Nāgadevatā*.
 
-## i\) When should this *vrata* be observed?
+### When should this *vrata* be observed?
 
 By and large this *Vrata* is observed on the *pañcami* of *śrāvaṇa śuklapaksha*.
 
@@ -4835,7 +4849,7 @@ According to *āśvalāyana* and *pāraskara gṛhyasūtras*, the *śrāvaṇa P
 
 And, even though precepts state that serpent deities are to be worshipped on *daśamī* and *pūrṇimā tithi*, we find that this *vrata* is specially observed on *pañcamī tithi*, as suggested by the name *Nāgapañcamī*. “Which day has to be chosen for worship if *Pañcami* has the *vedha* of either *caturthī* or *shasṭhī*?” It shall be the day on which there is *vedha* of *Shasṭhī*. It is because *Shashṭī tithi* is very dear to *Nāgadevatās*. \(Actually speaking, *pañcamī tithi* is very dear to *Garuḍadevatā*, and *śrāvaṇa śuddha pañcamī* was called *‘Garuḍapañcamī’*; and in course of time the *Garuḍapañcamī* got transformed into *Nāgapañcamī* for the worship of *Nāgadevatās* for some reason.” - This opinion is also prevalent.\)
 
-## ii\) *Vrataniyamas* and modalities
+### *Vrataniyamas* and modalities
 
 Though there are some differences in the modalities in the observance of this *Vrata*, the rule that the *Nāgadevatās* have to be specially worshipped on that day is commonly stated in all the precepts.
 
@@ -5011,7 +5025,7 @@ If so, what exposition is put forth by such persons who have the supra sensory e
 
 They have the capability to grant boons or to chastise. By nature they are prone to anger generally. But when pleased by the worship of the deovtees, they bestow upon them with progeny, prosperity etc. All of them are various forms of *Kunḍalinī* or *Prāṇaśakti*. Among them some are dispositioned favourably towards *Paramātmabhāva* and some are hostile. Those who are hostile should be overcome by the grace of *Garuḍa* the *vedapurusha* \(the *Vedas* personified\), or his master Lord *Vishṇu,* and then one can proceed further in the *Yogamārga*. And among them \(i.e. the *Nāgas*\) *Ādiśesha* is the *Mahātma* who is *Śuddhasattvamaya* \(wholly of pure nature\) who has completely abated the *triguṇas*. He possesses an effulgent form of pure white complexion and is totally a *śeshabhūta* to the Lord. Those who belong to his category are indeed *Anurūpas* \(the ones who conform to the Lord\). It is possible to visualize these diverse *Nāgadevatās* with their forms and attributes in the inner world. To facilitate this inner vision and the accomplishment of desires, the custom of worshipping the idols of *Nāgadevatās* has come into practice. And, the *Kunḍalinīśakti* does exist in the cobras which are seen around, at least to a small extent.
 
-## Some doubts and questions
+### Some doubts and questions
 
 A few important doubts pertaining to *nāgapañcami*.
 
@@ -5125,11 +5139,11 @@ Thus, different categories of *Nāgas* are worshipped on *Nāgapañcamī*, *śr�
 	 
 ## Narasimha Jayantī
 
-## Importance of this *Parva*:
+### Importance of this *Parva*:
 
 *Narasimha jayantī* is a prominent *parva* that comes after *akshaya tṛtīya* in the month of *vaiśākha*. To fecilitate the devotees to have the experience of the glory of one of the important incarnations of *Mahāvishṇu*, the great sages of *Sanātana Arya Bhārata* who were *jnānavijnāna tṛptātmas* have marked this as a nodal day in the body \(form\) of the almighty in the form of time. It is a great day which is auspicious, holy and the day which reminds \(us\) of the all pervasivenss and unequalled *jnāna, bala, aiśvarya, śakti, vīrya, tejas* and the motherly affection and love of that God towards devotees. It is a day in which the rituals are performed with great devotion in all the places in India where the *Upāsana* of *Vishṇu* and especially of Lord *Narasimha* is in vogue in the homes of devotees, who worship Lord *Narasimha* as either their family deity or a tutelary deity, and in *maṭhas, āshramas* and in temples. It is the day when his *upāsana* is taken up with austereness, both with the fear that any *apacāra* \(an offence\) to God may chance, and with devotion combined with great and full confidence that he will receive the *upacāras* with great affection. Some *Śaivas* also worship Lord *Narasimha* on that day.
 
-## 2. Detailed description of the name of the festival
+### Detailed description of the name of the festival
 
 This festival is also called by the name *Nṛsimhacaturdaśī* or *Narasimha caturdaśī*. The term *Nṛsimha jayantī* \(*Narasimha jayantī*\) connotes that, being the day of the incarnation of Lord *Narasimha*, it is also a day of special potential which provides success and *puṇya* to the devotees.
 
@@ -5137,7 +5151,7 @@ This festival is also called by the name *Nṛsimhacaturdaśī* or *Narasimha ca
 
 The second name \(i.e. *Narasimhacaturdaśī*\) like the name *Rāmanavamī*, indicates the *tithi* earmarked for the observation of this festival.
 
-## 3. Various opinions on the reigning deity:
+### Various opinions on the reigning deity:
 
 As done in the case of the other *parvas*, it is appropriate to discuss the time, modalities and science etc. pertaining to this festival. But, before that, we shall take up the discussion about Lord *Narasimha*, the \(deity-in-worship\) of this festival. The conclusions obtained by such a discussion will help grasp other matters pertaining to the festival, in an easy and a satisfactory way.
 
@@ -5473,7 +5487,7 @@ Let us become fulfilled in this sacred evening worship of *Narasimha Jayantī* b
 
 “Lord *Narasimha* is divine truth incarnate. He is experienced \(by devotees\) in the suprasensory *Yogasamādhi* and blesses \(devotees\) with divine knowledge, eternal bliss, prosperity and peace. He fulfills the wants of the devotees who have desires. He is the inner incarnation of lord *Nārāyaṇa Parañjyothi*.” These points have been brought to our mind by the abovesaid discussions in the question answer format. Now we shall have an insight to the other aspects of *Narasimhajayantī* which is to be observed in a special way.
 
-## i\) The Importance and specialty of this *Parva*:
+### The Importance and specialty of this *Parva*:
 
 1. This is one of the religious festivals celebrated with devotion and awe in all parts of *Bhārata.*
 
@@ -5495,7 +5509,7 @@ Let us become fulfilled in this sacred evening worship of *Narasimha Jayantī* b
 
 6\) This *Vrata* demands a high level of *Ācāraśuddhi* \(Purity\)
 
-## ii\) When to perform this \(*vrata*\)and at what time?
+### When to perform this \(*vrata*\)and at what time?
 
 There is no difference of opinion regarding the observance of this *vrata* which falls on on *vaiśākha śukla caturdaśī*.
 
@@ -5578,7 +5592,7 @@ Thus, when *Pradosha* is recommended for *Narasimha* even in daily worship, it i
 
 Next, we will take up for discussion, the modalities of the worship of *Śrīnṛsimha jayanti* and the reasons for that.
 
-## *Madivantike* \(ritualistic purity\) :
+### *Madivantike* \(ritualistic purity\) :
 
 *Narasimhajayanthi* is a day when God in the form of *Narasimha* should be worshipped specially. *Pūjā kalpas* have stipulated special purity to falicitate that special worship. Here *‘madi’* means purity of all kinds and virtuous conduct. Only if purity is accomplished in the five sense organs, the body, intellect, mind, materials, place and deeds, it can be termed as *Śāstrīya* purity.
 
@@ -5636,11 +5650,11 @@ It should be noted that the above said items prescribed as *Naivedya* to Lord *N
 
 As *Narasimha* possesses a dual form of both *Vishṇu* and *Rudra*, *tulasi* and lotus recommended for the worship of *Nārāyaṇa*, and *Bilva* and red hibiscus etc prescribed for the worship of *Śiva*, can be offered for the special worship on that day.
 
-## Medium of worship
+### Medium of worship
 
 Lord *Narasimha* can be worshipped in the forms of *sāligrāma yantra*, idols or through sacrificial fire. Special worship should be offered by way of chanting *Śrī Narasimha mantra*, *upanishads* and *vedas.*
 
-## Fasting and breaking the fast
+### Fasting and breaking the fast
 
 The practice of *Pāraṇa* after the offering of special worship in the evening is also there. “उत्सवान्ते च पारणम्”
 
@@ -6399,6 +6413,7 @@ The abovesaid *Kālamīmāmsa* may sound unnecessary to the lay man. But when so
 
 *Prathamaikādaśī * is one of the most important festivals observed in our country. The *Ekādaśī* which falls in the *śuklapaksha* of the month of *Āshāḍha* is called by this name. This festival is also called by names such as *Ekādaśī*, festival of fasting, *mahaikādasī*, *sāyanī* etc. This happens to be a very important *parva* observed by virtuous people of all the *varṇas* and *Āśramas*, and people belonging to all sects such as *Śaiva*, *Vaishṇava* etc.
 
+### Nāmanirvacana
 **1\) *Nāmanirvacana*** \(explanation of the name\): This is called *Ekādaśī* as this is a *vrata* related to the *Ekādaśi tithi. Ekādaśī* comes twice every month. But this *Ekādaśī* is the most important of all *Ekādaśīs*, and so is called by that name. There is a rule that those who cannot afford to observe the other *Ekādaśīs* in the prescribed manner, should observe at least this *Ekādaśī.* Thus, this is specially called *Ekādaśī*. For example, all the *caturdaśis* of the *Kṛshṇapaksha* of every month are *Śivarātris* only. But only the *caturdaśi* of the *Kṛshṇapaksha* of the *Māghamāsa* is called *Śivarātri.* Just as *Śivarātri* is so called because of the special importance it carries on that day, the above said *Ekādaśī* of the *śuklapaksha* of *Āshāḍha* is called *Ekādaśī*.
 
 *Prathamaikādaśī* means the first *Ekādaśī*. When the *Ekādaśīs* of the *śuklapaksha* of all the months are *Prathamaikādaśī*s, how come only this is called *Prathamaikādaśī*? It is because,
@@ -6409,7 +6424,7 @@ The abovesaid *Kālamīmāmsa* may sound unnecessary to the lay man. But when so
 
 As this this is a great festival during which the rules of fasting have to be \(specially\) observed, it is referred to as ‘a festival of fasting’. In this sense, even the *MahāŚivarātri* is a festival of fasting only.
 
-## 2. Statements of scriptures which prescribe fasting:
+### Statements of scriptures which prescribe fasting:
 
 We come across hundreds of statements in *smṛtis*, *purāṇas*, history, and *parva mīmāmsā* literature, which ordain fasting on this day. Some of them may be noted here.
 
@@ -6469,7 +6484,8 @@ But the authors *Hemādri* and *Halāyudha*, in their work *parvamīmamsa* state
 > यथा शुक्ला तथा कृष्णा यथा कृषा तथेतरा ।   
 > तुल्ये ते मन्यते यस्तु स वै वैष्णव उच्यते ॥ 
 
-## Greatness \(glory\) of fasting on *Ekādaśī:*
+#### Importance of fasting
+Greatness \(glory\) of fasting on *Ekādaśī:*
 
 The significance of fasting on *Ekādaśī* has been greatly described by the *śāstras*. A few of them may be noted here.
 
@@ -6499,9 +6515,10 @@ The moment the word *Ekādaśī* falls on their ears, even *yamadūtas* become h
 
 If the *puṇya* accrued from *pṛthvīdāna* \(gifting of the whole earth\) is placed on one pan of a balance, and the *phala* \(benefit\) accrued from fasting on *Ekādaśī* on the other, the latter happens to be more meritorious.
 
-एकतः पृथिवीदानं एकत्र हरिवासरः ।   
+> एकतः पृथिवीदानं एकत्र हरिवासरः ।   
 > ततोप्येका महापुण्या इयमेकादशी वरा ॥ \(गरुडपुराण\) 
 
+### On Prathamaikādaśī
 *Prathamaikādaśī* is also well—known by the name *śayanaikādaśi* in the *śāstras*. In some texts we come across words such as ‘शयनी बोधिनी मध्ये या कृष्णैकादशी भवेत् सायनैकादशी” It is indeed hard to reason how the word *śayana* has come to get associated with *Ekādaśī* here. It is possible that, the word *śāyana*, either by mispronunciation or due to a printing error, has become *‘sāyana’*.
 
 1\) Why then, this is called by the name *śayanaikādaśi*? *Śayana* means going to bed or sleeping. It is not the *Sādhakas* who are supposed to sleep on this day. *Jnānis* say that *Sādhakas* should keep themselves awake during the whole day and also during the night \(if possible\), and meditate upon God and praise his glory.
@@ -6584,7 +6601,7 @@ Much later, we happened to come across scriptural statements which also express 
 
 On the whole, it can be stated that both the days, i.e the one with *Daśami Vedha* and the one without, are appropriate for the observance of *Ekādaśī*. We wish to put forth the conclusion that the assigning of \(*Ekādaśī*\) depends on the objective with which one observes this *parva*.
 
-## iii\) Who are authorized to observe *Ekādaśī?*
+### Who are authorized to observe *Ekādaśī?*
 
 Some say that *Ekādaśī* is a *Vaiśnavite vrata* and so only *Vaishṇavas* should observe it. Those belonging to *śaiva, soura* and other sects need not observe it. This is not correct. Even though it is called *‘haridina’* owing to the importance of *Vishṇu* in the *vrata*, people belonging to all sects can profit by this, as it possesses a *Kāladharma* which is helpful for the meditation on the *parañjyoti*. *Śāstras* state that though *Śivarātri* is mainly a *vrata* for the worship of *Śiva*, it is proper for *Vaishṇavas* also to observe it.
 
@@ -6609,7 +6626,7 @@ Therefore it is a *nityavrata*. Also, *Śāstras* say that a person who desires 
 > य इच्छेद्विष्णुसायुज्यं श्रियं सन्ततिमात्मनः ।   
 > एकादश्यामुपवसेत्पक्षयोरुभयोरपि \(कूर्मपुराण\) 
 
-## 1. Exceptions to fasting:
+#### 1. Exceptions to fasting:
 
 We have noted the *śāstravākyas* which state that fasting is mandatory on the day of *Ekādaśī,* and it amounts to a great sin if fasting is not done on that day. But there are some *śāstravākyas* which state that some need not fast and some should not.
 
@@ -6655,7 +6672,7 @@ Says the *Nāradīya vacana*.
 > अष्टवर्षाधिको मर्त्यो ह्यशीतिन्यूनवत्सरः ।   
 > एकादश्यामुपवसेत् पक्षयोरुभयोरपि ॥ \(कात्यायनीय\) 
 
-## 2. Concessions to those who are unable to observe total fast:
+####  2. Concessions to those who are unable to observe total fast:
 
 *Śāstras* relax rules in the case of weak persons who cannot observe total fast, and state an *Anukalpa* \(alternative\)
 
@@ -6693,7 +6710,7 @@ These are secondary. But the words of *Manu* should be remembered here which sta
 
 Whatever may be the option resorted to, adherence to *Brahmacarya, Sadācāra, Ātmaguṇas,* and worship of God etc., should be strictly observed.
 
-## 3. The procedure of observing the *vrata*:—
+####  3. The procedure of observing the *vrata*
 
 Those who observe the *Ekādaśī vrata*, should with a solomen vow, pray Lord *Nārāyaṇa* to bestow his blessings for the flawless observance of *vratas* on all the three days viz., *Daśami, Ekādaśī* and *Dvādaśī*. They should eat only once even on *Daśami* and should observe *Brahmacarya*. They should not eat on a bronze plate, should not sleep during day time, and should not over eat or over drink. Eating meat is prohibited. Chewing betel leaves, gambling, consuming liquor and uttering falsehood etc. should be shunned. They should sleep on a bed, spread on the floor.
 
@@ -6725,7 +6742,7 @@ The three some viz. *Daśami, Ekādaśī* and *Dvādasi*, is called *‘haridina
 
 “यदपोऽअनति तन्नैवाशितं नैवानशितम् ”
 
-## \(1\) *Pūja* and *Jāgaraṇa*
+### *Pūja* and *Jāgaraṇa*
 
 The three *puṇyakāryas* \(meritorious deeds\) that have to be mainly performed on the day of *Ekādaśī* as per the śāstraic customs are—
 
@@ -6733,7 +6750,7 @@ The three *puṇyakāryas* \(meritorious deeds\) that have to be mainly performe
 2. *Jāgaraṇa* and 
 3. worship of *Nārāyaṇa*. 
 
-एकादश्यामहोरात्रं कर्तव्यं भो जन त्रयम् ।   
+> एकादश्यामहोरात्रं कर्तव्यं भो जन त्रयम् ।   
 > दिवारात्रोपवासश्च जागरो विष्णुपूजनम् ॥ 
 
 The last one of the above i.e. the worship of god \(both internal and external\) should be specially done. Every person should do this to the best of his capacity. Among the three *tithis* viz., *Daśami*, *Ekādaśī* and *Dvādaśi* known as *Haridinas*, the middle one i.e. *Ekādaśī* is excellent for the worship of *Nārāyaṇa*. The inner spiritual centers related to Lord *Vishṇu* blossom naturally on that day. Just as a favourable wind helps a traveller, mother nature helps a *Sādhaka* to advance in the inward spiritual path. *‘Gāḷi Bandāga Tūriko’*, \(Rush your way when the wind blows favourably\) is a proverb in *Kannada*. On this analogy, one should utilize the facility provided by nature and worship god in a special way and should obtain the desired accomplishments. This indeed is the intention of the *Jnānis*.
@@ -6742,8 +6759,8 @@ And now about *Jāgaraṇa* during the night. Generally people work during the d
 
 This observance of *Jāgaraṇa* is prescribed only to worship God with full devotion which is said to be nine fold viz. *Śrāvaṇa*, *Kīrtana*, *smaraṇa*, *Pādapūja*, *Arcana*, *Vandana*, *Dāsya, Sakhya* and *Ātmanīvedana*. And it should be noted that *Jāgaraṇa* \(keeping oneself awake\) is not an end in itself. During *Jāgaraṇa* one is supposed to be engaged in activities which nourish a divine *Bhāva*. But some people, under the wrong impression that *puṇya* is obtained anyway by merely keeping themselves awake during that time, engage themselves in either sports/entertainments or quarrel mongering. This is unscriptural and even amounts to *Adharma*. By this, the desired auspicious attainment is lost and the accrual of the unwished shall follow. Those who cannot afford a total fast, should keep awake as long as possible and should achieve *Jāgaraṇa* spiritually. If for any reason/s *Jāgaraṇa* happens to cause impairment either to one’s health or meditation, it is better to resort to sleep.
 
-## ii\) Discussion on fasting—
-
+### Discussion on fasting—
+#### Literal meaning
 **\(1\) Literal meaning: —** Generally fasting means abstaining from food and drinks. Scriptures explain that abstaining from food and drinks externally, happens to be one of the external features connected with fasting.
 
 “यज्ञेन तपसा अनाशकेन \(बृ. उ. IV-4-22\)   
@@ -6786,7 +6803,7 @@ While praising the glory of *Śrīmadbhāgavatam,* the *Padmapurāṇa* says, �
 
 Some people deride “It is ludicrous to advise Indians to fast. Because most of the people have to generally fast due to lack of food. It amounts to cruetly to advise them to remain hungry as they can get only a small quantity of food some how.”—This is incorrect because if someone stays hungry due to lack of food, displeasure, ostentation etc., it can never be an *upavāsa* endorsed by the *śāstras*.
 
-## 2\) Who should not observe fast?
+#### Who should not observe fast?
 
 Those who feel weak mentally or those who happen to suffer from ill—health due to fasting, should not observe fast at all. Scriptures clearly state that it amounts to sin, if children below the age of eight years, old people above eighty, patients whose life span gets reduced because of fasting, and pregnant women observe fast. And if people whose body conditions get disturbed due to fasting and consequently tend to think only of food instead of focussing on God, they will not benefit by fasting.
 
@@ -6795,7 +6812,7 @@ The *śāstras* also say that going on fast for no reason amounts to an act of o
 > केवलं शास्त्रमाश्रित्य न कर्तव्यो विनिर्णयः ।   
 युक्तिहीने विचारे तु धर्महानिः प्रजायते”॥ 
 
-## 3\) What may be done by weak persons?
+#### What may be done by weak persons?
 
 What should weak persons do on the day of observance of religious fasting? Those who cannot afford to fast for the whole day, may observe a partial fast. They may eat during the day and fast at night or vice versa. Both are approved by the *śāstras*. This option pertaining to the observance of the relevant *vrata* may be followed by a person depending upon his physical and mental dispositions.
 
@@ -6814,7 +6831,7 @@ No need to explain that pompous *phalāhāras* like these are unscriptural. But,
 
 If one follows as per the advice of an *Acārya* who is a *Jnānavijnāna tṛptātma,* he shall obtain the grace of god. Medication leads to good health. As both of these happen to be the benefits and limbs of religious fasting, *śāstras* advise as said above.
 
-## 1. Rules that are helpful in fasting
+#### Rules that are helpful in fasting
 
 Those who observe fast should also observe strict *brahmacarya*. Their minds, words and deeds should be pure. It is best to observe total silence on that day. We wish to quote an instance where a person happened to cause the spread of an unsavoury effect by indulging in loose talk, without caring to follow a rule of this *vrata* called *Mouna*. \(silence\)
 
@@ -7143,7 +7160,7 @@ Then wasn’t *ŚrīRāma* an ideal human being? He was, and there is no doubt a
 
 Some may ask “What was the necessity of dilating the issue and discussing whether *Rāma* was a god-incarnation or a human, when the elaboration was pertaining to the festival of *Rāmanavamī.*?” The answer is, because this theory of incarnation may arise when the elaboration of the festivals like *Nṛsimha jayanti* and *Kṛshṇa Jayanti* are taken up. This also happens to be an important question related to an essential custom occurring in the tradition of the *Ṛshis*. So, if a satisfactory answer is found hereby, we feel that it may help in the assimilation of the points in that sphere, giving no room for any doubts when the discussion pertaining to other festivals is taken up in the coming chapters.
 
-## When should this festival be celebrated?
+### When should this festival be celebrated?
 
 In this background, the day on which it has to be celebrated, the modalities, finer aspects, benefits and such other matters may be taken up for discussion. Firstly let us take up the matter regarding the day on which *Rāmanavamī* should to be celebrated.
 
@@ -7562,7 +7579,7 @@ The *Upanishads* such as
 
 proclaim that *Paramātma* should be worshipped in the *Ādityamanḍala*. The *Gāyatrimantra Japa* which is done in the *Sandhyāvandana* performed three times a day, has the sun \(*Savitṛ*\) as its deity. Therefore it is natural that this festival is observed by all devotes as it is a festival of the Sun God who is both the *Upāsya devata* and *Upāsanā dvāradevata* and a dear deity for all.
 
-## The names of this *parva*:
+### The names of this *parva*:
 
 This is well-known as ‘*RathaSaptamī*’ and ‘*Acalā Saptamī*’ in the *śāstras*.
 
@@ -7578,7 +7595,7 @@ The name of the festival is ‘*RathaSaptamī*’ because the Sun God who is kno
 
 “The reason why this festival is called ‘*Acalā Saptamī*’ is, just as *Akshaya Tṛtīyā* gives endless benefits, this sacred *Saptamī* also gives permanent benefits” This is one explanation. Some people have explained that, as it is the *Saptamītithi* on which one has to take a bath very early in the morning in the holy water that will be still \(in rivers and ponds\), and happens to be undisturbed by any one, it is called ‘*Acalā Saptamī*’. of these two, the first explanation is more appropriate.
 
-## The day and time of the observation
+### The day and time of the observation
 
 The precept is that this *parva* should be observed on the *Saptamītithi of the śuklapaksha* of the month of *Māgha*. Some matters special to this, need to be discussed. What should then be the extent of *Saptamītithi* on that day? The answer is, it should be prevailing in the early morning. Bath should be taken at that time only.
 
@@ -7599,7 +7616,7 @@ Is *Rathasaptamī vrata* is a *nitya karma* or a *kamya karma*? It is both. As t
 
 It becomes a *Kāmyavrata* if it is observed with a desire for health, wealth etc.
 
-## Significance of the observance of *Rathasaptamī*
+### Significance of the observance of *Rathasaptamī*
 
 If this *vrata* is performed on the day of *Ratha Saptamī* after bath and other rituals in the right time, inexhaustible benefits will be obtained. The entire month of *Māgha* is auspicious for the early morning bath. But it should be done with faith and devotion. And it should be observed with understanding of the inner meaning of the *karma*. Only then will it become powerful.
 
@@ -7624,7 +7641,7 @@ The one who gifts a golden idol of *Sūryadeva,* placed in a chariot with horses
 
 ‘एवं विधं रथवरं रथवाजियुक्तं हैमं च हेमशतदीधितिना समेतम् । दद्याच्च माघसितसप्तमिवासरे यः सोऽसङ्गचक्रगतिरेव महीं भुनक्ति ॥
 
-## Modalities of observance
+### Modalities of observance
 
 The custom of taking a holy bath early in the morning on the day of *Rathasaptamī* in *Puṇyatīrthas*, and doing *mantrajapa* and performing worship of God is there in all the traditions. It is very auspicious to have an *Avagāhanasnāna* either in a sea or in lakes such as *Pushakara,* or in great rivers like *Gaṅgā* etc. The deity to be worshipped on that day is the Sun-God or *Nārāyaṇa* or *Śiva* who stay in the middle of the disk of the sun. All the precepts of the *parva* are related to Sun-God only. The special *vidhis* related to the observance of the festival may be summed up as follows:-
 
@@ -7705,7 +7722,8 @@ The ear ornament should be gifted reflecting upon the following *śloka:—* “
 
 If one cannot afford to worship *Sūryanārāyaṇa* in a golden idol, his \(reflected image\) in water may be worshipped. He may be worshipped in both ways too. It is auspicious to do *japa, pārāyaṇa of Sāvitrāshṭāksharamahāmantra, SūryaGāyatri, Aruṇamantra of Yajurveda, Mahāsauramantra* of *Ṛgveda, Saurasāma* and *Ādityahṛdaya* and others, which are dear to *Sūrya*. After this worship is completed, it is also excellent to have the *darśan* of the *Sūryamanḍalotsava* of the idol of God which has been brought in a procession from a temple, or even of the *Rathotsava*. We come across the custom of distributing sesame seeds mixed with condiments on the day of *RathaSaptamī* also as in *Saṅkrānti*, for obtaining peace.
 
-## Tradition and dos and don‘ts. \(in the format of questions and answers\)
+### Tradition
+Tradition and dos and don‘ts. \(in the format of questions and answers\)
 
 Question 1: - The first question arises regarding *Sūryadeva* himself, who happens to be the deity to be worshipped on that day. Why should *Sūrya* be worshipped? As the scientists know, it is just a physical object; it is a huge great globe containing very large amounts of helium gas and keeps burning by that. What is the benefit one gets by worshipping it?
 
@@ -7849,7 +7867,7 @@ It should be noted that during *Sūryapūja* also which is performed at the time
 
 *Subbarāyana Shashṭhī* is an important *Vrata* observed in the month of *Mārgaśira*. Though its scriptural name is *‘Skandashashṭhī’*, since the Lord is famously known by names such as *‘Skanda’*, *‘Shaṇmukha’*, *‘Kumāra’* etc, is called *‘Subrahmaṇyeśvara’* in tradition, the *vrata parva* of *Shashṭhī tithi* \(related to his special\) worship is called *‘Subbarāyana Shashṭhī’* in custom, where the word *Subbarāyana* is the kannada version of the Sanskrit word of *Subrahmaṇya Rāja.*
 
-## 1. When should this *Vrata* be observed?
+### 1. When should this *Vrata* be observed?
 
 This *Vrata* should observed on the *Shashṭhī* of the month of *Mārgaśira* in the *śuklapaksha*. If this *Shashṭhī* happens to be touched by the *Pañcamī* of the previous day, it is much superior.
 
@@ -7865,7 +7883,7 @@ The *Pañcamī* which precedes this *Subbarāyana Shashṭhī* is also a day of 
 > श्रीजुष्टः पामीं स्कन्दस्तस्माच्छ्रीपामी स्मृता ।  
 > षष्ठ्यां कृतार्थोभूद्यस्मात्तस्मात् षष्ठी महातिथिः ॥ \(वनपर्व 229\) 
 
-## 2. Who should observe this *parva?*
+### 2. Who should observe this *parva?*
 
 All those who are desirous of obtaining the exceptional grace of this great deity, who is called by names such as *Skanda, Shaṇmukha, Kumāra, Kārtikeya*, and *Subrahmaṇya*, may observe this festival. *Skanda* is the supreme deity who can grant all the four fold values of life. And also, this *Kumāra Kārtikeya* specially blesses \(devotees\) with *Brahma jnāna*, longevity of life, Good health, relief from great diseases like fits, leprosy etc., relief from the torments of *Bhūtas*, good fortune of progeny, prosperity, contentment, fame, victory against enemies and for *Skandāsalokya*.
 
@@ -7883,7 +7901,7 @@ Those for whom *Kumārasvāmi Subrahmaṇya* is the family deity or *Ishṭadeva
 > शैवं च वैष्णवं शाक्तं सौरं गाणापतं तथा ।  
 > स्कान्दं च भकिमार्गस्य दर्शनानि षडेव हि ॥ 
 
-## 3. How should this *parva* be observed?
+### 3. How should this *parva* be observed?
 
 As we have noted earlier, the tradition of worshipping *Subrahmaṇya* on both days i.e. on *SubrahmaṇyaShashṭhī* and the previous day is in vogue. He is worshipped in the form of *Nāga* also. He is also worshipped in the forms of *devatās* such as *brahmacāri Bāla Subrahmaṇya* and as a divine householder having six faces along with *Devī* and endowed with many weapons, such as *śakti, vajra, Aṅkuśa* etc. A treatise called *‘Śaivāgamaśekhara* depicts the seventeen types of the forms of the Lord as *jnānaśakti, Skanda, Agnijāta, Saurabheya, Gāṅgeya, Śaravaṇodbhava, Kārtikeya, Kumāra, Shaṇmukha, Tārakāri, Senāni, Guha, Brahmacārī, Deśika, Krauncabhedana, Śikhivāhana,* and *Velāyudha*. \(It is said that *Śrī Śankarabhagavatpāda* revived the six *darśanas* viz - *śaiva, Vaishṇava, śākta, Saura, Gāṇāpatya* and *skānda* as *Vaidikabhakti darśanas*.\)
 
@@ -8155,7 +8173,8 @@ Lord *Prajāpati* created the world at dawn on the first day of the *ŚuklaPaksh
 
 Let us consider the various names and their meanings associated with this *Parva*.
 
-## Various Names associated with the festival of *Ugādi* and their significance.
+### Names
+Various Names associated with the festival of *Ugādi* and their significance.
 
 In the Tamil country *Ugādi Parva* is called *Citra Vishu*. In North India it is called by the names *Samvatsarapratipadā, Navavarsha-pratipadā, Samvatsarārambha* etc., All these names are in accordance with the significance of this festival.
 
@@ -8295,7 +8314,8 @@ At this time of *vishuva*, even as the external sun moves on the signs of the zo
 
 The “confluence” and “similarity” stated above should not be construed as accidental happenings. It is the natural evenness of the unity of the inner and the outer, as per the law of nature. They should not be mistaken for mere poetic glamour symbolizing the inner merge. They are great truths, which can be experienced by sincere *Sādhakas*, when they are in a deep state of meditation. \(It may be remembered here that Śrī Raṅgamahāguru had proved through training, that this significance can be demonstrated to those who have the knowledge of Naḍī Vijnāna\) Thus, the extraordinary time stipulated by our great sages is the best suited time for meditation on the self and spiritual synthesis. This time is most suited for the worship of gods with *ādhidaivika samanvaya*. It is also the time endowed with nature’s beauty, conveniences and propriety etc. and has *ādhibhoutika samanvaya* and stands as a hand mirror to the wonderful *Kālavijnāna* of our sages, as this time is consistent with the accomplishment of all the *purushārthas* attainable in all the three spheres \(viz *Ādhyātmika, Ādhidaivika* and *Ādhibhautika*\), with the grace of god and human efforts.
 
-## The propriety of rituals and materials used \(for the worship\) and rituals.
+### Propriety of rituals and matireals
+The propriety of rituals and materials used \(for the worship\) and rituals.
 
 Now let us discuss the importance and propriety of the materials used, and the rituals performed during *Ugādi* festival.
 
@@ -8394,7 +8414,8 @@ At the same time, one should observe that there is a unique divine reason for pr
 
 Thus, all the things and rituals prescribed by *jnānis* for the *Ugādi* festival are full of meaning. We can note that they pervade all the areas of life and bestow upon the worshipper, *puṇya, purushārtha* and *paramārthas*.
 
-## A few important questions, answers and summation.
+### FAQ 
+A few important questions, answers and summation.
 
 A few questions that come up regarding the observation of this *Ugādi* will be answered now and the discussion will be concluded on this topic herewith.
 
@@ -8470,13 +8491,15 @@ With these discussions, we would like to conclude this chapter, acquainting the 
 *Upākarma* is one of the most important *parvas* which is observed in the month of *Śrāvaṇa*. This is a very important *parva* which is observed all over India. The people of North India say—“Four very important *parvas* are observed in our country. They are *sravanī-Upākarma*, *daśaharā* \(*Navarātra, Vijayadaśamī*,\) *dīvālī* \(*dīpāvalī*\) and *Holī*. Though these four are important for all, they are especially important to brahmins, *Kshatriyas, Vaishyas* and *śūdras* respectively”. *Karmas* are of three types. They are *kāmya, nitya* and *naimittika. Kāmya karmas* are the ones which are performed only if there is a desire for something; otherwise they need not be performed. *Nitya karmas* are obligatory deeds which have to be performed every day. And the *Naimittika Karmas* are the ones which should be performed compulsorily on some particular days which are significant because of the *Tithi*, star and the planetary position of the day etc. *Upākarma* belongs to the third category. It is a *parva karma* which should performed every year on a particular day. It is a commendable auspicious *karma* related to the study of the *vedas*. Some *Maharshis* consider this as one of the eighteen *Mahāsamskāras*.
 
 		
-## Names of Upākarma and the reason for using the term
+### Names
+Names of Upākarma and the reason for using the term
 
 This *parva* is called by many names in *Śāstras* such as *Upākarma*, *adhyāyopākarma, upākaraṇa, vedasvīkāra, vedārambhaṇa* etc., In North India it is known by the name *‘Śrāvaṇī’*, in Tamilnadu, it is called *‘Āvaṇi avittam’* In Karnataka it is called by the scriptural name *‘Upākarma’* by people who are knowledgeable in traditions. Common people call it *‘janivārada habba.’*
 
 As it is a sacrament of initiation for the study of *vedas* and their comprehension, the names *Upākarma*, *adhyāyopākarma, upākaraṇa, vedasvīkāra*, and *vedārambhaṇa* suit the *parva*. \(उपाक्रियते अनेन इति उपाकरणं. उप \+ आ \+ कृ \+ मनिन्\) The name *Śrāvaṇī* also suits it as it is an important festival in the month of *Śrāvaṇa*. As this is a festival which is observed by *Yajurvedis* on the day when the star *Śravishṭhā* occurs in the month of *Śrāvaṇa*, tamils call it *‘Āvaṇi-Avittam’* As the wearing of a new sacred thread \(*janivāra*\) is noticed by all, the custom of calling it. *‘janivārada habba’* by common people is in vogue.
 
-## *Adhikāris* \(Rightful claimants\) for *Upākarma* and rules of time for the observance
+### *Adhikāris* 
+\(Rightful claimants\) for *Upākarma* and rules of time for the observance
 
 This is a *parva* which should be observed by men who belong to all *Vedaśākhās* \(branches of the *vedas*\). All those who have undergone *upanayana samskāra* are qualified to observe this. Even those who are not qualified for *upanayana*, should worship God in a special way and meditate upon him on this day, which is dear to the *Veda Purusha* \(The God of the *Vedas*\).
 
@@ -8620,7 +8643,7 @@ Also, points like why *Upākarma* should be performed, what is the benefit from 
 
 The abovesaid benefit will not accrue to one who does not observe *Upkārma*.
 
-## *Upākarma - Utsarjana*
+## Utsarjana
 
 It is necessary to take note of another important observence regarding the study of *Vedas*. It is called ‘*Adhyāyotsarjana*’ or shortly *utsarjana*’.
 
@@ -8894,7 +8917,7 @@ This *Gāyatrī pūja* is an important *parva*. It is a *parva* related to the r
 	 
 ## Utthānadvādaśī
 
-## The importance of *Kārtikamāsa*
+### The importance of *Kārtikamāsa*
 
 The most famous festival in the month of *Kārtika* is *Utthānadvādaśī*.
 
@@ -8917,11 +8940,11 @@ There is also a custom of celebrating *dīpotsava* on *Kārtika Amāvāsya* in s
 
 *Kārtika śuddha dvādaśi* and *pūrṇima* also happen to be the holy *manvādis*. Thus, *utthāna dvādaśi* is the most renowned day in the month of *Kārtika* which again is excellent for *Sādhakās* of *Bhakti* and *jnāna*.
 
-## ii\) The Name
+### The Name
 
 This day is called *Utthānadvādaśī*, and the day previous to it is called *Prabodhinī* or *Devotthāpinī* \(in Hindi it is *Devaṭhan* or *Diṭhavan*\) *Ekādaśī*. *Utthāna* means getting up. Here it means waking up from sleep. This has come to be known as *Utthāna dvādaśī*, as it is the day on which Lord *Nārāyaṇa* quitting his sleep, shows the *Mudrā* of waking up to the devotees. *Prabodhana* means awakening. *Utthāpana* means waking up. The day on which devotees sing *Suprabhāta maṅgala* to the Lord and wake him up from sleep is *prabodhinī* or *Utthāpinī tithi*. This service of waking up is done on *Ekādaśī* by some, and on *dvādaśī* by some others. As it happens to be the day on which God gets up from his good sleep in the ocean of milk, it is also called *“Kshīrābdhivrata”*.
 
-## iii\) When should this *vrata* be celebrated?
+### When should this *vrata* be celebrated?
 
 *Pāraṇa* should be done as a part of the festival on the day of *Kārtikaśuddhadvādaśī* when there is no *yoga* of the star *Revatī*. If such a day is not available, at least the fourth *pāda* of *Revatī* should be given up.
 
@@ -9373,7 +9396,7 @@ This principle applies to Goddess *MahāLakshmī* as well.
 
 Our salutations in great reverence to the *yogapurusha* and his consort *yoga Lakshmī*, who unravelled the knot of our doubts by explaining the true meaning \(of *MahāLakshmī*\)
 
-## *Utsava* and *pūjāvidhi* :
+### *Utsava* and *pūjāvidhi* :
 
 So far we discussed in detail the divine form of *Varamahālakshmī*. Now we shall discuss the modalities of observing this festival.
 
@@ -9384,7 +9407,7 @@ Some staunch devotees observe fast till the evening on the day of the festival a
 
 In case the month of *śrāvaṇa* happens to be an *adhikamāsa* the festival should not be celebrated. The *Vrata* should be celebrated in the regular *śrāvaṇa* only.
 
-## *PūjāVidhi* \(Precepts of worship\)
+### *PūjāVidhi* \(Precepts of worship\)
 
 Those who have fealty to the *vrata* should invoke the *Devi* in a holy *kalaśa* or in an idol with proper *saṅkalpa* and worship her. According to the procedures set by *bhavishyottara purāṇa*, devotees along with their family members should do *saṅkalpa* praying for long life, good health, progeny, wealth, safety, steadfastness, success, and all other auspicious things, and offer *shoḍaśopacāras* like *Dhyāna* etc. to *Śrīmāta*. In this *Mahāpūja* after the *Kalaśa pūja* and *pīṭha pūja*, a *tantupuñja* \(heap of threads\) made of brand new golden coloured threads numbering twelve and having twelve knots should be installed and the goddess is to be invoked in the heap and worshipped. Goddess can also be invoked in the idol of *Śrīdevi*, and/or in a *pūrṇakumbha*, bedecked with sandal paste, flowers and tender leaves, or in a pot which is filled with unbroken rice or wheat grains. There is also a custom of invoking the Goddess in one or two of the above three arrangements. Then the *aṅgapūja* \(worship to the parts of the idol\), *pushpa pūjā* \(worship with flowers\), and the worship with leaves should be offered to her with the recitation of the names of *Ramā, MahāLakshmī* etc. ending with *Namah*, or, *ashṭottara pūja* should offered with the recitation of the names *Prakriti* etc. ending in *Namah* And *pūja* should be offered to the Goddess invoked in the *tantupuñja* with the twelve recitations beginning with name *Ramā* and ending in the salutary word *Namah*. Devotees who can afford, may prepare a sweet dish called *Sajjappa* and offer it to the Goddess as a special *naivedya*.
 
@@ -9417,7 +9440,8 @@ The number of flour cakes to be offered to *devī* are twelve. After offering th
 
 Among the vedic hymns chanted in this *pūja*, *Śrīsūkta* is the most important vedic hymn. The hymns of this *sūkta* are chanted in all of the important *upacāras*. A special *pūja* for the Goddess is offered in the evening.
 
-## An analysis of the *pūjāvidhi* \(precepts of worship\)
+#### Analysis
+An analysis of the *pūjāvidhi* \(precepts of worship\)
 
 When we look at the modalities of the *Varamahālakshmī pūja*, we find that some of the aspects of the *pūja* need explanation.
 
