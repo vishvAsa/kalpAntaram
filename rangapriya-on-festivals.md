@@ -401,9 +401,9 @@ It is stated that this *parva* should be observed on *Vaiśākha śukla tṛtīy
 
 The *tṛtīyā tithi* should extend from sunrise to midday on that day.
 
-“﻿सा च पूर्वाह्‌णव्यापिनी ग्राह्या” It is possible that the *tṛtiyātithi* may be touching the *caturthī*. *“Gaurīvināyakopetā”*, But if the duration of the *tithi* is less than six *ghatikās* on the next day, the *Vrata-parvas* should be celebrated on the previous day itself. If it extends beyond six *ghatikās,* the *parva* should be celebrated the next day.
+“सा च पूर्वाह्‌णव्यापिनी ग्राह्या” It is possible that the *tṛtiyātithi* may be touching the *caturthī*. *“Gaurīvināyakopetā”*, But if the duration of the *tithi* is less than six *ghatikās* on the next day, the *Vrata-parvas* should be celebrated on the previous day itself. If it extends beyond six *ghatikās,* the *parva* should be celebrated the next day.
 
-“﻿त्रिमुहूर्ताधिकव्याप्तिसत्त्वे परा, त्रिमुहूर्तन्यूनत्वे पूर्वा” \(*Dharma Sindhu*\) If that day happens to be a Wednesday \(or Monday\) and if it has the conjunction with star *Rohiṇi*, it is very commendable. But, just for the sake of that conjunction, the *parva* should not be observed the previous day. \[i.e. even if such a conjunction occurs on the previous day, the *parva* should not be observed\] which means, this *Vrata* should not be observed when *Dvitīyā* and *Tṛtīyā* occur on the same day. Just as the pervasion of *Tṛtīya* in the *purvāhṇa* is prescribed, the prohibition of the observance on the day when *Tṛtīyā* has pervasion in the afternoon, is also done clearly.
+“त्रिमुहूर्ताधिकव्याप्तिसत्त्वे परा, त्रिमुहूर्तन्यूनत्वे पूर्वा” \(*Dharma Sindhu*\) If that day happens to be a Wednesday \(or Monday\) and if it has the conjunction with star *Rohiṇi*, it is very commendable. But, just for the sake of that conjunction, the *parva* should not be observed the previous day. \[i.e. even if such a conjunction occurs on the previous day, the *parva* should not be observed\] which means, this *Vrata* should not be observed when *Dvitīyā* and *Tṛtīyā* occur on the same day. Just as the pervasion of *Tṛtīya* in the *purvāhṇa* is prescribed, the prohibition of the observance on the day when *Tṛtīyā* has pervasion in the afternoon, is also done clearly.
 
 > पूर्वाह्‌णे तु सदा कार्याः शुक्ले मनुयुगादयः ।  
 > दैव्ये कर्मणि पित्र्ये च कृष्णे चैवापराह्‌णिकाः ॥  
@@ -440,7 +440,7 @@ Further, *Meshasaṅkramaṇa*, the most auspicious time of *Vishuvat* comes in 
 > नन्दा भद्रा जया रिक्ता पूर्णाःस्युः तिथयः पुनः ।  
 > पर्यायत्वेन विज्ञेयाः ॥\(पीयूषधारा = नारद वचन\) 
 
-“﻿उदकुम्भान् सकनकान् सान्नान् सर्वरसैः सह ।  
+“उदकुम्भान् सकनकान् सान्नान् सर्वरसैः सह ।  
 “यवगोधूमचणकान् सक्तु दध्योदनं तथा ॥\(निर्णय सिन्धु\) 
 
 The name *Jayā* indicates that it is the precious time for success, ie the securing of the accomplishment of the endeavours taken up with auspicious intentions.
@@ -927,7 +927,7 @@ This term *Ananta* also refers to the the great Lord *Ādinārāyaṇa* who is a
 
 “अनन्तवीर्यामृतविक्रमस्त्वम्”
 
-“﻿अनन्त”is the name in short of that *Nārāyaṇa* the Lord of Lords, who is called *Anantaśayana* as he has made *Anantanāga* his couch, and is also called *Anantapadmanābha,* as he has the navel which is the origin of *Brahma*.
+“अनन्त”is the name in short of that *Nārāyaṇa* the Lord of Lords, who is called *Anantaśayana* as he has made *Anantanāga* his couch, and is also called *Anantapadmanābha,* as he has the navel which is the origin of *Brahma*.
 
 There are three types among the idols of *Nārāyaṇa* who rests on *Anantanāga*. The first one is *Raṅganātha*. He has only two arms. He has no weapons in his hands. He has neither the lotus projecting out of his navel nor Lord *Brahma* on it. The Lord is in the posture of deep sleep placing one of this arms as a pillow. This idol can be seen in *ŚriRaṅgam, Śriraṅgapattaṇam. Śivanasamudra, Raṅgasthala* and some other places.
 
@@ -1051,13 +1051,13 @@ The last part of the *Vrata* is *upāyana dāna*. \(The *Kalaśa* of *Āvāhana*
 
 The hymn *“Devasyatvā”* should be chanted while offering the *dāna,* and also during the *Pratigraha*. *Pūjā* should be performed again. And *Anusandhāna* should to be done with the wish that Lord *Anantapadmanābha* may become pleased, graceful and may grant boons.
 
-“﻿अनया पूजया भगवान् सर्वात्मकः अनन्तपद्मनाभः सुप्रीतः सुप्रसन्नो वरदो भवतु”
+“अनया पूजया भगवान् सर्वात्मकः अनन्तपद्मनाभः सुप्रीतः सुप्रसन्नो वरदो भवतु”
 
 The story of *AnantaVrata* should be listened to, after the worship.
 
 An important point to be taken note of regarding *Ananta Vrata* is that the number fourteen is significant in this *Vrata*. The day of his *vrata* is *Caturdaśī*. The number of knots in the threads that are tied to the hand in his worship is fourteen. The number of deities in the *Āvaraṇapūja* is fourteen. The number of leaves, flowers and items for *Naivedya* are all fourteen. *Udyāpana* is also after fourteen years. This unique number is symbolic of the fact that the entire universe consisting of the fourteen worlds is under his unabridged reign. *Ādiśesha* who happens to be his couch is *Ananta*. He \(i.e. *Ādiśesha*\) is adored with infinite qualities and endowed with endless power and is totally *Śeshabhūta* to *Anantapadmanābha*. Remaining in close proximity to him, he happens to be the foremost recipient of his *Śeshaprasāda*.
 
-***“Garuḍa* and serpants are enemies by birth. But in the vicinity of *Ananthapadmanābha,* both are friendly and are completely at his service. *Garuḍa* is not gandering at his wings and *Śeshanāga* is not worried about his hoods. Because, the gazes of both of them are fixed at *Nārāyaṇa* who is the eternally blissful Lord.”—These were the words of *Śrī Gurudeva* pertaining to this.** *Kālidāsa* also describes this as “﻿मुक्तशेषविरोधेन”. \(“The one who has not an iota of enemity with *Ādiśesha*”\) *Nāgasarpas* are of different colours and kinds. But this *Nāgarāja Ādiśesha* is pure white in complexion, as described by the *aḷvārs* who were greatest devotees. “Vellattaravil tuyil amarndavittinai”. He is of pure bright white colors is of pure bright white colors is full of pure *Sattvaguṇa*, and not a smidgen of *rajas* and *tamas* is found in him. This *Anantanāgarāja* has one thousand hoods.
+***“Garuḍa* and serpants are enemies by birth. But in the vicinity of *Ananthapadmanābha,* both are friendly and are completely at his service. *Garuḍa* is not gandering at his wings and *Śeshanāga* is not worried about his hoods. Because, the gazes of both of them are fixed at *Nārāyaṇa* who is the eternally blissful Lord.”—These were the words of *Śrī Gurudeva* pertaining to this.** *Kālidāsa* also describes this as “मुक्तशेषविरोधेन”. \(“The one who has not an iota of enemity with *Ādiśesha*”\) *Nāgasarpas* are of different colours and kinds. But this *Nāgarāja Ādiśesha* is pure white in complexion, as described by the *aḷvārs* who were greatest devotees. “Vellattaravil tuyil amarndavittinai”. He is of pure bright white colors is of pure bright white colors is full of pure *Sattvaguṇa*, and not a smidgen of *rajas* and *tamas* is found in him. This *Anantanāgarāja* has one thousand hoods.
 
 The *purāṇas* say that this entire earth is perched on one of his thousand hoods, like a mustard grain. In the images and pictures in temples, he is seen with five or seven hoods. Which is this strange \(imaginary\) serpent?
 
@@ -1180,7 +1180,7 @@ Among vegetables, the most prohibited is brinjal. That is why the saying *“pur
 
 It is best to consume only *havishyānna* in all these four months. Sins get redeemed by this and it facilities restraint and *dhyānayoga*.
 
-“﻿चतुर्ष्वपीह मासेषु हविष्याशी न पापभाक् \(विष्णुधर्मोत्तर\)”
+“चतुर्ष्वपीह मासेषु हविष्याशी न पापभाक् \(विष्णुधर्मोत्तर\)”
 
 At the end of the *vrata, śrotriyas* should be invited and they should be informed of the *vrata* that has been taken up. They should be fed well and offere *Dakshiṇā*. They should be gifted with cow, land, gold and clothes etc. To the extent possible, it is better to make *Godāna*, *Vastradāna*, *Śayyādāna*, *Vastradāna*, go*dāna* and *Suvarṇamūrtidāna* to couples, corresponding to the *vratas* observed by the devotee viz., eating once a day, eating only in the night, sleeping on the ground, giving up of vegetables, giving up of curds, liquor and ghee, and the observance of *brahmacaryā*.
 
@@ -1444,7 +1444,7 @@ is filled with the supreme soul “सत्तामात्रं निर�
 
 Question 3-Why is it laid down that *Ākāśadīpas* should be lit in the month of *Dīpāvaḷi*?
 
-Answer:- This \(practice\) is also one which serves the purpose of proclaiming the glory of *Paramātmadīp*a said above. The *śāstras* say that the sky lamps should be lit on the \(top of\) pillars, to represent or symbolize God who shines in the *jnānākāśa, daharākāśa* and *Hṛdayacidambara*. “Since the lamp post which bears the lamp is the human body itself, the pillars also should be of the size of a man”, say the *śāstras*. The above said concept is made clear by the rules such as “The niche in the pillar where the lamp is lit should have eight petals. The light of the lamps should emanate through eight openings. At the centre, at the point of *Karṇikāsthāna*, the central lamp should be placed,” The eight petals of the heart lotus \(eight spokes of the *anāhata* wheel and the form of God to be meditated upon at its *Karṇikāsthāna* are well known in the *yogaśāstra*. It is indeed Lord *Nārāyaṇa*, the supreme soul and the killer of *Narakāsura* that should be specially meditated upon and worshipped with the *‘ashṭaksharmantra’* endowed with eight petals on *naraka caturdaśī* \(Each letter of this *mantra* is related to each petal\) “﻿ध्यायन्ति ये विष्णुमनन्तमव्ययं हृत्पद्ममध्ये सततं व्यवस्थितम्”
+Answer:- This \(practice\) is also one which serves the purpose of proclaiming the glory of *Paramātmadīp*a said above. The *śāstras* say that the sky lamps should be lit on the \(top of\) pillars, to represent or symbolize God who shines in the *jnānākāśa, daharākāśa* and *Hṛdayacidambara*. “Since the lamp post which bears the lamp is the human body itself, the pillars also should be of the size of a man”, say the *śāstras*. The above said concept is made clear by the rules such as “The niche in the pillar where the lamp is lit should have eight petals. The light of the lamps should emanate through eight openings. At the centre, at the point of *Karṇikāsthāna*, the central lamp should be placed,” The eight petals of the heart lotus \(eight spokes of the *anāhata* wheel and the form of God to be meditated upon at its *Karṇikāsthāna* are well known in the *yogaśāstra*. It is indeed Lord *Nārāyaṇa*, the supreme soul and the killer of *Narakāsura* that should be specially meditated upon and worshipped with the *‘ashṭaksharmantra’* endowed with eight petals on *naraka caturdaśī* \(Each letter of this *mantra* is related to each petal\) “ध्यायन्ति ये विष्णुमनन्तमव्ययं हृत्पद्ममध्ये सततं व्यवस्थितम्”
 
 Question 4-Is the lighted lamp dear only to supreme deities like *Vishṇu* and *Śiva*?
 
@@ -2168,7 +2168,7 @@ During *udvāsana* the idol of god is moved a little to the right, with the abov
 The *Devatāsānnidhya* gets withdrawn from it after the final *Udvāsana* is done with the hymn
 
 > अभ्यारमिदद्रयो निषिक्तं पुष्करेमधु ।  
-अव तस्य विसर्जने ॥﻿ॠग्वेद 8-7-11 
+अव तस्य विसर्जने ॥ ॠग्वेद 8-7-11 
 
 This \(explanation\) happens to be the answer to the question raised above, regarding the offering of worship once again before letting off of the idol in the reservoir, which \(i.e. the worship\) is indeed appropriate.
 
@@ -2279,13 +2279,13 @@ This question may sound childish to those who worship Gods, and to those who hav
 		
 We see that she is referred to as *Nārāyaṇa’s* sister, just as she is called the wife of *Śiva*.
 
-“﻿नारायणानुजा देवी वैष्णवी विजयाम्बिका” 
+“नारायणानुजा देवी वैष्णवी विजयाम्बिका” 
 
 We see pictures and sculptures where *Vishṇu* is depicted as celebrating the wedding of his sister *Gaurī* with *Śiva* \(known as\) *Sundareśvara*.
 
 There is also an opinion that *Gaurī* is the mother of all the worlds and is served by both *Sarasvatī* and *Lakshmī*.
 
-“﻿वन्दे मातरमम्बिकां भगवतीं वाणीरमासेविताम्” 
+“वन्दे मातरमम्बिकां भगवतीं वाणीरमासेविताम्” 
 
 Contrary to this, we can see that she is described as the daughter-in-law of *Brahma* the son of *Vishṇu*, and as a slave of *Mahālakshmī*, and also her devotee. And that she is the wife of *Śiva* and got her power by a small grace of *Mahālakshmī*.
 
@@ -2555,19 +2555,19 @@ Would Lord *ŚrīRāma* who ordered *Hanumān* to remain in the physical world f
 
 “सदा रामरामेति रामामृतं ते । सदा रामनामानन्दनिष्यन्दकन्दम् । पिबन्तं नमन्तं सुदन्तं हसन्तम् । हनूमन्तमन्तर्भजे तं नितान्तम्” he sees the whole world pervaded by *Rāma* and so, there can be no cause for boredom for him, who is always immersed in the bliss of *Rāmadhyāna*.
 
-“﻿ततो न विजुगुप्सते” It is sufficient to say that to *Hanumān*, who is the supreme among the *Siddhas*, the most magnificent among the servants of *Rāma* devoted to the execution of the work of his master, and a preeminent *jnāni* who always experiences the divine bliss, long life will not be a cause of disgust. This is the essence of his long life.
+“ततो न विजुगुप्सते” It is sufficient to say that to *Hanumān*, who is the supreme among the *Siddhas*, the most magnificent among the servants of *Rāma* devoted to the execution of the work of his master, and a preeminent *jnāni* who always experiences the divine bliss, long life will not be a cause of disgust. This is the essence of his long life.
 
 Some *śāstras* say that *Āñjaneya* is the son of *Prāṇadeva*. Also we come across references in some *śāstras* that state he was born from the *amśa* of *Rudra deva*. We see that his devotees praise him with the words *“Roma romagaḷalli Koti Koti shivalingagaḷa Udbhavavannu hondiruva Mahāmahima”* \(He is great soul with manifestation of crores and crores of *Śivaliṅgas* in the innumerable hairs of his body\) When such is the case, some may question.—“Which god’s *amśa* is he? Is he a strange offspring born to two fathers.?” We should not perceive the relationships of husband and wife and father and son of the deities and mysticisms associated with them, on par with similar relationships seen in the external world. There won’t be any room for misgivings if it taken in the sense which is *tattvasammata* \(i.e. agreeing principlewise\), that he is a manifested deity of great *mahimā* \(divine power\) endowed with the strength and nature of both the deities viz *prāṇa* and *Rudra*. Some may deride saying that he is a whoreson born to *Vāyu* in *Añjana* the wife of the monkey warrior *Kesarī*. “Why should the well born worship him?”—they may ask. Such people should take note of the abovesaid principle. In fact, all men and women are being touched by many deities who abound both inside the body and outside, and so, all creatures are nothing but misbegottens only. It should be construed that it is sheer mischief to compare an event which was effected because of an extraordinary divine grace, with wordly lecherousness. The impurities associated with the mind \(and body\) of human beings do not apply to divinities. Same rules should not be applied to both.
 
 Some say cleverly - “In the *Ṛgveda*, God *Vāyu* is the friend of *Indra* \(*Indra* is also called *Hari*\). In course time, the preeminence of *Indra* faded and his prominence came to his younger brother *Upendra*, who is none other than *Vishṇu*. So *Vāyu* came to be honoured as a friend of *Vishṇu*. So, *Vāyu* and *Prāṇa* are different.” But *Vāyu* is the evolution of the \(life force\) *prāṇa* of the *paramapurusha”*. These critics should note the Ṛgvedic hymn “प्राणाद्वायुरजायत.” *Vāyu* is a friend *Indra* and he is both a friend and a servant of *Vishṇu*. They should take note of the statements of the *Srutis* also viz.
 
-“﻿वाताद्विष्णोर्बलमाहुः प्राणशरीरो भूरूपः”, “सप्तप्राणाः प्रभवन्ति”
+“वाताद्विष्णोर्बलमाहुः प्राणशरीरो भूरूपः”, “सप्तप्राणाः प्रभवन्ति”
 
 *Paramātma* is the master life force and the spirit of even the *prāṇa*. And \(the fact\) that *Hanumān* a form of *Prāṇa* is the *śesha* of *HIM*, is quite in accordance with the vedic principles.
 
 Scriptural evidences may be there to say that *Hanumān* is *Prāṇatattva*. They can be substantiated by reason also. But a question arises whether it is possible to visualize that *Prāṇatattva* in the attributed and the embodied form viz. *Hanumān*, or whether all this is simply a figment of imagination. Let us be rest assured that the sages themselves who have visualized him in the abovesaid form, have provided us the picture of *Hanumān*.
 
-“﻿ततः पश्यति धर्मात्मा तत्सर्वं योगमास्थितः”, “तत्सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महाद्युतिः”
+“ततः पश्यति धर्मात्मा तत्सर्वं योगमास्थितः”, “तत्सर्वं तत्त्वतो दृष्ट्वा धर्मेण स महाद्युतिः”
 
 We too can see him in the same way if we acquire the *śuddha dṛshṭi* and *satyadṛshṭi* of those *Maharshis*. These words are not utterances of lunatics, or a propaganda of propagandists or poetic fancies or fanciful imaginations. But a universal truth which can be experienced by all cultured and refined people.
 
@@ -2690,7 +2690,7 @@ Thus when with these things, which have great curative properties materially spe
 
 2. Likewise the combination of Bengal gram and jaggery is an item which is highly recommended as a special *naivedya* to Lord *Hanumān*, is one which can bring about great benefits, in the wordly sense also.
 
-“﻿चणकः शीतलो रूक्षः पित्तरक्तकफापहः । लघुः कषायो विष्टम्भी वातलो ज्वरनाशनः ॥
+“चणकः शीतलो रूक्षः पित्तरक्तकफापहः । लघुः कषायो विष्टम्भी वातलो ज्वरनाशनः ॥
 
 says *Bhāvaprakāśa*
 
@@ -2948,7 +2948,7 @@ Those who understand the meaning of the phonemes of the word \(*śabda*\) *Guru*
 > ब्रह्मण्युपरतश्शान्तः निरिन्धन इवानलः ।   
 > अविद्याहृदयग्रैन्थिबन्धमोक्षो भवेद्यतः।   
 > तमेव गुरुरित्याहुः गुरुशब्दार्थवेदिनः॥   
-“﻿आचार्यादिह देवतां समधिकामन्यां न मन्यामहे 
+“आचार्यादिह देवतां समधिकामन्यां न मन्यामहे 
 
 \(We do not know any God other than the *Guru*\). *Guru* is *Brahma, Vishṇu, Śiva* embodiment. *Guru* is the very Supreme Being \(*parabrahma*\) perceived by the external eyes. Even if God gets angry \[at the student\] *Guru* pacifies God and protects the disciple. If *Guru* gets angry then no one can protect the disciple.
 
@@ -3032,7 +3032,7 @@ Do the birthday of the realized masters are beneficially influence every one? or
 
 *Śrī KṛshṇaJayantī* or *Janmāshṭamī* is a very important festival, which comes in the month of *srāvaṇa*. People call it by different names such as *Gokulāshṭamī*, *Jayantī*, *Śrī Jayantī* etc. It is a great festival observed all over India with joy and devotion. It is a very popular, sacred and very auspicious *parva* which is observed by people belonging to all *varṇas*, *āśramas* and classes. *Śrī Kṛshṇa* is the deity worshipped specially on that day. In this background it is necessary to know a little about the reigning deity of this festival.
 
-“Who is this *Kṛshṇa*? Why should we worship him? Some may ask. “Don’t we know *Kṛshṇa*? He is *Paramātma* himself. Don’t the *Sādhus* and saints call him by the name *KṛshṇaParamātma*? He is the ninth *avatāra* of Lord *Nārāyaṇa*. His *avatāra* is the nearest of all the *avatāras* to us. It is the best and the most dear of all the incarnations. Though he is considered an *avatāra*, he is the Lord Himself “﻿कृष्णस्तु भगवान् स्वयम्” “ईश्वरः परमः कृष्णः” More than being termed a mere *avatāra*, he is known as the *Sadānanda Parañjyoti* who incarnated in ten forms such as *Matsya*, *Kūrma* etc and praised as the *Ādipurusha*, *Parabrahma* and *Purushottama* by his devotees.
+“Who is this *Kṛshṇa*? Why should we worship him? Some may ask. “Don’t we know *Kṛshṇa*? He is *Paramātma* himself. Don’t the *Sādhus* and saints call him by the name *KṛshṇaParamātma*? He is the ninth *avatāra* of Lord *Nārāyaṇa*. His *avatāra* is the nearest of all the *avatāras* to us. It is the best and the most dear of all the incarnations. Though he is considered an *avatāra*, he is the Lord Himself “कृष्णस्तु भगवान् स्वयम्” “ईश्वरः परमः कृष्णः” More than being termed a mere *avatāra*, he is known as the *Sadānanda Parañjyoti* who incarnated in ten forms such as *Matsya*, *Kūrma* etc and praised as the *Ādipurusha*, *Parabrahma* and *Purushottama* by his devotees.
 
 “दशाकृतिकृते कृष्णाय तुभ्यं नमः” Is he not the Lord who is heartfully praised in *Śṛutis, Smṛtis, Itihāsas, Purāṇas, Kāvyas* and *Prabandhas* by *Maharshis, Mahābhāgavata Ālvārs, ācāryas*, great *dāsas*, poets and *Kīrtanakārās*? He is not a mere god but is the God of all gods.
 
@@ -3179,7 +3179,7 @@ Once, a *jijnāsu* came to ***Mahaguru ŚrīRanga*** and asked him a question. *
 
 In the present case, *ŚrīKṛshṇa* is extremely rich. He possesses boundless wealth of divine knowledge. Poor *Arjuna* begged him saying “Preach me *Jnāna.* Bless me with wisdom.” Had *ŚrīKṛshṇa* told him—“What *Jnāna* do I know? I am also a layman like you”, he too would make a great fool of himself like that rich man. *Arjuna* would also be disappointed. But *Bhagavān ŚrīKṛshṇa* said “I do possess complete spiritual wealth. Take refuge in me. You will be lifted up.” As *Kṛshṇa* spoke the truth directly, *Arjuna* became a *Kṛtakṛtya* \(blessed\). If truth is declared at the right time, it does not amount to arrogance. Then, why is it that *jnānis* preach to give up *Ahaṅkāra*?
 
-“﻿\(अहरहर्गर्वः परित्यज्यतां\)” The thing is, one has to give up the *Ahaṅkāra* caused by *Dehātmabuddhi* \(materialistc mindset\). One has to give up egotism while talking, which is caused by mistaking the body and senses for *‘Aham’*, paying no regard for the caitanya which is the real *Aham”* This is the purport of the preaching of the *Jnanis*.
+“\(अहरहर्गर्वः परित्यज्यतां\)” The thing is, one has to give up the *Ahaṅkāra* caused by *Dehātmabuddhi* \(materialistc mindset\). One has to give up egotism while talking, which is caused by mistaking the body and senses for *‘Aham’*, paying no regard for the caitanya which is the real *Aham”* This is the purport of the preaching of the *Jnanis*.
 
 When viewed in this light, the immoolesty of insolence of accusing *Kṛshṇa* as *Ahaṅkāri* and advocating the same will vanish from us.
 
@@ -3361,7 +3361,7 @@ So, which is proper? To observe the *Vrata* on the days when *tithi* and *naksha
 
 d\) *Śāstras* say that if *Janmāshṭamī* and *ŚrīJayanti* happen to fall on Mondays and Wednesdays, it is most auspicious.
 
-“﻿बुधसोमसमायुक्ता जयन्ती यदि लभ्यते न कुर्यात् गर्भवासं च तत्र कृत्वा व्रतं व्रती” “अष्टमी बुधवारेण किं कृता व्रतकोटिभिः” “अष्टमी बुधवारे च सोमे चैव द्विजोत्तम । रोहिणी ऋक्षसंयुक्ता कुलकोटि विमुक्तिदा॥”
+“बुधसोमसमायुक्ता जयन्ती यदि लभ्यते न कुर्यात् गर्भवासं च तत्र कृत्वा व्रतं व्रती” “अष्टमी बुधवारेण किं कृता व्रतकोटिभिः” “अष्टमी बुधवारे च सोमे चैव द्विजोत्तम । रोहिणी ऋक्षसंयुक्ता कुलकोटि विमुक्तिदा॥”
 
 Why are Mondays and Wednesdays preferred for the observance of *ŚrīKṛshṇa’s* birthday? Some say—*“Śrī Kṛshṇa* belongs to the *candravamsa*. Therefore Monday is best for *ŚrīKṛshṇa Pūja*. *Budha* is the son of *Soma* and therefore *Budhavāra* is also auspicious for *ŚrīKṛshṇa Janmotsava Pūja*.” But it is not correct. Because, *ŚrīRāma* doesn’t belong to *Candravamśa*. But those very two days are stated as highly precious by the *śāstras* for *Śrī Rāmanavamī* also, which we have to note. **We wish to quote here the answers bestowed by *ŚrīRaṅgaMahāguru*, which happen to be the ones accomplished by the experience of the *Yogis.* He said—“On Mondays and Wednesdays, the natural dispositions will be helpful for the *Sakshātkāra* of *ŚrīRāma* and *ŚrīKṛshṇa*. The centers pertaining to *ŚrīRāma* and *ŚrīKṛshṇa* blosoom in us on that day, by the grace of nature.”**
 
@@ -3640,7 +3640,7 @@ Just as *devatās* are pleased with worship during this period of time, the *pit
 
 3\) There is no doubt in the fact that the new year would start from *Mārgaśirshā* itself, which is evident from the words
 
-“आदाय मार्गशीर्षादि द्वौ द्वौ मासौ ऋतुर्मतः” \(कात्यायन\) “﻿मार्गादीनां युगैः क्रमात्” \(*amarakosha*\),—as quoted by elders.
+“आदाय मार्गशीर्षादि द्वौ द्वौ मासौ ऋतुर्मतः” \(कात्यायन\) “मार्गादीनां युगैः क्रमात्” \(*amarakosha*\),—as quoted by elders.
 
 3\) The *Pūrṇimā* of this month during which the star *‘mṛgaśīrsha’* which is called the *yajnaśiras* is near the full moon, is indeed most auspicious for the worship of *Nārāyaṇa Parañjyoti* who is *Yajnarūpi* and the dispenser of the fruits of *Yajnas*.
 
@@ -3776,7 +3776,7 @@ The *Garuḍa Purāṇa* proclaims that if one observes fast and keeps vigil dur
 
 > माघफाल्गुणयोर्मध्ये कृष्णा या तु चतुर्दशी ।   
 > तस्यां जागरणाद्रुद्रः पूजितो भुक्तिमुक्तिदः ॥   
-> उपोषितैः पूजितस्सन्नरकात्तारयेत्तथा” \(गरुड पुराण﻿ I-124\) 
+> उपोषितैः पूजितस्सन्नरकात्तारयेत्तथा” \(गरुड पुराण  I-124\) 
 
 “It removes all sins. One who observes fast and keeps vigil through the night and worships *Śiva* with the leaves of *bilva* in all the four *yāmas* of the night will become equal to *Śiva* himself”.
 
@@ -4015,7 +4015,7 @@ Why should we discuss *Śiva* here? All these i.e. his form, natural state, attr
 
 Some may even think “He is *Mahādeva*, *Maheśvara*, and Lord of all the *Kshetra* and *Kshetrajnas*. He is the Lord who is the respository of knowledge, power, wealth, valour, strength and effulgence. He has both frightful and benign forms and attributes. He is *Rudradeva* the destroyer; At the same time, He is a merciful God who protects his devotees and grants them their desires soon, and the one who is instantaneously pleased, very pleasant, has a benign form, and especially a great teacher of the universe who bestows knowledge. Being the most auspicious in form, acts and mind etc., he is also the true form of auspiciousness even to *Gaurīdevī* who is *sarvamaṅagalā.* He shines with the appropriate name *‘Śiva’*.
 
-“तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्” “नमश्शिवाय च” “﻿शिवतराय च” “नमश्शङ्कराय च मयस्कराय च” “या ते रुद्र शिवा” “﻿तनूरघोराऽपापकाशिनी” “आद्यं पुरुषमीशानं पुरुहूतं पुरुष्टुतम्” “कल्याणगुणधाम्नेऽस्तु शिवाय विहिता नतिः” “ज्ञानं महेश्वरादिच्छेत्” “प्रधानपुरुषेशाय सर्गस्थित्यन्तहेतवे” “स हि देवः परञ्ज्योतिः तमसः परमुच्यते”﻿
+“तमीश्वराणां परमं महेश्वरं तं देवतानां परमं च दैवतम्” “नमश्शिवाय च” “शिवतराय च” “नमश्शङ्कराय च मयस्कराय च” “या ते रुद्र शिवा” “तनूरघोराऽपापकाशिनी” “आद्यं पुरुषमीशानं पुरुहूतं पुरुष्टुतम्” “कल्याणगुणधाम्नेऽस्तु शिवाय विहिता नतिः” “ज्ञानं महेश्वरादिच्छेत्” “प्रधानपुरुषेशाय सर्गस्थित्यन्तहेतवे” “स हि देवः परञ्ज्योतिः तमसः परमुच्यते” 
 
 Divine statements such as these and the divine experiences of great *yogis* openly proclaim this opinion. The tradition of worshipping Lord *Śiva* on *Śivarātri* with devotion, faith and trust is also there in our country. “Why then the necessity of any discussion about him?”-Some may ask.
 
@@ -4536,7 +4536,7 @@ A *brahmajnāni* is assured of *moksha* even if he dies in *dakshiṇāyana*. On
 
 No mention has been made here with regard to people who are nearing death, about the distinct time in which they should die. It is only stated that *Yoganishṭhas* should remember these *devayāna* and *pitṛyāna paths*. As a part of *yoga* they should remember these two paths. By doing so, they will be freed from *moha*.
 
-In “﻿यत्र काले त्वनावृत्तिम् ” etc, the word *‘kāla’* refers to *ativāhaka devatās* who are *kāladyabhimānis*. *Agni* and others are not *kāla*, but are *devatās*. What has been said here clearly is about the remembrance of *devayāna* and not the distinct time of death.
+In “यत्र काले त्वनावृत्तिम् ” etc, the word *‘kāla’* refers to *ativāhaka devatās* who are *kāladyabhimānis*. *Agni* and others are not *kāla*, but are *devatās*. What has been said here clearly is about the remembrance of *devayāna* and not the distinct time of death.
 
 “अविदुषाम्” पितृयानेन पथा चन्द्रं प्राप्तानामेव पुनरावृत्तिः, विदुषस्तु चन्द्रं प्राप्तस्यापि तस्माद्ब्रह्मणो महिमानमाप्नोतीति वाक्यशेषात् तस्य दक्षिणायनमृतस्य चन्द्रप्राप्तिः ब्रह्मप्रपित्सतः विश्रामहेतुमात्रमिति गम्यते। भीष्मादीनां योगप्रभावात् स्वच्छन्दमरणानां धर्मप्रवर्तनाय उत्तरायणप्राशस्त्यप्रदर्शनार्थस्तथा विचारः ।
 
@@ -5183,12 +5183,12 @@ In these explanations we see the following purport—“The story of the incarna
 
 *Nṛsimhatāpini upanishad*, which is categorized as belonging to *Atharvaveda*, has quoted *Nṛsimha mantra* along with the *Ṛshi*, deity and metre and describes him as *“kshīrasāgaraśāyī*, the goal of *yogis, Parampada, ṛta, Satya, Parambrahma, Purusha, Kṛshṇapiṅgala, Ūrdhvareta, Virūpāksha* etc.
 
-\(“﻿क्षीरोदार्णवशायिनं नृकेसरिविग्रहं योगिध्येयं परम्पदम् ।” “ऋतं सत्यं परब्रह्म पुरुषं कृष्णपिङ्गलम् । ऊर्ध्वरेतं विरूपाक्षं शङ्क,अरं नीललोहितम् ॥”\) It associates him with the *mantras* of *Vishṇusūkta, Mahānārāyaṇīya* and *Taittirīyopanishad* and proclaims his glory, and also states the *Phalaśruti* of this *Upanishad*.
+\(“क्षीरोदार्णवशायिनं नृकेसरिविग्रहं योगिध्येयं परम्पदम् ।” “ऋतं सत्यं परब्रह्म पुरुषं कृष्णपिङ्गलम् । ऊर्ध्वरेतं विरूपाक्षं शङ्क,अरं नीललोहितम् ॥”\) It associates him with the *mantras* of *Vishṇusūkta, Mahānārāyaṇīya* and *Taittirīyopanishad* and proclaims his glory, and also states the *Phalaśruti* of this *Upanishad*.
 
 The *StotraPūjakalpa* prescribing his *Divyamaṅgalavigraha* for meditation says “He is the Trinity and *Parabrahmasvarūpi,* He has the form of *Brahma* upto the navel, form of *Vishṇu* upto the neck, and form of *Rudra* upto the head. Above that, the form of *Śiva* \(*Parabrahma*\) on the whole.
 
-“﻿आनाभि ब्रह्मणो रूपं आगलाद्वैषणवं वपुः ।”  
-“﻿आशीर्षं रुद्रमीशानं तदूर्ध्वं सर्वतः शिवः ॥” 
+“आनाभि ब्रह्मणो रूपं आगलाद्वैषणवं वपुः ।”  
+“आशीर्षं रुद्रमीशानं तदूर्ध्वं सर्वतः शिवः ॥” 
 
 *Śrīmadbhāgavata* is the most popular work among the ones which describe the incarnation of *Narasimha*. We briefly narrate here the story appearing in that. Having that at the centre, we may focus only on those parts \(in the story\) which appear differently in the famous *itihāsas* and *purāṇas*.
 
@@ -5500,7 +5500,7 @@ Let us become fulfilled in this sacred evening worship of *Narasimha Jayantī* b
 There is no difference of opinion regarding the observance of this *vrata* which falls on on *vaiśākha śukla caturdaśī*.
 
 > नरसिह्मश्चतुर्दश्यां वैशाखे शुक्लपक्षके”  
-“﻿वैशाखे शुक्लपक्षे तु चतुर्दश्यां निशामुखे ।  
+“वैशाखे शुक्लपक्षे तु चतुर्दश्यां निशामुखे ।  
 > मज्जन्मसम्भवं पुण्यं व्रतं पापप्रणाशनम्”॥ 
 
 Should this *parva* be celebrated as per as per *sauramāna* or *cāndramāna?* We should note that both these are in practice. But as is evident from *“vrathe cāndramasam śastam”*, it is best to observe this *vrata* according to the lunar calendar. If any \(unforeseen\) problems or obstacles occur in the *Narasimha jayantī* of *cāndramāna*, then it may be observed according to the *sauramāna*. But it may be remembered that the observance according to *cāndramāna* is more in vogue.
@@ -5648,7 +5648,7 @@ The custom of fasting for the whole day \(on the day of Narasimhajayanti\) and d
 
 It will be most proper to spend the night of that festival by listening to stories related to *Śrī Narasima*, and in singing his glories. There is also a tradition in some devotees who fast on that day and, after performing *Uttarārādhana* the next day, gift the idol of *ŚrīNarasimha* to the deserving ones.
 
-Those who fast for the whole day on the day of *Narsimhajayantī*, should perform the concluding worship early in the morning on the next day. As part of worship, some people do *‘Śrī Nṛsimhajapa,* chant the *mantra*, invoke him in the holy fire and perform worship through *homa*. After the *Pārāyaṇa* of the *Nrsimhatāpinī Upanishad*, cooked rice and ghee should be offered as *Havis* in the *Homa* by chanting *Purushasūkta* and the *Narasimha Gāyatri mantra.* \(ॐ वानाखाय विद्महे | तीक्ष्णदग्ग्ंष्ट्राय ﻿धीमहि । तन्नो नारसिग्ंहः प्रचोदयात्॥\) There is also a custom of performing *Jalatarpaṇapūja* with *Nrsimhagāyatrī* itself. The custom of performing this *Homa* after doing *Shoḍaśopacāra* and gifting the idol of god which was worshipped, to the deserving ones is also there.
+Those who fast for the whole day on the day of *Narsimhajayantī*, should perform the concluding worship early in the morning on the next day. As part of worship, some people do *‘Śrī Nṛsimhajapa,* chant the *mantra*, invoke him in the holy fire and perform worship through *homa*. After the *Pārāyaṇa* of the *Nrsimhatāpinī Upanishad*, cooked rice and ghee should be offered as *Havis* in the *Homa* by chanting *Purushasūkta* and the *Narasimha Gāyatri mantra.* \(ॐ वानाखाय विद्महे | तीक्ष्णदग्ग्ंष्ट्राय  धीमहि । तन्नो नारसिग्ंहः प्रचोदयात्॥\) There is also a custom of performing *Jalatarpaṇapūja* with *Nrsimhagāyatrī* itself. The custom of performing this *Homa* after doing *Shoḍaśopacāra* and gifting the idol of god which was worshipped, to the deserving ones is also there.
 
 There upon, *tīrtha* and *prasāda* should be had, and after *Bhāgavata samārādhana*, *pāraṇa prasada* should be taken. Those who complete the worship on the day of *Narasimhajayanti* itself, can do *paraṇa* after the *Shoḍaśopacārapūja*, *Japa* and *homa* and *Bhāgavatārādhana* in the same night.
 
@@ -5786,7 +5786,7 @@ Though *rākshasa* and *tāmasa* devotees worship *devī* with wine and meat, *s
 > सारस्तस्य जपः प्रोक्तः पठेद्देवीमनाः प्रिये।  
 > राजसी बलिदानेन नैवेद्यः सामिषैस्तथा॥  
 > सुरामांसाद्युपाहारैः जपयज्ञैर्विना तु या।  
-> विना मन्त्रैस्तामसी स्यात् किरातानां स संमतः ॥﻿ \(स्कान्द भविष्यपुराण\) 
+> विना मन्त्रैस्तामसी स्यात् किरातानां स संमतः ॥  \(स्कान्द भविष्यपुराण\) 
 
 Therefore the suggestion that *Sāttvikas* should not worship *Devi* stands to no reason.
 
@@ -6449,7 +6449,7 @@ But this rule is applicable only to *non—Vaishṇavas*.
 There are also statements which ordain that *gṛhasthas* should fast only on *Kṛshṇa Ekādaśīs* that fall between *Āshadhaśuklaikādaśī* and *Kārtikaśuddhaikādaśi* which are respectively called *śayanī* and *bodhinī,* and that they should not observe fast on the remaining *Kṛshṇa Ekādaśīs*.
 
 > शयनी बोधिनीमध्ये या कृष्णैकादशी भवेत् ।   
-> सैवोपोष्या गृहस्थेन नान्या कृष्णा कदाचन ॥ \(﻿ब्रह्मवैवर्त 4-26-39\) 
+> सैवोपोष्या गृहस्थेन नान्या कृष्णा कदाचन ॥ \( ब्रह्मवैवर्त 4-26-39\) 
 
 We also come across statements which tell that a householder blessed by male progeny, should not fast on the days of *Saṅkrānti*, *Ekādaśīs* of *Kṛshṇapaksha* and eclipses.
 
@@ -6529,7 +6529,7 @@ Thus, in the background of Lord *Vishṇu* assuming *nidrāmudrā* on *Āshaḍh
 
 *Śāstras* state that \(in some distint contexts\), fasting can be observed on the day of *Ekādaśī,* though touched by *Daśami*.
 
-“﻿एकादशी न लभ्येत सकला द्वादशी यदि ।   
+“एकादशी न लभ्येत सकला द्वादशी यदि ।   
 > उपोष्या दशमी विद्धा ऋषिरुद्दालकोऽब्रवीत्” ॥ 
 
 > “त्रयोदश्यां न लभ्येत द्वादशी यदि किञ्चन ।   
@@ -6540,7 +6540,7 @@ Also there are abundant scriptural statements that state that there should be no
 > “कलार्धेनापि विद्धा स्याद्दशम्यैकादशी यदा ।   
 > तदा ह्येकादशीं त्यक्त्वा द्वादशीं समुपोषयेत् ॥” 
 
-“﻿नोपोष्या दशमीविद्धा सदैवैक्कादशी तिथिः ।”   
+“नोपोष्या दशमीविद्धा सदैवैक्कादशी तिथिः ।”   
 “द्वादशीमिश्रिता कार्या सर्वत्रैकादशी तिथिः ।”   
 “सर्वप्रकारवेधोऽयं उपवासस्य दूषकः ।” 
 
@@ -6558,7 +6558,7 @@ And it does not help even if an option is provided by stating that fasting conne
 “दशमीशेषसंयुक्ता गान्धार्या समुपोषिता ।   
 > तस्या पुत्रशतं नष्टं तस्मात्तां परिवर्जयेत् ॥” 
 
-“﻿ऊचुस्ते मोहिनीं देवा लोकसंमोहनाय च ।   
+“ऊचुस्ते मोहिनीं देवा लोकसंमोहनाय च ।   
 > दत्तं मोहिनि ते स्थानं प्रत्यूषे दशमीयुतम् ॥” 
 
 Only *Vaishṇavas* are barred from observing a fast when *Daśamī vedha* is there at the time of *Aruṇodaya*.
@@ -6723,7 +6723,7 @@ The *kūrmapurāṇa* says that *Pāraṇa* should be observed only on *dvādaś
 
 The three some viz. *Daśami, Ekādaśī* and *Dvādasi*, is called *‘haridina’*. Even those who cannot observe *Ekādaśī*, should worship god during the dawn of *dvādaśī*, and should do *pāraṇa* in the morning. It is because, just like *Ekādaśī, Dvādaśī* also is independently an excellent day to propitiate God and a *vratadina*. If it is not possible to do *pāraṇa* on time, at least *jalapāraṇa* \(i.e. drinking of water\) should be done. Thus, drinking of water in the prescribed manner will bestow the benefits of both *Bhojana* and *Upavāsa.*
 
-“यदपोऽअनति तन्नैवाशितं नैवानशितम्﻿”
+“यदपोऽअनति तन्नैवाशितं नैवानशितम् ”
 
 ## \(1\) *Pūja* and *Jāgaraṇa*
 
@@ -6868,7 +6868,7 @@ When such is the case, where does he descend from? If ever he descends, does his
 
 Therefore God has no entrance or exit. Even the *Avatāravāda* that expounds his incarnations, can be likened to a mansion without foundation, which eventually collapses.
 
-ii\) Incarnation refers to God assuming a human or an animal form. To think so, it amounts to offending truth, because taking birth is a *vikāra.* One who is born like that must die, and it is also a *vikāra*. God is one who has no *vikāra*. स्त्यं ज्ञानमनन्तं ब्रह्म \(तै. उ. सत्यं निर्विकारम्\) “﻿अविकार्योऽयमुच्यते” \(गीता ३ अध्याय\) “निष्कलो निरञ्जनो निर्विकल्पो निराख्यातः शुद्धो देव एको नारायणः” \(नारायण उ. \) “अविकाराय शुद्धाय नित्याय परमात्मने” \(विष्णुसहस्रनाम, उपो\) “अजो नित्यः शाश्वतोऽयं पुराणः” \(गीता 7 अध्याय,\) “अज एकपात्” \(कठ 2-18\). “सपर्यगाच्छुक्रमकायमव्रणं” \(वा. सं. 34-53\) Therefore, to think for any reason \(and state\) that he takes a birth is an offence to God.
+ii\) Incarnation refers to God assuming a human or an animal form. To think so, it amounts to offending truth, because taking birth is a *vikāra.* One who is born like that must die, and it is also a *vikāra*. God is one who has no *vikāra*. स्त्यं ज्ञानमनन्तं ब्रह्म \(तै. उ. सत्यं निर्विकारम्\) “अविकार्योऽयमुच्यते” \(गीता ३ अध्याय\) “निष्कलो निरञ्जनो निर्विकल्पो निराख्यातः शुद्धो देव एको नारायणः” \(नारायण उ. \) “अविकाराय शुद्धाय नित्याय परमात्मने” \(विष्णुसहस्रनाम, उपो\) “अजो नित्यः शाश्वतोऽयं पुराणः” \(गीता 7 अध्याय,\) “अज एकपात्” \(कठ 2-18\). “सपर्यगाच्छुक्रमकायमव्रणं” \(वा. सं. 34-53\) Therefore, to think for any reason \(and state\) that he takes a birth is an offence to God.
 
 iii\) For what purpose indeed should God take an incarnation? One may say that God incarnates to destroy invincible demons like *Hiraṇayakaśipu*, *Hiraṇyāksha, Rāvaṇa* etc. If so, many questions may arise, such as, is not God omnipotent, omniscient and omnipresent? “परास्य शक्तिर्विविधैव श्रूयते स्वाभाविकी ज्ञानबलक्रिया च” “यः सर्वज्ञः सर्ववित् यस्य ज्ञानमयं तपः” *Rāvaṇa* and others beings like him are nothing but worms before the all powerful creator. Should he descend to the world assuming only a human form to kill such persons? Couldn’t he have destroyed them without incarnation? God who dwells inside all, could have cut \(slashed\) the vital parts of their body from within, resulting in their death. Is it difficult for that great power, which performs awesome acts such as creation, sustenance and destruction, to kill these creatures without assuming a physical form? Should he descend to attend to small jobs like these, setting aside the many big occupations pertaining to the universe?
 
@@ -6993,9 +6993,9 @@ There are many such *āptavākyas* which support the view that *ŚrīRāma* also
 10. कृत्वात्मानं महाबाहुः चतुर्धा विष्णुरव्ययः ।  
 > लोके राम इति ख्यातः तेजसा भास्करोपमः ।\(म. भा. सभापर्व 38\) 
 11. अथ दाशरथिर्वीरो रामो नाम महाबलः ।  
-> ﻿विष्णुर्मानुषरूपेण चचार वसुधातले\(म. भा. वन 148-31\) 
+>  विष्णुर्मानुषरूपेण चचार वसुधातले\(म. भा. वन 148-31\) 
 12. अस्मत्प्रसादसुमुखः कलया कलेश  
-> ﻿इक्ष्वाकुवंश अवतीर्य गुरोर्निदेशे ॥\(भागवत II 7-23\) 
+>  इक्ष्वाकुवंश अवतीर्य गुरोर्निदेशे ॥\(भागवत II 7-23\) 
 13. *Anrunernda nisāsararai kavarnota venkanai kākuttan\(Amalanādi pirān II\)* 
 14. *Munnupuhal kausalai tan maṇimayiruvāyttavane-\(Periya tirumoli\)* 
 15. नमो देवदेवाय रामाय तुभ्यम्  
@@ -7325,7 +7325,7 @@ These statements tell us that one should necessarily fast on *Rāmanavamī* day,
 > जयन्तीनां च सर्वासां उत्सवान्ते तु पारणम् ।  
 > कर्तव्यमैहिकासङ्गैः पञ्चकालपरायणैः ॥\(अनिरुद्धसंहिता\) 
 
-> ﻿तिथ्यन्ते वाथ भान्ते वा ह्युत्सवान्ते तु पारणम् ।  
+>  तिथ्यन्ते वाथ भान्ते वा ह्युत्सवान्ते तु पारणम् ।  
 > मुमुक्षूणामकामानां उत्सवान्ते तु पारणम्” ॥\(जयत्सेन संहिता\) 
 
 Such *śāstravākyas* state that *pāraṇa* should be done soon after the *pūja* on the same day itself. Actually there is no difference of opinion here. Because, the *Śāstras* prescribe fasting for those who perform this festival with some desires and *pāraṇa* only after *pūja* for those who worship without any desires. The rule may change depending on the state of disposition of the devotees. This decision has to be made based on the science of the respective natures. If the devotee who is supposed to fast is weak, he may take some light *prasāda* allowed by the *Śāstras*.
@@ -7475,7 +7475,7 @@ Both these preach dharma which brings prosperity and deliverance. ŚrīRaṅgama
 
 While the meaning of *Rāmāyaṇa* is also studied while taking up the *Pārāyaṇa*, it should be enjoyed not just only as a spiritual treatise, but also as a story of the ways of the world, and a composition rich with poetic wealth. Both the description of the ideal life and the opposite of it should be observed; but only the ideal has to be honoured. Here some devotees may raise an objection—*“ŚrīRāma* was god himself. We have to worship him. That’s all. We are poor humans. There can be no comparison with him. Is it ever possible to follow his ideals? Even to suppose so will be an offence against God.” This is only an objection arising out of gross thinking. Because, though *ŚrīRāma* was God himself, he lived the life of a human being to enlighten people, and this should not be forgotten. To say that all his conduct and words were only a drama, and the lesson and purport arising out of them are meant for him only, and we have nothing to do with that, amounts to a statement done without a deep study of the *ādikāvya*. The great intention of that *Nararūpi Nārāyaṇa* was that all *Naras* should follow his ideals. In the *Bhagavadgīta* also, God \(*Kṛshṇa*\) preaches this purport. “मर्त्यावतारस्त्विह मर्त्यशिक्षणम्” \(It is in place to remember here the words of *Śrīmadbhāgavata* which says that the purpose of the human form incarnation of *ŚrīRāma* in the human form was to present an ideal to \(all\) the people\)
 
-\(“यद्यदाचरति श्रेष्ठः तत्तदेवेतरो जनः । स यत्प्रमाणं कुरुते ﻿लोकस्तदनुवर्तते”-गीता\) Even though *ŚrīRāma* experienced the joys and pains of life, he was above them, as he was a *Sthitaprajna* because of *ādhyātmabhāva*. He is indeed the most worthy ideal person to be remembered on the day of *Ugādi*, which gets started by tasting neem and jaggery. Devotees should realize that enjoying the splendour and poetic beauty of all the facets of the gem epic, also happens to be his very worship.
+\(“यद्यदाचरति श्रेष्ठः तत्तदेवेतरो जनः । स यत्प्रमाणं कुरुते  लोकस्तदनुवर्तते”-गीता\) Even though *ŚrīRāma* experienced the joys and pains of life, he was above them, as he was a *Sthitaprajna* because of *ādhyātmabhāva*. He is indeed the most worthy ideal person to be remembered on the day of *Ugādi*, which gets started by tasting neem and jaggery. Devotees should realize that enjoying the splendour and poetic beauty of all the facets of the gem epic, also happens to be his very worship.
 
 The philosophy which applies to the *pārāyaṇa* of the epic also applies to the *śrāvaṇa* of the same. Because, listening like chanting, is also a mode \(form\) of devotion.
 
@@ -7634,7 +7634,7 @@ A devotee should immerse himself in the water \(of a lake etc\) before it is tou
 
 > न केन चाल्यते यावत् तावत्स्नानं समाचरेत् । 
 
-“﻿इक्षुदण्डेन जलं चालयित्वा सप्तार्कपत्राणि बदरीपत्राणि च शिरसि निधाय पूर्वोत्तैः मन्त्रैः स्नात्वा”
+“इक्षुदण्डेन जलं चालयित्वा सप्तार्कपत्राणि बदरीपत्राणि च शिरसि निधाय पूर्वोत्तैः मन्त्रैः स्नात्वा”
 
 > सौवर्णे राजते पात्रे भक्त्यालाबुमयेऽथवा  
 > तैलेन वर्तिर्दातव्या महारजनरञ्जिता  
@@ -7733,7 +7733,7 @@ Regarding this, the *Ācāryas* say “There are seven *Sūrya*s. They are *Arog
 
 This *Kaśyapa Sūrya* does not leave the *Mahāmeru*. The name ‘*Kaśyapa*’ is the other form of ‘*Paśyaka*’. It means “The *Paramātma* who witnesses all”. That *Kaśyapa* \(*Paśyaka*\) Sun is a witness to all. This luminous wonderful crafted universe belongs to that *KaśyapaSūrya* only. All the seven *Sūrya*s are placed in him. Those who cannot go to *Mahāmeru* which at the center of the universe, cannot see the *Kaśyapa Sūrya*.” “आरोगो भ्राजः पटरः पतङ्गः, विक्षरो ज्योतिषीमान् विभासः”
 
-“﻿प्राणो जीवानीन्द्रियजीवानि, सूर्या इत्याचार्याः, कश्यपोऽष्टमः स महामेरुं न जहाति, ..... न हि शेकुरिव महामेरुं गन्तुम्। कश्यपः पश्यको भवति, यत्सर्वं परिपश्यतीति सौक्ष्म्यात्” “ते अस्मै सर्वे कश्यपात् ज्योतिर्लभन्ते”
+“प्राणो जीवानीन्द्रियजीवानि, सूर्या इत्याचार्याः, कश्यपोऽष्टमः स महामेरुं न जहाति, ..... न हि शेकुरिव महामेरुं गन्तुम्। कश्यपः पश्यको भवति, यत्सर्वं परिपश्यतीति सौक्ष्म्यात्” “ते अस्मै सर्वे कश्यपात् ज्योतिर्लभन्ते”
 
 यत्ते शिल्पं कश्यप रोचनावत्, इन्द्रियावत्पुष्कलं चित्रभानु । यस्मिन् सूर्याअर्पितास्सप्त साकं, तस्मिन्राजानमधिविश्रयेममिति” ॥
 
@@ -7768,7 +7768,7 @@ Question 6: - By the above explanation one may define the Sun as a *Devatā*. Bu
 
 Answer: - *Rathasaptamī parva* is a limb of time. The presiding deity of that component of time is called ‘*Rathasaptamī Devatā*’. This *Rathasaptamī* is the mother of the three worlds. *Arghya* should be offered to *Sūryanārāyaṇa* accompanied by her.
 
-“﻿जननी सर्वलोकानां सप्तमी रथसप्तमी” “सप्तमीसहितो देव गृहाणार्घ्यं नमो स्तु ते”
+“जननी सर्वलोकानां सप्तमी रथसप्तमी” “सप्तमीसहितो देव गृहाणार्घ्यं नमो स्तु ते”
 
 This scriptural prayer has been noted earlier.
 
@@ -8207,7 +8207,7 @@ On that day, the *Prathamā tithi* should be prevailing at the time of Sunrise. 
 
 1. According to some, the beginning of the year is no doubt in that *Malamāsa* only. But, customs like oil bath, flag hoisting, listening to the *Pañcanga*, chewing the neem sprout etc which are a part of the new year day, should be observed on the first day of the *Śuddha māsa.*
 
-“﻿प्रतिगृहं ध्वजारोहणं, निम्बपत्राशनम् वत्सरादिफलश्रवणं अभ्यङ्गश्च शुद्धमासप्रतिपदिकार्यः” \(धर्मसिन्धु पु 38\)
+“प्रतिगृहं ध्वजारोहणं, निम्बपत्राशनम् वत्सरादिफलश्रवणं अभ्यङ्गश्च शुद्धमासप्रतिपदिकार्यः” \(धर्मसिन्धु पु 38\)
 
 2. Some others are of the opinion that taking of oil bath and taking the New Year’s vow should be done in *Malamāsa* itself. निष्कर्षस्तु.... मलमास एव कार्य इति वयं प्रतीमः” \(निर्णयसिन्धु. प्रतिपन्निर्णय\) The opinion that the *Śuddhamāsa* is commendable for all auspicious religious functions is proper.
 
@@ -8215,7 +8215,7 @@ And as said above, it is considered auspicious to perform *Ārogyavṛatas* and 
 
 If *Ugādi* is to be celebrated according to *Sauramāna*, then it should be done on the day of *Meshasaṅkramaṇa.* \(vernal equinox\) The rituals for that auspicious day such as meditation, *dāna* and *tarpaṇa* should be observed either 10 *Naḍis* before or after that auspicious time of *Saṅkramaṇa*.
 
-“﻿वर्तमानतुलामेषे नाड्यस्तूभयतो दश”
+“वर्तमानतुलामेषे नाड्यस्तूभयतो दश”
 
 b\) ***Vidhividhānas* \(Procedures\):** On that day, early in the morning, taking oil bath with gingelly oil is a must.
 
@@ -8224,7 +8224,7 @@ b\) ***Vidhividhānas* \(Procedures\):** On that day, early in the morning, taki
 
 Holding bandal paste and *akshatā* in hand, an auspicious vow should be taken that the *vrata* is being observed on that day for the pleasure of god and attainment of the four *purushārthas*. After the daily worship, the *Mahāśāntikarma* has to be performed. By this all the sins get absolved, and long life, contentment, happiness, nourishment and happiness both in this world and the other worlds are obtained.
 
-“﻿मङ्गल्या च पवित्रा च लोकद्वयसुखावहा”
+“मङ्गल्या च पवित्रा च लोकद्वयसुखावहा”
 
 In the beginning, Lord *Brahma* should be worshipped with *Arghya* and *Pādya.* That Lord holds a rosary and a *sruva* in the right hand, and a *sruk* and a *Kamanḍalu* in the left hand. The devotees should meditate upon him, who is looked upon as shining like gold, with a long beard, and with a mass of matted hair.
 
@@ -8355,9 +8355,9 @@ Thus it is very proper to worship *Prajāpati* and his glory, and pray to to him
 
 Among these, the holy fire is the most suitable medium for performing *pūja* externally. This is because *Agni* is his effulgent body, He is His form of radiance, His reflection, His image, His representative et al. God should be invoked in that. *Ājya, caru* etc have be offered in that, and through that, the worship of God as a *Yajnarūpi* should be accomplished.
 
-“﻿अग्नौ समिद्धार्चिषि सप्ततन्तोरातस्थिवान्मन्त्रमयं शरीरम्” \(“O Lord you take the *mantramaya* body in the sacrificial fire burning in the *samits*.\) “अग्नौ क्रियावतां देवः” God appears to the performer in the \(sacrificial\) fire. Meditation of God is *Antaryoga*. If the *Bahiryoga* is combined with that, then it will be a *yoga* par excellence
+“अग्नौ समिद्धार्चिषि सप्ततन्तोरातस्थिवान्मन्त्रमयं शरीरम्” \(“O Lord you take the *mantramaya* body in the sacrificial fire burning in the *samits*.\) “अग्नौ क्रियावतां देवः” God appears to the performer in the \(sacrificial\) fire. Meditation of God is *Antaryoga*. If the *Bahiryoga* is combined with that, then it will be a *yoga* par excellence
 
-“﻿अन्तर्योगं बहिर्योगं यो जानाति विशेषतः । त्वया मयाप्यसौ वन्द्यः शेषैर्वन्द्यस्तु किं पुनः” ॥ \(घेरण्डसंहिता\)
+“अन्तर्योगं बहिर्योगं यो जानाति विशेषतः । त्वया मयाप्यसौ वन्द्यः शेषैर्वन्द्यस्तु किं पुनः” ॥ \(घेरण्डसंहिता\)
 
 It is indeed very appropriate that, in the *Ugādi* festival, *Agni* the medium of worship is called *“Yavishṭha”.* Because *‘Yavishṭha’ \(Atiśāyena tamabishṭhanau\)* means the youngest. At the beginning of creation, *Śakti* was worshipped as something very minute. *Agni*, who symbolizes power, is considered as the youngest and so this usage is indeed appropriate. Later in the process of evolution, at its zenith, *Agni* should be considered as *Jyeshṭha*.
 
@@ -8534,7 +8534,7 @@ According to sage *Gautama, Upākarma* should be observed either in the month of
 
 We have to note an important matter here. The time when medicinal plants start sprouting is the most auspicious time for observing *Upākarma*.
 
-“﻿ओषधीनां प्राद्रुर्भावे”  
+“ओषधीनां प्राद्रुर्भावे”  
 “तद्वार्षिकमित्याचक्षते” 
 
 Sages say “ऒषधिप्रादुर्भावे”. If the medicinal plants fail to sprout in *Śrāvaṇa*, *Upākarma* should be performed in *Bhādrapada* when the medicinal plants sprout.
@@ -8967,7 +8967,7 @@ Lord *Nārāyaṇa* should be woken up chanting “इदं विष्णु�
 > इदम् व्रतम् मया देव कृतम् प्रीत्यै तव प्रभो।   
 > न्यूनं सम्पूर्णताम् यातु त्वत्प्रसादाज्जनार्दन॥ 
 
-On the night of *Ekādaśī*, a blackgram sized golden idol of *Matsya* should be placed in a *kumbha*. After *pañcāmṛta abhisheka*, worship should be performed with *kuṅkuma kesari* and *Pitāmbara*. All the ten *avatāras* such as *Matsya* should to be worshipped. Keeping awake in the night, all gods and *ācāryas* should be worshipped in the morning. “﻿जगदादिरनादिमान् । जगदाद्यो जगद्योनिः प्रीयतां मे जनार्दनः” ॥
+On the night of *Ekādaśī*, a blackgram sized golden idol of *Matsya* should be placed in a *kumbha*. After *pañcāmṛta abhisheka*, worship should be performed with *kuṅkuma kesari* and *Pitāmbara*. All the ten *avatāras* such as *Matsya* should to be worshipped. Keeping awake in the night, all gods and *ācāryas* should be worshipped in the morning. “जगदादिरनादिमान् । जगदाद्यो जगद्योनिः प्रीयतां मे जनार्दनः” ॥
 
 \(“May Lord *Janārdana*, who is the prime cause of the world, who is *Jagadrūpa*, who has no beginning and who is the origin of the world be pleased with me.\) With this prayer, he should be saluted and Brāhmins should be worshipped with the offering of *dakshiṇā*.
 
@@ -9460,7 +9460,7 @@ Now about the special *naivedya* which is offered to her.
 
 Why should she be invoked in a holy water filled *kumbha*? Why should one invoke her in a *kumbha* filled with *akhanḍa* \(unbroken\) *tanḍula* \(rice grain\) and *Godhūma* \(wheat\)?
 
-The part of our body from the neck to the top of the head is called *‘kumbha.’* “﻿कण्ठादुपरिमूर्धान्त”. This part of the divine bodies of *Jnānis* in which the spiritual forces flow upwards is a divine pot itself, \(*ūrdhvakumbha*\). It is full of pleasant spiritual energy. So, the invoking of *Mahāyogeśvari*, the holy mother in the upright *pūrṇakumbha*, filled with holy water representative of the above, is naturally in accordance with the practice of *Yoga*. The pot filled with unbroken pure grain, stands for the principle that she is *DhānyaLakshmī*. And she is indeed the form of *paramānnahavishya* \(pure sacrificial cooked rice\) fit to be served for the enjoyment of the *devas*. These two *kumbhas* are symbolic of the vow “क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीर्नाशयाम्यहम्”. \(I shall destroy the *aLakshmī* \(evil fortune, bad luck\) called *‘jyeshṭhā’* associated with the impurity of hunger and thirst.\) The tender leaves of banyan, mango, and other sacrificial trees used here to decorate the holy pots, stand for the ever fresh brilliance, the double prosperity of the material world and spiritual welfare \(*abhyudaya* and *niśśreyas*\). Their very sight is also auspicious.
+The part of our body from the neck to the top of the head is called *‘kumbha.’* “कण्ठादुपरिमूर्धान्त”. This part of the divine bodies of *Jnānis* in which the spiritual forces flow upwards is a divine pot itself, \(*ūrdhvakumbha*\). It is full of pleasant spiritual energy. So, the invoking of *Mahāyogeśvari*, the holy mother in the upright *pūrṇakumbha*, filled with holy water representative of the above, is naturally in accordance with the practice of *Yoga*. The pot filled with unbroken pure grain, stands for the principle that she is *DhānyaLakshmī*. And she is indeed the form of *paramānnahavishya* \(pure sacrificial cooked rice\) fit to be served for the enjoyment of the *devas*. These two *kumbhas* are symbolic of the vow “क्षुत्पिपासामलां ज्येष्ठामलक्ष्मीर्नाशयाम्यहम्”. \(I shall destroy the *aLakshmī* \(evil fortune, bad luck\) called *‘jyeshṭhā’* associated with the impurity of hunger and thirst.\) The tender leaves of banyan, mango, and other sacrificial trees used here to decorate the holy pots, stand for the ever fresh brilliance, the double prosperity of the material world and spiritual welfare \(*abhyudaya* and *niśśreyas*\). Their very sight is also auspicious.
 
 The *Śrīsūkta* which is chanted during her *pūja* is indeed a divine hymn which conveys the wealth of her all pervading total auspiciousness \(*sarvamāṅgalyadevībhāva*\). Just as the *Purushasūkta* is chanted in the worship of *ŚrīmanNārāyaṇa* with every service \(like *Dhūpa, Dīpa, arcana* etc.\), it is quite appropriate that *Śrīsūkta* is chanted during the worship of *MahāLakshmī* with every service. All the *purusharūpas* \(male forms\) belong to that *Paramapurusha* and all the *strīrūpas* \(female forms\) belong to the *parabrahmagṛhiṇi*
 
