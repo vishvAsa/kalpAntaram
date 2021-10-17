@@ -1,87 +1,10 @@
 +++
-title = "02 ānantapadmanābha Vrata"
-short_title = "02 ānantapadmanābha"
+title = "03 Worship of *AnantaPadmanābha*"
+short_title = "03 Worship of"
 
 +++
-02 ānantapadmanābha Vrata
+03 Worship of *AnantaPadmanābha*
 
-\(Anantana Caturdaśī-Anantana Habba\)
-
-**The *Āradhya Deva* of this *Anantana Vrata***
-
-*Ananta Padmanābha Vrata* is one of the auspicious *parvas* observed by a vast number of *sanātana Ārya Bhāratīyas*. It is called *AnantanaVrata* as it is a day of austerity of deity worship, and many precepts of *Vratas* have to be followed on that day. The term *Ananta* means ‘king of serpents’, and also *Ādiśesha* the *Śeshanāga*.
-
-“शेषोऽनन्तो नागराजः”
-
-The meaning of the component parts of this term is ‘the one who has no end’. *Ādiśesha* has this name because he is the form of the *prāṇaśakti* \(*Kuṅḍalini*\) of the Lord, who has infinite power.
-
-This term *Ananta* also refers to the the great Lord *Ādinārāyaṇa* who is a *Śeshī* for this endless *Śeshanāga*, whom the Lord has employed \(in his service\) as a couch, a seat, an adornment, the royal white umbrella, a jewel lamp and *Pādukā* \(Sandal\)
-
-“नमोऽस्त्वनन्ताय सहस्रमूर्तये” As his \(i.e. *Śeshanāga’s*\) forms, qualities, powers and glories are all endless, this word \(*Ananta*\) befits him also.
-
-“अनन्तवीर्यामृतविक्रमस्त्वम्”
-
-“अनन्त”is the name in short of that *Nārāyaṇa* the Lord of Lords, who is called *Anantaśayana* as he has made *Anantanāga* his couch, and is also called *Anantapadmanābha,* as he has the navel which is the origin of *Brahma*.
-
-There are three types among the idols of *Nārāyaṇa* who rests on *Anantanāga*. The first one is *Raṅganātha*. He has only two arms. He has no weapons in his hands. He has neither the lotus projecting out of his navel nor Lord *Brahma* on it. The Lord is in the posture of deep sleep placing one of this arms as a pillow. This idol can be seen in *ŚriRaṅgam, Śriraṅgapattaṇam. Śivanasamudra, Raṅgasthala* and some other places.
-
-The second one is *Govindarāja*. He has four arms. He has *śankha*, *cakra* and *gadā* in three hands. The other arm is stretched \(forward\). He is in the posture of having eyes partially opened just after getting up from sleep. *Brahma* is seen sitting on the lotus flower. *Madhu* and *Kaiṭabha* are seen sitting at his lotus feet with folded hands. One can have the *darśan* of this *Govindarāja* in *Govindarājapattaṇa* which is at the foot of *Tirumala* \(*Tirupati*\), and in the *Sannidhi* opposite to that of Lord *Naṭarāja* of the *Cidambara* temple of *Cidambaram*, and in *Kalkunṭe* which is near *Chikkatirupati* \(which is\) near Bangalore.
-
-The third is *AnantaPadmanābhamūrti*. He has two arms. Of them, the left arm is raised holding a downward faced lotus at the level of his neck. In the outstretched right lower arm, he appears to be covering a *śivaliṅga*. The Lord is shining in the posture of gracing the sages who are wishing him *Suprabhātam* with his broad eyes, just after waking up from *Yoganidrā*.
-
-> योगनिद्रान्तविशदैः पावनैरवलोकनैः ।   
-> भृग्वादीननुगृहणन्तं सौख्यशायिनिकानृषीन् ॥ 
-
-The four faced *Brahma* is beaming in the *Padmāsana* posture in the lotus navel of the Lord. One can see this idol in *Tiruvanantapuram*. The *dhyānaśloka* is as follows:—
-
-> श्रीकृष्णं क्षेत्रपालं ध्वजबलिसहितं भूतनाथं नृसिह्मम्   
-> व्यासम् शम्भुं गणेशं रघुवरमनुजं जानकीं वायुपुत्रम् ।   
-> विष्वक्सेनं सुपर्णं सुरमुनिकमलाभूमिब्रह्मादिसेव्यम्   
-> वन्दे श्रीपद्मनाभं परमपदमहोपन्नगाभोगसुप्तम् ॥ 
-
-I salute *Padmanābha* the Lord of the highest abode who is resting on *Anantaśeshanāga*, and who is being attended by *SrīKṛshṇa, Kshetrapālaka, Dhvajabali, Bhūtanātha, Śāstā, Yogānṛsimha, Vyāsa, Śiva, Gaṇeśa, ŚrīRāmaśītā Lakshmaṇa, Hanumanta Vishvaksena, Garuḍa, devatās, sages, ŚrīDevi, Bhūdevi* and *Brahmadeva*, *Sanakādisiddhas, Tumburu Nāradas, Saptarshis, Sūrya* and *Candra, Dikpālakas*, and *Jaya Vijayas*. As all these three are *Śeshanāga Anantamūrtis*, who among the three should be meditated upon and worshipped during *Anantana Vrata*? It is the third one i.e. *AnantaPadmanābhamūrti*. \(*Ananta* is also the short form of *AnantaPadmanābhamūrti*\)
-
-## When should this Anantana Vrata be celebrated?
-
-This *Vrata* should be observed on the *caturdaśi* of *Bhādrapada śuddha*. This *vrata* should be observed even if *caturdaśī* prevails to the extent of just three *muhūrtas* at sunrise.
-
-“उदये त्रिमुहूर्तापि ग्राह्यानन्तव्रते विधिः” “मध्याह्ने भोज्यवेलायाम्”
-
-In all the *Vratas*, the *tithi* should extend till the afternoon.
-
-A scholar by name *Divodāsa* says—
-
-“पूजाव्रतेषु मध्याह्नव्यापिनी तिथिः”
-
-If *caturdaśī* prevails atleast for one *muhūrthakāla* on *Bhādrapada pūrṇima*, it should be considered as *pūrṇa tithi* and *ŚrīVishṇu Pūja* should be performed—
-
-“मुहूर्तमपि चेद्भाद्रे पूर्णिमायां चतुर्दशी । सम्पूर्णांतां विदुस्तस्यां पूजयेद्विष्णुमव्ययम्” \(*Skānda purāṇa*\)
-
-The *Bhavishya Purāṇa* says:
-
-> तथा भाद्रपदस्यान्ते चतुर्दश्यां द्विजोत्तम ।   
-> पौर्णमास्याः समायोगे व्रतं चानन्तकं चरेत् ॥ 
-
-“If *caturdaśī* is there at least for a duration of one *muhūrta, Ananta caturdaśī* should be celebrated on that day itself” says a treatise by name *Nirṇayāmṛta*. But, as per the axim “सन्दिग्धेष्वेकवाक्यत्वात्”, it is mandatory to observe *AnantaVrata* on *Caturdasī tithi* if it prevails either at the beginning or at the end of the afternoon. This is the conclusion stated in the treatise *Nirṇayasindhu*.
-
-## How to celebrate the *Vrata*?
-
-*Saṅkalpa* to perform this *vrata* should be done after bath and *ācamana*. And a *saṅkalpa* should be done for performing *YamunāPūja,* which is a part of the *Anantavrata*. \(This *yamunā pūja* should be performed by the side of a river, a lake or a pond or even near a well\)
-
-> लोकपालस्तुतां देवीम् इन्द्रनीलसमप्रभाम् ।   
-> यमुने त्वामहं ध्याये सर्वकामार्थसिद्धये ॥ 
-
-> क्षीरोदार्णवसम्भूते क्षीरवर्णोपशोभिते ।   
-> प्रसन्ना भव मे देवि यमुने ते नमो नमः ॥ 
-
-And, as a part of the *Yamunāpūja*, the worship of \(the following viz\) *Tuṅga* who is *Sūryapādābjasambhūtā*, the dark hued *Kṛshṇaveṇi*, *Nandipādā, Bhīmarathī, Godāvari* river, deities and *Gaṅgadevī* should be performed. *Yamunādevī* should be worshipped with flowers. After the *Aṅgapūjā*, *nāmapūjā*, and *ashṭottaranāmapūjās* to *Yamunā* are performed, *uttarārādhana* should be done. All the services such as *Dhūpa, dīpa* etc should be offered. And river *Yamunā* should be praised \(with the sloka\):—
-
-> विगाहे यामुनं तीर्थं साधु बृन्दावने स्थितम् ।   
-> निरस्तजिह्मगस्पर्शे यत्र कृष्णः कृतादरः ॥ 
-
-The worshipped *Kalaśa* which is filled with the water of *Yamunānadī—devī* who is the daughter of the Sun god, and sister of *Yamadharmarāja,* and who is dearest to *Padmanābha ŚrīKṛshṇa*, should be taken home along with *Maṅgalavādyas*. The *tīrtha* in the *Kalaśa* should to be added to the *Pūjākalaśa* of Lord *Ananta* and, on that \(*Kalaśa*\) the *darbha* knot, clothes, coconut and flowers should be arranged decoratively. That *darbha* knot should be in the shape of a seven hooded snake.
-
-## Worship of *AnantaPadmanābha*
 
 The number fouteen is a fixed number very dear to *AnantaPadmanābha*. The day of his *pūja* is the fourteenth day of *Śuklapaksha*. The number of knots in the thread in which is he invoked, should be fourteen etc. After invoking Lord *Ananta* in both the *Kalaśas*, the following should be done viz *saṅkalpa, Sarvopacārapūja Kalaśapūja, Praṇapratishṭhā, Dvārapālādiparivārapūjā, Dikpālaka pūjā, aṅga pūjā, pūjā* with leaves and flowers \(even red coloured flowers are best\), invoking *śesha* in fourteen darbha knots, *śeshapūja*, *Pūja* of fourteen *doragranthis*. and āvāhana. After *āvāhana*, these fourteen *granthi devatās* \(deities of knots\) viz., *Vishṇu, agni*, *Sūrya*, *Indra, Brahma, Vāyu, Śiva, Vighneśa, Skanda, Soma, Ākaśa, Varuṇa, Pṛthvi* and *Vasus* should be worshipped. And then *pūjā* should be done with *nāmāvalis* and *Ashṭtottara Śatanāmāvalis* addressing *Ananta*.
 
