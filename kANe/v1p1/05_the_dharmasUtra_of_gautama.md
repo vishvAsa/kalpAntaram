@@ -3,52 +3,21 @@ title = "05 The Dharmasūtra of Gautama"
 short_title = "05 The Dharmasūtra of"
 
 +++
-05 The Dharmasūtra of Gautama
+
+This has been printed several times (there is Dr. Stenzler's edition of 1876, the Calcutta edition of 1876, the Ānanadāśrama edition with the commentary of Haradatta, and the Mysore Government edition with the bhāṣya of Maskarin ; it was translated by Bühler in S. B. E., Vol. II. with an introduction). The Anandāśrama edition of 1910 which is incorrect in a few places (e. g. 21.7) has been used in this work. This dharmasūtra is, as we shall see, the oldest of those we have. The Gautama dharmasūtra was specially studied by followers of the Sāmaveda (see note 55 above). The commentary on the Caraṇavyūha tells us that Gautama was one of the nine sub-divisions of the Rāṇāyanīya school of the Sāmaveda. A teacher Gautama is mentioned frequently in the Lāṭyāyanaśrautasūtra (e.g. I. 3. 3 and I. 4. 17) and in the Drāhyāyanaśrauta (e.g. I. 4. 17, IX. 3. 15) of the Sāmaveda. The Gobhilagṛhya (III. 10. 6) which belongs to the Sāmaveda cites Gautama as an authority. Therefore it is not improbable that a complete Gautamasūtra embodying Śrauta, Gṛhya and Dharma doctrines once existed. There are other indications pointing to the close connection of the Gautamadharmasūtra with the Sāmaveda. Chapter 26 of the dharmasūtra about _Kṛcchra_ penance is the same, almost word for word, as the Sāmavidhāna[^59] Brāhmaṇa (I. 2, Burnell's ed.).
+
+[^59]:
+    There are, however, considerable divergences; e. g. गौ. ध​. सू. 26. 10-12 are 'आपो हि ष्टेति तिसृभिः पवित्रवतीभिर्मार्जयीत हिरण्यवर्णाः शुचयः पावका इत्यष्टाभिः । अथोदकतर्पणम् । नमोहमाय' &c. while the सामविधान​ is 'आपो हिष्टीयाभिरथोदकतर्पणं नमोहमाय'. गौ. ध​. सू. 26. 12 contains many additions. Wherever there is divergence, it is generally Gautama that amplifies the passages found in the सामविधान.
+
+Among the purificatory texts (21 in number) mentioned in Gau. Dh. S. (19.12) there are nine that are Sāmans. The mention of the five utterances ('Vyāhṛtis') 'resembles the number in the Vyāhṛtisāma[^60] though the order is different. It is, however, to be noted that Gautama is a generic name. In the Kaṭhopaniṣad, both Naciketas (II. 4. 15, II. 5. 6) and his father (I. 1. 10) are styled Gautama. In the Chāndogyopaniṣad there is a teacher Hāridrumata Gautama (IV. 4.3). 
+
+Dr. Ram Gopal in his Ph. D. thesis ‘India of Vedic Kalpasūtras' (1959) charges me (on p. 53) with being inconsistent as regards the Gautama-dharmasūtra. This book is probably his first serious work on ancient Sanskrit literature and society and I am afraid that he is more dogmatic in several conclusions of his than the facts warrant. About Gautama Dharmasūtra I made (in the first edition of the H. of Dh. Vol. I published so far back as 1930) two points viz. (1) that it was originally an independent work and not attached to any particular Vedic Śākhā; (2) that it was subsequently adopted by Sāmavedins as their Dharmasūtra probably because it contained a few indications of leanings towards the Sāmaveda. I pointed out some of those indications, but also showed that Gautama's name was connected with the Kaṭhas of the Kṛṣṇa Yajurveda also, as in the Kaṭhopaniṣad both Naciketas and his father are referred to as Gautama and because the Tantravārtika (about 650-700 A.D.) asserted that Gaut. Dh. S. was accepted or adopted by the Sāmavedins as their Dharmasūtra. I could have added many other matters in support of my theory but thought that it was unnecessary to do so. The duty of all scholars when dealing with ancient works or matters more than a thousand years old is to marshall the necessary or available facts with honesty and, if they do not all point to the same conclusion, to declare, if possible, one's opinion in favour of one probability as against another. There is no inconsistency in doing this and it is always possible that different scholars may hold widely divergent views about the age and other matters relating to a writer or work (particularly an ancient one). I need cite only one example. The Arthaśāstra of Kauṭilya has been available in print for half a century. There are hundreds of papers and books on various aspects of the Arthaśāstra. Yet on the question of the age of the Arthaśāstra depending on the same materials there are at least two divergent views, some scholars assigning it to 300 B.C. (Jacobi, Sham Shastry and Jayaswal), while others like Jolly and Winternitz bring down the work to 300 A.D.
 
 
-5. The Dharmasutra of Gautama. This has been printed several times (there is Dr. Stenzler's edition of 1876, the Calcutta edition of 1876, the Ānanadāśrama edition with the commentary of Haradatta, and the Mysore Government edition with the bhāsya of Maskarin ; it was trans lated by Bühler in S. B. E., Vol. II. with an introduction). The Anandāśrama edition of 1910 which is incorrect in a few places (e. g. 21.7 ) has been used in this work. This dharmasūtra is, as we shall see, the oldest of those we have. The Gautama dharmasūtra was specially studied by followers of the Sāmaveda ( see note 55 above). The commentary on the Caranavyuha tells us that Gautama was one of the nine sub-divisions of the Rānāvanīya school of the Sāmaveda. A teacher Gautama is mentioned frequently in the Lātyāyanaśrautasūtra (. g. I. 3.3 and I. 4. 17 ) and in the Drāhyāyanaśrauta (e. g. I. 4. 17, IX. 3. 15 ) of the Sāmaveda. The Gobhilagphya (III. 10.6) which belongs to the Sāmaveda cites Gautama as an authority. There fore it is not improbable that a complete Gautamasutra embody ing Srauta, Grhya and Dharma doctrines once existed. There are other indications pointing to the close connection of the Gautamadharmasūtra with the Sāmaveda. Chapter 26 of the dharmasūtra about Krcchra penance is the same, almost word for word, as the Sāmavidhānas9 Brāhmaṇa (I. 2, Burnell's ed.). 59 There are, however, considerable divergences; e. g. tit. 17. 9. 26. 10-12 
+[^60]:
+    गौ. ध​. सू. I. 52 ओं पूर्वा व्याहृतयः पञ्च सत्यान्ताः; again in गौ. ध​. सू. 25. 8 we have प्रतिषिद्धवाङ्मनसापचारे व्याहृतयः पञ्च सत्यान्ताः; and in गौ. 28. 8 the five व्याहृतिs seem to be भूः, भुवः, स्वः, तपः सत्यं. As हरदत्त​ remarks the five व्याहृतिs in व्याहृतिसाम​ are भूः, भुवः, स्वः, सत्यं, पुरुषः. The व्याहृतिs are generally declared to be seven (तै. आ. 10. 28. 1), the first three being styled महाव्याहृतिs (vide मनु II. 81.)
 
-are 'आपो हि छेति तिसृभिः पवित्रवतीभिर्जियीत हिरण्यवर्णाः अचयः पावका RE:1 pictagon, 1 FATEHIY &c. while the Hina internet. 
-
-( Continued on next page) 
-
-
-
-FOUNDED 
-
-1917 
-
-5. The Dharmasutra of Gautama 
-
-23 
-
-Among the purificatory texts (21 in number ) mentioned in Gau. Dh. S. (19.12 ) there are nine that are Sāmans. The mention of the five utterances (Vyāhrtis ') 'resembles the number in the Vyāhṛtisāma60 though the order is different. It is, however, to be noted that Gautama is a generic name. In the Kathopaniṣad, both Naciketas (II. 4. 15, II. 5. 6 ) and his father (I. 1. 10 ) are styled Gautama. In the Chāndogyopanisad there is a teacher Hāridrumata Gautama (IV. 4.3). 
-
-Dr. Ram Gopal in his Ph. D. thesis ‘India of Vedic Kalpa sutras '(1959) charges me (on p. 53 ) with being inconsistent as regards the Gautama-dharmasūtra. This book is probably his first serious work on ancient Sanskrit literature and society and I am afraid that he is more dogmatic in several conclusions of his than the facts warrant. About Gautama Dharmasūtra I made ( in the first edition of the H. of Dh. Vol. I published so far back as 1930 ) two points viz. (1) that it was originally an independent work and not attached to any particular Vedic Sākhā; (2) that it was subsequently adopted by Sāmavedins as their Dharmasūtra probably because it contained a few indi cations of leanings towards the Sāmaveda. I pointed out some of those indications, but also showed that Gautama's name was connected with the Kathas of the Krsna Yajurveda also, as in the Kathopaniṣad both Naciketas and his father are referred to as Gautama and because the Tantravārtika (about 650-700 A.D.) asserted that Gaut. Dh. S. was accepted or adopted by the Sāma vedins as their Dharmasūtra. I could have added many other matters in support of my theory but thought that it was unneces sary to do so. The duty of all scholars when dealing with ancient works or matters more than a thousand years old is to marshall the necessary or available facts with honesty and, if they do not all point to the same conclusion, to declare, if possible, one's 
-
-..- 
-
-... --- 
-
- - 
-
- ---- ---- 
-
- 
-
-60 
-
-(Continued from last page) legrafputa magni ahigArt'. nt. 7. 26. 12 contains many additions. Wherever there is divergence, it is generally Gautama that amplifies the passages found in ths सामविधान. 
-
-l. 27. . T. 52 ziqat oqibat: 97 chiar:; again in tit. 77. 7. 25. 8 we have प्रतिषिद्धवाङ्मनसापचारे व्याहृतयः पञ्च सत्यान्ताः; and in गौ. 28. 8 the five anglas seem to be 7, 49, 59, 99: Fej. As Fig7 remarks the five öntglas in alle au are 7, 49, fa: asi, 971:. The zielās are gent rally declared to be seven (. 371. 10. 28. 1), the first three being dylod महाव्याहृतिs (vide मनु II. 81.) 
-
-STITU) 
-
-X4 
-
-History of Dharmaśāstrat 
-
-opinion in favour of one probability as against another. There is no inconsistency in doing this and it is always possible that different scholars may hold widely divergent views about the age and other matters relating to a writer or work (particularly an ancient one ). I need cite only one example. The Artha śāstra of Kautilya has been available in print for half a century. There are hundreds of papers and books on various aspects of the Arthaśāstra. Yet on the question of the age of the Arthaśāstra depending on the same materials there are at least two divergent views, some scholars assigning it to 300 B. C. (Jacobi, Sham Shastry and Jayaswal), while others like Jolly and Winternitz bring down the work to 300 A. D. 
+<!-- Continue from here. Page 33 Para 2 in the source material -->
 
 Now that the charge of inconsistency has been made against me, I should like to say something more here. Gotama is a famous rsi in the Rgvoda. The name occurs at least eighteon timos in the Rgveda mantras and is employed in almost all cases (from nominative to vocative ). Rahugana Gotama is the rṣi of Rgveda I. 74-93 and the word Rabūganāh (plural) occurs in Rg. I. 78. 5. Nodha Gautama is the rsi of hymns 58-64 of Rgveda I and of hymn 88 of Rg. VIII. Nodhah (vocative ) occurs in Rg. I. 64. 1. Nodhāḥ Gotama occurs in Kg. I. 62.13 and Nodhāḥ (nom. sing.) in Rg. I. 61.14, I. 124. 4. Vāmadeva Gautama is the sage of almost all hymns in Rgveda-mandala IV (viz. hynins 1-41 and 45-48). In Rg. IV. 4. 11 Vāmadeva speaks of Gctama as his father. It is well-known that the verses of the Sāmaveda are taken from the Rgveda (except about 75). In the Index of the words in the Sāmaveda, prepared and published in the Nirnaya sagara Press by the Swamis Vishveshvarananda and Nityananda in 1908, the words Gotama, Gautama, Nodhas, Vāmadeva and Rahūgana do not occur at all. In the two Varśas attached to Br. Up. II. 6. 1 and IV, 6. %, the name of Gautama occurs thrice among the 60 generations or so from Brahman (n.) to Pautimāsya. It is rather renarkable that Svetaketu Āruṇeya's father is addressed as Gautama by Pravābapa Jaivali in Br. Up. VI. 2. 4-13. It may further be noted that in the daily turpana (satiating with water) of gods, sages and pitrs, ( as required by Manu II. 176 also ), the Āśv. Gș III. 1. 5. mentions several 60a 
 
