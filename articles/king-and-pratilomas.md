@@ -11,3 +11,4 @@ In Bṛhaspatismṛti, the king is told to protect the dharmas of those born of 
 
 For these acts, no punishment and prāyaścitta is required.
 
+Vīramitrodaya's author cites Madanaratnākara on this, which says that in the specific deśa, performing actions which are against śruti and smṛti, does produce sin, but it cannot hinder the vyavahāra. Though, it says, it certainly will cause the attainment of naraka.
