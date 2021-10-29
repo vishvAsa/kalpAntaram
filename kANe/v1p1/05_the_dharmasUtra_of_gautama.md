@@ -43,71 +43,78 @@ The most important matter about this passage is that the whole of Gaut. Dh. S. c
 
 Dr. Ram Gopal is rather inaccurate when he says (p. 52) that the majority of the purificatory texts are from the Sāmaveda. Restricting oneself only to the number of texts specified (which are 21) there are only ten texts that are Sāmavedic (essentially nine only as Rathantara and Bṛhat are two consecutive verses of the Sāmaveda, Pūrvāroika). But there are other important details of this sūtra that deserve consideration. The first purificatory text is Upaniṣads, which are enormous in extent as compared with the Sāman texts and all the Vedic Saṃhitās are several thousand times more extensive than all the specified Sāmans. Therefore, this argument comes practically to nothing as proof of the assertion that the Gaut. Dh. S. was from the first affiliated to the Sāmaveda. The other argument about one chapter (26) being borrowed from Sāmavidhāna Br. leads nowhere. If the Baudhāyana Dh. S. even after borrowing a chapter from another source, does not cease to be a sūtra of the Kṛ. Yajurveda, there is no reason why the same reasoning cannot hold good as to the Gaut. Dh. S. Dr. Ram Gopal refers (on p. 53) to passages from Lāṭyāyana (I. 3. 3, I. 4. 7) and Drāhyāyaṇa (II. 3. 15) Śrautasūtras that speak of Gautama and from Gobhila Gṛ. (in III. 10.6 refers to Gautama's views on Aṣṭakā Śrāddhas) and that certain sūtras of Gobhila Gṛ. agree closely with Gautama's (p. 53 and notes p. 56).
 
-<!-- Continue from here. Page 37 Para 2 in the source material -->
+From these two circumstances it does not follow at all that Gautama (of the Dharmasūtra) belonged to the Sāmaveda. That would be begging the question. Gobhila's is comparatively a rare name among ancient sages connected with Vedic Literature, while the name Gautama is a very ancient one, has been closely connected with the Ṛgveda and the Kṛṣṇa Yajurveda occurs in the tarpaṇa for Ṛgvedins, is quoted by Āp. Ś. S. (I. 3. 33) and Baud. Dh. S. Therefore, one may say with good reason that Gobhila, Lāṭyāyana and others refer to or follow the views of Gautama, one of the most famous and ancient sages. 
 
-From these two circumstances it does not follow at all that Gautama (of the Dharmasūtra ) belonged to the Simaveda. That would be begging the question. Gobhila's is comparatively a rare name among ancient sages connected with Vedic Litera ture, while the name Gautamia is a very ancient one, has been closely connected with the Ṛgveda and the Krsna Yajurveda occurs in the tarpaṇa for Ṛgvedins, is quoted by Ap. Ś. S. (I. 3. 33 ) and Baud. Dh. S. Therefore, one may say with good reason that Gobhila, Lātyāyana and others refer to or follow the views of Gautama, one of the most famous and ancient sages. 
+It should be noted that Gautama's views are mentioned twice in the Ās. Ś. S. The first passage refers to the controversial question of śrāddha in honour of three paternal ancestors of a person when one or two of the three are alive. This subject has been dealt with in H. of Dh. Vol. IV pp. 511 ff. The author of Āś. Śr. S. in II. 6. 16-23 states the differing views of Gāṇagāri, Taulvali and Gautama, and states his own conclusions. Similarly, Āś. Śr. S. in V. 6. 22 refers to the view of Gautama that it is the hotṛ priest that first partakes of camasa oblations in the hotṛ's vaṣaṭkāra. Āp. Śr. sūtra (I. 3. 11) refers to the view of Gautama. These passages may lead one to conjecture that Gautama had composed a śrautasūtra also, which is not now available. We have many such instances where out of the three classes of the sūtras of a Vedic caraṇa (viz. Śrauta, Gṛhya and Dharma) often one or even two are wanting or not available. There is no Lāṭyāyana Gṛhya nor Dharma sūtra, though Lāṭyāyana Śr. S. exists, there is the Gobhila G. S. and the Khādira Gṛhya sutra but no Gobhila or Khādira Ś. S. nor Dharmasūtra. We have Āśv. S. S. and G. S., Mānava Ś. S. and G. S., Drāhyāyaṇa and Jaiminīya Ś. S. and Gṛ. S. but no Dharmasūtra belonging to these caraṇas. In the case of Gautama, we may make several conjectures viz. that all three classes of sūtras composed by or attributed to Gautama once existed but two of them are now not available, or that Gautama Dharmasūtra was an independent work or that the Gautama mentioned in some Śrautasūtras is different from the author of the Dharmasūtra. One thing is clear that Gautama being a gotra name was borne by many persons from the times of the Ṛgveda and that some of such persons were Ṛgvedins. One solid fact is that Gautama's is the earliest of the extant Dharmasūtras (though some sūtras may be of doubtful authenticity) and the view in the present state of our knowledge that his was an independent Dharmasūtra has the greatest probability. This view would explain why the Gaut. Dh. S., though the oldest of Dharmasūtras conforms with Pāṇini's grammar far more than the Āpastamba Dh. S. and Baud. Dh. S. do. The latter two, being a compact part of the Kalpasūtra and transmitted orally from one generation to another, retained many un-Pāṇinian forms while the Gaut. Dh. Ś. being originally unconnected with any definite school could be easily amended according to the requirements of those memorizing or reading it. Besides, there is no direct evidence before Kumārila that Gautama was adopted by the Sāmavedins and as to how many centuries before him.[^60e] My view is that the author of Āpastamba Dh. S. was a southerner and wrote either at a time when Pāṇini's work was not composed at all or before it spread throughout India.
 
-It should be noted that Gautama's views are mentioned twice in the Ās. S. S. The first passage refers to the controver sial question of śrāddha in honour of three paternal ancestors of a person when one or two of the three are alive. This subject has been dealt with in H. of Dh. Vol. IV pp. 511 ff. The author of Āś. Śr. S. in II. 6. 16-23 states the differing views of Gāṇagāri, Taulvali and Gautama, and states his own conclusions, Similarly, Āś. Śr. S. in V. 6. 22 refers to the view of Gautama that it is the hotr priest that first partakes of camasa oblations in the hott's vasatkāra. Āp. Śr. sūtra (I. 3. 11 ) refers to the view of Gautama. These passages may lead one to conjecture that Gautama had composed a śrautasūtra also, which is not now available. We have many such instances where out of the three classes of the sūtras of a Vedic carana (viz. Śrauta, Gṛhya and Dharma ) often one or even two are wanting or not available. There is no Lātyāyana Gṛhya nor Dharma sūtra, though Lātyā yana Śr. S. exists, there is the Gobhila G. S. and the Khādira Grhya sutra but no Gobhila or Khādira Ś. S. nor Dharmasūtra. We have Āśv. S. S. and G. S., Mānava Ś. S. and G. S., Drāhyā yana and Jaiminiya S. S. and Gṛ. S. but no Dharmasūtra belon ging to these caranas. In the case of Gautama, we may make several conjectures viz. that all three classes of sūtras composed by or attributed to Gautama once existed but two of them are now not available, or that Gautama Dharmasūtra was an inde pondent work or that the Gautama mentioned in some Śrauta sūtras is different from the author of the Dharmasūtra One thing is clear that Gautama being a gotra name wa borne by 
+Writers of Sūtras sometimes refer to or quote sūtras of other schools. For example, Gautama's view (stated in XI. 20) is mentioned in the Baudhāyana Dh. S. I. 1, 25. Baud. Dh. S. stated five differences in the usages of the peoples of the south and of the north, and states the view of some that a person (of one region) if he followed the practice of another region would incur sin and that the custom in a country (southern or northern) would be authoritative in that country alone and notes that Gautama holds this latter view to be wrong. This establishes that Gautama Dh. S. came before Baud. Dh. S. (and before the earliest part of it.).[^60f] 
 
-UTE 
-
-WS 
-
-POOKA 
-
-I FOUNDED // 
-
-Ś. The Dharmasūtra of Gautama 
-
-29 
-
-many persons from the times of the Ṛgveda and that some of such persons were Ṛgvedins. One solid fact is that Gautama's is the earliest of the extant Dharmasūtras (though some sūtras may be of doubtful authenticity ) and the view in the present state of our knowledge that his was an independent Dharmasūtra has the greatest probability. This view would explain why the Gaut. Dh. S., though the oldest of Dharmasūtras conforms with Panini's grammar far more than the Apastamba Dh. S. and Baud. Dh. S. do. The latter two, being a compact part of the Kalpasūtra and transmitted orally from one generation to another, retained many un-Pāṇinian forms while the Gaut. Dh. Ś. being originally unconnected with any definite school could be easily amended according to the requirements of those memorizing or reading it. Besides, there is no direct evidence before Kumārila that Gautama was adopted by the Sāmavedins and as to how many centuries before him.60 My view is that the author of Āpastamba Dh. S. was a southerner and wrote either at a time when Pāṇini's work was not composed at all or before it spread throughout India 
-
-Writers of Sūtras sometimes refer to or quote sūtras of other schools. For example, Gautama's view ( stated in XI. 20) is mentioned in the Baudhāyana Dh. S. I. 1, 25. Baud. Dh. 8. stated five differences in the usages of the peoples of the south and of the north, and states the view of some that a person (of one region ) if he followed the practice of another region would incur sin and that the custom in a country (southern or northern) would be authoritative in that country alone and notes that Gautama holds this latter view to be wrong. This establishes that Gautama Dh. S. came before Baud. Dh. S. (and before the earliest part of it. ). 631 
-
-60 e A grant renewed by king Bhāskaravarman of Kamarūpa originally 
-
-made by his great-great-grandfather is published in E. I. Vol. 19 pp. 248-250 where the donces are named and their gotras are mentioned such as Gautama, Kautilya, Maudgalya &c. The original grant must have been made in the 5tb or 6th century A. D. Io the same E. I. Vol, at p. 75 there is a grant of the Haihaya king Pptbvideva I, which is the oldest dated Haibaya grant (corresponding to 1079 A. D.) a dopee of the Bahvṛca Sakha is said to have belongei to the Angirasa gotra and 10 have three pravaras ( Ucathya-Gautama-Vasiṣtheti triprav. araya on p. 80). Vide E. I. Vol. 14 pp. 202 ff for a grant of Samvat 1150 (i. e. 1093-94 A. D.) tbat gives the names of about 500 donees 
-
-with their gotras,the Gautamagotra being mentioned at least thirty times. 60 f पञ्चधा विप्रातिपत्तिदक्षिणतस्तथोत्तरतः।...इतरदितरस्मिन् कुर्वन् दुष्यतीतरदितास्मिनस 
-
-(Continued on next page ) 
-
-30 
-
-History of Dharmaśāstra 
-
-According to Haradatta the dharmasūtra has 28 chapters. The Calcutta edition adds one chapter on Karmavipūka after chapter 19. In many places Gautama unmistakably refers to his own previous dicta; e. g. Yathoktam vā (23. 16 ) refers to 23. 10; 23. 26 refers to 17. 8-26; 17. 18 refers to 15. 18. The following are briefly the contents of the Gautamadharmasūtra :-1. Sources of dharma, rules about interpretation of texts, time of Upanayana for the varnas, the appropriate girdle, deer skin, cloth and staff for each Varna, rules about sauca and ācamana, method of approaching the teacher; 2 rules about those not invested with sacred thread, rules for the brahmacūrin, control of pupils, period of study; 3 The four āśramas, the duties of brahmacūrin, bhikṣu, and vaikhūnasa; 4 rules about the house-holder, marriage, age at time of marriage. eight forms of marriage, sub-castes; 5 rules about sexual intercourse on marriage, the five great daily sacrifices, the rewards of gifts, inadhuparka, method of honouring guests of the several castes; 6 rules about showing respect to parents, relatives (male and female ) and teachers, rules of the road; 7 rules about the avocations of a brāhmaṇa, avocations for him in distress, what articles a brāhmaṇa could not sell or deal in; 8 the forty samskāras and the eight spiritual qualities (such as dayū, forbearance &c.); 9 the observances for ā snataka and householder; 10 the peculiar duties of the four castes, the responsi bilities of the king, taxation, sources of ownership, treasure-trove, guardianship of minor's wealth; 11 Rājadharma, the qualities of the king's purohita ; 12 punishments for libel, abuse, assault, hurt, adultery and rape, theft in the case of the several varnas and rules about money-lending and usury and adverse possession, special privileges of brālmanas as to punishments; payment of debts, deposits; 13 rules about witnesses, falsehoods when excusable; 14 rules of impurity on birth and death; 15 Srāddha of five kinds, persons not fit to be invited at Śrāddha; 16 Upākarma, period of Vedic study in the year. holidays and occasions for them;17 rules about food allowed and forbidden to brāhmaṇas and other castes; 18 the duties of women, niyoga and its conditions, discussion about 
+[^60e]:
+    A grant renewed by king Bhāskaravarman of Kāmarūpa originally made by his great-great-grandfather is published in E. I. Vol. 19 pp. 248-250 where the donees are named and their gotras are mentioned such as Gautama, Kauṭilya, Maudgalya &c. The original grant must have been made in the 5th or 6th century A. D. In the same E. I. Vol. at p. 75 there is a grant of the Haihaya king Pṛthvīdeva I, which is the oldest dated Haihaya grant (corresponding to 1079 A. D.) a donee of the Bahvṛca Śākhā is said to have belonged to the Āṅgirasagotra and to have three pravaras (Ucathya-Gautama-Vasiṣṭheti tripravaraya on p. 80). Vide E. I. Vol. 14 pp. 202 ff for a grant of Saṃvat 1150 (i. e. 1093-94 A. D.) that gives the names of about 500 donees with their gotras, the Gautamagotra being mentioned at least thirty times.
+    
+[^60f]:
+    पञ्चधा विप्रतिपत्तिर्दक्षिणतस्तथोत्तरतः।...इतरदितरस्मिन् कुर्वन् दुष्यतीतरदितरस्मिन् तत्र तत्र देशप्रामाण्यमेव स्यात् । मिथ्येतदिति गौतमः। उभयं चैव नाद्रियेत शिष्टस्मृतिविरोधदर्शनात् । बौ. ध​. सू. I. 2. 19, 23-26. Compare गौ. ध​. सू. 'देशजातिकुलधर्माश्चाम्नायैरविरुद्धाः प्रमाणम् ।' XI. 20, which is quoted by कुमारिल​ in the words "स्मृतिकाराश्च 'आचारश्चैव साधूनां', 'देशजाति प्रमाणम्' इति वेदाविरुध्दानामाचाराणां सामान्यतः प्रमाण्यमनुमन्यन्ते ।" तन्त्रवा. p. 205 the words आचारश्चैव साधूनां are मनु II. 6. 
 
 
+According to Haradatta the dharmasūtra has 28 chapters. The Calcutta edition adds one chapter on _Karmavipāka_ after chapter 19. In many places Gautama unmistakably refers to his own previous _dicta_; e.g. Yathoktam vā (23. 16) refers to 23. 10; 23. 26 refers to 17. 8-26; 17. 18 refers to 15. 18. The following are briefly the contents of the Gautamadharmasūtra:-
 
+1. Sources of dharma, rules about interpretation of texts, time of _Upanayana_ for the _varṇas_, the appropriate girdle, deer skin, cloth and staff for each Varṇa, rules about _śauca_ and ācamana, method of approaching the teacher;
 
+2. Rules about those not invested with sacred thread, rules for the _brahmacārin_, control of pupils, period of study;
 
- 
+3. The four āśramas, the duties of _brahmacārin_, _bhikṣu_, and _vaikhānasa_; 
 
- 
+4. Rules about the house-holder, marriage, age at time of marriage. eight forms of marriage, sub-castes;
 
- -..- 
+5. Rules about sexual intercourse on marriage, the five great daily sacrifices, the rewards of gifts, _madhuparka_, method of honouring guests of the several castes;
 
- 
+6. Rules about showing respect to parents, relatives (male and female) and teachers, rules of the road;
 
-( Continued from last page) तत्र तत्र देशप्रामाण्यमेव स्यात् । मिथ्येतदिति गौतमः। उभयं चैव नाद्रियेत शिष्टस्मृति facintara iat. 7. 7. 1. 2. 19, 23-26. Compare *). 19. 
+7. Rules about the avocations of a brāhmaṇa, avocations for him in distress, what articles a brāhmaṇa could not sell or deal in;
 
-F ataifa BASTAILI alicianT: SHIUTAL 1' XI. 20, which is quoted by hiles in the words "Falgrat 31 arada Aretat', 'havi a LTA' sfat derfaglamat Aralata: 514704347491 TabP-205yyhe words 3rarea hrazat are na 11. 6. 
+8. The forty saṃskāras and the eight spiritual qualities (such as _dayā_, forbearance &c.);
 
-POONA 
+9. The observances for a _snātaka_ and householder;
 
-A 
+10. The peculiar duties of the four castes, the responsibilities of the king, taxation, sources of ownership, treasure-trove, guardianship of minor's wealth;
 
-FOUNDEO 
+11. Rājadharma, the qualities of the king's _purohita_;
 
-1917 
+12. Punishments for libel, abuse, assault, hurt, adultery and rape, theft in the case of the several varṇas and rules about money-lending and usury and adverse possession, special privileges of brāhmaṇas as to punishments; payment of debts, deposits;
 
-5. The Dharmasūre of Guuluma 
+13. Rules about witnesses, falsehoods when excusable;
 
-31 
+14. Rules of impurity on birth and death;
 
-the son born of niyoga; 19 the causes and occasions, of prāyaścitta, five things that remove sin (japa, tapas, loma, fasting, gifts ), purifi catory Vedic prayers, holy food for one who practises japa, various kinds of lapas and gifts, appropriate times and places for japa&c.;20 abandoning a sinner who does not undergo prāyaścitta and the way of doing it; 21 sinners of various grades, mahāpātakas, upapātakas &c.; 22 prāgaścittas for various sins such as brahmahatyū, adult ory, killing a Ksatriya, Vaisya, Sūdra, cow and other animals &c.; 23 prāyascitta for drinking wine and nasty things, for incest and un-natural offences, and for several transgressions by brahma cārin; 24 secret prāyaścittas for mahūpātakas and upapūlakas; 26 the penances called Kṛcchra and Atikrochra: 27 the penance call ed Cāndrāyaṇa; 28 partition, stridhana, ro-union, twelve kinds of sons, inheritance. 
+15. Śrāddha of five kinds, persons not fit to be invited at Śrāddha;
+
+16. Upākarma, period of Vedic study in the year, holidays and occasions for them;
+
+17. Rules about food allowed and forbidden to brāhmaṇas and other castes;
+
+18. The duties of women, _niyoga_ and its conditions, discussion about the son born of _niyoga_;
+
+19. The causes and occasions, of prāyaścitta, five things that remove sin (_japa_, _tapas_, _homa_, fasting, gifts), purificatory Vedic prayers, holy food for one who practises _japa_, various kinds of _japas_ and gifts, appropriate times and places for _japa_ &c.;
+
+20. Abandoning a sinner who does not undergo prāyaścitta and the way of doing it;
+
+21. Sinners of various grades, mahāpātakas, upapātakas &c.;
+
+22. Prāyaścittas for various sins such as _brahmahatyā_, adultery, killing a Kṣatriya, Vaiśya, Sūdra, cow and other animals &c.;
+
+23. Prāyaścitta for drinking wine and nasty things, for incest and un-natural offences, and for several transgressions by brahmacārin;
+
+24. Secret _prāyaścittas_ for _mahāpātakas_ and _upapātakas_;
+
+25. Other secret penances;
+
+26. The penances called Kṛcchra and Atikṛcchra;
+
+27. The penance called Cāndrāyaṇa;
+
+28. Partition, strīdhana, re-union, twelve kinds of sons, inheritance.
+
+<!-- Continue from here. Page 40 Para 2 in the source material -->
 
 The Gautama-dharmasūtra is written entirely in prose and it contains no verses either quoted or composed by the author him self, as is the case with the other harmasutrus. Here and there occur sitras that look like portions of Anustubh verses e.g. 23.2761. The language of Gautama agrees far more closely with the standard set up by Panini than the dlarmasūtras of Baudhāyana and Āpastamba. It is not very easy to account for this differ ence. It is obvious that commentators and generations of students that were brought up in the tradition of the Pāṇinean grammar tampered with the text and improved it in accordance with their notions of correct Sanskrit. But why this process should not have been carried out to the same extent in the case of Āpastamba it is difficult to say. A conjecture may be hazarded that the Āp. Dh. S. being a well-knit component of the Ap. Kulp and being studied as such was less liable to being tampered with than the Gautama Dh. S., which probably did not in its origin belong to any particular kalpi. The same commentator, Haradatta, explained both Gautama and Āpastamba. Haradatta, who, as will be seen later on, was a great grammarian, shows in several places that the current reading was ungrammatical from the Pāṇintan stand-point and that he preferred readings that were in consonance with Pānini's rulesha Thero are still a few un-Pāninean words, e. g. in 1. 14 ('dvāvinnsateh for dvāvim 
 
@@ -139,7 +146,7 @@ FOUNDED
 
 (0. g. III. 35, IV, 18). What teachers are meant by the word * Ācāryāḥ'(which occurs in the Nirukta, in Kautilya and various other works ), it is difficult to say. Probably the word means 'the general traditional view of most writers in that particular śāstra on a particular point.' Vide the author's paper on * The meaning of Ācāryāḥ'in ABORI Vol 23 pp. 206-213. In numerous places Gautama refers to the views of his predecessors in the words .eke' (2. 15, 40 and 56, 3. 1, 4. 17, 7.23 &c.) and 'okesām' (28. 17 and 38 ). This proves that Gautama was preced-1 od by great literary activity in the sphere of dharmaśāstra. Gautama 11. 28 seems to be a reminiscence of the Nirukta (II. 3 )612 
 
-The earliest reference to Gautama as an author on dharma occurs in the Bauchāyanadharmasūtra. Baudhāyana discusses the authoritativeness of usages peculiar to the north or the south and quotes Gautama as saying that it is wrong to hold that certain customs must be held authoritative in certain countries (even though opposed to Vodic tradition and smrti). This refers to G. Dh. S. 11. 20. In another place Baudhāyana gives it as his view that a Brāhmana, if he cannot make a living by teaching, officiat ing as a priest or hy gifts, should earn his livelihood as a Ksatriya and quotes the views of Gautama as opposed to this65. The extant Gautama on the other hand teaches the same view as that of Baudhāyana66. Bühler made the plausible suggestion that the sūtra in the extant Gautama is an interpolation. Govindasvāmni, the commentator of Baudhayana, suggests that another Gautama is referred to by Baudhāyana. It is possible to suggest that in the Ms. of Gautama usod by Baudhāyana the sūtra about living as a Ksatriya did not occur and the next sūtra about living as a Vaisya alone occurred. Chapter 19 of the Gautamadharmasūtra which forms an introduction to prūyascittus in Gautama seems to have been borrowed wholesale by Baudhāyana (III. 10 ) with slight changes. That Baudhāyana borrows follows from the fact that the chapter in Baudhayana occurs in the middle of the discussion about prāyaścittas and not as an introduction, which is the case in Gautama. Baudhāyana treats of penances in several places (II. 1 
+The earliest reference to Gautama as an author on dharma occurs in the Bauchāyanadharmasūtra. Baudhāyana discusses the authoritativeness of usages peculiar to the north or the south and quotes Gautama as saying that it is wrong to hold that certain customs must be held authoritative in certain countries (even though opposed to Vodic tradition and smrti). This refers to G. Dh. S. 11. 20. In another place Baudhāyana gives it as his view that a Brāhmana, if he cannot make a living by teaching, officiat ing as a priest or hy gifts, should earn his livelihood as a Ksatriya and quotes the views of Gautama as opposed to this65. The extant Gautama on the other hand teaches the same view as that of Baudhāyana66. Bühler made the plausible suggestion that the sūtra in the extant Gautama is an interpolation. Govindasvāmni, the commentator of Baudhayana, suggests that another Gautama is referred to by Baudhāyana. It is possible to suggest that in the Ms. of Gautama usod by Baudhāyana the sūtra about living as a Ksatriya did not occur and the next sūtra about living as a Vaisya alone occurred. Chapter 19 of the Gautamadharmasūtra which forms an introduction to prūyaścittas in Gautama seems to have been borrowed wholesale by Baudhāyana (III. 10 ) with slight changes. That Baudhāyana borrows follows from the fact that the chapter in Baudhayana occurs in the middle of the discussion about prāyaścittas and not as an introduction, which is the case in Gautama. Baudhāyana treats of penances in several places (II. 1 
 
 ... 
 
