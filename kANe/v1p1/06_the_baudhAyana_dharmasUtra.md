@@ -44,48 +44,24 @@ As regards the literature known to Baudhāyana the following points may be noted
 [^74]:
     तन्त्रवार्तिक p. 139 'आपस्तम्बवचनं तु बौधायनेन स्मृतिविरुद्धदुष्टाचारोदाहरणान्येव प्रयच्छता निराकृतम्'. The words in the बौ. ध​. सू. (I. 11. 27 'तत्र तत्र देशप्रामाण्यमेव स्यात्' are opposed to the words of आपस्तम्ब​ 'एतेम देशलधर्मा व्याख्याताः.'
 
-<!-- Page 56 Para 2 -->
-POONA 
+[^75]:
+    तन्त्रवार्तिक p. 993 तथा च स्मृतिः।...धारयेद्वैणवं शुभं रौक्मे च कुण्डले इत्यादि सूपपत्स्यते'; Baud. has वैणवं दण्डं धारयेद्रुक्मकुण्डले च. Compare मनु IV.36. It is probable that the तन्त्रवार्तिक, combines बौ. and मनु.
 
-FOUNDED 
+[^76]:
+    'गुणवते कन्यका प्रदेया इति तावत्प्रथमः कल्पः' शाकुन्तल 4th Act; while Baud. has 'दद्याद्गुणवते कन्यां नग्निकां ब्रह्मचारिणे'.
 
-6, 
+About the home of Baudhāyana it is difficult to advance any positive conclusion. In modern times Baudhāyaniyas are mostly confined to the south. We know that Sāyana, the great commentator of the Vedas, was a Baudhāyanīya. A grant of Nandivarma, a Pallava, of the 9th century mentions Brāhmaṇas of the _pravacana-sūtra_ as recipients.[^77] As Baudhāyana is called pravacanakāra in the Gṛhyasūtra Bühler thinks (S. B. E. vol. 14 p. XLII) that the Brāhmaṇas belonged to the Baudhāyanacaraṇa. Bühler is probably right. In the grant most of the donees are students of the Āpastamba Sūtra. First the Gotra, then the Sūtra and then the name of the donee are introduced in the grant. Therefore as some of the donees are said to be students of "pravacanasūtra", it follows that "pravacana" stands for some sūtra school. It appears that _sūtra_ and _pravacana_ are two different things, whatever the latter term may mean. Baudhāyana is called pravacanakāra and Āpastamba is styled sūtrakāra. We are told by the Baudhāyana-gṛhysūtra[^78] that a Brāhmaṇa who studied _sūtra_ and _pravacana_ was styled "bhrūṇa." Bühler was inclined to hold that Baudhāyana was a southern teacher for several reasons. Baudhāyana mentions customs of the south and includes sea-faring as a custom peculiar to the north (I. 1. 20), while in another place he places sea-faring at the head of sins (_patanīyas_) lesser than the mortal ones (II. 1. 41). Therefore it is said that he was not a northern teacher. But as against this we have to remember that Baudhāyana (I. 1. 29) quotes with approval a verse in which the countries of Avanti (Ujjain), Aṅga, Magadha, Surāṣṭra (Kathiawar) and Dakṣiṇāpatha are declared to be the home of mixed castes. Dakṣiṇāpatha was generally supposed to be the whole peninsula south of the Narmadā. Baudhāyana, if he was a native of the south, would not have spoken of his country as the home of mixed castes only, unless he put a restricted meaning on the word Daksiṇāpatha (which sometimes meant in later days Mahārāṣṭra). Vide J. B. B. R. A. S. for 1917 p. 620. Though as stated above, the question of the home of Baudhāyana is a difficult one, yet if a definite inclination has to be shown, then I am disposed to agree with Bühler that the author of Baud. Dh. 8. was a southerner. It is important to note that Baud. wants to expound the dharmas declared in the Veda, in the Smṛtis and those practised by śiṣṭas (I. 1. 1-4) and defines śiṣṭas (1. 1. 5-6) as those who possess certain moral qualities and who understand the Veda together with other supporting śāstras. He sets out first the five peculiar usages of the southern part, two of which are the usages of marrying one's maternal uncle's or paternal aunt's daughter, These two are even now in vogue in some parts of Mahārāṣṭra and the South among certain sub-divisions of brāhmaṇas and were not prevalent in the north. Baudhāyana impartially sets forth five practices of the south and five of the north that were opposed to ancient śāstras and his own view appears to have been that in the case of all persons belonging to Āryāvarta (whether they be in the northern or southern parts) both sets of five practices in sūtras (19 and 20) were not to be followed. In that connection he quotes several (three) views about Āryāvarta and two verses more, one of which names the countries in which there is mixture of castes and the 2nd mentions some countries like Āratta (Panjab), Sauvīra, Puṇḍra, Vaṅga, Kaliṇga, sojourn in which made a person liable to undergo an expiation. The countries mentioned in the first verse are all (except Dakṣiṇāpatha) to the north of the Narmadā. It is quite probable that he did not like the usage of marrying one's maternal uncle's or paternal aunt's daughter even for southern people. It should be noted that almost all the countries in the 2nd verse are north of the Narmadā. Further, Dakṣiṇāpatha appears to have meant a country roughly like modern Mahārāṣṭra long before the Christian era; vide ASWI. Vol. V. p. 60 which shows that in an inscription (No. 1) of Nanaghat (Poona District) Vedisiri is mentioned as king of Dakṣiṇāpatha. Vide ASWI Vol. IV. p. 110 and Rudradāman's inscription (E. I. Vol. VIII at p. 44, where Sātakarṇi is said to have been lord of Dakṣiṇāpatha). The fact that Āpastambīyas, Hiraṇyakeśins and Baudhāyanīyas have congregated much more in the south than in the north for centuries supports the above statement. The words Uttarāpatha and Dakṣiṇāpatha were never strictly defined. For example, in the Sanjan plates (supposed to be spurious) of Buddhavarasa (E. I. Vol. 14 p. 144 at p. 149 about 700 A. D.) we meet with the words 'Uttarāpathādhipati-Śri-Harṣadevaparājayopalabdhogra-pratāpah' i.e. king Harṣa is said to have been lord of Uttarāpatha. If we turn to the Harṣacarita of Bāṇa (first paragraph after two initial verses of the 5th Ucchyāsa) we read 'Atha kadācid-rajā Rājyavardhanam-āhūya Hūṇān hantum...cirantanairamātyaiḥ... kṛtvā sābhisāram-_uttarāpatham_ prāhiṇot'. This shows that Śthāṇvīśvara (modern Thanesar) was not included in Uttarāpatha in Bāna's days. Uttarāpatha occurs in the Hathigumpha Inscription of Khāravela (E.I. Vol. XX. p. 71 at p. 79 and p. 88). Pāṇini knows the word as in V. 1. 77 'Uttarāpathenāhṛtam ca' (Uttarāpathenāhṛtam auttarāpathikam, Uttarāpathena gacchati auttarapathikaḥ). About Dakṣiṇāpatha the Mahābhāṣya says that large lakes are called 'Sarasī' in Dakṣiṇāpatha (Kielhorn's ed. Vol. I. p. 73). The word 'Dakṣiṇāpatha oocurs in the gaṇa 'dhūmādi' (Pān. IV. 2. 127).
 
-The Baulhāyana Dharmasūtra 
+[^77]: 1. A. vol. 8, pp 273-274.
 
 
+[^78]:
+    The whole passage is interesting 'उपनीतमात्रो व्रतानुचारी वेदानां किञ्चिदधीत्य ब्राह्मणः । एकां शाखामधीत्य श्रोत्रियः । अङ्गाध्याय्यनूचानः । कल्पाध्यायी ऋषिकल्पः । सूत्रप्रवचनाध्यायी भ्रूणः । चतुर्वेदादृषिः । अत ऊर्ध्वं देवः ।' बौ. गृ. सू. I. 7. 2-8.
 
-About the home of Baudhāyana it is difficult to advance any positive conclusion. In modern times Baudhāyaniyas are mostly confined to the south. We know that Sāyana, the great commentator of the Vedas, was a Baudhāyaniya. A grant of Nandivarma, a Pallava, of the 9th century mentions Brāhmaṇas of the pravacina-sūtra as recipients.77 As Baudhāyana is called pravacanakāra in the Gṛhyasūtra Bühler thinks (8. B. E. vol. 14 p. XLII) that the Brāhmaṇas belonged to the Baudhāyanacarana. Bühler is probably right. In the grant most of the donees are students of the Āpastamba Sūtra. First the Gotra, then the Sūtra and then the name of the donee are introduced in the grant. Therefore as some of the donees are said to be students of "pravacanasūtra," it follows that "pravacana" stands for some sūtra school. It appears that sūtra and pravucunui are two different 
+<!-- Page 58 Para 2 -->
 
-75 grzaniaat . 993 77891 a fia: 1 ...anda sā jag a fold. 
+The extant Baudhāyanadharmasūtra is certainly later than Gautama, as it mentions Gautama twice by name and as one quota. tion at least is found in the extant Gautama. Besides Baudhāyana quotes by name several teachers on dharma, while Gautama quotes only one, Manu. Baudhāyana is far removed from the times on the Upaniṣads. Baud. (II, 7, 15) quotes a verse which is itself an 
 
-Tarife Arriā '; Baud. has a una cosa Fogadt 9. Compare ha 
-
-IV.36. It is probable that the gozairat, combines al. and Ag. 76 'quad 777 gaisa ar974: Feq:'371372s 4th Act ; while Battle 
-
-bas 'ceramaa front af** Pengistut'. 77 1. A. vol. 8, pp 273-274. 
-
-AU 
-
-NS 
-
-FOONA 
-
-W 
-
-FOUNDED 
-
-History of Dharmasūstra 
-
-things, whatever the latter term may mean. Baudhāyana is called pravacanakāra and Āpastamba is styled sūtrakāra. We are toid by the Baudhāyana-gṛhysūtra78 that a Brāhmaṇa who studied sūtra and pravacana was styled "bhrūna." Bühler was inclined to hold that Baudhāyana was a southern teacher for several reasons. Baudhāyana mentions customs of the south and includes see-faring as a custom peculiar to the north (I. 1. 20 ), while in another place he places sea-faring at the head of sins (patanīyas ) lesser than the mortal ones (II. 1. 41 ). Therefore it is said that he was not a northern teacher. But as against this we have to remember that Baudhāyana (I. 1.29) quotes with approval a verse in which the countries of Avanti (Ujjain), Anga, Magadha, Surāstra ( Kathiawar) and Dakṣiṇāpatha are declared to be the home of mixed castes. Dakṣiṇāpatha was generally supposed to be the whole peninsula south of the Narmadā. Baudhāyana, if he was a native of the south, would not have spoken of his country as the home of mixed castes only, unless he put a restricted meaning on the word Daksiṇāpatha ( which sometimes meant in later days Mahārāstra). Vide J. B. B. R. A. S. for 1917 p. 620. Though as stated above, the question of the home of Baudhāyana is a difficult one, yet if a definite inclination has to be shown, then I am disposed to agree with Bühler that the author of Baud. Dh. 8. was a southerner. It is important to note that Baud. wants to expound the dharmas declared in the Veda, in the Smṛtis and those practised by śistas (I. 1.1-4) and defines sistas (1. 1.5-6) as those who possess certain moral qualities and who understand the Veda together with other supporting sastras. He sets out first the five peculiar usages of the southern part, two of which are the usages of marrying one's maternal uncle's or paternal aunt's daughter, These two are even now in vogue in some parts of Mahārāstra and the South among certain sub-divisions of brāhmaṇas and were not prevalent in the north. Baudhāyana impartially sets forth five practices of the south and five of the north that were opposed to ancient śāstras and his own view appears to have been that in the case of all persons belonging to Aryāvarta ( whether they be in the northern or southern parts) both sets of five practices in sūtras ( 19 and 20 ) were not to be followed. In that connection he quotes several (three) views about Aryāvarta and two verses more, one of which 
-
- 
-
- 
-
-78 The whole passage is interesting 'उपनीतमात्रो व्रतानुचारी वेदानी किविदधीत्य 
-
-ब्राह्मणः । एका शाखामधीत्य श्रोत्रियः । अङ्गाध्याय्यनूचानः । कल्पाध्यायी विकल्पः। Pagal 240: 1 apacita: 134a : 1'a. I. . 2-8. 
 
 FOUNDED 
 
@@ -99,11 +75,7 @@ The Brullunyana Dharmısūtra.
 
 uno 
 
-names the countries in which there is mixture of castes and the 2nd mentions some countries like Āratta (Panjab), Sauvīra, Puṇdra, Vanga, Kalinga, sojourn in which made a person liable to undergo an expiation. The countries mentioned in the first verse are all (except Dakṣiṇāpatha ) to the north of the Narmadā. It is quite probable that he did not like the usage of marrying one's maternaljunole's or paternal aunt's daughter even for southern people. It should be noted that almost all the countries in the 2nd verse are north of the Narmadā. Further, Daksināpatha appears to have meant a country roughly liko modern Mahārāstra long before the Christian era; vide ASWI. Vol. V. p. 60 which shows that in an inscription (No. 1) of Nanaghat (Poona District ) Vedisiri is mentioned as king of Daksināpatha. Vide ASWI Vol. IV. p. 110 and Rudradāman's inscription (E. I. Vol. VIII at p. 44, where Satakarni is said to have been lord of Dakṣiṇāpatha). The fact that Āpastamblyas, Hiraṇyakeśins and Baudhāyaniyas have congregated much more in the suuth than in the north for centuries supports the above statement. The words Uttarā patha and Daksimāpatha were never strictly defined. For example, in the Sanjan plates ( supposed to be spurious ) of Buddhavarasa (E. I. Vol. 14 p. 144 at p. 149 about 700 A. D.) we meet with the words 'Uttarāpa thādhipati-Sri-Harṣadevaparājayopalabdhogra-pratāpah' i. e. king Harsa is said to have been lord of Uttarapatha. If we turn to the Harsacarita of Bāṇa (first paragraph after two initial verses of the 5th Ucchyāsa ) we read 'Atha kadācid-rajā Rajyavardhanam-ābūya Hūṇān hantum...cirantanairamātyaih... kṛtvā sābhisāram-uttarūpatham prāhiṇot'. This shows that Sthānvisvara (modern Thanesar) was not included in Uttarāpatha in Bāna's days. Uttarāpatha occurs in the Hathigumpha Inscription of Khāravela ( E.I. Vol. XX. p.71 at p. 79 and p. 88 ). Pānini knows the word as in V. 1.77 'Uttarāpathenāhrtam ca' ( Uttarāpathenāhrtam auttarāpathikam, Uttarāpathena gaochati auttarapathikah). About Dakṣiṇāpatha the Mahābhāṣya says that large lakes are called 'Sarasi' in Dakṣiṇāpatha (Kielhorn's ed. Vol. I. p. 73). The word 'Dakṣiṇāpatha oocurs in the gana 
 
-dhūmādi' (Pān. IV. %. 127 ). 
-
-The extant Baudhāyanadharmasūtra is certainly later than Gautama, as it mentions Gautama twice by name and as one quota. tion at least is found in the extant Gautama. Besides Baudhāyana quotes by name several teachers on dharma, while Gautama quotes only one, Manu. Baudhāyana is far removed from the times on the Upaniṣads. Baud. (II, 7, 15) quotes a verse which is itself an 
 
 History of Dharmaśāstra 
 
