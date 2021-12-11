@@ -1,0 +1,166 @@
++++
+title = "080 Aparārka"
+
++++
+
+80. Aparārka 
+
+On the smṛti of Yajñavalkya Aparāditya wrote a volumin ous commentary styled Apararka-Yajnavalkiya-dharmasastra. nibandha (published in two volumes by the Anandāśrama Press, Poona, 1903 and 1904). In a verse1018 at the end and in the colophons the author is called Aparāditya, a Silāhāra king, born in the family of Jimutavāhana of the Vidyadhara race. In the introductoryl020 fifth verse also the author is styled an ornament of the family of Jimūta' and is highly eulogised for his devotion to Siva and his brilliant intellect. 
+
+The Silāhāras bad a long history for several centuries in India, roughly between the Tāpi river and parts of Goa and pre sent Mysore. There were three main branches, but as they were 
+
+1018° तथाहि चतुर्दशोत्तरसहस्रशाकाब्दे तुलास्थादित्याष्टमदिनोपक्रान्तस्य प्रतिपदादि 
+
+दर्शान्तमासस्य पौर्णमास्यश्विनीभरणीभ्यां व्याप्ता कृत्तिकारोहिण्योरन्यतरयोगाच्च कार्तिकः । कालविवेक pp. 49-50. तथा त्रयोदशोत्तरसहस्रशाकाब्दे तुलादित्यस्य सप्तदशदिने चित्रा स्वातीव्याप्ता मावास्या वृश्चिकादित्ये चानुराधा ज्येष्ठाभ्यां युक्तेति । तद्वत्सरे तस्यां विशाखायोगो 
+
+न वृत्त एव &c. | कालविवेक p. 64. 1019 राष्ट्रं यस्य निरङ्कुशा वसुमती कोशः समृद्ध: मुहृच्छक्तो दुर्गमनागमं क्षतपरा सेना 
+
+हिता मन्त्रिणः । शास्त्रार्थामृतचर्वणापितमतिविश्वकनाथोप्यसौ शौयौदार्ययशो. धनोमुमपरादित्यो निबन्धं व्यधात् ॥ इति श्रीविद्याधरवंशप्रभव श्रीशिलाहारनरेन्द्र जीमूतवाहनान्वयप्रसूतश्रीमदपरादित्यदेवविरचिते याज्ञवल्कीयधर्मशास्त्रनिबन्धेऽप 
+
+रार्के प्रायश्चित्तप्रकरणम् । 1020 __ भक्त्या यस्य सविस्मयः स्मररिपुर्बुद्धया च वाचस्पतिर्विक्रान्त्या द्विषतां गणः शुचितया 
+
+भास्वान्क्षमित्वेन भूः । जीमूतान्वयभूषणं स विपुलां योगीश्वरेणोदिते शास्त्रे वाक्य नयानुगां वितनुते व्याख्यां सतां संमताम् ।। H. D.-90 
+
+714 
+
+History of Dharmaśāstra 
+
+I 
+
+I 
+
+feudatories and did not aspire to imperial title, they were generally referred to as “Mahamandalesvara' and did not rule over extensive territories. The late Professor A. S. Altekar contributed an exhaustive paper on the silāhāras to the Indian Culture (Vol. II for 1935-36, pp. 393-428 ) with a list of Silāhāra Inscrip tions on pp. 43-4330). Here only a brief account will be set out. One branch of Silāhāras ruled over North Konkan from about 800 A. D. to about 1265 A. D. A number of copper plates and Inscriptions on stone of this branch had been published when Dr. Altekar wrote. The pedigree begins with Kapardin ( 800-825 A. D.) and ends with Someśvara (1240–1265 A. D.). This branch ruled over parts of what is now Surat district and over the present districts of Thana, Alibag and parts of the Ratnagiri District, their capitais being Thana and Purī. Vide 1. C. vol. II. p. 402 for a complete genealogy of this line and their chronology. There were two kings in this branch called Aparārka (I in about 1110-1140 A. D.) and Aparārka or Aparāditya (II in 1170–1195 A. D.). The most important records of this branch ( with which alone we are concerned when dealing with Aparārka as a commentator on Yaj.) are those in J. B. B. R. A. S. vol. XXI pp. 505-16, ed. by Prof. K. B. Pathak of the year Śake 1049 ( 1127 A. D.) and in A. B. O. R. I. vol. V. pp. 169–70 edited by Mr. Diskalkar. 1091 About 29 plates and inscriptions of this branch are set out by Prof. Altekar(1. C vol. II on pp. 430-32 ) and on p. 402 of the same the names of all the kings of this branch with dates are mentioned. The two other branches were (I) of the Silahāras of South Konkan as in E. I. Vol. III. pp. 292-302 ( the Kharepatan plates of Rattaraja of Sake 930, 1008 A. D.); (2) and the other ruling over terri tories of what are now parts of Satara and Belgaum Districts and the State of Kolhapur (vide E. I. vol. III pp. 207-216 of sake 1065 i. e. 1143 A. D.). There is no Aparāditya in both these branches. The Silāhāras describe themselves as Tagarapuravarādhi śvara. Greek writers like Ptolemy located Tagara to the north cast of Paithan. Dr. Fleet (JRAS vol. IV p. 281 ) conjectures that it is Ter, a place about 95 miles South-East of Paithan. 
+
+1021. 
+
+This inscription comes from Somnāth in Kathiawad and hence it is dated in Vikraua year 1176 (i, e, Caitra suddha 14 Sunday 1119–20 A, D.) and the grant is of a Vātikā ( modern Vāki in sthānakiya-pātana i. e. in Tbana by a mahāmālya Lakṣmañanāyaka, son of Bhāskaranāyaka 
+
+80. Aparārka 
+
+715 
+
+The most relevant documents for our purpose are those of Aparārka or Aparāditya (literally the Sun of the Western direc tion). The name of the family is variously spelt in the Inscripti ons viz. as Silāhāra, śālār, Siyalar, Selar. There is a place called Śelārvādi near Poona. The first name is rather ancient. It occurs in the Sanskrit drama called Nāgānanda composed by the famous Emperor Harṣadeva (first half of 7th century A. D.). The name was taken to mean 'who offered himself as food on a stone-slab'. The drama is based on the legend that Jimātavāhana, son of Jimūtaketu, offered himself as prey to Garuda who used to devour every day a nāga on a stone-slab. The drama describes Goddess Gauri (consort of Siva ) to be the patroness of Vidyadharas, from whom was descended Jjmūtavāhana. The colophons at the end of the three sections of the Yājāavalkyasmrti mention this legendary matter. It is noteworthy that in the Akalkot Inscrip tion of Silāhāra Indrarasa (E. I. vol. 27, p. 63 ) it is pointed out by the editor of the record that there are no doubt three well known branches of Silāhāras but there are seven other branches also. 
+
+As regards Aparārka there are the grants in ABORI vol. V p. 169, the Vadavali grant of Sake 1049 ( 1127-28 A. D.), and JBBRAS vol. XXI, pp. 506-517. 
+
+Aparārka's work, like the Mitāksarā, though professedly a commentary on Yāj., is really in the nature of a digest. It is far more voluminous than the Mit. It quotes profusely from the Gshya and Dharmasūtras and the metrical smstis. Several features distinguish it from the Mit. The Mit. is generally very chary of quoting from the Purāṇas, while Aparārka contains long extracts sometimes extending over pages from several Purānas, viz. the Adipurāṇa, the Adityapurāṇa, the Kūrma, the Kālikāpurāna, Devi, Nandi, Nṭsimha, Padma, Brahma, Brahmanda, Bhavisyat, Bhavisyottara, Matsya, Mārkandeya, Linga, Varāha, Vāmana, Vāyu, Viṣnu, Visṇudharmottara, Siva dharmottara, Skanda. From the Puranas liundreds of verses are cited. The Vamana on pp. 364-365 on special gifts in the twelve months from Māgha and Sivadharmottra (p. 274) are quoted only once and the Kurma and Linga are quoted only thrice each, but about four hundred verses are quoted from the Matsyapurana alone, about 160 from the Brahmapurāṇa, about 100 from the Bha 
+
+716 
+
+History of Dharmaśāstra 
+
+visyat and so on. The index at the end of the printed Aparārka gives the names of the various smstikāras quoted in the work. Another feature not found in the Mit, is that Aparārka quotes long passages of the Dharmasūtras and explains them at length, e. g. on Yāj. III. 294 (p. 1205 ) he quotes Gautama ( Dh. S. 20. 2-9) and then offers a lengthy explanation ; on Yāj. III. 294–295, he quotes long passages of Vasistha (Dh. S. 15. 11-14 and 17-21) and gives datailed explanations of them. It is probable he had not before him commentaries on these dharmasūtras. Several hundred verses are quoted from the Manusmrti. The Dharma sutras of Apastamba, Gautama, Vasiṣtha, Viṣnu, Bodhāyana, Devala, Paiṭhinasi, Saṅkha, Saṅkhalikbita and Hārita are profu sely quoted. Similarly, Nārada, Bșhaspati and Katyāyana, Parāśara, Yama (quoted over 100 times mostly on ācāra and prayascitta sections) are quoted profusely. It appears from the way that Saṅkha and Sarkhalikhita are quoted that Aparārka had before him two separate works, one of Saṅkha (in which sotras and verses occur almost in equal numbers ) and of Sarkhalikhita in which prose passages vastly predominate and verses occur rarely. In the 99 references to pages where Saṅkha is mentioned he is quoted in prose on pp. 118, 119, 123, 150, 156, 249, 260, 262-63, 274, 694, 717, 718, 741, 842, 875, 882, 944, 1025, 1057, 1066, 1077, 1089, 1094, 1117, 1121, 1148, 1153, 1154, 1158, 1175, 1210, 1241. Saṅkha-Likhitau are mentioned about 63 times, but verses are rare. On p. 224 there is a quotation from sankhalikhitau in which there is a verse first, followed by a prose passage. On p. 896 at first there is a verse passage ( 14 verses ) followed by a prose extract on the same topic. On p. 1149 there is a prose passage of Saṅkhalikhita followed by a half verse attributed to Saṅkha. On p. 1154.1022 there is a passage of Saṅkha followed by another prose from Saṅkhalikhita ( the first word being the same in both). There are similar cases where Saṅkhalikhitau are quoted and then Saṅkha is quoted or vice versa on the same matter ( vide note below ).10224 I collected about 40 years ago passages 
+
+1022 15:17ATE 6FH 21-5790TIGI E TUTE l... Tapos fentient 
+
+HET F\#22testat HEHE ATAG NA Hai ! 27TT, p. 1154. 10224 Tafefent-gaTHEIGU YETETI TEATTU \#rHT: 1; compare 
+
+immediately after ( a verse of tā-314: 774797784T: Te va a \#aqi HUHTIVEPRAT: fal FHETI at Haall; and then again 
+
+(Continued on the next page) 
+
+80. Aparārka 
+
+717 
+
+quoted in digests as those of Saṅkha-Likhita and published them in ABORI, vol. VII (1926) pp. 100-128 and in ABORI vol. 
+
+VIII ( 1927) pp. 93-132. 
+
+It is remarkable that Aparārka names twelve Smstikāras with the prefix vrddha' viz. Gargya, Gautama, Parasara, Para sara, Pracetas, Brhaspati, Manu ( 24 times), Yajnavalkya (ten times ), Vasistha ( 16 times), Vyasa, Satatapa ( 19 times,) and Harita ( twice). He also quotes Laghu-Yama, Laghu-Visnu and Laghu-Harita (9 times); and also Brhat-Pracetas (thrice), Brhad-yama (once), Brhan-Manu (once) and Brhad-Visnu(thrice ). About eighty verses are expressly quoted from the Mahābhārata and only seven from the Ramayana (one on p. 385, two on p.875 and four on p. 881 ). On p. 11 he gives brief summaries in the style of the Saṅkarabhāṣya of the tenets of the Saiva, Pasupata, Pañcarātra, Saṅkhya and Yoga systems. In one place he sets out the arguments of those who hold that correct knowledge alone leads to mok sa and of those who hold that a combination of correct knowledge and works is essential for moksa and leaves his readers to choose for themselves whatever view they take.1083 It is remarkable that, while even the Mit. names at 
+
+1023 
+
+(Centinued from the previous page) त्रिरात्रोपवासघृतप्राशनानुवृत्ती शङ्खलिखितौ मध्वासवदुष्टभाण्डोदकपाने स्त्रिया 
+
+सह भोजने चैतदेव ।। अपरार्क p. 1161. शङ्खलिखितो। बकवलाकाहंसप्लवखञ्जजनककारण्डवचक्रवाककटभारगृहकपोतचाक पारावतशुकशारिकासारसटिट्टिभोलूककाकोलरक्तपादजालपादवारगुढ चाषभास वाव सकोकिलशालिकुक्कुटहरीत भक्षणे दशरात्रमनाहारः। पिबेद्वा गोमूत्रयावकम् ।। शंखः। मद्गहंस बकं काकं कोकिलं खञ्जरीटकम् । मत्स्यादांश्च तथा मत्स्यान्बलाकाः शुकसारिके। चक्रवाकं प्लवं चैव मण्डूकं भुजगं तथा । मासमेकं व्रतं कुर्याद्भूयश्चैव न भोजयेत् । जलचरांश्च जलजान्प्रतुदानखविष्किरान् । रक्तपादाञ्जालपादान् सप्तरात्रं व्रतं चरेत् ॥ अपरार्क pp. 1165-66. Vide pp. 1029-1034 on याज्ञ. III. 205. On p. 1034 he saya 'सदनयोर्मतयोर्यन्न्याय्यं तद्ग्राह्यम् '. It appears that his own final and firn view is stated on p. 959 : ‘एवं केवलां विद्यां केवलं च कर्म निन्दित्वा तयोरन्योन्यसमुचितयोर्मोक्षोपायत्वं विधत्ते श्रुतिः 'विद्यां चाविद्या च यस्तद्वेदोभयं सह । अविद्यया मृत्यु तीर्वा विद्ययामृतमश्नुते' इति । विद्यामात्मोपास नमविद्यां वर्णाश्रमधर्मजातमन्योन्यसमुच्चितमेतदुभयं मोक्षोपायत्वेन वेद जानाति नासावन्धतमः प्रविशति । .. विद्यया साक्षादमृतं मोक्षमश्रुते प्राप्नोति । किंतु मृत्यु तुल्यं मोक्षविघ्न ती| विद्यया आन्मज्ञानेनामृतं प्राप्नोति न पुनः सत्कर्मनिबन्धनं विघ्नोपशममन्तरेणैव विद्यया मोक्षं कश्चिदानोति । .. तस्माद्विद्याङ्गतया कर्मणां मोक्ष प्रति निमित्तभावोत्र विधीयते । विद्यां...मश्नुते is ईशावास्योप० verse n and मैत्रा. उप. 7, 9. 
+
+718 
+
+History of Dharmaśāstra 
+
+least six nibandhakāras on dharmaśāstra viz. Asahāya, Visvarūpa, Bhāruci, Srikara, Medhātithi and Dhāreśvara. Aparırka observes a studied silence in the matter of citing the names of his prede cessors. He employs such vague expressions as kecit, anye, apare, though he cites views that were ascribed by the Mit. and others to Dhāreśvara and others, e. g. on pp. 741-42 he says1024 that the text of Yāj. "patni duhitaraḥ' according to some refers to the widow who submits to niyoga (this is the view of Dhāreśvara); on p. 744 he refers to the view of some that the word duhitr in Yaj. means only the appointed daughter (putrikā). This last was the view of Viśvarūpa and Srikara. On p. 761 he refers to the reading of some in Yāj. II. 150 as 'sāmantā sthavirā gaṇāḥ' which is found in Viśvarūpa (II. 154) and not in the Mit. Aparārka pames (p. 926 ) a Vāgblaṭa-smṛtisamgraha and a Smrti. mīmāṁsā of Jaimini ( p. 206 ) from which two verses are quoted, variant readings therein are noticed and detailed explanations thereof are offered. He refers to several works and authors on astronomy and astrology such as Garga, Kriyāśraya (p. 872), Sārāvali. On pp. 570 and 572 of the printed text occur two references to a pustaka of Rājānaka Sitikaptha.1025 That was probably a marginal note in a mis., the copyist or owner of which found on comparison with another ms. belonging to Rājānaka Siti kantha additional matter. Aparārka quotes from Bhatta (i. e. Kumārilabhatta ).1026 Aparārka does not appeal as frequently to the doctrines of the Pūrvamimams, as the Mit. does and he does not generally enter into acute discussions of Pūrvamimāṁsā in its application to Dharmasastra as the Mit. does. Here and there he mentions a few terms that are often employed in Pūrvamimāṁsā discussions, e. g. on p. 470 on Yāj. I. 226–228 he employs the words “aupadesika' and atideóika.' Similarly, on Yaj. I. 260 (on Trayodasiśraddha in the rainy season ) he enters upon a discussion of the terms 'prasajyapratiședha' and 
+
+• paryudasa'. On Yāj. III. 243 he quotes the Nyāya . sarvasākhā 
+
+1024 अत्र केचिदाहुः – या वरादन्यस्माद्वापि सपिण्डाद्गुरुश्वशुरादिवचनात्पुत्रमिच्छति 
+
+तद्विषयं पत्नी दुहितर इत्यादि वचनमिति । ... एतेन यदुक्तं केनचित् पत्नी दुहितर 
+
+इत्यत्र दुहितृशब्देन पुत्रिकोच्यत इति तन्निरस्तं वेदितव्यम् । . 1025 a RTG AVENHA FEIT: 1 p. 572. 1026 ततश्च यदुक्तं भट्टेन-तस्माद्गुरुगृहे तिष्ठन् मधुमासादि वर्जयन् । जिज्ञासेताविरुद्धत्वा 
+
+Harta li ha acha la eta p. 76. 
+
+80. Aparārka 
+
+719 
+
+pratyam-ekam karmeti-nyāyena smstyantaroktā aviruddha dharmāḥ samuccayena kartavyāḥ'. Vide H. of Dh. Vol. V. pp. 1273 and 1350 for this nyāya based on Jaimini II. 4. 8-33. But such references to Mimāssā and nyāyas are rare in Aparārka's work. For explanation of 'prasajyapratisedha' and 'paryudāsa ', vide H. of Dh. vol. V. pp. 1247–49 and foot-notes 2027-2030 and for Ātidesika and Aupadesika' vide H. of Dh. vol. V. pp. 1321-23 and note 2173. It must be said that Aparārka is much inferior to the Mit. in lucid exposition, in dialectic skill, in subtlety of argu ment and in the ordered presentation of heterogenous material. 
+
+Some of the views that are usually associated with Jimutavāhana were propounded by Aparārka also. Aparārka bases the right to take a deceased person's property on the superior spiritual benefit conferred by the claimant on the person deceased.1027 In several other respects also Aparārka differs from the Mit., though in general the two closely agree. For example, Aparārka prefers the father over the mother as an heir (p. 745); Apararka explains the word apratisthitā' in Gautama's text ( 18. 22 ) as one who is issueless or is indigent or a widow,' while the Mit. explains it to mean only indigent.' 
+
+Whether Aparārka knew the Mit. is a vexed question. Some scholars, while holding that Aparārka does criticize the Mit., ex plain away the non-mention of the Mit. by saying that the Indian etiquette required a royal author not to mention the name of the servant of another king, while the existence of the master himself was ignored (Dr. Jolly in Journal of Indian History, vol. III. p.17). It is doubtful whether any such etiquette ever existed and further Aparārka studiously avoids the express mention of every ancient commentator. Works of royal authors, such as the Madana pā rijāta or the Sarasvativilāsa, do not appear to have followed the etiquette if it ever existed. Besides, Vijñānesvara was a Parivrājaka 
+
+1027 तत्र प्रत्यासन्नः पूर्व धनभाक् ! यदाह मनुः । अनन्तरः सपिण्डाद्यस्तस्य तस्य धनं 
+
+भवेदिति । ......संप्रदानकारकीभूतानां पित्रादीनां त्रयाणां चोदकादिदाता यश्च तत्संततिजोन्योपि तेषामवोदकादिदाता स तस्य प्रत्यासन्नः सपिण्डः । तदत्र तु सोदरो भ्रातातिशयेन प्रत्यासन्न: समानसंप्रदानोदकादिदातृत्वात् । तत्पौत्रस्तु ततोपि व्यव हितः पितृपितामहपिण्डयोभिन्नसंप्रदानकत्वात् । तत्प्रपौत्रस्त्वत्यन्तव्यवहितः fous ête \#9517UGTE I Pp.744-45. 
+
+720 
+
+History of Dharmaśāstra 
+
+( sannyasin) and not the servant of any king. In my opinion the Mit. was known to Aparārka. Aparārka reads Yāj. III. 17 as * Vaitānopāsanāḥ kāryāḥ kriyāśca sruticoditāḥ,' explains the first word as a karmadhāraya compound, gives the explanation of this verse offered by others, disapproves of it and then says that others read - Sruticodanat' for 'sruticoditah'.1023 Visvarupa reads ' vaitanikāsrayah... srutidarsanat' and offers no comment on this verse beyond the word 'spastirthametat' (it is III. 15 in the Trivandrum ed.). The Mit. does contain the reading referred to by Apararka and the Sruti passage 'yavaj-jivam' etc. Aparārka refers on Yāj. III. 254 to the reading 'sainām' 1028 adopted by some, says that the latter explain the verse as prescribing the penance for three years and observes that the verse of Manu (IX. 92 ) does not apply, as the latter say, to him alone whose palate has merely come in concact with liquor ( without his having actually swallowed it). Visvarupa (III. 248) does not explain the verse as prescribing a three years' penance nor does he refer to the contact of wine with the palate. The Mit., however, contains both these 
+
+1028 अत्र केचिद् व्याचक्षते-वितान वेद भवाः वतानाः तथा उपासने गृह्य भवा औपा 
+
+सनाः। बतानाश्चौपासनाश्च वैतानोपासनाः क्रिया इति । तदेतद्व्याख्यानमनुप पन्नम् । वैतानोपासन्य इति हि तदा शब्दः स्यान्न पुनर्वैतानोपासना इति । ...यच्च तैः श्रुतिचोदनादिति पाठं कृत्वा हतुपरत्वेन व्याख्यातं तदपि न युक्तम् । एवं हि ते मन्यन्ते । यस्माच्छ्त्या यावजीवममिहोत्रं जुडुयात् , यावज्जीवं दर्श पूर्णमासाभ्यां यजेत, इत्यादिकयावश्यकायतया विहितत्वान स्मृत्या शक्यमाशौचेपि तन्निवर्तनं विधातुमिति । अपरार्क p. ६91 : compare the मिताक्षरा 'वितानो नीनां विस्तारस्तत्र भवा वैतानाः त्रेताग्निसाध्या अग्निहोत्रदर्शपूर्णमासाद्याः क्रिया उच्यन्ते। ...उपासनो गृह्याग्निस्तत्र भवा औपासनाः सायंप्रात.मक्रिया उच्यन्त ता वैतानोपासना वैदिक्यः क्रियाः कार्याः । कथं वैदिकन्वमिति चेत् । श्रुतिचोदनात् । तथाहि यावज्जीवमग्निहोत्रं जुहुयादित्यादिश्रुतिभिरग्निहोत्रादीनो चोदना स्पष्टैव ॥'. 
+
+1029 'केचिदत्र समाशब्दं बहुवचनान्तं वर्षत्रयपरत्वेन व्याचक्षते । ...अस्मादेव च 
+
+सुरापानापनुत्त्यथमिति वचनात् कृतमुरापानस्यैतद् व्रतमिति गम्यते न पुनस्तालु मात्रसंयुनसुरस्येति । अपरार्क p. 1072 ; compare the मिताक्षरा 'अथवा पिण्याकं पिण्डितं त्रिसमाः वर्ष त्रयपर्यन्तं रात्रौ भक्षयेत् । .. यत्तु मनुवचनं कणान्वा ...सकृन्निशि । सुरापानापनुत्त्यर्थ बालवासा जटी ध्व जी ।। इति तत्तालुमात्रसंयोगे सुराया अबुद्धिपूर्वे द्रष्टव्यम्'. Thd printed text of याज्ञ. in the मिताक्षरा reads 'पिण्याकं ... भक्षयेत्रिसमा निशि'; the printed अपराक reads भक्ष. येत्तु समां निशि, while विश्वरूप reads भक्षयीत समां निशि. The remarks of 377 show that he had it ms. of a com, where the read ing was भक्षयेत्तु समा निशि.80. Aparārka 
+
+721 
+
+particulars. On p. 1084 also:030 Aparārka seems to be referring to the view of the Mit. 
+
+If one compares the portion of the Mit. on the section on rājadharma (Yaj. I. 309-368 ) with the commentary of Aparārka on the same section (verses 307–366 ) and bears in mind the fact that a reigning king is credited with composing the latter, one would be struck by the poverty of explanations in Aparārka's work as compared with the Mitākṣarā. 
+
+The date of Aparārka can be settled within very narrow limits. The Smrticandrikāl031 in several places quotes the views of Aparārka and sometimes contrasts them with those of the Mit. The Smrticandrikā refutes the view of Aparārka that the words of Yāj. `jyeștham vā sresthabhāgena' are meant to comprehend all various modes of giving an additional share (uddhāravibhāga) to the eldest son on partition mentioned by Manu and others and it follows Aparārka's explanation of apratisthitā' in Gautama's text. It will be shown later on that the Smsticandrikā must have been composed about 1200 A. D. If the above conclusion that Apararka knew the Mit, and criticizes it be correct, Aparārka must have flourished after 1100 A. D. and before 1200 A. D. Here epigraphical research comes to our help. We know from the commentary that the author Aparāditya was a silahāra prince of Jimātavāhana's family. Incriptions of the Silābāras show that there were three branches of that family, one ruling in the northern Konkan at Thana, the second in the southern Konkan and the third at Kolhapur. 
+
+1031 
+
+1030 'तत्रापि ब्राह्मणीपुत्रस्य क्षत्रियां पितृभार्या गच्छतो नववार्षिकं वैश्यां षड्वार्षिक 
+
+Giaft Jedela Hatak T-ara | Vlā p. 1084; the HTT 
+
+I on 13. III. 260 bas teruitgeret girarai Hig: HYRI Tha' &c. यत्पुनरपरार्केण ज्येष्ठं श्रेष्ठभागेनेत्येतदुद्धारप्रदर्शनार्थ तेन ज्येष्ठस्य विश उद्धार इत्यादिभिमन्वादिशास्त्रैर्यावन्त उद्घारप्रकारा विहितास्ते सर्वे चोपलक्षिता भवन्तीति AGATITET I Finao II. p. 261; C.mpare 3477 p. 717 'FURI विश ... यवीयसः इत्यादिभिरुद्धारशास्त्रैर्यावन्त उद्धारप्रकारा विहितास्ते सर्वेत्रोप लक्षिता भवन्ति'. 'अप्रतिष्ठिता अनपत्या निर्धना दुर्भगा विधवा वा । एवम परार्कानुसाराद्गौतमवचनं व्याख्यातम् । अस्य विज्ञानेश्वरकृता व्याख्या हेया 791 HITUTTETTERTIGRUTTI' wingo 11.5.285; vide mio II. 218, 367, 377, 428 for other references to अपरार्क. Vide चतुर्वर्ग० III. 2, p. 495 for mention of 3797778. H. D.--91 
+
+722 
+
+History of Dharmaśāstra 
+
+Inscriptions of the northern Silāhāras speak of two kings who are named Aparādityadeva. In JBBRAS vol. XXI, pp. 505-516 there is a grant dated sake 1049 (expired) of Aparādityadeva who donated a village named Vadavali in the Thana District to a brāhmaṇa studying the Mādhyandina recension of the Vājasaneya sambitā. The king is there styled once as Aparājita and several times as Aparādityadeva. He was son of Anantadeva and grand-son of Nagarjuna and traced his descent to Jimūtavahana, son of Jimūtaketu, far famed in legend and literature as an exemplar of self-sacrifice, 1032 e. g. in the drama Nāgānanda. In this inscription Aparādityadeva is styled Silāhāranarendra and Jimūtavā hananvayaprasūta as in the colophon of the commentary on Yāj. (vide note 1020 above) and also Mahamandaleśvara and Tagarapura parameśvara. In the Annals of the Bhandarkar Institute, vol. V, part 2, p. 169 there is a grant made at Somnath-Patan in Kathiawar of Vikramsamvat 1176 (1119-20 A. D.) while Aparādityadeva of the Silāhāra family was reigning, almost in the same words as in the grant in JBBRAS vol. XXI p. 505. Therefore it appears that the dates of Aparādityadeva I referred to in these grants fall between 1115 and 1130 A. D. It was most probably this king who composed the commentary on Yaj. We known from the Srikanthacarita of Markha that king Aparāditya1033 of Konkan sent Tejakantha on an embassy to an assembly of learned men in Kashmir during the reign of Jayasimha of Kashmir (1129 to 1150 A.D.). Aparārka's commentary continues to be the standard law-book used by the pandits of Kashmir (Jolly's Tagore Law Lectures p. 24). Aparārka's work betrays familiarity with Kashmir. I have already noticed the reference to Rājānaka Sitikantha above. On a passage from Brahmapurāṇa speaking of a śrāddha at Mārtanda pādamūla, Aparārka notes (p. 903) that1034 the latter is well known in Kashmir. It is, therefore, most probable that the work 
+
+24 
+
+1032 जीमूतकेतुतनयो नियतं दयालुर्जीमूतवाहन इति त्रिजगत्प्रसिद्धः। देहं निजं 
+
+तृणमिवाकलयन् परार्थ यो रक्षति स्म गरुडात् खलु शङ्खचूडम् । तस्यान्वये 
+
+...7927 sitokiri Turca La I p. 507. 1033 वचोभिर्नुनुदे दन्तद्युति श्रीखण्डपाण्दुभिः । वादिनां वाददपोष्मा येन शूर्पारकाध्वसु॥ 
+
+यः श्रीमदपरादित्य इति दृत्य प्रसिद्धये । प्रजिघाय घनश्शाधः काश्मीरान् कुङ्कणेश्वरः। तेन श्रीतेजकण्ठेन सोत्कण्ठमनुबनता । इति सोधिकवैद्यनिरवद्यमगद्यत ॥ श्रीकण्ठ 
+
+afa 25. 109-111. 1034 Alueurata pizhiig afhen I 377078 p. 903. 
+
+80. Aparārka 
+
+723 
+
+was composed about 1125 and was introduced into Kashmir when an embassy was sent from the Konkan king to Kashmir in the reign of Jayasimba. The dates of the second Aparāditya range from 1184 to 1187 A. D. (Vide Bombay Gazetteer vol. XIII, part 2, p. 427; JBBRAS vol. XII. pp. 333-335 for an inscription of Aparaditya dated 1109 sake i. e. 1187 A. D. ( wherein he is styled Konkaṇa-cakravarti). It is difficult to hold that this was the author of the commentary on Yāj. The Smsticandrika is men tioned by Hemadri and hence could not be later than the first quarter of the thirteenth century. Therefore if Aparārka who is frequently cited by the Smṛticandrika were to be regarded as hav ing flourished about 1187 A. D., very little distance is left between Aparārka's commentary and the Smsticandrikā in order that the former should come to be looked upon as an authority by the latter. Therefore it appears probable that Aparārka wrote the commentary on Yaj in the first half of the 12th century (about 1125 A. D.). 
+
+The commentary of Aparārka is in mere extent nearly double of the Mitāksarā. It quotes very long extracts, particularly from Purāṇas, on several verses of Yāj. such as on I. 208 (on Godāna, gift of a cow) where he quotes lengthy extracts from Viṣnudbarmottara-purāṇa, Bhavisyottara-purāna on differ ent danas (called Dhenus ), then he quotes on 16 kinds of Dānas (called Mahadanas ) from whole chapters of Matsya, of Bhavisyottara, from Viṣnudharmasūtra (almost the whole of chap. 90) and from some other Purāṇas. On Yāj. I. 226–228 he has an exposition on pp. 463-477; On Yāj. I. 252-253 ( on Sapiṇdikarapa-srāddha ) he expends 14 pages (pp. 528–542 ). On the Prāyaścitta section also his expositions in certain cases are very long e. g. on III. 267-268 he devotes pp. 1106-1127, on III. 289-290 he devotes pp. 1152-1184. His quotations from Devala and Hārita ( both in verse and prose) are very extensive. If some scholar undertook the work of collecting together even all the prose passages of Devala, Sarkhalikhita and Hārita drawn from the several commentaries and nibandhas it would be a large and valuable work. For example, if one collects only the prose passages of Devala cited in Aparārka they will cover about five closely printed pages of the same work. Similarly, Hārita is profusely quoted in prose and verse by Aparārka e. g. pages 937, 1113, 1116, 1152 have long prose passages. 
+
+724 
+
+History of Dharmaśāstra 
