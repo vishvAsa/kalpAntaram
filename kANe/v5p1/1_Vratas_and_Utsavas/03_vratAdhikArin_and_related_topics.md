@@ -1,13 +1,11 @@
 +++
-title = "03 Vratādhikāriṇ and related topics"
+title = "03 Vratādhikārin and related topics"
 
 +++
 
 CHAPTER III 
 
-Persons entitled to engage in Vratas, objects desired by means of Vratas, classifications of Vratas and literature on Vratas, 
-
-times for Vratas 
+Persons entitled to engage in Vratas, objects desired by means of Vratas, classifications of Vratas and literature on Vratas, times for Vratas 
 
 One important matter is that of vratādhikāriṇaḥ (persons entitled to engage in a vrata). Persons of all castes including śūdras are entitled to perform vratas. Devala states: 123 there is no doubt that (men of) all varṇas are released from sins by observing vratas, fasts and restrictive rules of behaviour and by mortification (lit. heating) of the body. Women are also entitled to perform vratas. In fact the purāṇas and digests prescribe several vratas .for women alone. Manu, Viṣṇu Dh. S. and soveral purānas provide that a woman cannot perform a separate sacrifice, a separate vrata or a separate fast by herself, she is honoured in heaven by waiting upon her husband. 124 Visnu Dh. S. ( 25. 16 ) 125 further provides that a woman who observes a vrata in which a fast enters while her husband is alive deprives her husband of his life and herself goes to hell. Whatever act of benefit in the other world a woman does without the consent of her father, husband or son yields no fruit to her. 126 The medieval digests interpreted these verses as meaning that before performing a vrata, a maiden has to secure the consent of her father, a married woman of her husband and a widow of her son and that with the consent of the persons specified a woman 
 
