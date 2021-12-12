@@ -49,7 +49,7 @@ d in notivo social bat ono is not really dution of the au
 
 
 
-[Ch. 1 
+
 
 this does not at all mean that the principles of ethics were passed over by dharmaśāstra works or were not highly thought of by them. From very ancient times truth is exalted above everything else. Rgveda VII. 104.1% says? 'True speech and 
 
@@ -99,7 +99,7 @@ ___16. पथैवात्मा पास्तवष्टग्या म�
 
 
 
-[ Ch. I 
+
 
 fore our texto lay down two seats of authority in morals viz., the revealed truth (sruti) that 'All this is brahma' and the inner light of consoience. Another reason for cultivating high moral qualities is found in the doctrine of the goals or ends of human existence (puruṣārtha). From very ancient times they are said to be four, dharma (right conduot ), artha ( economio interests ), kama (satisfaction of sexual, emotional and artistic life ), mokṣa (liberation of the spirit). The last is said to be the supreme end and to be attained only by the few and the vast majority can only place it as an ideal to be attained in the most distant future. As regards the other three, there is a gradation of values. Kāma is the lowest of all and only fools regard it as the only end." The Mahābhārata says: "A wise man tries to secure all three, but if all three oannot be attained, he secures dharma and artha or only dharma if he has a choice of only one from among the three. A man of middling disoi. pline prefers artha to the other two; dharma is the source of both artha and kāma.' The dharmaśāstra writers did not condemn kāma altogether, they recognise that kāma has a place as a motive urging mon to be active but they assigned it a low 
 

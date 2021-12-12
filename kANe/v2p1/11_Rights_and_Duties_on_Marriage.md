@@ -52,7 +52,7 @@ TAनआप..पारधाप वा
 
 Hislory of Dharmaśāstra 
 
-[ Ch. XI 
+
 
 recommends that the king should bring round to the proper path by inflicting heavy fines a husband who abandons a wife that is obedient, not harsh of tongue, vigilant (in household work), chaste and endowed with sons. Even Kaug. (III. 2) prescribes that a husband should wait for eight years ( before marrying another) if his wife gives birth to no child after one delivery or is sonless or is barren; he should wait for ten if she bears only still-born children, twelve years if she gives birth to daughters only. Then if he is anxious for a son he may marry another. If he violates these rules he must pay her gratuity, some wealth as stridhana and money (prescribed to be given) on supersession and besides a fine (to the king ) of 24 paṇas'. 1878 So far Kautilya appears to have only stated the ideal, because he follows up this remark by another statement which probably represented the commonly held popular view *a man may marry several wives after giving sulka and stridhana to those to whom nothing had been given at the time of marriage and money on supersession (adhivedanika ) and suitable provision for livelihood; for women are (married ) for prooreating sons. Though Ap. and others held up the ideal of monogamy and Nārada and others prescribed & fine for marrying a second wife without sufficient cause, it is extremely doubtful whether a man was ever punished by the king for so doing. Manu V. 80 and Yāj. I. 80 both say that a husband may supersede a wife (and marry another) if she drinks wine, suffers from a disease (of long standing), is deceitful, is extravagant in expenditure, speaks harsh words, and gives birth to female children only. Manu V. 81 and Baud. Dh. S. II, %. 65 allow a husband to marry another woman at once if the first is barsh of tongue. Devala 1878 quoted in the Gr. R. says that the sūdra may have only one wife, & vaisya two, a kṣatriya three and a brāhmana four, but a king may have as many as he desires. This only reflected the prevailing practice of kings. The Adiparva 1289 gravely remarks 'to have many wives is no adharma on the part of men, but to violate 
 
@@ -88,7 +88,7 @@ down upon. Steele (in 'Law and Custom of Hindoo Oastes,' first published in 1826
 
 
 
-[ Ch. XI 
+
 
 not the ideal or the view of the best writers, nor is such a view held by the majority of Indian jurists of anoient and medieval times. Modern opinion of educated people is most favourable to making marriages monogamous and efforts are being made to secure absolute monogamy by legislative action. For example, the Madras Nambudri Act ( Madras Act XXI of 1933) forbids & Nambudri brāhmana from inarrying a second wife when the first is living except in three cases viz. (1) when the first wife is afflicted with an incurable disease for over five years, (2) when she has not borne a child within ten years of marriage, and (3) when she becomes an outcast. 
 
@@ -118,7 +118,7 @@ para a formag rai TOT HIOMAITETTQ arretag ino m fet quoted in the fra. I. 10, FI
 
 
 
-[Ch. XI 
+
 
 an area up that in Kumaulmanas and 
 
@@ -154,7 +154,7 @@ both ), they two became yoked like oxen to the sacrifice; may the two be of one 
 
 
 
-[ Ch. XI 
+
 
 offer balis, but without mantras. This shows that though gradu ally women began to lose the right to repeat Vedic mantras ( as shown by Manu), still she had a hand in the religious rites. She had to perform many acts in sacrifices, such as unbusking grain in sthallpāka (vide Hir. gr. I. 23. 3), washing the slaughtered animal (compare Sat, Br, III. 8.2 and Gobhila gr III. 10. 29), looking at the ajya in śrauta sacrifioes. The Pūrvamlmārsā 1994 (VI. 1. 17-21) establishes that both husband and wife own property and should join together in performing sacrifices, but that the male sacrificer alone is ordinarily to do every act in all religious ceremonies except such matters as are expressly declared to be performed by the wife also or alone (as e. g. observing celibacy, uttering benediction &c.). It is on account of the necessity of associating the wife in all religious aots that the hero Rāina was compelled to celebrate sacrifices with a golden image of Sita by his side.1295 Pāṇini (IV, 1.33 ) derives the word patni and says that it can be only applied to a wife who shares in the sacrifice (and its roward ). It follows that wives who are not or cannot join with their husbands in yajñas are only jāyās or bhāryās (but not patnis). The Mahābhāsya say81296 that the wife of a sūdra is called patni only by analogy (ag & śūdra himself has no adhikāra for yajña, his wife can much less bave it). It is on account of this close association of the wife in all sacrifices (either srauta or smārta) that the wife if she dies before her husband is burnt with the sacred fire or fires and with the sacrifioial vessels and implements (Manu V. 167-168, Yāj. I. 89). The Tai. Br. III. 7. 1 says 'half of the sacrifice is destroyed in the case of that sacrificer whose wife is (in her monthly course and therefore) unavailable on the sacrificial day.'1897 
 
@@ -320,7 +320,7 @@ In the Mahābharata and the purāṇas byperbolical des criptions of the power o
 
 
 
-[ Ch. XI 
+
 
 highest ideals of womanly virtue, to which they have always endeavoured to approach and one may say that Indian women generally have most successfully lived up to that bigh and ennobling ideal that was set before them. Vanaparva (205–206) tells the story of a learned brāhmaṇa, who by his mere angry look made a female crane die when the latter voided its fueces on to the head of the brāhmaṇa and who was rebuked by a pativratā that the latter was not a crane, when the brāhmaṇa tried to frighten the virtuous woman for her tardiness in welcoming him as a guest and for looking only after her husband. The Salyaparva (63) narrates how awful the power of a pati vrata like Gandbārl is in that she can, if she choose, burn the world, she can stop even the motions of the sun and 1821 the moon. The Skanda-purāṇa III ( Brahma-khanda, Brahmāranya section chap. 7) first names ( verses 14-15 ) several pativratās like Arundhati, Anasuya, Savitri, Sandilya, Satya, Menā and then waxes eloquent over the tremendous spiritual power of a pativrata 'just as a snake-charmer 388 forcibly draws out from a hole & snake, 80 & pativrata snatches away her husband's life from the messengers of Death and reaches heaven with ber husband and the messengers of Death, on seeing the pativrata, beat a hasty retreat.' 
 
@@ -350,7 +350,7 @@ g uty area oferi forn on 11. I. 80. 8. D. 78
 
 
 
-[ Ch. XI 
+
 
 greater powers of correction and restraint of the wife on the husband than the Common Law of England allowed to husbands even in the 18th century.1428 
 
@@ -380,7 +380,7 @@ The humane character of the legislation of the Indian sages is seen by the fact 
 
 
 
-[ Ch. XI 
+
 
 adultery with a man of degraded caste (like a leather-worker). Nārada 1328 ( strīpumsa v. 91 ) says 'when a woman commits adul. tery her hair shall be shaven, sbe shall have to lie on a low bed, shall receive bad food and clothing and her occupation will be the removal of sweepings of the husband's house'. Gaut. 23. 14, Santi-parva 165, 64 and Manu VIII. 371 are more harsh on a woman who has intercourse with a low-caste man, i. e. she is to be punished by the king with being devoured by dogs. Veda-Vyāsa (II. 49-50 ) says that 'a wife 330 who is guilty of adultery should be kept in the house but void of her rights of associating in religious and conjugal matters and of her rights over property, and should be treated with scorn; but when she has had monthly course after the act of adultery (and does not repeat it), the husband should allow her the usual rights of a wife as before.' Manu XI. 177 asks the husband to confine an exceedingly corrupt wife to one room and compel her to perform the penance'331 prescribed for males in cases of adultery. Vide Atri V. 1-5, Parabara IV, 20 and XI. 87 and Bșhad-Yama IV. 36. 
 
@@ -530,7 +530,7 @@ HR I.
 
 
 
-[ Ch. XI 
+
 
 Varahamihira's was rather a solitary voice raised in defence of women and in the appreciation of their worth. 
 
@@ -570,7 +570,7 @@ fort atua fe facry : 1) TT (p. 640); the art on . 1. 2. 7. (p. 115) bag TOT 97 f
 
 
 
-[ Ch. XI 
+
 
 times is clear from the Sakuntala ( Aot VI) where the minister writes to the king that the estate of & merchant dying at sea will escheat to the crown and will not go to his widow. Y&j. II. 135. mentions the widow as the first heir of a sonless man dying separate; Vispu, Katyāyana and others say the same. So in medieval times the rights of widows to property were better recognized than in the times of the early gūtra writers. In this respect the position of women improved in medieval times, though in the religious and other spheres their position became worse, as they were equated with sūdras. Yaska while explaining Rg. I 124. states that in the southern countries the widow of a sonless man goes to an assembly ball, standa upon a stool and when the members strike her with dice she gets the property of her deceased 1380 husband. This implies that in Nothern India widows did not succeed to their husband's property in Yaska's time. 
 

@@ -91,7 +91,7 @@ H.D. 14186
 
 
 
-[ Ch. V 
+
 
 king. Katyāyana emphasizes that a brāhmaṇa188 cannot be made a slave even to a brāhmaṇa, but if he himself chooses, he may do pure work for a brāhmaṇa endowed with character and Vodic learning, but no impure work. Katyāyana ( v. 721 ) says that when a brāhmaṇa becomes an apostate from the order of asceticism he should be banished from the kingdom and the kṣatriya or vaisya apostate may become a slave to the king. Dakṣa (VII. 33 ) quoted by Aparārka (p. 787) adds that the apostate's head should be branded with the mark of dog's foot. 
 

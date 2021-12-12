@@ -21,7 +21,7 @@ Fa\# 49 Finistrada 1967. AT. I. part 1 p. 389. 1764. Tuan Gratial OT: HTTFRITT V
 
 
 
-[ Ch. XX 
+
 
 Soma, Agnisoma, the Vis ve-devas, Dhanvantari, Kubū, Anumati, Prajapati, Dyāyāpsthivi, (Agni) Sviṣtakrt. The Sān. gr. II. 14. 4 gives the names of ten deities that are slightly different from the list of Manu. According to Pār, gr. II. 9 the deities are Brahmā, Prajāpati, Gșhyā, Kaśyapa and Anumati; while the Viṣnu Dh. S. 67. 1-3 ( quoted in the Gr. R. p. 278 ) states that Vaiśvadeva is to be offered to Vasudeva, Samkarṣana, Aniruddha, Puruṣa, Satya, Aoyuta, Agni, Soma, Mitra, Varuna, Indra, Indrāgni, Visve-devas, Prajapati, Anumati, Dhanvantari, Vastospati, ( Agni) Sviṣtakýt. Vide Bhār, gļ. III. 12. Mānava gr. II. 12. 1-2, Kathaka gļ, 54, Vaik. III. 7 for other lists of deities in Vaiśvadeva. It is on account of this divergence that digests like the Madanapārijata (p. 317) say that Vaiśve deva is of two kinds, viz. what is common to all smrtis like that of Manu and secondly what is stated in one's own gphyasūtra. The Sm. O. (I. p. 212 )**** says the same. 
 
@@ -101,7 +101,7 @@ In bhūtayajia, bali is to be 1778 offered not into fire but on the ground, whic
 
 
 
-[Ch. XX 
+
 
 with water, and then the bali is to be put down and water is poured on it thereafter. Vide Ap. Dh. 8. II. 2. 3. 15. The Āp. Dh. S. (II. 4. 9. 5-6 ) prescribes that one should make all including dogs and cāṇdālas participators in the food cooked for vaiśvadeva and adds the view of some (which he disapproves) that one should not give food to the un deserving.779 Manu III. 87-93 says that after performing vais vadeva one should offer balis in all directions to Indra, Yama, Varuna, Soms and their followers, a bali to Maruts on the door, to waters a bali in water, a bali to the trees in mortar and pestle, a bali to Srl on the top of the house, to Bhadrakāli at the foot of the house, to Brahmā and Vāstospati in the midst of the house ; a bali may be thrown up in the sky to Visve Devas, to the day-walking beings (when baliharans is done by day) and to night-walking beings ( by night); a bali should be offered to the prosperity of all on the first floor 1780 and all the remaining portion of the food for balis should be offered to the manes towards the south ; the householder sbould lightly ( 80 that no dust will get mixed with it) offer on the ground some food to dogs, to outcasts, to cāndalas, to those suffering from loathsome diseases (such as leprosy), to crows and insects. Yāj. I. 103 calls upon the householder to throw food to dogs, cāṇdālas and crows on the ground."781 
 

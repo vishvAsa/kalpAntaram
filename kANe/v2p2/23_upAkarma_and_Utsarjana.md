@@ -85,7 +85,7 @@ TITIET OD PT. T. II. 10. 1926. Vide Appendix for the text.
 
 
 
-[ Ch. XXIII 
+
 
 to those deities,1°** then offer an oblation to Agni Sviṣtakst and partake of the barley mixed with curds and then follows cleaning. 1980 Sitting down to the west of the fire on darbha grass, the ends of which are turned towards the east, he should dip darbha blades into a water pot, he ( the ācārya ) should join his hands in the brahmāñjali 1931 form and then recite ( together with his pupils, if any ) the following: the three vyāhrtis pre ceded by om, these and the Sāvitri verse (Rg. III. 62, 10 ) he should repeat thrice and then the beginning of the Rgveda (either one hymn or an anuvāka). 
 
@@ -151,7 +151,7 @@ half they clor. 6. 16 holds the theatre
 
 
 
-[ Ch. XXIII 
+
 
 utsarga takes place in Pauṣa on the Rohini naksatra or on the 8th of the dark half, while Manu ( IV, 95-96 ) says that after studying Veda for four months and a half from upākarma, utsarga should take place when the moon is in the Puṣya naksatra thereafter or on the first day of the bright half of Māgha. The Mānava gr. I. 4.7 says that Veda study is stopped 41 or 5 or 5} months after upakarma. These several periods ( 4 months, or 51 months or 6 months ) and the various dates of utsarga in Pauṣa or Māgha were due to the fact that upākarma may take place on the full moon day of Srāvana or Bhadrapada (or even Asadha) or on the 5th of the bright half of Srāvana or on Hasta in Bhadrapada or Srāyapa. 
 
@@ -179,7 +179,7 @@ H. D. 103818
 
 
 
-[ Ch. XXIII 
+
 
 76. 2), then the fire called balavardhana is established on the sthandila, then contemplation of fire with the verse 'catvāri srāga' (Rg. IV. 58. 3.) and several paurānika verses ; then two samidhs are placed over the fire, then oblations of clarified butter are offered to the deities, Savitri &c. (specified in upākarma above) and of boiled rice to 20 deities, Agni &c. ( vide p. 814 above ). then the rest is offered to Agni Sviṣtakrt, then āoamana, prāṇā yāma, then brahmayajña is performed, then he should say 'vrstir-asi vrāca me pāpmānam-tāt-satyam-upāgām' (Tai. Br. III. 10.9); then all should say utsrstā vai vedāh' (the study of voda has been stopped); then clarified butter is offered into fire by way of prāyascitte with the verses' ayāścāgae' (Ap. M. P. 1.5. 18 ),' ato devā' (Rg. I. 22. 16), 'idam visnur' (Rg. I. 22. 17 ); then offering to Agni, Vāyu, Sūrya, Prajāpati respec tively with the vyābstis separately and together, then offering with the verses 'anājñātam' (Tai. Br. III. 7. 11), 'puruṣa-sammito' (Tai. Br. III. 7, 11 ), 'yat pākatrā' (Rg. X, 2.5), 'yad yo deva '(Tai. Br. III. 7, 11); then follows sarva prāyaścitta with om and the vyābstis; then mārjana (purifica tion) with the verses 'āpo asmān mātaraḥ' (Rg. X. 17. 10), *idamśpaḥ pravahata'(Rg. I. 23, 22 ), 'sumitrā na āpa' (Tai, S. I. 4. 45.2-3); then he should think of the Ganges and other holy rivers ; then be should honour Agni with the four verses 'Agne tvam no' (Rg. V. 24. 1-4) and offer the upacūras of sandal-wood paste, flowers &c.; then he should take holy ashes from the boma fire with the mantra'mānastoke'( Rg. I. 114.8) and apply the ashes to his forehead, throat, navel, right and left arms and head; then pray Agni to bestow sraddhā (faith), medha (intelligence) &c. and then wind up the utsarjana with the words quoted below, 1989 
 

@@ -27,7 +27,7 @@ r gragu II. 1. . II. 2. 66-68.
 
 
 
-[ Ch. XII 
+
 
 students (like Sanaka ) did. Kātyāyana 1364 similarly provides ' a gonless widow preserving the bed of her husband ( unsullied ) and residing with her elders and being self-controlled (or forbearing ) should enjoy her husband's property till her death; after her the heirs of her husband would get it. A widow engrossed in religious observances and fasts, abiding by the vow of celibacy, always bent on restraining her senses and making gifts would go to heaven oven though sonless,' Parāsara IV. 31 is almost the same as Manu V. 160. Brhaspati 1365 says *the wife is declared to be half of a man's body, she participates equally in the husband's merit and sin; & virtuous wife, whether she burns herself on her husband's funeral fire or lives after bim, tends to the spiritual) benefit of her husband'. Výddha-Hārlta (XI. 205-210) prescribes what a widow should do all her life, 'She should give up adorning her hair, chewing betel-nut, wearing perfumes, flowers, ornaments and dyed olothes, taking food from a vessel of bronze, taking two meals a day, applying collyrium to her eyes; she should wear a white garment, should curb her senses and anger, she should not resort to deceits and tricks, should be free from laziness and sleep, should be pure and of good conduct, should always worship Hari, should sleep on the ground at night on a mat of kusa grass, she should be intent on concentration of mind and on the company of the good.' Bāṇa in his Harṣacarita ( VI, last para ) indicates that widows did not apply eye-galve to their eyes nor rocana (yellow pigment) to their face and simply tied their hair.1386 Pracetas 1367 forbids to an ascetic and a widow the chewing of betel leaves, ceremonial bath (with oil &c.) and taking meal in a vessel of bell-metal. The Adiparva (160, 12) says just as birds flock to a piece of flesh left on the ground, so all men woo (or try to seduce ) a woman whose 
 
@@ -191,7 +191,7 @@ p. 50. 1390. श्री चैषा पछी नियं प्रयुक
 
 
 
-[ Ch. XII 
+
 
 upon the king to punish with death those who murder women, children and brahmaṇas. The Mahabhārata frequently refers to this chivalrous rule. Adiparva 1391 158. 31 says 'those who know dharma declare that women are not to be killed'. The Sabhāparya 41. 13 prescribes 'one's weapons should not be directed against women, cows, brāhmaṇas, against one who gave livelihood or shelter'. In the Santiparva (135. 14 ) even thieves are instructed not to kill women. Vide also Ādi. 153, 2, 217. 4, Vanaparva 206. 46. The Rāmāyaṇa ( Balakānda ) also breathes this sentiment, when Rāma was called upon to kill the ogress Tataka. 
 

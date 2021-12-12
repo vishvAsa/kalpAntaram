@@ -67,7 +67,7 @@ Kat. (V. 1. 21-24) requires that this Vaidvadeva-parvan should be performed in a
 
 
 
-[ Ch. XXXI 
+
 
 five prayājas and three anuyajas. The number nine of the prayājas 48% is made up by adding before the 5th prayāja of the Darsapūrṇamāsa four as stated in the note below. Rg. V. 82.7 and VI. 71. 6 are the anuvākya and yājyā for the offering to Savitr, Rg. VI. 54. 9 and VI. 58.1 for that to Pūṣan and VII. 59. 11 and VI. 66. 9 for that to Maruts.84** The nine anuyājas are made up by adding after the first anuyaja of the dar apūrpa māss six more. After the anuyajas, or after the sūktavāka or samyuvāka, an offering of vājina is made to the deities called Vajins. The remainder of the vājina is brought in a vessel and is dealt with in the same way as ida (i. e. it is placed in the folded hands of the hotr by the adhvaryu, the hotr then holds it in his left hand and then on the right hand some ghee is sprinkled by the adhvaryu and then two portions of the vājina are put thereon and then again some ājya is sprinkled over it), the vessel is then raised as bigh as the mouth or nose, the hotr should request the other priests in order ( as done in the note) to repeat an invocation ( upahava ) with a mantra and then the hots, adhvaryu, brahma and agaidhra partake of the vajina by merely smelling \#455 it. The sacrificer partakes of the vājina actually. Kāt. (V. 2.9 and 12 ) adds that the adhvaryu offers three offerings called samiṣta-yajus respectively to Vāta, Yajñ& and Yajñapati with three mantras (viz. Vāj. VIII. 21, 22 first half and 22 latter half) or only one samiṣta-yajus may be offered ( with Vaj. S. VIII. 21 ) in Vaiśvadeva and Sunāsiriya parvans. According to the Sat. Br. (II. 5. 1, 21 ) the dakṣiṇa in this rite is the first born calf of the season. Kāt. (V, 2. 13 ) further says that the sacrifioer may on finishing each of the three cāturmāsyas ( except Sunāsirlya ) shave himself, 
 
@@ -275,7 +275,7 @@ Kāmyeṣti In the Srauta sūtras there are rules for the performance of several
 
 
 
-[ Ch. XXXI 
+
 
 Daksāyaṇa 1480 (Asv. II. 14. 7-10). These and other iṣtis though very interesting from several points of view have to be passed over for want of space. 
 

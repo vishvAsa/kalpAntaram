@@ -151,7 +151,7 @@ kaivalya ( by the Saṅkhyas) or apavarga (Nyāyasūtra I. 1.2 ). For attaining 
 
 
 
-[ Ch. Viti 
+
 
 Manu and other law books, we do not know; but we are free to confess that in our opinion the whole history of mankind has not much that equals the grandeur of this thought' and again in 'The Philosophy of the Upaniṣads' (tr. by Geden, 1906 ) p. 367 ' the entire history of mankind does not produce much that approaches in grandeur to this thought'. 
 
@@ -183,6 +183,6 @@ The word āśrama is derived 11 from 'śram' to exert, to labour and etymologioa
 
 
 
-[ Ch. VIII 
+
 
 Commentators like Sarvajña-Narayana on Manu VI. 35 endeavour to bring about reconciliation between the three views set out above as follows: the view that & man may pass on to sannyāsa immediately after the period of student-hood (without being a householder ) applies only to those men who are, owing to the impressions and effeots of restrained conduct in past lives, entirely free from desires and whose tongue, sexual appetites, belly and words are thoroughly under control ; the prescriptions of Manu enjoining on men not to resort to sarny āga without paying off the three debts are concerned with men whose appetites have not yet thoroughly been brought under control and the words of Gautama that there is only one aśrama (that of the house-holder) relate only to those whose appetites for worldly pleasures and pursuits are quite keen. 

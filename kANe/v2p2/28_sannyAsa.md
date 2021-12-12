@@ -165,7 +165,7 @@ The Paramahamsas always stay under a tree or in an unia habited house or in a bu
 
 
 
-[Ch. XXVIII 
+
 
 and also contains the words of the Jābālopaniṣad as to Parama hamsas. It appears that long before the Ap. Dh. 8. (II. 9. 21. 13-17) i. e, at least five or six centuries before Obrist there were people who thought that an ascetic was beyond all vidhi ( injunctions to do a thing) and niṣedba ( prohibition), that he was above the ordinary rules about truthfulness or falsehood, that he should not care for pleasure or pain or for the study of the Vedas, or for this world or the next, he should simply seek to realize the Self, that when he realizes the Self all his sins, if any, would be liquidated thereby. Ap. combats these ideas by saying that such sentiments were opposed to the fastras laying down rules about ascetics, that by realizing the Self, he cannot be free from the effects of what he does or the consequences of having a body. The sentiments which Āp. controverts arose from such passages as the one ls4 in the Bṛ. Up. IV. 4. 23 This is the eternal greatness of the man who realizes brahma that by the actions he does, he does not add to it or detract from it. Therefore one should only know the real nature of that great ness; he on knowing brahma is not affected by an evil action.' In the Kauṣitaki Bṛ. Up. III. 1 it is stated $156 'whoever realizes One ( the Supreme Spirit), his worlds (i. e. his position) are not destroyed by any action of his, not even if he kills his parents, not even by theft nor by the murder of a learned brāhmapa.' These words are not to be taken literally, they are merely a boastful utterance (& praudbivāda ), they are really laudatory statements emphasizing the supreme value of the realization of brahman. Similarly the Chan. Up. IV. 14. 3 Bays just as water does not stick to & lotus-leaf, so sinful actions do not cling to him who knows this'. In the same Upaniṣad (V.2.1) we read 'to him who knows this, nothing becomes unfit as food.' The Upanigads, however, generally lay great stress on moral virtues and emphasize that a high moral life is absolutely necessary for the seeker after spiritual truth. Vide Bṛ. Up. IV. 4. 23, Chān. Up. III. 14. 1, Katha Up. 
 
@@ -359,7 +359,7 @@ According to both anoient and modern Hindu Law, when a man became & sannyāsin, 
 
 
 
-[Ch. XXVIII 
+
 
 from their share (in the family property ).8177 This result, however, does not follow by merely wearing the garments of a sannyāsin, but in order that this result may follow & person must have performed the necessary ceremonies for entering the order of sannyāsins. On the other hand whatever belongs to & sannyāsin such as his clothes, his sandals, his books would not devolve on bis blood relations as heirs but will go to his spiritual heir ( viz. his pupil). Vide Yaj. II. 137 and the Mit. thereon. These rules, however, do not apply to a sūdra turning an ascetio. He does not become severed from his family by entering the order of asceticism, unless a usage to that effect is established. Vide Somasundaram v. Vaithilinga, 40 Mad. 846 (at p. 869 ), Harishchandra v. Atir Muhmud, 40 Cal. 545, 
 

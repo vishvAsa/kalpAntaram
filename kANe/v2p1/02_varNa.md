@@ -17,7 +17,7 @@ Origin and growth of caste in India' (1931 ) and 'Aryanization of India' (1925);
 
 
 
-[ Ch. II 
+
 
 The oaste system has been highly eulogised and also most severely condemned by Western writers. Sidney Low in his * Vision of India' (pp. 262-263, 2nd ed. of 1907 ) speaks of the beneficent aspect of the caste system in the following eloquent passage There is no doubt that it is the main cause of the fundamental stability and contentment by which Indian society has been braced up for centuries against the shocks of politics and the cataclysms of Nature. It provides every man with his place, his career, his ocoupation, bie cirole of friends. It makes him at the outset a member of a corporate body, it protects him through life from the canker of social jealousy and unfulfilled aspirations; it ensures him compa nionship and a sense of community with others in like case with himself. The caste organization is to the Hindu his club, bis trade union, his benefit society, his philanthropic society. There are no work-houses in India and none are as yet needed.' Abbe Dubois, who wrote about 130 years ago after being in close touch with Hindus of all castes for 15 years as & missionary, remarks ( in his work on the character, manners and customs of the people of India, translated into English and published in London in 1817 ) 'I consider the institution of castes among the Hindu nations as the happiest effort of their legislation ; and I am well convinced that, if the people of India never sunk into a state of barbarism, and if, when almost all Europe was plunged in that dreary gulf, India kept up her head, preserved and ex tended the sciences, the arts and civilization, it is wholly to the distinction of castes that she is indebted for that high celebrity' (p. 14 ) and he devotes several pages to the justification of this remark, Maine in his 'Ancient 
 
@@ -39,7 +39,7 @@ Law'( new edition of 1930 p. 17 ) characterises it as 'the most disastrous and b
 
 History of Dharmaśāsira 
 
-[ Ch. II 
+
 
 that the caste system was an invention, an artificial product, due to the machinations of crafty brāhmaṇas. Every great institution has its extremes of good or evil. This work will endeavour to steer clear of downright and hypercritical con demnation of the caste system due to relying on modern stand points and conditions of society and unthinking adulation thereof. It will try to present and balance facts and though it cannot help passing judgments it will leave the reader free to judge for himself as far as possible. In the present work the discussion will be mostly confined to the evidence of Sanskrit literary monuments, ancient and medieval. An attempt will be made to trace the origin of caste from Vedic times, to exhibit theories of the Dharmasūtrakāras, other smṛtikāras and oom mentators on the subject and to describe the peculiar ceremonies, privileges, duties and responsibilities of Hindu castes 88 gathered from these works in Sanskrit. To discuss the feasibility or desirability of totally destroying the caste system or the ways and means of attaining that end is deemed to be outside the legitimate limits of this volume. It may, however, be expressly stated as the author's opinion, in order to avoid misunderstand ings or fruitless speculations about his personal views, that he does not think that the caste system was an artificial product due to the intrigues, greed and cunning of brābmaṇas, nor does he hold that it is feasible to destroy the whole edifice of the caste system in the near future. In the cities we may find some people taking their food together but the real India is in the villages, where in spite of the loud denunciations of reformers for a hundred years, the restrictions on taking food and inter caste marriages are almost as rigid as they once were. Our efforts must be direoted to wide and rapid spread of literacy among the village people, the diffusion of the idea of one people and one nationality and gradual fusion of small subcastes into larger similar units. We in India have no doubt reached & critical stage in our history when old ideals, institutions and 
 
@@ -81,7 +81,7 @@ gūdra tribe.'. There is no doubt that the word asura when applied to gods like 
 
 
 
-[ Ch. II 
+
 
 between the aryas and dāsas or dasyus is emphasized and prayers are offered to Indra and other gode for having subdued or for subduing the dāsa in favour of the Arya. Rg. I. 51.8; I. 103.3; 1. 117.21; II. 11.2, 4, 18, 19; III. 29.9 ; V. 70.3 ; VII. 5.6; IX. 88.4 ; VI. 18.3 ; VI. 25.2. In Rg. 1. 51.8 Indra is requested to mark who are āryas and who are dasyus. This does not mean that there was difference between the two in bodily appearance only; on the contrary the antithesis between the arya who is referred to as 'barhismat' and the dasyu who is styled 'avrata' clearly shows that the emphasis was rather on the difference of their cults. That dasyu and dāsa are identical in meaning follows from the same epithets being applied to both and from the fact that dasyu and dāsa ooour in the same verses as applying to the same enemy.ss In Rg. X. 22.8 dasyu and dāsa are used in the same verse as applicable to the same enemy. In Rg. X. 99.6 and 8 Indra is represented as killing both daba and dasyu respectively. The dasyus are described as 'avrata' (not obeying the ordinances of the gods ) in Rg. I. 51.8, I. 175.3, VI. 14.3, 'akratu' (who perform no sacrifice) in VII. 6.3,58 mṭdhravacaḥ' ( whose speech is in distinct or soft) in VII. 6.3 and V. 29.10,' anāsaḥ '( snub.nosed or dumb) in Rg. V. 29.10. It appears that dāsa and dasyu are synonyms and were sometimes styled asuras. For example, Sambara is called dasyu and dāsa in Rgveda VI. 31.4 and dāsa in Rg. VI. 26.5 and is also associated with asuras like Pipru in VI. 18,8; Pipru is spoken of as a dāsa in Rg. VIIT. 32.2 and as an asura in X. 138.3. Varcin is styled dāsa in Rg. IV, 30.15 and VI. 47.21 and asura in VII. 99,5. In Tai. S. 57 (IV, 3.11.3 ) also it seems that they are held to be identical. The enmity between dāsa and ārya is breathed in such verses as the following: Rg. II. 11.4 'vanquish the tribe of dāsas by the sun (i. e. by the help of a brilliant weapon ); Rg. I. 174.7You made the earth a pillow for the dāsa ( i. e. you laid him low on the ground); Rg. III. 12.6 *OhIndra and Agni, by one effort together you shook ninety 
 
@@ -249,7 +249,7 @@ Satapatha Br, says that the sūdrn is untruth' (8. B. E. vol. 44. p. 446 ), that
 
 
 
-[ Ch. II 
+
 
 gūdra having sexual intercourse with an ārya woman. Jaimini in his Pūrvamimāðsā sūtra (VI. 1.25-38 ) establishes after elaborate discussion that the sūdra has no adhikāra for the performance of Agnihotra and Vedic sacrifices. It is, however, somewhat gratifying to find that at least one ācārya, Bādari, espoused the cause of the sūdra and propounded the view that all ( including sūdras ) were entitled to perform Vedic sacrifices (VI. 1.27). In the Vedānta-sūtras also (I. 3.34-38 ) it is established that the sūdra has no adhikūra for brahmavidyā based on Veda study, though some sūdras like Vidura might have been endowed with the knowledge of brahma owing to samskāras of former births. In the smrti literature, however, a few passages are found allowing marriages of aryas with sūdra women (which will be discussed later on). Similarly sexual relations ( illicit) between & sūdra woman and & man of higher varna are alluded to even in the Samhitās e. g. Tai. 8.88 VII. 4.19.3 ' when & sūdra woman has an ārya as her paramour she does not seek wealth for the prosperity ( of her relations )'. In Ait. Br. (8. 1) there is the story of Kavaṣa Ailūṣa, who was driven out from the sacrifice on the Sarasvati with the words 'Oh, son of a female slave, you are a rogue and not a brahmana ; how did you take the dikṣs (initiation) as one of us' and they carried hiin off to & sandy desert with the idea that he might die of thirst there. He when tormented by thirst' saw' the hymn Rg. X. 30 and Sarasvati came rushing to him.4 Further discussion about the sūdra and his dis abilities will follow in another section later, 
 
@@ -283,7 +283,7 @@ T TI pragu XI.5. 7. 1.
 
 
 
-[ Ch. II 
+
 
 from being harassed ) and avadhyatā (freedom from being beaten ). The Satapatha (V. 4. 6. 9) expressly mentions that brāhmana, rajanya, vaisya and sūdra are the four Varnas. Teaching had become so much associated with the brāhmaṇas that when the brahmana Gārgya approached king Ajātasatru for the knowledge of brahma, the latter replied “this is oontrary to the natural order that a brāhmaṇa should approach a ksatriya with the idea" he ( ksatriya) will propound to me brahma.." In a separate section below all the privileges enjoyed by the brahmanas will be set out at one place.88 
 
@@ -319,7 +319,7 @@ vuc' with adhi' in the sense of speak in favour of' or 'bless.
 
 
 
-[ Ch. II 
+
 
 kṣatriya came to occupy a very high position. The Satapatha (8. B. E. vol. 26 p. 270) lays emphasis on the importance of the purohita and cautions a brāhmaṇa against being the purohita of any king he meets with and adds that a brahmana may remain without a king, but a king should not be without a brahmana. Even the gods required & purohita, as the Tai. S. II. 5. 1. 1. says' Viśvarūpe son of Traṣtr was the purobita of gods. 44 Sanda and Aiarka were the purohitas of the Asuras ( Kathaka S. IV. 4). Agni is often called purohita (Rg. I. 1. 1., I. 44. 10, III. 2. 8). "May we, purohitas, be awake in the kingdom (for its welfare )' says the Tai. 8. (I. 7. 10.1). The Ait. Br. ( chap. 34.8) say895 * the purohita is half the soul of the ksatriya' and contains an eulogy of purohita in the following words ( 40.1 ) " for indeed the gods do not eat the food of a king who has no purohita ; therefore a king when about to offer a sacrifice should have a brāhmaṇa as his purohita with the idea 'may the gods eat my food."" The combination of the brāhmaṇa and the rājanya is said to be most desirable and that it is conducive to the eminence of both is declared in the Tai. S. (V. 1. 10. 3 )86 . Therefore a brāhmaṇa who is supported by a rājanya is superior to another brālmana (not so supported ), hende a rājanya who has a brāhmana ( to help him ) is superior to another rājanya'. The Satapatha ( V. 4. 4. 15 ) deolares that king indeed who is not powerful to the brāhmaṇas ( i. e. who is humble before the brāhmaṇas ) becomes more powerful than his foes.'97 It is not to be supposed that this attainment of the supreme position by brāhmapas was an affair of plain sailing. Sometimes kṣatriyas claimed higher position and also paid scant respect to brahmaṇas. In the Satapatha we read 'whence the brahmana is an object of respect after the king'( S. B. E. vol. 41, p. 96 ); hence the people here serve, from a lower po ition, the kṣatriya seated above them' Satapatha (S. B. E. vol. 12 p. 94 ); 'hence when a nobleman approaches, all these people, the subjects crouch down hy him on the ground 'Satapatha ( S. B. E. vol. 26 p. 228 ); therefore there is nothing higher than the kṣatra; 
 
@@ -739,7 +739,7 @@ Gautama (IV. 18-19), Manu ( X, 64-65 ) and Yāj. (I. 96 ) speak of a paouliar do
 
 
 
-[ Ch. IT 
+
 
 tion, but their general sense is clear. Gautama (IV. 18 ) 151 says that according to the Scāryas the anulomas when they marry in such a way that the bridegroom in each stage is higher or lower than the bride they rise to a higher or go down to & lower varpa in the 7th or 5th generation ( respectively ). This is explained by Haradatta as follows: When a brāhmapa marries a kṣatriya woman the daughter born of this marriage is called savarnā; if this latter is married to a brāhmaṇa and & daughter is born and this latter is again married by a brāhmaṇa and if this continues in the same way for seven generations, then when the 7th girl in descent marries & brahmana, whatever child is born of that union belongs to the brāhmaṇa varna (though in the preceding generations only the fathers were brāhmaṇas and the mothers were all not strictly brāhmaṇas, but only savarnās if at all). This is called jālyutkarṣa (rise in status as a caste). On the other hand, when a brāhmaṇa marries a kṣatriga girl and a son is born who is called savarna, then that son marries a kṣatriya girl and has a son and this is continued for five generations, then when the fifth son (in descent ) marries a ksatriya girl, the child born belongs to the ksatriya varpa (though in all the preceding generations the father was higher than kṣatriya and the mother only was a kṣatriya). This is jātyapakarṣa ( fall in status as a caste). The same rule holds good as regards a kṣatriya marrying a vaisya female and e vaisya marrying & sūdra female. The same rule applies among anulomas also e. g. if a savarna (as defined by Gautama ) marries an ambagtha girl and a daughter is born who again marries & savarna and this continues for seven generations, then the child of the 7th girl ( in descent) from a savarna male becomes & savarna ( rises in status); on the other hand if a savarna ( offspring of brāhmaṇa male and kṣatriya female ) marries an ambaṣtha girl and & son is born and that son marries an ambaṣtha girl and their son marries an ambaṣtha girl and this goes on for seven generations, then the child of 
 
@@ -791,7 +791,7 @@ H. D. 966
 
 
 
-[Ch. II 
+
 
 Mayurasarman, who became exasperated with the Pallavas of Kāñcipura and took up the sword to conquer the earth, that his descendants applied the affix 'Varman' to their names (as if they were ksatriyss, according to Manu II. 32) and Kakustha Varman (4th in descent from Mayurasarman) married his daughters to Gupta and other kings 187. This shows that an originally brāhmaṇa family came to look upon itself as ksatriya by virtue of pursuing the profession of arms and governing the people. In the Mahabhārata we meet with stories of kings who became brālmaṇas. For example, Anugasana 30 speaks of Vitahavya, a king, as having become a brāhmaṇa; similarly Salya ( 39. 36-37) speaks of Aratisena, Sindhudvipa, Devāpi and Viśvāmitra as having become brāhmaṇas at a sacred spot on the Sarasvati. In the Purāṇas also there are stories 158 of kings like Viśvāmitra, Mandhātā, Samkṣti, Kapi, Vadhryasva, Purukutsa, Arstisena, Ajamidha and others as having risen to the status of brāhmaṇas. These are mythical sages and their rise is not stated to have been due to the prin ciple of jātyutkarṣa 159. Ibbetson (Report on the census of the Punjab 1881, pp. 174-176) notes that brahmanas following certain professions became degraded and that the caste was changed. 
 
@@ -1057,7 +1057,7 @@ Goja ( or Goda ). According to Uśanas ( 28-29 ) he is the offspring of a clande
 
 History of Dhurmadāstra 
 
-[ Ch. II 
+
 
 Gopa. Vide note 184. He is the modern Gavli and a kūdrs subcasto. Yaj. II. 48 says that debts contracted by gopa wives must be paid by their husbands as the latter's profession and earnings depend upon them. The Kāmagūtra (1. 5. 37 ) mentions a caste oalled Gopalaka. 
 
@@ -1091,7 +1091,7 @@ het
 
 
 
-[ Ch. II 
+
 
 town or market place by striking a piece of wood to make themselves known so that a man may avoid them and not come in contact with them (vide 'Record of Buddhist kingdoms' tr. by Legge, p. 43). In modern times cāṇdālas are returned as & scheduled oaste in Madras and Orissa. 
 
@@ -1139,7 +1139,7 @@ Daśa (a fisherman). This occurs in an Upaniṣad passage according to Vedānta 
 
 
 
-[ Ch. II 
+
 
 Divākirlya- ocurs in Mānayagļhya II. 14. 11. According to Amara both oāndāla and nāpita are called divākırti. 
 
@@ -1265,7 +1265,7 @@ las stavin.eto. Vizan tribes
 
 
 
-[ Ch. II 
+
 
 and he maintains himself by studying the Ayurveda in its eight parts, or astronomy, astrology and mathematios ( verse 27). According to Brahmapurāṇa (quoted by Aparārka p. 1171) he lives by surgery and by attending upon patients. 
 
@@ -1397,7 +1397,7 @@ Vaidehaka. According to Baud. Dh. (1.9.8), Kauṭ. ( III. 7), Manu X. 11, 13, 17
 
 
 
-[ Ch. II 
+
 
 in Gaut. IV. 17 and Uśanas ( 20 ) he is the offspring of a sūdra male from a vaisy& female. According to Manu X. 47 and Agnipurāna (151. 14) his peculiar work is to attend on and guard women (in harems sto), while according to Usanas ( 20-21 ) and Vaik. (X. 14 ) he is to tend goats, cows and buffaloes and to sell milk, curds, buttor-milk and ghee. The Sūta-gamhitā says that vaideha and pulkasa are the same. 
 
@@ -1489,7 +1489,7 @@ BOUTHT 11 min
 
 
 
-[ Ch. If 
+
 
 Sopāka. According to Manu (X. 38) he is the offspring of a candāla male and a pukkasa female, subsists by the profession of being hangman to those whom the king condemns to death. 
 
@@ -1587,7 +1587,7 @@ In modern times each of the principal varnas has numerous Bub-castes, based upon
 
 
 
-[ Ch. II 
+
 
 Among kṣatriyas there are several subdivisions, such as those claiming descent from the Sun or the Moon and those that call themselves to be Agnikulas ( vide Sherring, vol. I. p. 120 ff, and Tod's Rajasthan vol. I chapter VII for lists of royal tribes ). The Paramāras have 35 branches, Guhilots 24 branches. Chabmanas 26 branches, Solankis 16 branches and so on. 
 

@@ -61,7 +61,7 @@ As to brāhmaṇas the matter stands thus, The Nirukta (II. 4) contains four 224
 
 
 
-[ Ch. III 
+
 
 gods and pitrs, for the safeguarding of dharma." Atri ( 25 ) con tains the same idea. Other 288 sages say that he in whose family Veda (Vedic study ) and vedi (congecration of fires for grauta rites ) are given up for three generations becomes a durbrāhmana (an unworthy or bad brāhmaṇa ). The Tai. S. (II, 1. 10. 1) prescribes a rite for a durbrāhmaṇa in whose family cessation of drinking soma occurred for generations and who himself desired to drink soma. 
 
@@ -193,7 +193,7 @@ the come giving too by anybodat privilege o
 
 
 
-[ Ch. III 
+
 
 28 say that a gift given to a brāhmaṇa ( who is only so by casto, but is not learned ), to a śrotriya (or ācārya ) and to one who has completely mastered all the Vedas ( with their subsi. diary lores ) respectively confers merit which is twice, a hun. dred thousand times or an infinite number of times more than the merit conferred by a gift to a non-brāhmana. Gautama 47 (V. 19-20 ) and Baudhāyana II. 3. 24 further make it obligatory to give outside the sacrificial altar according to one's ability a portion of one's wealth to a brāhmaṇa, śrotriya and veda pāraga when they seek help for giving & dakṣiṇā to their teacher ( at the end of the period of studenthood ), for their own marriage, for medicine, for their own maintenance (that day ), for & sacrifice, for their own study or journey, and when everything has been given in a Viśvajit sacrifice and that one must give oooked food to all others who beg for it ( except brāhmana, sro triya and vedapāraga). Manu ( XI. 1-3) gives praotically the Bame rule. In the Vaiśvadeva the householder was enjoined to give food to every one including even dogs and cāṇdālas, as we shall see later on ( under848 Vaiśvadova). Medhātithi on Manu IV. 5 says that when a person makes a gift through compassion it is not the dana and pratigraha spoken of by the śāstra; just 88 when a man gives instruction as to what is beneficial he does not care to see what the caste of the person to be benefitted by the advies is, so & gift made through compassion is made irrespec tive of caste; and that when non-brāhmaṇas reduced to a help legs condition take what is given by others, it cannot be said that they are assuming to themselves the livelihood by prati graha which is a peculiar means of livelihood for brāhmaṇas.869 
 
@@ -291,7 +291,7 @@ afterta
 
 
 
-[ Ch. III 
+
 
 slave, one's cowherd, barber, family friend and one who shared with one the crop reared on one's land (vide Yāj. I. 166). It is worthy of note that even the Mit. adds the potter to the above list. All the other sūdras were such that a brāhmana could not take his food. A third and well-known division was into sacchūdra ( well-conducted) and asac-chūdra. The former class included those śūdras who followed good occupations or trade, served dvijas and had given up meat and drinking or selling liquor. 204 The Sūdrakamalakara (p. 60.) says that agat-sūdras do not incur sin even if they partake of meat and liquor, provided they do not eat forbidden meat and that there is no lapse if one comes in contact with a sūdra that drinks liquor. 
 
@@ -325,7 +325,7 @@ Though it is said that a brāhmaṇa in distress may follow the occupation of a 
 
 
 
-[ Ch. III 
+
 
 As to money-lending, Gaut.269 (X. 5-6) allowed & brābinana to maintain himself and his family by agriculture, sale of commodities and money-lending only if he did not engage in these personally, but through the agency of others. Vas. Dh. S. (II. 40 ) enjoins upon brāhmaṇas and kṣatriyas not to lend money like usurers and quotes two verses which define usury and say that a userer is a greater singer than even one who is guilty of brāhmana-murder, Manu (X. 117) also forbids usury to brābinanas and kṣatriyas, but allows them to charge a low rate of interest to persons engaged in low actions. Nārada (rṇādāna 111 ) forbids usury to brābmanas even in the direst calamnities. Ap. Dh, S. (I. 9. 27. 10) prescribes a prāyaścitta 370 for a brāhmana lending money at usurious rates. Bphaspati as quotedPri in the Gr. R. has a rather amusing Verse 'sages have enumerated numerous means of livelihood, but out of all of them money-lending is pre-eminent. There is loss in agriculture due to draught, to the fear of the exactions of the king and the ravages of rats and others, but there is no such loss in money-lending. It appears that this is only a general or satirical statement and does not recommend money lending to brāhmaṇas. 
 
@@ -387,7 +387,7 @@ oxen that are yoked to carts. These restrictions did not apply to a kṣatriya e
 
 
 
-[Ch. III 
+
 
 be sold. Saṅkha-Likhita,280 Udyoga-parva 38. 5, śāntiparva 78. 4-6, Harita (as quoted by Aparārka p. 1113) contain long lists of things the sale of which was forbidden to brāhmaṇas. Apart from these negative rules, there are some that are positive and prescribe what may be sold. For example, the Baud. Dh. S.81 prescribes the sale of grass and wood in their natural state and quotes a verse Oh! Brahmana, these are the articles you may sell, viz., domestic animals that have only one row of teeth, minerals except salt and threads (i. e. cloth ) that are not coloured with some dye.' Nārada 288 (rṇādāna 64-65) states' a brāhinana may sell dried wood and grass, except fragrant articles, eraka (a kind of grass), rattan, cotton, roots, kusa grass; cereals that get split up of their own accord, badara and inguda among fruits, cords and threads of cotton provided they are not coloured'. Saṅkha-Likhita also (as quoted by Aparārka p. 933) have the same rules as Nārada and further enjoin upon the brāhmaṇa not to higgle for the price but to have a fixed price. 
 
@@ -429,7 +429,7 @@ A.D. 17
 
 
 
-[ Ch. III 
+
 
 speaks of nine means of livelihood in & season of drought, viz. Oart, plot of vegetables, cows, fishing, asyandana (main taining oneself by the slightest effort possible ?), forest, a country full of water, trees and shrubs, & mountain, king. Nārada (rṇādāna 50-55 ) says that three modes of soquiring wealth are common to all, viz. inheritance, a gift of friendli ness or affection and what comes to a man with a wife ( at the time of marriage ); that each of the three varnas has three special modes of acquiring wealth, viz., receiving gifts, fees as priest and fees for teaching in the case of brāhmaṇas; booty in war, taxes and fines in judicial trials in the case of ksatriyas ; agriculture, rearing cattle and sale of commodities in the case of vaisyas. Nārada ( rṇādāna verses 44-47 ) divides wealth into śukla ( white, pure), sabala ( dark-white, mixed) and krsna (dark ) and each of these into seven varieties. The Viṣnu Dh. S. chap. 58 also divides the wealth of householders into these three varieties and says that what is earned by the special modes prescribed for each varṇa, inherited wealth, gifts of affection and what comes with the wife-these are sukla (pure ); what is obtained by following the special avocation of the varna immediately lower than one's own varna and what is acquired by giving bribes or by sale of forbidden articles or from one who is under one's obligations is sabala; what is obtained by following the avocations of a varna other than the immediately lower one and what is acquired by gambling, theft, violence or fraud is called kroṇa. Baud, Dh. S. (III. 1. 5-6 ) speaks of ten kinds of vrttis ( means of livelihood) and III, 2 explains them at length. Manu (IV. 4-6 ) speaks of five ways of livelihood viz. rta ( i. e. subsisting on grains left in the fields ), amita ( what comes without begging), mrta (alms obtained by begging ), pramṛta ( agriculture ), satyānrta (sale of commodities ) and forbids svavṛtti ( service, lit. living like a dog ). Manu (IV. 9) further says that some brābmanas live by six means (i. e. adhyāpana, yājana, pratigraha, agriculture, rearing cattle and trade), some by three ( viz. the first three ), some by two (yājana and adhyāpana ) and others again only by one (adhyāpana ). 
 
@@ -535,7 +535,7 @@ variations.136
 
 
 
-[ Ch. III 
+
 
 frequent eulogies of brābmanas. Adiparva (28. 3-4) say 804 
 
@@ -1037,7 +1037,7 @@ himself says that one gūdra should wash the guest's feet and another should spr
 
 164 
 
-History of Dharmadastra [ Ch. III 
+History of Dharmadastra 
 
 olṣa, a frog, a dog, iguana, owl and crow, the prayasoitta is the same as that for killing & sūdra.384 
 

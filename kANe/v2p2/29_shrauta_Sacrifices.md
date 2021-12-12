@@ -163,7 +163,7 @@ TATATU AHPradd arvaffead:!'.988
 
 History of Dharmasasira 
 
-[Ch. XXIX 
+
 
 in coked ( abbino Tai. Br. Lo con items the 
 
@@ -255,7 +255,7 @@ He (the adhvaryu ) invokes the fire with the mantra 'upd Varoha jātavedaḥ '(T
 
 
 
-[ Ch. XXIX 
+
 
 has a certain gotra 1949 (or pravara ) and the first vyāhrti ( i. e. bhaḥ ) or the first two vyabftis (bhūh, bhuvaḥ ), the first two Sarparājni formulæ and the first of the Gharmasiras texts. The formula for establishing the garhapatya according to the gotra is stated in note 2249. Wben establishing the gārhapatya on the sambhāras the adhvaryu further repeats certain mantras ( given In Ap. Śr. V.12. 2) and then the yajamana invokes the fires with the mantra 'sugārbapatyo'(Tai. Br. I. 2. 1) and the adhvaryu makes the yajamāna repeat the Gharmaśiras formula. The adhvaryu strews darbhas round the gā-hapatya ( i. e. he does paristarana ). 
 
@@ -457,7 +457,7 @@ samsya paśūn me pahi', 'narya prajām me pahi' and' atharva pitum me pahi'(all
 
 
 
-[ Ch. XXIX 
+
 
 his destination he should recite 'sada sugaḥ' (Rg. III. 54. 21 ). When he returns from his journey to his village, he should repeat' epi pantham' ( Rs. VI. 51. 16). He should then observe silence, take fuel-stioks in his hand and on learning that his fires have been kindled into flames (by his son or pupil ) he should look at the Chavaniya with two versos (set out in Aśv. II. 5. 9). Then placing the semidhs he does homage to the ābavaniya with the verse 'mama nama tava ca' (Tai. S. I. 5. 10. 1) and then he places samidhs on the ahavaniya, gārbapatya and dakṣiṇāgni with one mantra each (which are V&j, S. III. 28-30). 
 

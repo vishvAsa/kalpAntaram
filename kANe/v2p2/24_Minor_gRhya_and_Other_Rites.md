@@ -83,7 +83,7 @@ In certain medieval digests like the Samgkāra-kaustubha (p. 122) a rite called 
 
 
 
-[ Ch. XXIV 
+
 
 thereafter) or full moon day or on the 5th or on the 9th when the moon is in Aśleṣā (of which serpents are the presiding deity). Its object is two-fold viz. to expiate the sin of having killed & snake or snakes and to remove the obstacle to progeny ( supposed to arise from the wrath of serpents killed by a person). In this & figure of a serpent is made of the flour of rice or wheat or sesame which is then placed in a sūrpa (winnowing basket), then it is worshipped with the 16 upacāras (described above ) and a bali of pāyaga (rice-milk) is offered to it; then after washing the hands and feet and sipping water & homa is performed with ordinary fire (but there is no svistakrt offering); an oblation of clarified butter is offered with om and all the three vyābśtis into the mouth of the serpent figure and the rest of the ūjya is sprinkled on its body, the serpent is praised with the mantras quoted above from Tai. S. IV. 2. 8. 3 and certain Purāna verses are repeated and the figure is thrown into the fire; then impurity (āsauca) is observed by the sacrificer and his wife for three days or one day; then eight brāhmaṇas are invited, they are supposed to stand in the place of the burnt effigy and upacāras are offered to them, they are fed and gifts are given to them; then a golden image of & serpent is put into the kalasa (water-pot ) and prayer is offered to it, and the golden image or its value or a cow is gifted to a brāhmaṇa. 
 
@@ -219,7 +219,7 @@ Various explanations are given why this rite was called Salagava. Nārāyaṇals
 
 
 
-[Ch. XXIV 
+
 
 spit ( or pointed rod ) i. e. Siva who is called Sulin and that this sacrifice is offered to Rudra Śūlin with the ox as a sacrificial animal. Haradatta explains that here the ox is marked with the rod ( of Siva ). 
 
@@ -253,7 +253,7 @@ The Asv. gr. II. 7-9, ān. gr. III. 2-4, Pār. gr. III. 4, Ap. gr. 17. 1-13, Kh�
 
 
 
-[ Ch. XXIV 
+
 
 Targe the warrel with th. las been an! 
 

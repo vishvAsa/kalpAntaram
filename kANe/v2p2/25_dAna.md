@@ -159,7 +159,7 @@ A good deal has already been said above (pp. 113-114) about the persons fit to b
 
 
 
-[ Ch. XXV 
+
 
 fruit (or merit ). 1086 Manu 4. 193-200 ( = Viṣnu Db. S. 93. 7-13 ) contains a list of persons to whom gifts should not be made, such as a brābmana who is like a cat or hypocrite or who does not know the vada. Bșhad-Yama III. 34-38 enumerates those brāhmapes who are unfit to be invited at & sraddha or to be donees such as lepers, those who suffer from incurable diseases, those who officiate at sacrifices for sūdras, a devalaka and seller of Veda (teaching it with a prior stipulation for money) and in IV. 55-56 says that gifts made to brāhmaṇas that are addicted to bad actions, that are covetous, devoid of Veda study and sandhyā performance, who have swerved from the vows proper (for brāhmaṇas), who are wicked and who are immersed in pleasures of sense become fruitless. Vanaparva ( 200. 5-9) enumerates 16 futile gifts such as to one who left off the order of sarmyāsa or of wealth acquired by unjust means &c. Almost the same verses occur in Bșhat-Parāśara (VIII. pp. 241-242), which are quoted in Par. M. I, part 1, p. 188. Vide also Vṛddha Gautama (III. obap. pp. 508-509) for numerous futile gifts. It is one's duty to give food at the end of Vaiśvadeva to all (vide note 1779 above) and the Viṣnudbarmottara directs that as to gifts of food and clothing the only consideration is whether the donor is hungry or in need of clothes and not caste nor qualities. 19966 When on seeing a needy person the donor feels pleasure and indicates it by a smiling face, when he shows honour and is free from a feeling of ill-will or irritation (towards the sup pliant), that is said to be sraddhā, according to Devala. 1997 Manu IV. 235 says that he who gives a gift with honour and he who accepts it with honour both go to heaven, but if the reverse is the case they go to hell. 
 
@@ -227,7 +227,7 @@ Certain objects could not be donated either because one bad no ownership over th
 
 
 
-[ Ch. XXV 
+
 
 a gift of one's relatives (parents, sons and others) in the Viśva jit, that & sovereign cannot make a gift of the whole of his kingdom, that horses cannot be gifted in that sacrifice as śruti forbids such a gift in that sacrifice, that a sūdra who serves the sacrificer merely as a duty cannot be given away and that what over is of the full ownership of a person at the time of giving the dakṣiṇā can alone be gifted in the Viśvajit sacrifice. Nārada200% (dattāpradānika 4-5) forbids eight kinds of gifts viz. of what is handed over to a creditor by a debtor for delivery to a third person, what is borrowed for use (such as an ornament on a festive occasion), a pledge, property jointly owned with others, a deposit, son and wife, one's entire property when one has children, what has been already promised to another man. Daksa III. 19-20 enumerates nine things as not proper subjects of gifts ( adding to Nārada's list ' a friend's wealth and gift through fear'and omitting what is already promised to another'). Yaj. II. 175 is of similar import. Apararka p. 779 quotes verses of Bphaspati and Kātyāyana to the same effect. Vide above (pp. 507-508) as to a man's power over his children. 
 
@@ -259,7 +259,7 @@ As to the proper times for gifts, several rules are laid down, Apart from the da
 
 
 
-[ Ch. XXV 
+
 
 gays 2009 that a gift must be made on the first day of each ayana ( the sun's passage to the north or south ), at the beginning of Şadasiti and while an eclipse of the sun or moon is in progress and that the rewards of the gifts made on these ocoasions are inexhaustible. Vanaparva 200. 125 is to the same effect. A gift made on Amāpāsyā imparts rewards a hundred times (of the reward of making it on any ordinary day), a thousand times when made on the suppression of a tithi, a hundred thousand times when made on the equinoctial day and a gift brings endless rewards when made on Vyatipāta. Sasvarta (208–209) says that gifts made on the ayana day, equinoctial day, vysti. pāta, the suppression of a tithi and on the eclipses of the sun and moon, on new moon day, 12th day, samkranti(sun's passage into a zodiacal sign) becomes inexhaustible and these tithis are highly commended and so also Sunday for a bath, japa, home, dinner to brāhmaṇas, fast and gifts.2010 Sātātapa ( 146) states that 16 ghatikās before and also after the moment when the sun enters & new zodiacal sign is the holy time for gifts, while others give 30 ghatikās (before and after ) for Karkataka (Cancer samkrānti), 20 for Makara (Capricorn) and 105 for Tula (Balance ) and Meṣa (Aries). Viśvarūpa on Yaj. I. 214-217 states that the times specified as the proper occasions for srāddha are all of them the most appropriate times for making gifts. Vide Prajapati 25 and 28 and Atri 327 for similar rules. Savkha says that if amāvāsyā falls on Monday, the 7th tithi on Sunday, 4th on Tuesday, 8th on Wednesday these four are like 
 
@@ -285,7 +285,7 @@ The above rules about the special occasions for gifts are amply borne out by epi
 
 
 
-[ Ch. XXV 
+
 
 granted on Viṣuvasamkrānti to s brāhmaṇa in honour of Buddha by Mahipala I, a.king of Bengal (vide E. I. vol. XIV, p. 324). For grants on Akṣaya Tftigā (3rd of the bright half of Vaisakha) vide E. I. vol. 14, p. 198 (when 32 villages were granted to 500 brahmanas in samvat 1156) and E. I. vol. VII. p. 98 (Lar plates of Govindacandra of Kanoj in saivat 1202). For & grant made on Mahākartiki (the full moon day of Kārtika) vide E. I. vol. X, p. 75 (which is a grant to several brāhmaṇas for ena - bling them to offer bali, caru, vaiśvadeva, agnihotra and the five mahāyajñas, in Kalacuri saivat 292 i. e. about 540 A. D.). 
 
@@ -321,7 +321,7 @@ Vide Stocedure. The stuually made
 
 
 
-[ Ch. XXV 
+
 
 have to be made as to the statement of the occasion, the receipt of the subject of gift &c. (if it is land or a house, it cannot be received in the hand; the donee simply walks round it or on it or enters it). ___Yaj. I. 133 prescribes that the king should daily make gifts to brahmanas learned in the Veda, of milch cows, gold, land, houses and the requisites of marriage (i. e. maideps, expenses of marriage &o.). This was nothing new that was prescribed by Yaj. It has been followed for ages by the kings. The Vanaparv 2017 186. 15 states that he who makes a gift of a maiden in the brābma form or of land enjoys bliss in the world of Indra. We find from the inscriptions of Usavadata 2018 (pro bably in the 1st century A.D.), son-in-law of Nahapana, at Karle and Nasik that he gave 3 lakhs of cows, 16 villages to gods and brāhmaṇas, fed one lakh of brāhmaṇas every year, got eight brāhmaṇas married at his own expense at Prabhāsa ( in Kathiawar), built flights of steps on the river Barnasa, con structed quadrangles, houses and halting places (pratiśraya) at Bharukaccha (modern Broach), Dasapura (in Malwa), Govardhana (Nasik) and Sorparaga (modern Sopara), con structed wells and tanks; kept free ferry boats over the rivers Iba, Parada, Damana, Tapi, Karabena, Dahanuka (all between Thana and Surat); established meeting halls and shelters for gratuitous distribution of water; conferred 32000 cocoanut trees in Nanangola (modern Nargol) on the assembly of brāhmaṇas of the Carska sākha at Rāmatirtha in Sorpāraga and three other places. He adds that be purchased from a brāhmaṇa for 4000 kārsapanas a field that originally belonged to the brahmana's father and made a grant of it for supplying food to the assembly 
 
@@ -517,7 +517,7 @@ acrimastat868
 
 
 
-[ Ch. XXV 
+
 
 trove found underneath the ground and in mines the king is entitled to a share because he affords protection and because he is lord of the earth. This militates against the view that the king is the owner of all lands, sinoe, if that were so, Manu would have declared that the king took all the mines and treasure found in & oultivated field. In VIIL 243 Manu prescribus & fine for a oultivator not oultivating his field at the proper time or allowing the crops to be eaten up. But this would not make the king the owner, since the fine is imposed because the king is deprived of his share of taxes by the action of the cultivator. All these passages show that Manu held that the ownership of erable land was in the oultivator himself and the king was only entitled to demand a certain share of the produce (which is designated bhaga or kara as in Manu VII. 133). This is further supported by the conduct and practioe of powerful but good kings who purchased lands from their holders when they wanted to donate lands already cultivated. It may be conceded that land that was waste or not cultivated by anybody was deemed to belong to the king. Manu (VII. 115-119) enjoins that the king should appoint a headman for a village and officers for ten, 20,100 and a thousand villages, that each of the preceding one was to report to the officer next above him about crimes and other matters, that the headman of a village was to take for his livelihood the perquisites (such as food, fuel &c.) that tbe king could daily demand from the villagers, and that the other officers were to be remunerated by grants of plots of land (which when first granted must have been un cultivated). Kaut. II. 1 states that land prepared for cultiva. tion may be granted to cultivators who will pay a tax for life, that lands may be confiscated from those who do not cultivate them and may be given to others, that lands bestowed upon superintendents, accountants and similar persons 88 remunera. tion cannot be sold and mortgaged by them. For want of space this subject oannot be further pursued here. In modern times opinion has been sharply divided on the question whether the revenue from the land is in the nature of rent or is a tax. Baden Powell in 'Land Systems of British India' vol. I, pp. 240, 280 holds that land revenue is not rent but is a tax. In an elaborate judgment delivered by Sir Michael Westropp C. J. after exhaustively reviewing the original sanskrit texts (pp. 30-39 ) and the works and reports of famous statesmen and writers such 88 Elphinstone, Munro, Mill and Wilson (pp. 39-53) the conclusion arrived at is stated to be that the proprietary 
 
@@ -571,7 +571,7 @@ At the end of the homa, the guru invokes with flowers and incense the lokapālas
 
 
 
-[ Ch. XXV 
+
 
 into one pan and in the other pan brāhmaṇas should place pure gold. Then the earth should be invoked and thereafter the donor should leave the balance and give half of the gold to the guru and the other half to the brahmanas, pouring water on their hands before doing so and he may also make grants of villages to the guru and other priests. Then he should honour brahmanas, other respectable people and the poor and helpless with gifts. One who performs this rite stays for innumerable years in the world of Vigṇu. The same procedure was applied to weighing a man against silver or camphor (Aparārka p. 320, Hemādri, danakhanda p. 214). Apart from kings who got themselves weighed against gold as shown above, lesser persons such as ministers sometimes indulged in this mahadana, as Capdeśvara, & minister of the Mithila kings, states with pride in his Viv&daratnakara (vide H. D. vol. I, p. 370 ). 
 
@@ -729,7 +729,7 @@ A. D. 111
 
 
 
-[ Ch. XXV 
+
 
 the man who makes a gift of such a useless cow enters into the darkness of hell. 
 

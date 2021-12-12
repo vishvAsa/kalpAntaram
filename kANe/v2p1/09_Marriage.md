@@ -23,7 +23,6 @@ W A TOTH."
 
 428 
 
-History of Dhurmaśāstra [ Ch. Ix 
 
 went after another, that this state of things continued to his (Pāṇdu's ) day in the country of Uttara Kuru, that it was Śretaketu, son of Uddālaka, who for the first time stopped all this license and laid down the rule that if a woman proved false to her husband or if a husband was false to a chaste wife, very grave sin would be incurred. In the Sabhāparva (31. 37-38 ) it is said that through the favour of Agni women in Mābiṇmati did what they liked and could not be restrained. These passages cannot be relied upon for proving promisouity of intercourse. In the first place, the country of Uttara Kuru is more or less inythical. This passage rather gives expression to what the poet imagined about remotest ages and not what he knew was the real state of society thousands of years before him. The theory of an original state of promiscuity onoe advanced by Reveral sociologists has now ceased to be respectable (vide Mrs. M. Cole in 'Marriage, past and present'p. 10. 
 
@@ -253,7 +252,7 @@ B. D. 56
 
 
 
-[ Ch. 1x 
+
 
 marriage it follows that girls must have generally been quite grown-up at the time of marriage. 
 
@@ -317,7 +316,7 @@ The rule that brāhmana girls were to be married between 8 to 10 years became ge
 
 Hisory of Dharmaśāstra 
 
-[ Ch. 1x 
+
 
 by Act 19 of 1938) has fixed the minimum age limit for girls at 14 and persons getting their daughters married before the completion of 14 years are liable to be punished in a criminal court under the Act. There is no reason to laugh at ancient Indian writers for the low age of marriage they advocated. Child marriages were common in all countries of Europe. Even in England the age limits for boys and girls were recognised by the law only at 14 and 1% respectively until 1929, when the lowest marriageable age for both was fixed at 16 (19 and 20 Geo, V. Chap. 36). Besides it must be remembered that when marriages of girls of tender years took place they were purely a sacrament. There was no question of consummation which took place only after puberty. Sages condemned intercourse even with one's wife before she attained puberty. 1058 Winternitz in * Die Frau,' p. 135 refers to a work of F. J. Furnivall on Child Marriages, Divorces &c' between 1560-66 A. D. in England from which it is clear that marriages of children of 9 or 10(and rarely of even 2 or 3 years) took place in England only about 300 years ago. 
 
@@ -433,7 +432,6 @@ grandson and the like) because through his (the grandson's) father partioles of 
 
 
 
-[Ch IX 
 
 partioles of the same body either direotly or mediately. 1071 On the word 'asapiṇdām' it was explained that sapiṇda rela tionship arises immediately or mediately by reason of the conneo tion with partioles of the same body; this may prove to be too wide a statement, since in this beginningless sansāra, such a rela. tionship might exist in some way or other between all men; 1978 therefore ( the sage Yajñavalkya) states' after the fifth on the mother's side and after the 7th on the father's side. After the fifth on the mother's side i. e. in the mother's line and after the 7th on the father's side 1. e. in the father's line sapinda relationship ceases. These words ( viz sapiṇda ... ... Deases) are to be taken as understood ( in the text of Yaj.). Therefore the word 'sapiṇda' though it applies everywhere (i. e. to a very wide circle of persons ) by the expressive (i. e. literal) power of its component parts, is restricted to a certain definite sphere, like the words nirmanthya' 10%* and 'pankaja'. And so the six ( ascendants ) beginning with the father and the six descendants beginning with the son and the man himself as the seventh ( in each case ) are sapiṇdas; wherever there is & divergence of the line, the counting shall be made until the seventh in descent is reached including him (i, e. the ancestor ) from whom the line diverges; in this way the computation is to be made everywhere. And so the fifth ( if a girl ), who stands in the fifth generation when a computation is made beginning with the mother and going up to her ( mother's ) father, mother's paternal grandfather &c., is styled in an indirect way 'fifth 
 
@@ -549,7 +547,7 @@ All these four examples are taken from the Dharmasindhu (III Pūrvārdha p. 226-
 
 
 
-[ Ch. I 
+
 
 sapiṇda relationship by 'frog's leap,1018 Just as a frog leaps from one spot to another leaving intervening objects untouobed, 80 in this example No. 3, there is sāpiṇdy& between D(5) and D(5), but 8(6) and D(6) are left unaffected by sāpindya ( as relationship is traced through the mothers of both ), while sāpiṇdya reverts to affect D(7) and 8(?). The maxim of * frog's leap is a very ancient one, being exemplified by the Mahābhāṣya of Patafjali.1079 
 
@@ -617,7 +615,7 @@ faramarqoiret saat &o. (p. 89).
 
 
 
-[ Ch. LÝ 
+
 
 as regards prohibited degrees for marriage.1089 Aparārka (p. 83) on Yaj. I. 53 reads the latter balf somewhat differently and 80 interprete it as to spell out of it a prohibition against marrying a maternal uncle's daughter. This text is quoted in I. L. R. 7 Mad. 548 at p. 550. The Smrtio:ndrikā relies upon & passage of the Caturvimsatimata that allows a marriage of persons who are third or fourth in descent from a common ancestor on both sides (on the mother's or father's side ). There is also a text of Bphaspati which presoribes that the practices of the countries, castes and families should be guarded (or enforced) by the king as they have been in vogue from past times, otherwise the subjects becoine inflamed and among buch practices he instances 'Brāhmaṇas in the south marry the maternal uncle's daughter. 1090 So there is smrti authority for Buch marriages. Besides southern śistas deeply read in the Vedas and acting according to the meaning of the Veda prac tise marriage with a maternal uncle's daughter. Here both Sm. C. and Par. M. are on very firm ground. The Smrtimuktāphala of Vaidyanātha bays' among the Andhras sistas deeply read in the Vedas follow the practice of mālulasulā-pariṇayana and among the Dravidas respectable people allow marriage of & person with a girl who is fourth in descent from the common ancestor',1031 Among several castes in the Dacoan and the Madras Presidenoy, not only is marriage with a maternal uncle's daughter allowed, but it is highly commended. Even certain brābmapa castes like the Desastha brāhmaṇas of the Karnataka and Karbādā brāhmaṇas observe this practice in modern times. The Samskārakaustubha (pp. 616-620 ) and the 
 
@@ -1005,7 +1003,7 @@ rare prisq: I TERAPEVT ratafit
 
 
 
-[Ch. 1X 
+
 
 In numerous mantras of the Rgveda the descendants of well-known sages are denoted by the plural form of the names of those sages. In Rg. X. 66. 14 we read the Vasiṣtbas have raised their voices like their father'. In Rg. VI. 35. 5 the Bharad. vājas are referred to as Angirases. According to Aśv. Srauta sūtra Bharadvāja is a gotra falling under the Angirogana. In the Brāhmaṇa Literature there are ample indications that priestly families had come to be formed into several groups named after their (real or supposed) founders and that such families differed in details of worship according to the group they belonged to. The Tai. Br. (1. 1. 4) prescribes that the consecration (adhāna ) of the sacred Vedic-fires is to be performed for Bbṭgus or Angirases with the mantra 'bhrgūṇām (or angi rasām) tvādevānām vratapate vratena-dadhāmi,' that for other brāhmaṇas with the words 'ādityānām tvā devānām vratapate' &o. The Tai, Br, II. 2. 3 speaks of the 'Angirasi prajā' (people of the Angiras group). The Tāpdys Brāhmaṇa "119 prescribes that the camasa (oup) made of udumbara was to be given as dakṣiṇā to a Bagotra brahmana.' The Kausitaki Br. 1120 ( 25. 15 ) says that one who has performed the Viśvajit sacrifice (in which everytbing that the sacrificer owned was gifted away ) should stay for a year with a brāhmaṇa of the same gotra. The Ait. Br. (30.7) contains the story of Aitasa and his son Abhyagni and it is stated that the Aitaśāyanas Abhyagnis are the most sinful of the Aurvas. In the Kauṣitaki Br. where the same story occurs it is said that the Aitaśāyanas became lowest among Bhrgus, as they were cursed by their father, According to Baudhāyanaśrauta-sutra the Aitaśāyanas are a sub-section of Burgugana. Sunaḥsepa, when he was accepted as a son by Viśvāmitra, came to be called Devarāta and the Ait. Br. (33.5) says that the Kāpileyas and Babhravas were affiliated to Devarāta. According to Baud. srauta-sūtra Devarata and Babhru are sub-sections of Visvāmitra gotra. Sunaḥsepa is said to have been an Angirasa by birth (Ait. Br. 33,5).1121 So this makes it clear that gotra relationebip was by birth in the times of the Ait. Br. (and not from teacher to pupil). In the Upaniṣads the søges when expounding the knowledge of brahma 
 
@@ -1047,7 +1045,7 @@ H, D. 61
 
 
 
-[ Ch. II 
+
 
 (4) In pārvana athalipaka and other pūkayajñas, all were to out off oblations from the middle and fore-half of the havis, but for Jāmadagnyas ( who are pañcāvaltins ) they were to be cut off from the middle, the fore-part and the hind part (vide Āśv. gr. I. 10. 18-19 ). 118% 
 
@@ -1093,7 +1091,7 @@ I uft p. 72 ( ed. by Chengalrao). 1126. it were raisa maa: I wrina: 1994 per Tra
 
 
 
-[ Ch. It 
+
 
 XIV. 5, 2. 6 ) where these very seven sages are enumerated as those intended in the sloka 'srvāg-bilascamasa "27 &c. quoted there. The same work ( Baud. srauta ) states that there are thousands, tens of thousands and arbudas (millions of millions ) of gotras, but the pravards are only 49. Besides the sūtra works, some purānas like the Matsya (chap. 195–202), the Vāyu (chap. 88 and 99, Ānan. ed.), Skanda III.2 (Dharmāranya kapda ) contain elaborate enumerations of gotras and pravaras. The Mahābhārata sets out at length the subdivisions (such as Madhuc. chandas, Devarāta ) of Viśvāmitragotra in Anuśāsa naparva 4. 49-59. Digests like the Smṛtyartbasāra (pp. 14-17 ), the Sam. Pr. (pp. 591-680), the Sam. K. (pp. 637-692), the Nirnaya sindhu, the Dharmasindhu, the Bāļambhatti contain a vast material on this topic. Tbere are also special works like the Pravaramañjarl on this topic. The general conception about gotra is that it denotes all persons who trace descent in an unbroken male line from a common male ancestor. When & person says ' I am Jamadagni-gotra' he means that he traces bis descent from the ancient sage Jamadagni by unbroken male descent. As stated by Baud. cited above, from very ancient times these male founders were supposed to be eight. This enumeration of eight primary gotras seems to have been known to Pāṇini. Patanjali says 'there were eighty thousand sages who observed celibacy. The accepted opinion is that the spread of progeny was due to eight sages includ ing Agastya. The offspring ( apatya ) of these eight are gotras and others than these are called gotrāvayava', 1128 Pāçini 
 
@@ -1121,7 +1119,7 @@ TAPET I RUTO OD H III. 5.486
 
 
 
-[Ch. Ix 
+
 
 who thereby gives a name to his descendants and then becomes the founder of the family. This is laukika gotra. But this is not the meaning of gotras which brāhmaṇas have. The secondary meaning may apply to the word gotra when used in the case of ksatriyas'.1131 The Mit. on Yāj. I. 53 says 'gotra is that which is known from tradition handed down in the family.''** Eao gotra is associated with one, two, three or five sages (but never four or more than five ) that constitute the pravara of that gotra. "138 The gotras are arranged in groups, e. g. there are according to the Āśvaldyana-srauta-sūtra four sub divisions of the Vasiṣtha gana, viz. Upamanyu, Parasara, Kundina and Vasiṣtha (other than the first three ). Each of these four again has numerous sub-sections, each being called gotra. So the arrangement is first into ganas, then into pakṣas, then into individual gotras. The first has survived in the Bhṛgu and Angirasa gane. According to Baud. the principal eight gotras were divided into pakṣas. The pravara of Upamanyu is Vasiṣtha, Bharadvasu, Indrapramada; the pravara of the Parisara gotra is Vasiṣtha, Śaktya, Pārāśarya; the pravard of the Kundina gotra is Vasiṣtha, Maitrāvaruṇa, Kauṇdinya and the pravara of Vasisthas other than these three is simply Vasistha. It is therefore that some define pravara as 'the group of sages that distinguishes the founder (lit. the starter) of one gotra from another'. 1184 
 
@@ -1439,7 +1437,7 @@ gulqoslat masinaca FUTE may T TOW: * oert p. 92 on . I. 63.
 
 
 
-[ Ch. Ix 
+
 
 take part in Vedic sacrifices, viz. 'one should give to the daughter's father & hundred (cows ) plus a charioti' Jaimini replies ( VI. 1. 15 ) that the giving of a hundred with a chariot is not for purchasing a bride, but it is only a duty and a hundred must be offered as a present ( whether the girl is beautiful or not)."173 This shows that, even if some girls were purchased for marriage in the times of the Maitrāyaniya S., there was a popular revulsion of sentiment about this practice and the sale of girls was severely condemned by the time of the sūtrakāras. The Ap. Dh, S. ( II. 6. 13. 10-11) also makes interesting remarks on this point 1174 " there is no gift and the incidents of purchase about one's children; in marriage the gift ordained by Veda to be made to the daughter's father in the words ' therefore one should give a hundred ( cows ) besides & chariot to the girl's father and that (gift) should be made to belong to the (married ) couple' is due to the desire ( of the father to give a status to the daughter and her sons ) and is meant as a fulfilment of duty (and not as a sale transaction). The word ' purchase' applied to such a transaction is merely figurative, since the relationship (as busband and wife ) arises (not from the 80 called purchase but) from dharma." Vas. Dh, S. ( I. 36-37) quotes the two passages of the Veda (from Mait. 8. and the other about the gift of one hundred cows ) in support of the Mānuṣa (i. e. Asura) form of marriage. The Nirukta VI. 9 1175 while explaining Rg. I. 109.2 ( O Indra and Agni, I have heard you to be greater donors than a partially fit son-in-law or a brother-in-law') remarks that "the word 
 
@@ -1543,7 +1541,7 @@ ENT PARTI E 169. 11. Compare au IV. 184-186 '\#raf 4: 5970: \# oror FAT FT Cat g
 
 
 
-[ Ch. IX 
+
 
 the wife is indeed a friend, the daughter is distress (or humilla. tion ), the son is light in the highest heaven. The Mahabbārata ( Adi. 159. 11 ) in a similar veia says 'the son is one's self, the wife is one's friend, but the daughter is indeed a difficulty. But all the same the Grbyasūtras like Āp. ( 15. 13 ) call upon the father to greet his daughter also with a mantra when he returned from a journey, the differance being that in the case of the son there is kissing of the son's head and muttering of certain mantras in his right ear. Manu (IX. 232) advises the king to award death sentence to him who kills & woman, a child or a brābmana. Manu IX. 130 ( = Anuśāsa na 45. 11) expressly says that just as the con is one's own self, 80 is the daughter like the son; bow can another person take the wealth (of the deceased) when his daughter who is his own self is there to take it'9 Nārada!90 ( dayabhāga v. 50) reasons that both the son and the daughter continue the line of the father and therefore in the absence of the son the daughter suc coeds as heir. Bphaspati exclaims' the daughter is born from the limbs of the parents as much as the son ; when she is alive how can another take her father's estate'? Bāns, who as a great post had unparalleled Bympathy with the emotions and feelings of the average man, makes even the king Prabhakara vardhana say about his daughter what every Indian father has felt for thousands of years' this rule of law laid down by some one vix, that one's own children ( daughtera ) sprung from one's body, fondled on one's knees and whom one would never forsake, are taken away all of a sudden by persons (husbands ) who till then were quite unfamiliar. It is on account of this sorrow that although both (son and daughter ) are one's own children the good feel sorrow when a daughter is born and who offer water in the form of tears to their daughters at the very time of their birth'. A daughter was not greated at birth, not because the father had no love for her, but because 
 
@@ -1615,7 +1613,7 @@ H. D. 65
 
 History of Dharmaśāsıra 
 
-[ Ch. IX 
+
 
 writers about months one should follow the usage of one's country. One should not celebrate the marriage of the eldest son with the eldest daugter of a man in the month of Jyestha (or on Jyesthā nakṣatra ) nor should one celebrate a marriage in the month of birth or on the day of birth or nakṣatra of birth ( of the eldest son or daughter). Wednesday, Monday, Friday and Thursday are the best days of the week, but the Madana pārijāta says that any day is good if the marriage is celebrated at night. 1200 In marriage the moon must be in a strong position for girls. One should avoid Jupiter being the 4th, 8th or 12th from one's rāśi ( zodiacal sign in which the moon was at the time of birth). The Nirnayasindhu quotes & verse that when the girl has reached puberty, then one should not wait till Jupiter is favourable, but marriage should be performed even when Jupiter is 8th from the zodiacal sign of birth, propitiatory rites however being performed for Jupiter. 1201 Upanayana and marriage cannot be performed when Jupiter is in the zodiacal sign called Leo ( Simba), but this applies only to the tract between the river Godāvari and the Ganges. 1203 From the nakṣatra and zodiacal sign at the time of birth ( in the case of both the girl and the bridegroom) certain astrological calculations were made in eight ways 1203 called kūtas. They were Varna, Vaśya, Nakṣatra, Yoni, Graha (planets governing the twelve rāśis ), Gana, Rasi, and Nādi, each later one of which was more powerful than each preceding one and marks (guna) from 1 to 8 were respectively assigned to each of these if the conditions laid down were satisfied. Two of these viz. gana and nādi are attached great importance even now among brāh manas and other classes also and so they may be illustrated here, though very briefly. The 27 nakṣatras are arranged in three groups of nine each, each group being assigned to Deva. gana, Manusyagana and Rākṣasagana as follows: 
 
@@ -1691,7 +1689,7 @@ If the pakṣatras of the intended pair belong to the same nādi, then that port
 
 
 
-[ Ch. 1x 
+
 
 The apxieties of the girls' father did not end here. If after the marriage was settled but before it actually took place any relative in any of the two families died, then the marriage agreement was to be broken off according to some writers, but Saunaka 1204 mercifully states a more sensible and reasonable rule viz, if the father or mother or paternal grand-father or paternal grand-mother or paternal uncle, brother or unmarried sister of the intended bride or bridegroom dies, or the bride groom's first wife or his son from another wife dies, then only it is pratikūla and the marriage should not be performed, but the death of any one else presents no obstacle. 
 
@@ -1747,7 +1745,7 @@ In the āsura form there is practically a sale of the girl for money or money's 
 
 
 
-[ Ch. IX 
+
 
 It is not to be supposed that when ancient sages held that rākṣaga and paiśāoa were forms of marriage, they legalized marriage by capture or stealth. What they meant was tbat these were the means of securing 1210 wives and that there are not really eight kinds of vivāhas, but rather there are eight ways in which wives may be secured. It is for this reason that Vatsa gays that if a fine girl cannot be secured by any means she may be approached even in private by stealth and married. The sages condemned in no measured terms the paisāca. From the fact that Apastamba and Vasiṣtha both ignore the Paigāca and Prājāpatya it may be inferred that these two bad ceased to be recognised by their time and that the other sages enumerated them only because they appeared in ancient works and for the sake of completeness of treatment. Vasiṣtha ( 17.73 ) expressly repudiates the idea that legal wifehood can arise by forcible seizure of a girl 'if a damsel '211 has been abduoted by force and not wedded with sacred texts she may lawfully be given to another man ( in marriage ); she is just as good as a maiden'. The smrtis out of regard for the future welfare of the girl preferred to blink at the wrong done, but insisted upon the abductor or stealthy seducer performing the rites of homa and saptapadi in order to confer on the girl wronged the status of a legally married wife. But if the wrong-doer was unwilling to do this they recommended that the girl may be given to another in marriage and pronounced very heavy punishments for the abductor or seducer of a girl (vide Manu VIII. 366 and Yāj. II. 287-288). Sir Gooroodas Banerjee 1213 rightly expresses surprise at Macnaughten's saying that fraud was legalised by the Hindu Law in the case of the paiśāca form. Manu VIII. 366 says that if a man bas inter course with a girl of his own caste with her consent, he will have to give a fee to the father if the latter so desires and 
 
@@ -1783,7 +1781,7 @@ The smrtis contain several views about the suitability of these eight to various
 
 
 
-[Ch. X 
+
 
 by all varnas and paisāca and āsurs should not be resorted to by any one of any varṇa ( Manu IlI. 25 = Anuśāsana 44.9-10), but in another verse (III. 21 ) Manu allows asura to vaisyas and sūdras'214*, Manu mentions the view that the gāndharva and rākṣasa are proper ( dharmya ) for a kṣatriya or a mixture of these two viz. where the girl loves the bride-groom, but ber parents or guardians disapprove or cause obstacles and the lover takes away the girl after a fight with her relations (Manu IIL 26 and Baud. Dh. 8. 1. 11. 13). Baud. Dh.S. 1218 (I. 11, 14-16) recommends āsura and paiśāca to vaisyas and sūdras and assigns the interesting reason for the vaisyas and sūdras do not keep their wives under restraints, they having to do the work of ploughing and waiting upon (the other varṇas)'. Nārada ( strīpumsa, verse 40 ) says that gāndharva is common to all varnas. The Kāmasūtra (III. 5. 28 ) first speaks of the brāhma as the best ( following the view of the dharmaśāstra writers ) and then, true to its own particular subject, gives its own opinion that gāndharva is the best ( Kāmasutra III. 5. 29-30). 
 
@@ -1831,7 +1829,7 @@ $24
 
 
 
-[Ch. Ik 
+
 
 gives us a fine description of the evayamvara of Indumati in the Raghuvamsa. Bilhana in his Vikramānka-devacarita (canto IX) gives a description of the historio svayamvara of Candralekha ( or Candaladevi ) daughter of the Silābāra prince of Karahāṭa ( modern Karad), when she chose Abavamalla or Vikramānka, the Cālukya king of Kalyāna ( latter balf of 11th century). Such a svayamvara, it appears, was thought to be unsuitable to brāhmaṇas according to the Adiparva. 11 In the Kadambari ( Pārvabhāga, penultimate para ) Pattralekha says that svayamvara is ordained in the Dharmaśāstras. 1337 
 
@@ -1905,7 +1903,7 @@ The Abv. gr. ( I. 7. 3-I. 8.) deals with all the marriage rites as follows †: 
 
 
 
-[ Ch. JX 
+
 
 kindled on the altar as described already ) a mill-stone and to the north-east ( of the fire) a water jar, he should offer sacrifice (with the sruva), while the bride takes bold of him ( touches his right hand ). Standing with his face turned to the west, while the bride is sitting and has her face turned to the east, he should seize only her thumb with the mantra 'I take hold of thy hand for happiness' (Rg. X. 85.36 quoted in note 1228), if he desires that only male children be born to him; he may seize her other fingers if he is desirous of female children; he may seize her hand on the hair side together with the thumb if he be desirous of both (male and female children ). Leading her thrice round the fire and the water jar so that their right sides are turned towards (the fire &o. ) he murmurs 1231 'I am ama (this ), thou art sā (obe ), thou art sā, I am ama; I am heaven, thou art the earth; I am the saman, thou art the ?k. Let us both marry here. Let us beget offspring. Dear to each other, bright, having well disposed minds, may we live for a hundred years!' Each time he leads her round ( the fire ) he makes her tread on the stone with the words )' tread on this stone; be firm like & stone; overcome the enemies; trample down the foes.188% Having first poured clarified butter over her joined hands, the bride's brother or some one who is in the place of brother pours fried grain twice over the bride's joined hands, three times in the case of those whose gotra is Jamadagni( i. e. if the bridegroom is of that gotra ). Then he pours clarified butter over what has been left of the haris (sacrificial material or offering) and over what has been cut off ( separated from the aggregate ). This is the rule about the portions to be out off ( in every case where there is avadann). 1838 With the following verses (recited by the bride-groom) 
 
@@ -2101,7 +2099,7 @@ H. D. 68
 
 
 
-[ Ch. IX 
+
 
 lighted and requesting her and the relatives of the bride-groom to treat the bride affectionately). Vide Sam. K. . 811, Dharmasindhu p. 267. A basket of bamboo (vamsa) is used probably to symbolize the continuity of the family (vamsa) of the bride-groom. This is done when the bride is about to leave the father's place to go to the bride-groom's place after marriage. 
 
@@ -2133,7 +2131,7 @@ The Vas. Db. 8. (17.72) goes so far as to observe 'when & girl has been promised
 
 
 
-[Ch. IX 
+
 
 Even the Kāmaśūtra 1248 quotes the unanimous opinion of the dcāryas that marriages celebrated before fire as a witness cannot be revoked. In the case of sūdras there are no Vedic mantras and so in their case the completion of marriage will be determined according to custom. The digests like Gṭ. R. say (p. 57) that in the case of sūdras the marriage will be complete when the sūdra girl holds the fringe of the garment of the bride-groom. 
 

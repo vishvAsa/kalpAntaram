@@ -25,7 +25,7 @@ H. D. 89
 
 
 
-[ Ch. XIX 
+
 
 roceded far into the back-ground and its place was taken by an elaborated procedure of devapūjā ( worship of images kept in the house ). Some space must be devoted to the origin and develop ment of this phase of religious practice. 
 
@@ -119,7 +119,7 @@ or whether they derived the idea from some other race or sectarians has been ver
 
 
 
-[ Ch. XIX 
+
 
 Manu, as that of priests officiating at the srauta or gphy & sacrifices had in his day; besides such men must have nego looted the principal duty of a brāhmana (viz. study of the Veda ) and so they were looked down upon. Even in the times of the Brābmaṇas the simple gphys sacrifices were being raised to the level of śrauta rites, which were gradually becoming less and less frequent. The Ait. Br. (11, 8) prescribes that when a man takes up an offering to a deity and is about to say 'yaṣat' he should contemplate upon that deity for whom the offering is meant. This would naturally lead the worshipper to invest the deity with anthropomorphic attributes. The Nirukta devotes some space ( VII. 6-7 ) to the consideration of the question of the form of the deities referred to in the Vedic mantras. 1700 Three views are propounded, viz. (1) they have an anthropomorphic form, (2) they have no anthromorphic form, (3) they may par take of both characters, i. e. the deities though really non anthropomorphio may assume various forms for carrying out some purpose or activity. This last view contains the doctrine of avatāras. When Vedic saorifices became less and less preva lent owing to various causes (particularly because of the doctrine of ahimsā, the various upāsanās and the philosophy of the Absolute set forth in the Upadiṣads ), there arose the cult of the worship of images. Originally, it was not so universal or elaborate as it became in medieval and modern times. 
 
@@ -603,7 +603,7 @@ The Pūjāprakāśa (p. 194) quotes Harita prescribing that Maheśvara may be wo
 
 
 
-[ Ch. XIX 
+
 
 'om' or by the mantra 'Isanaḥ sarva-vidyānām' (Tai. Ār. X. 47 ), or by the Rudra mantras ( viz. Tai. S. IV. 5. 1-11 ) or by the mantra 'tryambakam yajāmabe'(Rg. VII. 59. 12). For a devotee of Siva, the wearing of a string of Rudraksa berries is necessary either on the band, the arm, the neck or on the head. 1787 The Smstimuktāphala (abnika p. 393 ) quotes verses from the Smrtiratna and the Ratnāvali about the merit secured hy bathing the linga with cow's milk, ourds, clarified butter, honey, sugarcane juice, pancagavya, water in which campbor and aguru are mixed up, and other substances. The 14th day of the dark half of a month has been sacred to Siva from ancient times. Bana in the Kadambari ( para 54 ) refers to the fact that queen VilasavatI went to worship Mahakāla at Ujjayini on the 14th. 
 
@@ -635,7 +635,7 @@ In modern times devapāja differs considerably from the ritual of the ancient wo
 
 
 
-[ Ch. XIX 
+
 
 another. This method is oalled kandānusamaya. The other method occurs when āvābana is done for the several deities in order, then āgana for all, then pādya for all and so on up to namas kāra. This is called padārthānusamaya. This method is generally preferred. Vide the com. of Nārāyaṇa on Āśv. gr. I. 24. 7, the com. on Katyāyana-srauta 1. 5. 9-11 for detailed explanations of these. 
 

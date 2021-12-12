@@ -111,7 +111,7 @@ E OD I 3. 280.
 
 
 
-[ Ch. XVII 
+
 
 The prinoipal matters to be disoussed under āhnika are : getting up from bed, gauca ( bodily purity ), dantadhavana (brushing the teeth), snāna (bath), saindhyā, tarpana, the five mahayajñas (including brahmayajña and honouring guests ), attending on fire, bhojana (mid-day meal ), obtaining wealth, studying and teaching, evening samdhyā, gifts, going to bed, performing saorifices at certain stated times. The Parāśara smrti I. 39 summarises the most important daily duties as bathing, performing the samdhyā prayers, japa, homa, worship of gods and honouring of guests, and vaiśvadeva are the sir (principal) daily actions.1818 Manu (IV. 152=Anugāsana parva 104. 23 ) also enumerates in one place the principal daily actions that must be got through in the morning viz. angwering calls of nature, toilet, bathing, brusbing the teeth, applying collyrium to the eyes and worship of the gods 1516 
 
@@ -205,7 +205,7 @@ H. D. 82
 
 
 
-[ Ch. XVII 
+
 
 and seven to both hands, three to both feet together. This is the extent of sauca required for householders, and for brabma cārin, forest hermit and sampyāsin, twice, thrice and four times As much is required. The Mit, on Yāj. I. 17 remarks that for all asramas the cleansing required is only as much as will remove foul smell and filth and the several numbers of lumps of earth prescribed in different smstis are only precribed for unseen ( or spiritual ) results. Gaut. I. 45–46, Vae. III. 48 and Manu V. 134 say that cleansing of the body is to be so effected first with water and then with earth that foul smell and filth will be totally removed. Devola ( quoted in the Gr. R. p. 147) says that respectable people do not emphasize the number of times mentioned in the smṛtis, but they say that cleansing should be carried on till one feels that it is all right. 1580 The Smṛtyarthasāra 1531 (p. 19 ) following Dakṣa V. 12 says that at night only half of the sauca prescribed for the day is required, only one-fourth of it is prescribed for the ailing and only one-eighth when a man is on a journey and that no special number of lumps of earth are prescribed for women, śūdras, boys whose upanayana bas not been performed. In cleansing one is not to employ stones, clods of earth, and green twigs cut off for the purpose from herbs and trees ( Āp. Dh. S. I. 11. 30. 30, Gaut. IX. 15 ) nor is one to use earth from inside a river or water reservoir or from a temple, from an ant-hill or from the hiding places of rats or from dung-hills or what is left after being used for a prior cleansing ( Vas, Dh. S. VI. 17 ) nor what is taken from & road or cemetery, nor should one use earth that has worms, coals, or bones or gravel in it. Dakṣa V. presoribes that for the first time as much earth as will fill half of the outstretched hand and for the second time half of that is to be taken and so on."532 The lump of earth should not be bigger than a myrobalan fruit (Kūrmapurāpa in Sm. C. I. p. 182 ). One is not to answer calls of nature with the shoes on ( Āp. Dh. . I. 11. 30. 18 ) and one's yajttopavila should be suspended from the right ear or he should throw it on bis 
 
@@ -355,7 +355,7 @@ The darbhas to be used in yajñas should be green in colour, yellowish for use i
 
 Ilistory of Dharmaśāstra 
 
-[ Ch. XVII 
+
 
 The subject of snāna can be treated from various points of view. Snāna 1858 is either mukhya (principal) or gauna (secondary), the first being a bath with water and the second being without water. Each of these is again subdivided into various kinds. According to Daksa II. 48 snana is nitya (obligatory every day), naimittika (to be performed on certain occasions), and kāmya (to be performed only if one desires certain rewards). All the varnas 1557 have to bathe in or with water every day the whole body together with the head also (Baud. Dh. S. II. 4. 4, Manu II. 176 and IV. 82) and dvijatis have to do it with Vedic mantras. This is nitya. This 1558 is required to be done, because a man who has not bathed is not entitled to perform homa, japa and other rites (Saṅkha VIII. 2, Daksa II.9). The body is dirty and from it ooze various exudations day and night and a bath in the morning oleanses and purifies the body. In this way snāna has seen and unseen (i. e. spiritual) results 1558 
 
@@ -555,7 +555,7 @@ e fag: \# fe quotod by more p. 135; stor en TITE itgelora, both quoted by raro I
 
 
 
-[ Ch. XVII 
+
 
 pp. 196-197). The mantrasnanalisg consists in sprinkling water with the verses 'apo hi stha ' (Rg.x. 9. 1-3), the bhauma (or pūrthiva ) in smearing the body with loose earth, āgneya in smearing the body with holy ashes, vāyarya in taking on the body the dust raised by the hoofs of cows, divja in wetting one's body with a shower of rain accompanied with sunshine and mānasa in reflecting on God Viṣnu. 
 
@@ -595,7 +595,7 @@ Weaving and woven cloth are frequently referred to in the Veda, generally in a m
 
 
 
-[ Ch. XVII 
+
 
 one who is initiated for the sacrifice wears. In the Bṛ. Up. IL 3. 6. there 1544 is a reference to cloth dyed red with safflower or woollen oloth that is whitish in colour. Rg. IV. 22, 2 and Rg. V. 52. 9 are interpreted by Western scholars as referring to wool on the Paruṣpi river being the best, but the sense is rather obscure. It appears from the above that cloth was either woollen or linen, that silken (or kusa ) cloth was worn on very solemn occasions, that deer-skin was also employed 88 covering and that cloth was also dyed red. Whether cotton cloth was known in the earliest Vedic period is not certain. It is clear that in the sūtras ( Viṣnu Dh. S. 71. 15 and 63. 24 ) and in Manu (8.326 and 12. 64 ) cotton cloth is known and so its use must have reached several centuries before the times of the sūtras. Arrian (tr. by MaoCrindle) says that Indian dress was made of cotton (p. 219). 
 
@@ -689,7 +689,7 @@ After samdhya comes homa (Dakṣa II. 28 and Yaj. I. 98-99), If a brabmaṇa too
 
 
 
-[ Ch. XVII 
+
 
 sun rises one oubit above the horizon (Gobhila-empti I. 123 ). 1809 The evening home is to be performed at a time when the stars clearly appear in the sky and the ruddy colour has left the western horizon (Gobhila-smrti I. 124). Aśv. Śr. II. 2 and Asy. gr. I. 9.5 state the time for morning homa to be up to the end of the period of sangava ( i. e. the second of the five periods of day time). Therefore some said that in order to perform homa in time one may perform the morning sandhya prayer even after homa. 1810 It has been shown above (p. 425 ) that the belief was that a man owed three debts one of which, viz. tbat to the gods, was discharged by performance of sacrifices and that a man had to perform agnihotrs ( fire worship ) to the end of his life. The fire to be tended was either srauta or smārta. As to the first there were certain rules. Oply a person that had attained & certain age was to kindle the $rauta fires, viz, one who had & son or had reached an age when he could have a son and whose hair was still black (i.e, who had not become middle-aged or old). There were two views on the necessity of kindling the srauta fires. Vas. Dh. 8. XI. 45–48 1011 says "a brāhmapa must necessarily kindle the three srauta fires and offer (in them ) the Darśa-Pārnamāga (new moon and full moon sacrifices ), the Āgrayaṇa iṣti, the Cāturmāsyas, the animal and soma sacrifices. For this is enjoined as an observanoe and has been lauded as & debt. For it is declared ( in the Veda)' a brāhmaṇa is born 
 
@@ -723,7 +723,7 @@ ANY I FAAT FTYƏT: \#1 सस्येवर्षन्तो रहयन्�
 
 
 
-[Ch. XVII 
+
 
 in this work and to give in a separate chapter at the end of this volume only some information about the grauta sacrifices. For about two thousand years hardly any animal or soma sacri fices have been performed (except rarély by kings, nobles and rich people). In medieval times there were many brābmaṇas who performed the New and Full moon sacrifices, the Āgrayana isti and the Cāturmāsyas. But in modern times even suoh agniho trins have become very rare and in certain parts of India one can hardly find a single agnihotrin keeping srauta fires even among thousands of brābmaṇas. 
 
@@ -799,7 +799,7 @@ vide TTUATT P. 36 for a similar verse.
 
 
 
-[ Ch. XVII 
+
 
 The Gobhila gf. (I. 1.15-19) lays down that one is to kindle one's gļhya fire (originally or if it goes out) by bringing it from the house of a vaisya or from a frying pan or he may bring it from the house of a person who performs many sacrifices, whether he be a brahmana or rajanya or vaisya or one may produce it by attrition; this last is holy, but does not bring pro sperity. One may do as one likes 1628! There are similar provisions in sān. gļ. I. 1. 8, Pār. gs. I. 2, Āp. gs. V. 16-17. If the gshya fire goes out, the husband or the wife has to observe a fast that day as & penance ( Ap. gf. V. 19). 
 
@@ -903,7 +903,7 @@ G a rten Farrera Tryf wat TUAT \#\# WPT quoted in Faq. I. p. 159, T. ff. I. part
 
 
 
-[ Ch. XVII 
+
 
 dūry 1649 &o. Vide Manu IV. 152 quoted above (p. 646). What objects a man should see on getting up has already been stated (p. 648). Acoording to Nārada ( prakirṇaka vv. 54-55 ) there are eight mangala objects viz. a brāhmaṇa, a cow, fire, gold, clarified butter, the sun, water and the king and if one sees, bows to or circumambulates these, one's life is lengthened.1050 The Vāmana-purāṇa (14. 35-37) mentions numerous objeots that are auspicious and that one should touch or see before going out.161 The Matsyapurāṇa 243 enumerates in 26 verges numerous auspicious and inauspicious objects ( these are quoted in Gr. R. pp. 553-554). Viṇpu Dh. S. 23. 58 enumerates six objects derived from the cow as auspicious. Vide Adiparva 29. 34, Dronaparva 127. 14 (for touching eight mangalas ), śānti 40,7, Anuśāsana 126. 18 and 131. 8. According to the Viṣṇu Dh. 8. 63. 26 one should start on a journey after seeing such objects as fire, a brāhmaṇa, hetaera, & jar full of water, a mirror, & banner, a parasol, palaces, fans, ohowries &c. Viṣnu Dh. S. 63. 27-31 states that wlien, on leaving one's house, one sees certain persons or objeots one should return to the house and then restart viz. a drunkard, a lunatic, a cripple, one who has vomited or has undergone a purge, one who is completely shaved, one with dirty clothes, one baving matted hair, a dwarf, one wearing orange-coloured clothes, en ascetic &o. 
 
@@ -971,7 +971,7 @@ Asv. gr. III. 4.5 is very brief as to pittarpana'after satiat. ing the pitṛs w
 
 
 
-[ Ch. XVII 
+
 
 Brahmayajña of which tarpapa is a constituent part). In modern times the deceased ancestors and relatives to whom water is offered are stated below. Water is offered to each thrice (except to women ancestors other than the mother, grand-mother and the great-grandmother) by the pitr-tirtha and the rele tionship, the gotra and the name of each are recited when doing so. For example, water is offered to the deceased father in the form, 'I offer svadba and bow to and satiate my father, 80 and so by name, whose gotra was so and so and who has attained the form of Vasu' (asmatpitaram amukaśarmāṇam amuka-gotram vagurūpam svadhanamas tarpayāmi). The ances tors and relatives to whom water is offered, if they are dead, are in order father, paternal grandfather and great-grandfather ; mother, paternal grand-mother and great-grandmother; step mother; maternal grand-father (with maternal grand-mother, sapatnikam being used with \#mātāmaham'), maternal great grand-father and maternal great-great-grand-father (with their wives); one's wife; one's son (or sons, if several are dead already and with his wife or their wives that are dead); daughter (with her husband, if both are dead); upole (with his wife, if dead); maternal uncle (with his wife, if dead); brother (with wife); paternal aunt (with husband); maternal aunt (with husband ); sister ( with husband); father-in-law (with his wife and son, if they are dead); guru (father as teacher of the Gayatri and Veda); pupil. In the case of grand-fathers and grand-mothers they are described as "rudrarūpa'aud the great grand-fathers and great-grand-mothers as 'adityarūpa'. The three ancestors of the mother with their wives are respectively Vasurūpa, rudrarūpa and adityarūpa 167. The names of women ancestors bave the affix 'da' added and all persons both male and female other than those specified above are described as 
 

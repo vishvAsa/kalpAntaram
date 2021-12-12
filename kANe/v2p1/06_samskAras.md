@@ -109,7 +109,7 @@ faa. I. p. 13, 957. AT. I. part 2 p. 18, \#FATTFIT p. 135. The editor of the an.
 
 
 
-[ Ch. Vṛ 
+
 
 bhūta and brahma); seven pakayajñas *** (viz. aṣtaka, pārvapasthāllpaka, śrāddha, srāvapl, agrahāyani, caitri, aśva yuji); seven haviryajñas (in which there is burnt offering but no soma ) viz. Agnyādbeya, Agnihotra, Darśapūrṇamāsa, Agrayana, Caturmasyas, Nirudhapaśubandha and Sautrāmapi); seven soma sacrifices (Agniṣtoma, Atyagniṣtoma, Uktbya, Şodasin, Vājapeya, 'Atirātra, Āptoryāma). Gautama uses the word samskāra in the most extended sense. Saṅkba as quoted by the Sm. C. (I. p. 13) and the Subodhini on Mit. II. 4 follow Gautama. Vaik. speaks of eighteen sārira samskāras (in which he includes utthina, pravāsāgamana, piṇdavardhana, which are seen nowhere else as saṇskāras) and twenty-two yajñas (i. e. five daily yajā as as one and seven pākayajñas, seven havir-yajñas, and seven Boma yajñas). Most grhyasūtrag, dharmasūtras and smstis do not enumerate so many. Angiras ( quoted in the Samskāra mayūkba, Samskāra-prakāśa p. 135 and other digests) mentions twenty-five samskārag. They inolude all sarskāras of Gautama from garbhādhana to the five daily yajñas ( which latter are reckoned as one saṁskāra by Angiras ) and after nāmakarana niskramana is added. Besides, Viṣnubali, Agrayana, Aṣtakā, Srāvapl, Aśvayuji, Mārgasirṣi ( same as Agrahāyaṇi), Pārvana, Utsarga and Upākarms are enumerated as the remaining samskāras by Angiras. Veda-Vyāsa . 14-15 enumerates sixteen samskāras. Manu, Yaj., Viṣnu Dh. S, do not give the number of samskāras but simply say that they are those from niṣeka (garbhādhana) to smagāna (i. e. antyesti). This last one is not treated of in Gautama and several grh yasūtras. In most of the digests the principal samskāras are said to be sixteen; but there is some difference of opinion even as to these sixteen, 455 For example, Jātūkarnya as quoted in Sam. Pr. (p. 135 ) enumerates the 16 as garbhādhāna, pumsavana, simanta, jātakarma, nāmakaraṇa, annasrāśana, caula, mauñji 
 
@@ -137,7 +137,7 @@ Garbhadhāna: Nizeka : Caturthikarma or-homa:- Manu (II. 16 and 26 ), Yāj. I. 1
 
 
 
-[ Ch. VI 
+
 
 grhyasūtras. The Baud. 87. (IV. 6. 1), the Kathakagļhya (30.8), Gaut. ( VIII. 14), Yāj. I. 11 employ the word garbha dhāna. According to Vaik. (III. 10 ) the garbhādhāna rite follows niṣeka or stu-samgamana (union of married pair after menstruation) and consists in ensuring conception. 
 
@@ -595,7 +595,7 @@ HL. D. 88
 
 
 
-[ Ch. VI 
+
 
 temple to the Matrs is said to have been erooted by Maydrāksa, the minister of Viśvavarman in 480 of the Malava Era i. e. 423-24 A. D. (Gupta Inscriptions p. 74). 
 
@@ -697,7 +697,7 @@ We have here first the religious part of home and oblations with mantras. But th
 
 
 
-[ Ch. VI 
+
 
 Wisband is to that it was in and thr 
 
@@ -729,7 +729,7 @@ e are foart. The S. B. E. vol. XXX p. 280 translates 'he ties harley grains with
 
 
 
-[ Ch. VI 
+
 
 Apastamba, Baud., Bhāradvāja and Pār. expressly say that this saṁskāra is to be performed only onoe at the first conception. For the difference of view among nibandhakāras vide above ( pp. 205-206 ) on garbhādbāna. 
 
@@ -1115,7 +1115,7 @@ Presevx 8.-11, लेखाचरावदीप विष्णुधर्म�
 
 
 
-[Ch. Vṛ 
+
 
 person, for the effective employment of whioh it was necessary to know a person's name. 564 
 
@@ -1187,7 +1187,7 @@ U TF: ATT TETT 379 p. 27.
 
 History of Dhurmasastra 
 
-[ Ch. VI 
+
 
 of the year 60 (C. I. I. vol. II. P. 16 ) his father is called Valavadha (Balavardhana ) and his son Mitravadhana (Mitravardhana ). 
 
@@ -1299,7 +1299,7 @@ p u otsat antoi umat I. i : girato 1 3119. 9. 9. II. 14. 11-14. After at the chi
 
 
 
-[ Ch. VI 
+
 
 prescribes the cooking of all haviṣya food 591 and the other two works prescribe food cooked in milk. 
 

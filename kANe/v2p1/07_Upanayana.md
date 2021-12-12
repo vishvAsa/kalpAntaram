@@ -107,7 +107,7 @@ It appears from the above and from the Upanigad pagsages set out immediately bel
 
 
 
-[ Ch. VII 
+
 
 asrama of brahmacarya ' dwelling as a brahmapārl in the house of a teacher, mortifying his body in the house of his teacher till his 888 end'. Chāndogya IV. 4. 4. shows that the teacher asked the pupil his gotra ( in order that he may address him by that name ). The same Upaniṣad shows that the brahmatāri had to beg for food (IV. 3. 5), that he had to look after the fire of his teacher (IV. 10.1-2) and that he had to tend his cattle (IV. 4. 5). The age when upanayana was performed is not expresaly stated in the Upaniṣads except in the case of Svetaketu who was 1% ( vide note 634 above). The period of student-hood was usually twelve (Chandogya II. 23.1, IV, 10.1, V1.1.), though the Chāndo gya ( VIII. 11. 3 ) speaks of Indra's brahmacarya for 101 years and Chandogya II. 23. 1. speaks of brahmacarya for life. 
 
@@ -175,7 +175,7 @@ et 1. p. 27.
 
 
 
-[Ch. VII 
+
 
 zodiacal sign at the time of upanayana ) whioh are not set out here. There are other prohibited astrological conjunctions like Vyatipāta, Vaidhfti &o. For detailed rules on these, works like the Sam. Pr. (pp. 355-385), Nirnayasindhu and Dharmasindhu may be consulted. 
 
@@ -211,7 +211,7 @@ het formaatis compare the quoti. 2. 4 a re free TFTTTT na मममस्मा�
 
 
 
-[ Ch. VII 
+
 
 (IL 5 ) recommends a staff of palaga, bilva and udumbara respectively for the three varnas (or any of these for all ). Kathaka gr. (41.22)recommends palāsa, aśvattha and nyagrodha respectively for the three. Manu (II. 45) presoribes bilva and palaga for brahmana, vata and khadira for kṣatriya, pilu and udumbara for vaibya, and Kulluka adds that two staffs should be used by the boy, as two are recommended in a compound. 
 
@@ -297,7 +297,7 @@ the husband
 
 
 
-[Ch. VII 
+
 
 of interest and divergence may be noted here briefly. It is remarkable that Aśv., Āp. and several other sūtrakāras do not say a word about the sacred thread, while & few like Hir. gr. (I. 2. 6), Bhār. gs. ( 1.3 ) and Mānava gr. ( I. 22. % ) say that the boy already wears the yajśopavita before the homa begins; while Baud. gr.662 (II. 5. 7) says that the boy is given the yajñopavśta and then made to recite the well-known mantra "the Yajñopapita is extremely sacred' and the Vaik, smārta (II. 5 ) says that the teacher gives the upper garment to the boy with 668 the verge paridam vāgah', the sacred thread with the mantra 'Yajñopavitam'and the black antelope skin with the mantra 'the eye of Mitra'. Sudarśana on Āp. gr. 10.5 says that the boy puts on the yajāopavita with the mantra before he takes bis meal ( according to some) or (according to others) before he puts the fuel stick on the fire and relies on Āp, Dk. 8. I. 5. 15. 1 for support. According to Karka and Haribara ( on Pāraskara ) the yajśopavita was given to the student by the teacher after the tying of the girdle. The Samskāratattva p. 934 says the same. Late works like the Samskāraratnamālā (p. 202 ) prescribe the wearing of the sacred thread before the bome. The origin and development of the ideas about yajñopayita will be dealt with separately later on, Ap. gf, (X.5), Baud gs. (II. 5. 7) and Pār. gr. (II. 2) prescribe a dinner to brāhmaṇas before the ceremonies begin and receiving their benedictions. Ap. gr. (X.5), Bhār. gr. (I. 1), Baud gp. 685 (II. 5. 7) say that the boy also is made to take food; socording to later works ( e. g. Samskararatnamālā ) the boy takes his meal in the same dish with his mother (for the last time) and other brahmacārins (eight in number) are also invited at the same time for meals in the 
 
@@ -373,7 +373,7 @@ Yajñopavita 690 :--A few words must be said on the history of yajñopavita from
 
 
 
-[Ch. VII 
+
 
 Khadira gr. I. 1. 8-9, Manu II. 63, Baud. gr. paribhasa sutra II. 2.7 and 10, Vaik. I. 5. The Baud.in gr. paribhasa-sātra II.2.3 says' when it is carried over the neck, both shoulders and the chest and is held with both the thumbs ( of the two hands ) lower than the region of the heart and above the navel, that is nivita ; (when the śruti says it is) for men, what it means is that it is for sages. The occasions when nivita mode is used are: rsi-tarpana, sexual intercourse, samskares of one's children except when boma is to be performed, answering the calls of nature, carrying a corpse and whatever other actions are meant only for men; nivita is what hangs from the neck'. 
 
@@ -411,7 +411,7 @@ H.D. 37
 
 History of Dhamatastra 
 
-[Ch. VII 
+
 
 upavita meant an upper garment and not merely a cord of threads. In another place the same sutra says (II. 8. 19.12 ) *one (who partakes of sraddha dinner) should eat covered with an upper garment slung over tha left shoulder and passing under the right arm'. Haradatta gives two explanations of this, viz. that one should wear an upper garment ( while dining at a sraddha) like a yajliopavita i. e. under the right arm and over the left shoulder, that is, a brāhmana cannot rely on Ap. Dh. S. II. 2. 4.23 and wear at sraddha repast only the sacred thread ( but he must wear the garment in that fashion) and give up the sacred thread for the time. 880 While another view is that he must wear the sacred thread and the upper gar ment both in the fashion of upavita. Ap. Dh. S. (I.2.6. 18-19) proscribes that when a student wears two garments he should wear one of them (i. e. the upper one ) in the yajdopavita mode, but when he wears only one garment then he should wear it round the lower part of the body (and should not cover the upper body with a portion of the garment though it may be long enough for that). Ap. Dh. S. I. 5. 15. 1 presoribes that a man must be yajñopavitin at the time of waiting upon teachers, elders, guests, at the time of homa, in japa (murmuring prayer), at meals and in taking āoamana and at the time of daily vedic study. On this Haradatta says'yajñopavita means a particular mode of wearing the (upper ) garment; if one has no upper garment, then there is another ( but inferior) mode stated in Ap. Dh. S. II. 2. 4.23 and that at other times it is not necessary to have the yajñopavita'. 
 
@@ -595,7 +595,7 @@ afror i sir, y. I. 1. 1..6.
 
 
 
-[ Ch. VII 
+
 
 8. 11 'vanaspate'. A piece of oloth is held between the tree and the performer, then eight auspicious verses are repeated (manga laṣtaka), the cloth is removed and then the hymn oalled Dbruva sūkta (Rg. X. 72. 1-9 ) is repeated. Other mantras (like Rg. X. 62-63 ) are also recited. Then & piece of cloth, yajñopavita, girdle, staff and deer-skin are given with appropriate mantras and lastly after touching the tree, the Gāyatri is repeated. Ia E. O. vol. III. Malavalli No. 22 there is a reference to the upanayana of Aśvattha trees performed by one Bāohappa in 1358 A, D. 
 
@@ -663,7 +663,7 @@ og het afzet n i a neten a un 19. 71. 1.
 
 
 
-[Ch. VII 
+
 
 bhūr-bhuvah edamāta. The word ou ogies of Gayatr 
 
@@ -799,7 +799,7 @@ w uroATERT:H'. merat 57 is very similar to the vorso quoted by the मिता.
 
 
 
-[ Ch. VII 
+
 
 to the teacher all that he has brought and eat only that which the teacher directs him to take; if the teacher is gone on a journey then he should announce it to the teacher's family ( wife, son ); if even these are absent, then to other learned brahmanas and eat with their permission. Vide Āp. Db. S. I. 1. 3. 31-35, Manu II. 51. He should leave no residue in his dish and wash it after taking his meal therein. If he is not able to eat the whole that he has brought he should bury it underground or consign it to water or place that which is more than he can eat near an ārya or give it to a sūdra who works for his teacher (Āp. Dh. S, I. 1. 3. 37-41). Ap. Dh. S. (I, 1. 3. 43-44) says that alms are held to be equal to sacrificial food, the teacher holds the place of the deity and of the ābavaniya fire, 737 
 
@@ -855,7 +855,7 @@ of the sun
 
 
 
-[ Ch. VII 
+
 
 narformed standas san. gr. II. 9. med facing 
 
@@ -893,7 +893,7 @@ A y aata torti पो.ध.. II. 4. 11-14. The verses इमं मे वरु�
 
 
 
-[ Ch. VII 
+
 
 acamana in a sitting posture ( and not standing nor bent) in a pure spot, facing the north or east, one should sip water thriloo with water that is not hot and that is free from foam or bubbles, one should after sipping water wipe the lips twice (thrice according to Āp.)and should touch with the wet right hand one's eyes, ears, nose, heart and head. The water for doamana should be as much as would penetrate (or reach) to the heart in the case of brahmaṇas, to the throat in the case of ksatriyas, to the palate in the case of vaisyas; women and sūdras should sip on occasions of donmana only once as much water as would reach the palate, Manu (II. 18) and Yāj. (I. 18) say that water should be sipped by the brāhmatirtha (i. e, from the root of the thumb).950 The further elaborate rules laid down in such smstis as Gobhila gr. (L 2.5-6), Saṅkhasmrti 10 are not set out here. The occasions for acamana are many. According to Gobbila " gr. I. 1.2 one must do every gṛbys rite with yajñopevita worn in the usual way and after doamana. Haradatta on Ap. Dh. S. I. 5. 15. 1 says that acamana is a subsidiary matter in all religious acts. There are several occasions when the sipping of water twice is necessary, the principal being before and after bhojana ( meals ); vide Gautama I, 40, Vas. 3. 38, Yaj. I. 196, Sm. O. I. p. 100, Madanapārijāta p. 57, Par. M. I. part 1. pp. 241-243. Both the Bṛ. Up. (VI. 1. 14 ) and Chan. Up. V. 2. 2 refer to the praotice of sipping water before and after bhojana and the Vedantasūtra III. 3. 18 is based on these upaniṣad passages and says that water is looked upon as the garment of prāṇa. 758 Numerous occasions when acamana is necessary are stated in Ap. Dh. S. I. 5. 16. 15-16, Manu V. 138 and 145, Yaj. I. 196, Kūrmapurāṇa I. 2. 13. 1-8 &c. 
 
@@ -939,7 +939,7 @@ a rt m orta. II. 4-6, samo is intą X. 9. 1-3. Tho. T. III. 9.7 has
 
 
 
-[Ch. VII 
+
 
 it up the forse over it and standing to Joined hands, repeatindi? 
 
@@ -1069,7 +1069,7 @@ greatness of the ādārya. Manu II. 146 ( = Viṣṇu Dh. 8. 30. 44 ) says that 
 
 
 
-[ Ch. VII 
+
 
 Veda ) as a means of his own livelihood and a guru is one who performs the samgkāras and who maintains the child. This latter definition shows that guru means the father here. Vas. Dh. 8. (III. 22-23), Viṣnu Dh. S. 29. 2, and Yāj. I. 35 define upādhyāya in the same way as Manu. Acoording to Yāj. I. 34 the guru is one who performs the samskāras and imparts the Voda. This corroborates the statement made above that originally the father himself taught the Veda to his son. The word guru is often used in the sense of any elderly person, male or female, who is entitled to respect. Viṣnu Dh.776 . ( 32.1-2 ) asys that the father, the mother and the acārga are the three highest gurus of a person and Manu II. 227-237 contain the most sublime glorification of these three, Davala 777 says that among gurus five deserve special honour, viz. father, mother, acarya, eldest brother and husband ( in the case of women)'. Manu (II. 149 ) says that whoever confers on another the benefit of knowledge, whether great or small, is the latter's guru. 
 
@@ -1273,7 +1273,7 @@ T I SITT. I. 4. 14. 16.336
 
 
 
-[ Ch. VII 
+
 
 one's studies and returning home a man must every day clasp the feet of gurus (father, mother, teacher and other venerable persons ) and of elder brothers 'and sisters according to their seniority, 
 
@@ -1313,7 +1313,7 @@ fa: 1: I TOT I ST9. . I, 2.5, 16-17; vido \#. \#. p. 484
 
 
 
-[ Ch. VII 
+
 
 same effeot. The stretohing of the hands up to the ear &o. indicates how far the head is to be bent in each case. 
 
@@ -1339,7 +1339,7 @@ The rules about returning a salutation (about pratyabhivada) are made somewhat i
 
 
 
-[ Ch. VII 
+
 
 or other person who has been saluted. Among the oldest[^880] is the rule in Āp. Dh. 8. 1. 2. 5. 18 'when returning the salute of one belonging to the first three castes, the (last syllable of the ) name ( of the person whose salutation is to be returned ) shall be lengthened to three moras'. Vasistha's rule (XIII. 46 ) is' when the salute is returned, the last vowel ( of the noun standing) in the vocative is protracted to the length of three moras and if it is a diphthong (i. e. e or o but not of the dual number ) it becomes 'ay' or 'v'.g. 'bho becomes bhāv'. Manu II. 123 prescribes "a brāhmana should be thus saluted in return,'mayst thou be long-lived, O gentle onel' and the vowel *a' or any other vowel at the end of the name (of the person addressed ) should be made plula (i.e. lengthened to three moras) and if the name ends in a consonant, the preceding vowel 
 
@@ -1497,7 +1497,7 @@ Great controversies have raged round the question whether the art of writing was
 
 
 
-[ Ch. VIL 
+
 
 was given up. Then Bühler wrote his famous work on the origin of the Brahmi alphabet' mainly relying on the regem blances of a few letters of the Asokan script with an ancient Semitic alphabet and came to the conolusion that the Brahmi alphabet was derived from a Semitio script sometimes about 800 B.O. It never occurred to that learned scholar to advance and carefully examine the other possible hypotheses which any unbiassed and cautious scholar should have ordinarily advanced viz, that the Semitic script might have been derived from the Brahmi alphabet and was later on developed or both might have been derived from some unknown ancient script. All these theories are now in the melting pot on account of the seals bearing writing in some undeciphered script found at Mohenjo daro and Harappa, some of which are at least 5000 years old. So if the Brāhmi alphabet was at all borrowed, it is clear now that it was not necessary for Indians to travel so far as Westernmost Asia for that purpose. 
 
@@ -1801,7 +1801,7 @@ A few words must now be said about the education of kṣatriyas, vaisyas and kū
 
 
 
-[ Ch. VII 
+
 
 stating several views gives his own opinion that the vidyās for a prince are four ( the same as those of Manu and Yaj. above), that after the caula is performed the prince should learn the alphabet and arithmetio and when upanayana is performed he should learn the four vidyās till he is 16 years old and may then marry (I. 5), that in the first part of the day he should have instruction in elephant riding and horse riding,riding in chariots and in arms and the latter part of the day he should devote to hearing purāṇas, stories, dharmaśāstra and arthasāstra (politics). In the Hathigumpha Inscription (2nd century B. C.) there is a reference to rūpa (currenoy ), gananā (finance and treasury accounts ), lekha (official correspondence ) and vyavahāra (law and judicial administration) as the subjects which Khāravela mastered as heir-apparent from his 15th year to his 24th ( vide E. I. vol.20 p.71 at p. 81, J. R. A. 8. 1918 p. 545, I. H. Q. vol. 14 for 1938 p. 459 ff.). In the Kadambari also Bapa shows that prince Candrāpida did not go to a teacher's house but that a school was built for him outside the capital where he learnt from his 7th to the 16th year. 
 
@@ -1867,7 +1867,7 @@ for ruta FTHEE I. 2. 1-3. 896. RTTTTT Artiga HOFERTE \#. VI. 1. 24; sira पज�
 
 
 
-[ Ch. VII 
+
 
 aotions to be done by the sacrificer (yajamāna ) were to be done only by the husband except where the texts expressly requested the wife to do certain things such as examining the djya or repeat ing certain mantras (VI. 1.24), Jaimini says that the husband and wife were not equal and Sabara explains that the yajamina is a male and is learned, while the patni is a woman and has no vidya. Medhātithio? on Manu II. 49 raises the interesting question why brabmacāring when begging for alms used a Sanskrit formula (bhavati bhikṣām debi) which language ladies do not know. He replies that women can understand that vernacular words which they use being similar to Sanskrit words must be derived from them and that these few well known Sanskrit words they can easily grasp. Besides even in Vedic times there was a tendency as in many other countries to make sarcastio references to women. The Rgveda[^898] VIII. 33. 17 Bays" Even Indra said 'the mind of woman cannot be control led; and also her intellect (or power) is slight'"; in Rs. X. 95. 15 898 there is no truth in the friendship of women ; they have the hearts of hyaenas'. The Sat. Br. XIV. 1.1.3 exhorts a person studying the Madhu-vidyā not to look at 'woman, sūdra, the dog and the black bird that are all untruth'. In Manu IL 213-214, Anusaganaparva chap. 19. 91-94, chap. 38 and 39 there is severe condemnation of woman. Such ideas, and ideas about pollution and the early marriage of girls are probably responsible for the great lack of literacy among women in medieval and modern times. 
 
@@ -1897,7 +1897,7 @@ H. D. 47
 
 
 
-[ Ch. VII 
+
 
 effort was directed towards the conservation of the ancient literature rather than to the creation of fresh literature. In these respects it was similar to the Grammar Schools of England and to the Universities of Oxford and Cambridge as they were till about the middle of the 19th century. The defects of the Indian system were that it was too literary, there was too much memorizing, boys under it had hardly any instruction in useful manual arts and crafts, the studies were not brought in contact with practical life. The discipline was rigorous and joyless. Many of these defects were due to the exigencies of the caste system which assigned particular avocations to particular castes. We cannot and should not compare the system with the systems of education prevalent in the 20th century, when several subjects such as literature, music and the fine arts, bandicrafts, mathematios, science, history and geography are taught in the schools to all boys and when it has been recog nised that education is a prime concern of the State. 
 
@@ -1957,7 +1957,7 @@ f97a7a****TART- a स्पर्शनकोपीनकटिसूत्र-�
 
 
 
-[ Ch. VII 
+
 
 had to undergo heavier penance. The most reprehensible act in a brahmacārin was to have sexual intercourse with a woman, The Tai. Ār. II. 18 speaks of the prayascitta for such a bralımacārin who is called avakirnin. Gaut. 25, 1-2 quotes the Tai. Ār. "they (the sages 1007 say 'in how many ( deities) the avakirṇin enters; (the answer is ) he enters the Maruts with his breath, Indra with his strength, Bșhaspati with his spiritual eminence and fire with the rest (of bis senses )'" and Gautama further provides that he should kindle fire at midnight on a new moon day and then offer two ājya oblations by way of penance with the two mantras "kāmāva-'and" Kāmāyadrugdhosmi' &c., place a fuel stick on fire, sprinkle water round the fire, offer the yajñavāstu oblation (for which see Gobhila gr. I. 8. 26-29) and standing near the fire should worship fire thrice with the versesam mā siñcantu'. Baud. Dh. S. (IV. 2. 10-13) contains the same rules. Jaiminio08 ( VI. 8. 22) prescribes that ordinary (laukika) fire is to be used for the pasu to be saorific od ( viz. ass to Nirpti, which is symbolic of the stupid lapse the student is guilty of ) and Sabara quotes a Vedic passage that'a brahmacārin who has become avakirnin should sacrifice an ass to Nirfti'. Āp. Dh. S. 1. 9. 26. 8, Vas. 23. 1-3, Manu XI. 118-121, Yaj. III. 280 contain similar provisions ( Vasiṣtha allowing in the absence of an ass oblations of boiled rice with the mantras mentioned by Gautama). Manu XI. 122–123 and Viṣnu Dh, S. 28. 49-50 prescribe that the brahmacāri so guilty should for one year wear the skin of the ass, should beg for food at seven bouses announcing to them bis lapse, should take food only once, should bathe thrice and then only he becomes pure. Manu II. 187 ( =Viṣpu Dh. S. 28. 52) prescribes similar pedance for & brahmacārl who without being ill gives up begging for food and offering fuel to fire continuously for seven days. Prāgaścitta is prescribed for loss of yajnops vita or its being torn, or its being polluted by impure tbings 
 
@@ -2027,7 +2027,7 @@ their sacrifices and there is to be no social intercourse with them (i. e. no ma
 
 
 
-[ Ch. VII 
+
 
 performed for forty-eight years from the first prescribed period (viz. 8th year, 11th year or 12th ). The Mit. on Yāj. III. 262 also tries to introduce vyavastha ( order) in the contradictory dicta of the smrtis. According to Gaut. 21. 11, Yāj. III. 234 and others vrātyatā (being patitasāvitrika) is only an upapūtaka and Manu XI. 117 prescribes an easy penance for all upapātakas. 
 
@@ -2067,7 +2067,7 @@ Mr. Justice Telang writes ratber like a judge than like a scholar or
 
 
 
-[ Ch. VII 
+
 
 and the other brāhmaṇas of that time; but these scholars are wrong and Gāgabbatta had bebind him weighty and ancient authorities like Ap., Pāraskara, Viśvarūpa and Haradatta as shown above. 
 
@@ -2093,7 +2093,7 @@ Kalāpagrāma, are endowed with great yogio powers, will revive the ksatriya rac
 
 
 
-[ Ch. VII 
+
 
 four clans of Choban, Parmar (or Paramāra ), Solanki (or Calukya), Padihar (or Pratibāra ). Vide Tod's Rajasthan (Madras ed. of 1873 ) vol. I chap. VII pp. 82 ff.. This theory of the Agnikulas is at least as old as 1000 A. D., since it is referred to in several insoriptions of the 11th century A, D. Vide the Vasa ntagadh Inscription of Paramāra Pūrpapala dated sam. 1099 (1042-43 A. D.) in E. I. vol. IX p. 10 and the insoription of Camupdarāja dated san. 1136 (1079-1080 A. D.) in E. I. vol. XIV. p. 295. 
 
@@ -2187,7 +2187,7 @@ Hinduism has not been an avowedly proselytizing reli gion. In theory it could no
 
 History of Dharmasaslra 
 
-[ Ch. VII 
+
 
 intercourse when they performed the prescribed penances (patitānam tu caritavratānim pratyuddhāraḥ ). But if the sinner refused to undergo the prescribed prayascitta, then a peculiar procedure called gbatasphota (breaking a jar ) was prescribed. In such & case the sinner's relatives ( sapiṇdas) made a slave girl whose face was turned to the south thrust aside with her foot an earthen jar full of water so that all water flowed out of it, then the relatives were to observe mourning for one day and night ( as he was deemed to be dead to them) and from that day they were to stop speaking or sitting with him, and all other social interoourse and he was to be given no inberitance ( vide Manu XI. 183-185, Yaj. III. 294, Gaut. 20, 2-7). In this way the obstinate sinner went out of the Hindu fold. The ancient smrtis do not expressly prescribe any rites for bringing into the brahmanic or Hindu fold a person who or whose ancestors did not belong to it. But as Hinduism has been extremely tolerantl8a (barring a few exceptional instances) it had a wonderful power of quiet and unobtrusive absorption. If & person, though of foreign ancestry, conformed to Hindu social usages in outward behaviour, in course of time his descendants became absorbed into the vast Hindu community, 
 
@@ -2443,7 +2443,7 @@ H. D, 51
 
 
 
-[ Ch. VII 
+
 
 should study the Vedāngas, nyāya (logio ), mimāṁsā and dharmaśāstras on all anadhyayas except on 1st, 8th, 14th and full moon and new moon days. Some digests quote a verse from the Kurmapurana[^958] that there is no anadhyāya for the study of Vedāngas, of itibāsa, purānas, dharmaśāstras and other sāstras ; but on parva days the study of even these should be dropped. This shows that these tithis were the only close holidays on which there was complete cessation of all study, whether Vedic or non-Vedic, That is, these were what are called nitya holidays while the rest are naimittika anadhyāyas. Even now these nitya anadhyāyas are observed by vaidikas and by Pandits in their Sanskrit schools ( particularly amāvāsyā). 
 
@@ -2519,7 +2519,7 @@ Snāna or Samāvartana :-( Taking the ceremonial bath after finishing Vedic stud
 
 
 
-[ Ch. VII 
+
 
 in the ceremonial bath. If it be said that the gerundial termination (tva in snātvā in Manu III. 4 ) conveys distinotion between spāna and samāvartana, the reply is that Manu will later on speak of samāvartana as the samskāra of snāna. 
 
@@ -2593,7 +2593,7 @@ should prepare them only for the teacher. He should prooure & fuel-stick from th
 
 
 
-[ Ch. VII 
+
 
 words 'heaven's covering art thou he takes the umbrella. He takes the bamboo staff with the words 'bamboo art thou, thou art the child of a tree, proteot me from all sides.' Having tied round his neck the jewelo88 with the hymn beginning with 'dyusyam °,984 and having arranged the turban ( on his head ) he should in a standing posture put a fuel-stiok (on the fire), and should say at that time * memory and reproach, knowledge, faith, wisdom as the fifth, what is sacrificed, what is given (&s gift), what is studied and what is done, truth, learning, observances. O Agni, the vow (of thee) together with Indra, with Prajāpati, with the Bages, with the gages that are ksatriyas, with the Fathers, with the kings among Fathers, with men and with the kings among men, with the glow, with the super-glow, with the after-glow, with the counter-glow, with gods and men, with Gandharvas and Apsarases, with wild and domestio snimals, the yow be longing to my own self, dwelling in my own self, that is my entire vow. O Agnil I shall on all sides become this vow, svāhā'. With the hymn 'mine, O Agni, be the glory' (Rg. X. 128. 1) he should put fuel-sticks on fire one for each verse. 984 He should stay for the night at a place where the people will do honour to him (by offering Madhuparka )'. Madhuparka will be dealt with under marriage. 
 
@@ -2621,7 +2621,7 @@ Numerous rules are laid down in the smrtis and digests about anatakas (@natakadh
 
 
 
-[ Ch. VII 
+
 
 (III. 9. 6-7) which has the shortest treatment and adding a few interesting items from other works. Aśv. gr. (III. 9. 6–7) says 'He (the snātaka ) should not bathe at night, nor bathe naked, nor lie down naked, he should not look at a naked woman except during intercourse, ho shall not run when it rains, he should not climb up a tree, nor descond into a well, should not cross a river (by swimming) with his arms, he should not expose himself to a danger. A great being indeed is a snātaka--so it is known (from the śruti). Ap. Dh. S. (I. 11. 30. 6-1 11. 32. 29), Vas. XII. 1-47, Gaut. IX, Yaj. I. 129-166, Manu IV. 13ff, Viṣnu Dh. S. 71, Pār. gr. II. 1 contain an exhaus tive treatment of snātaka vratas. Some of these are concerned with the rules about anadhyāyas, about answering calls of nature, about persons whose food should not be taken, about sexual intercourse, about acamana, about daily observances like the five mabāyajñas, about upākarma and utsarjana. These have been or will be dealt with in the appropriate places. A few of the other important rules of conduct are: a snataka should always be pure (in body), should daily bathe and should apply fragrant unguents (like sandal-wood paste) to his body, should be always patient, persistent in his under takings, self-restrained, generous and not disposed to cause injury to others (Gaut. 9.7 and 73 ); he should speak the truth and also speak what is agreeable, but should not tell disagree able truths, nor should he tell agreeable lies (Manu IV. 138 and Gaut. IX, 68 ); he should according to his ability try to make his day fruitful as regards the performance of meritorious acts, satisfaction of (legitimate ) desires and acquisition of wealth, but he should look upon dharma as the principal of the three puruṣārthas (Gaut. IX. 46-47, Manu 1V. 176, Yaj. I. 156 ), though he should avoid even what is allowed by the sās. tras if it is bateful to the people; he should not beg (for his liveli hood) of anybody except the king or bis pupils, but when oppres sed by hunger he may beg a little such as a cultivated or uncul tivated field, & cow, goats and sheep, or gold, corn, food (Vas. XII. 2-3, Gaut. IX, 63-64, Manu IV. 33-34, Yāj. I. 130); but he should not beg of a king who is not of ksatriya descent or who sets at naught the dictates of the sāstras (Manu IV. 84, 87) nor should he stay in the kingdom of a sūdra king (Manu IV. 61); he should not talk with the mlecchas, impure persons and irreligious persons (Gaut. IX. 17 ); he should not dwell in contact with sinners, cāndalas and other untouchables, with fools or persons puffed up with the pride of wealth &o. (Manu IV, 79); he should 
 

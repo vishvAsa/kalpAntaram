@@ -131,7 +131,7 @@ TTOR III. 69; Raud VATATU \#aforgian FERUIT Demgegurta 11 Terror quoted in fire.
 
 
 
-[ Ch. XXII 
+
 
 of prāna preceded by the word "om' and 1889 followed by 
 
@@ -167,7 +167,7 @@ X. 5. 2.9.
 
 
 
-[ Ch. XXII 
+
 
 Smrtyarthasāra (p. 69 ) says that one can eat in the same dish with one's wife at the time of marriage. The Mit. on Yāj. I. 131 says the same. 
 
@@ -235,7 +235,7 @@ I, D. 97
 
 
 
-[ Ch. XXII 
+
 
 Most of the above rules may more or less be exemplified from the descriptions of the procedure of eating set out in Baud. Dh. $. II. 7, from the Bbojanasūtra of Katyāyana for the followers of the white Yajurveda, from Hārita quoted in the Gr. R. Pp. 316-17 among the ancient writers and froin the Smstya. rthasāra pp. 68-69 among the authors of digests. It is impossi ble to get out any of them here for want of space, but an extract from the last work is given in the Appendix. 1848 
 
@@ -419,7 +419,7 @@ Gaut. 17. 29 and 34-35, Ap. Dh. S. I. 5. 17. 32-34, Vas. Dh. 8. 14. 48, Viṣnu 
 
 
 
-[Ch. XXII 
+
 
 constructed the fire altar (agnicit) should not eat the flesh of birds till the sacrifice he has embarked on is finished. 
 
@@ -527,7 +527,7 @@ e ( without qualifications ); vide gourmato 15. 80 alao.788
 
 
 
-[ Ch. XXII 
+
 
 son of a punarbhū, & worker in hides, & potter, a spy, one who becomes an ascetio without following the rules laid down for that asrama, a lunatio, one who has sat down at his debtor's house in dharna. Manu IV. 222 prescribes a fast for three days if a brahmana partakes of the food of these unknowingly, but the kycchra ( Prajapatya ) for knowingly doing so. Baud. Dh. 8. II. 3. 10 prescribes the japa of Rg. IX. 58 (tarat sa mandi ) for eating the food of one from whom it should not have been taken. Manu XI. 253 and Visṇu Dh. S. 56. 6 do the same. 
 
@@ -729,7 +729,7 @@ The Visnupurana III. 11. 94 remarks that after taking the mid-day meal one may d
 
 
 
-[ Ch. XXII 
+
 
 is said in the Harṣacarita (III) to have listened after the midday meal to the recitation of the Vayupurāṇa by the reader Sudrsti. Yaj. ( I. 113-114) directs that the rest of the day (till evening) should be spent in the company of śistas (learned and respecta ble people) and of dear relatives and then having performed the evening prayer and offered oblations into the three sacred fires (if he has kept the three Vedic fires) or into gļhya fire, the householder sbould feed guests if they come at night, then he should take his evening meal surrounded by (bis children) and servants, should not eat too much in the evening and then go to sleep. Daksa ( II. 70-71 ) says that after evening he should perform homa, then take his meal, do other household work, then repeat some part of his Veda and sleep for two watches (six hours) and he should devote some time in the first and last watches of the night to reciting the Veda already learnt. 
 
@@ -811,7 +811,7 @@ So far we have desoribed the daily duties of common men, particularly of brāhma
 
 
 
-[Ch. XXII 
+
 
 bathe 8 secret 
 

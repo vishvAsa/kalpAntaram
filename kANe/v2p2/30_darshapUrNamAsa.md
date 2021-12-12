@@ -141,7 +141,7 @@ eme al bend apavoreishtvid1016
 
 
 
-[ Ch. IXX 
+
 
 two pavitras (strainers, purifiers) of two darbbas that are alike in appearance and colour, a span in length, the tips of which are not out, but which are out from their stems with a knife or slokle by having a blade of grass or wood placed over them (but not with the nails ) with & mantra 'pavitre etho ' (Tai, Br. III. 7, 4 ) and are invoked with a mantra (prāpapānau &o.). The adhvaryu wipes them with water upwards (from the bottom ) with the mantra you two are holy by the mind of Viṣnu'. Jai, III. 8. 32 (and also Sabara thereon ) says that the two pavitras and the vidhitis ( described later on) are not taken from the out barhis, but from the kusa grass oalled pari bhojaniya. The adhvaryu loudly announces 'purify the cow, the ropes and all the utensils :1290 The adhvaryu places the two pavitras inside the agnihotra-havani, pours water therein, puri fies the water by moving the pavitras eastward and then baok wards and raising them up thrice with their tips to the north by repeating the mantra in the gāyatri metre 'devo vaḥ savitot punëtu'(Tai. 8. I. 1.5.1) onoe,8391 there being a rest at the end of each pada ( and twice silently). He invokes the water with * &po devir-sgropuv....(Tal. I. 1. 5.1, Vāj. S.I.12-13), then turns the mouths of the vessels upwards and sprinkles them thrice with the water ( leaving no water in the agnihotrabayani ) and with 'may you purify for this divine rite, for the worship of gode' (Tai. 8. I. 1.3.1). He keeps the two pavitras in & well known place. He waits for the cows coming from the pasture with a mantra' eta doaranti' (Tai. Br. III. 7. 4).9798 The adhvaryu takes the upavega with thou art dhpsti, impart brabma' (Tai. 8. I. 1.7.1), takes out with the upaveṣa burning coals from the gārhapatya to its north. He places the ukba on those coals and kindles burning coals round it with 'may you become hot with the tapas of Bhrgus and Angirases' (Tai, S. 1 1.7.2). Then he issues a direction to the milker of the cow " announce 
 
@@ -203,7 +203,7 @@ On the principal day (i. e, the first day of the dark half in the case of pörpa
 
 
 
-[ Ch. XXX 
+
 
 He washes his hands with water with the mantra “May I be able to carry out this rite meant for you two and for gods" (Tai, 8. I. 1. 4. 1). From the place of the gārhapatya fire to the havaniya he spreads a line of dry kusa grass continuously with their tips to the east (without leaving any space uncovered) with the mantra 'thou art the continuity of the sacrifice, I spread thee for the continuity of sacrifice, thee for the conti nuity of the sacrifice' (Tai. Br. III. 2.4) and then spreads another line of kuras to the south and another to the north of this first line silently. To the south of the āhavaniya, seats of kusa grass are made ready for the brahmā priest and the saori ficer, that of the brahma being to the east of the seat of the sacrificer and directly to the south of the ābavaniya and of the sacrificer to the south of the south corner of the east side of the vedi. To the north of gārhapatya kuśas are strown with their tips to the east or north and on them the sacrificial implements (yajñapātras ) are placed in twos after being washed with water and with their mouths turned down, viz., the sphya and kapālas &o. (vide above note 2233 for the ten). This is called pātrāsādana (placing the utensils near ) 4388 
 
@@ -399,7 +399,7 @@ TUTTO
 
 
 
-[Ch. XXX 
+
 
 In modern times many agnihotrins do not generally employ eight or eleven potsherds but employ one earthen brick ( that would have the shape of the kapalas when placed together ), on which lines are scratched to indicate the number of kapālas. Then taking coils from the gārhapatya he spreads the coals on the potsherds (whether 8, 11 or more or less ) with the veda bunch repeating for each potsherd' may you be heated by the tapas of Bbṛgus and Abgirases.' 
 
@@ -571,7 +571,7 @@ I. D. 181
 
 
 
-[ Ch. XXX 
+
 
 fire with to thee for sap', takes it down (from the coals ) with 'to thee for strength, holds it over the yeda bunch and hands both the pot and the veda bunch to the wife. She first closes her eyes and then holding her breath (opens her eyes and) looks down on the clarified butter with 'thou art the milk of cows; the fluid of herbs, I look on thes for securing good progeny with an invincible eye'(Tai. 8. I. 1. 10. 3). The agnidhra places the djyasthāll on the northern portion of the gārbapatya fire and melts it with thou art light'; he takes it from the fire with 'to thee for light' and carries it to the south of the dhavaniya with 'follow after light'. He melts it on that fire with 'may Agni not remove thy light'. He takes up the pot and returns by the way he went and places it with a mantra 'thou art the tongue of Agni' (Tai, S. 1 1. 10. 3) to the north of the prokṣapi waters on the line drawn with the sphya, 
 
@@ -771,7 +771,7 @@ them fritat ... ... TANTO:' vide Ap. II. 16, 6 and 11, Sat, II. 1. pp. 187-188.1
 
 
 
-[Ch. XXX 
+
 
 hots (Adit and with ate 
 
@@ -873,7 +873,7 @@ E gertior fugir दैवतेयः सौविकृतानि सौव�
 
 
 
-[ Ch. XXX 
+
 
 agpirmūrdha...jinvato3m). Then there is asrāvana and praty. Grāvana. Then the adhvaryu issues his direction to the hotṛ to recite the yajya which is Rs. X. 8. 6 ( yes yajāma. hesgnim bhuvo......havyavāho3m vau3ṣat ). Then the adhva ryu throws the oblation (Ahuti ) of purodada portions on to the fire. The method of this is 1978 that he drops a part of the Ajya from the sruo first (that was sprinkled in it at upastarana and abhigh.rana ), then the two purodaśa portions are thrown and lastly he allows the remaining ajya from the bill-like mouth of the sruo to flow over the purodāsa offerings as if covering them but without disturbing them. The principal āhutis are introduced at the point of the confluence of the two āghāras and each one is offered in the Ahavaniya to the east (or north-east) of the preceding one but in contact with the latter. The yajamāna makes the tyāga 'this is for Agai' with 'may I have food to eat on account of this worship of Agni.' After this offering of purodaśa to Agni, there is an upāmsuyāja (a silent sacrifice ) with clarified butter offered to Prajāpati or to Agniṣomau or Viṣnu. When offered to Prajapati the anuvākya and yajyā are Rg. X. 121. 10 and Tai, Br. II. 8. 1 *377 (taveme loka &c.) and when offered to Agniṣomau they are Rg. I. 93.2 and 6. According to Āp. I. 19.12 and Jai. X. 8. 51-61 it is offered only on Paurṇamāsl. In this, the reference to the deity is always inaudible, but even here the asruta, the pratyāśruta, and two directions for reciting anuvakya and yājpā and the vaṣatkāra are uttered loudly. The sacri ficer says in this upāmṇuy&ja 'thou art a destroyer; may I be uninjured and may I subdue evil. The offering is made of the ajya in the dhruva (Jai. X. 8. 47-48) and the devata is either Prajapati or Agni or Viṣnu (Jai. X. 8. 49-50 ) and the offering is caturavatta (Jai. X. 8. 33-34). The second purodāsa is offered to Agni and Soma on pūrṇamāsa in the same way, the anuvākyā and yajya being respectively Rs. I. 93. 9 and 5 and to Indrāgni in darsesti, the anuvāky: and yājyā being Rg. VIL 94.7 and VIL 93. 4. This is the case when the sacrificer 
 
@@ -1069,7 +1069,7 @@ a.D. 135
 
 
 
-[ Ch. XXX 
+
 
 drops of Maruts ; go to heaven and send thence rain to us' (Tai. 8. I. 1. 13. 1)." Jaimini makes it clear (VI. 4. 43-47 ) tbat sakbā is not a subordinate complement of the prastara but the real meaning of the text'he throws the prastara with the bakba' is to indicate the time when the sakha is to be thrown into fire. Jaimini (IV. 2. 10-13 ) states that the throwing of the gakba into fire is pratipattikarma ( i.e. that is the final disposal of the sākha ). When throwing the prastara he does not bend his hand but holds it rather straight and hanging downwards and the tips of the prastars are not put beyond the fire nor are they turned upwards, nor are the tips allowed to be first acorohed. He raises it up, brings it slowly down and rolls it on the hearth of the ahavaniya (making the upper portion come down and vice versa). The adhvaryu, when the hotf says 'this sacrificer seeks ( hopes for ) blessings' directs the agnidhra to consign the prastara to fire. The āgnidbra tbrice raises with bis joined hands the prastara into the &bavaniya fire. The sacrificer makes the tyāga to the several deities mentioned in the sūktavāka (agnaya idam, somāyedam &o.) and adds (Tai. S. I. 6. 4. 1)'may I win victory following the victory of Agni' (then of Soma and so on for the other deities ). 1400 When the bots mentions the name of the sacrificer the latter recites "these blessings have come here' (Tai, 8. 1. 6. 4.% and Ap. IV. 12. 5). The adhvaryu directe the agnidhra to throw into fire on the prastara the blade of kuga taken from the prastara and kept aside ( as described above p. 107) and tbe āgnidbra 3401 does so with 'Good speed to the tanūs, svaha'. The yajamāna mutters 'this for the Tanūs' and proceeds 'This pillar spread down from beaven and was raised over the earth. With it that has a thousand shoots we worry our enemy etc. (Tai. Br. III. 7. 6 and Ap. IV. 12. 8). The adhvaryu points out thrice with his forefinger the blade thrown into, fire with this, this' and touches his nose and eyes with * Agnil thou art the protector of life, protect my life, thou art the protector of eyes' (Tai. 8. I. 1. 13.2). Then the adhvaryu touobes the earth inside the vedi with thou art stable'( idid). 
 
@@ -1259,7 +1259,7 @@ The yajamāna gets up from his seat and takes what are called the strides of Vi�
 
 
 
-[ Ch. XXX 
+
 
 more ground than each preceding one. He first reoites four mantras 'thou art the stride of Viṣṇu &o.' (Tai. 8. I. 6. 5. 2 ) when taking the strides. Then he mutters & long prayer to the Sun 'O Light of Mitra rising to-day &c.' (Tai, Br. III. 7.6 and Tal. S. 1. 6. 6.1, quoted in Ap. IV. 15.1 and I. 16. 1). He contemplates the destruction of his enemy with the words. Here do I exclude from a share my enemy the evil.doer &o.' He revolves round himself from left to right with 'I turn the turning of Indra'( Tai, 8. I. 6. 6. 2) and goes round the abavaniya with 'Let me bave suspioious riches and may evil riches remain away from me' (Ap. IV. 15.4). He bends over the dhavaniya with 'thou art light' (Tai. 8. I. 1.10.3), pays homage to it with May I be united with my children and may my children be united with me &c.' (Tai, S. I. 6. 6. 2, Ap. IV, 15. 4). He puts the fire into flames 'O fire, being kindled, shine for me &o.' (Tai. S. I. 6. 6. 2, Ap. IV. 16. 5). He prays to the abavaniya with 'The sacrifice is endowed with riches, may I be endowed with riches &o.' (Tai. 8. 1. 6.6.2, Ap. IV. 15. 5.). He prays to the dakṣiṇa fire 'O fire, cook food pleasantly eaten for our progeny' (Ap. IV. 16. 5). He prays to the gārbapatya fire with the two verses to Agni Pavamāna (Rg. IX. 66. 19-20, Tai. S. I. 6.6.2), and with 'O Agni Gphapatil I am a good house-holder &o.' (Tai. 8. I. 6.6.3). If he has no son he prays 1436 "I pray for that blessing full of spiritual lustre for my son ( to be )' and if he has & son ho prays 'I pray for my son 8o and so that blessing &c.'( Tai. S. I. 6. 6. 3). He sits between the two fires inside the vedi with 'to thee (unborn or born son as the case may be) who art light &c.' (Ap. IV. 16.6). He places on his lap the blades of the veda (that had been unloosened) and sitting inside the vedi mutters the Ati moksa mantras 'May Agni guard me against those gods that strike the sacrifice &o.' (Tai. S. III. 5. 4. 1-% indicated in Ap. IV. 14. 10). 
 

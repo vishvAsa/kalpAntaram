@@ -73,7 +73,7 @@ H. D. 69546
 
 
 
-[ Ch. X 
+
 
 offered. When even flesh-eating came to be abhorred, then only pāyasa and such other things were recommended. The Adiparva ( 60. 13-14) refers to Janamejaya's reception of Vyāsn with madhuparka and Vyasa's letting the cow looge. This abhorrence of flesh-eating will be dealt with later on. In modern times there is generally no madhuparka except in marriage and then too it is a simple matter and the elaborate procedure presoribed in some of the gļhya sūtras is hardly ever followed. 
 
@@ -105,7 +105,7 @@ trū forro gauta I ATAT ...malet var fariqat ister Tag eUTI,
 
 
 
-[ Ch. Å 
+
 
 Yāj. IIT. 265 quotes Hārita-dharmagūtra on this topic to the same effect. Medhātithi on Manu III. 171 refers to the view of some that if a son kindles the sacred fire before his father, the same rule applies as between brothers and then refutes that view. Aparārka p. 446 quotes Uśanas that & person may kindle sacred fires even before his father or grandfather with the latter's consent. The Trikāṇdamaṇdana ( I. 76-77 ) says that there is no sin in taking agnihotra and performing a sacrifice before an elder brother and the incurring of sin is only restricted to marriage, while the Smrtyarthasāra (p. 13 ) holds the opposite view that one should not kindle the Vedic fires before one's father even with the latter's consent. The Viṣnu Dh. S. ( 37. 15-17 ) enumerates parivedana among upapātakas. Gaut. ( 18. 18-19 ) prescribes that if an elder brother has gone to a foreign country his younger brother must wait twelve years before he takes a wife or kindles sacred fires or six years according to some. 1287 There is a similar text of Vas. quoted by Apararka p. 445. 
 

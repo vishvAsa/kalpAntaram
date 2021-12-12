@@ -125,7 +125,7 @@ ETTER I 17. 9. & II. 3. 68, 21-22: 47:' occurs in d. 7. 83. 1 and i FTTAWAGTATE:
 
 
 
-[ Ch. XXI 
+
 
 a back from the such veyana 
 
