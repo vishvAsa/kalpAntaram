@@ -1157,7 +1157,7 @@ Upanayana and duty to teach Veda
 
 329 
 
-therefore derisively called 'tirthakaka ( crows at a saored place ),' as the Mahabhaṣya states.[^784] 
+therefore derisively called 'tirthakaka ( crows at a sacred place ),' as the Mahabhaṣya states.[^784] 
 
 As the study of the Veda was & duty enjoined upon a brahmana, so teaching Veda to another was a duty. Medhātithi on Manu (II. 113 ) quotes & Vedic text 7** 'He who having studied the Veda would not teach one who requests him to do so would be one who destroys his own good aots (i.e. would lose the benefit thereof), would shut the door leading to happiness; therefore he should teach; it leads to great glory'. When Satyakāma Jābāla did not teach his pupil Upakosala anything for twelve years, though the latter served asaiduously by attending to the sacred fires of the teacher, the teacher's wife remonstrated with the busband by saying this student bas worked hard and attended the fires, may the fires not congure you and order you to teach him the vidyā he desires' (Cbān, Up. IV. 10. 1-2). The Praśna Up. 798 VI, 1 gives expression to the view that if a teacher keeps back anything he knows he dries up entirely. The Āp. Dh. S. I. 4. 14. 2-3 expressly prescribes the teacher whom a student asks for instruction should not refuse him, if he finds no defect in the student.' 787 Ap. Dh, s. (I. 2. 8. 25-28 ) lays down certain excellent rules for the teacher "the teacher, anxious for the welfare of the student as if he were his son, should atten tively impart learning to the student without hiding anything from him in all matters of duty; nor should the teacher restrain the student for his own work in such a way as to cause obstacles in his study except in seasons of distress. A teacher becomes no teacher if he avoids giving instruction' (1. e, he may be abandoned ). The Dronaparva (50.21 ) says that a pupil oomes only after the son socording to the idea of those 
 
@@ -1177,7 +1177,7 @@ History of Dharmalasira
 
 ( Ch. VII 
 
-who know dharma. If a teacher does not teach & pupil any thing even after his pupil has stayed with him for a year, the former receives all the sins of the pupil. A teacher 798 who did not teach or was sinful was to be abandoned. Similarly & teacher, who becamo puffed up, did not care for what should or should not be done and took to & sinful path was to be abandoned.*9 Ap. I. 1. 1. 13 lays down that a student must stay with his teacher who performs his upanayana till he completes his study, unless the teacher himself swerved from the path of dharma and became a sinner and (I. %. 7. 26 ) that if the teacher cannot teach the subject, the pupil may resort to another teacher. 
+who know dharma. If a teacher does not teach & pupil any thing even after his pupil has stayed with him for a year, the former receives all the sins of the pupil. A teacher [^798] who did not teach or was sinful was to be abandoned. Similarly a teacher, who became puffed up, did not care for what should or should not be done and took to a sinful path was to be abandoned.*9 Ap. I. 1. 1. 13 lays down that a student must stay with his teacher who performs his upanayana till he completes his study, unless the teacher himself swerved from the path of dharma and became a sinner and (I. %. 7. 26 ) that if the teacher cannot teach the subject, the pupil may resort to another teacher. 
 
 The smrtis lay down rules about the qualifications of a student who deserves to be taught. In the Vidyāsūkta quoted in the Nirukta 80(II. 4) we see that the teacher was not to impart vidya (knowledge) to one who was jealous (or who treated vidya with contempt), was crooked and was not self-restrained and that learning was to be imparted to one who was pure, attentive, intelligent and endowed with brahmacarya ( celibacy ), who would never prove false ( to his teacher) and who would guard what he learnt as a treasure. Manu (II. 109 and 112 also ) says that ten persons deserve to be taught viz. the son of the teacher, a student who serves his guru, one who gives some knowledge in exchange, one who knows dharma or who is pure (in body and mind), who is truthful, who is able to study and retain it, who gives money (for teaching ), who is well-disposed and who is one's near relative (agnate). Yāj. 1. 28 mentions all these and adds that the student must be grateful, not inolined to hate or prove false to the teacher, healthy and not disposed to find fault. The student should always be dependent 
 
@@ -1459,7 +1459,7 @@ qua raia mea ag 7787106 ART 13. 3. 24. forg was the name of the sage.
 
 1 Oh. VII 
 
-(13. 3. 24). Manu II. 155 clinches the argument by saying 'the seniority of brahmaṇas springs from (saored ) knowledge, of kpatriyas from valour, of vaisyas from (the possession) of corn and other wealth and only among sūdras is age a ground of seniority'... 
+(13. 3. 24). Manu II. 155 clinches the argument by saying 'the seniority of brahmaṇas springs from (sacred ) knowledge, of kpatriyas from valour, of vaisyas from (the possession) of corn and other wealth and only among sūdras is age a ground of seniority'... 
 
 Kaut. says that men deserve honour according to their learning, intelligence, valour, high birth and eminent deeds.[^835] 
 
