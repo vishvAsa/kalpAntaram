@@ -43,7 +43,7 @@ ___38. व्रतमुपैयन् बयादने व्रतपत�
 
 
 
-(Sec. I, Ch. I 
+
 
 for vrata does not extend beyond a year'. The śānkbayana 42 Br. VI. 6 prescribes 'He has to observe the vrata, viz. that he should not see the rising sun nor the setting sun'. The Tai. Ā. I. 26.6 states "this is the vrata for him (for him who has per formed Āruṇaketuka-cayana), viz. he should not run while it is raining, should not urinate or void ordure in water, should not spit, should not bathe naked, should not step over lotus leaves or gold, should not eat (the flesh) of a tortoise'. 
 
@@ -117,7 +117,7 @@ ____52 पाणिग्रहणादधि गृहमेधिनोर्
 
 
 
-(Sec. I, Ch. II 
+
 
 the secondary applications of the word vrata, its principal meaning from at least the first centuries of the Christian era onwards has been that of a religious undertaking or yow, observed on a certain tithi, week day, month or other period, for securing some desired object by the worship of a deity, usually accompanied by restrictions as to food and behaviour. This is the sense in which the word vrata will be used in this section. Vratas may be expiatory (i. e. they will be prāyaścittas) or obligatory (such as the vratas of a brahmacārin or snātaka or householder) or they may be voluntary and self-imposed for securing some specific end. Expiatory vratas have already been dealt with in the 4th volume of the H. of Dh. under Prāyaścittas. The vratas of a brahmacārin, of snātaka and of the householder have been treated of in volume II of the H. of Dh. Vratas or vows that are more or less self-imposed will be discussed in this section of the 5th volume. 
 
@@ -143,7 +143,7 @@ ___57. सङ्कल्पमूलः कामो वै यज्ञाः 
 
 
 
-(Sec. I, Ch. II 
+
 
 much physical hardship but no yrata. The Krtyaratnākara 61 mentions several definitions of vrata given by its predecessors, one of which by Deveśvara was that 'a vrata is that which is included in the vratakānda'. This last is a desperate effort at definition and leaves the inquirer hardly wiser than before. That sankalpa is closely connected with vrata cannot be gainsaid and follows from a verse of Laghu-Viṣnu 62 'the choosing of stviks is the starting point of a sacrifice, sankalpa that of vrata and of a japa of mantras (in honour of a deity)'. Sūlapāṇi defined vrata on almost the same lines as Sridatta. Laksmi dhara in his Krtyakalpataru on vrata does not define vrata but begins his treatment of vrata with vratapraśamsā. Prof. K. V. Rangaswami Aiyangar in his Introduction to the Vratakāṇda of the Krtyakalpataru remarks (p. XXIII) 'Raghu nandana in his Vrata-tattva also avoids any attempt to define vrata'. Prof. Aiyangar did not notice that Raghunandana discusses the question of the definition of vrata in his Ekādasi tattva (Jiv. vol. II. p. 7) and therefore he did not repeat the definition in the Vratatattva. Raghunandana mentiong63 the definitions of vrata given by Nārāyana and Sridatta, does not agree that vrata is a sankalpa but holds that vrata means various rites about which a resolve is made and also that yrata is a niyama (a restrictive rule ) enjoined by the śāstra, charac terised by uparūsa and the like and not every niyama such as *stukālābhigāmi syāt' (Yāj. I. 79, Manu III. 45). The Vrata prakāśa (a part of Viramitrodaya) defines vrata as 'a special sankalpa concerning what is well known to the learned as vrata,' just as mantras are those that are well-known among the learned as mantras.64 The Dharmasindhu (p. 9) defines vrata as a kind 
 
@@ -215,7 +215,7 @@ fora. I. p. 198, uraas. (H ) p. 383. 3. D, 5
 
 
 
-(Sec. I, Ch. II 
+
 
 phala and other digests. Certain matters connected with devapūjā such as the questions whether images of gods were worshipped in the times of the Rgveda and the Samhitās, whether the worship of images arose spontaneously among the Vedic Aryans or whether it was derived from some other race or sectarians or from sūdras and Dravidian tribes, have already been dealt with at some length in H. of Dh. vol. II. pp. 705-712. Similarly, descriptions of devapūjā and the several items and stages in the procedure of devapūjā have been set out in H. of Dh. vol. II. pp. 726--735. A few matters either not set out there at all or briefly set out may be spoken of here. It should be noted that ordinarily there are 16 upacārasn (items of showing honour) in the procedure of devapūjā, but they may be increased to 36 or 38 or reduced to 14, 12, 10 or 5 and there is no complete unanimity on the question of the names of the 16 upacaras and their order. The Brahmavaivartapurāṇa sets out what the sixteen, twelve and five upacāras are. The Vratarka quotes Ferses enumerating 38, 16, 10 or 5 upacāras. If a person is unable to offer even five upacāras then he should offer two, viz. sandalwood paste and flowers and if he cannot do even that, then he may offer only devotion. So says the Kalikapurana quoted in Varsakriya-kaumudi p. 157. From Sabara's bhāṣya on Jai. V. 1. 4 it follows that long before his day (not later than 4th century A. D.) the order (krama) of the upacāras had been settled.78 Medieval works like the Vratāska (folio 23 b ff) and V. K. K. pp. 200-201 
 
@@ -237,7 +237,7 @@ phala and other digests. Certain matters connected with devapūjā such as the q
 
 
 
-(Sec. I, Ch. II 
+
 
 included. The Nirukta in explaining the word 'supāṇiḥ' occurring in Rg. III. 33. 6 states that the word 'pāṇi' is 82 derived from 'paṇ' to offer pūjā and supports this derivation by saying that people worship gods by joining together their hands. It is clear that the Nighanṭu treated 'pūjayati' as a verb occurring in the Vedas and that folding the hands (i. e. namaskāra) was a item of worship long before the Nirukta. While explaining the word 'saparyan' occurring in Rg. III. 31. 1 the Nirukta offers 'pūjayan' as a synonym. From Pāṇini 83 V. 3. 99 and the Mahābhāsya thereon it is clearly seen that in the days of the former images of gods were made for sale and also for worship. Patañjali expressly says that the rule applies to images which were worshipped and which gave livelihood to the Pujaris of those images and not to images made for sale. Vide also Mahābhāsya on Pāṇini I. 1. 25. The Āśv. Gr. 84 provides that when madhu parka is to be offered to a styik, an ācārya, a bride groom, a king or a snātaka or a relative (like father-in-law, paternal or maternal uncle), a seat, water for washing the feet, argbya water, water for ācamana, honey mixture, a cow are to be announced to the guest three times in each case. In another place, the same sūtra 85 speaks of the presentation of sandal-wood paste, flowers, incense, lamp and garment to the brāhmaṇas invited at a śrāddha. In these two passages alone nine of the 16 upacāras are mentioned. The word pūjā took on a secondary meaning, viz. (honour without use of gandha, puspa &c.) even in the times of Dharmasūtrās (vide Ap. Dh. S. I. 4. 14. 9, 'nityā ca pūjā yathopadeśam'). Yāj. (I. 229 ff) mentions in srāddha āvāhana, arghya, gandha, mālya, dhūpa, dipa &c. When the worship of images became common, the 
 
@@ -351,7 +351,7 @@ The Purāṇas extol, as in the case of pilgrimages, the performance of vratas t
 
 
 
-(Sec. I, Ch. II 
+
 
 and niyamas. In the Mahābhārata108 ( and the Padmapurāṇa VI. 53. 4-6) it is stated that the Vedic rites and rites prescribed by Manu cannot be performed in Kaliyuga and that therefore it declares to Yudhisthira something that would be an easy remedy, requiring little wealth and causing little trouble but securing great rewards and that would be the essence of Purāṇas, viz. one should not eat on the Ekādasi of both fortnights; he who does not eat food on Ekadasi does not go to hell. About the Ubhaya dvādaśīvrata described in the Bhavisyapurāṇa it is said that Prabhāsa,109 Gaya, Puskara, Varanasi, Prayaga or holy places to the east or west thereof, or to the north are not superior or equal to the Kartika vrata. The Anusasana-parva110 proclaims that there is no higher tapas than upavāsa (fasting) or even equal to it and that poor men can secure the rewards of sacrifices by resorting to the upayāsa described. Hemādri quotes two verses on Arkavrata from the Bhavisyapurāṇa stating that if a man observes for a year nakta on the 6th and 7th tithis in each fort night he obtains the merit secured by those who perform the Vedic sacrifices called sattras or who observe the vow of speaking the truth. 
 
@@ -377,7 +377,7 @@ There were vratas for the brahmaçõrin (called Veda-vratas ) and for the spāta
 
 
 
-(Sec. I, Ch. II 
+
 
 vratas (in the medieval sense ) existed even in the first centuries before and after the Christian era follows from the Ap. Dh. S. and from the dramas of Kālidāsa, from the Mrcchakatika and the Ratnāyali. The Ap. Dh. S. II. 8. 18 prescribes a vrata for one year which is equal. in its merit to brahmacārivrata for 48 years and Ap. Dh. S. II. 8. 18-19 to Ap. Dh. S. II. 8. 20 prescribe two modes of a vrata to be begun on Tisya (Pusya) naksatra to be observed by a person desirous of prosperity. Vide S. B. E. vol. II, pp. 145– 148. Hemādri (vrata II. .p. 628 quotes Āp. Dh. S. II. 8. 20.3-9), explains the sutras and calls this Āpastambokta Pusyayrata. 
 
@@ -441,7 +441,7 @@ H. D. 7
 
 
 
-(Sec. 1, Ch. II 
+
 
 clarified butter ( Karmapradipa of Gobhila I. 113).122 The number of āhutis may be 108, 28 or 8 or as many as are expressly specified. The Samayapradipa ( folio 4 b) has a long discussion about the fire in which homa is to be made. One who is an āhitāgni (who has established the sacred Vedic fires) should employ the fire established by him when he was married, as laid down by Yāj. (1.97). According to some, the rule of Yāj. applies only to grhya rites that are laid down in the Grhyasūtras and that oven an āhitāgni should employ ordinary fire for his vratas. One who has no smārta fire should also perform vrata homas in ordinary fire by himself or through a priest. 
 

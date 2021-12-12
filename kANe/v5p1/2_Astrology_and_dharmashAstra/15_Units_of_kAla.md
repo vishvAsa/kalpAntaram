@@ -75,7 +75,7 @@ H. D. 62
 
 
 
-(Sec. II, Ch. XV 
+
 
 Cāturmāsya-yāji is one who offers sacrifice in view of the 13th month'. 711a How and when the month was inserted in the Rgveda times or the times of the Tai. S. is not clear. What is clear is that one whole month was added. Therefore, Thibaut overstates the case when he asserts emphatically (Grundriss p. 7) that all Vedic texts agree that the year was exclusively of 360 days. A year in which one month was added ( i. e. of 390 days) was also well-known to the Ṛgvedic Indians. Therefore, in order to explain the facts we have here probably to postulate two calendars, ons a purely sacrificial (or religious) of 360 days (12 months of 30 days ) probably inherited by the Vedic Indians from their ancestors about whom we know next to nothing, and another calendar where a month was added in order to bring the year in line with visible astronomical data. It is known that the ancient Egyptians 712 had an official calendar of 360 days ( 12 months of 30 days each ) plus five days added at end i. e. of 365 days only and no intercalary day was inserted in a year. The result was that the opening day of this calendar would shift back through the solar year until a whole cycle of that year had been completed in 1456 or 1506 years. This calendar called sliding calendar was in use for about 3000 years in Egypt from proto-dynastic period until the Roman period. There was also another calendar against which this sliding calendar moved. A year of 360 days ( divided into 12 months of 30 days each ) was not peculiar to ancient Vedic India nor to ancient Egypt, but played an important role also in Mesopotamia, which had a strictly lunar calendar. The co-existence of months of various 
 
@@ -99,7 +99,7 @@ In the Satapatha Brāhmaṇa (II. 1. 3. 2.) 713 the Sun's apparent passage for s
 
 
 
-(Sec. II, Ch. XV 
+
 
 of Uttarāyaṇa; therefore, by association with these two and for the sake of symmetry varṣā is also held to be a rtu for the gods. 
 
@@ -129,7 +129,7 @@ There are Western scholars that deny the knowledge of the planets to the Vedic I
 
 
 
-(Sec. II, Ch. XV 
+
 
 is that the cult of the worship of planets that we find well deve loped in Yāj. I. 295–308 had not yet arisen in Vedic times. At least Bṛhaspati (Jupiter ) appears to be clearly meant in two Vedic verses. 'Bṛahaspati, 719 first appearing in the highest heaven of the great Luminary ( the Sun), destroyed darkness &c;' 'Bșhaspati, when first appearing, rose in front of Tisya (Pusya ) constellation'. 'The seven 720 priests guard the dear and fixed seat of the bird (Agni) along with the five adhvaryus; oxen, going eat, ageless, delight in the east; the gods follow the ordi nances of gods' (Rg. III. 7.7.). Here the (five) oxen are taken to be the five planets. Similarly, 'He (Indra ) filled heaven and earth and the mid-region; he superintends in various ways the five gods, the 49 gods ( Maruts) at the proper seasons together with the thirty-four lights similar to his own but each accordiug to the different ordinances governing each'721 ( Rg. X. 55.3); 'these five oxen that stand in the midst of the great heaven' (Rg. I. 105. 10). Vena 722 may betaken to be the brilliant Venus in Rg. X. 
 
@@ -161,7 +161,7 @@ TH' which is explained in T U IX, 4.1.9. In u II. 2.5 the Apsarases are called '
 
 
 
-(Sec. II, Ch. XV 
+
 
 nights ( to make room ) for the Sun that sees the world'723 (Rg. 1. 50.2); 'May the earth, the heaven, the waters, the Sun along with the naksatras and the wide sky listen to us' (Rg. III. 54. 19); 'he (Varuṇa ) urges on in two ways the big and high heaven ( the Sun) and naksatras and also spreads the earth' (Rg. VII. 86.1); 'when he ( the Sun) comes up, naksatras are not seen in the heavens, no one knows truly (how this happens )' Rg. X 111.7; 'The Adityas are strong through Soma, the earth is great through Soma and then Soma is placed in the lap of these naksatras' ( Ṛg. X. 85.2). In some passages like Rg. VII. 81.2 and X. 88. 13, it is difficult to say what 'naksatram 'stands for. Nakṣatra in most of the above passages means a star in general. But in Rg. X. 85.2 and in X 68.11 (the pitrs adorned the heavens with naksatras ) 723a naksatra appears to mean the 27 well-known asterisms. So also when the Satapatha contrasts the Krttikās ( that do not swerve from the east) with other nakṣatras (that do swerve), naksatra should be taken to mean asterisms in the Zodiacal belt, the 27 (or 28 ) constellations in the Zodiacal belt in which the moon appears to move. Another word is ' str' (that is an Indo-European word), which always occurs in the instrumental plural in the Rgveda (as in I. 68. 5, 1. 87. 1, I. 166. 11, II. 2. 5, II. 34. 2, IV. 7.3, VI. 49. 3 and 12 ) and is often con nected with decking the sky. The word 'rksa' in the sense of * star' occurs in Rg. 724 I. 24. 10 'these ṛksas that are established high up (in the sky ) are seen at night, but where did they go by day'. This refers to the constellation of the seven sages (Ursa Major). In the Atharvaveda VI. 40. 1, the constellation of the seven sages is expressly mentioned: "May Heaven and Earth confer on us freedom from danger here; may the Sun and the Moon do the same for us; may the wide mid regions confer on us freedom from danger and may there be abhaya for us on account of the oblation offered to the Seven Sages". The Satapatha states that the seven sages were formerly called 'ṛksāḥ' ( note 727 below). In Rg. V. 56. 3, VIII, 24, 27, VIII, 68. 15 the word rksa means either 'bear' or something else. It has been pointed out above p. 494 that in Rg. X.55.3 there is a reference to twenty-seven 
 
@@ -187,7 +187,7 @@ A. D. 63
 
 
 
-(Sec. II, Ch. XV 
+
 
 sādhā and before Śravaṇa in ancient authorities ). In the Vedic literature, Vedāngajyotisa and even in Yājñavalkya-sirti they are enumerated from Krttikā to Apabharani ( or Bharani ) while in works from the 3rd or 4th century A. D. and in modern times they are enumerated from Aśvini to Revati. 
 
@@ -225,7 +225,7 @@ aap 1.1 yogre 197. III.1.116. The light explains पुष्यन्त्य�
 
 History of Dhar maśāstra 
 
-(Sec. II, Ch. XV 
+
 
 sometimes in the dual, sometimes in the singular). Kālidā sa employs the dual Punarvasū ja Raghuvamsa XI. 36'gām gatāviva divah Punarvasū.' 
 
@@ -461,7 +461,7 @@ F. one.
 
 N. in Mai. 
 
-(Sec. II, Ch. XV 
+
 
 List of naksatras in the Vedic Samhitās, names, deities, &c. with remarks where necessary. 
 
@@ -593,7 +593,7 @@ ranyah ranih nih
 
 
 
-(Sec. II, Ch. XV 
+
 
 Nakṣalras in Samhitūs and Brāhmaṇas 
 
@@ -611,7 +611,7 @@ H. D, 64
 
 
 
-(Sec. II, Ch. XV 
+
 
 born on Kṛttikā, then some name like Agnimitra &c., if on Pusya, Brhaspatinitra &c.). 
 
@@ -639,7 +639,7 @@ ___734. प्रजापतेस्त्रयस्त्रिंशद्
 
 
 
-(Sec. II, Ch. XV 
+
 
 nal equinox was in Kṛttikā about 2300 B. C. Instead of admit ting this as a probable date for the Vedic works, Fleet boldly asserts that the list of naksatras beginning with Krttikās has no basis in fact, but belongs entirely to ritual and astrology (JRAS for 1916 p. 570 ). No detailed arguments are deemed necessary. Fleet does not specify cogent evidence, nor does he assign reasons why priests later on changed the beginning of the list from Krttikā to Aśvini, nor does he vouchsafe how the list of naksatras in the Vedic age began in fact for ordinary folk if the Kṛttikā list was a pure priestly invention. Even Thibaut (in I. A. vol. 24 at p. 100 ) had to admit that the begin. ning of the naksatra series with Krttikā instead of with Aśvini seriously affects Max Muller's assignment of 1500 B. C. to 800 B. C. to the Vedic period. In the Tai. S. VII. 4. 8 there is a discussion about the time for undergoing the diksā in a Sāmvat sara-satra'. 735 It is proposed there that the dikṣā may be performed on the Full Moon in Phalgunī because that is the beginning of the year; then an objection is raised against this and it is pro posed that the dikṣā may be taken on Full Moon in Citrā, because that was the beginning of the year. If the year began with the winter solstice in those days this reference would have to be placed at 4000 or 6000 B. C. This passage probably embodies traditions that the year began in different months in different periods of antiquity. 
 
@@ -659,7 +659,7 @@ of ( it is said ) 28 at about 1100 B. C. ( as said by Thibaut in Grundriss p. 13
 
 
 
-(Sec. II, Ch. XV 
+
 
 China and Babylon the naksatras could reasonably be supposed to have been derived by Indians more than 3500 years ago (on a most modest estimate) and allowed to be the very centre and basis of their religion of sacrifices, what were the means for the communication of the thoughts and ideas underlying the naksatra system and why one may not surmise that the real state of things was the other way about (viz. the Babylonians and Chinese derived the system from the ancestors of Indians ) or that all systems were derived from a common prehistoric source. Another reason for discounting the theories of Biot, Weber and Whitney may also be advanced viz. the researches of Tilak in his 'Orion' (particularly pp. 61-95) and of Prof. Jacobi have at least made this clear that the Krttikā series is not the oldest arrangement of the naksatras known to Indians, but that the Indians had once an older arrangement, which plac ed Mļgaśirsa at the vernal equinox. Those who are interested in these somewhat novel and rather barren controversies raised by Biot, Weber and others may read Weber's 'der vedischen Nachri chten von den Nakṣatras', two volumes, I. A. vol. 23 pp. 154-159 (Jacobi on the date of the Rgveda'), pp. 238–249 (Bühler's note on Jacobi's theory and Tilak's Orion, 1. A. pp. 85-100 (Thibaut on ‘antiquity of Vedic civilization') and pp. 361-369 (Whitney), I. A. 48 pp. 95–97. The word 'naksatra' is derived by Yaska 736 from the root 'nakṣ' meanicg 'to go', while the Śatapatha Br. (II. 1. 2. 17-18) and Tai. Br. II. 7. 18 derive it as from na plus kṣatra and Panini (VI. 3.75) accepts this derivatior. The word 'naksatra'(m) is applied even to the Sun in Rg. VI. 67. 6. Tai. Br. teaches how one is to mark the naksatra on which one has to perform a religious act, viz. he should mark about dawn and before the first rays light the sky the part of the sky where the naksatra appears and when the sun appears the nakṣatra would be to the west of the sun, at which time he should perform what he has to do. It is stated that sage Matsya established into eminence Yajñesu and Satadyumna by this method (Tai, Br. I. 5. 2.1.). 
 
@@ -693,7 +693,7 @@ a ngata ā: 1. If in TH. XI. 3 criticises the Jain view “भानि चत�
 
 
 
-(Sec. II, Ch. XV 
+
 
 not only in astronomy, but generally. To take only one or two instances. Thibaut (Grundriss p. 3 ) is pleased to observe that what Indians knew before Greek influence is not much and is of a primitive character. This is how Whitney, a learned American scholar of Sanskrit, unburdens himself; 'there can be no question that, from what we know in other respects of the character and tendencies of the Hindu mind, we should not at all look to find the Hindus in possession of an astronomical science possessing so much of truth. They have been from the beginning distinguished by a remarkable inaptitude and disin clination to observe, to collect facts, to record, to make inductive investigations' (J. A. O. S. vol. VI p 471). His coadjutor, Mr. Burgess, differed from him even in regard to astronomy (ibil. pp. 477–480 ). 
 
@@ -717,7 +717,7 @@ H. D. 65
 
 
 
-(Sec. II, Ch. XV 
+
 
 nomy in Egypt and that, though the length of the solar year had been fairly accurately determined, this was done by observation of the heliacal rising of Sirius or Sothis which happened to correspond rather closely with the first rise of the Nile and involved no calculation whatsoever. About Hittites and Chaldeans there is not much to be said as no one asserts that naksatras were borrowed from them. Even about 800 B.C. Homer's and Hesiod's knowledge of astronomy was meagre. Even Hipparchus, regarded as the greatest astronomer of anti quity who completed his catalogue about 130 B. C., had access to a continuous series of observations made in Mesopotamia reaching back to 747 B. C.73a Ptolemy wrote about 150 A. D.; his Almagest is based on the observations of Hipparchus, and almost all that is known about the predecessors of Ptolemy is derived from the latter's work, as, owing to the very excellence of Ptolemy's work, all writings of his predecessors ceased to be studied and have not been recovered. The theory of Greek influ ence in astrology will be dealt with a little later on, but a fow words may be said here about the supposed influence of Greek astronomy on the Indian Siddhāntas739 and later works. In the 
 
@@ -745,7 +745,7 @@ first place no Indian work of the Siddhānta class admits that any Yavana knowle
 
 
 
-(Sec. II, Ch. XV 
+
 
 Sanskrit as well as with the Greek or Alexandrian astronomy that preceded Ptolemy and probably oven Hipparchus and that therefore Varāha gave a summary of it in his karaṇa, just as in his famous work on Astrology, the Brhajjātaka, he mentions the views of the Yavanas and frequently differs from them. 'Further Varāha is generous in his appreciation of Greek astrology 743 "Yavanas are indeed Mlecchas and this śāstra is well cultivated (or established) among them; even they (the Yavanas) are honoured as if they were sages. What need it be said about a brāhmana well-versed in Astrology (he will be honoured much more)'. The word 'śāstra' in this verse when read along with daivavid' in the 2nd half must be taken in the sense 
 
@@ -773,7 +773,7 @@ L
 
 
 
-(Sec. II, Ch. XV 
+
 
 astronomy came from Hellenistic astronomy, since he thinks that the use of the eccentric-epicyclic model alone is sufficient proof. But he is inclined to hold that the period of reception lies between Hipparchus and Ptolemy and hopes that a systematic study of Hindu astronomical works might reveal information about pre-Ptolemaic Greek astronomy no longer preserved in available Greek sources. It is doubtful whether that hope will ever be fulfilled. If ancient Indians were capable of analysing the elements of the Sanskrit language and raising such a system as Pāṇini's, if they could plumb the depths of the human mind and create a mental discipline like the Yoga, if they carefully noted centuries before Christ the parts of the glottis and other organs in the mouth in the production of the letters of their language and produced the Prātiśākhyas and Siksā works, if they could create a fable literature and invent the game of chess and make a gift of these two to the whole of mankind, if their knowledge of Algebra was of a superior order (vide Colebrooke's Essays, vol. II, at p. 446 and Cajori's 'a History of Elementary Mathematics' pp. 93-101), if they invented the decimal place value 7142 system for numbers and propagated it and the sign for a zero to Europe through the Arabs in the 12th century A. D., there is hardly any compelling reason for saying that it would not have been possible for them to arrive at their own eccentric and epicycle system (of which Prof. Neugebauer makes so much) independently of any other people to explain the 
 
@@ -799,7 +799,7 @@ T: RIOTEUTET I THY ATHITHIFTTHYRI gora: lt. We find in the बो. श्री.
 
 
 
-(Sec. II, Ch. XV 
+
 
 equinoxes, since procession is said to have been discovered by Hipparchus, and was adopted by Ptolemy.7454 
 
@@ -831,7 +831,7 @@ After having briefly indicated the astronomical knowledge to be gathered from Ve
 
 
 
-(Sec. II, Ch. XV 
+
 
 The first thing that we notice is that even in the Rgveda we have frequent references to 'auspiciousness of days' (sudinatve ahnām) in Rg. III. 8.5, III. 23.4, VII. 88.4, X. 70.1, (sudinatvam. ahnām' in Rg. II. 21. 6 and 'sudinesvahnām' in Rg. IV. 37.1). A few of these may be translated here. 'O Indra! establish amongst us abundance of wealth, freedom from injury to our bodies, sweetness of speech and luckiness of days' (Rg. II. 21.6); '(The sacrificial post) when planted on an auspicious day goes prospering in the sacrifice attended by many men'(Rg. III. 8.5 ); 
 
@@ -867,7 +867,7 @@ u a gia THI \# 31 fac fara: 1*. III. 8. 5; À S UR 34T पृधिया इल
 
 
 
-(Sec. II, Ch. XV 
+
 
 individual astrology. For example, in the Tai. Br.751 it is provided that people plough their fields on Anurādhā naksatra, of which Mitra is the presiding deity. The Pāraksaragshya prescribes in the same strain that a man should put the ploughshare (in his field) on an auspicious day or on Jyesthā nakṣatra of which Indra is the presiding deity (and rains are in the hands of Indra). On the other hand, the same Brāhmaṇa 752 (Taittiriya) provides that if a man desires that his daughter should be dear to her husband be should get her married when the moon is in Nistyā (Svāti) naksatra and that if he does so his daughter becomes dear to her husband and never comes back to her father's house. The naksatras from Krttikā to Viśākhā have been declared to be Devanaksatras and whatever rites are performed on them are declared to have been performed on a holy day (punyāna). Even as early as the Atharvaveda 753 it appears to have been believed that a boy born on Jyesthā or on Vicrt (i. e. Mūla naksatra) or on a day called tiger-like (on an evil or terrible naksatra) might himself die or bring about the death of his father or mother. The two verses may be translated as follows: '(the boy) is born on Jyesthaghni (i. e. Jyesthā) or on Vicrt which belongs to Yama; guard him against being uprooted; may (Agni) take him beyond all evil results in order that he may reach the long life of a hundred autumns. This valiant son was born on a tiger-like day and naksatra; may be not, while he grows, kill his father or his mother that gave him birth.' 
 
@@ -901,7 +901,7 @@ T
 
 
 
-(Sec. II, Ch. XV 
+
 
 to indicate coming events, auspicious or otherwise; 755 '(the bird) crying again and again and voicing (indicating) coming event sends forth his speech as an oarsman propels a boat; O bird! may you be auspicious to us and may no unfavourable sign reach you from any quarter; O birdl may you that are auspicious and whose cry forebodes good cry to the south of (our) houses; may no thief master us nor may any one declare that we may meet danger.' Br. S, 98. 14 provides that birds indicate to a person going on a journey the evil results of actions, good or evil, done by him in former lives. The Yoga-yātrā of Varāhamihira (chap. 14) and Adbhutasāgara pp. 569-582 deal at length with sakuna (prognostications from the sight, flight or cries of birds and other animals). Yogayātrā (14.2 and 26 ) provides that certain birds and animals when they are to the right or southern side of a man starting on a journey indicate auspicious results and that when a cāsa bird with something in its mouth flies to the right side of a man that is an indication of welfare. 
 
@@ -927,7 +927,7 @@ like. One of the earliest references to this projudice against star gazers in Sa
 
 
 
-(Sec. II, Ch. XV 
+
 
 many such matters as passion of love, anger, timidity and desire to find out an auspicious tithi and naksatra' and winds up with two fine verses characteristic of the great genius that placed Candragupta Maurya on the throne of Magadha: "The desired object ( or wealth) eludes that childish man that is excessively in search of what the stars portend: for the desired object is ( itself) the star that governs ( success ) in securing it; what will stars do? Men striving ( to attain their ends ) will secure their objects after hundreds of efforts; wealth is caught by wealth just as elephants are bound by other elephants (opposed to them ).' From the above it is quite clear that several centuries before Christ an astrologer ( who maintained himself on money acquired by the practice of astrology) was very much condemned. 
 
@@ -959,7 +959,7 @@ H. D. 67
 
 
 
-(Sec. II, Ch. XV 
+
 
 perishes and the king also (meets the same fate) if the six along with the extra three are affected. When 764 the naksatra on which a king was crowned is affected by evil planets or aspects, one should predict loss of the kingdom, if the naksatra of the country is affected trouble to the country and capital is indicated and if the naksatra of the king's caste is affected then one should predict king's illness. The naksatras according to the caste of the king are as follows 765 : the three Pūrvas (Phalguni, Purvāsādha and Purvābhādrapadā) and Krttikā are paksatras of the king of the brāhmaṇa class; the three Uttarās (Uttarā Phalguni, Uttarāsādha and Uttarābhādrapada) and Puṣya are naksatras for a king of the ksatriya caste; Revati, Anuradhā, Magha and Rohini, of agricultural class; Punarvasu, Hasta, Abhijit and Aśvini are naksatras of the vanik (trader) class. The countries governed by the nakṣatras are set out in chap. 14 of the Brhat-samhitā. Herein Varāha differs from Ptolemy in two respects:(1) Varāba does not mention countries governed by rāśis, but countries governed by naksatras; (2) Varāha confines himself to India, while Ptolemy in his Tetrabiblos ( 11. 3 pp. 157-159, Loeb Classical Library) deals with all countries then known. This is an important circumstance against the theory that Varāba's astrology is borrowed from Ptolemy or later Greek writers. If he had known Ptolemy's work he could have easily followed bim even as to countries outside India. The whole of India is divided into nine parts, the Madhyadeśa and the regions in the eight quarters from the East to the North-east, each part being under groups of three naksatras from Krttikā on wards. Vide also Viṣnudharmottara I. 86. 1-9. When the group of three naksatras in each of nine divisions is affected by the Sun, Mars or Saturn, the countries falling under any of the three naksatras of the group suffer calamities. The Mārkapdeya purana (chap. 58. 10-54 in B. I. edition, chap. 55 in Venkateśvara Press edition) also specifies the countries in the nine groups, but the names differ to some extent. There is some divergence 
 
@@ -991,7 +991,7 @@ The Mahābhārata and the Rāmāyaṇa contain numerous passages where the plane
 
 
 
-(Sec. 11, Ch. XV 
+
 
 impossible to reconcile. Vide H. of Dh. vol. III, pp. 903-923 for consideration of the astronomical data in the Mahābhārata. Here we are concerned only with the beliefs about certain omens and portents. In the Bhisma-parva we read 769 a white celestial body stands traversing Citrā nakṣatra; one sees therein specially the destruction of the Kurus; a very frightful comot stands covering Pusya-naksatra; this great graha will bring about terrible evil to both armies. A white blazing graha resembling fire emitting smoke stands covering the bright Jyesthā-naksatra whose presiding deity is Indra; a cruel comet standing between Citrā and Svāti afflicts Rohiṇi and the Sun and the Moon'. 
 
@@ -1029,7 +1029,7 @@ T: I HE THRE FRAICI ga: ga: Il Ter: appears to be a misreading for hur: the jufu
 
 
 
-(Sec. II, Ch. XV 
+
 
 (folio 5 b, IV, 17), in Visnudharmottara II. 166 at end and in the Tantrika work Śāradātilaka 774. 
 
@@ -1061,7 +1061,7 @@ EMITEGIA: TY ā T: FEAT: 1304. T. I. 2. 12–13 and 16. The last is a gātbā qu
 
 
 
-(Sec. II, Ch. XV 
+
 
 Punarvasu, Tisya, Hasta, Sroṇā (Sravana) and Revati. The Āśvalāyana-grhya generalises the auspicious times for several important saṁskāras as follows:778 'the rites for caula, u panayana, godāna and marriage are to be performed in the northward passage of the sun, in the fortnight of the waxing moon and on an auspicious naksatra; some (sages) hold that marriage may be performed at all times'. Āśv. further provides that the maiden after marriage was to observe silence and to begin speaking after seeing the Polestar, Arundhati and the constella tion of the Seven Sages. This generalisation is carried further by the Pūryamımāmsā-sūtra which provides 779 all ritas in honour of the gods are to be performed in the northward passage of the sun, on a day in the bright half of the month and on an auspicious day'. 
 

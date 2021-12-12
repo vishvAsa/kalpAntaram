@@ -23,7 +23,7 @@ H, D, 68
 
 
 
-(Sec. II, Ch. XVI 
+
 
 Here the word muhurta means 15th part of the day ( i.e. in a general way about two nādikas or ghatikās). Rg. x. 189.3 appears 783 to contain a somewhat recondite allusion to thirty parts of the day and night 'by the rays of the sun thirty loca tions of the day (and night) shine forth; a laud is offered to the bird (the sun).' The fifteen names (viz. citra, ketu &c.) of the muhūrtas of the day and 15 muhurtas of the night occur in Tai. Br. II1.784 10. 1. 1-3. The Vedanga-Jyotisa states that two nadikās are equal to a muhurta (verse 7 of Vedanga-Jyotisa of Rg.) and that there is a difference of six muhūrtas ( i. e. 12 ghatıkūs) between the longest and shortest day. 785 Manu I. 64, Kautilya ( quoted in note 681) and several purāpas ( quoted in note 682) state that day and night are together equal to thirty muhurtas Therefore, the second meaning of muhūrta from early Brāhmaṇa times at least was 'a period of two gbaṭikās'. The Kausitaki-upaniṣad speaks of muhurtas called Yeṣtihas. 786 
 
@@ -59,7 +59,7 @@ Dronaparva (80.23). In the Raghuvamsa (V. 36) Kalidasa says that Aja was born on
 
 
 
-(Sec. II, Ch. XVI 
+
 
 Vāyupurāṇa enumerates the names of the 15 muhurtas in the day somewhat differently and also of the night. 792 The Matsya. purāna (in chap. 22. 2) refers to two muhurtas, Abhijit and Rauhiṇa and mentions eight muhūrtas as auspicious on which to begin the construction of a new house. 793 It also speaks of Kutapa as the 8th mubūrta ( 22. 84 ) and states that Kutapa and the following four muhũrtas are the home of svadhā (i. e. śrāddha must be begun on kutapa and completed before the 12th muhūrta ends). It would be seen from the above that the names of muhūrtas were given at least twice, first in the Tai. Br. and then in the Atharvaṇa Jyotiṣa and the Purāṇas. A further stage was probably reached when their names receded into the background and practically disappeared from such works as those of Varāhamihira and only the names of the deities presid ing over the 30 muhūrtas of day and night remained and the muhūrtas came to be known by the names of the deities. Though Varāhamihira refers to the muhūrtas of day and night in Brhat-samhitā 42. 12 and 98.3, he does not set out their names in that work, but in his Bṛhad-Yogayātrā he sets out the 30 names of the deities presiding over the muhūrtas of day and night as quoted in the note below.794 Varāha remarks: what 
 
@@ -89,7 +89,7 @@ A vai कि तहि । मुहूर्तमसावधीटो मा�
 
 
 
-(Sec. II, Ch. XVI 
+
 
 that day had only 12 muhūrtas i. e. 6 muhurtas got attached to the day sometimes and 6 muhūtas got attached to the night sometimes when it was longest. Patañjali 797 in his bhāsya on Vārtika 2 of Pāṇini II. 1. 29 mentions this. This would be a matter of personal observation which need not extend beyond a few years. But even here Prof. Neugebauer smells Mesopotamian influence (Exact sciences in Antiquity' p. 178). This is a characteristic example of the jaundiced eyes with which most Western writers look at things Indian. If the writer of the Vedanga Jyotisa was a native of the extreme north west of India or had stayed there for some years he would have easily noticed the difference between the longest day and the short est day as about twelve ghaṭikās, particularly as that very verse of the Vedānga-jyotisa shows that water clocks were then used. Even illiterate people in the villages of Bombay State know that the difference between the longest and shortest day in their villages is about six ghatikās (as Bombay is a little over 18 degrees, N. Lat.). There is nothing to show that the writer of the Vedānga-Jyotisa was not a person who was either born in the extreme north-west of India or stayed there. The North-West of India was a centre of Sanskrit culture at least six centuries preceding the Christian era and Taksasilā (Taxila ) was a great University where princes came to learn (vide Rhys Davids in "Buddhist India' p. 8). Panini hailed from that part, it appears, and teaches the formation of words like Saindhava, Tākṣaśila and Sālāturiya as meaning a person whose ancestors lived in or who himself stayed in Sindhu or in Taksasilā or in Salātura ( Pan. IV.3. 89-90 and 93–94). Later writers call Pāṇini Sālāturiya (vide Bhāmaba VI 62-63). To suppose that a learned Indian who was writing a work on Jyotisa had to run all the way from India to Mesopotamia a thousand or more miles for finding out the difference between the longest and shortest day in his own country or for saying that the difference between the longest and shortest day in Mesopotamia being 12 ghatikās the same was the difference between them in India or for consulting works written in the Cuneiform characters for that purpose almost borders on the absurd. Besides Prof Neugebauer is not quite correct. The latitude of Babylon is 32'. 40' North and even there the ratio would not be exactly as 3 to 2. Gāndhāra is 31°. 40' 
 
@@ -119,7 +119,7 @@ to raamai DITATATE XI, 12–13, 15-16. For the various meanings of uma, vide H. 
 
 
 
-(Sec. II, Ch. XVI 
+
 
 thought to astrology and the lore of omens and portents apno unce ( as required to be done ), because some ūčūryas (teachers ) assert that the welfare ( of the country or king ) depends upon that (upon doing what astrologers and experts in portents declare ).' This trend of thought gradually gathered greater and greater strength till at last even the great smrtikāra 
 
@@ -277,7 +277,7 @@ In support of Astrology Ptolemy (in Tetrabiblos, 1.2) puts forward certain argum
 
 
 
-(Sec. II, Ch. XVI 
+
 
 race to which he belongs, the customs of the people among whom he is born, the way in which he is reared, the age in which he lives have also to be considered, all which will contri buto materially to the proper prediction, other things being equal. In IV.10 he points out that if one looks only at the horoscope without paying attention to nationality, manners and customs and the like he may call an Ethiopian fair 8250 of complexion and having straight hair and a German a dark skinned person and endowed with woolly hair or not knowing the peculiar customs say that an Italian whose horoscope is being examined may marry his sister (as ancient Egyptians did) or that the man may marry his mother (as only Persians did ). Vide Tetrabiblos IV. 10 p. 439 (Loeb. cl. Library). In I. 3 Ptolemy argues that astrology is not only possible but is beneficial, because fore-warned is fore-armed. It is a very far cry to argue from the undoubted influence of the Sun and the Moon on mundane matters, such as heat and cold, rains, storms and droughts that the particular positions and aspects of the Sun, Moon and planets at the time of birth or conception ( as some hold ) are throughout an individual's life ( it may be for a day or a hundred years ) the dominating factor (if not the sole factor as many astrologers say ) governing his conduct, character, family affairs and destiny. The reasoning of Ptolemy, though very cleverly put and though with a slight scientific appearance, is rather vague and not at all cogent or convincing. He distin guishes between universal or general astrology (treated of in Books I-II ) which relates to whole countries, races, cities and large bodies of men and particular or genethlialogical astrology treated of in books III-IV. 
 
@@ -345,7 +345,7 @@ by Mysore University, 1923-1926, in three parts); Muhurta dipaka by Nāgadeva (a
 
 
 
-(Sec. II, Ch. XVI 
+
 
 Saṅkrāntis. It may be mentioned that many of the provisions about auspicious aspects of planets, about upanayana and marriage, construction of and first entrance into a house, sakunas about the fall of lizards and chameleons were observed in the author's boyhood and are still observed by many, though there is gradually an increasing looseness of observance in these matters. 
 
@@ -503,7 +503,7 @@ It should be noted that the list of synonyms is not exhaustive; other words with
 
 History of Dharmuśāstra 
 
-(Sec. II, Ch. XVI 
+
 
 TIT 
 
@@ -537,7 +537,7 @@ insects) and the remaining five resemble human beings with special characteristi
 
 
 
-(Sec. II, Ch. XVI 
+
 
 Alexandrian age and very few Zodiacs are older than the Roman times. Since Assyriologists began to reveal the astronomica: knowledge in the valley of the Euphrates, the Babylonian origin of the Zodiac has been taken for granted by almost all scholars.812 The dissenting voice is that of E. J. Webb in Names of stars '8!3 who very strenuously argues against the Babylonian origin of the Zodiacal signs and holds that the Zodiac as we know it is a Greek invention and that Cleostratus who according to Pliny was concerned in forming it lived about 520 B. C. In spite of the vehemence of Webb's arguments, in my humble opinion, he is far from convincing and for the present at least the Babylonian origin of the Zodiacal signs has to be accepted. The passage of Pliny on which Webb relies is differently understood by Prof. J. K. Forheringham.814 The latest work of Sarton on 'History of Science' (1953) holds that the Zodiac had been distinguished by Babylonian astronomers a thousand years before Cleostratus and all that Cleostratus probably did was to divide those constellations into twelve equal lengths of the ecliptic i.e. the twelve signs of the Zodiac. A somewhat amusing argument has been advanced by Hickey 845 that the fact that there are in the sky no animals (figures) suggestive of Egypt or India such as the hippopotamus and the elephant seems to rule out those countries as sources. Is there any logical necessity that certain animals must be introduced in a system of Zodiacal signs if that system originated in a certain country that may be the home of dozens of wild and tame animals? Are all the principal animals of Mesopotamia or of Greece included in the seven animals that figure as signs, if one of the above two was the origin 
 
@@ -647,7 +647,7 @@ _846. गोजाश्चिकर्किमिथुनाः समृग�
 
 
 
-(Sec. II, Ch. XVI 
+
 
 dvisvabhāva ( of both characters ), as saumya (mild ) and krūra ( fierce or malignant ), as dinabala ( powerful by day ), niśābala (powerful by night ), as prṣthoduya (rising from the hind part), sirṣodaya ( rising by their head first ) or ubhayodaya, and as lords of the four main directions (east &c.). The above table will show at a glance these classifications, in which n. stands for niśābala, d. for dinabala, p. for prṣthodaya and s. for sirṣodaya. 
 
@@ -675,7 +675,7 @@ With Thi Electrit. VIII. 13. 848. TIE RECHTHTPE stringatsargui Art4. VII, 6 849.
 
 
 
-(Sec. II, Ch. XVI 
+
 
 aspects of the sun and that from the sun the sprouting of the seed (can be predicted), from Jupiter the formation of abundant sheaves of corn when the seeds are sown and from the ( movements ) of Venus rainfall (can be predicted ). 850 It will be seen from the above that general or universal ( not individual or horoscopic) astrology like the reports made by royal priests in Mesopotamia was prevalent in India many centuries before Christ. The Brhajjātaka ( II. 2–3 ) enumerates the nine planets, Sun, Moon, Mercury, Mars, Saturn, Jupiter, Venus, Rāhu and Ketu and furnishes some synonyms of all these. 
 
@@ -709,7 +709,7 @@ The Bť. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtanda (verses 8-15) s
 
 
 
-(Sec. II, Ch. XVI 
+
 
 below and the names underlined are deemed by Western writers to have been derived from Greek; but it should be noted that no Greek name for the moon occurs in these or other works and I am not convinced that Jiva is a Greek word or adaptation of a Greek word. The word Jiva occurs in the Rgveda itself in 
 
@@ -839,7 +839,7 @@ Rabu
 
 
 
-(Sec. II, Ch. XVI 
+
 
 In the Yogayātrā VI. 1 a distinction is made between the gods that rule the eight directions and the planets that rule them, Indra, Agni, Yama, Nirrti, Varuna, Vāyu, Yaksa (Kubera ) and Siva are the lords of the eight directions from East to North-East, while the same directions are governed by planets as in the above table. 
 
@@ -1107,7 +1107,7 @@ Teng a 14:
 
 
 
-(Sec. II, Ch. XVI 
+
 
 1st house-horā, tanu, kalpa, sakti, mūrti, lagna, deha, anga, 
 
@@ -1147,7 +1147,7 @@ Thibaut (in Grundriss p. 68 ) following Jacobi boldly asserts that the doctrine 
 
 History of Dharmaśāstru 
 
-(Sec. II, Ch. XVI 
+
 
 which are found in the ancient Yavanajātaka of Sphujidhvaja. Fur ther, it has been shown above (pp. 533-34 ) that extant references to astrology based on naksatras actually exhibit the names of at least five bhāvas centuries before Firmicus. It is quite possible to argue that Firmicus borrowed his astrology from the predecessors of Varāha, who were Greeks and wrote in Sanskrit, or that even Ptolemy did so as he knows of the bhāvas, but 
 
@@ -1179,7 +1179,7 @@ dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal 
 
 
 
-(Sec. II, Ch. XVI 
+
 
 Greeks, the tutelary spirits slipped into or got intertwined with the signs of the Zodiac (each sign of 30 degrees being divided into decans of 10 degrees) and played an important part in astrology. The original division referred to the equator, while the later distribution of 36 decans among the twelve signs refers to the 868 ecliptic. Bouché Leclercq avers (p. 53 ) that it has been proved beyond doubt that the Egyptian Zodiacs ( they had four, viz. 2 at Denderah, one at Esneh and one at Akhnum ) are all of the Roman epoch and are imitations of the Greek Zodiac. 
 
@@ -1203,7 +1203,7 @@ Some other technical words may be mentioned and defined here. The six items, viz
 
 
 
-(Sec. II, Ch. XVI 
+
 
 is called Vargottama, so also the 5th navāmśa of Vrsabha, Simha, Vrscika and Kumbha (that are sthira ), and the 9th navāmsa of Mithuna, Kangā, Dhanus, Mina ( that are dvisrabhūra) are called Vargottama (Br. J. I. 14) and they yield beneficent results.870 The vargottama-navāmśas of all rāśis bear the same names as the rāśis themselves. The Yoga called Sunaphā occurs when some planet other than the sun occupies the 2nd house from that occupied by the Moon; the Yoga Anaphā occurs when some planet other than the sun occupies the 12th house from that occupied by the Moon and Durudharā occurs when planets occupy the 2nd and 12th houses from that occupied by the Moon. The Yoga called Kema-druma occurs when the above three don't occur and the Moon is not in kendra position or if kendra is not occupied by any of the planets (except the Sun). Br. J. 13. 4 notices that varieties of Anapha and Sunaphā are 31 each and the varieties of Durudharā are 180. The Bș. J. does not devote more than 6 verses to all these four yogas but the Vṛddha-Yavanajātaka of Minarāja has 30 verses on Anaphā, 30 verses on Sunaphā, 172 verses on Durudharā. The rāśi which is 2nd from the rāsi occupied by the Sun in a horoscope is called 'Veśi' (Bṭ. J. I. 20). All the above five words are said to be Greek, The word 'liptā' meaning 60th part of a degree' is also said to be Greek. The word 'harija' occurring in Br. J.V.17 means 'horizon'and Kern says it is adapted from Greek (Preface to Bṭ. . p. 29 ).8704 The Greek word is horos ( boundary ). All the words used by Varāha and supposed to be Greek by Weber, Kern and others may be brought together in one place here ( 37 in all); Kriya, Tāyuri, Jituma, Kulira, Leya, Pāthena, Jūka, Kaurpya, Tauksika, Akokera, Hrdroga, Ittha (?); Heli, Āra, Himna, Jiva, Asphujit, Kona; horā, droskāna, kendra, trikoṇa, panaphara, āpoklima, mesūrana, duścikya, hibuka, jāmitra, dyūna, rihpha, anaphā, sunaphā, durudharā, kemadruma, vesi, liptā, harija. I dispute the derivation of kulira and trikona from Greek and Kern agrees that they are pure Sanskrit words. I also doubt whether Jiva is an adaptation of Zeus. Zeus 
 
@@ -1229,7 +1229,7 @@ A good deal is said in Br. J. II. 15-17, Laghujātaka II. 10-12, Sārāvali IV, 
 
 
 
-(Sec. II, Ch. XVI 
+
 
 among themselves. Friends and enemies are of two kinds, natural and incidental ( temporary ). The following table will show natural friends and enemies amog planets. 
 
@@ -1361,7 +1361,7 @@ Another important doctrine is that of gocara. It means 8769 the consideration ab
 
 
 
-(Sec. II, Ch. XVI 
+
 
 ILLS 
 
@@ -1387,7 +1387,7 @@ In the Brhatsaṁhitā, the Bșhaj-jātaka, and the two works on Yātrā, Varāh
 
 
 
-(Sec. II, Ch. XVI 
+
 
 obtaining it from him), Vrddhagarga 8784 (twenty-five verses of his are quoted by Utpala on Br. S. I. 11, in one of which the rāśis are expressly referred to); Gārgi (usually styled 'bhagavān' by Utpala who quotes about 60 verses of his on Br. J. alone ); Gautama ( in Br. Y. 29. 3); Jīvaśarman ( named in Br. J. VII. 9, XI. 1 and Utpala on XIII. 3 quotes him for the words Sunaphā, Anaphā, Durudharā and Kemadruma); Kaśyapa (in Br. Y. XIX. 1); Kāsyapa 879 ( Utpala quotes about 260 Anustubh verses from him in his commentary on Br. S. , some of which show his acquaintance with all the rāśis ); Māṇdavya (named in Br. S. 103. 3 and quoted by Utpala several times on Br. J. VI. 6, XI. 3 and 5, XIII. % and XV. 4); Maạittha (mentioned in Bṛ. J. VII, 1 along with Maya, Yavana, and Parāśara on āyurdāya, and in Bṛ. J. XI. 9, while Utpala quotes 13 Āryās and 2 Anustubh verses of his on Br. 880 J. alone); Maya (mentioned several times in Bṛ. S. 24. 2, 55. 29, 56. 8, in Br. J. VII. 1 with Yavana, Manittha and Parāśara on the topic of length of life, on Br. J. VII, 13 an āryā verse of Maya is quoted by Utpala and to Maya king of dānavas the science of Jyotisa was imparted by the Sun, as stated in the last chapter of the extant Sūryasiddhānta and in a verse quoted by Utpala on Br. S. 2.14 ); Nārada (mentioned in Bṭ. S. 
 
@@ -1411,7 +1411,7 @@ H. D. 75
 
 
 
-(Sec. II, Ch. XVI 
+
 
 about the length of life to be judged from a horoscope, in Bļ. J. XXI, 3 where Visnugupta is opposed to the views of Yavanas that the Kumbhadyādaśāṁsa in the Lagna is inauspicious and Utpala quotes two āryās from him, mentioned in Bṛhad-yogayātrā 22.4, whether identical with Cāṇakya discussed in the paper on * Varāhamihira and Utpala'p. 19); Yavana (generally mentioned by Varuha in the plural as in Br. J. VII. 1, VIII. 9, XI. 1, XXI. 3, XXVII. 19 and 21, Laghujātaka IX. 6 about Veśi, Utpala on VIII, 9 refers to Puranayavana-mata and Sārāvali 21. 11 mentions pūrvayavanendras; vide paper on 'Varāhamihira and 
 
@@ -1481,7 +1481,7 @@ It has been seen above that not only was general astrology developed in early Ve
 
 
 
-(Sec. II, Ch. XVI · 
+
 
 medieval astrology, viz. that a person's future is determined at the time of his birth and that his destiny can be inferred from his horoscope. It will be shown immediately that India was in contact with Mesopotamia and the countries of the Near East from very ancient times. This contact became very close after Alexander's invasion of India about 325 B. C. and in the 3rd century BC. It appears to me probable that Indians who had already the naksatra astrology saw the signs of the Zodiac on Babylonian monuments and boundary stones and adapted them to their own astrological purposes just about the time when the Greeks derived their inspiration for individual astrology from Babylonians. 
 

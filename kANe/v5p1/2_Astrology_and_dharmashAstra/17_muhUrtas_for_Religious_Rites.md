@@ -191,7 +191,7 @@ p. 305.
 
 
 
-(Sec. II, Ch. XVII 
+
 
 declared by Bhārgava as time for marriage and for starting on an invasion. When no other auspicious lagna can be found then sages direct that Godhūlikā (muhūrta ) is auspicious; but if & lagna which is auspicious and powerful can be found the Godhūlikā muhūrta does not bring about auspicious results. The Dharmasindhu (p. 254 ) simply quotes the Muhūrta-mārtanda IV. 38, which says that this muhurta is intended for sūdras, but that in times of great difficulty when the girl has reached puberty it may be auspicious also for brāhmaṇas and persons of other varpas. In these days also this Gorajas muhurta is sometimes resorted to by all varṇas. 
 
@@ -225,7 +225,7 @@ pardoz folio 38b, verse 617,
 
 
 
-(Sec. II, Ch. XVII 
+
 
 In relation to marriage the Rājamārtanda 939 says: tithi is declared to have a single value while weekday is four times as good, naksatra is 16 times better, yoga has a hundredfold result, the Sun is a thousandfold efficacious, while the Moon is effica cious one hundred thousand times; therefore leaving aside all other balas (astrological strengths) one should look to the strength of the Moon as (the pre-eminent) strength. 
 

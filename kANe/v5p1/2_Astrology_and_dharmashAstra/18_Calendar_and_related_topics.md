@@ -749,7 +749,7 @@ It appears that the continuous seven day week did not form part of the religious
 
 
 
-(Sec. II, Ch. XVIII 
+
 
 IL 
 

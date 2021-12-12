@@ -21,7 +21,7 @@ rezza i 2. a. p. 331.
 
 
 
-(Sec. I, Ch. XI 
+
 
 the Universe be always a bestower of welfare on mel'. 543 The person should make, if able, further gifts of ornaments, a bed stead and golden jars ( two) to the brāhmaṇa; but, if poor, should offer only fruits to the brāhmapa. Then he should take his meal but without oil and should feed others according to his ability. Women also should perform this yrata. Great merit was attached to a bath in the Ganges on a sankranti, on an eclipse and on New and Full moon, as such a man reached the world of Brahmā.544 A bath with ordinary water (not heated ) was obligatory (nitya ) on every sankranti, since the Devi purāṇa declared : 545 “the man who would not take a bath on the holy day of Saṅkrānti would be for seven lives diseased and poor; whatever offerings are made to gods and pitrs by mon on sankranti are returned to them by the Sun again in several future lives ". 
 
@@ -65,7 +65,7 @@ ___550. पञ्चसिद्धान्तिका III. 23-24 (p.9) define
 
 
 
-(Sec. I, Ch. XI 
+
 
 all-pervading on account of the division into very small and large parts in the form of year, ayana, season, month, fortnight, day and the like. Devi bestows rewards in accordance with the divisions into meritorious and sinful ( actions).551 Even one act done at that time ( of Saṅkrānti) yields results multiplied crores of times. From dharma (righteous acts) increase life, kingdom, progeny, happiness and the like, from adharma (unrighteous conduct) spring diseases, sorrows and the like; whatever is donated and whatever japa is performed near (i. e, at the time of ) Visuva ( Mesa and Tula) sankrantis and at the ayana ( Makara and Karkata sankrāntis ) becomes inexhaustible; the same holds good about Viṣnupada and Şadaśīti-mukha'. 
 
@@ -99,7 +99,7 @@ Each of these twelve sankrāntis in the year is seven-fold (i. e. has seven diff
 
 
 
-(Sec. I, Ch. XI 
+
 
 cara, krūra, misrita. Vide note below 558 for the naksatras falling under these 7 groups. It is further provided that the ghatikās from two ( or three) to twelve said to be the holiest times (in note 555 above) are to be taken as respectively referring to the seven kinds of sankrānti i. e. two or three ghatikās is the holiest time in Mandā sankrānti, four ghatikās in Mandakini sankrānti and so on. It is laid down that Manda sankrānṭi is beneficial to brāhmaṇas, Mandākini to kṣatriyas, Dhvanksi to vaisyas, Ghora to Sudras, Mahodari to thieves, Rākṣasī brings success to vendors of liquor and Misritā increases the ( profit of the) avocations of Candalas, Pukkasas, of those whose business is of a terrible nature and of all craftsmen ( vide Hemādri on Kāla pp. 409-410 and Varsakriya-kaumudi p. 210 quoting Devipurāpa ). 
 
@@ -135,7 +135,7 @@ H. D. 28
 
 
 
-(Sec. I, Ch. XI 
+
 
 bath is not to be taken and a gift is not to be made at night. Parāśara 561 says 'a bath by day purified by the rays of the Sun is commended; bathing at night is not commended except on seeing an eclipse'. The Viṣnudharmasutra says the same. But several exceptions were recognized. The Bhavisyapurāṇa 562 provides one should not take a bath at night and particularly should not make a gift at night, but a bath and a gift may be made at night on proper occasions. A gift at night is commended in an eclipse, marriage, sankrānti, pilgrimage, on death, on the birth of a child and at (before sitting down for) hearing itihāsa (Mahābhārata)'. Gobhila563 provides 'people may bathe and make gifts at night in eclipses, sankrāntis, marriage, in distress (or death) and on the birth of a child and in yratas undertaken for a desired object'. A bath is therefore obligatory on every sankrānti and particularly in Makara-sankrānti. There are special recommendations about gifts in Hemādri on Kāla (pp. 414-419 ) which are taken by him from Viśvāmitra and which are borrowed by Nirnayasindhu (pp. 4-5), Samaya mayūkha (pp. 143-144) and others and which are as follows: gift of ram on Mesa, of cows on Vrṣabha, of clothes, food and drinks on Mithuna, of ghrtadhenu561 on Karkata, of a conveyance with some gold on Simha, of clothes and cows on Kanyā, of different kinds of grains and seeds on Tula, on Vrācika of clothes and houses, on Dhanus of clothes and conveyances, on Makara 
 
@@ -195,7 +195,7 @@ In modern times Makarasankrānti is more a social festival than a religious one.
 
 
 
-(Sec. I, Ch. XI 
+
 
 greet each other by giving articles from simpls sesame and jaggery to artistic sugared preparations of sesame coloured with saffron and go about saying 'take these sesame and jaggery and speak sweet words' (in Marathi). 
 
@@ -237,7 +237,7 @@ passage' or 'place.' But in the grhyasūtras the word 'udaga yana' in the sense 
 
 
 
-(Sec. 1, Ch. XI 
+
 
 Āśvalāyana-grhya 571 prescribes the auspicious times for certain domestic rites as follows: 'in the northward passage of the sun, in the bright half of a month and on an auspicious nakṣatra, caula ( child's tonsure ), upanayana, godāna and marriage may be celebrated; according to some teachers a marriage may be celebrated at all times ( not necessarily in northward passage of the sun &c.)'. But here no rāśi name appears. In Jaimini VI. 8. 23 it is provided that rites for gods are to be performed in the northward passage of the Sun, some day in the bright half of the month and on an auspicious day. As a matter of fact, none of the ancient Srauta, Gșhya or Dharmasūtras mentions any rāśis or prescribes any auspicious or inauspicious times concerned with rāśis but only times in relation to naksatras. Some people try to interpret the words 'susthe indau' (when the moon is well placed i. e. auspicious) in Yaj. I. 80 as referring to rāśis, but they forget or ignore the fact that the earliest extant com mentator of Yājñavalkya, Viśvarūpa, explains those words as referring to naksatras and not to rāśis. The subject about the introduction of rāśis will be briefly discussed in the next section on Kāla and Muhūrta. As udagayana had already been regarded for many centuries as an auspicious period, naturally Makarasankrānti from which the northward passage of the Sun starts became a very sacred day, when the rāśi system was introduced. Why so much importance was attached to sesame on this Makarasankrānti day it is difficult to say. Probably in view of the cold prevailing at the time of the beginning of uttarāyana an oily substance like sesame easily available and of great food value was selected. In any case the observances and festival of Makarasankrānti do not appear to be much older than the beginning of the Christian era. 
 
@@ -267,7 +267,7 @@ H. D. 29
 
 
 
-(Sec. I, Ch. XI 
+
 
 to a forest for hunting with his dog. He bagged no animal and bejng oppressed by hunger and thirst he remained awake the whole night on the bank of a tank in a thicket of trees. Under. neath a bilva tree there was a Sivalinga and in an effort to keen his body at ease he throw down loaves of the bilva tree which 
 
@@ -295,7 +295,7 @@ ___581. अस्यामुपवासः प्रधानम् । न �
 
 
 
-(Sec. I, Ch. XI 
+
 
 In the Kālanirṇaya 584 there is a lengthy discussion on the question whether the word 'Sivarātri' is used in a conventional sense ( viz. a particular tithi) or in an etymological sense (every night on which some observance relating to Siva is performed), or a metaphorical sense (viz. a vrata, though the word expresses a tithi) or a yogarūdha sense i. 8. etymological cum conventional like the word pankaja ( a lotus). The conclusion established is that the word Sivarātri is yogarūdha like the word pankaja ( lotus), which does spring from mud (so far the sense is etymological) but which is confined to only one thing viz. lotus (so far there is rūdhi or convention) and does not apply to a frog. 
 
@@ -331,7 +331,7 @@ The proper time for this vrata is night, since, as stated in the Skanda 589 'gob
 
 
 
-(Sec. I, Ch. XI 
+
 
 vrata should be one that covers that time. A man should perform this vrata on that tithi when the 14th covers the time before and after midnight.' 592 Hemādri also quotes a verse like this 'The 14th tithi called Sivarātri that covers pradosa should be accepted (for vrata); one should observe a fast on that tithi since there has to be a jāgara (in that vrata) at night.'593 
 
@@ -361,7 +361,7 @@ The Tithitattva (p. 127) adds some details which are interesting. The linga is t
 
 
 
-(Sec. I, Ch. XI 
+
 
 night. The Varsakriyākaumudi (p. 513) provides that in the 2nd, 3rd and 4th watches also the person undergoing vrata has to perform worship, arghya, japa and listening to stories (about Siya), to offer hymns of praise and make prostrations and at day-break he should pray for forgiveness with arghya water, If Māgha-kļśṇa 14th falls on a Sunday or Tuesday, that is most commendable for this vrata.5% 
 
@@ -397,7 +397,7 @@ H. D. 30
 
 
 
-(Sec. I, Ch. XI 
+
 
 IM 
 

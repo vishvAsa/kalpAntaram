@@ -37,7 +37,7 @@ T rat:1. Besides, some verses are described as a (armour), otbers as ni ( bolt f
 
 
 
-(Sec. I, Ch. IX 
+
 
 great demon Mahisāsura, and of the demons Canda and Munda, Sumbha and Niśumbha. The Kālikāpurāna, the Brhan-nandiko śvara-purāṇa397 and the Devipurāna also devote considerable space to Durgā and her pūjā. I have used, though not much, the English work on Durgā-pūjā by Pratapachandra Ghosh published so far back as 1871. My endeavour will be to give as briefly as possible an account of all the salient features of this great reli gious worship and festival from the Sanskrit texts themselves. 
 
@@ -73,7 +73,7 @@ __404. अतो म्लेच्छादीनां न शूद्वद�
 
 
 
-(Sec. I, Ch. IX 
+
 
 It is stated in the Skanda and Bhavisya 405 purānas that the worship of Candikā in autumn (Aśvina) is of a threefold character; viz. sāttviki, rājasi and tāması; the sāttviki worship is effected by japa, by offering naivedya in which there is no meat; and japa consists in reciting the texts of the purānas in which the greatness of Devi is described; rājass worship is effected by offering a bali and with naivedya which contains flesh; that is tāmasi worship which is effected by the offerings of wine and meat and from which japa is absent and which is without mantras; this last is approved among Kiratas (i. e. forest tribes and the like). Raghunandana adds 406 in his Prāyascitta tattva that the offering of wine in Durgāpūjā relates to ages other than the Kali age (i. e. other than the present age). 
 
@@ -139,7 +139,7 @@ ___415. कदली दाडिमी धान्यं हरिद्रा
 
 
 
-(Sec. 1, Ch. IX 
+
 
 throws them with two mantras and effects the driving away of goblins, evil spirits, raksasas, Vinayakas that cause obstacles, takes up an offering of boiled rice and mūṣa pulse and requests Kāli who is surrounded by goblins to accept that bali for protec tion against the evil spirits and prays her to confer upon him self all his objects in return for the offering of the bali. He then establishes the bundle of (the leaves and twigs) of nine plants tied together with Aparājitā creeper and the bilva branch. He worships the latter with 'salutation to the bilva branch' and honours Cāmundā on the bilva branch and the clay image with the words 'this is pādya (water for washing the feet), salutation to Cāmupdā' and addresses the bilva branch with the mantra quoted in n. 413 above. Then he utters the mantra 'O Cāmundā'l move, move, make others move, enter my house quickly and go to the place of worship, svāhā'. Then he establishes the ghata, worships the nine plants and five devatās, establishes the image on a seat and the bundle of nine plants to its right to the accompaniment of songs and instrumental music and places the bilva branch in a copper vessel near the (image of) Devi and performs the prana pratisthā 417 (vivifying or endowing with life) of the image of the Devi and of Ganeśa and other deities in the manner provided in the Durgārcanapaddhati (p. 666) and Tithitattva (pp. 77-78). Then he should, after taking in his hand husked rice-grains and flowers, contemplate upon the form of Devi. Then the Durgarcanapaddhati (pp. 666-667) quotes a long but finely worded passage from the Matsya; the corresponding passage from the Kālikāpurāna may be briefly rendered as follows: 418 
 
@@ -287,7 +287,7 @@ The Tithitattva (pp. 69-72), Nirnayasindhu and other works provide that in the N
 
 
 
-(Sec. I, Ch. IX 
+
 
 from the Vārāhi-tantra about the result of reciting Devimāhātmya several times. A few verses are cited for sample. “When some great danger threatens, one should recite (Devimāhātmya) seven times; if repeated twelve times one secures fulfilment of one's desires and the destruction of enmity; if repeated 14 times, an enemy would be subdued and a woman would be brought under one's control; repeating a hundred times results in increase of one's kingdom; if repeated a thousand times Lakṣmi comes to a man of her own accord. As Aśvamedha is the prince among sacrifices, as Hari (is superior) among gods, so the laud called Saptaśati is the highest among all lauds.443" The Tithitattva further provides that one should recite444 before the reading of the 'prathamacarita' the rṣi (sage), the metre &c. of it and also when repeating the Madhyamacarita and the Utlaracarita. Very great importance was attached in ancient and medieval times to the recitation of mantras and even modern men brought up in English'schools, colleges and Universities often implicitly believe in their efficacy, even if one may not understand their meaning. The qualities of the sounds of mantras or of parts of mantrag ( such as ‘hrim') and their potentialities, the various devices employed when using them are deemed of far greater importance than the meaning. The Gītā (X. 25) itself puts Japa-yajña as the highest among yajñas such as those of dravya (materials or money), tapoyajña (Gītā IV. 28). Mantras are supposed to have B tremendous effect on the sub-conscious mind and it may perhaps bo so if one concentrates one's mind thereon to the exclusion of all else. A person could himself recite the Saptaśatī or engage a porson to read it to him who was called yāthaka or tācaka as in T. T. p. 72, Durgārcana. p. 661. Some very orthodox writers went 30 far as to lay down that a sūdra could only listen to the Mahābharata or Saptasati but could not read it himself. Raghu Dandana 445 like Kamalakara appears to have held this view. One 
 
@@ -319,7 +319,7 @@ p a ra li fot. *. p. 99. +47. भटनर्तकसबैश्च धेश�
 
 
 
-(Sec. 1, Ch. IX 
+
 
 (jāgara ). It appears that in the Devi and Kālikā purānas it is provided that even on the 8th at midnight an animal such as a goat or he-buffalo should be sacrificed and that on the 9th tithi many balis were to be sacrificed. When the Sun is in the sign of Kanya (Virgin or Virgo) and in the month of Isa (Āśvina ) one should offer pūjā on the 9th tithi of the bright half; one should observe a fast (on that tithi) and at midnight should begin pūjā of Devi with great expenditure and parapher nalia when the naksatra is Mūla or Purvāsādhā; an animal should be killed and a he-buffalo and a goat should be sacrificed'.448 
 
@@ -353,7 +353,7 @@ giving daksina is given in the note.45A_If no daksina be paid, the whole rite be
 
 
 
-(Sec. I, Ch. IX 
+
 
 procession visits other houses and the parties return the visits to each other by turns and wish happiness and good luck to each other and offer sweets. Rājanītiprakāśa (pp. 439–444) quotes a long passage from the Devi-purāṇa about the worship of Devi on 9th of Asv. śu. 
 
@@ -397,7 +397,7 @@ H. D. 23
 
 
 
-(Sec. I, Ch. IX 
+
 
 the right side and of Sarasvati and Kartikeya on the left457. Raghunandana does not make much of these additional deities, though he speaks of the prānapratisthā of Ganesa and others. On p. 146 of 'Cave temples of India' by Fergusson and Burgess reference is made to a tableau at Mahavalli-puram of the strife between Mahisā sura and Devi ( with eight arms), which the learned authors assign to the period 650-700 A. D. The image may be made of gold or silver, clay, metal, stone or there may only be a picture of Devī. For Durgāpūjā it is not absolutely necessary that there should be an image. Davi may be wor shipped458 in a linga, on an altar or in a book, in her pādukās ( wooden or stone feet), in imo ce, in a picture or a trident or sword or in water. Some of the purāṇas like Garuda and Bhavisya459 state that on the '/th or 8th tithi nine wooden houses or only one with four corners may be constructed, that in the midst of it a platform or altar of four cubits in length and breadth should be made on which a throne of silk, woollen cloth and deer-skin should be prepared, whereon Durgā ( image ) made of gold, silver, clay or wood was to be established having four or ten arms, possessing a complexion like heated gold, three eyes and the moon as a head ornament. 
 
@@ -429,7 +429,7 @@ ___463. एकाहेपि च यो दुर्गा पञ्चगव�
 
 
 
-(Sec. I, Ch. IX 
+
 
 a day bathes Candikā with pañcagavya to the accompaniment of Candigāyatri goes near Viṣnu. If the image is made of some material (like clay) that cannot bear a water bath, the bright sword placed near Devi's image may be bathed or a mirror, as stated by the Kālikāpurāṇa. The other three out of the four principal items in Durgāpūjā have been dealt with above. Out of the four, pūjā is the most important and a fast is only an anga (ancillary matter). 
 
@@ -459,7 +459,7 @@ saprta i rataciret par gauta hone. The ora on raf refers to the 9th tithi of the
 
 
 
-(Sec. I, Ch. IX 
+
 
 rewards.' The second rule was that tithi was superior 169 and therefore even if the naksatra did not exist on the tithi specified, one should follow the tithi laid down for the several items in Durgāpūjā. Devala and Lalla 70 laid this down, 
 

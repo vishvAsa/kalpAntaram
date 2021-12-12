@@ -31,7 +31,7 @@ word. One cannot agree with him in all that he says. For example, he appears to 
 
 
 
-(Sec. II, Ch. XIX 
+
 
 longest account of Manvantaras), and by astronomical writers and works such as Aryabhata, Sūryasiddhānta, Brahmagupta, Siddhantaśiromani. None of these works enables us to furnish a satisfactory explanation about the rise of this system of Kalpas, Manyantaras and Yugas. Pargiter (in AIHT p.175 ) thinks that the division into four ages had a historical basis. That may or may not be so. But what historical explanation can be offered about manvantaras and kalpas is not stated anywhere. The theory of yugas concerned only Bhāratavarṣa as stated in several Purāṇas. All these works contain the same general features but there are many divergences in details. As the Manusmrti contains one of the oldest accounts, a summary of its remarks will be first set out. First, seven Manus are enume rated viz. Svāyambhuva, Svārociṣa, Uttama, Tāmasa, Raivata, Cāksuṣa and Vaivasvata. Then divisions of time from nimesa are specified ( 18 nimesa = Kāṣthā, 30 Kāṣthās = Kalā, 30 Kalās = Muhurta, 30 Muhūrtas = ahorātra ); it is then said that the human month is the day and night of putts, the human year is divine ahorālra. Krta-yuga extends over 4000 1082 years, sandhyā (twilight ) before it is 400 years, sandhyāmsa after it is 400 years. The three other yugas Tretā, Dvāpara and Kali have respectively 3000, 2000, 1000 years and sandhyās and sandhyā. mśas together of respectively 600, 400 and 200 years. The four yugas thus come to 12000 years ( 4300 plus 3600 plus 2400 plus 1200 ); this is called the yuga of gods (i. e. this is the divya measure ) and 1000 of these four come to one day of Brahmā and the same is the extent of the night of Brahmā. Seventy-one yugas of 12000 divine years each constitute a manyantara and Manu (I. 80) winds up by saying that manvantaras are numberless 1083 and so are creations and dissolutions. It should 
 
@@ -65,7 +65,7 @@ TIL
 
 
 
-(Sec. II, Ch. XIX 
+
 
 of L'Ecole Francaise D'Extreme-Orient, Tome XLIV, Fas, 2, pp. 538-546 ) that the number of years in Kaliyuga ( 432000) was suggested by these figures in the Satapatha, that the high figures in the ancient Indian literature are scientific and not astrological, and that in the opinion of Heraclitus 10800 ordinary human years were equal to one' great year', that Berossus held that a great astronomical period was of 432000 years and that as the Satapatha-brāhmana is far more ancient than both Heraclitus and Berossus, the borrowing, if it exists, must have been by the Greeks from India. Vide . Ancient relations between Indian and foreign astronomical systems' by Dr. J. Filliozat in JOR, Madras, vol. XXV ( for 1957 ) pp. 1-8; also Prof. Zinner (in 'Stars above us' p. 59 ) for theories about the age of the world held by Plato and Berossus. One day of Brahmā is equal to a Kalpa i. e. 4320000 x 1000 i. e. 432,000,000,0. In order 1085 to find out the humanı years of the one hundred years of Brahma's life we shall have to multiply 32,000,0000 by 2, then by 360 and then by 100. That is, the day and night of Brahma come to 8640000000 human years; the year of Brahmā would then be equal to 3110400000000 human years ( taking 360 days as a year); one hundred years of Brahmā thus come to 311040000000000 years. Alberuni ( Sachau, vol. I p. 332 ) also mentions this colossal figure about the life of Brahmā. Somo said that the extent of Brahma's life was 108 years. Brahmā is said to have already lived 50 years and it is the second half of his life that is running and at present it is the Vārāba 1086 Kalpa and Vaivasvata-manvantara 1087 (7 th ) that 
 
@@ -97,7 +97,7 @@ are going on. The past six Manus are Svāyambhuva, Svārocisa, Uttama, Tāmasa, 
 
 
 
-(Sec. II, Ch. XIX 
+
 
 except this that 12000 years are called Yuga 1089 simply and not caturyuga (as in Manu I. 71 ). The Markandeya has a long story about Svārocisa in chapters 58-65, devotes to Uttama chap. 66-70, chapter 71 to Tāmasa, chap. 72 to Raivata, chap. 73 to Caksusa, chap. 74-76 to Vaivasvata, chap. 77 to Savarni, chap. 78-90 to Devi, chap. 91-95 to Raucya or Ruci, chap. 96-97 to Bhautya. The word 'Vaivasvata '(son of Vivasvat, the Sun) is applied to Yama in several passages of the Rgveda (X. 14. 1, X. 58. 1, X. 60. 10, X. 164.2). The Anukramani, however, ascribes Rg. VIII. 27-31 to Vaivasvata Manu as the rsi and in one of the Valakhilya hymns (Rg. X. 52. 1) occurs the following verse 'O Indra! just as you drank the soma extracted in (the sacrifice of) Manu Vivasvat, just as you frequently accept the hymn of praise in ( sacrifice of) Trita, so may you simultaneously delight in ( the soma and praise) of Ayu.' 1023 It may be noted that the Manusmrti names only the seven Manus ( I. 61-63) and states that each Manu during his own time (which extended over thousands of years ) created the movable and iramovable world and protected it, that Manvantaras are numberless ( Manusmrti I. 80) and that the Great God (Paramesthin) brought about the creation and destruction of the world during the Manvantaras. Some of the Puranas such as Matsya (9. 37-39, 142. 40, 144. 97-98), Vayu (59. 34), Agni (150.21), Visnu ( I. 3 and VI. 3) state 1090a that Manu and the seven sages in each Manvantara (i. e. where there is a change of Manu) who are the sistas that then exist are devoted to dharma, being ordered by Brahmā for the purpose of continuing the worlds, declare the truth and promulgate the Vedas. Some modern 
 
@@ -125,7 +125,7 @@ In the purānas pralaya is said to be of four sorts, 1091 viz. nilya ( the every
 
 History of Dharmaśāstru 
 
-(Sec. II, Ch. XIX 
+
 
 ( when a day of Brahmā ends, then there is a dissolution of the world), prākrtika ( when everything dissolves itself into prakrti, primordial substance) and ātyantika pralaya is Mikșa (liberation of the soul due to correct knowledge of Reality and absorption into the Supreme Spirit ). Harrowing descriptions of the naimittika and prākṛtika pralayas are given in several purānas. A lengthy description of the naimittika dissolution is contained in Kūrma II. 45. 11-59 of which a brief summary is given here. When the one thousand Caturyugas end, there is the absence of rain for a hundred years; the result is that living beings perish and are reduc ed to earth; the sun's rays become unbearable, and even the ocean is dried up; the earth is burnt by the fierce heat of the sun together with its mountains, forests and continents. As the sun's rays fall burning up everything, the whole world presents the appearance of one huge fire. Fire burns everything whether mobile or immoveable. The animals in the big seas come out and are reduced to ashes. Then the samyartaka fire growing by the force of the wind burns the whole earth and its flames rise up to a height of thousands of yojanas and the flames burn up gandharras, goblins, yakṣas, serpents and rākṣasas and not only the earth but the worlds called 'bhuvaḥ' and 'mahaḥ' are burnt; then huge sasvartaka clouds resembling herds of elephants, lit up by lightning, rise in the sky, some looking like blue lotuses, some yellowish, some having the colour of smoke, some like sealing wax and fill the whole sky and then extinguish the fires by sending down heavy showers. When the fires are extingu ished, the clouds of destruction cover the whole world with floods; mountains are concealed and the earth is plunged in waters and all becomes onle ocean of water and then god Brahmā resorts to Yogic sleep. Vanaparva ( chap. 273. 32-48) also contains a brief description of nainittika pralaya. 
 
@@ -153,7 +153,7 @@ The theory of yugas, manyantaras and kalpas with their fabulous numbers of years
 
 
 
-(Sec. II, Ch. XIX 
+
 
 construct a perfect society. These ideas are at the bottom of what Manu 1093 and others say Tapas was the highest goal (deemed to yield great results ) in Kitayuga, knowledge (of the self) was the highest in Tretā, yajña (sacrifices to God) in Dvāpara, charity alone in Kali'. This further implies that there are different impelling motives in different ages and modern men should not assess the actions and ideals of past ages by the same yardstick that is applied to contemporary actions and ideals. It is im plicit in the words of Manu (XI.301 ) that the four ages are not water-tight specific periods of time, but that the Ruler or Govern ment can produce conditions of Kṭta age in what is popularly called Kali by appropriate conduct or measures and Medhātithi expressly says so. 109a Prof. Mankad has a novel theory in a paper on the manvantaras in I. H. Q. vol XVIII, pp. 208–230, where he states that the Caturyuga formula took 40 years for a ruling unit and not for one king's regnal period and that the manvantara was the regular method of calculating regnal periods of different kings in a dynasty (p. 237 ). Hardly any scholar has accepted this theory and for reasons of space and relevance, it is not possible to discuss it here. 
 
@@ -205,7 +205,7 @@ HILE
 
 १ 
 
-(Sec. II, Ch. XIX 
+
 
 . 
 
@@ -261,7 +261,7 @@ Hindu Arabic Dumerals' by W. E, Clark, pp. 217-236 in Laoman Preseo tation volum
 
 
 
-(Sec. II, Ch. XIX 
+
 
 tions of man. There is a good deal of literature on this subject which is passed over here as not material for our purpose. One of the latest works on this system is · From Zero to Infinity' by Constance Reid (Routledge and Kegan Paul, London, 1956). Zero is the first of ten symbols with which one can represent an infinitude of numbers and it is also the first of the numbers. This work says that the zero escaped even the greatest Greeks, Pythagoras, Euclid and Archimedes (p. 4). The Egyptians 1102 had a decimal system of numerals but no sign for zero and therefore no positional notation, which even the Greeks did not know; ancient Babylonians also had no definite symbol for zero and there is no example of zero signs at the end of numbers even in their latest astronomical writings. It is difficult to say when exactly a symbol or word for zero was employed in India. But it must nave been several centuries before the beginning of the Christian era. Pingala's work on metres is a terlūnga. Pingala's sūtra on metres makes use of zero (śūnya ) in VIII. 28-31. Even the Satapatha Br. (XI. 4. 3 20) seems to be aware of Vedāngas. But it may be argued that there is nothing to show that Piogala's work was known to it. It is most probably 
 
@@ -351,7 +351,7 @@ Shastri, Allababad (1931 ).
 
 
 
-(Sec. II, Ch. XIX 
+
 
 and in Brhat-sambitā 8. 20 and by all later astronomical writers. 1109 The particular matter to be noted is that the first word in a group ( denoting a number ) is to be assigned to the units place, the next to its left in the tens place, so that a word like 'saptāśvi-veda-sankhyam' becomes 4:7 (by the rule 'ankānām vāmato gatih'). 
 
@@ -441,7 +441,7 @@ ___1120. हस्तो रवी शशधरे च सूगोत्तम�
 
 
 
-(Sec. II, Ch. XIX 
+
 
 14th tithi of dark half occurs Sakuni: Catuspada and Nāga occupy the two halves of amāvāsyā and Kimstughna occurs on the first half of Pratipad i. e, if the 30 tithis of an aminta month are divided into 60 halves, Sakuni, Catuspada and Nāga occupy the 58th, 59th and 60th parts and Kimstughna occupies the first half of the pratipad of the next month. Bava occupies the second half of śukla pratipad and the others follow one after another and as they are only seven they are repeated eight times in a month from the 2nd half of pratipad to the first half of the 14th tithi of a dark half, which would be 57th of the sixty halves of the tithis of the month and would be occupied by Visti. In the pancāngas, two karanas should properly be shown under each tithi, but in pañcāngas only that Karaṇa is shown against a tithi whose ending moment is 30 ghatikās or less from sunrise. The ending times of Karanas which are assigned to the 2nd halves of tithis coincide with those of the tithis themselves and therefore there is no need for their calculation. The ending times of the first halves of tithis which correspond to certain Karanas are got in the manner described by Pillai in his Indian Ephemeris', vol. I. part 1 p. 37, paragraphs 106-107. 
 
@@ -513,7 +513,7 @@ I
 
 
 
-(Sec. II, Ch. XIX 
+
 
 1 
 
@@ -537,7 +537,7 @@ In November 1952 the Government of India appointed a committee called the Calend
 
 
 
-(Sec. II, Ch. XIX 
+
 
 committee submitted a very exhaustive and valuable report in November 1955. The final recommendations of the Committee for a civil calendar and for a religious calendar are set out on pp. 6-8 of the report. They are deserving of the most serious consideration by all who feel that religious observances must be done at the proper time and that now at least in independent India there should not only be one uniform civil calendar, but also one uniform Hindu religious calendar. 1129 It appears that unless Government makes great efforts for the introduction of a correct calendar even for religious purposes, it would be futile to assume that common people will spontaneously adopt a correct pancānga. 
 
@@ -643,7 +643,7 @@ One can only express the hope that the above mentioned recommendations of the Co
 
 
 
-(Sec. II, Ch. XIX 
+
 
 by issuing a Press Note on 23rd October 1956 which decided that the Uniform National Calendar should be adopted with effect from March 22, 1957 corresponding to (Solar) Chaitra 1, 1879, Saka Era, for certain official purposes in conjunction with the Gregorian Calendar and laid down the steps to be taken by the Central Government and the States Governments for imple menting the decision. To avoid misunderstandings and to encou 
 

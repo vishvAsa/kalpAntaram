@@ -53,7 +53,7 @@ Instead of the gay and saturnalia-like practices prevalent in many parts of Indi
 
 
 
-(Sec. I, Ch. XII 
+
 
 Dolayātrā-viveka.617 The festival should be carried on for five or three days. Before the Full moon of Phālguna, on the 14th at the beginning of night an utsava in honour of Agni is to be celebrated to the east of the mandapa. Then an image of Govinda is to be made, it is established in a structure with 16 pillars on a vedikā (raised platform) and it is to be bathed with pañcāmsta and various items of worship are to be offered and seven times the swing on which the image is placed has to be rocked to and fro. Fire kindled on the first day is to be preserved till the days of the festival end. At the end the swing is to be rocked 21 times. It is narrated that king Indradyumna started this swing festival in Vṛndāvana. By means of this utsava a man becomes free from all sins. Then Sūlapāṇi discusses at some length the exact tithi, prahara and naksatra on which the Dolayātrā is to be performed. Briefly, the conclusion is that Dolayātrā must be performed when the Full Moon tithi is runn ing, whether there is Uttarā-phalgunl-naksatra or not.618 
 
@@ -87,7 +87,7 @@ TEETH.
 
 
 
-(Sec. I, Ch. XII 
+
 
 (24.3) that the Atris performed the Saptadaśa-stoma three days before Visuvat and thereby smote the demon Svarbhānu that had pierced the sun with darkness i. e. the solar eclipse (in Rg. V. 40.5 ff.) took place three days before the autumnal Visuvat (equinox). 
 
@@ -121,7 +121,7 @@ ___627. सर्व गङ्गासमं तोयं सर्वे व�
 
 
 
-(Sec. I, Ch. XII 
+
 
 eclipse began, to perform homa, worship of gods and śrāddha while the eclipse was in progress, to make gifts when the eclipse was about to end, and to take a bath again when the sun or moon became free from eclipse. Even a person who is impure owing to a birth or death has to take a bath on an eclipse but he is not to make a gift or to perform śrāddha (according to Gauda writers), but the Madanaratna and the Nirnayasindhu refute this view and hold that in an eclipse even one who is in āśauca can take a bath, perform śrāddha and purascarana.629 In the purānas and medieval digests some distinction as regards merit or holiness was made between eclipses in certain months and baths in certain rivers or holy places. The Kālanirnaya (p. 350 ) especially commends the Godāvari for a bath in a lunar eclipse and one in the Narmadā for a solar eclipse. The Krtyakalpataru (Naijata kāla), Hemādri on Kala and the Kālaviveka quote 630 a long passage from the Devipurāna, some verses of which may be rendered here: 'an eclipse in Kārtika is the highest (in merit) at the confluence of the Gangā and Yamunā, in Mārgasirsa on Dovikā, in Pausa Narmadā is holy, in Māgha Sannihitā is holy' &c. On the occasion of the partial eclipse of the sun on 20th June 1955 about four hundred thousand people took a bath at Kuruksetra and Sanyahet (Sannihitā of ancient times). 
 
@@ -147,7 +147,7 @@ ___634. महाभारते। अयने विषुवे चैव �
 
 
 
-(Sec. 1, Ch. XII 
+
 
 738 Māgha pūrnimā, E. I. vol. I. p. 338 Pātnā Inscription of the time of Yādava Singhana in śake 1128 (rather 1129 ), 9th August (1209 A. D.) Srāvanapūrṇimā for endowing a college (matha ) to teach Bhāskarācārya's astronomical works; I. A. vol. 8 p. 96 grant of a village to 31 brāhmanas on Full Moon day of Mahāmāgha ( Şomagrahane ) in the first half of 7th century A. D. by Pulikesī; E. I. vol. XIX. p. 41, E. I. vol. XX. p. 725 (of Vikrama 1108), C. I. I. IV. No. 13, 25, 31 for grants on solai eclipses and No. 21 on lunar eclipse. Even now poor people create a pandemonium in towns and cities clamouring for clothes and cash. 
 
@@ -185,7 +185,7 @@ Tāhudarśane' occurring in several verses (quoted in the notes, 633, 639 &c.). 
 
 
 
-(Sec. I, Ch. XII 
+
 
 therefore when the sun or moon is screened from view by clouds one need not enter upon a bath and the like prescribed in the case of an eclipse.640 Hemādri on Kāla quotes this view and criticizes it in several ways. He first relies on Manu IV. 37 that prescribes that one should never see the sun when it is rising or setting or when it is eclipsed or is reflected in water or when it is in mid-sky. If actual seeing were necessary, that is an impossible condition as Manu has prohibited it and the result would be that one need not bathe when an eclipse is really on. He further says that sistas do observe bath &c. even if they do not actually see the eclipse. Therefore, he proposes that punyakāla exists so long as the eclipse is deduced to last from the śāstra ( of astronomy). The Krtyaratnākara 611 (pp. 625–26 ) discusses the question, remarks that snāna and the other prescribed actions should be performed during that period in which the eclipse can be seen. It was argued by some that an eclipse by itself (and not seeing it) is the occasion on which bath, gift &c. must be observed; to this the Kālaviveka 612 gave the reply that, if mere existence of an eclipse were an occasion for bath, then the unacceptable con clusion would be that even if the moon were to be eclipsed (in some other country) according to astronomical calculations a person in a different country would have to undergo a bath by day for a lunar eclipse in a distant land. The Smrti kaustubha and Samayaprakāśa 643 therefore lay down that what is meant by 'darśana-gocarah' is that when one knows from the astronomical science that the eclipse is capable of being seen with the eye in a particular country one should at the respective times perform bath and the like (even though one may not actually see it). The Samvatsara-pradīpa is quite explicit 'that is said to be an eclipse which can be observed by the eye; one 
 
@@ -225,7 +225,7 @@ H. D. 32
 
 
 
-(Sec. I, Ch. XII 
+
 
 It was further prescribed that not only was one not to eat during an eclipse, but in the case of a lunar eclipse one was not to eat for three praharas (9 hours or 221 ghatikās) before the eclipse started and for four praharas before a solar eclipse starts, but this does not apply to children, old men and women.618 This period of three or four praharas before an eclipse was called and even now is called 'vedha'. The Krtyatattva (p. 434) collects together in one place all the above propositions about taking food. Although these rules are not generally observed in these days by people in cities and by educated people, in the author's boyhood they were strictly observed by almost all adults educated or illiterate. 
 

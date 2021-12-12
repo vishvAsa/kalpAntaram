@@ -59,7 +59,7 @@ FC404 Penyata a n te ga i F. A. p. 13. The Lig. p. 57 combats this view. The s. 
 
 
 
-(Sec. 1, Ch. IV 
+
 
 be done in the pure month. The 213 Dharmasindhu makes a difference by saying that the ceremonial bath with oil should be taken on the occasion of the commencement of the new year and repeating the name of the new year should be done on the first day of the intercalary month, but the raising of the pole, eating of nimba leaves, listen ing to the recital of the almanac should be done in the pure month. In popular belief caitra-śuddhapratipad is one of the 34 most important muhurtas (auspicious days) of the year. The Sāmrājya-laksmīpithika (pp. 128-133) gives a very elaborato description of the great festival on caitra-buddha first performed by a king or a chieftain or a zamindar owning several villages. 
 
@@ -83,7 +83,7 @@ isur : FARHAT: 9ga \# PREPAISAI q. by. (vol. I. 942). नि. सि. p. 84; व
 
 
 
-(Sec. I, Ch. IV 
+
 
 kāmya. The conclusion of many works (like the Nirṇayasindhu and the Tithitattva) is that this vrata is both kāmya and nitya according to the Mimāṁsā maxim of 'samyogaprthaktva '217 (Jai. IV. 3.5-7). In the section on 'Agnihotra' the Veda says 'he makes an offering of curds in the fire'; there is another sentence in the same, viz. 'one who desires bodily vigour should make an offering of curds in the fire'. The meaning is that curds being separately mentioned in two different sentences which are both independent, homa with dadhi is both nitya and kāmya. 
 
@@ -107,7 +107,7 @@ he should make a sankalpa 'On the Ramanavami I shall observe a fast for the whol
 
 
 
-(Sec. I, Ch. IV 
+
 
 Kuruksetra on a solar eclipse. Hemādri is comparatively brief, but the Tithitattva (pp. 61-62), Nirnayasindhu (p. 85), Vratārka add further details from Agastyasamhitā. They say that images of Bharata and Satrughna (by the side of Rāma image) and of Laksmana with a bow in his hand and of Dasaratha (to the right) and of Kausalyā should also be made and worshipped with appropriate Paurānika mantras (the one for Kausalyā is quoted in the note )22 The Rāmārcanacandrikā adds further details about the worship of ten and five ūvaranas to which even tho Nirnayasindhu refers by name alone. 
 
@@ -141,7 +141,7 @@ i Malta ATH: TUTT ATT HET 30. 2-3 and 19. Vide H. of Dh. vol. IV. p. 374 and not
 
 
 
-(Sec. I, Ch. IV 
+
 
 (watch) of the night ('gūryāstottaram trimuhūrtaḥ pradosaḥ' Dharmasindhu p. 9). It is stated in the Skanda 225 and Bhavisya purāṇas that Viṣnu was born from Renuki on the third of the bright half of Vaiśākha when the naksatra was Punarvasu and in the first watch of the night and when six planets were ucca (in exaltation) and Rāhu was in the zodiacal sign Mithuna (Gemini). The image of Paražurāma is to be worshipped and arghya is to be offered to it with the mantra quoted below.226 If the third tithi is suddhā (i. e. not mixed with another tithi) the vrata (i. e. fast) is to be performed that day; but if on two days there is third tithi in the evening first watch even partially, then the later one is to be the day of the fast; otherwise (if the third is viddhi, but does not extend up to the first watch of the night) the fast should be observed on the first of the two days. There are some temples erected in honour of Parasurama, particularly in the Konkana such as the one near Chiplun in which Paraśurāma jayanti is celebrated with great ceremony. Vide N. S. p. 95, Sm. K. p. 112, P. C. 89 for further details. H. V. I. p. 117 gives directions as to the image or painting of Paraśurāma. But Paraśurāma-jayanti is not observed in several parts of India (such as Saurāṣtra), though observed in South India. 
 

@@ -65,7 +65,7 @@ In the case of the king the procedure described by Hemādri (on vrata vol. I. pp
 
 
 
-(Sec. 1, Ch. X 
+
 
 late medieval works add some verses about Sami and other details.492 “Sami destroys sin, Sami has reddish thorns, it held (concealed) the arrows of Arjuna and it appealed lovingly to Rāma. O Sami worshipped by Rāma! May you rernove obstacles on the march that I am to undertake according to my convenience and ease'. If a Sami tree is not available, then the aśmantaka tree 493 should be worshipped with a mantra (given in note below). Taking up a little wet clay from the root of the sami tres together with akṣatas one should bring it to one's house to the accompaniment of songs and loud instrumental music; then the person should wear new apparel and ornaments along with his relatives and lights should be waved before him as an auspicious rite by chaste young women.494 
 
@@ -127,7 +127,7 @@ M ay Hala ! Hem q. by . F. p. 197, 07. .R. D. 315, atce p. 563.
 
 
 
-(Sec. I, Ch. X 
+
 
 13th outside the house in honour of Yama in order to avoid accidental death.500 
 
@@ -169,7 +169,7 @@ TITTATYT5 : I g. t. p. 241; vide F I p. 104 for the same.
 
 
 
-(Sec. I, Ch. X 
+
 
 and he raised the status of these unfortunate women by marry ing them all. 
 
@@ -239,7 +239,7 @@ yataaaltea ieri serta fagtiget allas q. by Huara p. 453, a Fh. 201. In the Falgu
 
 
 
-(Sec. I, Ch. X 
+
 
 on this day become inexhaustible and bring delight to Visnu. The Krtyatattva (p. 453) provides that three añjalis of flowers should be offered to Bali. The Bhavisyottara adds 'this tithi increases the dominion of Bali; baths and gifts made on this tithi in Kārtika yield a hundredfold reward.' 
 
@@ -311,7 +311,7 @@ ETTE: 51879: 1 AITI HEGE fro: FUTET UT FETI. The same occurin T VI. 124.44-45. A
 
 
 
-(Sec. I, Ch. X: 
+
 
 way underneath the rope. In the same way a strong rope of kāśas or the like should be made and a tug of war should ensue, the rope being frequently pulled on one side by the princes and on the other by persons of lower castse. The pulling of the rope should be done in front of a temple or the palace or where four roads meet and an equal number of strong men should be selected for each side. A line should be drawn behind each side. If the persons of lower castes succeed in drawing the other side towards them then it should be held that the king will be victorious thereafter for one year.530 The Nirājana ceremony by women should be performed in the morning (if the pratipad is mixed with dvitiyā) and the Mangalamālikā (a series of ausp icious rites or auspicious garlands) should be performed in the evening on the 2nd tithi ( if pratipad exists only for a short time and is followed by dvitiyā). 531 
 
@@ -339,7 +339,7 @@ On the 2nd of the bright half of Kārtika occurs a very fine festival called Bhr
 
 
 
-(Sec. I, Ch. X 
+
 
 take at mid-day a bath with scented water and unguents rubbed on his body; she along with the brother should worship Yama and Yamunā with arghya and offer handfuls of flowers. The arghya mantra is535 'Come, come, O Yama, son of the Sun; you that carry in your hand a ṇoose; accept this worship offered on Bhrātsdyitiyā and also arghya; salutation to you l' Then two more mantras may be addressed. 536 'O Dharmarāja, salutation to you, the elder brother of Yamunā; O son of the Sun, protect me along with your servants; salutation to you. Salutation to you, O Yamunā, sister of Yama and honoured by people; always confer on me favours, O daughter of the Sun, salutation to you!' After this she serves food to her brother with the verse ‘Brother I was born after you; partake of this pure food for pleasing Yama, particularly Yamunā'. If the sister be older than the brother she should say 'I was born before you'. Then after the brother finishes his meal she should deck him with sandalwood paste and then herself partake of the food. Some works like the Vratarāja (pp. 78-91) present a far more elaborate procedure, which is passed over here but two matters provided for by it may be mentioned. The first is that a person before going to his sister's house should mutter ten names of Yama (quoted in note 537). The second is that the sister is to worship images of Yama and of eight mythological personages (Mārkandeya, Bali and others) supposed to be immortal for the increase of her brother's life. 538 In modern times hardly any religious cere mony is performed except that residents of places near or on the banks of the Yamunā river (Jumna) bathe in the Jumna and there is a mela on the river on this day. The only thing generally done is the brother's visiting his sister, dining at her house, light being waved before him and his making some presents to the sister. 
 
@@ -369,7 +369,7 @@ H. D. 27
 
 
 
-(Sec. I, Ch. X 
+
 
 and that union between brother and sister was not unknown as Rgveda X, 10 about Yama and Yami shows. One suspects the motives of a writer like Pargiter who held high judicial office in India, when he does not explain why 'pitrkanyā' was used and not'svasr', when he pays no heed to the fact that in many places in Vāyu ( 72. 5, 73. 1-2, 26, 36, 40, 45, 77.74) Menā, Acchodā, Pivari, Gauḥ, Yasodā, Virajā herself, Narmadā and Gandhakalı are spoken of as 'pitrṇām mānasi kanyā', that Vāyu (72), Matsya (13.2-9) and other Purānas speak of seven groups of pitrs and set out how from the mind-born daughters of pitrs several scions were born. Virajā (described as pitṣkanyā in Vayu 93. 12 which Pargiter naively renders as father's daughter i. e. sister) is spoken of in the same Purāṇa (Vāyu 73. 45 ) as the 'mind-born daughter' of these. ( i. e. of Pitrs ) in the plural and not as of the father'. Writers like Pargiter sometimes create more riddles by their so-called research than they can be said to have solved. 
 

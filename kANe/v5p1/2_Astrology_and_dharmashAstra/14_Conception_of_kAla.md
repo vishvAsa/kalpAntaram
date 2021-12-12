@@ -33,7 +33,7 @@ ET अजनयरपुरा। कालाहचः समभवग्यज
 
 
 
-(Sec. II, Ch. XIV 
+
 
 plentiful seed (power); the wise poets mount him (as one mounts a chariot); all worlds are his wheels (53.1); he ( Kāla) himself brought together the worlds and he himself went round (all) worlds together; being the father, he became the son of them (worlds ); there is indeed no other brilliance that is higher (or beyond) him (53.4); in Time is mind, in Time is breath; in Time is placed name; all these beings are glad by time when it arrives (53.7); Time created beings; in the beginning Kāla (created) Prajāpati; the self-existent Kaśyapa sprang from Kāla and (so did) tapus spring from Kāla (53. 10); Kāla, the son, created past and the future, from Time arose the rk (verses) and the yojus ( sacrificial formulas) were born from time (54, 3); this world and the highest world, holy worlds and holy vidhrtis having completely conquered these worlds by the brahinan Time goes on (abides) as the highest god' (54. 5). 
 
@@ -143,7 +143,7 @@ The Nyāyamañjart 666 of Jayantabhatta (K. S. S. 1936 ) has a long discussion o
 
 
 
-(Sec. II, Ch. XIV 
+
 
 the ideas of quickness or slowness depend merely on the observed effects. The same theorists raise the further objection that if Kāla is a dravya (substance) that is all-pervading and per manent, as the Vai eṣikas assert, then how is it that Kāla is spoken of as past, present and future. To these objections some reply: Kāla is directly perceived, since it appears to the mind as distinguishing the various perceptions of effects, that the soveral experiences such as these matters happened simultan eously, this happened after long, this happened quickly' cannot be perfectly explained if one denies the existence of Kāla and holds that these experiences depend solely on the perceived objects or actions. Others hold that Kāla is really inferred and not directly perceived. They argue: merely because Kāla is not directly perceived it does not follow that it does not exist; to infer that Kāla exists is proper as it is proper to infer that the other side of the moon exists though we see only that face of the moon that is below the earth; therefore Kāla exists as a separate entity to which is due the common experience of simul taneity, quickness or slowness &c. The differing observations about persons being young or old cannot be well explained with out admitting the existence of Kāla, which like ākāśa is one, all-pervading and permanent. To the objection how, if Kāla is one, all pervading and nitya, it is spoken of as having three divisions, the reply is: in reality there are no divisions in Kāla, but divisions are imagined in Kāla on account of the upādhi (a limiting or restrictive adjunct ) viz. kriyā (activity ). When we speak of a man as cooking rice in the present (odanam pacati ), that is due to the distinguishing nature of the result (boiled rice) which is brought about by several activities ( kriyās ) beginning with the placing of the cooking pot on the fire up to its being taken down on the ground. Then we use the word present'. But when we bear in mind the series of activi ties that produced the boiled rice we use the expression "he cooked' ( in the past tense ) for the activities that have ended. In this way we speak of time also as past on account of the dis tinguishing characteristic of the activities that have ended. 
 
@@ -171,7 +171,7 @@ Yogins who know (the real nature of ) time. For, two ksanas cannot exist togethe
 
 
 
-(Sec. II, Ch. XIV 
+
 
 connected with the ( constant) flux of changes (in the world). Therefore the whole world experiences change in each single moment. So all these ( external) aspects of the world are de pendent on one moment ( in the present). 
 
@@ -203,7 +203,7 @@ Some of the Purāṇas contain disquisitions on Kāla. The nature of Time is des
 
 
 
-(Sec. II, Ch. XIV 
+
 
 any one.' The Visnupurana 673 holds that Brahma which is one. unborn, permanent, ageless appears in the form of Kāla, which is without beginning or end. The Bhāgavatapurāṇa 674 also regards Kāla as inferred in regard to its minuteness and its grossness is all-pervading, and holds that it is supposed to have units from the subtlest (atom) to the highest... 
 
@@ -255,7 +255,7 @@ Veiluten tve, HTETT, verses 1, 3, 32.
 
 
 
-(Sec. II, Ch. XIV 
+
 
 The Mahānārāyana Upanisad' (I. 8-9) mentions as units of time ‘Nimesas, Kalā, muhūrta, kāṣthā, ahorātra, half months, 
 
@@ -285,7 +285,7 @@ F 4 97; anguaTIC).
 
 
 
-(Sec. II, Ch. XIV 
+
 
 studies ) of the Veda. The Mundakopaniṣad 685 states that the aparā vidyā ( inferior exoteric knowledge ) comprises Rgveda, Yajurveda, Sāmaveda, Atharvaveda, Śikṣā ( Phoneties), Kalpa (ritual texts ), Vyakaraṇa (grammar), Nirukta (Etymology ), Chandas ( metrics ) and Jyotiṣa ( astronomy and mathematics ). The Āpastamba-dharmasūtra enumerates the same six angas of the Veda. In the Pāṇiniya Siksā 686 the science of the move ments of heavenly bodies is said to be the eye of the Veda. The Jyotisa which is Vedānga (of the Rgveda and Yajurveda ) was concerned with purely astronomical matters. In the Vedānga Jyotisa 687 it is remarked : 'the Vedas arose for the purpose of (use in ) sacrifices; sacrifices are enjoined according to the order of times; therefore he who knows Jyotiṣa which is the science laying down the (proper ) times knows sacrifices. Just as a tuft of hair stands on the head of peacocks or a jewel (in the heads ) of cobras, so ganita ( astronomical calculations) stand at the head of all the sciences that are (spoken of as) Vedāngas'. This shows that the words Jyotisa and ganita are used as synonyms in the Vedānga-jyotisa. The Vṛddha-vāsiṣthasiddhānta ( Benares S. Series ) says 'this śāstra is indeed the eye of the Veda; therefore, among the angas (limbs, subsidiary lores of Veda) it has got pre ominence; a man endowed with all other limbs and therefore appearing to be perfect is worth nothing, if he is devoid of eyes.' Gradually, however, Jyotisa came to include three distinct bran ches (skandhas) viz. the determination of the motions of planets by means of calculations which was called Tantra, the second called horā that deals with horoscopes and (was also called jātaka) and the third called Sakhā which was an extensive branch and included many topics of divination which are summarised 
 
@@ -317,7 +317,7 @@ IT
 
 
 
-(Sec. II, Ch. XIV 
+
 
 against an enemy derived from the tithi, naksatra, the week-day, the muhurta, the moon's position, dreams, throbbing of limbs, the cries of birds, and rivāha i. e. examining the horoscopes of the parties to a marriage ( called Vivāhakāla or Vivāhapatala ). 
 
@@ -347,7 +347,7 @@ A. D, 61
 
 
 
-(Sec. II, Ch. XIV 
+
 
 proper perspective. Modern scholars have, it is refreshing to note, outgrown the stage when all arts were traced to Greek (see "Sumerians' by Sir Leonard Woolley, 1928 p. 193, Glanville in *Legacy of Egypt' p. 160 for the debt the Greeks owed to Egypt). Sir Thomas Heath was obliged to admit that the debt of the Greeks to the Babylonians was much greater than had been imagined.694 Sarton in a History of Science' (London, 1953) has to say that it is childish to assume that science began in Greek (Preface p. IX). It has been found that the Greeks were inferior to the Babylonians in several respects, that their vaunted geometric lore was not as great intellectually as supposed, that out of 200 propositions in Euclid's twelve books only about a dozen are necessary as a preparation for modern mathematics and that the Greeks much developed geometry because they could not easily employ ordinary arithmetical methods owing to their dependence on the abacus. 695 It was further found that the sexagesimal system of degrees, minutes and seconds used by Ptolemy was of Babylonian origin and according to Herodotus (II. 109) the Greeks derived two kinds of Sun-dials and the division of the day into 12 parts from the Babylonians.696 At present such nations as England, France, Germany, U. S. S. R. and U. S. A. are the foremost nations in Science, Technology and Industry but they clung for about 1400 years to the Alma gest of Ptolemy as their astronomical Bible, were ignorant of the decimal place value system and the use of a sign for zero till the so-called 'Arabic numerals' (borrowed from India ) were 
 
@@ -373,7 +373,7 @@ There are controversies about the relation of astronomy and astrology. The marve
 
 
 
-(Sec. II, Ch. XIV 
+
 
 exert predictable influence on terrestrial things and persons is not different from the principles of astronomy or meteorology whereby one can predict tides, eclipses, storms, torrential rains, and the like which affect the world and human beings. 
 

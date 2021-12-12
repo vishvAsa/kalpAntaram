@@ -53,7 +53,7 @@ H. D. 19
 
 
 
-(Sec. I, Ch. VIII 
+
 
 3rd tithi and also with 5th, then, if at midday there is caturthi, the one mixed with the 3rd is to be preferred. If at midday there is no caturthi, but on the next day there is caturthi at 
 
@@ -83,7 +83,7 @@ ____374. अस्यां चन्द्रदर्शनं न कर्�
 
 
 
-(Sec. I, Ch. VIII 
+
 
 ever knows this story about the clearance of Krsna from a false charge would not be liable to have a false charge made against him by any one. The Tithitattva 376 provides that if a man inadvertently sees the moon on the night of the 4th in Bhādra (śukla) he should repeat the verse of the nurse quoted above over some water, drink it and should listen to the story of the Syamantaka jewel. 
 
@@ -119,7 +119,7 @@ ILL
 
 
 
-(Sec. I, Ch. VIII 
+
 
 them arghya 380 with the mantra noted below. One should, when engaged in this vrata, subsist on vegetables alone and observe celibacy. The result is freedom from all sins and from troubles of three kinds 381 and the increase of one's good fortune. If a woman performs this vrata she enjoys happiness, becomes endowed with good bodily form, beauty and sons and grandsons. 
 

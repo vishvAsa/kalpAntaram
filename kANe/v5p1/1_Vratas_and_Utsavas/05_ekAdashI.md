@@ -93,7 +93,7 @@ Knowing the weakness of human beings, sages relaxed the rule of an absolute fast
 
 
 
-(Sec. I, Ch. V 
+
 
 complete fast (on ekādasi) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides 254 that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54). 
 
@@ -129,7 +129,7 @@ Nakta-Two verses about nakta occurring in the Linga, Nārada 160 and other purā
 
 
 
-(Sec. 1, Ch. V 
+
 
 into fire, and sleeping on the ground, these six should always be observed by one who takes a meal only at nakta. There is divergence of views about the time that should be called nakta. Hemādri 261 (on Kāla pp. 112-115) discusses at length what is naktakāla. The first rule is that in a naktavrata the tithi ( if viddhā) to be accepted is the one that exists at the time of pradosa. Pradosa is the period of six ghatikās after sunset (acc. to Skandapurāna), while Viśvādarsa holds that it is a period of three ghatikās after sunset. P. C. (p. 46 ) explains the latter quotation as meaning that three ghatīkās after sunset is com mended as the most proper time of pradosa. The Bhavisya purāna states:262 some men desire that nakta should be the time when the stars begin to appear, some wise men say that nakta is the time when only one muhūrta (two ghatikās) of the day remains, while I hold that nakta is the time when the stars begin to appear. From this it appears 263 that the proper time (mukhya kūla) for nakta is after the stars are seen, other times being gauna. Nakta has two meanings, one primary viz. period of time and the other figurative or secondary viz. taking food at nakta time. 
 
@@ -205,7 +205,7 @@ H. D. 14
 
 
 
-(Sec. 1, Ch. V 
+
 
 It will be noticed that the main matters in the vrata are upavāsa, worship of Visnu image, jāgara 271 at night with songs and music, pāraṇā on 12th and certain restrictions about looking at some persons or speaking to them and restraint of the senses. The Brahma-vaivarta (IV. 26.1-93) also contains the procedure of ekadasi-vrata. It will be noticed 72 that in the procedure of ekadasi there is no homa, though in some other vratas there is a homa. 
 
@@ -269,7 +269,7 @@ The ekādasi on Jyestha bright half is called nirjalā because the vrata consist
 
 
 
-(Sec. I, Ch. V 
+
 
 all the great gods and goddesses went to sleep like Visnu on different dates, as stated in the Rājamārtanda quoted below. 280 Then, further differences arose, some works saying Visṇu went to sleep on the 11th, some that Visnu slept on 13th, while a third set said that Visnu slept on the 15th of Āsādha bright half. The Vanaparva (203. 12) declares that Visnu sleeps on the hoods of Sesa. Kālidāsa in the Meghadūta refers to both the sleeping of Visṇu on his snake couch and his rising from it (śāpānto me bhujagaśayanād utthite śārngapānau). Most scholars hold that Kālidāsa flourished between 350-450 A. D. In the Gangadhar Stone Inscription of Visvavarman in the Krta year 480 there is a clear reference to the rising from sleep of Visnu in Kārtika (vide Gupta Inscriptions ed. by Fleet No. 17 at pp. 72,75,79). Krta is held to be the same as Vikrama year by most scholars. So the legend about Visṇu's sayana on a snake bed and getting up from it may be about 2000 years old, if not more. 
 
@@ -309,7 +309,7 @@ One important rule has to be remembered, 282 viz. whatever nakṣa'ra or whateve
 
 
 
-(Sec. I, Ch. V 
+
 
 inscription referred to in I. A. vol. 25 p. 290 we have the words "punya utthānadvadasi' (the holy 12th tithi on which Visnu gets up from his couch), the inscription being dated in sake 1462 (1540 A. D.). In some works Asadha Full moon is advocated for the sayana of Visnu. 284Vide K. R. p. 208, K. V. p. 188, Krtya tattva p. 436. These works provide how sayana and prabodha are to be celebrated. On the sayani day, the devotee prepares a couch in the evening with a piece of cloth or with flowers, worships Viṣnu (image) at night, repeats the mantra 'om namo Nārāyaṇāya' and then puts Visnu to sleep and repeats two verses, one of which is quoted below. 285 On the day of prabodha the image of Visnu is given an elaborate bath and a full worship is done and several mantras from Varāha-purāṇa are recited and a Vedic verse (idam viṣnur, Rg. I. 22. 17) also is recited. 
 
@@ -351,7 +351,7 @@ Ekādaśî, like all other tithis, is of two kinds, viz. sampūrṇā and yiddh�
 
 
 
-(Sec. I, Ch. V 
+
 
 lay down that ekādaśī is sampūrṇā only when it exists also two muhūrtas (i. e, 4 ghatikās) before sunrise of the day on which it exists for the whole civil day. 
 
@@ -451,7 +451,7 @@ Fall werden q. by B. on p. 261.
 
 
 
-(Sec. 1, Ch. V 
+
 
 mandapa of flowers, worships the Visnu image therein and offers the several upacāras. He fasts that day. He recites hymns of praise to Viṣnu and falls prostrate on the ground in saluta tion. He then keeps awake at night. On the 12th he takes a bath in the morning, offers worship to Hari and dedicates his fast to the God, recites the mantra (Ajñānatimirāndhasya' &c. cited above p. 105) and performs the pārana. This is the general outline of kūmya ekādaśīvrata. In the case of the obligatory fast, the performer should abstain from food the whole day and also keep the several restrictions to be observed on ekādasi (as described above such as not drinking water more than once, not sleeping by day &c). The rules for the followers of Caitanya about ekādaśī as summarised from the Haribhakti vilasa by Prof. S. K. De in 'Vaisnava faith and Movement' on pp. 371-375 do not differ much from those stated above. 
 

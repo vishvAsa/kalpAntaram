@@ -13,7 +13,7 @@ In the great St. Petersburg Dictionary the word vrata is derived from the root v
 
 
 
-(Sec. 1, Ch. I 
+
 
 frequently in the Rgveda with verbs of motion such as 'car', *sa$c' or 'sac'. 
 
@@ -41,7 +41,7 @@ PU
 
 
 
-(Sec. I, Ch. I 
+
 
 not synonyms and it is difficult to see how, conceding for argu ment that 'sta' is the belt of the Zodiac, vrata means, as Prof. Apte obviously thinks, the same thing. Ṛta is an Indo-European word but so far as I know 'vrata' is not even shown to be Indo Iranian, much less Indo-European. 
 
@@ -63,7 +63,7 @@ When Whitney derived the word 'vrata' from 'vrt' with affix 'a', he could cite o
 
 
 
-(Sec. 1, Ch. I 
+
 
 the root 'vraj, it is not on all fours with vrata derived from 'vrt'. Whitney probably derived 'vraja' from 'vrj. But the meaning of 'vraja' (cowpen) can hardly arise from the root ‘vȚj' (to give up, abandon). The word 'trada' occurs only once in the Rgveda (VIII. 45. 28)) and is applied to Indra. It is difficult to say from what root, if any, it is derived. Whitney probably derived it from 'trd' to injure or pierce. The word 'trdilāḥ' (crushing) is applied to the stones (grāvāpaḥ) which crush soma stalks (Rg. X. 94. 11). Whitney says he knows only one word 'marta' derived from 'mr' (to die) with the affix 'ta' which is analogous to vrata if the latter be derived from 'vr'. But Whitney failed to notice other words with the affix 'ta' (not past passive partici ples) such as ‘karta' (deep hole, cavern) (in Rg. 1. 121.13, II. 29.6, IX. 73. 8 and 9) and 'garta' (cavity or seat in a war chariot) (in Rg. II. 33. 11, V. 62. 5 and 8, VI. 20. 9, VII. 64. 4), vāta (wind) from 'vā' (Rg. V. 31. 10, X. 168.1 &c.), dhūrta and several others. 
 
@@ -85,7 +85,7 @@ It is now necessary to examine the contention of Prof. Apte that vrata means in 
 
 
 
-(Sec. I, Ch. I 
+
 
 a derivation and meaning to the word vrata as would be appro priate in all cases where the word vrata is brought in relation to some gods. In my opinion the only meanings that can be well construed with all passages in which the yratas of the several gods mentioned above are referred to is 'commands or ordin ances, religious or moral practices or worship or vows. One does not understand what Prof. Apte means when he remarks at (p. 442) in a tone of ridicule that observing or obeying the 'ordin ances or religious worship of gods' is a soft job and looking after the paths or the tracks of luminaries is a strenuous one. If anything, the reverse of this should be true. 
 
@@ -113,7 +113,7 @@ H. D. 2
 
 
 
-(Sec. I, Ch. I 
+
 
 It would have been noticed that in some of the passages quoted above (in note 11) on vrata, verbal forms of the root 'mi' or 'mi' occur. For the correct understanding of these passages the exact meaning of the root 'mi' is very important. The Nighantu (II. 19) includes 'mināti'among verbs meaning ‘vadha' (killing or harming). In the Dhātupātha the meaning of the root ‘mi' is hiṁsā' (killing, annihilating, breaking). Vide Pāṇini VII. 3, 81. (mināter-nigamo). The forms of 'mi' or 'mi' with or without the preposition 'a' or 'pra' occur more than 50 times in the Rgveda and often in connection with vrata. Whitney felt that the occurrences of the forms of 'mi' or 'mi' presented some difficulty about his theory of the derivation of vrata and its meanings, but Prof. Apte, who derived his inspiration from Whitney, feels no such misgivings as Whitney felt, holds, relying on his own interpretation of Rg. I. 124. 3, that 'mi' or 'mi' is a verb of motion and has the primary sense of 'miss, deviate, wander or stray from' (p. 411). Over a dozen verses at least will clearly show that Prof. Apte has been led astray by his preconceived theory about vrata meaning 'tracks of luminaries' and that 'mi' or 'ml' cannot at all be construed in the sense of 'miss' or 'deviate' in the Rgveda. Rg. I. 71. 10 'old age destroys me as (the dark or clouded) sky destroys (distinctness of) forms' (nabho na rūpam jarimā mināti'); I. 124. 213 '(the dawn) which does not violate divine laws but destroys the spans of human life'; I. 179. 1 (Lopāmudrā says to Agastya) old age destroys the beauty of limbs' (mināti sriyam jarimā tanūnām); VII. 84. 4. (Varupa) who is an Aditya, who destroys the false ones and who, the valiant one, imparts immeasurable wealth'. Vide also Rg. 1.92.11, 1. 117.3, III. 32.8, IV. 30.23., V.7.4, V. 82.2 for other examples where forms of 'mi' or 'ml' occur. It is unnecessary to adduce more examples about 'mi'. It is impossible, if Prof. Apte is to be followed, that old age misses or deviates from beauty or that Asvins miss or deviate from the wiles of the demon or that Varuṇa misses falsehood (or false men). Prof. Apte relies (p. 411) 
 
@@ -171,7 +171,7 @@ There are eight passages in the Rgveda in which the word śucivrata' occurs and 
 
 
 
-(Sec. I, Ch. I 
+
 
 VII. 89, 3 (where Varupa is addressed as "suci'). In the above passages the word śuci in at least a dozen cases is clearly used in the sense of pure', is applied to offerings, sacrifices, drugs, horses, waters or rivers and is not restricted to manīṇā, stoma, mati and giraḥ as Prof. Apte wrongly asserts. Prof. Apte mini mises the number of times that suci' means 'pure', and observes a discreet silence about its being an attribute of the physical objects mentioned above. Therefore, there is no difficulty in holding 'sucivrata' as applied to gods meaning 'whose ordin ances are pure or holy'. In 1. 15. 11 and I. 182. 1 the word 'śucivrata' is an attribute of the Asvins, in III. 62. 17 and VI. 16. 24 of Mitra and Varuna and in VI. 70. 2 of Heaven and Earth. Besides, we have the analogous word 'śucikranda' (the loud laud addressed to whom is pure) applied to Bșhaspati in VII. 97. 5. 
 
@@ -197,7 +197,7 @@ is the object of it and in VIII, 94, 2 the dual TATHT is used with 65.
 
 
 
-(Sec. I, Ch. I 
+
 
 &c.) and of śruṣtim'on p. 450) are passed over here. On VI. 70.5 Prof. Apte remarks (p. 420, Sec. 17) that to take 'vrata' in 'madhuvrata' applied to the deities Heaven and Earth as mean ing ‘law, duty or will’ is almost absurd. One fails to see why it would be absurd to hold, when heaven and earth are spoken of as 'dropping21 madhu' (madhuścutā) and 'yielding madhu' (madhudughe), that the Vedic poet thinks that the laws of Heaven and Earth as deities are sweet (and not harsh). 
 
@@ -229,7 +229,7 @@ H. D. 3
 
 
 
-(Sec. 1, Ch. I 
+
 
 65. 6 and probably means '(the cow) that is the carrier of vrata' i. e. of the milk on which a sacrificer has to subsist. In T. S. V1. 2. 5. 2–3 it is said that milk is the Brāhmaṇa's vrata. On p. 442 Prof. Apte refers to Sūrya being called 'yratapā' very aptly. Vratapa occurs nine times in the Rgveda, but the Sun is called 'vratapā' only once in I. 83. 5. Vratapā means nothing more than vratapati, which word occurs in T. S. 1. 6. 6. 326, 1. 6.7. 2 and Vāj. S. I. 5 and is applied to Agni. In these passages 'vrata' means a religious vow such as that of a Vedic student who undertakes to study Veda after Upanayana. There is no reason why the word "vratapā' in the Rgveda should not be deemed to have been used in the sense in which 'vratapati' is employed in the T. S. and Vāj. S. Similarly, in Rg. VII. 103. 127 it is said that the frogs lying silent for a year (in crevices), like brāhmapas observing a vrata, send forth their croaking inspired by the rains. Here 'vrata' has the meaning a sacred vow or observance' which is the sense in which the word is used in medieval times and is so used even upto this day. 
 
@@ -261,7 +261,7 @@ It is necessary to clarify the meanings and mutual relations of the three words 
 
 History of Dharmaśā ra 
 
-(Sec. 1, Ch. I 
+
 
 of șta' have been specified in H. of Dh. vol. IV. pp. 2–5 and the meanings of vrata have been discussed in what precedes (vide pp. 5-8). In the Rgveda the word is dharman and not dharma. For a brief discussion of dharman vide H. of Dh, vol. I, p. 1. In the Rgveda sometimes dharman is masculine and often an adjective, meaning 'upholder or sustainer' as in Rg. I, 187. 1, X. 92. 2. In X. 21.3 (tve dharmāṇa āsate) the word is masculine. In other cases it is obviously in the neuter gender as in I. 22. 18 (ato dharmāpi dhārayan), V. 26.6, IX. 64. 1. In these passages the meaning seems to be 'religious rites or sacrifices', thus approaching vrata in one of its senses. In I. 164. 43 and 50 (= X. 90.16) sacrifices are said to be the primeval dharmans. Vide also 'prathamā dharmā' in Rg. III. 17. 1 and 'sanatā dharmāṇi' in Rg. III. 3.1. In some cases this sense of dharman would not do, as in IV. 53, 3, V. 63. 7. where the meaning seems to be 'fixed principles or rules of conduct'. In some cases dharman appears to mean almost the same thing as 'vrata'. For example, in VII. 89. 531 the sage says 'when we destroy (or violate) your dharmans through heedlessness (or infatuation), do not harm us, O Varuṇa, on account of that sin', which is just the same as Rg. I. 25. 1, where we have 'vratam' for dharmāpi. In VI. 70.133 it is said 'heaven and earth, neper decaying and endowed with plenty of seed, are held firmly apart by the dharman of Varuna'. In VIII. 42.1 (cited above) making the Heaven firmly fixed is described as one of the vratas of Varupa. 
 

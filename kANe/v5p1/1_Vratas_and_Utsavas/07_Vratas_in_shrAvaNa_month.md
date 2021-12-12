@@ -39,7 +39,7 @@ In the Deccan on Śrāvana bright half 5th figures of snakes are drawn with red 
 
 
 
-(Sec. I, Ch. VII 
+
 
 If pañcami is mixed with the 4th and 6th tithis, that mixed with the 6th is to be preferred. The Vratakālaviveka 324 speaks of Manasāvrata on Jyestha-sukla 10th with Hasta-nakṣatra or without it and remarks that when this yrata is performed Manasā goddess protects a man from the danger of poisonous snakes. 
 
@@ -175,7 +175,7 @@ ___340. अभिजिन्नाम नक्षत्रं जयन्त�
 
 
 
-(Sec. I, Ch. VII 
+
 
 possible that these two represent some older traditions about the date of the birth of Krsna. 
 
@@ -219,7 +219,7 @@ HT: 1 STE SI AFUTE F EITE FITETT! q. by \#. \#. p. 52 (reads TEKI TU:), G. 7. p.
 
 
 
-(Sec. I, Ch. VII 
+
 
 decked with auspicious things and Şaṣthi-devi. Round about the room or the walls (of the room) he should paint gods and gandharvas with folded hands, Vasudeva with a drawn sword, Devaki, Nanda, Yaśodā, gopis, Kainsa's guards, the river Yamunā and the snake Kāliya therein and other incidents of Gokula as far as he could. He should place in the delivery hall a bed surrounded by screens. He should take a bath with sesame in the noon in the water of a river or the like and at midnight make the sankalpa, 'I shall perform the worship of Krsna with his attendants'; he should make an image of Krsna of gold or silver &c., touch the cheeks of the image and vitalize the image (prāṇa-pratisthā) with mantras. He should contem plate upon Devaki (with a mantra) and on Srikrsna lying as an infant on the bed and offer worship to Lakṣmi, to Vasudeva and Devaki, Nanda and Yaśoda, Baladeva and Candikā with appropriate mantras for bath, for incense, naivedya &c.; he then briefly performs symbolically the ceremonies of Jātakarma, cutting the navel chord, Sasthīpājā and nāmakarana. Then at time of moonrise (at or a little after midnight) he should offer arghya on an altar or to (image of) the moon with Rohiṇi with water from a conch mixed with flowers, kuśas and sandalwood paste with a mantra, should bow to the moon and prostrat 346 himself with several verses containing the different names of Vasudeva and at the end address prayers to him. Then he should keep awake the whole night in listening to the hymns of praise to Krṣṇa, to the stories in the Puranas and in songs, music and dances. Next day after performing all usual acts to be performed in the morning and again offering worship to the image of God Krsna, he should feed brāhmanas and donate to them gold, cow, clothes with the words 'May Krsna be pleased with me'. He should then repeat the mantra 347 'salutation to him who is Brahma, who is Vasudeva of blessed birth and beneficent to cows and brāhmanas and whom Devaki gave birth 
 
@@ -253,7 +253,7 @@ LE
 
 
 
-(Sec. 1, Ch. VII 
+
 
 Bhavisya opening the description of the vrata 'On that day one should accept the restrictions of upavāsa' and also Mimāmgā doctrines holds that upavāsa is the principal matter and pūjā is an anga (auxiliary matter). The Jayantīnirnaya contained in the Dasanirnayi of Hārīta Venkatanātha discusses at length the two (pp. 3 ff). This subject need not be pursued much further. 
 
@@ -291,7 +291,7 @@ yratante pp. 35-36.
 
 
 
-(Sec. I, Ch. VII 
+
 
 But in the Naiyatakāla section 357 of the same work, a brief procedure of Krsnajanmāstami (which is word for word the same in the Krtyaratnākara) different from the one specified above from the Tithitattva and other works, is set out. It is as follows: On the 8th of the dark half of Bhadrapada was born in Kaliyuga in the 28th (kalpa?), Krsna, son of Devaki, for removing the burden (of the earth) and the reduction of ksatriyas. He (his image) should therefore be worshipped on that day, as also (of) Devaki and Yasodā with sandalwood paste, flowers, incense, various fruits and foods and dishes prepared from barley and wheat together with cow's milk. At night the devotee should keep awake with songs and dances. Then on the 9th about the time of arunodaya (4 ghatikās before sunrise ) women dressed in red clothes and decked with garlands of flowers should carry the images of these (Krsna, Devakī and Yaśodā) to a holy river bank or to a charming and unfrequented lake, wherein they should themselves take their bath and also bathe the images; then returning home they should eat a meal of barley together with jaggery, honey, ghee and black pepper. 
 
@@ -309,7 +309,7 @@ Weber's theory about Janmāṣtami
 
 
 
-(Sec. I, Ch. VII 
+
 
 The first is that in the ritual of Krspāstami contained in some digests (that said that they borrowed the passage from Bhavisyottara) the image of Krsna was to be shown 358 as suckl. ing at the breast of Devaki, that this is a unique direction, that in the Ramanavami festival which is similar to Janmāstami the image of Rāma is not required to be suckling at the breast of Kausalyā, that this detail was copied from the representation of the Madonna Lactans. Weber relied (vide I. A. vol. III p. 51 ) on ono De Bossi who said that pictures of infant Christ at the breast existed in 2nd century A. D. Weber brushed aside the testimony of other scholars that the Madonna with the child was a subject little known to the early christian centuries and the opinion of other scholars that the representations of the Madonna Lactang are extremely rare in Byzantine and Russian art (I. A. vol. III p. 48) and almost always of very late date. Weber makog a mountain of a molehill. The image of Rāma is also described as lying on the lap of the mother Kausalyā.359 Further, all purāṇas do not provide that the image of Kyspa was to be suckling at the breast. Hemādri, in describing the Jayantiyrata from the Purānas, shows that the image was to be on the lap of the mother Devaki.360 Was the Hindu imagination so poor that when they could describe the image of Rāma or Krsna as lying on the mother's lap they could not also imagine that it could be shown as suckling at the breast and had to run to the West to copy that detail from representations of the Madonna and the child thousands of miles away? 
 

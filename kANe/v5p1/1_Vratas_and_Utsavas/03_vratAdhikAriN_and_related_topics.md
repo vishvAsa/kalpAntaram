@@ -83,7 +83,7 @@ The bulk of the vratas practised in medieval and modern times are kāmya i. e. p
 
 
 
-(Sec. I, Ch. III 
+
 
 the 16th part of the observance of vratas, that the virtuous daughter of Vikrama named Vasundharā, residing in the country of Daśārṇa, attained mokṣa through vratas and that gods, sages, siddhas and others attained highest perfection by means of upayāsas (fasts). 
 
@@ -105,7 +105,7 @@ There is an immense literature on vratas. There is no topic of Dharmaśāstra ex
 
 
 
-(Sec. I, Ch. III 
+
 
 soveral observances which some people may regard as purely atsavas and not vratas at all. 
 
@@ -127,7 +127,7 @@ It must be emphasized here that this section is concernod with the yratas descri
 
 
 
-(Sec. 1, Ch. HII 
+
 
 primitive tribes or by the illiterate people all over India or con tained in works written in the several regional languages such as Bengali, Hindi or Marathi. The inclusion of such obsery ances would entail an enormous amount of labour, would expand the work to huge proportions and would be beyond the proper scope of the History of Dharmaśāstra. Further, to tabulate all the vratas and festivals of all common people and to study the folk life of villagers, forest-dwellers and mountain inhabitants in the States of the continent of India would be beyond the capacity of a single worker and would require the co-operative effort of a large team of workers spread over years. When done, that work would be a monumental one on the social anthropology of India. In this connection I may mention Prof. B. K. Sarkar's work 'Folk element in Hindu culture' and the paper on a study of vrata rites in Bengal' contributed by Mr. S. R. Das145 to 'Man in India' (1952) vol. 32, pp. 207-245. Some writers have already published works dealing with the observances of common people such as Mrs. Stevenson's 'Rites of the twice-born', Underhill's 'Hindu religious year', B. A. Gupte's Hindu holidays and ceremonials', R. C. Mukerj's Ancient Indian fasts and feasts', Mr. Rigvedi's Marathi work on 'History of Aryan festivals' (ed. of 1924). In these books (except in the last and rarely in Underhill's) texts from Dharmaśāstra are generally conspicuous by their absence. 
 
@@ -161,7 +161,7 @@ q. by स. म.
 
 
 
-(Sec. I, Ch. TII 
+
 
 condemned when done in what is called Gurvāditya (that is when the sun is in the house of Jupiter viz. sign of Pisces and when Jupiter is in the house of the Sun, viz. Lion). The Vratarāja remarks that one is to avoid Jupiter in the Lion sign for religi ous acts only to the north of the Narmadā and elsewhere only in Simhamsa (i. e. the first quarter of the naksatra Pūrvā-phalguni). The Ratnamālā 152 provides that Monday, Wednesday, Thursday and Friday are auspicious (confer success) in all (religious) acts; but on Sunday, Tuesday and Saturday only such actions succeed as are expressly prescribed for performance on those days, Bhujabala remarks that Tuesday is unfavourable for all auspicious acts but that it is commended for agriculture, study (of the Sāmaveda) and for battles. 153 
 
@@ -191,7 +191,7 @@ E T T HATI proget: GylfaES HET Egia Tae T . II. 32. 4 q. by fare iti XI. 31; स
 
 
 
-(Sec. I, Ch. III 
+
 
 admitting ignorance, are not wanting, who following the tradi tions of the very ancient etymologist Yaska (who says in Nirukta II. 1 'na tveva na nirbrūyā), suggest that the word Sinīvāli is made up by combining the Babylonian-Akkadian word "sin' (meaning moon) with Dravidian 'vel' (white light) 158 'Amāyāsyā' (New Moon) is addressed as a deity by itself in Atharva 159 VII. 79 (84) 1-4, the first of which calls upon Amāvāsyā to come to the sacrifice and bestow wealth and a valiant son and the second of which hints at the derivation of the word from 'amā' (meaning together' or 'home') and 'ras' (to dwell). The Sat. Br. 160 remarks "this king Soma i. e. the moon is the food of the gods; when he (the moon) is not seen on this night either in the east or in the west, he comes to this world (i. e. the earth) and enters the waters and the herbs here; he is the wealth of the gods and their food; when he dwells on this night together (with waters and herbs) it (that night) there fore is called 'Amāvāsyā'. The Ait. Br. (40.5) states that on amāvāsyā the moon enters the sun. The Āp. Dh. S. also echoes this idea that on the Amāyāsyā night the Sun and the Moon dwell together (are near each other). So amāvāsyā is so called either because the moon was supposed to dwell together with waters and herbs on the earth that night or because the Moon dwells in the Sun on that night. Darśa has the same sense as amāvāsy, and means the day on which the moon is seen by the sun alone (and by no one else)'. Vide H. of Dh. vol. II, p. 1009 and note 2274. Names are sometimes given by contraries e. g. a fool is called a wise man or a brave person may be called 'timid'. Amāyāsyā may have been called darśa because the moon is not 
 
@@ -259,7 +259,7 @@ The Nirukta 168 while deriving the word atithi applied to Agni in Rg. V. 4.5 giv
 
 
 
-(Sec. I, Ch. III 
+
 
 ago and that the word tithi itself must be held to have been in use about 800 B. C., if not earlier still.170 
 
@@ -293,7 +293,7 @@ AUTOT, TH&a,fra, un respectively of 1st to 15th, HATTE being fu
 
 
 
-(Sec. 1, Ch. ID 
+
 
 $11 
 
@@ -379,7 +379,7 @@ E.D.10
 
 
 
-(Sec. I, Ch. III 
+
 
 on the proper time and states that a gaupakāla is resorted to for escaping from the censure of śistas or for the solace of one's mind or because there is no other alternative. If a tithi can be had on two days and at the required time or if it does not exist on both days at the time required or it extends only up to a part of the time for which it is required, then the decision is arrived at, as a general rule, by what is called 'yugmavākya' to be cited below. 190 Suppose, for example, that a vrata is to be performed at noon on a certain tithi, then that tithi may exist at noon on two days or suppose that the tithi begins one or two ghatikās after noon and ends on the next day one or two ghatikās before noon, then the decision as to which tithi (whether pūrva-viddhā or para-viddhā) is proper for the act would have to be decided as a general rule by the Yugmavākya. The Yugmavākya may be translated as follows: "The pairs (or combinations) of the following tithis lead to great reward, viz. of the 2nd and 3rd tithis, of the 4th and 5th, of the 6th and 7th, of the 8th and 9th, of the 11th and 12th, of the 14th with pūrpimā (Full moon tithi) and of Amāvāsya with the 1st: the reverse (i. e, combinations or pairs of other tithis) results in great loss; such combinations destroy all former (accumulated) merit. In these verses there are seven pairs and they are mutually applicable. The question may be asked: on what tithi a vrata prescribed for the 2nd tithi should be performed if the 2nd is combined with the first on one day (that is, it is pūrvaviddhā) and is also combined with the 3rd on the next day (i. e. it is para viddhā). The reply is: as a general rule the day on which the 2nd is combined with the 3rd tithi should be the proper one for the dvitiyāvrata and not the day on which 2nd tithi is combined with the first. Similarly, in the case of a yrata to be performed on tṛtīyā, if the 3rd tithi occurs on one civil day combined with the 2nd and on the next day it is combined with the 4th, then the proper day as a general rule for a trtīyā-vrata is the one on which the 2nd and 3rd tithis are in combination and not the other day on which the 3rd and 4th tithis combine. The result of this passage is that combinations of 1st and 2nd tithi, of the 3rd and 4th, of 5th and 6th, of 7th and 8th, of the 9th and 10th, of the 10th and 11th, of 12th and 
 
@@ -397,7 +397,7 @@ ____191. युग्माग्नियुगभूतानां षण्�
 
 
 
-(Sec. I, Ch. III 
+
 
 religious rite, that express rule prevails and not the rule derived from this yugmavākya.193 For example, it is laid down in the very place (where the yugmavākya occurs) that the 6th tithi, 8th tithi, amāvāsya and the 13th of the dark half are to be preferred (for religious rites) when in combination with the following tithis (i. e. 7th, 9th, 1st of bright half and 14th of dark half respectively) and others (than those mentioned in the first half such as the 7th, 9th) are to be preferred when combined with those preceding them.194 The application of special considera tions may be further illustrated by the following. The same tithi may be preferred if pārzaviddhā'in one vrata and as para viddhā in other cases owing to the difference in the deities of the vratas. For example, Skandaṣasthi is preferred as pūrvaviddhā, but Mandārasasthi is preferred as paraviddha (because the deity is Mandāra and not Skanda). Sometimes, although the devatā is the same, it will have to be pūrvaviddhā and sometimes paraviddhā as in the Vinayaka-vrata which requires mid-day as the proper time. If the 4th exists at midday and then is mixed up with 5th, but did not exist at midday the previous day, then 4th mixed with 5th will be preferred; but if mixed with the 3rd before noon and not mixed with 5th at time of midday, 4th mixed with third will be preferred. Sometimes it depends on the fact whether it is bright or dark fortnight. Sukla pratipad will be preferred if pūrvaviddhā, but kļṣṇa pratipad will be pre ferred as uttaraviddhā. The rites for pitrs are not governed by yugma-vākya. The gļhya-parisista provides that the pitss attend on that tithi which exists at the time when the sun sets ; that tithi and afternoon are assigned for the pitrs by Brahmā himself.195 Sometimes even a combination not approved by yugmavākya has to be accepted for the performance of a rite e. g. when astamī with Rohini naksatra exists (in Krṣnajanma vrata) the fast should be observed on that Astami, though it may be combined with 7th tithi (and not on 9th as yugmavākya 
 
@@ -425,7 +425,7 @@ gra: Teata i Frigarna: PAISATI (p. 6). These verses are quoted from prof in Perp
 
 
 
-(Sec. I, Ch. III 
+
 
 the yugmavākya has no application. Vide p. 72 and note 184 above. In certain cases where the vrata has several iterns extend ing over the whole day or a large part of it, the tithi at the time of sunrise even if it be only for a ghaṭikā is declared by some texts to be sakalā (pārṇā ) for purposes of both gifts and vratas.199 
 
