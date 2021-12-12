@@ -91,7 +91,7 @@ HT TEATATEATEPTI TOST 25 10 , 15, 16, 21, 23. HIC II 17 de fines in as the count
 
 558 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -149,7 +149,7 @@ In the Sūtras and ancient smrtis like those of Man and Yajñaralkya tirthas do 
 
 562 
 
-History of Dharmaśāstra 
+
 
 [Vol. they can be performed only by princes or rich men, They can not be performed by poor men, who are devoid of wealth, who are without a wife and without friends, who are helpless. The reward that a wan gets by visiting holy places cannot be secured by performing such sacrifices as Agnistoma in which large fees are paid (to priests); therefore visiting holy places is superior to sacrifices. But the Mahābhārata (Vadaparya 82, 9-12 and Anuśāsana 108. 3-4) Jays the greatest emphasis on the cultivation of high moral and spiritual qualities if the full reward of pilgrimages is to be reaped. It says 1264 'He whose hands, feet and mind are well controlled and who possesses know ledge, austerities and a good reputation derives the (full) reward of pilgrimages. He who turns his face away from receiving gifts and is content with what little he gets and is free from vanity obtains the towards of pilgrimages, He, who is free from hypoc risy (or deceit), is not engaged in various undertakings (for earning money), is not a heavy eater, has subdued his senses and is (therefore) free from all sios; 80 also he who does not fly into a rage, who always speaks the truth, who is firm in his observances, and acts towards all beings by treating them like himself, obtains the full reward of pilgrimages. The idea seems to be that pilgrimages may help to remove the sins of men who are not possessed of the above characteristics, while those who possess these acquire a great store of merit in addition, The Skanda (Kāśikhanda 6.3) asserts "snāng cannot bo predioated of a man whose body alone is flooded with water; that man who is plunged in restraint of senses, who is pure, relieved of all taint and is stainless, is alone to be called anāta' (as having had a bath). The Anusāsana has almost the same 
 
@@ -171,7 +171,7 @@ nary 77. 125 and 127 g by atiniego pp. 5-6, P. P 4 (which explains OTTEHT AUFTFI
 
 564 
 
-History of Dharmaśāstra 
+
 
 cleanliness, frequenting sacred places, learning-wall these are not tirthas, if the mind is not pure 1357 The Brahmapurana (25.4-6) states a heart that is wicked is not purnfied.by baths at holy places, just as a vesse) in which sura (liquor ) was carried remains impare even after being washed with water hundreds of times, that tirthas, gifts, tralas, or (residence in ) hermitages do not purify a man whose heart is wicked, who resorts to hypocrisy and whose senses run away (are uncontrolled ). Wherever a man who has his senses under control may dwell, there are present Kuruksetra, Prayaga and Puskara', The Vamanapurana has a finet267a Rupala about the soul being a river full of the water of control, flowing with truth and having character as the bank and the vapes of compassion (for all beings) and states that the soul cannot be purified by water. The Padmapurana (II. 39. 56-61) extends the meaning and scope of tirthas by remarking that places where Agnihotra and śrāddha are performed, a temple, a house sphere Veda is being studied, a cowpen, the place where a soma drinker dwells, parks, a place where the Aśvattha .exists, a place where Purāna is being recited or where one's teacher stands or where a obaste housewife dwells, or where a father and & worthy son dwell are all holy. 
 
@@ -243,7 +243,7 @@ TOT 70 16-19 g by 479 p. 18, which also quotes the verses from ब्रह्�
 
 568 
 
-History of Dharmaśāstra 
+
 
 (Vol. (Vārānasl) is the highest cure for men of numerous castes, for men not (recognized as ) belonging to any particular warna, for candālas who are abhorred (by people ) and for persons whose bodies are full of diseases and of aggravated sins' It is stated in the Vamanapurāda: 1279 persons of all the four ātramas (i, e. brahmacārins, householders, forest hermits and sannyū sins ) by bathing in the tirtha (mentioned by it) sare seven generations in their families and that persons belonging to the four vardas and women, when they bathe in tirthas with devotion, see the highest goal. It was provided by the Brahmapurāpa that a brahmacāriu can undertake a pilgrimage only if ordered or directed by his guru, and that a booseholder whose wife is alive and is chaste must go on a pilgrimage with her; otherwise he would not reap the fruit of pilgrimage The Padmapurāna (Bhumikhanda chap. 59-60 ) narrates the story of a vaiśya called Krkala who went on a pilgrimage with out his virtuous wife and did not reap the fruits of a long pilgrimage (bhāryām vinā yo dharmaḥ sa eva piphalo bharebe 59, 33). The Tīrtbacintamani and Tirthaprakāśa quote 8 passage (from the Kūrmapurāna) which glorifies Vārānast (called Avimukta there ) as follows 1280 'brahmanas, ksatriyas, Vaisyas, śūdras, persons of mixed oastes (vardasankara), women, mlecchas and others who are born in avıl forms and are of mixed blood, worms, ants, birds and beasts when they die in Avimukts are born as human beings in Benares and no one guilty of sins dying in Ayjmukta goes to Hell' As regards 1331 women and śūdras, a smrti verse provided 'Japa, tapas, pilgrim age to holy places, becoming an ascetic (sannyāsin), efforts to attain mastery over mantras and worshipping deities (as a priest)--these six. lead to sinfulness in the case of women and 
 
@@ -271,7 +271,7 @@ H, D. 72
 
 570 
 
-History of Dharmaśāstra 
+
 
 (Vol. There is a verse of Brlaspati: 'At holy places, in marriages, in a religious festival (or procession), in a battle, when there is en invasion of the country and when a town or village is on firo, no blaze attaches on the ground of incurring contact with untouchable persons or things,' 
 
@@ -315,7 +315,7 @@ Hoygainscriptionins quoted beloofdental seria Sharma and pled
 
 572 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -353,7 +353,7 @@ Tall 1991, FTGE 237, 36-38 76, 18-19 provide atrasa , TER , STETTHE, remaining c
 
 5745 
 
-History of Dharmaśāstra 
+
 
 (Vol. when undertaking such solemn Vedio sacrifices as Catur māsyas and Agnistoma 1298 The termination of the stage of Vedic studenthood (samūvariana) was also marked by tonsure,2299 Further, tonsure was prescribed when undergoing prāgaścitta for sins (vide p. 122 above). The Tir. C. and Tir Pr. both quote & verge of Visnu 1300 from the Smortisamuccaya, viz, 'at Prayaga, on a pilgrimage, on the death of one's father or mother one should cut one's hair; but one should not cut one's hair without cause.* The Mit. on Vāj. III, 17 quotes a Verge as follows: 'On the Ganges, in Bhaskaraksetra, on the death of one's father, mother and guru, at the time of consecrating Vedic fires and at & somu gacrifice tonsure is prescribed in these seven cases, Some read 'satsu' and therefore they take the first two words as meaning on the Ganges only at Prayaga.' Both Tir C. and Tir. Pr. quote a verse 1301 which says that tonsure and fast are acts that must be done at all tirthas except at Kuruksetra, Viśālā (Ujjayini or Badarikā), Virajā (river in Orisse) and Gaya.' In the case of a spātaka, all the hair except the top-knot is cut and 
 
@@ -465,7 +465,7 @@ FM 397 3197. Taf TIE TI ATE 165. 57-58. ____1313. यदि पुत्रो �
 
 580 
 
-History of Dharmaśāstra 
+
 
 (Vol. till the end of the world and that those who would perform śrāddha at Gayā and worship them (by engaging them as officiating priests and pay them) would secure tho morit of having worshipped Brahmā From this it is clear that the Gayā brahmanas at the time of the composition of the section on Gaya at the end of the Vayupurāna possessed the same characteristics as the modern Gaya brāhmanas (Gayāls or Gayāwals as they are called) and made the Gayā pilgrimago their business even then (as now). One of the early historic references to Gayāl brāhmanas occurs in the Saktipur copper plate of king Laksmadasena of Bengal in his 6th year (i, e. about 1183 A D.) 1315, 
 
@@ -497,7 +497,7 @@ The literature on tirthas is probably far more extensive than on any other singl
 
 582 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -525,7 +525,7 @@ TOHETATA पुष्प चन्दनधूप च दीपं नेवे�
 
 584 
 
-History of Dharmaśāstra 
+
 
 [Vol. in his own house (in the case of other tirthas) and then start. Then the next day he should bathe with pure clothes on and then put on his pilgrim dress and start on his pilgrim age in the forenoon with his face to the east, preferably bare-footed. There are two views here. Some say that on the day on which a man reaches a tirtha he should observe a fast, while the other view is that the pilgrim should fast on the day previous to his reaching the tirtha. In the first case he will have to perform a śrāddha on the day of the fast and in that case he cannot actually taste the remnants of śrāddha food but should only smell the cooked food The Kalpataru (on tirtha p 11) and the Tīrtha-cintāmani (p 14) quote Davala for the proposition that a fast on reaching a tirtha is not obligatory, but if observed yields special merit, 
 

@@ -45,7 +45,7 @@ H. D. 88
 
 698 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XVIII 
 

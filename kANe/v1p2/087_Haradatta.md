@@ -37,7 +37,7 @@ II. 3. 7. 7 also. 1081 PROTA: 9 aseta afastai : 1 1082 7a afast: FA Hanifesta Fr
 
 744 
 
-History of Dharmaśāstra 
+
 
 Haradatta (on Ap. Dh. S. I. 8. 22. 1-2 ) has a disquisition on the correct knowledge and realization of the self (Atman). He quotes Mundakopanisad II. 9 (bhidyate &c.), Chan. Up. VI. 24. 3 and Yaj. Smrti I. 8 (ayam tu paramo dharmo yad yogenatma darśanam), puts the Advaitavedānta view in a nutshell, narrates the story of a prince brought up since boyhood among Sabara (bhil ) children regarding himself as a sabara, but the truth dawns upon him when his mother tells him who he really was; and quotes four Sardūlavikridita verses on the same story and the 
 
@@ -95,7 +95,7 @@ The date of Haradatta is a rather difficult problem. Bühler (S. B. E. vol. II. 
 
 746 
 
-History of Dharmaśāstra 
+
 
 Hence it follows that Haradatta cannot be later than about 1300 A. D. The fact that Haradatta hardly ever names any commentator except perhaps Devasvāmin, the Bhāșyakāra of Āpastamba-gļhya, and that he holds antiquated views about the widow's right to succeed to her deceased husband's estate are strong arguments in favour of the view that Haradatta is com paratively an early writer. Hardly any writer after Vijñāneśvara assigns the same position to the widow as Haradatta does. Hence it appears that Haradatta could not have flourished much later than 1100 A. D. So he must be placed between 1100-1300 A.D., very probably near the earlier limit than the later one. 
 
@@ -147,7 +147,7 @@ Report on Sanskrit and Tamil mes, for 1893-94 by S. Sesha giri Sastri.
 
 748 
 
-History of Dharmaśāstra 
+
 
 he died 3979. years after Kaliyuga began 1099 (i. e. 878 A. D.). This Haradattācārya, being the son of Vasudeva, was not the same as the author of the Padamañjari, who was the son of Padmakumara. This earlier Haradatta may probably be the same as the Haradattācārya cited as an authority in the Sarvadarśana samgraha on the Nakulisa-pasupatadarsana.1100 Dr. Jolly ( R. u. S. p. 33 ) identifies without sufficient foundation the Haradatta cārya of the Sarvadarśana-samgraha with Haradatta, the com mentator of Ápastamiba and Gautama. 
 

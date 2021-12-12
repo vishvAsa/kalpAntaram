@@ -39,7 +39,7 @@ H. D.-111
 
 882 
 
-History of Dharmaśāstra 
+
 
 Prof. Velankar's Catalogue of the Sanskrit mss. in the Bombay University No. 251 (p. 52 ) is a ms. of the Sraddha prakāśa, in 24 ullāsas, but it breaks off in the midst of Sampātasrāddha. 
 

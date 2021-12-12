@@ -39,7 +39,7 @@ sestra II. cbap, 20(fruara) p. 109.
 
 488 
 
-History of Dharmaśāstra 
+
 
 (Soc. II, Ch. XV 
 
@@ -73,7 +73,7 @@ H. D. 62
 
 490 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -97,7 +97,7 @@ In the Satapatha Brāhmaṇa (II. 1. 3. 2.) 713 the Sun's apparent passage for s
 
 492 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -127,7 +127,7 @@ There are Western scholars that deny the knowledge of the planets to the Vedic I
 
 494 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -159,7 +159,7 @@ TH' which is explained in T U IX, 4.1.9. In u II. 2.5 the Apsarases are called '
 
 496 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -185,7 +185,7 @@ A. D. 63
 
 498 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -409,7 +409,7 @@ F. one; dual in Tai.
 
 Br. I. 5 and III, 1. 4. 10 
 
-History of Dharmaśāstra 
+
 
 Tonad 
 
@@ -591,7 +591,7 @@ rapi rani
 
 ranyah ranih nih 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -609,7 +609,7 @@ H. D, 64
 
 506 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -637,7 +637,7 @@ ___734. प्रजापतेस्त्रयस्त्रिंशद्
 
 508 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -657,7 +657,7 @@ of ( it is said ) 28 at about 1100 B. C. ( as said by Thibaut in Grundriss p. 13
 
 510 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -691,7 +691,7 @@ a ngata ā: 1. If in TH. XI. 3 criticises the Jain view “भानि चत�
 
 512 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -715,7 +715,7 @@ H. D. 65
 
 514 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -743,7 +743,7 @@ first place no Indian work of the Siddhānta class admits that any Yavana knowle
 
 516 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -771,7 +771,7 @@ L
 
 518 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -797,7 +797,7 @@ T: RIOTEUTET I THY ATHITHIFTTHYRI gora: lt. We find in the बो. श्री.
 
 520 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -829,7 +829,7 @@ After having briefly indicated the astronomical knowledge to be gathered from Ve
 
 522 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -865,7 +865,7 @@ u a gia THI \# 31 fac fara: 1*. III. 8. 5; À S UR 34T पृधिया इल
 
 524 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -899,7 +899,7 @@ T
 
 526 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -925,7 +925,7 @@ like. One of the earliest references to this projudice against star gazers in Sa
 
 528 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -957,7 +957,7 @@ H. D. 67
 
 530 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -989,7 +989,7 @@ The Mahābhārata and the Rāmāyaṇa contain numerous passages where the plane
 
 532 
 
-History of Dharmaśāstra 
+
 
 (Sec. 11, Ch. XV 
 
@@ -1027,7 +1027,7 @@ T: I HE THRE FRAICI ga: ga: Il Ter: appears to be a misreading for hur: the jufu
 
 534 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 
@@ -1059,7 +1059,7 @@ EMITEGIA: TY ā T: FEAT: 1304. T. I. 2. 12–13 and 16. The last is a gātbā qu
 
 536 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XV 
 

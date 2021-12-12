@@ -15,7 +15,7 @@ cat. p. 480 No. 1560. 1367 Vide p. 134 of 4 Trre ( my edition ).
 
 908 
 
-History of Dharmaśāstra 
+
 
 world) and Avatāras, in the Gangā Oriental Series of Bikaner with a Foreword by Sardar K. M. Panikkara (the then Prime Minister of the Bikaner State ), with a learned Introduction (by Dr. Vaidya), Text (in 386 pages) and some Appendices (Appendix A, giving a brief sketch of the life of Raja Todar mal, B containing a few stanzas glorifying Todarmal found in Manirāma's Padyasangraha and three verses from the Benares Draupadi-Kunda Inscription of Sarivat 1616 (i, e. 1589 A, D.) inscribed by order of Todarmal, Appendix C (pp. 395-414) supplying information on several sections of the Todarānanda derived from mss. in different libraries. 
 
@@ -47,7 +47,7 @@ G
 
 910 
 
-History of Dharmaśāstra 
+
 
 ments and fines. The Vyavahārasaukhya does not dwell on the exposition of the several titles of law. Besides the smsti writers, it principally relies on the Kalpataru, the Parijata, Bhava deva, the Mitaksara, the Ratnakara, Harihara, and Halayudha. The several sections are styled harṣas. 
 
@@ -83,7 +83,7 @@ extract No. 502. 1375 79 4 High: 377: 889X ga: 8030' folio 38. 1376 ' \#97783( 7
 
 912 
 
-History of Dharmaśāstra 
+
 
 stated ( vide Blochman's translation p. 620 ) and he died on 10th November 1589 A. D. 
 
@@ -127,7 +127,7 @@ na FYETI TIPTARET SAP1977 i folio 11 b, and wegta opfOTT HITT, Fraai aa qarT4757
 
 914 
 
-History of Dharmaśāstra 
+
 
 ted that beautiful reservoir in 1646 of the Vikrama era 1380 (i.e. 1589 A. D.). Therefore it follows that literary works were com piled under the patronage of Todarmal between 1570-586 A. D. 
 

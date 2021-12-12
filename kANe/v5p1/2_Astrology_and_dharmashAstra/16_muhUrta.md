@@ -21,7 +21,7 @@ H, D, 68
 
 538 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -57,7 +57,7 @@ Dronaparva (80.23). In the Raghuvamsa (V. 36) Kalidasa says that Aja was born on
 
 540 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -87,7 +87,7 @@ A vai कि तहि । मुहूर्तमसावधीटो मा�
 
 542 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -117,7 +117,7 @@ to raamai DITATATE XI, 12–13, 15-16. For the various meanings of uma, vide H. 
 
 544 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -275,7 +275,7 @@ In support of Astrology Ptolemy (in Tetrabiblos, 1.2) puts forward certain argum
 
 554 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -301,7 +301,7 @@ Ptolemy speaks of beneficent and malefic planets (1.5), of masculine and feminin
 
 556 
 
-History of Dharmaśāstra 
+
 
 [ Soc. II, Ch. XVI 
 
@@ -343,7 +343,7 @@ by Mysore University, 1923-1926, in three parts); Muhurta dipaka by Nāgadeva (a
 
 558 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -535,7 +535,7 @@ insects) and the remaining five resemble human beings with special characteristi
 
 566 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -645,7 +645,7 @@ _846. गोजाश्चिकर्किमिथुनाः समृग�
 
 568 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -673,7 +673,7 @@ With Thi Electrit. VIII. 13. 848. TIE RECHTHTPE stringatsargui Art4. VII, 6 849.
 
 570 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -707,7 +707,7 @@ The Bť. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtanda (verses 8-15) s
 
 572 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -837,7 +837,7 @@ Rabu
 
 574 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1105,7 +1105,7 @@ Teng a 14:
 
 578 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1177,7 +1177,7 @@ dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal 
 
 582 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1201,7 +1201,7 @@ Some other technical words may be mentioned and defined here. The six items, viz
 
 584 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1227,7 +1227,7 @@ A good deal is said in Br. J. II. 15-17, Laghujātaka II. 10-12, Sārāvali IV, 
 
 586 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1359,7 +1359,7 @@ Another important doctrine is that of gocara. It means 8769 the consideration ab
 
 590 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1385,7 +1385,7 @@ In the Brhatsaṁhitā, the Bșhaj-jātaka, and the two works on Yātrā, Varāh
 
 592 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1409,7 +1409,7 @@ H. D. 75
 
 594 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI 
 
@@ -1479,7 +1479,7 @@ It has been seen above that not only was general astrology developed in early Ve
 
 598 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVI · 
 

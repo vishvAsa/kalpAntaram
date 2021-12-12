@@ -23,7 +23,7 @@ The Silāhāras bad a long history for several centuries in India, roughly betwe
 
 714 
 
-History of Dharmaśāstra 
+
 
 I 
 
@@ -47,7 +47,7 @@ Aparārka's work, like the Mitāksarā, though professedly a commentary on Yāj.
 
 716 
 
-History of Dharmaśāstra 
+
 
 visyat and so on. The index at the end of the printed Aparārka gives the names of the various smstikāras quoted in the work. Another feature not found in the Mit, is that Aparārka quotes long passages of the Dharmasūtras and explains them at length, e. g. on Yāj. III. 294 (p. 1205 ) he quotes Gautama ( Dh. S. 20. 2-9) and then offers a lengthy explanation ; on Yāj. III. 294–295, he quotes long passages of Vasistha (Dh. S. 15. 11-14 and 17-21) and gives datailed explanations of them. It is probable he had not before him commentaries on these dharmasūtras. Several hundred verses are quoted from the Manusmrti. The Dharma sutras of Apastamba, Gautama, Vasiṣtha, Viṣnu, Bodhāyana, Devala, Paiṭhinasi, Saṅkha, Saṅkhalikbita and Hārita are profu sely quoted. Similarly, Nārada, Bșhaspati and Katyāyana, Parāśara, Yama (quoted over 100 times mostly on ācāra and prayascitta sections) are quoted profusely. It appears from the way that Saṅkha and Sarkhalikhita are quoted that Aparārka had before him two separate works, one of Saṅkha (in which sotras and verses occur almost in equal numbers ) and of Sarkhalikhita in which prose passages vastly predominate and verses occur rarely. In the 99 references to pages where Saṅkha is mentioned he is quoted in prose on pp. 118, 119, 123, 150, 156, 249, 260, 262-63, 274, 694, 717, 718, 741, 842, 875, 882, 944, 1025, 1057, 1066, 1077, 1089, 1094, 1117, 1121, 1148, 1153, 1154, 1158, 1175, 1210, 1241. Saṅkha-Likhitau are mentioned about 63 times, but verses are rare. On p. 224 there is a quotation from sankhalikhitau in which there is a verse first, followed by a prose passage. On p. 896 at first there is a verse passage ( 14 verses ) followed by a prose extract on the same topic. On p. 1149 there is a prose passage of Saṅkhalikhita followed by a half verse attributed to Saṅkha. On p. 1154.1022 there is a passage of Saṅkha followed by another prose from Saṅkhalikhita ( the first word being the same in both). There are similar cases where Saṅkhalikhitau are quoted and then Saṅkha is quoted or vice versa on the same matter ( vide note below ).10224 I collected about 40 years ago passages 
 
@@ -77,7 +77,7 @@ It is remarkable that Aparārka names twelve Smstikāras with the prefix vrddha'
 
 718 
 
-History of Dharmaśāstra 
+
 
 least six nibandhakāras on dharmaśāstra viz. Asahāya, Visvarūpa, Bhāruci, Srikara, Medhātithi and Dhāreśvara. Aparırka observes a studied silence in the matter of citing the names of his prede cessors. He employs such vague expressions as kecit, anye, apare, though he cites views that were ascribed by the Mit. and others to Dhāreśvara and others, e. g. on pp. 741-42 he says1024 that the text of Yāj. "patni duhitaraḥ' according to some refers to the widow who submits to niyoga (this is the view of Dhāreśvara); on p. 744 he refers to the view of some that the word duhitr in Yaj. means only the appointed daughter (putrikā). This last was the view of Viśvarūpa and Srikara. On p. 761 he refers to the reading of some in Yāj. II. 150 as 'sāmantā sthavirā gaṇāḥ' which is found in Viśvarūpa (II. 154) and not in the Mit. Aparārka pames (p. 926 ) a Vāgblaṭa-smṛtisamgraha and a Smrti. mīmāṁsā of Jaimini ( p. 206 ) from which two verses are quoted, variant readings therein are noticed and detailed explanations thereof are offered. He refers to several works and authors on astronomy and astrology such as Garga, Kriyāśraya (p. 872), Sārāvali. On pp. 570 and 572 of the printed text occur two references to a pustaka of Rājānaka Sitikaptha.1025 That was probably a marginal note in a mis., the copyist or owner of which found on comparison with another ms. belonging to Rājānaka Siti kantha additional matter. Aparārka quotes from Bhatta (i. e. Kumārilabhatta ).1026 Aparārka does not appeal as frequently to the doctrines of the Pūrvamimams, as the Mit. does and he does not generally enter into acute discussions of Pūrvamimāṁsā in its application to Dharmasastra as the Mit. does. Here and there he mentions a few terms that are often employed in Pūrvamimāṁsā discussions, e. g. on p. 470 on Yāj. I. 226–228 he employs the words “aupadesika' and atideóika.' Similarly, on Yaj. I. 260 (on Trayodasiśraddha in the rainy season ) he enters upon a discussion of the terms 'prasajyapratiședha' and 
 
@@ -107,7 +107,7 @@ Whether Aparārka knew the Mit. is a vexed question. Some scholars, while holdin
 
 720 
 
-History of Dharmaśāstra 
+
 
 ( sannyasin) and not the servant of any king. In my opinion the Mit. was known to Aparārka. Aparārka reads Yāj. III. 17 as * Vaitānopāsanāḥ kāryāḥ kriyāśca sruticoditāḥ,' explains the first word as a karmadhāraya compound, gives the explanation of this verse offered by others, disapproves of it and then says that others read - Sruticodanat' for 'sruticoditah'.1023 Visvarupa reads ' vaitanikāsrayah... srutidarsanat' and offers no comment on this verse beyond the word 'spastirthametat' (it is III. 15 in the Trivandrum ed.). The Mit. does contain the reading referred to by Apararka and the Sruti passage 'yavaj-jivam' etc. Aparārka refers on Yāj. III. 254 to the reading 'sainām' 1028 adopted by some, says that the latter explain the verse as prescribing the penance for three years and observes that the verse of Manu (IX. 92 ) does not apply, as the latter say, to him alone whose palate has merely come in concact with liquor ( without his having actually swallowed it). Visvarupa (III. 248) does not explain the verse as prescribing a three years' penance nor does he refer to the contact of wine with the palate. The Mit., however, contains both these 
 
@@ -137,7 +137,7 @@ I on 13. III. 260 bas teruitgeret girarai Hig: HYRI Tha' &c. यत्पुन�
 
 722 
 
-History of Dharmaśāstra 
+
 
 Inscriptions of the northern Silāhāras speak of two kings who are named Aparādityadeva. In JBBRAS vol. XXI, pp. 505-516 there is a grant dated sake 1049 (expired) of Aparādityadeva who donated a village named Vadavali in the Thana District to a brāhmaṇa studying the Mādhyandina recension of the Vājasaneya sambitā. The king is there styled once as Aparājita and several times as Aparādityadeva. He was son of Anantadeva and grand-son of Nagarjuna and traced his descent to Jimūtavahana, son of Jimūtaketu, far famed in legend and literature as an exemplar of self-sacrifice, 1032 e. g. in the drama Nāgānanda. In this inscription Aparādityadeva is styled Silāhāranarendra and Jimūtavā hananvayaprasūta as in the colophon of the commentary on Yāj. (vide note 1020 above) and also Mahamandaleśvara and Tagarapura parameśvara. In the Annals of the Bhandarkar Institute, vol. V, part 2, p. 169 there is a grant made at Somnath-Patan in Kathiawar of Vikramsamvat 1176 (1119-20 A. D.) while Aparādityadeva of the Silāhāra family was reigning, almost in the same words as in the grant in JBBRAS vol. XXI p. 505. Therefore it appears that the dates of Aparādityadeva I referred to in these grants fall between 1115 and 1130 A. D. It was most probably this king who composed the commentary on Yaj. We known from the Srikanthacarita of Markha that king Aparāditya1033 of Konkan sent Tejakantha on an embassy to an assembly of learned men in Kashmir during the reign of Jayasimha of Kashmir (1129 to 1150 A.D.). Aparārka's commentary continues to be the standard law-book used by the pandits of Kashmir (Jolly's Tagore Law Lectures p. 24). Aparārka's work betrays familiarity with Kashmir. I have already noticed the reference to Rājānaka Sitikantha above. On a passage from Brahmapurāṇa speaking of a śrāddha at Mārtanda pādamūla, Aparārka notes (p. 903) that1034 the latter is well known in Kashmir. It is, therefore, most probable that the work 
 
@@ -163,4 +163,4 @@ The commentary of Aparārka is in mere extent nearly double of the Mitāksarā. 
 
 724 
 
-History of Dharmaśāstra 
+

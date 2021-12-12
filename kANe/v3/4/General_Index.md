@@ -89,7 +89,7 @@ family not complete for all purposes
 
 1016 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -1255,7 +1255,7 @@ training and medical treatment of Dūta (ambassador or messenger ) 127- 149; vic
 
 ancient India 203. to be barmed 127, 129, 209; quali- Elphinstone, author of History of ties of 127-128; three kinds of 128 ; India' 203a, 397.1032 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1403,7 +1403,7 @@ Gandharyaveda 49.
 
 1034 
 
-History of Dharmaśāstra 
+
 
 ( Vol, 
 
@@ -1527,7 +1527,7 @@ king 193. Harihara 5089, - Hariscandra; purchased Sunusepa 660, Hārita, (versif
 
 1036 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -1917,7 +1917,7 @@ son 85.
 
 1311042 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -2143,7 +2143,7 @@ bboja and Surāsṭra practised both gift of, should not be made by king husband
 
 1046 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -2507,7 +2507,7 @@ kusīda and vārdhușa 417; was not | Mūla, śānti for birth on 966. condemned
 
 Mundakopapisad 888. , ,1052 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 
@@ -2615,7 +2615,7 @@ sabhyas and brābmanas 367 : are to b e resorted to only when none of the human 
 
 1054 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -2741,7 +2741,7 @@ daya) 8400, 865n, 8720, 873n, 881. to partition encouraged from reli
 
 1056 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -3123,7 +3123,7 @@ of spiritual benefit')." " Kāṛtra (territory of a State )- 1328; Religious ri
 
 composition at the population of 133 ; form, owing to bodily or' mental . is most important of the seven ele. defects 608-609.106% 
 
-History of Dharmaśāstra 
+
 
 i voi. 
 
@@ -3667,7 +3667,7 @@ to be inforred 835-837. 6260, 628, 629, 6310, 6320, 6340, 635, 6370-6390, 659, 6
 
 1068 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -4287,7 +4287,7 @@ praised as the lord of rāṣtras 132. 1 719,-7310,,870, 9640, 9680, : ;
 
 1076 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -4657,7 +4657,7 @@ of study of Veda, homa &c. 687; 59-60, 62, 71, 95-97, 101, 107–110, cannot be 
 
 1361982 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 

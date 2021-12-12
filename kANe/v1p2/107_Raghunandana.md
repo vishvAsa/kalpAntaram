@@ -29,7 +29,7 @@ i et व्यवहृतावेकादश्यादिनिर्णय
 
 892 
 
-History of Dharmaśāstra 
+
 
 It is not feasible to give even brief sammaries of Raghu nandana's tattvas. Their very names indicate the subject matter. But one of them, the Dayatattva, deserves special mention. It treats of partition made by father, partition among brothers after their father's death, persons not entitled to a share, property not liable to partition, evidence of separation, stridhana and its devolution, inheritance to one dying sonless etc. His Tithitattva contains a description in Sanskrit of the game called Caturanga played on the full moon of Aśvina by four players. Vide (in vol. I) Tithi-tattva pp. 137–139 ( for a description of 'catu rangakridana). 
 
@@ -67,7 +67,7 @@ In may be noted that Raghunandana in Malamāsatattva (vol. I. p. 792) quotes a p
 
 894 
 
-History of Dharmaśāstra 
+
 
 4 
 
@@ -99,7 +99,7 @@ With regard to Itihāsa and Puranas शङ्कराचार्य says at th
 
 896 
 
-History of Dharmaśāstra 
+
 
 dictum of the Darmasindhu is opposed to that of Gita1363 itself (IX. 32) and the words of Saṅkarācārya who places the Sūdras on the same footing as the three Varnas. 
 
@@ -133,7 +133,7 @@ lar words. Raferara FTTTTTÜ. À HIFH fHargzdi. H, D, 113
 
 898 
 
-History of Dharmaśāstra 
+
 
 
 
@@ -177,7 +177,7 @@ The Tattvas in the Smṛtitattva enable us to see clearly, what subjects falling
 
 900 
 
-History of Dharmaśāstra 
+
 
 (vol. II pp. 645-658); 20. Devapratișthā, pp. 12 (vol. II pp. 502-513); 21. Vastuyāga, pp. 12 ( vol. II pp. 412-423 ); 22. Sri puruṣottama, pp. 11 (vol. II pp. 563–573); 23. Vrata, pp. 10 (vol. II pp. 151-160); 24. Yajurvedi-Vṭsotsarga, pp. 9 (vol. II pp. 636-644); 25. Sudrakstya-vicāraṇa pp.4 (vol. II pp. 633-636); 26. Durgārcanapaddhati pp. 659-683. It would be noticed that religious duties on the different tithis of the year occupy, as regards extent, the first place; then comes Suddhi (āsauca on death and impurity on birth ), then astronomical and astrologi cal matters, then āhnika (the daily religious duties ), then Śrā ddhas, then religious duties in intercalary month. It may be noticed that inheritance and partition cover only 36 pages and so do administration of justice, substantive and procedural law; and ordeals are assigned more pages than even Dāya and Vyavahāra. 
 
@@ -201,7 +201,7 @@ Raghu in Malamāsatattva, Vol. I p. 768 as ' mali gan mlocati gacchatīti unalim
 
 902 
 
-History of Dharmaśāstra 
+
 
 appears that some tattvas at least had been composed before the Malamāsatattva was actually written. For example the Malamāsa. (vol. I p. 834) quotes Manu IV. 103 (vidyut-stanita &c.) and adds that it was explained in Tithitvttva. On p. 775 (vol. I) the Malamāsa expressly says. Tajjyotiḥśāstroktakala...iti Jyotistattve-bahudhā vivītam'. From the Ekādasitattva (vol. II p. 19) it appears that the Malamāsatattva was yet to be composed when the former was composed (evam ca Gobbilā nukteṣvannaprāśanādiṣu yad-Vṭddhiśrāddham tan-malamāsatattve mātsyapurāṇādivacanād vaksyate'. The most extensive tattvas are (as shown in detail above) those on Tithi, śuddhi, Jyotis, Āhnika and Sraddha, whereas Malamāsa comes only next to these five in extent. 
 

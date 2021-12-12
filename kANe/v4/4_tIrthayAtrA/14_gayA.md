@@ -35,7 +35,7 @@ I shall now turn to the name Gayā and references to it or similar names from th
 
 646 
 
-History of Dharmaśāstra 
+
 
 Vol. 11, 95. 9), in the Visnudharma-sūtra 85,4 (in the form Gaya. śīrsa), Vāmanapurāna (22,20 as the eastern vedi of Brahma), Skanda I 2. 13.21 and even in the Buddhist boobs such as the Mahāyagga (1 21. 1, S. B. E. vol. XII p. 134) in which last it is said that after having dwelt at Uruvela, Buddha accom panied by a thousand bhikkhus went to Gayāsisa (which is the Pali equivalent of Gayasirga). Traditions of Gaya as a king of the territories round about Gsyā are mentioned in Jaina and Buddhist works. The Uttaradhyayapasūtra (S BE, vol. 45 p. 86 and note 3 there) states that he was son of king Samudravijaya of Rajagrha and became the 11th Cakravartin, The Buddbacarita of Aśyaghosa states that Buddha visited the hermitage called a city of the royal sage Gaya, that the saint (future Buddha) fixed his dwelling on the pure bank of the Nairanjanā river (S. B. E vol. 49 part 1 p. 132, Canto XII. 87-88) and p. 193 (chap XVII, 8 of the same work) and that Buddha went to the hermitage of Kāśyapa at Gayā called Uruyilvā, The same vork (S. BE , 49 part 1 192) speaks of Dharmātays where dwelt 700 ascetics whom Buddha helped to enter nirvana Visnupada occurs in the Vispudharmasūtra 85 40 as a holy place very fit for śrāddha. In my opinion at least Aurnayabha held that in & particular region there were three places on which according to the legends current in his day the foot-prints of Vispu's foot could be seen 1471. Two of 
 
@@ -169,7 +169,7 @@ Or i eg gaara शीतलास विशेपतः ॥ अपि जाय�
 
 654 
 
-History of Dharmaśāstra 
+
 
 i voi. 
 
@@ -211,7 +211,7 @@ tu:, FOETF...Te are repeated in my 110. 28-29.
 
 656 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -467,7 +467,7 @@ Raghunandana on Gayā-śrāddha paddhati) published in Bengali characters. Then 
 
 672 
 
-History of Dharmaśāstra 
+
 
 [Vol. (Vayu 110. 20-21 Sa brahma., tilodakam' with om prefixed ), perform invocation as before of the father and others with water in, folded hands and should offer a pioda to bis father of pāyasa or other material mixed with sesame, water and honey with the words 'Om, adya amuka-gotra pitar-ainukadevaśar man, esa to pipdah svadba'. In this way he should offer pinda to the remaining eleven devatās, viz. paternal grandfather and others (or eight or five according to usage). He should donate A fee according to his means. Then he should sit to the south of the place he so far occupied, spread on the ground kusag having roots but with tips turned to the south, should repeat the mantras (Vāyu 110 10-12), perform on those kuśas once an invocation in the form of an anjalı of water mixed with sesame, repeat the two verses (Vayu 110. 22-23 'Pitā pitāmaha...mupatisthatām' with om prefixed 1522a) and shonld offer one pinda made of one handful of barley flour mixed with sesame, kuśas, ghee, ourds, water and honey to all the twelve devatās ( ancestors) together. Then follows what is called Sodaśīkarma, which is as follows, Nineteen spots for pindaṣ should be made (each to the south of the preceding) and should be smeared with pañcagavya one after another; then he should spread over each kuśas with their tips to the south, should invoke on the kuśas the persons intended with the mantras (Vāyu 110. 30-32 asmat-kule mrta... bijodakaih '). should worship them by offering sandalwood paste and the rest, (and if he is performing the rite of sodasi on a spot saored to a specific deity then worship that deity also with an appropriate mantra ), should then offer once as before an anjal of water mixed with sesame and offer pindas beginning from the first spot, each pinda being offered after reciting each of the 19 mantras (Vāyu 110. 34-55, omitting 110,44 'asipatra o', 110.46 
 
@@ -501,7 +501,7 @@ HD. 55
 
 674 
 
-History of Dharmaśāstra 
+
 
 [Vol. syater, bolding one's breath, loosening the knot of one's garment, offering a thread and sandalwood paste. 
 

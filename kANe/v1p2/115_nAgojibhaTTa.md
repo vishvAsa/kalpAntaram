@@ -9,7 +9,7 @@ The learning of Nāgojibhatta was of an encyclopaedic character. Though his spec
 
 964 
 
-History of Dharmaśāstra 
+
 
 several branches ). On dharmaśāstra he composed several works, viz. Ācārendusekhara, Aśaucanirṇaya, Tithindusekhara, Tirthendusekhara, Prayascittendusekhara or Prayascittasāra samgraha, Sraddhendusekhara, Sapiṇdimañjari and Sapindya dipikā or Sāpindyanirpaya. Of his far-famed works on the Papinian system, such as the Mahābhāsya-pradipoddyota, the Paribhāṣendusekhara, the Vaiyakarañasiddhantamañjūṣā, (in large and small recensions ), the Sabdendusekhara (big and small) and of his commentaries on the Kavyaprakāśa-pradipa, the Kuvalayānanda, the Rasagangadhara, the Rasatarangini, the Rasamañjari, nothing can be said here for want of space. 
 
@@ -55,7 +55,7 @@ of D.C. ms. No.520 of 1886–1892 and Tri. Cat. Madras Govt. mss, for 1919-22 p.
 
 966 
 
-History of Dharmaśāstra 
+
 
 (pp. 188-199) and so Bhattoji, who was a pupil of Saṅkara bhatta, may be assigned to the period between 1575–1645 A. D. Nāgojibhatta was a pupil of Bhattoji's grandson. There fore Nāgojibhatta must have flourished towards the end of the 17th century and the first half of the 18th century. Nāgoji bhatta's literary activities, looking to his vast out-put, must have extended over a long period of more than 50 years. The pedigree1507 from Bhattojidikṣita, through a succession of teacher and pupils or father and son, is given below. Vide introduction to the Rasagangadhara (Nirn, ed.); Trivedi's introduction pp. 18-20 to the Vaiyakaranabhūṣana of Konda bhatta, a nephew of Bhattoji (B. S. series ); Dr. Belvalkar's Systems of Sanskrit grammar pp. 46-50 and Kielhorn's preface to the Paribhāṣendusekhara p. XXV ( where the succession of teacher and pupil is brought down to the days of Kielhorn himself) for further details. In the Indian Antiquary, vol. 41 
 
@@ -115,4 +115,4 @@ e afert ... aadhai situasutafusarai faiant: nga: प्रसादासाद�
 
 968 
 
-History of Dharmaśāstra 
+

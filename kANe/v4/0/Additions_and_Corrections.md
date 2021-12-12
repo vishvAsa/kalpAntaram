@@ -63,7 +63,7 @@ p. 45. 185 line 11 Add after 'namo Vasudevāya.'Vide Harian
 
 xxviii 
 
-History of Dharmaśāstra 
+
 
 200 
 
@@ -123,7 +123,7 @@ and sara)' 534 note 1200 Add at end“Vide 'na & Art:' . 571.33 1" 546 1.17 Add 
 
 According to the Nirnayasındhu (p 12) tbe first year anniversary srāddha has to be per formed in the intercalary month and subse quent anniversary sraddbas are to be performed in the pure month and oot in the intercalary month, if tbe deceased died in an ordinary month, while at the time of the first anni versary or subsequent anniversary sraddha 
 
-History of Dharmaśāstra 
+
 
 Page Line or Yote 
 
@@ -177,7 +177,7 @@ Jagannātba every yuar and the endowments of the principal temple and the shrine
 
 XXXII 
 
-History of Dharmaśāstra 
+
 
 Page Line or Note 699 n 1582 Add at the end "The mantra occurs in the 
 

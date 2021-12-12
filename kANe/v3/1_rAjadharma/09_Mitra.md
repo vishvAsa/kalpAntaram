@@ -31,7 +31,7 @@ The yogakṣema (welfare) of a State springs from peace (sama) and exertion (vy�
 
 218 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -59,7 +59,7 @@ a to frasi farmacie Parlat a ATA: FISTER tara u इति। मिताक्�
 
 220 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -89,7 +89,7 @@ madhyama ( or madhyastha acc. to Nitivākyāmṛta p. 318 ) is the immediate nei
 
 T TYT UT \# THE 59. 70-71, oft aux connects this half with medicine, while some read द्विसततिविधा व शरीरस्य प्रतिक्रिया.222 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -161,7 +161,7 @@ hry VII. 1. Vide Raghuvamsa 8.21 where Kālidāsa follows this qure बन्य
 
 OTTI THOT. on T I. 346. 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -189,7 +189,7 @@ pp. 94-95) speak of four sandhis, maitra, parasparopakūra ( agree ment to help 
 
 226 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -207,7 +207,7 @@ crowned with reward, Similarly the Ait. 305 Ār. III. 2. 4 men tions the signs o
 
 228 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -259,7 +259,7 @@ with saffron paste and marking nut, with rice grains and white mustard and kuṣ
 
 The duty of the conqueror, after vanquishing his opponent, to place on the throne of the late king his son or a kinsman and to respect the customs and usages of the territory conquered has232 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -287,7 +287,7 @@ Parāśara, Kautilya is of opinion that the vyasana of the people has graver con
 
 234 
 
-History of Dharmaśāstra 
+
 
 ( Vol 
 

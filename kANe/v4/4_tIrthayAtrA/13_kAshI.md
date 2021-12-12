@@ -33,7 +33,7 @@ Cambridge History of India (vol. I. p. 117 ) remarks that in the Brāhmana perio
 
 620 
 
-History of Dharmaśāstra 
+
 
 i voi, the name of the country) In the Agusāśana-parya (chap 30) it is said that Haryaśya, the grand-father of Dirodāsa, vas king of the Kāsis 1409a and was harassed and killed by the Vitabavyas in the Deab between the Ganges and Jumna. Haryaśva's son was Sudeva who was crowned king of Kası (verse 13, Kāśirajos bhyasinyata) and he also met the same fate as his father did. Then Dirodāsa, son of Sudeya, became king of the Kāśis and founded Vārāpasi thickly populated with men of all varnas on the northern bank of the Gomati. This legend shows that Kāśī was the ancient name of a kingdom and the ancient belief was that Vārāpagi was founded as the capital of the Kāśis by Divodāsa. In the Udyogaparta also Diyodāsa is said to be the ruler of Kāsis.1410 
 
@@ -93,7 +93,7 @@ In several purānas Kāśī or Vārānasi has been lauded and described at great
 
 624 
 
-History of Dharmaśāstra 
+
 
 [Vol. Kāśikhanda 1416 (chap. 26.2-5) the following questions are asked, viz. from what time this holy place Avimukta became highly famous, how it received the nams Avimukta, how it became the way to moksa, how the pool of Manikarnikā became an object of worship to the three worlds, what was there formerly (when) the Ganges was not there, how it came to be called Vārānasi, Kaśī, Rudrāvāsa, how it came to be Ananda kānana (the forest of bliss ) and then Avimukta and Mahāśmaśāna ( the great cemetery ). 
 
@@ -131,7 +131,7 @@ H. D.79
 
 626 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -219,7 +219,7 @@ TVol.
 
 650 
 
-History of Dharmaśāstra 
+
 
 accumulated in thousands of past lives are destroyed tho moment he enters Avimukta, brahmanas, ksatriyas, vaisyas, śūdras, persons born of mixed marriages, worms, mierchas and others born of low mixed unions, insects, ants, birds and beasts, when they succumb to death in course of time all find happiness in my auspicious city, all being endowed with a crescent of the moon on their heads, with a (third) eye on their forehead and have a bull as their conveyance." A person, 1438 even though his mind may be addicted to pleasures of sense and though he may have given up devotion to dharma, if he dies in this place (Banaras) he does not again enter upon the path of samsara (the cycle of births and deaths); a man concentrating his mind for thousands of past lives may secure Yoga; but by dying (in Banaras) he secures the highest moksa in this very life. Even if a man be a sinner 1439 or a rogue or irreligious he becomes free from all sins if he goes to Avimukta Other women,1440 that act as they like and are intently devoted to enjoyments, when they die here by lapse of time secure the highest worlds. In this world moksa 1441 cannot be secured by men without the (practice of) Yoga; but in the case of those who reside io Avimukta Yoga and moksa are both secured. For planets, 143 Junar mansions and stars there is the danger of falling (from the sky) in course of time but there is no fall for those who die in Avimukta, Whatever 1443 evil actions may have been com mitted by an evil-minded man or woman, knowingly or unknow 
 
@@ -321,7 +321,7 @@ the Daśāśvamedhaghāt at dawn. For the eulogy of Daśāśva medha, vide Kāś
 
 636 
 
-History of Dharmaśāstra 
+
 
 Voi. the dying man brought to the sacred pool1457a (vide Kaśikhanda 7.78, 25, 72-73 and 32. 115–116). The Pañcagangā ghāt 18 so called because it is supposed that five rivers, viz the Kıranā,1458 Dhūtapāpā, Gangā, Yamunā and Sarasvati, meet here (though four of them are invisible) This is very highly eulogised and it is said in the Nāradīyapurāna and the Kāśīkkapda (59, 118-133) that when a man takes a bath in the Pañcanada he is not born again in a body made up of the five elements. It is said that this confluence of five rivers had different names viz. Dhariyanada, Dhūtapataka, Bindutirtha and Pañcanada in Krta and the following Yugas respectively The Kāśikhanda in chap. 59 deals with the confluence of five rivers and gives phantastic legends as to why the rivers were called Kiropā (59. 108–113) and Dhūtapāpā (59 101-106). The river Varanā is the northern boundary of Vārānasi and the end of the ghāts on tlio northern side is reached at the confluence of the Varana with the Ganges. That the ghāts have been there for at least a thousand years can be proved from copperplates and inscrip tions. The Gāladvāla rulers of Kanoj (of whose times at least 55 copperplates and 3 inscriptions on stone were issued during the period 1097 to 1187 A. D), being devotees of Vispu, several times made grants at the Adi-Kaśava ghāt. Vide J, R AS for 1896 p. 787 (king Madanapala's grant on the occasion of a Sun-eclipse after Mahārājai Prthvīśrīkā took a bath), I A. vol. 19 p. 249 (grant of Govindacandra in samvat 1188 1, e. 1131 A, D.), E I 14 p. 197 (Candradityadeve, who having bathed at Adikesaya-ghatta 1459 at the confluence of the rivers Gangā 
 
@@ -383,7 +383,7 @@ f ace 96 125. 1462. Aron fūtecane pitaaria. Fri fegt aan te FTTHETIC | Egan fuq
 
 640 
 
-History of Dharmaśāstra 
+
 
 (Vol. Kūrma I. 32. 1-19 and I 35. 1-15 (tīrthas) and in the Kāśī. kbanda, chap. 10. 86–97, chap. 33, chap. 53. 27 ff., chapters 55, 58 and 61 pumerous lingas and tirthas of Banaras are named. The Kāśikhanda, chap 73, 32-36 (quoted by Tri. S. pp. 264–265) mentions 14 of these as Mahālipgas, viz. Omkāra, Trilocana, Mabādava, Krttīvāsas, Ratneśa, Candreśvara, Kedara, Dharmesa, Vireśvara, Kamesa, Viśvakarmeśvara, Manikarniśa, Avimubta, Vigveśvara. It is provided in Kasi kbanda 73 39 that yātrūs of these main lingas should be cele brated every month from the 1st tithi onwards In Kāśikhanda 73. 45-48 there is another series of fourtean great lingas diffe rent from those in chap 73, 32-36. Fourteen āyatanas are named in Kāśikhanda 73. 60-62.14646 Twelve out of these are specified as liogas in Lingapurāna I. 92,67-107, In Kāśikhanda chapters 83 and 84 are enumerated about 125 tirthas of Banaras In chap. 94, 36 of the Kaśikhanda 36 principal lingas are re ferred to (14 Omkarādi, 8 Dakṣeśvaradi and 14 Saileśādı). From considerations of space the other lingas and tirthas are not mentioned here. But out of all these Visveśvara is said to give quick results. 
 

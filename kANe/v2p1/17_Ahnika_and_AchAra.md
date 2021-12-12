@@ -39,7 +39,7 @@ H.D.81
 
 642 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XVII 
 
@@ -109,7 +109,7 @@ E OD I 3. 280.
 
 1514. AUTO arats THE STATT I 180. 16; E T TE Te FATHIMI \#98293. 9.646 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XVII 
 
@@ -165,7 +165,7 @@ a n y p. 16, WURTE P.6, Fris. ( *) p. 210 (whore they are asori bod to H).
 
 648 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XVII 
 
@@ -277,7 +277,7 @@ I. \#. II. 6. 1.7.
 
 654 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XVII 
 
@@ -313,7 +313,7 @@ TUTTI I . All theso are quoted in the way. I. pp. 105-106 and other digests. '
 
 ? ... ... rera: is afhogeros 68. 49. 1649. TOTSTATHATT U TTATHIO I HAR IX. 44, MT4. . . I. 11. 32. 9 (reads 779910\#), FHS XII. 34., 91. y. &. II. 3. 30.656 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XVII 
 
@@ -393,7 +393,7 @@ T a narauerTUIMTE I Tamiq Farret fryma च॥ देवल quoted by अपर�
 
 660 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XVII 
 
@@ -661,7 +661,7 @@ H. D. 85
 
 674 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XVII 
 
@@ -687,7 +687,7 @@ After samdhya comes homa (Dakṣa II. 28 and Yaj. I. 98-99), If a brabmaṇa too
 
 1608. Parematy Perurenetarianeraremettant TTTT: शिको विष्णुल्पोपा देवा। पुण्मपि तसवेषतामीतिकर पुणवान्तरनिन्दावर्जितरेष धार्यम् । W E. ( STIL P. 310).676 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XVII 
 
@@ -721,7 +721,7 @@ ANY I FAAT FTYƏT: \#1 सस्येवर्षन्तो रहयन्�
 
 678 
 
-History of Dharmaśāstra 
+
 
 [Ch. XVII 
 
@@ -969,7 +969,7 @@ Asv. gr. III. 4.5 is very brief as to pittarpana'after satiat. ing the pitṛs w
 
 69% 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XVII 
 
@@ -995,7 +995,7 @@ The Snānasātra (3rd kandika ) of Katyāyana attached to the Pār. gs. contains
 
 694 
 
-History of Dharmaśāstra 
+
 
 I Cb. XVII 
 

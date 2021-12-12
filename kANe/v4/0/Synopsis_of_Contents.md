@@ -99,7 +99,7 @@ tirthas. History of Kuruksetra and its ober games viz, northern Vedi of Prajāpa
 
 xvi 
 
-History of Dharmaśāstra 
+
 
 PAGES Prthūdaka, seven forests; Matburā, its history, twelve forests, Vrodāvana, Govardhana, Gokula or Vraja, Purusottama tīrtha or Jagannātha ; peculiar features of Jagannātha, viz. car festival, army of at. tendants, five important tīrthas, obscene sculptures on walls of Jagannātha temple. Narmadā, eulogy of and sub-tīrthas on Narmadā, Godāvarī and 100 tirthas thereon described in Brahmapurāna such as Tryambaka, Janastbāna, Nāsık, Govardhana, Pañ. cavatī, Kāñci, Pandharpur, its chief temple of Vithobā , large staff of priests, temple of devotee Pundaliha, Vārkarīs 
 

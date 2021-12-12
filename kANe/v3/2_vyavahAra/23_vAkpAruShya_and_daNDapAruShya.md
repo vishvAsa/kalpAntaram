@@ -137,7 +137,7 @@ An important question is how far the right of private defence of person or prope
 
 518 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

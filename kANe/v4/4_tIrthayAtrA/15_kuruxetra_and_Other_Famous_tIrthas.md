@@ -129,7 +129,7 @@ ___1557 सरस्वत्युत्तरे तीरे यस्त्�
 
 686 
 
-History of Dharmaśāstra 
+
 
 [Vol. taxes and tithes for the benefit of some priests and temples, one of which was the temple of Visnu in his Yajāayarābs avatāra built at Prthūdaka, 
 
@@ -165,7 +165,7 @@ Taha TTTTTT: IFETTo vol II. p. 36 OR 97. III 1. 26 and ai 15, mesa gra Fafet en 
 
 688 
 
-History of Dharmaśāstra 
+
 
 (Vol. in those days. When Hamsa and Dimbhaka, brave command ers of Jarāsandha, drowned themselves in the Jumnā and when Jarasandha sorrowfully went to Magadha Krspa gays 've shall again joyfully reside in Mathurā* (Sabhāparva 14. 41-45), Ultimately Krsna is said to have left Mathura owing to the constant attacks of Jarasandha and established the Yādavas in Dvāraka 1561 (Sabhāparva, 14. 49-50 and 67). The Brabma purāna, on the other hand, states that the Vrspis and Andha kas on the advice of Krsna loft Mathurā through the fear of KalayavanaVide also Vi. V. 23. 8-15. The Vayu (88.185) states that Satrughna, the brother of Rāma, killed the demon Layana, son of Madhu and established Mathura in Madhuyana while the Rāmāyaba (Uttara-kānda 70. 6-9) informs us that Satrughna took twelve years to make Mathura a fine and pros perous city, , In the Ghata-Jātaka (Fausböll, vol. IV. pp. 79-89 No, 454) Mathurā is called Uttara Madhurā (to distinguish it from Madhurā of the Pārdyas in the south) and the story of Kamsa and Vasudeva is narrated, which differs in some material points from the Mahābhārata and the Purānas. In the Raghuvamsa XV.28 it is mentioned as Madhurā and as founded by Satrughna. Hiouen Thsang states that in Mathura there'existed in his day three stūpas built by Asokarāja, that there were in Mathurā five Deva temples, 20 sanghūrāmas (Buddhist contents) with 2000 Buddhist priests (Beal's B. R. W, W. vol. I p 179 ). James Allan (in Catalogue of the coins of Ancient India' 1936, p. CXVI) states that the coins of the Hindu kings of Mathurā cover the period from the begin ning of the 2nd century B. C to the middle of the first century B. O, For some ancient coins from Mathurā, the Cambridge History of India, vol. I, p. 538 and plate V (No. 5-10) may be referred to, 'An interesting and informative work is 'Mathura' by FS. Growse (2nd ed. 1880). Inscriptions contribute important evidence about the history and antiquity of Mathurā. 1562 The famous inscription of Khāravela (E. ). pol. XX, at p. 79) includes among the exploits of that king of Kalinga the retreat of the Yeyana king Dimita to Madhura (1. 8. Mathurā). Several 
 
@@ -245,7 +245,7 @@ Fight Fiteta (8t) 80. 104-105,
 
 692 
 
-History of Dharmaśāstra 
+
 
 I Vol. Krsna was brought up in his early childhood by Nand-gopa who removed his habitation from Gokula to Vrndāvana out of fear of what Kamsa might do. The great Vaisnavite saint Caitanya visited Vrndāvana (Caitanya-caritāmrta canto 19 and 9th Act of the drama Caitanyačandrodaya, both by Kapikarna pūra or Paramānandadāsa). In the 16th century Vrndāvana became a centre of Caitanya's bhakti movement owing to the strenuous efforts and learned writings of the Gosvamins of Vrndāvana, particularly Sanatana, Rūpa and Jiya. Vide Prof. S, K, De's 'Vaisnava faith and movement in Bengal' (1942) pp. 83–122. Vallabhācārya, who was a contemporary of Caitanya founded new Gokula, one mile to the south of Mahapana in imitation of the ancient Gokula. Caitanya and Vallabhācārya met at Vrndāvana (vide Manilal O. Parekh's work on Vallabhācārya p. 161). The old temples of Mathura met the game fate at the orders of Aurangzeb as the temples of Banaras, 1572 
 
@@ -277,7 +277,7 @@ Raghunandana in his Purusottama-tattva quotes a verse1572 (which as printed is c
 
 ទំ 
 
-History of Dharmaśāstra 
+
 
 [Vol. pretation, Raghunandana conneots this Rgveda verse with Purusottama, the image of which is made of wood, 
 
@@ -303,7 +303,7 @@ Stripping this story of the supernatural, it appears probable that the holy plac
 
 696 
 
-History of Dharmaśāstra 
+
 
 [Vol. of Buddhism in Oriasa are the existence of Asoka's rock ediots on the Dhauli Hill (O.I.I. vol. I pp. 84–100), the existence of many caves of the Buddhist period on the Ihandagiri range about five miles to the west of Bhuvanesyara, the procession of the car of Jagannatha which resembles the procession of Buddha's Tooth relic as described by Fa Hien (Hunter's Orissa, Vol. I. p. 131-132) and the three cruda wooden images of Krspa, Subhadra and Balarama which are hardly found anywhere else and which correspond to the tāres peculiarities of Buddhism viz, Buddha, Dharma and Sapgha. Vide Mitra'a 'Antiquities of Orissa, vol. II. pp. 122-126 (where he gives wood-cuts showing the figures of the images and comparing them with Buddhist symbols and Cunningham's 'Ancient Goography of India' pp. 510-511 (the remarks in which appear to me far-fetched). In J. R. A, S. vol. 18 at p. 402 (new series) Sewell things that the celebrated image of Jagannatha was originally one of the Triśūlas or developed Taurus symbols. 
 
@@ -335,7 +335,7 @@ H.D. 88
 
 698 
 
-History of Dharmaśāstra 
+
 
 (Vol. the country-house of Jagannātha (which is about two miles Away) amidst the shouts and emotional songs of thousands of pilgrims, Owing to the references in English literature to the cor of Jagannatha it is supposed by many that pilgrims used to throw themsolves before the car in a religious frenzy and were killed. But there is hardly any truth in these suppositions. Thoro might have been a fer accidental deaths. Hunter in Orissa' (vo). I pp. 133-34) scouts this idea of suicide under the car and Rajendralal observes (in 'Antiquities of Orissa', vol. II. p99) No Indian divinity bas & mors unenviable notorioty in English Literature than Jagannatha. It is certaio, neverthe loss, that human conception has never realized a more innocent and gentle divinity than Jagannatha and the tenets of his votaries are the very reverse of sanguinary or revolting. Never was opprobrino more unjustly cast on an inoffensive object than in this instanoe and none merited it less'. On the 10th day of the bright helf begins the return of the car from the country house, 
 
@@ -449,7 +449,7 @@ The Narmadā is frequently mentioned in the Mahābhārata and some of the Purā�
 
 704 
 
-History of Dharmaśāstra 
+
 
 (Vol. says (verse 1) that there are 400 principal tirthas on both banks of the Narmada, but from Amara-kantaka three crores and a half (verses 4 and 27-28). 1595 The Vanaparva (in chap 188 103 and chap. 222.24) mentions the Narmadā along with the Goda vari and other rivers of the south. In the same parra (chap. 89. 1-3) it is stated that the holy Narmada is in the Ānarta country 15%, that it is endowed with priyangu creepers and mango groves, that it has strings of Vānira fruit, that it flows to the west and that all the holy places in the three worlds come for a bath to the Narmadā. The Matsya and Padma declare 1597 that the Ganges is holy in Kanakhala, the Saras vati jn Kuruksetra, but the Narmadā is holy everywhere whether in a village or in a forest and that the Narmadā purifies the sinner by its very sight while the waters of the Sarasvati do so by three baths (on three days), of the Yamunā (by baths) in seven days and of the Ganges by a single bath. The Vianu dharmasūtra (85.8) in enumerating a list of tirthas that are eminently fit for śrāddha includes the banks of the Narmadā throughout the whole length among them. The Narmada is said 1598 to have started from the body of Rudra which is a poe tic way of saying that it rises from Amarakantaka that is said to be the abode of God Maheśvara and his spouse (Matsya 188 91). The Vāyupurāna declares that the holy Narmadā, the best of rivers, is the daughter of the pitis and the śrāddhas offered on it become inexhaustible 1599. The Matsya and Kūrma both say 
 
@@ -501,7 +501,7 @@ N
 
 706 
 
-History of Dharmaśāstra 
+
 
 [Voli Many sub-tirthas are enumerated, out of which two or three may bo nientioned here. One is Maheśvara-tirtha (1. e. Omkāra) from where Rudra is said to have burnt down with an arrow the three cities of Bānāsura (Matsya 188,2 ft, Padina I 15 2 ff), Sukla-tirtha (highly praised in Matsya 192.3 ff about which it is said that the rājars Cāpakya 1605 attained perfection there), Bhrgutirtha (at the very 1608 sight of which a man becomes free from six, a bath in which leads to heaven and death at which ensures non-return to sainsara ), the Jamadagnya-tirtha (where the Narmada 1607 falls into the sea and where Lord Japārdana secured perfection). The mountain Amarakantaka is a tīrtha that dispels all sins including brahmana-murder and it is one yojana all round in extent (Matsya 189. 89, 98). The most important place on the Narmadā is, however, Māhismati, about the exact location of which scholars have differed. The general consensus of opinion is that Mābismati is to be identified with Omkāra Mandhata, an island in the Narmadā about 40 miles south of Indore. It has a long history. Moggaliputta Tissa is said in Buddhist works to have sent missionaries to several countries in the reign of Asoka (about 247 B O.), one of which was sent to Mahigamandala. Dr. Fleet in his paper · Mabisa. mandala and Māhismati' (in J, R. A. S. for 1910 pp. 425-417) assigns cogent reasons for identifying Mahigamapdala and Māhismati. Māhismati was well-known to the Mahābhasya, 188 from a passage in which it follows that by a forced march & person starting from Ujjayini could reach Māhismati the next morning. Kādidāsa describes it as surrounded by Revā (Raghuvamśa VI 43). Mākiemati is mentioned as being on 
 
@@ -707,7 +707,7 @@ I am highly obliged to Pandit Balacbarya Khuperkar of Kolhapur for sending to me
 
 718 
 
-History of Dharmaśāstra 
+
 
 tVol ists on the southern bank of the river Bhaimi and there is also a rare but fine image there; it is called Paundarika ksetra and the greatest of gods viz. Panduranga worshipped by the whole ksetra resides there. It is three times holier than Puskara, six and ton times holier than Kedāra and Vārānasi respectively. Pundarīka practised severe austerities at the end of Drāparayuga in the 28th Kalpa and always devotedly attended upon his parents. God Krsna who was making a herd of cows graze on Govardhana hill became pleased with him for his devotion to his parents, Krsna who wields & stick for driving cows, who has bracelets rendered bright by (the colour) of the umbrella 1633 (shade), who is adorned with a head-gear (mukuta) and a skya ( a loop ) scintilating with the lustre of many jewels, who was very charming and had armlets studded with jewels, who does not appear to ) wear any dhots, but has his loins covered with nickers, who is set off by a girdle of three strings tied on his waist and who stands with arms akimbo and appears possessed of three lines on his belly. Though a ms. of the Tirtha portion of Hemādri's work has not yet been recovered, there is no reason to doubt that the verses were taken by Gopālācārya from Hemādri's work, particularly when almost all those verses are quoted by the T. S. (about 1500 A. D.) from the Skandapurāna and Kūrmapurāna. As Hemādri composed his work about 1260 to 1270 A. D. and as the verses quoted by him are cited from the Skandapurada, it follows that several centuries before 1260 A. D. Pandharpur was known as a tirtha, that the devotee and saint Pupdarika (Marathi 'Pupdlik') also was so known then and that the image of Vithoha was essentially the same in appearance as it is now. That Pandharpur had risen in sanctity and importance in the 15th century follows from the fact that both the great Vaispava saints, Caitanya and Vallabha, visited it Vide Prof. S. K. De's 'Vaisnava faith and movement in Bengal' p.71 for 
 

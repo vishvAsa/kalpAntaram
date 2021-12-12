@@ -53,7 +53,7 @@ TAUTAPATATE fen: tapar fra foran na SEAT ... ... \# FREE तपसा श्र�
 
 920 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVII 
 
@@ -143,7 +143,7 @@ Any person of the three higher varṇas could become a vānaprastha, but a sūdr
 
 924 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVII 
 

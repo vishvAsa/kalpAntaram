@@ -21,7 +21,7 @@ opetog lagala Soria Agi kHAU HATECH | ms, Nordic of 1884-86 from the Govt. Mss. 
 
 518 
 
-History of Dharmaśāstra 
+
 
 . 
 

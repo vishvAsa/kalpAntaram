@@ -87,7 +87,7 @@ Tau quoted by sarap. 923.
 
 170 
 
-History of Dharmaśāstra 
+
 
 I Ch. IV 
 

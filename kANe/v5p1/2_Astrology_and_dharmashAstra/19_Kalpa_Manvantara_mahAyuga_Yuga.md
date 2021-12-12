@@ -29,7 +29,7 @@ word. One cannot agree with him in all that he says. For example, he appears to 
 
 688 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -63,7 +63,7 @@ TIL
 
 690 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -95,7 +95,7 @@ are going on. The past six Manus are Svāyambhuva, Svārocisa, Uttama, Tāmasa, 
 
 692 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -151,7 +151,7 @@ The theory of yugas, manyantaras and kalpas with their fabulous numbers of years
 
 696 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -197,7 +197,7 @@ As incidental to the colossal figures of the years of Kalpas and Yugas, a few wo
 
 698 
 
-History of Dharmaśāstra 
+
 
 है 
 
@@ -259,7 +259,7 @@ Hindu Arabic Dumerals' by W. E, Clark, pp. 217-236 in Laoman Preseo tation volum
 
 700 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -349,7 +349,7 @@ Shastri, Allababad (1931 ).
 
 704 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -403,7 +403,7 @@ H. D. 89
 
 706 
 
-History of Dharmaśāstra 
+
 
 (Soc. II. Ch. XIX 
 
@@ -439,7 +439,7 @@ ___1120. हस्तो रवी शशधरे च सूगोत्तम�
 
 1708 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -481,7 +481,7 @@ The fixed Karanas will be Sakuni 58,59 Catuspada, 60 Nāga, 1 (pratipad first ha
 
 710 
 
-History of Dharmaśāstra 
+
 
 Sec. II, Ch. XIX 
 
@@ -511,7 +511,7 @@ I
 
 712 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -535,7 +535,7 @@ In November 1952 the Government of India appointed a committee called the Calend
 
 714 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 
@@ -641,7 +641,7 @@ One can only express the hope that the above mentioned recommendations of the Co
 
 718 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIX 
 

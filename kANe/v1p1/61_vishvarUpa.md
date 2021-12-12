@@ -17,7 +17,7 @@ Foundo 1917
 
 554 
 
-History of Dharmaśāstra 
+
 
 Chandogya passage about the ordeal for theft and on Yāj. I. 50 Chandogya II. 23. 10 about the three branches of dharma). He speaks of the pada-rātha and the kramapātha as due to human agency (on Yāj. III. 242). He frequently quotes the Grhya sūtrus of Pāraskara and less frequently those of Bhāradvāja and Asvalāyana. lle cites a host of smrtikāras.712 Most of the quotations attributed to Svayambhū are found in the extant Manusmrti, but this is not the case with the quotations ascribed to Bhrgu (vide pp. 309, 310 above). Most of the quota tions from Brhaspati (even on such topics as repayment of debts, sureties, the rights of sūdrāputra ) are in prose, only a few being in verse ( e. g. & verse about ordeals on Yāj. II. 117, a verse about the method of partition on Yāj. II. 153 ). Ou Yāj. I. 307 Viśvarūpa quotes a long prose passage from Brbaspati in which the qualities required in a Senāpati, Pratihāra, Hastyadhyaksti, Asvādhyalist, Dūta, Mantrin and Uparika are set out at length. It appears, therefore, that Visvarūpa either knew a work of Brhaspati in prose on arthaśāstra in which occurred a few verses or he had before him a prose work of Bṛhaspati and a versified smrti of Bṛhaspati, both of which he regarded as the compositions of the same author. He quotes a verse (on Yāj. I. 328 ) from Visā lāksa, a well-known writer on politics quoted even by Kautilya. He refers to the arthaśāstra of Uśanas along with that of Bșhaspati. Kautilya is nowhere quoted by name. The learned editor of Visvarūpa thinks (Intro. p. V) that Vißve rūpa took Bṛhaspati and Viśālākṣa as ārsa writers long anterior to Yāj. and therefore used their dictu to elucidate and support Yāj., while he omits Kautilya because he thought Kautilya to be posterior to Yāj. This argument contains several fallacies. In the first place it is wrong because Visva rūpa quotes verses from Nārada and Kātyāyana to supple ment Yāj. There is nothing to show that Visvarūpa regarded Nārada and Kātyāyana also as anterior to Yāj. and we have 
 
@@ -73,7 +73,7 @@ FOUNDED
 
 556 
 
-History of Dharmaśāstra 
+
 
 he applies the term nyāya to Mimāṁsā. He takes 'nyāya mimāṁsā' in Yīj. I. 3 as one vidyā, while he notes that others explain nyayu as the system of logic propounded by Aksa pāda. He quotes the sūtras of Jaimini as those of Yājñikas who know nynya (e. g. on Yāj. I. 53 be quotes Jaimini I. 3. 16 and on Yāj. I. 87 he quotes Jaimini VI. 8. 17). He applies the epithet Naiyāyikı, to a mīmāṁsaka like Sabara and speaks of the mimārsakas as nyāyavidaḥ.714 He mentions the Sūbarabhāsya by name (on Yīj. III. 243) and in in several places quotes the very words of Sabara (e. g. on Yāj. III. 181 ).716 He quotes the Slokavārtika of Kumārila (1. 12 the verse 'survasyaiva hi &c) in his introductory remarks. in his comment on Yaj. 1. 7 he cites over fifty verses in the nature of kārikis dealing with the relation of śruti and smrti and kindred topics. These verses are his own composition, as in one of them he assures us that a certain poiut will be dealt with by him in detail in the section on srāddha.710 Iu interspersing his coin mentary with kārikūs of his own and in their style and pithiness he greatly resembles Kumārila. Throughout his work he relies upon mimūinsā maxims and methods of discussion. For example, on Yāj. I. 4-5 he discusses the rule of Jaimini II. 4. 8 ft ( about 
 
@@ -125,7 +125,7 @@ FOUNDED
 
 558 
 
-History of Dharmaśāstra 
+
 
 on Yaj. I. 81 and II. 135. It has been shown above ( note 529) that the printed Vis on Yaj. I. 80 does contain the view attributed to it by the Mit. As regards the Mit. un Yāj. II. 135 it has to be noted that the Mit. - does not mention Vis. by name there, but only speaks of bhagavān ācārya, '720 which words are interpreted by the Subodhinī and the Būlambhatti as referring to Visvarūpa. It is true that the printed Viś. does not contain in so many words the explana tion attributed by the Mit. to 'bhagavān ācārya.' But it is worth considering that in the printed Vis. the two quotations from Manu and Saṅkha do occur and are put in the mouth of an objector and are explained away in a way somewhat similar to that put forth in the Mit.721 As regards the passages of the Smrticandrikā, the matter requires careful examination. The Smrticandrika, (II. p. 294 Gharpure's ed.) says that according to the Samgrahakāra a widow was allowed to succeed to her souless husband's wealth if she submitted to niyoga, that the same was the view of Dhāreśvara and that Viśvarūpa refuted the view of Dhāreśvara. In no place does the printed Vis. name Dharesvara. The words of the Smrti candrika are uot to be taken literally. It will be shown below that the author, Devanmabhatta, flourished about 1200 A. D. while Dhāreśvara flourished between 1000-1050 A. D. Devanna had no correct idea of their relative chronological position. It has been shown above (p. 249 ) how though 
 
@@ -173,7 +173,7 @@ faat: 1 723 FET on 27151. I. 135 is 791 7777T: I JAG T de
 
 560 
 
-History of Dharmaśāstra 
+
 
 Mss. Lib at the B. 0. R. Institute Poona, folio 133a ) the explanation of Visvarūpācārya on Yāj. 1. 135 is cited, which does not exactly tally with the printed Vis. Hemādri724 refers to Visvarūpa's: explanation given in his section on partition which does not occur in the printed text. The result of the examination of these citations is that the printed text of Vis. is in the main genuine, but that in a few cases (parti cularly in the vyavahāra section ) it is corrupt or deficient. 
 
@@ -237,7 +237,7 @@ FOUNDED
 
 562 
 
-History of Dharmaśāstra 
+
 
 As Visvarūpa quotes Kumārila's Slokavārtika and is mentioned by the Mit. as an authoritative commentator it follows that he flourished between 750 A. D. and 1000 A. D. A greater approximation as to the date of Visvarūpa can be made, if the identity of Visvarūpa with Sureśvara be held established. Sureśvara, as he himself tells us in the Naiskarmyasiddhi, the Taittiriyopaniṣad bhāsya vārtika and other works, was ā pupil of the great Saṅkarācārya whose generally accepted period is 788-820 A. D. Mādhavācārya in several works of his quotes as Visvarūpa's passages from the the well-known works of Sureśvara. For example, the Parāśara-Mādhaviya ( vol. I, part I, p. 57 ) quotes a karikā of Sureśvara as that of Visvarūpācārya.726 In the Vivarana prameyasaṁgraba ( Vizianagaram series p. 92 ) also Madhava quotes & verse from the Bșhadāranyakopanisad bhāsya vārtika as Visvarūpa's.726 In the Purusārthaprabodha7a7 of Brahmānanda-bhārati (ms. in Bhau Daji collection, Bombay) composed in 1476 (probably of the Saka era ) the author speaks of the Naiskarmyasiddhi as a work of Viśvarūpa. In the Saṁksepa-Sarkara-jaya, Visvarūpa is said to be the author of the two vārtikas on Sarkara’s bhāsya.738 According to tradition embodied in the various lives of Sarkara, the latter had four pupils, Sureśvara, Padmapāda, Totaka and Hastāmalaka. Several works mention Visvarūpa as one of the four pupils and omit the name Sureśvara. For example, in the Dvādaśa-vākya-vivarana of Gopāla (Aufrecht's Oxf. Cat. No. 557, p. 227 b) the four pupils of Saṅkara are named as Visvarūpa, Padmanābha, Totaka and Hastāmalaka. In the Mānasollāsa-vșttānta-vilāsa of Rāmatīrtba we are expressly 
 
@@ -275,7 +275,7 @@ FOUNDED
 
 564 
 
-History of Dharmaśāstra 
+
 
 Sureśvara as identical. From all these several considerations it follows that Visvarūpa flourished about 800-825 A. D. But this problem presents further difficulties. The mutual rela tions of Sureśvara, Bhavabhūti, Umbeka and Mandana are a great puzzle. I have dealt with this question in JBBRAS for 1928, pp. 289-293. The conclusions arrived at there are that Mandana's literary activity lies between 690-710, that of Umbeka between 700-730 and Sureśvara's between 810-840 
 

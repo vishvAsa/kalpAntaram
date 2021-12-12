@@ -23,7 +23,7 @@ I Fredate Army
 
 96 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. V 
 
@@ -91,7 +91,7 @@ Knowing the weakness of human beings, sages relaxed the rule of an absolute fast
 
 100 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. V 
 
@@ -127,7 +127,7 @@ Nakta-Two verses about nakta occurring in the Linga, Nārada 160 and other purā
 
 102 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. V 
 
@@ -175,7 +175,7 @@ ___267. स वा एष महानज आत्मा... तमेतं व
 
 104 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. V 
 
@@ -203,7 +203,7 @@ H. D. 14
 
 106 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. V 
 
@@ -237,7 +237,7 @@ T. A. p. 273.
 
 108 
 
-History of Dharmaśāstra 
+
 
 (Seo. I, Ch. V 
 
@@ -267,7 +267,7 @@ The ekādasi on Jyestha bright half is called nirjalā because the vrata consist
 
 110 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. V 
 
@@ -307,7 +307,7 @@ One important rule has to be remembered, 282 viz. whatever nakṣa'ra or whateve
 
 112 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. V 
 
@@ -349,7 +349,7 @@ Ekādaśî, like all other tithis, is of two kinds, viz. sampūrṇā and yiddh�
 
 114 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. V 
 
@@ -419,7 +419,7 @@ _____ 300. बृहस्पतिरपि। दिवानिद्रा �
 
 118 
 
-History of Dharmaśāstra 
+
 
 (Seo. I, Ch. V 
 
@@ -449,7 +449,7 @@ Fall werden q. by B. on p. 261.
 
 120 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. V 
 

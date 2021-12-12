@@ -25,7 +25,7 @@ A 191
 
 280 
 
-History of Dharmaśāstra 
+
 
 and effect and adds that some writers of Dharmasutras such as Devala do rely on it in their works. So Devala dharmasūtra was not only earlier than Saṅkarācārya, but was also regarded as early as (if not earlier than ) the sutras based purely on logic or the atomic theory. In vol. V (of His. of Dh.) pp. 380-81, 1439 n. 2363, 1445, 1453 note 2390, 1458 note 2398 some passages have already been cited from Devala (as quoted in works on Dharmaśāstra ). They will not be repeated here. But a few more passages quoted from Devala by the Mit., Aparārka, Kalpataru and others will be set out or referred to. In the first edition also some references were given where passages of Devala are referred to but hardly any quotations in Sanskrit from Devala dharmasūtra were set out. It may be stated here that early extant commentators like Visvarūpa and Medhātithi do not quote prose passages from the Devala Dharmasūtra relating to Sāṅkhya and Yoga. But Aparārka quotes profusely from Devala ( about 130 verses and prose passages 15 times ). Some of the prose passages may be pointed out. On p. 72 a long proge passage is cited about the rules to be observed by one who has decided to be a perpetual student. 
 

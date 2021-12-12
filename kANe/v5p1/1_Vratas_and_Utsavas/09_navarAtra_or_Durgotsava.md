@@ -35,7 +35,7 @@ T rat:1. Besides, some verses are described as a (armour), otbers as ni ( bolt f
 
 156 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -71,7 +71,7 @@ __404. अतो म्लेच्छादीनां न शूद्वद�
 
 158 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -137,7 +137,7 @@ ___415. कदली दाडिमी धान्यं हरिद्रा
 
 168 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. IX 
 
@@ -189,7 +189,7 @@ ____424. न कदाचिन्महादेव्यै प्रदद्
 
 166 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. IX 
 
@@ -217,7 +217,7 @@ The Kālikāpurāna in a long passage 430 provides gradually rising periods of t
 
 168 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. IX 
 
@@ -251,7 +251,7 @@ On the day on which there is Mahāstamipūjā the performer observes a fast. But
 
 170 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. IX. 
 
@@ -285,7 +285,7 @@ The Tithitattva (pp. 69-72), Nirnayasindhu and other works provide that in the N
 
 172 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -317,7 +317,7 @@ p a ra li fot. *. p. 99. +47. भटनर्तकसबैश्च धेश�
 
 174 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. IX 
 
@@ -351,7 +351,7 @@ giving daksina is given in the note.45A_If no daksina be paid, the whole rite be
 
 176 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -395,7 +395,7 @@ H. D. 23
 
 178 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -427,7 +427,7 @@ ___463. एकाहेपि च यो दुर्गा पञ्चगव�
 
 180 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -457,7 +457,7 @@ saprta i rataciret par gauta hone. The ora on raf refers to the 9th tithi of the
 
 182 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IX 
 
@@ -495,7 +495,7 @@ ___472. भविष्यपुराणे । कलशांस्तु स
 
 184 
 
-History of Dharmaśāstra 
+
 
 (Seo. I, Ch. IX 
 
@@ -525,7 +525,7 @@ H. D. 24
 
 186 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. IX 
 

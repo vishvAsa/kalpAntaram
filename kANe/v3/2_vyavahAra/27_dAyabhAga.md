@@ -15,7 +15,7 @@ The word dāya has been used even in the oldest period of the Vedic Literature. 
 
 1013. maranathai ar rretera ditrega superare reparar ī 2. *. VI. 5. 8. 2. qrare is derived as Ere (from with sr). 
 
-History of Dharmaśāstra 
+
 
 Vol. 
 
@@ -51,7 +51,7 @@ Farahat q. by . II. p. 255, . \#. p. 93.
 
 $46 
 
-History of Dharmaśāstra 
+
 
 (Voi 
 
@@ -93,7 +93,7 @@ format tapat na afaft eftir. M. (ms.) folio 96.
 
 548 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -149,7 +149,7 @@ The purpose of this discussion of the topic whether owner ship is only known fro
 
 1028. The word riktha is often used in the sense of sapratibaodba daya also as in Gaut. XII: 37 (rikthabbāja ļṇam pratikuryuh) and Yaj. II.51 (riktba grāba raam dāpyab), Baud. (riktham mrtāyaḥ kanyāyāḥ) 9. by the Mit. on Yæj. II. 146. Vide Bai Parson v. Bai Somli 36 Bom. 424 at pp. 428-434 for an exhaustive exposition of the basic principles underlying the two kinds of daya in the Mit. and the Vyavahāra-mayūkha).552 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -181,7 +181,7 @@ Het on the PHOTHUT explain gent as a ... .
 
 554 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -515,7 +515,7 @@ m (III, 17 p, 72) and q. 4. p. 460 (last two have verse 845 only). The fru (p. 6
 
 574 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -645,7 +645,7 @@ Vidyadhana (gains of learning) bas undergone the greatest changes of fortune sin
 
 gram II. 41 p. 42 as \#Eurfert, 017. \#1. III. 560'ygarfreit.582 
 
-History of Dharmaśāstra 
+
 
 (voi. 
 
@@ -673,7 +673,7 @@ Kāt. distinguishes between suuryadhana (reward given by the king or a master wh
 
 584 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -715,7 +715,7 @@ The oldest provision on this point is contained in Gautama1103 ( 28. 44-45 ) tha
 
 586 
 
-History of Dharmaśāstra 
+
 
 i voi. 
 
@@ -813,7 +813,7 @@ son of A takes no interest by birth and is outside the coparcenary during A's li
 
 1117. Vide Moro v. Ganesh 10 Bom. H.C. R. p. 444, pp. 461-468 where Mr. Justice Nadabhai Haridas very lucidly explains by several dia grams the limits of a coparcenary and what persons are entitled to demand a partition and from whom.592 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -847,7 +847,7 @@ coparcener can only separate himself from the family. The father can make within
 
 594 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1231,7 +1231,7 @@ PETY TATUTUS fitry. OR 97.ZI. 140. Vide Deo Kiskon vi Budh' Prakash 5 AH, 509 (F
 
 618 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -1741,7 +1741,7 @@ Besides the aurasa, eleven or twelve kinds of subsidiary sons are mentioned by m
 
 1226. पितृणां समितिदनिनवाघमाणात् । विमोक्षस्तु यतस्तस्मादिष्यन्ति पितरः EUTEN FRETT. 4. by Frerit. II. p. 168, E1\#1. III, 263, 
 
-History of Dharmaśāstra 
+
 
 (Voi. 
 

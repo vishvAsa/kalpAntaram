@@ -117,7 +117,7 @@ or whether they derived the idea from some other race or sectarians has been ver
 
 712 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XIX 
 
@@ -347,7 +347,7 @@ ere waiter
 
 724 
 
-History of Dharmaśāstra 
+
 
 toh. XIX 
 
@@ -499,7 +499,7 @@ that day). The worshipper should not sit on an Asans made of bamboo or stone, or
 
 5732 
 
-History of Dharmaśāstra 
+
 
 (Ch. XIX 
 

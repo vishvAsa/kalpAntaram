@@ -79,7 +79,7 @@ TEST. 658 q. by Fr. II. p 203. 71. \#1. III. p. 327. The provisions for breach o
 
 480 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -163,7 +163,7 @@ the last
 
 484 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 

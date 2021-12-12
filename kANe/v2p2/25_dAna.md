@@ -15,7 +15,7 @@ Gifts of various kinds and donors have been highly eulogised in the Rgveda. Ther
 
 1974. IT AT FIAT FOR AT THE FT Tatay: In: FHU TATTRAUTT tai surga 978T . . 126. 3. Sayada oxplains tem कसारा समूहोभागात.898 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXV 
 
@@ -43,7 +43,7 @@ It appears that although in the Rg. gifts of horses are spoken of es next in imp
 
 840 
 
-History of Dharmaśāstra 
+
 
 1 Ch. XXV 
 
@@ -125,7 +125,7 @@ TP HCI ET TETET I TE \# 18 T. III. . 14.
 
 844 
 
-History of Dharmaśāstra 
+
 
 Ch. XXV 
 
@@ -157,7 +157,7 @@ A good deal has already been said above (pp. 113-114) about the persons fit to b
 
 846 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXV 
 
@@ -283,7 +283,7 @@ The above rules about the special occasions for gifts are amply borne out by epi
 
 854 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXV 
 
@@ -319,7 +319,7 @@ Vide Stocedure. The stuually made
 
 856 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXV 
 
@@ -403,7 +403,7 @@ The thousands of copper-plate grants and inscriptions on stone published so far 
 
 862 
 
-History of Dharmaśāstra 
+
 
 Ch. XXV 
 
@@ -479,7 +479,7 @@ D. 109
 
 866 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXV 
 
@@ -569,7 +569,7 @@ At the end of the homa, the guru invokes with flowers and incense the lokapālas
 
 872 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXV 
 
@@ -599,7 +599,7 @@ Ralpapādapa or Kalpaurka :-( Matsya 277, Linga II. chap. 33). A golden tree is 
 
 874 
 
-History of Dharmaśāstra 
+
 
 ( Oh. XXV 
 
@@ -639,7 +639,7 @@ pancakalyāpaka'.
 
 876 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXV 
 
@@ -669,7 +669,7 @@ Mahābhūtaghata :-(Matsya 289). A golden jar is to be set with precious stones 
 
 Most of the smrtis highly extol the gift of a cow OT COWB. Manu IV. 231 states that the donor of a cow reaches the world878 
 
-History of Dharmaśāstra 
+
 
 [Ch: XXV 
 
@@ -755,7 +755,7 @@ In medieval and modern times gifts were and are made with a view to propitiate t
 
 884 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXV 
 
@@ -785,7 +785,7 @@ P ATTUTTO rapuja EMT: Qay! यिनीलमापतेलतिलकुल�
 
 886 
 
-History of Dharmaśāstra 
+
 
 ī Ch. XXV 
 

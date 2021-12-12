@@ -45,7 +45,7 @@ uion
 
 548 
 
-History of Dharmaśāstra 
+
 
 The Hāralatā of Aniruddha who was the guru of king Ballālasena of Bengal, the author of Adbhutasāgara ( about 1168 A. D.), tells us that Asahāya composed a bhāsya on the Gautamadharmasutra.se Visvarupa also cites, as said above, Asahāya’s explanation of a sūtra of Gautama. 
 
@@ -95,7 +95,7 @@ ET: I on the verse 3atiforcat ea. 896 Fazo ( 34. p. 36 ) on matalafo says 'ga na
 
 550 
 
-History of Dharmaśāstra 
+
 
 other places such as Vatapadraka ( probably modern Baroda ), Avāvadu and Samvāduka are mentioned. There is nothing to show that the author was either a native of or had a first hand knowledge of Pataliputra. He might have been relying on traditions when he gave the story. Dr. Jolly not being aware of the express mention of Asahāya by Medhātithi argued that he flourished earlier than Medhātithi ( Tagore Law Lectures p. 5; S. B. E. vol. 25 p. VII) on the ground that the Mit. and the Sarasvativilāsa always place Asahāya before Medhātithi whenever authorities on vyavahāra are enumerat ed. Dr. Jolly's conclusion is right as shown above, but his reasoning is faulty. There is hardly anything of chronology in the order in which authors are named, since we find that the Sarasvativilāsa 688 names Vijñāneśvara even before Asahāya though the former flourished centuries after the latter. 
 

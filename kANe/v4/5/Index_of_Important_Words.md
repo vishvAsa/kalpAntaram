@@ -35,7 +35,7 @@ Tantra 440A, 4450 Tanto 269 Tapas 42-43 Iata 3470 Thaka 115n Tirtha 2020, 554 Tr
 
 926 
 
-History of Dharmaśāstra 
+
 
 Vṭddhıśrāddba 3590 Vrjida 6-7 Vrsali 1040, 3940 Vrtra-sanku 2500 Vyāma 2050 Vyatīpāta 3710 Yayyā 5430 
 

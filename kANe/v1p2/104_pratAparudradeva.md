@@ -21,7 +21,7 @@ TATUS &. p. 503. Is Jamunāpura modern Jaunpura ? ANTITEITETIT 1797 fchigareta S
 
 870 
 
-History of Dharmaśāstra 
+
 
 D.) and in other inscriptions. Prataparudradeva, while ruling his capital1323 Katakanagari, called together an assembly of Pandits and compiled an extensive digest of civil and religious law. The royal author feels qualms of conscience on the question of eulogising himself and his family but stifles them easily by saying that a poet can also be an appreciative critic of his own productions.1323 He boasts that he composed the work for saving scholars the trouble of bringing harmony among the conflicting dicta of Vijnanayogi, Aparārka, Bharuci and others, that there was no work that could equal his own and that his literary effort would make his predecessors' works afford illu strations of the maxim that when a certain purpose is served by one the existence of others is superfluous. 1824 Then it is said that the Vyavahārakānda was first taken in hand even before the Ācārakānda following the special desire of the king Virarudra Gajapati,1325 But it appears from references in the Vyavahāra kānda itself that before that part was finished the Acārakanda had been completed.1328_The Sarasvativilasa, being a work composed under the express orders of a king for the benefit of his subjects, makes the nearest approach to the Austinian conception of law as a command addressed by political superiors to political inferiors and enforced by a sanction. 
 
@@ -57,7 +57,7 @@ Mitaksara is attacked by the Sar. V. (p. 396) viz. यत्तु विज्�
 
 872 
 
-History of Dharmaśāstra 
+
 
 verse containing names of sages like Manu, and Vasistha and Yogiśvara and Nibandhanakāras like Bhāruci, Kulārka and Yogiśvara. 
 
@@ -123,7 +123,7 @@ opinion cited here. 1332 374 576p, 377014, 1154, ficfi, * (4718), FET (i. e. Fal
 
 876 
 
-History of Dharmaśāstra 
+
 
 of Vijayanagara which was set at rest by a marriage alliance about 1516 A. D. Vide Prof. S. Krishnaswami Aiyangar's 'Sour ces of Vijayanagar History' (p. 116), where we are told that the daughter of the Orissa king married to Krspadevarāja was named Jaganmohini (according to some) or Tukkā (according to others) and Sewell's ' A Forgotten Empire' p. 320. Another argument advanced by Foulkes for 1515 A. D. as the date of the work is that during the latter part of his reigo Prataparu dradeva had come under the induence of the great Vaiśnavite saint Caitanya, who made Puri his residence during the last years of his life and that the Sarasvativilāsa has in the beginning an invocation of Siva. Caitanya was born in sake 1407 Phālguna Full-moon (i, e. in 1486 A. D.); vide Bhandarkar's “Vaisnavism and saivism' (p. 83) and Caitanya is said to have gone to Puri about 1510 A, D, and died in 1533 A. D. Beames in Ind. Ant. vol. II, p. 1 ff.). Both these arguments are not of much weight. As a matter of fact in some mss. there is an invocation of both Viṣnu (Hayagriva ) and Śiva; vide Descriptive Cat, of Govern ment S. mss. at Madras vol. VI, p. 2426 No. 3221. 
 
@@ -143,7 +143,7 @@ asmad-uktaiva vyavasthì samyak'. On pp. 160-161 he refers to the differing expl
 
 878 
 
-History of Dharmaśāstra 
+
 
 Upadhyāya (ādyād-upādhyāyāt ) viz. Raghuvara (i. e. Rāma who was an incarnation of Vispu) and verse 6 refers to Krsna (who was a child of the Yadavas ). Therefore, there is hardly anything in the Introductory verses to detract from his being a staunch Vaisnava. Further, Mr. Subrahmanyam is offended by the use of the words “Kāntānām Kāmadevah' and remarks that nobody would write like this. All that is meant is that women looked upon the king as the paragon of beauty. Lastly Mr. Subrahmanyam complains that the king has overdone the permitted bounds of self-laudation. No limits have been set anywhere for self-laudation. But one example of another royal author several centuries earlier than Prataparudra may be cited for com parison viz. of Apararka who in the 5th Introductory verse of his commentary on Yāj. states that even God Śiva was astonished by the King's bhakti and that Bṛhaspati himself was astonished by the king's intellect and the Sun by his brilliance (svatva ).1333 
 

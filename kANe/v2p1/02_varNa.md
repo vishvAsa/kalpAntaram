@@ -57,7 +57,7 @@ In most of the works on the castes in India a fow features are pointed out as th
 
 62. Vide Bonart's oaste in India. tr. by Ross pp. 66-73 (1980), Biok pp. 36-37 bolds that there were no caste.counoils and no casto ohiof. 
 
-History of Dharmaśāstra 
+
 
 [ Oh. II 
 
@@ -137,7 +137,7 @@ atst at 77019.. 35. 2-4 ; vide atatea III, 6. 22, III. B 47-61, III. 6. 36 and S
 
 30 
 
-History of Dharmaśāstra 
+
 
 [ Ch, II 
 
@@ -247,7 +247,7 @@ Satapatha Br, says that the sūdrn is untruth' (8. B. E. vol. 44. p. 446 ), that
 
 82. आर्याः प्रयता वैश्वदेवेमसंस्कार स्युः । आर्यापिहिता पाएमाः संस्कार : MT, 4, \#. II. 2. 3. 1 and 4.36 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 
@@ -351,7 +351,7 @@ ga u spore V. 19. 3 and 8.
 
 H. D, 6 
 
-History of Dharmaśāstra 
+
 
 ( Oh. II 
 
@@ -389,7 +389,7 @@ w a
 
 . F. IV. 5. 4. 2, 
 
-History of Dharmaśāstra 
+
 
 ( Oh. II 
 
@@ -737,7 +737,7 @@ Gautama (IV. 18-19), Manu ( X, 64-65 ) and Yāj. (I. 96 ) speak of a paouliar do
 
 160. बदाणीमिव च कालान्तरेपि अव्यवस्थितमायान्वर्णधर्मान प्रतिजानीत । तम व्यवस्थाविधापि शासनमर्थक स्यात् । शाकरभाष्य on पेदान्तस्त्र I. 3. 33. 
 
-History of Dharmaśāstra 
+
 
 [ Ch. IT 
 
@@ -789,7 +789,7 @@ v. m. I. 8. 13-14.
 
 H. D. 966 
 
-History of Dharmaśāstra 
+
 
 [Ch. II 
 
@@ -859,7 +859,7 @@ Antya. According to Vas. Dh. S. 16.30, Manu IV. 79, VIII. 68, YAJ. I. 148, 197, 
 
 70 
 
-History of Dharmaśāstra 
+
 
 (Oh. II 
 
@@ -899,7 +899,7 @@ In Ait. Br. (chap. 39. 7) king Ambaṣthya is said to have performed an Aśramed
 
 72 
 
-History of Dharmaśāstra 
+
 
 ( Ch. II 
 
@@ -941,7 +941,7 @@ Ugra. For Vedic reference see above (p. 45). According to Baud. Db. S. (I. 9.5),
 
 K D. 10 
 
-History of Dharmaśāstra 
+
 
 1 Ch. II 
 
@@ -1013,7 +1013,7 @@ Kirāta. Vide above (p. 44) for vedio references. Veda-Vyāsa speaks of him as a
 
 178 
 
-History of Dharmaśāstra 
+
 
 ( Ch. II 
 
@@ -1089,7 +1089,7 @@ A. D. 11
 
 het 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 
@@ -1137,7 +1137,7 @@ Daśa (a fisherman). This occurs in an Upaniṣad passage according to Vedānta 
 
 85 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 
@@ -1173,7 +1173,7 @@ w h ora regā i 3$** 34. 191. अवकम्पासहपको ब्रा�
 
 192. लिच्छिविक-पूजिक मल्लक-मद्रक-कुकुरकुरुपचालादयो राजशग्दोपजीविनः wame XI, 1,86 
 
-History of Dharmaśāstra 
+
 
 [ Oh. II 
 
@@ -1207,7 +1207,7 @@ Pārada. Vide Manu X, 43-44 and note on khasa above. Pāradas are frequently men
 
 88 
 
-History of Dharmaśāstra 
+
 
 (Ch, II 
 
@@ -1263,7 +1263,7 @@ las stavin.eto. Vizan tribes
 
 90 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 
@@ -1349,7 +1349,7 @@ Rajaka (washerman), Dhobi is & scheduled caste in U. P., Bihar and C. P. and in 
 
 94 
 
-History of Dharmaśāstra 
+
 
 [ Oh. It 
 
@@ -1395,7 +1395,7 @@ Velava. According to the Sūtasambitā he is the offspring of a sūdra from a k�
 
 Vaidehaka. According to Baud. Dh. (1.9.8), Kauṭ. ( III. 7), Manu X. 11, 13, 17, Viṣnu Dh. S. 16. 6, Nārada (stripumba 111), Yaj. I. 93, Anuśāgana 48. 10 he is a pratiloma sprung from & vaisya male and a brāhmaṇa female ; while according to Gaut. IV. 15 he is the offspring of a sūdra from a kṣatriya woman and acoording to Vaik. (X. 14), the view of some &caryas96 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 
@@ -1487,7 +1487,7 @@ BOUTHT 11 min
 
 100 
 
-History of Dharmaśāstra 
+
 
 [ Ch. If 
 
@@ -1585,7 +1585,7 @@ In modern times each of the principal varnas has numerous Bub-castes, based upon
 
 104 
 
-History of Dharmaśāstra 
+
 
 [ Ch. II 
 

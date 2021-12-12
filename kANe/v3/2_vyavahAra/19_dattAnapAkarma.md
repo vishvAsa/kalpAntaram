@@ -15,7 +15,7 @@ This title is also called dattāpradūnika 815 (lit. that which is concerned wit
 
 816. FOR HETTATTATA SOTTOa: Tu I BÚPT III. 16. FTATE पुत्रदाराधिसर्वस्वम्पासयाचितम् । प्रतिभुतं तधान्यस्येत्यदेयं त्वष्टधा स्मृतम् ॥ वृह. १. by gat. II. 189, 87.9 p. 306; similar verses of Nār. VII, 4-5 and Daksa III. 19-20 bave been quoted in (H, of Dh, vol. II. p. 850 n. 2005),472 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -45,7 +45,7 @@ ___820. स्तेनसाहसिकोवृत्तपारजायि
 
 474 
 
-History of Dharmaśāstra 
+
 
 [ Vol 
 

@@ -171,7 +171,7 @@ included here) A1n--Akbarı (translated by Blochman and Jarret, three volumes) A
 
 xxiy 
 
-History of Dharmaśāstra 
+
 
 Beal's Burt's Religion of ton Heaven and I by Dr. Hultzscoot. also 
 

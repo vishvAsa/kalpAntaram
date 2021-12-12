@@ -25,6 +25,6 @@ title = "068 Bālaka"
 
 596 
 
-History of Dharmaśāstra 
+
 
 property is acquired by one brother by means of learning, other brothers are not entitled to that wealth.808 The Daya bhāga refers to a passage from Bālaka in which the latter re lies on the Pūrvamīmāmsā example of mudga and māsa.809 In the Vyavahāramātrkā of Jimūtavāhana (p. 346 ) it is stated that Bāla held the same views as those of Srikara-miśra on a certain point. In the Prayascitta-nirupana of Bhavadeva a writer named Vāloka is mentioned ( vide JASB 1912 at p. 336). This seems to be a Bengali scribe's way of pronounc ing the name Bālaka. Bālaka is mentioned in Raghunanda na's Vyavahāratattva p. 47 also as holding the view with Srikara and others that adverse possession for twenty years conferred ownership in the case of immovable property. Sūlapāṇi in his Durgotsavaviveka twice quotes the views of Bālaka and once refutes the latter. $10 Hence it appears that Bālaka was an eastern or Bengal writer, composed a work on several branches of dharmaśāstra ( such as vyavahāra and prāyaścitta) and flourished before 1100 A. D. 

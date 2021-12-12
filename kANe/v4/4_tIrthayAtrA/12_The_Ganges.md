@@ -17,7 +17,7 @@ I, D, 74
 
 586 
 
-History of Dharmaśāstra 
+
 
 (Vol. Gangāpattalaka of Ganeśvara (1350 A D.), Gangāvākyāvall of Viśvāsadevi, queen of king Padmasimha of Mithila, the Gaðgābhakti-tarangini of Ganapati, the Gaigāktlyaviyeka of Vardhamāna. Vide H of Dh. TOL I. p. 538 for the dates of some of these works. 
 
@@ -51,7 +51,7 @@ ____ 1325 स्नाताना शुचिभिस्तोयः गा�
 
 588 
 
-History of Dharmaśāstra 
+
 
 (Vol. heard, when one desires to see (it), when it is seen or touclied or when its waters are drunk or when one plunges into it or when one takes (or sings) its name; when people utter tho name 'Ganges' even though living at a distance of hundreds of yojanas, their sins accumulated in three births are destroyed' The Bhavisyapurāna 1330 has a similar verse 'one becomes freo from sins at once by seeing the Ganges or touching it or drink ing its water and by uttering the name Gangā and also los remembering it. '1331 The Matsya, Kūrma, Garuda and Padna remark that the Ganges is easy of access everywhere but is difficult to reach at three places viz at Gangādvāra (Haridvāra), at Prayāga and where it joins the sea and that those who batho therein reach heaven and that those who die there are not born again The Nāradīyapurāna, on the other hand, says that tho Ganges is difficult of access everywhere, but much more so at three places The man, whether desiring it or not, who draus near the Ganges and dies (near it) secures heaven and does not see hell (Matsya 107.4),1332 The Kūrmapurāda represents that the Ganges 1333 is equal to all the 35 millions of holy places declared by Vayu in the heaven, in mid region and on the earth and that all of them are represented by the Ganges The Padmapurana asks 'what is the use of sacrifices rick in large wealth, what is the use of very difficult austerities when there is the Ganges honoured easily and gracefully that yields Heaven and moksa'? A similar verse occurs in the Nāradiya-purāna 'what is the use of Yoga with its cight angas, of austerities, of solemn (Vedic) sacrifices? Residence 
 
@@ -95,7 +95,7 @@ __1337. तीराद्न्यूतिमात्रं तु परि�
 
 590 
 
-History of Dharmaśāstra 
+
 
 [Vol. within one gavyūti from the banks of the Ganges is called kgetra; one should reside within the ksetra limits, but not on the bank itself; Tesidence on the bank (of the Ganges ) is not desired. The limits of the ksetra are of the extent of one yojana between both the banks' i. e. the ksetra extends for two krosas from each bank. The general rule is stated by Yama that forests, mountains, holy rivers and tirthas are without an owner, these cannot be possessed (by a person as owner). The Brahmapurāna 1338 says that measur ing from the flowing waters for a distance of four hastas, God Nārāyana is the Lord (or owner) and no one should aocept a gift in that strip even if he be on the point of death. A differ ence is made between the garbha (the inner circle) of the Gangāksetra, the tira and the ksetra. 'Garbha' extends up to 1 that portion of the river stream which is reached on the 14th of the dark half of Bhadrapada; beyond that is the tira (bank), which extends upto 150 llastas from garbha and ksetra extends up to two krosas from each bank. 
 
@@ -121,7 +121,7 @@ Matsyapurāna 102 is common to people of all varnas and students of all the diff
 
 592 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -151,7 +151,7 @@ e and other terras
 
 594 
 
-History of Dharmaśāstra 
+
 
 (Vol. deeds; a bow to thee who art a god to all. O Bbāskara (Sun). be well disposed to me Abow to thee, Divakara (maker of dạy). A bow to thee, Prabhākara (source of sefulgence)'. Having thus bowed to the Sun and having circumambulated thrice { the lotus drawn for representing the sun) and touching a brāhmana, gold and a cow, the person (bather) should go to a temple of Visnu (or to his own house, according to another reading). 1344 
 
@@ -187,7 +187,7 @@ ____1347. स्नात्वा ततः पञ्चगवेन सिस�
 
 596 
 
-History of Dharmaśāstra 
+
 
 (Fol. 
 
@@ -271,7 +271,7 @@ I N TERJATTTA TETTO p. 75. Fatiha ( white and dark) means Veni, Vide a, 1337 abo
 
 600 
 
-History of Dharmaśāstra 
+
 
 (Yol. The Vanaparva 1362 and some of the Purados represent that the country between the Ganges and the Yamuna is (liko) the hips and loins of the earth (i e, it is the most prosperous and plentiful part of the earth) and that Prayaga is liko the inmost part of the hips. 
 
@@ -305,7 +305,7 @@ _1366a. प्रयागे वपन कुर्यादयायां प
 
 H, D. 76 
 
-History of Dharmaśāstra 
+
 
 [Vol. (religious) suicide at Benares. What is the use (or necessity) of pinda offerings at Gayā or death in Kaśī, or gifts at Kuruk setra, if one has tonsured one's head at Prayāga?". Elaborate discussions are held by all these works about the exact inten tion of the verses, about the application of the maxim of rātrisattra 1367 to them and about the results derived from ton. sure. They have to be passed over here from considerations of space. The Tristhali-setu (p. 17) holds that the verse only prai ses the rite of tonsure at Prayaga and the fruit thereof is simply the removal of sin, The Tri. S. refutes (p. 17) the application of rāta 29atiramnyāya to these verses, while Tir. 0 (p. 32) applies it. Some of the conolusions drawn by the Tri S. are that in one and the same yātrā at Prayaga (even if a man stays there for some days) ceremonial tonsure takes place only once, that widows have to tonsure their heads, that in the case of women whose husbands are living only two or three finger-breadths of tresses are to be cut and offered at the Triveni, that even 13678 boys whose upanayana has not been performed have to undergo tonsure provided the cūdā rite has already been performed, The Tristhaligetu (p. 22) notes that certain traditionalista, 1365 
 
@@ -345,7 +345,7 @@ One important question that very much exercised the minds of ancient and mediera
 
 604 
 
-History of Dharmaśāstra 
+
 
 dealt with at length in H. of Dh. vol. II pp 924-928 and vol. I, pp. 939, 948-949. Only a brief treatment by way of a summary of the pages and a few notes will be added here. The general sentiment of Dharmaśāstra works is to condemn suicide ar an attempt to commit suicide as a great sin (vide H of Dh vol I paga 924 for texts). The Āp. Dh. S. (1 10 28 15-17) mentions the view of Harita which condemns suicide even as prāya scitta for committing a mahāpātaka (like incest) and puts kill ing another or killing onoself on the same footing Manu V. 89 and Yaj. II. 154 condemn suicide by denying after-death rites to those who commit it, but Manu allowed suicide in various ways as prāyasoitta for mahāpatakas (vide Manu XI. 73, 90-91, 103-104). But exceptions to the condemnation of suicide are found in the startis, epics and purānas, They way he grouped under several heads. (1) Suicide as an exception in various ways by those guilty of mahāpātakas (viz. brahmana murder, drinking of suā, theft of brāhmana's gold and incest), vide H. of Dh. VOL II. pp. 924-925 for smrti and other texts, (2) Starting on the Great Journey (makāprasthana-ganana or maliāpathayātrā) by a forest hiermit (Manu VI, 31, Yaj. II, 55) suffering from incurable diseases and unable to perform tha duties of his order (3) An old nan or one who cannot observe the rules of bodily purification or who is so ill as to be beyond medical skill may kill himself by throwing himself from a precipios or by fire or by drowning or fasting or start on the Great Journey into the Himalaya or by jumping from the bran ches of the Vata tree at Prayāga (Aparārka p 877 quoting Adi-purāna and Atri-smrti verses 218-219 q, by Medhātıthi on Manu V, 88 and Mit. on Yāj II. 6) (4) Even a house holder, otherwise all right, may resort to suicide by the means stated (in No. 3) if his life's work is dono, if he has no desire for the pleasures of the world and does not desire to live, or if he is & Vedāntin371 and coavinced of the ephemeral nature of life and may kill himself by fast in Himalaya. (5) Religious suicide was allowed at the confluence of the two great rivers Gangā and Yamunā, at the Vata there and at some other tirthas (6) A wife dying by sahagamana or anumarana. As to Sati, the Nāradiya (pūrvārdha 7. 52-53) provides that a woman should not burn herself on the funeral pyre of her husband if she has a 
 
@@ -443,7 +443,7 @@ p 33
 
 610 
 
-History of Dharmaśāstra 
+
 
 [Vol. the most learned and renowned Pandit of his age steeped in all the lore of ancient India, make, in spite of the overwhelming weight of gastric authority in favour of suicide at Prayāga, exceptions that surely appeal to reason, gentiment and common sense, 1387 Nārāyapabhatta probably followed traditions several hundred years older than his times. Alberuni in his work on India composed about 1030 A D. says about religious suicide that "it was resorted to by those who are tired of life, who are distressed over some incurable disease, some irremovable bodily defect or old age or infirmity. This however no man of distinction does, but only vaiśyas and gūdras. Burning oneself is forbidden to brahmanas and ksatriyas by a special law, Therefore these if they want to kill themselves do so at the time of an eclipse in some other manner or they hīre somebody to drown them in the Ganges,' (tr. by Sachau, vol. I p 170). The Tri. S. S. provides that a man desirous of committing religious suicide at Prayaga should first perform a prāyaścitta, 
 
@@ -507,7 +507,7 @@ operate by giving the soul the present body) and hriyamūna (to be done in this 
 
 614 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

@@ -33,7 +33,7 @@ Bhagwan v. Harubai I, L, R. 32 Bom. 300 at p. 305. 1514 Vide Bhagwan v. Warubai 
 
 970 
 
-History of Dharmaśāstra 
+
 
 bhatti has been accepted as one of the leading authorities, the authority of Balambhatta has been held to be inferior to that of Nandapandita in matters of adoption, it being held that a widow cannot adopt in the Benares School without express authority from her husband ( while Balambhatta holds that she can adopt without such authority). Similarly it has been held that the Balambhatti cannot prevail over the views of the Viramitrodaya and that a daughter-in-law is not in the line of heirs at all though the Balambhatti says that she is so.1517 
 
@@ -73,7 +73,7 @@ on भट्टोजि' शब्दकौस्तुभ. 1522 Vide Stein's c
 
 972 
 
-History of Dharmaśāstra 
+
 
 nabhūṣaṇasāra, styles Bālambhatta Payagunda his guru.1523 Looking to the colophons where Lakṣmi is referred to as the mother of Balakrsna and to the fact that the work is known as Bālambhatti, we must conclude that it was composed by Balam bhatta and not by his father Vaidyanātha. What motive impelled Bālambharta to publish the work in the name of his mother it is difficult to say. Tradition says that he did so to console Lakṣmidevi in her bereavement on the death of a child. Vaidya nātha composed several commentaries on grammatical works such as on the Mahābhāsyapradipoddyota of Nāgojibhatta, on the Paribhāșendusekbara (com. called Kāskā and Gadā), on the Vaiyakarana-siddhantamañjūṣā (com. called Kalā), on the Laghuśabdendusekhara (com. Cidasthimālā ), on the Laghu sabdaratna (com. Bhavaprakāśa). Mr. Govinda Das (p. 27 in Mr. Gharpure's edition of acāra portion ) says that these works were really composed by Bālambhatta and ascribed to his father. In these grammatical works the names of Vaidyanatha's parents are given as Mabadeva and Veni. 
 
@@ -101,7 +101,7 @@ date वियद्वेदमुनिक्ष्माभिभितेब
 
 974 
 
-History of Dharmaśāstra 
+
 
 bhatta and the Kaustubha could not have been composed before 1700 A. D. 
 

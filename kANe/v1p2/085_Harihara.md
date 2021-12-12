@@ -25,7 +25,7 @@ fafter a ficat fete sfat i fa. T. p. 221.
 
 736 
 
-History of Dharmaśāstra 
+
 
 dvyangulaccheda ’1059 From these it is clear that Harihara wrote some work on vyavahara, which has not yet been recovered. He must have flourished earlier than 1300 A. D. 
 

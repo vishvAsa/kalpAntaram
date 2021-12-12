@@ -23,7 +23,7 @@ of 1895 ) where he quotos Srikara iby the first among a host of writers that bol
 
 572 
 
-History of Dharmaśāstra 
+
 
 Srikara was probably a writer from Mithila and seems to have propounded the view of spiritual benefit as the criterion for judging superior rights of succession. The Smrtisāra747 of Harinātha ascribes such a view to a Srikara-nibandha. 
 

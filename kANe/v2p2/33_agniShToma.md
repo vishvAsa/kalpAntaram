@@ -75,7 +75,7 @@ E, D. 143
 
 1138 
 
-History of Dharmaśāstra 
+
 
 (Oh. XXXIII 
 
@@ -321,7 +321,7 @@ iz bold te
 
 1156 
 
-History of Dharmaśāstra 
+
 
 [ Che IXXIII 
 
@@ -365,7 +365,7 @@ day and kept in proper places.2570 Fire is established in the āgnidbra dhiṣny
 
 1160 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIII 
 
@@ -449,7 +449,7 @@ and Sat. VIII. 3. p. 825 ). A very large portion of the soma stalks is to be tak
 
 1166 
 
-History of Dharmaśāstra 
+
 
 (Ch. *XXIII 
 
@@ -475,7 +475,7 @@ chant that is to be sung. 8586 The adhvaryu takes two blades *from the grass str
 
 1168 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIII 
 
@@ -547,7 +547,7 @@ Most of the saman ohants are taken from the Rgveda. In reciting & verse from the
 
 1172 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIII 
 
@@ -603,7 +603,7 @@ Then offerings of soma from the cups are made to the joint deities ( dvidevatya 
 
 1176 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXXIII 
 
@@ -631,7 +631,7 @@ com. on Kat, IX, 12. 3. Vido 9 . V. 6, 3 \# Hti t er भवन्तीत्य
 
 1178 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXXIII 
 
@@ -665,7 +665,7 @@ oferit sinceta Aśv. V. 9. 1. This is the japa. The Ait. Br. X. 6 has the whole 
 
 1180 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVII 
 
@@ -769,7 +769,7 @@ After the chanting of the Mādhyandina-pavamana comes the rite called Dadhigharm
 
 1188 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIJI 
 
@@ -793,7 +793,7 @@ T... EFTARE I feci TT Tra gare TRF4di OTETEA \#IĀŚv. V. 13. 15. For &. vide no
 
 1190 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIII 
 
@@ -819,7 +819,7 @@ recited by the hotr (Ap. XIIL8.2)and at the end of the recita tion of that kastr
 
 1192 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIII 
 

@@ -47,7 +47,7 @@ IR
 
 410 
 
-History of Dharmaśāstra 
+
 
 The Purānas, as a class of works, were looked upon us encyclopaedias for all men and women as to ancient and medi val Hindu religious practices, mythology, geography, his tory of persons, families, royal dynasties and literature. 
 
@@ -83,7 +83,7 @@ FOUR
 
 Bhandarka412 
 
-History of Dharmaśāstra 
+
 
 trouble and effort.466 
 
@@ -121,7 +121,7 @@ farrega il 34OTTTTT 25. 42. Vide Nilokuntha's glogs on it quote H. of Dh, Vol IV
 
 414 
 
-History of Dharmaśāstra 
+
 
 Purāuas in the Mit. he cites only one quotation from the Matsyapurana (chap. 94 ). But the Mit. quotes several Purānas on Yāj. For example, on Yāj. III. 30 it quotes a verse from Brahmāuda purāna which is also quoted by the Smrticandrikā. On Yāj. I. 297-98 the Mit. quotes two verses from Matsya purāna ( 93.11-12) on the position of the planets on a diagram or painting of planets in Grahapūjā. Matsya ( 93.33-37) prescribes the same four Vedic mantras that Yaj. prescribes (in I. 300-301 ) for the worship of the Sun, Mars, Saturn and Ketu. The Mit. on Yāj. III. 6 prescribes the offering of Nārā yanabali for those that commit suicide and states that the procedure is described in Vaiṣnava (purāna ?). On Yāj. III. 6 the Mit. quotes from the Bhavisyat-purāna providing, for death on serpent bite, to a brahmana reciter of Purānas the gift of a golden serpent made from one bhara of gold. The Mit. on Yāj. II. 290 refers to the view of the Skandapurana that there were veryūs that belonged to a distinct caste. It appears to quote the Mārkandeya purāna several times on Yaj. 1.238, 254, III. 19, 287. Thus the Mit. mentions by name only six Purānas, while Aparārka naines twenty Purāṇas and Smrti-candrikā 22. 
 
@@ -153,7 +153,7 @@ handarkar
 
 416 
 
-History of Dharmaśāstra 
+
 
 and practices, yet the popular religion of modern Hindus is pre-eminently paurīnic. The Purīvas contain thousands of slokas on dharinaśāstra matters, they are a rich mine awaiting exploration by careful students of social and religious questions and shed a flood of light on the deve 
 
@@ -205,7 +205,7 @@ Ahandari
 
 418 
 
-History of Dharmaśāstra 
+
 
 Bhaksyābhaksya--Brahmavai- 11 and 14 ); Skanda I 
 
@@ -327,7 +327,7 @@ A
 
 420 
 
-History of Dharmaśāstra 
+
 
 rites of yati); Saura 19 ;/ bhūmikhanda 90 and 92 Skanda VI. 215-225 and sựstik handa 14-15 and VII. I. chap. 205-207 ; 18-19, 60; uttarakhanda Varāha 13-14 and 187--- 2, 20-25, 113, 129 ( nume 188 ; Vāyu (uttarardha rous tirthas named), 130 chap. 10-21 ); Visṇu III. 169, 195 ; Saura 67 ; Siva 13-16. 
 

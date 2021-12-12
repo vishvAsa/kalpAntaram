@@ -97,7 +97,7 @@ I] Three views about twenty years' enjoyment 323 is svatvahāni) 461. The 2nd ex
 
 463. तस्मात्स्थाम्युपेक्षालक्षणस्वापराधादस्माश्च वचनाद्विशतेसम्र्य फलं नटं न लभत इति स्थितम् । मिता. 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -137,7 +137,7 @@ g urah ter wat atauqu: FA all f ara warum p. 134. Vide note 457 above for the ve
 
 326 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 

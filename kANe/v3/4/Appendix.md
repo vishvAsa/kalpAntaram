@@ -97,7 +97,7 @@ fimOfficer. The exact function cannot be indicated. : : Vide grant of Dharāvar�
 
 978 
 
-History of Dharmaśāstra 
+
 
 . 
 
@@ -181,7 +181,7 @@ The oldest references are probably those in Yāj. I. 322, Visnu Dh. S. VII, 3 an
 
 980 
 
-History of Dharmaśāstra 
+
 
 [Vot: 
 
@@ -299,7 +299,7 @@ This word has given rise to various opinions. Fleet and Bühler translate as irr
 
 984 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -441,7 +441,7 @@ Jayanātha of Gupta year 174 (Gupta Ing. No. 26 por 117 at
 
 988 
 
-History of Dharmaśāstra 
+
 
 į Vol. 
 
@@ -907,7 +907,7 @@ deva in Vikrama 1134 (E. I. VII p. 85 at p. 91 ).
 
 1000 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -1123,7 +1123,7 @@ gaur
 
 1006 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1293,7 +1293,7 @@ Appendix (verses on Kalivarjyn)
 
 1014 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

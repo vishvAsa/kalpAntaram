@@ -175,7 +175,7 @@ It has already been shown how it was the duty of a ksatriya and of every soldier
 
 means QUI$.212 
 
-History of Dharmaśāstra 
+
 
 [ Vol 
 

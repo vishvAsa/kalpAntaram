@@ -879,7 +879,7 @@ Sisya Sitā Siva Smārita Smārtakala Sottara Sreni Srenibala Sthanakrta Stbāna
 
 1088 
 
-History of Dharmaśāstra 
+
 
 (Vd. 
 

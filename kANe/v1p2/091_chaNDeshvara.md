@@ -17,7 +17,7 @@ of the Chapdogāhnika. 1143 श्रीकृत्यदानव्यवह�
 
 764 
 
-History of Dharmaśāstra 
+
 
 mount authority in matters of Hindu Law in Mithila (modern 
 
@@ -47,7 +47,7 @@ The Vivādaratnākara is an extensive work (671 pages in print) in 100 tarungas 
 
 766 
 
-History of Dharmaśāstra 
+
 
 of Vācaspati and the Dandaviveka of Vardhamāna. It is mentioned in his own Grhastharatnākara.'147 
 
@@ -93,7 +93,7 @@ at 11 2nd intro, verse Taalfaro.
 
 768 
 
-History of Dharmaśāstra 
+
 
 There are two more works composed by Candeśvara viz., the Dānavākyāvali and the Sivavākyāvali. Vide I. O. Cat. p. 1409, No. 3724 for the latter and Hāraprasad Shastri's Cat. ( 1925) vol. III No. 2393 pp. 465-66 for the Dānavākyāvali. Raghunandana quotes Dānavākyāvali in (vol. II ) Udvāha p. 138 ( which is most probably this work of Candeśvara). 
 
@@ -119,7 +119,7 @@ B. D,--97
 
 770 
 
-History of Dharmaśāstra 
+
 
 the whole of India and elsewhere. In this particular instance there is nothing to show that the work was even printed when I wrote the pages on Candeśvara or sent them to the Press in Poona. 
 
@@ -149,7 +149,7 @@ THE REST OF 54: I verse 4 of metara.
 
 772 
 
-History of Dharmaśāstra 
+
 
 Udvaha 138, author not named), Durgabhaktitarangini (mentioned in vol. I Tithitattva pp. 81, 83, 96, no author named ), Saivasarva svasāra, Vibhāgasāra, Gayāvākyāvali and four more (which have hardly any bearing on Dharmaśāstra ). Of these Gangavākyāvali, and Śaivasarvasvasāra are attributed to queen Visvasadevi and Dānavākyāvali to queen Dhiramati. Vide new 1. A. vol. VII pp. 49–57 by G. C. Basu and Mr. Bhabatosh Bhattacharya's paper in the Proceedings of All-India Oriental Conference at Benares (in 1943-44) vol. II. pp. 288-297. The grant of the village Bisapi to Vidyāpati (now held by scholars as spurious) is set out by Grierson on p. 191 of his paper in I. A. vol. 14 pp. 182-196 on * Vidyāpati and his Contemporaries and Grierson in I. A. vol. 28 pp. 57–58 states that the grant is dated in La. Sam. 292 i. e. 1400-1 A. D. i. e. he holds that La. Sam. started in 1109 A. D. (vide above p. 733 for La. Sam.) and he sets out the Kāmesvara dynasty as follows. Pañjikāras mention four rulers after Viśvāsadevi, but as Vidyāpati does not mention them they are omitted here. 
 
@@ -201,7 +201,7 @@ prasad Sastri). 1157 wafa p. 4 (Benares ed. of 1920 \#aa) fa unahtar
 
 , 
 
-History of Dharmaśāstra 
+
 
 From the Vyavahāraratnākara it appears that Candesvara was Chief Judge as well as Minister for peace and war.1188 Candesvara and his ancestors are highly praised for their libe rality1159 In the Dānaratnākara (verse 2 at the end) he is said to have rescued the earth submerged in the flood of Mlecchas. 1180 This probably refers to the defeat of some Mahomedan generals. Harisimhadeva was routed by Ghiasuddin Tughlak in 1324 and retired from Tirhut into 1181 Nepal. Hence it follows that the seven 
 

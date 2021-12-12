@@ -21,6 +21,6 @@ AM
 
 278 
 
-History of Dharmaśāstra 
+
 
 Rg. Mantras and on pp. 1103, 1190, 1199 provides expiation (in prose) for causing the death of a cow, for one who touches or carries to tbe cemetery or cremates a suicide, and for close contact of Cāudālas with houses, earthenots and states that for children, the ayed and women the expiation is only half of what is prescribed for grown-up inen. Apurārka quotes only one verse on Yāj. III. 264-265 as mild expiation in cer tain cases of causing the death of a cow. The Mit. on Yāj. III. 30 cites a long prose passage as regards the times when a bath with clothes on is necessary. 

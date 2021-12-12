@@ -35,7 +35,7 @@ The authors of smrtis believed that there was a golden age or era of perfect vir
 
 244 
 
-History of Dharmaśāstra 
+
 
 ( Vol 
 
@@ -85,7 +85,7 @@ i Fara Fant ER: \#4444. eta g. by white. (II. p. 1).
 
 248 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -229,7 +229,7 @@ A g rig fi re poffing it arca (restoran 1-4 ) quoted by the FAM. on T1. II. 295.
 
 (Continued on the next page)252 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -247,7 +247,7 @@ without informing (government officers ) purchased from un clean hands (1. e. fr
 
 254 
 
-History of Dharmaśāstra 
+
 
 i voi. 
 
@@ -271,7 +271,7 @@ karma' in this chapter of the Arthasāstra means 'torture'. One fails to see wha
 
 256 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -335,7 +335,7 @@ at FFI SPET P. 597 (on T. II. 17.)
 
 260 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -655,7 +655,7 @@ AT: FCTatra pri Trafaret foran yo \# - Eft F \# fe quoted in free II. p. 15. It 
 
 274 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -683,7 +683,7 @@ ___364. अनिर्णीत तु यद्यर्थे सम्भा
 
 276 
 
-History of Dharmaśāstra 
+
 
 | Vol. 
 
@@ -719,7 +719,7 @@ iar para 85. 370. mie s to para ... ... ferita atragatorefter पश्येत
 
 278 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -745,7 +745,7 @@ Judicial procedure in Mṣcchakaṭika
 
 280 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -799,7 +799,7 @@ an 999: 1 dat erialaiat rovereat siitā leikatta q. by ty. Fr. p. 13.
 
 284 
 
-History of Dharmaśāstra 
+
 
 (Vol 
 
@@ -835,7 +835,7 @@ Manu (VIII. 23) prescribes that the king fully dressed and with an undisturbed m
 
 286 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -877,7 +877,7 @@ negara i tq. f*. p. 29.
 
 288 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1007,7 +1007,7 @@ BUST III. 1. 408. In modern times a plaint or memorandum of appeal is to be reje
 
 296 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -1041,7 +1041,7 @@ A T and Wire)
 
 298 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1089,7 +1089,7 @@ u nojaan , vide also Ant. on a II. 32 for similar words,
 
 300 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1127,7 +1127,7 @@ time of Kat., who provides ( 144 ) that if a statement asserted by the plaintiff
 
 424. fegra FTTET Tima a ati ada hari F 12479 farvet478 n regras q. by FfyII. p. 43 which explains ' n e METTETTHOUTIETO TUTE', F. 1. p. 61. The ry, fot. (p. 53) has the follow ing note on this 'ऐन्द्रस्थाने जितस्य प्राण्यापविधिसिद्धी जयपत्रेणाई भाषयामीत्येकः कुलव्यवहारे च जयपत्राभावात् कुल्याः कुलविवादषु विज्ञेयास्तेपि साक्षिण: इति षचनात् तैरव व्यवहारदशिभिर्भावयामीति द्वितीयः । राज्ञा धर्मासमरपन पच्युत तस्सदर्शिमा। नान्यः साक्षी भवेत्ता मुक्या राजानमीश्वरम् इति पचनात् साक्ष्यभावाम राज्ञा भाषयामीति wate: \#'302 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -1161,7 +1161,7 @@ II warara : Vide S. B. E, vol. 33 pp. 295-296 verses 10-12 for Bp. (Dr. Jolly's 
 
 304 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1323,7 +1323,7 @@ W W E T fyrry II. 70.
 
 314 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

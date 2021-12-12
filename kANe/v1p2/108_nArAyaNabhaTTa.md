@@ -19,7 +19,7 @@ jivac-chrāddhavidhi'( based on the Brahmapurāna and other works) enabling a pe
 
 904 
 
-History of Dharmaśāstra 
+
 
 family of Benares, vide I. A. vol. 41 pp. 7-13 and for a detailed account of some members of that family and their works ( particularly on Dharmaśāstra ), vide the present author's Intro duction to the Vyavahāramayukha (pp. V-XLv) published by the B. O. R. I. in 1926. From several references it appears that Nārāyaṇabhatta wrote a bhāṣya on the Gobhila-gshya-sūtra; vide Smṛtitattva (vol. 1 )-Tithi p. 14 ‘Kuśāntarapratinidhir-Bhattana rāyanair - Gobhila-bhāṣya uktaḥ); Samskāratattva pp. 878 and 904; (vol. II) Udvahatattva p. 130. A few more examples of the use of the honorific plural Bhatta-Nārāyaṇacaranāh' by Raghu, may be added here. Vide (vol. I) Śrāddha pp. 201, 245; Samskāra p. 868; (vol. II) Mathapratisthā 620, Suddhi 251. M. M. Haraprasad Sastri has broght to light a biography of this family written by Sarkarabhatta, a son of Nārāyaṇabhatta (Ind. Ant. for 1912 vol. 41, pp. 7-13). Nārāyanabhatta's father Rame svarabhatta whose gotra was Viśvāmitra migrated from Prati sthāna (Paithan ) in the Deccan to Benares. Rameśvarabhatta was a very learned man and his learning drew to him students from the whole of India. Nārāyaṇabhatta was born according to Śankarabhatta's biography in sake 1435 in the month of Caitra (i. e. about March 1513 A. D.). Nārāyaṇabhatta was the eldest of three sons, the other two being Sridhara and Madhava. Nārāyapabhaṭṭa learnt all the śāstras at the feet of his father. Pandits all over India looked up to him as their leader and patron and he was an assiduous collector of Sanskrit mss. It is said that Nārāyaṇabhatta brought down by his holiness rain in a season of drought and thereby induced the Mahomedan ruler that had razed the temple of Visvesvara at Benares to the 
 
@@ -41,7 +41,7 @@ H, D, 114
 
 906 
 
-History of Dharmaśāstra 
+
 
 by the Bhandarkar Oriental Institute, Poona, in 1926 pp. V-XXVII). Only a brief pedigree of the family is added here: 1366 
 

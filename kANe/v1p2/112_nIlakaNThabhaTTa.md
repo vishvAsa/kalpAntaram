@@ -9,7 +9,7 @@ H. D. 118
 
 938 
 
-History of Dharmaśāstra 
+
 
 history of Nilakantha, his works, their contents, their position in dharmaśāstra literature, the period of Nilakantha's literary activity and his position in modern Hindu Law. In the following a brief résumé of the conclusions there arrived at is given. 
 
@@ -45,7 +45,7 @@ I. L. R. 6 Bom. 541 at p. 546; J. L. R. 14 Bom. 612 at. pp. 623-624, I. L. R. 24
 
 940 
 
-History of Dharmaśāstra 
+
 
 important place though it was subordinate to the Mitāksarā2450 The general principle, on which the Bombay High Court acted in construing the rules laid down in the Mitāksarā and the Vyava hāramayukha, is that the two works are to be harmonized with one another wherever and so far as that is reasonably possible.1451 Though the Mitakṣarā is a paramount authority in the Maratha country and the Ratnagiri District and though it is silent about the sister's right as a gotraja heir, the courts, in deference to the authority of the Vyavaharamayukha, have assigned to the sister a high place as an heir even in the Maratha country and in Ratnagiri. Among the other Mayūkhas, the Samskāramayukha has been frequently relied upon by the courts,1452 The Praya Ścittamayukha and the Pratiṣthāmayūkha 1453 have also been relied upon in the High Court. 
 

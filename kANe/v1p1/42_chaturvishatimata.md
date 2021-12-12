@@ -39,7 +39,7 @@ and the first half of it occurs in the portancia 588 अर्हच्चार
 
 512 
 
-History of Dharmaśāstra 
+
 
 Medhātithi. It was probably compiled about the time when the latter two writers flourished. Aparārka 589 (p. 1121 ) quotes a prose passage from the work on the prayascitta for a dvijāti procreating children on a Sūdra wife. This passage could not be traced in the two mss. referred to above. 
 

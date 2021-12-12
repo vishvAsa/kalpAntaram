@@ -231,7 +231,7 @@ The adhvaryu, sitting to the west (or north ) of the gārha patya fire, takes & 
 
 1022 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXX 
 
@@ -349,7 +349,7 @@ wife to make the rice free from the thin coating of busk. 1818 The wife or some 
 
 1030 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXX 
 
@@ -397,7 +397,7 @@ TUTTO
 
 1032 
 
-History of Dharmaśāstra 
+
 
 [Ch. XXX 
 
@@ -435,7 +435,7 @@ E. D, 130
 
 1034 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXX 
 
@@ -503,7 +503,7 @@ Taarin i. Vide Tai. Br. III. 2.9 and Sat. I. 6. p. 153. According to Sat. this i
 
 1038 
 
-History of Dharmaśāstra 
+
 
 i Oh, XXX 
 
@@ -839,7 +839,7 @@ Fifat and not afere .
 
 1060 
 
-History of Dharmaśāstra 
+
 
 ICh.xxx 
 
@@ -911,7 +911,7 @@ in the above. Punya: is repeated inaudibly. Vide Aøv. I. 3. 13-16. Wi ... moi. 
 
 1064 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXX 
 
@@ -1103,7 +1103,7 @@ p. 218.
 
 2404. Vide Sat, Br. I. 8. 8. 23-27 for the offering of tbe remnants of djya to the Vibve Devas. This boms of remnants is an ange of the peridbiboma. Vido com. on Āp. III. 7. 14.1076 
 
-History of Dharmaśāstra 
+
 
 ī Ćh, XXX 
 
@@ -1135,7 +1135,7 @@ got agenti ... ... Te (*. V. 46.7-8), for i TITIO aro ni Tra ... TWTTT (F. VI. 1
 
 iois 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXX 
 
@@ -1285,7 +1285,7 @@ Pinçapitryajña It is so called because balls of rice are offered to the pitrg 
 
 2428. SHTETTU T A R 1 Tay: foaren gua mtu. I. 7. 1-2. T oxplains 'rova: potte'; RETETE on HEATTTT say: foot: furaha \#ita: pagant ut ETA: \# FRUUT I I, 7. p. 245.1086 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXX 
 

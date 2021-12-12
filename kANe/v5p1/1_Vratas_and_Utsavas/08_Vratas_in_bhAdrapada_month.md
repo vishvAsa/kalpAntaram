@@ -51,7 +51,7 @@ H. D. 19
 
 146 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VIII 
 
@@ -81,7 +81,7 @@ ____374. अस्यां चन्द्रदर्शनं न कर्�
 
 148 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VIII 
 
@@ -117,7 +117,7 @@ ILL
 
 150 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VIII 
 
@@ -161,7 +161,7 @@ RU
 
 152 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, CH. VIII 
 

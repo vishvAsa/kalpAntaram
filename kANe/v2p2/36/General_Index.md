@@ -305,7 +305,7 @@ like okndalas, 70; is one who onts cow', flesh according to Veda Vydna, 71; most
 
 1284 
 
-History of Dharmaśāstra 
+
 
 of, distinguished by Mitikpark 70; twelvo kinds of, mentioned by 
 
@@ -1035,7 +1035,7 @@ the lower garmont, 672 ; tarpya tiines, 545, 773; milk of agoihotra garnont worn
 
 1296 
 
-History of Dharmaśāstra 
+
 
 &c. 
 
@@ -2543,7 +2543,7 @@ were undor no restrictions as to ago at time of, 446; list of all ritos of marri
 
 1320 
 
-History of Dharmaśāstra 
+
 
 principal rito in, 629; three parts in rites of 631; three views about childron of anuloma marriago, 55-56 ; validity of apuloma and pratilomą m. in British India, 451-452; when m. final and irrevocable, 639; with deceased wife's sistor permissible, though forbidden in England till 1907, 501; with descendants of one's pitr bandhug and mātsbandhus, 474 476; with maternal aunt's daughter 467; with maternal uncle's daughter, 458-463; with sagotra or sa pravara girl, pull and void, 437-438; with sister's daughter practised by some brāhmaṇas in Karnataka, 467; without consont of guardian for, cannot be set aside if principal ritos such 48 saptapadı have been 
 
@@ -2789,7 +2789,7 @@ dawo with form, 718-719.
 
 1324 : 
 
-History of Dharmaśāstra 
+
 
 Nataggtra, composed by silalin and Nity&carapaddhati, 172, 237, 259, 
 
@@ -2927,7 +2927,7 @@ condemn tripundra mark, 673; ! to all in samo parkti, 768.
 
 1326 
 
-History of Dharmaśāstra 
+
 
 Panktipāvana (danctifying company, with king in the matter of grave 
 
@@ -3451,7 +3451,7 @@ I to be burnt with Kloakı, 626.
 
 1334 
 
-History of Dharmaśāstra 
+
 
 almost same footing as, 129; com. modities that could not be sold by a brābmaga even in distress, 126 
 

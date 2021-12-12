@@ -113,7 +113,7 @@ Manu XI. 79, Yāj. III, 244 and 246, Vas, 20.27-28 and Gaut. 2%, 7-8 and 11 ment
 
 94 
 
-History of Dharmaśāstra 
+
 
 [Vol: Manu XI. 82, Yāj III 24, Sarkha and Gaut 32,9 lay down that if the murderer of a brāhmana announces his sid then the king and priests bare met together for the ceremonial bath after the Aśramedha sacrifica and being permitted by them bathes along with them, he becomes free from the sin. 22 Acoording to Haradatta this is an independent penance, thile according to the Mit on Yāj III. 244, Sparārka p. 1057 and others it is not so but is to be performed while undergoing the 12 years' papanoa. - 
 
@@ -219,7 +219,7 @@ a rah OR FI STE 20. 18 The verse is HE XI 351. 229. Fra Ererad Tata Statut 3tlla
 
 100 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -407,7 +407,7 @@ Vrātyatā (failure to have upanayapa performed at the right time) person whose 
 
 112 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -595,7 +595,7 @@ one those father was alive and to a man whose wife was pregnant. But this prohib
 
 124 
 
-History of Dharmaśāstra 
+
 
 I Vol. of the body (including private parts), 282 The tonsure is to be performed by a barber and yet the sanhalpa is 'vapanam karisye' and not 'vapanam kārayisye' From Gaut 27.3 (vapanam vratam caret) prescribing tonsure in cāndrāyana Haradatta and others infer that zapano is unnecessary in krcchra pedance 
 
@@ -667,7 +667,7 @@ TURTTAŞITETTI पुण्यतीर्थेऽनार्दशिरः�
 
 128 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 

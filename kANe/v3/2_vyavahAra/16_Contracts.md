@@ -263,7 +263,7 @@ A loan has to be returned on demand if no time is fixed for repayment or on the 
 
 426 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -299,7 +299,7 @@ u a rangi-ta far, on . II. 58.
 
 428 
 
-History of Dharmaśāstra 
+
 
 i Vol. 
 
@@ -377,7 +377,7 @@ Kāt. (522) requires that an adhi becomes valid when such particulars as the bou
 
 PEITE. g. by TT. T. III. p. 233, Farar. II. p. 144; vide a similar verac of The quoted in. . . . 173... .. .432 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -743,7 +743,7 @@ Whoever takes the wealth of the deceased ( whether a son or a collateral heir ) 
 
 454 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 

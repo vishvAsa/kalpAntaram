@@ -245,7 +245,7 @@ viz japanāśauca or sūtaka (arising on birth) and sāvasaaca or mrtala sanca (
 
 840 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -373,7 +373,7 @@ HD, 106
 
 842 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -821,7 +821,7 @@ HITT
 
 850 
 
-History of Dharmaśāstra 
+
 
 [ Vol 
 
@@ -1037,7 +1037,7 @@ tion or building of an edika 255 Funeral rites, see under 'Agnihotrin', 'cremati
 
 who had undergone consecration for a soma sacrifice or sattra, acc to srauta sutras 202-204, for ten days after death, a handful of water mix ed with sesame was to be offered to deceased on the stone called asuā placed on kusas and one large pioda also on kuśas every day 262, for Yati 229-231, funeral pyre is to be made of the wood of sacrificial trees 211, great importance attached to the incident of a crow seizing or eating the pinda offered on the 10th day after death 264, Ling to arrange for funeral rites of the deceased in the absence of all relatives 256-257, lamp fed with sesame oil to be kept burning for ten days after death 219, milk and water to be placed in space for ten nights after death for reducing tor ments of thirst to the spirit of the deceased 340, no funeral rites for those who start in anger on the Great Journey (to the Himālagas) or who commit suicide in one of various ways 222-223, order of persons who are adhthār 1n for performing f r is generally the same as the adhikarins for śrāddba, bet varies in different works 256–260, persoc who begias the funeral rites on the first day bas to carry them on till the 10th day even if a nearer relative becomes available after the former has begun 221, pindas to be offered to deceas ed on day of cremation and for ten days more in addition by the son or nearest sapında 219-221, procedure of, according to Asv gr. 208-210, procedure of, became more elabo rate in medieyal and later times 190; procedure of offering water to deceased after cremation 218-219; procedure of what to do after returning to the house on crema tion 237, procedure for tea days after death 262, procedure OR 10th day after death 263–264 ; pro cession of relatives returnjog after 
 
-History of Dharmaśāstra 
+
 
 (Vol. cremation arranged according to the corpse though no relaties here to age, the elder coming first 199n; do on day of cremation and one day relatives acter performing fr should thereafter 238, what is stopped for 
 
@@ -1111,7 +1111,7 @@ patroness 5838 Garga 3980 Gārgya 373 Garudaporana 53, 166, 168, 174, 1823.
 
 856 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1141,7 +1141,7 @@ a pinda to oneself while living 670, procedure of śrāddba, acc. to Vāyu purā
 
 858 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1261,7 +1261,7 @@ at Lauriya Nagdadgarb resemble in many respects the mounds described 10 Srauta s
 
 860 
 
-History of Dharmaśāstra 
+
 
 LÝ. 
 
@@ -1483,7 +1483,7 @@ effigy representing a human figare is to be made of threads and palasa stalks on
 
 864 
 
-History of Dharmaśāstra 
+
 
 (Vol. ancient dea of saddha 545, water and piada are offered to bimsell with 
 
@@ -1605,7 +1605,7 @@ see under 'Sārnath', 'sins', 'onlāra' 'lingas', 'ascetics', Adikeśava-ghāt 6
 
 866 
 
-History of Dharmaśāstra 
+
 
 (Vol 
 
@@ -1755,7 +1755,7 @@ same as Siśukrcchra 150 Lagbu-Saṅkha 190, 4010, 4110, 5180,
 
 810 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -2047,7 +2047,7 @@ Alettasutta 550n
 
 8774 
 
-History of Dharmaśāstra 
+
 
 Vimāmsā, sco "Jaimini', 'maxim', bralma, by staddba at Gaga, on 
 
@@ -2281,7 +2281,7 @@ cremation 224-225 Papa, is copper weighing 80 raktıka's
 
 878 
 
-History of Dharmaśāstra 
+
 
 [Vol. Bombay High Court 713; modern P. lies along the night bank of the 
 
@@ -2759,7 +2759,7 @@ by pilgrimages 56 Purana, Stāddbas 262 Purification, see under 'food', of thing
 
 890 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -3357,7 +3357,7 @@ sons, so that at least one may visit
 
 900 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -3527,7 +3527,7 @@ suddbı after death (pretaśuddbi) and ß of things (dravyasuddhi) 267, 309, mea
 
 908 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -3591,7 +3591,7 @@ carth 168 Svargarohanıba-parya 164
 
 910 
 
-History of Dharmaśāstra 
+
 
 I Vol 
 
@@ -3873,7 +3873,7 @@ Visaur-va-cakramc), 4con
 
 916 
 
-History of Dharmaśāstra 
+
 
 Vol. 
 

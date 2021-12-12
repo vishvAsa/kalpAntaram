@@ -41,7 +41,7 @@ ___38. व्रतमुपैयन् बयादने व्रतपत�
 
 24 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -115,7 +115,7 @@ ____52 पाणिग्रहणादधि गृहमेधिनोर्
 
 54. STETE a ffrath T AGITED STI a I 48 58. 16. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -141,7 +141,7 @@ ___57. सङ्कल्पमूलः कामो वै यज्ञाः 
 
 30 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -213,7 +213,7 @@ Manu II. 176 and Yāj. I. 99, 100, 102 show that Devapūjā is different from76 
 
 fora. I. p. 198, uraas. (H ) p. 383. 3. D, 5 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -235,7 +235,7 @@ phala and other digests. Certain matters connected with devapūjā such as the q
 
 81. Furnishing Arad ua aut ā ga: Frant \#art F hat a real garantat afati FXT, 1. I. 15. 2. This mantra le Tal. Ā. X. 40. 1. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -263,7 +263,7 @@ Some works on vratas treat at great length the several upacāras, particularly f
 
 87. Taycruitra I marani gou Trafarurotil stopprecum: styre ETAT TEEN vrag. I. p. 201. 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. II 
 
@@ -349,7 +349,7 @@ The Purāṇas extol, as in the case of pilgrimages, the performance of vratas t
 
 107. a 1917 7 iṣlt gott heran que el Tyco q. by. (on a) II p. 869. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -375,7 +375,7 @@ There were vratas for the brahmaçõrin (called Veda-vratas ) and for the spāta
 
 46 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. II 
 
@@ -439,7 +439,7 @@ A few words about homa may be said here. Women could not offer homa with mantras
 
 H. D. 7 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. II 
 

@@ -13,7 +13,7 @@ Freit &c. 230 tai rataifa, ZZETIRTA: 1 77891749-741-174176at
 
 FirAZTOTT9-7-197-471H-TET Fat-ala 3-a1-are बोल्वातदर्शनी (?) भुक्त्वा प्रतिगृह्य च स्त्रीगमने सहभोजने रहस्य रहस्यातिप्रकाश प्रकाश्यानि चरेत् ।262 
 
-History of Dharmaśāstra 
+
 
 There are several works styled Atri-smrti or samhitā in the mss. One of them is in six chapters on secret prāyścittas, gifts, pitṛmedha and ācāra ( vide I. O. Cat., p. 381, No. 1308). There is another work styled Atrisaṁhitā printed in Jivanau da's collection (part I. pp. 13-46). It contains about 400 verses and deals with the following topics :- importance of honouring guru; duties of four castes; purifications of seveaal mnulus ; virtues of Brāhmanas such as saucu, anusīyā; defini tion of iṣta and pūrta, ten yamas and niyamas; importance of sons; adopted sons; prāyaścittas for taking forbidden food or drink and for other transgressions ; impurity on birth and death; cāndrāyana, Kłchra, Sānta pana ; gifts ; purifications from avoidable contacts with rajasvalā &c. ; Srāddha and the brābmaṇas to be invited for it. 
 

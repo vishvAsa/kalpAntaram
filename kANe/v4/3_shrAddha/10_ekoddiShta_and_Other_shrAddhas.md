@@ -67,7 +67,7 @@ In the Navaśrāddhas no incense, no lamps are employed. All mantras having the 
 
 520 
 
-History of Dharmaśāstra 
+
 
 [Vol. omitted and so is tho word 'anu' omitted and there is no jam and no recital of mantras in the hearing of the brābmanos, As stated in the Brahmapurana, the śrāddhas performed in the house at the ond of impurity on the 12th day, at the end of a month etc. are called ekoddista. It follows that the rites cailed navagrāddhas offered during the days of impurity are per formed at the place of death or in the cemetery or at a place whoro wntor and pinda are offered (and not in the house ), vido Sm, C. (aśauca p. 176 ). In the navamióra śraddha mantrag aro employed according to some. In former times and now also all tho 16 śróddhas aro performed on the 11th day. Hardly any one waits for ono year to perform Sapipdikarada. In former times it was laid down (e. g. by the Mit ) that in times of difficulty, Sapindikarana should be performed even before a yoar elapses after performing the sixteen śrāddhas. But now this cxcoption has become the rule. 
 
@@ -243,7 +243,7 @@ H. D. 67
 
 530 
 
-History of Dharmaśāstra 
+
 
 (Vol. laid down that in the case of one's parents this śrāddha par takes of the character of pārvana. 11861 The Bhavisya-purada and Skanda state that the Samvatsarika sraddha is the most eminent among srāddhas and that if a son does not perform the yearly graddha of his parents on the day of death he goes to the horrible Hell called Tamisra and then is born as a pig in a town, 1187 In connection with this, if the tithi or month of death or both are not known then Brhaspati, the Skandapurāda, Padma and Bhavisyapurāna lay down certain rules, viz 1188 (1) if the tithz is known but the month is not known, then the śrāddba should be performed on that tithi in the month of Mārgasirsa or Magha; (2) if the month is known but the tithi is not known, then the śrāddha should be performed on the amāvāsyā of the month; (3) if both the tithi and the month are not known, then one should take the tithi and the month when the deceased started from home; (4) if even the day and mouth of starting be not known, then the tithi and month in which a person bears of the death of a relative should be taken, It is to be noted that the month in pitrya rites is lunar and the words 'dina, ahah, võsara' in connection with pitrya rites mean ' tithi' (Aparārka p. 545). There is to pratyabdzka śrāddha in an intercalary month (Skanda VII. 1. 206, 59). 
 
@@ -273,7 +273,7 @@ itsref,' This paulù more T RAGIC I Face (41 p. 365). There is also a third way 
 
 532 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -307,7 +307,7 @@ Another is the 'Avidhayānavamiśrāddha', which is per formed for one's mother 
 
 534 
 
-History of Dharmaśāstra 
+
 
 the dark half of Bhadrapada. It ceases to be performed when the busband dies after the woman's death, The Nirdayasindbu notices several views about this and says that one should follow the usage of one's country 1198. According to the Mar kandeyapurāna in this śrāddha not only a brāhmana but also a woman whose husband is alive is to be fed and presents of & girdle, & garland and bangles are to be made to her. 
 
@@ -339,7 +339,7 @@ T TT mai 960 ish समन्विताम् । सम्पूज्य द
 
 536 
 
-History of Dharmaśāstra 
+
 
 [fol. 
 
@@ -373,7 +373,7 @@ H. D. 68
 
 538 
 
-History of Dharmaśāstra 
+
 
 (Vol. follows: 1110 "If these (i.e. those who are bijin ) bave no issue born of their own wives, (the sons begotten by niyoga or given in adoption) should inherit their wealth and offer pindas to them up to three ancestors; if both (the bijin and ksetrig or the giver and taker in adoption) have no other son, then they (sons begotten or adopted ) should offer pinda to both, in one and the same śrāddha they should repeat (the names of) the two ancestors respectively (of the acceptor and that of the bogetter) after having separately intended the same pinda for both up to the third ancestor.' The Baud, Dk. S. 1211 quotes a verse as follows "The son of two fathers shall give the pinda (to his two fathers and pronounce) two names with each pinda; three pindas will thus serve for six persons (apcestors).' It would be seen from the passage quoted above from Hārīta that some authorities allowed two separate pindas for each degree of ancestors when there were two in the same degree. Manu IX. 142 lays down the son given should not take the golra and wealth of bis natural father, the pinda follows the gotra and Wealth; the suadhā (obsequies) of hia who gives his son in adoption) cease of fail (so far as that son is concerned).' This Verse has been so interpreted by some decisions of the High Courts and of the Privy Council as to mean that the son adopted becomes totally severed from the family of bis birth, This subject has been discussed at great length in H. of Dh. vol III pp 690-697 and it 18 established there that the severance of the son given in adoption is only partial, that the gotra of the patitra) family persists even after adoption into another family for purposes of marriage and āśauca and that the Nirnayasindhu, 1212 the Dharma-sindbu and the Dattaka. candrikā declare that the son given away in adoption into another family can perform the śrāddha of his natural father, 
 
@@ -403,7 +403,7 @@ I.11.the Kausitaki gr. III 11 (in Benaras S. S. and III.6 in Madras University S
 
 540 
 
-History of Dharmaśāstra 
+
 
 (Vol, marks (i, e, must not be deficient in any limb), must be darka coloured 1215 or red but having & white mouth, white tail, white feet and white horns, he must be one that can protect the herd (or that throws into the background by his height all the herd). Then after having kindled a blazing fire among the cows (in the cowpen) and having strewn kuśa grass around it let him boil with milk a dish sacred to Pūsan and offer (two oblations) with the mantra 'May Pūsan follow our cos' (Rg. VI 54,5) and the mantra 'here is pleasure' (Vā), S. 8,51); a blacksmith should then mark the bull, on one flank with a discus and on the other flank 1215 with a trident Let him wash the bull after he is marked with four mantras beginning with the golden-coloured' (Tai. S. V, 6.1. 1-2) and with the (five) mantras beginning with 'May the divine (waters) bring ug happiness (Rg. X, 9. 4-8). Having washed and decked the bull he should bring him together with four young cows which also should have been washed and decked and mutter the Rudras (Tai S. IV 5,1-11), the Purusasūkta (Rg 10.90.1-16) and the Kūsmāndis (Vaj S. XX, 14-16, Tai Ā. X. 3-5). Then let him recite in the right ear of the bull the mantra 1217 'father of calves' and the following mantras "The holy dharma 1218 is a bull and is declared to have four feet; I choose him with devo tion (as the object of worship); may be protect me on all sides, This young bull I give you as husband (O young cowsl), roana 
 

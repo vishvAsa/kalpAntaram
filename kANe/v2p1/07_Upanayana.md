@@ -39,7 +39,7 @@ in to wear
 
 270 
 
-History of Dharmaśāstra 
+
 
 thu vi 
 
@@ -249,7 +249,7 @@ H. D. 36
 
 282 
 
-History of Dharmaśāstra 
+
 
 [ Oh, VII 
 
@@ -487,7 +487,7 @@ An interesting question is whether women ever had upa nayana performed or whethe
 
 094 
 
-History of Dharmaśāstra 
+
 
 (OL.VII 
 
@@ -519,7 +519,7 @@ H u ara saya harat Arrow वाचन तथा पिता पितयो भ
 
 698. Pre great ware in para 133 of Fear (ul296 
 
-History of Dharmaśāstra 
+
 
 ( Ch. VII 
 
@@ -763,7 +763,7 @@ explains as naturae: (with whom no social inter
 
 310 
 
-History of Dharmaśāstra 
+
 
 Ch. VII 
 
@@ -797,7 +797,7 @@ w uroATERT:H'. merat 57 is very similar to the vorso quoted by the मिता.
 
 312 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -853,7 +853,7 @@ of the sun
 
 314 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1025,7 +1025,7 @@ H. D. 41
 
 322 
 
-History of Dharmaśāstra 
+
 
 [ Oh. VII 
 
@@ -1067,7 +1067,7 @@ greatness of the ādārya. Manu II. 146 ( = Viṣṇu Dh. 8. 30. 44 ) says that 
 
 324 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1101,7 +1101,7 @@ ra 165. 31. 782. HUTNÁ a ofertaigoriferater R T I foar on 1. I. 118; a T4T8EWAH
 
 783. Compare sirg. u . I. 2.6. 24-26 garnyrat tergrategi TUNOTTI Worl. Vide also \#II. 193.326 
 
-History of Dharmaśāstra 
+
 
 Ch. VII 
 
@@ -1207,7 +1207,7 @@ T . y. I. 2, 8. 12.
 
 332 
 
-History of Dharmaśāstra 
+
 
 Ch. VII 
 
@@ -1337,7 +1337,7 @@ The rules about returning a salutation (about pratyabhivada) are made somewhat i
 
 340 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1767,7 +1767,7 @@ H. D. 46
 
 362 
 
-History of Dharmaśāstra 
+
 
 ( Ch. VII were paid or delivered,888 In distress, Manu X. 116 and Y&j. III. 4% allow even such stipulations for the purpose of securing one's livelihood, 
 
@@ -1799,7 +1799,7 @@ A few words must now be said about the education of kṣatriyas, vaisyas and kū
 
 364 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1865,7 +1865,7 @@ for ruta FTHEE I. 2. 1-3. 896. RTTTTT Artiga HOFERTE \#. VI. 1. 24; sira पज�
 
 388 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1895,7 +1895,7 @@ H. D. 47
 
 370 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -1955,7 +1955,7 @@ f97a7a****TART- a स्पर्शनकोपीनकटिसूत्र-�
 
 374 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -2025,7 +2025,7 @@ their sacrifices and there is to be no social intercourse with them (i. e. no ma
 
 378 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -2353,7 +2353,7 @@ In certain cases anadhyāya lasts only for a portion of the day. When the wind b
 
 398 
 
-History of Dharmaśāstra 
+
 
 | Ch. Vif 
 
@@ -2479,7 +2479,7 @@ There is great divergence of views about the starting point from which 16 years 
 
 404 
 
-History of Dharmaśāstra 
+
 
 ( Ch. VII 
 
@@ -2517,7 +2517,7 @@ Snāna or Samāvartana :-( Taking the ceremonial bath after finishing Vedic stud
 
 दे तहि समावर्तनं विवाहाईस्नानसंस्कारंवत्यति। ...... अथवा यमनियमत्यागाभिमा FHTETTHI Àu. On AB III. 4.406 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -2557,7 +2557,7 @@ The as quoted in Farfar. I. p. 66 is tho same.
 
 408 
 
-History of Dharmaśāstra 
+
 
 ( Ch. VII 
 
@@ -2591,7 +2591,7 @@ should prepare them only for the teacher. He should prooure & fuel-stick from th
 
 410 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 
@@ -2619,7 +2619,7 @@ Numerous rules are laid down in the smrtis and digests about anatakas (@natakadh
 
 412 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VII 
 

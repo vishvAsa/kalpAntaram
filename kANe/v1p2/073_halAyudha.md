@@ -41,7 +41,7 @@ The name Halāyudha (an epithet of Balarāma, the brother of Krsna ) was a commo
 
 624 
 
-History of Dharmaśāstra 
+
 
 The first Halayudha is the author of Kavirahasya, edited by Souriudramohan Tagore in 1879 ( with an Introduction in English ) and by Heller in 1900. This contains only 271 verses. It illustrates the several forms of Sanskrit roots in several conjugations and connects all verses with Krsna, a Rāstrakūta king of the Deccan (Daksimāpatha ). This was most probably Rāstra kūṭa emperor Krsna whose dates range from 940 A. D. to 959 A. D. (vide JBBRAS, Vol. 18 p. 239, I. A. Vol. XI 1. 109 and Dr. R. G. Bhandarkar's Report, 1883-4 pp. 89). In another work called Mitasanjivanī attributed to him (which is a commentary on Pirgala's Chandalısıtra ) there is an illustrative verse praising Muñja alias Vākpatirāja. Muñja was killed between 994-997 A D. by Tailapa. Therefore, this author flourished in the latter half of the 10th century A. D. Vide Cat, of mss. in the Bombay Asi atic Society's library by Prof. H. D. Velankar (1926) Vol. 1 part 2. It begins with the famous verse' *HTKRAFT®'. He has little to do with Dharmaśāstra. 
 
@@ -123,7 +123,7 @@ g711!.
 
 628 
 
-History of Dharmaśāstra 
+
 
 view. The present author thinks that it is a work of Halā yudha. The work relies principally on the Tantravārtika and Slokavārtika of Kumārila and on the Sāstradīpikā and deals with the first three udhyāyas of Pūrvamīmāṁsāsūtra and is a good handbook for beginners. It mentions Upavarsa (vol. 17 p. 233 ); Bhārata (vol. 17 p. 301 ); Mandana (vol. 17 p. 289); and Nyayaratnākara (in vol. 17 p. 231 ). For Pandita-sar vasva, vide Triennial Cat, of Govt. Or. Mss. Library, Madras No. 3458 pp. 5165-66, which deals with several matters such as varðas, āśramas, tithis, marriages, gifts, priyaścitta, pra tisthā &c. 
 
@@ -223,7 +223,7 @@ Kielhorn concluded that the Sena era began in Sake 1041 i. e. 1119 A. D. ( vide 
 
 632 
 
-History of Dharmaśāstra 
+
 
 who visited Bodh Gaya in 1235 A. D. ), Dr. Roerich published an English translation of the Tibetan mouk's life with the Tibetan text and an Introduction (in 1959). Dr. Roerich states (p. XIV of Intro.) that among the kings the pilgrim visited is Buddhasena, described as king of Magadha residing at Vajrāsana or Bodh Gaya. He met the king in 1234 A. D. There are some inscriptions of the ruler of Bodh Gaya that use the La. Sam. There is an inscription of Jayasena, son of Buddhasena. The Janibigha inscription of Jayasena is dated in Laksmanasena's 'Atītarājye La. Saṁ. 83'. Vide JBORS vol. IV pp. 266-272 and JBORS vol. V pp. 273-280 ( Panday). If we take 1118-9 A. D. as the initial year of La. Sam. then the meeting with Jayasena should have taken place about 1201-2 A. D. That is impossible on the evidence of the Tibe tan hermit who met the father Buddha sena in 1234 A. D. So this makes 1118-9 A. D. as the initial date of La. Sam. un tenable. Vide Dr. Roerich's Introduction pp. 13-18 for further details. Dr. D. C. Sircar (in I. H. Q. vol. 34 pp. 21 28 ) also refers to the Tibetan pilgrim's life and holds (on the whole evidence) that the La. Sam was originally counted from the date of the accession of king Laksmanasena of Bengal and Bihar about 1179 A, D., although its starting point was later supposed to be some date between 1106-1119 A., D. through confusion. Dr. B. P. Sinha (in JBRS Vol. 42 pp. 76 81 ) points out that La. Sam. is found in Mithilā Mss. only one hundred years after Laksmanasena's death. Reference may be made to two recent papers submitted to the Indian History Congress at Poona in 1963 ( vide Proceedings, pub. in Calcutta 1964 ) viz by Prof. Radhakrishna Choudhary pp. 93-99 and by Prof. Sukhamaya Upadhyaya pp. 196-202, which latter holds that the initial year of the La. Sam varied between 1080 and 1129 A. D. 
 
@@ -255,7 +255,7 @@ H. D.--80
 
 634 
 
-History of Dharmaśāstra 
+
 
 meaning dispute' and it is also emphasised that seeing a matter is superior to hearing evidence about it. In the same Upanisad (VI. 1. 7) it is said that these prānas ( speech and others having a dispute as to who among them was superior approached-Brahman &c. Therefore the word 'vivāda is ancient enough. The word 'vyavahāra’ was certainly known before Pāṇini ( 11. 3. 57 ) in the sense of 'transactions of sale and purchase and the like'. Ap. Dh, S. II. 11. 28, Manu VIII. 8, Yāj. II. 12 and 81 employ the word Vivāda. Gaut. Dh. S. XI. 19. employs the word Vyvavahāra in the sense of ineans of settling or deciding disputes'. Vas. Dh, S. 16. 1-3 (Atha vyavahārāh i Rājā Mantrī vā sadaḥ-kāryāni kuryāt dvayor vivadamānayoḥ pakṣāntaram na gacchet 1 ). Manu VIII. I, Yāj. I. 327, 360 and II. I employ the word (in the plural ) and the sense appears to be the complaints or suits brought by the subjects before the king or the court of justice and Manu VIII. 2, 8-9 indicate that the word 'kāryāni' is used by it in the same sense as Vyavabārān. There are 18 titles (called vyavahārajiadas or vivāda padas ) under which all legal proceedings before the king or the court of justice are classified in Manu VIII. 4. 7 and Yāj. It appears to the present writer that the words .vivāda' and 'vyavahāra' were often regarded even by early writers as synonymous. For example, in Yāj. II. 18 ( sapanaś-ced-vivādah syāt ) it is provided that, if a dispute is brought ( before the king or court ) with a bet, then the losing party should be made to pay a fine and also the amount of the bet to the king and the successful party should be awarded the property (or amount in dispute ). The Mit. on Yāj. II, 18 ( Sapayas-ced vivādaḥ gyāt ) paraphrases the word 'vivādah' as 'vyavahārah'. It should be noted that Yāj. II. 4 and 305, contain the same clause viz. 'vivādād-dvigunam damam'. Yāj. II. 4 prescribes that where the members of the court ( sabbyah) render a deci Bion opposed to the dicta of Smṛtis, each of them should be made to pay a fine double of what would have been payable by the party defeated in the litigation. Yāj. II. 305 refers to cases, where, after a matter is decided by a court, a review of judgment is sought and the decision is set aside on the ground of miscarriage of justice due to the sabhyas having given a decision opposed to the rules of the smrtis or owing to their being influenced partiality or by bribery and the like. It should be noted that as early as the Amarakośa ( not later 
 

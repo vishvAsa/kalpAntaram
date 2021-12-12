@@ -31,7 +31,7 @@ ET अजनयरपुरा। कालाहचः समभवग्यज
 
 464 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -77,7 +77,7 @@ The Maitri Upanisad 658 has a long but somewhat rambling disquisition on time ( 
 
 466 
 
-History of Dharmaśāstra 
+
 
 (Soc. II, Ch. XIV 
 
@@ -141,7 +141,7 @@ The Nyāyamañjart 666 of Jayantabhatta (K. S. S. 1936 ) has a long discussion o
 
 470 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -169,7 +169,7 @@ Yogins who know (the real nature of ) time. For, two ksanas cannot exist togethe
 
 472 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -201,7 +201,7 @@ Some of the Purāṇas contain disquisitions on Kāla. The nature of Time is des
 
 474 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -253,7 +253,7 @@ Veiluten tve, HTETT, verses 1, 3, 32.
 
 476 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -283,7 +283,7 @@ F 4 97; anguaTIC).
 
 478 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -315,7 +315,7 @@ IT
 
 480 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -345,7 +345,7 @@ A. D, 61
 
 482 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 
@@ -371,7 +371,7 @@ There are controversies about the relation of astronomy and astrology. The marve
 
 484 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XIV 
 

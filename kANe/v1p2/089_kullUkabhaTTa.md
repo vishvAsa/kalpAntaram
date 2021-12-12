@@ -47,7 +47,7 @@ Jul 2011)
 
 758 
 
-History of Dharmaśāstra 
+
 
 Pandits. On Manu VI. 14 he mentions the names of certain vegetables that were current in Malwa and among the Vahikas. 1132 
 

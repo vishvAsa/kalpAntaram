@@ -131,7 +131,7 @@ FOUNDED
 
 814 
 
-History of Dharmaśāstra 
+
 
 highest fines; rates of interest; pledges ; adverse possession does not affect a pledge, boundary, minor's estate, deposit, king's estate etc. ; rule of domnupat; sureties; what debts of the father the son was not liable to pay ; fraud and force viti ated all transactions ; sale by one not the owner ; title and possession ; partnership; resumption of gift; non-payment of wages; violation of conventions ; rescission of sale; dispute between owner and herdsman ; pastures round villages ; boun dary disputes ; abuse, libel and slander; assault and battery and mischief; whipping only on the back; theft ; sāhasa i. e. offences in which force and hurt are an element, such as rob. bery, homicide etc.; right of private defence; when even a Brāh mana may be killed ; adultery and rape; no sentence of death, but of transportation for a brahmana ; parents, wife, children must not be forsaken ; tolls and monopolies ; seven kinds of dāsas ; (IX ) legal duties of husband and wife; censure of women ; eulogy of chastity ; to whom does the child belong, to the begetter or to him on whose wife it is begotten; niyoga described and condemned ; supersession of the first wife when allowed ; age of marriage; partition, its time, eldest son's spe cial share; putrikā ; daughter's son; adopted son; rights of brāhmana's son from a sūdra wife; twelve kinds of sonship; to whom piṇṇas are offered ; nearest sapiṇda succeeds; saku lya, teacher and pupils as heirs ; king ultimate heir except as to brāhmana's wealth ; varieties of stridhana ; succession to stridhana: grounds of exclusion from inheritance; property not liable to partition ; gains of learning; re-union ; mother and grandmother as heirs ; iinpartible property ; gambling and prize-fighting must be suppressed by the king; the five great sins ; prāyaścittus for them; open and secret thieves ; jails i the seven angas of a kingdom; duties of Vaiśya and Sūdra; (X) Brāhmaṇa alone to teach ; mixed castes; mlecchas, Kāmbojas, Yavanas, Śakas; rules of conduct common to all; privileges and duties of the four varnis; modes of subsistence for a brāb mana in adversity; what articles should not be sold by brāh mana ; seven proper modes of acquisition and the means of live lihood; (XI) eulogy of gifts ; different views about prāyaści tta ; various seen results, diseases and bodily defects due to sins in former lives; five mortal sins and prāyaścittas por them; upapātakas and prayascittas for them; prāyaseittas like Sānta pana, Parāka, Candrāyana ; holy mantras for remo ving sin; (XII) disquisition on karma; kṣetrajña, bhūtālija 
 
@@ -153,7 +153,7 @@ The extent of the literature known to Manu was con siderable. He mentions the th
 
 316 
 
-History of Dharmaśāstra 
+
 
 and Dhyāna (contemplation) i. e. one-pointedness of the apprehension of the object contempluted upon. Vide H. of Dh. Vol. V. pp. 1444-49 for explanation of Pratyābāra, Dbā ranā, Dhyāna. The word Dhyānayoga occurs in Manu VI. 73 and 79 and it is stated that by dhyānayoga, one realizes brahman. The words 'Dhyānayoga,' 'Dhāraḥā' and others occur in some of the Upanisads as illustrated in the note325 below. The Yogasūtra is not later than the 2nd or 3rd century A. D. ; vide H. of Dh. vol. V, pp. 1395-98, but the Upaniṣads had developed much of the yoga technique centuries before the Yogasūtras and the Manusmrti is based on the Upaniṣads and not on the Yogasūtra. 
 
@@ -195,7 +195,7 @@ POON
 
 318 
 
-History of Dharmaśāstra 
+
 
 māṇda II. 36. 3-5 name twelve Manus. Vāyu ( 100.53 ) derive the word Maru as 'Mananan-mānanāc-caiva tasmāt te Manavaḥ smṛtāḥ'. It is interesting to note that Kumārila (650-700 A.D.) asserts that there are 14 Manus.326 
 
@@ -255,7 +255,7 @@ FOU
 
 320 
 
-History of Dharmaśāstra 
+
 
 the usages of the country and that if the king decides causes by his fiat when there is in existence a Sūstric text, it leads him away from heaveu, it brings danger to him from enemies and reduces the span of his life. Manu (VII. 13 ) laid down that since the ruler has in him the glory of eight deities (Indra, Vāyu, the Sun, Yama, Agni, Varuna, the Moon and Kubera ) whatever rules as regards desirable matters he (the king) established, whatever rules he makes about undesirable actions should not be transgressed by the people. Medha tithi and other commentators expressly state that the ruler could not inake a rule opposed to the Sāstras and the long standing usages of the people. Therefore, changes in the practices of the people could be provided only by resorting to such devices as the Kalivarjya topics (indicated in H. of Dh. III. pp. 885–968 ) or by composing fresh sastras acceptable to the learned and the leaders of people or by saying that in the four different yugas four different smrtis were predominant as stated in Parāśara-smrti (I. 24). Manu (IV. 176 ) says 'One381 should abandon what was once) Dharma, if it ends in unha ppiness or it has become hateful to the people' and Yāj. (I. 156 ) also remarks 'what was once ) allowed to be Dharma should not be practised, if people have come to hate it and it does not lead to Heaven.' The Viṣnu-Purina (III. 11. 7 says the same thing. It is very rare to find one Smrtikāra expressly stating that he dissents from the views of other named smrtikāras. Yaj. (I. 56 ) remarks 'what is said (by some) that persons of the twice-born classes can marry a sūdra woman is not my view,' Manu (in III. 13) allows a brāhmana to marry a sudra woman, but in the following ver ses (III. 14–19) he severely condemns such marriages. That means he condemned the practices of a former age. Similarly, the practice of niyoga ( appointment of a brother-in law to procreate a son on the widow of a sonless person ) was set out at some length by Manu in IX. 53-62, but immediately 
 
@@ -285,7 +285,7 @@ Confusion is caused by the fact that ancient texts refer to Svayambhuva Manu, Pr
 
 vorge322 
 
-History of Dharmaśāstra 
+
 
 TV 
 
@@ -315,7 +315,7 @@ E. W. Hopkins, in his paper on · Professed quotations from Manu found in the Ma
 
 324 
 
-History of Dharmaśāstra 
+
 
 Hopkins is obsessed by the occurrence of words like Manura bravit' in the Manusmṛti and asks “if Manu says all, why emphasize a few ? According to my theory these Manu verses found in the Manu treatise were simply caught up and drawn from the hearsay of the whole Brahmana worlds. Doctrines utterly at variance with the Mānava treatise are palmed off upon us with “Manu said " doctrines". It has been shown above that there are less than two dozen Manu said '(to use Hopkin's phrase ) verses in about 2700 verses of the extant Manu and most of them do not at all teach doctri nes at variance with the Mānava treatise. This is a specimen of what some Western Scholars on account of preconceived base less notions write about Indian works and Indian people. On p. 270 he winds up his diatribe in the following words 'in my opinion the devotees of the legal Sāstra were more knaves than fools.' There is no need to criticize these baseless and purely subjective remarks and wild theories about thousands of floating Sanskrit verses among people thousands of years ago, their being welded into one śāstra and new customs star ted on the basis of these verses by a sect like the Mānavas. Apart from the Manusmrti (in which phrases like 'Manur abravit occur a number of times ) such references do not occur at all in Yāj., there are only a few places in Nārada where such phrases occur and in other early smṛtis also there are only a few such references. Some later smṛtis do mention Manu in some cases. The reason is obvious. Manu was famed as the great law-giver of ancient times. Some practices and rules had changed in the course of centuries. Later writers wanted changes according to their lights to be recognised, but, if they bad stated them in their own names, little weight would have been attached to them, therefore they probably hit upon the plan of saying in some cases that the view propounded by them had the authority of Manu. Hammurabi professed to have received laws from the Sun. Prophets of several religions profess that what they say is inspired by God Himself. Luther, who rebelled against the authority of the Pope, denou nced Copernicus as a fool and relied upon the Bible for prov ing that it was the Sun that had motion and not the earth. One should like to know whether Hopkins would have been jyrepared to dub as knaves ancient prophets who claimed to have received directly from God what they preached. top kins (in JRAS Vol. XI. pp. 243–246 ) collects some impreca 
 
@@ -377,7 +377,7 @@ FOUNDE
 
 828 
 
-History of Dharmaśāstra 
+
 
 ma. The Mrechakatika (9. 39 )330 refers to the ordinance of Manu that a Brāhmana sinner was not to be sentenced to death, but was to be banished. An inscription of the Valabhi king Dharasena dated in the year 252 of the Valabhi era (i. e. 571 A. D. ) speaks of a king as one who obeyed340 the rules composed by Mauu (I. A. vol. 8 p. 303, Gupta Inscriptions p. 165 ). Vide also I. A. vol. IV. p. 105 where the same words occur in an inscription from Valabhi dated 216 of the Valabhi era (i. e. 535 A. D.). Sabarasvāmin, the bhāsyakāra of Jaimi. ni's sutras, who cannot be placed later than 500 A. D. and may be a few centuries earlier still, says “Manu and others have given instruction " 341 and quotes a verse as a smrti passage which is practically the same as Manu VIII. 416 and similar to Udyoga-parva34a 33. 64. Aparārka and Kullūka point out how the Bhavisyapurāna expounds passages of the Manusmrti (vide Kullūka on Manu XI. 72, 73, 100 and Aparārka pp. 1071, 1076).343 It will be shown below that Brhaspati must have composed his work before 500 A. D. Brhaspati says that the Manusmrti occupies a pre-eminent position because it correc tly represents the sense of the Veda and that a smrti which is in conflict with Manu is not esteemed.344 Brhaspati in nume 
 
@@ -437,7 +437,7 @@ FOURDEO
 
 330 
 
-History of Dharmaśāstra 
+
 
 another place Brhagpati says “Burgu spoke of sale without ownership after deposit; listen to it attentively, I shall speak of it with more details".340_This keeps in view Manu VIII. 4 and clearly shows that Brhaspati was well aware of Bhrgu's connection with the extant Mapusmrti. Angiras as quoted in the Smṛticandrikā (I. p. 7) speaks of the dharmaśāstra of Manu. In the Vajrasāci of Asvaghosa (ed. by Weber ) several verges are quoted as from the Mānavadharma' which occur in the extant Manusmrti,850 though it must be admitted that there are others that do not occur. In the Rāmāyana also there are verses cited as from Manu which occur in the extant Manusmrti; vide Kiskindha 18. 30-32 ( Gujarati Press, 1915 1920), where two verses are quoted as 'sung by Manu' which correspond to Manusmrti VIII. 318 and 316 respectively. 
 
@@ -473,7 +473,7 @@ FOUNDED
 
 1917332 
 
-History of Dharmaśāstra 
+
 
 one may not agree with all the details of Bühler's examina tion and with his theory about the versification of the Mānava. dharmasūtra, it may be admitted that most of the passages pointed out by him have rather the flavour of comparative modernity about them. My own position is that the original Manusmrti in verse had certain additions made in order to bring it in a line with the change in the general attitude of people on several points such as those of flesh-eating, niyoga &c. But all these additions must have been made long before the 3rd century A. D. as the quotations from Brhaspati and others show. 
 
@@ -501,7 +501,7 @@ Another problem is whether the Manusmrti has under gone several recasts. This do
 
 334 
 
-History of Dharmaśāstra 
+
 
 wealth while Manu is silent on that point.369 The Mit. on Yaj. II. 135-136 and Madhava (in Parāsuramadhaviya ) quote a verse and a half from Brhan-Manu, which are expansions of Manu (V. 60 ).353 The fact that many quotations ascribed to Manu in several works are not found in the extant Manu smrti is explicable in several ways and not only by the theory of several recasts. For one thing the authors quoting from memory may be found tripping. For example, in an inscrip tion of the Badami Cālukyas of the 7th century two verses that occur in most grants of lands are ascribed to Manu, but are not found in the extant Manusmști.354 No one can for a moment doubt that the extant Manusmrti was an authorita tive work in the 7th century. Therefore, there is hardly any reliable evidence to support the theory that the Mauusmrti suffered several recasts. 
 
@@ -539,7 +539,7 @@ HIGHỆ XII, 100. ; B. . L 7.3 vā 4 : 44 4G HIỆUII: 1L
 
 836 
 
-History of Dharmaśāstra 
+
 
 connected with but not identical with the present Manusmrti. Bühler expresses himself very cautiously and it seems to me that the great scholar was unduly prepossessed in favour of the Mahābhārata as against the Manusmrti. Bühler some what contradicts himself when he says that the author of the epic only knew the dharmasūtras (SBE vol. 25, p. XCVIII). Hopkins ( Great Epic of India p. 21-22 ) seems inclined to hold that the 13th book which alone, according to him, reco gnises the sāstra declared by Manu, knew the present Manu smrti, though the earlier books cannot be held to have known a sāstra of Manu even when they employ such expressions as “Manu said." He thinks that there was a floating mass of verses containing philosophical and other lore attributed to the mythical Manu on which the earlier books of the Mahābhārata and the Manusmrti both drew and that the matter that is common to both works was not borrowed from any systematic treatise. Bühler accepts this view with the slight modification that the floating mass of verses was not all attributed to Manu ( S B E vol. 25 p. XC). Before giving my individual views on this vexed question as against the array of such eminent scholars as Bühler and Hopkins some facts must be clearly set forth. The Mahābhārata is nowhere men tioned by name in the Manusmrti, though the word "itihāsa" (in the plural ) occurs in Manu (III. 232 ). The Manusmrti mentions many historical and legendary personages, about most of whom the Mahābhārata contains similar stories. The following are the persons so mentioned in the Manus Angirasa (in II. 151–152, addressing his elders as 'putrakāḥ'); Agastya (V. 22, in connection with sacrificing animals); Vena, Nahusa, Sudās Paijavana and Nimi (all in VII. 41 ); coming to grief through insolence ); Pșthu, Manu, Kubera and the son of Gādhi (VII. 42), benefiting by their good conduct ); Vasistha (in VIII. 110, taking an oath before king Paijavana ), Vatsa (in VIII. 116, undergoing fire ordeal ); Akṣamālā and Sārangi (in IX. 23, though of low birth, respectively were united to Vasistha and Mandapāla ); Daksa (in IX. 128-129 ) gave his daughters to Dharma, Kāśyapa and Soma ); Ajigarta (in X, 105, who was ready to sacrifice his own son ); Vāmadeva (in X, 106, desired dog's flesh to save his life ); Bharadvāja (in X. 107, who accepted the gift of mans cows ); Viśvāmitra (in X. 108, who took from a Candāla's hand a dog's tes Pșthu is also mentioned (in IX. 44 ) as the husband of the earth and in IX. 314 Brāhmanas are credited with HD rips 
 
@@ -565,7 +565,7 @@ y
 
 338 
 
-History of Dharmaśāstra 
+
 
 ___ We must now closely examine the data. The Anusāsana parva distinctly speaks of 'a sistra declared by Manu'.358 In the Sāntiparva are quoted two ślokas sung by Manu in his own dharmas,' one of which is identical with Manu369 (9. 321 ). In another place the Sāntiparva speaks of the 'rājadharmas of Pracetasa Manu 'and quotes two verses therefrom.360 In the Dronaparva (7.1) Mānari arthavidyā' is referred to and in Vanaparva the rājadharmas as proclaimed by Manu are referred to ( Vanaparva 35. 2. 21 ). In other places, the words Manu Svāyambhuva said' occur (e. g. Santi 21. 12, Anushsana 114. 12, Vanaparva 180. 34-35, Adiparva 73. 9, 110. 32-36, Udyoga 37. 1-6). In most cases the words 'Manu said’occur without the appellation 
 
@@ -635,7 +635,7 @@ subjects are not guarded by the king, he shares in the 4th part of whatever sins
 
 340 
 
-History of Dharmaśāstra 
+
 
 occur also in Santi 72. 6, 10,11 first half ), also Manu VIII. 37, IX. 317, 319, X. 3. Further, there was the tradition of the Mahābhārata war that after Bhīṣma was mortally wounded, Drona, a brāhmana teacher, was made commander-in-chief of the Kaurava army. The Drona parva expressly refers to the ceremony of abhiselca in the case of Drona as commander-in chief. Although, the Ap. Dh. S. (I. 10. 29. 7) states that a brāhmana should not take in his hand a weapon even for test ing it, that was an extreme view ; other Dharmasūtras (like Gautama VII.25, Baud. II.2.80, Vasistha III. 24 ) allowed a brāhmana to use arms in danger to life, for protecting cows and brāhmanas &c. We learn from Pānini (V. 2. 71 ) that there were before his time brāhmanas as professional soldiers and he teaches that the word "brāhmanaka' means a country in which brāhmanas follow the profession of arms. Kautilya (in A. IX. 2. 21-24 ) refers to armies of Brāhmanas, Ksatriyas, Vaisyas and Sūdras. Therefore, Jayaswal's remarks on Manu XII. 100 are worthless for settling the date of the Manusmrti. Jayaswal's 'Manu and Yājsavalkya' is full of information, but it is sometimes marred by specious assumptions about ancient times for which there is hardly any solid basis. It would be impossible to deal with many such matters here for want of space. One matter, however, may be briefly men tioned here. Ou p. 288 of that work he propounds the somewhat startling proposition that Manu VIII. 169 shows that professional lawyers were already in existence in the time of the Māuava Code'. The verse is quoted below. It literally means 'three persons have to undergo trouble (in litigation ) for others viz. witnesses, sureties, kula (family members ); while four persons prosper or benefit (in litiga tion ) viz. the brābmana, the rich (i.e. the creditor who supplies money to the litigants ), the trader and the king. No word in this verse can mean a lawyer by itself. Vipra ordinarily means brāhmaṇa. Gaut. Dh. S. 13. 26, Manu VIII. 9 and Yāj. 11.3 expressly provide that when the king cannot himself look into the causes of his subjects, he may appoint as judge & brāhmaṇa learned in the Dharmaśāstra, along with sabhyas. The Mit. quotes Katyayana to the effect that if a brāhmaṇa learned in the Dharmaśāstras cannot be found then & Ksat. riya or Vaisya learned in Dharmaśāstras may be appointeca So the general rule was that a brāhmana was to be the presiding judge. He benefitted by litigation in the sense that he was paid his salury whatever the result of the litigation 
 
@@ -645,7 +645,7 @@ occur also in Santi 72. 6, 10,11 first half ), also Manu VIII. 37, IX. 317, 319,
 
 might be. The king benefitted by the receipt of the fines paid by the losing parties in litigations. The commentators do not say a word about a class of lawyers helping litigants for fees. Sarvajña Nārāyana and Ramacandra paraphrase "vipra' as prādvivāku; Kullūka und Govindarāja simply paraphrase 'vipra' as brāhmana. Medhātithi's' text as printed is not clear, yet he commented that this verse has to be connected with the preceding verse that condemns the use of force and that'vipru' should not be forced to accept a gift. So it is clear, that Manu and his commentators do not speak of a pro. fession of lawyers at all. Jayaswal refers to the Burmese code as giving a scale of fees (p. 288 n. 3). That may have been the law in ancient Burma and the Burmese might have grafted it on Manu, when they adopted Manu. He should have inentioned, if he wanted to place the matter on a sound footing, a Sanskrit Smrti setting out a scale of fees for law. yers. Hopkins says that the words 'the sāstra of Manu' occur only in the Anusasana-parva and so only that parvan knew the Manusmști, while in the other parvuna we have the expression · Manu said,' and therefore these other books did not know the Manusmrti but are only referring to floating verses attributed to the mythical Manu. This, however, is not a reasonable conclusion. The words 'shstra of Manu' occur only once even in the Anusūsana while in about ten places in the same parvien we come across only the words 'Manu said.' If the words · Manu said' in the Anusagana indicate in the Anusāoana a reference to the extant Manusmrti, there is no cogent reason why the same words in other parvans should not be regarded as referring to the Manusinfti. Besides, in the Sāntiparva also we meet with the words 'Dharmar or raja. dharmas of Manu' and in Adiparva the word 'dharma-darsane' ( 120. 32 ). There are some important references to Prācetasa Manu in the Mahābhārata, though in the Manusmrti no text or view is ascribed to him. The Sāntiparva (in chap. 58. 1-3 ) names seven propounders of Rajadharma viz. Brhagpati, Visālāksa, Kāvya (Usanas ), Sahasrāksa, Mahendra, Prācetasa Manu, Bhāradvāja and Gauraśiras, all of whom speak highly of protection (of subjects ) as, the (one) Dharma for kings. The great epic quotes the views of Pracetasa Manu in Santi ( 57.44-45 ) that Prācetas Manu set forth two verses in his work on Rajadharmas.) A reference to Pracetasn's dictumn in Anusisana 46. 1-2 to the842 
 
-History of Dharmaśāstra 
+
 
 effect that what the relations of a girl receive from the bride groom's side is not a sale but that it is really meant as honour to the girl and as to be paid over to the girl. This is almost the same as Manu III. 54. In Vana parva 35. 21 we have the words . you have heard the Rājadharmas that were declared by Manu.' This Manu must be Prācetasa since in Santi 58. 1-3 Prācetasa Manu is said to have been one of the expounders of Rūjaśāstra. 
 
@@ -673,7 +673,7 @@ Hastisūtra, and Asvasūtra are mentioned in Sabhū 5. 20, but no Dharmasūtra o
 
 344 
 
-History of Dharmaśāstra 
+
 
 least, gratuitous and are prompted by his unwillingness to assign an early date to a versified smrti of Manu. Not only are there identical verses in Manu and the Mahābhārata, but some verses of the latter (e. g. Udyoga 35. 31 and Sānti 111. 66 ) occur in the Nāradasmrti (pp. 103 and 26 respecti vely ). In my humble opinion the following seems to be the relation of the Mahābhārata and the Manusmrti. I must state frankly that it is a mere theory, a conjecture which may be taken for what it is worth. Long before the 4th century B. C., there was a work on Dharmaśāstra composed by or attributed to Svāyambhuva Manu. This work was most probably in verse. There was also another work on Raja dharma attributed to Prācetasa Manu, which also was prior to the 4th century B. C. It is not unlikely that instead of there being two works there was one comprehensive work embody ing rules on dharma as well as on politics. There is one circumstance that points in this direction. The Mahābhārata quotes a saying (vacana ) of Pracetasa which is almost the same as our Manu 364 ( 3. 54 ). It is to these ( works or work) that Yāska, Gautama, Baudhāyana, and Kautilya refer whenever they cite the opinions of Manu or the Mānavas. The Mahābhārata also (particularly in the earlier portions ) probably refers to the same. This work was the original kernel of the present Manusmrti. Then between 2nd century 
 
@@ -709,7 +709,7 @@ KUNDE 1917
 
 346 
 
-History of Dharmaśāstra 
+
 
 with Manu (II. 136 ) and the other is a summary of Madu (III. 77-80). The Burmese are governed in modern times by the chanmathat, which are based on Manu. Vide Dr. For chhammer's essay on the sources and development of Burmese Law (1885, Rangoon). Dr. E. C. G. Jonker ( Leyden 1885) wrote a dissertation on an old Javanese law book compared with Indian sources of law like the Manusmrti ( which is still used as a law book in the island of Bali). 
 

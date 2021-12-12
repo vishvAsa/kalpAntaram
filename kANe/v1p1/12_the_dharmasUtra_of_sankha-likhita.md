@@ -112,7 +112,7 @@ A
 
 19142 
 
-History of Dharmaśāstra 
+
 
 : 
 

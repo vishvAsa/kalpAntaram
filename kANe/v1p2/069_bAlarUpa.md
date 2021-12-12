@@ -35,6 +35,6 @@ gta ATSET: I aql farthio P. 153. 813 HELICHTIRTAQ 17€7: 1 foarte THIÊT p. 152
 
 598 
 
-History of Dharmaśāstra 
+
 
 ancient writer, who flourished certainly before 1100 A. D. As he held the same views as Śrīkara's and an antiquated view about the rights of the daughter's son he must not be later than 1050 A. D. 

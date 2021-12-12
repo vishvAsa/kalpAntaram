@@ -21,7 +21,7 @@ in the preceding line, H. D.-93
 
 738 
 
-History of Dharmaśāstra 
+
 
 The Smsticandrika is a very extensive digest. It is almost the earliest (except the Kalpataru ) among digests on dharmaśāstra of which mss. have yet been discovered. The printed text deals with the topics (kāndas ) of Samskara, Ahnika, Vyavahāra, Srāddha, Asauca. It appears that he worte on prāyaścitta also. In the colophons of mss. of the work the name of the author is variously written as Devansa, Devana, Devananda or Devagaña (vide 1. O. Cat. pp. 405-406 ). He is also described therein as the son of Keśavadityabhatta and as a Somayāji. 
 
@@ -55,7 +55,7 @@ Vide I. L. R. 3 Mad, 265, 269 ( barren daughter not excluded by a daughter havin
 
 740 
 
-History of Dharmaśāstra 
+
 
 The Smsticandrikā refers to Vijñāneśvara with great respect.1071 Yet there are several interesting points on which the Smsticandrika differs from the Mitākṣarā. The Smsticandrika questions ( vide note 825 above) the statement of the Mit. that unequal distribu tion by the father of ancestral property among his sons should not be resorted to, as it has come to be abhorred by the people. The Smsticandrikā does not approve of the definition of daya given by the Mit.1072 The Smxticandrika does not accept Vijnanesvara's explanation of the word 'apratisthitā' occurring in the sūtra of Gautama, but upholds Apararka's explanation of it (vide note 1031 above). The Smrticandrika favours the theory of spiritual benefit in matters of succession and therefore among daughters prefers one that has sons over another daughter who is sonless.1078 It criticizes the reasons advanced by the Mit. for preferring the mother over the father as an heir to their deceased son and says that both parents succeed together.1074 Though the Smsticandrika in this way in some cases criticizes the Mit., it generally follows its lead. It holds, just as the Mit. does, that sons acquire by birth ownership in ancestral property. The author asserts that he puts forward no imaginary views but only such views as are based on (authoritative) texts.1075 
 

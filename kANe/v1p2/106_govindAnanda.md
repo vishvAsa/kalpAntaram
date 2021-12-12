@@ -33,7 +33,7 @@ IT
 
 884 
 
-History of Dharmaśāstra 
+
 
 TTT 
 
@@ -61,7 +61,7 @@ follows : nataratani ni ahat I THI XXX 1567 H ATTI सर्वान्तर�
 
 886 
 
-History of Dharmaśāstra 
+
 
 above prācāmasammatam ). “Prācām' may also mean eastern but that meaning would not be proper here, since Aniruddha, Śūlapāṇi and Govindananda are all men from Bengal. It men tions the Śrāddhacintāmapi of Vacaspati sixteen times and often says that its opinion deserves to be rejected (heyam or apāstam ) as on p. 354 or is stupid (mandam) as on pp. 185, 280, 296, 319. 
 
@@ -101,7 +101,7 @@ va: 1The ms. ends ; filsafat ISTIT fa fāfa or PCT क्रियाकौम�
 
 888 
 
-History of Dharmaśāstra 
+
 
 details in each case and holds (pp. 99-101) that the Kriya kaumudi (m. in Sraddbakriyakaumudi p. 559) is his (Govindā nanda's ) work. 
 
@@ -135,4 +135,4 @@ topic he sets out in another work of his. 1340 अत एव विष्णु�
 
 890 
 
-History of Dharmaśāstra 
+

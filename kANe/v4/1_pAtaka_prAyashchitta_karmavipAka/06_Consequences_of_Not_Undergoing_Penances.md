@@ -49,7 +49,7 @@ Idea of Hell in Vedic Literature deep pit bolow the earth to which wicked person
 
 156 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -123,7 +123,7 @@ of gathering called a king and is credited with the task together people (X. 14.
 
 160 
 
-History of Dharmaśāstra 
+
 
 (Pol. the whole extent of the earth. In Tai S IJI. 3 8 3- it is declared 35€ 'Yama is indeed Agni and this (earth and altar) is Yami. When a sacrificer strews Oṣadhiss on the Vedi it is indeed tantamount to taking up a debt from Yama If he (the sacrificer) were to go from this Torld without burning them they (Yama's men) might take him to the next world with fetters round his neck' In Rg & 14, 10385 the pits are said to enjoy delights in the company of Yama In the Ait Br 385.7 (XII. 3) Mrtyu is credited with having fetters (pāsas) and wooden maces (sthānu) for catching erring men It has already been seen how Yama is said to have within his powers again and again foolish men who believe in the existence of this Torld alone and deny the existence of the next Thus, from being a beneficent ruler of the departed souls in the very early Vedic times, Yama came gradually to be looked upon as a dreadful punisher of men 335 The Puradas contain graphic descriptions of Yama's abode and of his assistants, chief among whom is Citragupta For example, the Varāhapurāda 356 chap 205 con tains a dialogue between Yama and Citragupta, in which the latter recommends the fate that a dead person desettes for his actions The Agnipurāpa chap. 371. 12 states that a sinner falls into horrible hells that are declared by Citragupta at the order of Yama, 
 
@@ -157,7 +157,7 @@ H, D, 21
 
 162 
 
-History of Dharmaśāstra 
+
 
 [Vol. pass into all sorts of births and are ruined 389 Āp. Dh, S. holds that a man becomes fit for Naraka if he follows activities solely dictated by sensual pleasures, 390 In another place Ap. Dh S, affirms that Naraka is indeed one's lot when one trans gresses one's dharma. It also states that rewards without end are denominated svai gya. The Vedāntasūtra II 1.13 makos it 391 clear that after enjoying the fruits of one's actions in the abode of Yama (Samyamana) ovil-doers ascend to this mortal world. In Vedāntasūtra III. 1.15 the narakas 392 are said to be seven Panini VL 238 teaches the accent of mahāraurava. In the Kāśikā com on Panini IL 2.88 a vedic verse is oited accor ding to which one who kills his mother enters the 7th na aka. The Vignupurāna I, 6.41 names seven hells, Tāmisra, Andhatā misra, Mahāraurava, Rauraya, Asipatrayana, Kālasūtra and Ayici and (in IT, 6 2-5) names 26 narakas, Saṅkha-Likhita as quoted by the Madanapārijāta pp 694-695 mentions in detail the torments that evil-doers undergo in the he]ls called Kum bhīpāka, Raurava, Mahāraurava &c. Manu IV. 88-90, Yāj. II, 222-224, Visnu Dh, S. 43, 2-22, Agnipurāna 371. 20-22, Nārada (pralirnaka 44) enumerate 21 narakas. The names are almost the same in all these works, the variations being due mostly to the scribes having read certain letters differently. The 21 names are generally significant and may be set out from Manu as follows: Tāmisra (darkness), Andhatāmisra (blinding darkness), Mahāraurava, Raurava (abounding in paths with heated surfaces, according to Pr. V. p. 15), Kālasūtra (like the thread on the wheel with which the potter outs off a ray earthen pot in two), Mahānaraka, Sanjivana (where one is made to revive and is again killed), Mabāvici (where one is submerged in surging waves), Tapana (as burning hot as fire), Sampratāpana (same as Kumbhipāka, according to Pr. V. p. 15), Sanghata (making many stay in a small place like the legendary Black ' 389. वर्णाश्रमा स्वस्वधर्मनिष्ठा प्रेत्य कर्मफलमनुभूय तत शेषेण विशिष्वेशजाति कलरूपायु श्रुतवृचवित्तमखमेधसो जन्म प्रतिपद्यन्ते। विश्वञ्चो विपरीता नश्यन्ति । TT XI. 29–30, 9 by in his 27607 on agz III. 1 8 
 
@@ -189,7 +189,7 @@ OG 29. 4-6,
 
 164 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -225,7 +225,7 @@ _396 पर लोक गोमदास्वाप्नुवन्ति द
 
 166 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -251,7 +251,7 @@ It is not necessary to set out at length the gruesome torments of Hell described
 
 168 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -291,7 +291,7 @@ I..22
 
 170 
 
-History of Dharmaśāstra 
+
 
 (Voli 
 
@@ -363,7 +363,7 @@ p. 861), Yama (g by Pr. M. 09), Saṅkha (q. by the Mitaksarā on Yaj. III. 216 
 
 176 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

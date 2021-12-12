@@ -17,7 +17,7 @@ once in the morning on those days (Ap. Dh. S. II. 1. 1. 4-5, Aøv. g$. I. 10. 2)
 
 820 
 
-History of Dharmaśāstra 
+
 
 I Ch. XXIV 
 
@@ -55,7 +55,7 @@ oribed in greater detail. But for want of space it is not set out here. The Pār
 
 822 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIV 
 
@@ -81,7 +81,7 @@ In certain medieval digests like the Samgkāra-kaustubha (p. 122) a rite called 
 
 824 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXIV 
 
@@ -141,7 +141,7 @@ In most of the grhyasūtras another rite called Agrayana is described immediatel
 
 पपस्पषनयेदाज्यं वत्यूपातकम; vide also गोभिलस्मति (in verse) HI. 106.828 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXIV 
 
@@ -217,7 +217,7 @@ Various explanations are given why this rite was called Salagava. Nārāyaṇals
 
 832 
 
-History of Dharmaśāstra 
+
 
 [Ch. XXIV 
 
@@ -251,7 +251,7 @@ The Asv. gr. II. 7-9, ān. gr. III. 2-4, Pār. gr. III. 4, Ap. gr. 17. 1-13, Kh�
 
 834 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXIV 
 

@@ -201,7 +201,7 @@ Tea Turrera TOTĘ I HRIAT uintagarrari HUTH III. 3. 1459. P ROTETTO: " uzaf i w�
 
 622 
 
-History of Dharmaśāstra 
+
 
 (Ob. XIV 
 

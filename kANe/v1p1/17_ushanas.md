@@ -123,7 +123,7 @@ From quotatious in Haradatta's commentary on Gautama and from the Smrticandrikā
 
 270 
 
-History of Dharmaśāstra 
+
 
 dharma viz. ācāra, vyavahāra and prayascitta. For example, the Smṛticandrikā quotes prose passages of Uśanas on anadhyāya (1, p. 59), on duntadhavana (1. p. 106 ) and Haradatta quotes a prose passage on anadhyāya (on Ap. Dh. S. I. 3. 10. I) and a prose passage on the fine for a Kṣatriya abusing a sūdra (on Gau. Dh. S. 12. 10) and on Niyoga ) on Gau. Dh. S. 18. 5). These passages are not found in the ms. But there are others that are found. For example, the Smṛticandrikā quotes two passages, which occur in the mss.249 It appears therefore that the mss. either contain a portion only of the complete Auśanasa-dharma-sūtra or an independent sūtra work. The former alternative looks more probable. The foregoing discussion has shown that the sutra work is later than the dharmasūtras of Gautaina and Vasistha and also than the Manusmrti, which it probably knew in a very ancient version slightly differing from the extant one. 
 

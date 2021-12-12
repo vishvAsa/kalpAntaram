@@ -17,7 +17,7 @@ AK = Ahalyākāmadhenu (ms). BB = Bhujabalanibandha of Bhoja (ms). BHP = Bhāgav
 
 252 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -55,7 +55,7 @@ The following list of vratas and utsavas does not claim to be thoroughly exhaust
 
 254 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -87,7 +87,7 @@ of the first magnitude). Mat. chap. 61 for Agastyotpatti; Gar. I. 119. 1-6; KV. 
 
 256 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -157,7 +157,7 @@ H. D. 33
 
 258 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XITI 
 
@@ -231,7 +231,7 @@ to a brāhmaṇa intending it for Saṅkara; (2) HV 11. 257
 
 20 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -303,7 +303,7 @@ V
 
 262 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -353,7 +353,7 @@ verse from Vi. Dh.). Avyangasaptami-Śr. śu. 7; tithi; to be performed every ye
 
 264 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -401,7 +401,7 @@ H. D. 34
 
 266 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -445,7 +445,7 @@ day on which there is Pūrvābhādrapada-naksatra performer to bathe in water fr
 
 268 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -511,7 +511,7 @@ times in a Sun temple on Sunday when there is sankrānti and observe nakta; HV I
 
 270 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch XIII 
 
@@ -585,7 +585,7 @@ Full Moon; worship of Aniruddha by day with lotuses and jāti flowers; homa, fas
 
 272 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -655,7 +655,7 @@ A. D. 34
 
 266 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -761,7 +761,7 @@ Sunday, the latter is called Hrdaya or Adityahrdaya.
 
 270 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 
@@ -841,7 +841,7 @@ Full Moon; worship of Aniruddha by day with lotuses and jāti flowers; homa, fas
 
 272 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. XIII 
 
@@ -893,7 +893,7 @@ H. D. 35
 
 274 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -961,7 +961,7 @@ immediately after the Indradhvaja was taken down ( i e. it took place on Bh. śu
 
 276 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1021,7 +1021,7 @@ Mahisāsuramardini with mantra “Mahisaghni Mahāmāye' HV I. 895 ( from Bhav U
 
 278 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1089,7 +1089,7 @@ nine jars filled with scented water and surrounded with garlands; he should take
 
 280 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -1165,7 +1165,7 @@ I
 
 282 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. XIII 
 
@@ -1227,7 +1227,7 @@ Lighting lamps and making illuminations in K. in the temples of Siva; Caṇdi, t
 
 284 
 
-History of Dharmaśāstra 
+
 
 [Sec. I, Ch. XIII 
 
@@ -1261,7 +1261,7 @@ not for those beyond the pale of caste system; fast for 7 or
 
 286 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 
@@ -1317,7 +1317,7 @@ HV I. 1026–27 ( quoting 9 verses from Var., chap. 40 ), KR
 
 288 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1383,7 +1383,7 @@ and Kedāra; AK ( folios 1062b-1067b). AK says it is well known among dākṣin�
 
 290 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1445,7 +1445,7 @@ III. 218. 23-25. Gangāsaptami-on Vai. śu. 7; worship of Ganges; SmK 112
 
 292 
 
-History of Dharmaśāstra 
+
 
 (Sec. .I, CH. XIII 
 
@@ -1537,7 +1537,7 @@ Yugāntya, Şadaśiti-mukha, Uttarayana, Dakṣiṇāyana,
 
 294 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -1601,7 +1601,7 @@ II. 801-813. Gospadatriratra-Vide Gopadatrirātra above.
 
 296 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1681,7 +1681,7 @@ H. D. 38
 
 298 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 
@@ -1757,7 +1757,7 @@ end of Uttarāyaṇa; worship of Sun; Bhav., Brahmaparya 107, 7-25, KKV 431-432.
 
 300 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1817,7 +1817,7 @@ happy; HV I. 792 (from Vi. Db. only a half verse ). Jayanti--Vide p. 132 above a
 
 302 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1897,7 +1897,7 @@ worship of Nṛsimha and homa with mustard every day and dinner consisting of ho
 
 304 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -1957,7 +1957,7 @@ H. D. 39
 
 306 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 
@@ -2025,7 +2025,7 @@ of Uttarāyana on a Sunday in the bright half of a month with 7th and a naksatra
 
 308 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2091,7 +2091,7 @@ nasa-smārta-sūtra III. 10).
 
 310 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2161,7 +2161,7 @@ of golden image of Lalitā-devi with silver images of Moon and Rohiṇi in front
 
 312 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -2217,7 +2217,7 @@ from the flames of lamps.
 
 314 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. XIII 
 
@@ -2275,7 +2275,7 @@ viz. of Siva, Agni, Virūpāksa and Vayu, on four days in order in every month f
 
 316 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XII 
 
@@ -2327,7 +2327,7 @@ H. of Dh., vol. IV p. 533. Dyūtapratipad-on K. śu. 1; vide above 'Balipratipad
 
 318 
 
-History of Dharmaśāstra 
+
 
 (Soc. 1, Ch. XIII 
 
@@ -2381,7 +2381,7 @@ begin on Mārg. śu. 4; for a year; worship of Bhadrā-devi and repeat the mantr
 
 320 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -2449,7 +2449,7 @@ H, D. 41
 
 322 
 
-History of Dharmaśāstra 
+
 
 [Sec. 1, Ch, XIII 
 
@@ -2515,7 +2515,7 @@ of being delivered of a calf; the performer who subsists only on milk that day r
 
 324 
 
-History of Dharmaśāstra 
+
 
 [Sec. I, Ch. XIII 
 
@@ -2561,7 +2561,7 @@ certain things on certain naksatras). A few examples may be given here. VKK 87-8
 
 326 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2613,7 +2613,7 @@ HV II. 527–28 (from Bhav. U.) = KKV 21-23. Nandanavamīvrata-the 9th of Bh, kr
 
 328 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2671,7 +2671,7 @@ naksatras; the naksatra of a man's birth is called Janana naksatra, the 4th, 10t
 
 330 
 
-History of Dharmaśāstra 
+
 
 [ Soc. I, Ch. XIL 
 
@@ -2735,7 +2735,7 @@ under different names, different flowers in each month; Brāhmaṇa maidens to b
 
 332 
 
-History of Dharmaśāstra 
+
 
 (Sec. .I, Ch. XIII 
 
@@ -2775,7 +2775,7 @@ C11
 
 334 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -2821,7 +2821,7 @@ krspa and also pūrva and apara. The general rule is that the śukla paksa is re
 
 336 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2891,7 +2891,7 @@ every day betel leaf with botel-nut and lime to a woman or a man; at year's end 
 
 338 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -2949,7 +2949,7 @@ sacred cord), HV II. 440-453, HK 881-890; Iśānaśivaguru. devapaddhati, 21st p
 
 340 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch, XIII 
 
@@ -3003,7 +3003,7 @@ VKK 483, TT 124 ( from Bhav.). Pithori Amāvāśya-Śr, kr. 30.
 
 342 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3051,7 +3051,7 @@ naksatra is called Putrada; fast on that day; worship of the Sun with flowers &c
 
 344 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -3113,7 +3113,7 @@ year; Aśvins are deity; one should subsist on flowers fit for divine worship on
 
 346 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3171,7 +3171,7 @@ elephant from sesame cake, deck it with gold and also a rider with a goad, cover
 
 348 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3225,7 +3225,7 @@ should not see the Sun rising or setting'. These rules are called Prajāpatiyrat
 
 350 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3297,7 +3297,7 @@ formed at night; if in addition there is Tuesday and Citrā naksatra, the merit 
 
 352 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. XIII 
 
@@ -3337,7 +3337,7 @@ H. D. 45
 
 354 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XII 
 
@@ -3401,7 +3401,7 @@ evening in a river, draw a figure to represent the moon's crescent, worship it w
 
 356 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3449,7 +3449,7 @@ formed when moon rises; only for women; a plant called Dorli or Ringaại ( in M
 
 358 
 
-History of Dharmaśāstra 
+
 
 [ Soc. I, Ch XIII 
 
@@ -3521,7 +3521,7 @@ UU
 
 360 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -3589,7 +3589,7 @@ Lt
 
 362 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -3635,7 +3635,7 @@ former bathes three times applying pañcāmsta, pañcagavya and water mixed with
 
 364 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3701,7 +3701,7 @@ should eat by nakta way; this is to be repeated seven times; he should place in 
 
 366 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3753,7 +3753,7 @@ to be worshipped; AK folio 360 b. It is also called Haya pañcami,
 
 368 
 
-History of Dharmaśāstra 
+
 
 (Soc. 1, Ch. XIII 
 
@@ -3815,7 +3815,7 @@ H. D. 47
 
 370 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3867,7 +3867,7 @@ Bhay. I. 214. 40–47.) Marud-vrata-on Cai. su. 7; fast on 6th, worship of seaso
 
 39% 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -3941,7 +3941,7 @@ which see pp. 174-175 above and Kṛtya-kalpataru (on Rāja dharma) pp. 191-195 
 
 374 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -3985,7 +3985,7 @@ accumulations in his treasury. Mahāmārgasirṣi-Vide above under Kārtika for 
 
 376 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4021,7 +4021,7 @@ H, D, 48
 
 378 
 
-History of Dharmaśāstra 
+
 
 [Sec. I, Ch. XIII 
 
@@ -4121,7 +4121,7 @@ is a very ancient vrata. Inscriptions in Nāneghāt mention that queen Nāyanika
 
 382 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4179,7 +4179,7 @@ reckoning ) from Bh. 1st for 16 days; performer should take Dūrvā tendrils mad
 
 984 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -4229,7 +4229,7 @@ ing in the waters of the Yamunā; GK 601. Yātrā (festive procession or festiva
 
 386 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4283,7 +4283,7 @@ it is Ratnaṣaṣthi or any other. Ratnāni-(jewels or precious things )-for fi
 
 388 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4323,7 +4323,7 @@ in the midst of five firos viz. Gārhapatya, Dakṣiṇāgni, Sabhya and Ahavani
 
 390 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4377,7 +4377,7 @@ fast and worship Viṣnu; homa with best food, the mantra
 
 392 
 
-History of Dharmaśāstra 
+
 
 Sec. I, Ch. XIII 
 
@@ -4427,7 +4427,7 @@ H. D. 50
 
 394 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4477,7 +4477,7 @@ Vratārka, folios 30b-32b. Also called Bilvarotaka-vrata. Rohiṇicandra-sayana-
 
 396 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4533,7 +4533,7 @@ Nārāyaṇa and Lakṣmi, for one year, divided into three periods of four mont
 
 398 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4591,7 +4591,7 @@ subsist by nakta way; make a linga with flour of rice grains as high as a ratni 
 
 400 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4653,7 +4653,7 @@ S
 
 402 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4709,7 +4709,7 @@ detailed description of the advent of spring in Vā, 6. 10-21; the Malavikāgnim
 
 404 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 
@@ -4765,7 +4765,7 @@ naksatra (of which Varuna is the presiding deity) is called Vāruṇi and is equ
 
 406 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4819,7 +4819,7 @@ TIT
 
 408 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -4869,7 +4869,7 @@ H, D, 52
 
 410 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4911,7 +4911,7 @@ section on Kāla. They are of two classes, cara ( moveable ) and sthira (fixed).
 
 412 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -4967,7 +4967,7 @@ loka; KKV 343–344, HV I. 1203–4 (from Bhav.). Viṇṇı:lakṣavartivrata-c
 
 414 
 
-History of Dharmaśāstra 
+
 
 (Soc. 1, Ch. XIII 
 
@@ -5005,7 +5005,7 @@ vide H. of Dh. vol. II. p. 957 note 2127a. Vyksotsavavidhi-Great importance was 
 
 of trees. Mat. 59 ( verses 1-20 same as Pad. V. 24. 192–211 ) contains the procedure of tree festival. It is briefly as follows:-trees in a garden should be sprinkled with sarvaușadhi water, decked with fragrant powder and flowers and cloth should be wound round them; the trees should be pierced with a golden needle (imitating karnavedha) and collyrium applied to them with a golden pencil; on the platforms of trees seven or eight golden fruits should be placed, jars containing pieces of gold should be established under the trees: homa to be offered to Indra, Lokapālas and Vanaspati; a milch cow covered with white cloth decked with gold ornaments and having horns tipped with gold should be let loose from the midst of trees; the performer (owner of the trees) should honour all priests with gifts of cows, golden chains, rings, clothes &c. and feed brāhmaṇas with a dinner full of milk for four days; homa with yavas, black sesame and mustard and palāśa fuel sticks and festival on 4th day; performer reaps all desires. Mat. 154. 512 states that a son is equal to ten deep reservoirs of water and a tree planted is equal to ten sons. It is said by Var. (172. 36-37 ) that just as a good son saves his family, so a tree laden with flowers and fruits saves its owner from falling into hell, and that one who plants five mango trees does not go to Hell; Vi. Dh. (III. 297. 13) remarks about trees' a single tree nurtured by 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -5049,7 +5049,7 @@ H. D. 53
 
 418 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5089,7 +5089,7 @@ For Vyatipātavratas, vide HV II. 708-717, Vratārka folios 391a-395a. On Vyatip
 
 420 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -5153,7 +5153,7 @@ months from K.; for one year; for progony; worship of Siva
 
 422 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5215,7 +5215,7 @@ IEI
 
 424 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5267,7 +5267,7 @@ H. D. 54
 
 426 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5313,7 +5313,7 @@ golden image of Sitalā and feed seven maidens eight or legs
 
 428 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -5359,7 +5359,7 @@ at year's end offer to Siva a pike made of flour and a golden or silver lotus an
 
 430 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5409,7 +5409,7 @@ There are several important vratas in Srāvana such as Nāgapancami, Aśūnyasay
 
 432 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5449,7 +5449,7 @@ H. D. 55
 
 434 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XII 
 
@@ -5509,7 +5509,7 @@ ghatikās after sunset) worship Ganesa image, establish a
 
 436 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5555,7 +5555,7 @@ taken from Skandapurāṇa, Revā-khanda. Sadāvrata-otherwise called 'annadāna
 
 438 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5613,7 +5613,7 @@ after the Sun starts on his (apparent ) northward passage and on a naksatra with
 
 440 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5659,7 +5659,7 @@ H, D, 56
 
 442 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -5719,7 +5719,7 @@ subsist by ekabhakta or nakta or observe a fast and worship three viz. Kroña, B
 
 444 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -5781,7 +5781,7 @@ Keśava in a circle made with cowdung for a year; at end donate a golden jar wit
 
 446 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5819,7 +5819,7 @@ a devout impulse takes hold of a man; bath with water
 
 448 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5881,7 +5881,7 @@ T
 
 450 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5921,7 +5921,7 @@ Dh. III. 199. 1-10. Sunāmadvādasi-begin on 12th tithi of Mārg.su.; ekabhakta 
 
 452 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -5965,7 +5965,7 @@ Sūryāstami–Vide Arkāstami p. 261 above.
 
 454 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XIII 
 
@@ -6009,7 +6009,7 @@ and worship Hari with Lakṣmi or Rudra with Umā ( as both are declared in śā
 
 456 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch XIII 
 
@@ -6057,7 +6057,7 @@ LES
 
 458 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -6121,7 +6121,7 @@ and japa with same; worship Janardana called Hamsa in
 
 460 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XIII 
 
@@ -6167,7 +6167,7 @@ on this point; VKK 14 holds that Ekādasi is really the day of Hari and not dvā
 
 462 
 
-History of Dharmaśāstra 
+
 
 (Soc. I, Ch. XIII 
 

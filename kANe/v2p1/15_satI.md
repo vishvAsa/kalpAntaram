@@ -31,7 +31,7 @@ There is no Vedio passage which can be cited as incon trovertibly referring to w
 
 H. D. 79626 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XV 
 
@@ -69,7 +69,7 @@ Ata ProTarana ful quoted by pro p. 112. These are quoted by the FATTOO ON . I.86
 
 628 
 
-History of Dharmaśāstra 
+
 
 Ch. XV 
 
@@ -135,7 +135,7 @@ chap. 10. 76 and 74. ___1478. अयं च सर्वासा बीणा�
 
 632 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XV 
 

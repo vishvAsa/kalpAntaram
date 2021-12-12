@@ -131,7 +131,7 @@ There was difference of opinion as to whom the obild of niyogs belonged. Vas. Dh
 
 1427. regraius: Fid Rutgotai 14. 17. . II. 6. 13. 5; grioTATTU are fata fara intre 104. 6.606 
 
-History of Dharmaśāstra 
+
 
 i Ch. Xirt 
 

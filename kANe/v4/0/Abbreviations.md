@@ -89,7 +89,7 @@ series
 
 . 
 
-History of Dharmaśāstra 
+
 
 Pr. V. or Pr. V1.=Prāyaścitta 
 

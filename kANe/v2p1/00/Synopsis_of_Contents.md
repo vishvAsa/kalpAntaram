@@ -129,7 +129,7 @@ Synopsis of Contents of showing honour to guests. Motive of the injunotion about
 
 xxii 
 
-History of Dharmaśāstra 
+
 
 CHAP. XXIV. 
 
@@ -153,7 +153,7 @@ CHAP. XXVII.
 
 917-929 Vānaprastha (forest hermit). Vaikbanasa, ancient word for vānaprastha. An ancient work called Vaikhānasa sūtra or Śāstra. Time for becoming a vānaprastha. Principal points connected with being & vānaprestha. If he suffers from an incurable disease, he may start on the great journey till the body falls to rise no more, Intricate olassification of vana prasthas in Baudhayana-dharma-sūtra and others. Members of all varnas except sūdras could become vanaprasthas. Mem. bers of princely houses as vānaprasthas. Ending one's life by starting on the great journey (mahāprasthāna) or by fire or water or falling from a precipice when and why allowed, Historical examples of this practice. This practice prohibited in the Kuli age. Most of the duties prescribed for vānaprasthasXXiy 
 
-History of Dharmaśāstra 
+
 
 are the same as those for samnyāsins. So vānaprastha stage forbidden in Kali age by the Nāradiya-purāṇa and other works. 
 
@@ -175,7 +175,7 @@ H. D. D
 
 XXVI 
 
-History of Dharmaśāstra 
+
 
 (pouring of aiya in a continuous stream ). Hotsvarana. The Prayājas ( five offerings ). Vaṣatkāra. Ajyabhāgas ( two). The principal sacrifice of portions of the cake. Offering to Agni sviṣtakst. Cutting off a portion of the cake called prāśitra (for brahma). Ida cut off from purodasa. A thin long slice of purodāsa for yajamāna. Invocation of Idā by the hotr. Brahmā eats prāśitra, hots eats avāntaredā, all priests together with the yajamāna partake of idā. Division of purodaśa for Agni into four parts and cating of the portions by the four priests. Mārjana thereafter. Cooking a mess of boiled rice (called anvāhūrya ) as fee for the four priests. The three anuyāja offerings. Recitation of sūklavāka. Throwing of prastara bunch and sākhā into fire. Samyuvāka. Throwing the paridhis on fire. Patnisarnyājas. Phalikaranuhona. Samsthājapa by hotf. Samiṣtayajus offerings. Adhvaryu and brahina leave the sacri ficial hall. Yajamāna takes Viṣnu strides. Final prayer by yajamāna. Pindapitṣyajnu. CHAP. XXXI. 
 
@@ -203,7 +203,7 @@ xxix
 
 Baniṣpavamāna laud is to be chanted by the udgātṛ, prastotr and the prati-harts. Some of the other priests and the sacrificer become choristers. The nine verses of the Babispavamāna stotra set out from the Rgveds and method of their manipula tion when sung in the cama chant exhibited. Notes on the parts and syaras of sāmans. Rites of offering the savuniya animal. The five savaniya offerings of cake &c. Offerings of soma from dvidevutya grahas (cups). Camasonnayana (filling of nine camasas) for the priests called Camasādhvaryus. The offering of some from the oups called sukra and manthin. Two chips of wood offered to the usuras, Sanda and Marka. Acchā vāka priest's requost and filling his camaga with soma Offer. ing of pługrahas. Kṣatriyas were not authorised to drink soms. The hotf performs japa, ābāra (hots's call) to which there is pratigara (response of adhvaryu), hotr offers prayer called tūṣnım-samsa, twelve clauses of nivid, then bots recites the ājyasastra. Enumeration and distribution of the twelve stotras and sastras of Agnistoma. Explanation of stoma, stobha and stotra. Meaning of Rathantara and other sāmans. Chanting of stotras other than Bahiṣpavamāna near audumbari post in sadas. I'our ājya-stotras in morning pressing. The 2nd sastra called Prauga recited by hot; and three more repeated by maitrāvaruṇa, brahmanicchamsin and acchāvāka. At the end of morning pressing priests go out of the sadas. For the mid-day pressing priests again enter sadas. Procedure of mid day pressing similar to that of morning pressing. The priest grāvastut wears the cloth, in which soma stalks were tied, as a turban and repeats many verses from the Rgveda. The chant ing of the Mādhyandina-pavamāna-stotra. The dadhigbarına rite, then the offering of pasu purodaśa and the five savaniya offerings (cake &c.). Distribution of dakṣiṇā to the several priests, sight-seers and others. The yajamāna tbrows antelope horn in cātvāla pit. Five offerings called Vaiśvakarmaṇa. The Marutvatiya sastra. Prstha-stotra and Niskevalya sastra, Three more Pretha stotras and three sastras recited by maitrāvaruna and two others. Procedure of evening press ing similar to mid-day pressing. Arbhaya-pavamāna chan. ted. Rohus connected with third prossing. Haris prepared from savaniya paśu offered. Vai vadeva sastra. 'The Pātni. vata cup to Agni Patnivat. Chanting of Yujñāyajñlya stotra also called Agnis tomusāman. Wife of sacrificer pours pānnejana water over her thigh and udgātṛ priest looks at her. Agrimāruta-sastra recited by hots. Hāriyojana cup offered to 
 
-History of Dharmaśāstra 
+
 
 Indra. All priests wait on āhavaniya with Mindā mantras. Avabhṛtha (final bath). All vessels except four sthālis are thrown into water. Yajamāna casts antelope skin in cātvāla pit. Avabbṛtha sāman ohanted. The nidhana of the sāman is repeated by all priests, yajamāna and his wife at three places on their way to reservoir of water. Yajamana and wife enter water, rub each other's baok. Handful of kuśa thrown in avabbṭtha iṣti. Purodāśa offered to Varuna and then to Agni and Varuṇa. The unnet; brings out yajamāna, wife and priests. They offer fuel sticks. The Udayanlya iṣti (concluding ). Anubandhyā rite ( offering of a barren cow to Mitra and Varupa) or only payasyā. Then five offerings called Devika to Dhāts, Anumati, Rākā, Sinivāll and Kuhū. Udavasāniya iṣçi like punarādbeya. Theories about the identity of the soma plant and its relation to the moon. In the Deccan & substitute called *rānsera' is employed for soma. CHAP. XXXIV. 
 
@@ -217,7 +217,7 @@ very complex ceremony extending over a long period ( over two years), and compri
 
 Ixxii 
 
-History of Dharmaśāstra 
+
 
 were killed in this and fourth to Bșhaspati. Method of pre paring wine described. Remnants of the wine offered were not drunk by the priests, but a brāhmaṇa was hired for drinking thein or they were poured on an ant-hill, Persons for whom Sautrāmaṇi was offered. Avabhrtha and then amikṣa to Mitra Varuṇa and an animal to Indra. Asvamedha. Horse-sacrifice in vogue even in Rgveda. It was a sacrifice for three days, to be performed by a king. Time of commencement. The four queens aocompanied by princesses and large retinue come near the king. Rules about colour and qualities of horse. Guards of the horse, whien it is let off to roam over the country. During horse's absence for & year three iṣtis every day to Savity. Chants by a brāhmaṇa after the iṣtis every day and also by a kṣatriya lute-player. Hotr recites to the king surrounded by his sons and ministers the narrative called' Pāriplava.' Every day for a year four oblations called Dhrti made in the ābava. niya. At the end of the year horse was brought back and sacrificer took dikṣā. 21 yupas, eaob 21 aratnis high. Large number of animals tied to yūpas slaughtered. Horse taken to a lake, bathed in it, brought back and anointed by the queens on various parts of the body. Dialogue between hots and brahmā. When horse killed, queens go round borse, fan it with their garments, crowned queen lies by the side of the horse and both are covered with mantle, Abusive and obscene dialo gues between hotr and crowned queen, between brahmā and favourite wife, between four principal priests and chamber. lain on one side and the queens and their attendants on the other. Fat and blood of the horse offered. Brahmodya (theological dialogue of questions and riddles ). Mahiman offerings. Remnants of these sprinkled over the king and offering to 12 months. Avabhrtha on third pressing day. Offerings on the head of a bald man who dips into water to 'Jumbaka'( Varuṇa). When sacrificer comes out of water after avabhștha bath, persons guilty of grave sins plunge into it and become free from sins. Large fees on first and third pressing days. Asvamedha rare even in ancient times. Description of Aśvamedha in the Mahābhārata. Epigraphio references to Aývamedha. Sattras. Their duration is from twelve days to 8 year or more. Dvidaśāha is the archetype. Sattras divided into two classes, ratrisaltres and sārvatsarika, Gayāmayana is model of all sattras of one year or more. Scheme of the parts of Gavām-ayana When dikṣ& commenced. General rules applioable to all sattras. Though all are yajamānas and 
 

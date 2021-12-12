@@ -56,7 +56,7 @@ FOUNDED
 
 58 
 
-History of Dharmaśāstra 
+
 
 of servants and slaves ; one may subject himself, wife and sons to privations (but not servants); amount of food to be taken by brahmacūrin, householder, hermit &c.; occasions for begging are the teacher, marriage, sacrifice, maintenance of parents and avoidance of the cessation of some worthy observance (like (ugnihotra); the peculiar karmans of brāhmanas and the other oastes; rules of war; the king to appoint a pirohila skilled in dharma and art of government, who is to carry out punishments and penances; punishments including death sentence according to the gravity of the offences, but a brāhmaṇa was not to be killed or injured or to be made a slave; rule of the road; a man of the lower caste by practising his duties rises higher and higher when re-born and a man of the higher castes goes lower by audharma; one should not marry another wife, when the first has children and is helpful in the performance of dharma; rules about marriageable girl, i. e. she must not be sagotra and sapinda of the mother; six forms of marriage viz, brāhma, ārsa, daiva, gāndharva, āsura, raksasa; preference among the six; rules of conduct after marriage; sons born of wives of the same caste can perform the duties appropriate to the father's caste and inherit parent's property; the son of a woman who was once married or who is not married according to prescribed forms or who is not of the same caste is censured; whether the son belongs to the begetter (or to him on whose wife he is begotten); there can be no gift or sale of a child; partition during father's lifetime a 
 
@@ -142,7 +142,7 @@ FOUNDE
 
 19.17 
 
-History of Dharmaśāstra 
+
 
 text and Smrti, the latter is to be disregarded : but if there be no confliot an inference (may be made that the Smrti is based upon some Sruti)". In another place Āpastamba says (1. 4. 12. 11 ) 'where an action is done on account of finding pleasure therefrom (i. e. from a worldly motive ), there is no ( inference of its being based on ) Sastra'. This is the same as Jaimini's teaching (IV. 1. 2 )'. He speaks of the convention (samy) of those who know Nyāya (i. e. Mimāṁsā ) that angas ( such as the Kalpasūtras are ) cannot be designated the Vedas ( which are the principal), which is clearly a reference to Purvamimālisa (1. 3. 11-14)” and he says that those who know Nyāya lay down that a mere unurūda (affirming or reciting) of what is well known to all is not a positive rule ( a vidhi ), which is similar to Jaimini's rule93. The dictum of Āpastamba that the word "sale" (kraya ) applied to a bride in some Vedic texts is merely figura tive closely resembles Jaimini's94 remarks on the same point. 
 
@@ -188,7 +188,7 @@ This has in view 'एतेन देशकालधर्मा व्याख
 
 66 
 
-History of Dharmaśāstra 
+
 
 one printed, barring a few variations that are no more than mere slips on the part of the soribes of Mss. In his commentary on Yāj. III. 237 Visvarūpa quotes eighteen sūtras of Āpagtamba (I. 9.24. 6-23) consecutively which are the same as those in the printed text. Medhātithi quotes Āpastamba II. 5. 11. 2, II. 4. 7. 16, II. 8. 19, 20, 1. 4. 14. 30-31 on Manu II. 247, III. 102, III, 273 and VIII 357 respectively and appears to refer to Āpastamba I. 4. 13. 6 (about "om") on Manu II. 83. The Mitākṣarā has several quotations and Aparārka contains about two hundred sūtras of Āpastamba, though rather in a mutilated form. But it is not necessary to refer to these and other later works in detail, since Haradatta's commentary, as will be shown later on, was written about the time of Aparārka. Thus from the days of Sabara ( 400 A. D. at the latest) to 1100 A. D. we have a host of writers who youch for the authenticity of the extant text of Āpastamba. 
 
@@ -220,7 +220,7 @@ harrari. Homidri in matracararo (III. 1. p. 1350 ) quotes the same Apastamba sū
 
 almost the same sense as Saravati' (p. 96). Saravati is formed from sara with affix 'matup. ' Has' danda' the same sense as matup'? I should like to know where it is so stated. The usual meanings "danda' are a staff, army, punishment or fine., and one of the ffur upāyas in Rājaniti. One should like to know how Saradanda (willele is a compound word having two separate nouns) can have the sapien sense as Sarāvati (which is forined by a noun and an allis vetup. Stition a 
 
-History of Dharmaśāstra 
+
 
 
 
@@ -304,7 +304,7 @@ FOUNDE
 
 191772 
 
-History of Dharmaśāstra 
+
 
 phist who knows all the south Indian languages informs me that the linguists regard the word as Dravidian and connect it with Telugu gurramu and Kannada Kudire or kudure. If the word ghota be Dravidian, Dr. Ram Gopal's argument would recoil on him like a boomerang. The same reasoning applies to the word 'bhayedaka'( bhayahetubhūtah adakah, & dangerous ram). That word is compounded of bhaya ( danger) and edaku (ram ). The word 'bhaya' by itself occurs even in the Rgveda at least a dozen times and otaka means 'ram' according to Amarakośa 102 , Meṣa is a synonym of 'edaka' and both these words occur in the present day Marathi. Edaka is one of the three unclean (amedhya ) animals acc. to Sat. Br. XII. 4. 1. 4. Edaka is the 2nd word in 'ajādi-gana' ('ajādyataṣtıp' Pān. IV, 1.4). When Pāṇini mentions a gana with ādi it must be presumed that at least the first three of the words in the gana were known to him, though we know that in some ganas somo words were inserted later. Following the reasoning of Dr. Ram Gopal one may as well say that Āpastamba's home was in Mabarastra where both words (ghodā and edakā) are found in the people's speech and the latter word at least was known before Pāṇini. Both these words were regarded as Sanskrit in the centuries before and after the Christian era by lexicogra phers and odaka was known many centuries before Christ, when there was no Hindi language in existence at all. This argument of Dr. Ram Gopal, it would be seen, is ridiculous and worthless. 
 
@@ -444,7 +444,7 @@ FOUN
 
 19 
 
-History of Dharmaśāstra 
+
 
 but rather in the later phases of it. A few references to some of Pānini's sūtras on literary works and a few other matters will be helpful in arriving at a tentative date for Pānini. Pāṇini says 'Purāṇaprokteṇu brāhmanakalpesu' (IV. 3. 105), which means the affix nini is applied to Brāhmaṇa works and Kalpa works, provided these are declared by ancient (inunis ). The oxamples are Bhāllavinaḥ and Sātyāyaninah from Bhallu and Satyāyana. This clearly shows that in Pāṇini's times there were sātra works both ancient and not ancient (i, e. composed nearer his time ). 
 
@@ -590,7 +590,7 @@ FOUND
 
 90 
 
-History of Dharmaśāstra 
+
 
 It appears from the Kalpataru of Lakṣmidhara that Kapardin wrote a bhāsya on Ap. Dh. S. e. g. the Brahmacāri kānda of that work on p. 15 quotes Āp. Dh. S. II. 2. 1, 2-5 and remarka 'etacca nityānām-eva karmanām phalāntaram-iti Kapardibhāsyam'; also on p. 257 it quotes Āp. Dh. S. I. 3. 11. 27 34 and cites एकसकः एकचरः शृगाल इति कपर्दी. Laksmidhara on Sraddha cites the explanation of Āp. Dh. S. II. 7.17. 21 'Svitri...sūdrot. panno brāhmanyāmityete sraddhe...panktidīgaṇā bhavanti' and Haradatta seems to have taken it from Kapardin. In Naiyatakāla-kanda it quotes Kapardibhāṣya on Āp. Dh. S. I. 17. 37 (pp. 239 and 306 ); on pp. 275-6 Āp. Dh. S. I. 2. 7. 19-21 are quoted and Kapardibhāṣya on Ugratah sūdrato vāharet' is quoted. From a corrupt passage in Mr. Gharpure's edition of the Smrticandrikā ( 2nd part p. 419 ) it follows that Dhūrta svāmin had either composed a bhāsya on Āp. Dh. S. (the reference is to Ap. Dh. I. 5. 17. 18 and 20 suktam ca' and 
 

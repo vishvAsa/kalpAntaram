@@ -19,7 +19,7 @@ FOUNDI
 
 520 
 
-History of Dharmaśāstra 
+
 
 It appears from the quotations in the Mit., Aparārka and Smrticandrikā that they had before them a large work of Pracetas containing sūtras and verses and that Pracetas did not deal with Vyavahāra. An example of a long prose passage is cited below.613 
 

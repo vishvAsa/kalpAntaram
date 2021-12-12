@@ -43,7 +43,7 @@ H. D. 53
 
 418 
 
-History of Dharmaśāstra 
+
 
 (Ch. VIII 
 
@@ -149,7 +149,7 @@ kaivalya ( by the Saṅkhyas) or apavarga (Nyāyasūtra I. 1.2 ). For attaining 
 
 424 
 
-History of Dharmaśāstra 
+
 
 [ Ch. Viti 
 

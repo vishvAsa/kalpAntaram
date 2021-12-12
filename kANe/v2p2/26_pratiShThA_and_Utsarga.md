@@ -53,7 +53,7 @@ region to region and also saves (me and others)'; and that the donor holds the e
 
 892 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVI 
 
@@ -131,7 +131,7 @@ Hemādri (Dana. pp. 1029-1055 ) deals at length with the planting of trees, the 
 
 896 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVI 
 
@@ -185,7 +185,7 @@ The general procedure of consecrating an image has been given above at some leng
 
 900 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVI 
 
@@ -291,7 +291,7 @@ atur A OTT I spenterramen ti afere Treyta \# m g tror 103, 4 and 21.
 
 906 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVI 
 
@@ -353,7 +353,7 @@ ATWATCHSTIC \# Troy quoted in I T p. 162.
 
 910 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVI 
 
@@ -417,7 +417,7 @@ H. D. 115
 
 914 
 
-History of Dharmaśāstra 
+
 
 I Ch. XXVI 
 

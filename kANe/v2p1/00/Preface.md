@@ -11,7 +11,7 @@ I. D. A
 
 11 
 
-History of Dharmaśāstra 
+
 
 expected to be published. I may state, however, that in view of the fact that at present I am in much better health than I have been for several years I shall try to publish it in three years more. 
 

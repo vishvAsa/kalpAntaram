@@ -23,7 +23,7 @@ Winternitz ( 1920, Leipzig ).
 
 vill 
 
-History of Dharmaśāstra 
+
 
 E.C. = Epigraphia Carnatioa E. I. = Epigraphia Indica. E. R. E. = Encyclopaedia of Religion and Ethics (edited 
 

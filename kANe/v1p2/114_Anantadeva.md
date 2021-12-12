@@ -41,7 +41,7 @@ cannot be adopted nor can a brother, a paternal or maternal uncele be adopted. A
 
 956 
 
-History of Dharmaśāstra 
+
 
 the upanayana alone is performed in the adoptive family or the adoption is made after upgnayana the boy belongs to both gotras. But this holds good only as regards obeisance, sraddha etc, while for marriage every adopted boy has to avoid the gotra and prarara of both families. If a natural son be born to the adopter after he takes a boy in adoption, the adopted boy becomes an equal sharer with the aurasa, if all the sani: kāras up to ypanayana are performed by the adoptive father for the adopted boy, or he takes only a fuurth share if only some of the sanskaras ending with upanayana are performed by the adopter and he gets no inheritance but only provision for marriage if he was adopted after upanayana is performed in the natural family. Anantaceva, disagreeing with Nilakantha, holds that a girl may be adopted.1483 
 
@@ -81,7 +81,7 @@ In Introductory verses 10-14 of the Rajadharmakaustubha!486 edited by M. M. Kama
 
 958 
 
-History of Dharmaśāstra 
+
 
 E 
 
@@ -119,7 +119,7 @@ ed, of 1909), 1488 On p. 459 of the Fra FTH ( Nir. ed. of 1909) 37ga says :
 
 960 
 
-History of Dharmaśāstra 
+
 
 bhakti-candrikā composed by Anantadeva in which the characters are a Saiva, Vaisnara, Minamsaka, Tarika &c. 
 
@@ -169,7 +169,7 @@ HD, 121
 
 962 
 
-History of Dharmaśāstra 
+
 
 the Candra (or Chand ) family and ruled over Almora and Nainital from 1638 to 1678 A. D. It is said in the Imperial Gazetteerl498 that the first of the Chandrarājas was Somachand who hailed from Jhūsi near Allahabad and came to the Hima layan regions in the 10th century and that in 1563 the capital was transferred to Almora by Kalyancanda, whose son Rudra. candra was a contemporary of Akbar and made his obeisance to the latter in 1587 A. D. at Lahore. The Smrtikaustubha does mention the ancestors Kalyanacandra and Rudracandra of Baz Bahadur. Between Baz Bahadur and Rudracandra there are three names. Supposing that they are the three direct ascendants of Baz Bahadur and following a period of 25 years for each after Rudracandra's known date of 1587 A. D., we get the year 1662 A. D. for Baz Bahadur. We are told in the Gazetteer that in 1672 Baz Bahadur introduced a poll tax, the proceeds of which he remitted to Delhi as tribute. Therefore Anantadeva must have been patronised by Baz Bahadur between 1645 and 1675 A. D. A greater approximation can be made in another way. The saint Ekanātha finished his Marathi Bhagavata at Benares in sake 1495 and 1630 of the Vikrama era on Kārtika full-moon day (i. e. 9th November 1573) as he himself tells us. 1499 Anantadeva was the fourth in descent from him (exclusive of Ekanātha ). Counting 25 years for each of the four generations, Anantadeva should have been a grown up man in 1673 A. D. There are controversies about the dates of the birth and death of Ekanātha, the commonly accepted dates being sake 1450–1521 (b. 1528–d. 1600 A. D.). The date of his death is sake 1521 Phālguna dark half 6th day 
 

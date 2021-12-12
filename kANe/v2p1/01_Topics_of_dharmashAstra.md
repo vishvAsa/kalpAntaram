@@ -9,7 +9,7 @@ VOLUME II
 
 CHAPTER I THE TOPICS OF DHARMAŚĀSTRA Manifold are the topics that have been inoluded under Dharmasastra from very ancient times. The Dharma-sutras of Gautama, Baudhāyana, Apastamba and Vagiṣtha deal in greater or less detail principally with the following subjects: the several warnas (classes ), āśramas (stages of life ), their privileges, obligations and responsibilities; the samskāras performed on an individual (from garbhadhāna to antyeṣti ); the duties of the brahmacārin (the first asrama); anadhyāyas (holidays on which Vedic study was stopped); the duties of a snātaka ( one who has finished the first stage of life); vivāha ( marriage ) and all matters connected therewith ; the duties of the grhastha ( house-holder's stage); sauca ( daily purification of body ); the five daily yajñas; dāna ( gifts ); bhakṛyūbhakṣya ( what food should one partake of and what not); $uddhi ( puri. fioation of persons, vessels, clothes &o.); āśauca (impurity on birth and death); antyeṣti ( rites on death ); $rāddha ( rites performed for the deceased ancestors and relatives ); stridharma ( special duties of women ) and stripurdharma ( duties of husband and wife ); dharmas of ksatriyas and of kings ; vyava. hāra (judioial procedure, and the sphere of substantive law suoh as crimes and punishments, contracts, partition and inheritance, adoption, gambling &o.); the four principal classes, mixed castes and their proper avocations; āpaddharma ( actions and avocations permitted to the several castes in extreme diffioulties); prāyascitta (sins and how to expiate them); karmavipāka ( results of evil deeds done in past lives ); sānti (rites on the happening of portents or for propitiating the planets &o.); duties of vānaprastha (forest hermit ) and sarnyāsin ( ascetio). All these subjects are not treated in any fixed or settled order in the sūtra works. To take only one example, the subject of partition and inheritance ocours at the end of the dharmasūtra of Gautama, while Vasiṣtha places the same subject in the middle of his work (17th ohapter) and Apastamba deals with those topios after inishing 
 
-History of Dharmaśāstra 
+
 
 1 Oh. I 
 
@@ -47,7 +47,7 @@ Before embarking upon any treatment of varṇas it would not be out of place to 
 
 d in notivo social bat ono is not really dution of the au 
 
-History of Dharmaśāstra 
+
 
 [Ch. 1 
 
@@ -169,7 +169,7 @@ U FIT ang hantar ata fara ETAT I STORE PATHET AL FNAC TAI
 
 12 
 
-History of Dharmaśāstra 
+
 
 | Ch. I 
 

@@ -47,7 +47,7 @@ The Mit. (on Yāj II. 91), and V. Mātrkā , p. 309 note that a jayapatra is giv
 
 600. armanfguraria HAETT: I meeg. III. 19.382 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -341,7 +341,7 @@ frontaa frete Thurai Tirgrot : samari SMUT IV. 11.
 
 400 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -423,7 +423,7 @@ offence (though a first offender may be let off with a mere admonition). Kaut. I
 
 406 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -453,7 +453,7 @@ MWh
 
 408 
 
-History of Dharmaśāstra 
+
 
 i Vol. 
 

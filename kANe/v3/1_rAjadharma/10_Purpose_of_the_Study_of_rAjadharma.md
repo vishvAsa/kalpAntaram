@@ -15,7 +15,7 @@ and monarchy alone is generally envisaged by Indian writers. The result has been
 
 236 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -41,7 +41,7 @@ Engaga u prometre 125. 29.
 
 238 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -73,7 +73,7 @@ T arafaretai Farera de les para \#rgartuart मर्यादः कृतप�
 
 240 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 

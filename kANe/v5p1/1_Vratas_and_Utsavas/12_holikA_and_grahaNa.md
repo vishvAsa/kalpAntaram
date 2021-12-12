@@ -17,7 +17,7 @@ This festival is very ancient. Originally the form of the word was Holākā and 
 
 238 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. XII 
 
@@ -51,7 +51,7 @@ Instead of the gay and saturnalia-like practices prevalent in many parts of Indi
 
 240 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -85,7 +85,7 @@ TEETH.
 
 242 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -119,7 +119,7 @@ ___627. सर्व गङ्गासमं तोयं सर्वे व�
 
 244 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -145,7 +145,7 @@ ___634. महाभारते। अयने विषुवे चैव �
 
 246 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XII 
 
@@ -183,7 +183,7 @@ Tāhudarśane' occurring in several verses (quoted in the notes, 633, 639 &c.). 
 
 248 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 
@@ -223,7 +223,7 @@ H. D. 32
 
 250 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XII 
 

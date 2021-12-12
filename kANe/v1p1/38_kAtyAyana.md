@@ -5,7 +5,7 @@ title = "38 Kātyāyana"
 
 496 
 
-History of Dharmaśāstra 
+
 
 38. Katyayana Nārada, Bșhaspati and Kātyāyana form a triumvirate in the realm of the ancient Hindu Law and procedure. The work of Kātyāyana on Vyavahāra, like that of Bphaspati, has yet to be recovered. After the first volume of H. of Dh. was published in 1930, I contributed to a Law Journal in Bombay & collec tion of Kātyāyana's verses gathered from quotations in 21 works and later (in 1933 ) published in a book form 973 verses of Kātyāyana with English translation, two Appendices and a General Index (in all 372 pages). Later on Prof. K. V. Rangaswami Aiyangar contributed a paper to the Kane Fest schrift (pp 7-17) embodying 121 additional verses of Kātyāyana from the work called Vyavahāranirnaya of Vara darāja ( which he published in 1942 48 No. 29 of the Adyar Library series ). 
 
@@ -41,7 +41,7 @@ fa. 5. p. 152.
 
 498 
 
-History of Dharmaśāstra 
+
 
 8. 360. Kullāka distinctly says that Katyayana simply ex. plains the verse of Manu by referring to it as Bhrgu's. On the other hand, there are several places where the views ascribed to Bhrgu find no counterpart in the extant Manu. Bhrgu seems to have been a predecessor of the author of the extant Manusmrti since it mentions ( III. 16) the view of Bhrgu. The Mit. on Yaj. III. 292 quotes a verse of Bhrgu. Visvarupa also quotes a verse of Bhrgu on Yaj. I.79 and ano ther on Yaj. I.187, both of which are not found in the Manu smrti. Aparārka quotes in all four verses of Bhrgu (on pp. 58, 461, 547, 696 ). The Sinșticandrikā,561a after dilating upon the two superior places cited by Manu ( viz, the king or a judge appointed by the king where disputes are decided ) quotes three verses of Bhrgu which refer to 15 inferior tribu nals for decision in some special matters. The Smṛticandrikā also quotes several verses of Blırgu on Srāddha, two of which are interesting and indicate that the Bhrgu it quotes is : much later writer than Manu, as they refer to the position of the Sun in rāfis ( signs of the zodiac ). 
 
@@ -105,7 +105,7 @@ reads त्यजेन्नरः, 566 या स्वपुत्रं त
 
 500 
 
-History of Dharmaśāstra 
+
 
 amanti 1 
 
@@ -165,7 +165,7 @@ Bhandark Research
 
 502 
 
-History of Dharmaśāstra 
+
 
 of it in prose and explains it. 571 Medhātithi says that Kātya yana extended the maxim of the trader carrying merchandise (bhāndavāha-vanik maxim ) to all similar transactions. All known quotations of Kātyāyana are in verse. When Medhā tithi speaks of a sutra and quotes a portion of it (as "vā" and "iti" after “nivarteta " indicate ) in prose, we must either suppose that he is referring to some other work of Kātyāyana than the one in verge from which hundreds of verses are cited by other writers or that Kātyāyana's work on vyavahāra also contained some proge passages. As hardly any other writer quotes a prose passage of Kātyāyana on vyavahāra, the second alternative appears somewhat unlikely. Visvarūpa and Medbātithi regarded Katyāyana as an authoritative smrtikāra along with Nārada and Bșhaspati. This position he could not have attained in less than a few hundred years. Therefore, the lowest limit to which Kātyāyana can be assign ed is the 6th century. Hence it may be said that Kātyāyana flourished between the 4th and 6th century A. D. 
 
@@ -207,7 +207,7 @@ lag!hyasūtra III. 6. 10-16 ( 11 474825: 1 af Jha qarTAL मीश्वरम�
 
 504 
 
-History of Dharmaśāstra 
+
 
 Sāndilya and Sandilyāyana on p. 626. Kātyāyana is named in several places (pp. 624, 627, 638 ) and once the first person is used ( as in "mamāpyetad hrdi sthitam” p. 643). The Kātyāyanasmrti quotes the verse of Manu (111.70 ) on the five great yajñas. On p. 633 four verses forming the conso lation to be offered to the relatives of a person departed are the same as Yāj. (III. 8-11) and one verse in the same con text occurs in the Mahābliālata (Sāntiparva 27.31 and other places ).578 On p. 631 Kātyāyana speaks of Rāma having performed yajñas taking as his spouse the golden image of Sītā. 
 
@@ -263,7 +263,7 @@ FOUNE
 
 506 
 
-History of Dharmaśāstra 
+
 
 Prof. Aiyangar's own collection of Brbaspati verses ; P. M. = Parāśara-mādhaviya, Vy. N. =Vyavahāranirnaya ed. by Prof. Aiyangar): 
 

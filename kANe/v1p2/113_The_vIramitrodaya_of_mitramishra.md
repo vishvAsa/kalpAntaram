@@ -13,7 +13,7 @@ The Viramitrodaya is a vast digest composed by Mitramisra embracing almost all b
 
 942 
 
-History of Dharmaśāstra 
+
 
 and laksana had been published, the first by Jivananda (Cal cutta 1875) and the rest in the Chowkhamba Sanskrit series. The text of the dayabhāga portion of the Vyavahāraprakāśa was also published by Golapchandra Sarkar Sastri with an English translation ( Calcutta 1879). It appears that Mitramiśra wrote on prāyaścitta also.1455 of the Prayaścittaprakasa there is a complete and well written ms. (No. 2610) in the Anup Sanskrit Library at Bikaner and there is also another ms. of Laksaṇaprakāśa ( No. 239 p. 49 of Val. Cat. of. mss. in l. C. Desai collection). The very names of the sections of the Viramitrodaya convey an idea of the subjects dealt with in them. The Lakṣaṇa prakāsa deals with the auspicious signs of men, women, the several Parts of human body, elephants, horses, thrones, swords, bows and with the characteristics and qualities of the queen, the ministers, the astrologer, physician, door-keeper, description of śālagrāma, śivalinga, rudraksa beads etc. In the Ālinikaprakāśa he dilatcs upon the daily duties beginning with one's rising from bed on brāhmamuhurta, sauca, ācamana and ending with going to bed. The Vyavahāraprakasa is probably the leargest nibandha on vyzvahāra. This is divided into four parts The first part deals with the meaning of vyavahāra, the constitution of the sabha (court of justice ), the appointment of judges, conflict of dharmaśāstra and arthaśāstra, assessors, the various grades of courts, the procedure about plaints and defendant's replies and their faults; the burden of proof and and the means of proof. The second gives a detailed exposition of the means of proof, viz. witnesses, documents, possession and ordeals. The third treats of the eighteen titles of law including dāyavibhāga and the fourth very briefly speaks of those matters which were to be started suo motu by the king and not by a private individual. The dāyavibhāga portion of the Vyavahāraprakāśa occupies a little more than-one-fourth of the whole of the work. 
 
@@ -47,7 +47,7 @@ In all his works Mitramiśra mentions hundreds of authors and works. The portion
 
 944 
 
-History of Dharmaśāstra 
+
 
 far-fetched and as simply exhibtiing the author's pedantry, 1467 Out of the host of works and writers that he names in the vyavahāra section the important ones are noted below 1458 
 
@@ -109,7 +109,7 @@ e
 
 946 
 
-History of Dharmaśāstra 
+
 
 jata, Prayascittaviveka, Madanaparijata, Sridatta (vide I. O. cat. 
 
@@ -149,7 +149,7 @@ deva and his descendants. 1469 Chowk ham ba Sk. Series, ed. of the Com. on p. 38
 
 948 
 
-History of Dharmaśāstra 
+
 
 1111yr LILY 
 

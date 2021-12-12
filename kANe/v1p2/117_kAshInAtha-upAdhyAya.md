@@ -87,6 +87,6 @@ Marathi poet Moropant published by Mr. L. R. Pangarkar (ed. of 1908, chap. 16 pp
 
 978 
 
-History of Dharmaśāstra 
+
 
 was Kāśyupadhyāya who had two sons Yajñeśvara and Ananta. Ananta was a very pious man and a great devotee and left his native land Konkana, and resided at Pandharpur on the Bhima. The Dharmasindhu does not give the reason for Ananta's migration from Konkaṇa. But it is said that the Padhyes bad a dispute with another family about the upadhye vrtti, took it for decision to the Peshwa's Court at Pouna and were defeated, on which they cursed the Peshwa, vowed not to stay in the territories under the Peshwa's rule and migrated to Pandharpur. Vide \#1. 5. H. H.for sake 1833 p. 100 for the judgement deli vered in 1762 A. D. in the dispute between Joshi and Padhye. The Dharmasindhu was composed 1630 in sake 1712 i. e. 1790–1 A. D. Kāśinātha was related to the great Marathi poet Moro pant, as his daughter Avadi was married to Ramakrśṇa, the second son of the poet. He had great veneration for Moropant and refers to the Mantrabhagavata of the latter.1531 Kasinātha became a samnyāsin and died in sake 1727 i. e. 1805-6 A. D.1582 

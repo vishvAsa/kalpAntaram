@@ -17,7 +17,7 @@ From the colophon it appears that Sridhara was himself a performer of Vedic sacr
 
 726 
 
-History of Dharmaśāstra 
+
 
 dure of samnyasa following the opinion of Govindaraja and of Baudhayana.1041 At the beginning of some sections (p. 48 and p. 49 on sraddha and prayascitta respectively) he again repeats the verse about Kāmadhenu and the other authorities. The Abdhi named therein seems to be the Smstimahārṇava quoted in Hemādri, in the Vivādaratnākara and other works. He refers to Mitāksarā also (p. 56). For Lollata see above ( under Medha tithi ). It appears that Sridhara also composed another and a larger work on dharmaśāstra. For example, Hemādri who 1042 knew the Smstyarthasāra quotes certain views as Sridhara's which do not occur in the Smrtyarthasāra. The Prayogapārijāta, the Nirnayasindhu, and the Samskārakaustubha quote the views of a work called Sridhariya which are not found in the Smrtyarthasara. Sridhara seems to have been a writer from southern Ind 
 

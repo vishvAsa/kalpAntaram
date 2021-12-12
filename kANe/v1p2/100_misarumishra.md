@@ -35,6 +35,6 @@ citation in English from the विवादचन्द्र).
 
 44 
 
-History of Dharmaśāstra 
+
 
 so called (by the sages) and not to all property that comes to a woman. 1275 

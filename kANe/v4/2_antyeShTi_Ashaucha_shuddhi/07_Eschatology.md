@@ -13,7 +13,7 @@ Death has been generally looked upon with feelings of awe and terror, though the
 
 1.80 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -37,7 +37,7 @@ i
 
 182 
 
-History of Dharmaśāstra 
+
 
 I Vol. When a man is sinking and is almost on the point of death it was and even now is the practice in many parts of India to take the dying man down from the bedstead and place him on & bed spread on the earth424 For example, the Kausika-sūtra (803) prescribes 925 : When the man is losing all strength, he (the son or other attending relative) spreads Tuśas on the grass growing in the shed and takes him down (from the bed-stead) with the manira 'syonāsmai bhava' (mayst thou be good to this man, Oh Earth). The Baud P S III 1 18 says that sand should be spread on the ground in the sacrificial shed when it is feared that the sacrificer is dying and darbha grass should be strewn on the sand with the sharp ends turned to the south and the dying man should be placed thereon and one (son or the like) should repeat in his right ear the anuvāka beginning with ayusah prānam santanu'. The Gobhilasmrti III. 2% and later works lika the Pitrdayita provide the same procedure. 
 
@@ -259,7 +259,7 @@ Rgveda X. 15. in favour of us and may they protect us! 6. O Fathers! May you all
 
 196 
 
-History of Dharmaśāstra 
+
 
 I Vol. sacrifice which is well prepared, 14. (O Agni) Resplendent (or self-ruling) along with those (pitrs) who (whose bodies) were burnt by fire and also whose bodies were not burnt and who enjoy delight (on account of offerings made) with suadha (or as is their wont) in the midst of the heavens. May you arrange a body as (the deceased) desires that will inspire him to a (new) life (in heaven) 
 
@@ -375,7 +375,7 @@ r, nQ 36
 
 202 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -439,7 +439,7 @@ ham la the words YUTER TIENI I 34UF* FAQ Pal. FETTE माम पितॄणा
 
 2016 
 
-History of Dharmaśāstra 
+
 
 (Vol 
 
@@ -523,7 +523,7 @@ who had not kept sacred firas. 497 The Pār, gr, further provides that all relat
 
 212 
 
-History of Dharmaśāstra 
+
 
 [.Vol. beat their right thighs, fan the corpse with the fringes of their garments and go thrice round the corpse with the left side towards the corpse and recite the mantra 'apa nah sośncad agham' (Rg. I 97 1. Tai. Ā, VI 10.1). It further provides (28, 1 37-46) that the corpse is carried in a cart or by (four) men and while being carried four stops are made, at each of which clods of earth are dug up and boiled rice is offered thereon with mantras like 'pūsā tretah' (Rg. X. 17 3., Tai Ā VI, 10 1), Sayur vispāyur" (Rg. X. 17. 4, Tai. Ā VI 10.2). The Varāha purāna prescribes that a Paurānic mantra should be recited, that the performer should go round the pyre and apply the kindled fire towards the part of the pyre where the head is placed. 499 ; In modern times the procedure of cremation is generally on the lines of that described in the Asy. gr, cited above and the procedure described in the Garudapurāpa II, 4, 41 ff. The following is a summary of the procedure set out in the Antyesti paddhati of Narāyanabhatta which is generally followed by Rgveding in Western India. The dead body is washed with water, is decked with a talaka on the forehead, is clothed in a garment, is covered with a paste of Jatāmāmsi and a garland of naladas is placed round its neck, Then the performer washes his own fest, sips water, performs prādāyāma without Vedio mantra, then makes a Saṅkalpa (as in note 500 ),500 he wears his sacred thread under the left shoulder (and on the right shoulder) and prays to the earth with the mantra 'upasarpa' (Rg. X. 18.10), he then thrice goes round the place dug up (for cremation) and sprinkles water with a sami branch at the end of the mantra 
 
@@ -569,7 +569,7 @@ the dea The Kūrmapunmada’s body the for a mo
 
 216 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -855,7 +855,7 @@ S
 
 234 
 
-History of Dharmaśāstra 
+
 
 (Vol. days in a tub containing oil till the arrival of Bharata (vido Ayodhya 66. 14-16, 76.4). In the Visnupurāna sio it is stated that the body of Nimi being covered with oil and fragrant sub stances did not become decomposed and looked as if the doath was recent, 
 
@@ -1135,7 +1135,7 @@ n 277
 
 252 
 
-History of Dharmaśāstra 
+
 
 (Vol. build a shed or a seat for a bed. They drive in the eastern half or middle or wostern half of it a three-pronged palāsa peg, In front of it one born of a sūdra woman or a brahmabandhu ( a brāhmana only in name) sits down for a dialogue He asks the principal wife of the deceased) 'will you dwell with me.' That woman roplies to him 'I shall not give (what you ask).' The samo dialogue takes place on the 2nd day. Then on the third day she replies 'I shall give for one night' Or if this peculiar practice (of talking about dhavana, which literally means 'soxual intercourse') was intended to last for more days than three sho was to give a suitable reply (viz. for three nights or for five nights &o). When the words of the reply are uttered by the wifo, the performer deposits the bones (of the deceased) at the root of the peg and places between the three prongs of the peg & jar having a hundred holes at the bottom The mouth of the jat is covered with a hide and kusa grass On that jar he sprinkles curds mixed with vājina with the mantra 'Vaisvānare haviridam' (Tai. Ā. VI. 6.1). When the liquid oozes from the jar on the bones he invokes the two yerges drapsas-caskanda' and 'imam samudram' (Tai. Ā, VI 6). Then the Sat Sr. (29.1. 26-29) provides that four branmacūrins or other brāhmanas, that are pure, tie up their locks on their heads that are to the right and keep dishevelled those on the left side of the head, they strike their right thighs and also the hide that is wound round the jar of bones, fan it with the fringes of their garments, go round the peg thrica with their left side towards the jar and the people living in the same house with the deceased) and women also do the same, 570 that lutes (vīna) are played upon and also conches are blown and other instruments like nāliha, tūna, panava are beaten and there is also dancing, singing and playing on musioa) instruments. This practice of dharana (symbolio) may go on for five, seven, nine, eleven days, half & month, a month or a year during which time one has to donate food and money (gold &c ) according to one s ability or on the last day according to some, 571 If one may offer a conjecture, this rite was intended to assure the deceased man (represented by the charred bones) that his wife had remained faithful and 
 
@@ -1213,7 +1213,7 @@ TH95 मुभिः । ..भूमेरायडादनार्थ तु 
 
 256 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1307,7 +1307,7 @@ Tu III 13 21 that after tbe brābbanas are fed on the 11th day after death the r
 
 262 
 
-History of Dharmaśāstra 
+
 
 [Vol. madhyama rites of the deceased may be performed by the father, the mother, sapindas, samānodakas and those belonging to the deceased's group (gotra) or by the king if le takes the wealth of the deceased. But the rites called uttara are to be performed only by the son, grandson, great-grandson, daughter's son or the latter's sons Even in the case of women, on the day of the anniversary of death every year an ekoddista srāddha may be performed for them. There is also another classification of śrāddhas viz. Navaśrāddha (those rites up to ten days after death), Navamiśra (those performed after ten days up to six seasons), Purana (those perfornied after a year ).591a 
 
@@ -1359,7 +1359,7 @@ HI D. 34
 
 266 
 
-History of Dharmaśāstra 
+
 
 (VOL. tion of a pisaca, from which he would not be freed upon if numerous other śrāddhas were later on offered for him, 595 The Brahmapurāna calls the body 'yātaniya'(i.e, one that has to undergo trials and torments), while the Agnipurāpa calls it 
 

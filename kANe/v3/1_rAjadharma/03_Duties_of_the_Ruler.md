@@ -81,7 +81,7 @@ U T E *** eta 11 FIFA 86, 24 ( + H2EU 215. 62 figlior 225. 25 with slight varia 
 
 77. Huurcoaterat tatagori grataryut shoot isaganfert TETTATO I FITECT: TY* 297: 11 fat quoted in trig. p. 141. 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -161,7 +161,7 @@ TEET HTWASIAT T UR. VIII. 21, 18.
 
 873. दशराजान समिता अपग्यदासमिग्यापरुणानपुयुष:।...दाशराशे परिय Wa*: SETE T UTTI . VII. 83, 7-8. 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -231,7 +231,7 @@ RTTTH FT pranga,
 
 68 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -287,7 +287,7 @@ The Visnudharmagūtra 108 ( ILI. 42 and 47-49 ) enjoins upon the conqueror not t
 
 TO for u. III. 42, 47-49; टस्थापि मरेग्मस्प तदाज्यं न विनाशपेत् । न मजाइमतो यस्मादम्पायेषु प्रवर्तते । कारपापन quoted by राजनीतिम p. 411, which adds येषाममात्यादीनामतमत्वाऽस्याये मानिस्तान पीपदेति पेपम्.hy2 
 
-History of Dharmaśāstra 
+
 
 ( Vol. having re-established several royal families that had lost their kingdoms (Gupta Inscriptions, p. 8). The Sukranitisāra (IV. 7-397-399 ) requires the conqueror to support the well-behaved son and the queen of the vanquished king or to give a fourth of the conquered kingdom to him and only go part of it to one who is not endowed with good qualities and the conqueror may appropriate the whole treasury of the conquered. 
 
@@ -347,7 +347,7 @@ TOE (p. 7) quotes from the augimo a long passage in which the mantras to be reci
 
 76 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -375,7 +375,7 @@ Hiranyavarnim harinim' occurring in the parisista to the Rgveda is the one for R
 
 78 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -407,7 +407,7 @@ The Visnudharmottara notes (II. 18.2-4) that on the death of the reigning king, 
 
 80 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -435,7 +435,7 @@ rites is interesting, viz. after the learned brāhmaṇas and priests sprinkle t
 
 1132. For a detailed and graphic description of the coronation of King Shivaji in 1674 A. D. vide 'Shiva-chatrapatimahārāja-caritra' by Malbar Ramrao Chitnis (ed. in 1882) pp. 120-125 (in Marathi). Shivaji's upanayana was performed on the 5th of the brigbt half of Jyestha ; for seven days various rites went on; Vināyakaśānti, Grahasānti. Aindri and Pauraa" dari are said to have been performed and he was actually crowned on the 13th of the bright half of Jyestha. In Sambhāji-rāje-caritra by the same author (edited by Rao Bahadur K. N. Sane, 3rd ed. of 1915) at p. 8 there is a description of the coronation of Sambhāji, son of Shivaji.82 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -469,7 +469,7 @@ ife qram oferint \#9:\#
 
 au 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -567,7 +567,7 @@ Whir gesemblies
 
 vol. XVII p. 264 ff, Cullavagga IV. 9, S. B. E, vol. XX pp. 24-27) was the procedure of the meetings of the oligarchies. The seven conditions (both for the welfare of the Vajjians and the Sangha) are set out in the Mahāparinibbāṇa-sutta, chap. I. (8. B. E. vol. XI. pp. 3-8) viz. holding full and frequent public assem blies, meeting together in concord and carrying out undertakings in concord, enacting nothing not already established and abro gating nothing that has been already enacted and acting in accordance with ancient institutions established in former days, honouring and revering and supporting elders and hearkening to their words, not detaining women or girls of their clans by force or abduction, honouring and supporting Vajjian shrines in town or country and not allowing proper offerings and ritos to fall into deguetude, protecting and supporting the Arahats among them. On the most important points in connection with a republic or oligarchy we have no information at all, viz. who were entitled to vote, what were the qualifications for membership of the assenibly, that governed the State, how voting took place, what was the period for which mem bers of the assembly were elected, whether the president was elected for life or a shorter period or was elected at all, what were the powers and procedure of the assembly, Vide Dr. Beni Prasad in 'Hindu Political Theories' p. 158 for criticisms. Rhys Davids ( in ' Buddhist India' p. 41 ) says that according to the Jātakas there were at Vesāli (modern Basadh in the Muzaffarpur District ), the capital of the Licchavis, 7707 rājās (or chiefs). In the Bhaddasāla-jātaka (Fausböll, vol. IV p. 148) there is a reference to a tank reserved for the bath of the families of the ruling chiefs ( rājās ) of the gana in the city of Vesāli. In the Mahāvastu ( ed. by Senart vol. I. p. 271) it is stated that there were twice eighty-four thousand nobles (rājānā) among the Licchavis. This explains what Kautilya means by * rājaśabdopajivinaḥ. These people called ' rājās' were probably the scions of the several branches of the Licchavis, who had in their hands the government and who were not doing manual (or agricultural ) work. Vide Government Epigraphic Report for 1899 p. 23 and Indian Historical Quarterly vol. IV p. 652, where it is said that in an inscription from Uttaramallur the extent of land and of Vedic learning required in a candidate for elec tion are specified as also the method of writing on tickets the names of candidates. But such records, even in South India, are very few and refer to village sabhas and there is nothing in the works on dharmaśāstra or arthaśāstra about the methods of92 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -671,7 +671,7 @@ w
 
 100 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -701,7 +701,7 @@ The Mahābhārata records the tradition that many kings of former times abdicate
 
 THE WHTSIMET 11 foreca gay yu n अयोध्या 23.27: दमेवासुतं प्राह राशि राजर्षयः परे। वनवासं भवाय प्रेत्य मे प्रपिता \#ET: \# ora 94. 19.102 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 

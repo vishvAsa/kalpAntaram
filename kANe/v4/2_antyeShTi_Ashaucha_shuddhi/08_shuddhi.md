@@ -71,7 +71,7 @@ P. 83,
 
 20 . 
 
-History of Dharmaśāstra 
+
 
 [Vol, 
 
@@ -137,7 +137,7 @@ The periods of impurity depended on many circumstances, There was a difference b
 
 274 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -235,7 +235,7 @@ If a man's father-in-law or mother-in-law die near (in the house of) the man, he
 
 280 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -275,7 +275,7 @@ H. P. 36
 
 282 
 
-History of Dharmaśāstra 
+
 
 [Vol. the coming of the day or night next to that on which the king dies, 631 
 
@@ -305,7 +305,7 @@ that, if a person stays in a different country and hears of a birth or death amo
 
 284 
 
-History of Dharmaśāstra 
+
 
 [Vol. three months), for one day if heard before nine months (but later than 6 months ) and thereafter (i. e. up to one year but later than nine months) one becomes pure by a bath. But the Mit, says 636 that this holds good as to all except one's parents and quotes Paithinasi and another smrti for the proposition that whenever a son staying in a distant country hears of the death of & parent whether within a year or after a year he has to observe aśauca for ten days from the day he becomes aware of it. Laghu-Āśvalayada (20.88) lays down the same exception in the case of a son. The Mit. (on Yāj, I, 21 last half) further says that the rules about atıkrāntaśauca apply only to a deceased person whose upanayana had been performed. The Dharmasindhu ( 433 ) remarks that there is no atikrāntāśauca as regards the periods of one day and three days prescribed on the death of one whose upanayana bad not been performed or as regards the periods of paksini and "hres days on the death of the maternal uncle and others of a different gotra. Similarly, there is no atikrāntāśaucs with reference to the asauca for three days prescribed in the case of samanodakas; but in these cases even after the lapse of the fixed time a bath is necessary. The rules about atkı āntasauca apply only to aśauoa on death for ten days. As in the case of the son, so in the cases of husband and wife and of co-wives among themselves even after the lapse of more than a year and even if the death is in a different country the husband or wifo or co-wife has to observe āśauca for ten days Tho paronts, avea when they hear of the death of an aurasa son after a year, bevo to observa aśauca for three days. On the news of the death of a sapinda living in the same country coming to a sapinda's ears after ten days but up to three months, the period of āśauos is three days, paksins up to 6 months, up to nino months one day and up to one year a bath. Rere also there are various views such as those of Madhava and others. Vide Suddhiprakasa pp. 49-51 for various views. 
 
@@ -329,7 +329,7 @@ game country coming to a person's ears after ten days from death and of the deat
 
 286 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -427,7 +427,7 @@ Exceptions to Aśauca
 
 292 
 
-History of Dharmaśāstra 
+
 
 (yol, from his hand, but with his permission). The Kūrmapurīda enumerates such articles They are 'fruits, flowers, raw vegetables, salt, firewood, butter-milk, curds, ghee, oil, drugs, milk and dry food' (like laddus, lājas ). Merici (q. by Mit on Yāj IIL. 17 ) and Trimsac-chloki verse 20 prosent even longer Lists of such things. 
 
@@ -461,7 +461,7 @@ On this topic there is a good deal of divergence between the views of the follow
 
 294 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -501,7 +501,7 @@ TV, 3,22. 'FATTET HẦU TIETY is in on the 5. Tb: *CTAT cxplains 'FAT SETRU
 
 [Vol. 
 
-History of Dharmaśāstra 
+
 
 (pp. 340-341 ) explains 654 sadyaḥ' as meaning "a portion of the day or of the night' and cites several authorities in support The Suddhiprakasa (p 92 ) esplains that sadyahśauca 'in some contexts means 'absence of āsauca,' while in others it means *bath' and with reference to those killed in battle and the like (to whom pindas have to be offered) it means 'a part of the day or of the night.' The Sartimuktāphala 665 (asaucalanda) p 481 says that 'sadyaḥsauca' means 'impurity that comes to an end by a bath' That pipdas have to be offered to those about whom there is 'sadyahśauca' is stated by the Adipurīna 665 According to the Suddhikaumudi (p 73) sadyahsauca' has to meanings, viz. (1) the entire absence of āśauca as in the cases of sacrificial priests &c (Yāj III, 28), (2) āśauca that is removed by a mere bath (as in Madu V. 76 ) 
 
@@ -535,7 +535,7 @@ H.D.38
 
 298 
 
-History of Dharmaśāstra 
+
 
 [Vol. (III, 64-65, often quoted as Chandogaparisista of Katyāyana ) states'in & gūtaka, a brahmacārin should not give up his peouliar duties (Veda study and yratas), a sacrificer his various actions (required) in a sacrifice after he has undergone diksa, one who is practising penance should not give up krcohra and the like; these do not incur impurity aven on the death of their father (or mother) The Kūrmapurāua 669 provides no impurity is declared on death in the case of perpetual or temporary brabmacārins, forest hermits or ascetics'. Similar rules are given by Atri 97-98, Lioga-purāna, pūryabhāga, chap. 89.77, The Mit. on Yāj IIL, 28 remarks that in the case of the three aśramas of brahmacārın, vānaprastha and yat, there is freedom from impurity in all cases and at all times; ascetics and brahmacārips have to undergo a bath with clothes on the death of their father or mother (Dharmasindhu p. 442 ); in the case of several others such as those who are continually making gifts or are observing vratas there is freedom from impurity only when they are engaged in those particular actions and not when they are engaged in any action whatever or when they mix up among others for everyday work, 670 Similar rules occur in Parāśara IL21-22. It has already been stated follow ing Manu V. 91 ( Visdu 22,86 ) thet a brahmacarin was not to perform the last rites (of carrying the corpse, crenation) for anybody except for five persons (viz. his parents, upadhyāya, ācārya and guru ) He did not incur āśauca by performing the funeral rites of his parents and offering water and pinda to them, But if he did so for any one other than the five mentioned by Manu he had to observe āśauca for ten days, and to undergo prāyasoitta and had his woanavanu performed again. A brahma Carin had to observe after samūrartana (returning from the Vedio teacher) asauca for three days for all relatives that died during the period of his studenthood ( Manu V. 88. Vispu Dh, S. 27,87). Gautama (14. 42-44) says generally671 that on the death of child 
 
@@ -727,7 +727,7 @@ We have seen (p, 270) that originally the sūtras (like San Sr.) and smrtis (lik
 
 308 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -917,7 +917,7 @@ BATTIST, U & I 6.17-21 quoted and explained by Imp. 100.
 
 318 
 
-History of Dharmaśāstra 
+
 
 [Vol. Davāla 717 prescribes the purification of the three kinds of ground: 'Purity is of five kinds, viz. digging up, burning (with wood or grass), smearing (with cowdung), washing (with water) or the fall of rain Even amedhyā ground may be purified by these five means employed together (whero a corpse is creniated or candālas dwell) or by four (i . omitting rainfall or burning in other cases of amedhyā); ground that is dustā is purified by three (digging up, burning and smearing with cowdung) or two (viz digging up and burning) and malınā ground is purified by one (i. e. by digging up). 
 
@@ -975,7 +975,7 @@ H. D. 41
 
 322 
 
-History of Dharmaśāstra 
+
 
 [Vol. stated in note 633, it is provided by Samvarta 22 that a house that is polluted by the existence of a corpse inside it should be dealt with as follows: earthen pots and cooked food should be cast away and thrown out of the house which sbould then be ameared with cowdung and then a goat should be made to go about in it smelling it and then the whole house should be sprinkled over with water in which gold and kisas are put in by brāhmadas rendered holy by the repetition of the Gayatri mantra; then the house becomes pure. Marici prescribes 224 that if a candāla (merely) entered a house, it can be purified by plastering it with oowdung, but if he were to stay in it Jong, purification can be had only by heating it and making flames of fire lick its walls. 
 
@@ -1049,7 +1049,7 @@ We may now turn to the purification of metals and vessels. Baud, Dh. S. I. 5. 34
 
 ដំ2 
 
-History of Dharmaśāstra 
+
 
 [Voi. 
 

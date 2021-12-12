@@ -39,7 +39,7 @@ FOUN
 
 300 
 
-History of Dharmaśāstra 
+
 
 In that work the word is used, according to Saṅkara, with reference to the Mahābhārata or the Manusmrti ( Vedānta sutra II. 3. 47, III. 1. 14, IV. 2. 14 ). 
 
@@ -71,7 +71,7 @@ Bphaspatiriva nayajāo Manuriva vinayajñaḥ, Yudhisthira iva dharmaparāyunal�
 
 FOUT302 
 
-History of Dharmaśāstra 
+
 
 the study of Itihāsa-Purāna-Rāmiyana Bhārata-pada-vākya Yājṅavalkya-Kātyāyana-Bhrgu Algiro-Mārkaydeya - Bhat tadarśanādi-saṭśāstrābhiratasya' (on p. 311). Here the Smrti uuthors Yajṅavalkya, Kātyāyana, Bhrgu ( meaning probably ·Manu'), Argiras and Mūrkandeya are specially mentionel, besides the six Philosophical systems of Bhatta 
 
@@ -151,6 +151,6 @@ In spite of all these drawbacks, an attempt will be made in the following pages 
 
 306 
 
-History of Dharmaśāstra 
+
 
 All these smṛtis are not equal in authority. Most of them are obscure and are only rarely cited by ancient commenta tors. Exclusive of the dharmasutras hardly a dozen emptis have found commentators. If we are to judge of the authority of a smrti by the commentaries thereon, then the Manusmrti stands pre-eminent. Next to it is the Yājsavalkyasmrti. 

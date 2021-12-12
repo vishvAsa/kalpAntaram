@@ -121,7 +121,7 @@ Ta and the other four are subordinate ; 80 in verrato oblations are offered to t
 
 814 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIII 
 
@@ -149,7 +149,7 @@ half they clor. 6. 16 holds the theatre
 
 816 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXIII 
 

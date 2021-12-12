@@ -73,7 +73,7 @@ p. 959.
 
 1 244 
 
-History of Dharmaśāstra 
+
 
 Agnikumāra, elder brother of Hara- | Alankārasudhānidhi, of Sāyana, 
 
@@ -415,7 +415,7 @@ castes, p. 48,
 
 1248 
 
-History of Dharmaśāstra 
+
 
 Banerji-sastri, A., p. 247. 
 
@@ -591,7 +591,7 @@ p. 4n.; quoted by Aparārka, pp. 34, 105; on Manu, pp. 309, 328; quoted in Srād
 
 1250 
 
-History of Dharmaśāstra 
+
 
 p. 644, 
 
@@ -773,7 +773,7 @@ p. 227.
 
 1252 
 
-History of Dharmaśāstra 
+
 
 recove 
 
@@ -941,7 +941,7 @@ Dāna-Vyāsa, p. 534. Corporations of warriors, p. 218. Danda, of four lovels, p
 
 1254 
 
-History of Dharmaśāstra 
+
 
 Dandanīti, pp. 266, 434; one of the Daughter-in-law, whether an heir, 
 
@@ -1121,7 +1121,7 @@ IA
 
 1256 
 
-History of Dharmaśāstra 
+
 
 closely connected with grhya- | Divyatattva, p. 929n. sūtras, p. 20; points of ditference Documents, no reference to, in Manu, between them and other smrtis, P. 334; referred to by Vasistha p. 21; of Gautama, pp. 22–38. 
 
@@ -1287,7 +1287,7 @@ I Garudavāhana Pagdita, p. 679. H, D.-158
 
 1258 
 
-History of Dharmaśāstra 
+
 
 VITIT 
 
@@ -1431,7 +1431,7 @@ pp. 843, 849, 852n.
 
 1260 
 
-History of Dharmaśāstra 
+
 
 Harasimhapandita, grand-father of Hastinibhitta, a village in Bengal, 
 
@@ -1955,7 +1955,7 @@ H.D.--159
 
 1266 
 
-History of Dharmaśāstra 
+
 
 Kukura, pp. 218, 252. 
 
@@ -2435,7 +2435,7 @@ pp. 548, 875n.
 
 1272 
 
-History of Dharmaśāstra 
+
 
 Nidāna, a kind of work, p. 45; of Nitiprakāśikā, of Janamejaya, p. 265. 
 
@@ -2749,7 +2749,7 @@ acan
 
 1276 
 
-History of Dharmaśāstra 
+
 
 Prāyascittaprakāśa, p. 942. 
 
@@ -2909,7 +2909,7 @@ bhatta, p. 904.
 
 1278 
 
-History of Dharmaśāstra 
+
 
 P. 842. 
 
@@ -3069,7 +3069,7 @@ p. 725. Sarngraha, vide Smptisamgraha.
 
 1280 
 
-History of Dharmaśāstra 
+
 
 date of, p. 142; doctrines of, pp. Smṛticandrikā, p. 741; ascribed to 140-42; story of, in Mahābhārata, Lolla Laksmidhara by Gode and p. 136; studied by Vājasaneyins, R. Subrahmanyam, p. 877; quotes pp. 20, 136; and Aparārka, pp. Varadarāja several times, p. 823. 716–17. 
 
@@ -3399,7 +3399,7 @@ Y
 
 1284 
 
-History of Dharmaśāstra 
+
 
 frinivāsadāsa, p. 566. śrīparvata, pp. 118, 121. śrngāramañjarl, of Bhoganātha, p. 
 
@@ -3539,7 +3539,7 @@ Bactria and India', p. 172.
 
 1286 
 
-History of Dharmaśāstra 
+
 
 Tātparyadipika, a com. on Tithi- | Țo laramalla, Rājā, finance niinisier 
 
@@ -3821,7 +3821,7 @@ author of A fiucada-akit, pp. 613, 614; view of, criticized by Prataja rulra, p.
 
 1290 
 
-History of Dharmaśāstra 
+
 
 Vikhanas, sūtra of, pp. 103, 277. Viṣnudharmastītra, pp. 112-127; Vikramārka or Vikramadityalleva of content of, pl. 113–15; resembles 
 
@@ -4011,7 +4011,7 @@ pp. 296, 473, 476, 4851., 48811,, Vratapaddhati, of Rudradbora, pol 502, 559, 59
 
 1292 
 
-History of Dharmaśāstra 
+
 
 Vyavabziramayūkba, pp. 305, 489, 
 
@@ -4143,7 +4143,7 @@ Ia
 
 1294 
 
-History of Dharmaśāstra 
+
 
 Yoga-kṣema, defined, p. 528; a learned and Ballālasena, pp. 437–38; 
 

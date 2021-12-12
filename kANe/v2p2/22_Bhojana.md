@@ -129,7 +129,7 @@ TTOR III. 69; Raud VATATU \#aforgian FERUIT Demgegurta 11 Terror quoted in fire.
 
 764 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXII 
 
@@ -165,7 +165,7 @@ X. 5. 2.9.
 
 766 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXII 
 
@@ -201,7 +201,7 @@ At p. 100 above it has been stated how brāhmaṇas following several oocupation
 
 1838 8. Fura: Trasagaranton menyera: qui: are protestat harga gain. XV. 29 ; gero que \# \# UTT; I gay on t. XV. 28. Some of the words are differently explained by the commontators. 548 or-Ara is one who chants, according to Harsdatta, 'udu tyan' (Rg. I. 50. 1.) and "citram' (Rg. I. 116. 1), which constitute a sāman of the Talavakaras, while the Chandogas bold it to be a different saman; Medhatitbi on Manu III. 185 says they are the limang called Jyosthadohas. The Naciketa fire is described in Tai. Br. III. 11. 7 and 8, and Kathopa niṣad I. 1. 17-18. Rg. I. 91. 6-8 contain tho word 'madhu' at the beginning of each. So one who studies these three madhu vorges may be called tri madbu'. Or possibly there is a reference to the Madhuvidy. roferred to in set. Br. IV. 1. 5. 18 and Bṛ. Up. II. 5. 16. According to Haradatta "Trisuparna' are either the three verges Rg. X. 114. 4-6 (ekah supar gah &o.) or the throc apuvukat of the Tai. Ar. X. 48-50 (brahmameta mana madhumotu mim).768 
 
-History of Dharmaśāstra 
+
 
 [ Ob. XXII 
 
@@ -333,7 +333,7 @@ a reparekas... gaminta VIII. 18. 1.
 
 776 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XXII 
 
@@ -553,7 +553,7 @@ F HI) at ota: * Et I wrotero tegrat: ata 1944: 11 in TK. . p. 337; TTT XI. 22-24
 
 790 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXII 
 
@@ -589,7 +589,7 @@ It is necessary to say a few words on drinking liquor ( madyapāna).
 
 792 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXII 
 
@@ -627,7 +627,7 @@ a paragramTTIHTI T. I. 8. 6. Vide urgareta 15. 15. 1-14 where the last is groi g
 
 794 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXII 
 
@@ -657,7 +657,7 @@ Gaut. II. 25,1897 Ap. Dh. S. I. 5. 17. 21, Manu XI. 94 forbid all kinds of intox
 
 196 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXII 
 
@@ -727,7 +727,7 @@ The Visnupurana III. 11. 94 remarks that after taking the mid-day meal one may d
 
 800 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXII 
 
@@ -789,7 +789,7 @@ towards her. In the Tai, S. II. 5. 1. it is stated 1917 'One should not address 
 
 804 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXII 
 
@@ -809,7 +809,7 @@ So far we have desoribed the daily duties of common men, particularly of brāhma
 
 806 
 
-History of Dharmaśāstra 
+
 
 [Ch. XXII 
 

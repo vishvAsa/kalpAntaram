@@ -17,7 +17,7 @@ Dia
 
 176 
 
-History of Dharmaśāstra 
+
 
 LIL 
 
@@ -49,4 +49,4 @@ af faali I Furant (1.0, ms, No. 1188). 1165 पुत्रदारसर्व
 
 178 
 
-History of Dharmaśāstra 
+

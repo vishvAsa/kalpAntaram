@@ -133,7 +133,7 @@ Santi 232. 23–24 ), so that in Kali only one quarter (or one foot) of dharma r
 
 1749. AT 7 pret af te garaianaf 149. 11. 1750. varit Paritaria i Tusfahan sa Hora 77** 8 maaf 190. 9.892 
 
-History of Dharmaśāstra 
+
 
 [ Voi. 
 
@@ -199,7 +199,7 @@ E II, 31. 59-60, Harivamsa, Bhavisyaparva 3. 15) and arura rag FTATATAT I ET geh
 
 896 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -239,7 +239,7 @@ mi natabould not be followed here also or that Varahamibira elsewhere employs & 
 
 898 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -347,7 +347,7 @@ Most of the important astronomical details will now be set out from the time whe
 
 908 
 
-History of Dharmaśāstra 
+
 
 Vole 
 
@@ -603,7 +603,7 @@ Since only 5046 years have elapsed (in 1945 A. D.) from the beginning of the Kal
 
 924 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -743,7 +743,7 @@ Kalivarjya
 
 w at erat wi sa). The निर्णयसिन्धु (p. 368) reads पालायाः क्षतयोग्यास्त.982 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -809,7 +809,7 @@ a XII. 69-71..
 
 936 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -835,7 +835,7 @@ crossing the sea to Ceylon for purposes of trade. In dramas like the Ratnāvali 
 
 938 
 
-History of Dharmaśāstra 
+
 
 | Vol. 
 
@@ -869,7 +869,7 @@ TRINITWERP Warrani g. by warraf p. 877 and by . AT. I. 2. 228 (at from recru). p
 
 t TUTTAVAT कर्तग्या महिनोपरि आभित्य सधैर्य चसास्वर्गप्रक्षाबसा 
 
-History of Dharmaśāstra 
+
 
 Wol. 
 
@@ -947,7 +947,7 @@ TUTTET I TO\#Urowiutare Tropa aeg pe by FANT. OD 1. III. 261, \#qr p. 1087.
 
 944 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -987,7 +987,7 @@ YHETTA Torra: as one word meaning 'secret expiation for mabāpatakas other than 
 
 946 
 
-History of Dharmaśāstra 
+
 
 i Vol. 
 
@@ -1127,7 +1127,7 @@ A brāhmaṇa was called upon to tend his Vedic or grhya fires. If he went to di
 
 954 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1169,7 +1169,7 @@ their needs for three days and those who do not collect grain even for the next 
 
 956 
 
-History of Dharmaśāstra 
+
 
 ( Voi. 
 
@@ -1307,7 +1307,7 @@ The Tai. Br. 1875 ( 11I. 4. 1-19) contains a description of the procedure of hum
 
 181962 
 
-History of Dharmaśāstra 
+
 
 
 
@@ -1341,7 +1341,7 @@ A T 1 orangeforent surugra: I forget wat ditera Traia i te q. by spotrani p. 71;
 
 964 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 

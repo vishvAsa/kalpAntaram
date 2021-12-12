@@ -747,7 +747,7 @@ It appears that the continuous seven day week did not form part of the religious
 
 680 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVIII 
 

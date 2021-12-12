@@ -86,7 +86,7 @@ down upon. Steele (in 'Law and Custom of Hindoo Oastes,' first published in 1826
 
 534 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XI 
 
@@ -192,7 +192,7 @@ grup.
 
 560 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XI 
 
@@ -286,7 +286,7 @@ storie BITTE grprint quoted in Fezo, 44. p. 257.
 
 1314. भर्तुरहमाया व्रतोपवासनियमेज्यादीमामारम्भा श्रीधर्मः शालिखित quoted in (KURIT) p. 262.566 
 
-History of Dharmaśāstra 
+
 
 [ Gh, XI 
 
@@ -348,7 +348,7 @@ g uty area oferi forn on 11. I. 80. 8. D. 78
 
 570 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XI 
 
@@ -378,7 +378,7 @@ The humane character of the legislation of the Indian sages is seen by the fact 
 
 57% 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XI 
 
@@ -496,7 +496,7 @@ A RT 16, 61. 8. D. 73
 
 578 
 
-History of Dharmaśāstra 
+
 
 ( Oh. XI 
 
@@ -568,7 +568,7 @@ fort atua fe facry : 1) TT (p. 640); the art on . 1. 2. 7. (p. 115) bag TOT 97 f
 
 582 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XI 
 

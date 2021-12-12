@@ -15,7 +15,7 @@ FOUN
 
 460 
 
-History of Dharmaśāstra 
+
 
 But it is doubtful whether we possess the ancient smṛti of Parāśara. The extant smrti is probably a recast of it as it mentions Yāj. in the first chap. (p. 2 ). The Garudapurnya in chap. 107 gives a summary (in 39 verses ) of the Parāśara smrti. In doing so it takes parts of the latter and pieces them together. For example, verses 2-4 in the Garudapurāụa (chap. 107 ) are' srutiḥ smrtiḥ sadācāro yah kaścid vedakar tṛkah | vedāḥ smitāļ brahmañāılau dharmā Manvādibhiḥ sadā Il dānam kaliyuge dharmaḥ kartāram ca kalau tyajet i pā pakrtyam tu tatraiva sāpam phalati varsataḥ Il ācārāt prāpnuyāt sarvam sat karmūni dine dine i sandhyā snānam japo homo devātithyādipūjanam li' These are taken verbatim or with slight changes from the Parāśara-smrti; compare:'na kaścid veda kartā ca vedasmartā caturmukhaḥ i srutiḥ smrtiḥ sadācārā nirnetavyāśca sarvadā i tathaiva dharmam smarati Manuḥ kalpāntarāntare 1 tapaḥ paraṁ... dānamekaṁ kalau yuge l... tyajet-deśam kṣtayuge... kartāram ca kalau yuge I...krte tū tatkśanāt sāpaḥ... kalau samvatsarena tu ll chap. I. verses 20, 21--23, 25, 27 and vide 39 for verse 4 of the Garuda-purāna. This eastablishes that the Garudapurāna regarded the Parāśara-smrti authoritative and ancient. There is another problem to be considered. Kautilya mentions six times the views of Parāsara or the Pārāśaras on various aspects of politics and state administration. 
 
@@ -115,7 +115,7 @@ FOUNDED
 
 464 
 
-History of Dharmaśāstra 
+
 
 appears to have been a practical man. He exhorts his readers to save their bodies first in invasions, journeys, diseases, calamities and then care for dharma. He recommends the non-observance of rules of purity in times of difficulty and adherence to the strict rules of dharma when one is at ease. 499 
 
@@ -157,7 +157,7 @@ TO
 
 466 
 
-History of Dharmaśāstra 
+
 
 other rites ; gifts ; proper persons to receive gifts ; V. concern ing srāddhas ; VI. impurity on birth and death; prāyascittas for various acts; VII. cāndrāyana and other penances; VIII. gifts ; IX. rites for propitiating Ganesa and the planets, Rudra &c; X Rājadharma; dharmas of forest hermit and yati; XI. the different varieties of Brahmacārin, bouseholder, forest hermit and yati; XII. prāṇāyāma and other angas of yoga. 
 

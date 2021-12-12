@@ -137,7 +137,7 @@ S a rat spre acum . V. 39 12, 19. परिजज्ञिरे विरूप
 
 342 
 
-History of Dharmaśāstra 
+
 
 I Vol. particularly of Yaina (Rg VII. 76. 4, X. 14 10, X, 15. 8-10) 766 The pitts are said to be fond of Soma drink (Rg. X. 15.1 and 5, IX. 97 39), they lie down on kuśa grass (Rg X15,5), they come with Agni and Indra to partake of the offerings (Rg X, 15. 10 and X, 16.12 ) and Agni is also said to carry the offerings to the prirs (Rg X, 15. 12). Fire is supposed to take the spirit of a crematod person to the prirs (Rg. X 16, 1-2, 5=., V. 18. 2. 10, Rg X. 17, 3). In later works also (e. g. in Mārk, chap. 45), Brahmā is supposed to have created in the beginning four classes viz. gods, asuras, pitrs and human beings Vide also Brahmāndapurāna, Prakriyā, chap. 8, and upodghāta chap. 9. 35 (ityete pitaro deyā devāśca pitaraḥ punah anyonyapitaro hyete). 
 
@@ -181,7 +181,7 @@ Aare: OSTET ETTI FEAT S 4 magi q. by PAT 4. P 11 from हेमाद्रि, 
 
 344 
 
-History of Dharmaśāstra 
+
 
 I Vol. (IL, 193–198) mention several classes of pitrs called Somapās, Hayirbhujah Ajyapās and Sukālins with 
 
@@ -293,7 +293,7 @@ literath from these known as telas term in Perut whe Fora no need aroper al rite
 
 350 
 
-History of Dharmaśāstra 
+
 
 [Vok 
 
@@ -333,7 +333,7 @@ haspati dom being to mentioned1977. ht in falgebra og
 
 352 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -381,7 +381,7 @@ E, t.15
 
 354 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -455,7 +455,7 @@ Procedure of Astakā IV)
 
 358 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -483,7 +483,7 @@ $20. Veddhi' or "Abhyadayıka" (referring to prosperity or good luck) Sraddba is
 
 360 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -787,7 +787,7 @@ N. D. 48
 
 378 
 
-History of Dharmaśāstra 
+
 
 (Vol 
 
@@ -913,7 +913,7 @@ Saṅkhbat has sluda tringciket, Yoga, Odd the Vedas
 
 386 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -983,7 +983,7 @@ Re as reading and
 
 890 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1019,7 +1019,7 @@ Brahmanas vere declared to be apankteya 879 (not fit to sit in the row of brahma
 
 392 
 
-History of Dharmaśāstra 
+
 
 [Vol. though learned, but these are not apānktey&. The Ap. 550 Dh, S, states that one suffering from white leprosy, a bald man, the violator of another man's bed, the son of a brahmana who was a soldier by profession, the son of (brāhmana who had become like) a śūdra from a brāhmana woman--these defile the company if they are invited at & śrāddha repast. Vas, Dh. S. XI 19 also gives a brief list viz, 'one should avoid naked (ascs tios), those suffering from white leprosy, impotent men, blind men, those who have black teeth, those afflicted with black leprosy and those who have deformed nails,' very long lists of persons unfit to be invited at a śrāddha are given by Gaut, XV. 16-19, Manu IL 150-166, Yā). I. 222-224, Visdu Dh. S. 82. 3–29, Atri (verses 345-359 and 385-388), Brhad-Yama III. 34-38, Brhat-Parāśara pp. 149-150, Vrddha-Gautama pp. 580-581, the Vayu-purana 83.61-70, Apuśāsana-parfa 906-11, Matsyapurāne 16,14-17, Kūrma (II 21, 23-47), Skanda VII. 1.205,58-7%, VI 217.11-20, Varahapurāna 14,4-6, Brahma purāna 220. 127-135, Brahmandapurāna (Upodghata 15,39-44 and 19.30-41), Markandeya 28,26-30, Visnupurāpa (III 15.5-8), Nāradapurāna (pārvārdha 28.11-18), Saurapurāna (19,7-9) and soveral other works. The list in the Manusmrti is one of the longest and that is set out here. One should not invite & brahmana that is (1) a thief, (2) an outcasta, (3) an impotent man, (4) an atheist, (5) one who wears his hair in braids (& student yet learning Veda); (6) one who does not study the Veda, (1) one who is afflicted with a skin disease, (8) & gambler, (9) one officiating as a priest for a multitude of men, (10) a physician, (11) temple priest (who worships images for money), (12) vendor of meat, (13) one who makes his livelihood as shopkeeper, (14 and 15) a paid servant of a village or of a 
 
@@ -1039,7 +1039,7 @@ who haseer of docunard, (48) and lary: (46) Teacher or puce with anduces other p
 
 394 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1113,7 +1113,7 @@ Hemādri (Srāddhakānda, pp, 380-385 ) holds an intereste ing disoussion as to 
 
 398 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1147,7 +1147,7 @@ Some of the smrtis were very strict in laying down the qualifications of brābma
 
 400 
 
-History of Dharmaśāstra 
+
 
 (Vol. author 895 further says that six persons are merely brahma bandhus (i, e. brāhmanas by birth or caste alone) viz, one who is hired by a śūdra or a king as a servant, who has a śūdra woman as his wife, who is a village priest and he who subsists by killing (animals) or by oatching them. So early as the Mahābhāsya 89 it was stated that austerities (leading a life of restraint and strict observances), Vedic learning and birth (from brābmapa parents) are the causes of (a man being called) a brāhmada and that he who is devoid of the first two is a mere brahmana by caste (but not a real brāhmapa). It is curious to note that Yama stated that, if brahmanas that do not declare (or point out) the auspicious naksatra or tathi or day or mu. harta and other auspicious matters, eat (sraddha) food it be comes inexhaustible. 
 
@@ -1193,7 +1193,7 @@ H, D, 51
 
 402 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1219,7 +1219,7 @@ of brāhmanas, at least nine or as many as ho is able (to feed) and that they sh
 
 404 
 
-History of Dharmaśāstra 
+
 
 [Vol. choice of) ineritorioua brālmanas; thereforo one should not desire a large company 907 The Kūrorapurāpa (uttarardha 22.32 ) insists that an atithe must be fed at a śrāddha or other, wise the śrāddha is not praiseworthy. Though these ancient works insisted upon the avoidance of large preparations and expenses for śrāddhas in honour of a deceased person, there were other smrtis that favoured lavish distribution of wealth in śrāddhas. For exanıple, Brhaspati lays down: '( An heir ) should lay aside half of the wealth that comes to him (by inheritance ) for the benefit of the deceased owner and should expend it in the monthly, six-monthly and yearly śrāddhas'. The Dāyabhāga XI. 12 approves 908 of this and also quotes Ap, Dh. S. II. G. 13.3 'On the failure of a sapinda the teacher of the Veda takes the wealth of the deceased, on failure of the teacher, the pupil takes it and having inheri ted it he should employ it in the performance of works of charity for the benefit of the deceased' (or he himself may enjoy it). These passages show to what lengths the cult of benefit to the soul of the deceased was carried in India by certain writers. More practical authors such as Haradatts did not relish these extreme views. In severa) purādas such as the Vayu 9084 and Visou there are express directions that when a śrāddba is performed at Gayā, it should be on a profuse scale and no stinginess 909 (lit. cheating in money matters ) in spending wealth should be shown there; otherwise the performer would not reap the benefit of the performance of śrāddha at that holy place. The Padmapurāna appears to inculcate profuse 
 
@@ -1299,7 +1299,7 @@ is an ancient one and only repeated by the 1969. Compare ATT III 192 where we ha
 
 408 
 
-History of Dharmaśāstra 
+
 
 [Vol, 
 
@@ -1447,7 +1447,7 @@ F T ETE 78 12 and 15 g in SATTE (9 p. 555) and faiata. (541) p 416, The Fas ( p.
 
 416 
 
-History of Dharmaśāstra 
+
 
 (Y 
 
@@ -1571,7 +1571,7 @@ Manu II. 267–272, Yā). I. 258-260, Visṇu Dh. S. 80 1 ff, Apuśāsanaparya c
 
 424 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1603,7 +1603,7 @@ If a person is destitute, some of the Purāpas such as the Vispu (III. 4.24-30) 
 
 \#. 0, 54 
 
-History of Dharmaśāstra 
+
 
 I Tol, 
 
@@ -1661,7 +1661,7 @@ om means the same thing But as the verse that immediately follows (Rg. X, 16 11 
 
 430 
 
-History of Dharmaśāstra 
+
 
 I vol. 
 
@@ -1679,7 +1679,7 @@ It will be noticed that many of the fundamental concep tions of a pāryana-śrā
 
 960 अथैनं (मजापति) पितरस प्राचीनावीतिनः सव्यं जान्नाच्योपासावरतानमधी मासि मासि वोशन स्वधा वो मनो जवो पश्चन्द्रमा वो ज्योतिरिति। शतपथ II. 4.22... मासि भास्येव पितृग्यो ददतो यदैवैप न पुरस्तान पश्चाइशेऽथै यो ददाति...(7}...सधा अपराह्ने ददाति पूर्वालो वै देवाना मध्यन्दिनो मनुष्याणामपराहू पितृणां तस्मादपराहे ददाति । स जपनेन गार्हपत्य प्राचीनावीती भूला दक्षिणासीन एतं गृह्णाति। स तत एवोपोत्थायोत्तरेणा न्याहार्यपचनं दक्षिणा तिष्ठजवहन्ति सशत् फलीकरोति सकृदु ह्येव पराश्च पितरस्तस्मात्सशत् फलीकरोति । {9} त अपयति तस्मिनधिश्रित आज्यं प्रत्यानयति... (10) स उदास्यासीद्ध आहुती जुहोति देवेन्य.। .. अथैतपितृयज्ञेनेवाचारीत. स देवैः प्रसूतोऽथैतपितृम्यो ददाति । ... (11) स वामये सोमाय च जुहोति ... (12) स जुहोति । अग्नये कव्यवाहनाय स्वाहा सोमाय पितमृते स्वाहेत्यगौ मेक्षणमम्यादधाति तस्विष्टकृद्धाजनमथ दक्षिणेनान्नाहार्यपचन सकृदु लिखति नदिभाजनम् ...1 (13) अथ परस्तादुल्सुकं निदधाति । स यदनिधायोल्मुकमथै तपितृभ्यो दद्यादसुरक्षसानि हेपामेतद्विमनीरत् ..। (14) स निदधाति । ये रूपाणि प्रति मुञ्चमाना असुरा: सन्तः स्वधया चरान्ति। परापुरोनिपुरो ये भरन्त्यामेष्टाल्लोकात्मणुदात्यस्मा. चिति ।...। (15) अधोदपात्रमादायावनेजयति। असायवनेनिस्वेत्येव यजमानस्य पितरमसाव. चनेनिवेति पितामहमसावक्नेनिवेति प्रपितामहं तद्यथाशिष्यतेऽभिपिञ्चदेवं तत् । (16) अथ सकृदाच्छितान्युपमूलं दिनानि भवन्ति अग्रामिव चै देवाना मध्यमिव मनुण्याणा मूलमिव पितुणां तरमादुपमूलं दिनानि भवन्तिः । (17) तानि दक्षिणोपरतणाति । तत्र ददाति सवा इति ददातीतीच वै देवेभ्यो जुह्वयुद्धरन्ति मनुष्येभ्योऽथैवं पितॄणां तस्मादिति ददाति। (18) स पदाति । असावेतत्त इत्येव यजमानस्य पित्रे ये च त्वामन्वित्यु हेक आहुस्तदु तथा न ब्रयान्वयं वैतेपा सह येपा सह! तस्माटु यादसावेतत्त इत्येव यजमानस्य पित्रेऽसावेतत्त इति पितामहा यासावेतत्त इति प्रपितामहाय... (19) तत्र जपति । अब पितरो मादयध्वं यथाभागमावृषा यध्वमिति यथाभागमभीनेत्येवैवदाह । (20) अथ पराइ पर्यावर्तते। तिर इव चै पितरो मनुष्येभ्य तिर इदैतद्भवति स वा आतमितोरासीतत्याहुरेतावान्ह्यसुरिति सवै मुहूर्तमेवासिला। (21) अथोपपल्लथ्य जपति । अमीमदन्त पितरो यथाभागमावृपायिपतेति यथाभागमाशिपुरित्येकै सदाह। (22) अथोदपानमादायावनेजयति । असाववनेनिवेत्येव यजमानस्य पितरमसाववने निति पितामहमसाववनेनिवेति प्रपितामहं तद्यथा जक्षुषेऽभिषिञ्चेदेव तत् । (23) अथ नीति मुदता नमस्करोति । पितृदेवत्ण वे नीविस्तरमाजीविमुद्दता नमस्कारोति...पकृत्वा नमस्करोति पडूवा अतव ऋतः पितर ...गृहान्नः पितरो दत्तति गृहाणा ह पितर ईशते। एपो एतस्याशीः कर्मणोऽधावजिप्रति मत्यवधाय पिण्डान् स यजमानभागोऽनौ सदाशिलान्यम्यादधाति पुनरुतमुकमपि सृजति । (24). 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1747,7 +1747,7 @@ a TOTT TETET Quinta Torta . The stay. (od +1. p. 148) explaias: 772 TA E ITIT 2 
 
 436 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -1835,7 +1835,7 @@ occupied), he should, with the permission of the invited brāh mapas, invoke the
 
 442 
 
-History of Dharmaśāstra 
+
 
 [Vol. under the left arm (i.e, being prācināviti) the performer should offer to the pitis (i, e, to the three brāhmanas representing them) double-folded kusas (with water) for a seat on the left (1 o on the seats already occupied kuśas should be placed on the left side for a ustara), he should then invoke 988 the pitrs after taking the permission of the brāhmapas vith the rk 'usantas-tvā' (Rg, X. 16. 1%, Vāj, S. 19, 70, Tai, S. II. 6. 12. 1), and should then recite in a low voice the mantra (āyantu nah putarah) 'may the pitis come to us' (Vaj. $ 19. 58). The performer, having scattered sesamum seeds all round (the brāhmapag) with the mantra 'Apahatā (Vāj S II. 29), should employ sesamum for all purposes where yavas were employed in the daiya part of the ceremony) and should perform all the items such as giving arghya (water for worship) for the pitrs as before (for the daiva rite). After offering arghya water, he should collect the drops of the ar ghya water fallen from the hands (or fingers) of the brāhmapas in one vessel (the pitr vessel), them turn it upside 
 
@@ -1919,7 +1919,7 @@ TERSATRIATETRI' folio 25b,
 
 448 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -1977,7 +1977,7 @@ family that were cremated or not cremated bs gratified by the food offered on th
 
 452 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -2043,7 +2043,7 @@ ___1015 ततो निवृत्ते मध्याह्न लसरो
 
 456 
 
-History of Dharmaśāstra 
+
 
 (VOL who have shaved themselves and pared their nails, should offer them materials for brushing the teeth and request them to sit down on separate seats, then give them oil and water for bathing. It will be seen that hero the purāpa has added several details that were not provided for by the Aśv. gr. (1, 966), Manu (III. 208 ), Yaj. (1 226) and even by some of the puranas such as the Varaha 14, 8, which begin the procedure with seat ing the brāhmanas in the afternoon on seats after welcoming them. Many more examples could be given, but that attempt is not made owing to considerations of space. 
 
@@ -2073,7 +2073,7 @@ H. D. 5$
 
 458 
 
-History of Dharmaśāstra 
+
 
 I Vol. for invoking the Visvedevas in Pārvana-śrāddha are two Fiz. 'Visvedevāsa agata' (Kg. II. 41.13) and 'agacchantu mahābhāgā' (q. above in note 984), while the Sm, C. (p. 444) prescribes an additional mantra 'vißve devāh sruputa' (Rg. VI 52. 13). 
 
@@ -2107,7 +2107,7 @@ It is laid down that the performer has to take ācarana (sip water) in śrāddha
 
 1022. W AT I HITASTR oraria i FATTER rogera PE THAT Tq by years (08 T ) folio 622. 
 
-History of Dharmaśāstra 
+
 
 [Vol. An important quostion which exercised the minds of many modiova) writors was 'who was the real recipient (sampradāna)1023 of tho offerings made in srāddha, whether the brābmanas or the pitrs', Rolying on tho words of the Aśv. gr. IV.8.1 (quoted above in n. 9GG 'etasniin kale ... dinam) and passages of the purānas such as the Varāba (13.51) vibhave sati viprobhyo asmān uddiśya dasyati', the Mahārnavaprakāśa, Harihara and some othors hold that brāhmanas were the recipients, while othora Jike Sridatta, relying on indications furnished by śrutt passages liko Vāj. S. 19. 36 (alıṣan pitarah amimadanta piarah) and such formulas as mar-elał le argiyam' or 'etadrah pitaro võsah,' hold that tho real recipients intended were the pitrs, but, as tho pitrs liad gone to another world and could not be bodily prosent to receive the gifts of such things as sandlewood paste, flowers and clothes, the latter were only handed over or assigned to the brāhmanas who were for the moment contemplated as not differont from tho pitrs.1023a Vide Sm, C. (śrāddha pp. 447 449), Sr. Pr. pp. 30-31 for a discussion of these two yiov points. It should, however, be noted that the water giren to the brahmanas and the dal sınā given to them were only meant for the brāhmanas, the former for purification and the latter for the inexhaustible merit that daksidā to brahmapas conferred. 
 
@@ -2141,7 +2141,7 @@ There is a great deal of discussion about agnaulcarana mon tioned in Yaj, I. 236
 
 462 
 
-History of Dharmaśāstra 
+
 
 I Vol. 
 
@@ -2181,7 +2181,7 @@ __1032. अग्नये काव्यवाहनाय स्वाहे�
 
 464 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -2387,7 +2387,7 @@ pinda skould be a bilva fruit in the size of
 
 478 
 
-History of Dharmaśāstra 
+
 
 (Vol. size of the pipdas. Marici (quoted by Aparārka p. 507) provides that in pārvana-śrāddha the pinda should be of the size of undried āmalaka fruit, of the size of a bilva fruit in Ekoddista, in navaśrāddhas the pinda should be bigger than in any one of the preceding when offered every day during the days of impu rity on death, The Skandapurāda says that pindas should be of such a size as would enable a calf two years old to put it easily into its mouth. 1073 Angiras (q. by Sm. O p. 475 and Hemadri, srāddha p. 1429) prescribes that the pipdas may be of the size of kapittha or bilra fruit or of the size of a hen's egg or of an analala or badara fruit. In the Maitrāyaniya-sūtra 1074 it is said that the pinda for the paternal grandfather shonld be bigger than that for the father and should be in the middle (of the three pindas), that the pinda for the great-grandfather should be the largest of all. The next point is from what materials the pipdas were to be made. If pindas yere offered before agnaularan, they were to be made from the boiled rica (oaru) prepared for agnaukarana. If made after agnankarana, the pindas were to be made from the cooked food (reinaining after agnaukarapa) mixed with sesamum (vide Yaj I 242). If pindas were to be offered after the brahmanas took their dinnor, the pindas were to be made from the remainder of the food cooked for the brāhmanas which was to be mixed with tho boiled rice for agnaukarana as stated in Katyayana's Śruddha sutra. 1975 The pindas vere to be placed according to the Matsya 1076 on darbhas spread on the ground cleaned with water mixed with cow's dung and urine. There were othors such as Deyala, the Brabmapurada and Bhavisyapurāna that proscribod that an altar, either circular or squore, of sand was to bo razsod on ground 4 fingers in height and one cubit in extont near tho plates from which brālmanas were to eat and thereon dartlas 
 
@@ -2499,7 +2499,7 @@ It is now necessary to illustrate how pārvana śrāddha is performed in modern 
 
 486 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -2525,7 +2525,7 @@ Western India may be set out as follows:-(From the references added in the text 
 
 488 
 
-History of Dharmaśāstra 
+
 
 (Vol. (in another vessel) with the mantra "Tilosi' (quoted in note 966), Bhrogarāja leaf with the mantra 'mā kākam' (Rg. VI 48. 17), betelnut, gold (or coin ). Then he repeats the Purusa-sūkta 10% (Rg. X. 90), Rg X 128 1-9, IX 58 1-4, Rg X, 126. 1-8, Rg. IV. 405, Rg. VII. 89 5, the sacred Gāyatri with om and the three Vyābrtis, Rg. VII 56. 12, Rg VIII, 44. 21, 17, Rg. VIII, 95. 7-9. Then after repeating the rell-known verse ‘apavitrah pavitzo vā: 1097 (whoever, whether pure or impure or being in any state whatever, remembers the pame of Visnu becomes purs externally as well as internally ), he requests 'May everything such as the place and the materials be rendered pure'. The brāhmadas reply 'let it be 80.' Then placing some coin on the ground, the performer having in his hand sesamum grains, water and kūśas goes round (pradaksinā) the brāhmaṇas thrice, and repeats three verses (in classical sanskrit) in praise of the dust of the feet of brāhmapas and a Vedic passage from Tai Ă. II, 15 1098 All the devatās reside in a brāhmada who knows the Veda; therefore every day one should perform obeisance to brāhmapas knowing the Yeda. He should not utter anything derogatory or evil (either true or false) about them. (By doing so) he pleases all these devatās. After making obeisance (to the brāhmanas) twice he should be prācīnāviti, repeat the verse 'akrodhanaih' (note 913 p. 407 above) and request the brāhmadas 'way you be pleased to say that I have complete adhihira to perform the sāmvatsarikaśraddha of my pitrs this day.' The brālmanas shou}d reply 'let there be this adlıkāra for the performance of sraddha.' Then being upavitzn the performer requests 'may you declare that this time is the proper time and that the food cooked is fit for being offered' The brāhmanas reply 'let it be go.' Then he asks the permission to give invitation to the brāhmapas. They give it. Then he touches the right kneo of one brāhmana and says "you should find time to accept the invitation to act as representing the Viśve-deyas named Purūraya and Ardrava in this pratisāmvatsarika sraddha of my pitrs'. The brahmana replies 'yes, be it so.' Then tha performer addresses the second Vaiśvadevika brābmapa in the 
 
@@ -2735,7 +2735,7 @@ He says 'I shall remove the pindas'. They reply 'do remove'. Then he repeats the
 
 502 
 
-History of Dharmaśāstra 
+
 
 [Vol. remove the plates in which the brāhmanas had their dinner.' Then he lays aside the kurca. He then recites the perse "Vāze vāje' (Rg. VII, 38,8). Then savyam. Then he says 
 
@@ -2839,7 +2839,7 @@ Raksoe-13 bes12. 90. 1. But
 
 508 
 
-History of Dharmaśāstra 
+
 
 [ Yol 
 
@@ -2871,7 +2871,7 @@ From considerations of space the procedure of pārvana śrāddha among Hiranyake
 
 510 
 
-History of Dharmaśāstra 
+
 
 (Vol. laid down by Manu (III. 122) and māsikaśrāddha may be per formed after masi-śrāddha. In modern times no one performs māsitrāddha or māsika-śrāddha strictly in accordance with the ancient rules. Srāddha is supposed to be performed by feeding a brāhmana and giving him a daksidā of a fov annas. The Sraddhatatty& (Jiv., part 1 p. 254) provides, after quoting Matsya and Bhavisya, that, if a person is unable to perform a pāryanaśrāddha every month, he should perform one at least thrice a year when the sun is in the zodiacal signs of Kanya, Kumbha and Vrsabha and that if he is unable to perform even thrice then he should perform at least once when the sun is in the sign of Kanyā. 
 

@@ -23,7 +23,7 @@ According to Gautama, Apastamba, Vasiṣtha, Manu, Yājña valkya - principal so
 
 11. . - A 
 
-History of Dharmaśāstra 
+
 
 Sec. 3 When Dharmaśāsira works were first composed .. pp.12–19 
 
@@ -51,7 +51,7 @@ Sec. 6 Baudhayana-dharmasutra :
 
 .. pp. 38-53 Baudhāyana is a teacher of the Black Yajurveda-arrangement of Baudhayana kalpa according to Dr. Burnell and Dr. Caland - Baudhāyanagrhya presupposes the Baudhāyanadharmasūtra - gshya (I11.9.6) speaks of pravacan:kāra Kanva Bodhāyana and sūtrakāra A pastamba - tarpana in Baudhayana dharmasutra (II. 5. 27 ) men tions Kanva Bodhāyana, Apastamba and Hiranyakesin - contents of Baudhāyanadharmasūtra - extant sūtra has not come down in tact-fourth praśna probably an interpolation - third praśna also not free from doubt - Baudhāyana III.10 taken from Gautama. Baudhā yana III. 6 agrees closely with Viṣnudharmasutra 48 - Dr. Jolly thinks both borrowed from a conimon source - probably Visnu borrows from Baudhāyana - repetitions exist even in the first two praśnas - form and structure of Baudhāyana - quotes numerous verses, even in the first two praśnas - language of Baudhāyana often departs from Paninian standard - literature known to Baudhayana - several authors on dharma together with their views mentioned by Baudhāyana - Asura Kapila said to be originator of asramas-Sabara, Kumārila, Visvarūpa and Medhātithi refer to Baudhāyana dharma sūtra - home of Baudhāyana - Baudhāyana is styled pravacanakāra and Apastamba sūtrakāra - Bühler holds that Baudhayana was a southern teacher - sets out five peculiar usages of southern part - buotes several views about Āryāvarta - age of Baudhāyana dharma 
 
-History of Dharmaśāstra 
+
 
 sūtra - later than Gautama - Bühler's reasons for placing Baudha yana a century or two earlier than Apastamba not convincing-diver gences between Baudhāyana and Apastamba - style of Baudhā yana compared with that of Apastamba - Baudhāvana to be placed between 500-200 B. C.- numerous sūtras of Baudhayana identical with those of Apastamba and Vasiṣtha - Baudhavana mentions several appellations of Ganesa, just as Mānavagļhya does and mentions seven planets, Rāhu and Ketu- Govindasvamin commen ted on Baudhayana. 
 
@@ -79,7 +79,7 @@ Sec. 9 Vasistha-dharmasutra :
 
 .. pp. 94-112 Different editions of Vasistha contain different numbers of chapters - Kumārila says it was specially studied by Rgvedins - ex planation of this statement - nothing special in the Vasisthadharma sūtra to connect it with Rgveda - contents of the Vasiṣthadharma sūtra - style of Vas. Dh. S. resembles Gautama's - many sūtras of Vas, identical with Gautama and Baudhāyana - form of Vasistha dharmasūtra resembles Baudhāyaradharmasūtra - Medhātithi and Mitakṣarā quote from almost all chapters of extant Vasistha and so does Viśvarūpa - literature known to Vasiṣtha-Vasiṣtha prohibits learning language of Mlecchas - authors on dharmaśātsra named by Vasiṣtha - Vasistha's references to the views of Manu are made with reference to a work of Manu almost identical with the present Manu smṛti and do not compel us to forniluate the existence of a Māna vadharmasutra - Bühler wrong in taking Vas. Dh. S. 4.8 as a quo tation from Mānavadharmasūtra-only Vas. Dh. S. 12.16 and 19.37 where Manu is quoted have no corresponding verses in the present Manusmrti - over forty verses are entirely common to Vas. and present Manusmīti - conclusion that Vas. contains borrowings from the present Manusmṛti or its prototype in verse - Vas. Dh. S. 22 is the same as Gautama 19 - Dr. Jolly's view that Vas. Dh. S. 28. 10-15 and 18-22 are borrowed from Viṣnudharmasūtra chap. 56 and 87 or its original the Kathakadharmasutra is wrong - home of Vas, to 
 
-History of Dharmaśāstra 
+
 
 the north of Narmadā, according to Bühler - this is mere specula tion - earliest reference to Vasiṣtha as a writer on dharma is in Manu (8.140 ) - age of Vasiṣtha - Vasiṣtha's views are ancient, praticularly about secondary sons, about Dattaka son, about niyoga and remarriage - he mentions only six forms of marriage - but in other matters differs from Gaut. or Baudh. viz, on adoption, on documents - Vas. Dh. S. between 303–100 B. C.- whether Vas. 18.4 ( Rāmaka v. 1. Romaka ) contains a reference to the Romans - the author of the extant Vas. Dh. S. appears to be eclectic and the extant Vas. Dh. S. is only a re-hash of the Ap. Dh. S., Baud. Dh. S. and Manu - passages from the Samhitas and Brahmanas quoted in or referred to by Vas. Dlı. S. outnumber the Rgvedic passages - this shows that Vas. Dh. S. did not at first attach itself to the Rgveda - Dr. Ram Gopal's remarks on the passages of Vas, and the three Gṭ. sūtras attached to Rgveda are misleading - Viddha-Vasi ștha, an early compilation - there is a Bṛhad Vasiṣtha and a Jyotir Vasistha - Yajñasvāmin commented upon Vas. Dh. S. 
 
@@ -151,7 +151,7 @@ Atri named in Manu ( III. 16 ) - Atreyadharmaśāstra in nine adhyāyas - summar
 
 tij 
 
-History of Dharmaśāstra 
+
 
 Sec. 17 Uśanas : 
 
@@ -263,7 +263,7 @@ H. D.-G.
 
 xviii 
 
-History of Dharmaśāstra 
+
 
 earlier than 300-200 B. C. - verses in the Sundarakanda of great significance on the date of Rāmāyana - Srinivasa Sastri's - Thirty Lectures on the Rāmāyana'-commentaries on the Rāmāyaṇa - Mr. Tadpatrikar's theory about the Mūlarāmayaṇa. 
 
@@ -285,7 +285,7 @@ TE
 
 XX 
 
-History of Dharmaśāstra 
+
 
 in Yāj. explained by Visvarūpa without reference to zodiacal signs from Vedic times naksatras divided into auspicious and inauspi cious - Yājñavalkya's reference to nānakas - Yāj. regards sight of yellow-robed people as an evil omen - Dr. Jolly's date of 400 A. D. for Yajñavalkya is far too late - there is a Vrddha-Yāj., a Yoga-Yāi. and a Brhad-Yaį.-Vṛddha-Yāj. is quoted by Madhava and Aparārka - Brhad-Yaj. is quoted by Jitendra and Mit. and as such must be earlier then 1000 A. D. - editions of Bṛhadyogi-Yāj. – Bșhadyogi-Yaj. is a large work in 12 chapters and has about 930 verses - topics dealt with in Bṛhadyogi-Yaj. - it quotes dozens of verses from Manusmṛti, Bhagavadgitā and several Upanisadic passages without acknowledgement - editions of Yoga-Yāj. - criticism of Mr. Divanji's arguments – several commentaries on Yājñavalkya, viz. of Viśvarūpa, Vijñānesvera, Aparārka, Sulapāṇi and Mitramisra. 
 
@@ -319,7 +319,7 @@ The complete smsti of Bphaspati on vyavahāra not yet dis covered - Bșhaspati c
 
 Xxii 
 
-History of Dharmaśāstra 
+
 
 inguish between civil and criminal justice - elaborate rules of procedure - close agreement between Nārada and Bṛhaspati on many points - Brhaspati agrees closely with Manu, but differs from him as to partibility of clothes and as to maximum interest on corn, fruit, wood and beasts of burden - age of Bṭhaspati - later than Manu and Yāj. - Bṛhaspati uses the words nāṇaka and dināra - probably of the same age as Nārada - Kātyāyana who is regarded as an ancient sage by Visvarūpa about 825 A. D. frequently refers to the views of Bṛhaspati - Dr. Jolly wrong in assigning Bṛhaspati to 6th or 7th century - Bșhaspati flourished between 200-400 A.D. home of Bṛhaspati cannot be determined - verses of Bṛhaspati on ācāra, śrāddha, āsauca and saṁskāra in Mitāk sarā, Smsti candrika and other works - a Vṛddha Bṛhaspati and a Jyotir Bșhaspati - Bṛhaspati's smrti reconstructed by Prof. K. V. Rang swami Aiyangar and published in Gaekwad's Oriental Series - arranged in seven parts - a laborious performance, but still some verses and prose passages remain unnoticed - Prof. Renou's criti cism against Prof. Aiyangar. 
 
@@ -597,7 +597,7 @@ H. D.-E
 
 xxxiv 
 
-History of Dharmaśāstra 
+
 
 Sec. 82 Smrtyarthasāra of Gridhara: 
 
@@ -655,7 +655,7 @@ Sec. 89 Kullūkabhatta :
 
 XXXVi 
 
-History of Dharmaśāstra 
+
 
 gāhnika - principal topics in it - works quoted in it - his Pit;bhakti.. authors quoted in it - his Srāddhakalpa - his Samayapradipa - con tents of the work - flourished between 1200-1300 A. 1)., probably about 1275-130J A. D. - hardly gives any information about him self or his fajmily - liberal enough to allow Vaiśvadeva to sūdras - another Sridattamiśra, a Maithila writer, who flourished towards end of 14th century. 
 
@@ -693,7 +693,7 @@ An extensive digest on dharmaśāstra, variously styled – seven uddyotas of it
 
 xxxviji 
 
-History of Dharmaśāstra 
+
 
 sition of work to them - Vyavahāra section edited by the present author - its contents - date of Madanaratna between 1350-1500, probably about 1400-50. 
 
@@ -781,7 +781,7 @@ Sec. 110 Nandapandita :
 
 xlii 
 
-History of Dharmaśāstra 
+
 
 7 
 
@@ -829,7 +829,7 @@ Laksmīvyakhyāna or Balambhatti is a com. on the Mitāksarā of Vijñāneśvara
 
 xliv 
 
-History of Dharmaśāstra 
+
 
 Sec. 117 Kasinātha Upadhyāya : 
 

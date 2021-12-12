@@ -11,7 +11,7 @@ The earliest work of Śūlapāṇi appears to have been his Dipa kalikā, a comm
 
 824 
 
-History of Dharmaśāstra 
+
 
 printed edition of the Dipakalikā and relied upon a ms. from the Sanskrit College. The Dipakalikālz43 was published by Mr. Gharpure in 1939 in his series of Hindu Law texts. Raghu. nandana quotes or refers to it very often in spite of its small size (vide vol. I, Sraddha, pp. 201, 208, 225, 247; Ahnika 454; Prayascitta 543, 546; vol. II Udvaha 138, Vyavahara 224, 225; Divya 577. The portion on the dayabhāga section (Yajnavalkya II, verses 114-149) is contained in five printed pages ( vide Ghose's Hindu Law, edition of 1917, vol. II. pp. 550-554). In this commentary, besides the sages he names only a few writers and works on dharma, e. g. the Kalpataru, Govindaraja, the Mitākṣarā, Medhātithi and Viśvarūpa. He entertained somewhat archaic views on matters of inheritance. For example, he holds that the text speaking of the right of the parents to succeed before the brothers of the deceased has reference to property acquired by the deceased from his father or grand-father. He explained the word 'apratisthita' in the sutra of Gautama 'stridhanam duhi tļṇāmaprattānām-apratișthitānāṁ ca' in the same way as Apararka, Jimitavahana and the Smrticandrika.1244 He says that a full brother though not re-united succeeded before a half-brother 
 
@@ -99,7 +99,7 @@ p. 60,
 
 828 
 
-History of Dharmaśāstra 
+
 
 Tattvārthakaumudi and contains 544 printed pages. Hundreds of Prāyaścittas on serious and insignificant transgressions are mentioned in this work. It is difficult to believe that all these (or even large portions ) were actually practised by the people in the author's days or even centuries before him. A brief statement of its contents is given here.— Etymology1981 of the word Prayascitta according to Angiras and Harita ; how sins are incurred ( acc. to Manu XI. 43, Yaj. III. 219-220); the effect of sins are experienced in the present life itself or in another life (Yaj. III. 32-33 ); sinners fall into hell or are born with bodily defects (Manu XI. 49, 52); narakas (hells ) are many acc. to Manu IV. 88–90; two views -- one is that the results of every act must be endured and there is no escape from them; the other is that results of sins may be avoided or mitigated by appropriate acts and penances declared in the śāstras ( Manu XI. 45, 46, 53 ); distinction between sins committed through ignorance and sins committed of set purpose ( Yaj. III. 226 ); sinner should approach a pariṣad (assembly of learned men) or the king; consti tution of pariṣad for prescribing appropriate penances (pp. 27-29); various methods for reducing or removing effects of sins (Manu XI. 227, 230 ); enumeration of penances like kṛcchra, cāndrāyana, prajāpatya, santapana, paraka; secret penances like japa of mantras and homas; nine kinds of sins, such as atipātaka, mabāpātaka, anupataka, upapataka, jātibhramsakara &c.; enumeration and definitions of these; acc. to Visṇu (34. 1) there are three utipātakas viz. incest with mother, daughter or daughter-in-law; Manu does not mention atipātakas as a distinct class; for Atipātakas, penance for these is entering into fire; Prayaścittas for the five Mahāpātakas (in Manu XI. 57); upapātakas are 38 in Manu (XI. 59-66); Jāti bhramsakara are sins mentioned in Manu XI. 67-70; penances for Mahāpatakas; no sin incurred when a brāhmaṇa who is being treated medically dies (Yaj. III. 284); Manu (VIII. 350-52) and many ancient sages very clearly accept the right of private 
 
@@ -125,7 +125,7 @@ Similar provisions occur in Matsya-purāṇa, chap. 227. 115-117 Prāyaścitta V
 
 i 
 
-History of Dharmaśāstra 
+
 
 Technical meaning of Suvarna; punishments for theft of gold of different quantities and discussion of the meaning of steya; punishments for theft of gold (including fines ); P. for adultery with a wife of one's guru (pp. 128-140 ); different meanings of guru (Yaj. I. 34, Manu II. 142 and 149); Gautama II.56, Devala who describes eleven kinds of gurvanganā; P. for contact with sinners (pp. 140-176 ); nine kinds of contact (samsarga) acc. to Bșhaspati; P. for anupātakas (those that are equal to mahāpātakas acc. to Manu XI. 55-58, pp. 176–192); P. for Upapātakas ( 192 ff.) mentioned in Manu ( XI. 59-66; 59 Upapa takas (Govadha is the first and Nāstikya is the last of them ); P. for killing a cow (Manu XI. 108-116); they varied according as the cow belonged to a brāhmana or to men of other varṇas ; P. for killing a Kșatriya (Manu XI. 126-130) or one who is born of a pratiloma and others (pp. 221--22); P. for killing women of the several varnas (pp. 223-28); P. for killing a foetus (pp. 228– 29); P. for killing an elephant, horse, donkey and other animals, birds, fishes (pp. 229-43 ) and for cutting trees, creepers &c. double1264 fines for cutting trees growing in cemeteries, on boundaries, holy places, temples ( Yāj. II. 227-229 ); no fault if trees are cut for making ploughs or utensils to be used in sacrifices (p. 245 ); P. for eating food and things forbidden ( pp. 248-53 ); P. for taking food from washermen, Kāpālikas, cāndalas &c. (pp. 256-59 ); no P. in certain cases for partaking of flesh even by brāhmaṇas (pp. 277-78); P. for eating food or flesh that is not allowed by sāstra ( pp. 281–82 ); fast as a P. for not performing one's daily duties as laid down by the Veda (p. 286 quoting Manu XI. 203 ); P. for eating cnions, garlic &c. (pp. 293-95); P. for drinking surā, urine &c. through ignorance for men of the three varnas (pp. 303 ff.), P. for eat ing food, some part of which was eaten by a cat, crow, dog or having hair in it (pp. 320-21 ); P. for dining in a row with men 
 
@@ -149,7 +149,7 @@ or from a vessel used by them (pp. 323-28); P. for drinking milk which is declar
 
 832 
 
-History of Dharmaśāstra 
+
 
 or by a person of another varna (pp. 370–73) ; P. for a man having intercourse with a woman of any one of the seven antyajas knowingly or through ignorance (pp. 374-75); P. for a person marrying or setting up a sacred fire before an elder brother or for a younger sister marrying before an elder one (pp. 378-83); P. for vrātya i. e. a person belonging to one of the three varṇas whose upanayana was not performed even uptill the 16th, 22nd or 24th year from birth as required by Manu XI. 196, Yaj. I. 37-38 ( pp, 384-86); P. for an avakirnin ( one who has sexual intercourse while he is a brahmacārin or for marrying in ignorance paternal aunt's or maternal aunt's or maternal uncle's daughter1258) pp. 387-391; P. for one who gives up tending sacred vedic fires set up by him (Manu XI. 41 ); P. for Brāh maṇa not studying the Veda or not performing yajña, or not 
 
@@ -185,7 +185,7 @@ having a son that he may undergo is the same as the P. for govadha or if not abl
 
 834 
 
-History of Dharmaśāstra 
+
 
 21 
 
@@ -215,7 +215,7 @@ It may be noted that from p. 522 to p. 514 Sūlapāṇi deals with establishing 
 
 l 
 
-History of Dharmaśāstra 
+
 
 (dissented from); Bhartryajña (p. 254), Rājan (Bhojadeva) 150,152, 157; Lakṣmidhara 319, Viśvarūpa 91, 119; Śrikara 66 (dissented from ); M. M. Chakravarti (JASB. 1911, p. 339) does not mention Kapardibhāsya and Bhartsyajña. On pp. 98, 139, 536-37 Śūlapāṇi refers to Mahadevapada and on p. 118 Srimaheśvara, all referring to God Siva as the interlocutor in the Bhavisya Purāṇa. 
 
@@ -261,7 +261,7 @@ Sūlapāṇi gives hardly any information about himself.1283 In the colophons of
 
 838 
 
-History of Dharmaśāstra 
+
 
 and also Sāhudiyān or Sāhudiyala or Sāhudiyā (in a ms. of the Dipakalikā). What this last means is not clear. It is possible that he came from some place called Sāhudi. There is hardly any reliable evidence to establish that the Sahudiya was a degraded section of the Radhiya brāhmaṇas in Bengal from the time of Ballalasena. I understand from Bengali friends that in these days also the surname Sāhudiyān is extant among the śrotriya brāhmaṇas of the Rādbiya group in Bengal. Raghunandana (a great Bengali writer ) often refers to im as Mahamahopadhyaya ( vide pp. 827-28 above ). 
 
@@ -297,7 +297,7 @@ In the m3. org looks like fee. But the cast figure may be tars otherwise the dat
 
 I 
 
-History of Dharmaśāstra 
+
 
 A. D.) for Salapāṇi were not altogether wide of the real date, In this edition an attempt has been made to advance somewhat more definite dates for Śūlapāṇi, that is all. 
 

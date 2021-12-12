@@ -83,7 +83,7 @@ Ters
 
 658 
 
-History of Dharmaśāstra 
+
 
 Kullūka differs expressly from Govindarāja on Manu I. 5, I. 82 ( Itaresvāgamat); II. 122, 125, 127; III. 50, 53, 127, 129, 191, 221, 284, 285%; V. 16, 51, 72, 84, 104 ( imam Govinda rājasya rājājñām nādriyāmahe ); VI. 14, 79, 84 &c. In dozens of cases ( besides these ) Govindaraja's views are mentioned but not criticized by Kullūka. 
 

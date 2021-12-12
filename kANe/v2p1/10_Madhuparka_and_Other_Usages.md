@@ -39,7 +39,7 @@ eraan: 1 Au revisteros दातरि | quoted in से. प्र. p. 823.
 
 544 
 
-History of Dharmaśāstra 
+
 
 (Oh, X 
 
@@ -71,7 +71,7 @@ A few small inatters may be noted. Several ghya-sūtras (such as the Mānava ) d
 
 H. D. 69546 
 
-History of Dharmaśāstra 
+
 
 [ Ch. X 
 
@@ -103,7 +103,7 @@ trū forro gauta I ATAT ...malet var fariqat ister Tag eUTI,
 
 548 
 
-History of Dharmaśāstra 
+
 
 [ Ch. Å 
 

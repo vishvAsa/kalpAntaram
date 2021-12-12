@@ -27,7 +27,7 @@ on facu 21. 19 3477774 fasit: & ey81474* fequifa fa had i'folio 123 b (ā grot).
 
 916 
 
-History of Dharmaśāstra 
+
 
 yanti. In this work1885 he refers to a city called Sadharana (probably modern Saharanpur ) where the Sahagila family ruled. He speaks of Simhamalla, Vasāvana, Rupacandra, Bhūpacandra and Paramānanda as successive members of the dynasty and says that he was urged to write the work by the last of them and that he relies upon the Sraddhadipikā of Govindapandita.1388 At the end of the ms. of the Vaijayanti in the Deccan College Collection it is said that the Vidvanmanoharā, the Smrtisindhu and the Śrāddbakalpalatā were the commentaries composed by Nanda pandita.1387 But from the contents given in the India Office Catalogue it does not appear that the work was a commentary. It is divided into five stabakas and deals with the usual topics, viz. what is śrāddha, the proper time and place for it, the proper brāhmaṇas, various kinds of sraddhas &c. The principal authors and works named therein are given below.1388 The Śrāddha kalpalatā was published in the Chowkhamba S. Series (1935) in 262 pages. In Poona Orientalist (vol. 15 pp. 60-64) Dr. S. L. Katre shows that a ms, of the Sraddhakalpalatā is dated in Samvat 1641 (i. e. 1584-85 A. D.). The same scholar shows (in I. H. Q. vol. 28 for 1952, pp. 91 ff.) that a ms. of Suddhi candrikā (which mentions the Sraddhakalpalatā at least five times ) was copied in Saivat 196), Srāvana-vadi (i. e. in July 1603 A. D.). Therefore Śrāddhakalpalatā must have been composed several years earlier than 1603 A. D. 
 
@@ -79,7 +79,7 @@ Bhandarkar's Report for 1883-84 p. 353 for extract. 1393 Vide Mitra's Bikaner Ca
 
 918 
 
-History of Dharmaśāstra 
+
 
 557 to 564 and then 607-609. If the above surmise be correct, the work was a large one and contained over 610 verses. Two of the verses name Hemādri and Pārijāta. 1394 
 
@@ -115,7 +115,7 @@ e art on facug 27.2. fiat. on 41. I. 11 says 'a s jHHH न्तोन्नय�
 
 920 
 
-History of Dharmaśāstra 
+
 
 but before the brother (folio 101 b). He explains sapinda relationship in the same way as the Mit.1402 does. He says that the word 'bhrātaraḥ' in Yaj. should be explained as standing for ' brothers and sisters' and that in the father's line, after the brother and brother's son, the brother's grandson succeeds and, on failure of the brother's grandson, the paternal grandfather, his son and grandson are heirs one after another, i. e. in each line three generations succeed and then there is a devolution in favour of the next higher line. This view is opposed to that of the Subodhinj and the Smsticandrikā, which take only the son and grandson of each paternal ancestor. Vide my notes to the Vyavahāramayukha for fuller details (pp. 253-254). Nanda pandita stands alone among modern nibandhukāras in having recognised a uterine brother1403 (i. e. the son of the same mother but of a different father) as an heir. It is remarkable that Nandapandita preferred a person's predeceased son's widow (i. e. widowed daughter-in-law) as an heir to that man's own daughter.1404 
 
@@ -165,7 +165,7 @@ H, D. 116
 
 922 
 
-History of Dharmaśāstra 
+
 
 Vyavahāramayukha. For example, the Bombay High Court, following the Dattakamimamsā, has laid down that among the three higher castes a man cannot adopt his own daughter's, sister's, or mother's sister's son. The view of the Vyavahāra mayūkha, on the contrary, is that he can take these in adop tion. The limits to which Nandapandita will be followed by the courts are laid down in Ramachandra v. Gopal : The authority of Nandapaṇdita must be accepted except where it can be shown that he deviates from or adds to the smṛtis or where his version of the law is opposed to such established custom as the Courts recognise :.1409 
 
@@ -197,7 +197,7 @@ Vide I. L, R. 32 Bom. 619, I. L. R. 36 Bum, 533, 15 Bom. L. R. 824 ( paternal au
 
 TO 
 
-History of Dharmaśāstra 
+
 
 family of Sādhāraṇa, the Smstisindhu for Harivainsavarman of the Māhendra family and the Vaijayanti for Keśavanāyaka of Madhura. 
 

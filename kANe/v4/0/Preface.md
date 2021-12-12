@@ -31,7 +31,7 @@ I now discharge the pleasant duty of acknowledging my obligations to others Bloo
 
 It is difficult to name all those who in various ways, during the progress of this volume for over six years, kindly rendered assistance, but I should lika to make special mention of Prof. K V. Rangaswami Aiyangar, Mr. A. N, Krishna Aiyangar, Dr. A. S, Altekar, Dr. S K Belvalkar, Prof. G. H. Bhatt, Mr. Bhabatosh Bhattacharya, Mr. N. G. Chapekar, Dr. R. N. Dandekar, Mr. D. B Diskalkar, Dr. G. S Gai, Prof, P. K. Gode, Tarka-tīrtha Laksmapashastri Joshi, Mr, G, H, Khare, Pandit Balacharya Khuperkar, Dr. Umesha Mishra, Dr. V. Raghavan, Prof. L. Renou, Prof. H. D. Velankar. Thanks are due to these scholars and many others for help and interest in this volume. I am conscious that in spite of so much help and generous encouragement from friends there are in this volumo several mistakes, the sole responsibility for which rests on my shoulders. In a work replete with thousands of quotations and references 
 
-History of Dharmaśāstra 
+
 
 it is quite likely that many slips have escaped my attention. $ For these and for the elision of a few diacritical marks and the displacement of parts of Sanskrit letters in the process of printing the indulgence and forgiveness of all readers are sought. I sincerely thank the Manager of the Aryabhushan Press Poona, for carrying out the work of printing this volume with care in spite of difficulties caused by paper and labour shortage. 
 

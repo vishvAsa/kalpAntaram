@@ -33,7 +33,7 @@ Didbiṇu, 547 Dīksitarimita, 988n Dinakṣaya, 852n Dobana, 10150 Dropakalasa,
 
 Kaivalya, 423 Kali, 648, 12190 Kalpa, 323n, 701 Kalpavsk$&, 874 Kandanusamaya, 740 Kanyaka, 445 Kapila-snaga, 667 Karambha, 1095 Kaśyapa, 718 Kaula, 7370 Kausa, 6690 Kautukabandhann, 536 Kharvata, 875n Kheta, 875n Kratu, 1162 Kratupasu, 1174 Kriyanga-30008, 666 Kriyaspāna, 666 Krsnala, 1209 Krta, 1219a. Kṣara, 3040, 530 Kṣatra, 30 Kṣetra 599 Ksetraja, 599 Kgetrin or Ksetrika, 599 Kulamkula, 4130 Kulapati, 369 Kumārī, 445 Kumbhaka, 317 Kumbhi, 110n, 6410 Kunda, 298 Kupa, 893 Kogula, 1100, 6410 Kutapa, 645 Kataru, 1020n, 1027 Kugastha, 455 Kuṭioaka, 939 Lagaa, 877 Lavana, 304n, 530 Lokāyata, 3590 Madhumatī, 544n Madhuparka, 542 Madhvi, 7950 Mahakārtiki, 854 Mabanavami, 395 Mahāprarthana, 9221362 
 
-History of Dharmaśāstra 
+
 
 Mihavīra, 1149n Mabivyabfti, 3010 Maitra, 6460 Mala, 651 Mānasa-anāda, 668 Manasvati, 1089a Mandukapluti, 458 Manota, 1128n Mantha, 1102n Mantranyāsa, 901 Mantraśpāna, 668 Manuṣgayajña, 698 Manvantarddi ( tithis ), 396 Marjalīga, 1157n Marjana, 317, 1068n Masara, 1925 Maskario, 422 Matba 906, 910 Matra, 131 Matfkānyd80, 900 Medbājanana, 233, 805n Mekṣana, 10320 Mokṣa, 42% Mfta, 130 Mudra, 919 Mubūrta 6450 Mukhavisa, 734 Mulakarika, 5641 Muni, 132 Muradova, 708 Nabhi, 1113 Nadi, 515, 660 Nadikā, 645 Nagnabu, 12250 Nagnika, 410, 444 Naigama, 68 Naistbika, 375 Naivedya, 733 Nārassingī, 353 Nāstikya, 358, 360n Nibandha 860n Nidina, 10151 Nidbana, 1169 Nigrabhya, 11640 Nihpava, 1147 Niraya gita 92 Nirmalya, 732 
 
@@ -75,7 +75,7 @@ Upanayana, 268 Upapraiga, 1121 Upara, 1111, 11570 Uparava, 11540 Upasad, 1151 Up
 
 1366 
 
-History of Dharmaśāstra 
+
 
 Viṇuva, 395-396 Vityarupa, 962 Vivāba, 427 Vrata, 67, 68 Vratasnataka, 407 Vrātya, 60, 96, 978 Vyābfti, 3010 Vyama, 1115 Vyatipāta, 8520 
 

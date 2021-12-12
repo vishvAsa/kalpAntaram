@@ -17,7 +17,7 @@ T hott 11 It is stated that the work was composed by Mahāderi ( great Queen) Dh
 
 816 
 
-History of Dharmaśāstra 
+
 
 authors and works quoted with references to pages where they occur (pp. 538–547). Inspite of the large bulk of this publi cation the main work will not cover more than half of the Mitakṣarā on the Vyavahāra section of Yajñavalkya. Each page of it bas various readings placed one below another and the result is that 1/3 or 1/4 portion of most of the pages contain only the various readings ( rarely one half of the page e. g. pp. 114, 183, 234, 236-37, 476). The Editor quotes frequently in the foot notes Narada-Manusamhita and Bhavasvāmin's bhāsya (e. g. on pp. 304-5, 323-24, 336–37, 379, 382-83). Varadaraja's explanations are often the same as in the Mit. (e. g. on pp. 67, 239, 241, 251, 321, 413–14, 420-21, 480 ) and therefore one may hold that he borrows from that work (particularly as he mentions Vijñāneśvara on p. 78 and appears to refer to hin as the most eminent among those who have realized brahman on pp. 253, 270). He does not enter into discussion on knotty points like those in Yaj. II. 21, II. 24 or whether ownership arises on partition (vibhāgāt-sva-tvam uta svasya sato vibhāgah). On p. 521 he quotes the two verses of Yaj. II. 305, 306 on review of judgment but has not a word in explanation while the Mit. comments on them at length. On Yāj. II. 100--102 the Mit. has three closely printed pages of explanation, while the Vya. N. quotes the verses on p. 154 but has not a word of explanation. Similarly on Yāj. II. 118-119 the Mit. explains in two closely printed pages, while the Vya. N, which quotes both on pp. 442-443, has hardly any explanation. 
 
@@ -43,7 +43,7 @@ H. D.-103
 
 818 
 
-History of Dharmaśāstra 
+
 
 point of construction of the Vedic text is that it is not to be taken literally and as prohibiting women as inheritors of family property. It may be shown to be restricted in import in various ways. To be brief, Aparārka whose commentary on Yaj. cannot be placed later than 1140 A. D. has a similar explanation. The Manusmṛti (IX. 18) refers to the Vedic passage and says 'nirindriyā hyamantrāśca striyoṣnstam-iti sthitiḥ'. Aparārka held it was a mere artharāda, not to be taken literally, and that that passage refers to cases where a son exists. The Smsticandrikā also holds that the śruti is an arthavāda and refers to women other than those that are expressly named as heirs. The Parāśara Madhaviya also explains it as indicating that the wife of the sacri ficer has no right to partake of the Soma drink. Madhavācārya is the most learned writer among Daksiṇātyas. His greatness and fame stand only second to the great Saṅkarācārya. 
 
@@ -61,7 +61,7 @@ a verse (quoted in note below )1242 as from Prajāpati about some matters forbid
 
 820 
 
-History of Dharmaśāstra 
+
 
 than · Varadarājena prokta ' (expounded by Varadarāja ) accord ing to Panini IV. 3. 101 tena proktam'. If one looks into the various catalogues of Sanskrit mss. (such as Aufrecht's ) one would find that there are more than two dozen authors called Varadarāja. There is at present absolutely no evidence (except the sameness of name ) that the Smṛtisangraha of Varadarāja mentioned in note 3 on p. XLVII is the work of the same Varada rāja who is the author of the Vy. N. Granting for a moment that Vedāntadesika's Saccaritaraksā was composed about 1297 A. D. (as asserted on p. XLV of introduction to Vy. N.) there is no substantial evidence to connect that Smṛtisangraha with the author of the Vy. N. beyond the mere name. It has been shown above (under Kalpataru of Laksmidhara) that scholars have had grave doubts about the dates of the successors of Sri Ramanujācārya and the dates assigned to them by their own Vaisnava writers and the traditions of the Vadagalai and the Tengalai scholars. That being the case, I take exception to the statement on p. XLVI (of Intro.) that Varadarajapandita ( author of Sanmārgadipikā) is identical with the Varadaraja. author of Vy. N. Again I take strong objection to the remark on p. XLVIII that a comparison of the two works (Parāśaramadhaviya and Vy. N.) establishes the superior learning and acuteness of the Varadarājiya and its greater originality. I have shown above how mediocre is the work called Vy. N. as compared with the Mitākṣarā and I hold on the evidence available so far that the author of Vy. N. is later than the Mādhaviya and borrows from the Madhaviya. 
 
@@ -77,7 +77,7 @@ Prof. Aiyangar attaches undue importance to the quotations from Prajapati in Vy.
 
 822 
 
-History of Dharmaśāstra 
+
 
 Vyavahāra quotes only 31 verses from Prajapati of which only eleven are concerned with ordeals, while Vy. N. quotes 86 verses from Prajapati on Vyavahāra, of which 46 are concerned with ordeals. The above facts should be held to lead to the conclusion that Vy. N. had before it a far more inflated text of Prajāpati than what the Madhaviya had before it. Critical scholars should not be impressed or influenced by the mention of an ancient name tacked to verses by Medieval writers. The Manusmṛti (in I. 34-35 ) says that the first human being created by Virāj was Manu who created ten Prajāpatis viz. Marici, Atri, Angiras, Pulastya, Pulaha, Kratu, Pracetas, Vasistha, Bhṛgu and Nārada, from all of whom verses on Dharma topics are quoted by the Mit., Aparārka and Smsticandrikā. That shows that works were palmed off on people as composed by primeval sages, though composed by scholars in medieval historic times in order to make them appear very authoritative. 
 

@@ -115,7 +115,7 @@ viveka and other works 1490 A.D.-1515 A.D.-Nrsimhaprasāda of Dalapati,of which 
 
 ṣāra, Tirthasāra, Prāyascittasāra and several more are parts. 
 
-History of Dharmaśāstra 
+
 
 1500 A.D.-1540 A.D-Govindānanda, author of Suddhikaumudi, 
 

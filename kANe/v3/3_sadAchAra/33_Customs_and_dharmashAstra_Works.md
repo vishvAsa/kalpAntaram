@@ -175,7 +175,7 @@ a ani 74: 1 er r ont GTE Ekralja प्रत्यक्षश्रुते�
 
 866 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -245,7 +245,7 @@ V. 16.
 
 870 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -321,7 +321,7 @@ i. pp. 37-39 for a similar view,
 
 874 
 
-History of Dharmaśāstra 
+
 
 . 
 

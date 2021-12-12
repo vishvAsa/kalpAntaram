@@ -135,7 +135,7 @@ Garbhadhāna: Nizeka : Caturthikarma or-homa:- Manu (II. 16 and 26 ), Yāj. I. 1
 
 467. Bal H at forenfiety: \# VI. 2; su parte TYTASI TUTUP I. 1.196 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VI 
 
@@ -199,7 +199,7 @@ The samskāras 458 from garbhadhāna to upenayana alone were absolutely necessar
 
 198 
 
-History of Dharmaśāstra 
+
 
 Oh, Vi 
 
@@ -333,7 +333,7 @@ the first
 
 478. The fourth TAITTA Hooglia rafafa Affection ContaHTE I ÅT. on AX II. 16.206 
 
-History of Dharmaśāstra 
+
 
 Oh. VI 
 
@@ -727,7 +727,7 @@ e are foart. The S. B. E. vol. XXX p. 280 translates 'he ties harley grains with
 
 . D. 88226 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VI 
 
@@ -791,7 +791,7 @@ _526. वस्मारकुमारं जातं तं पाये प�
 
 230 
 
-History of Dharmaśāstra 
+
 
 ( Oh. VI 
 
@@ -1223,7 +1223,7 @@ Har dua warga Portreti, The Jayas are certain mantrag (13 in all) which are Tai.
 
 254 
 
-History of Dharmaśāstra 
+
 
 Oh, VI 
 
@@ -1265,7 +1265,7 @@ whenever him' (Rg. X. 88. 11 ) and then he worships the sun with the verse that 
 
 584. TU AI PATHFOTEFT tutarra a RIEI CTCFFIT I. 17. The verse is तश्चक्षुर्वेवहितं पुरस्ताच्छुकमुञ्चरत् । पश्येम शरदः शतं जीवेम शरदः शतं शृणुयाम sta: STAT A stra: Hara: FUTA SITT: gra ® Tet: Tara 1. Vido Tai. Ar. 4. 42 for this benediotion.256 
 
-History of Dharmaśāstra 
+
 
 [ Oh, VI 
 
@@ -1297,7 +1297,7 @@ p u otsat antoi umat I. i : girato 1 3119. 9. 9. II. 14. 11-14. After at the chi
 
 258 
 
-History of Dharmaśāstra 
+
 
 [ Ch. VI 
 
@@ -1449,7 +1449,7 @@ IT fugats TI9150 g fartpaarganta i gatuh अनदेशभेदाद प्�
 
 \#. D. 34266 
 
-History of Dharmaśāstra 
+
 
 (Ch. VI 
 

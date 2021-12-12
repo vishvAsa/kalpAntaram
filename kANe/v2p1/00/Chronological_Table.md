@@ -29,7 +29,7 @@ sopher.
 
 xii 
 
-History of Dharmaśāstra 
+
 
 600 A. D.-900 A, D.-Most of the other smrtis and some of the 
 

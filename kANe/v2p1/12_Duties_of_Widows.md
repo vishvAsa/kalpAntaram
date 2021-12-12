@@ -25,7 +25,7 @@ r gragu II. 1. . II. 2. 66-68.
 
 584 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XII 
 
@@ -85,7 +85,7 @@ One subject that arouses bitter controversies is the practice of tonsuring widow
 
 $88 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XII 
 
@@ -149,7 +149,7 @@ M yaranan इति । अपमर्थः । शाई दुःखमभ�
 
 592 
 
-History of Dharmaśāstra 
+
 
 [ Ch, XII 
 
@@ -259,7 +259,7 @@ look at the spectators with the verge Rg. X. 85. 33. 1408 This shows that no vei
 
 598 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XII 
 

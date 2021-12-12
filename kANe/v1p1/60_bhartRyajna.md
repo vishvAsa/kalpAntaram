@@ -25,7 +25,7 @@ FOUNDED
 
 552 
 
-History of Dharmaśāstra 
+
 
 the word sa mvibhāga occurring in Gautamadharmasūtra (10. 39 svāmi riktha....samvibhāga-parigrahādhigamesu ).708 The Nityācārapradīpa ( B. I. series ) after quoting Gautamadharma sūtra (11. 29 varnāśramāh svadharmanisthāh &c. ) cites the comment of Bhartryajña700 on the word tac-chesenu occurring in that sūtra. Therefore it appears probable that Bhartr. yajña like Asahāya was an ancient commentator of the Gautamadharmasūtra. The Grhastharatnākara, after quoting from Vasistha (17. 1 ) and Visnu the well-known verse of the Aitareya-brāhmana (mnam-asmin sam-nayati) cites the ex planation of Bhartryajžia as to the word “jātasya' occurring therein. 710 
 

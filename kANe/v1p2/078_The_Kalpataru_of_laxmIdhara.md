@@ -87,7 +87,7 @@ with Priv.-irrin iltid that tristheils with Suddhi. 91.7 The m. of Puja hagin ..
 
 666 
 
-History of Dharmaśāstra 
+
 
 Mandāra, Sālagrama, Stutasvāmin, Dvārakı Lohārgala, Kedāra, Naimisa, and others. Besides, this kānda speaks of the starting on the Mahāpatha (the great journey ) referred to in Manu VI. 31, the Mahābhārata in its Mahāprasthā nikaparva ( declaring that Yudhisthira with his four brothers queen Draupadi and a faithful dog started on the Great Journey towards Himālaya and that they fell down dead one after another, Draupadi being the first and Bhima the last. Volume IV of H. of Dh. Section IV (pp. 552-727 ) contains descriptions of several famous holy places and several hundred tirthas are mentioned together with references to the Epics, Purānas and other works ( in pp. 730-825), where less known tirthas like Lohārgala, Stutas vāmin are mentioned. The Tirthakalpataru bases its treatment on the Mahābhārata ( quoted 15 times ), 12 Purānas Matsya and Varāha being quoted 11 times each ). Vide Dr. Bhabatosh Bhattacharya's paper in N. I. A. Poona Vol. IX. (1947) pp. 100-104 on “Vāca spati-miśra's indebtedness to Lakṣmīdharabhatta ”. 
 
@@ -267,7 +267,7 @@ I, D,-85
 
 674 
 
-History of Dharmaśāstra 
+
 
 Many such examples about verses of Yaj. ( commented upon at some length by the Mit. and only quoted without comment or with very brief comments by Laksmidhara ) can be cited from other Kandas, but for reasons of space the pre sent author has to be content with stating some striking exa mples from the Srādbba-kānda. Yāj. I. 256 refers to the times of Ekoddistaśrāddha. The Mit. has two closely printed pages of comment on this. Kalpataru ( on Srāddha ) merely quotes the verse and has no word of comment. Similarly, on Yāj. I. 252 the Mit. devotes one page of comment, while Kalpo. ( on Srāddha ) has no comment ). Yāj. I. 253-254 (deal. ing with Sa pindīkarana ) have three printed pages of comment. ( one page being devoted to evolving order out of varying views of the Sapiṇdikaraṇa of one's inother ( acc. to Paithi nasi, Yama, and Uśanas, while the Kalpataru on Srāddha quotes Yāj. I. 253-54 ( on p. 257 ) and sets out only one view; (p. 258 ), but the Mit. bas a vyavasthā on three different views similarly, on Yāj. I. I. 256 ( on the proper times for Ekoddi sta-srāddha the Mit. quotes the verses of about a dozen sages and of Dāksiṇātyas, Urddhas and brings order out of the chaos, while Kalpataru od Srāddhao ( pp. 250 and 262 ) quotes Yāj. I. 256 ( badly printing it on p. 250 ) and hardly refers to several sages and views. The Kalpa'. on Srāddha p. 257 quotes the two verses but has only less than two lines of comment. 
 
@@ -335,7 +335,7 @@ The elitor appears to havo misunderstourl the syntactical connec tion of the wor
 
 676 
 
-History of Dharmaśāstra 
+
 
 ( Moksa ) hanker Sananda and others that secured supreme bliss, which ( moksa ) is (or consists in ) non-difference from the Highest Brahma that is pure consciousness ( cit. ), that is inconceivable ( to ordinary human minds ) and that freely manifests itself when the darkness caused by Māyā that is difficult to remove but that drops away ( vanishes ) when there is perfect discrimination of the words of the Vedānta (the Upaniṣads ). Vide the verse cinmayasyaprameyasya &c.' quoted on p. 118 n. 305 of H. of Dh. Vol. V part 1. On reading the Introductory verse which speaks of Māyā as tamas which is removed by correct knowledge ( viveku ) and which 
 
@@ -589,7 +589,7 @@ SA
 
 684 
 
-History of Dharmaśāstra 
+
 
 A few remarks about the text of this large mibandha would not be out of place. The manuscript meterial was rather meagre and inferior. For eximṭile, on p. VIII in the Preface to the Br. Kānia it is stated that the erlition is based on a single ms and on p. IX it is stated that the Urlaipur is ( which belongs to the 16th century A. D. probably ) was full of large elisions and omissions, that such omissions were filled up from citations of the saine passages in later digests and that the inissing parts so suplilieil are shown within rectan gular brackets. On p. 279 in a note the Editor himself says that the ms. is very defective. The editor does not give even a specimen page of that ms. nor does heilescribe who the scribe was or how many folios it containeil. In Vy. Kānda on 1. 376 the editor remarks ( in note 4 ) mss corrut, passages restored conjecturally from the mss. and the following comment and citation in the Vivādaratnakara ( then quotes three lines from V. R. } 130 ). The most remarkable thing is that he does not put his conjectural reading in square brackets as he does in some other cases. On p. 377 lie notes that there is a gap of more than two printed pages up to the top of p. 380 in Udaipur and Bikaner mss. In the case of the Vratakānda (6th in the series of kinds ) the Editor states (on p. VI Pre. face) that the edition 'is based on the Nagpur and Ujjain Mss. Not a word more is said about the scribe, the number of folios, the date of the copying of the mss. or other details. That page also states that the Nagpur Ms. was so brittle that the cura tor woulil not allow a mechanical photographing and that somehow a transcript of such a dilapidated ms. was made on the spot and supplied to the Editor. One would naturally feel great diffidence before drawing chronological and other conclusions based on a text that is constituted from such materials. As regards the Sraddhakānda, there is no descrip tion of the mss. anywhere. As regards some Kāndas the mss. material seems to have been somewhat better. For example, as regards the Dāna-kāṇla, on pp. 124-126 of the Introduc tion he gives some information of the mss. relied upon for constituting the text. But the description of the mss. is not what is required in such cases but is vague. In this kiindu the editor expends thirty payes ( lp. 383-412 ) for set ting out the relings of a ms from the Vaypur Bhosle Raja's Library. If only important reailinys had been given (aud not also obvious scribal errors ), a few pages only would have 
 
@@ -605,7 +605,7 @@ There are sisteen verses in the Intro:luction to Br. Kānda. In the first three 
 
 686 
 
-History of Dharmaśāstra 
+
 
 verses 11 to 13 mention three works that preceded bis; he speaks rather slightingly about two of them and very dispara gingly about the third. These verses may be tanslated as follows: 'Gopāla, his (i.e. Lakṣınidhara's ) friend composed his own work in the form of sentences ( that is, in prose?) by embodying Purana passages in some arts and often passa yes from the smrtis. But this digest (of L.) which is not extensive will be caused to be composed, that will delight the minds of learned men by its containing the essence of the Vedas and Smrtis and by the import which is set off by Mi māṁsā ( doctrines ), in which defects cannot be found at all. Will not the delightful growth of Kalpataru ( heavenly desire yielding tree, the work so called) by him (i.e. written by L.) atford pleasure to learned dvijas (or to gods and brāhmanas ). the Kalpataru on whose appearance Srī ( excellence, Laksmi) does not stay in Malvārnava ( a work so called, great oceav ), Kalpataru under which Kāmdhenu ( the work so called and the celestial cow) goes to sleep ( remains unread ) ? Now that this Kalpadruma ( desire-yielding tree, the work called Kalpataru ), owing to the power of the ambrosial sprinkling of the opulent intellect of Laksmīdhara, will, while in this world, tend to the benefit of the three worlds, why think of following after Mahārnava ( a work so called, the great ocean), why hanker after Kāmadhenu ( the celestial cow and the work so called ), to whose mind will occur the worthless Ratna mālā ( the work so called, a jewel necklace) and others? 
 
@@ -689,7 +689,7 @@ H. D.--87
 
 690 
 
-History of Dharmaśāstra 
+
 
 Govindacandra only as Rājaputra with the consent of some high diguitaries of the king; among them there is no Hrdaya dhara nor Laksmīdhara. The Sāndhivigrahika is a high functionary and occurs in Gupta Ins. No. 1 (the praśasti of Samudragupta) on pp. 10, 16 and Mabāsandhivigrahika in the Gupta Inscription No. 22 of Hastin in Gupta year 163 pp. 100, 104, in Vinnu-charmottara-purīna II. 24. 24-25 and the mit. on Yāj. I. 320 provides that the lekhaku of a royal grant should be the minister for peace and war, being ordered by the king himself to do so. 
 
@@ -707,7 +707,7 @@ From what Candeśvara and others say about the Kāma dhenu the latter appears to
 
 692 
 
-History of Dharmaśāstra 
+
 
 are referred to in an early Gāladvāla grant, viz. the Basahi grant of 1104 A. D. where we have the verse 'yāte śrī-Bhoja bhūpe vibudhavaravadhū-netrasīmātithitvam' (verse 3 in I. 
 
@@ -777,7 +777,7 @@ of comment and L. ( vy. pp 218-219) has only two lines, which occur in the Mit. 
 
 694 
 
-History of Dharmaśāstra 
+
 
 Many cases of the same sort may be cited but that cannot be done for reasons of space. The above verses clearly show that the brief remarks in the Kalpataru (on Vy.) are borrow. ed from the Mitāksarā. If as argued above, the Mit. was 
 
@@ -827,7 +827,7 @@ na ragamo ' &c.
 
 696 
 
-History of Dharmaśāstra 
+
 
 refers to this view of the present author and rejects it. It is unnecessary for the present purpose to go into the question where what Vādibhayankara quotes as a verse of Brhaspati is 80 or not. One ms of Kalpataru ( Vy. ) had that passage, two other mss. from Udaipur and Bikaner had not got it. Prof. Aiyangar does not hesitate to pass off as Laksmīdhara's the whole of the Br. Kānda based only on a single very defective ms, (vide above) and to draw conclusions from it. Besides, he himself shows ( on p. 293, note 4 ) how his Udaipur ms. bas a gap of two printed pages beginning on that page. He could and should have said that it is possible that the single ms may represent the correct text while the two others having gaps in some other parts might have omitted that portion. The present author also relied ( in the first edi tion of the H. of Dh.) on a passage of the Benares College ms (on Vy. ) where the view of Prakāśa, Halāyudha, Kāmadhenu and Pārijāta on a verse of Kātyāyans was cited (H. of Dh. p. 293, n. 649 ). With this the Editor deals on pr. 394-5 and 397, (in footnotes ). The present author would have to write several pages against this view of the Editor. For the present author's own view about L. being later than the litaksarā and the borrower, relies mostly on the historical data and inci dents and on the large number of passages in one Kānda alone (cited above ) which fair minded persons would hold to be borrowings from the Mitākṣarā by the Kalpataru. 
 
@@ -847,7 +847,7 @@ T
 
 698 
 
-History of Dharmaśāstra 
+
 
 1 
 

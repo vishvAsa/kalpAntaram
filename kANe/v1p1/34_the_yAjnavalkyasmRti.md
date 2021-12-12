@@ -61,7 +61,7 @@ Bhandarkar
 
 424 
 
-History of Dharmaśāstra 
+
 
 union and reads it also differently 488 (anyodaryasya samsșsti). Two verses that are Yāj. III. 255--56 (Rajakavyādhao' and 
 
@@ -101,7 +101,7 @@ Research ir
 
 426 
 
-History of Dharmaśāstra 
+
 
 yautakaih' with the Mit. (149), while Vis (153) reads 
 
@@ -137,7 +137,7 @@ Bhandarkar
 
 428 
 
-History of Dharmaśāstra 
+
 
 verses only of Yāj. are repeated word for word, that very often the Garudapurāṇa gives only a summary by omitting and transposing the words and phrases of the original and that sometimes it adds verses of its own. This may be illug trated by what the Garuda says on vānaprastha and yati (chap. 102-103, 12 verses in all). Chap. 102 begins 'vāna prasthāśramaṁ vaksye tac-chravantu maharsayaḥ putresu bhāryām niksipya vanaṁ gacchet sahaiva vāll.' The latter half is a paraphrase of Yaj. III. 45a. Then III. 45b--46 (Mit.)= Garuda 102.2-3a ( with slight variations ), III.47 = Garuda 102-4 6-52 ; III. 18 = 3b-4a ; III. 49-50 = Garuda 5b (pakṣe māsetha vāśniyād-dantolūkhaliko bhavet', which summarises and retains some words of the original), III. 71 - Garuda 102.6a (cāndrāyani svapedblumau karma kuryāt phalādina, which includes a few words of 11 I. 49b also ), 111.52 = Garuda 6b-7a ( the last pāda in Garuda is 'yogabhyāsāt dinam nayet,' while in Yāj. it is 'śaktyñ vāpi tapas-caret'), 111.53 = Garuda 102.7. Chap. 203 contains only five verses. 111.56, 58-59 = Garuda 103. 1b-4a ( with variants ) and then Garuda adds 11 verses which are not found in Yāj. (viz. blavet-parama hamso vā ekadandi yamaditah Il siddhayogas-tyajan deham amptatvam-ihāpnuyāti dātātithipriyo jñāni grhī sraddhepi mucyate li'). The mere fact that a prakarana is omitted in the Garuda purana should cast no doubt on the existence of that prakaraṇa in the original Yāj. We do not know on what principles the borrowing took place. Besides, we find that such prakaranas as Vināyakaśānti and grahaśānti are includ ed in the Garuda (chap. 100-101 ), while rājadharma prakarana is omitted. We know that rājadharma 'figures in the sūtras aud Manu, but none of the ancient dharmasūtras, nor the Manusmṛti speaks of Vivāyaka. Hence conclusions must be drawn only froin what positively occurs in the Garuda purana and not from the absence of any topic in it. The Garudapurāna sometimes follows the arrangement and form of the verses presented in Vis., sometimes it agrees with the Mit. and sometimes it is independent. For example, the two verses enumerating the authors of dharmaśāstras ( Yāj. 1. 4-5 = Garuda 93. 4-5 ) follow the readings of Vis., but not those of the Mit. In the 3rd kūnda, verses 14-19 of the lit. are differently arranged by Vis., and Vis. omits the dates Aparārka also ) one verse found in the Mit. (I11.23 Dus sit above, while the Mit. omits two half verses that are fouin Vis. ( vide note 313). The verse 'ī danta &c.' occurs in the 
 
@@ -159,7 +159,7 @@ FOUNDED
 
 430 
 
-History of Dharmaśāstra 
+
 
 the fact that the sūtra of Saṅkha-Likhita cites Yājñavalkya among the promulgators of Jharmaśāstras ( vide note 137 ), while Yāj. himself includes Saṅkha-Likhita among the pro pounders of dharma (note 258 ), it may be plausibly said that Saṅkha-Likhita refer to an earlier Yājñavalkyasmrti than the extant one. Beyond this there is no evidence to establish that there was an earlier version of the present smrti. A comparison of the readings of Visvarūpa and the Mit. with those in the Agni and Garuda purānas has established that the text of the sinști no doubt underwent slight verbal changes between 800 and 1100 A. D. and that a few verses were added and also omitted during these centuries. But the text remained in the main the game from 700 A. D. What the original smrti contained, whether it was in prose or verse or both and whether it dealt with only ācāra and prāyascitta sections are questions on which conjectures may be advanced, but there are no substantial materials for arriving at even tolerably certain conclusions. 
 
@@ -187,7 +187,7 @@ It is said that the sages approached Yājñavalkya in Mithilā and requested him
 
 Hestaristu432 
 
-History of Dharmaśāstra 
+
 
 qualifications of girl to be married, limits of sapinda relation ship, intercaste marriages; the eight forms of marriage and the spiritual benefits therefrom, guardians for marriage, Kșetraja son; grounds of supercession of wife, duties of wife; principal and intermediate castes; duties of householder and keeping sacred domestic fire, the five great daily yajñas; honouring a guest, machuparku, grounds of precedence, rule of the road, .privileges and duties of the four varnas; ten principles of con duct common to all; means of subsistence of a householder, and solemn vedic sacrifices; duties of onātaka, days of cessation from study; rules about prohibited and allowed food and drink; rules about flesh-eating; purifications of various materials, such as metal or wooden vessels, gifts, whois fittest to accept them, who should accept gifts, rewards of gifts, gift of cow, rewards of other gifts, highest gift is knowledge ; srāddha, proper time for it, proper persons to be invited at it, unfit persons, the number of Brāhmaṇas to be invited; procedure of sraddhas; various srāldhas such as pārvana, vṛddhi, ekoddista ; sa pindi karana ; what flesh to be offered at śrāddha, reward of offering śrāddhas; propitiatory ceremonies as regards Vināyaka and the nine grahas; rajadharma, king's qualifications; ministers, purohita, royal edicts, king's duties of protection; adminis tration of justice ; taxation and expenditure; allotment of the day to various duties; constitution of mandala, the four ex pedients, the six gunas ; fate and human effort; impartiality in punishment; units of measure and weights ; grades of fine ; Kānda II. members of the hall of justice, judge, definition of vyavuhūrapadu, rules of procedure, plaint, reply, taking secu rity, indicia of a false party or witness ; conflict of dharma sāstra and arthaśāstra ; means of proof, documents, witnesses, possession; title and possession ; gradation of courts; force, fraud, minority and other grounds of invalidity ; finding of goods; treasure-trove; debts, rates of interest, debts of joint family; what debts of father son need not pay: devolution of debts; suretyship of three kinds ; pledge ; deposit; witnesses, their qualifications and disqualifications; administering oaths, punishment for perjury; documents; ordeals of balance, water, fire, poison and holy water; partition, time of it, wife's share on partition, partition after father's death, property not limite to partition, joint ownership of father and son ; twelvekindo of sons ; illegitimate son of sūdra; succession to a sonlegaman) re-union ; exclusion; husband's power over wife's strīd lagu boundary disputes; dispute between master and herdsmas, sule 
 
@@ -243,7 +243,7 @@ Bhanda
 
 436 
 
-History of Dharmaśāstra 
+
 
 7-10); 473 Gargi stated at the end that she had forgotten Yājāavalkya's exposition of Yoga with its eight angas as the means leading to moksa and that he should explain briefly the Yoga with eight aiga8 ; Yajna° agrees ; XII brief description of a posture for control of Vāyu in which the right ankle is pressed against the anus (one among several items) and of practising this for two ghatikās for ten days one has certain experiences such as lightness of the body, hearing sounds and passing only a small quantity of urine and faeces &c. ; then contemplation on calermin (serpent that is lodged in the Kundalini); rousing of the Kundalini ; all ( Upanisad passages ) declare that one is to realize that brahman from which proceed all these beings &c. 
 
@@ -295,7 +295,7 @@ FOUNDEC
 
 438 
 
-History of Dharmaśāstra 
+
 
 verses and a half which are Bș Y. Y. VII. 2 (latter half)-5. Mr. Divanji does not show that these verses occur in the 
 
@@ -333,7 +333,7 @@ The details of information about Vināyaka in Yāj. (I. 272-276) appear to have 
 
 440 
 
-History of Dharmaśāstra 
+
 
 Vināyakaśānti was thought to be a gure indication of the late date of Yāj. Smrti. But since the discovery of the Mānava gshya that position had to be given up. In the Baudhāyana dharmasūtra (II. 5. 21 ) we have Vinayaka and his several appellations (in the tarpaṇa ). A parārka on Yāj. I. 275 quotes a long passage from the Baija vāpa-gļhya which bears a very close correspondence in phraseology to the passage from the M. Gș. S. quoted above and which gives the names of the four Vināyakas as Mita, Sammita, Salakatan kata and Kūsmāṇdarāja putra. 
 
@@ -367,7 +367,7 @@ FOUNDI
 
 1919442 
 
-History of Dharmaśāstra 
+
 
 For settling the date of Yāj. we need not consider the evidence after the 9th century A.D. For, in the first quarter of that century (as we shall see later on ) Viśvarūpa wrote his extensive commentary on Yāj. - That he was separated from Yāj. by many centuries follows from several considerations. Not only had numerous various readings arisen in the text of Yāj. when he wrote, but various interpretations of the same words and verses of Yāj. had arisen. For example, he gives several meanings of the words 'putronanyāśritadravyah' (in Yāj. II. 47 ), of 'sāmudrāh' (II. 41 ); he gives different inter pretations of I. 265, II. 160, II. 173 &c. He refers to the interpretations of his predecessors in several places by the word 'anye' (I. 3, 25, 155, 169; II. 21, 119, 121 ; III, 201,209, 246 &c. ). In several places he appears to be referring to two other interpretations than his own ( vide on III.250, the words 'kecittu' and 'anye tu' and the same words on III.261 and 264). That Visvarūpa had before bim actual commentaries on Yāj. and was not merely giving scholastic interpretations started by himself is made very clear in several cases by his actually citing certain portions from those works. On 1.252 Visvarūpa says. others take from somewhere the following floke (then the sloka is quoted ), but this sloka is of no help, as its origin is not known !.480 Similar words occur in the comment on Yāj. III. 222. On II. 193 he styles some pre decessor as panditammanya' and on III. 257 he ridicules a predecessor who regards the verse of Manu IV. 222 as an arthavāda by saying that that commentator wanted to show off that he knew the technical term arthavāda.481 It is not unlikely that Viśvarūpa in this last passage refers to some ancient commentator of Manu such as Asahāya. In the Prāyascittamayūkha, 48' Nilakantha ( Benares edition of 1879 ) 
 
@@ -401,7 +401,7 @@ Bhandarkar o
 
 444 
 
-History of Dharmaśāstra 
+
 
 Indians from the Greeks, no Indian work which enumerates the week days or arranges the planets in the well-known sequence of Sun, Moon, Mars &c. ) could have been composed before the third century after Christ. As is very often the case with Western Sanskrit scholars in matters of Indian chronology, this grand generalization is based upon very slender data. The premises are mere assumptions without hardly any evidence worth the name to support them. No one knows exactly when the week-days were named and who were the people that first employed the current names of the week-days. It is well-known that as far back as the days of Herodotus the Egyptians had a presiding deity for each day and that in the times of Julius Cæser there were days of Saturn (vide I. A. vol. 14, p. I, General Cunningham's article for the Indian origin of week-days ). At least from the third century B. C., as vouched for by the 13th edict of Asoka, India was in close touch with Syria and Egypt, where Bud dhist missionaries had been sent by Asoka while Antiochus and Ptolemy ruled in the two countries respectively. There fore, if Indians at all borrowed the week-days and the arrangement of planets from foreigners, there is nothing to prevent us from holding that they might have borrowed them from the Egyptians. 
 
@@ -465,7 +465,7 @@ Rhandarkara
 
 448 
 
-History of Dharmaśāstra 
+
 
 pp. 166-168, XII. 9-14 ). Manusmrti contains a good deal of matter on Yoga e. g. vide Manu VI. 70-73; Yāj. 111.67 imitates Mundakopaniṣad II. 1.1 (in thought and words ), Yāj. 111.71 contains ideas common to Manu III. 76 and Santi parva 264.11 ; Yāj. III. 185 follows Gaut. Dh. S. VIII.23 ; Yāj. II1.186 follows Āp. Dh. 11.9. 23.3; Yāj. III. 193-94 have in view Chāudogyopao V. 10.1; Yāj. III. 195-197 follow Chān. Up. V. 10.3-5 and Bṛ. Up. VI. 2.16; Yāj. III. 200 re peats the very words of Gītā VI. 11 and XII. 4 in part. 
 
@@ -501,7 +501,7 @@ Long after the first volume of the H. of Dh, was publi shed two works have been 
 
 450 
 
-History of Dharmaśāstra 
+
 
 on each. 
 
@@ -553,7 +553,7 @@ FOUN
 
 humanis452 
 
-History of Dharmaśāstra 
+
 
 IX, 187 (first half) =G. 6. 11 (latter half); B. IX. 197-98 (latter half and first half)=G. 12.12; B. XI. 2-3=G. 2. 40 and 46; B. XI. 46=G. 18.46 ; B. XII. 14 ( first half )=G. 16. 8. 
 
@@ -583,7 +583,7 @@ FOUNDED
 
 454 
 
-History of Dharmaśāstra 
+
 
 and legends or with ignoring the Upanisad story and foisting a totally new one on Yājñavalkya. In the Br. Upanigad (II.4-5) it is said that Yāj. had two wives Maitreyi and Kātyāyanī, the former wanted no wealth but was eager only to learn the means for securing immortality and then Yāj. expounded to her Brahma-vidyā. In Bṛ. Up. III-1 it is said that Janaka offered to donate a thousand cows to that one among the persons assembled who was the best knower of brahman. Yāj. asked his pupil Sāmasravas to take away the cows. Then Asvala, Janaka's hotr priest, and others viz. Artabhāga, Bhujyu, Usasta, Kahol& asked him questions, which Yāj. answered and silenced them. Then Gārgi Vācak navi asked him (in Br. Up. III.6) several questions one after another and lastly asked 'kasmin nu Brahmaloka otāśca protāsca'. Yāj. said to her' do not carry your question ing to the utmost limit, otherwise your head would fall down' (i. e. you will meet death). She remained silent. In the Yoga yājñavalkya ( ed. by Divanji ) she is put forward as Yājña valkya's wife, a pure invention by the author of that work for the sake of palming it off as a very authoritative work. 
 
@@ -603,7 +603,7 @@ There are some special features in the Br. Yogi-Yāj. Most early and mediaeval w
 
 456 
 
-History of Dharmaśāstra 
+
 
 The Brahmacāri-kāṇda and Mokṣa-kānda of the Kalpa taru (about 1125–1150 A. D.) quote respectively about sixteen and ten verses from Yogiyājñavalkya. A well-known verse about the meaning of rnātrā in prānāyāma has been quoted in vol. V. (of the H. of Dh.) p. 1438 n. 2361 from the Yogi-Yāj. which is Br. Y. Y. VIII.12. An interesting passage from the Brahmacārikānda of the Kalpataru is quoted in the foot-note which shows that the work was known as Yogi Yājñavalkya to the Kalpataru. 490 
 
@@ -643,7 +643,7 @@ POO
 
 458 
 
-History of Dharmaśāstra 
+
 
 S 
 

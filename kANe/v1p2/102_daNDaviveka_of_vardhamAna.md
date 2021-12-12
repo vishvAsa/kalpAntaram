@@ -31,7 +31,7 @@ naming the seven works of Can,leśvara including one on Vyavabāri.
 
 856 
 
-History of Dharmaśāstra 
+
 
 Vardhamana in the Dandaviveka cites Halāyudha 33 times and sometime meotions his work Halāyudha-nibandha (as on pp. 72, 150, 275 ) and as Halāyudhiya (pp. 119. 152 ). 
 
@@ -57,7 +57,7 @@ RITA fos af! Iyu is one of the commentators on the Manu-snuști, whom the Dandav
 
 858 
 
-History of Dharmaśāstra 
+
 
 were his gurus (Intro. Verse 6). At the end he says that he wrote the Dandaviveka for the sake of the king of Videha, that he was the son of Bhaveśa of the Bilvapañcaka family. He mentions at the end that he wrote the work after consulting the follow ing works and authors viz. Kalpataru, Kamadhenu, Halāyudha, Dharmakosa, Smrtisāra, Krtyasagara, Ratnakara, Parijāta, the two Sambitās of Manu and Yajnavalkya with the commentaries thereon; besides Vyavahāratilaka, Pradipika and Pradipa. Besides those mentioned in the verses at the end and besides the two epics, Purinas, Dharmasutras and smstis he mentions also Krtya sāra (p. 28), Graheśvaraniśra (pp 27, 13+), Candeśvara, Catur varga-cintamaṇi (326, 346-7). Parāśarab rāsya (p. 279), Bhava deva (pp. 77, 238, 347, 353), Bhūpālapaddhati (136), Balabhūṣana (p. 135), Miśrāḥ (i, e. Vacaspatimiśra, his guru 64, 65, 92, 195, 97, 282, 317), Vivāda-cintāmaṇi (211, 278 ), Samayaprakāśa (136), Smstisagara (136), Sūlapāṇi (240), Harinātha (p. 251, 326 ), Harihara ( 182 ). 
 
@@ -97,7 +97,7 @@ HTET faculaziala i sust4 FTTI07UTT i guclè p. 28. 1300 स्वदारनि
 
 860 
 
-History of Dharmaśāstra 
+
 
 pati's Srāddhacintamaṇi refers to Vardhamana's work on Pari bhāṣā'. For the Smṛti-paribhāsā of Vardhamāna, vide Mitra's Notices, vol. V pp. 160-161. 
 

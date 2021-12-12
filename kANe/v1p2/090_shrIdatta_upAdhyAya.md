@@ -19,7 +19,7 @@ These are the wt rds of कुल्लूक on मनु. 71.
 
 760 
 
-History of Dharmaśāstra 
+
 
 is one of the earliest among the mediaeval Maithila nibandhakaras. He is the author of several works which will be briefly noticed, 
 
@@ -59,7 +59,7 @@ of 1875-76). H, D, 96
 
 762 
 
-History of Dharmaśāstra 
+
 
 The Samayapradipa treats of the proper times for various vratas. 1149 It is divided into three chapters (paricchedas ). The first is called Samayapariccheda and dilates upon the definition of vrata, on the procedure about fasts, nakta and the vratas of Ganesa and other deities, the second is called Samvatsara krtya-pariccheda and treats of vratās from the pratipadā to the amāvāsya in the several months and the third is called prakirnaka (miscellaneous ) dealing with the vratas on sankranti (the Sun's passage into another Zodiacal sign) etc. In this work Sridatta often refers to the views of the Gaudas and contrasts them with his own. He also refers to Gaudanibandha. No other writers or works except those that are already enumerated under Acārādarśa and Pit;bhakti are named in this work. On folio 7a there is a name which is somewhat indistinct and appears to be “Mitāmitrādibhiḥ'. The Samayapradipa is mentioned in the Kștya-ratnākara (pp. 400, 479, 505 ) of Candeśvara and in Śūlapāṇi's Durgotsava-vivekall4i Sridatta is more frequently quoted in the Sraddhakriya-kaumudi of Govindānanda than almost any other author or work. 
 

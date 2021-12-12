@@ -81,7 +81,7 @@ laid down one simple rule for the proper time of four samskāras. Ap. Dh. 914 S.
 
 608 
 
-History of Dharmaśāstra 
+
 
 [ Sec. II, Ch. XVII 
 
@@ -189,7 +189,7 @@ p. 305.
 
 614 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVII 
 
@@ -223,7 +223,7 @@ pardoz folio 38b, verse 617,
 
 616 
 
-History of Dharmaśāstra 
+
 
 (Sec. II, Ch. XVII 
 

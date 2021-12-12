@@ -84,7 +84,7 @@ FOUNDED
 
 100 
 
-History of Dharmaśāstra 
+
 
 in XIV. 47 (vide Pānini I. 3. 47). It looks as if the dharma sutra once ended with the 24th chapter, where we have an injunction (in gūtra 6 ) against imparting the dharmasūtra to one who is not a son or pupil. The same sūtra occurs in Baudhāyana Dh. S. IV. 4. 9 and the succeeding sūtra is the same in both. But the words' prāyaścitta has been described in the rahasya sections for playing false to the husband' (in Vas. V. 4): apparently refer either to chapters 25-28 (which contain rahasya penances ) or to some prototype of those chapters now lost. 
 
@@ -106,7 +106,7 @@ of them arc quoted in different works and ascribed to other sources, For example
 
 It may be pointed out that Aparārka (p. 1322 on raj. III. 311) quotes Vas, 28. 10-11 and a prose passage (of 6 lines) in which the Aghamarsana hyon, Rg. X. 189 (dyam gaul dic), Rg. IV. 40. 5 (Hanisah sucisad ) and the Gūyatri are prescribed as expiations. Vas. 28. 10-15 occur in Viṣnu Dh. S. chap. 56, and 28. 11-15 in Saṅkliastarti (Anan. ) X. 1-5 ( with slight variations and Vaste 11 (aghamarpanain &c.) also occurs in Baud. Dh. S. IV, 3, 12th pāda being different ) preceded by athāpyudāharanti'. Vas. 28. Talmontes are quoted as Vasistha's in Sm. C. I. p. 187 (Gharpure's edities L10% 
 
-History of Dharmaśāstra 
+
 
 sūtra of Manu. That sūtra is only a summary of our Manu I. 118. Vas. 3, 2 (which is preceded by the words ' Mānavam slokam' is Manu II. 168. And so are Vas. 13. 16, 20. 18, which are Manu 4. 117 and 11. 151 ( with very slight variations). That the latter existed in Vasistha's text is vouched for by Aparārka (p. 1075). Vas. 4. 5 is in prose and cites the view of Manu that animals may be sacrificed only for worshipping and honouring the manos, deities and guests 105. There is hardly anything to show that it is a direct quotation from Manu and not a summary of Manu's views. The sūtra briefly summaries the views that we find expressed in our Manu 5. 22, 32, 41 and 42 (the words of 42 'eṣvarthesu paśum himsan' are interesting and bear a olose resemblance to 'paśum himsyād' in Vas.). That sutra is followed by a verse which is the same as Manu 5. 41. It is to be noted that the same verse occurs in the dharwasūtra of Visnu (51. 64 ) which reads 'nānyatreti kathamcana ' for 'nānyathety bravin Manuh'. This change appears to have been purposely made to keep up the impression that the Visnu Dh. S. emanated from Visnu himself and so could not have borrowed from a human author. Vas. 4.7 is very similar to Manu 5. 48. Bühler (8. B. E. Vol. 25, P. XXXI) is wrong in taking Vas. 4. 8 as a quotation from the Mānavadharmasūtra. There is nothing to show that it is so takon. It is more probably a quota tion from or a summary of a Brāhamna passage (compare a quotation in Aparārka on Yāj. 1. 109, which is similar). Vas. 23. 43 ( where Manu is referred to as prescribing an easy penance called Sisukrcchra for children and old men )corresponds more or less with Manu 11. 211 and 219 and Vas. 26. 8 has evidently Manu 11. 260 in view. There are only two places in Vasiṣtha where the name of Manu occurs for which it is not possible to point out a corresponding verse in the Manusmrti. They are Vas. 12. 16 and 19. 37. The latter is cited as a Mānava sloka and is in the Upajāti metre. 106 Because this is not found in our Manu, Bühler and other Western scholars seem to think 105 pga ataug harada Toj rerni a Ala I ATAS 4.5; 918 4.8 is sponta 
 
@@ -144,7 +144,7 @@ In the words 'Srāmanakenāgnimādhāya' (Vas. 9. 10 ), the sūtra of Vikhanas s
 
 104 
 
-History of Dharmaśāstra 
+
 
 and Visnu Dh. S. 90.10 (in prose ) is nearly the same as Vas. 28. 18-19. Besides Vas. 28. 11 occurs in Baud. Dh. S. IV. 3.7. Hence it is hardly proper for any scholar to make the dogmatio assertion that one particular smrti must have borrowed from any other. The rather very corrupt passage in Vasiṣtha (16.21-23 108) very closely resembles a passage of Saṅkha, which is cited by Viśvarūpa on Yāj. I, 305 and by the Krtya-kalpataru. 
 
@@ -176,7 +176,7 @@ Tre p. 1067 ( this is afhe 23. 38); ara que a arors RA FAQ Hurraa u19 aartall fo
 
 106 
 
-History of Dharmaśāstra 
+
 
 avidity on a variant reading and to build an imposing structure of chronology thereon. The offspring of a Vaiśya male from a Brāhmaṇa woman is designated Rāmaka by Vasistha, while Gautama calls him Krta ( 4. 15 ) and Baud. Dh. 8. (I. 9.7) calls such an offspring Vaidehaka; so Rāmaka has as much to do with the Romans as with Rameses. In the nibandhas there are several quotations ascribed to Vasistha which are not found in the printed Dharmasūtra. For example, Haradatta on Gaut. (22. 18 ) quotes a verse in the Upajāti metre which is not found in the present text 110 
 
@@ -244,7 +244,7 @@ NDED
 
 108 
 
-History of Dharmaśāstra 
+
 
 and its Brāhmaṇas outnumber those from the Rgveda and its Brāhmanas. Then the question naturally arises, why was it adopted by Rgvedins as their Dharmasūtra ( as stated by Kumārila). The answer is obvious. Vasistha is mentioned by name in the Dharmasūtra several times (vide above). The sūtra does rely on the Rgveda and its Brāhmaṇa in a few passages. Vasiṣtha's is the greatest and most famous name among the ancient sages of the Rgveda. The whole of the 7th mandala contains 104 siktas out of 1028 in the whole of the Rgveda, is ascribed to Vasistha (Maitrāvaruṇi). Mandalas I, IX and X have more sūktas than mandala VII, but every one of the three manlalas is held to have been composed by several sages (and not by one for each of them). One aspect of the Vasistha Dh. S. viz. that different mss. of it state that it ends with different adhyāyas is very significant. If it had been from the beginning a sūtra of the Rgveda, then its text would have been at least as well preserved as the text of such gļhya or dharma sūtras, as those of Āśvalāyana and Apa stamba. Besides, there is one remarkable circumstance. The ĀŚv. gr. (II. 6) which is affiliated to the Rg. names and briefly defines eight forms of marriage viz. Brāhma, Daiva, Prājāpatya, Arṣa, Gāndharva, Asura, Paiśāca and Rākṣasa. The Saṅkhāyana-gļhya (I. 12-14) only describes the religious part of the marriage ceremony and altogether omits the mention of eight forms of marriage and their definitions. So does the Kausitaka-gphya (1. 8). The Gaut. Dh. S. IV. 4-11, Baud. Dh. S. I. 11. 1-9, Manu III 21 and 27-34, Kautilya III, 2. 1-9 name and define the same eight forms of marriage, as Āśv. Gr. does. But Vasistha (I. 28-36 ) mentions and defines only six forms of marriage viz. Brāhma, Daiva, Ārsa, Gāndharva, kṣātra and Mūnuṣa. In this he seems to follow Ap. Dh. S. II. 5. 11, 17-20-II. 5. 12. 1-2). If Vas. Dh. S. had been from the first affiliated to the Rgveda it should have either treated the subject in the same way as Āśvalāyana or followed the Āśv. gr. and enumerated eight forms or should have been silent about the several forms of marriage (as Sāok. and Kaus. gṛ. are ). This circumstance very much strengthens the theory that Vas. Dh. S. is eclestic and therefore followed Ap. Dh. 8. in the number of forms of marriage. There is a further circumstance. Vas. Dh. S. differs from Asv. Gș, not only in the numberly of the forms of marriage but also in the nomenclature. His Klatra. the same as Rākṣasa and his Mānusa is the same as Acuta, These two terms were probably borrowed by Vasistha from 
 
@@ -290,7 +290,7 @@ FOUNDED
 
 Bhandarkar Orienta112 
 
-History of Dharmaśāstra 
+
 
 prose passage. The Kalpataru profusely quotes Vasistha in Gșhasthakāṇda ( 41 times ), in Vyavahārakānda (37 times) and Brahmacārikāṇda (15 times ), yet never quotes Vṭddha Vasiṣtha in these three. In Dānakanda (p. 189) it quotes two verses on 'gocarma' and the reward of gifts of land of the extent of gocarma from Vṛddhavasistha 1104. The Smṛticandrika quotes about 20 verses from Vrddha.Vasistha on āhnika and śrāddha ; Bhattoji in his gloss on the Caturvimśatimata (p. 12 ) seems to quote a prose passage from Vṛddha-Vasistha. From the above it follows that. Vṇddha-Vasistha was an early compilation and dealt with almost all such topics (including Vyavahāra ) as are dealt with by Yāj. The Mit, also quotus on Yaj. III 287 a Brhad Vasiṣtha. The Smṛticandrikā (III. p. 300 ) quotes a few verses from a Jyotir-Vasistha. The I. O. catalogue (No. 1339 p. 392 ) speaks of a Vasistha-smrti in ten a lhyāyas about the religious observances and duties enjoined on devotees of Visṇu. 
 

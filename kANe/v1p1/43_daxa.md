@@ -21,7 +21,7 @@ t
 
 514 
 
-History of Dharmaśāstra 
+
 
 Dakṣasmrti contains the name of Daksa himself and shows that he was a thorough-going Advaitin (as the note shows ).582 
 

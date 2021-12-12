@@ -75,7 +75,7 @@ Sāmavidhana Br T 51 another derivation is suggested vix that prāyah' is compos
 
 149 तथा च वृहस्पतिः मायाश्चत्तमकरणस्योपक्रमोपसदारयो नैमित्तिकत्वं दर्शयति । नैमित्तिकै धर्मजात गदतो मे नियोधत । विहितस्याननुष्ठानात् प्रतिपिद्धनिषेवणान् । प्रायश्चित्त यत्क्रियते तसमित्तिकमुच्यते। इत्युपकम । नैमित्तिक समाख्यात प्रायश्चित्तं समासत.। FOTO TI PT. II part 1 p, 7, also in TVET Os ar III 206 and प्राय प्रकाश follo7 b तथा च जाचाल ! अत: काम्य नमित्तिकं च मायावत्तमिति स्थिति मा प्रकाश folio 8a, 
 
-150 Actions are divided into three kinds, *18ya, nawuttika and Dūnya Mutya acts are those lhe sandhya-vandana (which are obligatory and performed dails as a duts aaci which if not performed lead to sinful. ness), naimittiha are those acts uhich have to be done only on some occasion (as a bath on an eclipse) and kimya rites are those which arc performed out of a desire to secure some object (as the sacrifice callcd putresti for n son ), Manu in XI 53 871 "thereforc (because of the remnants of tbe guilt of 
+150 Actions are divided into three kinds, nitya, naimittika and kāmya. Nitya acts are those lhe sandhya-vandana (which are obligatory and performed daily as a duts aaci which if not performed lead to sinfulness), naimittika are those acts which have to be done only on some occasion (as a bath on an eclipse) and kāmya rites are those which are performed out of a desire to secure some object (as the sacrifice called putreṣṭi for a son ), Manu in XI 53 871 "thereforc (because of the remnants of tbe guilt of 
 
 (Confissued on the next page) 
 
@@ -109,7 +109,7 @@ B arat) gafrecare This is the giver view The Fira 18.gaia which is supported by 
 
 62 
 
-History of Dharmaśāstra 
+
 
 Yol, 
 
@@ -131,7 +131,7 @@ dasarātra, Caturdasarātra and so on. All these are called rātri Battras. With
 
 at मामकामो वा मजाकामो धोपहत्येन यजेत,' 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -179,7 +179,7 @@ H.D.9
 
 66 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 
@@ -355,7 +355,7 @@ Tarū .. HENTAI VIETOTA ! (10.62) at Sterregaietta 1797 Am
 
 TESTATA U 1974 AP 12. 
 
-History of Dharmaśāstra 
+
 
 (Vol. though he has no adhikāra (for recitation of Vedic mantras and homa), yet becomes purified by undergoing the observances (except japa and homa) for the periods prescribed. Angiras 185 provides that penance may be administered to a gūdra devoid of japa and hioma. Even as to japa and homa there were works like the Madanapārijāta p. 749 and Vy. M (p. 112) that relying on a verse of Parāśara VI, 63-64 held that a homa could be performed for women and sūdras in the ordinary fire through & brāhmang186, The Pr, V, relies on Manu X. 62 and a prose passage of Devala for the proposition that even Candālas have to perform penances, if they act contrary to the rules and pro hibitions laid down for them Since the non-performance of what is prescribed and doing what is forbidden lead to sin, the person guilty of these or the person who has a desire to destroy his sins is a person entitled to perform prāyaścitta, as also one who repents of his guilt. 
 
@@ -455,7 +455,7 @@ __199. न च द्वादशवार्षिक चतुर्गणे 
 
 अपरार्क p. 1058 ascribes it to यम 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

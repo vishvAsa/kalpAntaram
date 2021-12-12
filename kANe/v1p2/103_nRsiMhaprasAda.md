@@ -37,7 +37,7 @@ quuted in the Intro. (p. 6) to the Vyavahārasāra. 1302 e. g. verse 8 of the �
 
 862 
 
-History of Dharmaśāstra 
+
 
 बजने समस्तकरणाधीशः'? This will remove the defect in the metre, but the question would still remain 'who was Nebajana ?'. Besides, the printed दीर्थसार, प्रायश्चित्तसार and श्राद्धसार read the latter half of the verse as श्रीमदलभम् नुरात्मनिरतः सत्सप्रदायाग्रणी:...श्रीमान्दलाधी श्वरः There are elaborate colophonsisos at the end of almost each section (called sāra ) in which we are told that Dalapati was the pupil of Sūryapardita, that he was a great exponent of the Vaisnavadharm.a, that he was the chief minister and keeper of the records of Nijāmasāha, who was the overlord of all Yavanas ( Mahomedans) and ruler of Devagiri. In some colophons — Dalapati or Daladhisa ' is styled Maharajadhiraja. H. P. Shastri in his Preface to Vol. III of the Catalogue of Govt. Mss. (pp. XXIII-XXIV) in the custody of the Bengal Asiatic Society remarks that Dalapatiraya was chief of Gadh mandla and had a commanding position in the Nizamshahi kingdom of Ahmednagar. Dalapati's wife was the famous Durgavati who so bravely fought against the generals of Akbar that the latter had to come hiniself to invade her capital, It is doubtful whether Dalapati or Dalidhisa was the real name of the author or was merely a title. It is not unlikely that Suryapandita, said to be the guru of the author, is the same as Sūrya, the father of the great Maratha saint Ekanātha, who wrote his Bhāgavata at Benares in śake 1495 (i. e. 1573 A. D.) and who states that he was born in a family of devout Vaiṣṇavas. 
 
@@ -113,7 +113,7 @@ vide TGHR ( p. 63-64 b) ) for almost the same words. 1309 āria: Failea ferat TT
 
 866 
 
-History of Dharmaśāstra 
+
 
 It quotes for its size numerous authorities, particularly smrtis and Purā ṇas,1309a but nibandhas or digests rarely. It men tions the Mitāksarā (p. 43), Mādhavācārya (p. 94 ), Smrticandri kākāra (p. 71 in the plurai ), Smṛtiratnāvalikāra (p. 94 in the plural). 
 
@@ -151,7 +151,7 @@ ant of tyfusa. 1316 At the end of the colophon of the saint we have the date
 
 868 
 
-History of Dharmaśāstra 
+
 
 the dates when the ms. was copied for Rāmapandita, but rather the dates of the composition of the original work or of the copy ing the ms. from which Ramapandita got his own ms. copied, At all events it is clear that the Nosimhaprasāda could not have been composed later than 1512 A. D. As the author was a minister of Nijāmasāha who ruled over Devagiri, it appears that he is referring to Ahmad Nizam Shah who ruled from 1490-1508 A. D. or to his son Burhan Nizam Shah ( 1508-1533 A. D.), most probably the former.1317 It may be taken as certain that the work was composed between 1190 and 1512 A. D. 
 

@@ -33,7 +33,7 @@ a19cufatti fara caifa in traditi; vide p. 268 also. 1280
 
 ' 
 
-History of Dharmaśāstra 
+
 
 mentioned in the work are noted below.1281 In this work he mentions several vernacular equivalents for Sanskrit terms. The Vyavahāracintāmani1282 deals with judicial procedure, viz. the four principal topics thereof, viz. bhāsā (the plaint), uttara (reply of defendant ), kriyā ( evidence), nirnaya ( decision ). An excellent edition of the Vyavahāracintāmaṇi was published at Ghent in 1956 by Dr. Ludo Rocher, based on seven mss., with an English translation and several appendices giving the first words of the verses ( quoted ), the authors quoted or referred to, the passages where the Vyavahāra-cintamani has been expressly referred to and a glossary of technical terms. The Suddhicintā. māpi was printed at Benares in Bengali characters in śake 1814 (JASB for 1915. p. 396 n 2). The Sudrācāracintamaṇi deals with the duties of sūdras (Mitra's Notices, vol. VI, p. 22, No. 2001). The Sraddhacintāmapi is a standard work and was printed at Benares in Bengali characters in sake 1814. The Vivada-cintāmaṇi (p. 151, ed. of 1837) states that all persons that are sonless have been dealt with at length in Srāddha-c, and are therefore not dealt with by him in Vivāda-c. 
 
@@ -107,7 +107,7 @@ fatala17647140 17TH | at end, H, D.-107
 
 850 
 
-History of Dharmaśāstra 
+
 
 Suddhicintamani published at Benares in Bengali characters over seventy years ago ends with the words "Suddhinirnaya ucyate'. The Suddhinirnaya of Vacaspati deals with impurity, on birth and death, the religious acts that must be performed even in times of impurity, sapinda relationship, periods of impurity for the prin cipal varnas and mixed castes; periods of impurity on abortion, the deaths of infants and women, accidental deaths etc., overlapping of several periods of aśauca; impurity arising from carrying a corpse; rites after the death of a samyāsin; impurity from contact of lower castes, such as washermen and cāṇdālās, freedom from impurity at tirthas and marriages etc. 
 
@@ -135,7 +135,7 @@ flafo au faifa: Tranfeathfor: &c. Mitra's Notices, vol. VI. p. 22 No. 2001. In t
 
 852 
 
-History of Dharmaśāstra 
+
 
 the bidding of his patron.1288 Varadhamāna in his Daṇdaviveka says that one of his gurus was Vacaspati.1290 It is probable that it is this Vācaspati that is meant. But as against this we must remember that Vacaspati in his Sraddhakalpa quotes Vardhamana Upadhyāya on śrāddha. Vardhamāna wrote his Dandaviveka while king Bhairava was reigning and his Garga krtyaviveka for Rāmabhadradeva. So Vacaspati was an elder contemporary of Vardhamana. 
 
@@ -191,7 +191,7 @@ Raghunandana, the foremost medieval Nibandhakara of Bengal on Dharmaśāstra is 
 
 854 
 
-History of Dharmaśāstra 
+
 
 criticism of Vācaspati and Maithila writers. He often discusses the views of Vācaspati and in a large number of cases states that what Vacaspati says should be given up or not followed (heyam) or that what Vācaspati says has been rejected or shown to be wrong ( nirastam ). The present author will first mention a large number of cases by references to the pages of the Smstitattva of Raghu. where those words (heyam) or 'nirastam' or 
 

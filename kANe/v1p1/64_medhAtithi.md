@@ -15,7 +15,7 @@ Jayasval). 751 अत्र श्रीकरः प्राह । यदा 
 
 574 
 
-History of Dharmaśāstra 
+
 
 are substantial lacunas in the commentary on verses 1, 4-6 as in Mandlik's edition. An English translation of the bhāsya by M, M. Dr. Ganganath Jha is in progress and several parts have been published so far. In the following, Mr. Gharpure's edition has been used. The bhāsyu as printed is corrupt in many places, particularly in the 8th, 9th and 12th adhyāyus. In Mr. Gharpure's edition there is no bhlisya on verses 182-202 of the 9th chapter. 
 
@@ -97,7 +97,7 @@ FOUND
 
 578 
 
-History of Dharmaśāstra 
+
 
 examples. He cites passages from Sabara's bhūsya (e. g. on III. 1). He mentions Kumārila by name (on I.3) and as Bhattapāda ( on Manu II. 18 ). 
 
@@ -177,7 +177,7 @@ yggd i 10 ON H9 9. 188,
 
 582 
 
-History of Dharmaśāstra 
+
 
 adopt even a ksatriya boy. He explains away the well-known verse 'naste mrte...patiranyo vidhiyate' by taking the word 'pati' in its etymological sense and says769 that the verse suggests that in order to maintain herself in such calamities the woman may take service with another person as her protector. 
 

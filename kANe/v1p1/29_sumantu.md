@@ -53,7 +53,7 @@ Bhandar Resear
 
 298 
 
-History of Dharmaśāstra 
+
 
 (q. by Mit. on Yīj. II. 21 and by Aparārka on p. 1043 on Yāj. III. 227 ) is there is no blame ( or sin ) in killing an atrıtayin, except in the case of a cow or a brāhmana that is āta tāyin ). For a discussion of this dictum vide H. of Dh. Vol. II. pp. 148 151 and III. pp. 517-18, and the paper "Ātatāyivadha' by Prof. Rangasvami Aiyangar in C. K. Raja presentation vol. pp. 197-232. The Mit. quotes several prose passages of Suma ntu on Yāj. II. 21, III. 6, 37, 250, 258, 260. 
 

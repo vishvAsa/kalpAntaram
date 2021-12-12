@@ -37,7 +37,7 @@ the Visṇu Dh. S. VIII. 12 is that 481 when a person that is appoin ted as a wi
 
 485. Vide Best on 'Evidence' (12th ed. of 1922) p. 315: 'The Mosaic law in some cases and tbe Civilians and Canonists in all exacted the evidence of more than one witness, a doctrine adopted by most nations in Europe and by the ecclesiastical and some other tribunals ainong us'. Accor. ding to the Common Law of England and the Indian Evidence Act (I of 1872) sec. 134, no particular number of witaesses shall in any case be required for the proof of any fact. Best (ibid. p. 520) notices that in prosecutions for perjury the testimony of at least two witnesses is required by the Common Law of England (now confirmed by Statute) and that by Statute two witnesses at least are required in trials for treason. Vide Emperor v. Bal Ganga. dhar Tilak 6 Bom, L. R. 324 where the rule about two witnesses in convic. tions for perjury according to the Common Law of England was relied on.33% 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -133,7 +133,7 @@ the like which are of a fixed nature (of a civil nature ), but that in complaint
 
 338 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -237,7 +237,7 @@ and not properly arranged,
 
 344 
 
-History of Dharmaśāstra 
+
 
 | Vol. 
 

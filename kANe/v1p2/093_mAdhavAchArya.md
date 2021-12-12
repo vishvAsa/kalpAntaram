@@ -33,7 +33,7 @@ qeyd || 9th Intro. verse,
 
 780 
 
-History of Dharmaśāstra 
+
 
 Mādhayācāryah'. The Parāśarabhāsya is mentioned by Raghu nandana in ( vol. I.) Tithi pp. 24, 63, Ahnika pp. 343, 359 also. 
 
@@ -59,7 +59,7 @@ Even Father Heras concedes that the stone inscription in E. C. VI Sgi of 1346 A.
 
 782 
 
-History of Dharmaśāstra 
+
 
 mentioned as Jagadguru; his teachings benefitted Harihara II in 
 
@@ -117,7 +117,7 @@ vol. VII, p. 2620 No, 3190. The king referred to is FFH. H. D. 99
 
 786 
 
-History of Dharmaśāstra 
+
 
 76 
 
@@ -169,7 +169,7 @@ was made to Sāyapa's three sons, Kampaṇa, Māyaṇa and Singapa and that Sāy
 
 788 
 
-History of Dharmaśāstra 
+
 
 mentary on Parāśarasmṛti (called Parāsaramadhaviya) is claimed to be his by Madhavācārya (vide note 1170). Therefore Vidyā ranya's words lead to the conclusion that he is identical with Madhavācārya in a former stage of life (āśrama). Vide Rao Bahadur R. Narasimhachar's learned paper on “Madhavācārya and his younger brothers' in I. A. vol. 45 pp. 1-6 and 17-24. 
 
@@ -225,7 +225,7 @@ O
 
 790 
 
-History of Dharmaśāstra 
+
 
 saciva of a reigning sovereign must have been a grown-up man in 1356 A. D. and so Mādhavācārya must have been quite an elderly person about that time. The Kālanirṇaya tells us that in the cyclic year Isvara following immediately after sake 1258 śrāvana was an intercalary month and that in the cyclic year Bhāva that preceded sake 1258 (i. e. sake 1256) Phālguna was an intercalary month and then examines the intercalary months that occurred in the cyclic years up to Vikāri thereafter (i. e. up to śake 1281 ).11384 As the Kālanirṇaya examines the intercalary months from śake 1256 (i. e. 1334 A, D.) to śake 1281 (i. e. 1359 A. D.), it follows that it was either composed during these years or immediately after this period. The Parāśara madhaviya was composed before the Kālanirnaya. Rao Bahadur Narsimhachar states that in a copperplate grant dated 1386 A. D. it is said that Haribara (11) gave in the presence of Vidya ranya-sripada certain donations to three scholars who were the promoters (pravartaka) of the commentaries on the four Vedas ( Ind. Ant. vol. 45 p. 19). Another inscription speaks of Vidya ranya in 1378 A. D.1188 This shows that Madhavācārya had become a sasnyasin at least in 1377 A. D. Tradition says that Vidyāraṇya died in 1386 A, D, at the ripe old age of 90. There fore we shall not be far wrong if we place the literary activity of Mādhava-Vidyāraṇya between 1330-1385 A. D. From the remarks about intercalary months it appears that the Parāśara mādhaviya and Kālanirnaya were composed between 1335-1360 A. D. There was a tradition among pandits that it was Madhava cārya who composed bhāṣyas on the Vedas and ascribed them to his brother Sāyana. Kasinātha, in his Vitthala-șómantra sāra-bhāsya says so. 1190 
 
@@ -275,6 +275,6 @@ There is a ms, in the Bombay University Library of a work called Kālanirnayakā
 
 792 
 
-History of Dharmaśāstra 
+
 
 by Lakṣmidevi, wife of Vaidyanātha Payagunda. There is a Vivarana of the Kālanirpayadipikā, by Nṛsimha, son of Rama candrācārya ( vide D. C. Ms. No. 99 of 1871-72). 

@@ -17,7 +17,7 @@ maaia ll 977. Al, vol. III. part I. p. 235. 578 स्वाभिप्रा�
 
 508 
 
-History of Dharmaśāstra 
+
 
 Angiras laying down prāyaścitta for killing certain beasts and birds, wherein Angiras himself is men tioned with honour (bhagavān ). Aparārka (pp. 22-23 ) quotes thirteen verses from Arigiras on the constitution of pariṣad, wherein such terms as cāturvilya, vitarkī, angavid, dharmapāthaka are explained and the last of which says that 
 

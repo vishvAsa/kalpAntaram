@@ -47,7 +47,7 @@ logends ). 839 कामधेनो प्रदी( प्रदीपे)ब�
 
 618 
 
-History of Dharmaśāstra 
+
 
 The Virādaratnākara of Canleśrara relies upon the Kāmadhenu several times.840 In the Rājanitiratnākara of Candeśvara ( ed. by Jayaswal, 1924 ) Rājaniti-Kamadhenu is quoted (on p. 2 ) for the definition of rājā ) and on p. 5 the same work is quoted for describing the two kinds of 
 
@@ -99,7 +99,7 @@ generally refer to Prakāśa only, yet Canleśvara in bis Krtyaratnā. kara ( p.
 
 620 
 
-History of Dharmaśāstra 
+
 
 rṇava is expressly mentioned in Introductory verses 12-13 to the Brahmacārikānda. The Mahārnava is also mentioned at p. 134 of the Brahmacārikamla. The Mahārnava-prakāśakāra is expressly referred to in the Sraddhakanda ( on p. 262 ) of the Kalpataru. The editor cites no grounds for holding that Pārijāta is a late work. 
 
@@ -179,7 +179,7 @@ But it seems to me that they are identical. Aufrecht in his great catalogue (1. 
 
 622 
 
-History of Dharmaśāstra 
+
 
 relies. Hemādri$47 also tells us that Vambhu was a nibandha kāra and refuted the views of Medhātithi on Manu III. 125. The Smrticandrikā frequently cites the views of Sambhu on vyavahāra and generally refutes them. For example, on the word 'pitarau' occurring in Yāj. II. 135, Sambhu remarked that no difference should be made between the parent's ( father and mother) as heirs, since whoever out of them took the wealth of their son it would come to both.848 Vide also Smrticandrikā II, pp. 205, 216. Therefore Sambhu also, being mentioned by the Smrticandrikā and the Smṛtyarthasāra, is certainly earlier than 1150 A. D. In this state of the autho rities I am doubtful whether Sambhu was the author of the Kāmadhenu. I am inclined to hold that he was not the author of that work and that Gopāla was the author. This conclusion is somewhat strengthened by the fact that the Smrtyrtha sāra mentions both Kāmadhenu and Sambhn as authorities on which it relies. If Sambhu had been, in the opinion of the Smrtyarthasāra the author of the Kamadhenu, the mention of both would have been superfluous. Mr. Jayasval (in JBORS for 1927, vol. XIII, parts 3-4, p. VII ) ascribes the Kāma dhenu to Bboja, but this is wrong ( vide p. 277, note 576 ). 
 

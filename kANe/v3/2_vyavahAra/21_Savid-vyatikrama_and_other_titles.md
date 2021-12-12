@@ -37,7 +37,7 @@ be of one mind, that any one of those who encouraged this decision would be liab
 
 488 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -135,7 +135,7 @@ Uktalābha is defined as a conditional sale, where a man borrows only a portion 
 
 494 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -161,7 +161,7 @@ The Vyavahāranirpaya, after quoting Bṛ. and Vyāsa, very lucidly explains wha
 
 496 
 
-History of Dharmaśāstra 
+
 
 ( Vol 
 

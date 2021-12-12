@@ -51,7 +51,7 @@ Smrtis, Purana and Nyaya system as dharmasastras.584 Pitāmaha, like Bșhaspati,
 
 516 
 
-History of Dharmaśāstra 
+
 
 according to the śāstru; possession in order to be recognised by the courts as decisive must have five characteristics,sol it must have title, long duration, it must be uninterrupted, it must not have been impeached and it must be before the eyes of the opponent; & private document602 under one's own hand is inferior to a jānapada (a publicly written and attested ) deed, the latter is inferior to a royal edict, this last is inferior to possession continued for three generations. 
 

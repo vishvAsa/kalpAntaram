@@ -57,7 +57,7 @@ a ll 'i, 1017. remeth farm prohi are o fat gi 34. w. II. 6. 13. 16-17.
 
 430 
 
-History of Dharmaśāstra 
+
 
 (Oh. IX 
 
@@ -119,7 +119,7 @@ Ft TF: I NETTUN I. 11.
 
 434 
 
-History of Dharmaśāstra 
+
 
 [ Oh. IX 
 
@@ -251,7 +251,7 @@ B. D. 56
 
 442 
 
-History of Dharmaśāstra 
+
 
 [ Ch. 1x 
 
@@ -373,7 +373,7 @@ L. D. 57
 
 450 
 
-History of Dharmaśāstra 
+
 
 t Ch. II 
 
@@ -459,7 +459,7 @@ from the mother's side' (by Yaj.). In the same way the seventh from the father's
 
 1075a. a F arrara Ferreira eta a frutti...foryou \#ITIVE for fat i fage on . I. 58; the JETE . 109 explains differently the statement of Paighinasi. P HYTTESTATO ATTREFOyu माक्षणादीमा क्षत्रियादिसपिण्डविषये पा पूर्वोक्तानि मेयामि नवकल्प प्रति भ्रमितव्यम् for forang III gen p. 285; the far pp. 138-140 gives these explanations.456 
 
-History of Dharmaśāstra 
+
 
 (Ch. 1x 
 
@@ -841,7 +841,7 @@ H, D. 60
 
 474 
 
-History of Dharmaśāstra 
+
 
 I Ch. IX 
 
@@ -1003,7 +1003,7 @@ rare prisq: I TERAPEVT ratafit
 
 480 
 
-History of Dharmaśāstra 
+
 
 [Ch. 1X 
 
@@ -1193,7 +1193,7 @@ H. D.62
 
 490 
 
-History of Dharmaśāstra 
+
 
 { Ch. IX 
 
@@ -1265,7 +1265,7 @@ They may employ the pravard of their purohitas or all ksatriyas may employ the s
 
 494 
 
-History of Dharmaśāstra 
+
 
 [ Ob. IX 
 
@@ -1305,7 +1305,7 @@ HATAT: laat 9:
 
 I a-anta-pracara... HURT: Truf: aut serta i transfer 1 HIT. 1. 24. 6. 1-2 and 7-8.496 
 
-History of Dharmaśāstra 
+
 
 [ CL. IX 
 
@@ -1369,7 +1369,7 @@ Sagotra relationship is in one direction wider than sapinda relationship and nar
 
 500 
 
-History of Dharmaśāstra 
+
 
 (Ch. IX 
 
@@ -1405,7 +1405,7 @@ T arta i 20 AT ai katru THIETTU ICE (HIGH 20-22).
 
 $ÓX 
 
-History of Dharmaśāstra 
+
 
 (Ch. IX 
 
@@ -1437,7 +1437,7 @@ gulqoslat masinaca FUTE may T TOW: * oert p. 92 on . I. 63.
 
 504 
 
-History of Dharmaśāstra 
+
 
 [ Ch. Ix 
 
@@ -1689,7 +1689,7 @@ Dhanisthā
 
 If the pakṣatras of the intended pair belong to the same nādi, then that portends death and so there is to be no marriage in such a case. The respective nakṣatras of birth in the case of the two should belong to different nādis.516 
 
-History of Dharmaśāstra 
+
 
 [ Ch. 1x 
 
@@ -1717,7 +1717,7 @@ In the first four forms there is the gift of the girl (kanyādāna) by the fathe
 
 $18 
 
-History of Dharmaśāstra 
+
 
 t Ch. 
 
@@ -1745,7 +1745,7 @@ In the āsura form there is practically a sale of the girl for money or money's 
 
 520 
 
-History of Dharmaśāstra 
+
 
 [ Ch. IX 
 
@@ -1781,7 +1781,7 @@ The smrtis contain several views about the suitability of these eight to various
 
 522 
 
-History of Dharmaśāstra 
+
 
 [Ch. X 
 
@@ -1903,7 +1903,7 @@ The Abv. gr. ( I. 7. 3-I. 8.) deals with all the marriage rites as follows †: 
 
 528 
 
-History of Dharmaśāstra 
+
 
 [ Ch. JX 
 
@@ -1937,7 +1937,7 @@ H. D. 67
 
 530 
 
-History of Dharmaśāstra 
+
 
 Ch. 1X 
 
@@ -2067,7 +2067,7 @@ In the medieval digests certain other ceremonies are mentioned and they are obse
 
 Simāntapājana: (bonouring the bride-groom and his party on their arrival at the bride's village ). This is done before vāgniscaya in modern times. Vide Sam. K. p. 768; Dharma sindhu III. p. 261.536 
 
-History of Dharmaśāstra 
+
 
 ( Ch. 1X 
 
@@ -2099,7 +2099,7 @@ H. D. 68
 
 538 
 
-History of Dharmaśāstra 
+
 
 [ Ch. IX 
 

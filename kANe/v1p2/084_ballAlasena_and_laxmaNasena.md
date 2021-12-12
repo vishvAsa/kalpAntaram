@@ -51,7 +51,7 @@ Another vexed question is whether the Dānasāgara was com posed by Ballalasena 
 
 734 
 
-History of Dharmaśāstra 
+
 
 faithful, this owork called Danasāgara within the limits of his intellect.1056 
 

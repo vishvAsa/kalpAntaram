@@ -29,7 +29,7 @@ FOUNDED 1917
 
 566 
 
-History of Dharmaśāstra 
+
 
 proper one and not that of Bhāruci. The Parāśaramadhaviya736 and the Sarasvativilāsa ( para 133 ) inform us that Bharuci was of opinion that unmarried sisters were only entitled to a provision for their marriage and were not entitled to a fourth share. 
 
@@ -73,7 +73,7 @@ FOUNO
 
 568 
 
-History of Dharmaśāstra 
+
 
 view to Bharuci and quotes the very words of Bhāruci.739 Vide J BBRAS for 1925 pp. 210-211 for further examples. There is nothing unnatural in Bharuci, the Visistādvaita philosopher, having composed a commentary on the Visnu dharmasūtra. The extant Visnulharmasītra contains doctri nes peculiar to the Viśistādvaita system such as the worship of Nārāyana or Vāsudeva, the four Vyuhas of Vasudeva &c. If Bhāruci was a Viśistñilvaitin he would naturally turn to the sūtra of Visnu as having the greatest claim on his atten tion. Many of the sutras of Vislu quoted in the Sarasvati vilāsa with the explanations of Bharuci are not found in the printed text of Visnu, on which Nandapandita commented in the first half of the 17th century. It appears that the Sarasvativilāsa haid before it a larger version of Visnu current in the South ( vide note 118 p. 127 above ). 
 
@@ -111,7 +111,7 @@ FOUNDED
 
 570 
 
-History of Dharmaśāstra 
+
 
 āśramas ( stages of man's life ). If the king were held to be the source of Dharma and adharma there would be great con fusion; one king may make certain rules, while his successor might abrogate them and promulgate other and different rules. He further says that the kivg often times repeats what the Sastra states ( bizhukṛtvas-taduktih ) and that opposing the dicta of Sāstra would be wrong and moreover one should hold that this text only extols the king's office as the context shows. 
 

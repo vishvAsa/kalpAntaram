@@ -17,7 +17,7 @@ P. 85.
 
 640 
 
-History of Dharmaśāstra 
+
 
 enumerating the blemishes of uttura (defendant's reply). The Vyavahāratattva 869 mentions Bhavadevabhatta's discussion and illustration of a reply ( uttara ) with a weak plea (kārana ). The same work informs us that Bhavadeva held the same views on adverse possession as Srikara, Bālaka and others did ( vide note 624 above), The Vividacandra of Misarumisra87o several times refers to the views of Bhavadeva. The Viramitrodaya371 gives in great detail the remarks of Bhavadeva on the well-known text of Sumantu about killing an ātatāyin. The Sarasvativilāsa 672 and the Vaijayanti of Nandapandita quote the very same views of Bhavadevabhatta on Sumantu's text. 
 
@@ -57,7 +57,7 @@ Another work of Bhavadeva bhatta ( who is called Bāla valabhībhujanga therein 
 
 642 
 
-History of Dharmaśāstra 
+
 
 marriages, purification of waters, foodgrains, cooked food &c. Another work composed by him appears to have been called 
 
@@ -151,7 +151,7 @@ Vide I. H. Q. Vol. 27 pp. 80-82. Dr. Dasharatha Sharma yives a reply to this in 
 
 646 
 
-History of Dharmaśāstra 
+
 
 follows:- The word 'bhujanga' according to a kośa quoted by Ksirasvāmin on Amarasimha means 'vesyắpati’ ( one who visits prostitutes ) and therefore in an extended sense * gallant' or a lewd person. We have a classical and comparatively early use of that word in the Harsacarita of Bāna ( in 2nd Ucchvāsa in the paragraph just before the last ). When Bana was presented to the Einperor Harṣa, the latter turned to the Mālava prince sitting behind him ( Harsa ) and remarked this is a great bhujanga' ( mabān-ayam bhujangah). Bāna protests "what bave I done to be dubbed a bhujanga” (Kā me bhujangatā; it may also mean there is lewdness in Kāma i. e. Cupid and not in me). He further protests that he was a brāhmana born in the family of Vātsyāyanas that performed Soma sacrifices, that he had by heart the Veda with the six subsidiary lores, that he studied the Sastras, he admits that he was guilty of some trifling follies in his youth but they were not such as to be censured in this world and as would prevent his attaining heaven; he repents of those follies; common people spread strange rumours, but great men should see things as they really are. Harsa probably did not mean more than this that he ( Bāna ) had sowa his wild oats. Therefore, Bālavalabhībhujanga would mean one who had sown wild oats in Bālavalabhi, a village or town in Rādhā (not identifiable now). Valabhi was a famous town in Kathiawad in the 5th and 6th centuries A. D. In Indian Culture' vol. for 1939 pp. 467 ff it is pointed out that over 85 Inscriptions of the Maitrakas of Valabhi bad been published till then. The Bhattikāvya was composed in 
 
@@ -181,7 +181,7 @@ Recently Bhavadevabhatta's Sava-sūtikāśauca-prakarana' has been edited by Dr.
 
 648 
 
-History of Dharmaśāstra 
+
 
 followed in scholarly editions based on mss. He should bave kept the reading supported by all his m88. as the text and added a footnote stating what he thought should be the reading. On p. XXIII of the Intro. he himself admits "we have given ( the title ) as 'Savasūta kāśauca-prakarana', altho ugh all the three mss, hare it as 'savasūtika-visuddhi-pra karan' in the concluding verse and as 'Savasūtikāśauca-pra karana' in the colophons. Further comment is unnecessary. He has given up here his role as editor. The reading present ed by the mss. is quite good. It would mean literally' a trea tise on the purification in cases of an impurity of a dead body (i. € on death ) and of a sūtikī. Sūtikā means a woman that has had a recent delivery (may be prematurely or after the full period of gestation ). The Amarakośa says : Aristam Sūtikā gṛham. The word Sūtaka is used in three senses viz. (1) In Manu V. 58 and Yāj. III. 18-19 the word 'sūtaka' is used in the sense of impurity on birth'; (2) impurity on both birth and death as in Gobhilasmrti III. 60 and 63 ;(3) Impurity on death alone as in Dakṣasmrti VI. 1 and Gobhilasmrti III. 48. Vide H. of Dh. Vol. IV pp. 268-269 on Āśauca, Jananāsauca or sūtaka and sāvāśauca and the notes below. In Ait. B. 32.8 the word 'Sutakānna’ is probably used in both senses of sūtaka. Prof. Hazra unnecessarily and without any authority changes the name of the work and creates unnecessary con fusion. In the note on p. XXIII of the Introduction he remarks. I have not been able to find out a single instance of the use of the word 'Sūtikā'in the sense of Sūtakā' (meaning birth ). Nobody asks him to take 'sūtikā' in the sense of birth. He has on his own authority put down the name as' savasūta kāśauca -prakarana' which may be split up in two parts viz. 'Sava-āśauca-prakarana' and 'sūtaka-āśa ucaprakarana'. The dead body has to observe no āśauca; 
 
@@ -237,7 +237,7 @@ ratata . दन्तजातेऽनुजाते च कृतचड़े
 
 650 
 
-History of Dharmaśāstra 
+
 
 I) 
 
@@ -261,7 +261,7 @@ The date of Bhavadeva can be approximately settled to be about 1100 A. D. as he 
 
 652 
 
-History of Dharmaśāstra 
+
 
 follow that, because a stranger is allowed to enjoy land, the owner intends to abandon the land for the stranger, nor is it an invariable rule that what is abandoned for another becomes the property of that other. It will be showu later on that the Pradīpa must have been composed before 1150 A. D. Hence it follows that Bhavadeva flourished about 1100 A. D. He cannot be very much earlier than that, as he is not mentioned by any writer of the 19th century and as he not only mentions Kumā rila and Prabhākara, but also Viśvarūjia and Dhāreśvara. 
 

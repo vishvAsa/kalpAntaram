@@ -41,7 +41,7 @@ Rta is distinguished from sacrifice (yajña). It is not any particular sacrifici
 
 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -145,7 +145,7 @@ B, D. 2
 
 10 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -239,7 +239,7 @@ HC 1998 inforgeur (ategā 190 9)
 
 16 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -463,7 +463,7 @@ ____70 कलौ कतैव लिप्यते इति व्यासो
 
 30 
 
-History of Dharmaśāstra 
+
 
 [Vol. for the mahāpataka itself!. And the penance for those that come under atrdeśa of the vacanika or tādrūpya kind is three fourths of that for the mahāpātaka itself. But it has to be noted - that there is divergence of views about these in the sūtras and the smrtis Acc, to Gaut 21.10 giving72 false evidence, backbiting about another's guilt that will reach the king, falsely accusing one's guru with a grave sin or crime are equal to malāpātaka. Ini Manu XI 55 (=Agnipurāna 168. 25) the last two of these three and false statement about one's caste or learning or family (1 e. . saying that one is a brālimana whep one is not) for securing pro sparity or eminenca are stated to be equal to brāhmapa's murder. Acc to Yaj. III 228 falsely charging one's guru is equal to brahmahatyā aod false statement about one's caste or learning is equal to drinking surā (Vā). III 229), while acc, to Visou Dh. S 37.1-3 the three sins mentioned in Manu XI, 55 are to be in cluded among minor sins (upapalakas), while giving false evid ence is declared by Visou to be equal to drinking sura (36.2). No useful purpose would be served by dilating at great length on the divergences of smrtis on what lapses are equal to one of the Mahāpatakas. The digests explain that where the same lapse is described as equal to surāpāna by one smrti and as equal to brāhmana-murder by another the idea is that there is an option as to the penance prescribed for that lapse. There fore only the remarks of Manu and Yaj. will be set out hero. Manu XI. 56 (=Agnipurāna 168, 26 ) prescribes that forgetting the Veda ( already studied ), reviling the Vedas, giving false evidence, killing a friend, eating forbidden food or food that should not be eaten, these sis are equal to surāpāna. Vide Yāj III 228 already referred to above. Manu XI. 57 holds that stealing a deposit or a man or horse or silver or land or diamonds and other gems is equal to the theft of brahmana's gold. Yaj. III, 230, Visnu Dh S. 5 383, Agni purāna 168. 27 ara to the same effect. Aco to Manu XI. 58 ( Agnipurāna 168 28 ) carnal intercourse with a sister by the same mother, with maidens, with females of the lowest castes (like Candālas), with the wife of a friend or son is declared to 
 
@@ -489,7 +489,7 @@ Teori TARER asme) and 11. 23,10
 
 74. एतानि गुर्वधिक्षेपादितनयागमनपर्यन्तानि मदापातकातिदेशविषयाणि सयपतन TEATTEUTATEN FEE-ON 4. LII. 283, 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -593,7 +593,7 @@ a POTETER Orgi a 5. 1.6.5. Vide Kātyāyana śr. V,5, 6-10 'संमार्�
 
 38 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -619,7 +619,7 @@ Therefore they say, 'a man is born again in that world for which he has worked.'
 
 40 
 
-History of Dharmaśāstra 
+
 
 (Vol. Vide also Āp. Dh. S. II. 1.2.2-7 and Visnu Dh, s. XX. 47 
 

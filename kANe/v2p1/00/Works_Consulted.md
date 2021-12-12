@@ -75,7 +75,7 @@ Yajāikadeve-edited by Weber, 1859.
 
 XXXVI 
 
-History of Dharmaśāstra 
+
 
 Katyāyana-snana-sutra (appendix to Paraskara-gļhya-sūtra, 
 
@@ -219,7 +219,7 @@ pure, Bombay. Pravaramañjart of Purusottama--Edited by Chentsalrao,
 
 Mysore, 1900. 
 
-History of Dharmaśāstra 
+
 
 Prayasoittaviveka of Sūlapāṇi-edited by Pandit Jivananda. Pūjāprakāśa (part of Viramitrodaya) of Mitramiśra ( Chow. 
 

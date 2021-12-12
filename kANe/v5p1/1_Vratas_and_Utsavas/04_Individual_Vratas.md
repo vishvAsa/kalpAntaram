@@ -23,7 +23,7 @@ R. D. 11
 
 82 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. IV 
 
@@ -57,7 +57,7 @@ FC404 Penyata a n te ga i F. A. p. 13. The Lig. p. 57 combats this view. The s. 
 
 1 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. IV 
 
@@ -81,7 +81,7 @@ It is stated that the Rāmanavamīvrata is nitya (obligatory) for all, while oth
 
 isur : FARHAT: 9ga \# PREPAISAI q. by. (vol. I. 942). नि. सि. p. 84; वस्मिन दिने तु कर्तव्यमुपवासनतं सदा । तत्र जागरणं कुर्याद्रानाथारे पनि। RETTENET 4. by. (TE I. p. 941). Frīas. (od res p. 836). 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IV 
 
@@ -105,7 +105,7 @@ he should make a sankalpa 'On the Ramanavami I shall observe a fast for the whol
 
 220. For the Mahādāna called Talāpuruṣa, vide H. of Dh, vol. II. p. 870. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IV 
 
@@ -139,7 +139,7 @@ i Malta ATH: TUTT ATT HET 30. 2-3 and 19. Vide H. of Dh. vol. IV. p. 374 and not
 
 90 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. IV 
 
@@ -199,7 +199,7 @@ The worship of the Vaṭa tree comes in probably because Satyavat when the momen
 
 234. बटशाखामष्टभ्य सत्यवान्पाह गद्रवम् । सावित्रिपश्य शिरसि वेदना मां प्राप। waren 4. by R. (on ga vol. II, p. 265 ). 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, CH. IV 
 

@@ -33,7 +33,7 @@ The fulfilment of their duties and responsibilities by rulers was of paramount i
 
 5. कालो वा कारण राज्ञो राजा पा कालकारणम् इति वे संशयो मा एमाजा कालस्य कारणम् ॥ उयोग 132. 16 and शान्ति 69. 79; हतं प्रेता द्वापरं । कालिब भरतर्षभ । राजाचानि सर्वाणि राजैव युगमुच्यते ॥ ... राजैव कर्ता भूतानां राजैव च पिनाशकः । शान्ति. 91.6ands; पत्र संमहोत धर्म राजर्षिसेविते । लोकस्य संस्थान भवेत्सर्व ज्याकुलीभवेत् । शान्ति. 56.6% युगमवर्तको राजा धर्माधर्मप्रशिक्षणार । युगाना न प्रजानां न पोका किन्द सपस्य नीतिसार IV. 1.60. . . 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -91,7 +91,7 @@ The words arthaśāstra and dandaniti are applied to the science of government f
 
 12. sppdret grafica paraarurumont: 1 Tata (starief). Hitta स्वामी derives 'दम्यतेनेन दमनं वा व सनीयते बम्प प्रति प्राप्यते पया सादा \#ifaruri 
 
-History of Dharmaśāstra 
+
 
 I vol. 
 
@@ -123,7 +123,7 @@ Polity' (1935). WA HA" unde va UTATE PHAN \#T hafiffifemra IX. 7. D. 362.
 
 10 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -163,7 +163,7 @@ Sanskrit literature on rājadharma is very extensive. Apart from the meagre mate
 
 ( Continued on next page) 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 

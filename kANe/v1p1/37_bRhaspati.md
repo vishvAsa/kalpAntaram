@@ -5,7 +5,7 @@ title = "37 Bṛhaspati"
 
 484 
 
-History of Dharmaśāstra 
+
 
 37. Brhaspati Brbaspati as a sūtra writer on politics has been dealt with above ( section 26 ). In this section Brhaspati the jurist will be spoken of. The complete smrti of Bșhaspati on law has not yet been discovered. It will be, when discovered, a very precious monument of ancient India, exhibiting the high water mark of Indian acumen in strictly legal principles and definitions. Dr. Fūbrer collected together 84 verses ascribed to Brhaspati in the legal treatises of Aparārka and others with German translation and notes ( Leipzig, 1879 ) and Dr. Jolly collected about 711 verses of Brhaspati on law and translated them in the Sacred Books of the East (vol. 33 ). 
 
@@ -85,7 +85,7 @@ Hary
 
 486 
 
-History of Dharmaśāstra 
+
 
 Bphaspati gives such elaborate definitions and rules about procedure from the filing of the plaint to the passing of the decree that he can very well stand comparison with modern legislators on the same subjects. 
 
@@ -129,7 +129,7 @@ Ahond
 
 488 
 
-History of Dharmaśāstra 
+
 
 clothes that are worn on the body, debts, (or books for use, according to others ) and what is set apart for religious pur poses should not be partitioned.642 Kātyāyana says that, according to Brhaspati, that wealth which a man acquires by means of his learning after refuting an opponent in a contest with a stake for the winner is styled "vidyādhana" and is not liable to partition 543; and what is acquired through valour &c. by persons that were taught in the family or learnt under their father should be partitioned among the brothers, accord ing to Bṛhaspati. If a man falsely denies his liability and if only a part of the claim is brought home to him, then he should be made to pay the whole.544 That the statement of a witness may be relied upon on a matter under his direct per ception owing to his being near the plaintiff and the defendant and not otherwise; so says Bphaspati.645 The foregoing exa mples show that Kātyāyana looked upon Brhaspati as an authority who must therefore have flourished several centu ries before. Therefore Bșhaspati cannot be placed later than the 4th century A. D. As he knew the extant Manusmrti, was later than Yāj. and probably than Nūrada, Bphaspati must have flourished between 200 and 400 A. D. This conclusion is strengthened by the fact that Visvarūpa quotes, without making any difference, prose and verse passages of Bșhaspati and thereby shows that in his opinion the jurist Brhaspati (in verse ) was identical with the political writer Bșhaspati and was a very ancient writer in his day. Medhātithi (on Manu 9. 153 ) quotes the verse“ na pratigrahabhūr" (ascrib ed to Brhaspati by others ) as Smṛtyantara. Bṛhaspati is 
 
@@ -185,7 +185,7 @@ ASTI
 
 490 
 
-History of Dharmaśāstra 
+
 
 other than those of vyavahiirit. For example, the Mit. on Yāj. I. 210 quotes a verse of Brhaspati that a nivartana ( of land ) is equal to 30 dandas in area (danda being seven cubits in length) and ten nivartanas are equal to a gocarma.851 On Yāj. III. 17 the Mit. quotes two verses of Bṛhaspati about impurity on birth or death &c. On Yāj. III. 21 the Mit. cites the definition of leśāntara given by Brhaspati.562 On Yāj. III. 24 the Mit quotes Brhaspati's opinion that the period of mourning on the death of one's maternal grandfather, ācārya or srctriya is three days. On Yāj. III. 253 the Mit. quotes Brhaspati's rule as to prāyaścitta for consciously drinking wine.868 Vide also Mit. on Yāj. III. 30, 250, 254, 260, 290 for other quotations from Brhaspati 
 
@@ -291,7 +291,7 @@ Prof. Aiyangar says ( on p. 493 of his reconstructed Brhaspati) that certain pas
 
 494 
 
-History of Dharmaśāstra 
+
 
 which have been noticed by Prof. Aiyangar. He, it appears, regards the quotations in prose and verse as belonging to the same author. In one proge quotation Brhaspati is mentioned by name as stating a certain proposition. It is possible that Visvarūpa regarded that all quotations (both prose and in verse) are to be attributed to oue author. One cannot dogma tise on such a point. But it is quite likely that the author of the verses was different from the author of the Sūtras quoted by Visvarūpa. 
 

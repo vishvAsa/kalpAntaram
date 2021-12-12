@@ -11,7 +11,7 @@ Vrata is one of many Sanskrit words, the use and history of which extend over se
 
 In the great St. Petersburg Dictionary the word vrata is derived from the root vṛ' (to choose) and the important senses of the word given in that Dictionary are: (1) will, command, law, prescribed order; (2) subservience, obedience, service; (3) domain; (4) order, regulated succession, realm; (5) calling, office, custom ary activity, carrying on, custom; (6) religious duty, worship, obligation; (7) any undertaking, religious or ascetic performance or observance, Vow, sacred work; (8) vow in general, fixed purpose; (9) other specialized senses. Max Muller derived it from vr 'to protect' and held that it meant originally what is enclosed, protected, set apart, then what is settled or determined, law, ordinance and then 'sway or power'. Whitney, in a note on this word in the Proceedings published in J. A. O. S. vol. XI pp. 29-31, after setting out the treatment of the word in the St. Petersburg Dictionary, brushed aside Max Mullor's etymology as unsatisfactory and as possessing little plausibility and declared that he did not accept the derivation of the word from vr 'to choose', that 'vr' did not signify willing or command, but only choice or preference, though he admitted that there is a relation ship between 'choose' and 'command'. He objected that'ta' 23 an affix (except in the formation of past passive participles) was very rare and that the only analogous word he could think of would be 'marta' from ‘mp' to die. He preferred to derive the word from 'vrt' 'to proceed' and, though he admitted that the form yrata from 'yit' with affix a would be exceptional, he thought that the words 'vraja' and 'trada' supported the deriva tion and put forward the ground that the word 'vrata' occurs 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. I 
 
@@ -39,7 +39,7 @@ PU
 
 3. Ev: Tout En Cyth para un uraka i *. I. 164. 11. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -61,7 +61,7 @@ When Whitney derived the word 'vrata' from 'vrt' with affix 'a', he could cite o
 
 6. S MT THAT: graf of fragm. IIJ. 56. 4. 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. I 
 
@@ -83,7 +83,7 @@ It is now necessary to examine the contention of Prof. Apte that vrata means in 
 
 9. Tim ma fara prantset To GMH4C*. I. 52.6; te rad sraigierea TH \# wa sitt! *. III. 54, 2; PÅ TU Franti: Ferra PE afara, *. VI, 9. 6. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -111,7 +111,7 @@ H. D. 2
 
 10 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -139,7 +139,7 @@ proua: a ani &c.
 
 12 
 
-History of Dharmaśāstra 
+
 
 [ Soc. I, Ch. I 
 
@@ -169,7 +169,7 @@ There are eight passages in the Rgveda in which the word śucivrata' occurs and 
 
 14 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -195,7 +195,7 @@ T HAI JIE T I. 23, 21 (=X. 9.7), a amare era in I. 50. 1, featurin X. 60. 5. In 
 
 is the object of it and in VIII, 94, 2 the dual TATHT is used with 65. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. I 
 
@@ -227,7 +227,7 @@ H. D. 3
 
 18 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. I 
 

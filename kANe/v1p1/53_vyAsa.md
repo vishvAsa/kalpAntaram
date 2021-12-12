@@ -19,7 +19,7 @@ FOUNI
 
 History of Dharmaśāstro 
 
-The contents briefly are :-- the dharmas herein laid down prevail only in that region where the black deer roam about; the authoritativeness of sruti, smrti and purānas; mixed castes; sixteen saṁskāras ; duties of brahmucārī; marriage; a Brāhmana may marry Ksatriya or Vaisy& girl but not Sūdra ; duties of a wife; the nitya, naimittila and kāmya acts of householders, eulogy of the householder stage and of gifts. 
+The contents briefly are :-- the dharmas herein laid down prevail only in that region where the black deer roam about; the authoritativeness of sruti, smrti and purānas; mixed castes; sixteen saṁskāras ; duties of brahmucārī; marriage; a Brāhmana may marry Ksatriya or Vaisy& girl but not Sūdra ; duties of a wife; the nitya, naimittika and kāmya acts of householders, eulogy of the householder stage and of gifts. 
 
 Visvarūpa quotes a few verses of Vyāsa. They are mostly taken from the Mahābhārata and are concerned with topics of marriage, daily duties (such as washing the teeth and bathing ), srāddha and prāyascitta. Similarly Medhātithi quotes several verses from the Mahābharata as Vyasa's. Kalpataru quotes Vyāga about 80 times ou Vyavahāra, 16 times in Grhastha, 3 times on Rājadharma. Viśvarūpa on Yaj. II. 121 ( part 2, p. 121 ) quotes three verses of Vyasa on theft, the 2nd and 3rd of which say 'on acquiring by theft one suvarna, one cow or even one fingerbreadth of land from the best of brāhmaṇas (the thief ) certainly receives bodily punishment' (or death sentence ); and 'by gift or theft the reward ( or result ) is middling or lowest or highest, depend ing on the extent of the thing donated and the worth of the donee'. Maskarin on Gaut. 23. 2 quotes Vyāsa's verse842 (i. e. Mahābhārata, Udyoga parva, 59. 5, that both Keśava ( Krona) and Arjuna were seen drunk (having drunk sweet liquor ), who had applied sandalwood paste to their bodies and who lay down on the same bed. Kalpntaru ( Grhasthakāṇda p. 302 )048 speaks of only five Yamas and five Niyamas ( as quoted below ), while the Yogasutra also names five Yamas and five Niyamas, but Yāj. III. 312-313 and Vaik. Smārtasūtra IX. 4 enumerate ten yamas and ten niyamas; vide H. of Dh. Vol. V. 
 
@@ -101,7 +101,7 @@ It adds in Yamatarpa!a the following: 4719 Ártata चान्तकाय च 
 
 634 
 
-History of Dharmaśāstra 
+
 
 The Smṛticandrikā652 quotes several interesting verses of Laghu-Vyāsa that condemn somewhat severely and unchari tably the memorizing of the Veda without understanding the meaning. A few verses are quoted below. It may be noted that the Nirukta I. 18 ( several centuries before Christ ), by quoting a verse 'a man who memorizes the Veda but does not know the meaning is like a stump of a tree, a mere carrier of a burden'condemned mere learning of the Veda by heart in very similar words (Sthāṇur-ayam bhārahāraḥ kilābhūt &c.) Daksa (in II. 34 ) states that the study of Veda has five aspects viz. first to commit it to memory, then to think over its meaning, then to repeat it often, its japa and to pass it on to pupils. 
 

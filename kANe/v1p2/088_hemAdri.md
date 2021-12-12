@@ -25,7 +25,7 @@ HET9hpuraita FariaRT17!! 6710 III. 2. verse 26. 1105 It begins to TEC TOT HETT &
 
 750 
 
-History of Dharmaśāstra 
+
 
 was able to carry out his gigantic scheme Mss. of portions of the great work are described in the catalogues under vairous names, e.g. I. O. Cat. No. 1379, p. 407 on santikapaustikāni is the same subject that is treated in vratakhanda pp. 1003ff., though there are considerable variations between the Ms. and the printed text. 
 
@@ -69,7 +69,7 @@ verse 17. 1113 17 gada a ufaat EHET: 97: 1 vol. I. verse 20, vol. III,
 
 752 
 
-History of Dharmaśāstra 
+
 
 1115 
 
@@ -105,7 +105,7 @@ NT
 
 754 
 
-History of Dharmaśāstra 
+
 
 to the rules of Katyāyana which is distinct from his Śraddha khauda (vide Calcutta Sanskrit College mss. cat., vol. II, p. 163, No. 217 and Stein's cat. p. 105). Hemadri also wrote a commentaryllis called Kaivalyadipikā on the Muktāphala of Vopadeva, the famous author of the Mugdhabodha grammar. The Muktāphala embodies the philosophy of the Bhagavata purāṇa in 19 adhyāyas and 784 verses ( and a few lines in prose in 5th and 6th chapters ). Vopadeva was a friend and protege of Hemādri, who wrote several works at the encouragement of the latter. He says that he wrote the Harililā (published in the Calcutta Oriental Series No. 3), an index of the Bhāgavata for pleasing the minister Hemādri.1118 Verse 54 in the Upasamhārā dhyāya in the edition of the Muktāphala expressly states that Hemādri induced Vopadeva, son of the physician Kesava and pupil of the scholar Dhaneśa, to compose the Muktāphala. Verse 53 also is interesting:- TT TË THET (Arga: Tiga HTF: 949T ata: radar2007: II. Rāma means Dāśarathi Rāma and Rama candra (Yadava king). Hemādri means mountain Meru and also the author Hemādri. 120 
 
@@ -151,4 +151,4 @@ grauate7541: 1 FAIT FTA p. 530.
 
 756 
 
-History of Dharmaśāstra 
+

@@ -29,7 +29,7 @@ A ms. of the Acāroddyota is noticed by Burnell in his Tanjore Cat. (p. 137 b ).
 
 806 
 
-History of Dharmaśāstra 
+
 
 No. 2437). M. M. Haraprasad Sastri notices a ms. of the Prāyaścittoddyota (Nepal Palm-leaf and Paper Mss. Cat. XVIII and p. 223). 
 
@@ -65,7 +65,7 @@ The Vyavahāra section of the Madanaratna is a large work in 348 printed pages. 
 
 808 
 
-History of Dharmaśāstra 
+
 
 service; boundary disputes; abuse and defamation; assault and battery; theft; adultery; duties of husband and wife; partition of heritage; property not liable to partition; fresh partition as to concealed ancestral estate; definition of stridhana and kinds thereof; heirs to stridhana; heirs of sonless person; gambling and prize-fighting; miscellaneous. 
 
@@ -87,4 +87,4 @@ H.D.-102
 
 810 
 
-History of Dharmaśāstra 
+

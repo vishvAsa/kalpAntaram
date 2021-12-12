@@ -25,7 +25,7 @@ According to Āsv. on the day previous to the Full Moon of Phalguna when beginni
 
 1092 
 
-History of Dharmaśāstra 
+
 
 [ Oh. XXXI 
 

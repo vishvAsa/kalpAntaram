@@ -35,7 +35,7 @@ rr
 
 700 
 
-History of Dharmaśāstra 
+
 
 The Kālaviveka as its name implies contains discussions as to the appropriate seasons, months and times for the perfor. mance of religious rites and duties, the determination of inter calary months, the question whether the month for certain festivals and rites, was to be solar or luuar, the proper time for the cessasion and starting of Vedic studies ( Utsarjana and Upākarma ), the rise of Agastya, the four months during which Visnu was supposed to sleep on the ocean, the times for various festivals including the kojāguru and the Durgot sava, the eclipses. The work is named Kalaviveka not only in the colophon, but also in the body itself.990 Some of the sections of the work also are styled riveku (e. . Amāvāsyā viveka pp. 351-365, dvirāsādhaviveka pp. 169-174). The object with which the work was composed is stated in the 2nd verse991 as follows :—'kāla' (the topic of proper times for religious duties ) has not been understood by some writers; it has been based upon ancient texts and compressed into narrow compass by others; therefore it is dealt with by me in such a way as to be easily unilerstood even by dull-witted persons. M. M. Chakravarti (JASB 1915 p. 314 ) draws from this the conclusion that 'no previous treatise specially dealing with Kāla alone was known to the author'. This is not a sound conclusion. All that Jimutavāhana claims is that he has made the subject of Kāla extremely easy. As a matter of fact in one verse he brings together seven predecessorg982 who expatiated on Kūla and whose works have become worth little on account of the appearance of the Kāla viveka. As long as the works of all these writers are not recovered it is impo ssible to assert that Jimūta vāhana had before him no previous work dealing specially with Kālıb. Besides the astronomical and astrological works of ancient writers such as those of Varābamibira and Brahmagupta, the ancient smṛtis and purāuas, the important works and authors mentioned are ---- - - - - - -- 
 
@@ -81,7 +81,7 @@ for this. 994 'कन्यायां श्रावणद्वये प्
 
 702 
 
-History of Dharmaśāstra 
+
 
 quoted in the Srāddhacintāmani of Vācaspati, in the Srāddha kaumudi (p. 328 ) and Varsakriya-kaumudi of Govindānanda and in several Tattvas of Raghunandana, e. g. (Vol. I) Tithi 141, 144, Ābnika 341, Malao 834, (Vol. II ) Ekādaśī 41, 46, 87 ( ed. of 1895 ). 
 
@@ -123,7 +123,7 @@ vol, II.
 
 704 
 
-History of Dharmaśāstra 
+
 
 the Mitāksarā is applicable. The names of more than a dozen commentators of it are known and Pandit Bharatacandra Siromani published it with seven commentaries (1863-1866). It was translated into English by Colebrooke. In many editions (such as that of Jivananda) it is divided into sections though there were no divisions in the original work. The contents of the Dāyabhāga are:- Definition of daya ; father's power over ancestral property; partition of father's and grand father's property; division among brothers after their father's death, definition, classification and devolution of stridhann; persons excluded from inheritance and partition on the ground of disabilities; property which is impartible (in its very nature or because it is self-acquired ); order of succession to one dying sonless; re-union, partition of coparcenery property concealed but discovered afterwards, indicia of partition. 
 
@@ -153,7 +153,7 @@ The word “Udgrāhamalla' is taken by the commentators as not being a proper na
 
 706 
 
-History of Dharmaśāstra 
+
 
 author naturally gives a reply in gymnastic terms that a verse of Devala would completely vanquish (lit. throttle ) him. It may be noted that Maheśvara ( a commentator ) holds that Udgra hamalla is the name of a Smṛti writer. The present author does not say that the meaning proposed by commentators is quite wrong or impossible, but holds that the meaning proposed by him appears to be the proper one. Panini has a special sātra udi grahaḥ' III, 3. 35 for the word care. 
 
@@ -189,7 +189,7 @@ Jimūtavāhana gives very little information about himself. In the colophons of 
 
 708 
 
-History of Dharmaśāstra 
+
 
 four days of the month of Bhadrapada remained, but that in Rādhā Agastya rose when seven days of the month were yet to run.1010 
 
@@ -223,7 +223,7 @@ The most cogent argument that can be advanced against the above early date assig
 
 710 
 
-History of Dharmaśāstra 
+
 
 Vivada-tandava of1014 Kamalakara says that Jimutavahana held that the view about the equal ownership of father and son in ancestral property was put forward for precluding the possibility of the uncle taking the whole estate of a man dying (in union) leaving a son or a predeceased son's son or for precluding the possibility of an unequal distribution of ancestral property by a father among his sons and that Jimūtavahana took up this position, being blinded by his hatred of the Mit. The Vira mitrodayal015 also says that Jimātavāhana criticizes the Mitāksarā definition of vibhāga and the view of the Mit. about the times for partition. The Vyavahāramātṛka 1016 also appears to criticize several times views which were held by the Mit. and the correspondence is very striking. On this point this much may be said that the points selected for attack by Jimūtavahana do occur almost in the same words in the Mit. but, since the Mit. is not expressly mentioned and since it is likely that other writers like Asahāya and Bharuci whose works have not yet been discovered might have contained the very same words that are found in the Mit., it is somewhat hazardous to assert that Jimūtavābana criticizes the Mit. alone and no other work. All that one can advance is that it is quite within the bounds of possibility that Jimūtavāhana criticizes the Mit. 
 
@@ -259,7 +259,7 @@ Following the dictum in a well-known verse BTTHATH Itafa ATATTET I Flat a Taytau
 
 712 
 
-History of Dharmaśāstra 
+
 
 Dāyabhāga publiched by Pandit Bharatacandrasiromani in his edition of the Dayabhiga with commentaries. It is very likely that Raghunandana worte a commentary on the Dayabhāga. Unless strong grounds are shown to doubt the authorship of Raghunandana, we may concede that he wrote it. 
 

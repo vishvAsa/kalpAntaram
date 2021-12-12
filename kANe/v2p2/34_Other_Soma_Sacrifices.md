@@ -97,7 +97,7 @@ Jaimini in several adhikaranas deals with the fruti texts about V&japeya. They m
 
 1212 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIV 
 
@@ -237,7 +237,7 @@ At the end of a year from the Dasapeya took place the rite called Kebavapanlya*6
 
 1222 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXIV 
 

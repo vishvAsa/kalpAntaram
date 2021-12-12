@@ -33,7 +33,7 @@ ___485. एकादशो मुहूर्तोपि विजयः पर
 
 190 
 
-History of Dharmaśāstra 
+
 
 Seo. I, Ch. X 
 
@@ -63,7 +63,7 @@ In the case of the king the procedure described by Hemādri (on vrata vol. I. pp
 
 192 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. X 
 
@@ -97,7 +97,7 @@ H1, D, 25
 
 194 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, CH, X 
 
@@ -125,7 +125,7 @@ M ay Hala ! Hem q. by . F. p. 197, 07. .R. D. 315, atce p. 563.
 
 196 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X 
 
@@ -167,7 +167,7 @@ TITTATYT5 : I g. t. p. 241; vide F I p. 104 for the same.
 
 198 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X 
 
@@ -201,7 +201,7 @@ On all the three days, viz. 14th of dark half of Āśvina, ami vāsyā, and the 
 
 200 
 
-History of Dharmaśāstra 
+
 
 [ Soc. I, Ch. X 
 
@@ -237,7 +237,7 @@ yataaaltea ieri serta fagtiget allas q. by Huara p. 453, a Fh. 201. In the Falgu
 
 202 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X 
 
@@ -309,7 +309,7 @@ ETTE: 51879: 1 AITI HEGE fro: FUTET UT FETI. The same occurin T VI. 124.44-45. A
 
 206 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X: 
 
@@ -337,7 +337,7 @@ On the 2nd of the bright half of Kārtika occurs a very fine festival called Bhr
 
 208 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X 
 
@@ -367,7 +367,7 @@ H. D. 27
 
 210 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. X 
 

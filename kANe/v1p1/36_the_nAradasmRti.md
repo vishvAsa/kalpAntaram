@@ -31,7 +31,7 @@ FOUNDI
 
 468 
 
-History of Dharmaśāstra 
+
 
 sorrows. In Salyaparva, Nārada is said to have informed Balarama that his two disciples Bhima and Duryodhana were going to fight with maces. There Nārada is described as holding a fine Vīnā as an expert in dance and song and as stirring up feuds and always fond of quarrels (prakarta kalahānām ca nityam ca kalaha priyah) in chap. 54. 18-20. According to the Mahābhāsya on Vārtika 15 on Pāṇ. (VIII. 1. 15, Kielhorn ed. III. p. 371), Nārada and Parvata may be spoken of as 'dvandvam Nārada parvatau as they are a famous pair that is 'atyantasahacarita' (not even Yudhisthira and Arjuna are so ). 
 
@@ -65,7 +65,7 @@ YOONA
 
 470 
 
-History of Dharmaśāstra 
+
 
 well-known verse 'naste mite pravrajite &c.' ( Nārada on marital relation, verse 97 ) as 'smrtyantara'. It was shown above (p. 172 ) that the vyavahāra section of the Agnipurāna dates from about 900 A. D. Chap. 253 of the Agnipurāṇa con tains thirty verses of the extant Nāradusmrti, viz. Agni 253. 1b-9a = Nārada ( vyavahāra-mātṇkā chap. I. 8-15); Agni 253. 9b-12 = Nārada (vyavabāra-mātṇkā chap. I. 26-29a ); Agui 253. 13-30 are the verses defining the eighteen titles from ruādāna to prakīrṇaka contained in Nārada and occur in the game order in both. The readings preserved in the Agni purāna deserve some discussion. Agni (253. 3-4 ) reads 
 
@@ -99,7 +99,7 @@ The Nāradasmrti, excluding the introductory passage in prose about the successi
 
 मू472 
 
-History of Dharmaśāstra 
+
 
 passage about Manu is quoted by Visvarūpa on Yāj. (II. 98 ) and corresponds closely with the teaching of Manu (8. 113). But the other passages crediting Manu with dividing ordeals into five kinds and giving his view about poison ordeal have no corresponding passage in the extant Manu. Therefore, Nārada had a version of Manu before him that was somewhat different in certain respects from our Manu or Nārada may be referring to Vrddha or Bșhat Manu. Besides this, there is one remarkable fact to be noted about the relation of Manu and Nārada. There are about 50 verses that are common to Manu and Nārada. Manu 8. 12-14 and 18-19 are Nārada (sabhā, verses 8-10 and 12-13 in a different order), Manu 8. 140-141 =N. (rṇādāna 99-100), Manu 8. 148-149=N. (rṇādāna 80-81), M. 8. 143=N. (mn. 129, M. 8. 64=N. (r. 177 ), M. 8. 72=N. ( ¥. 189 ), M. 8. 93 and 113=N. (r. 199, 201 ), M.98-99 = N(r. 208, 209 and Udyoga parva 35. 33-34 ), M. 8. 89=N. (r. 225 ), M. 8. 186-187, 189 191=N. ( upanidhi 10-13), M. 8. 232-233, 235=N. ( vetanasya-anapākarma 14-16 in a diffe rent order ), M. 9. 47=N. ( marital relation, verse 28 ), M. 8. 224-225=N. (marital-relation, 33-34), M, 9. 357-353=N. ( marital relation, 65-66 in reverse order ), M. 1.3=N. ( daya bhāga 31 ), M. 9. 216 =N. (dāyabhāga 44), M. 8. 267-269=N. (vākpārusya 15-17 ), M. 9. 270-272=N. ( vāk pārusya 22-24 ), M. 8. 281-284 =N. ( danda-pārusya ( 26-29), M. 4. 87=N (prakirṇaka 44 ). 
 
@@ -141,7 +141,7 @@ FOUNDED
 
 474 
 
-History of Dharmaśāstra 
+
 
 Nārada is probably later than Yājñavalkya. Yāj. mentions only five kinds of ordeals, while Nārada knows seven and the former's treatment of them is not so exhaustive as Nārada's. The rules of judicial procedure in Nārada are more systematic and exhaustive than those of Yāj. Nārada is more conservative than Yāj. For example, Nārada nowhere recognises the right of the widow to succeed to her deceased husband. Nārada cites more definitions than Yāj. In some respects, however, Nārada is more reticent than Yāj.; Nārada gives no rules about the succession of gotrajas and bandhus as Yāj. does. In a few res pects Nārada agrees with the views of Manu instead of with 
 
@@ -191,7 +191,7 @@ FOUNO
 
 476 
 
-History of Dharmaśāstra 
+
 
 :: From the Rājanitiratnākara of Candeśvara published for the BORS of Patna ( 1924 ) by Mr. K. P. Jayaswal it appears that Candeśvara knew a work of Nārada on Rājadharma. On p. 3618 of that work Nārada on Rājaniti is cited for dilating upon three grades of rulers viz. Samrāt (an emperor to whom other kings pay tribute ) also called 'cakravartin' and 'Sakura' and akara' rulers. On p. 75 Candeśvara quotes the words of Hārita and Nārada to the effect that a king should trans mit his kingdom to the eldest son after providing for the maintenance of other sons if he has several sons. The Vrddha 
 
@@ -277,7 +277,7 @@ VON
 
 478 
 
-History of Dharmaśāstra 
+
 
 was published in 1929 in the Trivandrum Sanskrit Series, edited by K. Sambasiva Sastri (based on four Mes). The work claims to be a version of the Manusmrti by Nārada. Prof. T. R. Chintamani contributed a lengthy paper on this version of the Nāradasmști to the Kunhan Raja Presentation volume, published by the Adyar Library, Madras ( in 1946 ) pp. 153-196. He points out that the main differences between the longer and shorter versions of Nārada published by Prof, Jolly are these : the shorter text omits the section on thefts, does not cite the verses on ordeals in a separate chapter and omits the chapter on legal procedure. The longer version has 1028 verses including an appendix on thefts (of 61 verses ). The shorter version has 870 verses and the text on which Bhavasvāmin comments has 877 } verses. The edition with Bhavasvāmibhāṣya has at the end a chapter on five ordeals dealt with in 46. verses ( the five being Dhata, Agni, Udaka, Visa and Kosa ). There are many variations between the Smrti as published by Dr. Jolly and that published with Bhavasvamin's bhāsya. On pp. 159-193 Prof. Chintamani sets out the numerous ( nearly a thousand ) differences ( small and also large ) in the Smrti as published by Dr. Jolly and as found in the Nāradiya Manusamhitā. And on pp. 193-196 Prof. Chintamani prints the text of the 2nd Appendix (on five ordeals with 46 verses ) in the Nepalese Ms held to be spurious by Jolly and contained in the version of Bhavasvā min after the section called Prakīrṇaka. 
 
@@ -291,7 +291,7 @@ HM
 
 480 
 
-History of Dharmaśāstra 
+
 
 and copper. In the Indische studien', vol. XVIII pp. 289-412 a ms. of Lokaprakāśa of Ksemendra ( latter half of 11th century A.D.) is discussed in which the word dināra is frequently used (e. g. on pp. 339, 391 ) and we have a formula forward ing a dināra-hundikā' (on p. 342 ). Hundikā stands for 'Hundi used by travellers. 
 
@@ -335,7 +335,7 @@ atrogafor-aga: il fat i on FSUTATA 72. aue høre seems to be som a lexicographer
 
 482 
 
-History of Dharmaśāstra 
+
 
 cites 24 verses on the actions that are comprehended under ista and pārtu. But the Smṛticandrikū quotes from Nārada at least 50 verses on āhnika and at least 16 on śrāddha-kānda, one of which refers to Sunday and Saṅkranti and on the selection of Ekādaśī for & fast when joined to the 10th or 12th tithi. 
 

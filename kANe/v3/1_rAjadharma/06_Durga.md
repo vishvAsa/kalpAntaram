@@ -23,7 +23,7 @@ In the Rgyeda we have frequent mention of cities. In I 63.7 Indra is said to hav
 
 180 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 

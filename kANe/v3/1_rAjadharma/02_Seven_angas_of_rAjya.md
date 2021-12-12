@@ -129,7 +129,7 @@ But it should not be supposed that this glorification of the king resulted in th
 
 26 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -181,7 +181,7 @@ ratnins' give the (rāṣtra) kingdom (to the king). Vide H. Dh. vol. II. p. 121
 
 39. at forsit qopart 75919 TUFAAT: Afeat: q : I w IIL 4. 2; पेराजानोराजकता सता ग्रामण्यमये । उपस्तीम् पर्ण मा सरकण्वभितो जमान् । MY III. 5. 7. 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 
@@ -219,7 +219,7 @@ We may examine the theories of the origin of kingship in the Mahābhārata. The 
 
 34 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -345,7 +345,7 @@ If the eldest son suffers from a physical or mental defect (such as blindness or
 
 W OTT ( CTFOTO) p. 249. 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -393,7 +393,7 @@ UTST PEUT:', while for on por pay I. 1.
 
 1 9 qm fr भन्सा उसपन समितिका सेपमापीक्षिकी यापतकाविशयापिम्पपलियते।. Vide oftware on the 319.28 for a similar derivation. 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -447,7 +447,7 @@ that when the world relies on vārtā it easily prospers. The Santi-parva ( 263.
 
 Kautilya (1.5) starts by saying that the three vidyās (except daṇdaniti) in the case of the prince depend upon danda, that daṇda in its turn is based upon discipline, which is of two kinds, natural and induced (or acquired). Vidyās produce discipline (of the 2nd kind) in him who possesses the qualities of intellect specified above. Then he goes on to say that the prince should learn the alphabet and arithmetic after his caula is performed (in the 3rd year or later) and after upanayana ho should learn the three vedas and anvikṣikl from the sistas ( those learned in the veda), vārta from the heads or superin tendents ( of the various departments thereof) and dandanfti from expounders ( of the vidyā) and from practical politicians. Vide Manu VII. 43 ( =Matsya 215. 54 and Agni 225. 21-22 ) for directions as to from whom the prince was to learn the four vidyās. Kautilya prescribes that the prince should study these up to the 16th year, should then marry and that in order to foster the growth of the discipline of the intellect he should always associate with those who are advanced in the vidyās enumerated above (after his 16th year) and that the king should spend the first part of the day in practising the riding of elephants, horses, chariots and in the science of arms and the latter part of the day in listening to Itihasa which comprises Purana, history, stories, panegyrics, dharmasastra and artha śāstra. A king whose intellect is thus disciplined and who is devoted to disciplining his subjects also and to doing good to all will be the sole ruler of the earth. The Nitivākyāmsta (p. 162 ) defines vinaya as acting with humility towards those52 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -471,7 +471,7 @@ ht
 
 54 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 

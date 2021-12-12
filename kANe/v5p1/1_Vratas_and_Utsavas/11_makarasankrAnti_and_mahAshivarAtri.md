@@ -19,7 +19,7 @@ rezza i 2. a. p. 331.
 
 212 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -63,7 +63,7 @@ ___550. पञ्चसिद्धान्तिका III. 23-24 (p.9) define
 
 214 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -97,7 +97,7 @@ Each of these twelve sankrāntis in the year is seven-fold (i. e. has seven diff
 
 216 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -133,7 +133,7 @@ H. D. 28
 
 218 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -193,7 +193,7 @@ In modern times Makarasankrānti is more a social festival than a religious one.
 
 222 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -235,7 +235,7 @@ passage' or 'place.' But in the grhyasūtras the word 'udaga yana' in the sense 
 
 224 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. XI 
 
@@ -265,7 +265,7 @@ H. D. 29
 
 226 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -293,7 +293,7 @@ ___581. अस्यामुपवासः प्रधानम् । न �
 
 228 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -329,7 +329,7 @@ The proper time for this vrata is night, since, as stated in the Skanda 589 'gob
 
 230 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -359,7 +359,7 @@ The Tithitattva (p. 127) adds some details which are interesting. The linga is t
 
 232 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 
@@ -395,7 +395,7 @@ H. D. 30
 
 234 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. XI 
 

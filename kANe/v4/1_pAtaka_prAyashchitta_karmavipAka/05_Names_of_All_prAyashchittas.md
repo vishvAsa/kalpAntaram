@@ -77,7 +77,7 @@ Krcchrātikrochra-Gaut, 26,20 and Sāma. Br. I. 2. 8, Vas, 24 3 define it as a k
 
 134 
 
-History of Dharmaśāstra 
+
 
 (Vol, 
 
@@ -149,7 +149,7 @@ en gaan T HT Tigaiaren harapari ayFT BRETA. मदचिन्त्यने �
 
 135 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 
@@ -183,7 +183,7 @@ TULĀPURUSA KRCCHRA-Jābāli speaks 317 of the duration of this penance as eight
 
 140 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -267,7 +267,7 @@ rd Baud. Prasīti means the Land with all fingers stictc.ca out, the palm being 
 
 144 
 
-History of Dharmaśāstra 
+
 
 [Vol. out and hollowed. Some passages from Baud who is probably the oldest of the three authors may be set out here, 331 "Now if a man feels his conscience heavy with bad actions committed by himself, let him boil for himself, when the stars have risen, a liandful of barley and prepare gruel with that. Let him not perform (the Vaisvadeva) offering with (a part of) that nor a Balh 332 offering. Let him consecrate the barley before it has been placed on fire, when it is being boiled and after it has been boiled with the following mantras 'thou art barley, the king of grains, thou art sacred to Varuna and mixed with honey, the sages have declared thee to be an expeller of all sins and a means of purification' Then there are five verses more invoking the barley grains to purify the performer from all sins whether due to deeds, words, or thoughts, to destroy distress and evil fortune, to free him from the food of ganas (guilds or multitudes of men), hariots, Sudras, or food offered at sraddhas by persons in impurity due to birth or death, food of a thief, food at navaśrāddha (i e on 1st, 3rd, 5th, 7th, 9th, 11th days after death) or from dreadful mortal sins or from guilt against children and guilt due to serving in a royal court, from sin of stealing gold, sin of the violation of a viata or sacrificing for an unworthy person and sin of speaking 1]] of brāhmanas Then Baud proceeds "while the barley is being boiled he should guard it and recite 'Adoration to Rudra, lord of created beings; pacified 
 
@@ -299,7 +299,7 @@ Fazura Patih FRI FTUATIE 19 H. D. 19
 
 146 
 
-History of Dharmaśāstra 
+
 
 | Vol. 
 
@@ -399,7 +399,7 @@ _345 गोपुरीषाशनी भूत्वा मासं नित
 
 150 
 
-History of Dharmaśāstra 
+
 
 [Vol. VAYAYYA-KRCCHRA-According to the Agnipurāna 318 and Vispudharmottara this penance consists in subsisting for a month every day on food that will just fill the extended palm. 
 
@@ -453,7 +453,7 @@ periods of the tempo udders anriods of three a respectively do
 
 152 
 
-History of Dharmaśāstra 
+
 
 (Vol. periods of three days each the milk of a cow's four udders, three udders, two udders and one nidder is respectively druuk and then in the next four periods of three days each the milk of one udder, two, three and four udders is respectively drunk 
 

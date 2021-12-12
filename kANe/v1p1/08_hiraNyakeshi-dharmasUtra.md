@@ -58,6 +58,6 @@ FOL
 
 Rhanus 
 
-History of Dharmaśāstra 
+
 
 in the Hiraṇyakeśi school; e. g. he comments on 'padūnam', ou *adhasanaśāyi' for ardhāsanaśāyi (the reading of the sūtra ), on 'ātmasvastyayanārthena' (Ap. II. 5. 11. 9 ) for svastyaya lārthena' of the ms. of Hir. The explanations of the two writers sometimes differ, as for example on ācāryādhinas syād anyatra pataniyebhyah' (Ap. I. 1. 2. 19104). One more circum stance that is worthy of note is that the Ujjvalā of Haradatta does not contain many quotations from Smṛtis as compared with his commentary on the Gautamadharmasūtra. Although ono may be inclined to hold that it is Mahādova who borrows, it inust be clearly recognized that there is hardly any positivo evidence in support of such a view. There is a commentary called Vaijayanti on the Hiranyakesi-srauta-sūtra. This Malādeva is very likely identical with the Mahadeva who commented upon the dharmagūtra. 

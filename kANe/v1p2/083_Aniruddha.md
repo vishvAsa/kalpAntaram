@@ -17,7 +17,7 @@ folio 114b.
 
 728 
 
-History of Dharmaśāstra 
+
 
 . 
 
@@ -81,7 +81,7 @@ Suddhi p. 338 ) 1052 न चात्र ‘निष्कामस्तु �
 
 730 
 
-History of Dharmaśāstra 
+
 
 day as Ekādasi should be observed when the latter is mixd up with Dasami (tithi ) or 12th. Vācaspati-Miśra relying on a verse in Viṣnurahasya held that Ekādasi mixed up with tenth should be observed as fast by one who does so for securing some object, while Ekādaśī mixed with 12th should be observed as fast by one who is niskāma (who has no object in view ). Raghunandana replies that Viṣnurahasya has been declared as apocryphal by the Danasāgara claimed to have been composed by Aniruddha Bhatta ( as stated in the Dānasāgrara itself). Raghunandana probably held and wants to suggest that the Danasāgara was really com posed by Aniruddha and allowed to be put forward in the name of his patron, king Ballklasena. This will be discussed under the heading 'Ballālasena and Laksmanasena'. 
 

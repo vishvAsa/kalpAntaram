@@ -47,7 +47,7 @@ that Bharata did not settle his policies by himself alone or in consultation wit
 
 108 
 
-History of Dharmaśāstra 
+
 
 ( voi. 
 
@@ -173,7 +173,7 @@ officers every five years. The 6th caste mentioned by Megas thenes (Fragment 1 p
 
 116 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -315,7 +315,7 @@ A few words may be said about words like suvarna, satamāna, niska &c. The word 
 
 126 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -347,7 +347,7 @@ W
 
 128 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -381,7 +381,7 @@ Hati Ta \#Ti a FT: 1 aran 1. 11. 9659798991Ha means the same thing as r o n, whi
 
 130 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 

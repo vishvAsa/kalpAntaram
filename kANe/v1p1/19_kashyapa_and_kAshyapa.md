@@ -49,7 +49,7 @@ The Vanaparva ( 29. 35-40) sets out five gathās which Kāśyapa declared about 
 
 276 
 
-History of Dharmaśāstra 
+
 
 Prof. T. R. Chintamani contributed a paper (in which he edited a Dharma--śāstra based on four mss. ) to the J. O. R. (Madras) vol. XIII. pp. 267-282 with an appendix containing passages and verses attributed to Kāśyapa (pp. 283-292 ) by Viśvarūpa, Vijñāneśvara, Aparārka and others not found in those mss. Aparārka mentions Kāśyapa 13 times ( almost all verses except on p. 922 which is in prose) and Kaśyapa six times. 
 

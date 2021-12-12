@@ -17,7 +17,7 @@ A few of the views of Samvartu on topics of vyavahāra may be noted here. Accord
 
 542 
 
-History of Dharmaśāstra 
+
 
 anarchy ), then it is possession that counts and not mere writing (i. e. possession will be protected and not mere paper title without possession ).075 He lays down that no interest was to be allowed if not stipulated for in certain cases, viz., on stridhana ( when used by the husband ), on interest, on deposit ( as long as it is not lost or deteriorated ) and in suretyship.s78_He enumerates ten wrongs ( aparādhas ) of which the king was to take cognisance suo motu without any private person's complaint, viz., restraint of the defendant ( before judgment ), obstruction of the public road, women conceiving in adultery, becoming rich without any ostensible means, destruction of a meeting hall and of trees and crops, kidnapping of maidens, sinning Brāhmaṇas, champerty and maintenance, destruction of the roads where tolls are to be paid, the danger of robbers, rape, injury to cows and Brāh manas.077 He prescribed that disputes were not to be investi gated on the full moon and new moon day, and on the 14th and 8th tithis. ( Vide Par. M. Vol. II. p. 23 ). 
 

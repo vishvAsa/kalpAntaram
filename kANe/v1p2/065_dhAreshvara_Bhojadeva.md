@@ -19,7 +19,7 @@ Ya 59 FLATTE.HTMTYTA: gheata l'; TTHET (p. 280 ) 'अत एव भोजदे�
 
 586 
 
-History of Dharmaśāstra 
+
 
 A verse at the779 beginning of the Rājamārtanda tells us that Bhoja composed a work on grammar, a commentary on the Yogasūtra and a work on medicine called Rājamsgānka just as Patañjali wrote on these three subjects ( vide Mitra's Notices of Mss, vol. I, p. 115 for the medical work of Bhoja called Rājamārtanda (alias Yoga sāra ). He composed a work on astronomy called Rājamrgānka. A work of his on the Saiva āgama called Tattvaprakāśa has been published in the Trivandrum Sanskrit Series. There are several other works ascribed to him, which need not be set out here. That he composed an extensive work on the principal subjects of Dharmaśāstra follows from the numerous references to him contained in the Mit., the Dāyabhāga, the Hāralaṭā and other works. The Suddhi-kaumudī780 (B. I. edition) of Govindānanda frequently speaks of a work called Rāja mārtanda of Bhoja on Srāddha. The Jayasimha-kalpadruma (p. 26 ) quotes Rājamārtanda and Bhojarājiya on the same page. Whether Bhoja composed on Dharmaśāstra one work or two (as he composed two on Poetics ), and whether his work was a commentary or an independent digest it is difficult to say. M.M. Haraprasādaśāstri in one of his reports threw out the suggestion that the Kāmadbenu was the work of Bhoja, but this is entirely worng, as the words of Sridatta in his Pitsbhakti781 will show. 
 
@@ -67,7 +67,7 @@ series ).
 
 588 
 
-History of Dharmaśāstra 
+
 
 work on Poetics ) says that in the Sșngāra--prakāśa, the king accepted only one rasa. Dr. Raghavan has recently published (in 1963 ) a complete and learned exposition of the Syngāra prakāśa of Bhoja ( 1009 pages ). The Varsakaumudi ( p. 107 ) says that a certain verse is cited by the Gangāvākyāvalī without naming the author, but as it is not cited by the Rājā and the rest, it is unauthoritative. 
 
@@ -87,7 +87,7 @@ Bhoja of Dhārā, according to the Bhojaprabandha, had a long reign of 55 years.
 
 590 
 
-History of Dharmaśāstra 
+
 
 Sarasvati is reproduced as the frontispiece and pp. 1-2 give some details and a slightly mutilated verse (in Sārdūla vikridita metre ) is set out with translation by Mr. Dikshit and the date samvat 1091 also is inscribed on the pedestal. In E. I. Vol. VIII p. 96 there is an inscription of Arjuna varmadeva, a descendant of Bhoja where it is stated that the drama Pārijāta mañjarī was first performed in the hall of Sāradādevī built by Bhoja. Dr. Raghavan's latest work on Bhoja's Śṛngāraprakāśa, 1963, has a fine reproduction of this image as a frontispiece. 
 

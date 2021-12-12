@@ -41,7 +41,7 @@ Vratādhikūriṇaḥ
 
 maiden or other female who is impure (in monthly illness or otherwise) should get her, vrata performed through another, but, whether pure or impure, she may perform bodily acts (such as a fast) by herself (vide Tithitattva pp. 121-122). 
 
-If a person is unable owing to disease or accident or the like to perform a vrata personally he could get it performed through a pratinidhi (a representative). Certain rules were laid down about this. It is stated in the Satyāsādhasrautasūtra 133 there is no pratinidhi (representative or substitute) in the case of the owner (the Yajamūna), the wife, the son, the (proper ) place and time (for an act), the fire, the deity ( to be invoked such as Agni, Indra), a rite and a text (to be prescribed for being employed in a rite)'. All religious acts are arranged in three classes, viz. nitya (obligatory), naimittika (to be performed when a certain nimitta or occasion arises or event happens) and kāmya (per formed out of a desire to secure some object). Vide H. of Dh. vol. IV pp. 60-61 note 150 for further details. The Trikānda mandana134 has the following rules about pratinidhi in these three kinds of acts. "No pratinidhi ( substituto ) is allowed in the cage of kamya rites, a substitute is allowable in the case of nitya and naimittika rites; some recognized a substitute even in a kāmya rito after it is once begun; there is no substitute for ā mantra or the deity or the fire (Garhapatya, Ahavaniya or Dakṣiṇāgni), a kriyā (such as prayāja) or iśvara (the svāmin or yajamāna); some say that a substitute is not allowed in the caso of (a prescribed) place or time. An agnihotrin can substitute, (if his wife is dead &c.) an image of her made of gold or kuśas but a woman cannot proceed with a rite putting forward some 
+If a person is unable owing to disease or accident or the like to perform a vrata personally he could get it performed through a pratinidhi (a representative). Certain rules were laid down about this. It is stated in the Satyāsādha-srauta-sūtra 133 'there is no pratinidhi (representative or substitute) in the case of the owner (the Yajamāna), the wife, the son, the (proper ) place and time (for an act), the fire, the deity ( to be invoked such as Agni, Indra), a rite and a text (to be prescribed for being employed in a rite)'. All religious acts are arranged in three classes, viz. nitya (obligatory), naimittika (to be performed when a certain nimitta or occasion arises or event happens) and kāmya (per formed out of a desire to secure some object). Vide H. of Dh. vol. IV pp. 60-61 note 150 for further details. The Trikānda mandana 134 has the following rules about pratinidhi in these three kinds of acts. "No pratinidhi ( substituto ) is allowed in the cage of kamya rites, a substitute is allowable in the case of nitya and naimittika rites; some recognized a substitute even in a kāmya rite after it is once begun; there is no substitute for a mantra or the deity or the fire (Garhapatya, Ahavaniya or Dakṣiṇāgni), a kriyā (such as prayāja) or iśvara (the svāmin or yajamāna); some say that a substitute is not allowed in the case of (a prescribed) place or time. An agnihotrin can substitute, (if his wife is dead &c.) an image of her made of gold or kuśas but a woman cannot proceed with a rite putting forward some 
 
 133. न स्वामित्वस्य भार्यायाः पुत्रस्य देशस्य कालस्याग्नेर्देवतायाः कर्मणः शन्वस्य च qalarari 
 
@@ -51,13 +51,13 @@ a III. 1. Compare 3119. u. 24, 4, 1 and . VI. 3. 18-21 for similar rules, partic
 
 54 
 
-History of Dharmaśāstra 
 
-(Sec. 1, Ch. III 
+
+ 
 
 substitute or effigy in place of the husband.' If a person is unable, after undertaking a vrata, to carry it out, he should get it done by a representative. Such representatives are: son, wife, brother, husband, a sister, a pupil, purohita (for daksiṇā) and a friend. Paithinasi 135 states that a wife might carry on the vrata undertaken by the husband and the husband may do so for the wife; if both are unable a stranger may carry it out; in this way there is no break of vrata. Kātyāyana136 says:--one who observes a fast for the sake of his father or mother, brother, husband and particularly for his guru secures one hundred-fold merit; if a person observes a fast on Ekādasi in place of his maternal grand-father and the like they and their representative each obtain the full fruit thereof. These rules about pratinidhi apply to men of all varṇas.137 
 
-It is somewhat remarkable that the Vratārka quotes from Hemādri138 a passage of the Devīpurāna to the effect that even mlecchas were authorized to perform yratas, if they had faith in them. In the Santiparva (65. 13--25) Indra is made to say to king Māndhātā that even Yavanas, Kirātas, Gāndhāras, Cīnas, Sabaras, Barbaras, Sakas, Andhras and several others should serve their parents, they could perform rites laid down in the Veda, they could make offerings to their (deceased parents), may dig wells (for the use of all people ) and may make gifts to brahmanas. The Bhavisya-purana139 states that the Haihayas, Tālajanghas, Turks, Yavanas and Sakas desiring to reach the status of brāhmaṇas observed fasts on the first tithi ( pratipad). 
+It is somewhat remarkable that the Vratārka quotes from Hemādri138 a passage of the Devīpurāna to the effect that even mlecchas were authorized to perform vratas, if they had faith in them. In the Santiparva (65. 13--25) Indra is made to say to king Māndhātā that even Yavanas, Kirātas, Gāndhāras, Cīnas, Sabaras, Barbaras, Sakas, Andhras and several others should serve their parents, they could perform rites laid down in the Veda, they could make offerings to their (deceased parents), may dig wells (for the use of all people ) and may make gifts to brahmanas.+++(5)+++ The Bhavisya-purana139 states that the Haihayas, Tālajanghas, Turks, Yavanas and Sakas desiring to reach the status of brāhmaṇas observed fasts on the first tithi ( pratipad). 
 
 135. प्रतिनिधयश्च निर्णयामृते पैठीनसिः। भार्या पत्युव्रतं कुर्याद्भार्यायाश्च पतिव्रतम् । असामर्थ्य परस्ताभ्यां व्रतभङ्गो न जायते ॥ नि. सि. p. 29; का. नि. p. 262 quotes पैठीनसि. 
 
@@ -81,7 +81,7 @@ The bulk of the vratas practised in medieval and modern times are kāmya i. e. p
 
 4 (00 a) pp. 1-2, . 00 T I. p. 318 (for last verse ). 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -103,7 +103,7 @@ There is an immense literature on vratas. There is no topic of Dharmaśāstra ex
 
 1. D. 8 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -125,7 +125,7 @@ It must be emphasized here that this section is concernod with the yratas descri
 
 144. This was edited in 1902 samvat in Grantba characters ut Myrore. The ten protes are on thiquererurwit, generate, some sorte, armene विवाहकन्या, स्थालीपाक, भक्ष्याभक्ष्य, उत्सव, एकादशी. 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. HII 
 
@@ -159,7 +159,7 @@ ___150. सिंहस्थं च गुरु शुक्र सर्व�
 
 q. by स. म. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. TII 
 
@@ -189,7 +189,7 @@ E T T HATI proget: GylfaES HET Egia Tae T . II. 32. 4 q. by fare iti XI. 31; स
 
 157 Hua: trefil gra daget ga Art: Horarū fat : 1 पूर्वा पौर्णमासी सा अनुमत्तिः, या उत्तरा सा सका इति विज्ञायते। अनुमतिः अनुमननाद । fara XI. 29. It may be noted that the words of yel... 19 occur in the \#atr a IV, 3.5 and in the t. 1. 32.9 wbich latter is quoted in pote 165. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -225,7 +225,7 @@ Amargareta hi fara: 1 . . 32. 9. It may be remembered that Sayana notes that thi
 
 (Continued ox next page) H. D. 9 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. III 
 
@@ -257,7 +257,7 @@ The Nirukta 168 while deriving the word atithi applied to Agni in Rg. V. 4.5 giv
 
 169. T urgaya . V. 2. 52. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -291,7 +291,7 @@ AUTOT, TH&a,fra, un respectively of 1st to 15th, HATTE being fu
 
 170 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. ID 
 
@@ -331,9 +331,9 @@ __178. नन्दासु नाम्यङ्गमुपाहरेञ्
 
 __181. Some works do not make this elaborate division of tithi found in Dbarmasindhu, Tbe Nirnayasindbu speaks of only saddbā and viddha; 80 the Tithyarka also speaks of only two सम्पूर्णा and खण्डा. संपूर्णोक्ता स्कन्दपुराने प्रतिपत्मभूतयः सर्वा उदयादोयादगाइः । सम्पूर्णा इति विख्याता हरिवासारजिताइलि सालित II. p. 357, तिश्यर्क p. 3. 
 
-History of Dharmaśāstra 
 
-[ Sec. 1, Ch. III 
+
+[  
 
 rise for sixty nādikās (or ghatikās) the tithi is purnā, i. e. the tithi begins exactly at sunrise and ends with the next sunrise and is exactly 60 ghatikās in extent. All others than this are sakhanda; these latter again are of two kinds suddhā and viddhā (pierced by or intermixed with another).182 A śuddhā tithi is one that extends from sunrise to sunset or (in the case of some tithis like sivarātri) up till midnight; other sakhaqda tithis are called viddhā. Vedha is of two kinds, morning vedha and evening vedha; the former generally occurs when after six ghatikās from sunrise a tithi touches or gets merged with the next tithi, while the latter (evening vedha) generally occurs when a tithi touches another tithi six ghatikās before sunset. In the case of certain tithis the period prescribed may exceed six ghatikās. 
 
@@ -377,7 +377,7 @@ ____189. गणिताज्ज्ञायते कालः काले �
 
 E.D.10 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -395,7 +395,7 @@ ____191. युग्माग्नियुगभूतानां षण्�
 
 192. तथा च मार्कण्डेयः । शुक्लपक्षे तिथि ह्या यस्यामम्युदितो रविः। कृष्णपक्षे तिथि स्तिा यस्यामस्तमितो रविः ॥ १. by हे. (on काल) p. 93, का. नि. p. 231, का. वि.P. 501 (where it is said that FITTE bad quoted it). 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -423,7 +423,7 @@ requires).1% Sometimes, even though a tithi be pūrṇā, it is passed over in f
 
 gra: Teata i Frigarna: PAISATI (p. 6). These verses are quoted from prof in Perpaura p. 103. 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. III 
 
@@ -453,8 +453,8 @@ alive folio 81 a, verses 1389–1392 (vide ABORI. vol. 36 p. 334 ). These verses
 
 204. पादश्यां चतुर्दश्यामष्टम्यां च विशेषतः । तैले मांसं ज्यवायं च हरकर्मपवित् । are q. by 4. 1. p. 547, a. fak. m. p. 86. Vide farraysay III. 11. 118-119 for similar provisions and T a g verses 57-58 (q. by F. p. 546). 
 
-History of Dharmaśāstra 
 
-(Sec. 1, Ch. III 
+
+( 
 
 that one should give up oil on the 6th tithi, meat on 8th, use of razor on the 14th and sexual intercourse on the full moon and amāyāsyā (1. 156.140-141). Certain vegetables, fruits and articles such as sesame are to be eschewed on certain tithis; vide p. 70 above and note 177. 

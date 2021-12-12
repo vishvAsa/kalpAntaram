@@ -29,7 +29,7 @@ In his Pūryamimāmsāsūtra, Jaimini submits thousands of texts to the principl
 
 \#D. 183978 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIX 
 
@@ -57,7 +57,7 @@ p. 268 at p. 260.
 
 980 
 
-History of Dharmaśāstra 
+
 
 (Oh. XXIX 
 
@@ -109,7 +109,7 @@ Other general propositions are: Yaga ( sacrifice) is con. stituted by dravya (ma
 
 984 
 
-History of Dharmaśāstra 
+
 
 1 Ch. XXIX 
 
@@ -133,7 +133,7 @@ I. D, 184
 
 986 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIX 
 
@@ -225,7 +225,7 @@ On that night a goat having dark spots on its skin is tied towards the north of 
 
 092 
 
-History of Dharmaśāstra 
+
 
 (Oh. IXIN 
 
@@ -289,7 +289,7 @@ i . 1. I. 2. 1. 2261. Vido Tai. Br. I. 1. 7 for the mantra sofrerafa (wbioh la m
 
 996 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIX 
 
@@ -357,7 +357,7 @@ IV. 13. 6.
 
 1000 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXIX 
 

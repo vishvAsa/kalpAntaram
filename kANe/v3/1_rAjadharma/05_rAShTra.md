@@ -91,7 +91,7 @@ Most of the ancient sūtrakāras and smftis try to lay down the limits of the ho
 
 138 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -149,7 +149,7 @@ Manu VII. 114 similarly observes that in the midst of two, three or five village
 
 (Continued from last page) very detailed and accurate boundaries of a village of 200 nivartanas are given. A nivartana was equal to a square of twenty vanisas on each side, each vamsa being equal to ten cubits; so that a nivartana covered an area of 40000 cubits (200 x 200) i, e, about 90000 square feet, while an acre is equal to 43560 square feet. Therefore the village referred to in the above grant was over 400 acres in extent. The Mahābhāṣya (on vārtika 8 on Pan. I. 1. 7) has an interesting discussion on the several meanings of the word grāma in popular language viz. a number of houses (as in the grāma was burnt), the village wall or ditch (as in 'he entered the grāma'), 'men' (as in the grāma had gone'), & village with its forests and bushes, with its boundaries (such as rivers and hills) and with embaoked fields (as in 'a grāma was acquired'). Flagteri : I THOT A IHEET ... * AT THE Hultenen una I MUUT TRAT you a As in modern times villages are found named after trees the same was the case in the days of Pan, and Patañjall GTATTAA: : UTAFT T Fortfarai AET169 on gr. I. 2. 51 (vol I. p. 224.).142 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -221,7 +221,7 @@ The superintendent of liquor was to carry on the traffic in liquor and ferments 
 
 148 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -243,7 +243,7 @@ finding of lost goods who appears to be the same as sthānika. The gopa and sth�
 
 150 
 
-History of Dharmaśāstra 
+
 
 Vol. 
 
@@ -263,7 +263,7 @@ Salaries of officers
 
 only means that a salary commensurate with the position and responsibilities of each officer should be received by him. Vide Sānti 87. 6-8 for rules similar to Manu's (where the officer over a thousand villages gets as his salary the revenues of a sākhānagara). Kautilya ( in V.3) sets out the salaries of many officers and servants as follows: the salary paid to the chief mantrin, purohita and a few others has been already stated above (p. 120); the dauvārika, the superintendent of the harem ( antar vamsika), the praśāsts, the samāhartr and the sannidhātṇ were to receive 24000 panas; the princes (other than the crown prince), the nurse (māts, mother?) of the princes, nāyaka, the superinten dent in charge of justice (or commercial transactions ?) in the capital (the pauravyāvahārika ), the superintendent of royal manufactories (karmantika ), the members of the council of ministers, the rāṣtrapāla ( governor of a province), antapāla ( the guardian of the borders ) were to receive 12000 panas; the salary of the heads of śrenis ( the military corporations ?), the heads of the elephant army, cavalry, and chariot army, and the pradestrs was 8000 panas; the superintendents (below the commanders ) of infantry, cavalry, chariots and elephants, of the forest produce and elephant forests will each receive 4000; the chariot driver (anika), the army physician, the trainer of horses, carpenters, yoniposaka (?) will receive 2000; the foreteller (the reader of omens), astrologer ( who finds auspicious times for undertakings ), the reader of purānas, the sūta, māgadha ( bard), the assistants (puruṣa) of the purohita and adhyakṣas will receive 1000; trained foot-soldiers, the accountants and scribes will receive 500; musicians 250, but trumpet-blowers will receive 500; artisans ( kāru ) and craftsmen ( śilpin ) 120; servants in charge of bipeds and quadrupeds, workers doing miscellaneous things, attendants near the king, bodyguard and the officer procuring free labour (visti ) will receive 60; those appointed to do piece work (kāryayukta, v. 1. āryayukta ), the elephant driver, boys (mānavaka, a page?), mountain-diggers, all atten dants, teachers and learned men shall receive honorarium (pājā vetana) according to their merit from 500 to 1000; charioteer of the king 1000 ; spies of the five sorts ( vide above p. 129 ) will receive 1000; the village servants (like washer-man), the spies of the type of sattrin, desperado, poisoner and ascetic women will receive 500; the wandering spies (vide above p. 130) three hundred or more according to the labour involved. The superintendents in charge of a group of hundred or a thousand ( servants) were to regulate the subsistence (bhakta ), cash salary, the perquisites,152 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -355,7 +355,7 @@ important information about local administration in villages. A compact formed a
 
 158 
 
-History of Dharmaśāstra 
+
 
 (Voi. 
 
@@ -453,7 +453,7 @@ TIFTE R \# *\#. 13. 63-64 - vapor p. 59 verses 322-323.
 
 164 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -481,7 +481,7 @@ Errort wreterani Triq. in f. t. p. 598 ; बालधर्म राज्ञ�
 
 166 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -541,7 +541,7 @@ set out in the note below. $14 Energetic action, according to Santi. 58. 13-15, 
 
 170 
 
-History of Dharmaśāstra 
+
 
 Vol. 
 

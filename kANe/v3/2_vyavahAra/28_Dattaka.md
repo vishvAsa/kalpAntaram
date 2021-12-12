@@ -221,7 +221,7 @@ ertany - SexNTT t ra vṛ sing III vi p. 138.
 
 676 
 
-History of Dharmaśāstra 
+
 
 ( Vol. 
 
@@ -539,7 +539,7 @@ mt. p. 182; Art an aru समोरपि पिचोनापारसम्�
 
 696 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 

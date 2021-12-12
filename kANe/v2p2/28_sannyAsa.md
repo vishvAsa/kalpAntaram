@@ -129,7 +129,7 @@ allow him an option viz. he may tonsure the wbole head or keep only a top-knot.
 
 8. D. 118938 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -231,7 +231,7 @@ EVETIUATU
 
 944 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -389,7 +389,7 @@ A. D. 190
 
 954 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -499,7 +499,7 @@ TATT for it and the work called Torino by Sathkaraokrya (in Benares Sanskrit ser
 
 962 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -527,7 +527,7 @@ hig ing part i startta Amah gugugi vienlarge कर्म समज्ञान�
 
 964 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -627,7 +627,7 @@ Tu 07. 112. u, D. 188
 
 970 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 
@@ -663,7 +663,7 @@ In several works it is said that the pariṣad must be consti. tuted by sistas (
 
 972 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXVIII 
 

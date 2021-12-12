@@ -81,7 +81,7 @@ The motive of this injunction to honour guests was olear, viz, universal kindlin
 
 154 
 
-History of Dharmaśāstra 
+
 
 Ch. XXI 
 
@@ -123,7 +123,7 @@ ETTER I 17. 9. & II. 3. 68, 21-22: 47:' occurs in d. 7. 83. 1 and i FTTAWAGTATE:
 
 766 
 
-History of Dharmaśāstra 
+
 
 [ Ch. XXI 
 

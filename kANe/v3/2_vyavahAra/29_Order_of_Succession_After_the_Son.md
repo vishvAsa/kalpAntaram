@@ -1077,7 +1077,7 @@ Bandhu ( cognate). 1451 It has been seen above ( on p. 742 ) how the Dayabhāga 
 
 754 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -1277,7 +1277,7 @@ ruta de la and squrtardim*:. P*, Frana and feare. m p. 84 read' or TT Arouarga.'
 
 768 
 
-History of Dharmaśāstra 
+
 
 | Vel. 
 

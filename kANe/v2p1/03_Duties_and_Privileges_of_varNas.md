@@ -25,7 +25,7 @@ artomeu trefa HRFANETENIA I FATTO ON T. I. 118.
 
 B106 
 
-History of Dharmaśāstra 
+
 
 ( Ch. III Ajatasatru, king of Kasi ( Br. Up. II. 1 and Kausitaki Up. IV), Svetaketu Arunoya from Pravāhaṇa 30 Jaivali ( Chān. Up. V.3), five brāhmaṇas from Aśvapati, king of Kekaya ( Chān. V. 11). In Bṛ, Up. (IV. 2. 1) Janaka is described by Yājžavalkya as one who had studied the Vedas and Upaniṣads.881 From this it may be inferred that some ksatriyas at least spent & good deal of time in the study of religious and philosophical doctrines. The conclusion 822 that is sometimes 
 
@@ -251,7 +251,7 @@ p. 930.
 
 120 
 
-History of Dharmaśāstra 
+
 
 ( Ch. III 
 
@@ -289,7 +289,7 @@ afterta
 
 122 
 
-History of Dharmaśāstra 
+
 
 [ Ch. III 
 
@@ -355,7 +355,7 @@ brāhmaṇas. The Vedic Literature does not condeinn agriculture in the case of 
 
 274. PERO O matagpo a maua I 3194rureur griqurbati a in . t. p. 429.128 
 
-History of Dharmaśāstra 
+
 
 f Oh. Itt 
 
@@ -427,7 +427,7 @@ A.D. 17
 
 130 
 
-History of Dharmaśāstra 
+
 
 [ Ch. III 
 
@@ -449,7 +449,7 @@ daily performs bath, sandhyā, japa, homa, worship of gods and honouring of gues
 
 132 
 
-History of Dharmaśāstra 
+
 
 (Ch. III 
 
@@ -501,7 +501,7 @@ ELL
 
 184 
 
-History of Dharmaśāstra 
+
 
 1 Ch. III 
 
@@ -565,7 +565,7 @@ ator fara li FE VII. 8.
 
 138 
 
-History of Dharmaśāstra 
+
 
 Ch. III 
 
@@ -599,7 +599,7 @@ TUTUR. T. II. 2. 1 and 478 ifee IX. 16. 311. सपा ने प्रणा �
 
 140 
 
-History of Dharmaśāstra 
+
 
 . 
 
@@ -627,7 +627,7 @@ TH TIPEETATI I u sarg's artw IV. 8 ___318. तथा कात्यायना
 
 142 
 
-History of Dharmaśāstra 
+
 
 (Ch. dit 
 
@@ -689,7 +689,7 @@ persong, ascetics, minors, senile men (above 70), young men, and women who are r
 
 H, D. 19146 
 
-History of Dharmaśāstra 
+
 
 ( Oh. III 
 
@@ -799,7 +799,7 @@ UT * Farrar la suta . F. II. 6. 10. 1-2.
 
 152 
 
-History of Dharmaśāstra 
+
 
 1 Ch. III 
 
@@ -895,7 +895,7 @@ Il PTTK 1. 4. 25; vido f uera IV. 28 wprerrot TTT & fruit दपि। शाल
 
 364. FC PRET TOT Wuta w afa i 1794. p. 17; strat wrot freeware C o ffeegror i 58. 18.156 
 
-History of Dharmaśāstra 
+
 
 Ch. III 
 
@@ -961,7 +961,7 @@ should not impart religious instruction to him nor ask him to perform vratas'. L
 
 160 
 
-History of Dharmaśāstra 
+
 
 [ Oh. III 
 

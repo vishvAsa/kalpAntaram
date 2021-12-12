@@ -627,7 +627,7 @@ P 67
 
 736 
 
-History of Dharmaśāstra 
+
 
 [ Vol 
 
@@ -1125,7 +1125,7 @@ dhara (7 64) Cabrastbila--(under Mathura) Vet.
 
 742: 
 
-History of Dharmaśāstra 
+
 
 [Vol. Cabrasvamın-(under Sklagrāma) 1 ar, called Malini but later was called 
 
@@ -1983,7 +1983,7 @@ II, D 95
 
 1954 
 
-History of Dharmaśāstra 
+
 
 [Vol. being flooded by the sea and of Benares) M. 114, 22, Br II, 16, 25, people going to Parasurame for Rām. II 49. 11 succour). Vide Epi. C. voi, VII Gomati-gangā-sangama-PI. 32. 42, Shikarpur No 99 of 1113 A. D.) where Calukya Tribhovapamalla's 
 
@@ -2777,7 +2777,7 @@ the Kaśmira valley close to modern Kothera) R I 32, HC XIV 34 and 135, NM 1178,
 
 764 
 
-History of Dharmaśāstra 
+
 
 I Vol. is a deep spring...wbcn its water decrcascs an image of Mahādeva in 
 
@@ -3035,7 +3035,7 @@ P 507 ) thinks Kausili-kola-snagama-Var 140 75
 
 768 
 
-History of Dharmaśāstra 
+
 
 I Vol. Kedžra-A (one of the eight Siva- Klatvāāgesvara--(under VS) L. q. 
 
@@ -3143,7 +3143,7 @@ five vanas, Kotileśvara-(under Narmada) P 1.18.36 Kotle vara Koṭiśvara-A (un
 
 770 
 
-History of Dharmaśāstra 
+
 
 (Vol. Kotititha--A (aear Prthūdala) Vām. Kopām (r. nising in m. Suklimat) M, 
 
@@ -3307,7 +3307,7 @@ There is doubt about its exact
 
 7172 
 
-History of Dharmaśāstra 
+
 
 (Vol, location, Var. 179. 26-31 aver Kumārośvaraliðga--SK, I, 2. 14. 60, that Mathurā is superior to Saukara. Vām, 46. 23 tīrtha, which again is saperior to Komāri-(Cape Comoria, where thera Kubjāmraka, Var 140.60-64 explain 19 a temple of Kumāri Devi in which bow the holy place Hrsīkesa came there is a fine image of the goddess to be so called. On the whole it is as a maiden). Ptolemy mentions better to take Kubjābraka as a sac- it as Koumana while the Periplus red spot in Haridvāra itself or very refers to it as Komar or Komarci, V. Dear it. 
 
@@ -5427,7 +5427,7 @@ Moradabad District, U P, many
 
 800 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 
@@ -6561,7 +6561,7 @@ Ins
 
 816 
 
-History of Dharmaśāstra 
+
 
 [ Vol. Usnīgaiga (a tirtha for bathing) v. Vāgiśvari,under Go.) B 135, 26 
 
@@ -6879,7 +6879,7 @@ tr = 270} Venā-A(T rising from Vladbya) B.
 
 20 
 
-History of Dharmaśāstra 
+
 
 iTo. Dear Jababaleshwar The Pengaigā krmareai tathapi ca), Bh 7.19 15, falls jalo Warāba, acc. to I. G. I. P. TI. 113 25 (VabEdera became Tol, V 22, 101 XIII. p 229, vol Veasa) XX. p 102 and the abited stream Petasika--(r) V, 84.56, P. I. 3. 20, of the Waiagaaga and Wardbā 15 P. 17. 29. 20 (speaks of Tees śaona as Prānabith whicb ultimat- Vetrarati-sadgama ) els falls into the Godziari Vide I Vetravati-A (modern Betra cirer, G I vol, 24 p 349, Bhi 9 bich rises in the Bhopal State and 20, 25, 1, $5 32, SS 3, 222, 24, falls into the Tamara) 11.23 20, App. 165. 20. Bh. * 79 12. Venezia 114. 23 (nuses from Parizatra), Bc. II. is often mentioned as hitsaarena 16. 28 (rises from Bharat), K II. Or-penya -Veai as in v 20 35, Heghadöta (I. 24) says that 114. 29 Rājaselbara in birya- Vidssā (modera Bhils), the capital mimānsā p. 94 mentions Teak' and of Casama, was situated on Tetra 'hrsaarena separately in the first vati;B a tributary of the Sabbramati) quarter of the 10th centart. Tide P. 17130 and 133 4-5 in 'Quesmoas Targiter p 303a for the ratious of Viliada (S BE 35 p 171} forms of this dame, 
 
@@ -7003,7 +7003,7 @@ Ertanda p 780 above timalāśola-V, 84 69-70, P I. 32 33
 
 822 
 
-History of Dharmaśāstra 
+
 
 (Yol. 
 

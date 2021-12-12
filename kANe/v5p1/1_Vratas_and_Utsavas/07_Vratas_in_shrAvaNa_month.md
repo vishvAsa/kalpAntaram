@@ -37,7 +37,7 @@ In the Deccan on Śrāvana bright half 5th figures of snakes are drawn with red 
 
 126 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VII 
 
@@ -63,7 +63,7 @@ On the Full Moon of Srāvana there is in the afternoon a ceremony called Raksāb
 
 128 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. VII 
 
@@ -103,7 +103,7 @@ H. D. 17
 
 130 
 
-History of Dharmaśāstra 
+
 
 [ Sec. I, Ch. VII 
 
@@ -173,7 +173,7 @@ ___340. अभिजिन्नाम नक्षत्रं जयन्त�
 
 134 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VII 
 
@@ -217,7 +217,7 @@ HT: 1 STE SI AFUTE F EITE FITETT! q. by \#. \#. p. 52 (reads TEKI TU:), G. 7. p.
 
 136 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VII 
 
@@ -251,7 +251,7 @@ LE
 
 138 
 
-History of Dharmaśāstra 
+
 
 (Sec. 1, Ch. VII 
 
@@ -289,7 +289,7 @@ yratante pp. 35-36.
 
 140 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VII 
 
@@ -307,7 +307,7 @@ Weber's theory about Janmāṣtami
 
 142 
 
-History of Dharmaśāstra 
+
 
 (Sec. I, Ch. VII 
 

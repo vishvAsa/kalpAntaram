@@ -55,7 +55,7 @@ n gla: 1 अजीजपस व्यवहारसाधको ग्रन्
 
 980 
 
-History of Dharmaśāstra 
+
 
 and the Hindu community. He had a free college for students; he left a great reputation as a scholar and died at a great age in 1806. 
 

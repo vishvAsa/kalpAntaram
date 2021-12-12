@@ -27,7 +27,7 @@ end of 2nd परिच्छंद. 1422 तर्के दुस्तर्�
 
 926 
 
-History of Dharmaśāstra 
+
 
 said that he composed the Nirnayasindhu, a commentary on the Vārtika (of Kumarila), a work on the mimamsa (Sastratattva) and a series of 20 other works.1423 At the end of a ms. of the Śāntiratna in the Bhau Daji collection there is a list of 22 works of his out of which the Nirnayasindhu is said to have been the first.1424 More than half of these works are concerned with topics 
 
@@ -59,7 +59,7 @@ Mitra's Bikaner cat. p. 499, No. 1071. 1426 Vide Burnell's Tanjore cat. p. 135 b
 
 928 
 
-History of Dharmaśāstra 
+
 
 429 
 
@@ -101,7 +101,7 @@ The Vivadatāndava was published in “ Our Heritage” Vol. VII part 2 pp. 1-23
 
 930 
 
-History of Dharmaśāstra 
+
 
 The work is a small one. About half of its 23 pages contain foot notes covering half or more of each page. Pages 2–5 have only 1/3 page for the text. Its first verse is quoted below!434 
 
@@ -133,7 +133,7 @@ This is interesting TT TETO TEATTET HET I ... 075 सनेयिशाखया
 
 932 
 
-History of Dharmaśāstra 
+
 
 impurities on birth and death; rites after death, rites for sati; samnyāsa. 
 
@@ -217,7 +217,7 @@ e fertig gfa TT. PH: 1 fa. fh. p. 337. The Devipurāṇa verse quoted in the Krt
 
 936 
 
-History of Dharmaśāstra 
+
 
 1447 
 

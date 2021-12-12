@@ -89,7 +89,7 @@ u: 1 ... ... TOTT A Tisvots HTH T ITE fa * former area FT: 18. . III. 8. 9. The 
 
 1230 
 
-History of Dharmaśāstra 
+
 
 ( Ch. XXXV 
 
@@ -211,7 +211,7 @@ pp. 193-212 for the significance of Gavām-ayana and its purpose.
 
 1240 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXV 
 
@@ -259,7 +259,7 @@ The Gavām-ayana was performed for various rewards viz. progeny, prosperity, ple
 
 1242 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXV 
 
@@ -325,7 +325,7 @@ et qura i roto a ज्यापपस्याप्रन्ति भूम�
 
 1246 
 
-History of Dharmaśāstra 
+
 
 (Ch. XXXV 
 
@@ -363,7 +363,7 @@ TE THER IT: I. Vide Kat. XVI. 1.32 also.
 
 1248 
 
-History of Dharmaśāstra 
+
 
 to the south of the ahavaniya fire (the horso leading ) with their mouths to the east and the place from where clay is to be taken is reached by the horse. To the east of the abavaniya a square pit is dug and a ball of clay is put therein which brings the pit on a level with the surrounding ground. At the middle of the distance between the clay lump and the ahavaniya clay taken from an ant-hill is heaped. A spade one oubit long made of some sacrificial tree is kept to the north of the ahava niya. The ant-bill olay is placed on the lump of earth in the pit with that spade. The horse is made to plant its foot on the olay in the pit. He (the priest ) draws three lines with the spade on that lump of olay, spreads black antelope skin to the north of the lump and thereon keeps a lotus leaf on which the lump of clay from the pit is placed and the corners of the skin are tied with a girdle of muñja. He takes up the hide with the clay therein, raises his arms towards the east, bolds the bundle over the animals that come back in the reverse order (the goat leading). According to Ap. XVI. 3. 10 the bundle is placed on the back of the ass and brought near a tent. The lump is placed to the north of the ābavaniya in a tent soreened on all sides; then he takes the hair of the he-goat and mixes the hair in that lump of olay with water in whioh palāsa bark is boiled and mixes therewith gravel, iron rust and small stones. From the olay thus mixed the wife of the sacrificer (or the first wife if there are several) prepares the first brick called Asadha, which is in measure as muoh as the foot of the sacrificer, is rectangular and has three lines scratched on it. The sacrificer prepares an ukha (fire-pan) from the mixture of clay, which is one span in diameter. According to some three pans are made. He also makes three bricks called Visva jyotis, each having three lines and so marked as to show which is first, second and third. The remaining clay is called upasaya and is kept aside ( as it will be required later). The ukha is fumigated with the smoke from seven horse-dung cakes kindled on the dakṣiṇa fire. A square hole is dug with the spade referred to above, therein fuel is put and the bricks and the ukha ( with the mouth downwards) are put for being baked and more fuel is added. He removes the coals and ashes and takes out during the day the bricks (four) and the ukhā, on which the milk of a she-goat is sprinkled. Thereafter other bricks are made which have three lines on each, whiobh are generally as long as the sacrificer's foot and are baked till they are red. 
 

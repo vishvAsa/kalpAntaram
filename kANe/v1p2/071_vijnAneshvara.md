@@ -17,7 +17,7 @@ fait p. 280. 820 इति याज्ञवल्क्यमुनिशा�
 
 600 
 
-History of Dharmaśāstra 
+
 
 nature of a digest of smrti material. It brings together numerous smrti passages, explains away contradictions among them by following the rules of interpretation laid down in the Pūrvamīmāṁsā system, brings about order by assigning to various dicta their proper scope and province (viṣayavyavasthū ) and effects a synthesis of apparently unconnected smrti injunctions. 
 
@@ -53,7 +53,7 @@ vrddha'. For example, it quotes verses of Vṛddha-Manu on Yāj. II. 135-36, 270
 
 602 
 
-History of Dharmaśāstra 
+
 
 Vrddha-Yāj. on Yāj. III. 1-2 ( one verse ), III. 6, III. 19 (two verses ), III. 289; it quotes Brhad-Yājñvalkya on Yāj. III, 253; it quotes Vrddha-Vasistha on Yāj. III. 20 ( prose ), Yāj. III. 21 ( verse ), III. 24 (four verses on 'āśauca' in one of which the view of Yama is mentioned ), on Yāj. III. 311 (prose); it quotes Brhad-Vasistha on Yāj. III. 287 ( 244 verses ). Mit quotes Vụddha-Visnu on Yāj. II. 135-36 (prose), on Yāj. III. 266-67 ( verse ); Mit. quotes Brhad-Viṣnu on Yāj. III. 20 ( prose ), on Yāj. III. 234-242 (long prose passage on various kinds of pātakas ) and on III. 253 (1} verses ), III. 263-4 ( one verse ); the Mit mentions Vrddha-Sātātapa on Yāj. I. 231 (verse ); Mit. mentions Vrddha-Hārīta ( 24 verses of Vrddha Hārīta on Yāj. III. 266-67 and prose on Yāj. III. 325, on Yāj. III. 254 ( prose ), 259 ( prose), 261 (prose); Mit. on Yāj. III. 261 quotes Vrddha-Brhaspati (1} verses on nine kinds of sankara; Mit. quotes Vrddba Pracetas ( verses ) on Yāj. III. 265 and Brhat--Pracetas ( verses ) on Yāj. III. 20 (one), III. 263-64 ( 14 verses ); III. 265 (2} verses ); Mit, quotes Bṛhad-Yama ( 4 verses) on Yāj. III. 254, 255 and 260; Mit. quotes Brhad-Saṁvarta on Yāj. III. 265. 
 
@@ -83,7 +83,7 @@ A remarkable merit of the Mitāksarā is that it relies on the Mimāṁsā sūtr
 
 604 
 
-History of Dharmaśāstra 
+
 
 be briefly noticed here. On Yāj, I. 4-5 ( where 20 Dharma śāstrakāras are named ), Mit. remarks that these verses are not to be held as parisankhyā ( these verses do not exclude others being recognised as Dharmaśāstrakāras ) but are only illustrative. Parisarikhyā, Niyama and Vidhi are explained at great length on Yāj. I. 79 and 81. On Yāj. I. 249, the Mit. remarks that the verse is a niyama and not parisarkhyā. On Yāj. I. 253-54 the lit. quotes on the question of the Sapindi. karana of one's deceased mother texts of Paithinasi, Yama and Uśanas and brings out order (i. e. makes a vyavasthā ). The Kalpataru on Srāddha quotes Yāj. I. 253-54 ( on p. 257 ), does not quote the varying views of several writers but only one view and makes no vyavasthu on the point. Another example of Vyavasthā on varying dicta of over a dozen writers occurs on Yāj. I. 256, where difference of views of the Dāksinātyas and Udicyas are set out and PMS III. 6.9 is also discussed. Kalpao on Srāddha has no such discussion. On Yāj. II. 114, the Mit. refers to the Lipsāsūtra ( Jaimini IV. 1. 2, in which the word lipsī occurs ) and quotes a passage of Prabhākara (called Guru ). Vide H. of Dh. Vol. III. p. 550 and n. 1027 for this. Vidhis are of two kinds, 'Kratvartha' and Purusārtha' and the Mit. on Yāj. I, 103 holds a discussion on this. Vide H. of Dh. Vol. V. pp. 1232-35 for explanations of these two. The particle nañ ('na' meaning 'not') may indicate a prohi bition (pratised ha ) or a provision or exception ( paryudāsa ). The Mit. on Yaj. I. 129 remarks that not only in that verse but everywhere in that prekariṇu ( Yāj. I. 129-166 ) the particle. naṅ' conveys 'paryudāsa'. Vide H. of Dh. Vol. V 20. 1248-49 for explanation, On Yāj. I. 86 where an objector raises the question that a woman is prohibited from becoming a suti after her husband's death, the Mit. refers to the Syena pāga and points out that the Syenayāga passage is entirely different in purport from passages about the practice of Sati. Vide on this H. of Dh. Vol. V pp. 1183 and 1245 
 
@@ -119,7 +119,7 @@ A
 
 606 
 
-History of Dharmaśāstra 
+
 
 The Mit. quotes hundreds of verses simply as 'vacanam' or 'vacanāt' or as 'smarana' or smrtyantaram' and some times verses so referred to are well-known and are found in Smṛtis like those of Manu aud Nārada. For example, on Yāj. 1. 80, it quotes the verse · Pumān pum'sosdhike'as a vacana; it is Manu III. 49. On Yāj. I. 87 the Mit. quotes Prāgupa nayanāt... bhaksāh' as smarara though it is a well-known sūtra of Gaut. II. 1. ). On Yāj. II 305 the Mit. quotes Pado gacchati ... rājānam-rcchati' as a vaçana, which is a well known verse of Manu 8. 18 and Nārada (3. 12). On Yāj. II. 49 Mit. quotes as a vacana Bhāryā putraśca dāsaśca &c' which is Manu IX. 416. On Yaj. I, 90 Mit. quotes as 'smarana' a half verse which is Manu X. 41. Some verses quoted as Manu's are not found in the Manusmrti. For example, on Yāj. I. 179, a verse 'Yathāvidhi niyuktastu... vimśatim'is cited as Janu's but it is not found in the present Manusmrti. In introducing Yāj. I. 217-218, Mit. quotes as Manu's the verse 'Dadyād--a harahah śrāddham' &c. which is not found in the Manusmrti. On Yāj. III. 18 the printed Mit. ascribes the verse "asvargyam...caren-na tu' to Manu. but it is really Yāj. I. 156. On Yāj. I. 8 Mit. quotes · Yatrai kāgratā tatrāvisesāt' as from Patañjali's sūtra work. It is really a sītra of the Vedāntasūtra ( IV. 1.11 ). 
 
@@ -147,7 +147,7 @@ King Vikramaditya VI of the Cālukya dynasty with his capital at Kalyāna ( or -
 
 608 
 
-History of Dharmaśāstra 
+
 
 the year Nala, saka 998 ( expired ), corresponding to 8th March 1076 A. D. As regards the date of his death it may be observed tbat the Chikkavadavatti Inscription (South Indian Inscriptions, Vol. XI part 2 No. 178 pp. 236-239 ) belongs to his reign and cites Cālukya Vikrama year 51, Parā bhava, Māgha, “ukla 5, Wednesday, corresponding to 19th January 1127 A. D. Since his son and successor Someśvara III is known to have counted Parābhava as his first regnal year (Bom. Gaz, Vol. I part II p. 455 ) the death of the father Vikramālitya VI and the accession of the son seem to have taken place between 19th January and March 14 (end of Phālguna ) in 1127 A. D. This indicates that Vikramaditya passed away sometime between 20th January and Ist March of 1127. Therefore, it would be accurate enough to hold that Vikramāditya VI ruled from 1076 A. D. to 1126 A. D. The 4th verse827 at the end of the Mitāksarā may be translated thus: 
 
@@ -199,7 +199,7 @@ Further, Prof. Aiyangar himself shows (in Intro. to Dāna kāuda p. 37 )' that b
 
 612 
 
-History of Dharmaśāstra 
+
 
 really extended from the Western to the Eastern Deccan as prayed for in the panegyric of Vijṅāneśvara. This statement of the editor strongly supports the present author's view that the Mit. was completed before 1120 A. D. and the period during which it was begun and completed must be 1100-1120 A. D. 
 
@@ -301,7 +301,7 @@ velge
 
 616 
 
-History of Dharmaśāstra 
+
 
 . 
 

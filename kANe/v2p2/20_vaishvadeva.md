@@ -49,7 +49,7 @@ There was divergence of view on other questions viz. whether vaiśvadeva was to 
 
 1770, Urut TOT of meer i WWFT PAR EHFHOTO FARM are p. 46; guru Trisury i PATIWY. ATT I. 116. 
 
-History of Dharmaśāstra 
+
 
 | Ch. XX 
 

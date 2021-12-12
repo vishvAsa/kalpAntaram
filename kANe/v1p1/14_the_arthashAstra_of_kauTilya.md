@@ -190,7 +190,7 @@ FOUN
 
 160 
 
-History of Dharmaśāstra 
+
 
 acc. to Bșhaspati. It is remarkable that the Vajra array referred to above is mentioned in K. X. 6. 35, that a syena array is mentioned by Kautilya (X. 6. 12), though not Krauñca and that an array called Sakata is mentioned in the Dronaparva 7. 24, which occurs in Kauṭiliya also (at X. 6. 26 ). 
 
@@ -242,7 +242,7 @@ OPERTURAT START Fora galegara lll f. 56. 39. 154k ponta fe stia: th: geraa: i TT
 
 13.3162 
 
-History of Dharmaśāstra 
+
 
 of a king as having studied the whole of Bphaspatimata and Auśanasaśāstra. Sānti 59. 51 refers to 'Saptāngarājya'; Manu IX. 294 and Kautilya ( VI. 1. 1 ) also mention the seven constituent elements. 
 
@@ -406,7 +406,7 @@ FOUNDEE
 
 168 
 
-History of Dharmaśāstra 
+
 
 doubt that, whatever the exact date of the Nidhanpur grant may be, Bhāskara varman flourished in the first half of the 7th century. 
 
@@ -470,7 +470,7 @@ It is knowu that l'orns first fought with Alexander but later on he became recon
 
 174 
 
-History of Dharmaśāstra 
+
 
 ments worn by Parvataka had fallen into the hands of Candra gupta (Act I just before verse 19 ) and verse 19 refers to five chiefs of North-West India as the most prominent among Mleccha chiefs. According to Greek sources, Porns was killed before B. C. 318 (Tarn's work p. 46). The Mudrārāksasa opens when Candragupta had recently occupied the Magadha throne. In Act II of the Mudrārāksasa we read ( before verse 14 ) that Kusumapura ( the capital of Magadha ) had been invested by the army of Candragupta and Parvateśvara which consisted mostly of Sakas, Yavanas, Kirātas, Kambojas, Pārasikas and Bāhlikas and supported by the counsels of Cāṇakya. This means that for securing the capital of Magadha soldiers from the Northwest of India had been brought by Candragupta and Parvataka and Cāṇakya had the leading part in that. In Act III after verse 24 Cānakya says to Candragupta, 'we have recently secured the kingdom of the Nandas' and in Act IV, 14 Rākṣasa himself tells Malayaketu that the Maurya has recently become king. It seems that Candragupta first gained provinces in Northwest India and then secured Magadha. Besides, in Act IV ( before verse five ) Malayaketu says that it was the tenth month after his father's death. That shows that within a few months of Parvataka's death, Candragupta had recovered the throne of Magadha and then engaged in a feigned quarrel with Cānakya about Kaumudimahotsava in the capital. A short time before the false quarrel Malayaketu had left the capital. Hence, according to the Mudrārāksasa, Candragupta came to the throne about 317 B. C. if we accept the identity of Parvataka and Porus ( who died in 318 B. C. according to Tarn. ). The Cambridge History of India (vol. I, p. 470 ) holds that the Mudrārāksasa dates probably from the 7th century A. D., and that we need not question its evidence'. 
 
@@ -500,7 +500,7 @@ FOUNOEL
 
 176 
 
-History of Dharmaśāstra 
+
 
 eighty times and the testimony of comparatively early works and authors like the Mudrārāksasa (5th or 6th century A. D. probably ), Bāna (first half of 7th century A. D. ), the Dasa kumāracarita make a very strong case for holding Kautilya as the author of the work on Arthaśāstra. 
 
@@ -704,7 +704,7 @@ Rest
 
 188 
 
-History of Dharmaśāstra 
+
 
 cocksure that he at once jumps to the conclusion that the Arthasāstra wus surnamed Samānatantra, does not even use the words ‘it is possible and refers in support of his dictum to the words 'samānam pūrvena', that occur several times in the Arthaśāstra; (vide e.g. I. 11. 10-12, XIV. 1. 26). All that those words mean is the rest need not be expressly stated but that some words or phrases already occurring in de previous sentence or part are to be understood as meant here also.' Samānatantra is a technical term in the Nyāyasūtra I. 1. 27-3.1 and Vātsyāyana-bhāsya. Tantra means 'siddhānta' (tantram pradhāne siddhiinte' as Amarakośa says) i. e. a system of thought or philosophy. A siddhānta may be one of four kinds, viz. (1) Sarvatantra, (2) Pratitantra-siddhānta e. g. certain doymas (such as Prakrti, Purusa in Sārkhya ) are common to Yoga i. e. to two systems (though in other matters they differ as the Yoga system does from Sarikhya) and are Samānatantra. The 3rd is 'adhikaranasiddhānta' and 4th is abhyupayama-siddhanta. The Manusmrti insists on Dharma ( spiritual and moral good ) as the principal matter (or goal) and treats artha ( material good or well-being ) and Kāmu (pleasures of sense ) as inferior and calls upon all to give up Artha and Kāma that are opposed to Dharma (Manu IV: 176). On the other hand the A. ( that is meant for the benefit of rulers ('narendrarthe' as he says) emphatically states 
 
@@ -744,7 +744,7 @@ Bhandarkar
 
 190 
 
-History of Dharmaśāstra 
+
 
 Pān. V. 3. 99 (Jivikārthe cāpanye). This says that the affix Kun ( ka ) is not applied to images of Gods that are meant to be sold, but that are installed for gaining livelihood; e. g. an image of Siva is called Siva if it is not meant for being sold but is established for affording a living to the Devalakas (priests of the idol); while if an image of Siva be meant for sale, it would be designated Sivaka, but would not be applica ble to idols established by Maurya kings for collecting gold or cash (from the offerings placed before the images ). Besi des, the plural. Mauryaiḥ'is used. That is most important. There were vine or ten Maurya kings, who ruled in all for 137 years ( vide p. 171 above). Therefore, reference is not to Can dragupta at all but to his descendants after Asoka, the last of whom was ultimately liquidated by senāni Pusyamitra and whose doings Patañjali might have personally known or heard because he was very near in time. There is no occasion or necessity to bring in Kautilya here. Then a word must be said about Candraguptasabhā. On Vārtika 7 of Pān. I. 1. 68 (read with Pan. II. 4. 23 gabhā rājāmanusyapūrvā ), we get the neuter gender for the compounds 'inasabham iśvarasa bham', but we have Rājasa bhā (not rāja sabham ), Pusyami trasabhā and Caudraguptasabhā) (and not Candraguptasa bham &c.). Here the question is one of pure grammar. It may be noticed that Patañjali mentions the Sabhā of the founder of the Mauryas and also of the destroyer of that dynasty (viz. Pusyamitra). Asoka was the greatest of the Mauryas, but owing to his Buddhist proclivities he was probably persona non grata with Patañjali. Following the logic of Dr. Jolly, Asokasabhā not being mentioned in Patañjali it could have been argued that Asoka did not exist or at least there was no Aśokasabhā, His Inscriptions and Buddhist works 
 
@@ -766,7 +766,7 @@ Yena sāstram ca sastram ca' (at the end i. e. in XV. 1. 73 ) is unlike a states
 
 Many scholars have contributed papers showing the indebtedness of Kūlidāsa, Bhavabhūti and others to the Arthaśāstra. For example, vide Kunhan Raja Felicitation192 
 
-History of Dharmaśāstra 
+
 
 Vol. pp. 48-54 and Proceedings of the 13th All India Oriental Conference, part 2 pp. 102-108 ( Dr. Raghavan ) for Kalidasa's indebtedness to Kautilya). No scholar (except Dr. Pran Nath ) puts the Arthaśāstra later than the 3rd century A. D. and most scholars place Kalidasa between 350 to 450 A. D. Therefore, beyond serving to check or corroborate the text of A. such articles are not of importance in this section and so these matters need not be dwelt upon here. 
 
@@ -818,7 +818,7 @@ Bhanda Resea
 
 194 
 
-History of Dharmaśāstra 
+
 
 politics as have been composed (established ) by former teachers for the acquisition and protection of the earth'. 
 
@@ -840,7 +840,7 @@ I. 56 (THA HD TEHTI &c. ) and II. 133. 179 एवमेकैश्वर्य�
 
 196 
 
-History of Dharmaśāstra 
+
 
 plifying the various devices ( yuktis ) that have to be emplo. yed in expounding his system. The three opinions including his own have already been stated. There are many examples of apadeśc in the work apart from the one mentioned in XV (as on I. 8, I. 17. 4-22, II. 7. 11-15, VIII, 1, VIII. 3). Keith thinks (J. R. A. S. 1916 p. 135) that as Kautilya is derived from Kutila, an author will not cite his own views under such an epithet. It is not unlikely that Canakya acquired the epithet Kautilya on account of his methods in dealing with the Nandas and that as he did so from no purely selfish motives but for ridding the country of such tyrants as the Nandas are represented to have been, he might have come to relish the name given to him by the people. It has to be noted in this connection that many of the writers quoted in the Kauṭiliya bear nicknames (such as Piśuna, Vāta vyādhi, Kaunapadanta ). This leads to the question as to whether the name is Kautilya or Kautalya. Hillebraudt seems to imply that all mss. employ the first form, while Pandit T. Ganapatisastri says his mss. support the latter form though in the first few pages he prints Kautilya. Mss. of the Kādam bari, the Pañcatantra and other works support the form Kautilya and the Mudrārākṣaga does the same by pointedly hinting at the etymology. A com. on the Kimandakiyani tisāra styles the Kauṭiliya as Kutalabhāsya and Kutala is said to be a gotra. The form Kautalya is said to occur in an insc ription at Ganesar in Dholka dated Vikrama Samvat 1291 (i. e. 1234-35 A. D.). Vide Indian Historical Quarterly vol. I. p. 786. It is very difficult to decide between the rival claims of the two forms, but it appears that the form of the name, Kautalya, is due to a later attempt to solve the diffi culty of an author parading his views as those of a man picknamed “crooked." Whether Kutala or Kautalya was known as a gotra rși in ancient times is extremely doubtful. Neither the Asvalāyana-srauta-sūtra (Uttarsaṭka, 6th chap., 10th Kandika ) nor the Apastamba-srauta-sūtra (24. 5-10 ) mentions Kutala among the several gotra groups. In later works on gotras, we find the name in several forms. In the Pravaradarpaṇa of Kamalūkara Kautali is said to be one of the Jāmadagnya-Vatsa group of the Bhrgus (p. 156 edited by P. Chentsalrao, Mysore ) and Kautilya is assigned to the Yaska group of the Bhrgus ( p. 158). The Pravaramajani enumerates the Kautilyas (p. 32, of the edition by P. Chentsatu 
 
@@ -862,7 +862,7 @@ Pook.
 
 198 
 
-History of Dharmaśāstra 
+
 
 Dharmaśāstra matters ( and much of this in a prophetic vein ) and they hardly ever refer to secular works except in compara tively later Purānas. There is no wonder, therefore, that even when some of them refer to Kautilya as instrumental in uprooting the Nandas and placing a strong and capable ruler like Candragupta on the Magadha throne ( that is history, Vamsa and Vamśānucarita ), they are generally silent about the names and authors of secular works like the Artha sāstra and the works of poets and dramatists like Bhāsa and Kālidāsa. 
 
@@ -888,7 +888,7 @@ Bhanda
 
 200 
 
-History of Dharmaśāstra 
+
 
 are introduced with the words 'apiha ślaukau bhavatah' and follow a quotation from or summary of a Vedic passage. Twelve verses in VII. 9 are introduced with the words 'tatrai tad bhavati'and may be quotations. A few of the verses bear a close resemblance to verses of other works; e. g. the verse 
 
@@ -908,7 +908,7 @@ India and contains iuformation on so many topics that it is not possible to conv
 
 The subjects of the fifteen achikaranıcs are:- I. the discipline of the king, sciences to be learnt hy him, the place of Anviksiki and politics, qualifications of ministers and purohitu and their temptations, the institution of spies, council meetings, ambassadors, protection of princes, duties towards harem, king's personal safety; ll. about superintendents of vārious State departments, founding villages, pastures and forests, forts, duties of the chamberlain ( sannidhātā), the cominissioner for revenues from forty, country, mines, roads &c.; accountant-general's office; embezzlement of public funds; royal edicts; examination of precious stones for the treasury and mines; superintendent of gold (i.e. of coins issued from the mints ); superintendent of store-house ( of agricultural produce &c. ), of commerce, of forests, of arms, of weights and mea sures, of tolls, of weaving, of liquor houses, of slaughter houses, of prostitutes, of shipping, of cows and horses, of the capital and cities; III. Administration of justice, rules of procedure, forms of marriage, duties of married couples, stridhana, twelve kinds of sons; other titles of law; IV. removal of thorns, protection of artisans, merchants, remedies against national calamities such as fires, floods, pestilence, famines, demons, tigers, snakes etc.; suppression of those who live by foul means; detection of juvenile crime; arrest of criminals on suspicion, accidental or violent deaths, torture to extort confessions; protection of all kinds of State departments; fines in lieu of cutting off of limbs, sentence of death with or without torture, intercourse with maidens; punislunent of fine for various wrongs; V. conduct of courtiers, awarid of punishment for treason, replenishing of treasury in case of emergency; salaries of State servants, qualifications of courtiers, consolidation of royal power ; VI. constitution of the mandalit, seven elements of sover eignty, qualities of king, peace and arduous' work as the source of prosperity; sixfold royal policy ; threefold salti ; VII. circle of States is the field for the employment of the six lines of policy; the six gunas (sandhi, war, neutrality, march ing, taking shelter and dvaidhīblīva ); causes leading to the dwindling and disloyalty of armies; combination of States sandhi for the acquisition of a friend, gold or land; an enemyli" the rear; recouping of lost strength; a neutral king and a cirdlem202 
 
-History of Dharmaśāstra 
+
 
 of States; VIII. about vyasanas ( vices and misfortunes ) of the several elements of sovereignty; troubles of the king and the kingdom; troubles of men and of the army; IX. work of an invader, proper time for invasion, recruitment of the army, accoutrements, internal and external trouble, disaffection; traitors, enemies and their allies ; X. about war; encamping the army, march of the army, battle-fields, work of infantry, cavalry, elephants &c., array of troops for battle in various formations; XI. concerning corporations and guilds ; XII. Abaliyagam ( concerning the attitude or conduct of the weaker king) ; 183 XII. concerning a powerful enemy; sending an envoy, intrigues, spies with weapons, fire and poison and destruction of stores and granaries ; capture of the enemy by stratagems; final victory; XIII. capture of forts ; sowing dissensions ; enticing of king by strategem ; spies in a siege; restoring peace in a conquered country ; XIV. secret means, strategems for killing an enemy, producing illusive appearances, medicines and incantations; XV division of this work into sections and their illustrations. 
 
@@ -978,7 +978,7 @@ ng panierafu fatto III. 3, 15, 16, 18,
 
 206 
 
-History of Dharmaśāstra 
+
 
 TIMO 1 VUGDI 
 
@@ -1016,7 +1016,7 @@ The foregoing discussion about the dharmasthiya section shows that in the sphere
 
 208 
 
-History of Dharmaśāstra 
+
 
 Apastamba and Baudhāyana and so is later than these (though in certain matters such as the rights of women to succeed to males he closely agrees with Gautama and Apa stamba ), while he is earlier than the extant Manusmrti 
 
@@ -1042,7 +1042,7 @@ Bhandark
 
 210 
 
-History of Dharmaśāstra 
+
 
 The Kāmasūtra of Vātsyāyana mentions a Ghotakmukha and a Cārāyana. Whether they are identical with the authors cited by Kautilya is extremely doubtful. The Mahābhārata mentions among writers on Dandaniti the following who occur in the Kauṭiliya also :-Brhaspati, Manu, Bhāradvāja, Visā lāksa, Sukra ( the same as Usanas ) and Indra (probably Kautilya’s Bāhudantiputra ), whose abridgment of Brahma's work is called Bāhudantaka in the Sāntiparva (chap. 59 ). 
 
@@ -1076,7 +1076,7 @@ FOUNG
 
 74 aptari faqaye atazfiat EITTEETAT: 1987. II. 11. 114.212 
 
-History of Dharmaśāstra 
+
 
 supported by Kirātas, cinus and other soldiers from coun tries bordering on the sea (sa kirātaiśca cinaisca vstaḥ Prāg. jyotisosbhavati anyaiśca bahubhir-yodhaih sāgarānūpavā sibhih ). That is, the Cinas spoken of in this passage were in modern Assam. Besides, this one sentence in A. might have been interpolated in later times. Moreover, kings are named after countries ( e. y. a king of Magadha is called Magadha ), but a king hardly ever gives a name to the country he rules at least in historic times, Besides, in Udyogaparva ( 86. 10 ) Dhrtarāstra is made to say that he wonld present to Krsna 
 
@@ -1118,7 +1118,7 @@ Kāpisayana' from Kipisi which was an ancient city in the Kabul valley. Viile E.
 
 214 
 
-History of Dharmaśāstra 
+
 
 compounded with its ingredients (as in Madhumaireya ). Intoxicants from grape juice were made in many parts of India. Since Kautilya meptions only two places on the north west of India, it is reasonable to infer that he came from those parts. Jayaswal in JBORS, vol. II, pp. 79 ( note ) identifies Hārahūraka with Arachosia ( for which see above p. 172 ). In. The geography of Kautilya' by Harihar Trivedi in I. C. vol. I pp. 247-261 ) an attempt is made to identify the coun tries from wbich according to the A. (II. 11 ) pearls and diamonds came, but most of it is conjectural and the names of countries and districts have changed during the last 2200 years. Cunningham (in Ancient Geography of India', ed. of 1924 on p. 22 ) says that Pliny mentions the district of Kapisene, its ancient capital being Kapisa, which was des troyed by Cyrus and Ptolemy places the town of Kapisa amongst the Paropamisadie 'north of Cabul'. 
 
@@ -1244,7 +1244,7 @@ In the 19th century and the first quarter of 20th century Western scholars clung
 
 The third question raised above (p). 197 ) is whether the Arthaśāstra was originally entirely in prose or entirely in verse or in mixed prose and verse as at present. Most scholars are agreed that originally it was substantially the same as pow (i. e. largely in prose, with a verse or'a few verses at the end of chapters (and rarely in the midst of chapter ). Prof. D. R. Bhandarkar (in ABORI. Vol. VI. pp. 65-84 ), while placing the Kauṭiliya at 300 B.C., hota that the Kautiliya was originally in verse and was later222 
 
-History of Dharmaśāstra 
+
 
 turned into prose about the time of Dandin (on pp. 77–84 ). He refers to the words of Dandin (quoted above p. 165 )'iyam ... sarkṣiptā '( which means 'this whole science of Dandaniti was abridged in six thousand ślokas'). He holds that that meaning of Sloka ( unit of 32 syllables ) is most modern. Here he is entirely wrong. Those words of Dandin are taken from the present text of the Kauṭiliya itself ( I. 1. 18 ) Sapanc. sadadhyāyasatam sat-ślokasahasrāṇīti ). Besides, a similar sense of sloka is found in the Kāmasūtra quoted below. There fore, the word sloka meant also a unit of 32 syllables at least in the 3rd century A. D. He makes sweeping assertions for which he adduces very little evidence viz. 'No reasonable doubt is permissible that there was a time when the Artha śāstra of K. was wholly composed in verses' and again all the writers prior to Dandin who quote from Arthaśāstra quote verses' and he cites a few verses. This statement is an argument in a circle as he presumes that the verses are quoted from the supposed Arthaśāstra in verse. Now the verge (Samvatsarena patati' in A. IV. 7. 28 ) occurs in Manu XI. 180 (last pāda differing ), Sānti 165. 37, Baud. Db. S. (II. 1. 62, Mysore Govt. edition, 1907) and Vas. I. 22 ( preceded by the words 'athāpyudāharanti ) as shown above on p. 98. So in Vas. it is a quotation, but the question is from whom. Manu (in its original form ) might have contained it and Baud. Dh. S. is an old Dharmasūtra. And therefore A. might have taken it from Baud. or from Sāntiparva or some earlier source. Similarly, the verse Pradipah sarva-'in Vātsyāyanabhāsya might have been taken in the 4th century A. D. by that work from the present Arthaśāstra ( that verse is A. I. 2. 12 ) at the end of the chapter. There were no printed books in ancient and medieval India. Verses can be easily remern bered as compared to prose passages. Verses in the extant A. are few viz. only about 375 in the whole of it, while the prose passages occupy at least 250 printed pages. The verses * Dharmaśca' and 'tatra satye' ( occurring in A. III. 1. 39-40 ) also occur in Nārada I. 10-11. Nārada might have taken them from the extant Arthagāstra or from the original Manu-smrti of which Nārada is said by tradition to be gute versiou. Nārada is not assigned to an earlier date than a A. D. But how does this yo to establish that the whole of Nie 
 
@@ -1338,7 +1338,7 @@ of HTIOFI 7 kia: ll' 73. 30.
 
 828 
 
-History of Dharmaśāstra 
+
 
 issues orders to kings. From Vedic times Samrāt and Sārva bhauma have been known. Vide H. of Dh. vol. III. pp. 63-70 for treatment. 
 
@@ -1476,7 +1476,7 @@ not
 
 286 
 
-History of Dharmaśāstra 
+
 
 in connection with Usas' (as in Rg. II. 34. 12, III. 15.2, IV. 1. 5, IV. 45. 2, X. 41. 1 &c.) and once Vyus' in connec. tion with both Umas and Surya (the Sun) in Rg. VII. 81, 2 (o Dawn, may we be endowed with food in the light of your self and of the Sun). In the inscriptions of Asoka at Brahma giri, Rupnath, we see various forms like 'vivutthena', 
 
@@ -1514,7 +1514,7 @@ Wan
 
 238 
 
-History of Dharmaśāstra 
+
 
 the same sense as in Manu. But Asoka employs the word pāsunda in the sense of a religious order or sect and not in a derogatory sense. In Rock edict XII he says 'King Priya darsin honours all pāsandas ( sandāni), all ascetics and householders with gifts and in various modes of honour'. In Rock Edict V. Asoka says he appointed officers called Mahā mātras when he had been crowned king thirteen years and that those high officers were concerned with all pasandas (all sects or denominations ) for the glorification of dhamma. This establishes that the word pusanda had been in use long before Asoka's time. Iu Kautilya's day, in the Mahābhārata and in Madu the word had been used in a derogatory sense. Dr. B. M. Barua (in 'Inscriptions of Asoka, Part II. p. 255) holds that 
 
@@ -1608,7 +1608,7 @@ Two of the most difficult problems concerning the Artha Śāstra are its relatio
 
 I242 
 
-History of Dharmaśāstra 
+
 
 bhuva Manu ( IX. 158 ) or simply of Manu ( as in VIII. 279). The A. mentions the views of Mānavāḥ' several times but those views do not all correspond to the statements in the Manus'mrti. In the Dharmasthiya section the A. often agrees with Mann and Yāj. but sometimes Yāj. does not agree with A. Compare Manu VIII. 279 with A. III. 19. 8, but Yaj. II. 215 differs. In the present author's opinion Yāj. is much later than the A. and the extant Manusmrti also is later than it, though, it is nearer in time to A. The extant Manusmrti is a revised version of the original Manusmrti made between 200 B. C. to 200 A. D. 
 
@@ -1648,7 +1648,7 @@ We can see from Pāṇini that the epic and some of its principal characters and
 
 214 
 
-History of Dharmaśāstra 
+
 
 Yudhisthirarjunau' (and not 'dvandvam Yud.' as an example on Vārtika I (as they are not well-known as being extremely sahacarita' like Skanda and Viśākha, although they are brothers; vide Vārtika 7 bhrātusca jyāyasah' on Pār. II. 2. 34 ; • Duryodhana' and · Duḥsa sana': seem to be known at least to the Vārtikakāra (vide Mahābhāsya on Vārtika on Pāh. III. 3. 130 ). The name Asvatthāinan is derived in a Kārikā (sthāmno lugajināt tathā ) on Vārtika ( on IV. 3. 60). Vārtika 6 dealing with 
 
@@ -1676,7 +1676,7 @@ gaita yaid 'raite znalaotlety Faircito tra i T ATRE hivi HLA: 75919 fa il gelato
 
 246 
 
-History of Dharmaśāstra 
+
 
 and giving oneself out as a devotee of Saṅkarsana, overreach ing robbers by adininistering a stupefying liquid and attack ing them. Saṅkarṣuna or Balarāma ( elder brother of Krona ) is described in the Mahābhārata (Udyogaparva 157. 19-20) as Madaraktāntalocana' (whose eyes were red with intoxi cation ). 
 
@@ -1718,7 +1718,7 @@ Two commentaries on the Kautiliya have been bronght to light so far, one compose
 
 248 
 
-History of Dharmaśāstra 
+
 
 previous commentators in the words ''anye', 'apare'. It quotes several slokas of Brhaspati on the blemishes of dia monds and on prakcśc-taskuras. The commentary Naya candrikā contained in Dr. Jolly's edition (Lahore ) also is incomplete and begins with the 7th adhyāya of the 7th adhi karana and breaks off in the 4th adhyāya of 12th adhikarana. It also refers to the views of its predecessors in the words. 'kecit' &c. ( vide pp. 35, 61, 62, 104, 115, 131, 191 ). It discusses various readings (pp. 136, 183, 188, 193 &c. ). 
 

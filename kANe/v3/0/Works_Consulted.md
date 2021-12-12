@@ -201,7 +201,7 @@ Madras Law Journal Office, 1993. Sabara, author of bhāsya on Jaimini's Pūrvams
 
 (Anan.). Sahyadrikhanda, edited by Dr. Gerson Da Cunha, Sakuntala of Kalidasa. 
 
-History of Dharmaśāstra 
+
 
 Samayaprakāśa ( part of Viramitrodaya of Mitramiéra )-Chow 
 

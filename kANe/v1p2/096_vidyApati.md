@@ -33,7 +33,7 @@ Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in
 
 812 
 
-History of Dharmaśāstra 
+
 
 and re-arranged the work and has puplished it in Devanagari characters along with a very elaborate and informative introduc tion of 132 pages ( in 1953 ). There is great difference of opinion about what padas were the genuine works of Vidyāpati. In this latest edition the editor had to reject 203 padas, which had been wrongly ascribed to Vidyāpati by the editor Babu Nagendranatha Gupta (vide J. of G. J. R. Institute Vol. X. pp. 175-196 Review). 
 
@@ -65,7 +65,7 @@ simha; but that is not correct. They were probably missed by the imperfect text 
 
 814 
 
-History of Dharmaśāstra 
+
 
 TT 
 

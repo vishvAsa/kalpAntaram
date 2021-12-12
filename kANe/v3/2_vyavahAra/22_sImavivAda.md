@@ -91,7 +91,7 @@ Br. (S. B. E. 33 p. 354 verse 24) prescribes that no 911 inter ference should be
 
 508 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -137,7 +137,7 @@ rian TETT. 760-61 q. by HOT pp. 766-767, pras. II. p. 236, . . 223., TE XIV. 13-
 
 510 
 
-History of Dharmaśāstra 
+
 
 (Vok 
 

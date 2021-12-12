@@ -19,7 +19,7 @@ Corpus Inscriptionum Indicarum (vol. I C. I. I. or U relating to Inscriptions of
 
 vol. III relating to Gupta Inscriptions ) O. L. J. = Calcutta Law Journal Com. = Commentary or Commentator (according to context) Cr. ed. = Oritical edition ( of the Mahabhārata, Poona) O. W. N. Calcutta Weekly Notes ( Law Reports ) D. B. = The Dāyabhāga of Jimūtavahana D.O. - Dattakaandrika 
 
-History of Dharmaśāstra 
+
 
 D.O. - Deccan College Collection(when mss. are concerned) Dh. S. = Dharmagūtra D. K. S. = Dāyakramasangraha of Srikrypa D. N. = Dattakamsmāmgā of Nandapandita E. C. = Epigraphia Carnatica E. I. = Epigraphia Indica F. B. = Full Bench ( decision ) 
 

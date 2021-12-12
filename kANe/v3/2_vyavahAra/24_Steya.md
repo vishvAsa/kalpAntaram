@@ -25,7 +25,7 @@ Ei a ferrara1 9 84 of fire often 79T, 810 g. by PTTUTT VI. 9, p. 224. ·
 
 520 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -53,7 +53,7 @@ As regards the concealed thieves the texts lay down special rules. Nār. XVII. 2
 
 66522 
 
-History of Dharmaśāstra 
+
 
 [ Vol. 
 
@@ -85,7 +85,7 @@ TG geurant a lai prap on af. II. 166; HOTTE p. 774 says तदनापतशू
 
 524 
 
-History of Dharmaśāstra 
+
 
 (Vol. 
 
@@ -121,7 +121,7 @@ Mit. on Yaj. II. 230) and Manu VIII. 244 enjoins upon the king not to tolerate f
 
 526 
 
-History of Dharmaśāstra 
+
 
 [Vol. 
 
@@ -187,7 +187,7 @@ Various rules were laid down about inciters or abettors. Yaj. L. 231 and Kanṭ9
 
 530 
 
-History of Dharmaśāstra 
+
 
 | Voi. 
 

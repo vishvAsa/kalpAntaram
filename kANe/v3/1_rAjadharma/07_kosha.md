@@ -63,7 +63,7 @@ forut \#m7 TIT* TT 87,13, Manu VII. 127 reads pen 17, PT forest RU THUE i fer fr
 
 188 
 
-History of Dharmaśāstra 
+
 
 ( Vol 
 
@@ -125,7 +125,7 @@ were agriculturists, traders, manual workers and artisans. In Manu VIII. 307 quo
 
 (for last two versos ). . . ,192 
 
-History of Dharmaśāstra 
+
 
 [Vol 
 

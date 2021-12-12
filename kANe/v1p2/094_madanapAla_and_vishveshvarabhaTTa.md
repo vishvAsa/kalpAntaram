@@ -43,7 +43,7 @@ TT FTITŪTI . 47. p. 654. H. D. 100
 
 794 
 
-History of Dharmaśāstra 
+
 
 the authors and works mentioned above, it cites those noted below. 1198 
 
@@ -103,7 +103,7 @@ XI. 180- 81 and Yāj. III. 227 and 261. 1203 faa19 8 9 HITHEATIHUETUT tacita: 1 
 
 798 
 
-History of Dharmaśāstra 
+
 
 1206 
 
@@ -187,7 +187,7 @@ HAT, 60, 7TH &c. H. D, 101
 
 802 
 
-History of Dharmaśāstra 
+
 
 f 
 
@@ -223,6 +223,6 @@ for the date. 1227 e.g. भास्कराचार्य in his गणित
 
 804 
 
-History of Dharmaśāstra 
+
 
 Report for 1883-84 pp. 47 and 347 and S. B. E. vol. 25, p. CXXV n. 2. A ms. of the Sūryasiddhāntaviveka, which is one of the last (if not the last ) works of Madanapāla is dated in 1402–3 A. D. Hence the literary activity of Madanapala and of bis protege, Visvesvarabhatta, must be placed between 1360. 1390 A. D. 

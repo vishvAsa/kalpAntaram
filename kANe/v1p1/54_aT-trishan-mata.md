@@ -18,7 +18,7 @@ THE 21, 10,
 
 536 
 
-History of Dharmaśāstra 
+
 
 Mitākṣarā are prose passages on Yāj. III. 265 and about 23 verses on the third section of Yāj. Smrti and Aparārka also has one prose passage on p. 1196 and about 37 verses on two sections viz. ācāra and prāycscitta. Both these digests cite no passage of the Sat-trimsan-mata on Vyavahāra. It appears that the Kalpataru was aware of the existence of this work but regarded it as unauthoritative, since it was accepted only by a few and was contradicted by others, as stated in the Brahmacārikānda of Kalpataru (p. 26).666 The prose quotation in the Mit. on Yāj. III. 265 from the Șat-trimsan-mata is a long one and provides the penances for adultery by a woman of the four varnas with a male of a varna different from each of them. Aparārka quotes a prose passage (on p. 1196 ) from this work which provides a penance for touching the corpse of a cāṇdāla or for occupying the same vehicle, seat or bed with the latter. 
 
