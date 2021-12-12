@@ -2333,7 +2333,7 @@ Jalabındum(under Kolimukha) Var. Yamupā), 200.5 (It was in Kbinda
 
 140 16 vavada), Bh X 58 1, XI 3048, XI Jalandhara-A (bill) No 13 46 (Devi 31 25 Indraprastha is only one of five 
 
-was called Visvamalli on it), 22 64 prasthas, the others berag Sonepat, 
+was called Viśvamalli on it), 22 64 prasthas, the others berag Sonepat, 
 
 (hull sacred to pitrs), according lo Panipat, Pilpat and Baghpat 
 
@@ -7107,7 +7107,7 @@ sāra with Visoka Vistāotitūtba. A (the most sacred
 
 spot 10 Matbur) Var. 163. 162, 167 1 ff, P VI 209 5 (on the bank of Yamuna, where Kamsa was killed by Krsna), B (a different Isetra from the above 10 Madhuvana, where Viṣnu assumed the form of Varāba) 
 
-P. VI, 209, 1-3 and 5 Viśvām (1) Bb V. 19. 18 Visvalarmeśvara-(onder VS) L 9, by 
+P. VI, 209, 1-3 and 5 Viśvām (1) Bb V. 19. 18 Viśvalarmeśvara-(onder VS) L 9, by 
 
 T.K 55 Viśvakāya-P. VI. 129, 8 Viśvāmitranadi-V, 89 9, Bhi. 9 26 
 
@@ -7121,9 +7121,9 @@ NAI 151 Visvāmitrāśrama-Rām. I 26, 34 Visvāmıtratirtba-A V 83. 139, B
 
 Vido onder Jalandbara p 758 and 
 
-P, VI 129 26 Vaśvapada-(a pitrtīriba ) M 22 35 Visvarūpam( under VS) P. I 37 2 Visvarūpaba-P. VI. 129 14 (10 
+P, VI 129 26 Vaśvapada-(a pitrtīriba ) M 22 35 Viśvarūpam( under VS) P. I 37 2 Viśvarūpaba-P. VI. 129 14 (10 
 
-Māyāpuri, it appears) Visvasatin-same as Visokā HC, X 
+Māyāpuri, it appears) Viśvasatin-same as Visokā HC, X 
 
 19? (10 Is southera boundary 
 

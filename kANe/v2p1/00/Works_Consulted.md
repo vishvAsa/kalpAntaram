@@ -249,7 +249,7 @@ lation-published by the Nirnayasāgara Press, Bombay, 1880. Śūdrakrtyatattva o
 
 nanda. Udvāhatattva of Raghunandana-edited by Pandit Jivananda. Utsargs-mayukha of Nilakaṇthe-edited by Mr. J. R. Gharpure 
 
-Bombay. Varsa kriya-kaumudi of Govindananda-published in B. I. Series. Viramitrodaya (vyavahāra portion) edited by Pandit Jivānanda, Visvarūpa's commentary on Yājñavalkya-smrti published in 
+Bombay. Varsa kriya-kaumudi of Govindananda-published in B. I. Series. Viramitrodaya (vyavahāra portion) edited by Pandit Jivānanda, Viśvarūpa's commentary on Yājñavalkya-smrti published in 
 
 the Trivandrum Sanskrit series. Vivada-ratnakara of Candesvara--published in the B. I. series. Vrātyatāprāyascitta-nirnaya-by Nāgesabhatta (Chowkhamba 
 

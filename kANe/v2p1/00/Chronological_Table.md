@@ -33,7 +33,7 @@ xii
 
 600 A. D.-900 A, D.-Most of the other smrtis and some of the 
 
-purāṇas. 800 A. D.--850 A.D.-Visvarūpa, com, of Yajñavalkya. 900 A. D. 
+purāṇas. 800 A. D.--850 A.D.-Viśvarūpa, com, of Yajñavalkya. 900 A. D. 
 
 Medhātithi, com. of Manu 1100 A. D. 
 

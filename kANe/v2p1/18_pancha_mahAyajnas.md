@@ -9,7 +9,7 @@ PAÑCA MAHĀYAJÑAS
 
 Pañca Mahājajñas :-(the five daily great observances or sacrifices). 
 
-From early Vedio times five daily observances called mahāyajñas were presoribed. The Sat. Br. (XI. 5. 6. I.) 1864 says 'there are only five mahāyajñas, they are like great sacrificial sessions, viz. the sacrifice to beings, the sacrifice to men, the sacrifice to the Fathers, the sacrifice to the gods, the sacrifice to brahman (Veda)'. These are then briefly defined. In the Tsi. 
+From early Vedic times five daily observances called mahāyajñas were presoribed. The Sat. Br. (XI. 5. 6. I.) 1864 says 'there are only five mahāyajñas, they are like great sacrificial sessions, viz. the sacrifice to beings, the sacrifice to men, the sacrifice to the Fathers, the sacrifice to the gods, the sacrifice to brahman (Veda)'. These are then briefly defined. In the Tsi. 
 
 Ar. II. 10 we read these five mahāyajinas indeed are spread out continuously, viz. devayajña, pitryajña, bbūtayajña, manusy& yajña, brahmayajña. That is fulblled as devayajña when one 
 

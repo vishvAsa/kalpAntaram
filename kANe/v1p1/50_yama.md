@@ -61,7 +61,7 @@ verses are found in both, e. g. the verses about the seven lowest casteg625 ( an
 
 The pumerous m88. of Yama contain either one or other of the above three texts or different texts bearing on the same topics. For example, the Govt. Mos. Collection at the Bhandarkar Institute, Nos. 209-211 of A 1881-82 and No. 153 of 1895-1902 are the same as the Yamasmrti in the Anandā srama collection. No. 401 of 1891-95 seems to be the same as Brhad-Yama in the Anandāsrama collection. But the I. O. Cat. No. 1334 p. 390 contains 37 slokas, the last 20 of which are in the Indravajrā metre. 
 
-Visvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later works quote over three hundred verses of Yama on all topics of dharmaśāstra including vyavahāra. This establishes that they had an extensive work of Yama before them from which it is probable that various abridgments corresponding with the printed works were made. Visvarūpa quotes about ten verses of Yama on water as purifier (on Yāj. 
+Viśvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later works quote over three hundred verses of Yama on all topics of dharmaśāstra including vyavahāra. This establishes that they had an extensive work of Yama before them from which it is probable that various abridgments corresponding with the printed works were made. Viśvarūpa quotes about ten verses of Yama on water as purifier (on Yāj. 
 
 825 रजकश्चर्मकारश्च नटो बुरुड एव च । कैवर्तमेदभिल्लाश्च सप्तैते अन्त्यजाः स्मृताः॥ 
 

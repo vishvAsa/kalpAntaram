@@ -229,7 +229,7 @@ History of Dharmaśāsts a
 
 drinking sun ū and a sūdra drinking pañcagavya both went to hell (Mahāraurava, according to Visnu), yet Devala (verse 61) and 
 
-Parāśara XI 3 and 27 and medieval works like the Pr M. (p 13) and Sūdrakamalakara (p. 42) allowed śūdras to take pañcagavya without Vedio mantı as. And women of all vardas, being treated like sūdras for certain purposes, were also allowed optionally to do the same, 
+Parāśara XI 3 and 27 and medieval works like the Pr M. (p 13) and Sūdrakamalakara (p. 42) allowed śūdras to take pañcagavya without Vedic mantı as. And women of all vardas, being treated like sūdras for certain purposes, were also allowed optionally to do the same, 
 
 PATRAKRCCHRA-Vide Parna-kūrca below, 
 

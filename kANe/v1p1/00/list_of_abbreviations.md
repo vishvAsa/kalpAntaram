@@ -85,7 +85,7 @@ and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mānava Gș. S
 
 Gessellschaft. Tai. S. = Taittiriya-samhitā. Tri. Cat. = Triennial Catalogue of Madras Government 
 
-Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Viṣnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
+Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Viśvarūpa. Visnu Dh. S. or Vi=Viṣnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
 
 Yāj. = Yājsavalkyasmrti. 
 

@@ -2315,7 +2315,7 @@ people 833 ; pre-eminent position of Mallinātha 490, 229n, 252n.
 
 District 139. 
 
-38, 49, 42-44, 48, 51-54, 56-61, 71, Māmsatattvaviveka of Visvanātha 928n, 80, 83, 85, 95-98, 100, 102, 104-109, 
+38, 49, 42-44, 48, 51-54, 56-61, 71, Māmsatattvaviveka of Viśvanātha 928n, 80, 83, 85, 95-98, 100, 102, 104-109, 
 
 946. 
 
@@ -4143,7 +4143,7 @@ be enforced by king 860; of sistas Udyota, an autbor q. by Dayablaga as to gains
 
 ed at expense of family estate 580; Ugra 67. 
 
-of Vedic sākhās about religious rites Uktalibba, defined 493. 
+of Vedic śākhās about religious rites Uktalibba, defined 493. 
 
 883-84 ; recognized by Vedic texts Upanidbi, 454-455; means every kind! gradually went out of vogue and 
 
@@ -4391,11 +4391,11 @@ sanku who had become a Candāla
 
 593n, 643A, 659, 6640, 6920, 7290, 845. 
 
-770n. Visvanātha, a logician, author of Mān. Vogel, Dr. 153. 
+770n. Viśvanātha, a logician, author of Mān. Vogel, Dr. 153. 
 
 satattvaviveka 946. 
 
-Vratakbanda of Hemādri 122n, Visvarūpa, commentator of Yājñaval. | Vrddhātri 8720. 
+Vratakbanda of Hemādri 122n, Viśvarūpa, commentator of Yājñaval. | Vrddhātri 8720. 
 
 kyasmrti 9, 32, 470, 48, 137, 159n, Vrddha-Bșhaspati 614, 653n, 943. 160, 167, 263n, 299, 312, 322-23, 1 Vrddha-Gautama 432n, 676n, 683n, 340, 3879, 395n, 3989, 421n, 452n, 6840, 8631. 454, 505, 5270, 557, 579-80, 5820, Vrddha-Hārīta, 209, 242, 391, 396-97, 597, 6014, 6020, 6041, 606n, 616n, 400-402, 420, 442, 951. 6210, 629, 636, 860n, 865, 867n, 869, | Vrddba-Kātyzyana 3000, 493n, 
 
@@ -4503,7 +4503,7 @@ on another's land or house 507-508 ;
 
 or predeceased grandson was allowed rules about defiling reservoir ot w. 
 
-by Visvarīpa to take the share of her or river 509. 
+by Viśvarīpa to take the share of her or river 509. 
 
 deceased husbaarl 604, of gotraja Watercourse, rules about 508, 510, 590. as heir 751-52, remarriage of, con Watters (oo Yuan Chwang's travels) demned by most smrtis but allowed 
 

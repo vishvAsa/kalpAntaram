@@ -151,7 +151,7 @@ sāgara Press, Bombay, 1909). Kumārila’s Tantravārtika and Tupṭikā on Jai
 
 Sanskrit Series). Malamāsatattva of Raghunandana (Jiv.) Mālavikāgnimitra of Kalidasa (Bombay Sanskrit Series) ed. 
 
-by S. P. Pandit. Māṁsatattvaviveka of Visvanātha (Sarasvatibhavana series, 
+by S. P. Pandit. Māṁsatattvaviveka of Viśvanātha (Sarasvatibhavana series, 
 
 Benares ). Mānasollasa, same as Abhilaṣitārtha-cintāmaṇi. Mayūkhamālika, com. on the Sõstra-dipikā (Nirnayasāgara 
 
@@ -235,7 +235,7 @@ bhavana series, Benares, two parts ). Taptravārtika of Kumārila ( Ānan.). Tit
 
 kara Dvivedi). Viramitrodaya of Mitramiśra (vide under Paribhāṣāprakāśa, 
 
-Rajanitiprakāśa, Samayaprakāśa, Vyavahāraprakāśa ). Visvarūpa, commentator on Yājñavalkyasmrti (published in 
+Rajanitiprakāśa, Samayaprakāśa, Vyavahāraprakāśa ). Viśvarūpa, commentator on Yājñavalkyasmrti (published in 
 
 the Trivandrum Sanskrit series ). 
 

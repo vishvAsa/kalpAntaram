@@ -41,7 +41,7 @@ For Vidyāpati's Purusapariksā, vide No. 1922 in Mitra's Notices (vol. V pp. 24
 
 He may be held to have flourished between 1360-1448 A. D. and should be placed just about the times of Sulapāṇi. Vide Journal of Department of Letters for 1929, vol. 16, for an informing paper on him. 
 
-The Gangāvākyāvali of Queen Visvasadevi was published at Calcutta in 1940 in a sumptuous edition by Dr. J. B. Chaudhuri Ph.D. (London) with an Introduction of 64 pages, text (in Sanskrit pp. 107–314), with numerous appendices such as No. I of pp. 1-96 on references, various readings and notes, No. II remarks on the quotations in the Gangavākyāvali (pp. 97-101 ), No. III (Description of the Mss. of the Gangāvākyāvali pp. 102-4), 
+The Gangāvākyāvali of Queen Viśvasadevi was published at Calcutta in 1940 in a sumptuous edition by Dr. J. B. Chaudhuri Ph.D. (London) with an Introduction of 64 pages, text (in Sanskrit pp. 107–314), with numerous appendices such as No. I of pp. 1-96 on references, various readings and notes, No. II remarks on the quotations in the Gangavākyāvali (pp. 97-101 ), No. III (Description of the Mss. of the Gangāvākyāvali pp. 102-4), 
 
 96. Vidyāpati 
 
@@ -69,7 +69,7 @@ simha; but that is not correct. They were probably missed by the imperfect text 
 
 TT 
 
-Sivasimha's death and on the death of Padmasiṁha Visvasadevi ascended the throne. The work has 29 chapters dealing with such matters as remembering the Ganges, uttering its name, pil grimage to it, hearing the eulogy of the Ganges, seeing it, bowing down to it, śrāddha to be performed on it, bathing in it, offering libations ( tarpana ), counting beads (japa ), gifts on it and offer ing pindas and residing on it; prāyascittas, voluntary or natural death (mṛtyu ), putting the bones of the dead in the waters, baths at the confluence of the Ganges and the Sea &c. 
+Sivasimha's death and on the death of Padmasiṁha Viśvasadevi ascended the throne. The work has 29 chapters dealing with such matters as remembering the Ganges, uttering its name, pil grimage to it, hearing the eulogy of the Ganges, seeing it, bowing down to it, śrāddha to be performed on it, bathing in it, offering libations ( tarpana ), counting beads (japa ), gifts on it and offer ing pindas and residing on it; prāyascittas, voluntary or natural death (mṛtyu ), putting the bones of the dead in the waters, baths at the confluence of the Ganges and the Sea &c. 
 
 For the Vibhāgasāra' of Vidyāpati, vide Mitra's Notices Vol. VI pp. 67-8. It deals with the meaning of 'Daya', nature of partition, what is not liable to partition, disquisition on Stri dhana ( woman's property ) and its partition among heirs, division of wealth concealed, but later found partition among those who are born of persons that had partitioned; description of the twelve kinds of sons and partition among them; heirs to person dying without male issue; partition of wealth among persons who had reunited after partition. 
 

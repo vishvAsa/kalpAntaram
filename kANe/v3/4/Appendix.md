@@ -127,7 +127,7 @@ Karhad plates of Krsma III dated sake 880 (E. I. IV p. 278, at p. 285 ), the Cam
 
 (in E. I. VII p. 26 at p. 40). 34 -A very high officer, somewhat like a Governor of a 
 
-province. Vide Damodarpur plate of Kumāragupta I in the Gupta year 125 (i. e. 443-44 A. D.) whore an uparika is said to have been selected by Emperor Kumāragupta to govern Puṇdravardhanabhukti and where the uparika is said to have appointed the kumārāmātya Vetravarman to govern the distriot (visaya) of Kotivarṣa (E. I. XV p. 130). He is sometimes styled mahāraja and rājaputra. Vide also Gupta Inscriptions pp. 213, 216, the Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306), the Banskhera plate of Harsa ( E. I. IV p. 208 at p. 211) where uparika occurs after 'kumāramatya' and before 'viṣayapati'. Visvarūpa on Yaj. I 307 quotes a prose passage from 
+province. Vide Damodarpur plate of Kumāragupta I in the Gupta year 125 (i. e. 443-44 A. D.) whore an uparika is said to have been selected by Emperor Kumāragupta to govern Puṇdravardhanabhukti and where the uparika is said to have appointed the kumārāmātya Vetravarman to govern the distriot (visaya) of Kotivarṣa (E. I. XV p. 130). He is sometimes styled mahāraja and rājaputra. Vide also Gupta Inscriptions pp. 213, 216, the Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306), the Banskhera plate of Harsa ( E. I. IV p. 208 at p. 211) where uparika occurs after 'kumāramatya' and before 'viṣayapati'. Viśvarūpa on Yaj. I 307 quotes a prose passage from 
 
 II ] . 
 
@@ -585,7 +585,7 @@ at p. 190 dated 766-67 A. D. ( The words are tan-niyukta.
 
 pratinartaka-kulaputrāmātya-Guhena'). gafar-Vide note 150 above. afTET ----Chamberlain or 'inditer of grants'. In Nasik Ing. No. 5 
 
-the word patihāra (pratihāra ) occurs (E. I. VIII p. 73). Bphaspati quoted by Visvarūpa on Yāj. I. 307 states the qualifications of a 'pratihāra'. Vide Adiparva 85, 28-29, Visnudharmottara II. 24. 12, Sukra I. 121 for definitions. In the grant of Dhruvasena dated Valabhi year 206 the 
+the word patihāra (pratihāra ) occurs (E. I. VIII p. 73). Bphaspati quoted by Viśvarūpa on Yāj. I. 307 states the qualifications of a 'pratihāra'. Vide Adiparva 85, 28-29, Visnudharmottara II. 24. 12, Sukra I. 121 for definitions. In the grant of Dhruvasena dated Valabhi year 206 the 
 
 dūtaka of the grant is pratihāra Mammaka. der-Same as above. The form occurs in the Vagantagadh 
 
@@ -1183,7 +1183,7 @@ I. XIII pp. 109, 115). ATHUITEMeaning uncertain. It occurs in the plate of Danti
 
 varman of Gujerat in sake 789 ( E. I. VI p. 285 ). gara-Commander-in-chief. Vide p. 127 above and Br. quoted 
 
-by Visvarūpa on Yāj. I. 307. Pusyamitra, the founder of of the Sunga dynasty and Bhatarka, the founder of the Valabhi dynasty, and his son Dharasena were styled senāpati; vide I. A. 15 p. 187 (plate of Dharasena II in Gupta year 252 ), E. I. vol. I p. % at p. 5 (grant of Pallava Sivaskandavarman), JBBRAS vol. 16 pp. 105, 108, E. I. IX 
+by Viśvarūpa on Yāj. I. 307. Pusyamitra, the founder of of the Sunga dynasty and Bhatarka, the founder of the Valabhi dynasty, and his son Dharasena were styled senāpati; vide I. A. 15 p. 187 (plate of Dharasena II in Gupta year 252 ), E. I. vol. I p. % at p. 5 (grant of Pallava Sivaskandavarman), JBBRAS vol. 16 pp. 105, 108, E. I. IX 
 
 at p. 305. atquiga.State goldsmith. Vide pp. 144-145 above. F ---A petty officer, probably head of the village administra. 
 

@@ -157,7 +157,7 @@ Tantra vārtika of Kumārıla (Anan.) Tirthacintamani of Vācaspati (B. I. serie
 
 S. series) Tīrthasāra (part of Nrsimhaprasāda) in Sarasvatıbhavana series, 
 
-Benares Tirthayātra-tattva of Raghunandapa Tristhalisetu of Nārāyanabbatta ( Ānan.) Tīrthendusekhara of Nāgesa or Nāgoji, Sarasvati-bhavana series Tristhalīsstusāra-sangraba of Bhattoji ( Sarasvatībhavana series) Trımsat-ślokī with com, of Raghunātha ( Anan.) Trikānda-mandara Visvarūpa, commentator on Yājāavalkyasmrti (work published in 
+Benares Tirthayātra-tattva of Raghunandapa Tristhalisetu of Nārāyanabbatta ( Ānan.) Tīrthendusekhara of Nāgesa or Nāgoji, Sarasvati-bhavana series Tristhalīsstusāra-sangraba of Bhattoji ( Sarasvatībhavana series) Trımsat-ślokī with com, of Raghunātha ( Anan.) Trikānda-mandara Viśvarūpa, commentator on Yājāavalkyasmrti (work published in 
 
 Trivandrum S. series) Vivādaratnākara of Candeśvara (B. I. series) Vrsotsargatattva of Raghunandana (Jiv.) Yajurvedi-srāddhatattva of Raghunandana (Jiv.) Yogasūtra with bhāsya and commentary of Vacaspati, edited by 
 

@@ -411,7 +411,7 @@ on Wednesday and on Punarvasu. Asokikūstami-Worship of Umā. NM p. 74 (verses 9
 
 states that Asoka plant is Devi herself. Aśvatthavrata-Vratārka ( folio 406b-408a ) from Adbhutasāgara 
 
-following Atharvanasākhā; worship of Aśvattha in case of 
+following Atharvanaśākhā; worship of Aśvattha in case of 
 
 evil portents, invasions, epidemics, diseases like leprosy. Aśvadīksā--When the moon is in Svāti in Āśy. su., worship 
 
@@ -3415,7 +3415,7 @@ should bathe with water mixed with mustard seeds, then sprinkle water on bilva t
 
 M. or K. and burn every day three thousand bilva wicks ( wicks of cotton thread spun by the woman herself and dipped in ghee or sesame oil) placed in a copper vessel in honour of Siva in a temple or on the Ganges or in cowpen or near a brāhmaṇa; a lakh or crore of wicks may be prepared; all may be burnt in a single day if possible; 
 
-Udyāpana on a pārṇimā; VKD 398–403. Bilvasākhāpājā-on Āśv. śu. 7; SM 23 and VR 248; vide p. 160 
+Udyāpana on a pārṇimā; VKD 398–403. Bilvaśākhāpājā-on Āśv. śu. 7; SM 23 and VR 248; vide p. 160 
 
 under Durgotsava. Buddhajanmamahotsara-on Vai, su. when the Moon is in Puṣya 
 
@@ -4897,7 +4897,7 @@ Viśvarūpavrata-on śu. 8th or 14th when it falls on Saturday
 
 and Revati naksatra: Siva is deity; the linga should be bathed in mahāsnāna; camphor as unguent, white lotuses and many ornaments to be placed on linga, burn camphor as incense, naivedya of pāyasa and ghee; gift to ācārya of a horse or elephant; performer gets whatever he desires (son, kingdom, pleasures &c. ), hence vrata is called Viśva rūpa ( lit. having all forms ); drink at night water mixed with kuśas and observe jāgara; HV I. 865-866 (from 
 
-Kālottara ). Visvavrata--(1) Ekabhakta on 10th of every month; tithivrata: 
+Kālottara ). Viśvavrata--(1) Ekabhakta on 10th of every month; tithivrata: 
 
 for a year; at end donate ten cows and golden or silver images of the ten directions with a trough full of sesame; performer becomes an emperor and all his sins are destroy ed; KKV 451, HV I. 983 (from Pad.); Mat. 101. 83 mentions this;(2) Viśvedevas to be worshipped on ekādasi; images of them to be placed on lotus petals; tithivrata; Viśvedevas deity; offer stream of ghee and fuel sticks, curds, milk, honey; HV I. 1148 (from Bhav.). This vrata 
 
@@ -5653,7 +5653,7 @@ rendered defective by some mistake or obstacle or Vighna. vināyakas; one should
 
 876-879 (from Bhav. U.). Samprāpti-drādaśi-on 12th of P. kr., worship of Acyuta (Krsna); 
 
-not to speak with atheists and the like; two periods of six months each; in the first six months from P. worship as Puṇdarikākṣa, then as Madhava, as Visvarūpa ( in Phā.), Purusottama (in Cai.), Acyuta (in Vai.) and as Jaya (in Jy.); sesame to be employed at bath and dinner in the first six months and in the six months from Āsādha pancagavya; worship in the second half from Āṣ. with same names as in the first half year; performer to observe fast on ekādasi and to observe nakta or ekabhakta way on 12th; at year's end 
+not to speak with atheists and the like; two periods of six months each; in the first six months from P. worship as Puṇdarikākṣa, then as Madhava, as Viśvarūpa ( in Phā.), Purusottama (in Cai.), Acyuta (in Vai.) and as Jaya (in Jy.); sesame to be employed at bath and dinner in the first six months and in the six months from Āsādha pancagavya; worship in the second half from Āṣ. with same names as in the first half year; performer to observe fast on ekādasi and to observe nakta or ekabhakta way on 12th; at year's end 
 
 H, D, 56 
 

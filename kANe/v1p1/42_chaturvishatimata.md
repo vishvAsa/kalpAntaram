@@ -21,7 +21,7 @@ In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bear
 
 The work often quotes the views of Uśanas, Manu, Pārāśarya, Angiras, Yama, Hārita. It quotes Manu III. 5 ( ' asapindi. ca ya.' etc.) and Manu XII. 95 (ya vedabahyah smṛtayah). Two other verges which it contains are indicated as interpolated in several editions of Manu.586 It says that the teachings of Arhat, Cārvāka and Buddha delude people. 588 Its position is that whatever is not found in the Veda or the Puranas, the Rāmāyana, or Mahābhārata or in the sāstras of Manu and others is as good as non-existent. 687 
 
-The Caturviṇsatimata is frequently quoted by the Mit., A parārka and later work8,688 but not by Visvarūpa and 
+The Caturviṇsatimata is frequently quoted by the Mit., A parārka and later work8,688 but not by Viśvarūpa and 
 
 585 वृद्धौ च मातापितरौ साध्वी भार्या शिशुः सुतः । अप्यकार्यशतं कृत्वा भर्तव्या 
 

@@ -39,7 +39,7 @@ HST
 
 History of Dharmasastra 
 
-down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Auśanasī Dandanīti. Visvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Uśanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhatithi cites from Uśanas the words 
+down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Auśanasī Dandanīti. Viśvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Uśanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhātithi cites from Uśanas the words 
 
 prakstīnām balam rājā,' which are an Anustubh pāda. This sūtra work on politics by Uśanas has not yet been discovered. The Tāndya-Mahā brāhmaṇa says that Kāvya Uśanas was the purohita of the Asuras ( 7. 5. 20). 
 

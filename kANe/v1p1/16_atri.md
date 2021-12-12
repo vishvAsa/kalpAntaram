@@ -47,7 +47,7 @@ There is a Vrddhatreyasmrti in Jivananda (part I. pp. 47-59 ) in five chapters a
 
 bhagavan kena dānena' and the works have many verses in common. In the fourth chapter of both the same prose passa ges occur. 
 
-Visvarūpa on Yāj. (III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. 234 
+Viśvarūpa on Yāj. (III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. 234 
 
 In the Mahabharata (Anuśāsana 65. 1 ) Atri is credited with the view that those who make a gift of gold give (prac tically) all objects. This bears a close resemblance to two verses that occur in Laghvatri (Jivananda part I. p. 5) and Vṭddhātri (part I. p. 51 ).235 
 

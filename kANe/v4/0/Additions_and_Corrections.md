@@ -49,7 +49,7 @@ sūtra III. 4. 43 ( babis tūbhayathāpı)'. 116 line 23 Add after the words 'fo
 
 that simply officiating as a priest or accepting a gift entailed a prāyaścıtta; vide Tai. A. II. 16. 17 arsfit S T 1937 : FOTTERI OG utzita'. Manu X. 109-111 appear 
 
-to endorse this view. 140 line 7 Read' and as marking' 149 line 23 Add at end 'Visvarūpa on Yaj. III 248 states 
+to endorse this view. 140 line 7 Read' and as marking' 149 line 23 Add at end 'Viśvarūpa on Yaj. III 248 states 
 
 that in the Angirasa-smrti an expiation called Vajra is described and it is provided therein that those who are guilty of a mahāpātaka are purified after three years. The Mit. on Yā}. III 254 quotes the same half-verse as of 
 

@@ -265,7 +265,7 @@ of, 69. Andhras, associated with Pulindas
 
 in Rook Edict of Asoka, 69; 
 
-Visvamitra's sons bocamo, 47. Andhras, founder of dynasty of, 
+Viśvamitra's sons bocamo, 47. Andhras, founder of dynasty of, 
 
 is said to have been a sūdra, 1238. Angiras, smṛti of, 70n, 89, 134, 163, 
 
@@ -1863,7 +1863,7 @@ objects of gift, 839; gifts of, in Hindu Widows' Remarriage Act Rgveda, 838; gif
 
 in Tai. S., 181, 839; isti to Varuna Hiranyagarbha, & mabādāna, 872- to be performed by the donor of a 
 
-873; all sanskāras symbolically horso in \# Vedio sacrifice, 839. gone through by donor in, 872; 
+873; all sanskāras symbolically horso in \# Vedic sacrifice, 839. gone through by donor in, 872; 
 
 Hospitality (vide under 'mapupya. performed by king Dantidurga at 
 
@@ -1921,7 +1921,7 @@ General Index
 
 and husband, 619; not ordinarily | Iin purity, on birth none till navel liable for wife's debts, 573 ; not to cord is cul, 236. prove falec to each other in three Indiun Antiquary, 85, 217, 240n, 245, puruṣārthas and not to bo separate | 349n, 506, 5939, 598, 629, 799, from each other, 556; power of 865n, 867, 1245 ; New I. A., 750. correction of, over wife, 569; | Indian Historical Quarterly 85-86, priacipal obligations of wife and ! 2388, 3190, 720 1, 864. busband 556; rules about soxual Indians, discrimination against in intercourse betwoon busband and South Africa, 165. wife, 801-80%. 
 
-Indra : and Ahalya, 11450; und Hymns, Vedio, recitation of which Modhyatithi Kanva, 1145a; born 
+Indra : and Ahalya, 11450; und Hymns, Vedic, recitation of which Modhyatithi Kanva, 1145a; born 
 
 purifies inad, 685-686. 
 
@@ -2613,7 +2613,7 @@ guch as kudava, prastha, adhaka &o, 786n, 8810; of weight such as
 
 krgnala, māga, 880n. Meda, an antyaja, 70, 92. Medhajanana, rite, 233; name of 
 
-verge in Rgveda, 231. Medhatithi, 3, 16, 56, 58, 601, 63n, 
+verge in Rgveda, 231. Medhātithi, 3, 16, 56, 58, 601, 63n, 
 
 79, 87, 88, 110n, 116, 150, 158, 205, 
 
@@ -2723,13 +2723,13 @@ Naivedya ( food offered to images of Mudgala-purāṇa, 725.
 
 gods ), distribution of, 733; what Mudra (hand and finger pogos), 320- allowed and forbidden, 733. 
 
-321 ; in sandhya, 820; in worship Nakgatras : auspicious pakpatras for of Vippu, 320 ; number of, varies, marriage, 612-613; ontmorated in 320-921; practised in island of Vedio Literature from Kittika to Bali, 321; whon made, 320. 
+321 ; in sandhya, 820; in worship Nakgatras : auspicious pakpatras for of Vippu, 320 ; number of, varies, marriage, 612-613; ontmorated in 320-921; practised in island of Vedic Literature from Kittika to Bali, 321; whon made, 320. 
 
 Bbara pi, 2472 ; malo, :219n, 223 : Mudrār akṣaga, 266. 
 
 names derived from, important in Muhurtat called Brahma, 646; called Vodic sacrificor, 247; nanos given 
 
-Prajapatya, 600; day divided into to people from, 246; Damos of pomo, 80 muhurtus in sat. Br. 646; equal different in Vedio times, 2472; to two audikas, 6460; names of I presiding doitie, of, in Vodio 
+Prajapatya, 600; day divided into to people from, 246; Damos of pomo, 80 muhurtus in sat. Br. 646; equal different in Vedic times, 2472; to two audikas, 6460; names of I presiding doitie, of, in Vodio 
 
 516. 
 
@@ -2777,7 +2777,7 @@ persons, 431. 285; derived from mother's name:
 
 by Bphaspati, 85. 240-241; short forms of, 244n; Nasik, cave inscriptions, 73, 113n, three names of same person, 01- 262, 414n. amples of 241; usually two n. given 
 
-Nastika, condemned as a patita, 569; to a person in Vedio works, 242; derived by Papini, 3590; unfit to Whoso namos aro not to be taken be a witno88, 369p. oat of respect for them 334. 
+Nastika, condemned as a patita, 569; to a person in Vedic works, 242; derived by Papini, 3590; unfit to Whoso namos aro not to be taken be a witno88, 369p. oat of respect for them 334. 
 
 Nastikya, condemned by Manu, 368; Nammalvār, 177. 
 
@@ -2907,7 +2907,7 @@ dvajagotra, 494.
 
 84, 91, 93, 122n, 168, 2250, 243n Pañcadası, a work on Vedānta, 391. &c.; his mother was Dakpi, 252; Pañoagavya, 773-774; 18 prāyascitta not later than at least 300 B.O., 
 
-774; as purification, 773 ; ingredi- 422; was called salaturiya, 252n. epts of, 773; is called brahma- Paninsya-dikpa, 347. kurca, 774; sudras and women Pankti (row of diners): devicos for could take pañcaga vyť but with- breaking continuity of, 767; ono in out mantras, 774; Vedio verses to pankti should not take acamana be recited when preparing, 773; before others or should not get up Vosgol for 774. 
+774; as purification, 773 ; ingredi- 422; was called salaturiya, 252n. epts of, 773; is called brahma- Paninsya-dikpa, 347. kurca, 774; sudras and women Pankti (row of diners): devicos for could take pañcaga vyť but with- breaking continuity of, 767; ono in out mantras, 774; Vedic verses to pankti should not take acamana be recited when preparing, 773; before others or should not get up Vosgol for 774. 
 
 766-767; one should not sit in Pañoāgaividyā, not known to brāh- 8ame pankti with undeserving per 
 
@@ -3041,7 +3041,7 @@ One Self, 7; summum bonum of Pole star, to be soon by bride in Indian, is mokra,
 
 marriage, 530, 635. Piṇdapitryajāa, 1085-1090; all Pollock and Maitland, 142. 
 
-actions are done facing south-east Polyandry, 554–556 ; example of ip, 1086; balla of rice are offered to Draupadi, 564-555; prevailed three male ancostors, 1088; caru among Nairs in Malabar, 556; pre (boiled rice) is cooked on dakpia valent even now among certain nāgni in, 1086; disposal of pindas people in Kumaon and Garhwal, in water or firo &o., 1090 ; one not 556; unbeard of, in Vedio liters an \#hitagni could offor pipdas in ture, 554. grbya fire, 1090; patras required in, Polygamy, 660-564; allowed if first placed to porth-east or north-west wife bears DO 8008, 552; common of dakpinagni, 1086; performed on view was that a person could amāvasya in the afternoon, 1086; marry several wives if he provided procedure of, 1086-1090; views maintenance and stridbana, 552; differed whether it is independent is not very common aven in rito or only a subordinate part of modern timos, 653; many wives darsa sacrifice, 1085-1086; views believed to be a form of prosperity, of togobers differed as to offoring 551 ; not confined to kings and of pipdas whon any ancestor out noblos, 651; probibited by somo of three was living, 1088; wife to sagos, except under very excep eat the middlo pipda, 1089 
+actions are done facing south-east Polyandry, 554–556 ; example of ip, 1086; balla of rice are offered to Draupadi, 564-555; prevailed three male ancostors, 1088; caru among Nairs in Malabar, 556; pre (boiled rice) is cooked on dakpia valent even now among certain nāgni in, 1086; disposal of pindas people in Kumaon and Garhwal, in water or firo &o., 1090 ; one not 556; unbeard of, in Vedic liters an \#hitagni could offor pipdas in ture, 554. grbya fire, 1090; patras required in, Polygamy, 660-564; allowed if first placed to porth-east or north-west wife bears DO 8008, 552; common of dakpinagni, 1086; performed on view was that a person could amāvasya in the afternoon, 1086; marry several wives if he provided procedure of, 1086-1090; views maintenance and stridbana, 552; differed whether it is independent is not very common aven in rito or only a subordinate part of modern timos, 653; many wives darsa sacrifice, 1085-1086; views believed to be a form of prosperity, of togobers differed as to offoring 551 ; not confined to kings and of pipdas whon any ancestor out noblos, 651; probibited by somo of three was living, 1088; wife to sagos, except under very excep eat the middlo pipda, 1089 
 
 tional circumstances, 651; Vodio Pingala, a casta, 88. 
 
@@ -3175,7 +3175,7 @@ quired in some sacrifices, 981a. the sun, 1148; doctrine of, was
 
 Profossions : that had becomo or 'called Madbu, 11490; bot milk in 
 
-were becoming castes in the Vedio mahavira veksel deemed to be 
+were becoming castes in the Vedic mahavira veksel deemed to be 
 
 period, 49; in times of Rgveda and divine life and light, 1148 ; bot 
 
@@ -3359,7 +3359,7 @@ Inscriptions', 388n. Raptrabbạt, mantras, 263a.
 
 Risløy, 72. Rathakara, a casto, 94; allowed to Rites: preliminarios, common to all, in 
 
-consecrate Vedic iros, 45; held by modern tiines, 212; to be performed Juimipi pot to belong to the three according to ritual of one'a Vedio bigher vargas, 45; gradually lost dakba, 328 ; when the ritual of his status, 94; is the caste callod / another sakba may be followod, Saudhantada 46; not entitled to upanayanı, according to Vidvarūpa, River, invoked in Simantonrayana, 46; offspring of a mahinya malo 224-225. and karana female, 57; upanayana | Rivere, mentioned in Rgveda, 12. 
+consecrate Vedic iros, 45; held by modern tiines, 212; to be performed Juimipi pot to belong to the three according to ritual of one'a Vedic bigher vargas, 45; gradually lost dakba, 328 ; when the ritual of his status, 94; is the caste callod / another sakba may be followod, Saudhantada 46; not entitled to upanayanı, according to Vidvarūpa, River, invoked in Simantonrayana, 46; offspring of a mahinya malo 224-225. and karana female, 57; upanayana | Rivere, mentioned in Rgveda, 12. 
 
 328. 
 
@@ -3377,7 +3377,7 @@ Sakhya). .
 
 trodden by Candalas, 174; 198 of 866, 889, 910, 10099, 1019, 1145n, public, by untouchables, restricted 11830, 12070, 1214A, 12260, 1241. in South India, 175. 
 
-Sabaras, 96; Visvamitra's sons were Roman Catholic Church: forbids 
+Sabaras, 96; Viśvamitra's sons were Roman Catholic Church: forbids 
 
 cursed to be, 47. divorce, 622 ; privileges of clergy 
 
@@ -3401,7 +3401,7 @@ offering a samidh or a namaskara Ṛtusangamana, 195, 203; samo as
 
 held to be equal to, oven in æg Nipeka, 195. 
 
-veda, 677; Vedio, to be performed 
+veda, 677; Vedic, to be performed 
 
 only by bir wbo kpowa tho portion Rudra : Ambika as sister of, 2130 ; 
 
@@ -3537,7 +3537,7 @@ most, have fallen into oblivion, time to be spent in, 313 ; upastha
 
 on, 193-194 ; of kūdra, to be per 318; water thrown up in, drives 
 
-formed without Vedio mantras, away evil spirits according to Tai. 
+formed without Vedic mantras, away evil spirits according to Tai. 
 
 168-159 ; perforned on auspicious Ār, and others, 314. 
 
@@ -3799,7 +3799,7 @@ mentioned by Patañjali, 736. Skandapurāṇa, 112a, 117, 484, 565,
 
 course with female, 186. Slavery, 180-187; abolished in British 
 
-Donninions in 1833, 180; an insti tution in all anoiont countries, 180; in England and America, 180; in the Rgveda and Vedio literature 
+Donninions in 1833, 180; an insti tution in all anoiont countries, 180; in England and America, 180; in the Rgveda and Vedic literature 
 
 181-182 ; Kautilya 0o, 183-184. Sloop, 800-801 ; five persons famed 
 
@@ -3879,7 +3879,7 @@ vorce Act applicable, 621. are filled with soma, 1177n; not to Spengler, 138. be
 
 History of Dharmasastra 
 
-Áranta (Vedio) sacrifices, 076f; , stbandila (altar ), how prepared, 
+Áranta (Vedic) sacrifices, 076f; , stbandila (altar ), how prepared, 
 
 doep study of, neoculary for pro- 208-209. perly understanding Vedic Litera- Stones, fire kinds of, asod in worn turo, for obropology, 976. 
 
@@ -4127,7 +4127,7 @@ sages ia upakarma, 813, Taxation : learned brahmapas freo from, 143-144; women a
 
 porxong exempt from taxation, 144. Taxos, on apanay&na, marriages and 
 
-Vedio sacrifices, 145. Teacher (ned under "Karya', 'edu cation', 'guru', student'): deman ded fanciful dakṣiṇā, 362; for Veda, must ordinarily be a brab mapa, 325; generally , brøbmana alono could be a, 108; kṣatriyas rarely engaged 18, 108; kṣatriya may be teacher of Veda in diffi culty, 325; not to keep back know ļedge from pupil, 329; perpetual student could not stay with a kna triya t., 109; pupils wero addres god by gotra Dames by, 481; rules to be obsorved by t. 329-330; stu. dento generally stuck to one, 328 329; to be revered as God by pupil, 322; to explain in Sanskrit, Prakrit or vernacular, 849 ; to troat pupil 
+Vedic sacrifices, 145. Teacher (ned under "Karya', 'edu cation', 'guru', student'): deman ded fanciful dakṣiṇā, 362; for Veda, must ordinarily be a brab mapa, 325; generally , brøbmana alono could be a, 108; kṣatriyas rarely engaged 18, 108; kṣatriya may be teacher of Veda in diffi culty, 325; not to keep back know ļedge from pupil, 329; perpetual student could not stay with a kna triya t., 109; pupils wero addres god by gotra Dames by, 481; rules to be obsorved by t. 329-330; stu. dento generally stuck to one, 328 329; to be revered as God by pupil, 322; to explain in Sanskrit, Prakrit or vernacular, 849 ; to troat pupil 
 
 as his son, 329-330; woman af, 366. Teaching: after prior stipulation for monoy rogarded as a sin, 361; mo- thod of t. Veda, 325-826;t, of Voda, in the hands of brabmanas alone, 
 
@@ -4271,7 +4271,7 @@ Bṭ. Up. 45; offspring of a kpatriya 807-810. from a sūdra woman, 45; occurs U
 
 Jabala, 307, 329, 349n, 406. Ujjayinl: poets like Kalidasa were Upakrupta, 74; authorized to perform 
 
-examined at, 869; temple of consecration of Vedio tiros, 74. Mabokal, at, 799. 
+examined at, 869; temple of consecration of Vedic tiros, 74. Mabokal, at, 799. 
 
 Upārbuyāja, procedure of, 1062. Ukthemukba: principal part of cer- U pa nayana (800 under 'brahman 
 
@@ -4565,7 +4565,7 @@ self-immolation to widows, 626. Viṣnudbarmottara, 1120, 2660, 713,
 
 equal) 395-896. Viṣuvat, day in Gavim-ayana, 1240 
 
-und n, Viūvacakra, a mabadāns, 876. Visvajit sacrifice: one cannot givo 
+und n, Viūvacakra, a mabadāns, 876. Viśvajit sacrifice: one cannot givo 
 
 away one's wife and obildron in, 508, 850; ono givos away every thing in, 46, 1218n; performer of, had to stay in \# settlement of nizadas for some time, 46, 481, 12120; performer of, had to stay with brahmaṇas of same gotra for a yoar, 480; soveroign cannot make a gift of wbole earth in 850, 866; budra who meroly sorvos 88 
 
@@ -4579,9 +4579,9 @@ tanku, 109; carried off cow of Vasistha,41; cursed his fifty disobe dient sons t
 
 as bis son, 47. Viśvarūpa: had three heads, 792-793; 
 
-Indra killed, 147, 801; purohita of gods, 40. Visvarūpa, 11th chaptor of the 
+Indra killed, 147, 801; purohita of gods, 40. Viśvarūpa, 11th chaptor of the 
 
-Bhagavadgit& is 80 callod, 962. Visvarūpa, com. of Yajñavalkya, 14n, 
+Bhagavadgit& is 80 callod, 962. Viśvarūpa, com. of Yajñavalkya, 14n, 
 
 15, 45, 54, 58, 59, 141, 160, 169, 208, 289, 268n, 9040 &c.; hold to be identical with Sureśvara, 944 ; views of, in com. on Yajāavaltya are opposed to viow of Bṛ. Up bh&pyarartika, 944 
 
@@ -4599,7 +4599,7 @@ land, 861. Vyatipāta, one of the 27 yogan, 852n. Vyavahāramayukha, 151, 186, 4
 
 in Rājaslya, 1222. 
 
-Visvarūpasamuccaya, 466n. Vīta barya, & king, became a brah 
+Viśvarūpasamuccaya, 466n. Vīta barya, & king, became a brah 
 
 • mapa, 496. Vitaran: 14n. ' Vitasti, a measure of longth, 209p. Vivadaratnakara, 66n, 5800, 872. Vivaba, 197. Vivasvat, a smstikūra, 926n. Vratas (806 under Voda-vratas): as 
 

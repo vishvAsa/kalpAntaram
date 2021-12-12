@@ -67,7 +67,7 @@ History of Dhuriasāstra
 
 explanation of Prakāśa on the controversial verses of Yāj. (II. 138-139). The Viramitrodaya*** quotes at length Prakāśa's explanation of Manu ( 9. 207 ) and disapproves of it on the ground ( among others ) that the verse can more clearly be explained so as to convey a meaning similar to that of Yāj. II. 116. The Prakāśa is mentioned in the Dayatattva ( vol. II, 1. 173) and in the Suddhitattva ( Vol. II, p. 288)and p. 385 and the Mahārnava-prakāśa is mentioned in the Kaljataru on Srāddha p. 262. 
 
-As the Prakāśa is quoted in the Kalpataru it is certainly earlier than 1125. A. D. It mentions Medhatithi. Besides the Mit. does not refer to it. There is room for thinking that it follows the Mit. Yaj. II. 116 is, according to the livida ratnākāra, '59 explained by the Prakāśa in almost the same words as the Mit. It is possible that both borrow from the same original. At all events the Prakāśa must have been composed between 1000 and 1100 A. D. 
+As the Prakāśa is quoted in the Kalpataru it is certainly earlier than 1125. A. D. It mentions Medhātithi. Besides the Mit. does not refer to it. There is room for thinking that it follows the Mit. Yaj. II. 116 is, according to the livida ratnākāra, '59 explained by the Prakāśa in almost the same words as the Mit. It is possible that both borrow from the same original. At all events the Prakāśa must have been composed between 1000 and 1100 A. D. 
 
 Hemālri frequently cites a work called Mahārnava prakāśa.890 According to the latter the sandal unguents, flowers, incense, lamp presented in śrāddha are to be offered to the Brālunanas invited and not to the intr's. In another place Hemādri quotes the explanation of the word 'niman trunc '81 give: by the Mahārṇa vaprakāśa. In some places 
 

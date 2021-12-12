@@ -377,7 +377,7 @@ pp. 9171., 924. Baudhayana 89 holding that
 
 Bālabbūșana, p. 858. aurasa son oply to be recognised, pp. 45, 302. 
 
-Bālaka, pp. 640, 705–706, 893n. Aurangzeb, demolished Visvesvara Bālakrida, Visvarūpa's com. on Yāj., 
+Bālaka, pp. 640, 705–706, 893n. Aurangzeb, demolished Visvesvara Bālakrida, Viśvarūpa's com. on Yāj., 
 
 temple, p. 908. 
 
@@ -1007,7 +1007,7 @@ by king, p. 285. Dattakanirnaya, p. 938.
 
 Derret, Dr., pp. 569, 570,588,672,882, Dattakavidhi, of Vācaspati, p. 850. criticized, pp. 609, 610. Daughter, excluded from inheritance Desa, extent of, according to Bras 
 
-by son, p. 8; succeeded, if putrikā pati, p. 490. according to Visvarūpa and Srī- Devāditya, grandfather of Candesva kara, p. 571; unmarried, succeeds 
+by son, p. 8; succeeded, if putrikā pati, p. 490. according to Viśvarūpa and Srī- Devāditya, grandfather of Candesva kara, p. 571; unmarried, succeeds 
 
 ra, p. 771. in preference to married, p. 597; 
 
@@ -1533,7 +1533,7 @@ Jatīkarnya, pp. 278-79; certain texts centuries B, C., p. 414; and Greece,
 
 of, not authoritative according to p. 221. 
 
-Bhojadeva, Visvarūpa and Govinda Indra and yatis, p. 9. 
+Bhojadeva, Viśvarūpa and Govinda Indra and yatis, p. 9. 
 
 rāja, p. 585. Inheritance, divergent views as to, Jayā, queen of Bhairava, patroness of 
 
@@ -1577,7 +1577,7 @@ cized, pp. 232–33, 339-40, 447, Jagannāthapandita, pp. 965, 966n.
 
 73, 719; secs no difference in the 
 
-Jha, Kamal Narain, p. 771. meaning of words in Veda and ordinary life, p. 176.; denirs inde. Jha, Subhadra, pp. 631, 810. pendent authority of Kalpasītras, Jikana, quoted by Kullaka, pp. 758, p. 148; quoted profusely by Visva- 770n, 826n., 893n.; quoted in rūpa, pp. 555-56; author of Smpti- Prāvaścitta-prakarana, p. 647. mimāṁsā, p. 718. 
+Jha, Kamal Narain, p. 771. meaning of words in Veda and ordinary life, p. 176.; denirs inde. Jha, Subhadra, pp. 631, 810. pendent authority of Kalpasītras, Jikana, quoted by Kullaka, pp. 758, p. 148; quoted profusely by Viśva- 770n, 826n., 893n.; quoted in rūpa, pp. 555-56; author of Smpti- Prāvaścitta-prakarana, p. 647. mimāṁsā, p. 718. 
 
 Jimūtavāhana, pp. 286, 296, 476, Jaitrapāla, p. 752, 
 
@@ -1809,7 +1809,7 @@ rity in the work itself, pp. 194–95; Kātyāyana, author of Vārtikas, p. deri
 
 Kautsa, named by Āpastamba, pp. Kātyāyana, pp. 496-507, 805; looked 13, 61, 273. 
 
-upon as an authority by Visvarūpa 
+upon as an authority by Viśvarūpa 
 
 Kavaṣa, p. 817. and Medhātithi, p. 487; quotes Bfhaspati as authority, pp. 488, 
 
@@ -2235,7 +2235,7 @@ pp. 471-73, Manvarthamuktāvali, by Kullaka,
 
 p. 756. Marici, Smsti of, pp. 521-522. Mārkandeya, p. 309. Mārkan leyapurāna, pp. 356, 414. Marriage, Brāhma form of, pp. 7, 
 
-125; Āsura form of, pp. 7, 125; Gāndharva form of, p. 8; forms of, generally eight, pp. 50, 125, 142, 331; forms of, only six, accord. ing to Āpastamba, and Visistha, pp. 50, 105; forms of, two acc. to Kāṭhaka, p. 125; intercaste, pp. 105, 142; prohibited degrees in, p. 284; with maternal uncle's or paternal aunt's daughter condemn. ed, pp. 297, 543, 745; and allowed, pp. 661, 866; guardians for, p. 424; auspicious nakṣatras for, pp. 445–46; proper age for, in case of girls, pp. 5251., 543; may be performed at all times according to Sridhara, p. 914; Brāhma form of, as distinguished from Prājāpatya, p. 745; of person of one Vedic sākhā, with a girl belonging to 
+125; Āsura form of, pp. 7, 125; Gāndharva form of, p. 8; forms of, generally eight, pp. 50, 125, 142, 331; forms of, only six, accord. ing to Āpastamba, and Visistha, pp. 50, 105; forms of, two acc. to Kāṭhaka, p. 125; intercaste, pp. 105, 142; prohibited degrees in, p. 284; with maternal uncle's or paternal aunt's daughter condemn. ed, pp. 297, 543, 745; and allowed, pp. 661, 866; guardians for, p. 424; auspicious nakṣatras for, pp. 445–46; proper age for, in case of girls, pp. 5251., 543; may be performed at all times according to Sridhara, p. 914; Brāhma form of, as distinguished from Prājāpatya, p. 745; of person of one Vedic śākhā, with a girl belonging to 
 
 another Vedic śākhā, p. 751. Mārtanda pādamūla, in Kashmir, p. 
 
@@ -2289,7 +2289,7 @@ Monasteries of Brāhmaṇas, p. 447, Mishra, Dr. Umesh, p. 627.
 
 Monopolies, of kings, p. 575. Mitākṣarā, pp. 43, 47, 66, 89, 111, Moropant, Marathi poet, p. 977. 
 
-112, 274, 276, 277, 278; and Mortgage, by conditional sale, p. Visvarūpa, pp. 423–24, 560-61; L 299; necessity of writing for, and Bhāruci, p. 568; place of, p. 522. in Dharmaśāstra, p. 599; and 
+112, 274, 276, 277, 278; and Mortgage, by conditional sale, p. Viśvarūpa, pp. 423–24, 560-61; L 299; necessity of writing for, and Bhāruci, p. 568; place of, p. 522. in Dharmaśāstra, p. 599; and 
 
 Mother, as heir, whether preferred Smsticandrikā, pp. 607, 740; 
 
@@ -2481,7 +2481,7 @@ p. 688n. of Vedic orthodoxy, p. 577.
 
 Nivartana, a measure of area, p. 490, Nirnayāmsta, pp. 587, 750n., 893n. Non-Aryan tribes mentioned by Atri, Nirnayasindhu, pp. 183, 505, 639; L p. 261. 
 
-quotes Laghu-Nārada, p. 483; and Nṭsimha, author of Prayogapārijāta, Bphaspati, p. 489; quotes verses of p. 745. Visvarūpa, p. 565; quotes views of 
+quotes Laghu-Nārada, p. 483; and Nṭsimha, author of Prayogapārijāta, Bphaspati, p. 489; quotes verses of p. 745. Viśvarūpa, p. 565; quotes views of 
 
 Nrsinha, sun of Rāmacandrācārya, Sridhariya, p. 726. 
 
@@ -2813,7 +2813,7 @@ Purusottama, as 26th tattva of Raghu Pulkasa, a mixed caste, p. 142. nandana, p.
 
 Pārvamimāṁsā, pp. 5n., 71., 13, Punarbhū, seven kinds of, p. 275; 299, 044; Apastamba's relation to, 
 
-three kinds of, according to Nārada, pp. 63–64; and Visvarūpa, pp. p. 473. 
+three kinds of, according to Nārada, pp. 63–64; and Viśvarūpa, pp. p. 473. 
 
 535-57; commentators of, p. 593. Pundarika (or Paundarika), a tirtha, Puṣkara, opponent of Nala, p. 245. 
 
@@ -3433,7 +3433,7 @@ Suddhipradipa, p. 810. Suddhiratnākara, pp. 766, 775n. Suddhitattva, p. 654. Su
 
 849n. Sūrlra, prāyaścitta for killing a, p. 
 
-126n.; dharnas of, p. 280n.; set forth in Smṛtikaumudi, p. 798; not fit for sacrifice, p 9; usury allowed towards, p. 73; inviting of ascetic, at dinner for gods and manes, fined, p. 219; was not to be appo. inted judge, p. 335; woman. marriage of, with a dvijāti, pp. 261, 331; illegitimate son of, gets share in father's property, pp. 289, 561; allowed niyoga by Visvarūpa, 561; can perform Vajśvadeva and the offerings of bali, p. 763; stidras are vajasaneyins, p. 893; should perform five daily yajñas to the accompaniment of the word 
+126n.; dharnas of, p. 280n.; set forth in Smṛtikaumudi, p. 798; not fit for sacrifice, p 9; usury allowed towards, p. 73; inviting of ascetic, at dinner for gods and manes, fined, p. 219; was not to be appo. inted judge, p. 335; woman. marriage of, with a dvijāti, pp. 261, 331; illegitimate son of, gets share in father's property, pp. 289, 561; allowed niyoga by Viśvarūpa, 561; can perform Vajśvadeva and the offerings of bali, p. 763; stidras are vajasaneyins, p. 893; should perform five daily yajñas to the accompaniment of the word 
 
 namaskāra' as the mantra, p. 894; could perform tā masapūjā, p. 895; whether Purāpa mantra could be recited by, pp. 895–96; Mahābhārata was composed for, P. 896; may adopt daughter's or sister's son, p. 955. Śūdrācāracintīmani, pp. 846, 851. Sūdrakamalā kara, p. 930. Sugatisopāna, of Gabeśvaramiśra, pp. 
 
@@ -3477,7 +3477,7 @@ Taittiriya-Samhitā, pp. 8, 9, 307, Sunaḥśepa, story of, pp. 8, 95.
 
 62; Vasiṣıha quotes several pass 
 
-Sureśvara, identified with Visvarūpa 
+Sureśvara, identified with Viśvarūpa 
 
 ages from, p. 95. by Madhava, pp. 65, 149, 562–64. / Taittiriya Upanisad, pp. 4, 5. Surety, p. 289; kinds of, pp. 532, Taittiriyopaniṣadbhāṣyavārtika, P. 
 
@@ -3877,7 +3877,7 @@ commentator of the Mahābhārata, Vīreśvara, elder brother of Mitrami.
 
 p. 379. śra, p. 948. 
 
-Visvaksena, king of Bengal, p. 707. Visālākṣa, abridged work of Brahma 
+Viśvaksena, king of Bengal, p. 707. Visālākṣa, abridged work of Brahma 
 
 Viśvalocada, quoted by Nilakantha, on dharma, artha and kāma, pp. 
 
@@ -3885,7 +3885,7 @@ commentator of the Mahabharata, 1491., 308; as a writer on Niti
 
 p. 379. ( Rājaniti ), pp. 150, 341, 342; mentioned by Kawilya, pp. 209, 
 
-Vjśvāmitra, smrti of, pp. 303, 529; 210; mentioned by Visvarūpa, 
+Vjśvāmitra, smrti of, pp. 303, 529; 210; mentioned by Viśvarūpa, 
 
 sage, took dog's leg from. cũndāla, p. 555; mentioned by Vyavahāra 
 
@@ -3899,7 +3899,7 @@ Viśvarūpa, a lexicographer, p. 757.
 
 of, before Rāmānuja, pp. 566–67. 
 
-Visvarūpa, pp. 9, 31, 47, 64, 65, 104, 
+Viśvarūpa, pp. 9, 31, 47, 64, 65, 104, 
 
 105, 13211., 140, 145, 263, 274, 421, Viṣnu, twelve names of, p. 53; one 
 
@@ -3919,7 +3919,7 @@ Viddha-Brhaspati, p. 490. difference between Mitākṣarā and, i
 
 Vrddba-Garga, p. 732n. pp. 560-61; identity of, with Sureśvara, pp. 65, 149, 562-64. 
 
-Viddha-Gārgya, pp. 276, 277, 305. Visvarūpanibandha, pp. 564–65, 849n. 
+Viddha-Gārgya, pp. 276, 277, 305. Viśvarūpanibandha, pp. 564–65, 849n. 
 
 Vṛddha-Gautama, pp. 38, 305; names 
 
@@ -4033,7 +4033,7 @@ Dāyatattva, p. 901. Vyarahāratilaka, of Bhavadera, pp.
 
 Usanas, p. 163; Manusinfti men tions six, p. 163. 
 
-separated coparcener allowed to inherit, p. 532; if she submitted to piyoga, pp. 539, 623; of predecea sed son preferred to daughter as heir, by Nandapandita, p. 920; adoption by, p. 955; of predeceased son or grandson, right of, p. 560; succeeded to husband's estate, if small, according to Srikara, p. 571; remarriage of, allowed by Vasiṣtha and Kautilya, pp. 105, 205; remarriage of, allowed by Nārada, p. 473, remarriage of, condemned by Manu, pp. 205, 473; right to inherit to husband, pp. 334, 438–39, 486-87; not recognised by Nārada p. 474; recognised by Yāj. and Bșhaspati; pp. 486–87; right of, to succeed, view of Samgrabakāra as to, p. 558; right of, to succeed, view of Visvarūpa, P. 559; if tarkasū to be given maintenance only, p. 597; succeeded to her sonless busband and was bound to offer śrāddhas, p. 521; to get 2000 kārśāpaṇas from husband's estate, p. 532; right of, to gucceed, view of Haradatta, p. 744; accord ing to A pastamba and Gautama, p. 744. 
+separated coparcener allowed to inherit, p. 532; if she submitted to piyoga, pp. 539, 623; of predecea sed son preferred to daughter as heir, by Nandapandita, p. 920; adoption by, p. 955; of predeceased son or grandson, right of, p. 560; succeeded to husband's estate, if small, according to Srikara, p. 571; remarriage of, allowed by Vasiṣtha and Kautilya, pp. 105, 205; remarriage of, allowed by Nārada, p. 473, remarriage of, condemned by Manu, pp. 205, 473; right to inherit to husband, pp. 334, 438–39, 486-87; not recognised by Nārada p. 474; recognised by Yāj. and Bșhaspati; pp. 486–87; right of, to succeed, view of Samgrabakāra as to, p. 558; right of, to succeed, view of Viśvarūpa, P. 559; if tarkasū to be given maintenance only, p. 597; succeeded to her sonless busband and was bound to offer śrāddhas, p. 521; to get 2000 kārśāpaṇas from husband's estate, p. 532; right of, to gucceed, view of Haradatta, p. 744; accord ing to A pastamba and Gautama, p. 744. 
 
 ife, called half of a man in 
 
@@ -4131,7 +4131,7 @@ is dāsa, p. 566. ascribed to, p. 448; enumerates 19 Yautaka, meaning of, p. 592
 
 Yavana, a mixed caste, mentioned by Yajñavalkyasmrti, pp. 421-459; com- Gautama, pp. 35, 73; mentioned 
 
-mentary of Visvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garudapurāna, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
+mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garudapurāna, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
 
 Yavaneśvara, p. 732n. Mānavagrbya, pp. 439-40; god White Yajurveda, pp. 423, 410-41: | Twill, of five kinds, pp. 956–57. and Greek astrology, pp. 413–41; Yoga, dofined, p. 281; eight angas commentaries on, pp. 457-58; and of, p. 259. Paraskaragļhya, pp. 440-11; 
 

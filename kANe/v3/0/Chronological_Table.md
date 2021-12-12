@@ -49,7 +49,7 @@ vārtika, Tantravārtika and Tup-tikā. 600 A. D. -- 900 A, D. - Most of the sm�
 
 Purāpas. 788 A. D. - 820 A. D. - Saṅkarācārya, the great Advaita 
 
-philosopher. 800 A. D. - 850 A. D. - Viśvarūpa, com, of Yājñavalkyasmrti. 900 A, D. - Medhatithi, com, of Manusmrti. 900 A. D. -- 1100 A. D.---Pārthasarathimisra, author of Sastra 
+philosopher. 800 A. D. - 850 A. D. - Viśvarūpa, com, of Yājñavalkyasmrti. 900 A, D. - Medhātithi, com, of Manusmrti. 900 A. D. -- 1100 A. D.---Pārthasarathimisra, author of Sastra 
 
 dipika, Tantraratna, Nyāyaratnākara. 966 A. D. - Utpala, com. of Bșhat-samhita and Bșhajjātaka. 1000 A. D. --- 1055 A. D. — Dhāreśvara ( Bhoja ). 1070 A. D. -- 1100 A. D. — Vijñāpeśvara, the author of the 
 
