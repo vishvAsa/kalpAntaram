@@ -65,7 +65,7 @@ Kat. (V. 1. 21-24) requires that this Vaidvadeva-parvan should be performed in a
 
 1094 
 
-History of Dharmasastra 
+
 
 [ Ch. XXXI 
 
@@ -113,7 +113,7 @@ the priests to move about. The pit is knee-deep, is outside the uttaravedi to it
 
 1098 
 
-History of Dharmasastra 
+
 
 1 Oh. XXXI 
 
@@ -141,7 +141,7 @@ The rite is conoluded by the priests and the saorificer and his wife going for a
 
 1100 
 
-History of Dharmalāstra 
+
 
 (Ch. XXXI 
 
@@ -173,7 +173,7 @@ After the mahahavis comes the pitļyajāa which is called mahapitryajña. To the
 
 1102 
 
-History of Dharmasastra 
+
 
 ( Oh. XXXI 
 
@@ -233,7 +233,7 @@ Sundsirau' occurs in the Rgveda IV, 57.5 and 8. In Rg. IV. 57.4 and 8 the word '
 
 . 8. D. 1891106 
 
-History of Dharmasāstra 
+
 
 (Oh, XXXI 
 
@@ -273,7 +273,7 @@ Kāmyeṣti In the Srauta sūtras there are rules for the performance of several
 
 1108 
 
-History of Dharmasastra 
+
 
 [ Ch. XXXI 
 

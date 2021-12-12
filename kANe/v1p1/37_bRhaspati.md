@@ -217,7 +217,7 @@ After the publication of the first volume of the History of Dharmaśāstra in 19
 
 492 
 
-History of Dharmasastra 
+
 
 collected and edited. This work is a laborious performance. It should have been accompanied by an English translation and notes on difficult passages. I have, however, to differ from it in some places and am further obliged to say that, in spite of all the labour he bestows, he some how failed to notice some verges and prose passages of Byhaspati as having been men tioned by Viśvarūpa and others. Dr. Jolly (in S. B. E. vol. 33 ) collected and translated 717 verses of Brhaspati on 
 

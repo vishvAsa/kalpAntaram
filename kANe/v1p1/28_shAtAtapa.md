@@ -33,7 +33,7 @@ No. 205 of A. 1882-83 of the Deccan College Collection is a Vrdilha-Siitātepa s
 
 296 
 
-History of Dharmasastra 
+
 
 contains a Vrddha-Sātātapa smrti in 68 verses ( pp. 232-235) on prāyaścittas, purification from various defilements and other miscellaneous matters. There are two prose passages therein. 
 

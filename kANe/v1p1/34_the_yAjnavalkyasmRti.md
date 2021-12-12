@@ -11,7 +11,7 @@ Bhandi
 
 sec422 
 
-History of Dharmasastra 
+
 
 Satapatha Brāhmana in several places alludes to the dialogues of Yājñavalkya and king Janaka of Videha on agnihotra (S. B. E. vol. 44 p. 46 ). Vide Sata patha ( ed. by Weber ) XI. 6.2. At the end of the Satapatha we are told that Vājasaneya Yājñavalkya promulgated the bright Yajus formula received from the Sun.480 In the Brhadāraṇyaka Upaniṣad Yājña valkya appears as a great philosopher teaching the recondite doctrines of Brahma and immortality to one of his two wives, the philosophically minded Maitreyi ( II. 4 and IV. 5). In the same Upaniṣad Yājñavalkya is represented as carrying away the one thousand cows set apart by Janaka for the most learned Brāhmana (III. 1. 1-2) and Yājña valkya is said to have imparted to Janaka the knowledge of the destiny of the soul after it is released from the bonds of flesh and worldly affec tions. Kātyāyana in his Vārtika on Pāṇini (IV. 3. 105 )461 speaks of the Brāhmania8 of Yājñavalkya and very heated controversies have raged round the correct interpretation of the Vārtika apd the Mahābhāsya thereon ( vide Max Müller's Ancient Sanskrit Literature p. 360, Goldsticker's Panini, p. 132 ff and S. B. E. vol. 12 pp. XXXV-XXXVIII). The contro versies centre round the word 'tulyakālāni' in the Mahā bhāsya. It may mean either ( 1 ) that the Brāhmaṇa works by Yājñavalkya (mentioned as 'Yajñavalkāni Brāhmanāni') are also 'purāna-prokta' but in their case the affix 'uini' (in ) is not applied ; yet they are as old as those referred to in the Sūtra, or (2) that the Brāhmanas like those promul gated by Yājśāvalkya are co-eval with Pāṇini and hence not 
 
@@ -207,7 +207,7 @@ Besides the four Vedas, Yāj. refers to the Vedāngas as six and enumerates four
 
 434 
 
-History of Dharmadāstra 
+
 
 is remarkable that in the body of the work not one individual author of a dharma-śāstra is mentioned by name. He speaks of Anviksiki (Metaphysics ) and Dandanīti (I. 311). He lays down the dictum that where dharmagāstra and artha sāstra conflict, the former shall prevail (II. 21 ). He speaks of smṛtis in general (II. 5 and 1.154 ). In III. 189 (III. 180 in Viśvarūpa who reads. Purānam ca ), he names several sections of Sanskrit literature viz. Vedas, Purānas, Vidyās ( Dharma sāstra and others ), Upanisads, slokas, sūtras and bhāsyas. This is an echo of Bșhadāranyakopanisad 11.4.10 and IV.5.11 quoted below.470 He speaks of sūtras and bhāsyas. What works are intended it is most difficult to say ; the only extant bhāsya which can be said with certainty to be older than the extant Yāj. smrti is that of Patañjali. He refers to other writers on dharma in the word 'eke' (I. 36). The view re ferred to there occurs in Baud. Dh. S. 1. 2. 4. 
 
@@ -431,7 +431,7 @@ FOUNDE
 
 446 
 
-History of Dharmasāstra 
+
 
 that a daughter should be given away in marriage on the Svāti naksatra if she was desired to be her husband's favourite *86 Vide Baudhāyana Gșhya (I. 1 ) for the marriage nakṣatras ; also Āp. Gr. S. II. 15. 12-14, Gobhila Gphya 4.4. 28 and 2. 1.1. 
 

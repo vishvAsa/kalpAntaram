@@ -35,7 +35,7 @@ the king depends for its prosperity on the qualities of the soil, the prosperity
 
 134 
 
-History of Dharmasāstra 
+
 
 [ Voi. 
 
@@ -63,7 +63,7 @@ TAN, \#TU, AT, Fira, hteite are mentioned even by Piotia (in IV. 1. 170-176, IV,
 
 136 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -117,7 +117,7 @@ Ins. No. 19 (E. I. VII. p. 64 ) where we have Mamalāhāra, modern Māval ( in P
 
 140 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -303,7 +303,7 @@ H a gno14-74-48-FFT*--ft पाजाविकादिग्यापूतक-
 
 154 
 
-History of Dharmasāstra 
+
 
 ( Vol. 
 
@@ -327,7 +327,7 @@ gure at any | E.I. VII p. 177 at p. 188 (grant of Eastern Calukya Amma dated 945
 
 156 
 
-History of Dharmasāstra 
+
 
 i vol. 
 
@@ -423,7 +423,7 @@ y explains From Aromat free pornofmaat gerais odernen reya : Fran Turf I RETTIG,
 
 21162 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -521,7 +521,7 @@ mi napreras Foreca II. 61. 52, quoted by trufas. p. 127.
 
 168 
 
-History of Dharmadāstra 
+
 
 [Vol. 
 
@@ -641,7 +641,7 @@ H
 
 176 
 
-History of Dharmasāstra 
+
 
 [ Vol. 
 

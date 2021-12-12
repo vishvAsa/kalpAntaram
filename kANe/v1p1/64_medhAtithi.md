@@ -147,7 +147,7 @@ Froin Medhātithi’s bhāsya it is perfectly clear that the text of Manu on whi
 
 580 
 
-History of Dharmasastra 
+
 
 VIII. 53 ). On VIII, 182-183 he notes?05 that the order of the verses was traditionally different. Kullūka also notices that those two verses and the next two were read in one order by Medlātithi and Bhojadeva and in another by Govindarāja. On 9. 93 he notes that according to some that verse is not Manu's. 760 On Manu II, 160 he gives three interpretations of the word 'Vedāntopagatam'. In numerous places he refers (in the words 'auye', 'kecit'' pirval') to the explanations of the Manusmrti that ditfer from his own; vide for example, on I. 28, 84, II. 5 ( bahavascātra vyākhyāvikalpāh, asāratvat tu na pradarsitāḥ ), II. 28, 8+; III. 109; VIII. 1, 2, 20, 30, 43, 359, 375, 410; IX. 18, 64, 76; X. 21, 188. He quotes nuinerous verses with the words 'uktam ca' or 'tuduktam' without naming the sources, some of which are taken from the Upavisads ( as'na ha vai sasarīrasya satah'on II. I which is Chāu. Up. VIII. 12. 1 or dve brahmani veditavye'on VI. 84, which occurs in Maitrāyani Up. VI. 22 ) or on II. 83 he quotes Chin. Up. II. 23. 3 'tad-yathā sarkunā sarvāni patrani santrıļāni evain-onkārena sarvā vāk santrimnā' and on the same verse he quotes Yogasūtra I. 27-28. He quotes many verses from the Mahābhūrata, inentions the Nirukta (on I. 22, II. 10, V.5), quotes Piniui's Sūtras on many verses and tbe Mahābhāsyakura (on Manu II. 12 and 123 ). On several verses his bhāsya extends to three, four or even five printed pages as on II. 105, 189, III. I(five pages ), 238, V. 2, VIII. 104, 148, X. 5. 
 

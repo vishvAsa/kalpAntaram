@@ -13,7 +13,7 @@ In the early Vedic literature several of the names of oastes that are spoken of 
 
 385. Vide Westermarck's 'The Origin and Development of the moral ideas' vol. I. pp. 370-371 for the treatment of Bushmen in Africa and Australia and of Negroes in America. Vide 'Satyagraha in South Africa' by Mahatma Gandhi translated by Mr. Valji Govindji Desai (published by B. Ganesan, 1928).166 
 
-History of Dharmalāstra 
+
 
 [ Ch. IV 
 
@@ -113,7 +113,7 @@ URI: FAT FATI I MOT p. 279; the samo Vorhes are quoted as Tata" by Faro I p. 119
 
 172 
 
-History of Dharmasastra 
+
 
 [ Ch. It 
 
@@ -143,7 +143,7 @@ Once the spirit of exclusiveness and exaggerated notions of ceremonial purity go
 
 174 
 
-History of Dharmasastra 
+
 
 [ Ch. Tỷ 
 
@@ -185,7 +185,7 @@ g
 
 a nun fare rrota \# महाजलसमीपेड महाजनपरेषु च । अग्न्युत्पाते महापस स्पृष्टास्पृष्टिने दुष्यति प्राप्य कारीन्द्रियं स्पृष्टमस्पृधि वितरेनियम् । योश्च विषयं प्राहुः स्वायुष्ठचभिधामतः ॥ Frequirt p. 79.176 
 
-History of Dharmasastra 
+
 
 ( Oh. IV 
 

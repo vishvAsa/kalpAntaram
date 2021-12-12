@@ -23,7 +23,7 @@ H. D. 89
 
 706 
 
-History of Dharmasastra 
+
 
 [ Ch. XIX 
 
@@ -51,7 +51,7 @@ my Indra for ten cows and might return it after he ( Indra ) bas killed enemies'
 
 T'fore IV. 19.708 
 
-History of Dharmasastra 
+
 
 | Ch, XIX 
 
@@ -89,7 +89,7 @@ Isana, his consort and his son 'Jayants' (the conqueror Skanda) are desoribed, i
 
 610 
 
-History of Dharmasastra 
+
 
 ( Ch. XIX 
 
@@ -149,7 +149,7 @@ Ars Asiatica (in French ), somo volumes of which such as vol. III (on Saiva scul
 
 714 
 
-History of Dharmatastra 
+
 
 [ Oh. XIX 
 
@@ -239,7 +239,7 @@ In medieval and modern times Viṣnu has been deemed to have descended to earth 
 
 1714. godt samaritat fortfarah: . IV. 26. 1; T इदमम आसीत्तदात्मानमेधावत् । अहं ब्रह्मास्मीति । तस्मात्तत्सर्वमभवयो यो देवाना प्रत्यागपत स एव तदभषचथर्षीणां तथा माल्याणां तदेवत्पश्यन्वषिर्षामदेवः प्रतिपदेडई ATTUTTET I g. 74. I. 4.10; ugun O meua ima .1.30.718 
 
-History of Dharmasastra 
+
 
 1 Oh. XIX 
 
@@ -277,7 +277,7 @@ FOI FFHTA Top I STOT ** ... ... : \# i gratuWT. XIT, 7. 8. 3-4 ; . VIII. 14. 13 
 
 720 
 
-History of Dharmatīstra 
+
 
 (Oh. XIX 
 
@@ -311,7 +311,7 @@ E. D. 91
 
 722 
 
-History of Dharmasāstra 
+
 
 1 Oh. XIX 
 
@@ -387,7 +387,7 @@ from the figure and .
 
 726 
 
-History of Dharmasastra 
+
 
 Ch. XIX 
 
@@ -425,7 +425,7 @@ ETITE HT17 TTH: 1 T. THOUT II. 14. This whole chapter is quoted by the fear T I.
 
 19 pp. 140-142 (in all with variations ).728 
 
-History of Dharmasastra 
+
 
 [ Oh. XIX 
 
@@ -531,7 +531,7 @@ blue lotus leaves, dhattara flower, saml flower, blue lotus, which is the best (
 
 734 
 
-History of Dharmatastra 
+
 
 [ Oh. XIX 
 
@@ -569,7 +569,7 @@ Prima). Tags igra muchYT T repp * कफनाशनं कमिहर दु�
 
 quoted in f I. p. 204, which 74. p. 88 reads WET PUT TOT. 
 
-History of Dharmasastra 
+
 
 106 XLI 
 
@@ -601,7 +601,7 @@ The Pūjāprakāśa (p. 194) quotes Harita prescribing that Maheśvara may be wo
 
 3. D. 03138 
 
-History of Dharmasastra 
+
 
 [ Ch. XIX 
 
@@ -633,7 +633,7 @@ In modern times devapāja differs considerably from the ritual of the ancient wo
 
 740 
 
-History of Dharmasastra 
+
 
 [ Ch. XIX 
 

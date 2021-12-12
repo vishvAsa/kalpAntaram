@@ -33,7 +33,7 @@ the former date than the latter) 200 B, C.-100 A, D.-Manusmrti
 
 H, DI 
 
-History of Dharmasastra 
+
 
 100 A. D-300 A D-Yājāavalkyasmrti 100 A. D.-300 A. D.-Visnudharmasutra 100 A. D.-400 A, D--Naradasmrti 200 A D-400 A,D-Sabara's bhāsya on Jaimin's Pūrva-mīmāmsā. 
 

@@ -11,7 +11,7 @@ POONA
 
 350 
 
-History of Dharmaśīstra 
+
 
 Kāmaśāstra.868 In the last parvan it claims that whatever is said in it would be found elsewhere and what is not con tained in it would not be found anywhere else i.e. it claims to be encyclopoedic and hence there was a great incentive to later scholars to add to it fresh matter. In the Udyoga parva (130. 18 ) and in Adi, 62. 20 the Mahābhārata is spoken of as Jaya (jayo nāmetihāsoyam śrotavyo vijigīsunā ) and in the last pwrvan ( 5.51 ) the epic is also called sumlitā (1. 16, 63. 90), Purina ( 1. 17), akhyina (2. 388-389 ), itihisa ( 1. 19 and 26 and 2.36, 41 and 62. 18), itihisottama (in 2.385), Kavya (1. 61 and 73, 2. 390 ), Karsnaveda ( 1. 268 and 62. 18). It further states ( Adi. 1. 52 ) that different beginnings of the epic existed. In the last parvan ( svargarohana ) it states that the epic is so called because of its greatness360 ( great extent) and the weightiness (of its contents ) and that the epic is equal (in importance ) to the 18 Purānas, all the Dharma Śāstras and the Vedas with their subsidiary lores (chap. 5 45-46 ). Adi (1.81) states 310 that there are 8800 ślokus in the whole work, the import of which only Vyūsu and Suka know and Sanjaya might know or not.371 It is further stated that 
 
@@ -527,7 +527,7 @@ FONED
 
 17872 
 
-History of Dharmasastra 
+
 
 the mouth of the female bird in Sāntiparva 148. 6–7.403 In the Ayodhyākānda 39. 30-31 Sitā repeats the same verse be fore Kausalyā when she prepares to go into exile with Rāma. Another famous verse of the propriety of punishing even a guru when he becomes conceited, fails to distinguish between what ought to be done or not to be done and who pursues the wrong path 403 occurs in both. The Sāntiparva (in 57.6 ) says that in former times king Marutta recited an ancient bloka in Brhaspati's treatise in the section on kings (Rājādhi kāra ) and that it is 57.7. Another verse that occurs in both epics is : all collections end in dissolution, all tall things end in falling down, unions end in separation, life ends in death.404 
 

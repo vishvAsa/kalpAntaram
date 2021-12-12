@@ -35,7 +35,7 @@ f i pateformer forang \# \# 7697. 937 q. by art p. 803, 911. \#. III 375, f. 5. 
 
 540 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

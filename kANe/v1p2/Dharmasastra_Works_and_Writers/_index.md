@@ -55,7 +55,7 @@ Fitfoafūfat i p. 34 of FulTETICHE.
 
 984 
 
-History of Dharmasastra 
+
 
 101, 102, 103 and 118). In his Pragjyotisa Souvenir Pandit Manoranjana Sastri points out (on p. 107) that one Pandit 
 

@@ -101,7 +101,7 @@ In the Indian Antiquary vol. 35 p. 129 there is a paper on Sati immolation which
 
 630 
 
-History of Dharmasāstra 
+
 
 1 Oh. XV 
 
@@ -173,7 +173,7 @@ H. D. 80
 
 634 
 
-History of Dharmasastra 
+
 
 [ Ch XV 
 

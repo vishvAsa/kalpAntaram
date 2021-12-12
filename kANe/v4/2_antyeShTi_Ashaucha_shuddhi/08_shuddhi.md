@@ -27,7 +27,7 @@ N
 
 268 
 
-History of Dharmasastra 
+
 
 [Vol. Manu v. 84 (na vardhayed-aghahāni) the word 'agha' has come to mean the same thing as āśauca. 597 The Padmapurāna II. 66. 73-74 states that since the outlets of the body always einit muous, urine &c, it is always impuro, 
 
@@ -179,7 +179,7 @@ I. 5, 125-128 q. by ra (STI) P. 9.
 
 *278 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -365,7 +365,7 @@ If a person is born or died at night or news thereof is received at night, a que
 
 288 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -395,7 +395,7 @@ H.D, 37
 
 290 
 
-History of Dharmasastra 
+
 
 I VOL 
 
@@ -565,7 +565,7 @@ The second class of exceptions refers to cases where certain persons, though the
 
 300 
 
-History of Dharmasastra 
+
 
 (Vol. It has 674 to be noted that the absence of āśausa in the case of oraftsmen, physicians and the like has to be restricted to the peculiar activities of these and does not extend to all actions such as religious rites, érāddhas and gifts This is clear from the words of the Visoudharmasūtra 675 22. 48-52. The Trimsacchloki (verse 18 ) 676 gives a long list of such peculiar activities The Kūrmapurāpa (Uttarardha 23 57-64) has nine Verses on this topic which are quoted by the Hāralatā (p. 114), 
 
@@ -605,7 +605,7 @@ Yaj. III, 6 provides 678 that women that have gone over to heterodox viets and p
 
 30% 
 
-History of Dharmasastra 
+
 
 Pot. 
 
@@ -685,7 +685,7 @@ II, D. 39
 
 306 
 
-History of Dharmadastra 
+
 
 (Vol. 
 
@@ -843,7 +843,7 @@ M E by JETER P. 106. 6. D. 40
 
 314 
 
-History of Dharmasāstra 
+
 
 (vol. 
 
@@ -939,7 +939,7 @@ ___716. अथ पुन मविठा । तामधिकृत्य ह�
 
 320 
 
-History of Dharmasastra 
+
 
 [Vol. Gayatri mantra appropriate to the idol repeated over it 100% OF 108 or 28 times and the idol should then be bathed with that 
 
@@ -1085,7 +1085,7 @@ Special rules are provided for the purification of vessels and implements used i
 
 328 
 
-History of Dharmatastra 
+
 
 (Vol. 
 

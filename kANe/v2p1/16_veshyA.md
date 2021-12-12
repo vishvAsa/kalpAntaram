@@ -17,7 +17,7 @@ From the Rgveda we find that there were women who were common to several mon i, 
 
 636 
 
-History of Dharmasastra 
+
 
 ( Ch. XVI 
 

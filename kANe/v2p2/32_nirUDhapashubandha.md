@@ -17,7 +17,7 @@ The animal sacrifice is an independent sacrifice and it is also performed in som
 
 1110 
 
-History of Dharmatāstra 
+
 
 [Ch. XXXII 
 
@@ -43,7 +43,7 @@ TT. VI. 1. 28.
 
 1112 
 
-History of Dharmatostra 
+
 
 (. XXXII 
 
@@ -77,7 +77,7 @@ D. 140
 
 1114 
 
-History of Dharmatastra 
+
 
 (Oh. XXXII 
 
@@ -105,7 +105,7 @@ that is the highest step of Viṣpu'( Rg. I. 22. 20, Vāj. S. VI. 5). Ap. (VII. 
 
 CTR F ire To WTEI. Jai. (in XI. 3. 8-12) ostablisbes that the starU is only one liko tbo yupa, even if there are many animals to be paorificed in the same yajia.1116 
 
-History of Dharmalāstra 
+
 
 (Oh. XXXII 
 
@@ -139,7 +139,7 @@ pray ja deitios uttered by Maitrāvaruṇa with soforenco to tho Apris.
 
 1118 
 
-History of Dharmasastra 
+
 
 ( Oh. XXXII 
 
@@ -171,7 +171,7 @@ those addressed to Tandnapāt only. He mentions an 11th Aprt bymn ocourring in t
 
 110 
 
-History of Dharmajāstra 
+
 
 ( Oh. XXXII 
 
@@ -201,7 +201,7 @@ and the latter replies 'astu srau3ṣat' and then the adhvaryu issues an upaprai
 
 1122 
 
-History of Dharmasāstra 
+
 
 (On. XXXII 
 
@@ -233,7 +233,7 @@ o led and meet the wife. The these in Agaia
 
 1124 
 
-History of Dharmatāstra 
+
 
 (Ch. XXXII 
 
@@ -269,7 +269,7 @@ Now preparations are to be made for the pasu-purodāsa2815 and the necessary ute
 
 2616. girdi TTUTTO PER I com, on Āp. VII. 12,1126 
 
-History of Dharmasastra 
+
 
 [ Ch. XXXII 
 
@@ -293,7 +293,7 @@ Pasubandha-paśupurodata
 
 1128 
 
-History of Dharmatastra 
+
 
 (Ch. XXXII 
 
@@ -317,7 +317,7 @@ H.D. 14%
 
 1130 
 
-History of Dharmalāstra 
+
 
 [ Oh. XXXII 
 

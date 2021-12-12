@@ -81,7 +81,7 @@ kindle Agoi in three places'). The Garhapatya fire is exprefs ly named in Rg. I.
 
 98% 
 
-History of Dharmadāstra 
+
 
 ( Oh. XXIX 
 
@@ -193,7 +193,7 @@ on Ap. V. 17. hoding that those were while Āp.
 
 990 
 
-History of Dharmasastra 
+
 
 (Ch. XXIX 
 
@@ -253,7 +253,7 @@ He (the adhvaryu ) invokes the fire with the mantra 'upd Varoha jātavedaḥ '(T
 
 994 
 
-History of Dharmatastra 
+
 
 [ Ch. XXIX 
 
@@ -317,7 +317,7 @@ Punarādheya: When within a year after a man sets up the Vedic fires he suffers 
 
 2255. The com. on Kāt, IV. 10. 5 explains gorgt sura: quista:. The procedure ordinarily applying to all abutis of clarifiod butter is: Tbe adhvaryu puts butter into the butter-pot, which is placed on the garba patya fire to melt. Having wiped the sruva (dipp jog spoon) and juhu (offering spoon) with darbb. grass and having taken the butter pot off the fire be dips two darbha blados used 48 strainers (pavitra ) into the beated butter and fills the jabū with the Bruva. Then he takes a samidh, walks over to the north side of the abayaniya, strews darbha grasa round it and puts the samidb on that firo, Then be sits down with bent right knoo, pours the butter in the juhū on to the fire with the word syahe and the sacrificer utters tho formula bagaaya idan'na mama'. This holda good in agayadheya and agaibotra, but in many other rites the principal (pradhana) offerings are offered wbile the priest is standing.998 
 
-History of Dharmasāstra 
+
 
 (Ch. XXIX 
 
@@ -405,7 +405,7 @@ replies standing 'Yes, do take out'. Then the adhvaryu holds in his right hand t
 
 1004 
 
-History of Dharmasāstra 
+
 
 (Oh. XXIX 
 
@@ -429,7 +429,7 @@ east, bends his knee, offers the samidh in the gārbapatya fire, then drawing ou
 
 1006 
 
-History of Dharmasāstra 
+
 
 (Ch. XXIX 
 
@@ -455,7 +455,7 @@ The gūtras set out rules about what the householder is to do when he leaves his
 
 samsya paśūn me pahi', 'narya prajām me pahi' and' atharva pitum me pahi'(all three in Vāj. S. III. 37). Then while stand ing near the dakṣiṇāgni he should look at the other two with the mantra ' imān me mitrāvaruṇāu grbān gopāyatam ...... punar dyanat' (Kathaka S. VII. 3., Mai, S. I. 5. 14, with variations ). He then traces the same way back and comes to the dhavaniya and offers worship to it with the mantra 'mama nāma' (Tal. S. 1. 5. 10.1, quoted in note 553 above). He should then start on his journey without looking back at his fires and should mutter the hymn 'mā pranama.' When he reaches a place from which the roof of his fire-house is not visible he may break silence. On reaching the road leading from his house to1008 
 
-History of Dharmasastra 
+
 
 [ Ch. XXIX 
 

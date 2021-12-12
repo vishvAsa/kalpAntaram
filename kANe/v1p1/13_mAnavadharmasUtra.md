@@ -13,7 +13,7 @@ Some western scholars, particularly Max Müller and Weber, started the ingenious
 
 144 
 
-History of Dharmasastra 
+
 
 and guests'. There follow two verses and a passage in prose with iti at the end. Buhler argues that all the four sūtras are quotations and as the extant Manusmrti is in verse, they must be regarded as taken from the Mānavadharma sūtra. (II) There are other quotations in Vasintha attributed to Manu which either contradict the present Manusmrti or have no counterpart in the latter. Bühler draws special attention to the fact that Vasistha (19, 37) quotes & Mānava Sloka which is not in the anustubh metre and which has nothing corresponding to it in the extant Manusmrti. (III) A fragment of Uganas quotes an opinion of Manu about impurity, which is in prose.144 Bühler himself points out that here one ins. reads 'Sumantuḥ' for 'Manuh'. Therefore, this argument is of very little use in establi shing the existence of a Mānavadharmasūtra. Besides, it is possible that the mutilated passage is not a quotation at all, but a mere summary of Manu's views. There is no 'iti' at the end to show that it is a quotation. (IV) Kāmanda kiya.nītisāra (II. 3) says that according to the Mānavas the villyas to be studied by a king are three, viz. the three Vedas, Vārtā, and Dandaniti and that what is called Anviksiki is but a branch of trayī; while the Manusmrti ( 7. 43 ) appear to reyard the four as distinct vidyas,148 Kimandaka (XI. 67 ) says that Manu prescribed that the council of ministers should consist of twelve ;146 while Manu (7. 54 ) says that the * 8ucivas' should be seven or eight. Biihler therefore argues that Kimandaka has in mind the Minavadharmasūtra and 
 

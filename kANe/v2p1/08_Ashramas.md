@@ -79,7 +79,7 @@ mata TorT*9:49 TiinfNI. 34. III, 1. \#48 is oxplained by शंकरानन�
 
 420 
 
-History of Dharmasastra 
+
 
 | Ch. VIII 
 
@@ -181,7 +181,7 @@ The word āśrama is derived 11 from 'śram' to exert, to labour and etymologioa
 
 1. D. 54426 
 
-History of Dharmasastra 
+
 
 [ Ch. VIII 
 

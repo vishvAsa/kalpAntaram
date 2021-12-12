@@ -37,7 +37,7 @@ As seen above (p 262, note 591a) Ekoddista śrāddhas are of three kinds, nava, 
 
 518 
 
-History of Dharmasastra 
+
 
 [Vol. Numerous works lay down that there are sixteen śrāddhas which must be performed for a deceased person and that if these are not performed then his spirit is not freed from the condition of being a preta and a pośāca 1157 There is a great deal of diver gence of views about what these sixteep śrāddhas are, some works including sapindįkarapa among the 16, others excluding it therefrom, Gobhilasmrti III 67 enumeratesi15s the 16 as follows: The twelve monthly śrāddhas (performed every month on the ththi of death), the first (i. e. the sraddha on the 11th day), two śrāddhas on (a day prior to the expiry of) every six months from the tithi of death and sapindikarada are the sixteen śrāddhas, The Garudapurāna 1159 refers to three groups of sixteen, one of which enumerates the 16 śrāddbas as those performed on the 12th day (after death), after three fort nights, after six months, after every month and at the end of the year, thile the Padmapurāna 1160 enumerates them as follows: the sixteen sraddhas are those performed on the 4th day after death, at the end of three fortnights, after six months, after a year and twelve śrāddhas performed each month (on the tith of death) The Kalpataru p.25 and Brahmapurana g. by Apararka (p. 523) state that the 16 sraddhas are those performed on 4th, 5th, 9th and 11th days after death and the twelve monthly śrāddhas (on the tithi of death 1161 ). Laugāksi and 
 
@@ -103,7 +103,7 @@ H.D. 66
 
 522 
 
-History of Dharmasastra 
+
 
 [Vol. Pitrmedhasūtra II, 12.12, in this sraddha there is invitation to the brāhmanas the previous day, there is agnaukarana, there is the recital of Vedic texts when the brāhmanas are engaged in eating, Vaidvadeva brāhmanas are honoured, the Viśvedayas are Kama and Kāla (vide n. 1018), there is the presentation of incense and lamp, there ja svadla and also namaslāra. Four vessels for arghya should be got ready and filled with sandal wood paste, water and sesamum grains, one being for the deceased (the meta) and three for his paterna) ancestors, two daiva brāhmanas should be invited, one to represent the preta and three to represent the three paternal ancestors of the prela; if a man is unable to invite so many brahmanas, be should invite three, one for Viśvedevas, one for the pieta and one for the three paternal ancestors. He should request 'I shall unite the vessel for the preta with the vessels for his thres paternal ancestors' When permitted in the words do unite', he should cast the kuśas in the vessel for the preta into the vessels for his three paternal ancestors, should keep a little water mixed with kuśas in the vessel for the preta and distribute the rest of the water froin the preta vessel into the three vessels for his ancestors with the two mantras 11*** 'ye samāna' (Vā), S. 19, 45-46) Arglya is offered to the brahmana representing the preta with the water that remains in the preta vesse), arghya is offered to the three patria brahmanas from the three pitrya Vessels. Four pindas should be prepared, one for the prela and three for his ancestors and then the performer requests *I shall unite the protapinda with the pindas for the three ancestor's of his'; when permitted in the words 'do unite ', tha performer divides the pretapinda into three parts and puts each third into each of the three pindas with the same tio mantras (Vāy. S 19. 45-46). The Garudapurana (1, 220,6 ) strikes a discordant note in that it states that the pretapında is to be divided in two parts, each of which is to be placed inside tho pindas for pitamala and prapitāpaha only. 
 
@@ -125,7 +125,7 @@ It may be noted that in some works the mantras recited at the time of pouring th
 
 524 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -159,7 +159,7 @@ The Abhyudayıka-śrāddha is to be now described. Asv. gr. IV. 7 mentions in on
 
 526 
 
-History of Dharmasastra 
+
 
 { Vol. gr, and Gobhila gr. are very brief. They say that in this sraddha performed on auspicious ocoasions or on the under taking of meritorious acts an even number of brālimapas is to be fod, that the rite is to be performed from left to right and that yavas barley) are to be used instead of gesamum grains, As this Srāddha is only a modification (Vikrti) of pārvana ( as said by Aparārka . 514) all rules of the latter will be applicable to the former except where special directions are given. The Aśv. gr. pariśista II. 19, Smrtyarthasāra (1. 56), Pitrdayita pp. 62-71 give a compact but tolerably full description of this sraddha. 
 
@@ -197,7 +197,7 @@ of the a
 
 528 
 
-History of Dharmadastra 
+
 
 [ Vo śrāddha mean the same thing. As noted by the Mit, on Yāj. 1. 250 quoting Sātātapa tbis sraddha is made of three parts, viz. mātr-śrāddha, pitrśrāddha and mātāmahaśrāddha, "80 On the other hand the Bhavisya-purada I 185. 15 states that there are two śrāddhas in this viz Mātr-śrāddha and Nandimnkha-piti śrāddha. Abhyudayika-śrāddha and Vrddhjśrāddha are treated as synonyms in some works such as the Padmapurāna, 1191 though it may be said that Abhyudayika śrāddha is wider in import than Vrddhiśraddha, since it is also applicable to sraddha performed on the commencement of a purta act. 
 
@@ -437,7 +437,7 @@ erina'45, 48.
 
 54% 
 
-History of Dharmasastra 
+
 
 pp. 225-230, Antyegtipaddbati of Nārāyapabhatta present a far more elaborate description, but from considerations of space thoy are passed over here. It is provided in these and other digosts that such a bull should not be seized by anyone nor made to draw a vehicle and the cow Or Cows let loose along with him should not be milked nor confined in a cow-pen. A bull is not lot loose for a deceased woman, but a cow may be donated together with its calf without being branded and after being decked with sandal-wood paste,1nzia 
 
@@ -467,7 +467,7 @@ arat appears to be an adaptation of Eiga UEFTET (Rg. I. 3,11).
 
 544 
 
-History of Dharmadāstra 
+
 
 [Vol. he should himself bathe his body with (the water in) the jars with verses of Purusasūkta and with paroagavya and pure water and eat in the evening food mixed with sesamum grains togethor with clarified butter. He should give dinner to brābmanas for the gratification of the servants of Yama. On the 4th day ha burns (the effigy) with mantras. He should offer water and pinda with the words 'pinda to me of such and such a gotra for benefit in the next world, svadhā namah.' With these words ho should bring to a close the ride. He should observe impurity for ten days for himself, but his agnates have not to observe impurity for him. On the 11th day he porforms ekoddista, They also cite the following verse 'one who is in distress, a woman and a śūdra having burnt one's body (ie effigy) with mantras should perform all rites on that very day. This is the revela tion. In the oase of women the rite is performed silently or with (?) Vedic mantras. In this way he should perform his own śrāddha every month for a year and at the end of each year up to twelve years. And then he should stop. When he is not able to do all these (himself) his son and the like may perform them. They also reoite the following verae; Although heirs may be alive one may perform one's śraddha while alive, having quickly set about doing everything according to the rules, except Sapindana. One should not make dolay as to the timo specified above, since life is evanescent," 
 
@@ -495,7 +495,7 @@ The Purānas and digesta devote a good deal of space to śrāddhas at tirthas an
 
 546 
 
-History of Dharmalāstra 
+
 
 [Vol. Much is said on the question whether sraddhas should be performed in the intercalary month. The intercalary month is called by various names, vir, Malimluca (Kathaka Sam. 38. 14),1226 Samsarpa or Amhasaspati (Vajs.1.30 and 22.31), Mals māsa, Adhimāsa. An intercalary month is known even to the Rg veda (Rs. I.25.8). The vendor of soma and the thirteenth month are condemned as papa (sinful) in the Aitareya Brahmanasam. The Puranas tried to bolster up the intercalary month by calling it Parusottama-masa (1. e. the month of Visnu) but the origina] stigma attaching to the 13th month seczas to have persisted. The general rule about an intercalary month is stated by the Grhyaparisista.1228 "the month called Malimluca is pottuted and springs from sin; it is condemned for all acts; it should be discarded in all rites in honour of gods and pitrs. But exceptions to this sweeping prohibition have been recognized. Harita provides 1229 that all sraddhas that come after Sapindada are not to be performed in an intercalary month, Vydsa laid down 1230 that such ceremonies as jātakarma, apaaprāśana, the navaśraddhas, sraddha on Maghā and the thirteenth tithi, the sixteen śrāddhas, bath, gifts, jape and śrāddha at the time of the eclipse of the sun or moon these should be performed byen in an intercalary month. The Smrtimuktāpbala concludes (p. 728) that there is no blemish in performing a sraddha in an intercalary month provided it is to be performed before the end of one year from death. It is provided by Burgu 1231 that tha sārnyatsarika sraddha of those who die in an intercalary month 
 
@@ -535,7 +535,7 @@ AT THT: Traian sbid folio 266 2.
 
 40 
 
-History of Dharmasastra 
+
 
 I Vol. Sif impurity (on death) interrenes Then a śrāddha is to be offered to the piers, srāddha should be offered at the end of the period of impurity. If an obstacle arises at the time when an ekoddista is to be performed, the śrāddha should be performed in another month on the sane tithi. This last refers to a monthly śrāddha. If any of the sixteen śrāddhas fails owing to an obstacle it should be performed on the amārasyā or better still on the 11th day of the dark half. If there is an obstacle oning to impurity on death in the performance of a montbiṣ śrāddha or searis śrāddha it should be performed at the end of the impurity or on amārāstā. 134 The Padmapurāda (Palalakbanda 101, 68-70) Provides similar rules. obstacle is the performer's illness or his inability to collect 
 
@@ -585,7 +585,7 @@ one's hear admirablemain unca
 
 550 
 
-History of Dharmadāstra 
+
 
 [ Voi, 
 

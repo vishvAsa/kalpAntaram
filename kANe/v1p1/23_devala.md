@@ -69,7 +69,7 @@ FOUN
 
 191282 
 
-History of Dharmasastra 
+
 
 nārinām dāsānām svāmini sthite i tadvan-niyatam--asvimyam sarvārthes vabravin Manuh'. Compare Adiparva 83.21, Udyo gaparva 33.64 and Manu VIII. 416. 
 
@@ -95,7 +95,7 @@ POON
 
 384 
 
-History of Dharmasastra 
+
 
 . It would be a great service if some scholar put togeo ther in one volume all the passages of Devala occurring in Kalpataru, Aparārka, and other early nibandhas with notes aboutparallel passages &c. 
 

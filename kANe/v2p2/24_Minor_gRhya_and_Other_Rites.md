@@ -117,7 +117,7 @@ H a rgrate farathi Fargt in which is Vaj. 8. 39. 7. But Oldenberg (in SBE vol. 2
 
 826 
 
-History of Dharmasastra 
+
 
 [ Oh. XXIV 
 
@@ -177,7 +177,7 @@ The full moon day of Mārgaśirṣa is called Agrahāyani; the rite 1958 perform
 
 830 
 
-History of Dharmatāstra 
+
 
 ( Oh. XXIV 
 
@@ -281,7 +281,7 @@ In modern times the ceremony of entering a newly built house is an important one
 
 836 
 
-History of Dharmasastra 
+
 
 [ Oh. XXIV 
 

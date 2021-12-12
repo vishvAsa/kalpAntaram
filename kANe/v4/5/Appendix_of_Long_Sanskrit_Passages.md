@@ -5,7 +5,7 @@ title = "Appendix of Long Sanskrit Passages"
 
 828 
 
-History of Dharmasāstra 
+
 
 [Vol. 
 

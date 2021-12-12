@@ -20,7 +20,7 @@ section. 150a एतत्ते राजधर्माणां नवनी�
 
 150 
 
-History of Dharmasastra 
+
 
 expounders of Rājaśāstra (Rājaśāstraplanetāraḥ), viz. Bphas pati, Viśālākṣa, Kavya, Indra, Prācetasa Manu, Bharadvāja, Gauraśiras. Rājaniti is called “Rūjyatantra” in the Malila plate of king Dhruvasena II of the year 323 of Valabhi Gupta era (i. e. 641-42 A. D.) in JOI. (Baroda ), vol. X. No. 2 at p. 127. Rūjaniti or Nitiśāstra is described as the nectar or quintessence of the ocean of Arthasūstra in Kama nadakıya Nitisāra (1. 6). Kautilya himself employs the word Rājaniti in V. 4. 3. Rājaniti (Government and Politics ) is dealt with in Dharmasūtras and smrtis also (briefly or at length ) as in Gaut. Dh. S. (X-XIII), Manu (VII-VIII ), Yājsa valkya (I. 309-68 and II. 1-307 ). Dharmaśāstras deal with all aspects of society and therefore they deal with Rājadharma also. Dandaniti is another name for the Sāstra which has to be considered. Daula literally means 'a stick or staff of a tree for driving cattle (vide Rg. VII. 33. 6) but it came to mean also the power of control and punishment' i. e. it conveys the power of the king or supreme ruler called “Dandadhara' or 'Dundadhāra' to dispense justice and to punish wrong-doers. The Gaut. 1000 Dh. S. (XI. 28 ) states that the word "Danda' conveys the idea of controlling (or suppressing) and (the king should keep under control (or suppress ) those who do not control themselves i. e. Dandaniti is the science of Government. Kautilya refers to it in the Arthaśāstra 1. 3-4. The Sānti 
 

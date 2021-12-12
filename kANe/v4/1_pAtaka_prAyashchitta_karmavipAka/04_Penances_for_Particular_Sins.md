@@ -79,7 +79,7 @@ Continued on the next page
 
 caste (. nintentionska saya thats sense 
 
-History of Dharmasastra 
+
 
 dharmasūfra (chap. 35 last verse ) states that all persons guilty of any of the 'mahāpatakas are purified by the performance of Aśvamedha or by going to all the tirthas on the earth. 
 
@@ -183,7 +183,7 @@ H.D. 13
 
 98 
 
-History of Dharmasastra 
+
 
 (Vol 
 
@@ -249,7 +249,7 @@ H
 
 102 
 
-History of Dharmasastra 
+
 
 Vol. 
 
@@ -505,7 +505,7 @@ __266. म्लेच्छेहतानां चोरैर्वा क�
 
 118 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -539,7 +539,7 @@ The procedure for undergoing penances for sins and lapses prescribed by the asse
 
 120 
 
-History of Dharmasastra 
+
 
 [Yol 
 

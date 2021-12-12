@@ -153,7 +153,7 @@ and notes ). Laghu-Atri (Jiv.). Laghu-Harita ( Jiv. and Anan.). Laghu-Saṅkha (
 
 Ixviii 
 
-History of Dharmasāstra 
+
 
 Laghu-Vispu ( Anan.). Laghu-Vyāga ( Jiv.). Lagbvāśvalāyana.- Anan.). Likhita-smrti-(Anan.). Manusmrti with the commentary of Kullūka (Nirnayasāgar ed.). Manusmṛti with the commentaries of Medbātithi, Govindarāja, 
 
@@ -301,7 +301,7 @@ H. D. F
 
 xlii 
 
-History of Dharmadāstra 
+
 
 Nirukta of Yaska-edited by Roth. The edition of Prof. 
 
@@ -379,7 +379,7 @@ time' translated in English by Dr. S. K, Maitra ( Calcutta,
 
 1928 ). Fleet's Gupta Insoriptions (Calcutta, 1888). Dr. Ghuryo's 'Caste and Race in India'( London, 1932).ativ 
 
-History of Dharmasāstra 
+
 
 Grant-Duff's History of the Marathas in three volumes ( Bonabay 
 

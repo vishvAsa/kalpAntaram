@@ -17,7 +17,7 @@ One important matter is that of vratādhikāriṇaḥ (persons entitled to engag
 
 16326 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. III 
 

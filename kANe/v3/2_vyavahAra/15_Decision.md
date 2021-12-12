@@ -25,7 +25,7 @@ g\# apparently regards sargs as one,
 
 380 
 
-History of Dharmasastra 
+
 
 [Voi. 
 
@@ -85,7 +85,7 @@ TR 1 Fitjater ac i 4. q. by FARTT OD or II. 40 and 26, TV p. 645, n. II. pp. 121
 
 384 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -129,7 +129,7 @@ HOTEL UTT. And rear* g. by 14. X. p. 91. 609. PITIURTAT PETTI adet . II, 31.
 
 386 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -161,7 +161,7 @@ a
 
 388 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -195,7 +195,7 @@ tra T T TIO SPAS MITT I TO X after verse 11.
 
 390 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -215,7 +215,7 @@ Manu VIII. 129, Yāj. I. 367 and Br. (S. B. E. 33 p. 387 verse 5), Vṛddha-Hār
 
 Port TV. g. by lae. II. p. 126 and tour. f. p. 528.392 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -311,7 +311,7 @@ IX. 237 and 240, Viṣnu Dh. S. V. 4) is to be made on the forehead only if the 
 
 398 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -371,7 +371,7 @@ T
 
 UYT kafant autant tant are the402 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -391,7 +391,7 @@ the wife of an uncle, friend or pupil, daughter, daughter-in-law, teacher's wife
 
 404 
 
-History of Dharmadāstra 
+
 
 [Vol. 
 
@@ -495,7 +495,7 @@ ME
 
 410 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

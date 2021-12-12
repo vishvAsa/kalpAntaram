@@ -17,7 +17,7 @@ Though an elaborate treatment of customs in niodern Anglo-Indian Law is far beyo
 
 970 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -61,7 +61,7 @@ Oustoms must not be immoral. Whether a custom is immoral is to be judged by the 
 
 1898. Deivanayaga v. Muthu 44 Mad, 329, 333,972 
 
-History of Dharmasastra 
+
 
 [Voi: 
 

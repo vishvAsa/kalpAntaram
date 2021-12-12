@@ -25,7 +25,7 @@ priyam', but Pandit Gaṭṭulal coojects it with • sadācāra' which means bc
 
 826 
 
-History of Dharmadāstra 
+
 
 ( Vol. 
 
@@ -59,7 +59,7 @@ T.' OA I. 7 FATTA* says, पुराणादीनो स्वर्गाद
 
 828 
 
-History of Dharmatastra 
+
 
 [Voi. 
 
@@ -215,7 +215,7 @@ E I FATTUT.
 
 838 
 
-History of Dharmadāstra 
+
 
 [ Vol. 
 
@@ -277,7 +277,7 @@ In I. 3. 5-7 Jaimini as interpreted by Sabara 1635 deals with the topic of the a
 
 106842 
 
-History of Dharmadāstra 
+
 
 ( Vol 
 
@@ -357,7 +357,7 @@ mode of proof called arthāpotti for this 1643. His words are given below. This 
 
 848 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -457,7 +457,7 @@ The requisites of valid customs ag laid down by the emi. nent writers of the Pur
 
 854 
 
-History of Dharmatūstra 
+
 
 I Vol. 
 

@@ -189,7 +189,7 @@ relation to sovereignty over people are not clear. They are probably hyperbolica
 
 66 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -265,7 +265,7 @@ ar VI,
 
 70 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -313,7 +313,7 @@ are a g rafai. . 39. 1.
 
 74 
 
-History of Dharmasāstra 
+
 
 [Vol. 
 
@@ -493,7 +493,7 @@ i Trogir
 
 86 
 
-History of Dharmajāstra 
+
 
 [ Voi. 
 
@@ -595,7 +595,7 @@ These frantic efforts by such scholars as Jayaswal to prove that India had elect
 
 Two other words require consideration, viz. Paura and Jūnapada. The word 'paura' occurs in Rg. V. 74, 4 where it has three applications, viz. to the Aśvins, to the sage Paura ( who was an Atreya) and to the cloud (acc. to Sāyana ). K. P. Jayaswal ( in 'Hindu Polity', part II pp. 60-108 ) devotes considerable space to 'Paura' and 'Jānapada' and one may at unce admit that he displays great learning, industry and ingenuity in his discourse on this subject. He holds that the Paura and the Jānapada were elective parliamentary bodies or what may be called the Hindu Diet and he sums up (on p. 108 ) their functions as follows 'we had an organism or a twin 
 
-History of Dharmasāstra 
+
 
 [ Vol. 
 
@@ -643,7 +643,7 @@ E. 39. 1. 4. 14.
 
 98 
 
-History of Dharmatastra 
+
 
 (Vol. 
 

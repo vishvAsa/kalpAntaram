@@ -69,7 +69,7 @@ ___ In the Tai. Br. III.683 10. 11 there is the story of Bharadvaja who remained
 
 272 
 
-History of Dharmasastra 
+
 
 ( Oh, VII 
 
@@ -105,7 +105,7 @@ It appears from the above and from the Upanigad pagsages set out immediately bel
 
 8. D. 35 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -133,7 +133,7 @@ Proper age for Upanayana
 
 639.98 Murugu drag raga quran Fritera I ATRITT. 11.12. . . adds mora Aun or and प्रानुग्यपन्त पोखले सर्पकाममिति।276 
 
-History of Dharmasastra 
+
 
 i Ch. VII 
 
@@ -173,7 +173,7 @@ et 1. p. 27.
 
 278 
 
-History of Dharmasastra 
+
 
 [Ch. VII 
 
@@ -209,7 +209,7 @@ het formaatis compare the quoti. 2. 4 a re free TFTTTT na मममस्मा�
 
 280 
 
-History of Dharmatustra 
+
 
 [ Ch. VII 
 
@@ -295,7 +295,7 @@ the husband
 
 284 
 
-History of Dharmasastra 
+
 
 [Ch. VII 
 
@@ -339,7 +339,7 @@ by a
 
 668. Vide Koay in Ancient Indian Education' p. 23 whero he says it was still the rule for brāhmadas to be rocoivod ac studonte.' Dr. Gburyo in Custo and race in India 'p. 48 merely ropouts this diotom. :286 
 
-History of Dharmasastra 
+
 
 ( Oh. VII 
 
@@ -371,7 +371,7 @@ Yajñopavita 690 :--A few words must be said on the history of yajñopavita from
 
 288 
 
-History of Dharmasastra 
+
 
 [Ch. VII 
 
@@ -445,7 +445,7 @@ fit in Manu II. 44 as 'terrarurarum fuguftorgi seset Ara E
 
 292 
 
-History of Dharmasastra 
+
 
 i . VII 
 
@@ -559,7 +559,7 @@ om bhur bhuraḥ ayah') and then the yajāopavita is to be put on with the mantr
 
 298 
 
-History of Dharmasastra 
+
 
 ( Ch. VII 
 
@@ -593,7 +593,7 @@ afror i sir, y. I. 1. 1..6.
 
 300 
 
-History of Dharmatastra 
+
 
 [ Ch. VII 
 
@@ -627,7 +627,7 @@ Brabma.
 
 302 
 
-History of Dharmasastra 
+
 
 [ Ob. VII 
 
@@ -661,7 +661,7 @@ og het afzet n i a neten a un 19. 71. 1.
 
 304 
 
-History of Dharmasastra 
+
 
 [Ch. VII 
 
@@ -697,7 +697,7 @@ On the 4th day after upanayana a rite was performed called Medbājangna "* ( gen
 
 6. D. 39306 
 
-History of Dharmasastra 
+
 
 | Ch. VII 
 
@@ -891,7 +891,7 @@ A y aata torti पो.ध.. II. 4. 11-14. The verses इमं मे वरु�
 
 749. FATHEY THER. WI. I. 5. 10; compare *19. . \#. I. 5 16. 4-5. PURIFTSTART variasi316 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -937,7 +937,7 @@ a rt m orta. II. 4-6, samo is intą X. 9. 1-3. Tho. T. III. 9.7 has
 
 318 
 
-History of Dharmasastra 
+
 
 [Ch. VII 
 
@@ -991,7 +991,7 @@ n ogle start of the latter verset.
 
 320 
 
-History of Dharmasastra 
+
 
 [ Oh. VII 
 
@@ -1137,7 +1137,7 @@ The study of the Veda was the first duty of every twice born person (dvijāti). 
 
 328 
 
-History of Dharmasāstra 
+
 
 [ Oh. VII 
 
@@ -1241,7 +1241,7 @@ ang' &c. Of Gant. II. 28 Haradatta gives two explanations ( HTHa either nueans A
 
 334 
 
-History of Dharmadastra 
+
 
 I Ch. VII 
 
@@ -1271,7 +1271,7 @@ dar p. 7; el. v. . (I2. 26 TT with \#TUWIRTUTARE) says that the ears are touched
 
 T I SITT. I. 4. 14. 16.336 
 
-History of Dharmatastra 
+
 
 [ Ch. VII 
 
@@ -1311,7 +1311,7 @@ fa: 1: I TOT I ST9. . I, 2.5, 16-17; vido \#. \#. p. 484
 
 338 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -1383,7 +1383,7 @@ apd sy is added to the consonantx). Vide KM. Pp. 451-464.
 
 342 
 
-History of Dharmasastra 
+
 
 ( Oh. VIL 
 
@@ -1423,7 +1423,7 @@ From Ap. Dh, 8. 1. %. 7. 28 and I. 4. 13, 12830 it appears that the system of pu
 
 344 
 
-History of Dharmasastra 
+
 
 Ch. VII 
 
@@ -1455,7 +1455,7 @@ qua raia mea ag 7787106 ART 13. 3. 24. forg was the name of the sage.
 
 7. D. 44346 
 
-History of Dharmatastra 
+
 
 1 Oh. VII 
 
@@ -1495,7 +1495,7 @@ Great controversies have raged round the question whether the art of writing was
 
 348 
 
-History of Dharmatāstra 
+
 
 [ Ch. VIL 
 
@@ -1539,7 +1539,7 @@ ___847. संस्कृतेः प्राकृतैर्वाक्�
 
 $50 
 
-History of Dharmatastra 
+
 
 i Ch. VII 
 
@@ -1651,7 +1651,7 @@ Even in early times & very extensive literature on Dharma-sāstra had come into 
 
 p e r a forma pagarorata for oft माहीतानि दोपवाटावशधर्मसंहितापुराणशासशिक्षादण्डनीतिसंज्ञकानि । तन्त्रवासिक p. 201 on 2.1.3. 6; vide aloo p. 195.356 
 
-History of Dharmasastra 
+
 
 Ch. It 
 
@@ -1693,7 +1693,7 @@ TATTET Terra TTTT SPOTPp. 74-75 quoting ; printed FAST ( 14. 86–87) has the ar
 
 358 
 
-History of Dharmadāstra 
+
 
 ton. VII 
 
@@ -1731,7 +1731,7 @@ The well-known verge er tota cor fear mai faci FATET E पुनरागमन�
 
 $60 
 
-History of Dharmasastra 
+
 
 t Ch. VII 
 
@@ -1833,7 +1833,7 @@ i m.9. II. 4. 3 and IV. 6.4.
 
 h366 
 
-History of Dharmasastra 
+
 
 ( Cb, VII 
 
@@ -1921,7 +1921,7 @@ p. 77). At the beginning of each of these three vratas there is a separate upana
 
 372 
 
-History of Dharmasastra 
+
 
 [ Oh. VII 
 
@@ -2065,7 +2065,7 @@ Mr. Justice Telang writes ratber like a judge than like a scholar or
 
 380 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -2091,7 +2091,7 @@ Kalāpagrāma, are endowed with great yogio powers, will revive the ksatriya rac
 
 382 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -2121,7 +2121,7 @@ ETTATA TT wrot prepare former on 8. 1. 3. 10.
 
 384 
 
-History of Dharmasastra 
+
 
 ( Ch. VII 
 
@@ -2151,7 +2151,7 @@ A few words may first be said about the Vrātyastoma. The Tāṇdya-Mabābrāhma
 
 8. D. 49386 
 
-History of Dharmadāstra 
+
 
 ( Oh. VII 
 
@@ -2233,7 +2233,7 @@ In modern times there is a movement among Hindus called fuddhi or patitaparāvar
 
 392 
 
-History of Dharmajāstra 
+
 
 ( Ch. VII 
 
@@ -2273,7 +2273,7 @@ A. D. 50
 
 394 
 
-History of Dharmasastra 
+
 
 1 Ch. VII 
 
@@ -2321,7 +2321,7 @@ Tan TTiD T I. p. 57,
 
 941. The verses on go rus are faggrup III.14.13. ff. Tho \#Y error (17. 4-5) gives similar versos. Vide m . I. p 59 for theso versos. According to soino Migla Amavasy& is fog a r.396 
 
-History of Dharmasastra 
+
 
 ( @h, VII 
 
@@ -2441,7 +2441,7 @@ H. D, 51
 
 402 
 
-History of Dharmasastra 
+
 
 [ Ch. VII 
 
@@ -2637,7 +2637,7 @@ not be restless in his sexual desires or with his hands and feet, speech and eye
 
 414 
 
-History of Dharmaldstra 
+
 
 ( Ch. VII 
 

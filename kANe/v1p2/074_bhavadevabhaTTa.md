@@ -107,7 +107,7 @@ T 20
 
 644 
 
-History of Dharmasastra 
+
 
 Unexpected light is thrown on the personal history of Bhavadevabhatta by an inscription found in the temple of Ananta Vasudeva at Bhuvanesvara in the Puri District of Orissa edited by Kielhorn in E. I. vol. VI, p. 203, which eulo. gises Bhavadevabhatta, the identity of the author Bhavadeva with the person eulogised being established by the unique epithet, Bālavalabhībhujanga applied to the latter.878 The eulogy is composed by a person called Vācaspatikavi. Bhava. deva belonged to the Sāvarṇa gotra of the Kauthumi school of the Sāmaveda. The family belonged to Siddhalagrāma in Radha ( west of the Hugli and south of the Ganges ). The pedigree given in the inscription is : Bhavadeva ( who received from the Gauda king in gift the agrahira of Hastinibhitta ) son Rathānga-son Atyanga-son Budha-son Sri Adideva ( wife Sarasvati), who was Prime Minister of Vahaya king )-son Govardhana ( wife Sāngokā, daughter of a Vandyaghatiya brāhmana- ) son Bhavadeva Bāla valabhibhujanga, Minister of Harivarmadeva and his son. In the Inscription he is declared to be a second Varāha (i. e. Varāhamihira ). Vide pp. 478 480 ( of H. of Dh. Vol. V ) for the three branches of Jyotiṣa. The Brhatsambitā of Varāhamihira states that Jyotiḥ-śāstra has three branches ( skandhas ) and a work dealing with all three branches is called 'Samhita' (Bṛ. S. I. 9). The three branches are called Ganita or Tantra, ( mathematical calcula tions of the motions of planets &c ), Horā ( or Jātaka ) that dealt with horoscopes and astrology and the third was called Sākhā. The inscription further claims that Bhavadeva was an expert in the Pūrvamīmāṁsā as propounded by Kumārila 
 

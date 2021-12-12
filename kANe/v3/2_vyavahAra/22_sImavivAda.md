@@ -29,7 +29,7 @@ and are buried inside the earth. Manu (VIII. 250-251 ) enume rates those objects
 
 504 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -57,7 +57,7 @@ that a single witness however confident he might be (or how over reliable ) shou
 
 506 
 
-History of Dharmasastra 
+
 
 [Vol. 
 

@@ -23,7 +23,7 @@ a fer :AUTO ON AY IX. 59. En differs and oxplains tiqa 18. 5 as gft: gracat: faq
 
 600 
 
-History of Dharmasastra 
+
 
 [ Ch. XIII 
 
@@ -57,7 +57,7 @@ may be appointed to procreate a kṣetraja son, who should get the inheritance."
 
 80% 
 
-History of Dharmasastra 
+
 
 [ Oh. XIII 
 
@@ -97,7 +97,7 @@ FILTRITT fur Forei P9 p. 208 on the saine sutra).
 
 604 
 
-History of Dharmasastra 
+
 
 [ Oh. XIII 
 

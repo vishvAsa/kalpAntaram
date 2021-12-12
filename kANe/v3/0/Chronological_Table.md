@@ -33,7 +33,7 @@ Vāyu, Viṇpu, Mārkandeya, Matsya, Kūrma.
 
 xviiXviii 
 
-History of Dharmafāstra 
+
 
 400 A. D. 600 A. D. - Kātyāyanasmrti on Vyavahāra (not 
 
@@ -99,7 +99,7 @@ māṁsā and Vaijayanti, com. on Viṣnudharmasūtra. 1610--1640 A. D.-Kamalaka
 
 Vivādatapdava, Sūdrakamalakara and other works. 
 
-History of Dharmasastra 
+
 
 1615 - 1645 A. D. - Nilakanthabhatta, author of Nitimayūkha, 
 

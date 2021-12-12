@@ -57,7 +57,7 @@ The northern vedi is in extent only one-third of the vedi for a soma sacrifice. 
 
 1228 
 
-History of Dharmasastra 
+
 
 (Oh, XXXV 
 
@@ -109,7 +109,7 @@ darbbas 12 or 13 aratnis long and smeared with the ajya that remains after being
 
 1282 
 
-History of Dharmatastra 
+
 
 (Ch. XXXV 
 
@@ -181,7 +181,7 @@ TO: \# 977 TUE 71. 16.
 
 1238 
 
-History of Dharmasastra 
+
 
 (Oh. XXXV 
 
@@ -285,7 +285,7 @@ aft i sag fā arra utara ere era arrararapat I'. The com. givos several oxplanat
 
 Kreta att barat fra Fyn.'1244 
 
-History of Dharmajāstra 
+
 
 (Ch. XXXV 
 
@@ -387,7 +387,7 @@ EL. D. 187
 
 1250 
 
-History of Dharmasastra 
+
 
 (Oh, XXXV 
 
@@ -415,7 +415,7 @@ the neok ( the mantra repeated being very significant in the beginning Hiranyaga
 
 2692. The mortar ropresents the yoni or womb, the ukba reproients the belly, and the postle roprosents disna' (vido Sat. Br. VII. 8. 1. 88).1252 
 
-History of Dharmasastra 
+
 
 (Oh. XXXV 
 
@@ -443,7 +443,7 @@ oompleted the chavaniya fire is established on the altar so built. Eight dbiṣn
 
 1254 
 
-History of Dharmatāstra 
+
 
 (Ch. XXXV 
 

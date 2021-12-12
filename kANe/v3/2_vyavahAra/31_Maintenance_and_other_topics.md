@@ -15,7 +15,7 @@ The liability to provide maintenance for certain persons arises under the ancien
 
 804 
 
-History of Dharmatastra 
+
 
 [Vol. Manu VIII. 389 prescribes that the man who abandons and does not maintain his parents, wife and son, when they are not patita, should be fined 600 pams by the king. Nār. also (S. B. E. 33 p. 184 verse 95) provides punishment for such a husband. Yāj. I. 76 states that if a man abandoned a wife who was obedients diligent, the mother of a son and agreeable in speech he was to be made to give one third of his property to the wife and to maintain her, if he had no property. Viṣṇu Dh. 8. V. 163 made the husband punishable like a thief if he abandoned his blame less wife. Kaut. II. 1 prescribes 1561 that if a man being able fails to maintain his child or wife, parents, minor brothers and sisters, unmarried daughters, widowed daughters, when these are not patita, should be fined twelve panas. These dicta have been followed even by modern courts in India. In Subbarayana v. Subbakka 1562 it has been held that a son is bound to maintain his aged mother whether he has inherited property from his father or not. 
 
@@ -53,7 +53,7 @@ market 2. 43-46. This and the
 
 806 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -83,7 +83,7 @@ gos
 
 . 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -131,7 +131,7 @@ does not mean "bare main. tenance' or 'bara, necessities of life,' has no refere
 
 810 
 
-History of Dharmasastra 
+
 
 ( VOL 
 
@@ -171,7 +171,7 @@ tutquāui St. aromfam. on 11. II, 114.
 
 i inne 1591. 53 1. A, 153 = 50 Bom, 604 = 28 Bom, L, R. 1143.81% 
 
-History of Dharmafāstra 
+
 
 (Vol. 
 
@@ -205,7 +205,7 @@ fanton 27. II. 290.
 
 814 
 
-History of Dharmasastra 
+
 
 I val. 
 
@@ -233,7 +233,7 @@ There is a large body of caselaw about the right of a widow in a joint Hindu fam
 
 816 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -287,7 +287,7 @@ of his assets1603.
 
 818 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -327,7 +327,7 @@ eminent Jurists and Judges as Sir William Jones, Sir Thomas Strange and others. 
 
 · 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -345,7 +345,7 @@ people have always submitted to laws passed by the Governor General or the Legis
 
 Another objection raised oven by some retired judges of the High Court is that the present system of laying down the822 
 
-History of Dharmatāstra 
+
 
 ( Vol. 
 
@@ -363,7 +363,7 @@ Another provis ion in the draft Hindu Code which has come in for severa anim adv
 
 824 
 
-History of Dharmadastra 
+
 
 ( Vol. 
 

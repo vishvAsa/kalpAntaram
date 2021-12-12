@@ -59,7 +59,7 @@ The word vyavahūra is used in several senges in the sūtras and smṛtis. One m
 
 246 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -203,7 +203,7 @@ Vyavahārapadas
 
 250 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -291,7 +291,7 @@ The above is a meagre summary of Kautilya's section on kaptakasodhana. Kautilya 
 
 258 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -353,7 +353,7 @@ The four pūdas of vyavahāra
 
 not. 'Caritram pustakarane' means that such usages are valid means of decision if they have been written down or recorded by the king, while 'caritram tu svikaraṇe' (the reading in Par. M.) means ' usages become the rule of decision when they are accepted as valid by the people and by the courts'. When a king issues in a matter of dispute an order which is not opposed to smrtis or local usages and which is thought out as the most appropriate one by the king's intellect or which is issued to decide a matter when the authorities on each of two sides are equally strong, it is a decision by royal command. Br. ( in Par, M. III. p. 148 ) and Kāt. (verses 35-38 q. in Sm. C. II. p. 10, Par. M. III. pp. 16-17, V. P. p.7) explain the above four. Bphaspati gives two meanings of caritra: (1) what is decided by inference ; () the usages of a country. When it is said that each later one of the four stultifies each preceding one, the idea is not that in all cases it is so, but that it is so only in some cases. Vide Kāt. ( 43 g. by V. P. p. 90 ) which makes this clear. Some examples may be given. If one litigant says that he would prove his case by an ordeal, while the other says that he will prove his contention by human means ( documents or witnesses &c.), then the trial by ordeal is not to be resorted to but the hearing of the case is to proceed in the ordinary way. Vide Kāt. 218 (q. by Mit. on Yāj. II. 22 ) for this rule. Here dharma is set aside in favour of vyavahāra. Another example is given in the Par. M. III. p. 18. A person belonging to one of the four varnas commits a seditious act (rājadroha) and through timidity admits his guilt ( this is satya ), but the witnesses ( relying on Manu X. 130 that where the punishment would be death, a witness may tell a lie ) deny that he was guilty of the act and he is let off. Here dharma is set aside in favour of vyavahāra (trial based on the depositions of witnesses). Vide Sm. C. (II. p. 11 ) for another similar example. In the country of Kerala visiting a prostitute was not condemned by oustom. So even though it is established by witnesses that a person in Kerala did so, the local king may not punish him with a fine. Or suppose a person is charged with the offence of adultery with the wife of au ābhira and this fact is established by witnesses. Yet the man charged may show that among the abhiras there is a usage ( written down in the census records of the king ) that adultery with an abhira woman is not punish able. In such cases caritra (usage ) annuls the (ordinary) vyavahāra. But suppose that in such cases the king, in order to improve the morals of a section of his subjects, issues a262 
 
-History of Dharmasāstra 
+
 
 (Voi. 
 
@@ -411,7 +411,7 @@ ___338. न्यायं मे नेच्छते कर्तुमन्
 
 264 
 
-History of Dharmadāstra 
+
 
 [Vol. 
 
@@ -439,7 +439,7 @@ Badandadaśāparādhaḥ! (E. I. vol. III p. 53 at p. 56, Torkhede plate of Govi
 
 266 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -565,7 +565,7 @@ Tort
 
 268 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -771,7 +771,7 @@ neo yote
 
 36282 
 
-History of Dharmatāstra 
+
 
 [Voi. 
 
@@ -915,7 +915,7 @@ before the court. But there also the helper comes forward saying that he is a ve
 
 990 
 
-History of Dharmafāstra 
+
 
 | Vol. 
 
@@ -941,7 +941,7 @@ who disregards the words of the claimant. This is called asedha which is explain
 
 397. ETTE TURUT HE Torino ar MARCH (PIFTUTTO afa TEET TE T ur.q. in . II. 5.35, forvp.94, which explains *wfūnf HUVATTIR Tania ar putea ATTU IT \# A fturat मनग्या । पक्षीत । गमते इति ग्रहणं विधावपदं सग्रहीतं यत्रस गुदीतग्रहणः । तस्य parƯ: a ( ?) FACE PURT AYFURT FOR UT PULCIAITU':'292 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -973,7 +973,7 @@ Concerning plaints
 
 294 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -1193,7 +1193,7 @@ n ara i grmit format forl.'.
 
 306 
 
-History of Dharmalāstra 
+
 
 [ Vai 
 
@@ -1219,7 +1219,7 @@ Then Bühler ( in 'the Origin of the Indian Brahmi alphabet') started the theory
 
 308 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -1255,7 +1255,7 @@ rafarga.
 
 310 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -1281,7 +1281,7 @@ HAT
 
 194131% 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -1349,7 +1349,7 @@ our faut chat
 
 448. Portaria rae porai gizda 31 ALTH Fantar grafreguna VI. 25-26. 
 
-History of Dharmasāstra 
+
 
 316 
 

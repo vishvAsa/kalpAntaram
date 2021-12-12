@@ -33,7 +33,7 @@ Among the heirs (apart from male issue) of a man as regards his separate propert
 
 tra p. 189: The N eapol atraturiteopatia P. 503.702 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -105,7 +105,7 @@ phone 71: Falsia: ,' ATATT FÅ TIL 97 og stratext पपि भर्तुब�
 
 706 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -141,7 +141,7 @@ Tiur Top 1* refter opererer fare fara erama n ,
 
 708 
 
-History of Dharmadāstra 
+
 
 ( Vol. 
 
@@ -177,7 +177,7 @@ farvettara apurta format arv: 11 (folio 99b).
 
 710 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -211,7 +211,7 @@ T
 
 i n frontemerat puteti farora Trfar I FARETT,712 
 
-History of Dharmafāstra 
+
 
 [ Vol. 
 
@@ -283,7 +283,7 @@ nिीपाय सवभाव जोधा का जिपिपल गा�
 
 416 
 
-History of Dharmasastra 
+
 
 i voi. 
 
@@ -359,7 +359,7 @@ wym and wars for FHT!. ... 1383. Wegen groot maging tari ni v. . II. 2. 17. The 
 
 720 
 
-History of Dharmasastra 
+
 
 l'oi. 
 
@@ -399,7 +399,7 @@ Viṣnu Dh. 1385 S. as read by most digests places the father before the mother.
 
 91722 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -467,7 +467,7 @@ pa II. 4.3. Vide 6 Cal. 119, 126 (F. B.) quoted in 41 1. A, 290, 303-4 for this 
 
 1726 
 
-History of Dharmatāstra 
+
 
 [Vol. 
 
@@ -501,7 +501,7 @@ ruta. and for Throterapista: i FATT, ou 41. II, 135.
 
 728 
 
-History of Dharmasāstra 
+
 
 [ Vol, 
 
@@ -535,7 +535,7 @@ The Privy 1408 Council, following a wrong translation, held that, under the law 
 
 730 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -577,7 +577,7 @@ a t para sa FUT TETT atua: . Io Mohandas v. Krishnabai 5 Bom. 597 this maxim is 
 
 h732 
 
-History of Dharmalāstra 
+
 
 [ Vol. 
 
@@ -607,7 +607,7 @@ n Manu IX. 187. Vide Bühler's note on this in S. B. E, vol. 25 pp. 366-368 for 
 
 734 
 
-History of Dharmatāstra 
+
 
 . 
 
@@ -643,7 +643,7 @@ Viṣnu quoted by the Mit. (not found in the printed Dharmasūtra) prescribes : 
 
 736 
 
-History of Dharmasastra 
+
 
 (Vol 
 
@@ -679,7 +679,7 @@ f AT: on ut. 1. 251 : forget to moraordinator foartamenti FHETT. OD 4T 1. 217, o
 
 788 
 
-History of Dharmatastra 
+
 
 [Vol. 
 
@@ -707,7 +707,7 @@ texts to certain heirs. 1430 For example, the order of heirs according to the D.
 
 740 
 
-History of Dharmasastra 
+
 
 . 
 
@@ -751,7 +751,7 @@ The Dayabhāga, strarting with Baud, Dh. S. (I, 5. 113 ff), Manu (IX. 186-187) a
 
 TOETA is Mapa IX. 186 and spa: aforetu: is Manu IX. 187...74% 
 
-History of Dharmatastra 
+
 
 ( Vol. 
 
@@ -967,7 +967,7 @@ a ty for FONT कारप्रतिफ्स्यर्थ गोवजप�
 
 746 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -995,7 +995,7 @@ ___1439, विभक्तवायादान सकुल्यानाच�
 
 748 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -1021,7 +1021,7 @@ funt q* FTTT (TTT 13).
 
 750. 
 
-History of Dharmatāstra 
+
 
 (Voi, 
 
@@ -1043,7 +1043,7 @@ Another question is whether the widows of agnatic relations (such as the son's w
 
 1445. The third view was propounded by Telang J. in Rachava v, Kalingappa 16 Bom, 716,' which is referred to by the P. C. in 42 I. A, 208. at pp. 220 and 226. The P. C. do not dissent from Telang J. but do not expressly approve of his views as it was not necessary to do so in that case, where the question was whether the great-grandson of the grandfather of the deceased was to be preferred to the grandson of the great-grandfather and it was beld by the P, C, that he was to be preferred. The 2nd view appears to be supported by the words of Aparārka p. 745 & TT NYT स्तत्पौत्र इति पितुसन्तती प्रपा प्रत्यासमाः सपिण्याः । एवं पितामहसन्तती प्रपितामहसन्तती च। एषामभावे पित्रादित्रयस्प ये प्रपौत्रास्तेषां पुत्रादित्रयं सापिण्डवाबनवाएकम् ।।752 
 
-History of Dharmalāstra 
+
 
 ( Vol. 
 
@@ -1109,7 +1109,7 @@ ____1454. योगीपरपचनेपि बन्धुपदेन म�
 
 . 
 
-History of Dharmasāstra 
+
 
 ( Vol. 
 
@@ -1131,7 +1131,7 @@ sapinda' is employed this meaning has to be understood and it extends up to five
 
 758 
 
-History of Dharmasastra 
+
 
 not whether a female intervenes somewhere, but whether the person about whose sapiṇdaship a question is raised traces his descent to a common ancestor through his father or through his mother. In the P. C. case the claimant claimed sapinda. ship with the deceased through his mother, and it was rightly decided that he boing 6th from the common ancestor was not a bandhu. But to lay down as a universal rule that a bandhu in order to inherit under the Mit. should not be beyond five degrees from the common ancestor is against the definition of sapiṇda given by the Mit. itself and unduly narrows the express words of the Mit. The words of the P. C. 'the sapiṇda relationship, on which the heritable right of collaterals is founded, ceases in the case of the bhinna-gotra sapiṇda with the fifth degree from the common ancestor' (L. R. 41 I. A, 290 at p. 312) are very generally expressed and are susceptible of the interpretation that they lay down the rule of five degrees even when the claimant claims 1458 relationship with the deceased through his own father. Some support for the Privy Council rule that sapinda relationship ceases with the 5th 
 
@@ -1153,7 +1153,7 @@ For the purposes of this work it is irrelevant and unneces sary to wade through 
 
 760 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -1179,7 +1179,7 @@ the nine bandhus enumerated in the verses of Śālātapa or Baudhā. yapa are on
 
 9676% 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -1221,7 +1221,7 @@ IT Porn 9. by fa. t. p. 598, a. f. p. 156. This is quoted as Horaris by ser p. 7
 
 764 
 
-History of Dharmabastra 
+
 
 [Vol. 
 
@@ -1247,7 +1247,7 @@ Yajñavalkya's words apply only to the former, that if the latter ( upakurvāṇ
 
 766 
 
-History of Dharmasastra 
+
 
 i Vol. 
 

@@ -93,7 +93,7 @@ HET Fwatatutara: Hoffm \# 'verses 57-58 of the I TO in the shares of, yait . .'
 
 206 
 
-History of Dharmadāstra 
+
 
 [Vol. 
 
@@ -145,7 +145,7 @@ ____ In the Bhismaparva (I. 27-32) certain rules of war agreed upon between the 
 
 210 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -207,7 +207,7 @@ tregut: 1 TATTFI... WATT Pru, a staplaargerit'.
 
 214 
 
-History of Dharmasastra 
+
 
 I Vol. 
 

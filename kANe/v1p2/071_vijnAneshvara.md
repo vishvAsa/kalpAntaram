@@ -177,7 +177,7 @@ The period of the writing of the 14 kāṇdas of Kalpataru has to be placed at t
 
 610 
 
-History of Dharmasastra 
+
 
 TY 
 

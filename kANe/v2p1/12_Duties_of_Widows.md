@@ -57,7 +57,7 @@ husband is dead': while the Santiparva (148. ) remarks 'all widows are in sorrow
 
 H.D. 74$86 
 
-History of Dharmasastra 
+
 
 [ Oh. XII 
 
@@ -189,7 +189,7 @@ p. 50. 1390. श्री चैषा पछी नियं प्रयुक
 
 594 
 
-History of Dharmasastra 
+
 
 [ Ch. XII 
 
@@ -229,7 +229,7 @@ quoted by Sri B. 1199.
 
 1398. run: 19: 1974. . E. I. 4. 14. 18. 1399, SETI wife: 1 perfettaa: 1 . . . II. 10. 26. 10-11 Ti mai trag rau faraTEIT: ITA 19. 23.596 
 
-History of Dharmasastra 
+
 
 (Ch. XII 
 

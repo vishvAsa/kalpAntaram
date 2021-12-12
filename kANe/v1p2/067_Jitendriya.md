@@ -21,7 +21,7 @@ fa:ARTI Mā il 1, D.--75
 
 594 
 
-History of Dharmaśīstra 
+
 
 formed at the principal time indicated for it798 ( and not at a gauna time ). From another quotation it appears that Jitendriya controverted the views of a predecessor Sambhra mabhatta.799 Jitendriya is said to have enumerated the names of the fifteen muhūrtus of the day from the Matsyapurāṇa ; 800 vide pp. 257, 367 of the Kalaviveka for other places where the views of Jitendriya on kāla occur. In the Dāyabhāga of Jimūtavāhana also Jitendriya is frequently mentioned. The Dāyabhāga says that, if a man takes another's gold believing it to be iron or takes what is another's believing ( in good faith) that it is his own, Jitendriya held in his remarks on the section of prayascitta that he is not guilty of theft. 801 The peculiar doctrine of the Dāyabhāga that the widow of a person, whether he was separate or a member of a joint family, succeeded to her deceased husband's estate had been already expounded by Jitendriya.802 The view of Jitendriya was that whatever is acquired by a person without using means or materials jointly owned by all members of a family is his exclusive property and that maitra ( gifts of a friend ) and audvāhika are only cited ( by Yāj. ) as examples of this proposition.803 Jitendriya 
 

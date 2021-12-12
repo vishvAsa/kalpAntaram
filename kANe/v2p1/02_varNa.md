@@ -15,7 +15,7 @@ Origin and growth of caste in India' (1931 ) and 'Aryanization of India' (1925);
 
 (Continued on next page) 
 
-History of Dharmasāstra 
+
 
 [ Ch. II 
 
@@ -79,7 +79,7 @@ gūdra tribe.'. There is no doubt that the word asura when applied to gods like 
 
 . D.26 
 
-History of Dharmasastra 
+
 
 [ Ch. II 
 
@@ -105,7 +105,7 @@ cities that had dāgas as overlords'. It is not possible to say that dasss or da
 
 28 
 
-History of Dharmasastra 
+
 
 [ Oh. II 
 
@@ -167,7 +167,7 @@ M i troit ATI Afarkai E 30 TT 9 FRUTHI . IX. 112.3. Kuru weans here composer of 
 
 32 
 
-History of Dharmasastra 
+
 
 [ Oh. II 
 
@@ -281,7 +281,7 @@ T TI pragu XI.5. 7. 1.
 
 38 
 
-History of Dharmasastra 
+
 
 [ Ch. II 
 
@@ -317,7 +317,7 @@ vuc' with adhi' in the sense of speak in favour of' or 'bless.
 
 93 TIG presentar en af minu arutada erita ga r: 1 tag Hiutat i qayy *T. IV.1.4.6; the words wit... ma occur in MTR XI.14. 
 
-History of Dharmasastra 
+
 
 [ Ch. II 
 
@@ -453,7 +453,7 @@ GT: \# \# X. 43-46.
 
 48 
 
-History of Dharmadastra 
+
 
 [ Oh. II 
 
@@ -535,7 +535,7 @@ Mūtiba Takṣan
 
 Mļgayu \#.D.7 
 
-History of Dharmasastra 
+
 
 [0h. I 
 
@@ -601,7 +601,7 @@ Ch. II] Varna : anuloma and pratiloma castes belongs to another caste is condemn
 
 विजातपातपा मूपिसिक्तादिनातिजाच विजातयः सत्पर्थसार p. 18. 
 
-History of Dharmatastra 
+
 
 Oh. It 
 
@@ -629,7 +629,7 @@ Even when anuloma marriages were allowed there is no unanimity among the sages a
 
 180. goraroffer CAT Cherry Pa Roures i fare on TT. I. 56. 131. iyer gratiforf V. 4.9.36 
 
-History of Dharmatastra 
+
 
 [ Oh. II. 
 
@@ -659,7 +659,7 @@ ELD. 8
 
 58 
 
-History of Dharmasastra 
+
 
 (Oh. II 
 
@@ -709,7 +709,7 @@ a rca 1 t. y. 7. I. 9. 16,
 
 60 
 
-History of Dharmasastra 
+
 
 Oh. II 
 
@@ -757,7 +757,7 @@ According to Manu'58 X. 64 when & brāhmaṇa marries & sūdra woman, the daught
 
 162. The word "yuga ' is understood by Medbātitbi (on Madu X. 64) and Kullaka to mean "jadma'; Sarvajõ&-Dūrūyaga understands it to moan 'yugma' (pair of spouses ). The meaning (yugina ) is attached to 'yuga' by A parārka on Yoj. I. 96 (p. 119). In the S. B. E. vol. II p. 196 Dr. Bobler compares Āp. Dh. $. II. 5.10. 10-11 with Gautama IV. 22. But the great scholar is not accurate here, Ap. does not speak of progeny of mixed marriages rising to higher status or being degraded to lower status after several generations ; he rather spoaks of . $Odre rising bigher and higher in successive births. In the Anugasana parva (chap. 27. 5-6, 28. 6-13) it is said that after numberless births sūdras and others beooine vaidyas and 80 on. Vana parva (212. 11-12) gives expression to the samo iden सपोमो हि जातस्म सगुणाहपतिष्ठतः। श्यत्वं लभते बान क्षत्रियत्वं तथैव च। भाजी dari ponsel werf 212. 11-18. 
 
-History of Dharmatastra 
+
 
 (Oh, 11 
 
@@ -827,7 +827,7 @@ words ocour in the Vedic literature, but the sense is generally ' a group' and t
 
 68 
 
-History of Dharmasastra 
+
 
 (Ob. II 
 
@@ -979,7 +979,7 @@ Kayasthan 17Heated controversies have røged in medi. eval and modern times abou
 
 178 1. L. R. 61 Cal. 488. 179 L. R: 47 I, A. 140,145. 180 12 All. 328. 181. 6 Patna 506,96 
 
-History of Dharmasastra 
+
 
 ( Ch. II 
 
@@ -1313,7 +1313,7 @@ Mūrdhāvasikta. This is an anuloma caste according to the view of some teachers
 
 92. 
 
-History of Dharmasāstra 
+
 
 (Ch. 11 
 
@@ -1451,7 +1451,7 @@ H, D, 13
 
 98 
 
-History of Dharmasastra 
+
 
 [ Oh. II 
 

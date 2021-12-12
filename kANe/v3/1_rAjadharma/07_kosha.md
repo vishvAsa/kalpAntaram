@@ -181,7 +181,7 @@ early records even, these exemptions are said to be eighteen, e. 8. in the Hirah
 
 196 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 

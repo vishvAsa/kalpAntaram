@@ -151,7 +151,7 @@ The Manava gr. 1.7.8, Manu III. 11 and Yāj. I. 53 require that the girl to be c
 
 1033. तृतीया पुत्रिका। विज्ञायते अभ्रातृका पुसः पितृनम्येति प्रतीचीनं गरछति पुत्रत्वम् । तत्र श्लोकः । अभ्रातुको प्रदास्यामि तुभ्यं कन्यामलंकताम् । अस्या यो जायते पुत्रःस में पुत्रो भवेदिति । वसिष्ठ 17. 15-17. The sutra विज्ञायते is an echo of the oxplanation of the Nirukta III. 5 and the verse quoted also ocours in the faguna 15. 5.436 
 
-History of Dharmasastra 
+
 
 Ioh. IX 
 
@@ -177,7 +177,7 @@ All these prohibitions against marrying a sagotra, sapravara or sapinga girl are
 
 438 
 
-History of Dharmasastra 
+
 
 C. Ix 
 
@@ -215,7 +215,7 @@ ___1040. पुषा पोशवर्षों हि पचय भवित�
 
 440 
 
-History of Dharmasastra 
+
 
 ( Oh. IX 
 
@@ -289,7 +289,7 @@ I TEMEH Sett IT EFT: \# T quoted in Frag. (Fam) p. 136.
 
 444 
 
-History of Dharmasastra 
+
 
 [ Ch. 
 
@@ -405,7 +405,7 @@ TATAROAt for P FART: from the smarugtror. Tho latter is quoted in the gr. Al. (v
 
 452 
 
-History of Dharmasastra 
+
 
 1 Oh. IX 
 
@@ -431,7 +431,7 @@ grandson and the like) because through his (the grandson's) father partioles of 
 
 1071. The words . UT 979T RETETYT TCTT1977are translated differently by Golap Chandra Sarkar in his Hindu Law (7th od. of 1936 ) pp. 81-82 as 'similarly arises tho sapinda relationsbip of the husband with the lawfully wedded wife by reason of their togethor) forming one body'(i. o. one person, bence the wife is called half the body of the husband). The learned author thinks that his translation is the correct one and others went wrong in translating as in the passago above. His translation oan not be accepted for several roas008. In the first place, it is opposed to the explanation of the Baļambbatti SITTHwafa TOTEU artit Tutarref: (i, e. particles of tho bodies of the husband and wife continue in or are concerned with one body, the son, that is produced by them both). Tbat husband and wifo are one is a pleasant fiction but here Vijñanodvara is stressing the physical continuity of particlos. The husband and wifo though said to be ono are still two bodies. No one says that their bodies become physically one. Besides the objection that if thoy do not beget a son, the husband and wife will not be sapiṇdas is not sound. Rules and principles are laid down for generality of cases and regard is to be had to their capacity to produce a 800. The forcing (III. q . p. 280) shows that G. C. Sarkar is wrong 'Tento rochtaart CITRATE 49 go पौत्रादिषुसाक्षात् परंपरा पा शुक्रशोणितादिरूपेणावस्यूताः । पचपिपल्या पत्यासह भ्रात पत्नीनां च परस्परं नैतत्संभवति तथापि आधारवेकशरीरावयवान्दयोऽस्येव ।। A woman's busband's brother's wifo is the receptacle ( Adhara ) for a son who is procreated by the husband's brother and his wifo, the former of whom has partioles of his father whose particles continue in the husband of the woman. 
 
-History of Dharmasastra 
+
 
 [Ch IX 
 
@@ -547,7 +547,7 @@ All these four examples are taken from the Dharmasindhu (III Pūrvārdha p. 226-
 
 458 
 
-History of Dharmasastra 
+
 
 [ Ch. I 
 
@@ -579,7 +579,7 @@ MAN
 
 460 
 
-History of Dharmasastra 
+
 
 i Oh. IX 
 
@@ -615,7 +615,7 @@ faramarqoiret saat &o. (p. 89).
 
 462 
 
-History of Dharmasastra 
+
 
 [ Ch. LÝ 
 
@@ -699,7 +699,7 @@ $ (5) Hore ordinarily there can be no valid marriage between D (4) and S (4) or 
 
 H. D. 59466 
 
-History of Dharmasastra 
+
 
 ( Oh, IX 
 
@@ -733,7 +733,7 @@ Another and a very striking instance of the limits of sapiṇda relationship not
 
 468 
 
-History of Dharmasāstra 
+
 
 tch.IX 
 
@@ -773,7 +773,7 @@ a * \# \#TRUTHFI and p. 1339 ( oa . V. 4. 11 ) TTC ... ... * मन्याय�
 
 470 
 
-History of Dharmasastra 
+
 
 i Ch. IX 
 
@@ -805,7 +805,7 @@ E ls property III, quia p. 302.
 
 472 
 
-History of Dharmasastra 
+
 
 { CA, 1x 
 
@@ -909,7 +909,7 @@ mother
 
 A (bridegroom ).476 
 
-History of Dharmasastra 
+
 
 i Ch. 1x 
 
@@ -969,7 +969,7 @@ noia que
 
 478 
 
-History of Dharmasastra 
+
 
 t Ch. 13 
 
@@ -1045,7 +1045,7 @@ H, D. 61
 
 48% 
 
-History of Dharmasastra 
+
 
 [ Ch. II 
 
@@ -1091,7 +1091,7 @@ I uft p. 72 ( ed. by Chengalrao). 1126. it were raisa maa: I wrina: 1994 per Tra
 
 484 
 
-History of Dharmasastra 
+
 
 [ Ch. It 
 
@@ -1119,7 +1119,7 @@ kita TT PAR T que havifag fung18. 9, pp. 691-92.
 
 TAPET I RUTO OD H III. 5.486 
 
-History of Dharmasastra 
+
 
 [Ch. Ix 
 
@@ -1153,7 +1153,7 @@ on wbom a bundred wagio tricks were practised'.
 
 488 
 
-History of Dharmadāstra 
+
 
 [ Oh, IX 
 
@@ -1225,7 +1225,7 @@ y prowa . ( TAX74414 ).
 
 492 
 
-History of Dharmasastra 
+
 
 [ Oh, IX 
 
@@ -1347,7 +1347,7 @@ H, D. 63
 
 498 
 
-History of Dharmasastra 
+
 
 [ Chu IX 
 
@@ -1499,7 +1499,7 @@ The question of the sale of girls in marriage has been from the remotest ages bo
 
 $08 
 
-History of Dharmasastra 
+
 
 1 Oh. 1X 
 
@@ -1541,7 +1541,7 @@ ENT PARTI E 169. 11. Compare au IV. 184-186 '\#raf 4: 5970: \# oror FAT FT Cat g
 
 510 
 
-History of Dharmasūstra 
+
 
 [ Ch. IX 
 
@@ -1829,7 +1829,7 @@ Ta on TT. I. 61.
 
 $24 
 
-History of Dharmasastra 
+
 
 [Ch. Ik 
 
@@ -1865,7 +1865,7 @@ In modern times two forms are in vogue, the brāhma and āsura. In the brabma fo
 
 1226. Vide 12 Mad, 72; 17 Patna 134, 141 ; but in AI, R. 1930 Oudh p. 426 it is held that the gāndbarva form is obsolete.526 
 
-History of Dharmasastra 
+
 
 Ch. IŚ 
 
@@ -1971,7 +1971,7 @@ WALL
 
 532 
 
-History of Dharmasastra 
+
 
 1 ou. IX 
 
@@ -2131,7 +2131,7 @@ The Vas. Db. 8. (17.72) goes so far as to observe 'when & girl has been promised
 
 540 
 
-History of Dharmasastra 
+
 
 [Ch. IX 
 

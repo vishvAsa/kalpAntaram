@@ -275,7 +275,7 @@ Motharam v. Revacband 5840,
 
 XI. 
 
-History of Dharmasastra 
+
 
 Minakshi v. Ramapada 683n. 
 
@@ -387,7 +387,7 @@ Agra 4610. Totawa v. Basawa 7160. Trailokya Nath v. Radha 718n. Tukaram v. Babaj
 
 xlii 
 
-History of Dharmatastra 
+
 
 11. 
 

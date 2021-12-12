@@ -83,7 +83,7 @@ Fatin e SHIRTSTÜ EA fafand il verses 9 and 11 of Fitanfanfaa. The last verse of
 
 784 
 
-History of Dharmasastra 
+
 
 There are, apart from traditions and chronicles several inscriptions that bear on the connection of Mādbavācārya or Vidyaranya with the several kings of Vijayanagara. Father Heras in his work called · Beginnings of Vijyanagar History' goes so far as to say that practically all inscriptions relating to the Vidya ranya tradition or to the connection of Vidyāraṇya with Harihara and Bukka in political and imperial undertakings are spurious or must be certainly looked upon with suspicion. His remarks are very sweeping and cannot be accepted as embodying the truth. At least about 200 inscriptions and grants relating to Vijayanagara are known. The scholars must try to separate the spurious ones from the others. There is no reason to damn all grants and Inscrip tions referring to Vidyaranya. He was a Sannyasin and had renounced the world. It is too much to suppose that he forged grants. If one holds that he did so, then the question arises, for what benefit or for whose benefit? Besides copperplate grants can be easily fabricated and passed off; but Incriptions on stone are generally in public places such as roads, temples, tops of hills, where all members of the public can observe them everyday. A scholar must think long before damning an inscription on stone as a forgery. 
 

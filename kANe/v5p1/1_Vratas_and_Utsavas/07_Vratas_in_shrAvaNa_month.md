@@ -137,7 +137,7 @@ mi
 
 132 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. VII 
 

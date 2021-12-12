@@ -15,7 +15,7 @@ Pages i - xliv
 
 xlv 
 
-History of Dharmasastra 
+
 
 ( Sections 65 - 119 and a brief note on 
 

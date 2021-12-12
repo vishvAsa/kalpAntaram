@@ -219,7 +219,7 @@ Aśraya
 
 1084 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -567,7 +567,7 @@ Karita Karma (torture) Karmabhūmi Kārmana Kārmāntika Karmānuyoga Karmasthā
 
 1086 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

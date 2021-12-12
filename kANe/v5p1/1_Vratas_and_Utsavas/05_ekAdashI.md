@@ -55,7 +55,7 @@ On pp. 43-45 above the exaggerated importance attached to yratas in general has 
 
 H, D. 13 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. V 
 
@@ -377,7 +377,7 @@ There are cases where the texts sometimes allow fast on ekādasi oven though mix
 
 116 
 
-History of Dharmasāstra 
+
 
 [Sec. I, Ch. v 
 

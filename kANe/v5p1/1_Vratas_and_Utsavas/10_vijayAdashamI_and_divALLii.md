@@ -277,7 +277,7 @@ y as in fil. a. f. p. 321 ( fr being addressed to F).
 
 204 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch.x 
 

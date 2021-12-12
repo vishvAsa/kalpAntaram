@@ -103,7 +103,7 @@ tithi of Aśvina bright half and then the bodhana will be on the 6th of the brig
 
 160 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. IX 
 
@@ -161,7 +161,7 @@ probably refers to a which was held to be a siga of beauty among women or it mea
 
 164 
 
-History of Dharmasāstra 
+
 
 [Sec. I, Ch. IX 
 

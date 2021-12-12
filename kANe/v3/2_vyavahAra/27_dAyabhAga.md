@@ -123,7 +123,7 @@ Tigtertur i F . II. p. 257. It is somewhat strange that Dhāreśvara who is no o
 
 550 
 
-History of Dharmasastra 
+
 
 [ Vol, 
 
@@ -217,7 +217,7 @@ R T @ occurs in the (Fran t series) part 1 p. 19. Vide *. . p. 416 for a similar
 
 556 
 
-History of Dharmatāstra 
+
 
 [ Voi. 
 
@@ -253,7 +253,7 @@ fa*m sa fani Farsteg ongoi fareTM (1. II, 124).
 
 558 
 
-History of Dharmasastra 
+
 
 Vol. 
 
@@ -305,7 +305,7 @@ Tantud retu : 1979047 p. 163. i
 
 1043. The Fanteca puuhaat raamat po एतिकापातादिना प्रादेशिकस्वत्वव्यवस्थापन विभागः । एवं करूनधनगतसवोत्यावविना Far tigrera p. 163.562 
 
-History of Dharmasastra 
+
 
 Vol. 
 
@@ -337,7 +337,7 @@ Time for partition. The evolution of the son's right to demand a partition has b
 
 564 
 
-History of Dharmalāstra 
+
 
 ( Vol. 
 
@@ -377,7 +377,7 @@ Drivision in father's lifetime
 
 566 
 
-History of Dharmalāstra 
+
 
 [ Vol. 
 
@@ -415,7 +415,7 @@ SOY* \#fet man i n TR FITAT \# * I. 44,
 
 568 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -441,7 +441,7 @@ The Mitakṣarā is quite clear on the point that the son has an absolute right 
 
 570 
 
-History of Dharmatāstra 
+
 
 [Vol. 
 
@@ -477,7 +477,7 @@ v. Dhanraj 1 Patna 361.
 
 daron fusieur Threat to the pagat etc.:572 
 
-History of Dharmasastra 
+
 
 į Vol. 
 
@@ -579,7 +579,7 @@ It is a remarkable fact that the smrti texts on separate property do not express
 
 578 
 
-History of Dharmagūstra 
+
 
 (Vol. 
 
@@ -613,7 +613,7 @@ asfaturi
 
 580 
 
-History of Dharmasastra 
+
 
 | Vol. 
 
@@ -749,7 +749,7 @@ The basic verse on things impartible from their very nature is Manu IX. 219 1107
 
 588 
 
-History of Dharmatastra 
+
 
 (Vol 
 
@@ -783,7 +783,7 @@ Bphaspati ( S. B. E. 33 p. 382 verses 79-84 ) has a good deal to say about thing
 
 690 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -879,7 +879,7 @@ a
 
 596 
 
-History of Dharmatāstra 
+
 
 i voi. 
 
@@ -959,7 +959,7 @@ From ancient times it had been settled that the dāsiputra of a person belonging
 
 76602 
 
-History of Dharmadāstra 
+
 
 ( Vol. 
 
@@ -991,7 +991,7 @@ rtia, this sūtra is 3119. . & II. 6. 14. 16; vide above p. 431 and H. of Db. vo
 
 604 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -1029,7 +1029,7 @@ a ifa.
 
 606 
 
-History of Dharmasastra 
+
 
 (Voi. 
 
@@ -1065,7 +1065,7 @@ A paternal grandmother or step-grandmother cannot herself demand a partition, bu
 
 808 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1103,7 +1103,7 @@ H. of Dh. vol. II. p. 109 ) as narrated in the Bșhad-devata 1153 states that th
 
 610 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1125,7 +1125,7 @@ Persons excluded from share
 
 entitled to no share". Yaj. II. 140 declares that the impotent, the outcast and his son, a lame man, a mad man, an idiot, a blind man and one afflicted with an incurable disease are not entitled to a share. It will be noticed that Yāj. expressly excludes the son of an outcast, as do also Baud. and Devala. Nār. (dāyabhāga 21-22) says 'one hostile to his father, an outcast (patita ), an impotent person, one who goes to another continent by sea (from India Lome these even though they be aurasa sons shall not get a share; how can a kṣetraja ( a son of the wife raised by another person by appointment) get a share ( if he has these defects) and persons afflicted with long standing. (like phthisis) and severe diseases (like leprosy ), persons who are either idiots, insane or lame-these must be maintained by the family, but their sons are entitled to a share'. These verses of Manu, Yaj. and Nār have been quoted and explained in numerous decisions of the courts in India, but all such cases are mostly of academic inte rest now since the passing of the Hindu Inheritance (Disabi lities Removal) Act of 1928 and hence need not be dwelt upon here. The Act ( XII of 1928 ) applies to the whole of British India except to persons governed by the Dāyabhāga school and provides that no person governed by the Hindu Law, other than a person who is and has been from birth a lunatic or idiot, shall be excluded from inheritance or from any right or share in joint family property by reason only of any disease, deformity or physical or mental defect. This Act is not retrospective and does not confer on any person any right in respect of any religious office or service or any right to the management of any religious or charitab!: trust which he would not have had before the Act. Therefore under the Act the only defects that would disqualify a person governed by the Mitākṣarā school from claim. ing partition or inheritance are congenital lunacy and congenital idiocy. Under the Dāyabhāga school the grounds of exclusion will still remain as before except as modified by judicial deci sions and by other Acts. An important question under the Mit. school arises in this way. What is the exact position of a son that is congénitally idiotic or insane. Both Manu (IX. 201 and 203) and Yāj. ( II, 140, 141) declare that they are anarsa or nirantaka ( not entitled to a share of the ancestral estate ), but must be given maintenance and if maintenance be not given by those who are liable to give it, they would incur sin ( as Manu IX. 202 expressly says) and that the song of disqualified parsons take a share, if they are themselves free from defects. If A has a son B who is congenitally idiotio, is B still a copar:612 
 
-History of Dharmafāstra 
+
 
 I vol. 
 
@@ -1151,7 +1151,7 @@ JYKTATUTUT: 11
 
 614 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -1195,7 +1195,7 @@ HMM
 
 616 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -1265,7 +1265,7 @@ Provision must also be made before ordering partition in a suit for partition by
 
 820 
 
-History of Dharmasastra 
+
 
 i Vol marriage and not to a definite sbare). The Dayabhaga held the opinion 1177 that if ancestral wealth was, small, the provision for the marriage of the unmarried daughter should be made by giving her a fourth share but if the wealth was ample then she should get only as much as was necessary for her marriage. The 8m. C., V. R. P. 494, V. O. p. 134 follow the view of Bharuci. while the V. M. (p. 106 ), Madaparatna and V. P. (p. 456 ff) follow the Mit. The former group particularly relies on the texts of Devala 11n (wealth necessary for marriage should be given to unmarrled daughters from the paternal estate ), Saṅkha ( when partition of heritage takes place the unmarried daughter takes the maidenly trinkets, wealth for her marriage expenses and stridhana ) and Viṣnu Dh. S. 15. 31. In modern times the Courts allow no share to unmarried daughters but only provt slon for marriage expenses and this too is restricted to the unmarried sister of a person who requires or sues for partition and does not hold good as to the daughters of brothers or other collaterala 1179. In Bhagavati Shukul v. Ram Jatan 45 All. 297 it was held (at p. 299) that "quarter share" in the text means as much money as will suffice for marriage expenses and that where the daughter was a cripple and blind and all the property was worth Rs. 500 an alienation of the whole of it by the widowed mother for raising a dowry for the daughter was justifiable. 
 
@@ -1301,7 +1301,7 @@ means प्रभुणा.
 
 (Continued on the next page)622 
 
-History of Dharmatastra 
+
 
 [Vol. 
 
@@ -1379,7 +1379,7 @@ To The F TTH (follo 91 b) refers to after's explanation ( en warf), The r. . D. 
 
 626 
 
-History of Dharmasastra 
+
 
 [Vol 
 
@@ -1415,7 +1415,7 @@ I ara fa on HTC IX, 112.
 
 628 
 
-History of Dharmatāstra 
+
 
 I Vol. 
 
@@ -1443,7 +1443,7 @@ and which means susirwana (not bringing about wolfare in the end). He further ex
 
 630 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -1477,7 +1477,7 @@ The following propositions may be laid down about the allotment of shares on a p
 
 Pा .न्यापतो भवेत् । । लभेतांश समभक्त मजे में632 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1559,7 +1559,7 @@ B3
 
 634 
 
-History of Dharmadāstra 
+
 
 ( Vol. 
 
@@ -1595,7 +1595,7 @@ a tra area fronta on 11. 126, पूर्व यथा पश्य विभ�
 
 836 
 
-History of Dharmatastra 
+
 
 Voi. 
 
@@ -1627,7 +1627,7 @@ Concealment of joint property
 
 638 
 
-History of Dharmatāstra 
+
 
 voi. 
 
@@ -1667,7 +1667,7 @@ T ANA Antifa. on 97. II. 121. , :
 
 640 
 
-History of Dharmatastra 
+
 
 [ Vol. 
 
@@ -1919,7 +1919,7 @@ I
 
 646 
 
-History of Dharmasastra 
+
 
 (Vol, 
 
@@ -1965,7 +1965,7 @@ ww
 
 648 
 
-History of Dharmadastra 
+
 
 (Vol. 
 
@@ -2023,7 +2023,7 @@ at I STATENSUTATHIBICATI I q. by 794777 X. 7. p. 147; उत्पने पो�
 
 1235. Erfit appears to combine Manu IX, 163 and 134 ' gate, धिने स्वामी प्रकीर्तितःतल्या पत्रिका प्रोता मण्यारपपरे Rai || q. by पि . p. 541, 99. f. p. 437, H RU (follo 93b). .652 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -2061,7 +2061,7 @@ The high eulogy bestowed on the son in the Vedic and smrti literature has refere
 
 854 
 
-History of Dharmatāstra 
+
 
 Vot. 
 
@@ -2091,7 +2091,7 @@ afarar i FATATERT III. 1. The D, M. (pp. 33-34) explains this sūtra about there
 
 656 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

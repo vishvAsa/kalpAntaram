@@ -151,7 +151,7 @@ General Index
 
 wears at & turban tho cloth in wbiob soma stalks wore tiod 1186 ; priests oroep like hunters towards north corner of vodi when Babisa payamina stotra is to be obante ed, 1167 ; purchase of king soms 1141 ; qualifications of priosto io, 1134 ; reason why so called, 1134 ; ftu-grabag in, 1178; saorifice of Agnipomiya pasu on 4th day in, 1168, 1159; sacrificar bas to out his hair, pare bis naila, brush teeth and subsist on milk in, 1135-36 ; sacrificer to go to king for a sacrificial ground in, 1134 ; sacrificer is given antelope born for soratohing body and a staff of udumbara, 1137-38 ; sadas, con struction of, in, 1165 ; savamiya animal sacrificed on last day in, 1174; davaniya offerings of cake &c., 1174-1175; season for per formance of, 1184 ; soma placed ont couch of udumbara wood, 1146; slomabhāgas repeated by brahma, 1167; stones for crusbing soma stalks, 1168 ; stotras are of two kinds in, payamana and dhurya, 1167; dakrimanthi-practra in, 1175; tanūnaptra (Bolema covenant) between priests and sacrificer after Atithyepṭi, 1146 1147; twelve sastras in, 1181-1182; udavasiniya iṣti in, 1201 ; udum. bara post planted in sadas, 1165 1156 ; udayaniyā isti at end of, 1200 ; upasad ieṭi twice daily for three days in, 1151-62 ; Vaisarjina homa in which priests and saori ficor and wifo touch each other and are covered with cloth, 1168 ; Vaidvakramapa offerings in, 1190; Vanatsvarī wator brought boforo evening on Agnipomiy. day, 1160 ; vipruddhoma, 1166n; waters, two kinds of, used in extracting soma juice in, 1164n; wife is girt up with yoktra, ha, hair covorod with jala and a pioco of holy wood1282 
 
-History of Dharmatastra 
+
 
 to sorstcb her body witb, 1138; wife of sacrificer has to updorgo apsu-dikga except outting of hair, 1136; wifo undorgoos purification of body with bunches of darbha at the instance of pratipresthat, 1136 ; wife pours pānnojana water on her thigh at the chanting of yajña-yajñiya stotra in, 1195 ; Yajõby ajñiga stotra is last in, 
 
@@ -697,7 +697,7 @@ from widows of Vioitra vīrya 603. Bhisma parva, 138, 139, 710. Bhifmatarpana, 4
 
 1290 
 
-History of Dharmasastra 
+
 
 allowed, 764; to bo takon in pri- ' in grbya ritog, 208n; required to vate or scroened from public view, be most learned of all prioste, 1021, 759; to be takon twice a day, 758; Brahmabala or Brabmapabala, com. to be takon whilo sitting, 758 ; 1 of Kathakagrbya, 220, 2560. uttering Govinda' while taking Brahmapārin, garments of, 278-279; food in, 765; yajñopavita to bo in Rg. and Tai. Ār. 268,270 ; girdle worn in a pavita form at, 762. 
 
@@ -917,7 +917,7 @@ one's maternal upolo's or patornal
 
 1294 
 
-History of Dharmasastra 
+
 
 aant's daughter, 459; prāyasoitta | Bub-castes arise in several wayo, for marrying a girl whose gotra is 57-58; preserved Indian society the samo as that of one's maternal from social anaroby, 21a; prokee graad-father, 471. 
 
@@ -1205,7 +1205,7 @@ mound, 1030-31; japa by botṛ, Danaviveka, 881.
 
 1298 
 
-History of Dharmasastra 
+
 
 pounded grains to make a cake,1 Bomayaga, 1016-1016; second iqa 1030; Naristha homas, 1081-1082; / consists only of drops of ajya, nigada after 8&midhent verges re- 1078; spreading the antelopo skin poated by hotf, 1049-1050; airvāpa to the west of the utkara on which (taking out four handfuls of grains are to be pounded, 1026 grains ), 1023 ; one who has not 1027; Saktavaks ropeated by hot, threo pravara sages is not eligible 1073-1074; suunnons to havipkit for darśapūrnamāl& according to differed according to varna of Jaimini, 1055n; offering of water sacrificor, 1027; tbird purodada 1180d for scouring volgels to Ekata, offered to Indra Vaindha in full Dvita and Trita, 1034; offering to inoon ipṭi uccording to some, 1085; Agni Svietakrt after purodadas, upārnsuy&ja, after the first puro 1063-1064; patpisanyājas, 1076. I dāda, 1062; Veda (bunch of dar 1077; patoisampabana, 1010-1041; bhas so called) how cut and for pātras (utensils) required in, what purposo, 1014-1015; vodi, 10159, 1020; pātrāsādada, 1020; construction of, to west of alava Pinda pitļyajña performed only in niya, 1034-1038; Vipnukramas, darāeṣti, 1015, 1085-1090; plenty (four), 1083; yajamāna repeats of rice cooked is dakṣiṇā for the Atimokpa mantras towards the priests, 1069; portion cut off for ond of the frite, 1084, offering from onko &c) is as much Das, S. K., 921n. 48 front joint of thumb, 1061; Dāse (866 under dasyu), antago pranit. waters, carrying forward nism of, to Aryas, 26; distinguish of, in, 1021-1022; prastara (first 
 
@@ -1281,7 +1281,7 @@ devayajña and devapuja in later
 
 1300 
 
-History of Dharmatastra 
+
 
 sugtis, 705; vaisvadova oame to be Dhṛtarāptra, bocame forost hermit looked upon 48, 705. 
 
@@ -1435,7 +1435,7 @@ cause it was cheap and ensured Durga, eighth of bright half of Assina accuracy, 
 
 Bacred to, 138; Devluahatmya, taught his son, 321; prejudico principal text of worshippers against Coarning from books in of, 738; killod Mahiṣāours, India, 347, 349; salient features 638; metallic stone used in wor of system of, in ancient India, ship of, 716; Dimes of, 738 ;' 369-370; subjects of study, 362;1302 
 
-History of Dharmasastra 
+
 
 syalem of pupil teachers in, 349- 1 ohildren, 507-508; power of, to in 
 
@@ -1585,7 +1585,7 @@ Garga, 267, 666, 660, 672, 826.
 
 1304 
 
-History of Dharmadāstra 
+
 
 719. 
 
@@ -1755,7 +1755,7 @@ is Kaśyapa, 497; of womon, dis Golaka, 64, 80, 611; treated by Mitak- cussion i
 
 1806 
 
-History of Dharmatastra 
+
 
 According to Mahabharata, 489 ; 1 purchasing thom from the owaord, pravara, of same gotra diffor, 495. 856, 864; of lands and villages at 496; roason why brahmacarin was solar and lunar eclipses, 863; of askod, 285-286; rules for one who land sometimo resumed by later doos not know his own, 495 ; kings, 863; of village to a brib somo gotras have one, two or fivo mana in honour of Buddha, 854 ; pravara sages but novor four, 491- prior grants to temples and brāb 492; system of, among Buddhists maṇas wore exceptod when making also, 494; theories about grounds grants of villagos, &c., 863; rulos of prohibitod degrees in, 477-478; about royal grants of lands or two gotras for some families, 492- nibandhas, 860-861; sin in rebump 493;two gotras bave to be consider- tion of grants made by former od in marriage of an adopted son, kings, 861-862 ; vorges deprecating 493; two meanings of, 485-4861 resumption of, 861-863. two views of gotra of women, 466- Grha pravesaniye boma, a rite in 467; wonian enters husband'a gotra marriage, 535. by marriago particularly in the first Gphastha (householder), must wor four forms, 463, 466. 
 
@@ -1851,7 +1851,7 @@ converted, 379-392 ; tonet of adhi
 
 1808 
 
-History of Dharmasastra 
+
 
 235, &c. 
 
@@ -2085,7 +2085,7 @@ Kakusthavarman, a Kadamba king,
 
 66, 123, 251, 449.1312 
 
-History of Dharmatastra 
+
 
 75. 
 
@@ -2229,7 +2229,7 @@ bita'); cessation of Veda study on death of, 398; could punish brahmanas in appr
 
 1314 
 
-History of Dharmafāstra 
+
 
 persons guilty of gari kara, 60-61; live in the kingdom of sudra duty of, to 800 that no drotriya kings, 121; some k. had a hundred porished in his kingdom through wives, 653; who bocamo brahma hungor, 112n; education of, pas according to the Mahabharata according to Kautilya, 364; four and purīgas, 66; who had attained wives of, 551 ; greated by maidont eninence in brahmavidya, 105. with showers of friod grain on Kiratas, 77; aro mlecchas according fostive occasions, 611; has parts to some works, 77; inentioned in of oight deitios in him, 137; kept Taqdya Brahmana, 44; viow of people within bounda, 39; loft Mann about, 47. ecclesiastical matters to purohita, Kleen, Miss Tyra de, 321. 363; madhu parka offered to, on Kolika, 79. his visiting a person's hou80, 642; Konkara, country of, outside pale office of, extolled beyond measure, of Aryāvarta, 16. 137; on coronation was given a Kooch Behar, pon-Hindu family in, vessel of sura by purohita, 796; became Hindu 389. rulor of all, except biahmaṇas, Kosala-Videhas, ceatre of Aryan 139; shared in the merit accumu- | culturo in Brahmana', 12. lated by brahmanas, 139; to be Krama, 347; a modo of reciting approached for yogaksema by brā- | Veda, is of hunian authorship, hmagas, 112; to hold assomblies of 348n. poots and learnod men, 369; to Kratu, & smrtikara, 934. mako brahmagas who do not per į Krpa, 123. form saradhyā, do the work of Kṛp, wife of Drona, 627. sadras, 318; to punish husband Krśaśva, author of Natasutra, 84. who abandons blameless wife, 552; | Kropa: Ghora Angirasa, was teacher to punish with death one who of, 719; nanie of, to be taken in kills & woman, a child or a brah- morning, 648; some of his queens maga, 610; to punish with fine burnt themselves along with his 
 
@@ -2291,7 +2291,7 @@ od by, could be eaten by brābmaṇas Laghu-Viggu, 168, 169, 226n, 24, according
 
 1316 
 
-History of Dharmadāstra 
+
 
 Layhu-Vyasa, 111, 655, 659A, 
 
@@ -2435,7 +2435,7 @@ taśubandha ), 1110.
 
 1318 
 
-History of Dharmasastra 
+
 
 Maitrdyani-8ambita, 421, 255, 503, Mantras (vide under nigada): fout 
 
@@ -2665,7 +2665,7 @@ to brahmanas even in distress, 124. Months : intercalary month called
 
 Samsarpa or Ashasaspati, 1178; twelvo enciont names, of, &ro Madhu, Madhara &c. 820, 11781912 
 
-History of Dharmasastra 
+
 
 twolve, Associated with twelve fifteen muhurtas of day given in names of Viṣnu, 250. 
 
@@ -3009,7 +3009,7 @@ dakṣiṇ& wag & thousand borsos, 1110; tail of victim employed as
 
 1328 
 
-History of Dharmatāstra 
+
 
 Pavitra (loop or ring), 211n, 1016, | Planets ( seo grabadanti): fuel stioks 
 
@@ -3143,7 +3143,7 @@ E. D. 167
 
 1330 
 
-History of Dharmajāstra 
+
 
 881. 
 
@@ -3301,7 +3301,7 @@ vali, an anthology, 367; author of Purupottama, commentator of San- Kāvyamimān
 
 Dyābanirnays of Vallabha, 949n. Karpūramañjarī, 460.133% 
 
-History of Dharmatastra 
+
 
 Rojasnya, a very complex rite 1 of, to be performed in the ruins, 
 
@@ -3569,7 +3569,7 @@ claim of, to prescribe pedances | 256, 258, 260, 2660, 267, 287 &o. for lapaes, 
 
 1336 
 
-History of Dharmasastra 
+
 
 Sathvarga-vidya, 247, 840. Samvaria, 15, 1121, 169, 303, 326n, 
 
@@ -3637,7 +3637,7 @@ creatures, 933 ; sudre could not Sapindīkaraga, a sraddba, 473. become accordin
 
 1338 
 
-History of Dharmasastra 
+
 
 Saptapadi, principal rito in marriage, 
 
@@ -3781,7 +3781,7 @@ yapa, 830n; damos of,in Atharva. to be expiated by gifts, partion. voda, 823 ; s
 
 1340 
 
-History of Dharmasastra 
+
 
 Bitx, ideal of Indian women, 568; 
 
@@ -3877,7 +3877,7 @@ Special Marriage Act of 1872, 461, to have married Surya, 526; king 621; forbids
 
 vorce Act applicable, 621. are filled with soma, 1177n; not to Spengler, 138. be drunk by ksatriyas, 1179; 18- 8pbya ( wooden sword ), 985; used lation of soma plant to moon, in swooping Vedi 1036, 1036. 1202; show of force in taking soma sraddba, fresh offered to pitṇs in,780. from the vendor of some, 1143; frāmanaka, firo so called, 9100; is subrahmanya priest drives the cart! Vaikhanaga &stre, 917.194% 
 
-History of Dharmasastra 
+
 
 Áranta (Vedic) sacrifices, 076f; , stbandila (altar ), how prepared, 
 
@@ -3995,7 +3995,7 @@ any oooupation, 164; could listen to the recitation of the tbo oplos and purlṇ
 
 1344 
 
-History of Dharmatāstra 
+
 
 daugbtor in matriago, 506; some | Suktavaka, ia darda purgamis, 1072 sudrabecamo kinga, 121; *pokon 1074. of as dark varga' in the sutras, Saktimukt&vali, 367, 38 ; spoken of as Vajananoyin, salagava (rite ), 831-832; flesh of 166; subdivisions of sodra 0x offorod to Rudra, 831; perform whoso food could be eaten by ed in Sarad or Vasanta on Ardra, brahmagas in ancient timos, 121- 831; Rudra described as supremo 122; to say "śiv&ya nanah' or deity in, 736. 
 
@@ -4119,7 +4119,7 @@ doubtful mattors of dharma, 967. 8. D. 169
 
 . 
 
-History of Dharmasastra 
+
 
 Tarz, Dr. 384. Tarpang, 668-689, 689-695; & con stituent part of brahmayajia 692 ; a constituent part of sadna, 668 689 ; every one bad daily to per form tarpaṇa of gode, bages and pitļs, 689; most elaborato tarpapa of all sutras is in Baud. Dh. 8. 693 ; part of band by which water is offered in, 689-690; proceduro of, 630 ; the devatas that are offered water, 690; the pitis to wbom wator is offered, 691-692 ; the sagos to whom water is to be offered, 690-691 ; performed while standing in mator, 668; to be Porforined as part of brabmayajõe, 668 ; women teachers in, 366, 691; short form of 693; special tarpana to Yams and Bhisma, 695; t. of 
 
@@ -4213,7 +4213,7 @@ of Agoicayana from Prajapati,
 
 1348 
 
-History of Dharmasastra 
+
 
 Traptr, story of, that by wrong pro- could worship images of avstöras 
 
@@ -4537,7 +4537,7 @@ H. D. 170
 
 1354 
 
-History of Dharmatastra 
+
 
 Vidyargava, 196n. Vidyas, fourtoon or eightoon, 365. Vidy&sūkta, 107, 330. Vihevya, hymn, 1011. Vijapman, (same as Kāruga, ) 95. Vikramlaka-devacarita, 524. Village (grāma), definod, 875n ; king 
 
@@ -4647,7 +4647,7 @@ dure of, 890–892, Westermarck, 160, 166n, 180, 457,
 
 1356 
 
-History of Dharmadāstra 
+
 
 mothor ), 585; tonsuro of, among 18nco, 568; rules for procedenca brahmaṇas, 687-693; tying up of among several wives, 559-560; hair into braid by, loads to bond. sudrs wife not to be associatod* ago of deceased husband, 685; W08 with, in religious rites by doijata 
 
@@ -4691,7 +4691,7 @@ krauta-sutra, 1092n. Yajño pa vrta (800 under ksatriyas',
 
 1358 
 
-History of Dharmasastra 
+
 
 ing sacred throad in tarpana, 690 692 ; qumbor of, diffored according to circunstances, 292-293 ; praya écitta for loss of, 374; procoduro of putting on, 297 and .; roligious acts done without wearing y. be came futile, 293; taking moals without wearing, made ono liable to expiation, 293; whother women wore, 294–296. Yajuṣ pavitra, is a mantra 3780, 728 Yajyd (offoring prayor ), 1058-1059; 
 

@@ -19,7 +19,7 @@ ETAT. (768) q. by p. 805, a II. p. 6.
 
 923. For upapātakas vide Mapu XI. 59-66 (such as govadha, adultery), Yaj. III. 234-242, Vippudharmasūtra (37) which contain long lists of them.512 
 
-History of Dharmatastra 
+
 
 [Vol. 
 
@@ -63,7 +63,7 @@ s i staT: 1 3179. 17. . II. 10. 27. 14. 931. preprost Formato rafat I spestre II
 
 $14 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -101,7 +101,7 @@ Ta wray ni *N . g. by Free, II, p. 328.
 
 516 
 
-History of Dharmafāstra 
+
 
 [Vol. 
 

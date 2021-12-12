@@ -59,7 +59,7 @@ As to brāhmaṇas the matter stands thus, The Nirukta (II. 4) contains four 224
 
 108 
 
-History of Dharmadāstra 
+
 
 [ Ch. III 
 
@@ -95,7 +95,7 @@ Teaching the Veda
 
 110 
 
-History of Dharmasastra 
+
 
 [ Oh. III 
 
@@ -127,7 +127,7 @@ Gautama ( IX. 63 ), Yaj. ( I. 100 ). Viṣnu Dh. S. ( 63. 1 ), and Laghu-Vyāsa 
 
 112 
 
-History of Dharmatāstra 
+
 
 ( Oh. III 
 
@@ -155,7 +155,7 @@ that it is the duty of the king to support śrotriyas ( brāhmaṇas learned in 
 
 114 
 
-History of Dharmasastra 
+
 
 (Ch. III To the same effeot are Yaj. (I. 200-202), Vas. Dh. 8. (VI. 32 ), Ausanaga ( Jiv. I. p. 521 which is almost the same as Manu IV. 188). Just as a brāhmaṇa who was not learned was enjoined not to accept a gift, so conversely people were asked to make gifts only to learned and worthy men. Even so early as the Sat. Br. this is emphasized as in IV. 3. 4. 15 (S. B. E, vol. 26 p. 344 ) " thus those cows of his are given to him who is fit to receive a dakṣiṇā and not to him who is unfit'. Vide III. 5.1.19 (S. B. E. vol. 26 D. 114) also, The Ap. Dh. S. (II. 6. 15. 9-10 ) prescribes one should invite for dinner in all religious acts brāhmaṇas who are pure and who have studied the Veda and one should distribute gifts at a proper time and place and on ocoasions of purificatory rites and when there is a worthy acceptor,' 243 To the same effect are Vas, Dh. 8. III, 8 and VI. 30, Manu (III. 128, 132 and IV. 31 ), Yaj. ( I. 201), Daksa III. 26 and 31.** The smrtis say that gifts given to a brāhmaṇa who has not studied the Veda or who is avaricious and deceitful are fruitless and lead the donor to hell ( Manu IV. 192-194, Atri 152, Daksa III. 29). Manu ( XI. 1-3 ) says that nine kinds of mātaka brahmanas who are poor are the primary objeots of the gift of food and fees inside the sacrificial altar; while to others food and wealth may be given outside the altar ( babirvodi ). 
 
@@ -191,7 +191,7 @@ the come giving too by anybodat privilege o
 
 246. FAUT TE Work Frauengroshataratas I ont. V. 183; सममबाहाणे वानं विरणं पाह्मणवे। प्राधीते शतसाहनमनन्तं वेदपारगे। मह VII. 86; REFTF IV. 42 and Dakpa read Wrarate whioh roading is noted by Kulluka alao and Vedavyasa (IV. 43-47) oxplains the word, मामणमुक भाचार्य and पेपारण.116 
 
-History of Dharmasastra 
+
 
 [ Ch. III 
 
@@ -219,7 +219,7 @@ ___262. दुर्वत्ता वा सवत्ता वा मात�
 
 118 
 
-History of Dharmalāstra 
+
 
 ( Oh. III 
 
@@ -323,7 +323,7 @@ Though it is said that a brāhmaṇa in distress may follow the occupation of a 
 
 124 
 
-History of Dharmasāstra 
+
 
 [ Ch. III 
 
@@ -385,7 +385,7 @@ oxen that are yoked to carts. These restrictions did not apply to a kṣatriya e
 
 128 
 
-History of Dharmasastra 
+
 
 [Ch. III 
 
@@ -533,7 +533,7 @@ Tai. Br. III. 7. 3 days . One should sacrifice in the right hand of a brāhmaṇ
 
 variations.136 
 
-History of Dharmasastra 
+
 
 [ Ch. III 
 
@@ -767,7 +767,7 @@ Treft quoted in F . ( 14. p. 316 )
 
 150 
 
-History of Dharmasastra 
+
 
 ( Oh. III 
 
@@ -847,7 +847,7 @@ jotberes 35-4 brahmen
 
 154 
 
-History of Dharmasastra 
+
 
 | Ch. III 
 
@@ -931,7 +931,7 @@ Though the sūdra was not authorized to perform Vedic rites, he was entitled to 
 
 158 
 
-History of Dharmasastra 
+
 
 . 
 
@@ -1003,7 +1003,7 @@ T: Heart 3: 1 BT4. 4. . II. 2. 3. 4.
 
 162 
 
-History of Dharmalastra 
+
 
 Cb. III 
 

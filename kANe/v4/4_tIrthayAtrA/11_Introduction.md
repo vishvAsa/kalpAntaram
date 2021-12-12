@@ -121,7 +121,7 @@ mentions a famous tirtha called Saraka which is said to contain in at the sancti
 
 560 
 
-History of Dharmasastra 
+
 
 [Vol. refers to this salve. Gaut., Baud Dh S.and Vas. Dh. S. have the same sūtra 1259 stating that the 'deśas (localities) that are holy and hence destroyers of sin are all mountains, all rivers, holy lakes, places of pilgrimage, the dwellings of sages (rsis), cowpens and temples of the gods' The Vayupurāna 1260 and Kūrma state that all parts of the Himalaya are holy, the Ganges is holy everywhere, all rivers falling into the sea and all seas are holy. The Padmapurāna (Bhūmikhanda 39. 46-47) says that all rivers, whether flowing through a village or a forest, are holy and that where no name of a tirtha on rivers is known it should be called Visputirtha. Kālıdāsa speaks of the Himālaya as devatātmā (as vivified by the presence of gods) in the Kumārasambhava (I1). The Bhagavata V. 19.16 names 27 holy mountains while the Brahmānda (II. 16. 20-23) names thirty. The grandeur and sublimity of snow-capped mountains, of large life-sustaining rivers and of great forests easily in press the minds of almost all people and induce them to think that there is something divine about them, that the Supreme 
 
@@ -205,7 +205,7 @@ get $799 TETO! The same verse occors in FTY 109,3, (amaus 27,87) and the first h
 
 1566 
 
-History of Dharmasastra 
+
 
 I Vol. 
 

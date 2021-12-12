@@ -73,7 +73,7 @@ __1665. जातिजानपदान्धर्मान् श्रे�
 
 860 
 
-History of Dharmasāstra 
+
 
 Vol. 
 
@@ -105,7 +105,7 @@ exoopt half verse :), frig. (For HA P. 130), geri IV, 5. 48-52, * *17. Typ: 7 (e
 
 हस्पतिमा । अभर्तृकाधाgभार्यानणे चांतिदूषितम् । कुले कम्योगदान देशेवग्येषु O n e on *79. u. U. 10. 27. 3 (Bühlet's ed.). ..86% 
 
-History of Dharmatastra 
+
 
 I Vol. 
 
@@ -139,7 +139,7 @@ first half of Jābāli's verse is the same as Many II. 14.
 
 864 
 
-History of Dharmatastra 
+
 
 [ Vol. 
 
@@ -207,7 +207,7 @@ YCOTTTTTTTF417: 973aap 79: 1. f4 69 reads Fatih and gives three interpretations 
 
 868 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -281,7 +281,7 @@ Then comes the question of the conflict between smstis and purānas. It has been
 
 F arytia ara fata Tha i gasthet AET (q. in prae., FOTWA, p. 7. yra. I. p. 5).87% 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -365,7 +365,7 @@ r marta 14:18 urt \#ETHET Warsiteto farqia 1 * q. by pag. (FUTA) p. 7.
 
 878 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -399,7 +399,7 @@ ____1715. यद्यपि मातुलमुतापरिणयनमु
 
 878 
 
-History of Dharmatūstra 
+
 
 (voi. 
 
@@ -427,7 +427,7 @@ Therefore aria hofaangrudaUTTICI 19. 5. p. 420.
 
 880 
 
-History of Dharmadastra 
+
 
 ( Vol. 
 
@@ -467,7 +467,7 @@ tv, EN APARATA, verse 105 p. 11.
 
 111882 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -503,7 +503,7 @@ The digests contain numerous examples about the customs and usages that were adh
 
 884 
 
-History of Dharmatāstra 
+
 
 i Vol. 
 

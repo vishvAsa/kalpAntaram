@@ -19,7 +19,7 @@ ofitar a forea. But the Par. M. on it ( vol. II part 1 p. 53 ) makes it clear th
 
 886 
 
-History of Dharmalāstra 
+
 
 I Vol. 
 
@@ -59,7 +59,7 @@ of that hymn we read "kalayo mā bibhitana' (O descendants of Kalil do not be af
 
 888 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -103,7 +103,7 @@ a
 
 890 
 
-History of Dharmatāstra 
+
 
 ( Vol. 
 
@@ -171,7 +171,7 @@ T: Lør: waar@ourg . The first p. 244 quotes the verse HOT: and then remarks HUH
 
 894 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -283,7 +283,7 @@ The information derived from the fragments of the work of Megasthenes on India a
 
 1765. Vide Mr. C. V. Vaidya's 'Mabābhārata, a criticism' pp. 75–76, where ignoring the figures of total years (viz. 6042 or 6451) he comes to the conclusion that Krsna flourished about 3101 B, C. since 138 Kings between Heracles and Sandrakottus (i. e. Candragupta) may have ruled in all about 2760 years, taking 20 years as the average for each reign,902 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -305,7 +305,7 @@ Bhārata battle traditions and confirms the date 2449 B. C. already arrived at b
 
 904 
 
-History of Dharmadastra 
+
 
 [ Voli 
 
@@ -327,7 +327,7 @@ vai ra TTÀ gigt). In the Matsyapurāna ( 159. 4-6) it is said that Skanda and V
 
 906 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -379,7 +379,7 @@ As to the exact tithi and naksatra on which the Great War began, there are many 
 
 , 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -427,7 +427,7 @@ ari 7*: paraATO \#77: I... AUTÁ FERRATA: 197 ta: qatā FThe Fausto THA 167.26-2
 
 914 
 
-History of Dharmatāstra 
+
 
 [ Vol. 
 
@@ -455,7 +455,7 @@ There are other data in the Mahābhārata from which also the date of the Mahāb
 
 916 
 
-History of Dharmasastra 
+
 
 : 
 
@@ -481,7 +481,7 @@ Then there are several passages which state the positions of several planets jus
 
 918 
 
-History of Dharmasastra 
+
 
 i Vol. 
 
@@ -545,7 +545,7 @@ ovat i afroh 3.14; 24 a o 44:1 part PATETT otro arpit syaffua: \# FFCH 3, 18. ga
 
 920 
 
-History of Dharmajāstra 
+
 
 [Vol. 
 
@@ -575,7 +575,7 @@ in Purva-bhadrapadā at the beginning of the *: 789 FARSU fantai Tata fingra Fa:
 
 116922 
 
-History of Dharmasastra 
+
 
 [ Vol 
 
@@ -633,7 +633,7 @@ he is said to have already flourished (Vāyu 98. 111, Matsya 47. 255 ), in other
 
 926 
 
-History of Dharmadastra 
+
 
 (Vol. 
 
@@ -705,7 +705,7 @@ pressly states that these were cited from the Brahmapurāna in the works of Hala
 
 930 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -777,7 +777,7 @@ words of Manu XI. 16 'bhaktāni sad-anaśnatā ... bartavyam hinakarmapaḥ ). I
 
 034 
 
-History of Dharmatāstra 
+
 
 [Voi. 
 
@@ -905,7 +905,7 @@ f r a fara aftuen arah panta faralarreterarnia: ATT * quru: OFTAETT! Fatau p. 47
 
 pa Retrato para garantesfayfur Aigare ett Brugt Am uifarrararam \#: oftast fara STAATUAATTI ondra, folio 7a.949 
 
-History of Dharmasastra 
+
 
 (vol. 
 
@@ -1015,7 +1015,7 @@ I'
 
 948 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -1045,7 +1045,7 @@ the later smitis of Devala and Atri is remedied by this Kali varjya text which f
 
 950 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -1217,7 +1217,7 @@ a sugarurat a fenti WETS on erat. p. 33.
 
 958 
 
-History of Dharmasastra 
+
 
 [Vol 
 
@@ -1269,7 +1269,7 @@ e rguretat a marggrua huruetyo pauni gre pp. 284-286. .
 
 960 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -1379,7 +1379,7 @@ Madya is a generic term applicable to all intoxicating drinks; surā is said to 
 
 966 
 
-History of Dharmasastra 
+
 
 | Vol. 
 

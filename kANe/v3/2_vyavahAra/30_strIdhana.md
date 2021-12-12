@@ -119,7 +119,7 @@ Orna oft कीर्तितम् । भईरहगमनार्थसु
 
 776 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -145,7 +145,7 @@ ___1502. परयो जीवति पः श्रीभिरलारो �
 
 178 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -181,7 +181,7 @@ i n folio 105 b, 7. 7 p. 158 quotes the Heart f. & p. 517 explains**** propa fun
 
 780 
 
-History of Dharmalastra 
+
 
 ( Vol. 
 
@@ -217,7 +217,7 @@ The Sm. C. does not give a defintion of stridbana, but it, does not adopt the in
 
 op weg narating and profitar al 74 Iv. 1. 18 and 23.' miptor says 'stort in Afritt svaraos782 
 
-History of Dharmasāstra 
+
 
 (Vor. 
 
@@ -287,7 +287,7 @@ the 14174. H. p. 546.
 
 786 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -321,7 +321,7 @@ TE HTC \# T. 4. by 2 p. 755, arr IV. 1. 24 p. 78, far. II. p. 282.
 
 788 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -399,7 +399,7 @@ gaat het op : FORT WALT I Trafrecat TOTRA FET, 1 FER दिशु पालन�
 
 p. 721 (the first two only). p . II, pp. 285-287 (all except fugiat &c.), P. c. ... 318 and ft. f. p. 143 ( first two): ETA HTT IV, 2, 12 p. 92 has the verse farat ( ascribes it to Terara), 17. A. p. 162 reads sua for para.1792 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -435,7 +435,7 @@ As regards succession to the property of a maiden there is no difference at all 
 
 794 
 
-History of Dharmasastra 
+
 
 (Vol. made by him after deduoting his own expenses and those of her family. 
 
@@ -463,7 +463,7 @@ The Vyavahāramayūkha which is held to be of para mnount authority in Gujarat, 
 
 1996 
 
-History of Dharmatāstra 
+
 
 ival 
 
@@ -533,7 +533,7 @@ If there be none of the above both Yautaka and Ayautaka strldhana pass in order 
 
 800 
 
-History of Dharmasastra 
+
 
 (VOL 
 

@@ -19,7 +19,7 @@ Fa\# 49 Finistrada 1967. AT. I. part 1 p. 389. 1764. Tuan Gratial OT: HTTFRITT V
 
 742 
 
-History of Dharmasastra 
+
 
 [ Ch. XX 
 
@@ -99,7 +99,7 @@ In bhūtayajia, bali is to be 1778 offered not into fire but on the ground, whic
 
 746 
 
-History of Dharmasastra 
+
 
 [Ch. XX 
 
@@ -183,7 +183,7 @@ In modern times the way in which balis are offered and their number are set out 
 
 बरुणपुरपेन्या748 
 
-History of Dharmasastra 
+
 
 ( Oh. XX 
 

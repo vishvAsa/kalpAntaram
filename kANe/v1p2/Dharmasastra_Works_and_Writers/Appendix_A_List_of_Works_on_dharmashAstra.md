@@ -10,7 +10,7 @@ List of Works on Dharmaśāstra It is necessary to say a few words about the met
 
 986 
 
-History of Dharmasastra 
+
 
 . 
 
@@ -122,7 +122,7 @@ No. 270). अघनिर्णय by वेङ्कटेश, son of रङ्
 
 990 
 
-History of Dharmasastra 
+
 
 मणुछलारीय by शेषाचार्यः 
 
@@ -4670,7 +4670,7 @@ Sin
 
 1058 
 
-History of Dharmasastra 
+
 
 त्रयी, वार्ता, दण्डनीति, मन्त्रिन्, पुरो- नृसिंहपरिचर्या m. in. नि. सि. and हित, सेनापति, दूत, चार, विचार, स्मृतिकोस्तुभ of अनन्त. व्यसन, सप्ताइराज्य ( स्वामि &c. ), 
 
@@ -5474,7 +5474,7 @@ IIIL
 
 1070 
 
-History of Dharmasastra 
+
 
 प्रयोगदर्पण Ano. N. ( New Series) the commentary प्रसाद of विठ्ठल 
 
@@ -5998,7 +5998,7 @@ Gbarpare and vyavahāra por
 
 1078 
 
-History of Dharmasastra 
+
 
 tion is translated by him. Vide बृहद्यम pr. in Anan. Sm. pp. 99 sec. 116. 
 
@@ -8482,7 +8482,7 @@ C. m. by कल्पतरु and वि. र. । ईजट (pr. in Ben. S. Se
 
 1116 
 
-History of Dharmasastra 
+
 
 . 
 

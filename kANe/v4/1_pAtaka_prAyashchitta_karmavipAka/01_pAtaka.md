@@ -177,7 +177,7 @@ ___24. अभिनिम्रतान्युदित कुनाखश्
 
 myoga. परिविविदान is the same as परिवत्ता अनदिविषु or-पू Is explained by Devala and by Aparārka p. 451, by Haradatta on Gaut. 15.15 and Mit, on Yā). III. 26 as 'a younger sister who marries before ber elder sister' and are or a is the elder sister who is thus superceded by a younger one In Ap the word on is to be connected with both and read. The Amarakośa explains Free differently. (17, 43-44) makes even the father or other guardian for marriage getting a younger son or daughter married before an elder one and the priest officiating at such a marriage equally guilty fralara: orta ar यया च परिविद्यते । व्रतं संवत्सरं कुर्युतियाजकपञ्चमा. 
 
-History of Dharmasastra 
+
 
 Vol. 
 
@@ -435,7 +435,7 @@ abandonsd as palita). It is clear from this that such contacts with a patita as 
 
 28 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -517,7 +517,7 @@ H.D. 5
 
 34 
 
-History of Dharmasūstra 
+
 
 [Vol. mentioned by Gautama 20.1); the sale of a tank or of a park intended for a charitable object (though not actually dedicated to the public), ascribing de.nerits to an unmarried girl (or in- • terfering with her private parts by means of a finger or the like); officiating as a priest (at the marriage) of one who though a younger brother marries before an elder brother, giving one's daughter in marılage to one who marties before his elder brother; cheating or following crooked ways (except against one's guru, which is equal to surāpāna), giving up an observanca voluntarily undertaken81, cooking for the sake of oneself only (and not for deities, guests &c, which attitude is condemned by Rg X 117 6 and Manu III 118), sexual intercourse with a woman (even one's own wife) who is given to drinking wine, giving up the Veda already learnt so as to forget it by the study of other subjects ); not tending one's srauta or smūła fire, abandoning one's son, not maintaining one's relatives (such as the maternal or pater nal uncle, when one has the means), cutting down a big tree for fuel (to be used only in cooking one's food83), maintaining one's self on one's wife (1 e on her immoral earnings or by means of her strīdhana) or by kıllıng animals or by herbs (used as chaims), setting up of machines that cause death or injury to beings (such as for pressing oil from sesame or for crushing sugarcane stalks); addiction to the vices (declared to be eighteen by Manu VII. 45-48 ); selling one's self (as a slave for money), being the 891 vant of a sūdra, friendship with low persons, intercourse with a woman of a lower caste (either as a wife or as a concubine); living outside of the four āśramas81, fattening oneself on food obaritably supplied by others, studying the works of false sāstras (such as those of atheists like Cārvāka); holding the office of the superintendent of mines (of gold and the like); sale of one's wife 
 
@@ -551,7 +551,7 @@ TIGAST AFFALU Fifa FARI FIA I fesy On T. III 229-236. The reference is to sha 21
 
 36 
 
-History of Dharmasastra 
+
 
 (VoI, 
 

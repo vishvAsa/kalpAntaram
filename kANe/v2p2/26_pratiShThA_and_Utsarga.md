@@ -23,7 +23,7 @@ aft ITHTHE RET \#. X. 107. 10.
 
 890 
 
-History of Dharmasastra 
+
 
 (Ch. XXVI 
 
@@ -97,7 +97,7 @@ meter of W. Vide also has it p. 126.
 
 894 
 
-History of Dharmasastra 
+
 
 [Ch. XXVI 
 
@@ -223,7 +223,7 @@ The Vaikhānasa Smartasūtra (IV, 10-11 ) contains perhaps the earliest extant d
 
 90% 
 
-History of Dharmatāstra 
+
 
 (Ch. XXVI 
 
@@ -253,7 +253,7 @@ ter rart free
 
 904 
 
-History of Dharmasastra 
+
 
 ( Oh. XXVI 
 
@@ -383,7 +383,7 @@ F oto argagui AUTO OD \#\# XI. 26.
 
 912 
 
-History of Dharmajāstra 
+
 
 (Ch. XXVI 
 
@@ -453,7 +453,7 @@ mai ATITET TYTUFTsiru uTATA TATOTTISHI TUT चान्यस्वत्वा�
 
 916 
 
-History of Dharmalastra 
+
 
 (Ch. XXVI 
 

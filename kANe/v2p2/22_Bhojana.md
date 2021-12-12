@@ -21,7 +21,7 @@ T e er urd FFAHFIT CUTEN: aardghyturant sterat este faud u Tuuri aa: ETT TEFU: I
 
 RIETATTARE!758 
 
-History of Dharmasastra 
+
 
 I Ch. XXII 
 
@@ -95,7 +95,7 @@ H. D. 96
 
 76% 
 
-History of Dharmasastra 
+
 
 ( Cb. XXII 
 
@@ -233,7 +233,7 @@ I, D. 97
 
 770 
 
-History of Dharmasastra 
+
 
 [ Ch. XXII 
 
@@ -269,7 +269,7 @@ f erra-aitut: star wafa stre p. 1167.
 
 472 
 
-History of Dharmasastra 
+
 
 Ch. XXII 
 
@@ -303,7 +303,7 @@ tre navi SCTEUTET Nri Tu. कारणेति दधि। तेजोसि 
 
 774 
 
-History of Dharmadāstra 
+
 
 Ch. XXII 
 
@@ -389,7 +389,7 @@ sacrifices are born again in better forms ( of existence ) and that hinsā ( kil
 
 780 
 
-History of Dharmasastra 
+
 
 | Ch. XXII 
 
@@ -417,7 +417,7 @@ Gaut. 17. 29 and 34-35, Ap. Dh. S. I. 5. 17. 32-34, Vas. Dh. 8. 14. 48, Viṣnu 
 
 782 
 
-History of Dharmasastra 
+
 
 [Ch. XXII 
 
@@ -455,7 +455,7 @@ T. . p. 356 and . 4. p. 514.
 
 784 
 
-History of Dharmatāstra 
+
 
 (Ch. XXII 
 
@@ -493,7 +493,7 @@ t raforthopagantar' 3. D. 99
 
 786 
 
-History of Dharmasastra 
+
 
 Ch. XXII 
 
@@ -525,7 +525,7 @@ I. 160-165, Veda-Vyāsa III. 50-54, Brahmapurāṇa quoted by Aparārka pp. 1177
 
 e ( without qualifications ); vide gourmato 15. 80 alao.788 
 
-History of Dharmasastra 
+
 
 [ Ch. XXII 
 
@@ -689,7 +689,7 @@ i antara R AVET जम् । अमेध्यानि दशैतानि 
 
 III. 260 (fatto \#reto.).798 
 
-History of Dharmasastra 
+
 
 ( Ch. XXII 
 
@@ -757,7 +757,7 @@ In connection with the subject of going to bed at night, a good deal is stated i
 
 802 
 
-History of Dharmasastra 
+
 
 [ Oh, XXII 
 

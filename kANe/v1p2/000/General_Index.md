@@ -261,7 +261,7 @@ p. 963.
 
 1246 
 
-History of Dharmasastra 
+
 
 Āpastambasūtra-dhranitārtha-kārikā Asabāya, pp. 37, 547-551; composed 
 
@@ -1603,7 +1603,7 @@ Jivacchrāddhavidhi, p."03.,
 
 1262 
 
-History of Dharmasastra 
+
 
 Jivadeva, brother of Anantadeva, p. Kālanirnaya-dipikā, com. on Kāla 
 
@@ -1785,7 +1785,7 @@ ries on, p. 18. Kapiñjalādhikarana, p. 865n. Kathāsaritsāgara, of Somadeva, 
 
 1264 
 
-History of Dharmasastra 
+
 
 Kathopanisad, pp. 23, 41, 3161., 1 in, pp. 202-04; points of difference 
 
@@ -2137,7 +2137,7 @@ PP. 197-195. Mahābhārata, pp. 46, 210, 263. 264. 1
 
 1268 
 
-History of Dharmasastra 
+
 
 p. 794, 
 
@@ -3229,7 +3229,7 @@ H, D.-161
 
 1282 
 
-History of Dharmasastra 
+
 
 nul 
 

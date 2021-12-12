@@ -35,7 +35,7 @@ Fat The Wigura grinteragua ETT VIII. 19; quoted as Dovala's by Aparārka (P. 25 
 
 190 
 
-History of Dharmasastra 
+
 
 1 Oh, VI 
 
@@ -77,7 +77,7 @@ de p. 1115 on . III8. 9. . 460. T ry on matt II. 3, 83 got saferare: *T: sitt �
 
 199 
 
-History of Dharmatastra 
+
 
 (Ch. VI 
 
@@ -107,7 +107,7 @@ faa. I. p. 13, 957. AT. I. part 2 p. 18, \#FATTFIT p. 135. The editor of the an.
 
 194 
 
-History of Dharmasastra 
+
 
 [ Ch. Vṛ 
 
@@ -243,7 +243,7 @@ FUTUT. स्पादनापदि .
 
 200 
 
-History of Dharmasastra 
+
 
 { Ch. VI 
 
@@ -269,7 +269,7 @@ Garbhadhāna:--The beginnings of this ceremony are found very early. Atharvaveda
 
 8. D. 48 
 
-History of Dharmadāstra 
+
 
 [ On, VI 
 
@@ -299,7 +299,7 @@ TEX I7. 26. 1.
 
 204 
 
-History of Dharmatastra 
+
 
 [ Oh. VI 
 
@@ -371,7 +371,7 @@ As homa is necessary in numerous ceremonies and rites, the gphyasūtras give a d
 
 208 
 
-History of Dharmasastra 
+
 
 1 Oh. VI 
 
@@ -487,7 +487,7 @@ for Ph: PUTET. Agbara consiste in pouring in a continuous stream olarifiod butto
 
 212 
 
-History of Dharmasastra 
+
 
 (Oh. VI 
 
@@ -527,7 +527,7 @@ Ganapatipūjana :--This consists in inviting the presence of the elephant-faced 
 
 214 
 
-History of Dharmasastra 
+
 
 1 Oh. VI 
 
@@ -553,7 +553,7 @@ atat
 
 600.o ant rama OTTAVITI TUR IM i Toppe 65. 23; rate: f For T99T: I STORITFE 100. 25,216 
 
-History of Dharmasastra 
+
 
 (Oh. VI 
 
@@ -593,7 +593,7 @@ HL. D. 88
 
 218 
 
-History of Dharmasastra 
+
 
 [ Ch. VI 
 
@@ -629,7 +629,7 @@ nayana and Ap. says it may be performed when pregnanoy becomes apparent. Instead
 
 220 
 
-History of Dharmasastra 
+
 
 1 Oh. VI 
 
@@ -669,7 +669,7 @@ HHTE I T ITAT. 517. The Anukramapi says that the hymn Rg. X. 16% is to be ropoat
 
 222 
 
-History of Dharmatastra 
+
 
 (Oh. VI 
 
@@ -695,7 +695,7 @@ We have here first the religious part of home and oblations with mantras. But th
 
 224 
 
-History of Dharmasastra 
+
 
 [ Ch. VI 
 
@@ -759,7 +759,7 @@ Soṣyantikarma :--Vide Āp. gr. 14. 13-15; Hir. gr. II. %.8 II.3.1, Bhāradvāj
 
 228 
 
-History of Dharmasastra 
+
 
 ( Oh. VI 
 
@@ -823,7 +823,7 @@ In the Asv. gr. (I. 15. 1-4) the ceremony is described as follows: "When a son h
 
 232 
 
-History of Dharmasastra 
+
 
 h. Vì 
 
@@ -861,7 +861,7 @@ A. D. 50
 
 234 
 
-History of Dharmasastra 
+
 
 toh. VI 
 
@@ -901,7 +901,7 @@ ETT SETT Ap. M. P. II. 11, 33. Ap. 97. (15.12) presoribes that when a father ret
 
 WIT, 7. 9. II. 13. 6 and forva, T. bave & similar versc,236 
 
-History of Dharmasastra 
+
 
 [ Chu vi 
 
@@ -931,7 +931,7 @@ Utthana getting up from child-bed). According to Vaik, III. 18 on the 10th or 12
 
 238 
 
-History of Dharmasastra 
+
 
 Oh. VI 
 
@@ -977,7 +977,7 @@ Cara me at Fremt ar ramurai secret p. 26, 545. HÊ ESTA@far que tendre...... ara
 
 240 
 
-History of Dharmasastra 
+
 
 be performed before the 10th or 12th. Aparārka says that there is an option and one may follow one's own grhyasūtra. It appears that the nāmakarana 547 of Hariscandra, son of Jayat candra, king of Kanoj, took place three weeks after jātakarma (on 31. 8. 1175 A. D.). In modern times nāmakaraña generally takes place on the 12th day after birth and no Vedic ceremony as prescribed in the sūtras is gone through, but women assemble and after consulting the male members of the family beforeband announce the name and place the child in the oradle. 
 
@@ -1021,7 +1021,7 @@ A. D. 31
 
 242 
 
-History of Dharmasastra 
+
 
 I Ch. VI 
 
@@ -1049,7 +1049,7 @@ Instead of quoting gļhya sūtras at length the principal rules about names dedu
 
 555. नाम चास्मै दयः पोषपदाग्रन्तरन्तस्थमभिनिष्टानान्तं इथक्षरम् । चतुरक्षरं पा। Të das ASTECH ara: I grata e \#191 Bara store fra igotha afhangat teraTiTATTI 31. T. I. 15.4-10. The arers are the last three letters of the five mois (F ra), Torrand . Separate the 5th sūtra as atouata rare (s: Art STRIFUTI FONT: 47); tramih means of ararat: 78 Ty, iraera means far. Thona VIII. 3. 86 derives that word. That such rules are very ancient follows from & quotation in the Agrupu ar T: IFTTY TATA TTTY TH paari घोषवदाधन्तरन्तरथमवृद्धं त्रिपुरुषानूकमनरिप्रतिष्ठित सद्धि प्रतिष्ठिततमं भवति वचक्षरं चतुरक्षरं HT ATH 18 PUTATE ETHT4 vol. I. p. 4. futar that would follow the name of (one of) the three ancestors of the boy's father. sta moans desoont or family.' I means that tbe first syllable is not *, or wt (vido for I. 1. 73) and fuftararea means 'not borne by his foo.' 
 
-History of Dharmatāstra 
+
 
 (Ch. VI 
 
@@ -1085,7 +1085,7 @@ Saṛskāras-Namakarana
 
 $69. In the E. I. vol. 14 p. 342 (of sako 1470 ) strangely onough tho ongraror's namo is the somo as his father's.246 
 
-History of Dharmasastra 
+
 
 [ C. VI 
 
@@ -1113,7 +1113,7 @@ Presevx 8.-11, लेखाचरावदीप विष्णुधर्म�
 
 248 
 
-History of Dharmasastra 
+
 
 [Ch. Vṛ 
 
@@ -1147,7 +1147,7 @@ as beginning from Antofte
 
 250 
 
-History of Dharmasāstra 
+
 
 1 Oh. VI 
 
@@ -1407,7 +1407,7 @@ There is a great divergence of views about the number of locks of hair to be lef
 
 264 
 
-History of Dharmasastra 
+
 
 [ Gh. Vṛ 
 

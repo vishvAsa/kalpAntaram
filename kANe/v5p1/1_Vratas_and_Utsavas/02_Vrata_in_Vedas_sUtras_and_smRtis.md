@@ -75,7 +75,7 @@ XII. 5. 20 and 55.
 
 8. D. 4 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. II 
 
@@ -171,7 +171,7 @@ rah (tave ) I. p. 6. 66. नित्यस्नायी मिताहार
 
 प्रातः सङ्कल्पयेद्विद्वानुपवासव्रतादिषु । नापराहे न माया पिञ्यकालो हि तो स्मृतौ; 'सङ्कल्पस्य पूर्व नारायणस्मरण-नमस्कारी विहितो। यथा योगियाज्ञवल्क्यः । स्यायेनारायणं Far fara 7 og 1 &c. This is EUTTU79 VII. 33 'verdurereof देवं नित्यं स्नानादिकर्मसु ।' 
 
-History of Dharmasāstra 
+
 
 [Sec. I, Ch. II 
 
@@ -287,7 +287,7 @@ S
 
 91. Parimgjay qifOt werdensitienai OHT \#fra feri roky gant oferirani hapantai Fata:" negara I. 177. 88–89. 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. II 
 
@@ -319,7 +319,7 @@ māsa (black beans), kodrava, gram, masura (a kind of pulse), cina and kapittha'
 
 H. D.6 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. II 
 
@@ -407,7 +407,7 @@ e ao tetaan ta ). euro (on a) p. 4 has got an TTAT ART &c. क्रोधात
 
 (Continued on next page) 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. II 
 

@@ -47,7 +47,7 @@ A
 
 H0 
 
-History of Dharmasastra 
+
 
 than three printed pages such as 3, 20, 22, 23, 51, 54, 96. Chap. 5th is the longest, containing 178 sūtras and 14 verses at the end. Here and there Visnu Dh. S. gives etymologies such as of the word putrue in 15. 44 ( = Manu 9. 138 ), of Māmsa ( in 51.78 = Mapu V.55 ), of purusa ( from puri sete ) in 97.15, which is also given in Br. Up. II. 4.18 and Nir. I. 13), At the end of Chap. 78 there are two gathās (52-53) sung by pitrs which are quoted by Kullūka on Manu III. 274 as Viṣnu's and which are similar to Manu III. 273-74 and Vāyu-purāna 82.11 and Matsya-purana 204.5 ( matsya Chap. 204 has Gāthās 3-17 sung by the pitrs, 10 of which begin with api syāt sa kulessmākam etc. ). Vide Anuśāsane parva 88. 12-17 (Ch. ed.). There is one verge ( 72.6 ) which has eleven letters in the first pūūda and twelve in the remaining three, 
 
@@ -119,7 +119,7 @@ Rhandarkar
 
 120 
 
-History of Dharmasastra 
+
 
 first contained mostly prose sutras based on Manu and the Kathakagrhya and verses were tacked on later. 
 
@@ -187,7 +187,7 @@ FOUNDED
 
 124 
 
-History of Dharmasastra 
+
 
 It may be stated that on Visnu Dh. S. 21. 17 also Nanda paudita mentions the Kāthakgrhya, that Visnu Dh. S. 64. 21 (Drupadām Sāvitrīm vā) refers to Kāthaka S. 38. 63 (Drupa dādivonmumucānah etc. ). Similarly, Viṣnu 65. 2 (Asvinoh prānastau te iti jivudānam dattva) mentions Kathaka-sam. 11. 17; on Vi. Dh. S. 65. 7 Nandapandita remarks that the four mantras (Kāthaka-saṁ. 36. 29-32) are to be recited; Visnu 65. 11 (tejosi sukramiti dipam ) mentions a mantra from Kāthaka-sam. I. 33. 
 

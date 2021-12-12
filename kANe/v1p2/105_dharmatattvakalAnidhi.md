@@ -11,7 +11,7 @@ This work was not dealt with in the first edition published in 1930 but brief re
 
 880 
 
-History of Dharmasastra 
+
 
 bhāgaḥ- Amarakośa), it was probably intended to spread the digest over sixteen parts. The section on Vyavahāra is called Vyavaliūraprakasa and is divided into 14 ullāsas (lit. 'flashes' or coruscations). Mr. Dave publishes ten out of the 14 ullāsas and is going to publish the remaining four in the near future. 
 

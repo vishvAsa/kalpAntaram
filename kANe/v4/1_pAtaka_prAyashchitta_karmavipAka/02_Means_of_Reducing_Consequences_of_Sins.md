@@ -85,7 +85,7 @@ _106. अधात आज्यमाज्येन वै दवा. सर्
 
 46 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -205,7 +205,7 @@ Dana (gifts). Gaut. XIX, 16 provides120 that gold, a cow, a dress, a horse, land
 
 IMAI ER FUTTU AT. TT (folio 86a). 
 
-History of Dharmasastra 
+
 
 [Vol. quickly destroy sins even if committed in former lives Medha tithi (on Manu XI. 139) remarks that the verse implies that as to sins arising from injury to living beings gifts are the princi. pal expiations. The subject of dana has been dealt with at length in H. of Dh vol II pp. 837-888 A few further remarks may be made here In many inscriptions and copperplate grants of lands or villages the donor usually states that the grant is made for the increase of the merit of himself and of his parents ( 
 

@@ -19,7 +19,7 @@ NȚyajña or Manusya-yajña : ( Honouring guests)-Manu (III. 70 ) states that th
 
 750 
 
-History of Dharmasastra 
+
 
 Ch. XXI 
 
@@ -51,7 +51,7 @@ The honouring of guests comes after the offering of bali and Baud. gr. II. 9. 1-
 
 752 
 
-History of Dharmasastra 
+
 
 ( Cn. XXI 
 

@@ -23,7 +23,7 @@ Atitātra. This soma sacrifice is referred to even in the Rgveda ( VII, 103.7). 
 
 1206 
 
-History of Dharmasastra 
+
 
 ( Oh. XXXIV 
 
@@ -159,7 +159,7 @@ Tai. Br. 1. 7. 3, Sat. Br. V. 3,1. F TATA fire stof i gam HATT: 11 h. ap. I. 7. 
 
 1216 
 
-History of Dharmasastra 
+
 
 (Ch. XXXIV 
 
@@ -183,7 +183,7 @@ H. D. 153
 
 1218 
 
-History of Dharmatāstra 
+
 
 (Ch. XXXIV 
 
@@ -207,7 +207,7 @@ touches one of them with the string of his bow and says ' I seize these.' Then h
 
 1220 
 
-History of Dharmatastra 
+
 
 (Ch. XXXIV 
 

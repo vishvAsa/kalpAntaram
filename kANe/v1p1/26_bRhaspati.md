@@ -19,7 +19,7 @@ UNE 11
 
 288 
 
-History of Dharmasastra 
+
 
 A 
 
@@ -53,7 +53,7 @@ Viśvarupa and Haradatta. For example, Viśvarupa cites a prose passage from Brh
 
 990 
 
-History of Dharmasastra 
+
 
 In the Mit. and other commentaries and nibandhas over seven hundred verses on vyavahāra and a few hundred more on ācāra und prayascitta are cited from Bṛlaspati. That seems to have been an independent work composed between 300 and 500 A. D., which will be discussed later on (vide sec. 37). 
 

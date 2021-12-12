@@ -15,7 +15,7 @@ word occurs in Gupta Ins. No. 60 p. 257, and in Rājataran giṇi V. 301, 397-39
 
 976 
 
-History of Dharmatāstra 
+
 
 ( Vol. 
 
@@ -243,7 +243,7 @@ ramya 791:'. ap(a Persian word for 'treasurer Jamoccurs in the Ins. of . Mahaksa
 
 Vide Rājat. V. 177.982 
 
-History of Dharmatastra 
+
 
 (VoL 
 
@@ -363,7 +363,7 @@ dandanayaka' lower in rank than mahāmandalesvara. Vide also Ing. of Jayakesi Ka
 
 986 
 
-History of Dharmasastra 
+
 
 Vol 
 
@@ -523,7 +523,7 @@ vaslya V (after verse 4), the Dasakumaracarita II. pp. 58
 
 990 
 
-History of Dharmatāstra 
+
 
 (Vol. 
 
@@ -687,7 +687,7 @@ produce taken in kind (Bombay Gazetteer I part 1 p. 82 ). The word occurs in Gup
 
 994 
 
-History of Dharmasāstra 
+
 
 [ Vol. 
 
@@ -763,7 +763,7 @@ the Gupta Ins. No. 1 pp. 10, 15 Hariṣeṇa, the author of the prasasti, is sly
 
 996 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -839,7 +839,7 @@ H
 
 998 
 
-History of Dharmasastra 
+
 
 (Voi. 
 
@@ -1045,7 +1045,7 @@ Brahinagiri Rock Ins. in Corpus I I vol. I at p. 176. Panini II. 2. 21 teaches t
 
 1004 
 
-History of Dharmasastra 
+
 
 I Vol. 
 
@@ -1237,7 +1237,7 @@ Appendix (on exhorting witnesses )
 
 1010 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1261,7 +1261,7 @@ NOTE 1302--
 
 The above text of Saunaka is based on the व्यव, मयूख, नि. सि. ( which does not quote all verses), दत्त. मी., दत्त. च., सं. कौ. and Dr. Buhler's text prepared from several mss. and published in the Journal of the Bengal Asiatic Society, vol. 35 at pp. 158-159. The शौनकीय text printed at Trivandrum, 1935, has 14t verses on पुत्रग्रहणविधि (I.8). The principal various readings are noted below. Verse 1-~-सं. कौ. reads 'वन्ध्या वा मृतपुत्रा वा'; शौ. reads वन्ध्यो वा. The half verse 3a मधुपर्केण &c. is omitted by Bihler, व्यव. मयूख, नि. सि., सं. कौ. In 5a दत्त. मी. and दत्त. च. read अग्न्याधानादिकं तत्र, and शौ., सं. कौ. and Bihler अग्न्याधानादि ; and शौ. reads पवनान्तकम् . In 6a शो. reads समक्षस्थो ददेत्तस्मै. The नि. सि. omits rband 8a and सं. कौ. reads छत्र छायागतं सुतम् in 7b and शो. छत्रछायावहम्. In 8b सं. कौ. and शौ. read गृहमेत्येममाधाय. In 9a सं. कौ. and शौ. read यस्त्वा हृदेति द्वाभ्यां च and in 10a, स्विष्टकृदादिशेषं च कृत्वा होम. In 11b दत्त. मी., Buhler and दत्त. च. read गुरुगोत्रसमेपि. In 13a Buhler and सं. कौ. read दौहित्रं भागिनेयं वा शूद्राणां चापि दापयेत् दत्त. मी. reads शुदैस्तु क्रियते सुतः and also recognizes the reading शुदाणां विहितः सुतः. The स्मृतिमु. (वर्णाश्रम) p. 102 and शौ, read दौहित्रं भागिनेयं वा शुद्राणां त्वापदो यदि and omits ब्राह्मणादि... क्वचित् . 13b (ब्राह्म. ... क्वचित् ) is omitted by the व्यव. मयूख., सं. को., and Buhler. In 15b सं. कौ. and शौ. read रत्नशतत्रयम्. The order of the verses also slightly varies in some of the works.1012 
 
-History of Dharmasāstra 
+
 
 [Vol. 
 

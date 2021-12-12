@@ -11,7 +11,7 @@ There are only three titles of law, viz, recovery of debts, the relation of husb
 
 Our writers do not set out with an analysis of the con ception of contract in general. They had before them the ancient 18 titles of law, many of which related to various kinds of contracts and therefore they take up one title after another, in the order contained in Manu or in Nārada ( as the Sm, C. II. p. 206 expressly says). But it is not to be supposed that they did not evolve certain general principles about contracts. They do say a good deal about the competence of persons to enter into contracts, about fraud vitiating all contracts, about damages for breach of contract &q. Sim ilarly the dharma sāstras do not lay down a general Code of rules applicable to all transfers of' immovable property, nor do they treat of transfers by way of sale, mortgage or gift in separate sections. What they have to say on these transfers is tācked on to some vyavahārapada e. 8. they speak about sales and exchanges of land under asvāmi-vikraya and simāvivada, about gifts under dattāpradānika and about mortgages under pnādana. As this work has to represent what the ancient law was like the same412 
 
-History of Dharmatāstra 
+
 
 | voi. 
 
@@ -51,7 +51,7 @@ IV. of 1882.)
 
 ple de leiding prior, ia superiore e mortgages the same money. If A 
 
-History of Dharmasastra 
+
 
 I Vol. 
 
@@ -89,7 +89,7 @@ world ( of pitss ) and the third world (the world of gods ). 670 The Tai. S. (II
 
 416 
 
-History of Dharmatastra 
+
 
 [ Vol. 
 
@@ -157,7 +157,7 @@ Br. (S. B. E 33 D. 319 yerse 1) stateg 681 that the creditor should always advan
 
 420 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -335,7 +335,7 @@ Tr in . ff. pp. 234-235.
 
 430 
 
-History of Dharmasastra 
+
 
 [ Vol 
 
@@ -425,7 +425,7 @@ TEM
 
 434 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -461,7 +461,7 @@ qu ir
 
 436 
 
-History of Dharmatāstra 
+
 
 (Vol. 
 
@@ -495,7 +495,7 @@ Sureties of all kinds are personally liable to make good the loss arising from t
 
 488 
 
-History of Dharmatõstra 
+
 
 (Vol. 
 
@@ -569,7 +569,7 @@ D. 116.
 
 3) p. 432 •Hind Golap Chandra Set442 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -601,7 +601,7 @@ PUTER 174
 
 M FT. The word T AT occurs in Vedāa tasūtra III. 4. 24. In Vithal W. Prahlad 39 Bom, 373 et p. 379 this principle has been judicially recogaized. . . .. ... ... . 
 
-History of Dharmasastra 
+
 
 [ Yol 
 
@@ -633,7 +633,7 @@ V. 49 referred to on p. 443) and Kat. 556 747. In Narasimharav v. Antaji 2 Bom. 
 
 446 
 
-History of Dharmadāstra 
+
 
 [Vol. 
 
@@ -685,7 +685,7 @@ the actual pressure, the benefit to be conferred' and the remarks about inquiry 
 
 450 
 
-History of Dharmadāstra 
+
 
 I Volo 
 
@@ -715,7 +715,7 @@ The father is not bound to pay his son's personal debt; the husband is not liabl
 
 g ot to wat THE IT. q. by ray. II. p. 174.452 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -857,7 +857,7 @@ a 9 \# HITT. 610 q. by u p. 664, fata . II. p. 184, fot. T. p. 92. This shows th
 
 460 
 
-History of Dharmasāstra 
+
 
 [Vol 
 

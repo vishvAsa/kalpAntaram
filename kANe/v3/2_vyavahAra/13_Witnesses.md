@@ -75,7 +75,7 @@ Por, ri, vide p. 280 and note 383 above and H. of Dh, vol, II. pp. 67-68.
 
 334 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -101,7 +101,7 @@ friend (or relative such as an uncle); associate (in undertak. ings); enemy; one
 
 336 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -167,7 +167,7 @@ Witnesses are divided by Nār. IV. 149 into two sorts ; (1) those appointed (kyt
 
 340 
 
-History of Dharmasastra 
+
 
 | Vol. 
 
@@ -199,7 +199,7 @@ Tu faiat * francofa TURUT I FIHETETT nrad \# Sifa apavrat neret FITORTU TA: 1 st
 
 504. लेख्यदोषास्त ये केचिरसाक्षिणां चैव ये स्मना । पादकाले बतण्या पश्चादु नामदूषपेत् ॥ उसाक्षिणो यस्त दूषयेस्त्रागदूषितान् ।नव तस्कारण यात्माप्हयात् पूर्व FITFT 1 91. in feat. p. 83, 8. f. pp. 143-144. The first is ascribed to tena by T P. 672.342 
 
-History of Dharmadāstra 
+
 
 I Vol. 
 
@@ -273,7 +273,7 @@ FUIT Filtrar: furaha 1 TFUSHAFT FUTTATTET FIVTTH. II. 11 last verse; HTCAT VI ta
 
 348 
 
-History of Dharmasastra 
+
 
 ( Vot: 
 
@@ -313,7 +313,7 @@ T: Egr, a. by worro p. 670, . \#1. p. 325, P. AT. III. 116. e
 
 348 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -359,7 +359,7 @@ u e o 9. q. by fat. OQ T. II. 20, sagr p. 678, c. II. p. 90.
 
 350 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -385,7 +385,7 @@ After the witnesses have deposed the chief justice and sablıyas have to conside
 
 531.' '\#refa wifi vrut *: ad T. 340 q. by frut.. on TT. II, 80, p. 675, 19. 1, p. 331.352 
 
-History of Dharmasastra 
+
 
 I Vol 
 
@@ -427,7 +427,7 @@ E 16. 36. In ne 82. 16 we have the verse in eto, as 'root tu r !
 
 354 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -463,7 +463,7 @@ It is stated by Bphaspati that anumāna ( inference 541 or pre sumption ), as a 
 
 56 
 
-History of Dharmaśastra 
+
 
 ( Vol. 
 
@@ -541,7 +541,7 @@ the special oaths taken for clearing themselves by Vasistha when he was suspecte
 
 360 
 
-History of Dharmajāstra 
+
 
 (Vol. 
 

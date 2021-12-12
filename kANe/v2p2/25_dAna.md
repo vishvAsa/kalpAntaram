@@ -91,7 +91,7 @@ r g \#FETT 24 ta igrere on H. VII. 1.5; स्वस्वस्वनिवृ�
 
 842 
 
-History of Dharmatastra 
+
 
 ( Ch. XXV. 
 
@@ -225,7 +225,7 @@ Certain objects could not be donated either because one bad no ownership over th
 
 850 
 
-History of Dharmasastra 
+
 
 [ Ch. XXV 
 
@@ -257,7 +257,7 @@ As to the proper times for gifts, several rules are laid down, Apart from the da
 
 852 
 
-History of Dharmasastra 
+
 
 [ Ch. XXV 
 
@@ -377,7 +377,7 @@ of 33. 78-79.
 
 860 
 
-History of Dharmasāstra 
+
 
 (Ch. XXV 
 
@@ -433,7 +433,7 @@ TOTUIT 11 Statisoft V. 166 and 170.
 
 864 
 
-History of Dharmasastra 
+
 
 (Ch XXV 
 
@@ -515,7 +515,7 @@ From Manu and other smrtikāras it appears that so far as lands already brought 
 
 acrimastat868 
 
-History of Dharmasastra 
+
 
 [ Ch. XXV 
 
@@ -545,7 +545,7 @@ u III, 11th para.
 
 870 
 
-History of Dharmasastra 
+
 
 ( Ch. XXV 
 
@@ -695,7 +695,7 @@ Yāj. I. 206-207 ( 206 = Agnipurāṇa 210. 33), Viṣṇu Dh. S. 88. 1-4, Vanap
 
 880 
 
-History of Dharmasastra 
+
 
 (Ch. XXV 
 
@@ -727,7 +727,7 @@ A. D. 111
 
 882 
 
-History of Dharmatāstra 
+
 
 [ Ch. XXV 
 
@@ -825,7 +825,7 @@ Gautama states (V. 22 ) that the promises made by those who were carried away by
 
 passage of Kat Ham Lal 37 cm P: 782,888 
 
-History of Dharmasastra 
+
 
 I oh. XXV 
 

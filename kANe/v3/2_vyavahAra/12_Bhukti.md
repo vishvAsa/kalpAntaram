@@ -15,7 +15,7 @@ According to Gaut. X. 39 a man becomes an owner by inheritance, purchase, partit
 
 318 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -73,7 +73,7 @@ to be supported by title only during smārtakūla (during human memory), but in 
 
 459, aga para paratra M a tatan tenterarū artar भुक्तिः स्वेतरममाणावगतागममूलैव स्वये प्रमाणमिण्यते । स्वतः स्वमूलाबगतेोग्यामुपलगाया *T8YHTERT I FAOTATU ga: tratarea operata 19729191 arur स्पवाषिगतागममूलिका पिनापि मानान्तरावगतागममूलता स्वस्वे प्रमाणमिति । स्मृतिमा II. p. 71.322 
 
-History of Dharmasastra 
+
 
 ( Voi 
 
@@ -175,7 +175,7 @@ Tip straal Mura FTTAR in Frage II. p. 69.
 
 328 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

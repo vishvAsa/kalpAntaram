@@ -15,7 +15,7 @@ According to almost all of our authorities a state (rūjya) is constituted by se
 
 18 
 
-History of Dharmafāstra 
+
 
 (Vol. by following one's dharma, friends by truthfulness. The autho rities are agreed that the ruler is the most important or the first of the seven. Kautilya puts the matter very forcibly and realis. tically when he states that the briefest exposition of the elements of rājya is to say that the king is the State S). This is really not the same doctrine as that emphasized by Louis XIV of France when he said ' L'Etat c'est moi'. Kautilya makes his position clear (in VIII, 1) by saying that it is the king who appoints ministers and servants and superintendents, who takes measures of relief against calamities befalling the other prakstis and measures of prosperity, that it is he who appoints other ministers when those already appointed are under calamities, that if the ruler is pros perous he transmits prosperity to his prakstis, that the prakstis bear that character which the king has and that hence the ruler occupies the position of a permanent, never-exhausted centre of power. The Sukranitisāra II4 remarks that if the king begins to act at his sweet will, it leads to calamities, to loss of ministers and of the kingdom. The Sukranitisāra (I. 61-62) compares the seven angās of rājya to the organs of the body viz., the king is the head, the ministers are the eyes, ally the ear, treasury the mouth, the army the mind, capital and rāṣtra are hands and feet. It is emphasized by Kām. (IV.1-2) that each of the seven elements is complementary to the others, that if the state is defective even in one out of the seven elements it does not pull well. thel Sāntiparva it is stated that it is not possible to say categorically that any one of the seven excels the others in merit, but that at different times a different element assumes importance over others, since that particular element is in the particular circumstances capable of accomplishing the purpose in hand. This shows that Manu and the Mahābhārata held that there was an organic unity in the several elements of rājya. All must work harmoniously towards one ideal or end. Manu (IX. 296–297) says this by means of a simile 'Just as among the three staves tied together (by a rope of cow's hair) used by a sannyāsin no particular staff is superior (to the others ), so among 
 
@@ -43,7 +43,7 @@ It should be noted that neither Kautilya nor Kamandaka defines rājya. Etymologi
 
 20 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -97,7 +97,7 @@ In order to magnify the importance of the kingly office, certain works state tha
 
 TOEF, watott 20, 22, 26, 52; TT Area AE : I T ATUT T rout C \# pilet. 67. 4; Feren says GC16Hwaga: Fun mitor fault i fred a more to FATEH UTC' il quoted by I AATTE III p. 16. * means RITA. 
 
-History of Dharmadāstra 
+
 
 | Vol. 
 
@@ -153,7 +153,7 @@ E T A FETA) ** I. 188.
 
 28 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -241,7 +241,7 @@ It is to be seen how far the ancient Hindu theory agreed with this full-fledged 
 
 36 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -261,7 +261,7 @@ Who should be king? There were several views on this point. One meaning of the w
 
 , 43. प्रत्करोति पर धर्म इनिर्मलफसाशनः । तत्र रामतर्भागा मजा धर्मेण रक्षतः । arraum 6. 14, 
 
-History of Dharmadāstra 
+
 
 ( Voi. 
 
@@ -293,7 +293,7 @@ T: 1 Arte on A VII. 1; Turnament WHETHE HET MEY: 9377 पालन परो ध
 
 47. twaqt offers a Thai afroamerique TUT: \#\# 99 तयोराण्यं यत्र सर्वाः सपजातीया: सत्र निवासनिषेधोयम् । मेधा. on मा IV. 61. It is not clear who yet (inflicter of punishment?) is. Should we read quand (as in the Valabbi plates in E. I. XI. pp. 83 and 94 or XV. p. 257) or wro (as in E. I. IX. p. 289 or E. I. XX. p. 7)? . 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -425,7 +425,7 @@ ed in the word “Tray180°. Sukraniti I. 155 says that the 14 vidyas ( enumerat
 
 AT TITUATATU ...... (broken) wartun tur &o. E. I. vol. VIII P. 44 1. 13. 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 

@@ -161,7 +161,7 @@ ___565. स्कान्दे । धेनुं तिलमयीं र�
 
 220 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. XI 
 
@@ -443,7 +443,7 @@ In the Lingapurāṇa as quoted in the Vratarāja ( pp. 573– 586 ) there is th
 
 236 
 
-History of Dharmasastra 
+
 
 [Sec. I, Ch. XI 
 

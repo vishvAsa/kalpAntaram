@@ -37,7 +37,7 @@ HST
 
 266 
 
-History of Dharmasastra 
+
 
 down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Auśanasī Dandanīti. Viśvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Uśanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhātithi cites from Uśanas the words 
 
@@ -79,7 +79,7 @@ FOUNDED
 
 268 
 
-History of Dharmasastra 
+
 
 except in a few particulars.343 At the end of all chapters from the second (except the third ) there are verses and also in the midst. There are verses introduced with the words 
 
@@ -173,7 +173,7 @@ FOUNDET
 
 1917872 
 
-History of Dharmasastra 
+
 
 a ksatriya from a vaibya wife is a kṣatriya (p. 814 on Vyava hāra ). Aparārka quotes Uśanas dozens of times, about nine quotations being in prose ( most of them on prāyaścitta ). 
 

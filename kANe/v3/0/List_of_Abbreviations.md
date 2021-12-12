@@ -57,7 +57,7 @@ of Mitramiśra ) Śān. Gr. = śānkhāyana-gļhya-sūtra Sat. Br. = Satapatha-b
 
 Müller ) 8. 1. 1. = South Indian Inscriptions Sm. C. = Smsticandrika Sm. Kau. Smrti-kaustubha Sm. M. == Smftimuktāphala Śr. - Srautasūtra S. V. = Sarasvativilāsa 
 
-History of Dharmatāstra 
+
 
 Sukra = Sukranitisāra Tai. Ar, = Taittiriya Aranyaka Tai. Br. = Taittiriya Brahmana Tai. S. = Taittiriya Samhita Tai. Up. = Taittiriya Upanisad T. L. L. = Tagore Law Lectures Tr. Translation or translated Vaj. S. = Vajasaneya-samhita Vas. = Vasiṣtha-dharma-sūtra V. C. = Vivāda-cintamani V. M. 1= Vyavahāra-matrka of Jimutavāhana (except V. Matrkas on p. 709) V. Mayākha = Vyavahāramayukha (In a very few.places 
 
@@ -89,7 +89,7 @@ List of Abbreviations Employed
 
 मी. को. 
 
-History of Dharmasastra 
+
 
 वाज. सं. = वाजसनेयसंहिता वि.वि. = विवादचिन्तामणि वि. ता. = विवादताण्डव of कमलाकर वि. र. = विवादरलाकर व्यव. त. = व्यवहारतत्त्व of रघुनन्दन ध्य. नि or व्यव. नि. = व्यवहारनिर्णय व्य. प्र. = व्यवहारप्रकाश of मित्रमित्र व्य. म. or व्य. मयूख = व्यवहारमयूख ध्य. मा. = व्यवहारमातृका व्यव. सा. = व्यवहारसार 
 

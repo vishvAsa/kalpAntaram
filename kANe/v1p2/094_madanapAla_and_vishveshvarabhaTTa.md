@@ -139,7 +139,7 @@ PITH: 12:1 मतिर्येषां शास्त्रे प्रक�
 
 800 
 
-History of Dharmasastra 
+
 
 verse' matiryesām' in the beginning. The second introductory verse in Mr. Gharpure's edition makes Visveśvara the son of Appabhatta,1212 while Mr. Settur reads • Pettibhatta’ which is probably a misreading for Pedibbatta. From his father's name it appears that Visvesvara was a native of the Dravida country1213 and migrated to Northern India in search of patronage after he wrote the Subodhini. Visveśvara is regarded as one of the leading authorities of the Benares School of modern Hindu Law.1914 Madanapāla belonged to the family of Țāka kings that ruled in Kāstha (modern Kath ) op the Junna to the north of Delhi,1215 The printed Madanapārijāta makes the family name to be 
 

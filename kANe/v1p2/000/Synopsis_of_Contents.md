@@ -127,7 +127,7 @@ The three words used in the same sense viz. Arthasāstra, Dandaniti and Rajasās
 
 H, D.- B 
 
-History of Dharmasastra 
+
 
 forms such as Kautali, Kautilya and Kauṭili - form, style and con tents of the Kauṭiliya - a few verses interspersed in the work, generally at the end - in all 375 verses excluding mantras - some verses are certainly quotations - work abounds in numerous techni cal and rare words - deviations from Pāṇini – summary of contents - section on judicial administration interesting - greatest correspon dence between Kautiliya and Yājñavalkya - some striking examples - it is Yajñavalkya that borrows - reasons - Yājñavalkya represents a far too advanced stage o juristic priniciples than Kautilya - close agreement between Manusmrti and Kautilya also - but they differ on niyoga, as to nomenclature of vyavahārapadas, about heirship of mother and paternal grandmother, on remarriage of widows, divorce, gambling - Kautiliya long anterior to the extant Manu smṛti - Kautilya's five references to Mānavas explained - references to Svayambhuva and Prācetasa Manu contained in the Maha bhārata suggest that there were two works in verse on dharma and politics attributed to these or perhaps one work containing both, subsequently recast as the extant Manusmṛti - only two views ascribed to Mānavas in Kauṭiliya not found in extant Manusmṛti - in the dharmasthiya section the only other authors or schools cited are Bārhaspatyas and Auśanasas - none of the dharmasūtras of Gautama and others are anywhere quoted by name - views cited on the question as to whom a child belongs (to the begetter or to him on whose wife it is begotten ) can be traced to Baudhāyana, Gautama and Vasistha - views of Acāryas cited in the Kautiliya - Kauṭiliya later than Gautama and Apastamba but earlier than extant Manusmṛti - date of Kauṭiliya - it is certainly not later than 2nd century A. D. and not earlier than 325 B.C. - schools named by Kautilya and also individual authors - views of Acāryas are quoted over fifty times and Kautilya differs in each case - meaning of 'ācāryas' - literature known to Kautilya - Sanskrit official lang. uage and the work mentions gunas of composition - Kautiliya agrees with Kamasutra in several respects - Dr. Jolly and Prof. Keith opine that both works composed about same time-points of difference between the two works - countries and peoples men tioned by Kautilya - silks from Cina and blankets from Nepal - home of Kautilya, southern acc. to Dr. Jolly who concludes so. on two quite worthless grounds - Buddhist and Jain traditions associate Cānakya with Gāndhūra - was resident of the extreme North-west of India - three principal groups of writers on the question of the 
 
@@ -239,7 +239,7 @@ Sec. 31 The Manusmrti :
 
 xvi 
 
-History of Dharmasastra 
+
 
 are mentioned in Mapu VI. 54, VIII. 124, IX .158 - Manu Praja pati is mentioned in X. 78, XII. 123 - in l. 35 among ten Praja patis primeval Manu is mentioned - criticism of some one-sided and biased remarks of Hopkins about Manu - involved account in Manusmrti about the creation of the world by Paraniātman - the fact that the Manusmṛti mentions human authors like Atri, Bhrgu etc. and refers to dasyus who speak mleccha and Arya languae ges etc. indicates that the extant Manusmrti is not older than 200 B. C.- age of Manusmrit - external evidence - Medhātithi's is the first extant commentary - Viśvarūpa quotcs 200 verses - Saṅkara. Kumārila and Sabara refer to Manu - Bșhaspati had the present text of Manu before him - Asvaghosa in his Vajrasuci quotes several verses from Mānavadharma' some of which are found in our Manu - Rāmāyana ( Kiṣkidhā 18. 30-32 ) contains Manu VIII. 318 and 316 - Maou attained present form long before 2nd century A. D.-there are earlier and later strata in Manu -contra dictory statements as to Brahmana marrying a sūdra woman, about appropriate forms of marriage, about niyoga, about flesh eating - Bühler's conclusion is that cosmological and philosophi cal portions in 1st and 12th books, rules about mixed castes and duties of castes in 10th book are later additions - all additions made before 3rd century A. D.-Manusmṛti has not suffered several recasts - quotations cited as Viddha Manu and Bṛhan-Manu are later than Manusmrti - extant Manu older than Yājñavalkya - Manu mentions Yavanas, Kambojas, Sakas, Pahlavas and Cinas - extant Manusmṛti composed between 2nd century B. C. and 2nd century A. D. - relation of Mahābhārata and Manu - conflict of views between Mandlik, Hopkins and Bühler - Hopkins holds that there was a mass of floating verses ascribed to mythical Manu on which both Manusmrti and Mahabharata drew – Bühler says that the floating mass of verses was not all attributed to Manu - Manu mentions stories and names that occur in the Mahābhārata but these names go into Vedic antiquities - Manu never names the Mahābhārata, while the latter often refers to'rājadharmas or śāstra of Manu' or to what Manu said ' - Jayaswal's remarks on Manu XII. 100 are worthless for settling the date of the Manu smrti – both Hopkins and Bühler hold that the Anuśāsanaparva and Sāntiparva knew a Manusmrti, but earlier books, when ever they speak of Manu, refer to floating mass of popular verses - this conclusion not correct - final conclusion, viz., long before 4th 
 
@@ -359,7 +359,7 @@ Embodies in 525 verses the opinions of 24 sages - contents quoted by Mitākṣar
 
 xxiv 
 
-History of Dharmaśustra 
+
 
 Sec. 43 Daksa : 
 
@@ -555,7 +555,7 @@ Sec. 74 Bhavadevabhatta :
 
 xxxii 
 
-History of Dharmasastra 
+
 
 called Tautātitamatatilaka is concerned with elucidating Purvami māṁsā doctrines - Raghunandara criticizes Bhavadevabhatta's views several times, but also accepts his views many times - light on personal history of Bhavadeva in inscription at Bhuvaneśvara - he was a great builder of temples and tanks - explanation of the epithet 'Bālavalabhi-bhujanga' applied to Bhavadeva - authors and works quoted in Prayascitta prakarana - review of Bhavadeva's Śavasūtikasauca-prakarna ed. by Dr. R. C. Hazra - contents of savasūtikāvisuddhi-prakaraṇa - flourished between 1050-1150 A.D. - Bhavadeva and Pradipa - other authors on dharmaśāstra named Bhayadeva. 
 

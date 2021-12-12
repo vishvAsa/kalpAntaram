@@ -47,7 +47,7 @@ H. D. S6
 
 682 
 
-History of Dharmasastra 
+
 
 [Vol. The Mahabhārata frequently speaks of the high sanctify ing virtues of Kuruksetra. It appears that the territory to the south of Sarasvati and to the north of Disadvati was included in Kuruksetra and 1545 that those who resided thorein were as if residents of paradise. Kuruksetra appears to be called Brabmīverta in Vanaparva 86.6. According to the Vāmanapurāpa, Kurujāngala is 1546 the country bettyeen the Sarasvati and Drsadyati, wbile Manu (IL 17, 18) defines Brahmāvarta as the country created by God between the two divine rivers Sarasvati and Drsadvati, states that Brahmarsi, deśa which is slightly less (in koliness) than Brabmāvarta comprises Kuruksetra, the countries of Matsya, Pañcala and Sūrasena. From these passages it is clear that Brahmavarta is the holiest country in Aryavarta and that Kuruksetra was almost like it; we have seen that in the times of the Brab manas the most sacred Sarasvati flowed through Kuruksetra and that the place wbere Sarasvati disappeared in the desert was called Vinaśana and was itself a very holy place, Origi mally the land called Kuruksetra is said to have been the Vedi (sacrificial altar ) 1547 of Brahmā, then it came to be called Samantapañcaka (or syamanta-in some passages) when Paraśn rāma made five pools of the blood of ksatriyas in royenge for his father's murder, which were subsequently turned into holy pools of water by the blessings of his pitrs and lastly it came to be called Kuruksetra whea king Kuru, son of Samyarada! ploughed the land with a golden plough for seven krośas all round. Kuruksetra is so called after king Kuru. Kuru is said 
 
@@ -401,7 +401,7 @@ The Brahmapurāna winds up by saying it is thrice 1569 true that that ksetra (Pu
 
 1589 सस्य सत्यं पुनः सत्यं क्षेत्र तत्परमं महत् । पुरुपाख्यं सकृद् दृष्टा सागराम्भ - समानुनम् । ब्रह्मवियां सज्ज्ञाला गर्भवासो न विद्यते। ब्रह्म 70. 3-4 (= नारद, उत्तरार्ध 52. 25-26) quoted in वी.चि p. 56 nhch reads सागराम्भ.सकृन्मृतम् and remarks 'एतत्क्षेत्रदर्शनस्य, सागराम्भसि मरणस्य, तथा ब्रह्मविद्यामोधस्य च प्रत्येक गर्भपासाभाव: फलमित्यर्थ.. 
 
-History of Dharmasastra 
+
 
 702 
 
@@ -539,7 +539,7 @@ No mention of Godāvari has so far been found in the Vedic Literature. In Buddhi
 
 708 
 
-History of Dharmasastra 
+
 
 [Vol, tirthas on it, 1611 Dandakāranya is said to be the seed (source or cause) of dharma and multi and the country embraced by the Gautami is specially the holiest 1612 A verse ocourring in several purānas states "These countries (of Madhyadeśa) are immediately next to the mountain Sahya: thereon is Godavarī and that country is the most charming in the whole world, There is Govardhana there which is (like) Mandara and Gandhamadana'. 1613 Brahmapurana (chapters 74-76) narrates how Gautama brought the Ganges from the matted hair of Siva to Brahmagiri where he had his hermitage and how Ganesa helped in the task by means of a ruise. The Nāradapurana (uttarārdha 72) narrates that no rain fell for 12 years while Gautama practised tapas, that owing to famine all sages came to Gautama's hermitage, that he brought Gangā to his hermi. tage, that he sowed śāli grains in the morning and reaped the crop by midday, that this went on till there was plenty of rain and crops, that Siva appeared to him, that Gautama prayed that Siva should stay near his hermitage and that hence the hill on which Gautama had bis hermitage came to be called Tryambaka (verge 24). Varāha (71. 37-44) also says that Gautama brought Jābpayi to Dandaka and the river became Godāvari, The Kūrma (II. 20. 29-35) mentions a long list of rivers and other sacred places and winds up by saying that the Godāvari is pre-eminently & place for performing śrāddha. It is stated in the Brahmapurāna that for the removal of all kinds of distress two alone are declared (as the means) viz. the holy river Gautami or Siva who is full of compassion, 1614 The Brabmapurana describes about a hundred tirthas on the Godavari, such as Tryambaka (79.6), Kuśāvarta (80, 1-3), Janasthāna ( 88. 1), Govardhana (chap. 91), Pravarāsangama 
 
@@ -569,7 +569,7 @@ ____1615. शिवशक्त्योर्मतस्तस्मिन्�
 
 thc pose of Surpanakhā was cut off by Labsmaṣa there, 
 
-History of Dharmasastra 
+
 
 710 
 
@@ -649,7 +649,7 @@ H. D. 90
 
 1714 
 
-History of Dharmatastra 
+
 
 [Vol. 
 

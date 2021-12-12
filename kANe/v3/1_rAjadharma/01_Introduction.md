@@ -63,7 +63,7 @@ Tuset firqeua ti a. 69. 76. Funt: is in the dative and superar in the ablative.
 
 10. VE TUIHRECHTEVE 1978: I mu free wife when firreau of TT II. 15 and y. I. 157 (latter reading AFATEORI &o.) 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -141,7 +141,7 @@ Rajadharma
 
 sweet words, place his head on another's feet and even shed tears, one may carry on one's shoulders one's enemy till one accomplishes one's object and when a fit opportunity arises should break him like an earthen pot on a stone (17-18); the king should raise hopes promising their fulfilment at a distant day, but should put obstacles in the fulfilment of the hopes raised in others (32); when one is reduced to a wretched state one may extricate oneself from it by any act whatever whether gentle or horrible and practise dharma after one becomes able to do so (38); one should inspire confidence in one's enemy by some means which appear to be true ( to the enemy ), but one should strike him down at the right moment when he takes a wrong step (44); whoever causes obstacles to the purpose of the king, whether son or brother or father or friend, should be killed by the king who desires to prosper (47); without cutting the vitals of others, without committing horrible deeds and without killing indiscriminately as the fisherman in the case of fish one does not secure high prosperity (50); when about to strike one should utter sweet words and even after striking one should use honoyed words; even after severing another's head with a sword one should lament and shed tears (54); if some remainder is left in the case of a debt or fire or enemies, there is a tendency to grow and so no remainder should be left of these (58). It is to be noted that this chapter deals specially with what should be done in difficulties and can not be supposed to be the real teaching of the Mahābhārata which is generally in line with the higher code of dharma sastra. It embodied probably the words of earlier arthaśāstra writers like Bhāradvāja. After hearing this discourse on calculated cruelty and deceit Yudhisthira 'stood aghast and frankly told Bhisma that the course of conduct outlined by him did not differ from that of robbers and that he felt bewildered and would not exert himself in the way pointed out. In chap. 142 Bhisma replies to this by saying that he did not base his dis course merely on the sacred texts, but also on reason and the essence was distilled by wise men, that the considered rule of conduct for the king is twofold, viz. straightforward and crooked, that one should not ordinarily employ the crooked course of conduct, but should employ it as against an enemy who employs a crooked policy and effectively meet him by such policy. He further says that rājadharma cannot be based on a single source (v.7) and that policies are to be pursued not merely by reliance on the sacred codes of law but on reason as well12 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -183,7 +183,7 @@ proposed is to indicate and dilate upon only the fundamental ideas and principle
 
 198. Berolzheimer in 'the World's Legal Philosophies' (tr. by Jastrow, New York, 1929) p. 62 remarks ‘Plato approved of slavery unreservedly, finding it & necessary condition for the maintenance of the proper status of the citizen.... Thus in the maritime and industrial states there was a large slave class; in Corinth, 460000; Aegina, 470000; la Attica (according to the consus of 309 B, C.) 400000', 
 
-History of Dharmadāstra 
+
 
 I Vol. 
 

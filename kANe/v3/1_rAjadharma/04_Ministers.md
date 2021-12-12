@@ -29,7 +29,7 @@ Far: 1 SATEISTII, TT. 136. Valoarūg suista are NOTETUT 1 off ry (\#foto 29 14 p
 
 106 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -77,7 +77,7 @@ reads नास्य परे विद्युश्छिन्न वि�
 
 110 
 
-History of Dharmafāstra 
+
 
 I Vol. 
 
@@ -147,7 +147,7 @@ U T A: 414FATA graikaista samn. p. 29 ( lager),
 
 114 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -207,7 +207,7 @@ fugal try.
 
 118 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -267,7 +267,7 @@ guñjā berries). A pala was equal to 320 raktikās. Kaut. II. 19 says practical
 
 16122 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -287,7 +287,7 @@ sabhāgo dharanam). Nārada (pariṭiṣta 57 ) expressly states that a silver k
 
 124 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 

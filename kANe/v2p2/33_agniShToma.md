@@ -17,7 +17,7 @@ This p. 471 on 9. II. 2. 2.
 
 .2631. एकादीक्षा दिन उपसदा पशमी प्रस्ता। विनोबादीक्षाखिल उपसह ससनी WAT I T T with Thetsrat saat T. X. 16. 1; also *7*. IV. 2. 17 gant Row Ta w I ETTATTWEI. Vide Jai, V1.8.28-29 whoro Sabara and Kumarila soom to disagroc.1134 
 
-History of Dharmalāstra 
+
 
 (Ch. IXXIII 
 
@@ -45,7 +45,7 @@ form, but even the king has to make a similar request (in his case ) to the hots
 
 1136 
 
-History of Dharmasastra 
+
 
 (Ch. XXXIII 
 
@@ -97,7 +97,7 @@ the sacrificer and his wife who are to subsist on the milk of the two cows durin
 
 1140 
 
-History of Dharmajāstra 
+
 
 (Ch. XXXIII 
 
@@ -129,7 +129,7 @@ tra ATAT 4:15
 
 1142 
 
-History of Dharmainstra 
+
 
 [ Ch. XXXIII 
 
@@ -183,7 +183,7 @@ u rpretarea arcurier FRITT rain Vide Haug's tr. of Ait. Br. pp. 383-84, 8. B. E.
 
 1146 
 
-History of Dharmasastra 
+
 
 [ Ch. XXXIII 
 
@@ -215,7 +215,7 @@ Pravargya is separately dealt with in most sūtras, as in Ap. XV. 5-12, Kat. XXV
 
 1148 
 
-History of Dharmasastra 
+
 
 (Ch. XXXIII 
 
@@ -241,7 +241,7 @@ T Th T OTTOTI: ROTERO \#H$TACT XIV. 1. 1. 10-11. The Sat. Br. further on (XIV. 1
 
 1150 
 
-History of Dharmasastra 
+
 
 [Oh. XXXIII 
 
@@ -267,7 +267,7 @@ T&o, are to be connected with the words KIETOT and TyT (and no other ordinary wo
 
 . 
 
-History of Dharmatastra 
+
 
 [ Ch. XXXIII 
 
@@ -291,7 +291,7 @@ On the next day both the pravargyas and upasads of the morning and afternoon are
 
 1. D. 1451154 
 
-History of Dharmasastra 
+
 
 [ Oh. XXXIII 
 
@@ -343,7 +343,7 @@ On the uparavas slender kuśas with tips to the east or north are spread and ove
 
 1158 
 
-History of Dharmasastra 
+
 
 (Ch. XXXIII 
 
@@ -399,7 +399,7 @@ The last day ( generally the 5th day) is called 'sutya'(on which soms is pressed
 
 1162 
 
-History of Dharmatāstra 
+
 
 (Ch. XXXIII 
 
@@ -515,7 +515,7 @@ Bg. IX. 11. 1-3, IX. 64. 28-30 and Rg. IX, 66. 10-12; they correspond to Samaved
 
 1170 
 
-History of Dharmasastra 
+
 
 (Ch. XXXIII 
 
@@ -697,7 +697,7 @@ In the Agniṣtoma there are twelve stotras and twelve sastras. The words sastra
 
 1182 
 
-History of Dharmadāstra 
+
 
 (Ch. XXXIII 
 
@@ -747,7 +747,7 @@ H. D. 149
 
 1186 
 
-History of Dharmadāstra 
+
 
 (Ch. XXXIII 
 
@@ -867,7 +867,7 @@ that, though Rg. III. 6. 9 ( the yajya verse ) contains & prayer about the thirt
 
 1196 
 
-History of Dharmatāstra 
+
 
 (Ch. XXXIII 
 
@@ -903,7 +903,7 @@ free arhaut a' com. on Arm. IX. 4. p. 934 ; 'fir para good aftrare ROM I com on 
 
 1198 
 
-History of Dharmatastra 
+
 
 (Ch. XXXIII 
 
@@ -959,7 +959,7 @@ q
 
 120% 
 
-History of Dharmadāstra 
+
 
 (Ch. XXXIII 
 

@@ -223,7 +223,7 @@ On मनु [II. 126 गोविन्दराज 9ays — यत्तु �
 
 662 
 
-History of Dharmaśīstra 
+
 
 important circumstance is that, though the Mit. mentions Medbātithi and Bhojadera as great authorities it is silent about Govindarāja. Hence it follows that Govindarāja could not have flourished earlier than Bhojadeva, i. e. earlier than about 1050 A. D. In the Hāralatā of Aniruddha ( which as we shall see later on (must have been composed about 1160 A. D. ), Govindarāja is quoted several times and is looked upon as a great authority like Viśvarūpa, Bhojadeva and Kamadhenu.908 This shows that Govindaraja could not have flourished later than 1125 A. D. The Dayabhāga909 (in Duhitrāelhikūra ) disapproves of the view of Govindarāja who placed the daughter's son before married daughter as an heir. In his Kāla virekao10 also Jimūtavāhana refers to Govindarāja in the same breath with Bhojarāja and Viśvarūpa. In his Vyavahāramātrkā$11 he refers to Maîjarīkāra as having held the same view as Viśvarīpa. Manjarī here must be taken to be the Smrtimanjarī of Govindarāja, since Jimūtavāhana in his other works refers to Govindaraja, since Kullūka also speaks of the Manjarī of Govindarāja ( vide note 706 above ) and since there is no other known ancient work of that name on dharmaśāstra. This shows that the Maŭjari comprised a discussion on vyuvuhūra, also. Hemādri912 tells that the author of the work called Panditaparitosa refuted the views of Govindarāja on the performance of śrāddba on the 13th tithi by a man having a son. This shows that Govindarāja must have preceded Hemādri ( who wrote in the latter half of the 13th century or by at least a century more. The 
 

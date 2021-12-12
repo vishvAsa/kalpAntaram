@@ -27,7 +27,7 @@ A firm believer in the doctrine of kar ma, punarjanma (re incarnation) and karma
 
 336 
 
-History of Dharmadastra 
+
 
 [Vol. father has become a god (by his good deeds) the food offered in śrāddha becomes nectar and follows him in his state of godhood, if he has become a dastya (an asura) then (the food) reaches him in the form of various enjoyments, if he has become a beast then it becomes grass for him and if he has become a snake the śrāddha food waits on him as wind (serpents are supposed to subsist on wind) and so on. Verses 5-9 of the Matsya, chap, 19 are quoted as from Mārkandeyapurana by the Srāddha kalpalatā p. 5. Viśvarūpa 754 on Yā). I, 265 (p. 171 of Tri. ed.) also raises the same objection and gives several replies. One is that this is a matter entirely based on śāstra and so when sāstra says that pitrs are gratified and the performer gets desired objects no objection should be raised. Another reply is that the gods Vasus and others that have access everywhere have the power to gratify pitrs wherever they may be situated. He does not call the questioners (nāstıla) as some other and later 
 
@@ -53,7 +53,7 @@ to perform it or is it because śrāddha produces no consequences or is it that 
 
 338 
 
-History of Dharmasastra 
+
 
 (Yol, Markandayapur:inn many of which aro found in shap, 28 (versos 3 ft) of tho printed text. It is said 75that just as & calf lindy its own mother from among many coms that are fcattored ohout, so the mantras ropented in grāddha carry the food to the pitra. 
 
@@ -269,7 +269,7 @@ __780 b देवाः सौम्याश्च काव्याश्च 
 
 348 
 
-History of Dharmasastra 
+
 
 (Vol. then states that the performer mutters the words "hers, o fathers) regalo yourselves, like bulls come here each to his own share' (Vā), S II, 31 first half). Some (such as Tai, S. I. 8 5.1) repeated the fornuula "this here (ball of rice ) is for thee and (for those) that come after thee." But the Sat, Br, emphatically says that he should not offer with this formula, but rather with the formula 'this here is for thee,' In Sat. Br. XIL 8. 1. 7 the three immediate paternal ancestors are said to be svadha-loving. Relying on these Vedic passages and on the fact that Manu (III. 221 ) and Vispudharma sūtra (21, 3, 75, 4) prescribe the invocation of pitrs after men tioning their gotra and names that the Srāddhaprakāśa (p 13) concludes that it is really the father and the other ancestors that are the deities of śrāddba and not Vasu, Rudra and Aditya, since these latter have no gotra and that the description of the father and others as Vasu, Rudra and Aditya is meant only for contemplation (on them as identical with Vasus &c.). Ona passage of the Brahmapurāna 782 prescribing that the perfor mer should say to the invited brāhmanas that he would call the pitrs to the rites and that when the brāhmanas give per mission to call them he should do so, the Sr. P. (p. 204) remarks that the pitrs bere meant are the divine ones viz. Vasus, Rudras and Adityas and also the human ones vit, the performer's father and the rest. The Vāyupurāna (56 65-66) Brabmanda and Apu. distinguish between pitrs who are above and patrs vlio are laukika, viz father, grand-father and great-grand-father, Vide also Vayu 70. 34 for pitrs that are like gods. 
 
@@ -533,7 +533,7 @@ H. D. 46
 
 362 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -559,7 +559,7 @@ adequate and thorough treatment of all this vast mass would fill a separate volu
 
 364 
 
-History of Dharmałāstra 
+
 
 (Vol. 
 
@@ -617,7 +617,7 @@ has to return only the principal and has to pay no interest and the Mit. quotes 
 
 368 
 
-History of Dharmatastra 
+
 
 [Vol. 
 
@@ -647,7 +647,7 @@ Srāddhas are divided into three classes, nitya, naimitteka and kānya. An obser
 
 370 
 
-History of Dharmasastra 
+
 
 1 Vol. 
 
@@ -677,7 +677,7 @@ I HATTE: Ta. The FETIUT (VI 220 42–44) explains affairyT id several ways. The
 
 37% 
 
-History of Dharmasastra 
+
 
 [ Vol. deya 8384 (chap. 28. 22-23), adds that śrāddha should be perforni ed when a man dreams an evil dream and when evil planets affect the naksatra of his birth. In an eclipse the appropriate time for śrāddha is what is called Sparsa Kala 839 (i e, when the eclipse begins), as stated in a verse of Vrddha-Vasistha. The Brahmapurāpa (220. 51-54) contains all the times specified by Yāj, and a few more. Vide also Skandapurāna VII. 1. 30-3%, Visnupurāna TI, 14, 4-6, Padma (srsti 9. 128-129). Acc. to Visou Dh. 8.76.1-2, Amāvāsya, the three Astakās and the three Anvastakās, the 13th day of the dark half of Bhadrapada on which the moon is in Maghā, Sarad and Vasanta are obliga tory (mutya) times for sraddha and that if a person does not per form śrāddha on these days he goes to Hell. Visnu Dh. S.(77,1-7) states that the day of the sun's passage from one sign of the zo diac to another, the two equinoctial days, particularly the sols ticia) days, Vyatipāta, the constellation on which the performer is born, a time of rejoicing (son's birth or the like)--these are Icāmya times and a śrāddha performed on these occasions gives infinite pleasure (to the Manes). The Kūrmapurāna (Uttarārdla 16. 6-8) says that śrāddhas called kānya are commended on eclipses, solstice days, equinoctial days and on Vyatipate and they give infinite pleasure (to the Manes) and śrāddha per formed on-Saṅkranti (sun's passage from one sign of the zodiac to another) is inexhaustible and so also on days of birth and on the several naksatras śrāddhas should be performed. Āp. Dh, S. II. 7. 16. 8-22, Anusāgana 87, Vāyu 89. 10-19, Yāj I 262-263, Brahmapurāna 220.15-21, Visnu Dk. 8.78.36-50, Kūrmapurāna (IL 20.17-22), Brahmānda II. 17.10-22 state what rewards & man gats if he performs śrāddhas on each of the days from the first to the 15th of the dark half These lists do not completely agree with each other. That of Ap. being probably the most ancient, is set out hereSrāddha performed on each of the 15 days of the dark half respectively yields the following results in order, viz. progeny chiefly consisting of females (on 1st tithi 
 
@@ -703,7 +703,7 @@ The Visoudharmasūtra (78. 1-7) states that one performing śrāddha on Sunday s
 
 374 
 
-History of Dharmatāstra 
+
 
 [Vol. 
 
@@ -851,7 +851,7 @@ pati quoted in the Srāddbaviveka of Rudradbara montions five olassos of śrādd
 
 382 
 
-History of Dharmatõstra 
+
 
 (vol, 
 
@@ -945,7 +945,7 @@ ___866. यमुः मथमकल्पस्य योऽनुशल्प�
 
 388 
 
-History of Dharmasastra 
+
 
 [Vol. verse from Dhaumya which prescribes Cāndrāyana for dining at a śrāddha on the birth of a son or at slaantonnayana, in & navaśrāddha etoVide also Nirnayasindhu II, pp. 467-468 for prāyaścittas on eating srāddha dinners, The Varāhapurāna (189, 12-13) provides that if & brāhmana dies while the food offered to & preta is still in his stomach he dspells for a halpa in a horrible hell, becomes a raksasa and then becomes froe from the sin, 
 
@@ -1071,7 +1071,7 @@ TISTETTIERRA a ne i 191.11 amet III 14 38-39 9. by EHITE P 520. The same verse o
 
 396 
 
-History of Dharmasastra 
+
 
 (To. 
 
@@ -1477,7 +1477,7 @@ H.D.53
 
 418 
 
-History of Dharmasastra 
+
 
 [ Yol: 
 
@@ -1513,7 +1513,7 @@ TAI Vareng Jenis H are Ral... सौवर्णराजतौटुम्प�
 
 420 
 
-History of Dharmadāstra 
+
 
 (vol, 
 
@@ -1541,7 +1541,7 @@ It has already been seen at pp.413-14 what kinds of food were recommended or con
 
 422 
 
-History of Dharmasastra 
+
 
 [Vol. beans. The Auśanasa 749--smrti pronounces the threat that the brāhmana, who, when dining at śrāddha, does not sat māsa food, becomes a boast for twenty-one births after death. The Sm. O. quotes a smrti text saying that a śrāddha in which no māsa preparation is offered is as good as not performed. 
 
@@ -1639,7 +1639,7 @@ In the Tai. 959 Br. I. 210 the Pindapitryajña is dealt with at some length. In 
 
 428 
 
-History of Dharmasastra 
+
 
 [Vol. He says 'to Soma drunk by the pitrs, sradhal Adoration!' He says 'to Agni, the carrier of kavja, svadhāl Adoration ! (Thereby) he pleases the fire that pertains to the pitrs. He offers (into fire) three oblations; he puts down (on the darbhas spread on the ground) three pindas. (These) thus come to six in number. Six indeed are the seasons. He (thereby) pleaseg the seasons The seasons are indeed the shining (or divide) pitrs......The darbha grass is cut with one stroke; the pitrs have as it were (passed away) once for ever. He puts down thrice (the pindas) The pitṛs are indeed in the third world from here. He (thereby) pleases them. He (the performer) turns his face away (to the north from the south), for the Fathers are shy, He remains with his face turned away till the steam (of the boiled rice of the pindas) ceases to rise, for the Fathers have the steam of rice as their share; he should simply emell (the pipdas). That as if does not amount to eating of non-eating. The pitṛs when departing (from the śrāddha rite) take away or grant a valiant son. He cuts off the fringe (of a garment to place it on the pindas), for the share of Fathers is taking away (what is offered). He (thereby) allots their proper share to the pitrs (and dismisses them). When the performer) is in the latter part of life (i e, over 50 years of age) he cuts off hair (from his chest instead of presenting a dasa) At that time he is nearer to the pitrs (when above 50 years of age). He offers adoration, because adoration (namaskāra) is dear to the pitrs, Adoration to you, O Fathers, for vigour; adoration to you, o fathers, for life, adoration to you, O fathers, for sadha, adoration to you, O fathers, for ardour; adoration, O fathers, for the terri ble! O fathers' here is adoration to you. This (pindapitryazña) is indeed a sacrifice of men (i e. sacrifice to departed men) and other sacrifices belong to the gods" In the Tai Br. 1 4 10 the Pitryajña performed in sākame tha is praised (in 2) and further on it is said that Rtus (seasons) are pitrs and they offered pitryajia to Prajāpati, their father. This passage supports the provision made in Manu and some of the digests that the Rtus are to be identified with pitrs and obeisance is to be made to them.%0 
 
@@ -1805,7 +1805,7 @@ We shall now turn to the metrical smrtis. Manu treats of the procedure of śrād
 
 440 
 
-History of Dharmasastra 
+
 
 (Vol. as the procedure prescribed by the Yājñavalkyasmrti (L, 226–249) is more compact and at the same time more lucid it is set out here. "When the invited brābmanas come in the afternoon the performer having a partra 982 in his hand should seat them on seats and make them sip water. The brahmanas invited should be even in number (2, 4 &c.) according to the performer's re sources at the darva rite (i. e, the Vaiśvadavika brāhmadas should be two, four &c.) and uneven (three or five &c.) at & (pārvapa) śrāddha for the pitts; the brālmanas should be seated in a pure (covdunged) plot screened on all sides and sloping towards the south. At the darva (part of pārvad& śrāddha yhen Viśpe-devāh are to be invoked) two brāhmanas facing the east should sit down and three brāhmaṇas facing the north should be seated in the rite for the pitrs or only one may be seated for each (i, e. in darva and in patrya), The same rule applies to a śrāddha for waternal ancestors. In both (pitrśrāddha and mātāmahaśrāddha) the worship of Viśve devas may be performed separately or simultaneously 983. Then having poured water on the hands of the brahmanas (meant for the rite in honour of visve-deyah) and having given kuga blades for a seat 994 (towards their right side on the seat already 
 
@@ -1859,7 +1859,7 @@ words 'पितरय ते गन्ध: etc.
 
 444 
 
-History of Dharmasastra 
+
 
 1. Vol procedure laid down for Piṇdapitrgajña, He, being intent (only on performing srāddha correctly), should serve the food that remains after making the two offerings mentioned above) in plates (except earthen one) that he may be able to secure, and particularly Bilver oness (plates are meant for feeding pitrya brahmanas). After serving the food in the plates, he should invoke over the plates the mantra 'the earth is thy992 support', he should take hold of the thumb of the brāhmanas and put it on the food (served in the plates) with the mantra 993 'idam Visnur' ("Visnu strode over this' Rg, I. 22. 17, Vāj. S. V. 15, Tai 8. I, 2, 13, 1). The performer should then mutter the Gāyatrī verse (Rg. III 62. 10, Vā). $. ILI, 35, Tai, S. 1. 5. 6. 4) together with 'Om' and the 
 
@@ -1887,7 +1887,7 @@ e rangey Filluar: 1...7 at F i leCAT ENT@Masai तरसंनिधानाद
 
 Sraddha ultimately saved them. The same story is DarTated in Padma V. 10.49-125, and V, 47.282-304 (in which last the disciples are said to have been those of E) After becoming hamsas three of them became Lings (a king and two ministers, acc. to fit) and cared not for the other world. The four others knew the path to moksa, sent word to the three with these verses saying that they four had started on the long road to the other world (PEAT , ) and asking the other three not to be immersed in the mire of wordliness (74... ). The story also occurs in the fragreret (SATHICAT Chap. 41.24 ff). It is interesting to aote that in the faina Uttaradhyayana-sūtra (S. B. E vol. 45 p 56 ) the echoes of this story of the brothers are beard for illustrating the influence of karman, 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1951,7 +1951,7 @@ a The HYENETUT is what is called a contained in the T II 5 (begia aung with इ�
 
 450 
 
-History of Dharmasastra 
+
 
 I Vol. the Fathors, all the Purānas, various eulogies of Brahma, Visnu, the Sun, Rudra and the Vedic hymns addressed to Indra, Rudra and Soma and the Pāvamāni verses, the Sāmang called Brhat, Ratbantara and Jyestha Sāman, the chapter on Santi rites (propitiatory rites for removing evil events or prognostioa tions), the Madbubrahmana, the Mandala Brāhmana and whate over else gives pleasure to the brāhmanas and the performer, and the Mahabhārata also should be recited, as it is very dear to the pitrs. After the brahmanas have finished their dinner the performer should oolloot together in a lump portions from āll kinds of food, put water over them and spread 1006 it (on the ground over darbhas) in front of the plates of the dining brahmabas and should say 1007 "May those persons in our 
 
@@ -2013,7 +2013,7 @@ TIFT: ,
 
 454 
 
-History of Dharmasastra 
+
 
 vir, kursas, tilas, wator, vog50]s, foods &o, are the same in all works). Tho effort that is enjoined (the vidhz) is the same and the noino (Pūı vanasruddha, Ekoddista śrāddha &c.) is the same. Thorofore, on account of those various signs one easily recog nixos that the samo rito is being dealt with by all sūtras, even if many of them differ in dotajls. It cannot be said that surtis vill ho usoful for those who havo no sutras of their own. Each man of the first three varnas is attached to some sūlra or other by tho trodition of his family or caste. Similarly, the sportis cannot bo bold to be meant for śūdras alone, since the smrtis miainly doal with ipanayana, the study of the Vedas, agnihotra and other matters with which a śūdra has no concern. Similara ly, the ohjoction that if dotails were allowed to be inserted from othor sūtras and smrtis tho krama and kūla prescribed in one's sūtra might have to be set aside, the reply is contained in Jai. I 3.5-7 (explained at groat length in H. of Dh. vol. II. pp. 841-848) 1012 The fruli says 'after getting ready a bundle of kuśa grass he prepares the zedi (altar)'. Here a certain order of acts is laid down, If after a bundle of kuśas is got roady, the man has a sneezo, he has to sip water (perform ūciniana ) immodiately as laid down by Manu V. 145 and Vas. UI 38 before he prepares the vedi. So the objector says the krana will be intorfored with. The reply is that the sequence (krama) is only a characteristic of the items in the śruti passage, that all that is meant is that the making of the altar follows the getting ready of a buśa bundle, but that it is not meant that the making of tho vedi should follow immediately after the bundle is got ready. Therefore, the conclusion is that whatever detail is not in conflict with one's own sakhā or sūtre may be in oluded in the rite one is about to perform, but if there is a direct conflict, then one should stick to one's own sūtza. Ar observed by Katyayana whatever is declared, whether in great detail or in brief, in one's own grhyasūtra about a rite, if he performs that much, it may be taken that he has done all that is required of bim; but what is not handed down in one's sakhā (or sūtra) but 18 contained in another sākha and is not in conflict with one's Dgn sākha, should be performed by the learned, as in the case of 
 
@@ -2337,7 +2337,7 @@ H. D. 60
 
 474 
 
-History of Dharmasastra 
+
 
 daughter as a son became rate or went out of yogue the maternal ancestors came to be associated with the paternal ancestors in pārvada-śrāddha. 
 
@@ -2413,7 +2413,7 @@ were to be placed and then pindas. The Vayupurāna provides that a line should b
 
 480 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -2445,7 +2445,7 @@ II. D. 61
 
 482 
 
-History of Dharmasastra 
+
 
 [ Vol. Others like Karka hold the view that piodadana is the principal item in śrāddba. They rely upon the fact that in the śrāddha at Gayā it is the offering of pindas that is the most important matter and upon the fact that in the Visnudharmasūtra (78. 52-53, and 85. 65-66) and in several Puranas such as the Varāha (13.50), Visnu (III. 14,22-23), Brahma (220.31-32), Visnu dharmottara (I 145.3-4) the pitrs are stated to have expressed a deep yearning for a son who would offer them piodas at Gaya and water on sacred rivers &c (vide note 911). Further support is sought for this view in the faot that in the śrāddha on the birth of a son and in srāddha offered even by a good būdra the feeding of brālmanas is forbidden. A third view is that both the feeding of brāhmapas and the offering of pindas are the principal matters in a sraddha, The Gobhila-smrti, after stating 1081 the other two views and some of the reasons therefor, tells us that the author of it is himself in favour of this third view. In cases where the word śrāddba is employed and there 18 neither brāhmana feeding nor pipdadāna as in Daiva śrāddha, the word śrāddha is applied in a secondary sense (gauna). Vide Henādri sraddha) pp. 157-160. In the Dharmapradīpa it is said that among the followers of the Yajurveda (i e. Vājasaneyins) the offering of pindas is principal, among the followers of the Rgveda the feeding of brāhmapas is principal, while among the followers of the Sāmaveda both are principal, In this way śraddha partakes of two characters viz it is a vāga (sacrifice) and also 1085 a gift (dāna) Haradatta, Hemādri, Kapardi and others appear to hold that all three (bhojana pindadāna and agnaukarana) are principal. Vide Samskāra ratnamālā p. 1003. 
 
@@ -2475,7 +2475,7 @@ Pam: Hii i HAUTETI AISMUC4 28. 4-5 g by T XI 41 (shich connects these verses wit
 
 484 
 
-History of Dharmafāstra 
+
 
 [Vol. gods 1089, Mañu (IL 265 ) states 1090 that after the brāhmavas have been dismissed the performer of sraddha shall offer the (daily) domestic vali offering and that this is the settled rule of dharma, Medhātithi explains that the word "bali' is meroly illustrative. The Matsyapurāna 1091 17 61, the Varāha purāpa (14.43), Skanda VI. 1. 266. 101-102, Devala, Kārsnājini and others provide that after the rites for the fathers are finished Vaiśvadeva should be performed. When Vaiśvadeva is performed after the completion of śrāddha rites, it is to be offered from the food that remains after being utilized for the śrāddha dinner. But Hemādri (pp. 1058-1065) holds a long discussion and arrives at the following conclusions In the case of an āhitāgnz (p. 1064), Vaiśvadora is to be performed before śrāddha except in the case of the śrāddha on the 11th day after death. In the case of one who has not kept the sacred fires there are three optional times for Vaiśvadeva, viz, after agnaukarana or after the vikira (scattering of food on darbhas for those dying without the samskāras being performed for them), or after the brāhmanas are dismissed on the completion of the śrāddha (P 1064), If Vaiśvadeya is to be performed before śrāddha or in the midst of it, then the cooking of food must be done separately for Vaiśvadeva and for śrāddha. In the case of all, whether sāgnika or anagnika, Vaiśvadeva must be performed with the remainder of the food left after use in śrāddha, if the former is performed after the latter, There were sages like Parthinasi1092 that held that Varsvadeva should not be performed with the food cooked for sraddha without first offering the food to the brābmapas invited for śrādda dinner i e, Vaiśvadeva must be performed after śrāddha of the same food is to be used 
 
@@ -2579,7 +2579,7 @@ I. 8.
 
 492 
 
-History of Dharmasastra 
+
 
 to your portions ; svāhā, adoration'. When offering a garment or cash therefor he recites 'yuyā suyāsaḥ' (Rg. III. 8.4). Then he says " these items viz, gandha, leaves, flowers, incense, lamp ending with covering (garmont) be all of them completa, Let there be good worship in the rite of worship; May that which is wanting or is excessive be according to prescribed rules'. The brāhmanas respond 'astu vidhivat' and the per former recites the verge "I do obeisance to Acyuta by romem bering whom or by uttering whose name whatever is wanting in tapas (observances) or sacrifices becomes at once perfeot', 
 
@@ -2605,7 +2605,7 @@ He places the vessel containing saisravas with the top upside down on darbhas to
 
 494 
 
-History of Dharmasastra 
+
 
 [Vol. and having poured clarified butter on the food in the vessel and on the food cut off for oblations, he should offer the oblations with the words To Soma accompanied by pitrs, sradha and adoration; this for Soma with the pitrs and it is not (now) mine' and 'to Agni the bearer of Karya, suadha and adoration; this is for Agni Kavyavāhana and not mine.' This is the mode every where. Ho touches water with the left hand and repeats the following (which is called 'samstha-Japa' and occurs in Āśr. Sr. 1 11.15 ) 'Om ca me.. te namah'. Obeisance to Agni. Sixzxlt. Then he prays 'O Kavyavahana i bestow on me faith, memory, glory, intelligence, learning, intellect, wealth, strength, long life, brilliance, health.' He says offering has been made on the band'. The response is 'suhutam'. Then he pours ghee on the vessel containing the food and repeats * mūrdhānam divah' (Rg VI 7.1) Then the brālimadas should cast the food on their hands in the vessel over which ghee has been poured and then mutter Trisuparda, 1307 the hymns to anna (Rg. I. 187. 1-11 and several others) and other hymns Then cortain pauranic verses should be repeated, viz 'Dovatā bhyah' (note 1020 ), the verse 'one should always recite at % śrāddha these holy places viz Kuruksetra, Gaya, Ganga Prabhasa and Puskara ', the two verses 1108 saptavyādha' ( noto 9940 ) and three more verses, one speaking of adoration to pitts and the other tipo praying to Visnu and Siva for favours. Then savyam. Then he sprinkjes water (proksana ) on the food with the Gāyatri mantra, Then bending his right knee he silently spills water. Then holding the plate with the right hand above and the left hand below he utters the mantra *the earth is thy vessel 1108, the heaven is the lid I sacrifice thec in the brahmana's mouth. I sacrifice thee in the Prada 
 
@@ -2663,7 +2663,7 @@ H. D. 63
 
 498 
 
-History of Dharmasastra 
+
 
 (Vol. Raurava (hells) full of pus reach them inexhaustibly'. Thani apasavyam. He repeats the mantra 1113 'The asuras and rāksa sas that sit on the altar are struck and driven away* (Vāj S. I. 29). Sprinkling the ground with water and strewing thereon darbhas cut with one stroke that have their tips turned to wards the south-east be says 1114 "May the Fathers vask them selves, may the grandfathers wash themselves, may the great grandfathers wash themselves'. In the same way he should sprinkle on the kusa grass water mixed with sesamum grains for the mothers and the rest. Then he says This (food) is for thee, my father named so and so, of such and such gotra, who is (to be contemplated) as Vagu and for those who come hero 
 
@@ -2761,7 +2761,7 @@ Comparing the above rather elaborate and exhaustive procedure with the procedure
 
 504 
 
-History of Dharmasastra 
+
 
 (Pol. 
 
@@ -2799,7 +2799,7 @@ H. D.64
 
 506 - 
 
-History of Dharmatastra 
+
 
 "I Vol. 
 

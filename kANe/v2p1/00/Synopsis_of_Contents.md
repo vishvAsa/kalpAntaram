@@ -15,7 +15,7 @@ CHAP. I.
 
 105-164 Duties, disabilities and privileges of varpas. Brāhmaṇa's special privileges and duties-study of veda, teaching the veda, officiating at and performing sacrifices, making and receiving gifts. Rules about receiving gifts. Special duty of sūdras to serve bigher castes. Divisions of sūdras. Brāhmaṇa in distress may do the work specially meant for ksatriyas and vaisyas. Brāhmaṇa and money-lending, agriculture, sale and barter as means of livelihood in distress. Begging. High eulogy of brahmanas. Enumeration and discussion of special privileges olaimed by brāhmaṇas, Disabilities of sūdras, viz. not authorized to study the vede nor to perform vedio sacrifices with vedio mantras, liability to receive higber punishment for certain offences, not to hold high offices like that of judge.Xiv 
 
-History of Dharmatastra 
+
 
 CHAP. IV. 
 
@@ -49,7 +49,7 @@ Vyabrtis and'om'. Eulogy of Gayatri. The dharmas ( duties ) of brabmacārins. Bh
 
 XVI 
 
-History of Dharmasastra 
+
 
 marriage. Purposes of marriage. Qualifications of a desirable bridegroom. Rules for the selection of a bride. Lakṣanas ( indicatory characteristics ), bāhya ( visible ) and abhyantara (invisible or inferrible). Four or five grounds for preferring a particular girl. Selecting & girl by asking her to take one out of several lumps of clay gathered from various places. In ancient times brotherless maidens not accopted as brides. No unmarried woman was deemed in medieval times to go to heaven. Restrictions as to oaste, gotra, pravara and sapinda relationship. Breach of these rules rendered a so-called marriage null and void. Age of marriage for men not fixed. Ago of marriage for girls varied at different periods. In the ancient sūtras girls were married about the time of puberty, Reasons for insistence on pre-puberty marriages in Yājñavalkyasmrti and other works not clear. Examples of inter-caste inarriages in Vedic Literature, in dharma and grhya sūtras and smrtis and in inscriptions. Anuloma marriages allowed till about the 9th century A. D. Sapinda relationship explained in the Mit. Rules about prohibition of marriage on the ground of sapiṇda relation ship. Conflict of texts as to these rules. Marriage with one's maternal uncle's daughter. Conflict on this point among medieval writers and among several castes. Narrowing of sapinda relation ship permitted by writers of digests only on the ground of usage. Meaning of 'viruddhasambandha." Sapinda relationship of the adopted son. Meaning of sapinda according to Dāyabhāga and Raghunandana. Marriage between sagotras and sapravaras forbidden. Meaning of 'gotra' and 'pravara' in Vedic works. Gotra and pravara of importance in several patters. Gotra in the sūtras and digests. Divisions and sub-divisions of gotras. Each gotra has one or more pravaras. Gotras of kṣatriyas and vaiśyas. Names of kṣatriya kings among gotras and pravaras. Marriage of sagotras and sapravaras void according to the writers of digests. Persons that have power to give a girl in marriage. Sale of girls in marriage in ancient times. Taking monetary consideration for one's daughter condemned. Father's power over his children, Conflict of views among writers as to ownership over one's wife and children. Infanticide, medieval and modern. Auspicious time for marriage, Medieval works introduced difficulties on astrological grounds. Forms of marriage. Meaning of rākṣaga and paigāca marriages, Svayamvara. Only two forms of marriage in vogue in modern times. Procedure of marriage in the Rgveda and in the gphya Sūtras. List of the several elements in the marriage rite and 
 
@@ -75,7 +75,7 @@ H. o. O
 
 Iviii 
 
-History of Dharmasastra 
+
 
 Position of women became assimilated to that of sūdras in religious matters. Certain advantages conceded to women. Practice of purda did not exist for women except for queens and ladies of high or noble rank, 
 
@@ -193,7 +193,7 @@ CHAP. XXXII.
 
 *xviii 
 
-History of Dharmasastra 
+
 
 of Soma stalks placed on antelope skin spread on a curt, that is brought to the east of the prāgvamsa. Recital of the Su. brahmaṇyā litany by the Subrahmanya priest. A goat is presented to king Soma. Oxen are released from the cart, soma bundle taken out of the cart, placed on a couch of udumbara wood and brought to the south of the abavaniya. Atithyesti (iṣçi for hospitably receiving king Soma ) follows. Then comes Tanūnaptra (& solemn covenant of the sacrificer and priests not to injure each other). Pravargya and Upasad follow. Pravargya was a sublime rite supposed to ondow sacrificer with a new body. Not necessary in every Agniṣtoma. The heated milk is called gharma and the pot of heated milk Mahavira or Samrāṭ. Wife was not to look at it (at least in the beginning), nor śūdras. On 2nd, 3rd and 4th days Pravargya and Upagad performed twice. How pravargya apparatus is discharged (udyāsana). Upasad is an iṣti. Mantras repeated in Upasad refer to sieges of iron, silver and gold castles. On nd day of u pasads Mahūvedi is prepared, on which a quadrangular platform ( called uttaravedi) is raised and & square hole called nābhi is made on which fire is brought on the 4th day from the original āhavaniya. Erection of the harvidhāna-mandaps in which two carts are kept. Digging of four holes (called uparavas) below the forepart of the shafts of the southern cart. A mound (khara) to east of uparavas for keeping soma vessels on, Erection of sadas to the west of the hayirdhāns mandapa. Planting of an udumbara post in sadas, Preparing eight dhiṣnyas (seats ), six in sadas, one in the āgnidhriya shed and the eighth in the mārjālıya shed. On uparavas kuśas are spread, over which two boards of udumbara are placed and a hide thereon. On the hide are stones for crushing soma stalks. Offering of an animal to Agni-Soma, Then follow offerings of ajya called Vaisarjina to Soma. Fire is carried to the uttaravedi, and established on āgnidhra dhiṣpya. Bringing Vasativars water in a jar and keeping it in āgnidhra shed. Last day is called 'sutya'. Repeating of a long prayer called Prātaranuvāka by botr long before day-break to Agni, Uṣas and Asvins. Making ready of five offerings Filling of ekadhana pitchers by adhvaryu and of pannejana Vessel by the sacrificer's wife. Extracting Soma from a few stalks, filling the upāmāugraha and offering its contents. Then comes Mahābhiṣava (principal pressing). Offering soma from various cups to several deities. Viprug-dhoma. Priests come creeping towards the north corner of the great vedi, where the 
 

@@ -109,7 +109,7 @@ MAN
 
 922 
 
-History of Dharmatastra 
+
 
 (Ch. XXVII 
 
@@ -179,7 +179,7 @@ There are historical examples of this practice supplied by Epigraphy. The Khairh
 
 926 
 
-History of Dharmasastra 
+
 
 (Ch. XXVII 
 
@@ -207,7 +207,7 @@ Among Jains & similar rule prevailed. The Ratnakaranda grāvakācāra (chap. 5) 
 
 2139. Panhar ES ATA Antras sarrufent hera prego Tout pour I TUTTA AT IV aftor verso 3.928 
 
-History of Dharmasastra 
+
 
 (Ch. XXVII 
 

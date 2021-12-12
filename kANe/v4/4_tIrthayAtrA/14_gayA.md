@@ -13,7 +13,7 @@ Gaya occupies a unique place in the hearts of all pious Hindus eren in these day
 
 I Vol. 
 
-History of Dharmasastra 
+
 
 The most important work on Gayā relied upon in such works as the Tristhali-setu and in modern times is the Gaya mālātmya that occurs at the end of the Vayupurāna (ohapters 105–112 of the Anandāśrama ed.). Scholars differ about the antiquity of these chapters. Rajendralal Mitra assigned the Gaya-māhātmya to the 3rd or 4th century AD. O'Malley was inclined to hold that the legend of Gayāsura was invented in the 14th or 15th century, principally on the ground that the Gayāwals profess the Vaissava faith established by Madhva. cārya 1:68 and acknowledge as their spiritual head the mahant of Hari Narasimhapura; vide J. A. S. B. vol. LXXI (1903) P. 4. To my mind there is hardly anything in this. The Gayawals are notorious for their indolence, dissoluteness and ignorance and they are a dying race. O'Malley himself notes in the paper mentioned above at p. 8) that originally the families of Gayawals were 1484, that in Buchanan Hamilton's time they numbered about 1000, that in 1893 a Gayāwal counted 128 families, that in the census of 1901 there existed only 168 males (as pure Gayawals) and 153 females. Gaya is a place sacred to Yispu and if the Gayāwals had to turn in medieval times for support to some great acārya they would naturally choose to align themselves with the Vaisnava ācārya Madhye rather than with Saṅkara Dr. Barua, after an elaborate exami nation of the several iterns of evidence, holds 'that' the Gaya mahatmya is not earlier than the 13th or 14th century A. D. (vol. I. P. 64 of Gaya and Buddha Gaya'). From considerations of the space at my disposal I cannot examine in detail his argu ments His conclusion is vitiated mainly for two reasons. He relies too muoh on the dubious and unconvincing argument from silence. He examines the account of Gayā that appears in - the Vanaparya and compares it with the fuller account in the Gayāmābatmya and arrives at the rather startling conclusion "The Gayā proper as known to the Epic (the Mabābhārata) is essentially a place sacred to Yama Dharmarāja, Brahma and Sivasūlin, and Vispu and Vaisna. vism has no place in it either as a name or as an idea. Except 
 
@@ -67,7 +67,7 @@ Before discussing the most important passage of the Vana. parva (viz. 84. 82–1
 
 648 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -275,7 +275,7 @@ According to Dr, Rajendralal Mitra (in 'Bodh-Gaya' pp. 14. 18) the story of Gaya
 
 660 
 
-History of Dharmasāstra 
+
 
 theories here. To my mind it appears that Gaya bad become a famous pitrtirtha centuries before Christ and that the logond of Gayāsura is a post facto attempt to account for the sanctity" of the place and the numerous shrines and holy places that lod sprung up round Gaya, 
 
@@ -317,7 +317,7 @@ The E (stone slabs with foot prints thereoa) are. 1. 111, 46-58 men. von 16 by b
 
 662 
 
-History of Dharmadastra 
+
 
 noon the pilgrim should go to the Pretaśılā, take a bath in the Bralmakunda, offer tarpada to the gods and perform sraddha of his sapindas on the Pretasila with the mantras set out in Vayu (110,10-12) and offer pipdas to bis ancestors, In Astakās, in Vrddbiśraddha, at Gayā and on the anniversary of death, one mas offer a śrāddba separately to one's mother but on all other occasions with her husband. 1495 To the sapindas other than one's patorna) ancestors he should offer sraddha to the south (of the place whero he offers to his father &c.) viz, should spread kugas and once offer Fater mixed with sesame and should offer them & pinda made of barley flour and repeat the mantras (Vāyu 110. 21-22). The pindas to be offered at Gayaśiras may be in size as 14% big as one's closed hand, or an undried amalaka (myrobalan) fruit or of the size of sami leaves. By means of these he saves seven gotras viz, that of his father, of his mother, of his wife, sister, daughter, paternal aunt and maternal auzit. Water mixed with sesame and pindas are offered to all persons on the maternal grandfather's side, to all bandhus, to all infants, to persons cremated or not cremated, to persons that were killed by lightning or robbers or that commit ted suicide in various says and to those who may be undergo ing torments of Hells of various kinds and those who have become beasts or birds or insects or trees owing to evil deeds (Vāyu 110, verses 30-55). The verses of most comprehensive character about offering water have been cited in n. 1237 p. 550 and on pp. 616-617 above. 
 
@@ -345,7 +345,7 @@ T I. 1498. सर्वस्थानेषु चैवं स्यापि�
 
 664 
 
-History of Dharmasastra 
+
 
 [Vol. I on the south). At each of these three there is a śrāddha. Then the pilgrim goes to the Phalgutirtha, which is the best of all (Gayā) tirthas. The pilgrim performs tarpana and srāddha with pindas on Phalgu, This śrāddba at Phalgu results in nukta for the performer and also for those for whose benefit it is performed (muktir-bhavati kartfdām pitinām śraddhatah sadā, Vāyu 110. 13). It is stated that Phalgu is Adi-Gadadhara himself in a fluid form.1500 By bath in Phalgu and seeing Gadadhara a map saves himself, ten ancestors and ten descend ants. Then he worships Gadadhara by a bath with pañcamrla after bowing 1500x to Vasudeva, Saṅkarsada, Pradyumna, Aniruddha, Vispu, Srīdhara. On the 2nd day of the Panca tirthi rites (i. e. 4th day from entering Gayā) the pilgrim should repair to Dharmārapya which is so-called because Dharma per formed a sacrifice there. Then the pilgrim should bathe in the Matapgavāpi (which is situated in Dharmāranya), then he should perform darpana, śrāddha and pindadana at the well called Brahmatirtha and also in the space between Brahma tirtha and Brabmayūpa; then bow to Brahma and Dharm eśvara 1501 He should bow to the Mahābodhi tree (1, e, the sacred pippala) and perform śrāddha also underneath it. Agni 115. 34-37 and Nāradiya (uttara) 45, 104 refer to these tirthas, On the third day of the Paicatirthi rites (i. e, on 5th day from entering Gayā) the pilgrima should bathe in Brahmasaras and perform sraddha with pindas between the Brabmakūpa and the Yūpe (sacrificial post) raised by Brahmā vben he performed a sacrifice, By this śrāddha the pilgrim saves his pitrs. 1502 He should go round the Brahma-yūpa and bor 
 
@@ -379,7 +379,7 @@ I TOTSTAR ESTA FEITHI 111, 75 T J is in the stream of the river Phalgu,
 
 666 
 
-History of Dharmasastra 
+
 
 [ Vol. and honour the (Gayā ) brāhmanas established by Brahmi with offerings and food When they are gratified gods together rith pitrs become gratified. 1506 Then the pilgrim should bow to the Aksayavata and worship it with a mantra and also bot to worship Prapitāmaha, Agni 115. 69-73 and Nāradiya (uttara) chap. 47 also refer to these, 
 
@@ -559,7 +559,7 @@ Four of the most important and holy tirthas have been dealt with at some length 
 
 618 
 
-History of Dharmasastra 
+
 
 [Vol. the bestowers of mol.sa. 1535. They are Ayodhya, Mathura, Maya (i. e. Haridvara), Kasi, Kanci, Avantika (i. e. Ugayini), Dvārakā. In some works it is Kanti and not Kancl that is 
 

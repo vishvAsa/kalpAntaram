@@ -67,7 +67,7 @@ Ancient Buddhist works show that Banaras was, in the times of Buddha (5th Centur
 
 622 
 
-History of Dharmasastra 
+
 
 (voj. 
 
@@ -261,7 +261,7 @@ student expoundin the latters of Thailaajesty, the 184) is in
 
 632 
 
-History of Dharmasastra 
+
 
 [Vol. of Raja Todarmal 1446. Even this temple was desecrated. The following passage from the Ma-A'sit-i-A'lamgiri quoted by Elliot and Dowson ("History of India,' vol. VII, P 184) is in structive: "It reached the ears of his Majesty, the protector of the faith, that in the provinces of Thatta, Multan and Benares, but especially in the latter foolislı brahmanas were in the habit of expounding frivolous books in their schools and that students and learners, Musalmans as well as Hindus, went there even from long distances, led by a desire to become acquainted with the wicked sciences they taught. "The Direc tor of the Faith' consequently issued orders to all the gover nors of provinces to destroy with a willing hand the schools and temples of the infidels, and they were strictly enjoined to put an entire stop to the teaching and practising of idolatrous forms of vorship On the 15th Rabiu-akhir (i, e. December 1669) it was reported to his religious Majesty, leader of the Unitarians, that in obedience to order, the Government officers had destroyed the temple of Bishnath at Benares," 
 
@@ -295,7 +295,7 @@ H, D. SO
 
 634 
 
-History of Dharmasastra 
+
 
 [Vol. Kesava, Bindumadhava and Manikarnika,151 In modern Times the five essential tirthas called Panoatirthi are the confluence of the Asi with the Ganges, the Daśāśyamedha ghat, Madi. karnikā, the Pañcagangā glāt and the confluence of the river Varana (valled Barna by the common people) with the Ganges. This is based on the Kaśīkhanda,1452 The shrine of Lojārka is situated at the confluence of the Asi (the southern boundary of Banaras) with the Ganges. The Kaśikhanda 1453 furnishes a popular etymology for the name Lolārka, viz. that the mind of the Sun on seeing Kasi became agitated. The Asi is a tolerably wide stream (about 40 feet) in the rainy season, but is dry at other times. The several gigantic ghats with their flights of stone steps are a grand sight at Banaras. The Ganges while passing by Banaras takes a great sweep so that its mighty current flows in a northerly direction that is towards the Himalaya) and is therefore held to be peculiarly holy hera, The Daśāśvamedha-ghāt has been famed for centuries, Jayaswal's interpretation of the epithets applied to the Bhara śivas in Vākātaka grants should be accepted viz, the Bhārasivas were an imperial dynasty, were crowned with the holy waters of the Ganges and took their ceremonial baths on the Ganges at the end of ten Aśvamedha sacrifices, on account of which the Dasasvamedha-ghat 1454 at Banaras was so named (Jayaswal's 'History of India' 150 A.D.-350A.D p. 5). In order to realize the grandeur of Banaras on the side of the river one must be at 
 
@@ -347,7 +347,7 @@ One of the most meritorious of all pilgrimages is the Pañcakrośi by road. Laks
 
 1460. Det goufereafureira F ICTAT. I HABETH TO \# FETERIA H TRIN Fira, eft. 12. 59, 
 
-History of Dharmasastra 
+
 
 I vol. 
 

@@ -21,7 +21,7 @@ The time for upakarma is variously stated in the sātras, The Āśv. gr. III. 5.
 
 178 13.1; Egiasi saatatoareat fun 7 341919. T. III, 1. 1-2; proporrent sirofig FTUETE TREE OTUFhreat araramro fatog. y. II, 18.%.808 
 
-History of Dharmasastra 
+
 
 (Ch, XXIII 
 
@@ -83,7 +83,7 @@ TITIET OD PT. T. II. 10. 1926. Vide Appendix for the text.
 
 812 
 
-History of Dharmasastra 
+
 
 [ Ch. XXIII 
 
@@ -177,7 +177,7 @@ The modern utsarjana of Rgvedins may be briefly described here : after acamana, 
 
 H. D. 103818 
 
-History of Dharmasastra 
+
 
 [ Ch. XXIII 
 

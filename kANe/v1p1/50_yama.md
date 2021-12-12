@@ -55,7 +55,7 @@ A
 
 524 
 
-History of Dharmasastra 
+
 
 verses are found in both, e. g. the verses about the seven lowest casteg625 ( antyajas ). Verse 11 quotes the view of Sātātapa. This Smṛti contains the well-known text that * woman passes on marriage into the gotra of her husband, which is cited by the Mit. (on Yaj. I. 254 ).828 In the same collection there is a smṛti of Bṛhad-Yama (pp. 99-107 ). It is divided into five chapters and contains 182 verses. It deals with prāyaścittas for various lapses, purification from various kinds of contacts (suddhi), srāddha, partition and a few matters of medical procedure. In this suști Yama is frequently cited by name. Sātātapa is cited on partition ( V. 20). Many of the verses of this text are identical with those of Yama in Jivananda's text. For example, Jivananda (p. 561 ) verses 15-17 are the same as Brbad-Yama III. 1-3, Jivananda p. 563 verses 29-33 are the same as Brhad-Yama III. 34-38, Jivananda verses 35-36 are the same as Brhad-Yama III. 16–17. The verse in the Upajāti metre, Jivananda 44 ) is Brhad-Yama III. 61. Two of the verses at the end of chap. V. are the same as Yāj. II. 17 and 23. 
 
@@ -117,7 +117,7 @@ chen
 
 526 
 
-History of Dharmasastra 
+
 
 for killing various kind of birds and insects, for cutting trees and bushes, for drinking wine, for stealing gold and for the other deadly sins etc. 632 
 

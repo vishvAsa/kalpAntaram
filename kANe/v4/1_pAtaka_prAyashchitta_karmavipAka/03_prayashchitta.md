@@ -267,7 +267,7 @@ DETTE FREE ST4757 Ira: 1 3114 4. 1. 9. 24 1-4, fra The मृषभैकाध�
 
 72 
 
-History of Dharmasastra 
+
 
 | Vol. 
 

@@ -116,7 +116,7 @@ para a formag rai TOT HIOMAITETTQ arretag ino m fet quoted in the fra. I. 10, FI
 
 1288. Vide Imperial Gazetteer of India, vol. I. p. 483 (1907).556 
 
-History of Dharmasastra 
+
 
 [Ch. XI 
 
@@ -152,7 +152,7 @@ both ), they two became yoked like oxen to the sacrifice; may the two be of one 
 
 558 
 
-History of Dharmasastra 
+
 
 [ Ch. XI 
 
@@ -260,7 +260,7 @@ According to Manu V. 150 'a wife should always present & smiling face, should be
 
 564 
 
-History of Dharmasastra 
+
 
 [ Ch, XI 
 
@@ -318,7 +318,7 @@ In the Mahābharata and the purāṇas byperbolical des criptions of the power o
 
 568 
 
-History of Dharmasastra 
+
 
 [ Ch. XI 
 
@@ -420,7 +420,7 @@ Similarl
 
 574 
 
-History of Dharmasastra 
+
 
 [ Oh. XI 
 
@@ -528,7 +528,7 @@ HR I.
 
 580 
 
-History of Dharmasastra 
+
 
 [ Ch. XI 
 

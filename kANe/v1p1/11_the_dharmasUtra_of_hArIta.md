@@ -20,7 +20,7 @@ difaste bad a very much larger version of the sūtra before
 
 128 
 
-History of Dharmasastra 
+
 
 Harita's view is quoted by Baud. Dh. S. II. 1. 50, which differs from the view propounded in Baud. Dh. S. II. 1. 49; Ap. Dh. S. refers to Hārita in I. 13. 11, I. 18. 2, I. 19. 12, I. 28 1, 5 and 16, I. 29. 12 (which is the same as quoted in Baud. Dh. S. II. 1. 49 ). Vasistha quotes Harita in II. 6 ( a verse the first half of which is in Manu 2. -71 and the 2nd balf in Manu II, 172 and in Vapaparva 180. 35). Vide also Baud. Dh. S. I. 2. 7 ( whieb is almost the same verse as in Vas. II. 6 and seems to be a quotation as 'iti' is added at the end. Apagtamba quotes Harita more frequently than any other author. From this it may be concluded that they belonged to the same Veda. The Tantravārtika (vide note 55 above) mentions Hārita along with Gautama and other sūtrakāras on dharma. From Viśvarūpa down to the latest writers on dharmaśāstra Hārita is most profusely quoted. From the quotations it appears that his dharmasūtra was perhaps the most extensive of all dharmasūtras. 
 
@@ -56,7 +56,7 @@ FOUNDED
 
 180 
 
-History of Dharmasastra 
+
 
 Sruti is of two kinds viz. Vaidiki (consisting of the Veda ) and Tāntriki (consisting of Tantra )'. I did not explain this last word. Now I realise that the word is liable to be misunderstood. A veteran scholar like Dr. R. C. Hazra went so far as to suggest (in I. H. Q. Vol. 36 pp. 141-150 ) that by Tāntriki' I meant the system of Tantras (developed several centuries later than the Dharmasūtras ) dealing with Mantras, secret practices and esoteric teachings of gurus and that Hārita did not know the tautras that were & later development altogether. I agree that the Haritadharmasutra did not use the word Tāntriki in the sense in which the word 
 
@@ -186,7 +186,7 @@ Rhandar
 
 136 
 
-History of Dharmajāstra 
+
 
 Sarasvativilāsa quotes from Harita a brief passage which appears to be a portion of a verse and Katyayana's explana tion thereon.131 It follows that long before the sixth century A. D. Hārīta's Dh. S. contained verses. 
 

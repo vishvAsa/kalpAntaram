@@ -75,7 +75,7 @@ yajñas i. e. ahuta, huta, prahuta, brāhmya-huta and prūsita, which were the s
 
 700 
 
-History of Dharmasastra 
+
 
 (Ch. XVIII 
 
@@ -105,7 +105,7 @@ are present in brahmayajña ). 1077 Then it says that whoever studies day by day
 
 70% 
 
-History of Dharmasastra 
+
 
 1 Oh. XVIII 
 

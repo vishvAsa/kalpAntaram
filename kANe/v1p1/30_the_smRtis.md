@@ -113,7 +113,7 @@ ratna also.
 
 804 
 
-History of Dharmasastra 
+
 
 his enumeration of them is slightly different from that of Paithinasi.13 The Vrddhagautamasmrti ( Jivananda part II. pp. 498-499 ) gives a list of 57 dharma-śāstras. The Prayo ga-pārijāta as quoted in the Viramitrodaya enumerates 18 principal smrtis, 18 upasmrtis and 21 other smrtikāras.s14 If all the smrtis cited in the later nibundhas such as the Nirnayasindhu, the Mayūkhas of Nilakantha and the Vira mitrodaya be taken into account, the number of smṛtis will be found to be about 100. 
 

@@ -171,7 +171,7 @@ XI. Rāja«lharmakanda ( pub. in 1943). This is one of the smallest and the weak
 
 670 
 
-History of Dharmasūstra 
+
 
 day); in pp. 178-212 are described festivals to be undertaken and celebrated by the king (such as Devayātrā in all the days of Vaiśākba quoting a long passage from Brabma purāṇa on pp. 178-181 with only one line of his own comment; Kaumudimahotsava ( pp. 182-3) and the festival of raising the flag in honour of Indra ( pp. 181-190) from Devīpurāsa.918 Each page can contain only 11 or 12 verses, if there be no foot-notes ( as on p. 74 ), but as almost every page has foot notes about variant readings and also contains extracts from the Vīramitrodaya, Kullūka, Maskaribhāsya and other works; in some cases as much as half a page is occupied by notes. Taking the above facts into consideration, the high claims made for his excellent policies and eliminating the extract on festivals, what remains of Rājadharma in this kānda is meagre and does little credit to the learuing and experience of a great adıninistrator, minister and cominander. 
 
@@ -427,7 +427,7 @@ Vide E. I Vol. 24 pp. 90-101 for Srirangam loscription of Garuda vāhana Bhatta 
 
 680 
 
-History of Dharmasastra 
+
 
 accounts (particularly the later ones) are altogether unreli able. For example, the dates of the birth and death of Srī Rāmānuja are given in them as 1017 and 1137 A. D. But in some accounts about Alvandār, the grandson of Nātha muni and the Guru of Rāmāmja, it is stated that he (i.e., Alvandār ) was born after 1024 A. D. i. e. the traditional accounts lead to this that the teacher was born after the disciple (vide p. 31 of Gopinatha Rao's Lectures ). It is not necessary for the present author to go into the different rates and events. Two-thirds of the Sribhāsya had been finished, according to the traditional sources, when the Cola persecu tion began and it was completed, according to the Rānānuja rya-divyacaritam, in Saku 1077 ( 1155 A. D.) Vide p 34 of Gopinath Rao's Lectures. The Gītābhāsya of Rāmānuja was composed ( as proved by internal evidence ) after the Sri bhāsya. If the word Gitābhāsyam (on p. 99 of the Vy. Kānda ) refers to Rāmānuja's bhāsya as Prof. Aiyanyar argues ( vide above ) then the Vy. Kānda must have been completed long after 1155 A. D. There is no doubt that the Mit. was completed before 1125-26 A. D. at the latest (as shown above ). Therefore, it would follow that L. came several decades after it and borroweil from it. Mr. Gopinath Rao advances certain arguments and concludes (p. 34 ) 'it is extremely likely that the date of the completion of the work (Sri-bhāsya ) was 1047 Saka ( 1135 A. D. ) and Saka 1077 is a mistake for 1047'. On pp. 37–38 Mr. Gopinath Rao holds that the persecutor of Rāmānuja was the Cola king Kūlottunga l. On the other hand, Mr. T. N. Subramaniam in the long Introduction to South Indian temple Inscriptions Vol. III part 2 ( Mariras Govt. Oriental Series No. CLI adds a note on the date of Rāmānuja (pp. 147-160 ), and holds that the Divyasuri-caritam and Yatirājavaibharam are later compositions, that Tamil verses quoted in the Rāmā nujārya-divyacaritai are perbasis the earliest of the available materials and traws the following conclusions ( p. 160 ): 
 

@@ -33,7 +33,7 @@ sindbu and Dharmasındho as to his priority 10 beiag an adhikarin for Astfestint
 
 836 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -199,7 +199,7 @@ Aparārka, 110, 250, 340, 410, 500,
 
 838 
 
-History of Dharmasastra 
+
 
 (Fol. 
 
@@ -959,7 +959,7 @@ Enemies, of man, such as anger 9 Ephesians, 171 Epigrapbia Carnatica, 5720 Epigr
 
 852 
 
-History of Dharmasastra 
+
 
 (Tol, 
 
@@ -1341,7 +1341,7 @@ llopse, sce under 'ponty,' 'panfica.
 
 $02 
 
-History of Dharmatāstra 
+
 
 I Vol 
 
@@ -1637,7 +1637,7 @@ which see kāśmrtimol savicāra of Suresiarācārya
 
 868 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -1923,7 +1923,7 @@ on whose death no pinda vas offered
 
 872 
 
-History of Dharmatāstra 
+
 
 (Vol. 
 
@@ -2155,7 +2155,7 @@ District Gazetteer 3030, procedure of, from different svorks 302-305; pro cedure
 
 896 
 
-History of Dharmasastra 
+
 
 [Vol. 703-704; rises from Amarahantaka Nirnayasındhu 29, 190, 230, 231, 238, which is theabode of Siva and is said 243, 256n, 258, 259, 2610, 2625, to bave started from śrva's body 263, 272, 282, 293, 294, 298, 301, 704-705; several rivers such as 302n, 304, 318, 3195, 3380, 3810, Kapıla, Erandi, Kāveri joid N. 705; 382n, 388, 3980, 405, 408, 4250, Saklatistba, where Rājarsı Canakya 
 
@@ -2377,7 +2377,7 @@ omits several details of p found in some smrtis 4380 ; brābmaga is the ābavani
 
 880 
 
-History of Dharmasastra 
+
 
 (To. 
 
@@ -2441,7 +2441,7 @@ p should be moved 10 the food served 10 the plates 444, 467; tria water offered 
 
 88: 
 
-History of Dharmaśñstra 
+
 
 (Vol. site, sesame are to be employed for Persons, cremating patitas through all purposes in the pitrya part 4420, whetber daily vaiśvadeva and 
 
@@ -2547,7 +2547,7 @@ division of pitrs iplo sowasaotal, Barhisadah and Agnisrāttan 343; earlier and 
 
 &Ś4 
 
-History of Dharmalāstra 
+
 
 i Vol. 
 
@@ -2631,7 +2631,7 @@ bbārata and some Puranas 597, 15 called Tirtharaja in some Porānas 597; is sai
 
 886 
 
-History of Dharmatāstra 
+
 
 I Vol. Ganges are white, while ibose of the Yamunā are dark at P, 5960, whether 
 
@@ -2663,7 +2663,7 @@ to undergo p of Tapta-kycc hra and also podarupadayana if he was dvija 97, perso
 
 888 
 
-History of Dharmafāstra 
+
 
 (Vol. 
 
@@ -2845,7 +2845,7 @@ stoli 2550, 276n, Raghuramsa 158, 5967, 688, 691, 703,
 
 892 
 
-History of Dharmasastra 
+
 
 (Vol. Razvade, Kbanda 560 Raksoghoa hymns (Rg. IV. 4 1-5 
 
@@ -3129,7 +3129,7 @@ mother's B. 524; could be performed at the end of a year after death or at the e
 
 896 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -3275,7 +3275,7 @@ equmerated in Tai, Br 11, bad to undergo three burdeos 76, guilty of
 
 898 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -3405,7 +3405,7 @@ sesame, honey and ghee and are offered by the pitr-tirtha 4980 ; pindas offered 
 
 904 
 
-History of Dharmasastra 
+
 
 [ Vol.' 
 
@@ -3447,7 +3447,7 @@ pindas or both 481-482, tilas (sesame), great importaoce of, 10 418-419; times f
 
 906 
 
-History of Dharmasāstra 
+
 
 (Vol. arghya water, for cooking sraddha food, for dining and for serving 
 
@@ -3721,7 +3721,7 @@ topic of Dbarmaśāstra 581-582 Tirtbasāra (part of Nrsimhaprasada) deals mostl
 
 912 
 
-History of Dharmasastra 
+
 
 I TO? 
 
@@ -4159,7 +4159,7 @@ te giren bare majdlegance and was not to be cast on the street 105, how
 
 920 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

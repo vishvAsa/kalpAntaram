@@ -29,7 +29,7 @@ FOUNDED
 
 308 
 
-History of Dharmasastra 
+
 
 ( Manavyo hi prajāḥ). In the Taittiriya Samhitā (IIL. 1. 9. 4-5 ) and the Aitareya Brāhmana ( V, 14 ) we have the story of Manu dividing his wealth among his sons and of the exclu sion of his son Nābhānedistha. The Satapatha-brahmana (S. B. E. vol. 12 p. 216 ) gives us the story of Manu and the deluge. In the Nirukta (chap. III ) there is a discussion about the rights of sons and daughters. One of the views there propounded is that children of both sexes take their father's wealth and a rk and sloka are cited in support of that position.317 The sloka refers to the opinion of Manu Svāyam bhuva. It is noteworthy that that sloka is opposed to a rik, which means that the sloka is not Sruti but.is Smrti. $o before Yāska wrote tbere were smrti texts in verse in which Manu was spoken of as a lawgiver. We have seen how.Ganta ma and Vasistha quote the views of Manu and how. Apasta mba connects Manu with the promulgation of frāddhas ( 11.7. 16.1). The Mahābhārata in numerous places speaks of Mapa, sometimes as Manu simply, sometimes as Svāyambhuva Manu (Santi 21. 12.) and also as Prācetasa Madu (Santi, 57:48:). In the Mahābhārata (Sānti. chap. 336. 38-46) we are told how the Supreme Being composed a hundred thousand Slokas on dharing, how Manu Svāyambhuv.& promulgated thosa dharmas and how Ubanas and Bfhaspati composed sdotros based on the work of Manu Svāyambbuva.318 In another place the account is slightly different and Manu does not figure thereiu. Sānti-parva (chap. 59. 80–85 ) describes how the original work of Brubmā on the three, Dhurma, Artha, and K’āma, in 100000 cbapters was successively reduced to 10000, 5000, 3000 and 1000 chap, respectively by Visalaksa, Indra, Bāhudantaka, Bșhaspati and Kūvya (Usanas). The prose introduction to the Nārada-smrti says that Manu com posed in 100000 slokas, 1080 chap. and 24 prukaraṇas a Dha 
 
@@ -79,7 +79,7 @@ fan fat i Hurafer op HEL. I. 38 , ! il clippines
 
 810 
 
-History of Dharmajāstra 
+
 
 and Argiras.821 So early a writer as Viśvarūpa cites verses from Manusmrti as those of Svayambhū (vide com. on Yāj. II. 73, 74, 83, 85, where Manu 8. 68, 70-71, 380 and 105-6 are respectively quoted as Svayambhu's ), while quotations from Bhrgu cited by Viśvarūpa (on Yāj. I. 187 and 252 ) are not found in the Mapusmrti. In the same way most of the verses quoted from Bhṛgu by Aparārka are not found in the Madu smrti. One verse which Aparārka quotes from Bhrgu (on Yāj. II. 96 ) speaks of the view contained therein as that of Manu.322 
 
@@ -109,7 +109,7 @@ FOUNDEC
 
 TE 
 
-History of Dharmagdstra 
+
 
 The extant Manusmrti is divided into twelve adhyāyas and contains 2694 slokas. Dr. Jolly's edition (published in 1895 ) prepared after collating numerous mss. and printed editions contains only one sloka more. The Manusmṛti is written in a simple and flowing style. It generally agrees with Panini's system, though it contains some deviations from it as in the verse 'sāksinah santi metyuktvā' ( 8. 57). The foregoing pages have sufficiently shown how it agrees closely with the doctrines contained in the Dharmasūtras of Gautama, Baudhāyana, Anastamba. We have also seen how numerous verses are common to the dharmasūtras of Vagistha and Visnu and the Manuemrti. The Kautilīya also exhibits remarkable agreement with the Manusmrti in phraseology and doctri Des.824 : What conclusions are to be drawn from this will be discussed later on. Some verses are repeated, e. g. V. 164 165 are the same as IX. 30 and 29. The contents of the Manu: smrti may be briefly summarised as follows: (I) Sages ap proach Manu for instruction in the dharmas of the varnas; Manu describes the creation of the world from the self-existent God more or les in the Saṅkhya manner; the creation of Virāj, of Manu from Viraj, of ten sages from Manu ; creation of various beings, men, beasts, birds etc.; Brahimā imparts Dharmaśāstra to Manu, who teaches the sages; Manu bids Bhrgu to instruct the sages in dharını ; six other Manus sprang from Svāyambhuva Manu; units of time from nimesa to year, the four yugas and their twilights; one thousand yugas equal a day of Brahmā; extent of manvantara; pra laya; successive decline of dharma in the four yugas; diffe rent dharmas and goals in the four yugas; the special privi leges and duties of the four varnas; eulogy of Brāhmaṇas and of the śāstra of Manu; ācāra is the highest dharma; table of contents of the whole sāstra ; (II) definition of dharmo, sour 324 Compare p oate TouthTerut tearaava tanto alten 
 
@@ -339,7 +339,7 @@ FOUNDE
 
 326 
 
-History of Dharmasastra 
+
 
 Manu is not at fault. And such people are certainly not as blamable as men claiming to have direct messages from God in this matter. 
 
@@ -749,7 +749,7 @@ Bhandar
 
 348 
 
-History of Dharmasastra 
+
 
 prāyaścittas for Mahāpātakas (as stated on Manu XI. 209). He also refers to a Mālākāra (probably the author of a lexi con ) on Manu V. 81. He does not comment on some verses such 48 on Manu III. 174 and 278 (Mandlik's ed.). He is generally brief in his comments but he has longer notes than Medhātithi or Kullūka on Manu V. 16, 31, 56, VI. 34-35, 67, X. 42, XI. 130. He is later than Govindarāja and Aouri shed betweon 1100 and 1300 A. D. Raghavananda men tions by name Medhātithi, Govindarāja, Nārāyana, and Kullūka and so is later than about 1400 A. D. When Nandana flourished it is difficult to say. But he is a late writer. There are several other commentators mentioned in the catalogues of mss. who may be passed over for want of space. 
 

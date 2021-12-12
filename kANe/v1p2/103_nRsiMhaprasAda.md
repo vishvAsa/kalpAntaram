@@ -77,7 +77,7 @@ The contents of some of tiie sections of the Nṭsimhaprasada may he set out her
 
 864 
 
-History of Dharmasastra 
+
 
 speaks principally of tirthas of the Deccan and Southern India. In his work he speaks of Setubandha, Pundarika1307 or Paunda rika (modern Pandharpur in the Sholapur District, it seems ), Gayatirtha, eulogics of Godavari, Krsna-Venyā, Narmada, Malaprahārini etc. 
 

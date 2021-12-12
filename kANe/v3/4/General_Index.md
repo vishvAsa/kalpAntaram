@@ -205,7 +205,7 @@ imparted Dhanurveda to his son Abhimanyu 49; married Subhadra his maternal uncle
 
 1018 
 
-History of Dharmatāstra 
+
 
 [ Vol. 
 
@@ -389,7 +389,7 @@ with false dice 404; as puoishment
 
 1020 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -507,7 +507,7 @@ bidden in Kali age 863–64. Brahmagupta 890, 896. Brāhmaṇa, can perform Ave�
 
 independant sacrifice, though not in Rājasūya 38 ; could be sentenced to death, acc. to Kautilya and Kātyāyana, in certain cases 398-99; could wield arms in danger 517; empires and kingdoms 39; gifts made to a b. are inexhaustible treasure for the king 228 ; guilty of murder, theft of gold, forcible sei. zure of land was to have his eyes covered over with cloth throughout life 397; guilty of perjury banished 352; killing an atatayin b. not punishable by kiog 518; learned, was exempt from taxation 190; liable to pay under a decree was given easy instalments and not made to work 384 ; limited authority of king over 25; living in Brabmāvarta, Kuruksetra and a few other countries was to be looked up to by all as to actions and practices 137; may perform Vājapeya sacrifice for Svārājya 65 ; dot to stay in a city, but in a village abounding in water, fuel, kusa 154; not to stay in the kingdom of a sūdra 39; offender1022 
 
-History of Dharmatāstra 
+
 
 (Vol. 
 
@@ -693,7 +693,7 @@ Champā, a work by Dr. R. C. Majum Cambodia 756. i
 
 1024 
 
-History of Dharmatāstra 
+
 
 ( Vol. 
 
@@ -859,7 +859,7 @@ with flowers, paintings 277; king as Creditor, (see "debts' and 'recovery origin
 
 1026 
 
-History of Dharmajāstra 
+
 
 (Vol. 
 
@@ -1137,7 +1137,7 @@ to the eldest son was given up by 454-458; care required as to a d. people 628,
 
 1030 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -1669,7 +1669,7 @@ secured his position by energetic inherit, but got only maintenance action 169; 
 
 1038 
 
-History of Dharmasastra 
+
 
 | Vot. 
 
@@ -1771,7 +1771,7 @@ derate as compared with Western ones 5470.
 
 1040 
 
-History of Dharmadāstra 
+
 
 [ Vol. 
 
@@ -2273,7 +2273,7 @@ drinking of 965-66; ten kinds of l right to 806-808 ; liability of manager
 
 1048 
 
-History of Dharmadāstra 
+
 
 (Vol. 
 
@@ -2389,7 +2389,7 @@ dvayoḥ pranayanti' 704-705 ; of gobalivarda 1470, 355, 526, 732; of mātsyasy�
 
 1050 
 
-History of Dharmatastra 
+
 
 (Vol. 
 
@@ -2965,7 +2965,7 @@ tance
 
 1060 
 
-History of Dharmasastra 
+
 
 (vol. 
 
@@ -3305,7 +3305,7 @@ heirs 753. ness of State how carried among 90; capital of, was Kapilavastu 90 ; 
 
 1064 
 
-History of Dharmatastra 
+
 
 ( Vol. 
 
@@ -3485,7 +3485,7 @@ rational or equitable rule, the latter Sea voyage, forbidden io . Kall-6104. pre
 
 1066 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -3953,7 +3953,7 @@ was one of the five mabādātakas 965; Taksasila 116; University of, where was s
 
 Tāṇdya Brahmana 361, 512a, 543, Surāstra, had a republic at one time 30' 6000,1072 
 
-History of Dharmasāstra 
+
 
 (Vol. 
 
@@ -4421,7 +4421,7 @@ wives of Vicitravirya 845-846. 787-88, 7910, 793, 8170 ; leading Vyasa, smrti of
 
 1078 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 

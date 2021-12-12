@@ -28,7 +28,7 @@ That Bhāradvāja was an ancient writer op arthaśāstre follows from the Kautil
 
 FOI192 
 
-History of Dharmasastra 
+
 
 rājaśāstra. The Yaśastilaka299 ( 4th Āśvāsa p. 100, Nirṇaya. sāgara ed. ) quotes two verses of Bhāradvāja from his treatise on the topic of the six guras. This shows that Bhāradvāja's work on politics was available in the 10th century and contai ned verses ( probably intermixed with prose). 
 

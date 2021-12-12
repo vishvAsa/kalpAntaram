@@ -25,7 +25,7 @@ TeqTTI !!.
 
 1010 
 
-History of Dharmajāstra 
+
 
 (Ch. XXX 
 
@@ -65,7 +65,7 @@ If the sacrificer is one who has already performed a soma sacrifice then he has 
 
 1012 
 
-History of Dharmasastra 
+
 
 [ Oh. XXX 
 
@@ -101,7 +101,7 @@ Top fiti fari.
 
 1014 
 
-History of Dharmasastra 
+
 
 i čh. IX 
 
@@ -139,7 +139,7 @@ of 5'. It is of palads and one end of it is made to resetublo a shovel.
 
 eme al bend apavoreishtvid1016 
 
-History of Dharmatāstra 
+
 
 [ Ch. IXX 
 
@@ -173,7 +173,7 @@ Thero w Ame: 'com. on Sat. I. 3. p. 96. The *. T. II. 1. 8 ( fra ma) forbide man
 
 1018 
 
-History of Dharmadastra 
+
 
 ( Oh. XXX 
 
@@ -201,7 +201,7 @@ On the principal day (i. e, the first day of the dark half in the case of pörpa
 
 1020 
 
-History of Dharmasastra 
+
 
 [ Ch. XXX 
 
@@ -259,7 +259,7 @@ Then follows nirvāpa 1301 (taking out handfuls of grains or a portion of other 
 
 1024 
 
-History of Dharmalastra 
+
 
 ( Oh. XXX 
 
@@ -287,7 +287,7 @@ underneath it. The same procedure is followed in the case of purodāsas for othe
 
 1. D. 1291026 
 
-History of Dharmasastra 
+
 
 1 Ch. XXX 
 
@@ -325,7 +325,7 @@ Jaimini concludes that this sentonco contains an injunotion to summon thrice the
 
 1028 
 
-History of Dharmajāstra 
+
 
 (Ch. XXX 
 
@@ -531,7 +531,7 @@ arteanrenarety' com. on Sat. I. 7 p. 158.
 
 1040 
 
-History of Dharmasastra 
+
 
 (Oh. XXX 
 
@@ -569,7 +569,7 @@ I. D. 181
 
 1042 
 
-History of Dharmasastra 
+
 
 [ Ch. XXX 
 
@@ -595,7 +595,7 @@ the largest quantity. When the juhū is being filled the mantras are four sukram
 
 1044 
 
-History of Dharmasastra 
+
 
 [ Oh. XXX 
 
@@ -621,7 +621,7 @@ with that repeated by the yajamina for the middle paridhi). The adhvaryu invokes
 
 2849. The sumo mantra is repeated for all three, only the name of the partioular srus being inserted 'शुहरसि प्रताची नाम्मा प्रियेण माना मिच Fra firqiy parei... Hiç i en garrant ... ... fire i Vide Tai. 8. I. 1. 11 and compare Vaj. 8. II. 6.1046 
 
-History of Dharmagāstra 
+
 
 Ch. XXX 
 
@@ -647,7 +647,7 @@ The adhvaryu lays down the Veda bunch in front of the dhruva ladle with this ved
 
 1048 
 
-History of Dharmatastra 
+
 
 [ Oh. XXX 
 
@@ -687,7 +687,7 @@ I, D, 132
 
 1050 
 
-History of Dharmasastra 
+
 
 ( Oh. XXX 
 
@@ -721,7 +721,7 @@ TT THATTE '97. VIII, 2. 91. The god Prajapati is mentioned inaudibly. The djyap�
 
 1052 
 
-History of Dharmasastra 
+
 
 ( Ch. XXX 
 
@@ -741,7 +741,7 @@ makes the offering with it. 436 He crosses over to the south of the ahavaniya wi
 
 1054 
 
-History of Dharmasastra 
+
 
 (Ch. XXX 
 
@@ -769,7 +769,7 @@ garaia 47ATAFORMA E Thor Tama'. Āp. II. 16. 5 is almost the same. After are the
 
 them fritat ... ... TANTO:' vide Ap. II. 16, 6 and 11, Sat, II. 1. pp. 187-188.1056 
 
-History of Dharmasastra 
+
 
 [Ch. XXX 
 
@@ -805,7 +805,7 @@ oyajao (theions of a (Fore-ofer man har to,
 
 1058 
 
-History of Dharmajāstra 
+
 
 (Ch. XXX 
 
@@ -871,7 +871,7 @@ E gertior fugir दैवतेयः सौविकृतानि सौव�
 
 1062 
 
-History of Dharmatāstra 
+
 
 [ Ch. XXX 
 
@@ -941,7 +941,7 @@ d winga u मित्रापरणी संजम्माते । हो�
 
 2. D. 1341066 
 
-History of Dharmalāstra 
+
 
 ( On, XXX 
 
@@ -973,7 +973,7 @@ The hotṛ eats the avāntareda?886 after the brahmā eats the prasitra with a m
 
 1068 
 
-History of Dharmajāstra 
+
 
 (Ch. IXX 
 
@@ -1035,7 +1035,7 @@ ferral ang araw araxt ATEIX A. I. 6. 4. 1. Vido Āp, 1V. 12. 1.
 
 1072 
 
-History of Dharmasastra 
+
 
 [ Oh. XXX 
 
@@ -1067,7 +1067,7 @@ a.D. 135
 
 1074 
 
-History of Dharmasastra 
+
 
 [ Ch. XXX 
 
@@ -1175,7 +1175,7 @@ The hotr unties the yoktra (the girdle) of the wife with 'I release thee from th
 
 1080 
 
-History of Dharmasastra 
+
 
 ( Ch. XXX 
 
@@ -1223,7 +1223,7 @@ apyāyatām dhruva &o.'( Tai. S. 1. 6. 5. 1 ) and offers six homes called Nāri�
 
 1082 
 
-History of Dharmasastra 
+
 
 [ Ch, XXX 
 
@@ -1257,7 +1257,7 @@ The yajamāna gets up from his seat and takes what are called the strides of Vi�
 
 1084 
 
-History of Dharmatastra 
+
 
 [ Ch. XXX 
 
@@ -1319,7 +1319,7 @@ G FU WA:'. Sat. adds fere te after ou TOTT and states that the third \#buti cons
 
 1088 
 
-History of Dharmasastra 
+
 
 (Ch. XXX 
 

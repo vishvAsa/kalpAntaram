@@ -37,7 +37,7 @@ H. D. 77
 
 610 
 
-History of Dharmasastra 
+
 
 [ Ch. XIV 
 
@@ -69,7 +69,7 @@ ___1436. नवे सूते प्रधजिते लीये च पत
 
 612 
 
-History of Dharmasastra 
+
 
 XIV 
 
@@ -95,7 +95,7 @@ n uto foua IFTTT ( te vy. 98-101.).
 
 614 
 
-History of Dharmasastra 
+
 
 | Ch. XIV 
 
@@ -123,7 +123,7 @@ Atharvaveda (IX. 5. 27-28) is 'whatever woman, having first married one husband,
 
 1447. Vido Steelo's "Law and Custom of Hindu Castes' pr. 26, 168-169.616 
 
-History of Dharmasastra 
+
 
 [ Ch. XIV 
 
@@ -151,7 +151,7 @@ ____1450. इमा नारीरविधवा: सुपत्नीरा�
 
 618 
 
-History of Dharmasastra 
+
 
 [ Ch. XIV 
 
@@ -175,7 +175,7 @@ Divorce In the Vedic literature there are at least some texts capable of being i
 
 620 
 
-History of Dharmasastra 
+
 
 (Ch. XIV 
 

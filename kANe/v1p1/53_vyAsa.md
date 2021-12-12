@@ -63,7 +63,7 @@ AINS
 
 582 
 
-History of Dharmasastra 
+
 
 of time for him who resumes it.646 Vyāsa lays down that if & stranger enjoys a person's land for twenty years when the king i is there (i. e. when there is no revolution or anarchy) and when the owner is able (to resist) the latter loses his property.848 He speaks of adverse possession as having five characteristics.s47 He mentions seven kinds of sureties, wbile Harita and Kātyāyana speak of only five and Bșhaspati of four. He speaks of only five kinds of ordeals. He defines a niska as equal to 14 suvarnas, a suvarna being equal to eight palas.843 Vyasa seems to represent a middle stage in the evolution of the rights of the widow to succeed to her deceased husband. He says that a woman was to get a maximum of two thousand (kārsāpanas) from the estate of her deceased husband.648 (besides what he gave her when living ). Vyasa gave to the father and sons equal share in ancestral property and allowed partition even against the wish of the father.660 From these important characteristics of Vyāsa it may safely be concluded that Vyasa flourished about the same time as Yajṅavalkya and Bșhaspati, i. e. between the second and the fifth century (A. D. ). 
 

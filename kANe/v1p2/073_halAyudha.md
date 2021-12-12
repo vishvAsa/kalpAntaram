@@ -67,7 +67,7 @@ H. D.-79
 
 626 
 
-History of Dharmasāstra 
+
 
 east of the palace and the hall shoule! face the east; and, Kātyāyana states that the sabhā is called 'Dharmādhikarana' where the decision of the truth of the root (of disputes) is carri ed on by considering the rules of sacred law. Halāyudha had two elder brothers.853 Pasupati and īśana, of whom the former composed Srāduha-krtya--parldhati and Pākayajna-paddhati and the latter the Dvijāhnika-paddhati. He tells us in the Brāhmaṇasarvasva that he composed Jimāṁsāsarvasva, Vaisnavasarvasva, Saivasarvasva, Panditasarvasva.Si+ None of these four works has been printed so far and even Mss. of them are rare ( vide Dr. Bhattacharya's Preface to Br. Sarvasva ). 
 

@@ -103,7 +103,7 @@ hau. II. p. 220, ati. \#f. III. p. 370. ptat per
 
 fer Rea! HATUTA, oo which prerat says. Hun forona w at RATTRÆ' and for mer relies on mora VI. 3. 70' w !,492 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -195,7 +195,7 @@ FANT. OD 4. II. 114; n r: &c. is 01, II. 176.
 
 498 
 
-History of Dharmatāstra 
+
 
 [ Vol. 
 
@@ -231,7 +231,7 @@ HOT q. by *. 9. p. 347. For means 'barber'. :
 
 500 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

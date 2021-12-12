@@ -67,7 +67,7 @@ __1257. ताह मनःभिपुत्रेण सुतः कार्
 
 666 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -101,7 +101,7 @@ n tt folio 11 b. .
 
 668 
 
-History of Dharmatāstra 
+
 
 [Vol. 
 
@@ -135,7 +135,7 @@ ESHISMRITAMINIANS 'नी... भर्तुः इति । अहमतिब
 
 610 
 
-History of Dharmasastra 
+
 
 (Voi. 
 
@@ -165,7 +165,7 @@ l
 
 prunater para GT10574 विभागागसे परस्परस्वाम्याग्यदीपनग्ये तानि नश्यन्ति । परमरणपारिवाज्यादिनेवेति न काप्यनुपपत्तिः । व्यवस्थापनमपीदमेब, अन्यथैकदेशे उत्पादनमित्येव वदेत् । अत एक विनाश ATTTTTTT PONTATTTENTOFTUTTI 84. \#. pp. 431-32..67% 
 
-History of Dharmasūstra 
+
 
 [Vol. 
 
@@ -253,7 +253,7 @@ u oran पतित्तान्तावाख्यान म सातज�
 
 678 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -311,7 +311,7 @@ and Sam. K. both hold that even a boy not of the same gotra may be taken in adop
 
 1286, Viraragava v. Ramalinga 9 Mad. 148 (F. B.) for the validity of the adoption of a sagotra after upanayanya and Pichuvayyak v. Subbayyan 13 Mad. 128 for the iavalidity of a married man's adoption. :-- 1287. Vide Dharma v. Ramkrishna 10 Bom. 80, 84 ( where it is said that though Nilakantha's explanation that the Kalikāpurāṇa verses refer to 20 asagotra causes a difficulty, yet it does not follow that he adopts that interpretation as his own) in which the adoption of a married asagotra brāhmaṇa was upheld ; Kaigavda v. Somappa 33 Bom. 669 where the 'adoption of a married man having a son was apbeld, but it was decided that 'the son born before adoption remained for purposes of inheritance in the antoral family : Balabai v. Mahadu 48 Bom, 387 ( where the adopted man was older than the adopter), : 1288, Lingayya v. Chengalammal 48 Mad, 407 whero it was held that even a sūdra cannot be adopted after his marriago, (which decision follona the D. C.),682 
 
-History of Dharmasastra 
+
 
 (Vol. Saunaka required that the boy to be adopted must be pritracchayavaha 1289 (one who bears resemblance to or is a reflec tion of the aurasa son). This has led to differing explanations by the commentators and contradictory decisions in the several Indian High Courts. The D. M. and D. C. (p. 21 ) both explain that the resemblance consists in the possibility of being pro created by the adopter himself by niyoga and the like. The meaning of the D. M. is: A brother's son or a sapinda's son or a sagotra's son can be adopted because the adopter could have procreated a son by the practice of niyoga on the wife of a brother or a sapiṇda or a sagotra (according to the rules of niyoga); but he could not have done so as regards his mother, or grandmother, daughter or sister or his mother's sister. There fore a man cannot adopt his own brother, paternal or maternal uncle, a daughter's son or a sister's son and the like. One strange thing is that, though niyoga had been forbidden for many centuries before the D. M., the author of it brings in the rules of the long obsoleto practice of niyoga 1290 to find out who could or could not be adopted. But stranger things were to happen. Sutherland who translated both the D.M. and the D. C. explained in his notes the word ' niyogādina' as ' by such an appointment or marriage and the like'. Vide Stoke's Hindu Law Texts p. 590 ( Dattakamlmāṁsa, sec. V, placitum 16 note). There was no warrant for introducing the word ' marriage' after 'niyoga'. The rules of niyoga are different from those of marriage. The judges most of whom were generally ignorant of Sanskrit and had yet to decide cases among Hindus according to Hindu Law as understood by them ( vide 26 I. A. 113 at page 128 about the ignorance of Sanskrit among judges ) seized upon this explana tion and evolved the curious rule that no one could be adopted whose mother the adopter could not have married in her maiden state (i. e. the relationship has reference to a time prior to 
 
@@ -385,7 +385,7 @@ T/ 14. \#TE P. 114. The .. (pp. 61,66) employs the word for 49 . Vide Laxmipatir
 
 688. 
 
-History of Dharmasastra 
+
 
 I Vol. 
 
@@ -413,7 +413,7 @@ Team THIR ATE groeitruntung ET TEMP . p. 161. 1302. Vido Appendix.
 
 088 
 
-History of Dharmatastra 
+
 
 ( Vol. 
 
@@ -447,7 +447,7 @@ The results of adoption Adoption has the effect of trans ferring the adopted per
 
 690 
 
-History of Dharmasastra 
+
 
 I Vol. 
 
@@ -475,7 +475,7 @@ eft occur in the afat. II, p. 289.
 
 Apie tagua mutter mit frafen i . . pp. 23-24.692 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -503,7 +503,7 @@ of the giver are to perform the srāddhas for the father and to suoceed to the f
 
 894 
 
-History of Dharmatastra 
+
 
 (VÓL 
 
@@ -567,7 +567,7 @@ From the above discussion it follows that the person adopted retains the tie of 
 
 698 
 
-History of Dharmalastra 
+
 
 (VoL and connected matters and not complete as stated or assumed in some deoided casen. 
 

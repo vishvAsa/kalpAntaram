@@ -17,7 +17,7 @@ aq 11. 12. 8.
 
 565. ***** Hujafu foarte \# Aur Turiampofe vara पाति। सोबतीतेनानि पवार पतरो मौषमीयानिति । पारसन परसो भतिधेन AuraTOEFT THE WAT I TORAEMTEC 14. 6. 6 .... .362 
 
-History of Dharmasastra 
+
 
 (Voi. 
 
@@ -51,7 +51,7 @@ i
 
 864 
 
-History of Dharmajāstra 
+
 
 ( Vol 
 
@@ -87,7 +87,7 @@ nutarimus galeure pour agrante de \# FTTT. g. by a P. 698, F. ft. R. 180.
 
 366 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -117,7 +117,7 @@ UPUTA reewareware . II. p. 104 and \#. f. p. 183 ; '77 i TOTEUTY P o . 576; TTT 
 
 368 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -141,7 +141,7 @@ First comes tula or dhata (balance). A sacrificial tree (such as khadira or udum
 
 370 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -167,7 +167,7 @@ The ordeal of water as described in the smrtis and digests is rather complicated
 
 588. Wu TIF \#nature ITTU HITTIT Histroruge i fave II. p. 116.47% 
 
-History of Dharmasastra 
+
 
 ( Vol. 
 
@@ -191,7 +191,7 @@ The ordeal of kosa. The godhya is made to worship the stern deities (such as Rud
 
 314 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -219,7 +219,7 @@ Ordeals played their part in the judicial systems of most ancient countries. In 
 
 376 
 
-History of Dharmasastra 
+
 
 (Vol. 
 

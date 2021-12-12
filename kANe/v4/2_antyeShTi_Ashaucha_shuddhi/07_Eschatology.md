@@ -65,7 +65,7 @@ sankalpa (verbal declaration of the gift) is made in the words 'I shall make ten
 
 184 
 
-History of Dharmatūstra 
+
 
 I Vor 
 
@@ -135,7 +135,7 @@ Three The Fire \#:11 V p. 299, YE UHIFT P 155. mare is the country of Magadba, w
 
 188 
 
-History of Dharmasastra 
+
 
 [Vol. lightning. There is a person who is not human that leads them to Brahman, This is the path of the Devas, the path that leads to Brahman. Those who proceed on that path do not return to the life of man, yes, they do not return'. There is a similar passage in Chandogya Up. V. 10.1-2 where it is said that even householders who know the doctrine of the five fires (Pancūgni-indya) and those who in the forest follow the path of faith and austerities (i, e. vānap asthas and parivrājakas wbo do not yet know Highest Brahman) go by the path called Devayāna, while (V, 10. 3—?) those, who, living in a village, practise . sacrifices, works of public utility and alms, go to smoke, from smoke to night, from night to the dark half of the inoon, from thence to the six months when the sun goes to the south, from thence to the worlds of the fathers, from thence to ether (ahasa) and to the moon, where they consume their works and return again the way they came. The Chān Up. (V, 10. 8) refers to & third place where small creatures (like flies, worms &c.) are continually going and returning. The Br. Up. (VL 2. 15-16 ) contains similar passages about Davaloka, Pitrloka and the third world of worms, birds and creeping beings. The Bhagavadgita, basing itself on these Upanisad passages, puts the matter succinctly (in 8 23-25) as follows:-'I shall state the times at which devotees departing from this world go, never to return or to return, The fire, the flame, the day, the bright fortnight, the six months of the northern (apparent) motion of the sun; departing from the world in these those who know the Brahman go to Brahman. Smoke, night, the dark fortnight, the six months of the southern (apparent) motion of the sun; dying in these the devotee goes to the lunar light and returns. These two paths, bright and dark, are deemed to be eternal in this world. By the one a man goes never to raturn, by the other he comes back'. The Vedānta sūtra (IV, 3 4-6) explains that the words 'light' 'day' and others are not to be taken in their literal sonse (i, e. as signposts or stages on the paths) but they are to be understood as referr. ing to superintending deities that help the spirits and lead them on the path to the worlds of the Devas or of Pitrs (i e. they are ātrvālekas and abhımānidevatās). Saṅkara on Vedāntasūtra IV. 2. 20 (ataścāyanepi daksine) explains that the waiting for the -day of Uttarāyada on the part of Bhisma (narrated in the Mahābhārata) is only meant as a eulogy of the path called ,' arcirādi', that one who has realized Brahma, even if he dies in dakṣipāyana, does secure the fruits of his knowledge (viz. 
 
@@ -187,7 +187,7 @@ X. 14.1 (Ol sacrificerl) worship with an offering Yama, king (of pitrs), son of 
 
 192 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -227,7 +227,7 @@ H. D. 25
 
 194 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -333,7 +333,7 @@ DTSTEHT STETārat: FIFTET WYTAT: re:. The ato I. 21.4 remarks 'अथैना�
 
 200 
 
-History of Dharmasastra 
+
 
 [ Vol, 
 
@@ -475,7 +475,7 @@ of the deceased (belonging to any one of the three higher Vardas) lie down (on t
 
 208 
 
-History of Dharmasastra 
+
 
 [vo it into two; on the belly the patri (in which the oblations ar collected before offering) and the camasa (cup) in which the adā portion) cut off is placed; on his private parts the samya. on the thighs the two aranis (wood sticks for kindling fire by attrition) and on the spanks the nortar and pestla, on the fest the winnowing baskets (sūrpa) or if there ba one only, by teare ing it in two pieces. Those of the sacrificial implements which have a bollow (into which a fluid can be poured) are filled with Prṣadājya. The son of the deceased) should take the upper and the lower mill-stones for himself and the implements made of copper, iron and earthenware 490. 
 
@@ -543,7 +543,7 @@ Mrtyu (each being associated with pitrs, the formula being * Yamāya dahanapatay
 
 214 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -613,7 +613,7 @@ shaving of the head and moustaches is declared in seven cases, viz. on the Gange
 
 218 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -709,7 +709,7 @@ If an āhitāgni died away from home, the Sat. Br. (XI, 5.1.13-14) provides that
 
 064 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -737,7 +737,7 @@ H. D. 29
 
 226 
 
-History of Dharmasastra 
+
 
 [Vol. the effect that if a person keeps the same srauta firos after the death of his wife they are (impure like) the fires used for burning a corpse and adds that even if a brābinana ālutāgni had a wife of the ksatriya class and she died before him, she was to be cremated with his srauta fires Tais view is opposed to that of many other commentators and he explains Manu V 167 (where 'savarnām' occurs ) as merely illustra tive and that if it were interpreted as restricted to a savarna wife alone, there would be the fault of vāhyabheda. Some of the smrtis provide that he may remain a widower and perform his Agnihotra by having a golden effigy of the wife or one made of kuśa giass, as Rāma did Vide Gobbılasınrti III 528 9-10, Vrddha-Harita XL 214 If the householder did not marry again (when his wife died before him and was creinated with his srauta fires) and did not consecrate fresli vedic fires he was to be cremated with ordinary fire If the householder was un able to marry again, he may cremate his wife with fire kindled by ineans of the kindling sticks (arans) and keep his srauta fires and carry on agnihotra with the image or effigy of the wife. If the abitāgni died first and his wife then died as a widow she was to be cremated with fire (nii manthya) kindled by attrition of the aranis Vide Baud P, S II, 4 6-8, Kāt Śr. 29 4 34-35, and Trikānda-mandana II, 121, 528. When the wife was crema ted the mantra 'Asmāttvam-abhijātosi' quoted above was not to be recited (vide Gobhilasınrtı II. 52) It was only & virtu ous wife and not all unchaste one that was cremated with śrauta oi smārta fire (Goblilasmrti III, 53) Kratu (g. by 
 
@@ -955,7 +955,7 @@ A III, 60. Vide curTTOT III- 13 18 ara faceta, Fat Top Rated
 
 240 
 
-History of Dharmasastra 
+
 
 (Vol. 
 
@@ -991,7 +991,7 @@ I Vol.
 
 242 
 
-History of Dharmasastra 
+
 
 pp. 223-307 rogards (p. 285) Rg. X, 18 as & hymn dealing with burial of tho whole body (and not of ashes), while he admits (p 287) that Rg. X. 16 is a cremation hymn. I dissent from him for various reasons; the niost important is that if his theory be correct a period of several conturios must be postulated between the two hymns, This is inadmissible. 
 
@@ -1013,7 +1013,7 @@ The Vispudharmagūtra (19.11-12) and Anu, 26.32 state that the collected bones s
 
 554 a. The way ( na) p. 190 quoles several verses on this point तत्र शाण्डिल्यः। द्वारवस्यां सेतुबन्धे गोदावर्या च पुष्करे । अस्थीनि विसृजेद्यस्य स मृतो मुक्ति मामुयात् । शलिखिती। गङ्गायां च प्रयागे च केदारे पुष्करोत्तमे । अस्थीनि विधिवत् त्यक्त्वा गयायां पिण्डदो भवेत् । पित्रोणात्ममुध्येत तौ नित्यं मोक्षगामिनी। इति । योगयाज्ञवल्क्यः । गङ्गायां यमुनायां या कावेयो पा शतद्रुतौ । सरस्वत्यां विशेषेण घरधीनि विसृजेत्सतः॥ 
 
-History of Dharmasastra 
+
 
 (Vol. pamoagavya. With the four mantras 'upasarpa' (Rg. X. 18.10-13) he should respectively pray to the earth, then dig it, take out the earth, and then the bones. Then he should bathe and purify the bonos by touching the bones again and again and repeating the mantras .eto nyindram stavāma suddham &c' (Rg VII. 95, 7-9). Then he should bathe with panca. gavya and become pura. Then he should batho ten times with cow's urino, cow's dung, cow's milk, curds, clarified butter, water in which kuśas have been dipped, ashes (of sacred fires), earth, honey and water. Then he should sprinkle (with kuśas) wator on the bones with the mantras, viz. Rg. 1,2% 16. Rg VIII 95,7-9, 555 Rg VII. 56.12-14, Rg. X. 126 1-8, Rg. X. 119,1-13, Rg. IX. 1.1-10 (called Pāvomāni verses ), Rg. X 128,1-4, Rg. I 43.1-9 (a hymn to Rudra); then he should offer & hiranya Srāddha for the deceased, offor pinda to him and perform tarpxina with sesame. Then he should cover the bones in seven ways viz. by doer-skin, woollen blanket, darbhurs, cow's hair, hempen cloth, birch leaf and palm leaf. He should cast among the bones pieces of gold and silver, pearls, coral and sapphire for the purification of the bones, then he should offer into fire 108 oblations of clarified butter and sesame with the hymn beginn ing with 'udiratām' (Rg. X. 15). Then he should cast the bones in holy water; thereby he does not incur the fault of touching an unclear object. While answering the calls of nature or performing acamana one should not hold the bodes, 
 
@@ -1037,7 +1037,7 @@ walk round it thrice, with their left side turned to it and beat ing their left 
 
 246 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1095,7 +1095,7 @@ H. D. 32
 
 250 
 
-History of Dharmasastra 
+
 
 (Tol, 
 
@@ -1249,7 +1249,7 @@ OT by persons of his caste, since the king is the relative of all yarnas 583 The
 
 258 
 
-History of Dharmasastra 
+
 
 [Vol. vol. II p. 739. The Nirnayasindhu 585 says that in the Kali age only two kinds of sons viz. aurasa and dattaha are allowed (out of the twelve mentioned by Yā]. IL 128-132) and the order of śrāddbadhikārins is given by it as follows: aurasa son, then grandson, then great grandson, then adopted son If there are many sons then the eldest alone is the adhikarin; if the eldest be pot present or is patrta, then the son next to the eldest is the adbikarin (and not the youngest). If the sons are divided from each other, then all the rites up to sapindikarana are to bo performed by the eldest alone who may make the other sons contribute to the expenses, but the yearly śrāddha may ba per formed by each son separately. If the sons (of the deceased) are not divided, then all rites including the yearly śrāddha also are to be performed by the eldest alone When the eldest son not being present, the younger one or the youngest per forms the cremation, he should perform all rites up to and inclu ding the sixteen śrāddhas, but not sapiodikarada and he should wait for one year for the arrival of the eldest If the eldest comes to know of the death within one year, he alone should perform the sapindīkarada, If the eldest son does not come even at the end of one year, then even the youngest may per form sapindīkarana. If before the expiry of one year the youngest son or some one other than & son performs the moothly, anumāsika, sapindikarana śrāddhas, then the eldest son or a son should again perform these. If there is a grandson who has his upadayana performed and there be a son those upanayana is not performed it is the latter who is a preferable adhikarin, provided he is either three years old or has the cūdā ceremony performed as stated by Sumantu 586 Manu IL 172 states that a boy should not repeat the Veda before the performance of Upanayana except the mantras that are te quired for the śrāddha of his deceased father or mother. Such a son may perform with Vedic mantras the funeral rites OD the death of his father or mother and their yearly and other śraddhas. If he is unable to repeat the Vedic mantras, be may simply perform the cremation Tith mantras and the rest may be got performed through another person. In the 
 

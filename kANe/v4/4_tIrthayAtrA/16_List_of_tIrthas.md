@@ -305,7 +305,7 @@ is joined by Alalaganda at Deva. Ajeśvara-(a liaga in VS) L. I 92 136 prayāga 
 
 Alakangadz meet near Badarikā. 
 
-History of Dharmasastra 
+
 
 732 
 
@@ -463,7 +463,7 @@ II. 41, 31-33, P. I 18 50 Angirasesa (ander Vs) L. q. by T. K.
 
 738 
 
-History of Dharmasastra 
+
 
 toi 
 
@@ -1277,7 +1277,7 @@ D
 
 744 
 
-History of Dharmasastra 
+
 
 (Vol. Citrakūta ( hill, 65 miles south 
 
@@ -1585,7 +1585,7 @@ says that Duopāpapurz is as the certaia
 
 right bank of the Gomatī (popularly 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -1679,7 +1679,7 @@ three miles from Kodidar is sor Tounded by the ruins of a temple which popular H
 
 750 
 
-History of Dharmatastra 
+
 
 I rol, 
 
@@ -2313,7 +2313,7 @@ Dcy, p 77 identifies it with Oxus. He equates Asuaniati (p. 13) and Calsus (p 43
 
 758 
 
-History of Dharmasastra 
+
 
 (Fol. Indrānitirtha--N. II. 40 93 Indraprastham(the moderd village of 
 
@@ -2459,7 +2459,7 @@ R. I 220, Vik 18 70 (1) gatgūti Jyotismati-a tributary of Sarasvati from Pravar
 
 760 
 
-History of Dharmatāstra 
+
 
 [ Vol. 
 
@@ -2651,7 +2651,7 @@ Narmada) K II. 41 55, G. I $1.9, 11. D. 96
 
 76% 
 
-History of Dharmasastra 
+
 
 (Voi, 
 
@@ -3451,7 +3451,7 @@ P 105
 
 774 
 
-History of Dharmasastra 
+
 
 (Vol Laphitya--(. Brahmaputra) V. 85, 2, Lobita-Gaigaka--(same as Laubityo 
 
@@ -3575,7 +3575,7 @@ Enlightenment) Ag. 115. 37, M. Madhu accupied 1t), K II 36'9, var, 22. 33, N. II
 
 776 
 
-History of Dharmasastra 
+
 
 [Vol. 
 
@@ -3727,7 +3727,7 @@ H. D. 9S
 
 778 
 
-History of Dharmasastra 
+
 
 griva bere). Vide Daulatpor plate of Bhojadeva I in Harsa samrat 
 
@@ -4989,7 +4989,7 @@ pilgrimage, six wiles from Ajmer). One of the few temples of god Brabma esists b
 
 794 
 
-History of Dharmasastra 
+
 
 [Vol. Lara yields inexhaustible results Puspabbadrā.17 This is ooc (western) of the five 
 
@@ -5107,7 +5107,7 @@ It is difficult to identify it It appears to have fallen into the Iodas But from
 
 796 
 
-History of Dharmasastra 
+
 
 (Vol. appears to be a mytbical river. It is identified with Panzkora by E 
 
@@ -5249,7 +5249,7 @@ boravati ia I, G, I. vol. XXI P 344.
 
 798 
 
-History of Dharmasastra 
+
 
 | Vol. Vide P. VI 131. Up lo chap. 170 of P. Sailesvara-under Vs) L various sub-tirthas of the river aro 
 
@@ -5583,7 +5583,7 @@ sage Maakanaka pierced his hand with the tips of kusa grass when vegetable fluid
 
 802 
 
-History of Dharmasastra 
+
 
 (Vol. Şaplavati-) Bb v 19 18 Śarabbaigakuṇda (under Lobārgala) 
 
@@ -5941,7 +5941,7 @@ situated on the gulf of Cambas) K II 41 51, P I 18. 93 (both speak of it under N
 
 808 
 
-History of Dharmasastra 
+
 
 Stambbalbgatirtham (ngar Mabisa Sugandun---(Loder Siento) 
 
@@ -6237,7 +6237,7 @@ Var 157. 35
 
 812 
 
-History of Dharmasastra 
+
 
 [ Voi. 
 
@@ -7201,7 +7201,7 @@ Vaitarani river in Orissa, A G. p.512.
 
 826 
 
-History of Dharmatõstra 
+
 
 [Vol. 
 

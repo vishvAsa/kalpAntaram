@@ -31,7 +31,7 @@ TAYT 21474aafta i 31. F. VII. 24. 2,
 
 182 
 
-History of Dharmasastra 
+
 
 [ On. V 
 
@@ -89,7 +89,7 @@ one inherited, one saved in a time of famine, one pledged by the master, one dis
 
 H.D. 14186 
 
-History of Dharmatastra 
+
 
 [ Ch. V 
 

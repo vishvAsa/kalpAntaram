@@ -43,7 +43,7 @@ I t folio 48b (readset ) .
 
 132 
 
-History of Dharmasastra 
+
 
 [Vol. RSICANDRAYANA-According to Brhad-Visdu quoted by Pr, Prakarana p. 13% this penance requires that one should take only three mouthfuls of sacrificial food every day for a month 300 
 
@@ -113,7 +113,7 @@ marali
 
 136 
 
-History of Dharmasastra 
+
 
 Voi, 
 

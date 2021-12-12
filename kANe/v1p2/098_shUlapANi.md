@@ -65,7 +65,7 @@ BATETIT HIRT & T 17 g *TE: \#1467 FINT &c.' atto pp.
 
 826 
 
-History of Dharmasāstra 
+
 
 Devi, he names a host of writers and works as noted below.1248 In spite of Aufrecht's view the Samvatsara-pradipa is not his own work. The Samvatsarapradipa mentioned by Śūlapāni in Durgo tsavaviveka appears to have been a work of Halayudha, as Raghu nandana states in Ekādasitattva (vol. II. p. 51, “Samvatsara pradipe Halāyudhopi etanmatīnusāri') and in Suddhi (Vol. II p. 327 ata eva samvatsara-pradipe Halayudhenoktam ). The Samvatsarapradipa without the author's name is quoted by Raghunandana many times, as in (vol. I) Tithi (pp. 34, 43, 49, 106 ); Śrāddha, p. 250, Prāyaścitta p. 508, Malamasa pp. 754, 848; in vol. II Ekadasi pp. 8, 40, 61-62, 65, 83, and Suddhi 382. A Sārasamuccaya is also mentioned in Hemādri (Dānakhanda page 135). The Smstisāgara is probably the same as the Govindārṇava of Seșa Nṭsimha, Srikaramiśra is probably the ancient author referred to even by the Mitakṣarā. 
 

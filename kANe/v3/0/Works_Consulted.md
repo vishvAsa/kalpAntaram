@@ -87,7 +87,7 @@ edition); where other commentaries are referred to, it is
 
 Mandlik's edition with six commentaries that is cited. Nāradasmști, edited by Dr. Jolly. Parāśarasmrti (Bombay S. Series ).XXVIII 
 
-History of Dharmasastra 
+
 
 Prajāpati-smrti ( Anan.). Vedavyasa-smrti ( Anan.). Vṛddha-Gautama-smrti (Jir.). Vṭddba-Hārīta-smrti ( Ānan.). Yajñavalkyagmrti with the Mitāksarā (Nirnayasāgara edition) 
 
@@ -139,7 +139,7 @@ of Manusmrti). Grhastharatnākara of Candeśvara (B. I. Series ). Haradatta's co
 
 . Apastambadharmasutra ). Hargacarita of Bāṇa (ed. by P. V. Kane). Hemadri's Caturvarga-cintāmaṇi ( B. I. Series ). Jaiminlya-nyaya-mālāvistāra of Madhavācārya ( Anan.). Jātakas ( ed. by Fausböll ). Kādambari of Bāṇa (edited by P. V. Kane). 
 
-History of Dharmasastra 
+
 
 Kamasutra of Vatsyāyana (Chowkhamba Sanskrit Series ). - Kaśikā, commentary on Pāṇini's sūtras (Benares). Kavyanzimāmsā of Rajasekhara (Gaikwad Oriental Series ). Khandadeva's Mimāṁsākaustubha (Chowkhamba Sanskrit 
 
@@ -279,7 +279,7 @@ obligation in the Hindu State' (1935). . Banerjee, Sir Gooroodas, author of 'Mar
 
 XXXIV 
 
-History of Dharmasastra 
+
 
 Dr. Beni Prasad's Theory of Government in Ancient India! 
 
@@ -343,7 +343,7 @@ VAS,
 
 *XXFI 
 
-History of Dharmasastra 
+
 
 Mr. G. S. Sardesai, editor of 'Selections from Peshwa's Daftar'. Prof. B. K. Sarkar's 'Positive background of Hindu Sociology'. Mr. Golapchandra Sarkar's 'Hindu Law', 'Adoption.. -Mr. Himansu Bhuslian Sarkar's 'Indian influence on the 
 

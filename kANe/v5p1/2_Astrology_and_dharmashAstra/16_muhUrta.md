@@ -423,7 +423,7 @@ I FTH egeringaishi H T III. 6.
 
 562 
 
-History of Dharmajāstra 
+
 
 Sec. II, CH. XVI 
 
@@ -975,7 +975,7 @@ The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moo
 
 576 
 
-History of Dharmajāstra 
+
 
 (Soc. II, Ch. XVI 
 

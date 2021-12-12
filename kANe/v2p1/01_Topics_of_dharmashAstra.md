@@ -97,7 +97,7 @@ ___16. पथैवात्मा पास्तवष्टग्या म�
 
 , ir 113. 8–9 7 9274 VITEL प्रतिकलं यदारमनः । एष संक्षेपतो धर्मः कामादन्यः प्रवर्तते । प्रत्याख्याने च दाने च सुख Te RT I STORICHTH SET: FATTARTUFI, TIPA 260. 20 and 25 wapo विहित मेच्छेदात्मनः कर्म पूरुषः । न तत्परषु कुर्वीत जानमामियनात्मनः । स भियाग्युपगवं धर्म माहर्मनीषिणः। 
 
-History of Dharmasastra 
+
 
 [ Ch. I 
 
@@ -129,7 +129,7 @@ H.D.
 
 10 
 
-History of Dharmasastra 
+
 
 ( Oh. I 
 
@@ -191,7 +191,7 @@ Jatakas we see that being an 'udicoa brāhmano' was a source of great pride ( vi
 
 84. आपावत: मागादर्शात्मत्यह कालकरमादक्पारियात्राबक्षिणेन हिमवतः । उत्सरेण fortuna 1 ... Terence ! Et pourront forfer W AH per Ifan I. 8-9 and 18-13. 
 
-History of Dharmasastra 
+
 
 (Ch. substituting the word vinasana' for 'adarsa : 35 Patañjali in his Mahabhāṣya defines Aryavarta several times in the same terms as Vasiṣtha does. The Dharmasūtra of Saṅkha-Likhita gives somewhat similar limits by remarking 'spotless spiritual pre-eminence is to be found (in the country ) to the east of the countries of Sindhu and Sauvira, to the west of the oity of Kampill, to the south of Himalaya and to the north of Pariyatra ', 37 The extant Manusmrti ( II. 22 ) makes Aryāvarta coterminos with the whole of India north of the Vindhya by saying that the territory between the Himalaya and the Vindbya and extending up to the eastern and western oceans is known by the wise as Aryāvarta. The second view ( viz. Āryāvarta is the region between the Ganges and the Jumna) oocurs in Beud. Dh. S. (I. 1.28 ). In the Tai. Ar. II.20 special honour is shown to those who dwell between the Ganga and the Yamuna. The third view ( viz. Aryāvarta is the country where the blsok antelope roame about naturally ) is the one given in most smptis. Both Vasistha (I. 14-15 ) and Baud. Dh. 8. (1. 1. 29-30 ) quote an ancient gātha from the Nidāna work of the Bhallavins *to the effect that wherever the black antelope roams about in the country lying between the Sindhu in the west and the rising mountain in the east, there is spiritual pre-eminence. So this view is a very anoient one and probably 
 
@@ -217,7 +217,7 @@ live in these countries (viz. Brahmavarta, Brahmarṣideśa, Madhyadesa, Aryāva
 
 39. Vide Tandya Br. 26. 10. 13-14 for Dṣṣadvati falling into the Sarasvati and 25. 10. 16 for the disappearanoe of the lattor and Ait. Br. (chap. 38 kh. ) for Kuru-Panoola, Vasa and Usinara as included in the centre of India..16 
 
-History of Dharmasastra 
+
 
 t Oh. I 
 
@@ -253,7 +253,7 @@ H.D.S
 
 18 
 
-History of Dharmasastra 
+
 
 [ Oh. I 
 

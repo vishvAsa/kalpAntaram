@@ -33,7 +33,7 @@ Il TTTU 58. 86. Frag. (ort ) . 173 quotes it as of \# and reads seतानि, 
 
 938 
 
-History of Dharmatāstra 
+
 
 i Ch. XXVIII 
 
@@ -71,7 +71,7 @@ p. 188.
 
 934 
 
-History of Dharmatūstra 
+
 
 (Ch. XXVIII 
 
@@ -97,7 +97,7 @@ friends, teacher or brothers or wife (vide Sm. M. p. 201, Yati dh. p. 75). Acoor
 
 936 
 
-History of Dharmatāstra 
+
 
 (Ch. XXVIII 
 
@@ -163,7 +163,7 @@ The Paramahamsas always stay under a tree or in an unia habited house or in a bu
 
 940 
 
-History of Dharmasastra 
+
 
 [Ch. XXVIII 
 
@@ -271,7 +271,7 @@ ata 136-137. 8. D. 119
 
 946 
 
-History of Dharmadāstra 
+
 
 (Ch. XXVIII 
 
@@ -327,7 +327,7 @@ teaoberg 6174 and pupils appear to have been fabricated, no two of which agree i
 
 950 
 
-History of Dharmadāstra 
+
 
 ( Ch. XXVJII 
 
@@ -357,7 +357,7 @@ According to both anoient and modern Hindu Law, when a man became & sannyāsin, 
 
 . 95% 
 
-History of Dharmasastra 
+
 
 [Ch. XXVIII 
 
@@ -413,7 +413,7 @@ produced for vedio rites ) into the gārhapatya fire with the words "may you two
 
 956 
 
-History of Dharmasastra 
+
 
 (Ch. XXVIII 
 
@@ -443,7 +443,7 @@ Now they quote the following rules for the case where the teachers explain the U
 
 2189. T ro may moaa the bowl for alms or the body of the ascetio. This shows that besides om' he should also frequently rocito the soven vyābftis,958 
 
-History of Dharmadastra 
+
 
 (Ch. XXVITI 
 
@@ -463,7 +463,7 @@ Vedas. He should then eat three handfuls of barley flour with 'om' and touch his
 
 . 
 
-History of Dharmajāstra 
+
 
 (Ch. XXVIII 
 
@@ -559,7 +559,7 @@ According to the theory of Dharmaśāstra, the king is not only the head of the 
 
 986 
 
-History of Dharmalāstra 
+
 
 (Ch. XXVIII 
 
@@ -593,7 +593,7 @@ mit yg: ait. . . II. 1. 44-46.
 
 * Trafo quoted in Frag. (TTER . 14.)968 
 
-History of Dharmasāstra 
+
 
 ( Oh. XXVIII 
 

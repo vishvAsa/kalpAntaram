@@ -35,7 +35,7 @@ p. 776. f. 6 p. 101; SHETATM nu faraitrea rapinat of वक्तव्यः �
 
 464 
 
-History of Dharmadastra 
+
 
 ( Vol. 
 

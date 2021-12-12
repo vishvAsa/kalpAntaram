@@ -71,7 +71,7 @@ In numerous smrtis, purāṇas and digests the duties of householders have been 
 
 644 
 
-History of Dharmasastra 
+
 
 (Oh, XVII 
 
@@ -203,7 +203,7 @@ H. D. 82
 
 650 
 
-History of Dharmasastra 
+
 
 [ Ch. XVII 
 
@@ -437,7 +437,7 @@ Gafaqafq* ITU 59 FTIT PITUIGETETT T erfi foguer 64. 18-24.
 
 668 
 
-History of Dharmasastra 
+
 
 ( Oh. XVII 
 
@@ -465,7 +465,7 @@ Yogi-Yajñavalkys quoted by Aparārka and other works gays that when a man is un
 
 664 
 
-History of Dharmatāstra 
+
 
 (Ch. XVII 
 
@@ -511,7 +511,7 @@ TRT Araṣtan Turagttor quoted in frate on u. III. 30.; FM I. p. 118 quotes प�
 
 H, D, 84666 
 
-History of Dharmasastra 
+
 
 (Oh. XVII 
 
@@ -553,7 +553,7 @@ e fag: \# fe quotod by more p. 135; stor en TITE itgelora, both quoted by raro I
 
 668 
 
-History of Dharmasastra 
+
 
 [ Ch. XVII 
 
@@ -593,7 +593,7 @@ Weaving and woven cloth are frequently referred to in the Veda, generally in a m
 
 670 
 
-History of Dharmasastra 
+
 
 [ Ch. XVII 
 
@@ -633,7 +633,7 @@ TTFITTE AI Tre on s. X, 4. 19. Vido Band. Dh. 8. 1. 6. 13 as to how tārpya is t
 
 672 
 
-History of Dharmasastra 
+
 
 ( Ch. XVII 
 
@@ -755,7 +755,7 @@ another village) the nuptial fire is continually carried in & vessel (called ukh
 
 680 
 
-History of Dharmasāstra 
+
 
 [Ch.XVII 
 
@@ -797,7 +797,7 @@ vide TTUATT P. 36 for a similar verse.
 
 682 
 
-History of Dharmasāstra 
+
 
 [ Ch. XVII 
 
@@ -831,7 +831,7 @@ __1634. मिक्षिप्यामि स्वारेषु परि�
 
 684 
 
-History of Dharmasastra 
+
 
 ( Cb. XVII 
 
@@ -869,7 +869,7 @@ The texts (such as Yaj. I. 99 ) prescribe japa (muttering of Gāyatrl and other 
 
 1641. START SETT TT TT TT TERUA Hepat PAS III. 1; फत्तवारोनचे तिष्ठेक्षणमप्पग्निना पिमा। तिष्ठत घेर हिजो घारपस्तथा च पतितो भवेत Trore quoted by Frago I. p. 156; TTTET ET B en EETHA I OT PUTTU UTOTT HATUTI TWAWT . \#. I. 6. 2.; 16 T IX. % (reads the words as fire ... ... ETHIYA).686 
 
-History of Dharmatāstra 
+
 
 (Ch. XVII 
 
@@ -901,7 +901,7 @@ G a rten Farrera Tryf wat TUAT \#\# WPT quoted in Faq. I. p. 159, T. ff. I. part
 
 888 
 
-History of Dharmasastra 
+
 
 [ Ch. XVII 
 
@@ -943,7 +943,7 @@ augerrarating the restaurach Terry:TAA EFTTT: - what are the Star.
 
 890 
 
-History of Dharmadāstra 
+
 
 (Ch. XVII 
 

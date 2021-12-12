@@ -41,7 +41,7 @@ vre aratat \# .q. by Pau. II. p. 202, 077. 77. III. p. 324. ,
 
 478 
 
-History of Dharmasastra 
+
 
 [ Vol. 
 
@@ -117,7 +117,7 @@ F t racune 9 1 dag som inft 1991 M I I. q. by way. II. p. 204 ; pa. t. p. 162. C
 
 61482 
 
-History of Dharmasastra 
+
 
 [Vol. 
 

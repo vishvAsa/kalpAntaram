@@ -217,7 +217,7 @@ The Paribhasiprakasa ( a small part extending to 116 printed pages) describes th
 
 950 
 
-History of Dharmasastra 
+
 
 and authors ( the important ones are quoted in the note below)1473 On pp. 557 and 564 he mentions his own Pasibhāṣā-prakāśa. 
 
@@ -251,7 +251,7 @@ misra' in Calcutta Review vol, LVI ( for 1935 ) pp. 147-156. 1474 पांस�
 
 952 
 
-History of Dharmasastra 
+
 
 his pilgrimage. The Anusāsanaparsa ( chapter 26) is full of the greatness of the Ganges.l475 Two typical verses are quoted below from it. On p. 315 of the Rājanitiprakasa'176 he quotes a verse of Vyāsa in which different words are given to indicate what Daiva is and which distinguishes Purisakāra ( human effort ) from Daiva; vide also Manu VIl. 205, Yaj. 1. 349 and 351. Vanaparva (82.9-12) deals with this topic of Daiva and Purusakāra.1477 
 

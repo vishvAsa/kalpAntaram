@@ -13,7 +13,7 @@ Trūdbapalita 114 Āsaucasampala orkizuca-5900ipāta 292 Asmā 235 Astala 3540 A
 
 924 
 
-History of Dharmatāstra 
+
 
 | Vol. 
 
