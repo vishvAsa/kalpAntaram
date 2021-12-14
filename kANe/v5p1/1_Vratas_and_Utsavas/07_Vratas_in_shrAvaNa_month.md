@@ -273,7 +273,7 @@ Pārana of Janmūstami fast
 
 139 
 
-the two ends before mahāniśā and the other during mahānisā or after it, pāraṇa should be observed at the end of one of the two; when both exist during the period of mahāniśā then one should perform pārana in the morning at the end of the festival'. At the end of the pārana the performer repeats the mantra 'salutations to Govinda, who is Being, who is the ruler of (all) beings, who is the lord of (all) beings and who is the source of all beings'.354 The above statement shows that in certain cases the pārana of Janmāstamivrata may be at night,355 particularly for vaisnavas who perform the vrata ag a duty and not for any reward. 
+the two ends before mahāniśā and the other during mahānisā or after it, pāraṇa should be observed at the end of one of the two; when both exist during the period of mahāniśā then one should perform pārana in the morning at the end of the festival'. At the end of the pārana the performer repeats the mantra 'salutations to Govinda, who is Being, who is the ruler of (all) beings, who is the lord of (all) beings and who is the source of all beings'.354 The above statement shows that in certain cases the pārana of Janmāstamivrata may be at night,355 particularly for vaiṣṇavas who perform the vrata ag a duty and not for any reward. 
 
 There is a difference of meaning between udyāpana and pārana. Some vratas like Ekādaśī and Janmāstams are per formed throughout a man's life; in such cases there is only pārapa after the fast on every occasion that a fast is observed. If a man undertakes a vrata only once and finishes it, then the concluding rites of the vrata are called udyāpana. 
 

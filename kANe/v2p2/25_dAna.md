@@ -737,7 +737,7 @@ The Matsyapurāṇa (chap. 83. 92 ) speaks of ten kinds of dānas called parvata
 
 of the pearls, of cotton from 20 palas to 10 thousand, of sugar from half a bhāra to 8 bhāras. 
 
-The smśtis, purānas and digests speak of the gifts of many animals such as of elephants, horses, buffaloes, of articles like clothes, deer-skins, umbrellas, shoes, which are all passed over here. But two or three of these many dānas deserve notice. Aparārka (pp. 375-376 ) extracts a long passage from the Bhaviṣyottara about construoting in the month of Caitre a mandapa for the distribution of water to travellers in the midst of a city or in a waterless desert or near a temple. A brāhmana was to be engaged for wages to distribute water and this was to be continued for four months or at least three fortnights, 
+The smśtis, purānas and digests speak of the gifts of many animals such as of elephants, horses, buffaloes, of articles like clothes, deer-skins, umbrellas, shoes, which are all passed over here. But two or three of these many dānas deserve notice. Aparārka (pp. 375-376 ) extracts a long passage from the Bhaviṣyottara about construoting in the month of Caitre a maṇḍapa for the distribution of water to travellers in the midst of a city or in a waterless desert or near a temple. A brāhmana was to be engaged for wages to distribute water and this was to be continued for four months or at least three fortnights, 
 
 Oh. XXVI 
 

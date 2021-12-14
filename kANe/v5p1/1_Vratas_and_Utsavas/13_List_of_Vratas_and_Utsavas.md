@@ -2699,7 +2699,7 @@ the person becomes lord of Siva's gañag; HV II. 509
 
 (from Mat.). NavarātravrataVide above under Durgāpūjā. Navavyūhārcana-observe fast on any 11th of su. or of Ās. or Phā. 
 
-or on a sarkrānti or eclipse and offer a sacrifice to Viṣṇu after constructing a mandapa on a plot of land inclined towards north-east; maṇdapa to have doors and in its midst the figure of a lotus; the eight weapons of the lords of eight quarters to be drawn viz. vajra, sakti, club (of Yama), sword, noose ( of Varuṇa), banner, mace ( of Kubera ), sūla (of Siva); drawings of Vasudeva, Saṅkarsana, Nārāyana, Vāmana that are the forms ( vyūbas of Viṣṇu); homa; HV 
+or on a sarkrānti or eclipse and offer a sacrifice to Viṣṇu after constructing a maṇḍapa on a plot of land inclined towards north-east; maṇdapa to have doors and in its midst the figure of a lotus; the eight weapons of the lords of eight quarters to be drawn viz. vajra, sakti, club (of Yama), sword, noose ( of Varuṇa), banner, mace ( of Kubera ), sūla (of Siva); drawings of Vasudeva, Saṅkarsana, Nārāyana, Vāmana that are the forms ( vyūbas of Viṣṇu); homa; HV 
 
 I. 1125–1131 ( from Vi. Dh. ). Navānnabhakṣana- partaking of the fresh crops ) in Mārg. 
 
@@ -3611,7 +3611,7 @@ the words 'may the Sun be pleased '; tithivrata; Sun deity; performer freed from
 
 (from Bhav.). Bhimadvādasi-(1) It was first imparted to Bhima, one of the 
 
-Pāndavas, by Vāsudeva and came to be known by his name; this was formerly called Kalyāpini. It is elaborately described in Mat. 69. 19-65 (which also occur in Pad. V. 23), most of which are q. by KKV 354-359 (from Mat.) and HV I. 1044-1049 (from Pad.); on 10th of M. śu. bath with ghee applied to the body and worship of Viṣṇu with the words (namo Nārāyapāya), the various limbs of Viṣṇu being honoured with different names (Krsna, Dāmodara &c.), worship of Garuda, of Siva, Ganesa; total fast on 11th; on 12th bathe in a river and raise mandapa in front of house; hang a jar full of water from a torana with a small hole at the bottom and take the drops on one's hand the whole night; homa through four priests learned in Rgveda, Rudra-japa by four Yajurvedins and sāmans to be sung by Sāmavedins; these twelve priests to be honoured with rings, garments &c.; on next tithi donate 13 cows; 
+Pāndavas, by Vāsudeva and came to be known by his name; this was formerly called Kalyāpini. It is elaborately described in Mat. 69. 19-65 (which also occur in Pad. V. 23), most of which are q. by KKV 354-359 (from Mat.) and HV I. 1044-1049 (from Pad.); on 10th of M. śu. bath with ghee applied to the body and worship of Viṣṇu with the words (namo Nārāyapāya), the various limbs of Viṣṇu being honoured with different names (Krsna, Dāmodara &c.), worship of Garuda, of Siva, Ganesa; total fast on 11th; on 12th bathe in a river and raise maṇḍapa in front of house; hang a jar full of water from a torana with a small hole at the bottom and take the drops on one's hand the whole night; homa through four priests learned in Rgveda, Rudra-japa by four Yajurvedins and sāmans to be sung by Sāmavedins; these twelve priests to be honoured with rings, garments &c.; on next tithi donate 13 cows; 
 
 List of vratas 
 
@@ -4671,7 +4671,7 @@ only such food as he can purchase with three varātikās (couries ), whether it 
 
 deity; reward not stated; KKV 181, HV I.726 (from Bhav.). Varāhadrādaśa-on M. śu. 12: tithivrata: Varāha form of Viṣṇu 
 
-is deity; saṅkalpa and worship on 11th; golden image of Varāba to be placed on a jar in which pieces of gold, silver or copper and all seed had been cast and worship thereof and jāgara in mandapa of flowers; next morning donate the image to a learned and well-conducted brāhmaṇa; reward is saubhāgya, wealth, beauty, honour and sons in this very life; KKV 319-321, HV I. 1027-29 (both quoting Var. 41. 
+is deity; saṅkalpa and worship on 11th; golden image of Varāba to be placed on a jar in which pieces of gold, silver or copper and all seed had been cast and worship thereof and jāgara in maṇḍapa of flowers; next morning donate the image to a learned and well-conducted brāhmaṇa; reward is saubhāgya, wealth, beauty, honour and sons in this very life; KKV 319-321, HV I. 1027-29 (both quoting Var. 41. 
 
 1-10), GK pp. 151-152. VarunavrataIf a man standing a whole night in water donates 
 
@@ -5425,7 +5425,7 @@ and one learned and well-conducted brāhmaṇa, wash the latter's feet and give 
 
 man utters; HV II. 134-139 ( from Bhav. U.). Sripañcami–(1) on 5th of Mārg. śu. one should make a 
 
-golden, silver, copper, wooden or clay image of Laksmi or draw her figure on a piece of cloth and worship it with flowers and offer worship to the limbs from feet to head; chaste married women should be honoured with saffron and flowers and dinner and salutations; donate a prastha of rice grains with a vessel full of ghee with the words 'may Laksmī be plessed with me'; this should be carried on for a year taking a different name of Lakṣmi in each month; at end worship Laksmī image in a mandapa and donate it and a cow and pray to Sri to give him success; result-prosperity for 21 generations; HV I. 537–543 (from Bhav. U. chap. 37. 1-58 with some variations ); (2) Another vrata for success to be begun on su. 5th with Sravana-naksatra or with Uttarāphalguns and Monday; on 4th ekabhakta; next day worship of bilya tree, under which eight kalasas to be arranged in eight directions; holy 
+golden, silver, copper, wooden or clay image of Laksmi or draw her figure on a piece of cloth and worship it with flowers and offer worship to the limbs from feet to head; chaste married women should be honoured with saffron and flowers and dinner and salutations; donate a prastha of rice grains with a vessel full of ghee with the words 'may Laksmī be plessed with me'; this should be carried on for a year taking a different name of Lakṣmi in each month; at end worship Laksmī image in a maṇḍapa and donate it and a cow and pray to Sri to give him success; result-prosperity for 21 generations; HV I. 537–543 (from Bhav. U. chap. 37. 1-58 with some variations ); (2) Another vrata for success to be begun on su. 5th with Sravana-naksatra or with Uttarāphalguns and Monday; on 4th ekabhakta; next day worship of bilya tree, under which eight kalasas to be arranged in eight directions; holy 
 
 List of vratas 
 

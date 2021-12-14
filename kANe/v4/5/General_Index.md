@@ -523,7 +523,7 @@ Brahtaakūrca, ao cxprition, 146-147. to be punished with death for any
 
 18 samc as pascagauza acc to como crime or sin but may be bapished 31, 
 
-sortis 147 prāyaścilta, extent of, when talen Brabmanasarı asia, of Ilalāsadba 3461, once for all for several murders of b 90, frājaścıtta lor murder of a pe, son Brabmandaparkan, 114n, 168, 311, u boisa brābmapa withoutvedic lear 342, 344, 3470, 315, 349, 351, 372, aing 93, roles about a b staying in 374,375,37€n, 385n, 399,300, 301A. the house of one dying or partaling 392, 3950, 3990, 414, 4150, 4170, of food there 289, should not violate, 420, 4210, 4430, 448, 4570, 450, even when a kooner of bralmavidyā, 460,403, 471, 4730, 4790, 451, 4548, the 10 junction against eatiog uaclean 5310, 5390, 540, 560,571,397,390a, food when there is no distress or 5930, 600, 623, (ein, 601,010, danger to life 100, three causes of 
+sortis 147 prāyaścilta, extent of, when talen Brabmanasarı asia, of Ilalāsadba 3461, once for all for several murders of b 90, frājaścıtta lor murder of a pe, son Brabmaṇḍaparkan, 114n, 168, 311, u boisa brābmapa withoutvedic lear 342, 344, 3470, 315, 349, 351, 372, aing 93, roles about a b staying in 374,375,37€n, 385n, 399,300, 301A. the house of one dying or partaling 392, 3950, 3990, 414, 4150, 4170, of food there 289, should not violate, 420, 4210, 4430, 448, 4570, 450, even when a kooner of bralmavidyā, 460,403, 471, 4730, 4790, 451, 4548, the 10 junction against eatiog uaclean 5310, 5390, 540, 560,571,397,390a, food when there is no distress or 5930, 600, 623, (ein, 601,010, danger to life 100, three causes of 
 
 712 a person being called a brāhmina 
 
