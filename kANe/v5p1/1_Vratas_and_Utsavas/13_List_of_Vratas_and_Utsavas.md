@@ -23,7 +23,7 @@ AK = Ahalyākāmadhenu (ms). BB = Bhujabalanibandha of Bhoja (ms). BHP = Bhāgav
 
 SP 
 
-MAT = Matsyapurāṇa. MB = Mahābhārata. M. Bh. = Mahābhāṣya. NA = Nirnayāmṛta. Nār = Nāradapurana. NM = Nilamatapurāṇa. Nrs = Nrsimha-purāna. NS = Nirnayasindhu. Pad = Padmapurāṇa. PC = Puruṣārtha-cintāmaṇi. RM = Rājamartanda of Bhoja (ms). RNP = Rājanitiprakāśa ( part of Viramitrodaya). SM 
+MAT = Matsyapurāṇa. MB = Mahābhārata. M. Bh. = Mahābhāṣya. NA = Nirṇayāmṛta. Nār = Nāradapurana. NM = Nilamatapurāṇa. Nrs = Nrsimha-purāna. NS = Nirṇayasindhu. Pad = Padmapurāṇa. PC = Puruṣārtha-cintāmaṇi. RM = Rājamartanda of Bhoja (ms). RNP = Rājanitiprakāśa ( part of Viramitrodaya). SM 
 
 = Same 
 

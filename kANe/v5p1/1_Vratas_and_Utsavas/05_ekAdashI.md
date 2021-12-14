@@ -141,7 +141,7 @@ General rules about those who have the adhikīra to undertake vratas have alread
 [^250a]
 
     अत्र नारदः।  
-    अष्टान्दाद्+++(???)+++ अधिको मर्त्यो ह्यपूर्णाशीति-हायनः।  
+    अष्टब्दाद अधिको मर्त्यो ह्यपूर्णाशीति-हायनः।  
     भुंक्ते यो मानवो मोहाद् एकादश्यां स पापकृत् ॥  
     इति, 
     
@@ -174,7 +174,7 @@ Knowing the weakness of human beings, sages relaxed the rule of an absolute fast
     वायुपुराण q. by का. नि. p.261, का वि. p. 431, व. कि. कौ. p. 57 (ascribes to वराहपुराण), धर्मसिन्धु p. 16.  
     वायुपुराण indicates 'an absolute fast' (not drinking even water). One may resort to one of the several options contained in this verse according to one's physical ability.
 
-Baudhāyana 253 declares that those who are unable to observe a complete fast (on ekādasi) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides [^254] that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54). 
+Baudhāyana [^253] declares that those who are unable to observe a complete fast (on ekādasi) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides [^254] that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54). 
 
 [^253]: 
 
@@ -195,7 +195,7 @@ It is said by Markandeya [^255] that one may observe the methods of ekabhakta, n
 
 Here certain alternatives are allowed in place of an absolute fast and they have to be explained. But before doing so, attention has to be drawn to the rule propounded by Manu [^256] viz. if a person, being master of (i.e. quite able to carry out) the main provisions for a rite, resorts to alternatives provided (by texts) he would not, foolish as he is, secure the otherworldly rewards ( of that rite). Therefore, ekabhakta, nakta and ayācita are to be employed only if one is unable to observe a strict fast. 
 
-Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Madhyāhna means the 3rd part of the day divided into five parts (i. e. from the 13th ghati after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words after the middle of the day is passed' (dinārdha-samayestite),[^257] while the gauṇa-kala is up to 
+Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Madhyāhna means the 3rd part of the day divided into five parts (i. e. from the 13th ghati after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words after the middle of the day is passed' (dinārdha-samayestite),[^257] while the gauṇa-kala is up to sunset. Works like the Nirṇayāmrta, Smrtikaustubha (pp. 9-10) approve of the division into five parts, and hold that ekabhakta means taking food at sometime between the 13th and 18th ghati of the day (of 30 ghatīs).258 When ekabhakta is merely an alternative to strict upavāsa on ekādasi, food must be taken on the tithi on which the fast would have been observed if the performer were able to undergo it. The same 259 rule applies to nakta as a substitute for upavāsa.
 
 
 [^256]: 
@@ -206,13 +206,9 @@ Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Mad
 
     Frasia ya farai AT THE TIERE PEN Fhte q. by R. (on 1) p. 108, Purina p. 14, Ç. a. p. 92, . p. 43. देवल has the same verse except that the last quarter is ऊनं ग्रासत्रयेण तु. The word F a refers to the observance of celibacy and the like. Acc, to a well koowo verse met urna ... TETUUTETTAD ETTFOT: II (q. by 314. 9. & II. 4. 9-13), the person observing a should not eat more tban 32 or 28 morsels even if he is a householder. 318: 71 g a91 दिनार्धादुपरितमो मध्याहो मुख्यः कालः, तदूर्वमस्तमनावधिौणः 'दिनार्धसमयेऽतीते' इति TAIC, T I T. (op it p. 109). 
 
-E kabhakta 
-
 101 
 
-LUCAS 
-
-sunset. Works like the Nirnayāmrta, Smrtikaustubha (pp. 9-10) approve of the division into five parts, and hold that ekabhakta means taking food at sometime between the 13th and 18th ghati of the day (of 30 ghatīs).258 When ekabhakta is merely an alternative to strict upavāsa on ekādasi, food must be taken on the tithi on which the fast would have been observed if the performer were able to undergo it. The same 259 rule applies to nakta as a substitute for upavāsa. 
+ 
 
 Ekabhakta is also a vrata independently performed (without reference to ekādaśī). The Anusāsanaparva (chap. 106 verses 17-30) declares the rewards secured by observing ekabhakta in each month from Mārgaśīrsa to Kārtika and Anuśāsanaparva (chap. 107. 13-126) dilates upon the fruits of observing ekabhakta on each of the thirty days of a month. The Kștyakalpataru on vrata (pp. 457-468) sets out practically the whole of Anuśāsana parva chap. 107 (which the editor appears not to have noticed) and Hemādri on vrata vol. II. pp. 930-931 does the same. The Krtyakalpataru (on vrata pp. 419-421), the Krtyaratnākara (pp. 406-7 and later on) and Hemādri on vrata (vol. II pp. 748–798) quote Anuśāsana 106. 17–30 about ekabhakta in different months at different places. 
 
@@ -278,7 +274,7 @@ ___267. स वा एष महानज आत्मा... तमेतं व
 
 
 
-the other is of the nature of a vrata. As regards the first all persons including householders having a son have adhikāra to observe it even in the dark half; but as regards the second (upavāsa of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a sankalpa, they should simply give up cooked food but should observe the niyamas of celibacy and the like. As to ekādaśīs of the dark half between the Sayani and Bodhini even householders with sons have the right to perform the vrata. Similarly, those who desire to secure absorption into Visnu, long life and sons may perform a kāmyavrata on ekādaśīs of both pakṣas. Vaisnava householders should always fast even on ekādasis of the dark half. The ekādaśīvrata is obligatory on all including devotees of Siva, Visnu and the Sun. Upayāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirnayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsavrata and he simply abstains from taking food because the sistra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed. 
+the other is of the nature of a vrata. As regards the first all persons including householders having a son have adhikāra to observe it even in the dark half; but as regards the second (upavāsa of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a sankalpa, they should simply give up cooked food but should observe the niyamas of celibacy and the like. As to ekādaśīs of the dark half between the Sayani and Bodhini even householders with sons have the right to perform the vrata. Similarly, those who desire to secure absorption into Visnu, long life and sons may perform a kāmyavrata on ekādaśīs of both pakṣas. Vaisnava householders should always fast even on ekādasis of the dark half. The ekādaśīvrata is obligatory on all including devotees of Siva, Visnu and the Sun. Upayāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirṇayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsavrata and he simply abstains from taking food because the sistra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed. 
 
 1 
 
@@ -466,7 +462,7 @@ all T6 I. 125. 2, q. by 5. . 635 (who regards this as merely a fetgang), TEATIVE
 
 is on the day which is wholly covered by dvādasi and the pāraṇā is on the next day when dyādaśī ends. In any cases other than those specified above ekādasi is the fast day and dvādaśī is the pāraṇā day. Nāradapurāṇa (pārvārdha, chap. 29 verse 45) pre scribes that if there are two ekādasis, whether in the bright half or dark half, a householder should fast on the earlier of the two and ascetics (yatis) on the later. Sannyāsins and widows are governed by the rules for Vaisnavas. Smārtas (all those who are not Vaisnavas) are not affected by the doctrine of aruṇodayavedha but only by sūryodayavedha i. e. if there is daśami before sunrise and an ekādaśī follows from sunrise, smārtas have to observe a fast on the ekādaśī. There are many texts that are apparently in conflict, but the Kālanirnaya (pp. 251-256) and Nirṇayasindhu (pp. 37-44) introduce order by showing that some texts refer to Vaiṣṇayas alone, some to Smārtas alone and some to both. The Ekādaśītattva (p. 55) brings together many of the conclu sions about the fast tithi and the pāraṇātithi. 
 
-There are cases where the texts sometimes allow fast on ekādasi oven though mixed with daśami. This occurs when dvadasi does not exist even for a short time on the 13th tithi. But this is allowable only to Smārtas and not to Vaisnavas. Certain restrictions as to food and physical and mental activities had to be observed from the time sankalpa was made to the final ceremonies (pāraṇā) in ekādaśīvrata.292 It may be noted that even when a person is in mourning he has to observe ekadasi vrata.293 Certain observances were laid down as common to all vratas (including ekādaśī) viz. forbearance, truthfulness, compassion, charity, purity, restraint of senses, worship of god, homa, contentment and not misappropriating another's wealth.294 There were separate rules to be observed on daśami, ekādasi and dvādaśī (10th tithi to 12th). They are somewhat overlapping. The observances prescribed for daśami are: vegetables, flesh; masūra pulse, eating again (after ekabhakta), sexual intercourse, 
+There are cases where the texts sometimes allow fast on ekādasi even though mixed with daśami. This occurs when dvadasi does not exist even for a short time on the 13th tithi. But this is allowable only to Smārtas and not to Vaisnavas. Certain restrictions as to food and physical and mental activities had to be observed from the time sankalpa was made to the final ceremonies (pāraṇā) in ekādaśīvrata.292 It may be noted that even when a person is in mourning he has to observe ekadasi vrata.293 Certain observances were laid down as common to all vratas (including ekādaśī) viz. forbearance, truthfulness, compassion, charity, purity, restraint of senses, worship of god, homa, contentment and not misappropriating another's wealth.294 There were separate rules to be observed on daśami, ekādasi and dvādaśī (10th tithi to 12th). They are somewhat overlapping. The observances prescribed for daśami are: vegetables, flesh; masūra pulse, eating again (after ekabhakta), sexual intercourse, 
 
 292. i asTARTE TOOTER Fit Faqayti i nadal . (On T I. p. 1008). 
 
