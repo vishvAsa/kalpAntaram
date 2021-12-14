@@ -7236,7 +7236,7 @@ edited by Arthur Avalon; Vol. strict observances laid down 1, 1049, 1058n, 1097,
 
 1140 ; Vol. XIV 1050n. senses and not in mortification Tantrik- colt in Epigraphs, 
 
-of the body 14167; Vyasa paper hy Mr. B. P. Desai bhāṣya explains Tapas as bear 1046n; T. practices prevailed ing the pairs of opposites (cold in N. India long before 11th and heat, hunger and thirst ) century A. D., 869n; T, litera- and observances like Krochrany tare is classified into Srotas Cāndrāyana 1416. ( that are three), Pitha and Tapta-mudré-dhārana-making Amnāya 1049. 
+of the body 14167; Vyasa paper hy Mr. B. P. Desai bhāṣya explains Tapas as bear 1046n; T. practices prevailed ing the pairs of opposites (cold in N. India long before 11th and heat, hunger and thirst ) century A. D., 869n; T, litera- and observances like Kr̥cchrany tare is classified into Srotas Cāndrāyana 1416. ( that are three), Pitha and Tapta-mudré-dhārana-making Amnāya 1049. 
 
 marks of conch, disons etc., Tantrik : guras ( some ) in Kasb- ( weapons of God Viṣpa) on mir in 11th centory A. D. limbs or parts of the body with practised incest 1075-6; T h eated copper or the like by Soulpture at Puri and other Madhya: 305. temples in Orissa 1088; works Tārabhaktitarangiṇi, 9770, 1072 emphasize that mantra most 1 1109 ( on savasādhana ), 114%. be received from a qualified Taranath (born 1573 or 1673 gura and the sidhanā must A. D.), a af – History of be done ander his guidanoe / Buddhism' (written in 1608 
 

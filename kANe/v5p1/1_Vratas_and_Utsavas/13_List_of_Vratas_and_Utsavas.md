@@ -1327,11 +1327,11 @@ tortoise with mandara mountain is to be placed and donated. Kuṣmānda-daśami-
 
 tithi; worship of Siva, Dasaratha, Laksmi with kūsmānda 
 
-flowers; arghya to Moon; GK pp. 125-126 (from Sāmbapurāna). Krochravrata-On Mārg. Su. 4; tithi; four years; Ganesa deity; 
+flowers; arghya to Moon; GK pp. 125-126 (from Sāmbapurāna). Kr̥cchravrata-On Mārg. Su. 4; tithi; four years; Ganesa deity; 
 
 HV I 501-504 (from Skanda ); in the first year he subsists by ekabhakta on 4th, in the 2nd by nakta, on 3rd by 
 
-ayācita way and in 4th he fasts on 4th tithi. Krcchravratāni-several krcchras, such as Somāyana, Tapta 
+ayācita way and in 4th he fasts on 4th tithi. Kr̥cchravratāni-several krcchras, such as Somāyana, Tapta 
 
 kṛcchra, kṛcchrātikrochra, Sāntapana (that are really prāyaścittas) are described as vratas by HV II. 931 ff. ; vide also HV II 769-71 for these. Sūdra had no adhikūra for these. Some of the other krcchras are described here; Paitāmaha kṛcchra from K. kr. 7 (on four days partake only of water, milk, curds and ghea respectively), on 11th fast and worship Hari; Vaisnava-kṛcchra consists in partaking of munyanna (such as niyāras ) for three days, yāvaka for 
 
@@ -3273,7 +3273,7 @@ two Kapilā cows goes to Brahmaloka and is honoured by gods; Mat. 101. 54 q. by 
 
 and RM (verse 1361, ABORI vol. 36 p, 33 ) state that one should always bathe early morning when the Sun is in Tulā ( Balance ), Makara ( Capricorn) and Mesa (Ram). This is quoted by KR 149 from RM and by VKK 240 (from Bhav.); V. Dh. 64. 8 directs that one who undertakes prātaḥ snāna must bathe when he sees eastern quarter suffused with 
 
-the rays of Arupa. Prūjāpatyavrata-one who at the end of Krochra penance donates 
+the rays of Arupa. Prūjāpatyavrata-one who at the end of Kr̥cchra penance donates 
 
 a cow and feeds brāhmaṇas acc, to ability goes to the place of Saṅkara; Mat. 101. 66 q. by KKV 448, HV II. 883 ( from 
 
@@ -4539,7 +4539,7 @@ Nārāyaṇa and Lakṣmi, for one year, divided into three periods of four mont
 
 offer arghya to Moon on each 15th; different substance in each period for purification of the body viz. pañcagavya, water with kuśas, water heated with Sun's rays; HV II. 
 
-664-666 ( from Vi. Dh.). Lakṣmāpradavrata-It is one of the Krcchravratas in HV II. 
+664-666 ( from Vi. Dh.). Lakṣmāpradavrata-It is one of the Kr̥cchravratas in HV II. 
 
 769-771; on K. kr. 7th tithi to 10th one should subsist respectively on milk, bilva leaves, lotuses, and morsels of lotus fibres and on 11th fast; worship Keśava on these days; 
 
@@ -4997,7 +4997,7 @@ KV 464, PC 216-219. Viraprati padā-same as Balipratipadā above p. 201–203. V
 
 to dinner maidens and donate a golden jar, two garments and gold; for a year ( on each 9th dinner to maidens ); in each life he becomes handsome and is not subdued by enemies and reaches Siva's capital; the deity appears to be Śiva or Umā or both; Mat. 101. 27–28 q. by KKV 443, HV 
 
-I. 958 (from Pad.), VKK 41. Virāsana—a posture required in all Krcchras; HV I. 322 ( quot 
+I. 958 (from Pad.), VKK 41. Virāsana—a posture required in all Kr̥cchras; HV I. 322 ( quot 
 
 ing Gar.) and II. 932 and also in Aghamarsanavrata (Saṅkhasmști 18. 2). It removes all sins. Vide H. of Dh. IV. p. 148 note 342. For another meaning (in Yoga system ), 
 

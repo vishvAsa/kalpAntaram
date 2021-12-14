@@ -1689,7 +1689,7 @@ be beyond pale of Aryanism 1870 King, vide 'bae', 'prāyaścıtta', kad not
 
 to observe periods of impurity 297, had jurisdiction to puoish sianers, if they refused to undergo prayasciita prescribed by parisad 70–71, bad to make good from his treasary or from officers stolen property if it could not be recovered from thref 74, bad to be informed in carrying out cx prations for govadha or sias higher than it 70-71; belped je carrying out prāyaścıttas prescribed by parisad 70, oot to appropriate to himself fine recovered from ooc guilty of heavy guilt 71, neglect of pedaoces was included among prakiraala matters by Nārada sbicb were solely dependent on the biog70, was to indict branding and linc on those guilty of one of the first four mahā. patalas and that did not undergo expiation for same 71, was the ulli matc beir and also performer of frāddha for a person who has 40 
 
-relatives left 369 Kirste, Dr 361 Kratu, smrti of 226, 2910 Krcchra, means Prājāpatya 132, cypra 
+relatives left 369 Kirste, Dr 361 Kratu, smrti of 226, 2910 Kr̥cchra, means Prājāpatya 132, cypra 
 
 tion for theft 101, wcthod of pero forming described 120 ; fcpcral term for several cipraliods 132, usord for several biods of cxpiations 
 

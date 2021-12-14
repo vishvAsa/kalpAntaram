@@ -114,15 +114,15 @@ Similar verses occur in the Padmapurāna.[^245] The Anuśāsanaparva [^246] pron
 > one should keep awake (in the night) for propitiating Visnu and should sumptuously decorate the temple or mandapa of) Visṇu.  
 > The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.
 
-245. अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162).
+[^245]: अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162).
 
 ___ 246 मासोपवासी वस्तु दशभिः स्वर्गमुत्तमम् । महर्षित्वमथासाद्य सशरीरगतिर्भवेत् । ... दि गत्वा शरीरेण स्वेन राजन्यधामरः । अनुशासन 107. 136, 137, 139.
 
-247. श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मत्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4.
+[^247]: श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मत्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4.
 
 [^248] The Varahapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. 
 
-248. तस्यामनग्निपक्काशी यो भवेलियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्व प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति).
+[^248]: तस्यामनग्निपक्काशी यो भवेलियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्व प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति).
 
 The Padma narrates the story of a woman, who was always quarrelsome and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast [^249] (not under taken cheerfully and willingly, but out of angor) became pure. The Garudapurāna declares [^250] (if one places) on one side (in one pan) the gift of the whole world and on the other side (in another pan) the day of Hari, this ekādaśī is more holy and superior. The ekādaśī in Aṣādha sukla is called mahā-ekādaśī and also Sayani.
 
@@ -209,9 +209,9 @@ Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Mad
 
 [^258]: 33 AxYTET TA 2 HX416 valat \#h: 1 ... Testi uleht मारभ्याष्टादशी घटिकां यावत् षड्घटिकात्मको मध्याह्नः, तत्राप्युत्तरस्मिन् घटिकात्रये एकभक्तं tifoqni fautetaan pp. 14–15; the g. io. p. 43 says: 3771 ETT HITELE Titlha: 1:.
 
-259. एवं नक्तव्रतस्य गुरुत्वेन प्रागुक्तवायुपुराणवचने नक्तमिति हविष्यानादिभोजनस्य कालपरं न तु नक्तव्रतपरं तथावे उत्तरोत्तरगुरुव्रतोपदेशभस्तावे तदनन्तरं केवलं हविष्यासो TRT1944: 1 Ç. 2. p. 93.
+[^259]: एवं नक्तव्रतस्य गुरुत्वेन प्रागुक्तवायुपुराणवचने नक्तमिति हविष्यानादिभोजनस्य कालपरं न तु नक्तव्रतपरं तथावे उत्तरोत्तरगुरुव्रतोपदेशभस्तावे तदनन्तरं केवलं हविष्यासो TRT1944: 1 Ç. 2. p. 93.
 
-260. उपवासात्परं भैक्ष्य भैश्यात्परमयाचितम् । अयाचितात् परं नक्तं तस्मानतेन वर्तयेत् ॥ हविष्यभोजनं स्नानं सत्यमाहारवर्जनम्। अग्निकार्यमधःशय्यां नक्तभोजी सदाचरेत्। F ETTU (ar 83. 10. 12-13), TENTU (37) 43. 11-12, reads i for at and नक्काशी षद् समाचरेत् q. by कृत्यकल्पतर on व्रत p. 3 (quotes from भविष्य and reads पडाचरेत्): हे. (on व्रत I. p, 333) quotes हविष्य. from पम and स्मृतिको. p. 11 quotes from TCUTE. Biar means 'offering oblations of ghee into fire with the heTeatas. Vide H. of Db. vol II. p. 301 aote 713 for ATTERS.
+[^260]: उपवासात्परं भैक्ष्य भैश्यात्परमयाचितम् । अयाचितात् परं नक्तं तस्मानतेन वर्तयेत् ॥ हविष्यभोजनं स्नानं सत्यमाहारवर्जनम्। अग्निकार्यमधःशय्यां नक्तभोजी सदाचरेत्। F ETTU (ar 83. 10. 12-13), TENTU (37) 43. 11-12, reads i for at and नक्काशी षद् समाचरेत् q. by कृत्यकल्पतर on व्रत p. 3 (quotes from भविष्य and reads पडाचरेत्): हे. (on व्रत I. p, 333) quotes हविष्य. from पम and स्मृतिको. p. 11 quotes from TCUTE. Biar means 'offering oblations of ghee into fire with the heTeatas. Vide H. of Db. vol II. p. 301 aote 713 for ATTERS.
 
 101 
 
@@ -221,42 +221,41 @@ Ekabhakta is also a vrata independently performed (without reference to ekādaś
 
 ### Nakta
 
-Two verses about nakta occurring in the Linga, Nārada 160 and other purāṇas are: alms collected by begging are superior to fasting, food obtained without requesting anyone for it (i, e. ayācita) is superior to alms, nakta is superior to ayācita, therefore one should subsist by nakta method; eating havisya food, bath, truthfulness, small intake of food, offering oblations 
+Two verses about nakta occurring in the Linga, Nārada 160 and other purāṇas are: alms collected by begging are superior to fasting, food obtained without requesting anyone for it (i, e. ayācita) is superior to alms, nakta is superior to ayācita, therefore one should subsist by nakta method; eating havisya food, bath, truthfulness, small intake of food, offering oblations into fire, and sleeping on the ground, these six should always be observed by one who takes a meal only at nakta. 
+
+There is divergence of views about the time that should be called nakta. Hemādri [^261] (on Kāla pp. 112-115) discusses at length what is nakta-kāla. The first rule is that in a naktavrata the tithi ( if viddhā) to be accepted is the one that exists at the time of pradosa. Pradosa is the period of six ghaṭikās after sunset (acc. to Skandapurāna), while Viśvādarsa holds that it is a period of three ghaṭikās after sunset. P. C. (p. 46 ) explains the latter quotation as meaning that three ghatīkās after sunset is com mended as the most proper time of pradosa. 
+
+The Bhavisya purāna states:[^262] some men desire that nakta should be the time when the stars begin to appear, some wise men say that nakta is the time when only one muhūrta (two ghaṭikās) of the day remains, while I hold that nakta is the time when the stars begin to appear. 
+
+From this it appears [^263] that the proper time (mukhya kūla) for nakta is after the stars are seen, other times being gauna. Nakta has two meanings, one primary viz. period of time and the other figurative or secondary viz. taking food at nakta time.
+
+
+[^261]: furat: tera: Frigi I Fio g. by ( o p. 112); Fantareata MARIEET \#174eau (Fift p. 112).
+
+[^262]: Cara \#marin A179:1 Ari a pol HET A Allgut: 1 72593118 THË AT FRITTI . q by gey icq (on ga p. 3), 5. 1. P 57.
+
+[^263]: ARTE E 777 14: 17:, ore fa segala gat in: THATania . Con aires) p. 114.
+
 
 
 102 
 
 
-
-
-
-into fire, and sleeping on the ground, these six should always be observed by one who takes a meal only at nakta. There is divergence of views about the time that should be called nakta. Hemādri 261 (on Kāla pp. 112-115) discusses at length what is naktakāla. The first rule is that in a naktavrata the tithi ( if viddhā) to be accepted is the one that exists at the time of pradosa. Pradosa is the period of six ghaṭikās after sunset (acc. to Skandapurāna), while Viśvādarsa holds that it is a period of three ghaṭikās after sunset. P. C. (p. 46 ) explains the latter quotation as meaning that three ghatīkās after sunset is com mended as the most proper time of pradosa. The Bhavisya purāna states:262 some men desire that nakta should be the time when the stars begin to appear, some wise men say that nakta is the time when only one muhūrta (two ghaṭikās) of the day remains, while I hold that nakta is the time when the stars begin to appear. From this it appears 263 that the proper time (mukhya kūla) for nakta is after the stars are seen, other times being gauna. Nakta has two meanings, one primary viz. period of time and the other figurative or secondary viz. taking food at nakta time. 
-
 There is a special naktavrata apart from upavāsa. Vide list for a brief description. 
 
-Ayācita means 'subsisting on food not obtained by begging or requesting any one'. The sankalpa in this case 264 is 
+### Ayācita
+Ayācita means 'subsisting on food not obtained by begging or requesting any one'. The sankalpa in this case [^264] is: 'during this day and night I shall not eat food obtained by begging or requesting any one'. No particular time can be specified about ayācitavrata, since food may be brought by some one at any time. But when such food is brought he has to partake of it only once. 
 
-during this day and night I shall not eat food obtained by begging or requesting any one'. No particular time can be specified about ayācitavrata, since food may be brought by some one at any time. But when such food is brought he has to partake of it only once. In the word'ayācita' not only265 is there 
-
-U 
-
-261. furat: tera: Frigi I Fio g. by ( o p. 112); Fantareata MARIEET \#174eau (Fift p. 112). 
-
-262. Cara \#marin A179:1 Ari a pol HET A Allgut: 1 72593118 THË AT FRITTI . q by gey icq (on ga p. 3), 5. 1. P 57. 
-
-203. ARTE E 777 14: 17:, ore fa segala gat in: THATania . Con aires) p. 114. 
-
-264. अत एव सङ्कल्पोपि अस्मिन्नहोरात्रे याचितमन्नं न भोक्ष्ये। इत्येवं सङ्कल्पः कर्तव्यः । 1. A. p. 138. 
-
-265. a aua mea ISO teman ata FISATEUERTE raat रात्री वा सकृदित्येव । ... अयाचितमिति न केवलं परकीयालयाचनप्रतिषेधोऽपि तु स्वकीयमपि परिचारकभार्यादिभ्यो न याचितन्यम्। ...अतः स्वगृहेपि भृत्यभार्यादयोऽनाज्ञप्ता एव यादि HEHETETT TIB 17I TU HATTO On . III. 318. 
-
-Ayācita, ekabhakta, nakta 
+[^264]: अत एव सङ्कल्पोपि - "अस्मिन्नहोरात्रे याचितम् अन्नं न भोक्ष्ये।" इत्य् एवं सङ्कल्पः कर्तव्यः । 1. A. p. 138. 
 
 103 
 
-a prohibition against begging for food belonging to another, but one is prohibited from requesting his wife or servant to serve food belonging to himself. Therefore, if a man's wife or servant without being directed by him bring cooked food to him he may partake of it, but not otherwise. 
+In the word 'ayācita' not only [^265] is there a prohibition against begging for food belonging to another, but one is prohibited from requesting his wife or servant to serve food belonging to himself. Therefore, if a man's wife or servant without being directed by him bring cooked food to him he may partake of it, but not otherwise. 
 
-These terms ekabhakta, nakta, ayūcita were used in ancient times in connection with prāyaścittas like Krcchra and were taken over into the lore of fasts when the latter became common in the times of the Purāṇas. Vide Ap. Dh. S. I. 9. 27.7, Gaut. 26. 1-5, Yāj. III. 318 and H. of Dh. vol. IV. p. 132 under Krochra. 
+[^265]: a aua mea ISO teman ata FISATEUERTE raat रात्री वा सकृद् इत्येव । ... अयाचितमिति न केवलं परकीयालयाचनप्रतिषेधोऽपि तु स्वकीयमपि परिचारकभार्यादिभ्यो न याचितन्यम्। ...अतः स्वगृहेपि भृत्यभार्यादयोऽनाज्ञप्ता एव यादि HEHETETT TIB 17I TU HATTO On . III. 318.
+
+
+These terms ekabhakta, nakta, ayūcita were used in ancient times in connection with prāyaścittas like Kr̥cchra and were taken over into the lore of fasts when the latter became common in the times of the Purāṇas. Vide Ap. Dh. S. I. 9. 27.7, Gaut. 26. 1-5, Yāj. III. 318 and H. of Dh. vol. IV. p. 132 under Kr̥cchra. 
 
 Padma (Uttarakhanda, chap. 36) gives a fanciful story of the birth of ekādaśī. 
 
