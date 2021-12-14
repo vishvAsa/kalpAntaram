@@ -5799,7 +5799,7 @@ p 196 for this Sita & branch of Gaiga) vā 47, 2:
 
 and 39, Bh, V. 17. 5 Sitatīrtba-(ander Matbarā) Var 179. 
 
-Śivadadi-Nr 65 23 q. by T.K, p 253 Sıvasarasvati-a Saivalseira acc to 
+Śivadadi-Nr 65 23 q. by T.K, p 253 Sıvasarasvati-a Śaivalseira acc to 
 
 Bar S III. 122 Sovodhher Sivodbbeda - ( where Sarasvati re 
 

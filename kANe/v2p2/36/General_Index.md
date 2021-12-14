@@ -3457,7 +3457,7 @@ almost same footing as, 129; com. modities that could not be sold by a brābmaga
 
 128. 
 
-Sairindhra, 99. Saivas, following vaidika oult or 
+Sairindhra, 99. Śaivas, following vaidika oult or 
 
 Tantrika cult or both, 675 ; sects of, mentioned in Kurmapurana, 
 

@@ -79,7 +79,7 @@ Number of mudrūs in different storico
 
 f195 
 
-The H. of Dh. Yol. II. (pp. 320-321 ) makes a brief mention of mandras in worship and refers to the work of Mlae Tyra de Kleen on the mudris practised by Bauddha and Saiva priests called pedandus in the island of Bali. Here the same subject will be dealt with in a little more detail and from different 
+The H. of Dh. Yol. II. (pp. 320-321 ) makes a brief mention of mandras in worship and refers to the work of Mlae Tyra de Kleen on the mudris practised by Bauddha and Śaiva priests called pedandus in the island of Bali. Here the same subject will be dealt with in a little more detail and from different 
 
 points of view. 
 

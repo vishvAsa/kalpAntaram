@@ -90,7 +90,7 @@ ga: il tafatto ( 24. p. 7). 872 1971FT T PAGERII
 
 FOUNDED 
 
-56. Saivarta 
+56. Śaivarta 
 
 541 
 

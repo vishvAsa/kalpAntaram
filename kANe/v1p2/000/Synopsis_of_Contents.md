@@ -699,7 +699,7 @@ sition of work to them - Vyavahāra section edited by the present author - its c
 
 Sec. 96 Vidyāpati : 
 
-... PP. 810-815 Born in Bisapi, a village in north Bihar - fourth in descent from Dhireśvara, uncle of Candeśvara - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaiṣṇava, while in Mithila he was held to be a Saiva - he made Queen Viśvāsadevi's work Gangāvākyāvali faultless and supplied textual authorities in support of her propositions – there appears to be agreement about the date of his death viz. 1448 A. D. – he may be held to have flourished between 1360-1448 A. D. 
+... PP. 810-815 Born in Bisapi, a village in north Bihar - fourth in descent from Dhireśvara, uncle of Candeśvara - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaiṣṇava, while in Mithila he was held to be a Śaiva - he made Queen Viśvāsadevi's work Gangāvākyāvali faultless and supplied textual authorities in support of her propositions – there appears to be agreement about the date of his death viz. 1448 A. D. – he may be held to have flourished between 1360-1448 A. D. 
 
 Sec. 97 Vyavaharanirṇaya of Varadaraja : ... pp. 815-823 
 

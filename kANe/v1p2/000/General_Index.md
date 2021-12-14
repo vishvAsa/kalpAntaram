@@ -3549,7 +3549,7 @@ of Akbar, p. 907; son of Bhaga Tattvamuktāvali, of Nandapaṇdita, vatidāsa, o
 
 p. 917. 
 
-908; rebuilt the temple of Viśve. Tattvaprakiśa, of Bhoja, on Saiva 
+908; rebuilt the temple of Viśve. Tattvaprakiśa, of Bhoja, on Śaiva 
 
 śvara, p. 908. agama, p. 585. 
 

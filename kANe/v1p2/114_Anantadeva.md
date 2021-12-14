@@ -121,7 +121,7 @@ ed, of 1909), 1488 On p. 459 of the Fra FTH ( Nir. ed. of 1909) 37ga says :
 
 
 
-bhakti-candrikā composed by Anantadeva in which the characters are a Saiva, Vaiṣṇara, Minamsaka, Tarika &c. 
+bhakti-candrikā composed by Anantadeva in which the characters are a Śaiva, Vaiṣṇara, Minamsaka, Tarika &c. 
 
 In the Smartikaustubha (Nirnayasagara edition of 1909) Anantadeva gives a pedigreel458 of his patron's family. The family claimed descent from the moon. Whether the first three kings, mentioned in the Smrtikaustubha, were related as father and son is doubtful. Laksmanacandra is said to have been the son of Rudracardra and it was lie who conquered several chiefs wielding sway over the Himalayan territories.1490 Trimallacardra, the successor (and probably the son) of Lakṣınararandra, is praised for his continual liberality to the learned men of Benares.74"] It was at the command of Baz Bahadursandra and for pleasing him that Anantadeva compiled his Sirtikaustubha.14 At the end Anantadeva tells us that Baz Babūdurcandra conquered secrii mountain forts in the Himalayas.!!3 After giving a pedigree of his patron's family Anantadevi gives some information about himself. He was a descendant of the great Maratha Saint Ekanātha whom he describes as endowed with Vidic s:1c1ifices and as a devotee 
 

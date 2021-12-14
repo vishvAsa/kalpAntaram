@@ -25,7 +25,7 @@ He was a voluminous and versatile writer. A few words may be said here about som
 
 UC 
 
-Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in Bengal Vidyāpati is believed to have been a great Vaiṣṇava, while in Mithilā he was held to be a Saiva. 1237 The poems of Vidyapati were edited and published by Khagendranath Mitra. Dr. Bimanbihari Majumdar has completely over-hauled 
+Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in Bengal Vidyāpati is believed to have been a great Vaiṣṇava, while in Mithilā he was held to be a Śaiva. 1237 The poems of Vidyapati were edited and published by Khagendranath Mitra. Dr. Bimanbihari Majumdar has completely over-hauled 
 
 1237 
 

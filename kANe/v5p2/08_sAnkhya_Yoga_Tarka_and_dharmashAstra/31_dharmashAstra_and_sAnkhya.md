@@ -359,7 +359,7 @@ Vindhyavāsa or Vindhyavāsin ( dweller on Vindhya moun. tain ) is identified wi
 
 The Abhinavabbārati of Abhinavagupta distinguishes between the two; 2255 so it is pogsible that Vindyavāda only revised the 
 
-2253. Vide p. 954 notc 1545 above where the five Siddhantas (Kftānta. pancaka) are Sāakbya, Yoga, Pancarātra, Saiva and Pāśupata. 
+2253. Vide p. 954 notc 1545 above where the five Siddhantas (Kftānta. pancaka) are Sāakbya, Yoga, Pancarātra, Śaiva and Pāśupata. 
 
 2254, अन्तरामवदेहस्तु निषिद्धो विनयवासिना। तदस्तिले प्रमाणे हिन किचिवक quan staan , STRAIT verse 62 p. 704 00 which the com. Nyāyaratnakara explains : 'qaro amatiei TA priti razdeho mahara ni petua agit fangent facraruna. Wbile criticizing the Sāākbya and its 'Satkāryavāda 'mhaite makes fun of the epithet Vindbyavasin (which may also suggest 'a man wbo belongs to a wild tribe on the Vindhya mountain ) applied to Rudrila ' ait na fir eitt wenta al am कहिलेनेव स्थापिता विनयवासिता 
 

@@ -1193,7 +1193,7 @@ after for one year; worship of Kāmadeva; SmK 114 ( quoting
 
 Vi. Dh. I. 158). Kāmamahotsava-on 14th of Cai. śu.; tithi; establishment of 
 
-Madana and Rati on the night of 13th in a park and worship on 14th; the festival is to be celebrated with obscene words, with songs and music; next morning play with mud for a prahara (three hours ); VKK 529-532 which quotes two Verses ( on p. 530 ) from RM. This is also called 'Caitrāvali' and 'Madanabhanji' in Saivagama. Vide KV 190 'Caitravihita- Asokastami- Madanatrayodasi - Caitrāvali Madanabhañjikā-Caturdasi-prabhrtın' and RM. (folio 81a 
+Madana and Rati on the night of 13th in a park and worship on 14th; the festival is to be celebrated with obscene words, with songs and music; next morning play with mud for a prahara (three hours ); VKK 529-532 which quotes two Verses ( on p. 530 ) from RM. This is also called 'Caitrāvali' and 'Madanabhanji' in Śaivagama. Vide KV 190 'Caitravihita- Asokastami- Madanatrayodasi - Caitrāvali Madanabhañjikā-Caturdasi-prabhrtın' and RM. (folio 81a 
 
 verses 1381-1384 ABORI 36 p. 333–34 ), KR 137–138. Kāmavrata-(1) for women alone, KKV 421-424, HV II. 
 
@@ -1265,7 +1265,7 @@ not for those beyond the pale of caste system; fast for 7 or
 
 (Soc. I, Ch. XIII 
 
-3 days or one day according to physical ability; first pājā of Ganesa, Mātrs, Skanda and Śiva and then homa which was to be in a kunda by a brāhmaṇa who had taken initia tion as a Saiva or by persons belonging to arranga (Maga brāhmaṇas or Parsi ?) families; eight maidens to be fed and eight brāhmaṇas to be invited; HV II. 326-332 
+3 days or one day according to physical ability; first pājā of Ganesa, Mātrs, Skanda and Śiva and then homa which was to be in a kunda by a brāhmaṇa who had taken initia tion as a Śaiva or by persons belonging to arranga (Maga brāhmaṇas or Parsi ?) families; eight maidens to be fed and eight brāhmaṇas to be invited; HV II. 326-332 
 
 (from Kālikāpurāṇa ). Kālāstamīvrataron Bh. kr. 8 with Mrgaśiras nakṣatra; tithi 
 
@@ -4015,7 +4015,7 @@ prefixed to a tithi. The Khanapur plate of Mādhavavarman records the grant of v
 
 that it was between 510-560 A.D.). Mahāvrata-(1) In M. or Cai. a person may donate guờadhenu 
 
-and should subsist only on jaggery on 3rd tithi; he reaches goloka; Mat. 101. 53 q. by KKV 446 (32nd Şastivrata), KR 118; for Gudadhenu vide Mat. 82 and H. of Dh. II. 880 ; (2) begin with fast on 14th or 8th śu., when in conjunc tion with Sravana-naksatra; tithivrata; Śiva deity; to be performed by kings; HV I. 864-865 (from Kālottara ); (3) on K. amāvāsyā or pūrnimā a person should take up niyamas, eat by nakta way pāyasa with ghee, use sandalwood and sugarcane juice ; on following pratipad he should fast and invite eight or sixteen Saiva brāhmaṇas (for dinner); Śiva deity; should bathe Śiva image with pañcagavya, ghee. honey and other things and lastly with warm water; offer naivedya, donate to ācārya and brāhmaṇas with their wives gold, garments &c.; this vrata to be performed for 16 years with some different arrangements of nakta and upavāsas on different tithis acc. to the year; it confers long life, beauty, saubhagya on male or female performer; HV I. 377–391 (from Kālikā-purāṇa); (4) fast on each paurṇamāsī and worship Hari as sakala Brahma and on amāyāsyā as niṣkala (partless ) Brahma; for one year; all sins are destroyed and he reaches heaven; if performed for 12 years, reaches Viṣṇuloka; Vi. Dh. III. 198. 1-7, q. by HV II, 461; 'Sakala' means 'sāvayava' (with parts ) i. e. in an anthropomorphic form ( such as Viṣṇu, with four arms ), whilo niskala 'Brahma would be without parts as described in Mundakopanisad II. 2. 9; (5) on 8th or 14th tithi in both fortnights observe nakta way and worship Śiva; one year; reaches the highest goal; HV II. 398 (from Lin.). 
+and should subsist only on jaggery on 3rd tithi; he reaches goloka; Mat. 101. 53 q. by KKV 446 (32nd Şastivrata), KR 118; for Gudadhenu vide Mat. 82 and H. of Dh. II. 880 ; (2) begin with fast on 14th or 8th śu., when in conjunc tion with Sravana-naksatra; tithivrata; Śiva deity; to be performed by kings; HV I. 864-865 (from Kālottara ); (3) on K. amāvāsyā or pūrnimā a person should take up niyamas, eat by nakta way pāyasa with ghee, use sandalwood and sugarcane juice ; on following pratipad he should fast and invite eight or sixteen Śaiva brāhmaṇas (for dinner); Śiva deity; should bathe Śiva image with pañcagavya, ghee. honey and other things and lastly with warm water; offer naivedya, donate to ācārya and brāhmaṇas with their wives gold, garments &c.; this vrata to be performed for 16 years with some different arrangements of nakta and upavāsas on different tithis acc. to the year; it confers long life, beauty, saubhagya on male or female performer; HV I. 377–391 (from Kālikā-purāṇa); (4) fast on each paurṇamāsī and worship Hari as sakala Brahma and on amāyāsyā as niṣkala (partless ) Brahma; for one year; all sins are destroyed and he reaches heaven; if performed for 12 years, reaches Viṣṇuloka; Vi. Dh. III. 198. 1-7, q. by HV II, 461; 'Sakala' means 'sāvayava' (with parts ) i. e. in an anthropomorphic form ( such as Viṣṇu, with four arms ), whilo niskala 'Brahma would be without parts as described in Mundakopanisad II. 2. 9; (5) on 8th or 14th tithi in both fortnights observe nakta way and worship Śiva; one year; reaches the highest goal; HV II. 398 (from Lin.). 
 
 H, D, 48 
 
@@ -5371,7 +5371,7 @@ mountains, vide H. of Dh. vol. IV. p. 560, note 1260. śaivanaksatravrata-begin 
 
 śu.; subsist by nakta method but avoid oil and salt; worship Śiva associating each of his limbs from feet to head separa tely with the naksatras from Hasta in the form 'Śivayeti ca Hastena pādau sampūjayed-vibhoh'; donate on all nakta days a prastha of rice grains with a vessel of ghee; on pāraṇā donate images of Śiva and Umā, a bedstead fully furnished, a cow; naksatravrata; Śiva deity; HV II. 703-706 
 
-(from Vi. Dh. ). Saivamahāvrata–(1) Begin from P. 8th; subsist in nakta way 
+(from Vi. Dh. ). Śaivamahāvrata–(1) Begin from P. 8th; subsist in nakta way 
 
 throughout but on 8th of both pakṣas fast; worship Śiva thrice in the day, offer homa, sleep on ground; on P. pārpimā offer Mahāpājā with ghee &c.; offer dinner to eight brāhmaṇas and present a pair of cows and a kapila bull; in M. and the following months he is to subsist by nakta on different kinds of food in each month up to Mārg.; māsa. vrata; HV II. 843–848; (2) in K. subsist by nakta way; at end of month offer oilcake with jaggery and ghee; fast on 8th and 14th; in the months from Mārg. different objects connected with Śiva are to be presented to the image of Śiva; 
 
