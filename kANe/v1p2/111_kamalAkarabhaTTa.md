@@ -213,7 +213,7 @@ There are some interesting observations he makes. For example, if a man does not
 
 स्थापने नाधिकारोस्ति विष्णोर्वा शङ्करस्य वा । .. इति बृहन्नारदीयस्कान्दोक्तेरिति त्रिस्थलीसेतो पितामहचरणाः । चतुर्वर्णैरिति पूर्वानवचनाद्विष्ण्वादिप्रतिष्ठायां 
 
-e fertig gfa TT. PH: 1 fa. fh. p. 337. The Devipurāṇa verse quoted in the Krtyakalpataru is : a vitur fasgr: qfa छाप्यः सुखार्थिभिः । भैरवोपि चतुर्वर्णरन्त्यजानां तथा मतः । मातरः सर्वलोकैस्तु PIET: 541: AT:1 (p. 336 of fauiters): 
+e fertig gfa TT. PH: 1 fa. fh. p. 337. The Devipurāṇa verse quoted in the Kr̥tyakalpataru is : a vitur fasgr: qfa छाप्यः सुखार्थिभिः । भैरवोपि चतुर्वर्णरन्त्यजानां तथा मतः । मातरः सर्वलोकैस्तु PIET: 541: AT:1 (p. 336 of fauiters): 
 
 936 
 

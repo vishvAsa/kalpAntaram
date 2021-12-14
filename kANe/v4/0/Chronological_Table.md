@@ -63,7 +63,7 @@ works 1080 A, D.-1100 A. D.--Vijñānesvara, the author of the Mitālsarā
 
 commentary on Yājñavalkya-smrti 1080 A, D.-1110 A D Govindarāja, a commentator of Manusmrti 1100-1130 A D-Laksmīdhara, the author of a vast digest on 
 
-Dbarmaśāstra called Kalpataru or Krtyahalpataru 1100-1150 A D-Jīmātavāhana, author of the Dāyabhāga, Kala 
+Dbarmaśāstra called Kalpataru or Kr̥tyahalpataru 1100-1150 A D-Jīmātavāhana, author of the Dāyabhāga, Kala 
 
 viveka and Vyavahāramātrkā. 1100–1150 A. D Bhavadevabbatta, author of Prāyaścıtta-prakarana 
 
@@ -85,7 +85,7 @@ Brābmanasarvasva 1260 AD-1270 A.D-Caturvargacintamani of Hemadri 1275 A.D.-1310
 
 pradipa and other works 1300 A.D.-1370 A.D-Candesvara, author of Grhastharatnākara, 
 
-Vivādaratnākara, Krtyaratnākara and other works 1300 A.D.-1380 A.DSāyana, compiler of bhāsyas on Vedic 
+Vivādaratnākara, Kr̥tyaratnākara and other works 1300 A.D.-1380 A.DSāyana, compiler of bhāsyas on Vedic 
 
 Sambıtās and Brābmanas 1300 A.D.-1380 A.D.--.Madhavācārya, commentator of Parāsara 
 

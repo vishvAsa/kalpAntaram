@@ -195,7 +195,7 @@ Calcutta, Dayabbāga of Jimītavāhanam-edited by Pandit Jivānanda, 1893. Devap
 
 Nirṇayasagara Press, Bombay (1926). Dipakalikā of Śūlapāṇi (edited by Mr. J. R. Gharpure, 1939). GopinathaVide Samskāra-ratna-māla. Grhastharatnākara of Caṇdesvara-published in the B. I. series. Haradatta -Vide Gautamadharmasūtra, Harihara-Vide Pāraskaragļhya. Hemādri-Vide Caturvarga-cintamani. 
 
-Jātiviveka--Deccan College Ms. No 347 of 1887-1891. Jayarama-Vide Pāraskaragphya. Karka-Vide Paraskaragshya. Krtyakalpataru-Ms. in the possession of Rao Bahadur Ranga 
+Jātiviveka--Deccan College Ms. No 347 of 1887-1891. Jayarama-Vide Pāraskaragphya. Karka-Vide Paraskaragshya. Kr̥tyakalpataru-Ms. in the possession of Rao Bahadur Ranga 
 
 swami Ayyangar. Kṛtyaratnākara by Candeśvara-(B. I. series, 1925). Madanapārijāta of Madanapāla and Visvesvarabhatta (B. I. 
 

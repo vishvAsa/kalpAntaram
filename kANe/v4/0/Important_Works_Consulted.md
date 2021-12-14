@@ -97,9 +97,9 @@ Grbastbaratnākara of Candeśvara (B. I. Series ) Grhyāgaisāgara of Nārāyana
 
 Society) Halāyudha's com. on Katyāyana's Srāddhasūtra (mis. No 518 p. 170 
 
-of B B. R. A. S. cat. ) Haracarita-cintamani of Jayadratba (Nirn. Kāvyamālā series) Haradatta's com. on Gautamadharmasūtra (Anan ) Hāralatā of Aniruddha (B. I. series ) Hemādri's Caturvarga ciatāmani, section on srāddha (B. I. Series) Jātakas ( ed. by Fausboll) Kalpataru or Krtyakalpataru, sections on asauca, prāyascitta, 
+of B B. R. A. S. cat. ) Haracarita-cintamani of Jayadratba (Nirn. Kāvyamālā series) Haradatta's com. on Gautamadharmasūtra (Anan ) Hāralatā of Aniruddha (B. I. series ) Hemādri's Caturvarga ciatāmani, section on srāddha (B. I. Series) Jātakas ( ed. by Fausboll) Kalpataru or Kr̥tyakalpataru, sections on asauca, prāyascitta, 
 
-srāddha and tīrtha (G.O.S) Kaśıkā, commentary on Panini's sūtras Kāvyamīmāmsā of Rajasekhara (G.O.S.) Krtyaratnākara of Candeśvara ( B. I. series) Ksirasvāmid's com, on Amarakosa ( ed. by K, G. Oak, Poona) Kullūka's com. on Manusmrti (Nir.) Kumārıla's Tantravārtıka and Tuptīkā on Jaimni's sūtras (Anan.) Madanapārijāta (B. I. series) Madanaratna (section on vyavahāra ed. by P. V. Kane for the Anup 
+srāddha and tīrtha (G.O.S) Kaśıkā, commentary on Panini's sūtras Kāvyamīmāmsā of Rajasekhara (G.O.S.) Kr̥tyaratnākara of Candeśvara ( B. I. series) Ksirasvāmid's com, on Amarakosa ( ed. by K, G. Oak, Poona) Kullūka's com. on Manusmrti (Nir.) Kumārıla's Tantravārtıka and Tuptīkā on Jaimni's sūtras (Anan.) Madanapārijāta (B. I. series) Madanaratna (section on vyavahāra ed. by P. V. Kane for the Anup 
 
 . Library series, Bikaner) Mabābhāsya of Patañjali (ed. by Kielhorn in Bombay S. series) Mabārdayakarmavipāka of Māndbātr--D.C. ms.No. 239 of A 1881-82 Medbātıthi's com. on Manusmrti (Mandlik's edition) Mitāksarā of Vijñābesvara, com. on Yājñavalkyasmrti (Nirn.) Nandapandita, author of Vaijayantī, com. on Visnudharmasūtra Nirnayasındbu with Marathi translation (Nun. 2nd ed. of 1935) Pānını's Astādhyāyī vith Siddbānta-kaumudi of Bhattoji (Nirn) Parāsara-Madhavīya (Bombay S. series) Pitrbbaktı of Śrīdatta-D. C. ms. No. 152 of 1892-95 Pitrdayıtā of Aniruddbabbatta (published by Sanskrit Sahitya-parisad, 
 

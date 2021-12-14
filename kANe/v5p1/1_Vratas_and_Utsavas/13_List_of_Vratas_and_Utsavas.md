@@ -13,7 +13,7 @@ ET
 
 AK = Ahalyākāmadhenu (ms). BB = Bhujabalanibandha of Bhoja (ms). BHP = Bhāgavatapurāṇa. BHAV = Bhavisyapurāṇa. BHAVU = Bhavisyottarapurāna. BR = Brahmānda-purāṇa. BRAH = Brahmapurāna. BRV = Brahmavaivarta, Br. S. = Brhat-samhitā of Varāhamihira. DE = Devipurāṇa. DNS = Dvaitanirnaya-siddhanta-sangraha. DS – Dharmasindhu. DT = Durgotsavatattva. DV = Durgotsavaviveka of Sūlapāṇi. 
 
-= Ekādaśitattva. GAR = Garudapurāṇa. GK = Gadādharapaddhati ( Kālasāra portion). HK = Hemādri's Caturvarga-cintāmani on Kāla. HV = Hemādri's Vratakhanda vol. I and II. KAL = Kālikāpurāna. KKN = Naiyatkālika Kāpda of Krtyakalpataru. KKV = Vratakānda of Krtyakalpataru. KN = Kālanirnaya of Mādhava. KNK = Kālanirnaya-kārikā. KR = Krtyaratnākara. KSS = Krtyasāra-samuccaya. KT = Krtyatattva of Raghunandana. KTV = Kalatattva-vivecana. KÜR = Kūrmapurāṇa. KV = Kālaviveka of Jimūtayābana. LIN = Lingapurāṇa. MAR = Mārkandeya-purāṇa. 
+= Ekādaśitattva. GAR = Garudapurāṇa. GK = Gadādharapaddhati ( Kālasāra portion). HK = Hemādri's Caturvarga-cintāmani on Kāla. HV = Hemādri's Vratakhanda vol. I and II. KAL = Kālikāpurāna. KKN = Naiyatkālika Kāpda of Kr̥tyakalpataru. KKV = Vratakānda of Kr̥tyakalpataru. KN = Kālanirnaya of Mādhava. KNK = Kālanirnaya-kārikā. KR = Kr̥tyaratnākara. KSS = Kr̥tyasāra-samuccaya. KT = Kr̥tyatattva of Raghunandana. KTV = Kalatattva-vivecana. KÜR = Kūrmapurāṇa. KV = Kālaviveka of Jimūtayābana. LIN = Lingapurāṇa. MAR = Mārkandeya-purāṇa. 
 
 252 
 
@@ -1359,7 +1359,7 @@ Krsna (with that of Lakṣmi) to be placed in a swing, worshipped with damanaka 
 
 SMK 101. Krṣnadrādaśī—on 12th of Ás. kr.; tithi; fast on 12th and 
 
-worship of Vāsudeva; HV I. 1036–37 ( quoting Var. 46. 147 and calling it Vasudeva-dvādasi ), KKV 329-331. Vide Var. 
+worship of Vāsudeva; HV I. 1036–37 ( quoting Var. 46. 147 and calling it Vasudeva-dvādaśī ), KKV 329-331. Vide Var. 
 
 46. 1-15. Krsnavrata-on 11th; tithi; Krsna; KKV 447 ( quoting Mat. 
 
@@ -1411,7 +1411,7 @@ List of vratas
 
 291 
 
-(both quote same two verses from Linga), TT 135-137, KT 445–447, NS 191, PC 302-303; words ko jāgarti' try to explain the name Kojāgara. This is also called Kaumudi (Skanda q. by Vratārka) and Kojāgara is probably an abbreviation of Kaumudi-jāgara. For Kaumudi-mahotsava vide Krtyakalpataru (on Rājadharma) pp. 182-183 (from 
+(both quote same two verses from Linga), TT 135-137, KT 445–447, NS 191, PC 302-303; words ko jāgarti' try to explain the name Kojāgara. This is also called Kaumudi (Skanda q. by Vratārka) and Kojāgara is probably an abbreviation of Kaumudi-jāgara. For Kaumudi-mahotsava vide Kr̥tyakalpataru (on Rājadharma) pp. 182-183 (from 
 
 Skanda ) and RNP p. 419-421. Kaumudi-vrata-Begin on Āśv. Su. 11 with a fast and jāgara; 
 
@@ -2071,7 +2071,7 @@ Kāmakunda; PC 230. Trisugandha--is formed by trak (cinnamon), cardamom and
 
 patraka in equal quantities; HV I. 44. Trisprśā-one of the 8 kinds of Dyādaśīs when Ekādaśī exists 
 
-for a short time at arunodaya, then follows dvādasi and towards the end of that day before the next morning there 
+for a short time at arunodaya, then follows dvādaśī and towards the end of that day before the next morning there 
 
 is trayodasī, that is trisprśā (HK 261). Vide Pad. VI. 35. Trivikrama-trirūtravrata,begin on 9th of Mārg. śu.; every 
 
@@ -2179,7 +2179,7 @@ relative ( such as son, brother, daughter ) of one dying from snake bite was to 
 
 Dāna-gifts. Vide H. of Dh. vol. II. pp. 837-888 for detailed 
 
-treatment. After that volume was published two more extensive digests on dāna have been published viz. the Krtyakalpataru ( dāna-kānda in 1941 ) and the Dānasāgara of Ballālasena composed in sake 1019 (1169 A. D.) in the B. I. series (ed. by Mr. Bhabatosh Bhattacharya) in three parts). What dānas are to be made on the several naksatras from Krttikā to Bharani are described in Anuśasana 64 which the Dānaśāgara pp. 628-638 and KR (549-555) quote. KR 95–102 sets out the rewards of dānas on the several tithis. The Vi. Dh. III. 317 also speaks of the results of dānas on seasons, months, week-days and naksatras. 
+treatment. After that volume was published two more extensive digests on dāna have been published viz. the Kr̥tyakalpataru ( dāna-kānda in 1941 ) and the Dānasāgara of Ballālasena composed in sake 1019 (1169 A. D.) in the B. I. series (ed. by Mr. Bhabatosh Bhattacharya) in three parts). What dānas are to be made on the several naksatras from Krttikā to Bharani are described in Anuśasana 64 which the Dānaśāgara pp. 628-638 and KR (549-555) quote. KR 95–102 sets out the rewards of dānas on the several tithis. The Vi. Dh. III. 317 also speaks of the results of dānas on seasons, months, week-days and naksatras. 
 
 List of vratas 
 
@@ -2847,7 +2847,7 @@ advent of night four images of Gaurl to be made of wet clay and an additional on
 
 khanda ). Pañcabhangadala--the leaves of the five trees, mango, aśvattha, 
 
-vata, plakṣa and udumbara (Krtyakalpataru on Sānti, 
+vata, plakṣa and udumbara (Kr̥tyakalpataru on Sānti, 
 
 folio 7a). Pañcamahūpāpanāśanadvādasi- In the beginning of Śr.; on 12th 
 
@@ -3881,7 +3881,7 @@ marutah).. . Malamāsakriya--for actions to be done in intercalary month
 
 section on Kāla &c. Malludvādasi-on Mārg. śu. 12; on the banks of Yamuna Krsna 
 
-sported at the foot of Bhāṇdīravata on Govardhana hill in the midst of cowherds (who were wrestlers) and Gopis; the 'Wrestlers worshipped him with flowers, with milk, curds and edibles; for one year on each 12th; the mantra is ‘may Krsna be pleased with me'; this was also called Aranyadvādasi since cowherds and wrestlers gave edibles to each other in a forest; reward is health, strength, prosperity and Visnuloka; 
+sported at the foot of Bhāṇdīravata on Govardhana hill in the midst of cowherds (who were wrestlers) and Gopis; the 'Wrestlers worshipped him with flowers, with milk, curds and edibles; for one year on each 12th; the mantra is ‘may Krsna be pleased with me'; this was also called Aranyadvādaśī since cowherds and wrestlers gave edibles to each other in a forest; reward is health, strength, prosperity and Visnuloka; 
 
 Hy I. 1115-1117 from Bhay. U... Maltārimahotsavaron Mārg. “su. 6; the wife of Mallāri is 
 
@@ -3955,7 +3955,7 @@ yields great reward; HV II, 196–197 (from Bhav.). Mahāpauṣi_GK 600. Vide ex
 
 Kārtika. Mahāphaladvādasi-On P. kr. 11th with Viśākhā-naksatra; 
 
-Viṣnu deity; for a year; use certain things for purification of the body in the several months and donate on duādasi each month one out of the several things in order, such as ghee, sesame, rice; on death reaches Visṇuloka; HV I. 
+Viṣnu deity; for a year; use certain things for purification of the body in the several months and donate on duādaśī each month one out of the several things in order, such as ghee, sesame, rice; on death reaches Visṇuloka; HV I. 
 
 1095-96 ( from Visṇurahasya ). Mahāphalavrata-for a pakṣa, four months or a year; the per 
 
@@ -4097,7 +4097,7 @@ deity; one should fast on this day and ask their pardon with devotion; they best
 
 has a single child is blessed with progeny; HV I. 951-52. Mārgapāli-bandhana-on K. śu. 1; vide p. 205 above. Mārgaśirṣakrtya-Vide KR 442-474, VKK 482-487, NS 209-211, 
 
-SmK 427-432. The whole of the month is held sacred in the Tamil country and bhajan parties go round the whole morning; the Gitā (X. 35 ) avers that Mārg. is the best among months and identifies it with Lord Krsna. Some of the less important matters may be noted here. In Kṛtayuga the gods began the year on the first tithi of Mārg, and the sage Kāśyapa created the beautiful Kāśmira country; therefore celebration should be held on it (KR 452 ); Mārg. su. 12 a person should fast on the 12th tithi on each dyādasi for a year from Mārg. to K. and should on each dyādaśī dwell on one of the twelve names of Visnu from Keśava to Damodara and offer worship; he becomes jātismara (one 
+SmK 427-432. The whole of the month is held sacred in the Tamil country and bhajan parties go round the whole morning; the Gitā (X. 35 ) avers that Mārg. is the best among months and identifies it with Lord Krsna. Some of the less important matters may be noted here. In Kṛtayuga the gods began the year on the first tithi of Mārg, and the sage Kāśyapa created the beautiful Kāśmira country; therefore celebration should be held on it (KR 452 ); Mārg. su. 12 a person should fast on the 12th tithi on each dyādaśī for a year from Mārg. to K. and should on each dyādaśī dwell on one of the twelve names of Visnu from Keśava to Damodara and offer worship; he becomes jātismara (one 
 
 List of tratas 
 
@@ -4233,7 +4233,7 @@ ing in the waters of the Yamunā; GK 601. Yātrā (festive procession or festiva
 
 
 
-The Mahāyiracarita of Bhavabhūti was brought on the stage on the occasion of the Yātrā of Kālapriyanātha. Vide 'Yātrātattva' ascribed to Raghunandana, published in the Sanskrit Sahitya Parishat series ( in Bengali script) which describes the twelve festivals of Visnu. The Anargha rāghava of Murāri was presented on the stage in the yātrā of Purusottama (Act. I prastāvanā). Vide Karamdāndā Inscription of the time of Kumāragupta in Gupta samvat 117 (436 A.D.) for reference to Devadroni (image procession) of Mahādeva Pṛthvīśvara in E. I. vol. X p. 70. Vide Krtya kalpataru (on Rajadharma ) pp. 178-181 (from Brahma purāṇa) on Devayātrā-vidhi which was to be celebrated every year in the six months from Vaiśākha and on the tithis from 1st to 15th different gods such as Brahmā ( lords of the tithis) were to be worshipped; RNP pp. 416-419. 
+The Mahāyiracarita of Bhavabhūti was brought on the stage on the occasion of the Yātrā of Kālapriyanātha. Vide 'Yātrātattva' ascribed to Raghunandana, published in the Sanskrit Sahitya Parishat series ( in Bengali script) which describes the twelve festivals of Visnu. The Anargha rāghava of Murāri was presented on the stage in the yātrā of Purusottama (Act. I prastāvanā). Vide Karamdāndā Inscription of the time of Kumāragupta in Gupta samvat 117 (436 A.D.) for reference to Devadroni (image procession) of Mahādeva Pṛthvīśvara in E. I. vol. X p. 70. Vide Kr̥tya kalpataru (on Rajadharma ) pp. 178-181 (from Brahma purāṇa) on Devayātrā-vidhi which was to be celebrated every year in the six months from Vaiśākha and on the tithis from 1st to 15th different gods such as Brahmā ( lords of the tithis) were to be worshipped; RNP pp. 416-419. 
 
 Yugāditithis-Vide H. of Dh, vol. IV. p. 374 note 841 and Nār. 
 
@@ -4621,7 +4621,7 @@ List of vratas
 
 Vanjulīvrala-Vañjuli is one of the eight great dvādasīs enume 
 
-rated above on p. 119; Vañjuli is dyādaśī that exists the whole of one civil day (from sunrise to sunrise ) and extends over the next day, so that it is possible to fast on dvādasi and perform pāraṇā not on the next tithi but on dvādasi itself; worship of golden image of Nārāyana; in merit it is superior to thousands of Rājasūya sacrifices; NS 48, SmK 
+rated above on p. 119; Vañjuli is dyādaśī that exists the whole of one civil day (from sunrise to sunrise ) and extends over the next day, so that it is possible to fast on dvādaśī and perform pāraṇā not on the next tithi but on dvādaśī itself; worship of golden image of Nārāyana; in merit it is superior to thousands of Rājasūya sacrifices; NS 48, SmK 
 
 252-253. Vatasūvitrivrała—Vide above pp. 91–94. Vatsarādhipapūjām(worship of the lord of the year). The 
 
@@ -4983,7 +4983,7 @@ quote Devipurāṇa ). Viṣnusayanotsava--The festival on the sleeping of Viṣ
 
 on the 11th or 12th of Āṣ. śu.; NS 102; vide above pp. 109 110 for Viṣnusayana. This is not to be performed in inter 
 
-calary month. Viśṇuśśikhalu-yoga—when dyādasi is mixed up with ekādaśı 
+calary month. Viśṇuśśikhalu-yoga—when dyādaśī is mixed up with ekādaśı 
 
 and dvādaśi has also Śravana-naksatra on it, it is called 
 
@@ -5345,7 +5345,7 @@ fuddhivrata-on last five days at the end of Sarad or on ekādaśīs
 
 in the twelve months; tithivrata: Hari deity; when ocean was churned five cows rose; from them sprang five holy things, viz. cowdung, rocanā (yellow pigment), milk, urine, curds and ghee; from cowdung was produced bilva tree named śrivrksa as Lakṣmi dwells on it; from gorocanā arose all auspicious desires, guggulu from cow-urine, all strength in the world from cow's milk, all auspicious things from curds, all splendour froin ghee; therefore bathe Hari with milk, curds and ghee and worship with guggulu, lamps &c. and Agasti flowers; performer reaches Visnuloka and even his pitrs who might be in hell go to heaven; he should donate a cow and the gifts called jaladhenu, ghrtadhenu, madhudhenu; 
 
-he is freed from all sins; HV I. 1156-58 (from Vahnipurāṇa). Sukladıādaśī—same as Subhadvādasi immediately below. śubhadrūdasī-begin on 1st of Mārg. su., observe ekabhakta from 
+he is freed from all sins; HV I. 1156-58 (from Vahnipurāṇa). Sukladıādaśī—same as Subhadvādaśī immediately below. śubhadrūdasī-begin on 1st of Mārg. su., observe ekabhakta from 
 
 1st to 9th tithi; on 10th after bath worship Keśava at mid-day; on 12th of both pakṣas donate sesame and gold in four months from Mārg.; in 4 months from Cai. donate vessels full of groats and gold; similarly worship Govinda in Srāvana and following three months; on 12th of K, he should prepare a golden model of the earth with seven pātālas and mountains and place it before (image of) Hari; worship Hari; jāgara; next morning donate to each of 21 brāhmaṇas a cow, a bull, a pair of garments, ring, golden wristlet and ear-ornament, a village (for a royal performer ) and on kr. 12 a silver model of the earth and donate it; performer secures all prosperity and Viṣnuloka; KKV 340–343, HV I. 1101-1103 ( quoting about twentyone verses 
 

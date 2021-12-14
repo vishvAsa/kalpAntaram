@@ -2121,11 +2121,11 @@ country' 134. and no punishment 4, 33, 244; Ideal
 
 Kūsmānda, mantras called 353. description of, is sometimes asso ciated with the picture of anarchy Lagbu-Asvalayana, smrti of 6460, 927. 244. 
 
-Laghu-Hārita 701n. Krtyakalpataru (see Karpataru), a work Laghu-Viṣnu 764n. 
+Laghu-Hārita 701n. Kr̥tyakalpataru (see Karpataru), a work Laghu-Viṣnu 764n. 
 
 13, 3019. 
 
-Laghu-Vyāsa 872n. Krtyaratnākara 873a. 
+Laghu-Vyāsa 872n. Kr̥tyaratnākara 873a. 
 
 Lakṣaboma 228. Ksapanakas, held Veda unauthorita 
 

@@ -293,7 +293,7 @@ In several later works a digest called Viśvarūpa-uibandha is frequently cited.
 
 585 
 
-(commentary) on the Sraddhakalikā.732 The Krtyacintāinani of Sivarima ( No. 221 of 1879-80 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4 ) quotes several 33 verses from Viśvara panibandha on supinda relationship in marriage, which are not found in the Balakridā. but which agree 
+(commentary) on the Sraddhakalikā.732 The Kr̥tyacintāinani of Sivarima ( No. 221 of 1879-80 in the Govt. Mss. Lib. at the B. O. R. Institute, Poona 4 ) quotes several 33 verses from Viśvara panibandha on supinda relationship in marriage, which are not found in the Balakridā. but which agree 
 
 remarkably with the words of the Mit. on Yāj. I. 53. The Varsakriyakaumudi (pp. 378, 380) mentions Viśvarupa nibandha and quotes two verses cited therein. The Tithi nirnaya-sarvasamuccaya ( later than 1450 A. D.) quotes certain lcarileti.s of Viśvarupa on the 18 varieties of Ekadasi.734 The Kalanirnayasiddhantavyakhya ( composed in 1653 A. D.) quotes certain verses of Viśvarūpa on the question of the disposal of food prepared for a marriage when a period of impurity on death supervenes.135 The Nirnayasindhu also quotes verses of Viśvarūjia. From these data it follows that a Viśvarūpa composed a commentary on Srāddhakalikā and also wrote a digest on matters of acara and other topics of dharma in prose and verse. Raghunandana in his Udvāha-. tattva (ed. by Jivananda, p. 116) names a Viśvarupa samuccaya. It is likely that it is the same as Viśvarapa nibundlhn. 
 

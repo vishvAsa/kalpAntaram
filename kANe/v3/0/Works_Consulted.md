@@ -143,7 +143,7 @@ of Manusmrti). Grhastharatnākara of Candeśvara (B. I. Series ). Haradatta's co
 
 Kamasutra of Vatsyāyana (Chowkhamba Sanskrit Series ). - Kaśikā, commentary on Pāṇini's sūtras (Benares). Kavyanzimāmsā of Rajasekhara (Gaikwad Oriental Series ). Khandadeva's Mimāṁsākaustubha (Chowkhamba Sanskrit 
 
-Series ). Kęspabhatta-vide under Nirnayasindhu. Krtyaratnākara of Candeśvara (B. I. Series ). Kșirasvāmin's commentary on Amarakośa (edited by Mr. K. G. 
+Series ). Kęspabhatta-vide under Nirnayasindhu. Kr̥tyaratnākara of Candeśvara (B. I. Series ). Kșirasvāmin's commentary on Amarakośa (edited by Mr. K. G. 
 
 Oak, Poona, 1913). Kullūka's commentary on Manusmrti (published by Nirnaya. 
 

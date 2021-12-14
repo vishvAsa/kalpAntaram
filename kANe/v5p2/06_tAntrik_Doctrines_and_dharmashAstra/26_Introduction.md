@@ -1041,7 +1041,7 @@ purāṇa also contains many mantras of the Tantrik typo. Obap. 121 verses 15-17
 
 of a mantra for paralysing ( stambhand) of an enemy. Chap. 133–135 of the Agni contain several mantras of the Tantrik type. Chapter 307 contains several mantras of bringing under control the three worlds. 
 
-A mantra called Mahāśvetā is spoken of in the Bhavisya purāṇa which is nientioned in the Krtyakalpataru on vrata (p. 9) and in Ekādaśitattva p. 40 and it is' brām hrim sah' and the japa of that mantra on Sunday with fast is said to yield what one desires. 1736 
+A mantra called Mahāśvetā is spoken of in the Bhavisya purāṇa which is nientioned in the Kr̥tyakalpataru on vrata (p. 9) and in Ekādaśitattva p. 40 and it is' brām hrim sah' and the japa of that mantra on Sunday with fast is said to yield what one desires. 1736 
 
 The later medieval digests on Dharmaśāstra. adopt the Prānapratistha mantra erolved by the Sāradātilaka (XXIII, 71– 76). The Dorapratisthā tattva 1797 (pp. 506-507) quotes there verses from Saradātilaka, sets out the mantra and explains the versos at length. The Divyatattva also (pp. 609-610) does the same. The Vyavahāramayūkha (p. 86 ) sets out the same mantra for the consecration of the image of Dharma in the ordeal of Dharma without expressly naming the Sāradātilaka. The Nirnayasindhu (pp. 349-350 ) has an elaborate rite of the Prānapratisthā of images full of Tantrik elements like the words vaṣat, brim, and phat and employs the same procedure as the one prescribed by the Sāradātilaka without expressly mentioning the latter. The Sāradātilaka appears to follow earlier works like the Jayākhyasamhitā (Patala XX) and Prapaioasāra tantra ( 35. 1-9 ff). 
 

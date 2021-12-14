@@ -181,7 +181,7 @@ dbānidhi. 1400 A. D.-1450 A. D.—Nyāyasudhā of Someśvara, a
 
 commentary on Tantrarārtika. 1425 A. D.-1460 A. D.–Rudradhara, author of Varsa. 
 
-krtya, Suddhiviveka and other works. 1425 A. D.-1490 A.D.-Vācaspati, author of Krtya 
+krtya, Suddhiviveka and other works. 1425 A. D.-1490 A.D.-Vācaspati, author of Kr̥tya 
 
 cintāmaṇi and numerous works called Cintīmaṇi 
 
@@ -191,7 +191,7 @@ viveka, Gangākrtyaviveka and other works. 1513 A, D.-1580 A. D.--Nārāyaṇabh
 
 Tristhalīsetu, Prayogaratna etc. 1520 A. D.-1575 A. D.-Raghunandana, author of many 
 
-works called Tattvas, such as Tithitattva, Ekādasi 
+works called Tattvas, such as Tithitattva, Ekādaśī 
 
 tattra etc. 1554 A. D.-1626 A. D.- Appayyadikṣita, author of 
 

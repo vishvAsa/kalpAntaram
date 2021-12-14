@@ -748,7 +748,7 @@ to be distributed to helpless ing curses and figures of zodia people, to the bli
 
 Babylonians : B. and Assyrians Ayācita, is a substitute method 
 
-based astrology on three 88 for an absolute fast on sumptions 546; B. and Greeks ekādasi 100-103. 
+based astrology on three 88 for an absolute fast on sumptions 546; B. and Greeks ekādaśī 100-103. 
 
 had no generally believed Ayana, meaning of, in Rgveda, 
 
@@ -2138,7 +2138,7 @@ alternative to Ekadasi 101. Ekādali ( vide under . Pāraṇā'):
 
 datami, observanoes for 115.1 
 
-116; dvādasi, observances on 117; fast on e. mixed with dalami is condemned by Nāra diya and others 114; four kinds of vedhas of E. by Dabar mi 114; if there is Ekadasi on two days, householders should tast on the earlier and Sapnya sing on the later 115; is ex ception to the general defini. tion of sampūrpā tithi 113; is gampūrṇā when it exists for two muhurtas prior to sunrise of the day on which it existe for 60 ghaṭikās and fast to be observed on that day 113; names of the 24 ekādasis of twelve lunar months and two more in the intercalary month when it occors 108n; order is introduced in conflioting texts on Ekādasi by Kālanirnaya and Nirnayasindhu 115; ques. tion on what tithi fast should be observed when Ekādast is mixed with tenth or twelfth tithi would have to be decided in different ways for Vaiṣpavas and Smārtas and is complioated 113; Smārtas (i. e, all those who do not profess to be Vaiß pavas) have not to follow strict rules of redha laid down for Vaiṣpavas 115; some differ ence in the names of Ekādasis and some reasons for this 109; two ekādasis called sayan! (also called Mabaikādafi) and Prabodhini, on Arīdha bright half and Kārtika bright half 
+116; dvādasi, observances on 117; fast on e. mixed with dalami is condemned by Nāra diya and others 114; four kinds of vedhas of E. by Dabar mi 114; if there is Ekadasi on two days, householders should tast on the earlier and Sapnya sing on the later 115; is ex ception to the general defini. tion of sampūrpā tithi 113; is gampūrṇā when it exists for two muhurtas prior to sunrise of the day on which it existe for 60 ghaṭikās and fast to be observed on that day 113; names of the 24 ekādasis of twelve lunar months and two more in the intercalary month when it occors 108n; order is introduced in conflioting texts on Ekādaśī by Kālanirnaya and Nirnayasindhu 115; ques. tion on what tithi fast should be observed when Ekādast is mixed with tenth or twelfth tithi would have to be decided in different ways for Vaiṣpavas and Smārtas and is complioated 113; Smārtas (i. e, all those who do not profess to be Vaiß pavas) have not to follow strict rules of redha laid down for Vaiṣpavas 115; some differ ence in the names of Ekādasis and some reasons for this 109; two ekādasis called sayan! (also called Mabaikādafi) and Prabodhini, on Arīdha bright half and Kārtika bright half 
 
 · respeotively 99, 109; two kinds of, viz, sampūrṇā and viddhā or khandā 113. 
 
@@ -2978,7 +2978,7 @@ of, in Vyasabhāska 14120, | Jagdish Lal, editor of Yogapātrā
 
 1414. 
 
-627n. Itihasa-purāṇa, meaning of, acc. Jāgara, 26 items of, in Ekādasi 
+627n. Itihasa-purāṇa, meaning of, acc. Jāgara, 26 items of, in Ekādaśī 
 
 to com. un Śat. Br. 815; in vrata 106n. Atharraveda, Sat. Br. and Jaigiṣarya, m. as Sāikbya-yoga Śrauta -sūtras and Kautilya,, teaciier in Saotiparva 1374, 75 816, 819; m. in Tai. Ari (dialogues of J. and Asita Chān. up and Br. Ur. 675; ! Devala ), 1391-92 ( a great reading of, prescribed for all, Yoya teacher in Salya and drija householders by Dakṣa, ī Sauti parrans ), 1398, 1444 819; Upaniṣads speak of (Yoyabhasya on Y. 8. II. 54 
 
@@ -3356,7 +3356,7 @@ L of, described 1041n. : taru ) 1332; devotes consi- Kalivilāsatantra 178n, 181
 
 [ Vol. V 
 
-of what will happen in 693; 1 various interpretations by contrasted with other Yugas Kumārila of P. M. Sutras I, 3, and its special merit stated 11-14, 1274-75. 928; era, one of the earliest Kalpataru : vide Krtyakalpataru, reference to, is in Aryabhatiya Kalyāṇavarman, l. of Sārāvali 649; huge figures of years of, 546. suggested by figures in Śat. Br. 'Kāma, as the First Principal or 690 ; Inscriptions dated in K, . Essence in Atharvaveda 1494 era 649, 650n; in Yugaporāṇa 95; was not neglected, as Gila 827-28 ; Kṣatriyas and Vaisyas identifies Kļspa with K, not exist in K, thongh some learned in conflict with dharma, 1630. writers hold the opposite vier . Kamadhenu of Gopala, friend of As to Kali age, 32 ; started acc. Lakṣmidhara, bat older 249, to tradition in 3102 B. C. 638n; 884. started aco. to Brbatsambitā Kāmakalāvilāga of Puṇyānanda 2426 years prior to śuka era, 1126, 1136-38n. 649; views about beginning Kamalakara : a. of Nirnayasiddha of, differ 648-649. 
+of what will happen in 693; 1 various interpretations by contrasted with other Yugas Kumārila of P. M. Sutras I, 3, and its special merit stated 11-14, 1274-75. 928; era, one of the earliest Kalpataru : vide Kr̥tyakalpataru, reference to, is in Aryabhatiya Kalyāṇavarman, l. of Sārāvali 649; huge figures of years of, 546. suggested by figures in Śat. Br. 'Kāma, as the First Principal or 690 ; Inscriptions dated in K, . Essence in Atharvaveda 1494 era 649, 650n; in Yugaporāṇa 95; was not neglected, as Gila 827-28 ; Kṣatriyas and Vaisyas identifies Kļspa with K, not exist in K, thongh some learned in conflict with dharma, 1630. writers hold the opposite vier . Kamadhenu of Gopala, friend of As to Kali age, 32 ; started acc. Lakṣmidhara, bat older 249, to tradition in 3102 B. C. 638n; 884. started aco. to Brbatsambitā Kāmakalāvilāga of Puṇyānanda 2426 years prior to śuka era, 1126, 1136-38n. 649; views about beginning Kamalakara : a. of Nirnayasiddha of, differ 648-649. 
 
 and Sūdrakamalākara 925-26; Kalkipurāṇa, note op 888. 
 
@@ -3688,7 +3688,7 @@ History of Dharmuokāstra
 
 composite personality viz. as a prince, friend of the Pandavas, a great warrior, statesman and philosopher and also as Ava tāra of Viṣnu 129–130; life of, among cowherds in Bhāyavata, and Viṣng and other Parāṇas 129; Kļṣṇa was one of the Viśṇis, stories and dramatic representations about his kill- ! ing Karosa and imprisoning Bali existed before the Maha bhāṣga 130; Kıṣna cult, vari. ous pbases of, acc. to Dr. R. G. Bhandarkar, 131 ; Krsna's birth on Rohini naksatra, of' which Prajapati is the Lord, 1310; account of birub of K,, from Bbaviṣpottara together with astrological aspects 131-' 132; K. helonged to the Can. dravansa and Budba in legend and astrology is son of the ! Moon and so dionday and Wednesday on 8th of Srāvana were deemed to yield great results 135n; Mabābhārata on Kpśṇa 129, 953; main items in K. vrata are fast, worship of Krpa, jāgara, listening to and repeating hymos and stories of exploits of Krṣṇa and pāraṇā 135; principal items in K, vrata, views differ on, 137-38. most important vrata and atsava celebrated throughout India 128; most sublime praises of Krsna in Mabābhā rata by Yudhisthira, Draupadi and Bhiṣına, 129; nakṣatra of Krśṇa's birth was Abhijit | acc. to Harivamia 133; nume! rous verses on the mābātmya of, 
 
-in Agni, Mat ya ,and Padma Puranas 129; names one hundred and eight of Krsna set out in Brahmānda 977n; pārapā iu K, in some cases may be at niybt, particularly for Vaiṣyaras 139; passed away thirty-six years after Bhāiata war, 687n; people called Vasudevaka and Arjunaka before Pāṇini's times 130; principal time for celebration of K, is midnight of 8th of Srāvana dark half (of Bhadra pada if mooth is pūruimānta), 13t; procedure of K. vrata 133-137; procedure in Dhar masindbo employs Puruṣasākta in K. vrata, while some other works mention do vedic mantra 137; question whether Jan māṣtativrata and Jayaptivrate are identical or different vratas is decided differeatly by diffe reot authurs 132-133; refe rence to Krṛpa Devakipatra in Chān. Up. receiving instruction frow Ghora-Angirasa 129; special roles about pārapā of Janmastami and Jayanti fast 138-139; the K. festival is not found in Krtyakalpataru on Vrata, but a brief reference is made to it in Naiyatakālika section of that work 139-40 ; usage in some territories like Mabārāṣtra of Gopāla-kalā", 139; Weber's theory that the ritual of K. festival was trans. ferred to India from outside based on three points, examin ed and shown to be baseless 140-143. 
+in Agni, Mat ya ,and Padma Puranas 129; names one hundred and eight of Krsna set out in Brahmānda 977n; pārapā iu K, in some cases may be at niybt, particularly for Vaiṣyaras 139; passed away thirty-six years after Bhāiata war, 687n; people called Vasudevaka and Arjunaka before Pāṇini's times 130; principal time for celebration of K, is midnight of 8th of Srāvana dark half (of Bhadra pada if mooth is pūruimānta), 13t; procedure of K. vrata 133-137; procedure in Dhar masindbo employs Puruṣasākta in K. vrata, while some other works mention do vedic mantra 137; question whether Jan māṣtativrata and Jayaptivrate are identical or different vratas is decided differeatly by diffe reot authurs 132-133; refe rence to Krṛpa Devakipatra in Chān. Up. receiving instruction frow Ghora-Angirasa 129; special roles about pārapā of Janmastami and Jayanti fast 138-139; the K. festival is not found in Kr̥tyakalpataru on Vrata, but a brief reference is made to it in Naiyatakālika section of that work 139-40 ; usage in some territories like Mabārāṣtra of Gopāla-kalā", 139; Weber's theory that the ritual of K. festival was trans. ferred to India from outside based on three points, examin ed and shown to be baseless 140-143. 
 
 Index 
 
@@ -3696,7 +3696,7 @@ Index
 
 Krishnamachari, V. T., 2. of 1455, 1457n; the editor of 
 
-Planning in Iodia' 1683n. Krtyak, did not identify many Kyta, implies the number 'four' verses quoted in it, e. g. on p. 
+Planning in Iodia' 1683n. Kr̥tyak, did not identify many Kyta, implies the number 'four' verses quoted in it, e. g. on p. 
 
 ia Tai. Br. 701. 
 
@@ -3710,7 +3710,7 @@ Insoriptions as a cycle of great on Moksa 1112n, 1217 virtue 687; Dharma perfect
 
 527, 897 ; on Vrata 185, Kittikis : are many, acc. to! 211 ( whole of Chap. 98 of 
 
-Satapatha Br. 507 ; do not Matsya q. on pp. 432-435 ), awerve from the east, while 868n, 890n, 897, 1096n, 1105 other nakṣatras do so 507 ; re- (milaman'ra of the Sun), 1106 ferred to as Bahulā by Pāṇini (Mahāśvetā mantra); on Vya 499, 740n, and a man born vahāra 1287. on Babulā may be called Krtyaratnākara 30, 32n, 37-40, Bāhula; said to be seven in 42n, 67, 69, 71n, 79n, 810, Mai, Samh. 5070 ; seven names 82, 890, 92, 93n, 101-2, 110n, of, from Tai. Br. 499; spoken 111-2, 114, 116n, 125, 140, of as wives of the skṣas 498n; 1520, 1540, 156-71, 1740, sabstanoea, persons and crafts- 1779, 180n, 184n, 193, 203n, men governed by K. 560. 2070, 2131-216n, 221n, 3220, Kṛtyakalpataru (1110-30 A.D.) 841, 246n-249n, 481, 660, 
+Satapatha Br. 507 ; do not Matsya q. on pp. 432-435 ), awerve from the east, while 868n, 890n, 897, 1096n, 1105 other nakṣatras do so 507 ; re- (milaman'ra of the Sun), 1106 ferred to as Bahulā by Pāṇini (Mahāśvetā mantra); on Vya 499, 740n, and a man born vahāra 1287. on Babulā may be called Kr̥tyaratnākara 30, 32n, 37-40, Bāhula; said to be seven in 42n, 67, 69, 71n, 79n, 810, Mai, Samh. 5070 ; seven names 82, 890, 92, 93n, 101-2, 110n, of, from Tai. Br. 499; spoken 111-2, 114, 116n, 125, 140, of as wives of the skṣas 498n; 1520, 1540, 156-71, 1740, sabstanoea, persons and crafts- 1779, 180n, 184n, 193, 203n, men governed by K. 560. 2070, 2131-216n, 221n, 3220, Kṛtyakalpataru (1110-30 A.D.) 841, 246n-249n, 481, 660, 
 
 30, 39-40, 410, 47n, 55, 662, 8710, 923n, 926n, 962, 70, 101-3, 115n-6n, 1190, 1243 ; begins with Vāra 124, 139, 149, 9299, 1381 Tratas 57. (quoting Devaladharma-sūtra), | Kftyatattva 880, 91, 93, 110n, 1407, 14090, 14170-180, 111-3, 122 1231-250, 134, 1431n, 1438n, 14400, 1444n, 138, 1390, 1950, 198, 199, 14460-480, 1449, 1450n, 201-2, 207n, 2087, 2280, 241, 
 
@@ -6090,7 +6090,7 @@ Br. for averting Rudra's wrath
 
 of, in Nāradiya-porāna 892; proclamation of, about the 
 
-observance of Ekādasi 892. Rūpasanrddha, meaning of, 
+observance of Ekādaśī 892. Rūpasanrddha, meaning of, 
 
 7890, 1097, 12760. Russell, Bertrand, a. of. Impact 
 
@@ -6952,7 +6952,7 @@ in Rg. I. 191, 1036; found in creation or dissolution of Jiva,
 
 plenty in Atharvaveda 1015; the reference is to the Upādhis 
 
-Krtyadigana and Sairundiano (body and mind ) 1508. 
+Kr̥tyadigana and Sairundiano (body and mind ) 1508. 
 
 hymns of Atharvaveda, 1036; Soul or Souls : ( vide under Sp. similar to those in Hiada 
 

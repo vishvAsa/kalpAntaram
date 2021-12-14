@@ -1933,7 +1933,7 @@ Kṛtyamahārnava, of Vācaspati, p. 847. varnas for that purpose, p. 250; ao
 
 Kṛtyapradipa, a work on Nyāya, ideal time-table for, acc. to kau. tilya, p. 228; duty of a crowned, 
 
-p. 816n. p. 12; condemned by both the Krtyaratnākara, of Candeśvara, pp. cpics when being engrossed in plea 
+p. 816n. p. 12; condemned by both the Kr̥tyaratnākara, of Candeśvara, pp. cpics when being engrossed in plea 
 
 762, 764, 775n. sures does not attend the court of Kṛtyasamuccaya, p. 770n. justice, p. 397; duties of ideal, in 
 

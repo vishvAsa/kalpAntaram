@@ -146,7 +146,7 @@ In the words 'Srāmanakenāgnimādhāya' (Vas. 9. 10 ), the sūtra of Vikhanas s
 
 
 
-and Visnu Dh. S. 90.10 (in prose ) is nearly the same as Vas. 28. 18-19. Besides Vas. 28. 11 occurs in Baud. Dh. S. IV. 3.7. Hence it is hardly proper for any scholar to make the dogmatio assertion that one particular smrti must have borrowed from any other. The rather very corrupt passage in Vasiṣtha (16.21-23 108) very closely resembles a passage of Saṅkha, which is cited by Viśvarūpa on Yāj. I, 305 and by the Krtya-kalpataru. 
+and Visnu Dh. S. 90.10 (in prose ) is nearly the same as Vas. 28. 18-19. Besides Vas. 28. 11 occurs in Baud. Dh. S. IV. 3.7. Hence it is hardly proper for any scholar to make the dogmatio assertion that one particular smrti must have borrowed from any other. The rather very corrupt passage in Vasiṣtha (16.21-23 108) very closely resembles a passage of Saṅkha, which is cited by Viśvarūpa on Yāj. I, 305 and by the Kr̥tya-kalpataru. 
 
 Bühler is of opinion that the home of the school to which the Vas. Dh. S. belonged lay to the north of the Narmadā and the Vindhya (S. B. E. vol. XIV p. XVI). When it is extremely problematical whether the Vas. Dh. S. was the product of a school, it is idle to speculate as to the home of the Vas. Dh. S. Bühler's is no more than a mere conjecture and it is better to admit that we know nothing positive at present on the point. 
 

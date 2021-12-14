@@ -237,7 +237,7 @@ patron's families to the skies they were most unscrupulous and threw to the wind
 
 Halāyudha, the author of the Brāhmaṇasarvasva, is, it appears, different from another Halāyudha who was a jurist. In the first place, Halāyudha, author of the Br. sarvasva, states that he composed four other works, all ending in the word. sarvasva' but makes no mention of any work compos ed by him on substantive or adjective law or on both. 
 
-The Vivādaratnākara mentions Halāyudha 53 times and Halāyudba-nibandha three times. The Grhastharatnākara quotes it eight times and the Krtyaratnākara quotes it on pp. 319, 327, 332. 
+The Vivādaratnākara mentions Halāyudha 53 times and Halāyudba-nibandha three times. The Grhastharatnākara quotes it eight times and the Kr̥tyaratnākara quotes it on pp. 319, 327, 332. 
 
 From Raghunandana's Dāyatattva it appears that Halā yudha had composed a work on law. For example, Halā yudha appears to have held that, if some joint family property was not divided among the coparceners at a partition through ignorance and remained in the possession of one member of the family, it may be partitioned again, but the ignorant possessor should not be charged with theft ( vide Vol. II Dāyatattva p. 182 ).864 Agaio, the Dāyatattva (vol. II p. 195 ) mentions the wrong reading of Yāj II. 139 in the Mitāksarā, Pārijāta and Halāyudha due to the errors of scribes quoted above. 
 

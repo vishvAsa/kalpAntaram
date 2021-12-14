@@ -25,6 +25,6 @@ folio 28 a ; 37191 gay Gazi gā fagnaničarazi pamata uf sta: l ibid folio 28 1�
 
 
 
-Madana pārijāta ) was composed about 1375, while the Vivādaratnākara was composed about 1320 A. D. The Krtyaratnākara meutions the Pārijāta pine times ( on pp. 31. 54, 58, 59, 61, 66, 74, 92, 606 ) and Vivādaratnākara quotes it six times. The Pārijāta was liberal enough to state that the Pāñcarātra, Pāśupata and similar doctrines, where not opposed to the Veda, are authoritative as to those parts (Krtyaratnākara p. 31 ). 
+Madana pārijāta ) was composed about 1375, while the Vivādaratnākara was composed about 1320 A. D. The Kr̥tyaratnākara meutions the Pārijāta pine times ( on pp. 31. 54, 58, 59, 61, 66, 74, 92, 606 ) and Vivādaratnākara quotes it six times. The Pārijāta was liberal enough to state that the Pāñcarātra, Pāśupata and similar doctrines, where not opposed to the Veda, are authoritative as to those parts (Kr̥tyaratnākara p. 31 ). 
 
 Raghunandana in Dāyatattva (vol. II. p. 177 ) Jumps together. Smrti-mahārnava, Kamadhenu anı] Pārijāta' anıl again on p. 195 of the same puts together the Mitāksarā, Pāri. jāta, Halāyudba and holds that a certain passage in the Kalpataru ( that differs ) is due to a mistake of the copyist (vide foot--notesng below ). 

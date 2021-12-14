@@ -77,7 +77,7 @@ Kamadhenu. 841 गोपालमते त्वभिषेकादिपर�
 
 than 1150 A. D. The Smrtyarthasara mentions both Sambhu and Kāmadhenu as its authorities. If Sambhu were the author of the Kāmadhenu according to the Smrtyarthasāra, he would not have been separately mentioned among its authorities by the Smrtyarthasāra ; so I am inclined to hold that Sambhu was not the author of Kamadhenu, but it was Gopāla who was the author of that work. 
 
-It may be noted that the Krtyaratnākara842 of Candeśvara regards the Kamadhenu as holding the same position (or authority ) as the King (i. e. Bhoja ) 
+It may be noted that the Kr̥tyaratnākara842 of Candeśvara regards the Kamadhenu as holding the same position (or authority ) as the King (i. e. Bhoja ) 
 
 As the Kāmadhenu had been completed some years at least before the project of the Kalpataru was started and as it is several times quoted in the Hāralatā of Aniruddha it cannot be placed later than about 1100 A. D. It cannot be earlier than that date since it is not mentioned by Medhātithi, the Mitāksarā or hy Apararka. It may, therefore, be assigned to the period 1100-1110 A. D. 
 
@@ -87,7 +87,7 @@ In the edition of the 1st volume of this history, the present author had quoted 
 
 191HTETTI I 579 - TORE p. 30. 843 Though the Vivādaratnākara and other Ratnākaras of Canleśvara 
 
-generally refer to Prakāśa only, yet Canleśvara in bis Krtyaratnā. kara ( p. 329 ) speaks of Smrtimahārnavaprakisa in the words ' जाबाल-मत्स्यपुराणवाक्यपरामर्शान्निरग्निसकलपुत्रः साग्निभिश्चेतरपुत्रैरेकोद्दिष्ट कार्यमिति स्मृतिमहार्णवप्रकाशकार इति कल्पतरो लिखितमन्यैश्वानुमोदित 
+generally refer to Prakāśa only, yet Canleśvara in bis Kr̥tyaratnā. kara ( p. 329 ) speaks of Smrtimahārnavaprakisa in the words ' जाबाल-मत्स्यपुराणवाक्यपरामर्शान्निरग्निसकलपुत्रः साग्निभिश्चेतरपुत्रैरेकोद्दिष्ट कार्यमिति स्मृतिमहार्णवप्रकाशकार इति कल्पतरो लिखितमन्यैश्वानुमोदित 
 
 '. 
 
@@ -159,7 +159,7 @@ assigned to about 1150-1170 A. D. The Haralata on pp. 41, 117, 174 mentions Kama
 
 ___ The Chanddogahmikasis of Sridatta (about 1270-1300 A. D.) mentions the Kamadhenu several times (e. g. on pp. 12, 16, 17, 22, 24, 46, 58 &c ) and the first verses of that work and of Pitrbhakti are interesting because they mention the doctrines of Gopāla and Bhūpala; Bhūpāla is Bhoja and Gopāla is the author of the Kamadhenu. One or two striking references to the Kamadhenu are cited below in the footnote. 
 
-The Ratnākaras of Canleśvara frequently quote the Kamadhenu. The Krtyaratuākara mentions it on pp. 30 and 299. The Vividaratnakara mentions Kamadhenu very often as on pp. 80, 114, 133, 150, 409, 651. The Dandaviveka of Vardhamāna quotes Kāma henu 25 times and whenever the Kāmadhenu and Kalpataru are inentioned together it puts Kamadhenu first; vide pp. 28, 34, 71, 138, 176, 217. 
+The Ratnākaras of Canleśvara frequently quote the Kamadhenu. The Kr̥tyaratuākara mentions it on pp. 30 and 299. The Vividaratnakara mentions Kamadhenu very often as on pp. 80, 114, 133, 150, 409, 651. The Dandaviveka of Vardhamāna quotes Kāma henu 25 times and whenever the Kāmadhenu and Kalpataru are inentioned together it puts Kamadhenu first; vide pp. 28, 34, 71, 138, 176, 217. 
 
 But it seems to me that they are identical. Aufrecht in his great catalogue (1. 93 ) ascribes the authorship of the Kāmadhenu to Sambhu. Whence he derived this information is not clear. The authors and works cited by him do not, so far as I know, ascribe the Kanadhenu to Sambhu. It is true that Sambhu is credited by the Smrticaudrikā with a digest on dharmuścīstra ( vide note 563 above) and the Smrtyartha sāra also names him as one of the authorities on which it 
 

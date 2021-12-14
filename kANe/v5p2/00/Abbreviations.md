@@ -61,7 +61,7 @@ nandana's Tattvas. J.N. - Jayantinirṇaya. J. U. P. H. S. – Journal of United
 
 Society, J.O.R. = Journal of Oriental Research, Madras. J.R. A. S. = Journal of the Royal Asiatic Society of 
 
-Great Britain. J. V.O.T. – Journal of Venkatesvara Oriental Institute K. N. = Kālanirṇaya of Madhava, K. R = Krtyaratnākara of Candeśvara. K.S.S. = Kashi Sanskrit Series. K.T. – Krtyatattva. K. T. V.=Kālatativavivecana. K. V.=Kālaviveka. M. B. P. = Mimāṁsā-bāla-prakāśa. M. C. = Muhūrta-cintāmaṇi. M. L.J.=Madras Law Journal. Mit. = Mitākṣarā, commentary on Yājñavalkya-smști, M. M. - Mahāmabopādhyāya (title conferred on learned 
+Great Britain. J. V.O.T. – Journal of Venkatesvara Oriental Institute K. N. = Kālanirṇaya of Madhava, K. R = Kr̥tyaratnākara of Candeśvara. K.S.S. = Kashi Sanskrit Series. K.T. – Kr̥tyatattva. K. T. V.=Kālatativavivecana. K. V.=Kālaviveka. M. B. P. = Mimāṁsā-bāla-prakāśa. M. C. = Muhūrta-cintāmaṇi. M. L.J.=Madras Law Journal. Mit. = Mitākṣarā, commentary on Yājñavalkya-smști, M. M. - Mahāmabopādhyāya (title conferred on learned 
 
 men). M. M. – Muhūrtamārtaṇda ( a work). Nir, or. Nirṇ. = Nirnayasāgara Press edition. 
 

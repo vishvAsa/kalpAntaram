@@ -245,7 +245,7 @@ Fergusson College, Poona. 1015 'यच्च जीमूतवाहनेन�
 
 711 
 
-p. 849; (Vol. II.) Ekādasi p. 88. He quotes Kāldviveka frequently e. g. in Tithi pp. 106, 107, 141, 144, Malap.834, Ekādasi pp.41,87; he mentions the Vyavahāramātsaka in Vya, tattva pp. 199, 214, 225, the Dāyabhāga in Dayatattva pp. 164, 174, 194. He names Jimatavāhana frequently as in Vol. I Tithi pp. 24, 144, Prāyaścitta p. 482, Malao pp. 767, 781; ( Vol. II.) Dāyatattva p. 194, Eka dasi pp. 5, 36, 38, 40, 51, 53, 103. 
+p. 849; (Vol. II.) Ekādaśī p. 88. He quotes Kāldviveka frequently e. g. in Tithi pp. 106, 107, 141, 144, Malap.834, Ekādaśī pp.41,87; he mentions the Vyavahāramātsaka in Vya, tattva pp. 199, 214, 225, the Dāyabhāga in Dayatattva pp. 164, 174, 194. He names Jimatavāhana frequently as in Vol. I Tithi pp. 24, 144, Prāyaścitta p. 482, Malao pp. 767, 781; ( Vol. II.) Dāyatattva p. 194, Eka dasi pp. 5, 36, 38, 40, 51, 53, 103. 
 
 Several commentaries on the Dāyabhāga have been published. The more important commentators are (1) Srinatha Ácāryacudā maṇi, Guru of Raghunandana2017 ( flourished about 1470-1540 A. D.); vide JASB ( New Series ) vol. XI. pp. 344–351 for his parentage, works and time of Srinātha; (2) Ramabhadra Nyāyā lankāra Bhattācārya, son of Srinatha-Acāryacūdāmaṇi ( flourished about 1510-1570. Vide for his commentary 'Our Heritage' vol. VI. pt. I pp 43-53; 1. H. Q. vol. 33; (3) Acyutānanda Cakraviartin (flourished about 1510-i570); (4) Mahesvarabhattācārya (about 1530–1600); (5) Srikrsna Tarkālankāra (flourished about the middle of the 18th century ). 
 

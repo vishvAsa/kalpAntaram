@@ -53,7 +53,7 @@ The Purāṇas, as a class of works, were looked upon us encyclopaedias for all 
 
 The chronology of Purāṇas is, like that of the Epics, . subject full of perplexing problems and is not dealt with in this revised edition of the first volume of the H. of Dh, as it has been discussed at length in the H. of Dh. Vol. V. pp. 815 1002 and the views of Pargiter, Kirfel, Dikshitar and Hazra have been set out, discussed and criticized at length in pp. 831-853. Vide also the present author's paper Paurāṇa dharma'in Gode commemoration volume pp. 70-82 for the changes in religious ideas and practices brought about by the Purāṇas or reflected in them. 
 
-It has to be mentioned here that in the first few centuries of the Christian era the idea prevailed that those rules or ordinances ( Dharmas ) that were understood from the Veda are the highest (in authority ), but the rules ( Dharmas ) stated in the Purāṇas ( and similar works ) were inferior.468 This posi tion assigned to the Puranas was changed a few centuries before 1000 A. D. and Purāṇas came to be far more relied upon by works on Dharmaśāstra. For example, the Krtyakalpa taru (about 1125-1160 A. D.) quotes the Purālas even on such a topic as Mokoa much more than the Upaniṣads or the Vedāntasūtra. Aparārka quotes a half verse*** as from Menu ( not found in extant Manusmrti), saying that one should strengthen the Veda by Itibāsa ( i. e. Mahābhārata ) and Pura uas. It is significant that the extensive commentary of Vigvarūpa on Yāj. hardly ever mentions a Purāļa by name, though he twice refers to Purāṇas in a general way on Yaj. III. 170 and 175. He flourished about 800-860 Ą. D. Simi. 453 अतः स परमो धर्मो यो वेदादधिगम्यते । अवरः स तु विज्ञेयो यः पुराणादिषु 
+It has to be mentioned here that in the first few centuries of the Christian era the idea prevailed that those rules or ordinances ( Dharmas ) that were understood from the Veda are the highest (in authority ), but the rules ( Dharmas ) stated in the Purāṇas ( and similar works ) were inferior.468 This posi tion assigned to the Puranas was changed a few centuries before 1000 A. D. and Purāṇas came to be far more relied upon by works on Dharmaśāstra. For example, the Kr̥tyakalpa taru (about 1125-1160 A. D.) quotes the Purālas even on such a topic as Mokoa much more than the Upaniṣads or the Vedāntasūtra. Aparārka quotes a half verse*** as from Menu ( not found in extant Manusmrti), saying that one should strengthen the Veda by Itibāsa ( i. e. Mahābhārata ) and Pura uas. It is significant that the extensive commentary of Vigvarūpa on Yāj. hardly ever mentions a Purāļa by name, though he twice refers to Purāṇas in a general way on Yaj. III. 170 and 175. He flourished about 800-860 Ą. D. Simi. 453 अतः स परमो धर्मो यो वेदादधिगम्यते । अवरः स तु विज्ञेयो यः पुराणादिषु 
 
 ftua: II T q. by Aparārka p. 9 and by Kalpataru (Brshow. 
 
@@ -353,7 +353,7 @@ uttarārdha 2; Padma, Orissa ), 39 (Ekāmra ),
 
 brahmakhanda 13 (jan 40-48 (Jagannātha ), 54 
 
-mūstami), 15 ( ekādasi ); ( Mahākāla at Ujjayinī); 
+mūstami), 15 ( ekādaśī ); ( Mahākāla at Ujjayinī); 
 
 Saura 51 ; Varāha 23-35 Garuda 81-86; Kurma, 
 
