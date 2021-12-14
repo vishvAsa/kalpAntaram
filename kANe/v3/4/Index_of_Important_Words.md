@@ -883,7 +883,7 @@ Sisya Sitā Siva Smārita Smārtakala Sottara Sreni Srenibala Sthanakrta Stbāna
 
 (Vd. 
 
-Sulka Sūnā Suvarna Svāmia Sva Svapurusa Svārājya Svarāt Svayamukti Tapasa Tāyu Tiksna Tirita Tirtha Traipurusika Trayi Treto 
+Sulka Sūnā Suvarṇa Svāmia Sva Svapurusa Svārājya Svarāt Svayamukti Tapasa Tāyu Tiksna Tirita Tirtha Traipurusika Trayi Treto 
 
 775-776 
 

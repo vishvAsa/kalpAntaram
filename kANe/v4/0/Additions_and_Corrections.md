@@ -83,7 +83,7 @@ Nārāyanabhatta's Antyestipaddhati is gene. rally followed, it must be stated h
 
 deceased nor is she then raised up by anybody'. 216 n503 1 1 Read 'मिता on या. III. 2, मद. पा p. 395' 239 line 29 Read' text of Samvarta that a' 244 line 6 Put the figure 555 above Rg VIII. 95. 7-9 265 594a Read in last line but one तद्रूपं देहमन्य 269 0603 1. 2 Read ang CAST HIGHETEN 271 1 35 Add after the word 'death.' 'It should be noted 
 
-that in almost all parts of India except in Bengal members of all varnas including sudras observe by usage only ten days' im. 
+that in almost all parts of India except in Bengal members of all varṇas including sudras observe by usage only ten days' im. 
 
 purity on death 277 1 13 Read 'preferably' 
 

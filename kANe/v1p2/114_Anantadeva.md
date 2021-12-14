@@ -121,7 +121,7 @@ ed, of 1909), 1488 On p. 459 of the Fra FTH ( Nir. ed. of 1909) 37ga says :
 
 
 
-bhakti-candrikā composed by Anantadeva in which the characters are a Saiva, Vaisnara, Minamsaka, Tarika &c. 
+bhakti-candrikā composed by Anantadeva in which the characters are a Saiva, Vaiṣṇara, Minamsaka, Tarika &c. 
 
 In the Smartikaustubha (Nirnayasagara edition of 1909) Anantadeva gives a pedigreel458 of his patron's family. The family claimed descent from the moon. Whether the first three kings, mentioned in the Smrtikaustubha, were related as father and son is doubtful. Laksmanacandra is said to have been the son of Rudracardra and it was lie who conquered several chiefs wielding sway over the Himalayan territories.1490 Trimallacardra, the successor (and probably the son) of Lakṣınararandra, is praised for his continual liberality to the learned men of Benares.74"] It was at the command of Baz Bahadursandra and for pleasing him that Anantadeva compiled his Sirtikaustubha.14 At the end Anantadeva tells us that Baz Babūdurcandra conquered secrii mountain forts in the Himalayas.!!3 After giving a pedigree of his patron's family Anantadevi gives some information about himself. He was a descendant of the great Maratha Saint Ekanātha whom he describes as endowed with Vidic s:1c1ifices and as a devotee 
 
@@ -153,7 +153,7 @@ Anantadeva .
 
 961 
 
-of Kļṣṇa.1494 That this Ekanātha is the same as the great Maratha saint is vouchsafed by Kāśjoātha, author of Dharma sindhu, in another work of his.1495 Anantadeva was the great great-grand-son of Ekanātha and he was the grandson of Ananta and son of Āpadeva, the author of the Mimāṁsā nyāyaprakāśa alias À padevi. Mimāṁsā lore seems to have been a hereditary endowment in the family as in the case of the Bhattas of Benares. In all his works, particularly in the Samskārakaustubha, Anantadeva applies at every step the maxims and doctrines of the Pārvamīmāṁsā for the decision of doubtful points of Dharmaśāstra. Anantadeva had a younger brother Jivadeva whose Gotrapravaranirnaya he draws upon in the Sanskārakaustubha after dealing with sāpindya for marriage in his own way. The quotation is a long one beginning with the words '314 07977faujant gritacasho Tal fenti ta' on p. 179 (b) of HEFTTTH (oblong Nir. edition of 1913 ) and ending on p. 196 ( a ) with the verse: ita & gara पण्डितजनालङ्कारचूडामणिोदातीर जनिर्गुणोच्चयखनिनाम्नापदेवोग्रणीः । तत्सूनोरिह जीवदेवकृतिनः सद्धर्मशास्त्रे कृतो गोत्रागां प्रवरैः सहेयमभवनिणीतिरीशार्पणम् ॥. For account of the 19th of Jaza vide Prof. Devasthali's Cat. No. 1029 p. 369 and Nos. 1210-12 pp. 436–38. Dr. Bhandar kar notices an Áśaucanirṇaya of Jivadeva in which the Nirṇayasindhu is cited as an authority. 1496 
+of Kļṣṇa.1494 That this Ekanātha is the same as the great Maratha saint is vouchsafed by Kāśjoātha, author of Dharma sindhu, in another work of his.1495 Anantadeva was the great great-grand-son of Ekanātha and he was the grandson of Ananta and son of Āpadeva, the author of the Mimāṁsā nyāyaprakāśa alias À padevi. Mimāṁsā lore seems to have been a hereditary endowment in the family as in the case of the Bhattas of Benares. In all his works, particularly in the Samskārakaustubha, Anantadeva applies at every step the maxims and doctrines of the Pārvamīmāṁsā for the decision of doubtful points of Dharmaśāstra. Anantadeva had a younger brother Jivadeva whose Gotrapravaranirṇaya he draws upon in the Sanskārakaustubha after dealing with sāpindya for marriage in his own way. The quotation is a long one beginning with the words '314 07977faujant gritacasho Tal fenti ta' on p. 179 (b) of HEFTTTH (oblong Nir. edition of 1913 ) and ending on p. 196 ( a ) with the verse: ita & gara पण्डितजनालङ्कारचूडामणिोदातीर जनिर्गुणोच्चयखनिनाम्नापदेवोग्रणीः । तत्सूनोरिह जीवदेवकृतिनः सद्धर्मशास्त्रे कृतो गोत्रागां प्रवरैः सहेयमभवनिणीतिरीशार्पणम् ॥. For account of the 19th of Jaza vide Prof. Devasthali's Cat. No. 1029 p. 369 and Nos. 1210-12 pp. 436–38. Dr. Bhandar kar notices an Áśaucanirṇaya of Jivadeva in which the Nirṇayasindhu is cited as an authority. 1496 
 
 West and Bühler in their digest1497 thought that Ananta deva flourished about the same time as the author of the Nirṇayasindhu. But this requires some correction. Baz Baha dur, the patron of Anantadeva, seems to have been a scion of 
 
@@ -185,7 +185,7 @@ V. p. 245. 1499 arruret hele fitiet i fazhhaith TherHT 1
 
 963 
 
-( 25 February 1600). Others give 1548–1599 A. D. as the dates. Whichever date is correct, the literary activity of Anantadeva must be assigned to the third quarter of the 17th century. This date is confirmed by the fact that in the Asaucanirnaya of Jivadeva, younger brother of Anantadeva, the Nirnayasindhu composed in 1611-12 A. D. is cited as an authority. 
+( 25 February 1600). Others give 1548–1599 A. D. as the dates. Whichever date is correct, the literary activity of Anantadeva must be assigned to the third quarter of the 17th century. This date is confirmed by the fact that in the Asaucanirṇaya of Jivadeva, younger brother of Anantadeva, the Nirnayasindhu composed in 1611-12 A. D. is cited as an authority. 
 
 Doubts were expressed by some Marathi writers as to whether Ekanātha, mentioned as the ancestor of Anantadeva, is identical with the well-known Marathi poet and saint Ekanātha. It is unnecessary in this work to discuss that matter. The present author holds that they are identical. Those interested may read the contribution of Dr. P. K. Gode in 'Studies in literary History' vol. II (for 1954) pp. 39-41. 
 
@@ -193,4 +193,4 @@ Anantadeva was a very learned man. He was at home in both Pūrvamimāṁsā and 
 
 On p. 469 of the Smstikaustubha (Nir. ed.) Anantadeva refers to a work called Bhaktiviveka composed by his grand father (Anantadeva I, grandson of Ekanātha ). 
 
-Anantadeva wrote many works on Dharmaśāstra. A few may be mentioned here. He composed Antyeștipaddhati (vide Prof. Velankara's Cat. No. 665 p. 209), Cāturmāsyaprayoga (the same cat. p. 184 No. 575), Bhagavadbhaktinirnaya ( vide Velanakar's Cat. of Iccharam Desai collection (No. 231 ). On भगवन्नामकौमुदी of लक्ष्मीधर he wrote a commentary called Prakāśa ( vide Velankar's Cat. No. 115). 
+Anantadeva wrote many works on Dharmaśāstra. A few may be mentioned here. He composed Antyeștipaddhati (vide Prof. Velankara's Cat. No. 665 p. 209), Cāturmāsyaprayoga (the same cat. p. 184 No. 575), Bhagavadbhaktinirṇaya ( vide Velanakar's Cat. of Iccharam Desai collection (No. 231 ). On भगवन्नामकौमुदी of लक्ष्मीधर he wrote a commentary called Prakāśa ( vide Velankar's Cat. No. 115). 

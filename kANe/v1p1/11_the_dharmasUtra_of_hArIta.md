@@ -46,7 +46,7 @@ According to Kullūka (on Manu 2. 1) the Hārita-dharma sutra opened with the wo
 
 119 The sūtra of Hārita is 'q -oppia atar-fra 4-aralan 
 
-FTU-9999-A79-HATI-gorequirat e tid EIC', on which HIFA says, '249 3ogfaîte: Fring afa ofa tama. 
+FTU-9999-A79-HATI-gorequirat e tid EIC', on which HIFA says, '249 3ogfaīte: Fring afa ofa tama. 
 
 976277: '. 120 'अथातो धर्म व्याख्यास्यामः । श्रुतिप्रमाणको धर्मः । श्रुतिश्च द्विविधा बैदिको 
 
@@ -144,7 +144,7 @@ p. 454. 129 We have there the names frasite, FATUSET519a, Heliantys
 
 Vyavahāra-K. profusely quotes both prose and verses over 70 times. Some pruse passages are very long e. g. on pp. 623-625 on the proper acts for a wife ( Atha patnyācārān anukramiṣyāmah gṛham patni &c. ). Even in Srāddha section there are many huge prose passages on pr. 66-67, 88 (long list of panktidūsakas ), 163, 204. 
 
-Dr. Jolly ( in 1889) collected most of the prose and verse citations from Hārita on the Vyavahāra section. In Jive nanda's collection, we have i Laghu-Hārita-smrti (I pp. 177-193 ) and a Vrddha-Hārītasmști (I. pp. 194-409 ). The former contains seven adhyāyas and about 250 verses, dealing with the duties of the four varṇus and the āśramas and with Yoga. The latter is professedly a Vaisnavite work, said to have been proclaimed by Hārīta to Ambarisa; it is divided into eight chapters and contains about 2600 verses, dealing with the nityu and nuinittiku rites of the vurnus and asramas, the nature of the individual and Supreme Self and the means of attaining hvokṣ%. In the Anandasrama collec tion of smrtis, Vrddha-Hārita is divided into eleven chapters, the first two of Jivananda's being split up into five. The Anandāśrama collection contains a Laghu-Hārita-smrti in 117 verses, which is different from the Laghu-Hārita of Jiva nānda. The former deals with purification from pollutions of various kinds, with prāyaścittas, rules about impurity on birth and death, śrāddba and a few rules about inheritance, pārtition. &c. 129a 
+Dr. Jolly ( in 1889) collected most of the prose and verse citations from Hārita on the Vyavahāra section. In Jive nanda's collection, we have i Laghu-Hārita-smrti (I pp. 177-193 ) and a Vrddha-Hārītasmști (I. pp. 194-409 ). The former contains seven adhyāyas and about 250 verses, dealing with the duties of the four varṇus and the āśramas and with Yoga. The latter is professedly a Vaiṣṇavite work, said to have been proclaimed by Hārīta to Ambarisa; it is divided into eight chapters and contains about 2600 verses, dealing with the nityu and nuinittiku rites of the vurnus and asramas, the nature of the individual and Supreme Self and the means of attaining hvokṣ%. In the Anandasrama collec tion of smrtis, Vrddha-Hārita is divided into eleven chapters, the first two of Jivananda's being split up into five. The Anandāśrama collection contains a Laghu-Hārita-smrti in 117 verses, which is different from the Laghu-Hārita of Jiva nānda. The former deals with purification from pollutions of various kinds, with prāyaścittas, rules about impurity on birth and death, śrāddba and a few rules about inheritance, pārtition. &c. 129a 
 
 It is noteworthy that Aparārka (on Yāj. III. 254 ) quotes Vṇddha-Hārita and Hārīta, both in prose, one immediately after the other. Vrudha-Hīrīta in prose is cited by the Mit. on Yāj. III. 259, 261. Some comparatively early com mentators and digest-writers started the theory that authors 
 
@@ -178,7 +178,7 @@ That some of the verses ascribed to Hārita are very anci ent follows from sever
 
 (ब्रह्मचारि० p. 24 ). Vido Kr̥tyaratnākara pp. 29-30 for similar words. 130 राजधर्मायमित्येवं प्रसङ्गात् कथितो मया । कात्यायनेन मनुना याज्ञवल्क्येन 
 
-धीमता ॥ नारदेन च संप्रोक्तं विस्तरादिदमेव हि । तस्मान्मया विस्तरेण नोक्त मत्र नृपोत्तम ॥ (Jivananda I, 4th chap. p. 205 ; Ādandāśrama, 7th chap. 270-272 ), That the author of Viddha-Hārīta was a rigid Vaisnava follows from two verses in I. 25, 27 अवैष्णवास्तु ये विप्राः पाषण्डास्ते नराधमाः। तेषां त नरके वासः कल्पकोटिशतैरपि ॥ अचक्रधारी यो विप्रो बहुवेदश्रुतोष वा । स जीवन्नेव चाण्डालो मृतो निरयमाप्नुयात् ॥ वृद्धहारीत 9. 230-21 quotes प्रायश्चित्तरपैत्येनो. as from Yogesvara ( Yaj. III. 226). It.mos ry tions • Sanidina' । Saturday ) in 8.386 and Bhargava-vishra 
+धीमता ॥ नारदेन च संप्रोक्तं विस्तरादिदमेव हि । तस्मान्मया विस्तरेण नोक्त मत्र नृपोत्तम ॥ (Jivananda I, 4th chap. p. 205 ; Ādandāśrama, 7th chap. 270-272 ), That the author of Viddha-Hārīta was a rigid Vaiṣṇava follows from two verses in I. 25, 27 अवैष्णवास्तु ये विप्राः पाषण्डास्ते नराधमाः। तेषां त नरके वासः कल्पकोटिशतैरपि ॥ अचक्रधारी यो विप्रो बहुवेदश्रुतोष वा । स जीवन्नेव चाण्डालो मृतो निरयमाप्नुयात् ॥ वृद्धहारीत 9. 230-21 quotes प्रायश्चित्तरपैत्येनो. as from Yogesvara ( Yaj. III. 226). It.mos ry tions • Sanidina' । Saturday ) in 8.386 and Bhargava-vishra 
 
 Friday ) in 8.407. It is olear that it is a lato fabrication.. . 
 

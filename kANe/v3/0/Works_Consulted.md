@@ -67,7 +67,7 @@ Paraskara-gphya-sutra edited by MM. Shridharshastri Pathak
 
 with a Marathi translation. Saṅkhāyana-gphya-sutra (same as Kausitaki-gshya-sūtra ), 
 
-published in the Benares Sanskrit Series. Saṅkhayanaśrautasūtra, edited by Dr. Hillebrandt (B. I. Series). Satyāṣādha-srautasūtra (Anan.) Vaikhānasa-smārta-sūtra, edited with English translation by 
+published in the Benares Sanskrit Series. Saṅkhayanaśrautasūtra, edited by Dr. Hillebrandt (B. I. Series). Satyāṣāḍha-srautasūtra (Anan.) Vaikhānasa-smārta-sūtra, edited with English translation by 
 
 Dr. Caland, Calcutta, 1927. Vārdhagļhya-sutra (Gaikwad Oriental Series, Baroda ). Vasiṣtha-dharmasutra ( Bombay S. Series ). Viṣṇudharmasutra, edited by Dr. Jolly. 
 
@@ -119,7 +119,7 @@ No. 12). Bphati, commentary of Prablıākara on Jaimini's Pārvamimāms
 
 sūtra (Tarkapada -in the Madras University Sanskrit 
 
-Press, 1936. Brhatsamhitā of Varahamihira with the commentary of Utpala 
+Press, 1936. Brhatsamhitā of Varāhamihira with the commentary of Utpala 
 
 edited by MM. Sudhakara Dvivedi in two volumos, 
 
@@ -255,7 +255,7 @@ Poona ). Vyavahāramātṛkā of Jimutavāhana (edited by Sir Asutosh
 
 Mukerji) in Memoirs of the Asiatic Society of Bengal, 
 
-Vol. III. Vyavahāramayukha of Nilakantha (ed. by P. V. Kane ). . Vyavahāranirnaya of Varadarāja (published in the Adyar 
+Vol. III. Vyavahāramayukha of Nilakantha (ed. by P. V. Kane ). . Vyavahāranirṇaya of Varadarāja (published in the Adyar 
 
 Library Series, ed. by Rao Bahadur K. V. Rangaswami 
 
@@ -325,7 +325,7 @@ New York, 1922). Laski's 'Grammar of Politics'. MacCrindle's 'Ancient India as r
 
 and 'Invasion of India by Alexander'. Sir Henry Maine's 'Ancient Law' (1866, 3rd ed.) and 'Early 
 
-History Institutions' (1875). Dr. R. C. Majmudar's 'Champa'; 'Suvarnadvipa'; 'Corporate 
+History Institutions' (1875). Dr. R. C. Majmudar's 'Champa'; 'Suvarṇadvipa'; 'Corporate 
 
 Life in Ancient India', Rao Saheb V. N. Mandlik's Hindu Law. Sir John Marshall's three volumes on 'Mohenjo-daro'. Max Müller's History of Ancient Sanskrit Literature, J. D. Mayne's Hindu Law ( 10th ed.). Dr. R. N. Mehta's 'Pre-Buddhist India' (1939). Dr. C. Minakshi's ' Administration and Social life under the 
 

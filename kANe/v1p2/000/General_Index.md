@@ -289,11 +289,11 @@ pp. 613–14; commentaries on, Arhat, teachings of, delude people,
 
 p. 614. p. 511. 
 
-Ā$auca-nirnaya, of Jivadeva, p. 961. Arjuna, p. 211. 
+Ā$auca-nirṇaya, of Jivadeva, p. 961. Arjuna, p. 211. 
 
 ĀSauca-nirṇaya, of Nāgoji, p. 964. Ārkavivāha, p. 976. 
 
-Ā śauca-nirnaya (or ṣadasīti ), of Arthakaumudi, commentary on Su. 
+Ā śauca-nirṇaya (or ṣadasīti ), of Arthakaumudi, commentary on Su. 
 
 Kausikāditya, p. 917. ddhidipikā, p. 882 
 
@@ -429,7 +429,7 @@ Beveridge, p. 911. Bapat, Prof., p. 137.
 
 Bhāgabhadra, a king, p. 355. Bārhaspatyas, p. 206; one of the five 
 
-Bhagaradbhaktinirnaya, pp. 959,963, schools mentioned by Kautilya, p. 209. 
+Bhagaradbhaktinirṇaya, pp. 959,963, schools mentioned by Kautilya, p. 209. 
 
 Bhagavadgitā, pp. 4, 252, 413; verses Barua, Dr. B. M., pp. 178, 216–217. 
 
@@ -559,7 +559,7 @@ pp. 637, 6447. 850. Bhāttadipikā, of Kbandadeva, po
 
 968. Bbattakumāra, named in Vyavahāra 
 
-nirnaya, p. 817. Bhattālankāra, commentary on Mi 
+nirṇaya, p. 817. Bhattālankāra, commentary on Mi 
 
 mimeānyāyaprakāśa, p. 963. Bhattasyāmin. commentator of 
 
@@ -645,7 +645,7 @@ p. 33; allowed by Vasiṣtha and ascribed to, p. 585; wrote on
 
 Viṣṇudbarmasūtra to marry a girl grammar, medicine and yoga, 
 
-of any of the four varnas, pp. 126, p. 586; author of Rājamārtaṇḍa 
+of any of the four varṇas, pp. 126, p. 586; author of Rājamārtaṇḍa 
 
 269; first allowed and then con. and Bbujabalabbima, p. 588. 
 
@@ -701,7 +701,7 @@ bhāṣya on, pp. 65, 443; quotes
 
 Bṛhat-Sātātapa, p. 296. Sāntiparvad to the effect that all 
 
-Brides, purchase of, not unknown the four varnas are entitled to 
+Brides, purchase of, not unknown the four varṇas are entitled to 
 
 in Vedic age, p. 7; tests for acquire knowledge, p. 895. 
 
@@ -903,7 +903,7 @@ Dalapati, author of Nrsinhaprasāda, Children, sale of, among Mleccbas, p. 861; 
 
 p. 219. 
 
-of Suryapandita end 8 great Chintamani, Dr, T, R., pp. 16, 239, exponent of Vaisnavadharma, 
+of Suryapandita end 8 great Chintamani, Dr, T, R., pp. 16, 239, exponent of Vaiṣṇavadharma, 
 
 276, 478.79, 566, 568; criticized, p. 662. p. 480. 
 
@@ -1003,7 +1003,7 @@ Delhi, p. 861. work on adoption, and preferred Denarius, Roman coin, pp. 375–7
 
 Deposits, should not be appropriated matters, pp. 921-22. 
 
-by king, p. 285. Dattakanirnaya, p. 938. 
+by king, p. 285. Dattakanirṇaya, p. 938. 
 
 Derret, Dr., pp. 569, 570,588,672,882, Dattakavidhi, of Vācaspati, p. 850. criticized, pp. 609, 610. Daughter, excluded from inheritance Desa, extent of, according to Bras 
 
@@ -1053,7 +1053,7 @@ pp. 541, 9177.; quoted by Smrti Devayājõika, p. 777.
 
 candrikā, p. 738. Devesvara, p. 770n. 
 
-Dharmadrona, pamed in Vyavahāra Devipurāna, pp. 761, 826, 827, 935; nirnaya, p. 877. 
+Dharmadrona, pamed in Vyavahāra Devipurāna, pp. 761, 826, 827, 935; nirṇaya, p. 877. 
 
 approved of by heterodox system 
 
@@ -1183,11 +1183,11 @@ na, p. 892. Dipakalikā, com, of S'ulapani on Tā. Dvaitacintamani, of Vācaspat
 
 jñavalkya, pp. 823–24, 838, 8931. 
 
-$15. Dipavamsa, pp. 171, 227, 3741. Dvaitanirnaya, of Vācaspati, pp. 847– Dipikāvivarana, of Nosimha, p. 867. 
+$15. Dipavamsa, pp. 171, 227, 3741. Dvaitanirṇaya, of Vācaspati, pp. 847– Dipikāvivarana, of Nosimha, p. 867. 
 
 48, 8931. 
 
-Dvaitanirnaya, of Saṅkarabbatta, pp. Divanji, Mr. P. C., p. 437; criticized, 
+Dvaitanirṇaya, of Saṅkarabbatta, pp. Divanji, Mr. P. C., p. 437; criticized, 
 
 546, 746, 938. pp 449, 453–54, 457–59. 
 
@@ -1337,7 +1337,7 @@ p. 617. Vasiṣtba, p. 34; many sūtras of, identical with those of Vasiṣtha,
 
 Gorrecio, G., pp. 386, 388. p. 34; special matters presented Gotrapravaradarpaṇa, of Kamalā by, pp. 37-38; age of, between kara, p. 927. 600-400 B. C., pp. 34-36. 
 
-Gotrapravaranirnaya, of Jayadeva, Gayāśrāddhapaddhati, of Vācaspati, p. 961, 
+Gotrapravaranirṇaya, of Jayadeva, Gayāśrāddhapaddhati, of Vācaspati, p. 961, 
 
 p. 850; of Ragbubandana, p. 892. 
 
@@ -1605,17 +1605,17 @@ Jivacchrāddhavidhi, p."03.,
 
 
 
-Jivadeva, brother of Anantadeva, p. Kālanirnaya-dipikā, com. on Kāla 
+Jivadeva, brother of Anantadeva, p. Kālanirṇaya-dipikā, com. on Kāla 
 
 961. 
 
-nirnaya, p. 792. Jivanmuktiviveka, of Madhayācārya, Kālanirnayakautuka, of Nanda 
+nirṇaya, p. 792. Jivanmuktiviveka, of Madhayācārya, Kālanirṇayakautuka, of Nanda 
 
 p. 788. 
 
 pandita, p. 924. Jivatpitpkanirṇaya, p. 724. 
 
-Kālanirnaya-siddhanta-vyākhyā, p. 
+Kālanirṇaya-siddhanta-vyākhyā, p. 
 
 565. Jõānaratnāvali, p. 863. 
 
@@ -1689,7 +1689,7 @@ Kālamadhava, same as Kalanirmaya
 
 Kāmadhenudīpikā, p. 347. of Madhava, pp. 788, 905; com, Kamalakara, pp. 196, 575, 585, 925 on, by Nārāyaṇa, p. 905. 
 
-937. Kālanirnaya, of Mādhavācārya, pp. Kamalakrsna Smstitirtha, pp. 855, 
+937. Kālanirṇaya, of Mādhavācārya, pp. Kamalakrsna Smstitirtha, pp. 855, 
 
 780–81, 893n. 
 
@@ -1925,11 +1925,11 @@ matters, 767. of his subjects' merit regulating them properly, otherwise takes 1
 
 Kṛtyacintamani, of Vācaspatimiśra, of their sins, p. 856; was to safe 
 
-deals with festivals, pp. 845, 893n. guard varnas and aśramas, p. 302; Kstvakalpataru, vide Kalpataru, pp. prime duty of, to offer security 104, 663. and protection to subjects and to 
+deals with festivals, pp. 845, 893n. guard varṇas and aśramas, p. 302; Kstvakalpataru, vide Kalpataru, pp. prime duty of, to offer security 104, 663. and protection to subjects and to 
 
 Kștyakaumudi, p. 893n. appoint persons of the first three 
 
-Kṛtyamahārnava, of Vācaspati, p. 847. varnas for that purpose, p. 250; ao 
+Kṛtyamahārnava, of Vācaspati, p. 847. varṇas for that purpose, p. 250; ao 
 
 Kṛtyapradipa, a work on Nyāya, ideal time-table for, acc. to kau. tilya, p. 228; duty of a crowned, 
 
@@ -1975,7 +1975,7 @@ pp. 631-32. Kulottunga, a Cola king, p. 678. Lakṣmanopādhyāya, p. 636. Kumā
 
 Laksanaprakāka, of Nitramiýra, p. Kumārasambhava, p. 162. 
 
-912. Kumāratantra, promulgated by the Lakṣmi, com. on Kālanirnaya, p. 
+912. Kumāratantra, promulgated by the Lakṣmi, com. on Kālanirṇaya, p. 
 
 son of Rāvana, p. 805. 
 
@@ -2079,7 +2079,7 @@ Brata Yuda, pp. 377, 399; com. Madanaratnapradipa (or Madana- mentaries on, pp. 
 
 pradipa ), pp. 804-809. 
 
-minantly a Vaisnavite work, p. Madanavinodanighantu, p. 801. 
+minantly a Vaiṣṇavite work, p. Madanavinodanighantu, p. 801. 
 
 384; relation of, to Nārada, pp. Madhavācārya, pp. 65, 305, 334, 
 
@@ -2103,7 +2103,7 @@ Mahābhāṣyapradipoddyota, of Na. Madhavayajvan, commentator of goji, p. 964.
 
 Kauṭiliya, p. 247. 
 
-Mahādānanirnaya, of Vācaspati, pp. Madhaviya Dhātuvrti, pp. 746, 789. 849, 893n. Madhuśarman, p. 70n. 
+Mahādānanirṇaya, of Vācaspati, pp. Madhaviya Dhātuvrti, pp. 746, 789. 849, 893n. Madhuśarman, p. 70n. 
 
 Mahādeva, commentary of, on Hira Madhusūdana Sarasvati, p. 755. 
 
@@ -2187,7 +2187,7 @@ bhuva, promulgated dharmas, p. Mānasollāsa-výttanta-vilāsa, of Rāma
 
 Svāyambhuva and Prācetasa dis 
 
-tinguished, p. 311; Puriṇas differ Mānavadharmastitra, pp. 101-103, 
+tinguished, p. 311; Purāṇas differ Mānavadharmastitra, pp. 101-103, 
 
 as to the number of, pp. 317-18. 143-149, 310, 317; and Vasiṣtha, pp. 101-103; closely connected Manudeva, author of Laghubhūṣana with Manusmrti, p. 335. 
 
@@ -2485,7 +2485,7 @@ quotes Laghu-Nārada, p. 483; and Nṭsimha, author of Prayogapārijāta, Bphasp
 
 Nrsinha, sun of Rāmacandrācārya, Sridhariya, p. 726. 
 
-wrote vivarala on Kālanirnaya Nirukta, pp. 7, 8n., 171., 33, 781., 115; dipikā, pp. 792, 867. 
+wrote vivarala on Kālanirṇaya Nirukta, pp. 7, 8n., 171., 33, 781., 115; dipikā, pp. 792, 867. 
 
 mentions Nidāna, p. 45; an anga of Nrsisihaprasīda, pp. 860-868; divided Veda, p. 61; passages in Āpastamba 
 
@@ -2647,7 +2647,7 @@ of Vācaspali, pp. 844, 850, 851,
 
 paddhati, pp. 727, 893n.; contents 
 
-of, p. 727. Pariśiṣtaparva, of Hemacandra, p. 
+of, p. 727. Pariśiṣṭaparva, of Hemacandra, p. 
 
 167. 
 
@@ -2861,7 +2861,7 @@ p. 346. daśaka, p. 614.
 
 Rāmacandra, Yādava king of Devagiri, Raghuvarnīa, of Kalidasa, pp. 302, 
 
-p. 753. 383, 388n.; and Uttarakānda of Ramacandrācārya, author of Kāla. Rāmāyana, pp. 389-90; com, on, nirnayadipika, p. 791. by Hemādri, p. 754. 
+p. 753. 383, 388n.; and Uttarakānda of Ramacandrācārya, author of Kāla. Rāmāyana, pp. 389-90; com, on, nirṇayadipika, p. 791. by Hemādri, p. 754. 
 
 Rāmaka, meaning of, p. 106. Raghuvir, Dr., p. 18. 
 
@@ -2933,7 +2933,7 @@ Rju, commentator of Manu, p. 576. Rasamañjari, of Bhānudatta, pp. 953, Rkṣoc
 
 964. 
 
-Rocher, Dr. Ludo, pp. 814n., 846, 860. Rasamañjari-prakāśa, of Nāgesabhatta Ropaka, 1/70th part of suvarna, one 
+Rocher, Dr. Ludo, pp. 814n., 846, 860. Rasamañjari-prakāśa, of Nāgesabhatta Ropaka, 1/70th part of suvarṇa, one 
 
 p. 964n. 
 
@@ -2969,7 +2969,7 @@ Sabara, pp. 9, 17n., 45, 104, 118,
 
 S., p. 65; commented on Sūtra of Rāyamukuta, pp. 347, 839, 893n. 
 
-Satyaṣādha p. 91; and Manu, p. Remarriage, of women, allowed by | 328; criticizes dharmasītras, p. 148. 
+Satyaṣāḍha p. 91; and Manu, p. Remarriage, of women, allowed by | 328; criticizes dharmasītras, p. 148. 
 
 Nārada, p. 473; of child widows, 
 
@@ -3043,7 +3043,7 @@ Sūlapāni, p. 826. Sandarbhasīcikā, com. on Hāralatā,
 
 p. 729. Śāṇdilya, p. 504. Sāndilyāyana, p. 504. Sangha, of Vroṇis in Kauṭiliya, 
 
-p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Saṅkarabhafta, author of Dvaita nirnaya, pp. 546, 746, 904, 938; a profound mimamsaka, father of 
+p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Saṅkarabhafta, author of Dvaita nirṇaya, pp. 546, 746, 904, 938; a profound mimamsaka, father of 
 
 Nilakangha, p. 938. Sarkarācārya, pp. 43, 65, 115, 118, 
 
@@ -3083,7 +3083,7 @@ P. 67. Sāṅkhyakārikā, pp. 281, 576–77. Sārāvali, a work on astrology, p
 
 182, 718, 910n. Sanmārgadipikā, p. 819. 
 
-Śārirakabhisya, of Saṅkara, p. 447. Şansavatiśrāddhanirnaya, of Siva- Sarkar, Benoy Kumar, pp. 272,951n. 
+Śārirakabhisya, of Saṅkara, p. 447. Şansavatiśrāddhanirṇaya, of Siva- Sarkar, Benoy Kumar, pp. 272,951n. 
 
 bhaļļa, p. 564. 
 
@@ -3207,7 +3207,7 @@ Skandapuralia, pp. 415, 416, 715,
 
 and Nirada, p. 473; who could be, p. 595. 
 
-according to varnas, p. 497. Seth, K. C., p. 179. 
+according to varṇas, p. 497. Seth, K. C., p. 179. 
 
 Sloka-Gautama, p. 38, Setlur, Mr. S. S., pp. 553, 799, 800. | Sloka-Kātyāyana, p. 502. Setudarpani, com. on Setubandha, ślokavārtika, p. 643. 
 
@@ -3423,7 +3423,7 @@ Apastambagphya, pp. 17, 567. Sudās Paijavana, p. 336. Suddhibimba, p. 840. Sudd
 
 p. 915. Suddhicintīmaṇi, p. 849. Suddhidipikā, of Nārāyana, p. 347. Suddhidipikā, of Śrīnivāsa, p. 738. Suddhikaumudi, of Govindānanda, 
 
-pp. 586, 882. Suddhimayūkha, pp. 508, 910. Suddhinirnaya, of Vācaspati, pp. 
+pp. 586, 882. Suddhimayūkha, pp. 508, 910. Suddhinirṇaya, of Vācaspati, pp. 
 
 819, 850, 853. 
 
@@ -3501,11 +3501,11 @@ Talavakāra Brāhmaṇa, referred to by Sutherland, translated Dattakamimā. Har
 
 msā, pp. 920, 921. 
 
-Tāṇdyamahābrāhmaṇa, pp. 9n., 266, Suvarna, saine as dināra, p. 477; 307, 337. 
+Tāṇdyamahābrāhmaṇa, pp. 9n., 266, Suvarṇa, saine as dināra, p. 477; 307, 337. 
 
 value of, pp. 487, 532, 859. 
 
-Tarka, expounder of Viśiṣtādvaita, Svairiṇis, four kinds of, p. 473. 
+Tarka, expounder of Viśiṣṭādvaita, Svairiṇis, four kinds of, p. 473. 
 
 p. 566; same as Brahmānandin, Svalpa-Sarvarta, p. 543. 
 
@@ -3603,7 +3603,7 @@ Udgrāhamalla, mentioned in Dāya. Tithinirṇaya-sarvasamuccaya, pp. 565, bhāg
 
 582. 
 
-705; a smști-writer according to Tithinirnayatattva, of Nāgoji, p. 964. 
+705; a smști-writer according to Tithinirṇayatattva, of Nāgoji, p. 964. 
 
 Maheśvara, p. 706. Tithitattva, of Raghunandana, pp. Udicya, meaning of, pp. 67, 746. 
 
@@ -3635,7 +3635,7 @@ Medhitithi, p. 576. Upadhyaya, Prof. Baladeva, p. 522. Upadhyaya, Prof. Sukhamay
 
 p. 954. Upākarmaprayoga, p. 964n. Upakātyāyana, p. 502. Upākśtitattva, of Bālambhatta, p. 971. Upanayana, entitles man for sāstric 
 
-actions, pp. 62, 95; no adhikāra for homa upto, p. 34; proper time of, for the varnas, pp. 41, 313; prāyaścittas for one who has not undergone, p. 96; rules about, p. 96; allowed to rathakāra by Bau. 
+actions, pp. 62, 95; no adhikāra for homa upto, p. 34; proper time of, for the varṇas, pp. 41, 313; prāyaścittas for one who has not undergone, p. 96; rules about, p. 96; allowed to rathakāra by Bau. 
 
 Gr. S., p. 50. 
 
@@ -3711,7 +3711,7 @@ works, p. 973. Vaijayanti, com. on Viṣṇudharma
 
 sutra, pp. 112, 127. Vaijayautī, commentary by Mahā. 
 
-deva on Satyāṣādha-srautasūtra, 
+deva on Satyāṣāḍha-srautasūtra, 
 
 p. 257. Vaijayantī, a lexicon, p. 738. Vaikhānasa-dharma-praśna, pp. 257- 
 
@@ -3893,7 +3893,7 @@ p. 336; at loggerheads with kānda, p. 871.
 
 Vasistha, p. 90376. Viśārada, p. 8837. 
 
-Viśvaprakāśa, p. 750%. Viśiṣtādvaita, teachers 
+Viśvaprakāśa, p. 750%. Viśiṣṭādvaita, teachers 
 
 Viśvarūpa, a lexicographer, p. 757. 
 
@@ -4017,7 +4017,7 @@ Vyavabziramayūkba, pp. 305, 489,
 
 938; relation of, to Vitā kṣarā, pp. 
 
-939-10. Vyavaharanirnaya, pp. 815-823 Vyavahārapadas, pp. 122, 204, 815, 
+939-10. Vyavaharanirṇaya, pp. 815-823 Vyavahārapadas, pp. 122, 204, 815, 
 
 857, 872n. Vyavahāraprakāśa, pp. 881, 942, 948. Vyavabāraratnākara, pp. 617, 766, 
 

@@ -127,7 +127,7 @@ kinds of 107. 217, 219, 224-227, 230, 231, 924.
 
 Ambarisa, a king 53. Agnistoma, 469. 
 
-Ambassador, see under duta. Agnivarna, queen of, sat on the throne 
+Ambassador, see under duta. Agnivarṇa, queen of, sat on the throne 
 
 Āmbhiyas, school of, on Arthasastra 2. after him 41. 
 
@@ -499,7 +499,7 @@ of, acc. to Nārada 502-503 ; king last resort in settling 505; proce dure for w
 
 take to define boundary in 505. Brahma, is deemed to have appointed Maou king 34; is said to have composed a work on the four puruṣārthas 4, 33. Brahmacārin, heirs of 764-765 : 
 
-of every varna forbidden to drink madya 965; sexual intercourse for 
+of every varṇa forbidden to drink madya 965; sexual intercourse for 
 
 bidden to 846; two classes of 764. Brahmacarya, for long periods, for. 
 
@@ -579,7 +579,7 @@ on the forehead with certain marks also 590n. in the case of certain offences, i
 
 Britain against offendors 397, 403, 209, 211, 391, 860, 869. Brew, Dr. J. M. 391. 
 
-Brbat-sambitā of Varahamibira 82, Brhadaranyaka Upanisad 97, 135, 162. 85, 89, 122, 126, 136, 146n, 180, 230, 
+Brbat-sambitā of Varāhamibira 82, Brhadaranyaka Upanisad 97, 135, 162. 85, 89, 122, 126, 136, 146n, 180, 230, 
 
 176, 6130, 6410, 643, 841, 937. 407, 897-98, 906n, 907, 916, 917, Bṛhad-devatā, a work 42, 3590, 609. 1 .9190, 922. Brhadratba, last Maurya king killed by | Bṛbati, com. of Prabhākara on Jai 
 
@@ -1157,13 +1157,13 @@ Diksita, a predecessor of Jimūtavābana 825-827, 863; was the supreme
 
 synonym of niṣka 1210; was also qualifications of 126. 
 
-called suvarna 1210. Dharmādbyakṣa, exercised the same ! 
+called suvarṇa 1210. Dharmādbyakṣa, exercised the same ! 
 
 Diodorus 103. functions as Purohita did in ancient 
 
 Dipakalikā 247n, 3440, 370, 3830, ladia 126. 
 
-5400, 553n, 5540, 575n, 580, 5970, Dharmadvaitanirnaya 1220, 878, 944n 
+5400, 553n, 5540, 575n, 580, 5970, Dharmadvaitanirṇaya 1220, 878, 944n 
 
 6140, 7640, 7740, 793, 8560, 8820, Dharmas, differ in differeat yugas 627 Dirghacārāyana 2. 
 
@@ -1677,7 +1677,7 @@ the nearest sapinda, according to Maou 733, 748; order of, is to be arranged in 
 
 pinda to hin 443, laterest; at 5 percent allowed after 
 
-demand on deposit, purchase price &c. 458; circumstances under which interest stops running, such as when king dies 425; debtors of all castes may pay i. acc. to rate stipulated 419; four, five or six kinds of 418 419; maximum recoverable at one time from a debtor 422; may be either stipulated at time of loan or not so stipulated 419; may be stipulated with relerence to article pledged or to whether a surety is given 419-420; none allowed in certain cases 406; rate of, differed acc. to mercan tile usage in differept countries 421; rate of, varied also according to the nature of the article lent 422-423 ; rate of, first laid dowa by Vasistha at oth part of principal every mooth if sometbing be pledged 420; rate of, very high in ancient and medieval India 421-422; rate of allowable i, laid down by smrtis 420-422; rates of, were two, three, four or five percent per month acc, to the varna of tbe debtor 421; starts in certain cases even on articles loaned through friendsbip 426-27; taking even agreed interest beyond the rates prescribed by smstis or taking com pouad interest condemned 420; those taking exhorbitant interest con- demned to Hell 421; very heavy 
+demand on deposit, purchase price &c. 458; circumstances under which interest stops running, such as when king dies 425; debtors of all castes may pay i. acc. to rate stipulated 419; four, five or six kinds of 418 419; maximum recoverable at one time from a debtor 422; may be either stipulated at time of loan or not so stipulated 419; may be stipulated with relerence to article pledged or to whether a surety is given 419-420; none allowed in certain cases 406; rate of, differed acc. to mercan tile usage in differept countries 421; rate of, varied also according to the nature of the article lent 422-423 ; rate of, first laid dowa by Vasistha at oth part of principal every mooth if sometbing be pledged 420; rate of, very high in ancient and medieval India 421-422; rate of allowable i, laid down by smrtis 420-422; rates of, were two, three, four or five percent per month acc, to the varṇa of tbe debtor 421; starts in certain cases even on articles loaned through friendsbip 426-27; taking even agreed interest beyond the rates prescribed by smstis or taking com pouad interest condemned 420; those taking exhorbitant interest con- demned to Hell 421; very heavy 
 
 interest charged to debtors that carried on trade through forests or 
 
@@ -1777,7 +1777,7 @@ derate as compared with Western ones 5470.
 
 Jury, trial by 284. 
 
-892-894 ; marriage with women of a Justice ( see .king'. 'law suit'); ad. different varna forbidden in 599 ; 
+892-894 ; marriage with women of a Justice ( see .king'. 'law suit'); ad. different varṇa forbidden in 599 ; 
 
 ministration of, as depicted in Mr. niyoga not allowed in 627, 656 ; cchakaṭika 279-280; administration sacrifice of Anubandhya cow forbid of, personified as Dharma 242; ad. den in 627, 865; special share to ministration of, the personal concern eldest son condemned in 627 of the king 242; court of, had ten Kalidasa, 28, 37, 499, 52, 54, 56, 63, angas 277-278; court of, was called 82, 101-2, 112, 223n, 229n, 230, 243, dharmāsana, dharmadhikarana or 269, 407, 702, 896. dharmasthioa 243, 277; court of, 
 
@@ -1787,7 +1787,7 @@ Kalivarjya 885ff; chapter of, refutes denial of justice 297; dharmasastra
 
 theory of unchanging East 967. rules preferred to arthasastra rules 
 
-Kalivarjyavirnirnaya 928n, 929n, 030, in administration of 283 ; distinction 
+Kalivarjyavirnirṇaya 928n, 929n, 030, in administration of 283 ; distinction 
 
 931n, 939, 940n, 9428, 945, 949-50, between civil and criminal 258 ; 
 
@@ -1835,7 +1835,7 @@ Kamandaka, author of Nitisāra, 8. 13n, to no one' 258; was to be dispensed
 
 216-219, 221, 224-25, 230. 232n, Kadambas 39, 70 
 
-238-40, 399, 400n. Kākavarna, a king 86. 
+238-40, 399, 400n. Kākavarṇa, a king 86. 
 
 Kāmasutra, narrates that Prajapati Kākini, was medium for purchasing 
 
@@ -2029,7 +2029,7 @@ History of Dharnusāstra
 
 that takes taxes without giving pro. of k, 30-31; ideal of vijigīṣu placed tection goes to Hell 191; to avoid before 218; many k, are mentioned gambling and hunting 55; to celebrate in the Rgveda 63; most harmful festivals in honour of certain deities vices of 53-54 ; of three grades 70; 234; to decide acc, to dharma in 
 
-persons of all varnas became 38; case of conflict between doarma- privileges of 175; relative harmful sastra and practices 9; to found a ness of different vices of 53-54 ; rise district of villages on old sites or and fall of, depends on planets 126; on Dew only 134; to guard his seven principal vices of 54; should finances with great effort 184; to take care against treachery from help agriculturists in various ways: ministers and officials 85; six evil 191; to learn every night from his tendencies of 52-53 ; stories of k. spies the intentions and actions of killed for their tyranny 26; stories bis enemies, officers and subjects of k, that perished through lack of 129; undergoes a ceremonial bath vinaya 52, 530; that met death in before invasion 227; views on the i their queen's chambers 85; that vidyās essential for the education met death or misfortunes through of 48; vyasanas of 232-233; was their carelessness or the stratagens to appoint chief justice and sabhyas of those around them 86; vices of 271; was to be like a father to his.kings 53-54; warned agaiast being people 62; was to decide acc. to poisoned 83; will be mostly sudras rules of dharmasastra and usages in the Kali age acc. to the Puranas 270; was to look personally into 1 Income and expenditure 184; was to Kingship (see under monarchy'); punish castes and guilds that swerve 
+persons of all varṇas became 38; case of conflict between doarma- privileges of 175; relative harmful sastra and practices 9; to found a ness of different vices of 53-54 ; rise district of villages on old sites or and fall of, depends on planets 126; on Dew only 134; to guard his seven principal vices of 54; should finances with great effort 184; to take care against treachery from help agriculturists in various ways: ministers and officials 85; six evil 191; to learn every night from his tendencies of 52-53 ; stories of k. spies the intentions and actions of killed for their tyranny 26; stories bis enemies, officers and subjects of k, that perished through lack of 129; undergoes a ceremonial bath vinaya 52, 530; that met death in before invasion 227; views on the i their queen's chambers 85; that vidyās essential for the education met death or misfortunes through of 48; vyasanas of 232-233; was their carelessness or the stratagens to appoint chief justice and sabhyas of those around them 86; vices of 271; was to be like a father to his.kings 53-54; warned agaiast being people 62; was to decide acc. to poisoned 83; will be mostly sudras rules of dharmasastra and usages in the Kali age acc. to the Puranas 270; was to look personally into 1 Income and expenditure 184; was to Kingship (see under monarchy'); punish castes and guilds that swerve 
 
 germs of several theories about 28ff; from their dharma 238; was to germs of the theory of divine right punish even the highest functionaries of, go back to the Rgveda 32; germs if they go wrong 120; was to pro- of the theory of divine right found tect and guard all minors, helpless in the Bible 36; glorification of 24; men and women 665-666; was to glorification of k. did not result in show himself to all people every day the view that every king, however 61; was to support the aged, the bad, was a divinity 25; ideal of k. blind, the cripple, widows, orplaas was to be a rājarṣi 52; propositions and pregnant women 59; was to up- involved in the full-tiedged theory hold the dharmas of families, castes, of the divine right of 35; symbols guilds and even heretical sects that of 82; theory of divine origin were not opposed to the Veda 158, 1 of 23, 26, 32-33, 35–36; theory of 238; who should be 37-38. 
 
@@ -2225,7 +2225,7 @@ title, possession and that he had not 888, 904-921; astronomical data abandoned,
 
 tion of 872; Sāntiparva of, deals Low castes, eighteen, that were beyond with rājadharma at length 2. 
 
-the pale of the four varnas 285. 
+the pale of the four varṇas 285. 
 
 Mahābhārata war, date of 9028, Lummiai, village was exempted by Mahābhasva 38n. 46n, 88, 104, 135, 
 
@@ -2405,7 +2405,7 @@ executive 105; often rose from low Mayamata, a work on Vastusastra 1820, birth 1
 
 828n, 833n, 836n, 844n. 
 
-seven elements of rūjya 104 ; to be Measures, differed in different countries chosen from the three higher varnas 
+seven elements of rūjya 104 ; to be Measures, differed in different countries chosen from the three higher varṇas 
 
 and at different times 146n, 500n. 108; to be hereditary, if ability Medhātithi, com. of Manusmrti, 7-8, exists 108; view of the majority of, 
 
@@ -4251,7 +4251,7 @@ to have drunk liquor prepared from manjari 819.
 
 honey 965. Varadarāja, author of 'yavabāra 
 
-Vasus, eight 368. nirnaya, a work of authority on lindu 
+Vasus, eight 368. nirṇaya, a work of authority on lindu 
 
 Vālāpi, perished when attacking Law in Madras 246, 545, 731. 
 
@@ -4455,7 +4455,7 @@ to be 18 from ancient times 248, V'yavabāramātrkā of limitavā hana, 1 250; s
 
 69, 772, 7740, 777n, 779, 782-7840, 370, 539, 546, 5480, 549, 550n, 552, 787-7910, 795, 797-980, 8000, 804n, 555n, 558n, 563n, 568-700, 572-750, 805, 809-11, 8170, 8610, 867n, 873, 578, 598, 602n, 603n, 604, 620, 878, 879, 936; a work of paramount 6210, 6230, 6250, 628n, 629n, authority on Hindu Law in Gujerat, 6310, 632n, 636-37. 639n, Bombay Island and Northern 652n, 701a, 706-708n, 712, 7130, Konkan 545, 878. 
 
-715n, 716, 720n-22, 725-27, 729n, Vyavahāranirnaya of Varadarāja 12in, 7339, 734n, 7370, 747n, 755, 766, 
+715n, 716, 720n-22, 725-27, 729n, Vyavahāranirṇaya of Varadarāja 12in, 7339, 734n, 7370, 747n, 755, 766, 
 
 246, 260, 277n. 287n, 300n, 3010, 768, 769n, 774n, 775, 777-790, 785n, 
 
@@ -4685,7 +4685,7 @@ Yuktikalpataru 13, 229, 230. Yasodharman Viṣṇuyasas 925n,
 
 Yuvarāja; bad y, to be kept confined Vati; sūdra as 765; who could be a 117; eldest son or younger brother 
 
-765; whether he could beg for food of a reigning king became 116 ; from all varnas 957; rule abont his emoluments of 117; entrusting abode for the night 959-60. 
+765; whether he could beg for food of a reigning king became 116 ; from all varṇas 957; rule abont his emoluments of 117; entrusting abode for the night 959-60. 
 
 powers to 117; not generally Yatidharmasangraha 929n, 9600. 
 

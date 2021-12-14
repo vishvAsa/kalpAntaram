@@ -77,7 +77,7 @@ ed. of \#97 1920. 1270 qy tuyaulata: Tipart Tout: 1 at the end of the
 
 842 
 
-History of Dharmaśāstra Vacaspati in his Dvaitayanirnaya, by Govindananda in the Sraddha kriyakaumudi, by Raghunandana ( as in vol. I, Tithitattva pp. 136, 137, 186, Śrāddhatattva p. 226, Prāyaścitta p. 542; vol. II. Śuddhi tattva pp. 265, 272), in several of his tattvas, by Kamalakara and Nilakantha. 
+History of Dharmaśāstra Vacaspati in his Dvaitayanirṇaya, by Govindananda in the Sraddha kriyakaumudi, by Raghunandana ( as in vol. I, Tithitattva pp. 136, 137, 186, Śrāddhatattva p. 226, Prāyaścitta p. 542; vol. II. Śuddhi tattva pp. 265, 272), in several of his tattvas, by Kamalakara and Nilakantha. 
 
 As Rudradhara mentions the Ratnakara, the Smstisāra, Śridattopadhyāya and the Sraddhaviveka of Sūlapāṇi, he is certainly later than 1425 A. D. A ms. of his Vratapaddhati is dated in Laksmana samvat 344 i. e. 1463 A. D.1271 Besides he is quoted by Vacaspati and Govindānanda. Therefore he must have flourished between 1425 and 1460 A, D. 
 

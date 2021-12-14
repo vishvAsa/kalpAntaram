@@ -83,7 +83,7 @@ where a ms, of it was used. Aparārka's commentary on the Yājñavalkyasmrtı ( 
 
 Mr Gharpure Bārbaspatya-sūtra ( ed. by Dr F. W. Thomas, Lahore 1921) Brāhmanasars asva-D C. ms No. 9 of A 1883-84 Brhatsambitā of Varābamıbıra with the com of Utpala (ed. by 
 
-M, M. Sudhakara Dvivedı ) Dandaviveka of Vardhamāna (G Q. S.) Dāyabhāga of Jimutavābana ( Jiv ) Dharmadvaitanirnaya of Saṅkarabhatta (Ghar.) Dharmasındhu of Kasınātha with Marathi translation (Nirn , 6th ed. 
+M, M. Sudhakara Dvivedı ) Dandaviveka of Vardhamāna (G Q. S.) Dāyabhāga of Jimutavābana ( Jiv ) Dharmadvaitanirṇaya of Saṅkarabhatta (Ghar.) Dharmasındhu of Kasınātha with Marathi translation (Nirn , 6th ed. 
 
 of 1936 ) Dīpakalıkā, com, of Śūlapanı on Yājāavalkyasmrtı ( Ghar ) Gangābhakti-tarangini of Ganapati, published at Darbhangā (oblong 
 
@@ -167,7 +167,7 @@ Lahore, 1944
 
 AUTHORS AND WORKS IN ENGLISH (Some works such as those mentioned on pp. 618, 693, 716 are not 
 
-included here) A1n--Akbarı (translated by Blochman and Jarret, three volumes) Alberuni's India (tr. by Sachau sa two volumes, London, 1888) R. G. Bhandarkar's 'Vaisnavism, Sauvism &c.' Barbour's 'Sin and the New Psychology.' B. M. Barua's 'Gayā and Buddha-Gayā' ( 1934, 10 two volumes ) 
+included here) A1n--Akbarı (translated by Blochman and Jarret, three volumes) Alberuni's India (tr. by Sachau sa two volumes, London, 1888) R. G. Bhandarkar's 'Vaiṣṇavism, Sauvism &c.' Barbour's 'Sin and the New Psychology.' B. M. Barua's 'Gayā and Buddha-Gayā' ( 1934, 10 two volumes ) 
 
 xxiy 
 
@@ -179,7 +179,7 @@ Beal's Buddhist Records of the Western World Bloomfield's ' Religion of the Veda
 
 cited as 'Gupta Inscriptions) G. G. Coulton's 'Five centuries of Religion (1936) Cunningham's ' Mahābodbi' (1892) 
 
-, 'Ancient Geography of India' Dr. S K De's' Vaisnava fath and movement in Bengal' Nundo Lal Dey's 'the Geographical Dictionary of Ancient and 
+, 'Ancient Geography of India' Dr. S K De's' Vaiṣṇava fath and movement in Bengal' Nundo Lal Dey's 'the Geographical Dictionary of Ancient and 
 
 Medieval India' (1927) Prof V. R Ramchandra Dikshitar's translation of Silappadıkāram Elliot and Dowson's 'History of India as told by its own historians' 
 

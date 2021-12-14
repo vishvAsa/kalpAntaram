@@ -5,7 +5,7 @@ title = "16 List of Tīrthas"
 
 CHAPTER XVI - - LIST OF TĪRTHÁS 
 
-This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to Many of the Puranas enumerate the moun tains and rivers of drīpas and ursas other than those of Jambudvīpa and Bhārata-yarsa such as Harivarsa, Ramyaka. varsa, Krauñcadvipa, Salmalidvips, but they have been exclud ed from this list. The Brahmapurana (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhismaparka in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases Similarly, the Garuda (L. 81, 1-31 ) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have, listed about 350 sub tirthas. But there are about -1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāba-purāna under Mathurā, in Brahma-purāpa under Gautami, in Vāyu-purāna under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some vere left out purposely on account of the absence of any importance Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purānas' and are not even mentioned in them; many of these have been omitted in this list Our authorities are often very vague about the location or extent of tirthas Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Kotitirtha, Cakratīrtha, Varahatīrtha, Somatirtha) I am under great obligations to Cunningham's 'Ancient Geography of India' (ed. of 1872) and to Nundo Lal Dog's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal baing very limited, I could not enter into even brief discussions 
+This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to Many of the Puranas enumerate the moun tains and rivers of drīpas and ursas other than those of Jambudvīpa and Bhārata-yarsa such as Harivarsa, Ramyaka. varsa, Krauñcadvipa, Salmalidvips, but they have been exclud ed from this list. The Brahmapurana (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhismaparka in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases Similarly, the Garuda (L. 81, 1-31 ) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have, listed about 350 sub tirthas. But there are about -1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāba-purāna under Mathurā, in Brahma-purāpa under Gautami, in Vāyu-purāna under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some vere left out purposely on account of the absence of any importance Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purānas' and are not even mentioned in them; many of these have been omitted in this list Our authorities are often very vague about the location or extent of tirthas Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Kotitirtha, Cakratīrtha, Varāhatīrtha, Somatirtha) I am under great obligations to Cunningham's 'Ancient Geography of India' (ed. of 1872) and to Nundo Lal Dog's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal baing very limited, I could not enter into even brief discussions 
 
 [Vol. 
 
@@ -23,7 +23,7 @@ Isist of tirthas
 
 725 
 
-by the B BRAS), to Stein's notes in his translation of the Raja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VI are employed for the Bala, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyana I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purāṇas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahapurānas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāpa of which the ṛdition of Messrs. Gopal Narayan & Co. and the Bhāgayatapurāns, of which the Nirnayasāgara edition of the bare text have been referred to). The Skandapurāna has been a source of great trouble and labour, Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand; and odd verses of that purāna, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocrypbal and later additions. The seven big sections of the Skanda viz Mabesvarakhanda, Vaisnava, Brāhma, Kāśi, Ārantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VI and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdba, , , 
+by the B BRAS), to Stein's notes in his translation of the Raja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VI are employed for the Bala, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyana I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purāṇas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahapurānas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāpa of which the ṛdition of Messrs. Gopal Narayan & Co. and the Bhāgayatapurāns, of which the Nirnayasāgara edition of the bare text have been referred to). The Skandapurāna has been a source of great trouble and labour, Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand; and odd verses of that purāna, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocrypbal and later additions. The seven big sections of the Skanda viz Mabesvarakhanda, Vaiṣṇava, Brāhma, Kāśi, Ārantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VI and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdba, , , 
 
 I have made endeavours to locate the tirthas as far as possible. Inscriptions have been drawn upon in several cases for locating the tirthas and for their antiquities and history. The principal Sanskrit authorities (except Kalbana) are often very Fague as compared with even foreign writers like Hiouen Thsang, Alberuni and Abul Fazal. Where I was not myself sure I have given references to the texts alone, and in some cases to the views of Cunningham, Dey, Pargiter and others If the same name happens to be given to different tirtbas located at different places, I have 'indicated the several different places bearing the same name by employing the capital letters 
 
@@ -147,7 +147,7 @@ Abbrevrations
 
 729 
 
-Va Vāyaparana Vām.-Vimanapurana. Var Varahapurna. VD --Visuudharmottara-purāna V. Dh, S.-Viṣṇudharma-sūtra 
+Va Vāyaparana Vām.-Vimanapurana. Var Varāhapurna. VD --Visuudharmottara-purāna V. Dh, S.-Viṣṇudharma-sūtra 
 
 by Jolly). 
 
@@ -521,7 +521,7 @@ Arundhati-vatam V 84 41, P I 32 6 Ardbacapdra--(under Vathurā) var. Arunisa-(on
 
 169. 3. 
 
-Āryāvarta. The Amarakoś speaks of Ardhokun--founded by Darblia acar it as the voly land (punyabbūm) 
+Āryāvarta. The Amarakoś speaks of Ardhokun--founded by Darblia acar it as the voly land (puṇyabbūm) 
 
 V. Sarasvaigarana-sangama 83. between the Himavat and Viodhya 153-157 
 
@@ -983,7 +983,7 @@ Gaya and g 459 for Bodhitara, Zbelum starts) HC 12. 15-17. Vide under Nilahunda
 
 Brahmagin-A (m, from which Goda. 
 
-Bilvācal&--A Vaisnava-ksetra acc. to 
+Bilvācal&--A Vaiṣṇava-ksetra acc. to 
 
 vari rises on which Gautama bad bis 
 
@@ -1133,7 +1133,7 @@ dhara (7 64) Cabrastbila--(under Mathura) Vet.
 
 to the Mahāpatibibbda-sutta the six Cakratirtha_A (under Saukaratirtba) great cities are Campā, Rājagerka, 
 
-Var. 137. 19, B (under Āmalaka- Srāvasti, Sāketa, Kauśāmbi, Benares grāma) Nr. 66. 22, C (under Setu) (SBE vol. XI. p. 99 and p. 247). Vām. SK. III Braumakhanda, chap 3-5; 84.12 mentions Campeya brāhmanas D (in Kāśmira) also called Calra- Campā is 10 the Varavīdı-gana (Pan, dbara (which scc), E (on Go.) B. IV. 2.82), B (river sacred to putrs) 86 1, 109. 1, 134, 1 (6 miles from M. 22.41, P V. 11.35 (between Anga Tryambaka)--though thrice men- and Magadha, acc to Dey : 43) It troned, it appears to be one tîrtba; was the capital of Lomapāda and of F (under Matbura) Var, 162.43, G Karna (ugdcr Sarasvati) Vām, 425, 57,89, Campakāranya-{modern Champaran 81.3 ; vidc A, G. P. 336 and under 
+Var. 137. 19, B (under Āmalaka- Srāvasti, Sāketa, Kauśāmbi, Benares grāma) Nr. 66. 22, C (under Setu) (SBE vol. XI. p. 99 and p. 247). Vām. SK. III Braumakhanda, chap 3-5; 84.12 mentions Campeya brāhmanas D (in Kāśmira) also called Calra- Campā is 10 the Varavīdı-gana (Pan, dbara (which scc), E (on Go.) B. IV. 2.82), B (river sacred to putrs) 86 1, 109. 1, 134, 1 (6 miles from M. 22.41, P V. 11.35 (between Anga Tryambaka)--though thrice men- and Magadha, acc to Dey : 43) It troned, it appears to be one tīrtba; was the capital of Lomapāda and of F (under Matbura) Var, 162.43, G Karna (ugdcr Sarasvati) Vām, 425, 57,89, Campakāranya-{modern Champaran 81.3 ; vidc A, G. P. 336 and under 
 
 10 Bibas) V 84,133, P I. 38,49 val. Asthipura; H (under Dvīraka) TP. 
 
@@ -1997,7 +1997,7 @@ immediate vicinity of Srīnagara two Gokarnas (I. 92. 134-135),
 
 scar its southernmost corner, nov Kūrmı Il. 35 31 weptions Uttara 
 
-Loowa 2$ Takht-i-Sulaiman ) SM De Gokaraa and the Varahapurana (213. 
+Loowa 2$ Takht-i-Sulaiman ) SM De Gokaraa and the Varāhapurana (213. 
 
 157, R I 341 (mentions Gopadn 
 
@@ -3479,7 +3479,7 @@ Lonārakuqda-(in Viṣṇu-Gaya) P. VI. Laukıba-(under VS) K. I. 35, 13
 
 of Padmavati situated on conduence dea of the giant Lonžsura whom of Pārā and Sibdhu Vide Mælatim Vrsou vanquished It is a place of madbava, Act IX. verse 2 
 
-great antiquity and held a great Lavarnakatirthamou Sarasvati) PI, veneration, A10 A. Vol. II, describes 
+great antiquity and held a great Lavarṇakatirthamou Sarasvati) PI, veneration, A10 A. Vol. II, describes 
 
 26 48 
 
@@ -5055,7 +5055,7 @@ Last of tīi thas
 
 to catala Rājagrba-A (Rājgir, the ancient 
 
-capital of Magadha) v 84 104, vā 105 73 (punyam Rājagrham vajam), Ag 109 20, , II 47 74, PI 38 22 , vide A G pp 467-468 and I GI vol. XXI P 72 for the five hills surrounding it, it was also known as Girivraja and was the capital of Jarasandha onder this Dame, B (10 the Punjab) P I 28 
+capital of Magadha) v 84 104, vā 105 73 (puṇyam Rājagrham vajam), Ag 109 20, , II 47 74, PI 38 22 , vide A G pp 467-468 and I GI vol. XXI P 72 for the five hills surrounding it, it was also known as Girivraja and was the capital of Jarasandha onder this Dame, B (10 the Punjab) P I 28 
 
 13 (it is a Devistbana) Rājabbadga--(on Sabhramati) P VI 
 
@@ -5931,7 +5931,7 @@ Narmadā), Ag 113.3 Śrīpatitirtha--(srāddha bere leads to
 
 highest goal) M 22. 74. Sriranga-(modern Srirangam, ad 
 
-island between Kaveri about 2 miles north of Trichinopoly and Coleroon) M. 22 44 (śrāddba here yields in exhaustible results), Bh X 79 14, P VI. 280. 19, Bār S III 120 ( a Vaisnava-hsetra) It is mentioned in the Sılappadıkāram chap X (tr by Prof Dihsbitar p 163 ) Rāmk nuja, the founder of the Viśıstādvarta philosophy died here. Vide I GI vol XXIII pp 107-108 for a brief description of the temple of Visna 
+island between Kaveri about 2 miles north of Trichinopoly and Coleroon) M. 22 44 (śrāddba here yields in exhaustible results), Bh X 79 14, P VI. 280. 19, Bār S III 120 ( a Vaiṣṇava-hsetra) It is mentioned in the Sılappadıkāram chap X (tr by Prof Dihsbitar p 163 ) Rāmk nuja, the founder of the Viśıstādvarta philosophy died here. Vide I GI vol XXIII pp 107-108 for a brief description of the temple of Visna 
 
 (called Ranganāthasvāmın here). Sritirtha-(urder VS) V 83 46, KI 
 
@@ -6093,7 +6093,7 @@ Halra or Gbaggar at a distance of
 
 30 to 50 miles south of its present for a long note on Sūrpārala. 
 
-course SūryatirthaA (under VS) V. 83 48, Sqvarna-V 84 18, Ag 109, 16, P. I. 
+course SūryatirthaA (under VS) V. 83 48, Sqvarṇa-V 84 18, Ag 109, 16, P. I. 
 
 K. I 35 7, P 1. 377, B (under 28 19 (where Visou sought for the Matburā) Var 152.50,156. 12 (1 here 
 
@@ -6113,7 +6113,7 @@ is a river of same name is Bengal Suskadadi-(under VS)---same as Asi,
 
 Vide I G I vol XXIII P 114 M 183 62, L q by T, K p 118 
 
-Savarnasihat-(10 Jungadh Inscrip Susheśvaram (under VS) L g by TK, 
+Savarṇasihat-(10 Jungadh Inscrip Susheśvaram (under VS) L g by TK, 
 
 tion of Rudradāman to be assigned 
 
@@ -6123,7 +6123,7 @@ to 150 AD, E I. VIII P 36 atp 42) Susoma-(s) Rg. VIII 64 11. In Rg
 
 Qow called Sonrelbā ra hathawad X. 75 5 also at is probably the name 
 
-Suvarnatilaka-(ander Narmada) P I 
+Suvarṇatilaka-(ander Narmada) P I 
 
 18, 46 of some river, though the Nir, IX 
 
@@ -6189,13 +6189,13 @@ p 248 Svarga-mārga-pada-V. DH. S 85. 41 Svargatirtba-Anu 25. 33 Svargesvara-(an
 
 p. 48 Svarlineśvara-(uoder VS) L, I 92.78, SK IV 33 123 (explains why it 15 
 
-so called) Svarnabindum(under Narmada) Anu, 
+so called) Svarṇabindum(under Narmada) Anu, 
 
-25 9, M 194 15 Svarnalomapapajana-PI 26 58 Svarnarelha-r in Vastrāpathalsetra 
+25 9, M 194 15 Svarṇalomapapajana-PI 26 58 Svarṇarelha-r in Vastrāpathalsetra 
 
 i e, modern Giroar and surrounding territory) SK VII 2. 3. 2 and VII, 
 
-2. 10. 209 Svarnavedı (r ).Vā 77 95, K. II 37,37 Svastipura oear Gadgāhrada and 
+2. 10. 209 Svarṇavedı (r ).Vā 77 95, K. II 37,37 Svastipura oear Gadgāhrada and 
 
 Gangālūpa) V 83 174 Svatantreśvara-(under Narmadā) M. 
 
@@ -6479,7 +6479,7 @@ Kathiawar) SK VI 11 11 Trnabinduvana-Nr,q by T K. P, 252
 
 IV) 
 
-List of tîrthas 
+List of tīrthas 
 
 815 
 
@@ -6739,7 +6739,7 @@ conferring a boon on Visau) Varadā-sangama--. 85, 35, P. I 39
 
 201-202 Varābaparvata -- (probably Bārāwūla 
 
-ia Kāsmira) V Dl S 85 7 Varaha-stbānas-(places sacred to tbe 
+ia Kāsmira) V Dl S 85 7 Varāha-stbānas-(places sacred to tbe 
 
 Great Boar incarnation of Visau are kobānubba, Badari and Lobar 
 
@@ -6761,7 +6761,7 @@ Varanāvati-(I) Atharvareda IV.7.1. Vāranesvara-(under Xarmadā) P. I,
 
 NM 1161 Vārdbāra-(m ) Bb V, 19. 16 Varnasar Bagas 10 Rajpatana 
 
-rising from Pariyātra and falling ato Chambal) Br II 16. 28, see under Parnasa Varnu-{c. Pān IV 2 103 (varnau rul) 
+rising from Pariyātra and falling ato Chambal) Br II 16. 28, see under Parnasa Varnu-{c. Pān IV 2 103 (varṇau rul) 
 
 kāśthā explains that the country on Varnu was also called Varna, This appears to be modern Bandu Varot occurs in Savāstvādı-gana. 
 
@@ -6815,7 +6815,7 @@ Vasudbāra) Vastrāpathaksetra -( territory rouod
 
 about Girnar in Katbawad ) SK VII 2 2 1-3 (it is quintessence of Prabbāsa, Raivatala-bsetra is so called ), VII 2 11 16 (1t is four yojadas 10 extedt) The holy river 
 
-therein is Suvarnarek:bā (5 hicb see) Vāsuka--( under Viraja 18 Orissa) 
+therein is Suvarṇarek:bā (5 hicb see) Vāsuka--( under Viraja 18 Orissa) 
 
 B. 42 6 Vāsukīśvaram(under VS) L q. by 
 

@@ -59,7 +59,7 @@ We are all unregenerate at birth and become re generate by our effort.
 
 janmanā jāyate sūdraḥ 
 
-saṁskārād dvija ucyate i Some are advanced; others not. We should give equal facilities to all. The Mahābhūrata says that there was only one varna at the beginning and the four castes arose out of later developments. 
+saṁskārād dvija ucyate i Some are advanced; others not. We should give equal facilities to all. The Mahābhūrata says that there was only one varṇa at the beginning and the four castes arose out of later developments. 
 
 ekavarṇam idaṁ pūrvaṁ viśvam āsid yudhisthira » 
 

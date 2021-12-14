@@ -15,7 +15,7 @@ several branches ). On dharmaśāstra he composed several works, viz. Ācārendu
 
 For his Prāyaścittendusekhara, vide Mitra's Notices vol. V, p. 23 No. 1735, where detailed contents are given ; for the Śrāddhendusekhara, Ulwar cat. extract No. 360 p. 139, for the Tirthendusekhara, Ulwar cat. p. 120, extract No. 312. 
 
-Some of Nāgojibhatta's (or Nagesabhatta's ) works on Dharmaśāstra may be mentioned here. He composed the Titbinirnayatattva containing 101 stanzas (in writing which he relied upon the conclusions of the Nirṇayasindhu ).1500 The names of his works on Dharmaśāstra are mentioned in the note below.1501 Nāgoji's surname was Kāla (i. e. Kale in these days ) but in some Mss, it is given as Upadhyāya (vide note below ).1502 
+Some of Nāgojibhatta's (or Nagesabhatta's ) works on Dharmaśāstra may be mentioned here. He composed the Titbinirṇayatattva containing 101 stanzas (in writing which he relied upon the conclusions of the Nirṇayasindhu ).1500 The names of his works on Dharmaśāstra are mentioned in the note below.1501 Nāgoji's surname was Kāla (i. e. Kale in these days ) but in some Mss, it is given as Upadhyāya (vide note below ).1502 
 
 1500 इति निर्णयसिन्धुसारतः प्रतिमासप्रथितं विनिर्णयम् । शिवनन्दननागदैवविद्विदधे 
 

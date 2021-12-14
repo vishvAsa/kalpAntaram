@@ -237,7 +237,7 @@ General Inder
 
 839 
 
-for pratiloma castes, but some say that they are like sūdras 288, 00 00 animity among smrtis as to periods of ā on death 277ff, on birth ā lasted ten days even 12 the Vedic period 274, on death of a child for parents and sapiodas before ten days from birth or before the striking of teetb, before ciidā or upanayana or after opanayana 277-278, on death of a person after upanayana all sapındas had to under,o ā for ten days and all samānodakas for three days 277, on death of a gırl after three years of age and before betrotbal or after betrothal but before marriage and after marriage 278, period of . de pended on several cucutstances, such as the varna or on whether deceased was an infant or a male or a female or whether death was before or after upadayana or on the vicinity or otherwise of the deceased, the degree of relationship, the time that elapsed after birth or death 271-273, 286,287, periods of āfor relatives in the case of anulonla or pratılama marriages 488, periods of ā for four varnas were respectively fixed at 10, 12, 15 days and a month 271, periods of 10 days of ā tere fired for men of all varnas by some smrtılāras such as Añguras aod śātātapa and the reason for such fixation 271, 307, period of 2, for less than ten days on the ground of vedic learning was included among Kalivarjya 271, rules about ā on death of bandhues such as maternal grand-father, grand-mother of maternal uncle, daughter's son and father-19-lax, motber-10-lax, son-in-lax, wife's brother 279-280, rules about i on the death of an ācārya, his wife or son or of a guru or pupil 281, rules aboot ā apply only when times are easy and peaceful 306, rules about the period of ā when the laowledge 
+for pratiloma castes, but some say that they are like sūdras 288, 00 00 animity among smrtis as to periods of ā on death 277ff, on birth ā lasted ten days even 12 the Vedic period 274, on death of a child for parents and sapiodas before ten days from birth or before the striking of teetb, before ciidā or upanayana or after opanayana 277-278, on death of a person after upanayana all sapındas had to under,o ā for ten days and all samānodakas for three days 277, on death of a gırl after three years of age and before betrotbal or after betrothal but before marriage and after marriage 278, period of . de pended on several cucutstances, such as the varṇa or on whether deceased was an infant or a male or a female or whether death was before or after upadayana or on the vicinity or otherwise of the deceased, the degree of relationship, the time that elapsed after birth or death 271-273, 286,287, periods of āfor relatives in the case of anulonla or pratılama marriages 488, periods of ā for four varṇas were respectively fixed at 10, 12, 15 days and a month 271, periods of 10 days of ā tere fired for men of all varṇas by some smrtılāras such as Añguras aod śātātapa and the reason for such fixation 271, 307, period of 2, for less than ten days on the ground of vedic learning was included among Kalivarjya 271, rules about ā on death of bandhues such as maternal grand-father, grand-mother of maternal uncle, daughter's son and father-19-lax, motber-10-lax, son-in-lax, wife's brother 279-280, rules about i on the death of an ācārya, his wife or son or of a guru or pupil 281, rules aboot ā apply only when times are easy and peaceful 306, rules about the period of ā when the laowledge 
 
 of birth or death comes to a man after the periods fixed 282–284; sannipāta or sampāta of ā (another aśauca supervening while one is being ander gone), rules of 292-294; several pripted works and mss on 2 are in serse 272-273, ten varieties of in purity, according to Dalsa' 274 , things that could be taken without taiat from the house of one under going a though not from his hand 291-92, two characteristics of ā. Viz taking away the privilege of performing religious acts and read ening a person untouchable to others for some time, 268-269, two kinds of 
 
@@ -529,7 +529,7 @@ sortis 147 prāyaścilta, extent of, when talen Brabmanasarı asia, of Ilalāsad
 
 Bradmanda-dana, one of the 16 mahina are tapas, vedic learniog abd birth 
 
-dłons 166 from brāhmana parcats according to the Mabābbisza 400, tuche years Brabraparāna, 470, 50, 51, 510, 107, orata as prāyaścıtta for uniaicn- 127, 133, 139, 146,152. 163,16A, 10 tional brābmana murder 90, tucaty. 170, 174, 176, 180, 214, 217,277, four years vrata for inteptional b 223-225, 227,255, 2571, 650, 266, murder 90, vedic sacrisces of As.. 271, 277, 2966, 297, 301, 301, 337a, mcdba, Gosara, Abbijit, Vistajit or 340, 348, 3710, 372, 374.378-379, Agoistat as expiation for murder of 3810.385, 3889, 392, 411, 454-16, b.91, vecpiag with the family of 421, 423, 4409, 4111, 4138, 4500, a deceascd person who is not a 471, 473, 476, 4790.461.453, 518, sapiada or who belonged to another 320, 528, 5310, 5338, 500, SCIAR varna bad to undergo varying 
+dłons 166 from brāhmana parcats according to the Mabābbisza 400, tuche years Brabraparāna, 470, 50, 51, 510, 107, orata as prāyaścıtta for uniaicn- 127, 133, 139, 146,152. 163,16A, 10 tional brābmana murder 90, tucaty. 170, 174, 176, 180, 214, 217,277, four years vrata for inteptional b 223-225, 227,255, 2571, 650, 266, murder 90, vedic sacrisces of As.. 271, 277, 2966, 297, 301, 301, 337a, mcdba, Gosara, Abbijit, Vistajit or 340, 348, 3710, 372, 374.378-379, Agoistat as expiation for murder of 3810.385, 3889, 392, 411, 454-16, b.91, vecpiag with the family of 421, 423, 4409, 4111, 4138, 4500, a deceascd person who is not a 471, 473, 476, 4790.461.453, 518, sapiada or who belonged to another 320, 528, 5310, 5338, 500, SCIAR varṇa bad to undergo varying 
 
 564, 567, 365, 570, 512, 3738, 393. 
 
@@ -613,7 +613,7 @@ varieties of 134-135 Caine, W S., author of Picturesque Caraka-sambiti 175
 
 India' 692, 7120 
 
-Carrel, Dr Alexis, author of "Journey Caitanya, great Vaisnava saint, settled to Lourdes' 561 
+Carrel, Dr Alexis, author of "Journey Caitanya, great Vaiṣṇava saint, settled to Lourdes' 561 
 
 at Puri and lived there for 18 years Cārvāla, 34; views of the follosers of till bis death in 1533 A, D, 702, is in said to have converted the Gajapati Caste, esclusiveness declared that a king Pratāparudradeva to his new dosja es en of bad character is lo be faitk 702, visited Vradāvana 692; honoured and not a sūdra thougł of was worslupped along with Visna good character $5, excommunicated at Jagannatha, being described as a sioner of be refused to perform narabralta while Jagadgātha was prāpaścitia 76, one guilly of a sin said to be drtubralına 702 
 
@@ -803,7 +803,7 @@ customs and Indus Valley Culture'
 
 fifteen parts 376 Dāyabhāga, 229, 366, 404, 4830, 510; 
 
-theory of, about sapioda 510 Dayatattva, 3600, 3680 De, Prof S K, author of (Vaisnava 
+theory of, about sapioda 510 Dayatattva, 3600, 3680 De, Prof S K, author of (Vaiṣṇava 
 
 faith and movement in Bengal' 692, 
 
@@ -1085,7 +1085,7 @@ General Index
 
 855 
 
-"Gadgā' 589; eulogy of, in Visau purāna 587–588, four different streams of G. 1n four directions 587, grand eulogy of, 10 Vanaparva chap. 85 verses 86-97, 586, G. does not forsake even the most sinful or riched mar 589, G. is equal to all the 35 millions of holy places dec Jared by Vayu, says Kūrma 588; G. water and residence therend are said to be superior to Vedic sacrifices, tapas, and yoga, since they yield heaven and moksa 588, G represents Vison who represents all gods 589; God Narayana is the owner of the strip of land within four cubits from the flowiog water of G. 590, ioter- pretation of the story of Gayāsura by Mitra, O'Malley and Barua 359 360; invocation of the clay in the bed of G. 591-592, ksetra extends to tvo krosas on each bank of G. 590 ; mantras to be recited at the time of a bath in the Ganges 594 ; mūlamantra about G. 589, names of the seven streams of the G. 587; no tonsure oo, according to Vācaspatımıśra 575, on G. all times are auspicious and all men are fit for receiving gifts 559, one thous and names of, 10 Skandapurana, Kaśkbanda, chap, 29,565 , procedure of a bath 10 the G prescribed by Matsyapurāua chapter 102 for all varnas and all students of the seve. Tal ycdas, 591-594, Purāṇas contain hundreds of verses eulogising the Sanctifying activity and greatness of, 585 , Parānas say that G spriogs from toe nail of Vidu and that siva let it off from his matted bait za seven streams 587; residence on the bank itself of G. is not desired 590, saṅkalpa to be made at time of bathing in G. 5900; some purānas say that the G is easy of access et crywhere except at three places viz Gangadvāra, Prayaga and where li joins the sea 58s, special merit 
+"Gadgā' 589; eulogy of, in Visau purāna 587–588, four different streams of G. 1n four directions 587, grand eulogy of, 10 Vanaparva chap. 85 verses 86-97, 586, G. does not forsake even the most sinful or riched mar 589, G. is equal to all the 35 millions of holy places dec Jared by Vayu, says Kūrma 588; G. water and residence therend are said to be superior to Vedic sacrifices, tapas, and yoga, since they yield heaven and moksa 588, G represents Vison who represents all gods 589; God Narayana is the owner of the strip of land within four cubits from the flowiog water of G. 590, ioter- pretation of the story of Gayāsura by Mitra, O'Malley and Barua 359 360; invocation of the clay in the bed of G. 591-592, ksetra extends to tvo krosas on each bank of G. 590 ; mantras to be recited at the time of a bath in the Ganges 594 ; mūlamantra about G. 589, names of the seven streams of the G. 587; no tonsure oo, according to Vācaspatımıśra 575, on G. all times are auspicious and all men are fit for receiving gifts 559, one thous and names of, 10 Skandapurana, Kaśkbanda, chap, 29,565 , procedure of a bath 10 the G prescribed by Matsyapurāua chapter 102 for all varṇas and all students of the seve. Tal ycdas, 591-594, Purāṇas contain hundreds of verses eulogising the Sanctifying activity and greatness of, 585 , Parānas say that G spriogs from toe nail of Vidu and that siva let it off from his matted bait za seven streams 587; residence on the bank itself of G. is not desired 590, saṅkalpa to be made at time of bathing in G. 5900; some purānas say that the G is easy of access et crywhere except at three places viz Gangadvāra, Prayaga and where li joins the sea 58s, special merit 
 
 Accumulated by bath in the Ganges on certain days 596, supposed to flow in heaven as Mandakini, on the earth as Gauges and in Patala as Bhogavati 587, tarpana on G. after one bathes with water for the gratification of the three worlds 592 , waters of, bura all bad deeds 586; waters of, are white, while 
 
@@ -1205,7 +1205,7 @@ expiation of brābmana murder 92 honour Gayāls alone and not other
 
 Goat was carried with the dead body brāhmadas however learned they 
 
-1960 may be 670; profess the Vaisnava 
+1960 may be 670; profess the Vaiṣṇava 
 
 Gobbilagrbya, 53, 64, 346, 354, 3480, faith established by Madhva 644, 
 
@@ -1257,7 +1257,7 @@ land 52, of land and villages state that they are made for the in crease of the 
 
 his parents 52 Graves, or sepulchral mounds 246-250, 
 
-at Lauriya Nagdadgarb resemble in many respects the mounds described 10 Srauta sūtras 254, clads or babcd bricks were employed a building mounds over charred bones of deceased persons 254. difference between g of godly people and of asaras 247-248, ground of, should not be visible from the village 248, height of, depended on the varna of persons whose asbes were to be buried 250, pegs of different biods of trees are fixed io different directions 
+at Lauriya Nagdadgarb resemble in many respects the mounds described 10 Srauta sūtras 254, clads or babcd bricks were employed a building mounds over charred bones of deceased persons 254. difference between g of godly people and of asaras 247-248, ground of, should not be visible from the village 248, height of, depended on the varṇa of persons whose asbes were to be buried 250, pegs of different biods of trees are fixed io different directions 
 
 860 
 
@@ -1271,7 +1271,7 @@ the tail of an ox 250, placing of pale ostanity without mantras 249
 
 & mahapātaka 23-25, 103, prāpa. 
 
-Ścitta for 103-104 , sexual intercourse 250. proccdurc of the croclion of a with maiden of bigher varna, with mound with silnvara and without friend's wife, sister, sop's or sagotra's Ahavana including dialoguc, dancing wife or with antyaja woman equal to and singing acc. 10 Sal Srauta 25:- 6. 103 252, procedure for making sepulchral Hades, the Greek word (or Hebrew mounda for thosc who bad per Shcol 170 formol egICaNN 248-251, proper Haj and Hanı 5520 limc for making 247-248, shape IIalāpudba, commentator of Srāddba of, should be foor cordcrcd and sūtra of Kālyāyapa, 4430, 4500, not round (which is practised by 4550, 4708, 4840, 5168 
+Ścitta for 103-104 , sexual intercourse 250. proccdurc of the croclion of a with maiden of bigher varṇa, with mound with silnvara and without friend's wife, sister, sop's or sagotra's Ahavana including dialoguc, dancing wife or with antyaja woman equal to and singing acc. 10 Sal Srauta 25:- 6. 103 252, procedure for making sepulchral Hades, the Greek word (or Hebrew mounda for thosc who bad per Shcol 170 formol egICaNN 248-251, proper Haj and Hanı 5520 limc for making 247-248, shape IIalāpudba, commentator of Srāddba of, should be foor cordcrcd and sūtra of Kālyāyapa, 4430, 4500, not round (which is practised by 4550, 4708, 4840, 5168 
 
 suras and Lastcrn people) 247-248, 11a/1, Dr Fitz-Edward 6230 not too large, but broader behind Tlaracaritacintamani, 724 and on north side 218, should not Haradatta, 110, 160, 499, 509, 53, bc crccted near certain planls 59a, 620, 640, 71, 790. 90, 930, 96, and rocs 248; 517c of, should be 
 
@@ -1561,7 +1561,7 @@ bistory and antiquity of 711-12; one who offers the Adabbya cop 12,
 
 Kāśī and K are the two eyes of $11a goes to heaven while still living 157 
 
-and K is a famous Vaisnasalschra Kadalisana, 178 
+and K is a famous Vaiṣṇasalschra Kadalisana, 178 
 
 712, one of tāe serca holy cities of Kailasa, temple at Ellora es pot one of 
 
@@ -1587,7 +1587,7 @@ of, 39, doctrine of, is inextricabiy
 
 mixed up with that of punaryanma ; 38-39; doctrine of, appears to be in 
 
-conflict with that of śrāddba 335, doctrine of, is opposed to the theory of the transference of ment (punya) from one man to another 660 , doctrue that there is ao Goal release from the cycle of births and deaths by performance of meritorious deeds alone 167, doctrine of, illustrated in the Jain Uttaradhyayanasūtra by the story of brothers 4450, knowledge (true) destroys all k. 68, 611, main propositions of the doctrine of 38-39 and 612-613, modified by the theory of espiations for Sins 40 three kinds of viz sa cita, prārabdha and briya mīna and their explanation 612-613, whether good or evil does not perish without bring og forth its consequ 
+conflict with that of śrāddba 335, doctrine of, is opposed to the theory of the transference of ment (puṇya) from one man to another 660 , doctrue that there is ao Goal release from the cycle of births and deaths by performance of meritorious deeds alone 167, doctrine of, illustrated in the Jain Uttaradhyayanasūtra by the story of brothers 4450, knowledge (true) destroys all k. 68, 611, main propositions of the doctrine of 38-39 and 612-613, modified by the theory of espiations for Sins 40 three kinds of viz sa cita, prārabdha and briya mīna and their explanation 612-613, whether good or evil does not perish without bring og forth its consequ 
 
 ences 39 Karmāngaśrāddha, 382 
 
@@ -2543,7 +2543,7 @@ to Fleet, but of bis biosmen 2360 Pitryābarma, described 2030 Pltrbbaktı of Sr
 
 254 Pitrs, see under 'soul', 'yama', afternoon is the proper time for 345; ancicat Vedic texts aod practice sharply distiøguish between gods and p. 345, are sometimes identified in the Rg. with seven sages 341, are deptified with Vasus, Radras and Idityas 334, 335, 337, 339, belief that p. move about as birds 339, belief tbat p assume an aerial form and enter the brābmanas invited for dinner at śrāddba 340; called Agoisvātts and Barbisad 10 Rgreda 195, 201, called aśrumukba and gāndimubba 528, created by Brahmi along with gods, asuras and human beings 342; derive sustenance and water when a bull let loose digs up earth or drinks at a pool 541; differences in the procedure of the rites for gods and p. (such as wearing the sacred thread, the direc. tion to be faced, circumambulation, use of svabā for gods and sadbā for piles) 345-6, different classes of, are Kavyas, Añgirases, Rbvans, Vairūpas, Albarvads, Burgas, Nava gles and Dasagt&s 192,341, 593, 
 
-division of pitrs iplo sowasaotal, Barhisadah and Agnisrāttan 343; earlier and later p. 341, element of the fear of pitrs 15 aot wantiog even in the Rgveda 347, enjoy delight in the company of Yama 193, fire is supposed to tale the spint of a cremated person to the pitrs 342, Fravasis of Parsi scriptures correspond to pitrs of ancient Indian words 3410, idea of, is Indo-Iranian 3410, ideoufied with Rtus (seasons) 10 Taittiriya Brahmana and Nanu 428, 430, 4500, joterpretation of toe word p. by the Iryasamāja 339, 10 many passages of the vedic literature pitrs mead three deceased male ancestors 347, lovocation of, 10 Rgveda X. 15, 194-195 ; 1 vocation of, after mentioning their gotra and names 348, invoked for conferring various boons such as happiness, wealth and beroic sons eren in the Rgveda, 346, 10 Vrdabi-srāddha are called Nāodimub ha 3590, love soma drink 194,342, man becomes free from debt due to p by offering water mixed wlib sesame, by letting loose a bull and by lighting lamps in the rainy season 541 ; Manu says gods sprang from p 344, meanings of the word P. are two, Viz & mao's threc immediate male ancestors and the ancient ancestors of the human race supposed to reside ia separate world 340-41, bancs of the pitrs of brālimanas and the other varnas 343-44, oumber of classes of, cbanged in later times 348, of bim who doce not offer śrāddba on amāvāsyā cver with water or vegetablcs go away altor cursing bin 351, of tbrao grades in thc Rgveda, lower, midd log and bigher 341, presentation formula 1a Sat. Br differs from that of Tai S.347-348, regale themselves in the company of gods, particularly of Yama 341-42, several classes ol, 
+division of pitrs iplo sowasaotal, Barhisadah and Agnisrāttan 343; earlier and later p. 341, element of the fear of pitrs 15 aot wantiog even in the Rgveda 347, enjoy delight in the company of Yama 193, fire is supposed to tale the spint of a cremated person to the pitrs 342, Fravasis of Parsi scriptures correspond to pitrs of ancient Indian words 3410, idea of, is Indo-Iranian 3410, ideoufied with Rtus (seasons) 10 Taittiriya Brahmana and Nanu 428, 430, 4500, joterpretation of toe word p. by the Iryasamāja 339, 10 many passages of the vedic literature pitrs mead three deceased male ancestors 347, lovocation of, 10 Rgveda X. 15, 194-195 ; 1 vocation of, after mentioning their gotra and names 348, invoked for conferring various boons such as happiness, wealth and beroic sons eren in the Rgveda, 346, 10 Vrdabi-srāddha are called Nāodimub ha 3590, love soma drink 194,342, man becomes free from debt due to p by offering water mixed wlib sesame, by letting loose a bull and by lighting lamps in the rainy season 541 ; Manu says gods sprang from p 344, meanings of the word P. are two, Viz & mao's threc immediate male ancestors and the ancient ancestors of the human race supposed to reside ia separate world 340-41, bancs of the pitrs of brālimanas and the other varṇas 343-44, oumber of classes of, cbanged in later times 348, of bim who doce not offer śrāddba on amāvāsyā cver with water or vegetablcs go away altor cursing bin 351, of tbrao grades in thc Rgveda, lower, midd log and bigher 341, presentation formula 1a Sat. Br differs from that of Tai S.347-348, regale themselves in the company of gods, particularly of Yama 341-42, several classes ol, 
 
 &Ś4 
 
@@ -2551,7 +2551,7 @@ division of pitrs iplo sowasaotal, Barhisadah and Agnisrāttan 343; earlier and 
 
 i Vol. 
 
-named by Manu who connects them with varnas 344 ; seyen classes of 
+named by Manu who connects them with varṇas 344 ; seyen classes of 
 
 Dails, pblegm, discharge from ryes 
 
@@ -2809,7 +2809,7 @@ Generat Inder
 
 891 
 
-attendants at temple of Jagannaiba divided into 36 orders and 97 classes 699; Brahma and Nāradiya purānas deal exhaustively with P 693, Caitanya settled at Puri 10 1515 aod died there in 1533 A D, 702, con flict of views about the builder of the great temple at, 698, description of the car festival of Jagannatha which is the most important of the 24 high festivals at Puri 697-698, five impurtant tirthas at 699, Gundi ca-yātrā for seven days 700-701, indications sbowing that P was & placc of Buddhist sanctuary 695-696, legend of Ipdradyamaa who establish cd wooden images of Krsna, Bala rama and Subhadra 694-695, Mitra surmises three penods in history of P viz, early Hiodu period, Baddbist period and Vaisnava period 695, oot described by Kalpataru on tirthas 693 , no truth in the stories about suicide by falling before the car of Jagaonātha 698, one of the four most importadt tirthas 10 Orissa, tlic other three being Bbuvancśvara, Konarka and Jājpur (Yayātipara) 693, peculiar features of P. are that no distinction of caste is observed, holy cooked rice, car festival 697, pool called after Indradyumda 694-695, 700, pool of Mārkandeya, story of 699, P was probably called Nilacala in ancient times, Krsna worship was introduced from aorthern India and threc images of wood were est ablishıcd carly 695, religious suicide at, recommended to dvijas by Brabmapurāna 608, regrettable fca ture of Jagannatha temple is the existence of obscene sculptures on the walls 702, Rgreda X 155 3 15 supposed by Sāyana to refer to P, 693 , sacred coclosure of Jagapnātba with 120 temples and the pagoda of Jagadgātha in foar chambers des cnbcd 696-697, sacred vata at P 699-700; story of Jagannātha in the 
+attendants at temple of Jagannaiba divided into 36 orders and 97 classes 699; Brahma and Nāradiya purānas deal exhaustively with P 693, Caitanya settled at Puri 10 1515 aod died there in 1533 A D, 702, con flict of views about the builder of the great temple at, 698, description of the car festival of Jagannatha which is the most important of the 24 high festivals at Puri 697-698, five impurtant tirthas at 699, Gundi ca-yātrā for seven days 700-701, indications sbowing that P was & placc of Buddhist sanctuary 695-696, legend of Ipdradyamaa who establish cd wooden images of Krsna, Bala rama and Subhadra 694-695, Mitra surmises three penods in history of P viz, early Hiodu period, Baddbist period and Vaiṣṇava period 695, oot described by Kalpataru on tirthas 693 , no truth in the stories about suicide by falling before the car of Jagaonātha 698, one of the four most importadt tirthas 10 Orissa, tlic other three being Bbuvancśvara, Konarka and Jājpur (Yayātipara) 693, peculiar features of P. are that no distinction of caste is observed, holy cooked rice, car festival 697, pool called after Indradyumda 694-695, 700, pool of Mārkandeya, story of 699, P was probably called Nilacala in ancient times, Krsna worship was introduced from aorthern India and threc images of wood were est ablishıcd carly 695, religious suicide at, recommended to dvijas by Brabmapurāna 608, regrettable fca ture of Jagannatha temple is the existence of obscene sculptures on the walls 702, Rgreda X 155 3 15 supposed by Sāyana to refer to P, 693 , sacred coclosure of Jagapnātba with 120 temples and the pagoda of Jagadgātha in foar chambers des cnbcd 696-697, sacred vata at P 699-700; story of Jagannātha in the 
 
 Brahmapurāṇa 694-695, three images described by Hunter and Nitra which are supposed to correspoud to Buddha, Dharma and Sangha 695n, 696, veśyās (dancing girls) at temple of, referred to in Bralima. 
 
@@ -3561,7 +3561,7 @@ IV)
 
 909 
 
-precipice or by fire or by drowning or fasting or jumpiog from Vata tree at Prayaga 604, one who, boomingly or unlpowiagly, wilfully or usintention. ally, dies in the Ganges, secures on death beaven and molsa (according to Tadma) 607, psychology behind religious s 611, religious suicide at Porusottama is referred to 10 Brah wapurāna 701 , religious suicide Nasallowed at Prayāga or at the Vata there or at some other tirtbas 604, 608, some medieval digests allowed religiouss to all varnas while Tirtha prakāśa restricts it to members of castes other than the first 609, some smrtis, the Mabābbārata and some Purāṇas do recommend religious s. at Prayaga and other holy places 607-608, some writers of medieval times combat the view that religious $ is permitted 608-609, Tristbaliseta refuses authority to commit s. at Prayāga to any person abandoning his old parents, young wife and childrep and to women who are pregpant or have young children or bave no permission from husband 609, wife was alloned to die oa her łusband's death by sahagamana or 
+precipice or by fire or by drowning or fasting or jumpiog from Vata tree at Prayaga 604, one who, boomingly or unlpowiagly, wilfully or usintention. ally, dies in the Ganges, secures on death beaven and molsa (according to Tadma) 607, psychology behind religious s 611, religious suicide at Porusottama is referred to 10 Brah wapurāna 701 , religious suicide Nasallowed at Prayāga or at the Vata there or at some other tirtbas 604, 608, some medieval digests allowed religiouss to all varṇas while Tirtha prakāśa restricts it to members of castes other than the first 609, some smrtis, the Mabābbārata and some Purāṇas do recommend religious s. at Prayaga and other holy places 607-608, some writers of medieval times combat the view that religious $ is permitted 608-609, Tristbaliseta refuses authority to commit s. at Prayāga to any person abandoning his old parents, young wife and childrep and to women who are pregpant or have young children or bave no permission from husband 609, wife was alloned to die oa her łusband's death by sahagamana or 
 
 anamarana 604 Sulapāai 1040 Sumantu 180, 80, 258, 350, 415, 6160 Surā, ksatriyas and vaisyas incorred 
 
@@ -3581,7 +3581,7 @@ vicāra 614 Susruta 4150 Sutaka, employed in the Art Br 269;
 
 three meadings of, 10 smrtis, viz (1) impurity on birth, (2) impurity on death alone, (3) impurity on both 
 
-birth and death 269 Suttapipāta 176, 5500, 707 Suvarna, meaning of 23, 129, 1390 Suvarnalrcchra 151 Savāstu (modern Swat), a river met. 
+birth and death 269 Suttapipāta 176, 5500, 707 Suvarṇa, meaning of 23, 129, 1390 Suvarṇalrcchra 151 Savāstu (modern Swat), a river met. 
 
 tioned in the Rgveda 534 Svarga, actions that lead to, enumer 
 
@@ -3747,7 +3747,7 @@ bulls) as fruitless, but Kūrnia recommends to those who are doable to walk cons
 
 (published 10 Beogalı characters ) 6699, 670, 6738, 6740 Todarābanda, 59, 3760 (on śrāddba), 382a, 3980, 4080, 4170, 457, 4610, 
 
-462, 475, 4760, 4840, 582 Tolappar, followed by Madras Vaisna 
+462, 475, 4760, 4840, 582 Tolappar, followed by Madras Vaiṣṇa 
 
 ras on śrāddha, 486 Tonsure (190a or mondanal, vide un 
 
@@ -3859,7 +3859,7 @@ dana 5420 Vaidbști-gogas, 13 in a year, 3830 Vaidya, MIE MI V. 5480 Vaidza, Dr 
 
 and apara kriyās, followed by 
 
-Vaisnavas in Madras 456 Vaijayanti, come on Satyasadha-srauta 
+Vaiṣṇavas in Madras 456 Vaijayanti, come on Satyasadha-srauta 
 
 sūtra 2650,253, 254, com on Visau. 
 
@@ -3877,7 +3877,7 @@ Visaur-va-cakramc), 4con
 
 Vol. 
 
-Vaisnavi yajus 18 Tai s. I I 31 484,5640, 579, 582, 587, 589. 5940, 
+Vaiṣṇavi yajus 18 Tai s. I I 31 484,5640, 579, 582, 587, 589. 5940, 
 
 (Visho bavyam raksasva), 4660 
 
@@ -4101,7 +4101,7 @@ Vyavabāramazūkla 257a, 280, 535n, Vrddha-or Vrdd br-frcchra 150
 
 5389, 569 Vrddha-Manu 2220, 2850, 3710, 390, 
 
-Vyavabaranirnaya 2800 532 
+Vyavabaranirṇaya 2800 532 
 
 Water, all destics arc ccnired in wafers VradbamParisara 113, 5030 
 
@@ -4143,7 +4143,7 @@ wella and small reservoirs 15 same 324, when a well or a reservoir with a dam is
 
 Wife, see under pativratā; even a 
 
-Lsatriya wife of a brābmana āhitāgni, if she died before him, sas to be cremated with his sacred fires, acc. to Viśvarūpa 226, husband had to observe a brief sauca on the death of a wife wbo bad left bim or bad inter course with another of the same or higher varna, but had to observe no asanca if she lived with one of lower varna 290, of Rbitāgai was cremated with his sacred fires and sacrificial implements if she died before bim 225, of hbitāgai dyiog after him was to be cremated with nirmanilya fire 226, of brābnaba, even of the sūdra caste, was not to drink sarā 22, of dvija was forbidden the dnak. ing of surā 21, of deceased dvija was made to lie on the wooden pile 10 cremation ground and then made to get up, acc to sūtras 207, of sacrificer in Varodapraghasa bad to confess whether she had a lover 37-38, 40, virtuous w alone was cremated with srauta or stāsta fire 226, was given only two alternatives by Viṣṇud barma-sūtra and others on husband's death, vız becoming a sati or leading a life of perfect celi bacy 256, was authorised to per form funeral rites and yearly and other sraddhas for her husband with Vedic mantras by some late works, though some porānas were against 
+Lsatriya wife of a brābmana āhitāgni, if she died before him, sas to be cremated with his sacred fires, acc. to Viśvarūpa 226, husband had to observe a brief sauca on the death of a wife wbo bad left bim or bad inter course with another of the same or higher varṇa, but had to observe no asanca if she lived with one of lower varṇa 290, of Rbitāgai was cremated with his sacred fires and sacrificial implements if she died before bim 225, of hbitāgai dyiog after him was to be cremated with nirmanilya fire 226, of brābnaba, even of the sūdra caste, was not to drink sarā 22, of dvija was forbidden the dnak. ing of surā 21, of deceased dvija was made to lie on the wooden pile 10 cremation ground and then made to get up, acc to sūtras 207, of sacrificer in Varodapraghasa bad to confess whether she had a lover 37-38, 40, virtuous w alone was cremated with srauta or stāsta fire 226, was given only two alternatives by Viṣṇud barma-sūtra and others on husband's death, vız becoming a sati or leading a life of perfect celi bacy 256, was authorised to per form funeral rites and yearly and other sraddhas for her husband with Vedic mantras by some late works, though some porānas were against 
 
 this 259 Wilson, translator of Viṣṇupurīna 726, 
 
@@ -4167,7 +4167,7 @@ te giren bare majdlegance and was not to be cast on the street 105, how
 
 called Ghatasphota 105 Women, zsauca for married s in the 
 
-case of the death of parents or brother or in case they hear of it beyond ten days, within 2 year or after a sear from death or of death of grandfather 278-279, in case of married y. if they were delivered or died at father's house then only ibe father has to observe zsauca for one or three days, but none other. vise, acc. to Vigo 278; four classes of, that were Lo be altogether abaodoped and not girea even starving maintenance 105, goulty of offence liable to death sentence are to be popished with catting off a Jimb 80, married w. had to obserse zsauca for three days for death of parents or step-nother of ten days bad pot elapsed from death or for the remaining days out of ten 278, may perform prānāyāmas and give gilts as pedances in secret 125, of drija classes guilty of adultery with 2 Sidra could be farified by a pedance if they do not give birth to a cbilā of the intercourse 105, of all varnas were allowed to drink pañcagavya as Temoser of sios 142, three acts specially condemned in Tonea, yiz, sexdal intercourse with 
+case of the death of parents or brother or in case they hear of it beyond ten days, within 2 year or after a sear from death or of death of grandfather 278-279, in case of married y. if they were delivered or died at father's house then only ibe father has to observe zsauca for one or three days, but none other. vise, acc. to Vigo 278; four classes of, that were Lo be altogether abaodoped and not girea even starving maintenance 105, goulty of offence liable to death sentence are to be popished with catting off a Jimb 80, married w. had to obserse zsauca for three days for death of parents or step-nother of ten days bad pot elapsed from death or for the remaining days out of ten 278, may perform prānāyāmas and give gilts as pedances in secret 125, of drija classes guilty of adultery with 2 Sidra could be farified by a pedance if they do not give birth to a cbilā of the intercourse 105, of all varṇas were allowed to drink pañcagavya as Temoser of sios 142, three acts specially condemned in Tonea, yiz, sexdal intercourse with 
 
 a man of lower vama, causing abortion, Eilling husband 105, toles abont uncleanliness for women in monthly Olsess are older tban Tai S 309, that hare adopted beterodox viesys and practices, that are thies es of gold and the like, that attempt to bill husbands, that are uocbaste, that drin. liquor or attempt suicide should not be cffered water op death and no zapca sboald be obserred for them 301; toosure of entire head prescribed for all women at Prayāga by Raghooandada, though others did not agree 603; fere regarded as Dacieaa on child birth, the duration of imponty depending on the sex of 
 

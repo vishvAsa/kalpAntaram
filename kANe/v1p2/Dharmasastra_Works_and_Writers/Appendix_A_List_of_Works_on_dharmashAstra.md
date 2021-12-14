@@ -388,7 +388,7 @@ H. D.---125
 
 भाचारकौमुदी by राजाराम son of | आचारतराङ्गणी by रविनाथमिश्र. 
 
-सोमेश्वर (Vaisnavite treatise on | आचारतत्त्व by हरिप्रसाद, son of मकरन्द good conduct and devotion to (Stein's cat. pp. 83 and 301). Viṣṇu) ms. (N. vol. VIII. 191) | 
+सोमेश्वर (Vaiṣṇavite treatise on | आचारतत्त्व by हरिप्रसाद, son of मकरन्द good conduct and devotion to (Stein's cat. pp. 83 and 301). Viṣṇu) ms. (N. vol. VIII. 191) | 
 
 आचारतिलक quoted in द्रव्यशुद्धि dated संवत् 1782 (1725-26 A.D.). 
 

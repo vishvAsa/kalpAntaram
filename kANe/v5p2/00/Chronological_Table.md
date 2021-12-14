@@ -199,7 +199,7 @@ Vidhirasāyana and numerous works on different
 
 śāstras and topics ( vide p. 1199 above ). 1560 A. D.-1620 A. D.-Saṅkarabhatta, son of Nārā 
 
-yaṇabhatta and author of Dvaitanirnaya, Mimāṁ 
+yaṇabhatta and author of Dvaitanirṇaya, Mimāṁ 
 
 sābālaprakāśa and other works. 1590 A. D.-1630 A. D.-Nandapaṇựita, author of Dvai 
 

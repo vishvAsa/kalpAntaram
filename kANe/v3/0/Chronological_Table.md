@@ -69,7 +69,7 @@ Chronological Table :
 
 1200 - 1225 A. D. - Smrticandrika of Devannabhatta. 1150 -- 1300 A. D. - Haradatta, com. on Gautamadharmagūtra i and Apastambadharmasūtra. 
 
-1150 -- 1300 A. D. - Kullūka, com. of Manusmrti. 1200-1300 A. D. --- Vyavahāranirnaya of Varadarīja. 1260 -- 1270 A. D. - Caturvargacintamani of Hemādri. 1290 -- 1370 A. D. - Candeśvara, author of Rājanitiratnākara, 
+1150 -- 1300 A. D. - Kullūka, com. of Manusmrti. 1200-1300 A. D. --- Vyavahāranirṇaya of Varadarīja. 1260 -- 1270 A. D. - Caturvargacintamani of Hemādri. 1290 -- 1370 A. D. - Candeśvara, author of Rājanitiratnākara, 
 
 Vivādaratnākara, Grhastharatnākara and other works. 1300 - 1380 A. D. --- Mādhavācārya, author of Parāśarama 
 
@@ -91,7 +91,7 @@ Nṭsimhaprasāda, 1500 - 1525 A. D. , The Sarasvativilāsa compiled under king
 
 several other works. 1520 - 1575 A. D. - Raghunandana, author of Dāyatattva, 
 
-Divyatattva, Vyavahāratattva and other Tattvas. 1560 - 1620 A. D. -- Saṅkarabhatta, author of Dvaitanirnaya 
+Divyatattva, Vyavahāratattva and other Tattvas. 1560 - 1620 A. D. -- Saṅkarabhatta, author of Dvaitanirṇaya 
 
 or Dharmadvaitanirṇaya. 1590 – 1630 A. D. - Nandapandita, author of the Dattakami 
 

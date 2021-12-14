@@ -89,7 +89,7 @@ xxii
 
 History of Dharinasāstra 
 
-Var. = Varahapurana. Varaha = Varihanmihira. V. Dh. or Viṣṇu Dh. S. = Viṣṇudharmasutra. Vi. Dh. = Viṣṇu-Dharmottara-purana. V. K. K. = Varṣa-kriya-kaumudi. V. K. R. = Varṣakṣtya of Rudradhara. V.S. = Vedintasutra of Bidarayana. Y.S. = Yogasutra. Yaj. = Yajnavalkya-smrti. अ. का. ) 
+Var. = Varāhapurana. Varāha = Varihanmihira. V. Dh. or Viṣṇu Dh. S. = Viṣṇudharmasutra. Vi. Dh. = Viṣṇu-Dharmottara-purana. V. K. K. = Varṣa-kriya-kaumudi. V. K. R. = Varṣakṣtya of Rudradhara. V.S. = Vedintasutra of Bidarayana. Y.S. = Yogasutra. Yaj. = Yajnavalkya-smrti. अ. का. ) 
 
 है = अहल्याकामधेनु ( Ms. in Scindia Institute, Ujjain) अ.का.धे. अग्नि. ) NAAM = अग्निपुराण ( आनन्दाश्रम ed.) अथर्व. = अथर्ववेद (ed. by Pandit Satavalekar ) अपरार्क. = Com. of, on या. स्मृति ( आनन्दाश्रम ed.) अ. सा. = अद्भुतसागर of बल्लालसेन (Calcutta, 1905) आप. 2. = आपस्तम्बगृह्यसूत्र आप.ध. सू. = आपस्तम्बधर्मसूत्र आप. श्री. = आपस्तम्बश्रौतसूत्र आश्व. गृ. = आश्वलायनगृह्यसूत्र आश्व श्री. ) आश्व. श्री. स. = आश्वलायनश्रौतसूत्र ऋ= ऋग्वेद ए. त. = एकादशीतत्त्व ऐ. वा. = ऐतरेयव्राह्मण कल्प. 
 

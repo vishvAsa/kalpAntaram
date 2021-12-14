@@ -211,7 +211,7 @@ Bhaksyābhaksya--Brahmavai- 11 and 14 ); Skanda I
 
 varta (brahmakhanda 27, ( Kaumārikā – khanda 2 4th khanda, uttarardha for names of famous do chap. 85 ); Kūrma (utta- nors), III. 2 (dharina rārdha chap. 17); Padma ranya 34 ), VII. I. 5 and (ādikhanda 56 ). 
 
-208 ; Varāba 99-111. Brāhmaṇa-vide under varna. | Dravyśśuddhi - Agni 156, 
+208 ; Varāba 99-111. Brāhmaṇa-vide under varṇa. | Dravyśśuddhi - Agni 156, 
 
 dharmas; 
 

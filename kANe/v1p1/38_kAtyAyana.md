@@ -7,7 +7,7 @@ title = "38 Kātyāyana"
 
 
 
-38. Katyayana Nārada, Bșhaspati and Kātyāyana form a triumvirate in the realm of the ancient Hindu Law and procedure. The work of Kātyāyana on Vyavahāra, like that of Bphaspati, has yet to be recovered. After the first volume of H. of Dh. was published in 1930, I contributed to a Law Journal in Bombay & collec tion of Kātyāyana's verses gathered from quotations in 21 works and later (in 1933 ) published in a book form 973 verses of Kātyāyana with English translation, two Appendices and a General Index (in all 372 pages). Later on Prof. K. V. Rangaswami Aiyangar contributed a paper to the Kane Fest schrift (pp 7-17) embodying 121 additional verses of Kātyāyana from the work called Vyavahāranirnaya of Vara darāja ( which he published in 1942 48 No. 29 of the Adyar Library series ). 
+38. Katyayana Nārada, Bșhaspati and Kātyāyana form a triumvirate in the realm of the ancient Hindu Law and procedure. The work of Kātyāyana on Vyavahāra, like that of Bphaspati, has yet to be recovered. After the first volume of H. of Dh. was published in 1930, I contributed to a Law Journal in Bombay & collec tion of Kātyāyana's verses gathered from quotations in 21 works and later (in 1933 ) published in a book form 973 verses of Kātyāyana with English translation, two Appendices and a General Index (in all 372 pages). Later on Prof. K. V. Rangaswami Aiyangar contributed a paper to the Kane Fest schrift (pp 7-17) embodying 121 additional verses of Kātyāyana from the work called Vyavahāranirṇaya of Vara darāja ( which he published in 1942 48 No. 29 of the Adyar Library series ). 
 
 Kātyāyana is enumerated as one of the expounders of dhurma by Sarkha-Likhita, Yājṅavalkya ( I. 4-5 ) and Parā Sara. A Kātya is quoted as an authority in the Baudhāyana dharmasūtra (I. 2. 37). A Srautasūtra and Sraddhakalpa of the white Yajurveda are ascribed to Kātyāyana. 
 
@@ -115,7 +115,7 @@ handed with their booty should be at once banished.568 As regards both these ref
 
 but somewhat different from and probably larger than the present Manusmrti. 
 
-In the nibandhas several.verses are ascribed to Kātya yana along with Manu, Yājîavalkya and Brhaspati. For example, the well-known verse about the sixtold division of stridhana (adhyaynyadhyāvahanikam &c. ) is ascribed by the Dāyabhāga to Manu and Kātyāyana. The half-verse "varṇā nāmānulomyena dāsyam na pratilomatah" is the same in both Yājñavalkya (11. 183 ) and Katyāyana. The Viramitrodaya (p. 140 ) ascribes a verse to Brhaspati and Kātyāyana, in which the opinion of Brhaspati is cited. There is very close agreement between the definitions proposed by the two last writers of dharma, vyavahāra, caritra, and rājaśāsana. Besides Manu (or Mānavas ), Byhaspati and Bhrgu, Kātyāyana cites the views of several other writers on dharma. For Gārgyas and Gautama vide uotes 567 and 568. He says, accord ing to Kausika, powerful robbers were to be guarded by chains of iron, were to be low-fed and were to undergo hard labour for the state till death ( Aparārka p. 849). He quotes the view of Likhita that where a woman is deprived of food, raiment and dwelling (by her husband's coparceners ) she would be entitled to demand her own ( stridhana ) and a share from the coparceners. In one case ( Aparārka p. 755 ), a verse is cited as Kātyāyana's in which Katyāyana himself is named (Parāśaramadhaviya III. p. 235). 
+In the nibandhas several.verses are ascribed to Kātya yana along with Manu, Yājīavalkya and Brhaspati. For example, the well-known verse about the sixtold division of stridhana (adhyaynyadhyāvahanikam &c. ) is ascribed by the Dāyabhāga to Manu and Kātyāyana. The half-verse "varṇā nāmānulomyena dāsyam na pratilomatah" is the same in both Yājñavalkya (11. 183 ) and Katyāyana. The Viramitrodaya (p. 140 ) ascribes a verse to Brhaspati and Kātyāyana, in which the opinion of Brhaspati is cited. There is very close agreement between the definitions proposed by the two last writers of dharma, vyavahāra, caritra, and rājaśāsana. Besides Manu (or Mānavas ), Byhaspati and Bhrgu, Kātyāyana cites the views of several other writers on dharma. For Gārgyas and Gautama vide uotes 567 and 568. He says, accord ing to Kausika, powerful robbers were to be guarded by chains of iron, were to be low-fed and were to undergo hard labour for the state till death ( Aparārka p. 849). He quotes the view of Likhita that where a woman is deprived of food, raiment and dwelling (by her husband's coparceners ) she would be entitled to demand her own ( stridhana ) and a share from the coparceners. In one case ( Aparārka p. 755 ), a verse is cited as Kātyāyana's in which Katyāyana himself is named (Parāśaramadhaviya III. p. 235). 
 
 Kātyāyana contains the same advanced views about law and rules of procedure as are found in Nārada and Bșhaspati. 
 
@@ -265,7 +265,7 @@ FOUNE
 
 
 
-Prof. Aiyangar's own collection of Brbaspati verses ; P. M. = Parāśara-mādhaviya, Vy. N. =Vyavahāranirnaya ed. by Prof. Aiyangar): 
+Prof. Aiyangar's own collection of Brbaspati verses ; P. M. = Parāśara-mādhaviya, Vy. N. =Vyavahāranirṇaya ed. by Prof. Aiyangar): 
 
 1. The verse · Unmatta-matta' in Vy. N. p. 59 is ascribed 
 

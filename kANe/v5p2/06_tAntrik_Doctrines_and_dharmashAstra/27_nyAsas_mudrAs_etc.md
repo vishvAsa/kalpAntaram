@@ -195,7 +195,7 @@ Another item in the Tantrik worship is that of Mandala which has been algo a pro
 
 History of Dharmatāstra (dec. VI, Ch. XXVTI 
 
-circular) drawn on an altar and the like. In the Sulbasūtras of Åpastamba and Katyayana reference is made to the squaring of a circle (mandala).1952 The Matsyapurāṇa refers in several passages to mandalas drawn with powders of five colours (as in 58. 22). It also refers to the figure of a lotus of twelve or eight patals drawn with saffron or red sandalwood paste or with various colours (72. 30; 62. 15; 64. 12–13; 74. 6-9 a lotus figure with eight patals and pericarp for sun worship). Varābamihira in Bṛ. 8. (chap. 47) describes 1853 a very auspicious ceremony called Pusy aspāna in which a mandala was to be drawn on holy ground with powders of different colours in which positions were to be assigned to gods, planets, stars etc. The Brahmapurāṇa ( 28, 28 ) mentions the invocation of the Sun on the figure of a lotus and Brahmapurāpa ( 61. 1-3) about the worship of Nārāyana on a mandala in the form of a lotus is quoted by Raghunadana in Puruṣottama-tattva (p. 569). The Harṣacarita 1854 (first half of 7th century A. D.) refers to a large mandala being drawn in several colours. The Varahapurāṇa refers to the images or paintings of Lakṣmi and Nārāyana in a mandala for worship (chap. 99. 9-11). The Agnipurāṇa (chapter 320 ) refers to eight mandalas, Sarvatobhadra and others. Several mandalas are described in Sāradātilaka III. 113–118, 131-134, 135-139 (davanabhamandala ), in Jñānārṇava 26. 15-17 and other works. According to the Amarakośa 1855 Sarvatobhadra is a variety of 
+circular) drawn on an altar and the like. In the Sulbasūtras of Åpastamba and Katyayana reference is made to the squaring of a circle (mandala).1952 The Matsyapurāṇa refers in several passages to mandalas drawn with powders of five colours (as in 58. 22). It also refers to the figure of a lotus of twelve or eight patals drawn with saffron or red sandalwood paste or with various colours (72. 30; 62. 15; 64. 12–13; 74. 6-9 a lotus figure with eight patals and pericarp for sun worship). Varābamihira in Bṛ. 8. (chap. 47) describes 1853 a very auspicious ceremony called Pusy aspāna in which a mandala was to be drawn on holy ground with powders of different colours in which positions were to be assigned to gods, planets, stars etc. The Brahmapurāṇa ( 28, 28 ) mentions the invocation of the Sun on the figure of a lotus and Brahmapurāpa ( 61. 1-3) about the worship of Nārāyana on a mandala in the form of a lotus is quoted by Raghunadana in Puruṣottama-tattva (p. 569). The Harṣacarita 1854 (first half of 7th century A. D.) refers to a large mandala being drawn in several colours. The Varāhapurāṇa refers to the images or paintings of Lakṣmi and Nārāyana in a mandala for worship (chap. 99. 9-11). The Agnipurāṇa (chapter 320 ) refers to eight mandalas, Sarvatobhadra and others. Several mandalas are described in Sāradātilaka III. 113–118, 131-134, 135-139 (davanabhamandala ), in Jñānārṇava 26. 15-17 and other works. According to the Amarakośa 1855 Sarvatobhadra is a variety of 
 
 1852. 1 Home Partita Arara itzi farger grafa: gitaar तृतीयेन सह मण्डलं परिलिखेत् । सा निस्वा मण्डलम् । यावद्धीयते तावदागन्तु। मण्डलं चतर चिकीर्षन विष्कम्भ पशवाभापान कृत्वा द्वावुद्धरेत् । त्रयोदशावशिष्यन्ते सा निस्वा चतुरभम् । myte III. 2-3 (Z. D. M. G. vol. LV. p. 579): compare a similar provision in the Sulbasūtra of Kātyāyana q, by true on manfach III. 57, Vide 'The science of tbe Sulba' (a stody lo early Hindo Geometry) by Bibbati bhushan Datta (Calcutta, 1932) pp. 140 ff. The three fre-mounds required la vedic sacrifices are Gārbapatya, Ābavaniya and Daksināgoi and they have to be respectively circalar, square and semi-circular in form and a farther requirement is that all the three bave to be equal in area. Therefore, the Ap. Sulbasūtra provides a method for securing this when it says that a person desiring to make a circle (equal in area) to a square etc. ___1853. तस्मिन् मण्डलमालिख्य कल्पयेचत्र मेदिनीम् । नानारत्नाकरवी स्थानानि विविधानि च।...वर्णकार्विविधैः कृत्वा हयैर्गन्धगुणान्वितैः। यथावं पूजयविद्वानान्धमाल्याइले. Tamil TESTRIUT 47.24 f. artta refers to h. 
 
@@ -265,7 +265,7 @@ History of Dharmasastra 1 Seo, VI, Ch. XXVII
 
 These passages make it clear that a yantra was deemed to be a factor belping in restraining the restless movements of the mind due to anger, love and the like and in making the mind concentrate on a diagram or model deemed to represent the deity worshipped. It induced concentration and encouraged the mental realization of the deity. The distinction between the dercyū and yantra is similar to that between the soul and the body. Most Hindus look upon such forms of worship without antipathy because it is felt that they serve as a way of approach to divinity for ordinary unsophisticated people and that it is better to have one's foot on the lowest rung of the ladder to higher life than to bave it on no rung at all. 
 
-Yantras are described in such Tantrik and other works as Tripurātāpani Upariṣad (II. 3), Prapancasāratantra (patalas 21 and 34), Sāradātilaka (VII. 53-63, XXIV), Kamakalāvilāsa (verses 22, 26, 29, 30, 33), Nityāsodaśikārnava (I. 31-43) Nityotsava (pp. 6,64-5), Tantra-rājatantra (II. 44-51, VIII, 30 ff. XXXIII), Ahirbudhnyasamhita (chap. 23-26), Mantramaho dadhi (20th Taranga), Kaulajñānanirnaya (X, which speaks of them as cakras), Kaulāvalīnirnaya (III. 105–135), Merutantra (33rd prakāśa, 562 vorses), Mantramahārnava-tantra (Uttard khanda, 11th taranga). It is not possible to deal with all this large material here. The Padma (Pātālakhanda, 79. 1) provides that the worship of Hari (Vispu) may be performed on the Salagrāma stone or on a jewel or a yantra, a mandala, or images, and not merely in a temple. The Ahirbudhnya-sambitā (chap. 36, verses 5-66) describes the procedure of the worship of a Sudarsana-yantra by a king or other personage desiring wealth or prosperity. One yantra or cakra may be explained and illustrated here. The most noted is óricakra described in two verses quoted 1853 below and explained in some detail in the 
+Yantras are described in such Tantrik and other works as Tripurātāpani Upariṣad (II. 3), Prapancasāratantra (patalas 21 and 34), Sāradātilaka (VII. 53-63, XXIV), Kamakalāvilāsa (verses 22, 26, 29, 30, 33), Nityāsodaśikārnava (I. 31-43) Nityotsava (pp. 6,64-5), Tantra-rājatantra (II. 44-51, VIII, 30 ff. XXXIII), Ahirbudhnyasamhita (chap. 23-26), Mantramaho dadhi (20th Taranga), Kaulajñānanirṇaya (X, which speaks of them as cakras), Kaulāvalīnirṇaya (III. 105–135), Merutantra (33rd prakāśa, 562 vorses), Mantramahārnava-tantra (Uttard khanda, 11th taranga). It is not possible to deal with all this large material here. The Padma (Pātālakhanda, 79. 1) provides that the worship of Hari (Vispu) may be performed on the Salagrāma stone or on a jewel or a yantra, a mandala, or images, and not merely in a temple. The Ahirbudhnya-sambitā (chap. 36, verses 5-66) describes the procedure of the worship of a Sudarsana-yantra by a king or other personage desiring wealth or prosperity. One yantra or cakra may be explained and illustrated here. The most noted is óricakra described in two verses quoted 1853 below and explained in some detail in the 
 
 1863. Fore -TerraTTA-ATHATTE \#Yagian I ITTI erroir 7 sa u aratat: g. by Thore of wrathi (B. I, ed, of 1868) p. 255 and by menu on racunatsfranit 1, 31 from oths (probably from the 9193 said to be composed by the great prard himself) and चतुभिः श्रीकण्ठैः शिवयुवतिभिः पञ्चभिरपि प्रभिलाभिः शम्भोनवभिरपि मूलमतिभिः। वय श्वत्वारिंशद्वसदलकलाश्रत्रिवलयत्रिरेखाभिः सार्ध तब भवनकोणाः परिणतासौन्दर्यलहरी verse 11 in ed, by Ganesh and Co. Madras, 1957 with Com. Ára. Some writers read in the 2nd verse T i tra . at stands for 8, Hes for 14, fm for 8, F67 for 16. There are two ways of describing it viz. from the bindu onwards (which is called Srsti-krama) or from the outer llaes to the bindu (wbich is called sambāra-krama). Vide 'Shakti and Shākta' by Sir Joba 
 
@@ -353,7 +353,7 @@ names of 64 tantras are cited. Kulārnava-tantra-It is in 17 ullāsas and contai
 
 Verses. It is a famous work profusely quoted (published in Tantrik Texts, vol. V, London, 1917). It is an early tantra, probably composed before 1000 A. D. In the colophons it is said to be a tantra of the Urdhyāmnāya (the fifth of the five amnāyas) and as part of the work of one lakh and & quarter verses. Vide A. B. O. R. I. vol. XIII. pp. 206-211 for a paper on 'Kulārṇava-tantra, its extent and contents' by Prof. Chintaharan Chakravarti. 
 
-Raulāvalinirnaya of Jöānānandagiri in twenty-one ullāsas, ed. 
+Raulāvalinirṇaya of Jöānānandagiri in twenty-one ullāsas, ed. 
 
 by A. Avalon in Tantrik Texts, vol. XIV; in I. 2-14 names numerous Tantras including yāmalas and in I. 92–93 eight 
 
@@ -463,7 +463,7 @@ by Jivananda (Calcutta); it is a very large modern work
 
 in 1097 pages. Brahmasamhitā, with the commentary of Jiva Gogvāmi; for 
 
-Vaiṣpavas; pub, in Tāntrik texts, vol. XV. Mantramahodadhi of Mabidhara with his own commentary ; 
+Vaiṣṇavas; pub, in Tāntrik texts, vol. XV. Mantramahodadhi of Mabidhara with his own commentary ; 
 
 composed in Vikrama year 1645 (1588-89) A, D. ; pub. by 
 
@@ -475,7 +475,7 @@ here and there. Malpkā-cakra-viveka of Svatantrānandanātha, with the com.
 
 of Sivananda; pub. in S. B. serios, 1934. Māheśraratantra, in 51 patalas and 3060 verses (pub. in Ch. S. S.); 
 
-mentions that Tantras are 64 (1.15 and 26, 11 ) and names 25 Vaisnava tantras (26. 16-20) and holds that Bauddha 
+mentions that Tantras are 64 (1.15 and 26, 11 ) and names 25 Vaiṣṇava tantras (26. 16-20) and holds that Bauddha 
 
 tantras are misleading and meant for cruel rites ( 26.21-22). Merutantra; extensive work in 35 chapters, 821 pages and about 
 
@@ -483,7 +483,7 @@ tantras are misleading and meant for cruel rites ( 26.21-22). Merutantra; extens
 
 Ekādasītattva p. 58. Yoginihrdaya-the last three chapters of Nityāṣodaśikārṇava 
 
-(VI-VIII) are so called. Yoginihîdayadipikā of Amrtā pandanātha, disciple of Punyānan 
+(VI-VIII) are so called. Yoginihīdayadipikā of Amrtā pandanātha, disciple of Punyānan 
 
 danātha, pub, in 8. B. series, 1923; about 10th or 11th 
 
@@ -603,7 +603,7 @@ from Tibetan by Dr. E. Obermiller. Descriptive catalogue of mss in the Library o
 
 of Bengal, vol. VIII (deals with 648 msg. on Tantra in 
 
-892 pages). Bhandarkar's Vaiṣpavism, Saivism &c. (in collected works, vol. 
+892 pages). Bhandarkar's Vaiṣṇavism, Saivism &c. (in collected works, vol. 
 
 IV. pp. 202-210 on Sāktas). Tantra of the Great Liberation (translation of the Mahānirvāṇa 
 
@@ -635,7 +635,7 @@ Calcutta, 1934).Appendit
 
 1149 
 
-P. C. Bagchi's Introduction to Kaulajñāna-nirnaya (Caloutta 
+P. C. Bagchi's Introduction to Kaulajñāna-nirṇaya (Caloutta 
 
 Sanskrit Series, 1934). "Tibetan Yoga and secret doctrines' by W. Y. Evans-Wentz 
 

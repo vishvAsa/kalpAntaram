@@ -11,7 +11,7 @@ Sec. 1 Meaning of Dharma :
 
 .. pp. 1-6 
 
-Defies exact rendering in English - In the Rgveda, used as ad jective or noun - means ' upholder or supporter'in some Ṛgvedic passages - in most Rgveda passages means 'religious ordinances or rites' and in rare cases · fixed principles or rules of conduct ' . in Aitareya-brahmana dharma means “whole body of religious duties'. in Chandogva-Upaniṣad dharma means 'peruliar duties of aśramas-' dharma came to mean' duties and privileges of a person as a mem ber of the Aryan community, as member of one of the varnas or as in a particular stage of life - the same meaning in Taittiriya Upaniṣad (1. 11), Bhagavadgita, Manusmṛti and other smṛtis - according to Medbātithi, dharma five-fold viz., varnadharma, āśra madharma, varnāsramadharma, naimittikadharma, gunadharma - this meaning of dharma taken in this work - definitions of dharma according to Jaimini, Vaisesikasūtra, Hārita, Mahābhārata and Buddhist works - subjects treated in this work, viz. sources of dharma, contents of works on dharma, their chronology. 
+Defies exact rendering in English - In the Rgveda, used as ad jective or noun - means ' upholder or supporter'in some Ṛgvedic passages - in most Rgveda passages means 'religious ordinances or rites' and in rare cases · fixed principles or rules of conduct ' . in Aitareya-brahmana dharma means “whole body of religious duties'. in Chandogva-Upaniṣad dharma means 'peruliar duties of aśramas-' dharma came to mean' duties and privileges of a person as a mem ber of the Aryan community, as member of one of the varṇas or as in a particular stage of life - the same meaning in Taittiriya Upaniṣad (1. 11), Bhagavadgita, Manusmṛti and other smṛtis - according to Medbātithi, dharma five-fold viz., varṇadharma, āśra madharma, varnāsramadharma, naimittikadharma, gunadharma - this meaning of dharma taken in this work - definitions of dharma according to Jaimini, Vaisesikasūtra, Hārita, Mahābhārata and Buddhist works - subjects treated in this work, viz. sources of dharma, contents of works on dharma, their chronology. 
 
 Sec. 2 Sources of Pharma : 
 
@@ -671,7 +671,7 @@ Sec. 92 Harinātha :
 
 Sec. 93 Madhavācārya : 
 
-... pp. 778-792 The most eminent of dakṣiṇātya writers on dharmaśāstra - two works on dharmaśāstra deserve special notice, viz. Parāśara Madhaviya and Kālanirṇaya - authors and works quoted in them - contents of Kalanirnaya - published in 1889 and 1936 - Sayana, the minister under four kings viz. Bukka, Kampana. Sangama II and Harihara II - Father Heras' 196 inscriptions – life-sketch of Vidyāraṇya - Heras' conclusion that the ascetics of Syngerimath fabricated the story of Vidyāranya as the founder of Vijayanagar etc. and the opinion about Vidyaranya superfluous - the identity 
+... pp. 778-792 The most eminent of dakṣiṇātya writers on dharmaśāstra - two works on dharmaśāstra deserve special notice, viz. Parāśara Madhaviya and Kālanirṇaya - authors and works quoted in them - contents of Kalanirṇaya - published in 1889 and 1936 - Sayana, the minister under four kings viz. Bukka, Kampana. Sangama II and Harihara II - Father Heras' 196 inscriptions – life-sketch of Vidyāraṇya - Heras' conclusion that the ascetics of Syngerimath fabricated the story of Vidyāranya as the founder of Vijayanagar etc. and the opinion about Vidyaranya superfluous - the identity 
 
 Synopsis of Contents 
 
@@ -683,7 +683,7 @@ Sec. 94 Madanapāla and Visveśvarabhatta:
 
 ... pp. 792-804 
 
-Four works attributed to Madanapāla, a great patron of learn ing like Bhoja, viz. Madanapārijāta, Smṛtimahārnava or Madana mahārṇava, Tithinirnayasāra and Smṛtikaumudi - Madanapārijāta really composed by Visveśvarabhatta - contents of Madanapārijāta - its proposition with regard to kanina and secondary sons - its style simple and lucid - authors and works quoted in it - Mahārṇava ascribed to Māndhātā, a son of Madanapāla - princi pal topics of the work – Tithinirnayasāra - Smṛtikaumudi deals with dharmas of sūdras - contents - all the above four works probably composed by Viśvesvarabhatta - Subodhini, com. on Mitāksarā by Visveśvarabhaatta is a leading authority in Benares school of Hindu Law - pedigree of Madanapāla - other works on astronomy and medicine attributed to Madanapāla – date of Madanapāla, between 1300-1400 A. D. - Madanavinodanighantu composed in 1431 of Vikrama era i. e. 1375 A. D. 
+Four works attributed to Madanapāla, a great patron of learn ing like Bhoja, viz. Madanapārijāta, Smṛtimahārnava or Madana mahārṇava, Tithinirṇayasāra and Smṛtikaumudi - Madanapārijāta really composed by Visveśvarabhatta - contents of Madanapārijāta - its proposition with regard to kanina and secondary sons - its style simple and lucid - authors and works quoted in it - Mahārṇava ascribed to Māndhātā, a son of Madanapāla - princi pal topics of the work – Tithinirṇayasāra - Smṛtikaumudi deals with dharmas of sūdras - contents - all the above four works probably composed by Viśvesvarabhatta - Subodhini, com. on Mitāksarā by Visveśvarabhaatta is a leading authority in Benares school of Hindu Law - pedigree of Madanapāla - other works on astronomy and medicine attributed to Madanapāla – date of Madanapāla, between 1300-1400 A. D. - Madanavinodanighantu composed in 1431 of Vikrama era i. e. 1375 A. D. 
 
 Sec. 95 Madanuratna : 
 
@@ -699,9 +699,9 @@ sition of work to them - Vyavahāra section edited by the present author - its c
 
 Sec. 96 Vidyāpati : 
 
-... PP. 810-815 Born in Bisapi, a village in north Bihar - fourth in descent from Dhireśvara, uncle of Candeśvara - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaisnava, while in Mithila he was held to be a Saiva - he made Queen Viśvāsadevi's work Gangāvākyāvali faultless and supplied textual authorities in support of her propositions – there appears to be agreement about the date of his death viz. 1448 A. D. – he may be held to have flourished between 1360-1448 A. D. 
+... PP. 810-815 Born in Bisapi, a village in north Bihar - fourth in descent from Dhireśvara, uncle of Candeśvara - Love songs of Vidyāpati - credited with the authorship of 12 works - he was believed to be a great Vaiṣṇava, while in Mithila he was held to be a Saiva - he made Queen Viśvāsadevi's work Gangāvākyāvali faultless and supplied textual authorities in support of her propositions – there appears to be agreement about the date of his death viz. 1448 A. D. – he may be held to have flourished between 1360-1448 A. D. 
 
-Sec. 97 Vyavaharanirnaya of Varadaraja : ... pp. 815-823 
+Sec. 97 Vyavaharanirṇaya of Varadaraja : ... pp. 815-823 
 
 Vyavahāranirṇaya having no Mangala sloka at the beginning - one of the four South Indian works on Dharmaśāstra - Varada rāja's explanations often same as in the Mit. - on the whole Vy. N. a pedestrian performance - quotes many smstis, works and authors, but nowhere refers to Bhāruci - Varadarāja a puny figure in th matter of Mimāṁsā as against the Mit. – later than the Mit. - bu 
 
@@ -731,7 +731,7 @@ Sec. 101 Vācuspatimiśra :
 
 ... pp. 844-854 
 
-The foremost nibandhakāra of Mithili - his Vivadacintāmaṇi of paramount authority on matters of Hindu Law in Mithilā - a voluminous writer - several works of his styled Cintamani on acara, āhnika, kṛtya, tirtha, dvaita, niti, vivada, vyavahara, suddhi, Śūdrācāra, śrāddha - works named by him - a group of his works ends in nirnaya 'viz. Tithinirṇaya, Dvaitanirnaya, Mahādānanir naya, Vivādanirnaya, Suddhinirṇaya - he also contemplated writing seven works styled Mahārṇava on krtya, acāra, vivada, vyavahāra, dāna, śuddhi and pitryajña - other works of his - Śrāddhakalpa or Pit;bhaktitarangiṇi his last work - personal history of Vacaspati - connected with king Bhairava and his son Rāmabhadra - genealogy of Kāmeśvara kings - Vācaspati flouri shed between 1425-1480 A. D. - philosopher Vācaspati different. 
+The foremost nibandhakāra of Mithili - his Vivadacintāmaṇi of paramount authority on matters of Hindu Law in Mithilā - a voluminous writer - several works of his styled Cintamani on acara, āhnika, kṛtya, tirtha, dvaita, niti, vivada, vyavahara, suddhi, Śūdrācāra, śrāddha - works named by him - a group of his works ends in nirṇaya 'viz. Tithinirṇaya, Dvaitanirṇaya, Mahādānanir naya, Vivādanirṇaya, Suddhinirṇaya - he also contemplated writing seven works styled Mahārṇava on krtya, acāra, vivada, vyavahāra, dāna, śuddhi and pitryajña - other works of his - Śrāddhakalpa or Pit;bhaktitarangiṇi his last work - personal history of Vacaspati - connected with king Bhairava and his son Rāmabhadra - genealogy of Kāmeśvara kings - Vācaspati flouri shed between 1425-1480 A. D. - philosopher Vācaspati different. 
 
 Sec. 102 Dandaviveka of Vardhamana : 
 

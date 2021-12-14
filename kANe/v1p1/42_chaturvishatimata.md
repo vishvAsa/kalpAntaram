@@ -15,7 +15,7 @@ FOUNDED
 
 511 
 
-Vatsa, Harita, Guru ( Brhaspati), Narada, Parāsara, Gautama, Yama, Baudhāyana, Daksa, Saikha, Aigiras, Sātātapa, Sārkhya (Sārkhyāyana? ), Saṁvarta. The subjects treated of are :-- The usages of the varmas and iframas, sauca, acamana, cleansing the teeth, bath, pranayama, repeating the Gāyatri, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, sam nyāsins, duties of Ksatriyas and the other two varnas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, srāddha, āśauca (on birth and death ). 
+Vatsa, Harita, Guru ( Brhaspati), Narada, Parāsara, Gautama, Yama, Baudhāyana, Daksa, Saikha, Aigiras, Sātātapa, Sārkhya (Sārkhyāyana? ), Saṁvarta. The subjects treated of are :-- The usages of the varmas and iframas, sauca, acamana, cleansing the teeth, bath, pranayama, repeating the Gāyatri, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, sam nyāsins, duties of Ksatriyas and the other two varṇas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, srāddha, āśauca (on birth and death ). 
 
 In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bearing No. 111 of 1895-1902 of Caturvimsati mata which contains 526 verses and another No. 244 of A. 1881-82 which has 525 verses. 
 

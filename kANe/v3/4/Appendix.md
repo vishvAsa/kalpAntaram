@@ -657,7 +657,7 @@ the grant of Lakṣmapasena (E. I. XII p. 6 at p. 9). See
 
 Supažika' above. H--The word occurs very frequently in conjunction with cāta' 
 
-for which see above. Vide also Dudia plates of Pravara sena II in E. I. III p. 258 at p. 261 and Banskhera plate of Harṣa (E. I. IV p. 208 at p. 211), grant of Sivaskanda varnan (E. I. vol. I. p. 2 at p. 5) where 'bhada' stands for 
+for which see above. Vide also Dudia plates of Pravara sena II in E. I. III p. 258 at p. 261 and Banskhera plate of Harṣa (E. I. IV p. 208 at p. 211), grant of Sivaskanda varṇan (E. I. vol. I. p. 2 at p. 5) where 'bhada' stands for 
 
 'bhata'. HT19E-Vide p. 112 above, HTTETA-He who recovers the king's share of the produce of 
 
@@ -861,7 +861,7 @@ plate of Ganga year 149 (E. I. XIV p. 362, where we read
 
 1134 ( E. I. VII p. 85 at p. 91 ). HT1916--Great or Prime Minister'. Vide note 148 above and 
 
-Vogel p. 122. Occurs in Ambarnath Ins. of sake 782 (JB BRAS, vol. 9 p. 219), Bhadana plates of Silāra Aparajita in sake 919 ( E. I. III p. 267 at p. 290 ), plate of Karpadeva in 1042 A. D. (E. I. vol. II. p. 309), I A. vol. 11 p. 242 in Vikrama year 1320 equal to Valabhi year 945 where inahānītyarāṇaka-Māladeva is said to have done all the business of the seal of Veraval Ins. of Arjunavarnadeva of Analillapātaka and where a Mahomedan donor from Hurmuz grants some income to a masjid built by him, Mussul 
+Vogel p. 122. Occurs in Ambarnath Ins. of sake 782 (JB BRAS, vol. 9 p. 219), Bhadana plates of Silāra Aparajita in sake 919 ( E. I. III p. 267 at p. 290 ), plate of Karpadeva in 1042 A. D. (E. I. vol. II. p. 309), I A. vol. 11 p. 242 in Vikrama year 1320 equal to Valabhi year 945 where inahānītyarāṇaka-Māladeva is said to have done all the business of the seal of Veraval Ins. of Arjunavarṇadeva of Analillapātaka and where a Mahomedan donor from Hurmuz grants some income to a masjid built by him, Mussul 
 
 man congregations of Somanātha being appointed trustees. \#FIAT-High Officer. Vide Kautilya I. 12, V.1 &c. and Kama 
 
@@ -1093,7 +1093,7 @@ Rājat. (V. 226, VI 73, 106, 127 ). 11---Function unknown. It occurs in E. I. XX
 
 A. D. FEITE_Meaning uncertain. It occurs in the plate of Jayanāga 
 
-from Karna-suvarna ( E. I. XVIII pp. 60, 63 ). ISTITIA-Superintendent of cowpens. It occurs in the 12th Rock 
+from Karna-suvarṇa ( E. I. XVIII pp. 60, 63 ). ISTITIA-Superintendent of cowpens. It occurs in the 12th Rock 
 
 Edict of Asoka at Girnar in the form 'vacabhumika 
 
@@ -1299,7 +1299,7 @@ Appendix (verses on Kalivarjyn)
 
 ब्राह्मणादिषु शूद्रस्य पचनादिक्रियापि च । ३४ भृग्वाग्निपतनाद्यैश्च वृद्धादिमरणं तथा । ३५ गोतृप्तिमात्रे पयसि शिष्टैराचमनक्रिया। ३६ पितापुत्रविरोधेषु साक्षिणां दण्डकल्पनम् । ३७ यतेः सायंगृहत्वं च सूरिभिस्तत्त्वदर्शिभिः । ३८ एतानि लोकगुप्त्यर्थ कलेरादौ महात्मभिः। ३९ निवर्तितानि कर्माणि व्यवस्थापूर्वकं बुधैः । ४० समयश्चापि साधूनां प्रमाणं वेदवद्भवेत् । ४१ शपथाः शकुनाः स्वप्नाः सामुद्रिकमुपश्रुतिः । ४२ उपयाचितमादेशाः सम्भवन्ति कलौ क्वचित् । ४३ तस्मात्तन्मात्रलाभेन कलौ कार्य न कारयेत् । ४४ 
 
-तथाधर्मसमावेशादन्यान्यपि कलौ युगे। ४५ A few important readings have already beon noted in the toxt and notes there. The most extensive lists of Kalivarjyas occur in Sm. C., Hemadri (parisesakhanda, vol. III. part 2 pp. 666-668), Par. M. vol. I part 1 pp. 134-137, Madanaratnapradipa (Samayanirnaya) Ms. No. 146 of Vis. collection I (now in the Govt. Mss. Library at B.O. R. Institute, Poona), Udvaha tattva (p. 112-113) and Suddhitattva pp. 273-274 (Jiv.), Nirnaya sindhu, Samayamayūkha, Bhattoji on Caturvimsatimata and Smrti-kaustubha. Detailed explanations are given in the last four of these and in Krsnabhatta's com. on the Nir. S. 
+तथाधर्मसमावेशादन्यान्यपि कलौ युगे। ४५ A few important readings have already beon noted in the toxt and notes there. The most extensive lists of Kalivarjyas occur in Sm. C., Hemadri (parisesakhanda, vol. III. part 2 pp. 666-668), Par. M. vol. I part 1 pp. 134-137, Madanaratnapradipa (Samayanirṇaya) Ms. No. 146 of Vis. collection I (now in the Govt. Mss. Library at B.O. R. Institute, Poona), Udvaha tattva (p. 112-113) and Suddhitattva pp. 273-274 (Jiv.), Nirnaya sindhu, Samayamayūkha, Bhattoji on Caturvimsatimata and Smrti-kaustubha. Detailed explanations are given in the last four of these and in Krsnabhatta's com. on the Nir. S. 
 
 2. Some works such as the कलिवर्यवि. read समापने निवृत्तानि, which कलिवर्ण्यवि. explains as जनमेजययज्ञसमाप्तौ and कृष्णभट्ट on नि. सि. p. 1392 explains similarly. 
 

@@ -251,7 +251,7 @@ nanda. Udvāhatattva of Raghunandana-edited by Pandit Jivananda. Utsargs-mayukha
 
 Bombay. Varsa kriya-kaumudi of Govindananda-published in B. I. Series. Viramitrodaya (vyavahāra portion) edited by Pandit Jivānanda, Viśvarūpa's commentary on Yājñavalkya-smrti published in 
 
-the Trivandrum Sanskrit series. Vivada-ratnakara of Candesvara--published in the B. I. series. Vrātyatāprāyascitta-nirnaya-by Nāgesabhatta (Chowkhamba 
+the Trivandrum Sanskrit series. Vivada-ratnakara of Candesvara--published in the B. I. series. Vrātyatāprāyascitta-nirṇaya-by Nāgesabhatta (Chowkhamba 
 
 Sanskrit aeries, 1927). Vyavahāramayūkba of Nilakantha-edited by P. V. Kane in 
 
@@ -353,7 +353,7 @@ Mysore 1915. Sir Gooroodas Banerjee's 'Marriage and Stridhana' (5th
 
 edition, 1923). M. Barth's Religions of India'-translated by Rev. J. Wood 
 
-(Trubner & Co. 1882 ). Sir Dr. R. G. Bhandarkar's 'Vaiṣpavism and Saivism'( in the 
+(Trubner & Co. 1882 ). Sir Dr. R. G. Bhandarkar's 'Vaiṣṇavism and Saivism'( in the 
 
 German Grundriss ), 1913. Caland and Henry-'L'Agniṣtoma'( Paris 1906 ). Colebrooke's 'Miscellaneous Essays' vol. I and II (1837, 
 

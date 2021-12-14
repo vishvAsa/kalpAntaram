@@ -77,7 +77,7 @@ Section IV:-Tirthayātrā ( pilgrimages to holy places)
 
 Chapter XI Holy places (mountains, rivers, forests ) 
 
-play important part in the culture and unity of India; meaning of tīrtha in Rgveda and later texts ; grounds on which places become tīrthas ; number of tirthas very large; four classes of tîrthas, viz. daiva, āsura, ārsa and mānusa,' who should go on a pilgrimage, rites on starting ; tonsure and fast.... 552-584 
+play important part in the culture and unity of India; meaning of tīrtha in Rgveda and later texts ; grounds on which places become tīrthas ; number of tirthas very large; four classes of tīrthas, viz. daiva, āsura, ārsa and mānusa,' who should go on a pilgrimage, rites on starting ; tonsure and fast.... 552-584 
 
 Chapter XII Gadges eulogised in Rgveda, Mabā 
 

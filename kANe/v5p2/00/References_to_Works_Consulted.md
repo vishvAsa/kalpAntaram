@@ -47,7 +47,7 @@ Parañas
 
 Buddhism ) 
 
-Puriṇas pp. 913-1033 
+Purāṇas pp. 913-1033 
 
 952, 957-958 
 

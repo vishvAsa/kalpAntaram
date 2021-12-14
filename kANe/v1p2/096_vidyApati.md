@@ -25,7 +25,7 @@ He was a voluminous and versatile writer. A few words may be said here about som
 
 UC 
 
-Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in Bengal Vidyāpati is believed to have been a great Vaisnava, while in Mithilā he was held to be a Saiva. 1237 The poems of Vidyapati were edited and published by Khagendranath Mitra. Dr. Bimanbihari Majumdar has completely over-hauled 
+Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in Bengal Vidyāpati is believed to have been a great Vaiṣṇava, while in Mithilā he was held to be a Saiva. 1237 The poems of Vidyapati were edited and published by Khagendranath Mitra. Dr. Bimanbihari Majumdar has completely over-hauled 
 
 1237 
 
@@ -75,7 +75,7 @@ For the Vibhāgasāra' of Vidyāpati, vide Mitra's Notices Vol. VI pp. 67-8. It 
 
 The Dānavākyāvali is described (on p. 352 of Dr. R. G. Bhandarkar's Report on the search for Sanskrit Mss. for the year 1883–84) as composed by Dhiramati, queen of king Darpanārāyaṇa of Mithila, who was herself learned and who permitted the very clever Vidyāpati to render it faultless with authoritative texts. 1940 
 
-One of Vidyāpati's works is Bhūparikramana of which a complete copy exists in the Mss. Library of the Sanskrit College of Calcutta. Some account of this work is given by Sri Dinesh Chandra Bhattacharya in J. G. J. R. I. Vol. VI at pp. 241-247. That work shows that Vidyāpati had sākta leanings. His work seems to have been called Dvaitanirnaya (or Agamadvaitanirnaya). 
+One of Vidyāpati's works is Bhūparikramana of which a complete copy exists in the Mss. Library of the Sanskrit College of Calcutta. Some account of this work is given by Sri Dinesh Chandra Bhattacharya in J. G. J. R. I. Vol. VI at pp. 241-247. That work shows that Vidyāpati had sākta leanings. His work seems to have been called Dvaitanirṇaya (or Agamadvaitanirṇaya). 
 
 (Continued from the previous page) verse '51HTFUHHHHHEETTAFITTE + + + Teretanya HEHTĀ TEET 79: || It is quite possible that the mos, presented tbe words TETTEAST: (and were read by the editor as 
 
@@ -85,7 +85,7 @@ ARIT +++) 1240 Verse 6 on p. 352 of the Report says- faṣista faentafa
 
 (Continued on the next page) 
 
-97. Vyarahāranirnaja of Varadaraja 
+97. Vyarahāranirṇaja of Varadaraja 
 
 815 
 

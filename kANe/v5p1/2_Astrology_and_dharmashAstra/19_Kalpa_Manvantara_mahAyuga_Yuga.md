@@ -275,7 +275,7 @@ mentioned as Chandoviciti in the Āpastamba-dharmasūtra 1103 Sabara 1104 ( abou
 
 There were several methods of writing numerals. One was the place value notation, in which the same numeral has different values according to the place it occupies; for example, the figure two may have the value of only two or twenty or two hundred and so on according as it occupies the units place or tens place or hundreds place. Another way is that of employing words to denoto complete numbers. This was a very reliable method when in astronomy huge figures had to be employed and works were not printed but only copied by hand. In ancient times, the writers of mss. might often omit zeros or other figures, but if words with a fixed meaning in relation to numbers were used, they would not be so easily dropped and as many works were metrical, the omission of a word, if any, might have been far more easily detected. It is difficult to say when this system was introduced. But its beginnings are ancient. For example, the word krta -is used in the Taittiriya 1105 Brāhmaṇa in the sense of 'four'. Varāhamihira (beginning of the 6th century A. D. I employs these word numerals but in the place value system (vide H. of Dh. vol. III, p. 897 n. 1763.) The following is a list of some of the very usual numbers with the corresponding words employed to indicate them It should be noted that the list is not exhaus tive. Any number of synonyms 1106 may be employed to indicate the same number. Vide the lists in Alberuni ( Sachau, vol. I. pp. 174-179 ) and Bühler's 'Indian Paleography' (I. A. vol. 33; appendix pp. 83-86 ). 
 
-1103. TEFI : 17: 41 Ut selagi PG Şîla graneratara i 3719. U. E. II. 4. 8. 10-11. 
+1103. TEFI : 17: 41 Ut selagi PG Şīla graneratara i 3719. U. E. II. 4. 8. 10-11. 
 
 1104. नहि वृद्धिशब्देन अपाणिनेर्व्यवहारत आदेचः प्रतीयेरन् पाणिनिकृतिमननुमन्य मानस्य वा। तथा मकारेणापिङ्गलस्य न सर्वगुरुनिकः प्रतीयत पिङ्गलकृतिमननुमन्यमानस्य वा। 
 
@@ -385,7 +385,7 @@ Ever-recurring yogas
 
 . 
 
-These are nitya (ever-recurring) Yogas. The Ratnamala states that they yield good or bad results in keeping with their names. The Muhurtadarśana 1111 states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyaghata, Vaidhrti, Viskambha, Sula, Ganda1112 and Atiganda. The Ratnarnālā provides that Vyatipāta and Vaidhști aro wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viskambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Ganda and Atiganda. The Agnipurana 1113 (127. 1-2) has similar verses. The Kālanirnaya-kārikā 1114 provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter ( of two days ) provided the Yoga exists for three 
+These are nitya (ever-recurring) Yogas. The Ratnamala states that they yield good or bad results in keeping with their names. The Muhurtadarśana 1111 states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyaghata, Vaidhrti, Viskambha, Sula, Ganda1112 and Atiganda. The Ratnarnālā provides that Vyatipāta and Vaidhști aro wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viskambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Ganda and Atiganda. The Agnipurana 1113 (127. 1-2) has similar verses. The Kālanirṇaya-kārikā 1114 provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter ( of two days ) provided the Yoga exists for three 
 
 muhurtas (i. e. six ghaṭis) after sunrise and for sraddha the day on which the Yoga extends over the time required for the śrāddha rite should be accepted, 
 
@@ -561,7 +561,7 @@ leap year ). Vaiśākha -31 days.
 
 Kārtika --30 days. Jyestha -31 days. 
 
-Mārgaśīrsa - 30 days. Āṣādha --- 31 days. 
+Mārgaśīrsa - 30 days. Āṣāḍha --- 31 days. 
 
 Pausa —30 days. Srāvaṇa--31 days. 
 
@@ -587,7 +587,7 @@ common year and
 
 Kārtika 1–October 23. Jyestha 1 - May 22. 
 
-Mārgaśīrṣa 1 - November 22. Āṣādha 1—June 22. 
+Mārgaśīrṣa 1 - November 22. Āṣāḍha 1—June 22. 
 
 Pausa 1 - December 22. Srāvana 1 -- July 23. 
 
@@ -595,7 +595,7 @@ Māgha 1 - January 21. Bhādrapada 1 - August 23. Phālguna 1 - February 20.
 
 The Indian seasons would thus be permanently fixed with respect to the reformed Calendar as follows: 
 
-Seasons : Grisma --- Vaisakha and Hemanta – Kārtika and (summer) Jýeṣtha. (late autumn) Mārgasirṣa. Varsā -- Āṣādha and Śiśira – Pausa and Māgha. (rains) Śrāvana. (winter) Sarad - Bhadrapada and Vasanta - Phālguna and (Autumn) Aśvina. (Spring ) Caitra. 
+Seasons : Grisma --- Vaisakha and Hemanta – Kārtika and (summer) Jýeṣtha. (late autumn) Mārgasirṣa. Varsā -- Āṣāḍha and Śiśira – Pausa and Māgha. (rains) Śrāvana. (winter) Sarad - Bhadrapada and Vasanta - Phālguna and (Autumn) Aśvina. (Spring ) Caitra. 
 
 The States now having the solar calendars for civil and partly religious purposes which start the year from Vaiśākha (April 14th ) will have to begin the year 23 days earlier, but the first month will be Caitra. The effect of this will be that in Bengal, Orissa and Assam solar months start approximately seven days later than now, and in Tamil-nad solar months start approximately 23 days earlier than now, for the month called Vaiśākha (14th April to 14th May) in Bengal and Orissa is called Chittırai (or caitra) in Tamil-nad. Those who use the lunar calendar beginning with Caitra also for civil purposes would experience no great difficulty in adopting this unified calendar 
 

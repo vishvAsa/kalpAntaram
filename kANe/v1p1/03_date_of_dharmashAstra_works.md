@@ -23,7 +23,7 @@ The Yajurveda has two recensions Kṛṣṇa and Śukla. The former has come dow
 
 3. Āpastamba-gṛhyasūtra edited by Prof. M. Winternitz (Vienna, 1887) with copious extracts from the commentaries of Haradatta and Sudarśanācārya and in the Mysore Government Oriental Library Series and in Kashi S. Series with com. Gṛhyatātparya-darśana of Sudarśanācārya; vide P. K. Gode about this last in ABORI (1956), vol. 37 p. 55. The Mantras required are collected in a collection called Mantrapāṭha[^53b] edited by M. Winternitz (Oxford, 1897). 
 
-4. Hiraṇyakeśigṛhya (also known as Satyāṣādha Gṛ. S.) edited by Dr. Kirste at Vienna, 1889, with extracts from the com. of Mātṛdatta and in the Ānan. S. Series. The Mantras are given in full in the Gṛ. S. itself; 
+4. Hiraṇyakeśigṛhya (also known as Satyāṣāḍha Gṛ. S.) edited by Dr. Kirste at Vienna, 1889, with extracts from the com. of Mātṛdatta and in the Ānan. S. Series. The Mantras are given in full in the Gṛ. S. itself; 
 
 5. The Mānava-gṛhyasūtra (also called Maitrāyanīya-Mānavagṛhya) edited by Dr. Knauer and in the G. 0. Series with Aṣṭāvakra's bhāṣya; the sūtra is divided into two parts called _puruṣa_; the bhāṣya calls the work Pūraṇa and ascribes it to Mānavācārya; 
 
