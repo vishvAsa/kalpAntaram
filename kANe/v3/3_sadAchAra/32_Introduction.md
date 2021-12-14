@@ -369,7 +369,7 @@ Kumārila mentions certain practices of his times and concludes that they are to
 
 1644. 4.1.3. 7. will have to be read as ' 9 FT TOTEUR 11 Seart forestalautui acc. to Kumārila, Khandadeva and others is Sabara's interpretation of the sūtra is to be accepted. Tag ang कमादिविरोधस्यादर्शनादवैदिकमणीतस्वरूपाप्रामाण्यकारणस्याग्रहणे शिष्टः प्रयुक्तानि 
 
-erreia taurant stationare: TETIT TUTTU Jata: 11 tataranta on 1.3.7 p. 36. Kumārila implies a pārvapaksa and holds that 1. 3. 7 is the sūtra giving the foal conclusion only and as an independent adhikarana by itself, 
+erreia taurant stationare: TETIT TUTTU Jata: 11 tataranta on 1.3.7 p. 36. Kumārila implies a pārvapakṣa and holds that 1. 3. 7 is the sūtra giving the foal conclusion only and as an independent adhikarana by itself, 
 
 1645. sacuerdynanamtorat urrait may araw 
 

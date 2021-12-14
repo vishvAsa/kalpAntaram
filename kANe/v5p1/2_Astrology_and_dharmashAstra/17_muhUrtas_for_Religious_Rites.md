@@ -203,7 +203,7 @@ MW
 
 936. राश्यैक्ये चेद्भिन्नमृक्षं द्वयोः स्यानक्षत्रैक्ये राशियुग्मं तथैव । नाडीदोषो नो गणाना 
 
-H a rga YH: 1416 1 5. P. VI. 36. If, for example, the bridegroom was born during the first quarter of krttikā paksatra 100 the bride in the 4th quarter of the same their rāśis would be different (viz. Mesa and Vrsabha) but the naksatra would be the same.When gaña and nāļi not considered 
+H a rga YH: 1416 1 5. P. VI. 36. If, for example, the bridegroom was born during the first quarter of krttikā pakṣatra 100 the bride in the 4th quarter of the same their rāśis would be different (viz. Mesa and Vrsabha) but the naksatra would be the same.When gaña and nāļi not considered 
 
 615 
 

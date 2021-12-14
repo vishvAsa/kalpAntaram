@@ -2019,7 +2019,7 @@ vir, kursas, tilas, wator, vog50]s, foods &o, are the same in all works). Tho ef
 
 1012. 39 al TCUTETEM A maiat . I. 3.) On this 379€ observes: आचान्तेन कर्तन्यं यज्ञोपवीतिना कर्तव्यं ... इत्येवलक्षणायुदाहरणानि । किमेतानि अतिषिरुद्धानि नकर्तव्यानि उताविरुद्धानि कार्याणि चेत्पश्यसि तैरप्यनुष्ठीपमादिकं किंचित 
 
-H serenti Fire TIH ET! love stala Tirana gran करवा यदि कुर्वीततीमा अतिमुपरन्ध्यावन्तरा वेदं वर्दि चातुष्ठीयमानमाचमनादि, Thts purvapaksa 18 resu{cd later og, 
+H serenti Fire TIH ET! love stala Tirana gran करवा यदि कुर्वीततीमा अतिमुपरन्ध्यावन्तरा वेदं वर्दि चातुष्ठीयमानमाचमनादि, Thts purvapakṣa 18 resu{cd later og, 
 
 Marim of . sarvaśūkhõpratyaya' 
 

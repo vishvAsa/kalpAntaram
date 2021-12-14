@@ -11,11 +11,15 @@ EKĀDASI
 
 The most important tithi in the month of Āsādha is Ekādaśī. A voluminous literature has grown round Ekādasi in the Purāṇas and medieval digests. There are separate treatises on Ekādaśī written by medieval writers, such as the Ekādasi viveka of Sūlapāni and the Ekādasītattva of Raghunandana: Besides, such medieval digests as Kālaviveka (pp. 425-451), Hemādri on Kāla pp. 145–288, Kālanirnaya of Mādhava (pp. 233–275), Vratarāja pp. 361-475, Kāla-tattvaviyecana (pp. 98–172) devote hundreds of pages to discussions on Ekādasi. Endeavour would be made to write about most of the numerous matters relating to Ekadasi, but everything would have to be compressed in as small a space as possible. 
 
-If one were to examine the numerous passages of the Purāṇas and the like one would notice that some simply prohibit the partaking of food (on Ekādaśī), while others lay down the observance of Ekādaśīvrata. A few specimens of the first kind may be cited. The Nāradiya states 236 "all sins whatever and sins equal to brāhmana-murder take resort to food on the day of Hari; one who partakes of food on Ekādaśī incurs those sins; the Purāṇas again and again loudly proclaim 'one should not eat food, one should not eat food, when the day of Hari comes'." In this case the observance of Ekādaśī consists in simply not eating for the whole day anything that is cooked. Those passages which contain the word vrala are not to be looked upon as merely prohibiting (the eating of food) but are to be construed as prescribing something positive as in the case of Prajāpativrata 'one should not see the rising sun', which is interpreted by 
+If one were to examine the numerous passages of the Purāṇas and the like one would notice that some simply prohibit the partaking of food (on Ekādaśī), while others lay down the observance of Ekādaśīvrata. 
 
-172 
-
-236. यानि कानि च पापानि ब्रह्महत्यासमानि च। अन्नमाश्रित्य तिष्ठन्ति संपासे हरिवासरे। तानि पापान्यवामोति भुखानो हरिवासरे। रटन्तीह पुराणानि भूयो भूयो वरानने । न wariani a F erarat l anera q. by. (Fire) p. 153, T. P. p. 235. Vide drum (Uttara ) 24.4 and 23. 24 for almost the same words and compare mari, FHENE, cap. 26. 23 Hei Patio PA PETU 
+[^236]
+    
+    यानि कानि च पापानि ब्रह्महत्यासमानि च।  
+    अन्नमाश्रित्य तिष्ठन्ति सम्प्राप्ते हरिवासरे।  
+    तानि पापान्यवाप्नोति भुञ्जानो हरिवासरे ।  
+    रटन्तीह पुराणानि भूयो भूयो वरानने ।  
+    न wariani a F erarat l anera q. by. (Fire) p. 153, T. P. p. 235. Vide drum (Uttara ) 24.4 and 23. 24 for almost the same words and compare mari, FHENE, cap. 26. 23 Hei Patio PA PETU 
 
 I Fredate Army 
 
@@ -25,21 +29,37 @@ I Fredate Army
 
 
 
-(Soc. I, Ch. V 
 
-Jaimini IV. 1. 3.-6 and VI. 2. 20. Vide n. 42 above. For example, it is said by the Matsya and Bhavisya 'When a man fasts on the 11th and partakes of food on the 12th, whether in the bright or dark half, that is a great vrata in honour of Visnu'. Those passages that contain the word 'upavāsa' and those that prescribe rewards (of observing ekādaśī) must be construed as laying down the observance of a vrata and not as merely prohibiting anything. Those passages also which condemn eating food on ekādaśī may be construed as merely intended to commend the vrata and not to contain a prohibition, following the Mimāmsā 237 maxim "condemnation is not indulged in (merely) for the sake of condemnation of that which is condemned, but for the purpose of commending the performance of the opposite of what is censured'. The passages that lay down a vrata are again two-fold, viz. those that make the observance of Ekādaśī obligatory (nutya)238 and those that lay down the observ ance for securing some desired object (kāmya). Nārada lays down an obligatory rule 'men who are devoted to Visnu and who look upon Visnu as their highest goal should always fast on ekādaśī in each paksa (fortnight)'. A passage laying down a kāmya-vidhi about Ekādaśi is contained in 239 Kātyāyana 'a person who looks on Visnu as highest goal and who desires to Cross the ocean of samsūra or to secure prosperity, offspring, heaven, mokṣa or whatever else, should not partake of food on ekādaśi in both fortnights.' The result is that ekādaśī is both nitya and kāmya and the maxim of samyoga-prthaktva cited above (p. 86) under Rāmanavami applies. Ekādaśīvrata on the ekādaśīs of both fortnights is nitya only for persons other than house holders; the vrata is obligatory for householders (grhastha) only on the ekādaśī of the bright half, but not on the ekādasi of the dark half, since Devala says 'one should not eat (cooked) food on ekādaśī in both pakṣas (fortnights); this is the rule of conduct for forest hermits and ascetics, but a householder should 
 
-237. The rury is: Paret i med att a rari Fiat (vide Artanaas on 3. 1. 2. 7, p. 115). Tent is more explicit: are free FIFTI मयुज्यते। किं तर्हि । निन्दितादितरत् प्रशंसितुम् । तत्र न निन्दितस्य प्रतिषेधो गण्यते किं Fray Fart: 1 3747764 on . II. 4. 21. 
+A few specimens of the first kind may be cited. The Nāradiya states [^236] "all sins whatever and sins equal to brāhmana-murder take resort to food on the day of Hari; one who partakes of food on Ekādaśī incurs those sins; the Purāṇas again and again loudly proclaim 'one should not eat food, one should not eat food, when the day of Hari comes'." In this case the observance of Ekādaśī consists in simply not eating for the whole day anything that is cooked.+++(5)+++ 
 
-238. तत्र नारदः। नित्यं भक्तिसमायुक्तैनरैविष्णुपरायणैः । पक्षे पक्षे तु कर्तव्यमेका. 415uqur I SENTRU face a4 14:18. (Ts) p. 159, R. f.37, 
+Those passages which contain the word vrata are not to be looked upon as merely prohibiting (the eating of food) but are to be construed as prescribing something positive as in the case of Prajāpativrata 'one should not see the rising sun', which is interpreted by Jaimini IV. 1. 3.-6 and VI. 2. 20. Vide n. 42 above. For example, it is said by the Matsya and Bhavisya 'When a man fasts on the 11th and partakes of food on the 12th, whether in the bright or dark half, that is a great vrata in honour of Visnu'. Those passages that contain the word 'upavāsa' and those that prescribe rewards (of observing ekādaśī) must be construed as laying down the observance of a vrata and not as merely prohibiting anything. Those passages also which condemn eating food on ekādaśī may be construed as merely intended to commend the vrata and not to contain a prohibition, following the Mimāmsā [^237] maxim "condemnation is not indulged in (merely) for the sake of condemnation of that which is condemned, but for the purpose of commending the performance of the opposite of what is censured'. 
 
-239. संसारसागरोत्तारमिच्छन्विष्णुपरायणः । ऐश्वर्य सन्तति स्वर्ग मुक्ति वा पद्मदिच्छति। (10541 a Fafia Hilo Ni i fileeria q. by . (TT) p. 162, Fl. Aa. p. 236, 6. 8. 28, 
+[^237]: The rury is: Paret i med att a rari Fiat (vide Artanaas on 3. 1. 2. 7, p. 115). Tent is more explicit: are free FIFTI मयुज्यते। किं तर्हि । निन्दितादितरत् प्रशंसितुम् । तत्र न निन्दितस्य प्रतिषेधो गण्यते किं Fray Fart: 1 3747764 on . II. 4. 21.
 
-Adhikūra for Ekādaśīvrata 
 
-always observe only the Ekādaśī of the bright half'. 240 There are conflicting texts on this subject. The Padma says 241 ' a house holder should observe a fast on only the dark ekādaśīs between Sayani (Asādha śu. 11) and Bodhini (Kārtika su. 11) and on no other ekadasi of the dark half'. There is a precept of Narada 242 
+The passages that lay down a vrata are again two-fold, viz. those that make the observance of Ekādaśī obligatory (nitya)[^238] and those that lay down the observance for securing some desired object (kāmya). Nārada lays down an obligatory rule 'men who are devoted to Visnu and who look upon Visnu as their highest goal should always fast on ekādaśī in each pakṣa (fortnight)'. 
 
-a householder having a son should not obserye a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Sayani and Bodhini, but if he has a son he should not obserye a fast even on those ekādaśis that occur between Sayani and Bodhini. A widow 243 is to be treated on the same level aa a yati and a woman whose husband is living should fast only on the ekādaśī of the bright half. It has to be further noted that these restrictions 214 do not apply to professed devotees of Visṇu ( technically called Vaisnava). To them the verse quoted in note 238 above applies and they have to observe a fast on all ekadasis. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikūra for fasting on ekadasis in both paksas. 
+[^238]: तत्र नारदः। नित्यं भक्तिसमायुक्तैनरैविष्णुपरायणैः । पक्षे पक्षे तु कर्तव्यमेका. 415uqur I SENTRU face a4 14:18. (Ts) p. 159, R. f.37,
+
+A passage laying down a kāmya-vidhi about Ekādaśi is contained in [^239] Kātyāyana 
+
+> 'a person who looks on Visnu as highest goal and who desires to Cross the ocean of samsūra or to secure prosperity, offspring, heaven, mokṣa or whatever else, should not partake of food on ekādaśi in both fortnights.' 
+
+[^239]:
+    
+    संसारसागरोत्तारमिच्छन्विष्णुपरायणः ।  
+    ऐश्वर्यं सन्ततिं स्वर्गं मुक्तिं वा यद्यदिच्छति। (10541 a Fafia Hilo Ni i fileeria q. by . (TT) p. 162, Fl. Aa. p. 236, 6. 8. 28,
+
+The result is that ekādaśī is both nitya and kāmya and the maxim of samyoga-prthaktva cited above (p. 86) under Rāmanavami applies.+++(5)+++) 
+
+## Adhikūra for Ekādaśīvrata
+
+Ekādaśīvrata on the ekādaśīs of both fortnights is nitya only for persons other than house holders; the vrata is obligatory for householders (grhastha) only on the ekādaśī of the bright half, but not on the ekādasi of the dark half, since Devala says 'one should not eat (cooked) food on ekādaśī in both pakṣas (fortnights); this is the rule of conduct for forest hermits and ascetics, but a householder should always observe only the Ekādaśī of the bright half'. [^240] There are conflicting texts on this subject. The Padma says [^241] ' a house holder should observe a fast on only the dark ekādaśīs between Sayani (Asādha śu. 11) and Bodhini (Kārtika su. 11) and on no other ekadasi of the dark half'. There is a precept of Narada [^242] 'a householder having a son should not observe a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Sayani and Bodhini, but if he has a son he should not observe a fast even on those ekādaśis that occur between Sayani and Bodhini. 
+
+A widow [^243] is to be treated on the same level as a yati and a woman whose husband is living should fast only on the ekādaśī of the bright half. 
+
+It has to be further noted that these restrictions [^214] do not apply to professed devotees of Visṇu ( technically called Vaisnava). To them the verse quoted in note [^238] above applies and they have to observe a fast on all ekadasis. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikāra for fasting on ekadasis in both pakṣas. 
 
 On pp. 43-45 above the exaggerated importance attached to yratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. 
 
@@ -177,9 +197,9 @@ ___267. स वा एष महानज आत्मा... तमेतं व
 
 
 
-(Soc. I, Ch. V 
 
-the other is of the nature of a vrata. As regards the first all persons including householders having a son have adhikāra to observe it even in the dark half; but as regards the second (upavāsa of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a sankalpa, they should simply give up cooked food but should observe the niyamas of celibacy and the like. As to ekādaśīs of the dark half between the Sayani and Bodhini even householders with sons have the right to perform the vrata. Similarly, those who desire to secure absorption into Visnu, long life and sons may perform a kāmyavrata on ekādaśīs of both paksas. Vaisnava householders should always fast even on ekādasis of the dark half. The ekādaśīvrata is obligatory on all including devotees of Siva, Visnu and the Sun. Upayāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirnayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsayrata and he simply abstains from taking food because the sistra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed. 
+
+the other is of the nature of a vrata. As regards the first all persons including householders having a son have adhikāra to observe it even in the dark half; but as regards the second (upavāsa of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a sankalpa, they should simply give up cooked food but should observe the niyamas of celibacy and the like. As to ekādaśīs of the dark half between the Sayani and Bodhini even householders with sons have the right to perform the vrata. Similarly, those who desire to secure absorption into Visnu, long life and sons may perform a kāmyavrata on ekādaśīs of both pakṣas. Vaisnava householders should always fast even on ekādasis of the dark half. The ekādaśīvrata is obligatory on all including devotees of Siva, Visnu and the Sun. Upayāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirnayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsayrata and he simply abstains from taking food because the sistra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed. 
 
 1 
 
@@ -443,7 +463,7 @@ On the 10th the performer has a meal at midday (eka bhakta), then he cleans his 
 
 307. आरोग्यं भास्करादिच्छेद्धनमिच्छेद्धृताशनात्। ज्ञानं च शङ्करादिच्छेन्मुक्तिमिच्छ algatan H UTIUT 68. 45 q. by 5. a. p. 58; the same verse is quoted from भविष्य by हे. (on व्रत) vol. I. p. 767 (reads गति for मुक्ति); कृत्यकल्प (on 
 
-) reads ' ra (folio 24a). It occurs in theirere 52. 39 also. . 308. The f. F. p. 48 associates paksatras with these tbat are different from those mentioned by Hemādri (on vrata) vol. I. P. 1214. It says ' TAT 741 ugen Fastet great per treurTM quarrat!. Vide . . D. 455 quoting are for yet different naksatras for the same. ___309. अरुणोदय आधा स्याद द्वादशी सकलं दिनम्। अन्ते त्रयोदशी प्रातमिस्सा सा 
+) reads ' ra (folio 24a). It occurs in theirere 52. 39 also. . 308. The f. F. p. 48 associates pakṣatras with these tbat are different from those mentioned by Hemādri (on vrata) vol. I. P. 1214. It says ' TAT 741 ugen Fastet great per treurTM quarrat!. Vide . . D. 455 quoting are for yet different naksatras for the same. ___309. अरुणोदय आधा स्याद द्वादशी सकलं दिनम्। अन्ते त्रयोदशी प्रातमिस्सा सा 
 
 Fall werden q. by B. on p. 261. 
 

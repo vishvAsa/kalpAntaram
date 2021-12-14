@@ -627,7 +627,7 @@ Nigada Nikoep& Nirarthaka Nirhara Nirnikta Nirvyuba Niṣada Niska Nisrstārtha 
 
 300 
 
-Prajñāpanāpatra Prakirṇaka Prākrta Prakrti Pranaya Pranayana Prānnyāya Prasada patra Praśnavivaka Prathamakāyastha Prathamakulika Prathamasahasa Pratibhoga Pratibhū Pratijna Pratilekha Pratinyasa Pratipaksa Pratisara Pratisthitā Pratyabhiyoga Pratyākalita Pratyarthin Pratyavaskandana Pratyupavista Pravesapatra Pravrajyāvasita Pravrttika Pūga Purāṇa Purta Purusārtha Pūrvanyāya Pūrvapaksa Pusyaspāna 
+Prajñāpanāpatra Prakirṇaka Prākrta Prakrti Pranaya Pranayana Prānnyāya Prasada patra Praśnavivaka Prathamakāyastha Prathamakulika Prathamasahasa Pratibhoga Pratibhū Pratijna Pratilekha Pratinyasa Pratipakṣa Pratisara Pratisthitā Pratyabhiyoga Pratyākalita Pratyarthin Pratyavaskandana Pratyupavista Pravesapatra Pravrajyāvasita Pravrttika Pūga Purāṇa Purta Purusārtha Pūrvanyāya Pūrvapakṣa Pusyaspāna 
 
 879 277 
 

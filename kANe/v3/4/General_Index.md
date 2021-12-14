@@ -1485,7 +1485,7 @@ taxation that went with them 195 ; of land called 'yogaksema' 588n; of land coul
 
 and oot by a district officer 139. Great Bear, constellation of, was sup 
 
-posed to stay in one paksatra for a 
+posed to stay in one pakṣatra for a 
 
 hundred years 897. Gșhastbaratnākara 354, 420n, 525a, 
 

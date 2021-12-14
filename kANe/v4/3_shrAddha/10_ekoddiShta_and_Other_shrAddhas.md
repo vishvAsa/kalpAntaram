@@ -249,7 +249,7 @@ H. D. 67
 
 A few words may now be said about some other śrāddhas. 
 
-A well-known śrāddha is the Mahālayaśrāddha Some of the Purāṇas deal with this, The Padmapuržoa (Srsti-kbanda) says "In the fifth fortnight (paksa) beginning from the Full Moon day of Āsādha, one should perform a srāddha, whether the Sun is by that time in the zodiacal sign of Kanya (Virgo) or not. The sixteen days when the Sun is in Kanya are equal to the solemn sacrifices which are completed with the gift of the 
+A well-known śrāddha is the Mahālayaśrāddha Some of the Purāṇas deal with this, The Padmapuržoa (Srsti-kbanda) says "In the fifth fortnight (pakṣa) beginning from the Full Moon day of Āsādha, one should perform a srāddha, whether the Sun is by that time in the zodiacal sign of Kanya (Virgo) or not. The sixteen days when the Sun is in Kanya are equal to the solemn sacrifices which are completed with the gift of the 
 
 1186 b, ale auf mancata i 74 ANTENNE arman 'सपिण्डीकरणाबू पित्रोरेव हि पार्वणम् । पितृभ्यमातमातृणामेकोद्दिष्टं सदैव तु ॥ मापदं FYSATO CI' P. 304. 
 

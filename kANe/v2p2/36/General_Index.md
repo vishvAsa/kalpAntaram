@@ -1717,7 +1717,7 @@ a putrika or married in Asura and
 
 the following forms, 466; gotras Gocarma, measure of land, defined, 
 
-grouped into gana, paksa, 486; 859n. 
+grouped into gana, pakṣa, 486; 859n. 
 
 importance of, in several practicos God, conceived as trimurti by some, 
 
