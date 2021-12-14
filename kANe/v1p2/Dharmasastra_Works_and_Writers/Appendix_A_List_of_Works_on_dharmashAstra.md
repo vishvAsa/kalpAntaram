@@ -388,7 +388,7 @@ H. D.---125
 
 भाचारकौमुदी by राजाराम son of | आचारतराङ्गणी by रविनाथमिश्र. 
 
-सोमेश्वर (Vaisnavite treatise on | आचारतत्त्व by हरिप्रसाद, son of मकरन्द good conduct and devotion to (Stein's cat. pp. 83 and 301). Visnu) ms. (N. vol. VIII. 191) | 
+सोमेश्वर (Vaisnavite treatise on | आचारतत्त्व by हरिप्रसाद, son of मकरन्द good conduct and devotion to (Stein's cat. pp. 83 and 301). Viṣṇu) ms. (N. vol. VIII. 191) | 
 
 आचारतिलक quoted in द्रव्यशुद्धि dated संवत् 1782 (1725-26 A.D.). 
 
@@ -4054,7 +4054,7 @@ kar Institute vol. III. part द्वादशयात्रातत्व or
 
 2pp. 67-72. ofरघुनन्दन. On the twelve great 
 
-द्वैतनिर्णय m. in व्रतराज by विश्वनाथ festirals of Viṣnu at Jaganna 
+द्वैतनिर्णय m. in व्रतराज by विश्वनाथ festirals of Viṣṇu at Jaganna 
 
 as composed by his grand thapuri. 
 
@@ -7968,7 +7968,7 @@ son of कमलसिंह of तोमरवंश. _copied in संवत�
 
 On expiations for lapses विष्णुयागपद्धति by अनन्तदेव, son of committed in this life; com. 
 
-आपदेव. Sec. 114. Deals with ___posed in संवत् 1439 (1383 A.D.). rites in bonour of Viṣnu to be Stein's Cat. p. 189. D. C. Ms. performed by one who desires No.85 of 1869-70 is dated संवत् a son. Ulwar Cat. No 1458 : 1572. It says that the work Baroda I. O. 2264 dated संवत् ( which is over 400 folios ) is 1604 which seems to be take. a compendium of आयुर्वेद, ज्योति: 
+आपदेव. Sec. 114. Deals with ___posed in संवत् 1439 (1383 A.D.). rites in bonour of Viṣṇu to be Stein's Cat. p. 189. D. C. Ms. performed by one who desires No.85 of 1869-70 is dated संवत् a son. Ulwar Cat. No 1458 : 1572. It says that the work Baroda I. O. 2264 dated संवत् ( which is over 400 folios ) is 1604 which seems to be take. a compendium of आयुर्वेद, ज्योति: 
 
 शास्त्र and धर्मशास्त्र, It borrows विष्णुरहस्य m. by अपरार्क, दानसागर, 
 

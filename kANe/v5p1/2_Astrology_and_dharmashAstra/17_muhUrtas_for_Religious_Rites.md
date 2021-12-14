@@ -131,7 +131,7 @@ ___924. ऊर्च कार्तिक्या आ वैशाख्या
 
 926. राज्ञा मस्तेऽथवा युद्धे पितृणां माणसंशये। अतिप्रौढा तु या कन्या न तु काल प्रतीक्षते। अतिप्रौढा तु या कन्या न तु धर्मविरोधिनी। अविशुद्धा तु सा देया लग्नचन्द्रबलविना। 
 
-STATCINE (folio 24b and verses 397–398) q. by TEIEGTI p. 124 (reads To gry palad and you a), . P. 303 (reads tha ). Had (verse 67 ) laid down that a girl was to be married before she reached puberty, bat the marriage of a girl when sbe is eight years old is to be commended. Parāśara (VII, 9 ) says that a brāhmana who marries a girl after she has reached puberty becomes unfit to sit for dianer in a row of brāhmanas and he becomes the busband of a vrsali. (SATU (folio 25a verse 391) is: 3 Wara ghai I Pirastava FOTOT . So some stigma att 
+STATCINE (folio 24b and verses 397–398) q. by TEIEGTI p. 124 (reads To gry palad and you a), . P. 303 (reads tha ). Had (verse 67 ) laid down that a girl was to be married before she reached puberty, bat the marriage of a girl when sbe is eight years old is to be commended. Parāśara (VII, 9 ) says that a brāhmana who marries a girl after she has reached puberty becomes unfit to sit for dianer in a row of brāhmanas and he becomes the busband of a vr̥ṣalī. (SATU (folio 25a verse 391) is: 3 Wara ghai I Pirastava FOTOT . So some stigma att 
 
 (Continued on next page) 
 
@@ -231,7 +231,7 @@ In relation to marriage the Rājamārtanda 939 says: tithi is declared to have a
 
 Now that in most countries including India the kingly office has been abolished, muhurtas for coronation are of purely academic interest and therefore they are not set out here. Those interested may refer to Ratnamālā XIV. 1-8, Muhūrtamārtanda VIII. 1, Muhūrta-cintāmaṇi X. 1-4, Rājanītiratnākara pp. 82-84 (ed. by K. P. Jayaswal). 
 
-One very important astrological subject was Yatrā, which has two meanings, viz. starting on a journey for going to tirthas or for earning wealth and marching out for victory by kings. The first kind of yātrā is common to persons of all varpas, while the second is concerned only with ksatriyas or the king. 940 It appears that not only professed works on astrology but also the Smr̥tis, the Arthasāstra of Kautilya and Purāṇas attached great importance to this subject. The Aśramayāsikaparva 941 7. 12-18, Manu VII. 181-213, Matsya 240-243, Agni 233-235, Visnu dharmottara II. 175-176, the Arthasastra in books IX ('the work of one who wants to be an invader') and X ( relating to war) deal exhaustively with the subject of Yana or Yātrā. The subjects of Yātrā are summarised in the Brhat-sanhitā 2,8 follows 92 ; Under Yātrā are included knowledge of proper 
+One very important astrological subject was Yatrā, which has two meanings, viz. starting on a journey for going to tirthas or for earning wealth and marching out for victory by kings. The first kind of yātrā is common to persons of all varpas, while the second is concerned only with ksatriyas or the king. 940 It appears that not only professed works on astrology but also the Smr̥tis, the Arthasāstra of Kautilya and Purāṇas attached great importance to this subject. The Aśramayāsikaparva 941 7. 12-18, Manu VII. 181-213, Matsya 240-243, Agni 233-235, Viṣṇu dharmottara II. 175-176, the Arthasastra in books IX ('the work of one who wants to be an invader') and X ( relating to war) deal exhaustively with the subject of Yana or Yātrā. The subjects of Yātrā are summarised in the Brhat-sanhitā 2,8 follows 92 ; Under Yātrā are included knowledge of proper 
 
 939. तिथिरेकगुणा प्रोक्ता वारश्चैव चतुर्गुणः । ऋक्ष षोडशमित्याहुयोगश्चैव शताधिकः। सहस्रांशो रविः प्रोक्तश्चन्द्रो लक्षगुणाधिकः । वर्जयित्वा बलं सर्वे तस्माच्चन्द्रबलाबलम् ॥ राज मार्तण्ड folio 39a, verses 611-612. These are quoted in ज्योतिस्तत्त्व p. 590 but not from रा. मा. 
 
@@ -361,7 +361,7 @@ It may be stated here that some of the astrologicial require ments about the con
 
 into a newly built house are observed even now. 
 
-The proper times for the establishment of the images of gods are specified in many works such as Brhatsamhitā 60. 20-21, Matsya-purāṇa ( 264 ), Visnudharmottara III. 96, Rājamārtanda (folios 57b-59b, verses 909--943), Hemādri on Kāla pp. 830–847, Jyotistattva pp. 666-667 and 672–73, Nirṇayasindhu pp. 334-335, Dharmasindhu p. 318. The Bșhatsamhitā %3 lays down the general rules for the establishment of the images of all gods, * In the northward passage of the sun, in the bright half, when the moon is in the virga of Jupiter, when the lagnu is a sthira rāsi and the navamāmsa rāśi of the lagna is sthira and beneficent planets occupy the kendra places or the 5th and 9th places in the horoscope ( of the establisher), when the malefic planets are in the 3rd, 6th, 10th or 11th places, on nakṣatras called dhruva 
+The proper times for the establishment of the images of gods are specified in many works such as Brhatsamhitā 60. 20-21, Matsya-purāṇa ( 264 ), Viṣṇudharmottara III. 96, Rājamārtanda (folios 57b-59b, verses 909--943), Hemādri on Kāla pp. 830–847, Jyotistattva pp. 666-667 and 672–73, Nirṇayasindhu pp. 334-335, Dharmasindhu p. 318. The Bșhatsamhitā %3 lays down the general rules for the establishment of the images of all gods, * In the northward passage of the sun, in the bright half, when the moon is in the virga of Jupiter, when the lagnu is a sthira rāsi and the navamāmsa rāśi of the lagna is sthira and beneficent planets occupy the kendra places or the 5th and 9th places in the horoscope ( of the establisher), when the malefic planets are in the 3rd, 6th, 10th or 11th places, on nakṣatras called dhruva 
 
 __962. पोष्णे धनिष्ठास्वथ वारुणेषु स्वायम्भुवः त्रिषु चोत्तरासु। अक्षीणचन्द्रे शुभवासरेषु तिथावरिक्त च गृहप्रवेशः । भूरियुष्पनिकर सुतोरणं तोयपूर्णकलशोपशोभितम् । गन्धपुष्पबलिपूजि. ATHI Engraya PTGERI Targ (folio 57, verses 900 and 907), last १. by पीयूषधारा on मु. चि. XIII. 7. 
 
@@ -377,7 +377,7 @@ The Ratnamāla %1 provides different nakṣatras for the establishment of the im
 
 The Rajamārtanda %5 provides that the 2nd, 3rd, 10th, 13th and 15th tithis are always commended for establishment of images of gods and even the 7th and 6th if the establisher likes. 
 
-In the Indian Antiquary vol. VI. p. 363 we find an inscri tion of Cālukya king Mangalisa dated sake 500 (578-79 A. D.) recording the grant of a village named Lañjiśvara on the auspicious occasion of the establishment of an image of god Visṇu. 454 
+In the Indian Antiquary vol. VI. p. 363 we find an inscri tion of Cālukya king Mangalisa dated sake 500 (578-79 A. D.) recording the grant of a village named Lañjiśvara on the auspicious occasion of the establishment of an image of god Viṣṇu. 454 
 
 1 
 
@@ -447,7 +447,7 @@ Venus,
 
 Vide Pillai's 'Indian Ephemeris' vol. I part I pp. 112-123 for discussion on Rāma's horoscope. Kālidāsa in the Raghuvamsa (III. 13 ) states that Raghu, the ancestor of Rāma, was born when five planets were in exaltation and were not setting (i, e. were a good many degrees away from the Sun). But he does not furnish the lagna nor even the month of his birth. 
 
-As regards Paraśurāma, the Nirpayasindhu quotes the Bhārgavārcanadspikā973 to the effect that Visnu himself was born as the son of Roṇukā on Vaiśākha, bright half, 3rd tithi, on Punarvasu naksatra in the first quarter of the night, when six planets were in exaltation and Rāhu was in Mithuna (Gemini, Twins). The Moon being in Punarvasu, that is either in Mithuna or Karkata, none of which is Moon's ucca all the remaining six planets must be held to be in exaltation, Thoro fore, Paraśurāma's horoscope must be supposed to be somewhat like this: 
+As regards Paraśurāma, the Nirpayasindhu quotes the Bhārgavārcanadspikā973 to the effect that Viṣṇu himself was born as the son of Roṇukā on Vaiśākha, bright half, 3rd tithi, on Punarvasu naksatra in the first quarter of the night, when six planets were in exaltation and Rāhu was in Mithuna (Gemini, Twins). The Moon being in Punarvasu, that is either in Mithuna or Karkata, none of which is Moon's ucca all the remaining six planets must be held to be in exaltation, Thoro fore, Paraśurāma's horoscope must be supposed to be somewhat like this: 
 
 
 

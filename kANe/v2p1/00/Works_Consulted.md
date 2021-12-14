@@ -111,7 +111,7 @@ Dr. Caland, Calcutta, 1927. Vārabasrauta-sūtra--edited by Dr. Caland and Dr. R
 
 Lahore 1933. Vāraha-gļhya-gūtra-Gaikwad Oriental Series, Baroda, 1921. Vasistha-dbarma-sūtramedited by Dr. Fūhrer in the Bombay 
 
-Sanskrit series. Viṣnu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
+Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
 
 PURĀŅAS Agnipurānam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
 
@@ -133,7 +133,7 @@ Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay
 
 times the B. I. edition in two volumes has been referred 
 
-to, but wherever that is so the volume is mentioned. Viṣnudharmottara-Venkatesvara Press, Bombay. Viṣnupurāṇa-published by Messrs. Gopal Narayan & Co., 
+to, but wherever that is so the volume is mentioned. Viṣṇudharmottara-Venkatesvara Press, Bombay. Viṣṇupurāṇa-published by Messrs. Gopal Narayan & Co., 
 
 Bombay 1902. 
 

@@ -69,7 +69,7 @@ with a Marathi translation. Saṅkhāyana-gphya-sutra (same as Kausitaki-gshya-s
 
 published in the Benares Sanskrit Series. Saṅkhayanaśrautasūtra, edited by Dr. Hillebrandt (B. I. Series). Satyāṣādha-srautasūtra (Anan.) Vaikhānasa-smārta-sūtra, edited with English translation by 
 
-Dr. Caland, Calcutta, 1927. Vārdhagļhya-sutra (Gaikwad Oriental Series, Baroda ). Vasiṣtha-dharmasutra ( Bombay S. Series ). Viṣnudharmasutra, edited by Dr. Jolly. 
+Dr. Caland, Calcutta, 1927. Vārdhagļhya-sutra (Gaikwad Oriental Series, Baroda ). Vasiṣtha-dharmasutra ( Bombay S. Series ). Viṣṇudharmasutra, edited by Dr. Jolly. 
 
 Smrtes Apastamba-smrti (in verse )-Ānan. Arthaśāstra of Kautilya_edited by Dr. Sham Sastri (Mysore, 
 
@@ -77,7 +77,7 @@ Smrtes Apastamba-smrti (in verse )-Ānan. Arthaśāstra of Kautilya_edited by Dr
 
 under the title 'Katyāyanasmrtisāroddhāra,' with English 
 
-translation and notes ). Laghu-Asvalāyana-smrti ( Ānan.). Laghu-Hārsta-smrti ( Ānan.). Laghu-Viṣnu-smrti ( Anan.). Laghu-Vyāsa (Jiv.). Mahābhārata with the commentary of Nilakantha (the oblong 
+translation and notes ). Laghu-Asvalāyana-smrti ( Ānan.). Laghu-Hārsta-smrti ( Ānan.). Laghu-Viṣṇu-smrti ( Anan.). Laghu-Vyāsa (Jiv.). Mahābhārata with the commentary of Nilakantha (the oblong 
 
 Bombay edition). In some places the corresponding criti cal edition of the Epic issued from the Bhandarkar 0. R. 
 
@@ -97,7 +97,7 @@ Krishnaji Press). Brahmāṇdapurāṇa ( Venkatesvara Press, Bombay). Brahmapur
 
 cited as Bṛhan-Nāradīya. Nșsimhapurāṇa, (published by Messrs. Gopal Narayan & Co., 
 
-Bombay 1911). Vāyupurāṇa (Anan.). Visṇudharmottara-purāna (Venkatesvara Press, Bombay). Visnupurāna with commentary (published by Messrs. Gopal 
+Bombay 1911). Vāyupurāṇa (Anan.). Viṣṇudharmottara-purāna (Venkatesvara Press, Bombay). Viṣṇupurāna with commentary (published by Messrs. Gopal 
 
 Narayan & Co., Bombay ). 
 
@@ -165,7 +165,7 @@ khamba Sanskrit Series), Mrcchakatika of Sūdraka (Bombay S. Series), edited by 
 
 Godbole. Nandana, commentator of Manusmrti (Mandlik's edition). Nandapandita, author of Dattaka-mimāmga and Vaijayanti, a 
 
-com. on Viṣnudharma-sutra. Nārāyaṇa, commentator of Asyalāyana-srautapatra (B. I. edi 
+com. on Viṣṇudharma-sutra. Nārāyaṇa, commentator of Asyalāyana-srautapatra (B. I. edi 
 
 tion) and of Asvalāyana-gphya (Nirnayasāgara edition). Nārāyana, commentator of Manusmrti (Mandlik's edition). 
 

@@ -203,7 +203,7 @@ yaṇabhatta and author of Dvaitanirnaya, Mimāṁ
 
 sābālaprakāśa and other works. 1590 A. D.-1630 A. D.-Nandapaṇựita, author of Dvai 
 
-tanirṇaya, Vaijayanti ( commentary on Viṣnudbar masūtra ). 
+tanirṇaya, Vaijayanti ( commentary on Viṣṇudbar masūtra ). 
 
 Chronological Table 
 

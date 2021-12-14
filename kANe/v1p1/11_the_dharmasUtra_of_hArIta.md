@@ -10,7 +10,7 @@ short_title = "11 The Dharmasūtra of"
 
 118 6.g. para 637 : JUTE potrafavaraanageTAAT aftage: fouse 
 
-वाचीति । ( Visnu's sutra seems to have been बीजग्रहणानुविधायमर्श 
+वाचीति । ( Viṣṇu's sutra seems to have been बीजग्रहणानुविधायमर्श 
 
 TERITE); para 719 375 HTEN: ( on fai's FLE 'foraya T na garnit pe ) que sentiafafa; pura 736 347 prae: भिनोदराणामिति निर्धारणे षष्ठी ( on विष्णु'सूत्र ‘भिन्नोदराणां संसृष्टिनी 
 

@@ -3,7 +3,7 @@ title = "42 Caturviṁśatimata"
 
 +++
 
-42. Caturvimsatimata There are two Mgs. of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, Yājña valkya, Atri, Visṇu, Vasistha, Vyāsa, Usanas, Apaskambe, 584 पूर्वनष्टा तु यो भूमिमेकश्येदुद्धरेत् क्रमात् । यथाशं तुं लभन्तेन्ये वाचशित 
+42. Caturvimsatimata There are two Mgs. of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, Yājña valkya, Atri, Viṣṇu, Vasistha, Vyāsa, Usanas, Apaskambe, 584 पूर्वनष्टा तु यो भूमिमेकश्येदुद्धरेत् क्रमात् । यथाशं तुं लभन्तेन्ये वाचशित 
 
 a81494 11 
 

@@ -11,7 +11,7 @@ Page Line or Note
 
 8 note 17 Read 77 a lasat anu gid 
 
-note 19 Add at end 'Vide also fhEUSTAFET 33 1' last line Put a full stop after the word 'Visnu' pote 36 Read '1977 '. 
+note 19 Add at end 'Vide also fhEUSTAFET 33 1' last line Put a full stop after the word 'Viṣṇu' pote 36 Read '1977 '. 
 
 line 25 Read 'selling of flesh' 19 note 43 1 8 Read 'fangam 173.5' 24 note 58 Read a TREAT DAT 28 note 68 line 7 Read alat atatia 36 line 34 Read 'they pray'. 
 
@@ -195,7 +195,7 @@ Add under Amardaka 'Vide E I vol. I pp
 
 Gwalior State' 758 
 
-Under 'Irāyati' add-'Vide Visnudbarmottara I, 
+Under 'Irāyati' add-'Vide Viṣṇudbarmottara I, 
 
 149 (twenty-five verses ) for a fine poetic description of this river and I 162. 61-65 for the confluence of Irāvati with Sindhu and of ten more confluences of several rivers of 
 

@@ -95,7 +95,7 @@ Divyatattva, Vyavahāratattva and other Tattvas. 1560 - 1620 A. D. -- Saṅkarab
 
 or Dharmadvaitanirṇaya. 1590 – 1630 A. D. - Nandapandita, author of the Dattakami 
 
-māṁsā and Vaijayanti, com. on Viṣnudharmasūtra. 1610--1640 A. D.-Kamalakarabhatta, author of Nirnayasindhu, 
+māṁsā and Vaijayanti, com. on Viṣṇudharmasūtra. 1610--1640 A. D.-Kamalakarabhatta, author of Nirnayasindhu, 
 
 Vivādatapdava, Sūdrakamalakara and other works. 
 

@@ -2121,7 +2121,7 @@ country' 134. and no punishment 4, 33, 244; Ideal
 
 Kūsmānda, mantras called 353. description of, is sometimes asso ciated with the picture of anarchy Lagbu-Asvalayana, smrti of 6460, 927. 244. 
 
-Laghu-Hārita 701n. Kr̥tyakalpataru (see Karpataru), a work Laghu-Viṣnu 764n. 
+Laghu-Hārita 701n. Kr̥tyakalpataru (see Karpataru), a work Laghu-Viṣṇu 764n. 
 
 13, 3019. 
 
@@ -2147,7 +2147,7 @@ bboja and Surāsṭra practised both gift of, should not be made by king husband
 
 [ Vol. 
 
-lessee building on apother's l. has servant, discouraged 299; compro. to remove building when he vacates mise of 303-304; death of parties 480 ; of brābmana not allowed to to 302; delay in disposal of, not be taken by cāndāla, patita &c. 496; allowed in ancient India 296; may portion of 1., set apart for pastures be decided by courts of several grades 499.-500; sales of, revenue officers 280; of two kinds, according as they were consulted in 142, 497 ; originate in wealth or injury 258 ; share of king in produce of 191 ; place of inference and presumption six causes of disputes about 502; in the decision of 355; retrial of theory of king's ownership of all i. ! 
+lessee building on apother's l. has servant, discouraged 299; compro. to remove building when he vacates mise of 303-304; death of parties 480 ; of brābmana not allowed to to 302; delay in disposal of, not be taken by cāṇḍāla, patita &c. 496; allowed in ancient India 296; may portion of 1., set apart for pastures be decided by courts of several grades 499.-500; sales of, revenue officers 280; of two kinds, according as they were consulted in 142, 497 ; originate in wealth or injury 258 ; share of king in produce of 191 ; place of inference and presumption six causes of disputes about 502; in the decision of 355; retrial of theory of king's ownership of all i. ! 
 
 385; stages in 297-298; third stage 189, 196, 495-496; trespasser buil- in, is adducing evidence 304 ; trans ding on I. of another without paying fer of, from one judge to another rent bad to leave materials to owner 386. when vacating 480-481. 
 
@@ -2519,7 +2519,7 @@ Nāradiya-purāna 656n, 892, 8930, 928, Nābhānediṣtha, story of 543, 545.
 
 939, Nāgaraka, duties of 149, 406. 
 
-Narasimha, avatāra of Viṣnu 214. Nāgasona 108. 
+Narasimha, avatāra of Viṣṇu 214. Nāgasona 108. 
 
 Nārāyaṇa commentator of Āśv. śr. 685n, Nahusa 52-53, 55, 845. 
 
@@ -2751,7 +2751,7 @@ gious sentiments 571-72; son's right | Patni, meaning of 707, to p, in father's 
 
 ed as long as father is alive 569. 531n, 532n, Partition Act (Indian) 586n, 
 
-People (see under 'subjects'); also Partnership 466-470; ancient dharma- spoken of collectively as Viṣnu 25 ; 
+People (see under 'subjects'); also Partnership 466-470; ancient dharma- spoken of collectively as Viṣṇu 25 ; 
 
 sūtras are silent about 469; duties calamities of, have graver conse. of partners in 466-67; liabilities of quences than those of the capital 233; partners in a 466 ; Manu extends the 
 
@@ -2831,7 +2831,7 @@ Prakāśa, a work 568n, 588n, 605n. Pliny 901.
 
 Prakirnaka, meaoing of, 251 ; meaning Poison, effects of, on various birds 84, of, acc, to Kautilya 258. Poisoned food and fire 84. 
 
-Pramati Bhargava, an avatāra of Poisoning of kings, measures against Visnu,' will uproot mlecchas and 
+Pramati Bhargava, an avatāra of Poisoning of kings, measures against Viṣṇu,' will uproot mlecchas and 
 
 83, 
 
@@ -2893,7 +2893,7 @@ about persons visiting p. 481-482. Province, administration of, io a State
 
 of p. was called Uparika 141. I'rtba, adopted by Kuntibhoja 675. Prthu, levelled the earth 183 ; oath 
 
-administered to 33; secured king dom through vinaya 52 ; Viṣnu 
+administered to 33; secured king dom through vinaya 52 ; Viṣṇu 
 
 entered P, 281. Prthvīrāja, Cholian hero 684n. Prthviraja Rāsau, a work 684n. Psalms 425n, Public roads, nuisances on 508-509. Pūga, meaning of 281. Pulakesin, a Calukya king 70. Punishment (see "banisliment', 
 
@@ -3495,7 +3495,7 @@ Selections from Peshwa's Daftar, (see | Shivarāja--rājyābbiṣeka--kalpataru,
 
 under 'Sardesai") 4020, 4050, 713. I work 81. Self-acquired property 639-640"; dif- Sidd bĀota-kaumudi 4940, 762a. 
 
-ferent kiods of 579-581 ; of a man Siddhantasiromani of Bhaskarācārya is inherited per stirpes by his son, 122n. grandsons, and great-grandsons 700; Siddharāja, king of Anbilvāda, levied son acquires by birtb an interest in tax on pilgrims visiting Somanātha father's s. p, acc, to strict theory of and then remitted it 198, Mitāksarā 639; son has no power to Sīlāditya, a kiog 70. prevent father from dealing with Silappadikāram, a Tamil work 407. latter's s. p. 639; Visnudharmasutra 
+ferent kiods of 579-581 ; of a man Siddhantasiromani of Bhaskarācārya is inherited per stirpes by his son, 122n. grandsons, and great-grandsons 700; Siddharāja, king of Anbilvāda, levied son acquires by birtb an interest in tax on pilgrims visiting Somanātha father's s. p, acc, to strict theory of and then remitted it 198, Mitāksarā 639; son has no power to Sīlāditya, a kiog 70. prevent father from dealing with Silappadikāram, a Tamil work 407. latter's s. p. 639; Viṣṇudharmasutra 
 
 Silparatna, a work 182n. declared father's absolute right 
 
@@ -4179,7 +4179,7 @@ Uttarakānda (of Rāmāyana ) 243, Usages, about ritual varied cven in Utlaramal
 
 Vedic times 877; authoritativeness qualifications of candidates for elec oj, laid down in smrtis, in relation tion to village committees 91, 156, to Vedic rites 841-42; each country: Uttarapat 
 
-! Uttarāpatha 135, has u, that are durācāras 849; esta blished in a country and not plainly immoral and not in direct conflict | Vābika, country of 88; Sakala, chief with Veda and smrtis were to be city of 889. recorded in writing under royal seal Vaidya, Mr. C. V. 898, 9010, 912. 270, 488, 862; family u. preforred to Vaijayapti, a lexicon 136, 1450, 383. sastra 875; general rule about autho- Vaijayanti, com, of Nandapandita on ritativeness of 865-866; governed Viṣnudbarmasutra. 39, 1220, 142, disputes of inhabitants of same vil. 195, 205, 403, 4520, 453, 6260, 646. lage, city or country 283, 862 ; illus. .717, 727, 730-31, 777, 87,78. 
+! Uttarāpatha 135, has u, that are durācāras 849; esta blished in a country and not plainly immoral and not in direct conflict | Vābika, country of 88; Sakala, chief with Veda and smrtis were to be city of 889. recorded in writing under royal seal Vaidya, Mr. C. V. 898, 9010, 912. 270, 488, 862; family u. preforred to Vaijayapti, a lexicon 136, 1450, 383. sastra 875; general rule about autho- Vaijayanti, com, of Nandapandita on ritativeness of 865-866; governed Viṣṇudbarmasutra. 39, 1220, 142, disputes of inhabitants of same vil. 195, 205, 403, 4520, 453, 6260, 646. lage, city or country 283, 862 ; illus. .717, 727, 730-31, 777, 87,78. 
 
 S 
 
@@ -4329,11 +4329,11 @@ Visālākṣa, expounder of Rajaśāstra 2, Vidbivaisamya, explained 704.
 
 queen 85. 
 
-Viṣnu, smrti of (not found in printed Vidyadhana, (see under 'gains of learn. 
+Viṣṇu, smrti of (not found in printed Vidyadhana, (see under 'gains of learn. 
 
 text) 735. ing') 581ff. 
 
-Visnudharmasūtra, 3, 9, 170, 22, 37, Vidyas, control of sepses is the cause 56, 58-59, 61, 71, 118-1219, 126 
+Viṣṇudharmasūtra, 3, 9, 170, 22, 37, Vidyas, control of sepses is the cause 56, 58-59, 61, 71, 118-1219, 126 
 
 of proficiency in 52; for a king 48- 133, 141-42, 146n, 166-67, 173, 176, 49; fourteen or eighteen in ancient 
 
@@ -4361,7 +4361,7 @@ administration in 155-156; craftsmen
 
 communities were miniature States 655, 663, 6788, 6900, 700-702, 7100, 
 
-· 157 ; duty of elders of, to protect 714, 719, 721, 725, 734, 747, 749, and increase property of minors and 763-64, 767, 773, 7750, 7770, 787, temples 166: extent and revenue of 790, 804, 807n, 816, 857, 866, 869, 134. 154 ; headman of 153-154; 8770, 890, 922, 932, 943-44, 949, headman of, had certain summary 951-52, 953-54, 959, 963, 965.' powers of punishmebt 282 ; officers Viṣnudharmottara-purāṇa, 13, 24, 44, of a 154-155 ; officers of, supervised 54, 57, 59-60, 69, 72, 777, 79, 80, 
+· 157 ; duty of elders of, to protect 714, 719, 721, 725, 734, 747, 749, and increase property of minors and 763-64, 767, 773, 7750, 7770, 787, temples 166: extent and revenue of 790, 804, 807n, 816, 857, 866, 869, 134. 154 ; headman of 153-154; 8770, 890, 922, 932, 943-44, 949, headman of, had certain summary 951-52, 953-54, 959, 963, 965.' powers of punishmebt 282 ; officers Viṣṇudharmottara-purāṇa, 13, 24, 44, of a 154-155 ; officers of, supervised 54, 57, 59-60, 69, 72, 777, 79, 80, 
 
 III) 
 
@@ -4379,7 +4379,7 @@ niti in 6000 ślokas 7, 8.
 
 766, 8560, 857, 869, 892, 8950, 896, 6210, 6230-626n, 6310, 6320, 6340, 8970, 924-25. 
 
-635-36, 6370, 6420, 644, 646, 649n, Visnuyasas, father of Kalkin, 924-25. 6510, 6520, 6560, 6600, 6640, 702, Visti, duties of 208. 
+635-36, 6370, 6420, 644, 646, 649n, Viṣṇuyasas, father of Kalkin, 924-25. 6510, 6520, 6560, 6600, 6640, 702, Visti, duties of 208. 
 
 707n, 714a, 716, 7210, 7340, 7360, Viśvamitra, adopted Sunaḥsepa, though 738n, 7470, 763, 770, 7710, 786n 
 
@@ -4405,7 +4405,7 @@ kyasmrti 9, 32, 470, 48, 137, 159n, Vrddha-Bșhaspati 614, 653n, 943. 160, 167, 
 
 Vṭddha-Vasistha 380. Vivāda, meaning of 246. 
 
-Vrddha-Viṣnu 721n. Vivīdacandra of Misarumiśra 246, 288n, Vrddha-Yajñavalkya 675. 
+Vrddha-Viṣṇu 721n. Vivīdacandra of Misarumiśra 246, 288n, Vrddha-Yajñavalkya 675. 
 
 291n, 325, 3270, 344, 349, 356n, Vrṣnis, oligarchy of, perished by 358, 380, 4170, 4231, 4240, 434n, attacking Dvaipāyana 53 ; sangha 455n, 460, 473a, 474n, 490n, 545. 1 of, was presided over by Krsna 88; 573n, 605, 698n, 703n, 7080, 736n, suffered through gambling 55. 
 
@@ -4681,7 +4681,7 @@ several y. 869, 885; theory of 885. Vāska (see under 'Nirukta '), 104, 658, 891
 
 776n. 
 
-Yuktikalpataru 13, 229, 230. Yasodharman Viṣnuyasas 925n, 
+Yuktikalpataru 13, 229, 230. Yasodharman Viṣṇuyasas 925n, 
 
 Yuvarāja; bad y, to be kept confined Vati; sūdra as 765; who could be a 117; eldest son or younger brother 
 

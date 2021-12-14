@@ -27,7 +27,7 @@ More than 50 authorities are cited in the portion published. Among the sutrakār
 
 once on p. 55, Pārijāta ( several times ), Vijñānayogiśvara (on pp. 7, 249), Sarvajña-narayana, commentator of Manu VIII. 53–54, (on p. 63 ) and on Manu VIII. 41, 42, 46, (on p. 33), Halāyudha on p. 161 and 284 ( on Nārada's verses.). 
 
-From the colophons at the end of certain sections (Ullāsas) of the portion printed, it appears that the author was the son of Nāgamalla, was a great devotee of Visnu and had such birudas as Kalikāla-karṇa, Pratāpa-lankeśvara, Ripujayasimha. On p. 279 he refers to Brahmacāriprakāśa as already composed. 
+From the colophons at the end of certain sections (Ullāsas) of the portion printed, it appears that the author was the son of Nāgamalla, was a great devotee of Viṣṇu and had such birudas as Kalikāla-karṇa, Pratāpa-lankeśvara, Ripujayasimha. On p. 279 he refers to Brahmacāriprakāśa as already composed. 
 
 This Vyavahāraprakāśa, when completely printed, would be recognised as a treatise on law and procedure applicable to Hindus in Northern India. The quotations from authorities are ample, to the point, fucid and not burdened with lengthy dis cussions on Mimāṁsā. It keeps throughout a practical end in view viz. to explain the law in easy and clear language. Not only the Vyavahāraprakāśa, but other sections on non-legal topics have been quoted extensively by writers on Dharmaśāstra from the 16th century onwards such as the Nirnayasindhu (which quotes it hundreds of times), the Mayūkhas of Nilakantha who quotes it in Acara-m., Samaya m. and Srāddha-m. and others. 
 

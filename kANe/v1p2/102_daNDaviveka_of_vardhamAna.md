@@ -75,9 +75,9 @@ Vardhamana remarks 1969:37Aquetoniaalapitata 45 विधो वधः स च�
 
 859 
 
-Some of his references are interesting e. g. he quotes a prose passage of Vispugupta about Rūpyamāsaka, Dharana, Niṣka and a verse of Viṣnugupta stating that 1/70th part of a suvarna is called ropaka and a dināra is equal to 28 ropakas,1298 
+Some of his references are interesting e. g. he quotes a prose passage of Vispugupta about Rūpyamāsaka, Dharana, Niṣka and a verse of Viṣṇugupta stating that 1/70th part of a suvarna is called ropaka and a dināra is equal to 28 ropakas,1298 
 
-On p. 28 he refers to another view of Viṣnugupta on * Māṣa ’.1299 in one place (p. 291-292 ) he cites some cases of conflict between Dharmaśāstra and Arthasastra and between two dharmaśāstras also.1300 
+On p. 28 he refers to another view of Viṣṇugupta on * Māṣa ’.1299 in one place (p. 291-292 ) he cites some cases of conflict between Dharmaśāstra and Arthasastra and between two dharmaśāstras also.1300 
 
 The English Introduction to the Dandaviveka is an instruc tive one. It compares the provisions in the Dandaviveka with the Indian Penal Code and the modern criminal law of India and well brings out the points of agreement and difference between them. 
 

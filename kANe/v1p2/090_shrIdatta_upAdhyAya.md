@@ -41,7 +41,7 @@ Marathi \#7217!.90. Áridarta Upadhyāya
 
 761 
 
-paddhati (p. 53 ), several Purūṇas (such as Narasimha, Devi, Nandi, Padma, Brahma, Bhavisya. Mārkandeya, Matsya, Linga, Vāmana, Varāha, Vāyu, Viṣnu, Skanda), Mahārṇavaprakasa (pp. 4, 15), Mitākṣarā (p. 31), Ratnakarandıkā (p. 11), Yogi yājñavalkya (many verses quoted on pp. 9, 10, 13, 17, 19, 27, 41, 44), Haribhakti (p. 36 ), Haribhaktidipika (p. 37), Smstimañjūsā (p. 2 said to be Daksinadesiya). He referes to his own work 
+paddhati (p. 53 ), several Purūṇas (such as Narasimha, Devi, Nandi, Padma, Brahma, Bhavisya. Mārkandeya, Matsya, Linga, Vāmana, Varāha, Vāyu, Viṣṇu, Skanda), Mahārṇavaprakasa (pp. 4, 15), Mitākṣarā (p. 31), Ratnakarandıkā (p. 11), Yogi yājñavalkya (many verses quoted on pp. 9, 10, 13, 17, 19, 27, 41, 44), Haribhakti (p. 36 ), Haribhaktidipika (p. 37), Smstimañjūsā (p. 2 said to be Daksinadesiya). He referes to his own work 
 
 Sraddhakalpa' (p. 53). For a small work like the Chando gāhnika the author quotes a very large number of authorities. It may be noted that this work specifies (on pp. 45-46) at some length the Aparādhas that Bhagavatas should not be guilty of and explains the word Bhagavata in several ways. 
 

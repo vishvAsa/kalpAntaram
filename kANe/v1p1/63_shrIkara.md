@@ -47,7 +47,7 @@ ordeals with Nirada. 747 Vide स्मृतिसार ( I. 1). ent. No. 301,
 
 wrote a digest of smṛtis in which he paid particular attention to the explanation of the words of Yājsavalkya. The Rāja nitiratnākara750 of Candesvara quotes the views of Srikara on Rājaniti, one of which is that the poor and helpless are entitled to a share of the royal wealth. 
 
-Hemālrist quotes the view of Srikara on Visnu and dis approves of the faults found therein by the author of the Paụuita-paritosa. 
+Hemālrist quotes the view of Srikara on Viṣṇu and dis approves of the faults found therein by the author of the Paụuita-paritosa. 
 
 As Srikara is quoted by the Mit., he is certainly earlier than 1050 A. I). As his views agree largely with Viśvarūpa's he may provisionally be regarded as nearly of the same period as Viśvarūpia's. He cannot be earlier than Asahiya who is named both by Viśvarūpa and Medhātithi, though both of them are silent about Srikara. Hence Srikara must be placed somewhere between 800 and 1050 A. D. and probably flourish ed in the 9th century. 
 

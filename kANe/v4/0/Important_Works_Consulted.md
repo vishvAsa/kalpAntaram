@@ -61,7 +61,7 @@ Smilis Āpastambasmrti in verse (Anan.) Atri-smrtı (Adan.) Auśanasa-smrti (Jiv
 
 the title 'Katyāyanasmrtısāroddhāra' with English Translation 
 
-and notes) Laghu-Hārita (Anap.) Laghu-Visnu (Anan) Laghu-āśvalāyana (Apan.) Mahābhārata with the com. of Nīlakantha (oblong Bombay edition) Manusmrti with the commentary of Kullūka (Nirn.), where other 
+and notes) Laghu-Hārita (Anap.) Laghu-Viṣṇu (Anan) Laghu-āśvalāyana (Apan.) Mahābhārata with the com. of Nīlakantha (oblong Bombay edition) Manusmrti with the commentary of Kullūka (Nirn.), where other 
 
 commentaries on Manu are referred to, it is Mandlık's edition 
 
@@ -73,7 +73,7 @@ History of Dharmaśāstrā
 
 PURĀNAS The Anandasrama editions of the Agni, Brahma, Brahmavaivarta, 
 
-Matsya, Padma and Vāyu have been used, the Nirn edition of the Bhāgavatapurāna (text only) and the edition of the Narasimha. purāna published by Messrs Gopal Narayan and Co. have been relied upon, the Venkateśvara Press editions of the Bhavisya, Brahmānda, Brhan-Nāradīya (or simply Nāradīya), Garuda, Kālikā. Kūrma, Linga, Mārkandeya, Visnupurāpa and Visnu dbarmottara have been used, the Nīlamatapurāna, ed. by Pandits Ramlal Kanjilal and Jagaddbar Zadoo (1924) 
+Matsya, Padma and Vāyu have been used, the Nirn edition of the Bhāgavatapurāna (text only) and the edition of the Narasimha. purāna published by Messrs Gopal Narayan and Co. have been relied upon, the Venkateśvara Press editions of the Bhavisya, Brahmānda, Brhan-Nāradīya (or simply Nāradīya), Garuda, Kālikā. Kūrma, Linga, Mārkandeya, Viṣṇupurāpa and Viṣṇu dbarmottara have been used, the Nīlamatapurāna, ed. by Pandits Ramlal Kanjilal and Jagaddbar Zadoo (1924) 
 
 COMMENTARIES, DIGESTS, MISCELLANEOUS SANSKRIT, PĀLI AND PRAKRIT WORKS AND AUTHORS, Abhilasıtārthacıntāınanı ( = Mānasollāsa ), published by Mysore 
 
@@ -101,7 +101,7 @@ of B B. R. A. S. cat. ) Haracarita-cintamani of Jayadratba (Nirn. Kāvyamālā s
 
 srāddha and tīrtha (G.O.S) Kaśıkā, commentary on Panini's sūtras Kāvyamīmāmsā of Rajasekhara (G.O.S.) Kr̥tyaratnākara of Candeśvara ( B. I. series) Ksirasvāmid's com, on Amarakosa ( ed. by K, G. Oak, Poona) Kullūka's com. on Manusmrti (Nir.) Kumārıla's Tantravārtıka and Tuptīkā on Jaimni's sūtras (Anan.) Madanapārijāta (B. I. series) Madanaratna (section on vyavahāra ed. by P. V. Kane for the Anup 
 
-. Library series, Bikaner) Mabābhāsya of Patañjali (ed. by Kielhorn in Bombay S. series) Mabārdayakarmavipāka of Māndbātr--D.C. ms.No. 239 of A 1881-82 Medbātıthi's com. on Manusmrti (Mandlik's edition) Mitāksarā of Vijñābesvara, com. on Yājñavalkyasmrti (Nirn.) Nandapandita, author of Vaijayantī, com. on Visnudharmasūtra Nirnayasındbu with Marathi translation (Nun. 2nd ed. of 1935) Pānını's Astādhyāyī vith Siddbānta-kaumudi of Bhattoji (Nirn) Parāsara-Madhavīya (Bombay S. series) Pitrbbaktı of Śrīdatta-D. C. ms. No. 152 of 1892-95 Pitrdayıtā of Aniruddbabbatta (published by Sanskrit Sahitya-parisad, 
+. Library series, Bikaner) Mabābhāsya of Patañjali (ed. by Kielhorn in Bombay S. series) Mabārdayakarmavipāka of Māndbātr--D.C. ms.No. 239 of A 1881-82 Medbātıthi's com. on Manusmrti (Mandlik's edition) Mitāksarā of Vijñābesvara, com. on Yājñavalkyasmrti (Nirn.) Nandapandita, author of Vaijayantī, com. on Viṣṇudharmasūtra Nirnayasındbu with Marathi translation (Nun. 2nd ed. of 1935) Pānını's Astādhyāyī vith Siddbānta-kaumudi of Bhattoji (Nirn) Parāsara-Madhavīya (Bombay S. series) Pitrbbaktı of Śrīdatta-D. C. ms. No. 152 of 1892-95 Pitrdayıtā of Aniruddbabbatta (published by Sanskrit Sahitya-parisad, 
 
 Calcutta, 1930) Prayascittamayūkba of Nīlakantba (Ghar.) Prāyaścıttamuktāvali of Divakara, son of Mabādeva (D.C. ms. No. 
 

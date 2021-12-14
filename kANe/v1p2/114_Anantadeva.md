@@ -87,7 +87,7 @@ E
 
 striking in it and often it is very meagre as compared with even Yaj. smsti e g. on Sambhūyasanutthana' it quotes only four verses (without a word of comment ) that are Yāj. II. 259-60, 263–265, while Yāj. devotes seven verses to the same topic viz. II. 259–2651186 
 
-The Rajadharmakaustubha quotes profusely from the Matsyapurāna, the Visnudharmottara-purana and the Bșhatsa mhitā ( whole chapters being quoted semetimes from these ). Dr. Miss. Priyabala Shah published Khanda III of the Viṣnudharmo ttara (chapters 1-118 ) in two parts in the Gaekwad Oriental Series. Vide also Studies in Dharmaśāstra' by Dr. Bhabatosh Bhattacharya (1964), pp. 22–23 for Anantadeva. 
+The Rajadharmakaustubha quotes profusely from the Matsyapurāna, the Viṣṇudharmottara-purana and the Bșhatsa mhitā ( whole chapters being quoted semetimes from these ). Dr. Miss. Priyabala Shah published Khanda III of the Viṣṇudharmo ttara (chapters 1-118 ) in two parts in the Gaekwad Oriental Series. Vide also Studies in Dharmaśāstra' by Dr. Bhabatosh Bhattacharya (1964), pp. 22–23 for Anantadeva. 
 
 The name Smṛtikaustubha (cf. the Nir. ed. of 1908) is misleading. It does not deal with all or many topics treated of in Smstis. It deals only with the religious rites to be performed in tbe Candra year in its several months and on several uthis and the religious rites to be performed in the other four kinds of years and their months. The Smṛtıkaustubha is really · Abdadidhiti' 
 

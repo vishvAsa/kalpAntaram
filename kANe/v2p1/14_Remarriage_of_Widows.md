@@ -13,7 +13,7 @@ Remarriage of widows.--The word punarbhu is generally applied to a widow that ha
 
 Vedic passages bearing on the question. 
 
-1430. Compare Manu IX. 176 and Viṣṇa 15. 8 for the first punarbbu, Mapu IX, 176, Vas, Dh. 8. 17.19 and Viṣnu 16. 9 for the second poparbhu, 
+1430. Compare Manu IX. 176 and Viṣṇa 15. 8 for the first punarbbu, Mapu IX, 176, Vas, Dh. 8. 17.19 and Viṣṇu 16. 9 for the second poparbhu, 
 
 Ch. XIV) 
 

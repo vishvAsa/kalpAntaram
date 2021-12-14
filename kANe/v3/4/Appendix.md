@@ -33,7 +33,7 @@ Dh. vol. II. p. 1216 and above p. 112. ET Market-master'. Vide Rājat. V. 167. 7
 
 of sale and the like after having the land sold measured in bis presence ). Vide Rājat. VI. 38 and note 436 above where 
 
-Viṣnu Dh. S. VII. 3 is quoted. 7771913Officer in charge of boundaries. Vide Kautilya I. 12 
+Viṣṇu Dh. S. VII. 3 is quoted. 7771913Officer in charge of boundaries. Vide Kautilya I. 12 
 
 (one of the 18 tirthas ), II. 21, V. 1, and Kamandaka XII. 5. The word occurs in the Malavikāgnimtra, Act I. OTETTY-Officer in charge of the inner apartments or of the harem. Vide Masulipatam plate of Ammarāja II in 
 
@@ -177,7 +177,7 @@ Junagadh Ins. of 150 A. D. in E. I. vol. VIII p. 36. Vide
 
 p. 105 above. AryTM-A scribe or writer in the revenue department of the king. 
 
-The oldest references are probably those in Yāj. I. 322, Visnu Dh. S. VII, 3 and Br. Sam. 86. 12. Vide Aśvagbasa. 
+The oldest references are probably those in Yāj. I. 322, Viṣṇu Dh. S. VII, 3 and Br. Sam. 86. 12. Vide Aśvagbasa. 
 
 980 
 
@@ -429,7 +429,7 @@ sāmanta'. दुःसाधसाधनिक--Vide दौःसाधसा�
 
 for Superintendent of a fort. Vide p. 112 note 147 above. CAT-meaning uncertain. The word occurs in the Kahla 
 
-plate of Sodhadova of samvat 1134 (E. I. VII at p. 91). 9-Messenger, envoy. Vide Viṣnudharmottara II. 24. 13-14, 28 
+plate of Sodhadova of samvat 1134 (E. I. VII at p. 91). 9-Messenger, envoy. Vide Viṣṇudharmottara II. 24. 13-14, 28 
 
 for his qualifications and pp. 112, 127 above. In the 13th Rock Edit of Asoka at Shahabazgadhi we have 'duta' (vide 
 
@@ -465,7 +465,7 @@ grant of Laksmanasena in the 3rd year of his reign (i. e.
 
 1122 A. D.) in E. I. XII at p. 9. Daft-Doorkeeper. Vide Kautilya 1. 12, Lalitavistara p. 136, 
 
-Viṣnudharmottara II. 24. 30. \# Officer in charge of a city station or watch tower for 
+Viṣṇudharmottara II. 24. 30. \# Officer in charge of a city station or watch tower for 
 
 collecting customs duties. 'Dranga' means either a town' (as in E. I. XX, No. 810 of śake 1509 ) or a watch station' (as in Rajat. VILI, 2010). The word occurs in Valabhi plate of Dharasena II in Valabhi samvat 252 (I. A. 15 p. 187 ), Gupta Ing. No. 38 at p. 169, Palitana plate of Simhaditya in 255 Valabhi year (E. I. XI p. 16 at p. 18), Bhavanagar plate of Dhruvasena I in Valabhi year 210 (E. I. XV p. 257), Wala plate of Guhasena (E. I. XIII at p. 339), the Navalakhi plate of Siladitya (E. I. XI at p. 179). 
 
@@ -481,7 +481,7 @@ Tar, atafa, gaira_Superintendent of passes leading into the
 
 kingdom (Stein). Vide Rājat. V. 214. HET 13-Superintendent of morality. Vide Aśoka's Edicts in 
 
-Corpus I. I vol. I p. 96 (first Rock edict at Girnar). gai -Judge. Vide Viṣnudharmottara II. 24. 24-25. 
+Corpus I. I vol. I p. 96 (first Rock edict at Girnar). gai -Judge. Vide Viṣṇudharmottara II. 24. 24-25. 
 
 alfriota-Judge. Vide Matsyapurāṇa 215. 24 and note 167 
 
@@ -585,7 +585,7 @@ at p. 190 dated 766-67 A. D. ( The words are tan-niyukta.
 
 pratinartaka-kulaputrāmātya-Guhena'). gafar-Vide note 150 above. afTET ----Chamberlain or 'inditer of grants'. In Nasik Ing. No. 5 
 
-the word patihāra (pratihāra ) occurs (E. I. VIII p. 73). Bphaspati quoted by Viśvarūpa on Yāj. I. 307 states the qualifications of a 'pratihāra'. Vide Adiparva 85, 28-29, Visnudharmottara II. 24. 12, Sukra I. 121 for definitions. In the grant of Dhruvasena dated Valabhi year 206 the 
+the word patihāra (pratihāra ) occurs (E. I. VIII p. 73). Bphaspati quoted by Viśvarūpa on Yāj. I. 307 states the qualifications of a 'pratihāra'. Vide Adiparva 85, 28-29, Viṣṇudharmottara II. 24. 12, Sukra I. 121 for definitions. In the grant of Dhruvasena dated Valabhi year 206 the 
 
 dūtaka of the grant is pratihāra Mammaka. der-Same as above. The form occurs in the Vagantagadh 
 
@@ -623,7 +623,7 @@ subordinate officer of the treasury who received cash pay
 
 ments. The word occurs in Rājat. VIII. 278. CRITET Probably chief magistrate. The word occurs in Kaut. I. 
 
-12 ; vide p. 11% n. 147 above. Murar-Medical adviser to the king. Vide Visṇudharmottara 
+12 ; vide p. 11% n. 147 above. Murar-Medical adviser to the king. Vide Viṣṇudharmottara 
 
 II. 24. 33-34 for his qualifications. NIETETA Chief Justice. Vide Manu IX, 234 and p. 272 above. STICHTE--- Meaning doubtful. The word occurs in the Valabhi 
 
@@ -1049,7 +1049,7 @@ Brahinagiri Rock Ins. in Corpus I I vol. I at p. 176. Panini II. 2. 21 teaches t
 
 I Vol. 
 
-Scribe or clerk in a public office. The word occurs in Nasik Ing. No. 16 and No. 26 (Bombay Gazetteer vol. 16 pp. 582 and 605), in the Visnudharmottara II. 24. 26-28, 
+Scribe or clerk in a public office. The word occurs in Nasik Ing. No. 16 and No. 26 (Bombay Gazetteer vol. 16 pp. 582 and 605), in the Viṣṇudharmottara II. 24. 26-28, 
 
 Sukra II. 120. Sal -Letter-carrier. Occurs in Rājat. VI. 319. da A Secretary. Occurs in Rājat. III. 206. fagrafia Director of education. In the Kondavidu Ins. one 
 
@@ -1153,13 +1153,13 @@ in I. A. vol. 8 p. 19, vol. 9 at p. 167, vol. 10 p. 129. Hairat --Prime Minister
 
 Purle plate of Indravarman in the Ganga year 149 i. e. 605 
 
-A. D. (E. I. XIV pp. 360, 362 ).. HECH-Astrologer. Occurs in Viṣnu Dk. S. III. 75, Bṭhatsam. 
+A. D. (E. I. XIV pp. 360, 362 ).. HECH-Astrologer. Occurs in Viṣṇu Dk. S. III. 75, Bṭhatsam. 
 
 hitā 2.9. Vide p. 126 above. niacin-Astrologer. Occurs in Paithinasi. Vide note 193 
 
 above. Fre4973-Bailiff who summoned parties and witnesses. Vide 
 
-p. 278 above. Filmfagle+---Minister for peace and war. Occurs in Viṣnu 
+p. 278 above. Filmfagle+---Minister for peace and war. Occurs in Viṣṇu 
 
 dharmottara II. 24. 17 and in the Mit. on Yāj. I. 320 ( which quotes a verse to the effect that the sandhivigrahakārin is to issue a royal grant) and in Gupta Ins. No. 1 at p. 15 
 
@@ -1191,7 +1191,7 @@ tion. Vide Rājat. V. 175. 717 1717-Officer superintendent of the harom. The wor
 
 occurs in the 12th rock Edict of Asoka in a prākrit form 
 
-(Corpus I. I. vol. I at p. 20). Fara Architect. Vide Viṣnudharmottara II. 24. 39. F a n-Chief architect. Occurs in Karitalai plates of 
+(Corpus I. I. vol. I at p. 20). Fara Architect. Vide Viṣṇudharmottara II. 24. 39. F a n-Chief architect. Occurs in Karitalai plates of 
 
 Mahārāja Jayanātha (Gupta Ins. No. 26 of the Gupta year 
 

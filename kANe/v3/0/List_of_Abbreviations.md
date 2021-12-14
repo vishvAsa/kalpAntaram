@@ -69,9 +69,9 @@ senso Vyavahāranirnaya of Varadarāja
 
 ya V. P. = Vyavaharaprakāsa (a part of the Viramitrodaya 
 
-of Mitramiśra ) V. R. = Vivādaratnākara of Candesvara Visnu 
+of Mitramiśra ) V. R. = Vivādaratnākara of Candesvara Viṣṇu 
 
-Viṣnudharmasūtra Visnu Dh. S.S V. T. = Vivadatandava of Kamalakara Vy. Nir 
+Viṣṇudharmasūtra Viṣṇu Dh. S.S V. T. = Vivadatandava of Kamalakara Vy. Nir 
 
 Nirmaya} = Vyavahāranirnaya of Varadarāja Vy. Nirnayas Yaj. = Yajnavalkyasmrti अथर्व = अथर्ववेद अर्थशास्त्र = कौटिलीय अर्थशास्त्र आप. ध. सू. = आपस्तम्बधर्मसूत्र आप. म. पा. = आपस्तम्बमन्त्रपाठ ऋ. = ऋग्वेद ऐ. ब्रा. = ऐतरेयब्राह्मण कलिवज्यवि. = कलिवयविनिर्णय ( ms) कात्या. = कात्यायनस्मृतिसारोद्धार कात्या. श्री. = कास्यायनश्रौतसूत्र काम कामक८ कामन्दकीयनीतिसार कृत्यर. - कुस्यरत्नाकर 
 

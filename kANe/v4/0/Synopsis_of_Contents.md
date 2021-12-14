@@ -89,7 +89,7 @@ Kaśī ; Banaras known under five different names ; derivation of the words Kaś
 
 Chapter XIV Gayā; Gayāmāhātmya in Vāyupurāna 
 
-(chapt. 105–112); views about its date; Visnupada and Gayasıras in Nirukta; brief summary of Gayāmāhātmya; most important spots in Gayā are the Pbalgu rivar, Viskupada and Aksayavata; the five tirthas of Gayā; offering of srāddha and pindas at Gaya; the seven holy cities, twelve Jyotir-ligas, and four Dhāmas 
+(chapt. 105–112); views about its date; Viṣṇupada and Gayasıras in Nirukta; brief summary of Gayāmāhātmya; most important spots in Gayā are the Pbalgu rivar, Viskupada and Aksayavata; the five tirthas of Gayā; offering of srāddha and pindas at Gaya; the seven holy cities, twelve Jyotir-ligas, and four Dhāmas 
 
 ... 643-679 
 

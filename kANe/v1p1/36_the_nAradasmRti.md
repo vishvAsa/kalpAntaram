@@ -199,7 +199,7 @@ Harita-smrtisan in the Anandasrama collection of Smrtis (1905 A. D.) says that K
 
 21 
 
-The Vyavahāramātrkā of Jimūtavāhana and the Parā sara-Madhaviya (vol. III, part I, p. 203 ) quote a verse from Nārada, the latter half of which is the same as the latter half of a verse in the Vikramorvaśīya.521 The doctrine attributed to Nārada is found in Yāj. (II. 20 ) and the Visnudharina sutra (6. 22 ) but not in the same words. Unfortunately the date of Kālidāsa is far from being universally accepted, but the fourth or first half of the 5th century is often accepted 48 the probable date. There is further difficulty in the fact that the text of the Vikramorvasiya has been largely tampered with. If the verse is a genuine part of the drama, it seems natural to suppose that Kālidāsa turns a well-known legal maxim to a somewhat bumorous use. It is hard to suppose 
+The Vyavahāramātrkā of Jimūtavāhana and the Parā sara-Madhaviya (vol. III, part I, p. 203 ) quote a verse from Nārada, the latter half of which is the same as the latter half of a verse in the Vikramorvaśīya.521 The doctrine attributed to Nārada is found in Yāj. (II. 20 ) and the Viṣṇudharina sutra (6. 22 ) but not in the same words. Unfortunately the date of Kālidāsa is far from being universally accepted, but the fourth or first half of the 5th century is often accepted 48 the probable date. There is further difficulty in the fact that the text of the Vikramorvasiya has been largely tampered with. If the verse is a genuine part of the drama, it seems natural to suppose that Kālidāsa turns a well-known legal maxim to a somewhat bumorous use. It is hard to suppose 
 
 ............... 
 

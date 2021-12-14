@@ -643,7 +643,7 @@ worship of Durgā in, 739. Bhagat, M. G., 179n. Bhagavad-gita, 9, 60, 97, 423, 7
 
 726 &o. Bhagavatas, to be worshippers in 
 
-temples of Viṣnu, 722; worshippers of Vippu or Siva posing as boly 
+temples of Viṣṇu, 722; worshippers of Vippu or Siva posing as boly 
 
 (buwd in Marathi ), 131. Bhairava, temple of, could be orected 
 
@@ -877,7 +877,7 @@ pratilomas was untouobable, 172; the Ramayana, 721; somo tonete
 
 * pratiloina caste, 57, 171; called of, 723; when came to be lookod 
 
-antyāvasayin, 70; description of . upon as avatūra of Viṣnu, 720-722. 
+antyāvasayin, 70; description of . upon as avatūra of Viṣṇu, 720-722. 
 
 hamlot of, 81; included among Buddhism, causes of disappearanco 
 
@@ -1251,7 +1251,7 @@ in modern tiines, 739-740; rules 467.
 
 about water (1sed in, 730-731 ; sest Doslıpando, Dr. Mrs., 195n. 
 
-for worsbipper in, 731 ; time for, Dousson, on grandeur of the concep- 714; unguents in, 732 ; upacaras 
+for worsbipper in, 731 ; time for, Dousson, on grandeur of the concep- 714; unguents in, 732 ; upacāras 
 
 tion of aśramas, 423-424; propounds in, 729-735; water usod in bath of that ksatriya, were pionoors of image treated as sacred 731; wav Brahmavidya, 106n. 
 
@@ -1373,7 +1373,7 @@ Drābydyana-frauta-sutra, 2400,9889, sacrifice of goat or buffalo for, 739;
 
 1134, 1145n, 1168, 1185, 1196n. stated to be fond of blood and Draupadi: according to Kumārila, wine, 738; worship of, 738-739. 
 
-there wore really five wivos of Durgārcana puudbati of Raghunan. the Pāṇda vas very similar to each 0808, 739. othor, 655; svayarrara of, 523; Durva, plant favourite of Viṣnu, 732. wife of five brothora, 554. 
+there wore really five wivos of Durgārcana puudbati of Raghunan. the Pāṇda vas very similar to each 0808, 739. othor, 655; svayarrara of, 523; Durva, plant favourite of Viṣṇu, 732. wife of five brothora, 554. 
 
 Dutt, N. K., 168. Dravidag, 84; Maou's viow about, 47. Dvadasaba, & Soma sacrifice, 1213 Drinking (liquor ), 792-798; 8c0 14; is both an ahina and a sattra, 
 
@@ -1795,7 +1795,7 @@ Llavisya (to bo offorod in firo ), ton Guilds, boundary disputes to be materials
 
 settled by, 67. 
 
-Hayagriva, as avatāra of Viṣnu, 720. Gulma, moaning of, 68. 
+Hayagriva, as avatāra of Viṣṇu, 720. Gulma, moaning of, 68. 
 
 Heinrich, Rev. J. O., 179n. Gunadharma, moaning of, 3. 
 
@@ -2209,7 +2209,7 @@ capital, 710. Kavaṣa Ailūpa, 447, 758; driven out
 
 from a sacrifice on the Sarasvati, 36. Kavyadarka, 72. Kavyalamkāra, of Bhāmaha, 252n. Kavyamımāınsa, of Rajasekhara, 369. Kavya prakash, 9040. Kayastha, 75–77; controversies about 
 
-origin and history of, 75; in inscri ptions, 77; included anong sūdras by some sınṣtis, 76; was originally an officer, 76; word occurs among sūtras only in Viṣnu, 76; word probably derived from foreign 
+origin and history of, 75; in inscri ptions, 77; included anong sūdras by some sınṣtis, 76; was originally an officer, 76; word occurs among sūtras only in Viṣṇu, 76; word probably derived from foreign 
 
 source, 76. Keay, Mr., 285A, 321n. Keith, Prof., 380, 4180, 499-500, 555, 
 
@@ -2667,7 +2667,7 @@ Samsarpa or Ashasaspati, 1178; twelvo enciont names, of, &ro Madhu, Madhara &c. 
 
 
 
-twolve, Associated with twelve fifteen muhurtas of day given in names of Viṣnu, 250. 
+twolve, Associated with twelve fifteen muhurtas of day given in names of Viṣṇu, 250. 
 
 Tai. Br., 645. Moral values, empbasized in Maba- | Mukerji, Dr. Radbakumud, 690. " 
 
@@ -3825,7 +3825,7 @@ to long brahmacarya, 351, Smṛtitattva, extensive digost, by
 
 Raghunandana, 474. Smrtyartha-sāgara, of Chalari, 674 ; 
 
-supports branding of body with marks of Viṣnu's weapons, 674. Smṛtyarthasara, 53, 57, 175, 188, 
+supports branding of body with marks of Viṣṇu's weapons, 674. Smṛtyarthasara, 53, 57, 175, 188, 
 
 194n, 199, 221, 741, 743, 744 &o. Suana (bath), 658-668; brief pro 
 
@@ -4135,7 +4135,7 @@ as his son, 329-330; woman af, 366. Teaching: after prior stipulation for monoy 
 
 355 ; was oral, 108, 325. Toetb, brusbing of, see under Danta. 
 
-dbāvana. Telang, Mr. Justice, on coronation . of Shivaji, 379a. Temples, adıninistration of temples and mathas in ancient timor, 910net 913; could be enterod by Antyajas According to Smityarthesāra, 176 ; dancing girls attached to, 903–904; existed long before 6th century B, C., 710; king's duty to pupish porsons interfering with temple property, 911; kings appointed officer called Devatadhyaksa, 912; mentioned by Laugākṣi-gruya, Gau tama, Ap.Db.S. and other sutras, 709; of god Brahma raro, 724 ; præṇa pratiṣth& of images in, a later element, 900; procedure of esta blisbing images in, 897-899 ; pro cedure of consecrating image of Viṣnu, accordiog to VaikbTossa, 901-903; to be circumain bulated if one meets them on one's way, 709; to be erected in the contro of the capital, 710; two ways of osta blishment of images in, 897; trees to be planted round,895;worshippers (prujaris) in temples of different gode are different, 722. , Tengalaia, sect of the followers of 
+dbāvana. Telang, Mr. Justice, on coronation . of Shivaji, 379a. Temples, adıninistration of temples and mathas in ancient timor, 910net 913; could be enterod by Antyajas According to Smityarthesāra, 176 ; dancing girls attached to, 903–904; existed long before 6th century B, C., 710; king's duty to pupish porsons interfering with temple property, 911; kings appointed officer called Devatadhyaksa, 912; mentioned by Laugākṣi-gruya, Gau tama, Ap.Db.S. and other sutras, 709; of god Brahma raro, 724 ; præṇa pratiṣth& of images in, a later element, 900; procedure of esta blisbing images in, 897-899 ; pro cedure of consecrating image of Viṣṇu, accordiog to VaikbTossa, 901-903; to be circumain bulated if one meets them on one's way, 709; to be erected in the contro of the capital, 710; two ways of osta blishment of images in, 897; trees to be planted round,895;worshippers (prujaris) in temples of different gode are different, 722. , Tengalaia, sect of the followers of 
 
 Rimāquja, 593. Thomas, Dr. E. J., 711n. Thomson, Mr. Edward, 624, 635n. Tilak, 'Orion' by, 2870, 829n; 'Arctio 
 
@@ -4203,7 +4203,7 @@ in the Rgveda and other Vodio toxts, 4-5; conduces to the great
 
 est good, 10. Tula puruṣa (weighing against gold or silver ): frequently mentioned in opigraphio records, 870 ; kings and ministers indulged in this, 
 
-872; procedure of, 871-872. Tulasi: clay at root of, used for making mark on forehead after bath, 673; leaves of, to be offered to Viṣnu, 732 ; plant sapposed to 
+872; procedure of, 871-872. Tulasi: clay at root of, used for making mark on forehead after bath, 673; leaves of, to be offered to Viṣṇu, 732 ; plant sapposed to 
 
 be favourite of Vippu, 731. Tubnav&ya, a oaste, 83. Turayana, an iṣti, 919a, 1107. Turiyalita, & class of gamnyasin, 942. Tura, Klvasoya, received doctrine 
 
@@ -4553,11 +4553,11 @@ appeared, 14, 14n. Vintyaka (500 under Gaṇośa ): Ambika, mother of, 214; ment
 
 puadra mark made on twolve parts of body after taking twelvo pamos of, 673, 
 
-| Vimabali, & sathskara, 196, 226-227. Visnudharmasūtra, 9, 11, 16, 62n, 63. 
+| Vimabali, & sathskara, 196, 226-227. Viṣṇudharmasūtra, 9, 11, 16, 62n, 63. 
 
 56, 58, 67, 75, 219, 247n, 293a, &c. is the first sūtra to recommond 
 
-self-immolation to widows, 626. Viṣnudbarmottara, 1120, 2660, 713, 
+self-immolation to widows, 626. Viṣṇudbarmottara, 1120, 2660, 713, 
 
 716, 725, 842, 868. Viṣğukramas, 1083, 1218. | Vigau-purdna, 60, 9n, 17, 93, 158n, 
 

@@ -47,7 +47,7 @@ Manu IV. 212 requires a brāhmana to desist from parta king of food of various c
 
 rājan'. The Srāddhakalpataru on p. 46 mentions Manjari kāra' and on p. 259 Smrtimanjarīkāra'. The same work is meant in both places. The Srāddhakānda (Kalpataru ) pp. 46-47 ) quotes a long passage from the Vāyupurāna stating that some kind of edible grains, vegetables, and other articles should be offered in Srāddha. One of these is Kāleya, which is explained by Govindarāja. On Manu III. 285, Govinda rāja's gloss is not accepted by Kullūka, while on Manu II]. 178 Kullūka agrees with both Medhātithi and Govindarāja. 
 
-Raghunandana in Dāyatattva (vol. II, p. 191 ) quotes a verse of Visṇu cited by Govindarāja. 
+Raghunandana in Dāyatattva (vol. II, p. 191 ) quotes a verse of Viṣṇu cited by Govindarāja. 
 
 The Dāyabhāga of Jimūtavāhana (XI ) quotes Govinda rāja as holding on the strength of a verse of Visuus97a that a daughter's son succeeded to the estate of a deceased person even before the married daughter of the deceased. Iu the printed com. of Govindarāja, there is no comment of his after Manu IX. 72. But it appears that Jimātavāhana had before him the com. of Govindarāja on the verses after IX. 72 (at least on what are Manu IX. 131-136 ). Govindarāja is men tioned in the Kalaviveka (p. 304 ) and Vyavahāramātrkā (p. 342 ) also. 
 

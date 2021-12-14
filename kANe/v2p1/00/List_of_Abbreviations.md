@@ -55,7 +55,7 @@ Opfer und Zauber'. Sam. K. = Samskara-kaustubha of Anantadeva. Sam. P. or Pr. = 
 
 = Samskāra-ratna-māla of Gopinātha. or S. R. M. J e bainskara-ratna-ma Sān. gr. = SanchyAyana-grhy8-8@tra. Sat. Br, = Śatapatha Brāhmaṇa. S, B. E. = Sacred Books of the East (ed. by Prof. 
 
-Max Müller ). Sch. C. 0. = Scheduled castes Order of 1936. Sm. C. = Smsti-candrikā. Sm, M. or Smr. M. = Smrtimuktāphala of Vaidyanātha. Śr. P. N. Srautapadārthanir vacana, 8. V. = Sāmaveda. Tai. Ār. = Taittirlya Aranyaka. Tai. Br. = Taittiriya Brāhmaṇa, Tai. S. or Saṁ. = Taittiriya Sambitā. Tr. = Translation or translated ( according to context). Up. =: Upaniṣad. Vaj. S. = Vājasaneya Samhita. Vaik, or Vaikhānasa = Vaikhānasa-smārta-sūtra. Vas, or Vas. Dh. 8. = Vasiṣtha-dharmasūtra. Viṣnu. Dh. S. = Viṣnu-dharma-sūtra. V.3. = Vedanta-sūtra. Yāj. = Yajñavalkyasmrti. Yati. Dh. S. or Yati-db. 
+Max Müller ). Sch. C. 0. = Scheduled castes Order of 1936. Sm. C. = Smsti-candrikā. Sm, M. or Smr. M. = Smrtimuktāphala of Vaidyanātha. Śr. P. N. Srautapadārthanir vacana, 8. V. = Sāmaveda. Tai. Ār. = Taittirlya Aranyaka. Tai. Br. = Taittiriya Brāhmaṇa, Tai. S. or Saṁ. = Taittiriya Sambitā. Tr. = Translation or translated ( according to context). Up. =: Upaniṣad. Vaj. S. = Vājasaneya Samhita. Vaik, or Vaikhānasa = Vaikhānasa-smārta-sūtra. Vas, or Vas. Dh. 8. = Vasiṣtha-dharmasūtra. Viṣṇu. Dh. S. = Viṣṇu-dharma-sūtra. V.3. = Vedanta-sūtra. Yāj. = Yajñavalkyasmrti. Yati. Dh. S. or Yati-db. 
 
 * Yatidbarma-samgraba. 
 

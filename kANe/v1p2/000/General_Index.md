@@ -199,7 +199,7 @@ southerner, p. 29; contents of, pp. 23, p. 78712.
 
 56ff.; age of, pp. 70, 73 ff.; bhāsya 
 
-kūra of, p. 89; Haradatta's com. Aotyajas, Viṣnucharnagūtra prohi 
+kūra of, p. 89; Haradatta's com. Aotyajas, Viṣṇucharnagūtra prohi 
 
 Cjjvalā on, pp. 89, 742; conflict bits speuch with, p. 121 ; oven, between views of, and of Baudbā. Pp. 262, 508 ; no prayilīcitta for 
 
@@ -251,7 +251,7 @@ some sūtras in, identical with yaprakasa, p. 961.
 
 those of Ap. Dh. S., p. 55; compo A parārka, or Aparāditya, pp. 34, 66, sed by the author of dharmasūtra, 
 
-90, 105, 131, 133, 328, 410, 187, 492, p. 56; extremely brief as com 713–723; quotes Visnu most pared with Asv. Gr. and Gobhila profusely, pp. 120, 272 ; quote grliya, p. Jt. Parāsara and Viṣeucharmott:l'it 
+90, 105, 131, 133, 328, 410, 187, 492, p. 56; extremely brief as com 713–723; quotes Viṣṇu most pared with Asv. Gr. and Gobhila profusely, pp. 120, 272 ; quote grliya, p. Jt. Parāsara and Viṣeucharmott:l'it 
 
 A pastamla-kilpa, divisions of, p. 53. frequently, p. 464; criticizes Mitā. ksarā, pp. 719–1 ; quoted and A pastanıltsrautii-sūtra, p.71; author refuted by Smiticandrikā, p. 721; } whip uf, 1). 54. 
 
@@ -437,7 +437,7 @@ of, borrowed by Yāj. Smrti, pp.
 
 450, 451; rerses of, borrowed by Basu, Shri G. C., p. 811. 
 
-Viṣnudharmasūtra, p. 117; largely Bathing, in rivers, disallowed in the 
+Viṣṇudharmasūtra, p. 117; largely Bathing, in rivers, disallowed in the 
 
 quoted in Jīvarmuktiviveka, p.788; months of Srāvana and Bhadra- referred to liy Haradatta, p. 749. pada, p. 5:22; on touching certain 
 
@@ -599,7 +599,7 @@ p. 644,
 
 Bhavisyatpurāṇa, pp. 345., 63, 414; | Bhuvaneśvara, temple of Ananta at, 
 
-speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāna, pp. 723, 747, Bindumādbava, form of Viṣnu, wor 
+speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāna, pp. 723, 747, Bindumādbava, form of Viṣṇu, wor 
 
 805. 
 
@@ -643,7 +643,7 @@ Brāhmana, avocations allowed to, pp. 347, 580; numerous works
 
 p. 33; allowed by Vasiṣtha and ascribed to, p. 585; wrote on 
 
-Viṣnudbarmasūtra to marry a girl grammar, medicine and yoga, 
+Viṣṇudbarmasūtra to marry a girl grammar, medicine and yoga, 
 
 of any of the four varnas, pp. 126, p. 586; author of Rājamārtanda 
 
@@ -733,7 +733,7 @@ Brother's son, includes grandson for
 
 inheritance, according to Nanda. Brbad-Vasiṣtha, p. 112. 
 
-pandita, p. 920. Bșhad-Viṣnu, pp. 126, 717. Brhad-Yājñavalkya, p. 448. 
+pandita, p. 920. Bșhad-Viṣṇu, pp. 126, 717. Brhad-Yājñavalkya, p. 448. 
 
 Buckland, C. E., compiled 'Diction 
 
@@ -1221,7 +1221,7 @@ Gādhivarsānucarita, of Saṅkara. Eggeling, pp. 9267., 959.
 
 i bhatta, p. 903n. Eggers, Dr., p. 269. 
 
-Gadya-Viṣnu, p. 127. Eka, a writer named by Āpastamba, Gadya-Vyāsa, p. 533. 
+Gadya-Viṣṇu, p. 127. Eka, a writer named by Āpastamba, Gadya-Vyāsa, p. 533. 
 
 pp. 13, 61, 273, 302. 
 
@@ -1449,7 +1449,7 @@ Heliodorus, Yona ambassador from Harihara, king of Vijayanagara, p.
 
 the Greek king Antalikita, p. 355. 786. 
 
-Hells, p. 828; twentyone, in Viṣnu 
+Hells, p. 828; twentyone, in Viṣṇu 
 
 and Yāj., p. 121. Hariharabhattācārya, father of Raghu 
 
@@ -1707,7 +1707,7 @@ rakṣita's Tattvasangraha, p. 309n. com. on, p. 652. Kamandaka, pp. 144, 145; a
 
 p. 196; named in Mahābhārata, p. 
 
-yana, pp. 502-505, 775; contents 210; looked upon Viṣnugupta as 
+yana, pp. 502-505, 775; contents 210; looked upon Viṣṇugupta as 
 
 of, p. 503; quoted by Mitramiśra, his guru, p. 164; named in Raja nitiratnākara, p. 770. 
 
@@ -1777,7 +1777,7 @@ Kāphakadharmasūtra, p. 103. āśramas ascribed to, p. 45; name
 
 Kāṭhakagrhya, pp. 18, 113; and of Vāsudeva, p. 115. 
 
-Viṣnudharmasūtra, pp. 122–23, Kapilendra, founder of Gajapati 
+Viṣṇudharmasūtra, pp. 122–23, Kapilendra, founder of Gajapati 
 
 125; synonyms of, and commenta dynasty, p. 869. 
 
@@ -1893,7 +1893,7 @@ Konkan, ruled over by Silāhāras, p. Nānārthārpavasanksepa, p. 254,
 
 721; king Aparāditya of, sent Keśava-vaijayanti, of Nandapandita, 
 
-embassy to Kashmir, p. 722; com. on Viṣnudharmasūtra, p. 919. 
+embassy to Kashmir, p. 722; com. on Viṣṇudharmasūtra, p. 919. 
 
 capital of, p. 791. Khan ladeva, author of Bhāttadipikā, 
 
@@ -2027,7 +2027,7 @@ Likhita, mentioned by Kātyayana, Laghu-Nārada, p. 483.
 
 p. 216; story of, and his brother Laghu-Saṅkha, p. 138. 
 
-Saṅkha in Mahābhārata, pp. 136 Laghu-Viṣnu, pp. 126, 127; quoted by 
+Saṅkha in Mahābhārata, pp. 136 Laghu-Viṣṇu, pp. 126, 127; quoted by 
 
 37. Aparārka, p. 717. 
 
@@ -2565,7 +2565,7 @@ Pārini, pp. 76, 77, 189, 200; men Padmapurāṇa, pp. 103, 126, 404, tions ten 
 
 salāturiya, p. 167. 
 
-Pañjīkākāramiśra, p. 701n. Padya-Viṣnu, often quoted in Parā. 
+Pañjīkākāramiśra, p. 701n. Padya-Viṣṇu, often quoted in Parā. 
 
 sara-Madhaviya, p. 127. 
 
@@ -3047,7 +3047,7 @@ p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Saṅkara
 
 Nilakangha, p. 938. Sarkarācārya, pp. 43, 65, 115, 118, 
 
-145, 443; calls Manusmṛti Māna vam, PP. 145, 327; quotes Apa stambadharmasītra, p. 65; quotes Gautamadharmasūtra, p. 35; quotes Vasisha, p. 97; quotes Manu smṣti frequently, pp. 118, 327; com. of, on Viṣnuṣahasranāma, p. 
+145, 443; calls Manusmṛti Māna vam, PP. 145, 327; quotes Apa stambadharmasītra, p. 65; quotes Gautamadharmasūtra, p. 35; quotes Vasisha, p. 97; quotes Manu smṣti frequently, pp. 118, 327; com. of, on Viṣṇuṣahasranāma, p. 
 
 379; pupils of, pp. 562-63. Saṅkaragitā, p 701n. Sarkha-Likhita, dharmasūtra of, pp. 
 
@@ -3091,7 +3091,7 @@ Sarkar, D. G., p. 967. Sanskst, official language, according Sarkar, Golapchandr
 
 to Kautilya, p. 210. 
 
-Sarkar, H. B., p. 398. Santapana, defined by Visṇudharma. 
+Sarkar, H. B., p. 398. Santapana, defined by Viṣṇudharma. 
 
 Sarkar, Prof. Jadunath, p. 897n. sūtra, p. 125. 
 
@@ -3245,7 +3245,7 @@ Smytisāra, pp. 571, 572, 596, 623, 271, 273, 295, 468, 470, 487n.,
 
 775-777, 841n.; quoted by Mitra 591, 621, 737-741, 822; quotes 
 
-miśra, p. 945. 20 verses from Vrddha-V'asistha, Sniśtisindhu, of Nandapandita, p. 916. p. 112; quotes Visnu about 
+miśra, p. 945. 20 verses from Vrddha-V'asistha, Sniśtisindhu, of Nandapandita, p. 916. p. 112; quotes Viṣṇu about 
 
 Smṭlitattva, digest of Raghunandana, 225 times, p. 120; quotes about 
 
@@ -3745,7 +3745,7 @@ p. 405. Vānaprastha, varieties of, p. 258. Vanāyu, p. 219. Vandyaghaṭiya, p.
 
 rata, p. 381. Varadarāja, pp. 815-823. Varāhamibira, pp.170, 445, 700, 7321., 
 
-911; knew week days, p. 126; mentioned Srāddhasa ukhya, p. 910n.; author of Yogayātrā, p. 181, 260; author of Bṛbatsambitā, p. 614; mentions Viṣnugupta in 
+911; knew week days, p. 126; mentioned Srāddhasa ukhya, p. 910n.; author of Yogayātrā, p. 181, 260; author of Bṛbatsambitā, p. 614; mentions Viṣṇugupta in 
 
 bis Bșhajjātaka, p. 181. Vararuci, p. 77. Vardbamāna, author of Dandaviveka 
 
@@ -3823,7 +3823,7 @@ author of A fiucada-akit, pp. 613, 614; view of, criticized by Prataja rulra, p.
 
 
 
-Vikhanas, sūtra of, pp. 103, 277. Viṣnudharmastītra, pp. 112-127; Vikramārka or Vikramadityalleva of content of, pl. 113–15; resembles 
+Vikhanas, sūtra of, pp. 103, 277. Viṣṇudharmastītra, pp. 112-127; Vikramārka or Vikramadityalleva of content of, pl. 113–15; resembles 
 
 Kalyāṇa, pp. 607, 608, 609. 
 
@@ -3843,15 +3843,15 @@ of Krṣmayajurveda, pp. 122–25; Vināyaka, worship of, found in borrows from 
 
 Mānaragrhya and Bandhāyanil, pp. 118, 121.-22; char:cter of, p. 118; 53, 440; and Manusmrti, p. 410; relation of, to Manusiarti, pp. 112, found in Yāj., pp. 431, 4399-10; 116-17; stlye of, p. 115; verses in consecration of, in Porta-Kamalca later additions, pp. 119–20. kara, p. 928. 
 
-Visnudharmottara, frequently quoted Vindhyavāsali), pp. 577, 73211. by Aparārka, p. 464, Viranitrodaya, pp. 89, 140, 14116., Viṣnugupta, an astrologer, p. 873. 
+Viṣṇudharmottara, frequently quoted Vindhyavāsali), pp. 577, 73211. by Aparārka, p. 464, Viranitrodaya, pp. 89, 140, 14116., Viṣṇugupta, an astrologer, p. 873. 
 
 484, 489n., 710, 941--953; quoted 
 
-Viṣnugupta, ville under Kiutilya, by Smrticandrikā, p. 741; unique 
+Viṣṇugupta, ville under Kiutilya, by Smrticandrikā, p. 741; unique 
 
 pp. 164, 165, 166, 167, 171, 7321., in size, range and quality, p. 697; embraces all branches of Dharma 
 
-quoted by Vardhamāna, p. 859. $āstra in its sections called | Viṣnupurāda, pp. 193, 2399,, 421, prakāśas, pp. 941, 942. 
+quoted by Vardhamāna, p. 859. $āstra in its sections called | Viṣṇupurāda, pp. 193, 2399,, 421, prakāśas, pp. 941, 942. 
 
 600, 601, 677, 739n.; speaks of 
 
@@ -3863,11 +3863,11 @@ Manuṣ acc. to, p. 317; extent of, father of Jujhāra, pp. 946-47;
 
 p. 415. killed Abul Fazal, the frined of Akbar, p. 947; ruled at Orçoba, 
 
-Viṣnurahasyapurāna, p. 732, p. 948. 
+Viṣṇurahasyapurāna, p. 732, p. 948. 
 
-Viṣnusamuccaya, p. 7949, Vīrasimhadevacarita, p. 917. 
+Viṣṇusamuccaya, p. 7949, Vīrasimhadevacarita, p. 917. 
 
-Viṣnusyāmin, p. 576. 
+Viṣṇusyāmin, p. 576. 
 
 Viśvādırsa, pp. 614, 738. Vireśvara, son of Devāditya and father of candeśvara, pp. 773,771n. 
 
@@ -3901,7 +3901,7 @@ of, before Rāmānuja, pp. 566–67.
 
 Viśvarūpa, pp. 9, 31, 47, 64, 65, 104, 
 
-105, 13211., 140, 145, 263, 274, 421, Viṣnu, twelve names of, p. 53; one 
+105, 13211., 140, 145, 263, 274, 421, Viṣṇu, twelve names of, p. 53; one 
 
 488, 553-565, 602; flourished about hundred namas of, p. 121. 
 
@@ -3945,7 +3945,7 @@ Vrddhātregasmrti, p. 263. Vitthala-rāmantrabhāṣya, of Kāśi.
 
 Vrddba-Vasiștha, pp. 111-12, 305. nātha, pp. 790, 961n., 977. Vivādabhangārṇava, p. xlv. 
 
-Vrddha--Viṣnu, pp. 126, 305. 
+Vrddha--Viṣṇu, pp. 126, 305. 
 
 Vivādacandra, of Misarumiśra, pp. 
 
@@ -4077,7 +4077,7 @@ General Index
 
 P. 945, 
 
-Hārīta, p. 132; claims of, to borrowed by Viṣnudharmasūtra; guccession not favoured by p 118; date of, pp. 442-48; A pastamba and Saṅkha, p. 140; Mitramiśra's commentary on, bought, are not patnīs, p. 274; wealth of, should not be appro- Yājñavalkya Brāhmana, reviling of, priated by king, p. 285; presidiog | if called biodern, p. 745. deities of house, p. 286; pass on 
+Hārīta, p. 132; claims of, to borrowed by Viṣṇudharmasūtra; guccession not favoured by p 118; date of, pp. 442-48; A pastamba and Saṅkha, p. 140; Mitramiśra's commentary on, bought, are not patnīs, p. 274; wealth of, should not be appro- Yājñavalkya Brāhmana, reviling of, priated by king, p. 285; presidiog | if called biodern, p. 745. deities of house, p. 286; pass on 
 
 Yajurveda, Black, six srautasūtras marriage into husband's gotra, p. 
 

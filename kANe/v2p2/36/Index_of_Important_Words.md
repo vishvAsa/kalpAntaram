@@ -79,6 +79,6 @@ Upanayana, 268 Upapraiga, 1121 Upara, 1111, 11570 Uparava, 11540 Upasad, 1151 Up
 
 Viṇuva, 395-396 Vityarupa, 962 Vivāba, 427 Vrata, 67, 68 Vratasnataka, 407 Vrātya, 60, 96, 978 Vyābfti, 3010 Vyama, 1115 Vyatipāta, 8520 
 
-Veśabbagiaa, 1079n Vidbrti, 1045 Vidyāsnātaka, 407 Vidya-vrata-spataka, 407 Vighasa, 755 Vibāra, 984 Vijāmāts, 504 Vikesin, 587-588 Vikfti, 1009 Vimita, 1135 Vimukba, 8850 Vinasat, 14 Viprud-dboma, 11660 Viraban, 6850 Virapkin, 10370 Virāsana, 937 Viruddhasambandha, 469 Vis, 32 Viṣnukrama, 1083n Vistara, 5430 Vistuti, 1182 
+Veśabbagiaa, 1079n Vidbrti, 1045 Vidyāsnātaka, 407 Vidya-vrata-spataka, 407 Vighasa, 755 Vibāra, 984 Vijāmāts, 504 Vikesin, 587-588 Vikfti, 1009 Vimita, 1135 Vimukba, 8850 Vinasat, 14 Viprud-dboma, 11660 Viraban, 6850 Virapkin, 10370 Virāsana, 937 Viruddhasambandha, 469 Vis, 32 Viṣṇukrama, 1083n Vistara, 5430 Vistuti, 1182 
 
 Ynjñopavita, 287n Yajuḥparitra, 728 Yama, 1172 Yaśobbaginā, 10790 Yayavara, 641n, 642 Yogaksema, 914-915 Yogapatta,962 Yoktra, 10400 Yoni, 1184 Yugādi (tithis ), 395 Yupāraṭiya, 1152 

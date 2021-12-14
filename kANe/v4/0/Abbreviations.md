@@ -149,7 +149,7 @@ Abbreviations
 
 vii 
 
-Visnu Dh. or Visnu Dh. S. - तीर्थकल्प.- कल्पतरु on तीर्थ (G.O.s.) 
+Viṣṇu Dh. or Viṣṇu Dh. S. - तीर्थकल्प.- कल्पतरु on तीर्थ (G.O.s.) 
 
 Vysnudharmasutra 
 

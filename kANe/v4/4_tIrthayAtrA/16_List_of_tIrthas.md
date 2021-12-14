@@ -31,9 +31,9 @@ I have made endeavours to locate the tirthas as far as possible. Inscriptions ha
 
 History of Dharmātāstra 
 
-I Vol. A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Visnupurāna (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan doyapurāva, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud buri's “Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I.A. TO). 54. I have consulted only a few Mābātuyas of tirthas, Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāṇa Index' (volumes I and II covering over 1400 pages) which collects material from five Purāṇas only viz. the Bhagavata, Brahmānda, Matsya, Vāyu and Vispu . The two volumes reach up to the Sanskrit letter 'ma' only. 1, 'for my part, do not agree with much that he says about the age of the Porānas in general and of the five Puranas (which he has digested) in particular, but this is not the place to go into that question Besides, his work has to be used with some caution, In several places the work is misleading. To take only a few examples. On p. 547 he lists 'Godhūma', makes the remark 
+I Vol. A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Viṣṇupurāna (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan doyapurāva, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud buri's “Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I.A. TO). 54. I have consulted only a few Mābātuyas of tirthas, Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāṇa Index' (volumes I and II covering over 1400 pages) which collects material from five Purāṇas only viz. the Bhagavata, Brahmānda, Matsya, Vāyu and Vispu . The two volumes reach up to the Sanskrit letter 'ma' only. 1, 'for my part, do not agree with much that he says about the age of the Porānas in general and of the five Puranas (which he has digested) in particular, but this is not the place to go into that question Besides, his work has to be used with some caution, In several places the work is misleading. To take only a few examples. On p. 547 he lists 'Godhūma', makes the remark 
 
-fit for sraddha' and cites four references from the Visnuputada alone. One may prima face think that Godhūma is here some place fit for srāddha. As a matter of fact in all the references from the Vispupurāna "Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha But other fit things such as 'iksu' (declared to be fit for sraddha by' Vāya 78. 7-8) are not inoluded at all. On p 123 Aśokavana is not a proper name, but only a forest of Asoka trees, as the preceding 
+fit for sraddha' and cites four references from the Viṣṇuputada alone. One may prima face think that Godhūma is here some place fit for srāddha. As a matter of fact in all the references from the Vispupurāna "Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha But other fit things such as 'iksu' (declared to be fit for sraddha by' Vāya 78. 7-8) are not inoluded at all. On p 123 Aśokavana is not a proper name, but only a forest of Asoka trees, as the preceding 
 
 So also Karaala word 'drāksavana' (in Vāyu 38 68) indicates prabhava (not "prabhava' as printed on'p. 316 of vol. I) is not a river (in Matsya 163. 62, Ānandāśrama ed) but is only an adjective of the word Sopa that follows. On p. 316 of vol. II be states that the river Parā rises from Rsyayan, but the Matsya 114.24 on which he relies says it springs from Pariyabra, Oa 
 
@@ -51,7 +51,7 @@ information furnished is very meagre. If the whole'had been * printed in a compa
 
 been given in the same number of pages. 
 
-In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The purānas promise one or Inore of the following rewards viz the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or teaching the highest worlds such as those of Brahma, Visnu or Siva, the destruction of the gravest sins such as brāhmana murder, the same merit as arises frono gifts of a thousand cows &c. 
+In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The purānas promise one or Inore of the following rewards viz the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or teaching the highest worlds such as those of Brahma, Viṣṇu or Siva, the destruction of the gravest sins such as brāhmana murder, the same merit as arises frono gifts of a thousand cows &c. 
 
 Many of the doubts and difficulties about the identification of several tirthas can, if at all, be solved only by means of actual journeys to various places and investigations on the spot. That is a task which would require for its proper accom 
 
@@ -147,13 +147,13 @@ Abbrevrations
 
 729 
 
-Va Vāyaparana Vām.-Vimanapurana. Var Varahapurna. VD --Visuudharmottara-purāna V. Dh, S.-Visnudharma-sūtra 
+Va Vāyaparana Vām.-Vimanapurana. Var Varahapurna. VD --Visuudharmottara-purāna V. Dh, S.-Viṣṇudharma-sūtra 
 
 by Jolly). 
 
 Vi --Visnapurāna Vik - Vikramžika-deva-carta of 
 
-Bulhana (ed. by Bühler) V. S.--Vārānasi, Wilson-Translation of Visnupurana, 
+Bulhana (ed. by Bühler) V. S.--Vārānasi, Wilson-Translation of Viṣṇupurana, 
 
 edited by Dr. Hall (1864-1877) 
 
@@ -269,7 +269,7 @@ supposed to lie on its leaf at the end 126 63
 
 of the kalba) Ahah-V, 83, 100 
 
-Alsayyavata--A 10 Gayā, aboat balf & Abalyābrada-(near Gautama's āśrama) mile from Visnupada) V. 84 83. 
+Alsayyavata--A 10 Gayā, aboat balf & Abalyābrada-(near Gautama's āśrama) mile from Viṣṇupada) V. 84 83. 
 
 V 84 109, P I 38 26 
 
@@ -315,7 +315,7 @@ Dātha and plates CXIII-CSV for confluences of the Alakanaadā with
 
 the front of the grcat temple and 
 
-portions of tbc wall and pillars of other rivers viz. with Bhagirathi the porch and of the Hall This is (Devaprayaga ), Nandaprayāga, probably the sameas.Iranduja Nāga. Karnaprayaga (confluence with Pind. satba (Aundhs in Surses of India ar river), Rudraprayāga (continence maps) about 25 miles norib-east of with Mandākınī). Visṇuprayāga Vide Parabbani in the Hydarabad State. U. P, Gazetteer for Garhwal, vol, A'maresa. A fon Narmada) XI. 1862, 36 pp 2 and 140 
+portions of tbc wall and pillars of other rivers viz. with Bhagirathi the porch and of the Hall This is (Devaprayaga ), Nandaprayāga, probably the sameas.Iranduja Nāga. Karnaprayaga (confluence with Pind. satba (Aundhs in Surses of India ar river), Rudraprayāga (continence maps) about 25 miles norib-east of with Mandākınī). Viṣṇuprayāga Vide Parabbani in the Hydarabad State. U. P, Gazetteer for Garhwal, vol, A'maresa. A fon Narmada) XI. 1862, 36 pp 2 and 140 
 
 B (linga 1a VS) L. I 9237 Aleśvaram-see Brabmesvara 
 
@@ -1075,7 +1075,7 @@ yūpa there) Brabmasthāna-V 83, 71, 85.35, P I.
 
 by T. K. 88 Brabmatirtha-A (under Vs) K I, 35. 
 
-9, II. 37. 28, P. I 37. 9-12 (Visnu established it in the same of Brah. ma), B (under Gaya) P. I 38. 69, N II 45, 102, Ag, 115, 36, C (uo. der Go ) B. 113, 1 and 23, Br, III 
+9, II. 37. 28, P. I 37. 9-12 (Viṣṇu established it in the same of Brah. ma), B (under Gaya) P. I 38. 69, N II 45, 102, Ag, 115, 36, C (uo. der Go ) B. 113, 1 and 23, Br, III 
 
 13 56, D (on Sarasvati) Bh, X, 78 19 Brahmatuaga-Ag 109 12, P.I 24 28 Brahmatundabrada or Brabmatunga 
 
@@ -1809,7 +1809,7 @@ where srāddha leads to bighest goal) M. 22. 73; B (under Sābbramati) P.
 
 VI. 133, 24 Gandahim (rises 10 Himalaya and falls 
 
-ioto Ganges at Sonepur in Bibar), It is the Kosdocbates of Arrian (A. I. p. 188) Adı 170 20-21 (one of the seven great rivers Chat destroy sin), § 20. 27, V. 84. 13, V 222. 22 (Gandasāhvayā is probably the same as Gandaki). P. I. 38, 30, IV. 20.*12 (it has pebbles marked with cakra). The river is said to have sprong from the perspiration on Visnu's cbeek 1a Var 144-106, Br II. 16. 26. Vispu gave a boon to it that he would always remain inside her in the form of Salagrama stone (Var. 144.35-58) Gandaki. Devilā apd a r. from Pulastyaśrama make Triveni (Var 144. 84) It is known in Nepāla as 
+ioto Ganges at Sonepur in Bibar), It is the Kosdocbates of Arrian (A. I. p. 188) Adı 170 20-21 (one of the seven great rivers Chat destroy sin), § 20. 27, V. 84. 13, V 222. 22 (Gandasāhvayā is probably the same as Gandaki). P. I. 38, 30, IV. 20.*12 (it has pebbles marked with cakra). The river is said to have sprong from the perspiration on Viṣṇu's cbeek 1a Var 144-106, Br II. 16. 26. Vispu gave a boon to it that he would always remain inside her in the form of Salagrama stone (Var. 144.35-58) Gandaki. Devilā apd a r. from Pulastyaśrama make Triveni (Var 144. 84) It is known in Nepāla as 
 
 Salagrāmiaod 10 U P, as Nārāyani. Gandhavati-A (sacred r, aear Ekzm 
 
@@ -2275,7 +2275,7 @@ Gandali. Vide A.G P 453 Hidini-(1) Rām II 71 2 (Bharata
 
 coming from Kehaya country crossed 
 
-it first and tbeo Satadrū) Homatirtba--(under VS) K. I 35 11 Hysikeśam-(op the Ganges about 24 miles north of Harıdvāra) Var 146 63-64 (Visnu is deemed to stay there) 
+it first and tbeo Satadrū) Homatirtba--(under VS) K. I 35 11 Hysikeśam-(op the Ganges about 24 miles north of Harıdvāra) Var 146 63-64 (Viṣṇu is deemed to stay there) 
 
 identifications of bis cannot be taken seriously; B (f. falling into Narmada) 
 
@@ -2817,7 +2817,7 @@ S 31. 70, Vik 8 2 It is mentioned hantaho is called Kapıladhāra :D
 
 za lascriptions from about 200 B G. Shandapurana 
 
-Vide Cunpagbam's 'Bharhnt stūpa' Kāpıladvīpa-doadta is Visnu'sgulya 
+Vide Cunpagbam's 'Bharhnt stūpa' Kāpıladvīpa-doadta is Viṣṇu'sgulya 
 
 P 131 for a dovation of the gurid of name there) Nr 65 7 q. by TK 
 
@@ -2947,7 +2947,7 @@ seems to bave been Kaśmīra. The Mbb (vol II p. 119) on Pan III. 2 114 employs 
 
 History of Dharmaśööstra ' by the head waters of the Vitasta deity presiding over the sctcral boty and to the minor slopes of moun springs, pools and lakes 10 ubich taids that surround' it. Hrouen Kaśmira aboonds. Both NAI (1130 Thsang (Beal's BRWW vol 1. 31) and R (I 38 ) state that there p 148) states that 'Kaśmira kingdom is not & spot 10 Kaśmira even as is about 7000 24 (one la being equal small as a grain of sesamum which to about 5 miles). that as the is aot a tirtba and has not a naga country is protected by a dragon at as its presiding deity has always 
 
-In Aia A assumed superiority (vol II 354 ) Abul Tazł nolcs among neighbouring people, that that there were in his day 45 shrines they love learning and are well of Mabadeta, 64 of Visau. 3 of instructed and that (8. 149) the Brahma and 22 of Durgā and that country was once a dragon lake and 10 700 places there were gras en that afterwards it became dry' images of sales which were The words of Hiouen Thsang reser worshipped and about which to an ancient legend according to wonderful stories were told, R which Kashmir was originally a lake (I 72) and Na (313-314) say (called Satīsaras) 6 yojanas long and that the country of Kasmira is 3 yojanas wide and later became Parvati, that the krog thercol Satideśa (NM 64-66), toat Umā should be deemed to be a part of herself is the country of Kasmira śrva and that none wbo desires (NM 31), that the divine Vitasta prosperity should disobes (or disrc rising in the Himalayas is like the spect) the king R (I. 42) simanta (line parting the hair) of summarises in one verse the peculiar this holy land (NM 45) The features of Kaśmira viz learning, legend runs that Visnu conferred a lofty duelliogs, saffron, water boon on Vāsukı-Qhga who prayed to coutaining ice and grapes, flesc Visad when Garuda began to devour are common bere, although rarc in all nāgas that he should stay in the the three worlds Satidesa along with tbe other pāgas, Kaśyapapadam( under Gayā) Vā 109. that po enemy would bull any nāga 18, 111 49 and 58 (NM 105-107) and that Nila was made Kasvapatirtham A (called Kalasarpih) hog of nāgas in the Satidesa (NM 
+In Aia A assumed superiority (vol II 354 ) Abul Tazł nolcs among neighbouring people, that that there were in his day 45 shrines they love learning and are well of Mabadeta, 64 of Visau. 3 of instructed and that (8. 149) the Brahma and 22 of Durgā and that country was once a dragon lake and 10 700 places there were gras en that afterwards it became dry' images of sales which were The words of Hiouen Thsang reser worshipped and about which to an ancient legend according to wonderful stories were told, R which Kashmir was originally a lake (I 72) and Na (313-314) say (called Satīsaras) 6 yojanas long and that the country of Kasmira is 3 yojanas wide and later became Parvati, that the krog thercol Satideśa (NM 64-66), toat Umā should be deemed to be a part of herself is the country of Kasmira śrva and that none wbo desires (NM 31), that the divine Vitasta prosperity should disobes (or disrc rising in the Himalayas is like the spect) the king R (I. 42) simanta (line parting the hair) of summarises in one verse the peculiar this holy land (NM 45) The features of Kaśmira viz learning, legend runs that Viṣṇu conferred a lofty duelliogs, saffron, water boon on Vāsukı-Qhga who prayed to coutaining ice and grapes, flesc Visad when Garuda began to devour are common bere, although rarc in all nāgas that he should stay in the the three worlds Satidesa along with tbe other pāgas, Kaśyapapadam( under Gayā) Vā 109. that po enemy would bull any nāga 18, 111 49 and 58 (NM 105-107) and that Nila was made Kasvapatirtham A (called Kalasarpih) hog of nāgas in the Satidesa (NM 
 
 vā 77 87, Br. III 13 98, B (ander 
 
@@ -3473,7 +3473,7 @@ Bagaras), K. I 35, 14, P, I 37, 17
 
 Vide p. 634 above "Gupta Inscriptions' y 142 at p. 146 
 
-Lonārakuqda-(in Viṣnu-Gaya) P. VI. Laukıba-(under VS) K. I. 35, 13 
+Lonārakuqda-(in Viṣṇu-Gaya) P. VI. Laukıba-(under VS) K. I. 35, 13 
 
 176. 41. Lonār is a salt lake in the Lavana-I, Rowing close by the city Buldana District of Berar, the fabled 
 
@@ -4103,7 +4103,7 @@ practised sesere tapas licrc). It is Mrgakāmā-(1. from Mādasa lale) Br. no ot
 
 II 18 71 
 
-there is Visnupada, the cry centro Mṭgaśrogodaka--(op r Vāgmati) Var of Garāyātrā. On this hill, accord 
+there is Viṣṇupada, the cry centro Mṭgaśrogodaka--(op r Vāgmati) Var of Garāyātrā. On this hill, accord 
 
 215 64 
 
@@ -4351,7 +4351,7 @@ Bibat (Vitasta) and remarks (p Naubanddaqasaras-(on the border of
 
 363) 'Nilapāg, the basio of which Kāśmira and Panjab) NA 64-66, 
 
-measures 40 bigbas Its water is 165-166 (also called Visnupada and exquisitely clear and is considered Kramasāra, HC 4.27 
+measures 40 bigbas Its water is 165-166 (also called Viṣṇupada and exquisitely clear and is considered Kramasāra, HC 4.27 
 
 a sacred spot and many roluntarily Nepāla-(modern Nepal) Var 215 perish by are about its border' 
 
@@ -4443,7 +4443,7 @@ on the left bapk of the Narmada Nisadham (m) V.188. 112, Al. (vol. II
 
 dated 20 samvat 1120 (1063 A.D) p. 142) says that near the mountain 
 
-in E I. vol. 25p 173 it is said that Nisadha is the lake Visnupada 
+in E I. vol. 25p 173 it is said that Nisadha is the lake Viṣṇupada 
 
 Omlāra dwells in Māndbātrpura Whcace comes the river Sarasvati 
 
@@ -4697,7 +4697,7 @@ phalguvat). Va 111 16 says it Pavgpasya-hrada V, 83, 105 Pāvanim(1.) The Gbagga
 
 1$ superior to Cangā since the latter 
 
-is only water from the foot of Visnu hsetra (Ambala District) Rām. I. 
+is only water from the foot of Viṣṇu hsetra (Ambala District) Rām. I. 
 
 while the former 15 Adi-Gadadbara 43. 13. Vide Dey p. 155 
 
@@ -5059,7 +5059,7 @@ capital of Magadha) v 84 104, vā 105 73 (punyam Rājagrham vajam), Ag 109 20, ,
 
 13 (it is a Devistbana) Rājabbadga--(on Sabhramati) P VI 
 
-131. 116 and 134 Rājāvāsa-(Visnu shrine established by Parasurāma 10 Kasmira) NAI 
+131. 116 and 134 Rājāvāsa-(Viṣṇu shrine established by Parasurāma 10 Kasmira) NAI 
 
 1384, 1447 Rajesvara--(under Sriparvata) L 1. 
 
@@ -5095,7 +5095,7 @@ TK p 105 Rambheśvara-linga-(under Sarasvati)
 
 lungas, said to have been established by Rāma bimself) M. 22. 50, K II. 30. 23 (bath at R saves from sin of brahmahatyā), G I 81. 9. Vide TSp 47 which quotes passages from Vi, K, and Ag. It is situated on the island of Pambao It is one of the most veperated sbrics in the wbole of India Vide I G. I vol XXI pp 173-175 for a briet description of the great temple : B (under Sriparvata) L. I 92 149 
 
-(established by Visnu bimself). Ratness ara-liiga-(under VS) SK IV, 
+(established by Viṣṇu bimself). Ratness ara-liiga-(under VS) SK IV, 
 
 33 165 Raatuka-(one boundary of Kurok setra) Vām 22. 51 and 33, 2 Vide 
 
@@ -5225,7 +5225,7 @@ TK. P 54
 
 p62 Rsisattra-(ugder GO) B 173 1 Rukminilunda or Rubmibandam(un. Rsyamūka or Rśyamūke-(m) Rām der Gayā) va 108 57, Ag. 116 5 
 
-III 72 12, III 75 7 and 25 (on Rūpadhārā---(Viṣnu's form on Irāvati) the borders of lake Paupā), Bb V. Vām 90 5 19 16, V. 280 9, V 147 30 (on Rurukbanda--(ander sālagrāma) Var which Sugriva resided), 279 
+III 72 12, III 75 7 and 25 (on Rūpadhārā---(Viṣṇu's form on Irāvati) the borders of lake Paupā), Bb V. Vām 90 5 19 16, V. 280 9, V 147 30 (on Rurukbanda--(ander sālagrāma) Var which Sugriva resided), 279 
 
 145 105, chap 146 explains why it 44 (Dear Pampā lake) Vide 
 
@@ -5757,7 +5757,7 @@ P. I. 18 100, C (on the south bank Sastritirtha - (under Naranada 1. of GQ ) B 1
 
 191,6, K 11 12. 19, 1' 1.21 G Siddhilatam-ander VS) L . by T.K. senatitilin-(under Co.) B 115. I P. 88 batu-thic supposed bridge (called Sikuutīriba-luoder Narmada M. 193, 
 
-Adam'a fridge) hetween Nancśvara S2, P I. 20. 78 and Ceylon Sud to barcbeen built by Sulitirtha-[upder Gaya) Vā. 108. 2 kama with tāc asslatiace of Sugriva Silāksesvara-ander VS) L. 9 by T.K. and wis monkey bosis, Bh. VII. 14. p. 46 11, 5, 79. 15 (Samudrascia), G.L Simba-a Varnava-lsetra acc. to Bār $I. S. N. JI 76 (contatas setum S III 120. Probably the same as trilālmy ). Adam's Peak in Ccylon Simliachalam temple of Nrsimbi. 175 A famous fool-priat «bich is vatāra of Visnu about 6 miles north vencrated by }odus, Buddhists, west of Vizagapattam Vide I, G, Christians and Moslems alıbc Vida L. vol. XXII P 375 
+Adam'a fridge) hetween Nancśvara S2, P I. 20. 78 and Ceylon Sud to barcbeen built by Sulitirtha-[upder Gaya) Vā. 108. 2 kama with tāc asslatiace of Sugriva Silāksesvara-ander VS) L. 9 by T.K. and wis monkey bosis, Bh. VII. 14. p. 46 11, 5, 79. 15 (Samudrascia), G.L Simba-a Varnava-lsetra acc. to Bār $I. S. N. JI 76 (contatas setum S III 120. Probably the same as trilālmy ). Adam's Peak in Ccylon Simliachalam temple of Nrsimbi. 175 A famous fool-priat «bich is vatāra of Viṣṇu about 6 miles north vencrated by }odus, Buddhists, west of Vizagapattam Vide I, G, Christians and Moslems alıbc Vida L. vol. XXII P 375 
 
 T. P. pp. 557-560 (ar mahatmya Siadha_A (thc modern Indus, Greek Setubandha-same as abovc Vide T Sinthos) Rg. II 15. 6 (be made the 
 
@@ -5793,7 +5793,7 @@ P 252 Sindhusāgarasangama-V. 82 68, Vā
 
 1. 24. 16 (same verse as 10 V) Stadhūttama--(a lake) V. 82. 79 Siplā- ) Rg I 104 3 (19 which the , two wives of Kuyava met death) Siprā—-{r from Pāryātra, flowing past 
 
-Ujjayini) M. 22, 24, 114 24, Vā 45. 98 Every mile of the river is marked by sacred spots, the reputed baunts of rsis or the scenes of miraculous incidents, the river is said to have spruag from the blood of Visnu and is believed to flow with milk at cer tain periods Vide Ain A vol II 
+Ujjayini) M. 22, 24, 114 24, Vā 45. 98 Every mile of the river is marked by sacred spots, the reputed baunts of rsis or the scenes of miraculous incidents, the river is said to have spruag from the blood of Viṣṇu and is believed to flow with milk at cer tain periods Vide Ain A vol II 
 
 p 196 for this Sita & branch of Gaiga) vā 47, 2: 
 
@@ -5925,7 +5925,7 @@ M22 49 Sriparvata or Srisaila-A (bill situ
 
 ated in larpal District on the south side of the Krsnā river 50 miles from lırsnā station). There are numerous lingas here including the famous Mallikarjuda (10 L I 92 155), one of the twelve Jyotirlagas, many are Damed in L I, 92 147-166 Vide V 85, 18-20 (Mahadeva witb Umā is there), v5 77 28, M 13 31 (Des i is called Mādbavi he.e), ISI 28 (one of the eight main strastbioas), 188. 
 
-79 (one tripura of Banāsura burat by Rudra fell here), P I. 15 68-69 (same story as in M 188), Ago: 113 4 (Gauri, assuming the form of Lalṣmi practised penance here). Pargiter (p 290 a) does not correctly interpret Ag , K II 20 35 (śrāddba most efficacious here), II, 37 13-14 (religious suicide allowed bere), P. I 39 17, VI 20, 15 (a great place for yogins and those practising penance) It is a Saltalsetra acc. to Bār. S. III 124. The Mālati madhava mentions it several times Vide E I XX p 9, E I IV p. 193 (Chikkalla plate of Visnukandia Vikramendravarman ). In the Nāgārjunikogda Inscription F of about 3rd century A, D edited by Dr Vogel, Sriparvala is mentioned (E I, vol XX p 1 at p 23), B (a linga in VS) Ag 112 4, C (uader 
+79 (one tripura of Banāsura burat by Rudra fell here), P I. 15 68-69 (same story as in M 188), Ago: 113 4 (Gauri, assuming the form of Lalṣmi practised penance here). Pargiter (p 290 a) does not correctly interpret Ag , K II 20 35 (śrāddba most efficacious here), II, 37 13-14 (religious suicide allowed bere), P. I 39 17, VI 20, 15 (a great place for yogins and those practising penance) It is a Saltalsetra acc. to Bār. S. III 124. The Mālati madhava mentions it several times Vide E I XX p 9, E I IV p. 193 (Chikkalla plate of Viṣṇukandia Vikramendravarman ). In the Nāgārjunikogda Inscription F of about 3rd century A, D edited by Dr Vogel, Sriparvala is mentioned (E I, vol XX p 1 at p 23), B (a linga in VS) Ag 112 4, C (uader 
 
 Narmadā), Ag 113.3 Śrīpatitirtha--(srāddha bere leads to 
 
@@ -7099,13 +7099,13 @@ Last of tirthas
 
 823 
 
-M 191.99, K. II. 41 52 (it is Yodbi. puram Visnusthādav). PI18.94 (haown as Yodhaoipura), C (under GO) B 136 1 and 41 (also called Mapdgalya) Vispatirtbas- (108 epomerated) P. VI 
+M 191.99, K. II. 41 52 (it is Yodbi. puram Viṣṇusthādav). PI18.94 (haown as Yodhaoipura), C (under GO) B 136 1 and 41 (also called Mapdgalya) Vispatirtbas- (108 epomerated) P. VI 
 
 129 5-36 Visoka-( in Kāśmira) modern Vesaa NA. 307, 373, 381, 1493, HC XII 35 NM. 307 says that Laksmi at the request of sage Kaśyapa became Visobā, NM 381 says that it formed Vitastā below Vijabror, NN. 1491 1493 speak of the coofluence of haundini rising from lake Krama 
 
 sāra with Visoka Vistāotitūtba. A (the most sacred 
 
-spot 10 Matbur) Var. 163. 162, 167 1 ff, P VI 209 5 (on the bank of Yamuna, where Kamsa was killed by Krsna), B (a different Isetra from the above 10 Madhuvana, where Viṣnu assumed the form of Varāba) 
+spot 10 Matbur) Var. 163. 162, 167 1 ff, P VI 209 5 (on the bank of Yamuna, where Kamsa was killed by Krsna), B (a different Isetra from the above 10 Madhuvana, where Viṣṇu assumed the form of Varāba) 
 
 P. VI, 209, 1-3 and 5 Viśvām (1) Bb V. 19. 18 Viśvalarmeśvara-(onder VS) L 9, by 
 

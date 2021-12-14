@@ -35,7 +35,7 @@ H, DI
 
 
 
-100 A. D-300 A D-Yājāavalkyasmrti 100 A. D.-300 A. D.-Visnudharmasutra 100 A. D.-400 A, D--Naradasmrti 200 A D-400 A,D-Sabara's bhāsya on Jaimin's Pūrva-mīmāmsā. 
+100 A. D-300 A D-Yājāavalkyasmrti 100 A. D.-300 A. D.-Viṣṇudharmasutra 100 A. D.-400 A, D--Naradasmrti 200 A D-400 A,D-Sabara's bhāsya on Jaimin's Pūrva-mīmāmsā. 
 
 sūtra (rather nearer the former date) 300 A. D.-500 A. D-Brbaspati-smrtı on Vyavabāra and other 
 
@@ -43,7 +43,7 @@ topics (not yet found) Extracts on Vyavabāra were trans lated in S B E. vol 33 
 
 Gaikwad Oriental series 300 A D.-600 A. D—Some of the extant Purāṇas such as Vāyu, 
 
-Visnu, Mārkandeya, Matsya, Kūrma 500 AD-550 A D-Varāhamıbıra, author of Panca-siddhāntikā, 
+Viṣṇu, Mārkandeya, Matsya, Kūrma 500 AD-550 A D-Varāhamıbıra, author of Panca-siddhāntikā, 
 
 Brhatsamhitā, Brhat-Jātaka and other works 600 A D.-650 A. D.---Bāna, author of the Kādambarī and Harsa 
 
@@ -129,7 +129,7 @@ and divided into Saukhyas op Suddhi, Śrāddba, Tīrtha, Prāya
 
 Ścitta, Karmavipāka and about 15 more topics 1590-1630 AD--Nandapandita, author of several works such as 
 
-Vaijayanti (com. on Visnudharmasūtra), Sraddba-kalpalatā, 
+Vaijayanti (com. on Viṣṇudharmasūtra), Sraddba-kalpalatā, 
 
 Suddhicandrikā, Dattakamīmāmsā 1610-1640--Kamalakarabhatta, author of Nirnayasındhu and over 
 

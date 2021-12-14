@@ -89,7 +89,7 @@ trouble and effort.466
 
 Dāna (charity and gifts) came to be regarded as conferring the highest rewards in the Mapusmrti ( 1.86 'tapah param... dānamekam kalau yuge'), in Santiparva, Vāyupurāṇa (6.65 66), Parāśarasmști (1. 23). The gifts of food ( and particu larly to brāhmaṇas ) were regarded as highest. When the invasions by foreigo hordes were frequent and when rulers of different kingdoms in India itself engaged in constant warfare this idea was good enough 
 
-Even the Rgveda (X. 117. 6 ) condemns one, wbo offers no food to Aryarnan (and other gods ) nor to a friend (guest etc.) and feeds himself alone, eating only sin. The same idea (almost in the same words ) occurs in Manu III. 18, Visnusmrti 67. 43 (aguam sa kevalam-bhunkte yah pacutyatmakārunāt) and the Bhagavad-gitā (III. 13 ). But the Purūnas carried this idea to extreme limits. Manu prescribed that in rites in honour of gods and pitrs, even a single learned brāhmana may be fed to secure the full reward of the rite, but not many brāhinnnas who do not know the mantri18. Again, in 111. 149 Manu says that in rites for gods no close examination about a brāhmana should be indulged in, but that in rites for ances tors effort should be made to ascertain that the family and character of the brahmanas are both good. But gradually this idea was given up, particularly at Sraddhas in Gayā. For example, the Vāyupurāna states that the brāhmaṇas of Gaya are supermen, that when they are gratitied (at a Srāddba) the gods together with the pitṛs become gratified, that no question should be raised about their fainily, their character, learning or tupas and that by honouring them a man attaine liberation. 
+Even the Rgveda (X. 117. 6 ) condemns one, wbo offers no food to Aryarnan (and other gods ) nor to a friend (guest etc.) and feeds himself alone, eating only sin. The same idea (almost in the same words ) occurs in Manu III. 18, Viṣṇusmrti 67. 43 (aguam sa kevalam-bhunkte yah pacutyatmakārunāt) and the Bhagavad-gitā (III. 13 ). But the Purūnas carried this idea to extreme limits. Manu prescribed that in rites in honour of gods and pitrs, even a single learned brāhmana may be fed to secure the full reward of the rite, but not many brāhinnnas who do not know the mantri18. Again, in 111. 149 Manu says that in rites for gods no close examination about a brāhmana should be indulged in, but that in rites for ances tors effort should be made to ascertain that the family and character of the brahmanas are both good. But gradually this idea was given up, particularly at Sraddhas in Gayā. For example, the Vāyupurāna states that the brāhmaṇas of Gaya are supermen, that when they are gratitied (at a Srāddba) the gods together with the pitṛs become gratified, that no question should be raised about their fainily, their character, learning or tupas and that by honouring them a man attaine liberation. 
 
 It may be pointed out that the Vanaparva (chap. 84. 82-104 ) speaks at length about Gaya and its holy places, most of which are quoted in the Padmapurāya, Adik bauda, chap. 38 ( verses 2-19). Those interested may consult H. of Dh. Vol. 1 V for detailed statements about Gaya. 
 
@@ -135,13 +135,13 @@ Purāṇas have been published by different individuals, presses and societies. 
 
 scholars aiming at the elucidation of the textual and other problems relating to the subject-matter embodied in the Purāṇas. 
 
-The preparation of a subjectwise encyclopaedia of Purāṇic material, publication of popular expositions of Puranas in English or Hindi are among the lines of work that are includ ed among the objectives of the Purāṇa Prakāśana Samiti. The subject-concordance of six Puranas viz. Kūrma, Linga, Matsya, Mārkandeya, Visnu and Vūmuna is also ready (at the end of 1964). 
+The preparation of a subjectwise encyclopaedia of Purāṇic material, publication of popular expositions of Puranas in English or Hindi are among the lines of work that are includ ed among the objectives of the Purāṇa Prakāśana Samiti. The subject-concordance of six Puranas viz. Kūrma, Linga, Matsya, Mārkandeya, Viṣṇu and Vūmuna is also ready (at the end of 1964). 
 
 For the critical edition of the Matsyapurāna, Dr. Raghavan is relying on more than thirty mss., all printed edi tions and an old Tamil translation. Besides, as each indivi. dual Purāṇa is closely connected with many other Purāṇas and is almost all Purāṇas have numerous common topics, Dr. Raghavan is using the other Puranas for parallel portions contained in them. As Purāṇas have been quoted in numerous Dharmagāstra works, Dr. Raghavan has collected all quote tions from the Matsya-purāna in nibandha works on Dharmasastra. His plau of work on the Matsya has been set forth in his Presidential Address at the 21st session of the All India Oriental Conference held at Srinagar in 1961. 
 
 As the project of the critical editions of the Purāṇas is a long-term one, Vyāga Institute on a permanent basis at Benares is going to be established in the near future. 
 
-The constitution of the original text of the purānas is a Herculean task which has not yet been attempted. Not only is there difference of opinion among the purānas about the Dames of the 18 Maha-Purāṇas, but there is divergence as regards the extent of the several purāvas. For example, the commentator Visnucitta of the Viṣnupurāna says (on III. 6. 20-22 ) that the extent of the Visnupurāṇa is variously given at 8000, 9000, 10000, 22000, 24000, but that he comments on a text of 6000 slokas only. The Agnipurāna ( 272.10-11 ) says that it contains 12000 slokas, while the Bhāgavata (XII. 13 ), the Brabmavaivarta, the Padma (ādi. 62 ) say that it contains 15400 slokas and the Skanda (V. 3) and the Matsya 53 giver the extent of the Agni as 16000. The Kūrma, according tortice the Bhagavata, contains 17000, according to the Matsya 18700 and only 8000 according to the Agni ( 272. 19). Though there is a remarkuble continuity in India as to religious thought 
+The constitution of the original text of the purānas is a Herculean task which has not yet been attempted. Not only is there difference of opinion among the purānas about the Dames of the 18 Maha-Purāṇas, but there is divergence as regards the extent of the several purāvas. For example, the commentator Viṣṇucitta of the Viṣṇupurāna says (on III. 6. 20-22 ) that the extent of the Viṣṇupurāṇa is variously given at 8000, 9000, 10000, 22000, 24000, but that he comments on a text of 6000 slokas only. The Agnipurāna ( 272.10-11 ) says that it contains 12000 slokas, while the Bhāgavata (XII. 13 ), the Brabmavaivarta, the Padma (ādi. 62 ) say that it contains 15400 slokas and the Skanda (V. 3) and the Matsya 53 giver the extent of the Agni as 16000. The Kūrma, according tortice the Bhagavata, contains 17000, according to the Matsya 18700 and only 8000 according to the Agni ( 272. 19). Though there is a remarkuble continuity in India as to religious thought 
 
 poor 
 
@@ -193,7 +193,7 @@ and 13, XI. 17; Brahma (kailāsasaṁhita ) chap.
 
 (brahmacarin and gr yoga patta ); VĀyu 16 ; 
 
-hastha )and 27-28 ( vāna Visnu III. 11-12 
+hastha )and 27-28 ( vāna Viṣṇu III. 11-12 
 
 prastha and yati); 
 
@@ -287,7 +287,7 @@ Bhavisya I ( Brāhmapar naka ).
 
 va chap. 3-4 and 7 ); Pātakas-vide under prāyas- Nārada, pūrvārdha 25-26; 
 
-citta; Agni 168 ( mahā- Skanda IV. I (purvārdba pātakas and lesser sins ); 36 and 38 ); Viṣnu III.10. Brahma 20 and 105-106; 
+citta; Agni 168 ( mahā- Skanda IV. I (purvārdba pātakas and lesser sins ); 36 and 38 ); Viṣṇu III.10. Brahma 20 and 105-106; 
 
 śānti-Agni 149, 164, 167, Mārkandeya 12–14; Nā 
 
@@ -303,7 +303,7 @@ Matsya 92-93 and 228 Pratiṣthā--Agni 38–106 (bui- 239
 
 lding and consecration 
 
-Śrāddhus-Agni 117 (accord of temples, idols of Visnu 
+Śrāddhus-Agni 117 (accord of temples, idols of Viṣṇu 
 
 ing to Kātyāyana ) and &c); Garuda 45-48; Padma 
 
@@ -329,7 +329,7 @@ A
 
 
 
-rites of yati); Saura 19 ;/ bhūmikhanda 90 and 92 Skanda VI. 215-225 and sựstik handa 14-15 and VII. I. chap. 205-207 ; 18-19, 60; uttarakhanda Varāha 13-14 and 187--- 2, 20-25, 113, 129 ( nume 188 ; Vāyu (uttarardha rous tirthas named), 130 chap. 10-21 ); Visṇu III. 169, 195 ; Saura 67 ; Siva 13-16. 
+rites of yati); Saura 19 ;/ bhūmikhanda 90 and 92 Skanda VI. 215-225 and sựstik handa 14-15 and VII. I. chap. 205-207 ; 18-19, 60; uttarakhanda Varāha 13-14 and 187--- 2, 20-25, 113, 129 ( nume 188 ; Vāyu (uttarardha rous tirthas named), 130 chap. 10-21 ); Viṣṇu III. 169, 195 ; Saura 67 ; Siva 13-16. 
 
 I. 12 (kotirudrasarhitā 
 
@@ -379,7 +379,7 @@ uttara 28 ; Siva ( Video Padma l. 13-49, l'adma, svarusumlitā 11).
 
 Varnadharmas- Agni 151 ; ! makhanda 3-4, 7, 11, 13, 
 
-Bhāgavata VII. 11. and 15-16, 21-23, Pātāla XI. 17 ; Bralıma 114-115; khanda 86-96, 108, srsti Garuda 49; Mūrkandeya 20-24, 31, 76, 79-82, 25; Nīrailis, pūrvardha uttara 26, 31-32, 35-65, 24, 43, 59, 70 ; Skanda 66-71, 78, 85, 97, 125, VI. 242 ; Viṣnu III. 8. 170, 240-41, 262 ; Skanda mixed castes-Brahmavai- I. (Kedāra 33 ), II. 4. 
+Bhāgavata VII. 11. and 15-16, 21-23, Pātāla XI. 17 ; Bralıma 114-115; khanda 86-96, 108, srsti Garuda 49; Mūrkandeya 20-24, 31, 76, 79-82, 25; Nīrailis, pūrvardha uttara 26, 31-32, 35-65, 24, 43, 59, 70 ; Skanda 66-71, 78, 85, 97, 125, VI. 242 ; Viṣṇu III. 8. 170, 240-41, 262 ; Skanda mixed castes-Brahmavai- I. (Kedāra 33 ), II. 4. 
 
 varta (Brahmakhanda 10). 1-36, II. 5 and 7, V. I. Vivāha-vide under samskīra. 
 
