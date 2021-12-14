@@ -151,7 +151,7 @@ Lolla Lakṣmidliara appears to have been a braggart. In his com, on the Saundar
 
 Vide JBORS. vol. V, pp. 147-148 and Ind. Ant, for 1929, pp. 28-33 for information about the Empire of Orissa and its emperors, Kapilendra (who died in 1470 A. D.), Purusottama deva (1470-1497) and Pratāparudra-deva. 
 
-There is a ms. of a work called Pratāpamārtanda or Pra udhapratāpamārtanda (D. C. ms. No. 48 of 1872–73) which is 
+There is a ms. of a work called Pratāpamārtaṇḍa or Pra udhapratāpamārtaṇḍa (D. C. ms. No. 48 of 1872–73) which is 
 
 1333 
 

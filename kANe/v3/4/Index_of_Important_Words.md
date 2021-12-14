@@ -557,7 +557,7 @@ Mūla
 
 300 
 
-Karita Karma (torture) Karmabhūmi Kārmana Kārmāntika Karmānuyoga Karmasthāna Karmavipāka Kārṣāpana Kārya Kayavrata Kāyika Kesaria Khanda Khāri Kharvata Khāryatika Kheta Kosa Kriya Krta (throw of dice) Krta Krta (interest) Kṣaya Ksayādbi Kula Kula (tribunal) Kulika 
+Karita Karma (torture) Karmabhūmi Kārmana Kārmāntika Karmānuyoga Karmasthāna Karmavipāka Kārṣāpana Kārya Kayavrata Kāyika Kesaria Khanda Khāri Kharvata Khāryatika Kheta Kosa Kriya Kr̥ta (throw of dice) Kr̥ta Kr̥ta (interest) Kṣaya Ksayādbi Kula Kula (tribunal) Kulika 
 
 850n 
 

@@ -67,7 +67,7 @@ It may not be out of place to point out here what should be done about the numer
 
 255 
 
-It should be remembered that several vratas depend con jointly upon month, tithi and naksatra together. It is difficult to classify such vratas and my classification may in some cases appear to be arbitrary. For saving space the details mentioned above will not generally be conveyed in regular sentences, but in catch-words only. The figures after the abbreviated name of a work represent pages and Roman figures refer to volumes or parts; and double Arabic figures with a dot between represent chapter and verses respectively. As most vratas are tithivratas, the word tithi is not mentioned where the vrata has reference to a tithi alone and to no other particular (such as month or week-day &c.). The word vrata has been generally omitted after the names, except where I felt that doubt or confusion is likely to be caused. The word 'purāna' is not added to the names of purānas such as Agni, Vāmana &c. Except in the case of purānas references to medieval digests and commentaries are generally arranged in chronological order. The following abbreviations are used for months and half months: Cai. = Caitra, Vai. = Vaiśākha, Jy. = Jyestha, Ās. = Āsādha, Śr. = Śrāvana, Bh. =Bhādrapada, Āśv.=Āśvina, K.=Kārtika, Mārg. = Mārgaśirsa, P. = Pausa, M, = Māgha, Phā. = Phālguna; Su.or śu.= Sukla, Kr. or kr.= Krsna (pakṣa). Aksiyācaturthi-Caturthi with Tuesday yields special rewards 
+It should be remembered that several vratas depend con jointly upon month, tithi and naksatra together. It is difficult to classify such vratas and my classification may in some cases appear to be arbitrary. For saving space the details mentioned above will not generally be conveyed in regular sentences, but in catch-words only. The figures after the abbreviated name of a work represent pages and Roman figures refer to volumes or parts; and double Arabic figures with a dot between represent chapter and verses respectively. As most vratas are tithivratas, the word tithi is not mentioned where the vrata has reference to a tithi alone and to no other particular (such as month or week-day &c.). The word vrata has been generally omitted after the names, except where I felt that doubt or confusion is likely to be caused. The word 'purāna' is not added to the names of purānas such as Agni, Vāmana &c. Except in the case of purānas references to medieval digests and commentaries are generally arranged in chronological order. The following abbreviations are used for months and half months: Cai. = Caitra, Vai. = Vaiśākha, Jy. = Jyestha, Ās. = Āṣādha, Śr. = Śrāvana, Bh. =Bhādrapada, Āśv.=Āśvina, K.=Kārtika, Mārg. = Mārgaśirsa, P. = Pausa, M, = Māgha, Phā. = Phālguna; Su.or śu.= Sukla, Kr. or kr.= Krsna (pakṣa). Aksiyācaturthi-Caturthi with Tuesday yields special rewards 
 
 for vratas like upavāsa. GK 72. Aksayaphalājāpti–Vai. śu. 3; tithi; Viṣṇupūjā. HV I. 499 
 
@@ -243,7 +243,7 @@ to please Brahmā. Amīvāsyā-rratūni-HV II. 246-257, TT 162 ff, Vratārka ( f
 
 Umā; HV I. pp. 632-638, SMK 222-228 (almost same 
 
-passages as in HV). Vide Nār. I. 116. 32–33. Ambuvāci—the time in solar Āsādha when the Sun is in the first 
+passages as in HV). Vide Nār. I. 116. 32–33. Ambuvāci—the time in solar Āṣādha when the Sun is in the first 
 
 quarter of Ardrā-naksatra; VKK 283 quoting RM (catvārim sat-liptā &c.), KT 434 ( three days and 20 ghaṭis from the week day on which the Sun enters sign of Gemini, during which no sowing of seeds, nor Vedic study to be done ). Mother earth and rivers are deemed unclean during these days in Bengal (in Jy. or Ās. Kr. 10 to 13th ). Vide 
 
@@ -887,7 +887,7 @@ Navarātra; on su. 4 worship of Satī (Pārvati who threw herself in a lake on t
 
 there is a special bath in Kaveri river. Aṣādha-krtya-KR 196-218, KT 434-437, VKK 283–292, NS 
 
-101-109; SMK 137-148. Some of the smaller observances of Āsādha are mentioned here. Ekabhakta vrata for whole month ( SMK 137, KR 196 ); gift of sandals, umbrella, salt and myrobalans (v. 1. 'new kambala') to a brāhmaṇa for securing favour of Vāmana (avatāra ) on the first or on some convenient day of Aṣādha; on su. 2. if there is Pusya naksatra, Rathotsava of Kșsna, Balarāma and Subhadrā (TT 29, NS 101, SMK 137 ); on su. 7 (fast on 6th and) worship of Sun called Vivasvat who appeared on Pārvāsādhā that day (KKN 390, SmK 138 ); on 8th image of Devi that killed Mahiṣāsura should be bathed with turmeric water and camphor and sandalwood paste, and feast to brāhmaṇas and maidens full of sweet dishes and tasty liquids and lamps lighted; NA 56, SmK 138; as to 9th see under Ubhaya navami; on tenth Varalaksmīvrata (very important in Tamil country ) and worship on a kalaśa; as to 11th and 12th vide under these words; Full Moon is very holy and gifts must be made ( Rāmāyaṇa q. by KR 214 ); if there be Uttarāsādha naksatra on Pūrnimā worship of ten Viśvedevas (KKN 393, KR 213 and H. of Dh. vol. IV p. 457 ); gift of food on Pūrnimā gives inexhaustible merit (V. Dh.); on Purnimā 
+101-109; SMK 137-148. Some of the smaller observances of Āṣādha are mentioned here. Ekabhakta vrata for whole month ( SMK 137, KR 196 ); gift of sandals, umbrella, salt and myrobalans (v. 1. 'new kambala') to a brāhmaṇa for securing favour of Vāmana (avatāra ) on the first or on some convenient day of Aṣādha; on su. 2. if there is Pusya naksatra, Rathotsava of Kșsna, Balarāma and Subhadrā (TT 29, NS 101, SMK 137 ); on su. 7 (fast on 6th and) worship of Sun called Vivasvat who appeared on Pārvāsādhā that day (KKN 390, SmK 138 ); on 8th image of Devi that killed Mahiṣāsura should be bathed with turmeric water and camphor and sandalwood paste, and feast to brāhmaṇas and maidens full of sweet dishes and tasty liquids and lamps lighted; NA 56, SmK 138; as to 9th see under Ubhaya navami; on tenth Varalaksmīvrata (very important in Tamil country ) and worship on a kalaśa; as to 11th and 12th vide under these words; Full Moon is very holy and gifts must be made ( Rāmāyaṇa q. by KR 214 ); if there be Uttarāsādha naksatra on Pūrnimā worship of ten Viśvedevas (KKN 393, KR 213 and H. of Dh. vol. IV p. 457 ); gift of food on Pūrnimā gives inexhaustible merit (V. Dh.); on Purnimā 
 
 H. D. 35 
 
@@ -1143,7 +1143,7 @@ sacrificial tree for one month from Āśv. Pūrpimā to K. Pūrṇimā, or on th
 
 spirits) and pitss ( manes ). Kāntivrata-(1) K. śu. 2; tithi; for a year; worship of Balarāma 
 
-and Keśava and of the crescent of the moon; homa with sesame for 4 months from K. and with ghee for four months from Āsādha; at end of year gift of a silver image of Moon to a brāhmana; KKV 47-48 (from Var. 57. 1-18); HV I. 378-379 (from Var.); (2) in Vai; Samvatsaravrata; 
+and Keśava and of the crescent of the moon; homa with sesame for 4 months from K. and with ghee for four months from Āṣādha; at end of year gift of a silver image of Moon to a brāhmana; KKV 47-48 (from Var. 57. 1-18); HV I. 378-379 (from Var.); (2) in Vai; Samvatsaravrata; 
 
 giving up in whole of Vai. salt and flowers, KKV 445. Kāmatrayodas-on 13th; tithi; worship of Kāma (god of love ); 
 
@@ -1391,7 +1391,7 @@ Ra
 
 Kokilāvrata-Mostly for women. On the Full moon of Āṣ, in 
 
-the evening a saṅkalpa ; for one month after Āsādha Full Moon ( in pūrṇimānta reckoning ); worship of Gauri in the form of Kokilā image made of gold or sesame cake; nakta for one month; at end of one month gift of image placed in a copper vessel with precious stones for eyes and with feet and beak of silver; HV II. 755-57 ( quoting Bhav. U. chap. 11), NS 108-109. The Vratārka (folios 329-334 ) notes that in Gurjara country this vrata is performed in the intercalary Āsādha by usage but there is no śāstra autho rity. It is said that Gauri was cursed to be kokilā by Siva after he destroyed Daksa's sacrifice. A golden image of female cuckoo with feet of silver and pearls for eyes is worshipped with 16 upacāras. It is performed for saubhāgya and prosperity. In Tamil calendars it is shown on Jy. 
+the evening a saṅkalpa ; for one month after Āṣādha Full Moon ( in pūrṇimānta reckoning ); worship of Gauri in the form of Kokilā image made of gold or sesame cake; nakta for one month; at end of one month gift of image placed in a copper vessel with precious stones for eyes and with feet and beak of silver; HV II. 755-57 ( quoting Bhav. U. chap. 11), NS 108-109. The Vratārka (folios 329-334 ) notes that in Gurjara country this vrata is performed in the intercalary Āṣādha by usage but there is no śāstra autho rity. It is said that Gauri was cursed to be kokilā by Siva after he destroyed Daksa's sacrifice. A golden image of female cuckoo with feet of silver and pearls for eyes is worshipped with 16 upacāras. It is performed for saubhāgya and prosperity. In Tamil calendars it is shown on Jy. 
 
 (Mithuna ) 14. Kotihoma-Mat. (93.5-6) says that the Navagrahahoma is 
 
@@ -1547,7 +1547,7 @@ Yugāntya, Şadaśiti-mukha, Uttarayana, Dakṣiṇāyana,
 
 Govinda deity; in a cowpen or a cottage prepare a vedi on which in a mandalu the image of Krsna to be placed with four queens on right and four on left; homa on 4th day; arghya and pājā to cows; HV II. 288–293 ( from Skanda ). This conduces to increase of progeny. (2) begin on Bh. śu. 12 or K. śu. 13; fast for three days; worship of Lakṣmi, Nārāyana and Kāma-dhenu, for saubhāgya and wealth; HV II, 293-303, VP (folios 158–160); (3) begin on Bh. su. 13; three days; worship of Kāma-dhenu and Laksmi-Nārāyaṇa: HV II. 303-308 ( from Bhav. U.), VP (folio 161 ) 
 
-Godhūma--production of- on 9th tithi in Krta-yuga by Janār 
+Godhūma--production of- on 9th tithi in Kr̥ta-yuga by Janār 
 
 dana (Viṣṇu), Durgā, Kubera, Varuṇa and Vanaspati; these five to be worshipped with food made from wheat; KR 285 
 
@@ -1705,7 +1705,7 @@ and HV II. 158-159 (from Bhav U.). Caturmurtivratas–Vi. Dh. III chap. 137-151 
 
 of these, some of which are described in HV I. 505 ff. Caturyugavrata-On first four days of Cai, and of the following 
 
-months worship of the four yugas, Krta, Tretā, Dvāpara and Tisya ( Kali); one year; subsist on milk alone. HV 
+months worship of the four yugas, Kr̥ta, Tretā, Dvāpara and Tisya ( Kali); one year; subsist on milk alone. HV 
 
 II. 503-504 quoting some verses from Vi. Dh. III. 144.1-7. Catus-sama-vide p. 38 n 88 above. Candradarśana-niṣedha-See under Gaṇeśa-caturthi pp. 147-148 
 
@@ -2391,7 +2391,7 @@ be established and worshipped; the reward is that the man's undertakings even wh
 
 565–566. Dvirāsādha-Viṣṇu is deemed to sleep on Āṣ. $. 11; if two 
 
-amāvāsyās end during the period when the Sun is in the sign of Mithuna, then there are two Āsādha (lunar) months, there is an adhimāsa and Viṣṇu goes to sleep only after the 2nd amāvāsyā (i. e. in Karkata or Śr.); KV 169-173, NS 
+amāvāsyās end during the period when the Sun is in the sign of Mithuna, then there are two Āṣādha (lunar) months, there is an adhimāsa and Viṣṇu goes to sleep only after the 2nd amāvāsyā (i. e. in Karkata or Śr.); KV 169-173, NS 
 
 192, Sm 83. Dvipavrata-begin on Cai, śu. and for seven days in each month, 
 
@@ -3193,7 +3193,7 @@ Paurnamāsi-krtya--Vide KN 300-307, VKK 77-81, TT 133, SM
 
 Paurṇamāsi-vratas-Vide Agni 194, KKV 374-385 (only five ), 
 
-HV II. 160-245 ( about 38 ), SmK 432-439, PC 211-314, VR 587-645. Some unimportant matters about Full Moon tithi are mentioned here. On Āṣ. pūrṇimā, ascetics (yatis) are to shave their heads and not to shave during cāturmāsya, they are to stay in one place for four or two months from Āsādhi and perform Vyāsapūjā (PC 284); on Śr. pūrṇimā Upākarma; on Bh. Full Moon śrāddha to be performed for Nūndimukha pitrs; on M. pūrnimā donate sesame; in Phā. theft of firewood allowed to boys from su. 5th to 15th and fire is to be set to such wood on 15th (PC 309); V. Dh. (90. 
+HV II. 160-245 ( about 38 ), SmK 432-439, PC 211-314, VR 587-645. Some unimportant matters about Full Moon tithi are mentioned here. On Āṣ. pūrṇimā, ascetics (yatis) are to shave their heads and not to shave during cāturmāsya, they are to stay in one place for four or two months from Āṣādhi and perform Vyāsapūjā (PC 284); on Śr. pūrṇimā Upākarma; on Bh. Full Moon śrāddha to be performed for Nūndimukha pitrs; on M. pūrnimā donate sesame; in Phā. theft of firewood allowed to boys from su. 5th to 15th and fire is to be set to such wood on 15th (PC 309); V. Dh. (90. 
 
 List of vratas 
 
@@ -4245,7 +4245,7 @@ started respectively on Vai. su. 3, K. śu. 9, Bh. kr. 13 and M. amāyāsyā; fa
 
 Yugāntya-śrāddha-is to be performed on these days; the four 
 
-yugas respectively end on the following; Krta in the sun's passage in sign Simha (Lion), Tretā ends in Vrścika sankrānti, Dvāpara ends in Vrsa sankrānti and Kaliyuga in Kumbha-sankranti. HK 656, KR 542-543, KKN 372. 
+yugas respectively end on the following; Kr̥ta in the sun's passage in sign Simha (Lion), Tretā ends in Vrścika sankrānti, Dvāpara ends in Vrsa sankrānti and Kaliyuga in Kumbha-sankranti. HK 656, KR 542-543, KKN 372. 
 
 Yugāvatāravrata-on Bh. kr. 13th when Dvāpara-yuga began, one 
 
@@ -4951,7 +4951,7 @@ viz. gandha &c.; all sins being destroyed he goes to Viṣṇu. loka; various wa
 
 Vrsabha, Simha, Vrścika and Kumbha; vide KN 332 and 
 
-under Saṅkrānti above p. 213. Viṣṇupadavrata-begin on Pūrvāsādha-naksatra in Āsādha; 
+under Saṅkrānti above p. 213. Viṣṇupadavrata-begin on Pūrvāsādha-naksatra in Āṣādha; 
 
 worship the three steps of Viṣṇu placed in milk or ghee; performer to subsist on sacrificial food (havisya ) at night alone; in Srāvana on Uttarāsādhā worship of Govinda and Viṣṇu's three steps, gift and food being different; in Bh. on Pūrvāsādhā, in Phā. on Pūrvāphalguni and in Cai. on Uttarāphalguni similar worship; performer secures health, prosperity and goes to Viṣṇuloka; HV II. 665-667 (from Vi. Dh.). 
 
@@ -5391,7 +5391,7 @@ List of vratas
 
 HV II. 915 (from Adityapurāṇa), KR 303–304. Śyenagrūsanaridhi-on 4th, 8th, 9th, or 14th of K. śu.; for 
 
-women; in Krta age women gave a morsel to a hawk with the request to carry it to Devi; but now no such thing is done but women take food before their husbands on one of these days and husbands dine afterwards; HV II. 641-43 (from 
+women; in Kr̥ta age women gave a morsel to a hawk with the request to carry it to Devi; but now no such thing is done but women take food before their husbands on one of these days and husbands dine afterwards; HV II. 641-43 (from 
 
 Adityapurāṇa ). Śrāddhavrata-apply sandalwood paste to Siva image in the 
 
@@ -5653,7 +5653,7 @@ rendered defective by some mistake or obstacle or Vighna. vināyakas; one should
 
 876-879 (from Bhav. U.). Samprāpti-drādaśi-on 12th of P. kr., worship of Acyuta (Krsna); 
 
-not to speak with atheists and the like; two periods of six months each; in the first six months from P. worship as Puṇdarikākṣa, then as Madhava, as Viśvarūpa ( in Phā.), Purusottama (in Cai.), Acyuta (in Vai.) and as Jaya (in Jy.); sesame to be employed at bath and dinner in the first six months and in the six months from Āsādha pancagavya; worship in the second half from Āṣ. with same names as in the first half year; performer to observe fast on ekādaśī and to observe nakta or ekabhakta way on 12th; at year's end 
+not to speak with atheists and the like; two periods of six months each; in the first six months from P. worship as Puṇdarikākṣa, then as Madhava, as Viśvarūpa ( in Phā.), Purusottama (in Cai.), Acyuta (in Vai.) and as Jaya (in Jy.); sesame to be employed at bath and dinner in the first six months and in the six months from Āṣādha pancagavya; worship in the second half from Āṣ. with same names as in the first half year; performer to observe fast on ekādaśī and to observe nakta or ekabhakta way on 12th; at year's end 
 
 H, D, 56 
 

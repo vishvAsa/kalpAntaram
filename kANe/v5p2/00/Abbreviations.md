@@ -79,7 +79,7 @@ context). P.O. - Poona Orientalist (journal). P.R. H. R. = Studies in Purāṇik
 
 rites and customs ( collection of 16 papers by Prof. 
 
-Hazra). Ṛg. =Rgveda. R. M. = Rājamārtanda of Bhoja ( Ms. in B. O, R. I.). R. N. P. = Rājanītiprakāśa of Candeśvara. Śūṅ. Śr. S. =Śānkhāyana--rauta sūtra. Śat. Br. =Śatapatha Brāhmaṇa ( ed. by Weber). S. B. E. = Sacred Books of the East Series ( ed. by 
+Hazra). Ṛg. =Rgveda. R. M. = Rājamārtaṇḍa of Bhoja ( Ms. in B. O, R. I.). R. N. P. = Rājanītiprakāśa of Candeśvara. Śūṅ. Śr. S. =Śānkhāyana--rauta sūtra. Śat. Br. =Śatapatha Brāhmaṇa ( ed. by Weber). S. B. E. = Sacred Books of the East Series ( ed. by 
 
 Max Muller ). S. M. = Samayamayūkha of Nilakantha. Sm. C. = Smṛti-candrika ( ed. by Mr. Gharpure). Sm. K. = Smrtikaustubha. Tai. Ā, or T. A. = Taittiriya Araṇyaka. Tai. Br. = Taittirīga Brāhmaṇa. Tai. S. or T. S. = Taittirīga-Samhitā. Tai. Up. = Taittiriya Upaniṣad. T. S. S. = Trivandrum Sanskrit Series. T. T. - Tithitattva of Raghunandana. U.=Upapurāṇa. Up. = Upaniṣad. Vāj. S. = Vājasaneya Samhitā. 
 

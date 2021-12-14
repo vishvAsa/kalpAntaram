@@ -495,7 +495,7 @@ Sec. 65 Dhāreśvara Bhojadera
 
 ... pp. 585-591 
 
-Mitākșarā (on Yāj. 11. 135 and III. 24) mentions views of Dhāreśvara - Dharesvara is to be identified with king Bhojadeva of Dhārā - works on pumerous branches of knowledge attributed to Bhoja of Dhārā such as on Poetics, Rājamṭgāöka (on astrono my), a com. on Yogasūtras - Suddhikaumndi of Govindananda mentions Rājamārtanda of Bhoja on sraddha - Mitākṣarā and Dhāreśvara disagree on several points, e. g. on the question whether ownership was known from sāstra alone, on the meaning of .duhitarah'in Yaj. - on other points the two agree - Bhūpāla paddhati or simply Bhūpāla or rāja refers to a work of Bhojadeva - Bhujabalabhima of Bhojarāja quoted in Tithitattva and Ahnika tattva of Raghunandana as distinct from the Rājamārtanda - two works of Bhoja on Sanskrit poetics - inscriptional references to Bhoja - pedigree given in the Ujjain plate - Bhoja reigned from 1005-1054 A.D. - Dharmapradipa of Bhoja is the work of another Bhoja, who was son of Bharamalla and king of Aśāpura - it was written between 1400-1600 A. D. 
+Mitākșarā (on Yāj. 11. 135 and III. 24) mentions views of Dhāreśvara - Dharesvara is to be identified with king Bhojadeva of Dhārā - works on pumerous branches of knowledge attributed to Bhoja of Dhārā such as on Poetics, Rājamṭgāöka (on astrono my), a com. on Yogasūtras - Suddhikaumndi of Govindananda mentions Rājamārtaṇḍa of Bhoja on sraddha - Mitākṣarā and Dhāreśvara disagree on several points, e. g. on the question whether ownership was known from sāstra alone, on the meaning of .duhitarah'in Yaj. - on other points the two agree - Bhūpāla paddhati or simply Bhūpāla or rāja refers to a work of Bhojadeva - Bhujabalabhima of Bhojarāja quoted in Tithitattva and Ahnika tattva of Raghunandana as distinct from the Rājamārtaṇḍa - two works of Bhoja on Sanskrit poetics - inscriptional references to Bhoja - pedigree given in the Ujjain plate - Bhoja reigned from 1005-1054 A.D. - Dharmapradipa of Bhoja is the work of another Bhoja, who was son of Bharamalla and king of Aśāpura - it was written between 1400-1600 A. D. 
 
 Sec. 66 Devasvāmin : 
 
@@ -747,7 +747,7 @@ Sec. 101 Pratāparudradeva :
 
 869-879 He was king of the Gajapati dynasty in Orissa and composed Sarasvativilāsa – pedigree and history of family - purpose and con tents of Sarasvativilāsa - works quoted - often points out the differences of opinion between Bhāruci and Vijñānesvara - cites in many places the explanations of certain sūtras and words of Viṣṇu 
 
-giving Bhāruci's interpretations thereof - quotes Varadarāja, Smsticandrikā - composed between 1497-1539 A. D. - Foulke's theory about date not acceptable - authorship of Sar. V. - goes to Lolla Laksmidhara acc. to Dr. Gode and Mr. R. Subrahmanyam - the Pratāpamārtanda or Praudhapratāpamārtanda of Pratāpa rudradeva. 
+giving Bhāruci's interpretations thereof - quotes Varadarāja, Smsticandrikā - composed between 1497-1539 A. D. - Foulke's theory about date not acceptable - authorship of Sar. V. - goes to Lolla Laksmidhara acc. to Dr. Gode and Mr. R. Subrahmanyam - the Pratāpamārtaṇḍa or Praudhapratāpamārtaṇḍa of Pratāpa rudradeva. 
 
 Sec. 105 Dharmatattvakalanidhi or Pṛthvicandrodaya 
 

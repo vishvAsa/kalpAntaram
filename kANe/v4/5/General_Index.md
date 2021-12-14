@@ -881,7 +881,7 @@ the estate of a mao had to pay Dbanada-krccbra 141 latter's d. 570
 
 Dharma, body being the all-in-all (or Decalogue, 11o 
 
-only source ) of d , should be saved Deceased, goat was carried along with by all efforts 127; 15 ia its pristine the body of 196, parts of the body gloryzo Krtayuga and bas four feet but 
+only source ) of d , should be saved Deceased, goat was carried along with by all efforts 127; 15 ia its pristine the body of 196, parts of the body gloryzo Kr̥tayuga and bas four feet but 
 
 loses ope foot 18 each succeeding of, such as eye, breath were sup 
 

@@ -31,7 +31,7 @@ Didbiṇu, 547 Dīksitarimita, 988n Dinakṣaya, 852n Dobana, 10150 Dropakalasa,
 
 8. D. 171 
 
-Kaivalya, 423 Kali, 648, 12190 Kalpa, 323n, 701 Kalpavsk$&, 874 Kandanusamaya, 740 Kanyaka, 445 Kapila-snaga, 667 Karambha, 1095 Kaśyapa, 718 Kaula, 7370 Kausa, 6690 Kautukabandhann, 536 Kharvata, 875n Kheta, 875n Kratu, 1162 Kratupasu, 1174 Kriyanga-30008, 666 Kriyaspāna, 666 Krsnala, 1209 Krta, 1219a. Kṣara, 3040, 530 Kṣatra, 30 Kṣetra 599 Ksetraja, 599 Kgetrin or Ksetrika, 599 Kulamkula, 4130 Kulapati, 369 Kumārī, 445 Kumbhaka, 317 Kumbhi, 110n, 6410 Kunda, 298 Kupa, 893 Kogula, 1100, 6410 Kutapa, 645 Kataru, 1020n, 1027 Kugastha, 455 Kuṭioaka, 939 Lagaa, 877 Lavana, 304n, 530 Lokāyata, 3590 Madhumatī, 544n Madhuparka, 542 Madhvi, 7950 Mahakārtiki, 854 Mabanavami, 395 Mahāprarthana, 9221362 
+Kaivalya, 423 Kali, 648, 12190 Kalpa, 323n, 701 Kalpavsk$&, 874 Kandanusamaya, 740 Kanyaka, 445 Kapila-snaga, 667 Karambha, 1095 Kaśyapa, 718 Kaula, 7370 Kausa, 6690 Kautukabandhann, 536 Kharvata, 875n Kheta, 875n Kratu, 1162 Kratupasu, 1174 Kriyanga-30008, 666 Kriyaspāna, 666 Krsnala, 1209 Kr̥ta, 1219a. Kṣara, 3040, 530 Kṣatra, 30 Kṣetra 599 Ksetraja, 599 Kgetrin or Ksetrika, 599 Kulamkula, 4130 Kulapati, 369 Kumārī, 445 Kumbhaka, 317 Kumbhi, 110n, 6410 Kunda, 298 Kupa, 893 Kogula, 1100, 6410 Kutapa, 645 Kataru, 1020n, 1027 Kugastha, 455 Kuṭioaka, 939 Lagaa, 877 Lavana, 304n, 530 Lokāyata, 3590 Madhumatī, 544n Madhuparka, 542 Madhvi, 7950 Mahakārtiki, 854 Mabanavami, 395 Mahāprarthana, 9221362 
 
 
 

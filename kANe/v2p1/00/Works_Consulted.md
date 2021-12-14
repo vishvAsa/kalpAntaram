@@ -243,7 +243,7 @@ portions edited by Mr. J. R. Gharpure. Bombay). Smftyarthasāgare of Obalārl(pr
 
 Bombay ). Smṛtyarthasāra of Sridhara--published by the Anandāśrams 
 
-Press, Poona. Subhodhini of Visvesvara-bhatta-edited by Mr. J. R. Gharpure. Suddhitattvā of Raghunandana-published by Pandit Jivānanda. Sūdrakamalakara of Kamalakarabhatta with Marathi Trang 
+Press, Poona. Subhodhinī of Visvesvara-bhatta-edited by Mr. J. R. Gharpure. Suddhitattvā of Raghunandana-published by Pandit Jivānanda. Sūdrakamalakara of Kamalakarabhatta with Marathi Trang 
 
 lation-published by the Nirnayasāgara Press, Bombay, 1880. Śūdrakrtyatattva of Raghunandang-published by Pandit Jiva 
 

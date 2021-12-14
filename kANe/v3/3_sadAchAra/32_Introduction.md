@@ -19,7 +19,7 @@ w aiati fafte i ft. I. 1-2; 37416: FTATIST Pyh Tree: I VYAT: HOT 91 | 97. 4. . 1
 
 I. 4-7; R: Tafa: Frent: \#farha: 999 TEST: FIA: Watare \# 01. I. 7; asform the Batata ahora i r * TRATEĦENETH REI. 6. V explains mula in Gaut. as pramīṇa and prayer as atractivar \#9: Parowe विधिनियमः प्रतिषेध इति । समयमला आचारा समयाचाराः तेषु भवाः सामपाचारिक एवं. Waruaffata i o stsiguranta Fe ROM A. !. According to him FTRT Ar means relating to practices based upon agreements or conventions. Manu distinguishes between sīla and ācāra. The first means, acc. to Kullūka and others, such moral qualities as • dovotion to learning, to gods and to parents' &c. mentioned in Harita (quoted by Kullūka). All commentators connect 'svasya' in Manu II. 12 and Yāj. I. 7 with 
 
-priyam', but Pandit Gaṭṭulal coojects it with • sadācāra' which means bccording to him sampradaya' (in Satbiddhantamārtanda I. 5 p. 49, Nir: ed. 1942), 
+priyam', but Pandit Gaṭṭulal coojects it with • sadācāra' which means bccording to him sampradaya' (in Satbiddhantamārtaṇḍa I. 5 p. 49, Nir: ed. 1942), 
 
 104 
 

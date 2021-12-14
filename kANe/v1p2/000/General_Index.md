@@ -611,7 +611,7 @@ p. 557.
 
 Bodhāyana, wrote & Vitti called Bhikśu, used by Gautama in the 
 
-Krta koti on the Vedāptasūtras, sense of parivrājaka, p. 35; four pp. 566, 593. kinds of, pp. 258, 259. 
+Kr̥ta koti on the Vedāptasūtras, sense of parivrājaka, p. 35; four pp. 566, 593. kinds of, pp. 258, 259. 
 
 Bose, Dr. Atindranath, pp. 217, 218. Bhiksu Prabhamati, commentator of Brahmā, credited with a huge work 
 
@@ -645,7 +645,7 @@ p. 33; allowed by Vasiṣtha and ascribed to, p. 585; wrote on
 
 Viṣṇudbarmasūtra to marry a girl grammar, medicine and yoga, 
 
-of any of the four varnas, pp. 126, p. 586; author of Rājamārtanda 
+of any of the four varnas, pp. 126, p. 586; author of Rājamārtaṇḍa 
 
 269; first allowed and then con. and Bbujabalabbima, p. 588. 
 
@@ -727,7 +727,7 @@ case of property acquired without Brhad-Gārgya, quoted in Smrtican- detriment t
 
 drikā, p. 276. 
 
-p. 623. Brhad-Rājamārtanda, p. 588. 
+p. 623. Brhad-Rājamārtaṇḍa, p. 588. 
 
 Brother's son, includes grandson for 
 
@@ -1365,7 +1365,7 @@ Gurumata, p. 643. Guruvaṁśa-kāvya, pp. 563, 786.
 
 Govindānanda, pp. 642, 702, 729, 762, 
 
-882-889; quotes Rājamārtanda of Bhoja more frequently than any 
+882-889; quotes Rājamārtaṇḍa of Bhoja more frequently than any 
 
 other work, p. 586n. Govindarāja, pp. 4n., 523, 585, 656– 
 
@@ -2675,7 +2675,7 @@ Prapancahṣdaya, p. 567. Boondelas', p. 947n.
 
 Prapancasāra, p. 779. Politics, teachers of, pp. 265-66; 
 
-Pratāpamārtanda, of Pratāparudra. three-fold realm of, p. 231. 
+Pratāpamārtaṇḍa, of Pratāparudra. three-fold realm of, p. 231. 
 
 deva, p. 878. Poor, the, and helpless entitled to a 
 
@@ -2887,7 +2887,7 @@ sions of, pp. 386-87; resemblance Rājamartanda, Bhoja's commentary
 
 of Raghuvamsa with the Uttara. on Yogasūtra, pp. 585, 586; Rāja 
 
-kunda of, pp. 389–90; relation of, mārtanda, Bhoja's work on dharma 
+kunda of, pp. 389–90; relation of, mārtaṇḍa, Bhoja's work on dharma 
 
 to Daśarathajtaka, pp. 392-93; śāstra, pp. 586, 770n., 8471, 
 
@@ -4159,7 +4159,7 @@ Yoggbama, commentator of Arthasā. 433, 449.
 
 stra, p. 155; cites the views of Yogasūtra, Bhoja's commentary 
 
-Ambhiyas, p. 156. on, called Rājamārtanda, pp. 585, 586; pot later than 2nd or 3rd 
+Ambhiyas, p. 156. on, called Rājamārtaṇḍa, pp. 585, 586; pot later than 2nd or 3rd 
 
 Yogiśvara, means Yāj. and is differ century, p. 316. 
 

@@ -2539,7 +2539,7 @@ P. VI 113, 25 (Kayanā iQ Satara Kalapagrāma--(probably Dear Bada District) Vid
 
 rika) vā 91 7, 99. 437 (Devapi TS p 79. The Koyanā falls 1oto 
 
-stays there and will be Krtayagam Krstā near Karad 22 Satara 
+stays there and will be Kr̥tayagam Krstā near Karad 22 Satara 
 
 pravartala when Kahyuga will ead), 
 
@@ -3243,7 +3243,7 @@ and Yeppā (which stands for Venya). rising from Vindbya (verse 33). It Krsna-Ve
 
 Krsdaveni from SK, 
 
-(Ksiprā un both places) is just like Krtamāla-(r, rising in Malaya) va the Brabpa 
+(Ksiprā un both places) is just like Kr̥tamāla-(r, rising in Malaya) va the Brabpa 
 
 45 105, B 27 36, M 114 30, Br, Ksiravati-(r) V 84 68 (reached III, 35 17. Bh VIII 24 12. X 79, 16, ' after Sarasvati and Bābuda) ' XI 5. 39, V1 II 3. 13, Dey p. 104 Ksirika-(where there is Nīlakaotba) says that it is tbe river Vaiga on Vām q by T, K p.238 which Madurā is situated. See Kșudhātīrtha-(under Go ) B 85 1 ander Payasvini, The Bbāgavata 
 
@@ -3253,7 +3253,7 @@ Kuberatunga - (a fit place for says Mapo practised penance on this
 
 Br III 13 80 to grow 
 
-Kubha-(probably modern Kabul Krtaśauca-M. 13,45, 179.87, Vām. 90. 
+Kubha-(probably modern Kabul Kr̥taśauca-M. 13,45, 179.87, Vām. 90. 
 
 river) Rg. V. 53, 9 and X. 75.6. 5 (has an image of Nrsimba), P VI, i 
 
@@ -4667,7 +4667,7 @@ be Pandharpur from content) PVI
 
 bably modern Pharal, 17 miles to 
 
-280. 18-19 (Krtasance haret pāpam 
+280. 18-19 (Kr̥tasance haret pāpam 
 
 south-east of Thanesar) V. 83. 86 
 

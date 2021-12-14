@@ -3281,7 +3281,7 @@ in the Atharvaveda, 770. entitled to perform pārtadharma,
 
 Rajadharmakaustubba, 892, 900. 889. 
 
-Rajamārtanda, 513. Puru, youngest son of Yayati and 1 Rajaka (washerman), an antyaja, 
+Rajamārtaṇḍa, 513. Puru, youngest son of Yayati and 1 Rajaka (washerman), an antyaja, 
 
 crowned king, 923. 
 

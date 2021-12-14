@@ -1190,7 +1190,7 @@ formed Abramedha 1280. pālakrtyasamuccaya of Bhoja, Bhigmaparva 129, 532n, 743-
 
 Bhūtārthavada or Bbātārthāpu Bhoja, king of Dhārā ( 1st half of vāda; examples of, 1241 and n; 
 
-11th century A. D.); composed explained by Sabara and San (or got composed ) numerous karācārya ( on V. 8. I. 3. 33 ) works, such as BhūpālakȚtya- who calls it Vidyamanavāda samucoaya, Bhujabala, Rāja- 1241n, mārtanda (on astrology ), 58, Bhuvanakosa or Bhuvana-vin 884 ( tour works of, on Dbar yasa, described in Brahma masāstra and astrology); a, of purāṇa, Kūrma, Matsyau, Vāya com. Rājamārtanda on Yoga- (has 1000 verses), 1527. sūtra 1377, 1394. 
+11th century A. D.); composed explained by Sabara and San (or got composed ) numerous karācārya ( on V. 8. I. 3. 33 ) works, such as BhūpālakȚtya- who calls it Vidyamanavāda samucoaya, Bhujabala, Rāja- 1241n, mārtaṇḍa (on astrology ), 58, Bhuvanakosa or Bhuvana-vin 884 ( tour works of, on Dbar yasa, described in Brahma masāstra and astrology); a, of purāṇa, Kūrma, Matsyau, Vāya com. Rājamārtaṇḍa on Yoga- (has 1000 verses), 1527. sūtra 1377, 1394. 
 
 Bible, says that Jesus did not Bhojaka : 779n ( to whom one's expound all things to all people 
 
@@ -2634,7 +2634,7 @@ that may be eaten in vratas ) kalpa-tarı 144; Dot preva
 
 Hathayoga ( vide onder Khecarl observed on 3rd of Bhadrapada 
 
-madrā' and • Vajrolimudra'); bright halt 144; Rūjamārtanda 
+madrā' and • Vajrolimudra'); bright halt 144; Rūjamārtaṇḍa 
 
 deals with processes called has four verses on it, 14+; 
 
@@ -4366,7 +4366,7 @@ Vol. V
 
 Tārābala in M. 615; compa- the moon's position at m. 611 : rative astrological strength of Yama and Yami dialogue (Rg. tithi, week-day, nakṣatra, Sun, X. 10) wrongly considered by Moon io m. 616; great iinpor- some Western scholars as refe tance of Jupiter in M. 615; rring to marriage of brother and importance of gana and nātli sister 209; ban against inter among brāhmaṇas even now, ! caste marriages removed by 614; intricate astrological legislation 1636n.; futile legi rules for, 609-616; Jupiter, 1 slation as to dowry in m. 1676. auspicivus and inauspicious Mars, statements about position positions of, in m 613; Sioon, of, in Mahābhārota are irre. importance of the auspicious concilable 532. position of, jo m. 615; Dut dis- Blarshall, Sir John, editor of three approred in simhastha Gura' volumes on Sanchi 1653 D ; a. when performed north of the of Taxila' (three vol.', and Ganges and Sonth of the Godā- : Guide to Taxila 1656 
 
-vari 613; proper lagna rāśis 1 Martin E. W. editor of In at time of m. 613; Rāja- 1 Search of Faith', a symposium mārtanda devotes 150 verses to by several writers 14870, astrological requirements of in. ! 1550n. 610 ; Rgveda X. 85 is marri- | Marx : meaning of 'I am not-& age hyran, 497n; rule of marxist' 1695. 
+vari 613; proper lagna rāśis 1 Martin E. W. editor of In at time of m. 613; Rāja- 1 Search of Faith', a symposium mārtaṇḍa devotes 150 verses to by several writers 14870, astrological requirements of in. ! 1550n. 610 ; Rgveda X. 85 is marri- | Marx : meaning of 'I am not-& age hyran, 497n; rule of marxist' 1695. 
 
 goulhūli' or gorajas mobūrta in Moskarin, weans ( a wandering mi. 613; rules about siinhas. ascetic), ecc. to Pāqini and tha Guru observed even now Mahābhāṣya 13880. 613; rales about the same- | Matharavrtti, com. on Sāökhya Des of rāsi or nakṣatra of kārikā not later than 450 A. bride and bridegroom in m. D., 135f; furnisbes notes 
 
@@ -4592,7 +4592,7 @@ karabbatta (summarises in sin ), 1252 and 2, 1264, 1269, 250 verses 1000 adhikar
 
 hateful to people ), 12730-74, Mināmhsāśastra : declared to have 1288, 1292, 1303-3 ( on Bphas 
 
-bad 20 chapters by Rāmānuja pati about re-union ), 1306, and Prapabcabrdaya and in 1308-9, 1318-16n (prefers Inscription of Rājarāja 1159- mother to the father as heir ), 60; Krtakoṭibhiṣya of, by 1317, 1326 (ūha), 1328-29, Bandbūyada 1159; com. of 1336 ( differences on vital Upavarṣa 1159; com, of Deva- doctrines of Hinda Law bet. gvāmin ānd Bhavadāsa 1159. ween Mit. and Dāyabhaga ) 60; twenty chapters of, are 1431, 1438, 1468, 1597, 1637, constituted acc. to some as Mitanni ( vide under Bogozkewi, the twelve chapters asoribed Babylon, Hittite): names of to Jaimjni, plus four of San- kings and nobles from M., karṣakāṇda and four of Veda. Nazi and Syrian documents ntasātra 1160. 
+bad 20 chapters by Rāmānuja pati about re-union ), 1306, and Prapabcabrdaya and in 1308-9, 1318-16n (prefers Inscription of Rājarāja 1159- mother to the father as heir ), 60; Kr̥takoṭibhiṣya of, by 1317, 1326 (ūha), 1328-29, Bandbūyada 1159; com. of 1336 ( differences on vital Upavarṣa 1159; com, of Deva- doctrines of Hinda Law bet. gvāmin ānd Bhavadāsa 1159. ween Mit. and Dāyabhaga ) 60; twenty chapters of, are 1431, 1438, 1468, 1597, 1637, constituted acc. to some as Mitanni ( vide under Bogozkewi, the twelve chapters asoribed Babylon, Hittite): names of to Jaimjni, plus four of San- kings and nobles from M., karṣakāṇda and four of Veda. Nazi and Syrian documents ntasātra 1160. 
 
 betray Indo-European origin, Minakshi, Dr., 2. of 'Admini 
 
@@ -4738,7 +4738,7 @@ suparnā' which oocars also in Mabörtakalpadruma of Vitthala Rg. I. 164.20 and 
 
 557, 7010 ( list of words that the ocean). stand for numerals from one Moni: (in the Bgveda) Manis to 49 ). 
 
-called Vātaraśana were said Mabūrtamārtanda of Nārāyana to have been befriended by 
+called Vātaraśana were said Mabūrtamārtaṇḍa of Nārāyana to have been befriended by 
 
 557, 614, 616, 622, 6660 ; sub- Indra 1386. 
 
@@ -5854,7 +5854,7 @@ Raksoghna hymng 813. Rajawārtanda of Bhaja, com, on Ram Mohan Roy, founder of
 
 Yogasātra 14390, 1444n, Brābmo Samaj, 1699. 1449a. 
 
-Rāma, (vide under Rāmāyana): Rajamārtanda of Bhoja (on estrological details about birth 
+Rāma, (vide under Rāmāyana): Rajamārtaṇḍa of Bhoja (on estrological details about birth 
 
 astrology and dbarmadāstra of Rama 84-85; became Lord 
 
@@ -7784,7 +7784,7 @@ rṣis), 540 (names of Mahārtas), Vāstospati, is either Indra or 649n ( on beg
 
 Rudra 790n. 
 
-guga ), 6510 (beginning of Vasta (house) : see under Krtayuga ), 6571, 6671, 678, 
+guga ), 6510 (beginning of Vasta (house) : see under Kr̥tayuga ), 6571, 6671, 678, 
 
 house'. 
 
@@ -8206,7 +8206,7 @@ ing of, came to be restricted to . 'sacred vows' and 'rules of
 
 condect,' 116; meaning of, As compared with sta and dharma 20-2; meanings of, two, generally in Sachitās other than Ṛgveda, in Brah manas and Upaniṣads 23; meaðings of, two, secondary in Brāhmaṇa times viz. 'a proper pattern of conduct' and * Upavāsa' 25; meaning of in Mahābhārata 27 ; meaning of, from first centuries of Chri stian era is a religious ander taking or vow observed on a Dertain tithi or day for securing home object by the worship of! 
 
-a deity accompanied by restrio tions as to food and behaviour 28; not to be undertaken in the midst of akauoa 48; number of vratag yas small in the first centurios A. D. 46; V, word occurs about 220 times in ga veda, 4; objects to be secured by vrata are nomerous sach 89 pony's progeby, wealth, health, pleasures, heaven and even mokṣa 55; observances for one undergoing a prata acc. to Tai. S. 23 and acc. to Tai. A. 33n; observances for king who has periormed 'Brah manah Parimarah' 25; obser Pinces for newly married pair 27 ; of brahmacario 46; offer ing in, to be clarified batter in the absence of specific pro vision, 49-50; persons of all castrs (including sūdras ) en titled to perform V.51; pre lizinaries before undertaking prata arc. to some, sooh as Viddhi-śrāddba 31-32 ; Prer tinidhi ( representative) such as son or wife may perform V. for one moable personally to perform owing to disease, accident eto, 53, 54; Raja mārtanda, the earliest extant nibandha so far known, is work on V.58; rite that con cludes a prata is called Udya papa, pārana or piraṇś 120; role of Hārita, that in every V. in which worship enters midday is the proper time 162; Saṅkalpa in V. to be made in the morning 81; Saṅkalpa of V., formula of 81; soige roles 
+a deity accompanied by restrio tions as to food and behaviour 28; not to be undertaken in the midst of akauoa 48; number of vratag yas small in the first centurios A. D. 46; V, word occurs about 220 times in ga veda, 4; objects to be secured by vrata are nomerous sach 89 pony's progeby, wealth, health, pleasures, heaven and even mokṣa 55; observances for one undergoing a prata acc. to Tai. S. 23 and acc. to Tai. A. 33n; observances for king who has periormed 'Brah manah Parimarah' 25; obser Pinces for newly married pair 27 ; of brahmacario 46; offer ing in, to be clarified batter in the absence of specific pro vision, 49-50; persons of all castrs (including sūdras ) en titled to perform V.51; pre lizinaries before undertaking prata arc. to some, sooh as Viddhi-śrāddba 31-32 ; Prer tinidhi ( representative) such as son or wife may perform V. for one moable personally to perform owing to disease, accident eto, 53, 54; Raja mārtaṇḍa, the earliest extant nibandha so far known, is work on V.58; rite that con cludes a prata is called Udya papa, pārana or piraṇś 120; role of Hārita, that in every V. in which worship enters midday is the proper time 162; Saṅkalpa in V. to be made in the morning 81; Saṅkalpa of V., formula of 81; soige roles 
 
 Indeco 
 
