@@ -1119,7 +1119,7 @@ Varna : takṣan
 
 the takṣan is a sūdra and on the same level with an ayas kāra (ironsmith) and excluded from sacrificial rites. Even 80 early as the Sat. Br. the takṣan was an unboly person ( amedhya ) and his touch made yajñapātras impure ( I. 1.3. 12). Uśanas 43 says that takṣaka is the offspring of a brāhmaṇa female from a sūcaka ( i. e. he is a pratiloma). He must be supposed to be originally different from the rathakāra (vide Tai. S. quoted above p. 43 ) who was allowed the vedic rite of adhūna or probably in the time of the smṛtis the carpenter lost his former status. According to Vaik. (X. 14 )189 the offspring of a brāhmaṇa girl from & cucuka ( sūcaka?) is a takṣaka who is untouchable or a goldsmith or blacksmith or worker in bell-metal. Bṛhaspati names the takṣaka as one whose food a brāhmaṇa could not eat. 
 
-Tantuvāya ( a weaver), also called kuyinda. He is men tioned in Visnu Dh, S. (51. 13) and Saṅkha quoted by Aparārka p. 1175. He is regarded as & śūdra by the Mahābhāsya on Pāṇ, II. 4. 10 and as excluded from sacrificial rites. 
+Tantuvāya ( a weaver), also called kuyinda. He is men tioned in Visnu Dh, S. (51. 13) and Saṅkha quoted by Aparārka p. 1175. He is regarded as & śūdra by the Mahābhāṣya on Pāṇ, II. 4. 10 and as excluded from sacrificial rites. 
 
 Tūmbūlika--seems to bave been a caste. Vide Kāmasutra I. 5. 37. Bāṇa refers to his house as stored with spices and betel. 
 
@@ -1343,7 +1343,7 @@ always associated with Sakas and several other non-Aryan tribes ; vide Sabhā. 3
 
 Rangāvatārin (or-tūraka ). According to Manu IV, 215 be is distinot from sailūṣa and gāyana. Saṅkha (quoted by Aparārka p. 1175 ), Saṅkha ( 17, 36 ) and Viṣnu Dh. S. 51. 14 mention him. According to Brahmapurāṇa (quoted by Aparārka p. 1178 ) be is a nata who goes on the stage for livelihood and who introduces various changes in his appearance and dress. Rangāvatārin is mentioned in the Maitri Up. along with nata and bhata.208 
 
-Rajaka (washerman), Dhobi is & scheduled caste in U. P., Bihar and C. P. and in Bengal (called Dhoba). He is one of the antyajas according to several writers ( vide note 170 above). Acoording to Vaikh. (X. 15) and the Sūtasambitā he is the offspring of a pulkaga ( or vaideba ) from a brāhmans woman, while according to Uśanas (18) he is the offspring of a pulkasa male from a vaisya girl. The Mahābhāsya on Pān. (II. 4, 10 ) includes him under sūdra. Yāj. II. 48 mentions him as liable to pay his wife's debts, because his livelihood depends on her, The Sūdrakamalakara mentioned another caste of rajaka ( which is the offspring of an ugra male and vaidehaks female ). 
+Rajaka (washerman), Dhobi is & scheduled caste in U. P., Bihar and C. P. and in Bengal (called Dhoba). He is one of the antyajas according to several writers ( vide note 170 above). Acoording to Vaikh. (X. 15) and the Sūtasambitā he is the offspring of a pulkaga ( or vaideba ) from a brāhmans woman, while according to Uśanas (18) he is the offspring of a pulkasa male from a vaisya girl. The Mahābhāṣya on Pān. (II. 4, 10 ) includes him under sūdra. Yāj. II. 48 mentions him as liable to pay his wife's debts, because his livelihood depends on her, The Sūdrakamalakara mentioned another caste of rajaka ( which is the offspring of an ugra male and vaidehaks female ). 
 
 202, parte primeHeftgrunirent companiet afaterrça: ...... \# F\# THEN I Asft . VII. 8. 
 

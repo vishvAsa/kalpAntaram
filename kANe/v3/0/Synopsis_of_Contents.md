@@ -13,7 +13,7 @@ of the ruler
 
 ... 55-103 Chap. IV Ministers 
 
-104-131 Chap. V Rāstra (territory of a State)... 132-177 Chap. VI Durga (capital or fort) ... 178-183 Chap. VII Kośa (Treasury or 
+104-131 Chap. V Rāstra (territory of a State)... 132-177 Chap. VI Durgā (capital or fort) ... 178-183 Chap. VII Kośa (Treasury or 
 
 finance). 
 

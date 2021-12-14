@@ -23,7 +23,7 @@ AK = Ahalyākāmadhenu (ms). BB = Bhujabalanibandha of Bhoja (ms). BHP = Bhāgav
 
 SP 
 
-MAT = Matsyapurāṇa. MB = Mahābhārata. M. Bh. = Mahābhāsya. NA = Nirnayāmṛta. Nār = Nāradapurana. NM = Nilamatapurāṇa. Nrs = Nrsimha-purāna. NS = Nirnayasindhu. Pad = Padmapurāṇa. PC = Puruṣārtha-cintāmaṇi. RM = Rājamartanda of Bhoja (ms). RNP = Rājanitiprakāśa ( part of Viramitrodaya). SM 
+MAT = Matsyapurāṇa. MB = Mahābhārata. M. Bh. = Mahābhāṣya. NA = Nirnayāmṛta. Nār = Nāradapurana. NM = Nilamatapurāṇa. Nrs = Nrsimha-purāna. NS = Nirnayasindhu. Pad = Padmapurāṇa. PC = Puruṣārtha-cintāmaṇi. RM = Rājamartanda of Bhoja (ms). RNP = Rājanitiprakāśa ( part of Viramitrodaya). SM 
 
 = Same 
 
@@ -59,7 +59,7 @@ The following list of vratas and utsavas does not claim to be thoroughly exhaust
 
 
 
-out where possible or necessary, some details are added in certain cases, and some of the works in which it is described are mentioned. The rewards promised are not generally set out, as most of them are included in the rewards mentioned on p. 55–56 above, and as they are often too numerous to specify and also for reasons of space. Similarly, tithis that are Yugādi or Yugāntya or Manvādi or Kalpādi have not all been noted as they are too many but they are enumerated in one place under the words Yugādi &c. I have made great efforts to trace the Paurāṇic quotations to their sources, but I regret that I have not been quite successful owing to several causes such as the vast extent of Purānas, owing to several recensions of the same purāna and owing to my inadvertence or sheer weariness. One feels that tracing a verse to its origin is often as difficult as finding a pin in a haystack. The author or authors of Purānas often wrote like modern advertisers of medicines, toilet articles &c. Most of the yratas are said to have been declared by divi nities like Śiva to Pārvati, by Krsna to Yudhisthira, by great sages like Mārkandeya, Nārada, Dhaumya, Yājñavalkya, Vasistha and it is often added that the Vrata is a great secret not narrated or known even to gods and goddesses e. g. Siva Tātrivrata (in HV II. 88). 
+out where possible or necessary, some details are added in certain cases, and some of the works in which it is described are mentioned. The rewards promised are not generally set out, as most of them are included in the rewards mentioned on p. 55–56 above, and as they are often too numerous to specify and also for reasons of space. Similarly, tithis that are Yugādi or Yugāntya or Manvādi or Kalpādi have not all been noted as they are too many but they are enumerated in one place under the words Yugādi &c. I have made great efforts to trace the Paurāṇic quotations to their sources, but I regret that I have not been quite successful owing to several causes such as the vast extent of Purāṇas, owing to several recensions of the same purāna and owing to my inadvertence or sheer weariness. One feels that tracing a verse to its origin is often as difficult as finding a pin in a haystack. The author or authors of Purāṇas often wrote like modern advertisers of medicines, toilet articles &c. Most of the yratas are said to have been declared by divi nities like Śiva to Pārvati, by Krsna to Yudhisthira, by great sages like Mārkandeya, Nārada, Dhaumya, Yājñavalkya, Vasistha and it is often added that the Vrata is a great secret not narrated or known even to gods and goddesses e. g. Siva Tātrivrata (in HV II. 88). 
 
 1 
 
@@ -393,7 +393,7 @@ ayanasankrānti or Visuvasankrānti when there is Vyatipāta;
 
 ekabhakta; Sun to be worshipped; gifts of sesame. Aśokāstamām(1) Cai. śu. 8 and if there be Wednesday and 
 
-Punaryasu-naksatra then special merit; worship of Durga with Aśoka flowers; one should drink water mixed with eight Asoka buds, worship of Asoka tree with the mantra 'tvām-aśoka harābhiṣtam madhumāsa-samudbhavami pibāmi śokasantapto mām-aśokam sada kuru'. KV 422 ( quotes mantra from Linga ), HK 626 (from Viṣnu), HV I 862-63 (from Linga ) and 875–76 (from Adityapurāṇa but no mantra ); KR 126-127; R. M (1379-80 ) has the mantra 
+Punaryasu-naksatra then special merit; worship of Durgā with Aśoka flowers; one should drink water mixed with eight Asoka buds, worship of Asoka tree with the mantra 'tvām-aśoka harābhiṣtam madhumāsa-samudbhavami pibāmi śokasantapto mām-aśokam sada kuru'. KV 422 ( quotes mantra from Linga ), HK 626 (from Viṣnu), HV I 862-63 (from Linga ) and 875–76 (from Adityapurāṇa but no mantra ); KR 126-127; R. M (1379-80 ) has the mantra 
 
 tvām-aśoka harābhista' and the verse Asoka-kalikāśa cāṣtau 'and BB 1734-35, both of which verses are Gar. I 
 
@@ -1423,7 +1423,7 @@ vālaka, mango leaves, two kinds of haridrā (turmeric), mustard, peacock feathe
 
 Raghuvamsa VIII, I mentions vivāhakautuka. Kramapūjā-KR 141-144 ( quoting Devi-purāṇa) deals with 
 
-worship of Durga in months from Cai. on particular tithis 
+worship of Durgā in months from Cai. on particular tithis 
 
 and naksatras and the rowards thereof. Kșiradhārāvrata,on the 1st and 5th tithis of two months one 
 
@@ -1795,7 +1795,7 @@ p. 55 yerges 670-674. Janmatithi-krtya-one should worship after bath every year 
 
 the tithi of birth Guru, gods, Agni, brāhmaṇas, parents and Prajāpati and the naksatra of birth; he should honour also Asvatthāman, Bali, Vyāsa, Hanūmat, Bibhiṣaṇa, Krpa, Paraśurāma, Mārkandeya (all deemed cirajivinaḥ) and pray to Mārkandeya 'Mārakandeya mahābhāga saptakal pāntajīvana cirajiyi yathā tvam bho bhavisyāmi tathā mune ii'; one should eat sweet food, avoid flesh, be celibate that day and drink water mixed with sesame. KKN 447, SPr. folio 50 b, KR 540-41 ( quoting Brah.), VKK 553–564, 
 
-TT 20-26, SM 175. Janmāṣtami–Vide Krspajanmāstami pp. 128–143 above. Jaya-term applied to Itihāsa, Purānas, Mahābhārata, Rāmāyaṇā 
+TT 20-26, SM 175. Janmāṣtami–Vide Krspajanmāstami pp. 128–143 above. Jaya-term applied to Itihāsa, Purāṇas, Mahābhārata, Rāmāyaṇā 
 
 &c. Vide KR 30 ( quoting Bhav.), TT 71, SmK 300. These are called Jaya because by following their teachings a man rises superior to saṇsāra jayaty-anona samsāram, as TT 
 
@@ -2235,7 +2235,7 @@ oil and donates at end of year lamps, golden disc and trident and a pair of garm
 
 NS 141 discusses several views whether pāyasa or curds should be taken though milk was to be avoided; vide VKD 
 
-77, SmK 254. Durgandha-durbhāgyanāśana-trayodasi-on Jy. śu. 13; worship 
+77, SmK 254. Durgāndha-durbhāgyanāśana-trayodasi-on Jy. śu. 13; worship 
 
 of three trees, viz. white mandāra or arka plant, red karavīra and nimba, that are favourites of the Sun; every year; 
 
@@ -2281,7 +2281,7 @@ viz. of Siva, Agni, Virūpāksa and Vayu, on four days in order in every month f
 
 Devayātrotsava-Vide NM pp. 83-84 verses 1013–1017. In the 
 
-temples of gods the Yatrotsava should be performed on certain tithis viz. on 4th in Vināyaka temple, on 6th in Skanda's, on 7th in Sun's, on 9th in Durga's, on 5th in Lakṣmi's, on 8th or 14th in Siva's, on 5th, 12th or Full moon in temples of all Nāgas, and on śukla 15th in temples of all gods; the RNP pp. 416-419 ( quoting Brah.) provides for this for six months every year from Vaisakha in the temples of gods, viz. on 1st for Brahmā, on 2nd for gods, on 3rd for 
+temples of gods the Yatrotsava should be performed on certain tithis viz. on 4th in Vināyaka temple, on 6th in Skanda's, on 7th in Sun's, on 9th in Durgā's, on 5th in Lakṣmi's, on 8th or 14th in Siva's, on 5th, 12th or Full moon in temples of all Nāgas, and on śukla 15th in temples of all gods; the RNP pp. 416-419 ( quoting Brah.) provides for this for six months every year from Vaisakha in the temples of gods, viz. on 1st for Brahmā, on 2nd for gods, on 3rd for 
 
 Ganges and so on. Devavrata--(1) When on 14th tithi there is conjunction of Maghā 
 
@@ -2787,7 +2787,7 @@ the rest.' Nirājana-duādasi-on K. śu. 12; to be performed at beginning
 
 of night when Visnu rises from sleep; waving lamps before image of Visnu and several deities such as Sun, Siva, Gaur, one's parents, cows, horses, elephants; the king should also worship all symbols of royalty collected in the court of his palace; a chaste woman or a handsome vośyā should wave lamps thrice over the king's head; this is a great śānti (propitiatory rite) and drives diseases and brings in plenty; it was first introduced by king Ajapāla and should be performed every year; HV I. 1190-1194 
 
-(from Bhav. U. ). Nirājananavami-on kr. 9th tithi ( of Āśv.?); worship of Durga 
+(from Bhav. U. ). Nirājananavami-on kr. 9th tithi ( of Āśv.?); worship of Durgā 
 
 and of arms at night; next day at sunrise this nirājana 
 
@@ -2937,7 +2937,7 @@ earth on parva days; Siva deity; reaps the fruit of Atiratra
 
 sacrifice; HV II. 906 (one verse from Pad.). Pallavas–the five auspicious pallavas are those of mango, 
 
-aśyattha, vata, plaksa and udumbara, acc. to Durgabhakti tarangini p. 27; HV I. 47 ( quoting Bhav.) says they are 
+aśyattha, vata, plaksa and udumbara, acc. to Durgābhakti tarangini p. 27; HV I. 47 ( quoting Bhav.) says they are 
 
 also called 'pañcabhangāḥ'. Pavanavrata-(one of the Şastivratas) on 8th of M. one should 
 
@@ -3059,7 +3059,7 @@ three); KKV 15-16, HV II. 524 (calls it Pura-putrada-vidhi).
 
 In HV it is not so elaborate as in KKV. Putraprāptivrata-(a) on 6th of Vai, su. worship of Skanda after 
 
-fast on 5th; tithi; for a year; Skanda has four forms (or names) viz. Skanda, Kumāra, Viśākha and Guha; one desirous of son, wealth or health secures his desire; HY 1. 628 (from Vi. Dh.); (2) on Sr. Pūrṇimā; tithi; Saṅkari (Durga) is devatā; one desirous of sons, learning, kingdom, fame should perform this; manufacture a sword or pūdukās or image of Dovī of gold or silver and on an auspicious naksatra place it on a vedi (altar) on which barley shoots have grown and homa has been performed; various fruits and flowers be offered to her; Vidyāmantra set out in HV 
+fast on 5th; tithi; for a year; Skanda has four forms (or names) viz. Skanda, Kumāra, Viśākha and Guha; one desirous of son, wealth or health secures his desire; HY 1. 628 (from Vi. Dh.); (2) on Sr. Pūrṇimā; tithi; Saṅkari (Durgā) is devatā; one desirous of sons, learning, kingdom, fame should perform this; manufacture a sword or pūdukās or image of Dovī of gold or silver and on an auspicious naksatra place it on a vedi (altar) on which barley shoots have grown and homa has been performed; various fruits and flowers be offered to her; Vidyāmantra set out in HV 
 
 II, 232; HV II, 230-233 (from Devipurāṇa). Putravrata-(1) same as 'Putra-kāmavrata' (1); HV II. 171–72; 
 
@@ -3099,7 +3099,7 @@ Adityapurāna). Purascaraṇa-saptami-on M. śu. 7, when there is Sunday and
 
 the Sun is in Makara (Capricorn); worship of Sun's image with red flowers, arghya and gandha &c.; drinking of pañcagavya; for one year; in each month, flowers, dhūpa and naivedya different; he becomes free from the effects of all sins; HV I. 805-810 (from Skanda, Nāgarakhanda). Purascaraña contains five elements, viz. japa, worship and homa, tarpana (satiating with water), abhiseka (sprinkling 
 
-or pouring water) and honouring brāhmaṇas; vide Smk 74, Purānaśravanavidhi--HV II. 997-100%. Puruṣottamayātrā-The twelve yātrās of Purusottama at 
+or pouring water) and honouring brāhmaṇas; vide Smk 74, Purāṇaśravanavidhi--HV II. 997-100%. Puruṣottamayātrā-The twelve yātrās of Purusottama at 
 
 Jagannāthapuri are described in GK pp. 183–190, viz. Snāna, Gundicā, Harisayana, Dakṣiṇāyana, Pārsvapari vartana, Utthāpanaikādaśi, Prāvaranotsava, Pusyābhiseka, Uttarayana, Dolāyātrā, Damanakacaturdaśi, Akṣayyatṣtiyā, 
 
@@ -3501,7 +3501,7 @@ and his wife and donate garments and honour them with gandha &c.; performer secu
 
 278-279. Brāhmipratipad-lābha-vrata-begin on Cai. śu. 1; fast theroon; 
 
-make a lotus of eight petals with coloured powders; on pericarp worship image of Brahmā; on the four main quarters from the east place the Rgveda and the other Vedas; on the four intermediate points from south-east place the Angas, Dharma-śāstras, Purānas and Nyāyavistara; he should worship these on 1st tithi of every month for a year and donate at end a cow; performer would be learned in Veda and if he performs for 12 years he would reach Brahma loka; Vi. Dh. III. 126. 1-12 of which verses 6-12 are q. by HV I. p. 343. The arrangement of works reminds one of 
+make a lotus of eight petals with coloured powders; on pericarp worship image of Brahmā; on the four main quarters from the east place the Rgveda and the other Vedas; on the four intermediate points from south-east place the Angas, Dharma-śāstras, Purāṇas and Nyāyavistara; he should worship these on 1st tithi of every month for a year and donate at end a cow; performer would be learned in Veda and if he performs for 12 years he would reach Brahma loka; Vi. Dh. III. 126. 1-12 of which verses 6-12 are q. by HV I. p. 343. The arrangement of works reminds one of 
 
 Yāj. I. 3. Bhadrakālīnarami-fast on Cai. śu. 9 and worship Bhadrakāli 
 
@@ -3935,7 +3935,7 @@ vrata; for a year; Durgā is deity; year divided into three : . periods of four 
 
 naivedya and the names of the goddess are different;:-per former secures all desires and Brahma-loka; KKV. 306-307, 
 
-HV I. 955-56 ( from Bhav.). Mahānayami-.(1). This is the same as Durgapūja-utsaya, for 
+HV I. 955-56 ( from Bhav.). Mahānayami-.(1). This is the same as Durgāpūja-utsaya, for 
 
 which see pp. 174-175 above and Kṛtya-kalpataru (on Rāja dharma) pp. 191-195 and RNP pp. 439-444 (both quoting 
 
@@ -4289,7 +4289,7 @@ it is Ratnaṣaṣthi or any other. Ratnāni-(jewels or precious things )-for fi
 
 Rathanavami-on 9th tithi of Āśv. śu. (acc. to KKV) or kr. 
 
-(acc. to HV); tithi; Durgā; fast on that day and worship of Durgā; on a car decked with mirrors, chowries, clothes, umbrella, garlands from flagstaffs place a golden image of Durga seated on a buffalo; the car to be drawn over the public road and taken to a temple of Durgā; illuminations; jāgara with dance and drama; next morning the image is to be bathed and the car to be presented to Devi; rewards of presenting a fine bedstead, a bull, a cow about to deliver; 
+(acc. to HV); tithi; Durgā; fast on that day and worship of Durgā; on a car decked with mirrors, chowries, clothes, umbrella, garlands from flagstaffs place a golden image of Durgā seated on a buffalo; the car to be drawn over the public road and taken to a temple of Durgā; illuminations; jāgara with dance and drama; next morning the image is to be bathed and the car to be presented to Devi; rewards of presenting a fine bedstead, a bull, a cow about to deliver; 
 
 KKV 294-298 = HV I. 946–948 (from Bhay.). Rathayātrā- car procession of a deity )-HV II. 420-424 (quot 
 
@@ -5071,7 +5071,7 @@ List of vratas
 
 419 
 
-naksatra ( KKN 388, KR 160 ). On su. 8 worship of Durga called Aparājitā after bathing image with water containing camphor and Jatāmāmsi and the performer himself should bathe with the juice of mangoes (NA 56, SmK 113); on Vai. pūrnimā, white and dark sesame were produced by Brahmā, therefore one should bathe with water mixed with them, offer in fire sesame, donate sesame and madhu ( honey) and Vessels full of sesame (KKN 388, HV II, 167–171, KR 163 164, SmK 115–116, NS 97); vide V. Dh. 90. 10 for a similar provision. The Vaisakha-pūjā of Buddha was started in Ceylon under Duttha-gāmaṇi (about 100–77 B. C.); vide ' Buddhism in Ceylon' by Walpola Rāhula (Colombo, 
+naksatra ( KKN 388, KR 160 ). On su. 8 worship of Durgā called Aparājitā after bathing image with water containing camphor and Jatāmāmsi and the performer himself should bathe with the juice of mangoes (NA 56, SmK 113); on Vai. pūrnimā, white and dark sesame were produced by Brahmā, therefore one should bathe with water mixed with them, offer in fire sesame, donate sesame and madhu ( honey) and Vessels full of sesame (KKN 388, HV II, 167–171, KR 163 164, SmK 115–116, NS 97); vide V. Dh. 90. 10 for a similar provision. The Vaisakha-pūjā of Buddha was started in Ceylon under Duttha-gāmaṇi (about 100–77 B. C.); vide ' Buddhism in Ceylon' by Walpola Rāhula (Colombo, 
 
 1956 ) p. 80. Vaistānara-vrata-(1) On 1st tithi worship Agni and offer into 
 
@@ -5715,7 +5715,7 @@ of other months; dinner of pāyasa to brāhmaṇas; he should give up one out of
 
 towards'; Mat. 96. 1-25. Sarvamangala-trayodasi-every month on śu. 13th one should 
 
-subsist by ekabhakta or nakta or observe a fast and worship three viz. Kroña, Balabhadra and Mangalā ( Durga) goddess known as ' Ankāvankā'; one overcomes all difficulties by remembering these three or worshipping the images of these 
+subsist by ekabhakta or nakta or observe a fast and worship three viz. Kroña, Balabhadra and Mangalā ( Durgā) goddess known as ' Ankāvankā'; one overcomes all difficulties by remembering these three or worshipping the images of these 
 
 444 
 

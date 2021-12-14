@@ -75,7 +75,7 @@ the deity's wrath, a calamity or an un lucky event.
 
 of Sāntis. 
 
-719-747 Chapter XXI. Individual śāntis. 748-814 Section IV. Purānas and Dharmasāstra. 815-912 Chapter XXII. Origin and development of 
+719-747 Chapter XXI. Individual śāntis. 748-814 Section IV. Purāṇas and Dharmasāstra. 815-912 Chapter XXII. Origin and development of 
 
 Purāṇa literature. 
 

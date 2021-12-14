@@ -103,7 +103,7 @@ word for a tax paid to the king is' bali'. Rg. VII. 6. 5844 and X. 173. 6 speak 
 
 · bhāga 'is ancient. We saw above (p. 112 ) that bhāgadugha is one of the ratnins of the king. The Amarakosa treats buli, kara, and bhāgn as synonymous. 
 
-The word 'sulka' generally means the tolls or customs duties levied from vendors and purchasers on merchandise carried into or out of the kingdom (Sukranītisāra IV. 2. 108). The Mahābhāsya on the vārtika āyasthanebhyasthak' on Pān. IV. 2. 104.gives saulkika and gaulmika as examples, indicating thereby that sulka or toll was levied as a source of income (āya) at the toll-gate. 
+The word 'sulka' generally means the tolls or customs duties levied from vendors and purchasers on merchandise carried into or out of the kingdom (Sukranītisāra IV. 2. 108). The Mahābhāṣya on the vārtika āyasthanebhyasthak' on Pān. IV. 2. 104.gives saulkika and gaulmika as examples, indicating thereby that sulka or toll was levied as a source of income (āya) at the toll-gate. 
 
 The principal and perennial sources of income to the state were three viz. the king's share of the produce of land, tolls and customs duties, fines levied from wrongdoers or defeated litigants (vide Santi 71.10 and Sukra IV. 2. 13). From this and from Manu X. 119-120 it appears that the principal tax-payers 
 

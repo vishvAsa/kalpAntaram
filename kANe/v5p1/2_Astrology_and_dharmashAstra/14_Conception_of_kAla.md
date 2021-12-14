@@ -129,7 +129,7 @@ Kala in Vaiśeșika system
 
 existence of Kāla are the apprehensions of a thing as posterior or prior, the apprehension of simultaneity of certain things, the apprehension of a thing as lasting long or as being momentary, that it is nitya, one and the (efficient) cause of all things that are created. Prasastapāda gives the instance of an old man and a young man being seen by a person in one place and direction or in different directions, who apprehends after looking at a young man that another man called old differs from a young man as regards a grown-up moustache or beard, wrinkles on the body and baldness and so apprehends that the old man is remote from the young man and therefore apprehends him as beyond (para) while he thinks of the young man as near, posterior and so apura. 
 
-There were certain philosophers who held that Time is either past or future and denied that there is present time (vartamāna). The Nyāyasūtra refutes this view and holds that time is either past, present or future (II. 1. 39-43). From Patañjali's 665 Mahābhāsya it appears that even in his day there were philosophers that held that there was no time called present and that those people quoted certain verses in support. 
+There were certain philosophers who held that Time is either past or future and denied that there is present time (vartamāna). The Nyāyasūtra refutes this view and holds that time is either past, present or future (II. 1. 39-43). From Patañjali's 665 Mahābhāṣya it appears that even in his day there were philosophers that held that there was no time called present and that those people quoted certain verses in support. 
 
 The Nyāyamañjart 666 of Jayantabhatta (K. S. S. 1936 ) has a long discussion on Kāla. It first sets out the views of those who deny the very existence of Kāla as a separate entity. These latter say that Kāla is not perceptible like a jar &c. and that 
 
@@ -185,7 +185,7 @@ I have confined myself to Sanskrit works and particularly to works of the Vedic 
 
 670. 315r4T ETAPTATTISGMT: 1 HTT! **I FISTAT: 1 TUELT of उमास्वाति ed. with वृत्ति of श्रुतसागरसूरि (1949, Benares) in the Janapitha Jaio-granthamālā. 
 
-Kāla in the Purānas 
+Kāla in the Purāṇas 
 
 473 
 

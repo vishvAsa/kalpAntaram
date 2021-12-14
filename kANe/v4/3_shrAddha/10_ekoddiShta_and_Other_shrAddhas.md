@@ -249,7 +249,7 @@ H. D. 67
 
 A few words may now be said about some other śrāddhas. 
 
-A well-known śrāddha is the Mahālayaśrāddha Some of the Purānas deal with this, The Padmapuržoa (Srsti-kbanda) says "In the fifth fortnight (paksa) beginning from the Full Moon day of Āsādha, one should perform a srāddha, whether the Sun is by that time in the zodiacal sign of Kanya (Virgo) or not. The sixteen days when the Sun is in Kanya are equal to the solemn sacrifices which are completed with the gift of the 
+A well-known śrāddha is the Mahālayaśrāddha Some of the Purāṇas deal with this, The Padmapuržoa (Srsti-kbanda) says "In the fifth fortnight (paksa) beginning from the Full Moon day of Āsādha, one should perform a srāddha, whether the Sun is by that time in the zodiacal sign of Kanya (Virgo) or not. The sixteen days when the Sun is in Kanya are equal to the solemn sacrifices which are completed with the gift of the 
 
 1186 b, ale auf mancata i 74 ANTENNE arman 'सपिण्डीकरणाबू पित्रोरेव हि पार्वणम् । पितृभ्यमातमातृणामेकोद्दिष्टं सदैव तु ॥ मापदं FYSATO CI' P. 304. 
 
@@ -487,7 +487,7 @@ The provision of a śrāddha for a living person offered by himself is a pervers
 
 It is customary to make a gift of a cow with a calf to a brāhmada, praferably & kapilā cow, on the 2nd day after the period of āśauca Often times this is the only cow given, and the Cow called Vaitatani referred to above (p. 183, note 427) is rarely donated in the midst of the sorrow and turmoil immediately on the death of a dear and near relative. A declaration is first made that a gift of a cow will be made and then water is poured on the hand of a brābmana. Then holding kuśas in his hand the donor makes a gift of the cow with a formula noted below 1224, The dones replies with the words 'om svasti' (Yes, inay it be well!). Then daksinā (in gold or silver coins ) is given and the brahmada says 'om svasti', holds the tail of the cow and repeats a Kāmastuti (eulogy of Kāma) 1225 according to the recension of the Veda he has studied. The Anuśāsana. parva (57. 28–29 ) eulogises the gift of a kapilā cow with the calf, given with a milking pail of bell-metal, whose horn tips are decked with gold, by stating that such a gift not only saves the donor in the other world but also bis sons, grandsons and family for seven generations. The Anuśāsanaparya (77.10 ff) sets out a legend why the kapilā cow is the best of all cows. 
 
-The Purānas and digesta devote a good deal of space to śrāddhas at tirthas and at Gayā, Vide Atri 55-58, Vāyupurāna 83. 16-42, Hemādri (on Śr.) pp. 1568 ff and 1575 ff. This sub ject will be briefly dealt with in the section on tirthaṣ. ,,, 
+The Purāṇas and digesta devote a good deal of space to śrāddhas at tirthas and at Gayā, Vide Atri 55-58, Vāyupurāna 83. 16-42, Hemādri (on Śr.) pp. 1568 ff and 1575 ff. This sub ject will be briefly dealt with in the section on tirthaṣ. ,,, 
 
 1224. ओम्। अद्याशौचान्ने द्वितीयेहि अमुकगोत्रस्य पितुरमुकतस्य स्वर्गप्राप्तिकाम: इमां कपिला गां हेमशृङ्गी रौप्यखुरा वत्रयुगच्छला कांस्योपदोहां मुक्तालाङ्गलभूषितां सरसा रुद्रदेवत्याममुकगोवायासकशमणे ब्राह्मणाय सुम्यमहं संपददे। श्राद्धविवेक नद्रधर p.77. 
 

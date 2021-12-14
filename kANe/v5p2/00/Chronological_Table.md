@@ -39,7 +39,7 @@ mini. 300 B, C.-200 B.C. -The Vārtikas of Vararuci Katya
 
 yana on Pāṇini's Grammar. 300 B, C.-100 A, D.-The Arthasāstra of Kautilya 
 
-(rather nearer the former date than the latter ). 200 B. C.-100 A. D.--The Manusmṛti. 150 B. C.-100 A, D, -The Mahābhāsya of Patañjali 
+(rather nearer the former date than the latter ). 200 B. C.-100 A. D.--The Manusmṛti. 150 B. C.-100 A, D, -The Mahābhāṣya of Patañjali 
 
 (rather nearer the former date than tbe latter ). 100 B. C.-100 A. D.-Upavarṣa, author of a commen, 
 

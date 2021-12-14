@@ -167,7 +167,7 @@ ment 7550, Duggirala Veeranna v. Duggirala Hajarimali v. Abaninath 3770.
 
 Sārasiratnam 9720. 
 
-Hanmant v. Ganosh 872. Dular Koeri v, Dwarkanath 606n, Hannaot v. Vasudev 758n. Durga Dat v, Ganesb 384, 
+Hanmant v. Ganosh 872. Dular Koeri v, Dwarkanath 606n, Hannaot v. Vasudev 758n. Durgā Dat v, Ganesb 384, 
 
 Hargobind v.-Dhapako Singh 810n. . 
 

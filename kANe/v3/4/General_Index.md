@@ -1235,7 +1235,7 @@ or daughter in marriage or succession Dronaparva 6, 8, 79, 127, 131, 134-35, was
 
 168, 205-6, 208-9, 211, 214, 232. Elepbants, do not figure much in the 6430, 945, 898, 904, 914, 
 
-figbting described in the Maha Durga (a fort or capital ) 178ff. 
+figbting described in the Maha Durgā (a fort or capital ) 178ff. 
 
 bbārata 203 ; if not well trained Durgā 368. 
 
@@ -2097,7 +2097,7 @@ Kullaka, commentator of Manusmrti drank wine 846; had spies in the
 
 Kumārāmātya, meaniog of 117, Krsnabhatta, 938, 948, 960, 966. 
 
-Kumārasambhava 229n, 9070, 916. Krsna-Dvaipāyana, author of 18 Purānas 
+Kumārasambhava 229n, 9070, 916. Krsna-Dvaipāyana, author of 18 Purāṇas 
 
 Kumārila (see under 'Tantravārtika'); 872. 
 
@@ -2913,15 +2913,15 @@ chicf justice 391 ; fines were the 388–90; rigour of p. lessened by ordinary p
 
 Purana, a silver coin 122, 420n, rivers etc. 509; for incest 533-34 ; for judges taking bribes and for minis 
 
-Purāna 10. i ters disposing of a matter wrongly 
+Purāṇa 10. i ters disposing of a matter wrongly 
 
-Purānas, are rich in Dharmasastra 386; for making breaches in a 
+Purāṇas, are rich in Dharmasastra 386; for making breaches in a 
 
 material 871; are authoritative for boundary 509; for misappropriation 
 
 all people 853; conflict between of the property of guilds and other 
 
-smrtis and Purānas 871-873; pro groups 489; for moneylenders 
+smrtis and Purāṇas 871-873; pro groups 489; for moneylenders 
 
 cedure of coronation in 72; state charging interest exceeding ratesi 
 
@@ -3751,7 +3751,7 @@ India 657 ; older than aurasa and | Sri, hymn to 77. dattaka forbidden in Kali 6
 
 Sridhara, commentator of the Bhāga of secondary sons 653 ; secondary 
 
-vata Purāna 182a, 183, 626n, 873, s. not recognized by Apastamba 643; 
+vata Purāṇa 182a, 183, 626n, 873, s. not recognized by Apastamba 643; 
 
 899. secondary s. except dattaka now 
 

@@ -11,7 +11,7 @@ The learning of Nāgojibhatta was of an encyclopaedic character. Though his spec
 
 
 
-several branches ). On dharmaśāstra he composed several works, viz. Ācārendusekhara, Aśaucanirṇaya, Tithindusekhara, Tirthendusekhara, Prayascittendusekhara or Prayascittasāra samgraha, Sraddhendusekhara, Sapiṇdimañjari and Sapindya dipikā or Sāpindyanirpaya. Of his far-famed works on the Papinian system, such as the Mahābhāsya-pradipoddyota, the Paribhāṣendusekhara, the Vaiyakarañasiddhantamañjūṣā, (in large and small recensions ), the Sabdendusekhara (big and small) and of his commentaries on the Kavyaprakāśa-pradipa, the Kuvalayānanda, the Rasagangadhara, the Rasatarangini, the Rasamañjari, nothing can be said here for want of space. 
+several branches ). On dharmaśāstra he composed several works, viz. Ācārendusekhara, Aśaucanirṇaya, Tithindusekhara, Tirthendusekhara, Prayascittendusekhara or Prayascittasāra samgraha, Sraddhendusekhara, Sapiṇdimañjari and Sapindya dipikā or Sāpindyanirpaya. Of his far-famed works on the Papinian system, such as the Mahābhāṣya-pradipoddyota, the Paribhāṣendusekhara, the Vaiyakarañasiddhantamañjūṣā, (in large and small recensions ), the Sabdendusekhara (big and small) and of his commentaries on the Kavyaprakāśa-pradipa, the Kuvalayānanda, the Rasagangadhara, the Rasatarangini, the Rasamañjari, nothing can be said here for want of space. 
 
 For his Prāyaścittendusekhara, vide Mitra's Notices vol. V, p. 23 No. 1735, where detailed contents are given ; for the Śrāddhendusekhara, Ulwar cat. extract No. 360 p. 139, for the Tirthendusekhara, Ulwar cat. p. 120, extract No. 312. 
 

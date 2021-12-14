@@ -27,7 +27,7 @@ few others. 600 B. C.-300 B. C.-Pānını 500 B, C.-200 B. C.-Jaimini's Pūrva-m
 
 sūtras 300 B. C-100 A. D.-Arthasāstra of Kautilya (rather Dearer the 
 
-former date than the latter ) 150 B. C.--100 A, D. The Mahābhāsya of Patañjalı (probably nearer 
+former date than the latter ) 150 B. C.--100 A, D. The Mahābhāṣya of Patañjalı (probably nearer 
 
 the former date than the latter) 200 B, C.-100 A, D.-Manusmrti 
 
@@ -41,7 +41,7 @@ sūtra (rather nearer the former date) 300 A. D.-500 A. D-Brbaspati-smrtı on Vy
 
 topics (not yet found) Extracts on Vyavabāra were trans lated in S B E. vol 33 and extracts on many topics of Dharma were collected by Prof. Rangasvamı Alyangar and published in 
 
-Gaikwad Oriental series 300 A D.-600 A. D—Some of the extant Purānas such as Vāyu, 
+Gaikwad Oriental series 300 A D.-600 A. D—Some of the extant Purāṇas such as Vāyu, 
 
 Visnu, Mārkandeya, Matsya, Kūrma 500 AD-550 A D-Varāhamıbıra, author of Panca-siddhāntikā, 
 
@@ -53,7 +53,7 @@ Panini's Astādhyāyi 650–700 A. D.-Kumārılabhatta, author of Tantravārtık
 
 works. 600 A. D-900 A.D-Most of the smrtis such as those of Parasara, 
 
-Saṅkha, Devala and some of the Purānas such as Agni, Garuda. 788 A. D.-820 A. D.Saṅkarācārya, the great Advaita philosopher 800 A. D.-850 A D--Viśvarūpa, the commentator of Yājñavalkya 
+Saṅkha, Devala and some of the Purāṇas such as Agni, Garuda. 788 A. D.-820 A. D.Saṅkarācārya, the great Advaita philosopher 800 A. D.-850 A D--Viśvarūpa, the commentator of Yājñavalkya 
 
 smrti 825 A D-900 A. D--Medhātıthi, a commentator of Manusmrti 966 A. D.-Utpala coinposed his commentary on the Brhajjātaka of 
 

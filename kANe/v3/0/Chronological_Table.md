@@ -27,7 +27,7 @@ Pāraskara and a few others. 600 B.C. - 300 B.C. - Pānini. 500 B, C. - 200 B. C
 
 Panini. 300 B, C, - 100 A, D. - Arthaśāstra of Kautilya. 150 B.C. - The Mahābhāṣya of Patañjali. 200 B. C. — 100 A. D. – Manusmști. 100 A. D. - 300 A. D. - Yajñavalkyasmṛti. 100 A. D. - 300 A. D. - Viṣṇudharmasūtra. 100 A. D. — 400 A. D. - Nāradasmrti. 200 A. D. -- 500 A, D. - Sabara, com. of Jaimini. 300 A. D. - 500 A. D. - Byhaspatismști on Vyavahāra (not yet 
 
-found. Extracts translated in S. B. E. vol. 33 ). 300 A. D. - 600 A, D. --- Some of the extant Purānas, such as 
+found. Extracts translated in S. B. E. vol. 33 ). 300 A. D. - 600 A, D. --- Some of the extant Purāṇas, such as 
 
 Vāyu, Viṇpu, Mārkandeya, Matsya, Kūrma. 
 

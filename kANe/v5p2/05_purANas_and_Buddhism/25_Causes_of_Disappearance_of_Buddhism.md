@@ -7,7 +7,7 @@ CHAPTER XXV
 
 Causes of the Disappearance of Buddhism from India. 
 
-At the beginning of Chapter XXIV (pp. 913-14, n 1448) above, it was stated that the Purānas had a large share in bringing about the final disappearance of Buddhism from India, the land of its birth. The disappearance of Buddhism from India was complete and seemed to be sudden and is a com plex problem. No single cause, nor even a few causes oan fully account for this phenomenon. A combination of causes, both internal and external, must have been in operation for a pretty long time to bring about this remarkable event. It may be admitted that some of the causes are more or less conjectural. In the first quarter of the 5th century A. D. Fa-Hian found Buddhism in a flourishing condition in India, while in the first half of the 7th century A.D. Yuan Chwang appears to say that the decline of Buddhism had set in. It-sing found Buddhism very much on the decline in the beginning of the 8th century A.D. An attempt will be made here to discuss briefly the goveral causes that have been put forward by scholars for explaining the almost total disappearance of Buddhism from India. A few of the contributions bearing on this subjeot may be noted here. 'Religions of India' by A. Barth, translated by J. Wood (1882) pp. 133-139; Journal of Pali Texts Society (1896 pp. 87-92) on *Persecution of Buddhists in India' by Rhys Davids; Kern's 'Manual of Buddhism'(in the German Grundriss pp. 133-134); 
+At the beginning of Chapter XXIV (pp. 913-14, n 1448) above, it was stated that the Purāṇas had a large share in bringing about the final disappearance of Buddhism from India, the land of its birth. The disappearance of Buddhism from India was complete and seemed to be sudden and is a com plex problem. No single cause, nor even a few causes oan fully account for this phenomenon. A combination of causes, both internal and external, must have been in operation for a pretty long time to bring about this remarkable event. It may be admitted that some of the causes are more or less conjectural. In the first quarter of the 5th century A. D. Fa-Hian found Buddhism in a flourishing condition in India, while in the first half of the 7th century A.D. Yuan Chwang appears to say that the decline of Buddhism had set in. It-sing found Buddhism very much on the decline in the beginning of the 8th century A.D. An attempt will be made here to discuss briefly the goveral causes that have been put forward by scholars for explaining the almost total disappearance of Buddhism from India. A few of the contributions bearing on this subjeot may be noted here. 'Religions of India' by A. Barth, translated by J. Wood (1882) pp. 133-139; Journal of Pali Texts Society (1896 pp. 87-92) on *Persecution of Buddhists in India' by Rhys Davids; Kern's 'Manual of Buddhism'(in the German Grundriss pp. 133-134); 
 
 Buddhist India' by Rhys Davids (1903, pp. 157-158, 819 ); I. H. Q. Vol. IX pp. 361–371 (where the causes of the disappear ance of Buddhism emphasized by M. M. Haraprasad Shastri are enumerated ); "The sum of History' by René Grousset, trans lated by A. and H. Temple Patterson pp. 101-105 (Tower Bridge Publications, 1951); The Decline of Buddhism in India' by Dr. R. O. Mitra (1954), particularly pp. 125-164; 'Life and Teaching of Buddha' by Devamitta Dharmapala (G. A. Natosan & Co., Madras, 1938); 2500 years of Buddhism' edited by Prof. P, V. Bapat, 1956 pp. 360-376; The Path of the Buddha' by Prof. Kenneth W. Morgan pp. 47-50 (New York, 1956); 'How. Buddhism left India' by N. J. O'Connor, Ralph Fletcher Seymour, Chicago (1957). 
 
@@ -269,7 +269,7 @@ of the Narguināma (probably some to be followed is the
 
 1653. यान्तु देवगणाः सर्वे पूजामावाय पार्थिवात् । सिद्धि दत्वा तु विपुला पुनरा. WITH \#TERT. 47. 49. 
 
-Changes introduced by Purānas 
+Changes introduced by Purāṇas 
 
 1025 
 
@@ -305,7 +305,7 @@ Great praise of householder stage
 
 1027 
 
-gradually led on to the loss of physical and mental virility to idleness, base morala and race suicide, Manu III. 77-78, VI 89-90, Vas. Dh. S. VIII. 14-17, Visnu Dh. 8. 59, 29, Daksa II. 57-60 and many other sages and writers praise the stage of householder as the highest. 1655 The Mahābhārata (Santi 270. 6–11) and the Rāmāyana, Ayodhyā 108, 2) and the Purānas also sing the same tune; vide H. of Dh. vol. II, pp. 425– 426 and 540-541. 
+gradually led on to the loss of physical and mental virility to idleness, base morala and race suicide, Manu III. 77-78, VI 89-90, Vas. Dh. S. VIII. 14-17, Visnu Dh. 8. 59, 29, Daksa II. 57-60 and many other sages and writers praise the stage of householder as the highest. 1655 The Mahābhārata (Santi 270. 6–11) and the Rāmāyana, Ayodhyā 108, 2) and the Purāṇas also sing the same tune; vide H. of Dh. vol. II, pp. 425– 426 and 540-541. 
 
 Not only Dharmaśāstras but also great poets like Kālidāsa emphasized the supreme importance of the householder's stage to society. In the Raghuvamsa 1656 (V. 10) king Raghu says to a learned brābmana student it is now time for you to pass on to the second stage of life that is capable of being useful to (mon of) other asramas'. In the Sākuntala also Kālidāga harps on the same idea. 
 

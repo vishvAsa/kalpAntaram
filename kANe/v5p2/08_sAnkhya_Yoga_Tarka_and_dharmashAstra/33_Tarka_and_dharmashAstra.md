@@ -13,7 +13,7 @@ Both the Nyāyasūtra and the Vaiśeṣikasūtra of Kanāda postulate that 'nih�
 
 One of the earliest occurrences of the word tarka is in the Kathopaniṣad 2421 where it is declared "This knowledge about the Self) cannot be obtained by (mere) ratiocination' and the previous verse states that the Self is subtler than the subtlest and not capable of being understood by mere inference or reasoning. The word 'mantavyaḥ' in the passage 2412 • Ātmā vā are drastavyaḥ śrotavyo mantavyo' (in Bṭ. Up. II, 4. 5 and IV.5.6) is held by the objector (in bhāsya on V. S. I. 1. 2) and also by Saṅkarācārya as referring to tarka on V.S. II. 1.4. Tarka is accepted as an anga of Yoga in the Maitrāyaṇi Up. (vide note 2327 above), which further quotes a passage stating that by the control of speech, mind and prāṇa one apprehends brahman 
 
-2409. Some works read the verse as 'Purāna-tarka-mināmsa'; vida pote 1337 for the verse, 
+2409. Some works read the verse as 'Purāṇa-tarka-mināmsa'; vida pote 1337 for the verse, 
 
 2410. sprat ur but YTEUTA: 1 valsgaga:TAAR: \# : 1 prayer कर्मसामान्यविशेषसमवायानां पदार्थानां साधर्म्यवैधाग्या तत्वज्ञानं निःश्रेयसदेतः । a I. 1. 2 and 4; FRIOTAT FETT Tra-em-ferraraya faofa. वादज्ञानवितण्डाहेत्वाभासच्छलजातिनिग्रहस्थानानां तत्वज्ञानाशिःश्रेयसाधिगमः । भ्यायसूत्र 1. 1. 1. The word faith occurs in 'ator (a long sūtra) in 97. and in elfraegnage II, 14 and III. 2. 
 

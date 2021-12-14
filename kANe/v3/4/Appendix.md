@@ -77,7 +77,7 @@ at p. 52 and Mallasarul plate of Vijayasena in E. I. XXIII
 
 'agrahārin'. Vide E. I. XXIV at p. 127 for a note on 'agrahāra'. 
 
-One who communicates at the order of the king the details about a landgrant to local officers (probably the same as dutaka). This word ocours in some of the earliest Ins. of Pallaya Sivaskandavarman (in E. I. VI p. 84 at p. 88 ). Vide algo E I. VIII at p. 146 (plates of the great Pallava queen Cārudevi), JBBRAS vol. X p. 365 of fake 532 (where the ājāapti is Durgapati), E. I. XII p. 3, E. I. XV p. 70 (plate of Sundara Cola). In the grant of the eastern Calukya king Amma II we have 'ajñaptih katakādhigo bhattadevasca lekhakaḥ' (E. I. VII at p. 188 ). Vide p. 184 
+One who communicates at the order of the king the details about a landgrant to local officers (probably the same as dutaka). This word ocours in some of the earliest Ins. of Pallaya Sivaskandavarman (in E. I. VI p. 84 at p. 88 ). Vide algo E I. VIII at p. 146 (plates of the great Pallava queen Cārudevi), JBBRAS vol. X p. 365 of fake 532 (where the ājāapti is Durgāpati), E. I. XII p. 3, E. I. XV p. 70 (plate of Sundara Cola). In the grant of the eastern Calukya king Amma II we have 'ajñaptih katakādhigo bhattadevasca lekhakaḥ' (E. I. VII at p. 188 ). Vide p. 184 
 
 of the same for a discussion of the meaning. 35-a synonym of 3 . Vide Parle plate of Indravarman in 
 
@@ -267,7 +267,7 @@ century ). I9qOfficer over five or ten villages. Vide Kaut. II. 35 and
 
 p. 143 above. 
 
-Superintendent of woods and forests' ( Fleet). The word occurs in Gupta Ing. No. 12 p. 47 at p. 50, in the Nalanda plate of Devapāla (E. I. XVII at p. 321), Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306 ), in the grant of Lakṣmaṇasena (E. I. XII p. 6 at p. 9). The word is formed from 'gulma' acc. to Vartika 13.( ayasthanebhyaṣthaka ) on Pāṇini IV. 2. 104. Vogel (p. 127) boldly asserts that ' the words saulkika and gaulmika are unknown in Sanskrit Literature' in spite of Bühler's note in E. I. vol. I p. 2 at p.7 that saulkikas are frequently mentioned in inscriptions. But saulkika also occurs in Yāj. II. 173 and both words occur in the Mahābhāsya. Gulma means a post of guards. Vide p. 141 above. The word 'gumike' read in the grant of Pallava Sivaskandavarman (E. I. vol. I p. 2 at p. 5) is 
+Superintendent of woods and forests' ( Fleet). The word occurs in Gupta Ing. No. 12 p. 47 at p. 50, in the Nalanda plate of Devapāla (E. I. XVII at p. 321), Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306 ), in the grant of Lakṣmaṇasena (E. I. XII p. 6 at p. 9). The word is formed from 'gulma' acc. to Vartika 13.( ayasthanebhyaṣthaka ) on Pāṇini IV. 2. 104. Vogel (p. 127) boldly asserts that ' the words saulkika and gaulmika are unknown in Sanskrit Literature' in spite of Bühler's note in E. I. vol. I p. 2 at p.7 that saulkikas are frequently mentioned in inscriptions. But saulkika also occurs in Yāj. II. 173 and both words occur in the Mahābhāṣya. Gulma means a post of guards. Vide p. 141 above. The word 'gumike' read in the grant of Pallava Sivaskandavarman (E. I. vol. I p. 2 at p. 5) is 
 
 correctly held by Bühler to stand for 'gaulmika'. Happy Village scribe. Occurs in Rājat. V. 175.. are-Village headman. Vide p. 154 for reference from 
 

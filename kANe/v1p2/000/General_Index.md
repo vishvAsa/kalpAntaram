@@ -551,7 +551,7 @@ Bhāsyārthasaṁgrahakāra, p. 738. Bhattabhālūka, p. 817. Bbattacharya, Dr. 
 
 388, 389, 4381., 630, 772 etc.; 
 
-criticized, pp. 768–70, 883–84. Bhattacharya, Dr. Durgamohan, pp. 
+criticized, pp. 768–70, 883–84. Bhattacharya, Dr. Durgāmohan, pp. 
 
 625, 627. Bhattacharya, Prof. Dineshcandra, 
 
@@ -2085,7 +2085,7 @@ minantly a Vaisnavite work, p. Madanavinodanighantu, p. 801.
 
 472-73, 483. 379, 448, 460, 562, 778–792; iden 
 
-Mahābhāsya, pp. 13n., 75, 77, 210n., tical with Vidyaranya, p. 808; 
+Mahābhāṣya, pp. 13n., 75, 77, 210n., tical with Vidyaranya, p. 808; 
 
 247, 330, 359, 360, 365, 391, 403, personal history of, pp. 775-790; 
 
@@ -2099,7 +2099,7 @@ date of, generally accepted to be Madhavamantrin, p. 791.
 
 the seeds of all nyayas, p. 76. Madhavasvamin, p. 770n. 
 
-Mahābhāsyapradipoddyota, of Na. Madhavayajvan, commentator of goji, p. 964. 
+Mahābhāṣyapradipoddyota, of Na. Madhavayajvan, commentator of goji, p. 964. 
 
 Kauṭiliya, p. 247. 
 
@@ -2559,7 +2559,7 @@ Haradatta, pp. 747, 748.
 
 Pārini, pp. 76, 77, 189, 200; men Padmapurāṇa, pp. 103, 126, 404, tions ten predecessors and spcaks 
 
-412, 415, 715; speaks of 14 Manus, of eastern and northern ācāryas, p. 317; Rāma story in, p. 108; pp. 78, 79; resident of north-west gives three-fold classification of India, pp. 78, 79, date of, pp. 79, Purānas, p. 416. 
+412, 415, 715; speaks of 14 Manus, of eastern and northern ācāryas, p. 317; Rāma story in, p. 108; pp. 78, 79; resident of north-west gives three-fold classification of India, pp. 78, 79, date of, pp. 79, Purāṇas, p. 416. 
 
 81n.; time for, p. 41; called Padyasangraha, of Manirāma, p. 903. 
 

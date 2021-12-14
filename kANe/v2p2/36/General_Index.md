@@ -635,7 +635,7 @@ sipta, 110. Baudh&yana-pits-modhasutra, 688,
 
 143. Bengal, widows in, entitled to rights of property oven in joint Hindu family under Dayabhaga, 635; 
 
-worship of Durga in, 739. Bhagat, M. G., 179n. Bhagavad-gita, 9, 60, 97, 423, 746n, 
+worship of Durgā in, 739. Bhagat, M. G., 179n. Bhagavad-gita, 9, 60, 97, 423, 746n, 
 
 946. Bhagavata-purana, 9, 87, 155n, 176, 
 
@@ -1373,7 +1373,7 @@ Drābydyana-frauta-sutra, 2400,9889, sacrifice of goat or buffalo for, 739;
 
 1134, 1145n, 1168, 1185, 1196n. stated to be fond of blood and Draupadi: according to Kumārila, wine, 738; worship of, 738-739. 
 
-there wore really five wivos of Durgarcana puudbati of Raghunan. the Pāṇda vas very similar to each 0808, 739. othor, 655; svayarrara of, 523; Durva, plant favourite of Viṣnu, 732. wife of five brothora, 554. 
+there wore really five wivos of Durgārcana puudbati of Raghunan. the Pāṇda vas very similar to each 0808, 739. othor, 655; svayarrara of, 523; Durva, plant favourite of Viṣnu, 732. wife of five brothora, 554. 
 
 Dutt, N. K., 168. Dravidag, 84; Maou's viow about, 47. Dvadasaba, & Soma sacrifice, 1213 Drinking (liquor ), 792-798; 8c0 14; is both an ahina and a sattra, 
 
@@ -1431,7 +1431,7 @@ women in ancient India, 365-368; Durbbara, 102.
 
 oral instruction persisted in be Durbrābmaṇa, who is, 1080. 
 
-cause it was cheap and ensured Durga, eighth of bright half of Assina accuracy, 348 ; originally father 
+cause it was cheap and ensured Durgā, eighth of bright half of Assina accuracy, 348 ; originally father 
 
 Bacred to, 138; Devluahatmya, taught his son, 321; prejudico principal text of worshippers against Coarning from books in of, 738; killod Mahiṣāours, India, 347, 349; salient features 638; metallic stone used in wor of system of, in ancient India, ship of, 716; Dimes of, 738 ;' 369-370; subjects of study, 362;1302 
 
