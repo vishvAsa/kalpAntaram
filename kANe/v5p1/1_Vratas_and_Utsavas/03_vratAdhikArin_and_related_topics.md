@@ -19,7 +19,7 @@ One important matter is that of vratādhikāriṇaḥ (persons entitled to engag
 
 
 
-[Sec. I, Ch. III 
+
 
 could perform an independent vrata for herself. The digests are supported in this view by the sūtra of Saṅkha-Likhita 127 that it is the rule for women that they should practise vratas, fasts, restrictive observances and worship (or sacrifices ) with the con sent of their husbands. The Lingapurana 128 provides : with the bidding (i.e. permission) of their husbands, women should per form japa, gifts, tapas and all else. Opinion was divided whether a woman could get homa performed through another. About the incapacity of women for mantras,129 vide Manu II. 66, IX. 18 and Yāj. I. 13. The Vyavahāramayukha following Parāśara held that a sūdra could get the homa in adoption130 performed through a brāhmaṇa and that the same rules apply to women and śūdras and therefore a woman could get a homa required in vrata per formed through a brāhmana. Rudradhara (author of Suddhi viveka) and Vācaspati held that a woman and a sūdra have no right to perform homa with Vedic mantras. The Nirnayasindhu131 supports the Vyavahāramayūkha on the question of homa in a vrata to be observed by a woman. But it appears that Nila kantha, author of the Vyavahāramayūkha, was of a different opinion when composing the Prāyaścittamayūkha.132 Vide H. of Dh. vol. IV. p. 78 note 186 on this point. It is provided in the Matsya that a woman who is pregnant or is recently delivered of a child should only observe nakta instead of a fast and a 
 

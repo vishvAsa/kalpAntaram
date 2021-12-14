@@ -77,7 +77,7 @@ XII. 5. 20 and 55.
 
 
 
-[Sec. I, Ch. II 
+
 
 "14-E 
 
@@ -173,7 +173,7 @@ rah (tave ) I. p. 6. 66. नित्यस्नायी मिताहार
 
 
 
-[Sec. I, Ch. II 
+
 
 should be remembrance of Nārāyana and namaskāra to him, as laid down by Yogiyājñavalkya. There is difference of opinion about the worship of Ganesa.68 The Vratakālaviveka quotes the Padmapurāṇa for the order in which the several deities are to be worshipped and honoured after sankalpa and refutes the idea that the worship of Ganesa should always precede the worship of other deities. Though the general rule is that69 the sankalpa of a vrata is to be made in the morning, still there are some passages to the contrary. For example, the Bhavisyapurāṇa70 (Uttara 11. 6-8) provides that on the evening of Āsādha Full Moon one should declare a resolve as follows “from tomorrow for one month in Srāvana, I shall take a bath, observe brulmacarya, take one meal only after evening, sleep on the ground, will be compassionate to all living beings'. 
 
@@ -289,7 +289,7 @@ S
 
 
 
-[Sec. I, Ch. II 
+
 
 the deaf. 92 Vide also Kalpataru (on vrata) p. 390 (on Hari vrata), p. 391 (on Pātravrata), p. 397 (Mahāvrata), Hemādri and Krtyaratnakara p. 481 on Sivaratrivrata, Krtyaratnakara p. 461 (on Mitrasaptami). The Bhavisya (Uttara, 22. 33-34)93 recommends that one observing a vrata should provide food for the blind, the distressed and the helpless according to his means, As in the case 94 of śrāddhas, particularly at Gayā, the Purāṇas often enjoin lavish expenditure on vratas and condemn stinginess or spending less on them than one is able to spend. Vide Matsya 100.36. The Bhavisyottara 95 on Ubhayadvādaśīvrata states the performer of Ubhayadvādaśīvrata being solely devoted to Krsna should not be tricky (spend less) in spending wealth'. In respect of Aviyogaprata the Kālikā-purāna provides the performer free from trickiness about wealth should give an equivalent to the brāhmaṇas or the couple if he is unable (to give pearls and precious stones)'. Vide also Padma VI. 39. 21, Matsya 62. 34, 93. 109,95. 32,98. 12. 
 
@@ -321,7 +321,7 @@ H. D.6
 
 
 
-[Sec. I, Ch. II 
+
 
 should be rejected. For example, the Agnipurana100 ( in 175. 12) first states that ksara, lavana, honey and flesh should be eschewed in vrata, then (in 175. 13-14) includes among ksāra all cereals in pods except sesame and mudga, and among corn wheat and kodravas and several others are included in kṣāra group (i. e. they are to be eschewed in Vrata) and proceeds (175. 14-15) 'rice, sastika (corn that ripens in sixty days from the date of sowing), mudga, kalaya (peas), sesame and yava, śyāmāka (millet), nivāra (wild rice grains), wheat and others are beneficial (i. e. allowed) in vratas, while one should give up (in vrata) kūṣmānda (pumpkin gourd), alābu (bottle gourd), vārtāka (egg plant), pālanki (a kind of vegetable) and pūtikā. The Padmapurāṇa 102 provides that one who is observing nakta vrata must observe six things, viz. havisya meals, bath, truthful ness, small quantity of food, worship of Agni and sleeping on the ground (not on a cot). The Bhujabala 102 says: all should avoid while observing vrata the use of bell metal (vessel), flesh, masura, gram, kodrava, vegetables, honey and the food cooked in another's house. Harita lays 103 down what should be avoided on the day of vrata: one should avoid on the fast day talk with one guilty of heavy sins, heterodox sectarians and atheists and speak ing what is untrue and obscene. The Sāntiparva says 'one engaged in vrata should not converse with women, sūdras and patita'. The Bșhadyogi-Yājñavalkyasmrti 104 observes: one 
 
@@ -409,7 +409,7 @@ e ao tetaan ta ). euro (on a) p. 4 has got an TTAT ART &c. क्रोधात
 
 
 
-[Sec. I, Ch. II 
+
 
 a person, having first undertaken a vrata, does not carry it out, being led away by some desire, he while alive becomes (i. e. is to be treated as) a cāndāla and after death becomes a dog'. In such a case where through greed, infatuation or inadvertence a man is guilty of breaking his vrata, he has to undergo three days' fast and also shave his head and then begin the vrata (the remainder acc. to Nirnayasindhu, the whole of it acc. to Sula pāṇi). The Varāhapurāṇa states that man who undertakes a vrata on ekadasi day but does not, owing to foolishness, finish it, reaches a very evil state'. 
 

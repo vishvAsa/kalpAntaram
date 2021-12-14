@@ -279,7 +279,7 @@ y as in fil. a. f. p. 321 ( fr being addressed to F).
 
 
 
-[Sec. I, Ch.x 
+
 
 On this day also there should be illuminations. It is said "by lightings24 lamps during (the day of) Bali's domination Lakṣmi becomes stable; this is called Dīpāvali because there is waving of lights in this festival. Having reached (the day of) Bali's domination how will lamps be burning in the houses of those who do not observe the festival of the rows of lamps?' 
 

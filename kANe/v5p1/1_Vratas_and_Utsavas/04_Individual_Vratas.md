@@ -171,7 +171,7 @@ FEAT' from .
 
 
 
-[Sec. I, Ch. TV 
+
 
 is narrated230 that she married Satyavat whose death at the end of one year was predicted by the sage Nārada and that three days before the time indicated by Nārada she undertook a fast, accompanied her husband into the forest where he had gone to collect firewood, flowers and fruits as his blind father had lost his kingdom and that she had an argument with Yama the God of Death, who became so pleased with her that he gave her several boons and ultimately ber husband that had died as predicted was restored to life. The Bhavisyapurāna account of the story of Sāvitri is cited at great length in Krtyaratnākara (pp. 264-278). Hemādri (on vrata II pp. 258–272) sets out a vrata called Brahma-Sāyitrīvrata from Bhayisyottara which contains the story of Sāvitri as in the Mahābhārata and Matsya and also (vol. II pp. 272-279) a Vatasāvitrīvrata from Skanda. But the first was performed for three days from the 13th tithi to Full Moon in Bhādrapada month and not in Jyestha, while the 2nd was to be performed on Jyestha Full Moon by a woman whose husband was living or even by a sonless widow. This last is called Mahā savitrivrata by the Vratakālaviveka (p. 20 of I. H. Q. vol. 17 No. 4 supplement). 
 

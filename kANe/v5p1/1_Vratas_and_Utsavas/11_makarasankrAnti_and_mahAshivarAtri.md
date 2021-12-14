@@ -163,7 +163,7 @@ ___565. स्कान्दे । धेनुं तिलमयीं र�
 
 
 
-[Sec. I, Ch. XI 
+
 
 A person should also observe a fast for three days or one day in honour of Makara-sankranti 567. A man who fasts for three days and after a bath offers worship to the Sun on ayana (i.e. start of Sun's apparent passage to the north or south), on Visuya day and on the eclipse of the sun or the moon secures the fulfilment of all his desires'. Apastamba says 'A man who after a bath fasts the whole day on ayana, Viṣuva and an eclipse of the sun or moon becomes free from all sins. But a house holder that has a son living was not to observe a fast on a Sunday, on sankranti and on the Sun's and Moon's eclipse'. 
 
@@ -445,7 +445,7 @@ In the Lingapurāṇa as quoted in the Vratarāja ( pp. 573– 586 ) there is th
 
 
 
-[Sec. I, Ch. XI 
+
 
 who and the family of the buck ultimately became transformed 
 

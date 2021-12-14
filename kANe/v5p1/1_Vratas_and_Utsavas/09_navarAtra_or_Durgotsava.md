@@ -105,7 +105,7 @@ tithi of Aśvina bright half and then the bodhana will be on the 6th of the brig
 
 
 
-[Sec. I, Ch. IX 
+
 
 If he starts Durgāpājā-utsava from the 6th tithi either conjoint with Jyesthā-naksatra or without it he should go in the morning near a bilva tree, should utter the sankalpa noted below,412 repeat Rg. VII. 16. 11, establish a ghata, should worship the bilra tree as Durgā. If he has already started the utsava on pratipad, then he should go near a bilva tree in the evening conjoint with Jyesthā or without it (and even if ṣasthi has expired before evening, then in the evening without sasthi) and rouse Devī with the mantra 413 ‘for the destruction of Rāvana and in order to favour Rāma, Brahmā, O goddess, in former times roused you at an unusual time; therefore, I also awaken you in the evening of the 6th tithi of Aśvina.' After thus awakening Devi he should invite the bilva treo with the words "O bilva tree! born on the top of Srisaila and the abode of Lakṣmi, I have to take you; come, you are to be worshipped as Durgā.' Then he should, after taking each of the substances mentioned below and accompanying each with a mantra, place them on the bilva tree and make it an auspicious dwelling place for Durgā. The substances for making a holy 414 residence for Devi are; earth or clay, sandalwood paste, pebbles, coriander, dūryā grass, flowers, fruits, curds, ghee, svastika, vermilion, conch-shell, collyrium, rocana. (yellow pigment), mustard seeds, 
 
@@ -163,7 +163,7 @@ probably refers to a which was held to be a siga of beauty among women or it mea
 
 
 
-[Sec. I, Ch. IX 
+
 
 or with flowers and sandalwood paste with separate mantras for each of the nine plants (mentioned in note 415) in the form 'Hrim, om, kadalisthāyai brahmanyai namah' and so on (Durgārcanapaddhati 419 p. 669). Then he should worship Durgā with pādya and other upacāras 420 and offer a kid or the like as an offering. The kid or he-buffalo should be dark and should be at least five years old.421 
 

@@ -139,7 +139,7 @@ mi
 
 
 
-[Sec. I, Ch. VII 
+
 
 Moon was in the sign of the Bull (Taurus) and there was Rohiṇi naksatra' (verses 74-75), when on the 8th of the dark half of Sravana there is Rohini-naksatra, the tithi is called Jayanti; if a man observes a fast on that tithi, that destroys his sins committed in childhood, youth, old age and many previous lives.' The result is that if there be no Rohiṇi naksatra on Śrāvana dark half sth, it is simply Janmāstamī, but when Rohini is joined to dark 8th of Srāvaṇa it is Jayanti. The Rājamārtanda has two verses on this.334 
 

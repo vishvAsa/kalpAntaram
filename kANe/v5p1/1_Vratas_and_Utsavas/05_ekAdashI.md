@@ -97,53 +97,114 @@ It has to be further noted that these restrictions [^244] do not apply to profes
     तुल्ये ते मन्यते यस्तु स वै वैष्णव उच्यते।  
     ए. त. p. 38. हे. (on काल p. 181) quotes this verse from तवसागर. 
 
-On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādasi has been indulged in by many Purāṇas and digests. In the Nārada-purāna there is a long passage on the greatness (māhātmya) of Ekādasi (quoted in Hemādri on Kala p. 146 and Kalanirnaya pp. 273-274). A few of the verses may be cited here; 'by the fire arising from (the observance of) ekādasi, fuel in the form of sins committed in hundreds of past lives is reduced to ashes. Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādasi. This ekādasi bestows heaven and mokṣa, confers a kingdom and sons (on a man) and a good spouse and the health of the body. The Ganges, Gaya, Kasi, Puskara, Kuruksetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'. Similar verses occur in the Padmapurāna.245 The Anu Sasanaparva 246 pronounces on Upavasa. an exaggerated eulogy. The Padma 247 declares 'on hearing the word ekadasi, the mes sengers of Yama become afraid; having fasted on ekādaśī which is the best among all vratas, one should keep awake (in the night) for propitiating Visnu and should sumptuously decorate the temple or manda pa of) Visṇu. The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.248 The Varahapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. The Padma narrates the story of a woman, who was always quarrel some and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast 249 (not under 
+## Praise
 
-245. अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162). 
+On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādasi has been indulged in by many Purāṇas and digests. In the Nārada-purāna there is a long passage on the greatness (māhātmya) of Ekādasi (quoted in Hemādri on Kala p. 146 and Kalanirnaya pp. 273-274). A few of the verses may be cited here; 
 
-___ 246 मासोपवासी वस्तु दशभिः स्वर्गमुत्तमम् । महर्षित्वमथासाद्य सशरीरगतिर्भवेत् । ... दि गत्वा शरीरेण स्वेन राजन्यधामरः । अनुशासन 107. 136, 137, 139. 
+> 'by the fire arising from (the observance of) ekādasi,  
+> fuel in the form of sins committed in hundreds of past lives is reduced to ashes.  
+> Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādasi.  
+> This ekādasi bestows heaven and mokṣa, confers a kingdom and sons (on a man) and a good spouse and the health of the body.  
+> The Ganges, Gaya, Kasi, Puskara, Kuruksetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'. 
 
-247. श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मत्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4. 
+Similar verses occur in the Padmapurāna.[^245] The Anuśāsanaparva [^246] pronounces on Upavasa. an exaggerated eulogy. The Padma [^247] declares 
 
-248. तस्यामनग्निपक्काशी यो भवेलियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्व प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति). 
+> 'on hearing the word ekadasi, the messengers of Yama become afraid;  
+> having fasted on ekādaśī which is the best among all vratas,  
+> one should keep awake (in the night) for propitiating Visnu and should sumptuously decorate the temple or mandapa of) Visṇu.  
+> The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.
 
-249. निराहारकृताद्वै च निर्मला सा बभूव ह । पन, ब्रह्मखण्ड, 13. 53. 
+245. अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162).
 
-Rules for observers of Elūdasi 
+___ 246 मासोपवासी वस्तु दशभिः स्वर्गमुत्तमम् । महर्षित्वमथासाद्य सशरीरगतिर्भवेत् । ... दि गत्वा शरीरेण स्वेन राजन्यधामरः । अनुशासन 107. 136, 137, 139.
+
+247. श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मत्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4.
+
+[^248] The Varahapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. 
+
+248. तस्यामनग्निपक्काशी यो भवेलियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्व प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति).
+
+The Padma narrates the story of a woman, who was always quarrelsome and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast [^249] (not under taken cheerfully and willingly, but out of angor) became pure. The Garudapurāna declares [^250] (if one places) on one side (in one pan) the gift of the whole world and on the other side (in another pan) the day of Hari, this ekādasi is more holy and superior. The ekādasi in Aṣādha sukla is called mahā-ekādasi and also Sayani.
+
+[^249]: निराहारकृताद्वै च निर्मला सा बभूव ह । पन, ब्रह्मखण्ड, 13. 53. 
+[^250]: एकतः पृथिवीदानमेकतो हरिवासरः। ततोप्येका महापुण्या इयमेकादशी वरा। गरुड I. 127. 12.
 
 99 
 
-taken cheerfully and willingly, but out of angor) became pure. The Garudapurāna declares :250 (if one places) on one side (in one pan) the gift of the whole world and on the other side (in another pan) the day of Hari, this ekādasi is more holy and superior. The ekādasi in Aṣādha sukla is called mahā-ekādasi and also Sayani. 
 
-General rules about those who have the adhikīra to under take vratas have already been dealt with above. But some rules meant specially for the observers of ekādaśī will be set out here. Nārada 250a provides 'A human being who is more than eight years old and is less than eighty years in age incurs sin if he eats food on ekādaśī through foolishness.' Kātyāyana has a similar verse. These two establish that every human being of whatever caste or ūsramı can observe ekādaśī provided he fulfils the conditions as to age laid down in the verses. 
+## Rules for observers of Elūdasi
 
-Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa 251 says 'roots, fruits, milk and water may be partaken of (on ekadasi) by great sages, but no sages have said that on ekādaśī cooked food may be taken'. The Vayupurana 252 provided 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i. e. in ekadasi) more commendable (than each preceding one)'. Baudhāyana 253 declares that those who are unable to observe a 
+General rules about those who have the adhikīra to undertake vratas have already been dealt with above. But some rules meant specially for the observers of ekādaśī will be set out here. Nārada [^250a] provides 
 
-250. एकतः पृथिवीदानमेकतो हरिवासरः। ततोप्येका महापुण्या इयमेकादशी वरा। गरुड I. 127. 12. 
+> 'A human being who is more than eight years old and is less than eighty years in age incurs sin if he eats food on ekādaśī through foolishness.' 
 
-250 a. अत्र नारदः। अष्टान्दादधिको मयों ह्यपूर्गाशीतिहायनः। भुंक्ते यो मानवो मोहादेकादश्यां स पापकृत् ॥ इति, कात्यायनपि। अष्टवर्षाधिको मत्यो हाशीतिन्यूनवत्सरः । एकादश्यामुपवसेद् पक्षयोरुभयोरपि॥ का नि. p. 257, ए त. p. 35. In हे. (on काल) p. 172 and समयप्रकाश p. 61 नारद is quoted differently 'अष्टवर्षाधिको मत्यो ह्यशीतिर्न च पूर्यते। यो भुड़े मामके राष्ट्रे विष्णोरहनि पापकृत् । स मे वध्यश्च दण्ड्यश्च निर्वास्यो देशतः स मे 17. ____251. मूलं फलं पयस्तोयमुपभोज्यं मुनीश्वरैः। न त्वत्र भोजनं कैश्चिदेकादश्यां प्रदर्शितम् । नारदपुराण (उत्तरार्ध 24. 7-8). 
+[^250a]
 
-252. नक्तं हविष्यानमनोदनं वा फलं तिलाः क्षीरमधाम्बु चाज्यम् । यत्पञ्चगव्यं यदि वा च वायुः प्रशस्तमत्रोत्तरमुत्तरं च॥ वायुपुराण q. by का. नि. p.261, का वि. p. 431, व. कि. कौ. p. 57 (ascribes to वराहपुराण), धर्मसिन्धु p. 16. वायुपुराण indicates 'an absolute fast' (not drinking even water). One may resort to one of the several options contained in this verse according to one's physical ability. 
+    अत्र नारदः।  
+    अष्टान्दाद्+++(???)+++ अधिको मर्त्यो ह्यपूर्णाशीति-हायनः।  
+    भुंक्ते यो मानवो मोहाद् एकादश्यां स पापकृत् ॥  
+    इति, 
+    
+    कात्यायनपि।  
+    अष्टवर्षाधिको मर्त्यो हाशीतिन्यूनवत्सरः ।  
+    एकादश्यामुपवसेद् पक्षयोरुभयोरपि॥ का नि. p. 257, ए त. p. 35. 
+    
+    In हे. (on काल) p. 172 and समयप्रकाश p. 61 नारद is quoted differently 
 
-253. उपवासे स्वशक्तानामशीतरूधजीविनाम् । एकभक्तादिकं कार्यमाह बौधायनो मुनिः। १. by हे. (on काल p 176), का. नि. p. 261. 
-
-100 
-
-
-
+    'अष्टवर्षाधिको मर्त्यो ह्यशीतिर्न च पूर्यते।  
+    यो भुङ्क्ते मामके राष्ट्रे विष्णोरहनि पापकृत् ।  
+    स मे वध्यश्च दण्ड्यश्च निर्वास्यो देशतः स मे  
+    17. ____
 
 
-complete fast (on ekādasi) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides 254 that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54). 
+Kātyāyana has a similar verse. These two establish that every human being of whatever caste or āsrama can observe ekādaśī provided he fulfils the conditions as to age laid down in the verses. 
 
-It is said by Markandeya 255 that one may observe the methods of ekabhakta, nakta, ayācita, complete fast and dāna, but should not deprive oneself of the benefits of the observance of dvādaśī (with ekādasi). Here certain alternatives are allowed in place of an absolute fast and they have to be explained. But before doing so, attention has to be drawn to the rule propounded by Manu 256 viz. if a person, being master of (i. o. quite able to carry out) the main provisions for a rite, resorts to alternatives provided (by texts) he would not, foolish as he is, secure the otherworldly rewards ( of that rite). Therefore, ekabhakta, nakta and ayācita are to be employed only if one is unable to observe a strict fast. Ekabhakta means eating only once a day after the middle of the day. Madhyāhna means the 3rd part of the day divided into five parts (i. e. from the 13th ghati after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words after the middle of the day is passed' (dinārdhasamayestite),257 while the gauṇa-kala is up to 
+Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa [^251] says 'roots, fruits, milk and water may be partaken of (on ekadasi) by great sages, but no sages have said that on ekādaśī cooked food may be taken'.+++(5)+++ The Vayupurana [^252] provided 
 
-254. उपवासेष्वशक्तानां नक्तं भोजनमिष्यते। असामर्थे शरीरस्य पुत्रादीन्कारयेद् 294ll Hite q. by a.lfti- . p. 69. 
+> 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i. e. in ekadasi) more commendable (than each preceding one)'. 
 
-255. एकभक्तेन नक्तेन तथैवायाचितेन च। उपवासेन दानेन न निादशिको भवेत्॥ \#TAV grup q. by R. on a p. 176, on a p. 1010, fit . p. 261, \#. Ê. p. 430 (reads 3497\# Whol); the 75tIT I. 136. 2-3 has that ... I उपवासेन भैक्ष्येण नैवाद्वादशिको भवेत् ॥ 
+[^251]: मूलं फलं पयस् तोयम् उपभोज्यं मुनीश्वरैः। न त्वत्र भोजनं कैश्चिद् एकादश्यां प्रदर्शितम् । नारदपुराण (उत्तरार्ध 24. 7-8).
 
-256. प्रभुः प्रथमकल्पस्य योऽनुकल्पेन वर्तते। न साम्परायिकं तस्य दुर्मतर्विद्यते फलम् ॥ Ha XI. 30- Page 165.17. Maou XI. 28 bas the same rule in other words. 
+[^252]:
 
-257. Frasia ya farai AT THE TIERE PEN Fhte q. by R. (on 1) p. 108, Purina p. 14, Ç. a. p. 92, . p. 43. देवल has the same verse except that the last quarter is ऊनं ग्रासत्रयेण तु. The word F a refers to the observance of celibacy and the like. Acc, to a well koowo verse met urna ... TETUUTETTAD ETTFOT: II (q. by 314. 9. & II. 4. 9-13), the person observing a should not eat more tban 32 or 28 morsels even if he is a householder. 318: 71 g a91 दिनार्धादुपरितमो मध्याहो मुख्यः कालः, तदूर्वमस्तमनावधिौणः 'दिनार्धसमयेऽतीते' इति TAIC, T I T. (op it p. 109). 
+    नक्तं हविष्यान्नम् अनोदनं वा  
+    फलं तिलाः क्षीरम् अथाम्बु चाज्यम् ।  
+    यत ्पञ्चगव्यं यदि वा च वायुः  
+    प्रशस्तम् अत्रोत्तरम् उत्तरं च॥  
+    वायुपुराण q. by का. नि. p.261, का वि. p. 431, व. कि. कौ. p. 57 (ascribes to वराहपुराण), धर्मसिन्धु p. 16.  
+    वायुपुराण indicates 'an absolute fast' (not drinking even water). One may resort to one of the several options contained in this verse according to one's physical ability.
+
+Baudhāyana 253 declares that those who are unable to observe a complete fast (on ekādasi) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides [^254] that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54). 
+
+[^253]: 
+
+    उपवासे स्वशक्तानाम् अशीतरूधजीविनाम् ।  
+    एकभक्तादिकं कार्यम् आह बौधायनो मुनिः।  
+    १. by हे. (on काल p 176), का. नि. p. 261.
+
+[^254]: उपवासेष्व् अशक्तानां नक्तं भोजनम् इष्यते। असामर्थे शरीरस्य पुत्रादीन् कारयेद् 294ll Hite q. by a.lfti- . p. 69.
+
+It is said by Markandeya [^255] that one may observe the methods of ekabhakta, nakta, ayācita, complete fast and dāna, but should not deprive oneself of the benefits of the observance of dvādaśī (with ekādasi). 
+
+[^255]:
+
+    एकभक्तेन नक्तेन तथैवायाचितेन च।  
+    उपवासेन दानेन न निादशिको भवेत्॥ \#TAV grup q. by R. on a p. 176, on a p. 1010, fit . p. 261, \#. Ê. p. 430 (reads 3497\# Whol); the 75tIT I. 136. 2-3 has that ... I उपवासेन भैक्ष्येण नैवाद्वादशिको भवेत् ॥
+
+
+
+Here certain alternatives are allowed in place of an absolute fast and they have to be explained. But before doing so, attention has to be drawn to the rule propounded by Manu [^256] viz. if a person, being master of (i.e. quite able to carry out) the main provisions for a rite, resorts to alternatives provided (by texts) he would not, foolish as he is, secure the otherworldly rewards ( of that rite). Therefore, ekabhakta, nakta and ayācita are to be employed only if one is unable to observe a strict fast. 
+
+Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Madhyāhna means the 3rd part of the day divided into five parts (i. e. from the 13th ghati after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words after the middle of the day is passed' (dinārdha-samayestite),[^257] while the gauṇa-kala is up to 
+
+
+[^256]: 
+
+    प्रभुः प्रथमकल्पस्य योऽनुकल्पेन वर्तते। न साम्परायिकं तस्य दुर्मतर्विद्यते फलम् ॥ Ha XI. 30- Page 165.17. Maou XI. 28 bas the same rule in other words. 
+
+[^257]
+
+    Frasia ya farai AT THE TIERE PEN Fhte q. by R. (on 1) p. 108, Purina p. 14, Ç. a. p. 92, . p. 43. देवल has the same verse except that the last quarter is ऊनं ग्रासत्रयेण तु. The word F a refers to the observance of celibacy and the like. Acc, to a well koowo verse met urna ... TETUUTETTAD ETTFOT: II (q. by 314. 9. & II. 4. 9-13), the person observing a should not eat more tban 32 or 28 morsels even if he is a householder. 318: 71 g a91 दिनार्धादुपरितमो मध्याहो मुख्यः कालः, तदूर्वमस्तमनावधिौणः 'दिनार्धसमयेऽतीते' इति TAIC, T I T. (op it p. 109). 
 
 E kabhakta 
 
@@ -417,13 +478,11 @@ There are cases where the texts sometimes allow fast on ekādasi oven though mix
 
 
 
-[Sec. I, Ch. v 
+
 
 dice-play, drinking much water-a devotee of Visnu should avoid these.295 The Matsyapurāṇa2% provides : (vessels of) bell-metal, flesh, wine, honey, oil, telling an untruth, physical exercise, journey, sleeping by day, earning (wealth), oil-cakes, masura pulse-one should omit these twelve (on dasami). 
 
-The restrictions on the day of fast are many, but a few are stated here: Hārīta lays 297 down: one should on a day of fasting avoid speaking with persons guilty of grave sins, heretical persons, atheists and the like and also falsehood, gambling and the like. The Kūrmapurāṇa provides: on the day of vrata one should not touch nor speak nor look at persons that are antyajas (untouchables) and have to live outside the village, a woman recently delivered, one guilty of grave sins and a woman in her 
-
-monthly illness. Devala provides :298 A fast perishes (i. e. all rewards of observing it are lost) by sleep in the day, by play with dice and by sexual intercourse; but in case of great pain (or danger) a fast is not affected by drinking water (frequently). The Rājamārtanda lays down: a man fasting on an Ekādasi should not be guilty of telling a lie, gambling, sleeping by day and sexual intercourse. Hemādri (on vrata vol. I. p. 331) quoting Matsya forbids a bath with oil on ekādasī. A fast is vitiated by drinking water often, by eating tāmbūla, by sleep in day time and by sexual intercourse. When Vyāsa299 says that flowers, 
+The restrictions on the day of fast are many, but a few are stated here: Hārīta lays 297 down: one should on a day of fasting avoid speaking with persons guilty of grave sins, heretical persons, atheists and the like and also falsehood, gambling and the like. The Kūrmapurāṇa provides: on the day of vrata one should not touch nor speak nor look at persons that are antyajas (untouchables) and have to live outside the village, a woman recently delivered, one guilty of grave sins and a woman in her monthly illness. Devala provides :298 A fast perishes (i. e. all rewards of observing it are lost) by sleep in the day, by play with dice and by sexual intercourse; but in case of great pain (or danger) a fast is not affected by drinking water (frequently). The Rājamārtanda lays down: a man fasting on an Ekādasi should not be guilty of telling a lie, gambling, sleeping by day and sexual intercourse. Hemādri (on vrata vol. I. p. 331) quoting Matsya forbids a bath with oil on ekādasī. A fast is vitiated by drinking water often, by eating tāmbūla, by sleep in day time and by sexual intercourse. When Vyāsa299 says that flowers, 
 
 ___ 295. शाकं मांसं मसूरांश्च पुनर्भोजनमैथुने। धूतमत्यम्बुपानं च दशम्यां वैष्णवस्त्यजेत् । १. by हे. (on काल p. 193), का. नि. p. 265, ए. त. p. 56 (reads माष, probably a Bengali copyist's mistake). 
 

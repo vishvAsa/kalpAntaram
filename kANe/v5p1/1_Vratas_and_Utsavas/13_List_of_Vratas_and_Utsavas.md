@@ -1229,7 +1229,7 @@ Lighting lamps and making illuminations in K. in the temples of Siva; Caṇdi, t
 
 
 
-[Sec. I, Ch. XIII 
+
 
 eulogised. Vide Pad. III. 3. 13 ff, HV. II. 763-768, KR 403-404. KV 326, SmK. 358–59; worship of Keśava with flowers called muni (i. e. Agastya) for the whole month of K. excluding other flowers secures toward of Aśvamedha; TT, 147. 
 
@@ -2451,7 +2451,7 @@ H, D. 41
 
 
 
-[Sec. 1, Ch, XIII 
+
 
 Dharmavrata-begin on 10th of Mārg. śu, ; fast on that day and 
 
@@ -2517,7 +2517,7 @@ of being delivered of a calf; the performer who subsists only on milk that day r
 
 
 
-[Sec. I, Ch. XIII 
+
 
 Dhvajanavami-P. śu. 9; this tithi is called Sambari ( Sabari? ); 
 
@@ -4023,7 +4023,7 @@ H, D, 48
 
 
 
-[Sec. I, Ch. XIII 
+
 
 Mahāśvetāpriyavidhi-on a Sunday if there is a solar eclipse, 
 
