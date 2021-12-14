@@ -27,10 +27,6 @@ I Fredate Army
 
 96 
 
-
-
-
-
 A few specimens of the first kind may be cited. The Nāradiya states [^236] "all sins whatever and sins equal to brāhmana-murder take resort to food on the day of Hari; one who partakes of food on Ekādaśī incurs those sins; the Purāṇas again and again loudly proclaim 'one should not eat food, one should not eat food, when the day of Hari comes'." In this case the observance of Ekādaśī consists in simply not eating for the whole day anything that is cooked.+++(5)+++ 
 
 Those passages which contain the word vrata are not to be looked upon as merely prohibiting (the eating of food) but are to be construed as prescribing something positive as in the case of Prajāpativrata 'one should not see the rising sun', which is interpreted by Jaimini IV. 1. 3.-6 and VI. 2. 20. Vide n. 42 above. For example, it is said by the Matsya and Bhavisya 'When a man fasts on the 11th and partakes of food on the 12th, whether in the bright or dark half, that is a great vrata in honour of Visnu'. Those passages that contain the word 'upavāsa' and those that prescribe rewards (of observing ekādaśī) must be construed as laying down the observance of a vrata and not as merely prohibiting anything. Those passages also which condemn eating food on ekādaśī may be construed as merely intended to commend the vrata and not to contain a prohibition, following the Mimāmsā [^237] maxim "condemnation is not indulged in (merely) for the sake of condemnation of that which is condemned, but for the purpose of commending the performance of the opposite of what is censured'. 
@@ -53,33 +49,55 @@ A passage laying down a kāmya-vidhi about Ekādaśi is contained in [^239] Kāt
 
 The result is that ekādaśī is both nitya and kāmya and the maxim of samyoga-prthaktva cited above (p. 86) under Rāmanavami applies.+++(5)+++) 
 
-## Adhikūra for Ekādaśīvrata
+## Adhikāra for Ekādaśīvrata
 
-Ekādaśīvrata on the ekādaśīs of both fortnights is nitya only for persons other than house holders; the vrata is obligatory for householders (grhastha) only on the ekādaśī of the bright half, but not on the ekādasi of the dark half, since Devala says 'one should not eat (cooked) food on ekādaśī in both pakṣas (fortnights); this is the rule of conduct for forest hermits and ascetics, but a householder should always observe only the Ekādaśī of the bright half'. [^240] There are conflicting texts on this subject. The Padma says [^241] ' a house holder should observe a fast on only the dark ekādaśīs between Sayani (Asādha śu. 11) and Bodhini (Kārtika su. 11) and on no other ekadasi of the dark half'. There is a precept of Narada [^242] 'a householder having a son should not observe a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Sayani and Bodhini, but if he has a son he should not observe a fast even on those ekādaśis that occur between Sayani and Bodhini. 
+Ekādaśīvrata on the ekādaśīs of both fortnights is nitya only for persons other than house holders; the vrata is obligatory for householders (grhastha) only on the ekādaśī of the bright half, but not on the ekādasi of the dark half, since Devala says 'one should not eat (cooked) food on ekādaśī in both pakṣas (fortnights); this is the rule of conduct for forest hermits and ascetics, but a householder should always observe only the Ekādaśī of the bright half'. [^240] 
+
+
+[^240]:
+    
+    एकादश्यां न भुजीत पक्षयोरुभयोरपि ।  
+    वनस्थयतिधर्मोयं शुक्लामेव सदा गृही।   
+    देवल q. by नि. सि. 36, समयप्रकाश p. 62, का. वि. p. 426 (from स्मृतिमीमांसा), हे. (काल) p. 150, ए, त. p. 36 (ascribes to गोभिल); ब्रह्मवैवर्त IV. 26 38 'शुक्लामेव । कुर्वन्ति गृहिणो वैष्णवेतराः । न कृष्गालवन्ने दोषस्तेषां वेदेषु नारद ॥'
+
+
+There are conflicting texts on this subject. The Padma says [^241] ' a house holder should observe a fast on only the dark ekādaśīs between Sayani (Asādha śu. 11) and Bodhini (Kārtika su. 11) and on no other ekadasi of the dark half'. There is a precept of Narada [^242] 'a householder having a son should not observe a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Sayani and Bodhini, but if he has a son he should not observe a fast even on those ekādaśis that occur between Sayani and Bodhini. 
+
+[^241]: 
+    
+    शयनीबोधिनीमध्ये या कृष्णैकादशी भवेत् ।  
+    सैवोपोष्या गृहस्थेन नान्या कृष्णा कदाचन ॥  
+    ब्रह्मवैवर्त IV. 26. 39 q. by का नि. p. 259, नि. सि. p. 36, समयप्रकाश p. 63 (all say from पद्म).
+
+[^242]: 
+    
+    संक्रान्त्यामुपवासं च कृष्णैकादशिवासरे।  
+    चन्द्रसूर्यग्रहे चैव न कुर्यात्पुत्रवान् गृही। नारद  
+    q. by हे. (on काल) p. 183. नि. सि. 36, समयमकाश 63, व. कि. कौ. P. 46. ए. त. (p. 37) quotes a verse from ब्रह्मपुराण to the same effect.
+
+
 
 A widow [^243] is to be treated on the same level as a yati and a woman whose husband is living should fast only on the ekādaśī of the bright half. 
 
-It has to be further noted that these restrictions [^214] do not apply to professed devotees of Visṇu ( technically called Vaisnava). To them the verse quoted in note [^238] above applies and they have to observe a fast on all ekadasis. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikāra for fasting on ekadasis in both pakṣas. 
-
-On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. 
-
-240. एकादश्यां न भुजीत पक्षयोरुभयोरपि । वनस्थयतिधर्मोयं शुक्लामेव सदा गृही। देवल q. by नि. सि. 36, समयप्रकाश p. 62, का. वि. p. 426 (from स्मृतिमीमांसा), हे. (काल) p. 150, ए, त. p. 36 (ascribes to गोभिल); ब्रह्मवैवर्त IV. 26 38 'शुक्लामेव । कुर्वन्ति गृहिणो वैष्णवेतराः । न कृष्गालवन्ने दोषस्तेषां वेदेषु नारद ॥' 
-
-241. शयनीबोधिनीमध्ये या कृष्णैकादशी भवेत् । सैवोपोष्या गृहस्थेन नान्या कृष्णा कदाचन ॥ ब्रह्मवैवर्त IV. 26. 39 q. by का नि. p. 259, नि. सि. p. 36, समयप्रकाश p. 63 (all say from पद्म). 
-
-242. संक्रान्त्यामुपवासं च कृष्णैकादशिवासरे। चन्द्रसूर्यग्रहे चैव न कुर्यात्पुत्रवान् गृही। नारद q. by हे. (on काल) p. 183. नि. सि. 36, समयमकाश 63, व. कि. कौ. P. 46. ए. त. (p. 37) quotes a verse from ब्रह्मपुराण to the same effect. 
-
-243. एतञ्च विधवया पक्षद्वयेपि कार्यम् । ... एवं च सधवाया ग्रहस्थवच्छुक्लायामेवा. धिकारः। समयप्रकाश p. 65; भविष्योत्तरेपि। एकादश्यां न भुखीत पक्षयोरुभयोरपि । ब्रह्मचारी च नारी च शुक्लामेव सदा गृही॥ इति । ; नारी विधवा तस्या एव यतिधर्मत्वात् । का. नि p. 257. 
-
-244. वस्तुतस्तु वैष्णवानां सपुत्राणां गृहस्थानामपि सः कण्णा नित्या हलायुध हेमादि धूततत्त्वसागरवचनात् । तद्यथा। यथा शुक्ला तथा कृष्णा यथा कृष्णा तथेतरा। तुल्ये ते मम्यते यस्तु स वै वैष्णव उच्यते। ए. त. p. 38. हे. (on काल p. 181) quotes this verse from तवसागर. 
-
-H, D. 13 
+[^243]:
+    
+    एतञ्च विधवया पक्षद्वयेपि कार्यम् । ... एवं च सधवाया ग्रहस्थवच्छुक्लायामेवा - धिकारः। समयप्रकाश p. 65; भविष्योत्तरेपि।  
+    एकादश्यां न भुञ्जीत पक्षयोर् उभयोरपि ।  
+    ब्रह्मचारी च नारी च शुक्लामेव सदा गृही॥ इति । ;  
+    नारी विधवा तस्या एव यतिधर्मत्वात् । का. नि p. 257.
 
 
+It has to be further noted that these restrictions [^244] do not apply to professed devotees of Visṇu ( technically called Vaisnava). To them the verse quoted in note [^238] above applies and they have to observe a fast on all ekadasis. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikāra for fasting on ekadasis in both pakṣas. 
 
-[Sec. I, Ch. V 
+[^244]: 
 
-pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādasi has been indulged in by many Purāṇas and digests. In the Nārada-purāna there is a long passage on the greatness (māhātmya) of Ekādasi (quoted in Hemādri on Kala p. 146 and Kalanirnaya pp. 273-274). A few of the verses may be cited here; 'by the fire arising from (the observance of) ekādasi, fuel in the form of sins committed in hundreds of past lives is reduced to ashes. Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādasi. This ekādasi bestows heaven and mokṣa, confers a kingdom and sons (on a man) and a good spouse and the health of the body. The Ganges, Gaya, Kasi, Puskara, Kuruksetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'. Similar verses occur in the Padmapurāna.245 The Anu Sasanaparva 246 pronounces on Upavasa. an exaggerated eulogy. The Padma 247 declares 'on hearing the word ekadasi, the mes sengers of Yama become afraid; having fasted on ekādaśī which is the best among all vratas, one should keep awake (in the night) for propitiating Visnu and should sumptuously decorate the temple or manda pa of) Visṇu. The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.248 The Varahapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. The Padma narrates the story of a woman, who was always quarrel some and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast 249 (not under 
+    वस्तुतस्तु वैष्णवानां सपुत्राणां गृहस्थानामपि सः कृष्णा नित्या हलायुध-हेमादि-धूततत्त्वसागरवचनात् ।  
+    तद्यथा।   
+    यथा शुक्ला तथा कृष्णा यथा कृष्णा तथेतरा।  
+    तुल्ये ते मन्यते यस्तु स वै वैष्णव उच्यते।  
+    ए. त. p. 38. हे. (on काल p. 181) quotes this verse from तवसागर. 
+
+On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādasi has been indulged in by many Purāṇas and digests. In the Nārada-purāna there is a long passage on the greatness (māhātmya) of Ekādasi (quoted in Hemādri on Kala p. 146 and Kalanirnaya pp. 273-274). A few of the verses may be cited here; 'by the fire arising from (the observance of) ekādasi, fuel in the form of sins committed in hundreds of past lives is reduced to ashes. Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādasi. This ekādasi bestows heaven and mokṣa, confers a kingdom and sons (on a man) and a good spouse and the health of the body. The Ganges, Gaya, Kasi, Puskara, Kuruksetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'. Similar verses occur in the Padmapurāna.245 The Anu Sasanaparva 246 pronounces on Upavasa. an exaggerated eulogy. The Padma 247 declares 'on hearing the word ekadasi, the mes sengers of Yama become afraid; having fasted on ekādaśī which is the best among all vratas, one should keep awake (in the night) for propitiating Visnu and should sumptuously decorate the temple or manda pa of) Visṇu. The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.248 The Varahapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. The Padma narrates the story of a woman, who was always quarrel some and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast 249 (not under 
 
 245. अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162). 
 
