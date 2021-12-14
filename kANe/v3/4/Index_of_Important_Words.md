@@ -809,7 +809,7 @@ Sabha
 
 141 Sangrabana 
 
-110, 531 Saṅkara (misjoinder of causes of 
+110, 531 Śhaṅkara (misjoinder of causes of 
 
 action) 
 
@@ -865,7 +865,7 @@ Sisu
 
 88 
 
-Sisya Sitā Siva Smārita Smārtakala Sottara Sreni Srenibala Sthanakrta Stbānapāla Sthānika Sthaniya Sthitipatra Sthulalakia Stobhaka Stoma Sūcaka Suci Suddhavadha Sūkadhānya Sala Sulka 
+Sisya Sitā Śiva Smārita Smārtakala Sottara Sreni Srenibala Sthanakrta Stbānapāla Sthānika Sthaniya Sthitipatra Sthulalakia Stobhaka Stoma Sūcaka Suci Suddhavadha Sūkadhānya Sala Sulka 
 
 263 
 

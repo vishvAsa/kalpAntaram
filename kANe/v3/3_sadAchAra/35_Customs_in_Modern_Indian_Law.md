@@ -57,7 +57,7 @@ Oustoms must not be immoral. Whether a custom is immoral is to be judged by the 
 
 1896. Bhau v. Sundrabai 11 Bom. H. C, R. 249, 277. 
 
-1897. Anandrao v. Shankar 7 Bom. 323 ; Saṅkaralinga v. Raje. shwar 31 Mad, 236 (P. C.); S. K. Wodeyar v. Ganapati 37 Bom. L. R, 584.; but vide Narhari v, Bhimrao 39 Bom. L. R. 1295 (about a tank). 
+1897. Anandrao v. Shankar 7 Bom. 323 ; Śhaṅkaralinga v. Raje. shwar 31 Mad, 236 (P. C.); S. K. Wodeyar v. Ganapati 37 Bom. L. R, 584.; but vide Narhari v, Bhimrao 39 Bom. L. R. 1295 (about a tank). 
 
 1898. Deivanayaga v. Muthu 44 Mad, 329, 333,972 
 

@@ -201,7 +201,7 @@ marriage, 537-538. Aitareya Aranyaka, 372n, 394, 406,
 
 46, 71, 213, 419 &0. Aitasa, story of, in Ait. Br., 480. Aitas&yanes, lowest among Bhrgus, 
 
-480; most ainful among Aurvas,480. Aiyer, Sir Sivaswamy, 40.. Ajātasatru, king of Kadi, 38; expoun 
+480; most ainful among Aurvas,480. Aiyer, Sir Śivaswamy, 40.. Ajātasatru, king of Kadi, 38; expoun 
 
 ded philosophy to Balaki, 106. Ajya, is the material of homa when 
 
@@ -643,7 +643,7 @@ worship of Durgā in, 739. Bhagat, M. G., 179n. Bhagavad-gita, 9, 60, 97, 423, 7
 
 726 &o. Bhagavatas, to be worshippers in 
 
-temples of Viṣṇu, 722; worshippers of Vippu or Siva posing as boly 
+temples of Viṣṇu, 722; worshippers of Vippu or Śiva posing as boly 
 
 (buwd in Marathi ), 131. Bhairava, temple of, could be orected 
 
@@ -677,7 +677,7 @@ Bbata, an antyaja, 89. Bhau Daji, Dr., 5090. Bhauma-endo, 668. Bhavabhūti, 367,
 
 mothor of, was Jatukarpi, 252. Bhāvins ( girls dedicated to a tom 
 
-ple ), 904. Bhavisya puriṇa, 1220, 215, 217, 310, 
+ple ), 904. Bhaviṣya puriṇa, 1220, 215, 217, 310, 
 
 445n, 675, 723n, 883. Bbavigyottara-puraga, 349, 874, 882, 
 
@@ -1951,7 +1951,7 @@ ourth, trees and women, 802. ed by Manavag;hya, Baud. gr., Indrāni (wife of Ind
 
 worship of, in marriage ceromo are juridical persone capable of nios, 636. holding property, 911; materials of 
 
-| Indrayajña, 824-825; on full moon whicb images are made, 715; of of Bbadra pada, 824. Buddha bogan to be made about Infanticide, 509. & century or two before Christ, Infanticido Act in England, 509. 711; of Siva and Skanda spoken of Ingo, Dean, 138, 146. by Pāṇini, 710; proper sizes of, Inscriptions, 61, 66-66, 68-69, 70, 77, in the house or in tomples, 716; 85, 87, 113n, 123, 145, 217, 248, views about origin of, in India, 1 
+| Indrayajña, 824-825; on full moon whicb images are made, 715; of of Bbadra pada, 824. Buddha bogan to be made about Infanticide, 509. & century or two before Christ, Infanticido Act in England, 509. 711; of Śiva and Skanda spoken of Ingo, Dean, 138, 146. by Pāṇini, 710; proper sizes of, Inscriptions, 61, 66-66, 68-69, 70, 77, in the house or in tomples, 716; 85, 87, 113n, 123, 145, 217, 248, views about origin of, in India, 1 
 
 355, 382, 384, 388n, 389, 494, 553, 711-712; whother trusted can sub 
 
@@ -3391,7 +3391,7 @@ that it was not to be established Rope trick, 85.
 
 at all, 9890. Rosary : number of beads in, 687; used in japa 687; of rudrāksas for 
 
-Sacrifices: animals killed in were devotees of Siva, 738. 
+Sacrifices: animals killed in were devotees of Śiva, 738. 
 
 deemed to go to heaven, 781; divi Rṣyasrnga, 291. 
 
@@ -3583,7 +3583,7 @@ attains heaven, 567. Sandilya, 764. Sandilya, the principal authority on
 
 Agnicayaga in Sat. Br., 1247, Sangha, meaning of, 68. Sandgraba, a work, 299, 3050, 320, 375. Saṅkalpa, one of the essential ele ments in any gift or dedication to 
 
-the public, 892. Saṅkarananda, author of a com. on 
+the public, 892. Śhaṅkarananda, author of a com. on 
 
 some Upanigads, 419. . Samkośvara and Karaytra: Samkara 
 
@@ -3991,7 +3991,7 @@ utkara, except the first ono, 1450. Sucakı, & caste, 98. Sacika (UCI), a tailor
 
 baste,' 'king'): accumulation of Wealth by, condemned, 121; drkpita could not sponk with ., 36; esat, did not incar sin by cating fesh or drinking wing, 121; assumed tho escotio mode of life domotimos, 946; called andrya by Gautama and othor smrtikāras, 36; Oandalas inoluded by Patanjali among, 188; oould in distrods follow the avocations of the vaidya, 121; could follow almost 
 
-any oooupation, 164; could listen to the recitation of the tbo oplos and purlṇas, 165; could perform the daily five yajõus in ordinary fro, 168 ; could perform Vratas, 159; could not himself road ovon the opios and purnai, socording to some, 150; could not be a judge, 160; could not touch a brdhmaga, 162; could report Rāms and Siva mantras, 168 ; derivation of the word in Vedantasutra, 165; dos• oribed as "asarya yarpn' in Tai. Bt., 25; divided into aniravasita and niravasita, 121, 168; divided into bhojy&nda and abbojydons, 121-122; divided into sat and agat, 122; divisions of 121-122; duty of, to rondor sorvice to dvijas, 120; enlisted as soldier, 164; ostoomod low, 163; food of, could not be takon by a brahmana, 161; in dis tross may live in any country, 15; initiation of, as bhagavata, 156; intoxicants not forbidden to, 796; is said to be untruth itsolf in sat, Br., 35; killing a sudra wat sa upapataka, 163; liable to higher punishment than dvijatis for certain offondon, 159–160; list of disabilities of, 164-164; mantra in Case of, 188; may attain to spiri tual development and mokąwith out Veda study, 166; no Voda study in presence of, 34, 164; aot allowod to study Voda, 164; not at for sacrifice, 84, 36; not to porform Vodio saorificos, 156-167; Qumorous Buboastos of, 121-182 ; orduipod to servitudo, according to Mand, 33; period of impurity on dorth groster for, 160 ; position of, im prored in course of time, 180-181; pur&na mantras to be ropeated by brābmagas for, 198; Bariskarai of, without Vodio mentras, 158-160; Berting dvijatis 48 . duty was not A slave, 18% ; should not tako gratuity for himself in giving 
+any oooupation, 164; could listen to the recitation of the tbo oplos and purlṇas, 165; could perform the daily five yajõus in ordinary fro, 168 ; could perform Vratas, 159; could not himself road ovon the opios and purnai, socording to some, 150; could not be a judge, 160; could not touch a brdhmaga, 162; could report Rāms and Śiva mantras, 168 ; derivation of the word in Vedantasutra, 165; dos• oribed as "asarya yarpn' in Tai. Bt., 25; divided into aniravasita and niravasita, 121, 168; divided into bhojy&nda and abbojydons, 121-122; divided into sat and agat, 122; divisions of 121-122; duty of, to rondor sorvice to dvijas, 120; enlisted as soldier, 164; ostoomod low, 163; food of, could not be takon by a brahmana, 161; in dis tross may live in any country, 15; initiation of, as bhagavata, 156; intoxicants not forbidden to, 796; is said to be untruth itsolf in sat, Br., 35; killing a sudra wat sa upapataka, 163; liable to higher punishment than dvijatis for certain offondon, 159–160; list of disabilities of, 164-164; mantra in Case of, 188; may attain to spiri tual development and mokąwith out Veda study, 166; no Voda study in presence of, 34, 164; aot allowod to study Voda, 164; not at for sacrifice, 84, 36; not to porform Vodio saorificos, 156-167; Qumorous Buboastos of, 121-182 ; orduipod to servitudo, according to Mand, 33; period of impurity on dorth groster for, 160 ; position of, im prored in course of time, 180-181; pur&na mantras to be ropeated by brābmagas for, 198; Bariskarai of, without Vodio mentras, 158-160; Berting dvijatis 48 . duty was not A slave, 18% ; should not tako gratuity for himself in giving 
 
 1344 
 
@@ -4549,7 +4549,7 @@ appeared, 14, 14n. Vintyaka (500 under Gaṇośa ): Ambika, mother of, 214; ment
 
 969; procedure of, 969. Viramitrodaya, 70, 710, 161, 198n, 
 
-3490, 508, 600n, 643, 915. Vīrāgana, & yogic posture, 957. Virāta parva, 494, 626. Virtues, why to be cultivated, 7-8. Viągu (soe under 'avatars ', 'V&su dova'): earliest detailed descrip. tion of worship of, 726-727 flowers recommended in worsbip of, 732; four vyuha. ( aspects ) of, 917, 964; gradation in merit secured by offering flowers of various kinds to, 732 ; mado carth steady, 719; Mababharata teaches identity of Siva and, 725; namos of, takon in Acamana, 663 ; 0no thousand names of, 725 ; balagrama stone in worship of, 715–716 supposed to go to sleep and be awakoned respectively on the 11th of tho bright half of Aṣadha and Kartika, 396; ten nvatāras of 717 724; took tbroo stops, 719; twelve namos of, associated with twelve months, 250; twolvo Damos of, in deva pājs, 728; twonty-four nameg of, in tandby, 316 and n;ūrdhra 
+3490, 508, 600n, 643, 915. Vīrāgana, & yogic posture, 957. Virāta parva, 494, 626. Virtues, why to be cultivated, 7-8. Viągu (soe under 'avatars ', 'V&su dova'): earliest detailed descrip. tion of worship of, 726-727 flowers recommended in worsbip of, 732; four vyuha. ( aspects ) of, 917, 964; gradation in merit secured by offering flowers of various kinds to, 732 ; mado carth steady, 719; Mababharata teaches identity of Śiva and, 725; namos of, takon in Acamana, 663 ; 0no thousand names of, 725 ; balagrama stone in worship of, 715–716 supposed to go to sleep and be awakoned respectively on the 11th of tho bright half of Aṣadha and Kartika, 396; ten nvatāras of 717 724; took tbroo stops, 719; twelve namos of, associated with twelve months, 250; twolvo Damos of, in deva pājs, 728; twonty-four nameg of, in tandby, 316 and n;ūrdhra 
 
 puadra mark made on twolve parts of body after taking twelvo pamos of, 673, 
 

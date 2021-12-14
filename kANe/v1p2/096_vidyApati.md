@@ -29,7 +29,7 @@ Vidyāpati's name is as great in Bengal as in Mithilā and it is curious that in
 
 1237 
 
-(Continued from the previous page) lation, p. 172 relies upon Vidyapati as “ 373 ha fater T दरो मुख्यः कल्पः, तदभावे तु तिथिरेव ग्राह्या । तिथिः शरीरं देवस्य तिथौ नक्षत्र माश्रितम् । तस्मात्तिथिं प्रशंसन्ति नक्षत्रं न तिथिं विना" इति विद्यापति लिखित 1996 | The Nirṇayasindhu several times cites Durgā. bhaktitarangiṇi e. g. on pp. 167, 170, 179, 183. Dr. Jayakanta in his · History of Maithili Literature' devoted pp. 130-196 of volume I to the age of Vidyāpati and pp. 196-224 of the same vol, to his contemporaries and on p. 140 it is stated that king Sivasimba and his queen Lakhimādevi liked him very much. Mahamahopadhyāya Dr. Umesa Miśra published in 1937 a work on Vidyapati Thākura, of wbich the third edition published by bim in 1959 has been relied upon in this section for information on some points, 
+(Continued from the previous page) lation, p. 172 relies upon Vidyapati as “ 373 ha fater T दरो मुख्यः कल्पः, तदभावे तु तिथिरेव ग्राह्या । तिथिः शरीरं देवस्य तिथौ नक्षत्र माश्रितम् । तस्मात्तिथिं प्रशंसन्ति नक्षत्रं न तिथिं विना" इति विद्यापति लिखित 1996 | The Nirṇayasindhu several times cites Durgā. bhaktitarangiṇi e. g. on pp. 167, 170, 179, 183. Dr. Jayakanta in his · History of Maithili Literature' devoted pp. 130-196 of volume I to the age of Vidyāpati and pp. 196-224 of the same vol, to his contemporaries and on p. 140 it is stated that king Śivasimba and his queen Lakhimādevi liked him very much. Mahamahopadhyāya Dr. Umesa Miśra published in 1937 a work on Vidyapati Thākura, of wbich the third edition published by bim in 1959 has been relied upon in this section for information on some points, 
 
 812 
 
@@ -51,15 +51,15 @@ No. IV (Remarks on the authorship of the Gangāvākyāvali, pp. 105-108 ), No. V
 
 The two verses at the end of the work are quoted below.1238 They are clear on the point that the work was composed by the Queen and that all that Vidyāpati did was that he studied certain works and made her work look faultless by providing it with authorities from several nibandhas that he studied. It is clear that the work was that of the Queen and Vidyāpati only supplied some textual authorities in support of her propositions. 
 
-An exeellent edition of the Gangāvākyāvali of Queen Viśvā sadevi, Queen of Padmasimha ( along with the Dvārakāpattala by Binabai) was published as volumes III and IV (as part of the Contribution of Women to Sanskrit Literature ) by Dr. J. B. Chaudhuri in 1940 at Calcutta, with a Foreword by Dr. C, Otto Blagden and with five Appendices one of which contained some remarks on the autborship of the work (pp. 105-108 ) and on members of the royal family of Mithilā ( 15 in all) and some well-known Smārta writers who quoted the Gangāvākyāvali. Viśvāsadevi was the wife of Padmasimha, son of Sivasimha, king of Mithilā.1239 Padmasimha became the king of Mithilā on 
+An exeellent edition of the Gangāvākyāvali of Queen Viśvā sadevi, Queen of Padmasimha ( along with the Dvārakāpattala by Binabai) was published as volumes III and IV (as part of the Contribution of Women to Sanskrit Literature ) by Dr. J. B. Chaudhuri in 1940 at Calcutta, with a Foreword by Dr. C, Otto Blagden and with five Appendices one of which contained some remarks on the autborship of the work (pp. 105-108 ) and on members of the royal family of Mithilā ( 15 in all) and some well-known Smārta writers who quoted the Gangāvākyāvali. Viśvāsadevi was the wife of Padmasimha, son of Śivasimha, king of Mithilā.1239 Padmasimha became the king of Mithilā on 
 
 1238 यावत्स्वर्गतरङ्गिणी हरजटाजूटान्तरालम्बते यावद्विश्वविकाशिविस्तृतकरः सूर्योयमु 
 
 ज्जृम्भते । यावन्मण्डलमैन्दवं वितनुते शम्भोः शिरोमण्डनं तावत्कल्पलतेयमस्तु सफला देव्याः सतां श्रेयसे ।। कियान्निबन्धमालोक्य श्रीविद्यापतिसूरिणा । गङ्गा 
 
-appast : SATTHETETT ii last the rerses of Ital\#11761. 1239 Some writers say that Paduasiiba was the brother of Siva 
+appast : SATTHETETT ii last the rerses of Ital\#11761. 1239 Some writers say that Paduasiiba was the brother of Śiva 
 
-simha; but that is not correct. They were probably missed by the imperfect text of the extract in Mitra's Notices vol. VI p. 3, where a verse refers to Sivasiriiha and then there is a mutilated passage. As printed there is a lacunea in the 
+simha; but that is not correct. They were probably missed by the imperfect text of the extract in Mitra's Notices vol. VI p. 3, where a verse refers to Śivasiriiha and then there is a mutilated passage. As printed there is a lacunea in the 
 
 (Continued on the next page) 
 
@@ -69,7 +69,7 @@ simha; but that is not correct. They were probably missed by the imperfect text 
 
 TT 
 
-Sivasimha's death and on the death of Padmasiṁha Viśvasadevi ascended the throne. The work has 29 chapters dealing with such matters as remembering the Ganges, uttering its name, pil grimage to it, hearing the eulogy of the Ganges, seeing it, bowing down to it, śrāddha to be performed on it, bathing in it, offering libations ( tarpana ), counting beads (japa ), gifts on it and offer ing pindas and residing on it; prāyascittas, voluntary or natural death (mṛtyu ), putting the bones of the dead in the waters, baths at the confluence of the Ganges and the Sea &c. 
+Śivasimha's death and on the death of Padmasiṁha Viśvasadevi ascended the throne. The work has 29 chapters dealing with such matters as remembering the Ganges, uttering its name, pil grimage to it, hearing the eulogy of the Ganges, seeing it, bowing down to it, śrāddha to be performed on it, bathing in it, offering libations ( tarpana ), counting beads (japa ), gifts on it and offer ing pindas and residing on it; prāyascittas, voluntary or natural death (mṛtyu ), putting the bones of the dead in the waters, baths at the confluence of the Ganges and the Sea &c. 
 
 For the Vibhāgasāra' of Vidyāpati, vide Mitra's Notices Vol. VI pp. 67-8. It deals with the meaning of 'Daya', nature of partition, what is not liable to partition, disquisition on Stri dhana ( woman's property ) and its partition among heirs, division of wealth concealed, but later found partition among those who are born of persons that had partitioned; description of the twelve kinds of sons and partition among them; heirs to person dying without male issue; partition of wealth among persons who had reunited after partition. 
 

@@ -71,7 +71,7 @@ through the action of the heads of the departments viz. agricul ture, trade-rout
 
 239. Frant a FERRATGIran I Terari FTUSIT T quate: futa. Urdunn art ferdiyeva i sestra V. 2. 
 
-240. Compare note 164 above about the Mauryas who wanting money set up images, according to Patañjali. The Rājatarangiṇi (V. 166-177) describes the exactions of king Saṅkara-varman of Kashmir (883-902) A. D. He plunder. ed 64 temples under the pretext of supervision. He imposed taxes on grhaksiya (1. e. on upanayana, marriages &c.). In tbe 11th century king Harna of Kashmir plundered most of the temples (Rājatarangini VII, 1090). 
+240. Compare note 164 above about the Mauryas who wanting money set up images, according to Patañjali. The Rājatarangiṇi (V. 166-177) describes the exactions of king Śhaṅkara-varman of Kashmir (883-902) A. D. He plunder. ed 64 temples under the pretext of supervision. He imposed taxes on grhaksiya (1. e. on upanayana, marriages &c.). In tbe 11th century king Harna of Kashmir plundered most of the temples (Rājatarangini VII, 1090). 
 
 III 
 
@@ -169,13 +169,13 @@ more. Though these really required more protection than most people, humanity an
 
 Kaut, in II. 15 mentions numerous kinds of taxes or dues that were levied by the king. It is not possible to explain many of the terms used by him. In the ancient inscriptions, when making grants of a village and the like, it is usual for the kings to specify the exemptions from taxes and dues that went with the grant. Such exemptions were called parihūra, which word occurs in Kautilya and also in the Hāthigumpha Inscription of Khāravela ( in the 2nd century B.C., E. I. vol. xx at p. 9) where we read 'bamhanānam jātim parihāram dadāti'. In certain 
 
-early records even, these exemptions are said to be eighteen, e. 8. in the Hirahadagalli plate of Sivaskandavarman ( E. I. vol. I. p. 6 ) and 258 the Omgudu plate of Vijayaskandavarman 
+early records even, these exemptions are said to be eighteen, e. 8. in the Hirahadagalli plate of Śivaskandavarman ( E. I. vol. I. p. 6 ) and 258 the Omgudu plate of Vijayaskandavarman 
 
 251. For usuala EETTE: WAT I utcalfar get a forse for H ATT VI. 14; W ara: Axami * ut figurqu III. 26. on which trunit says 'pta mithra: 1 fararunt ... Ara Arauri 
 
 251 a. Tento a Vā Bir T H: 1 TFT in: TT ROT (HT: \# 77A100T, 3 4 6.14. 
 
-252. The passage in the plate of Sivaskandavarman (E. I. vol. I. pp. 8–9) is rendered by Dr. Bühler as 'this garden ...... is to be free from taxes, free from the taking of sweet and sour milk, free from troubles about 
+252. The passage in the plate of Śivaskandavarman (E. I. vol. I. pp. 8–9) is rendered by Dr. Bühler as 'this garden ...... is to be free from taxes, free from the taking of sweet and sour milk, free from troubles about 
 
 (Continued on the next page) 
 

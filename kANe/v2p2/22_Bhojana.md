@@ -17,7 +17,7 @@ The several matters about bhojana found in the Vedic literature will be first br
 
 T e er urd FFAHFIT CUTEN: aardghyturant sterat este faud u Tuuri aa: ETT TEFU: I II. 56, 68. The first verge is quoted by 379 p. 143. 
 
-1810. SITTEET Tyg: FaYgritura: la propoutat fort HTH: 1 urrera VII.26.2. there explains Biter in a far-fetched way as siirad TTT: Terrarurat &o. It is remarkablo that on Vedan tasutra III. 4. 29 Saṅkara connects this clause with allowed and for hiddon foods free free tratana-manager-te भवाधितं भवति'. On या. I. 154 (p. 221) अपराक quotes , long passage from Harita in which we road' ATEYTurun OTETT: FATT I SITT TT 
+1810. SITTEET Tyg: FaYgritura: la propoutat fort HTH: 1 urrera VII.26.2. there explains Biter in a far-fetched way as siirad TTT: Terrarurat &o. It is remarkablo that on Vedan tasutra III. 4. 29 Śhaṅkara connects this clause with allowed and for hiddon foods free free tratana-manager-te भवाधितं भवति'. On या. I. 154 (p. 221) अपराक quotes , long passage from Harita in which we road' ATEYTurun OTETT: FATT I SITT TT 
 
 RIETATTARE!758 
 
@@ -103,7 +103,7 @@ Abnika-prakāba p. 467 explains that this probibition holds good only if the lot
 
 1823. स होवाच किं मे पासो भविष्यतीत्याप इति होचुस्तस्माद्वा एतदशिपन्तः 
 
-WHITETTA: Raufai greita V. 2. 2 ; vide serra (III. 3. 18 ) and Saṅkara's blū95a for an explanation of the grairy and to passages. 
+WHITETTA: Raufai greita V. 2. 2 ; vide serra (III. 3. 18 ) and Śhaṅkara's blū95a for an explanation of the grairy and to passages. 
 
 1824. vietaire sursfa f a fa TTATGETETNE I more. W. 1. 5. 16. 9. 
 
@@ -115,7 +115,7 @@ Bhojana ( taking meals )
 
 763 
 
-Baya " he should honour food in the morning and evening by saying 'I like it', by saying 'it was good for eating' in the case of food served in srāddhas and it was perfect' as to food offered in abhyudayika rites 1834 (i. e. in marriage &c.). Kullūka (on Manu II. 54) and the Gr. R. (p. 314) quote verses of the Adipurāṇa (Brahmapurāna in Gr. R.) to the effect that on seeing food one should fold one's hands and should bow to it saying' may this always be ours' and that God Viṣṇu himself said that whoever honours food honours him. After the food is served on the plate or dish, the water should sprinkle water round it and say 'I sprinkle thee that art satya ( truth ) with sta (right order)' (in the morn ing) and 'I sprinkle thee that art pta with satya' (in the evening ).1887 According to some he then offers to the right of the plate or dish on the ground a little of the food in his plate from the west towards the east to Dharmarāja ( i.e. Yama), Citragupta and pretas ( vide Bhavisyapurāṇa quoted in Sm. C. I. p. 224 and Abnikaprakāśa P. 465 ), 1828 Others say that these balis are offered to bhūpati, bhuvanapati and bhūtānām pati, while in modern times they are offered to Citra, Citragupta, Yama, Yamadūta (and some add a fifth 'garvebhyo bhūtebhyaḥ svāhā). He should then sip & little water with the words 'thou art the seat of ambrosia (amrtopastara pam-asi) and at the end of the meal the words used are 'thou art the cover of ambrosia' (amstāpidhānam-asi). All this has been prescribed from very ancient times and has continued to this day. Yāj. I. 106 calls this sipping of water apośana (tak. ing in of water) and its purpose is to make food beneficial like ampta (nectar ) and to cover it as if with & garment. He then offers five morsels on which ghee is sprinkled to the five modes 
+Baya " he should honour food in the morning and evening by saying 'I like it', by saying 'it was good for eating' in the case of food served in srāddhas and it was perfect' as to food offered in abhyudayika rites 1834 (i. e. in marriage &c.). Kullūka (on Manu II. 54) and the Gr. R. (p. 314) quote verses of the Adipurāṇa (Brahmapurāna in Gr. R.) to the effect that on seeing food one should fold one's hands and should bow to it saying' may this always be ours' and that God Viṣṇu himself said that whoever honours food honours him. After the food is served on the plate or dish, the water should sprinkle water round it and say 'I sprinkle thee that art satya ( truth ) with sta (right order)' (in the morn ing) and 'I sprinkle thee that art pta with satya' (in the evening ).1887 According to some he then offers to the right of the plate or dish on the ground a little of the food in his plate from the west towards the east to Dharmarāja ( i.e. Yama), Citragupta and pretas ( vide Bhaviṣyapurāṇa quoted in Sm. C. I. p. 224 and Abnikaprakāśa P. 465 ), 1828 Others say that these balis are offered to bhūpati, bhuvanapati and bhūtānām pati, while in modern times they are offered to Citra, Citragupta, Yama, Yamadūta (and some add a fifth 'garvebhyo bhūtebhyaḥ svāhā). He should then sip & little water with the words 'thou art the seat of ambrosia (amrtopastara pam-asi) and at the end of the meal the words used are 'thou art the cover of ambrosia' (amstāpidhānam-asi). All this has been prescribed from very ancient times and has continued to this day. Yāj. I. 106 calls this sipping of water apośana (tak. ing in of water) and its purpose is to make food beneficial like ampta (nectar ) and to cover it as if with & garment. He then offers five morsels on which ghee is sprinkled to the five modes 
 
 1826. 
 

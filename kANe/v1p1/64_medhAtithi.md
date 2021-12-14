@@ -23,7 +23,7 @@ Bühler in his learned and exhaustive Introductiou to the Manusmrti (S. B. E. vo
 
 In several M88. of the bhūsyu at the end of several adhyāyas occurs a verse782 which says that a king nained Madana, son of Sahārana, brought copies of Medhātithi's commentary from another country and effected a restoration (jūrnoddhūru ). This does not refer to the restoration of the text of Medbātithi, but to the completion of the library of the king, who was Madanapāla, son of Sādhārana and flourished, as we shall see later on, in the latter half of the 14th century. 
 
-Dr. Jolly (Tagore Law Lectures p. 6 ) holds Medhātithi to be a southerner on account of the fact that his father's name was Virasvainin and on account of the attention paid to his blāsya by southern writers. It cannot be said that names ending in 'svāmin' were a monopoly of the south. The Rājatara rigiṇi gives literary celebrities whose names ended in 'svārniu' (e. g. V. 34 mentions a Sivasvāmi). Kśīrasvāmin was a Kashmirian. The south has always been famed for preserving Mss. of valuable works from the north. M88. of the Kāvyālamkāra of Bhimaha, a Kāshmiriau, are very rare and have been found only in the south. Bühler (p. CXX III) 
+Dr. Jolly (Tagore Law Lectures p. 6 ) holds Medhātithi to be a southerner on account of the fact that his father's name was Virasvainin and on account of the attention paid to his blāsya by southern writers. It cannot be said that names ending in 'svāmin' were a monopoly of the south. The Rājatara rigiṇi gives literary celebrities whose names ended in 'svārniu' (e. g. V. 34 mentions a Śivasvāmi). Kśīrasvāmin was a Kashmirian. The south has always been famed for preserving Mss. of valuable works from the north. M88. of the Kāvyālamkāra of Bhimaha, a Kāshmiriau, are very rare and have been found only in the south. Bühler (p. CXX III) 
 
 752 मान्या कापि मनुस्मृतिस्तदुचिता व्याख्या हि मेधातिथेः सा लुप्तैव विधेर्वशात् 
 
@@ -105,7 +105,7 @@ Medhātithi mentions several nyāyas for explaining the Manusmrti. On II. 29 he 
 
 Some common nyāyas mentioned by M. are · Brāhmaṇa parivrāja kanyāya (on Manu I. 22 ), Kākatāliya-nyāya (on Manu I. 12 ), Viśvajit-nyāya ( on Manu II. 2). 
 
-Bühler at first took the remark on Manu XII. 19 ) about Sārīraka' as780 referring to Saṅkara’s bhāsya on the Vedānta sutra, but later on changed his opinion (SBE vol. 25, p. CXXII) and held that it probably implies a reference to the Sārīraka sūtras. Bühler's considered opinion does not seem to be right. The words 'yatheha rājā ... apaiti' are a summary of Saṅkara’s bhāsya on Vedāntasūtra II. 1. 34 and II. 3. 42. and I. 2. 11-12. On Manu II. 83 he refers to the Upanisad bhāsya761 on Chāndogya II. 23. 4 and says that that passage 
+Bühler at first took the remark on Manu XII. 19 ) about Sārīraka' as780 referring to Śhaṅkara’s bhāsya on the Vedānta sutra, but later on changed his opinion (SBE vol. 25, p. CXXII) and held that it probably implies a reference to the Sārīraka sūtras. Bühler's considered opinion does not seem to be right. The words 'yatheha rājā ... apaiti' are a summary of Śhaṅkara’s bhāsya on Vedāntasūtra II. 1. 34 and II. 3. 42. and I. 2. 11-12. On Manu II. 83 he refers to the Upanisad bhāsya761 on Chāndogya II. 23. 4 and says that that passage 
 
  
 
@@ -129,7 +129,7 @@ FOUI
 
 579 
 
-has been differently explained in the bhāsya. Saṅkara does explain that passage of the Chāndogya differently. But this is not all. In various other places Medhātithi seems to have in view the Sārirakabhāsya of Sarkara. For example, he makes an obeisance to Parabrahma like an advaitin vedānta vedya-tattvaya...parasmui Brahmane namah'. On I. 80 he ha8782 before himn Saṅkara's bhāsya on the sūtra 'lokavat tu Tilakaivalyam' ( Vedantasutra II. 1. 33 ). He, however, seems to have favoured the position that the attainment of noksa is due763 not to mere correct knowledge but to the combina tion ( samuccurya) of knowledge and learma ( vide remarks on Manu VI. 32, 74-75 and XII. 87-90 ). This was probably due, as Kullika remarks784 ( on I. 3), to his being a profound studeut of Mimamsā. 
+has been differently explained in the bhāsya. Śhaṅkara does explain that passage of the Chāndogya differently. But this is not all. In various other places Medhātithi seems to have in view the Sārirakabhāsya of Sarkara. For example, he makes an obeisance to Parabrahma like an advaitin vedānta vedya-tattvaya...parasmui Brahmane namah'. On I. 80 he ha8782 before himn Śhaṅkara's bhāsya on the sūtra 'lokavat tu Tilakaivalyam' ( Vedantasutra II. 1. 33 ). He, however, seems to have favoured the position that the attainment of noksa is due763 not to mere correct knowledge but to the combina tion ( samuccurya) of knowledge and learma ( vide remarks on Manu VI. 32, 74-75 and XII. 87-90 ). This was probably due, as Kullika remarks784 ( on I. 3), to his being a profound studeut of Mimamsā. 
 
 Froin Medhātithi’s bhāsya it is perfectly clear that the text of Manu on which he commented was practically the same that we have now. He refers to ancient (cirantana) expositors of Manu (on V. 127 ) and to former ( pūrva ) ex positors (IV. 176, II. 134, X. 21 ). He discusses various read ings in several places ( vide III. 119, IV, 99, 185, 229, 
 

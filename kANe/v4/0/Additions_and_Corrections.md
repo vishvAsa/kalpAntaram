@@ -43,7 +43,7 @@ fagia are TUT 292. 14-20 113 note 257 At the end add 'The Mit. on Yāj. III. 280
 
 marks: TET TEFTATEM ÉRINTETTHEYa wala तदा संवतॊक्तं द्रष्टव्यम्-संन्यस्य दुर्मतिः कश्चित्प्रत्यापत्ति wagi orang 7777: QUATHIERRO II 
 
-This is Had 171–72 114 line 2 Add 'Vide the bhāsya of Saṅkara on Vedānta 
+This is Had 171–72 114 line 2 Add 'Vide the bhāsya of Śhaṅkara on Vedānta 
 
 sūtra III. 4. 43 ( babis tūbhayathāpı)'. 116 line 23 Add after the words 'for a month'-' It appears 
 

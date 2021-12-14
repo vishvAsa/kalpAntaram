@@ -9,9 +9,9 @@ Nārāyaṇabhatta 1364 was the most famous of the celebrated family of the Bhat
 
 1364 
 
-The work of Saṅkarabhatta is called Gadhi-vamśānucarita. The first leaf of the ms, is missing and the work comes abruptly to an end. Even in ancient times there appears to have been 
+The work of Śhaṅkarabhatta is called Gadhi-vamśānucarita. The first leaf of the ms, is missing and the work comes abruptly to an end. Even in ancient times there appears to have been 
 
-a rivalry between the two great sages of the ægveda viz. Vasiṣtha (to whom and his family are ascribed the verses in the VII Mandala of the Rgveda ) and Viśvāmitra (to whom are ascribed the verses of the 3rd Mandala of the same Veda ). It appears from æg. III. 53. 9-12 that Viśvāmitra's ancestor was Kuśika and that his prayers helped Bhārata people. At least as early as the Mahābhāṣya (vol. II p. 254 of Kielhorn's ed.) of Patañjali ( on Pāṇ IV.1.101 ) the pedi gree was Kuśika-Gādhi-Viśvāmitra. The name Gādbi does not occur in the Rgveda, The Mabābhārata and some of the Purāṇas are full of stories about the rivalry between Viśvā mitra and Vasiṣtha. For enmity (vaira ) between the two sages, vide Ādi chap. 175-176, Chitrashala ed. The gotra of the family was Viśvāmitra and the family is known as Gādhivamśa. In Rg. III, 33. 5 Viśvāmitra is said to be sūnu (son) of Kusika. The plural of Kuśika ocourg frequently in the Rg. Sarkarabhatta also composed a work called Dvaitanirṇaya, an account of which contributed by the present author will be found in ABORI vol. III pp. 67-72 ( for 1921-22 ). The Gādhivaiśānucarita of Sarkarabhatta does not mention the fact of the re-establishment of Viśveśvara by bis father Nārāyaṇabhatta. It is later descendants of Nārāyaṇabhatta that refer to this deed of Nārāyaṇabhatta. It is possible that Saṅkarabhatta wrote the Gādbivaman ucarita before the restoration of Visreśvara shrine. Nārāyaṇabhatta appears to have composed a work called 
+a rivalry between the two great sages of the ægveda viz. Vasiṣtha (to whom and his family are ascribed the verses in the VII Mandala of the Rgveda ) and Viśvāmitra (to whom are ascribed the verses of the 3rd Mandala of the same Veda ). It appears from æg. III. 53. 9-12 that Viśvāmitra's ancestor was Kuśika and that his prayers helped Bhārata people. At least as early as the Mahābhāṣya (vol. II p. 254 of Kielhorn's ed.) of Patañjali ( on Pāṇ IV.1.101 ) the pedi gree was Kuśika-Gādhi-Viśvāmitra. The name Gādbi does not occur in the Rgveda, The Mabābhārata and some of the Purāṇas are full of stories about the rivalry between Viśvā mitra and Vasiṣtha. For enmity (vaira ) between the two sages, vide Ādi chap. 175-176, Chitrashala ed. The gotra of the family was Viśvāmitra and the family is known as Gādhivamśa. In Rg. III, 33. 5 Viśvāmitra is said to be sūnu (son) of Kusika. The plural of Kuśika ocourg frequently in the Rg. Sarkarabhatta also composed a work called Dvaitanirṇaya, an account of which contributed by the present author will be found in ABORI vol. III pp. 67-72 ( for 1921-22 ). The Gādhivaiśānucarita of Sarkarabhatta does not mention the fact of the re-establishment of Viśveśvara by bis father Nārāyaṇabhatta. It is later descendants of Nārāyaṇabhatta that refer to this deed of Nārāyaṇabhatta. It is possible that Śhaṅkarabhatta wrote the Gādbivaman ucarita before the restoration of Visreśvara shrine. Nārāyaṇabhatta appears to have composed a work called 
 
 jivac-chrāddhavidhi'( based on the Brahmapurāna and other works) enabling a person to perform his own śrāddha while he was alive. Vide Prof. G. V. Devasthali's Deg, Cat. of Sanskrit and Prakrit Mss, in the Library of the Bombay University No. 1045 p. 376 and Prof. Velankar's Des. Cat, of the Sanskrit Mss. in the Iccharam Desai Collection of the Bombay Universsty Nos. 292-294 pp. 60-61. No. 292 begins : तत्र ब्रह्मपुराणे । अथ जीवच्छ्राद्धविथि: । देशकालधनश्रद्धाव्यवसायसमुट्टितः । 
 
@@ -47,7 +47,7 @@ by the Bhandarkar Oriental Institute, Poona, in 1926 pp. V-XXVII). Only a brief 
 
 As he was born in 1513 A. D. and composed the commentary on the Vșttaratnākara in 1545 A. D., his literary activity must be placed between 1540 and 1570 A. D. This is further corrobora ted by the fact that his grandson Kamalakarabhatta composed the Nirnayasindhu, one of his earliest works, in 1612 A. D. 
 
-It appears that Kāntānāthabhatta, a descendant of Kamala karabhatta, published a work called 'Bhatta-vamsa-Kāvyam' in 1903 at the Ananda-kadambini press of Mirzapur. Kāntānātha Bhatta was head Pandit at the Sanskrit Pathasaļā at that place. In the Hindi Preface to that work he said that he saw Saṅkara bhatta's work called Gadhivañśavarṇana and Mandlik's edition of the Vyavahāramayūkha and that induced him to write the work. It is in 10 sargas and contains 429 verses in several 
+It appears that Kāntānāthabhatta, a descendant of Kamala karabhatta, published a work called 'Bhatta-vamsa-Kāvyam' in 1903 at the Ananda-kadambini press of Mirzapur. Kāntānātha Bhatta was head Pandit at the Sanskrit Pathasaļā at that place. In the Hindi Preface to that work he said that he saw Śhaṅkara bhatta's work called Gadhivañśavarṇana and Mandlik's edition of the Vyavahāramayūkha and that induced him to write the work. It is in 10 sargas and contains 429 verses in several 
 
 1365 Nāgapāśa – son Cāngadeva - son Govinda – sou Rāmeśvara 
 
@@ -65,7 +65,7 @@ Govinda
 
 Rāmakrsna 
 
-Saṅkara 
+Śhaṅkara 
 
 Four sons 
 
@@ -79,7 +79,7 @@ Nilakantha
 
 Siddhesvara 
 
-Saṅkara 
+Śhaṅkara 
 
 I 
 
@@ -103,6 +103,6 @@ Prabhākara
 
 907 
 
-metres. The pedigree he gives differs from Saṅkarabhatta's work in several respects. It is unnecessary to pursue this matter here. 
+metres. The pedigree he gives differs from Śhaṅkarabhatta's work in several respects. It is unnecessary to pursue this matter here. 
 
 There is a work on dharmaśāstra called Dharmapravștti composed by a Nārāyaṇa. Mr. K. P. Jayasval holds that this was composed by jagadguru Nārāyaṇabhatta (JBORS for 1927, vol. XIII, parts III-IV, p. XI). The same view is held by M. M. Haraprasad Śāstri (Ind. Ant. for 1912 p. 7). Prof. Velankar in hjs Cat. of the Sanskrit Mss, in the Iccharam Suryaram Desai Collection of the Bombay University (p. 45) appears to identify Nārāyapa, author of Dharmapravștti (mss. No. 217 and 218 on p. 45) with the famous Nārāyanabhatta, author of Prayogaratna. But this identity is extremely doubtful. The benedictory verses1366 in the Dharmapravītti are diffierent from those of the Prayo garatna and Tristhalisetu, the method of treatment and the style are different and the colophons are also different. The author of the Dharmapravștti does not mention his ancestors as Nārāyaṇabhatta does. Nilakantha in his Vyavahāramayūkha finds 1387 fault with the Dharmapravṛtti by saying that certain quotations therein are unauthoritative. 

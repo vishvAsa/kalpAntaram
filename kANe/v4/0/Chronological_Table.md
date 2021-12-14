@@ -53,7 +53,7 @@ Panini's Astādhyāyi 650–700 A. D.-Kumārılabhatta, author of Tantravārtık
 
 works. 600 A. D-900 A.D-Most of the smrtis such as those of Parasara, 
 
-Saṅkha, Devala and some of the Purāṇas such as Agni, Garuda. 788 A. D.-820 A. D.Saṅkarācārya, the great Advaita philosopher 800 A. D.-850 A D--Viśvarūpa, the commentator of Yājñavalkya 
+Saṅkha, Devala and some of the Purāṇas such as Agni, Garuḍa. 788 A. D.-820 A. D.Saṅkarācārya, the great Advaita philosopher 800 A. D.-850 A D--Viśvarūpa, the commentator of Yājñavalkya 
 
 smrti 825 A D-900 A. D--Medhātıthi, a commentator of Manusmrti 966 A. D.-Utpala coinposed his commentary on the Brhajjātaka of 
 

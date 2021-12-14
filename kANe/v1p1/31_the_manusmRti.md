@@ -367,7 +367,7 @@ st17. POONA
 
 337 388 
 
-Ara at Hall aft: Thegatara. Vide. 4). II. 4. On the Sūtra H a (a raha III. 1. 14 ) Saṅkara 'Agatan : FTET: '. 
+Ara at Hall aft: Thegatara. Vide. 4). II. 4. On the Sūtra H a (a raha III. 1. 14 ) Śhaṅkara 'Agatan : FTET: '. 
 
 ar 
 
@@ -379,7 +379,7 @@ FOUNDE
 
 
 
-ma. The Mrechakatika (9. 39 )330 refers to the ordinance of Manu that a Brāhmana sinner was not to be sentenced to death, but was to be banished. An inscription of the Valabhi king Dharasena dated in the year 252 of the Valabhi era (i. e. 571 A. D. ) speaks of a king as one who obeyed340 the rules composed by Mauu (I. A. vol. 8 p. 303, Gupta Inscriptions p. 165 ). Vide also I. A. vol. IV. p. 105 where the same words occur in an inscription from Valabhi dated 216 of the Valabhi era (i. e. 535 A. D.). Sabarasvāmin, the bhāsyakāra of Jaimi. ni's sutras, who cannot be placed later than 500 A. D. and may be a few centuries earlier still, says “Manu and others have given instruction " 341 and quotes a verse as a smrti passage which is practically the same as Manu VIII. 416 and similar to Udyoga-parva34a 33. 64. Aparārka and Kullūka point out how the Bhavisyapurāna expounds passages of the Manusmrti (vide Kullūka on Manu XI. 72, 73, 100 and Aparārka pp. 1071, 1076).343 It will be shown below that Brhaspati must have composed his work before 500 A. D. Brhaspati says that the Manusmrti occupies a pre-eminent position because it correc tly represents the sense of the Veda and that a smrti which is in conflict with Manu is not esteemed.344 Brhaspati in nume 
+ma. The Mrechakatika (9. 39 )330 refers to the ordinance of Manu that a Brāhmana sinner was not to be sentenced to death, but was to be banished. An inscription of the Valabhi king Dharasena dated in the year 252 of the Valabhi era (i. e. 571 A. D. ) speaks of a king as one who obeyed340 the rules composed by Mauu (I. A. vol. 8 p. 303, Gupta Inscriptions p. 165 ). Vide also I. A. vol. IV. p. 105 where the same words occur in an inscription from Valabhi dated 216 of the Valabhi era (i. e. 535 A. D.). Sabarasvāmin, the bhāsyakāra of Jaimi. ni's sutras, who cannot be placed later than 500 A. D. and may be a few centuries earlier still, says “Manu and others have given instruction " 341 and quotes a verse as a smrti passage which is practically the same as Manu VIII. 416 and similar to Udyoga-parva34a 33. 64. Aparārka and Kullūka point out how the Bhaviṣyapurāna expounds passages of the Manusmrti (vide Kullūka on Manu XI. 72, 73, 100 and Aparārka pp. 1071, 1076).343 It will be shown below that Brhaspati must have composed his work before 500 A. D. Brhaspati says that the Manusmrti occupies a pre-eminent position because it correc tly represents the sense of the Veda and that a smrti which is in conflict with Manu is not esteemed.344 Brhaspati in nume 
 
 339 अयं हि पातकी विप्रो न वध्यो मनुरब्रवीत् । राष्ट्रादस्मात्तु निर्वास्यो विभवैरक्षतैः 
 

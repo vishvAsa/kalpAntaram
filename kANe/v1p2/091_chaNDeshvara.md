@@ -95,7 +95,7 @@ at 11 2nd intro, verse Taalfaro.
 
 
 
-There are two more works composed by Candeśvara viz., the Dānavākyāvali and the Sivavākyāvali. Vide I. O. Cat. p. 1409, No. 3724 for the latter and Hāraprasad Shastri's Cat. ( 1925) vol. III No. 2393 pp. 465-66 for the Dānavākyāvali. Raghunandana quotes Dānavākyāvali in (vol. II ) Udvāha p. 138 ( which is most probably this work of Candeśvara). 
+There are two more works composed by Candeśvara viz., the Dānavākyāvali and the Śivavākyāvali. Vide I. O. Cat. p. 1409, No. 3724 for the latter and Hāraprasad Shastri's Cat. ( 1925) vol. III No. 2393 pp. 465-66 for the Dānavākyāvali. Raghunandana quotes Dānavākyāvali in (vol. II ) Udvāha p. 138 ( which is most probably this work of Candeśvara). 
 
 Candesvara names in his works, particularly in the Kr̥tyarat nakara and the Vivādaratnākara, a host of writers and works. In his great digest he drew largely upon five predecessors and incorporated often without acknowledgment much or almost all that was valuable in them. These five predecessors were the Kamadhenu, the Kalpataru, the Pārijāta, the Prakāśa (i. e. Smsti mahārnava) and Halāyudha, all of which he quotes scores of of times. At the end of the Vivādaratnākara he boasts that what. ever is of the essence in the above five works and even more is comprehended in his single work the Ratnākara,1151 Dr. Jayasval rightly points out (in Intro. to Rājanitiratnākara p. p.) From Lakṣmidhara's Kalpataru on Vyavahāra Candeśvara borrows into his Vivādaratnākara practically the whole book'. The boastful references to bimself and highly slighiing remarks about Kāma dhenu, Kalpataru and other works which occur in his works are felt by modern readers as very objectionable and offensive, since he appropriates without express acknowledgement the valuable parts of such works as the Kamadhenu, Kalpataru and others. 
 
@@ -175,7 +175,7 @@ times, one of the queens being his honour) = Queen
 
 Lachima and he took additional Viśvāsadevi. 
 
-title of Rūpanārāyana, and founded a city called Sivasimha pura, also known as Gajaratha 
+title of Rūpanārāyana, and founded a city called Śivasimha pura, also known as Gajaratha 
 
 pura. There is no unanimity about the chronology of the rulers of the Kārṇāta dynasty. 
 

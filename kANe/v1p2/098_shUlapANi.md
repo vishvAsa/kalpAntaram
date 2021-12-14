@@ -217,7 +217,7 @@ l
 
 
 
-(dissented from); Bhartryajña (p. 254), Rājan (Bhojadeva) 150,152, 157; Lakṣmidhara 319, Viśvarūpa 91, 119; Śrikara 66 (dissented from ); M. M. Chakravarti (JASB. 1911, p. 339) does not mention Kapardibhāsya and Bhartsyajña. On pp. 98, 139, 536-37 Śūlapāṇi refers to Mahadevapada and on p. 118 Srimaheśvara, all referring to God Siva as the interlocutor in the Bhavisya Purāṇa. 
+(dissented from); Bhartryajña (p. 254), Rājan (Bhojadeva) 150,152, 157; Lakṣmidhara 319, Viśvarūpa 91, 119; Śrikara 66 (dissented from ); M. M. Chakravarti (JASB. 1911, p. 339) does not mention Kapardibhāsya and Bhartsyajña. On pp. 98, 139, 536-37 Śūlapāṇi refers to Mahadevapada and on p. 118 Srimaheśvara, all referring to God Śiva as the interlocutor in the Bhaviṣya Purāṇa. 
 
 The chronological relation between Salapāṇi and Vācaspati miśra appears to be this that Sūlapāṇi was the older of the two, though they appear to refer to each other. For example, the Dvaitanirṇaya of Vacaspati (p. 102 in the Sāstramālā Series of Benares ) mentions Sraddhavivekamata. On the other hand, in the Rasayātrāviveka (which appears to be his last work) Sūlāpani mentions the Tirtha-cintāmani of Vacaspatimisra.1260 
 

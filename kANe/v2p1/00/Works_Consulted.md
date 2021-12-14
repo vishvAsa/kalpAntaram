@@ -115,7 +115,7 @@ Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881.
 
 PURĀŅAS Agnipurānam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
 
-volumes (printed at Ganpat Krishnaji Pregs). Bhavisyapurana--published by the Venkateśvara Press, Bombay. 
+volumes (printed at Ganpat Krishnaji Pregs). Bhaviṣyapurana--published by the Venkateśvara Press, Bombay. 
 
 Brahmapurana-Anandasrama Press. Brahmāṇdapurāna-Venkatesvara Press, Bombay. 
 
@@ -341,7 +341,7 @@ series, 1892).
 
 Works Consulted 
 
-Modern Works Sir Sivaswainy Aiyar's 'Evolution of Hindu Moral Ideals', 
+Modern Works Sir Śivaswainy Aiyar's 'Evolution of Hindu Moral Ideals', 
 
 1935. Alberuni's 'India' translated by Dr. Sachau in two volumes 
 

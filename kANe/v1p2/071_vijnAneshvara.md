@@ -23,7 +23,7 @@ nature of a digest of smrti material. It brings together numerous smrti passages
 
 The Mit. quotes a host of smrti writers and six pre decessors, who were commentators and authors of digests on dharmaśāstra.821 Besides, it quotes Vedic works (like the Kāthaka ), the Brhadāranyakopanisad, the Garbhopanisad the Jābālopanisad and other works like the Nirukta, Bharata ( author of Nātyaśāstra ), Yogasūtra, Pāṇini, Susruta, the Skandapurana, the Viṣṇupurana, Amara, Guru (i. e. Prabhākara ). 
 
-A noticeable feature of the Mit, may be mentioned here. Though it quotes from more than 80 Smirtis and Smrtikāras it is very chary of quoting from the Purāṇas. Only five Purāṭas are mentioned by name in the Mitāksarā viz. the Brahmāndas22 ( one verse on Yaj. III. 30), the Bhavisyat (on 
+A noticeable feature of the Mit, may be mentioned here. Though it quotes from more than 80 Smirtis and Smrtikāras it is very chary of quoting from the Purāṇas. Only five Purāṭas are mentioned by name in the Mitāksarā viz. the Brahmāndas22 ( one verse on Yaj. III. 30), the Bhaviṣyat (on 
 
 ame are: 
 
@@ -41,7 +41,7 @@ Yāj. III. 6), Matsya ( Mit. on Yāj. I. 297-298 quotes eleven verses from the M
 
 This sparing use of Purāṇas in the Mit. is in consonance with Yāj. I. 3 which states that fourteen are the sources of Vidya and of Dharma, viz. Purāṇa, Nyāya ( Tarka or logic), Mī. māṁsā, Dharmaśāstra, the Angas ( six auxiliary lores of the Veda ) and the (four) Vedas. It should be noticed that the fourteen classes of works are enumerated in a rising scale of importance and authoritativeness i, e. the Verlas are the highest authority on matters of Dharma and the Purāṇas are the lowest. Dharmaśāstra is given a high place after the Vedas and Angas. All early writers hold that the Veda is the baṣis of Dharma and so are the Smiṣtis (vide Gaut. Dh. 1-2, Vas. 1.4, Manu II.6 ) and Manu states (11.10 ) that Smṛti means Dharmaśāstra. 
 
-The Mitākṣarā is, in the matter of citing Purāṇas as authorities, in great contrast to the Kalpataru and the com mentary of Aparārka. In the very first Kānda ( Brahmacāri ) of the Kalpataru eleven Purāṇas are quoted as authorities viz. Aditya, Kālikā, Devī, Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu and of these the Brahma is quoted 11 times, Bhavisya 28 times and Viṣṇu 11 times. Taking the last Kānda (on Moksa), among the works cited as authorities seven Purāṇas figure viz. Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu, of which, the Viṣṇupurāna is quoted oftener than any other work ( except the Mahābhārata, the Bhagavadgitā and the Manusmrti ). 
+The Mitākṣarā is, in the matter of citing Purāṇas as authorities, in great contrast to the Kalpataru and the com mentary of Aparārka. In the very first Kānda ( Brahmacāri ) of the Kalpataru eleven Purāṇas are quoted as authorities viz. Aditya, Kālikā, Devī, Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu and of these the Brahma is quoted 11 times, Bhaviṣya 28 times and Viṣṇu 11 times. Taking the last Kānda (on Moksa), among the works cited as authorities seven Purāṇas figure viz. Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu, of which, the Viṣṇupurāna is quoted oftener than any other work ( except the Mahābhārata, the Bhagavadgitā and the Manusmrti ). 
 
 Vide below under 'Aparārka' for the large number of Purāṇas and Upapurānas ( 22 in all ) mentioned by A parārka. 
 

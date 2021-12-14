@@ -91,7 +91,7 @@ Nṭsimhaprasāda, 1500 - 1525 A. D. , The Sarasvativilāsa compiled under king
 
 several other works. 1520 - 1575 A. D. - Raghunandana, author of Dāyatattva, 
 
-Divyatattva, Vyavahāratattva and other Tattvas. 1560 - 1620 A. D. -- Saṅkarabhatta, author of Dvaitanirṇaya 
+Divyatattva, Vyavahāratattva and other Tattvas. 1560 - 1620 A. D. -- Śhaṅkarabhatta, author of Dvaitanirṇaya 
 
 or Dharmadvaitanirṇaya. 1590 – 1630 A. D. - Nandapandita, author of the Dattakami 
 

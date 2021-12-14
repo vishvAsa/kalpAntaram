@@ -31,7 +31,7 @@ The question is whether Todarral is the author of the work called Todarānanda, 
 
 Slokas, 
 
-The several parts of that encyclopædia dealing with ācāra, dāna, vyavahāra, śrāddha, viveka, prāyścitta, samaya were called saukhyas. An account of some of the saukhyas that were avail able to me may be concisely given here. The Vyavahārasau khya ( D. C. ms. No. 366 of 1875-76 ) begins with an invocation of Siva, speaks of the pārasika emperor?369 (Akbar) of Hind (India) and then deals with the several topics of judicial pro cedure such as the king's duty to look into disputes, the sabhā, judge, meaning of the word vyavahāra, enumeration of 18 vyarahārapadas, time and place of rjavahara, the plaint, the reply, the agent of the parties (pratinidhi), pratyakalita, the superiority of one mode of proof over another, witnesses, documents, possession, inference, ordeals and oaths, grades of punish 
+The several parts of that encyclopædia dealing with ācāra, dāna, vyavahāra, śrāddha, viveka, prāyścitta, samaya were called saukhyas. An account of some of the saukhyas that were avail able to me may be concisely given here. The Vyavahārasau khya ( D. C. ms. No. 366 of 1875-76 ) begins with an invocation of Śiva, speaks of the pārasika emperor?369 (Akbar) of Hind (India) and then deals with the several topics of judicial pro cedure such as the king's duty to look into disputes, the sabhā, judge, meaning of the word vyavahāra, enumeration of 18 vyarahārapadas, time and place of rjavahara, the plaint, the reply, the agent of the parties (pratinidhi), pratyakalita, the superiority of one mode of proof over another, witnesses, documents, possession, inference, ordeals and oaths, grades of punish 
 
 1368 
 

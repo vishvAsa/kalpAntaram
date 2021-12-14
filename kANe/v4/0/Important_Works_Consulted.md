@@ -55,7 +55,7 @@ xix
 
 Vaikhānasa-smārta-sūtra (edited with English translation by Dr. 
 
-Caland) Vaikbānasa-srauta-sūtra ed. by Dr. Caland (B. I. series, 1941) Vārābagrhyasūtra (G, O. S.) Vasistha-dharmasutra (Bombay S. series) Vedāntasūtra with the bhāsya of Saṅkara (Nirn.) Vispudharmasūtra (ed. by Dr. Jolly) 
+Caland) Vaikbānasa-srauta-sūtra ed. by Dr. Caland (B. I. series, 1941) Vārābagrhyasūtra (G, O. S.) Vasistha-dharmasutra (Bombay S. series) Vedāntasūtra with the bhāsya of Śhaṅkara (Nirn.) Vispudharmasūtra (ed. by Dr. Jolly) 
 
 Smilis Āpastambasmrti in verse (Anan.) Atri-smrtı (Adan.) Auśanasa-smrti (Jiv.) Bbagavad-gītā Brhat-Parāśara-smrti (J1) Caturvimśati-mata-sangraba (Benares Sapskrit Series) Daksasmrti (Anan.) Devalasmrti (Anan) Harivanīa (Chitraśālā Press ed. Poona) Katyāyanasmrti on Vyavabāra (reconstructed by P. V. Kane under 
 
@@ -73,7 +73,7 @@ History of Dharmaśāstrā
 
 PURĀNAS The Anandasrama editions of the Agni, Brahma, Brahmavaivarta, 
 
-Matsya, Padma and Vāyu have been used, the Nirn edition of the Bhāgavatapurāna (text only) and the edition of the Narasimha. purāna published by Messrs Gopal Narayan and Co. have been relied upon, the Venkateśvara Press editions of the Bhavisya, Brahmānda, Brhan-Nāradīya (or simply Nāradīya), Garuda, Kālikā. Kūrma, Linga, Mārkandeya, Viṣṇupurāpa and Viṣṇu dbarmottara have been used, the Nīlamatapurāna, ed. by Pandits Ramlal Kanjilal and Jagaddbar Zadoo (1924) 
+Matsya, Padma and Vāyu have been used, the Nirn edition of the Bhāgavatapurāna (text only) and the edition of the Narasimha. purāna published by Messrs Gopal Narayan and Co. have been relied upon, the Venkateśvara Press editions of the Bhaviṣya, Brahmānda, Brhan-Nāradīya (or simply Nāradīya), Garuḍa, Kālikā. Kūrma, Linga, Mārkandeya, Viṣṇupurāpa and Viṣṇu dbarmottara have been used, the Nīlamatapurāna, ed. by Pandits Ramlal Kanjilal and Jagaddbar Zadoo (1924) 
 
 COMMENTARIES, DIGESTS, MISCELLANEOUS SANSKRIT, PĀLI AND PRAKRIT WORKS AND AUTHORS, Abhilasıtārthacıntāınanı ( = Mānasollāsa ), published by Mysore 
 
@@ -83,7 +83,7 @@ where a ms, of it was used. Aparārka's commentary on the Yājñavalkyasmrtı ( 
 
 Mr Gharpure Bārbaspatya-sūtra ( ed. by Dr F. W. Thomas, Lahore 1921) Brāhmanasars asva-D C. ms No. 9 of A 1883-84 Brhatsambitā of Varābamıbıra with the com of Utpala (ed. by 
 
-M, M. Sudhakara Dvivedı ) Dandaviveka of Vardhamāna (G Q. S.) Dāyabhāga of Jimutavābana ( Jiv ) Dharmadvaitanirṇaya of Saṅkarabhatta (Ghar.) Dharmasındhu of Kasınātha with Marathi translation (Nirn , 6th ed. 
+M, M. Sudhakara Dvivedı ) Dandaviveka of Vardhamāna (G Q. S.) Dāyabhāga of Jimutavābana ( Jiv ) Dharmadvaitanirṇaya of Śhaṅkarabhatta (Ghar.) Dharmasındhu of Kasınātha with Marathi translation (Nirn , 6th ed. 
 
 of 1936 ) Dīpakalıkā, com, of Śūlapanı on Yājāavalkyasmrtı ( Ghar ) Gangābhakti-tarangini of Ganapati, published at Darbhangā (oblong 
 

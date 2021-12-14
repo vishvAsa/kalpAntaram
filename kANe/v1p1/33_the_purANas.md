@@ -123,7 +123,7 @@ farrega il 34OTTTTT 25. 42. Vide Nilokuntha's glogs on it quote H. of Dh, Vol IV
 
 
 
-Purāuas in the Mit. he cites only one quotation from the Matsyapurana (chap. 94 ). But the Mit. quotes several Purāṇas on Yāj. For example, on Yāj. III. 30 it quotes a verse from Brahmāuda purāna which is also quoted by the Smrticandrikā. On Yāj. I. 297-98 the Mit. quotes two verses from Matsya purāna ( 93.11-12) on the position of the planets on a diagram or painting of planets in Grahapūjā. Matsya ( 93.33-37) prescribes the same four Vedic mantras that Yaj. prescribes (in I. 300-301 ) for the worship of the Sun, Mars, Saturn and Ketu. The Mit. on Yāj. III. 6 prescribes the offering of Nārā yanabali for those that commit suicide and states that the procedure is described in Vaiṣnava (purāna ?). On Yāj. III. 6 the Mit. quotes from the Bhavisyat-purāna providing, for death on serpent bite, to a brahmana reciter of Purāṇas the gift of a golden serpent made from one bhara of gold. The Mit. on Yāj. II. 290 refers to the view of the Skandapurana that there were veryūs that belonged to a distinct caste. It appears to quote the Mārkandeya purāna several times on Yaj. 1.238, 254, III. 19, 287. Thus the Mit. mentions by name only six Purāṇas, while Aparārka naines twenty Purāṇas and Smrti-candrikā 22. 
+Purāuas in the Mit. he cites only one quotation from the Matsyapurana (chap. 94 ). But the Mit. quotes several Purāṇas on Yāj. For example, on Yāj. III. 30 it quotes a verse from Brahmāuda purāna which is also quoted by the Smrticandrikā. On Yāj. I. 297-98 the Mit. quotes two verses from Matsya purāna ( 93.11-12) on the position of the planets on a diagram or painting of planets in Grahapūjā. Matsya ( 93.33-37) prescribes the same four Vedic mantras that Yaj. prescribes (in I. 300-301 ) for the worship of the Sun, Mars, Saturn and Ketu. The Mit. on Yāj. III. 6 prescribes the offering of Nārā yanabali for those that commit suicide and states that the procedure is described in Vaiṣnava (purāna ?). On Yāj. III. 6 the Mit. quotes from the Bhaviṣyat-purāna providing, for death on serpent bite, to a brahmana reciter of Purāṇas the gift of a golden serpent made from one bhara of gold. The Mit. on Yāj. II. 290 refers to the view of the Skandapurana that there were veryūs that belonged to a distinct caste. It appears to quote the Mārkandeya purāna several times on Yaj. 1.238, 254, III. 19, 287. Thus the Mit. mentions by name only six Purāṇas, while Aparārka naines twenty Purāṇas and Smrti-candrikā 22. 
 
 In all about 40 Puranas and Upa purāṇas are quoted in Nibandhas. 
 
@@ -157,7 +157,7 @@ handarkar
 
 and practices, yet the popular religion of modern Hindus is pre-eminently paurīnic. The Purīvas contain thousands of slokas on dharinaśāstra matters, they are a rich mine awaiting exploration by careful students of social and religious questions and shed a flood of light on the deve 
 
-f light on the development of reli gious beliefs and practices in meilieval and modern India. Therefore, the re-constitution of the text of the purānas is a problem that will have to be tackled in the near future. Be sides the several Mahāpurīnas, eighteen Upapurāṇas also are enumerated in some of the Puranas. Vide Garuda (223.17 ff),488 Skanda (V. 3. chap. 1. 45-62 and VII. I. char. 2), Padma (Pātāla-khanda chap. 111. 95-98 and Matsya ( 53. 59 ff) for Upapurānas. The Matsya-purana (chap. 53, verse 58 ) states that the 18 purāṇas reached in extent four lakho of verses and also states that there were upabhodus (i.e. Upapurāvas ) and names some of them viz. Nārasimha, Nānda, (Nandam), Samba and Aditya. Besides the Malõpurānas and Upapurānas, there are other works of the purīna class such as Ganesa, Maudgala, Devi, Kalki &c. The Padmapurana (Uttarakhanda chap. 263 ) divides the 18 Purāṇas into three groups, sāttvika, rājusa and tāmesa and says that the Visuu, Nāradiya, Bhā gavata, Garuda, Padma aud Varāha are sāttvika. The Matsya ( 53 ) also speaks of this division. The Lingapurīna (39. 63 66 ) speaks of the twenty expounders of dharma just as Yājñavalkya does and quotes the two verses in the form in which the Mit. presents them (and not Viśvarūpa ), while the Padma (Uttarakhanda 263. 86-89 ) divides the eighteen gmṛtis into three groups of sāttvika, rājasa and tāmasa. 480 It would be quite clear to any reader of the purānas and the smrtis that most of the former in their extant form are later than the smrtis of Manu, Yājṅavalkya, Parāśara, Nārada &c. 458 3fotografa A: afirana OI 377F ARTTTH ARTHEAUT 
+f light on the development of reli gious beliefs and practices in meilieval and modern India. Therefore, the re-constitution of the text of the purānas is a problem that will have to be tackled in the near future. Be sides the several Mahāpurīnas, eighteen Upapurāṇas also are enumerated in some of the Puranas. Vide Garuḍa (223.17 ff),488 Skanda (V. 3. chap. 1. 45-62 and VII. I. char. 2), Padma (Pātāla-khanda chap. 111. 95-98 and Matsya ( 53. 59 ff) for Upapurānas. The Matsya-purana (chap. 53, verse 58 ) states that the 18 purāṇas reached in extent four lakho of verses and also states that there were upabhodus (i.e. Upapurāvas ) and names some of them viz. Nārasimha, Nānda, (Nandam), Samba and Aditya. Besides the Malõpurānas and Upapurānas, there are other works of the purīna class such as Ganesa, Maudgala, Devi, Kalki &c. The Padmapurana (Uttarakhanda chap. 263 ) divides the 18 Purāṇas into three groups, sāttvika, rājusa and tāmesa and says that the Visuu, Nāradiya, Bhā gavata, Garuḍa, Padma aud Varāha are sāttvika. The Matsya ( 53 ) also speaks of this division. The Lingapurīna (39. 63 66 ) speaks of the twenty expounders of dharma just as Yājñavalkya does and quotes the two verses in the form in which the Mit. presents them (and not Viśvarūpa ), while the Padma (Uttarakhanda 263. 86-89 ) divides the eighteen gmṛtis into three groups of sāttvika, rājasa and tāmasa. 480 It would be quite clear to any reader of the purānas and the smrtis that most of the former in their extant form are later than the smrtis of Manu, Yājṅavalkya, Parāśara, Nārada &c. 458 3fotografa A: afirana OI 377F ARTTTH ARTHEAUT 
 
 परम् ॥ तृतीयं स्कान्द-( नान्द ? )मुद्दिष्टं कुमारेण तु भाषितम् । चतुर्थ शिवधर्माख्यं स्यानन्दीश्वरभाषितम् ।। दुर्वाससोक्तमाश्चर्य नारदोक्तमतः परम् । कापिलं वामनं चैव तथैवोशनसेरितम् ॥ ब्रह्माण्डं वारुणं चाथ कालिकाहयमेव च । माहेश्वरं तथा साम्बं सौरं सर्वार्थसञ्चयम् । पराशरोक्तमपरं मारांचं 
 
@@ -179,15 +179,15 @@ It may be stated here that the Smrti chapters in the Puranas are very much influ
 
 Ācāra--Brahma 113; Garuṇa Āgu ucu--Agni 157-158 ( both 
 
-50; Kālikā 88; Kurma kinds, ou death and birth). (uttarārdha ) 13; Linga Brahma 113 (on birth ) ; (purvārdha ) 89; Markan- Garuda (preta-khanda ) deya 31 ; Nārada ( pūrvār- chap. 5; Kurma (uttarār dha ) 26 ; Padma (Adi dha chap. 23); Linga 52-56, pātālakhanda 9, (pūrvārdha 89). srstikhanda 46); Skanda I (Kaumūrika 41 ), III. 
+50; Kālikā 88; Kurma kinds, ou death and birth). (uttarārdha ) 13; Linga Brahma 113 (on birth ) ; (purvārdha ) 89; Markan- Garuḍa (preta-khanda ) deya 31 ; Nārada ( pūrvār- chap. 5; Kurma (uttarār dha ) 26 ; Padma (Adi dha chap. 23); Linga 52-56, pātālakhanda 9, (pūrvārdha 89). srstikhanda 46); Skanda I (Kaumūrika 41 ), III. 
 
 Āśramadharmas--Agni 160 (dharmāranya 6 ), IV. I 
 
-161; Bhagavata VII. 12 (pārvārdha 38, 40 ); Siva 
+161; Bhagavata VII. 12 (pārvārdha 38, 40 ); Śiva 
 
 and 13, XI. 17; Brahma (kailāsasaṁhita ) chap. 
 
-114 ; Garuda 49 ; Kūrme 18-20 (on ācāra of' yati, 
+114 ; Garuḍa 49 ; Kūrme 18-20 (on ācāra of' yati, 
 
 (uttarārdha ) 1 -16 making of a disciple, 
 
@@ -199,7 +199,7 @@ prastha and yati);
 
 Mārkandeya 25–26 ; Āhnika-Agni 155; Brahma- Nārada (pūrvārdha 27 
 
-vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuda 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarārdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pūr- Brøṭikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyāsin ); Skamme IV. I (pūrvārdha ) chap; | IV. I ( 12ũrvādha ) chāy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
+vaivarta (Brahmakhanda) and 43 ); Padma (ādi. 26 ; Garuḍa 50 and 213- kbanda 58-60 for vāna 217 ; Kūrma (uttarārdha) prastha and yati, bhūmi. 18-19; Linga 26 ; Mārkan. khanda 59 for grhastha, deya 27 ; Nārada (pūr- Brøṭikhanda 15 ); Saura vārdha ) 27; Padma (srsti 17 and 20 ) vanaprasthy 46, uttara 233 ); Skanda and saṁnyāsin ); Skamme IV. I (pūrvārdha ) chap; | IV. I ( 12ũrvādha ) chāy 35 and III. 2 (dharmi- | 41 (vānaprastha and rayya-khanda ) chap. 5. I. yati ); Vianu III. 9. bet 
 
 Ahandari 
 
@@ -231,7 +231,7 @@ varta ( prakstikhanda 7); and utsargu.
 
 Kurma 30 ; Linga 40 ; Agni 209-213 (mahā 
 
-Nāradiya (pūrvārdha 41); dānas ); Bhavisya IV. 
+Nāradiya (pūrvārdha 41); dānas ); Bhaviṣya IV. 
 
 Skanda I (Kaumārikā 150 ff; Brahma 109 (spe 
 
@@ -239,7 +239,7 @@ khanda chap. 40 and cially annadāna ); Bra
 
 218–248 ), II (puruso hmavaivarta (prakṣti 
 
-ttamamāhātmya chap. kbanda 27 ); Garuda 51 ; 
+ttamamāhātmya chap. kbanda 27 ); Garuḍa 51 ; 
 
 39 ), VI. 272; Vāyu Kūrma, uttarārdha 26 
 
@@ -259,7 +259,7 @@ Padma (Brahma-khanda khanda 39-40 and 94,
 
 5, pātālakhanda 48 ); brahmakhanda 24, srsti 45 on godāna and 75, 
 
-Vāmana 12. uttara 27 on annadāna, Narakas-vide under part 28 and 33 ); Saura 9-10; kas. Agni 203 1.37% Siva (Umāsamhita chap. Brahma 20 (25. memes 
+Vāmana 12. uttara 27 on annadāna, Narakas-vide under part 28 and 33 ); Saura 9-10; kas. Agni 203 1.37% Śiva (Umāsamhita chap. Brahma 20 (25. memes 
 
 INS 
 
@@ -269,7 +269,7 @@ INS
 
 419 
 
-given ), 105 ( 22 names ); | 90 ( for lapses of yatis ); Brahmavaivarta, prakrti- Nārada, purvārdha 14 khaụda 29 ( for names of and 30 ; Padma ( brahma 86 narakakundas ) und khanda 18-19); Saura 33; Padma (uttara, chap. 52; Varāha 68 ( for aga 227 for names of 140 ); myāgamana ), 131-136 Siva (umāsamhita chap. ( for various lapses ), 179; 8 for 28 narakas and Vāyu (purvārdha 18 for chap. 16 ); Skandal lapses of yati). (kaumārikā-khanda 39 ), VI. 226-227, Visuu I. 6. 
+given ), 105 ( 22 names ); | 90 ( for lapses of yatis ); Brahmavaivarta, prakrti- Nārada, purvārdha 14 khaụda 29 ( for names of and 30 ; Padma ( brahma 86 narakakundas ) und khanda 18-19); Saura 33; Padma (uttara, chap. 52; Varāha 68 ( for aga 227 for names of 140 ); myāgamana ), 131-136 Śiva (umāsamhita chap. ( for various lapses ), 179; 8 for 28 narakas and Vāyu (purvārdha 18 for chap. 16 ); Skandal lapses of yati). (kaumārikā-khanda 39 ), VI. 226-227, Visuu I. 6. 
 
 Rājadharma-Agni 220-242; 
 
@@ -277,13 +277,13 @@ Kālikā 87; Mārkandeya and II.6.
 
 24 ; Matsya 216-227,240. Niti-vide under rājadharma; 
 
-Samkāramvide under Vi Garuda 108-114 (summa 
+Samkāramvide under Vi Garuḍa 108-114 (summa 
 
 vaha also. ry of Bphaspati-nīti ) and 
 
 Agni 153-154 and 166 ; 115 ( summary of Sau 
 
-Bhavisya I ( Brāhmapar naka ). 
+Bhaviṣya I ( Brāhmapar naka ). 
 
 va chap. 3-4 and 7 ); Pātakas-vide under prāyas- Nārada, pūrvārdha 25-26; 
 
@@ -293,7 +293,7 @@ citta; Agni 168 ( mahā- Skanda IV. I (purvārdba pātakas and lesser sins ); 36
 
 259-268, 290-91, 320 rada (pārvārdha 15 ) ; 
 
-324 ; Bhavisya IV chap. Siva (umāsaṁbitā 5 for 
+324 ; Bhaviṣya IV chap. Śiva (umāsaṁbitā 5 for 
 
 141 ff; Brahmavaivarta mahāpātakas and 6 for 
 
@@ -305,13 +305,13 @@ lding and consecration
 
 Śrāddhus-Agni 117 (accord of temples, idols of Viṣṇu 
 
-ing to Kātyāyana ) and &c); Garuda 45-48; Padma 
+ing to Kātyāyana ) and &c); Garuḍa 45-48; Padma 
 
 163; Brahma 110-113; (uttarakhauda chap. 122 
 
 Bralımānda (upodghāta and 127 for Sālagrāma ); 
 
-pāda 9-20); Kūrma Matsya 258-270 ; Siva I 
+pāda 9-20); Kūrma Matsya 258-270 ; Śiva I 
 
 uttarardha 20-22 ; Mār (vidyeśvara--samhitā 
 
@@ -319,7 +319,7 @@ kandeya 27-30 ; Linga, chap. 11.
 
 uttarardha 45 (jivat-érā Prāyascitta-Agni 170-174 ; | ddha ); Matsya 16-22; 
 
-Brahmāuda (upasamha- Nārada, pūrvārdha 128, rapāda chap. 8; Garuda Padma (pātālakhand 52 (specially for mahi- 101, sșsti 9 11 and A pātakas ) and 222; Kūrma- Siva ( kailāsasamhita uttarārdha 30-34 ; Linga | 21-23 ( about after-deats 
+Brahmāuda (upasamha- Nārada, pūrvārdha 128, rapāda chap. 8; Garuḍa Padma (pātālakhand 52 (specially for mahi- 101, sșsti 9 11 and A pātakas ) and 222; Kūrma- Śiva ( kailāsasamhita uttarārdha 30-34 ; Linga | 21-23 ( about after-deats 
 
 A 
 
@@ -329,15 +329,15 @@ A
 
 
 
-rites of yati); Saura 19 ;/ bhūmikhanda 90 and 92 Skanda VI. 215-225 and sựstik handa 14-15 and VII. I. chap. 205-207 ; 18-19, 60; uttarakhanda Varāha 13-14 and 187--- 2, 20-25, 113, 129 ( nume 188 ; Vāyu (uttarardha rous tirthas named), 130 chap. 10-21 ); Viṣṇu III. 169, 195 ; Saura 67 ; Siva 13-16. 
+rites of yati); Saura 19 ;/ bhūmikhanda 90 and 92 Skanda VI. 215-225 and sựstik handa 14-15 and VII. I. chap. 205-207 ; 18-19, 60; uttarakhanda Varāha 13-14 and 187--- 2, 20-25, 113, 129 ( nume 188 ; Vāyu (uttarardha rous tirthas named), 130 chap. 10-21 ); Viṣṇu III. 169, 195 ; Saura 67 ; Śiva 13-16. 
 
 I. 12 (kotirudrasarhitā 
 
 1-2, 8-33 ); Skanda I. Stridharma-Bhāgavata VII. ( aruṇācala – māhātmya, 
 
-11; Bhavisya I chap. uttarārdha 2), II (puru 11-15; Brahmavaivarta sottumamāhūtmya 1-49 ); (brahmakhanda 9 about II. Badarikā-mābātmya greatness of pativrutā, 1-8; III. 1 ; III 2. 31; 4th khanda, uttarardha 83 V. 3 ( Revākhanda is full (about pativrutā);Padma of tirthas in 252 chapters) ( bhumikhanda 41, pātāla and also VI and VII ; 102, srsti 47 and 49, 33-42 and 50 ; uttara 234 (duties of wife 
+11; Bhaviṣya I chap. uttarārdha 2), II (puru 11-15; Brahmavaivarta sottumamāhūtmya 1-49 ); (brahmakhanda 9 about II. Badarikā-mābātmya greatness of pativrutā, 1-8; III. 1 ; III 2. 31; 4th khanda, uttarardha 83 V. 3 ( Revākhanda is full (about pativrutā);Padma of tirthas in 252 chapters) ( bhumikhanda 41, pātāla and also VI and VII ; 102, srsti 47 and 49, 33-42 and 50 ; uttara 234 (duties of wife 
 
-Vamana 141-176 ; Vāyu , and co-wives ) ; Siva 
+Vamana 141-176 ; Vāyu , and co-wives ) ; Śiva 
 
 uttarārdha 43-50 (Gayā). ( Rudrasaṁhitā, Pārvati khanda 54 ); Skanda Title-vide under vrutas also. III. 2 (dharmāranya- Brahma 120 (ekādasi); khanda 7). 
 
@@ -355,7 +355,7 @@ brahmakhanda 13 (jan 40-48 (Jagannātha ), 54
 
 mūstami), 15 ( ekādaśī ); ( Mahākāla at Ujjayinī); 
 
-Saura 51 ; Varāha 23-35 Garuda 81-86; Kurma, 
+Saura 51 ; Varāha 23-35 Garuḍa 81-86; Kurma, 
 
 (all tithis from 1st to Pūrvārdha 31-35 ( Bena 
 
@@ -363,13 +363,13 @@ amāvāsya ). res), 36-38 (Prayāga ), uttararlha 33-44 ; Linga, Utsurga-(works 
 
 vide under dāna and 39-40 ( Gangāsnīna ), 45 
 
-pratisthū. Bhavisya II ; 47 (Gayū ), 48-49 ( Bena res ), 50 (Sivalingas ), 
+pratisthū. Bhaviṣya II ; 47 (Gayū ), 48-49 ( Bena res ), 50 (Śivalingas ), 
 
 Nārada, pūrvārdha to 52-61 (Jagannātha 62 
 
 Padma, srsti 54150; 81 ( numerous tirthas); 
 
-uttara 28 ; Siva ( Video Padma l. 13-49, l'adma, svarusumlitā 11). 
+uttara 28 ; Śiva ( Video Padma l. 13-49, l'adma, svarusumlitā 11). 
 
 1917 
 
@@ -379,11 +379,11 @@ uttara 28 ; Siva ( Video Padma l. 13-49, l'adma, svarusumlitā 11).
 
 Varnadharmas- Agni 151 ; ! makhanda 3-4, 7, 11, 13, 
 
-Bhāgavata VII. 11. and 15-16, 21-23, Pātāla XI. 17 ; Bralıma 114-115; khanda 86-96, 108, srsti Garuda 49; Mūrkandeya 20-24, 31, 76, 79-82, 25; Nīrailis, pūrvardha uttara 26, 31-32, 35-65, 24, 43, 59, 70 ; Skanda 66-71, 78, 85, 97, 125, VI. 242 ; Viṣṇu III. 8. 170, 240-41, 262 ; Skanda mixed castes-Brahmavai- I. (Kedāra 33 ), II. 4. 
+Bhāgavata VII. 11. and 15-16, 21-23, Pātāla XI. 17 ; Bralıma 114-115; khanda 86-96, 108, srsti Garuḍa 49; Mūrkandeya 20-24, 31, 76, 79-82, 25; Nīrailis, pūrvardha uttara 26, 31-32, 35-65, 24, 43, 59, 70 ; Skanda 66-71, 78, 85, 97, 125, VI. 242 ; Viṣṇu III. 8. 170, 240-41, 262 ; Skanda mixed castes-Brahmavai- I. (Kedāra 33 ), II. 4. 
 
 varta (Brahmakhanda 10). 1-36, II. 5 and 7, V. I. Vivāha-vide under samskīra. 
 
-60-61, VI. 232-211; Siva Padma, uttara 223 and 
+60-61, VI. 232-211; Śiva Padma, uttara 223 and 
 
 (Kotirudrasamhitā 38, 40, 232 ; Skanda IV, pūrvar 
 
@@ -391,6 +391,6 @@ Umāsaṁhitā 51): Varāha
 
 39-65. dha 38. Vrata-Agni 175-200, 204 Vyavahāra-Agni 253-258 ; 
 
-(upavāsa); Bhavisya Skanda I. (Kaumārikā 1. 17 ff, IV ( several hund- khanda ) 44 ( eight ordea red vratas ); Brahma 27 
+(upavāsa); Bhaviṣya Skanda I. (Kaumārikā 1. 17 ff, IV ( several hund- khanda ) 44 ( eight ordea red vratas ); Brahma 27 
 
-is described ). (upavāṣa ); Brahmavai varta ( 4th khanda, pūr- | Yugadharinas- vide also vārdha 8 and 26 ); Garuda under Kulisvarūpa. 116-137, Lirga, pūrvārdha Garuda 223 ; Linga 39 ; 83-84 ; Nirada, pirvār- Matsya 141-143, 164 ; dha 17-22, 110-124 ; Nārada, pūrvārdha 41; Matsya 54-80, 94-100; Skanda VI. 272 ; Vāyu I. Padma ( bhūmi 87, brah- 32 and 58. 
+is described ). (upavāṣa ); Brahmavai varta ( 4th khanda, pūr- | Yugadharinas- vide also vārdha 8 and 26 ); Garuḍa under Kulisvarūpa. 116-137, Lirga, pūrvārdha Garuḍa 223 ; Linga 39 ; 83-84 ; Nirada, pirvār- Matsya 141-143, 164 ; dha 17-22, 110-124 ; Nārada, pūrvārdha 41; Matsya 54-80, 94-100; Skanda VI. 272 ; Vāyu I. Padma ( bhūmi 87, brah- 32 and 58. 

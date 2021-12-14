@@ -39,7 +39,7 @@ Manasāpājā, Rakṣābandhana, Krṣṇa janmāṣtami
 
 caturthi, Rṣipañcami, Anantacaturdasi. 
 
-144-153 Chapter IX. Navarātra or Durgotsava. 154–187 Chapter X. Vijayādaśami and Divāļi. 188-210 Chapter XI. Makarasankrānti and Mabāśiva 
+144-153 Chapter IX. Navarātra or Durgotsava. 154–187 Chapter X. Vijayādaśamī and Divāļi. 188-210 Chapter XI. Makarasankrānti and Mabāśiva 
 
 rātri, 
 

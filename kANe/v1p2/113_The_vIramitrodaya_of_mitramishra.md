@@ -29,7 +29,7 @@ In the Tirthaprakāśa he deals with the naiure of tirthus, the utility thereof 
 
 description of the several varṣas and dvipas and of sacred rivers like the Ganges, Narmadā, sacred places like Gayā, Prabbāsa, Badri, Puskara and Puri. 
 
-In the Pūjāprakāśa he speaks of the definition of pujā, persons entitled to perform pūjā ( worship of gods ), the rewards of pijā, proper times and places for pūjā, sālagrāma, the proper articles and clothes for the worship of idols, proper flowers, fragrant substances, naivedya, the detailed method of worshiping Viṣṇu, Siva, the Sun, Durgā, Brahmā etc. In the printed edition there are no introductory verses here. 
+In the Pūjāprakāśa he speaks of the definition of pujā, persons entitled to perform pūjā ( worship of gods ), the rewards of pijā, proper times and places for pūjā, sālagrāma, the proper articles and clothes for the worship of idols, proper flowers, fragrant substances, naivedya, the detailed method of worshiping Viṣṇu, Śiva, the Sun, Durgā, Brahmā etc. In the printed edition there are no introductory verses here. 
 
 In the Samskara-prakāśa the author enumerates the samskāras and describes in detail garbhādhāna, pumsavana, anavalobhana, simantonnayana, jātakarma, nāmakarana, śiśuniskramana, anna prāśana, cudā, upanayana, vivāha etc., the duties of brahmacārins, gotras, pravaras and sapind ya, all astrological matters in connec tion with marriage, pindapitryajña, sarpabali, aștakāśrāddha, 
 

@@ -419,7 +419,7 @@ Bhagavatapurāṇa 24, 26, 60, 183, 627, Basak, Dr. R. G., author of History 872
 
 of North-east India . 925n. Battle, ancient procedure for making Bhaisajya mantras 75. 
 
-a king ready for 228-229; distribu. Bbāmati, com. on Saṅkara's Vedānta. tion of booty acquired in 212 ; per- sūtrabhāsya 781a. sons that were not to be attacked in Bhandarkar, Prof. D, R. 16, 20, 90, 209-210; rites to be performed by 92, 103, king before 212; victory in, doubt- Bhandarkar Oriental Research Insti 
+a king ready for 228-229; distribu. Bbāmati, com. on Śhaṅkara's Vedānta. tion of booty acquired in 212 ; per- sūtrabhāsya 781a. sons that were not to be attacked in Bhandarkar, Prof. D, R. 16, 20, 90, 209-210; rites to be performed by 92, 103, king before 212; victory in, doubt- Bhandarkar Oriental Research Insti 
 
 ful 225, 
 
@@ -473,7 +473,7 @@ Bhāsa 2110, Bbāskarācārya 1220. Bhaskaravarman, Nidhanpur plate of
 
 202. Bhattacharya, Mr. Batuknath, 966. Bhattoji, author of a commentary on 
 
-Caturvimsatimata 926n, 928n; 930, 940, 944, 949-50, 957, 961. Bhavabhūti 243. Bhavanātha author of Nayaviveka 5500. Bbāvaprakasana 136. Bhavisyapurāna 7, 737n, 840, 844n, 
+Caturvimsatimata 926n, 928n; 930, 940, 944, 949-50, 957, 961. Bhavabhūti 243. Bhavanātha author of Nayaviveka 5500. Bbāvaprakasana 136. Bhaviṣyapurāna 7, 737n, 840, 844n, 
 
 872, 9050. Bheda (an upaya) 174, Bhide, Prof. H. B. 924n. Bhikkhus, some of whom were styled 
 
@@ -1413,7 +1413,7 @@ body into 951. Ganikā, devolution of wealth of 148;
 
 duties of 148 ; qualifications of 148; salary of 148; was a vesyā who was honoured for ber accomplishments 
 
-1480, Gargasamhita 892, 896, 919n. Garudapurāna 13, 160-161, 892, 962. Gāthāsaptaśati 154. Gattulāl, Pandit 825n. Gaurasiras, expounder of rājadharma 
+1480, Gargasamhita 892, 896, 919n. Garuḍapurāna 13, 160-161, 892, 962. Gāthāsaptaśati 154. Gattulāl, Pandit 825n. Gaurasiras, expounder of rājadharma 
 
 2, 4, Gautama 17n, 553, 557. Gautama, dharmasūtra of 3, 19, 21, 23, 
 
@@ -1511,7 +1511,7 @@ tion under 150. Gupta Inscriptions 44, 45, 49, 68, 70,
 
 72, 108, 115, 117, 122n, 124n, 159, 202. 213n, 264, 281, 506, 890, 924n, 
 
-9250, Guru, payment of fees to 958. Halābala, poison drunk by Siva 372a. Halāyudha 368n, 588n, 589n, 636, 784n. Hamlet 296. Hammurabi, code of 389n, Happiness, individual and national, lies 
+9250, Guru, payment of fees to 958. Halābala, poison drunk by Śiva 372a. Halāyudha 368n, 588n, 589n, 636, 784n. Hamlet 296. Hammurabi, code of 389n, Happiness, individual and national, lies 
 
 ia freedom 102, Haradatta, commentator of Gaut. Db. 
 
@@ -3313,21 +3313,21 @@ VE -
 
 Sāmavidbāna Brāhmana 66, 76. 
 
-caste and other circumstances 535. Samayaprakāśa, part of Viramitrodaya, | Saṅkara (see . sarisarga'). 
+caste and other circumstances 535. Samayaprakāśa, part of Viramitrodaya, | Śhaṅkara (see . sarisarga'). 
 
 9288, 930. 
 
-Saṅkara, author of Bhāsya on Vedanta Samayamayūkha 930, 944n 949, 964. 
+Śhaṅkara, author of Bhāsya on Vedanta Samayamayūkha 930, 944n 949, 964. 
 
 sūtra and several Upanisads 460,227, Sambandbatattva 878. 
 
 669n, 719, 8330, 888, 9640, 968n, Sambaodhaviveka, a work 878. Sambara, as a writer on Rājaśāstra in 
 
-Saṅkarabbatta, author of Dvaitanir 
+Śhaṅkarabbatta, author of Dvaitanir 
 
 naya 878. Santiparva 2. Sambhaji-raje-caritra, a work 81n. 
 
-Saṅkaravarman, king of Kashmir, plug 
+Śhaṅkaravarman, king of Kashmir, plug 
 
 dered 64 temples under pretext of Sambhala, village, where Kalkin will 
 
@@ -3445,7 +3445,7 @@ technically not an aurasa son 599, 721, 761n, 774n, 778n.
 
 648, 656. Sardesai. Mr. G. S., editor of 'Selec tions from Peshwa's Daftar' 400. 
 
-Saunaka, smrti of 183, 599, 614, 656, Sārīraka-bhāsya of Saṅkara 725, 731n, 
+Saunaka, smrti of 183, 599, 614, 656, Sārīraka-bhāsya of Śhaṅkara 725, 731n, 
 
 6560, 664, 668, 675-676, 682-83, 
 
@@ -3571,7 +3571,7 @@ General Index
 
 1067 
 
-Sitā, ordeal of fire, undergone by 364. 750n, 766, 768, 772, 775, 7770-79, Siva swallowed Hālāhala poison 372n. 781, 783n, 7860-788, 790n, 792a, Sivaskandavarman, a Pallava king 69. 
+Sitā, ordeal of fire, undergone by 364. 750n, 766, 768, 772, 775, 7770-79, Śiva swallowed Hālāhala poison 372n. 781, 783n, 7860-788, 790n, 792a, Śivaskandavarman, a Pallava king 69. 
 
 793, 800n, 804n, 805, 815, 8580, Skanda and Visakha, story of 905n. 
 

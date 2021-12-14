@@ -103,7 +103,7 @@ L
 
 or 'Saṁ atsaradidhiti' 1487 as Anantadeva expressly says in Introductory verse 20 of the Smṛtikaustubha that he is going to expatiate on 'Abdadidhiti'. 
 
-In this work, while describing the religious rites to be per formed on certain tithis he frequently cites at some length the kathas ( stories ) connected with those tithis; vide, for examples, the Vata-$āvitrivratakathā on Jyestha Paurṇamāsi pp. 44-50, Mahā laksniikathā on pp. 148-150, Anantacaturdaśivratakatha (pp. 170-175), Sivaratrivratakathā (pp. 398-410 ). 
+In this work, while describing the religious rites to be per formed on certain tithis he frequently cites at some length the kathas ( stories ) connected with those tithis; vide, for examples, the Vata-$āvitrivratakathā on Jyestha Paurṇamāsi pp. 44-50, Mahā laksniikathā on pp. 148-150, Anantacaturdaśivratakatha (pp. 170-175), Śivaratrivratakathā (pp. 398-410 ). 
 
 Hemādri1488 deals only with three kinds of abdas or samvatsa ras viz. Lunar (cāndra), Saura ( solar) and Savana, while Madhava added two more viz. Bārhaspatya and Nāksatra. The Smṛtikaustubha ( pp. 462-63) quotes Yājñavalkya (1. 265–268) which set out the results of performing Sraddhas on the naksatras from Kșttikā to Bharani. The Manusmști III. 277 provides what one secures by perforniing sraddhas on the even tithis (2nd, 4th &c. ) and even Naksatras ( Bharani, Rohiri &c.) and on 1st, 3rd and other uneven t:this and naksutras ( Aśvini, Krttikās etc.). 
 

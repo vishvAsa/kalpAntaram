@@ -93,7 +93,7 @@ Prajāpati-smrti ( Anan.). Vedavyasa-smrti ( Anan.). Vṛddha-Gautama-smrti (Jir
 
 Purāruus Agnipurāṇa-l Ānan.) Bhāgavatapurāna with the commentary of Sridhara (Ganpat 
 
-Krishnaji Press). Brahmāṇdapurāṇa ( Venkatesvara Press, Bombay). Brahmapurāṇa-( Ānan.) Brhan-Nāradiya-purāṇa (Venkateśvara Press edition, Bombay). Garuda-purāṇa (Venkateśvara Press edition). Kālikā-purāṇa (Venkateśvara Press edition). Kalki-purāṇa (Venkatesvara Press edition). Kūrmapurāṇa. Lingapurāṇa (Venkateśvara Press edition). Mārkaṇdeya-purana (B. I. Series). Matsyapurāpa ( Anan.). Nāradiyapurāpa (Venkateśvara Press ed., Bombay); sometimes 
+Krishnaji Press). Brahmāṇdapurāṇa ( Venkatesvara Press, Bombay). Brahmapurāṇa-( Ānan.) Brhan-Nāradiya-purāṇa (Venkateśvara Press edition, Bombay). Garuḍa-purāṇa (Venkateśvara Press edition). Kālikā-purāṇa (Venkateśvara Press edition). Kalki-purāṇa (Venkatesvara Press edition). Kūrmapurāṇa. Lingapurāṇa (Venkateśvara Press edition). Mārkaṇdeya-purana (B. I. Series). Matsyapurāpa ( Anan.). Nāradiyapurāpa (Venkateśvara Press ed., Bombay); sometimes 
 
 cited as Bṛhan-Nāradīya. Nșsimhapurāṇa, (published by Messrs. Gopal Narayan & Co., 
 

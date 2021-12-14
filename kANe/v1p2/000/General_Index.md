@@ -489,7 +489,7 @@ Bauhāyana, about limits of Ar Baz Bahadur, patron of Anantadevil,
 
 Jūvarta, p. 45; gāthā of, quoted pp. 957, 961; Anante:devil cuinpileci 
 
-Hy Visiṣl, I'p. 4.7, 100. Smrtikaustubha at the commitne Błāmati, ou Saṅkarabhāsya, pp. 143, of, p. 960; date of, p. 962. 
+Hy Visiṣl, I'p. 4.7, 100. Smrtikaustubha at the commitne Błāmati, ou Śhaṅkarabhāsya, pp. 143, of, p. 960; date of, p. 962. 
 
 563, 583. Beames, p. 876. 
 
@@ -567,7 +567,7 @@ Arthasāstra, pp. 155, 247. Bhattayarśakāvra, of Kāntānātha.
 
 bhatta, p. 906. Bhattavārtika-krt, p. 757. Bhattoji, pp. 347, 466; his commen. 
 
-tary on Caturviñsatimata, pp. 482, 511; his commentary on Āś. aucadaśnka, p. 614; son of Laks. midhara, p. 512; pedigree of, 966n.; pupil of Saṅkarabhatta and Soṣa 
+tary on Caturviñsatimata, pp. 482, 511; his commentary on Āś. aucadaśnka, p. 614; son of Laks. midhara, p. 512; pedigree of, 966n.; pupil of Śhaṅkarabhatta and Soṣa 
 
 Srikrṣṇa, pp. 965, 967. Bhau Daji, Dr., pp. 786, 791, 926. Bhavabhūti, p. 564. Bhavadeva, pp. 639-652, 8939.; au. 
 
@@ -585,7 +585,7 @@ Bhavatrāta, commentator of Kausi
 
 taka Gr. S., p. 16. Bhavesa, king of Mithilā, pp. 767, 
 
-775, 843, 849. Bhavisvadu Bhavisyapurāna, on fire-fold dharma, 
+775, 843, 849. Bhavisvadu Bhaviṣyapurāna, on fire-fold dharma, 
 
 p. 4n.; quoted by Aparārka, pp. 34, 105; on Manu, pp. 309, 328; quoted in Srāddhasara, p. 866n. 
 
@@ -597,7 +597,7 @@ p. 644,
 
 10 
 
-Bhavisyatpurāṇa, pp. 345., 63, 414; | Bhuvaneśvara, temple of Ananta at, 
+Bhaviṣyatpurāṇa, pp. 345., 63, 414; | Bhuvaneśvara, temple of Ananta at, 
 
 speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāna, pp. 723, 747, Bindumādbava, form of Viṣṇu, wor 
 
@@ -695,7 +695,7 @@ not contain dāpavidhi, p. 731. Brahmapurāṇa, pp. 126, 601, 670, Brhat-Kāty�
 
 Brbat-Parāśara, pp. 305, 465-66. Brahmasiddhānta, p. 732n. 
 
-Bṛhat-Prācetas, pp. 520, 717. Brahmasūtra, pp. 299, 356; Saṅkara's Brhat-Samvarta, p. 513. 
+Bṛhat-Prācetas, pp. 520, 717. Brahmasūtra, pp. 299, 356; Śhaṅkara's Brhat-Samvarta, p. 513. 
 
 bhāṣya on, pp. 65, 443; quotes 
 
@@ -997,7 +997,7 @@ punished, p. 527.
 
 Decision, rule of, when litigants of Dattakamīmāṁsā, pp. 53, 91, 262, 
 
-different countries, p. 515. 466, 592n, 919, 920; Saṅkara's com. called Maõjari on, p. 921; standard 
+different countries, p. 515. 466, 592n, 919, 920; Śhaṅkara's com. called Maõjari on, p. 921; standard 
 
 Delhi, p. 861. work on adoption, and preferred Denarius, Roman coin, pp. 375–76. to Vyavahāramayõkha in certain 
 
@@ -1063,7 +1063,7 @@ Philosophy, p. 26; date of, p. 26n. Dhammacakka-ppavattana-sutta, p.
 
 227. 
 
-Dharmaprakāsa, of Saṅkarabbatta, 
+Dharmaprakāsa, of Śhaṅkarabbatta, 
 
 p. 938. Dhammathats, based on Manu, p. 
 
@@ -1187,7 +1187,7 @@ $15. Dipavamsa, pp. 171, 227, 3741. Dvaitanirṇaya, of Vācaspati, pp. 847– D
 
 48, 8931. 
 
-Dvaitanirṇaya, of Saṅkarabbatta, pp. Divanji, Mr. P. C., p. 437; criticized, 
+Dvaitanirṇaya, of Śhaṅkarabbatta, pp. Divanji, Mr. P. C., p. 437; criticized, 
 
 546, 746, 938. pp 449, 453–54, 457–59. 
 
@@ -1203,7 +1203,7 @@ Dvivedi, M. M. Sudhakar, p. 182. Divyānuṣthānapaddhati, of Nārāyana,
 
 p. 305. 
 
-Edaka, ram acc. to Amarakota, p. 72; Divyasūricarita, of Garudavāhada one of the three amedhya animals 
+Edaka, ram acc. to Amarakota, p. 72; Divyasūricarita, of Garuḍavāhada one of the three amedhya animals 
 
 Pandita, p. 679. 
 
@@ -1217,7 +1217,7 @@ Edumitra, author of Kulakārikā, p. | Gādhi, p. 336.
 
 707. 
 
-Gādhivarsānucarita, of Saṅkara. Eggeling, pp. 9267., 959. 
+Gādhivarsānucarita, of Śhaṅkara. Eggeling, pp. 9267., 959. 
 
 i bhatta, p. 903n. Eggers, Dr., p. 269. 
 
@@ -1277,13 +1277,13 @@ Gārgya, writer on dharma, pp. 276, Foulkes, Rev. Thomas, pp. 869, 875, 303; pro
 
 astronomer Garga, p. 277. Fūbrer, Dr., pp. 94, 97, 484. 
 
-Garudapurāna, p. 416, 464; borrows 
+Garuḍapurāna, p. 416, 464; borrows 
 
 from Yājñavalkyasmrti, p. 449; Gadādhara, bhāsya of, on Pāraskara- | 
 
 Yājñaralkyasmrti and, pp. 427-29. grhya, pp. 551, 582n. 
 
-I Garudavāhana Pagdita, p. 679. H, D.-158 
+I Garuḍavāhana Pagdita, p. 679. H, D.-158 
 
 1258 
 
@@ -1509,7 +1509,7 @@ p. 924.
 
 Illegitimate son, of śūdra, p. 561. 
 
-| Images, of Siva, Skanda, Visakha, Harivarmadeva, a king, 644-45. 
+| Images, of Śiva, Skanda, Visakha, Harivarmadeva, a king, 644-45. 
 
 p. 247. Harrington, p. 979. 
 
@@ -1915,7 +1915,7 @@ p. 718. to restore stolen property from his treasury if the thief not found, p.
 
 Kļṇa, a Rāstrakata king, p. 624. 289; high prerogative of even a Krsna, author of Sriddhakasiki, p. weak, 474; took action without any 
 
-639. complaint, in cases of chalas and of Krsnabhakticandrika, a drama of aparādhas, pp. 515, 542; to look Anantadeva, pp. 959–60. into disputes of people, p. 526; | Kftyacintāmani, of Sivarāma, p. 582n. becomes endowed with three goals 
+639. complaint, in cases of chalas and of Krsnabhakticandrika, a drama of aparādhas, pp. 515, 542; to look Anantadeva, pp. 959–60. into disputes of people, p. 526; | Kftyacintāmani, of Śivarāma, p. 582n. becomes endowed with three goals 
 
 Kṛtyacintīmani, of Candeśvara, p. awarding punishment to those who 
 
@@ -1987,7 +1987,7 @@ com, on Mitākṣarā, p. 968. Kumbhidhānya, meaning of, pp. | Lakṣmidhara, v
 
 255-56. 
 
-Lala Sitaram, Mr., pp. 916, 947, 953. Kundabhāskara, of Saṅkara, p. 941. Lalita, p. 917n. Kundapaddhati, p. 964n. 
+Lala Sitaram, Mr., pp. 916, 947, 953. Kundabhāskara, of Śhaṅkara, p. 941. Lalita, p. 917n. Kundapaddhati, p. 964n. 
 
 Lama Taranath, p. 214. Kunika, pp. 61, 273, 302. 
 
@@ -2203,7 +2203,7 @@ pp. 143, 316-17; on vidyās, pp. Mānavam, meaning of, p. 101.
 
 councillors, p. 206; four versions views of, about vidyās, pp. 144, 
 
-of, according to Bhavisyapurāna, 205; and Kautilya, pp. 205, 206; 
+of, according to Bhaviṣyapurāna, 205; and Kautilya, pp. 205, 206; 
 
 p. 309; agreement of, with Kauti and Katyāyana, pp. 499–500. 
 
@@ -2589,7 +2589,7 @@ Kauṭiliya, pp. 209, 460. H, D.-160
 
 History of Dharmaśāstrā 
 
-Parāśarasmṛti, pp. 138, 276, 459-466, ( Partition, allowed to son in ancestral 818; drawn upon by Garudapurāna, property even against father's wish, P. 460; and Manusmrti, pp. 462- p. 532; between brothers, unmar. 63; and Baudhāyanadharmasītra, ried sister's rights in, p. 581; larger P. 463; contents of, pp. 461–62; date share to eldest son on p. 50; period, of, p. 464; enumerates 19 smsti- within which could be set aside, kāras, pp. 303, 461; peculiar views pp. 293, 298; necessity of writing of, pp. 462-63; contains no treat- for completing, p. 522; son's right ment of vyavahāra, p. 779; to, according to Dāyabhāga, p. 704; 
+Parāśarasmṛti, pp. 138, 276, 459-466, ( Partition, allowed to son in ancestral 818; drawn upon by Garuḍapurāna, property even against father's wish, P. 460; and Manusmrti, pp. 462- p. 532; between brothers, unmar. 63; and Baudhāyanadharmasītra, ried sister's rights in, p. 581; larger P. 463; contents of, pp. 461–62; date share to eldest son on p. 50; period, of, p. 464; enumerates 19 smsti- within which could be set aside, kāras, pp. 303, 461; peculiar views pp. 293, 298; necessity of writing of, pp. 462-63; contains no treat- for completing, p. 522; son's right ment of vyavahāra, p. 779; to, according to Dāyabhāga, p. 704; 
 
 Vidvanmanoharā, com, on, p. 915. in Dāyatattva, p. 892. Pāraśava, meaning of, pp. 35, 267. Paścātkāra, defined by Katyāyana, Pārasikas, touch of, as similar to that p. 501. 
 
@@ -3043,13 +3043,13 @@ Sūlapāni, p. 826. Sandarbhasīcikā, com. on Hāralatā,
 
 p. 729. Śāṇdilya, p. 504. Sāndilyāyana, p. 504. Sangha, of Vroṇis in Kauṭiliya, 
 
-p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Saṅkarabhafta, author of Dvaita nirṇaya, pp. 546, 746, 904, 938; a profound mimamsaka, father of 
+p. 218. Sangokā, wife of Govardhana, p. 644. Sañjñātantra, p. 911, Śhaṅkarabhafta, author of Dvaita nirṇaya, pp. 546, 746, 904, 938; a profound mimamsaka, father of 
 
 Nilakangha, p. 938. Sarkarācārya, pp. 43, 65, 115, 118, 
 
 145, 443; calls Manusmṛti Māna vam, PP. 145, 327; quotes Apa stambadharmasītra, p. 65; quotes Gautamadharmasūtra, p. 35; quotes Vasisha, p. 97; quotes Manu smṣti frequently, pp. 118, 327; com. of, on Viṣṇuṣahasranāma, p. 
 
-379; pupils of, pp. 562-63. Saṅkaragitā, p 701n. Sarkha-Likhita, dharmasūtra of, pp. 
+379; pupils of, pp. 562-63. Śhaṅkaragitā, p 701n. Sarkha-Likhita, dharmasūtra of, pp. 
 
 136-142; known from quotations only, p. 14; bhāṣyakāra of, p. 140; 
 
@@ -3079,11 +3079,11 @@ Sarāvati, river, location of, 67n; Saṅkhadhara, pp. 636, 7019., 728.
 
 country north of, called Udicya, Sāökhya, pp. 281, 528. 
 
-P. 67. Sāṅkhyakārikā, pp. 281, 576–77. Sārāvali, a work on astrology, pp. Saṅkṣepa-Saṅkarajaya, p. 562. 
+P. 67. Sāṅkhyakārikā, pp. 281, 576–77. Sārāvali, a work on astrology, pp. Saṅkṣepa-Śhaṅkarajaya, p. 562. 
 
 182, 718, 910n. Sanmārgadipikā, p. 819. 
 
-Śārirakabhisya, of Saṅkara, p. 447. Şansavatiśrāddhanirṇaya, of Siva- Sarkar, Benoy Kumar, pp. 272,951n. 
+Śārirakabhisya, of Śhaṅkara, p. 447. Şansavatiśrāddhanirṇaya, of Śiva- Sarkar, Benoy Kumar, pp. 272,951n. 
 
 bhaļļa, p. 564. 
 
@@ -3109,7 +3109,7 @@ of, p. 432; meaning of, according
 
 pp. 905, 938; com. on, by Nārā. to Mitākṣarā, p. 613. 
 
-vanabhatta, p. 905; com. on by Sapindīmañjari, of Nāgoji, p. 964. Saṅkarabhatta, p. 938; relied on Sāpindyadipikā, of Nāgoji, p. 964. Brāhmaṇasarvasva, p. 628. Saptanātha, temple of, p. 791; linga 
+vanabhatta, p. 905; com. on by Sapindīmañjari, of Nāgoji, p. 964. Śhaṅkarabhatta, p. 938; relied on Sāpindyadipikā, of Nāgoji, p. 964. Brāhmaṇasarvasva, p. 628. Saptanātha, temple of, p. 791; linga 
 
 Sastri, Chinnaswami A., p. 642. of, established by Madhava-Man- Sastri, Pattabhiram, p. 642. trin, p. 791. 
 
@@ -3177,27 +3177,27 @@ children and old men, pp. 102, 147. pp. 785-87; works of, p. 787n., Śiśupīla,
 
 Sitaram Sastri, Mr., p. 553. Sangama, p. 786. Sayce, Prof. A. H., pp. 189n., 221. 
 
-Sivabhaktidāsa, p. 5571. 
+Śivabhaktidāsa, p. 5571. 
 
 Sava-ṣūtikāśauca-prakarana, of Bhava. 
 
-Sivabhatta, p. 564. devabhatta, pp. 647, 648. 
+Śivabhatta, p. 564. devabhatta, pp. 647, 648. 
 
 Śivadatta, p. 750n. Sciefner, A., p. 214. 
 
-Sivarahasyapurāṇa, pp. 732, 747. Sea-faring, peculiar to the north, Śivarīma, author of Kftyacintāmani, 
+Śivarahasyapurāṇa, pp. 732, 747. Sea-faring, peculiar to the north, Śivarīma, author of Kftyacintāmani, 
 
 p. 48. 
 
 pp. 565, 582n. Sehgal, Dr. S. R., p. 1111. 
 
-Sivasabāya, commentator of Rāmā. Sehund, a city, p. 881. 
+Śivasabāya, commentator of Rāmā. Sehund, a city, p. 881. 
 
 yaṇa, p. 405. Selirvādi, near Poona, p. 715. 
 
-Sivasvāmin, pp. 574, 738, 779, 794n. Seleucus, and Candragupta, p. 172; 
+Śivasvāmin, pp. 574, 738, 779, 794n. Seleucus, and Candragupta, p. 172; 
 
-Sivavākyāvali, of Can Jeśvara, p. 769. stands for Sailūṣa, p. 173. 
+Śivavākyāvali, of Can Jeśvara, p. 769. stands for Sailūṣa, p. 173. 
 
 Skandapuralia, pp. 415, 416, 715, 
 
@@ -3739,7 +3739,7 @@ Vāmadevabhattācārya, author of a
 
 Smrticandrikā, p. 741. Vāmana, author of Kāśikā, p. 757; of 
 
-Kāvyālamkārasūtra, p. 169. Vamsabrāhmaṇa, p. 786. Vanisatthappakāsipi, p. 215. Vamsidbara, patron of Sivasahāya, 
+Kāvyālamkārasūtra, p. 169. Vamsabrāhmaṇa, p. 786. Vanisatthappakāsipi, p. 215. Vamsidbara, patron of Śivasahāya, 
 
 p. 405. Vānaprastha, varieties of, p. 258. Vanāyu, p. 219. Vandyaghaṭiya, p. 711. Varada, commentator of Mahābhā. 
 
@@ -4131,7 +4131,7 @@ is dāsa, p. 566. ascribed to, p. 448; enumerates 19 Yautaka, meaning of, p. 592
 
 Yavana, a mixed caste, mentioned by Yajñavalkyasmrti, pp. 421-459; com- Gautama, pp. 35, 73; mentioned 
 
-mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garudapurāna, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
+mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garuḍapurāna, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
 
 Yavaneśvara, p. 732n. Mānavagrbya, pp. 439-40; god White Yajurveda, pp. 423, 410-41: | Twill, of five kinds, pp. 956–57. and Greek astrology, pp. 413–41; Yoga, dofined, p. 281; eight angas commentaries on, pp. 457-58; and of, p. 259. Paraskaragļhya, pp. 440-11; 
 

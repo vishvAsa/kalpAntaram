@@ -177,7 +177,7 @@ xxxx
 
 Haridas v, Ranchordas 730D. | Kottapalli v. Kaouparti 4480, Harischandra v. Atir 7650. 
 
-K. R. Saṅkaralingam v. Velocdami Hemraj v. Khemchand 4470. 
+K. R. Śhaṅkaralingam v. Velocdami Hemraj v. Khemchand 4470. 
 
 671. Hira v Radba 972n. 
 
@@ -333,7 +333,7 @@ Rajaninath v. Nitai 6020, 809n. Nathubhai v. Chhaganlal 507n
 
 Raje Vyaokatrao v. Jayavaatrao 672. Nathubhai v. Hansgavri 5880. 
 
-Rakhmabai v. Radhabai 6700, Naval Singh v. Bhagwan Singh 5960. Ramalinga v. Sivachidambara 5930. Neelkisto v. Beer Chunder 631, 970n. Ramanand v. Rai Kishori 7170. Nehalo v. Kishen 707n. 
+Rakhmabai v. Radhabai 6700, Naval Singh v. Bhagwan Singh 5960. Ramalinga v. Śivachidambara 5930. Neelkisto v. Beer Chunder 631, 970n. Ramanand v. Rai Kishori 7170. Nehalo v. Kishen 707n. 
 
 Ramanand v. Surgiani 7240. Nilnoney v. Banesbur 810n. 
 
@@ -367,7 +367,7 @@ Somasundaram v. Vaithilinga 765n. Soundararajan v. Arubachalam 562n. Sri Balusu 
 
 Ramraov, Yeshwantrao 631, 9710. Ram Gopal v. Narain 7980. Ram. Nundun v. Maharani Janki 631. Ram Saran v. Mababir 072. Rao Balwant Singh. v. Rani Kishori 
 
-640. Ratilal v. Motilal 9710. Reade vi Krishna 574. Reg. v. Karsan Goja 972n. Roshan Singh v. Balwant Singh 809n. Rukhab v. Chunilal 698n, Sadu v. Baiza 602n. Sahebgauda v, Shiddangouda 699n, Sahu Ram v. Bhup Singh 822. Sakharam v. Balkrishna 758n. Sakharam v. Sitabai 727n, 728n, 796n. Salemma v. Lutchmana 795. Sambasivam v. Secretary of State 765n. Saṅkaralinga v, Rajeshwar 971n. Saradambal v. S. Subbarama 605n. Saratullal v. Pran Nath 826n. Satyabhama v. Kesavacharya 808n. Saundanappa v. Shivbasawa 4270. Saundararajan v. Arunachalam 602n. Savitribai v. Luxmibai 803n, 810n. Sayamlal y, Saudamini 674n. Secretary of State for India V, 
+640. Ratilal v. Motilal 9710. Reade vi Krishna 574. Reg. v. Karsan Goja 972n. Roshan Singh v. Balwant Singh 809n. Rukhab v. Chunilal 698n, Sadu v. Baiza 602n. Sahebgauda v, Shiddangouda 699n, Sahu Ram v. Bhup Singh 822. Sakharam v. Balkrishna 758n. Sakharam v. Sitabai 727n, 728n, 796n. Salemma v. Lutchmana 795. Sambasivam v. Secretary of State 765n. Śhaṅkaralinga v, Rajeshwar 971n. Saradambal v. S. Subbarama 605n. Saratullal v. Pran Nath 826n. Satyabhama v. Kesavacharya 808n. Saundanappa v. Shivbasawa 4270. Saundararajan v. Arunachalam 602n. Savitribai v. Luxmibai 803n, 810n. Sayamlal y, Saudamini 674n. Secretary of State for India V, 
 
 Debendra Lal 325n. Seelam Nagamma v, Reddam 7589. Seethai v. Nachiar 7240, Sellam v. Chinnammal 707n. Sha Chamanlal v. Doshi Ganesia 709. Shalig Ram v. Chiranjit Lal 785a.. Shamsing v, Shantabai 667. Shankar v. Kasbinatb 730n. Sbantaram v. Waman 588. Sharadacandra v. Shantabai 666. Sheo Narain v. Janki Prasad 608n, Sheo Shankar v, Debi Sahai 782n. Sbesgiri v. Gireva 708n, Shibprasad v. Prayag Kumari 576, 
 
@@ -393,7 +393,7 @@ xlii
 
 7250. 
 
-Vasudev v. Venkatesh 5940. Vasudevaa v. Secretary of State 660. Vellaiyappa v. Natarajan 809n, 810. Venkata Narasimha v, Rangayya 6930. Venkatarayudu v. Sivaram Krishnayya 
+Vasudev v. Venkatesh 5940. Vasudevaa v. Secretary of State 660. Vellaiyappa v. Natarajan 809n, 810. Venkata Narasimha v, Rangayya 6930. Venkatarayudu v. Śivaram Krishnayya 
 
 622n, Ven kayyamma v. Venkataramana 
 

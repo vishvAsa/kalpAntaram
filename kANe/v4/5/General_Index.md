@@ -413,7 +413,7 @@ Bhāslaraksetra, is Prayāga, according Baudbāyapa-dbarma-sūtra, 13,14, 250, t
 
 32, 400, 42, 43, 45, 460, 48, 54, others 217A, 5740 72, 75, 82, 96, 103, 106, 113, 120, , Bhattācārya, (explanation of what are 122, 123, 130, 132, 134-138, maptras) 61, 268 (definition of 142-145, 147, 149, 150, 2290, 231, saddhi). 275, 292, 310, 312, 3130, 316, 317, Bbattoji, 2620, 363,3722,5190, 5200. 322, 325-328, 331, 339, 350, 354, 521, 5680, 573, 6099 355, 358, 365, 368, 384, 385, 387, Bhavadeva, author of Prayascittapra. 403, 418, 4430, 4489, 450n, 463, - karana 24 4640, 467, 538, 560 
 
-Bhavisyaparāna, 15, 19, 21,39,40,50, Baudhāyada-grhya-sūtra, 111,474,525 53, 54, 56, 88, 90, 91, 93, 94, 96n, Baudhayana-grbya sesasūtra, 2291, 124, 129, 131, 163, 225, 361, 375, 
+Bhaviṣyaparāna, 15, 19, 21,39,40,50, Baudhāyada-grhya-sūtra, 111,474,525 53, 54, 56, 88, 90, 91, 93, 94, 96n, Baudhayana-grbya sesasūtra, 2291, 124, 129, 131, 163, 225, 361, 375, 
 
 3040, 305, 319n, 516, 542. 
 
@@ -723,7 +723,7 @@ of c than that, of a pareat or guru had
 
 in modern times follows 
 
-that in Āśv, grand in Garudapurāna to undergo cxpiation for vratalopa 212, procedure of, from Aatgesti 215, carrying thc dead body of paddbatı, which is aor falloned & Erāhmana who is poor and by Rgredios in Western India without relatives is highly extolled 212-214, procedure where a man as cqual to 2 sacrifice at cach step returas alive after his effigy 215; cow or goat was taken to 
+that in Āśv, grand in Garuḍapurāna to undergo cxpiation for vratalopa 212, procedure of, from Aatgesti 215, carrying thc dead body of paddbatı, which is aor falloned & Erāhmana who is poor and by Rgredios in Western India without relatives is highly extolled 212-214, procedure where a man as cqual to 2 sacrifice at cach step returas alive after his effigy 215; cow or goat was taken to 
 
 13 
 
@@ -1099,7 +1099,7 @@ Konārba and Pori 699 Ganga-bhaltitarangiai of Ganapati
 
 of king Padmasimha of Mithilā 586, 5870, 5889, 5748, 576a, 577, 5900, 591, 5950, 601, 609, 6150, 616n, said to have been really composed by Vidyāpats in honour of his 
 
-patroness 5838 Garga 3980 Gārgya 373 Garudaporana 53, 166, 168, 174, 1823. 
+patroness 5838 Garga 3980 Gārgya 373 Garuḍaporana 53, 166, 168, 174, 1823. 
 
 1840, 212, 216, 218, 219, 221, 224. 225, 231, 236-38, 240, 2621, 263, 2650, 266, 268, 3020, 304, 338a, 401, 418, 419, 440n, 445, 448, 4580, 483, 4880 (verse 'apavitrah pavitro va). 517, 578, 520-22, 523a 521B, 535, 536a, 541, 547a, 5778, 579, 5800, 588, 649, 651 (same verses as in Vāyo 110 34-60), 6630, 6660, 
 
@@ -1609,7 +1609,7 @@ see under 'Sārnath', 'sins', 'onlāra' 'lingas', 'ascetics', Adikeśava-ghāt 6
 
 (Vol 
 
-lastas) 10 all directions from the shrine of Viśveśvara 628, āyatadas, fourteen named 640, belief that dying 10 Basaras freed one from samsāra, led the old and decrepit to crowd ın K. and persons about to die were remov ed to the banks of the Ganges 626, called Jitvari by traders 621, construc tion and endowment of mathas at K. highly eulogised 639, conclusions drawn from the stories in the Epic and Purāṇas that Baparas was once a centre of non-Aryan worship cri ticized 622-623; Dasaśvamedba. ghat famed for centuries 634 635, derivation and significance of the game Kaśi 625; eulogies of greatness and uniqueness of K cover thousands of verses 629, famed for the qualities of its cloth in the second century B, C, 619, first called Anandakanana and then Avimukta 624; five questions about K. ashed by sages to Bhrgu in the Padmapurana 623; for devotees of siva there is no other remedy even in great calamities or incurable diseases than touching the water of the feet of the image of God 641, Ganesas are 56 at K. 638; ghāts in Banaras for at least a thousand years 634-637, hardly any other city in the world can claim greater anti qurty, greater contrauity and greater popular veneration than Banaras 618; hyperbolic descriptions of the results of bathiog and dying 10 Kasi in the Parānas 629-630, in the times of Buddha, Banaras was a great and famous city like Rajagrba, Sāketa, Srāvastı 621, individual tirthas in K. described 632-640; it is said that mere residence in K till death not only frees a man from such sias as brahmana-murder, but also frees him from the cycle of births and deaths 566, 19 called Ādandakāpapa because it gives joy to Siva 626, Jābālopa 
+lastas) 10 all directions from the shrine of Viśveśvara 628, āyatadas, fourteen named 640, belief that dying 10 Basaras freed one from samsāra, led the old and decrepit to crowd ın K. and persons about to die were remov ed to the banks of the Ganges 626, called Jitvari by traders 621, construc tion and endowment of mathas at K. highly eulogised 639, conclusions drawn from the stories in the Epic and Purāṇas that Baparas was once a centre of non-Aryan worship cri ticized 622-623; Dasaśvamedba. ghat famed for centuries 634 635, derivation and significance of the game Kaśi 625; eulogies of greatness and uniqueness of K cover thousands of verses 629, famed for the qualities of its cloth in the second century B, C, 619, first called Anandakanana and then Avimukta 624; five questions about K. ashed by sages to Bhrgu in the Padmapurana 623; for devotees of siva there is no other remedy even in great calamities or incurable diseases than touching the water of the feet of the image of God 641, Ganesas are 56 at K. 638; ghāts in Banaras for at least a thousand years 634-637, hardly any other city in the world can claim greater anti qurty, greater contrauity and greater popular veneration than Banaras 618; hyperbolic descriptions of the results of bathiog and dying 10 Kasi in the Parānas 629-630, in the times of Buddha, Banaras was a great and famous city like Rajagrba, Sāketa, Srāvastı 621, individual tirthas in K. described 632-640; it is said that mere residence in K till death not only frees a man from such sias as brahmana-murder, but also frees him from the cycle of births and deaths 566, 19 called Ādandakāpapa because it gives joy to Śiva 626, Jābālopa 
 
 nisad gives an esoteric meaning to . Avinukta, Varana and Nasi 625-626; Jain works like the Kalpasūtra say tbat Arhat Parsya was born 10 Bagaras 621, Jñāpavāpi, origia and importance of 638; Kapalamocana gbāt at K. 19ancient 639; Kaśikhanda, a part of Skandapurana, devotes 15000 verses to Banaras and sub. tirthas 623 , kaown under five dames from ancient times viz. Vērānasi, Kaśi, Avimulta, Anandakānana and Śmaśāna or Mabasmaśīna 624 : lauded and described at great length in several Puranas 623;' lingas god tīrtbas at K. mentioned in some purānas are npmerous 639-40; Lolārka is one of the twelve sbones of the Sun la K 6332, 634 ; Madi. karnika pool is the most holy among tithas at K. 635, mantras recited when contemplatiog Manikarnika 633, Mleccbas, 1asects, birds, beasts, wormsafter death in K.Eind happiness 630, by identifying Asi and Varana with Idā and other nādis mystic fla vour is imparted to those names 631; name Aviraukta, derived and explaio. ed in two ways 626, Dame Smaśāna or Mabāśmasana due to various causes 626-627, Dame Vārānasi is derived from the two rivers Varanā (modern Bārna) and Ass, which are respec tively the northern and southera boundaries of the modern city 625, name was spelt as Bepares ap to receat times, but now it is spelt as Banaras 618, Nāradiyapurana says that Banaras tas at first the city of Madhava, but later on becamc a Saiva-ksetra 6220, Nārāyanabhatta says that in the case of Visveśvara linga there is no blemish due to the touch of the untouchable 633, 000 should not commit the slightest sin in K. As praishment is relatively far heavier 638, Pancaganga-ghīt, so called because five nvers, Kirana 
 
@@ -1621,7 +1621,7 @@ Dhūlapāpā. GangāYamuna and Sarasvati are supposed to meet there 636, Pancakr
 
 K, and of sins committed 10 K by one who dies outside K 640-41, several images of Kesava existed at K. 636n, śrāddba should be per formed at K 639, stotra of Durgā called Vajrapañjara 638, sub-tīrthas at K, are pamerous 638, temple of Bhairavapātba, sopposed to be kotwal of K., who wields thick stone cudgel 638, temple of Durgā at K very popular and much frequented 638, temple of Saksı-Vidāyaka 637, temple of Tārakessara dear Madi karnıkā 635, temple of Viśvasatha re-established by Nārāyanabbatta about 1585 A, D, was desecrated by rurangzeb 631-32, there are about 1500 temples in K built duriag the Sast 225 years, 632, there is o Kasia holy place at every step and there is not even as much space as a sesamum grain which bas not a longa 631, there seere one bandred temples 10 K. 10 Hiouen Thsang's time and 10 one of them there svas a copper image of Alabādeta about 100 feet bigb 631, thoogb crepation of corpses is continually going on, set Banaras, owing to the Ganges, is held parest 626, though Kaśi, Vārā- nasi and Asimakta arc generally 
 
-used as synonyms, sometimes a distinction is made in their extent 627-629, traditions of great learping associated with K as vouched for by Kasih handa, Alberuni and A10-1 Akbarı 641-642, Vācaspati held that Avimaltesvara-luga is the same as Viśvanatha, but the Skandapurana treats them as distinct 633, Vada parva states that by visiting Avi mokta and by a bath there pilgrim be comes free from the sia of brābmada marder and by dying there secures molsa 629, Vārānasi was borot by Nikumbba, a gana of Siva and was re-established by Divodāsa 620, Viṣṇu is said by Kaśikhanda to have assigned a place called Dharmalsetra to the north of Kaśi and stayed there in the form of Buddha 641, Viśve śvara or Viśvanatha is the tutelary deity of Bagaras and the principal temple in it and every resident is required every day to take a bath 10 the Ganga and sist Visveśs ara 692, mas burnt by Krsna with bis cakra 10 pursuit of a krtya 622, was the capital of Brahmadatta kings accord iog to the Jātabas and Parinas 621, was the capital of the kāsis 619, was tbe game of a country long be fore the Sat Br, was composed 619, yātrās of great logas should be celebrated every month from the 
+used as synonyms, sometimes a distinction is made in their extent 627-629, traditions of great learping associated with K as vouched for by Kasih handa, Alberuni and A10-1 Akbarı 641-642, Vācaspati held that Avimaltesvara-luga is the same as Viśvanatha, but the Skandapurana treats them as distinct 633, Vada parva states that by visiting Avi mokta and by a bath there pilgrim be comes free from the sia of brābmada marder and by dying there secures molsa 629, Vārānasi was borot by Nikumbba, a gana of Śiva and was re-established by Divodāsa 620, Viṣṇu is said by Kaśikhanda to have assigned a place called Dharmalsetra to the north of Kaśi and stayed there in the form of Buddha 641, Viśve śvara or Viśvanatha is the tutelary deity of Bagaras and the principal temple in it and every resident is required every day to take a bath 10 the Ganga and sist Visveśs ara 692, mas burnt by Krsna with bis cakra 10 pursuit of a krtya 622, was the capital of Brahmadatta kings accord iog to the Jātabas and Parinas 621, was the capital of the kāsis 619, was tbe game of a country long be fore the Sat Br, was composed 619, yātrās of great logas should be celebrated every month from the 
 
 Arst tithi Qawards 640 Kaśkā, com. on Pāniai 162 Kāsilhanda, part of Slaadapurāna, 
 
@@ -1715,7 +1715,7 @@ amounted to brābmapa murder 18 Ksetraja son, defined 536n, to whom
 
 and in what order he offers piadas 
 
-10 a śrāddba 536, 537 Ksetras, eight, each of Visou, Siva and 
+10 a śrāddba 536, 537 Ksetras, eight, each of Visou, Śiva and 
 
 Sakti 6790 Ksirasvamin, commentator of Apara 
 
@@ -1951,9 +1951,9 @@ instructed by Indra 364
 
 510, 5110, 512, 517, 524, 525, 5360, Manimelhalai 712 
 
-537, 538, 5400, 549, 5570, 587, 604, Mantra, mūla m. of Siva 699, of five 606, 682 
+537, 538, 5400, 549, 5570, 587, 604, Mantra, mūla m. of Śiva 699, of five 606, 682 
 
-letters (pamah Sivaya) 51, of eight Mapvādi titbis 375 
+letters (pamah Śivaya) 51, of eight Mapvādi titbis 375 
 
 Manvantara 164 letters (om namo Nārāyanāya) 51, 
 
@@ -2157,7 +2157,7 @@ District Gazetteer 3030, procedure of, from different svorks 302-305; pro cedure
 
 
 
-[Vol. 703-704; rises from Amarahantaka Nirnayasındhu 29, 190, 230, 231, 238, which is theabode of Siva and is said 243, 256n, 258, 259, 2610, 2625, to bave started from śrva's body 263, 272, 282, 293, 294, 298, 301, 704-705; several rivers such as 302n, 304, 318, 3195, 3380, 3810, Kapıla, Erandi, Kāveri joid N. 705; 382n, 388, 3980, 405, 408, 4250, Saklatistba, where Rājarsı Canakya 
+[Vol. 703-704; rises from Amarahantaka Nirnayasındhu 29, 190, 230, 231, 238, which is theabode of Śiva and is said 243, 256n, 258, 259, 2610, 2625, to bave started from śrva's body 263, 272, 282, 293, 294, 298, 301, 704-705; several rivers such as 302n, 304, 318, 3195, 3380, 3810, Kapıla, Erandi, Kāveri joid N. 705; 382n, 388, 3980, 405, 408, 4250, Saklatistba, where Rājarsı Canakya 
 
 4732, 4820, 4930, 512, 5140, 519, attained perfection 706, " Visna 
 
@@ -3261,7 +3261,7 @@ city of the Hindus' 6189, 631, 632 Siddhāntaśekbara, 3190 Sadharāja. king of 
 
 under Somanātha Silappadilāram 767 Silver, said to be produced from the 
 
-eye of Siva and therefore dear to 
+eye of Śiva and therefore dear to 
 
 patrs 420 Sın, apātrikarana, 15, 35, Asvamedba 
 
@@ -3291,7 +3291,7 @@ of tbe present life 638; vocal was 173; which diseases arisc as the
 
 results of which sios 173 Sutar, Dr. D, C, 698 
 
-Surucandrāyana 150 Sipatrccara, same as Bilakrccbra, 150 Sita-Erechra 150 Sisadbarpottara 396 Sirapurīna 445A, 519, 6750, 679 Sivasaṅkalpa, sacred Vedic tests from | 5 S 48 
+Surucandrāyana 150 Sipatrccara, same as Bilakrccbra, 150 Sita-Erechra 150 Sisadbarpottara 396 Sirapurīna 445A, 519, 6750, 679 Śivasaṅkalpa, sacred Vedic tests from | 5 S 48 
 
 Standaporāna 16, 187, 3379, 351, 
 
@@ -3515,7 +3515,7 @@ bis own son when fanished 100, of Bbaradvāja, who, when famisbed, accepted many
 
 Tnta, 12, 11n, of the birth of Yama and Yami from Vivasvat 198, of Indradyumna, 694-695; of Kavasa and Sarasvati 558-559, 680, of Nacıletas 3840, of Nimi who perfor med śrāddha for bus predeceased son 364; of Paundraba Vāsudeva, who challcoged Krsna with the helpof king of Kasi 622, of Sagara's soos reduced to ashes by the wrath of Kapıla 595, 
 
-of 'saptavyādbas' 445n, of Sapabśepa -274, of ten Vośve-devas to be in. voked in five classes of śrāddhas 4570, of Tuladhāra and Jājali 570; of Usasti Cābrayana and his para taking of forbidden food 100,681, of Vāmadeva, who desired to eat dogs flesh when famisbed 100, of Viśva mitra, who proceeded to take the haunch of a dog from the hands of a Cāndæla, 100, of Vyasa, who, when on the point of cursing Kasi, was ordered by Siva who bad assumed the form of an householder not to enter Kasi escept on the 8th and 
+of 'saptavyādbas' 445n, of Sapabśepa -274, of ten Vośve-devas to be in. voked in five classes of śrāddhas 4570, of Tuladhāra and Jājali 570; of Usasti Cābrayana and his para taking of forbidden food 100,681, of Vāmadeva, who desired to eat dogs flesh when famisbed 100, of Viśva mitra, who proceeded to take the haunch of a dog from the hands of a Cāndæla, 100, of Vyasa, who, when on the point of cursing Kasi, was ordered by Śiva who bad assumed the form of an householder not to enter Kasi escept on the 8th and 
 
 14tA tithis, 638-639 Striparva 223 Sudarsana, commentator of Ap gr 472 Suddbi (re-conversion) modern move ment of, for taking back those converted by force, fraad or other 
 

@@ -197,7 +197,7 @@ tattra etc. 1554 A. D.-1626 A. D.- Appayyadikṣita, author of
 
 Vidhirasāyana and numerous works on different 
 
-śāstras and topics ( vide p. 1199 above ). 1560 A. D.-1620 A. D.-Saṅkarabhatta, son of Nārā 
+śāstras and topics ( vide p. 1199 above ). 1560 A. D.-1620 A. D.-Śhaṅkarabhatta, son of Nārā 
 
 yaṇabhatta and author of Dvaitanirṇaya, Mimāṁ 
 
@@ -221,7 +221,7 @@ digest called Viramitrodaga on tirtha, pājā, samaya
 
 and many other topics of Dharmaśāstra, . 1615 A. D.-1645 A.D.--Time of literary activity of 
 
-Nilakanṭba, son of Saṅkara bhatta, and author of a digest on topics of Ācāra, Saṁskāra, Vyavahāra 
+Nilakanṭba, son of Śhaṅkara bhatta, and author of a digest on topics of Ācāra, Saṁskāra, Vyavahāra 
 
 etc. 1620 A. D.-1690 A. D.--Visvesvara, alias Gāgābhatta, 
 

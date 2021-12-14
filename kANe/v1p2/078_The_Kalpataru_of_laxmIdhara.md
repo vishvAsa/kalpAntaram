@@ -49,7 +49,7 @@ Vol. XIII-XIV . 7-18 on treatinont of Dana by Kane and Rangaswimmi.' Opp. 18 of 
 
 665 
 
-VI. On Vrata (pub. in 1953 ). This kunda is principally based on Purāṇas, eleven in number, among which Bhavisya, Matsya and Varāha are the most prominent. On p. 2 it states that in the Kr̥ta, Tretī, Drādara and Kali Yugas respectively Sujayi, Randi, Dhananjay, Vikrami ittained the position of supreme rulers (sirrablauna ) by performing vratas and that Vasundhar, the virtuous laughter of Vikrama dwelling in the Daśārna country i lalva) secureil inoksi, by performing vratas. On p 36-38 il quotes 10 verses from Sumantu, the last of which avers that the Flaihiyas, Talajanyhas, Turuskas ( Turks ), Yaranasan Seka( Scythians ) observing fasts (in Vratus ) reached the status of brīh manas in this very world. 
+VI. On Vrata (pub. in 1953 ). This kunda is principally based on Purāṇas, eleven in number, among which Bhaviṣya, Matsya and Varāha are the most prominent. On p. 2 it states that in the Kr̥ta, Tretī, Drādara and Kali Yugas respectively Sujayi, Randi, Dhananjay, Vikrami ittained the position of supreme rulers (sirrablauna ) by performing vratas and that Vasundhar, the virtuous laughter of Vikrama dwelling in the Daśārna country i lalva) secureil inoksi, by performing vratas. On p 36-38 il quotes 10 verses from Sumantu, the last of which avers that the Flaihiyas, Talajanyhas, Turuskas ( Turks ), Yaranasan Seka( Scythians ) observing fasts (in Vratus ) reached the status of brīh manas in this very world. 
 
 VII. It is difficult to sar vlefinitely what subject was dealt with in the 7thi Kiintā. It may bave been either Pījā worship of imnures ) or firatisthil consecration of images and ) temples ) or even both. The present anthor understands that some forme lave been printe:las Pratisthākānda ( at Baroda ) but there is no Introductory verse ( as there is in most kındas expressly mentioning the number of the Kānda in the series of 14 kāndas). Further, the present author understands that the late Prof. Hiyanyar left a copy of the Pīja part; but here also there is no Introiuctory rerse about its place in the series. The ms, begins with ansis incomplete verse and ends also abruptly is shown helow. 
 
@@ -177,7 +177,7 @@ day); in pp. 178-212 are described festivals to be undertaken and celebrated by 
 
 The festivals dealt with are : 
 
-Mahānavamīpūjā on Āśvina bright ball, 9th tithi, (pp. 191-195 from Devipurāna without a word of comment); Ciphavidhi ( in Kārtika ) in honour of Devī from Devipurāna in pp. 196-198; Gavotsarga (in pp. 199–200, from Devipurāṇa); Vasor-dhārā ( pp. 201-212 from Bhavisyapurāṇa ). 
+Mahānavamīpūjā on Āśvina bright ball, 9th tithi, (pp. 191-195 from Devipurāna without a word of comment); Ciphavidhi ( in Kārtika ) in honour of Devī from Devipurāna in pp. 196-198; Gavotsarga (in pp. 199–200, from Devipurāṇa); Vasor-dhārā ( pp. 201-212 from Bhaviṣyapurāṇa ). 
 
 This Kānda was published at Lahore in 1942 by Mr. Jagadish Lal also. 
 
@@ -391,7 +391,7 @@ Besides, Laksmidhara and his helpers do not appear to have been profound student
 
 Ilistory of Dhurmuśāstra 
 
-native dual) or Gītābhāsyāni (plural). The editor jumps to the conclusion that L. was conversant with the bhāsyas of both Saikara and Rāmānuja. This is an unwarranted conclusion. L. meant to refer to a single bhānya that is clear. The learned editor could have said that L. refers to Rāmāuuja's bhāsya alone. He would have then been met by the reply that Saṅkara's bhavya was about 300 years earlier than Laksmidhara and than Riminuji's bhāsya and Saṅkara does explain the word 'rasia' as 'riya' (as admitt ed by the editor ) and that there is nothing to prove that Rāmānuja's bhāsya on the Gitit was stu lied in north India as early as the first and second quarters, of the 12th century A. D). 
+native dual) or Gītābhāsyāni (plural). The editor jumps to the conclusion that L. was conversant with the bhāsyas of both Saikara and Rāmānuja. This is an unwarranted conclusion. L. meant to refer to a single bhānya that is clear. The learned editor could have said that L. refers to Rāmāuuja's bhāsya alone. He would have then been met by the reply that Śhaṅkara's bhavya was about 300 years earlier than Laksmidhara and than Riminuji's bhāsya and Śhaṅkara does explain the word 'rasia' as 'riya' (as admitt ed by the editor ) and that there is nothing to prove that Rāmānuja's bhāsya on the Gitit was stu lied in north India as early as the first and second quarters, of the 12th century A. D). 
 
 • 
 
@@ -411,7 +411,7 @@ The above views have been advanced on the basis more or less of the traditional 
 
 No epigraphic record directly mentioning Rāmānuja has been found so far. 
 
-The results of modern research differ a great deal from the traditional accounts and among themselves. An impor tant contribution is that of Mr. T. A. Gopinatha Rao who deli vered the Sir Subrahmanya Aiyyar Lectures on the History of Sri-Vaiṣṇavas' in 1917, which were published in 1923. He refers (pp. 14-15 ) to several Guruparamparās and monogra phs on individual acāryas. The earliest extant work ( accord ing to him ) is the Divyasūricarita of Garudavāhana Pandita 923 who claims to be a contemporary of Rāmānujīcārya and it mentions no yugas and years but only the month, tithi and the nakyatra at the time of the Alvārs and ācāryas. It appears to the present author that most of these traditional 
+The results of modern research differ a great deal from the traditional accounts and among themselves. An impor tant contribution is that of Mr. T. A. Gopinatha Rao who deli vered the Sir Subrahmanya Aiyyar Lectures on the History of Sri-Vaiṣṇavas' in 1917, which were published in 1923. He refers (pp. 14-15 ) to several Guruparamparās and monogra phs on individual acāryas. The earliest extant work ( accord ing to him ) is the Divyasūricarita of Garuḍavāhana Pandita 923 who claims to be a contemporary of Rāmānujīcārya and it mentions no yugas and years but only the month, tithi and the nakyatra at the time of the Alvārs and ācāryas. It appears to the present author that most of these traditional 
 
  
 
@@ -423,7 +423,7 @@ The results of modern research differ a great deal from the traditional accounts
 
 923 
 
-Vide E. I Vol. 24 pp. 90-101 for Srirangam loscription of Garuda vāhana Bhatta of Saka 1415 ( 20th May 1493 ) for a grant by Garudavāhana, edited by Mr. A. S. Rampath Aiyyar B. A. who states that Garudavāhana was like a title ef thc Superintendent of the temple and its boupital and that the author of the Divyasūri. caritam' was the same as the larndavāhana of this inscription and the idea of the author of the Divyasūricaritam being a contempo rary of Sri Ramānuja must be given up. For extracts from Divyasūricaritam about Rāmānuja vide I, A, vol, 41 pp. 221 ff with translation in English, 
+Vide E. I Vol. 24 pp. 90-101 for Srirangam loscription of Garuḍa vāhana Bhatta of Saka 1415 ( 20th May 1493 ) for a grant by Garuḍavāhana, edited by Mr. A. S. Rampath Aiyyar B. A. who states that Garuḍavāhana was like a title ef thc Superintendent of the temple and its boupital and that the author of the Divyasūri. caritam' was the same as the larndavāhana of this inscription and the idea of the author of the Divyasūricaritam being a contempo rary of Sri Ramānuja must be given up. For extracts from Divyasūricaritam about Rāmānuja vide I, A, vol, 41 pp. 221 ff with translation in English, 
 
 680 
 
@@ -601,7 +601,7 @@ been enough. In the Grhasthakānda also 25 pages (pp. 430 460 ) are expended on 
 
 The Personal History of Laksmīlhar: Our knowlede of the personal history of L. has to be derived from his own works, particularly from the Introductory rerses to the Br. Kānda and the coloļihons at the end of the different Kāndas. Most of the colophons ( as in.licated in the note below ) state L. was the son of Bhatta Hrdavadhara and was himself a Sāndhirigrabika or Mahāsāndhiviyrahika i minister or great minister for peace od war), some adding that he was minister to king Govindacarira. lf the father Hrdayadhara had also been a minister for peace and war Laksmīdhara would certain ly have mentioned that fact in the Introductory verses to the Brahmacarikānula. It is somewhat remarkable that the numerous Gahadi wala inscriptions do not disclose the name of any mantrın but mention the dignitaries called Purohita, Mahattaka, Pratīhāra &c. 
 
-There are sisteen verses in the Intro:luction to Br. Kānda. In the first three verses obeisance is offered to Viṣṇu, Hara (Siva) anu Banu ; verses 4-i contain hightown praise of victo. rious king Govindacandra ( which will be dealt with later ); verses 8 and 9 praise Lakomidhara who is said to be the chief mantrin (minister ) of the heroic king ( Govindacandra ), whose ( Laksmithara's ) greatness is inconceivable and who provided, for the sport of two Cakravāka-like feet of the king, a river in the forin of the brilliant lustre of the jewelled crowns of many kings; low many wicked kings have not been sent to their doom by this best of seekers ( after great powers ) who is solely devotel to the vow of fighting and who also seeks Vidyās. who, in securing the earth girt by the ocean for the king of Kāśi, offereil in the fire of valour one lakh of the lotus like heads of enemy kings, and then verse ten contains high praise of his own work called Kalpavrksit that yields the fruits of Dharma, Artha, Kana and immortality ( moksa) and 
+There are sisteen verses in the Intro:luction to Br. Kānda. In the first three verses obeisance is offered to Viṣṇu, Hara (Śiva) anu Banu ; verses 4-i contain hightown praise of victo. rious king Govindacandra ( which will be dealt with later ); verses 8 and 9 praise Lakomidhara who is said to be the chief mantrin (minister ) of the heroic king ( Govindacandra ), whose ( Laksmithara's ) greatness is inconceivable and who provided, for the sport of two Cakravāka-like feet of the king, a river in the forin of the brilliant lustre of the jewelled crowns of many kings; low many wicked kings have not been sent to their doom by this best of seekers ( after great powers ) who is solely devotel to the vow of fighting and who also seeks Vidyās. who, in securing the earth girt by the ocean for the king of Kāśi, offereil in the fire of valour one lakh of the lotus like heads of enemy kings, and then verse ten contains high praise of his own work called Kalpavrksit that yields the fruits of Dharma, Artha, Kana and immortality ( moksa) and 
 
 686 
 

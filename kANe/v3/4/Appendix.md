@@ -77,11 +77,11 @@ at p. 52 and Mallasarul plate of Vijayasena in E. I. XXIII
 
 'agrahārin'. Vide E. I. XXIV at p. 127 for a note on 'agrahāra'. 
 
-One who communicates at the order of the king the details about a landgrant to local officers (probably the same as dutaka). This word ocours in some of the earliest Ins. of Pallaya Sivaskandavarman (in E. I. VI p. 84 at p. 88 ). Vide algo E I. VIII at p. 146 (plates of the great Pallava queen Cārudevi), JBBRAS vol. X p. 365 of fake 532 (where the ājāapti is Durgāpati), E. I. XII p. 3, E. I. XV p. 70 (plate of Sundara Cola). In the grant of the eastern Calukya king Amma II we have 'ajñaptih katakādhigo bhattadevasca lekhakaḥ' (E. I. VII at p. 188 ). Vide p. 184 
+One who communicates at the order of the king the details about a landgrant to local officers (probably the same as dutaka). This word ocours in some of the earliest Ins. of Pallaya Śivaskandavarman (in E. I. VI p. 84 at p. 88 ). Vide algo E I. VIII at p. 146 (plates of the great Pallava queen Cārudevi), JBBRAS vol. X p. 365 of fake 532 (where the ājāapti is Durgāpati), E. I. XII p. 3, E. I. XV p. 70 (plate of Sundara Cola). In the grant of the eastern Calukya king Amma II we have 'ajñaptih katakādhigo bhattadevasca lekhakaḥ' (E. I. VII at p. 188 ). Vide p. 184 
 
 of the same for a discussion of the meaning. 35-a synonym of 3 . Vide Parle plate of Indravarman in 
 
-E. I. XIV p. 360 at p. 362 (of the Ganga year 149 ) where the words are ajāa mahāmahattara-Sivavarma'. When in the Gupta Ing. No. 25 at p. 115 ( of Maharaja Saṅkṣobha ) or in the plate of Dronasimha in the Valabhi year 183 in E. I. XVI at p. 19 the words at the end are 'svayamājñā' the meaning is that the king employed no dutaka to convey the details of his grant to the local officers but that he gave the 
+E. I. XIV p. 360 at p. 362 (of the Ganga year 149 ) where the words are ajāa mahāmahattara-Śivavarma'. When in the Gupta Ing. No. 25 at p. 115 ( of Maharaja Saṅkṣobha ) or in the plate of Dronasimha in the Valabhi year 183 in E. I. XVI at p. 19 the words at the end are 'svayamājñā' the meaning is that the king employed no dutaka to convey the details of his grant to the local officers but that he gave the 
 
 details in person. 191T9797-Probably the same as 'ajñapti' or 'đūtaka'. Vide 
 
@@ -267,7 +267,7 @@ century ). I9qOfficer over five or ten villages. Vide Kaut. II. 35 and
 
 p. 143 above. 
 
-Superintendent of woods and forests' ( Fleet). The word occurs in Gupta Ing. No. 12 p. 47 at p. 50, in the Nalanda plate of Devapāla (E. I. XVII at p. 321), Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306 ), in the grant of Lakṣmaṇasena (E. I. XII p. 6 at p. 9). The word is formed from 'gulma' acc. to Vartika 13.( ayasthanebhyaṣthaka ) on Pāṇini IV. 2. 104. Vogel (p. 127) boldly asserts that ' the words saulkika and gaulmika are unknown in Sanskrit Literature' in spite of Bühler's note in E. I. vol. I p. 2 at p.7 that saulkikas are frequently mentioned in inscriptions. But saulkika also occurs in Yāj. II. 173 and both words occur in the Mahābhāṣya. Gulma means a post of guards. Vide p. 141 above. The word 'gumike' read in the grant of Pallava Sivaskandavarman (E. I. vol. I p. 2 at p. 5) is 
+Superintendent of woods and forests' ( Fleet). The word occurs in Gupta Ing. No. 12 p. 47 at p. 50, in the Nalanda plate of Devapāla (E. I. XVII at p. 321), Bhagalpur plate of Nārāyaṇapāla (I. A. 15 p. 304 at p. 306 ), in the grant of Lakṣmaṇasena (E. I. XII p. 6 at p. 9). The word is formed from 'gulma' acc. to Vartika 13.( ayasthanebhyaṣthaka ) on Pāṇini IV. 2. 104. Vogel (p. 127) boldly asserts that ' the words saulkika and gaulmika are unknown in Sanskrit Literature' in spite of Bühler's note in E. I. vol. I p. 2 at p.7 that saulkikas are frequently mentioned in inscriptions. But saulkika also occurs in Yāj. II. 173 and both words occur in the Mahābhāṣya. Gulma means a post of guards. Vide p. 141 above. The word 'gumike' read in the grant of Pallava Śivaskandavarman (E. I. vol. I p. 2 at p. 5) is 
 
 correctly held by Bühler to stand for 'gaulmika'. Happy Village scribe. Occurs in Rājat. V. 175.. are-Village headman. Vide p. 154 for reference from 
 
@@ -303,7 +303,7 @@ This word has given rise to various opinions. Fleet and Bühler translate as irr
 
 ( Vol. 
 
-Prof. Pathak while editing the Abhona plates of Saṅkara gapa dated in Kalacuri saivat 347 in E. I. IX p. 296 quotes the words of Saṅkarācārya (tarkika-oāta-bhatarājāpravem śyam) in bis Bhasya on Br. Up. and Anandagiri's explana tion thereon viz. cātas are those that transgress the rules of conduct for decent people and bhatas are servants telling falsehoods. Vide the Valabhi grant of Dharasana II in 252 Gupta year (I. A. 15 p. 187) and the Palitana plates of the same king and of the same year in E. I. XI. p. 80 at p. 83 and the Banskhera plate of Harsa (E. I. IV p. 208, at p. 211 where we read 'bhatacā ṭa-sevakādin) for other early occurrences of the word. In the Naihati grant of Ballāla gena we have the words 'cattabhatta-jātiyān janapadan 
+Prof. Pathak while editing the Abhona plates of Śhaṅkara gapa dated in Kalacuri saivat 347 in E. I. IX p. 296 quotes the words of Saṅkarācārya (tarkika-oāta-bhatarājāpravem śyam) in bis Bhasya on Br. Up. and Anandagiri's explana tion thereon viz. cātas are those that transgress the rules of conduct for decent people and bhatas are servants telling falsehoods. Vide the Valabhi grant of Dharasana II in 252 Gupta year (I. A. 15 p. 187) and the Palitana plates of the same king and of the same year in E. I. XI. p. 80 at p. 83 and the Banskhera plate of Harsa (E. I. IV p. 208, at p. 211 where we read 'bhatacā ṭa-sevakādin) for other early occurrences of the word. In the Naihati grant of Ballāla gena we have the words 'cattabhatta-jātiyān janapadan 
 
 (E. I. XIV p. 156 at p. 160 ). 21796-Thief-catcher. The word occurs in Narada (parisista 
 
@@ -657,7 +657,7 @@ the grant of Lakṣmapasena (E. I. XII p. 6 at p. 9). See
 
 Supažika' above. H--The word occurs very frequently in conjunction with cāta' 
 
-for which see above. Vide also Dudia plates of Pravara sena II in E. I. III p. 258 at p. 261 and Banskhera plate of Harṣa (E. I. IV p. 208 at p. 211), grant of Sivaskanda varṇan (E. I. vol. I. p. 2 at p. 5) where 'bhada' stands for 
+for which see above. Vide also Dudia plates of Pravara sena II in E. I. III p. 258 at p. 261 and Banskhera plate of Harṣa (E. I. IV p. 208 at p. 211), grant of Śivaskanda varṇan (E. I. vol. I. p. 2 at p. 5) where 'bhada' stands for 
 
 'bhata'. HT19E-Vide p. 112 above, HTTETA-He who recovers the king's share of the produce of 
 
@@ -697,7 +697,7 @@ at p. 117 ). piiratura-The same as 'bhogika' above.
 
 A village headman or 'freeholder' (Buhler). The word occurs in the Deo Baranark Ins. of Jivitagupta II (Gupta Ing. No. 46 p. 213 at p. 216 ) and in the grant of Pallava 
 
-Sivaskandavarman (E. 1. vol. I. p. 2 at p. 5). HUS ' Lord of a mandala', a provincial governor. Vide Rājat. 
+Śivaskandavarman (E. 1. vol. I. p. 2 at p. 5). HUS ' Lord of a mandala', a provincial governor. Vide Rājat. 
 
 VI. 73, VII. 996, VIII. 1228, 1814, 2029. 
 
@@ -723,7 +723,7 @@ after another ) and in Rājat. VII. 438.
 
 HEER-lit. meaning ‘elder' ( of a town or village ). Stein on 
 
-Rājat. VII. 659 transldtes it as chamberlain. The word occurs in the Kavi plate of Jayabhata of the beginning of the 5th century A. D. (I. A. vol. V p. 114, 'rāsṭragrāma mahattara), Gupta Ing. No. 38 p. 164 at p. 169 (the Maliya plate of Dharasena II), Abhona plates of Saṅkaragapa ( 595 A. D.) in E.LIX p. 297, Palitana plates of Simbaditya in the Gupta year 255 ( E. I. XI pp. 16, 18), Valabhi grant of Dharasena II in Gupta year 252 (L. A. 15 p. 187). Vide algo E. I. VIII p. 26 at p. 39 ( sake 852 ), E. I IV p. 278, 285 (sake 880), E. L II p. 263, 266 ( Vikrama year 1016), I. Ad 
+Rājat. VII. 659 transldtes it as chamberlain. The word occurs in the Kavi plate of Jayabhata of the beginning of the 5th century A. D. (I. A. vol. V p. 114, 'rāsṭragrāma mahattara), Gupta Ing. No. 38 p. 164 at p. 169 (the Maliya plate of Dharasena II), Abhona plates of Śhaṅkaragapa ( 595 A. D.) in E.LIX p. 297, Palitana plates of Simbaditya in the Gupta year 255 ( E. I. XI pp. 16, 18), Valabhi grant of Dharasena II in Gupta year 252 (L. A. 15 p. 187). Vide algo E. I. VIII p. 26 at p. 39 ( sake 852 ), E. I IV p. 278, 285 (sake 880), E. L II p. 263, 266 ( Vikrama year 1016), I. Ad 
 
 III) 
 
@@ -795,7 +795,7 @@ Lakṣmapasona's grant ( E. I. XII p. 6 at p. 9). HETTI --Vide quotes above. The
 
 gupta's Panchobh plate (JBORS. vol. V p. 582 at p. 588). Fergura--The great superintendent of elephants. Mahāpilu 
 
-pati Pāśupata was the dutaka of the Abhona plates of Kataccuri Saṅkaragana in Kaṭaccuri saivat 347 (i. e. 595-6 A. D.) in E. I. IX p. 296 at p. 298. The word also occurs in 
+pati Pāśupata was the dutaka of the Abhona plates of Kataccuri Śhaṅkaragana in Kaṭaccuri saivat 347 (i. e. 595-6 A. D.) in E. I. IX p. 296 at p. 298. The word also occurs in 
 
 Lakṣmanasena's grant ( E. I. XII p. 6 at p. 9). Hafar-Superior officer above all doorkeepers., great cham 
 
@@ -857,7 +857,7 @@ at p. 30). HETHETTY-Vide mahattara above. The word occurs in the Purle
 
 plate of Ganga year 149 (E. I. XIV p. 362, where we read 
 
-ājñā mahāmahattara-Sivasarmā. HETHE777-Occurs in the Kahla plate of Sodhadeva in saruut 
+ājñā mahāmahattara-Śivasarmā. HETHE777-Occurs in the Kahla plate of Sodhadeva in saruut 
 
 1134 ( E. I. VII p. 85 at p. 91 ). HT1916--Great or Prime Minister'. Vide note 148 above and 
 
@@ -899,7 +899,7 @@ Benares and Goharwa plates of Karnadeva ( in E. I. vol. II p. 309 and E. I. XI p
 
 Benares plate of Karnadeva in 1041 A, D. ( E. I. II. p. 309 ). FEIFT-alaga -Great minister of peace and war. Occurs in 
 
-the Palitana plate of Dharagena II in Gupta year 252 (E. I. XIN. 80), in plate of Buddharāja (E. I. VI at p. 299 in 609-10 A.D.), in the Pimpari plate of Dhruvarāja (E.I. X at p. 89) in sake 697. In the Harsacarita (VI) Harṣa is said to have dictated his proclamation of digvijaya to 'Mabā...krta' who sat near him, In E.I. IX at p. 290 (plates of Saṅkaragana) and E. I. XII p. 30 at p. 35, we have 'mabāsandhivigra 
+the Palitana plate of Dharagena II in Gupta year 252 (E. I. XIN. 80), in plate of Buddharāja (E. I. VI at p. 299 in 609-10 A.D.), in the Pimpari plate of Dhruvarāja (E.I. X at p. 89) in sake 697. In the Harsacarita (VI) Harṣa is said to have dictated his proclamation of digvijaya to 'Mabā...krta' who sat near him, In E.I. IX at p. 290 (plates of Śhaṅkaragana) and E. I. XII p. 30 at p. 35, we have 'mabāsandhivigra 
 
 hādhikaraṇādhikrta. RETETE Great Commander. Occurs in Kabla plate of Sodha 
 
@@ -963,9 +963,9 @@ department. The word occurs ( as rajuka) in the 3rd Rock Edict of Asoka at Girna
 
 E. I. XXIV p. 52 (under Vākāṭaka Emperor Pravarasena II) EFATHA---Private Secretary. The word occurs in the Pallava 
 
-Sivaskandavarman's grant (E. I. vol. I p. 2 at p.7), in the Vilavatti grant of Pallava Simhavarman (E. I. XXII p. 296 
+Śivaskandavarman's grant (E. I. vol. I p. 2 at p.7), in the Vilavatti grant of Pallava Simhavarman (E. I. XXII p. 296 
 
-at p. 298), in a Kadamba plate (E. I. VI p. 13). GEAR-A prince. Occurs in the grant of Sivaskandavarman 
+at p. 298), in a Kadamba plate (E. I. VI p. 13). GEAR-A prince. Occurs in the grant of Śivaskandavarman 
 
 (E. I. vol. I p. 2 at p. 5). TIFTET-( modern Raval or Rāu!). Vide E. I. XX Appendix 
 
@@ -983,7 +983,7 @@ History of Dharnafāstra
 
 TOTIEither a mere title or a feudatory'. This is often the 
 
-first among the several persons addressed in several grants. The word occurs in Abhona plates of Saṅkaragaña in 595 A, D. (E. IX p. 297 ), in the Candravati plate of Candra deva of sainvat 1148 ( E. I. IX p. 305 ), in Lakṣmanasena's grant ( E. I. XII at p. 9). Vide Vogel p. 121. 
+first among the several persons addressed in several grants. The word occurs in Abhona plates of Śhaṅkaragaña in 595 A, D. (E. IX p. 297 ), in the Candravati plate of Candra deva of sainvat 1148 ( E. I. IX p. 305 ), in Lakṣmanasena's grant ( E. I. XII at p. 9). Vide Vogel p. 121. 
 
 (1974-ra ksatriya chief. It occurs in Lakṣmaṇasena's grant 
 
@@ -1031,7 +1031,7 @@ in 852 A, D., in the Karhad plates of Krsna III dated sake 880 ( E. I. IV pp. 27
 
 aditya V in sake 930 (I. A. vol. 16 pp. 15, 24). Tieqa-Head of a province. The word occurs in Kaut. V. I. TT -Ruler of a province. In the Prākrit form 'ratthika' the 
 
-word occurs in the grant of Sivaskandavarman ( E. I. vol. I 
+word occurs in the grant of Śivaskandavarman ( E. I. vol. I 
 
 p. 2 at p. 5). treg.-Ruler of a district or province. Vide p. 117 and note 
 
@@ -1065,9 +1065,9 @@ Dharagena II in Gupta year 252 ( E. I. XI pp. 80, 83 ), in the Nalanda plate of 
 
 the word is preceded by 'āyuktaka'). angala--Ruler of a district. The word occurs in the Kapi grant 
 
-of Jayabhata (I. A. 5 p. 114, in the beginning of the 5th century A. D.), in the Abhona plates of Saṅkaragana in E. I. IX p. 297 ( in 595 A, D.), in the Banskhera plate of Harsa (E. I. IV pp. 208, 211), in the Karhad plate of Krspa III dated sake 880 ( E, I. IV pp. 278, 285 ), in the Bhagalpur plate of Nārāyanapāla (I. A. 15 pp, 304, 306 ), in E. I. VII 
+of Jayabhata (I. A. 5 p. 114, in the beginning of the 5th century A. D.), in the Abhona plates of Śhaṅkaragana in E. I. IX p. 297 ( in 595 A, D.), in the Banskhera plate of Harsa (E. I. IV pp. 208, 211), in the Karhad plate of Krspa III dated sake 880 ( E, I. IV pp. 278, 285 ), in the Bhagalpur plate of Nārāyanapāla (I. A. 15 pp, 304, 306 ), in E. I. VII 
 
-p. 39 ( in 852 A. D.). fapier-Same as above. The word occurs in the grant of Siva. 
+p. 39 ( in 852 A. D.). fapier-Same as above. The word occurs in the grant of Śiva. 
 
 skandavarman (E. I. vol. I at p. 5). efthGTTProbably elder of a vithi ( a district). Occurs in a 
 
@@ -1133,7 +1133,7 @@ crops. If occurs in the Khalimpur plate of Dharmapala in
 
 E. I. IV p. 243 at p. 250. Ha-Minister. Vide p. 105 and note 150 above. 
 
-779A spy. It occurs in the grant of Sivaskandavarman (E. I. vol. I p. 2 at p. 5). In I. 12 Kautilya speaks of 
+779A spy. It occurs in the grant of Śivaskandavarman (E. I. vol. I p. 2 at p. 5). In I. 12 Kautilya speaks of 
 
 sañcāras ( wandering spies like tikśna, rasada &c.). theta.Vide p. 111 above. hagle-Minister for peace and war. This form of the word 
 
@@ -1173,7 +1173,7 @@ High functionaries and officers
 
 1007 
 
-Saṅkaragāna in 595 A. D. (E. I. IX p. 297), in Madhuban plate of Harsa (E. I. VII at p. 158 ), E. I. VI p. 298 (plate 
+Śhaṅkaragāna in 595 A. D. (E. I. IX p. 297), in Madhuban plate of Harsa (E. I. VII at p. 158 ), E. I. VI p. 298 (plate 
 
 of Buddharāja in 609-10 A. D.). HIEATE & Occurs in Sukra I. 120. FitF -Officer who looked to the work of boundaries. Occurs 
 
@@ -1183,7 +1183,7 @@ I. XIII pp. 109, 115). ATHUITEMeaning uncertain. It occurs in the plate of Danti
 
 varman of Gujerat in sake 789 ( E. I. VI p. 285 ). gara-Commander-in-chief. Vide p. 127 above and Br. quoted 
 
-by Viśvarūpa on Yāj. I. 307. Pusyamitra, the founder of of the Sunga dynasty and Bhatarka, the founder of the Valabhi dynasty, and his son Dharasena were styled senāpati; vide I. A. 15 p. 187 (plate of Dharasena II in Gupta year 252 ), E. I. vol. I p. % at p. 5 (grant of Pallava Sivaskandavarman), JBBRAS vol. 16 pp. 105, 108, E. I. IX 
+by Viśvarūpa on Yāj. I. 307. Pusyamitra, the founder of of the Sunga dynasty and Bhatarka, the founder of the Valabhi dynasty, and his son Dharasena were styled senāpati; vide I. A. 15 p. 187 (plate of Dharasena II in Gupta year 252 ), E. I. vol. I p. % at p. 5 (grant of Pallava Śivaskandavarman), JBBRAS vol. 16 pp. 105, 108, E. I. IX 
 
 at p. 305. atquiga.State goldsmith. Vide pp. 144-145 above. F ---A petty officer, probably head of the village administra. 
 
