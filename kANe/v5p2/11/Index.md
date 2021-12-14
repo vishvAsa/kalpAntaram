@@ -178,7 +178,7 @@ i Vol. v
 
 sent Agni (in Inan. ed.) is e d by Veda is not hirisā 948; 
 
-not the original Purina) 887. some purinas sanction the kill. Agniwāruta, a sastra 721. 
+not the original Purina) 887. some purāṇas sanction the kill. Agniwāruta, a sastra 721. 
 
 ing of a person (such as a tyrant Agnpūdbana, laid down by Tai. or desperatio) by whose death 
 
@@ -260,7 +260,7 @@ OU.
 
 [ Vol. V 
 
-pūrta'), 1113n, 1132, 1210 | of, from Aguipurina 150; cele (Buddha is sarvaja ), 1393u, brated on 14th of Bhadrapada 1378, 1432 (defines Yuba uud sakla 151; consists mainly in Niyawa ), 1514. 
+pūrta'), 1113n, 1132, 1210 | of, from Aguipurāṇa 150; cele (Buddha is sarvaja ), 1393u, brated on 14th of Bhadrapada 1378, 1432 (defines Yuba uud sakla 151; consists mainly in Niyawa ), 1514. 
 
 the worship of lari us Ananta Awāvāsya, addres ed ils a deity i and in wearing on the right 
 
@@ -1194,7 +1194,7 @@ Bhūtārthavada or Bbātārthāpu Bhoja, king of Dhārā ( 1st half of vāda; ex
 
 Bible, says that Jesus did not Bhojaka : 779n ( to whom one's expound all things to all people 
 
-dream was to be declared ); but only to his disciples, 14610; Bhojakata : m. in Brahmapurina is intolerant and pessimistic 
+dream was to be declared ); but only to his disciples, 14610; Bhojakata : m. in Brahmapurāṇa is intolerant and pessimistic 
 
 es capital of Rukmin of Vidar 1 16241, 1630n. bha and in Fleet's Gupta In- | Bijanighanto, 1058n (a list of scriptions ' 588 and no 
 
@@ -1726,7 +1726,7 @@ reservoir on Sahya mountain Dafaharā - vrata, on 10th of and called Avedhūta, 
 
 bright half of Jeystha 90-91; instruots Alarka in Yoga, 903; 80-called because it removes propounded anviksiki (adhya ten sing 90-91. 
 
-tmavidyā) to Alarka and Prah Dasanirpaya of Hārita Venkata- lāda 903n; story of his con 
+tmavidyā) to Alarka and Prah Dasanirṇaya of Hārita Venkata- lāda 903n; story of his con 
 
 nātha 69, 138; contains con. ferring boons on Kartvirya olasiodis on ten vratas of which ocours in several Purāṇas 903a. 
 
@@ -1814,7 +1814,7 @@ is often employed in the texts (vide under Paths): described to indicate the nak
 
 V. 10 and brought in relation Devatā; Discussion of question. to the doctrine of trangmigra 
 
-what is meant by D. with tion described in Br. Up. IV. reference to which an offer- 4.5-7 and III. 3. 13, 1551-58; ing is cast into fire leads to men that have to go by D. and startling results in P. M. S P. paths 1551-58, 1563; men 1207-09; D. is a subordinate tioned in Rg. X. 2 7 and X. element in a sacrifice and 18.1, 1553. hadis is principal matter and Devayatrotsava, tithis on which in a conflict between the two Yātrā festivals of several gods decision rests on havis (in are to be celebrated 316, 317, PMS) 1207; D. is a matter Deveśvara : m. by Kftyaratna cf words (saya Śabara ) and kara on the definition of when an offering is directed vrata' 30. by Veda to be made to Agni, Devibhāgavata, 176n, 178, 829n one cannot use a synonym (states that Matsya is first out of like Pāvaka, 1307-8; Jaimini 18 Purāṇas ), 830 ( mnemonic and Nirakta agree as to the perse containing first letters of nature and function of D. in 18 Purāpas ), 890 ( note on ho a sacrifice, 1276 ; phala (reward) 916, 9189, 921, 924, 974n, is conferred by the sacrifice 994n, 1033n (verse gurar and not by D. (like Agni brahma' etc), 1039n, 1062n etc. ) 1208 ; several opinions on (on cakras and sahasrara ) who the Devatās are, to whom 1064, 1072, 1076n, 1121 ( states & hymn is addressed or an ayāsa, should be part of Sandhya hadis is offered 1208 ; though worship ), 1127 (Khecari some Vedic passages speak of modrā ), 1130 (on mudrās ). the body of D. and that it Devimāhātmya (in Mārkapdeya drinks and is lord of heaven purina, also called Saptatati, and earth, they are ( merely Candi ): 156, 1760 : Chapters laudatory 1208. 
+what is meant by D. with tion described in Br. Up. IV. reference to which an offer- 4.5-7 and III. 3. 13, 1551-58; ing is cast into fire leads to men that have to go by D. and startling results in P. M. S P. paths 1551-58, 1563; men 1207-09; D. is a subordinate tioned in Rg. X. 2 7 and X. element in a sacrifice and 18.1, 1553. hadis is principal matter and Devayatrotsava, tithis on which in a conflict between the two Yātrā festivals of several gods decision rests on havis (in are to be celebrated 316, 317, PMS) 1207; D. is a matter Deveśvara : m. by Kftyaratna cf words (saya Śabara ) and kara on the definition of when an offering is directed vrata' 30. by Veda to be made to Agni, Devibhāgavata, 176n, 178, 829n one cannot use a synonym (states that Matsya is first out of like Pāvaka, 1307-8; Jaimini 18 Purāṇas ), 830 ( mnemonic and Nirakta agree as to the perse containing first letters of nature and function of D. in 18 Purāpas ), 890 ( note on ho a sacrifice, 1276 ; phala (reward) 916, 9189, 921, 924, 974n, is conferred by the sacrifice 994n, 1033n (verse gurar and not by D. (like Agni brahma' etc), 1039n, 1062n etc. ) 1208 ; several opinions on (on cakras and sahasrara ) who the Devatās are, to whom 1064, 1072, 1076n, 1121 ( states & hymn is addressed or an ayāsa, should be part of Sandhya hadis is offered 1208 ; though worship ), 1127 (Khecari some Vedic passages speak of modrā ), 1130 (on mudrās ). the body of D. and that it Devimāhātmya (in Mārkapdeya drinks and is lord of heaven purāṇa, also called Saptatati, and earth, they are ( merely Candi ): 156, 1760 : Chapters laudatory 1208. 
 
 of, arranged in three parts Devata : Venkatanātha or Ven 155n; has only about 873 to 
 
@@ -5662,7 +5662,7 @@ Indec
 
 165 
 
-Padmapurana says that some vratas are superior to X hundred Vedic sacrificos 934; placed before all people ( in cluding fūdras) easy ways whereby they could secure spiritual life and bliss in the Hereafter 930; played a sub stantial role in bringing about the decline and disappearance of Buddhism from India in various ways 913-914; points of distinction between Upa porānas and the 18 Maba purinas 836-37; printed P, and was thereof, give foar different periods of time viz. 1015, 1050, 1115 and 1600 from the birth of Parīkṣit to the crowning of Nanda, whicb Pargiter discards 845 46; proclaim often that saīsāra is fall of misery and 13 impermanent 1555; pat emphasis on profase expense in srāddhas and inveigh against stinginess 931; quote anavathsa slokas orgāthis about such ancient kings as Kārtavirya Samitra and Ksemaka, last sciops of Aila and Aikṣvāka dynasties, but none about later dynasties of Suugas or Andhras 851; read ing of or listening to recitation of P. believed to remove sins 915-16; reasons why many conclusions drawn from the carrent printed editions and mse, of Purāṇas must be held to be merely tentative 837-38; reasons why extant Parānas do not narrate traditions about ! 
+Padmapurana says that some vratas are superior to X hundred Vedic sacrificos 934; placed before all people ( in cluding fūdras) easy ways whereby they could secure spiritual life and bliss in the Hereafter 930; played a sub stantial role in bringing about the decline and disappearance of Buddhism from India in various ways 913-914; points of distinction between Upa porānas and the 18 Maba purāṇas 836-37; printed P, and was thereof, give foar different periods of time viz. 1015, 1050, 1115 and 1600 from the birth of Parīkṣit to the crowning of Nanda, whicb Pargiter discards 845 46; proclaim often that saīsāra is fall of misery and 13 impermanent 1555; pat emphasis on profase expense in srāddhas and inveigh against stinginess 931; quote anavathsa slokas orgāthis about such ancient kings as Kārtavirya Samitra and Ksemaka, last sciops of Aila and Aikṣvāka dynasties, but none about later dynasties of Suugas or Andhras 851; read ing of or listening to recitation of P. believed to remove sins 915-16; reasons why many conclusions drawn from the carrent printed editions and mse, of Purāṇas must be held to be merely tentative 837-38; reasons why extant Parānas do not narrate traditions about ! 
 
 Gupta dynasty and those that succeeded it 856 ; references to pages of the fopr vol of H of Dh. on dāna, frāddha, tirtha and vrata 998-999; said to be the heart of , dharma, while Veda and Smrti are eyes 924; sectarian bigotry of some Puranas exemplified 976–977; seven P. contain historical material viz, ancient dynasties up to Bhārata war and from Bharata war to the downfall of Andhras and the rise of Guptas, such as Vāyı, Viṣṇu, Brabmāṇda, Bhagavata 842 ; several among the extant P. were composed or completed in the period from the 5th to the 9th century A, D., 854–55; geperal P. contain & much smaller pomber of slokas tban are assigned to them by autho rities as in the case of Viṣṇu parāga and Kārma 832-33; several P. such as Matsya, Vāyo, Vispa and Bhavisya contain much Dharmasastra material 815; several P. describe the eight angas of Yoga 1455; se veral P. like Agni, Matsya and Viṣpıdharmottars are encyclo poedias and illastrate India's life, charaoler, achievements and shortcomings 935; several P. such as Vāyu and Bmh mānda give a different version of the transmission of P. 861 62; some like Bhagavata, Kūrma, Mārkandeya,' Viṇa espouse the Gita doutrine of niskāma-karmayoga 967 ;-some Puranas like Garaga desoribe 
 
@@ -7536,7 +7536,7 @@ Index
 
 U, and even the latter refers vata rules 950. to six Up. 837; Hazra (Prof.) | Upasad, days of 25. says there are over 100 Up&- Upasarga ( preposition) changes purānas 834; Hazra admits the meaning of the root, 2. that adherents of various sects Upaśruti ( listening to words of such as Sāktas, Pāñoarātras, children, or eares-dropping Saaras, interpolated chapters near houses of washermen or in Puriṇas and sometimes cāṇḍālas and using words wrote new and independent heard by chance ag prognosti works styled Parāṇas 837; cations for coming events 809 Kūrma Purāṇa mentions Brah- 810; methods similar to U. in māṇda, Nāradiya Skanda, the ancient near East 810D; Vānana as Up. 870; Matsya method of casting dūrvi grass names Narasimha, Nandi, Ādi- in a book at random 811. tys and Samba as Up, and Upavāka, a kind of seed 732n. there is nothing to show that Upayar$4, commentator of more than fuur were regarded Jaimini 7351, 1186n, 1187n, by the Matsya as of any antho 1197 ; expressly mentioned by rity 834-5; names of 18 U. Sabara 1186n; flourished bet are set ont by Devibhagavata, ween 100 B. C. to 100 A, D. Garuda, Kūrma, Padma, He- 1197; held to be identical with mādri 834 and n; none of the Bodhāyana by Prof. Kuppa 
 
-except Devi, Narasihha, swami Sastri 1187n; m, by the Viṛpu dharmottara, and Saṅkatācārya twice on V. 8. one or two more can be held with great respect 1187n, to be as old as 7th or 8th century 1205. A. D. 835-36, 838 ; only a few Upavāsa : ( vide under fast'); Upapurinas are published and another meaning, in Brahmana those pablished belie definition texts 26. of Porāna as Pancalaksana Upavedas, four 820n, 1263n. 834; only eight U, m. by Upāyas, four, in politios 617.“ Ballklasepa 871; some U. Usages (vide under 'Sadācāra '); bear the same dames as those Band. gr. enumerates five peou of principal Purāṇas, such as liar u. of the North and five Skanda, Vāmana, Brahmāpda others peculiar to the South and Nāradiya 834; total of 4 and provides that if one be lakhs of verses of Puriṇas longing to South follows any 
+except Devi, Narasihha, swami Sastri 1187n; m, by the Viṛpu dharmottara, and Saṅkatācārya twice on V. 8. one or two more can be held with great respect 1187n, to be as old as 7th or 8th century 1205. A. D. 835-36, 838 ; only a few Upavāsa : ( vide under fast'); Upapurāṇas are published and another meaning, in Brahmana those pablished belie definition texts 26. of Porāna as Pancalaksana Upavedas, four 820n, 1263n. 834; only eight U, m. by Upāyas, four, in politios 617.“ Ballklasepa 871; some U. Usages (vide under 'Sadācāra '); bear the same dames as those Band. gr. enumerates five peou of principal Purāṇas, such as liar u. of the North and five Skanda, Vāmana, Brahmāpda others peculiar to the South and Nāradiya 834; total of 4 and provides that if one be lakhs of verses of Puriṇas longing to South follows any 
 
 230 
 
@@ -7578,7 +7578,7 @@ Vaikeșikasitra 468, 472, 476, Vācakpart, a woman that had 1037n ( defines dhar
 
 secured Brabmajdana 921n. and ;' goal ot, is nihkeyasa Vacaspati 52. 
 
-(q. v.) 1468. Vacaspati, te of Sāókbyatattva Vaiṣnava or Vaiṣpavas ( aco, to kappads 4689, 1955, 13940; 1 context); defined in several \# of Nyayakapikā on Mapda Puranas 112–13; difficulties na's "Vidhiviveka'; d. of of, in choosing tithi · for last ton, on Yogabhāgpa, called when it is viddha 114; is Tattravaifāradī 909, 1373, really one who has taken diksa 23990, 14099-11, 14207-23n, 200, to Vaikbinasa or Pafos 14240, 1438n. 1445 ( quotes rātra Agams, but now people two verses of Viṣṇupurina ), are called V. because they are 14460, 1448, 14500; th of Bo traditionally, 113; not to 
+(q. v.) 1468. Vacaspati, te of Sāókbyatattva Vaiṣnava or Vaiṣpavas ( aco, to kappads 4689, 1955, 13940; 1 context); defined in several \# of Nyayakapikā on Mapda Puranas 112–13; difficulties na's "Vidhiviveka'; d. of of, in choosing tithi · for last ton, on Yogabhāgpa, called when it is viddha 114; is Tattravaifāradī 909, 1373, really one who has taken diksa 23990, 14099-11, 14207-23n, 200, to Vaikbinasa or Pafos 14240, 1438n. 1445 ( quotes rātra Agams, but now people two verses of Viṣṇupurāṇa ), are called V. because they are 14460, 1448, 14500; th of Bo traditionally, 113; not to 
 
 Bhimati, com. on Sāṅkara- bow to or worship.another God bhaaga on V. B. 2166, 1510n; or to enter the temple of date of ( 820–900 A. D.) 1199,1 Another God Hoc to Viddha 
 

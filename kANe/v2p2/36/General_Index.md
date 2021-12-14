@@ -2743,7 +2743,7 @@ Literature, 247n; twenty-eight | Nandas: after them there will be no mentioned i
 
 • 247, 
 
-purinas, 1210 ; angored Canakys, Nala, name of, to be repeated in the 
+purāṇas, 1210 ; angored Canakys, Nala, name of, to be repeated in the 
 
 265. morning, 648. 
 

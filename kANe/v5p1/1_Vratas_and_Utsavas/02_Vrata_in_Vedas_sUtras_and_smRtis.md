@@ -411,7 +411,7 @@ e ao tetaan ta ). euro (on a) p. 4 has got an TTAT ART &c. क्रोधात
 
 
 
-a person, having first undertaken a vrata, does not carry it out, being led away by some desire, he while alive becomes (i. e. is to be treated as) a cāṇḍāla and after death becomes a dog'. In such a case where through greed, infatuation or inadvertence a man is guilty of breaking his vrata, he has to undergo three days' fast and also shave his head and then begin the vrata (the remainder acc. to Nirṇayasindhu, the whole of it acc. to Sula pāṇi). The Varāhapurāṇa states that man who undertakes a vrata on ekadasi day but does not, owing to foolishness, finish it, reaches a very evil state'. 
+a person, having first undertaken a vrata, does not carry it out, being led away by some desire, he while alive becomes (i. e. is to be treated as) a cāṇḍāla and after death becomes a dog'. In such a case where through greed, infatuation or inadvertence a man is guilty of breaking his vrata, he has to undergo three days' fast and also shave his head and then begin the vrata (the remainder acc. to Nirṇayasindhu, the whole of it acc. to Sula pāṇi). The Varāhapurāṇa states that man who undertakes a vrata on ekādaśī day but does not, owing to foolishness, finish it, reaches a very evil state'. 
 
 Death in the midst of a vrata did not deprive the performer of the merit for which he began it. Angiras 116 provides 'if a. person that has begun some religious act for some benefit dies before the rite is finished, he secures the merit that is the reward ( of that act) after his death; Manu so declared'. 
 

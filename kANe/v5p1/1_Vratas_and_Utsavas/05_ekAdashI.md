@@ -61,7 +61,7 @@ Ekādaśīvrata on the ekādaśīs of both fortnights is nitya only for persons 
     देवल q. by नि. सि. 36, समयप्रकाश p. 62, का. वि. p. 426 (from स्मृतिमीमांसा), हे. (काल) p. 150, ए, त. p. 36 (ascribes to गोभिल); ब्रह्मवैवर्त IV. 26 38 'शुक्लामेव । कुर्वन्ति गृहिणो वैष्णवेतराः । न कृष्गालवन्ने दोषस्तेषां वेदेषु नारद ॥'
 
 
-There are conflicting texts on this subject. The Padma says [^241] ' a house holder should observe a fast on only the dark ekādaśīs between Śayanī (Asādha śu. 11) and Bodhinī (Kārtika su. 11) and on no other ekadasi of the dark half'. There is a precept of Narada [^242] 'a householder having a son should not observe a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Śayanī and Bodhinī, but if he has a son he should not observe a fast even on those ekādaśis that occur between Śayanī and Bodhinī. 
+There are conflicting texts on this subject. The Padma says [^241] ' a house holder should observe a fast on only the dark ekādaśīs between Śayanī (Asādha śu. 11) and Bodhinī (Kārtika su. 11) and on no other ekādaśī of the dark half'. There is a precept of Narada [^242] 'a householder having a son should not observe a fast on a Saṅkranti day, on the day of ekādaśī in the dark half and on eclipses of the sun and the moon'. The best construction of these passages appears to be that a fast only on the ekādaśi of the bright half is obligatory for a householder, but he may observe (Kāmyavrata) a fast on the ekādaśīs occurring in the dark half between Śayanī and Bodhinī, but if he has a son he should not observe a fast even on those ekādaśis that occur between Śayanī and Bodhinī. 
 
 [^241]: 
     
@@ -87,7 +87,7 @@ A widow [^243] is to be treated on the same level as a yati and a woman whose hu
     नारी विधवा तस्या एव यतिधर्मत्वात् । का. नि p. 257.
 
 
-It has to be further noted that these restrictions [^244] do not apply to professed devotees of Viṣṇu ( technically called Vaisnava). To them the verse quoted in note [^238] above applies and they have to observe a fast on all ekadasis. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikāra for fasting on ekadasis in both pakṣas. 
+It has to be further noted that these restrictions [^244] do not apply to professed devotees of Viṣṇu ( technically called Vaisnava). To them the verse quoted in note [^238] above applies and they have to observe a fast on all ekādaśīs. Hemadri (on vrata vol. I. p. 999) held the view that all persons have adhikāra for fasting on ekādaśīs in both pakṣas. 
 
 [^244]: 
 
@@ -109,7 +109,7 @@ On pp. 43-45 above the exaggerated importance attached to vratas in general has 
 
 Similar verses occur in the Padmapurāna.[^245] The Anuśāsanaparva [^246] pronounces on Upavasa. an exaggerated eulogy. The Padma [^247] declares 
 
-> 'on hearing the word ekadasi, the messengers of Yama become afraid;  
+> 'on hearing the word ekādaśī, the messengers of Yama become afraid;  
 > having fasted on ekādaśī which is the best among all vratas,  
 > one should keep awake (in the night) for propitiating Viṣṇu and should sumptuously decorate the temple or mandapa of) Viṣṇu.  
 > The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.
@@ -159,9 +159,9 @@ General rules about those who have the adhikīra to undertake vratas have alread
 
 Kātyāyana has a similar verse. These two establish that every human being of whatever caste or āsrama can observe ekādaśī provided he fulfils the conditions as to age laid down in the verses. 
 
-Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa [^251] says 'roots, fruits, milk and water may be partaken of (on ekadasi) by great sages, but no sages have said that on ekādaśī cooked food may be taken'.+++(5)+++ The Vayupurana [^252] provided 
+Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa [^251] says 'roots, fruits, milk and water may be partaken of (on ekādaśī) by great sages, but no sages have said that on ekādaśī cooked food may be taken'.+++(5)+++ The Vayupurana [^252] provided 
 
-> 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i. e. in ekadasi) more commendable (than each preceding one)'. 
+> 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i. e. in ekādaśī) more commendable (than each preceding one)'. 
 
 [^251]: मूलं फलं पयस् तोयम् उपभोज्यं मुनीश्वरैः। न त्वत्र भोजनं कैश्चिद् एकादश्यां प्रदर्शितम् । नारदपुराण (उत्तरार्ध 24. 7-8).
 
@@ -279,12 +279,12 @@ As regards the first all persons including householders having a son have adhik�
 
 Similarly, those who desire to secure absorption into Viṣṇu, long life and sons may perform a kāmyavrata on ekādaśīs of both pakṣas. Vaisnava householders should always fast even on ekādaśīs of the dark half. 
 
-The ekādaśīvrata is obligatory on all including devotees of Siva, Viṣṇu and the Sun. Upavāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirṇayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsavrata and he simply abstains from taking food because the śāstra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed.+++(4)+++ 
+The ekādaśivrata is obligatory on all including devotees of Siva, Viṣṇu and the Sun. Upavāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirṇayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no sankalpa that the person is undertaking an upayāsavrata and he simply abstains from taking food because the śāstra says that on ekādaśī one should not eat cooked food, while in the latter there is sankalpa and there are also several other matters to be observed.+++(4)+++ 
 
 1 
 
 ### Ekādaśīvrata
-It would now be proper to give a comparatively early but brief description of ekādaśīvrata. The Nāradapurāṇa (Purvārdha chap. 23 verses 12 ff.) describes the procedure as follows:-  
+It would now be proper to give a comparatively early but brief description of ekādaśivrata. The Nāradapurāṇa (Purvārdha chap. 23 verses 12 ff.) describes the procedure as follows:-  
 
 - on the 10th tithi the man who has to observe the vrata should after getting up brush his teeth, take a bath, bathe a Viṣṇu image in pancāmr̥ta and offer worship (of several upacāras) to it. 
 - On the 11th, after bathing, he should bathe the image with pañcāmṛta and worship Viṣṇu with sandalwood paste, flowers and the like and repeat the mantra [^269] 'after remaining without food on the ekādaśī I shall, O lotus-eyed one, on the next day partake of cooked food; be you, O Acyuta, my refuge'. 
@@ -311,37 +311,81 @@ For the meaning of vr̥ṣalī, vide H. of Dh. vol. IV. p. 104 note 236 and p. 3
 
     अज्ञानतिमिरान्धस्य व्रतेनानेन केशव ।  
     प्रसीद सुमुखो भूत्वा ज्ञान-दृष्टि-प्रदो भव  
-    AITE (.23, 20) q. by var p 20, . (a) vol. I. p. 1007. It is possible that the original words were wheCat . The fil. A. p 269 quotes ad almost identical mantra from 1979 3451...2379 1 SI M u... ***, 
-
-H. D. 14 
+    AITE (.23, 20) q. by var p 20, . (a) vol. I. p. 1007. It is possible that the original words were wheCat . The fil. A. p 269 quotes ad almost identical mantra from 1979 3451...2379 1 SI M u... ***, H. D. 14 
 
 106 
 
 
+It will be noticed that the main matters in the vrata are upavāsa, worship of Viṣṇu image, jāgara [^271] at night with songs and music, pāraṇā on 12th and certain restrictions about looking at some persons or speaking to them and restraint of the senses. The Brahma-vaivarta (IV. 26.1-93) also contains the procedure of ekādaśivrata. It will be noticed [^272] that in the procedure of ekādaśī there is no homa, though in some other vratas there is a homa. 
+
+[^271]:
+
+    हे (on व्रत) I. pp. 984-85, 1007, ए. त. p. 58 lay great emphasis on जागर. One or two verses may be quoted here.  
+    'ब्रह्मपुराणे।  
+    एकादश्यां नरो यस्तु  
+    कुरुते जागरं नरः ।  
+    गीतैर्नृत्यैस् तथा वाद्यैः  
+    प्रेक्षणीयैः पृथग्विधैः ।  
+    स याति वैष्णवं लोकं  
+    यं गत्वा न निवर्तते ॥' हे. (व्रत) I. p. 984;  
+    संपूज्य विधिवद् रात्रौ  
+    कृत्वा चैव प्रजागरम् ।  
+    कथाद्या गीतिका विष्णोर्  
+    गायन् विष्णुपरायणः।  
+    याति विष्णोः परं स्थानं  
+    नरो नास्त्यत्र संशयः।  
+    q. by हे. (व्रत) p. 1007, ए. त. p. 58.  
+    The परशुरामप्रताप (folio 83 b) quotes a passage from the Skanda that states that there are 26 items in Jagara :  
+    गीतं वाद्यं च नृत्यं च  
+    पुराणपठनं तथा।  
+    धूपं दीपं च नैवेद्यं  
+    पुष्पगन्धानुलेपनेः।  
+    फलमयं च नेवेद्यं  
+    दानमिन्द्रिय-संयमः।  
+    सत्यान्वितं विनिद्रं च  
+    मुदायुक्तं क्रियान्वितम्।  
+    सास्वर्य वैचासत्साहं (सास्वर्यं चैव सोत्साहं ? )  
+    पापालस्यादि-वर्जितम् ।  
+    प्रदक्षिणासमायुक्तं  
+    नमस्कारपुरःसरम् ।  
+    नीराजनसमायुक्तम्  
+    अतिहृष्टेन चेतसा ।  
+    यामे यामे महाभागे  
+    कुर्याद् आरात्रिकं हरेत् ( हरेः) ।  
+    षड्विंशगुणसंयुक्तम्  
+    एकादश्यां तु जागरम् ।  
+    यः करोति नरो भक्त्या  
+    न पुनर्जायते भुवि ॥
+
+[^272]: अत एव एकादशीव्रतादिषु होमानाचरणं सन्ध्यामौनव्रतादौ च। व्रतप्रकाश (folio 10 b).
+
+
+Accretions gathered round this simple procedure. It was laid down early enough that one engaged in upayāsavrata should miss four meals in three days, i. e. he should eat only once on the 10th in the noon, fast [^273] both times on 11th and on the 12th he should miss one meal. 
+
+
+[^273]:  
+
+    सायम् आद्यन्तयोर् अहोः  
+    सायं प्रातश्च मध्यमे।  
+    उपवासफलं प्रेप्सुर्  
+    जह्याद् भक्त-चतुष्टयम् ।। का. नि. p. 264 (ascribes to अङ्गिरस्), ए.त. p. 29 (ascribes to महाभारत and reads प्रेप्सोर्वर्ज्य), का वि. p. 498 (has the first half and reads the 2nd as धम्योपवासे कुर्वीच नैव भक्तचतुष्टयम्). All these works say that the word 'sayam' is not to be taken literally but is only indicative and what is really intended is the giving up of four meals in three days. 
+
+### Time for sankalpa 
+The general rule is that the sankalpa for vratas is to be made in the morning, but as regards ekādaśī vrata exceptions have been made in the digests. For example, it is said that the sankalpa [^274] about niyamas is to be made on the night of the 10th tithi. 
+
+[^274]: तदनन्तरं दशम्यां रात्री नियमग्रहणं कुर्यात्। तदुक्तं ब्रह्मवैवर्ते। प्राते हरिदिने सम्यविधाय नियम निशि। दशम्यामुपवासस्य प्रकुर्याद्वैष्णवं व्रतम् ॥ इति । का. नि. p. 267.
+
+If ekādaśī is mixed up with 10th, then sankalpa about fast is to be made at night;[^275] if daśami extends beyond midnight and the ekādaśī becomes mixed with it, sankalpa is to be made the next day after noon. 
+
+
+Hemādri (on vrata vol. I. p. 1006) and Kālanirṇaya (p. 268) provide that the image of Viṣṇu should be worshipped in a maṇḍapa decorated charmingly with flowers of various kinds. It is provided in the Skanda [^276] that when a person breaks his fast on the 12th he should partake of the naivedya mixed with Tulasi (basil) leaves, since that destroys ( the sins of) crores of murders. 
+
+
+[^275]: विद्धकांदश्युपवासे रात्रौ सङ्कल्पः। तथा च नारदीये। विद्धोपवासे सकलं दिनं त्यक्त्वा समाहितः। रात्रौ सम्पूजयेद् विष्णुं सङ्कल्पं च तदाचरेत् ॥ इति। मध्यरात्रादुपरि दशमीयुक्ता चेदेकादशा तस्यां मध्याहस्योपरि सङ्कल्पः। तथा च स्मृतिः। दशम्याः सङ्गदोषण मध्यरात्रात्परेण तु । वर्जयेचतुरो यामान सङ्कल्पार्चनयोः सदा॥ इति। का. नि. p. 268; vide हे. (on काल) p. 197 for the verse दशम्या:; it reads the first verse as 'विद्धोप वास्यो (सो!)ऽनश्नस्तु ... तदा चरेत् ॥'.
 
 
 
-It will be noticed that the main matters in the vrata are upavāsa, worship of Viṣṇu image, jāgara 271 at night with songs and music, pāraṇā on 12th and certain restrictions about looking at some persons or speaking to them and restraint of the senses. The Brahma-vaivarta (IV. 26.1-93) also contains the procedure of ekadasi-vrata. It will be noticed 72 that in the procedure of ekadasi there is no homa, though in some other vratas there is a homa. 
-
-Accretions gathered round this simple procedure. It was laid down early enough that one engaged in upayāsavrata should miss four meals in three days, i. e. he should eat only once on the 10th in the noon, fast 273 both times on 11th and on the 12th he should miss one meal. The general rule is that the sankalpa for vratas is to be made in the morning, but as regards ekādaśī vrata exceptions have been made in the digests. For example, it is said that the sankalpa 274 about niyamas is to be made on the night of the 10th tithi. If ekādaśī is mixed up with 10th, then sankalpa about fast is to be made at night;275 if daśami 
-
-271, हे (on व्रत) I. pp. 984-85, 1007, ए. त. p. 58 lay great emphasis on जागर. One or two verses may be quoted here. 'ब्रह्मपुराणे। एकादश्यां नरो यस्तु कुरुते जागरं नरः । गीतैर्नृत्यैस्तथा वाद्यैः प्रेक्षणीयैः पृथग्विधैः । स याति वैष्णवं लोकं यं गत्वा न निवर्तते ॥' हे. (व्रत) I. p. 984; संपूज्य विधिवद्रात्रौ कृत्वा चैव प्रजागरम् । कथाद्या गीतिका विष्णोर्गायन विष्णुपरायणः। याति विष्णोः परं स्थानं नरो नास्त्यत्र संशयः। 4. by हे. (व्रत) p. 1007, ए. त. p. 58. The परशुरामप्रताप (folio 83 b) quotes a passage from the Skanda that states that there are 26 items in Jagara : गीतं वाद्यं च नृत्यं च पुराणपठनं तथा। धूपं दीपं च नैवेद्यं पुष्पगन्धानुलेपनेः। फलमय च नेवेद्यं दानमिन्द्रिय संयमः। सत्यान्वितं विनिद्रं च मुदायुक्त क्रियान्वितम्। सास्वर्य वैचासत्साहं (सास्वर्यं चैव सोत्साहं ! ) पापालस्यादिवर्जितम् । प्रदक्षिणासमायुक्तं नमस्कारपुरःसरम् । नीराजनसमायुक्त. मतिहष्टेन चेतसा । यामे यामे महाभागे कुर्यादारात्रिकं हरेत् ( हरेः) । षविशगुणसंयुक्तमेकादश्यां तु जागरम् । यः करोति नरो भक्त्या न पुनर्जायते भुवि ॥. 
-
-[^272]: अत एव एकादशीव्रतादिषु होमानाचरणं सन्ध्यामौनव्रतादौ च। व्रतप्रकाश (folio 10 b). 
-
-[^273]: सायमाद्यन्तयोरहोः सायं प्रातश्च मध्यमे। उपवासफलं प्रेप्सुर्जह्याद्भक्तचतुष्टयम् ।। का. नि. p. 264 (ascribes to अडिरस्), ए.त. p. 29 (ascribes to महाभारत and reads प्रेप्सोर्वज्य), का वि. p. 498 (bas the first half and reads the 2nd as धम्योपवासे कुर्वीच नैव भक्तचतुष्टयम्). All these works say that the word 'sayam' is not to be taken literally but is only iodicative and wbat is really intended is the giving up of four meals in three days. 
-
-[^274]: तदनन्तरं दशम्यां रात्री नियमग्रहणं कुर्यात्। तदुक्तं ब्रह्मवैवर्ते। प्राते हरिदिने सम्यविधाय नियम निशि। दशम्यामुपवासस्य प्रकुर्याद्वैष्णवं व्रतम् ॥ इति । का. नि. p. 267. 
-
-275, विद्धकांदश्युपवासे रात्रौ सङ्कल्पः। तथा च नारदीये। विद्धोपवासे सकलं दिनं त्यक्त्वा समाहितः। रात्रौ सम्पूजयेद् विष्णुं सङ्कल्पं च तदाचरेत् ॥ इति। मध्यरात्रादुपरि दशमीयुक्ता चेदेकादशा तस्यां मध्याहस्योपरि सङ्कल्पः। तथा च स्मृतिः। दशम्याः सङ्गदोषण मध्यरात्रात्परेण तु । वर्जयेचतुरो यामान सङ्कल्पार्चनयोः सदा॥ इति। का. नि. p. 268; vide हे. (on काल) p. 197 for the verse दशम्या:; it reads the first verse as 'विद्धोप वास्यो (सो!)ऽनश्नस्तु ... तदा चरेत् ॥'. 
-
-Time for sankalpa 
-
-107 
-
-extends beyond midnight and the ekādaśī becomes mixed with it, sankalpa is to be made the next day after noon. Hemādri (on vrata vol. I. p. 1006) and Kālanirpaya (p. 268) provide that the image of Viṣṇu should be worshipped in a mandara decorated charmingly with flowers of various kinds. It is provided in the Skanda 276 that when a person breaks his fast on the 12th he should partake of the naivedya mixed with Tulasi (basil) leaves, since that destroys ( the sins of) crores of murders. 
-
-Numerous medieval digests set out the procedure of ekidasi vrata. It is impossible for reasons of space to refer to them. For the sake of comparison with the Naradapurina procedure, I shall set out the procedure of Ekidaśīvrata from the Dharmasindhu (p. 19), almost the latest authoritative work on Dharmaśāstra. 
+Numerous medieval digests set out the procedure of ekidasi vrata. It is impossible for reasons of space to refer to them. For the sake of comparison with the Naradapurāṇa procedure, I shall set out the procedure of Ekidaśīvrata from the Dharmasindhu (p. 19), almost the latest authoritative work on Dharmaśāstra. 
 
 Now (is set out) the procedure ,of (ekidaśi) vrata. On the day previous to the fast, the person, after performing all his daily duties in the morning, should make a sankalpa in the form 'beginning from the 10th tithi, O god Keśaya, lord of gods, I shall perform for three days your vrata; make it free from obstacles'. Then at midday (of 10th) he should eat by the ekabhakta method. The restrictions to be observed about ekabhakta are: he should avoid taking food in a vessel of bell metal, avoid flesh, masūra pulse, sleeping by day, over-eating, drinking too much water, eating food again (after the midday meal), sexual intercourse, telling falsehood, honey, gram, kodrava, vegetables, the food belonging to others, gambling, oil, sesame cakes, tumbula (betol leaves and nut &c.); if he has to cleanse his teeth after ekabhakta he should do so with twigs. At night he should sleep on a bed spread on the ground. In the morning of ekādaśī he should cleanse his teeth with the leaves of a tree and not with twigs. After performing bath and other daily duties, he should put on his finger a p.vitra (loop) made of darbha grass, turn his face to the north, take a copper vessel full of water and make a sankalpa as follows: 'after remaining with out food on the ekādaśī I shall, O lotus-eyed one, on the next day partake of cooked food; O Acyuta, be you my refuge'. Or he may offer a handful of flowers to Hari with this mantra. In the case of him who is unable to observe a total fast, necessary changes may be made in the sentence of sankalpa according to 
 
@@ -471,7 +515,7 @@ lay down that ekādaśī is sampūrṇā only when it exists also two muhūrtas 
 
 The Nārada and other purāṇas condemn fast on ekādaśī mixed with daśami. Nāradapurāṇa (pūrvārdha, chap. 29. 39-40) says the sixth tithi mixed with the 5th, the seventh mixed with the 9th and ekādaśī mixed with daśami-a fast should never be observed on these; all should accept (for fast) ekādaśī free from daśami; daśami joined to ekādaśī destroys spiritual merit acquired in three past lives'. This aversion to daśami was probably due to the fact that daśami finds no place in the famous yugmarākya and the pair that is commended is that of ekādaśī and dvādaśī (and not of ekādaśī and daśami). One well-known verse is: Gāndhāri observed a fast on ekādaśī mixed with daśami; her one hundred sons (the Kauravas) perished (in the Bhārata war); therefore one should give up that kind of ekādaśī for a fast.291 The Nāradapurāna (pārvārdha, chap. 29) devotes 15 verses to the discussion of Ekādaśī and Dvadasi. 
 
-In the Brahmavaivartapurāṇa quoted at great length by Hemādri on Kāla (pp. 255-259) four kinds of vedhas of ekādaśī by daśami (viz. arunodaya-vedha, ativedha, mahāvedha and Yoga) are mentioned, but they are passed over here. In the case of Vaisnavas, if daśami extends on a civil day beyond 56 ghaṭikās from sunrise, then ekadasi follows and continues for the whole of the next civil day, there is then what is called Arupodayavedha and Vaisnavas cannot observe a fast on such an ekādaśī which is preceded by Arunodayavedha. The same result follows if daśami extends up to 3, 2 or one ghaṭikā before sunrise or daśami persists till the exact time when the sun rises and then ekādaśī starts (when there is what is called sūryodaya vedha). A Vaisnava in deciding on what tithi to fast is affected by both arunodayavedha and sūryodayavedha i. e. even if ekādaśī exists for full 60 ghaṭis after sunrise on a civil day when daśami precedes it by four ghaṭis, or by three, two or one ghaṭi or when daśami exists for one moment at sunrise and then ekādaśī follows at once, still the Vaisṅava cannot observe a fast on the ekādaśī of 60 ghaṭis but only on the next i. e. the 12th. If dvādaśī touches three civil days, then the fast for Vaisnavas 
+In the Brahmavaivartapurāṇa quoted at great length by Hemādri on Kāla (pp. 255-259) four kinds of vedhas of ekādaśī by daśami (viz. arunodaya-vedha, ativedha, mahāvedha and Yoga) are mentioned, but they are passed over here. In the case of Vaisnavas, if daśami extends on a civil day beyond 56 ghaṭikās from sunrise, then ekādaśī follows and continues for the whole of the next civil day, there is then what is called Arupodayavedha and Vaisnavas cannot observe a fast on such an ekādaśī which is preceded by Arunodayavedha. The same result follows if daśami extends up to 3, 2 or one ghaṭikā before sunrise or daśami persists till the exact time when the sun rises and then ekādaśī starts (when there is what is called sūryodaya vedha). A Vaisnava in deciding on what tithi to fast is affected by both arunodayavedha and sūryodayavedha i. e. even if ekādaśī exists for full 60 ghaṭis after sunrise on a civil day when daśami precedes it by four ghaṭis, or by three, two or one ghaṭi or when daśami exists for one moment at sunrise and then ekādaśī follows at once, still the Vaisṅava cannot observe a fast on the ekādaśī of 60 ghaṭis but only on the next i. e. the 12th. If dvādaśī touches three civil days, then the fast for Vaisnavas 
 
 [^291]: aasitage Truf Agutinai FT: gara pre urt 
 
@@ -481,7 +525,7 @@ all T6 I. 125. 2, q. by 5. . 635 (who regards this as merely a fetgang), TEATIVE
 
 is on the day which is wholly covered by dvādaśī and the pāraṇā is on the next day when dyādaśī ends. In any cases other than those specified above ekādaśī is the fast day and dvādaśī is the pāraṇā day. Nāradapurāṇa (pārvārdha, chap. 29 verse 45) pre scribes that if there are two ekādaśīs, whether in the bright half or dark half, a householder should fast on the earlier of the two and ascetics (yatis) on the later. Sannyāsins and widows are governed by the rules for Vaisnavas. Smārtas (all those who are not Vaisnavas) are not affected by the doctrine of aruṇodayavedha but only by sūryodayavedha i. e. if there is daśami before sunrise and an ekādaśī follows from sunrise, smārtas have to observe a fast on the ekādaśī. There are many texts that are apparently in conflict, but the Kālanirnaya (pp. 251-256) and Nirṇayasindhu (pp. 37-44) introduce order by showing that some texts refer to Vaiṣṇayas alone, some to Smārtas alone and some to both. The Ekādaśītattva (p. 55) brings together many of the conclu sions about the fast tithi and the pāraṇātithi. 
 
-There are cases where the texts sometimes allow fast on ekādaśī even though mixed with daśami. This occurs when dvadasi does not exist even for a short time on the 13th tithi. But this is allowable only to Smārtas and not to Vaisnavas. Certain restrictions as to food and physical and mental activities had to be observed from the time sankalpa was made to the final ceremonies (pāraṇā) in ekādaśīvrata.292 It may be noted that even when a person is in mourning he has to observe ekadasi vrata.293 Certain observances were laid down as common to all vratas (including ekādaśī) viz. forbearance, truthfulness, compassion, charity, purity, restraint of senses, worship of god, homa, contentment and not misappropriating another's wealth.294 There were separate rules to be observed on daśami, ekādaśī and dvādaśī (10th tithi to 12th). They are somewhat overlapping. The observances prescribed for daśami are: vegetables, flesh; masūra pulse, eating again (after ekabhakta), sexual intercourse, 
+There are cases where the texts sometimes allow fast on ekādaśī even though mixed with daśami. This occurs when dvadasi does not exist even for a short time on the 13th tithi. But this is allowable only to Smārtas and not to Vaisnavas. Certain restrictions as to food and physical and mental activities had to be observed from the time sankalpa was made to the final ceremonies (pāraṇā) in ekādaśivrata.292 It may be noted that even when a person is in mourning he has to observe ekādaśī vrata.293 Certain observances were laid down as common to all vratas (including ekādaśī) viz. forbearance, truthfulness, compassion, charity, purity, restraint of senses, worship of god, homa, contentment and not misappropriating another's wealth.294 There were separate rules to be observed on daśami, ekādaśī and dvādaśī (10th tithi to 12th). They are somewhat overlapping. The observances prescribed for daśami are: vegetables, flesh; masūra pulse, eating again (after ekabhakta), sexual intercourse, 
 
 [^292]: i asTARTE TOOTER Fit Faqayti i nadal . (On T I. p. 1008). 
 
@@ -565,7 +609,7 @@ Fall werden q. by B. on p. 261.
 
 
 
-mandapa of flowers, worships the Viṣṇu image therein and offers the several upacāras. He fasts that day. He recites hymns of praise to Viṣṇu and falls prostrate on the ground in saluta tion. He then keeps awake at night. On the 12th he takes a bath in the morning, offers worship to Hari and dedicates his fast to the God, recites the mantra (Ajñānatimirāndhasya' &c. cited above p. 105) and performs the pārana. This is the general outline of kūmya ekādaśīvrata. In the case of the obligatory fast, the performer should abstain from food the whole day and also keep the several restrictions to be observed on ekādaśī (as described above such as not drinking water more than once, not sleeping by day &c). The rules for the followers of Caitanya about ekādaśī as summarised from the Haribhakti vilasa by Prof. S. K. De in 'Vaisnava faith and Movement' on pp. 371-375 do not differ much from those stated above. 
+mandapa of flowers, worships the Viṣṇu image therein and offers the several upacāras. He fasts that day. He recites hymns of praise to Viṣṇu and falls prostrate on the ground in saluta tion. He then keeps awake at night. On the 12th he takes a bath in the morning, offers worship to Hari and dedicates his fast to the God, recites the mantra (Ajñānatimirāndhasya' &c. cited above p. 105) and performs the pārana. This is the general outline of kūmya ekādaśivrata. In the case of the obligatory fast, the performer should abstain from food the whole day and also keep the several restrictions to be observed on ekādaśī (as described above such as not drinking water more than once, not sleeping by day &c). The rules for the followers of Caitanya about ekādaśī as summarised from the Haribhakti vilasa by Prof. S. K. De in 'Vaisnava faith and Movement' on pp. 371-375 do not differ much from those stated above. 
 
 A vrata comes to an end by a rite called udyāpana (carrying out) or pārapa or pāraṇā. The word pārana or pāraṇā is derived by some from the root ‘pāra' meaning 310 'to finish an action or rito'. The word occurs in the drama Sakuntala referred to above on p. 46 and in Raghuvamsa II. 70 ‘prātar-yathoktavrata-pārapānto". Vide for paranā also Raghuvamsa II. 39 and 55. According to the Kūrma-purāna, one should fast on the ekādaśī and pāraṇā is to be on the 12th but pāraṇā should not be done on 13th tithi, since that would destroy (the merit) of twelve dvādasis. 311 [n spite of this, pāraṇā on the 13th312 tithi had to be allowed under certain circumstances e. g. if ekādaśī is mixed with daśami on a prior day and with dvādaśī on the next day, then the fast is to be on dvādaśī but if no dvādaśi at all exists on the day after fast, then pāranā may be on the 13th tithi. The Viṣṇudharmottara313 
 

@@ -2225,7 +2225,7 @@ Bharatavarsı (which has scas on pbalaka-mārdeyah) appears to koow
 
 south, west, and east) like the string The Mbh (vol. it as Bāstioapura 
 
-of a bow (Mār 54.59) I p 380 op Paa. II. 1. 16) offers the illustration &pu-Gangam Hāstina. Himayat-aranya-Devipurina q by T. 
+of a bow (Mār 54.59) I p 380 op Paa. II. 1. 16) offers the illustration &pu-Gangam Hāstina. Himayat-aranya-Devipurāṇa q by T. 
 
 K, 244 puram'. 
 
@@ -6251,7 +6251,7 @@ falling ito the Arabian sca at Surat, ing into the Ganges) Rām I 2. 3, also cal
 
 and sub-tirthas) 
 
-Tāpikā-same as Tāpi Deiipurina 4. VI, 18.12 
+Tāpikā-same as Tāpi Deiipurāṇa 4. VI, 18.12 
 
 by T, K p. 242 Tāwraparnir 10 Pandya country Tāpi-samudra-saðgama-TP p 547 
 

@@ -35,7 +35,7 @@ The Mitāksarā schools
 
 545 
 
-Mithilā school (which relies on the Vivādaratnakara, the Vivāda candra and the Vivādacintāmaṇi), the Mahārāṣtra or Bombay school (where the Vyavahāramayukha is of the highest authority in Gujerat, Bombay Island and Northern Konkan aven superseding the Mitākṣarā in some matters and the Vira mitrodaya and the Nirnayasindhu are also relied upon ), the Dravida or Madras school (where the Smrticandrikā, the Vyava. hāranirpaya of Varadarāja, the Parāśara-madhaviya and the Sarasvativilāsa are also works of authority ). In spite of some differences in the rules accepted in different provinces in all of which the Mitākṣarā is of high authority, all the provinces except Bengal are held to be governed by one school. Vide 
+Mithilā school (which relies on the Vivādaratnakara, the Vivāda candra and the Vivādacintāmaṇi), the Mahārāṣtra or Bombay school (where the Vyavahāramayukha is of the highest authority in Gujerat, Bombay Island and Northern Konkan aven superseding the Mitākṣarā in some matters and the Vira mitrodaya and the Nirnayasindhu are also relied upon ), the Dravida or Madras school (where the Smrticandrikā, the Vyava. hāranirṇaya of Varadarāja, the Parāśara-madhaviya and the Sarasvativilāsa are also works of authority ). In spite of some differences in the rules accepted in different provinces in all of which the Mitākṣarā is of high authority, all the provinces except Bengal are held to be governed by one school. Vide 
 
 Ambabai v. Keshav I. L, R, (1941 ) Bom, 250. 
 

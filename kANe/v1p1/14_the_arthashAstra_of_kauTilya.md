@@ -1680,7 +1680,7 @@ gaita yaid 'raite znalaotlety Faircito tra i T ATRE hivi HLA: 75919 fa il gelato
 
 and giving oneself out as a devotee of Saṅkarsana, overreach ing robbers by adininistering a stupefying liquid and attack ing them. Saṅkarṣuna or Balarāma ( elder brother of Krona ) is described in the Mahābhārata (Udyogaparva 157. 19-20) as Madaraktāntalocana' (whose eyes were red with intoxi cation ). 
 
-K. (in IV. 8.12 ) states that Animāndavya declared him self to be a thief, though not a thief, through fear of the pain of torture. In the epic it is said that he remained silent when questioned ( Adiparva 107.9). He is also referred to in Adi 63. 92-93 (Sūle protaḥ purinarsiracoras-cauraçankaya ) and 
+K. (in IV. 8.12 ) states that Animāndavya declared him self to be a thief, though not a thief, through fear of the pain of torture. In the epic it is said that he remained silent when questioned ( Adiparva 107.9). He is also referred to in Adi 63. 92-93 (Sūle protaḥ purāṇarsiracoras-cauraçankaya ) and 
 
 108. 6-8. 
 

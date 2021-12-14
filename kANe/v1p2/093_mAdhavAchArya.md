@@ -39,7 +39,7 @@ Mādhayācāryah'. The Parāśarabhāsya is mentioned by Raghu nandana in ( vol.
 
 The Kālanirṇaya of Madhavācārya has been published several times. In the following the B. I. edition has been used. He states that he wrote this work after he composed his commen tary on the Parāsarasmsti. 1170 The work is divided into five prakaranas. The first (Upodghāta ) deals with a scholastic dis quisition on kāla (time) and its real nature; the 2nd (called vatsara ) speaks of the year, its various lengths according as it is candra, sāvana or saura, of the two ayanas, of the seasons and their number, of the months (candra, saura, sāvana and nāksatra) of the intercalary months, and the religious acts allowed and for bidden in intercalary months, of the two pakṣas (fortnights ); the third prakarana (pratipat-prakarana ) deals with the meaning of the word tithi, duration of a tithi, the fifteen tithis of a pakṣa, two kinds of tithis, viz. suddhā (i. e. not intermixed with another tithi on the same day) and viddha (intermixed with another tithi on the same day), rules about the preference of the first tithi for parti cular religious rites and observances (for Gods and Manes ) when intermixed with the preceding and following tithis, the fifteen muhurtas of the day and of the night; the fourth ( dvitiyādi tithi--prakaraṇa ) extends the application of the rules about pratipad to the tithis from the second to the fifteenth and decides on what tithi ( whether inermixed with the preceding or the following ) certain vratas, such as Gaurivrata on the third, Janmāstami on the 8th, were to be performed; the fifth (prakimaka i. e. miscellaneous ) deals with rules about the deter mination of nakṣatras for various acts, the yogas and karanas and rules about samkrānti and eclipses and the actions proper for them. 
 
-The Kālanirpaya besides the names of numesous sages, purānas, astronomical and astrological writers mentions the following works and authors :-Kālādarśa (p. 83), Bhoja (as having composed in Aryā metre a work on the Saiva agama), Muhūtra-vidhana-sāra (p. 341 ). Vateśvarasiddhanta, Vāsiṣtha 
+The Kālanirṇaya besides the names of numesous sages, purānas, astronomical and astrological writers mentions the following works and authors :-Kālādarśa (p. 83), Bhoja (as having composed in Aryā metre a work on the Saiva agama), Muhūtra-vidhana-sāra (p. 341 ). Vateśvarasiddhanta, Vāsiṣtha 
 
 1170 व्याख्याय माधवाचार्यो धर्मान्पाराशरानथ । तदनुष्ठानकालस्य निर्णय वक्तुमुद्यतः॥ 
 
@@ -277,4 +277,4 @@ There is a ms, in the Bombay University Library of a work called Kālanirnayakā
 
 
 
-by Lakṣmidevi, wife of Vaidyanātha Payagunda. There is a Vivarana of the Kālanirpayadipikā, by Nṛsimha, son of Rama candrācārya ( vide D. C. Ms. No. 99 of 1871-72). 
+by Lakṣmidevi, wife of Vaidyanātha Payagunda. There is a Vivarana of the Kālanirṇayadipikā, by Nṛsimha, son of Rama candrācārya ( vide D. C. Ms. No. 99 of 1871-72). 

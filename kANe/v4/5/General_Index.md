@@ -423,7 +423,7 @@ Bhavisyaparāna, 15, 19, 21,39,40,50, Baudhāyada-grhya-sūtra, 111,474,525 53, 
 
 532A, 536, 541, 586, 587 190, 1918, 1999, 2008, 204, 2050, 
 
-Bhavisyottara-purina, 5400 207n, 208n, 2098, 223, 229, 238, 
+Bhavisyottara-purāṇa, 5400 207n, 208n, 2098, 223, 229, 238, 
 
 Bhisma, story of, who wailed for Utta 240, 244, 246, 251, 253, 2540, 
 
@@ -2811,9 +2811,9 @@ Generat Inder
 
 attendants at temple of Jagannaiba divided into 36 orders and 97 classes 699; Brahma and Nāradiya purānas deal exhaustively with P 693, Caitanya settled at Puri 10 1515 aod died there in 1533 A D, 702, con flict of views about the builder of the great temple at, 698, description of the car festival of Jagannatha which is the most important of the 24 high festivals at Puri 697-698, five impurtant tirthas at 699, Gundi ca-yātrā for seven days 700-701, indications sbowing that P was & placc of Buddhist sanctuary 695-696, legend of Ipdradyamaa who establish cd wooden images of Krsna, Bala rama and Subhadra 694-695, Mitra surmises three penods in history of P viz, early Hiodu period, Baddbist period and Vaisnava period 695, oot described by Kalpataru on tirthas 693 , no truth in the stories about suicide by falling before the car of Jagaonātha 698, one of the four most importadt tirthas 10 Orissa, tlic other three being Bbuvancśvara, Konarka and Jājpur (Yayātipara) 693, peculiar features of P. are that no distinction of caste is observed, holy cooked rice, car festival 697, pool called after Indradyumda 694-695, 700, pool of Mārkandeya, story of 699, P was probably called Nilacala in ancient times, Krsna worship was introduced from aorthern India and threc images of wood were est ablishıcd carly 695, religious suicide at, recommended to dvijas by Brabmapurāna 608, regrettable fca ture of Jagannatha temple is the existence of obscene sculptures on the walls 702, Rgreda X 155 3 15 supposed by Sāyana to refer to P, 693 , sacred coclosure of Jagapnātba with 120 temples and the pagoda of Jagadgātha in foar chambers des cnbcd 696-697, sacred vata at P 699-700; story of Jagannātha in the 
 
-Brahmapurina 694-695, three images described by Hunter and Nitra which are supposed to correspoud to Buddha, Dharma and Sangha 695n, 696, veśyās (dancing girls) at temple of, referred to in Bralima. 
+Brahmapurāṇa 694-695, three images described by Hunter and Nitra which are supposed to correspoud to Buddha, Dharma and Sangha 695n, 696, veśyās (dancing girls) at temple of, referred to in Bralima. 
 
-purina 702-703 , sorks on 692-693 Purnsottama'rsetratattva of Raghu 
+purāṇa 702-703 , sorks on 692-693 Purnsottama'rsetratattva of Raghu 
 
 Dandana 583, 693, Pūrvamināmsā, see under 'Alimāmsā? Pūsan, protects cattle and hands over 
 
@@ -4003,7 +4003,7 @@ gita 2360; 99, 15, 16, 19, 25, 270, 30-32, 35, 40-42, 46a, 47, 48, 51, 53, 55, 6
 
 Dear Delbi at Mebarauli 6468, occors 10 the Nirulta aod Viṣṇudbarna sūtra 645, 653, south of rner Vipasa 
 
-6470 Visnapurina, 41, 50, 51, 848, 122 
+6470 Visnapurāṇa, 41, 50, 51, 848, 122 
 
 153, 162, 163, 168, 170, 216, 234' 238, 239, 241, 256, 261, 296, 302. 349, 350, 353, 368, 372, 374, 380, 387, 392, 395, 396, 403, 404, 405n, 409, 4130, 414, 415, 419, 423, 425, 4400, 445, 448, 4600, 473, 482, 516, 520, 521, 528, 534, 576, 587, 595. 622, 623, 6410, 659, 6820, 688, 689, 
 

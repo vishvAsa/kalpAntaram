@@ -445,7 +445,7 @@ The Narmadā is frequently mentioned in the Mahābhārata and some of the Purā�
 
 1593. T he audi a una ait 3726911 TATUAT XII. 9.3 1. 1594. a O TÁCT STREET FIGYTI STATT. 
 
-1594 a It may be noted that the earliest extant digest, viz Kalpataru od tirthas (pp. 198–205) quotes verses only from the Matsyapurina, chapter 186-189 (19 all aboot 70 verses on Narmada) and from no other source. 
+1594 a It may be noted that the earliest extant digest, viz Kalpataru od tirthas (pp. 198–205) quotes verses only from the Matsyapurāṇa, chapter 186-189 (19 all aboot 70 verses on Narmada) and from no other source. 
 
 704 
 

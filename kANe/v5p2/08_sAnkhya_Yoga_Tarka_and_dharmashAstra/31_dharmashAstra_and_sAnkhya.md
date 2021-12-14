@@ -335,7 +335,7 @@ In the dialogue between Viśvārasu Gandharva and Yājāa valkya (in Santiparva,
 
 2251. यथाह स्म भगवाम् पञ्चशिखाचार्यः-स्वल्पसङ्कस सपरिहारः प्रत्यवमर्षः-इति। on अविशुद्धि in सा. कारिका 2: तथा चोक्तम् । आविविद्वानिर्माणचित्तमधिष्ठाय कारण्या भगवान् परमपिराहरये जिज्ञासमानाय तन्त्रं प्रोवाचेति। योगसूचभाग्य I. 253B तथा चोक पञ्चशिखाचार्यण। आविविद्वान् कपिल इति। पाचस्पति टीका. 
 
-2252. पश्च विपर्ययभेदा भवन्त्यशक्तिश्च करणवैकल्यात्। सा.कारिका 47: 'अविद्या. अस्मिता-राग-द्वेष-अभिनिवेशा: ... पश्च विपर्ययविशेषाः। ... पञ्चपर्वा अविस्याह भगवान पार्षगण्य: सा. तत्वकौमुदीof वाचस्पति शुद्धचरित (of अश्वघोष) XII. 3318: इत्यविधा हि विद्वांसः पञ्चपर्वा समीहते। तमो मोहं महामोहं तामियमेव च . The श्वेताश्व उप. I.3 has the words 'पञ्चाशद्भेदो पञ्चपर्वामधीमः'. In the Kurmapurina (II. 11:189) Kapila is said to have given instruction to both Jaigigavya and Pancadikba. It is difficult to say whether that Porāṇa bad before it ady ancient tradition to thiṣ offect. 
+2252. पश्च विपर्ययभेदा भवन्त्यशक्तिश्च करणवैकल्यात्। सा.कारिका 47: 'अविद्या. अस्मिता-राग-द्वेष-अभिनिवेशा: ... पश्च विपर्ययविशेषाः। ... पञ्चपर्वा अविस्याह भगवान पार्षगण्य: सा. तत्वकौमुदीof वाचस्पति शुद्धचरित (of अश्वघोष) XII. 3318: इत्यविधा हि विद्वांसः पञ्चपर्वा समीहते। तमो मोहं महामोहं तामियमेव च . The श्वेताश्व उप. I.3 has the words 'पञ्चाशद्भेदो पञ्चपर्वामधीमः'. In the Kurmapurāṇa (II. 11:189) Kapila is said to have given instruction to both Jaigigavya and Pancadikba. It is difficult to say whether that Porāṇa bad before it ady ancient tradition to thiṣ offect. 
 
 Panicaśikha and Varsganya : 
 
