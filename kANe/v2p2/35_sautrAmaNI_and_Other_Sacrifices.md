@@ -241,7 +241,7 @@ Badabas
 
 Four months, each consisting of one Prsthya in the beginning and four Abhiplava ṣadahas Three Abhiplaya ṣadabas One Gostoma ( Agniṣtoma ) One Ayuṣtoma (Ukthya ) 
 
-30 days. One Dasarātra ( ten days) Mahāyrata day ( Agnistoma) Udayanlya ( Atirātra ). 
+30 days. One Dasarātra ( ten days) Mahāvrata day ( Agnistoma) Udayanlya ( Atirātra ). 
 
 All these in C come to six months. 
 

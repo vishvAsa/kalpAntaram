@@ -69,7 +69,7 @@ impart fitness and it further says 449 "fitness is of two kinds; it arises by th
 
 The principal matters that fall to be discussed under ganskaras are: the purpose of sarskāras, the classification of Bamskāras, the number of samskāras, the procedure of each of the saṁskāras and the persons authorized to perform them and the persons for whom they are to be performed. 
 
-First as to the purpose of saṇskāras. Mann ( II. 27-28 ) says 'In the case of dvijātis, the taints (or sins ) due to seed and the uterus (1. e. derived from parents ) are wiped off by the homas ( burnt oblations) performed during pregnancy and by jātakarma ( ceremonies on birth), caula ( tonsure ) and the tying of the girdle of muñja grass. This (human) body is rendered fit for the attainment of brahma by the study of the Veda, by ( observance of) yratas, homas ( oblations in fire ), by the vrata called traividya, by worship (of gods, sages and manos), by generation of sons, by the performance of the five daily 
+First as to the purpose of saṇskāras. Mann ( II. 27-28 ) says 'In the case of dvijātis, the taints (or sins ) due to seed and the uterus (1. e. derived from parents ) are wiped off by the homas ( burnt oblations) performed during pregnancy and by jātakarma ( ceremonies on birth), caula ( tonsure ) and the tying of the girdle of muñja grass. This (human) body is rendered fit for the attainment of brahma by the study of the Veda, by ( observance of) vratas, homas ( oblations in fire ), by the vrata called traividya, by worship (of gods, sages and manos), by generation of sons, by the performance of the five daily 
 
 ___449. योग्यता च सर्वत्र विषकारा दोषापनपनेन गुणान्तरोपजममेन भवति। तन्त्र 
 

@@ -1728,7 +1728,7 @@ bright half of Jeystha 90-91; instruots Alarka in Yoga, 903; 80-called because i
 
 tmavidyā) to Alarka and Prah Dasanirpaya of Hārita Venkata- lāda 903n; story of his con 
 
-nātha 69, 138; contains con. ferring boons on Kartvirya olasiodis on ten yratas of which ocours in several Purāṇas 903a. 
+nātha 69, 138; contains con. ferring boons on Kartvirya olasiodis on ten vratas of which ocours in several Purāṇas 903a. 
 
 Jayantinirnaya is one 138. Dattatreya Tantra 1051. Dagar).- ( vide under Aparājitā Davids - ( vide ander Rhys 
 
@@ -2050,7 +2050,7 @@ Indaco
 
 and Kāmarupa, 164; contem. plation on form of Devi 16%; description of Dargotsava from Ist day to 10th, 159-177; description of the form of Devi, long and finely worded, in Matsya and Kālikā-purāpas, 162-63; Devi (Durgā ) got different weapons from several gods, 166; Devi may be wor shipped in her shrine, on mountain Vindhyan in all places, towns and villages, forests, in a linga, in a book, in water eto., 157, 178; Dargā is said to go to sleep on 8th of Aṣādha-Sukla and hence some works provide for rousing her (bodhana) on different dates, 
 
-158. Durgāstamiyrata in Kalpataru 
+158. Durgāstamivrata in Kalpataru 
 
 and Hemādri 185; elaborate ritual about offering the blood and head of a bali, prescribed in Durgārdanapaddhati, rites and mantras differing aocording to the babi offered, 166ff; esta blishment of the image of Durgi on a seat, the bundle of nine plants to its right and placing the bilva twig near the image and performance of prānapratiṣtha 162; even zow many high caste people of Bengal including brāhmaṇas offer goats and rarely baffaloes to Durgā, though some brāh. mana families offer only fruits and vegetables in lieu of ani. mals, 168 ;. family members, and guests sit together after each day's pāja in Navaratra and persons present partake of 
 
@@ -2152,7 +2152,7 @@ Ekādasin, 813; means reciting
 
 the Rodra mantras (Tai. 8. IV. 8.1, I1 ) eleven times; śānti ratna of Kamalakara identifies it with Laghurudra, 813n; Ekādafint and Laghurudra are very much in vogue even now 
 
-814. Ekādasjyrata (vide ander Cātur. 
+814. Ekādasjvrata (vide ander Cātur. 
 
 masya, dvādasi, fast, jāgara, pārapĀ, Vaiṣpava, vratas ) 95 121; a person above 8 years of age and less than 80 years of whatever caste and aśrama has adhikāra for fasting on E. 97, 99; brief mention of items that constitute E. 119-20; diffe rence (main) between mere fast on E. and Ekadasivrata is that in the former there is no Saṅkalpa 104; early descrip tion of E. procedure from Nāradiya 104-5; even Saivas and devotees of the Sun may observe E. 1045; exceptional cases where texts allow fast on Ekadasi mixed with daśamı but only to Smārtas 115; ex planation of Ekabbakta, dakta, ayacita 100; extends from the 10th tithi to pāraṇā 115; ex tremely exaggerated praise of the efficacy of fasting is indulged in by many purāṇas, 98-99; fast on E. is of two kinds viz. adhering to the prohibition about taking food, the other is in the nature of a vrata and persons who should enter on one of these 103-104; great rewards promised on obser vance of E. 93; is both nitya and kāmya 96, 104; is obli- 
 
@@ -2458,7 +2458,7 @@ verse ( vide under Creation); be performed in an image, in Prakaraṇapafcikā d
 
 at the beginning of it 1207. I 551. God, Gods (vide under Images', Goetz H., a. of Five thousand 
 
-Isvara'), : Adityas, Agpi, Years of Indian Art' (Bom.), Indra Mitra, Varuna, are 1656. called kings ( rājan ) and uni- Gokarna, 90n. versal sovereign in the Veda Golden age in dim past, belief in, 8; all g. and goddesses supp- 686. osed to go to sleep on diffe- Gomatāvidya, 204n. rent tithis, 110–11; asked by Gomukhaprasavaśānti, 77ln-728. worshippers to partake of Gopatha-brābmaṇa, 816n. apūpa, honey, milk, parodāśa Gupinatha Kaviraja, M.M, 1062n etc, in the Veda 35; poor men (on cakras ), 1063 ( in J. G. J. reach G. by yratas, 44-45; B. I.), 1187 (paper on Govt. Pūrvaminātbsāsūtra, Sabara, Mss. in Gort. Sanskrit Library Kumārila discard the idea that at Benaras ), 1358. Veda is the word of God or Gopinath Rao, T. A. th of Ele that rewards of religious acts | ments of Hindu Iconography' are due to the favour of God, 1655. 1209; Vedic G. have the Gorakhnath, pupil of Matsyendra 
+Isvara'), : Adityas, Agpi, Years of Indian Art' (Bom.), Indra Mitra, Varuna, are 1656. called kings ( rājan ) and uni- Gokarna, 90n. versal sovereign in the Veda Golden age in dim past, belief in, 8; all g. and goddesses supp- 686. osed to go to sleep on diffe- Gomatāvidya, 204n. rent tithis, 110–11; asked by Gomukhaprasavaśānti, 77ln-728. worshippers to partake of Gopatha-brābmaṇa, 816n. apūpa, honey, milk, parodāśa Gupinatha Kaviraja, M.M, 1062n etc, in the Veda 35; poor men (on cakras ), 1063 ( in J. G. J. reach G. by vratas, 44-45; B. I.), 1187 (paper on Govt. Pūrvaminātbsāsūtra, Sabara, Mss. in Gort. Sanskrit Library Kumārila discard the idea that at Benaras ), 1358. Veda is the word of God or Gopinath Rao, T. A. th of Ele that rewards of religious acts | ments of Hindu Iconography' are due to the favour of God, 1655. 1209; Vedic G. have the Gorakhnath, pupil of Matsyendra 
 
 epithet Vṛṣa'(bull, powerful). Dātha, 1429n; works on, 1429n. 
 
@@ -4240,7 +4240,7 @@ M drawn in Rgveda-brahma- Māpdőkyopadiṣad 465, 14130. karma-samuccaya ( Nirn
 
 Mangala, tradition about beginn Mandanamiśra ( between about ing of any work with M. laid 
 
-680-720 A D.); explains a down by Manu 1307, verse of Tantra vārtita. aco, to Mangalāstaka, eight sabstances to Śāstradipikā but there is no be distributed to women when evidence that he wrote a com. invited in a ceremony or yrata on Tantravārtika 1191 and n; } like Saabhāgyasundari 367. 
+680-720 A D.); explains a down by Manu 1307, verse of Tantra vārtita. aco, to Mangalāstaka, eight sabstances to Śāstradipikā but there is no be distributed to women when evidence that he wrote a com. invited in a ceremony or vrata on Tantravārtika 1191 and n; } like Saabhāgyasundari 367. 
 
 120 
 
@@ -5664,7 +5664,7 @@ Indec
 
 Padmapurana says that some vratas are superior to X hundred Vedic sacrificos 934; placed before all people ( in cluding fūdras) easy ways whereby they could secure spiritual life and bliss in the Hereafter 930; played a sub stantial role in bringing about the decline and disappearance of Buddhism from India in various ways 913-914; points of distinction between Upa porānas and the 18 Maba purinas 836-37; printed P, and was thereof, give foar different periods of time viz. 1015, 1050, 1115 and 1600 from the birth of Parīkṣit to the crowning of Nanda, whicb Pargiter discards 845 46; proclaim often that saīsāra is fall of misery and 13 impermanent 1555; pat emphasis on profase expense in srāddhas and inveigh against stinginess 931; quote anavathsa slokas orgāthis about such ancient kings as Kārtavirya Samitra and Ksemaka, last sciops of Aila and Aikṣvāka dynasties, but none about later dynasties of Suugas or Andhras 851; read ing of or listening to recitation of P. believed to remove sins 915-16; reasons why many conclusions drawn from the carrent printed editions and mse, of Purāṇas must be held to be merely tentative 837-38; reasons why extant Parānas do not narrate traditions about ! 
 
-Gupta dynasty and those that succeeded it 856 ; references to pages of the fopr vol of H of Dh. on dāna, frāddha, tirtha and yrata 998-999; said to be the heart of , dharma, while Veda and Smrti are eyes 924; sectarian bigotry of some Puranas exemplified 976–977; seven P. contain historical material viz, ancient dynasties up to Bhārata war and from Bharata war to the downfall of Andhras and the rise of Guptas, such as Vāyı, Viṣnu, Brabmāṇda, Bhagavata 842 ; several among the extant P. were composed or completed in the period from the 5th to the 9th century A, D., 854–55; geperal P. contain & much smaller pomber of slokas tban are assigned to them by autho rities as in the case of Viṣnu parāga and Kārma 832-33; several P. such as Matsya, Vāyo, Vispa and Bhavisya contain much Dharmasastra material 815; several P. describe the eight angas of Yoga 1455; se veral P. like Agni, Matsya and Viṣpıdharmottars are encyclo poedias and illastrate India's life, charaoler, achievements and shortcomings 935; several P. such as Vāyu and Bmh mānda give a different version of the transmission of P. 861 62; some like Bhagavata, Kūrma, Mārkandeya,' Viṇa espouse the Gita doutrine of niskāma-karmayoga 967 ;-some Puranas like Garaga desoribe 
+Gupta dynasty and those that succeeded it 856 ; references to pages of the fopr vol of H of Dh. on dāna, frāddha, tirtha and vrata 998-999; said to be the heart of , dharma, while Veda and Smrti are eyes 924; sectarian bigotry of some Puranas exemplified 976–977; seven P. contain historical material viz, ancient dynasties up to Bhārata war and from Bharata war to the downfall of Andhras and the rise of Guptas, such as Vāyı, Viṣnu, Brabmāṇda, Bhagavata 842 ; several among the extant P. were composed or completed in the period from the 5th to the 9th century A, D., 854–55; geperal P. contain & much smaller pomber of slokas tban are assigned to them by autho rities as in the case of Viṣnu parāga and Kārma 832-33; several P. such as Matsya, Vāyo, Vispa and Bhavisya contain much Dharmasastra material 815; several P. describe the eight angas of Yoga 1455; se veral P. like Agni, Matsya and Viṣpıdharmottars are encyclo poedias and illastrate India's life, charaoler, achievements and shortcomings 935; several P. such as Vāyu and Bmh mānda give a different version of the transmission of P. 861 62; some like Bhagavata, Kūrma, Mārkandeya,' Viṇa espouse the Gita doutrine of niskāma-karmayoga 967 ;-some Puranas like Garaga desoribe 
 
 166 
 
@@ -6816,7 +6816,7 @@ namaḥ śivāya' or Sivayı Bister, house of, to be visited by Damsb* 233; one 
 
 on 8. and performing worship Sitapāla, Lord of Oedi: story of, is not born again 227 ; one 
 
-in Sabhāpartan Viṣgu and observing this yrata has to 
+in Sabhāpartan Viṣgu and observing this vrata has to 
 
 210.I wie 
 
@@ -8192,7 +8192,7 @@ Indon
 
 vrata soh as chewing tāmbūla, two days ocoupies much space anoisting with oil 49; adhi- in Dharmajāstra works 62; kārin for V, 51-08; Apother extravagant praise of the effi vrata should not be begun till caoy of y, for weaning away the first is finished 121; V. common people from Buddhism called Kṣurapari 25; circum- 46 ; flesh to be excluded in 41 ; stanoes that do not break a flowers, fragrant substances, vrata 48-49; classification of, incense, the food to be offered into three ( bodily, mental, to deities in, 37-38; food to vocal) or based on the period be given not only to brāhmaṇas taken 56 ; comprehends many but also to the blind, the poor items such as bath, sandhyā, and helpless 39-40; food pro sankalpay homa, pūjā, fast, per or improper for subsistence feeding of brāhmaṇas, maidens in 41-42; for completion of and the poor, gifts and obser- vrata, performer should donate vances of rules of conduct 31 ; gold and cows, but if one has death in the midst of perform- nothing, the words of a brāh ing V, does not deprive perfor- mapa that vrata is completed mer of merit 48; derivation are enough 121; general rule and meaning of, according to that Saṅkalpa of a vrata to be St. Petersburg dictionary from made in the morning 32; root Vr. "to choose' l; deriva- giving up vrata through oare tion of and meaning of acc. to lessness or other cause except Max-Moller from Vļ. to death, entails dire consequen proteot, 1 acc. to Whitney oes 47-48; goda, sages, sid from yft' to proceed, 1; v. aco. dhas attained highest perfeo. to Prof. Apte from 'vrt' 2, 4; tion by V. 56; how to set V. 200. to author from vs (to abort & vrata 81; if no sai. choose) 3, 4; desoribed in kalpa made about v. performer Pariṇas but did not occupy a loses half the merit 82; im bigh place in ancient smrtis 43; mense literature on 57-58; in difference between Vedic saori- all vratas the pāraṇā is in the fices and V, 48; difficult to morning 121 ; in the medieval demarcate y, and utsava 67; 1 sense existed from before Ap. different definitions of, in Dh, S. and the dramas of Kali Sanskrit works, such as sābara- daga 46; V. In the Rgveda bhāṣya, Medhātitbi, Mitākṣarā, pp. 1-21; in Vedic literature, Raghupandaṇa 28-31 ; emplo- sūtras and Sustis 22–29; is yed with verbs of motion like the one supreme observance 'j' to and 'oar' 6-7; exact for man and other observances determination as to the day on 
 
-do not oome up even to one which & tithivrata is to be per- sixteenth part of what yrata formed when tithi extends over yields, 56 ; largest gamber of, 
+do not oome up even to one which & tithivrata is to be per- sixteenth part of what vrata formed when tithi extends over yields, 56 ; largest gamber of, 
 
 350 
 
@@ -8212,7 +8212,7 @@ Indeco
 
 251 
 
-about times when to begin v 61-62; some vratas not to be began when Jupiter and Venus are invisible or during some days before and after their sett ing 61, this volume speaks only of such Vratas as are mentioned in works on Dharmasastra and does not attempt to include all yratas performed by usage 59–60; to be performed in the erening or night have to be performed on the tithi exist ing in the evening or night even though it may be mixed with another tithi 72; Udya. pana, abseqoe of, rendera vrata fruitless 131 ; verbal forms of rootmi' or 'mi' often used in Rgveda in relation to, 10; virtues to be cultivated by one undergoing V. 41; what acts to be avoided by one observing V. 42-43 ; women are entitled to perform V, bat women per forming vrata without consent of husband, father or son, reap no benefits 51; woman or maiden who is impure (in monthly illness or the like) should get her vrata performed or inished through another, but may perform bodily acts (like fast ) herself 49, 53 ; words'dhrtavrata' (18 times), mahivrata (5 times), sacivrata (ave times), vivrata ( 7 times) occur in Rg. and help in setti ing meaning of vrata' 12-17; word vrgavrato explained 18-19; word 'vratāni' expla ined 17-18; word 'vratapā', meaning of 18, 22; w rks on, 
+about times when to begin v 61-62; some vratas not to be began when Jupiter and Venus are invisible or during some days before and after their sett ing 61, this volume speaks only of such Vratas as are mentioned in works on Dharmasastra and does not attempt to include all vratas performed by usage 59–60; to be performed in the erening or night have to be performed on the tithi exist ing in the evening or night even though it may be mixed with another tithi 72; Udya. pana, abseqoe of, rendera vrata fruitless 131 ; verbal forms of rootmi' or 'mi' often used in Rgveda in relation to, 10; virtues to be cultivated by one undergoing V. 41; what acts to be avoided by one observing V. 42-43 ; women are entitled to perform V, bat women per forming vrata without consent of husband, father or son, reap no benefits 51; woman or maiden who is impure (in monthly illness or the like) should get her vrata performed or inished through another, but may perform bodily acts (like fast ) herself 49, 53 ; words'dhrtavrata' (18 times), mahivrata (5 times), sacivrata (ave times), vivrata ( 7 times) occur in Rg. and help in setti ing meaning of vrata' 12-17; word vrgavrato explained 18-19; word 'vratāni' expla ined 17-18; word 'vratapā', meaning of 18, 22; w rks on, 
 
 relied on in this volume arrang ed chronologically as far 46 
 
@@ -8484,7 +8484,7 @@ Index
 
 1457-9, 1482, 1507, 1555n in Divaļi 196 and n; ten ( follows Bs. Up.), 1657-58, names of, in Bhrātṛdvitiya 1565 (uses word Samsāra ), 208n; wrong conolusions, of 1573 ( five views m. as to western scholars from Yama what causes desirable or and Yami hymn 209.. undesirable results), 1590- Yamadvitfyā, see Bbrātrdvitīyā. 91, 1608, 1611, 1628, Yamas : ( vide diyama'): are 1632 (allows intermarriages obligatory or paramount duties between three parpas ), 1645 for all, acc. to Manu 29; are in (OD sapnyasin), 1669, 1672, the nature of prohibitions 1422; 1697 ( truth and non-violence five m. by Yogasūtra, Kārma, basic), 1704; declares that rise Linga 290, 946n, 1419, 1420n; and fall of kings depends on ten mentioned by Yāj. and planets 544; employs word Vaikhānas: 29, 946n; the 
 
-vrala' in three senses 123; observance of Yamas by all hardly ever refers to yratas in men may be called Vrata but the sense in which Purāṇas use there are exceptions for them, the word 133; mentions some bat in the case of Yoging Sāókhya tenets such as guṇas rigorous observance without 1379; Viśvarapa's cou, on, is exceptions is called MabĀvrata called Balakrijā 825n, 8260, 1430-21, 1155n. 
+vrala' in three senses 123; observance of Yamas by all hardly ever refers to vratas in men may be called Vrata but the sense in which Purāṇas use there are exceptions for them, the word 133; mentions some bat in the case of Yoging Sāókhya tenets such as guṇas rigorous observance without 1379; Viśvarapa's cou, on, is exceptions is called MabĀvrata called Balakrijā 825n, 8260, 1430-21, 1155n. 
 
 | Yamas are based upon passages Yakṣa, word occurs in Rg, and I like Chan. Up. III. 17.4 and 
 

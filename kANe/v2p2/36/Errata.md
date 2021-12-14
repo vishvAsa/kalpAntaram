@@ -73,7 +73,7 @@ read cuiufqafat 369 poto 875 line 7 road Tera:
 
 lino 14 
 
-read yratani' for 'vraten' line 31 
+read vratani' for 'vraten' line 31 
 
 road 'notes 22181 and 2219' for notor 
 

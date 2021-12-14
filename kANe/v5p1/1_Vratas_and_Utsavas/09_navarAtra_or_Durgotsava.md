@@ -511,7 +511,7 @@ __474, खाष्ट्रवैधृतियुक्ता चेत् �
 
 devotee's own blood and flesh and of he-buffaloes, goats and rams. It specifies the periods for which gratification is felt by the Devi by the offering of various balis and avers that all dasyus and various mleccha tribes, the Angas, Vangas, Kalingas, Kinnaras, Barbaras and Sakas worship her, 
 
-The Krtyakalpataru on Vrata does contain a vrata called Durgāstamiyrata derived from the Devipurāna (pp. 225-233), but it has nothing to do with the exploits of Durgā. 
+The Krtyakalpataru on Vrata does contain a vrata called Durgāstamivrata derived from the Devipurāna (pp. 225-233), but it has nothing to do with the exploits of Durgā. 
 
 Hemādri also (on vrata, vol. I. pp. 856-862) contains the same vrata with a few variations. That vrata is entirely different from the Durgotsava described in the Kālikāpurāṇa. In the first place there is no reference in it to the killing of Mahiṣāsura. In the next place, that vrata is described as beginning from the 8th of Srāvana-sukla and going on for one year in each succeeding month on the 8th of the bright half. Feeding virgins and brāhmaṇas is mentioned in it also, but in each month the food offered to Devi and to the virgins is generally different. 
 

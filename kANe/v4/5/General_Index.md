@@ -3223,7 +3223,7 @@ General Inder
 
 897 
 
-224, 225, 226, 233, 240, 242, 244, - 245, 246, 248, 251-254, 361 Satyayrata, 4190 Sātyāyanı 3831 Sauca, see onder 'purity', 'suddbi', 
+224, 225, 226, 233, 240, 242, 244, - 245, 246, 248, 251-254, 361 Satyavrata, 4190 Sātyāyanı 3831 Sauca, see onder 'purity', 'suddbi', 
 
 consists in arading abhaksya (what ongbt not to be eaten), by associa tion with those only who are nncondemned, and firmly abiding by one's prescribed duties 310, four biods of, acc. to a smrti viz mone tary, mental, bodily and of speech 310, is one of the five piyamas of Yoga 311,' means removal by means of clay, water, condung and the libe of the besmearing, the oilz ness and odour of a thing tbat causes impanty 314, mental attitude 
 
