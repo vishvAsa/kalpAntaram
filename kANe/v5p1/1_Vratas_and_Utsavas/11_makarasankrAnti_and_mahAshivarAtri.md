@@ -5,7 +5,7 @@ title = "11 Makarasaṅkrānti and Mahāśivarātri"
 
 CHAPTER XI 
 
-Makarasankrānti and Mahasivarātri 
+Makarasankrānti and Mahaśivarātri 
 
 Makara-Saṅkrānti. This is a very important religious observance and festival. About 70 years ago (in the author's boyhood) it occurred on the 12th or 13th January according to the several Indian almanacs then cuğrent, but now it falls, owing to the procession of the equinoxes, on the 13th or the 14th of January in the month of Pausa. Saṅkranti means the (apparent) passage of the sun from one rāśi (sign of the Zodiac) to the next following' and hence the rāśi in which the Sun enters is designated as the Saṅkranti of that name. 540 When the Sun leaves the rāśi called Dhanus and enters the Makara rāśi that is called Makarasankranti. The rāśis are twelve and the Saṅkrānti names with their western equivalents are given in the note. 541 There are only twelve sankrāntis even if there be an intercalary month in some year. Everyone of the twelve sankrāntis was regarded as a holy day. The Matsya-purāṇa (chap. 98 ) deals with the completion of Saṅkrānti-vrata. Briefly, it provides that on the day previous a person, whether male or female, should take food only once in the noon and on the Saṅkrānti day should brush his teeth and then take a bath with water mixed with sesamo 542 The person should offer to a self-restrained brāhmapa householder three vessels containing edibles together with a cow intending them to be for Yama, Rudra and Dharma and repeat four verses one of which is as follows: "As I do not make any difference between siva, Viṣṇu, the Sun and Brahmā, may Śhaṅkara (Śiva ) who pervades 
 

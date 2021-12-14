@@ -517,7 +517,7 @@ H, D, 84666
 
 Beveral birds (like the crow) and animals (like the cook and village hog), which are passed over for want of space. 
 
-Kāmya-snāna 1688 (bath for some desired object) is that which is taken when one goes to a tirtha (& sacred place ) or when there is some astrological conjunction like the moon being in the constellation of puṣya (vide Saṅkhasmṛti VIII. 4) or when one bathes in the morning in the two months of Magha and Phalguna for securing abundant pleasures. Vide Sm. O. I. pp. 122-123 for numerous examples. 
+Kāmya-snāna 1688 (bath for some desired object) is that which is taken when one goes to a tirtha (& sacred place ) or when there is some astrological conjunction like the moon being in the constellation of puṣya (vide Saṅkhasmṛti VIII. 4) or when one bathes in the morning in the two months of Māgha and Phalguna for securing abundant pleasures. Vide Sm. O. I. pp. 122-123 for numerous examples. 
 
 When a man has to take a bath as a part of the religious rite such as the rite of dedicating a well, a temple, a park to the public, that is called kriyānga-snāna. $83 
 
@@ -1015,7 +1015,7 @@ Ahnika-tar pana
 
 &c.) do it daily, but generally most brāhmaṇas perform tarpans as part of brahmayajña on one day in th3 year in the month of Srāvana. 
 
-A special tarpana was offered to Yama on the 14th of the dark half of a month if it was a Tuesday or on the 14th of the dark half. Vide Sm. O. I. pp. 197-198, Madana pārijāta p. 296, Par. M. I. part 1, p. 361. Dakṣa (II. 52-55 ) prescribes that Yama-tarpaṇs is specially performed in the Jumna on the days specified above and gives the several names under which Yama is invoked. Vide also Matsyapurāṇa 213. 2-8. The Tai. Ar. VI. 5 speaks of a yajña or bali ( offering) in honour of Yama every month. There is also tarpana in honour of the great epio hero Bhiṣma offered on the 8th of the bright half of Magha. Vide Sm. O. I. p. 198. 
+A special tarpana was offered to Yama on the 14th of the dark half of a month if it was a Tuesday or on the 14th of the dark half. Vide Sm. O. I. pp. 197-198, Madana pārijāta p. 296, Par. M. I. part 1, p. 361. Dakṣa (II. 52-55 ) prescribes that Yama-tarpaṇs is specially performed in the Jumna on the days specified above and gives the several names under which Yama is invoked. Vide also Matsyapurāṇa 213. 2-8. The Tai. Ar. VI. 5 speaks of a yajña or bali ( offering) in honour of Yama every month. There is also tarpana in honour of the great epio hero Bhiṣma offered on the 8th of the bright half of Māgha. Vide Sm. O. I. p. 198. 
 
 Gobhila-smṛti 1881 (II. 22-23) emphasizes the importance of tarpaṇa by remarking that, as all beings, animate or inani mate, desire water from the brāhmaṇa who brings prosperity to all, tarpapa should always be done by him and that if he does not do it he would inour great sin and that if he does it he would support this world. The idea underlying tarpana seems to be indicated even by the Tai. S. V. 4. 4. 1. 1668 
 

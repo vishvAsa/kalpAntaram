@@ -1449,7 +1449,7 @@ III. 218. 23-25. Gangāsaptami-on Vai. śu. 7; worship of Ganges; SmK 112
 
 (Sec. .I, CH. XIII 
 
-Gajacchāyā-A combination of Āśv. kr. 13, of Magha-naksatra, 
+Gajacchāyā-A combination of Āśv. kr. 13, of Māgha-naksatra, 
 
 sun in Hasta. Vide H. of Dh. vol. IV p. 371 n. It is a time for śrāddha. Vide Yāj. I. 218 and Manu III. 274. Śātātapa (q. by HK 386 ) says when there is a solar eclipse, that is also Gajacchāyā and śrāddha at that time becomes 
 
@@ -4089,7 +4089,7 @@ FIistory of Dharmaśāstra
 
 
 
-early times. The best time is dawn when the naksatras are still visible, next best is the time when stars are visible but the Sun is not actually risen and the inferior time is after the Sun rises. The beginning for the month's bathing should be made on the 11th of P. śu. or on P. pūrṇimā (according to the pūrnimānta reckoning) and the vrata (for one month ) is to be finished on the 12th of M. śu. or pūrnimā; some bring it in line with the Saura reckon ing by providing that bath when the Sun is in Makara ( Capricorn) in Māgha in the morning leads sinners to heaven (VKK 491 quoting Pad.); all men and women are entitled to engage in it. The most meritorious Māgha snāna is at the confluence of the Gangā and Yamunā. Vide for details, Pad. VI (in which about 2800 verses are devoted from chap. 219 to 250 to the māhātmya of Māghasnāna ), HV II. 789-794, VKK 490-91, RM 1368 ( ABORI vol. 36 p. 332 ), NS 213-216, Smk 439-441 and H. of Dh. vol. IV. 617; Pad. VI. 237. 49-59 and KT 455-57 describe the procedure of the gifts and niyamas. V. Dh. 90 last verse eulogises morn ing bath in M. and Phā. Vide 1. A. vol. XI p. 88 on 'Magha 
+early times. The best time is dawn when the naksatras are still visible, next best is the time when stars are visible but the Sun is not actually risen and the inferior time is after the Sun rises. The beginning for the month's bathing should be made on the 11th of P. śu. or on P. pūrṇimā (according to the pūrnimānta reckoning) and the vrata (for one month ) is to be finished on the 12th of M. śu. or pūrnimā; some bring it in line with the Saura reckon ing by providing that bath when the Sun is in Makara ( Capricorn) in Māgha in the morning leads sinners to heaven (VKK 491 quoting Pad.); all men and women are entitled to engage in it. The most meritorious Māgha snāna is at the confluence of the Gangā and Yamunā. Vide for details, Pad. VI (in which about 2800 verses are devoted from chap. 219 to 250 to the māhātmya of Māghasnāna ), HV II. 789-794, VKK 490-91, RM 1368 ( ABORI vol. 36 p. 332 ), NS 213-216, Smk 439-441 and H. of Dh. vol. IV. 617; Pad. VI. 237. 49-59 and KT 455-57 describe the procedure of the gifts and niyamas. V. Dh. 90 last verse eulogises morn ing bath in M. and Phā. Vide 1. A. vol. XI p. 88 on 'Māgha 
 
 meļā'. Mātrvrata-(1) on 8th; tithi; Mātrs ( mother goddesses ) are the 
 

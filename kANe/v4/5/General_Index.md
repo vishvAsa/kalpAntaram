@@ -943,7 +943,7 @@ dead body was not found 225 Egyptians, ideas of, about Heaven and
 
 Hell were similar to those of most 
 
-ancient and medieval Indians 170 Elabhakta, an exp ation 132 Elāstabā, is the 8th titht after full moon of month of Magha 353-54 ; said to be the wife of the year 
+ancient and medieval Indians 170 Elabhakta, an exp ation 132 Elāstabā, is the 8th titht after full moon of month of Māgha 353-54 ; said to be the wife of the year 
 
 353-355 Ekata, story of 11 Ekoddista, (see 'Davasrādaba', 'nava. 
 
