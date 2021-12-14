@@ -23,7 +23,7 @@ case an obeisance 364 and a prayer and donate presents placed in vessels of wick
 
 This vrata is not prevalent in Bengal nor in Gujarat. 
 
-It is provided by Madhava that 365 if the third is mixed up with the 2nd tithi and the 4th tithi, the vrata is to be performed on the later day, provided the third tithi exists at least for a muhūrta (two ghatikās) and then 4th tithi follows. 
+It is provided by Madhava that 365 if the third is mixed up with the 2nd tithi and the 4th tithi, the vrata is to be performed on the later day, provided the third tithi exists at least for a muhūrta (two ghaṭikās) and then 4th tithi follows. 
 
 In modern times women purchase coloured clay images of Pārvati, of Sivalinga and a friend of Pārvati and worship them. 
 

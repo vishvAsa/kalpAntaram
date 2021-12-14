@@ -91,7 +91,7 @@ of the first magnitude). Mat. chap. 61 for Agastyotpatti; Gar. I. 119. 1-6; KV. 
 
 
 
-different times in different countries); Agni. 206. 1-2 (arghya to be offered three days and 20 ghatikās before Sun enters Virgo); vide RM. (verses 1206-1228 in ABORI, Vol. 36 pp. 317-320), KKN 448-451, HV II. 893-904, KR 294–299, VKK 340-343; RM (verses 1219-20) quote Rg. I. 179. 6 as mantra for arghya by drijas and for others the mantra 'kāśa puspapratikāśa vahnimārutasambhava | Mitrāvarupayoḥ putra Kumbhayone namostu te' cited in Mat. 61. 50, Gar. I. 119.5. SPr (folio 40 b) remarks that there are two modes, one based on Brah (where arghya is main thing), the other based on Mat (where worship is main); KSS 12 provides arghyadāna for three days from Bh. śu 13; vide TT 146 and KT 443. For belief that the rise of Agastya made 
+different times in different countries); Agni. 206. 1-2 (arghya to be offered three days and 20 ghaṭikās before Sun enters Virgo); vide RM. (verses 1206-1228 in ABORI, Vol. 36 pp. 317-320), KKN 448-451, HV II. 893-904, KR 294–299, VKK 340-343; RM (verses 1219-20) quote Rg. I. 179. 6 as mantra for arghya by drijas and for others the mantra 'kāśa puspapratikāśa vahnimārutasambhava | Mitrāvarupayoḥ putra Kumbhayone namostu te' cited in Mat. 61. 50, Gar. I. 119.5. SPr (folio 40 b) remarks that there are two modes, one based on Brah (where arghya is main thing), the other based on Mat (where worship is main); KSS 12 provides arghyadāna for three days from Bh. śu 13; vide TT 146 and KT 443. For belief that the rise of Agastya made 
 
 turbid waters clear, vide Raghu IV. 21. Agni-fires kindled in several religious rites are addressed by 
 
@@ -245,7 +245,7 @@ Umā; HV I. pp. 632-638, SMK 222-228 (almost same
 
 passages as in HV). Vide Nār. I. 116. 32–33. Ambuvāci—the time in solar Āsādha when the Sun is in the first 
 
-quarter of Ardrā-naksatra; VKK 283 quoting RM (catvārim sat-liptā &c.), KT 434 ( three days and 20 ghatis from the week day on which the Sun enters sign of Gemini, during which no sowing of seeds, nor Vedic study to be done ). Mother earth and rivers are deemed unclean during these days in Bengal (in Jy. or Ās. Kr. 10 to 13th ). Vide 
+quarter of Ardrā-naksatra; VKK 283 quoting RM (catvārim sat-liptā &c.), KT 434 ( three days and 20 ghaṭis from the week day on which the Sun enters sign of Gemini, during which no sowing of seeds, nor Vedic study to be done ). Mother earth and rivers are deemed unclean during these days in Bengal (in Jy. or Ās. Kr. 10 to 13th ). Vide 
 
 HK 701, 703. Ayanavratas-Ayana depends on the motion ( apparant) of the 
 
@@ -263,7 +263,7 @@ fans and arrows (v. 1. 'with fans alone in one hand') wander in forests. GK p. 8
 
 their children. Arāndhanāṣtamī—Vide VK, No. 470. Arunodaya-The last half quarter (prahara) of night. HK 259, 
 
-272; KN 241 ( quoting Skanda and Nāradiya ) says 'four ghatikās before sunrise. 
+272; KN 241 ( quoting Skanda and Nāradiya ) says 'four ghaṭikās before sunrise. 
 
 List of vratas 
 
@@ -433,7 +433,7 @@ List of vratas
 
 Ahan-a day. There are several views about the divisions of 
 
-the day, viz. into two, three, four, five, eight, or fifteen parts. The two are pūrvāhna and aparāhṇa ( as in Manu III. 278 ); for three vide notes 257–258 above. Four parts described by Gobhila (q. by KN p. 110 ) are pūrvāhna ( for 1) prahara ), madhyāhna for one prahara, aparāhna up to the end of the 3rd prahara and thereafter sāyāhna till end of day. For names of five divisions vide H. of Dh. vol. IV p. 376. In Rg. V. 76. 3 (utāyātam sangave prātarahno) three of the five parts of a day viz. prūtah, sangava and malhyandina are expressly mentioned. Eight divisions of the day are men tioned by Kautilya (I. 19), Daksa ( chap. 2) and Katyāyana. Kālidāsa in Vikramorvāśiya II. 1 (sasthe bhāge) appears to know this. There are fifteen muhūrtas of the day and fifteen of the night. Vide Bșhadyogayātrā VI. 2-4 for 15 muhurtas. As the day and night become long or short at different places (except on the equator) each of the muhurtas will vary in length to some extent even in the same place in different seasons of the year. Similarly, pūrvāhpa or prātaḥkāla will be of 71 muhūrtas if day is divided only in two parts, if into five parts pūrvāhṛa or prātaḥ will comprise only three muhūrtas. The KN (p. 112) remarks that the division into five parts being observed in many Vedic and Smrti texts as the principal division, that division, is the one resorted to in the śāstric passages about positive and negative injunctions. Vide HK 325-329, VKK 18–19, KTV 
+the day, viz. into two, three, four, five, eight, or fifteen parts. The two are pūrvāhna and aparāhṇa ( as in Manu III. 278 ); for three vide notes 257–258 above. Four parts described by Gobhila (q. by KN p. 110 ) are pūrvāhna ( for 1) prahara ), madhyāhna for one prahara, aparāhna up to the end of the 3rd prahara and thereafter sāyāhna till end of day. For names of five divisions vide H. of Dh. vol. IV p. 376. In Rg. V. 76. 3 (utāyātam sangave prātarahno) three of the five parts of a day viz. prūtah, sangava and malhyandina are expressly mentioned. Eight divisions of the day are men tioned by Kautilya (I. 19), Daksa ( chap. 2) and Katyāyana. Kālidāsa in Vikramorvāśiya II. 1 (sasthe bhāge) appears to know this. There are fifteen muhūrtas of the day and fifteen of the night. Vide Bșhadyogayātrā VI. 2-4 for 15 muhurtas. As the day and night become long or short at different places (except on the equator) each of the muhurtas will vary in length to some extent even in the same place in different seasons of the year. Similarly, pūrvāhpa or prātaḥkāla will be of 71 muhūrtas if day is divided only in two parts, if into five parts pūrvāhṛa or prātaḥ will comprise only three muhūrtas. The KN (p. 112) remarks that the division into five parts being observed in many Vedic and Smr̥ti texts as the principal division, that division, is the one resorted to in the śāstric passages about positive and negative injunctions. Vide HK 325-329, VKK 18–19, KTV 
 
 6, 367. Ahiinsūvrata—not to eat flesh for a year and then donate a cow 
 
@@ -685,7 +685,7 @@ some of which may be noted at the proper places. Asidhārāvrata-begin on Āṣ,
 
 Ahan-a day. There are several views about the divisions of 
 
-the day, viz. into two, three, four, five, eight, or fifteen parts. The two are pūrvāhna and aparābṇa ( as in Manu III. 278 ); for three vide notes 257-258 above. Four parts described by Gobhila (q. by KN p. 110 ) are purvāhṇa (for 14 prahara ), madhyāhna for one prahara, aparāhna up to the end of the 3rd prahara and thereafter sāyāhna till end of day. For names of five divisions vide H. of Dh. vol. IV p. 376. In Rg. V. 76. 3 (utāyātam sangave prātarahno) three of the five parts of a day viz. prūlah, sangara and madhyunding are expressly mentioned. Eight divisions of the day are men tioned by Kautilya (I. 19), Daksa (chap. 2) and Katyāyana. Kalidasa in Vikramoryāśiya II. 1 (sasthe bhāge) appears to know this. There are fifteen muhurtas of the day and fifteen of the night. Vide Bphadyogayātrā VI. 2-4 for 15 muhurtas. As the day and night become long or short at different places (except on the equator ) each of the muhūrtas will vary in length to some extent even in the same place in different seasons of the year. Similarly, pūrvāhna or prātaḥkāla will be of 71 muhūrtas if day is divided only in two parts, if into five parts pūrvahna or prātaḥ will comprise only three muhurtas. The KN (p. 112) remarks that the division into five parts being observed in many Vedic and Smrti texts as the principal division, that division, is the one resorted to in the śāstric passages about positive and negative injunctions. Vide HK 325-329, VKK 18-19, KTV 
+the day, viz. into two, three, four, five, eight, or fifteen parts. The two are pūrvāhna and aparābṇa ( as in Manu III. 278 ); for three vide notes 257-258 above. Four parts described by Gobhila (q. by KN p. 110 ) are purvāhṇa (for 14 prahara ), madhyāhna for one prahara, aparāhna up to the end of the 3rd prahara and thereafter sāyāhna till end of day. For names of five divisions vide H. of Dh. vol. IV p. 376. In Rg. V. 76. 3 (utāyātam sangave prātarahno) three of the five parts of a day viz. prūlah, sangara and madhyunding are expressly mentioned. Eight divisions of the day are men tioned by Kautilya (I. 19), Daksa (chap. 2) and Katyāyana. Kalidasa in Vikramoryāśiya II. 1 (sasthe bhāge) appears to know this. There are fifteen muhurtas of the day and fifteen of the night. Vide Bphadyogayātrā VI. 2-4 for 15 muhurtas. As the day and night become long or short at different places (except on the equator ) each of the muhūrtas will vary in length to some extent even in the same place in different seasons of the year. Similarly, pūrvāhna or prātaḥkāla will be of 71 muhūrtas if day is divided only in two parts, if into five parts pūrvahna or prātaḥ will comprise only three muhurtas. The KN (p. 112) remarks that the division into five parts being observed in many Vedic and Smr̥ti texts as the principal division, that division, is the one resorted to in the śāstric passages about positive and negative injunctions. Vide HK 325-329, VKK 18-19, KTV 
 
 6, 367. Ahiinsāvrata-not to eat flesh for a year and then donate a cow 
 
@@ -1027,7 +1027,7 @@ Mahisāsuramardini with mantra “Mahisaghni Mahāmāye' HV I. 895 ( from Bhav U
 
 mantra is the same as in first variety. The vrata is so called because the man appears to his enemies like ulkā (fire brand) and the woman performer to her co-wives just like 
 
-ulkā. Uṣahkāla-The period of five ghatis before sunrise, or 55 ghatis 
+ulkā. Uṣahkāla-The period of five ghaṭis before sunrise, or 55 ghaṭis 
 
 after the preceding sunrise is so called 'Pañca-pañca usahkālaḥ saptapañcāruṇodayaḥı aṣtapañca bhavet prātaḥ 
 
@@ -1947,7 +1947,7 @@ stars; in each month brāhmaṇas to be fed on different kinds of foods; arghya 
 
 worshipped, KR 496-497 (from Brah.). Tālanaramī-on 9th of Bh. śu; worship of Durgā; VKK 320. Tithiyugalavrata-on the two astamis and two caturdaśīs of a 
 
-month, on amāvāsyā and paurṇamāsī, the two saptamīs and two dvādaśīs of each month one should not eat at all; for one year; HV II, 397 ( from Yamasmrti); KKV 387 (from 
+month, on amāvāsyā and paurṇamāsī, the two saptamīs and two dvādaśīs of each month one should not eat at all; for one year; HV II, 397 ( from Yamasmr̥ti); KKV 387 (from 
 
 Atri) is slightly different. Tindukāṣtami-8th kṛ. from Jy.; one year; worship of Hari with 
 
@@ -2475,7 +2475,7 @@ a year; draw a lotus of eight petals with saffron; on each petal worship Sun fro
 
 repeated; HV II, 730-32 ( from Skanda ). Dhānyasaptaka--Seven kinds of corn are; yava, wheat, dhānya 
 
-(coriander ), Sesame, kangu (Panic seed), śyāmāka and cinaka (Panicum Miliacum); HV I. 48 (from Şat-trimsan mata); KR 70 ( notes that some read 'devadhānya' in place of'cinaka).' Gobhilasmrti 3. 107 names the seven somewhat differently; Vispupurāṇa I. 6. 21-22, Vāyu 8. 150–152 and Mārkandeya 46. 67-69 (Venk. ed.) name 17 dhānyas and 
+(coriander ), Sesame, kangu (Panic seed), śyāmāka and cinaka (Panicum Miliacum); HV I. 48 (from Şat-trimsan mata); KR 70 ( notes that some read 'devadhānya' in place of'cinaka).' Gobhilasmr̥ti 3. 107 names the seven somewhat differently; Vispupurāṇa I. 6. 21-22, Vāyu 8. 150–152 and Mārkandeya 46. 67-69 (Venk. ed.) name 17 dhānyas and 
 
 VR p. 17 names 18. Dhānyasaptami-on śu. 7 worship the Sun, follow nakta method 
 
@@ -2781,7 +2781,7 @@ C11
 
 Niṣiddha-Forbidden matters and actions on certain months, 
 
-tithis, week-days, Saṅkrantis and vratas are numberless. KV (pp. 333–345) sets out a very long list, but ultimately (on p. 345) has to say 'Actions forbidden by those who know the Vedas, smrtis and purāṇas at several times and occasions are innumerable; how can I, a single man, speak about all of them unless I live a thousand years; therefore I have said what I understood from a few texts in authorita tive works and contained in digests; others will write about 
+tithis, week-days, Saṅkrantis and vratas are numberless. KV (pp. 333–345) sets out a very long list, but ultimately (on p. 345) has to say 'Actions forbidden by those who know the Vedas, smr̥tis and purāṇas at several times and occasions are innumerable; how can I, a single man, speak about all of them unless I live a thousand years; therefore I have said what I understood from a few texts in authorita tive works and contained in digests; others will write about 
 
 the rest.' Nirājana-duādasi-on K. śu. 12; to be performed at beginning 
 
@@ -4907,7 +4907,7 @@ enumerated in Vi. Dh. III. 176.1 that are manifestations of Keśava are deity; w
 
 Dh. III. 176. 1-5. Viṣtivrata or Distibhadrā—The karanas will be described in the 
 
-section on Kāla. They are of two classes, cara ( moveable ) and sthira (fixed). The first are seven of which Visti is one. Vide Bș. S. 99. 1. Visṭi is half of a tithi. The works on astrology raised it to the status of an ill-formed malignant demoness. Visti comprised 30 ghatikās which were distribu ted unevenly in her mouth, throat, heart, navel, waist and tail (respectively 5, 1, 11, 4, 6, 3 ghatikās ); HV II. 719-724 (from Bhav. U.), KN 330, SmK 565-566 describe her as the daughter of the Sun and sister of Saturn, she has the mouth of an ass, three feet &c. Visti was generally destructive and was to be avoided for any auspicious undertaking, but it was a favourable time for destroying enemies or poisoning them (Br. S. 99. 4); fast on the day that has Visti; but if Viṣti occurs at night then ekabhakta may be resorted to on two days; worship gods and pits and then image of Visti made of darbhas with flowers &c.; naivedya is of kīśara 
+section on Kāla. They are of two classes, cara ( moveable ) and sthira (fixed). The first are seven of which Visti is one. Vide Bș. S. 99. 1. Visṭi is half of a tithi. The works on astrology raised it to the status of an ill-formed malignant demoness. Visti comprised 30 ghaṭikās which were distribu ted unevenly in her mouth, throat, heart, navel, waist and tail (respectively 5, 1, 11, 4, 6, 3 ghaṭikās ); HV II. 719-724 (from Bhav. U.), KN 330, SmK 565-566 describe her as the daughter of the Sun and sister of Saturn, she has the mouth of an ass, three feet &c. Visti was generally destructive and was to be avoided for any auspicious undertaking, but it was a favourable time for destroying enemies or poisoning them (Br. S. 99. 4); fast on the day that has Visti; but if Viṣti occurs at night then ekabhakta may be resorted to on two days; worship gods and pits and then image of Visti made of darbhas with flowers &c.; naivedya is of kīśara 
 
 412 
 
@@ -5405,7 +5405,7 @@ Vide Gar. I chap. 136 also for this vrata. Śrāvana-krtya-KKN 395-397, KR 218�
 
 437-438; NS 109-122, Sm K 148-200, PC 215–22. 
 
-There are several important vratas in Srāvana such as Nāgapancami, Aśūnyasayanavrata, Krspajanmāstami, which have already been described or have been included separately in this list. A few small matters are briefly men tioned here. A notion prevailed that all rivers except those that fall directly into the sea are rajasralā ('muddy' or with a pun ' in monthly course') when the Sun is in the middle of the signs of Cancer and Lion and therefore one was not to bathe in them for holiness and that streams that are not 1008 dhanus in length are not to be called “nadīs' (rivers) but they are merely holes or canals ( gartā). Vide Gobhila smrti I. 141-142 (Māsadvayam Srāvanādi &c.), NS 109-110; vide H. of Dh. vol. IV. 590 note 1337 for the length of dhanus (as 4 hastas). In Śr, the several deities had on different 
+There are several important vratas in Srāvana such as Nāgapancami, Aśūnyasayanavrata, Krspajanmāstami, which have already been described or have been included separately in this list. A few small matters are briefly men tioned here. A notion prevailed that all rivers except those that fall directly into the sea are rajasralā ('muddy' or with a pun ' in monthly course') when the Sun is in the middle of the signs of Cancer and Lion and therefore one was not to bathe in them for holiness and that streams that are not 1008 dhanus in length are not to be called “nadīs' (rivers) but they are merely holes or canals ( gartā). Vide Gobhila smr̥ti I. 141-142 (Māsadvayam Srāvanādi &c.), NS 109-110; vide H. of Dh. vol. IV. 590 note 1337 for the length of dhanus (as 4 hastas). In Śr, the several deities had on different 
 
 432 
 
@@ -5505,7 +5505,7 @@ sixty years, Prabhava, Vibhava &c.), KKV 435–451, HV II.
 
 Caitra-pratipad pp. 82-84. Saṅkastacaturthimon Śr. kr. 4th on moonrise (i. e. about eight 
 
-ghatikās after sunset) worship Ganesa image, establish a 
+ghaṭikās after sunset) worship Ganesa image, establish a 
 
 436 
 
@@ -5569,7 +5569,7 @@ of rivers, reaches a happy goal. HV II. 238 (from Bhav. U.). Santānāṣtami-on
 
 worshipped; fast; for a year; at end of each period of four months on kr. 8 bathe image of Krṣpa with ghee and donate ghee; HV I, 846-47 (quoting ten verses out of Vi. Dh. 
 
-III. 217. 1-11 ). Sandhyā (twilight)-is the period of three ghatikūs ( 72 minutes) 
+III. 217. 1-11 ). Sandhyā (twilight)-is the period of three ghaṭikūs ( 72 minutes) 
 
 before sunrise and after sunset and it was provided that one should not engage in four actions in that period, viz. eating, sexual intercourse, sleep, Vedic study; HK 694-97, PC 46; Utpala on Brhaj-jātaka VII, 1 quotes Varāha that it is the time after half the sun's disc has gone down till appearance of stars and morning twilight is from the east having light 
 
@@ -5811,7 +5811,7 @@ Pūrvā Phalguni ( of which Bhaga is the presiding deity ), Uttarāsādhā, Hast
 
 auspicious rites should be performed on these ; NA 30. Siddhārthakādisaptamimon M. or Mārg. śu. 7 or if one is ill 
 
-then on any 7th tithi of any month; brushing the teeth half a prahara ( about four ghatikās) before sunrise with the twigs of certain trees, each of which is represented as securing some object ( 0. g. Madhūka gives sons, Arjuna makes fortune firm, Nimba confers prosperity, Aśvattha gives fame &c.); prognostications from the way in which the used brush falls when thrown away; seven saptamis to be observed, first with mustard grains, 2nd with arka buds, 3rd to 7th respectively with marica, nimba, six fruits, with food excluding boiled rice; japa, homa and wor ship of the Sun, sleeping before Sun image and recitation ( japa ) of Gāyatri (Rg. III. 62. 10); divination from several dreams when sleeping before Sun image; the different rewards of worshipping the Sun with various flowers (e. g. fame with lotuses, removal of all leprosy with mandāra, success with Agastya flowers &c.), dinner and gifts to brāhmaṇas of coloured garments, scents, flowers, haviṣya food, cow; KKV 172-180, HV I. 679-685 (both from Bhav. I. 193. 2-21, 194. 1-25 ) and KKV quotes also from Bhav. 
+then on any 7th tithi of any month; brushing the teeth half a prahara ( about four ghaṭikās) before sunrise with the twigs of certain trees, each of which is represented as securing some object ( 0. g. Madhūka gives sons, Arjuna makes fortune firm, Nimba confers prosperity, Aśvattha gives fame &c.); prognostications from the way in which the used brush falls when thrown away; seven saptamis to be observed, first with mustard grains, 2nd with arka buds, 3rd to 7th respectively with marica, nimba, six fruits, with food excluding boiled rice; japa, homa and wor ship of the Sun, sleeping before Sun image and recitation ( japa ) of Gāyatri (Rg. III. 62. 10); divination from several dreams when sleeping before Sun image; the different rewards of worshipping the Sun with various flowers (e. g. fame with lotuses, removal of all leprosy with mandāra, success with Agastya flowers &c.), dinner and gifts to brāhmaṇas of coloured garments, scents, flowers, haviṣya food, cow; KKV 172-180, HV I. 679-685 (both from Bhav. I. 193. 2-21, 194. 1-25 ) and KKV quotes also from Bhav. 
 
 197. 1-10. Siddhivināyakarrata--on śu. 4th tithi worship Ganesa or when 
 

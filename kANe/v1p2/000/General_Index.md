@@ -3741,7 +3741,7 @@ Smrticandrikā, p. 741. Vāmana, author of Kāśikā, p. 757; of
 
 Kāvyālamkārasūtra, p. 169. Vamsabrāhmaṇa, p. 786. Vanisatthappakāsipi, p. 215. Vamsidbara, patron of Sivasahāya, 
 
-p. 405. Vānaprastha, varieties of, p. 258. Vanāyu, p. 219. Vandyaghatiya, p. 711. Varada, commentator of Mahābhā. 
+p. 405. Vānaprastha, varieties of, p. 258. Vanāyu, p. 219. Vandyaghaṭiya, p. 711. Varada, commentator of Mahābhā. 
 
 rata, p. 381. Varadarāja, pp. 815-823. Varāhamibira, pp.170, 445, 700, 7321., 
 
