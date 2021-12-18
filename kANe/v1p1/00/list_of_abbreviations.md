@@ -85,11 +85,11 @@ and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mānava Gș. S
 
 Gessellschaft. Tai. S. = Taittiriya-samhitā. Tri. Cat. = Triennial Catalogue of Madras Government 
 
-Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Visvarūpa. Visnu Dh. S. or Vi=Viṣnudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
+Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Viśvarūpa. Viṣṇu Dh. S. or Vi=Viṣṇudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
 
 Yāj. = Yājsavalkyasmrti. 
 
-History of Dharmaśāstra 
+
 
 भा. गृ. सू. or भाप. गृ. or भाप. गृ. सू. = मापस्तम्बगृह्यसूत्र. आ. गृ. सू. or आ. ध. सू. = आपस्तम्बधर्मसूत्र. ऐ. ब्रा. = ऐतरेयब्राह्मण. | काम. = कामन्दकीयनीतिसार. कौ. = कौटिल्य' अर्थशास्त्र ( Dr. Shamasastri's edition ). गौ. or गौ. ध. सू. = गौतमधर्मसूत्र. चतुर्वर्ग = चतुर्वर्गचिन्तामणि. जीमूत. = जीमूतवाहन. ताण्ड्य. = ताण्ड्यमहाब्राह्मण. तै. आ. = तैत्तिरीयारण्यक. तै. ब्रा. = तैत्तिरीयब्राह्मण. तै. सं. = तत्तिरीयसंहिता. नि. सि. = निर्णयसिन्धु. परा. मा. = पराशरमाधवीय ( B. S. Series ). पा. = पाणिनि's अष्टाध्यायी. पू. मी. सू. = पूर्वमीमांसासूत्र. प्रायश्चित्तम. = प्रायश्चित्तमयूख of नीलकण्ठ. बौ. गृ. = बौधायनगृह्यसूत्र. बौ. ध. सू. = बौधायनधर्मसूत्र. मद. पा. = मदनपारिजात ( B. I. Series ). मनु. = मनुस्मृति, मिता. = मिताक्षरा. मेधा. = मेधातिथि'भाग्य on मनुस्मृति. या. or याज्ञ. = याज्ञवल्क्यस्मृति. वि. चि. =विवादचिन्तामणि of वाचस्पतिमिश्र. वि. र. = विवादरत्नाकर ( B. I. edition ). विश्व. = विश्वरूप on याज्ञ. (Tri. ed.). वीर. - वीरमित्रोदय ( on व्यवहार ed. by Jivananda ). व्य. म. = व्यवहारमयूख of नीलकण्ठ ( P. V. Kane's edition . व्य. मा. = व्यवहारमातृका of जीमूतवाहन. शतपथ or शतपथब्रा. = शतपथब्राह्मण. सं. कौ. = संस्कारकौस्तुभ of अनन्तदेव. सरस्वती° or स. वि. = सरस्वतीविलास. स्मृतिच. = स्मृतिचन्द्रिका (ed. by J. R. Gharpure ). 
 

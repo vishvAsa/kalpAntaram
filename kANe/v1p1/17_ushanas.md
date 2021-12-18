@@ -37,9 +37,9 @@ HST
 
 266 
 
-History of Dharmasastra 
 
-down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Auśanasī Dandanīti. Visvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Uśanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhatithi cites from Uśanas the words 
+
+down to Janainejaya and says that Sukra was one of those who abridged the enormous extent of rājasāstra.a88 The Mudrārāksasa (I. p. 71 Telang's ed. ) also speaks of Auśanasī Dandanīti. Viśvarūpa (on Yaj. I. 307 ) asks the king to appo int ministers in accordance with the views propounded in the śāstras of Bphaspati and Uśanas and quotes a long passage in prose from Bșhaspati in which the sāstras of Manu, Bșhaspati and Uśanas are joined together. This work on politics proba bly contained verses also. Medhātithi on Manu (7. 15 ) quo tes two verses speaking of eight activities of a king 230 So also on Manu 8. 50 Medhātithi cites from Uśanas the words 
 
 prakstīnām balam rājā,' which are an Anustubh pāda. This sūtra work on politics by Uśanas has not yet been discovered. The Tāndya-Mahā brāhmaṇa says that Kāvya Uśanas was the purohita of the Asuras ( 7. 5. 20). 
 
@@ -63,7 +63,7 @@ Daraurch Inctit11
 
 267 
 
-The work is a brief one ( 8 folios ) in seven adhyāyas. Their contents are:- II. impurity on birth and death; purification of certain things in certain ways such as with water, ashies &c. III. the four varvas and the mixed castes such as Rathakāra, Ambastha, Sūta, Ugra, Māgalha &c., the Vrātyas ; IV. no bodily injury to be done to brahmana; prāyascittas for killing a brāhmaṇa or a man of the other varnas and for other Mahā pātakas, prāyaścitta for eating the flesh of certain animals and for eating plants like garlic, prāyaścitta for adultery ; discussion whether a Brāhmana could marry a śūdra woman; prāyaścittas for killing various beasts and birds ; fourteen vidyās; V. śrūddhrakalpa; what Brāhmaṇas are punkti pāvuna; details of śrāddha; food and flesh at śrāddha; who are unfit to be invited at śrāddha; VI. what things a Brāhmaṇa could not sell; VII. punishments for the Maha pātakas; what are pure things at all times. Some of the views of the Auśanasa-dharmaśāstra are worth special notice. The son of a Brāhmana, Ksatriya or Vaisya from a wife, of the varụa immediately next to it belonged to the caste of the father.340 No sin or punishment attached to ope if one killed an atatāyi (armed) Brāhmana. The fourteen vidyās are said to be the six ungas and the four Vedas, Mimiṇsā, Nyāya, Dharmaśāstra and Purana.241 
+The work is a brief one ( 8 folios ) in seven adhyāyas. Their contents are:- II. impurity on birth and death; purification of certain things in certain ways such as with water, ashies &c. III. the four varvas and the mixed castes such as Rathakāra, Ambastha, Sūta, Ugra, Māgalha &c., the Vrātyas ; IV. no bodily injury to be done to brahmana; prāyascittas for killing a brāhmaṇa or a man of the other varṇas and for other Mahā pātakas, prāyaścitta for eating the flesh of certain animals and for eating plants like garlic, prāyaścitta for adultery ; discussion whether a Brāhmana could marry a śūdra woman; prāyaścittas for killing various beasts and birds ; fourteen vidyās; V. śrūddhrakalpa; what Brāhmaṇas are punkti pāvuna; details of śrāddha; food and flesh at śrāddha; who are unfit to be invited at śrāddha; VI. what things a Brāhmaṇa could not sell; VII. punishments for the Maha pātakas; what are pure things at all times. Some of the views of the Auśanasa-dharmaśāstra are worth special notice. The son of a Brāhmana, Ksatriya or Vaisya from a wife, of the varụa immediately next to it belonged to the caste of the father.340 No sin or punishment attached to ope if one killed an atatāyi (armed) Brāhmana. The fourteen vidyās are said to be the six ungas and the four Vedas, Mimiṇsā, Nyāya, Dharmaśāstra and Purana.241 
 
 The work very often quotes the views of others with the words 'eke'; for example it says 'the impurity on birth is ten nights for the parents of the child, but according to sume only for the mother.' 242 The son of a Brāhmana from a sūdra woman is called pārasava, but according to some he is nisāda. The whole of the portion in the ms. about the mixed castes bears a very close resemblance to Baudhāyana (Dh. S. 1. 9) 
 
@@ -79,7 +79,7 @@ FOUNDED
 
 268 
 
-History of Dharmasastra 
+
 
 except in a few particulars.343 At the end of all chapters from the second (except the third ) there are verses and also in the midst. There are verses introduced with the words 
 
@@ -123,7 +123,7 @@ From quotatious in Haradatta's commentary on Gautama and from the Smrticandrikā
 
 270 
 
-History of Dharmaśāstra 
+
 
 dharma viz. ācāra, vyavahāra and prayascitta. For example, the Smṛticandrikā quotes prose passages of Uśanas on anadhyāya (1, p. 59), on duntadhavana (1. p. 106 ) and Haradatta quotes a prose passage on anadhyāya (on Ap. Dh. S. I. 3. 10. I) and a prose passage on the fine for a Kṣatriya abusing a sūdra (on Gau. Dh. S. 12. 10) and on Niyoga ) on Gau. Dh. S. 18. 5). These passages are not found in the ms. But there are others that are found. For example, the Smṛticandrikā quotes two passages, which occur in the mss.249 It appears therefore that the mss. either contain a portion only of the complete Auśanasa-dharma-sūtra or an independent sūtra work. The former alternative looks more probable. The foregoing discussion has shown that the sutra work is later than the dharmasūtras of Gautaina and Vasistha and also than the Manusmrti, which it probably knew in a very ancient version slightly differing from the extant one. 
 
@@ -173,7 +173,7 @@ FOUNDET
 
 1917872 
 
-History of Dharmasastra 
+
 
 a ksatriya from a vaibya wife is a kṣatriya (p. 814 on Vyava hāra ). Aparārka quotes Uśanas dozens of times, about nine quotations being in prose ( most of them on prāyaścitta ). 
 

@@ -13,7 +13,7 @@ Freit &c. 230 tai rataifa, ZZETIRTA: 1 77891749-741-174176at
 
 FirAZTOTT9-7-197-471H-TET Fat-ala 3-a1-are बोल्वातदर्शनी (?) भुक्त्वा प्रतिगृह्य च स्त्रीगमने सहभोजने रहस्य रहस्यातिप्रकाश प्रकाश्यानि चरेत् ।262 
 
-History of Dharmaśāstra 
+
 
 There are several works styled Atri-smrti or samhitā in the mss. One of them is in six chapters on secret prāyścittas, gifts, pitṛmedha and ācāra ( vide I. O. Cat., p. 381, No. 1308). There is another work styled Atrisaṁhitā printed in Jivanau da's collection (part I. pp. 13-46). It contains about 400 verses and deals with the following topics :- importance of honouring guru; duties of four castes; purifications of seveaal mnulus ; virtues of Brāhmanas such as saucu, anusīyā; defini tion of iṣta and pūrta, ten yamas and niyamas; importance of sons; adopted sons; prāyaścittas for taking forbidden food or drink and for other transgressions ; impurity on birth and death; cāndrāyana, Kłchra, Sānta pana ; gifts ; purifications from avoidable contacts with rajasvalā &c. ; Srāddha and the brābmaṇas to be invited for it. 
 
@@ -47,7 +47,7 @@ There is a Vrddhatreyasmrti in Jivananda (part I. pp. 47-59 ) in five chapters a
 
 bhagavan kena dānena' and the works have many verses in common. In the fourth chapter of both the same prose passa ges occur. 
 
-Visvarūpa on Yāj. (III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. 234 
+Viśvarūpa on Yāj. (III. 257 ) quotes two verses from Atri on prāyaścitta which are found in none of the three works described above. 234 
 
 In the Mahabharata (Anuśāsana 65. 1 ) Atri is credited with the view that those who make a gift of gold give (prac tically) all objects. This bears a close resemblance to two verses that occur in Laghvatri (Jivananda part I. p. 5) and Vṭddhātri (part I. p. 51 ).235 
 
@@ -65,7 +65,7 @@ Bhanda Reseai
 
 284 
 
-History of Dharmasastra 
+
 
 Aparārka quotes about a hundred verses of Atri on vari ous topics. Aparırka quotes (on Yāj. III. 61 pp. 966-7) twelve verses of Atri on the repetitions of om, prānāyāma, and the virtues to be practised by him who desires to go into samādhi, 7 verses on Yāj. III. 64 pp. 971-72 on 24 tattvas and purusa as 25th ; on p. 1123 a prose passage on prāyaścitta for partaking of the food of or receiving gifts from actors, dancers and Andhras, Dramidas, Sukas, Kambhojas, Tukk hāras, Valhikas and Khaśas. Sarkarācārya on V. S. III. 40-43, quotes two verses from Smitis, one of which · Arūdho naisthi kam karma &c.' occurs in Atrismṛti VIII, 16 ( Anan. edition ). 
 

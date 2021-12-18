@@ -3,7 +3,7 @@ title = "42 Caturviṁśatimata"
 
 +++
 
-42. Caturvimsatimata There are two Mgs. of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, Yājña valkya, Atri, Visṇu, Vasistha, Vyāsa, Usanas, Apaskambe, 584 पूर्वनष्टा तु यो भूमिमेकश्येदुद्धरेत् क्रमात् । यथाशं तुं लभन्तेन्ये वाचशित 
+42. Caturvimsatimata There are two Mgs. of this work in the Bhandarkar Institute, Poona (No. 244 of A. 1881-1882 and 111 of 1895-1902). It contains 525 verses. The work is so called because it embodies the essence of the teachings of 24 sages, Manu, Yājña valkya, Atri, Viṣṇu, Vasistha, Vyāsa, Usanas, Apaskambe, 584 पूर्वनष्टा तु यो भूमिमेकश्येदुद्धरेत् क्रमात् । यथाशं तुं लभन्तेन्ये वाचशित 
 
 a81494 11 
 
@@ -15,13 +15,13 @@ FOUNDED
 
 511 
 
-Vatsa, Harita, Guru ( Brhaspati), Narada, Parāsara, Gautama, Yama, Baudhāyana, Daksa, Saikha, Aigiras, Sātātapa, Sārkhya (Sārkhyāyana? ), Saṁvarta. The subjects treated of are :-- The usages of the varmas and iframas, sauca, acamana, cleansing the teeth, bath, pranayama, repeating the Gāyatri, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, sam nyāsins, duties of Ksatriyas and the other two varnas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, srāddha, āśauca (on birth and death ). 
+Vatsa, Harita, Guru ( Brhaspati), Narada, Parāsara, Gautama, Yama, Baudhāyana, Daksa, Saikha, Aigiras, Sātātapa, Sārkhya (Sārkhyāyana? ), Saṁvarta. The subjects treated of are :-- The usages of the varmas and iframas, sauca, acamana, cleansing the teeth, bath, pranayama, repeating the Gāyatri, study of the Vedas, marriage, agnihotra, five great daily yajñas, means of livelihood, forest hermits, sam nyāsins, duties of Ksatriyas and the other two varṇas, prāyaścittas for the deadly sins and other lesser misdeeds, means of livelihood, srāddha, āśauca (on birth and death ). 
 
 In the Govt. Mss. library at the B. O. R. Institute (Poona), there is a Ms. bearing No. 111 of 1895-1902 of Caturvimsati mata which contains 526 verses and another No. 244 of A. 1881-82 which has 525 verses. 
 
 The work often quotes the views of Uśanas, Manu, Pārāśarya, Angiras, Yama, Hārita. It quotes Manu III. 5 ( ' asapindi. ca ya.' etc.) and Manu XII. 95 (ya vedabahyah smṛtayah). Two other verges which it contains are indicated as interpolated in several editions of Manu.586 It says that the teachings of Arhat, Cārvāka and Buddha delude people. 588 Its position is that whatever is not found in the Veda or the Puranas, the Rāmāyana, or Mahābhārata or in the sāstras of Manu and others is as good as non-existent. 687 
 
-The Caturviṇsatimata is frequently quoted by the Mit., A parārka and later work8,688 but not by Visvarūpa and 
+The Caturviṇsatimata is frequently quoted by the Mit., A parārka and later work8,688 but not by Viśvarūpa and 
 
 585 वृद्धौ च मातापितरौ साध्वी भार्या शिशुः सुतः । अप्यकार्यशतं कृत्वा भर्तव्या 
 
@@ -39,7 +39,7 @@ and the first half of it occurs in the portancia 588 अर्हच्चार
 
 512 
 
-History of Dharmaśāstra 
+
 
 Medhātithi. It was probably compiled about the time when the latter two writers flourished. Aparārka 589 (p. 1121 ) quotes a prose passage from the work on the prayascitta for a dvijāti procreating children on a Sūdra wife. This passage could not be traced in the two mss. referred to above. 
 

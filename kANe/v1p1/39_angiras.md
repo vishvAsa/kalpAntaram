@@ -3,7 +3,7 @@ title = "39 Aṅgiras"
 
 +++
 
-39. Angiras Angiras is one of the ten primordial sages mentioned in Manusmrti 1.34-35). It is & very ancient oame even in the Rgverle. On Yāj. I. 50 Viśvarūpa quotes a verge of Angiras that what is done according to one's owo will without follow ing the dictates of Sāstra is fruitless.578 On Yaj. III. 248 Visvarūpa says that the vrutie called Vajra wu8 prescribed by Angiras for Brāhmunas guilty of deadly sins. Visvarūpa (on Yāj. III. 255 ) quotes two verses of Argiras on the prayaścitta for killine the wife of a brāhinana who has kindled the sacred fires for killing wives of other brahmanas and ksatriyas and vaisyas. On Yāj. III. 266 he quotes two verses of 
+39. Angiras Angiras is one of the ten primordial sages mentioned in Manusmrti 1.34-35). It is & very ancient oame even in the Rgverle. On Yāj. I. 50 Viśvarūpa quotes a verge of Angiras that what is done according to one's owo will without follow ing the dictates of Sāstra is fruitless.578 On Yaj. III. 248 Viśvarūpa says that the vrutie called Vajra wu8 prescribed by Angiras for Brāhmunas guilty of deadly sins. Viśvarūpa (on Yāj. III. 255 ) quotes two verses of Argiras on the prayaścitta for killine the wife of a brāhinana who has kindled the sacred fires for killing wives of other brahmanas and ksatriyas and vaisyas. On Yāj. III. 266 he quotes two verses of 
 
 Y 
 
@@ -17,11 +17,11 @@ maaia ll 977. Al, vol. III. part I. p. 235. 578 स्वाभिप्रा�
 
 508 
 
-History of Dharmaśāstra 
+
 
 Angiras laying down prāyaścitta for killing certain beasts and birds, wherein Angiras himself is men tioned with honour (bhagavān ). Aparārka (pp. 22-23 ) quotes thirteen verses from Arigiras on the constitution of pariṣad, wherein such terms as cāturvilya, vitarkī, angavid, dharmapāthaka are explained and the last of which says that 
 
-pariṣcıd sitting in judgment over those who are guilty of mahāpāta kas may consist of hundreds. The Mitāksarā ( on Yāj. I. 86 ) quotes several verses on the practice of satī and escribes them to both Saṅkha and Angiras.579 Aparārka (pp. 109, 112 ) quotes four other verses on the same practice, one of which is in the Indravajrā metre and another prohibits & brāhmana wife from following that practice. Medhātithi (on Manu. V. 157 ) quotes the view of Angiras on satī and disapproves of it. The Mitakṣara, Haradatta and others quote numerous verses of Angiras on āsauca and priyaścitta. Haradatta on Gautama (20. I) quotes a verse of Angiras about the seven antyajas, 580 Visvarūpa (on Yāj. III. 237 ) quotes a sutra of Sumantu in which Angirasa is cited as an authority. The Suddhi-mayūkha quotes a verse of Angiras which relies upon Sātātapa.681 The Smṛticandrikā quotes Angiras on the enumeration of Upasmṛtis ( vide note 260 above). The Smșticandrikā also contains a few proge quota tions from Angiras; the same work cites ā verse of Arigiras holding the dharmaśāstra of Manu as the supreme guide.882 
+pariṣcıd sitting in judgment over those who are guilty of mahāpāta kas may consist of hundreds. The Mitāksarā ( on Yāj. I. 86 ) quotes several verses on the practice of satī and escribes them to both Saṅkha and Angiras.579 Aparārka (pp. 109, 112 ) quotes four other verses on the same practice, one of which is in the Indravajrā metre and another prohibits & brāhmana wife from following that practice. Medhātithi (on Manu. V. 157 ) quotes the view of Angiras on satī and disapproves of it. The Mitakṣara, Haradatta and others quote numerous verses of Angiras on āsauca and priyaścitta. Haradatta on Gautama (20. I) quotes a verse of Angiras about the seven antyajas, 580 Viśvarūpa (on Yāj. III. 237 ) quotes a sutra of Sumantu in which Angirasa is cited as an authority. The Suddhi-mayūkha quotes a verse of Angiras which relies upon Sātātapa.681 The Smṛticandrikā quotes Angiras on the enumeration of Upasmṛtis ( vide note 260 above). The Smșticandrikā also contains a few proge quota tions from Angiras; the same work cites ā verse of Arigiras holding the dharmaśāstra of Manu as the supreme guide.882 
 
 The Angiras-smrti (in Jivananda part I, pp. 554-560 ) in 72 verses is probably an abridgment. It lays down prayas cittas for various occasions, such as taking food and drink from antyajus, for cruelly beating or causing various injuries to cows. It also lays down various rules for the wearing of the dark cloth (nīlivastra ) by women. It cites Angiras and Apastamba by name. The penultimate verse condemns those who rob women of their wealth. 
 

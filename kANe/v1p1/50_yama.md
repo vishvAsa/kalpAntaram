@@ -55,13 +55,13 @@ A
 
 524 
 
-History of Dharmasastra 
+
 
 verses are found in both, e. g. the verses about the seven lowest casteg625 ( antyajas ). Verse 11 quotes the view of Sātātapa. This Smṛti contains the well-known text that * woman passes on marriage into the gotra of her husband, which is cited by the Mit. (on Yaj. I. 254 ).828 In the same collection there is a smṛti of Bṛhad-Yama (pp. 99-107 ). It is divided into five chapters and contains 182 verses. It deals with prāyaścittas for various lapses, purification from various kinds of contacts (suddhi), srāddha, partition and a few matters of medical procedure. In this suști Yama is frequently cited by name. Sātātapa is cited on partition ( V. 20). Many of the verses of this text are identical with those of Yama in Jivananda's text. For example, Jivananda (p. 561 ) verses 15-17 are the same as Brbad-Yama III. 1-3, Jivananda p. 563 verses 29-33 are the same as Brhad-Yama III. 34-38, Jivananda verses 35-36 are the same as Brhad-Yama III. 16–17. The verse in the Upajāti metre, Jivananda 44 ) is Brhad-Yama III. 61. Two of the verses at the end of chap. V. are the same as Yāj. II. 17 and 23. 
 
 The pumerous m88. of Yama contain either one or other of the above three texts or different texts bearing on the same topics. For example, the Govt. Mos. Collection at the Bhandarkar Institute, Nos. 209-211 of A 1881-82 and No. 153 of 1895-1902 are the same as the Yamasmrti in the Anandā srama collection. No. 401 of 1891-95 seems to be the same as Brhad-Yama in the Anandāsrama collection. But the I. O. Cat. No. 1334 p. 390 contains 37 slokas, the last 20 of which are in the Indravajrā metre. 
 
-Visvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later works quote over three hundred verses of Yama on all topics of dharmaśāstra including vyavahāra. This establishes that they had an extensive work of Yama before them from which it is probable that various abridgments corresponding with the printed works were made. Visvarūpa quotes about ten verses of Yama on water as purifier (on Yāj. 
+Viśvarūpa, Vijñāneśvara, Aparārka, the Smṛticandrikā and other later works quote over three hundred verses of Yama on all topics of dharmaśāstra including vyavahāra. This establishes that they had an extensive work of Yama before them from which it is probable that various abridgments corresponding with the printed works were made. Viśvarūpa quotes about ten verses of Yama on water as purifier (on Yāj. 
 
 825 रजकश्चर्मकारश्च नटो बुरुड एव च । कैवर्तमेदभिल्लाश्च सप्तैते अन्त्यजाः स्मृताः॥ 
 
@@ -117,7 +117,7 @@ chen
 
 526 
 
-History of Dharmasastra 
+
 
 for killing various kind of birds and insects, for cutting trees and bushes, for drinking wine, for stealing gold and for the other deadly sins etc. 632 
 
@@ -167,6 +167,6 @@ VO
 
 528 
 
-History of Dharmaśāstra 
 
-(lit. killed ) by mere ratiocination (tānyevātipranītāni pa hantavyāni hetubhiḥ ) we should read atipramāṇādi for atipranītāni). Ou pp. 243, 270 there are prose passages. On p. 24, it quotes two Upajāti verses. In the Moksakānda Laksmīdhara quotes on pp. 101, 102 five verses of Yama wbich set out the eight prakṛtis of the Sārkhya system and the 16 vikstis thereof, the 25th tattva viz. 'a vyakta' and adds Purusottama or Visnu as the 26th (pancavimsakam avyaktam sadviṇśaḥ purusottamaḥ 1 Pañcavimśatitattva jño, Yāti Visnoh param padam || In Srāddhakānda Laksmi dhara quotes about 150 verses of Yama ( 17 on pp. 64-65 and 19 on pp. 82-83). Vyavahārakānda quotes about 47 verses of Yama. 
+
+(lit. killed ) by mere ratiocination (tānyevātipranītāni pa hantavyāni hetubhiḥ ) we should read atipramāṇādi for atipranītāni). Ou pp. 243, 270 there are prose passages. On p. 24, it quotes two Upajāti verses. In the Moksakānda Laksmīdhara quotes on pp. 101, 102 five verses of Yama wbich set out the eight prakṛtis of the Sārkhya system and the 16 vikstis thereof, the 25th tattva viz. 'a vyakta' and adds Purusottama or Viṣṇu as the 26th (pancavimsakam avyaktam sadviṇśaḥ purusottamaḥ 1 Pañcavimśatitattva jño, Yāti Visnoh param padam || In Srāddhakānda Laksmi dhara quotes about 150 verses of Yama ( 17 on pp. 64-65 and 19 on pp. 82-83). Vyavahārakānda quotes about 47 verses of Yama. 

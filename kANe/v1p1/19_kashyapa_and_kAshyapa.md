@@ -3,7 +3,7 @@ title = "19 Kaśyapa and Kāśyapa"
 
 +++
 
-19. Kasyapa and Kasyapa Baudhayana ( Dh. S. I. 11. 20) cites a verse which con tains the view of Kaśyapa that a woman who is bought can. not be a patnī and that she is not authorised to take part in religious ( daiva ) rites or rites for the Manes.254 This verse is ascribed to Katyayana in the Smrticandrika ( I. p. 87 ). The Vanaparva quotes gāthcs of Kāśyapa on forbearance ( 29. 35-40). Whether Kaśyapa and Kāśyapa are two different writers of dharmasūtras it is rather difficult to say. Probably they are identical. It appears that the dharmasūtra of Kāśyapa comprised all the usual topics of dharmasūtras, such as daily duties, sraddha, asauca, prayascitta. This sutra has been quoted by all eminent writers from Visvarūpa down wards. Visvarāpa quotes Kasyapa (in prose ) on the priya scitta for contact with candila 8866 and for killing a cow when the sinner is a brāhmana or a member of another caste. 288 The Mit. (on Yaj. III. 23) quotes a prose passage from Kāsyapa on freedom from impurity on death of infants.257 The quotations in the Smṛticandrikā on āhnika and traddha are all in verse. Haradatta on Gautama (22. 18 ) quotes a sūtra on the prāyaścitta for govadhu, 258 which is also quoted by Visvarūpa. Haradatta (on Gaut. 23. 26 ) quotes a very long sūtra on the prāyascittu for eating several things and doing 
+19. Kasyapa and Kasyapa Baudhayana ( Dh. S. I. 11. 20) cites a verse which con tains the view of Kaśyapa that a woman who is bought can. not be a patnī and that she is not authorised to take part in religious ( daiva ) rites or rites for the Manes.254 This verse is ascribed to Katyayana in the Smrticandrika ( I. p. 87 ). The Vanaparva quotes gāthcs of Kāśyapa on forbearance ( 29. 35-40). Whether Kaśyapa and Kāśyapa are two different writers of dharmasūtras it is rather difficult to say. Probably they are identical. It appears that the dharmasūtra of Kāśyapa comprised all the usual topics of dharmasūtras, such as daily duties, sraddha, asauca, prayascitta. This sutra has been quoted by all eminent writers from Viśvarūpa down wards. Viśvarāpa quotes Kasyapa (in prose ) on the priya scitta for contact with candila 8866 and for killing a cow when the sinner is a brāhmana or a member of another caste. 288 The Mit. (on Yaj. III. 23) quotes a prose passage from Kāsyapa on freedom from impurity on death of infants.257 The quotations in the Smṛticandrikā on āhnika and traddha are all in verse. Haradatta on Gautama (22. 18 ) quotes a sūtra on the prāyaścitta for govadhu, 258 which is also quoted by Viśvarūpa. Haradatta (on Gaut. 23. 26 ) quotes a very long sūtra on the prāyascittu for eating several things and doing 
 
 254 क्रीता द्रव्येण या नारी सा न पत्नी विधीयते । 
 
@@ -49,7 +49,7 @@ The Vanaparva ( 29. 35-40) sets out five gathās which Kāśyapa declared about 
 
 276 
 
-History of Dharmaśāstra 
+
 
 Prof. T. R. Chintamani contributed a paper (in which he edited a Dharma--śāstra based on four mss. ) to the J. O. R. (Madras) vol. XIII. pp. 267-282 with an appendix containing passages and verses attributed to Kāśyapa (pp. 283-292 ) by Viśvarūpa, Vijñāneśvara, Aparārka and others not found in those mss. Aparārka mentions Kāśyapa 13 times ( almost all verses except on p. 922 which is in prose) and Kaśyapa six times. 
 

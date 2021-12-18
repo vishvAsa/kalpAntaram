@@ -7,7 +7,7 @@ title = "21 Cyavana"
 
 277 
 
-The Anuśnsanaparva ( 18.38 ) states that Garga acquired on the banks of the Sarasvati astronomy with its 64 angas. In the same parure it is said that vrddha-Gārgya inquired about vrgotsarga ( 125. 77 ff). Salya parva ( 37. 14-15 ) narra tes that oli Garya by his tapis acquired on the sacred Sara svatī knowledge of Kāla, movements of the planets, of evil and good ut pātas and that the place is therefore called Gargasrotas. This astronomer Garva is probably different from the Dharma sāstra writer Garga. Vide H. of Dh. Vol. V. pp. 591-92, 741 42, 765 for Garga, the astronomer. Visvarūpa on Yāj: 1. 25 quotes a verse of Gārgya on the proper times for morning Sundhyā and evening Sandhya and a prose passage of Vrddha Gārgya on Yij. I. 195 (p. 136 ). 
+The Anuśnsanaparva ( 18.38 ) states that Garga acquired on the banks of the Sarasvati astronomy with its 64 angas. In the same parure it is said that vrddha-Gārgya inquired about vrgotsarga ( 125. 77 ff). Salya parva ( 37. 14-15 ) narra tes that oli Garya by his tapis acquired on the sacred Sara svatī knowledge of Kāla, movements of the planets, of evil and good ut pātas and that the place is therefore called Gargasrotas. This astronomer Garva is probably different from the Dharma sāstra writer Garga. Vide H. of Dh. Vol. V. pp. 591-92, 741 42, 765 for Garga, the astronomer. Viśvarūpa on Yāj: 1. 25 quotes a verse of Gārgya on the proper times for morning Sundhyā and evening Sandhya and a prose passage of Vrddha Gārgya on Yij. I. 195 (p. 136 ). 
 
 21. Cyavana Cyavana is a famous name in the Rgveda. The Asvins are often praised as having endowed the old and aging Cya vana with youth (vide Rg. 1. 117. 13, 1. 118. 6, VII. 71. 5, X. 39. 4). The Mahabharata spins certain stories on Cyavana in Adiparva, chap. 6 and 8, Vanaparva chap. 122-124, Āýva medhika 10. 32. He married Sukanya, daughter of king Saryāti, and the Asvins made him young and handsome. He theu helpeil the Asvips to get a share in Soma offerings after paralysing the arm of Indra who at first opposed this. 
 
@@ -21,6 +21,6 @@ AM
 
 278 
 
-History of Dharmaśāstra 
+
 
 Rg. Mantras and on pp. 1103, 1190, 1199 provides expiation (in prose) for causing the death of a cow, for one who touches or carries to tbe cemetery or cremates a suicide, and for close contact of Cāudālas with houses, earthenots and states that for children, the ayed and women the expiation is only half of what is prescribed for grown-up inen. Apurārka quotes only one verse on Yāj. III. 264-265 as mild expiation in cer tain cases of causing the death of a cow. The Mit. on Yāj. III. 30 cites a long prose passage as regards the times when a bath with clothes on is necessary. 

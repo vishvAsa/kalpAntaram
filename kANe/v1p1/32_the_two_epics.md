@@ -3,7 +3,7 @@ title = "32 The Two Epics"
 
 +++
 
-32. The Two Epics The two great Epics of India, the Mahābhārata and the Rāmāyaṇa, contain ( particularly the first) numerous passa ges bearing on meny topics of Dharmaśāstra and are relied upon as authorities in medieval and later works. The Mabu bhārata itself claims (in Adiparva, 2. 83) that VyDS composed the work as a great Dharmaśāstra, as Arthasastra ( treatise on politics and Government), Moksasistra and also 
+32. The Two Epics The two great Epics of India, the Mahābhārata and the Rāmāyaṇa, contain ( particularly the first) numerous passa ges bearing on meny topics of Dharmaśāstra and are relied upon as authorities in medieval and later works. The Mabu bhārata itself claims (in Adiparva, 2. 83) that VyDS composed the work as a great Dharmaśāstra, as Arthasastra ( treatise on politics and Government), Moksaśāstra and also 
 
 POONA 
 
@@ -11,9 +11,9 @@ POONA
 
 350 
 
-History of Dharmaśīstra 
 
-Kāmaśāstra.868 In the last parvan it claims that whatever is said in it would be found elsewhere and what is not con tained in it would not be found anywhere else i.e. it claims to be encyclopoedic and hence there was a great incentive to later scholars to add to it fresh matter. In the Udyoga parva (130. 18 ) and in Adi, 62. 20 the Mahābhārata is spoken of as Jaya (jayo nāmetihāsoyam śrotavyo vijigīsunā ) and in the last pwrvan ( 5.51 ) the epic is also called sumlitā (1. 16, 63. 90), Purina ( 1. 17), akhyina (2. 388-389 ), itihisa ( 1. 19 and 26 and 2.36, 41 and 62. 18), itihisottama (in 2.385), Kavya (1. 61 and 73, 2. 390 ), Karsnaveda ( 1. 268 and 62. 18). It further states ( Adi. 1. 52 ) that different beginnings of the epic existed. In the last parvan ( svargarohana ) it states that the epic is so called because of its greatness360 ( great extent) and the weightiness (of its contents ) and that the epic is equal (in importance ) to the 18 Purānas, all the Dharma Śāstras and the Vedas with their subsidiary lores (chap. 5 45-46 ). Adi (1.81) states 310 that there are 8800 ślokus in the whole work, the import of which only Vyūsu and Suka know and Sanjaya might know or not.371 It is further stated that 
+
+Kāmaśāstra.868 In the last parvan it claims that whatever is said in it would be found elsewhere and what is not con tained in it would not be found anywhere else i.e. it claims to be encyclopoedic and hence there was a great incentive to later scholars to add to it fresh matter. In the Udyoga parva (130. 18 ) and in Adi, 62. 20 the Mahābhārata is spoken of as Jaya (jayo nāmetihāsoyam śrotavyo vijigīsunā ) and in the last pwrvan ( 5.51 ) the epic is also called sumlitā (1. 16, 63. 90), Purina ( 1. 17), akhyina (2. 388-389 ), itihisa ( 1. 19 and 26 and 2.36, 41 and 62. 18), itihisottama (in 2.385), Kavya (1. 61 and 73, 2. 390 ), Karsnaveda ( 1. 268 and 62. 18). It further states ( Adi. 1. 52 ) that different beginnings of the epic existed. In the last parvan ( svargarohana ) it states that the epic is so called because of its greatness360 ( great extent) and the weightiness (of its contents ) and that the epic is equal (in importance ) to the 18 Purāṇas, all the Dharma Śāstras and the Vedas with their subsidiary lores (chap. 5 45-46 ). Adi (1.81) states 310 that there are 8800 ślokus in the whole work, the import of which only Vyūsu and Suka know and Sanjaya might know or not.371 It is further stated that 
 
 368 अर्थशास्त्रमिदं प्रोकं धर्मशास्त्रमिदं महत् । कामशास्त्रमिदं प्रोक्तं व्यासेनामित 
 
@@ -49,7 +49,7 @@ Bhārata means the epic without the upākhyānas ( tales ) and contaius 24000 ve
 
 372352 
 
-History of Dharmaśāstra 
+
 
 ted it to Saunaka and others. Therefore, the author for the extant Mahābhārata is Sauti and Vyāsa is only connected with it mediately. In this respect it differs from the Rāmā yana, the author of which is Valmiki according to all. Janamejaya Pāriksita is a famous name in Indian Antiquity. In the Ait. Br. (VIII. 21 ) it is stated that Tura Kāvaseya performed the Aindra Mahābhiṣeka for Janamejaya Pāriksita, who conquered the whole earth and performed the Afvamedha sacrifice and there is recited a Yajña-gāthā with regard to te it. He is mentioned also in the Satapatha Br. XIII. 5.4.1). What became of the other Samhitās said to have been com posed by the other disciples of Vyāsa is not known. 
 
@@ -61,7 +61,7 @@ In the present edition (of the H. of Dh.) the Chitrasalā edition of the Mahābh
 
 URF T 4: 11 D. AT VIII. 7. 374 gg-Harapat-das-HF1-97794 -4777-HETHRA - faret: 
 
-(Tere) i 379. . . III. 4. 4. The 27 E omits to HERTTUfaref; and adds aftor the word prog ress 07174-HUSHIUSOJT: , traff are maî' &c. od. by Dr. 8. Sehgal, 1980 Since completod, 
+(Tere) i 379. . . III. 4. 4. The 27 E omits to HERTTUfaref; and adds aftor the word prog ress 07174-HUSHIUSOJT: , traff are maī' &c. od. by Dr. 8. Sehgal, 1980 Since completod, 
 
 FOUNDED 
 
@@ -121,7 +121,7 @@ onāndorkar
 
 354 
 
-History of Dharmaśāstra 
+
 
 (Berlin, 1895 ), 'Mahabharata, a criticism' by C. V. Vaidya ( 1903 ); The riddle of the Rāmāyana,' by C. V. Vaidya (1906); 'Das Mahābhārata, seina Eustehung, Sein Inhalt, seine Form' by Oldenberg (Gottingen, 1922 ); M. Winter nitz's History of Indian Literature' vol. I (Calcutta, 1927 ) pp. 475-517; Dr. V. S. Sukhthankar published several Epic Studies in JBBRAS (New Series ) Vol. IV, pp. 185–202, Vol. XI pp. 165-191, 259-283, Vol. XVI. pp. 70-113, Vol. XVII, pp 185-202, vol. XVIII pp. 1-76, Vol. XIX pp. 20-262 and in Kane Festschrift pp. 472-487 on "Rāmo pākhyāna and the Rāmāyana,” in which he details 86 verbal agreements between the two; Dr. V. S. Sukhthankar's four lectures on 'The meaning of the Mahābhārata' (1942), three of which were delivered and he passed away suddenly before the 4th could be delivered; this last is monograph No. 4 of the Bombay Asiatic Society ; State and Government in ancient India' by Prof. A. S. Altekar ( Benaras ); • History of Indian Political Ideas' by Dr. U. N. Ghoshal (1959); Political Theory of Ancient India ' by I. W. Spellman (Oxford 1964 ); Rev. C. Bulcke's. Rāmakathā, Utpatti aur Vikāna,' Allaha bad, 1950; and a paper on the Raināyana its history and character' in Poona Orientalist Vol. XXV pp. 36-60 and "Three Rāmāyana Recensions " in J. O. R. ( Madras ) vol. 17 pp. 1-32. 
 
@@ -161,7 +161,7 @@ FOUNDEI 1917
 
 356 
 
-History of Dharmaśāstra 
+
 
 It has been shown above that the Asv. gr. sūtra, which represents the last phase of Vedic literature, includes the ācāryas of Bharata, Mahābhārata and Dharma among the sages in the daily tarpuṇa. The Mārkandeya-purana starts by saying that it has four doubts as to Bharata (vide H. of Dh. Vol. V, p. 901 for the four questions and p. 903 for the date ). The Mrcchakatika (III. 12 ) refers to the Sauptika parva ( mārgo hyesa narendra-Sauptikavadhe pūrvam kṛto Drauninā). In several places where the Vedāntasūtra relies on Smrti for support Sarkarācārya quotes only verses from the Mahābhārata.377 For example, on V. S. II. 3. 47 ( smaranti ca ) he quotes only two verses of the Mahabharata. Vide note below. This establishes that Sarkarācārya held that the Mahābhārata including the Sāntiparva ( which modern critics regard as interpolated later ) was earlier than the Vedānta sutra. The present author has attempted to establish that when the Gitā ( in 13.4 ) speaks of Brahmasutrapadas it does not refer to the Brahmasūtra of Būlarāyana but to several Brahmasutras such as those of Bādari, Audulomi and Asma rathya ( vide H. of Dh. Vol. V. pp. 1173-74). Sabara in his bhāsya on the Pūrvamimumsi-sūtra quotes passages from the present Mahābhāratza text; vide a paper in Sukthankar volume pp. 221-229 by Prof. V. M. Apte and D. V. Garge. 
 
@@ -211,7 +211,7 @@ OUNC 191
 
 358 
 
-History of Dharmaśāstra 
+
 
 parva (199. 13-15); Slokas by one who ponders over dharma as in Sauptika ( 1.53-55). Then many slokas and gāthās are quoted as Anuvassa or simply as Anuvassam (meaning genealogies handed down in families ) e. g. Vanaparva 129. 8 says'atrānuvamsam pathatah śruṇu me kurunandana' and then quotes two verses. For ' Anuvamsam,' vide also Vana parva 87. 16-17 (yatrānuvainsam bhagavān Jāmadagnyag tathā jagau). For Anuvaṁsa slokas, vide Adiparva 95.8 ( for song878 of Devayani and Sarmiṣtha ). 
 
@@ -241,17 +241,17 @@ RS
 
 359 
 
-Patañjali's Mahābhāsya we learn a good deal about some of the prominent personages of the Mahābhārata, their associates, enemies and their doings. 
+Patañjali's Mahābhāṣya we learn a good deal about some of the prominent personages of the Mahābhārata, their associates, enemies and their doings. 
 
 There are in the Rāmāyana hardly any Anuvamsya ślokas referring to Dasaratha or Rama. According to tbe Sarvānu kramaṇi Rāma, son of Jamadugni, is the seer of Rg. X. 110. Rāma appears to be the name of some person in Rgveda X. 93.14. Rūma Mārgaveya is the name of a person of the priestly family of Syāparna in the Ait. Br. VII. 5. 1. 
 
-In Pan. IV. 3. 98 Vasudevaka, 381 a devotee of Vāsudeva, and Arjunaka (a devotee of or one who likes Arjuna ) are derived in the sense of bhakti' (IV. 3. 95). In VIII. 3. 95 (gaviyudhibh yām 382 sthirah ) the nome Yudhisthira, one of the principal personages in Mahābhārata, is mentioned. On Vārtika 7 (bhrātusca jyāyasah) on Pin. II. 2. 34 ('alpac taram') Patañjali states the example' Yudhiṣthirārjunau,' where the word Yudhisthira is put before Arjuna, though it has four vowels, because of his being the elder. In VI. 2. 38 Pārini provides for the accent (svara) of 'mahān' occurring in the compound Mahābhārata ( along with nine other words ). Vārtika 7 on Pan. IV, 1. 85 provides for the name : Asvat thāmah.' Kielhorn brings together (in I. A. vol. XIV pp. 326-27 ) all the verse quotations ( of either whole verses or half verses or pādas ) cited by Patañjali in the Mahābhāsya. 
+In Pan. IV. 3. 98 Vasudevaka, 381 a devotee of Vāsudeva, and Arjunaka (a devotee of or one who likes Arjuna ) are derived in the sense of bhakti' (IV. 3. 95). In VIII. 3. 95 (gaviyudhibh yām 382 sthirah ) the nome Yudhisthira, one of the principal personages in Mahābhārata, is mentioned. On Vārtika 7 (bhrātusca jyāyasah) on Pin. II. 2. 34 ('alpac taram') Patañjali states the example' Yudhiṣthirārjunau,' where the word Yudhisthira is put before Arjuna, though it has four vowels, because of his being the elder. In VI. 2. 38 Pārini provides for the accent (svara) of 'mahān' occurring in the compound Mahābhārata ( along with nine other words ). Vārtika 7 on Pan. IV, 1. 85 provides for the name : Asvat thāmah.' Kielhorn brings together (in I. A. vol. XIV pp. 326-27 ) all the verse quotations ( of either whole verses or half verses or pādas ) cited by Patañjali in the Mahābhāṣya. 
 
 381 
 
 382 
 
-7: I apcalfarizi g7 11. IV. 3. 95 and 98 ; Hyd gaya sa Hlai: I . FT. The Mahābhāsya explains that Vasudeva is not merely the naine of a Kyatriya but that it is \# designation of the Divine. ya gramat FTT: 1 91. VIII. 3. 95 ( examples fafer: TETET:). The word 'Bhakti' in the sense of worship occurs in ASTRITET97 VI. 23. The word of th: relates back to the Paart: ( 91. IV. 3,89) and also reaches forward. Therefore bhakti' in "Pāṇini' has a wider sonse than mere worship; it also means 'resort', 'liking' as in ' A pupika'( npūrā bhaktir-anya ), the songe of object of worship is not excluded from the word 'bhakti' in Panini, but that word in larger in meaning than worship’in Panini. Therefore, in IV. 3. ( Vasudevārjunābbykin run) it is quite correct to tell 
+7: I apcalfarizi g7 11. IV. 3. 95 and 98 ; Hyd gaya sa Hlai: I . FT. The Mahābhāṣya explains that Vasudeva is not merely the naine of a Kyatriya but that it is \# designation of the Divine. ya gramat FTT: 1 91. VIII. 3. 95 ( examples fafer: TETET:). The word 'Bhakti' in the sense of worship occurs in ASTRITET97 VI. 23. The word of th: relates back to the Paart: ( 91. IV. 3,89) and also reaches forward. Therefore bhakti' in "Pāṇini' has a wider sonse than mere worship; it also means 'resort', 'liking' as in ' A pupika'( npūrā bhaktir-anya ), the songe of object of worship is not excluded from the word 'bhakti' in Panini, but that word in larger in meaning than worship’in Panini. Therefore, in IV. 3. ( Vasudevārjunābbykin run) it is quite correct to tell 
 
 Vasudevaka'ay menning worshipper of Vāsudova, while Arjunaka may moan one who has a liking for Arjuna or who worshire 
 
@@ -261,9 +261,9 @@ Bhandar Resear
 
 360 
 
-History of Dharmaśāstra 
 
-On Pān. 1V. 1. 97 ( sulhātur-akañ ca ) the first vārtika is "Sudhātr-vyñsayoh' and we get Vaiyñsakih' ( as son of Vyāsa ) i. e. Suka ‘and Mahābhāsya on it says Vaiyasakiḥ Sukaḥ'). Some of the verses or their parts are very important and interesting about the heroes of the Mahābhārata. On Vārtika 22 on Pān. II. 2. 24 we have two quotations, viz. 
+
+On Pān. 1V. 1. 97 ( sulhātur-akañ ca ) the first vārtika is "Sudhātr-vyñsayoh' and we get Vaiyñsakih' ( as son of Vyāsa ) i. e. Suka ‘and Mahābhāṣya on it says Vaiyasakiḥ Sukaḥ'). Some of the verses or their parts are very important and interesting about the heroes of the Mahābhārata. On Vārtika 22 on Pān. II. 2. 24 we have two quotations, viz. 
 
 asidvitiyosnusasāra Pāndavam' (he, armed only with a sword, followed the Pandu hero ) and 'Sarkarsana-dvitiyasya balam Kșsnasya vardhatim' (in this both Krona and his brother Saṅkarsana are mentioned ). The first quotation (on II. 2. 24 ) clearly shows that it must have been taken from some work dealing with Pandava heroes. Another interesting quotation is 'Dhanañjayo rane rane' on' Vārtika 3 on Pān. III. 3. 58. It is well-known that Arjuna was called Dhananjaya (vide Bhagavadgitā X. 37 Pāṇdavānām Dhananjayaḥ'). 
 
@@ -309,9 +309,9 @@ FOU
 
 m862 
 
-History of Dharmaśāstra 
 
-Before proceeding to examine these four passages relied upon by Hopkins a few words must be said about the present text of the Mahābhārata. There are three elements in it, viz. the bare story of the Pandava - brothers and their cousins (usually referred to as Kauravas ), the upākhyānas ( abound ing in the Vanaparva and scattered about in other parvans also ) concerning gods, sages, brāhmanas, kings and others and didactic matter insisting on doing one's duties and the role of dharma as in Udyoga 148. 16 'yato dharmastato jayaḥ' and in Kunti's last message to Yudhisthira in Asramavāsika parva 17.21 Dharme te dhiytām budhir-manastu mahad-astu ca' and philosophy (Saṅkhya, Yoga, Vedānta ). There was, therefore, great scope at all times for adding stories and didactic matters. Thus the Mahābhārata became very much inflated by additions made at different times. Anyone could add a story by saying 'atrāpyudāharantimam itihāsam purātanam'. In the Anusāsana parvan alone in 25 chapters stories are introduced with these words, apart from several stories introduced in a different manner. Chap. 98 of that parvan is remarkable. There Bhisma introduces ( in the words 'atrāpyudīharanti') the story of a dialogue between Manu Prajāpati and one Suvarna who asks how the practice of the worship of deities with flowers originated and what the rewards of such worship are. Then Manu cites the story (again with the words 'atrāpyu' etc.) of the dialogue between Sukra and Bali Vairocana. Two examples may be cited about Rāma story being interpolated by devotees and enthusiasts. In chap. 74 of the Anuśñsana, apart from the evil results of the killing of a cow, the merit issuing from the gifts of cows or gold is praised and the chapter is wound up (verses 11-14) by Bhīṣma who says that he learnt all this from bis Upā dhyāya to whom it came from the sages, to whom Laksmana imparted the story in the forest which Rāma had heard from his father Daśaratha who learnt it from Indra. Another similar example occurs in chap. 137 of the same parvan, which names numerous great men of the past that achieved highest worlds hy making gifts of various kinds, among whom Rāma (in verse 14), son of Dasaratha, is mentioned as having reached inexhaustible worlds by offerings in yajñas. 
+
+Before proceeding to examine these four passages relied upon by Hopkins a few words must be said about the present text of the Mahābhārata. There are three elements in it, viz. the bare story of the Pandava - brothers and their cousins (usually referred to as Kauravas ), the upākhyānas ( abound ing in the Vanaparva and scattered about in other parvans also ) concerning gods, sages, brāhmanas, kings and others and didactic matter insisting on doing one's duties and the role of dharma as in Udyoga 148. 16 'yato dharmastato jayaḥ' and in Kunti's last message to Yudhisthira in Asramavāsika parva 17.21 Dharme te dhiytām budhir-manastu mahad-astu ca' and philosophy (Saṅkhya, Yoga, Vedānta ). There was, therefore, great scope at all times for adding stories and didactic matters. Thus the Mahābhārata became very much inflated by additions made at different times. Anyone could add a story by saying 'atrāpyudāharantimam itihāsam purātanam'. In the Anusāsana parvan alone in 25 chapters stories are introduced with these words, apart from several stories introduced in a different manner. Chap. 98 of that parvan is remarkable. There Bhisma introduces ( in the words 'atrāpyudīharanti') the story of a dialogue between Manu Prajāpati and one Suvarṇa who asks how the practice of the worship of deities with flowers originated and what the rewards of such worship are. Then Manu cites the story (again with the words 'atrāpyu' etc.) of the dialogue between Sukra and Bali Vairocana. Two examples may be cited about Rāma story being interpolated by devotees and enthusiasts. In chap. 74 of the Anuśñsana, apart from the evil results of the killing of a cow, the merit issuing from the gifts of cows or gold is praised and the chapter is wound up (verses 11-14) by Bhīṣma who says that he learnt all this from bis Upā dhyāya to whom it came from the sages, to whom Laksmana imparted the story in the forest which Rāma had heard from his father Daśaratha who learnt it from Indra. Another similar example occurs in chap. 137 of the same parvan, which names numerous great men of the past that achieved highest worlds hy making gifts of various kinds, among whom Rāma (in verse 14), son of Dasaratha, is mentioned as having reached inexhaustible worlds by offerings in yajñas. 
 
 Not only were tales interpolated but there are everal repetitions in the Mahābhārata. A few examples may be noted. There is in Sānti ( chap. 227 ) an enlarged version of 
 
@@ -325,7 +325,7 @@ FOUNDED
 
 the brief dialogue between Indra and Bali in chap. 223; chap. 175 ( dialogue between father and son ) is practically the same as chap. 277. Salya 38. 39-45 are the same as Vanaparva 83. 116-121. The Sodasarājakiya occurs twice, once in the Droṇa parva (chap. 55–71) and again in the Kantiparva chap. 29. The story of Āstika occurs twice, iu Adi 13ff and in chap. 48ff again. 
 
-The literature known to the Mahabharata furnishes some data for making a statement about the probable date of the extant text of the epic. But as the present text is very much inflated owing to additions made at different times, it would be impossible to assign definite dates, and references to Vedas and Brāhmana works need not be cited. The six Angas are mentioned in Adi. 170. 75. In Sāuti 312. 38 the Naighantu ka-padas are mentioned and the word Vrsa therein. The Nirukta of Yaska and its explanation of the word ' sipivista ' ( which occurs in Rg. VII. 100. 65-7) is mentioned in the Sāntiparva.386 The Nirukta (V.8) gives the explanation of the word provided by Aupamanyava which is derogatory ( to Viṣnu), wbile Yāska appears to prefer a laudatory sense and applies the word to Viṣnu (as Surya), meaning 'in which rays enter on all sides )'. The Sānti (310. 21-22 ) mentious that Bphaspati knew (composed ? ) the Vedāngas, Bhargava Niti sāstra ( politics ), Nārada music ( Gāndharva ), Bhāradvāja archery, Gārgya the doings of Devull, Kronātreya medicine, and some disputants ( composed ) several sidehāntas based on logic (such as Tārkika, Vaiseṣika and Kāpila ). It will be stat ed in the section on Manusmrti how hundreds of verses are common to the Mabābhārata and the Manusmrti. In the Anuśāsana we have (in 47.35 ) mention of the Sāstra declared by Manu. Itihasa and Purāna are called the fifth Veda as early as the Chāndogya Up. VII. 1. 2-4 and the Satapatha Brāhmana requires that in the Pāriplava some Purana and Itihāsa passages were to be recited on the 8th and 9th days respectively. Therefore, the numerous references to Purāna in the Great Epic are not here set out. It is important to note that a Purāna declared by Vāyu is mentioned in Vana Parva (191. 16). The Svargarohanaparva ( 5. 46-47 ) states that there are 18 Puranas composed by Krsna Dvaipāyana. 
+The literature known to the Mahabharata furnishes some data for making a statement about the probable date of the extant text of the epic. But as the present text is very much inflated owing to additions made at different times, it would be impossible to assign definite dates, and references to Vedas and Brāhmana works need not be cited. The six Angas are mentioned in Adi. 170. 75. In Sāuti 312. 38 the Naighantu ka-padas are mentioned and the word Vrsa therein. The Nirukta of Yaska and its explanation of the word ' sipivista ' ( which occurs in Rg. VII. 100. 65-7) is mentioned in the Sāntiparva.386 The Nirukta (V.8) gives the explanation of the word provided by Aupamanyava which is derogatory ( to Viṣṇu), wbile Yāska appears to prefer a laudatory sense and applies the word to Viṣṇu (as Surya), meaning 'in which rays enter on all sides )'. The Sānti (310. 21-22 ) mentious that Bphaspati knew (composed ? ) the Vedāngas, Bhargava Niti sāstra ( politics ), Nārada music ( Gāndharva ), Bhāradvāja archery, Gārgya the doings of Devull, Kronātreya medicine, and some disputants ( composed ) several sidehāntas based on logic (such as Tārkika, Vaiseṣika and Kāpila ). It will be stat ed in the section on Manusmrti how hundreds of verses are common to the Mabābhārata and the Manusmrti. In the Anuśāsana we have (in 47.35 ) mention of the Sāstra declared by Manu. Itihasa and Purāṇa are called the fifth Veda as early as the Chāndogya Up. VII. 1. 2-4 and the Satapatha Brāhmana requires that in the Pāriplava some Purana and Itihāsa passages were to be recited on the 8th and 9th days respectively. Therefore, the numerous references to Purāṇa in the Great Epic are not here set out. It is important to note that a Purāṇa declared by Vāyu is mentioned in Vana Parva (191. 16). The Svargarohanaparva ( 5. 46-47 ) states that there are 18 Puranas composed by Krsna Dvaipāyana. 
 
  
 
@@ -339,7 +339,7 @@ THETET II TF 342–73.
 
 364 
 
-History of Dharmaśāstra 
+
 
 Upavedas are mentioned in Drona parva 202. 75. Dhanur. veda is mentioned in Santi 49. 32, 50. 233 and 167. 31. 
 
@@ -375,7 +375,7 @@ FOUNDED 1917
 
 (188. 10 ) 'there is no difference among the (four) varṇas; this world is Brāhma (belongs to Brahmā ), because it was formerly created by Brahmā and was, (later) reduced to differ ent varṇas by their (diverse) actions'. The Santiparva annou nces Truthfulness, charity, freedom from hatred and wickedness, humility, kindness and tapas,-where these are seen, he is known as brāhmana. If these characteristics are found in a sūdra and these do not exist in a twice-born person then the Sūdra is not a sūdra and the so-called brāhmaṇa is not a brāhmaṇa. This approaches the teaching of the Dha mmapada verses 383, 393 (yamhi satyam ca dhammo ca 80 sukhi 80 ca brāhmanah). Similiarly, in Anuśāsana 115 Yudhisthira asked Bhisma 'you have often declared that ahimeā is the highest dharma and you also said that in śrāddhas the pitre desire to have flesh offered'. Buddhist vibāras ( Vana° 188. 56 ) had come into existence and Eļūkas (structures over the bones of the dead); are mentioned in Vana parva ( 90. 65, 67). A naked Ksapanaka ( Digambara Jain) is mentioned in Adi 3. 126; in Santi 232. 21388 the Jain posi tion seems to have been alluded to and also in Afvamedhika 49. 2. In Adiparva 70. 46 it is stated that in Kanva's hermi tage there were leaders of Lokāyatika views along with students of Vedas and Moksadharma. 
 
-On Pāṇ. III. 2. 111 the Mahābhāsya cites jaghāna Kam sam kila Vāsudevaḥ' (on Vārtika 2 ' parokte ca lokavijñāte prayoktur-darsana visaye') and on Vārtikas 6 and 15 the Mahābhāsya makes very interesting remarks about Kansa vadha (the killing of Kamsa by Krona ) described in stories, drawn in paintings and represented in dramas; vide Vol. V. p. 130 notes 329-30 and p. 203 note 521. The Mahābhāsya asks the question bow one can use the present tense (in Kamsam ghātayati) when Kamsa was killed in antiquity. That shows that centuries before the Mahābhāsya ) works (stories and dramas ) had been composed on the killing of 
+On Pāṇ. III. 2. 111 the Mahābhāṣya cites jaghāna Kam sam kila Vāsudevaḥ' (on Vārtika 2 ' parokte ca lokavijñāte prayoktur-darsana visaye') and on Vārtikas 6 and 15 the Mahābhāṣya makes very interesting remarks about Kansa vadha (the killing of Kamsa by Krona ) described in stories, drawn in paintings and represented in dramas; vide Vol. V. p. 130 notes 329-30 and p. 203 note 521. The Mahābhāṣya asks the question bow one can use the present tense (in Kamsam ghātayati) when Kamsa was killed in antiquity. That shows that centuries before the Mahābhāṣya ) works (stories and dramas ) had been composed on the killing of 
 
 STITU 
 
@@ -389,11 +389,11 @@ FOUNDE
 
 366 
 
-History of Dharmaśāstra 
+
 
 Kamsa by Kṛsụa. That some verses quoted by the Maha bhāsya are found in the Mahabharata is shown in the note below. 380 
 
-The date of the Mahābhāsya is generally accepted to be about 150 B, C.; vide (pp. 75-79 above). It quotes a quarter of a verse stating that some person followed the Pandava hero with only a sword in his hand and Pāṇini knows the central figures of the great Epic viz. Yudhisthira and Arjuna. It has been shown above (p. 75 ) that Panini flourished about 450 to 400 B.C. Therefore, it follows that there were poems about Pandava heroes and about Krsna killing Kamsa some time before 400 B. C. Scholars would have to assign 500 B. C. as the latest date for the core of the Mahābhārata. 
+The date of the Mahābhāṣya is generally accepted to be about 150 B, C.; vide (pp. 75-79 above). It quotes a quarter of a verse stating that some person followed the Pandava hero with only a sword in his hand and Pāṇini knows the central figures of the great Epic viz. Yudhisthira and Arjuna. It has been shown above (p. 75 ) that Panini flourished about 450 to 400 B.C. Therefore, it follows that there were poems about Pandava heroes and about Krsna killing Kamsa some time before 400 B. C. Scholars would have to assign 500 B. C. as the latest date for the core of the Mahābhārata. 
 
 Another circumstance pointing to the same conclusion is that the Asv. Gș. mentions " Bhārata-Mahābhārata dharmā cāryāḥ'. The Gșhyagūtras belong to the latest phase of the Vedic literature. The mention of Bhārati and Mahābhārata as preceding the Āśv. Gș. would make it very probable that the Mahābhārata was in existence at least just before the end of the Vedic period. 
 
@@ -425,7 +425,7 @@ FOUNDED
 
 such stanza must be judged on its own merits'. But life being short, this would be an almost impossible task for one scholar for the one hundred thousand stanzas of the Mahābhārata. 
 
-But if we turn to the Rāmāyana, none of the great per sonages depicted in that epic such as Daśaratha, Rāma, Laks mana, Bharata (Rama's brother ), Hanāmat, Sugriva, Bibhisana is inentioned by Pāṇini or in quotations cited in the Mahābhāsya. Those who want to argue that the present Rāmāyaṇa was known to Patañjali rely on a few matters, such as the reference to Kiskindhi and two verses891 about Vānarasainyu in the Mahābhāsya. These two verses do not occur in the Rāmāyana at all; besides, here "Vānarasainya' does not necessarily mean an 'army of monkeys'; it may play. fully be applied to a crowd or number of monkeys; and moreover such verses illustrating the use of the same root in the Parasmaipada and Ātmanepada might have been com posed by a teacher of grammar for the benefit of his pupils. As there is a parody of Dasaratha, Rāma and Sitā in the Dasarathajātaka, it is probable that some decades before 250 B. C. there existed a popular story about these three. Some further remarks will be made in the section on Rāmā yana. 
+But if we turn to the Rāmāyana, none of the great per sonages depicted in that epic such as Daśaratha, Rāma, Laks mana, Bharata (Rama's brother ), Hanāmat, Sugriva, Bibhisana is inentioned by Pāṇini or in quotations cited in the Mahābhāṣya. Those who want to argue that the present Rāmāyaṇa was known to Patañjali rely on a few matters, such as the reference to Kiskindhi and two verses891 about Vānarasainyu in the Mahābhāṣya. These two verses do not occur in the Rāmāyana at all; besides, here "Vānarasainya' does not necessarily mean an 'army of monkeys'; it may play. fully be applied to a crowd or number of monkeys; and moreover such verses illustrating the use of the same root in the Parasmaipada and Ātmanepada might have been com posed by a teacher of grammar for the benefit of his pupils. As there is a parody of Dasaratha, Rāma and Sitā in the Dasarathajātaka, it is probable that some decades before 250 B. C. there existed a popular story about these three. Some further remarks will be made in the section on Rāmā yana. 
 
 The first of the four passages relied upon by Hopkins is 'api cĀyam pura gitah bloko Vālmīkinā bhuvi i na hantavyāḥ striya iti yad-braviși plavangama...Piļākaram amitrānām 
 
@@ -441,7 +441,7 @@ HASTITE pade room
 
 368 
 
-History of Dharmaśāstra 
+
 
 yat-syāt kartavyam eva tat' (Dronaparva 14.67-68 ).32 The criticisms against this citation are several. One is that what is quoted is not a Sloka at all, but only a pāda (quarter) at the most; secondly, the Sloka in the Rāmāyana does not amount to an absolute rule, but there is a counterpoise in the latter half of the śloka ; another criticism is that the Maha bhārata itself had already stated in the Adiparva and Vana parva the same rule against killing a woman. So it is proba ble that some interpolator mentioned it in the Dronaparva to show off his knowledge of the other epic. As regards the 2nd citation I am sorry to say that Hopkins is carried away by his enthusiasm to prove direct quotations from the Rāmā yana in the other epic. In the Rāmāyana, the verse 'rājāpam prathamam vindet' does not occurses at all. Hopkins is obliged to say that it agrees closely enough in sense and words with the verse in Ayodhyā 67. 11. The verge from Ayodhyā is not ipsissima verba'. There is another gratuitous assumption made by him. He thinks that Bhargava is Vālmiki. Bhargava 
 
@@ -487,11 +487,11 @@ HASTITUTE
 
 370 
 
-History of Dharmaśāstra 
+
 
 The most puzzling question concerning the Mahābhārata is how the members of a polyandrous family became the heroes of the great national epic. Even in the extant epic attempts are made to explain the matter in a supernatural way. In the Asramavāsikaparva it is stated that after the carnage in the great war, Dhṛtarāstra, Vidura, Kunti ( the mother of five Pandavas ), Gāndhāri, Draupadi, Subbadrā met together and sages like Vyāsa, Nārada, Parvata and others also came when Dhṛtarāstra complained that he had no sleep and no peace of mind and Gāndhārī requested Vyāsa to vouch safe to Dhrtarāstra the sight of his fallen sons. Kunti told Vyāsa (Asramavāsikaparva chap. 30 ) how Durvāsas ( an irate sage ) came to her father (a king ) for alms when she was yet a maiden and as she pleased the sage by her assidu ous hospitality, he gave her five mantras on repeating any one of which the god addressed in that mantra would come to her. She proceeded to say that when she saw from her father's palace the rising sun, she called him to come by reciting the appropriate mantra, the sun came and she duly requested him to grant her a son, when the Sun's refulgence entered her and she secretly gave birth to a son (later ) called Karna, whom she let down in a river. She wanted to see that son whom she abandoned. Then Vyāsa consoled her that she was not to be blamed, that deities enter human bodies, that human limi tations do not apply to deities and he recited a verse that everything is pure and wholesome to the strong. 808 
 
-In the Adiparva (chap. 169 ) a similar story is repeated almost in the same words that a maiden requested God Saṅkara five times to bestow on her a husband and so he ble ssed her that she would have five husbands ( pati ) and she became later Draupadi, daughter of king Drupada. Adiparva (197, 35-36 and 44 ff) states the same kind of story, but it is Laksmi (in Svarga ) who asks five times for a husband. 
+In the Adiparva (chap. 169 ) a similar story is repeated almost in the same words that a maiden requested God Śhaṅkara five times to bestow on her a husband and so he ble ssed her that she would have five husbands ( pati ) and she became later Draupadi, daughter of king Drupada. Adiparva (197, 35-36 and 44 ff) states the same kind of story, but it is Laksmi (in Svarga ) who asks five times for a husband. 
 
 In Adiparva the question how a polyandrous marriage was allowed in the case of the five Pandava heroes has been raised and dealt with in chapter 195, verses 27-31. Drupada (father of Draupadi) urges that five brothers should have one wife is adharma, it is opposed to the Veda and the use 
 
@@ -527,7 +527,7 @@ FONED
 
 17872 
 
-History of Dharmasastra 
+
 
 the mouth of the female bird in Sāntiparva 148. 6–7.403 In the Ayodhyākānda 39. 30-31 Sitā repeats the same verse be fore Kausalyā when she prepares to go into exile with Rāma. Another famous verse of the propriety of punishing even a guru when he becomes conceited, fails to distinguish between what ought to be done or not to be done and who pursues the wrong path 403 occurs in both. The Sāntiparva (in 57.6 ) says that in former times king Marutta recited an ancient bloka in Brhaspati's treatise in the section on kings (Rājādhi kāra ) and that it is 57.7. Another verse that occurs in both epics is : all collections end in dissolution, all tall things end in falling down, unions end in separation, life ends in death.404 
 
@@ -565,7 +565,7 @@ V. Kibe locates Lauka in contral India (vide ABORI Vol. XVII pp. 371-384; F. W. 
 
 374 
 
-History of Dharmaśāstra 
+
 
 It has been shown above that the Rāma story and chara cters are mentioned in the extant Mahābhārata and the legends and some well-known characters in the Mahābhārata are noted in the extant Ramayana. Therefore, all that one can say is that both works have influenced each other. But As the core of the Mahābhārata is much older than that of the Rāmāyana and as the Mahābhārata is four times as bulky as the Rāmāyana, it is the latter that most probably borrowed several matters from the great Epic. It has been demonstre ted above that the so-called four direct references in the Mabābhārata to the Rāmāyana put forward by Hopkins are not so and that only one remains, which appears to me to be a later interpolation. 
 
@@ -581,7 +581,7 @@ FOUNDED
 
 375 
 
-Hopking497 devotes pp. 386-403 of his work The Great Epic of India' to the date of the Epic and summarises his con clusions on pp. 397-398. On p. 398 he says there is no date of the Epic' which will cover all its parts (though handbook makers may safely assign it in general to the 2nd century B. C.). A sizable volume would be required to criticize his remarks on several matters and to expose the hollowness of his hasty and one-sided conclusions. To take only one exa mple at random. He relies (p. 387) on the occurrence of the word Dināra in the Harivamsa which is only a supplement to the Mahābhārata and on the fact that in the present text of the Epic ( Adiparva chap. 2.82-83 ) reference is made to the Harivaṁsa as a Khila, in which are included the deeds of Visnu such as killing Kamsa and the Bhavisya parva, wbich is a large and wonderful one amony Khilas. 408 The Dināra is not mentioned in the 18 parvans of the Mahābhārata (not even in Santiparva nor in Anuśāsa naparva ) as Hopkins admits on p. 387. Supposing for a moment that the mention of dināra in Harivaṁsa is not interpolated, still from the reference to Harivassa in Adi I. 2 in general it does not necessarily follow that the writer of Adi. 2 had before him a Harivamsa contai ning the word Dināra. Besides, his dating about the Intro duction of Dināras in India is not supported by satisfactory evidence. He states ( on p. 387 ) " for the Roman denarius is known to the Harivamsa and the Harivamsa is known to the first part of the first book and the last book; hence such parts of this book as recognize the Harivarsa must be later than 
+Hopking497 devotes pp. 386-403 of his work The Great Epic of India' to the date of the Epic and summarises his con clusions on pp. 397-398. On p. 398 he says there is no date of the Epic' which will cover all its parts (though handbook makers may safely assign it in general to the 2nd century B. C.). A sizable volume would be required to criticize his remarks on several matters and to expose the hollowness of his hasty and one-sided conclusions. To take only one exa mple at random. He relies (p. 387) on the occurrence of the word Dināra in the Harivamsa which is only a supplement to the Mahābhārata and on the fact that in the present text of the Epic ( Adiparva chap. 2.82-83 ) reference is made to the Harivaṁsa as a Khila, in which are included the deeds of Viṣṇu such as killing Kamsa and the Bhaviṣya parva, wbich is a large and wonderful one amony Khilas. 408 The Dināra is not mentioned in the 18 parvans of the Mahābhārata (not even in Santiparva nor in Anuśāsa naparva ) as Hopkins admits on p. 387. Supposing for a moment that the mention of dināra in Harivaṁsa is not interpolated, still from the reference to Harivassa in Adi I. 2 in general it does not necessarily follow that the writer of Adi. 2 had before him a Harivamsa contai ning the word Dināra. Besides, his dating about the Intro duction of Dināras in India is not supported by satisfactory evidence. He states ( on p. 387 ) " for the Roman denarius is known to the Harivamsa and the Harivamsa is known to the first part of the first book and the last book; hence such parts of this book as recognize the Harivarsa must be later than 
 
 m 
 
@@ -599,7 +599,7 @@ FOUND
 
 376 
 
-History of Dharmaśāstra 
+
 
 the Introduction of Roman coins into the country (100-200 A, D.)'. He does not mention the evidence on which he bases his conclusion about the exact period of the Introduction of the Denarius in India. For the date of early Denarius coins, vide Pro. of British Academy, Vol. XVIII for 1932 pp. 211-266.409 
 
@@ -643,7 +643,7 @@ male harini talent and greatzt hala: It is the same
 
 378 
 
-History of Dharmaśāstra 
+
 
 paper on 'Manipravāla in Java'in ‘Kunhan Raja Presentation volume pp. 65-69' shows how from the 12th century A. D. onwards poems were composed in Java in the local kavi language, employed different Sanskrit metres and took over stories from the Sanskrit kāvyas of Kālidāsa, Bhāravi and the episodes in the Mahābhārata and adopted Sanskrit theories of rhetoric and ala; kāras (figures of speech ). Several European scholars have worked on this subject. Vide for example, Louis Finot's learned paper in I. H. Q. vol. I pp. 599-622 ( on the geography and chronology of Indian civilization in Indo China') in which he gives the names of several Dutch and French scholars ( as his predecessors in the same field ). He remarks India has laid her mark on all the great Eastern countries some of which received a substantial part of their religious and artistic culture from India and others are indebted to her for their very existence as civilized states'. For Srivijaya', vide 'La Royamme de Srivijaya' by G. Coedes mentioned by Finot's paper (1). 619) and Prof. Nilakanta Sastri in 'Bulletin of the 'l'ecole de Extreme Orient', Tome XV fasc. 2 pp. 239 ff ( Hanoi ). 
 
@@ -667,7 +667,7 @@ A
 
 379 
 
-Vana-p. 133. 24 he quotes Mūdhava ou the five kinds of years (Candra, Saura etc. ), who is most probably Mādhavācārya, who wrote Kāla mādhava. He states that he collected M88. of the Epic from different parts of India. He quotes Medini kośa frequently (e.g. on Adi.47. 11, 140.12, 214.2, Vanaparva 236.10), Yadava on Vana° 260.3, Visvakośa on Udyoga 40.16 and quotes Visvalocana on the meaning of Cakradhara' in Anuśāsana 162.38, and on the meaning of granthikāh' in Āśvamedhika 70.7. He refers to the commentary called 
+Vana-p. 133. 24 he quotes Mūdhava ou the five kinds of years (Candra, Saura etc. ), who is most probably Mādhavācārya, who wrote Kāla mādhava. He states that he collected M88. of the Epic from different parts of India. He quotes Medini kośa frequently (e.g. on Adi.47. 11, 140.12, 214.2, Vanaparva 236.10), Yadava on Vana° 260.3, Viśvakośa on Udyoga 40.16 and quotes Viśvalocana on the meaning of Cakradhara' in Anuśāsana 162.38, and on the meaning of granthikāh' in Āśvamedhika 70.7. He refers to the commentary called 
 
 Viṣamaslokavyākhyā' on Vanaparva 82.38 as reading a certain verse there but states it was omitted by later igno. rant expositors. On Virāṭa parva 2.9 he mentions the mean ing of'ūralika'given by the author of the com. Visamaśloki. He mentions Arjunamisra’s explanation of Jārūthyān 'in Vanaparva 284.23; on Adi 170.15 he notes that Devabodha and others read it differently and on the word 'madhuparki kāh' in Dronaparva 182.2. he gives Devabodha's explanation. On Vana parva 263.8 he refers to Saṅkarācārya's commentary on Vispusahasranāma and on Udyoga 42.1 he refers to the commentary of Bhāsyakūra on Sanatsujātiya; he refers to the Sajiksepaśūriraka on Udyoga 43.42; On Bhīṣma parva 3.13 and 31 he quotes a work called Narapativijaya on astrology ; on Sānti 306.8 he mentions a work on Yoga called Yogacinta maṇi and Bhoja's work on Poetics dealing with 24 gunas of Sabda (on Santi 320.87). He quotes a verse of Dattatreya on Khecari Muurā (on Āśvamedhika 19.37). In many places he discusses various readings as on Ādi 214.2, Sabhā 16.3 (Gaudlapātha ) and 21.16 (Gaudopatha ), Vanaparva 239.4 (Gauda pātha ), discusses three readings on Vana parva 264.12. On Sabhā 61.9 ( where the word 'Şaṣṭiviśūradih' occurs ) he refers to Sridharasvimi's \#13 com. on Bhagavatapurāṇa and also ou Sabha' 41.1. He appears to have written a work called. Vedānta-kataka' und refers to what he says therein on 'Dabarādhikarana' (i.e. Brahmasūtra 1. 3. 14-21 ) At the 
 
@@ -681,9 +681,9 @@ FOUNDED
 
 880 
 
-History of Dharmaśāstra 
 
-end of the Sāntiparva and of Anuśāganao he enumerates 414 the several teachers (eight in all) under whom he learnt Vedānta, Mahābhāsya, Veda with its subsidiary lores, logic, Srauta &c. 
+
+end of the Sāntiparva and of Anuśāganao he enumerates 414 the several teachers (eight in all) under whom he learnt Vedānta, Mahābhāṣya, Veda with its subsidiary lores, logic, Srauta &c. 
 
 He mentions Niruktabhāsya on Vanaparva 291.70 and also Vedabhāsya (i.e. Sāyaṇabhāsya ) on Jarūtha (occurring in Rg. VII. 1.7 and X. 80.3). He appears to have been & Mahārāstra brāhmana. On Udyoga 143.25 he explains 'eka paksāksicaranāḥ'as pārkoli' (a bird ) in Mahārāsṭrabhāgā; on Adiparva 63.20 he explains 'pitakaiḥ' as 'petyā iti bhā Bāyām' which is Marathi 'petī' or 'petyā'. He refers to the custom of raising a bamboo staff at the end of a year and the beginning of a new one (in Adi. 63. 18-19 ) as seen in Mahā rāstra and other places. On Sabhā 21.20 he explains the word 'Srnga' as 'Manurī', which is' Manorā' in present Marathi; on Sānti 87.35 he explains ·gominaḥ'as 'cāranas' which is & Marathi word. On Vana' 93.27 he explains * Kathinānām as Kāthi iti Mahūrūstra prasiddhah'. Though a Mahārāstrian he knew Yavanabhāsā as on Sabhā 4,2 he ex plains that'Jivantī’ is called ' viriji' in Yavanabhāśā. 
 
@@ -707,19 +707,19 @@ in Silver Jubilee Vol. of the BORI pp. 146 ff. Vide Dr. Raghavan's paper in Kane
 
 The extant Mahābhārata professes that it is removed from the Mahābhārata war only by two generations or 80. It was narrated by Vaisam pāyana to Janamejaya who was the great-grandson of Arjuna. The topics regarding the beg inning of the Kaliyuga and the astronomical data in the Mahābhārata have been discussed at some length in the 3rd volume of the H. of Dh. pp. 896-923. 
 
-The probable date of the Mahābhārata war has been dis cussed by the present author in H. of Dh. Vol. III pp. 895 923 and Vol. V. p. 849. There are three dates put forward from comparatively early times, viz. 3101 B. C. (the tradi tional date );( 2 ) that of the Brhat-samhitā and Rājatarangini (viz. about 653 of Kali age ); (3) that of the Vāyu, Matsya, Brabmanda and Bhagavata purāṇas which provide that bet ween the birth of Pariksit ( grandson of Arjuna, the outstand ing fighter among the Pandavas ) and the coronation of Nanda there is a period of 1500 (or 1050 or 1015 years, according to various readings in the mss of those Purānas ). Almost all modern scholars discard the idea that the Mahābhārata was composed a short time after the war. Similarly, the matters in the Sānti and Anusasana parvans containing over twenty thousand verses are stated to have been declared by Bhisma, who was mortally wounded but lay on death-bed till the sun turned northwards. This was a very helpful camouflage to insert into the Epic any matter deemed worthy of being put in. In the Parvasa nigrahaparva ( Adi. 2.325-331 ) it is stated that in the Sāntiparva there are 329 udhyāyas ( chapters ) and 14732 verses and in Adi. 2.331-338 it is stated that in the Anuśāsana parva there are 146 adhyāyas and 8000 verses. In the Chitraslala edition there are 365 chapters in the Santi parya and 168 in the Anusasanaparva. Thus the chapters in the two parvans (in the present text ) exceed the number of chapters stated in Adiparva, chap. 2. It is possible that later redactors arranged the chapters differently for varidus reasons. In the Santiparva the longest adhyāya ( 138 ) 221 verses, then comes chap. 284 with 208 verses. On the 
+The probable date of the Mahābhārata war has been dis cussed by the present author in H. of Dh. Vol. III pp. 895 923 and Vol. V. p. 849. There are three dates put forward from comparatively early times, viz. 3101 B. C. (the tradi tional date );( 2 ) that of the Brhat-samhitā and Rājatarangini (viz. about 653 of Kali age ); (3) that of the Vāyu, Matsya, Brabmanda and Bhagavata purāṇas which provide that bet ween the birth of Pariksit ( grandson of Arjuna, the outstand ing fighter among the Pandavas ) and the coronation of Nanda there is a period of 1500 (or 1050 or 1015 years, according to various readings in the mss of those Purāṇas ). Almost all modern scholars discard the idea that the Mahābhārata was composed a short time after the war. Similarly, the matters in the Sānti and Anusasana parvans containing over twenty thousand verses are stated to have been declared by Bhisma, who was mortally wounded but lay on death-bed till the sun turned northwards. This was a very helpful camouflage to insert into the Epic any matter deemed worthy of being put in. In the Parvasa nigrahaparva ( Adi. 2.325-331 ) it is stated that in the Sāntiparva there are 329 udhyāyas ( chapters ) and 14732 verses and in Adi. 2.331-338 it is stated that in the Anuśāsana parva there are 146 adhyāyas and 8000 verses. In the Chitraslala edition there are 365 chapters in the Santi parya and 168 in the Anusasanaparva. Thus the chapters in the two parvans (in the present text ) exceed the number of chapters stated in Adiparva, chap. 2. It is possible that later redactors arranged the chapters differently for varidus reasons. In the Santiparva the longest adhyāya ( 138 ) 221 verses, then comes chap. 284 with 208 verses. On the 
 
 INST 
 
 FOUN382 
 
-History of Dharmaśāstra 
+
 
 other hand the shortest chap. of Sintiparva is 363 (of six verses only ), chapters 353 and 365 have only nine verses each, while some chapters (such as 129, 136, 304, 352 ) have only eleven verses. A few chapters like 192, 338, 342 have a few verses and also long prose passages. I have calculated the verses in the Santiparva and they come to about 13200 or so in the Chitrashala edition, but if one takes into account the prose passages (and calculates them as versified with 32 letters in each verse ), then there would not be much divergence in the number of slokas. Vide C. V. Vaidya's 'Mahābhārata: a criticism', Appendix, note one, for the total of chapters and slokas in the 18 parvans and the kbila Harivaṁsa stated in the Parvasangrahaparva and in the Bombay edition. They are respectively 96836 and 95826 blokas. Therefore, the reputed extent of the Mahābhārata even in early inscriptions (the Khoh plate of 533 A. D. ) viz. one hundred thousand is only approximate; vide Dr. Sukhtankar's paper in ABORI, Silver Jubilee Volume, (1943) pp. 549-558 for remarks on the figures mentioned in the Parvasangrahaparva. 
 
 The Mahābhārata not only repeats tales but also single verses of its own e.g. Sānti, chap, 231.31 repeats Gitā 8.17 (sahasra yuga'), chap. 251.9 is the same as Gītā (11.70, āpūryamānam ), chap. 312.14 ( sarvatah pārio) is same as Gītā 13.13; Vana parva 189.27 (yada yadā ca dharmasya ) is the same as Gitā 1V. 7. 
 
-In the two epics genealogies of ancient kings occur fre quently and it is impossible to reconcile all of them. A few simple examples may be cited. The Manusmrti (in I. ) claims that Brahmā first ( 1.32 ) created Viraj who created him (Manu) and he (Manu) created (1.35 ) the great sages ( Marici, Atri, Angiras, Pulaha, Pulastya, Kratu, Pracetas Vasistha, Bhrgu and Nārada ) and they created the seven Manus (1.36 ) and the world was created by them. If we turn to the Mahabharata, the Anuśasana (chap. 2.5 ft') tells us that Manu Prajāpati's son was Iksvāku, who had one hundred sons of whom Daśāśva was the 10th. But the Vana parva (iu chap. 201-202 ) speaks of Ikyvāku, his son Sasida ( who ruled in Ayodhyā ), his son Kakusthu, bis son Anenas, whose son was Pșthu-whose son was Visvagaśva, whose son was Adki wlinse son was Yuvanāśva and so on. In the Āsvamedljikapare (chap. 4 ) the genealogy is ( in Kytayugu ) Manu-son Krasan 
+In the two epics genealogies of ancient kings occur fre quently and it is impossible to reconcile all of them. A few simple examples may be cited. The Manusmrti (in I. ) claims that Brahmā first ( 1.32 ) created Viraj who created him (Manu) and he (Manu) created (1.35 ) the great sages ( Marici, Atri, Angiras, Pulaha, Pulastya, Kratu, Pracetas Vasistha, Bhrgu and Nārada ) and they created the seven Manus (1.36 ) and the world was created by them. If we turn to the Mahabharata, the Anuśasana (chap. 2.5 ft') tells us that Manu Prajāpati's son was Iksvāku, who had one hundred sons of whom Daśāśva was the 10th. But the Vana parva (iu chap. 201-202 ) speaks of Ikyvāku, his son Sasida ( who ruled in Ayodhyā ), his son Kakusthu, bis son Anenas, whose son was Pșthu-whose son was Viśvagaśva, whose son was Adki wlinse son was Yuvanāśva and so on. In the Āsvamedljikapare (chap. 4 ) the genealogy is ( in Kytayugu ) Manu-son Krasan 
 
 Ο τουNρεο 
 
@@ -729,7 +729,7 @@ In the two epics genealogies of ancient kings occur fre quently and it is imposs
 
 383 
 
-dhi-son Ksupa-son Ikṣvāku (chap. 4.3-14 ). If we now turn to the Rāmāyana, chap. 110 of the Ayodhyākānda furni. shes a long pedigree (in verses 5-34 ) as follows: Brahmā Marici-Kaśyapa-Vivasvat-Manu Vaivasvata Prajāpati-Iks vāku (the first king of Ayodhyā )-Kuksi-Vikukṣi-Bana Anaraṇya-Pythu-Triśajku -- Dhundumāra - Yuvadāśva - Mān dhātr-Susandhi-Dhruvasandhi-- Bharata-Asita-Sāgara - A82 mañja - Aṁśumān - Dilipa - Bhagiratha - Kakustha - Raghu Pravṛddha. Kalmāsarāda -Saṅkhana - Sudarsana - Agnivarna Sighraga-Maru-Prasuśruva-Ambarisa-Nahusa-Nābhāga-Aja Daśaratha-Rāma. This pedigree contradicts the one in Manu smrti ( 1.34-35 ) set out a little above, where Marici is one of the ten sons of Manu. Let us now turn to the Raghuvamsa, where ( in 1.11-12 ) it is stated that Vaivasvata Manu was the first king, that among his descendants was king Dilipa, whose son was Raghu whose son was Aja whose son was Dasaratha. It should be noted that in the Ayodhyākānda two kings inter vene between Dilipa and Raghu and between Raghu and Aja ten kings are named. Hence it follows that the Ayodhyā. kānda pedigree is either an inflated one or that Kālidasa had a different pedigree before him at least from Dilipa downwards or that Kūlidasa was not aware of the longer pedigree. From the Raghuvamsa itself it appears that Kūlidāsa knew the story of Sagara as an ancestor of Rama and the story of his Aśvamedha horse being carried to the bottom of the earth and the digging of the earth for finding it and the ocean being filled with the waters of Ganges ( Raghu. XIII. 31 ); he also knew the story of Bhagiratha taking the Ganges from the matted hair of Śiva (Raghu IV.32 ) to the earth and of Kaku stha being a descendant of Iksvāku ( Raglu VI. 71 ). It is not unlikely that a very long pedigree was manufactured for the glory of the family of Rama and Kalidasa was not pre pared to accept it in its entirety. It may be noted that Bāna in the Harsacarita ( 6th ucchvĀsa p. 38 of my edition ) holds that Raghu was the son of Dilipa. 
+dhi-son Ksupa-son Ikṣvāku (chap. 4.3-14 ). If we now turn to the Rāmāyana, chap. 110 of the Ayodhyākānda furni. shes a long pedigree (in verses 5-34 ) as follows: Brahmā Marici-Kaśyapa-Vivasvat-Manu Vaivasvata Prajāpati-Iks vāku (the first king of Ayodhyā )-Kuksi-Vikukṣi-Bana Anaraṇya-Pythu-Triśajku -- Dhundumāra - Yuvadāśva - Mān dhātr-Susandhi-Dhruvasandhi-- Bharata-Asita-Sāgara - A82 mañja - Aṁśumān - Dilipa - Bhagiratha - Kakustha - Raghu Pravṛddha. Kalmāsarāda -Saṅkhana - Sudarsana - Agnivarṇa Sighraga-Maru-Prasuśruva-Ambarisa-Nahusa-Nābhāga-Aja Daśaratha-Rāma. This pedigree contradicts the one in Manu smrti ( 1.34-35 ) set out a little above, where Marici is one of the ten sons of Manu. Let us now turn to the Raghuvamsa, where ( in 1.11-12 ) it is stated that Vaivasvata Manu was the first king, that among his descendants was king Dilipa, whose son was Raghu whose son was Aja whose son was Dasaratha. It should be noted that in the Ayodhyākānda two kings inter vene between Dilipa and Raghu and between Raghu and Aja ten kings are named. Hence it follows that the Ayodhyā. kānda pedigree is either an inflated one or that Kālidasa had a different pedigree before him at least from Dilipa downwards or that Kūlidasa was not aware of the longer pedigree. From the Raghuvamsa itself it appears that Kūlidāsa knew the story of Sagara as an ancestor of Rama and the story of his Aśvamedha horse being carried to the bottom of the earth and the digging of the earth for finding it and the ocean being filled with the waters of Ganges ( Raghu. XIII. 31 ); he also knew the story of Bhagiratha taking the Ganges from the matted hair of Śiva (Raghu IV.32 ) to the earth and of Kaku stha being a descendant of Iksvāku ( Raglu VI. 71 ). It is not unlikely that a very long pedigree was manufactured for the glory of the family of Rama and Kalidasa was not pre pared to accept it in its entirety. It may be noted that Bāna in the Harsacarita ( 6th ucchvĀsa p. 38 of my edition ) holds that Raghu was the son of Dilipa. 
 
 Both the epics inspired many later writers to compose Sanskrit dramas based on the characters and the various stories contained in them. The Dasarūpaka416 recommend 
 
@@ -741,15 +741,15 @@ Pooh
 
 384 
 
-History of Dharmaśāstra 
+
 
 that intending dramatists should rely upon the Rāmāyana and the Bșhatkatbā for plots. Dr. V. Raghavan recently published a work on 'Some old lost Rāma plays' (Annamalai University, 1961). 
 
 It appears from Kautilya's Arthaśāstra that it knew the central story of the Mahābhārata and that of the Rāmāyana. For example, on I. 6. 8 ( Arthaśāstra ) it is stated that Rāvana perished since he did not restore another's wife owing to pride and Duryodhana perished because he on account of pride did not agree to give a portion of the kingdom. In Arthaśāstra VIII. 3. 41-43 reference is made to Jayatsena and Duryodhana winning in gambling because of expertness in it and Nala and Yudhisthira lost in gambling. In the Mahābhārata, however, Nala's opponent is said to have been Puskara ( and not Jayatsena). There is little to show that the Arthasāstra refers to literary works like the Mahābhārata and the Rāmāyana and not to tales current among people in its day. 
 
-The Mahābbārata is predominently a Vaimna vite work and contains two of the five jewels of Vuisuavism viz. the Gītā and the one thousand names of Visnu (in Anuśāsana parva 149. 14-120). 
+The Mahābbārata is predominently a Vaimna vite work and contains two of the five jewels of Vuisuavism viz. the Gītā and the one thousand names of Viṣṇu (in Anuśāsana parva 149. 14-120). 
 
-But it is not at all so thorough going in its dogma as are some medieval South Indian works of the 11th and later centuries A. D. The Anuśāsana ( 17. 31–153 ) contains 1008 names of Siva also. In many places the identity of Siva and Viśṇu is emphasized as in Vanaparva and Santiparva.416 There are grand eulogies of Siva in Dronaparva 80. 39-48 and Sau ptikaparva 17 ( this last by Krsna ). In Anuśāsana (16.8) Siva is identified with Bruhman. 
+But it is not at all so thorough going in its dogma as are some medieval South Indian works of the 11th and later centuries A. D. The Anuśāsana ( 17. 31–153 ) contains 1008 names of Śiva also. In many places the identity of Śiva and Viśṇu is emphasized as in Vanaparva and Santiparva.416 There are grand eulogies of Śiva in Dronaparva 80. 39-48 and Sau ptikaparva 17 ( this last by Krsna ). In Anuśāsana (16.8) Śiva is identified with Bruhman. 
 
 418 शिवाय विष्णुरूपाय विष्णवे शिवरूपिणे । दक्षयज्ञविनाशाय हरिरुद्राय वै नमः ॥ 
 
@@ -769,7 +769,7 @@ The Mausala parva417 ( chap. 7) varrates that, after Krona passed away, Arjuna w
 
 jatugļha', taking by force Draupadi to the Sabbā when she was in her monthly period, assault on the very young Abhi manyu by many of Duryodhana's partisans, and added that he Wag killed for all these misdeeds. The text says that the gods showered flowers on Duryodhana and Gandharvas played on musical instruments &c. (verses 55-58). If the great epic had been a thoroughgoing Vaishave work these incidents would not have been mentioned by it. 
 
-A few passages 419 common to two or more works with slight variations from among (Arthaśāstra of Kauṭily., Makābhārata, Manu, Mahābhāsya, and Rāmāyana are here set out and some have already been mentioned above ). 
+A few passages 419 common to two or more works with slight variations from among (Arthaśāstra of Kauṭily., Makābhārata, Manu, Mahābhāṣya, and Rāmāyana are here set out and some have already been mentioned above ). 
 
 417 मिषतां सर्वयोधानां समस्ताः प्रमदोत्तमाः । समन्ततोऽवकृष्यन्त कामाचान्या: 
 
@@ -799,7 +799,7 @@ DE ส่งไว
 
 386 
 
-History of Dharmaśāstra 
+
 
 THE RĀMĀYAŅA It is remarkable that an Italian scholar G. Gorrecio, published the text of the Rāmāyana in five volumes ( the first being published in 1843 A. D. with a long Introduction of 143 pages and the Uttarakānda being omitted ) and five more volumes of translations, Prefaces and Indexes, the 10th volume being published in 1858 A. D. The Rāmāyana has been edited in several places e. g. by the Gujarati Press of Bombay in seven volumes ( with three commentaries ) and by the Nirnaya sāgara Press (text in two volumes ) in 1905. A critical edition of the Rāmāyana on the lines of the Poona critical edi tion of the Mahābhārata was undertaken at Baroda and 80 far the first three kāndas have been issued. In the present edition of the H. of Dh. the one volume edition of the text of the Rāmāyana published by Mr. R. Narayanaswami Aiyar and edited by a committee of four scholars in 1933 and based on four palm-leaf mss. and several printed editions has been used. 
 
@@ -825,7 +825,7 @@ A few striking illustrations of the divergence in the three recensions may be ci
 
 888 
 
-History of Dharmaśāstra 
+
 
 i 
 
@@ -859,7 +859,7 @@ Y
 
 420 ततश्च द्वादशे मासे चैत्रे नावमिके तिथौ । नक्षत्रेऽदितिदैवत्ये स्वोच्चसंस्थेषु 
 
-पञ्चसु । ग्रहेषु कटे लग्ने वाक्यताविन्दुना सह । प्रोद्यमाने जगन्नाथं सर्व लोकनमस्कृतम् । कौसल्याजनयद्राम... ॥ पुष्ये जातस्तु भरतो मीनलग्ने 5777u: 1 ... Fit arat zatrhat Befristea rat i aproastus 18. verses 8-10, 13-14. Aditi is tho prosiding doity of (Punarvasu paksatra ), Sarpāḥ (serpents) of Aslo;ū ; Karkata (aod Kulīra also ) is Cancer sigo and Mina in Piscos'; the uccha Sigos (nigns of oxaltation) are Moa, Vīṣabha, Makara, Kapya, Karkata, Mina and Tulā and are respectively tho uccæ signs of the Sun, the Moon, Mars, Morcury, Jupiter, Vonus and Saturn. For the horoscope of Rāma and his brothers as doscribed in the Rāmāyana, vide the present author's paper in J, 0. I. ( Baroda ) vol. I pp. 3–7; vide the Ayodhya Kanda ( 15. 3) where there is a reforonco to the Karkataka sigu 'Jfca fara great atazinasema i gra **TES 
+पञ्चसु । ग्रहेषु कटे लग्ने वाक्यताविन्दुना सह । प्रोद्यमाने जगन्नाथं सर्व लोकनमस्कृतम् । कौसल्याजनयद्राम... ॥ पुष्ये जातस्तु भरतो मीनलग्ने 5777u: 1 ... Fit arat zatrhat Befristea rat i aproastus 18. verses 8-10, 13-14. Aditi is tho prosiding doity of (Punarvasu pakṣatra ), Sarpāḥ (serpents) of Aslo;ū ; Karkata (aod Kulīra also ) is Cancer sigo and Mina in Piscos'; the uccha Sigos (nigns of oxaltation) are Moa, Vīṣabha, Makara, Kapya, Karkata, Mina and Tulā and are respectively tho uccæ signs of the Sun, the Moon, Mars, Morcury, Jupiter, Vonus and Saturn. For the horoscope of Rāma and his brothers as doscribed in the Rāmāyana, vide the present author's paper in J, 0. I. ( Baroda ) vol. I pp. 3–7; vide the Ayodhya Kanda ( 15. 3) where there is a reforonco to the Karkataka sigu 'Jfca fara great atazinasema i gra **TES 
 
 Theatre (v. l. SFH ) TTARU a fera l'(tho Madrag ed. list should be noted that the astrologioal dotails about five plavet ains in exaltation (ucca ) are associated in the Ragbuvamsa ( 19 
 
@@ -879,7 +879,7 @@ POON
 
 389 
 
-another list on pp. 55-56, where verses quoted as from Rāmāyana in the same works cannot be identified. In another paper on the Rāmāyana and its influence upon the medieval digests of Eastern India Dr. Bhabatosh Bhattacharya shows that the early medieval works like the Hāralatā of Aniruddha and the three Ratnākaras of Candesvara on Krtya, Grhastha and Vivāda, quote the Rāmāyaṇa sparingly, e. g. Aniruddha quotes only five verses and the Ratnakaras quote only four verses and that it is only the later medieval works such as the three out of the four Kaumudis of Govindananda that quote fourteen verses from the Rāmāyana, most of which are found in all recensions of the Ramayana and the Rajadharmakaus tubha of Anantadeva quotes in all 39 verses from the Rāmā. yana but many of these verses do not tally exactly with the three recensions of the Rāmāyana. 
+another list on pp. 55-56, where verses quoted as from Rāmāyana in the same works cannot be identified. In another paper on the Rāmāyana and its influence upon the medieval digests of Eastern India Dr. Bhabatosh Bhattacharya shows that the early medieval works like the Hāralatā of Aniruddha and the three Ratnākaras of Candesvara on Kr̥tya, Grhastha and Vivāda, quote the Rāmāyaṇa sparingly, e. g. Aniruddha quotes only five verses and the Ratnakaras quote only four verses and that it is only the later medieval works such as the three out of the four Kaumudis of Govindananda that quote fourteen verses from the Rāmāyana, most of which are found in all recensions of the Ramayana and the Rajadharmakaus tubha of Anantadeva quotes in all 39 verses from the Rāmā. yana but many of these verses do not tally exactly with the three recensions of the Rāmāyana. 
 
 It should be noted that the Uttarakānda shows no diffe rence worth mentioning. Therefore, it may be assumed that that kānda is not only the work of later interpolators, but it must have been composed after the original poem was bifur. cated into the Southern recension and Northern recension. The Mahabharata narrates the Rama story in Vanaparva (chap. 273-292 ) in about 750 verses. It may be noticed that some of the incidents mentioned in the Uttarakānda occur in the Raghuvamsa of Kālidāsa. For example, Rama's spy called Bhadra was ordered by Rāma on his return to Ayodhyā after the destruction of Rāvana and his forces to report what was talked in the capital and the kingdom by the citizens and other people about himself ( Rāma ), about Sitā and about his brothers (Uttara. chap. 43. 4-6). Then, Bhadra, after repeating what people said about Rāma's ex ploits, stated that people talked disparagingly about taking back Sitā, whom Rāvana had placed on his lap when carrying her away and had imprisoned in the Asokavanikī and that the subjects remarked that they would have to endure, if similar incidents happened in the case of their wives.431 In the 421 अङ्कमारोप्य तु पुरा रावणेन बलाद्धताम् । लङ्कामपि पुरा नीतामशोकवनिका 
 
@@ -891,7 +891,7 @@ FTSENTS( STF) 9993 wa fafcarka: ' T9. 14. 31. Ang
 
 390 
 
-History of Dharmaśāstra 
+
 
 • 
 
@@ -923,7 +923,7 @@ The Rāma story is frequently alluded to in the extant Mahābhārata. The story 
 
 In the Salyaparva (39.9–10 ) reference is made to the cutting of the head of a raksasa by Rāma in Janasthāna. In the Santiparva425 is mentioned the story of the return to life of a brāhmana boy ( who had died prematurely ) when Rāma killed Sambūka, a sūdra practising peuance. The Sāptiparva speaks of the death of Rāvana at the hands of Rāma who was angered by Rāvana. 426 The Drona parva compares the fight of Ghatotkaca and Alayudha with the fight of Rāma and Ravaya ( 96.27-28 ). 
 
-All verse quotations in the Mahābhāsya are collected in one place by Kielhorn in I. A. vol. 14 the pp. 326-327 
+All verse quotations in the Mahābhāṣya are collected in one place by Kielhorn in I. A. vol. 14 the pp. 326-327 
 
 ...--- ----- 424 314a SET ASTIATUITO A 9H 29784–971. 76.5; 59 
 
@@ -939,7 +939,7 @@ E
 
 17") 12892 
 
-History of Dharmaśāstra 
+
 
 Another question much discussed by some Western scholars is the relation of the Rāmāyaṇa to the Dasarathā jātaka. Reasons of space prevent any detailed discussion. The Dasarathajātaka ( No. 461 in Fausböll's edition, vol. IV) is a travesty of the Rāma story. In it Sitā is a sister of Rāna, Dasaratha is a king of Benares (and not of Ayodhya ) who is said to have had 16000 wives and Sītā ( a sister ) is made queen after Rāma's return from the forest. There is nothing peculiarly Buddhist in it. The Jātakas forma later part of the Pali literature. Rhys Davids in 'Buddbist India 'furnishes a chronological table of Buddhist litera ture from Buddha's times to Asoka and divides it into ten groups of which the Jātakas and Dhammapadas form the 7th. The Jātakas are not earlier than 250 B. C. and may be later by a century or more. It is not unreasonable to suppose that the germs of most of the JĀtaka stories were derived from the folk-lore of India existing in those times. They are meant to glorify Buddha in his suppo sed previous existences and, while using well-known names, try (probably purposely ) to make these names (except that of the Bodhisattva) ridiculous. For example, the Kanha Dipāyana Jātaka No. 444 ( its prose being in two distinct parts ) makes it clear that none of the traits of the most famous sage of the Mahābhārata can be traced in the Jātaka called after him. The Jātakas generally contain some Gāthās and some prose passages. In a number of Jātakas the prose parts are in conflict with the gāthās or have nothing to do with them. The prose parts in their present form belong to 5th cent. A. D. and arose in Ceylon. Jacobi (Das Rāmā yana pp. 84 ff) and Keith (JRAS. 1915 p. 323 ) hold that the prose parts of Jātakas are confused and belong to a later date. Two questions arise viz. (1) Does the Dasarathe jātaka present an older form of the Rāma story? (2) Is the Dasaratha Jātaka really older than the Rāmāyana ? Accor ding to the present author the replies to these two questions are in the negative and he agrees with the conclusions of the late Mr. N. B. Utgikar (in JRAS. Centenary Supplement pp. 203-211 ). Vide also the same scholar's paper in LABRAS ( New Series vol. 4 pp. 115–134 ). In most of the Patuks also the stories as told in the Epic differ greatly from the stories labelled under the same name in them. 
 
@@ -989,7 +989,7 @@ WHDEO
 
 394 
 
-History of Dharmaśāstra 
+
 
 and some (like those of Sāvitrī, Damayanti and Sukanya ) at great length, while the Rāmāyaṇa employs them only for com parison and does not set them out at length. Sagara is referred to in the Rāmāyana (Ayodhyā 36.16 about Asamañja). But no reference is made to his wives. In Vana parva (chap. 106-7) it is stated that Sagara was a descendant of Iksvāku, had two wives, Vaidarbhi and Saibyā, had from Saibyā one son called Asamañja whom he banished because he indulged in the pastime of drowning the children of the subjects (Santi, chap. 57.8-9 ) and Sagara had sixty thousand sons from Vaidarbhi who were all reduced to ashes by Kapila's wrath when they dug the earth, found Aśvamedha horse near sage Kapila and wanted to apprehend Kapila as the thief. The story of Uttarka, a devoted pupil of Gautama, is narrated at length in Advamedhika parva chap. 55-58 and in Vanaparva chap. 132–33. He married the daughter of Gau tama and requested Ahalyā, Gautama's wife, to accept some present as Gurudaksiṇā (fee). When Uttanka pressed her to accept something, she asked him to bring the jewelled ear rings of the wife of king Saudāsa- man-eater ( 56.31 ). He went to Saudāga and begged for the ear-rings of his wife Madayanti. Saudāsa asked him to see his wife and give her his message. A long story is narrated about the ear-rings which she gave. King Janaka held assemblies of learned men for discussion. One bandin (i. e. sūta at his court ) used to argue with learned men, defeated them and plunged them in water. Uddalaka had a pupil Kahoda, who married the daughter of his guru. She conceived and the child in the womb rebuked his father when he committed mistakes in re peating Veda. The father cursed the foetus that he would be defective in eight limbs. Astāvakra defeated bandin and those who had been thrown into water (including Kahoda who had been defeated by Bandin ) were revived by Varuna and then Kahoda recited a verse set out in the note below.480 Yayāti is frequently mentioned for comparison or illustration as in Ayodhyā 5. 10 ( same words in Kiṣkindhā 17. 9, viz. 'yayātim-iva punyānte devalokād-iba cyutam', also Araṇyeo 
 
@@ -1007,7 +1007,7 @@ FOUNDED
 
 395 
 
-66. 7. “Jāmadagnya Rāma killed his mother at his father's order (Ayodhyā 21. 33 ); Visnu taking three steps ( Kiṣkindhā 67. 3 and 25 ). 
+66. 7. “Jāmadagnya Rāma killed his mother at his father's order (Ayodhyā 21. 33 ); Viṣṇu taking three steps ( Kiṣkindhā 67. 3 and 25 ). 
 
 The Sundarkānda is regarded by scholars as part of the original epic. Therefore, it is probable that the part of Sun darkāṇda which mentions the names of six pativratas, the stories about whom occur at length in the Vanaparva and Aśvamedhika-parva, is probably later than the parvan: (Vana and Asvamedhika ) which are held by several scholars to be later than earlier parvans of the great Epic. 
 
@@ -1023,7 +1023,7 @@ Taking the cue from the name Sitā (the heroine of the Rāmāyaṇa ) several sc
 
 396 
 
-History of Dharmaśāstra 
+
 
 and Dāśarathi Rama. It is unnecessary for the history of Dharmasastra to deal with this question when the Rāmāyaṇa is admitted by all scholars as separated from the Rgveda by at least a thousand years or more. 
 
@@ -1049,7 +1049,7 @@ FOUNDED
 
 rājan-tadannāstasya devatāḥ ).436 It may be noted that the Dhvanyaloka ( a Kashmirian work on Poetics of the latter half of the 9th century A. D. ) quotes a verse from the Aranya-kanda ( 16. 18 ) as an example where the Vyaigya ( suggested ) sense pushes the literal sense ( vācya ) of the word ( undhu in that verse ) very much in the background (atyanta-tiraskxta-vacya ).438_ In spite of this writers on Sanskrit Poetics rarely quote or refer to it. 
 
-Even Aparārka who quotes the Mahābhārata dozens of times quotes the Raināyana only twice. 437 On Yāj. I. 211 Aparārka quotes & verse saying of one who being able to save a sarunāgatu allows him to die in his presence all merit ( sukrta i.e. punya ) is taken away by the one who is not saved ). On offering water to one's deceased relations Aparārka ( on Yaj. III. 5) quotes a verse from Ayodhyakanda (102-27 ). The Smrticandrika ( I. p. 57 ) quotes Sundara kanda 59, 35-36 about cessation of study on the first tithi of a month (pratipat-phthasilasya vidyevu tanutam gata). The Krtyakalpataru ( on vrata, brahmacāri, tīrtha and naiyata kāla has no verses froin Rāmūyana though Naiyata kālikā quotes about two dozen verses from the Mahābhārata). Both epics condemn the king who being engrossed in pleasures does not attend the court of justice when the parties approach him for justice. The Kalpataru on 'grhastha.' quotes only two verses from Ramayana, but it mentions the Mahābhārata 
+Even Aparārka who quotes the Mahābhārata dozens of times quotes the Raināyana only twice. 437 On Yāj. I. 211 Aparārka quotes & verse saying of one who being able to save a sarunāgatu allows him to die in his presence all merit ( sukrta i.e. puṇya ) is taken away by the one who is not saved ). On offering water to one's deceased relations Aparārka ( on Yaj. III. 5) quotes a verse from Ayodhyakanda (102-27 ). The Smrticandrika ( I. p. 57 ) quotes Sundara kanda 59, 35-36 about cessation of study on the first tithi of a month (pratipat-phthasilasya vidyevu tanutam gata). The Kr̥tyakalpataru ( on vrata, brahmacāri, tīrtha and naiyata kāla has no verses froin Rāmūyana though Naiyata kālikā quotes about two dozen verses from the Mahābhārata). Both epics condemn the king who being engrossed in pleasures does not attend the court of justice when the parties approach him for justice. The Kalpataru on 'grhastha.' quotes only two verses from Ramayana, but it mentions the Mahābhārata 
 
 ..... - .. . .-- .. 
 
@@ -1073,7 +1073,7 @@ PRINDE 1917
 
 398 
 
-History of Dharmaśāstra 
+
 
 twenty times, one citation on pp 281-285 quoting 20 verses from Anusāsana ( 11.6-21 ) on where Sri resides. The Dānasāgara composed by king Ballālasena in saka 1091 (1169-70 A.D. ) quotes the Mahabharata over 200 times, but quotes from the Rāmāyaṇa only four verses.488 
 
@@ -1139,11 +1139,11 @@ FOUNDED
 
 400 
 
-History of Dharmaśāstra 
+
 
 dealt with much more elaborately (in 106 verses ). One in teresting feature of these two chapters is that they contain about twenty-nine identical verses. Sometimes the Rāmā-- yana text is corrupt. Very slight differences of readings are not noted here but only substantial ones. 
 
-The word 'Kaccit' is employed when the person asking the question desires to receive a favourable reply, as the Amarakośa says 'Kaccit kāmapravedane'. The Rāmāyana, employs this word in other passages also as in Balakānda 52. 7-9. The Gitā also employs it in chan. 18. 72 (Srikrona asks ‘Kaccid-ajñāna-sammohaḥ pranastuste Dhanaîjaya' and the reply is 18. 73 nasto mohah, &c'as Krsna desired. 
+The word 'Kaccit' is employed when the person asking the question desires to receive a favourable reply, as the Amarakośa says 'Kaccit kāmapravedane'. The Rāmāyana, employs this word in other passages also as in Balakānda 52. 7-9. The Gitā also employs it in chan. 18. 72 (Srikrona asks ‘Kaccid-ajñāna-sammohaḥ pranastuste Dhanaījaya' and the reply is 18. 73 nasto mohah, &c'as Krsna desired. 
 
 (A = Ayodhyākānda and S = Sabhāparva ) (1) A. 100.17 - S.5.29 reads 'arthavit' for 
 
@@ -1217,7 +1217,7 @@ Research
 
 terte402 
 
-History of Dharmaśāstra 
+
 
 popular and is relied upon as a source in digests on Dharma, though not so frequently and profusely as the Mahābhārata. Vide for example, Dr. Bhabatosh Bhattīcārya's paper on * Rāmāyana and its influence on medieval digests of East India' in Gode com. volume pp. 19-26. The following table will give some idea of the different topics of Dharmaśāstra dwelt upon by the Ramayana. The references are to the Madras one volume edition referred to above (p. 399 n. 441 ). 
 
@@ -1235,7 +1235,7 @@ The claim, put forward in the Balakanda (chap. 2, verses 3-31 ), that Valmiki, o
 
 403 
 
-Quotations in the Mahābhāsya lead to the conclusion that, centuries before Patañjali, works in the Sloka metre bad been composed. A few examples quoted below will bear out this.442 
+Quotations in the Mahābhāṣya lead to the conclusion that, centuries before Patañjali, works in the Sloka metre bad been composed. A few examples quoted below will bear out this.442 
 
 Verses in the Sundarakāndia*4.3 are of great significance on the date of the Ramiyana. Hanūmin is said to have pondered over the question whether he should address Sita in Sanskrit used by Dvijātis ( brālimanas, ksatriyas and vaisyas ) or he should employ sentences used by common men ( vide note below). There is hardly anything to show that about 400 or 500 B. C. there was a vast difference between the languages spoken by higher classes and those spoken by lower classes. But a century or two before and after the Christian era great differences had arisen between the two as indicated by Inscrip tions aud literary works. 
 
@@ -1281,7 +1281,7 @@ the three commentaries ( as on I. 75. 4, 1. 76. 15 ). At the end of the Bālakā
 
 As he quotes the KĀvyaprakāśa, the Alankārasarvasva and the Vștta-ratnākura he is certainly later than the 12th century A.D. and most probably flourished in the last quarter of the 15th century. Vide an exhaustive paper on Govinda rāja by the late Prof. K. V. Rangaswami Aiyangar in A.B.O.R.I. [ Silver Jubilee vol. (1943), pp. 30-54 ). 
 
-The 2nd commentary is called "Rāmāyanusiromani'. The author's name is not clearly stated in the beginning, though at the end of the 7th kānda the concluding verse clearly says 'Sivasalāya-nirinitiresā'. So this commentary was written by Siva-sahāya and he composed the commentary on the banks of the Triveni (Ganges at Allahabad ) with the help of a rich patron called Vamsidhura, sou of Sitārāma, son of Todirama. This commentary also is learned and very extensive on some verses. From the last verse ( 8 ) it appears that the commentary was completed in Sarvat 1921, Asvina sukla 10 (i, e. 1864 A. D.). Thus it is a very modern commentary. 
+The 2nd commentary is called "Rāmāyanusiromani'. The author's name is not clearly stated in the beginning, though at the end of the 7th kānda the concluding verse clearly says 'Śivasalāya-nirinitiresā'. So this commentary was written by Śiva-sahāya and he composed the commentary on the banks of the Triveni (Ganges at Allahabad ) with the help of a rich patron called Vamsidhura, sou of Sitārāma, son of Todirama. This commentary also is learned and very extensive on some verses. From the last verse ( 8 ) it appears that the commentary was completed in Sarvat 1921, Asvina sukla 10 (i, e. 1864 A. D.). Thus it is a very modern commentary. 
 
 The third commentary is called Tilaka.445 The concluding verses 448 of the commentary indicate that the commentary was 
 
@@ -1299,7 +1299,7 @@ POONI
 
 406 
 
-History of Dharmaśāstra 
+
 
 written by Sri Nāgeśa under the patronage of Rāmavarman, The idea of those two verses appears to be that the import of the Rāmāyana was made clearer by the clearing cloth in the form of the intellect of Rāmavarman. What part other than that of a patron ( who employed an eminent scholar like Nāgeśabhatta ) Rāmavarman played is not quite clear. The opening verses of the commentary on the Bālakānda mention only Rāma as the author. 
 
@@ -1307,9 +1307,9 @@ The commentary is learned and to the point and does not make an exhibition of th
 
 As would be shown later on Nāgeśa (or Nāgojibhatta ) flourished between 1670-1750 A. D. 
 
-Vide Prof. P. P. S. Sastri's paper on The commentators of the Rārnīyana in the 15th to 17th century A. D.'in A. B. O. R. I. (Silver Jubilee vol. 1943, pp. 413-414 ). He mentions the commentators on the Ramayana mostly from South India, as the Vaisnavas in South India looked upon the Rāmāyana as the most sacred work on Visnu wor ship. 
+Vide Prof. P. P. S. Sastri's paper on The commentators of the Rārnīyana in the 15th to 17th century A. D.'in A. B. O. R. I. (Silver Jubilee vol. 1943, pp. 413-414 ). He mentions the commentators on the Ramayana mostly from South India, as the Vaiṣṇavas in South India looked upon the Rāmāyana as the most sacred work on Viṣṇu wor ship. 
 
-In the Mahābhārata-titparya-nirnaya of Anandatirtha (Sri Madhvācārya, 13th century A. D.), seven chapters (III-IX) are devoted to the Ramayana story. In the first chapter he sets out the authorities. In I. 30447 he refers to the four Vedas vin. Rgveda and others, the Pancurātra system, the Bharata, the Mula-Rāmāyana, and the Brahmasūtra these are regarded as self-sufficient authorities. What does be mean by Mūla-Rāmāyana ? It means nothing else than the Rāmāyaṇa of Vālmīki. In Sanskrit and the popular langua 
+In the Mahābhārata-titparya-nirṇaya of Anandatirtha (Sri Madhvācārya, 13th century A. D.), seven chapters (III-IX) are devoted to the Ramayana story. In the first chapter he sets out the authorities. In I. 30447 he refers to the four Vedas vin. Rgveda and others, the Pancurātra system, the Bharata, the Mula-Rāmāyana, and the Brahmasūtra these are regarded as self-sufficient authorities. What does be mean by Mūla-Rāmāyana ? It means nothing else than the Rāmāyaṇa of Vālmīki. In Sanskrit and the popular langua 
 
 (Continued from the previous page ) FETETT 11 The first verse alone ocours at the end of the Uttara. kānda. There is a referonce in the first vorse to the commentary called Kataka. There is a pun on the word Kataka (dame of a coinmentary and also the cleansing pot which clarifios muddy water or cleanses soilod clothes). Focus 2289187 geg. प्रसादकम् । न नामग्रहणादेव तस्य वारि प्रसीदति ।। . by कल्पतरु on मोक्ष (p. 64). This is howa VI. 67. There is & commentary on Rāmāyana called Kataka or Amita-Kataka composed out 1650 A, D. ऋगादयश्चत्वारः पञ्चरात्रं च भारतम् । मूलरामाय गं ब्रह्मसूत्रं माना 
 
@@ -1321,7 +1321,7 @@ In the Mahābhārata-titparya-nirnaya of Anandatirtha (Sri Madhvācārya, 13th c
 
 407 
 
-ges of India there are numerous works having the Rāmāyaya as part of their names. At the end of chap. IX (verses 125-7)448 the great Acārya says 'through the grace of Visnu he has declared this grand story, by reasoning and by the power of his intellect, after dispelling all contradictions and deciding the truth from all the Purānas, the works on Pancarātra, from the Bhārata, the Vedas and the great Rāmāyana. So here the word Mahārāmāyana is used in the same sense as Mula-Rāmāyana, since in both places ( 1-30 ) and (IX. 125 127 ) it is the sources of the Rāma saya that are spoken of 
+ges of India there are numerous works having the Rāmāyaya as part of their names. At the end of chap. IX (verses 125-7)448 the great Acārya says 'through the grace of Viṣṇu he has declared this grand story, by reasoning and by the power of his intellect, after dispelling all contradictions and deciding the truth from all the Purāṇas, the works on Pancarātra, from the Bhārata, the Vedas and the great Rāmāyana. So here the word Mahārāmāyana is used in the same sense as Mula-Rāmāyana, since in both places ( 1-30 ) and (IX. 125 127 ) it is the sources of the Rāma saya that are spoken of 
 
 Mr. S. N. Tadpatrikar (in ABORI vol. V. pp. 61-68 ) refers to the word ' Mūlarāmāyana ' and starts a new theory that the Mūlarāmāyana mentioned in I. 30 by Madh vācārya is different from the Mahārāmāyaṇa mentioned by the Acārya himself in IX. 125. The only authority for this is his inter pretation of some words he quotes from the commentary Tilaka. The few words he quotes are not at all clear and do not support what Mr. Tadpatrikar mentions and further the commentator is no authority binding on modern scholars for the meaning of the words employed by the Acārya in the 13th century. 
 
@@ -1343,8 +1343,8 @@ COUNDI 1917
 
 408 
 
-History of Dharmaśāstra 
 
-the four verses quoted from the Rāmāyana in the Dānasāgara could be traced in the Yuddhakānda (chap. 18.30 · vinastaḥ ... raksitaḥ ') in the Gujarati Press edition and that none of the four verses could be found in the Bengali editions. In another paper on the Rāmāyana and its infiuence on the medieval digests of Eastern India' in P. K. Gode Commemora tion Volume 1960, pp. 319-326, the same learned writer discus ses the quotations from the Rāmāyana in the Hāralatā, the three Ratnākaras of Candeśvara (on Krtya, Grhastha, and Vivāda), Kaumudis of Govindānanda ( on Dāna, Srāddha ), and the Rājadharma-kaustubha of Anantadeva. The Kalpa taru on Moksa (pp. 25-26 ) quotes some verses from the Rām. Aranyakānda (chap. 6.2 ff) with different readings. The Mahābhārata offers a great contrast in this respect to the Rāmāyaṇa, as hundreds of verses are quoted from it even in the comparatively early commentaries and digests like the Mitākṣarā and the Kalpataru. 
+
+the four verses quoted from the Rāmāyana in the Dānasāgara could be traced in the Yuddhakānda (chap. 18.30 · vinastaḥ ... raksitaḥ ') in the Gujarati Press edition and that none of the four verses could be found in the Bengali editions. In another paper on the Rāmāyana and its infiuence on the medieval digests of Eastern India' in P. K. Gode Commemora tion Volume 1960, pp. 319-326, the same learned writer discus ses the quotations from the Rāmāyana in the Hāralatā, the three Ratnākaras of Candeśvara (on Kr̥tya, Grhastha, and Vivāda), Kaumudis of Govindānanda ( on Dāna, Srāddha ), and the Rājadharma-kaustubha of Anantadeva. The Kalpa taru on Moksa (pp. 25-26 ) quotes some verses from the Rām. Aranyakānda (chap. 6.2 ff) with different readings. The Mahābhārata offers a great contrast in this respect to the Rāmāyaṇa, as hundreds of verses are quoted from it even in the comparatively early commentaries and digests like the Mitākṣarā and the Kalpataru. 
 
 It is impossible to deal with the numerous writings on the Rāmāyana. Jacobi's German work on the Rāmāyana has been translated into English by Dr. S. N. Ghoshal and published by driblets in several volumes of the Journal of Oriental Institute ( Baroda ). Numerous dates have been proposed for the Rāmāyana e. g. the Department of Letters, Vol. 19 ( Calcutta University ) puts down 433 A. D. as its date. The Rāma story occurs frequently in the Mahābhārata e. g. vide Sabhāparva 50. 39, Vanaparva chap. 148-152 (31 verses ), chap. 274-293 ( verses about 769 ); several Purāṇas such as Brahmao, chap. 123 and 154, Padmapurāna ( several times in Pātālakhanda and Uttarakhanda ), Nārada purāna, Bhāgavatapurāna (IX. 10-11 about 82 verses ), Agni purāna (chap. 5-12, verses 189 ). One writer in Preraṇā ' monthly for October 1949 says that there are fourteen commentaries on the Rāmāyana. 

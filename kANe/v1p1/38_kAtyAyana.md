@@ -5,9 +5,9 @@ title = "38 Kātyāyana"
 
 496 
 
-History of Dharmaśāstra 
 
-38. Katyayana Nārada, Bșhaspati and Kātyāyana form a triumvirate in the realm of the ancient Hindu Law and procedure. The work of Kātyāyana on Vyavahāra, like that of Bphaspati, has yet to be recovered. After the first volume of H. of Dh. was published in 1930, I contributed to a Law Journal in Bombay & collec tion of Kātyāyana's verses gathered from quotations in 21 works and later (in 1933 ) published in a book form 973 verses of Kātyāyana with English translation, two Appendices and a General Index (in all 372 pages). Later on Prof. K. V. Rangaswami Aiyangar contributed a paper to the Kane Fest schrift (pp 7-17) embodying 121 additional verses of Kātyāyana from the work called Vyavahāranirnaya of Vara darāja ( which he published in 1942 48 No. 29 of the Adyar Library series ). 
+
+38. Katyayana Nārada, Bșhaspati and Kātyāyana form a triumvirate in the realm of the ancient Hindu Law and procedure. The work of Kātyāyana on Vyavahāra, like that of Bphaspati, has yet to be recovered. After the first volume of H. of Dh. was published in 1930, I contributed to a Law Journal in Bombay & collec tion of Kātyāyana's verses gathered from quotations in 21 works and later (in 1933 ) published in a book form 973 verses of Kātyāyana with English translation, two Appendices and a General Index (in all 372 pages). Later on Prof. K. V. Rangaswami Aiyangar contributed a paper to the Kane Fest schrift (pp 7-17) embodying 121 additional verses of Kātyāyana from the work called Vyavahāranirṇaya of Vara darāja ( which he published in 1942 48 No. 29 of the Adyar Library series ). 
 
 Kātyāyana is enumerated as one of the expounders of dhurma by Sarkha-Likhita, Yājṅavalkya ( I. 4-5 ) and Parā Sara. A Kātya is quoted as an authority in the Baudhāyana dharmasūtra (I. 2. 37). A Srautasūtra and Sraddhakalpa of the white Yajurveda are ascribed to Kātyāyana. 
 
@@ -41,9 +41,9 @@ fa. 5. p. 152.
 
 498 
 
-History of Dharmaśāstra 
 
-8. 360. Kullāka distinctly says that Katyayana simply ex. plains the verse of Manu by referring to it as Bhrgu's. On the other hand, there are several places where the views ascribed to Bhrgu find no counterpart in the extant Manu. Bhrgu seems to have been a predecessor of the author of the extant Manusmrti since it mentions ( III. 16) the view of Bhrgu. The Mit. on Yaj. III. 292 quotes a verse of Bhrgu. Visvarupa also quotes a verse of Bhrgu on Yaj. I.79 and ano ther on Yaj. I.187, both of which are not found in the Manu smrti. Aparārka quotes in all four verses of Bhrgu (on pp. 58, 461, 547, 696 ). The Sinșticandrikā,561a after dilating upon the two superior places cited by Manu ( viz, the king or a judge appointed by the king where disputes are decided ) quotes three verses of Bhrgu which refer to 15 inferior tribu nals for decision in some special matters. The Smṛticandrikā also quotes several verses of Blırgu on Srāddha, two of which are interesting and indicate that the Bhrgu it quotes is : much later writer than Manu, as they refer to the position of the Sun in rāfis ( signs of the zodiac ). 
+
+8. 360. Kullāka distinctly says that Katyayana simply ex. plains the verse of Manu by referring to it as Bhrgu's. On the other hand, there are several places where the views ascribed to Bhrgu find no counterpart in the extant Manu. Bhrgu seems to have been a predecessor of the author of the extant Manusmrti since it mentions ( III. 16) the view of Bhrgu. The Mit. on Yaj. III. 292 quotes a verse of Bhrgu. Viśvarupa also quotes a verse of Bhrgu on Yaj. I.79 and ano ther on Yaj. I.187, both of which are not found in the Manu smrti. Aparārka quotes in all four verses of Bhrgu (on pp. 58, 461, 547, 696 ). The Sinșticandrikā,561a after dilating upon the two superior places cited by Manu ( viz, the king or a judge appointed by the king where disputes are decided ) quotes three verses of Bhrgu which refer to 15 inferior tribu nals for decision in some special matters. The Smṛticandrikā also quotes several verses of Blırgu on Srāddha, two of which are interesting and indicate that the Bhrgu it quotes is : much later writer than Manu, as they refer to the position of the Sun in rāfis ( signs of the zodiac ). 
 
 According to Bhrgu in all sāhasas of the worst type the truth should be found out by means of divine proof (ordeals &c. ) even though there may be witnesses.Sea There is nothing in the Manusmrti corresponding with this. According to Bhrgu the ordeals of balance &c. are prescribed for those who are suspected to be in league with marauders and who have 
 
@@ -105,7 +105,7 @@ reads त्यजेन्नरः, 566 या स्वपुत्रं त
 
 500 
 
-History of Dharmaśāstra 
+
 
 amanti 1 
 
@@ -115,7 +115,7 @@ handed with their booty should be at once banished.568 As regards both these ref
 
 but somewhat different from and probably larger than the present Manusmrti. 
 
-In the nibandhas several.verses are ascribed to Kātya yana along with Manu, Yājîavalkya and Brhaspati. For example, the well-known verse about the sixtold division of stridhana (adhyaynyadhyāvahanikam &c. ) is ascribed by the Dāyabhāga to Manu and Kātyāyana. The half-verse "varṇā nāmānulomyena dāsyam na pratilomatah" is the same in both Yājñavalkya (11. 183 ) and Katyāyana. The Viramitrodaya (p. 140 ) ascribes a verse to Brhaspati and Kātyāyana, in which the opinion of Brhaspati is cited. There is very close agreement between the definitions proposed by the two last writers of dharma, vyavahāra, caritra, and rājaśāsana. Besides Manu (or Mānavas ), Byhaspati and Bhrgu, Kātyāyana cites the views of several other writers on dharma. For Gārgyas and Gautama vide uotes 567 and 568. He says, accord ing to Kausika, powerful robbers were to be guarded by chains of iron, were to be low-fed and were to undergo hard labour for the state till death ( Aparārka p. 849). He quotes the view of Likhita that where a woman is deprived of food, raiment and dwelling (by her husband's coparceners ) she would be entitled to demand her own ( stridhana ) and a share from the coparceners. In one case ( Aparārka p. 755 ), a verse is cited as Kātyāyana's in which Katyāyana himself is named (Parāśaramadhaviya III. p. 235). 
+In the nibandhas several.verses are ascribed to Kātya yana along with Manu, Yājīavalkya and Brhaspati. For example, the well-known verse about the sixtold division of stridhana (adhyaynyadhyāvahanikam &c. ) is ascribed by the Dāyabhāga to Manu and Kātyāyana. The half-verse "varṇā nāmānulomyena dāsyam na pratilomatah" is the same in both Yājñavalkya (11. 183 ) and Katyāyana. The Viramitrodaya (p. 140 ) ascribes a verse to Brhaspati and Kātyāyana, in which the opinion of Brhaspati is cited. There is very close agreement between the definitions proposed by the two last writers of dharma, vyavahāra, caritra, and rājaśāsana. Besides Manu (or Mānavas ), Byhaspati and Bhrgu, Kātyāyana cites the views of several other writers on dharma. For Gārgyas and Gautama vide uotes 567 and 568. He says, accord ing to Kausika, powerful robbers were to be guarded by chains of iron, were to be low-fed and were to undergo hard labour for the state till death ( Aparārka p. 849). He quotes the view of Likhita that where a woman is deprived of food, raiment and dwelling (by her husband's coparceners ) she would be entitled to demand her own ( stridhana ) and a share from the coparceners. In one case ( Aparārka p. 755 ), a verse is cited as Kātyāyana's in which Katyāyana himself is named (Parāśaramadhaviya III. p. 235). 
 
 Kātyāyana contains the same advanced views about law and rules of procedure as are found in Nārada and Bșhaspati. 
 
@@ -165,9 +165,9 @@ Bhandark Research
 
 502 
 
-History of Dharmaśāstra 
 
-of it in prose and explains it. 571 Medhātithi says that Kātya yana extended the maxim of the trader carrying merchandise (bhāndavāha-vanik maxim ) to all similar transactions. All known quotations of Kātyāyana are in verse. When Medhā tithi speaks of a sutra and quotes a portion of it (as "vā" and "iti" after “nivarteta " indicate ) in prose, we must either suppose that he is referring to some other work of Kātyāyana than the one in verge from which hundreds of verses are cited by other writers or that Kātyāyana's work on vyavahāra also contained some proge passages. As hardly any other writer quotes a prose passage of Kātyāyana on vyavahāra, the second alternative appears somewhat unlikely. Visvarūpa and Medbātithi regarded Katyāyana as an authoritative smrtikāra along with Nārada and Bșhaspati. This position he could not have attained in less than a few hundred years. Therefore, the lowest limit to which Kātyāyana can be assign ed is the 6th century. Hence it may be said that Kātyāyana flourished between the 4th and 6th century A. D. 
+
+of it in prose and explains it. 571 Medhātithi says that Kātya yana extended the maxim of the trader carrying merchandise (bhāndavāha-vanik maxim ) to all similar transactions. All known quotations of Kātyāyana are in verse. When Medhā tithi speaks of a sutra and quotes a portion of it (as "vā" and "iti" after “nivarteta " indicate ) in prose, we must either suppose that he is referring to some other work of Kātyāyana than the one in verge from which hundreds of verses are cited by other writers or that Kātyāyana's work on vyavahāra also contained some proge passages. As hardly any other writer quotes a prose passage of Kātyāyana on vyavahāra, the second alternative appears somewhat unlikely. Viśvarūpa and Medbātithi regarded Katyāyana as an authoritative smrtikāra along with Nārada and Bșhaspati. This position he could not have attained in less than a few hundred years. Therefore, the lowest limit to which Kātyāyana can be assign ed is the 6th century. Hence it may be said that Kātyāyana flourished between the 4th and 6th century A. D. 
 
 The Vyavahāramātṣkā (p. 307 ) quotes a Brhat-Kātya yana on the question of proof. The Dāyabhāga mentions & Vṭddha-Kātyāyana. The Sarasvatīvilāsa also quotes verses of Vrddha-Kātyāyana on rescission of purchase and other topics (p. 320). In the present state of our knowledge it is very difficult to say whether these two are different works, The Caturvarga-cintāmaṇi (vol. III, part 2, p. 657) speaks of Upakātyāyana. Aparārka on p. 485 quotes a verse from sloka-Kātyāyana which is not found in the Karmapradipa (Jivananda's ed. ), but appears to be a summary of a prose passage quoted as Kātyāyana's immediately before by Aparārka. 
 
@@ -207,7 +207,7 @@ lag!hyasūtra III. 6. 10-16 ( 11 474825: 1 af Jha qarTAL मीश्वरम�
 
 504 
 
-History of Dharmaśāstra 
+
 
 Sāndilya and Sandilyāyana on p. 626. Kātyāyana is named in several places (pp. 624, 627, 638 ) and once the first person is used ( as in "mamāpyetad hrdi sthitam” p. 643). The Kātyāyanasmrti quotes the verse of Manu (111.70 ) on the five great yajñas. On p. 633 four verses forming the conso lation to be offered to the relatives of a person departed are the same as Yāj. (III. 8-11) and one verse in the same con text occurs in the Mahābliālata (Sāntiparva 27.31 and other places ).578 On p. 631 Kātyāyana speaks of Rāma having performed yajñas taking as his spouse the golden image of Sītā. 
 
@@ -241,7 +241,7 @@ FOUNDED
 
 verge about five varieties of lapses in conduct viz. mahāpā taka, atipātaka, pataka, prāsaigika, upapātaka and on Yāj. III. 260 quotes a verse of Kātyāyana about what are ati pātakas. These are not to be traced in the Karmapradīpa printed by Jivananda. Similarly, Aparārka (pp. 94-95) quotes three verses of Kātyāyana that are very interesting but are not found in Jivananda's edition.676 Later works like the Nirnayaṣindhu, the Saṁskāramayukha, the Madanapāri jāta quote numerous verses of Kityāyana on upanayana, marriage and other saṁskāras which we vainly seek to find in the Karmapradipa. It is better to hold with Dr. R. C. Hazra that several works were ascribed to Kātyāyana, though they were composed by different persons. Vide New I. A, vol. VII at pp. 64-65. 
 
-The next question is whether KĀtyāyana the jurist and the author of the Karmapradipa are identical. There are not sufficient data to identify the two. The only fact that points to the identity is that such eminent and early writers as Vijñānesvara and Aparārka appear to make no distinction between the two. Besides, the Karmapradipa is also an early work. Against this it has to be remembered that Visvarūpa, probably the most ancient of all extant commentators, no where quotes Kātyāyana ou acāra and prayascitta. This absence of quotations is not a very cogent argument; still it raises a doubt in one's mind whether a work of Katyāyana on ācāra and other non-jural topics was known to Visvarūpa. 
+The next question is whether KĀtyāyana the jurist and the author of the Karmapradipa are identical. There are not sufficient data to identify the two. The only fact that points to the identity is that such eminent and early writers as Vijñānesvara and Aparārka appear to make no distinction between the two. Besides, the Karmapradipa is also an early work. Against this it has to be remembered that Viśvarūpa, probably the most ancient of all extant commentators, no where quotes Kātyāyana ou acāra and prayascitta. This absence of quotations is not a very cogent argument; still it raises a doubt in one's mind whether a work of Katyāyana on ācāra and other non-jural topics was known to Viśvarūpa. 
 
 A few words must be said about the additional 121 verses collected and published in Kane Festschrift by Prof. Aiyangar as ascribed to Kātyāyana. Many verses are ascribed to Bṛhaspati in some Dharmaśāstra works which are attributed to Katyāyana by others. For reasons of space only a few striking examples are cited helow: (Kāt. = collection of Kātyāyana's verses by P. V. Kane and Bș. Col. stands for 
 
@@ -263,9 +263,9 @@ FOUNE
 
 506 
 
-History of Dharmaśāstra 
 
-Prof. Aiyangar's own collection of Brbaspati verses ; P. M. = Parāśara-mādhaviya, Vy. N. =Vyavahāranirnaya ed. by Prof. Aiyangar): 
+
+Prof. Aiyangar's own collection of Brbaspati verses ; P. M. = Parāśara-mādhaviya, Vy. N. =Vyavahāranirṇaya ed. by Prof. Aiyangar): 
 
 1. The verse · Unmatta-matta' in Vy. N. p. 59 is ascribed 
 
@@ -289,7 +289,7 @@ Three verses of Manu are quoted as occurring in Kāt. by Vy. N. p. 529, which ar
 
 The verse 'strīṇām sākøyam striyaḥ kuryuh' is ascribed to Kāt. (my collection No. 351 ) and to Manu by Vyavahāra. mātṇkā p. 323 (and it is Manu VIII. 68). The same is the case with the verse 'Svabhāvenaiva yad-brūyus' &c. (Kāt. No. 393, which is Manu 8. 78 ). The verse anupasthāpayan mūlam' (Kat. No. 619) is ascribed to Manu by the Mit. on Yāj. II. 170 and to Kāt. by Sms. can. (Vy. p. 215 ), Par. M., Vivāda-ratnākara 108 and Viramitrodaya and Vy. Mayūkba. 
 
-It is difficult to say why these differences arise. All that can be proposed as the rule to be followed is that the ascrip tion to Br, or Kāt. of a verse should be accepted on this basis that one should follow what the older and distinguished authors and works ( such as Visvarūpa, Mitākṣarā, Aparārka, Kalpataru, Vyavahāramātṇkā, Smṛticandrikā and Parāśara Madhaviya ) say or a majority of them say. 
+It is difficult to say why these differences arise. All that can be proposed as the rule to be followed is that the ascrip tion to Br, or Kāt. of a verse should be accepted on this basis that one should follow what the older and distinguished authors and works ( such as Viśvarūpa, Mitākṣarā, Aparārka, Kalpataru, Vyavahāramātṇkā, Smṛticandrikā and Parāśara Madhaviya ) say or a majority of them say. 
 
 Similarly, many verses on Vyavahāra are ascribed to both Bșhaspati and Kātyāyana. A few examples may beated Kāt. verses 382-384 are ascribed to different authors by different authorities. Verses 693-95 in my Kāt. collect 
 
@@ -303,7 +303,7 @@ FOUNDED
 
 507 
 
-assigned to different authors viz. to Nārada (first two occur in printed Nārada 12. 5-6 ), Byhaspati, Kāt. and Vyāsa ( No. 83 my collection of Kāt. ) is ascribed to both Bṛ, and Kāt. in Vyavahāra mītrkā p. 281 (it is Kautilya I. 19. 32 ); No. 141 (Pratijñādosa ) is ascribed to both Bṛ. and Kāt. by Kalpa taru ( Vy.) p. 61, Vya. Mātrkā p. 291, but Aparārka (p. 610 ) and Smṛ. c. (Vya. p. 40 ) ascribe to Bṛ. alone and it occurs in Visvarūpa on Yāj. II. 6 (without name). The Prthvi candra ascribes it to both Bṛ, and Kāt. (on Vya. p. 47, a digest of about last quarter of the 15th century A. D.); Kāt. No. 152 (sūhagasteya ' &c. ) is ascribed to both Br. and Kāt. by Pṛthvicandra ( Vy. p. 55 ) and Kalpataru ( Vy. p. 67 ) and is almost the same as Yāj. II. 12 ). 
+assigned to different authors viz. to Nārada (first two occur in printed Nārada 12. 5-6 ), Byhaspati, Kāt. and Vyāsa ( No. 83 my collection of Kāt. ) is ascribed to both Bṛ, and Kāt. in Vyavahāra mītrkā p. 281 (it is Kautilya I. 19. 32 ); No. 141 (Pratijñādosa ) is ascribed to both Bṛ. and Kāt. by Kalpa taru ( Vy.) p. 61, Vya. Mātrkā p. 291, but Aparārka (p. 610 ) and Smṛ. c. (Vya. p. 40 ) ascribe to Bṛ. alone and it occurs in Viśvarūpa on Yāj. II. 6 (without name). The Prthvi candra ascribes it to both Bṛ, and Kāt. (on Vya. p. 47, a digest of about last quarter of the 15th century A. D.); Kāt. No. 152 (sūhagasteya ' &c. ) is ascribed to both Br. and Kāt. by Pṛthvicandra ( Vy. p. 55 ) and Kalpataru ( Vy. p. 67 ) and is almost the same as Yāj. II. 12 ). 
 
 Kātyāyana himself is named in & verse that is cited from Kātyāyana by Par. M.57? 
 

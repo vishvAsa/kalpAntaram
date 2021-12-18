@@ -3,9 +3,9 @@ title = "63 Śrīkara"
 
 +++
 
-63. Srikara The Mit. on Yāj. II. 135 alludes to the view of Srikara and others that the widow succeeded is heir to her deceased husband's estate if it was small.743 The Smytisāra744 of Harinātha attributes the same view to Srikara and disappro ves of it. On Yāj. II. 169 the Mit.746 cites the view of Srikara about that topic and disapproves of it. Visvarūpa also gives two explanations of that verse of Yāj., the first of which agrees with that of the Mit, and the second is akin to Srikara's. 
+63. Srikara The Mit. on Yāj. II. 135 alludes to the view of Srikara and others that the widow succeeded is heir to her deceased husband's estate if it was small.743 The Smytisāra744 of Harinātha attributes the same view to Srikara and disappro ves of it. On Yāj. II. 169 the Mit.746 cites the view of Srikara about that topic and disapproves of it. Viśvarūpa also gives two explanations of that verse of Yāj., the first of which agrees with that of the Mit, and the second is akin to Srikara's. 
 
-The works of Jimūtavāhana (viz. the Dayabhāga and the Vyavahāramātṛkā ), the Smrticandrikā and the Sarasvati vilāsa contain very interesting notices of Srikara's views. Many of them were brought together by ne in JBBRAS for 1925, pp. 213-215. Srikara like Visvarūpa held the view that 'duhitarah in Yūj. refers to the putriku, he allowed the parents of a chililless person to succeed together at the same time. The Diyabhāga very severely criticizes the views of Srikara on the succession to re-united members, on vidyā dhana and on Yaj. II. 24 ( about enjoyment for 20 years ). 148 Most of the views attributed to Srikara were also entertained by Visvarūpa ur are more antiquated than Viśvarūpa's. 
+The works of Jimūtavāhana (viz. the Dayabhāga and the Vyavahāramātṛkā ), the Smrticandrikā and the Sarasvati vilāsa contain very interesting notices of Srikara's views. Many of them were brought together by ne in JBBRAS for 1925, pp. 213-215. Srikara like Viśvarūpa held the view that 'duhitarah in Yūj. refers to the putriku, he allowed the parents of a chililless person to succeed together at the same time. The Diyabhāga very severely criticizes the views of Srikara on the succession to re-united members, on vidyā dhana and on Yaj. II. 24 ( about enjoyment for 20 years ). 148 Most of the views attributed to Srikara were also entertained by Viśvarūpa ur are more antiquated than Viśvarūpa's. 
 
 743 एतेनाल्यानविषयत्वं श्रीकरादिभिरुन निररतं वेदितव्यम् । 744 न च खल्पबलये (धनत्वे ? ) पत्नी दुहितर इति बहुधनत्वे भ्रातृणामप्रजा इति 
 
@@ -23,11 +23,11 @@ of 1895 ) where he quotos Srikara iby the first among a host of writers that bol
 
 572 
 
-History of Dharmaśāstra 
+
 
 Srikara was probably a writer from Mithila and seems to have propounded the view of spiritual benefit as the criterion for judging superior rights of succession. The Smrtisāra747 of Harinātha ascribes such a view to a Srikara-nibandha. 
 
-Whether Srikara wrote a commentary on a smrti or a general digest ( nibandha ) it is difficult to say. The Smrti candrikā748 says that Sambhu, Srikara and Devasvāmin com piled digests of smitis and allded their own explanations of them. The Smrtyarthasāra?!9 of Sridhara asserts in the in troductory verses that Srikantha and Srikaricārya filled up the gaps in the smrtis that were scattered about ( by intro ducing order out of chaos ). Srikara's explanations of Yajina valkya are frequently cited by the Mit., the Dāyabhāga and others. But the Mit. does not connect Srikara's name with Yājñavalkya as a commentator, though Visvarūpe is express ly so connected. It appears therefore inore likely that Srikara 
+Whether Srikara wrote a commentary on a smrti or a general digest ( nibandha ) it is difficult to say. The Smrti candrikā748 says that Sambhu, Srikara and Devasvāmin com piled digests of smitis and allded their own explanations of them. The Smrtyarthasāra?!9 of Sridhara asserts in the in troductory verses that Srikantha and Srikaricārya filled up the gaps in the smrtis that were scattered about ( by intro ducing order out of chaos ). Srikara's explanations of Yajina valkya are frequently cited by the Mit., the Dāyabhāga and others. But the Mit. does not connect Srikara's name with Yājñavalkya as a commentator, though Viśvarūpe is express ly so connected. It appears therefore inore likely that Srikara 
 
 ( Continued from the previous page ) 'तस्माद्याज्ञवल्क्यादिवचनाविंशतिवर्षदशवर्षादिकाकैर्भोग एव स्वत्वं जनयति।... एवमेव श्रीकर-बालक-योग्लोक-भवदेवभट्ट- शूलपाणि-कुटूकभट्ट-चण्डेश्वरमन्त्रि नव्यवर्धमानोपाध्यायप्रभृतयः । व्यवहारोपि तादृगेव । एतद्विरुद्धवचनान्यथा व्याख्येयानि ।'; व्यवहारनिर्णय of वरदराज p. 135 refers to this topic. Eambhu is quoted by Aparārku (p. 475 on icirn ) and by Vyavabāra prakāśa (of Pithvivandru) p. 176 as having the same vorse on 
 
@@ -47,9 +47,9 @@ ordeals with Nirada. 747 Vide स्मृतिसार ( I. 1). ent. No. 301,
 
 wrote a digest of smṛtis in which he paid particular attention to the explanation of the words of Yājsavalkya. The Rāja nitiratnākara750 of Candesvara quotes the views of Srikara on Rājaniti, one of which is that the poor and helpless are entitled to a share of the royal wealth. 
 
-Hemālrist quotes the view of Srikara on Visnu and dis approves of the faults found therein by the author of the Paụuita-paritosa. 
+Hemālrist quotes the view of Srikara on Viṣṇu and dis approves of the faults found therein by the author of the Paụuita-paritosa. 
 
-As Srikara is quoted by the Mit., he is certainly earlier than 1050 A. I). As his views agree largely with Visvarūpa's he may provisionally be regarded as nearly of the same period as Visvarūpia's. He cannot be earlier than Asahiya who is named both by Viśvarūpa and Medhatithi, though both of them are silent about Srikara. Hence Srikara must be placed somewhere between 800 and 1050 A. D. and probably flourish ed in the 9th century. 
+As Srikara is quoted by the Mit., he is certainly earlier than 1050 A. I). As his views agree largely with Viśvarūpa's he may provisionally be regarded as nearly of the same period as Viśvarūpia's. He cannot be earlier than Asahiya who is named both by Viśvarūpa and Medhātithi, though both of them are silent about Srikara. Hence Srikara must be placed somewhere between 800 and 1050 A. D. and probably flourish ed in the 9th century. 
 
 This Srikara must be distinguished from another Srikara, the father of Srinātha. 
 

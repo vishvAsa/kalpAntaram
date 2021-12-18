@@ -5,7 +5,7 @@ title = "37 Bṛhaspati"
 
 484 
 
-History of Dharmaśāstra 
+
 
 37. Brhaspati Brbaspati as a sūtra writer on politics has been dealt with above ( section 26 ). In this section Brhaspati the jurist will be spoken of. The complete smrti of Bșhaspati on law has not yet been discovered. It will be, when discovered, a very precious monument of ancient India, exhibiting the high water mark of Indian acumen in strictly legal principles and definitions. Dr. Fūbrer collected together 84 verses ascribed to Brhaspati in the legal treatises of Aparārka and others with German translation and notes ( Leipzig, 1879 ) and Dr. Jolly collected about 711 verses of Brhaspati on law and translated them in the Sacred Books of the East (vol. 33 ). 
 
@@ -85,7 +85,7 @@ Hary
 
 486 
 
-History of Dharmaśāstra 
+
 
 Bphaspati gives such elaborate definitions and rules about procedure from the filing of the plaint to the passing of the decree that he can very well stand comparison with modern legislators on the same subjects. 
 
@@ -109,7 +109,7 @@ FOUNDED
 
 husband.580 Br. says 'those who say that clothes and the like are not liable to partition have not bestowed proper thought (on that matter), as rich people might, have wealth largely consisting of clothes and ornaments. This is really a criticism of the Manusmrti but out of deference for Manu, the reference is impersonal. Aparārka p. 726 (five verses ) explains from Bphaspati how to partition these. 
 
-These considerations make it clear that Bṛhaspati is cer tainly later than Manu and Yāj. It is difficult to state his exact relationship to Nārada. He agrees more closely with Manu than Nārada does, but in some respects such as defini tions and the rights of women he shows great advance over Nārada. So he is probably a contemporary of or not much later than Nārada. He employs the word nāṇaka 640 He de fines a dīnāra, also called "suvarna", as equal to twelve dhānakas and says that a Jhānaka was equal to four andikās, an andikā being a copper paṇa weighing a karṣa and bearing a stamp.541 This agrees with what Nārada says about dināra. Dr. Jolly (S. B. E. vol. 33 p. 276 ) assigns Brhaspati to the 6th or 7th century A. D. But this is much later by several centuries than the evidence warrants. Kātyāyana was looked upon as an authoritative writer along with Nārada and Brhas pati by Visvarūpa and Medhātithi. This position he could not have attained in a century or two. So he cannot be plac ed later than the 6th century. Kātyāyana in several places quotes Bṛhaspati as an authority. Aparārka quotes Kātya yana as saying that, according to Bșhaspati, pastures, ways, 
+These considerations make it clear that Bṛhaspati is cer tainly later than Manu and Yāj. It is difficult to state his exact relationship to Nārada. He agrees more closely with Manu than Nārada does, but in some respects such as defini tions and the rights of women he shows great advance over Nārada. So he is probably a contemporary of or not much later than Nārada. He employs the word nāṇaka 640 He de fines a dīnāra, also called "suvarṇa", as equal to twelve dhānakas and says that a Jhānaka was equal to four andikās, an andikā being a copper paṇa weighing a karṣa and bearing a stamp.541 This agrees with what Nārada says about dināra. Dr. Jolly (S. B. E. vol. 33 p. 276 ) assigns Brhaspati to the 6th or 7th century A. D. But this is much later by several centuries than the evidence warrants. Kātyāyana was looked upon as an authoritative writer along with Nārada and Brhas pati by Viśvarūpa and Medhātithi. This position he could not have attained in a century or two. So he cannot be plac ed later than the 6th century. Kātyāyana in several places quotes Bṛhaspati as an authority. Aparārka quotes Kātya yana as saying that, according to Bșhaspati, pastures, ways, 
 
 539 ST wastaa alatt a HTS: ISTRITTE ETT Hryf guargaan. 
 
@@ -129,9 +129,9 @@ Ahond
 
 488 
 
-History of Dharmaśāstra 
 
-clothes that are worn on the body, debts, (or books for use, according to others ) and what is set apart for religious pur poses should not be partitioned.642 Kātyāyana says that, according to Brhaspati, that wealth which a man acquires by means of his learning after refuting an opponent in a contest with a stake for the winner is styled "vidyādhana" and is not liable to partition 543; and what is acquired through valour &c. by persons that were taught in the family or learnt under their father should be partitioned among the brothers, accord ing to Bṛhaspati. If a man falsely denies his liability and if only a part of the claim is brought home to him, then he should be made to pay the whole.544 That the statement of a witness may be relied upon on a matter under his direct per ception owing to his being near the plaintiff and the defendant and not otherwise; so says Bphaspati.645 The foregoing exa mples show that Kātyāyana looked upon Brhaspati as an authority who must therefore have flourished several centu ries before. Therefore Bșhaspati cannot be placed later than the 4th century A. D. As he knew the extant Manusmrti, was later than Yāj. and probably than Nūrada, Bphaspati must have flourished between 200 and 400 A. D. This conclusion is strengthened by the fact that Visvarūpa quotes, without making any difference, prose and verse passages of Bșhaspati and thereby shows that in his opinion the jurist Brhaspati (in verse ) was identical with the political writer Bșhaspati and was a very ancient writer in his day. Medhātithi (on Manu 9. 153 ) quotes the verse“ na pratigrahabhūr" (ascrib ed to Brhaspati by others ) as Smṛtyantara. Bṛhaspati is 
+
+clothes that are worn on the body, debts, (or books for use, according to others ) and what is set apart for religious pur poses should not be partitioned.642 Kātyāyana says that, according to Brhaspati, that wealth which a man acquires by means of his learning after refuting an opponent in a contest with a stake for the winner is styled "vidyādhana" and is not liable to partition 543; and what is acquired through valour &c. by persons that were taught in the family or learnt under their father should be partitioned among the brothers, accord ing to Bṛhaspati. If a man falsely denies his liability and if only a part of the claim is brought home to him, then he should be made to pay the whole.544 That the statement of a witness may be relied upon on a matter under his direct per ception owing to his being near the plaintiff and the defendant and not otherwise; so says Bphaspati.645 The foregoing exa mples show that Kātyāyana looked upon Brhaspati as an authority who must therefore have flourished several centu ries before. Therefore Bșhaspati cannot be placed later than the 4th century A. D. As he knew the extant Manusmrti, was later than Yāj. and probably than Nūrada, Bphaspati must have flourished between 200 and 400 A. D. This conclusion is strengthened by the fact that Viśvarūpa quotes, without making any difference, prose and verse passages of Bșhaspati and thereby shows that in his opinion the jurist Brhaspati (in verse ) was identical with the political writer Bșhaspati and was a very ancient writer in his day. Medhātithi (on Manu 9. 153 ) quotes the verse“ na pratigrahabhūr" (ascrib ed to Brhaspati by others ) as Smṛtyantara. Bṛhaspati is 
 
 542 गोप्रचारश्च रथ्या च वस्त्रं यच्चाङ्गयोजितम् । प्रयोज्यं न विभज्येत धर्मार्थं च 
 
@@ -153,7 +153,7 @@ FOUNDED
 
 489 
 
-cited in a few cases as referring to his own views in the third person 848 ; sometimes he uses the first person also.547 Nothing can be said about his country at present. In a well-known passage Byhaspati refers to the usages of the southern people, of the people in the Madhyadeśa, of the eastern and northern people.648 In a striking and beautiful passage Brhaspati compares vyavahare with yajna,549_the king with Visnu, the successful party with the sacrificer and the defeated party with the victim, the plaint and the reply to food and the pratijna to the sacrificial offering (prepared from food ), the sāstras to the three Vedas and the subhyas to the priests in a sacrifice. Brhaspati seems to have been very fond of such long-drawn metaphors.sh0 
+cited in a few cases as referring to his own views in the third person 848 ; sometimes he uses the first person also.547 Nothing can be said about his country at present. In a well-known passage Byhaspati refers to the usages of the southern people, of the people in the Madhyadeśa, of the eastern and northern people.648 In a striking and beautiful passage Brhaspati compares vyavahare with yajna,549_the king with Viṣṇu, the successful party with the sacrificer and the defeated party with the victim, the plaint and the reply to food and the pratijna to the sacrificial offering (prepared from food ), the sāstras to the three Vedas and the subhyas to the priests in a sacrifice. Brhaspati seems to have been very fond of such long-drawn metaphors.sh0 
 
 The Smṛticandrika quotes about seventy verses of Bṛbas pati in the Ahnika portion and about forty on Srāddha. In the later works like the Parisara-Madhaviya, the Nirnaye. sindhu and Sarnskara-Kaustubha, the number of verses quot ed from Brhaspati is much larger than even those quoted by the Smṛticandrikā. Those verses are quoted on such sams karas as pumsa.vana, namakarana, caula, upanayana. vivaha. and also ou āsauca and purification of dravyas. Even the Mitākṣarī quotes several verses of Bphaspati on matters 
 
@@ -185,7 +185,7 @@ ASTI
 
 490 
 
-History of Dharmaśāstra 
+
 
 other than those of vyavahiirit. For example, the Mit. on Yāj. I. 210 quotes a verse of Brhaspati that a nivartana ( of land ) is equal to 30 dandas in area (danda being seven cubits in length) and ten nivartanas are equal to a gocarma.851 On Yāj. III. 17 the Mit. quotes two verses of Bṛhaspati about impurity on birth or death &c. On Yāj. III. 21 the Mit. cites the definition of leśāntara given by Brhaspati.562 On Yāj. III. 24 the Mit quotes Brhaspati's opinion that the period of mourning on the death of one's maternal grandfather, ācārya or srctriya is three days. On Yāj. III. 253 the Mit. quotes Brhaspati's rule as to prāyaścitta for consciously drinking wine.868 Vide also Mit. on Yāj. III. 30, 250, 254, 260, 290 for other quotations from Brhaspati 
 
@@ -217,9 +217,9 @@ After the publication of the first volume of the History of Dharmaśāstra in 19
 
 492 
 
-History of Dharmasastra 
 
-collected and edited. This work is a laborious performance. It should have been accompanied by an English translation and notes on difficult passages. I have, however, to differ from it in some places and am further obliged to say that, in spite of all the labour he bestows, he some how failed to notice some verges and prose passages of Byhaspati as having been men tioned by Visvarūpa and others. Dr. Jolly (in S. B. E. vol. 33 ) collected and translated 717 verses of Brhaspati on 
+
+collected and edited. This work is a laborious performance. It should have been accompanied by an English translation and notes on difficult passages. I have, however, to differ from it in some places and am further obliged to say that, in spite of all the labour he bestows, he some how failed to notice some verges and prose passages of Byhaspati as having been men tioned by Viśvarūpa and others. Dr. Jolly (in S. B. E. vol. 33 ) collected and translated 717 verses of Brhaspati on 
 
 Vyavahāra'. 
 
@@ -229,7 +229,7 @@ Dr. Jolly rightly says at the beginning of his Introduc tion to the translation 
 
 Aparārka (on Yāj. II. 151 pp. 761-62), Kalpataru (on Vyavahāra on pp. 450-51 ) and Smrticandrika ( Vyavahāra, p. 234, Gharpure) contain 8 or 9 verses of Bṛhaspati about the loss or gain of lands by the change in the courses of rivers or when a king grants lands from one village as situated in another. 
 
-The Vyavahāranirnaya of Varadarāja cites a verse (on p. 132 ) as Bphaspati's in the work called Pancādhyāyi' and again ( on p. 357 ) simply a verse in 'Pascādhyāyī.' It is possible that Pascadhyāyi is an independent work in which Bphaspati was quoted or it may be that Pañcūdhyāyi is the name of the work of Brhaspati himself. 666 
+The Vyavahāranirṇaya of Varadarāja cites a verse (on p. 132 ) as Bphaspati's in the work called Pancādhyāyi' and again ( on p. 357 ) simply a verse in 'Pascādhyāyī.' It is possible that Pascadhyāyi is an independent work in which Bphaspati was quoted or it may be that Pañcūdhyāyi is the name of the work of Brhaspati himself. 666 
 
 *------- 
 
@@ -251,7 +251,7 @@ FOUNDED
 
 498 
 
-Prof. Aiyangar says ( on p. 493 of his reconstructed Brhaspati) that certain passages ( both nir. prose and verse ) attributed to Bșhaspati in different Nibandbas were noticed by him after the text had been sent to the press and then gets out only two passages in prose from Visvarūpa's Bālakrida The commentary of Visvarūpa was published at Trivandrum in two parts, the first in 1922 ( on Yāj. I and II, ācāra and vyavahara) and the 2nd in 1924 (on Prayascitta). He began to collect materials for the reconstruction of Brhaspati after 1934. Therefore, he could have secured many more prose passages attributed to Brhaspati by Visvarūpa. I set out a few more prose passages of Brhaspati from Visvarūpa's com mentary alone. They are ten in all, most of which refer to Vyavahāra.b58 Visvaripa also quotes five verses of Brhaspati, 
+Prof. Aiyangar says ( on p. 493 of his reconstructed Brhaspati) that certain passages ( both nir. prose and verse ) attributed to Bșhaspati in different Nibandbas were noticed by him after the text had been sent to the press and then gets out only two passages in prose from Viśvarūpa's Bālakrida The commentary of Viśvarūpa was published at Trivandrum in two parts, the first in 1922 ( on Yāj. I and II, ācāra and vyavahara) and the 2nd in 1924 (on Prayascitta). He began to collect materials for the reconstruction of Brhaspati after 1934. Therefore, he could have secured many more prose passages attributed to Brhaspati by Viśvarūpa. I set out a few more prose passages of Brhaspati from Viśvarūpa's com mentary alone. They are ten in all, most of which refer to Vyavahāra.b58 Viśvaripa also quotes five verses of Brhaspati, 
 
  , --- 
 
@@ -291,9 +291,9 @@ Prof. Aiyangar says ( on p. 493 of his reconstructed Brhaspati) that certain pas
 
 494 
 
-History of Dharmaśāstra 
 
-which have been noticed by Prof. Aiyangar. He, it appears, regards the quotations in prose and verse as belonging to the same author. In one proge quotation Brhaspati is mentioned by name as stating a certain proposition. It is possible that Visvarūpa regarded that all quotations (both prose and in verse) are to be attributed to oue author. One cannot dogma tise on such a point. But it is quite likely that the author of the verses was different from the author of the Sūtras quoted by Visvarūpa. 
+
+which have been noticed by Prof. Aiyangar. He, it appears, regards the quotations in prose and verse as belonging to the same author. In one proge quotation Brhaspati is mentioned by name as stating a certain proposition. It is possible that Viśvarūpa regarded that all quotations (both prose and in verse) are to be attributed to oue author. One cannot dogma tise on such a point. But it is quite likely that the author of the verses was different from the author of the Sūtras quoted by Viśvarūpa. 
 
 Prof. Louis Renou of Paris contributed to volume VI (1962) of the Indo-Iranian Journal ( Publishers, Moulton and Co., the Hague ) pp. 81-102 a learned paper (in French ) on the edition of the fragments of Brhaspati (collected ) by Prof. K. V. Rangaswami Aiyangar. It is not possible to mention here for reasons of space even the most salient points of his criticisms against Prof. Aiyangar's edition of Bșhas pati. On p. 83 note 2 he observes that Prof. Aiyangar has not made use of P. V. Kane's learned edition of the fragments of Kātyāyana with translations and points out that the word 'nāsṭika' which is explained in H. of Dh. Vol. III pp. 464-5 and the incidents of the sale by a finder of an article lost by the owner (in Kātyāyana 622-623 ) are not set out by Prof. Aiyangar. It is unnecessary for the present author to dwell on the omissions pointed out by Prof. Reuou in Prof. Aiyangar's work, which latter simply collects passages with enormous details about the works and pages where the verses of Bṛhaspati occur with hardly a word of explanation anywhere. 
 

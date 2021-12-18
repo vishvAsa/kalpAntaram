@@ -5,7 +5,7 @@ title = "44 Pitāmaha"
 
 44. Pitāmaha 
 
-Pitāmaba is enumerated among writers on dharma in a verse of Vṛddha-Yājsavalkya quoted by Visvarūpa. The Smrti of Pitāmaha (part I p. 10) is drawn upon mostly on Vyavabāra. Visvarūpa cites (on Yaj. I. 17 ) & verse from him on sauca.603 The Mitākṣarā and Aparārka respective ly quote about 45 and 75 verses from Pitāmaba only on Vyavabāra and specially on ordeals and the Kalpataru on Vyavahāra quotes about 90 verses on the same topics from Pitāmaha. Some verses are ascribed to both Pitāmaha and Nārada (as in Kalpataru Vy. pp. 238, 239) and in a few cases to Bșhaspati and Pitāmaba (as in Kalpataru, Vy. p. 251 ). The Smṛticandrikā quotes about ten verses (of Pito ) on āhnika, 130 on Vyavahāra and only a few on srāddha. Pitāmaha regards the Vedas with the angas, Mimāṁsā, the 
+Pitāmaba is enumerated among writers on dharma in a verse of Vṛddha-Yājsavalkya quoted by Viśvarūpa. The Smrti of Pitāmaha (part I p. 10) is drawn upon mostly on Vyavabāra. Viśvarūpa cites (on Yaj. I. 17 ) & verse from him on sauca.603 The Mitākṣarā and Aparārka respective ly quote about 45 and 75 verses from Pitāmaba only on Vyavabāra and specially on ordeals and the Kalpataru on Vyavahāra quotes about 90 verses on the same topics from Pitāmaha. Some verses are ascribed to both Pitāmaha and Nārada (as in Kalpataru Vy. pp. 238, 239) and in a few cases to Bșhaspati and Pitāmaba (as in Kalpataru, Vy. p. 251 ). The Smṛticandrikā quotes about ten verses (of Pito ) on āhnika, 130 on Vyavahāra and only a few on srāddha. Pitāmaha regards the Vedas with the angas, Mimāṁsā, the 
 
 . 
 
@@ -51,7 +51,7 @@ Smrtis, Purana and Nyaya system as dharmasastras.584 Pitāmaha, like Bșhaspati,
 
 516 
 
-History of Dharmaśāstra 
+
 
 according to the śāstru; possession in order to be recognised by the courts as decisive must have five characteristics,sol it must have title, long duration, it must be uninterrupted, it must not have been impeached and it must be before the eyes of the opponent; & private document602 under one's own hand is inferior to a jānapada (a publicly written and attested ) deed, the latter is inferior to a royal edict, this last is inferior to possession continued for three generations. 
 

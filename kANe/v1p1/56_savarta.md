@@ -3,7 +3,7 @@ title = "56 Saṁvarta"
 
 +++
 
-56. Samvarta Saṁvarta occurs as a Smrtikāra in the list of Yājña valkya. He is cited on all topics of dharma by Visvarūpa, Medhātithi, the Mit., Haradatta, Aparirka, the Smṛticandrikā and a host of other writers. Visvarūpa quotes either wholly or in part about twenty verses of Samvarta on evening sandhyā vandana, on the duties of a yuti and on the prāyaścittas for theft, adultery of various kinds, deadly sius. Medhātithi quotes verses of Surivarta on Manu V. 88 and XI. 116. The Mit. quotes him on prayascitta and aśauca ( Yāj. III. 6. 17 19 etc. ). Apararka had a large work before him and quotes about 200 verses almost all on īcīra and priyuscitta. 
+56. Samvarta Saṁvarta occurs as a Smrtikāra in the list of Yājña valkya. He is cited on all topics of dharma by Viśvarūpa, Medhātithi, the Mit., Haradatta, Aparirka, the Smṛticandrikā and a host of other writers. Viśvarūpa quotes either wholly or in part about twenty verses of Samvarta on evening sandhyā vandana, on the duties of a yuti and on the prāyaścittas for theft, adultery of various kinds, deadly sius. Medhātithi quotes verses of Surivarta on Manu V. 88 and XI. 116. The Mit. quotes him on prayascitta and aśauca ( Yāj. III. 6. 17 19 etc. ). Apararka had a large work before him and quotes about 200 verses almost all on īcīra and priyuscitta. 
 
 A few of the views of Samvartu on topics of vyavahāra may be noted here. According to him oral testimony when in opposition to writing was to be discarded. 674 This is in striking agreement with section 92 of the Indian Evidence Act. He says that if houses and fields are being enjoyed ( by one person us against another ) when the king is there (i. e. when the central government is strong and there is no 
 
@@ -17,7 +17,7 @@ A few of the views of Samvartu on topics of vyavahāra may be noted here. Accord
 
 542 
 
-History of Dharmaśāstra 
+
 
 anarchy ), then it is possession that counts and not mere writing (i. e. possession will be protected and not mere paper title without possession ).075 He lays down that no interest was to be allowed if not stipulated for in certain cases, viz., on stridhana ( when used by the husband ), on interest, on deposit ( as long as it is not lost or deteriorated ) and in suretyship.s78_He enumerates ten wrongs ( aparādhas ) of which the king was to take cognisance suo motu without any private person's complaint, viz., restraint of the defendant ( before judgment ), obstruction of the public road, women conceiving in adultery, becoming rich without any ostensible means, destruction of a meeting hall and of trees and crops, kidnapping of maidens, sinning Brāhmaṇas, champerty and maintenance, destruction of the roads where tolls are to be paid, the danger of robbers, rape, injury to cows and Brāh manas.077 He prescribed that disputes were not to be investi gated on the full moon and new moon day, and on the 14th and 8th tithis. ( Vide Par. M. Vol. II. p. 23 ). 
 
@@ -45,7 +45,7 @@ duties of householder, eulogy of liberality, duties of forest hermit and sampyā
 
 In a few M83. (e. g. I. O. cat. No. 1367 ) the Sam varta smrti comprised is different from the printed Saṁvarta. 
 
-The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparārka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparārka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Visvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smṛti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Visvarūpa. 
+The printed sinști appears to be an epitome of a portion of the original surti of Saṁvartu. Many of the verses in the printed texts are found in Aparārka. For example, Aparārka p. 14=Sasvarta verse 6; Aparārka p. 693 = Samvarta verses 107-108; Aparārka p. 1053 = Samvarta verses 111-113; Aparārka p. 1094 ( eight verses out of which five ) =Saṁvarta verses 130-34. The pāda of Saṁvarta which Viśvarūpa quotes (ardhāstamitabhāskarām) on Yāj. I. 25 occurs in verse 6 of the printed text. This shows that the printed smṛti preserves very ancient material, the authenticity of which is vouched for by so early a writer as Viśvarūpa. 
 
 ADU 
 
