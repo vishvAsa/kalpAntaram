@@ -25,13 +25,13 @@ The present work will deal with the sources of _dharma_, their contents, their c
 
 [^8]: ऋतं सत्यं तपो राष्ट्रं श्रमो धर्मश्च कर्म च। भूतं भविष्यदुच्छिष्टे वीर्यं लक्ष्मीर्बलं बले ॥
 
-[^9]: धर्मस्य गोप्ताजनीति तमभ्युत्कृष्टमेवंविदभिषेक्ष्यन्नेतयार्चाभिमन्त्रयेत। ऐत. ब्रा. VII. 17; _vide_ also a similar passage at A. Br. VIII. 13. The form _dharman_ occurs in the Upaniṣads and in classical Sanskrit in Bahuvrīhi compounds, e.g. अनुच्छित्तिधर्मा in the बृहदारण्यकोपनिषद् and the sūtra धर्मादनिच् केवलात्‌ (पा. V. 4. 124). Pāṇini employs the word _dharma_ in some of his sūtras as in धर्मं चरति (IV. 4. 4, which derives the word धार्मिक​), IV. 4. 92 (derives धर्म्य from धर्म), चरणेभ्यो धर्मवत्‌ IV. 2. 46 (derives words like काठक, छान्दोग्य​), 'तस्य धर्म्यम्' (IV. 4. 47), धर्मशीलवर्णान्ताच्च (V. 2. 132, which explains ब्राह्मणधर्मी or-शीली or-वर्णी).
+[^9]: धर्मस्य गोप्ताजनीति तमभ्युत्कृष्टमेवंविदभिषेक्ष्यन्नेतयार्चाभिमन्त्रयेत। ऐत. ब्रा. VII. 17; _vide_ also a similar passage at A. Br. VIII. 13. The form _dharman_ occurs in the Upaniṣads and in classical Sanskrit in Bahuvrīhi compounds, e.g. अनुच्छित्तिधर्मा in the बृहदारण्यकोपनिषद् and the sūtra धर्मादनिच् केवलात्‌ (पा. V. 4. 124). Pāṇini employs the word _dharma_ in some of his sūtras as in धर्मं चरति (IV. 4. 4, which derives the word धार्मिक), IV. 4. 92 (derives धर्म्य from धर्म), चरणेभ्यो धर्मवत्‌ IV. 2. 46 (derives words like काठक, छान्दोग्य), 'तस्य धर्म्यम्' (IV. 4. 47), धर्मशीलवर्णान्ताच्च (V. 2. 132, which explains ब्राह्मणधर्मी or-शीली or-वर्णी).
 
-[^10]: त्रयो धर्मस्कन्धा यज्ञोध्ययनं दानमिति प्रथमस्तप एवेति द्वितीयो ब्रह्मचार्याचार्यकुलवासी तृतीयोत्यन्तमात्मानमाचार्यकुलेवसादयन् सर्व​ एते पुण्यलोका भवन्ति ब्रह्मसंस्थोमृतत्वमेति ॥ vide वेदान्तसूत्र​ III. 4. 18-20 for a discussion of this passage.
+[^10]: त्रयो धर्मस्कन्धा यज्ञोध्ययनं दानमिति प्रथमस्तप एवेति द्वितीयो ब्रह्मचार्याचार्यकुलवासी तृतीयोत्यन्तमात्मानमाचार्यकुलेवसादयन् सर्व एते पुण्यलोका भवन्ति ब्रह्मसंस्थोमृतत्वमेति ॥ vide वेदान्तसूत्र III. 4. 18-20 for a discussion of this passage.
 
 [^11]: 'सर्वधर्मसूत्राणां वर्णाश्रमधर्मोपदेशित्वात्' p. 237.
 
-[^12]: हरदत्त on गौ. ध​. सू. 19. 1 and गोविन्दराज​ on मनु 2.25 give the same fivefold classification. The Bhaviṣyapurāṇa (in Brāhmaparva 181, 10-15) sets out this fivefold dharma (Venk, Press ed.). The Gaut. Dh. 19. 1 says 'Ukto varṇadharmaścāśramadharmśca' and then proceeds to dilate upon prāyaścittas (i.e. naimittika dharma). The Āp. Dh. S. begins, 'atbātaḥ Sāmayācārikān _dharmān_ vyākhyāsyāmaḥ' (We shall expound the dharmas relating to the practices based on convention and adds immediately that the conventions settled by those who are conversant with dharma and the authorities and not any and every convention whatever,' The Āp. Gṛ. S. begins 'Atha karmāṇyācarād-yāni gṛhyante.' That is actions are Śrutilakṣaṇa and ācāralakṣaṇa. Samhya has several meanings as Amara says 'Samayāḥ śapathācārakālasiddhānta-saṃvidaḥ.'
+[^12]: हरदत्त on गौ. ध. सू. 19. 1 and गोविन्दराज on मनु 2.25 give the same fivefold classification. The Bhaviṣyapurāṇa (in Brāhmaparva 181, 10-15) sets out this fivefold dharma (Venk, Press ed.). The Gaut. Dh. 19. 1 says 'Ukto varṇadharmaścāśramadharmśca' and then proceeds to dilate upon prāyaścittas (i.e. naimittika dharma). The Āp. Dh. S. begins, 'atbātaḥ Sāmayācārikān _dharmān_ vyākhyāsyāmaḥ' (We shall expound the dharmas relating to the practices based on convention and adds immediately that the conventions settled by those who are conversant with dharma and the authorities and not any and every convention whatever,' The Āp. Gṛ. S. begins 'Atha karmāṇyācarād-yāni gṛhyante.' That is actions are Śrutilakṣaṇa and ācāralakṣaṇa. Samhya has several meanings as Amara says 'Samayāḥ śapathācārakālasiddhānta-saṃvidaḥ.'
 
 [^13]: चोदनालक्षणोर्थो धर्मः । पू. मी. सू. 1. 1. 2.
 
@@ -39,7 +39,7 @@ The present work will deal with the sources of _dharma_, their contents, their c
 
 [^14a]: मनु II. 1. विद्वद्भिः सेवितः सद्भि ... निबोधत ।
 
-[^15]: अथातो धर्मं व्याख्यास्यामः। श्रुतिप्रमाणको धर्मः । श्रुतिश्च द्विविधा वैदिकी तान्त्रिकी च । quoted by कुल्लूक​ on मनु 2. 1.
+[^15]: अथातो धर्मं व्याख्यास्यामः। श्रुतिप्रमाणको धर्मः । श्रुतिश्च द्विविधा वैदिकी तान्त्रिकी च । quoted by कुल्लूक on मनु 2. 1.
 
 [^16]:
 
