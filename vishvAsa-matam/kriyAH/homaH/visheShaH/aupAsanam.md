@@ -24,10 +24,10 @@ unicode_script: devanagari
 ### तन्त्रेण
 वैद्यनाथीयाह्निककाण्डे बृहस्पतिस्मृतेर् उदाहरणम्।
 
-सायम्प्रातस्तनौ होमाव्  
-उभौ सायं समस्य तु।  
-आपन्नो जुहुयात् तस्य  
-समिधेकाथवा द्वयम्॥
+> सायम्प्रातस्तनौ होमाव्  
+> उभौ सायं समस्य तु।  
+> आपन्नो जुहुयात् तस्य  
+> समिधेकाथवा द्वयम्॥
 
 My current understanding of the last part - having performed the combined aupAsana, one can add a samit or two (presumably as prAyashcitta for havis-samsarga / oblation-mixture).
 
