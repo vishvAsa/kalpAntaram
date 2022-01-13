@@ -2,6 +2,7 @@
 title = "प्रायश्चित्तापेक्षा"
 unicode_script = "devanagari"
 +++
+Source: Korada-subrahmNya on BVP
 
 ## प्रस्तावः
 प्रायश्चित्तकर्म  is to be performed or not ? What  is the problem ? Some ब्रह्मवादिन्s  argued that the प्रायश्चित्तकर्मs  need not be performed - others said hey have to be performed . 
