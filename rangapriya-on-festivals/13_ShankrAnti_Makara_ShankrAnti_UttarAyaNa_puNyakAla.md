@@ -6,67 +6,84 @@ short_title = "13 ṣaṅkrānti \\(*ṃakara"
 13 saṅkrānti \(*ṃakara saṅkrānti, ūttarāyaṇa puṇyakāla*\)
 
 
-**The name and significance of this *parva***:—*Saṅkrānti* is one of the most important festivals of the *Sanātana Ārya Bhāratiyas.* In scriptures it is called by other names such as *Saṅkrānti, Makarasaṅkrānti, Makarasaṅkramaṇa, Makarasaṅkramaṇa*, and *Uttarāyaṇa puṇyakāla* also. In Tamil Nadu it is called *Pongal*. Common people also call this as *‘Ellina Habba’*. Though the distribution of sesame is in vougue in the next festival also i.e. *‘rathasaptamī’*, it is only *Saṅkrānti* which is renownedly associated with the significance and fame pertaining to the gifting of sesame, and thus is well known as *Eḷḷina habba*. The Kannada proveb *“Eḷḷu bellava tindu oḷḷeya māthanāḍu’* owes it’s origin to this festival.
+## Name and significance
+### uttarāyaṇa
+The name and significance of this *parva*:—
+*Saṅkrānti* is one of the most important festivals of the *Sanātana Ārya Bhāratiyas.* In scriptures it is called by other names such as *Saṅkrānti, Makarasaṅkrānti, Makarasaṅkramaṇa, Makarasaṅkramaṇa*, and *Uttarāyaṇa puṇyakāla* also. In Tamil Nadu it is called *Pongal*. Common people also call this as *‘Ellina Habba’*. Though the distribution of sesame is in vougue in the next festival also i.e. *‘rathasaptamī’*, it is only *Saṅkrānti* which is renownedly associated with the significance and fame pertaining to the gifting of sesame, and thus is well known as *Eḷḷina habba*. The Kannada proveb *“Eḷḷu bellava tindu oḷḷeya māthanāḍu’* owes it’s origin to this festival.
 
 The entire *uttarāyaṇa* is very dear to deities, and auspicious for *Devakāryas* and auspicious functions. The *śāstras* purport that it is best to perform auspicious functions such as *caula, upanayana, vratacatushṭaya* which is done at the end of *Brahmacarya, Godāna* and marriage etc., during this time, which is dear to the *devatās*.
 
-उदगयन पूर्वपक्षाहः पुण्याहेषु कार्याणि \(आपस्तम्ब गृह्य 12\) 
+> उदगयन पूर्वपक्षाहः पुण्याहेषु कार्याणि \(आपस्तम्ब गृह्य 12\) 
 
-> उदगयने आपूर्यमाणपक्षे कल्याणे नक्षत्रे  
-> चौलकर्मोपनयनगोदानविवाहाः \(अश्वलायन गृह्य I-4-1-2\) 
+> उदगयने आपूर्यमाणपक्षे कल्याणे नक्षत्रे चौलकर्मोपनयनगोदानविवाहाः \(अश्वलायन गृह्य I-4-1-2\) 
 
-> उदगयन आपूर्यमाणपक्षे पुण्याहे कुमार्याः  
-> पाणिं गृणीयाद्यालक्षणसंपन्ना स्यात्” \(जैमिनि V-8-23\) 
+> उदगयन आपूर्यमाणपक्षे पुण्याहे कुमार्याः पाणिं गृणीयाद्यालक्षणसंपन्ना स्यात्” \(जैमिनि V-8-23\) 
 
+### Beginning of uttarāyaṇa
 It is natural that this day of *Makara Saṅkrānti* on which the *uttarāyaṇa* begins, is regarded highly in the *śāstra*s and in traditions. Scriptures declare that religious and spiritual activities such as bath, meditation, gifting, *Homa*, worship of Gods, *tarpaṇa* and *śrāddha* etc performed with faith and devotion, fetch greatest benefits. And, *jnāni*s preach that those who abstain from the above said sacred deliberations and indulge in unholy acts, will incur worst sins.
 
-> सङ्क्रान्त्यां पक्षयोरन्ते ग्रहणे चन्द्रसूर्ययोः।  
-> गङ्गास्नातो नरः कामात् ब्रह्मणःसदनं व्रजेत्॥ \(भविष्यपुराण\) 
+> सङ्क्रान्त्यां पक्षयोर् अन्ते  
+> ग्रहणे चन्द्र-सूर्ययोः।  
+> गङ्गास्नातो नरः कामात्  
+> ब्रह्मणःसदनं व्रजेत्॥ \(भविष्यपुराण\) 
 
-> रविसङ्क्रमणे पुण्ये न स्नायाद्यस्तु मानवः।  
-सप्तजन्मन्यसौ रोगी निर्धनश्चोपजायते॥ 
+> रवि-सङ्क्रमणे पुण्ये  
+> न स्नायाद् यस् तु मानवः।  
+> सप्त-जन्मन्य् असौ रोगी  
+> निर्धनश् चोपजायते॥ 
 
-> सङ्क्रान्तौ यानि दत्तानि हव्यकव्यानि मानवैः।  
-तानि नित्यं ददात्यर्कः पुनर्जन्मनि जन्मनि॥ \(देवीपुराण\) 
+> सङ्क्रान्तौ यानि दत्तानि  
+> हव्यकव्यानि मानवैः।  
+> तानि नित्यं ददात्य् अर्कः  
+> पुनर्जन्मनि जन्मनि॥ \(देवीपुराण\) 
 
-> राहुदर्शनं सङ्क्रान्तिविवाहात्ययवृद्धिषु ।  
-स्नानदानादिकं कुर्युर्निशि काम्यव्रतेषु च ॥ \(गोभिल\) 
+> राहु-दर्शनं सङ्क्रान्ति-  
+> विवाहात्यय-वृद्धिषु ।  
+> स्नान-दानादिकं कुर्युर्  
+> निशि काम्यव्रतेषु च ॥ \(गोभिल\) 
 
-> धेनुं तिलमयीं राजन् दद्याद्यश्चोत्तरायणे।  
-सर्वान्कामानवाप्नोति विन्दते परमं सुखम्॥ 
-
-> उत्तरे त्वयने विप्रा वस्तुदानं महाफलम्।  
-तिलपूर्वमनड्वाहं दत्त्वा रोगैः प्रमुच्यते॥ 
-
-> तस्मात्तस्यां तिलैः स्नानं कार्यं चोद्वर्तनं बुधैः॥  
-देवतानां पितृणां च सोदकैस्तर्पणं तिलैः। 
-
-> पुरा मकरसन्क्रान्तौ शङ्करो गोसवे कृते।  
-> तिलानुत्पादयामास तृप्तये सर्वदेहिनाम्॥ 
-
-\(विष्णुधर्मोत्तर and शिवरहस्य\) 
+> धेनुं तिलमयीं राजन्  
+> दद्याद् यश् चोत्तरायणे।  
+> सर्वान् कामान् अवाप्नोति  
+> विन्दते परमं सुखम्॥ 
+>
+> उत्तरे त्व् अयने विप्रा  
+> वस्तु-दानं महाफलम्।  
+> तिल-पूर्वम् अनड्वाहं  
+> दत्त्वा रोगैः प्रमुच्यते॥ 
+>
+> तस्मात् तस्यां तिलैः स्नानं  
+> कार्यं चोद्वर्तनं बुधैः॥  
+> देवतानां पितृणां च  
+> सोदकैस् तर्पणं तिलैः। 
+>
+> पुरा मकर-सन्क्रान्तौ  
+> शङ्करो गोसवे कृते।  
+> तिलान् उत्पादयाम् आस  
+> तृप्तये सर्व-देहिनाम्॥ 
+>
+> \(विष्णुधर्मोत्तर and शिवरहस्य\) 
 
 Even making gifts on the night of this day is very auspicious.
 
+### Definition
 The term *Saṅkrānti* \(*saṅkrama, saṅkramaṇa*\) means, the sun appearing to move from one *rāśi* \(a division of the zodiac\) to another.
 
-> रवेः सङ्क्रमणम् राशौ सङ्क्रान्तिरिति कथ्यते।  
-> स्नानदानतपःश्राद्धहोमादिषु महाफला॥  
-> मेषादिषु द्वादशराशिषु क्रमेण संसरतः सूर्यस्य  
-> पूर्वस्माद्राशेः उत्तरराशौ सङ्कमणम् प्रवेशः सङ्क्रान्तिः। 
+> रवेः सङ्क्रमणम् राशौ  
+> सङ्क्रान्तिर् इति कथ्यते।  
+> स्नान-दान-तपः-श्राद्ध-  
+> होमादिषु महाफला॥  
+> 
+> मेषादिषु द्वादश-राशिषु क्रमेण संसरतः सूर्यस्य पूर्वस्माद् राशेर् उत्तर-राशौ सङ्कमणम् प्रवेशः सङ्क्रान्तिः। 
 
-It is not just the Sun that moves from one *rāśi* to the other, but the planets also enter into stars and *rāśi*s, during this auspicious time of *Saṅkrānti* only.
+It is not just the Sun that moves from one *rāśi* to the other, but the planets also enter into stars and *rāśi*s, during this auspicious time of *Saṅkrānti* only. Even then, it is customary to specially call the movement of the sun alone from one *rāśi* to another as *Saṅkrānti*.
 
-Even then, it is customary to specially call the movement of the sun alone from one *rāśi* to another as *Saṅkrānti*.
+> न केवलम् आदित्यस्यैव सङ्क्रमायने पुण्यकालः।  
+>
+> किन्तु सर्वेषां ग्रहाणां नक्षत्र-राशि-सङ्क्रमे पुण्यकालो भवति। सर्वग्रहाणां राश्य्-अन्तर-सङ्क्रमण-वाचिनोऽपि सङ्क्रान्ति-शब्दस्य।  
+> सङ्क्रान्तेः पुण्यकालस् तु षोडशोभयतः कलाः इत्यादि शास्त्रे रवि-सङ्क्रमण-मात्रपरत्वम् ।\(स्मृतिकौमुदी\) 
 
-> न केवलमादित्यस्यैव सङ्क्रमायने पुण्यकालः।  
-
-
-> किन्तु सर्वेषां ग्रहाणां नक्षत्रराशिसङ्क्रमे पुण्य -  
-कालो भवति सर्वग्रहाणां राश्यन्तरसङ्क्रमण -  
-वाचिनोऽपि सङ्क्रान्ति शब्दस्य-सङ्क्रान्तेः पुण्यकालस्तु  
-> षोडशोभयतः कलाः इत्यादि शास्त्रे रविसङ्क्रमण मात्रपरत्वम् ।\(स्मृतिकौमुदी\) 
-
+### Subtypes
 These *Saṅkrāntis* are twelve in number viz - *Mesha, Vṛshabha, Mithuna, Kaṭaka \(Karkātaka\), Simha, Kanya, Tulā, Vṛścika, Dhanus, Makara, Kumbha* and *Mīna*.
 
 Among these, *kaṭaka* and *Makara saṅkramaṇas* are *ayana Saṅkrāntis* and *Mesha* and *Tulā* are *Vishuva saṅkrāntis. Mithuna, kanyā, Dhanus* and *Mīna saṅkramaṇas* are *Shaḍaśīti* or *shaḍaśītimukha Saṅkrāntis* and *Vṛshabha, simha, vṛscika* and *kumbhasaṅkramaṇas* are classified as *Vishṇupadī* or *Vishṇupadasaṅkrāntis*. Though the *saṅkramaṇas* are twelve in number, common people refer to *Makara—Saṅkrānti* alone as *Saṅkrānti*, because of its exceptional sacredness.
@@ -75,62 +92,93 @@ Those who cannot afford to observe other *Saṅkrāntis* must necessarily observ
 
 This *parva* is called *uttarāyaṇapuṇyakāla*, as it is an auspicious moment from which the sun God \(*SūryaNārāyaṇa*\) begins his journey from south to north \(*uttarāyaṇa*\). This is famous in Tamilnadu as *‘pongal’* as it is the day on which milk is boiled and made to overflow, as per a special precept. The custom of common people calling it, *‘eḷḷina habba’* has come into vogue, as it is the day on which sesame is mixed with jaggery and other condiments, and gifted and consumed also.
 
+## Timing
 ii\) When and at what time should this be observed?
 
-*Saṅkrānti* is a *sauramāna* festival. It’s observance is on the first day of the month of *Makara*. According to the lunar calendar it falls in the month of *pushya*. The festival occurs generally on one of the days i.e. on the 12th, or 13th or on the 14th of January. Even though it may be stated approximately as the day of the festival of *Saṅkrānti*, it is difficult to decide the precise moment at which this *puṇyakāla* should be observed \(by means of *jnāna, dāna, dhyāna*, and *tarpaṇa* etc.\) The specific *kālaviśesha* at which the sun enters one zodiac from the other is extremely subtle. It is as minute as the one thousandth part of a *truti*. It cannot be made out by people with the help of ordinary eyes. Only *yogis* can notice it. As it is impossible for ordinary people to detect that important time, they should perform the rituals at a suitable time which is very close to it, either just earlier to that or just after that. Scriptures state that closer the time of observances to the time of *Saṅkrānti*, better are the results.
-
-> सङ्क्रान्तिसमयस्सूक्ष्मः दुर्ज्ञेयः पिशितेक्षणैः। \(देवल\) 
-
-> त्रुटेः सहस्रभागो यः स कालो रविसङ्क्रमे। \(देवीपुराण\) 
-
-> अतः अनुष्ठाने मुख्यकालासम्भवात्  
+*Saṅkrānti* is a *sauramāna* festival. It’s observance is on the first day of the month of *Makara*. According to the lunar calendar it falls in the month of *pushya*. The festival occurs generally on one of the days i.e. on the 12th, or 13th or on the 14th of January. Even though it may be stated approximately as the day of the festival of *Saṅkrānti*, it is difficult to decide the precise moment at which this *puṇyakāla* should be observed \(by means of *jnāna, dāna, dhyāna*, and *tarpaṇa* etc.\) 
 
 
-> सङ्क्रान्तिसम्बन्धिनौ पूर्वोत्तरकालौ गृहीतव्यौ \(कालनिर्णय-हेमाद्रि\)  
+The specific *kālaviśesha* at which the sun enters one zodiac from the other is extremely subtle. It is as minute as the one thousandth part of a *truti*. It cannot be made out by people with the help of ordinary eyes. Only *yogis* can notice it. As it is impossible for ordinary people to detect that important time, they should perform the rituals at a suitable time which is very close to it, either just earlier to that or just after that. Scriptures state that closer the time of observances to the time of *Saṅkrānti*, better are the results.
 
+> सङ्क्रान्तिसमयस् सूक्ष्मः  
+> दुर्ज्ञेयः पिशितेक्षणैः। \(देवल\)  
 
-> या याः सन्निहिता नाड्यः तास्ताः पुण्यतमाः स्मृताः \(शातातपस्मृति\) 
+> त्रुटेः सहस्र-भागो यः  
+> स कालो रविसङ्क्रमे। \(देवीपुराण\) 
+
+> अतः अनुष्ठाने मुख्यकालासम्भवात्  सङ्क्रान्ति-सम्बन्धिनौ पूर्वोत्तर-कालौ गृहीतव्यौ \(कालनिर्णय-हेमाद्रि\)  
+
+> या याः सन्निहिता नाड्यः तास् ताः पुण्य-तमाः स्मृताः \(शातातपस्मृति\) 
 
 The time duration of thirty *nāḍis* before the onset of *saṅkramaṇa* and immediately after that are very sacred. Sixty *ghaṭikās* in *shaḍaśīti saṅkramaṇas* and sixteen *ghaṭikās* in *Vishṇupadī saṅkramaṇas* are very sacred. These durations have been specified with the intention that ordinary people should not transgress them.
 
-> तद्योगादप्यधश्चोर्ध्वं त्रिंशन्नाड्यः पवित्रिताः। \(देवल\)  
-> षडशीत्यामतीतायां षष्टिरुक्तास्तु नाडिकाः।  
-> पुण्यायां विष्णुपद्यां च प्राक् पश्चादपि षोडश॥ \(वृद्धवासिष्ठ\) 
+> तद्-योगाद् अप्य् अधश् चोर्ध्वं  
+> त्रिंशन् नाड्यः पवित्रिताः। \(देवल\)  
 
-This is the ordinary *puṇyakāla*. Then which is the most meritorious time? The times ie. 3, 4, 5, 7, 8, 9 or 12 *ghaṭikā*s nearest to the occurrence of the *puṇyakāla* respectively, are most auspicious.
+> षडशीत्याम् अतीतायां  
+> षष्टिर् उक्तास् तु नाडिकाः।  
+> पुण्यायां विष्णुपद्यां च  
+> प्राक् पश्चाद् अपि षोडश॥ \(वृद्धवासिष्ठ\) 
 
-> त्रिचतुः पासप्ताष्ट नव द्वादश एव च ।  
-> क्रमेण घटिका ह्येतास्तत्पुण्यं पारमार्थिकम् ॥ \(देवीपुराण\) 
+This is the ordinary *puṇyakāla*. 
+
+
+Then which is the most meritorious time? The times ie. 3, 4, 5, 7, 8, 9 or 12 *ghaṭikā*s nearest to the occurrence of the *puṇyakāla* respectively, are most auspicious.
+
+> त्रिचतुःपञ्चसप्ताष्ट  
+> नव द्वादश एव च ।  
+> क्रमेण घटिका ह्येतास्  
+> तत्पुण्यं पारमार्थिकम् ॥ \(देवीपुराण\) 
 
 And to the question—“How long the meritorious time prevails during *saṅkramaṇa”*, we see an ordinary answer in scriptures as, “the time duration which is sixteen or fifteen *ghaṭikās* just before the *saṅkrama”*.
 
-> अर्वाक् षोडश विज्ञेया नाड्यः पश्चाच्च षोडश ।  
-> कालः पुण्योर्कसङ्क्रान्ते विद्वद्भिः परिकीर्तितः॥ \(शातातप\) 
+> अर्वाक् षोडश विज्ञेया  
+> नाड्यः पश्चाच् च षोडश ।  
+> कालः पुण्योर्क-सङ्क्रान्ते  
+> विद्वद्भिः परिकीर्तितः॥ \(शातातप\) 
 
-> सङ्क्रान्तौ पुण्यकालस्तु षोडशोभयतः कलाः॥ \(मरीचि\) 
+> सङ्क्रान्तौ पुण्यकालस् तु  
+> षोडशोभयतः कलाः॥ \(मरीचि\) 
 
-> अतीतानागतो भोगो नाड्यः पञ्चदश स्मृताः॥ \(देवीपुराण\) 
+> अतीतानागतो भोगो  
+> नाड्यः पञ्चदश स्मृताः॥ \(देवीपुराण\) 
 
 After a study of all the rules regarding the duration of *puṇyakāla*, a treatise by name *Dharmasindhu* states the conclusion as follows:-
 
-On the *puṇya dinas* of *Vishu*, ie. During *Mesha* and *Tula saṅkramaṇas*, the *puṇyakāla* will be for a duration of 15 *ghaṭikas* before and after the occurrence of the *puṇyakālas*, 16 *ghaṭikās* preceding the *Vṛshabha, simha, vṛścika* and *kumbha saṅkramaṇas*, 16 *ghaṭikās* succeeding the *mithuna, kanyā, dhanus* and *mīna saṅkramaṇas*, 30 *ghaṭikās* preceding the *karkātaka saṅkramaṇa* \(*dakshiṇāyana puṇyakāla*\), and 40 *ghaṭikās* succeeding the *Makara saṅkramaṇa \(uttarāyaṇa puṇyakāla\);* the preceding and the succeeding 30 *ghaṭikās* in all the *saṅkramaṇas*, the succeeding sixty *ghaṭikās* in the *shaḍaśīti puṇyakāla* and, the preceding and succeeding sixteen *ghaṭikās* in *Vishṇupadīpuṇyakāla*.
+> On the *puṇya dinas* of *Vishu*, ie. During *Mesha* and *Tula saṅkramaṇas*,  
+> the *puṇyakāla* will be for a duration of 15 *ghaṭikas* before and after the occurrence of the *puṇyakālas*,  
+> 16 *ghaṭikās* preceding the *Vṛshabha, simha, vṛścika* and *kumbha saṅkramaṇas*,  
+> 16 *ghaṭikās* succeeding the *mithuna, kanyā, dhanus* and *mīna saṅkramaṇas*,  
+> 30 *ghaṭikās* preceding the *karkātaka saṅkramaṇa* \(*dakshiṇāyana puṇyakāla*\),  
+> and 40 *ghaṭikās* succeeding the *Makara saṅkramaṇa \(uttarāyaṇa puṇyakāla\);*  
+> the preceding and the succeeding 30 *ghaṭikās* in all the *saṅkramaṇas*,  
+> the succeeding sixty *ghaṭikās* in the *shaḍaśīti puṇyakāla* and,  
+> the preceding and succeeding sixteen *ghaṭikās* in *Vishṇupadīpuṇyakāla*.
 
 Even though the determination of the time of only the *Makara Saṅkrānti* is relevant to this article, we have narrated the matter pertaining to other *Saṅkrāntis* also, as we feel that it is necessary at this juncture.
 
 Regarding the time of observation of rituals during *uttarāyaṇa puṇyakāla \(Makara Saṅkrānti\)* and *dakshiṇāyana puṇyakāla \(karkātaka Saṅkrānti\)*, the following rule is followed in South India. Rituals can be observed till a period of 20 *ghaṭikā*s from the birth of *uttarāyaṇa puṇyakāla* and in the duration of 20 *ghaṭikā*s preceding the birth of *dakshiṇāyanapuṇyakāla*. Any way, in both the cases the rituals are performed in *uttarāyaṇa* only; “अयने विंशतिः पूर्वं अयने विंशतिः परम् ”
 
-The duration of the *puṇyakālas* should be understood as follows: If *Saṅkrānti* sets in during day time at 2 *ghaṭikā*s to sunset or before, the *puṇyakāla* will be before *Saṅkrānti* itself, in the *mithuna, kanyā, dhanus* and *mīna saṅkrama*s. If it sets in at two *ghaṭikā*s to sunrise or before that time, then the *puṇyakāla* in the *vṛshabha, vṛścika, kumbha* and *karkātaka saṅkramaṇa*s will be after the *Saṅkrānti*. If *Saṅkrānti* sets in during night hours before midnight, the *puṇyakāla* will be in the latter half of the day time of the previous day. If the *Saṅkrānti* sets in at mid night or later, the *puṇyakāla* extends to both the days \(i.e. the latter half of the previous day and the first half of the next day.\) This rule applies to all *Saṅkrānti*s except *Makara* and *karkātaka Saṅkrānti*s. If *uttarāyaṇa* sets in *Makara māsa* at night, the *puṇyakāla* will be on the first day of *Saṅkrānti* and if *karkātaka Saṅkrānti* sets in the night, the *puṇyakāla* will be on the previous day. If *Makara Saṅkrānti* sets in at dusk, \(i.e. during three *ghaṭikā*s before sunset\), the *puṇyakāla* will be during the previous day. If *karkātaka Saṅkrānti* sets in at dawn \(i.e. during three *ghaṭikā*s before sunrise\) the *puṇyakāla* will be during the following day.
+The duration of the *puṇyakālas* should be understood as follows:
+
+- If *Saṅkrānti* sets in during day time at 2 *ghaṭikā*s to sunset or before, the *puṇyakāla* will be before *Saṅkrānti* itself, in the *mithuna, kanyā, dhanus* and *mīna saṅkrama*s. 
+- If it sets in at two *ghaṭikā*s to sunrise or before that time, then the *puṇyakāla* in the *vṛshabha, vṛścika, kumbha* and *karkātaka saṅkramaṇa*s will be after the *Saṅkrānti*. 
+- If *Saṅkrānti* sets in during night hours before midnight, the *puṇyakāla* will be in the latter half of the day time of the previous day. 
+- If the *Saṅkrānti* sets in at mid night or later, the *puṇyakāla* extends to both the days \(i.e. the latter half of the previous day and the first half of the next day.\) This rule applies to all *Saṅkrānti*s except *Makara* and *karkātaka Saṅkrānti*s. 
+- If *uttarāyaṇa* sets in *Makara māsa* at night, the *puṇyakāla* will be on the first day of *Saṅkrānti* and if *karkātaka Saṅkrānti* sets in the night, the *puṇyakāla* will be on the previous day. If *Makara Saṅkrānti* sets in at dusk, \(i.e. during three *ghaṭikā*s before sunset\), the *puṇyakāla* will be during the previous day. If *karkātaka Saṅkrānti* sets in at dawn \(i.e. during three *ghaṭikā*s before sunrise\) the *puṇyakāla* will be during the following day.
 
 The time of *puṇyakāla* should be determined as per the above rules, and during that time, holy bath, *japa*, and meditation, *śrāddha* and *tarpaṇa* should be performed.
 
+### Yogic timing
 As it is possible only for *yogis* to know the exact time of the *saṅkramaṇas*, the above said directions are given by the scriptures with regard to the performance of rituals, keeping in mind the ordinary people. **We humbly remember here that *ŚrīGurudeva* who was a supreme *yogi*, and a supreme preceptor of the science of *nādi*, had demonstrated** by experimental science to a few intimate disciples of his, that the exact and most infinitesimal time of the setting in of *saṅkramaṇa* and the exact extent of its duration can be known not only by *yoga dhyana* but also by the practice of *nāḍī vijnāna* taught by *yogis*.
 
+## Observance
 Here we would like to briefly describe the modalities of the observation of the festival.
 
 1\) *Śāstra*s state that as *Saṅkrānti*s, like eclipses, are considered very great *puṇyakāla*s, it is highly meritorious to take a bath in the holy *tīrthās*. By this, all are benfitted with *puṇya* and *purushārthas*. Not only this. If one does not take a bath at that time, he will be struck with adversities also. And diseases and misfortunes arrive. The *Purāṇās* proclaim—“If one takes a bath in the holy *Gaṅgā* on that day, he will attain *Brahmaloka*. If he does not take a holy bath, he will be afflicted with diseases for seven lives \(to come\)” and also will be afflicted with penury.
 
 > गङ्गास्नातो नरः कामात् ब्रह्मणः सदनं व्रजेत्  
-> रविसङ्क्रमणे पुण्ये न स्नायाद्यस्तु मानवः ।  
+> रविसङ्क्रमणे पुण्ये न स्नायाद् यस् तु मानवः ।  
 > सप्तजन्मन्यसौ रोगी निर्धनश्चोपजायते”॥ 
 
 It should be remembered here that this is not merely a *Malāpakarshaṇa snāna* that washes off the dirt of the body, but a *puṇyasnāna* which washes off blemishes of the mind also. So, it is more meritorious to have *abhyaṅgana* with cold water instead of hot water. Only persons who are weak should take bath in hot water. Those who can afford to go to the *puṇyatīrthas* like *Gaṅgā* etc., take a bath with a *saṅkalpa*.
