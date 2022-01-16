@@ -1,5 +1,5 @@
 +++
-title = "13 saṅkrānti \\(*ṃakara saṅkrānti, ūttarāyaṇa puṇyakāla*\\)"
+title = "13 saṅkrānti , ūttarāyaṇa puṇyakāla"
 short_title = "13 ṣaṅkrānti \\(*ṃakara"
 
 +++
@@ -203,21 +203,24 @@ It should be remembered here that this is not merely a *Malāpakarshaṇa snāna
 
 11\) As *Saṅkrānti* is best for *pitṛupūja*, persons who perform *tarpaṇa* etc should eat only once \(and fast in the other part of the day\). It is best for others also to take light food at night and spend more time in meditation and worship of God.
 
+## The problem of *uttarāyaṇa*
 We will now critically analyse a well known problem related to the significance of *uttarāyaṇa*, and discuss the modalities of the observance of the festival.
 
-## The problem of *uttarāyaṇa*
+*Ayana* means a path. “अयनं वर्त्म-मर्गाध्व-पन्थानः पदवी सृतिः ” *uttarāyaṇa* means the way towards the north. The special time during which the Sun appears to be travelling in the path of the northern direction is called *‘uttarāyaṇa’* technically. This time starts when the Sun enters the *Makararāśi* and continues till the time he enters into *karkaṭa rāśi*. Similarly the special time in the Sun’s journey from the *karkaṭa rāśi* to his entry into *Makara rāśi* is called *‘dakshiṇāyana’*.
 
-*Ayana* means a path. “अयनं वत्र्ममर्गाध्वपन्थानः पदवी सृतिः ” *uttarāyaṇa* means the way towards the north. The special time during which the Sun appears to be travelling in the path of the northern direction is called *‘uttarāyaṇa’* technically. This time starts when the Sun enters the *Makararāśi* and continues till the time he enters into *karkaṭa rāśi*. Similarly the special time in the Sun’s journey from the *karkaṭa rāśi* to his entry into *Makara rāśi* is called *‘dakshiṇāyana’*.
-
-> उत्तरायणमप्युक्तं मकरस्थे दिवाकरे ।  
-> कर्कटादिस्थिते भानौ दक्षिणायनमुच्यते ॥ 
+> उत्तरायणम् अप्युक्तं  
+> मकरस्थे दिवाकरे ।  
+> कर्कटादिस्थिते भानौ  
+> दक्षिणायनमुच्यते ॥ 
 
 The word *uttara* also means the best \(supreme\). Therefore *uttarāyaṇa* means the best path and, the time during which the sun travels in that path also becomes *‘uttarāyaṇa’*. Both these meanings i.e. the time during which the sun travels in the northern direction and the best time, agree in sense for the term *‘uttarāyaṇa’*. The first meaning is visible to the eye. The second one is a matter that has to be known from scriptures and by experience. This indeed is the issue which is posing a problem here.
 
 What is special about the supremacy in the duration of time of *uttarāyaṇa*? It is referred to as ‘the day of the *devatās’* and the best time for the performance of *‘vedavrata’*, marriage, *cūdākarma, upanayana* etc, which are dear to the *devatās*. Opposed to this the *‘dakshiṇāyana’* which is called the night of the *devatās* is best for *tarpaṇa, śrāddha* etc. which are dear to *pitṛ devatās*.
 
-> दैवे रात्र्यहनी वर्षं प्रविभागस्तयोः पुनः ।  
-> अहस्तत्रोदगयनं रात्रिः स्याद्दक्षिणायनम् ॥ 
+> दैवे रात्र्यहनी वर्षं  
+> प्रविभागस् तयोः पुनः ।  
+> अहस् तत्रोदगयनं  
+> रात्रिः स्याद् दक्षिणायनम् ॥ 
 
 Ths *śāstras* are of the opinion that *uttarāyaṇa* is best for *devatā kāryas* like *dhyāna, dāna*, worship, *mantropadeśa* etc. There is not much of an objection to this. But another well known thing about *uttarāyaṇa* has lead to discussions and criticisms. What is that well known thing? It is the assertion by the scriptures that those who pass away in *uttarāyaṇa* attain *moksha*. This assertion has indeed created a confusion. We come across statements in scriptures, which say that people who pass away in *Kāśī* attain *moksha* and also that people who pass away in *uttarāyaṇa* attain salvation. We see an opinion in the *Mahābhārata* that the great yogi *Bhīshma*, who was felled to a bed of arrows at the time of *dakshiṇāyana*, held on to his *prāṇa* till the time of the arrival of *uttarāyaṇa*, for the above said reason only.
 
