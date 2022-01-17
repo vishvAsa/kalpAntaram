@@ -1,977 +1,7 @@
 +++
-title = "०३"
+title = "१३ मासिकश्राद्धम्"
 
 +++
-
-
-## गृहस्थाश्रमप्रवेशः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/001_ShaTtriMshad-Abdika~n_charyam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/002_vedAn_adhItya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/002_vedAn_adhItya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/003_haram_pituH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/003_haram_pituH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/003_haram_pituH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/003_haram_pituH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/003_haram_pituH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/003_haram_pituH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/003_haram_pituH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/004_guruNAnumataH_snAtvA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## दारयोग्यता
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/005_asapiNDA_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/005_asapiNDA_cha.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-  
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/006_mahAnty_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/006_mahAnty_api.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/006_mahAnty_api.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/006_mahAnty_api.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/006_mahAnty_api.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/006_mahAnty_api.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/007_hIna-kriyan_niSh-puruSham.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/008_nodvahet_kapilAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/008_nodvahet_kapilAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/009_narxa-vRxa-nadI-nAmnIn_nA-ntya-parvata-nAmikAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/010_avyangAngIM_saumya-nAmnIm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/011_yasyAs_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/011_yasyAs_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/011_yasyAs_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/011_yasyAs_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/011_yasyAs_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/011_yasyAs_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/012_savarNAgre_dvijAtInAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/013_shUdraiva_bhAryA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/013_shUdraiva_bhAryA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/014_na_brAhmaNa-xatriyayor.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/015_hInajAti-striyam_mohAd.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/016_shUdrAvedI.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/016_shUdrAvedI.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/016_shUdrAvedI.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/016_shUdrAvedI.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/016_shUdrAvedI.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/016_shUdrAvedI.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/016_shUdrAvedI.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/017_shUdrAM_shayanam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/017_shUdrAM_shayanam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/018_daiva-pitryAtitheyAni_tat-pradhAnAni.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/019_vRShalIphena-pItasya_niHshvAsopahatasya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## विवाहप्रकाराः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/020_chaturNAm_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/020_chaturNAm_api.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/020_chaturNAm_api.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/020_chaturNAm_api.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/020_chaturNAm_api.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/020_chaturNAm_api.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/020_chaturNAm_api.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/021_brAhmo_daivas.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/021_brAhmo_daivas.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/022_yo_yasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/022_yo_yasya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/022_yo_yasya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/022_yo_yasya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/022_yo_yasya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/022_yo_yasya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/022_yo_yasya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/023_ShaD_AnupUrvyA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/024_chaturo_brAhmaNasyAdyAn.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/025_panchAnAn_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/025_panchAnAn_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/026_pRthak_pRthag.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/026_pRthak_pRthag.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/027_AchChAdya_chA-rchayitvA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/028_yajne_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/028_yajne_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/028_yajne_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/028_yajne_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/028_yajne_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/028_yajne_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/028_yajne_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/029_eka~N_gomithunam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/029_eka~N_gomithunam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/030_sahobhau_charatAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/030_sahobhau_charatAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/031_jnAtibhyo_draviNam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/032_ichChayAnyonyasaMyogaH_kanyAyAsh.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/033_hatvA_ChittvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/033_hatvA_ChittvA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/034_suptAm_mattAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/034_suptAm_mattAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/035_adbhir_eva.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/035_adbhir_eva.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/035_adbhir_eva.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/035_adbhir_eva.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/035_adbhir_eva.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/035_adbhir_eva.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/036_yo_yasyaiShAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/036_yo_yasyaiShAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/036_yo_yasyaiShAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/036_yo_yasyaiShAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/036_yo_yasyaiShAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/036_yo_yasyaiShAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/037_dasha_pUrvAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/037_dasha_pUrvAn.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/038_daivoDhAjaH_sutash.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/039_brAhmAdiShu_vivAheShu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/040_rUpa-sattva-guNopetA_dhanavanto.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/041_itareShu_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/041_itareShu_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/041_itareShu_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/041_itareShu_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/041_itareShu_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/041_itareShu_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/041_itareShu_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/042_aninditaiH_strIvivAhair.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/043_pANigrahaNasaMskAraH_sa-varNAsUpadishyate.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/044_sharaH_xatriyayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/044_sharaH_xatriyayA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## ऋतुसङ्गमनम्
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/045_RtukAlAbhigAmI_syAt.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/046_RtuH_svAbhAvikaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/047_tAsAm_AdyAsh.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/047_tAsAm_AdyAsh.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/048_yugmAsu_putrA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/048_yugmAsu_putrA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/049_pumAn_puMso.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/049_pumAn_puMso.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/049_pumAn_puMso.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/049_pumAn_puMso.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/049_pumAn_puMso.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/049_pumAn_puMso.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/049_pumAn_puMso.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/050_nindyAsv_aShTAsu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## स्त्रीधनम्
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/051_na_kanyAyAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/051_na_kanyAyAH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/052_strIdhanAni_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/052_strIdhanAni_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/053_ArShe_gomithunam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/053_ArShe_gomithunam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/054_yAsAn_nAdadate.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/054_yAsAn_nAdadate.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-### नारीपूजा
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/055_pitRbhir_bhrAtRbhish.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/056_yatra_nAryas.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/056_yatra_nAryas.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/056_yatra_nAryas.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/056_yatra_nAryas.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/056_yatra_nAryas.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/056_yatra_nAryas.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/056_yatra_nAryas.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-[१० श्लोका न विधद्यन्ते मेधातिथिपाठे।  “These are very probably a later addition. The corresponding section in the Mahābhārata, 13.46 stops right here also.”—Hopkins. They are all quoted in Vivādaratnākara and in Parāśaramādhava.]
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/057_shochanti_jAmayo.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/057_shochanti_jAmayo.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/057_shochanti_jAmayo.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/057_shochanti_jAmayo.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/057_shochanti_jAmayo.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/057_shochanti_jAmayo.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/058_jAmayo_yAni.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/058_jAmayo_yAni.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/058_jAmayo_yAni.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/058_jAmayo_yAni.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/058_jAmayo_yAni.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/058_jAmayo_yAni.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/059_tasmAd_etAH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/059_tasmAd_etAH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/059_tasmAd_etAH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/059_tasmAd_etAH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/059_tasmAd_etAH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/059_tasmAd_etAH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/060_santuShTo_bhAryayA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/060_santuShTo_bhAryayA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/060_santuShTo_bhAryayA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/060_santuShTo_bhAryayA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/060_santuShTo_bhAryayA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/061_yadi_hi.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/061_yadi_hi.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/061_yadi_hi.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/061_yadi_hi.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/061_yadi_hi.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/061_yadi_hi.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/062_striyAn_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/062_striyAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/062_striyAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/062_striyAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/062_striyAn_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-### कुलपात-मार्गान्तराणि
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/063_ku-vivAhaiH_kriyA-lopair.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/064_shilpena_vyavahAreNa.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/065_ayAjyayAjanaish_chaiva.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/066_mantratas_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/066_mantratas_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/066_mantratas_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/066_mantratas_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/066_mantratas_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/066_mantratas_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-[इतः श्लोकसङ्ख्याभेदो मेधातिथिपाठे।]
-
-## गृह्ययज्ञाः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/067_vaivAhike.agnau.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/067_vaivAhike.agnau.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/068_pancha_sUnA.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/068_pancha_sUnA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/068_pancha_sUnA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/068_pancha_sUnA.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/068_pancha_sUnA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/068_pancha_sUnA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/068_pancha_sUnA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/069_tAsA~N_krameNa.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/069_tAsA~N_krameNa.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/070_adhyApanam_brahmayajnaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/071_panchaitAn_yo.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/071_panchaitAn_yo.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/072_devatAtithi-bhRtyAnAm_pitRRNAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/073_ahuta~n_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/073_ahuta~n_cha.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/074_japo.ahuto.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/074_japo.ahuto.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/074_japo.ahuto.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/074_japo.ahuto.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/074_japo.ahuto.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/074_japo.ahuto.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/074_japo.ahuto.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/075_svAdhyAye_nityayuktaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-### तेन गृहस्थोत्कर्षः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/076_agnau_prAstAhutiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/076_agnau_prAstAhutiH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/076_agnau_prAstAhutiH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/076_agnau_prAstAhutiH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/076_agnau_prAstAhutiH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/076_agnau_prAstAhutiH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/077_yathA_vAyum.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/077_yathA_vAyum.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/077_yathA_vAyum.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/077_yathA_vAyum.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/077_yathA_vAyum.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/078_yasmAt_trayo.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/078_yasmAt_trayo.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/079_sa_sandhAryaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/079_sa_sandhAryaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/079_sa_sandhAryaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/079_sa_sandhAryaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/079_sa_sandhAryaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/079_sa_sandhAryaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-### यज्ञविधानानि
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/080_RShayaH_pitaro.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/080_RShayaH_pitaro.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/081_svAdhyAyenA-rchayetarShIn_homair.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## श्राद्धप्रकारः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/082_kuryAd_ahar-ahaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/083_ekam_apy.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/083_ekam_apy.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/083_ekam_apy.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/083_ekam_apy.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/083_ekam_apy.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/083_ekam_apy.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/083_ekam_apy.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## वैश्वदेवविधिः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/084_vaishvadevasya_siddhasya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/085_agneH_somasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/085_agneH_somasya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/085_agneH_somasya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/085_agneH_somasya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/085_agneH_somasya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/085_agneH_somasya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/085_agneH_somasya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/086_kuhvai_chaivA-numatyai.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/087_evaM_samyag.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/087_evaM_samyag.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/087_evaM_samyag.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/087_evaM_samyag.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/087_evaM_samyag.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/087_evaM_samyag.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/087_evaM_samyag.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/088_marudbhya_iti.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/088_marudbhya_iti.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/088_marudbhya_iti.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/088_marudbhya_iti.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/088_marudbhya_iti.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/088_marudbhya_iti.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/088_marudbhya_iti.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/089_uchChIrShake_shriyai.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/089_uchChIrShake_shriyai.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/090_vishvebhyash_chaiva.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/090_vishvebhyash_chaiva.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/091_pRShThavAstuni_kurvIta.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/092_shUnA~n_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/092_shUnA~n_cha.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/093_evaM_yaH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/093_evaM_yaH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/093_evaM_yaH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/093_evaM_yaH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/093_evaM_yaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/093_evaM_yaH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/093_evaM_yaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## भिक्षा
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/094_kRtvaitad_balikarmaivam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/095_yat_puNyaphalam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/095_yat_puNyaphalam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/096_bhixAm_apy.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/096_bhixAm_apy.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/096_bhixAm_apy.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/096_bhixAm_apy.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/096_bhixAm_apy.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/096_bhixAm_apy.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/096_bhixAm_apy.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/097_nashyanti_havya-kavyAni.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/098_vidyA-tapaH-samRddheShu_hutam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/099_samprAptAya_tv.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/099_samprAptAya_tv.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/100_shilAn_apy.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/100_shilAn_apy.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/100_shilAn_apy.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/100_shilAn_apy.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/100_shilAn_apy.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/100_shilAn_apy.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/100_shilAn_apy.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/101_tRNAni_bhUmir.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/101_tRNAni_bhUmir.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## आतिथ्यम्
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/102_ekarAtran_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/102_ekarAtran_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/103_naikagrAmINam_atithim.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/103_naikagrAmINam_atithim.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/104_upAsate_ye.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/104_upAsate_ye.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/104_upAsate_ye.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/104_upAsate_ye.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/104_upAsate_ye.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/104_upAsate_ye.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/104_upAsate_ye.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/105_apraNodyo.atithiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/105_apraNodyo.atithiH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/106_na_vai.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/106_na_vai.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/106_na_vai.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/106_na_vai.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/106_na_vai.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/106_na_vai.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/106_na_vai.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/107_AsanAvasathau_shayyAm.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/108_vaishvadeve_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/108_vaishvadeve_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/109_na_bhojanArtham.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/109_na_bhojanArtham.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/110_na_brAhmaNasya.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/110_na_brAhmaNasya.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/111_yadi_tv.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/111_yadi_tv.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/111_yadi_tv.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/111_yadi_tv.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/111_yadi_tv.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/111_yadi_tv.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/111_yadi_tv.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/112_vaishya-shUdrAv_api.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## भोजनक्रमः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/113_itarAn_api.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/113_itarAn_api.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/113_itarAn_api.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/113_itarAn_api.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/113_itarAn_api.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/113_itarAn_api.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/113_itarAn_api.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/114_suvAsinIH_kumArIsh.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/115_adattvA_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/115_adattvA_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/115_adattvA_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/115_adattvA_tu.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/115_adattvA_tu.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/115_adattvA_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/115_adattvA_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/116_bhuktavatsv_atha.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/116_bhuktavatsv_atha.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/117_devAn_RShIn.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/117_devAn_RShIn.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/117_devAn_RShIn.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/117_devAn_RShIn.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/117_devAn_RShIn.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/117_devAn_RShIn.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/117_devAn_RShIn.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/118_aghaM_sa.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/118_aghaM_sa.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/118_aghaM_sa.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/118_aghaM_sa.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/118_aghaM_sa.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/118_aghaM_sa.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/118_aghaM_sa.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## मधुपर्कः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/119_rAjartvik-snAtaka-gurUn_priya-shvashura-mAtulAn.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/120_rAjA_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/120_rAjA_cha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/120_rAjA_cha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/120_rAjA_cha.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/120_rAjA_cha.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/120_rAjA_cha.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/120_rAjA_cha.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/121_sAyan_tv.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/121_sAyan_tv.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/121_sAyan_tv.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/121_sAyan_tv.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/121_sAyan_tv.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/121_sAyan_tv.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/121_sAyan_tv.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## मासिकश्राद्धम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/122_pitRyajnan_tu.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/122_pitRyajnan_tu.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/122_pitRyajnan_tu.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -988,7 +18,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/123_pitRRNAm_mAsikam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/123_pitRRNAm_mAsikam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### भोक्तारः
+## भोक्तारः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/124_tatra_ye.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/124_tatra_ye.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/124_tatra_ye.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1012,7 +42,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/126_satkriyAn_desha-kAlau.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/126_satkriyAn_desha-kAlau.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### कालः
+## कालः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/127_prathitA_pretakRtyaiShA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/127_prathitA_pretakRtyaiShA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/127_prathitA_pretakRtyaiShA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1021,7 +51,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/127_prathitA_pretakRtyaiShA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/127_prathitA_pretakRtyaiShA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### भोक्तारः
+## भोक्तारः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/128_shrotriyAyaiva_deyAni.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/128_shrotriyAyaiva_deyAni.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/128_shrotriyAyaiva_deyAni.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1187,7 +217,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/149_na_brAhmaNam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/149_na_brAhmaNam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-#### अपाङ्क्त्याः
+### अपाङ्क्त्याः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/150_ye_stena-patita-klIbA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/150_ye_stena-patita-klIbA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/150_ye_stena-patita-klIbA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1449,7 +479,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/182_itareShu_tv.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/182_itareShu_tv.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-#### पङ्क्तिपावनाः
+### पङ्क्तिपावनाः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/183_apAnktyopahatA_panktiH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/183_apAnktyopahatA_panktiH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/183_apAnktyopahatA_panktiH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1483,7 +513,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/186_vedArtha-vit_pravaktA.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/186_vedArtha-vit_pravaktA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### निमन्त्रणम्
+## निमन्त्रणम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/187_pUrvedyur_aparedyur.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/187_pUrvedyur_aparedyur.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/187_pUrvedyur_aparedyur.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1531,7 +561,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/192_akrodhanAH_shaucha-parAH.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/192_akrodhanAH_shaucha-parAH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### पितृनिर्वचनम्
+## पितृनिर्वचनम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/193_yasmAd_utpattir.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/193_yasmAd_utpattir.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/193_yasmAd_utpattir.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1594,7 +624,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/201_RShibhyaH_pitaro.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/201_RShibhyaH_pitaro.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### पात्राणि
+## पात्राणि
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/202_rAjatair_bhAjanair.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/202_rAjatair_bhAjanair.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/202_rAjatair_bhAjanair.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1603,7 +633,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/202_rAjatair_bhAjanair.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/202_rAjatair_bhAjanair.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### क्रमः
+## क्रमः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/203_daivakAryAd_dvijAtInAm.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/203_daivakAryAd_dvijAtInAm.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/203_daivakAryAd_dvijAtInAm.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1628,7 +658,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/205_daivAdyantan_tad.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/205_daivAdyantan_tad.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### स्थानम्
+## स्थानम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/206_shuchin_desham.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/206_shuchin_desham.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/206_shuchin_desham.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1661,7 +691,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/209_upaveshya_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/209_upaveshya_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### विधिः
+## विधिः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/210_teShAm_udakam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/210_teShAm_udakam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/210_teShAm_udakam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1790,7 +820,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/225_ubhayor_hastayor.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/225_ubhayor_hastayor.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### परिवेषणम्
+## परिवेषणम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/226_guNAMsh_cha.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/226_guNAMsh_cha.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/226_guNAMsh_cha.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1839,7 +869,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/231_yad_yad.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/231_yad_yad.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### श्रावणम्
+## श्रावणम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/232_svAdhyAyaM_shrAvayet.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/232_svAdhyAyaM_shrAvayet.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/232_svAdhyAyaM_shrAvayet.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1848,7 +878,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/232_svAdhyAyaM_shrAvayet.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/232_svAdhyAyaM_shrAvayet.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### सुखेन भोजनम्
+## सुखेन भोजनम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/233_harShayed_brAhmaNAMs.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/233_harShayed_brAhmaNAMs.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/233_harShayed_brAhmaNAMs.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -1977,7 +1007,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/248_sahapiNDakriyAyAn_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/248_sahapiNDakriyAyAn_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### श्राद्धभुग्-विधिः
+## श्राद्धभुग्-विधिः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/249_shrAddham_bhuktvA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/249_shrAddham_bhuktvA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/249_shrAddham_bhuktvA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2024,7 +1054,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/254_pitrye_svaditam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/254_pitrye_svaditam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### सारः
+## सारः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/255_aparAhNas_tathA.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/255_aparAhNas_tathA.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/255_aparAhNas_tathA.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2048,7 +1078,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/257_muny-annAni_payaH.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/257_muny-annAni_payaH.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### वरयाचनम्
+## वरयाचनम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/258_visRjya_brAhmaNAMs.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/258_visRjya_brAhmaNAMs.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/258_visRjya_brAhmaNAMs.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2065,7 +1095,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/259_dAtAro_no.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/259_dAtAro_no.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### पिण्डनिष्कासनम्
+## पिण्डनिष्कासनम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/260_evan_nirvapaNam.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/260_evan_nirvapaNam.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/260_evan_nirvapaNam.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2098,7 +1128,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/263_AyuShmantaM_sutam.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/263_AyuShmantaM_sutam.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### बन्धुभोजनम्, वैश्वदेवम्
+## बन्धुभोजनम्, वैश्वदेवम्
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/264_praxAlya_hastAv.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/264_praxAlya_hastAv.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/264_praxAlya_hastAv.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2115,7 +1145,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/265_uchCheShaNan_tu.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/265_uchCheShaNan_tu.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### उत्तमहवींषि
+## उत्तमहवींषि
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/266_havir_yach.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/266_havir_yach.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/266_havir_yach.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2180,7 +1210,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/273_yat_kim.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/273_yat_kim.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### कालः
+## कालः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/274_api_naH.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/274_api_naH.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/274_api_naH.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2244,7 +1274,7 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/281_anena_vidhinA.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/281_anena_vidhinA.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
 
-### अग्निनियमः
+## अग्निनियमः
 <div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/282_na_paitRyajniyo.md"  newLevelForH1="3" includeTitle="true"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/282_na_paitRyajniyo.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/282_na_paitRyajniyo.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
@@ -2252,37 +1282,3 @@ title = "०३"
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/282_na_paitRyajniyo.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/282_na_paitRyajniyo.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
 <div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/282_na_paitRyajniyo.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## नित्यश्राद्धम्
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/283_yad_eva.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/283_yad_eva.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/283_yad_eva.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/283_yad_eva.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/283_yad_eva.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/283_yad_eva.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/283_yad_eva.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-## उपसंहारः
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/284_vasUn_vadanti.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/284_vasUn_vadanti.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/285_vighasAshI_bhaven.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-TippanyaH/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="गङ्गानथ-टिप्पन्यः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-tulya-vAkyAni/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="गङ्गानथ-तुल्य-वाक्यानि"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/285_vighasAshI_bhaven.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-<div class="js_include " url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/03/286_etad_vo.md"  newLevelForH1="3" includeTitle="true"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-mUlAnuvAdaH/03/286_etad_vo.md"  newLevelForH1="4" title="गङ्गानथ-मूलानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/medhAtithiH/03/286_etad_vo.md"  newLevelForH1="4" title="मेधातिथिः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/gangAnatha-bhAShyAnuvAdaH/03/286_etad_vo.md"  newLevelForH1="4" title="गङ्गानथ-भाष्यानुवादः"  > </div>
-<div class="js_include collapsed" url="/kalpAntaram/smRtiH/manuH/buhler/03/286_etad_vo.md"  newLevelForH1="4" title="बुह्लेर्"  > </div>
-
-  
