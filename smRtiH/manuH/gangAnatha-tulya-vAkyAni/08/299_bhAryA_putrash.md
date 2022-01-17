@@ -21,7 +21,7 @@ pupil,—when these commit a fault, they should be chastised with a rope
 or with split bamboo; but in the lower, never in the higher, parts of
 the body:—if one strikes them otherwise, he should be punished.’
 
-*Nārada* (*Do*.).—‘If the pupil docs not obey the teacher, he should be
+*Nārada* (*Do*.).—‘If the pupil does not obey the teacher, he should be
 chastised, without hurting him, either with a thin rope or with split
 bamboo; the teacher shall not beat him much, nor in the head or on the
 chest. Behaving otherwise than this, the teacher should be punished by
