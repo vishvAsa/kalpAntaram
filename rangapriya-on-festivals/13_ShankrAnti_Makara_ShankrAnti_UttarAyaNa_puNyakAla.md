@@ -1,6 +1,6 @@
 +++
 title = "13 saṅkrānti , ūttarāyaṇa puṇyakāla"
-short_title = "13 ṣaṅkrānti \\(*ṃakara"
+short_title = "13 ṣaṅkrānti"
 
 +++
 13 saṅkrānti \(*ṃakara saṅkrānti, ūttarāyaṇa puṇyakāla*\)
@@ -206,6 +206,7 @@ It should be remembered here that this is not merely a *Malāpakarshaṇa snāna
 ## The problem of *uttarāyaṇa*
 We will now critically analyse a well known problem related to the significance of *uttarāyaṇa*, and discuss the modalities of the observance of the festival.
 
+### Meaning of uttarāyaṇa
 *Ayana* means a path. “अयनं वर्त्म-मर्गाध्व-पन्थानः पदवी सृतिः ” *uttarāyaṇa* means the way towards the north. The special time during which the Sun appears to be travelling in the path of the northern direction is called *‘uttarāyaṇa’* technically. This time starts when the Sun enters the *Makararāśi* and continues till the time he enters into *karkaṭa rāśi*. Similarly the special time in the Sun’s journey from the *karkaṭa rāśi* to his entry into *Makara rāśi* is called *‘dakshiṇāyana’*.
 
 > उत्तरायणम् अप्युक्तं  
@@ -215,6 +216,7 @@ We will now critically analyse a well known problem related to the significance 
 
 The word *uttara* also means the best \(supreme\). Therefore *uttarāyaṇa* means the best path and, the time during which the sun travels in that path also becomes *‘uttarāyaṇa’*. Both these meanings i.e. the time during which the sun travels in the northern direction and the best time, agree in sense for the term *‘uttarāyaṇa’*. The first meaning is visible to the eye. The second one is a matter that has to be known from scriptures and by experience. This indeed is the issue which is posing a problem here.
 
+### Importance of uttarāyaṇa
 What is special about the supremacy in the duration of time of *uttarāyaṇa*? It is referred to as ‘the day of the *devatās’* and the best time for the performance of *‘vedavrata’*, marriage, *cūdākarma, upanayana* etc, which are dear to the *devatās*. Opposed to this the *‘dakshiṇāyana’* which is called the night of the *devatās* is best for *tarpaṇa, śrāddha* etc. which are dear to *pitṛ devatās*.
 
 > दैवे रात्र्यहनी वर्षं  
@@ -222,22 +224,28 @@ What is special about the supremacy in the duration of time of *uttarāyaṇa*? 
 > अहस् तत्रोदगयनं  
 > रात्रिः स्याद् दक्षिणायनम् ॥ 
 
-Ths *śāstras* are of the opinion that *uttarāyaṇa* is best for *devatā kāryas* like *dhyāna, dāna*, worship, *mantropadeśa* etc. There is not much of an objection to this. But another well known thing about *uttarāyaṇa* has lead to discussions and criticisms. What is that well known thing? It is the assertion by the scriptures that those who pass away in *uttarāyaṇa* attain *moksha*. This assertion has indeed created a confusion. We come across statements in scriptures, which say that people who pass away in *Kāśī* attain *moksha* and also that people who pass away in *uttarāyaṇa* attain salvation. We see an opinion in the *Mahābhārata* that the great yogi *Bhīshma*, who was felled to a bed of arrows at the time of *dakshiṇāyana*, held on to his *prāṇa* till the time of the arrival of *uttarāyaṇa*, for the above said reason only.
+Ths *śāstras* are of the opinion that *uttarāyaṇa* is best for *devatā kāryas* like *dhyāna, dāna*, worship, *mantropadeśa* etc. There is not much of an objection to this. 
 
-“धारयिष्याम्यहं प्राणान्पतितोऽपि महीतले उत्तरायणमन्विच्छन् सुगतिप्रतिकाङ्क्षया” । 
+### Death in uttarāyaṇa
+But another well known thing about *uttarāyaṇa* has lead to discussions and criticisms. What is that well known thing? It is the assertion by the scriptures that those who pass away in *uttarāyaṇa* attain *moksha*. This assertion has indeed created a confusion. We come across statements in scriptures, which say that people who pass away in *Kāśī* attain *moksha* and also that people who pass away in *uttarāyaṇa* attain salvation. We see an opinion in the *Mahābhārata* that the great yogi *Bhīshma*, who was felled to a bed of arrows at the time of *dakshiṇāyana*, held on to his *prāṇa* till the time of the arrival of *uttarāyaṇa*, for the above said reason only.
 
-\(The words of *Bhīshma*-“Though I have fallen on the ground, I am waiting for the arrival of *uttarāyaṇa*, as I am desirous of *Sadgati*. I will hold on to my *prāṇās* till then”\). It is the clear opinion of the *upanishats* that there is no salvation for a person who leaves his body in *dakshiṇāyana*. He travels in the path of *pitṛs* and is merged in *candra*. Whoever attains *candra* will be born again.
+> “धारयिष्याम्य् अहं प्राणान्  
+> पतितोऽपि महीतले  
+> उत्तरायणमन्विच्छन्  
+> सुगतिप्रति-काङ्क्षया” । 
 
-> अथ यो दक्षिणे प्रमीयते, पितृणामेव महिमानं गत्वा  
-चन्द्रमसस्सायुज्यं गच्छति \(तै. उ. \) 
+> \(The words of *Bhīshma*-“Though I have fallen on the ground, I am waiting for the arrival of *uttarāyaṇa*, as I am desirous of *Sadgati*. I will hold on to my *prāṇās* till then”\). 
 
-> तेषां यदा तत्पर्यवैति अथैतमेवाध्वानं पुनर्निवर्तन्ते \(छां. उ\) 
+It is the clear opinion of the *upanishats* that there is no salvation for a person who leaves his body in *dakshiṇāyana*. He travels in the path of *pitṛs* and is merged in *candra*. Whoever attains *candra* will be born again.
+
+> अथ यो दक्षिणे प्रमीयते, पितृणाम् एव महिमानं गत्वा चन्द्रमसस्-सायुज्यं गच्छति \(तै. उ. \)  
+> तेषां यदा तत्-पर्यवैति अथैतम् एवाध्वानं पुनर्-निवर्तन्ते \(छां. उ\) 
 
 The *Upaniśats* clearly declare that the need of *uttarāyaṇa* is there for a *yogi* who desires a place in the *Brahma sthāna* which is free from rebirths.
 
-> अपूर्यमाणपक्षाद्यान् षडुदङ्ङेति मासांस्तान् ॥ \(छां. 4-115-5\) 
+> अपूर्यमाणपक्षाद्यान् षडुदङ्ङेति मासांस् तान् ॥ \(छां. 4-115-5\) 
 
-In the *Bhagavad-Gīta* which is the essence of *upaniśats*, there is a teaching.—“Listen to me. I will tell you the time, when departing, the *yogis* attain salvation which is free from rebirth and also the time, when departing, they are subject to rebirth. *Yogis* who are *Brahmavids* who travel through *agni, jyoti*, day, bright fortnight and during the six months of *uttarāyaṇa* will attain the *Brahma*, and the *yogis* who travel through smoke, night, dark fortnight and the six months of *dakshiṇāyana* will reach the light of *candra*, return to *samsāra* again.”
+In the *Bhagavad-Gīta* which is the essence of *upaniṣats*, there is a teaching.—“Listen to me. I will tell you the time, when departing, the *yogis* attain salvation which is free from rebirth and also the time, when departing, they are subject to rebirth. *Yogis* who are *Brahmavids* who travel through *agni, jyoti*, day, bright fortnight and during the six months of *uttarāyaṇa* will attain the *Brahma*, and the *yogis* who travel through smoke, night, dark fortnight and the six months of *dakshiṇāyana* will reach the light of *candra*, return to *samsāra* again.”
 
 > यत्र कालेत्वनावृत्तिं आवृत्तिं चैव योगिनः ।  
 प्रयाता यान्ति तं कालं वक्ष्यामि भरतर्षभ ॥ 
@@ -248,22 +256,23 @@ In the *Bhagavad-Gīta* which is the essence of *upaniśats*, there is a teachin
 > धूमो रात्रिस्तथा कृष्णः षण्मासा दक्षिणायनम् ।  
 > तत्र चान्द्रमसं ज्योतिः योगी प्राप्य निवर्तते ॥ 
 
-The path of *uttarāyaṇa* is also called *“Archirādimārga”*, because it begins with the *darśana* of *‘Agnijyoti’*. As it delivers to the abode of *paramātman* the of God of Gods, from which there is no return, it is also called as *‘Devayāna mārga*.’ Likewise, we see that there are two names for the path of *dakshiṇāyana* viz *‘dhūmādi mārga’* and *‘pitṛyāna mārga’.* Among these, the *devayāna mārga* transports one to *mukti*. The second one makes a person to return to *samsāra*, the *upaniśats* clarify further.
+The path of *uttarāyaṇa* is also called *“Archirādimārga”*, because it begins with the *darśana* of *‘Agnijyoti’*. As it delivers to the abode of *paramātman* the of God of Gods, from which there is no return, it is also called as *‘Devayāna mārga*.’ Likewise, we see that there are two names for the path of *dakshiṇāyana* viz *‘dhūmādi mārga’* and *‘pitṛyāna mārga’.* Among these, the *devayāna mārga* transports one to *mukti*. The second one makes a person to return to *samsāra*, the *upaniṣats* clarify further.
 
-“ते य एवमेतद्विदुः ये चापी अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभिसम्भवन्ति, अर्चिषोऽहः अह्न आपूर्यमाणपक्षं, आपूर्यमाणपक्षाद्यान् षण्मासान् उदङ्ङादित्य एति मासेभ्यो देवलोकम्, देवलोकादादित्यं आदित्याद्वैद्युतम्, तान्वैद्युतान् पुरुषो मानस एत्य ब्रह्मलोकान्गमयति, तेषु ब्रह्मलोकेषु पराः परावतो वसन्ति तेषां न पुनरावृत्तिः।
+> “ते य एवमेतद्विदुः ये चापी अरण्ये श्रद्धां सत्यमुपासते तेऽर्चिरभिसम्भवन्ति, अर्चिषोऽहः अह्न आपूर्यमाणपक्षं, आपूर्यमाणपक्षाद्यान् षण्मासान् उदङ्ङादित्य एति मासेभ्यो देवलोकम्, देवलोकादादित्यं आदित्याद्वैद्युतम्, तान्वैद्युतान् पुरुषो मानस एत्य ब्रह्मलोकान्गमयति, तेषु ब्रह्मलोकेषु पराः परावतो वसन्ति तेषां न पुनरावृत्तिः।
 
-		
-अथ ये यज्ञेन दानेन तपसा लोकान् जयन्ति ते धूममभिसम्भवन्ति. धूमाद्रात्रिं, रात्रेरपक्षीयमाणपक्षं अपक्षीयमाणपक्षाद्यान् षण्मासान् दक्षिणामादित्य एति, मासेभ्यः पितृलोकम्, पितृलोकाच्चन्द्रम्, ते चन्द्रं प्राप्य अन्नं भवन्ति ताग्ं स्तत्रदेवा यथा सोमं राजानमाप्यायस्वापक्षीयस्वेति” बृहदारण्यक 6-1-14-15
+> अथ ये यज्ञेन दानेन तपसा लोकान् जयन्ति ते धूममभिसम्भवन्ति. धूमाद्रात्रिं, रात्रेरपक्षीयमाणपक्षं अपक्षीयमाणपक्षाद्यान् षण्मासान् दक्षिणामादित्य एति, मासेभ्यः पितृलोकम्, पितृलोकाच्चन्द्रम्, ते चन्द्रं प्राप्य अन्नं भवन्ति ताग्ं स्तत्रदेवा यथा सोमं राजानमाप्यायस्वापक्षीयस्वेति” बृहदारण्यक 6-1-14-15
 
+#### Quandary
 On the whole, it has been clearly proclaimed in the *upanishats, Gīta* and *Itihāsas* that those who give up their *prāṇās* in the path of *uttarāyaṇa* \(time\) will attain salvation and those who give up their *praṇa* in the *dakshiṇāyana* path are reborn. Then, if a *Brahmajnānī* dies accidentally in *dakshiṇāyana*, does he return *samsāra*? And, if an *ajnāni* accidentally dies in *uttarāyaṇa* will he get *mukti*? If one kills an *ajnāni* in *uttarāyaṇa*, will it help him to obtain *mukti*? Is it possible to avert the *mukti* of a *Brahmajnāni* by killing him in *dakshiṇāyana*? What is the relationship between the special times of *uttarāyaṇa* and *dakshiṇāyana* and *mukti* or *samsāra*? Is there no place for *jnāna, ajnāna, puṇya*, sin and so on here? These questions invade our minds.
 
+#### Resolution
 1. Some have given up finding a solution to the problem saying “I do not understand why it has been stated like this in the *Gīta* and the *upanishats*. This is a riddle which I cannot solve”.
 
-2. Regarding this problem the *pūrvācāryas* have presented their conclusions as below after making a study of the above said \(treatises viz\) *Gīta, upaniśats, Itihāsa vākyas* and also *Brahmasūtravākyas* by reasoning, which conform to the *śāstra*s, as follows.:
+2. Regarding this problem the *pūrvācāryas* have presented their conclusions as below after making a study of the above said \(treatises viz\) *Gīta, upaniṣats, Itihāsa vākyas* and also *Brahmasūtravākyas* by reasoning, which conform to the *śāstra*s, as follows.:
 
-\(*Brahmasūtra* ch. 4 *sūtra* 507, 508, 512 “अतश्चायनेऽपि दक्षिणे” “योगिनः प्रतिस्मर्येते स्मार्ते चैते” “अतिवाहिकास्तल्लिङ्गात्”\)
+> \(*Brahmasūtra* ch. 4 *sūtra* 507, 508, 512 “अतश्चायनेऽपि दक्षिणे” “योगिनः प्रतिस्मर्येते स्मार्ते चैते” “अतिवाहिकास्तल्लिङ्गात्”\)
 
-We can summarize their conclusions thus: There are two types of people who attain *mukti* viz. those who attain *mukti* immediately and those who attain salvation progressively There is neither *Gati* nor *Agati* for those great souls who belong to the first category who are *pūrṇabrahmajnānis* and have *samyagdarśananishṭhā*. Their *prāṇās* have already merged in *brahma* and they have become *Brahmamayas* and *Brahmabhūtas*. *“Na tasya prāṇā utkramanti”* They have either *arcirādigati* or *Dhoomādigati*. Regarding them, the *śāstras* make no mention of the *uttarāyaṇa* and *dakshiṇāyana gatis.*
+We can summarize their conclusions thus: There are two types of people who attain *mukti* viz. those who attain *mukti* immediately and those who attain salvation progressively. There is neither *Gati* nor *Agati* for those great souls who belong to the first category who are *pūrṇa-brahma-jnānis* and have *samyag-darśana-nishṭhā*. Their *prāṇās* have already merged in *brahma* and they have become *Brahmamayas* and *Brahmabhūtas*.+++(5)+++) *“Na tasya prāṇā utkramanti”* They have either *arcirādigati* or *Dhoomādigati*. Regarding them, the *śāstras* make no mention of the *uttarāyaṇa* and *dakshiṇāyana gatis.*
 
 The *uttarāyaṇa* path is for the *Brahmopāsaka yogis* who attain progressive emancipation. They attain *mukti* in the course of time. They tavel through the path viz the *devatā* of day time who is the presiding deity of time, *śuklapakshadevatā* and *uttarāyaṇa devatā*, and attain *Brahman*. *Yogis* who have followed the path of *karma*, travel by the route viz *Dhūmābhimānidevatā, Rātryabhimānidevatā, Kṛshṇapakshadevatā* and *dakshiṇāyana devatā*, and reach the *Candrajyoti*, and with the waning of their *puṇya*, return to the world again.
 
@@ -316,7 +325,7 @@ Some scholars have tried to solve the problem by interpreting the word *‘kāla
 
 To our question, “does an *ajnāni* attain salvation if he dies in *uttarāyaṇa*,” he answered that there is no *dehatyāga* in the case of an ‘a*jnāni’* in *uttarāyaṇa*. To the question, “does a *jnāni* gets subjected to *Purnarāvṛtti* if he dies in *dakshiṇāyana”*, he replied that there is no question of the happening of *dehatyāga* at all in the case of a *jnāni* in *dakshiṇāyana*. Then we rained many more questions. “This explanation is in contradiction to reason and illustrations indeed\! If a *jnāni* dies in *dakshiṇāyana* where does his divine knowledge go? How does the ignorance of an a*jnāni* vanish if he dies in *uttarāyaṇa*? How can the light of divine knowledge occur to him all of a sudden, and take him to *mukti*? The example of *Droṇacārya* attaining *mukti* by his power of *yoga* even though he died in *dakshiṇāyana* topples the conclusions regarding the significance of the times of *uttarāyaṇa* and *dakshiṇāyana*\! Then why did *Bhīshmacārya*, inspite of being a *jnāni* desired for *uttarāyaṇa* to cast off the mortal coil?” To this, *Śrīraṅgamahāguru* serenely bestowed answers which provided us great satisfaction. He answered our subsequent questions as below:
 
-“The distinct times of *uttarāyaṇa* and *dakshiṇāyana*, as seen outside, exist inside \(the human body\) also. *Uttarāyaṇa* will lead to salvation, whereas *dakshiṇāyana* pushes down to *Punarāvṛtti*. Even though a *jnāni* casts off his mortal coil in *dakshiṇāyana*, he creates *uttarāyaṇa* itself within, by the power of *yoga*. By that he will anyhow attain *mukti*. Even though an ‘a*jnāni’* gives up his body in *uttarāyaṇa*, the time within him will be *dakshiṇāyana* only. As he does not have the capability to convert the time into *uttarāyaṇa* within, he will return to the worldly life \(again\). Sometimes, the external *uttarāyaṇa* and *dakshiṇāyana* may conjoin with the inner *uttarāyaṇa* and *dakshiṇāyana*, and may remain separate also. Even though it was *dakshiṇāyana* outside, at the time of the giving up of his body by *Droṇacārya*, he created the condition of *uttarāyaṇa* within, by the power of yoga. Therefore he attained *mukti*. Contrary to this, a*jnāni*s who die when it is *uttarāyaṇa* outside, are subject to *Punarāvṛtti* as it will be *dakshiṇāyana* inside them. How at all can one have the capacity to create the condition of *uttarāyaṇa* inside, if he is not endowed with *yoga, Samādhi* and *Brahmjana*, which are possible only with the grace of God\!”?
+> “The distinct times of *uttarāyaṇa* and *dakshiṇāyana*, as seen outside, exist inside \(the human body\) also. *Uttarāyaṇa* will lead to salvation, whereas *dakshiṇāyana* pushes down to *Punarāvṛtti*. Even though a *jnāni* casts off his mortal coil in *dakshiṇāyana*, he creates *uttarāyaṇa* itself within, by the power of *yoga*. By that he will anyhow attain *mukti*. Even though an *‘ajnāni’* gives up his body in *uttarāyaṇa*, the time within him will be *dakshiṇāyana* only. As he does not have the capability to convert the time into *uttarāyaṇa* within, he will return to the worldly life \(again\). Sometimes, the external *uttarāyaṇa* and *dakshiṇāyana* may conjoin with the inner *uttarāyaṇa* and *dakshiṇāyana*, and may remain separate also. Even though it was *dakshiṇāyana* outside, at the time of the giving up of his body by *Droṇacārya*, he created the condition of *uttarāyaṇa* within, by the power of yoga. Therefore he attained *mukti*. Contrary to this, a*jnāni*s who die when it is *uttarāyaṇa* outside, are subject to *Punarāvṛtti* as it will be *dakshiṇāyana* inside them. How at all can one have the capacity to create the condition of *uttarāyaṇa* inside, if he is not endowed with *yoga, Samādhi* and *Brahmjana*, which are possible only with the grace of God\!”?
 
 To the question ‘what proof is there to show that there are *tithi, vāra, paksha* and *ayana* inside also,’ he gave a direct answer “The experience of a *yogi* is the proof. When the mind is pure, it can be clearly seen by the inner eye”. We found the substantiation to this in the *Purāṇās* also. According to *yogaśāstra*, *“uttarāyaṇa”* is the time when *‘prāṇa’* enters the *Idā nādi* which is on the left side of the body from the *piṅgala nāḍi* which is on the right side of the body and travels there. Entering the *Iḍa nāḍi* like this, it joins the middle *nādi* called *sushumnā*. *Mukti* and immortality are certain for a person who gives up his \(*prāṇa*\) through the *sushumnā nāḍi*. “तासां मूर्धानमभिनिस्सृतैका. तयोध्र्वमायन् अमृतत्वमेति” declares the *kaṭha śruti. Dakshiṇāyana* means the time when *prāna* enters from the *Iḍānāḍi* which is on the left side into the *piṅgala nādi* which is on the right side and travels there. Thus, it is certain that it is *archirādi gati* for those, who in this way come to *uttarāyaṇa* which is endowed with a special snese, and, for those who come in the *dakshiṇāyana*, it is *dhūmādigati* and *punarāvṛtti*. When *Droṇacārya* gave up his body it was *dakshiṇāyana* outside. But by the power of *yoga*, he entered the *pingalā nāḍi* from the *Iḍā nāḍi* and entered the *sushumnā nādi* and so became a traveller in the *arcirādi* path and thus attained *mukti*. When *ajnāni*s give up the body, their prana will be travelling in the *piṅgaḷā nādi* only, and so they attain *dhūmādigati* only, though it is *uttarāyaṇa* outside.
 
@@ -328,9 +337,9 @@ To the question ‘what proof is there to show that there are *tithi, vāra, pak
 
 Thus, by discerning the true spiritual meaning of the words *uttarāyaṇa* and *dakshiṇāyana*, it becomes clear that it is *uttarāyaṇagati* for the *jnāni* and the *dakshiṇāyanagati* for the *ajnāni*, irrespective of the *ayana* outside.
 
-**Then, we placed before *ŚrīGurudeva* a question “The *Upanishads* state” - his *prāṇās* never depart. There is no gati for him at all.** “न तस्य प्राणा उत्क्रामन्ति”. He has become one with Brahman and has become Brahman himself. With reference to whom is this description?” To this he said-
+**Then, we placed before *ŚrīGurudeva* a question “The *Upanishads* state” - his *prāṇas* never depart. There is no gati for him at all.** “न तस्य प्राणा उत्क्रामन्ति”. He has become one with Brahman and has become Brahman himself. With reference to whom is this description?” To this he said-
 
-“It refers to the person who is in *samādhi* i.e. being in the state of *Brāhmi Sthiti*. When the casting off of the body happens in that state, there is no question of travelling at all. There is not even the path of *uttarāyaṇa*. Because, he is already established in *Brahma* which is the goal of *uttarāyaṇa gati*.”
+> “It refers to the person who is in *samādhi* i.e. being in the state of *Brāhmi Sthiti*. When the casting off of the body happens in that state, there is no question of travelling at all. There is not even the path of *uttarāyaṇa*. Because, he is already established in *Brahma* which is the goal of *uttarāyaṇa gati*.”
 
 Question: If *Dehatyāga* occurs for a *jnāni* when he is in a state of other than that *Samādhi*, what will happen \(to him\)?
 
@@ -366,6 +375,8 @@ We had seen an incident in the life of *Śrīrangamahaguru* which convincingly d
 
 Not only this. We humbly remember here many situations in which people experienced the feeling of an ambrosial bath, on listening to the music of *Śrīraṅgamahāgurudeva* which was full of the experience of the supreme bliss, and which brought to their mind the feel of the spring season, though it was hot outside.
 
+## Procudral Q&A
+### pitṛ-kArya vs deva-kArya
 Question: - We are satisfied by the narration of this example and the incidents. Now we wish to ask one more question about the significance of the sacred *uttarāyaṇa puṇyakāla*. You said that *“uttarāyaṇa”* is the day—time of *devatā*s and it is an excellent time for the worship of *devatā*s. But why should the *Pitṛtarpaṇa* be done at the time of *uttarāyaṇa puṇyakāla* which is the beginning time of *uttarāyaṇa*? Why the worship of *devatā*s is done afterwards? To whom this time is dear? To *Pitṛs* or to *devatā*s? We have a doubt here.
 
 Answer: The *uttarāyaṇa puṇyakāla* called *‘makaraSaṅkrānti’* is the conjunction time of *dakshiṇāyana* and *uttarāyaṇa*. Therefore it is a commendable time both for the worship of *pitṛs* to whom *dakshiṇāyana* is dear, and for the worship of *devatā*s also to whom *uttarāyaṇa* is dear. So it is dear to both of them. During *puṇyakāla*s the worship of *pitṛs* should be done first and then the worship of *devatā*s performed.
@@ -382,6 +393,7 @@ Question: - As *uttarāyaṇa* is excellent for both i.e. worship of *pitṛ—d
 
 Answer: No. Auspicious functions such as marriage, *Upanayana* and *cūḍākarma* etc. should not be performed on that day. It is the day of *saṅkramaṇa*. It is the sacred day when the pull of the *pitṛ devatās* is more. The path of *pitṛs* is opposite to the path of *devatās*. On that day only the *pitṛ mārga* will be open and the inner spiritual centers related only to the *pitṛs* would blossom. Accordinlgy rituals such as *tarpaṇa, dāna* etc. should be performed on that day. As the path and centres related to *devatā*s get closed on that day, auspicious functions should not be performed on that day. Favourable results will not be obtained on that day. But as impulsions and inspirations make one’s disposition turn the mind inwards, excellent results are obtained by meditating upon God and doing *mantra* and *japa* specially. In this aspect it can be compared to the *puṇyakāla* during eclipses. After the day *uttarāyaṇa puṇyakāla* \(*makara Saṅkrānti*\) passes, auspicious functions like *upanayana* etc can be performed from the day next to it, which are commendable in *uttarāyaṇa*.
 
+### Oil bath
 Question: Why one should not have oil bath on that day.?
 
 Answer: As it is a festival day, all are generally encouraged to have an oil bath. It is not correct. Because, oil bath is one which provides inspiration for performaing *śubhakarmas*. But *Saṅkrānti* provides inspiration for *puṇyakarmas*. It is best to take bath in pure cold water on that day, and avoid a hot water bath. It is because a favourable disposition liked by the *Pitṛdevatās* is obtained by taking bath in cold water only. People who are weak may take bath in hot water from the view point of their health. We have stated earlier that taking a bath in sacred rivers like *Gaṅgā* etc. is exceptionally best.
@@ -395,10 +407,11 @@ Question: *Śāstras* state that the misfortunes of a person get warded off if h
 > तिलोद्वर्ती तिलस्नायी तिलहोमी तिलप्रदः ।  
 > तिलभुक् तिलवापी च षट्तिली नावसीदति ॥ 
 
-In what way should each of these be used on the days of *makaraSaṅkrānti*, which happens to be a festival of sesame?
+In what way should each of these be used on the days of *makara Saṅkrānti*, which happens to be a festival of sesame?
 
 Answer: Applying sesame oil to the body, taking a bath after applying the sesame oil and scattering the sesame seeds are prohibited on that day. Sesame should be used in the remaining three ways on that day, for warding off misfortunes.
 
+### dAna
 Question: - Scriptures state that on the day of *uttarāyaṇa puṇyakāla*, sesame seeds, an image of cow made of sesame seeds, and also a utensil filled with sesame seeds should be gifted. By these, afflictions and impediments get destroyed, sins are redeemed and desired progeny is obtained.
 
 > तिलप्रदः प्रजामिष्टां दीपदश्चक्षुरुत्तमम् ।  
@@ -424,18 +437,21 @@ Question: It is said in the *śāstras* that the *dāna* of sesame should be don
 
 **Answer: When we placed this question before *Gurudeva*, he gave an easy answer that was acceptable. We present it here: “The *dāna* of sesame is made with the intention that the recipient should consume it So, the offered sesame should be in such a form that no adverse effect is caused by its consumption”**. Eating mere sesame seeds causes loosening of bowels, phlegm, and increases bile; and so health gets affected. Thus, the custom of offering of sesame mixed with roasted groundnuts, parched Bengal gram, pieces of copra and pieces of jaggery, is a wise practice indeed. When sesame mixed with the above said condiments is consumed, it causes nourishment, satisfaction and enhances taste and health. This mixture removes the blemishes of bare sesame and enhances its properties. Even though it is not stated in the *śāstravākya*s, since it is proved to be good by way of *prayoga vijnāna*, the gifting of sesame mixed with such condiments will be *śāstrīya* only.”
 
+### ārati
 Question: What is the significance of performing *ārati* for children and pouring sesame over their body?
 
 Answer: The very touch of sesame seeds wards off torments related to infancy. And the centers that are necessary for the development of infants blosoom. Therefore sesame is poured on children as per precepts, and blessings of elders are made to rain on them. As qualities similar to the above said ones are also present in jujube fruits also, they are mixed with sesame and showered on children. It should be remembered that the season for the availability of ripe jujube fruits is also around that *uttarāyaṇa puṇyakāla*.
 
+### Cane
 Question: When sesame is distributed to houses \(of relatives and friends\), pieces of sugarcane are also offered along with sesame. Why this custom is in vogue?
 
 Answer: In this regard, *Śrīgurudeva* had told us us the *tāttvik* reasons for this pracitce. They are as follows: “In the mixture of sesame and groundnuts and jaggery etc, the pieces of sugar cane sticks are added as a sweet condiment. Consuming of that provies health, satisfaction, and nourishment of the body. And the knots on the sugar cane represent the stages \(*parva*\) of life, and the *parvas* in the path of *yoga*. The *Āgama śāstras* state that the sugar cane staff in the form of a bow which adorsn the hand of *Jaganmāta Rājarājeśvari*, is the form of the *Manas tattva*.
 
-मनोरूपेक्षुकोदण्डायै नमो नमः
+> मनोरूपेक्षुकोदण्डायै नमो नमः
 
 Thus the sugarcane that is used on that day has the status of both kinds i.e. *ādhibhautika* and *ādhyātmika*
 
+### Pongal
 Question: *Makara saṅkrānti* is called *‘pongal’*. You have stated earlier that this custom of boiling the milk in a vessel, on a purified fire place till it overflows, is in vogue in Tamilnadu. Does this custom have any significance?
 
 Answer: There is no doubt that it has a special meaning. Sentimentally viewing, it indicates that it is a festival of extreme joy that over flows. It is also a divine custom indicatory of the experience of a *yogi* who has attained divine bliss by the practice of *yoga*. The *yogi* relishes the stream of *amṛta* that flows out from the *candramanḍala* \(*varuṇamanḍala*\), when the flood of *prana- apāna* rises up, caused by the heat of *yogābhyāsa*.
@@ -444,6 +460,7 @@ Answer: There is no doubt that it has a special meaning. Sentimentally viewing, 
 
 The milk that overflows by the heat of fire, beautifully reflects the above said experience of *yoga*. This ritual of making milk to overflow by boiling is also done during *gṛhapraveśa*. The custom of observing it in a special way on the day of *Saṅkrānti* which is a *navodaya parva* on which Lord *SūryaNārāyaṇa* treads the *Devayānamārga*, is still good.
 
+### Cows
 Question: Why cows are worshipped on *makara saṅkrānti*?
 
 Answer: *Gomātā* deserves to be worshipped every day. Even her *darśana* is auspicious. “लोकेऽस्मिन्मङ्गलान्यष्टौ ब्राह्मणो गौर्हुताशनः । हिरण्यं सर्पिरादित्यः आपो राजा तथाष्टमः” Accordingly the cow is considered one among the eight auspicious things. Misfortunes vanish and desires get fulfilled by the *darśana*, salutation, worship and *pradakshiṇa* of the cow.
@@ -504,15 +521,17 @@ Question: The answers and the explanations are very satisfying. It is indeed jus
 
 Answer: - It is done to cause lightness in them. Also for relief from afflictions in the form of *ādhis* and *vyādhis*. Not only this, lamps of ghee and sesame oil are lighted, and curds and sweet *pumpkin* are gifted, wishing relief to all from torments.
 
+### bhogi
 Question: Why the day previous to *makara Saṅkrānti* is called *‘bhogi’* festival?
 
 Answer: It is a day of the festival which has conducive environs both within and without, that facilitate the enjoyments of *Bhoga* which is not opposed to *Dharma*. The day next to it is useful for both *yogis* and *Bhogis*, but specially for *yogis*, being an auspicious and a meritorious day. One may remember that proper guidance and traditions are there in *Bhāratīya* culture to falicitate the enjoyment of both, in an appropriate way.
 
+### kanū
 Question: In the tradition of the Tamil country, *‘kanū’* festival is celebrated on the day next to *Makara Saṅkrānti* in which colored food materials are placed on leaves outside the house, and sentences such as ‘Marriage and *sīmanta* to the crows and sparrows’ are uttered. Is there any significance in this custom \(*śāstra*\) women?
 
 Answer: Do not forget the fact that all our bodies have dispositions both female and male, and consist of *Prakṛti* and *Purusha*. The customs of women are as important as that of men. These are the rituals that bring about the welfare and prosperity of the whole family and the society. The great sage *Āpastamba* has taught in his *‘Dharma śāstra’*, that even though these find no mention in the *śṛutis* and *smṛtīs*, one should respect the traditions brought by women.
 
-स्त्रीभ्यस्सर्ववर्णेभ्यश्च धर्मशेषान्प्रतीयादित्येक इत्येके \(प्रश्न 2, पटल 11, सूत्र 16\)
+> स्त्रीभ्यस्सर्ववर्णेभ्यश्च धर्मशेषान्प्रतीयादित्येक इत्येके \(प्रश्न 2, पटल 11, सूत्र 16\)
 
 Question: Let us respect the traditional practices of women. But what is the meaning of the tradition \(*śāstra*\) by women of *‘Kanū* festival’?
 
@@ -529,8 +548,9 @@ Special *bali* is offered to those very *bhūtas* in the *kanū* festival, on th
 
 Question: Why the words wishing the marriage and *sīmanta* to crows and sparrows are uttered, during the time of offering the oblation?
 
-Answer: As a result of the sins committed during *dakshiṇāyana*, there is every possibility of misfortunes occuring during auspicious functions such as *sīmanta* etc, and also that children born as a result of them may get affected. The custom of passing on such torments to beasts and birds and getting onself freed from such misfortunes, is seen hinted here. We see this custom in *vaidika yajnas* which involve the sacrifice of animals and birds. The same *samskāra* is seen in these wishes of the above *‘kanū’* festival. \(Women folk wish marriage to the crows, *sīmanta* to the sparrows, wellness to their house of the parents, prosperity to the house of in-laws and success to the brothers and sisters.\)
+Answer: As a result of the sins committed during *dakshiṇāyana*, there is every possibility of misfortunes occuring during auspicious functions such as *sīmanta* etc, and also that children born as a result of them may get affected. The custom of passing on such torments to beasts and birds and getting onself freed from such misfortunes, is seen hinted here.+++(4)+++ We see this custom in *vaidika yajnas* which involve the sacrifice of animals and birds. The same *samskāra* is seen in these wishes of the above *‘kanū’* festival. \(Women folk wish marriage to the crows, *sīmanta* to the sparrows, wellness to their house of the parents, prosperity to the house of in-laws and success to the brothers and sisters.\)
 
+### Saṅkrānti deva
 Question: On the day of *Saṅkrānti*, there is a custom of honoring the astrologers after the *pūja* in the night and listening from them the details about the form of *Saṅkrānti mūrti* and the outcome of *Saṅkrānti*. Does *Saṅkrānti* have three heads, five mouths etc as described by the astrologers?
 
 		
@@ -538,9 +558,9 @@ Answer: The description here does not refer to the time of *Saṅkrānti*. Time 
 
 **We would like to quote here the sacred message given by *Śrīgurudeva* on the *Saṅkrānti* day of *Śrīplavanga samvatsara, pushya māsa, Pūrṇimā*, which occurred on a Monday, and conclude the discussion pertaining to *makaraSaṅkrānti*.**
 
-“All the *karmas* that were adapted by the *sanātana Ārya Bhāratiyās* culminated in *jnāna* only, and there is naturalness in understanding them and observing them. The festival of *Saṅkrānti* is also one of such festivals and *parvas* observed by the *sanātanis*. The festival is congenial to both happiness and *parāgati*. It is festival of joy to both *Bhogis* and *Yogis*. \(This day happens to be\) the limb of the right part of *Paramātma*, the *uttarāyaṇa* which is in accordance with the path of Lord *Nārāyaṇa*, and is the north sided door to the house called the year. It is the day of opening of that door. From this day itself the *Rathotsavas* which are the wishes of God drawn by devotees, commence. It is a festival when the participation in the *utsava* of God is set to begin in all pilgrimages and temples, with the cooperation of all. It is a festival of devotees both in their hearts and in the outside world, of drawing the chariot of life towards God. This is a *puṇyakāla*. And also a *Parvakāla*. The time of distributing sugarcane with knots which represents the *Parvas* \(stages\) of life, and the time when sesame and jaggery which represent peace, are distributed. So much for *Bhoga*. And from the view point of *yoga*, it is a time when the trinity come together”.
-
-“अस्माकमेकीभूतानां निष्कलं परमं पदम्” 
+> “All the *karmas* that were adapted by the *sanātana Ārya Bhāratiyās* culminated in *jnāna* only, and there is naturalness in understanding them and observing them. The festival of *Saṅkrānti* is also one of such festivals and *parvas* observed by the *sanātanis*. The festival is congenial to both happiness and *parāgati*. It is festival of joy to both *Bhogis* and *Yogis*. \(This day happens to be\) the limb of the right part of *Paramātma*, the *uttarāyaṇa* which is in accordance with the path of Lord *Nārāyaṇa*, and is the north sided door to the house called the year. It is the day of opening of that door. From this day itself the *Rathotsavas* which are the wishes of God drawn by devotees, commence. It is a festival when the participation in the *utsava* of God is set to begin in all pilgrimages and temples, with the cooperation of all. It is a festival of devotees both in their hearts and in the outside world, of drawing the chariot of life towards God. This is a *puṇyakāla*. And also a *Parvakāla*. The time of distributing sugarcane with knots which represents the *Parvas* \(stages\) of life, and the time when sesame and jaggery which represent peace, are distributed. So much for *Bhoga*. And from the view point of *yoga*, it is a time when the trinity come together”.
+>
+> “अस्माकमेकीभूतानां निष्कलं परमं पदम्” 
 
 
 
