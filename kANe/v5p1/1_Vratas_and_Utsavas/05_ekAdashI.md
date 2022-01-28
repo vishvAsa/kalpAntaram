@@ -180,14 +180,15 @@ Baudhāyana [^253] declares that those who are unable to observe a complete fast
     एकभक्तादिकं कार्यम् आह बौधायनो मुनिः।  
     १. by हे. (on काल p 176), का. नि. p. 261.
 
-[^254]: उपवासेष्व् अशक्तानां नक्तं भोजनम् इष्यते। असामर्थे शरीरस्य पुत्रादीन् कारयेद् 294ll Hite q. by a.lfti- . p. 69.
+[^254]: उपवासेष्व् अशक्तानां नक्तं भोजनम् इष्यते। असामर्थे शरीरस्य पुत्रादीन् कारयेद्  p. 69.
 
 It is said by Markandeya [^255] that one may observe the methods of ekabhakta, nakta, ayācita, complete fast and dāna, but should not deprive oneself of the benefits of the observance of dvādaśī (with ekādaśī). 
 
 [^255]:
 
     एकभक्तेन नक्तेन तथैवायाचितेन च।  
-    उपवासेन दानेन न निादशिको भवेत्॥ \#TAV grup q. by R. on a p. 176, on a p. 1010, fit . p. 261, \#. Ê. p. 430 (reads 3497\# Whol); the 75tIT I. 136. 2-3 has that ... I उपवासेन भैक्ष्येण नैवाद्वादशिको भवेत् ॥
+    उपवासेन दानेन न निर्द्वादशिको भवेत्॥  
+    \#TAV grup q. by R. on a p. 176, on a p. 1010, fit . p. 261, \#. Ê. p. 430 (reads 3497\# Whol); the 75tIT I. 136. 2-3 has that ... I उपवासेन भैक्ष्येण नैवाद्वादशिको भवेत् ॥
 
 
 
@@ -570,7 +571,7 @@ The result of the insistence by Vaiṣṇavas on observing a fast on ekādaśī 
 
 Kalā as a measure of time has been variously defined. Matsya (142.4) and Vāyu (100.217-218) say that 30 kalās are equal to a muhurta (i. e. two ghaṭikās); on the other hand, the Amarakoga holds that 360 kalās constitute a muhurta and the Kālanirṇaya accepts this last. As the astronomers themselves were at variance as to the length of a tithi in question, a plain straight forward rule was proposed that the fast in case of doubt should be observed on dvādaśī and the pāraṇā should be observed on the 13th.[^303] 
 
-## Vaiṣṇavas vs 
+## Vaiṣṇavas vs Śaivas
 The rank and file of Vaiṣṇavas are very exclusive and bigoted and treat with some contempt everything connected with Śiva and some of them eat sumptuous food on Śivarātri, instead of observing a fast. Many of the smārtas generally observe a fast both on the Ekādaśī and the Śivarātri (particularly the Mahaśivaratri i.e. on Māgha dark 14th). There have been great wrangles and hatreds among Vaiṣṇavas and Śaivas. The Brahmapurāṇa expressly [^304] states that in the holy Puruṣottamaksetra a temple of Siya was erected in order to put a stop to the wranglings between Śaivas and Bhāgavatas (devotees of Vispu). The higher Hindu thought including even the Purāṇa excursions in philosophy always held that there[^305] is only one God, that the one Brahma that is all Intelligence, that is incapable of being thoroughly comprehended, that is without parts and without body, is imagined to have different visible forms for securing the purposes of devotees and that deities deemed to have visible forms are imagined as male or female or as portions (of the one brahma). The Mahābhārata and some of the Purāṇas emphasize that God is one and that there is no difference between Śiva and Viṣṇu. [^306] Vide Vanaparva 39. 76-77, Brahmapurāṇa 130. 10-11, 192. 51-53, Vāmana 67. 27-28, Varāha 70, 27, Viṣṇupurāna V. 18, 50, Brahmānda III, 43. 47-51, Nāradiya I. 2. 32. Some purāṇas 307 put forward the notion that health is secured from the worship of God as) the Sun, wealth from Agni, (true) knowledge from Śhaṅkara, and mokṣa from Viṣṇu.
 
 [^303]: बहुचाक्यविरोधेन सन्देहो जायते यदा। द्वादशी तु तदा ग्राह्या त्रयोदश्यां तु पारणम् ॥ बहुवाक्यविरोधेन ब्राह्मणेषु विवादिषु। एकादशी परित्यज्य द्वादशी समुपोषयेत् ॥ हे. on काल pp. 210-211. The first verse is quoted from गरुडपुराण by व. कि. को. p. 43.
