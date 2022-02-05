@@ -16,6 +16,7 @@ Several are the ways one expresses adoration (performs pUjA) towards the deva-s.
 
 ## Image Forms
 - Using images: Intricate images of the deva, as visualized by the sages, may be constructed.
+- I dislike ugly statues - big or small. And statues which don't gel with the experience the corresponding tradition ultimately seeks to deliver (eg viShNu-samAvesha and the giant rAmAnuja statue). It is possible to have good big statues though.
 
 ## Using abstract representations
 - One may invoke the deva-s into objects of various kinds - the darbha grass, some trees, the sacrificial fire, stones (say a sAligrAma), kalasha-s, geometric patterns (maNDala-s), weapons etc..
