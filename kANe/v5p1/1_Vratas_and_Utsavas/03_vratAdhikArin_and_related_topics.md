@@ -224,7 +224,7 @@ Word tithi in ancient Literature
 
 67
 
-Vide Tai. S. II. 5.5.1-2 and Śat. Br. XI. 1. 4.1-2 quoted[^166] below. The word tithi does not occur in the Samhitās, but it occurs in the Ait. Br. cited above and in the gļhya and dharma sūtras.
+Vide Tai. S. II. 5.5.1-2 and Śat. Br. XI. 1. 4.1-2 quoted[^166] below. The word tithi does not occur in the Samhitās, but it occurs in the Ait. Br. cited above and in the gṛhya and dharma sūtras.
 
 The Gobhilagrhyasūtra[^167] when prescribing a day for the setting up of sacred fires mentions the coincidence of an auspicious _tithi_ and _nakṣatra_ and in another place refers to the worship of the lord of the tithi and of the nakṣatra and of the tithi itself. The Kausītaki-gṛhya (I. 25) speaks of offerings to the tithi on which a child was born and prescribes that the dedication of ponds, wells and tanks was to be made in the bright half of a month and on an auspicious tithi (V.2).
 
@@ -233,13 +233,13 @@ The Nirukta[^168] while deriving the word _atithi_ applied to Agni in Ṛg. V. 4
 
 [^166]:  यस्य हविनिरुप्तं पुरस्ताच्चन्द्रमा अभ्युदेति त्रेध तण्डुलान् विभजेत् &c । तै.सं. 11. 3. 5. 1-2; तद्धैके दृष्ट्वोपवसन्ति श्वो नोदितेत्यभ्रस्य वा हेतोरनिर्ज्ञाय वाथोतोपवसन्त्यथैमुताम्युदेति <u> स यद्यगृहीतं हविरभ्युदियात् प्रज्ञातमेव </u> तदेषैव व्रतचर्या यत् पूर्णेद्युर्दुग्धं दधि हविरातञ्चनं तत्कुर्वन्ति प्रतिमुञ्चन्ति वत्सांस्तान् पुनरपाकुर्वन्ति तानपराह्ने पर्णशाखयापाकरोति । तद्यथैवादः प्रज्ञातमामावास्यं हविरेवमेव तद्यद्यु व्रतचर्यां वा नोदाशंसेत गृहीतं वा हविरभ्युदियादितरथो तर्हि कुर्यात् &c. शतपथ ब्रा. XI, 1. 4, 1-2. These passages form the subject of पूर्वमीमांसासूत्र VI. 5. 12-15. Vide my notes to व्यवहारमयूख pp. 277-279. The निर्वाप in the New Moon and Full Moon rites is of four muṣṭis (handfuls) of rice or yavas.
 
-167. HUT Paranaqarli T TR 1. 1. 13; 344 gera ir faunt TTT daarui gratia achar Par Thai THTH II. 8. 12 and 20.
+[^167]: तथा तिथिनक्षत्रपर्वसमवाये । गोभ्िलगृह्य I. 1. 13; अथ जुहोति प्रजापतये तिथये नक्षत्राय देवताया इति। दैवतमिष्ट्वा तिथिं नक्षत्रं च यजेत। गोभिलगृह्य II. 8. 12 and 20.
 
-168. अतिथिः अभ्यतितः गृहान भवति । अभ्येति तिथिषु परकुलानि इति धाम निराक्त IV. 5. Here 37 in anaru is supposed to stand for the root Bra (or 1). Compare Hz. III, 112 about that. The word fare is derived from 'tan' to spread by many medieval writers.
+[^168]: अतिथिः अभ्यतितः गृहान भवति । अभ्येति तिथिषु परकुलानि इति वा॥ निरुक्त IV. 5. Here अ in अतिथि is supposed to stand for the root अत् (or इ?). Compare मनु. III, 112 about अतिथि. The word तिथि is derived from 'tan' to spread by many medieval writers. तन्यन्ते कलया यस्मात्तस्मात्तास्तिथयः स्मृता। सिद्धान्तशिरोमणि q. by माधव P 98, पु.चि.p 32. The कालमाधव says: तनोति विस्तारयति वर्धमानां क्षीयमाणां वा चन्द्रकलामेकां यः कालविशेषः सा तिथिः, यद्वा यधोक्तकलया तन्यते इति तिथिः (p. 98).
 
-4 YEAHTITUT: Wat: 1 PETISITIHŮ q. by ATT P 98, E. Fap 32. The FISAYT says: R विस्तारयति वर्धमानां क्षीयमाणां वा चन्द्रकलामेकां यः कालविशेषः सा तिथिः, यहा वयोजकलवा grua a fare: 1 (p. 98).
+[^169]: बहुपूगगणसङ्घस्य तिथुक्। पा . V. 2. 52.
 
-169. T urgaya . V. 2. 52.
+[^170]: पूर्णमासादण् । वार्तिक 2 (on पा. IV. 2,35) on which महाभाष्य says 'पूर्णमासादण् वक्तव्यः। पूर्णमासो वर्ततेऽस्मिन् काले पौर्णमासी तिथिः ।'. It appears from this that both कात्यायन and पतञ्जलि are speaking of पूर्णिमान्त months.
 
 
 
@@ -249,41 +249,32 @@ The Nirukta[^168] while deriving the word _atithi_ applied to Agni in Ṛg. V. 4
 
 24
 
-Tithi is defined as the time or period required by the moon to gain twelve degrees on the sun. As the Sūryasiddhānta states "tithi is the lunar day in which the moon leaving the sun (at the last moment of Amāvāsyā), traverses twelve degrees (bhāgas) towards the east every day.'171 The moon's motion is irregular and therefore the moon traverses twelve degrees sometimes in 60 ghaṭikās, sometimes in more (up to about 65) and sometimes in less ghaṭikās up to about 54. The result is that one unit day may be co-terminous with one tithi, but often a unit day has two tithis i. e. in the morning it may be the 6th tithi, but in the afternoon, evening and night it may be the 7th. It is possible that in a single civil day (from sunrise to sunrise) there may be three tithis 0.g. on Monday morning there may be only two ghaṭikās left of the 6th tithi, then the 7th tithi may be only 56 ghaṭikās in duration and then the 8th may follow for the last two ghaṭikās of that unit day. Conversely, a single tithi may touch three days. For example, the last two ghaṭikās of Monday may be the first two ghaṭikās of the 6th tithi, then the 60 ghaṭikās of Tuesday may be occupied by the 6th tithi and two more ghaṭikās (the last) of the 6th tithi may spread on to Wednesday morning. A unit day which spreads over three tithis is declared by the Rājamārtaṇḍa to be very holy 172 (or auspicious); while on the other hand a tithi touching three days is said to be inauspicious for marriage, for marching on an invasion, for an auspicious religious act or an act meant to
+Tithi is defined as the time or period required by the moon to gain twelve degrees on the sun. As the Sūryasiddhānta states "tithi is the lunar day in which the moon leaving the sun (at the last moment of Amāvāsyā), traverses twelve degrees (_bhāgas_) towards the east every day.'[^171] The moon's motion is irregular and therefore the moon traverses twelve degrees sometimes in 60 ghaṭikās, sometimes in more (up to about 65) and sometimes in less ghaṭikās up to about 54. The result is that one unit day may be co-terminous with one tithi, but often a unit day has two tithis i.e. in the morning it may be the 6th tithi, but in the afternoon, evening and night it may be the 7th. It is possible that in a single civil day (from sunrise to sunrise) there may be three tithis e.g. on Monday morning there may be only two ghaṭikās left of the 6th tithi, then the 7th tithi may be only 56 ghaṭikās in duration and then the 8th may follow for the last two ghaṭikās of that unit day. Conversely, a single tithi may touch three days. For example, the last two ghaṭikās of Monday may be the first two ghaṭikās of the 6th tithi, then the 60 ghaṭikās of Tuesday may be occupied by the 6th tithi and two more ghaṭikās (the last) of the 6th tithi may spread on to Wednesday morning. A unit day which spreads over three tithis is declared by the Rājamārtaṇḍa to be very holy[^172] (or auspicious); while on the other hand a tithi touching three days is said to be inauspicious for marriage, for marching on an invasion, for an auspicious religious act or an act meant to advance prosperity.[^173]
 
-170. पूर्णमासादण् । वार्तिक 2 (on पा. IV. 2,35) on which महाभाष्य says QUATHEZOTE 784: guraritadas ir TUPATHI Fara:11. It appears from this that both कात्यायन and पतञ्जलि are speaking of पूर्णिमान्त months.
 
-171. Stia ain: trei HOTTETE: ht! HTTEICARTAL FISTICHE para a q. by a. F. t. p. 2. arah p. 2; while shra (p. 100) quotes सिद्धान्तशिरोमाणे as अको...शशी। तच्चान्द्रमानमंशैस्तु ज्ञेया द्वादशभिस्तिथिः। त्रिंशांश श्व तथा राशेर्भाग इत्यभिधीयते। आदित्याद्विप्रकृष्टस्तु भागद्वादशकं यदा। चन्द्रमाः स्यात्तदा TH Tapiterreftua Faroerara 1. 72. 11-12 g. by MATTE p. 101, fauna p. 2. 5. F. p. 32.
 
-172. 8: i generira na autat fetariani act : A RTE HTE निकं फलम् ॥ ति.त. P. 119; उयहस्मृग्दिवसश्चैव महापुण्यतमः स्मृतः । तिथित्रयस्य संस्पशात् $45815 \# ora: \# PARUE folio 81 a, verse 1431 q by yr . p. 214; अरुणोदय आद्या स्याद् द्वादशी सकलं दिनम् । अन्ते त्रयोदशी प्रातनिस्पृशा सा हरेः प्रिया । हे. on Fils p. 261 (quoting raad).
+[^171]: अर्काद्विनिःसृतः प्राचीं यद्यात्यहरहः शशी। भगैद्वार्दशभिस्तत् स्यात्तिथिश्वान्द्रमसं दिनम्। सूर्यसिद्धान्त q. by व. क्रि. कौ. p. 2. तिथितत्व p. 2; while कालमाधव (p. 100) quotes सिद्धान्तशिरोमणि as अर्का...शशी। तच्चान्द्रमानमंशैस्तु ज्ञेया द्वादशभिस्तिथिः। त्रिंशांशश्व तथा राशेर्भाग इत्यभिधीयते। आदित्याद्विप्रकृष्टस्तु भागद्वादशकं यदा। चन्द्रमाः स्यात्तदा राम तिथिरित्यभिधीयते॥ विष्णुधर्मोत्तर I. 72. 11-12 q. by कालमाधव  p. 101, तिथितत्त्व p. 2. पु.चि. p. 32.
 
-Tithi-vrddhi and tithi-kṣaya explained
+[^172]: वसिष्ठः। एकस्मिन्सावने त्वह्नि तिथीनां त्रितयं यदा। तदा दिनक्षयः प्रोक्तस्तत्र साहस्रिकं फलम्॥ ति.त. P. 119; त्र्यहस्पृग्दिवसश्चैव महापुण्यतमः स्मृतः । तिथित्रयस्य संस्पर्शात् त्र्यहस्पृक् स उदाहृतः॥ राजमार्तण्ड folio 81 a, verse 1431 q by शुद्धिकौ. p. 214; अरुणोदय आद्या स्याद् द्वादशी सकलं दिनम् । अन्ते त्रयोदशी प्रातस्रिस्पृशा सा हरेः प्रिया । हे. on काल p. 261 (quoting ब्रह्मवैवर्त).
 
-advance prosperity. 173 If a tithi begins immediately before sunrise or its beginning coincides with sunrise and ends after the following sunrise the name of the tithi (as pratipad, dvitīyā or so on as the case may be) is coupled with both divasas (civil days) involved, so that two tithis of the same denomination appear one after another. This is called vṛddhi of the particular tithi. If a tithi begins sometime after sunrise on one morning and ends before sunrise on the following day it cannot be coupled with any day and is therefore deleted or omitted in the pancānga (almanac) and there is lithi-kṣıya. As a tithi is normally shorter than the civil day kṣaya occurs more frequently than vṛddhi.
+[^173]: विवाहयात्राशुभपुष्टिकर्म सर्वे न कार्ये त्रिदिनस्पृशीह। शुद्धिदीपिका q. by शुद्धिकौ. p. 212.
 
-From the words of the Gobhilaghya quoted above it follows that long before the days of that work the several tithis were deemed to have certain deities as their lords (or presiding deities). Among the earliest extant enumerations about tithipatis (lords of tithis) is that in the Brhatsamhita of Varāha mihira (chap. 98. 1-2) which sets them 174 out as follows (the tithis and their lords being mentioned in order):-1st Brahmā, 2nd Brahmā, 3rd Hari, 4th Yama, 5th the moon, 6th Kārtikeya, 7th Indra, 8th Vasus, 9th Nāgas, 10th Dharma, 11th Śiva, 12th Savit;, 13th Madana, 14th Kali, 15th Viśvedevas and of Amāyāsyā the pitrs. He further says that one should do on those tithis the acts that are appropriate to the lords of those tithis. It appears that other writers differed somewhat from Varāhamihira, 8. g. the Ratnamālā sets 175 out the lords of tithis according to the Purāṇas as follows:-1st Agni, 2nd Brahma, 3rd Girijā, 4th Gaṇośa, 5th Nāga, 6th Viśākha (Skanda), 7th the Sun, 8th Śiva, 9th Durgā, 10th Yama, 11th Vispu, 12th Hari, 13th Madana, 14th Śiva, 15th the Moon. The Skandapurāṇa (I. 1. 33. 78-82)
+_Tithi-vṛddhi and tithi-kṣaya explained_
 
-173. PIĘTY great per a fire franystre i gigailuet q. by vigat. p. 212.
+ If a tithi begins immediately before sunrise or its beginning coincides with sunrise and ends after the following sunrise the name of the tithi (as pratipad, dvitīyā or so on as the case may be) is coupled with both divasas (civil days) involved, so that two tithis of the same denomination appear one after another. This is called vṛddhi of the particular tithi. If a tithi begins sometime after sunrise on one morning and ends before sunrise on the following day it cannot be coupled with any day and is therefore deleted or omitted in the pañcāṅga (almanac) and there is _tithi-kṣaya_. As a tithi is normally shorter than the civil day kṣaya occurs more frequently than _vṛddhi_.
 
-174. High TCEPTY PREVE T : 1 THCAURUS AT FEST च तिथिपतयः ॥ पितरोऽमावास्यायां संज्ञासदृशाश्च तैः क्रियाः कार्याः। बृहत्सं. 98. 1-2 ( 99. 1-2 in Kero's ed. ).
+From the words of the Gobhilagṛhya quoted above it follows that long before the days of that work the several tithis were deemed to have certain deities as their lords (or presiding deities). Among the earliest extant enumerations about _tithipatis_ (lords of tithis) is that in the Bṛhatsamhitā of Varāhamihira (chap. 98. 1-2) which sets them[^174] out as follows (the tithis and their lords being mentioned in order):-1st Brahmā, 2nd Brahmā, 3rd Hari, 4th Yama, 5th the moon, 6th Kārtikeya, 7th Indra, 8th Vasus, 9th Nāgas, 10th Dharma, 11th Śiva, 12th Savitṛ, 13th Madana, 14th Kali, 15th Viśvedevas and of Amāyāsyā the pitṛs. He further says that one should do on those tithis the acts that are appropriate to the lords of those tithis. It appears that other writers differed somewhat from Varāhamihira, e.g. the Ratnamālā sets[^175] out the lords of tithis according to the Purāṇas as follows:-1st Agni, 2nd Brahmā, 3rd Girijā, 4th Gaṇeśa, 5th Nāga, 6th Viśākha (Skanda), 7th the Sun, 8th Śiva, 9th Durgā, 10th Yama, 11th Viṣṇu, 12th Hari, 13th Madana, 14th Śiva, 15th the Moon.
 
-175. वह्निविरिश्चिगिरिजा गणेश: फणी विशाखो दिनकृन्महेशः। दुर्गान्तको विष्णहरि Ta gra nifi T eer: 11 TATUT II. q. by Fator . 30; R. (on ara) II, p. 235 quotes from facere I. 83. 22–24 '
 
-WTF4-11 विरोचनाः। शिव-दुर्गा-यमेन्द्राश्च विष्णु काम-शिवेन्दुकाः पितरश्चेत्यमी प्रोक्ता मुनिभित्तिथि देवताः।। हे. (on काल) p. 646 quotes from पितामह the lords of तिषिs somewhat differently as TE, fi, Tatt, Tot, ap. , wr, Tal. HITTI, , FR,
 
-AUTOT, TH&a,fra, un respectively of 1st to 15th, HATTE being fu
+[^174]: कमलजविधातृहरियमशशाङ्कषड्वक्त्रशक्रवसुभुजगाः। धर्मेशसवितृमन्मथकलयो विश्वे च तिथिपतयः ॥ पितरोऽमावास्यायां संज्ञासदृशाश्च तैः क्रियाः कार्याः। बृहत्सं. 98. 1-2 ( 99. 1-2 in Kern's ed. ).
 
-170
+[^175]:  वह्निर्विरिञ्चिर्गिरिजा  गणेश: फणी विशाखो दिनकृन्महेशः। दुर्गान्तको विष्णुहरिस्मराश्व शर्वः शशी चेति पुराणदृष्टाः॥ रत्नमाला II. q. by निर्णयामृत  p. 30; हे. (on व्रत) II, p. 235 quotes from विष्णुधर्मोत्तर I. 83. 22–24 'अग्नि-ब्रह्माम्बिकेभास्य-नाग-स्कन्द-विरोचनाः। शिव-दुर्गा-यमेन्द्राश्च विष्णु काम-शिवेन्दुकाः ॥ पितरश्चेत्यमी प्रोक्ता मुनिभिस्तिथिदेवताः।। हे. (on काल) p. 646 quotes from पितामह the lords of तिथिs somewhat differently as धनद, श्री, भवानी, गणेश, नाग, गुह, भास्कर, दुर्गा, मातरः, वासुकि, ऋषि, चक्रपाणि, कमदेव, शिव, धातृ respectively of 1st to 15th, अमावास्या being पित्र्य.
 
 
 
 
-
-$11
-
-f.
-
-states what tithis are specially dear to what gods such as 8th and 14th to Śiva, 4th to Ganesa, 9th to Capdikā. The Garuḍa (I. 137. 16-19 ) and Nārada-purāṇa (I. 56. 133–135) specify what deities are to be worshipped on the tithis from the first to
+The Skandapurāṇa (I. 1. 33. 78-82) states what tithis are specially dear to what gods such as 8th and 14th to Śiva, 4th to Ganesa, 9th to Capdikā. The Garuḍa (I. 137. 16-19 ) and Nārada-purāṇa (I. 56. 133–135) specify what deities are to be worshipped on the tithis from the first to
 
 15th.
 
