@@ -3,250 +3,286 @@ title = "Abbreviations"
 
 +++
 
-ABBREVIATIONS 
+ABBREVIATIONS
 
-(Most of the abbreviations on pp. 728-29 
+ABBREVIATIONS
 
-are not included in this list ) 
+( Most of the abbreviations on pp. 728-29
 
-A. G. = Ancient Geography of B. I.= Bibliotheca Indica series 
+are not included in this list )
 
-India 
+A. G. = Ancient Geography of B.I.= Bibliotheca Indica series
 
-Bom.=Indian Law Reports, Bom Aun. A. = Ain-1-Akbarı of Abul bay series 
+India
 
-Fazal 
+Bom.=Indian Law Reports, Bom Ain. A. = Ain-i-Akbari of Abul bay series
 
-Bom, L. R. - Bombay Law Re Ait. Br. = Aitareya Brāhmana 
+Fazal
 
-porter A. I. R = All India Reporter 
+Bom. L. R. - Bombay Law Re Ait. Br.=Aitareya Brahmana
 
-Bi. Up,= Brhadāranyakopanısad A K.D=Antyaharmadīpaka 
+porter A.I.R. All India Reporter
 
-B. R. W. W, =Buddhist Records All. = Indian Law Reports, Allalia. 
+Br. Up. = Brhadāraṇyakopanisad A.K. D. = Antyakarmadīpaka
 
-of the Western World by Beal bad series 
+B. R. W. W. Buddhist Records All. Indian Law Reports, Allaha
 
-Cal. = Indian Law Reports, Cal Anu.= Anuśāsanaparva 
+of the Western World by Beal bad series
 
-cutta series Ap =Āpastamba 
+Cal. = Indian Law Reports, Cal Anu. = Anusāsanaparva
 
-C. I I. = Corpus Inscriptionum Ap. Db.or Āp.Db.S.=Āpastamba 
+cutta series Ap. = Apastamba
 
-Indicarum dharma-sūtra 
+C. I. I. Corpus Inscriptionum Ap. Dh.or Ap. Dh.S. = Apastamba
 
-Cbān. Up.=Cbāndogyopanisad Ap. Gr.= Apastamba-graya-sūtra 
+Indicarum dharma-sutra
 
-C. L. J. Calcutta Law Journal Ap. M. P. = Apastamba-mantra 
+Chân. Up.=Chandogyopanisad Ap. Gr. = Apastamba-gļhya-sutra
 
-C.W.N. Calcutta Weekly Notes patha 
+C. L. J.-Calcutta Law Journal Ap. M. P. = Apastamba-mantra
 
-Dh. or Dh. S.-Dharma-sutra Ap Śr, or Ap. Śr. S or Āp.Ś.S.= 
+C.W.N.=Calcutta Weekly Notes patha Ap. Śr. or Ap. Śr. S. or Āp.S.S.=
 
-Apastāmba-srauta-sūtra 
+Dh. or Dh. S. Dharma-sūtra
 
-ed. = edited A. S. R. = Archaeological Survey 
+ed. = edited Apastamba-srauta-sutra A. S. R. = Archaeological Survey
 
-E I = Epigraphia Indica Reports 
+E.I.=Epigraphia Indica Reports
 
-Gaut. or Gaut, Dh. S.=Gautama Āśv.gr.or Āśv.gr S.-Asvalāyana- dharma-sūtia 
+Gaut. or Gaut. Dh. S. =Gautama. Ašv.gļ.or Aśv.gr. S.= Āśvalāyana
 
-grhyasūtra 
+dharma-sutra gļhyasutra
 
-Gobhila Gr.=Gobhila-grhya-sūtra Āśv. Sr.S. or Āśw.Sr.=Āśvalāyana 
+Gobhila Gr.=Gobhila-grhya-sutra Āśw. Śr.S. or āśv.Sr.= Āśvalāyana
 
-G.O.S.=Gaikwad Oriental series srauta-sūtra 
+G.O.S.=Gaikwad Oriental series srauta-sutra
 
-G. P. S, = Gautama-pitrmedha A V.= Atharvaveda 
+G. P. S. = Gautama-pitrmedha A. V.= Atharvaveda Baud. = Baudhāyana
 
-sūtra Baud. = Baudhāyana 
+Gr. R.=Gșhastharatnākara Baud. Dh. S. = Baudbāyana- H. of D. or H. of Dh.= History of
 
-Gr. R.=Grhastharatnākara Baud. Dh. S. = Baudbāyana 
+dharma-sútra
 
-H. of D or H. of Dh,=History of dharma sūtra 
+Dharmasastra Baud. Gr. = Baudhāyana-grhya. Hir. Gr. or Hir. gr=Hiranyakesi.
 
+sutra
 
+gļhya-sūtra Baud. P. S. = Baudhāyana-pits- Hir. P. S. = Hiranyakesi-pitr
 
-Dharmasastra Baud. Gr. = Baudhāyana-grhya. Hir. Gr, or Hir. gr=Hiranyakesi 
+medha-sutra
 
-sūtra 
+medha-sutra Baud. Sr. = Baudhāyana-srauta- I. A.= Indian Antiquary or Law
 
-grhya-sūtra Baud. P. S. = Baudhāyana-pitr. Hir. P S * Hiranyakesi-pitr 
+sutra
 
-medha-sutra 
+Reports, Indian Appeals (accordab Beng.L.R.= Bengal Law Reports ing to context) Bom. G. = Bombay Gazetteer I. L. R. = Indian Law Reports
 
-medba-sutra Baud. Śr = Baudhāyana-srauta- I A. Indian Antiquary or Law 
+Volumes
 
-sutra 
+series
 
-Reports, Indian Appeals (accord Beng.L.R. =Bengal Law Reports ing to context) Bom G = Bombay Gazetteer I L. R. = Indian Law Reports 
+sutra
 
-Voluines - 
+POONA
 
-series 
+FOUNDED
 
-"* 
+Bhandarkar Oriental Research Institute
 
-. 
+History of Dharmaśästra
 
+I. H. Q. = Indian Historical Quar. Pr. V. or Pr. Vi.=Prayascitta
 
+terly
 
-Pr. V. or Pr. V1.=Prāyaścitta 
+viveka J. A. S. B.= Journal of the Asiatic q=quoted
 
-viveka q quoted 
+Society of Bengal
 
-Q.BD = Queen's Bench Division Rg.=Rgveda Sama. Br.=Sāmavidbāna Brāb 
+2.B D. = Queen's Bench Division Jai. = Jaimini's Purvamimamsā.
 
-mapa 
+Rg. =Rgveda sutra
 
-I. H Q.=Indian Historical Quar. 
+Sāma. Br.=Sāmavidhāna Brāh Jaimini Gr. = Jaimini-grbya-sutra
 
-terly 1. A S. B.=Journal of the Asiatic 
+mana JBBRAS= Journal of the Bombay San. Br. Sankbävana Brāhmana
 
-Society of Bengal Jai = Jaimini's Pūrvamīmāmsā. 
+Branch of the Royal Asiatic San. gr=Sankhāyana-grbya-sutra Society
 
-sūtra Jarmını Gr.=Jaimini-grbya-sūtra JBBRAS= Journal of the Bombay 
+San.Śr. or Šān. Śr. S. = Sānkbāyana Jiv. = Jivananda Vidyasagara's
 
-Branch of the Royal Asiatic Society Jiy, = Jivananda Vidyasagara's 
+srauta-sútra edition J. O. R. = Journal of Oriental Re.
 
-edition 1. O. R.=Tournal of Oriental Re. 
+Šat. Br. = Satapatha Brāhmana search (Madras)
 
-search (Madras) J. R. A. S = Journal of the Royal 
+Sat. Sr. = Satyāsādhasrauta-sūtra J. R. A. S. Journal of the Royal S. B. E. = Sacred Books of the
 
-Asiatic Society of Great Britain Kat - Kātyāyana Kāt śr. or Kāt. Śr. S.=Katyā. 
+Asiatic Society of Great Britain East (ed. by Maxmuller) Kat.=Katyāyana
 
-yanasrautasūtra Kāthaka Gr=Kathaka-grhya-sutra Kātyāyana = Kātyāyana-smrtısāro- 
+S. K. = Suddhikaumudi Kat. Sr. or Kat. Śr. S. = Katyā- S. K. L. = Śräddhakalpalatā
 
-ddbāra (ed. by me) Kau's or Kausika = Kausikasūtra Kaus Up=Kausītakı Upanisad Khādıra Gr=Khādıra-grhya-sūtra m=mentioned Mārk = Mārkandeyapurāna Mit =Mitāksarā, commentary on 
+yanaśrautasūtra
 
-Yājñavalkya M.S.=Maitrāyani.samhita Nr=Nirukta Norn.=Nirnayasagara Press ed Pan=Pānini's Astādbyāyi Pār. gr=Pāraskara-grhya-sūtra Par M.-Parāśara-Mādhaviya Pr M.=Prāyaścıtta-mayūkoa Pr. Pr. or Pr Prakāśa=Prāya 
+Sm. C. or Smr. C.=Smrticandrikā Kathaka Gr=Kāthaka-gļhya-sutra Smr. M.=Smrtimuktāpbala Kätyāyana = Kätyāyana-smrtisāro- Śr. P. or Sr. Pr.= Śrāddhaprakasa
 
-scitta-prahāsa Pr. Prakarana = Prāyaścıtta-pra- 
+ddhāra (ed. by me)
 
-karana Pr S or Pr. sāra=Prāyaścıttasāra Pr T or Pr Tattva=Prāyaścıtta. 
+Śr. K. K.=Sraddhakriyakaumudi Kauś or Kausika = Kausikasutra
 
-tattva 
+S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khădira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
 
-Sān. Br. Saṅkbāyana Brāhmana śān. gr=Śānkbāyana-grbya-sūtra Śān Sr or Śān. Śr. S.=Sāokbāyana 
+Tai. Br. = Taittiriya Brahmana Mārk.=Märkandeyapurāna
 
-śrauta-sūtra Sat. Br =Satapatha Brahmana Sat Śr =Satyāsādhasrauta-sūtra S. B. E. = Sacred Books of the 
+Tai. S. = Taittiriya Samhita Mit. Mitāksarā, commentary on Tai. Up. - Taittiriya-upanisad
 
-East (ed. by Maxmuller) SK. = Suddhikaumudi 
+Yajñavalkya
 
-S. K L. = Śrāddbakalpalatā Sm. C. or Smr.C.=Smrticandrikā Smr M =Smrtımuktāphala Śr. P. or Śr Pr = Sraddhaprakāśa Śr. K. K.=Śrāddbakrıyakaumudi S. V = Sāmaveda Tai Ā. or Tai. Ar = Taittiriya 
+Tandya Br. = Tāndyamaha M.S.=Maitrāyani-samhita
 
-Tai Br = Taittırīya Brāhmana Tai. S. = Taittiriya Samhita Tar Up -Tarttırīya-upanısad Tāndya Br. - Tāndyamahā. 
+brāhmana Nir Nirukta
 
-brābmana Tir. C. - Tīrtbacintamani Tır. K = Tīrthakalpataru Tīrtbapr. or Tir Pr. Tirtha 
+Tir. C. == Tirthacintamani Nirn. = Nirnayasagara Press ed. Tir. K. Tirthakalpataru Pān=Pāṇini's Astādhyāyi
 
-prakasa Trı. S. = Tristhalīsetu TS = Tirthasāra Up. * Upadisad Vajk Smārta or Vaik Sm. S = 
+Tirthapr. or Tir. Pr. Tirtha Pār. gr=Päraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayükha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
 
-Varkbānasa-smārta-sutra Vaik Sror Vaik Sr. S = 
+scitta-prakasa
 
-Vaikhānasa-srauta-sūtra Vā, S. = Vājasaneya-samhita Vas = Vasistha-dliarma-sūtra 
+Vaik. Smärta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-smärta-sūtra.
 
-Abbreviations 
+karana
 
-vii 
+Vaik. Śr. or Vaik. Sr. Sa Pr. S or Pr. sāra = Prāyascittasāra Vaikhānaşa-srauta-sutra coisa Pr. T. or Pr. Tattva=Prāyascitta- Vaj. S. = Vājasaneya-samhita
 
-Viṣṇu Dh. or Viṣṇu Dh. S. - तीर्थकल्प.- कल्पतरु on तीर्थ (G.O.s.) 
+tattva
 
-Vysnudharmasutra 
+Vas. = Vasistha-dharma-sutra
 
-ती.प्र. or तीर्थप्र.-तीर्थप्रकाश Vy. M.=Vyavabāramayūkha ती. चि. or तीर्थचि. = तीर्थचिन्तामणि of Yāj. = Yājīavalkya-smrti 
+VUE
 
-वाचस्पति अ. क. दी.=अन्त्यकर्मदीपक 
+RUSTI
 
-तै आ.-तैत्तिरीयारण्यक अग्नि. or अग्निपु.अग्निपुराण 
+FOUNDED
 
-तै. उप.-तैत्तिरीयोपनिषद् अथव.अथर्ववेद 
+1917
 
-तै. वा.-तैत्तिरीयब्राह्मण अनु.-अनुशासनपर्व 
+Bhandarkar Oriental Research Institute
 
-तै. सं. तैत्तिरीयसंहिता अन्त्येष्टिप.अन्त्येष्टिपद्धति of नारायण त्रि. से. सा. स. = त्रिस्थलीसेतुसारसह of आ. ग. परि.-आपस्तम्बगृह्मपरिशिष्ट 
+Abbreviations
 
-भोजि आप.-आपस्तम्बधर्मसूत्र 
+vii
 
-त्रिस्थली-निस्थलीसेतु of नारायण आप. गृ=आपस्तम्वगृह्यसूत्र 
+Visnu Dh. or Visnu Dh. S. E तीर्थकल्प.- कल्पतरु on तीर्थ (G.O.S.)
 
-निर्णय.or नि. सि = निर्णयसिन्धु आप ध. or आप.ध. सू. -आपस्तम्वधर्मसूत्र पद्म. or पद्मपु. पद्मपुराण आप म. पा-आपस्तम्बमन्त्रपाठ 
+Visnudharmasutra
 
-परा. मा. पराशरमाधवीय आप. श्री. or आ.श्री.आपस्तम्बत्रौतसूत्र पा = पाणिनि's अष्टाध्यायी आश्व गृ. परि.आश्वलायनगृह्मपरिशिष्ट पार. गृ.-पारस्करगृह्यसूत्र आश्व. गृ or आश्व गृ सू = आश्वलायनगृह्यः पृथ्वी० or पृथ्वीच. or पृथ्वीचन्द्र.-पृथ्वी. 
+ती. प्र. or तीर्थप्र. = तीर्थप्रकाश Vy. M.=Vyavabāramayukha ती. चि. or तीर्थचि. = तीर्थचिन्तामणि of Yaj. = Yajnavalkya-smrti
 
-सूत्र 
+वाचस्पति अ. क. दी. = अन्त्यकर्मदीपक
 
-चन्द्रोदय आश्व.श्री. or आश्व श्री. सू. = आश्वलायन- प्राय. तत्त्वम्-प्रायश्चित्ततत्त्व 
+तै. आ.-तैत्तिरीयारण्यक अग्नि. or अग्निपु.=अग्निपुराण
 
-श्रौतसूत्र 
+तै. उप.म्तैत्तिरीयोपनिषद् अथर्व.- अथर्ववेद
 
-प्राय. प्रकरण or प्राय प्रक.प्रायश्चित्तप्रकरण ऋऋग्वेद 
+तै. ब्रा.-तैत्तिरीयब्राह्मण अनु. = अनुशासनपर्व
 
-प्रा प्रकाश प्रायश्चित्तप्रकाश ऐ आ. ऐतरेय-आरण्यक 
+तै. सं.- तैत्तिरीयसंहिता अन्त्येष्टिप. - अन्त्येष्टिपद्धति of नारायण त्रि. से. सा. स. = त्रिस्थलीसेतुसारसङ्ग्रह of आ. ग. परि. आपस्तम्बगृह्यपरिशिष्ट
 
-प्राय. वि or प्रा. वि. or प्राय. वि., प्राय ऐ.बा.=ऐतरेयब्राह्मण 
+भट्ठोजि आप.- आपस्तम्बधर्मसूत्र
 
-श्चित्तविक क. उप. or कठ. or कठोप.- कठोपनिषद् 
+त्रिस्थली = त्रिस्थलीसेतु of नारायणभट्ट आप. गृ-आपस्तम्बगृह्यसूत्र
 
-प्राय. म. प्रायश्चित्तमयूख कल्प० =कृत्यकल्पतरु or कल्पतरु of लक्ष्मीधर 
+निर्णय. or नि. सि. = निर्णयसिन्धु आप.ध. or आप. ध. सू. -आपस्तम्बधर्मसूत्र पद्म. or पद्मपु. = पद्मपुराण आप. म. पा.- आपस्तम्बमन्त्रपाठ
 
-भावर प्राय. सा. or प्राय. सार-प्रायश्चित्तसार कात्या. कात्यायनस्मृतिसारोद्धार 
+परा. मा. = पराशरमाधवीय आप. श्री. or आ. श्री. = आपस्तम्बश्रौतसूत्र पा.- पाणिनि'अष्टाध्यायी आश्व गृ. परि. आश्वलायनगृह्यपरिशिष्ट पार.गृ.: पारस्व आश्वगृ. or आश्व. ग. सू. - आश्वलायनगृह्य पृथ्वी or पृथ्वीच. or पृथ्वीचन्द्र.- पृथ्वी.
 
-बृह उ.-बृहदारण्यकोपनिषद् का. श्री. सू. or कात्या. श्री. or कात्या. श्री. सू ब.सं-बृहत्संहिता of वराहमिहिर __- कात्यायनश्रौतसूत्र 
+सूत्र
 
-बौ. =बौधायनगृह्यसूत्र कौ. ब्रा. उप. or कौषीतकि-त्राः उप. 
+चन्द्रोदय आश्व.श्री. or आश्व.श्री.सू. -आश्वलायन- प्राय. तत्त्व प्रायश्चित्ततत्त्व
 
-चौ. ध. सू. बौधायनधर्मसूत्र कौषीतकिब्राह्मणोपनिषद् 
+श्रौतसूत्र
 
-वौ.श्री.-चौधायनश्रौतसूत्र गङ्गाभक्ति. or गङ्गाभ.गडाभक्तितरङ्गिणी 
+प्राय. प्रकरण or प्राय. प्रक.-प्रायश्चित्तप्रकरण ऋ. = ऋग्वेद
 
-ब्रह्मपु.-ब्रह्मपुराण गङ्गावाक्या or गगावा. गगावाक्यावलि 
+प्रा. प्रकाश प्रायश्चित्तप्रकाश ऐ. आ. ऐतरेय आरण्यक
 
-भवि पु or भविष्यपु.= भविष्यपुराण गरुड or गरुडपु.- गरुडपुराण 
+प्राय. वि. or प्रा. वि. or प्राय. वि. - प्राय ऐ. ब्रा.-ऐतरेयब्राह्मण
 
-मत्स्य मत्स्यपुराण गृह र.-गृहस्थरत्नाकर 
+श्चित्तविवेक क. उप. or कठ. or कठोप. = कठोपनिषद् प्राय. म. =प्रायश्चित्तमयूख कल्प-कृत्यकल्पतरु or कल्पतरु of लक्ष्मीधर प्राय. सा. or प्राय. सार - प्रायश्चित्तसार कात्या. कात्यायनस्मृतिसारोद्धार
 
-मद. पा.-मदनपारिजात गौ. or गौ. ध. सू-गौतमधर्मसूत्र 
+बृह. उ.बृहदारण्यकोपनिषद् का. श्री. सू. or कात्या. श्री. or कात्या. श्री. सू. ७.संम् बृहत्संहिता of वराहमिहिर
 
-मनुस्मनुस्मृति गौ. पि.सू.- गौतमपितृमेधसूत्र 
+म कात्यायनश्रौतसूत्र
 
-महार्णव-महार्णवकर्मविपाक (ms.) चतुर्विशति. or चतुर्विश. or चतु सं.- चतु- मानवगृ=मानवगृह्यसूत्र 
+बौ. गृ=बौधायनगृह्यसूत्र को. बा. उप. or कौषीतकि-ब्रा. उप. बौ. ध. स.- बौधायनधर्मसूत्र
 
-विशतिमतसंग्रह 
+कौषीतकिब्राह्मणोपनिषद्
 
-मिता. मिताक्षरा चतुर्वर्ग.-चतुर्वर्गेचिन्तामणि of हेमाद्रि मेधा.-मेधातिथि, commentator of मनु छा. उप. or छां. उप. or छान्दोग्योप. - मै. सं-मैत्रायणीसंहिता 
+बौ.श्री.= बौधायनश्रौतसूत्र गङ्गाभक्ति. or गङ्गाभ. - गङ्गाभक्तितरङ्गिणी
 
-छान्दोग्योपनिषद् 
+ब्रह्मपु.= ब्रह्मपुराण गङ्गावाक्या. or गङ्गावा.- गङ्गावाक्यावलि
 
-या. or याज्ञ.-याज्ञवल्क्यस्मृति ताण्ड्य. - ताण्ड्यमहाब्राह्मण 
+भवि. पु. or भविष्यपु.- भविष्यपुराण गरुड or गरुडपु.= गरुडपुराण
 
-राजत.राजतरङ्गिणी of कल्हण 
+मत्स्य. सत्स्यपुराण गृह. र. गृहस्थरत्नाकर
 
-viii 
+मद. पा.-मदनपारिजात गौ. or गौ. ध. सू. गौतमधर्मसूत्र
 
-History of Dharmaśāstra वाज सं. वाजसनेयसंहिता 
+मनु - मनुस्मृति गौ. पि. सू. गौतमपितृमेधसूत्र
 
-शान्ति गान्तिपर्व वायु or वायुपु.-वायुपुराण 
+महार्णव=महार्णवकर्मविपाक (ms.) चतुर्विशति. or चतुर्विश. or चतु. सं. चतु- मानवगृ.-मानवगृह्यसूत्र
 
-शु कौ. or शुद्धिको.-शुद्धिकौमुदी विष्णुपु-विष्णुपुराण 
+विशतिमतसंग्रह
 
-शुद्धिकल्प.कल्पतरु on शुद्धि वि र.-विवादरत्नाकर 
+मिता. मिताक्षरा चतुर्वर्ग.- चतुर्वर्गचिन्तामणि of हेमाद्रि मेधा. मेधातिथि, commentatosnof मनु छा. उप. or छां. उप. or छान्दोग्योप. - मै. सं- मैत्रायणीसंहिता
 
-शुद्धिन or शु प्र.-शुद्धिप्रकाश विष्णु or विष्णुध.सू -विष्णुवमसूत्र श्रा. क ल -श्राद्धकल्पलता 
+छान्दोग्योपनिषद्
 
-वृद्धया.-वृद्धयाज्ञवल्क्य 
+या. or याज्ञ. याज्ञवल्क्यस्मृति : ताण्ड्य. - ताण्ड्यमहाब्राह्मण
 
-श्रा. कि कौ =श्राद्धक्रियाकौमुदी वे. सू =वेदान्तसूत्र 
+राजत. राजतरङ्गिणी of कल्हण ,
 
-श्राद्धप्र. or श्रा. 
+POONA
 
-प्रश्रादप्रकाश व्यव नि व्यवहारनिर्णय 
+FOUNDED 1917
 
-सत्या श्री.-सल्यापाढश्रौतसूत्र व्य म.व्यवहारमयूख 
+जनावशीलम
 
-साम वा सामविधानब्राह्मण गत वा or शतपथ or गतपथना.गतपथ- स्कन्द or स्कन्दपु स्कन्दपुराण 
+Bhandarkar Oriental Research Institute
 
-ब्राह्मण 
+viii
 
-स्मृतिच =स्मृतिचन्द्रिका गातातपातातपस्मृति 
+History of Dharmaśāstra
 
-स्मृतिमु or स्मृ मु.-स्मृतिमुक्ताफल गाड्वायनवा or गा वा =शाड्डायनत्राह्मण श्रा. वि =श्राद्धविवेक of रूधर गां. श्री. or गां श्री. सु.गाडायनश्रौतसूत्र हिर गृ. or हिरण्य गृ.-हिरण्यकेगिगृह्यसूत्र 
+वाज. सं.=वाजसनेयसंहिता
+
+शान्ति.-शान्तिपर्व वायु. or वायुपु.-वायुपुराण
+
+शु. को.or शुद्धिकौ. शुद्धिकौमुदी विष्णुपु. = विष्णुपुराण
+
+शुद्धिकल्प.- कल्पतरु on शुद्धि वि. र. - विवादरत्नाकर
+
+शुद्धिप्र. or शु.प्र.-शुद्धिप्रकाश विष्णु. or विष्णुध. सू.-विष्णुधर्मसूत्र श्रा.क. ल. श्राद्धकल्पलता वृद्धया.-वृद्धयाज्ञवल्क्य
+
+श्रा. क्रि. कौ.- श्राद्धक्रियाकौमुदी वे. सू.- वेदान्तसूत्र
+
+श्राद्धप्र. or श्रा.प्र.-श्राद्धप्रकाश व्यन. नि.- व्यवहारनिर्णय
+
+सत्या. श्री.=सत्याषाढश्रौतसूत्र व्य.म.व्यवह
+
+साम. ब्रा.- सामविधानब्राह्मण शत. ब्रा. or शतपथ or शतपथब्रा.- शतपथ- स्कन्द.or स्कन्दपु. स्कन्दपुराण
+
+ब्राह्मण
+
+स्मृतिच.-स्मृतिचन्द्रिका शातातप-शातातपस्मृति
+
+स्मृतिमु. or स्मृ.मु.स्मृतिमुक्ताफल शाङ्कायनबा. or शा. ब्रा.- शाङ्गायनब्राह्मण श्रा. वि. श्राद्धविवेक of रुद्रधर शां. श्री. or शां. श्री. सू. शाडायनश्रौतसूत्र हिर. गृ. or हिरण्य. गृ= हिरण्यकेशिगृह्यसूत्र
+
+INS
+
+POONA
+
+FOUNDED 1917
+
+॥जस्विना
+
+Bhandarkar Oriental Research Institute
