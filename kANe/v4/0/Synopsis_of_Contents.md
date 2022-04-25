@@ -3,110 +3,162 @@ title = "Synopsis of Contents"
 
 +++
 
-BRIEF SYNOPSIS 
+BRIEF SYNOPSIS
 
-OF THE CONTENTS OF VOLUME IV 
+OF THE CONTENTS OF VOLUME IV
 
-PAGES 
+BRIEF SYNOPSIS
 
-Section 1 :-Pātaka. Prāyaścıtta, Karmavipāka 
+OF THE CONTENTS OF VOLUME IV
 
-Chapter I Sin in Rgveda, conception of rta, enumera 
+PAGES
 
-tion and classification of sins, grave sins and lesser lapses, doctrine of karna 
+Section 1 :-Pātaka. Prāyascitta, Karmavipäka
 
-... 
+Chapter I Sin in Rgveda, conception of rta, enumera
 
-1-40 
+tion and classification of sins, grave sins and lesser lapses, doctrine of karına
 
-Chapter II Means of reducing the consequences of 
+...
 
-sins, viz, confession, repentance, pranayama, tapas, homa, japa (muttering sacred texts), gifts, fasting, pilgrimages. 
+1-40
 
-... 41-56 Chapter III Prāyaścıtta (expiation), derivation of the 
+Chapter II Means of reducing the consequences of
 
-word, origin and meaning; expiations and secular pupishments; circumstances to be considered in prescribing expiations; parisad ( assembly of learned men ) and its duties. 
+sins, viz. confession, repentance, prāņāyāma, tapas, homa, japa (muttering sacred texts ), gifts, fasting, pilgrimages.
 
-... 57—86 Chapter IV Expiations for grave sips such as brāb 
+41-56 Chapter III Prayascitta (expiation), derivation of the
 
-mana murder and for lesser sins, procedure followed; topsure ; substitutes for expiations 
+word, origin and meaning: expiations and secular punishments; circumstances to be considered in prescribing expiations; parişad ( assembly of learned men ) and its duties.
 
-... 87–129 Chapter V Names and descriptions of all individual 
+... 57—86
 
-expiations. 
+Chapter IV Expiations for grave sips such as brāh mana murder and for lesser sins; procedure followed;
 
-... 130-152 
+tonsure : substitutes for expiations
 
-Chapter VI Consequences of not undergoing expia 
+87-129
 
-tions, historical account of the ideas of Heaven, Hells and torments; doctrine of karnavipāka. .. 153–178 
+Chapter V Names and descriptions of all individual
 
-Section II:-Antyesti (rites after death ), āśauca (im 
+expiations.
 
-purity on birth and death), Suddhi (purification). Chapter VII Eschatology; Rgveda X. 14–18 trans 
+... 130-152
 
-lated ; rites on death of ābitāgni in Śat. Br. and srauta and grhya ṣūtras , cremation ; burial; offering 
+Chapter VI Consequences of not undergoing expia
 
-Σιν 
+tions; historical account of the ideas of Heaven, Hells and torments; doctrine of karmavipāka. ... 153-178
 
-History of Dhiar maśāstra 
+Section II:-Antyesti (rites after death ), āśauca (im
 
-PAGES of water to deceased, collecting charred bones and casting them into sacred waters, śānti rites: graves; persons competent to perform rites after death. ... 179–266 
+purity on birth and death), Suddhi (purification). Chapter VII Eschatology; Rgveda X. 14-18 trans
 
-Chapter VIII Suddhi includes purification after 
+lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya şütras ; cremation ; burial; offering
 
-asauca (impurity on birth and death ), purification of the body, of substances (pots, wells, food), of images and temples ; derivation of the word āśauca, its meaning and two varieties (on birth and on death); circumstances on which periods of āśauca de pended : exception to rules about observance of āsauca; Nārāyanabalı for those who commit suicide;' emphasis on mental purity. 
+POONA
 
-... 267–333 Section III.-Śrāddha 
+FOUNDED
 
-Chapter IX Derivation and definition of śrāddba', 
+1917
 
-srāddha and the doctrines of karma and punar janma, pitrs; panegyrics of srāddba ; only three rites for the departed in ancient times viz. pindapıtr yajña, mahāpitryajña and astakās, the adhkārin (person entitled to perform ) for Srāddha, meaning of the word 'putra', proper times and places for śrāddha , classification of srāddbas, qualifications of brāhmanas to be invited , persons unfit to be invited, food recommended and condemned in srāddba, pinda pitryajña as described in Taittiriya Sambita and Brāhmana, pārvanaśrāddha as described in Āśva lāyanagrhya, in Yājñavalkya, and in Padmapurāna ; Viśve-devas, agriau-karana; number of ābutis, number of ancestors to whom pindas are offered (3, 6, 9 or 12), description of modern pārvanaśrāddba; meaning of sapında, āmasraddha. 
+Nara
 
-.. 334-515 Chapter X Ekoddista and other śrāddhas, hema 
+Bhandarkar Oriental Research Institute
 
-srāddha, procedure of sapındīkarana or sapindana, occasions for and description of abhyudayikasrāddha , pratısāmvatsarıka śrāddha and mabālayaśrāddha ,Brief Synopsis 
+xiv
 
-XY 
+History of Dharmaśāstra
 
-PAGES mātāmahaśrāddha; letting loose of a bull; gift of COW 
+PAGES of water to deceased; collecting charred bones and casting them into sacred waters; śānti rites: graves; persons competent to perform rites after death. ... 179-266
 
-... 516-551 
+Chapter VIII Suddhi includes purification after
 
-Section IV:-Tirthayātrā ( pilgrimages to holy places) 
+āsauca (impurity on birth and death), purification of the body, of substances (pots, wells, food ), of images and temples ; derivation of the word āsauca,
 
-Chapter XI Holy places (mountains, rivers, forests ) 
+motos its meaning and two varieties (on birth and on death); circumstances on which periods of asauca de moi pended : exception to rules about observance of āśauca ; Nārāyanabali for those who commit suicide ; emphasis on mental purity.
 
-play important part in the culture and unity of India; meaning of tīrtha in Rgveda and later texts ; grounds on which places become tīrthas ; number of tirthas very large; four classes of tīrthas, viz. daiva, āsura, ārsa and mānusa,' who should go on a pilgrimage, rites on starting ; tonsure and fast.... 552-584 
+... 267-333
 
-Chapter XII Gadges eulogised in Rgveda, Mabā 
+neqst goings, siv Section III:-Sraddha
 
-bhārata and purānas; Tristhali 1. e. Prayāga, Kāsi and Gaya, eulogy of Prayāga , tonsure at Prayāga; suicide at Prayaga; sub-tīrthas of Prayāga such as Aksayavata. 
+Chapter IX Derivation and definition of 'srāddha';
 
-.. 585-617 Chapter XIII Kaśī; ancient history and eulogy of 
+srāddha and the doctrines of karma and punar janma; pitrs; panegyrics of śrāddha; only three rites for the departed in ancient times viz. pindapitr. yajña, mahāpitryajña and astakās; the adhikärin (person entitled to perform ) for sraddha ; meaning of the word 'putra'; proper times and places for śräddha ; classification of śrāddhas ; qualifications of brahmanas to be invited ; persons unfit to be invited; food recommended and condemned in srāddha; pinda pitryajña as described in Taittirīya Sambita and Brāhmana ; pārvanaśrāddha as described in Āśva lāyanagļhya, in Yājñavalkya, and in Padmapurāna; Viśve-devas; agnau-karana; number of āhutis ; number of ancestors to whom pindas are offered (3, 6, 9 or 12); description of modern pārvanaśrāddha; meaning of sapinda; āmasrāddha.
 
-Kaśī ; Banaras known under five different names ; derivation of the words Kaśī and Vārānasi ; Viśveśvara and Manikamıkā ; five essential tirthas at Banaras; Pancakrośī pilgrimage; sub-tīrtbas, such as Jūānavāpi . numerous lingas at Banaras ... 618-642 
+334-515
 
-Chapter XIV Gayā; Gayāmāhātmya in Vāyupurāna 
+ASTITE
 
-(chapt. 105–112); views about its date; Viṣṇupada and Gayasıras in Nirukta; brief summary of Gayāmāhātmya; most important spots in Gayā are the Pbalgu rivar, Viskupada and Aksayavata; the five tirthas of Gayā; offering of srāddha and pindas at Gaya; the seven holy cities, twelve Jyotir-ligas, and four Dhāmas 
+POONA
 
-... 643-679 
+Chapter X Ekoddista and other sraddhas; hema
 
-Chapter XV Kuruksetra and some other famous 
+srāddha; procedure of sapindikarana or sapindana; occasions for and description of ābhyudayikaśrāddha ; pratisāmvatsarika srāddha and mahālayasrāddha ;
 
-tirthas. History of Kuruksetra and its ober games viz, northern Vedi of Prajāpati and Samanta pancaka; tīrtlas of Kuruksetra such as Sarasvatī, 
+FOUNDED
 
-xvi 
+1917
 
+नजस्विनाव
 
+Bhandarkar Oriental Research Institute
 
-PAGES Prthūdaka, seven forests; Matburā, its history, twelve forests, Vrodāvana, Govardhana, Gokula or Vraja, Purusottama tīrtha or Jagannātha ; peculiar features of Jagannātha, viz. car festival, army of at. tendants, five important tīrthas, obscene sculptures on walls of Jagannātha temple. Narmadā, eulogy of and sub-tīrthas on Narmadā, Godāvarī and 100 tirthas thereon described in Brahmapurāna such as Tryambaka, Janastbāna, Nāsık, Govardhana, Pañ. cavatī, Kāñci, Pandharpur, its chief temple of Vithobā , large staff of priests, temple of devotee Pundaliha, Vārkarīs 
+Brief Synopsis
 
-.680-722 
+хү
 
-Chapter XVI Comprehensive list of tīrthas and con 
+Pages mātāmahasraddha; letting loose of a bull; gift of cow
 
-cluding remarhs on tīrthas 
+.. 516-551
 
-... 723-827 
+Section IV :-Tirthayātrā (pilgrimages to holy places )
+
+Chapter XI Holy places (mountains, rivers, forests )
+
+play important part in the culture and unity of India; meaning of tirtha in Rgveda and later texts; grounds on which places become tirthas ; number of tirthas very large ; four classes of tirthas, viz. daiva, asura, ārsa and mānusa ; who should go on a pilgrimage; rites on starting ; tonsure and fast.... 552-584
+
+Chapter XII Ganges eulogised in Rgveda, Maha
+
+bhārata and purānas; Tristhali i. e. Prayāga, Kasi and Gayā; eulogy of Prayaga; tonsure at Prayāga ; suicide at Prayāga; sub-tirthas of Prayāga such as Aksayavata.
+
+... 585-617
+
+Chapter XIII Kasi; ancient history and eulogy of
+
+Kası; Banaras known under five different names; derivation of the words Kasi and Vārānasi ; Visvešvara and Manikarnikā; five essential tirthas at Banaras ; Pañcakrosi pilgrimage; sub-tīrthas, such as Jñanavāpi : numerous lingas at Banaras ... 618-642
+
+Chapter XIV Gayā; Gayāmāhātmya in Väyupuräna
+
+(chapt. 105-112); views about its date; Visnupada and Gayasiras in Nirukta; brief summary of Gayāmāhātmya; most important spots in Gayā are the Phalgu river, Visnupada and Aksayavata; the five tirthas of Gayā; offering of śrāddha and pindas at Gayā; the seven holy cities, twelve Jyotir-lingas, and four Dhāmas
+
+... 643-679 Chapter XV Kuruksetra and some other famous
+
+tirtbas. History of Kuruksetra and its other names viz, northern Vedi of Prajāpati and Samanta. pañcaka; tīrthas of Kuruksetra such as Sarasvati,
+
+TITU
+
+POONA
+
+FOUNDED
+
+1917
+
+Bhandarkar Oriental Research Institute
+
+xvi
+
+History of Dharmaśāstra
+
+PAGES
+
+Pșthudaka, seven forests; Mathurā, its history, twelve forests, Vịndāvana, Govardhana, Gokula or Vraja; Purusottama tīrtha or Jagannātha; peculiar features of Jagannatha, viz. car festival, army of at. tendants; five important tirthas; obscene sculptures on walls of Jagannātha temple. Narmadā, eulogy of and sub-tirthas on Narmadā; Godāvari and 100 tirthas thereon described in Brahmapurāna such as Tryambaka, Janasthāna, Nāsik, Govardhana, Pañ cavați, Kāñci, Pandharpur, its chief temple of Vithobā; large staff of priests; temple of devotee Fundalika, Vārkarīs.
+
+680-722
+
+Chapter XVI Comprehensive list of tirthas and con
+
+cluding remarks on tirthas
+
+.. 723-827
+
+SITUT

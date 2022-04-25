@@ -365,313 +365,419 @@ Many rules were prescribed as regards the carrying of the dead body. It has been
 
 [^501]: विहितं तु सपिण्डाना प्रेतनिर्हरणादिकम् । तेषां करोति यः कश्चित्तस्याधिक्यं न विद्यते ॥ देवल q. by परा मा I 2 g, 277, विहितं हि सपिण्ड्स्य प्रेतनिर्हरणादिकम् । दोषः स्यादसपिण्ड्स्य तत्रानाथाक्रियां विना ॥ हारीत q by अपरार्क p. 871.
 
-502. अयं व्यवस्था। यः स्नेहादिना शवनिर्हरणं कृत्वा तदीयमन्ननाति तदृहे च पसति वरय दशाहेनैव शुद्धि। यस्तु केवलं तदेहे वसति न पुनस्तदननशाति तस्य विरात्र । यः पुननिर्हरणना करोति न तदृहे वसति न च वदन्ननादि वस्पताह इति । एतत्तजादीय विषयन्। विजानापविषये पुनर्यजातीय प्रेतं निहति तजातिमयुक्तनानौचं कार्यम् । यथाह गौतन. (१४.२३) ... विमस्य शूदनिहरणे भासमानौचं शूद्रस्य तु विनिहरणे दाराब PETR Fireari aract: I FIAT. OR TT. III 14.
+502. अत्रेयं व्यवस्था। यः स्नेहादिना शवनिर्हरणं कृत्वा तदीयमन्नमश्नाति तद्गृहे च वसति तस्य दशाहेनैव शुद्धिः । यस्तु केवलं तद्हे वसति न पुनस्तदन्नमश्नाति तस्य निराचम् । यः पुनर्निर्हरणमात्रं करोति न तद्गृहे वसति न च तदन्नमश्नाति तस्यैकाह इति । एतत्सजातीय विषयम्। विजातीयविषये पुनर्यजातीयं प्रेतं निर्हरति तजातिप्रयुक्तमाशौचं कार्यम् । अथाह गोतमः (१४.२९) ... विप्रस्य शूदनिहरणे मासमाशौचं शूद्रस्य तु विप्रनिर्हरणे दशरात्र hili Taat 11 F ACTO: Aaron T. III. 14.
 
-the dea The Kūrmapunmada’s body the for a mo
+सारव नाव
+
+Bhandarkar Oriental Research Institute
 
 216
 
+History of Dharmaśāstra
 
+[Vol. the same caste as the dead person. But if a brāhmana carries a śūdra's corpse, the brāhmaṇa is impure for a month, but if a sūdra carries a brāhmaṇa's body the sūdra is impure for ten days.' The Kūrmapurāna prescribes that if a brāhmana carries the dead body of a brāhmana for a fee or from other interested motive he becomes impure for ten days, a ksatriya, vaisya and Śūdra doing the same becomes impure for 12, 15 or 30 days and the Vişnupurāņa says that the person carrying a dead body for a fee has to become impure for the period of impurity prescribed for a man of that caste. It may be stated that these rules about impurity on the ground of carrying or following the carrying of a dead body of another caste are no longer enforced and it is extremely doubtful whether they were ever strictly enforced or followed. Harita 503 prescribes that a dead body should not be carried through the midst of a village if while going to the cemetery a village comes in the way, but it should be carried away from it. Manu, 5.92 and Viddha-Hārīta IX. 100-101 prescribed that the dead body of a śūdra, vaisya, ksatriya and a brāhmana was to be taken out respectively by the southern, western, northern and eastern gates of the town or village. It was provided by Yama and the Garudapurāna II. 4.56-57 504 that the fuel for the funeral pyre should not be carried (for higher varnas ) to the cemetery by a sūdra and if a śūdra did go the deceased would always remain in the state of preta. The Hāralatā (p. 121) says that if firewood is carried by śūdras still the pyre should be made by brāhmaṇas only (for a brāhmana's body). The smrtis and purāṇas provide that the corpse 505 should be first bathed with water and then cremated, that the corpse should never be burned naked, but that it should be covered with cloth. decked with flowers and have fragrant unguents (sandalwood 
 
-[Vol
+503. TT eratsra a tra ta de una far on T. III. H. 2. . p. 395, Erwat p. 119 which explains 'Ferat THA:
 
+F ET CAT T race: 1%.
 
-503. UT Etaista
+504. यस्यानयति शूदोन तृणं काष्ठं हवींषि च। प्रेतत्वं च सदा तस्य स चाधर्मेण resca TA. q. by Har. on T. III. 2, strek p. 871, eresat p. 120 (reads मन्यते ह्येष धर्मोस्ति) which last takes स...लिप्यते as referring to the brāhmana who is cremated ; तृणकाष्ठतिलाज्यादि स्वयं निन्युः सुतादयः॥ शूदानीतैः कृतं कर्म सर्व भवति hogy is.
 
-a rte di crearhat on T. III. Hą. 2, 97 p. 395, ETCAT P. 119 which explains FETTE H ANTA. TYTEI TOHTET 7
+505. Farrahiş yaraf ginap... arte: garca: Il BATÀSantarih TTT:ATTI VICTEETHAUTETT I SEG III_23-2519. by in अपरार्क p. 8733; प्रचंताः। स्नानं प्रेतस्य पुत्राद्यैर्वस्त्रायैः पूजनं ततः। नग्नदेहं दहेजैव किमान देयं परित्यजेत् ॥ किंचिद्वस्त्रं यल्लोके देयत्वेन प्रसिद्धं तत्परित्यजेत् तत्स्थेभ्यश्चण्डालादिभ्यः ।। 37931 p. 871; AT on T. III, 2 also quotes waar
 
-504. यस्यानयति शुद्धोलि नणं का हवीपि च । प्रेतन च सदा तस्य स चार्मिण Portal T 9. by Fat. OD 7 III, 2, 31965 871, ETTEI p. 120 (reads
+Bhandarkar Oriental Research Institute
 
-04 STAFA) wbich last takes forca as refernng to the brābmana who is cremated, anBaTYTE FU ATY. HATET 112gria. Y tu pa &
-
-Partie 1939.
-
-505 चन्दनोक्षितसर्गझं ममनोभिर्विभूषितम् ।. .निदरेयु सुतादय. ॥ आमपात्रेऽग्नमादाय Haar Hi ETSAFETTgca Tirrituta III 23-25 9 by अपरार्क p 673, प्रचंता। स्नान प्रेतस्य पुन्नाद्यनाधे पुजन तत । नग्नदेई दऐनय किचि. देयं परित्यजेत्। किंचिदत्रं यल्लोके देयत्वेन प्रसिद्धं तत्परित्यजेत् तस्येपचण्टालादिया। अपरा p 871, मिता. on या III.2 also quotes प्रचेतय.
-
-217
-
-IV]
+TV]
 
 Rites of cremation
 
+217
 
-The Brahmapurāpa (q. by Suddhiprakaśa p. 159) states that when carrying a dead body to the cemetery, a great deal of noise should be created by means of the four kinds of instru. ments. 506
+paste &c.), that fire should be carried in front of the corpse and one man should carry cooked food in an unbaked earthen vessel and another should deposit part of the food on the way and one should give clothes and the like to cāņdālas and the like (that stay near the cemetery).
 
-There were differing rules laid down about rapana (shaving) for the performer as an auxiliary (anga) of the rite of cremation, after the cremation and bath thereafter. A smrti text provides 507
+The Brahmapurana (q. by Suddhiprakāśa p. 159) states that when carrying a dead body to the cemetery, a great deal of noise should be created by means of the four kinds of instru ments, 506
 
-shaving of the head and moustaches is declared in seven cases, viz. on the Ganges, at the Bhāskaraksetra, on the death of the mother or father or guru, on consecrating the frauta fires and in a Soma sacrifice'. The A KD (p. 19) prescribes that the son or other performer of the rites of cremation should first perform vapana and thep bathe, then carry the dead body to a sacred spot, bathe it there, or if such a spot is not at hand should invoke the presence of the Ganges, Gayā and other tirthas in the water to be used for washing the dead body, then anoint it with ghee or sesame oil, again bathe it and put on it a fresh garment, should deck it with yarnopavīta, gopicandana, garland of basil leaves and then should apply to the wbole body fragrant subst. ances like sandalwood paste, camphor, saffron, musk &c. But if the cremation took place at night, there was to be no vapana at night, but on the next day.508 Other smrtis allowed vapana on the 2nd, 3rd, 5th or 7th or any following day up to the offering of śrāddha on the 11th day.509 Áp Dh, S. I. 3. 10. 6
+There were differing rules laid down about vapana (shaving) for the performer as an auxiliary (anga) of the rite of cremation, after the cremation and bath thereafter. A smrti text provideg 507 'shaving of the head and moustaches is declared in seven cases. viz, on the Ganges, at the Bhāskarakşetra, on the death of the mother or father or guru, on consecrating the srauta fires and in a Soma sacrifice'. The A. K, D. (p. 19) prescribes that the son or other performer of the rites of cremation should first perform vapana and then bathe, then carry the dead body to a sacred spot, bathe it there, or if such a spot is not at hand should invoke the presence of the Ganges, Gayā and other tirthas in the water to be used for washing the dead body, then anoint it with ghee or sesame oil, again bathe it and put on it a fresh garment. should deck it with ya'nopavīta, gopicandana, garland of basil leaves and then should apply to the wbole body fragrant subst ances like sandalwood paste, camphor, saffron, musk &c. But if the cremation took place at night, there was to be no vapana at night, but on the next day.508 Other smrtis allowed vapana on the 2nd, 3rd, 5th or 7th or any following day up to the offering of śrāddha on the 11th day.509 Ap. Dh. S. I. 3. 10.6
 
-506. The four kinds of वाद्य were enumerated by भरत as 'ततं चैवावनद्धंच धनं सपिरमेव च and the अमरकोश illustrates them as follows: 'ततं वीणादिकं वाच मानद्धं मुरजादिकम् । वंशादिकं तु सुपिरं कांस्यतालादिक धनम् ॥.'
+506. The four kinds of वाद्य were enumerated by भरत 'तसं चैवावनसंच धनं सुषिरमेव च and the अमरकोश illustrates them as follows : 'ततं वीणादिकं वाध मानद्धं मुरजादिकम् । शादिकं तु सुषिरं कांस्यतालादिकं धनम् ॥
 
-507, गङ्गाया भास्करक्षेत्रे मातापिनोरोम॒तौ । आधानकाले सोमे च धपनं साह W ilq by ACT. On y III 17, TT. T I 2. p. 296, SHORT P, 1611 474 HP 493 (from Frauen) 910 is 1957
+-507. गङ्गायां भास्करक्षेत्रे मातापित्रोठेरोम॒तौ। आधानकाले सोमेच वपन सप्तसु FUTET I q. by FANT on T. III. 17, 9T. #T. I. 2. p. 296, STA p. 161
 
-508. रात्रौ दग्ध्वा तु पिण्डान्तं कृत्वा वपनवर्जितम् । वपनं नेप्यते रात्रौ श्वस्तनी TA147 11 FREE 9 in The P 161
+14. p. 493 (from Fran ). H e is a .
 
-509 अलुप्लकेशो या पूर्व सोऽत्र केगान प्रवापयेत् । द्वितीयेऽह्नि तृतीयेऽनि पञ्चमे सप्तमऽपि AT! haṚga ataTË RETI STYT45 by. 457 AT 1, 2, p 2. mars पनि कार्यम् । तदाह देवल ।दशमेऽहनि संभाते स्नानं ग्रामा पहिर्भवेत् । तत्र त्याज्यानि चासांति केशश्मनखानि च।; this verse isq. by the मिता on या III. 17; the मद पा. p 416 after quoung देवल and other authors remarks 'मधमादिदिनेषु कृतक्षीर स्थापि शुद्ध दशमदिनेपि वपनं कर्तप्यम् ।..
+508. t quar a fovere a aquarrae i aparat pentsaturat a II FE q. in greu. p. 161.
 
-8. D. 28
+_509. अलुप्तकेशो यः पूर्व सोऽत्र केशान् प्रवापयेत् । द्वितीयेऽह्नि तृतीयेऽह्नि पञ्चमे सप्तमऽपि eri
+
+taa ara cu Tatarya g. by, TTT AT. I. 2, p. 2; a atas हान कार्यम् । तदाह देवलः । दशमेऽहनि संमाने स्नानं ग्रामात् बहिर्भवेत् । तत्र त्याज्यानि वासाशि
+
+**HYENA 71; this verse is q. by the fat on a. III. 17; the par. p. 416 after quoting eas and other authors remarks qerarraray ANTE
+
+A TEVÄ astara arrumenti
+
+M, D. 28
+
+POONA
+
+Bhandarkar Oriental
+
+Research Institute
 
 218
 
+History of Dharmaśāstra
 
+[Vob
 
-[Vol.
+provides 510 vapana for all sapiņdas that are younger than the deceased. The Madanapārijāta holds that the performer of crema tion rites had to undergo vapana on the first day and also on the expiry of the period of impurity, while the Suddhiprakāśa (p. 162) following the Mit on Yāj. III 17 states that the day on which vapana is to be undergone is determined by the usage of each country. This difference in usages has been even judicially noticed. In Chandra choora Deo v. Bibhuti Bhushan Deva A.T.R. 1945 Patna p. 211 at p. 219 it has been stated that according to the Benares School the person who performs the cremation shaves his head at the time of cremation, whereas under the Mithilā school there is no such shaving at that time.
 
-provides sio zapana for all sapindas that are younger than the deceased The Madanapārijāta holds that the performer of orema. tion rites had to undergo vapana on the first day and also on the expiry of the period of impurity, while the Suddhiprakasa (p 162) following the Mit on Yāj. ITI 17 states that the day on which vapana is to be undergone is determined by the usage of each country. This difference in usages has been even judicially noticed. In Chandra choora Deo v. Brbhuti Bhushan Deva A,I R. 1945 Patna p. 211 at p. 219 it has been stated that according to the Benares School the person who performs the cremation shayes his head at the time of cremation, whereas under the Mithilā school there is no such shaving at that time.
+The Garudapurāna (II. 4. 67-69) provides that loud weeping may be indulged in when the body is burning but there should be no weeping after cremation and the offering of water to the departed
 
-The Garuḍapurāpa (II. 4. 67-69) provides that loud weeping may be indulged in when the body is burning but there should be no weeping after cremation and the offering of water to the departed,
+There was some difference of opinion as to the offering of water (udakakriyā or udakadāna) to the deceased by his sapindas and samānodakas. Āśv. gr.quoted above (p. 209) speaks of offering water once, but the Sat. Sr. 28. 2. 72 and others prescribe that water mixed with sesame is offered thrice with joined hands on the day of death to the deceased after reciting his gotra and name and every day thereafter up to the 11th.511 Gaut. Dh, S. 14. 38, Vas. 4. 12 prescribe that water should be offered by sapindas to the deceased with their faces to the south on the first, third, seventh and ninth days of death and Haradatta says that in all 75 añjalis of water were to be offered (three on 1st day, 9 on 3rd, 30 on 7th and 33 on 9th ), but that the usage in his country was that on the first day water was offered three times with joined hands and then one more añjali on each succeeding day from the 2nd. On the other hand, Visnu Dh. S. 19. 7 and 13, Pracetas, Paithinasi (both quoted by Aparārka p. 874)
 
-There was some difference of opinion as to the offering of water (udakakriyā or udakadana) to the deceased by his sapindas and samānodaloas ĀŚy gr, quoted above (p 209) speaks of offering water once, but the Sat, Śr 28 2. 72 and others prescribe that water mixed with sesame is offered thrice with joined hands on the day of death to the deceased after reciting his gotra and name and every day thereafter up to the 11th,511 Gaut Dh. S. 14. 38, Vas. 4 12 presoribe that water should be offered by sapindas to the deceased with their faces to the south on the first, third, seventh and ninth days of death and Haradatta says that in all 75 añjalis of water were to be offered (threa on 1st day, 9 on 3rd, 30 on 7th and 33 on 9th ), but that the usage in bis country was that on the first day water was offered three times with joined hands and then one more anjali on each succeeding day from the 2nd. On the other hand, Viṣṇu Dh 8, 19, y dud 13, Pracetas. Paithinasi ( both quoted by Aparātka P. 874 )
+510. Sahraai vannai T. 9. 7. 1. 3.10.6. For explanation of this sūtra, vide Hal. On T. III. 17.
 
-K
+511. केशान् प्रकीर्य पासूनोप्यैकवाससो दक्षिणामुखाः सकृदुन्मज्योत्तीर्य सव्यं जान्वाच्य वासः पीडयित्वोपविशन्त्येवं त्रिस्तत्प्रत्ययं गोत्रनामधेयं तिलमिश्रमुदकं त्रिरुत्सिच्याहर T AITEETTIETIETTI FIERA 28.2.72. The st. fo . 1. 4.Wis almost in the same words. The water would be offered in the 'काश्यपगोत्र देवदत्तशर्मन्, एतत्ते उदकम् or 'काश्यपगोत्राय देवदत्तशर्मणे प्रेताबैलक्षित
 
-510, 3e at r ai To Y I. 3,10 6 For explanation of this sūtra, vide FAAT ON III 17.
+grach I (TTTT) or TTATATTETTE: Daracha (Aaron T. HIS Vide T ata III. 36–37 also, q. by exuerek p. 874 and app. AT. I. 2 Diameter orientar
 
-511. केशान् प्रकीर्य पांसनोप्यैकवाससो दक्षिणामुखा सकृदुन्मज्योतीयें सर्य जान्वाय्य वास. पीडयित्वोपविशन्येवं बिस्तत्मत्ययं गोत्रनामधेयं तिलमिश्रमदक विलिस्पाहर
+Research InstituteIV]
 
-a ta TESTEREITETA I TEHTAG MIT 28 2 72 The qt I4.7 11 Almost in the same words. The water would be offered in the forme 'काश्यपगोत्र देवदत्तशर्मन, एतत्ते उदकम् । or 'काश्यपगोत्राय देवदत्तशर्मणे प्रेतायेतत्ति orage (ETC) or ATAT SISYONE Arten (FAST. Od ZT III. 5.). Vide गोभिलस्मृति nI 36-37 also, q by अपरार्क P 874 and पूरा मा I. 2 2 287.
-
-IVI
+Views on offering water
 
 219
 
-Views on offering water prescribe that water and pinda were to be offered to the deceased for ten days.512 The Suddhiprakāśa (p. 202 ) quotes Terses from Gphyd-pariśista, one of which says that some declare that only ten añjalis were to be offered, some say 100 Tere to be offered and others that 55 vere to be offered and that one should follow the usage settled in one's vedic Sākha. The ĀŚv. gr. parisista 3. 4 has & similar rule in prose The Garuḍapurāna (Pretakhanda chap. 5 yerses 22-23 ) also refers to the offering of 10, 55, or 100 anjalis. Some smrtis prescribed that the number of añjalis of water were dependent on the caste of the deceased. Pracetas (q. by Mit. on Yāj. ITI. 4) provides that 10, 12, 15, 30 añjalis should be respectively offered to a deceased person of the brahmaṇa, ksatriya, vaisya or sūdra Varna, Yama (verses 92-94 ) states how water is to be offered to the deceased standing in navel-deep vater and (98) pre scribes that water is to be offered in water to gods and pitis but on the ground to those that died without upanayana being performed. In a smrti quoted by Devayājnika 513 it is stated that six pindas Tere to be offered from the day of death as follows: at the place where the death occurred, at the door of the house, where four roads meet, where the funeral procession on the way to the cemetery rested, on the pile of Food arranged for burning (cita), and at the time of the collection of the burnt bones. It was further provided that for the benefit of the departed a lamp fed by sesame oil was to be kept burning continuously for ten days after death and an earthenware Yessel was to be kept filled with water and a handful of cooked rice was to be offered on the ground at the time of the mid-day meal after uttering the name and gotra of the departed. This was called pātheya śrāddha because it helped the departed to go on his way from the earth to the world of the departed (Tide Dharmasindhu p 463). According to some of the digests
+prescribe that water and pinda were to be offered to the deceased for ten days.512 The Suddhiprakāśa (p. 202 ) quotes verses from Grhya-parisista, one of which says that some declare that only ten añjalis were to be offered, some say 100 were to be offered and others that 55 were to be offered and that one should follow the usage settled in one's vedic Sākhā. The Asv. gr. parisista 3. 4 has a similar rule in proge. The Garudapurāna ( Pretakhanda chap. 5 verses 22-23 ) also refers to the offering of 10, 55, or 100 añjalis. Some smrtis prescribed that the number of añjalis of water were dependent on the caste of the deceased. Pracetas (q. by Mit. on Yāj. ITI, 4 ) provides that 10, 12, 15, 30 añjalis should be respectively offered to a deceased person of the brāhmana, ksatriya, vaisya or sūdra varna. Yama (verses 92-94 ) states how water is to be offered to the deceased standing in navel-deep water and (98) pre scribes that water is to be offered in water to gods and pitrs but on the ground to those that died without upanayana being performed. In a smrti quoted by Devayājñika 513 it is stated that six pindas were to be offered from the day of death as follows: at the place where the death occurred, at the door of the house, where four roads meet, where the funeral procession on the way to the cemetery rested, on the pile of wood arranged for burning (cita), and at the time of the collection of the burnt bones. It was further provided that for the benefit of the departed a lamp fed by sesame oil was to be kept burning continuously for ten days after death and an earthenware vessel was to be kept filled with water and a handful of cooked rice was to be offered on the ground at the time of the mid-day meal after uttering the name and gotra of the departed. This was called pātheya śrāddha because it helped the departed to go on his way from the earth to the world of the departed (vide Dharmasindhu p. 463). According to some of the digests
 
-512. gaṚgasacia ponit Tarta de mis pratia? Call eno g. by FACT ON TT III. 3; i arastature Thug 0:1 Faune 19.13 If frater is offered only once a day for ten daya there would be only teo aajalls in all, but if 10 were offered on each day there would be 100, it one was offered on first day and one more added on cach "succeeding day to the 10th there would be 55 añjalis
+512. दिनदिनेऽञ्जलीन पूर्णान् प्रदद्यात्प्रेतकारणात्। तावद्धिश्च कर्तव्या यावत्पिण्ड: Walcarea g. by faar, on . III. 3; Caetate arreglarea rog au: TOTTEET 19.13. If water is offered only once a day for ten days there would be only ten anjalis in all, but if 10 were offered on each day there would be 100; if one was offered on first day and one more added on each succeeding day to the 10th there would be 55 anjalis STATUE
 
-$13. SIT Areret antearat mati भयावद पिण्वान क्रमशो दिशेत् । मृतस्थाने तथा द्वारे चवरे तार्य कारणात् । विश्रामे FIESTATTU 2 1 q. by TT p. 158. Vide 99296747 II. 4 48 for a similar provision,
+1513. अत्र च श्राद्धोत्तरं पिण्डदानमुक्तं देवयाज्ञिकोदाहृतायां स्मृतौ । मृतस्यात्कान्तिस मयात्षद् पिण्डान् क्रमशो दिशेत् । मृतस्थाने तथा द्वारे चत्वरे ताय कारणात् विश्राम
 
-270'
+yet fet Fr ! 4. by great p. 158. Vide 152g .4.48 for a similar provision.
 
-History of Dharmaśāstra ( toi.
+POONA
 
-a śrāddha called Nagna-pracchadana was to be performed on the day of the death of a person after his sapindas undeṚgo sharing and bath, enter the village and the house. It consists in filling a jar with grains of rice wound round with a piece of oloth and putting clarified butter in a vessel of bell-metal and some gold (or coins) thereon according to one's ability. The whole was to be given to a poor brāhmada of good family after romembering Visou for the benefit of the departed Vide Smrtı muktāphala (on śr ) pp. 595-596, Sm C (on Aśauca p. 176 ),
+मावि नावधीत Bhandarkar Oriental Research Institute
 
-PACCORDI Pere death sticke be left the offered pars to be upana
+220
 
-The smrtis and purānas (like Kūrma, uttarārdha 23.70 ) prescribe that after offering with joined hands water to the deceased a ball of rice or barley flour with sesame was to be presented on darbha grass There are two views on this point, According to Ya. III, 16 a pinda vas to be offered for three days after death according to the procedure prescribed for Pinda-pitṛ-yajña (such as wearing of the sacred thread on the right shoulder and under the left shoulder ), while according to Vispu 19. 13 one pinda was to be offered every day as long as impurity on death lasted The pinda was to be offered on darbhas spread on the ground if the deceased had his upanayana performed, but without mantras or may be offered on a stone sly While water could be offered by any and every sapinda, pioda was to be offered only by the son (and when there were many sons, by the eldest if free from defect); in default of a son the nearest sapinda like a brother or brother's son was to offor it and in default of such then the sapindas of the mobbet (materna) uncle, his son or the like ) could 515 offer it. Even when pindas were to be offered for three days or āśauca lasted only for 3 days the pipdas were prescribed to be ten by Satatapa and Paraskara distributed them as follows three on the irsu day, four on the 2nā and 3 on the third and Dakga *** d1801)* buted them as follows. one on the first day, four on the 2nd and fiya on the 3rd Paraskara prescribed that 10, 12, 15, 30 pindas were to be offered according to the varṇa of the deceased i the case cited above from A I R. 1945 Patna p 211 at p 219 jt has been stated that according to the Benares school 4, 5 oro
+History of Dharmaśāstra
 
-514 free for r ent a aq: 7 g. by Fatt. od 4. III 18. 515. SETH FIQUET FICATET: FORTES ET TOUT HEMAT! 8.15.13-14
+[Vol.
 
-516. FASETÊ Aftur feuia terra inter gatitet pourtant estens af q. by styr . 888.
+a sraddha called Nagna-pracchädana was to be performed on the day of the death of a person after his sapindas undergo shaving and bath, enter the village and the house. It consists in filling a jar with grains of rice wound round with a piece of cloth and putting clarified butter in a vessel of bell-metal and some gold (or coins) thereon according to one's ability. The whole was to be given to a poor brāhmaṇa of good family after remembering Visņu for the benefit of the departed. Vide Smrti muktāphala (on śr.) pp. 595-596, Sn. C. (on Aśauca p. 176 ).
 
-·
+The smrtis and purānas (like Kūrma, uttarardha 23.70) prescribe that after offering with joined hands water to the deceased a ball of rice or barley flour with sesame was to be presented on darbha grass. There are two views on this point, According to Yāj. III. 16 a pinda was to be offered for three days after death according to the procedure prescribed for Pinda-pitr-yajña (such as wearing of the sacred thread on the right shoulder and under the left shoulder ), while according to Vişnu 19. 13 one pinda was to be offered every day as long as impurity on death lasted. The pinda was to be offered on darbhas spread on the ground if the deceased had his upanayana performed, but without mantras or may be offered on a stone.514 While water could be offered by any and every sapinda, pinda was to be offered only by the son (and when there were many sons, by the eldest if free from defect); in default of a son the nearest sapinda like a brother or brother's son was to offer it and in default of such then the sapindas of the mother (maternal uncle, his son or the like ) could 515 offer it. Even when pindas were to be offered for three days or āśauca lasted only for 3 days the pindas were prescribed to be ten by Sātātapa and Paraskara distributed them as follows: three on the first day, four on the 2nå and 3 on the third and Daksa 516 distri buted them as follows: one on the first day, four on the 2nd and five on the 3rd. Päraskara prescribed that 10, 12, 15, 30 pindas were to be offered according to the varna of the deceased. In the case cited above from A. I. R. 1945 Patna p. 211 at p. 219 it has been stated that according to the Benares school 4, 5 or 6
 
-221
+TITUTE
 
-II Views on pinas at cremation
+NS
 
-pindas are offered at the time of cremation, while according to the Mithilā" school only. one pioda is offered. Everybody, whether a person of the same gotra as the deceased or of another gotra, had to carry out all the rites up to the tenth day wlien he once began them on the day of death, as stated by the Grhya-pariśista 517 and Garuḍapurāpa. It is further prescribed that when the funeral sites are begun by a person and then a nearer Telatiye such as a son comes, even then the former is to carry on all the rites up to the 10th day, but the rites of the 11th and later days are to be performed by the son and in default of him by a near sapinda. The Matsyapurāna states 518 that pindas should be offered to the deceased for twelve days; they become his food on his journey (to the other world) and they give bim satisfaction; since the deceased is taken to the abode of departed spirits after twelve days, he (his spirit) sees his house, sons and wife for twelve days Rsyaśroga quoted by Aparārka (p. 889 ) specifies the limbs of an ethereal body with which the deceased is endowed on each day of the ten days after death when a pinda is offered The Garuḍapurāpa (pretakhanda chap. 5. 33-36) says the same.
+POON
 
-Just as sapindas of the same gotra and samānodakas were bound to offer water to the deceased, & person was bound to offer water to his maternal grandfather and to the two further ancestors and to his ācārya on their death. Every man, if he 80 desired (i. e, he was under no religious duty), could offer water to his friend, to his married sister or daugbter, to his sister's son, father-in-law and his sacrificial priest on their death (Pār. gr. III, 10, Saṅkha-Likhita, Yāj. 519 IL, 4) Paraskara (III. 10) refers to a peculiar practice. When the sapindas are about to enter water for bathing and thereafter offering water to the deceased they pray to their relatives or brother-in-law for water with the words 'we shall perform udakakriya , where-upon
+514. PAT AT five ground at : 137 q. by far on 27. III. 16.
 
-517. असगोत्रा सगोत्रो वा यदि स्त्री पदिवा पुमान। प्रथमेऽहनि यो वद्यास दशाई FATT I VITITE 4. by FACTOR T. I, 255 and III 16, 1978 P 887, RP. 91. p. 400, agar p. 172. This is T 9797 20.6 and 1 9tTot (daeva) 5 19-20.
+515. Guruh wrquer Argaret: feu arxiterara Firearmstab *. . . 15.13-14.
 
-318. प्रेताय पिणवान तुदशाह समाचरेत् । पाथेयं तस्य तमोक्त यतः प्रीतिकर महत्॥ यस्मात् प्रेतपुरं प्रेतो द्वादशाइन नीयते। गृहपुत्रकलत्रं च द्वादशाहं प्रपश्यति । मालपपुराण q. by अपरार्क p 889. These two verses are the same as एसपुषण,
+516 YASET arauerg THTAT I get ud area foerare : ** q. by stuer p. 888,
 
-TEVE 10.5-6.
+FOUNDED
 
-519. 'उदमानिया फार्म श्वशुरमातुलयोः शिण्ये सहाध्यापिनि राजाने लिखित gbg it on 9 III, 4.
+1917
+
+Bhandarkar Oriental Research Institute
+
+ivi
+
+Views on pindas at cremation
+
+piņdas are offered at the time of cremation, while according to the Mithilā school only one pinda is offered. Everybody, whether a person of the same gotra as the deceased or of another gotra, had to carry out all the rites up to the tenth day when he once began them on the day of death, as stated by the Grhya-parisista 517 and Garudapurāna. It is further prescribed that when the funeral rites are begun by a person and then a nearer relative such as a son comes, even then the former is to carry on all the rites up to the 10th day, but the rites of the 11th and later days are to be performed by the son and in default of him by a near sapinda. The Matsyapurāņa states 518 that piņdas should be offered to the deceased for twelve days; they become his food on his journey (to the other world) and they give him satisfaction; since the deceased is taken to the abode of departed spirits after twelve days, he (his spirit) sees his house, sons and wife for twelve days. Rsyasrnga quoted by Aparārka (p. 889 ) specifies the limbs of an ethereal body with which the deceased is endowed on each day of the ten days after death when a pinda is offered. The Garudapurāna (pretakhanda chap. 5. 33-36) says the same.
+
+Just as sapindas of the same gotra and samānodakas were bound to offer water to the deceased, a person was bound to offer water to his maternal grandfather and to the two further ancestors and to his ācārya on their death. Every man, if he 90 desired (i. e. he was under no religious duty), could offer water to his friend, to his married sister or daughter, to his sister's son, father-in-law and his sacrificial priest on their death (Pār, gr. III, 10, Sankha-Likhita, Yāj. 519 ILI. 4). Pāraskara (III. 10) refers to a peculiar practice. When the sapindas are about to enter water for bathing and thereafter offering water to the deceaged they pray to their relatives or brother-in-law for water with the words 'we shall perform udakakriyā', where-upon
+
+517. असगोत्रः सगोचो वा यदि स्त्री यदि वा पुमान्। प्रथमेऽहनि यो दद्यात्स दशाई HATI TE IE q. by her on T. I, 255 and III, 16, 39 p. 887,
+
+10, ESAT P. 172. This is Jas149 20.6 and ageret (heus ) 5.19-20,
+
+518. प्रेताय पिण्डदान तुद्वादशाह समाचरेत् । पाथेयं तस्य तत्मोक्तं यतः प्रीतिकर महत्॥ यस्मात् घेतपुरं प्रेतो द्वादशाहेन नीयते। गृहपुत्रकलच द्वादशाह-मपश्यादि । HREYTTU . by 37 p. 889. These two verses are the same as TONI dieeve 10.5-6.
+
+519. S T HTH SETTFIT : jich Terra erorêt ५. by वीषफलिका on या. III, 4.
+
+SON
+
+FOUNDED
+
+1917
+
+Bhandarkar Oriental Research Institute
 
 222
 
-Thistory of Dhiar masastra
+History of Dharmaśāstra
 
-Vol.
+[Vol.
 
-the other roplios do so but don't come again (with a similar request),' if the deceased was less than one hundred years of age, but the reply would be simply do so if the deceased Tas hundred years of age or more.520 The G. P. S. (1, 4,4-6) has & somewhat similar symbolic dialogue. A king's officer, a sagotra or a brother-in-law takes a branch having thorns and provents them from entering water with the words 'don't enter'; then the sapindas should reply 'we shall not again enter Water'. The probable significance of this was that they thereby vould be able to escape from another death in the family soon after,
+the other replies 'do so but don't come again (with a similar request), if the deceased was less than one hundred years of age, but the reply would be simply do so if the deceased was hundred years of age or more.520 The G. P. S. (1, 4.4-6) has a somewhat similar symbolic dialogue. A king's officer, a sagotra or a brother-in-law takes a branch having thorns and prevents them from entering water with the words 'don't enter'; then the sapindas should reply 'we shall not again enter water'. The probable significance of this was that they thereby would be able to escape from another death in the family soon after.
 
-There were rules prohibiting certain persons from offering water to the deceased and also directing that water should not be offered to certain deceased persons. Impotent 521 persons and the like, thieves of gold, vrātyas, those who follow forbidden conduct and women that kill their own foetus or husband and that drink the kind of liquor (forbidden to them) should not offer water to a deceased person. Yaj (III. 6) provides that water should not be offered to and no āśauca observed for heretics, for those who do not belong to one of the four āśramas, to thieves, to women wao kill their husbands or who are guilty of prostitu tion or who drink surū, or who commit suicide. Manu (V. 89 90) is to the same effect, Gaut Dh, S. 522 14, 11 provides that in the case of those who start (through anger) on the Great
+There were rules prohibiting certain persons from offering water to the deceased and also directing that water should not be offered to certain deceased persons. Impotent 521 persons and the like, thieves of gold, vrātyas, those who follow forbidden conduct and women that kill their own foetus or husband and that drink the kind of liquor (forbidden to them) should not offer water to a deceased person. Yāj. (III. 6) provides that water should not be offered to and no āśauca observed for heretics, for those who do not belong to one of the four āśramas, to thieves, to women who kill their husbands or who are guilty of prostitu tion or who drink surā, or who commit suicide. Manu (V. 89-- 90) is to the same effect. Gaut. Dh, S. 522 14, 11 provides that in the case of those who start (through anger) on the Great
 
-520 संयुक्त मैथुनं वोदकं याचेरमदकं करिष्यामह इति । कुरुष्व मा चैव पुनरित्यशत E mai
+520. संयुक्त मैथुनं वोदकं याचेरखुदकं करिष्यामह इति । कुरुध्व मा चैवं पुनरित्यशत er than a terheyatithi True III, 10, which are included in the procedure of udakadana even by such a late writer as Govindananda (S. K. p. 122 ) and explained by his pp. 199-200; 31: sarea I 312 राजपुरुषः सगोत्रमिथुनो (सगोत्रो मैथुनी?) वा कण्टकिनी शाखामादाय मावतरतेति वारयेत् # afara gra sar: 1. f. E. I. 4.3-6.
 
-Tren III 10, wbich are included in the procedure of udakadana even by such a late writer as Govindāpanda (S, K, p. 122) and explaiacd by mo st pp 199–200, 370 eri 3937 राजपुरुष. सगोत्रमिथुनो (सगोत्रो मैथुनी?) वा कण्टकिनी शाखामादाय मावतरतेति वारयेत्
+521. क्लीवाद्या नोदकं कुर्युः स्तेना बात्या विधर्मिणः। गर्भभर्तृहश्चैव सुराप्यश्चैव arca: The q. by cats (fr) p.89, Jett p. 203. The word aret: probably includes all those mentioned by Yaj. II. 140. For vrätya vide H. of Dh. vol. II, pp. 96, 386.
 
-garantert sarap: 1 fll I 4 3-6.
+522. partenariadenieruaastagare i f. 14.11; #rcare विष वह्निः शस्त्रमुद्धन्धन जलम् । गिरिवृक्षप्रपातं च ये कुर्वन्ति नराधमाः। ब्रह्मदण्डहता ये च ये
 
-521 क्लीबाया नोदकं कुयुः स्तेना व्रात्या विधर्मिणः। गर्भभर्तृहश्चैव सुराग्यश्चैव to. E q, by ice ()p,89, l P 203. The word met: probably includes all those mentioned by Yāy II, 140 Tor vrātya yda H. of Dh. vol. II, pp 96, 386
+चैव ब्राह्मणैर्हताः । महापातकिनो ये च पतितास्ते प्रकीर्तिताः । पतितानां न दाहः स्यान्न च स्यादस्थिसञ्चयः । न चाश्रुपात: पिण्डो वा कार्या श्राद्धक्रिया न च ॥ ब्रह्मपुराण - by Er on . 14.11 and by such pp. 902-903, quoting many more verses: similar rules are laid down by Aušanasamsti VII. 1. p. 539 (Jiyane verses 178–179, Atri 216-217, mig erot (zatru chap. 23. verses 60-63) 4. by EFC3 HT p. 204, gim. P. 59.
 
-522 Arioniraflagtechtrauan
+POOHA
 
-s i H 14 11 ; FETTATA विष वहिः शस्त्रसवन्धनं जलम् । गिरिसक्षमपातच ये कुर्वन्ति नराधमा । ब्रह्मदण्डहता ये च मे
+UNDED 1917
 
-चैव ब्राह्मणहता।महापातकिमो ये च पतितास्ते प्रकीर्तिताः। पतितानां न दाह. स्यातच स्यादस्थिसश्चय.। न चानुपातः पिण्डो वा कार्या श्राद्धक्रिया नच॥ ब्रह्मपुराण 4. by
-
-SE OD T 14 11 and by sucro pp. 902–903, quoting many more verses similar rules are laid down by Auśanasamrtı VII. 1. p 539 (J1v.), aut vérsea 178-179; Atri 216-21%, tot ( i chap, 23, versek 60-63) . by masat D, 204, O P. 59,VI
-
-To whom no water is to be offered
-
-229
-
-Journey, who commit suicide by fasting or by means of a weapon or by fire, by poison, in water, by hanging or falling from a precipice or tree, there is no oremation, no asauca, Do offering of water or pinda. Haradatta on Gazt, 14. 11 quotes three verses froni Brahmapurāpa that those who die of a brāhmana's curse or black magic and those who are patitas are dealt with in the same way. But Angiras (9. by Mit, on Ya). II, 6) says that if one dies by water or fire or the like through inadvertence, there was āśauca for him and udakakriya tras performed. Vide Vaik, Sm S. V. 11 for a long list of persons who must not be cremated. In the Mahābhārata the rites of cremation have been described frequently eg. the cremation of Pandu in Adiparva, chap 127 ( the body was carried in a frika covered on all sides, there were musical instruments, the royal parasol and chowries were carried in the procession, distribution of vealth to mendicants, carrying the dead body to the bank of the Ganges on a charming sylvan spot, bathing the body, applying sandalwood paste to it), of Drona in Strīparya, chap 23.38-42 (three samans were sung, his pupils with Dropa's wife in front vent round the funeral pyre, going to the Ganges ); of Bhisma in anusāsana 169 10-19 (fragrant resins were used on the pyre, his body was covered with fine clothes and flowers, an umbrella and chowries were held over the body, Kaurava vomen fanned the body with fans, sāmans vere sung ); of Vasudeva in Mausalaparva 7. 19-25; of killed Warriers in general in Striparya, chap. 26. 28-43 and of Kunti, Dhrtarāstra and Gandhārl in ' Aśramayasikaparya, chap. 39. In the Rāmāyaṇa ( Ayodhyā, chap 76 verses 16-20 ), it is said that the funeral pyre for Daśaratha was made with sandalwood, aguru and fragrant resins, with Sarala, Padmaka and Devadāru (pine) wood and various fragrant substances were heaped thereon, then Daśaratha's body was placed on the pyre and that Kausalyā and other women followed the corpse in &:blikās and conveyances aocording to their status,
-
-If an āhitāgni died away from home, the Sat. Br. (XI, 5.1.13-14) provides that, having brought his bones home they were to be spread on a black antelope skin and arranged in imitation of the human frame, were to be covered with wool and ghee and burnt with his srauta fires and sacrificial imple ments. Similar rules are laid down in Kāt. Śr, 25.8-9, Baud. P.S, HII 8, Gobhilasmrti 11,47, Vas. Dh, S. IV, 37,
-
-064
-
-
-
-(Vol.
-
-If even the bones could not be found, then the sūtras follorya ing the Azt Br. (chap. 32.1) and similar ancient workg523 provide that on a skin of black antelope one should make the effigy of a human frame with palāśa stalks (leaves) 360 in 521 pumber, the effigy should be bound round with woollen thread, should be covered with yava flour mixed with water and anointed witl clarified butter and cromated with his fires and sacrificial implements. The Brahmapurana (q. by Suddhi prakas& p. 187) contains similar rules about burning an efigy and ordains three days' impurity thereafter. Acc. to a smrti (a by Aparārka p. 545), the palūśa leaves were to be 362. They were to be distributed according to Baud. PS and Gaut. P S. as follows: 40 represent the bead, 10 the neck, 20 the chest, 30 the abdomen (udaa), 50 each of the arms, 10 the fingers of the two hands, 70 each of the two legs, 10 the toes of the feet, 8 the male organ, 12 the testicles. This is also the enumeration in Sat śr. 29.4.39. Vide also Śān, Śr. IV 15,19-31,52 Kāt. ŚT. XXV. 8.15, Baud, P. S. II 8, G. P.S. I 1.6-14 Gobhila-smrti I 48, Harita q by Suddhiprakāśa p. 186, Garuḍapurāna II, 4. 134-154 and I1.40 44 ff. It may be stated here that all the sūtras and smartis do not entirely agree as to the number of palāsa leaves taken as representing the several parts of the body, as may be seen from a comparison of the Sad, Sr. quoted in the note with Baud. P 8. set out here. A smrti quoted by Aparārka (p 545 ) gives the numbers as follows: 32 for the head, 60 for the neck, 80 for the chest, 20 for the hip and loins, 20 each for the two arms, 10 for fingers. 6 for testicles, 4 for the penis, 60 for the tio thighs, 20 for the knees, 20 for the
-
-523. The af reads are Frota aerea quiert, qieana a HTETY तेषा पुरुषरूपकमिव कृत्वा तस्मिस्तामावृतं कर्यरथेनाञ्छरीरराहत संस्पश्योद्वासयेयुरध्यधेशत काये सक्थिनी द्विपञ्चाशे च विशे चौरू द्विपञ्चविंशे शेष तु शिरस्युपदध्यात् सातव प्रायश्चितिः।
-
-524, शरीरनाशे त्रीण पटिशतानि पलाशवन्ताना भ्रष्णाजिने पूर्ववत् । कात्या श्री 25.8 15, on which the com, remarks g renie gaat naar ATAKA सश्चयन पितृमेधश्च तैरेवति ।।।
-
-525, ETTETTE ISTATYTI BARTAT IS WAIT FOR विशतिः। षवृषणयोः । शिश् चत्वारि । ऊर्वो शतम् । विंशजानुजङ्गाष्ठीवतो । पादालापु विशति । एव त्रीणि पटिशवानि भवन्ति । पुरुषाकृति कृत्वोस परिवटच यवचूर्णः प्रलिप्स HUSTYT :
-
-R I FT P. IV. 15. 20–31 Each stalk of Palasa has three leaves, Foties will represent the muscles and require will re. present flesh It will be seen that as enumerated in Sāo S, the palla stalks are exactly 360 The magtros (50) 23,68 refers to it as a TETETSTERT Front 7,1
-
-225 IV] Burning of Efigy with palāsa stalles lower parts of the legs, 10 for toes of the feet. Jātākarnya (a by Aparārka p. 545 ) and Bhaviṣyapurāpa (q. by Suddhi. prakāśa p. 187 ) say that when a son does not hear for 15 years about his father who had gone to a distant land, he should perform the cremation of the effigy (called 'akrtidahana'). Bghaspati advises waiting for 12 years before resorting to akrtidalang (Suddhipr. p 187). The Vaikhānasa-sinārta-sutra V. 12 regards the burning of the effigy as a meritorious act for every one and does not restrict it to the case where the body or bones are not found. The Suddhiprakāśa p. 1897 quotes several Verses from the Brahmapurāpa that the procedure of burning an effigy of palāśa stalks was to be followed even in the case of one who has not consecrated Srauta fires and āśauca for three days has to be observed, while the aśauca for burning the effigy of an ābitagpi was ten days.
-
-It is further provided in Sat śr. 29, 4. 41, Baud P.S. (II, 7. 4) and Garuḍapurāna II, 4. 169–70 that, if after the effigy is cremated in the belief that a person died in a foreign land, he returns alive, then he is plunged in a pit containing clarified butter and then he comes out of it, takes a bath, then all the sainskāras from jātalarına are performed on him, then be marrieg the same wife again or if she be dead, he may marry another girl, then consecrate again śrauta fires. Some sūtras provide that if the wife of an āhitāgni dies before him, he may, if he so desires, cremate her with his srauta fires or be may cremate her with fire prepared from covdung and some easily inflammable things (like straw) placed in three sthālis (cooking pots 526). Manu (V. 167-168) provides that if the savarṇa and virtuous wife of a twice-born person who had consecrated sacred srauta fires died before him she was to be cremated with big fires (srauta and smārta) and with the sacrificial implements. Then he may marry again and consecrate srauta or smārta fires again, To the same effect are Yā). T. 89, Baud. PS.I.4,6, Gobhila-smrti III.5, Vaikhāpasa-smārtasūtra VII 2, Vrddha-Harita XI, 213, Laghu Aśv. 20 59. 527 Viśvarūpa on Yāj. 1.87 quotes a Kathaka-śruti to
-
-526. इच्छन् पत्नी पूर्वमारिणीमग्निभिः संस्कृत्य सान्तपनेन वान्यामानीय तत. पुनरा
-
-rain IV. 15.32. How the Frage fires are produced is stated in Sat. Br. XII. S 23 SAT Surat Peraga FURES Y ama YFIR धारधार नाना त्रिवनिपु प्रवृळ्याते ये तत. सन्तापादग्नयो जायेरंस्तरेनं दहेयुः। ' शुम्बल menos some waterial bich is easily iofamed such as straw.
-
-527. Frutasy. 99: a TITRETENTAT E T ET FEUGE 1. तथा च फाठके भुमी शबानो या एते भवन्ति ये पत्या प्रमीतायां धार्यन्ते' इत्युपगम्य 'तस्मात् PAITHA a fet poten : 1 hopes on I. 87.
-
-H. D. 29
-
-226
-
-
-
-[Vol. the effect that if a person keeps the same srauta firos after the death of his wife they are (impure like) the fires used for burning a corpse and adds that even if a brābinana ālutāgni had a wife of the ksatriya class and she died before him, she was to be cremated with his srauta fires Tais view is opposed to that of many other commentators and he explains Manu V 167 (where 'savarnām' occurs ) as merely illustra tive and that if it were interpreted as restricted to a savarṇa wife alone, there would be the fault of vāhyabheda. Some of the smrtis provide that he may remain a widower and perform his Agnihotra by having a golden effigy of the wife or one made of kuśa giass, as Rāma did Vide Gobbılasınrti III 528 9-10, Vrddha-Harita XL 214 If the householder did not marry again (when his wife died before him and was creinated with his srauta fires) and did not consecrate fresli vedic fires he was to be cremated with ordinary fire If the householder was un able to marry again, he may cremate his wife with fire kindled by ineans of the kindling sticks (arans) and keep his srauta fires and carry on agnihotra with the image or effigy of the wife. If the abitāgni died first and his wife then died as a widow she was to be cremated with fire (nii manthya) kindled by attrition of the aranis Vide Baud P, S II, 4 6-8, Kāt Śr. 29 4 34-35, and Trikānda-mandana II, 121, 528. When the wife was crema ted the mantra 'Asmāttvam-abhijātosi' quoted above was not to be recited (vide Gobhilasınrtı II. 52) It was only & virtu ous wife and not all unchaste one that was cremated with śrauta oi smārta fire (Goblilasmrti III, 53) Kratu (g. by
-
-528 मृतायामपि भार्याया वैदिकानि न हि त्यजेत् । उपाधिनापि तत्कर्म यावज्जीव समा. पयेत् ॥ रामोऽपि कृत्वा सौवर्णी सीता पत्नी यशस्विनीम् । ईजे यज्ञबहुविधैः सह भ्रातृभिरचित
-
-ori III 9-10, the first being quoted by 396 P 114 as facu's It Is also quoted by गृहस्थरत्नाकर p 110 अपरार्क does not accept the interpreta. tion that the verse Dryi etc allows the householder to have an image of bis deceased wife beside him while performing a Vedic sacrifice The words S TATIQ: according to Aparārka mean that be may marry a woman not of the same varṇa Both verses are q by Frist (pp. 164–165) which summarises various views on this point
-
-528a aard gay A FAIRBATI HUTTU 9.1 9.
-
-T
-
-a ni atrasanta FH GÀUT, I 01 F . II 4 6-8, compare \#841. !. 294 34; 'पत्नी चैविधवा भूत्वा ममीयेत कदाचन । तदा श्रौताग्निशून्यत्वासिमन्थ्येनेव दस्यत। FITOSAVE II 121.
-
-med alemarried girlacremated
+Bhandarkar Oriental Research Institute
 
 IV)
 
-Cremation of wrdower and others
+To whom no water is to be offered
 
-22"
+223
 
-Suddhiprakāśa p. 166 ) szab and Baud P, S, III. 1. 9-13 state that a widower and a widow were to be cremated with fire generated on a lapāla (made red hot and then cow-dung thrown thereon), a bralmacālin and yatı vere to be cremated with uttapapa (or kapālaja ) fire, an unmarried girl and a boy whose Upanayana is not performed aie to be cremated with fire produced from chaff If an āhitāgni became patata or guilty of suicide in various ways or met death by challenging animals or snakes, bis srauta fires were to be cast into water and smārta fire was to be cast on the place where four roads meet (or in vater), his sacrificial implements were to be burnt (a smrti q by Par, M. I. 2. P. 226, Parāśara V, 10-11, Vaik Smārta V.11.) and lo vas to be cremated with ordinary fire
+Journey, who commit suicide by fasting or by means of a weapon or by fire, by poison, in water, by hanging or falling from a precipice or tree, there is no cremation, no āśauca, no offering of water or pinda. Haradatta on Gaut, 14. 11 quotes three verses froni Brahmapurāna that those who die of a brāhmana's curse or black magic and those who are patitas are dealt with in the same way. But Angiras (q. by Mit, on Yāj. III. 6) says that if one dies by water or fire or the like through inadvertence, there was āśauca for him and udakakriya was performed. Vide Vaik. Sm. S. V. 11 for a long list of persons who must not be cremated. In the Mahābharata the rites of cremation have been described frequently e. g: the cremation of Pāndu in Adiparva, chap. 127 (the body was carried in a sibikā covered on all sides, there were musical instruments, the royal parasol and chowries were carried in the procession, distribution of wealth to mendicants, carrying the dead body to the bank of the Ganges on a charming sylvan spot, bathing the body, applying sandalwood paste to it); of Drona in Strīparva, chap. 23.38-42 (three Sämans were sung, his pupils with Drona's wife in front went round the funeral pyre, going to the Ganges); of Bhisma in Anušāsana 169.10-19 (fragrant resins were used on the pyre, his body was covered with fine clothes and flowers, an umbrella and chowries were held over the body, Kaurava women fanned the body with fans, sāmans were sung ); of Vasudeva in Mausalaparva 7. 19-25; of killed warriers in general in Strīparva, chap. 26. 28-43 and of Kunti, Dhrtarāstra and Gāndhāri in Aśramavāsikaparva, chap. 39. In the Rāmāyana ( Ayodhyā, chap. 76 verses 16-20 ), it is said that the funeral pyre for Daśaratha was made with sandalwood, aguru and fragrant resins, with Sarala, Padmaka and Devadāru (pine) wood and various fragrant substances were heaped thereon, then Daśaratha's body was placed on the pyre and that Kausalya and other women followed the corpse in śibikās and conveyances according to their status.
 
-Manu V. 68, Yaj IIL 1, Parāśara III 14, Viṣṇu Dh. S. 22. 27-28, Brahmapurāna quoted by Par M. I 2 p. 238 provide that in the case of abortion, the fostus, and a still-born child, and a child that has not yet struck teeth should be decked with clothes and the like and should be buried Children of tender years were not to be cremated, but there was some difference of opinion among ancient writers on the exact age at which one or the other method of disposal vas to be resorted to. Paraskara-gr. 5280 III, 10, Yāj III. 1, Manu V.68-69, Yama and some others provide that a child that had not completed two years at death was to be buried under ground in an unsullied spot outside the village (other than the usual cometery), the dead body being anointed with ghee and decked with flowers and sandal paste and that no burning nor offering of water nor the collection of bones was to be perfora med in this case The relatives may all follow the body or not
+If an āhitāgni died away from home, the Sat. Br. (XII. 5.1.13-14) provides that, having brought his bones home they were to be spread on a black antelope skin and arranged sin imitation of the human frame, were to be covered with wool and ghee and burnt with his srauta fires and sacrificial Imple ments. Similar rules are laid down in Kät. Sr. 25.8-9, Band. P, S, III.8, Gobhilasmrti III, 47, Vas. Dh, S. IV, 37,
 
-__528b विधुर विधवा चैव कपालस्याशिना दहेत् । ब्रह्मचारियती चैव दहेदुत्तपनाग्निना। तुषाग्निना च दग्धव्य कन्यका माल एव च। अग्निवर्ण कपालं तु कृरया तत्र विनिक्षिपेत् । firata nar Tea T. HI 91470 Shil q. by yie http 166 The ma RITIR is explained as a sia a Tarn gute Fyn i gan galarea 774 FT. Il fyri q. by TEAFIT 166, STATEATTE. TEXT | TEFY मोपासनेन । ब्रह्मचारिणं कपालसन्तपनाग्निना। उत्तपनीयेनेतरान् । एव स्त्रियम्। बो पिचू. III. 1 9-13.
+POONA
 
-525c, unitatea Atama sisatira T7 THETETT Perniat . TIE TAI TEFFREY III, 10, 3HETEUR Ha que निखनेहुवि । यमगाथा गायमानी यमसूक्तमनुस्मरन् । यम by मिता. on या. III.1, यमगाथा. are verscs addressed to y such as 'nāke suparnam' (Ṛg X, 123 6 acc to दीपकलिका), or तै. आ. VI 5. 3 अहरहर्नयमानो गामश्वं पुरुपं जगत् । चैवस्वतो न तृप्यति पशभिर्मानमः ॥, or योस्य कौश्य जगत. and the two following verses irom से आ, VI. 5.2 (acc. to 3742 p. 871) and in. ( TEP 201)
+1917
+
+चनावातमा
+
+Bhandarkar Oriental Research Institute
+
+224
+
+History of Dharmaśāstra
+
+[Vol.
+
+If even the bones could not be found, then the sūtras follow ing the Ait. Br. (chap. 32.1) and similar ancient works523 provide that on a skin of black antelope one should make the effigy of a human frame with palāśa stalks (leaves ) 360 in 524 number, the effigy should be bound round with woollen thread, should be covered with yava flour mixed with water and anointed with clarified butter and cremated with his fires and sacrificial implements. The Brahmapurāņa (q. by Suddhi prakāśa p. 187) contains similar rules about burning an effigy and ordains three days' impurity thereafter. Acc. to a smrti (q. by Aparārka p. 545 ), the palāśa leaves were to be 362. They were to be distributed according to Baud. P.S. and Gaut. P.S. as follows: 40 represent the head, 10 the neck, 20 the chest, 30 the abdomen ( udara), 50 each of the arms, 10 the fingers of the two hands, 170 each of the two legs, 10 the toes of the feet, 8 the male organ, 12 the testicles. This is also the enumeration in
+
+Sat. Śr. 29.4.39. Vide also Sān. Sr. IV. 15.19-31,525 Kāt. Sr. XXV. 8.15, Baud. P. S. III. 8, G. P. S. II 1.6-14 Gobhila-smrti III.48. Hārīta q. by Suddhiprakāśa p. 186, Garudapurāņa II, 4. 134-154 and II.40 44 ff. It may be stated here that all the sūtras and smrtis do not entirely agree as to the number of palāśa leaves taken as representing the several parts of the body, as may be seen from a comparison of the Sān. Sr. quoted in the note with Baud. P. S. set out here. A. smrti quoted by Aparārka (p. 545 ) gives the numbers as follows: 32 for the head, 60 for the neck, 80 for the chest, 20 for the hip and loins, 20 each for the two arms, 10 for fingers, 6 for testicles, 4 for the penis, 60 for the two thighs, 20 for the knees, 20 for the
+
+523. The .af. reads: Ję ETTETO a Pere TUPITE: afró TEST तेषां पुरुषरूपकमिव कृत्वा तस्मिंस्तामावृतं कुर्युरथैनाञ्छरीरैराहृतैः संस्पोहासयेयुरध्यर्धशतं काये सक्थिनी द्विपञ्चाशे च विंशे चोरू द्विपञ्चविंशे शेषं तु शिरस्युपदध्यात् सा तत्र प्रायश्चित्तिः।
+
+524. TITATET afró oregranê umrgarai ECONIGA gereret i at si 25. 8.15, on which the com, remarks '
+
+grote yatan argi arha सञ्चयनं पितृमेधश्च तेरेवेति ।।
+
+525. Teata PET fatui ETI SİF a iat: şap IR SIG I विंशतिः। षवृषणयोः । शिश्ने चत्वारि । ऊर्वोः शतम् । त्रिंशज्जानुजङ्घाष्ठीवतोः। पादाङ्गलीषु विंशतिः। एवं त्रीणि षष्टिशतानि भवन्ति । पुरुषाकृतिं कृत्वोर्णासूत्रैः परिवेष्टव्य यवचूर्णैः प्रलिप्य
+
+ÜGT Turrunt: pateat ITT: 11. . IV. 15. 20-31. Each stalk of latasa has three leaves; ऊर्णासूत्रs will represent the muscles and यवचूर्णलेप with present flesh. It will be seen that as enumerated in San. S, the parasa stalks are exactly 360. The hyrror (7) 23.68 refers to it as THTATUD
+
+कृत्वा प्रतिकृतिं पुनः।।
+
+WAL
+
+Bhandarkar Oriental Research Institute
+
+IV]
+
+Burning of Effigy with palāśa stalks 225 lower parts of the legs, 10 for toes of the feet. Jätūkarnya (q. by Aparārka p. 545 ) and Bhavisyapurana (q. by Suddhi prakāśa p. 187) say that when a son does not hear for 15 years about his father who had gone to a distant land, he should perform the cremation of the effigy (called 'äkrtidahana'). Bịhaspati advises waiting for 12 years before resorting to ākṣtidahana (Suddhipr. p. 187). The Vaikhānasa-smärta-sūtra V. 12 regards the burning of the effigy as a meritorious act for every one and does not restrict it to the case where the body or bones are not found The Suddhiprakāśa p. 187 quotes several verses from the Brahmapurāna that the procedure of burning an effigy of palāśa stalks was to be followed even in the case of one who has not consecrated Srauta fires and āśauca for three days has to be observed, while the aśauca for burning the effigy of an ähitāgni was ten days.
+
+It is further provided in Sat. Śr. 29. 4. 41, Baud. P.S. (III. 7. 4) and Garudapurāna II, 4. 169-70 that, if after the effigy is cremated in the belief that a person died in a foreign land, he returns alive, then he is plunged in a pit containing clarified butter and then he comes out of it, takes a bath, then all the saņskāras from jātakarma are performed on him, then he marries the same wife again or if she be dead, he may marry another girl, then consecrate again srauta fires. Some sütras provide that if the wife of an āhitāgni dies before him, he may, if he so desires, cremate her with his srauta fires or he may cremate her with fire prepared from cowdung and some easily inflammable things (like straw) placed in three sthālis (cooking pots 526). Manu (V. 167-168) provides that if the savarna and virtuous wife of a twice-born person who had consecrated sacred srauta fires died before him she was to be cremated with his fires (srauta and smārta) and with the sacrificial implements. Then he may marry again and consecrate srauta or smārta fires again. To the same effect are Yaj. I. 89, Baud. P.S. .4,6, Gobhila-smpti III.5, Vaikhānasa-smārtasutra VII 2, Vrddha-Harita XI. 213, Laghu Ašv. 20. 59. 527 Visvarūpa on Yāj. 1.87 quotes a Kathaka-śruti to
+
+POONA
+
+526. इच्छन् पत्नी पूर्वमारिणीमनिभिः संस्कृत्य सान्तपनेन वाम्यामानीय ततः पुनरा quia si sit. IV. 15,32. How the pra fires are produced is stated in Sat. Br. XII.5.2.3 EU ai fa Ta Furarea araTE TATA TERIT वावधाय नाना विष्वग्निषु प्रवृञ्ज्याते ये ततः सन्तापादग्नयो जायेरंस्तरेनं दहेयुः। शम्बल means some material which is easily inflamed such as straw.
+
+DE 527. तस्माद्यावत्यः पत्न्यः सर्वा एवाग्निहोत्राद्यर्थेनाग्निना दग्धव्या इति स्थितमा तथा च काठके श्रुतौ 'शवाझयो वा एते भवन्ति ये पत्म्यां प्रमीतायां धार्यन्ते' इत्युपक्रम्य तस्माद व
+
+narrata' at foretrerrare: 1 paraan on . I. 87.
+
+H. D. 29
+
+FOUNDED
+
+Bhandarkar Oriental Research Institute
+
+226
+
+History of Dharmaśāstra
+
+[Vol.
+
+the effect that if a person keeps the same srauta fires after the death of his wife they are (impure like) the fires used for burning a corpse and adds that even if a brāhmana āhitāgni had a wife of the ksatriya class and she died before him, she was to be cremated with his srauta fires. This view is opposed to that of many other commentators and he explains Manu V. 167 (where 'savarnām' occurs ) as merely illustra tive and that if it were interpreted as restricted to a savarna wife alone, there would be the fault of vākyabheda. Some of the smrtis provide that he may remain a widower and perform his Agnihotra by having a golden effigy of the wife or one made of kuģa grass, as Rāma did. Vide Gobhilasmrti III, 528 9-10, Vrddha-Harita XI. 214. If the householder did not marry again (when his wife died before him and was cremated with his srauta fires) and did not consecrate fresh vedic fires he was to be cremated with ordinary fire. If the householder was un able to marry again, he may cremate his wife with fire kindled by means of the kindling sticks (aranis) and keep his srauta fires and carry on agnihotra with the image or effigy of the wife. If the āhitāgni died first and his wife then died as a widow she was to be cremated with fire (nirmanthya) kindled by attrition of the arañis. Vide Baud. P. S. II, 4, 6-8, Kāt. Śr. 29.4. 34-35, and Trikānda-mandana II, 121,528a When the wife was crema ted the mantra 'Asmāttvam-abhijātosi' quoted above was not to be recited (vide Gobhilasmrti III. 52). It was only a virtu ous wife and not an unchaste one that was cremated with srauta or smärta fire (Gobhilasmrti III. 53). Kratu (q. by
+
+P
+
+528. मृतायामपि भार्यायां वैदिकाग्निं न हि त्यजेत् । उपाधिनापि तत्कर्म यावज्जीव समा पयेत् ॥ रामोऽपि कृत्वा सौवर्णी सीतां पत्नी यशस्विनीम् । ईजे यज्ञैर्बहुविधैः सह भ्रातृभिरचितैः॥ T rora III. 9-10, the first being quoted by the p. 114 as facu's. It is also quoted by गृहस्थरत्नाकर p. 110. अपरार्क does not accept the interpreta tion that the verse arti etc. allows the householder to have an image of his deceased wife beside him while performing a Vedic sacrifice. The words
+
+aTigaccording to Aparārka mean that he may marry a woman not of the same varna. Both verses are q. by TTT (pp. 164-165) which summarises various views on this point.
+
+528a. art: get fra atraer arrês fūga: 1 77: T rial ... Thasfarar prega foÀ: 1 t. 9. #. II. 4. 6-8; compare time in 29.4. 34; 'पत्नी चेद्विधवा भूत्वा प्रमीयेत कदाचन । तदा श्रौताग्निशून्यत्वाशिमन्थ्येनैव वात। freHUET II. 121.
+
+La mama
+
+Bhandarkar Oriental Research Institute
+
+IV 1
+
+Cremation of widower and others
+
+Suddhiprakāśa p. 166 ) 5286 and Baud, P, S. III. 1. 9-13 state that a widower and a widow were to be cremated with fire generated on a kapāla (made red hot and then cow-dung thrown thereon), a brahmacarin and yati were to be cremated with uttapana (or kapālaja) fire, an unmarried girl and a boy whose Upanayana is not performed are to be cremated with fire produced from chaff. If an āhitāgni became patita or guilty of suicide in various ways or met death by challenging animals or snakes, his srauta fires were to be cast into water and smārta fire was to be cast on the place where four roads meet (or in water), his sacrificial implements were to be burnt (a smrti q. by Par. M. I. 2. p. 226, Parāśara V. 10-11, Vaik. Smärta V. 11) and he was to be cremated with ordinary fire.
+
+Manu V. 68, Yāj. III, 1, Parāśara III. 14, Visnu Dh. S. 22. 27-28, Brahmapurāņa quoted by Par. M. I. 2 p. 238 provide that in the case of abortion, the foetus, and a still-born child, and a child that has not yet struck teeth should be decked with clothes and the like and should be buried Children of tender years were not to be cremated, but there was some difference of opinion among ancient writers on the exact age at which one or the other method of disposal was to be resorted to. Pāraskara-gr. 5280 III, 10, Yāj. III. 1, Manu V.68-69, Yama and some others provide that a child that had not completed two years at death was to be buried under ground in an unsullied spot outside the village (other than the usual cemetery), the dead body being anointed with ghee and decked with flowers and sandal paste and that no burning nor offering of water nor the collection of bones was to be perfor med in this case. The relatives may all follow the body or not
+
+528b. ayi fanai KTTET ETI ara a Taratil तुषाग्निना च दग्धव्यः कन्यका बाल एव च। अग्निवर्ण कपालं तु कृत्वा तत्र विनिक्षिपेत् । treure aar Tara: a rozt: Il she q. by yrgy p. 166. The 3 नाग्नि is explained as दर्भायेऽग्नि तु प्रज्वाल्य पुनर्दभैस्तु संयुतः । पुनर्दर्भ तृतीयेग्निरेष 39: Fa: yrat q. by yic95T 166; Saitama... TESTI TETU मोपासनेन । ब्रह्मचारिणं कपालसन्तपनाग्निना ॥ उत्तपनीयेनेतरान् । एवं स्त्रियम्। बौ. पि. सू. III. 1. 9-13.
+
+528c. Terakhirga a Arariri signaatTÀI ETT STEICHTETT gafa i... aliamini TU III, 10; Fargarria
+
+Era I TATIT TITAT TATAGFATTI TA q. by Aare on T. III.1. Artfor: are verses addressed to th such as 'nāke suparnam' (Rg. X. 123.6 acc. to quest ), or a. 31. VI. 5. 3 SETERUTART THAT sa darat a TATAIFATA:ll, or tru
+
+: and the two following verses from tim VI.5.2 (acc. to 30 p. 871) and Fara a. (Hea ve p. 201)., Bhandarkar oriental
+
+Bhandarkar Oriental Research Institute
 
 228
 
-History of Dhar maśāstia
+• History of Dharmaśästra
 
 [Vol.
 
-and Yama allows the recital of the Yamasūktā (Ṛg. X. 14) and the versos in honour of the god Yama, Manu V 70, however, states other optional provisions viz, that the offering of water may be done (and therefore the cremation also of the dead body) in the case of infants that have struck teeth or after nāmakar ana. Thereforo there is an option as to cre mating an infant of less than two years, viz it may be buried or cremated after nāmakarana or after the appearance of teeth. In this case it is not necessary that all the sapında relatives should follow the dead body If a child is two years old or more at death and upanayana has not been per formed it must be cromated with ordinary fire and water must be offered silently. The same rule applies to a child whose cūčā (tonsure) had been performed before death as stated by Laugāksi. 528i The Vaik, Sm. S. V.11 lays down that there is no burping with fire until the 5th year for a boy and the 7th year for a girl After Upanayana the chuld was to be cremated according to the rites prescribed for an āhitāgoi 80 far as they could be applied (i, e, there would be cremation without sacrificial implements and the mantra 'asmat tvam abbijātosı' was not to be recited) The Baud 529 P. S. (II 3.10-11) provides that tliere is no cremation for children dying before the performauce of carla ( tonsure) and there is no pittimedha for those wlioge upanayana had not been perforined at death or for unmarried girls. It also provides that infants that have struck no teeth are to be buried with syllable 'om' and those that have had teeth with the Vyāhrtis The Mit. on Yaj. III 2 summarises the rules as follows: Before Nāmakarana there was to be only burial and no offering of water and the like; after Nāmakarapa up to the third year cremation and offering of water are optional with burial, from the third year up to upanayana there is cremation and also offering of water but silently (without mantras ), If Oūdā ceremony was performed before the 3rd year and the child died then also the same rule applied. After Upanayana the deceased vas to be cremated with ordinary fire but the procedure was to be the same as for an āhitāgni,
+and Yama allows the recital of the Yamasūktā (Rg. X. 14) and the verses in honour of the god Yama. Manu V. 70, however, states other optional provisions viz, that the offering of water may be done (and therefore the cremation also of the dead body) in the case of infants that have struck teeth or after nāmakarana. Therefore there is an option as to cre mating an infant of less than two years, viz. it may be buried or cremated after nāmakarana or after the appearance of teeth. In this case it is not necessary that all the sapinda relatives should follow the dead body. If a child is two years old or more at death and upanayana has not been per formed it must be cremated with ordinary fire and water must be offered silently. The same rule applies to a child whoge cūdā (tonsure ) had been performed before death as stated by Laugākşi. 528d The Vaik. Sm. S. V.11 lays down that there is no burning with fire until the 5th year for a boy and the 7th year for a girl. After Upanayana the child was to be cremated according to the rites prescribed for an ähitāgni so far as they could be applied (i. e. there would be cremation without sacrificial implements and the mantra "asmāt tvam abhijātosi' was not to be recited). The Baud. 529 P. S. (II. 3,10-11) provides that there is no cremation for children dying before the performance of caula (tonsure) and there is no pitrmedha for those whose upanayana had not been performed at death or for unmarried girls. It also provides that infants that have struck no teeth are to be buried with syllable 'om' and those that have had teeth with the Vyahrtis. The Mit, on Yāj. III.2 summarises the rules as follows: Before Namakarana there was to be only burial and no offering of water and the like; after Nāmakarana up to the third year cremation and offering of water are optional with burial; from the third year up to upanayana there is cremation and also offering of water but silently (without mantras); if Cūdā ceremony was performed before the 3rd year and the child died then also the same rule applied. After Upanayana the deceased was to be cremated with ordinary fire but the procedure was to be the same as for an āhitāgni.
 
-528d, तूष्णीमेवोदकं कुर्यानूष्णों सस्कारमेव च । सर्वेषां कराचूहानायनाच्छया Trellore q. by FATI, OD PT III 1
+FOOHA
 
-529. न पाकचौलात्ममीताना दहन विद्यते । नानुपनीतानां कन्याना या पितृमेधः । पो पि. II. 3. 10-11. सायण on ते आ III 21 explains 'आहिताग्निये सति यो ब्रह्मतत्वं जानाति तस्य दहनादिसणारी ब्रह्ममेध.। आहिसारमेय पहमाधिसरकार. सो fi : 1.1
+528d. effaat uitsoft, fe
 
-229
+e t 587 TOTAARATS NIET G. by frut. on Tr. III, 1. 29. 97155 store hierai ga naa Aracatatai #urai a fogames . .. II. 3. 10-11. ro on a 3TT. III. 21 explains surgarica चौ ब्रह्मतत्वं जानाति सस्य दहनादिसंस्कारो न झमेधः। आहिताग्मयों पहनादिसंस्कारिक सोलन fa hut: 1.
 
-IV1
+Bhandarkar Oriental Research InstituteIVI
 
 Disposal of an ascetic's corpse
 
-A yati (sannyāsin) was and is even now buried. In a previous note (n, 528b) a verse of Kratu is quoted that a brahmacārin and yati are to be cremated with uttapana fire, The explanation of the Suddhiprakāśa (p. 166 ) is that the word yati here means an ascetic of the Kutīcaka kind and quotes a 530 verse as to how the dead bodies of the yatis of four grades are to be disposed of. The 531 Baud. P. S. IIL11 gives a brief description which is adopted with some variations by the . Smrtyarthasara (p. 98) that contains a description of the death rites of a parivrājaka. 532 One slould go to the east or north of the village, he should dig ā pit (lit, a sacrificial place) as deep as the staff ( carried by the yati) under a palāśa tree or on a river bank or on some other pure spot to the accompaniment of the vyjālirtis; then he should sprinkle water thereon thrice repeating the seven vpāhrtis each time, should spread darbha grass on the bottom of the pit, should deck the dead body (with garlands, sandal paste ), deposit the body in the pit with the mantra (Tai 8.1.1.3.1) 'O Viṣṇul guard this offering (the dead body ).' He should place in the right hand the staff of the parivrājaka (breaking it into three parts ) with the mantra ' Viṣṇu took strides over this' (Ṛg. I.22.17, Vaj. S. V.15, Tai. S. 1.2,13,1). He places the skija (loop of strings ) in the left
+229
 
-___530 कुटीचकं तु प्रदहेत्पूरयेच बहूदकम् । हंसो जले तु निक्षेप्य. परहंस प्रपूरयेत् ॥ g. by स्मृत्यर्थसार p. 98, शुद्धिप्रकाश P. 166. For the four kinds of sannyasins, side of H. of Dh vol II. pp. 338-342.
+A. yati (sannyasin) was and is even now buried. In a previous note (n. 528b ) a verse of Kratu is quoted that a brahmacārin and yati are to be cremated with uttapana fire. The explanation of the Suddhiprakasa (p. 166 ) is that the word yati here means an ascetic of the Kuticaka kind and quotes a 530 verse as to how the dead bodies of the yatis of four grades are to be disposed of. The 531 Baud. P. S. III,11 gives a brief description which is adopted with some variations by the Smrtyarthasāra (p. 98 ) that contains a description of the death rites of a parivrājaka. 532 One should go to the east or north of the village, he should dig a pit (lit. a sacrificial place) as deep as the staff ( carried by the yati) under a palāśa tree or on a river bank or on some other pure spot to the accompaniment of the vyährtis; then he should sprinkle water thereon thrice repeating the seven vyāhrtis each time, should spread darbha grass on the bottom of the pit, should deck the dead body (with garlands, sandal paste ), deposit the body in the pit with the mantra (Tai. S.L1.3.1) 'OVisnu! guard this offering (the dead body ).' He should place in the right hand the staff of the parivrājaka ( breaking it into three parts ) with the mantra
 
-531 अथ परिवाजकस्य संस्कारविधि व्याख्यास्यामः पृथिव्या 'अक्षिम्यामोषधीभ्याम् । इति शरीरं निधाय 'भूमिभूमिमगान्माता मातरमप्यगात् । भूयारम पुत्रैः पशुभियों नो द्वेष्टि स भिद्यताम् । इत्युदरे पात्रं निधायाथ होतारमधीत्य तस्य दक्षिणे हस्ते कमण्डलं निदधाति ग्यातिभिर्देवयजनं पूरयेत् 'अग्निनाग्नि, समिध्यते। इत्यशेषसंस्कारोऽश्वमेधफलम् । तत्रोदाहरन्ति । शृगालश्च वायसा. खादन्ति चेहोषमाहारयेत्कर्तु. तस्मादविशङ्का वेदि प्रच्छाद येदिति बोधायन.। चौ पि.सू. III 11. अग्निना अग्नि: Is Ṛg I. 12.6 (- Tai. s. I. 4.463). The mantra भूमिभूमि occurs in धौ २. सू. I. 4.9 also, ___532. अथ परिव्राजकस्य संस्कारविधि.। ग्रामात्माचीमुदीची वागला ब्रह्मवृक्षस्याधस्तान दीतीरे वा शुचौ देशे वा दण्डप्रमाण देवयजन व्याहृतिभि खात्वा त्रि सहव्याहृतिभिः प्रोक्ष्य दर्भान्संस्तीर्यालंकृत्य शव निदधाति श्वने विष्णो हव्य रक्षस्वेति । इदं विष्णुर्विचक्रमे इति दक्षिणहस्ते दण्डं निदधाति । यदस्य पारे रजस इति सन्यहस्ते शिक्यम् । येन देवा पवित्रेणे ति मुखे जलपवित्रम् । साविया उदरे ब्रह्मभाजनम् । भूमि म्नेत्ति गुह्ये कमण्डलुम् । चित्ति: धुगिति दशहोत्रिभिरनुमन्त्रयते। नात्र शेपसंस्काराः पूर्वमनुष्ठितत्वात् । सर्वसङ्गनिवृत्तस्य ध्यानयोगरतस्य च । न तस्य दहनं कार्य नाशोचं नोदकक्रिया ॥ स्मृत्यर्थसार P. 98. The Baud.Gr Sesasatra IV. 17.9 reads 'गुह्ये कमण्डल चैव भूमिभूमिमगादितिः . The verse सर्वसन occurs in Band gr Sesasutra rv 17. 17-18. According to tbe Baud Db, S. II, 10 11' the parapheroglia of 2 yatı is. Teg: 117 जलपवित्र कमण्डलु पात्रमिति
+Visnu took strides over this' (Rg. I.22.17, Vāj. S. V. 15, Tai. S. I.2.13.1). He places the sikya (loop of strings ) in the left
 
-No creare not perforth are called
+530. कुढीचकं तु प्रदहेत्पूरयेच्च बस्दकम् । हंसो जले तु निक्षेप्यः परहंसं प्रपूरयेत् ॥ q. by स्मृत्यर्थसार p. 98, शुद्धिप्रकाश p. 166. For the four kinds of sannyasins, vide of H. of Dh. vol. II, pp. 338-342.
 
-ascetic should be obsefore
+1531. अथ परिवाजकस्य संस्कारविधिं व्याख्यास्यामः । पृथिव्यां 'अक्षि यामोषधीभ्याम् । इति शरीरं निधाय 'भूमिभूमिमगान्माता मातरमप्यगात् । भूयास्म पुत्रैः पशुभियों नो द्वेष्टि स भिद्यताम् । इत्युदरे पात्रं निधायाथ होतारमधीत्य तस्य दक्षिणे हस्ते कमण्डलुं निदधाति व्याहृतिभिर्देवयजनं पूरयेत् 'अग्निनाग्निः समिध्यते' इत्यशेषसंस्कारोऽश्वमेधफलम् । तत्रोदाहरन्ति । शृगालश्च वायसाः खादन्ति चेदोषमाहारयेत्कर्तुः तस्मादविशङ्कां वेदि प्रच्छाद येदिति बोधायनः। बौ. पि. सू. III. 11. अग्निना अग्नि: is Rg. I. 12.6 ( = Tai.s. I. 4.46.3). The mantra भूमिभूमि occurs in बौ. भ. सू. I. 4.9 also,
+
+_532, अथ परिव्राजकस्य संस्कारविधिः । ग्रामात्माचीमुदीची वा गत्वा ब्रह्मवृक्षस्याधस्तान दीतीरे वा शुचौ देशे वा दण्डप्रमाणं देवयजनं व्याहृतिभिः खात्वा विःसप्तव्याहृतिभिः प्रोक्ष्य दर्भान्संस्तीर्यालंकृत्य शर्व निद्धाति श्वभ्रे विष्णो हव्यं रक्षवेति । इदं विष्णुर्विचक्रमे इति दक्षिणहस्ते दण्डं निदधाति । यदस्य पारे रजस इति सव्यहस्ते शिक्यम्। येन देवाः पवित्रेणे ति मुखे जलपवित्रम्। साविया उदरे ब्रह्मभाजनम् । भूमिभूम्नेति गुह्ये कमण्डलम् । चित्ति: भ्रागति दशहोनिभिरनुमन्त्रयते। नात्र शेषसंस्काराः पूर्वमनुष्ठितत्वात् । सर्वसङ्गनिवृत्तस्य ध्यानयोगरतस्य च । न तस्य दहनं कार्य नाशौचं नोदकक्रिया ॥ स्मृत्यर्थसार p. 9%aurihe Baud. Gr. Sesasātra IV. 17.9 reads 'गुह्ये कमण्डलं चैव भूमिभूमिमगादिति, verse सर्वसङ्गा occurs in Baud gr. Sesasutra IV. 17. 17-18. According to the Baud. Dh. S. II. 10.11 the paraphernalia of a yati is : यह शिवय
+
+जलपवित्रं कमण्डलं पात्रमिति.
+
+LISA
+
+Bhandarkar Oriental Research Institute
 
 230
 
-History of Dhiar maśīstra
+History of Dharmaśāstra
 
-[Vol. hand with the mantra "what is beyond this world' (Tai, S. IV 2,5.2 ), the piece of cloth used as a water-strainer on the mouth with the words by which strainer the gods' (Tai. Br. I 4.8.6), the pot on his belly with the Gayatri stanza (Ṛg. III.62.10, Vāj S III, 35, Tai S, 15 6 4), his water pot near his private parts with the mantra 'earth went to earth'. He then inpokes with the mantras beginning with 'cittih sruk' (ten sentences in Tai, Ā, Maitrāyani S 19 1 which are called 'oaturhotārah") 533 The other rites are not performed here as they were performed before No cremation should be done, no āśauca should be observed nor should water be offered to (an ascetic who is dead) who was free from all attachments and who had given bimself up to meditation, The Smrtyarthasāra adds that no ekoddista śrāddha nor sapindīkarana ss performed for an ascetic, but only par vana on the 11th day, that a kutīgaka should be cremated, the babūdaka should be buried, hansa should be thrown into water and paramahamsa should be thoroughly buried. The Nidayasindhu (pp 634-635) quotes the Smrtyartha sāra and then adds a few details from Brhat-Saunaka, riz that the dead body of a yatr should be bathed with the Purusasūkta (Ṛg X, 90), then the pit (dug for burial) should be sprinkled eight times with the syllable 'Om'on all sides; having deposited the body in the pit with the Yajus formula 'O Viṣṇu i guard this offering. (Tai S I 1. 3.1) and with 'Om', he should place in the right hand the staff with the mantra "Visou took strides over this' (Ṛg. I 22. 17), then pierce the crown of the head with & conch by repeating the mantra 'bhūr-bhuvah-svah', be should fill up the pit with salt to the recitation of the Purusasūkta (Ṛg. X. 90). He should fill up the pit thoroughly (with sand) in order to guard against jackals and dogs and the like (exhuming the body with their paws) The Dharmasindhu (p 497) adds some details particularly as to the number of hymns and mantras to be repeated It states that the crown of the head should be pierced with a conch or an axe. that one who is unable to do this gliould smash a ball of jaggery placed on the head. It adds that no yati except kuticaka should be cremated. In modern times a sannyāsin is always buried and not cremated, since kuticaka and babūdaka kinds of pati are no longer in vogue and it is only the paramahamsa that is prevalent in the whole of India. The reason why ascetics were buried and pot cremated
+Voi.
 
-· 533, Vide H of Dh, vol. II. p. 993 dotes 2247 and 2248 for the Dasabotārab and their relation to daturhotos,
+hand with the mantra "what is beyond this world' (Tai. S. IV.2.5.2 ), the piece of cloth used as a water-strainer on the mouth with the words by which strainer the gods' (Tai. Br. 1.4.8.6), the pot on his belly with the Gāyatri stanza (Rg. III.62.10, Vāj. S. III. 35, Tai. S. 1.5.6.4), his water pot near his private parts with the mantra earth went to earth'. He then invokes with the mantras beginning with 'cittih sruk' (ten sentences in Tai. Ā., Maitrāyaṇi S. I 9. 1 which are called 'caturhotāraḥ”).533 The other rites are not performed here as they were performed before. No cremation should be done, no āśauca should be observed nor should water be offered to (an ascetic who is dead) who was free from all attachments and who had given himself up to meditation. The Smrtyarthasāra adds that no ekoddista śrāddha nor sapindikarana is performed for an ascetic, but only pārvana on the 11th day, that a kutīcaka should be cremated, the bahüdaka should be buried, haisa should be thrown into water and paramahamsa should be thoroughly buried. The Nirnayasindhu (pp. 634-635) quotes the Smrtyartha sāra and then adds a few details from Brhat-Saunaka, viz, that the dead body of a yati should be bathed with the Purusasūkta (Rg, X, 90), then the pit (dug for burial) should be sprinkled eight times with the syllable 'Om'on all sides; having deposited the body in the pit with the Yajus formula 'O Visnu! guard this offering' (Tai, S.1.1.3.1) and with 'Om', he should place in the right hand the staff with the mantra “Vişnu took strides over this' (Rg. I. 22.17), then pierce the crown of the head with a conch by repeating the mantra 'bhūr-bhuvah-syah', he should fill up the pit with salt to the recitation of the Purusasūkta (Rg. X. 90). He should fill up the pit thoroughly (with sand) in order to guard against jackals and dogs and the like (exhuming the body with their paws). The Dharmasindhu (p. 497) adds some details particularly as to the number of hymns and mantras to be repeated. It states that the crown of the head should be pierced with a conch or an axe, that one who is unable to do this should smash a ball of jaggery placed on the head. It adds that no yati except kuțicaka should be cremated. In modern times a sannyāsin is always buried and not cremated, since kuțicaka and bahūdaka kinds of yati are no longer in vogue and it is only the paramahamsa that is prevalent in the whole of India. The reason why ascetics were buried and not created
+
+POONA
+
+FOUNDED
+
+1917
+
+533. Vide H. of Dh, vol. II. p. 993 notes 2247 and 2248 for them Dasabotärab and their relation to caturhotrs.
+
+Bhandarkar Oriental Research Institute
 
 231
 
+IV
+
 Why ascetics were not cremated
 
-appears to me to be as follows; part of the procedure of becoming an ascetic consisted in giving up his srauta fires and throwing in fire his sacrificial wooden implements (vide H. of Dh. vol. II. p. 954). One of the rules for ascetics is that he should not kindle siauta or smārta fires por kindle ordinary fire for cooking his food but was to subsist on cooked food obtained by begging (HI, of Dh. yol I pp. 933-934). The householder was cremated with his srauta or smārta fire but the ascetic, having abjured these, was without any fire and was therefore buried. The Vaikhanasasmārtasūtra X. 8 (ed. by Caland ) contains a brief description of the burial of an ascetic who was not an āhitāgni and the cremation of an ascetic who was āhitāgni,
+appears to me to be as follows; part of the procedure of becoming an ascetic consisted in giving up his srauta fires and throwing in fire his sacrificial wooden implements (vide H. of Dh. vol. II. p. 954). One of the rules for ascetics is that he should not kindle śrauta or smärta fires nor kindle ordinary fire for cooking his food but was to subsist on cooked food obtained by begging (H. of Dh. vol. II, pp. 933-934). The householder was cremated with his srauta or smārta fire but the ascetic, having abjured these, was without any fire and was therefore buried. The Vaikhānasasmārtasutra X. 8 (ed. by Caland ) contains a brief description of the burial of an ascetic who was not an āhitāgni and the cremation of an ascetic who was āhitāgni.)
 
-Special rules were laid down about the cremation of women dying in or immediately after child-birth and women dying while still in their monthly illness. A smrti quoted by the Mit and the Smrti-candrikā (I p. 121) provides that in the case of a sūtehū, one should take water and pancagavya in a jar, should repeat holy texts (such as "apo hi sthā' Ṛg. X. 9. 1-9, verses addressed to varuṇa) over them, should then bathe the sūtikā with water and pañcagavya and then cremate the body. A woman in her monthly illness was to be similarly bathed and she was to be covered with another garment and then cremated. Vide Garuḍapurāna I 4. 171 ff and Nirnayasindhu p. 621. Similarly, elaborate rules are pres cribed about the rites of cremation in relation to the death of & pregnant woman (vide Baud P. S. II, 9, Nirnayasindhu p. 622) which are passed over here.
+Special rules were laid down about the cremation of women dying in or immediately after child-birth and women dying while still in their monthly illness. A smrti quoted by the Mit. and the Smrti-candrikā (I. p. 121) provides that in the case of a sütikā, one should take water and pañcagavya in a jar, should repeat holy texts (such as 'āpo hi sthā' Rg. X. 9. 1-9, verses addressed to Varuna) over them, should then bathe the sütikā with water and pañcagavya and then cremate the body. A woman in her monthly illness was to be similarly bathed and she was to be covered with another garment and then cremated. Vide Garudapurāņa II, 4. 171 ff and Nirnayasindhu p. 621. Similarly, elaborate rules are pres cribed about the rites of cremation in relation to the death of a pregnant woman (vide Baud. P. S. III, 9, Nirnayasindhu p. 622) which are passed over here.
 
-Dead bodies were disposed off in different ways at different times and in different countries The various methods of dis posal vere cremation, burial underground, water burial, expo sure of the body for being destroyed $34 by vultures and other birds (as among Zoroastrians) or beasts, being preserved in
+Dead bodies were disposed off in different ways at different times and in different countries. The various methods of dis posal were cremation, burial underground, water burial, expo sure of the body for being destroyed 534 by vultures and other birds (as among Zoroastrians) or beasts, being preserved in
 
-534. Accordiog to the Parst scriptures burying a bumao corpse in the earth was a grave sia and if the body was not disinterred there was no atonement 10 the case of a professor of the law of Mazd or one who had tudied it and if he did not disinter it within six months or within a year, je sas liable to receive fire hundred or a thousand stripes respectively Vide Vendidad, Eargard III (S B E Vol. 4 pp 31-32). Corpses were to be laid down on the summits of bogataias to be devoured by birds and dogs and the exposure of corpses kas tke most striking practice of the Mazdean profession (S B E Vol IV part 1 Intro p XLV).
+534. According to the Parsi scriptures burying a human corpse in the earth was a grave sin and if the body was not disinterred there was no atonement in the case of a professor of the law of Mazd or one who had studied it and if he did not disinter it within six months or within a year, he was liable to receive five hundred or a thousand stripes respectively. Vide Vendidad, Fargard III (S.B.E. Vol. 4 pp. 31-32). Carpses were to Be laid down on the summits of mountains to be devoured by birds and dogs and the exposure of corpses was the most striking practice of the Mazdean profession (S, B. E. Vol. IV part 1 Intro. p. XLV),
 
-cases such aans hit upon thiet of dead bodies
+1917
+
+Ta Bhandarkar Oriental Research Institute
 
 232
 
-History of Dhiar maśāstra
+History of Dharmaśāstra
 
 [Vol.
 
-caves, 535 or being mummified (as in Egypt). The general rulo in India froin times of which we have literary evidence was cremation; though burial took place in certain cxceptional cases such as in the case of infonts, ascetics &o How tho ancient Indians hit upon this scientific though rather heart lending method of the disposal of dead bodios it is difficult to say 536. Burials were not unknown in India eren in rory carle times, as Atharvareda 5. 30 14 (mā nu bhumigrho bhurat) and 18 2 34 show. The last may be rendered as follows: O Agnil bring all those piits here in order that they may par take of the offering, those (pitṛs whose bodies) were buried or cast aside (exposed) or burnt or deposited above (on troos or in caves ? )s36. In the word 'anagnidagdhāh' occurring in Rs. X. 15. 14, scholars soe a reference to burial. But it is quito possible that no burial is referred to. If some ancestors worc killed far from home in a fight or if they wore kidnapped and killed by enemies, their bodies might havo beon Jeft uncared for in a distant land and not cremated nor buriod. A passage in the Chāndogya 537 Up. (VIII, 8. 5) is construed by some scholars as referring to burials. It may be rendored as followy. Therefore they designate evon now a man, an asura who dong not make gista, who has no faith and who offors no sacrifices; for this is the esoteric doctrino of Asiiras. They dock out the body of the dead with bhihsā (perfumes and forers ?), with s raiment by way of decoration, and think that they will thuis conquer the next world. Though the passage is not quito clear, the reference to Asuras, their usage of docorating the dead body and thereby being able to gain the nort world sonder it probable that the usage of the burial of the body among Asuras is roforred to. In Ṛg. VII 89.1 tho sago prays 'O varuṇa!
+caves, 535 or being mummified (as in Egypt). The general rule in India from times of which we have literary evidence was cremation; though burial took place in certain exceptional cases such as in the case of infants, ascetics &c. How the ancient Indians hit upon this scientific though rather heart rending method of the disposal of dead bodies it is difficult to say 536 Burials were not unknown in India even in very early times, as Atharvaveda 5. 30. 14 (mā nu bhumigrho bhuvat) and 18. 2. 34 show. The last may be rendered as follows: O Agnil bring all those pitrs here in order that they may par take of the offering, those (pitrs whose bodies) were buried or cast aside (exposed) or burnt or deposited above (on trees or in caves ? )536a. In the word 'anagnidagdhāh' occurring in Rg. X. 15. 14, scholars see a reference to burial. But it is quite possible that no burial is referred to. If some ancestors were killed far from home in a fight or if they were kidnapped and killed by enemies, their bodies might have been left uncared for in a distant land and not cremated nor buried. A. passage in the Chāndogy a 537 Up. (VIII, 8. 5) is construed by some scholars as referring to burials. It may be rendered as follows: Therefore they designate even now a man, an asura who does not make gifts, who has no faith and who offers no sacrifices ; for this is the esoteric doctrine of Asuras. They deck out the body of the dead with bhikṣā (perfumes and flowers ?), with a Taiment by way of decoration, and think that they will thus conquer the next world. Though the passage is not quite clear, the reference to Asuras, their usage of decorating the dead body and thereby being able to gain the next world render it probable that the usage of the burial of the body among Asuras is referred to. In Rg. VII. 89.1 the sage prays O Varuna!
 
-535 In Rome tac boncs of over 4000 monks are prescried in the ralls of the subterrancan burial chapcls in the Capuchin Church near the Piatra Barberia. For a description of the catacombs in Rome, adc Tucle's * Tuncral customs. p. 136 ( quoting from Frothingham)
+535. In Rome the bones of over 4000 monks are preserved in the walls of the subterranean burial chapels in the Capuchin Church near the Piazza Barberini. For a description of the catacombs in Rome, vide Puckle's
 
-536. Vulhamy in 'Immortal maap, 34 ) throws out the ruggalan tbat onc of thc purposes of crcmntion may hae been the conspicie dric tion of the humro aspect of the ghost or its transferenct to relor loca* which contact with milind in any sbaterizi scorc sairrorsble
+Funeral customs' p. 136 ( quoting from Frothingham).
 
-536 1. Pozriteret i grur SHIFAL I pityrag SI TITT
+536. Vulliamy in 'Immortal man' (p. 34) throws out the suggestion that one of the purposes of cremation may have been the complete destruc tion of the human aspect of the ghost or its transference to a region from which contact with mankind in any material sense was impossible.
 
-4 18 2 34, 537 T UTTGTTTTTTTTTTTTTTTTTTTT grotici cari रमेतरप शरीरं मिक्षा गसगेनालरंजी भंगपना atो पो ma OT. F VIII. 8,5,IV)
+1536 2. ये निखाता ये परोप्ता ये दग्धा ये चोद्धिताः। सर्वास्तानग्न आ वह पितृहवित era il 37 18.2.34. 2537. तस्मादप्ययेहाददानमश्रधानमयजमानमाहुरासुरो यतेत्यसुराणां ह्येषोपनिष त्प्रेतस्य शरीरं भिक्षया वसनेनालङ्कारेणेति संस्कुर्वन्त्येतेन ह्यमुं लोकं अध्यन्तो मन्यन्ते ।
+
+T. GT, VIII, 8,5,
+
+1917
+
+Bhandarkar Oriental Research Institute
+
+IV)
 
 Burial
 
 233
 
-may I not go to the earthen house'. This is probably & re ference to buria). Besides, after the charred bones were collec ted, they were placed in an urn or pot, which was buried in the ground and after a good deal of time & mound (śmaśāna) was built upon the bones as will be seen immediately from a passage in the Sat Br, and other sources In A V. XVIII % 25 it is said, 'may the tree not oppress them, nor the great goddess Earth'. This is probably a reference to a coffin and burial.
+may I not go to the earthen house'. This is probably a re ference to burial. Besides, after the charred bones were collec ted, they were placed in an urn or pot, which was buried in the ground and after a good deal of time a mound (smaśāna) was built upon the bones as will be seen immediately from a passage in the Sat. Br, and other sources. In A, V. XVIII. 2. 25 it is said, 'may the tree not oppress them, nor the great goddess Earth'. This is probably a reference to a coffin and burial.
 
-It is somewhat curious that the progressive nations of the West, believing in a literal interpretation of the Biblical words (such as Matthew 22.23-33, Mark 12. 18-27 and Luke 20. 37-38, John 5. 19-31 and 6. 32-56) about physical resurrection of the dead, held fast by burial alone and up to the end of the 19th century people in Christendom would not allow the cremation of a dead body. The case of Reg. v. Price illustrates how deep the sentiment against cremation was and how popular fury prevented Price from disposing of the body of his dead child of five months by petroleum fire in a field, how he was prosecuted for two offences viz. misdemeanor at Common Law for burning a dead body instead of burying it and misdemeanor on the ground that he attempted to burn the body with intent to prevent an inquest being held on it by the coroner.538 It was only in 1902 that the Cremation Act (% Edw. 7 Ch. 8) was passed empowering burial authorities to establish crematoria on plans approved by the Minister of Health. The Catholic Church does not even now allow cremation. The ancient Romans on the other hand held crepation as the honourable means of the disposal of the dead body but reserved burial for the suicide and the murderer.
+It is somewhat curious that the progressive nations of the West, believing in a literal interpretation of the Biblical words (such as Matthew 22.23-33, Mark 12. 18-27 and Luke 20. 37-38, John 5. 19-31 and 6. 32-56) about physical resurrection of the dead, held fast by burial alone and up to the end of the 19th century people in Christendom would not allow the cremation of a dead body. The case of Reg. v. Price illustrates how deep the sentiment against cremation was and how popular fury prevented Price from disposing of the body of his dead child of five months by petroleum fire in a field, how he was prosecuted for two offences viz, misdemeanor at Common Law for burning a dead body instead of burying it and misdemeanor on the ground that he attempted to burn the body with intent to prevent an inquest being held on it by the coroner.538 It was only in 1902 that the Cremation Act (2 Edw.7 Ch. 8) was passed empowering burial authorities to establish crematoria on plans approved by the Minister of Health. The Catholic Church does not even now allow cremation. The ancient Romans on the other hand held cremation as the honourable means of the disposal of the dead body but reserved burial for the suicide and the murderer.
 
-Embalming the dead for some time at least was not quite unknown in India. The Sat, Śr, 29. 4, 29 and Vaik. Śr, 31.23 539 prescribe that if an ābitāgni died away from his people his corpse should be laid down in a tub or trough filled with sesaine oil and brought home in a cart. In the Rāmāyaṇa it is several times said that the body of Dasaratha was placed for several
+Embalming the dead for some time at least was not quite unknown in India. The Sat. Sr. 29. 4. 29 and Vaik. Sr. 31.23 539 prescribe that if an āhitāgni died away from his people his corpse should be laid down in a tub or trough filled with sesame oil and brought home in a cart. In the Rāmāyana it is several times said that the body of Dasaratha was placed for several
 
-538 (1884) 12 Q.B.D P 247. Ultimately Price was acquitted on both chaṚges.
+538 (1884) 12 Q. B. D. p. 247. Ultimately Price was acquitted 0. both charges.
 
-539. आहिताग्निमजने प्रमीतं तैलदोण्यामवधाय शकटनाहरन्ति निर्मन्येन पावराया उष्णाजिनेऽस्थानि निधापाहतेन वाससा संवेष्टय दीर्वशे मध्यानधो निधाना. प्रयता
+539. BITTE TEHTÄ TATA TOYUr4 starexia e कृष्णाजिनेऽस्थानि निधायाहतेन वाससा संवेष्टय दीर्घवंशे प्रबंध्यानधी निधानाः प्रियता
 
-THAT SITT FETT 29 4. 29; almost the same words occur in us 3123 p. 312 (Caland's ed.
+FATHTETT STETS I UT. 29.4. 29; almost the same words occupano da oriental Tema 31.23 p. 312 (Caland's ed:)
 
-S
+H. D. 30
 
-2. D. 30
+Bhandarkar Oriental Research Institute
 
 234
 
+History of Dharmaśāstra
 
+(Vol.
 
-(Vol. days in a tub containing oil till the arrival of Bharata (vido Ayodhya 66. 14-16, 76.4). In the Viṣṇupurāna sio it is stated that the body of Nimi being covered with oil and fragrant sub stances did not become decomposed and looked as if the doath was recent,
+days in a tub containing oil till the arrival of Bharata (vide Ayodhyā 66. 14-16, 76.4). In the Vişnupurāņa 540 it is stated that the body of Nimi being covered with oil and fragrant sub stances did not become decomposed and looked as if the death was recent.
 
-What the state of things was before the composition of tho Ṛgveda cannot be said with certainty. There is no general agreement as to the age of the Ṛgveda and of the ruins found at Mohenjo-daro and Harappa. Sir John Marshall (in Mohonjo daro vol. I. p. 86) refers to complete burials, partial burials and post cremation burials. The excavations at Lauriga sil Nandan garh have brought to light supposed Vedic burial mounds in which has been found a small repousse golden plaque bearing the figure of a nude female, the Earth Goddess These and the disposal of corpses in paleolithic ages are matters for archaoo logists and are outside the proper scope of the present work.
+What the state of things was before the composition of the Rgveda cannot be said with certainty. There is no general agreement as to the age of the Rgveda and of the ruins found at Mohenjo-daro and Harappa. Sir John Marshall (in Mohenjo daro vol. I. p. 86) refers to complete burials, partial burials and post cremation burials. The excavations at Lauriya 541 Nandan garh have brought to light supposed Vedic burial mounds in which has been found a small repousse golden plaque bearing the figure of a nude female, the Earth Goddess. These and the disposal of corpses in paleolithic ages are matters for archaeo logists and are outside the proper scope of the present work.
 
-The Hāralata (p. 126 ) quotes a passage from the Adipurada to the effect that Magas (Magians) are buried undoṚground and that Daradas and Luptrakas (?) go away after placing their dead relatives on trees. S41a
+The Hâralata (p. 126 ) quotes a passage from the Adipurana to the effect that Magas (Magians ) are buried underground and that Daradas and Luptrakas (?) go away after placing their dead relatives on trees. 541c
 
-It appears that among early Buddhists in India hardly any religious ceremony was performed, whether the person docoased was a layman or even a member of the Order. In tho Mahāparinibbāna Suttanta the death and the funeral cererronios of the great founder of Buddhism are described in chaptor V ( Section 14 ff). All that is gathered from that chapter is that the favourite disciple of the Buddha, Ananda, uttered a stanza, some of the disciples that were not free from passion wept and fell beadlong on the ground, while others (who wora Arobots) bore the grief with composure, that next morning Ananda went to the Mallas of Kusinārā, that the Mallas took perfumea,
+It appears that among early Buddhists in India hardly any religious ceremony was performed, whether the person deceased was a layman or even a member of the Order. In the Mahaparinibbāna Suttanta the death and the funeral ceremonies of the great founder of Buddhism are described in chapter VI (Section 14 ff). All that is gathered from that chapter is that the favourite disciple of the Buddha, Ananda, uttered a stanza, some of the disciples that were not free from passion wept and fell headlong on the ground, while others (who were Arabats ) bore the grief with composure, that next morning Ananda went to the Mallas of Kusinārā, that the Mallas took perfumes,
 
-540. निमेपितरकुरीरमतिमनोहर लगन्याटिभियपरिक्रयमाण नेय दादिक दोषमयाप at ATAT EU i reg Cros IV. 5.7.
+540. निमेरपि तच्छरीरमतिमनोहरं तैलगन्धादिभिरुपस्क्रियमाणं नैव क्लेदादिकं दोषमवाप a gara uti facuycrot IV. 5.7.
 
-541 Vide T Block in 2. D. M. G, vol. 60 pp 227-232 for the cxc.7 vations at Lauriya, also Bulletin of tho Archacological Survey of India for megalitbic burial and ura ficlds in South India, Prof v G Chlide in 'Nian. for 1945 p 13 for the disposal of corpses 1o Palcolithic, Ncolitbic nad Bronze ages and Prof, E 0. James ia 'Christiaa Myth and Ritual', chap' VII OO 'Lagt ritos'
+541. Vide T. Bloch in 2. D. M. G. vol. 60 pp. 227-232 for the exca vations at Lauriya; also Bulletin of the Archaeological Survey of India for megalithic burial and urn fields in South India ; Prof. V. G. Childe in Man. for 1945 p. 13 ff. for the disposal of corpses in Paleolithic, Neolight and Bronze ages and Prof. E. O. James in 'Christian Myth and Rituprowclip VII on 'Last rites.'
 
-541a. मगा भूमी निनन्यन्ते परदाय भूतान् सदा। आसच (ज्य1) पसे गरमात GEEFT F741759 araua. by great p. 126 such explain: 7777 धर्मस्त पनमायके महावितपदेशे वर्षमेकमवलाम्प स्थापनम् । तती गानरनिरा .
+FOUNDED 541a. Faqat fare arata e reti APT (59?) it sofa
 
-sed One toate on the Parfumes, la sroves homage toit
+FT4 Tra i stragir q. by ergar p. 126 which explain THEO 9931998 safada para foracia T a re...
+
+INSY
+
+FOUNDED 1917
 
 IV)
 
@@ -679,490 +785,732 @@ Disposal of Buddha's body
 
 235
 
-garlands, all musical instruments and five hundred suits of apparel, the Mallas passed seven days in paying bomage to the body of the Buddha that lay in the sala grove with dancing, hymns, music, garlands and perfumes, in making canopies of their garments, that on the 7th day they carried the body of the Blessed One to the south but owing to a miracle (described in sections 29-32) they carried it through the city by the north gate and laid the body to the east (the general rule was that a dead body was not to be carried through the middle of a village, and was to be carried to the south but as Buddha was so extraordinary and holy the above was allowed to be done ). The body of the Buddha was then wrapped in a new cloth, then with cotton wool, then in a new cloth and so on till 500 layers of cloth and cotton wool covered the body The body was then placed in an oil vessel of iron which was covered with another oil vessel of iron, Then a funeral pile of all kinds of perfumes was built upon which the body was placed. Then Mahākassapa and five hundred brethren accompanying him arranged their robes on one ahoulder (representing the way in which the sacred thread is arranged among the brābmapas), bowed down with clasped hands, went round the body reverently thrice, The body was then burnt and only bones remained. Then the narrative states that Ajataśatru, king of Magadha, the Licohavis of Vesāli and several others claimed portions of the relics of the Buddba. Then the relics were divided into eight parts. Those who received them built mounds (Thūpas) over the relics and the Moriyas who got only embers also built a Thūpa over them and a brahmaṇa Dona (Drona) built a mound over the jar (kumbha) in which the bones were collected. Mr. Rhys Davids remarks (8. B. E vol. XI Introduction p. XLV) 'though funerals are naturally not infrequently mentioned in the historical books and in the Birth stories there is nowhere any reference to a recognised mode of performing any religious worship'. It will ba noticed that the Buddhist ritual 512, though simple, agrees closely with some of the rules of Aśv. gr.
+garlands, all musical instruments and five hundred suits of apparel, the Mallas passed seven days in paying homage to the body of the Buddha that lay in the śāla grove with dancing, hymns, music, garlands and perfumes, in making canopies of their garments, that on the 7th day they carried the body of the Blessed One to the south but owing to a miracle (described in sections 29-32) they carried it through the city by the north gate and laid the body to the east (the general rule was that a dead body was not to be carried through the middle of a village, and was to be carried to the south but as Buddha was so extraordinary and holy the above was allowed to be done). The body of the Buddha was then wrapped in a new cloth, then with cotton wool, then in a new cloth and so on till 500 layers of cloth and cotton wool covered the body. The body was then placed in an oil vessel of iron which was covered with another oil vessel of iron. Then a funeral pile of all kinds of perfumes was built upon which the body was placed. Then Mahākassapa and five hundred brethren accompanying him arranged their robes on one shoulder (representing the way in which the sacred thread is arranged among the brahmanas), bowed down with clasped hands, went round the body reverently thrice. The body was then burnt and only bones remained. Then the narrative states that Ajātasatru, king of Magadha, the Licchavis of Vesāli and several others claimed portions of the relics of the Buddha. Then the relics were divided into eight parts. Those who received them built mounds (Thüpas) over the relics and the Moriyas who got only embers also built a Thūpa over them and a brāhmaṇa Dona (Droņa) built a mound over the jar (kumbha) in which the bones were collected. Mr. Rhys Davids remarks (S. B. E. vol. XI Introduction p. XLV) 'though funerals are naturally not infrequently mentioned in the historical books and in the Birth stories there is nowhere any reference to a recognised mode of performing any religious worship'. It will be noticed that the Buddhist ritual 542, though simple, agrees closely with some of the rules of Āśv. gr.
 
-542. Vide Fleets' papers is J. R. A, S. for 1906 pp 655-671 and 681-913 on the disposal of the bones and ashes of Buddha based op the Habāpanioidbāna-sutta, the Divyāvadžaa, Pa Hlao's work, the Sumangala vilēsioi and oiber writings. He therein states his view that the Piprabzvz relic vase, on which there is an inscription that is the oldest Indian Inscrip. tion found up to date (it is about 375 B C,) and in which 700 articles rere
-
-(Continueça of the next Page 1
-
-236
-
-disay includins eren is born is sure tip
-
-Erstory of DharuśasTO
-
-[Vol. After the relatives (sons and the like) of a deceased persoa hare offered Frater, have taken & bath and after they emerge from the Fater (of a river or the like) and are sitiing on a plot of soft green grass, elderly persons should talk to them (in order to lessen their grief) about ancient narratises (Vaj. II 7 and G, P.S. I 4,2543). Viṣgu Dh. S. 20.22-53 contain a long disquisition on the grip that Kala (Time, Death) has on ETETI body including eren Indra, gods, daivas, great bings and sages, hov ereryone that is born is sure to die (ie Death is insti. table), and how no one (except the rife) can folor the depar ted on his journey to the other torld, how the good actions and bad actions will accompany the spirit of the dead, hor érādāba confers great benefit on the departed; it rinds up that thereiura the surviving relatives should offer śraddha and gire up lamen tations that help no one, that it is dharnza that alone iollos te goul Ehrough his tranderings 54 Vāj II 8-11(=Garuḍapurība II. 4. 81-84) are verses in & similar strain and are intended to serve the same purpose. They are: 'He, ho seeks everlasting ness in this human life that is as devoid of strength as the stock of a plantain plant, and that is as inconstat 85 3 bubble of water, is a deluded person. What is the use of lamentation if the body, created ont of the fire elements by reason of actions performed in & former life, returns to those five elements? The earth, the ocean and the gods
-
-(Corfisved from the lasi sage) found, eosbrides the relics, got of the Bhagarit Bodöba, but cibis biasde.. Fleet further refers to the tradition that the great emperor Asoka dag op Seren out of the eigbt monods of the relics of Baddha and transferred almost all their contents to 84000 boxes of gold and silver and distnbuted them througbont India and built noaneats (stūpas) orer the Roys Davids in Baddhist India' (pp. 78-50), after stating that deceased pero Sons of distiaction either by birth or sealth or owcial status or as poklic teachers were cremated and the ashes mere banged oain a fogs (Pali tbpa. Temates 'The dead bodies of ordinary people Fete disposed of io a DdiqCC Fay. They were pot anar in a public place There as a rule the bodies es the remains of the pfre sere pot buried but left to be destroyed by birds er beasts or dissipated by the process of batusal decay.
-
-543. here on G IPT Free Fu Tom. TESTOSTA CAUÇÀVEE I. 4.2.
-
-544 It may be noted tbat Visag DN.S 20, 29, 49-29 22 51-550 thic tame or almost the same as Biagaradgit II, 27, 28, 13, 23-25 respectively Vispa Dh. S. 20. (Fathā ābestsahasresa Eco) is the $29. ts Sāotipava 151, 16, 187.27 abd 323,16 and Visagdhunottara II 75 7; aid Viego Dz. S, 20.41 is the same as Saati 173. 15 and 322. 73. Teci. TS (FREE PP 91-97) quotes 97. (III, 7.11). Fry 20.22-53 and that II. 13, 26.
-
-Consoling words to the bereaved
-
-237
-
-IVI
-
-are destined to go to destruction (at some future date when pralaya takes place). How is it possible that the world of mortals which is (evanescent) like foam will not meet with destruction? As the departed spirit, being helpless, has to swallow the tears and phlegm cast by kinsmen, they should not weep but should perform (obsequial) rites according to their ability.' Gobhilasmrti III. 39 uṚges 'do not lament for what is perishable and what is the characteristic (destiny) of all beings. Exert yourselves in the performance of meritorious acts which will accompany you' Gobhila then quotes Yāj. TI, 8-10 and one verse from the Mahābhārata 544a viz. 'All collections are to end in dissipation, all rise is to end in fall, all unions in separa tion and life in death'. Aparārka quotes the Rāmāyaṇa and Vasudeva's words from the Salyaparya to Dhrtarāstra on the death of Duryodhana, The Par. M. 1.2 pp. 292–93, the Suddhi prakāśa pp. 205-206 and several other works quote the verges of Vispu, Yāj. and Gobhila.
-
-The Garuḍapurāna here (II. 4. 91-100) waxes eloquent over the immolation of a wife on her husband's funeral pyre, over the miraculous power of a pativratā, and states that a brāhmana woman should not burn herself apart from her husband's body (or afte, he is cremated), but that ksatriya and other women may do so, that the practice of sati is common to all women even including chandāla women, but pregnant women or those that havo young children should not do so and that a woman does not beconie free from the liability to be born again and again as a woman until she becomes a Sati.
-
-After listening to the philosophical discourse of elders the relatives return to their house, placing children in front and standing at the door of the house, they with minds under control bite the leaves of the nimba tree, perform Öcamana, touch fire, water, cowdung, white mustard; then they should enter their house after slowly , (firmly) planting their foot on a stone. According 545 to Saṅkha the relatives should touch the tendrils of Dūrvā, fire and a bull, should offer a pinda to the departed at
-
-544a. Ta Frant: 4F 73297: 1 FIT FTARIT ATURE
-
-* This is suaug 331.20 (10 330. 20 in Citraālā edition). 545. पूर्णमालमग्निं वृषभं चालण्य गृहबारे मेताय पिण्वं दत्ता पश्चात्यविशेषः। शश Q. by PACT ON T. III. 13, UT AT. I ? p. 293,
-
-2:35
-
-Fisiori de Diarizasino
-
-the door of the torse and then enter is. Buijsrāp: 45g IT Saddhitautta prescribes the mostras to be recited in inchis sami, the stone (aśmul, fire and provides surver that set and it goat should bs tonced boiding fire besteen themsels and these animals: focd should be purchased or obtained in another's house, if shcuid be of one śind onis vilksat 371, ihst they should for one day eat only by day and stop all actions or thrce dars, Tāi H, I rrescribes atat de actions prescribed by him in IL 12 for relatives (riz, birias 13 leaves Epsteing the house) must be done by others tiho, though so ritives. Curric) the corpse or decked it &c.
-
-The San. Si, IT. 15.10, the Isr. &, I, 41:-Baud, P.S. I 1910, Kausikasūtra $9.33-35 and 4 i, Par. a. II 10. Ap. D. S. I 3.10.1-10, Gaut DE 1435-33 Van Tid, Ts, 414-15, Xā HII 16-17, Fisau Di S 19.14-17, Sriraris SA , Saṅkha 15.35, Garudspurāna (Poetakbapda cāsy. 51-5) iz oskers lay dorë sefera) rules for those i hoti 23 and women) who have lost & zear sasuda by death to be also med innsa ately after the return from tlie crepation and for thirte wat days 57 The San Sr, proridas $kat fler sisuid sider on the bare ground (not op & COĖ), they shouid subsist on sacrifcia food, they should gire up the partciulance or weit ūsuji religious guties (except in relation to the radic Srestier ore Dight, three nights of pine nights or ti che durata de tion of the bones. The IŚT, ST. (IV. 117-**) prorites these obsertations TiE. Let shen not cook food durias Ebat : it, ist them subsist on bougit food or on food received from thers,
-
-\#6hihihi vā sấy k biên sofa hiṛn đang sử गन्निनःशर्म रातिति ज्योतिष अन्तरा गाननपस्पृशन्त झोलामा पासाररम
-
-SE SVIHTa Fate te in grated into 645 IEP 100). N E P 319, the SOTT itseI
-
-k g. bra III P 5$0 (boch reads BEST R ECET
-
-547. stu: FixT TRETE VATANTE
-
-TË Tatra Far ET, 7591FE I TI, N. 15.10, TA ME
-
-SIG भोजनमवशरने ब्रह्मदडपहें पारदं द्वादशाहं संकल्ला सारत महादान शुरुवशमशेदकमितरेषु विरारजी देवपल्ली। दि .1:.10; नवापर NETI MARE F arer at tro SFIT III. 10 (ascribed to otmis Prat ca III, 17: 15 5777
-
-mai ASTET ET BIETT95 for ciento es la se 6. T I 2. p 211 parada and oikers espais ttat ide cerer'zs et refers to spāris and co: to śrouia bona. Ibe Izet m is asendi 13 FR 58 Taat 09 7 III, 10. mjere it adds be Saf Tersea STTTTTTT
-
-, The Free , III, 13 is reads T ETET
-
-. *..
-
-IV) Observances for herr relatives in mourning 239
-
-let them eat no mineral salt or ordinary $48 salt for three nights, let them optionally avoid for twelve nights the distribution of gifts and the study of vedic texts if one of the principal gurus (father, mother or the teacher who performed upanayana and taught the whole Veda) dies. Pār. gr. IIL 10 adds that they should remain chasto, eat food only once in the day and that they should not repeat Veda study, and should give up the daily obligatory duties except those connected with Vedic fires. Manu (V. 73) adds that they should not eat flesh for three days. Vas. (4.14-15 ) lays down that the relatives who returned from the cemetery should sit down for three days on mats and fast, that if they are unable ( to fast for three days ) they should subsist on food bought in the market or obtained unasked. Ya. III 17 and Pār. III, 10 549 provide that for the night they should put milk and water in an eartben Tessel in the open space (on a szkya) with the words 'O departed onel bathe here (in the water) and drink this milk'. Yāj III, 17, Paithinasi, Manu V. 84, Par. gr. III 10, and others state that the relatives of the departad should perform their own daily rites to be performed in the frauta fires (such as Agaibotra and Darsapūrpamāsa) and in the smārta fire (such as morning and evening homa) on account of the peremptory dictates of the Veda (such as one should perform Agnihotra as long as one lives'). The commentators have added several limitations and restri ctions. The Mit.553 on Yā). III, 17 states that, as Manu V, 84 only prohibits the stopping of the rites in (Vedic and Smarta ) fires, such religious duties as the five daily Mahayajñas are excluded, that Vaiśvadeya, though performed in fire, is excluded because there is an express text of Samyarta & brāhmapa should be without Vaiśvadova for ten days ( after the death of a sapinda ), that the Srauta and Smārta rites should be got per formed by another, as Pāraskara (III 10'anya etāni kuryuh) expressly lays down Only nziya and narmittaka acts to be parformad in Vedic and Smārta fires are allowed and so Icāmya rites cannot be performed. Even at present Agnihotrins
-
-548. For the different explanations of 'ksāra-lavana' vide H of Dh vol II. p. 304 3 723.
-
-549 À METTE Furci ann i R T III. 10.
-
-550 सूनके कर्मगा त्याग सन्यादीनां विधीयते इति यद्यपि साध्याया विनिवृत्तिः भूपते तालिप्रक्षेपादिकं कुर्यात् । यतके साविया चाजलिं प्रक्षिप्य प्रदक्षिगं फुत्वा च्र्य ध्याय FARSIT Worth TUTETI FARE on III. 17. Et FAUST 47: Is T
-
-A III, 60. Vide curTTOT III- 13 18 ara faceta, Fat Top Rated
-
-240
-
-
-
-(Vol.
-
-perform their srauta nitya homa during days of impurity them selves, though some get it performed by another (Vide Yā). III, 17, Manu V 84). Although there is a text of Gobhilasmrti (III 60 ) prohibiting the performance of sandhya, yet relying on & sūtra of Paithinasi the Mit says that a man can offer water to the Sun in worship; others like the Sertimuktāphala (p. 478) say that sandhyā mantras may be revolved in the mind, except the prāpāyāpia mantras. This is followed in modern times in many parts of India. Viṣṇu Dh, S, 226 prescribas that in impurity due to birth or death homa (Vaiśvadeva ), giving and accepting gifts and the study of Voda ceasa, The Vaiks Sm, S. VL4 states that the perform enga of sandhyā adoration, all rites for the gods and manes, gift and acceptance and Veda study should be given up during impurity on death. Gautama 14,44 appears to hold that a brāhmana is not affected by impurity on birth and death for the purposes of Veda study. On the other hand Samvarta 551 (43) affirms that on the days of impurity on birth and death there is no performance of the five Mahāyajñas nor of Veda study. The Nityācāra-paddhati p 544 states that even in hbauca the thousand names of Viṣṇu may be recited.
-
-Asthisanirayana or Saficayang means that rite in which the (charred) bones (of the cremated person) are collected. This rits is dealt with in many sūtra and smrti works, such as Sān. Sr. IV, 15. 12-18, Sat śr. 28. 3, Āśy.gr. IV, 5 1-18, Gaut P.S I. 5, Viṣṇu Dh, S. 19. 10-1%, Baud P.S I 14, Kausika-sūtra 8%. 29-3%, Vaik. Smārta Sūtra V. 7, Yama 87-88, Saṁvarta 38, Gobbila-smrti II. 54-59 (q. by Hāralatā p. 183). There is great diveṚgence of views about the day on which this was to be done. For example, Sat Sr. 28, 3. 1 provides : 552 'bones are collected on the next day after cremation) or on the 3rd, 5th or 7th.' Samyarta (verse 38) and Garuḍapurana (Pratakhanda 5 15 ) prescribe that collection of bones should be made on the 1st, 3rd, 7th or 9th and (particularly) on the 4th by twice-born persons The Vāmanapurana (14 97-98) allows it on the 1st, 4th or 7th day. Yama (87) requires the relatives to collect bones from tho 1st to the 4th day after cremation and also provides (verse 88)
-
-551. 1999hum a garagarria i FEITETET * Frupiahsuria raw Farf 43,
-
-552.311erapi q Fai Fhar atteita FSHIRT 1 TEST \# 28. 3.d.
-
-. I 5 1, HA TU 999 Firti tyè Fauri fara ET TATTET BY 1 . f TT HAR AF 9 57
-
-T 114. 97–98. aura o
-
-241
-
-IV)
-
-Asthisancayana
-
-that the four yarpas should respectively perform sañcayana on the 4th, 5th, 7th and 9th day. The Aśv. gp, $. IV. 5. 1 states that saflcayana should be performed after the 10th day from oremation in the dark half, but on uneven tithis (i. e. 1st, 3rd, 11th, 13th, 15th) and on a raksałra which bears a name not applicable to two or more naksatras (i. e. except on the two Aṣāḍhas, two Phalgunis and two Bhādrapadās). Vispu Dh. S. 19 10, Vaik. Sinārta-sūtra V. 7, Kaus. 82. 29, Viṣṇupurāne ILI, 13 14, Kūrmapurīna (uttara) 23 and a few other works lay down that saīcayand must be done on the 4th day after cromation. The various texts differ a good deal in details. The following is the procedure in the Āśv, gr. IV.5.-The bones of a male should be collected into an urn that has no spacial marks (protuberances), those of a woman in an urn that has protuberances but no other special marks, Åged persons," odd in number 553 not being together with women, (i. 8, not as a mixed assemblage ) collect the bones. The per former walks thrice round the spot (where the body was burnt) with his left side turned towards the spot, sprinkles on it with a sami branch milk mixed with water with a verse esitike' (Ṛg. X, 16, 14). With the thumb and the 4th finger they (gatherers ) should put each single bone into the urn without making a ratt}ing noise (of the bones in the urn), the bones of the feet being taken first, those of the head last. Having well gathered the bones and having purified them with a win llowing basket (i. e. Temoving the dust attaching to them) they should put the urn in a pit at a place where the waters from different sides do not flow together except rain water with the verse 'upasarpa' (Ṛg. X 18, 10) and he should throw earth (into the pit) with the following verse (Ṛg X. 18. 11) After having thrown (earth) he should repeat the next verse (Ṛg. X, 18, 12). Then covering (the mouth of the urn) with a lid with the mantra 'ut te stabhnāmi' (Ṛg, X, 18, 13) (he fills up the pit) Thon without looking back they return (towards the house), bathe in water and then offer sraddha to him alono (the departed). Dr. B. N. Datta in his paper "Vedic funeral customs and Indus Valley culture in 'Man in India', vol. 16
-
-553. The NT (184) explains FUGIT: TUA: (in 37724. 5.) AS 'मिथुन पुरुषद्वयं बहुवचनात् त्रयो मिथुनाः षद पुरुषा इत्यर्थ. प वा मिथुना दश पुरुषाः
-
-877. HETTE 1. It is probable that women also accompanied the cortege to the cemetery io ancicat times, that gradually they ceased to do so aod by tāc time of the Hāralatā only mes comprised the fgoeral procession and
-
-It explained the words of Aśv. as abore,
-
-H. D.31
-
-I Vol.
-
-242
-
-
-
-pp. 223-307 rogards (p. 285) Ṛg. X, 18 as & hymn dealing with burial of tho whole body (and not of ashes), while he admits (p 287) that Ṛg. X. 16 is a cremation hymn. I dissent from him for various reasons; the niost important is that if his theory be correct a period of several conturios must be postulated between the two hymns, This is inadmissible.
-
-The Kausikasutra (82, 29-32) prescribes certain details differently. It says that the bones are collected with A. V. 18. 2. 84, 26, then they are consigned to a jar over which alj frag rant powders aro scattorod, then the jar is raised with the Utthāpani yorses and carried with the verses called Haridis (ie, A V. 18 % 11-18). He (the performar) deposits (in the earth the urn) at the root of a troo with the verse 'mā tva' (A. V. 18. 2. 25 May the tree not injure thee all round, may not tho wido goddess Earth also injure theo'). 551
-
-The other sūtras present several yariations which are passed over here, excopting one or two matters. The Sat, Sr, proridos that the twig should be of the Udumbara trae, that the bonos aro collected by women of the family of the decaased (his sifo and othora) odd in number (five or more), or other womon (in the absonce of women of the family). A woman who is not likoly to have a child should tie in her left hand a Brhati fruit with two threads, blue and red in colour, should step on a stone with hor left foot, colloct the bones first from the teethiyo or head with the mantra uttistbata' (Tai Ā VI. 4. 2) and she should deposit those bones in a jar or garment, then a second woman of the same type collects bones from the shoulders or arms, a third woman from the sides or hips, a fourth from the thighs or legs, and a fifth from the feet They or mora vomon collect the bones completely, The urn is deposited at the root of a sami or palāsa tree,
-
-In modern times, particularly in towns and cities, the collection of bones has to be done immediately after cremation. The Antyesti-paddhati closely follows the procedure prescribed in the Aśv. gr quoted above. It eays. the perfornier goes to the place of cremation, sips water, meptions the time and place, makes a saṅkalpa (declaration) that he will perform the collec
-
-554. \#Tat Hat TSTREEmia raz I TUA TI I OST समीपय सर्वसुरभिचूर्णरवकीयोत्थापनीभिरुत्थाप्य हरिणीभिहरयु.। मा त्वा वृक्ष इति वृक्षमूल Acera I ngine 82 29–32. It appears that the sūtras are not property arranged by Bloomield They should be read as पच्छ प्रथमम् । शीर्षकपालान पश्चात् । कलशे etc For the उत्थापनी verses see n.474 The हरिणी verses from and are 18,2. 11-18 and are the same as Ṛg X. 14 10-12 and X. 154r 13.IV)
-
-Modern sacayana rite
-
-243
-
-tion of the bones of the departed naming him and his gotra, He walks thrice round the place of cremation with his left towards it and sweeps it with a sami branch and sprinkles it with milk mixed with water with the mantra 'śītike' (Ṛg X. 16. 14). Then old men odd in number with the performer collect the bones (as stated by Aśy.gr, above) and place them in a new jar and if they are of a woman in a jar with protu berances They also winnow the ashes with a sūrpa and place in the jar even small bones and throw the ashes into the Ganges. Then at some time other than the rainy season a pit should be dug in a pure spot whereon water would not flow and the performer deposits the jar in the pit with the mantra 'approach this mother, Earth' (Ṛg. X. 18, 10). With Ṛg X, 18. 11, he throws earth in the pit all round the jar and muimurs with folded hands the mantra (Ṛg X, 18, 12 ) and he closes the jar with a new earthen disk with the verse Ṛg. X. 18. 13 Then he should put earth on the jar in such a way that it may not be seen by anybody and without looking back should go else where and bathe, The Nirnayasindhu (p. 586 ) expressly states that the procedure for the collection of bones may be gathered from one's sūtra or from the work of Bhatta (i. o. Nārāyana, Kamalakara's grandfather).
-
-The Vispudharmagūtra (19.11-12) and Anu, 26.32 state that the collected bones should be cast in Ganges water, since as many particles of the bones of a man remain in Ganges vater for so many thousands of years he dwells in heaven. It was provided in the Purāpas that a virtuous son, brother or daughter's son or a relative on the father's or mother's side should cast the bones in the Ganges, that one not so related should not do it and that if he does it he has to perform cāndrāyapa prāyaścitta. Even in modern times many Hindus take the charred bones of their parents or other dear relatives to the Ganges at Prayaga (Allahabad) or some other holy river 5540 or cast them into the sea. The Nirnayasindhu (p. 587 ) quotes an elaborate rite of casting the ashes in the Ganges from Saunaka. It is briefly as follows: The performer should go out of the village, bathe with clothes on, sprinkle the earth where the ashes are deposited with the Gayatri and the other mantras usually repeated over
-
-554 a. The way ( na) p. 190 quoles several verses on this point तत्र शाण्डिल्यः। द्वारवस्यां सेतुबन्धे गोदावर्या च पुष्करे । अस्थीनि विसृजेद्यस्य स मृतो मुक्ति मामुयात् । शलिखिती। गङ्गायां च प्रयागे च केदारे पुष्करोत्तमे । अस्थीनि विधिवत् त्यक्त्वा गयायां पिण्डदो भवेत् । पित्रोणात्ममुध्येत तौ नित्यं मोक्षगामिनी। इति । योगयाज्ञवल्क्यः । गङ्गायां यमुनायां या कावेयो पा शतद्रुतौ । सरस्वत्यां विशेषेण घरधीनि विसृजेत्सतः॥
-
-
-
-(Vol. pamoagavya. With the four mantras 'upasarpa' (Ṛg. X. 18.10-13) he should respectively pray to the earth, then dig it, take out the earth, and then the bones. Then he should bathe and purify the bonos by touching the bones again and again and repeating the mantras .eto nyindram stavāma suddham &c' (Ṛg VII. 95, 7-9). Then he should bathe with panca. gavya and become pura. Then he should batho ten times with cow's urino, cow's dung, cow's milk, curds, clarified butter, water in which kuśas have been dipped, ashes (of sacred fires), earth, honey and water. Then he should sprinkle (with kuśas) wator on the bones with the mantras, viz. Ṛg. 1,2% 16. Ṛg VIII 95,7-9, 555 Ṛg VII. 56.12-14, Ṛg. X. 126 1-8, Ṛg. X. 119,1-13, Ṛg. IX. 1.1-10 (called Pāvomāni verses ), Ṛg. X 128,1-4, Ṛg. I 43.1-9 (a hymn to Rudra); then he should offer & hiranya Srāddha for the deceased, offor pinda to him and perform tarpxina with sesame. Then he should cover the bones in seven ways viz. by doer-skin, woollen blanket, darbhurs, cow's hair, hempen cloth, birch leaf and palm leaf. He should cast among the bones pieces of gold and silver, pearls, coral and sapphire for the purification of the bones, then he should offer into fire 108 oblations of clarified butter and sesame with the hymn beginn ing with 'udiratām' (Ṛg. X. 15). Then he should cast the bones in holy water; thereby he does not incur the fault of touching an unclear object. While answering the calls of nature or performing acamana one should not hold the bodes,
-
-The Nirnayasindhu adds (p. 588) that there is no asthi. sarcayana for one whose upanayana had not been performed.
-
-The Aśv, gr. IV.6, the Sat Sr. 284, Sān Śr 46 (called parıdhikarma) and some others prescribe a sāntı rite after collection of the charred bones of a deceased person. The Baud. P. S. (II. 3 3) and Viṣṇu Dh. S. 19.19 appear to prescribe the Santi rite after the ten days of impurity have expired('dasarātre saucam krbyā sāntih'). It is described by Aśv. gr as follows: They who have lost a guru (father or mother) by death should perform on the new moon day an expiatory ceremony. Before sunrise they should carry fire together with its ashes and with its receptacle to the south with the half verse "I send away the flesh-devouring Agni' (Rtg X 16 9) Having cast that fre down at a place where four roads meet or somewhere else, they
-
-555, It should be noticed that in R& VIII 95 7-9 the word suddha' (pure) occurs tbirteen times and bence it is appropriate that those verses are employed as purificatory ones Simularly, ig Ṛg. VII, 56,12 the word
-
-• suci '(pure) occurs six times.
-
-IV
-
-245 Sānti rile some days after death
-
-walk round it thrice, with their left side turned to it and beat ing their left thighs with the left hand. They should then re turn home without looking back, bathe in water, have their bair, boards and hair on the body and nails cut, furnish themselves with new jars, pots, vessels for ripsing the mouth, with garlands of sami flowers, with fuel of sanıf wood, vith two pieces of sami wood for kindling fire 556 and with branches for encircling the fire, with bull's dung and hide, fresh butter, a stone and as many bunches of kusa grass as there are young women (in the house). At the time of the Agnihotra (in the afternoon, he should kindla fire (by means of the arabis) with, the half verse 'Here may this other Jatavedas' (Ṛg X. 16,9 latter half)'. Keeping the fire burn ing they sit till night silence falls, repeating tales of old mon (of the family) and stories of auspicious contents, Itzhāsas and Purūnas When all sounds have ceased or when the others (members of the deceased's family) have gone to their houses or Testing place, (the performer) should pour out a continuous stream of pater beginning at the south side of the door with the veṚge (Ṛg. X. 53.6) 'spreading the thread follow the light of the world' and go round the house ending at the north side of the door, Thez having placed the fire and spread to the west of it a bull's hide with neck to the east, with the hair outside, he should cause the people of the house (including pomen) to step on that hide with the verse 'Aribe to long life '557 (Ṛg, X. 18,6). He should place tvigs round the fire with 'Here do I deposit an encircling thing'(Ṛg. X. 18.4). Having placed a stone to the north of the fire with the words "May they place a mountain between themselves and death' (Ṛg. X. 18.4 last pāda) and having sacrificed with four verses 'Go hence, O Death' (Ṛg. X. 18.1*), he should look at his people with the verse 'as days follow each other' (Ṛg. X 18.5). The young women ( belong ing to the house) should with each hand separately with the thumb and 4th finger salye (at one and the same time) their eyes with fresh butter by means of young darbha blades and cast
-
-556, Nārāyana explains that the fire means ordinary kitchen fire and be seems to be right in spite of Oldeaberg's pote to the contrary oa p. 246 (of S. B E vol. 29) The deceased sacrificer is cremated with bis srauta fires (vide Aśv. gr. IV. 4) and stoārta fire (if any) and on his death the hotstarma is performed by the son or otber relative bo may have no cod secrated fires at all or, if he bas, he cannot cast them away as long as he lives. The Com on Sat Ss 28. 4, 1 states that it 18 the adhvargu priest that kiadles the fire and not be who performed the cremation.
-
-557 Most of these maatras occur also in Tai, AVI, 10
-
-246
-
-
-
-[Vol.
-
-sway the blades turning their faces away. The performer should Jook at them while they are salving their eyes, with the verse 'theso women, being to widows and having good husbands' (Ṛg. X, 18,7). The former should first touch the stone with the stream containing stones flows' ( Ṛg. X 538). After that, stationing himself to the north-east, while others go round with the firo, bull-dung and a continuous stream of water he should, aftor repeating the three verses (āpo hi sthā, Ṛg X, 9.1-3), murmur the Terbe "these have led round the cows' (Ṛg. X, 1555). A tawny-coloured bull should be led round. They then sit down at a place where they like to stop, having put on fresh unwashed garments and they sit there tı]l sunrise avoid ing sloep. After sunrise, having murmurred the hymns sacred to the sun and auspicious hymns, liaving prepared food and made oblations with the hymn beginning May he burn away evil from us' (Ṛg. I. 97.1-8), verse by verse, having given to the brāhmanas to eat, he should cause them to pronounce auspicious words. A cow, a cup of metal and a fresh unworn garment are the sacrificial fee for each of the brāhmanas.
-
-A few details may be added from other sūtras. The Sat Śr, (28.4.1) provides that the Sānti is performed on the 10th day after cremation by a priest, that in the folded hands of the wives ( of the members of the family ) he puts the remains of the material used for oblations syith the veṚge * these women, not being widows' (Ṛg, X. 18,7=Tai. Ā, VI, 102), that the priest plants in the earth the stalk of a plant with the yerse' yathā tvom' (Tai, Ā, VI, 10 2 ) 558, that after they return home, they cook goat flesh and boil yava grains and eat them and then may occupy couches and cots (i. e, give up the observances of mourning )
-
-Interesting information is furnished by the Sat. Br, about graves (XIII. 8. 1-4) and Kāt Śr 559 It is said in Sat. Br that
-
-558 The mantra is very significant, FUT Team with great SITUI GAA STETETT cui ar hau ā 377 VI. 10. 2
-
-559. HWFT HTH FUTATIEATH Parerea fata17 raffora y man RYTTER HTHaa gai HYT r 28 4, 28, almost the same words occur in gr. II 32 This passage refers to four modes of the disposal of the cbarred bones viz, burial in the earth of the urn for women qod men who lind not consecrated srauta fires, depositing the bones alone on the earth for lim'wbo performs havir-yajñas (18 u bich only boiled rice and clarıbed butter are offered, vide Gaut 8 20 ), re-cremation for one who had offered soma sacrifice and building a brick or clod structure for him who
+542. Vide Fleets' papers in J. R. A. S. for 1906 pp 655-671 and 881--913 on the disposal of the bones and ashes of Buddha based on the Mahāparinibbana-sutta, the Divyāvadāpa, Fa Hian's work, the Sumangalam vilasini and other writings. He therein states his view that the Piprabava relic vase, on which there is an inscription that is the oldest Indian Inscrip tion found up to date (it is about 375 B C.) and is wbicb 700 articles where
 
 (Continued on the next page)
 
+POONA
+
+FOUNDED
+
+#uta
+
+Bhandarkar Oriental Research Institute
+
+236
+
+History of Dharmaśāstra
+
+[Vol.
+
+After the relatives (sons and the like) of a deceased person have offered water, have taken a bath and after they emerge from the water (of a river or the like) and are sitting on a plot of soft green grass, elderly persons should talk to them (in order to lessen their grief) about ancient narratives (Yāj. III, 7 and G. P. S. I. 4.2 543). Visnu Dh, S. 20. 22-53 contain a long disquisition on the grip that Kāla (Time, Death) has on every body including even Indra, gods, daityas, great kings and sages, how everyone that is born is sure to die (i. e. Death is inevi table), and how no one (except the wife) can follow the depar ted on his journey to the other world, how the good actions and bad actions will accompany the spirit of the dead, how śrāddha confers great benefit on the departed; it winds up that therefore the surviving relatives should offer śrāddha and give up lamen tations that help no one, that it is dharma that alone follows the soul through his wanderings 544. Yāj. III. 8-11 (=Garudapuräna II. 4. 81-84) are verses in a similar strain and are intended to serve the same purpose. They are: 'He, who seeks everlasting ness in this human life that is as devoid of strength as the stock of a plantain plant, and that is as inconstant as a bubble of water, is a deluded person. What is the use of lamentation if the body, created out of the five elements by reason of actions performed in a former life, returns to those five elements? The earth, the ocean and the gods
+
+(Continued from the last page) found, enshrines the relics, not of the Bhagavān Buddha, but of his kinsmen. Fleet further refers to the tradition that the great emperor Asoka dug up seven out of the eight mounds of the relics of Buddha and transferred almost all their contents to 84000 boxes of gold and silver and distributed them throughout India and built monuments (stūpas) over them. Rhys Davids in 'Buddhist India' (pp. 78-80). after stating that deceased per sons of distinction either by birth or wealth or official status or as public teachers were cremated and the ashes were buried under a tope (Pali thūpa'). remarks The dead bodies of ordinary people were disposed of in a unique way. They were put away in a public place. There as a rule the bodies or the remains of the pyre were not buried but left to be destroyed by birds or beasts or dissipated by the process of natural decay'.
+
+543. Fiecare aufitarra: Frient: : yrror: brata: mere urger STATŪGAUTEET.I.4.2.
+
+544. It may be noted that Visnu Dh, S. 20. 29, 48-49 and 51-53 are the same or almost the same as Bhagavadgitā II, 27, 28, 13. 28 respectively. Vişnu Db. S: 20.47 (yatha dherusahasreșu &c.) is the fame as Sārtiparva 181. 16, 187.27 and 323,16 and Visnudharmottara II. 78.17 and Visnu Dh. Ś, 20.41 is the same as Santi 175. 15 and 322. 73. The *** (hepp.91-97) quotes ##. (III. 7.11). facy 20:22-53 and virar II. B 20
+
+1917
+
+Brands Oriental Research Institute
+
+IV)
+
+Consoling, words to the bereaved
+
+237
+
+are destined to go to destruction (at some future date when pralaya takes place). How is it possible that the world of mortals which is (evanescent) like foam will not meet with destruction? As the departed spirit, being helpless, has to swallow the tears and phlegm cast by kinsmen, they should not weep but should perform (obsequial) rites according to their ability.' Gobhilasmrti III. 39 urges 'do not lament for what is perishable and what is the characteristic (destiny) of all beings. Exert yourselves in the performance of meritorious acts wbich will accompany you.' Gobhila then quotes Yaj. III. 8-10 and ono verse from the Mahābhārata 54la viz. 'All collections are to end in dissipation, all rise is to end in fall, all unions in separa tion and life in death'. Aparārka quotes the Rāmāyana and Väsudeva's words from the Salyaparva to Dhrtarästra on the death of Duryodhana. The Par. M. I. 2 pp. 292-93, the Suddhi prakāśa pp. 205-206 and several other works quote the verses of Vişnu, Yāj, and Gobhila.
+
+The Garudapuräna here (II. 4.91-100) waxes eloquent over the immolation of a wife on her husband's funeral pyre, over the miraculous power of a pativrată, and states that a brähmana woman should not burn herself apart from her husband's body (or after he is cremated), but that ksatriya and other women may do so, that the practice of sati is common to all women even including chāndala women, but pregnant women or those that have young children should not do so and that a woman does not become free from the liability to be born again and again as a woman until she becomes a Sati.
+
+After listening to the philosophical discourse of elders the relatives return to their house, placing children in front and standing at the door of the house, they with minds under control bite the leaves of the nimba tree, perform ācamana, touch fire, water, cowdung, white mustard; then they should enter their house after slowly (firmly) planting their foot on a stone. According 548 to Sankha the relatives should touch the tendrils of Dārvā, fire and a bull, should offer a pinda to the departed at
+
+HOTFR.
+
+FOUNDED
+
+544a. Tarafarer: maalar: FEET strar . This is z 331.20 (in 330.20 in Citraśālā edition),
+
+545. Tai ar TEET Sarafu q, by PART on T. III. 13, 7P#1, 1.2 p. 293.
+
+A
+
+re
+
+s
+
+a traum Bhandarkar Oriental Research Institute
+
+238
+
+History of Dharmaśāstra
+
+[Vol.
+
+the door of the house and then enter it. Baijavāpa 346 q. by Suddhitattva prescribes the mantras to be recited in touching sami, the stone (aśma), fire and provides further that a cow and a goat should be touched holding fire between themselves and these animals; food should be purchased or obtained from another's house, it should be of one kind only without salt, that they should for one day eat only by day and stop all actions for three days. Yāj. III. 14 prescribes that the actions prescribed by him in III, 12 for relatives (viz. biting nimba leaves up to entering the house) must be done by others who, though no relatives. carried the corpse or decked it &c.
+
+The Sān. Sr. IV. 15.10, the Aśv. gr. IV. 4.17-27, Baud. P.S. I. 12.10, Kausikasūtra 82,33-35 and 42-47, Pär. gr. III, 10, Ap. Dh. S. I. 3.10,4-10, Gaut. Dh. 14.35-36 Manu V. 73, Vas, 4.14-15, Yaj. III. 16-17, Visņu Dh. S. 19.14-17, Saṁvarta 39-43, Sankha 15.25, Garudapurana (Pretakhanda chap. 5,1-5) and others lay down several rules for those (both men and women) who have lost a near sapinda by death to be observed immedi ately after they return from the cremation and for three more days. 547 The Sān. Sr. provides that they should sleep on the bare ground (not on a cot), they should subsist on sacrificial food, they should give up the performance of their usual religious duties (except in relation to the vedic fires ) for one night, three nights or nine nights or till the day of the collec tion of the bones. The Āśy. gr. (IV. 4.17-24) provides these observations viz. 'Let them not cook food during that night, let them subsist on bought food or on food received from others,
+
+w
+
+546. SHTOHY THT TO T arja HAFAE FAUTI TAHTA 31119 मरिचनः शर्म यच्छत्विति ज्योतिष अन्तरा गाममजमुपस्पृशन्तः कीत्वा लब्ध्वा वा प्राप्य गृहमे कानमलवणमेकरानं दिवा भोक्तव्यं त्रिरात्रं च कोपरमणम् । बैजवाप quoted in
+
+986 (T P. 100), si p. 319, the great itself being q. by For III. p. 580 (which reads gax 27 Tetoro.).
+
+547.374: TC E ar Frie ur 117 Tiere TV, 799T I FT. T. IV. 15.10; Fra fora za RTSHOP
+
+a rai su TË TË Ha rugo Tester T rani c set fra ateit! 17. I. 12.10.; 77 FETETTH धीयीरन् । नित्यानि निवर्तेरन्वैतानवर्जम् । शालाग्नौ चैके। अन्य एतानि कुयुः। पार.. III. 10 (ascribed to पैठीनसि in मिसा. on या. III. 17): उभयत्र दशाहानि कुलस्या
+
+stài taget ETAT FATEYTT fra il cited as he's in U p. 892. UTT. FL. I. 2. p. 211. Aparärka and others explain that the cessation of homa refers to smärta and not to srauta homa. The last verse is ascribed to y by far, on 41. III. 17, where it adds the balf verse uith a T P . ware. The farver III. 13.18 reads TESTET MT... Frangu..
+
+STI
+
+POONA
+
+FOUNDED
+
+1917
+
+तेजस्विनाव
+
+tas
+
+Bhandarkar Oriental Research InstituteIV)
+
+Observances for near relatives in mourning
+
+239
+
+let them eat no mineral salt or ordinary 548 galt for three nights, let them optionally avoid for twelve nights the distribution of gifts and the study of vedic texts if one of the principal gurus (father, mother or the teacher who performed upanayapa and taught the whole Veda ) dies. Par. gr. III. 10 adds that they should remain chaste, eat food only once in the day and that they should not repeat Veda study, and should give up the daily obligatory duties except those connected with Vedic fires. Manu (V. 73) adds that they should not eat flesh for three days. Vas. ( 4.14-15 ) lays down that the relatives who returned from the cemetery should sit down for three days on mats and fast, that if they are unable ( to fast for three days ) they should subsist on food bought in the market or obtained unasked. Yāj. III. 17 and Pār. III, 10 549 provide that for the night they should put milk and water in an earthen vessel in the open space (on a
+
+ilya) with the words 'O departed one! bathe hero ( in the water) and drink this milk'. Yāj. III. 17, Paighinasi, Manu V. 84, Par. gr. III. 10, and others state that the relatives of the departed should perform their own daily rites to be performed in the frauta fires (such as Agnihotra and Darsapürnamāsa ) and in the smärta fire (such as morning and evening homa) on account of the peremptory dictates of the Veda (such as one should perform Agnihotra as long as one lives'). The commentators have added several limitations and restri otions. The Mit.550 on Yāj. III, 17 states that, as Manu V. 84 only prohibits the stopping of the rites in (Vedic and Smārta) fires, such religious duties as the five daily Mahāyaiñas are excluded, that Vaišvadeva, though perforined in fire, is excluded because there is an express text of Samvarta a brahmana should be without Vaišvadava for ten days ( after the death of a sapinda), that the Srauta and Smärta rites should be got per formed by another, as Paraskara (III. 10'anya etāni kuryuh) expressly lays down. Only nitya and naimitti ka acts to be performed in Vedic and Smärta fires are allowed and so kāmya rites cannot be performed. Even at present Agnihotring
+
+STITUT
+
+POONA
+
+548. For the different explanations of 'ksara-lavana' vide H. of Dh. vol. II. p. 304 n. 723.
+
+. 549. Taigiga Furci fa r a aficki uret. III. 19,
+
+550. et fort cu Farerai Fattua-già vai yrafatagit:
+
+To gras our gaan asur frica serenta en CASvira arithmorra i faat on ar. III. 17. Bath F o rch
+
+@ III, 60. Vide racugarup III. 13. 18 Pantaua ETA: aqua Paras
+
+FOUNDED
+
+1914
+
+Bhandarkar Oriental
+
+240
+
+"History of Dharmaśāstras
+
+[Vol.
+
+perform their srauta nitya homa during days of impurity them selves, though some get it performed by another. (Vide Yāj. III. 17, Manu V. 84). Although there is a text of Gobhilasmrti (III, 60 ) prohibiting the performance of sandhyā, yet relying on a sütra of Paithinasi the Mit. says that a man can offer water to the Sun in worship; others like the Smrtimuktāphala (p. 478) say that sandhyā mantras may be revolved in the mind, except the prānāyāma mantras. This is followed in modern times in many parts of India. Visnu Dh. S. 22,6 prescribes that in impurity due to birth or death homa (Vaišvadeva ), giving and accepting gifts and the study of Veda cease. The Vaik. Sm. S. VI.4 states that the perform ance of sandhyā adoration, all rites for the gods and manes, gift and acceptance and Veda study should be given up during impurity on death. Gautama 14.44 appears to hold that a brähmana is not affected by impurity on birth and death for the purposes of Veda study. On the other hand Samvarta 551 (43) affirms that on the days of impurity on birth and death there is no performance of the five Mahāyajñas nor of Veda study The Nityācāra-paddhati p. 544 states that even in aśauca the thousand names of Visnu may be recited.
+
+Asthisañcayana or Sancayana means that rite in which the (charred) bones (of the cremated person) are collected. This rite is dealt with in many sutra and smrti works, such as Sān. Sr. IV. 15. 12-18, Sat. Śr. 28. 3, Āśv.gr. 1V. 5.1-18, Gaut. P. S. I. 5, Visnu Dh. S. 19. 10-12, Baud. P. S. I. 14, Kausika-sutra 82. 29-32, Vaik. Smārta Sūtra V. 7, Yama 87-88, Samvarta 38, Gobhila-smrti III, 54-59 (q. by Haralata p. 183). There is great divergence of viows about the day on which this was to be done. For example, Sat. Sr. 28. 3.1 provides: 552 'bones are collected. on the next day (after cremation) or on the 3rd, 5th or 7th.' Samvarta (verse 38) and Garudapurāņa (Pretakhanda 5. 15) prescribe that collection of bones should be made on the 1st, 3rd. 7th or 9th and (particularly) on the 4th by twice-born persons. The Vámanapurāņa (14. 97-98) allows it on the 1st, 4th or 7th day. Yama (87) requires the relatives to collect bones from the 1st to the 4th day after cremation and also provides (verse 88)
+
+551. auro * =That I atera u 70tantsitur sairam o al 43. 2)
+
+552. suturarentaart 2541m ut artefia rata 1 At. sti. 28. 3.1 9747 * eye furari FXS T arifa. . 1. 5 1; waarbandar वा सप्तमे वास्थिसञ्चयम् । ऊर्व सञ्चयनातेषामंडपशों विधीयते । वामनपुराण 114,97-98,
+
+POONA
+
+FOUNDED
+
+1917
+
+भारत नावधालन Handarkar Oriental Research Institute
+
+TV1
+
+Asthisañcayana
+
+241
+
+that the four varnas should respectively perform sancayuna on the 4th, 5th, 7th and 9th day. The Āśv. gr. S. IV. 5. 1 states that sancajana should be performed after the 10th day from cremation in the dark half, but on uneven tithis (i. e. 1st, 3rd, 11th. 13th, 15th) and on a nakşafra which bears a name not applicable to two or more nakşatras (i. e, except on the two Asadhas, two Phalgunis and two Bhadrapadās). Visnu Dh, S. 19 10. Vaik. Smārta-sūtra V. 7, Kaus. 82. 29, Visnupuräna TIL 13 14. Kūrmapurana (uttara) 23 and a few other works lay down that sañicayana must be done on the 4th day after cremation. The various texts differ a good deal in details. The following is the procedure in the Ašv. gr. IV.5:--The bones of a male should be collected into an urn that has no special marks (protuberances), those of a woman in an urn that has protuberances but no other special marks. Aged persons, odd in number 553 not being together with women, (i.e. not as a mixed assemblage ) collect the bones. The per foriner walks thrice round the spot (where the body was burnt) with his left side turned towards the spot, sprinkles on it with a sami branch milk mixed with water with a verse *sitike' ( Rg. X. 16. 14). With the thumb and the 4th finger they (gatherers ) should put each single bone into the urn without making a rattling noise (of the bones in the urn), the bones of the féet being taken first, those of the head last. Having well gathered the bones and having purified them with a win nowing basket (i. e, removing the dust attaching to them) they should put the urn in a pit at a place where the waters from different sides do not flow together except rain water with the verse 'upasarpa' (Rg. X. 18. 10) and he should throw earth (into the pit) with the following verse (Rg. X. 18. 11). After having thrown (earth) he should repeat the next verse (Rg. X. 18. 12). Then covering (the mouth of the urn) with a lid with the mantra ut te stabh nami' (Rg. X. 18. 13) (he fills up the pit). Then without looking back they return (towards the house), bathe in water and then offer sraddha to him alone (the departed). Dr. B. N. Datta in his paper 'Vedic funeral customs and Indus Valley culture in 'Man in India', vol. 16
+
+AITUTE
+
+POONA
+
+FOUNDED
+
+553. The y ar (p. 184) explains 314# fagar: 977F: (in 31*1.) ash 'मिथुने पुरुषदर्य बहुवचनात् त्रयो मिथुनाः षट् पुरुषा इत्यर्थः पशवा मिथुना या पुरुषाः
+
+TT#: 492 : . It is probable that women also accompanied the cortege to the cemetery in ancient times, that gradually they ceased to do so and by the time of the Häralatā oply men comprised the funeral processionaria prefental so it explained the words of Asy, as above.
+
+Research Institute
+
+H. D, 31
+
+242
+
+History of Dharmasastra
+
+[Vol.
+
+pp. 223-307 regards (p. 285) Rg. X. 18 as a hymn dealing with burial of the whole body (and not of ashes), while he admits (p. 287) that Rg. X. 16 is a cremation hymn. I dissent from him for various reasons; the most important is that if his theory be correct a period of several centuries must be postulated between the two hymns. This is inadmissible.
+
+The Kausikasutra (82. 29-32) prescribes certain details differently. It says that the bones are collected with A. V. 18. 2. 24, 26, then they are consigned to a jar over which all frag Tant powders are scattered, then the jar is raised with the Utthāpanī verses and carried with the verses called Harinis (i. e. A. V. 18. 2. 11-18). He (the performer) deposits in the earth the urn) at the root of a tree with the verse 'mā tvā' (A. V. 18. 2. 25 May the tree not injure thee all round, may not the wide goddess Earth also injure thee'). 554
+
+The other sūtras present several variations which are passed over here, excepting one or two matters. The Sat. Sr. provides that the twig should be of the Udumbara tree, that the bones are collected by women of the family of the deceased (his wife and others) odd in number (five or more), or other women (in the absence of women of the family). A woman who is not likely to have a child should tie in her left hand a Brhati fruit with two threads, blue and red in colour, should step on a stone with her left foot, collect the bones first from the teeth or head with the mantra "uttişthata' (Tai. Ā. VI. 4. 2) and she should deposit those bones in a jar or garment, then a second woman of the same type collects bones from the shoulders or arms, a third woman from the sides or hips, a fourth from the thighs or legs, and a fifth from the feet. They or more women collect the bones completely. The urn is deposited at the root of a sami or palāśa tree.
+
+In modern times, particularly in towns and cities, the collection of bones has to be done immediately after cremation. The Antyesti-paddhati closely follows the procedure prescribed in the Āśv. gr. quoted above. It says: the performer goes to the place of cremation, sips water, mentions the time and place, makes a sankalpa (declaration) that he will perform the collec
+
+POONA
+
+554. मा ते मनो यत्ते अङ्गमिति सञ्चिनोति पच्छः । प्रथम शीर्षकपालानि । पचारकालशे समोप्य सर्वसुरभिचूर्णैरवकीर्योत्थापनीभिरुत्थाप्य हरिणीभिहरेयुः। मा त्वा वृक्षति वनमाले faqatai ir 82.29-32. It appears that the sūtras are not properly arranged by Bloomfield. They should be read as Tes: I sinto Tsarai most etc. For the fiercafi verses see n. 474. The pron verses from graag are 18.2. 11-18 and are the same as Rg. X. 14,10-12 and X. 154ka
+
+FOUNDED
+
+2. Hetearch Institute
+
+IV)
+
+Modern sañcayana rite
+
+243
+
+tion of the bones of the departed naming him and his gotra, Ho walks thrice round the place of cremation with his left towards it and sweeps it with a sami branch and sprinkles it with milk mixed with water with the mantra 'śītike' (Rg. X. 16. 14). Then old men odd in number with the performer collect the bones (as stated by Asv. gr. above) and place them in a new jar and if they are of a woman in a jar with protu berances. They also winnow the ashes with a sūrpa and place in the jar even small bones and throw the ashes into the Ganges. Then at some time other than the rainy season a pit should be dug in a pure spot whereon water would not flow and the performer deposits the jar in the pit with the mantra approach this mother, Earth' (Rg. X. 18. 10). With Rg. X. 18. 11. he throws earth in the pit all round the jar and murmurs with folded hands the mantra (Rg. X. 18. 12) and he closes the jar with a new earthen disk with the verse Rg. X. 18. 13. Then he should put earth on the jar in such a way that it may not be geen by anybody and without looking back should go else where and bathe. The Nirnayasindhu (p. 586) expressly states that the procedure for the collection of bones may be gathered from one's sütra or from the work of Bhatta (i. e. Nārāyana, Kamalakara's grandfather).
+
+The Visnudharmasutra (19.11-12) and Anu. 26.32 state that the collected bones should be cast in Ganges water, since as many particles of the bones of a man remain in Ganges water for go many thousands of years he dwells in heaven. It was provided in the Puranas that a virtuous son, brother or daughter's son or a
+
+lative on the father's or mother's side should cast the bones in the Cangas, that one not so related should not do it and that if he does it he has to perform cândrāyaṇa prāyaścitta. Even in modern times many Hindus take the charred bones of their parents or other dear relatives to the Ganges at Prayāga Allahabad) or some other holy river 34a or cast them into the
+
+The Nirnayasindhu (p. 587 ) quotes an elaborate rite of casting the ashes in the Ganges from Saunaka. It is briefly as follows: The performer should go out of the village, bathe with
+
+lothes on sprinkle the earth where the ashes are deposited with the Gayatri and the other mantras usually repeated over
+
+554 a. The curâ. (311) p. 190 quotes several verses on th19 poinn) तत्र शाण्डिल्यः। द्वारवत्या सेतुबन्धे गोदावयाँ च पुष्करे । अस्थीनि विसृजेद्यस्य स सती मक्ति मामयात् । शङ्कलिखिती। गङ्गायां च प्रयागे च केदारे पुष्करोत्तमे । अस्थीनि विधिवत स्यावा गयायो पिण्डदो भवेत् । पित्रोणात्प्रमुच्येत तो नित्यं मोक्षगामिनी । इति । योगयाशिवाय गङ्गायां यमुनायां वा कावेर्या वा शतद्रुतौ । सरस्वत्यां विशेषेण ह्यस्थीनि विसृजेत्सुतः ॥ Research institute
+
+STI
+
+POONA
+
+FOUNDED
+
+Research Institute
+
+244
+
+History of Dharmaśāstra
+
+[Vol.
+
+pañcagavya. With the four mantras ‘upasarpa' (Rg. X. 18.10-13) he should respectively pray to the earth, then dig it, take out the earth, and then the bones. Then he should bathe and purify the bones by touching the bones again and again and repeating the mantras 'eto nvindram stavāma suddham &c.' (Rg. VIII. 95. 7-9). Then he should bathe with pañca gavya and become pure. Then he should bathe ten times with cow's urine, cow's dung, cow's milk, curds, clarified butter, water in which kusas have been dipped, ashes (of sacred fires ), earth, honey and water. Then he should sprinkle (with kusas) water on the bones with the mantras, viz. Rg. 1.22.16. Rg. VIII. 95,7-9,555 Rg. VII, 56,12-14, Rg. X. 126,1-8, Rg. X. 119.1-13, Rg. IX. 11-10 (called Pāvamāni Verses ), Rg. X. 128.1-9, Rg. I. 43.1-9 (a hymn to Rudra ); then he should offer a hiranya érāddha for the deceased, offer pinda to him and perform tar pa na with sesame. Then he should cover the bones in seven ways viz. by deer-skin, woollen blanket, darbhas, cow's hair, hempen cloth, birch leaf and palm leaf. He should cast among the bones pieces of gold and silver, pearls, coral and sapphire for the purification of the bones, then he should offer into fire 108 oblations of clarified butter and sesalne with the hymn beginn ing with 'udiratām' (Rg. X. 15). Then he should cast the bones in holy water; thereby he does not incur the fault of touching an unclean object. While answering the calls of nature or performing ācamana one should not hold the bones,
+
+The Nirnayasindhu adds (p. 588) that there is no asthi. sañcayana for one whose upanayana had not been performed.
+
+The Aśv. gr. 1V.6, the Sat. Sr. 28.4, Sān. Sr. 4.6 (called paridhikarma) and some others prescribe a śānti rite after collection of the charred bones of a deceased person. The Baud. P. S. (II. 3.3) and Vispu Dh, S. 19.19 appear to prescribe the Santi rite after the ten days of impurity have expired ('dasarätre saucam krtvā sāntih'). It is described by Aśy, gr, as follows: They who have lost a guru (father or mother) by death should perform on the new moon day an expiatory ceremony. Before sunrise they should carry fire together with its ashes and with its receptacle to the south with the half verse 'I send away the flesh-devouring Agni' (Rg. X. 16. 9). Having cast that fire down at a place where four roads meet or somewhere else, they
+
+РОНА
+
+555. It should be noticed that in Rg. VIII. 95.7-9 the word sudde (pure) occurs thirteen times and hence it is appropriate that those VERENDE are employed as purificatory ones. Similarly, in Rg. VII. 36.12 the word
+
+suci' (pure) occurs six times,
+
+Bhandarkar Oriental Research Institute
+
 IVE
+
+Sānti rite some days after death
+
+245
+
+walk round it thrice, with their left side turned to it and beat ing their left thighs with the left hand. They should then re turn home without looking back, bathe in water, have their hair, beards and hair on the body and nails cut, furnish themselves. with new jars, pots, vessels for rinsing the mouth, with garlands of sami flowers, with fuel of sami wood, with two pieces of sami wood for kindling fire 556 and with branches for encircling the fire, with bull's dung and hide, fresh butter, a stone and as many bunches of kusa grass as there are young women in the house). At the time of the Agnihotra (in the afternoon) he should kindle fire (by means of the aranis) with the half verse 'Here may this other Jātavedas' (Rg. X. 16.9 latter half)'. Keeping the fire burn ing they sit till night silence falls, repeating tales of old men (of the family) and stories of auspicious contents, Itihūsas and Purūnas. When all sounds have ceased or when the others (members of the deceased's family) have gone to their houses or resting place, the performer) should pour out a continuous stream of water beginning at the south side of the door with the verse (Rg. X, 53.6) 'spreading the thread follow the light of the world' and go round the house ending at the north side of the door, Then having placed the fire and spread to the west of it a bull's hide with neck to the east, with the hair outside, he should cause the people of the house (including women) to step on that hide with the verse' Arise to long life' 557 (Rg. X, 18.6). He should place twigs round the fire with Here do I deposit an encircling thing' (Rg. X. 18.4). Having placed a stone to the north of the fire with the words 'May they place a mountain between themselves and death' (Rg. X. 18.4 last pāda) and having sacrificed with four verses 'Go hence, O Death' (Rg. X. 18.1-4), he should look at his people with the verse 'as days follow each other' (Rg. X. 18.5). The young women (belong ing to the house ) should with each hand separately with the thumb and 4th finger salve (at one and the same time) their eyes with fresh butter by means of young darbha blades and cast
+
+POONA
+
+556. Nārāyana explains that the fire means ordinary kitchen fire and he seems to be right in spite of Oldenberg's note to the contrary on p. 246 (of S. B. E. vol. 29). The deceased sacrificer is cremated with his srauta fires (vide Asv. g, IV. 4) and smärta fire (if any) and on his death the Santikarma is performed by the son or other relative who may have no con secrated fires at all or, if he has, he cannot cast them away as long as he lives. The Com. on Sat. Sr. 28.4, 1 states that it is the adblaryu priest that kindles the fire and not he who performed the cremation. To
+
+557. Most of these mantras occur also in Tai. Ā. VI, 10.
+
+VID)
+
+Bhandarkar Oriental Research Institute
+
+246
+
+History of Dharmaśāstra
+
+[Vol.
+
+away the blades turning their faces away. The performer should look at them while they are salving their eyes, with the verse these women, being no widows and having good husbands' (Rg. X. 18.7). The former should first touch the stone with 'the stream containing stones flows' ( Rg. X. 53.8). After that, stationing himself to the north-east, while others go round with the fire, bull-dung and a continuous stream of water he should, after repeating the three verses (āpo hi sthā, Rg. X. 9.1-3), murmur the verse these have led round the cows' (Rg. X. 155,5). A tawny-coloured bull should be led round. They then sit down at a place where they like to stop, having put on fresh unwashed garments and they sit there till sunrise avoid ing sleep. After sunrise, having murmurred the hymns sacred to the sun and auspicious hymns, having prepared food and made oblations with the hymn beginning ‘May he burn away evil from us' (Rg. I. 97.1-8), verse by verse, having given to the brāhmanas to eat, he should cause them to pronounce auspicious words. A cow, a cup of metal and a fresh unworn garment are the sacrificial fee for each of the brāhmanas.. .
+
+A few details may be added from other sutras. The Sat. Śr. (28.4.1) provides that the Sānti is performed on the 10th day after cremation by a priest, that in the folded hands of the wives of the members of the family ) he puts the remains of the material used for oblations with the verse 'these women, not being widows' (Rg. X. 18.7=Tai. A. VI. 10.2), that the priest plants in the earth the stalk of a plant with the verse 'yathā tvam' (Tai, Ā. VI. 10.2 ) 558, that after they return home, they cook goat flesh and boil yava grains and eat them and then may occupy couches and cots (i. e, give up the observances of mourning).
+
+Interesting information is furnished by the Sat. Br. about graves (XIII. 8. 1-4) and Kāt. Sr.559 It is said in Sat. Br. that
+
+558. The mantra is very significant, et
+
+T T Stipa gore s i APA rara ficat #1 Thala 31. VI. 10. 2.
+
+559. 37 ai i marreara: fa ad ratiferat: gar" Seara Sarafaela i Freyr. ir. 28. 4, 28; almost the same words occur in a f L. II. 3. 2. This passage refers to four modes of the disposal of the charred bones viz. burial in the earth of the urn for women and men who had not consecrated srauta fires, depositing the bones alone of the earth for him who performs havir-yajñas (in which only boiled rice ank
+
+ified butter are offered, vide Gaut. 8. 20.), re-cremation for one who had FOUNDE offered soma sacrifice and building a brick or clod structure for h
+
+(Continued on the next page)
+
+INST
+
+POONA
+
+FOUNDED
+
+1917
+
+a
+
+Bhandarkar Oriental Research Institute
+
+IV]
 
 Ancient Graves
 
 247
 
-the grave 560 or monument should not be built too soon after desth, lest he (the performer) freshen up the sin of the deceased ; that he should make it a long time after and when paople do not even remember the years (that have elapsed since the decease). He should make it in uneven years and under a single naksatra (i. e. containing a single stat such as Citra and Pusya, and not dnal such as Punarvasu and Visakhā or plural such as Kettikā ) and on the New Moon day. Let bim make it in autumn or in Māgha or in summer. The sepulchral mound should be four cornered, because the people who are worshippers of gods (or godly) make their burial mounds four-cornered, while those who are followers of Asuras, the Easterns and such like people, make them round. As to the choosing of the ground, the Sat. Br. states several views viz. he makes it on ground sloping towards the north or, according to some, to the south; but the Sat, Br, disspproves of both the views and prescribes that he should make the burial mound on any level ground where the waters flowing from a southernly direction come to the east and stand still without dashing forward and on such a ground one may make it (burial mound). Lot him make it on a pleasant and peaceful spot, but not on a road nor in an open space lest he should make the deceased's sin manifest. It should have the sun shining on it (at mid-day). It should not be made at a place
+the grave 560 or monument should not be built too soon after death, lest he (the performer) freshen up the sin of the deceased ; that he should make it a long time after and when people do not even remember the years (that have elapsed since the decease). He should make it in uneven years and under a single naksatra (i.e. containing a single star such as Citra and Pusya, and not dual such as Punarvasu and Visakhā or plural such as Krttikā) and on the New Moon day. Let him make it in autumn or in Māgha or in summer. The sepulchral mound should be four cornered, because the people who are worshippers of gods (or godly) make their burial mounds four-cornered, while those who are followers of Asuras, the Easterns and such like people.
 
-. (Continued from the last page) bad performed the solemo rite of Agnicagana. Mlades of uro burial, earth burial and re-crenation resemble the faneral customs of the copper age folk of the lower Indus at Mohenjo-daro and Harappa. Vide Memoir No 31 of the Archaeological Survey of India by Ramprasad Chanda at pp. 13-14
+make them round. As to the choosing of the ground, the Sat. Br. states several views viz. he makes it on ground sloping towards the north or, according to some, to the south; but the Sat. Br. disapproves of both the views and prescribes that he should make the burial mound on any level ground where the waters flowing from a southernly direction come to the east and stand still without dashing forward and on such a ground one may make it (burial mound). Let him make it on a pleasant and peaceful spot, but not on a road nor in an open space lest he should make the deceased's sin manifest. It should have the sun shining on it (at mid-day). It should not be made at a place
 
-__560. अथास्मै श्मशानं कुर्वन्ति । तदैन क्षिप्रं कुर्यात् । नेयमचं करवाणीति चिर एवं कुर्यादयमेव तत्तिर. करोति यत्र समा नानु चन स्मरेयुः ..यद्यवस्मरेयु । अयुग्मेषु संवत्सरेषु कुर्यात्। एकनक्षत्रे . अमावास्यायाम्।. शरदि कुर्यात् ।...माघे धा मा नोऽधं भूदिति निदाघे धानि नोऽप धीयाता इति । चतु सक्ति । तस्माद्या देव्या प्रजाश्चतुःयक्तीनि ताः स्मशानानि फुत्रतेऽथ या आसुर्य. प्राच्यास्त्वद्यत्वे परिमण्डलानि ।.. अथातो भूमिजोषणस्य । उदीचीनप्रवणे करोति । दक्षिणामवणे कुर्यादित्याहु ।...यस्पैच समस्य सतः दक्षिणत. पुरस्तादाप एल्य संस्थाया प्रश्रय एतां दिशममिनिष्पधाक्षय्या अपोऽपिपरस्त कुर्यात् ।...कम्प्रति कुर्यात् के मेड सदित्यथोशंपति शं मेऽसदिति नाधिपथं कुर्यात्राकाशे नेदाविरघं करवाणीति आदित्यज्योतिष मेवन करोति । न तस्मिन् कुर्यात् । यस्येत्थादनकाश. स्यात् । चित्रं पश्चात्स्यात् !...यदि चित्रं न पादाप. पश्चाहोत्तरतो वा स्यु । . ऊपर करोति । समूले .. न भूमिपाशामभिविदध्यात् । न शर नाश्मगन्धा नास्याण्डा न पृश्निपणी नाश्वत्थरयान्तिक कुर्यात्र विभीतकस्य न तिल्वकस्य न स्फूर्जकस्य न हरिद्रोन न्यग्रोधस्य ये चान्ये पापनामान . अग्निविधयाग्निचितः श्मशान करोति । तद्वैन महत्कुर्यात् । नेन्महद करवाणीति ।...पुरुषमा देव कुर्यात् ...पश्चाहरीयः... उत्तरतो वर्षीय.। तद्विधायापसलविवाभिः स्पन्धाभिः पर्यातनोति ... शतपथद्रा XIIH 8.13; compare कौशिक 83.5-7 for similar derirations of मार, निदाय &c
+(Continued from the last page ) bad performed the solemn rite of Agnicayana. Modes of urn burial, earth burial and re-cremation resemble the funeral customs of the copper age folk of the lower Indus at Mohenjo-daro and Harappa. Vide Memoir No 3 of the Archaeological Survey of India by Ramprasad Chanda at pp. 13-14.
 
-HD
+560. अथास्मै श्मशानं कुर्वन्ति ।...तद्वै न क्षिप्रं कुर्यात् । नेनवमधं करवाणीति चिर एव कर्यादयमेव तत्तिरः करोति यत्र समा नानु च न स्मरेयुः... यद्यनुस्मरेयुः। अयुग्मेषु संवत्सरेषु कुर्यात् ।...एकनक्षत्रे...अमावास्यायाम् ।... शरदि कुर्यात् ।...माघे वा मा नोऽधं भूदिति निदाघे पानिनोऽय धीयाता इति । चतुःसक्ति ।...तस्माद्या देव्यः प्रजाश्चतुःसक्तीनि ताः श्मशानानि कुर्वतेऽथ या आसुर्यः प्राच्यास्त्वद्यत्वे परिमण्डलानि ।...अथातो भूमिजोषणस्य । उदीचीनप्रषणे करोति... । दक्षिणाप्रवणे कुर्यादित्याहुः । ...यस्यैव समस्य ससः दक्षिणतः पुरस्तादाप एत्य संस्थाया प्रनत्य एतां दिशमभिनिष्पद्याक्षय्या अपाऽपिपद्यरंस्तत्कुर्यात् ।...कम्बति कुर्यात् के मेड सदित्यथो शवति शं मेऽसदिति नाधिपथं कुर्यान्नाकाशे नेदाविरघं करवाणीति ।...आदित्यज्योतिष मेवेनं करोति । न तास्मन् कुर्यात् । यस्येत्थादनूकाशः स्यात् ।...चित्रं पश्चात्स्यात् । यदि चित्रं न स्यादापः पश्चाद्वोत्तरतो वा स्युः ।... ऊषरे करोति...। समूले...न भूमिपाशामभिविदध्यात् । न शरं नाश्मगन्धा नाध्याण्डां न पृश्निपर्णी नाश्वत्थस्यान्तिकं कुर्यान्न विभीतकस्य न तिल्पकस्य न स्फूर्जकस्य न हरिदोन न्यग्रोधस्य ये चान्ये पापनामानः...। अग्निविधयाग्निचितम् श्मशानं करोति ।...तद्वैन महत्कुर्यात् । नेन्महदर्घ करवाणीति।... पुरुषमात्रं त्वेव कुर्यात् . वाद्वरीयः... उत्तरतो वर्षीयः। तद्विधायापसलविसृष्टाभिः स्पन्द्याभिः पर्यातनोति...। शतपथना. III 8. 13 compare कौशिक 83. 5-7 for similar derivations of माघ, निदाघ &pesearch institute
+
+1917
+
+Bhandarkar Oriental
 
 248
 
-History of Dhar maśāstra
+History of Dharmaśāstra
 
 [Vol.
 
-where it would be visible from the rillage and there should be charming objects to its west ( woods, gardens &c.). If there be no charming objects there should be waters to its west or porth. Ho pakos it on salt (barren) soil, on such ground as abounds in roots. Let him not make it near where grows the Bhūmipāśā plant or where reeds grow, or Aśvagandhā or Adhyanda, or Prśniparnī grows. He should not make it near an asrattha tres or near a vibhitaka tree or a tilvaka, a sphūrjaka or a haridru or nyagrodha tree or other trees that have an eril name (like slesmātaka or koyidāra) For one ho has per formed Agnicayana, he makes a tonb after the manner of the fire altar. One must not make it too large lest he should make the sin (of the deceased) large He should make it just a man's size, broader behind (to the west) and broader on the north side He encloses it with cords twisted in the non-sunwise way. He then bids them to out out the earth which would be just sufficient for making the mound of a man's size.
+where it would be visible from the village and there should be charming objects to its west (woods, gardens &c.). If there be no charming objects there should be waters to its west or north. He makes it on salt (barren) soil, on such ground as abounds in roots. Let him not make it near where grows the Bhumipāsā plant or where reeds grow, or Ašvagandhā or Adhyanda, or Prśniparni grows. He should not make it near an aśvattha tree or noar a vibhitaka tree or a tilvaka, a sphurjaka or a haridru or nyagrodha tree or other trees that have an evil name (like ślesmātaka or kovidāra). For one who has per formed Agnicayana, he makes a tomb after the manner of the fire altar, One must not make it too large lest he should make the sin (of the deceased) large. He should make it just a man's size, broader behind (to the west) and broader on the north side. He encloses it with cords twisted in the non-sunwise way. He then bids them to cut out the earth which would be just sufficient for making the mound of a man's size.
 
-The Kāt Śr. (21. 3. 1 and 6) closely follows the above direc tions containod in the Sat 561 Br The Sat. ŚT. 29,1,prorides that when the day of cromation is not known or remembered one may croct a mound over the bones ( with clods of earth or bricks) on the New Moon day that comes immediately after the Full Moon day of Māgha, Phālguna, Caitra, Vaisakha or of the summer months (Jyestha and Asādha)
+The Kāt. Sr. (21.3.1 and 6) closely follows the above direc tions contained in the Sat. 561 Br. The Sat. Sr. 29. 1.2 provides that when the day of cremation is not known or remembered one may erect a mound over the bones ( with clods of earth or bricks) on the New Moon day that comes immediately after the Full Moon day of Māgha, Phālguna, Caitra, Vaisakha or of the summer months (Jyestha and Āsādha),
 
-The Sat. Br. (XII. 8 2-4) pursues the subject of sepulchral monuments as follows: Godly people make their sepulchres so as not to be separate from the earth; while those trho are of the Asura stamp, the Easterns and others, make the sepulchral mounds so as to be soparate from the earth, either on a stone basin or a similar thing He then oncloses it with an undefined number of stones silently. He then sweeps the Bepul chral site with a palāśa branch with (Vāy S. 35.1 'May the niggardly god-haters go away') and prays that Yama may grant him ( the deceased) an abode He throws out the branch to the south side He then yokes the team of six oxen to the plough on the south side or on the north side, as he chooses Having given the order 'Yoka' he (the performer ) utters the
+The Sat. Br. (XIII. 8.2-4) pursues the subject of sepulchral monuments as follows: Godly people make their sepulchres so as not to be separate from the earth; while those who are of the Asura stamp, the Easterns and others, make the sepulchral mounds so as to be separate from the earth, either on a stone basin or a similar thing. He then encloses it with an undefined number of stones silently. He then sweeps the sepul chral site with a palāśa branch with (Vāj. S. 35.1 'May the niggardly god-haters go away') and prays that Yama may grant him (the deceased) an abode. He throws out the branch to the south side. He then yokes the team of six oxen to the plough on the south side or on the north side, as he chooses, Having given the order 'Yoke 'he (the performer ) utters the stru,
 
-561 The grave is to be constructed in such a way that the four corACTS would lic is the direction of the four quarters, as Kāt. Sr. (21.3. 28-29) atates 'diksrakti parosa mitram mimite uttaratah prtha paścāccal,
+POONA
 
-249 IV)
+FOUNDED
 
-Sepulchral monuments mantra (Vā). S. 35, 2).562 Having turned round the plough from right (south side ) to the north, he ploughs the first furrow with Vaj. S. 35,3 *May Vayu purify' along the north side towards the west; with 'May Savitr purify along the west side towards the south; with 'Agni's lustre' along the south side towards the east, with 'Sūrya's brilliance' along the front side towards the north, Four furrows he ploughs with a Yajus forpiula. He then ploughs across the body (of the sepulchral site) silently with an undefined number of furrows He then unfastens the team of oxen To the right side (south-west) be removes this (the plough and the team ).
+561 The grave is to be constructed in such a way that the four corners 1917 would lie in the direction of the four quarters, as Kät. Sr. (21.3. 28-29) zeuropard states 'diksrakti purusamätram mimite uttaratah prthu pascacca).
 
-He then sows seeds of all kinds of herbs with a single verse (Vā). S 354); for long life he thereby prays for these (the performer's family) and accordingly each subsequent one of them dies of old age He then pours out that (jar of bones). He does so before sunrise so that the sun should rise over him while he is doing it He does so with Vāj S. 35. 5-6. He then says to some one 'Proceed in that ( southern ) direction without drawing breath and having thrown down the jar, return hither without looking behind.' He then mutters Vāj $. 35.7. He then arranges the dead man ( the bones ) limb by limb with Vāj. S. 35.8–9. Now thirteen unmarked 563 bricks each measuring a (human) foot (pada) have been made and are laid down
+Bhandarkar Oriental Research InstituteIV1
 
-562. It is not possible, owing to considerations of space, to set out all the verses of the Vaj S. chap. 35 mentioned as mantras by the Sat Br Oaly & fer are set out bere in order to show how appropriate they are as referring to the actions prescribed by the Sat Br. Verse 1 first halt is that you Qurais सुम्ना देवपीयव' ।। सविता ते शारीरोग्य पृथिव्यालोकमिच्छतु । तस्मै युज्यन्तामलिया। चाज सं 352. घायु पुनातु सविता पुनात्वग्नीजसा सूर्यस्य वर्चसा । विमुच्यन्तामाग्नियाः । 9151 35.3
+Sepulchral monuments
 
-563 The bricks of the fire altar are taarled with lines (vide H of Dh. Vol II. p 1248) The bricks to Agnicayada are as long as the foot of the sacrificer. Thereon gods have to be worshipped Here it is the fathers to be bonoured Throughout Sat, Br. XIII 8 2-3 a distinction is drawn between wbat is done for the gods and what is to be done for pitṛs in order to keep the divine distinct from what belongs to the fathers In Agnicayana a bird-like pattern is the most frequent (vide H of Db vol II p. 1249) It is hence that the Sat Br. speaks of wings and tails. The heights prescribed for men of the several varṇas and for tomen are symbolic Ksatriyas, brābwanas aad vaisyas represent the arms, the month and thighs of the Parasa (as stated in Ṛg. X. 90.12). The It Sr (21 4 13-14) gires au option in the case of a ksatriya viz. the monad may be as high as the ches or as bigh as a mao with upstretched arms.
+249
+
+mantra (Vaj. S. 35, 2 ) 562 Having turned round the plough from right ( south side ) to the north, he ploughs the first furrow with Vāj. S. 35.3 ' May Väyu purify' along the north side towards the west; with 'May Savitr purify' along the west side towards the south ; with 'Agni's lustre' along the south side towards the east: with Sürya's brilliance' along the front side towards the north. Four furrows he ploughs with a Yajus formula. He then ploughs across the body (of the sepulchral site ) silently with an undefined number of furrows. He then unfastens the team of oxen, To the right side (south-west ) he removes this (the plough and the team).
+
+He then sows seeds of all kinds of herbs with a single verse (Väj. S. 35.4); for long life he thereby prays for these (the performer's family ) and accordingly each subsequent one of them dies of old age. He then pours out that (jar of bones ). He does so before sunrise so that the sun should rise over him while he is doing it. He does so with Vāj. S. 35, 5-6. He then says to some one 'Proceed in that ( southern ) direction without drawing breath and having thrown down the jar, return hither without looking behind.' He then mutters Vāj. S. 35.7. He then arranges the dead man ( the bones ) limb by limb with Vāj. S. 35.8-9. Now thirteen unmarked 563 bricks each measuring a (human) foot (pada) have been made and are laid down
+
+562. It is not possible, owing to considerations of space, to set out all the verses of the Vaj. S. chap. 35 mentioned as mantras by the Sat. Br. Only a few are set out here in order to show how appropriate they are as referring to the actions prescribed by the Sat. Br. Verse 1 first balf is 'ara gra que सम्ना देवपीयवः ।।; सविता ते शरीरेभ्यः पृथिव्याल्लोकमिच्छतु । तस्मै युज्यन्तामुस्रियाः॥
+
+5. F. 35. 2; T: YFIT FAT YA
+
+पना सविता पुनात्वग्नेभ्रोजसा सूर्यस्य वचंसा। विमुच्यन्तामनियाः॥ ETT #. 35.3.
+
+563. The bricks of the fire altar are marked with lines (vide H. of Dh. Vol. II. p. 1248). The bricks in Agnicayana are as long as the foot of the sacrificer. Thereon gods have to be worshipped. Here it is the fathers to be honoured. Throughout Sat. Br. XIII. 8.2-3 a distinction is drawn between what is done for the gods and what is to be done for pitrs in order to keep the divine distinct from what belongs to the fathers. In Agnicayana a bird-like pattern is the most frequent (vide H. of Dh vol. II. p. 1249 1 is hence that the Sat. Br. speaks of wings and tails. The heights preseti bodoh for men of the several varnas and for women are symbolic. Kşaltyas brahmanas and vaisyas represent the arms, the mouth and thighs of the Purusa (as stated in Rg. X. 90.12). The Kat, Sr. (21.4 13-14) gives an option in the case of a ksatriya viz. the mound may be as high as theher Hoekar Oriental or as high as a man with upstretched arms.
+
+S
+
+POONA
+
+Research Institute
 
 H. D. 32
 
 250
 
+History of Dharmasastra
 
+[ Vol.
 
-(Tol,
+silently (and not with mantras as in the case of the Agnicayana ). One of the thirteen he places in the middle, with the front towards the east (this represents the trunk); three are placed in front (representing the head); three on the right (that is the right wing ); three on the left (that represents the left wing); three behind (representing the tail). He then directs them to bring some soil from a cleft in the ground. Some dig in the intermediate (south-eastern ) quarter and fetch it from there; others dig in the south-west and fetch it north wards; he may do as he likes (there is an option). Let him not make the sepulchral mound too large. For a kşatriya he may make it as high as a man with upstretched arms, for a brāhmana reaching up to the mouth, for a woman up to the hipg, for a vaiśya up to the thighs, for a sūdra up to the knee; or let him rather make it so high (for all ) as to reach below the knee. While the mound is being made, they hold a bundle of reed grass to the north of it. Let him not throw it down after hold ing it up or after bringing it, but let him set it up in the house (as it represents offspring). Having prepared it he sows barley grain, thinking 'May they ward off (yavaya ) sin from me!' He covers it over with Avakā plants in order that there may be moisture ( ka or joy ) for him and with darbha grass for goftness.
 
-silently (and not with mantras as in the case of the Agnicayana). One of the thirteen le places in the middle, pith the front towards the east (this represents the trunk), three are placed in front (representing the head), thres on the right ( tbat is the right wing); three on the left ( that represents the left wing); three behind (representing the tail). He then directs them to bring some soll from a cleft in the ground, Sone dig in the intermediate (south-eastern ) quarter and fetch it from there; others dig in the south-test and fetch it north wards; he may do as he likes (there is an option) Let him not make the sepulchral mound too large For a ksatriya lie may make it as high as a man with upstretched arms, for a brāhmana reaching up to the mouth, for a woman up to the hips, for a Taisya up to the thighs, for a sūdra up to the knee, or Jet hin rather make it so high (for all ) as to reach below the knee. Fhile the mound is being made, they hold a bundle of reed grass to the north of it. Let him not throv it down after hold ing it up or after bringing it, but let him set it up in the house (as it represents offspring) Having prepared it he sotrs barloy grain, thinking "May they ward off (yazaya ) sio from mol' He covers it over with Avaka plants in order that there may be moisture (ha or joy ) for him and with dardha grass for softnegs,
+They fix pegs round it, a palāśa one in front, a sami one on the north corner, a varana one behind and a vộtra 564 peg on the right (south corner). On the south side they dig two some. what curved furrows and fill them with milk and water and they dig seven on the left (north) side and fill them with water for sin not to pass beyond. They throw three stones each into the northern furrows and pass over them with Vaj. S. 35. 10 ( = Rg. X. 53. 8). They cleanse themselves with Apāmārga 565 plants with Väj. S. 35.11; they thereby wipe away sin. They bathe at any place where there is water. With Vāj. S.. 35. 12 he takes water with his joined hands and he throws it in the direction in which he who is hateful may be and thereby overthrows him 566 Having bathed and put on garments that have never yet been washed they hold on to the tail of an ox and return to their
 
-They fix pegs sound it, a palāga one in front, a sami one on the north corner, a exrana one behind and a yrtra. 564 peg on the right ( south corner). On the south side they dig two some what curred furrows and fill them with milk and water and they dig soven on the left (north) side and fill them with water for sin not to pass beyond They throw three stones each into the northern furrows and pass over them with Vāj S 35 10 (=Rg. X. 53 8) They cleanse themselves with Apāmārga 565 plants with Vāj S 35 11; they thereby vipe away sin They batle at any place where there is water. With Vaj S , 35 12 ho takes rater with his joined hands and he throws it in the direction in which he who is hateful may be and thereby overthrows him *** Having bathed and put on garments that have never yet been tashed they hold on to the tail of an ox and return to their
+564. The meaning of Vrtra-Sanku cannot be stated. Kāt. Sr. 213.31 reads are for and the Com. explains tg as rss. Costrup
 
-564 The meaning of Vrtra-Saṅku cannot be stated Kāt Sr 213 31 reads देहश for बाड and the Com explanas सुश as पापाणश
+565. 31A Porta BUTA? Pu: 1 START TAFHEIT : 973. . 35, 11.
 
-565 अपाधमप किल्विपमए कृत्यामपो रिप । अपामार्ग यमरमदप दुप्पान्यं सुना 5 \# 35 11.
+566. UThere are simua za gira area # Atsargi * PUF: # FYT. #.35 12.
 
-566 HTC a 31 271949 7 TRA I Atsaraiera F OR ! 35 12.
+FOUNDED
 
-IV)
+1917
+
+नावगीतमा
+
+Bhandarkar Oriental Research Institute
+
+IV
 
 Rites of sepulchral mounds
 
 251
 
-home. They proceed towards the village muttering Vaj. S. 35.14 (ud vayam). When they have arrived, ointments for their eyes and feet are given to them; such indeed are buman means of embellishment and therewith they keep off death from them selses Then in the house having kindled (domestic) fire and laid enclosing sticks of zarana wood round it he offers by means of a sruva ( spoon) an oblation to Agni Ayuṣmat. Vaj. S. 35. 16 serves 367 as a puronur ākyā (invitatory formula). He then offers with Vāj. S. 35.17. He says this so that Agni may guard and protect these men. The sacrificial fee is an old ox, old barley, old chair with a head cushion, He may give more if he desires. This is the procedure in the case of one who has performed Agnicayana 568 In the case of him who has not performed Agni. cayapa, there is the same procedure for selecting a site and the same performance says that of the firs-altar Having fetched a clod from the boundary he deposits it midway between the sepulchral mound and the village with Vaj. S. 35. 15 (imam 569 Jivebhyah). He then makes this a boundary between the Fathers and the living, so as not to commingle the two.
+home. They proceed towards the village muttering Vaj. S. 35.14 (ud vayam). When they have arrived, ointments for their eyes and feet are given to them; such indeed are human means of embellishment and therewith they keep off death from them selves. Then in the house having kindled (domestic) fire and laid enclosing sticks of rarana wood round it he offers by means of a sruva (spoon) an oblation to Agni Ayuşmat. Vāj. S. 35. 16 serves 567 as a puronuvākyā (invitatory formula). He then offers with Vāj. S. 35.17. He says this so that Agni may guard and protect these men. The sacrificial fee is an old ox, old barley, old chair with a head cushion. He may give more if he desires. This is the procedure in the case of one who has performed Agnicayana. 568 In the case of him who has not performed Agni cayana, there is the same procedure for selecting a site and the same performance save that of the fire-altar. Having fetched a clod from the boundary he deposits it midway between the sepulchral mound and the village with Väj. S. 35. 15 (imam 569 jivebhyah). He then makes this a boundary between the Fathers and the living, so as not to commingle the two.
 
-The Sat. Śr. 29. 13 f, and Baud. P.S. I 17–20 provide a lengthy procedure for erecting a mound over the bones of one who has performed the special rite of agnicajana which is passed over here. In building a mound the urn deposited under - a tree is taken out and after the bones are purified in various Ways (such as the spilling on them of curds mixed with vājina from & jar, the digging up of the clods by means of a plough to which & certain number of oxen are yoked). The Sat. Sr. (29. 1. 3-12) deals with one kind of procedure in which there is no dhavana, while 29.1. 13-32 deal with the procedure where dhamana is employed and sūtras from 33 deal with procedure common to both pahsas (viz, one without dharana and the other with dhawna) The building of a mound with clods (lostaciti) in which there is dhavana is rather an obscure matter in its nature and had some symbolic significance which is now lost. It may be briefly described as follows. The members of the deceased's house
+The Sat. Sr. 29.1 3 ff. and Baud. P. S. I 17-20 provide a lengthy procedure for erecting a mound over the bones of one who has performed the special rite of agnicayana which is passed over here. In building a mound the urn deposited under a tree is taken out and after the bones are purified in various ways (such as the spilling on them of curds mixed with vājina from a jar, the digging up of the clods by means of a plough to which a certain number of oxen are yoked). The Sat. Śr. (29.1. 3-12) deals with one kind of procedure in which there is no dhowana, while 29.1. 13-32 deal with the procedure where dhavana is employed and sūtras from 33 deal with procedure common to both paksas (viz.one without dhavana and the other with dhavana) The building of a mound with clods (loştaciti) in which there is dhavana is rather an obscure matter in its nature and had some gymbolic significance which is now lost. It may be briefly described as follows:- The members of the deceased's house
 
-567, 37 trga 928 H gain
+STITUT
 
-I BÈ Tu
+NS
 
-r
+POONA
 
-n 277
+567. P rera 3 g 77: U gegara ars, 35. 16.
 
-35 16.
+568. Brya Efan yurt gagalhitarardi qa frearry rqara garrafa ATE FETET I AFT. #. 35. 17.
 
-568, BTECHrotherage Turnattigastrattati et ET AY IT Tzū da EHCHAIRAT FATET N 915 \# 35 17.
+569. a spara: re qura #at a preger s eg frat fard summa 64fcvang quat giam (1 47. . 35. 15.
 
-569 दम जीरेभ्य' परिधि दधामि मैदानुनादपरो अर्थमेतम्। शतं जीवन्तु शरद Sei teg tatt ge 95. . 35. 13,
+FOUNDED
+
+1917
+
+Bhandarkar Oriental Research Institute
 
 252
 
+History of Dharmaśāstra
 
+[Vol.
 
-(Vol. build a shed or a seat for a bed. They drive in the eastern half or middle or wostern half of it a three-pronged palāsa peg, In front of it one born of a sūdra woman or a brahmabandhu ( a brāhmana only in name) sits down for a dialogue He asks the principal wife of the deceased) 'will you dwell with me.' That woman roplies to him 'I shall not give (what you ask).' The samo dialogue takes place on the 2nd day. Then on the third day she replies 'I shall give for one night' Or if this peculiar practice (of talking about dhavana, which literally means 'soxual intercourse') was intended to last for more days than three sho was to give a suitable reply (viz. for three nights or for five nights &o). When the words of the reply are uttered by the wifo, the performer deposits the bones (of the deceased) at the root of the peg and places between the three prongs of the peg & jar having a hundred holes at the bottom The mouth of the jat is covered with a hide and kusa grass On that jar he sprinkles curds mixed with vājina with the mantra 'Vaisvānare haviridam' (Tai. Ā. VI. 6.1). When the liquid oozes from the jar on the bones he invokes the two yerges drapsas-caskanda' and 'imam samudram' (Tai. Ā, VI 6). Then the Sat Sr. (29.1. 26-29) provides that four branmacūrins or other brāhmanas, that are pure, tie up their locks on their heads that are to the right and keep dishevelled those on the left side of the head, they strike their right thighs and also the hide that is wound round the jar of bones, fan it with the fringes of their garments, go round the peg thrica with their left side towards the jar and the people living in the same house with the deceased) and women also do the same, 570 that lutes (vīna) are played upon and also conches are blown and other instruments like nāliha, tūna, panava are beaten and there is also dancing, singing and playing on musioa) instruments. This practice of dharana (symbolio) may go on for five, seven, nine, eleven days, half & month, a month or a year during which time one has to donate food and money (gold &c ) according to one s ability or on the last day according to some, 571 If one may offer a conjecture, this rite was intended to assure the deceased man (represented by the charred bones) that his wife had remained faithful and
+build a shed or a seat for a bed. They drive in the eastern half or middle or western half of it a three-pronged palasa peg. In front of it one born of a südra woman or a brahmabandhu (a brāhmana only in name ) sits down for a dialogue. He asks the principal wife ( of the deceased) 'will you dwell with me. That woman replies to him 'I shall not give (what you ask).' The same dialogue takes place on the 2nd day. Then on the third day she replies 'I shall give for one night.' Or if this peculiar practice (of talking about dhavana, which literally means 'sexual intercourse') was intended to last for more days than three she was to give a suitable reply (viz, for three nights or for five nights &c). When the words of the reply are uttered by the wife, the performer deposits the bones ( of the deceased) at the root of the peg and places between the three prongs of the peg a jar having a hundred holes at the bottom. The mouth of the
 
-570 Compare anche 85 10-11
+covered with a hide and kusa grass. On that jar he sprinkles curds mixed with vājina with the mantra Vaišvānare haviridam' (Tai. Ā. VI, 6.1). When the liquid oozes from the jar on the bones he invokes the two verses 'drapsas-caskanda' and 'imam samudram' (Tai. Ā. VI. 6). Then the Sat Śr. (29.1. 26-29) provides that four brahmacārins or other brāhmanas, that are pure, tie up their locks on their heads that are to the right and keep dishevelled those on the left side of the head, they strike their right thighs and also the hide that is wound round the jar of bones, fan it with the fringes of their garments, go round the peg thrice with their left side towards the jar and the people living in the same house (with the deceased) and women also do the same, 570 that lutes (vinā) are played upon and also conches are blown and other instruments like nālika, tūņa, panava are beaten and there is also dancing, singing and playing on musical instruments. This practice of dhavana (symbolic ) may go on for five, seven, nine, eleven days, half a month, a month or a year during which time one has to donate food and money (gold &c.) according to one's ability or on the last day according to some. 571 If one may offer a conjecture. this rite was intended to assure the deceased man (represented by the charred bones) that his wife had remained faithful and
 
-reg tenjulenzu. परियन्ति दक्षिणानुरूनानाना । एवं मध्यरात्रे अपरराने च।', कस्ये मृजाना 1 अथर्ववेद 18.3. 17
+STITU)
 
-571. Onghari Terata maita (a *** 29. 1 19.) the food ree marks 'एतच वचनमाधम् । म त तेन सह पासः कार्य परमेतेनामा,253
+is on
 
-IV
+570. Compare tirane 85.10--11 F 1 :
+
+9 para arrasatearar: 1 på FERI 29 1;
+
+F F 18.3. 17.
+
+571. On ar arata gata (reur. D. 29. 1. 19.) the marks 'vaa #THITTIT TE FTA:
+
+TP%
+
+parent per
+
+Bhandarkar Oriental Research Institute
+
+IVI
 
 Rites of erecting mound over bones
 
-unattached to any one else even long after his death. The Baud, P, S, (I 17.8) also states that female dancers dance in this rite. Various measurements are given in the sutras for the mounds that are constructed over the bones, Sat, Śr. (29.1 5-6) says 572 that the site of the mound / $maśūnāyatana ) is five prahramas on all four sides (or six on the east and five in the other directions, acc. to some ). The height of the mound is variously given ayen in the same sūtra. 573 Sat Śr. states that the height way be two finger-breadths, or three or four or a pradeśa (the distance between the thunib and index finger when both are stretched away) or a vlast, (twelve finger-breadtha), or it may be up to the knee or thighs or buttocks The Baud P S,T, 18 gives different 574 measurements. It states if the mound to be raisad is as high as the neck towards the west, then it is up to the pavel on the east, if it is as high as the naye) on the west, then it is as high as the knee on the east; if up to the knee on the west them on the east it is level with the ankle'. The Kausikasūtra 575 (854-10) gives certain options viz. the maṇḍapa on which the mound is to be erected is either 7, 7,5,3 prakramas on the south, north, east and west or 9, 9,7, 5 on the same sides in order or 11, 11, 9, 7; that in the case of those who worshipped the gods, the length was eleven on all sides; that in the case of the Saunakins the sides of the mound) are to be measured in odd numbers (of prakramas ) and the mounds are either round or four-cornered; that such mounds are seen (in those days) and that the grave built for one who had set up vedic fires was to be of the height of a man with arms upraised, These passages show that the graves were generally
+253
 
-572. 343T A rona Faria
+unattached to any one else even long after his death. The Baud. P. S. (IL 17.8) also states that female dancers dance in this rite. Various measurements are given in the sūtras for the mounds that are constructed over the bones. Sat, Sr. (29.1,5-6) says 572 that the site of the mound / śmaśānāyatana ) is five prakramas on all four sides (or six on the east and five in the other directions, acc. to some ). The height of the mound is variously given even in the same sūtra. 573 Sat. Sr. states that the height may be two finger-breadths, or three or four or a prūdeśa (the distance between the thumb and index finger when both are stretched away) or a vitasti (twelve finger-breadths), or it may be up to the knee or thighs or buttocks. The Baud. P.S.T. 18 gives different 574 measurements. It states if the mound to be raised is as high as the neck towards the west, then it is up to the navel on the east; if it is as high as the navel on the west, then it is as high as the knee on the east; if up to the knee on the west then on the east it is level with the ankle'. The Kausikasütra 575 (85.4-10) gives certain options viz, the mandapa on which the mound is to be erected is either 7, 7,5, 3 prakramas on the south, north, east and west or 9, 9, 7,5 on the same sides in order or 11, 11, 9, 7; that in the case of those who worshipped the gods, the length was eleven on all sides; that in the case of the Saunakins the sides (of the mound) are to be measured in odd numbers (of prakramas ) and the mounds are either round or four-cornered; that such mounds are seen (in those days) and that the grave built for one who had set up vedic fires was to be of the height of a man with arms upraised, These passages show that the graves were generally
 
-Art Fai Te ganarea FeaT.1 29 1.5-6, the Com. are at explains 9 99 HAHAHPRO THE चतुरन लोटचितेरायसनं भवति । प्रक्रामो द्विपदत्रिपदो घेत्युक्तं शुल्मेपुर
+572. अपराहे श्मशानायतनं विमिमीते पञ्च पञ्च प्रक्रमान् सर्वतः। षद पुरस्तादित्येके । सत्या. ओ.29. 1.5-6%; the Com. बंजयन्ती explains 'तथा च पश्च प्रक्रमसंमितं सम चतुरस्र लोष्टचितेरायतनं भवति । प्रक्रमो द्विपदास्निपदो वेत्युक्तं शुल्बेषु'.
 
-573. Ineu HAT HIER SET IT en raaieaizEBRESSER fires ART REET SWIFTI \#. 1. 29 1 70. The com says per मूर्धप्रमाणमुच्यते । नत्र इन्चङ्गलादीनामष्टानामन्यतममूर्चप्रमाणं स्थलस्य तस्योपरीधका
+-573. श्मशानस्य मात्रा द्वयङ्गलं व्यङ्गुलं चतुरङ्गलं मादेशो वितस्तिजाउदनमूदन स्फिग्दनं वषोत्तमा मात्रा श्मशानस्य । सत्या. श्री. 29. 1. 70. The com. says 'इदानी मूलप्रमाणमुच्यते । तत्र इवङ्गलादीनामष्टानामन्यतममूर्ध्वप्रमाणं स्थलस्थ तस्योपरीष्टका श्वेतव्याः ।।
 
-574 ET AFTER THIRUTIN ER F E TATTOTTAISI E T IDEA TOTEUTETTEET &C. 1 t æ I 186, Dr Caland's text reads the exact opposite (i 15 0.21) Szia francesi yeaatriata pestare नाभिदध्न पुरस्तानानुदप्नं पश्चाद्यदिजालदन पुरस्तातुल्फदन पश्चात् '.
+2574. तस्य मात्रा यदि यीवदनं पश्चात्पुरस्तानाभिदध्नं यदि नाभिदधनं पश्चात्पुरस्ताजा नुदध्नं यदि जानुदघ्नं पश्चात्पुरस्ताद्गुल्फनं &c. । यो पि. सू. I 18,6; Dr. Coskilival's text reads the exact opposite (I I5 p. 21) 'यदि ग्रीवदनं पुरस्तानाभि पवाद्यदि नाभिदध्नं पुरस्ताजामुदघ्नं पश्चाद्यदिजानुघ्नं पुरस्तादुल्फदन पश्चात्. NEDY
 
-575 reparation testart i BMT TRAVESTI want a pirata ATE! Frant aqrarta Fraga: 1 85, 7-10.
+575.. एकादशभिर्देवदर्शिनाम् । अयुग्भमानानि परिमण्डलानि चतुराणि या शोमकि नाम् । तथाहि दृश्यन्ते । यावापुरुष अर्श्वबाहुस्तावानग्निचितः । कोशिकसूबptariprior
+
+Add
+
+1917
+
+Research Institute
 
 254
 
-History of Dharnafasiru
+History of Dharmaśāstra
 
-[ For
+(Vol.
 
-quadrangular but sometimes round also (scc, to-crisin schools). The mounds at Laurif& referred to abafe ane rond.
+quadrangular but sometimes round also (acc. to certain schools). The mounds at Lauriya referred to above are round.
 
-or state de los acist
+Another feature to be noted is that clods were employed (and so the mound was called lostaciti) or baked bricks in building the mound or grave over the bones by piling up layers of clay or bricks. In laying down the bricks first on the east, then on the north, then on the west and then on the south, the gütras such as Sat, Sr. ( 29.1.53 ,576 Baud, P.S. (I 19.4-7) four verses were respectively employed that are (in order) Rg. X. 18.13, 10, 11, 12 (which are also A. V. XVIII. 3.52, 49 50, 51 and Tai. A. VL71). One of these (Rg. X. 18.12 ) speaks of pillars and the other (Rg. X. 18.13) of a post (sthüņā). Vide above p. 189. The discovery of two wooden posts in two mounds ( at Lauriya above) in which the bones were deposited indicates that the Lauriya mounds followed a vedic custom which is mentioned by the srautasütras. The main difference between the Vedio and sutra ritual on the one hand and the Lauriya mounds on the other is the height of the latter, which betokens a later age than that of the sütras,
 
-or bricks
+The Sat. Sr, describes in the 28th praśna what is called pitrmedha while in praśna 29 it describes the brahmamedha, The difference between the two is pointed out in Sat. Śr. 29.3.4-18 and it is stated 577 (in Sat. Sr. 29.3. 20, 22 ) that the mantras called 'catur-hotāräh' are spoken of as brahma (in Tai. Br. III. 12.5) and that the procedure of Brahmamedha is to be employed only for an ācārya or a srotriya and for no one else. The Vaijayanti by Mahādeva states (in the Introduc tory verses) that praśnas 28 and 29 of Sat. Sr. are taken from Bharadvāja. It may be stated here that the procedure of dhavana described above in Sat. Sr, is no longer followed in India in
 
-Another feature to be noted is that clods fere saplosed (apd so the mound vas called losfaai) or baked bricks in building the mound or grate orer the benes by piling up layers of clay or bricks In laying down the bricks first or the essi, then on the north, then on the rest and then on the scuti, fie gūtras such as Sat Sr. (29.1.531,576 Baud. P.S. (I 19.4-7){uu: Ferses Tera respectirely employed that are (in order) Rg I. 18.13, 10, 11, 12 (which are also 4. T. JYUI 3,5. 49 50, 51 and Tai. A, VI71). One of these (Rg. I. 18.12 ) spesis o: pillars and the other (Rg. I. 18.13) of a post (sthūna). Vide above o 189. The discovery of EFO Tooden posts in two mounds (at Lauriya above) in which the bones rere deposited indicates that the Lauriva mounds follored a vedic custom which is mentioned by the srautasātras. The main differenca batreen the Vedic and sutra ritual on tae one hand and the Laurisa mounds on the other is the height of the latter, mhich tebokens a later age than that of the sutrae.
+576. विधृतिलोष्टान् प्रतिदिशमन्वीक्षमाण उपदधात्युत्ते स्तभ्नोमीत्येतैः प्रतिमन्नं तिल Artura: Tere Birouruiert gai Tr. Bil. 29. 1. 53, on which the Com. says 3170 garui fare: 1; 34 raquofi at @erau स्तम्नामि... मिनोस्विति पुरस्तादुपदधाति ।... उच्छश्चमाना पृथिवी हि तिष्ठसि सहस्र मित उप हि prutarti...atra aroa: 151. F.
 
-The Sat Śr describes in the 28th prahu What is called pitomedha while in praśna 29 it describss the brahmametisie The difference betteen the EFO is pointed out in Sat, Sr. 29.3.4-15 and it is stated 577 (in Sub. ST. 29,3. 10.22) that the mantras called 'catur-botārāḥ' are spoken of as 57.7mm (in Tai. Br. II 1.5) and that the procedure of Brahmanedha is to be employed only for an ācārya or ā erortyz azd for no one else. The Taijasand by Vabidera states (in the Introduc tory rerses) that praspas 28 and 29 of Sat, Sr. are taken from Bharadrājs It may be stated here that the procedure of dhatna described abore in Sat Sr. is no longer follorca in Indis in
+577. On 29.3.2. ( A r ara) of Fun T. the unei explains 317 Hamiselt: I mearg ageTi #uga aug: 1 7 used a square देशसंस्तुतिः । चतुहोतृसंयुक्तो दहनकल्प इत्यर्थः ।. On 'तान् परं ब्रह्मेत्याचक्षते। सत्या. श्रो 29. 3. 20, the traff says 'at et arra: Tutarating Trou
 
-576 erg HTATO TEST Amirtinai P ETAR
+fara .
 
-S
+1917
 
-U TTER I t. l. 29 1.5.0-13: ine Cor says wang uri FETT 1;
-
-U
-
-T BIETETTET स्तम्नेनि निनोविनि पुरनाटुपदशति।. उसमाना पृथिवी हि निष्ठमि मा निज पद प्रपन्ताम् । सन्वति दक्षिणत. बौदिसू
-
-577. Oa 29,3? (5 tota EIRE) o I. Scopil epaims 'अत्र सहेतुकोऽधिकार। पत्मा ब्रह्मसंयुच्चो मेघ तिनिह । गनिना मेपन पर
-
-anal TOETOFTET r. Og at TE TEATS*** 7 *T 29. 3. 20, :berat sa; DEGTI eat Third
+Bhandarkar Oriental Research Institute
 
 IV]
 
-255. Stages in the disposal of dead bodies
+Stages in the disposal of dead bodies
 
-modern times. In the Baud. 578 P. S. I 17 there are passages that bear & close resemblance to sonze passages of the Sat. Sr on dhavana. Similarly, Kāt Sr. 579 21. 3,6 provides (immedi ately after the months in which mounds were to be constructed) that as many jars should be taken as there are persons perfoıın ing dhavana (or dhurana) and the conimentator explains that word as meaning 'fanning'.
+255
 
-It will be seen that the disposal of the dead in ancient India was divided into four stages viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Santıkarma) and erection of a monument over the bones. The last was not necessarily done in every case. The Andhau Juscription of the time of Rudradaman in the year 52 (probably of the saka era ) refers to the erection of a staff (lasti i e, yasti) as a funeral monument to the inemory of a sister, brother and vife by Madana son of Sibila (vide E I VOI, 16 pp. 23-25). In a long passage of the Brahma purāna quoted by Aparārka (pp. 887-886) it is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and kator, that a puskaraka tree should be planted there or an eduka (a structure ) should be built over it. 580
+modern times. In the Baud. 578 P. S. I 17 there are passages that bear a close resemblance to some passages of the Sat. Sr. on dhavana. Similarly, Kāt. Sr. 579 21. 3.6 provides (immedi ately after the months in which mounds were to be constructed) that as many jars should be taken as there are persons perform ing dhavana (or dhuvana) and the commentator explains that word as meaning 'fanning!
 
-The Sat Śr 28.4 28 and Baud P S. II. 3. 2 state as shown above thet the rites immediately after death were performed only up to the depositing of the urn (containing the bones) underground in the case of those housobolders who had not set up tbe vedio fires and in the case of married women and that in the case of him who had performed the solemn rite of Agni cayang & mpound with bricks or clods was built up on the bones.
+It will be soon that the disposal of the dead in ancient India was divided into four stages viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Säntikarma) and erection of a monument over the bones. The last was not necessarily done in every case. The Andhau Inscription of the time of Rudradaman in the year 52 (probably of the saka era ) refers to the erection of a staff (lasti i.e. yasti) as a funeral monument to the memory of a sister, brother and wife by Madana son of Sihila (vide E. I. Vol. 16 pp. 23-25). In a long passage of the Brahma purāņa quoted by Aparārka (pp. 885-886) it is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puskaraka tree should be planted there or an eduka (a structure ) should be built over it. 580
 
-578 e gausTET . TIH ENIETTUATE yag AT राशीरधेमासान मासाचतून् संवत्सर वा संपात्र संधुनुयुरिति । अधान्तरेण ग्राम चश्मशान
+The Sat śr. 28.4. 28 and Baud. P.S. II. 3. 2 state as shown above that the rites immediately after death were performed only up to the depositing of the urn (containing the bones) underground in the case of those householders who had not set up the vedic fires and in the case of married women and that in the case of him who had performed the solemn rite of Agni cayana a mound with bricks or clods was built up on the bones.
 
-MIT FOTHER AT FIR HET ET 19. I 17, 1 and 3, compare an. * noted above p. 252.
+578. एकाई धुनुयुस्त्रीण्यहानि धुनुयुः पञ्चससनकादशाहान्यर्धमासं धुनुयुरयुग्मा रात्रीरर्धमासान् मासातून संवत्सरं वा संपाद्य संधुतुयुरिति ।...अथान्तरेण ग्रामं च श्मशान arrar ranna ra wafat. . . I. 17.1 and 3; compare an. . noted above p. 252.
 
-. 579. Tracy TT. TETT SITT Terra i est. $21.21,3. 6 On this the com says 349 M FT Tautatieyek yar उपशाजनं पवनम्
+579. ararat ylācura: praraa: HTETT Jan Treiê I FEAT. r. 21, 3. 6. On this the com.says: 'ar fara a c ara उपवाजनं धवनम्।
 
-580. Erruita sfrenata para TITT HATS
+580. Tercartuta faraid farrada i na: Far m e r Fra: ... Tercata a 7: RTSYET TEK
 
-TH95 मुभिः । ..भूमेरायडादनार्थ तु वृक्ष. पुष्करकोऽथवा एडको वा प्रकर्तव्यस्तत्र सर्वः स्ववन्धुभिः॥ ng q. by 376 P 886, the same passage is quoted 10 renu's Con mentary on inulit (verse 28 p. 253 ) which explaios grietis As guentoft aod reads 67 for T and explains it as at,
+PALETTI macrop q. by sa p. 886; the same passage is quoted in rgate's Com mentary on Freerlot (verse 28. p. 253 ) which explains go bhr 14 yoshof and reads पहकः for पडूकः and explains it as चत्वरः .
+
+ST
+
+POONA
+
+Bhandarkar Oriental Research Institute
 
 256
 
-
+History of Dharmaśāstra
 
 [Vol.
 
-It is remarkable that while slaves and even attendants Fere often buried with the aiaster in Babylon and Celtic Britain, there is no similar reference to the burial or cremation of anybody with the deceased even in the ancient procedure found in the Sat Br It is only possible to say that in some cases in the pre-Vedic age the wife might have burnt herself along with the deceased husband on the funeral pyre. There is no doubt that later works like the Viṣṇuidharmasutra recommended to women the practice of Satī as an option to leading the life of perfect celibacy after the husband's death,
+It is remarkable that while slaves and even attendants were often buried with the master in Babylon and Celtic Britain, there is no similar reference to the burial or cremation of anybody with the deceased even in the ancient procedure found in the Sat. Br. It is ouly possible to say that in some cases in the pre-Vedic age the wife might have burnt herself along with the deceased husband on the funeral pyre. There is no doubt that later works like the Visnudharmasütra recommended to women the practice of Sati as an option to leading the life of perfect celibacy after the husband's death,
 
-The persons entitled to perform the funeral rites after death (antyakarmadhikarin) are the same as those entitled to offer sraddha. There is a good dea] of difference as to the order of the persons so entitled For example, Gautama (Dh. S 15 13-14) statos 'On failure of sons the sapındas (e g. brother, brother's 5012 ), the sapindas of the mother (eg maternal uncle or his con) and pupils may perform srāddha for the deceased; id default of these the family priest and the ācārya (veda teacher).' Saṅkha says 582 "The offering of pinda and water should be done by the son for the father; in default (i e absence or death) of the son, the wife of the deceased) should offer, but in default of her the full brotber' The Viṣṇupurāna 532 provides
+The persons entitled to perform the funeral rites after death (antyakarmādhikūrin) are the same as those entitled to offer sraddha. There is a good deal of difference as to the order of the persons so entitled. For example, Gautama (Dh.S. 15. 13-14) states 'On failure of sons the sapindas (e. g. brother, brother's son), the sapindas of the mother (e. g maternal uncle or his son) and pupils may perform śräddha for the deceased; in default of these the family priest and the ācārya (veda teacher).' Sankha says 581 The offering of pinda and water should be done by the son for the father; in default (i. e. absence or death) of the son, the wife of the deceased) should offer, but in default of her the full brother.' The Visnupurāna 582 provides : *the son, grand-son, great grandson (of the deceased), the offspring of the brother (of the deceased), the offspring of a sapinda become entitled to offer (pinda).' The Märkandeya purāņa provides (30. 19-21, chap. 27. 19-23 of the Venk, ed.) 'On failure of the sons, sapindas, on failure of them the samānoda kas, then the sapindas of the mother, and samānodakas of her, should perform these rites; a daughter's son should perform them (if the man dies sonless), the putrikāputra should perform them for his maternal grand-father; in default of all these, women should perform these rites for their husbands but without Vedio mantras; in default of wife the king should get the rites per formed by some one belonging to the family (of the deceased)
 
-the son, grand-son, great grandson (of the deceased), the offspring of the brother (of the deceased), the offspring of a sapinda become entitled to offer (pioda)' The Mārkandeya purāda provides (30. 19-21, chap 27.19-23 of the Veuk, ed.) 'On failure of the sons, sapindas, on failure of them the samānoda kas, then the sapindas of the mother, and samāpodakas of her, should perform these rites, a daughter's son should perform them (If the man dies sonless), the putrikāputra should perform them for bis maternal grand-Father: in default of all these, womeil should perform these rites for their husbands but without Vedic mantras; in default of wife the king should get the rites per formed by some one belonging to the fainily (of the deceased)
+581. पितः पुत्रेण कतव्या पिण्डदानोदकक्रिया। पुत्राभावे तु पत्नी स्यात्पत्न्यभावे तू HIT: || TF 4. by lae. II. p. 335, H TFU III. p. 380.
 
-581. पितुः पुत्रेण कर्तव्या पिण्डदानोदकक्रिया। पुनाभावे तु पत्नी स्थापल्यभावे । HET H Tag by a. II p 335, Fog III 380
+582. 17:11: 2 ar agen yapraja:1 Fís#aaaria Burette जायते ॥ तेषामभावे सर्वेषां समानोदकसन्ततिः। मातृपक्षस्य पिण्डेन संचद्धा ये जलेन च कुलद्वयेपि चोत्सने स्त्रीभिः कार्या क्रिया नृप। सहातान्तर्गतैर्वापि कार्या प्रेतस्य च किया। उत्सना TYTT1 Fra g: feug TUT III. 13. 31-33 q. by 31 p. 433, 1979 eraz. II. p. 336, TTI. #. I. 2. p. 461, p. 383. The guru mention rates are created the king as the third in v. 34.
 
-582 57.47 Tat ET MEET ThaiG. I Terrafasing FASTER TY जायते ॥ तेषामभावे सर्वेषां समानोदकसन्तति । मातृपक्षस्य पिण्डेन सषद्धा ये जलेन च। कुलपिचोत्सले स्त्रीभि कार्या क्रिया नृप। सडावान्तर्गतैर्वापि कार्या मेतस्य च क्रिया उत्सम Yritar Bruceifası racun III 13 31-33 4 by gruer p433,
+FOUNDED
 
-a II p. 336, YEY AT 1, 2 p 461, E P 383. The faruggies mention! the king as the अधिकारी 0.34.
+1917
+
+Bhandarkar Oriental Research Institute
+
+DONATED BY PROF. B. G. TAMASKAR
 
 IV)
 
-Adhikarin for Antyesti"
+Adhikarin for Antyeşli
 
 257
 
-OT by persons of his caste, since the king is the relative of all yarnas 583 There was a close connection between taking the estate of a man and performing the rites after death up to the 10th day. For the doctrines represented by the Mitaksarā and the Dāyabhāga, vide H. of Dh. yol II pp. 734-743. Even those that regarded that inheri tance was based on relationship by blood and not on the capacity to offer pindas held that it was obligatory on everyone who took the estate of another (including the king who took as the ultimate heir by escheat) to arrange for the rites after death and śrāddha. Vispu 584 Dh. S. XV. 40 declares 'Whoever inherits the estate of a deceased person has to offer pinda to him.' Yāj. II 127 says the same thing about the Kse raja son (ubhayorapyasau rikthi pinda-dātā ca dharmataḥ).
+or by persons of his caste, since the king is the relative of all varnas.' 583 There was a close connection between taking the estate of a man and performing the rites after death up to the 10th day. For the doctrines represented by the Mitaksarā and the Dayabhāga, vide H. of Dh. vo). III pp. 734-743. Even those that regarded that inheri tance was based on relationship by blood and not on the capacity to offer pindas held that it was obligatory on everyone who took the estate of another (including the king who took as the ultimate heir by escheat) to arrange for the rites after death and śräddha. Vispu 584 Dh. S, XV. 40 declares
 
-· The Smrtyarthasāra (p. 94 ) states the order of adhikarins as fullors; a competent son is the first adhikāri for offering pinda; in default of a son, husband, wife and co-vives; in default of these, the brother's son, the brother, daughter-in-law, daughter, daughter's son, any other sagotra, & sapinda, a fellow-student, a friend, a pupil, the teacher, any relative and anyone who takes the wealth of the deceased may offer pında, The father is not competent to perform śrāddha rites for his (deceased) son, an elder brother for his younger brother; these may even do so through affection but they cannot perform the sapindīkarana, Parents may offer pinda to unmarried daugh ters, and even to married daughters in the absence of another (proper) giver. The daughter's son and the maternal grand father may offer to each other; the daughter's son to waterna) grand-mother; the son-in-law and father-in-law to each other, the daughter-in-law to her mother-in-law, brothers among them selves, teacher and pupil to each other. For the order of śrāddhādhikarins, according to the Dāyabhāga, vide H. of Dh
+whoever inherits the estate of a deceased person has to offer pinda to him.' Yāj. II. 127 says the same thing about the Kşetraja son (ubhayorapyasau rikthi piņda-dātā ca dharmataḥ).
 
-583, Sara FEET THE HEET. I HIT TRUET a ty T TO: सहोदका ॥ कुयुरेन विधि सम्यगपुत्रस्य सुतासुत । कुर्युर्मातामहायैवं मुनिकातनयात्तथा । सर्वाभावे त्रिय. कुयु स्वभर्तृणाममन्त्रकम् । तदभावे च नृपतिः कारयेत् खकुटुम्बिना । तज्जाती
+The Smrtyarthasāra (p. 94) states the order of adhikārins as follows; a competent son is the first adhikarī for offering pinda; in default of a son, husband, wife and co-wives; in default of these, the brother's son, the brother, daughter-in-law, daughter, daughter's son, any other sagotra, a sa pinda, a fellow-student, a friend, a pupil, the teacher, any relative and anyone who takes the wealth of the deceased may offer pinda. The father is not competent to perform śräddha rites for his (deceased) son, an elder brother for his younger brother; these may even do so through affection but they cannot perform the sapindikarana. Parents may offer pinda to unmarried daugh ters, and even to married daughters in the absence of another (proper) giver. The daughter's son and the maternal grand father may offer to each other; the daughter's son to maternal grand-mother; the son-in-law and father-in-law to each other, the daughter-in-law to her mother-in-law, brothers among them selves, teacher and pupil to each other. For the order of gräddhādhikärins, according to the Dayabhāga, vide H. of Dh,
 
-नरे सम्यग्दाहाद्या सकला क्रिया । सर्वेपामेव वर्णानां बान्धवो नृपतिर्यतः। मार्कण्डेयपुराण 30 19-24 (B I. ed ) q by a II. p 336, ME AT I 2 p 463 (reads TITTER FEFUR ). These verses (ETT un joccur with the addition of a few balf verses and variants in the TN 220 76-80 and the reading of the प्रहर (नृपति' कारयेत्रकुटुम्धिना by someone who does not belong to the family of the deceased) is better and makes good sense
+583. Tarà piquera TH FEIEFT: I AT: TUET T E : सहादकाः॥ कुयुरेनं विधि सम्यगपुत्रस्य सुतासुतः । कुर्युर्मातामहायैवं पुत्रिकातनयास्तथा । साभावे स्त्रियः कुयुः स्वभतणाममन्त्रकम् । तदभावे च नृपतिः कारयेत् स्वकुटुम्बिना । तज्जाती यै नरैः सम्यग्दाहाद्याः सकलाः क्रियाः । सर्वेषामेव वर्णानां बान्धवो नृपतिर्यतः। मार्कण्डेयपुराण 30. 19-24 (B. I, ed.) q. by frau II. p. 336, ur. Ar. I 2. p. 463 (reads EhTUT TTTT:). These verses ( VITETETT:) occur with the add to a few half verses and variants in the TOTTU 220.76-80 and the reading the ब्रह्म (नृपतिः कारयेचकुटुम्बिना by someone who does not belong to this family of the deceased) is better and makes good sense.
 
-584. ET FUTOTT a ana ricerates are a METR I MUTFITU:1 TUET: 7 fover Watt 649€ p 145.
+584. T TYTUTTEOTT h ar travaateterea aere सधा च विष्णुः। यश्वार्थहरः स पिण्डदायी स्मृत इति । च्यवहारमयूख P. 145.
 
-1. D 33
+H. D. 33
+
+FOUNDED
+
+1917
+
+Bhandarkar Oriental Research Institute
 
 258
 
-
-
-[Vol. vol. II p. 739. The Nirnayasindhu 585 says that in the Kali age only two kinds of sons viz. aurasa and dattaha are allowed (out of the twelve mentioned by Yā]. IL 128-132) and the order of śrāddbadhikārins is given by it as follows: aurasa son, then grandson, then great grandson, then adopted son If there are many sons then the eldest alone is the adhikarin; if the eldest be pot present or is patrta, then the son next to the eldest is the adbikarin (and not the youngest). If the sons are divided from each other, then all the rites up to sapindikarana are to bo performed by the eldest alone who may make the other sons contribute to the expenses, but the yearly śrāddha may ba per formed by each son separately. If the sons (of the deceased) are not divided, then all rites including the yearly śrāddha also are to be performed by the eldest alone When the eldest son not being present, the younger one or the youngest per forms the cremation, he should perform all rites up to and inclu ding the sixteen śrāddhas, but not sapiodikarada and he should wait for one year for the arrival of the eldest If the eldest comes to know of the death within one year, he alone should perform the sapindīkarada, If the eldest son does not come even at the end of one year, then even the youngest may per form sapindīkarana. If before the expiry of one year the youngest son or some one other than & son performs the moothly, anumāsika, sapindikarana śrāddhas, then the eldest son or a son should again perform these. If there is a grandson who has his upadayana performed and there be a son those upanayana is not performed it is the latter who is a preferable adhikarin, provided he is either three years old or has the cūdā ceremony performed as stated by Sumantu 586 Manu IL 172 states that a boy should not repeat the Veda before the performance of Upanayana except the mantras that are te quired for the śrāddha of his deceased father or mother. Such a son may perform with Vedic mantras the funeral rites OD the death of his father or mother and their yearly and other śraddhas. If he is unable to repeat the Vedic mantras, be may simply perform the cremation Tith mantras and the rest may be got performed through another person. In the
-
-585 औरसाभावे पौत्र सदभावे प्रपौत्रस्तदभावे दत्तकादय इति ज्ञेयम् । निर्णयसिन्धु p 381, which relies on Madu IX 137 (=Vas 17 5 and Vispa 15 46) and Yaj. I. 78 This is opposed to the r ing p 365 ' ISTIT TE PETITE मशैत्र । अन्ये हु औरसाभावे पौत्र. तदभावे मपौत्र. प्रपौवाभारे दत्तक इत्याहु'
-
-586. अनुपेतोऽपि कुत मन्नवद पैतनेधिकम्। यद्यसौ कृतचूड. स्यापादे स्पाश Racin g . by TT. HY I 2 465, Farora P 382, RTE FT. P 403.
-
-IVi
-
-Adhilcārin for Antyesti
-
-259
-
-'sama way he should make only the declaration (saṅkalpa) of darsaśrāddha and mahālaya and the rest may be performed by sonis one else. An adopted son becomes an adhıkārin for fune Tal rites and the like only if the upanayana has been performed. If there be no lineal descendant up to a great-grandson and also no adopted son, then the wife should perform with mantras the funeral rites and yearly and other śrāddbas but if she is unable to repeat the Vedic mantras, then the same rules apply as in the case of an anupanīta son. Even if the husband be not divided from his brother, or be be re-united with his brother, it is the wife and not the brother who is to be preferred as having adhikara for śrāddha, though the brother gets all the property. Though some of the latest works on dharmaśāstra like the Nirnayasindhu 587 and Dharmasındhu (bhāryayapi samantrakam-eya-aurdhradehikadikam kāryam) allowed the wife to perform rites after death with vedic mantras, several works such as the Mārkandeya-purāna and the Brahmapurada did not allow the wife to repeat Vedic mantras (vide note 583 above). In default of the wife, the daughter has the right to perform rites after death if the deceased was separated and not re-united. But if the deceased was joint then his full brother would be the proper adhikarin after the wife. Among daughters the married one is preferred, though an unmarrjed daughter is a preferable heir. In default of daughters, the daughter's son is an adhikarin; then a brother, then a brcther's son. Among brothers a full brother is preferred to a half brother and if there be both elder and younger brothers, then the younger is preferred for performing rites after death (in order to make as near an approach as possible to the relation of father and son). If there be no younger brother, then even an elder one could be adhikārin; in default of full brother, a half brother. Some held that even if the deceased was separata from his brother and had a daughter or daughter's son as heir the funeral rites were to be performed by the brother (and not by the daughter or her son), since & sagotra is to be preferred as an adhikarin to one of a different gotra. If there be no brother, then a full brother's son was to be preferred, then the half brother's son, then father, then mother, then daughter-in-law, then sister. In case of there being
-
-387 असस्कृतेन पल्या च हाग्निदानं समन्त्रकम् । कर्तव्यमितरत्सर्व कारयेदत्यमेव हि ॥ FITT47 4. by \#ą, UT PP 402-403, which remarks Ter Ter 99 piat पत्नी का पदाग्निदानमेव समन्त्रक कार्यम् ।। This is opposed to the view of the
-
-OF TFT, WAY and other works,
-
-260
-
-History of Dharmasastro
+History of Dharmaśāstra
 
 [Vol.
 
-full sisters, half sisters, younger and older sisters the same rules apply as in the case of brothers; in default of any sister, sister's SON. If there be many sister's sons, the rules as to brothers would apply. Then come paternal uncle, his son, other sapindas; 588 then samānodakas, then other persons born in the same family. In default of these, the sapipdas of the mother, such as the maternal grand-father, maternal uncle, maternal uncle's son is that order; in default of the sapindag of the mother, the sons of the deceased's paternal or maternal aunt; in default of these the prir-bandhus such as the sons of the father's father's sister, of the father's mother's sister, of father's maternal uncle; then the maātr-bandhus such as mother's father's sisters's son; in default of these, a disciple (of the deceased); in default of disciple, son-in-law of the deceased (or the father in-law of the deceased); in default of these, a friend; in default, any one who takes the wealth of a brābmana (deceased); if the deceased was other than a brābmana the king (who took the wealth of everyone dying heirless, except the wealth of a brahmaṇa) who arranges for funeral rites through another.
+vol. II p. 739. The Nirnayasindhu 585 says that in the Kali age only two kinds of sons viz. aurasa and dattaka are allowed (out of the twelve mentioned by Yāj. II. 128–132) and the order of śrāddhādhikarins is given by it as follows: aurasa son, then grandson, then great grandson, then adopted son. If there are many sons then the eldest alone is the adhikarin; if the eldest be not present or is patita, then the son next to the eldest is the adhikärin (and not the youngest). If the sons are divided from each other, then all the rites up to sapiņdikarana are to be performed by the eldest alone who may make the other sons contribute to the expenses, but the yearly śrāddha may be per formed by each son separately. If the sons of the deceased) are not divided, then all rites including the yearly śräddha also are to be performed by the eldest alone. When the eldest son not being present, the younger one or the youngest per forms the cremation, he should perform all rites up to and inclu ding the sixteen śrāddhas, but not sapiņdikarana and he should wait for one year for the arrival of the eldest. If the eldest comes to know of the death within one year, he alone should perform the sapindíkarapa. If the eldest son does not come even at the end of one year, then even the youngest may per form sapipdikarana. If before the expiry of one year the youngest son or some one other than a son performs the monthly, anumāsika, sapiņdikarana śrāddhas, then the eldest son or a son should again perform these. If there is a grandson who has his upanayana performed and there be a son whose upanayana is not performed it is the latter who is a preferable adhikārin, provided he is either three years old or has the cüdā ceremony performed as stated by Sumantu 586. Manu II. 172 states that a boy should not repeat the Veda before the performance of Upanayana except the mantras that are re quired for the srāddha of his deceased father or mother. Such a son may perform with Vedic mantras the funeral rites on the death of his father or mother and their yearly and other śräddhas. If he is unable to repeat the Vedic mantras, he may simply perform the cremation with mantras and the rest may be got performed through another person. In the
 
-In the case of women the following order of those entitled to perform rites of a deceased woman is given in the Dharma sindhu (p. 370); If the female be unmarried then her father is the adhikarin, then her brother and the like; if the woman was married, her son, then her co-wife's son, then co-wife's grandson and then great-grandson; in default of these, the husband; in default of husband, daughter, then daughter's son; then busband's brother; then husband's brother's son; then daughter-in-last; then (the deceased) woman's father, then her brother; then her brother's son and the rest.
+585. औरसाभावे पौत्रः तदभावे प्रपौत्रस्तदभावे दत्तकादय इति ज्ञेयम्। निर्णयसिन्ध p. 381, which relies on Manu IX. 137 ( = Vas. 17.5 and Vişnu 15. 46/ana Yaj. 1. 78. This is opposed to the watery p. 368 TAHUTT: K प्रपौत्रः । अन्ये तु औरसाभावे पौत्रः तदभावे प्रपौत्रः प्रपौत्राभावे दत्तक इत्याहुः. TODED
 
-An adopted son should perform the śrāddha of his natural father if the latter left zo son or other adbikārl If a brahms cārin dies, his monthly, yearly and other sraddhas should be performed by his father and mother. A brahmacārın may carry the dead body of his parents, or of his maternal grand-father, upādhyāya and ācārya and perform the cromation and other rites; but if another adhikārin is available, he should not do these even for the parents and the other threo. A brahmacariu
+2586. अनुपेतोऽपि कुर्वीत मन्त्रवत् पैतृमेधिकम्। यद्यसौ कृतचूडः स्याद्यदि श्याञ्चलका Fraent: THE G. by V. AT. I. 2 p. 465, pareiwg p. 382, p. 97. p. 4og darba oriental
 
-588. The Ford sapında bere keads a man of tbe same golra as the deceased but tptbin seven degrees of the common ancestor, tracias relalion sbip through males only, a samanodaka means ont of tbc same golra from 8th to tbe 14th degree descended from a common ancestor tracing descent through males only and gotraja means a relative of the samc gatra A$ 18C deceased but beyond tho 14th degrec from the common ancestor.'
+FOUNDED
 
-for bis reacts do no forno
+1917
+
+Dhandarkar Oriental Research InstituteIV)
+
+259
+
+Adhikärin for Antyesti
+
+same way he should make only the declaration (sankalpa) of darśaśrāddha and mahālaya and the rest may be performed by some one else. An adopted son becomes an adhikarin for fune ral rites and the like only if the upanayana has been perforined. If there be no lineal descendant up to a great-grandson and also no adopted son, then the wife should perform with mantras the funeral rites and yearly and other sraddhas but if she is unable to repeat the Vedic mantras, then the same rules apply as in the case of an anu panīta son. Even if the husband be not divided from his brother, or he be re-united with his brother, it is the wife and not the brother who is to be preferred as having adhi kāra for sraddha, though the brother gets all the property. Though some of the latest works on dharmaśāstra like the Nirnayasindhu 587 and Dharmasindhu (bhāryayāpi samantrakam-eva-aurdhvadehikädikam kāryam) allowed the wife to perform rites after death with vedic mantras, several works such as the Markandeya-purāņa and the Brahmapurāņa did not allow the wife to repeat Vedic mantras (vide note 583 above). In default of the wife, the daughter has the right to perform rites after death if the deceased was separated and not re-united. But if the deceased was joint then his full brother would be the proper adhikarin after the wife. Among daughters the married one is preferred, though an unmarried daughter is a preferable heir. In default of daughters, the daughter's son is an adhikārin; then a brother, then a brcther's son. Among brothers a full brother is preferred to a half brother and if there be both elder and younger brothers, then the younger is preferred for performing rites after death (in order to make as near an approach as possible to the relation of father and son). If there be no younger brother, then even an elder one could be adhikarin; in default of full brother, a half brother. Some held that even if the deceased was separate from his brother and had a daughter or daughter's son as heir the funeral rites were to be performed by the brother (and not by the daughter or her son), since a sagotra is to be preferred as an adhikārin to one of a different gotra. If there be no brother, then a full brother's son was to be preferred, then the half brother's son, then father, then mother, then daughter-in-law, then sister. In case of there being
+
+STI POONA
+
+587. असंस्कृतेन पत्न्या च ह्यग्निदानं समन्त्रकम् । कर्तव्यमितरत्सर्व कारपदयमेव हि ॥ terea q. by . T. Pp. 402-403, which remarks per cagran nat पत्नी वा तदाग्निदानमेव समन्त्रक कार्यम् ।. This is opposed to the Taugh the fruth, he and other works.
+
+Bhandarkar Oriental Research Institute
+
+260
+
+History of Dharmasastra
+
+[Vol.
+
+full sisters, half sisters, younger and older sisters the same rules apply as in the case of brothers; in default of any sister, sister's gon. If there be many sister's sons, the rules as to brothers would apply. Then come paternal uncle, his son, other sapiņdas; 588 then samānodakas, then other persons born in the same family. In default of these, the sapindas of the mother, such as the maternal grand-father, maternal uncle, maternal uncle's son in that order; in default of the sapiņdas of the mother, the sons of the deceased's paternal or maternal aunt; in default of these the pitr-bandhus such as the sons of the father's father's sister, of the father's mother's sister, of father's maternal uncle; then the mātr-bandhus such as mother's father's sisters's son; in default of these, a disciple (of the deceased); in default of disciple, son-in-law of the deceased (or the father in-law of the deceased); in default of these, a friend; in default, any one who takes the wealth of a brāhmana (deceased); if the deceased was other than a brāhmana the king (who took the wealth of everyone dying heirless, except the wealth of a brāhmana) who arranges for funeral rites through another.
+
+In the case of women the following order of those entitled to perform rites of a deceased woman is given in the Dharma sindhu (p. 370); If the female be unmarried then her father is the adhikūrin, then her brother and the like; if the woman was married, her son, then her co-wife's son, then co-wife's grandson and then great-grandson; in default of these, the husband; in default of husband, daughter, then daughter's son; then husband's brother; then husband's brother's son; then daughter-in-law; then (the deceased) woman's father; then her brother; then her brother's son and the rest.
+
+An adopted son should perform the śräddha of his natural father if the latter left no son or other adhikārī. If a brahma carin dies, his monthly, yearly and other śrāddhas should be performed by his father and mother. A brahmacārin may carry the dead body of his parents, or of his maternal grand-father, upādhyāya and acārya and perform the cremation and other rites; but if another adhikārin is available, he should not do these even for the parents and the other three. A brahmacärin
+
+POONA
+
+588. The word sapinda here means a man of the same gotra as the deceased but within seven degrees of the common ancestor, tracing relation ship through males only, a samanodaka means one of the same gotra from the 8th to the 14th degree descended from a common ancestor tracing descane through males only and gotraja means & relative of the same gotra as the 1917 deceased but beyond the 14tb degree from the common ancestor,
+
+FOUNDED
+
+e
+
+rakura
+
+Bhandarkar Oriental Research Institute
 
 IV)
 
-Brahmacārin when adhikarin
+Brahmacarin when adhikarin
 
 261
 
-should zot at all carry the dead body of any one except of the above five or perform the cremation and other rites for any one 8]se. If a brahmacārin performed all the rites for ten days he had to observe āśauca for ten days, but if he performed only the cremation he had to observe āśauca only for one day. Even while in mourning his obligatory acts do not stop; but he should not eat the food cooked for bis relatives that are in mourning nor should be dwell among them; if he did (both these ) he had to undergo prāyaścitta and perform upanayana again,
+should not at all carry the dead body of any one except of the above five or perform the cremation and other rites for any one e]se. If a brahmacärin performed all the rites for ten days he had to observe āśauca for ten days, but if he performed only the cremation he had to observe asauca only for one day. Even while in mourning his obligatory acts do not stop; but he should not eat the food cooked for his relatives that are in mourning nor should he dwell among them; if he did (both these ) he had to undergo prayascitta and perform upanayana again.
 
-It is somewhat curious that Baudhāyana, the Lingapurada (quoted in Srāddhaprakāśa pp. 361-371), the Markandeya. purāna, the pitṛdayitā (p 82) and several other works allow man himself while living to perform his own rites after death (antyesti).589 This will be dealt with briefly later on under śrāddha Further, if a man became patrta and refused to undergo prāyaścitta, he was driven out of the Hindu fold by the pro cedure of ghatasphota (vide H. of Dh. Vol. II pp. 387-388), and Gaut. Dh, S. 20 % and Manu XI. 182-183 provide that such a man was to be held to be dead and his relatives were to perform a]l rites for him such as offering water and srāddha and were also to obserye āśauca for him.590
+It is somewhat curious that Baudhāyana, the Lingapurāpa (quoted in Srāddhaprakāśa pp. 361-371), the Mārkandeya purāna, the Pitrdayita (p. 82) and several other works allow man himself while living to perform his own rites after death (antyesti).589 This will be dealt with briefly later on under śräddha. Further, if a man became patita and refused to undergo prāyascitta, he was driven out of the Hindu fold by the pro cedure of ghatasphota (vide H. of Dh. vol. II pp. 387-388), and Gaut. Dh, S. 20.2 and Manu XI. 182-183 provide that such a man was to be held to be dead and his relatives were to perform
 
-Many commentators and digests quote certain verses of the Vispupurāpa (III, 13. 34-39) wherein the rites (kriyah) after death performed for a person are enumerated as falling into three classes, viz. pūrva, madhyama and uttara. The rites from cremation up to the end of the 12th day are called pūrya, the śrāddhas performed monthly and sapindikarana and ekoddista are called madhyama rites and those that are performed after sapindīkarada, when the deceased has reached the position of pity after being a preta, are designated uttara,591 The pūrva and
+all rites for him such as offering water and śrāddha and were also to observe āśauca for him.590
 
-589 STREAM: STREETS I
+Many commentators and digests quote certain verses of the Vispupurāņa (III. 13. 34-39) wherein the rites (kriyāḥ) after death performed for a person are enumerated as falling into three classes, viz. pūrva, madhyama and uttara. The rites from cremation up to the end of the 12th day are called pūrva, the śrāddhas performed monthly and sapindikarana and ekoddista are called madhyama rites and those that are performed after sapindikarana, when the deceased has reached the position of pitr after being a preta, are designated uttara.591 The pūrva and
 
-A m 3.45 (B. I. ed ). 590, तस्थ विद्यायसन्योनिसम्बन्धाश्च संनिपात्य सर्वाण्युदकादीनि मेतकार्याणि कुर्यु.। T 20 2.
+589. STUTTATHA: Ecar plaasaaeternal Revery trur 3.45 (B. I. ed.).
 
-591. gai at AYAT FA TETETT 9: i fageter: 94 NALFETTI भेदं शृणुष्व मे । आधाहाद् द्वादशाहाच मध्ये या स्यु क्रिया मता. । पूर्वास्ता मध्यमा मासि मात्येकोद्दिष्टसज्ञिताः मेते पितृत्वमापने सपिण्डीकरणादनु । नियन्ते या. क्रियाः पिण्या: मोच्यन्ते ता नृपोत्तरा ॥ पितृमातृसपिण्डेश्च समानसलिलैस्तथा । तत्सहातान्तगतश्चैव राज्ञा पा धनहारिणा ॥ पूर्वी क्रिया मध्यमाश्च पुत्राद्यैरेख चोत्तरा । दौहित्रैर्वा नरश्रेष्ठ कार्यास्तचन येस्तथा ॥ मृताहनि च कर्तव्याः खीणामप्युत्तरा किया. । प्रतिसवत्सरं राजकोष्टिविधानतः॥ facun tror III, 13. 34-39. g. by ti pp 433-434, taa: II, P 336, 9.1. AT I. 2 p 464, 4, M. pp 478-79, FOT O 387. The printed oggen Tends आदाहनार्यायुधादिस्पर्शायन्तास्तु या क्रिया: । It has been provided in विष्णु
+590. तस्य विद्यागुरून्योनिसम्बन्धांश्च संनिपात्य सर्वाणयुदकादीनि घेतकार्याणि कुर्युः । T. 9. 20.2.
 
-Tu III 13 21 that after tbe brābbanas are fed on the 11th day after death the relatives should touch water, weapons, whip or a staff respectively Acco rding as they belong to the four varṇas and then they become para,
+591. garahan A 27 aur aanr: 144: Fant: per garanet भेदं शृणुष्व मे ॥ आद्याहाद् द्वादशाहाच्च मध्ये याः स्युः क्रिया मताः । पूर्वास्ता मध्यमा मासि मास्येकोदिष्टसंज्ञिताः ॥ प्रेते पितृत्वमापने सपिण्डीकरणादनु । क्रियन्ते याः क्रियाः पित्र्याः
+
+yra a autor: #fagarchiques H OCUTI Hrefasta वा धनहारिणा ॥ पूर्वाः क्रिया मध्यमाश्च पुत्राद्यैरेव चो तराः। दौहित्रैर्वा नरश्रेष्ठ कार्यास्तत्तन यैस्तथा ॥ मृताहनि च कर्तव्याः स्त्रीणामप्युत्तराः क्रियाः । प्रतिसंवत्सरं राजन् कोधिविधानतः ॥ facggtrup III, 13. 34-39. q. by 3 rd pp. 433-434, arazo' II, p. $38; 27. FIT. I. 2 p. 464, HĘ. r. pp. 478-79, FUTARTY P. 387. The printed fugtpur reads irgi artimiausierarea : Far: 1. It has been provided in -
+
+TTTIII 13.21 that after the brahmanas are fed on the 11th day alterndeath the relatives should touch water, weapons, whip or a staff respectively acco. rding as they belong to the four vergas and then they become puthandarkar Oriental
+
+62
+
+Research Institute
 
 262
 
+History of Dharmaśāstra
 
+[Vol.
 
-[Vol. madhyama rites of the deceased may be performed by the father, the mother, sapindas, samānodakas and those belonging to the deceased's group (gotra) or by the king if le takes the wealth of the deceased. But the rites called uttara are to be performed only by the son, grandson, great-grandson, daughter's son or the latter's sons Even in the case of women, on the day of the anniversary of death every year an ekoddista srāddha may be performed for them. There is also another classification of śrāddhas viz. Navaśrāddha (those rites up to ten days after death), Navamiśra (those performed after ten days up to six seasons), Purana (those perfornied after a year ).591a
+madhyama rites of the deceased may be performed by the father, the mother, sapiņdas, samānodakas and those belonging to the deceased's group (gotra) or by the king if he takes the wealth of the deceased. But the rites called uttara are to be performed only by the son, grandson, great-grandson, daughter's son or the latter's sons. Even in the case of women, on the day of the anniversary of death every year an ekoddista śrāddha may be performed for them. There is also another classification of śrāddhas viz, Navašrāddha (those rites up to ten days after death), Navamiśra (those performed after ten days up to six seasons ), Purāna (those performed after a year ).591 a
 
-As stated above, for ten days after death a bandful of water mixed with sesame was to be offered to the deceased on a stone (aśman) placed on kuśa grass and one large pinda (called pūraka-pipda) was to be offered on busa grags everyday with the face to the south and the sacred thread on the right shoulder (prācidāpiti) for the purpose of freeing tho departed from the state of being a preta. On the pinda, yator mixed with sesame was to be offered and leaves of Bhragarāja (called mākā in Marathi) and Tulasi also. The verse 'anādi. nidhano' was to be repeated 592. The performer throws the pinda in water and then bathes. Vide A.K. D pp. 43-50 and Antyesti-paddhati of Nārāyana for detailed treatment of the procedure of these ten days. Besides this, the Asvalayana grhyaparisistass IIL 6 speaks of five sraddhas called 'nava
+As stated above, for ten days after death a handful of water mixed with sesame was to be offered to the deceased on a stone (asman) placed on kusa grass and one large pinda (called püraka-pinda) was to be offered on kuģa grass everyday with the face to the south and the sacred thread on the right shoulder (prācīnāvīti) for the purpose of freeing the departed from the state of being a preta. On the pinda, water mixed with sesame was to be offered and leaves of Bhrngarāja (called mākā in Marathi) and Tulasi also. The verge 'anādi nidhano' was to be repeated 592. The performer throws the pinda in water and then bathes. Vide A. K. D. pp. 43-50 and Antyesti-paddhati of Nārāyaṇa for detailed treatment of the procedure of these ten days. Besides this, the Asvalayana grhyaparisista 593 III. 6 speaks of five śrāddhas called 'nava
 
-591 8 नवश्राद्ध दशाहानि नवमिमं तु पड्ऋतून । अत परं पुराण चे विविध भाज मुच्यते ॥ आश्वलायनगृह्यपरिशिष्ट . by अपरार्क P 525, निर्णयसिन्धु 11. P395. अपरार्क 2, 521) says • एकोदिटमुक्तं तच त्रिविधम् । नवं मिश्र पुराणं च। तत्रैशादशादान्त नवम्॥ तद्वर्षमा संवत्सरान्मिश्रम । तत उत्तरं पुराणम्।. The printed आश्व गृ परि. । (B. I edition) reads अथैकोहिट तत त्रेधा भवति न मिश्रं पुराण चेत्यन्तवंशाई नर मिश्राणि मासिकानि चतुर्दश्यादी पुराणानि।. The स्मृतिच. on आशांच p 175 quotes प्रजापति 'नवश्राद्ध दशाहान्त मिश्रं संवत्सरावधि। एकादशाहमारस्य कुपरिप्रेतवमुक्तये ।
+591a. नवश्राद्धं दशाहानि नवमिश्रं तु षडूऋतून् । अतःपरं पुराणं वै त्रिविधं श्राद्ध मुच्यते॥ आश्वलायनगृह्यपरिशिष्ट q. by अपरार्क p. 525, निर्णयसिन्धु III. p. 395. अपरार्क (p, 521) says: एकोहिष्टमुक्तं तच्च विविधम्। नवं मित्रं पुराणं च। तत्रैकादशाहान्तं नवम्॥ तदूर्वमा संवत्सरान्मिश्रम् । तत उत्तरं पुराणम्।. The printed आश्व. गृ. परि. III. 9 (B. I. edition) reads अथैकोदिष्टं तत् त्रेधा भवति नवं मिश्र पुराणं चेत्यन्तर्दशाहे नवं मिश्राणि मासिकानि चतुर्दश्यादौ पुराणानि।. The स्मृतिच. on आशौच p. 175 quotes प्रजापति 'नवश्राद्धं दशाहान्तं मिश्रं संवत्सरादधि । एकादशाहमारभ्य कुर्यात्मेतत्वमुक्तये॥
 
-592. अनादिनिधनी देव शद्धचक्रगदाधरः। अक्षय्य पुण्डरीकाक्ष: मेतमोक्षादो भव। quoted by अन्त्येहिपद्धति of नारायण
+592. अनादिनिधनो देवः शङ्खचक्रगदाधरः । अक्षय्यः पुण्डरीकाक्षः प्रेतमोक्षपदो भव । quoted by अन्त्येष्टिपद्धति of नारायण. 1593. अथ नवश्राद्धानि दशाहेषु विषमदिनेष्वामेन कुर्यात्तमभिसन्धाय ब्राह्मण मुदमखमुपवेश्य तस्मिस्तूष्णीं तिलानवकीर्य काश्यपगोत्र देवदत्तामुष्मिनहनि एतदामं त्वामुप तिष्ठतामिति तदहःसम्बन्धेनोत्सृज्य पिण्डं चामन्योक्तवत्प्रदाय स्नायादेष विधिरन्तर्दशाहकर्मणि। आश्वलायनगृह्यपरिशिष्ट III. 6. The नवश्राद्धs are एकोदिष्ट and several details which occur in other res are omitted here and the word wą is not to be employed, but only the word प्रेत. The गरुडपुराण (II. 29. 35-37) enumeration eighteen details that were to be omitted in प्रेतश्राद्ध. Vide शुद्धिप्रकाश pp. 215 221; 'तथाचाङ्गिराः। प्रथमेति तृतीयेति पञ्चमे सप्तमे तथा । नवमैकादशे चैव तन्त्रवादी मुच्यते ।।q. by मद.पा. p. 618, the मिता. या. I. 252 (without name)ARENDEDY भदोजि चविंश.P. 168
 
-593, अथ नवश्राद्धानि दशाहपु विषमदिनेजामेन फुर्यात्मेतमभिसन्धाप मारण सुददमुखमुपवेश्य तस्मिंस्तूष्णी तिलानवकार्य काश्यपगोत्र देवदत्तामुग्मिनहानि एनदाम रामुए। तिष्टतामिति तदह सम्बन्धेनोस्यूज्य पिण्ठं चामन्योक्तयन्मदाय स्नायादेपरिधिरनतर्दशादफणि आश्वलायनगृहापरिशिष्ट III. 6. The नवशादs are एफोदिष्ट and several acts which occur in other sites are omitted bere and the word ing is not to be employed, but only the word मेत. The गरमपुराण (II. 29 35-37) enumerates eisiteen details that were to be omitted in प्रेतश्राद्ध Videशुद्धिमाश PP 20. 221: 'तपाचादिराः। प्रथमेहि तृतीयेखि पक्षमे सक्षमे तथा वर्मकादको व जमाव मुख्यते।। १. by मद, पा p. 618, the मिना on 'या I 252 (without name and भदोजिम पनि.P. 168.amaérāddben) with 10.36 whisland Apasta 1588,
+STITU
 
-ada (Pretakha1st day to 11ta asindhu P*
+54UNDED 1917
 
-they are standa Op. 21, Option days frospeaks of led with his
+जरिखावधीत
+
+नावधीतमस्तु
+
+Bhandarkar Oriental Research Institute
 
 IV)
 
-Navaśraddhas
+Navasraddhas
 
 263
 
-śraddhas' (or Visamaśrāddhas) performed on the uneven days (i. e. 1st, 3rd, 5th, 7th and 9th ) with uncooked food. According to the Garuḍapurada (Pretakhanda 34, 36 which speaks of six śrāddhas on uneven days from 1st day to 11th) and Apastamba they are six (Dharmasindhu p 464, Nirdayasindhu p 588, Suddhiprakāśa pp. 214-216, Srāddhatattva p. 619) and accord ing to others there is an option. Angiras and Vasistha speak of six Navasrāddhas on uneven days from the 1st to the 11th, while Baud pitṛmedha S. IL 10, 6 speaks of five. Some prescribe the placing of some cooked food sprinkled with ghee on the hand of a brāhmana. Others do not approve of this They prescribe the placing of uncooked corn in front of a brāk mapa or in front of a figure of a brābmaṇa made with kuśas (called cata in Marathi). The Garuḍapurāpa (IL. 5, 67 ff) holds that the payasrāddhas are those performed at the place where
+graddhas' (or Vişamağrāddhas) performed on the uneven days (i. e. 1st, 3rd, 5th, 7th and 9th ) with uncooked food. According to the Garudapurāpa (Pretakhanda 34. 36 which speaks of six śrāddhas on uneven days from 1st day to 11th) and Āpastamba they are six (Dharmasindhu p. 464, Nirnayasindhu p. 588, Śuddhiprakāśa pp. 214-216, Sraddhatattva p. 619) and accord ing to others there is an option. Angiras and Vasistha speak of six Navasrāddhas on uneven days from the 1st to the 11th, while Baud. Pitrmedha S. II. 10. 6 speaks of five. Some prescribe the placing of some cooked food sprinkled with ghee on the hand of a brähmana. Others do not approve of this
 
-man died, where the funeral procession rested on the way, when the bones were collected and those performed on the 5th, 7th, 8th, 9th, 10th and 11th day, The Suddhiprakās3 p. 214 quotes similar views from Katyāyana and the view of Viddha-Vasistha that the deceased does not become free from the status of a preta, unless the navafrāddhas are performed. The Garuḍapurāna, Pretakhanda (chap. 34. 27-28, 44, 48) states that by the pindas offered for ten days the several limbs of a subtlo body are provided for the departed spirit which at first wanders like thin air. There are several differing views on tho napaśrāddbas which are passed over here. On the uneven days if navaśrāddha is performed two pindas will be offered (one the daily one and the other, of the Dayaśrāddha). The Padma (Srstikhanda 10. 19) prescribes that one should not pat take of the food at navasraddha and on doing so should undergo the cāndrāyada expiation.
+They prescribe the placing of uncooked corn in front of a brāh mapa or in front of a figure of a brāhmana made with kušas (called cata in Marathi). The Garudapurana (II. 5, 67 ff) holds that the navasräddhas are those performed at the place where a man died, where the funeral procession rested on the way, when the bones were collected and those performed on the 5th, 7th, 8th, 9th, 10th and 11th day. The Suddhiprakāśa p. 214 quotes similar views from Kātyāyana and the view of VỊddha-Vasistha that the deceased does not become free from the status of a preta, unless the navasrāddhas are performed. The Garudapurāna, Pretakhanda (chap. 34. 27-28, 44, 48) states that by the pindas offered for ten days the several limbs of a subtle body are provided for the departed spirit which at first wanders like thin air. There are several differing views on the navašräddhas which are passed over here. On the uneven days if navašrāddha is performed two pindas will be offered (one the daily one and the other, of the navasraddha). The Padma (Srstikhanda 10. 19) prescribes that one should not par take of the food at navaśrāddha and on doing so should undergo the cāndrāyaṇa expiation.
 
-In modern times, after the rites of the first day of crema tion and of the collection of the bones, the rites for the dead generally begin on the 10th day. The performer goes to the place where the rites of the first day were performed, makes a saṅkalpa and offers a pinda with the words "May this pinda wait upon the preta Damed N. N, and of the gotra (Kāśyapa &o ) in order that hunger and thirst affecting the preta may be removed'. Theo he offers water mixed with sesame, places leares of blrngarāja and tulasī, repeats the verge 'anādini dbano' (nota 592), removes the pinda to another place from the place where it was offered. Then he prepares & Led: with
+In modern times, after the rites of the first day of crema. tion and of the collection of the bones, the rites for the dead generally begin on the 10th day. The performer goes to the place where the rites of the first day were performed, makes a sankalpa and offers a pinda with the words "May this pinda wait upon the preta named N. N. and of the gotra (Kasy apa &c.) in order that hunger and thirst affecting the presa may be removed'. Then he offers water mixed with sesame, plages leaves of bhrägarāja and tulasi, repeats the verse Vanadini dhano' (note 592), removes the piņda to another placa fram the place where it was offered. Then he prepares arved with
+
+ST
+
+POONA
+
+FOUNDED
+
+Bhandarkar Oriental
+
+Res
+
+st
 
 264
 
-History of Dharñnaśāstra
+History of Dharmaśāstra
 
-Vol. 10ose darth with a triangular shape, purifies it by means of Cowdung, decks it with turmeric powder and places thereon fiye jars full of water and on each of them a ball of rice. Then he offers a request to the middle jar with the words 'May this pinda together with the jar of water wait upon the preta by name N, N, of such and such a gotra in order that his hunger and thirst may be allayed'. There is a prayer before the jars to the east, south, west and north respectively to those whom the preta had befriended, to Yama, to crows, to Rudra raspectively. There is a difference of view here, some pres. cribing four jars, soma three, while others offer a pipda with the jar of water only on the place meant for the preta and mera pinda to others Then water is offered over the pinda and to each of the above he offers sandals, umbrella, banner, bread. Then the performer waits till a crow seizes or eats the pipda placed to the west 594, Then the aśman (stone) is anointed with oil and cast in water. Then the performer requests the relatives, who offer one handfu) or three handfuls of water to the preta on the bank of the reservoir of water. Then the sons and others accor ding to usage cut their hair and nails. Then all persons of the same gotra, according to the custom of the country, bathe with sesame and myrobalan, wear pure and dried garments, go home and take their meals there.
+(Vol.
 
-594 In modern times great importance is attached by many people to a cron todching and pecking at the puda food There is a common belief that if a crow does not touch the pioda then the deceased bad some intense wish at his death that was unfulfilled and it is certainly beart-read ing and a source of poignant sorrow even for passers-by to see the relatives waitiog for hours and tempting the crow or crows to come dove from trees with dainty pieces of copra and other things and also loudly declaring that they would do this or that and fall the last desire of the deceased Often it 50 happeos that no crow touches the pinda food in honour of the deceased, a very old and venerable man, and relatives are very much distressed to fiod that their venerable ancestor who could have hardly any ambition or desire at the advanced age of 50 or 30 (except to die speedily), judging from the reluctance of the crow, had some udfolflied desire, Often the crow immediately touches the piada offered to one who died very young (say 25 or 30 years old) and wbo would naturally be presened to have many unfulfilled desires In such cases the relatives feel very much relieved at the thought that their young relative passed away without any uplalalled desires The Saddbakaumudi refers to this offering to crows as a usage सथाचारात् काकालिदानम् । पिण्डशेपमनं पात्र छन्ना अमुफगोत्रस्य प्रेतस्यामनशमणों विशेपत्तये पमहारापस्थितवायसाय एप बलिन म इत्युत्तुज्य कृतासलि-काक व यमहतोसि रहाण पलिमुत्तमम् । यमलोकगतं प्रेत बमाप्पायितुमर्हसि ॥ कामाय कासपुरुपाय वायसाय महात्मने । तुम्य भलिं प्रयच्छामि प्रेतस्य दृषिहेतवे ।। इति पठेत् । शुद्धिकौमुदी p. 135.
+loose earth with a triangular shape, purifies it by means of cowdung, decks it with turmeric powder and places thereon five jars full of water and on each of them a ball of rice. Then he offers a request to the middle jar with the words. May this pinda together with the jar of water wait upon the preta by name N. N., of such and such a gotra in order that his hunger and thirst may be allayed'. There is a prayer before the jars to the east, south, west and north respectively to those whom the preta had befriended, to Yama, to crows, to Rudra respectively. There is a difference of view here, some pres cribing four jars, some three, while others offer a pinda with the jar of water only on the place meant for the preta and mere pinda to others. Then water is offered over the pinda and to each of the above he offers sandals, umbrella, banner, bread. Then the performer waits till a crow seizes or eats the pinda placed to the west 594. Then the aśman (stone) is anointed with oil and cast in water. Then the performer requests the relatives, who offer one handful or three handfuls of water to the preta on the bank of the reservoir of water. Then the sons and others accor ding to usage cut their hair and nails. Then all persons of the same gotra, according to the custom of the country, bathe with sesame and myrobalan, wear pure and dried garments, go
 
-IV
+home and take their meals there.
+
+594. In modern times great importance is attached by many people to a crow touching and pecking at the pinda food. There is a common belief that if a crow does not touch the pinda then the deceased had some intense wish at his death that was unfulfilled and it is certainly heart-rend ing and a source of poignant sorrow even for passers-by to see the relatives waiting for hours and tempting the crow or crows to come down from trees with dainty pieces of copra and other things and also loudly declaring that they would do this or that and fulfil the last desire of the deceased. Often it so happens that no crow touches the pinda food in honour of the deceased, a very old and venerable man, and relatives are very much distressed to find that their venerable ancestor who could have hardly any ambition or desire at the advanced age of 0 or 90 (except to die speedily). judging from the reluctance of the crow, had some unfulfilled desire. Often the crow immediately touches the pinda offered to one who died very young (say 25 or 30 years old) and who would naturally be presumed to have many unfulfilled desires. In such cases the relatives feel very much relieved at the thought that their young relative passed away without any unfulfilled the desires. The Suddhikaumudi refers to this offering to crows as a usage was ob तथाचारात् काकबलिदानम् । पिण्डशेषमन्नं पात्रे कृत्वा अमुकगोत्रस्य प्रेतस्यामुकशी विशेषतृप्तये यमद्वारावस्थितवायसाय एष बलिर्न म इत्युत्सृज्य कृताक्षलिःकाक त्वं यमदूतोसि
+
+गृहाण चलिमुत्तमम्। यमलोकगतं प्रेतं स्वमाप्यायितुमर्हसि ॥ काकाय काकपुरुषाय घायसाय व नावधानमा PETAH i avi and Tarih Baru grega a gê vai viene p. 135.
+
+FOUNDED
+
+1917
+
+Bhandarkar Oriental Research Institute
+
+IV 1
 
 Ethereal body after death
 
 265
 
-Some of the Puranas and medieval digests assert that after a man dies, the soul or spirit assumes that is called an ativahika sin body consisting of three of the five elements (vir. fire, vind and akāśa) that rise up from the dead body (while two viz, earth and water remain below), that such a body is obtained only by men and not by other beings, that with the aid of the pindas that are offered to the departed at the time of cremation and during ten days thereafter, the soul secures another body called bhogadeha (a body for enjoying the pindas offered) and that at the end of a year when sapındıkarana is performed, the soul securos a third body wherewith the spirit reaches heaven or bell according to the nature of his actions, The word 'ativāhika' is comparatively an ancient one. It occurs in Vedantasutra IV. 3.4 (ativahikas-tal-lingat). But there the meaning is somewhat different. The Upanisads speak of the soul as going by the path of arcas, day &c. The sutra says that these (viz. ar cis, ahah &c.) are superintending deities that take the soul gradually opward by the path that leads to Brahma. Govindānanda in his commentary on the Prāgaścitta viveka (pp. 13-14) holds that there are only two bodies (and not three as appears at first sight), viz, the ātrvāhika or pretadeha and the blogadeha. The belief was that the man on whose death Do pioda was offered or the sixteen śrāddhas (to be described below) vere not performed remained for all time in the condi
+Some of the Puranas and medieval digests assert that after a man dies, the soul or spirit assumes what is called an ativūhika 594 a body consisting of three of the five elements (viz. fire, wind and akasa) that rise up from the dead body (while two viz. earth and water remain below), that such a body is obtained only by men and not by other beings, that with the aid of the pindas that are offered to the departed at the time of cremation and during ten days thereafter, the soul secures another body called bhogadeha (a body for enjoying the pindas offered) and that at the end of a year when sa pindikarana is performed, the soul secures a third body wherewith the spirit reaches heaven or hell according to the nature of his actions. The word 'ativahika' is comparatively an ancient one. It occurs in Vedantasutra IV. 3.4 (ativahikās-tal-lingat). But there the meaning is somewhat different. The Upanişads speak of the soul as going by the path of arcis, day &c. The sūtra says that these (viz. arcis, ahah &c.) are superintending deities that take the soul gradually onward by the path that leads to Brahma. Govindananda in his commentary on the Präyaścitta viveka (pp. 13-14) holds that there are only two bodies (and not three as appears at first sight), viz. the ātivāhika or pretadeha and the bhogadeha. The belief was that the man on whose death no pinda was offered or the sixteen śräddhas to be described below) were not performed remained for all time in the condi
 
-304 &, सक्षणादेव ग्रहाति शरीरमातिवाहिकम्। अब ब्रजन्ति भूतानि त्रीण्यस्मासस्य विग्रहाता आतिचाहिफसंज्ञोऽसौ देहो भवति भार्गव केवलं तन्मनुष्याणां नान्येषां माणिना 'कचित् ॥ मेतपिण्वैस्ततो दत्तदेहमानोति भार्गप। भोगदेइमिति मोक्तं क्रमादेव न संशयः। प्रेत पिण्डा न दीयन्ते यस्प तस्य विमोक्षणम् । श्मशानिकेभ्यो देवेभ्य आकल्प नैव विचने । तत्रास्प पातना घोराः शीतकालातपोद्भवाः । ततः सपिण्डीकरणे चान्धवैः स कृते नरः । पूर्ण संवत्सरे वेह मतोन्यं प्रतिपद्यते । तत. स नरके पाति स्वर्गवा स्वेन कर्मणा । विष्णुधर्मोत्तरपुराण quoted by भाप चि. pp. 13-14, and शुद्धितत्व p. 324. गोविन्दानन्द explains श्रीणि भूतानि as "पृथिव्यप्नेजांसि ' and thus differs tram रघुनन्दन. The गरुडपुराण (भतखण्ड chap, 10 79. fi) says the same. 'उत्क्रामन्त.. ज्ञानचक्षुषः । आत्तिवाहिकामित्येवं वायवीय वदन्ति हि। ...पुचादिमि कृताश्चत्स्यु. पिण्डा दश दशाहिकाः । पिण्जेन तु देहेन वायुजश्चकतां ब्रजेत् । पिण्डतो यदि नव स्पाहायुजोहति यातनाम् , The first verse (उत्क्रामन्त) is गीता 15 10. The ब्रह्मपुराण states विहाय सुनहत्कृत्स्नं शरीर पाञ्चभौतिकम् ।। अन्पच्छरीरमादते यातनीयं
+594 a तत्क्षणादेव गृह्णाति शरीरमातिवाहिकम्। अर्श्व बजन्ति भूतानि वीण्यस्मात्तस्य विग्रहात्॥ आतिवाहिकसंज्ञोऽसौ देहो भवति भार्गव। केवलं तन्मनुष्याणां नान्येषां प्राणिनां क्वचित् ॥ प्रेतपिण्डैस्ततो दत्तदेहमामोति भार्गव । भोगदेहमिति प्रोक्तं क्रमादेव न संशयः। प्रेत पिण्डा न दीयन्ते यस्य तस्य विमोक्षणम् । श्मशानिकेभ्यो देवेभ्य आकल्प नैव विद्यते ॥ तत्रास्थ यातना घोराः शीतवातातपोजवाः । ततः सपिण्डीकरणे बान्धवैः स कृते नरः । पूर्ण संवत्सरे वेह मतोन्यं प्रतिपद्यते ॥ ततः स नरके याति स्वर्गे वा स्वेन कर्मणा । विष्णुधर्मोत्तरपुराण quoted by माय.वि. pp. 13-14, and शुद्धितत्त्व p. 324. गोविन्दानन्द explains त्रीणि भूतानि as 'पृथिव्यप्तेजांसि ' and thus differs from रघुनन्दन. The गरुडपुराण (प्रेतखण्ड chap. 10. 79. ff) says the same : 'उत्क्रामन्तं... ज्ञानचक्षुषः ॥ आतिवाहिकमित्येवं वायवीयं वदन्ति हि। ... पुत्रादिभिः कृताश्चेत्स्युः पिण्डा दश दशाहिकाः । पिण्डजेन तु देहेन वायुजश्चैकतां व्रजेत् । पिण्डतो यदि नैव स्याहायुजोहति यातनाम् ॥. The first verse (उत्क्रामन्तं) is गीता 15.10, The ब्रह्मपुराण states: विहाय सुमहत्कृत्स्नं शरीरं पाञ्चभौतिकम् ॥ अन्यच्छरीरमादत्ते यातनीय स्वकर्मजम् ।...स्वशरीरं समुत्सृज्य वायुभूतस्तु गच्छति । chap. 214. 29-30 and 51 ; निमित्त किंचिदासाय देही प्राणैर्विमुच्यते॥ अन्यच्छरीरमादत्ते यातनीय स्वकर्मभिः । अग्निशाणा 230. 2-3 ; गृह्णाति तत्क्षणायोगे शरीरं चातिवाहिकम् । आकाशवायुतेजांसि विग्रहाङ्का गामिनः । नलं मही च पञ्चत्वमापन्नः पुरुषः स्मृतः । आतिवाहिकदेहं तु यमदूता नयन्ति तम् ।।आग्न. 371.9-10. The मार्कण्डेय (10.63-64) says 'वाय्वयसारी तद्पं देहमरा पद्यते । सत्कर्मजं यातनार्थ न मातापितृसम्भवम् ॥.'
 
-सफर्मजम् । शरीरं समुत्सृज्य वायुभूतस्तु गच्छति । chap 214 29-30 and 51 : निमितं किंचिदासाथ देही माणैर्विमुच्यते ॥ अन्यच्छरीरमादत्ते यातनीय स्वकर्मभिः । अग्निपुराण 230, 2-3 . रहाति तत्क्षणायोगे शरीर चातिवाहिकम् । आकाशवायुतेजांसि विग्रहादूर्ध्वगामिनः । भलं महीच पञ्चत्वमापतः पुरुष' स्मृत.। आतिवाहिकदह तु यमदूतर नयन्ति सम्॥ अग्मि. 371. 9-10. The मार्कण्डेय (1063-64) says 'वास्वयसारी तन्द्रयं देहमन्यं प्रपद्यते । परकर्मज यातनाथै न मातापितसम्भवम् ।।
+H.D.34
 
-HI D. 34
+Bhandarkar Oriental Research Institute
 
 266
 
+History of Dharmaśāstra
 
+[Vol.
 
-(VOL. tion of a pisaca, from which he would not be freed upon if numerous other śrāddhas were later on offered for him, 595 The Brahmapurāna calls the body 'yātaniya'(i.e, one that has to undergo trials and torments), while the Agnipurāpa calls it
+tion of a piśāca, from which he would not be freed even if numerous other śrāddhas were later on offered for him.595 The Brahmapurāņa calls the body 'yätaniya'(i.e. one that has to undergo trials and torments), while the Agnipurāna calls it
 
-yātāniya' or 'ativāhika' and asserts that this body is made up of the elements of ākāśa, vāyu and tegas The Padmapurāna (IL 67, 98 ) states that persons who commit certain sins secure after death a body similar in shape to the physical body for undergoing torments. The underlying conception was that when the gross body was destroyed after death by cremation, burial or other methods an intermediate subtile body had to be built up before the departed soul was compelled to assume another body in a fresh incarnation The subtile body was gradu ally built up, as stated by the Mārk 10.73, by the rites performed on death and on several days after death. Though this con ception is very clearly set forth in the Purāṇas it should not be supposed that it was altogether a new one. It had its roots deep down in the earliest Vedic period and was implioit in some of the hymns as indicated by Rg. X, 15. 14, X. 16, 4-5 translated above. Though in the Tai. S. I 8.5 1-2 and in passages of the Tai, Br, and Sat. Br to be set out later on it is said that the offerings are made to the paternal ancestors, it does not follow that the brāhmanas were not fed at the same time on the food prepared for being offered to the ancestors, just as in the solemn Vedic sacrifices offerings were made to the gods, Agni, Indra, Prajāpati, Visou and others and at the same time priests engaged in the sacrifices were fed and given presents ( dalsına). Therefore, it need not be necessarily sup posed that feeding the brahmaṇas at sraddha vas & later idea and offering food to the dead was the origina] idea.
+yātāniya' or 'ātivāhika' and asserts that this body is made up of the elements of akāša, vāyu and tejas. The Padmapurāņa (II. 67. 98 ) states that persons who commit certain sins secure after death a body similar in shape to the physical body for undergoing torments. The underlying conception was that when the gross body was destroyed after death by cremation, burial or other methods an intermediate subtile body had to be built up before the departed soul was compelled to assume another body in a fresh incarnation, The subtile body was gradu ally built up, as stated by the Mārk, 10.73, by the rites performed on death and on several days after death. Though this con ception is very clearly set forth in the Purāṇas it should not be supposed that it was altogether a new one. It had its roots deep down in the earliest Vedic period and was implicit in some of the hymns as indicated by Rg. X. 15. 14, X. 16. 4-5 translated above. Though in the Tai. S. I. 8. 5. 1-2 and in passages of the Tai. Br, and Sat. Br. to be set out later on it is said that the offerings are made to the paternal ancestors, it does not follow that the brāhmaṇas were not fed at the same time on the food prepared for being offered to the ancestors, just as in the solemn Vedic sacrifices offerings were made to the gods, Agni, Indra, Prajāpati, Visņu and others and at the same time priests engaged in the sacrifices were fed and given presents ( daksiņā). Therefore, it need not be necessarily sup posed that feeding the brahmanas at gräddha was a later idea and offering food to the dead was the original idea.
 
-595. यस्यैतानि न दीयन्ते भेतश्राद्धानि पोडश । पिशाचवं भ्रवं तस्य दत्तै भाद्र शतैरपि। यम. by मा कि. को p. 362 and तखार्थकौमुदी on प्रा.वि p. 14. Almost the same verse is for hamara V. 16 and The Tro, Haus 34. 131,
+POONA
+
+FOUNDED
+
+595. water agura Harga Test I faire u 7T : razra u qi q. by sar. P. p. 362 and Tapetarget on st. f. p. 14. Almost" the same verse is forarga V. 16 and eyror, Hawave 34. 131.
+
+कौसदायित्वं धर्ष तस्य बत्तैः श्राद्ध
+
+Horea Ta Bhandarkar Oriental Research Institute
