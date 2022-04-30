@@ -560,120 +560,38 @@ After listening to the philosophical discourse of elders the relatives return to
 
 [^544a]: सर्वे क्षयान्ता निचयाः पतनान्ताः समुच्छ्रयाः । संयोगा विप्रयोगान्ता मरणान्तं च जीवितम् ॥. This is शान्तिपर्व 331.20 (in 330. 20 in Citraśālā edition).
 [^545]: दूर्वाप्रवालमग्निं वृषभं चालभ्य गृहद्वारे प्रेताय पिण्डं दत्त्वा पश्चात्प्रविशेषुः। शङ्ख q. by मिता on या. III. 13, परा. मा. I. 2 p. 293.
+[^546]: शमीमालभन्ते शमी पापं शमयत्विति अश्मानमश्मेव स्थिरो भूयासमिति अग्निमग्निर्नः शर्म यच्छत्विति ज्योतिष अन्तरा गाममजमुपस्पृशन्तः क्रीत्वा लब्ध्वा वा प्राप्य गृहमेकान्नमलवणमेकरात्रं दिवा भोक्तव्यं त्रिरात्रं च कर्मोपरमणम् । बैजवाप quoted in कल्पतरु (शुद्धि p. 100), शुद्धितत्त्व p. 319, the शुद्धितत्त्व itself being q. by निर्णयसिन्धु | III. p. 580 (which reads लब्ध्वा वान्यगेहादेका०.).
 
-The Sān. Sr. IV. 15.10, the Aśv. gr. IV. 4.17-27, Baud. P.S. I. 12.10, Kausikasūtra 82,33-35 and 42-47, Pär. gr. III, 10, Ap. Dh. S. I. 3.10,4-10, Gaut. Dh. 14.35-36 Manu V. 73, Vas, 4.14-15, Yaj. III. 16-17, Visņu Dh. S. 19.14-17, Saṁvarta 39-43, Sankha 15.25, Garudapurana (Pretakhanda chap. 5,1-5) and others lay down several rules for those (both men and women) who have lost a near sapiṇḍa by death to be observed immedi ately after they return from the cremation and for three more days. 547 The Sān. Sr. provides that they should sleep on the bare ground (not on a cot), they should subsist on sacrificial food, they should give up the performance of their usual religious duties (except in relation to the vedic fires ) for one night, three nights or nine nights or till the day of the collec tion of the bones. The Āśy. gr. (IV. 4.17-24) provides these observations viz. 'Let them not cook food during that night, let them subsist on bought food or on food received from others,
 
-w
+## Observances for near relatives in mourning
 
-546. SHTOHY THT TO T arja HAFAE FAUTI TAHTA 31119 मरिचनः शर्म यच्छत्विति ज्योतिष अन्तरा गाममजमुपस्पृशन्तः कीत्वा लब्ध्वा वा प्राप्य गृहमे कानमलवणमेकरानं दिवा भोक्तव्यं त्रिरात्रं च कोपरमणम् । बैजवाप quoted in
+The Sān. Sr. IV. 15.10, the Aśv. gr. IV. 4.17-27, Baud. P.S. I. 12.10, Kauśikasūtra 82,33-35 and 42-47, Pär. gr. III, 10, Ap. Dh. S. I. 3.10,4-10, Gaut. Dh. 14.35-36 Manu V. 73, Vas, 4.14-15, Yaj. III. 16-17, Viṣņu Dh. S. 19.14-17, Saṁvarta 39-43, Śankha 15.25, Garudapuraṇa (Pretakhaṇḍa chap. 5,1-5) and others lay down several rules for those (both men and women) who have lost a near _sapiṇḍa_ by death to be observed immediately after they return from the cremation and for three more days[^547]. The Sān. Sr. provides that they should sleep on the bare ground (not on a cot), they should subsist on sacrificial food, they should give up the performance of their usual religious duties (except in relation to the vedic fires ) for one night, three nights or nine nights or till the day of the collection of the bones. The Āśv. gr. (IV. 4.17-24) provides these observations viz. 'Let them not cook food during that night, let them subsist on bought food or on food received from others, let them eat no mineral salt or ordinary[^548] salt for three nights, let them optionally avoid for twelve nights the distribution of gifts and the study of vedic texts if one of the principal gurus (father, mother or the teacher who performed upanayana and taught the whole Veda ) dies. Par. gr. III. 10 adds that they should remain chaste, eat food only once in the day and that they should not repeat Veda study, and should give up the daily obligatory duties except those connected with Vedic fires. Manu (V. 73) adds that they should not eat flesh for three days. Vas. ( 4.14-15 ) lays down that the relatives who returned from the cemetery should sit down for three days on mats and fast, that if they are unable ( to fast for three days ) they should subsist on food bought in the market or obtained unasked. Yāj. III. 17 and Pār. III, 10 [^549] provide that for the night they should put milk and water in an earthen vessel in the open space (on a _śikya_) with the words 'O departed one! bathe here ( in the water) and drink this milk'. Yāj. III. 17, Paighinasi, Manu V. 84, Par. gr. III. 10, and others state that the relatives of the departed should perform their own daily rites to be performed in the _śrauta_ fires (such as Agnihotra and Darsapürnamāsa ) and in the _smärta_ fire (such as morning and evening _homa_) on account of the peremptory dictates of the Veda (such as one should perform Agnihotra as long as one lives'). The commentators have added several limitations and restrictions. The Mit.[^550] on Yāj. III, 17 states that, as Manu V. 84 only prohibits the stopping of the rites in (Vedic and Smārta) fires, such religious duties as the five daily _Mahāyajñas_ are excluded, that Vaišvadeva, though performed in fire, is excluded because there is an express text of Samvarta a brāhmaṇa should be without Vaišvadava for ten days ( after the death of a sapiṇḍa), that the śrauta and Smärta rites should be got performed by another, as Pāraskara (III. 10'anya etāni kuryuḥ) expressly lays down. Only _nitya_ and _naimittika_ acts to be performed in Vedic and Smärta fires are allowed and so _kāmya_ rites cannot be performed. Even at present Agnihotrins perform their śrauta _nitya homa_ during days of impurity themselves, though some get it performed by another. (Vide Yāj. III. 17, Manu V. 84). Although there is a text of Gobhilasmṛti (III, 60 ) prohibiting the performance of _sandhyā_, yet relying on a sütra of Paithinasi the Mit. says that a man can offer water to the Sun in worship; others like the smṛtimuktāphala (p. 478) say that sandhyā mantras may be revolved in the mind, except the prānāyāma mantras. This is followed in modern times in many parts of India. viṣṇu Dh. S. 22,6 prescribes that in impurity due to birth or death _homa_ (Vaišvadeva ), giving and accepting gifts and the study of Veda cease. The Vaik. Sm. S. VI.4 states that the performance of _sandhyā_ adoration, all rites for the gods and manes, gift and acceptance and Veda study should be given up during impurity on death. Gautama 14.44 appears to hold that a brähmana is not affected by impurity on birth and death for the purposes of Veda study. On the other hand Saṃvarta[^551] (43) affirms that on the days of impurity on birth and death there is no performance of the five Mahāyajñas nor of Veda study. The Nityācāra-paddhati p. 544 states that even in aśauca the thousand names of viṣṇu may be recited.
 
-986 (T P. 100), si p. 319, the great itself being q. by For III. p. 580 (which reads gax 27 Tetoro.).
+[^547]: अधः शय्या हविष्यभक्ष्यता प्रत्यूहनं च कर्मणां वैतानवजमेकरात्रं त्रिरात्रं नवरात्रं वा, वासञ्चयनाव्रतानि । शां. श्रौ. IV. 15.10; मातरि पितार्याचार्य इति त्रिरात्रमक्षारलवणभोजनमधःशयनं ब्रह्मचर्य त्र्यहं षडहं द्वादशाहं संवत्सरं यावत् ग्रहणं द्वादशाहावराध्यं परमगुरुग्वेवमधोदकमितरेषु त्रिरात्रं यावज्जीवं प्रेेतपत्नी। बो. पि. सू I.12.10.; न स्वाध्यायमधयीरन् । नित्यानि निवर्तेरन्वैतानवर्जम् । शालाग्नौ चैके। अन्य एतानि कुर्युः। पार.गृ. III. 10 (ascribed to पैठीनसि in मिता. on या. III. 17); उभयत्र दशाहानि कुलस्यान्नं न भुज्यते । दानं प्रतिग्रहो होमो स्वाध्यायश्च निवर्तते ॥ cited as मनु's in अपरार्क p. 892. परा. मा. I. 2. p.211. Aparārka and others explain that the cessation of homa refers to smärta and not to _srauta_ homa. The last verse is ascribed to यम by मिता. on या. III. 17, where it adds the half verse सूतके तु कुलस्यान्नमदोषं मनुरपवीत् ।. The विष्णुपुराण III. 13.18 reads सुतबन्धोर्दशाहानि कुलस्यान्नं...निवर्तते ॥
 
-547.374: TC E ar Frie ur 117 Tiere TV, 799T I FT. T. IV. 15.10; Fra fora za RTSHOP
+[^548]: For the different explanations of 'kṣāra-lavaṇa' vide H. of Dh. vol. II. p. 304 n. 723.
 
-a rai su TË TË Ha rugo Tester T rani c set fra ateit! 17. I. 12.10.; 77 FETETTH धीयीरन् । नित्यानि निवर्तेरन्वैतानवर्जम् । शालाग्नौ चैके। अन्य एतानि कुयुः। पार.. III. 10 (ascribed to पैठीनसि in मिसा. on या. III. 17): उभयत्र दशाहानि कुलस्या
+[^549]: प्रेतात्र स्नाहीत्युदकं स्थाप्यं पिब चेदमिति क्षीरम् । पार. गृ. III. 10.
 
-stài taget ETAT FATEYTT fra il cited as he's in U p. 892. UTT. FL. I. 2. p. 211. Aparärka and others explain that the cessation of homa refers to smärta and not to śrauta homa. The last verse is ascribed to y by far, on 41. III. 17, where it adds the balf verse uith a T P . ware. The farver III. 13.18 reads TESTET MT... Frangu..
+[^550]: सूतके कर्मणां त्यागः सन्ध्यादीनां विधीयते इति यद्यपि सन्ध्याया विनिवृत्तिः भूयते तथाञ्जलिप्रक्षेपादिकं कुर्यात । सूतके सावित्र्या चाञ्जलिं प्रक्षिप्य प्रदक्षिणं कृत्वा सूर्य ध्यायसमस्कुर्यादिति पैठीनसिस्मरणात् । मिता on या. III. 17. सूतके कर्मणां त्यागः is गोभिलस्मृति III, 60. Vide विष्णुपुराण III. 13. 18 ' दानं प्रतिग्रहो होमः स्वाध्यायश्च निवर्तते।'
 
-STI
+[^551]: पञ्चयज्ञविधानं तु न कुर्यान्मृत्युजन्मनोः । दशाहात्तु परं सम्यग्विमोऽधीयीत धर्मवित् ॥ संवर्त 43.
 
-POONA
+## Asthisañcayana
 
-FOUNDED
+_Asthisañcayana_ or Sañcayana means that rite in which the (charred) bones (of the cremated person) are collected. This rite is dealt with in many sutra and smṛti works, such as Sān. Sr. IV. 15. 12-18, Sat. Śr. 28. 3, Āśv.gr. 1V. 5.1-18, Gaut. P. S. I. 5, viṣṇu Dh. S. 19. 10-12, Baud. P. S. I. 14, Kauśika-sūtra 82. 29-32, Vaik. Smārta Sūtra V. 7, Yama 87-88, Samvarta 38, Gobhila-smṛti III, 54-59 (q. by Haralata p. 183). There is great divergence of views about the day on which this was to be done. For example, Sat. Sr. 28. 3.1 provides: [^552] 'bones are collected on the next day (after cremation) or on the 3rd, 5th or 7th.' Saṁvarta (verse 38) and Garudapurāņa (Pretakhaṇḍa 5. 15) prescribe that collection of bones should be made on the 1st, 3rd. 7th or 9th and (particularly) on the 4th by twice-born persons. The Vámanapurāņa (14. 97-98) allows it on the 1st, 4th or 7th day. Yama (87) requires the relatives to collect bones from the 1st to the 4th day after cremation and also provides (verse 88) that the four varnas should respectively perform _sañcayana_ on the 4th, 5th, 7th and 9th day. The Āśv. gr. S. IV. 5. 1 states that _sañcayana_ should be performed after the 10th day from cremation in the dark half, but on uneven _tithis_ (i.e. 1st, 3rd, 11th. 13th, 15th) and on a _nakşatra_ which bears a name not applicable to two or more _nakşatras_ (i.e, except on the two Āṣāḍhas, two Phalgunis and two Bhādrapadās). viṣṇu Dh, S. 19 10. Vaik. Smārta-sūtra V. 7, Kaus. 82. 29, viṣṇupuräna TIL 13 14. Kūrmapuraṇa (uttara) 23 and a few other works lay down that _sañcayana_ must be done on the 4th day after cremation. The various texts differ a good deal in details. The following is the procedure in the Ašv. gr. IV.5:--The bones of a male should be collected into an urn that has no special marks (protuberances), those of a woman in an urn that has protuberances but no other special marks. Aged persons, odd in number[^553] not being together with women, (i.e. not as a mixed assemblage ) collect the bones. The performer walks thrice round the spot (where the body was burnt) with his left side turned towards the spot, sprinkles on it with a śami branch milk mixed with water with a verse 'śitike' ( Ṛg. X. 16. 14). With the thumb and the 4th finger they (gatherers ) should put each single bone into the urn without making a rattling noise (of the bones in the urn), the bones of the feet being taken first, those of the head last. Having well gathered the bones and having purified them with a winnowing basket (i.e, removing the dust attaching to them) they should put the urn in a pit at a place where the waters from different sides do not flow together except rain water with the verse 'upasarpa' (Ṛg. X. 18. 10) and he should throw earth (into the pit) with the following verse (Ṛg. X. 18. 11). After having thrown (earth) he should repeat the next verse (Ṛg. X. 18. 12). Then covering (the mouth of the urn) with a lid with the mantra 'ut te stabhnāmi' (Ṛg. X. 18. 13) (he fills up the pit). Then without looking back they return (towards the house), bathe in water and then offer śrāddha to him alone (the departed).
 
-1917
+[^552]:अपरेद्युस्तृतीयस्यां पञ्चम्यां सप्तम्यां वास्थीनि सञ्चिनोति । सत्या. श्रौ. 28. 3.1 अथ सञ्चयनं व्युष्टे द्विरात्रं त्रिरात्रं चतूरात्रं पञ्चरात्रं वा। गौ. पि. सू. 1.5.1; प्रथमेह्नि चतुर्थ वा सप्तमे वास्थिसञ्चयम् । ऊर्ध्वे सञ्चयनात्तेषामंङ्कपर्शों विधीयते ॥ वामनपुराण 114, 97-98.
 
-तेजस्विनाव
+[^553]: The हारलता (p. 184) explains अयुजो मिथुनाः प्रवयसः (in आश्व.गृ.) as 'मिथुनं पुरुषद्वयं बहवचनात् त्रयो मिथुनाः षट् पुरुषा इत्यर्थः पञ्चवा मिथुना दश पुरुषाः प्रत्रयसः प्रकृष्टवयसः'.It is probable that women also accompanied the _cortege_ to the cemetery in ancient times, that gradually they ceased to do so and by the time of the Häralatā only men comprised the funeral procession and so it explained the words of Āśv, as above.
 
-tas
+Dr. B. N. Datta in his paper 'Vedic funeral customs and Indus Valley culture in 'Man in India', vol. 16 pp. 223-307 regards (p. 285) Ṛg. X. 18 as a hymn dealing with burial of the whole body (and not of ashes), while he admits (p. 287) that Ṛg. X. 16 is a cremation hymn. I dissent from him for various reasons; the most important is that if his theory be correct a period of several centuries must be postulated between the two hymns. This is inadmissible.
 
-Bhandarkar Oriental Research InstituteIV)
+The Kauśikasutra (82. 29-32) prescribes certain details differently. It says that the bones are collected with A. V. 18. 2. 24, 26, then they are consigned to a jar over which all fragrant powders are scattered, then the jar is raised with the Utthāpanī verses and carried with the verses called Hariṇis (i.e. A. V. 18. 2. 11-18). He (the performer) deposits (in the earth the urn) at the root of a tree with the verse 'mā tvā' (A. V. 18. 2. 25 'May the tree not injure thee all round, may not the wide goddess Earth also injure thee')[^554].
 
-Observances for near relatives in mourning
+The other sūtras present several variations which are passed over here, excepting one or two matters. The Sat. Sr. provides that the twig should be of the Udumbara tree, that the bones are collected by women of the family of the deceased (his wife and others) odd in number (five or more), or other women (in the absence of women of the family). A woman who is not likely to have a child should tie in her left hand a Bṛhati fruit with two threads, blue and red in colour, should step on a stone with her left foot, collect the bones first from the teeth or head with the mantra "uttişthata' (Tai. Ā. VI. 4. 2) and she should deposit those bones in a jar or garment, then a second woman of the same type collects bones from the shoulders or arms, a third woman from the sides or hips, a fourth from the thighs or legs, and a fifth from the feet. They or more women collect the bones completely. The urn is deposited at the root of a _śami_ or _palāśa_ tree.
 
-239
-
-let them eat no mineral salt or ordinary 548 galt for three nights, let them optionally avoid for twelve nights the distribution of gifts and the study of vedic texts if one of the principal gurus (father, mother or the teacher who performed upanayapa and taught the whole Veda ) dies. Par. gr. III. 10 adds that they should remain chaste, eat food only once in the day and that they should not repeat Veda study, and should give up the daily obligatory duties except those connected with Vedic fires. Manu (V. 73) adds that they should not eat flesh for three days. Vas. ( 4.14-15 ) lays down that the relatives who returned from the cemetery should sit down for three days on mats and fast, that if they are unable ( to fast for three days ) they should subsist on food bought in the market or obtained unasked. Yāj. III. 17 and Pār. III, 10 549 provide that for the night they should put milk and water in an earthen vessel in the open space (on a
-
-ilya) with the words 'O departed one! bathe hero ( in the water) and drink this milk'. Yāj. III. 17, Paighinasi, Manu V. 84, Par. gr. III. 10, and others state that the relatives of the departed should perform their own daily rites to be performed in the frauta fires (such as Agnihotra and Darsapürnamāsa ) and in the smärta fire (such as morning and evening homa) on account of the peremptory dictates of the Veda (such as one should perform Agnihotra as long as one lives'). The commentators have added several limitations and restri otions. The Mit.550 on Yāj. III, 17 states that, as Manu V. 84 only prohibits the stopping of the rites in (Vedic and Smārta) fires, such religious duties as the five daily Mahāyaiñas are excluded, that Vaišvadeva, though perforined in fire, is excluded because there is an express text of Samvarta a brāhmaṇa should be without Vaišvadava for ten days ( after the death of a sapiṇḍa), that the śrauta and Smärta rites should be got per formed by another, as Paraskara (III. 10'anya etāni kuryuh) expressly lays down. Only nitya and naimitti ka acts to be performed in Vedic and Smärta fires are allowed and so kāmya rites cannot be performed. Even at present Agnihotring
-
-STITUT
-
-POONA
-
-548. For the different explanations of 'ksara-lavana' vide H. of Dh. vol. II. p. 304 n. 723.
-
-. 549. Taigiga Furci fa r a aficki uret. III. 19,
-
-550. et fort cu Farerai Fattua-già vai yrafatagit:
-
-To gras our gaan asur frica serenta en CASvira arithmorra i faat on ar. III. 17. Bath F o rch
-
-@ III, 60. Vide racugarup III. 13. 18 Pantaua ETA: aqua Paras
-
-FOUNDED
-
-1914
-
-Bhandarkar Oriental
-
-240
-
-"History of Dharmaśāstras
-
-[Vol.
-
-perform their śrauta nitya homa during days of impurity them selves, though some get it performed by another. (Vide Yāj. III. 17, Manu V. 84). Although there is a text of Gobhilasmṛti (III, 60 ) prohibiting the performance of sandhyā, yet relying on a sütra of Paithinasi the Mit. says that a man can offer water to the Sun in worship; others like the smṛtimuktāphala (p. 478) say that sandhyā mantras may be revolved in the mind, except the prānāyāma mantras. This is followed in modern times in many parts of India. viṣṇu Dh. S. 22,6 prescribes that in impurity due to birth or death homa (Vaišvadeva ), giving and accepting gifts and the study of Veda cease. The Vaik. Sm. S. VI.4 states that the perform ance of sandhyā adoration, all rites for the gods and manes, gift and acceptance and Veda study should be given up during impurity on death. Gautama 14.44 appears to hold that a brähmana is not affected by impurity on birth and death for the purposes of Veda study. On the other hand Samvarta 551 (43) affirms that on the days of impurity on birth and death there is no performance of the five Mahāyajñas nor of Veda study The Nityācāra-paddhati p. 544 states that even in aśauca the thousand names of viṣṇu may be recited.
-
-Asthisañcayana or Sancayana means that rite in which the (charred) bones (of the cremated person) are collected. This rite is dealt with in many sutra and smṛti works, such as Sān. Sr. IV. 15. 12-18, Sat. Śr. 28. 3, Āśv.gr. 1V. 5.1-18, Gaut. P. S. I. 5, viṣṇu Dh. S. 19. 10-12, Baud. P. S. I. 14, Kausika-sutra 82. 29-32, Vaik. Smārta Sūtra V. 7, Yama 87-88, Samvarta 38, Gobhila-smṛti III, 54-59 (q. by Haralata p. 183). There is great divergence of viows about the day on which this was to be done. For example, Sat. Sr. 28. 3.1 provides: 552 'bones are collected. on the next day (after cremation) or on the 3rd, 5th or 7th.' Samvarta (verse 38) and Garudapurāņa (Pretakhanda 5. 15) prescribe that collection of bones should be made on the 1st, 3rd. 7th or 9th and (particularly) on the 4th by twice-born persons. The Vámanapurāņa (14. 97-98) allows it on the 1st, 4th or 7th day. Yama (87) requires the relatives to collect bones from the 1st to the 4th day after cremation and also provides (verse 88)
-
-551. auro * =That I atera u 70tantsitur sairam o al 43. 2)
-
-552. suturarentaart 2541m ut artefia rata 1 At. sti. 28. 3.1 9747 * eye furari FXS T arifa. . 1. 5 1; waarbandar वा सप्तमे वास्थिसञ्चयम् । ऊर्व सञ्चयनातेषामंडपशों विधीयते । वामनपुराण 114,97-98,
-
-POONA
-
-FOUNDED
-
-1917
-
-भारत नावधालन Handarkar Oriental Research Institute
-
-TV1
-
-Asthisañcayana
-
-241
-
-that the four varnas should respectively perform sancayuna on the 4th, 5th, 7th and 9th day. The Āśv. gr. S. IV. 5. 1 states that sancajana should be performed after the 10th day from cremation in the dark half, but on uneven tithis (i. e. 1st, 3rd, 11th. 13th, 15th) and on a nakşafra which bears a name not applicable to two or more nakşatras (i. e, except on the two Asadhas, two Phalgunis and two Bhadrapadās). viṣṇu Dh, S. 19 10. Vaik. Smārta-sūtra V. 7, Kaus. 82. 29, viṣṇupuräna TIL 13 14. Kūrmapurana (uttara) 23 and a few other works lay down that sañicayana must be done on the 4th day after cremation. The various texts differ a good deal in details. The following is the procedure in the Ašv. gr. IV.5:--The bones of a male should be collected into an urn that has no special marks (protuberances), those of a woman in an urn that has protuberances but no other special marks. Aged persons, odd in number 553 not being together with women, (i.e. not as a mixed assemblage ) collect the bones. The per foriner walks thrice round the spot (where the body was burnt) with his left side turned towards the spot, sprinkles on it with a sami branch milk mixed with water with a verse *sitike' ( Ṛg. X. 16. 14). With the thumb and the 4th finger they (gatherers ) should put each single bone into the urn without making a rattling noise (of the bones in the urn), the bones of the féet being taken first, those of the head last. Having well gathered the bones and having purified them with a win nowing basket (i. e, removing the dust attaching to them) they should put the urn in a pit at a place where the waters from different sides do not flow together except rain water with the verse 'upasarpa' (Ṛg. X. 18. 10) and he should throw earth (into the pit) with the following verse (Ṛg. X. 18. 11). After having thrown (earth) he should repeat the next verse (Ṛg. X. 18. 12). Then covering (the mouth of the urn) with a lid with the mantra ut te stabh nami' (Ṛg. X. 18. 13) (he fills up the pit). Then without looking back they return (towards the house), bathe in water and then offer sraddha to him alone (the departed). Dr. B. N. Datta in his paper 'Vedic funeral customs and Indus Valley culture in 'Man in India', vol. 16
-
-AITUTE
-
-POONA
-
-FOUNDED
-
-553. The y ar (p. 184) explains 314# fagar: 977F: (in 31*1.) ash 'मिथुने पुरुषदर्य बहुवचनात् त्रयो मिथुनाः षट् पुरुषा इत्यर्थः पशवा मिथुना या पुरुषाः
-
-TT#: 492 : . It is probable that women also accompanied the cortege to the cemetery in ancient times, that gradually they ceased to do so and by the time of the Häralatā oply men comprised the funeral processionaria prefental so it explained the words of Asy, as above.
-
-Research Institute
-
-H. D, 31
-
-242
-
-History of Dharmasastra
-
-[Vol.
-
-pp. 223-307 regards (p. 285) Ṛg. X. 18 as a hymn dealing with burial of the whole body (and not of ashes), while he admits (p. 287) that Ṛg. X. 16 is a cremation hymn. I dissent from him for various reasons; the most important is that if his theory be correct a period of several centuries must be postulated between the two hymns. This is inadmissible.
-
-The Kausikasutra (82. 29-32) prescribes certain details differently. It says that the bones are collected with A. V. 18. 2. 24, 26, then they are consigned to a jar over which all frag Tant powders are scattered, then the jar is raised with the Utthāpanī verses and carried with the verses called Harinis (i. e. A. V. 18. 2. 11-18). He (the performer) deposits in the earth the urn) at the root of a tree with the verse 'mā tvā' (A. V. 18. 2. 25 May the tree not injure thee all round, may not the wide goddess Earth also injure thee'). 554
-
-The other sūtras present several variations which are passed over here, excepting one or two matters. The Sat. Sr. provides that the twig should be of the Udumbara tree, that the bones are collected by women of the family of the deceased (his wife and others) odd in number (five or more), or other women (in the absence of women of the family). A woman who is not likely to have a child should tie in her left hand a Brhati fruit with two threads, blue and red in colour, should step on a stone with her left foot, collect the bones first from the teeth or head with the mantra "uttişthata' (Tai. Ā. VI. 4. 2) and she should deposit those bones in a jar or garment, then a second woman of the same type collects bones from the shoulders or arms, a third woman from the sides or hips, a fourth from the thighs or legs, and a fifth from the feet. They or more women collect the bones completely. The urn is deposited at the root of a sami or palāśa tree.
-
-In modern times, particularly in towns and cities, the collection of bones has to be done immediately after cremation. The Antyesti-paddhati closely follows the procedure prescribed in the Āśv. gr. quoted above. It says: the performer goes to the place of cremation, sips water, mentions the time and place, makes a sankalpa (declaration) that he will perform the collec
+In modern times, particularly in towns and cities, the collection of bones has to be done immediately after cremation. The Antyeṣṭi-paddhati closely follows the procedure prescribed in the Āśv. gr. quoted above. It says: the performer goes to the place of cremation, sips water, mentions the time and place, makes a _saṅkalpa_ (declaration) that he will perform the collec
 
 POONA
 
