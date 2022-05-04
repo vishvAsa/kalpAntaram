@@ -673,22 +673,9 @@ The Sat. Sr, describes in the 28th _praśna_ what is called _pitṛmedha_ while 
 
 [^576]: विधृतिलोष्टान् प्रतिदिशमन्वीक्षमाण उपदधात्युत्ते स्तभ्नोमीत्येतैः प्रतिमन्त्रं तिलमिश्राभिर्धानाभिस्त्रिः प्रदक्षिणं परिकिरत्येणीर्धाना इति। सत्या. श्री. 29. 1. 53, on which the Com. says अत्रापि पूर्वस्यां दिश्यारम्भः।अथ क्षेत्रवितृण्णीं चतुरो लोष्टानुपदधात्युत्ते स्तभ्नोमि...मिनोत्विति पुरस्तादुपदधाति ।... उच्छ्वश्चमाना पृथिवी हि तिष्ठसि सहस्रं मित उप हि श्रयन्ताम् ।...सन्त्वत्रेति दक्षिणतः । बौ. पि. सू.
 
-577. On 29. 3.2. (यं ब्रह्ममेध इत्याचक्षते) of सत्या. श्री. the वैजयन्ती explains 'अत्र सहेतुकोऽधिकारः। यस्माद् ब्रह्मसंयुक्तो मेध इति विग्रहः । यज्ञवाचिना मेधशब्देन व्यपsume वेशसंस्तुतिः । चतुतिसंयुक्तो दहनकल्प इत्यर्थः ।. On 'तान् परं ब्रह्मेत्याचक्षते। सत्या. श्री 29. 3. 20, the वैजयन्ती says 'तांश्चतुहोतॄन् । परब्रह्मशब्दः सारभूतमन्त्रवाची । ब्रह्म वै चत- our होतार इति ।
-तजास्य नावArtura: Tere Birouruiert gai Tr. Bil. 29. 1. 53, on which the Com. says 3170 garui fare: 1; 34 raquofi at @erau स्तम्नामि... मिनोस्विति पुरस्तादुपदधाति ।... उच्छश्चमाना पृथिवी हि तिष्ठसि सहस्र मित उप हि prutarti...atra aroa: 151. F.
+[^577]: On 29. 3.2. (यं ब्रह्ममेध इत्याचक्षते) of सत्या. श्रौ. the वैजयन्ती explains 'अत्र सहेतुकोऽधिकारः। यस्माद् ब्रह्मसंयुक्तो मेध इति विग्रहः । यज्ञवाचिना मेधशब्देन व्यपदेशसंस्तुतिः । चतुर्होतृसंयुक्तो दहनकल्प इत्यर्थः ।. On 'तान् परं ब्रह्मेत्याचक्षते। सत्या. श्रौ 29. 3. 20, the वैजयन्ती says 'तांश्चतुर्होतॄन् । परब्रह्मशब्दः सारभूतमन्त्रवाची । ब्रह्म वै चतर्होतार इति ।'.
 
-577. On 29.3.2. ( A r ara) of Fun T. the unei explains 317 Hamiselt: I meaṚgageTi #uga aug: 1 7 used a square देशसंस्तुतिः । चतुहोतृसंयुक्तो दहनकल्प इत्यर्थः ।. On 'तान् परं ब्रह्मेत्याचक्षते। सत्या. श्रो 29. 3. 20, the traff says 'at et arra: Tutarating Trou
-
-fara .
-
-1917
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Stages in the disposal of dead bodies
-
-255
+## Stages in the disposal of dead bodies
 
  In the Baud. 578 P. S. I 17 there are passages that bear a close resemblance to some passages of the Sat. Sr. on dhavana. Similarly, Kāt. Sr. 579 21. 3.6 provides (immedi ately after the months in which mounds were to be constructed) that as many jars should be taken as there are persons perform ing dhavana (or dhuvana) and the commentator explains that word as meaning 'fanning!
 
