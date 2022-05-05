@@ -113,7 +113,7 @@ FUNERAL RITES (antyeṣṭi) are a saṁskāra. Antyeṣṭi is one of the 16 (o
 
 [^439]: निषेकादिश्मशानान्तो मन्त्रैर्यस्पोदितो विधिः । तस्य शास्त्रोधिकारोऽस्मिज्ञेयो नान्यस्य कस्यचित् ॥ मनु  II, 16, ब्रह्मक्षत्रियविद्शूद्रा वर्णास्त्वाद्यास्रयो द्विजाः । निषेकाद्याश्मशानान्तास्तेषां वै मन्त्रतः क्रियाः ॥ या I 10, आधानपुंससीमन्तजातनामान्नचौलकाः । मौञ्जी व्रतानि गोदानं समावर्तविवाहकाः । अन्त्यं चैतानि कर्माणि प्रोच्यन्ते षोडशेव तुं॥ जातूकर्ण्य q. in संस्कारप्रकाश p 135 and अन्त्यकर्मदीपक P I
 
-[439a]: प्रतिशाखं भिन्नेप्यन्त्यकर्मणि साधारणं किंचिदुच्यते । निर्णय  p 369.
+[^439a]: प्रतिशाखं भिन्नेप्यन्त्यकर्मणि साधारणं किंचिदुच्यते । निर्णय  p 369.
 
 
 ## Ṛgveda X 14-18
@@ -677,35 +677,21 @@ The Sat. Sr, describes in the 28th _praśna_ what is called _pitṛmedha_ while 
 
 ## Stages in the disposal of dead bodies
 
- In the Baud. 578 P. S. I 17 there are passages that bear a close resemblance to some passages of the Sat. Sr. on dhavana. Similarly, Kāt. Sr. 579 21. 3.6 provides (immedi ately after the months in which mounds were to be constructed) that as many jars should be taken as there are persons perform ing dhavana (or dhuvana) and the commentator explains that word as meaning 'fanning!
+ In the Baud.[^578] P. S. I 17 there are passages that bear a close resemblance to some passages of the Sat. Sr. on _dhavana_. Similarly, Kāt. Sr.[^579] 21. 3.6 provides (immediately after the months in which mounds were to be constructed) that as many jars should be taken as there are persons performing _dhavana_ (or _dhuvana_) and the commentator explains that word as meaning 'fanning'.
 
-It will be soon that the disposal of the dead in ancient India was divided into four stages viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Säntikarma) and erection of a monument over the bones. The last was not necessarily done in every case. The Andhau Inscription of the time of Rudradaman in the year 52 (probably of the saka era ) refers to the erection of a staff (lasti i.e. yasti) as a funeral monument to the memory of a sister, brother and wife by Madana son of Sihila (vide E. I. Vol. 16 pp. 23-25). In a long passage of the Brahma purāņa quoted by Aparārka (pp. 885-886) it is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puskaraka tree should be planted there or an eduka (a structure ) should be built over it. 580
+It will be soon that the disposal of the dead in ancient India was divided into four stages viz. cremation, collecting the charred bones and depositing them underground in an urn, expiatory rites (called Śäntikarma) and erection of a monument over the bones. The last was not necessarily done in every case. The Andhau Inscription of the time of Rudradāman in the year 52 (probably of the śaka era ) refers to the erection of a staff (laṣṭi i.e. yaṣṭi) as a funeral monument to the memory of a sister, brother and wife by Madana son of Sihila (vide E. I. Vol. 16 pp. 23-25). In a long passage of the Brahmapurāņa quoted by Aparārka (pp. 885-886) it is stated that the charred bones of a cremated person should be collected in an urn and deposited at the root of a tree or cast in the Ganges, that the place of cremation should be purified with cowdung and water, that a puskaraka tree should be planted there or an eduka (a structure ) should be built over it[^580].
 
-The Sat śr. 28.4. 28 and Baud. P.S. II. 3. 2 state as shown above that the rites immediately after death were performed only up to the depositing of the urn (containing the bones) underground in the case of those householders who had not set up the vedic fires and in the case of married women and that in the case of him who had performed the solemn rite of Agni cayana a mound with bricks or clods was built up on the bones.
+The Sat śr. 28.4. 28 and Baud. P.S. II. 3. 2 state as shown above that the rites immediately after death were performed only up to the depositing of the urn (containing the bones) underground in the case of those householders who had not set up the vedic fires and in the case of married women and that in the case of him who had performed the solemn rite of Agnicayana a mound with bricks or clods was built up on the bones.
 
-578. एकाई धुनुयुस्त्रीण्यहानि धुनुयुः पञ्चससनकादशाहान्यर्धमासं धुनुयुरयुग्मा रात्रीरर्धमासान् मासातून संवत्सरं वा संपाद्य संधुतुयुरिति ।...अथान्तरेण ग्रामं च श्मशान arrar ranna ra wafat. . . I. 17.1 and 3; compare an. . noted above p. 252.
+[^578]: एकाहं धुनुयुस्त्रीण्यहानि धुनुयुः पञ्चसप्तनवैकादशाहान्यर्धमासं धुनुयुरयुग्मा रात्रीरर्धमासान मासानृतून संवत्सरं वा संपाद्य संधुनुयुरिति ।...अथान्तरेण ग्रामं च श्मशान चागारं वा विमितं वा कारितं भवति । बो. पि. सू. I. 17.1 and 3; compare सत्या. श्रौ. noted above p. 252.
 
-579. ararat ylācura: praraa: HTETT Jan Treiê I FEAT. r. 21, 3. 6. On this the com.says: 'ar fara a c ara उपवाजनं धवनम्।
+[^579]: यावन्तो धुविष्यन्तः स्युस्तावतः कुम्भानादाय छत्राणि चापारिमितानि। कात्या. श्रौ. 21,3.6. On this the com. says: 'अग्रे अमात्यानां पुत्रपौत्रादीनामुपवाजनं वक्ष्यति । उपवाजनं धवनम्'.
 
-580. Tercartuta faraid farrada i na: Far m e r Fra: ... Tercata a 7: RTSYET TEK
+[^580]: गृहीत्वास्थीनि तद्भस्म नीत्वा तोये विनिक्षिपेत् । ततः संमार्जनं भूमः कर्तव्यं गोमयाम्बुभिः।...भूमेराच्छादनार्थे तु वृक्षः पुष्करकोऽथवा । एडूको वा प्रकर्तव्यस्तत्र सर्वेः स्वबन्धुभिः॥ ब्रह्मपुराण . by अपरार्क p. 886; the same passage is quoted in रघुनाथ's Commentary on त्रिंशच्छ्लोकी (verse 28. p, 253 ) which explains पुष्करकः as पुष्करिणी and reads पहकः for एडूकः and explains it as चत्वरः.
 
-PALETTI macrop q. by sa p. 886; the same passage is quoted in rgate's Com mentary on Freerlot (verse 28. p. 253 ) which explains go bhr 14 yoshof and reads पहकः for पडूकः and explains it as चत्वरः .
+It is remarkable that while slaves and even attendants were often buried with the master in Babylon and Celtic Britain, there is no similar reference to the burial or cremation of anybody with the deceased even in the ancient procedure found in the Sat. Br. It is ouly possible to say that in some cases in the pre-Vedic age the wife might have burnt herself along with the deceased husband on the funeral pyre. There is no doubt that later works like the viṣṇudharmasütra recommended to women the practice of _Sati_ as an option to leading the life of perfect celibacy after the husband's death.
 
-ST
-
-POONA
-
-Bhandarkar Oriental Research Institute
-
-256
-
-History of Dharmaśāstra
-
-[Vol.
-
-It is remarkable that while slaves and even attendants were often buried with the master in Babylon and Celtic Britain, there is no similar reference to the burial or cremation of anybody with the deceased even in the ancient procedure found in the Sat. Br. It is ouly possible to say that in some cases in the pre-Vedic age the wife might have burnt herself along with the deceased husband on the funeral pyre. There is no doubt that later works like the viṣṇudharmasütra recommended to women the practice of Sati as an option to leading the life of perfect celibacy after the husband's death,
-
-The persons entitled to perform the funeral rites after death (antyakarmādhikūrin) are the same as those entitled to offer sraddha. There is a good deal of difference as to the order of the persons so entitled. For example, Gautama (Dh.S. 15. 13-14) states 'On failure of sons the sapiṇḍas (e. g. brother, brother's son), the sapiṇḍas of the mother (e. g maternal uncle or his son) and pupils may perform śräddha for the deceased; in default of these the family priest and the ācārya (veda teacher).' Sankha says 581 The offering of piṇḍa and water should be done by the son for the father; in default (i. e. absence or death) of the son, the wife of the deceased) should offer, but in default of her the full brother.' The viṣṇupurāna 582 provides : *the son, grand-son, great grandson (of the deceased), the offspring of the brother (of the deceased), the offspring of a sapiṇḍa become entitled to offer (piṇḍa).' The Märkandeya purāņa provides (30. 19-21, chap. 27. 19-23 of the Venk, ed.) 'On failure of the sons, sapiṇḍas, on failure of them the samānoda kas, then the sapiṇḍas of the mother, and samānodakas of her, should perform these rites; a daughter's son should perform them (if the man dies sonless), the putrikāputra should perform them for his maternal grand-father; in default of all these, women should perform these rites for their husbands but without Vedio mantras; in default of wife the king should get the rites per formed by some one belonging to the family (of the deceased)
+The persons entitled to perform the funeral rites after death (_antyakarmādhikārin_) are the same as those entitled to offer śrāddha. There is a good deal of difference as to the order of the persons so entitled. For example, Gautama (Dh.S. 15. 13-14) states 'On failure of sons the sapiṇḍas (e. g. brother, brother's son), the sapiṇḍas of the mother (e.g maternal uncle or his son) and pupils may perform śräddha for the deceased; in default of these the family priest and the ācārya (veda teacher).' Sankha says [^581] 'The offering of piṇḍa and water should be done by the son for the father; in default (i.e. absence or death) of the son, the wife of the deceased) should offer, but in default of her the full brother.' The viṣṇupurāna[^582] provides : 'the son, grandson, great grandson (of the deceased), the offspring of the brother (of the deceased), the offspring of a sapiṇḍa become entitled to offer (piṇḍa).' The Märkandeyapurāņa provides (30. 19-21, chap. 27. 19-23 of the Venk, ed.) 'On failure of the sons, sapiṇḍas, on failure of them the samānodakas, then the sapiṇḍas of the mother, and samānodakas of her, should perform these rites; a daughter's son should perform them (if the man dies sonless), the putrikāputra should perform them for his maternal grand-father; in default of all these, women should perform these rites for their husbands but without Vedic mantras; in default of wife the king should get the rites performed by some one belonging to the family (of the deceased)
 
 581. पितः पुत्रेण कतव्या पिण्डदानोदकक्रिया। पुत्राभावे तु पत्नी स्यात्पत्न्यभावे तू HIT: || TF 4. by lae. II. p. 335, H TFU III. p. 380.
 
