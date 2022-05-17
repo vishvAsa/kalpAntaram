@@ -520,313 +520,135 @@ Baud, Dh.S. in another place states:[^714] when firm soil is polluted it is puri
 
 [^716]: यत्र प्रसूयते नारी म्रियते दह्यतेपि वा। चण्डालाध्युषितं यत्र यत्र विष्ठादिसंहतिः॥ एवं कश्मलभूयिष्ठा भूरमेध्या प्रकीर्तिता। श्वसूकरखरोष्टादिसंस्पृष्टा दुष्टतां व्रजेत् । अङ्गारतुषकेशास्थिभस्माद्यैर्मलिना भवेत् । मिता. on या. I. 188. अपरार्क reads यत्रारिष्टादिसङ्गतिः in the first verse and धूम for तुष. शु. कौ. p. 101 reads प्रसूते गर्भिणी यत्र म्रियते यत्र मानुषः।...यत्र वा दह्यते शवः॥ विण्मूत्रोपहतं यत्र कुणपो यत्र दृश्यते । एवं कश्मल. The definitions of दुष्टा and मलिना as quoted from देवल by शु.कौ p 101 and शुद्धिप्र. p. 99 are different.
 
-Then Devala[^717] prescribes the purification of the three kinds of ground: 'Purity is of five kinds, viz. digging up; burning (with wood or grass), smearing (with cowdung ), washing (with water) or the fall of rain. Even _amedhyā_ ground may be purified by these five means employed together (where a corpse is cremated or candālas dwell) or by four (i.e. omitting rainfall or burning in other cases of amedhyā); ground that is duṣṭā is purified by three (digging up, burning and smearing with cowdung) or two (viz. digging up and burning) and _malinā_ ground is purified by one (i.e. by digging up).
+Then Devala[^717] prescribes the purification of the three kinds of ground: 'Purity is of five kinds, viz. digging up; burning (with wood or grass), smearing (with cowdung ), washing (with water) or the fall of rain. Even _amedhyā_ ground may be purified by these five means employed together (where a corpse is cremated or caṇḍālas dwell) or by four (i.e. omitting rainfall or burning in other cases of amedhyā); ground that is duṣṭā is purified by three (digging up, burning and smearing with cowdung) or two (viz. digging up and burning) and _malinā_ ground is purified by one (i.e. by digging up).
 
-The Smṛtyarthasara (pp. 73–74) provides that if an idol made of iron or other metal is slightly polluted (as defined above) then it can be purified by means of pancagavya after rubbing it with ashes; similarly a stone idol, when slightly polluted, should be washed with water mixed with the clay from an ant-hill and becomes pure after being treated with pancagavya. Any idol, if polluted with ordure, urine or village mud would become pure after first being flooded for five days with pañca gavya, after being well washed with cow's urine, cowdung and clay from an ant-hill and by being again installed ( with all installation rites). Questions about the pollution of temples by the entry of the so-called untouchables or by the entrance of persons other than brāhmaṇas in the inmost shrine (garbhagrha) have come before the courts e. g. in Gopala Muppanar v. Dharmakarta Subramania 27 Madras Law Journal p. 253 at p. 258, where reference is made to the ceremonies for the removal of pollution according to the Agamas and Tantras. In S. K. Wodeyar V. Ganapati (37 Bom. L. R. 584) the point arose whether, when a custom was alleged that in a temple at Banavasi in the Canara district none could enter the inner sanctum except persons belonging to the ten sub-divisions of brāhmaṇas and a Lingayat entered it in spite of the protests of the worshippers in charge of the temple, his entry polluted the temple and whether he was liable to pay for the sum spent over the puri fication of the temple, the High Court of Bombay held that the custom alleged viz, of excluding from the inner sanctum all that were not brāhmaṇas was proved and that the Lingayat gentle man who entered it in spite of protests was liable to pay dam ages for the wrongful entry. In the Nirnayasindhu (IIIA
+## Pollution of temples or idols
 
-STITU
+The Smṛtyarthasāra (pp. 73–74) provides that if an idol made of iron or other metal is slightly polluted (as defined above) then it can be purified by means of _pañcagavya_ after rubbing it with ashes; similarly a stone idol, when slightly polluted, should be washed with water mixed with the clay from an ant-hill and becomes pure after being treated with _pañcagavya_. Any idol, if polluted with ordure, urine or village mud would become pure after first being flooded for five days with pañcagavya, after being well washed with cow's urine, cowdung and clay from an ant-hill and by being again installed ( with all installation rites). Questions about the pollution of temples by the entry of the so-called untouchables or by the entrance of persons other than brāhmaṇas in the inmost shrine (garbhagṛha) have come before the courts e.g. in _Gopala Muppanar v. Dharmakarta Subramania_ 27 Madras Law Journal p. 253 at p. 258, where reference is made to the ceremonies for the removal of pollution according to the _Āgamas_ and _Tantras_. In _S. K. Wodeyar V. Ganapati_ (37 Bom. L. R. 584) the point arose whether, when a custom was alleged that in a temple at Banavasi in the Canara district none could enter the inner sanctum except persons belonging to the ten sub-divisions of brāhmaṇas and a Lingayat entered it in spite of the protests of the worshippers in charge of the temple, his entry polluted the temple and whether he was liable to pay for the sum spent over the purification of the temple, the High Court of Bombay held that the custom alleged viz, of excluding from the inner sanctum all that were not brāhmaṇas was proved and that the Lingayat gentleman who entered it in spite of protests was liable to pay damages for the wrongful entry.
 
-FOUNDED
+[^717]: दहनं खननं भूमेश्यलेपनवापने । पर्जन्यवर्षणं चेति शौचं पञ्चविधं स्मृतम्॥ पञ्चधा वा चतुर्धा वा भूरमेध्या विशुध्यति । द्विधा त्रिधा वा दुष्टा तु शुध्यते मलिनकधा। देवल q. by शु. कौ. p. 101 which explains वापनं as मृदन्तरेण पूरणम् .
 
-__717. दहनं खननं भूमेश्यलेपनवापने । पर्जन्यवर्षणं चेति शौचं पञ्चविधं स्मृतम्॥ पञ्चधा वा चतुर्धा वा भूरमेध्या विशुध्यति । द्विधा त्रिधा वा दुष्टा तु शुध्यते मलिनकधा। देवल q. by OUREDY शु. कौ. p. 101 which explains वापनं as मृदन्तरेण पूरणम् .
+In the Nirṇayasindhu (III pūrvārdha pp. 351-52), the Dharmasindhu (III p. 324) and other medieval digests provision is made for the re-consecration (punaḥ-pratişṭhā) of an idol in a temple when the idol is polluted by the touch of cāṇḍālas or wine or is burnt by fire or is defiled by the touch of sinners or the blood of a brāhmaṇa[^718]. If the idol be broken in two or more pieces or if it becomes broken (irregularly), if it be burnt or falls from its pedestal or be insulted, is without worship or is touched by an ass or the like animal, or falls on foul ground or is worshipped with the mantras of other gods,-in these ten circumstances Godhood ceases to indwell in the idol. If an idol be touched by robbers, cāņdālas, _patita_ people, by a dog or a woman in her courses or if it be polluted by the touch of a corpse re-consecration is necessary.
 
-Bhandarkar Oriental Research InstituteIVI
+The Viṣṇu-dharmasūtra ( 23. 34) provides that idols when polluted should be purified in the same way in which the substance of which they are made (such as stone or copper &c.) is purified and then they should be re-consecrated. If the worship of an idol already consecrated is stopped for a day, two days, a month, or two months or it is touched by śūdras or a woman in her monthly course, then at a proper time _puṇyāhavācana_ should be performed, an even number of brāhmaṇas should be fed, the idol should be submerged in water for a night and next day bathed with _pañca-gavya_ from a jar full of it to the accompaniment of the respective _mantras_, then another jar should be filled with pure water and therein the nine kinds of precious stones should be cast, the jar should then have the Gāyatri mantra appropriate to the idol repeated over it 1008 or 108 or 28 times and the idol should then be bathed with that water, it should be bathed with pure water to the accompaniment of the Puruṣasūkta (Ṛg. X. 90) and the _mūlamantra_ 1008, or 108 or 28 times. Then flowers should be offered and worship of the idol should be performed and a _naivedya_ of boiled rice and jaggery should be offered.
 
-Pollution of temples or idols
+[^718]: अथ पुनःप्रतिष्ठा । तामधिकृत्य हयशीर्षपञ्चरात्रे । चाण्डालमद्यसंस्पर्शदूषिता वह्निनाथवा । अपुण्यजनसंस्पृष्टा विप्रक्षतजदूषिता ॥ संस्कार्येति शेषः। पदार्थादर्शे ब्राह्मे । खण्डिते स्फुटिते दग्धे भ्रष्टे मानविवर्जिते। यागहीने पशुस्पृष्टे पतिते दुष्टभूमिषु । अन्यमन्त्रार्चिते चैव पतितस्पर्शदूषिते । दशस्वेतेषु नो चक्रुः संनिधानं दिवौकसः॥ यागः पूजा पशुः गर्दभादिः ।... सिद्धान्तशेखरे । चौरचण्डालपतितश्वोदक्यास्पर्शने सति । शवाद्युपहतौ चैव प्रतिष्ठां पुनराचरेत्॥ ....शुद्धिविवेके विष्णुः। द्रव्यवत्कृतशौचानां देवतार्चानां भूयः प्रतिष्ठापनेन शुद्धिरिति। अर्चाः प्रतिमाः । तदद्रव्यस्य ताम्रादरुक्तशौचं कृत्वा पुनः प्रतिष्ठां कुर्यादित्यर्थः । तद्विधिबौधायनसूत्रे। पूर्वप्रतिष्ठितस्याबुद्धिपूर्वकमेकरात्रं द्विरात्रमेकमासं द्विमासं वा अर्चनादिविच्छेदे शूद्ररजस्वलाद्युपस्पर्शने पूर्वोक्ते काले पुण्याहं वाचयित्वा युग्मान् ब्राह्मणान् भोजयित्वा निशायां जलाधिवासं कृत्वा श्वोभूते कलशपूर्णेन पञ्चगव्येन तत्तन्मन्त्रैः स्नापयित्वा अन्यं कलशं शुद्धोदकेनापूर्य तस्मिन्नवरत्नानि प्रक्षिप्य तं कलशं तत्तद्गायच्याप्टसहस्रमष्टशतमष्टाविंशतिवारं, वाभिमन्त्र्य तेनोदकेन देवं स्नापयेत्ततः शुद्धोदकेन स्नापयेदष्टसहस्रमष्टशतमष्टाविंशतिवारं वा पुरुषसूक्तेन मूलमन्त्रेण च। ततः पुष्पाणि दत्त्वा यथासम्भवमर्चयित्वा गुडौदनं निवेदयेदिति। बुद्धिपूर्वे तु विच्छेदे पूर्वोक्तां प्रतिष्ठां पुनः कुर्यात् । निर्णयसिन्धु III पूर्वार्ध pp. 351-52. The passage from पूर्वप्रतिष्ठितस्याबुद्धि to the end is a quotation (with some omissions and additions) from बौधायनगृह्यशेषसूत्र II.19 (Mysore Un, ed.).
 
-319
+Recently after the attainment of Independence some of the Provincial Legislatures in India have passed laws (e.g. Bombay Act 35 of 1947, C. P. and Berar Act 41 of 1947) throwing open all Hindu public temples to people who were once called untouchable. This is not the place to discuss in detail the arguments for and against these measures. Many orthodox Hindus hold that their inmost feelings are hurt by this tyranny of the majority in the Legislatures. They feel that these measures are contrary to the four freedoms that are promised in many constitutions viz. freedom of speech, freedom of worship, freedom from want and freedom from fear. These measures are likely to be followed by serious consequences. It is felt that the younger generation now being educated has hardly any faith in religion or in anything being sacred, that the so-called untouchables themselves when once they have asserted their right of entering Hindu temples scarcely ever care to frequent them and the orthodox Hindus also often cease to worship therein. There is the further fear that, if religious feelings even when unreasonable according to progressive views could be trampled upon by the views of the majority, there is no knowing where the process would stop. There would be temptation for the majority in a country to say that the sacred places of other religions should either not exist at all or be opened for any one not belonging to the faith of the minorities, It would have been far better that, while removing all the disabilities of the so-called untouchables as to employment, public places, courts and education, temples had been left alone for some years to come. The entrance of one set of people into the temples often entails the departure of another set, as said by P. C. in _Saklat v. Bella_ 28 Bom. L. R. 161, which is not a very desirable thing. The equality of the former untouchables in all secular matters is sure to spread in a generation or so to other non-secular matters and so to entry into temples. Adjustments on an unprecedented scale are taking place in modern India with regard to usages cherished for ages and the entry into temples of the so-called untouchables would have been more effected in a few years without recourse to the threat of armed punishments and without bitterness and rancour in the hearts of many people.
 
-pārvārdha pp. 351-52), the Dharmasindhu (III p. 324) and other medieval digests provision is made for the re-consecration (punaḥ-pratiştha) of an idol in a temple when the idol is polluted by the touch of cāndālas or wine or is burnt by fire or is defiled by the touch of sinners or the blood of a brāhmaṇa.718 If the idol be broken in two or more pieces or if it becomes broken (irregularly), if it be burnt or falls from its pedestal or be insulted, is without worship or is touched by an ass or the like animal, or falls on foul ground or is worshipped with the mantras of other gods,-in these ten circumstances Godhood ceases to indwell in the idol. If an idol be touched by robbers, cāņdālas, patita people, by a dog or a woman in her courses or if it be polluted by the touch of a corpse re-consecration is necessary.
+## Water as purifier
 
-The Viṣṇu-dharmasūtra ( 23. 34) provides that idols when polluted should be purified in the same way in which the sub stance of which they are made (such as stone or copper &c.) is purified and then they should be re-consecrated. If the worship of an idol already consecrated is stopped for a day, two days, a month, or two months or it is touched by śūdras or a woman in her monthly course, then at a proper time punyāhavācana should be performed, an even number of brāhmaṇas should be fed, the idol should be submerged in water for a night and next day bathed with pañca-gavya from a jar full of it to the accompaniment of the respective mantras, then another jar should be filled with pure water and therein the nine kinds of precious stones should be cast, the jar should then have the
+From very ancient times water has been regarded as a great purifier. Ṛg. VII, 47 and 49 are hymns addressed to waters as divinities and they are there described as themselves pure and as purifying others (as in Ṛg. VII. 49. 2 and 3 'śucayaḥ pāvakāḥ'). Similarly Ṛg. X. 9 and 30 are hymns addressed to waters, in the former of which the waters are invoked to remove whatever sin or wrong one may have committed (Ṛg. X. 9. 8 'idam-āpaḥ pra vahata yat kiñca duritam mayi'). Atharva-veda I. 33 is a hymn addressed to waters, wherein also they are described as _'śucayaḥ pāvakāḥ'_ (in A. V. I. 33.1 and 4). The Vāj. S. VI. 17 ( closely following Ṛg. X. 9. 8) invokes waters to remove whatever is censurable and dirty[^719]. In Vāj S. IV. 2 the sage prays 'May the Waters. Our mothers. purify us !' 720 The Śat. Br. 1. 7. 4.17 (S. B. E. vol. 12 p. 213) states' water is a means of purification'. Viśvarūpa on Yāj. I. 191 quotes a long Vedic passage[^721] wherein it is said "whatever creates doubt (whether it is pure or impure) should be touched with waters; then it becomes pure." It is therefore that water (hot or cold) is said to be the purifier of various kinds of vessels and of the ground in Yāj. I. 182-183, 188, Manu V. 109, 112, 126. Gobhila (I. 31-32 )[^722] lays down that when a man engaged in any religious rite hears a mantra addressed to the pitṛs, scratches his body, looks at a man of the lowest caste, or allows the wind to escape from his intestines, laughs loudly or speaks an untruth, touches a cat or a mouse, or uses harsh language, has a fit of anger, he should perform _ācamana_ (or touch water).
 
-718. अथ पुनःप्रतिष्ठा । तामधिकृत्य हयशीर्षपञ्चरात्रे । चाण्डालमद्यसंस्पर्शदूषिता वह्निनाथवा । अपुण्यजनसंस्पृष्टा विपक्षतजदूषिता ॥ संस्कार्येति शेषः। पदार्थादर्श ब्राह्मे । खण्डिते स्फुटिते दग्धे भ्रष्टे मानविवर्जिते। यागहीने पशुस्पृष्टे पतिते दुष्टभूमिषु । अन्यमन्त्राचिंते चैव पतितस्पर्शदूषिते । दशस्वेतेषु नो चक्रः संनिधानं दिवौकसः॥ यागः पूजा पशुः गर्दभादिः ।... सिद्धान्तशेखरे । चौरचण्डालपतितश्वोदक्यास्पर्शने सति । शवाद्यपहतौ चैव प्रतिष्ठा पुनराचरेत्॥ ....शुद्धिविवेके विष्णुः। द्रव्यवत्कृतशौचानां देवता नां भूयः प्रतिष्ठापनेन शुद्धिरिति। अर्चाः प्रतिमाः । तदव्यस्य ताम्रादरुक्त शौचं कृत्वा पुनः प्रतिष्ठां कुर्यादित्यर्थः । तद्विधिबौधायनसूत्रे। पूर्वप्रतिष्ठितस्याबुद्धिपूर्वकमेकरात्रं द्विरात्रमेकमासं द्विमासं वा अर्चनादिविच्छेदे शूदरजस्वलायु पस्पर्शने पूर्वोक्त काले पुण्याहं वाचयित्वा युग्मान् ब्राह्मणान् भोजयित्वा निशायां जलाधिवासं कृत्वा श्वोभूते कलशपूर्णेन पञ्चगव्येन तत्तन्मन्त्रैः स्नापयित्वा अन्य कलशं शुद्धोदकेनापूर्य तस्मिन्नवरत्नानि प्रक्षिप्य तं कलशं तत्तद्गायच्याप्टसहस्रमष्टशतमष्टाविंशतिवारं, वाभिमन्य तेनोदकेन देवं स्नापयेत्ततः शुद्धोदकेन स्नापयेदष्टसहस्रमष्टशतमष्टाविंशतिवारं वा पुरुषसूक्तेन मूलमन्त्रेण च। ततः पुष्पाणि दत्त्वा यथासम्भवमर्चयित्वा गुडौदन निवेदयेदिति। बुद्धिपूर्व तु विच्छेदे पूर्वोक्तां प्रतिष्ठां पुनः कुर्यात् । निर्णयसिन्धु III पूर्वार्ध pp. 351-52 TNTE"Flasssage from antage to the end is a quotation (with some omissions and additions) from बौधायनगृह्यशेषसूत्र II.19 (Mysore Un, ed.) Bhandarkar Oriental
+[^719]: इदमापः प्रवहतावद्यं च मलं च यत्। यच्चाभिदुद्रोहानृतं यच्च शेपे अभीरुणम् । आपो मा तस्मादेनसः पवमानश्च मुञ्चतु । वाज. सं  VI. 17.
 
-44
+[^720]: आपो अस्मान्मातरः शुन्धयन्तु घृतेन नो घृतप्वः पुनन्तु । वाज. सं. IV. 2.
 
-बनावशाल Bhandarkar Oriental Research Institute
+[^721]: तथा चाम्नायः। वाग्वै देवेभ्योऽपाक्रामत् ...तस्माद्यद्यन्मीमांस्यं स्यात्तत्तदद्भिः स्पृशेत् शुच्येव भवति । विश्वरुप on या. I. 191.
 
-320
+[^722]: पित्र्यामन्त्रानुद्रवण आत्मालम्भेऽधमेक्षणे। अधोवायुसमुत्सर्गे प्रहासेऽनृतभाषणे ॥ मार्जारमूषकस्पर्शे आक्रुष्टे क्रोधसम्भवे । निमित्तेष्वेषु सर्वत्र कर्म कुर्वन्नपः स्पृशेत् ॥ गोमिलस्मृति.. 1. 31–32, quoted by कृत्यरत्नाकर p. 50.
 
-History of Dharmaśāstra
+According to Yaj. I. 187 and Viṣṇu Dh, S. 23.56 a polluted house is purified by being swept and cowdunged. But more stringent rules were laid down if a dog, a śūdra, a _patita_, a _mleccha_ or a caṇḍāla died in a brāhmaṇa's house (vide note 633 above). After keeping the house vacant for the periods stated in note 633, it is provided by Saṁvarta[^723] that a house that is polluted by the existence of a corpse inside it should be dealt with as follows: earthen pots and cooked food should be Cast away and thrown out of the house which should then be smeared with cowdung and then a goat should be made to go about in it smelling it and then the whole house should be sprinkled over with water in which gold and _kušas_ are put in by brāhmaṇas rendered holy by the repetition of the Gāyatri mantra; then the house becomes pure. Marici prescribes[^724] that if a caṇḍāla (merely) entered a house, it can be purified by plastering it with cowdung, but if he were to stay in it long, purification can be had only by heating it and making flames of fire lick its walls.
 
-[Vol. Gāyatri mantra appropriate to the idol repeated over it 1008 or 108 or 28 times and the idol should then be bathed with that water, it should be bathed with pure water to the accompani ment of the Purusasūkta (Ṛg. X. 90) and the mūlamantra 1008, or 108 or 28 times. Then flowers should be offered and worship of the idol should be performed and a naivedya of boiled rice and jaggery should be offered.
+The ground in a brāhmaṇa's house, in a temple, in a cowpen should, says Yama, always be regarded as pure (unless it has been polluted).
 
-Recently after the attainment of Independence some of the Provincial Legislatures in India have passed laws (e.g. Bombay Act 35 of 1947, C. P. and Berar Act 41 of 1947) throwing open all Hindu public temples to people who were once called untouchable. This is not the place to discuss in detail the arguments for and against these measures. Many orthodox Hindus hold that their inmost feelings are hurt by this tyranny of the majority in the Legislatures. They feel that these measures are contrary to the four freedoms that are promised in many constitutions viz. freedom of speech, freedom of worship, freedom from want and freedom from fear. These measures are likely to be followed by serious consequences. It is felt that the younger generation now being educated has hardly any faith in religion or in anything being sacred, that the so-called untouchables themselves when once they have asserted their right of entering Hindu temples scarcely ever care to frequent them and the orthodox Hindus also often cease to worship therein. There is the further fear that, if religious feelings even when unreasonable according to progres sive views could be trampled upon by the views of the majority, there is no knowing where the process would stop. There would be temptation for the majority in a country to say that the sacred places of other religions should either not exist at all or be opened for any one not belonging to the faith of the minorities, It would have been far better that, while removing all the disabilities of the so-called untouchables as to employment, public places, courts and education, temples had been left alone for some years to come. The entrance of one set of people into the temples often entails the departure of another set, as said by P. C. in Saklat v. Bella 28 Bom. L. R. 161, which is not a very desirable thing. The equality of the former untouchables in all secular matters is sure to spread in a generation or so to other non-secular matters and so to entry into temples. Adjust ments on an unprecedented scale are taking place in moderno India with regard to usages cherished for ages and the entry OW into temples of the so-called untouchables would have been more effected in a few years without recourse to the threat of armed
+A great deal is said in the smṛtis and digests about the purification of water. Ap. Dh. S. I. 5. 15. 2 says[^725] in a general way that a person after sipping water from what is collected on the ground becomes pure. But the Baud. Dh. S. I. 5. 65. Manu V. 128, Yaj. I. 192, Saṅkha 16. 12-13, Märkaṇḍeyapurāṇa 35.19 and others add that water collected on the ground that is of such volume that a cow can slake its thirst therein, that is in its natural state and is not polluted by any thing impure and that has natural colour (is transparent) and taste and odour (either no odour or a fragrant odour) is pure. Saṅkha says[^726] the same about water collected on a stony surface and adds that the water of a flowing river is always. pure. Devala states[^727] that water brought in clean vessels is pure but when it is (stale owing to its being stored) for one night (or more ) it should be thrown though it was pure (when originally brought).
 
-FOUNDED
+[^723]: संवर्तः। गृहशुद्धिं प्रवक्ष्यामि अन्तःस्थशवदूषणे। प्रोत्सृज्य मृन्मयं भाण्डं सिद्धमन्नं तथैव च ॥ गृहादपास्य तत्सर्वे गोमयेनोपलेपयेत् । गोमयेनोपलिप्याथ छागेनाघ्रापयेद् बुधः । ब्राह्मणैर्मन्त्रपूतैश्च हिरण्यकुशवारिणा । सर्वमभ्युक्षयेद्वेश्म ततः शुध्यत्यसंशयम् ॥ अपरार्क p. 265, शुद्धिप्र. pp. 100-101, शुद्धिकौ. pp. 303-304.
 
-1917
+[^724]: गृहेष्वजातिसंवेशे शुद्धिः स्यादुपलेपनात् । संवासो यदि जायेत दाहतापैविनिर्दिशेत् ॥ मरीचि q. by अपरार्क p. 266, शुद्धिप्र. p 101, शु. कौ. p. 303 (reads दाहलेपैः).
 
-Bhandarkar Oriental Research Institute
+[^725]: भूमिगतास्वप्स्वाचम्य प्रयतो भवति । आप. ध. सू. I. 5.15.2.
 
-IV]
+[^726]: भूमिष्ठमुदकं शुद्धं शुचि तोयं शिलागतम्। वर्णगन्धरसैर्दुष्टैर्वर्जितं यदि तद्भवेत् ॥ शङ्ख 16.12-13 q. by शु. को. p. 297, शु. प्र. p. 102.
 
-Water as purifier
+[^727]: उदधृताश्चापि शुध्यन्ति शुद्धैः पात्रैः समुद्धृताः। एकरात्रोषिता आपस्त्याज्याः शुद्धा अपि स्वयम् ॥ देवल q. by मिता and अपरार्क on या. I. 192.
 
-321
+## Purification of water
 
-punishments and without bitterness and rancour in the hearts of many people,
+ There[^728] is no taint in water that cannot be agitated by any beings and in the water of springs (that flow from hills). Tanks (that are so deep) that they cannot be agitated, rivers, wells and lakes (that are similar) should not be used by the usual way of descent (the _ghat_) if they come in contact with caṇḍālas and other impure persons or things. In _Narhari v. Bhimrao_, the Bombay High Court had to deal with the question whether a certain tank at Mahad in the Kolaba District could not be resorted to by untouchables for taking water and held that the untouchables were not prevented from using it (vide 39 Bombay L. R. p. 1295).
 
-From very ancient times water has been regarded as a great purifier. Ṛg. VII, 47 and 49 are hymns addressed to waters as divinities and they are there described as themselves pure and as purifying others (as in Ṛg. VII. 49. 2 and 3
+Bṛhaspati provides that if in a well the dead body of an animal with five nails (man or beast) is found or if the well is otherwise extremely polluted all the water of the well should be taken out and the rest should be dried up by means of clothes, then if the well be built with burnt bricks flames of fire should be made to lick the surface of the walls), and then _pañcagavya_ should be poured over when fresh water begins to flow in (from the springs )[^729]. Āpastamba (q. by Śuddhikaumudi p. 299 ) states the circumstances when a well may be said to be extremely polluted: 'hair, excrements and urine, menstrual discharge, a dead body-when a well is defiled by these one should take a hundred jars of water from it' (and further purification by putting pañcagavya in it should be resorted to if there is more water). Parāśara VII. 3 says the same about wells (with steps ), wells without steps and tanks.
 
-sucayaḥ pāvakāh'). Similarly Ṛg. X. 9 and 30 are hymns addressed to waters, in the former of which the waters are invoked to remove whatever sin or wrong one may have commit ted (Ṛg. X. 9. 8 'idam-āpaḥ pra vahata yat kiñca duritam mayi'). Atharva-veda I. 33 is a hymn addressed to waters, wherein also they are described as 'śucayah pāvakāh' (in A. V. I. 33.1 and 4). The Vāj. S. VI. 17 ( closely following Ṛg. X. 9. 8) invokes waters to remove whatever is censurable and dirty.719 In Vāi S. IV. 2 the sage pravg May the Waters. Our mothers. purify us !' 720 The Śat. Br. 1. 7. 4.17 (S. B. E. vol. 12 p. 213) states' water is a means of purification. Visvarūpa on Yaj. I. 191 quotes a long Vedic passage 721 wherein it is said "what ever creates doubt (whether it is pure or impure) should be touched with waters; then it becomes pure." It is therefore that water (hot or cold) is said to be the purifier of various kinds of vessels and of the ground in Yāj. I. 182-183, 188, Manu V. 109, 112, 126. Gobhila (I. 31-32 ) 722 lays down that when a man engaged in any religious rite hears a mantra addressed to the pitrs, scratches his body, looks at a man of the lowest caste, or allows the wind to escape from his intestines, laughs loudly or speaks an untruth, touches a cat or a mouse, or uses harsh language, has a fit of anger, he should perform ācamana (or touch water).
+Yāj. I. 197 ( =Vişņu Dh, S. 23. 41) provides that mud and water on roads which come in contact with lowest castes (like caṇḍālas), dogs and crows and buildings (like _maṭhas_) constructed with burnt bricks are purified by the wind alone ( blowing on them ).
 
-According to Yaj. I. 187 and Viṣṇu Dh, S. 23.56 a polluted house is purified by being swept and cowdunged. But more stringent rules were laid down if a dog, a śūdra, a patita, a mleccha or a candāla died in a brāhmaṇa's house (vide note 633 above). After keeping the house vacant for the periods
+[^728]: अक्षोभ्यानि तडागानि नदीवापीसरीसि च । चण्डालाद्यशुचिस्पर्शे तीर्थतः परिवर्जयेत् । अक्षोभ्याणामपां नास्ति प्रस्रुतानां च दूषणम् । देवल q. by अपरार्क p. 272. शु. प्र. p 102 (reads कश्मलाशुचियुक्तानि) and explains कश्मलं as शवादि and' अशुचि as विण्मूत्रम्.
 
-POONA
+[^729]: मृतपञ्चनखात्कूपादत्यन्तोपहतात्तथा। अपः समुद्धरेत्सर्वाः शेषं वस्त्रेण शोधयेत् ॥ वह्निप्रज्वालनं कृत्वा कूपे पक्केष्टकाचिते । पञ्चगव्यं न्यसेत् पश्चान्नवतोयसमुद्भवे ॥ बृहस्पति q. by अपरार्क p. 272. The first is quoted as a text of USanas by शु.कौ.p.298 and reads शास्त्रेण (शास्त्रविधिना) for वस्त्रेण. The two verses are विष्णुधर्मसूत्र 23.44-45.
 
-719. इदमापः प्रवहतावद्यं च मलं च यत्। यच्चाभिदुद्रोहानृतं यच्च शेपे अभीरुणम् । BTTTT AT AFArea: TATA
+Parāśara VII. 34 states[^730] that mud and water on roads, boats, paths, grass and whatever is constructed with burnt bricks are rendered pure by the wind and the sun.
 
-. VI. 17. 720. STUFAT ATATE: yr
+Rain water after it fell on the ground was supposed to be impure[^731] for ten days. Similarly Yogiyājñavalkya (q. by S. K. p. 291) remarks that water of a river (dried up in summer) coming down in a flood for the first time ( after rains ) should not be taken ( as pure ) and also water that is agitated by some one (with the feet &c.) and waters that start in a separate stream by themselves from a holy river (like the Ganges ). Even when a well (without steps ) or a well (with a flight of steps ) or a reservoir with a dam is constructed by men of the lowest castes, no prāyaścitta is prescribed for bathing therein or for drinking water therefrom[^732].
 
-aca: gara . #. IV. 2. / STIMUR 721. तथा चाम्नायः। वाग्वै देवेभ्योऽपानामत् ...तस्माद्यधन्मीमांस्यं स्यात्तत्तदजिमशेत seva para on Tr. I. 191.
+Viṣṇu Dh. S. 23. 46 provides[^733] that the purification of small reservoirs of water that are static (i,e. from which no streams flow down ) is made in the same way as that of wells ( without steps ), while in the case of large reservoirs no pollution is recognised. It is declared that waters are purified by the rays of the sun and the moon and the contact of the wind and by cowdung and the urine of cows; some of these ideas are supported by modern scientific discoveries.
 
-722. पित्र्यामन्चानुवण आत्मालम्भेऽधमेक्षणे। अधोवायुसमुत्सर्ग महासेऽनृतभाषणे ॥ मार्जारमूषकस्पर्शे आक्रुष्टे क्रोधसम्भवे । निमित्तेष्वेषु सर्वत्र कर्म कुर्वन्नपः स्पृशेत् ॥ गोमिलस्मृति.. 1. 31–32, quoted by pearaaren p. 50.
+A verse q. by Aparārka p. 273 provides[^734] that even the water at a _prapā_ (a shed where water is distributed gratis to thirsty travellers ) in a forest or from a jar placed near a well (for drawing water by any body) or the water in ( a stone or wooden) trough (meant for all and sundry ) and water from a leather bag even though these may not belong to a śūdra are unfit for drinking, but one may drink even such water as much as he desires when in distress. This shows that even in ancient times water was carried in leather bags or drums where there was scarcity of water and was allowed to be used even by twice-born people.
 
-H. D. 41
+[^730]: रथ्याकर्दमतोयानि नावः पन्थास्तृणानि च। मरुतार्केण शुध्यन्ति पक्वेष्टकचितानि च॥ पराशर VII. 34. दीपकलिका on या. I. 197 and शु. कौ. p. 304 quote it but read स्पर्शनान्न प्रदुष्यन्ति पक्के० and the latter explains 'स्पर्शनादन्त्यजातीनामित्यर्थः। विश्वरूप does not comment on या. I, 197 saying that it is superfluous; for the verse रथ्याकर्दमतोयानि गावः पथि तृणानि च मारुतेनैव शुध्यन्ति vide वामनपुराण 14, 73.
 
-FOUNDED
+[^731]: अजा गावो महिष्यश्च ब्राह्मणी च प्रसूतिका । दशरात्रेण शुध्यन्ति भूमिष्ठं च नवोदकम् ॥ यम q. by शु. को. p. 297, while अपरार्क p. 293 ascribes it to मनु.
 
-1917
+[^732]: अन्त्यैरपि कृते कूपे सेतौ वाप्यादिके तथा। तत्र स्नात्वा च पीत्वा च प्रायश्चित्तं न विद्यते ॥ शातातप q. by मिता. and अपरार्क on या. I. 192. शुद्धिप्रकाश p. 106 remarks 'इति त्वत्यन्तापद्विषयमिति शूलपाणिः'।
 
-Bhandan Mental Research Institute
+[^733]: जलाशयेष्वथाल्पेषु स्थावरेषु महीतले। कूपवत्कथिता शुद्धिर्महत्सु च न दूषणम् । सोमसूर्योशुपातेन मारुतस्पर्शनेन च। गवां मूत्रपुरीषेण शुध्यन्त्याप इति स्मृतम् ॥ विष्णु q. by अपरार्क 273. The first is विष्णुधर्मसूत्र 23.46 and the 2nd is almost like आपस्तम्ब (in verse) II. 7.
 
-• 322
+[^734]: प्रपास्वरण्ये घटगं च कूपे द्रोण्यां जलं कोशगतास्तस्थापः। ऋतेपि शूद्रात्तदपेयमाहुरापद्गतः कांक्षितवत् पिबेत्तु ॥ यम q, by अपरार्क p. 273 and शु. प्र. p. 104 (which reads'भूमिगताः पिबेत्तु'). This reading would mean that he should pour such water on the ground and when it is as much in volume as cow's thirst he may drink it. The first half occurs in अत्रि 233, आपस्तम्बस्मृति II.2. शु. प्र. . p. 103 quotes शङ्खलिखित to the same effect.
 
-History of Dharmaśāstra
+We may now turn to the purification of metals and vessels. Baud, Dh, S, I. 5. 34-35 and I. 6. 37-41,
+ III, 58 and 61-63, Manu V. 111-114, Yāj. I. 182 and 190, Viṣņu 23, 2,7 23-24, Saṅkha 16. 3-4, Smṛtyarthasāra p. 70 and others lay down rules about the purification of metals which do not agree in details. Therefore it is proposed to set out only what is said by Manu and one or two others. Manu (V. 113 ff.) says 'The wise declare that the purification of metals (like gold), of precious stones (like emerald), of all articles of stone is brought about by ashes, water and clay. Articles of gold that are not smeared with dirty things like leavings of food &c.) become pure by means of water alone; the same holds good of articles that are found in water (coral and shells), that are made of stone and are made of silver on which no craftsmanship (such as drawing lines or figures ) has been expended. Gold and silver sprang forth through the union of water and fire; therefore their purification is brought about best by their causes, viz. water (in case of slight pollution) and fire (in case of extreme pollution). The purification of copper, iron, bell metal, brass, tin and lead should be brought about by salts ( ashes ), acids and water according to circumstances (i.e. pollution caused). Vasişṭha (III, 58, 61-63) says: "bell-metal is purified with ashes, gold and silver with water alone and copper with acids.' Yāj. I. 190 says 'the purification of tin. lead and copper is brought about by salt water, acids and ordinary water, of bell-metal and iron by ashes and water,' The Lingapurāṇa (pūrvārdha, 189. 58) says: bell-metal is purified by ashes, iron articles by salt; copper, tin and lead by acids; golden and silver vessels are purified by water and jewels, stones, conches and pearls are purified in the same way as metallic vessels. Vide Vāmanapurāņa (14.70) which states that copper pots are purified by acids, tin and lead ones by salts, bell-metal by ashes and water.
 
-[Vol.
+Medhātithi on Manu V. 114 quotes a verse[^735] which says 'vessels of bell-metal (or brass) when licked (or breathed over) by cows, in which śūdras have taken their food and which have been defiled by dogs and crows are purified by being scoured ten times with ashes (salts).' Śātātapa has a similar verse (vide Par, M. vol. II part 1 p. 172).
 
-stated in note 633, it is provided by Samvarta 723 that a house that is polluted by the existence of a corpse inside it should be dealt with as follows: earthen pots and cooked food should be Cast away and thrown out of the house which should then be smeared with cowdung and then a goat should be made to go about in it smelling it and then the whole house should be sprinkled over with water in which gold and kušas are put in by brāhmapas rendered holy by the repetition of the Gāyatri mantra; then the house becomes pure. Marici prescribes 724 that if a candāla (merely) entered a house, it can be purified by plastering it with cowdung, but if he were to stay in it long, purification can be had only by heating it and making flames of fire lick its walls.
+Elaborate rules are laid down about the purification of polluted pots and vessels used in ordinary life, in Baud. Dh. S. 1. 5. 34-50, 1. 6. 33-42, Yāj. I. 182-183, Viṣṇu 23. 2-5, Saṅkha 16. 1-5 and others. There is some variation in all these, but, as the Mit, on Yāj. I. 190 remarks, it is not an absolute rule that copper must be purified by acids alone but if purification is possible by other means, they may be resorted to. It is not necessary to set out the different modes of purifying vessels. A passage from the Śuddhi-prakāśa pp. 117-118 would be sufficient to indicate how this matter of _pātraśuddhi_ (cleansing of polluted vessels) was dealt with in medieval India: "vessels made of gold, silver, conches, shells, stones, precious stones, bell metal, brass, tin, lead are purified by mere water, provided they have no dirt or pollution sticking to them; if these vessels are polluted by the contact of leavings of food &c. they are purified by ashes and water or acids and water according as anyone of these is appropriate; the vessels made of the above substances that are polluted for a long time owing to being used by śūdras or owing to contact with leavings of food should first be scoured with salts (ashes) and water three times and should be then cast into fire so long as it can be borne (without the vessels being broken, melted or burnt up) and then they become pure. Vessels of bell metal when polluted by only dogs, crows, śūdras and leavings of food only once or licked by cows become pure by being scoured ten times with salts and water; but if they are polluted by the above several times then they have to be scoured 21 times for becoming pure. If in a vessel belonging to the three higher warnas à śūdra takes his meal, it becomes pure after being washed four times with salts and being cast in fire and then taken up with hands that are washed clean with water. A vessel of bell-metal that is polluted. once by the leavings of a woman freshly delivered or by intoxicants or liquors becomes pure after being heated in fire; but if it is polluted several times then it becomes pure by being again manufactured. A vessel of bell-metal that is polluted by being frequently used for holding the water expelled from the mouth after rinsing it or the water in which the feet are washed should be buried in the ground for six months, then heated in fire and then it becomes pure (compare Parāśara VII. 24-25); but if it is polluted thus only once it becomes pure after (being buried in the ground) for ten days. All metal vessels polluted for a short time by the bodily dirts such as urine, excrement, semen become pure after being placed for seven nights in cow's urine or in a great river; but if they are polluted as above many times or are polluted by the contact of a corpse, a freshly delivered woman or a woman in her monthly course they become pure after being thrice washed with salts, acids and water and after being heated in fire till they can bear it, but if these are polluted by urine and for a long time and frequently they become pure by being beaten into shape (manufactured) again.
 
-The ground in a brāhmaṇa's house, in a temple, in a cow pen should, says Yama, always be regarded as pure (unless it has been polluted).
+[^735]: गवाघ्रातानि कांस्यानि शूद्रोच्छिष्टानि यानि च। शुध्यन्ति दशभिः क्षारैः श्वकाकोपहतानि च॥ q. by मेधा. on मनु V. 113 and मिता. on या. I. 190. This is लघुशातातप 141. This verse is ascribed to अङ्गिरस् by शु.को. p. 307 and to शातातप by शु.प्र. 116. This occurs in पराशर VII. 23, where the words शूद्रोच्छिष्टानि and श्वकाकोपहतानि are transposed.
 
-A great deal is said in the smṛtis and digests about the purification of water. Ap. Dh. S. I. 5. 15. 2 says 725 in a general way that a person after sipping water from what is collected on the ground becomes pure. But the Baud. Dh. S. I. 5. 65. Manu V. 128, Yaj. I. 192, Sankha 16. 12-13, Märkandeya purāṇa 35.19 and others add that water collected on the ground that is of such volume that a cow can slake its thirst therein, that is in its natural state and is not polluted by any thing impure and that has natural colour (is transparent) and taste and odour (either no odour or a fragrant odour) is pure. Sankha says 726 the same about water collected on a stony surface and adds that the water of a flowing river is always. pure. Devala states 727 that water brought in clean vessels is
-
-723. संवर्तः। गृहशुद्धिं प्रवक्ष्यामि अन्तःस्थशवदूषणे। प्रोत्सृज्य मृन्मयं भाण्डं सिद्धमनं तथैव च ॥ गृहादपास्य तत्सर्व गोमयेनोपलेपयेत् । गोमयेनोपलिप्याथ छागेनामापये बधः । ब्राह्मणैर्मन्त्रपूतैश्च हिरण्यकुशवारिणा । सर्वमभ्युक्षयेद्वेश्म ततः शुध्यत्यसंशयम् ॥ अपरार्क p. 265, gigs. pp. 100-101, gigant. pp. 303-304.
-
-724. TEGA yg: Furgogara! Hufe a picara Th ail ai q. by 379 p. 266, Jigg. p. 101, J. et p. 303 (reads area:).
-
-725. Taraceta79 wat wara i 3719. 7. & 1.5.15.2.
-
-726. भूमिष्ठमुदकं शुद्धं शुचि तोयं शिलागतम्। वर्णगन्धरसैर्दुष्टैर्वजितं यदि तद्भवेत् Ho 15 16.12-13 q. by J. . p. 297, J. 7. p. 102.
-
-727. ggareata yeyfa Ye: qra: Fugar: 1 geratrovar strukuran: Strayal as q, by far and 3792re on . I. 192,
-
-FPONDED
-
-1917
-
-तस्विन
-
-Bhandarkar Oriental Research Institute
-
-IV)
-
-Purification of water
-
-323
-
-pure but when it is (stale owing to its being stored) for one. night (or more ) it should be thrown though it was pure (when originally brought). There 728 is no taint in water that cannot be agitated by any beings and in the water of springs (that flow from hills). Tanks (that are so deep) that they cannot be agitated, rivers, wells and lakes (that are similar) should not be used by the usual way of descent (the ghat) if they come in contact with candālas and other impure persons or things. In Narhari v. Bhimrao, the Bombay High Court had to deal with the question whether a certain tank at Mahad in the Kolaba District could not be resorted to by untouchables for taking water and held that the untouchables were not prevented from using it (vide 39 Bombay L. R. p. 1295).
-
-Brhaspati provides that if in a well the dead body of an animal with five nails (man or beast) is found or if the well is otherwise extremely polluted all the water of the well should be taken out and the rest should be dried up by means of clothes, then if the well be built with burnt bricks flames of fire should be made to lick the surface of the walls), and then pañcagavya should be poured over when fresh water begins to flow in (from the springs ) 729. Apastamba (q. by Śuddhikaumudi p. 299 ) states the circumstances when a well may be said to be extre mely polluted: 'hair, excrements and urine, menstrual dis charge, a dead body-when a well is defiled by these one should take a hundred jars of water from it' (and further purification by putting pañcagavya in it should be resorted to if there is more water). Parāśara VII. 3 says the same about wells (with steps ), wells without steps and tanks.
-
-Yāj. I. 197 ( =Vişņu Dh, S. 23. 41) provides that mud and water on roads which come in contact with lowest castes (like candālas), dogs and crows and buildings (like mathas) con structed with burnt bricks are purified by the wind alone
-
-728. H erttia waiartettâ *! #tergerusia aferat: परिवर्जयेत्। अक्षोम्याणामपां नास्ति प्रसुतानां च दूषणम् । देवल q. by अपरार्क p. 2724 शु. प्र. p 102 (reads कश्मलाशुचियुक्तानि) and explains कश्मलं as शवादि and' अशुचि as विण्मूत्रम्.
-
-729. dregurezzaturateri stu: agraaf: stop or m ai वह्निमज्वालनं कृत्वा कूपे पक्वेष्टकाचिते । पञ्चगव्यं न्यसेत् पश्चालवतोयसमुद्भवे । वृहस्पति q. by Turf p. 272. The first is quoted as a text of Uśanas by j. p. 298 and reads शास्त्रेण (शास्त्रविधिना) for बस्त्रेण. The two verses are विधर्मसूत्र 23.44-45.
-
-Semua trauitars
-
-Bhandarkar Oriental Research Institute
-
-324
-
-History of Dharmašāstra
-
-[Vol.
-
-( blowing on them ). Parāśara VII. 34 states 730 that mud and water on roads, boats, paths, grass and whatever is constructed with burnt bricks are rendered pure by the wind and the sun.
-
-Rain water after it fell on the ground was supposed to be impure 731 for ten days. Similarly Yogiyājñavalkya (q. by S. K. p. 291) remarks that water of a river (dried up in summer) coming down in a flood for the first time ( after rains ) should not be taken ( as pure ) and also water that is agitated by some one (with the feet &c.) and waters that start in a separate stream by themselves from a holy river (like the Ganges ). Even when a well (without steps ) or a well (with a flight of steps ) or a reservoir with a dam is constructed by men of the lowest castes, no prāyaścitta is prescribed for bathing therein or for drinking water therefrom, 732
-
-Viṣṇu Dh. S. 23. 46 provides 733 that the purification of small reservoirs of water that are static (i, e. from which no streams flow down ) is made in the same way as that of wells ( without steps ), while in the case of large reservoirs no pollu tion is recognised. It is declared that waters are purified by the rays of the sun and the moon and the contact of the wind and by cowdung and the urine of cows; some of these ideas are supported by modern scientific discoveries.
-
-A verse q. by Aparārka p. 273 provides 734 that even the water at a prapā (a shed where water is distributed gratis to
-
-730. रथ्याकर्दमतोयानि नावः पन्थास्तुणानि च। मरुतार्केण शुध्यन्ति पक्वेष्टकचितानि
-
-GST VII. 34. icehocht on T. I197 and y. l. p. 304 quote it but read fulTET TEC Tao and the latter explains starą yra larhet of:. faute does not comment on T. I. 197 saying that it is superfluous; for the verse trata tra: Diu qurta araaa gruffa vide apagtru 14, 73.
-
-731. अजा गावो महिण्यश्च ब्राह्मणी च प्रसूतिका । दशरात्रेण शुध्यन्ति भूमिष्ठं च नवोदकम् ॥ यम q. by शु. को. p. 297, while अपरार्क p. 293 ascribes it to मनु ,
-
-732, अन्त्यैरपि कृते कूपे सेतो वाप्यादिके तथा। तत्र स्नात्वा च पीत्वा च प्रायश्चित्तं न faga 21a9 q. by Thar and T R ON . I. 192. First p. 106 remarks 'इति त्वत्यन्तापद्विषयमिति शूलपाणिः
-
-__733. जलाशयेण्वथाल्पेषु स्थावरेषु महीतले। कूपवत्कथिता शुद्धिर्महत्सु च न दृषणम् ।
-
-समांशपातेन मारुतस्पर्शनेन च। गवां मूत्रपुरीषेण शुध्यन्त्याप इति स्मृतम् ॥ विष्णु q. by *** 273. The first is facut 23.46 and the 2nd is almost like 3IITT (in verse) II. 7.
-
-734. FITOT Jari Siusi p arter: skait eraar Heyaga: tirerana Tha T TH q, by 3 h p. 273 and J. 1. p. 104 (which Smur readshuar: a). This reading would mean that he should pour such w oh water on the ground and when it is as much in volume as cow's thirst he may drink it. The first half occurs in Th 233, Ta g 1917 II. 2. 3. 4. p. 103 quotes fora to the same effect.
-
-POONA
-
-FOUNDED
-
-a tard Bhandarkar Oriental Research Institute
-
-IVI
-
-Purity of drinking water
-
-325
-
-thirsty travellers ) in a forest or from a jar placed near a well (for drawing water by any body) or the water in ( a stone or wooden) trough (meant for all and sundry ) and water from a leather bag even though these may not belong to a śūdra are unfit for drinking, but one may drink even such water as much as he desires when in distress. This shows that even in ancient times water was carried in leather bags or drums where there was scarcity of water and was allowed to be used even by twice-born people.
-
-We may now turn to the purification of metals and vessels. Baud, Dh, S, I. 5. 34-35 and I. 6. 37-41, Vasistha III, 58 and 61-63, Manu V. 111-114, Yāj. I. 182 and 190, Visņu 23, 2,7 23-24, Sankha 16. 3-4, Smrtyarthasāra p. 70 and others lay down rules about the purification of metals which do not agree in details. Therefore it is proposed to set out only what is said by Manu and one or two others. Manu (V. 113 ff.) says 'The wise declare that the purification of metals (like gold), of precious stones (like emerald), of all articles of stone is brought about by ashes, water and clay. Articles of gold that are not smeared with dirty things like leavings of food &c.) become pure by means of water alone; the same holds good of articles that are found in water (coral and shells), that are made of stone and are made of silver on which no craftsmanship (such as drawing lines or figures ) has been expended. Gold and silver sprang forth through the union of water and fire; therefore their purification is brought about best by their causes, viz. water (in case of slight pollution) and fire (in case of extreme pollution). The purification of copper, iron, bell metal, brass, tin and lead should be brought about by galts ( ashes ), acids and water according to circumstances (i. e. pollution caused). Vasiştha (III, 58, 61-63) says: "bell-metal is purified with ashes, gold and silver with water alone and copper with acids.' Yāj. I. 190 says 'the purification of tin. lead and copper is brought about by salt water, acids and ordinary water, of bell-metal and iron by ashes and water,' The Lingapurāṇa (pārvārdha, 189. 58) says: bell-metal is purified by ashes, iron articles by salt; copper, tin and lead by acids; golden and silver vessels are purified by water and jewels, stones, conches and pearls are purified in the same way as metallic vessels. Vide Vāmanapurāņa (14.70) which states that copper pots are purified by acids, tin and lead ones by coufuats. bell-metal by ashes and water. Medhātithi on Mam V. 114
-
-1917
-
-Bhandarkar Oriental Research Institute
-
-326
-
-History of Dharmaśāstra
-
-[Vol.
-
-quotes a verse 735 which says 'vessels of bell-metal (or brass) when licked (or breathed over) by cows, in which śūdras have taken their food and which have been defiled by dogs and crows are purified by being scoured ten times with ashes (salts).' Śātātapa has a similar verse (vide Par, M. vol. II part 1 p. 172).
-
-Elaborate rules are laid down about the purification of polluted pots and vessels used in ordinary life, in Baud. Dh. S. 1. 5. 34-50, 1. 6. 33-42, Yāj. I. 182-183, Viṣṇu 23. 2-5, Sankha 16. 1-5 and others. There is some variation in all these, but, as the Mit, on Yāj. I. 190 remarks, it is not an absolute rule that copper must be purified by acids alone but if purification is possible by other means, they may be resorted to. It is not necessary to set out the different modes of purifying vessels. A passage from the Śuddhi-prakāśa pp. 117-118 would be sufficient to indicate how this matter of pātraśuddhi (cleansing of polluted vessels) was dealt with in medieval India: "vessels made of gold, silver, conches, shells, stones, precious stones, bell metal, brass, tin, lead are purified by mere water, provided they have no dirt or pollution sticking to them; if these vessels are polluted by the contact of leavings of food &c. they are purified by ashes and water or acids and water according as anyone of these is appropriate; the vessels made of the above substances that are polluted for a long time owing to being used by śūdras or owing to contact with leavings of food should first be scoured with salts (ashes) and water three times and should be then cast into fire so long as it can be borne (without the vessels being broken, melted or burnt up) and then they become pure. Vessels of bell metal when polluted by only dogs, crows, śūdras and leavings of food only once or licked by cows become pure by being scoured ten times with salts and water; but if they are polluted by the above several times then they have to be scoured 21 times for becoming pure. If in a vessel belonging to the three higher warnas à śūdra takes his meal, it becomes pure after being washed four times with salts and being cast in fire and then taken up with hands that are washed clean with water. A vessel of bell-metal that is polluted. once by the leavings of a
-
-POONA
-
-735. aaTaTiara Letreaera T Tigua aratat sera to sme TETÀ y q. by Aut. on ng V. 113 and far, on aT. I. 190. This is
-
-tra 141. This verse is ascribed to sift by J. 1. p. 307 and be suara by 5. 9. 116. This occurs in UETETT VII. 23, where the words ] Fuena and spantenimentran are transposed.
-
-FOUNDED
-
-S
-
-TUTTAA
-
-Bhandarkar Oriental Research Institute
-
-IV)
 
 Purification of metallic pots
 
-327
+Viṣṇu ( 23, 2 and 5 ) provides that all metal vessels when extremely polluted ( as stated in note 710 ) are purified by being cast into fire and that vessels of wood or clay when extremely polluted should be given up, but Devala[^736] and others provide that wooden vessels when slightly polluted become pure by being planed or chiselled or by means of clay, cowdung or water and that earthen vessels if not extremely polluted become pure by being baked in fire[^737] ( also Yaj. I. 187). But Vas. III, 59 provides that an earthen vessel if polluted by the contact of wines, urine, excrement, phlegm, tears, pus and blood is not purified even by being burnt in fire[^738].
 
-woman freshly delivered or by intoxicants or liquors becomes pure after being heated in fire; but if it is polluted several times then it becomes pure by being again manufactured. A vessel of bell-metal that is polluted by being frequently used for holding the water expelled from the mouth after rinsing it or the water in which the feet are washed should be buried in the ground for six months, then heated in fire and then it becomes pure (compare Parāśara VII. 24-25); but if it is polluted thus only once it becomes pure after (being buried in the ground) for ten days. All metal vessels polluted for a short time by the bodily dirts such as urine, excrement, semen become pure after being placed for seven nights in cow's urine or in a great river; but if they are polluted as above many times or are polluted by the contact of a corpse, a freshly delivered woman or a woman in her monthly course they become pure after being thrice washed with salts, acids and water and after being heated in fire till they can bear it, but if these are polluted by urine and for a long time and frequently they become pure by being beaten into shape (manufactured) again.
+Special rules are provided for the purification of vessels and implements used in Vedic sacrifices. Baud. Dh, S. (I. 5. 51-52 )[^739] remarks that the _camasa_ vessels used in sacrifices are purified according to the special Vedic texts, since the Veda says that _camasa_ vessels do not incur the fault of being _ucchiṣṭa_ when it is soma liquid that is drunk from them.
 
-Viṣṇu ( 23, 2 and 5 ) provides that all metal vessels when extremely polluted ( as stated in note 710 ) are purified by being cast into fire and that vessels of wood or clay when extremely polluted should be given up, but Devala 736 and others provide that wooden vessels when slightly polluted become pure by being planed or chiselled or by means of clay, cowdung or water and that earthen vessels if not extremely polluted become pure by baing baked in fire 737 ( also Yaj. I. 187). But Vas. III, 59 provides that an earthen vessel if polluted by the contact of wines, urine, excrement, phlegm, tears, pus and blood is not purified even by being burnt in fire. 738
+[^736]: काष्ठानां तक्षणाच्छुद्धिर्मद्गोमयजलैरपि । मृण्मयानां तु पात्राणां दहनाच्छाद्धरिष्यते॥ देवल q. by शुद्धिप्र. p. 118, Vide मनु. V. 115 for the same rule about wooden vessels.
 
-Special rules are provided for the purification of vessels and implements used in Vedic sacrifices. Baud. Dh, S. (I. 5. 51-52 ) 739 remarks that the camasa vessels used in sacrifices
+[^737]: Vide Leviticus 11. 32-33 about unclean vessels of wood and earthenware and their purification.
 
-736. काष्ठानां तक्षणाच्छुद्धिर्मद्गोमयजलैरपि । मृण्मयानां तु पात्राणां दहनाच्छुद्धि fregandag d. by yeq. p. 118. Vide ha. V. 115 for the same rule about wooden vessels.
+[^738]: “मद्यैर्मूत्रैः पुरीषैर्वा श्लेष्मपूयाश्रुशोणितैः। संस्पृष्टं नैव शुध्येत पुनःपाकेन मृन्मयम् ॥ वसिष्ठ III. 59 = मनु V. 123. It may be noted that मेधातिथि does not comment on this verse and quotes it on मनु V. 122 without naming the source.
 
-737. Vide Leviticus 11. 32-33 about unclean vessels of wood and earthenware and their purification.
+[^739]: वचनाद्यज्ञे चमसपात्राणाम् । न सोमेनोच्छिष्टा भवन्तीति श्रुतिः । बो .ध. सू. 1.5.51-52. Vide H. of Dh. vol. II. p. 1177 n. 2598, for the drinking of soma from _camasas_ by the priests one after another.
 
-738. “मयैर्मुः पुरीषैर्वा श्लेष्मपूयाश्रुशोणितैः। संस्पृष्टं नैव शुध्येत पुनःपाकेन यून्मयम् ॥ THE III. 59 = AZ V. 123. It may be noted that herfaret does not comment on this verse and quotes it on Ha V. 122 without naming the sourcent
+ Manu V. 116-117, Yāj. I. 183-185, Viṣṇu Dh. S, 23. 8-11, Saṅkha 16.6, Parāśara VII. 2-3 and others lay down rules about the purification of sacrificial implements. For example, Manu (V. 116-117 ) provides sacrificial vessels should be first rubbed with the right hand (or with darbhas or strainer) and then _camasas_ and cups are to be washed with water before using them in the sacrifice; the _carusthāli_ (the vessel in which the oblation of boiled rice is prepared), _sruc_ (a wooden vessel used for pouring clarified butter on sacrificial fire), and _sruva_ (wooden ladle of a semicircular shape) are purified by being washed with hot water; the _sphya_ (wooden sword), the winnowing basket, the cart (for bringing the soma plant), wooden mortar and pestle, are purified with water (or sprinkling water according to Yāj. I, 184).
 
-739. Tae JAFTOHTI arregar Hafta yra: Foal 4. 1.5.51-52. Vide H. of Dh. vol. II. p. 1177 n. 2598, for the drinking of soma from camasas by the priests one after another.
+## What is polluted food
 
-1917
+Several rules were laid down about the purification of polluted corn and polluted cooked food. A reference has already been made to the purification of heaps of corn. Common sense, convenience and the loss that may be caused by very stringent provisions are the considerations which prompt the rules on this subject. Viṣṇu 23.25 provides[^740] that where a heap of rice (or other grain) is polluted, one should throw away only that portion of it which is actually defiled and should submit the rest to pounding and washing with water; cooked food that exceeds in volume one _droṇa_ and that has been defiled does not all become tainted, but that throwing away the defiled portion alone, one should sprinkle over the rest water mixed with gold on which the sacred Gāyatri verse has been repeated and should hold it before a goat to see it and should also bring fire near it. Vide Baud. Dh. S. I. 6. 44-48. "If grains of rice are polluted they should be washed and dried. But if it is a large quantity then sprinkling with water is enough; husked rice (if polluted) should be cast away. The same rule applies to cooked offerings. But in the case of large heaps of cooked food that portion which is polluted by dogs or crows should be cast away and the rest should be sprinkled with the _Anuvāka_ pavamānaḥ suvarjanah' (Tai. Br. I. 4.8). Gaut. 17. 9-10 pro vide[^741] that one should not partake of food that was cooked along with hair and insects (like ants), nor food that is polluted by the contact of a woman in her monthly illness, by a crow or by being struck with the foot (of some one ). But where food is already cooked and then it is smelt by a cow or it is polluted by the falling into it of hair, insects, flies, then Yāj. I. 189 and Parāśara VI. 64-65 provide that in order to purify it water, ashes (with water) or loose earth ( with water) should be cast over it. Ap. Dh. S, I. 5.16. 24-29 provide that one should not partake of food in which hair exists (i. e. it was there from the beginning) or anything else (like nails) that is impure or of food that is touched with an unclean substance or in which an insect that subsists on impure things exists or food which is struck by the feet of any person or in which the excrement or the tail (or limb) of a rat is found.
 
-Bhandarkar Oriental Research Institute
+[^740]: असिद्धस्यान्नस्य यावन्मात्रमुपहतं तन्मात्रं परित्यज्य शेषस्य कण्डनप्रक्षालने कुर्यात्। द्रोणाधिकं सिद्धमन्नमुपहतं न दुष्यति । तस्योपहतमात्रमपास्य गायत्र्याभिमन्त्रितं सुवर्णाम्भः प्रक्षिपेद् बस्तस्य च प्रदर्शयेदृग्नेश्च । विष्णु० 23.11. The शुद्धिको. p. 317 reads 'सूर्यस्य दर्शयेदग्नेश्व'
 
-328
+[^741]: नित्यमभोज्यम् । केशकीटावपन्नम् । रजस्वलाकृष्णशकुनिपदोपहतम् । गौ. 17. 8-10.
 
-History of Dharmaśāstra
+The general rule is stated by Manu V. 118 which applies not only to corn and clothes but to many other articles viz. if there is a heap or a large quantity then sprinkling with water (_prokṣaṇa_ ) suffices for purification but if the quantity is small then washing with water is necessary. Manu V. 125 ( = Viṣṇu Dh. S. 23.38) provides that (a small quantity of) cooked food part of which is pecked by birds (whose flesh is eaten by men), which is smelt by a cow, which is struck with the foot (by a man) and over which some one has sneezed or which is polluted by the falling in of hair and insects becomes pure by casting into it loose earth (and water). Parāśara (VI. 71-74) puts the matter[^742] thus: "food licked by dogs and crows or smelt by a cow or ass, if little in quantity, should be thrown away by a brāhmaṇa, but purification should be resorted to if it is a droņa or āḍhaka in quantity. That portion which is defiled by the saliva of a dog or crow should be thrown away and water in which gold is put should be sprinkled over the remaining portion, then flames of fire should lick the remaining food and brāhmaṇas should loudly recite Vedic hymns (like the Pavamānasūkta) over it and then the food becomes fit for eating".
 
-[Vol.
+[^742]: काकश्वानावलीढं तु गवाघ्रातं खरेण वा । स्वल्पमन्नं त्यजेद्विपः शुद्धिर्द्रोणाढके भवेत्॥ अन्नस्योद्धृत्य तन्मात्रं यच्च लालाहतं भवेत् । सुवर्णोदकमभ्युक्ष्य हुताशेनैव तापयेत् । हुताशमेन संस्पृष्टं सुवर्णसलिलेन च। विप्राणां ब्रह्मघोषेण भोज्यं भवति तत्क्षणात् ॥ पराशर VI 71-74, q. by शुद्धिप्रकाश pp. 128-129 (which reads यच्च लालाकृतिर्भवेत्  in the 2nd verse).
 
-are purified according to the special Vedic texts, since the Veda says that camasa vessels do not incur the fault of being ucchista when it is soma liquid that is drunk from them, Manu V. 116-117, Yāj. I. 183-185, Viṣṇu Dh. S, 23. 8-11, Sankha 16.6, Parāśara VII. 2-3 and others lay down rules about the purification of sacrificial implements. For example, Manu (V. 116-117 ) provides sacrificial vessels should be first rubbed with the right hand (or with darbhas or strainer) and then camasas and cups are to be washed with water before using them in the sacrifice; the carusthāli (the vessel in which the oblation of boiled rice is prepared), sruc (a wooden vessel used for pouring clarified butter on sacrificial fire), and sruva (wooden ladle of a semicircular shape) are purified by being washed with hot water; the sphya (wooden sword), the win nowing basket, the cart (for bringing the soma plant), wooden mortar and pestle, are purified with water (or sprinkling water according to Yāj. I, 184).
+The Śuddhiprakāśa explains that the wealthy should not throw away food if it is more than a droņa in quantity and a poor man if it is more than an āḍhaka[^743].
 
-Several rules were laid down about the purification of polluted corn and polluted cooked food. A reference has already been made to the purification of heaps of corn. Common sense, convenience and the loss that may be caused by very stringent provisions are the considerations which prompt the rules on this subject. Viṣṇu 23.25 provides 740 that where a heap of rice (or other grain) is polluted, one should throw away only that portion of it which is actually defiled and should submit the rest to pounding and washing with water; cooked food that exceeds in volume one drona and that has been defiled does not all become tainted, but that throwing away the defiled portion alone, one should sprinkle over the rest water mixed with gold on which the sacred Gāyatri verse has been repeated and should hold it before a goat to see it and should also bring fire near it. Vide Baud. Dh. S. I. 6. 44-48. "If grains of rice are polluted they should be washed and dried. But if it is a large quantity then sprinkling with water is enough; husked rice (if polluted) should be cast away. The same rule applies to cooked offerings. But in the case of large heaps of cooked food that portion which is polluted by dogs or crows should be cast away and the rest should be sprinkled with the Anuvāka
+Manu V.115[^744] says that in the case of all liquids (such as oils, ghee &c.) purification (when they are little in quantity) is brought about by means of two kušas dipped into them (or by straining them through a piece of cloth into another pot) and if the quantity is large then by sprinkling (water). Śaṅkha provides[^745] that purification is brought about by mere prokṣaṇa in the case of all exudations (Asafoetida &c.), jaggery, salts, gafflower, saffron and in the case of wool and cotton. Vide note 705 above about certain articles being pure the moment they are transferred from the pots of even mlecchas &c.
 
-NS
+## Purification of garments
 
-POONA
+A few words may be said about the purification of different kinds of cloth and garments and the materials of which they are made. Laghu-Āśvalāyana (I. 28-30) provides that a white garment is always commended for wearing (as a _dhoti_), but they are commended for wearing as upper garments and both are not defiled by the touch of anybody. Men may take their food or answer calls of nature while covered with both; _trasara_ is purified by being washed while a silken garment is always pure. Manu V. 120-121, Yāj. I. 186-187 and Viṣṇu (23. 19-22) provide almost in the same words that silken and woollen cloth is cleansed by saline earth (and with water and cow's urine ), Nepalese blankets by the powder of soap berry, clothes made of tree bark with Bilva fruit and linen cloth by (paste of) white mustard. Viṣṇu 23. 6 says[^746] that when a garment is extremely polluted that portion thereof which when washed with water loses its colour should be cut off. Śaṅkha[^747] quoted by Viśvarüpa on Yāj. I. 182 prescribes that garments are purified by being submitted to hot steam, by washing with water or by cutting off only that portion that is defiled. Parāśara VII. 28 provides that garments made from bamboos and barks of trees, linen and cotton garments, garments of wool and birch bark are purified by mere prokşaņa.
 
-___740. असिद्धस्यानस्य यावन्मात्रमुपहतं तन्मात्रं परित्यज्य शेषस्य कण्डनप्रक्षाल कुर्यात्। द्रोणाधिकं सिद्धमनमुपहतं न दुष्यति । तस्योपहतमात्रमपास्य गायव्याभिमन्त्रित UUH: TT agasi racore 23.11. The yiel. p. 317 reads 'सूर्यस्य दर्शयेदग्नेश्च'
+[^743]: Vide H. of Dh. vol. III. p. 124 for the measures of capacity called _droṇa_ and _āḍhaka_. According to most writers four _āḍhakas_ are equal to a _droṇa_.
 
-FOUNDED
+[^744]: द्रवाणां चैव सर्वेषां शुद्धिरुत्पवनं स्मृतम्। प्रोक्षणं संहतानां च दारवाणां च तक्षणम् ॥ मनु V. 115. कुल्लूक explains 'प्रादेशप्रमाणकुशपत्रद्वयाभ्यामुत्पवनेन शुद्धिः '।।, while the शुद्धिप्र. p. 133 remarks उत्पवनं वस्त्रान्तरितपात्रप्रक्षेपेण कीटाद्यपनयनमित्युक्तम्.'
 
-1917
+[^745]: निर्यासानां गुडानां च लवणानां तथैव च । कुसुम्भकुङ्कुमानां च ऊर्णाकापर्णसयोस्तथा । प्रोक्षणात्काथिता शुद्धिरित्याह भगवान्यमः ॥ शङ्ख 16. 11-12.
 
-sa za
+[^746]: अत्यन्तोपहतस्य वस्त्रस्य यत्प्रक्षालितं विरज्येत तच्छिन्द्यात्। विष्णुधर्मसूत्र. 23.6.
 
-Bhandarkar Oriental Research InstituteIV]
-
-What is polluted food
-
-329
-
-pavamānaḥ suvarjanah' (Tai. Br. I. 4.8). Gaut. 17. 9-10 pro vide 741 that one should not partake of food that was cooked along with hair and insects (like ants), nor food that is polluted by the contact of a woman in her monthly illness, by a crow or by being struck with the foot (of some one ). But where food is already cooked and then it is smelt by a cow or it is polluted by the falling into it of hair, insects, flies, then Yāj. I. 189 and Parāśara VI. 64-65 provide that in order to purify it water, ashes (with water) or loose earth ( with water) should be cast over it. Ap. Dh. S, I. 5.16. 24-29 provide that one should not partake of food in which hair exists (i. e. it was there from the beginning) or anything else (like nails) that is impure or of food that is touched with an unclean substance or in which an insect that subsists on impure things exists or food which is struck by the feet of any person or in which the excrement or the tail (or limb) of a rat is found.
-
-The general rule is stated by Manu V. 118 which applies not only to corn and clothes but to many other articles viz. if there is a heap or a large quantity then sprinkling with water (proksana ) suffices for purification but if the quantity is small then washing with water is necessary. Manu V. 125 ( = Viṣṇu Dh. S. 23.38) provides that (a small quantity of) cooked food part of which is pecked by birds (whoge flesh is eaten by men), which is smelt by a cow, which is struck with the foot (by a man) and over which some one has sneezed or which is polluted by the falling in of hair and insects becomes pure by casting into it loose earth (and water). Parāśara (VI. 71-74) puts the matter 742 thus: "food licked by dogs and crows or smelt by a cow or ass, if little in quantity, should be thrown away by a brāhmaṇa, but purification should be resorted to if it is a droņa or ādhaka in quantity. That portion which is defiled by the saliva of a dog or crow should be thrown away and water in which gold is put should be sprinkled over the remaining portion, then flames of fire should lick the remaining
-
-741. PARTE 8-10.
-
-ateherata I
-
-Gotfagernent
-
-. 17.
-
-742. काकश्वानावलीढं तु गवाघ्रातं खरेण वा । स्वल्पमनं त्यजद्विपः शुद्धिहोणाहके भवेत्॥ अन्नस्योदत्य तन्मात्रं यच्च लालाहतं भवेत् । सुवर्णोदकमभ्युश्य हुताशेनैव तापयेत् । हुताशमेन संस्पृष्टं सुवर्णसलिलेन च। विप्राणां ब्रह्मघोषेण भोज्यं भवति तत्क्षणात् ॥ यशशर / 71-74, q. by yigit pp. 128-129 (which reads y gorraad in the 2nd verse).
-
-FOUNDED
-
-H, D, 42
-
-hara
-
-Bhandarkar Oriental Research Institute
-
-330
-
-History of Dharmaśāstra
-
-[Vol.
-
-food and brāhmaṇas should loudly recite Vedic hymns (like the Pavamānasūkta) over it and then the food becomes fit for eating". The Śuddhiprakāśa explains that the wealthy should not throw away food if it is more than a droņa in quantity and a poor man if it is more than an ādhaka 743
-
-Manu V.115 744 gays that in the case of all liquids (such as oils, ghee &c.) purification (when they are little in quantity) is brought about by means of two kušas dipped into them (or by straining them through a piece of cloth into another pot) and if the quantity is large then by sprinkling (water). Sankha provides 745 that purification is brought about by mere proksana in the case of all exudations (Asafoetida &c.), jaggery, salts, gafflower, saffron and in the case of wool and cotton. Vide note 705 above about certain articles being pure the moment they are transferred from the pots of even mlecchas &c.
-
-A few words may be said about the purification of different kinds of cloth and garments and the materials of which they are made. Laghu-Asvalāyana (I. 28-30) provides that a white garment is always commended for wearing (as a dhoti), but they are commended for wearing as upper garments and both are not defiled by the touch of anybody. Men may take their food or answer calls of nature while covered with both; trasara is purified by being washed while a silken garment is always pure. Manu V. 120-121, Yāj. I. 186-187 and Viṣṇu (23. 19-22) provide almost in the same words that silken and woollen cloth is cleansed by saline earth (and with water and cow's urine ), Nepalese blankets by the powder of soap berry, clothes made of tree bark with Bilva fruit and linen cloth by (paste of) white mustard. Viṣṇu 23. 6 says 746 that when a garment is extremely polluted that portion thereof which when washed with water loses its colour should be cut off. Sankha 747 quoted by Visva
-
-743. Vide H. of Dh. vol. III. p. 124 for the measures of capacity called drona and adhaka. According to most writers four adhakas are equal to a drona.
-
-744. वाणां चैव सर्वेषां शुद्धिरुत्पवनं स्मृतम्। प्रोक्षणं संहतानां च दारवाणां च TUTTI E V. 115. h explains ' TATTFTTETTigaaa gig:
-
-while the शुद्धिप्र. p.133 remarks उत्पवनं वस्त्रान्तरितपात्रमक्षेपेण कीटाद्यपनयनमित्युक्तम् ।
-
-745. निर्यासानां गुडानां च लवणानां तथैव च । कुसुम्भकुङ्कमानां च ऊर्णाकार्ण FUTRUTTI THOTTESTAT UTERUTE 17707F4a: ll 16.11-12. former
-
-746. apartment Taku uansa farova arepantai ruouška. 13.6.
-
-747. harga Ferra Aa15a art. q. by Phay on I. 182.
-
-STITU
-
-FOUNDED
-
-#sia
-
-Bhandarkar Oriental Research Institute
-
-IV1
-
-Purification of garments
-
-331
-
-rüpa on Yāj. I. 182 prescribes that garments are purified by being submitted to hot steam, by washing with water or by cutting off only that portion that is defiled. Parāśara VII. 28 provides that garments made from bamboos and barks of trees, linen and cotton garments, garments of wool and birch bark are purified by mere prokşaņa.
+[^747]: चेलानामुत्स्वेदनं प्रक्षालनं तन्मात्रच्छेदो वा । शङ्ख q. by विश्वरूप on या I. 182.
 
 The smṛtis speak of purification of many other things, which is of little importance and is passed over here. Only a few illustrations are given here. Manu. V. 119 provides that skins and things made of split bamboos (or canes) are cleaned in the same way as clothes, while vegetables, roots and fruits are purified on the analogy of grain. Manu V. 120-121 state that the purification of conches, horns (of buffaloes and rams) and bones and tusks (of the elephant or boar) is to be caused in the same way as that of linen or with cow's urine or water and that grass, wood and straw become pure by being sprinkled with water. Vişņu Dh. S. 23. 15, 16, 23 and Yāj. I. 185 are very similar.
 
@@ -836,7 +658,7 @@ In Manu the purification of substances follows (V. 110) the means of purifying o
 
 camana). 656-668 (about snāna). Purification by bath on adauca has already been dealt with before. Special rules were prescribed for women guilty of adultery (vide H. of Dh, vol. II.
 
-. 594. vol. III, pp. 647-649), as also for women raped (vide vol. IT p. 575). Snāna (bath) with the clothes on was prescribed for purification of the body when a person touches one who is patita (murderer of a brāhmaṇa &c.), a candāla, a woman freshly delivered, a woman in her monthly illness, a corpge or one who has touched a corpse; also when a man follows a funeral procession or touches a dog (vide Gaut. 14. 28-30, Manu V. 85 and 103, Angiras verse 152, Āp Dh. s. I.. 5. 15. 15-16, Yāj. III. 30). Baud. Dh. S. I, 5. 140 provides that on touching one who sells the Veda (teaches it for money), a yūpa, a funeral pyre, a patita, a dog and a cāņdāla one should
+. 594. vol. III, pp. 647-649), as also for women raped (vide vol. IT p. 575). Snāna (bath) with the clothes on was prescribed for purification of the body when a person touches one who is patita (murderer of a brāhmaṇa &c.), a caṇḍāla, a woman freshly delivered, a woman in her monthly illness, a corpge or one who has touched a corpse; also when a man follows a funeral procession or touches a dog (vide Gaut. 14. 28-30, Manu V. 85 and 103, Angiras verse 152, Āp Dh. s. I.. 5. 15. 15-16, Yāj. III. 30). Baud. Dh. S. I, 5. 140 provides that on touching one who sells the Veda (teaches it for money), a yūpa, a funeral pyre, a patita, a dog and a cāņdāla one should
 
 FOUNDED
 
