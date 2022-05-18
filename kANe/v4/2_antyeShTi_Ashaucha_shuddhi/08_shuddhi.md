@@ -652,54 +652,19 @@ A few words may be said about the purification of different kinds of cloth and g
 
 The smṛtis speak of purification of many other things, which is of little importance and is passed over here. Only a few illustrations are given here. Manu. V. 119 provides that skins and things made of split bamboos (or canes) are cleaned in the same way as clothes, while vegetables, roots and fruits are purified on the analogy of grain. Manu V. 120-121 state that the purification of conches, horns (of buffaloes and rams) and bones and tusks (of the elephant or boar) is to be caused in the same way as that of linen or with cow's urine or water and that grass, wood and straw become pure by being sprinkled with water. Vişņu Dh. S. 23. 15, 16, 23 and Yāj. I. 185 are very similar.
 
-From the above it will be clear that purification of subst ances depends on many circumstances, viz. whether they are metallic or are earthen, whether they are solid or liquid, whether a polluted substance is small in quantity or is a big heap, whether the pollution is extremne or insignificant and so on.
+From the above it will be clear that purification of substances depends on many circumstances, viz. whether they are metallic or are earthen, whether they are solid or liquid, whether a polluted substance is small in quantity or is a big heap, whether the pollution is extremne or insignificant and so on.
 
-In Manu the purification of substances follows (V. 110) the means of purifying one's own body. Purification of the body by means of ācamana and snāna (bath) has already been described in H. of Dh, vol. II. pp. 315-316 and 652-653 (about
+In Manu the purification of substances follows (V. 110) the means of purifying one's own body. Purification of the body by means of _ācamana_ and _snāna_ (bath) has already been described in H. of Dh, vol. II. pp. 315-316 and 652-653 (about ācamana). 656-668 (about _snāna_). Purification by bath on āśauca has already been dealt with before. Special rules were prescribed for women guilty of adultery (vide H. of Dh, vol. II.p. 594. vol. III, pp. 647-649), as also for women raped (vide vol. IT p. 575). _Snāna_ (bath) with the clothes on was prescribed for purification of the body when a person touches one who is _patita_ (murderer of a brāhmaṇa &c.), a caṇḍāla, a woman freshly delivered, a woman in her monthly illness, a corpse or one who has touched a corpse; also when a man follows a funeral procession or touches a dog (vide Gaut. 14. 28-30, Manu V. 85 and 103, Aṅgiras verse 152, Āp Dh. s. I.. 5. 15. 15-16, Yāj. III. 30). Baud. Dh. S. I, 5. 140 provides that on touching one who sells the Veda (teaches it for money), a _yūpa_, a funeral pyre, a _patita_, a dog and a cāņḍāla one should undergo a bath[^748].
 
-camana). 656-668 (about snāna). Purification by bath on adauca has already been dealt with before. Special rules were prescribed for women guilty of adultery (vide H. of Dh, vol. II.
+ Parāśara also has a similar verse[^749]. It has already been stated elsewhere (in H. of Dh, vol. II, pp. 175-176) how the rules about touching untouchables were relaxed when people congregated in a temple or in a religious procession, at marriages and festivals and at holy places. It is said by some that this refers not to the so-called untouchables, but to men who are untouchable owing to āśauca. But this is not correct. The explanation of the Śuddhi-kaumudi and Śuddhiprakāśa given below makes it clear that the untouchables are meant, In the first place, the words are quite general and not restricted. In the second place, there is no untouchability (except for the mother) on the ground of _Jananāśauca_ and it is most unlikely that a person who has incurred mourning on death should visit a temple or go to a marriage or enter a religious procession, or festival. In the third place, looking to the several occasions mentioned together (particularly pilgrimages, battles, fire in a town or village and commotion or invasion of a country) it appears most unlikely that the verse refers only to āśauca on birth and death[^750].
 
-. 594. vol. III, pp. 647-649), as also for women raped (vide vol. IT p. 575). Snāna (bath) with the clothes on was prescribed for purification of the body when a person touches one who is patita (murderer of a brāhmaṇa &c.), a caṇḍāla, a woman freshly delivered, a woman in her monthly illness, a corpge or one who has touched a corpse; also when a man follows a funeral procession or touches a dog (vide Gaut. 14. 28-30, Manu V. 85 and 103, Angiras verse 152, Āp Dh. s. I.. 5. 15. 15-16, Yāj. III. 30). Baud. Dh. S. I, 5. 140 provides that on touching one who sells the Veda (teaches it for money), a yūpa, a funeral pyre, a patita, a dog and a cāņdāla one should
+## Reason of emphasis on purification
 
-FOUNDED
+The ancient and medieval Indians put very great emphasis on purity of mind, of body, of the place where they resided or performed religious rites, of the vessels used by them and of the ingredients of their food and worship. Many of the rules about purification of substances may appear to modern minds as very stringent; but it should not be forgotten that the ancient Indians were imbued with the thought that purity of the mind followed from purity of food (as stated in the Chāndogyopanişad VII. 26.2 'āhāraśuddhau sattvaśuddhiḥ' and by Hārita). It would be conceded that some of their rules about purification (such as about large quantities of corn or heaps of cooked food) are based on common sense and convenience. We are probably going to the other extreme in taking our food anywhere and in any surroundings.
 
-Bhandarkar Oriental Research Institute
 
-332
+[^748]: वेेदविक्रयिणं यूपं पतितं चितिमेव च। स्पृष्टवा समाचरेत्स्नानं श्वानं चण्डालमेव च ॥ बौ. ध.सू 1.5.140.
 
-History of Dharmaśāstra
+[^749]: चैत्यवृक्षश्चितिर्यूपश्चाण्डालः सोमविक्रयी। एतांस्तु ब्राह्मणः स्पृष्ट्वा सचेलो जलभाविशेत् ॥ पराशर q. by शु. कौ. p. 327, which explains 'चैत्यवृक्षो ग्राममध्ये देवपूजावृक्षः, यूपोन्त्योष्टिकर्मयूपश्चितिसंनिधानात् .'
 
-[Vol.
-
-undergo a bath.748 Parāśara also has a similar verse.749 It has already been stated elsewhere (in H. of Dh, vol. II, pp. 175-176) how the rules about touching untouchables were relaxed when people congregated in a temple or in a religious procession, at marriages and festivals and at holy places. It is said by some that this refers not to the so-called untouchables, but to men who are untouchable owing to āśauca. But this is not correct. The explanation of the Śuddhi-kaumudi and Śuddhiprakāśa given below makes it clear that the untouchables are meant, In the first place, the words are quite general and not restricted. In the second place, there is no untouchability (except for the mother) on the ground of Jananāśauca and it is most unlikely that a person who has incurred mourning on death should visit a temple or go to a marriage or enter a religious procession, or festival. In the third place, looking to the several occasions mentioned together (particularly pilgrimages, battles, fire in a town or village and commotion or invasion of a country) it appears most unlikely that the verse refers only to āśauca on birth and death, 750
-
-The ancient and medieval Indians put very great emphasis on purity of mind, of body, of the place where they resided or performed religious rites, of the vessels used by them and of the ingredients of their food and worship. Many of the rules about purification of substances may appear to modern minds as very stringent; but it should not be forgotten that the ancient Indians were imbued with the thought that purity of the mind followed from purity of food
-
-748. घेदविक्रयिणं यूपं पतितं चितिमेव च। स्पृष्टा समाचरेत्स्नानं श्वानं चण्डालमेव च ॥ 91. u. 1.5.140.
-
-749. चैत्यवृक्षश्चिति'पश्चाण्डालः सोमविक्रयी। एतांस्तु ब्राह्मणः स्पृष्ट्वा सचेलो जल Araşta il CEITE q. by y. i. p. 327, which explains ' THEN ayri-. Y*:, gryteanhearsaraafwania.'
-
-750. तीर्थे विवाहे यात्रायां संग्रामे देशविप्लवे । नगरग्रामदाहे च स्पृष्टास्पृष्टिर्न दुष्यति । getura q. by E. el. p. 323, T. 4. p. 130. y. til. explains 'TE: styre: STYRT A Fal and . 7. remarks stegietysz Featreyala Bate: 1 तेन तीर्थादौ अस्पृश्यस्पर्शने नाचमनस्नानादि।". The स्मृतिच. I. pp. 121-122 quotes this verse and two others 'TA E HEYETİ thyeragi JAHEUÒ स्पृष्टिदोषो न विद्यते' ॥ and 'देवयात्राविवाहेषु यज्ञेषु प्रकृतेषु च । उत्सवेषु च सर्वेष साट स्मृष्टिर्न विद्यते॥' from शातातप and षत्रिंशन्मत respectively and explains ग्रामे राज मार्गादौ ।......एतच्च वाक्यत्रयं यत्राहमनेन स्पृष्ट इति ज्ञानं नास्ति तद्विषयामिति केचिET
-
-अनुच्छिटाशुचिस्पर्शविषयमित्यन्ये ।।
-
-ME
-
-0
-
-FOUNDED
-
-1017
-
-Mara a
-
-tas
-
-Bhandarkar Oriental Research Institute
-
-IV
-
-Reason of emphasis on purification
-
-333
-
-(as stated in the Chandogyopanişad VII. 26.2 Sahārasuddhau sattvaśuddhih' and by Harita). It would be conceded that some of their rules about purification (such as about large quantities of corn or heaps of cooked food) are based on common sense and convenience. We are probably going to the other extreme in taking our food anywhere and in any surroundings.
+[^750]: तीर्थे विवाहे यात्रायां संग्रामे देशविप्लवे । नगरग्रामदाहे च स्पृष्टास्पृष्टिर्न दुष्यति । बृहस्पति q. by शु. को. p. 323, शु. प्र. p. 130. शु. को. explains 'स्पृष्टः अस्पृष्टिः अस्पृश्यो येन स तथा' and शु. प्र. remarks अस्पृष्टिरस्पृश्यं स्पृष्टमस्पृष्टिर्येनेति च बहुवीहिः। तेन तीर्थादौ अस्पृश्यस्पर्शने नाचमनस्नानादि।'.  The स्मृतिच. I. pp. 121-122 quotes this verse and two others 'ग्रामे तु यत्र संस्पृष्टिर्यात्रायां कलहादिषु। ग्रामसंदूषणे चैव स्पष्टिदोषो न विद्यते' and 'देवयात्राविवाहेषु यज्ञेषु प्रकृतेषु च । उत्सवेषु च सर्वेषु स्पृष्टास्पृष्टिर्न विद्यते॥' from शातातप and षट्त्रिंशन्मत respectively and explains ग्रामे राजमार्गादौ ।......एतच्च वाक्यत्रयं यत्राहमनेन स्पृष्ट इति ज्ञानं नास्ति तद्विषयामिति केचित। अनुच्छिष्टाशुचिस्पर्शविषयमित्यन्ये ।.
