@@ -1,6 +1,0 @@
-+++
-title = "197 सोमपा नाम"
-
-+++
-
-Those by name Somapās are the Pitṛs of Brāhmaṇas; the Havirbhujs are the Pitṛs of Kṣatriyas; those by name Ājyapas, of Vaiśyas; and of Śūdras, Sukālins.—(197) 

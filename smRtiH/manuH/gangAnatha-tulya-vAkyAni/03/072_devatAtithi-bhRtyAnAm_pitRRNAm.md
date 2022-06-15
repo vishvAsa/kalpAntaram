@@ -1,9 +1,0 @@
-+++
-title = "072 देवतातिथि-भृत्यानाम् पितॄणाम्"
-
-+++
-**(verses 3.71-72)  
-**
-
-See Comparative notes for [Verse
-3.71].

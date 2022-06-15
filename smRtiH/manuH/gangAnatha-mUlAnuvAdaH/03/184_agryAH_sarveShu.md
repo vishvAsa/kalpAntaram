@@ -1,6 +1,0 @@
-+++
-title = "184 अग्र्याः सर्वेषु"
-
-+++
-
-Those persons should be known as “sanctifiers of company” who are foremost in all the vedas and in all the explanatory sciences, and who are born in the family of men learned in the veda.—(184)

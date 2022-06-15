@@ -1,6 +1,0 @@
-+++
-title = "268 द्वौ मासौ"
-
-+++
-
-For two months by fish-meat; for three months by the meat of deer; for four by that of sheep, and for five by that of birds.—(268)

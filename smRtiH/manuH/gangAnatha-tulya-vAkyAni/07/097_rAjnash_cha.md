@@ -1,9 +1,0 @@
-+++
-title = "097 राज्ञश् च"
-
-+++
-**(verses 7.96-98)  
-**
-
-See Comparative notes for [Verse
-7.96].

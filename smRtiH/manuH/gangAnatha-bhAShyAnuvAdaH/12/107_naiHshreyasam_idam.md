@@ -1,9 +1,0 @@
-+++
-title = "107 नैःश्रेयसम् इदम्"
-
-+++
-This verse is intended to attract the attention of the Vedic scholar,
-and to arouse in his mind a special regard for what is going to be set
-forth.
-
-‘*Secret*’—hidden meaning.—(107)

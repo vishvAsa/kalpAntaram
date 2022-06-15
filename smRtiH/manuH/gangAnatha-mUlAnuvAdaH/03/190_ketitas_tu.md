@@ -1,6 +1,0 @@
-+++
-title = "190 केतितस् तु"
-
-+++
-
-The rest of Brāhmaṇas, who, when duly invited at the rite in honour of Gods and Pitṛs, happens, somehow, to neglect it, incurs sin and becomes a hog.’—(190)

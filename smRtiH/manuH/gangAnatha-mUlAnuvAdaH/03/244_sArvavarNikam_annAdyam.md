@@ -1,6 +1,0 @@
-+++
-title = "244 सार्ववर्णिकम् अन्नाद्यम्"
-
-+++
-
-Having mixed up the food of all kinds and wetted it with water, he should throw it before the Brāhmaṇas who have eaten, scattering it on the ground.—(244)
