@@ -702,153 +702,72 @@ The smṛtis laid down some strict and elaborate rules which were to be observed
 
 ## Rules for performer and invitee
 
-Similar rules to observe continence are laid down for both on the day of śrāddha if invitation be given on the morning of the day of śrāddha and also on the previous day if invitation be given on the day previous to the śrāddha day. Vide Viṣṇu Dh. S. 69. 2-4, The Mit, on Yāj. I. 79 appears to strike a dissenting note about sexual intercourse with one's wife during the days from the 5th to the 16th; while most other medieval writers such as Hemādri (śr. pp. 1006-7) and Śr. P. p. 111 are opposed to this view. The Śrāddhasūtra[^924] of Kātyāyana provides that the performer should, from the time of giving invitation to the time when the brāhmaṇas sip water (i.e. perform _ācamana_ after śrāddha dinner), remain pure, free from anger, hurry, negligence, should speak the truth and should shun a journey, sexual intercourse, hard work and study of the Veda and control speech (should remain mostly silent) and the brāhmaṇas invited should observe the same rules. Aušanasa (Jiv. vol. I. pp. 526-527) contains verses very similar in import to Kātyāyana. The Brahmapurāņa (220. 106-108), Mārkaṇḍeya (28. 31-33) and Anušāsana 125.24 have identical verses[^925] and Vāyu 79.60-61 are very similar in import. Laghu-Śaṇkha 29, Laghu-Hārīta 75 and Likhita 60 have the same verse requiring the invited brāhmaṇas to avoid eight matters, viz. dining again, journey, carrying loads, Vedic study, sexual intercourse, making gifts, accepting gifts, performing homa, while Prajāpati 92 substitutes the brushing of the teeth (with a twig), _tāmbula_, bath after applying oil to the body, and fast for the first four of the above eight. The Anušāsanaparva (90. 12-13) and Padma (Pātālakhaṇḍa 101. 94-95) also contain a list of actions that should be avoided. Briefly put, the following were the observances for both inviter and invitee, viz. avoidance of sexual intercourse, dining again, falsehood, hurry, vedic study, heavy work, gambling, carrying burdens, giving gifts and acceptance of gifts, theft, journey, sleep by day, quarrels; the performer alone was to abstain from eating tambūla, shaving, applying oil to the body, brushing the teeth with a twig; 
+Similar rules to observe continence are laid down for both on the day of śrāddha if invitation be given on the morning of the day of śrāddha and also on the previous day if invitation be given on the day previous to the śrāddha day. Vide Viṣṇu Dh. S. 69. 2-4, The Mit, on Yāj. I. 79 appears to strike a dissenting note about sexual intercourse with one's wife during the days from the 5th to the 16th; while most other medieval writers such as Hemādri (śr. pp. 1006-7) and Śr. P. p. 111 are opposed to this view. The Śrāddhasūtra[^924] of Kātyāyana provides that the performer should, from the time of giving invitation to the time when the brāhmaṇas sip water (i.e. perform _ācamana_ after śrāddha dinner), remain pure, free from anger, hurry, negligence, should speak the truth and should shun a journey, sexual intercourse, hard work and study of the Veda and control speech (should remain mostly silent) and the brāhmaṇas invited should observe the same rules. Aušanasa (Jiv. vol. I. pp. 526-527) contains verses very similar in import to Kātyāyana. The Brahmapurāņa (220. 106-108), Mārkaṇḍeya (28. 31-33) and Anušāsana 125.24 have identical verses[^925] and Vāyu 79.60-61 are very similar in import. Laghu-Śaṇkha 29, Laghu-Hārīta 75 and Likhita 60 have the same verse requiring the invited brāhmaṇas to avoid eight matters, viz. dining again, journey, carrying loads, Vedic study, sexual intercourse, making gifts, accepting gifts, performing homa, while Prajāpati 92 substitutes the brushing of the teeth (with a twig), _tāmbula_, bath after applying oil to the body, and fast for the first four of the above eight. The Anušāsanaparva (90. 12-13) and Padma (Pātālakhaṇḍa 101. 94-95) also contain a list of actions that should be avoided. Briefly put, the following were the observances for both inviter and invitee, viz. avoidance of sexual intercourse, dining again, falsehood, hurry, vedic study, heavy work, gambling, carrying burdens, giving gifts and acceptance of gifts, theft, journey, sleep by day, quarrels; the performer alone was to abstain from eating tambūla, shaving, applying oil to the body, brushing the teeth with a twig;
 
-924, तदहः शुचिरक्रोधनोऽत्वरितोऽप्रमत्तः सत्यवादी स्यादध्वमैथुनश्रमस्वाध्यायान्व
+[^924]: तदहः शुचिरक्रोधनोऽत्वरितोऽप्रमत्तः सत्यवादी स्यादध्वमैथुनश्रमस्वाध्यायान्वर्जयेदावाहनादि वाग्यत ओपस्पर्शनादामन्त्रिताश्चैवम् । श्राद्धसूत्र I of कात्यायन. पुनर्भोजनमध्वानं भाराध्ययनमैथुनम् । दानं प्रतिग्रहं होमं श्राद्धभुक्त्वष्ट वर्जयेत् ॥ लघुशङ्क 29, q. by मिता. on या. I. 249 (without name); compare. कूर्मपुराण (II. 22.6) and नारदीय (पूर्वार्ध 28.4) for very similar verses.
 
-Teatą apua Binafaard GTI of 37. gai FeaTa HRTEZ ÀYahl an ETA I H eart Ets 29, q. by TAAT. On . I. 249 (without name); compare, gru (II. 22. 6) and arreta (gatu 28.4) for very similar verses.
+[^925]: श्राद्धं दत्त्वा च भुक्त्वा च पुरुषो यः स्त्रियं व्रजेत्। पितरस्तस्य तं मांसं तस्मिन्रतासि शेरते । अनुशासनपर्व 125.24. Almost the same words occur in मार्कण्डेय 28-
+32-33 and in अनुशासन 90. 12-13, वसिष्ठ 11.37. The मिता. on या I. 79 says 'एवं गन्छन् ब्रह्मचार्येव भवति । अतो यत्र ब्रह्मचर्य श्राद्धादौ चोदितं तत्र गच्छतोऽपि न ब्रह्मचर्यस्खलनदोषोऽस्ति'.
 
-925. श्राद्धं दत्त्वा च भुक्त्वा च पुरुषो यः स्त्रियं व्रजेत् । पितरस्तस्य तं मांसं तस्मिन्लास TÀI 316 STT 125. 24. Almost the same words occur in pichogy 28,3433 and in अनुशासन 90.12-13.वमिण 11.37. The मिता. on या 1.79 says एवं गल्छन ब्रह्मचायव भवति । अतो यत्र ब्रह्मचर्य श्राद्धादौ चोदितं तत्र गच्छतोऽपि न ब्रह्मचयरस्वलन
+while the brähmaṇa invited was (alone) to observe the following, viz. not absenting oneself after accepting an invitation, making no delay when called for dinner (vide Śrāddhakalikā folio 4b and 5a and Pitṛ-bhakti on śrāddha[^926] ).
 
-Sa mama annisra.
+Elaborate provisions are made from ancient times about the substances and utensils proper for being used at śrāddha and about those that should not be used therein. Ap. Dh.[^927] S. remarks: 'the materials in śrāddha are sesamum, māṣas, rice, yavas (barley ), water, roots and fruits; but the pitṛs are extremely gratified by food that is mixed with clarified butter and for a very long time; so also they are gratified by wealth that is obtained lawfully and is bestowed on worthy persons'. Manu III. 267 ( =Vāyu 83.3) is to the same effect as Ap. Dh. S. Yāj. I. 258 is content to say that food which is fit to be offered in sacrifices (_haviṣya_) should be served. Manu III, 257 explains that food eaten by hermits in the forest, (cow's) milk, soma juice, meat that is not prepared with spices (or that is free from a bad smell), rock salt are by their very nature _havis_ (sacrificial food). According to Gaut. 27. 11 the sacrificial food (_havis_) comprises boiled rice, food obtained by begging, ground barley (after being baked or fried), grain separated from husk, barley gruel, vege tables, milk, curds, clarified butter, roots, fruits and water[^928]. Other smṛtis and digests very much elaborated these brief indications in the early works. The three kinds of wealth (viz. _śukla_, _śabala_ and _kṛṣna_ ) and the several lawful or uncondemned means of acquiring wealth have been described already in H. of Dh. vol. II. pp. 130 ff. The Mārkaṇḍeya (29. 14-15) condemns the use in śrāddhas of wealth that is obtained by taking bribes or from a _patita_ (one guilty of a grave sin), that springs from bride-price or that is declared to be unlawful or is obtained by saying to another 'give me for the sake of a śrāddha to be offered to my father' (q. by Sm.C. on śrāddha p. 412).
 
-SOS.
+[^926]: निमन्त्रितः श्राद्धकर्ता च पुनर्भोजनं श्रमं हिंसां त्वरां प्रमादं भारोद्वहनं दूरगमन कलहं शस्त्रग्रहणं च वर्जयेत् । शुचिः सत्यवादी क्षमी ब्रह्मचारी च स्यात् । पितृभक्ति of श्रीदत्त.
 
-1917
+[^927]: तत्र द्रव्याणि तिलमाषा व्रीहियवा आपो मूलफलानि । स्नेहवति त्वेवान्ने पितॄणां प्रीतिर्द्राघीयांसं च कालम्। तथा धर्माहृतेन द्रव्येण तीर्थप्रतिपन्नेन। आप.ध. सू II. 7. 16. 22-24.
 
-Bhandarkar Oriental Research Institute
+[^928]: चरुभैक्षसक्तुकणयावकशाकपयोदधिघृतमूलफलोदकानि हवींष्युत्तरोत्तर प्रशस्तानि। गौ.27. 11. On आश्व.गृ. I. 9. 6 नारायण  quotes a verse of similar import 'पयो दधि यवागूश्च सर्पिरोदनतण्डुलाः । सोमो मांसं तथा तैलमापस्तानि दशैव तु' ॥
 
-412
+## Materials to be employed
 
-History of Dharmaśāstra
+The Skandapurāṇa emphasizes that at a śrāddha purity (_śuddhi_) must be specially secured in seven matters viz. the body (of the performer), the materials, the wife, the place (where śrāddha is to be performed), the mind, the mantras and brāhmaṇas[^929]. Manu III. 235 (= Vas, 11.35) states: three are the sanctifying things in a śrāddha, viz. a daughter's son, a Nepal blanket and sesamum grains and three are commended in śrāddha viz, cleanliness, freedom from anger and absence of hurry[^929a]. Pracetas mentions several kinds of oorn that are commended as food in śrāddha. Manu III. 255 summarises that in śrāddha the riches (i.e. the most important matters) are afternoon, _darbhas_, proper cleansing of the place (or house) for śrāddha, sesame, generous expense (on food &c.), seasoning food, eminent brāhmaṇas.
 
-[Vol.
+The Mārkaṇḍeya-purāņa says that several kinds of corn yielding plants (some due to tillage in villages and some growing wild) were produced by Brahmā when he milked the earth for famished people, while Brahmavaivarta (q. by Hemādri on śräddha p. 537) affirms that when a few particles fell down on the earth while Indra drank. Soma, from them arose such corn as _śyāmāka_, wheat, _yava_, _mudga_ and red paddy and as they were produced from soma they were like nectar to the pitṛs and food prepared from these should be offered to pitṛs. The Mārkaṇḍeya speaks of seven kinds of _grāmya_ corn and seven kinds of wild (_āraṇya_) corn. Prajāpati 119 recommends the use of eight kinds of corn, viz. nivära, māşa, mudga, wheat, paddy, yava, grain and sesamum, The Matsya (q. by Hemādri on śrāddha p. 538) narrates that when the Sun drank nectar some drops fell down from which arose the several kinds of paddy, mudga, sugarcane and that therefore sugar is sacred and may be employed in sacrifices to gods and manes.
 
-while the brähmaṇa invited was (alone) to observe the following, viz. not absenting oneself after accepting an invitation, making no delay when called for dinner (vide Śrāddhakalikā folio 4b and 5a and Pitṛ-bhakti on śrāddha 926 ).
+[^929]: शरीरद्रव्यदाराभूमनोमन्त्रद्विजन्मनाम्। शुद्धिः सप्तसु विज्ञेया श्राद्धकाले विशेषतः॥ स्कन्द VII. 1. 205. 17.
 
-Elaborate provisions are made from ancient times about the substances and utensils proper for being used at śrāddha and about those that should not be used therein. Ap. Dh. 927 S. remarks: the materials in śrāddha are sesamum, māsas, rice, yavas (barley ), water, roots and fruits; but the pitṛs are extremely gratified by food that is mixed with clarified butter and for a very long time; so also they are gratified by wealth that is obtained lawfully and is bestowed on worthy persons'. Manu III. 267 ( Vāyu 83.3) is to the same effect as Ap. Dh. S. Yāj. I. 258 is content to say that food which is fit to be offered in sacrifices (havisya) should be served. Manu III, 257 explains that food eaten by hermits in the forest, (cow's) milk, soma juice, meat that is not prepared with spices (or that is free from a bad smell), rock salt are by their very nature havis (sacrificial food). According to Gaut. 27. 11 the sacrificial food (havis) comprises boiled rice, food obtained by begging, ground barley (after being baked or fried), grain separated from husk, barley gruel, vege tables, milk, curds, clarified butter, roots, fruits and water. 928 Other smṛtis and digests very much elaborated these brief indications in the early works. The three kinds of wealth (viz. śukla, sabala and krsna ) and the several lawful or uncondemned means of acquiring wealth have been described already in H. of Dh. vol. II. pp. 130 ff. The Mārkaṇḍeya (29. 14-15) condemns the use in śrāddhas of wealth that is obtained by taking bribes or from a patita (one guilty of a grave sin), that springs from bride-price or that is declared to be unlawful or is obtained by saying to another 'give me for the sake of a śrāddha to be offered to my father' (q. by Sm.C. on
+[^929a]: त्रीणि श्राद्धे पवित्राणि दौहित्रः कुतपस्तिलाः। त्रीणि चात्र प्रशंसन्ति शौचम क्रोधमत्वराम् ॥ मनु. III. 235, वसिष्ठधर्मसूत्र XI. 35. This very verse (the first half) is quoted in several Purāṇas as in विष्णुपुराण III. 15. 52, भाविष्य I. 185. 20, मार्कण्डेय 28. 64, स्कन्दपुराण (प्रभासखण्ड 205. 13). The पद्मपुराण (सृष्टिखण्ड 47. 278-279) has the whole verse but reads श्राद्ध त्रीणि...दौहित्रं and सत्यमक्रोधमत्वरा It appears clear from the preceding verse that in Manu at least दौहित्र means daughter's son. But in the स्कन्द (प्रभासखण्ड 205.14 ff ) several meanings of दौहित्र are given such as 'a vessel made of the horn on the nose of the rhinoceros' or 'clarified butter made from the milk of a cow of variegated colour.' The word कुतप also has nine meanings acc. to a Smṛti text quoted by Apararka p. 474 'बाह्मणः कम्बलो गावः सूर्योऽग्निस्तिथिरेव च। तिला दर्भाश्च कालश्च नवैते कुतपाः स्मृताः॥'; vide note 847 for कुतप.
 
-926. निमन्त्रितः श्राद्धकर्ता च पुनर्भोजनं श्रमं हिंसां त्वरां प्रमादं भारोद्वहनं दूरगमन कलहं शस्त्रग्रहणं च वर्जयेत् । शुचिः सत्यवादी क्षमी ब्रह्मचारी च स्यात् । पितृभक्ति of
+ The Mārkaṇḍeya[^930] mentions several kinds of corn that may be employed for śrāddha food. The Brahma-purāṇa 220. 154-155, Vayu 82. 3, Viṣṇupurāṇa III. 16. 5-6, Viṣṇu, Dh. S., 931 Brahmāṇḍa II, 7. 143-152 and III. 14. contain similar lists of different kinds of corn that may be used in śrāddhas. The Vāyupurāņa (80. 42-48) mentions various desirable eatables prepared from corn of various kinds, sugar and clarified butter and milk[^932].
 
-श्रीदत्त.
+Certain kinds of corn and cereals were forbidden. For example, the Matsya-purāṇa and Padma (Sṛṣṭikhaṇḍa, chap. 9. 62-66 )[^933] declare that masüra, linseed, niṣpāva, rājamāṣa, kusumbhika, kodrava, udāra, gram, kapittha, madhūka and linseed are forbidden. Viṣṇu Dh. S. 79.18 provides that the performer should avoid the bean called rājamāṣa, masüra, stale food and salt manufactured from seawater. The Ṣaṭ-trimśanmata[^934] forbids the use in śrāddha of all kinds of cereals covered with dark husk except sesamum, _mudga_ and _māşa_.
 
-927. तत्र द्रव्याणि तिलमाषा वीहियवा आपो मूलफलानि । स्नेहवति त्वेवाने पितृणां airgrúrgir eigi a Te zor aferareal 3719. . II. 7. 16. 22-24,
+[^930]: राजश्यामाकश्यामाकौ तद्वच्चैव प्रशाप्तिका। नीवाराः पौष्कराश्चैव वन्यानि पितृतृप्तये॥ यवव्रीहिसगोधूमतिलमुद्गाः ससर्षपाः । प्रियङ्गवः कोद्रवाश्च निष्पावाश्चातिशोभनाः । वर्ज्या मर्कटकाः श्राद्धे राजमाषास्तथाणवः । विप्रूषिका मसूराश्च श्राद्धकर्मणि गर्हिताः ॥ मार्कण्डेय 29,9-11 q. by हेमादि (श्रा. pp. 542-43) and explained as प्रशान्तिकाः मध्यदेशे प्रसिद्धो धान्यविशेषः पौष्कराः पद्मबीजानि निष्पावाः वल्लाः. The last are called वाल in modern Marathi.
 
-928. चरुभैक्षसक्तकणयावकशाकपयोदधिघृतमूलफलोदकानि हवींण्युत्तरोत्तर प्रशस्तामि।
+[^931]: तिलैर्व्रीहियवैर्माषैरद्भिर्मूलफलैः शाकैः श्यामाकैः प्रियङ्गुभिर्नीवारैर्मुद्गैर्गोधूमैश्च मासं प्रीयन्ते । विष्णुधर्मसूत्र 80.1.
 
-27. 11. On 31tant. T. I. 9. 6 ar Tor quotes a verse of similar import 'पयो दधि यवागूश्च सर्पिरोदनतण्डुलाः । सोमो मांसं तथा तैलमापस्तानि दशैव तु ॥
+[^932]: द्वेष्याणि संप्रवक्ष्यामि श्राद्धे वर्ज्यानि यानि तु॥ मसूरशणनिष्पावराजमाषकुसुम्भिकाः ।...कोद्रवोदारचणकाः कपित्थं मधुकातसी॥ मत्स्य 15.36-38 q. by हेमाद्रि (श्रा.) pp. 548-549 and भा. प्र. p. 40; पद्मपुराण (V.9.64-67)q. by हेमाद्रि p. 548 has almost the same list. हेमाद्रि explains मधुक as ज्येष्ठीमधु and reads कोद्रवोद्दालवरककपित्थ in मत्स्य. वरक is वरी in Marathi.
 
-STIT
+[^933]: राजमाषमसूरपर्युषितकृतलवणानि च। विष्णुधर्मसूत्र 79.18; राजमाषान्मसूरांश्च कोद्रवान् कद्रवान् कोरदूषकान् । लोहितान् वृक्षनिर्यासान् श्राद्धकर्मणि वर्जयेत् ॥ शङ्ख 14.21 g. by हेमाद्रि on श्राद्ध p. 548, who explains कोरदूषकः वनकोद्रवः.
 
-POONA
+[^934]: षट्त्रिंंशन्मते। कृष्णधान्यानि सर्वाणि वर्जयेच्छ्राद्धकर्मणि। न वर्जयेत्तिलांश्चैव मुद्रान्माषांस्तथैव च। q. by हेमाद्रि (श्राद्ध) p. 544, श्रा.प्र. p. 38. 'हविष्यं श्राद्ध हविर्योग्यं व्रीहिशालियवगोधूममुद्गमाषमुन्यन्नकालशाकमहाशल्कैलाशुण्ठीमरीचहिङ्गुगुडशर्करा कर्पूरसैन्धवसाम्भरपनसनालिकेरकदलीबदरगव्यपयोदधिघृतपायसमधुमांसप्रभृति स्मूत्यन्तर प्रसिद्धं वेदितव्यम्। हविष्यमित्यनेनैवायोग्यस्य स्मृत्यन्तरपतिषिद्धस्य कोद्रवमसूरचणककुलित्थपुलाकनिष्पावराजमाषकूष्माण्डवार्ताकबृहतीद्वयोपोदकीवंशाङ्कुरपिप्पलीवचाशतपुष्पोषर बिडलवणमाहिषचामरक्षीरदधिघृतपायसादीनां निवृत्तिः। मिता. on या. I. 240
 
-Bhandarkar Oriental Research Institute
+## What milk and water to be used
 
-IV)
+From considerations of space this matter cannot be pursued further. The Mit। on Yāj. I. 240 puts together a long list of allowed and of condemned kinds of grains and other articles.
 
-Materials to be employed
+What milk should be ordinarily partaken of and what should be avoided has been dealt with in H. of Dh, vol. II, pp. 782-783. A few words are added here. Manu III, 271 and Yāj. I. 258 provide that if cow's milk or rice cooked therein (called _pāyasa_) is offered in śrāddha the pitṛs are satisfied for one year. Vāyu 78. 17, Brahma[^935] 220.169, Märkandeya 32,17-19, Viṣṇupurāṇa III.16.11 forbid the use in a śrāddha of the milk of a she-buffalo, of a camari or female deer, of sheep or ewes, of she camels, of human females and of all animals with one hoof and the use of the curds and clarified butter prepared from such milk. But ghee prepared from buffalo milk was allowed by Sumantu and Devala (q. by Hemādri on śrāddha p. 572).
 
-413
+The Märkandeyapurāṇa[^936] (29.15-17), Vāyu (78.16) and Viṣṇupurāṇa (III, 16.10) lay down that the water to be employed in śrāddha must not have a bad smell, must not be foamy, or taken from a puddle or a small reservoir which cannot slake the thirst of a cow, must not have been brought overnight, must not be taken from a reservoir not dedicated to all or from a trough or the like meant for beasts.
 
-śrāddha p. 412). The Skandapurāṇa emphasizes that at a śrāddha purity (suddhi) must be specially secured in seven matters viz. the body of the performer), the materials, the wife, the place (where śrāddha is to be performed), the mind, the mantras and brāhmaṇas.929 Manu III. 235 (= Vas, 11.35) states: three are the sanctifying things in a śrāddha, viz. a daughter's son, a Nepal blanket and sesamum grains and three are commended in śrāddha viz, cleanliness, freedom from anger and absence of hurry.929a Pracetas mentions several kinds of oorn that are commended as food in śrāddha. Manu III, 255 summarises that in śrāddha the riches (i. e. the most im portant matters) are afternoon, darbhas, proper cleansing of the place (or house) for śrāddha, sesame, generous expense (on food &c.), seasoning food, eminent brāhmaṇas,
+Several rules are laid down about the fruits, roots and vegetables recommended or condemned for use in śrāddha. For example, the Brahma-purāņa (220.156-158 ) enumerates several kinds of fruits such as mangoes, _bilva_, pomegranate, cocoanut, dates, grapes, as fit to be given in śräddha. Vide Śaṇkha 14.22-23 also. Vāyu (78.11-15 ) states[^936a] that garlic, leeks and onions, other things that are of bad odour or taste and all exudation from trees not permitted by the Veda and salt gathered from saltish earth, should be avoided in śrāddha.
 
-The Mārkaṇḍeya-purāņa says that several kinds of corn yielding plants (some due to tillage in villages and some growing wild) were produced by Brahmā when he milked the earth for famished people, while Brahmavaivarta (q. by Hemādri on śräddha p. 537) affirms that when a few particles fell down on the earth while Indra drank. Soma, from them arose such corn as śyāmāka, wheat, yava, mudga and red paddy and as they were produced from soma they were like nectar to the pitřs and food prepared from these should be offered to pitṛs. The Mārkaṇḍeya speaks of seven kinds of grāmya corn and seven kinds of wild (āranya) corn. Prajāpati 119 recommends the use of eight kinds of corn, viz. nivära, māşa, mudga, wheat, paddy, yava, grain and sesamum, The Matsya (q. by Hemādri on śrāddha p. 538) narrates that when the Sun drank nectar some drops fell down from which arose the several kinds of
+[^935]: माहिषं चामरं मार्गमाविकैकशफोद्भवम् । स्त्रैणमौष्ट्रमाविकं च (ष्ट्रमजावीकं ?) दधि क्षारं घृतं त्यजेत् ॥ ब्रह्मपुराण 220.169 q. by हेमाद्रि (श्रा.) p. 573.
 
-929. Tener ATARIETATHI TE:
+[^936]: दुर्गन्धि फेनिलं चाम्बु तथैवाल्पतरोदकम् ॥ न लभेद्यत्र गौस्तृप्तिं नक्तं यच्चाप्युपाहृतम् । यन्न सर्वार्थमुत्सृष्टं यच्चाभोज्यनिपानजम् ॥ तद्वर्ज्ये सलिलं तात सदैव पितृकर्मणि ॥ मार्कण्डेय 29. 15-17. Vide also ब्रह्माण्ड (उपोद्घातपाद 14. 26).
 
-A gar rašina: 1! 5€ VII. 1. 205. 17.
+[^936a]: लशुनं गृञ्जनं चैव पलाण्डुं पिण्डमुलकम्। करम्भाद्यानि चान्यानि हीनानि रसगन्धतः ॥...अवेदोक्ताश्च निर्यासा लवणान्यौषराणि च। श्राद्धकर्मणि वर्ज्यानि याश्च नाया रजस्वलाः॥ वायु 78.12 and 15q. in हेमाद्रि (श्रा. p. 555) and स्मृतिच. (श्रा) p.416. In स्मृतिंच. (श्रा. p. 415) quotes a verse and a half from Suśruta for ten varieties of पलाण्डु.
 
-929 a. Siffo I stor qe: hariagr: 1 sio 19 iniFa sita Fu l l ha. III. 235, art XI. 35. This very verse (the first half) is quoted in several Purāṇas as in facuymur III. 15. 52, y I. 185. 20,
+The Viṣṇudharmasūtra[^937] (79.17) contains a long list of fruits, bulbs and vegetables that were not to be employed in śrāddha. The Rāmāyāna states[^938] that Rāma when an exile in the Dandaka forest gratified his pitṛs by offering the fruits of _inguda_, _badara_, and _bilva_ trees and generalises that deities are offered that food which is partaken of by a person (who is a devotee of That deity). From considerations of space detailed references to the smṛtis and purāņas are passed over. The Smṛtyarthasära pp. 52-53, Śrāddhaviveka (pp. 43-47 ) of Rudradhara and other digests collect in one place the foods, vegetables, fruits and roots that are allowed to be offered in śrāddha and that are condemned in śrāddha. Manufactured salt was forbidden, but natural salt from a lake (called saindhava) was allowed. Salt was not to be served directly (as Viṣṇudharmasūtra 79.12 says) but when put in while cooking vegetables it was not prohibited. There was a difference of opinion about the employment of asafoetida (vide Hemādri on Śrāddha p. 565). The Viṣṇudharmasutra (79.5-6) provides that flowers having a strong (or nasty) odour or no odour at all, the blossoms of thorny plants and red flowers should not be given, but one may give white and sweet-smelling flowers even though they are taken from thorny plants and flowers though red in colour may be taken from aquatic plants. Śaṇkha (14. 15-16) is to the same effect (q. by Hemādri p. 684). Väyu (75. 33-35) is to the same effect and adds that the flowers called Japā, Bhaṇḍi, Rūpikā (of arka plant), Kuraṇṭaka should be avoided in śrāddha. The Brahmapurāṇa (220.162 165 ) specifies the several kinds of flowers that may be offered in śrāddha such as jāti, campaka, mallikā, mango blossom, tulasi, tagara, ketaki and various kinds of lotuses ( white, blue and red &c.). The Smṛtyarthasāra includes _tulasi_ among things to be avoided in śrāddha.
 
-4 28. 64, TEYTTET (HEVE 205. 13). The Tror (urete 47. 278-279) has the whole verse but reads श्राद्ध त्रीणि...दोहित्र and सत्यमक्रोधमत्वरा It appears clear from the preceding verse that in Manu at least ies means daughter's son. But in the Fire (THIQUE 205. 14 ff ) several meanings of CIG are given such as 'a vessel made of the horn on the nose of tberhino ceros' or 'clarified butter made from the milk of a cow of variegated colour.' The word ay also has nine meanings acc. to a Smrti text qubled by Apararka p. 474 agor: 190 19: aisaret for a hrane aid satr: Teat: '; vide note 847 for fat.
+[^937]: पिप्पली-मुकुन्दक-भूस्तृण-शिग्रु-सर्षप-सुरसा-सर्जक-सुवर्चल-कूष्माण्ड-अलाबुवार्ताकु-पालङ्कया-उपोदकी-तण्डुलीयक-कुसुम्भ-पिण्डालुक-महिषीक्षीराणि वर्जयेत् । विष्णुधर्मसूत्र. 79. 17.
 
-POONA
+[^938]: इंङ्गुदैर्बदरैर्बिल्वै रामस्तर्पयते पितॄन् । यदन्नं पुरुषो भुङ्क्तेतदन्नास्तस्य देवता ॥ रामायण, अयोध्या 103.30, 104.15 q. by हेमाद्रि on श्राद्ध p. 561, मेधातिथि on मनु 7, स्मृतिच. (श्रा.) p. 416. स्कन्द (नागरखण्ड) 220, 49 is 'यदन्नं पुरुषोऽश्नाति तदन्नास्तस्य देवताः'.
 
-FOUNDED
+The Sm. C. notes this and remarks that it is not clear on what this dictum prohibiting tulasi is based[^938a].
 
-Bhandarkar Oriental Research Institute
-
-414.
-
-History of Dharmaśāstra
-
-[Vol.
-
-paddy, midga, sugarcane and that therefore sugar is sacred and may be employed in sacrifices to gods and manes. The Mārkaṇḍeya 930 mentions several kinds of corn that may be employed for śrāddha food. The Brahma-purāṇa 220. 154 155, Vayu 82. 3, Viṣṇupurāṇa III. 16. 5-6, Vispu, Dh. S., 931 Brahmāṇḍa II, 7. 143-152 and III. 14. contain similar lists of different kinds of corn that may be used in śrāddhas. The Vāyupurāņa (80. 42-48) mentions various desirable eatables prepared from corn of various kinds, sugar and clarified butter and milk..932
-
-Certain kinds of corn and cereals were forbidden. For example, the Matsya-purāṇa and Padma (Srstikhaṇḍa, chap. 9. 62-66 )933 declare that masüra, linseed, nispāva, rājamāsa, kusumbhika, kodrava, udāra, gram, kapittha, madhūka and linseed are forbidden. Viṣṇu Dh. S. 79.18 provides that the performer should avoid the bean called rājamāsa, masüra, stale food and salt manufactured from seawater. The Sat-trimsa nmata 934 forbids the use in śrāddha of all kinds of cereals covered with dark. husk except sesamum, mudga and māşa.
-
-1930. राजश्यामाकश्यामाकौ तद्वच्चैव प्रशाप्तिका। नीवाराः पौष्कराश्चैव वन्यानि पितृतृप्तये॥ यवत्रीहिसगोधूमतिलमुद्गाः ससर्षपाः । प्रियङ्गवः कोदवाश्च निष्पावाश्चातिशोभनाः । वा मर्कटकाः श्राद्धे राजमाषास्तथाणवः । विप्रषिका मसूराश्च श्राद्धकर्मणि गर्हिताः ॥ मार्कण्डेय 29,9-11 q. by हेमादि (श्रा. pp. 542-43) and explained as प्रशान्तिकाः मध्यदेशे प्रसिद्धो धान्यविशेषः पौष्कराः पद्मबीजानि निष्पावाः वल्लाः. The last are called वाल in modern Marathi. 1931. तिलै/हियवैर्मारैरद्भिर्मूलफलैः शाकैः श्यामाकैः प्रियङ्गभिनीवारैर्मुद्रगोधूमैश्च मासं प्रीयन्ते । विष्णुधर्मसूत्र 80.1.
-
-932. देण्याणि संप्रवक्ष्यामि श्राद्ध वानि यानि तु॥ मसूरशणनिष्पावराजमाष कुसुम्भिकाः ।...कोद्रोदारचणकाः कपित्थं मधुकातसी॥ मत्स्य 15.36-38 q. by हेमाद्रि (श्रा.) pp. 548-549 and भा. प्र. p. 40; पद्मपुराण (V.9.64-67)q. by हेमाद्रि p. 548 has almost the same list. हेमाद्रि explains मधुक as ज्येष्ठीमधु and. reads कोदवादालवरक कपित्थ in मत्स्य. वरक is वरी in Marathi, 1933. राजमाषमसूरपर्युषितकृतलवणानि च। विष्णुधर्म पूत्र 79.18; राजमाषान्मसूरांश्च कोद्रवान् कोरदूषकान् । लोहितान् वृक्षनिर्यासान् श्राद्धकर्मणि वर्जयेत् ॥ शङ्क14.21g. by हेमाद्रि on श्राद्ध p. 548, who explains कोरदूषकः वनकोद्रवः.
-
-934. पत्रिंशन्मते। कृष्णधान्यानि सर्वाणि वर्जयेच्छ्राद्धकर्मणि। न वर्जयेत्तिलांश्चैव मुद्रान्माषांस्तथैव च। q. by हेमाद्रि (श्राद्ध) p. 544, श्रा.प्र. p. 38. 'हविष्यं श्राद्ध हवियोग्यं व्रीहिशालियरगोधूममुद्माषमुन्यन्नकालशाकमहाशल्कैलाशुण्ठीमरीचहिङ्गगुडशर्करा कर्परसैन्धवसाम्भरपनसनालिकेरकदलीबदरगव्यपयोदधिघृतपायसमधुमांसप्रभृति मूत्यन्तरण प्रसिद्धं वेदितव्यम्। हविष्यमित्यनेनेवायोग्यस्य स्मृत्यन्तरपतिषिद्धस्य कोद्रवमसरवणकर लिथपुलाकनिष्पावराजमाषकूष्माण्डवार्ताकबृहतीद्वयोपोदकीवंशाङ्करपिप्पलीवचाशतपुष्पावर बिडलवणमाहिषचामरक्षीरदधिघृतपायसादीनां निवृत्तिः। मिता. on या. I. 240 गांव वावधानमा
-
-NSTITU
-
-यातमस्तु
-
-A Bhandarkar Oriental Research Institute
-
-IV)
-
-What milk and water to be used
-
-415
-
-From considerations of space this matter cannot be pursued further. The Mit, on Yāj. I. 240 puts together a long list of allowed and of condemned kinds of grains and other articles.
-
-What milk should be ordinarily partaken of and what should be avoided has been dealt with in H. of Dh, vol. II, pp. 782-783. A few words are added here. Manu III, 271 and Yāj. I. 258 provide that if cow's milk or rice cooked therein (called pāyasa) is offered in śrāddha the pitṛs are satisfied for one year. Vāyu 78. 17, Brahma 935 220.169, Märkandeya 32,17-19, Viṣṇupurāṇa III.16.11 forbid the use in a śrāddha of the milk of a she-buffalo, of a camari or female deer, of sheep or ewes, of she camels, of human females and of all animals with one hoof and the use of the curds and clarified butter prepared from such milk. But ghee prepared from buftalo milk was allowed by Sumantu and Devala (q. by Hemādri on śrāddha p. 572).
-
-The Märkandeyapurāṇa 936 (29.15-17), Vāyu (78.16) and Viṣṇupurāṇa (III, 16.10) lay down that the water to be employed in śrāddha must not have a bad smell, must not be foamy, or taken from a puddle or a small reservoir which cannot slake the thirst of a cow, must not have been brought overnight, must not be taken from a reservoir not dedicated to all or from a trough or the like meant for beasts.
-
-Several rules are laid down about the fruits, roots and vegetables recommended or condemned for use in śrāddha. For example, the Brahma-purāņa (220.156-158 ) enumerates several kinds of fruits such as mangoes, bilva, pomegranate, cocoanut, dates, grapes, as fit to be given in śräddha. Vide Śaṇkha 14.22-23 also. Vāyu (78.11-15 ) states936c that garlic, leeks and onions, other things that are of bad odour or taste
-
-06
-
-935 HIỆC TAP Ariarathi TOTAE AB (xaftratti?) are ri ya cha y ti 220169 q. by @ATTE (971.) p. 573.
-
-936. दुर्गन्धि फेनिलं चाम्बु तथैवाल्पतरोदकम् ॥ न लभेद्यत्र गौस्तृप्तिं नक्तं यच्चाप्युपा हृतम् । यस सर्वार्थमुत्सृष्टं यच्चाभोज्यनिपानजम् ॥ तद्वय सलिलं तात सदैव पितृकर्मणि ॥ Hirchèy 29. 15-17. Vide also an ( stara 14.26).
-
-936 a. लशुनं गृञ्जनं चैव पलाण्टुं पिण्डमुलकम्। करम्भाद्यानि चान्यानि हीनानि Hua:... raaisa ar gauriFT TOT I HAo au yna mar VECT: Ilary 78.12 and 15 q. in ZATE (. p. 555) and yag ( 416. The uraa. (1. p. 415) quotes a
-
-(PL. P. 415) quotes a verse and a half from Susrutor ten varieties of पलाण्ड,
-
-1917
-
-a
-
-Bhandarkar Oriental Research Institute
-
-416
-
-History of Dharmaśāstra
-
-[Vol.
-
-and all exudation from trees not permitted by the Veda and salt gathered from saltish earth, should be avoided in śrāddha. The Viṣṇudharmasūtra 937 (79.17) contains a long list of fruits, bulbs and vegetables that were not to be employed in śrāddha. The Rāmāyāna states 938 that Rāma when an exile in the Dandaka forest gratified his pitṛs by offering the fruits of inguda, badara, and bilva trees and generalises that deities are offered that food which is partaken of by a person (who is a devotee of That deity). From considerations of space detailed references to the smộtis and purāņas are passed over. The Smộtyarthasära pp. 52-53, Śrāddhaviveka (pp. 43-47 ) of Rudradhara and other digests collect in one place the foods, vegetables, fruits and roots that are allowed to be offered in śrāddha and that are condemned in śrāddha. Manufactured salt was forbidden, but natural salt from a lake (called saindhava) was allowed. Salt was not to be served directly (as Viṣṇudharmasūtra 79.12 says) but when put in while cooking vegetables it was not prohibited. There was a difference of opinion about the employment of asafoetida (vide Hemādri on Śrāddha p. 565). The Viṣṇudharmasutra (79.5-6) provides that flowers having a strong (or nasty) odour or no odour at all, the blossoms of thorny plants and red flowers should not be given, but one may give white and sweet-smell ing flowers even though they are taken from thorny plants and flowers though red in colour may be taken from aquatic plants. Śaṇkha (14. 15-16) is to the same effect (q. by Hemādri p. 684). Väyu (75. 33-35) is to the same effect and adds that the flowers called Japā, Bhandi, Rūpikā (of arka plant), Kurantaka should be avoided in śrāddha. The Brahmapurāṇa (220.162 165 ) specifies the several kinds of flowers that may be offered in śrāddha such as jāti, campaka, mallikā, mango blossom, tulasi, tagara, ketaki and various kinds of lotuses ( white, blue and red &c.). The Smộtyarthasāra includes tulasi among things to be avoided in śrāddha. The Sm. O. notes this and remarks
-
-937. facai-uran-tao-fia-Feu-UTHT- 996-carte-31718 araig-room-fulani-augie- *-foeie-Healaicuror asfaa racuje
-
-a. 79. 17.
-
-938. इंगदैर्षद रैबिल्व रामस्तर्पयते पितॄन् । यदर्भ पुरुषो मुझे तदनास्तस्य देवता ॥ PA1901, oreleyr 103.30, 104.15 q. by Fare on rg p. 561, Autârg on VR 7, ya. (ar) p. 416. ure (arave) 220, 49 is 'Taxi gorsaft 4784aar',
-
-taurantes Bhandarkar Oriental
-
-Research Institute
-
-IV]
-
-Kušas to be used in śrāddha
-
-417
-
-that it is not clear on what this dictum prohibiting tulasi is
-
-based 938a.
-
-Kušas are required in śrāddha. Vide H, of Dh. vol. II. p.657 for general remarks on kusas. A few words may be added here. The Sat. Br. VII, 2.3.2 states that the waters that loathed Vrtra went out to waterless deserts and became bushes of darbhas 939. Similarly, Ašv. Gr. III. 2.2 summarizes a Brāh mana text stating that darbhas are the essence of waters and herbs (apam va esa osadhinām raso yad-darbhah). Prajapati (verse 98 ) 9394 provides that darbhas should be gathered from a pure spot in the morning by a brāhmaṇa, should have mantras repeated over them, should be greenish in colour, should be as long as a cow's ear and then they are holy. The Gobhila gr. (1. 5. 16-17) states the barhis consists of kuģa grass cut off at the points at which the blades diverge from the main stalk and that the blades should be cut off near the roots at the rites meant for the Fathers'. Daksa (II, 33 and 35) provides that the second part of the day (divided into eight parts) is the proper time for collecting fuelsticks, flowers and kusas. The Gobhilasmṛti (I. 20-21) says 940 that the darbhas used in sacrifices are gree nish, those to be used in Pākayajñas should be yellowish, those in rites for the pitṛs must be taken out from the roots and those that are to be used in Vaišvadeva should be dark-pale, and that
+Kušas are required in śrāddha. Vide H, of Dh. vol. II. p.657 for general remarks on kusas. A few words may be added here. The Sat. Br. VII, 2.3.2 states that the waters that loathed Vrtra went out to waterless deserts and became bushes of darbhas[^939]. Similarly, Ašv. Gr. III. 2.2 summarizes a Brāhmaṇa text stating that darbhas are the essence of waters and herbs (apām vā eṣa oṣadhinām raso yad-darbhāḥ). Prajapati (verse 98 )[^939a] provides that darbhas should be gathered from a pure spot in the morning by a brāhmaṇa, should have mantras repeated over them, should be greenish in colour, should be as long as a cow's ear and then they are holy. The Gobhila gr. (1. 5. 16-17) states the _barhis_ consists of kuśa grass cut off at the points at which the blades diverge from the main stalk and that the blades should be cut off near the roots at the rites meant for the Fathers'. Dakṣa (II, 33 and 35) provides that the second part of the day (divided into eight parts) is the proper time for collecting fuelsticks, flowers and kuśas. The Gobhilasmṛti (I. 20-21) says[^940] that the darbhas used in sacrifices are greenish, those to be used in Pākayajñas should be yellowish, those in rites for the pitṛs must be taken out from the roots and those that are to be used in Vaišvadeva should be dark-pale, and that greenish _darbhas_ together with ends uncut, that are smooth and well nourished, one _aratni_ in length and touched with that part of the hand called _pitṛtirtha_ are pure.
 
 938 a. उपोदकी-तुलसी-कृष्णातसी-शिगुर्महासर्षप-पत्रशाक-कृष्णसर्षप-पूतिगन्ध शाकानि कूष्माण्डपोलकाद्याश्च (वानि)। स्मृत्यर्थसार p. 53; स्मृत्यर्थसारे तु तुलस्यपि वज्येत्युक्तं तत्र मूलं चिन्त्यं प्रसिद्धस्मृतिसमुच्चयेषु तुलसीनिषेधस्यादर्शनात् । स्मृतिच. (श्रा.) p. 435. The टोडरानन्द (श्राद्धसौख्य) remarks: ग्रन्थान्तरे तुलसीनिषेधस्तु शाकविषयः प्रेलश्राद्धविषयश्च । तत्र तुलसीवयं भृङ्गराजादि प्रशस्तम् । (folio 47 b.).
 
@@ -874,7 +793,7 @@ History of Dharmaśāstra
 
 [Vol.
 
-greenish darbhas together with ends uncut, that are smooth and well nourished, one aratni in length and touched with that part of the hand called pitṛtirtha are pure, The Padmapurāņa (Srstikhaṇḍa 11.92 ) and Skanda VII1. 205.16 state that kuģas and black sesamum spring from the body of Viṣṇu and the Vispudharmottara I. 139.12 says that tilas and darbhas sprang from the perspiration and hair of Viṣṇu in the Boar incarna tion. The Matsya ( 22.89 ) says the same.
+ The Padmapurāņa (Srstikhaṇḍa 11.92 ) and Skanda VII1. 205.16 state that kuģas and black sesamum spring from the body of Viṣṇu and the Vispudharmottara I. 139.12 says that tilas and darbhas sprang from the perspiration and hair of Viṣṇu in the Boar incarna tion. The Matsya ( 22.89 ) says the same.
 
 The Garuda 941 (Pretakhaṇḍa 2.21-22) states that all the three gods dwell in kusa grass viz. Brahmā at its root, Viṣṇu in the middle and Sankara at the end and that brāhmaṇas, mantras, kuśas, fire, tulası leaf--these do not become nirmālya (stale and so unfit to be used again ) even when the same are employed again and again. But an exception is made by Gobhila 942 that those darbhas which are spread on the ground for placing piṇḍas on them or that are used in tarpana and those that are held in the hand while a man is answering the calls of nature should be given up (and not used again). The Viṣņu Dh, S. 79.2 and Väyu 75.41 provide that if kušas are not avail able, kāśa grass or Dūrvā may be substituted. The Skanda purāṇa VII (Prabhāsakhaṇḍa ) part 1.206.17 says that straight darbhas are used in giving gifts, at baths, in japa, homa, dinner and worship of gods, but they are double-folded when used in rites for pitṛs. The Skanda VII. 1. 205,16 provides that the top of darbhas is for divine rites, while darbha with the root and tip is meant for paityka rites. This is based on the Sat. Br. II. 4. 2.17 which states that the top of the darbha belongs to gods, the middle to men and the root part to the fathers,
 
