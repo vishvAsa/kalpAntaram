@@ -1239,273 +1239,103 @@ The question when the wives of ancestors became associated with the male ancesto
 
 If the offering of piṇḍas to women ancestors were borrowed from the Anvaṣṭakya this item would have figured in all sūtras just as Aṣṭakāśraddha does. It is rather more probable that the extension to women was a natural growth in course of time. Some of the smṛtis emphasize the participation of the wives of paternal ancestors in the _pārvaṇaśrāddha_ offerings. Satatapa states[^1062] : "In what is offered to the pitṛs after Sapiņdikaraṇa, the mother is a participant everywhere. A śräddha may be separately offered to the mother in the Anvaṣṭakā rites, in Vṛddhi-śrāddha, at Gayā and on the anniversary of the day of her death; but in other cases it is performed along with the husband'. It is stated by Bṛhaspati that the mother partakes of the śrāddha food along with her husband (i.e. the father of the performer); that the same rule applies to the paternal grandmother and the paternal great-grandmother[^1063]. The Kalpataru[^1064] and others held that the wives of the paternal ancestors were not _devatās_ in the pārvaņa-śrāddha, but they only enjoyed the ethereal food which came to the pitṛs, while Hemādri and other southern writers held that the mother and other female ancestors were among the devatās of pārvaņa-śräddha, but not the stepmother. There was a divergence of views whether the words 'mother', 'paternal grandmother' and 'paternal great-grand-mother' included the co-wives(_sapatnis_) of these, Hemadri (on śräddha pp. 97-104) has a long disquisition on this question. According to one view the step-mother, the co-wife of the _pitamahi_ and the co-wife of the _prapitāmahi_ would be included in the presentation formula (as quoted below), while according to Hemādri only the real mother, the real paternal grand-mother and the real paternal great-grandmother would ordinarily be included except on rare occasions such as a Mahālayaśrāddha or a śrāddha at Gayā[^1065].
 
-1062. सपिण्डीकरणादूर्ध्वं यत्पितृभ्यः प्रदीयते। सर्वत्रांशहरा माता इति धर्मेषु निश्रयः ॥ अन्वष्टकासु वृद्धाच गयायां च क्षयेऽहनि। मातुः श्राद्धं पृथकू कुर्यादन्यत्र पतिना सह ॥ शातातप q. by श्रा. प्र. p. 9, स्मृतिच (श्रा.) p. 369 as स्मृत्यन्तर.
+[^1062]: सपिण्डीकरणादूर्ध्वं यत्पितृभ्यः प्रदीयते। सर्वत्रांशहरा माता इति धर्मेषु निश्रयः ॥ अन्वष्टकासु वृद्धौ च गयायां च क्षयेऽहनि। मातुः श्राद्धं पृथक् कुर्यादन्यत्र पतिना सह ॥ शातातप q. by श्रा. प्र. p. 9, स्मृतिच (श्रा.) p. 369 as स्मृत्यन्तर.
 
-1063. स्वेन भ; सह श्राद्धं माता भुडे स्वधामयम्। पितामही च स्वेनैव तथैव प्रपिता मही॥ बृहस्पति q. by स्मृतिच. (श्रा.), p. 369, हेमाद्रि (श्रा.) p. 99, श्रा. प्र. p. 9. ___1064. न सपत्नीकानां देवतात्वमिति कल्पतरुप्रभृतयः। हेमाद्रिप्रभृतयो दक्षिणात्यास्तु... एकस्यामेव श्राद्धव्यक्तौ पितॄन् तद्योषितश्च देवतात्वेनोदिशेदिति विधीयते। श्रा.प्र. pp. 9-10, The argument of those who hold the former view is 'सपत्नीकपितरमुकशमनि त्युल्लेखे पितुरेव देवतात्वं भवेन तु विशेषणीभूतायाः पत्न्याः इति ।। टोडरानन्द (श्राद्धसौख्य) folio 3a. The श्राद्धतत्व p. 190 similarly says 'उक्तश्रुत्यादिषु पित्रादीनां प्रत्येक निर्देशात् , अत्र पितरो देवता इत्यापस्तम्बसूत्रे देवता इति बहुवचननिर्देशात्, न योषिभ्य इत्यादिवचनाच्च पित्रादीनां प्रत्येकेन पत्नीनिरपेक्षेण च देवतात्वम् ।।. Vide n. 783 for the आप. ध. सू. passage. न योषियः -is apparently गोभिलस्मृति II. 102 'न योषिद्भ्यः पृथग्दद्यादवसानदिनाहते। स्वभर्तृपिण्डमात्राच्च तृप्तिरासां यतः स्मृता . The कल्पतरु (श्राद्धकाण्ड p.4) says : नापि पित्रादेः सपत्नीकस्य देवतात्वं तथात्वे प्रमाणाभावात् । प्रत्युत न योषिद्भ्यः पृथद्द्यादवसानदिमादृते । स्वभर्तृपिण्डमात्राभ्यास्तृप्तिरासां यतः स्मृता.... इति शातातपवचने भर्तृसम्बन्धि पिण्डभागस्यैव पत्नीतृप्तिहेतुत्वेनाभिधानाद् विपरीतमेव प्रमाणमस्ति । कल्पतरू, श्रा. p. 260.
+[^1063]: स्वेन भर्त्रा सह श्राद्धं माता भुङ्क्तेस्वधामयम्। पितामही च स्वेनैव तथैव प्रपितामही॥ बृहस्पति q. by स्मृतिच. (श्रा.), p. 369, हेमाद्रि (श्रा.) p. 99, श्रा. प्र. p. 9.
 
-1917
+[^1064.]: न सपत्नीकानां देवतात्वमिति कल्पतरुप्रभृतयः। हेमाद्रिप्रभृतयो दक्षिणात्यास्तु... एकस्यामेव श्राद्धव्यक्तौ पितॄन् तद्योषितश्च देवतात्वेनोद्दिशेदिति विधीयते। श्रा.प्र. pp. 9-10, The argument of those who hold the former view is 'सपत्नीकपितरमुकशर्मन्नि त्युल्लेखे पितुरेव देवतात्वं भवेन्न तु विशेषणीभूतायाः पत्न्याः इति'।। टोडरानन्द (श्राद्धसौख्य) folio 3a. The श्राद्धतत्व p. 190 similarly says 'उक्तश्रुत्यादिषु पित्रादीनां प्रत्येकनिर्देशात् , अत्र पितरो देवता इत्यापस्तम्बसूत्रे देवता इति बहुवचननिर्देशात्, न योषिद्भ्य इत्यादिवचनाच्च पित्रादीनां प्रत्येकेन पत्नीनिरपेक्षेण च देवतात्वम् ।।. Vide n. 783 for the आप. ध. सू. passage. न योषिद्भ्यः -is apparently गोभिलस्मृति II. 102 'न योषिद्भ्यः पृथग्दद्यादवसानदिनादृते। स्वभर्तृपिण्डमात्राच्च तृप्तिरासां यतः स्मृता'॥  The कल्पतरु (श्राद्धकाण्ड p.4) says : नापि पित्रादेः सपत्नीकस्य देवतात्वं तथात्वे प्रमाणाभावात् । प्रत्युत न योषिद्भ्यः पृथद्ग्द्यादवसानदिनादृते । स्वभर्तृपिण्डमात्राभ्यास्तृप्तिरासां यतः स्मृता.... इति शातातपवचने भर्तृसम्बन्धि पिण्डभागस्यैव पत्नीतृप्तिहेतुत्वेनाभिधानाद् विपरीतमेव प्रमाणमस्ति । कल्पतरू, श्रा. p. 260.
 
-जास्त दाबधान Bhandarkar Oriental Research Institute
+[^1065]: तदेवमेतन्निर्व्यूढं यद्वहुपत्नीकपित्रादिदेवत्यामावास्यादिसाधारणकालिकश्राद्ध प्रयोगे अस्मत्पितर्यज्ञदत्तशर्मन् वासिष्ठगोत्रामुकामुकनामिकाभिर्वासिष्ठगोत्राभिः पत्नीभिः सहैतनुभ्यमन्त्रमित्यादिभिः स्त्रीपुंसोद्देशोपलक्षितैर्वाक्यैरनुष्ठानं कर्तव्यमिति।. This is the पूर्वपक्ष view. हेमाद्रि replies 'अत्र सिद्धान्तोऽभिधीयते। तत्र तावन्मुख्य पार्वणे जननीव्यतिरिक्तानां पितृपत्नीनां न सहोद्देशः कार्यः। नापि पितृजननीव्यतिरिक्तानां पितामहपत्नीनां नापि पितामहजननीव्यतिरिक्तानां प्रपितामहपत्नीनाम् । हेमाद्रि (श्रा.) p. 100. हेमाद्रि adds (p. 102) 'यदा तु नानापितृतृप्तिकामनया विशिष्टे महालयादिकालविशेषे गयादि तीर्थविशेषे वा श्राद्धं कुर्यात्तदा पुत्रवतीनामपुत्राणां वा मातृसपत्नीनामपि श्राद्धं कुर्यात्'॥.
 
-476
-
-History of Dharmasastra
-
-[Vol.
+As regards the mantra to be recited when offering each of the piṇḍas there is some divergence of views, which reaches far into antiquity. The piṇḍa[^1066] is offered to each ancestor after stating his gotra, his relationship to the performer and name (all in the vocative). According to several writers the form of the presentation of the piṇḍa is 'this is for thee, O Father! N.N. (by name) and so and so by gotra.' In the Tai. S. I. 8.5 1, in the Ap. M. P. II. 20.13 and in some sutras, the following is added 'and for those who follow thee' (ye ca tvām-anu)[^1067]. In the Gobhila-gṛhya IV. 3.6 and Khādiragṛhya the formula is still longer 'This piṇḍa is thine, O father! and of those who follow thee and of those whom thou followest. [^1068] To thee, Svadha!'. The Bhāradvaja[^1069] gr. II. 12 introduces slight changes.
 
 
+[^1066]: अर्घदानेऽथ सङ्कल्पे पिण्डदाने तथा क्षये । गोत्रसम्बन्धनामानि यथावत्प्रतिपाद येत् ॥ पारस्कर q. by अपरार्क p. 506, हेमादि (श्रा. p. 1434), श्रा. प्र. p. 258 which explains 'सङ्कल्पे अन्नत्यागे'. The form of the address will be 'अमुकगोत्रास्मत्पितरमुकशर्मन् एतत्तेऽन्नं (or एष ते पिण्डः) स्वधा नम इदममुकगोत्रायास्मत्पित्रे अमुकशर्मणे न ममेति'। हेमाद्रि (श्रा. p. 1436). It should be noted that this formula is to be employed only by the Vajasaneyins.
 
-As regards the mantra to be recited when offering each of the piṇḍas there is some divergence of views, which reaches far into antiquity. The piṇḍa 1066 is offered to each ancestor after stating his gotra, his relationship to the performer and name (all in the vocative). According to several writers the form of the presentation of the piṇḍa is 'this is for thee, O Father! N.
+[^1067]: एतत्ते ततासौ ये च त्वामनु, एतत्ते पितामहासौ ये च त्वामनु, एतत्ते प्रपितामह ये च त्वामनु। आप. म. पा. II. 20. 13. Vide note 781 for तै. सं. passages and n. 1053 for आश्व. श्रौ. passage.
 
-N. (by name) and so and so by gotra.' In the Tai. S. I. 8.5 1, in the Ap. M. P. II. 20.13 and in some sutras, the following is added
+[^1068]: असाववनेनिश्व ये चात्र त्वामनु यांश्च त्वमनु तस्मै ते स्वधेति । गोभिलगृह्य III.3.6.and खादिरगृह्य III. 5. 17. The टोडरानन्द (श्राद्धसौख्य folio 77a) gives the Formulas for followers of यजुर्वेद and सामवेद as follows: अमुकगोत्रपितरमुकशर्मन्नेतत्तेऽन्नं स्वधेति यजुर्वेदिनामुत्सर्गवाक्यम् । अमुकसगोत्र पितरमुकदेवशर्मन्नतत्तेन्नं ये चात्र त्वामनु यांश्च त्वमनु तस्मै ते स्वधेति छन्दोगानाम् ।; compare श्राद्धतत्त्व p. 237 and श्रा.क्रि.कौ  p. 70 for similar formulas.
 
-and for those who follow thee' (ye ca tvām-anu). 1067 In the Gobhila-gṛhya IV. 3.6 and Khādiragṛhya the formula is still longer 'This piṇḍa is thine, O fatherland of those who follow thee and of those whom thou followest. 1068 To thee, Svadha!'. The Bhāradvaja 1069 gr. II. 12 introduces slight changes. It has been already noted above (n. 781) how the Sat. Br. disapproves of
+[^1069]: यांश्च त्वमत्रान्वसि ये च त्वामनु । भारद्वाजगृह्य II.12.
 
-1065. तदेवमेतशिव्यूढं यद्वहुपत्नीकपित्रादिदेवत्यामावास्यादिसाधारणकालिकश्राद्ध प्रयोगे अस्मत्पितर्यज्ञदत्तशर्मन् वासिष्ठगोत्रामुकामुकनामिकाभिवासिष्ठगोत्राभिः पत्नीभिः सहतनुभ्यमन्त्रमित्यादिभिः स्त्रीपुंसोद्देशोपलक्षितर्वाक्यैरनुष्ठानं कर्तव्यमिति।. This is the पूर्वपक्ष view. हेमाद्रि replies 'अत्र सिद्धान्तोऽभिधीयते। तत्र तावन्मुख्य पार्वणे जननी व्यतिरिक्तानां पितृपत्नीनां न सहोद्देशः कार्यः। नापि पितृजननीव्यतिरिक्तानां पितामहपत्नीनां नापि पितामहजननीव्यतिरिक्तानां प्रपितामहपत्नीनाम् । हेमाद्रि (श्रा.) p. 100. हेमाद्रि adds (p. 102) 'यदा तु नानापितृतृप्तिकामनया विशिष्टे महालयादिकालविशेष गयादि तीर्थविशेषे वा श्राद्धं कुर्यात्तदा पुत्रवतीनामपुत्राणां वा मातृसपत्नीनामपि श्राद्धं कुर्यात्।।.
+## Mantras at offering piṇḍas
 
-___1066. अर्घदानेऽथ सङ्कल्पे पिण्डदाने तथा क्षये । गोत्रसम्बन्धनामानि यथावत्प्रतिपाद येत् ॥ पारस्कर q. by अपरार्क p. 506, हेमादि (श्रा. p. 1434), श्रा. प्र. p. 258 which explains 'सङ्कल्पे अन्नत्यागे'. The form of the address will be 'अमुकगोत्रास्म
+It has been already noted above (n. 781) how the Sat. Br. disapproves of the usage of the Tai.s. in this matter, the reason being[^1070] that when the son offers a piṇḍa to his father and employs the formula 'this is thine and of those that follow thee', he would be included among those that follow the father and be thus offering a piṇḍa to himself, which is inauspicious. It is provided by Gobhila-gṛhya[^1071] that if he does not know the names of his ancestors he should put down the first piṇḍa with the Formula 'svadhā to the Fathers dwelling on the earth', (he should put down) the 2nd piṇḍa with the formula 'svadhā to the fathers dwelling in the air', the third with the formula ‘svadha to the Fathers dwelling in heaven' and should recite in a low voice the words 'Here, O Fathers, gladden yourselves, show your vigour each according to his own part.' Yama quoted by Kalpataru (on Sr. p. 203), following Gobhila provides generally (whether the ancestors be known or not) that the first piṇḍa should be offered to the father with the expression 'pṛthivi', the second to the grandfather in the aerial regions and the third to the paternal great-grandfather with the mantra 'dyaur darvi'. The Viṣṇu Dh.S. (73.17-19) has similar provisions, the mantras respectively being 'pṛthivi darvirakṣita', 'antarikṣam darvirakṣita,' dyaur-darvirakṣita'. Medhatithi on Manu III. 194 says (following ASv. Sr. and others) that if the names of the ancestors are not known he should simply say “O Father, Grandfather' &c. If the gotra be not known then he should employ the gotra name Kaśyapa[^1072].
 
-मुकशर्मन् एतत्तेऽनं (or एष ते पिण्डः) स्वधा नम इदममुकगोत्रायास्मत्पित्रे अमुकशर्मणे न ममेति। हेमाद्रि (श्रा. p. 1436). It should be noted that this formula is to be employed only by the Vajasaneyins.
+[^1070]: तदेतदमङ्गल्यमभिधानं भवति । यतोऽयं पिण्डदानं कुर्वाणः पुत्रादिः ये च त्वामनु इति मन्त्रेण येषां प्रमीतानां सहेत्याह तेषां पश्चाद्भूतः स्वयमेव सह भवति । अतश्चासो स्वस्मा एव पिण्डदानं करोतीति प्रतिभाति । हेमाद्रि (आ.) p. 1437.
 
-___1067. एतत्ते ततासौ ये च त्वामनु, एतत्ते पितामहासौ ये च त्वामनु, एतत्ते प्रपितामह ये च त्वामनु। आप. म. पा. II. 20. 13. Vide note 781 for तै. सं. passages and n. 1053 for आश्व. श्री. passage,
+[^1071]: यदि नामानि न विन्द्यात् स्वधा पितृभ्यः पृथिवीषद्भ्य इति प्रथमं पिण्डं निदध्यात् । स्वधा पितृभ्योऽन्तरिक्षसद्भ्य इति द्वितीयं स्वधा पितृभ्यो दिविषद्भ्य इति तृतीयं निधाय जपति अत्र पितरो मादयध्वं यथाभागमावृषायध्वमिति। गाभिलगृह्य IV.3.10-11q. by हेमाद्रि p. 1443 and श्रा. प्र. 260. Compare तै. सं. I. 8.5.1 एतत्ते तत... प्रपितामह ये च त्वामन्यत्र पितरो यथाभागं मन्दध्वम् ' and वाज. सं. II. 31 'अत्र पितरो मादयध्वं यथाभागमावृषायध्वम्।. The आश्व. श्री. सू. II.6.24 says 'नामान्यविद्वांस्ततपितामह प्रपितामहेति'.
 
-1068. असाववनेनिश्व ये चात्र वामनु यांश्च त्वमनु तस्मै ते स्वधेति । गोभिलगृह्य III,
-
-and खटिरगृह्य III. 5. 17. The टोडरानन्द (श्राद्धसौख्य folio 77a) gives the Formulas for followers of यजुर्वेद and सामवेद as follows: अमुकगोत्रपितरमुकशर्मना जो स्वधेति यजुर्वदिनामुत्सर्गवाक्यम् । अमुकसगोत्र पितरमुकदेवशर्मतत्तेनं ये चात्र वामन यांश्च त्वमनु तस्मै ते स्वधेति छन्दोगानाम् ।; compare श्राद्धतत्त्व p. 237 and श्रा.कि को 1 p. 70 for similar formulas.
-
-1069. यांश्च त्वमत्रान्यसि ये च त्वामनु । भारद्वाजगृह्य II, 12,
-
-POONA
-
-FOUNDED 1917
-
-तस्विना
-
-वधीतमस्तु॥
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Mantras at offering piṇḍas
-
-477
-
-- the usage of the Tai.s. in this matter, the reason being 10ro that when the son offers a piṇḍa to his father and employs the formula 'this is thine and of those that follow thee, he would be included among those that follow the father and be thus offering a piṇḍa to himself, which is inauspicious. It is provided by Gobhila-gṛhya 1071 that if he does not know the names of his ancestors he should put down the first piṇḍa with the Formula
-
-svadhā to the Fathers dwelling on the earth', (he should put down) the 2nd piṇḍa with the formula 'svadhā to the fathers dwelling in the air', the third with the formula ‘svadha to the Fathers dwelling in heaven' and should recite in a low voice the words 'Here, O Fathers, gladden yourselves, show your vigour each according to his own part.' Yama quoted by Kalpataru (on Sr. p. 203), following Gobhila provides generally (whether the ancestors be known or not) that the first piṇḍa should be offered to the father with the expression prthivi', the second to the grandfather in the aerial regions and the third to the paternal great-grandfather with the mantra 'dyaur darvi'. The Viṣṇu Dh.S. (73.17-19) has similar provisions, the mantras respectively being prthivi darviraksita', 'antariksam darvi raksita,' dyaur-darviraksita'. Medhatithi on Manu III. 194 says (following ASv. Sr. and others) that if the names of the ancestors are not known he should simply say “O Father, Grandfather' &c. If the gotra be not known then he should employ the gotra name Kaśyapa. 1072
+[^1072]: गोत्राज्ञानेप्याह व्याघ्रपादः-गोत्रनाशे तु कश्यपः-इति । गोत्राज्ञाने कश्यप गोत्रग्रहणं कर्तव्यम् । कश्यपसगोत्रस्य सर्वसाधारणत्वात् । तथा च स्मृत्तिः । तस्मादाहुः सर्वाः प्रजाः काश्यप्य इति । स्मृतिच. (श्रा. p. 481); vide श्रा.प्र. p. 260 for a similar provision. The शूद्रकमलाकर p. 49 says: यद्यपि तस्मादाहुः सर्वाः प्रजाः काश्यप्य इति शतपथश्रुतेः ... कश्यप गोत्रमस्ति तथापि श्राद्ध एव तत् ।। 'सर्वाः प्रजाः काश्यप्य:' These words occur in शतपथबाह्मण VII 5.1.5.
 
 Certain matters pertaining to piṇḍas must be stated in one place once for all. There is a good deal of discussion about the
+size of the piṇḍas. Marici (quoted by Aparārka p. 507) provides that in pārvaņa-śrāddha the piṇḍa should be of the size of undried _āmalaka_ fruit, of the size of a _bilva_ fruit in Ekoddiṣṭa, - in navaśrāddhas the piṇḍa should be bigger than in any one of the preceding when offered every day during the days of impurity on death. The Skandapurāņa says that piṇḍas should be of such a size as would enable a calf two years old to put it easily into its mouth[^1073]. Angiras (q. by Sm. C. p. 475 and Hemādri, śrāddha p. 1429) prescribes that the piṇḍas may be of the size of _kapittha_ or _bilva_ fruit or of the size of a hen's egg or of an _āmalaka_ or _badara_ fruit. In the Maitrāyaṇīya-sūtra[^1074] it is said that the piṇḍa for the paternal grandfather should be bigger than that for the father and should be in the middle (of the three piṇḍas), that the piṇḍa for the great-grandfather should be the largest of all. The next point is from what materials the piṇḍas were to be made. If piṇḍas were offered before _agnaukaraṇa_ they were to be made from the boiled rice (caru) prepared for agnaukaraṇa. If made after _agnaukaraṇa_, the piṇḍas were to be made from the cooked food (remaining after agnaukaraṇa) mixed with sesamum (vide Yāj. I. 242). If piṇḍas were to be offered after the brāhmaṇas took their dinner, the piṇḍas were to be made from the remainder of the food cooked for the brāhmaṇas which was to be mixed with the boiled rice for agnaukaraña as stated in Kātyāyana's Śrāddhasūtra[^1075]. The piṇḍas were to be placed according to the Matsya[^1076] on darbhas spread on the ground cleaned with water mixed with cow's dung and urine. There were others such as Devala, the Brahmapurāņa and Bhaviṣyapurāṇa that prescribed that an altar, either circular or square, of sand was to be raised on ground 4 fingers in height and one cubit in extent near the plates from which brāhmaṇas were to eat and thereon _darbhas_ were to be placed and then piṇḍas.
 
-1070. तदेतदमङ्गल्यमभिधानं भवति । यतोऽयं पिण्डदानं कुर्वाणः पुत्रादिः ये च त्वामनु इति मन्त्रेण येषां प्रमीतानां सहेत्याह तेषां पश्चातः स्वयमेव सह भवति । अतश्चासो स्वस्मा एव पिण्डदानं करोतीति प्रतिभाति । हेमाद्रि (आ.) p. 1437.
+[^1073]: द्विहायनस्य वत्सस्य विशन्त्यास्यं यथासुखम् । तथा कुर्यात्प्रमाणेन पिण्डान् व्यासेन भाषितम् ॥ स्कन्द VII. 1. 206. 41q. by स्मृतिच. (श्रा. p. 475) and हेमाद्रि (श्रा.) p. 1429 as व्यास's.
 
--1071. यदि नामानि न विन्द्यात् स्वधा पितृभ्यः पृथिवीषद्भ्य इति प्रथम पिण्डं निद ध्यात् । स्वधा पितृभ्योऽन्तरिक्षसभ्य इति द्वितीयं स्वधा पितृभ्यो दिविषद्भ्य इति तृतीयं निधाय जपति अत्र पितरो मादयध्वं यथाभागमावृषायध्वमिति। गाभिलगृह्य IV.3.10-11q. by हेमाद्रि p. 1443 and श्रा. प्र. 260. Compare तै. सं. I. 8.5.1 एतत्ते तत... प्रपितामह ये च त्वामन्यत्र पितरो यथाभागं मन्दध्वम् ' and वाज. सं. II. 31 'अत्र पितरो मादयध्वं यथाभागमावृषायध्वम्।. The आश्व. श्री. सू. II.6.24 says 'नामान्यविद्वांस्ततपितामह प्रपितामहेति'.
+[^1074]: द्रर्व्योद्धृत्योद्धृतेषु पिण्डान्निदधाति पितुर्नाम्नाऽसावेतत्ते ये चात्र त्वानु तस्मै तेभ्यश्च स्वधेति प्रथमं, पितामहस्य नाम्ना स्थवीयांसं मध्यमं, प्रपितामहनाम्ना स्थविष्ठं दक्षिणं द्वयोः परय्प्र्नामनी गृह्णन् मूलदेशे लेपं निर्मार्ष्टि । मैत्रायणीयसूत्र q. by हेमाद्रि (श्रा.) p. 1430,श्रा.प्र. p. 257.
 
-1072. गोत्राज्ञानेप्याह व्याघ्रपादः-गोत्रनाशे तु कश्यपः-इति । गोत्राज्ञाने कश्यप गोत्रग्रहणं कर्तव्यम् । कश्यपसगोत्रस्य सर्वसाधारणत्वात् । तथा च स्मृत्तिः । तस्मावाहुः सर्वान प्रजाः काश्यप्य इति । स्मृतिच. (श्रा. p. 481); vide श्रा. म. p. 260 for a similar provision. The शूद्रकमलाकर p. 49 says: यद्यपि तस्मादाहुः सर्वाः प्रजाः काश्यप्य इति शतपथश्रुतेः ... कश्यप गोत्रमस्ति तथापि श्राद्ध एव तत् ।। 'सर्वाः प्रजाः काश्यप्य: Thesel words occur in शतपथबाह्मण VII 5.1.5.
+[^1075]: तृप्ताः स्म इत्यनुज्ञातः शेषमन्नमनुज्ञाप्य सर्वमन्नमेकतोद्धृत्योच्छिष्टसमीपे दरभेषु । त्रींस्त्रीन्पिण्डानवनेज्य दद्यात् । श्राद्धसूत्र of कात्या. III.
 
-POONA
+[^1076]: उपलिप्ते महीपृष्ठे गोशकृन्मूत्रवारिणा । निधाय दर्भान् विधिवद्दक्षिणाग्रान्प्रयत्नतः सर्ववर्णेन चान्नेन पिण्डांस्तु पितृयज्ञवत् । मत्स्यपुराण 16. 45-46.
 
-FOUNDED
+## Placing of piṇḍas
 
-Bhandarkar Oriental Research Institute
+The Vāyupurāņa provides that a line should be drawn on the altar or the ground with the root of a _darbha_ to the accompaniment of the following mantras viz.[^1077] 'I destroy whatever is impure; I have killed all _asuras_, _dānavas_, rakṣasas, yakṣas, piśācas(goblins), _guhyakas_ and yātudhānas' and the mantra 'struck down are the asuras and rakṣasas sitting on the Vedi)'. In Ap. Sr. I. 10.2, Manu III. 217, Viṣṇu Dh. S. 73.17-19, Yama (q. by Hemadri p. 1440), the Kalpataru ( on Sr. p. 203), Mahārṇavaprakāśa (q. by Hemādri), Hemādri ( Śr. pp. 1440-42 ) and Sr. P. pp. 266-267 reference is made to adoration of the six seasons and the obeisance (_namaskāra_) to the pitṛs in the words 'namo vah pitaro' (Vaj. S. II. 32)[^1078] and the repetition of three mantras when each of the three piṇḍas is offered, some holding that the seasons were to be deemed as identified with '_rasa_', _śoṣa_' and four other words (in Vaj. S. II. 32), while others held that the adoration of the seasons is quite distinct from the namaskāras to the pitṛs. In the śaunakātharvanaśrāddha-kalpa, the piṇḍas are offered in the reverse order i.e. first to the great-grand father, then to the grandfather and then to the father (Hemādri on śrāddha p. 1442). Ap. Sr. I. 9. 4 refers to this method in 'pitāmahaprabhrtin vā'.
 
-478
+[^1077]: निहन्मि सर्वे यदमेध्यवद्भवेद्धताश्च सर्वेऽसुरदानवा मया। रक्षांसि यक्षाश्च पिशाच सङ्घा हता मया यातुधानाश्च सर्वे ॥ अनेन मन्त्रेण सुसंयतात्मा वेदीं च सर्वां सकृदुल्लिखेच्च ॥ ब्रह्मपुराण q..by कल्पतरु (श्रा.) p. 214,216, श्रा. प्र. p.251. This is cited as from ब्रह्माण्डपुराण by अपरार्क p.478 ( which reads सुसंयतात्मा तिलान् क्षिपददिक्ष तथा विदिक्षु). The verses are वायुपुराण 75.45-46 and are mentioned as from वायुपुराण in श्राद्धतत्त्व p. 235. Both अपरार्क and श्रा. प्र. add the vedic mantra 'अपहताः'। (वाज. सं. II. 29) here.
 
-History of Dharmaśāstra
+[^1078]: पूर्वपिण्डं प्रयच्छेत्तु पित्र्यं च पृथिवीति च । पितामहाय त्वपरमन्तरिक्षे च दापयेत् ॥ प्रपितामहाय च ततस्तृतीयं तु निवेदयेत् ॥ द्यौर्दर्विरिति मन्त्रेण श्रुतिरेषा सनातनी॥ यम q. by कल्पतरु (श्रा. p. 203), हेमाद्रि (श्रा. p. 1440). उच्छिष्टसंनिधौ दक्षिणाग्रेषु दर्भेषु पृथिवी दर्विरक्षिता इत्येकं पिण्डं पित्रे निदध्यात् । अन्तरिक्षं दर्विरक्षिता इति द्वितीयं पितामहाय । द्यौर्दर्विरक्षिता इति तृतीयं प्रपितामहाय। विष्णुधर्मसूत्र 73. 17-19. आचम्योदक् परावृत्य त्रिरायम्य शनैरसून् । षडृतूंश्च नमस्कुर्यात् पितॄनेव च मन्त्रवित् ॥ मनु III. 217. The मन्त्र is : पृथिवी दर्विरक्षिता तृप्तिः स्वधानुपदस्ता तां पृथिवी दर्विमक्षितां तृप्तिं स्वधामनु पदस्तामग्निरिव पृथिवीमुपजीवासौ ये चात्र त्वामन्वेषा ते स्वधा. In the other two mantras in honour of पितामह and प्रपितामह substitute अन्तरिक्षं and द्यौः for पृथिवी, वायुः and सूर्यः for आग्निः wherever necessary. The meaning is 'the earth is a ladle giving inexhaustible gratification' &c. The काठकगृह्य (63. 14) provides 'पृथिवी दर्विरिति निपरणं कुर्यात्' and the कौशिकसूत्र (88.8-10) also mentions the three mantras uttered at the time of offering the three piṇḍas (viz. पृथिवी दर्विरक्षिता, अन्तरिक्षं दर्विरक्षिता, द्यौ दर्विरक्षिता). Compare काठकसंहिता IX.23.
 
-1 Vol. size of the piṇḍas. Marici (quoted by Aparārka p. 507) provides that in pārvaņa-śrāddha the piṇḍa should be of the size of
+About the final disposal (_pratipatti_) of the piṇḍas several views were entertained. We have already seen (note 780 ) that the Vāj. S. and several sūtras provided that the middle one of the three piṇḍas for paternal ancestors was to be eaten by the wife of the performer of the śrāddha if she was desirous of a son. Manu (III. 262-263) provides that the _dharmapatni_ (i.e, a wife of the same varṇa and married before any other wife ) should eat the middle piṇḍa with the mantra 'ādhatta pitaro garbham' (q. in n. 780) and then she gives birth to a son who lives long, secures fame, is intelligent and obtains wealth and progeny and who is of a good and righteous turn of mind. The same rule is provided for by the Laghu-Ašvalāyana 23.83, the Kūrma II. 2. 71, 76, Matsya 16,52, Vāyu 76,31, Viṣṇudharmottara I. 1718, 220, 149, Padma (sṛṣṭikhaṇḍa 9.121) and other purāņas. As regards piṇḍas in general, the Āśv. Sr. (11. 7. 14-17) says that the other two piṇḍas (except the middle one ) should be cast into water or in fire or they may be eaten by a brāhmaṇa who has suddenly developed a distaste for food or they may be partaken by one who has been suffering from a serious disease (such as tuberculosis or leprosy ) and that in the latter case the man either recovers or dies. The Gobhila-gr. (IV. 3, 31-34) provides that the piṇḍas should be thrown into water or in fire or should be given to a brāhmaṇa or a cow to eat. Manu (III. 260-261 ) says the same and adds that they may be given to a goat for eating and that some allow them to be devoured by birds. Yāj. I. 257, Matsya 16.52-53, and Padma[^1079] mention the same five ways of disposal but the last adds one more viz. placing them near a mound of earth. The Varahapurāņa[^1080] (190.121 ) says that the performer may eat the first piṇḍa himself, he should give the middle to his wife and the third he should cast into water. The Anušāsanaparva (125.25.26) provides that the first and the third should be thrown into water or fire and the middle piṇḍa should be eaten by the wife. It is provided by Bṛhaspati that if the wife is suffering from a disease or is already pregnant or is staying in some other place, then an old bull or a goat may eat the middle piṇḍa (quoted by Sm. C. on Sr. p. 486, Kalpataru on Śr. p. 224).
 
-undried āmalaka fruit, of the size of a bilva fruit in Ekoddiṣṭa, - in navaśrāddhas the piṇḍa should be bigger than in any one of
+[^1079]: पिण्डांश्व गोजविप्रेभ्यो दद्यादग्नौ जलेपि वा। वप्रान्ते वाथ विकिरेदापोभिरथ वाहयेत् ॥ पद्म (सृष्टि 9. 120); अपरार्क p. 550 and हेमाद्रि read विप्रान्ते and वयोभिरथ वाशयेत् (p. 1504). That birds should be allowed to eat the piṇḍas is natural since it was believed as stated above (p. 339) that the pitṛs wander about in the form of birds. Vide कूर्म II. 22.83 for a similar verse.
 
-the preceding when offered every day during the days of impu rity on death. The Skandapurāņa says that piṇḍas should be of such a size as would enable a calf two years old to put it easily into its mouth. 1073 Angiras (q. by Sm. C. p. 475 and Hemādri, śrāddha p. 1429) prescribes that the piṇḍas may be of the size of kapittha or bilva fruit or of the size of a hen's egg or of an āmalaka or badara fruit. In the Maitrāyaṇīya-sūtra 1094 it is said that the piṇḍa for the paternal grandfather should be bigger than that for the father and should be in the middle (of the three piṇḍas), that the piṇḍa for the great-grandfather should be the largest of all. The next point is from what materials the piṇḍas were to be made. If piṇḍas were offered before agnau karaṇa they were to be made from the boiled rice (caru) prepared for agnaukaraṇa. If made after agnaukaraṇa, the piṇḍas were to be made from the cooked food (remaining after agnaukaraṇa) mixed with sesamum (vide Yāj. I. 242). If piṇḍas were to be offered after the brāhmaṇas took their dinner, the piṇḍas were to be made from the remainder of the food cooked for the brāhmaṇas which was to be mixed with the boiled rice for agnaukaraña as stated in Kātyāyana's Śrāddha sūtra 1075 The piṇḍas were to be placed according to the Matsya 1076 on darbhas spread on the ground cleaned with water mixed with cow's dung and urine. There were others such as Devala, the Brahmapurāņa and Bhavisyapurāṇa that prescribed that an altar, either circular or square, of sand was to be raised on ground 4 fingers in height and one cubit in extent near the plates from which brāhmaṇas were to eat and thereon darbhas
+[^1080]: भक्षयेत् प्रथमं पिण्डं पत्न्यै देयं तु मध्यमम्। तृतीयमुदके दद्याछ्राद्धे एवं विधि: स्मृतः॥ वराहपुराण 190.121.
 
-1073. द्विहायनस्य वत्सस्य विशन्त्यास्यं यथासुखम् । तथा कुर्यात्प्रमाणेन पिण्डान् व्यासेन gall fra VII, 1. 206. 41 q. by Fuâa. (str. p. 475 ) and gaÊ ( 1.) p. 1429 as sy ', ___1074. योद्धृत्योद्धृतेषु पिण्डानिदधाति पितुर्नाम्नाऽसावेतत्ते ये चात्र त्वानु तस्मै भ्यश्च स्वधेति प्रथम, पितामहस्य नाम्ना स्थवीयांसं मध्यम, प्रपितामहनाम्ना स्थविष्ठं दक्षिणं gut: urhali ya magas faniie i arram q. by Eag (971.) p. 1430,
+The Viṣṇudharmottara (I. 141, 8) prescribes that when a śrāddha is performed at a _tirtha_, the piṇḍas should be cast into the sacred water. The Anušāsanaparva 125. 38-40 and some of the purāṇas such as Vāyu (76.32-34 ) and Brahma (220.150–152) provide that certain consequences follow from the disposal of piṇḍas in one way or another viz. the best worlds by giving piṇḍas to cows, intellect and fame from casting into water, long life from offering them to birds &c. Vide also Brahmāṇḍa (upodghāta, chap. 12. 31-35) which provides that if given to cows the result is best complexion, if to cocks then delicacy. long life if given crows. In this connection it should be noted that piṇḍas of rice or of flour were not to be offered in all śrāddhas. The Śrāddha-kalpalatā (pp. 86-89 ) has a long discussion about the śrāddhas in which the offering of piṇḍas of food is forbidden. For example, it quotes Pulastya to the effect that in śrāddhas performed on the two _ayana_ days, on the two equinoctial days, on any sankrānti, no piṇḍas are to be offered, so also in śrāddhas on Ekādaśi, Trayodaśi, on Maghā and Krttikā nakşatras, if a man desires to have sons and wealth.
 
-T. 9. p. 257.
+On the question as to what is the principal item in the śrāddha there are three views. Some, like Govindaraja[^1081], hold that feeding of brāhmaṇas is the principal thing and they rely on Manu III. 129 which says 'One may feed even a single learned brāhmaṇa in a rite for gods and manes and not many who do not know vedic mantras; by doing so he reaps abundant reward'. Here the reward or fruit is associated with feeding a learned brāhmaṇa. There is a maxim[^1082] of the Pürvamimāṁsā that whatever is mentioned in proximity with an action that has a reward or fruit but has no special reward of its own, is subsidiary (_anga_) to what is declared to have a reward.' Besides, there is no piṇḍadāna in certain śrāddhas such as āmaśrāddha, śrāddha on the Yugādi days[^1083].
 
-1075. gar: F# Eduara: ŞQATAUFICT Fiahaigulier qug त्रींस्त्रीनपिण्डानवनेज्य दद्यात् । श्राद्धसूत्र of कात्या. II.
+[^1081]: पुष्कलं फलमाप्नोतीत्यभिधानात् बाह्मणस्य भोजनमत्र प्रधानं पिण्डदानादि त्वङ्गमित्यवसीयते । गोविन्दराज on मनु III. 129 (Mandlik's ed.). कुल्लूक on the same verse refers to this opinion.
 
-_1076, उपलिप्ते महीपृष्ठे गोशकृन्मूत्रवारिणा । निधाय वर्भान विधिवदक्षिणामान्प्रयत्नतः । Fraaura arela queixa fuau i TTTT 16. 45-46.
+[^1082]: The न्याय is फलवत्संनिधावफलं तदङ्गम् mentioned by शबर on जे. IV. 4. 19 and by शङ्कर on वेदान्तसूत्र II, 1. 14. Vide जै. IV. 4. 29–38.
 
-NS
+[^1083]: तथा च पुलस्त्यः । अयनद्वितये श्राद्धं विषुवद्द्वितये तथा । युगादिषु च सर्वासु पिण्ड्निर्वपणादृते ॥ इति । कर्तव्यमिति शेषः । स्मृतिच. (श्रा.) p. 369; vide हेमाद्रि (श्रा.)  pp.334-336.
 
-FOUNDED
+Others like Karka hold the view that piṇḍadāna is the principal item in śrāddha. They rely upon the fact that in the śrāddha at Gayā it is the offering of piṇḍas that is the most important matter and upon the fact that in the Viṣṇudharmasūtra (78. 52-53, and 85. 65-66) and in several Purāṇas such as the Varāha (13.50), Viṣṇu (III. 14.22-23), Brahma (220.31-32), Viṣṇudharmottara (I. 145.3-4) the pitṛs are stated to have expressed a deep yearning for a son who would offer them piṇḍas at Gayā and water on sacred rivers &c. (vide note 911). Further support is sought for this view in the fact that in the śrāddha on the birth of a son and in śrāddha offered even by a good Śūdra the feeding of brāhmaṇas is forbidden, A third view is that both the feeding of brähmaṇas and the offering of piṇḍas are the principal matters in a śräddha. The Gobhila-smṛti, after stating[^1084] the other two views and some of the reasons therefor, tells us that the author of it is himself in favour of this third view. In cases where the word śrāddha is employed and there is neither brāhmaṇa feeding nor piṇḍadāna as in Daiva śrāddha, the word śrāddha is applied in a secondary sense (_gauṇa_). Vide Hemādri (śraddha) pp. 157-160. In the Dharmapradipa it is said that among the followers of the Yajurveda (i.e. Vājasaneyins) the offering of piṇḍas is principal, among the followers of the Ṛgveda the feeding of brāhmaṇas is principal, while among the followers of the Sāmaveda both are principal. In this way śrāddha partakes of two characters viz. it is a _yāga_ (sacrifice) and also[^1085] a gift (dāna). Haradatta, Hemādri, Kapardi and others appear to hold that all three (bhojaṇa piṇḍadāna and agnaukaraṇa) are principal. Vide Samskäraratnamālā p. 1003.
 
-1917
+The Matsyapuräṇa says in a famous passage 'ancestors from the fourth (i.e. the father, grand-father and great-grand father of the great-grandfather of performer ) are entitled only to the wipings of the articles of food (sticking to the hand of the performer of śrāddha);
 
-Bhandarkar Oriental Research InstituteIV1
+[^1084]: प्राधान्यं पिण्डदानस्य केचिदाहुर्मनीषिणः। गयादौ पिण्डमात्रं तु दीयमाननिदर्शनात्॥ भोजनस्य प्रधानत्वं वदन्त्यन्ये महर्षयः। ब्राह्मणानां परीक्षायां महायज्ञे प्रदर्शनात् । आमश्राद्धविधानस्य विना पिण्डैः क्रियाविधिः । तदालभ्याप्यनध्यायविधानश्रवणादपि ॥ विद्वन्मतमुपादाय ममाप्येतद्धृदि स्थितम्। प्राधान्यमुभयोर्यस्मात्तस्मादेष समुच्चयः॥ गोभिलस्मृति III. 160-163.
 
-Placing of piṇḍas
+[^1085]: धर्मप्रदीपेपि। यजुषां पिण्डदानं तु बह्वृचानां द्विजार्चनम्। श्राद्धशब्दाभिधेयं । स्यादुभयं सामवेदिनाम् ॥ तञ्च पितृन्यजेत पितृभ्यो दद्यादित्युभयप्रयोगदर्शनाद्यागदानोभयात्मकम् । निर्णयसिन्धु III. उत्तरार्ध p. 372.
 
-479
+## Persons that are lepabhājaḥ
 
-were to be placed and then piṇḍas. The Vāyupurāņa provides that a line should be drawn on the altar or the ground with the root of a darbha to the accompaniment of the following mantras viz, 1077 I destroy whatever is impure; I have killed all asuras, danavas, raksasas, yaksas, pisacas(goblins), guhyakas and yātudhānas' and the mantra 'struck down are the asuras and raksasas sitting on the Vedi)'. In Ap. Sr. I. 10.2, Manu III. 217, Viṣṇu Dh. S. 73.17-19, Yama (q. by Hemadri p. 1440), the Kalpataru ( on Sr. p. 203), Maharnavaprakasa (q. by Hemādri), Hemādri ( Śr. pp. 1440-42 ) and Sr. P. pp. 266-267 reference is made to adoration of the six seasons and the obeisance ( namaskāra ) to the pitṛs in the words 'namo vah pitaro' (Vaj. S. II. 32) 1078 and the repetition of three mantras when each of the three piṇḍas is offered, some holding that the seasons were to be deemed as identified with 'rasa', sosa' and four other words (in Vaj. S. II. 32), while others held that the adoration of the seasons is quite distinct from the namaskāras to the pitṛs. In the Saunakātharvanaśrāddha-kalpa, the piṇḍas are offered in the reverse order i. e. first to the great-grand father, then to the grandfather and then to the father (Hemādri on śrāddha p. 1442). Ap. Sr. I. 9. 4 refers to this method in 'pitamahaprabhrtin va'.
+the father, (the grand-father and great-grandfather) are entitled to the piṇḍa; the offerer of the piṇḍa is the 7th; thus _sapiṇḍa_ relationship extends to seven generations[^1086]. The Mārkaṇḍeya-purāṇa states that three ancestors beginning from the paternal grandfather of the paternal grandfather enjoy the wipings (of the hand of the performer when he offers piṇḍas)[^1087]. The Brahmapurāņa (220. 84-86) has similar verses. Manu provided[^1088] that the performer should place three piṇḍas on _darbhas_ and then wipe off from his hand the particles of food and water sticking to it with the roots of the darbhas (on which the piṇḍas were placed) and that such wipings are meant for those who are called 'lepabhāgin' (the three paternal ancestors after the paternal great-grand-father). Similar provisions are made by the Viṣņu Dh. S. 73.22, Varāhapurāņa 14,36, Garudapurāņa (Acārakānda 218.24), Kūrma II. 22.52. Medhātithi on Manu III. 216 says that even if no food or water sticks to the hand still the performer rubs the hand against the roots of the darbhas on which the first piṇḍa was placed. A special rule was provided by Devala quoted in Śrāddhakalpalatā (p. 14) that if the father or mother became a _mleccha_ (by forcible or voluntary conversion &c.) one should not observe any impurity for him or her and no śrāddha should be offered and when offering the three piṇḍas in place of the father the name of Viṣņu should be uttered.
 
-1077. निहन्मि सर्व यदमेध्यवद्भवेद्धताश्च सर्वेऽसुरदानवा मया। रक्षांसि यक्षाश्च पिशाच सङ्घा हता मया यातुधानाश्च सर्वे ॥ अनेन मन्त्रेण सुसंयतात्मा वेदीं च सर्वां सकृदुल्लिखेच्च ॥ ब्रह्मपुराण q..by कल्पतरु (श्रा.) p. 214,216, श्रा. प्र. p.251. This is cited as from ब्रह्माण्डपुराण by अपरार्क p.478 ( which reads सुसंयतात्मा तिलान् क्षिपददिक्ष तथा विदिक्षु). The verses are वायुपुराण 75.45-46 and are mentioned as from घायुपुराण in श्राद्धतत्त्व p. 235. Both अपरार्क and श्रा. प्र. add the vedic mantra "अपहताः। (वाज. सं. II. 29) here.
+[^1086]: लेपभाजश्चतुर्थाद्याः पित्राद्याः पिण्डभागिनः। पिण्डदः सप्तमस्तेषां सापिण्ड्यं साप्तपौरुषम्॥ मत्स्य  18.29. These very verses occur in पद्मपुराण (सृष्टिखण्ड 10. 34-35), which reads सपिण्डाः सप्त पूरुषाः. They are quoted from मत्स्यपुराण by अपरार्क p. 507, मत्स्य 16.38 is तेषु दर्भेषु तं हस्तं निमृज्याल्लेपभागिनाम् । .
 
-1078. पूर्वपिण्डं प्रयच्छेनु पित्र्यं च पृथिवीति च । पितामहाय त्वपरमन्तरिक्षे च दाप येत् ॥ प्रपितामहाय च ततस्तृतीयं तु निवेदयेत् ॥ द्यौर्दर्विरिति मन्त्रेण श्रुतिरेषा सनातनी॥ यम q. by कल्पतरु (श्रा. p. 203), हेमाद्रि (श्रा. p. 1440). उच्छिष्टसंनिधौ दक्षिणायेषु दर्भषु पृथिवी दविरक्षिता इत्येकं पिण्डं पित्रे निदध्यात् । अन्तरिक्षं दविरक्षिता इति द्वितीयं पितामहाय । द्यौर्दविरक्षिता इति तृतीयं प्रपितामहाय। विष्णुधर्मसूत्र 73. 17-19. आचम्यो दक परावृत्य त्रिरायम्य शनैरसून् । षडतूंश्च नमस्कुर्यात् पितॄनेव च मन्त्रवित् ॥ मनु III. 217. The मन्त्र is : पृथिवी दविरक्षिता तृप्तिः स्वधानुपदस्ता तां पृथिवी दर्विमक्षितां तृप्तिं स्वधामनु पदस्तामग्निरिव पृथिवीमुपजीवासौ ये चात्र त्वामन्वेषा ते स्वधा. In the other two mantras in honour of farag and afara substitute saitai and at: for प्राथवा, वायु: and सूर्यः for आग्निः wherever necessary. The meaning is the earth is a ladle giving inexhaustible gratification' &c. The ich za (63. 14) provides 'पृथिवी दर्विरित निपरणं कुर्यात् । and the कौशिकसूत्र (858-TO also mentions the three mantras uttered at the time of offering the three piṇḍas (viz. पृथिवी दर्विरक्षिता, अन्तरिक्षं दविरक्षिता, द्यौ दविरक्षिता). Compare काठकसंहिता IX.23,
+[^1087]: लेपसम्बन्धिनश्चान्ये पितामहपितामहात् । प्रभृत्युक्तास्त्रयस्तेषां यजमानश्च सप्तमः। इत्येवं मुनिभिः प्रोक्तः सम्बन्धः साप्तपौरुषः । मार्कण्डेय 28. 4-5 q. by दायभाग XI.41 (which connects these verses with the rules of impurity on death). The printed दायभाग reads पिण्डलेपभुजश्वान्ये.
 
-STITUT
+[^1088]: न्युप्य पिण्डांस्ततरतांस्तु प्रयतो विधिपूर्वकम् । तेषु दर्भेषु तं हस्तं निमृज्याल्लेप भागिनाम्॥ मनु  III. 216. The latter half occurs in मत्स्य 16.38.
 
-Bhandarkar Oriental Research Institute
+One question that exercised the minds of well-known writers was whether the daily _Vaišvadeva_ should be performed before starting the śrāddha ceremonies or after the latter were finished. We have to remember first that several works state that rites for pitṛs deserve pre-eminence over those for the gods[^1089]. Manu (III. 265 ) states[^1090] that after the brāhmaṇas have been dismissed the performer of śrāddha shall offer the (daily) domestic _bali_ offering and that this is the settled rule of dharma. Medhātithi explains that the word 'bali' is merely illustrative. The Matsyapurāņa[^1091] 17.61, the Varāhapurāṇa (14.43), Skanda VII. 1. 266. 101-102, Devala, Kārṣṇājini and others provide that after the rites for the fathers are finished Vaisvadeva should be performed. When Vaišvadeva is performed after the completion of śrāddha rites, it is to be offered from the food that remains after being utilized for the śrāddha dinner. But Hemādri (pp. 1058-1065) holds a long discussion and arrives at the following conclusions. In the case of an _āhitāgni_ (p. 1064), Vaišvadeva is to be performed before śrāddha except in the case of the śrāddha on the 11th day after death. In the case of one who has not kept the sacred fires there are three optional times for Vaišvadeva, viz. after agnau karaṇa or after the vikira (scattering of food on darbhas for those dying without the _saṁskāras_ being performed for them), or after the brāhmaṇas are dismissed on the completion of the śrāddha (p. 1064). If Vaišvadeva is to be performed before śrāddha or in the midst of it, then the cooking of food must be done separately for Vaišvadeva and for śrāddha. In the case of all, whether _sāgnika_ or _anagnika_, Vaišvadeva must be performed with the remainder of the food left after use in śrāddha, if the former is performed after the latter. There were sages like Paithīnasi[^1092] that held that Vaišvadeva should not be performed with the food cooked for śrāddha without first offering the food to the brāhmaṇas invited for srādda dinner i.e. Vaišvadeva must be performed after śrāddha if the same food is to be used for the former.
 
-History of Dharmaśāstra
+The Nirṇayasindhu (III. p. 459 ) states that as most smṛtis place the performance of Vaišvadeva after śrāddha and as many writers of commentaries and digests such as Medhātithi and Smṛtiratnāvali do the same all should perform Vaišvadeva after finishing śräddha.
 
-[Vol.
+[^1089]: देवकार्याद् द्विजातीनां पितृकार्य विशिष्यते । मनु III. 203, ब्रह्माण्ड (उपोद्धातपाद 10. 104), मत्यपुराण 15.40, वायु 73. 55.
 
-480
+[^1090]: ततो गृहबलि कुर्यादिति धर्मो व्यवस्थितः ॥ मनु III. 265. मेधातिथि remarks 'ततो गृहबलिं निष्पने श्राद्धकर्मण्यनन्तरं वैश्वदेवहोमान्वाहिकातिथ्यादिभोजनं कर्तव्यम् । बलिशब्दस्य प्रदर्शनार्थत्वात्'।
 
-About the final disposal (pratipatti) of the piṇḍas several views were entertained. We have already seen (note 780 ) that the Vāj. S. and several sūtras provided that the middle one of the three piṇḍas for paternal ancestors was to be eaten by the wife of the performer of the śrāddha if she was desirous of a son. Manu (III. 262-263) provides that the dharmapatni (i. e, a wife of the same varpa and married before any other wife ) should eat the middle piṇḍa with the mantra 'ādhatta pitaro garbham' (q. in n. 780) and then she gives birth to a son who lives long, secures fame, is intelligent and obtains wealth and progeny and who is of a good and righteous turn of mind. The same rule is provided for by the Laghu-Ašvalāyana 23.83, the Kūrma II. 2. 71, 76, Matsya 16,52, Vāyu 76,31, Viṣṇudharmottara I. 1718, 220, 149, Padma (sṛṣṭikhaṇḍa 9.121) and other purāņas. As regards piṇḍas in general, the Āśv. Sr. (11. 7. 14-17) says that the other two piṇḍas (except the middle one ) should be cast into water or in fire or they may be eaten by a brāhmaṇa who has suddenly developed a distaste for food or they may be partaken by one who has been suffering from a serious disease (such as tuberculosis or leprosy ) and that in the latter case the man either recovers or dies. The Gobhila-gr. (IV. 3, 31-34) provides that the piṇḍas should be thrown into water or in fire or should be given to a brāhmaṇa or a cow to eat. Manu (III. 260-261 ) says the same and adds that they may be given to a goat for eating and that some allow them to be devoured by birds. Yāj. I. 257, Matsya 16.52-53, and Padma1079 mention the same five ways of disposal but the last adds one more viz. placing them near a mound of earth. The Varaha purāņa 1080 (190.121 ) says that the performer may eat the first piṇḍa himself, he should give the middle to his wife and the third he should cast into water. The Anušāsanaparva (125.25.26) provides that the first and the third should be thrown into water or fire and the middle piṇḍa should be eaten by the wife. It is provided by Bịhaspati that if the wife is suffering from a disease or is already pregnant or is staying in some other
+[^1091]: निवृत्य प्रणिपत्याथ पर्युक्ष्याग्निं समन्त्रवत् । वैश्वदेवं प्रकुर्वीत नैत्यकं बलिमेव च ॥ मत्स्य 17. 61; निवर्तेताभ्यनुज्ञात आद्वारान्तमनुवजेत् । ततस्तु वैश्वदेवाख्यां कुर्यान्नित्यक्रियां ततः ॥ वराह 14. 43; पितृपाकात् समुद्धत्य वैश्वदेवं तु होमयेत् । देवल q. by हलायुध in his com. on कात्यायन's श्राद्धसूत्र (folio 31a). The verse निवृत्य प्रणिप्रत्याथ occurs in पद्मपुराण (सृष्टिखण्ड 9. 190) also.
 
-POON
+[^1092]: पितॄणामनिवेद्य तस्मादन्नाद्वैश्वदेवादिकमपि न कार्यम् । तथा च पैठीनसिः ।। पितृपाकात्समुद्धृत्य वैश्वदेवं करोति यः। आसुरं तद्भवेच्छ्राद्धं पितॄणां नोपतिष्ठते ॥ स्मृतिच. (श्रा.) p. 410, टोडरानन्द (folio 75b).
 
-1079. frais ūGY Turgar röra aria are farangur GETI (VIE 9. 120); 31UTI p. 550 and ease read ara and a re uvai (p. 1504). That birds should be allowed to eat the piṇḍas is natural since it was believed as stated above (p. 339) that the pitṛs wander about in the form of birds. V
+## Modern Pārvaṇaśrāddha
 
-22.83 for a similar verse. 1080. Ha eh qe une te Atgal griecho que : ya: 11 TIETTTT 190.121.
-
-#
-
-tra
-
-a
-
-Bhandarkar Oriental
-
-Research Institute
-
-IVI
-
-Final disposal of piṇḍas
-
-481
-
-place, then an old bull or a goat may eat the middle piṇḍa (quoted by Sm. C. on Sr. p. 486, Kalpataru on Śr. p. 224). The Viṣṇudharmottara (I. 141, 8) prescribes that when a śrāddha is performed at a tirtha, the piṇḍas should be cast into the sacred water. The Anušāsanaparva 125. 38-40 and some of the purāṇas such as Vāyu (76.32-34 ) and Brahma (220.150–152) provide that certain consequences follow from the disposal of piṇḍas in one way or another viz. the best worlds by giving piṇḍas to cows, intellect and fame from casting into water, long life from offering them to birds &c. Vide also Brahmāṇḍa (upodghāta, chap. 12. 31-35) which provides that if given to cows the result is best complexion, if to cocks then delicacy. long life if given crows. In this connection it should be noted that piṇḍas of rice or of flour were not to be offered in all śrāddhas. The Śrāddha-kalpalatā (pp. 86-89 ) has a long discussion about the śrāddhas in which the offering of piṇḍas of food is forbidden. For example, it quotes Pulastya to the effect that in śrāddhas performed on the two ayana days, on the two equinoctial days, on any sankrānti, no piṇḍas are to be offered, so also in śrāddhas on Ekādasi, Trayodasi, on Maghā and Krttikā nakşatras, if a man desires to have sons and wealth.
-
-On the question as to what is the principal item in the śrāddha there are three views. Some, like Govindaraja, 1081 hold that feeding of brāhmaṇas is the principal thing and they rely on Manu III. 129 which says 'One may feed even a single learned brāhmaṇa in a rite for gods and manes and not many who do not know vedic mantras; by doing so he reaps abundant reward'. Here the reward or fruit is associated with feeding a learned brāhmaṇa. There is a maxim 1082 of the Pürvamimāṁsā that whatever is mentioned in proximity with an action that has a reward or fruit but has no special reward of its own, is subsidiary (anga) to what is declared to have a reward.' Besides, there is no piṇḍadāna in certain śrāddhas such as āmaśrāddha, śrāddha on the Yugādi days.1083
-
-1081. पुष्कलं फलमामोतीत्यभिधानात् बाह्मणस्य भोजनमत्र प्रधान पिण्डदानादि त्वङ्गमित्यवसीयते । गोविन्दराज on मनु III. 129 (Mandlik's ed.). कुल्लक on the same verse refers to this opinion.
-
-__1082. The न्याय is फलवत्संनिधावफलं तदङ्गम् nentioned by शबर/o जे. IV. 4. 19 and by sy on aaraus II, 1. 14. Vide 5. IV. 4. 29–38. D o
-
-1083. तथा च पुलस्त्यः । अयनद्वितये श्राद्धं विषुवद्वितये तथा । युगादिषु च सवा सुका tuoeloeall grai uraia q:1 Furaa. (1.) p. 369; vide Taf Youth pp.334-336.
-
-H. D. 61
-
-1917
-
-VITA
-
-Bhandarkar Oriental Research Institute
-
-482
-
-History of Dharmaśāstra
-
-[Vol.
-
-Others like Karka hold the view that piṇḍadāna is the principal item in śrāddha. They rely upon the fact that in the śrāddha at Gayā it is the offering of piṇḍas that is the most important matter and upon the fact that in the Viṣṇudharmasūtra (78. 52-53, and 85. 65-66) and in several Purāṇas such as the Varāha (13.50), Viṣṇu (III. 14.22-23), Brahma (220.31-32), Viṣṇu dharmottara (I. 145.3-4) the pitṛs are stated to have expressed a deep yearning for a son who would offer them piṇḍas at Gayā and water on sacred rivers &c. (vide note 911). Further support is sought for this view in the fact that in the śrāddha on the birth of a son and in śrāddha offered even by a good Śūdra the feeding of brāhmaṇas is forbidden, A third view is that both the feeding of brähmaṇas and the offering of piṇḍas are the principal matters in a śräddha. The Gobhila-smṛti, after stating 1084 the other two views and some of the reasons therefor, tells us that the author of it is himself in favour of this third view. In cases where the word śrāddha is employed and there is neither brāhmaṇa feeding nor piṇḍadāna as in Daiva śrāddha, the word śrāddha is applied in a secondary sense (gauna). Vide Hemādri (śraddha) pp. 157-160. In the Dharmapradipa it is said that among the followers of the Yajurveda (i. e. Vājasaneyins) the offering of piṇḍas is principal, among the followers of the Ṛg.eda the feeding of brāhmaṇas is principal, while among the followers of the Sāmaveda both are principal. In this way śrāddha partakes of two characters viz. it is a yāga (sacrifice) and also 1085 a gift (dāna). Haradatta, Hemādri, Kapardi and others appear to hold that all three (bhojana piṇḍadāna and agnaukaraña) are principal. Vide Samskära ratnamālā p. 1003.
-
-The Matsyapuräna says in a famous passage 'ancestors from the fourth (i. e. the father, grand-father and great-grand father of the great-grandfather of performer ) are entitled only to the wipings of the articles of food (sticking to
-
-1084. Uri fqueqatt Harevico:
-
-t rei fugari a ETA निदर्शनात्॥ भोजनस्य प्रधानत्वं वदन्त्यन्ये महर्षयः । ब्राह्मणानां परीक्षायां महायज्ञे प्रदर्शनात् । आमश्राद्धविधानस्य विना पिण्डैः क्रियाविधिः । तदालभ्याप्यनध्यायविधानश्रवणादपि ॥ विद्वन्मतमुपादाय ममाप्येतद्धृदि स्थितम्। प्राधान्यमुभयोर्यस्मात्तस्मादेष समुच्चयः ॥ गोभिल
-
-a III. 160-163.
-
-1085. Átavarai tyui fquaeri Tarifes THI IERA K स्यादुभयं सामवेदिनाम् ॥ तच्च पितृन्यजेत पितृभ्यो दद्यादित्युभयप्रयोगदर्शनाद्यागदानोमया
-
-WAI Fifa III. Jap. 372.
-
-ASTITU POON
-
-L'olio ata
-
-HIDUALES N
-
-e
-
-Bhandarkar Oriental Research Institute
-
-Persons that are lepabhājaḥ
-
-483
-
-IV1
-
-the hand of the performer of śrāddha); the father, (the grand-father and great-grandfather) are entitled to the piṇḍa; the offerer of the piṇḍa is the 7th; thus sapiṇḍa relationship extends to seven generations 1086 The Mārkaṇḍeya-purāṇa states that three ancestors beginning from the paternal grand father of the paternal grandfather enjoy the wipings (of the hand of the performer when he offers piṇḍas). 1087 The Brahma purāņa (220. 84-86) has similar verses. Manu provided 1088 that the performer should place three piṇḍas on darbhas and then wipe off from his hand the particles of food and water sticking to it with the roots of the darbhas (on which the piṇḍas were placed) and that such wipings are meant for those who are called 'lepabhāgin' (the three paternal ancestors after the paternal great-grand-father). Similar provisions are made by the Viṣņu Dh. S. 73.22, Varāhapurāņa 14,36, Garudapurāņa (Acārakānda 218.24), Kūrma II. 22.52. Medhātithi on Manu III. 216 says that even if no food or water sticks to the hand still the performer rubs the hand against the roots of the dar bhas on which the first piṇḍa was placed. A special rule was provided by Devala quoted in Śrāddhakalpalatā (p. 14) that if the father or mother became a mleccha (by forcible or volun tary conversion &c.) one should not observe any impurity for him or her and no śrāddha should be offered and when offering the three piṇḍas in place of the father the name of Viṣņu should be uttered.
-
-'One question that exercised the minds of well-known writers was whether the daily Vaišvadeva should be performed before starting the bräddha ceremonies or after the latter were finished. We have to remember first that several works state that rites for pitṛs deserve pre-eminence over those for the
-
-1086. लेपभाजश्चतुर्थाद्याः पित्राद्याः पिण्डभागिनः। पिण्डदः सप्तमस्तेषां सापिण्ड्यं INTET FRU 18.29. These very verses occur in Taytru (Uraag 10. 34-35), which reads सपिण्डाः सप्त पूरुषाः. They are quoted from मत्स्यपुराण by 392h p. 507, FET 16.38 is agga Era farETHITTA .
-
-1087. लेपसम्बन्धिनश्चान्ये पितामहपितामहात् । प्रभृत्युक्तास्त्रयस्तेषां यजमानश्च सप्तमः। CUT EAA: : Faru: 15:1 A y 28. 4-5 q. by THU XA1 (which connects these verses with the rules of impurity on death). The printed Tu reads QUEST17.
-
-1088. न्युप्य पिण्डांस्ततरतांस्तु प्रयतो विधिपूर्वकम् । तेषु दर्भेषु तं हस्तं निमज्यालेप TIFTET I E III. 216. The latter half occurs in HRT 16,38,
-
-POONA
-
-FOUNDED
-
-1917
-
-WAT
-
-Bhandarkar Oriental Research Institute
-
-484
-
-History of Dharmaśāstra
-
-[Vol.
-
-gods 1089. Manu (III. 265 ) states 1090 that after the brāhmaṇan have been dismissed the performer of śrāddha shall offer the (daily) domestic bali offering and that this is the settled rule of dharma. Medhātithi explains that the word 'bali' is merely illustrative. The Matsyapurāņa 1091 17.61, the Varāha purāṇa (14.43), Skanda VII. 1. 266. 101-102, Devala, Kārsnājini and others provide that after the rites for the fathers are finished Vaisvadeva should be performed. When Vaišvadeva is performed after the completion of śrāddha rites, it is to be offered from the food that remains after being utilized for the śrāddha dinner. But Hemādri (pp. 1058-1065) holds a long discussion and arrives at the following conclusions. In the case of an āhitāgni (p. 1064), Vaišvadeva is to be performed before śrāddha except in the case of the śrāddha on the 11th day after death. In the case of one who has not kept the sacred fires there are three optional times for Vaišvadeva, viz. after agnau karaṇa or after the vikira (scattering of food on darbhas for those dying without the sařskāras being performed for them), or after the brāhmaṇas are dismissed on the completion of the śrāddha (p. 1064). If Vaišvadeva is to be performed before śrāddha or in the midst of it, then the cooking of food must be done separately for Vaišvadeva and for śrāddha. In the case of all, whether sāgnika or anagnika, Vaišvadeva must be performed with the remainder of the food left after use in śrāddha, if the former is performed after the latter. There were sages like Paithīnasi1092 that held that Vaišvadeva should not be performed with the food cooked for śrāddha without first offering the food to the brāhmaṇas invited for srādda dinner i. e. Vaišvadeva must be performed after śrāddha if the same food is to be used
-
-1089. artigianarai fugare partout ! A III. 203, E (54T graurę 10.104), Acgtru 15. 40, arg 73. 55.
-
-1090. aal
-
-T u ffea Ararua: I ÆT III. 265. #urraru remarks 'ततो गृहवालि निष्पस्ने श्राद्धकर्मण्यनन्तरं वैश्वदेवहोमान्वाहिकातिथ्यादिभोजनं कर्तव्यम् । बलिशब्दस्य प्रदर्शनार्थत्वात् ।'.
-
-1091. Parca OTTEETTO Tart #ariana di qualia iR PJÄT | मत्स्य 17.61; निवर्तेताभ्यनुज्ञात आद्वारान्तमनुवजेत् । ततस्तु वैश्वदेवाख्यां कुर्यान्नित्यक्रियां aa: latte 14, 43; forna ett a TATLI ang q. by ggrgu in his com. on कात्यायन's श्राद्धसूत्र (folio 31a). The verse निवृत्य प्रणिप्रत्याय occurs in agtru (ureaus 9. 190 ) also.
-
-1092. Faumaaaa aarçage area = prin 91 De: U पितृपाकात्समुद्धृत्य वैश्वदेवं करोति यः। आसुरं तद्भवेच्छाद्धं पितॄणां नोपतिष्ठते ॥ स्मृतिच. ( 971.) p. 410, zietą (folio 75b).
-
-INS
-
-POONA
-
-FOUNDED
-
-नजस्विना
-
-a
-
-Bhandarkar Oriental Research Institute
-
-IV)
-
-Modern Pārvaṇaśrāddha
-
-485
-
-for the former. The Nirpayasindhu (III. p. 459 ) states that as most smṛtis place the performance of Vaišvadeva after śrāddha and as many writers of commentaries and digests such as Medhātithi and Smộtiratnāvali do the same all should perform Vaišvadeva after finishing śräddha.
-
-It is now necessary to illustrate how pārvaṇa śrāddha is performed in modern times. Here the greatest variety prevails. The details of the rite vary in the different parts of India. They vary also according as the performer belongs to a particular Veda or a particular recension of the Veda, they vary according to the particular eminent writer that is followed and further additions are made according as the performer is a Vaispava or a Saiva. Such differences have to be passed over here, particularly because they are not material. We saw above that the Pārvaṇa-śrāddha was very simple in the days of the Brāhmaṇas and most of the sūtras. There was then no express mention of the worship of Viśvedevāḥ in Pārvaṇa śrāddha, or of the maternal ancestors or of the wives of any ancestors. Gradually these came to be added and by the time of the Yājñavalkyasmṛti there was special invocation of the Viśvedevāḥ. But these latter were probably not expressly divided into groups at the time of that work. During the smṛti period groups of Viśvedevāḥ came to be assigned to different kinds of śräddhas (vide p. 457 note 1018). The Puräpas pres cribed several Paurānic mantras for being recited during the śrāddha rite, such as the verse Sāgacchantu' (note 984) and the verse 'devatābhyah pitṛbhyasca' (p. 458 note 1020). Then there arose the principle of the Pūrvamiņāmsā that all rites described in the different śākhās and sūtras constitute but one rite, and that one may take over from another śākhā or sūtra details described therein, which are not opposed to one's own śākhā or sutra (vide pp. 453-55 notes 1011-1013). This principle tended to make the śräddha rites all inclusive and the whole procedure became swollen to an enormous extent. How even the slightest variation causes difference in the details may be illustrated by an example. In Mithilā villages even among poor men eleven brāhmaṇas are invited for pārvapa-śrāddha, but it is often difficult to secure a very learned man (who is called pātra or mahāpātra) to officiate. In such a case where a mahapatra or a pātra brāhmaṇa is not available the śrāddha be called apātraka-pārvaṇaśräddha (for which really there is nouśastric authority) and is distinguished from the sapātraka pārvaṇa śrāddha in several matters, two of which in the case of the
-
-POONA
-
-1917
-
-Research Institute
-
-486
-
-History of Dharmaśāstra
-
-[Vol.
-
-Vājasaneyins may be stated here. Though the Śrāddhasūtra of Kātyāyana, which is of special authority among Vājasaneyins, declares (at the end of kandikā III) that the brāhmaṇas are to be dismissed at the end of the śrāddha with the verse 'Vāje vāje' (Vāj. S. 9.18) and the performer should circumambulate the brāhmaṇas with the mantra 'ā mā vājasya' (Vaj. S. 9. 19), it is not the practice among the sistas in Mithilā according to the editor of the Śrāddharatna to observe these directions in what is called 'apătraka-pārvaṇa-śrāddha' in these days. In Rudradhara's Śrāddhaviveka (pp. 138-146) the apātraka pārvaṇa-śräddha-prayoga' is set out at length.
+It is now necessary to illustrate how _pārvaṇa_ śrāddha is performed in modern times. Here the greatest variety prevails. The details of the rite vary in the different parts of India. They vary also according as the performer belongs to a particular Veda or a particular recension of the Veda, they vary according to the particular eminent writer that is followed and further additions are made according as the performer is a Vaiṣṇava or a Śaiva. Such differences have to be passed over here, particularly because they are not material. We saw above that the Pārvaṇa-śrāddha was very simple in the days of the Brāhmaṇas and most of the sūtras. There was then no express mention of the worship of Viśvedevāḥ in Pārvaṇa śrāddha, or of the maternal ancestors or of the wives of any ancestors. Gradually these came to be added and by the time of the Yājñavalkyasmṛti there was special invocation of the Viśvedevāḥ. But these latter were probably not expressly divided into groups at the time of that work. During the smṛti period groups of Viśvedevāḥ came to be assigned to different kinds of śräddhas (vide p. 457 note 1018). The Puräṇas prescribed several Paurānic mantras for being recited during the śrāddha rite, such as the verse 'āgacchantu' (note 984) and the verse 'devatābhyaḥ pitṛbhyaśca' (p. 458 note 1020). Then there arose the principle of the Pūrvamiṃāmsā that all rites described in the different śākhās and sūtras constitute but one rite, and that one may take over from another śākhā or sūtra details described therein, which are not opposed to one's own śākhā or sutra (vide pp. 453-55 notes 1011-1013). This principle tended to make the śräddha rites all inclusive and the whole procedure became swollen to an enormous extent. How even the slightest variation causes difference in the details may be illustrated by an example. In Mithilā villages even among poor men eleven brāhmaṇas are invited for pārvapa-śrāddha, but it is often difficult to secure a very learned man (who is called _pātra_ or _mahāpātra_) to officiate. In such a case where a _mahāpātra_ or a _pātra_ brāhmaṇa is not available the śrāddha be called apātraka-pārvaṇaśräddha (for which really there is no _śastric_ authority) and is distinguished from the _sapātraka_ pārvaṇa śrāddha in several matters, two of which in the case of the Vājasaneyins may be stated here. Though the Śrāddhasūtra of Kātyāyana, which is of special authority among Vājasaneyins, declares (at the end of kaṇḍikā III) that the brāhmaṇas are to be dismissed at the end of the śrāddha with the verse 'Vāje vāje' (Vāj. S. 9.18) and the performer should circumambulate the brāhmaṇas with the mantra 'ā mā vājasya' (Vaj. S. 9. 19), it is not the practice among the śiṣṭas in Mithilā according to the editor of the Śrāddharatna to observe these directions in what is called 'apătraka-pārvaṇa-śrāddha' in these days. In Rudradhara's Śrāddhaviveka (pp. 138-146) the 'apātraka pārvaṇa-śräddha-prayoga' is set out at length.
 
 In medieval and modern times in the different provinces of India different manuals are followed by the followers of the several Vedas. For example, in Bengal the Sāmavedins, Yajurvedins and Ṛg.edins follow the procedure of pārvaṇa śrāddha laid down in the manuals (or paddhatis) of Bhavadeva, Pasupati and Kālesi respectively and there are many persons who follow the rules laid down by Raghunandana in his Śrāddhatattva and Yajurvediśrāddha-tattva In Mithilā, Śrīdatta wrote his Pitřbhakti for Yajurvedins and the Śrāddha kalpa for Sāmavedins and the Śrāddha-ratna of Mahāmaho pādhyāya Laksmīpati (between 1500 to 1640 A. D.) which is printed at Darbhanga and claims to be the traditional manual for Maithilas (Maithila-sämpradāyika-śrāddhapaddhati) in several places says that it follows the Sugatisopāna of Prati hastaka for Chandogas and also for Vājasaneyins. In the Madras State Vaisnava brāhmaṇas follow special treatises on Pūrva and Apara kriyās of Vaidika-Sārvabhauma or Harita Venkatācārya or Tolappar and Smarta brähmaņas follow the Smrtimuktāphala of Vaidyanātha, which does not much differ in major matters from the works of Vaidikasārvabhauma, Often the only differences are in the sankalpa and at the end. It is impossible to exhibit in this work the contents of all these manuals and to compare and contrast them. Therefore I shall set out here a model pārvaṇaśrāddha rite as performed by Revedios in Western India and then a Sukla Yajurveda rite, The Pratisāmvatsarika śrāddha 93 rite for Ṛg.edins in
 
