@@ -1481,9 +1481,7 @@ Some authors say that piṇḍas are to be offered after the brāhmaṇas perfor
 
 [^1134a]: सपवित्रान् कुशानास्तीर्य-कर्क and गदाधर explain 'सपवित्रान्साग्रानित्यर्थः'.
 
-Pārvaṇaśrāddha in Bengal
-
-509
+## Pārvaṇaśrāddha in Bengal
 
 It is to be noted that in the Bengal Manual of Pārvaṇaśrāddha based on the Brāhmaṇasarvasva of Halāyudha and also on Raghunandana's Yajurvedi-śrāddhatattva the following details are added after the piṇḍas are placed on the darbhas and before the dismissal of the brāhmaṇas. He turns towards the north and says 'O pitṛs, regale yourselves here and come like bulls each to his portion.' Then he turns round to his former position and says 'the pitṛs regaled themselves and came like bulls each to his own share.' Then he loosens[^1135] the side of his _dhoti_ which has been tucked up and then folds up his hands (i.e. offers six namaskāras) with the mantra[^1136] 'Namo vaḥ pitaro rasāya' (Vāj. S. I. 32). He smells[^1137] the piṇḍas and gives the middle one to his wife, if she desires a son, with the mantra 'ādhatta' (Vaj. S. II. 33).
 
@@ -1497,7 +1495,7 @@ From considerations of space the procedure of pārvaņa śrāddha among Hiraṇy
 
 In modern times no one performs māsiśrāddha or māsika-śrāddha strictly in accordance with the ancient rules. Śrāddha is supposed to be performed by feeding a brāhmaṇa and giving him a dakşiņā of a few _annas_. The Śrāddhatattva (Jiv., part 1 p. 254) provides, after quoting Matsya and Bhaviṣya, that, if a person is unable to perform a pārvaṇaśrāddha every month, he should perform one at least thrice a year when the sun is in the zodiacal signs of Kanyā, Kumbha and Vr̥ṣabha and that if he is unable to perform even thrice then he should perform at least once when the sun is in the sign of Kanyā.
 
-## The Dayabhāga theory of spirituat benefit
+## The Dayabhāga theory of spiritual benefit
 
 The two meanings of sapiṇḍa given by the Mit, and the Dāyabhāga have already been explained at great length in H. of Dh. vol. II, pp. 452-458 and pp. 472-477. The Dāyabhāga propounded the theory that whoever conferred greater spiritual benefit on the deceased by the performance of śrāddhas and the offering of piṇḍas was entitled to be preferred as an heir to the deceased's wealth. The Mit. said that heirship depended on blood relationship and the nearest in blood to the deceased was the preferential heir. But even under the Mit. whoever took the wealth of the deceased was bound to pay his debts (Yaj. II, 51 ) and to offer śrāddha and piṇḍa to him. This subject and the several propositions deduced from the texts have been dealt with in H. of Dh. vol. III, pp. 734-745.
 
@@ -1545,24 +1543,10 @@ When one cannot secure a brāhmaṇa nor materials, or when one is on a journey,
 
 [^1149]: आवाहने स्वधाकारे मन्त्रा जप्या विसर्जने। अन्यकर्मण्यनूह्याः स्युरामाश्राद्धे विधिः स्मृतः॥ q. by हेमाद्रि (श्रा. p. 1529), स्मृतिच. (श्रा. p. 492) ascribes to मरीचि and explains "स्वधाकारे 'नमो वः पितर इषे' इत्यादिमन्त्रे इष इतिपदस्थाने आमद्रव्यायेत्यूहः"।.
 
-Amaśrāddha and Hemaśrāddha
+## Āmaśrāddha and Hemaśrāddha
 
-515
+Āmaśrāddha is to be performed in the first part of the day, ekoddiṣṭa in the noon, the pārvaṇaśrāddha in the afternoon and vr̥ddhišrāddha in the first part of the day (divided into five )[^1149a].
 
+If even uncooked food grains cannot be offered the performer should perform hemaśrāddha (śräddha with money ). When the sun passes from one sign of the zodiac into another, in default of food and brāhmaṇas, on a journey, on the birth of a son, in an eclipse, in the case of women and śüdras _hemaśrāddha_ is allowed or when one's wife is in her monthly illness. In āmaśrāddha twice the quantity of grains required in offering cooked food and in hemaśrāddha four times (the price of the grains required for cooked food) has to be offered. If no money can be had the digests prescribe several modes which have already been set out above ( vide p. 425, n. 955).
 
-
-Amaśrāddha is to be performed in the first part of the day, ekoddiṣṭa in the noon, the pārvaṇaśrāddha in the afternoon and yrddhišrāddha in the first part of the day (divided into five ). 1149a
-
-If even uncooked food grains cannot be offered the per formier should perform hemaśrāddha (śräddha with money ). When the sun passes from one sign of the zodiac into another, in default of food and brāhmaṇas, on a journey, on the birth of a son, in an eclipse, in the case of women and südras hema śrāddha is allowed or when one's wife is in her monthly illness. In āmaśrāddha twice the quantity of grains required in offering cooked food and in hemaśrāddha four times (the price of the grains required for cooked food) has to be offered. If no money can be had the digests prescribe several modes which have already been set out above ( vide p. 425, n. 955).
-
-STITU) POONA
-
-FOUNDED
-
-1917
-
-raf
-
-1149 a. 977 a yare veilige #a: Traui TrṚg.Un
-
-e rra and taraq q. in cerchi p. 468, yeata. folio 124a. Resear
+[^1149a]: आमश्राद्धं तु पूर्वाह्ने एकोद्दिष्ट तु मध्यतः। पार्वणं चापराह्णे तु प्रातर्वृद्धि निमित्तकम् ॥ हारीत and शातातप q.in अपरार्क p. 468, पृथ्वीच. folio 124a.  
