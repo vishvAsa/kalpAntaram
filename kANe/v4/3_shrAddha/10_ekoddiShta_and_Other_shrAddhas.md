@@ -166,197 +166,88 @@ A well-known śrāddha is the Mahālayaśrāddha. Some of the Purāṇas deal wi
 
 [^1189]: आषाढीमवधिं कृत्वा यस्तु पक्षस्तु पञ्चमः । तत्र श्राद्धं प्रकुर्वीत कन्यां गच्छतु वा न वा॥ कन्यागते सवितरि यान्यहानि तु षोडश । क्रतुभिस्तानि तुल्यानि समाप्तवरदक्षिणैः ।। ...अभावात् कृष्णपक्षादौ तुलायां कर्तुमर्हति ॥ अतो वृश्चिकमायाते निराशाः पितरो गताः । पुनः स्वभवनं यान्ति शापं दत्त्वा सुदारुणम् ॥ पद्म (सृष्टिखण्ड 47. 225-228). The first verse आषाढी-occurs in अग्निपुराण 175.33 and is ascribed to जातूकर्ण्य by श्रा. कि को. p. 283 and अपरार्क p. 423, which reads the third पाद as श्राद्धकालः स विज्ञेयः. The verse कन्यागते is ascribed to the ब्रह्मपुराण by श्रा.क्रि. को. p. 285 (which reads तुल्यानि देवो नारायणोऽब्रवीत्) and to ब्रह्माण्डपुराण by अपरार्क p. 424 (which reads last पाद as तत्र दत्तं महाफलम्) and to श्लोकगौतम by श्रा. क.ल. p.99. यान्यहानि तु षोडश-These words are explained in two ways : 'कदाचित् पक्ष विवृद्धौ षोडशदिनात्मकोऽपि नभस्यस्यापरः पक्षः श्राद्धकर्मणि कालो न तु पञ्चदशदिनात्मको वेति दर्शयितुमुक्तम् । यद्वा अमावास्याया अनन्तरभूतायाः प्रतिपत्तिथ्या अपि संग्रहणार्थ तिथि षोडशकः' इत्युक्तम् । प्रतिपदोपि क्षीणचन्द्रवे सापरपक्षतुल्यत्वात् । स्मृतिच. (श्रा. p. 365). There is also a third way viz., including the preceding full moon day along with the 15 days of the dark half. प्रजापतिस्मृति verse 161 is very similar to the verse कन्यागते and कल्पतरु (श्रा. p. 16) quotes it from ब्रह्माण्ड.
 
-[^1090]: आषाढ्याः पञ्चमे पक्षे कन्यासंस्थे दिवाकरे। मृताहनि पुनयों वै श्राद्धं दास्यति मानवः॥ तस्य संवत्सरं यावत्तृप्ताः स्युः पितरो ध्रुवम् । स्कन्द. VI. 216. 96-97, पू. by श्राद्धकल्पलता p. 98.
+[^1190]: आषाढ्याः पञ्चमे पक्षे कन्यासंस्थे दिवाकरे। मृताहनि पुनयों वै श्राद्धं दास्यति मानवः॥ तस्य संवत्सरं यावत्तृप्ताः स्युः पितरो ध्रुवम् । स्कन्द. VI. 216. 96-97, पू. by श्राद्धकल्पलता p. 98.
 
-The Kalpataru quotes the Bhaviṣya purāņa to the effect that if a man has not performed śrāddha in Mahālaya (i. e. in the dark fortnight of Bhädrapada when the Sun is in the sign of Kanyā) he should offer it on the 15th day (of the dark half of Āśvina) on which, it is well-known, lamps are lighted.1191 The Śrāddha-sāra (p. 113) and the Smrtimuktā phala (on śrāddha p. 745) quote Vrddha-manu to the effect that the latter half of Bhadrapada when the Sun is in Kanyā is called Mahālaya and also Gajacchāyā. Various views are held on the question of the exact day on which the Mahālayaśrāddha is to be performed, viz. it may be performed on any day from the first tithi of the dark half of Bhādrapada to the amāvāsyā or from the fifth of the dark half to the amāväsyā of Bhādrapada or from the 8th or 10th of the dark half to amāvāsyā or from the 5th of the dark half of Bhadrapada to the 5th of the next fort night or on any day on which the Sun is in Kanyā or on any -day till the Sun enters Scorpion. 1192 Prajāpati states that there are numerous śrāddhas described by the Purāṇas, all of them yield rewards but the Mahālaya (śräddha) is the most eminent among them. 1193
+The Kalpataru quotes the Bhaviṣyapurāņa to the effect that if a man has not performed śrāddha in Mahālaya (i.e. in the dark fortnight of Bhädrapada when the Sun is in the sign of Kanyā) he should offer it on the 15th day (of the dark half of Āśvina) on which, it is well-known, lamps are lighted[^1191]. The Śrāddha-sāra (p. 113) and the Smṛtimuktā phala (on śrāddha p. 745) quote Vṛddha-manu to the effect that the latter half of Bhādrapada when the Sun is in Kanyā is called Mahālaya and also Gajacchāyā. Various views are held on the question of the exact day on which the Mahālayaśrāddha is to be performed, viz. it may be performed on any day from the first tithi of the dark half of Bhādrapada to the amāvāsyā or from the fifth of the dark half to the amāväsyā of Bhādrapada or from the 8th or 10th of the dark half to amāvāsyā or from the 5th of the dark half of Bhādrapada to the 5th of the next fortnight or on any day on which the Sun is in Kanyā or on any day till the Sun enters Scorpion[^1192]. Prajāpati states that there are numerous śrāddhas described by the Purāṇas, all of them yield rewards but the Mahālaya (śräddha) is the most eminent among them[^1193].
 
-The Mahālayaśräddha is to be performed, as stated by the Mārkaṇḍeyapurāņa, in accordance with the procedure of Pārva pašrāddha. 1194 The Smrtyarthasāra states that if it is not pos sible to perform all śrāddhas (except sapiṇḍikaraṇa) according to the detailed procedure of Pārvaṇaśrāddha they should be performed by the procedure called 'Sankalpavidhi', which con sists in performing the details laid down for Pārvaṇa as far as possible except the details of āvāhana, arghya, homa and piṇḍadāna. 1195 The Madanapārijāta (pp. 609-610) also states that when a man has to perform a sankalpa-śrāddha' he need not go through the details of arghyadāna, vikira and there is no āvāhana, no agnaukaraṇa and no piṇḍadāna even, but he has simply to feed a brāhmaṇa or brāhmaṇas.
+The Mahālayaśräddha is to be performed, as stated by the Mārkaṇḍeyapurāņa, in accordance with the procedure of Pārvaṇašrāddha[^1194]. The Smṛtyarthasāra states that if it is not possible to perform all śrāddhas (except sapiṇḍikaraṇa) according to the detailed procedure of Pārvaṇaśrāddha they should be performed by the procedure called 'Saṅkalpavidhi', which consists in performing the details laid down for Pārvaṇa as far as possible except the details of _āvāhana, arghya, homa and piṇḍadāna_[^1195]. The Madanapārijāta (pp. 609-610) also states that when a man has to perform a 'saṅkalpa-śrāddha' he need not go through the details of _arghyadāna, vikira_ and there is no āvāhana, no _agnaukaraṇa_ and no piṇḍadāna even, but he has simply to feed a brāhmaṇa or brāhmaṇas.
 
-1191. येयं दीपान्विता राजन् ख्याता पञ्चदशी भुवि। तस्यां दद्यान्न चेहत्तं पितृणां तु HETJÀ I vacatiu qby thuat (on 91. p. 17) and 1. Fan thir. p. 291, Fyrag. (1. p. 747 ascribes to gh ).
+[^1191]: येयं दीपान्विता राजन् ख्याता पञ्चदशी भुवि। तस्यां दद्यान्न चेद्दत्तं पितृणां तु महालये॥ भविष्यपुराण q. by कल्पतरु (on श्रा. p. 17) and श्रा. कि. कौ. p. 291, स्मृतिमु. (श्रा. p. 747 ascribes to सुमन्तु ).
 
-1192. तदेवं कृत्स्नः पञ्चमः पक्षः पञ्चम्यादिदर्शान्तमष्टम्यादिदर्शान्त-दशम्यादिदर्शान्त a yt: Ferraraga aia HETSUITS: I a. (S. p. 747).
+[^1192]: तदेवं कृत्स्नः पञ्चमः पक्षः पञ्चम्यादिदर्शान्तमष्टम्यादिदर्शान्त-दशम्यादिदर्शान्त-पञ्चमीदर्शयोः मध्ये अनिषिद्धमेकं वा दिनं महालयश्राद्धकालः। स्मृतिमु. (श्रा. p. 747).
 
-1193. granat: pía germà al 44tê warto agrasti FIETSU: | turâ verse 37.
+[^1193]: श्राद्धान्यनेकशः सन्ति पुराणोक्तानि वै रुचे। फलप्रदानि सर्वाणि तेषामग्यो महालयः॥ प्रजापति verse 37.
 
-1194. Fatoà hraait featê za ziaravaa aruar aasti raamalla Arenaĉug, q. by urat. (Tr. p. 745).
+[^1194]: कन्यागते सवितरि दिनानि दश पञ्च च । पार्वणेनैव विधिना तत्र श्राद्धं विधीयते ॥ मार्कण्डेयपु. q. by स्मृतिमु. (श्रा. p. 745).
 
-1195. सपिण्डीकरणवज्यं सर्वश्राद्धेषु विस्तृतपार्वणविधिनासम्भवे सङ्कल्पविधिनैव कार्यमा सङ्कल्पविधानं नामावाहनाय॑होमपिण्डवर्ज पार्वणोक्तं यथासम्भवं भवति। स्मृत्यर्थसार हालत
+[^1195]: सपिण्डीकरणवर्ज्यं सर्वश्राद्धेषु विस्तृतपार्वणविधिनासम्भवे सङ्कल्पविधिनैव कार्यम् । सङ्कल्पविधानं नामावाहनार्ध्यहोमपिण्डवर्जे पार्वणोक्तं यथासम्भवं भवति। स्मृत्यर्थसार p.60.
 
-STITUS
+In the Mahālayaśrāddha the Viśvedevas are Dhuri and Locana. This śrāddha is performed for the benefit not only of the paternal and maternal ancestors with their wives, but also for other relatives and persons that are dead (together with their wives, sons and husbands if these be dead) viz. one's stepmother, one's wife, son, daughter, paternal uncle, maternal uncle, brother, paternal aunt and maternal aunt, sister, paternal uncle's son, son-in-law, sister's son, father-in-law, mother-in law, ācārya, upādhyāya, _guru_, friend, pupil and any other relative[^1196]. Some perform only for the paternal ancestors with their wives and the maternal ancestors with their wives. The day on which the moon is in Bharaṇi nakşatra in the dark half of Bhādrapada is called Mahābharaṇi and śrāddha performed on that day is said to be equal to Gayāśrāddha (Matsyapurāņa q. by Śr. K. L. p. 99). The Mahālaya-śrāddha is to be performed on the 12th tithi of Bhādrapada dark half in the case of a sannyāsin and on no other tithi and his yearly śrāddha is to be performed by his son according to pārvaṇa method as in the case of householders. The dvādaśi is sacred to Viṣṇu and _yatis_ always repeat the words 'namo Nārāyaṇāya' and therefore the 12th is the special tithi for the mahālaya śrāddha of yatis. The Mahālayaśrāddha is not to be performed in an intercalary month (_malamāsa_).
 
-FOUNDED
+Two more śrāddhas that are performed even to this day may be mentioned here. One is called 'Mātāmahasraddha' or "Dauhitra-pratipad-śrāddha'. A daughter's son whose parents are alive can alone perform a śrāddha for his maternal grand-father (together with the maternal grand-mother if she also be dead) on the first tithi of the bright half of Āśvina[^1197]. A daughter's son can perform it even if his maternal grandfather has a son or sons living. It may be performed with or without piṇḍadāna (generally without it) and it may be performed even if the daughter's son has not been invested with the sacred thread. The Śrāddhasāra nutes that the mātāmahaśrāddha is based only on the usage of śiṣṭas (p. 24).
 
-Bhandarkar Oriental Research Institute
+[^1196]: Vide धर्मसिन्धु II. p. 79 for the सङ्कल्प in महालयश्राद्ध
 
-IV]
+[^1197]: गर्भस्थोऽपि च दौहित्रो अश्वयुकप्रतिपद्दिने । कुर्यान्मातामहश्राद्धं पितरौ यदि जीवतः ॥ प्रजापतिस्मृति verse 170.
 
-Mahālayaśrāddha
+Another is the 'Avidhavānavamiśrāddha', which is performed for one's mother or other women of the family who died while the husbands were alive. It is performed on the 9th of the dark half of Bhādrapada. It ceases to be performed when the husband dies after the woman's death. The Nirṇayasindhu notices several views about this and says that one should follow the usage of one's country[^1198]. According to the Markaṇḍeyapurāņa in this śrāddha not only a brāhmaṇa but also a woman whose husband is alive is to be fed and presents of a girdle, a garland and bangles are to be made to her.
 
-533
+It will have been seen from the translation of Aśv. gr., Yaj. and the Padmapurāṇa that dakṣiṇā, according to one's ability, has to be given in each śrāddha towards the end of the rite. The Skandapurāṇa (VI. 218. 12-14) provides that whatever is wanting in mantras or the proper time or in procedure becomes pərfect by dakşiņā. Śrāddha without dakṣiṇā is like rain on an arid place or like dancing in the dark or like singing before a deaf person, that he who desires the permanent gratification of himself and his Manes should not offer a śrāddha without dakšiņā. The Rāmāyana shows how on the 12th day after the death of king Daśaratha gifts of jewels, of hundreds of cows, wealth, food in abundance and vehicles, of male and female slaves, of spacious houses were made to the brāhmaṇas[^1199]. The Āśramavāsikaparva (14. 3-4) recounts the valuable gifts to brāhmaṇas in honour of Bhiṣma, Droṇa, Duryodhana and other fallen warriors, adding that persons of all varṇas were treated to profuse food and drink. The Vāyupurāņa (chapter 80 ) propounds in great detail the rewards of various kinds of gifts made in śrāddhas. From considerations of space those descriptions are passed over here and only a brief eulogy of the gift of cooked food is given in the note below[^1200].
 
-In the Mahālayaśrāddha the Viśvedevas are Dhuri and Locana. This śrāddha is performed for the benefit not only of the paternal and maternal ancestors with their wives, but also for other relatives and persons that are dead (together with their wives, sons and husbands if these be dead) viz. one's step mother, one's wife, son, daughter, paternal uncle, maternal uncle, brother, paternal aunt and maternal aunt, sister, paternal uncle's son, son-in-law, sister's son, father-in-law, mother-in law, ācārya, upādhyāya, guru, friend, pupil and any other relative. 1196 Some perform only for the paternal ancestors with their wives and the maternal ancestors with their wives. The day on which the moon is in Bharani nakşatra in the dark half of Bhādrapada is called Mahābharani and śrāddha performed on that day is said to be equal to Gayāśrāddha (Matsyapurāņa q. by Śr. K. L. p. 99). The Mahālaya-śrāddha is to be performed on the 12th tithi of Bhadrapada dark half in the case of a sannyāsin and on no other tithi and his yearly śrāddha is to be performed by his son according to pārvaṇa method as in the case of householders. The dvādaśi is sacred to Viṣṇu and yatis always repeat the words 'namo Nārāyaṇāya' and therefore the 12th is the special tithi for the mahālaya śrāddha of yatis. The Mahālayaśrāddha is not to be performed in an intercalary month (malamāsa ).
+[^1198]: अत्र भर्तृमरणोत्तरं पूर्वमृतश्राद्धं न कार्यमिति केचिदाहुः पठन्ति च श्राद्धं नवम्यां कुर्यात्तन्मृते भर्तरि लुप्यते इति तदेतन्निर्मूलत्वान्मूर्खप्रतारणमात्रम् । श्राद्धदीपकलिकायां ब्राह्मे पितृमातृकुलोत्पन्ना याः काश्चिन्मृताः स्त्रियः । श्राद्धार्हा मातरो ज्ञेयाः श्राद्धं तत्र प्रदीयते ॥ इति । अत्र देशाचाराद् व्यवस्था। निर्णयसिन्धु II. p. 154.
 
-Two more śrāddhas that are performed even to this day may be mentioned here. One is called 'Mātāmahasraddha' or "Dauhitra-pratipad-śrāddha'. A daughter's son whose parents are alive can alone perform a śrāddha for his maternal grand-father (together with the maternal grand-mother if she also be dead) on the first tithi of the bright half of Āśvina 1197. A daughter's son can perform it even if his maternal grand father has a son or sons living. It may be performed with or without piṇḍadāna (generally without it) and it may be per formed even if the daughter's son has not been invested with the sacred thread. The Śrāddhasāra nutes that the mātāmaha śrāddha is based only on the usage of śistas (p. 24).
+[^1199]: ताते दशाहेऽतिगते कृतशौचो नृपात्मजः। द्वादशेऽहनि संप्राप्ते श्राद्धकर्माण्य कारयत्॥ ब्राह्मणेभ्यो ददौ रत्नं धनमन्नं च पुष्कलम्। बास्तिकं बहुशुक्लं च गाश्चापि शतशस्तदा। दासीदासं च यानं च वेश्मानि सुमहान्ति च । ब्राह्मणेभ्यो ददौ पुत्रो राज्ञस्तस्यौर्ध्वदेहिकम् । रामायण, अयोध्याकाण्ड 77. 1-3 (M. L. J. edition, 1933). ततोऽनन्तरमेवात्र सर्ववर्णान्महामते । अन्नपानरसौघेण प्लावयामास पार्थिवः ॥ आश्रमवासिकपर्व 14. 12.
 
-Another is the 'Avidhayānavamiśrāddha', which is per formed for one's mother or other women of the family who died while the husbands were alive. It is performed on the 9thy of
+[^1200]:अन्नदो लभते तिस्रः कन्याकोटीस्तथैव च । अन्नदानात्परं दानं विद्यते नेह किंचन । अन्नाद् भूतानि जायन्ते जीवन्ति च न संशयः॥ जीवदानात्परं दानं न किंचिदिह विद्यते। अन्नैर्जीवति त्रैलोक्यमन्नस्यैव हि तत्फलम् । अन्ने लोकाः प्रतिष्ठन्ति लोकदानस्य तत्फलम् । अन्नं प्रजापतिः साक्षात्तेन सर्वमिदं ततम् ॥ वायुपुराण 80.54-57.
 
-FOUNDED
+## Giving dakşiņā
 
-1917
+The Śāntiparva (chap. 42.7) states that while Yudhiṣṭhira performed the after-death ceremonies of the fallen heroes he erected _sabhās, prapās_, water reservoirs and the like intending them for each separately. Devala states: 'when the brāhmaṇas have sipped water after dinner, dakşiņā is to be given' and Bṛhaspati prescribes 'Dakşiņā should be given to all the brāhmaṇas according to the learning of them by means of (gifts of) cows, land, gold, clothes. He should do this in such a way that they feel satisfied; one who is well-off should do this specially'[^1201]. The Āśvamedhika-parva (62. 2-5) states that Vāsudeva offered śrāddha to his sister's son Abhimanyu and donated to sixty thousand brāhmaṇas, gold, cows, bed-steads, clothes and fed them. A special rule was provided by Bṛhaspati that the clothes, ornaments, bed-stead and the like, the horse and the like that were used by the father during his lifetime should be presented to the brāhmaṇa invited for śrāddha after honouring him with sandalwood paste and flowers[^1201a]. The Anušāsanaparva (chapt. 96 ) states the origin of the practice of giving an umbrella and sandals on the completion of a śräddha.
 
-1196. Vide धर्मसिन्धु II. p. 79 for the सङ्कल्प in महालयश्राद्ध
+Something must be said about the gift of the bed-stead (_śayyā_) used by the deceased on the 11th or 12th day after death. The Garudapurāņa (Pretakhanda 34. 69-89), Padma (srṣṭikhaṇḍa 10.12), the Matsyapurāņa highly eulogise the gift of śayyā to a brāhmaṇa and his wife. The Matsyapurāņa states that on the 2nd day after the end of impurity on death the performer (of śrāddha ) should donate a bed-stead possessing special characteristics; on it the golden image of the deceased should be placed and also fruits and clothes. After honouring a brāhmaṇa couple with many ornaments this should be done; then a bull should be let loose (for the benefit of the deceased) and the gift of a dark brown cow should also be made[^1202]. The Garudapurāņa (Pretakhaṇḍa 34.73-82) gives a more elaborate description which appears to be almost identical with the verses of the Bhaviṣya quoted by Hemādri.
 
-1197. THATSIT z anest safariga I tararAEMI siaa: Flagra verse 170.
+[^1201]: बृहस्पतिरपि । प्रदद्याद्दक्षिणां तेषां सर्वेषामनुरूपतः । गोभूहिरण्यवासोभिस्तुष्टिर्भुक्तवतां यथा । तथा भवति कर्तव्यं समर्थेन विशेषतः। q. by पृथ्वीच. folio 112b; यद्यद्दिष्टतमं लोके यच्चास्य दयितं गृहे। तत्तगुणवते देयं तदेवाक्षयमिच्छता ॥ मार्कण्डेय 32.91, वामनपुराण 14. 106.
 
-dati ara
+[^1201a]: वस्त्रालङ्कारशय्यादि पितुर्यद्वाहनादिकम्। गन्धमाल्यैः समभ्यर्च्य श्राद्धभोकत्रे तदर्पयेत्॥ बृहस्पति q. by व्य. म. p. 129, श्रा. क. ल. p. 213.
 
-बरावधीत
+[^1202]: सूतकान्ताद् द्वितीयेऽह्नि शय्यां दद्याद्विलक्षणाम् । काञ्चनं पुरुषं तद्वत्फलवस्त्रसमन्विताम् । सम्पूज्य द्विजदाम्पत्यं नानाभरणभूषणैः। वृषोत्सर्गं च कुर्वीत देया च कपिला शुभा॥ मत्स्यपुराण 18. 12-14 q. by श्रा. क.ल. p. 213, श्राद्धरत्न p. 199.
 
-Bhandarkar Oriental Research Institute
+The Bhaviṣyapuräna quoted by Hemādri (and from Hemādri by the Nirņaya sindhu p. 596 ) states the mantra to be recited viz. 'just as the bed-stead of Kṛṣna is never devoid of Lakṣmi, the daughter of the ocean, similarly my bed may not be empty in each birth that I may have to undergo'[^1203]. Acceptance of the gift of a śayyā was looked down upon in former times and even now it is only the poor brāhmaṇas (that are not generally learned) that accept this gift. The Padmapurāņa condemns the acceptance of the gift of śayyā in no measured terms. It says 'when a brāhmaṇa accepts the gift of a bed-stead, he should have to undergo the ceremony of upanayana again. In the Veda as well as in the Purāṇa (the gift of ) a bed-stead is everywhere condemned and all those who accept the gift go to hell.'[^1204].
 
-534
+## Śrāddha by son of two fathers
 
-History of Dharmaśāstra
+Certain other matters connected with śrāddhas may be briefly touched upon. In very ancient times twelve kinds of sons were recognized out of whom the kşetraja[^1205], the putrikāputra and dattaka were most important. All these were the sons of two fathers. The question mooted was: to whom were they to offer piṇḍas? The Madanapārijāta (pp. 607-608) quotes a passage from the Hārīta-dharmasūtra[^1206] and explains it. Hārīta says: 'seed does not grow without a field. Since it is seen that both are necessary the child born is the child of both. Out of the two (fathers ) the procreator is to be first invoked (and then the kşetrin). He (the son) may offer two piņdas to each grade of the ancestors or he may offer a single piṇḍa (to the father and ) may repeat the names of both (fathers ) as to that single piṇḍa. The son of the son of two fathers ) may repeat two names as to the 2nd piṇḍa (i. e. the piņda for paternal grand-father ); the grand-son (of the son of two fathers ) may do the same as to the third piṇḍa (viz. the piṇḍa for paternal great-grandfather).
 
-[Vol.
+[^1203]: मन्त्रस्तु-यथा न कृष्णशयनं शून्यं सागरजातया। शय्या ममाप्यशून्यास्तु तथा जन्मनि जन्मनि ॥ यस्मादशून्यं शयनं केशवस्य शिवस्य च । शय्या...जन्मनि॥ नि सि. III. p. 597. The गरुडपुराण (प्रेतखण्ड 34.81) has the verse यथा न etc
 
-the dark half of Bhādrapada. It ceases to be performed when the husband dies after the woman's death. The Nirnayasindhu notices several views about this and says that one should follow the usage of one's country 1198. According to the Mar kaṇḍeyapurāņa in this śrāddha not only a brāhmaṇa but also a woman whose husband is alive is to be fed and presents of a girdle, a garland and bangles are to be made to her.
+[^1204]: गृहीतायां तु शय्यायां पुनः संस्कारमर्हति । वेदे चैव पुराणे च शय्या सर्वत्र गर्हिता ॥ ग्रहीतारस्तु जायन्ते सर्वे नरकगामिनः॥ पद्म (सृष्टिखण्ड 10. 17-18).
 
-It will have been seen from the translation of Aøv. gr., Yaj. and the Padmapurāṇa that daksina, according to one's ability, has to be given in each śrāddha towards the end of the rite. The Skandapurāṇa (VI. 218. 12-14) provides that what ever is wanting in mantras or the proper time or in procedure becomes pərfect by dakşiņā. Śrāddha without daksinā is like rain on an arid place or like dancing in the dark or like singing before a deaf person, that he who desires the permanent gratification of himself and his Manes should not offer a śrāddha without dakšiņā. The Rāmāyana shows how on the 12th day after the death of king Dasaratha gifts of jewels, of hundreds of cows, wealth, food in abundance and vehicles, of male and female slaves, of spacious houses were made to the brāhmaṇas. 1199 The Asramavāsikaparva (14. 3-4) recounts the valuable gifts to brāhmaṇas in honour of Bhisma, Drona, Duryodhana and other fallen warriors, adding that persons of all varpas were treated to profuse food and drink. The Vāyupurāņa (chapter 80 ) propounds in great detail the rewards of various kinds of gifts made in śrāddhas. From considerations of space those descriptions are passed over here and only a brief eulogy of the gift of cooked food is given in the note below.1200 The Santiparva (chap. 42.7)
+[^1205]: The kṣetraja son was procreated on the wife or widow of a sonless man by a _sagotra_ (a brother or other agnate) or even an _asagotra_ according to the rules of _niyoga_, the procreator being called _bijin_ and the husband on whose wife or widow the son was begotten was called _kṣetrin_. The putrikāputra is of two kinds, (1) a sonless man gives his daughter in marriage to another with the stipulation that the son born of the marriage will be the son of the girl's father (Vas. 17. 17, Manu IX. 127); (2) A daughter herself may be made a son (Vas. 17. 16). A dattaka is a son whom his father or mother gives to another as a son confirming the gift with water (Manu IX, 168). Vide H. of Dh. vol. III. pp. 647-650 for detailed explanations about these and other secondary sons.
 
-1198. अत्र भर्तृमरणोत्तरं पूर्वमृतश्राद्धं न कार्यमिति केचिदाहुः पठन्ति च श्राद्धं नवम्यां कुर्यात्तन्मृते भर्तरि लुप्यते इति तदेतन्निर्मूलत्वान्मूर्खप्रतारणमात्रम् । श्राद्धदीपकलिकायां ब्राह्मे पितृमातृकुलोत्पन्ना याः काश्चिन्मृताः स्त्रियः । श्राद्धार्हा मातरो ज्ञेयाः श्राद्धं तत्र प्रदीयते ॥
+[^1206]: तत्र हारीतः। नाक्षेत्रं बीजं रोहति। उभयदर्शनादुभयोरपत्यमिति। तेषामुत्पादयितुः प्रथमः प्रवरो भवति । द्वौ द्वौ पिण्डौ निर्वपेत् । अथवैकपिण्डे द्वावनुकीर्तयेत्। द्वितीये पुत्रस्तृतीये पौत्रो लेपिनश्च त्रीनन्वाचक्षाण आ सप्तमादित्येके । मद. पा. pp. 607-608 and कल्पतरु (on श्रा. pp..241-242).
 
-इति । अत्र देशाचाराद् व्यवस्था। निर्णयसिन्धु II. p. 154.
+Manu IV. 140 and Gobhila-smr̥ti II. 105 say about the putrikāputra[^1207] that he presents the first piṇḍa to his mother (as she was appointed as a son), the 2nd to her father and the third to his father's father. This appears to be one order in which piṇḍas are to be offered by the putrikāputra, while Manu IX. 132 sets out another method since it says that a putrikāputra inherits the entire wealth of his own father if he is sonless and he gives two piṇḍas (i e. performs two śrāddhas) for his own father and for his maternal grandfather. The Sān. Śr. S. provides[^1208] that if there be two fathers, the son should recite the names of both (_bijin and kşetrin_ ) with reference to the same piṇḍa. Even Yāj. says "The son procreated according to the rules of _niyoga_ by a sonless man on the wife of another inherits the wealth of both and offers piņda to both.'[^1209] The Mit. adds that if a person appointed to procreate a son on another's wife has a son, then the son so begotten becomes the son of the kşetrin alone and not of the bijin. As the kşetraja and putrikāputra have become obsolete for several centuries the subject has only an academic interest now. But the _dattaka_ is still in vogue and a few words must be said here about the persons to whom the dattaka offers piṇḍas.
 
-1199. ताते दशाहेऽतिगते कृतशौचो नृपात्मजः। द्वादशेऽहनि संप्राप्ते श्राद्धकर्माण्य कारयत्॥ ब्राह्मणेभ्यो ददौ रत्नं धनमन्नं च पुष्कलम्। बास्तिकं बहुशुक्लं च गाश्चापि शतशस्तदा। घासीदासं च यानं च वेश्मानि सुमहान्ति च । ब्राह्मणेभ्यो ददौ पुत्री राज्ञस्तस्यौवंदेहिकम् । रामायण, अयोध्याकाण्ड 77. 1-3 (M. L. J. edition, 1933). ततोऽनन्तरमेवात्र सर्ववर्णा न्महामते । अन्नपानरसौघेण लावयामास पार्थिवः ॥ आश्रमवासिकपर्व 14. 12.
+[^1207]: मातुः प्रथमतः पिण्डं निर्वपेत् पुत्रिकासुतः। द्वितीयं तु पितुस्तस्यास्तृतीयं तु पितुः पितुः ॥ गोभिलस्मृति II. 105. कुल्लुक appears to be wrong in explaining पितुः पितुः in मनु IX. 140 as 'तृतीयं मातुः पितामहाय दद्यात् ।'. मनु IX. 132 is 'दौहित्रो ह्यखिलं रिक्थमपुत्रस्य पितुर्हरेत्। स एव दद्याद् द्वौ पिण्डौ पित्रे मातामहाय च ॥". Here दौहित्र means पुत्रिकापुत्र.
 
-1200.अन्नदो लभते तिस्रः कन्याकोटीस्तथैव च । अन्नदानात्परं दानं विद्यते नेह किंचना अन्नाद् भूतानि जायन्ते जीवन्ति च न संशयः॥ जीवदानात्परं दानं न किंचिदिह वियते। अन्जीवति त्रैलोक्यमनस्यैव हि तत्फलम् । अन्ने लोकाः प्रतिष्ठन्ति लोकदानस्य तत्फलम् । अम्मा प्रजापतिः साक्षात्तेन सर्वमिदं ततम् ॥ वायुपुराण 80.54-57.
+[^1208]: असावेतत्ते ये च त्वामत्रान्विति पिण्डान् यथावनेजितं निधायोभावेकस्मिन् पिण्डे पितृभेदे । शाङ्खायनश्री. सू. IV. 3. 10-11 q. by कल्पतरु p. 241 (on श्रा.).the आप. श्री. I. 9.7 says 'यदि द्विपिता स्यादेकैकस्मिन् पिण्डे द्वौ द्वावुपलक्षयेत्'।
 
-INS
+[^1209]: अपुत्रेण परक्षेत्रे नियोगोत्पादितः सुतः। उभयोरप्यसौ रिक्थी पिण्डदाता च धर्मतः॥ या. II. 127; यदा तु नियुक्तः पुत्रवान् केवलं क्षेत्रिणः पुत्रार्थ प्रयतते तदा तदुत्पन्नः क्षेत्रिण एव पुत्रो भवतीति न बीजिनः। स च न नियमेन बीजिनो रिक्थहारी पिण्डदो वेति । मिता.
 
-STITU POONA
+The Kalpataru quotes from the Pravarādhyāya a passage on this point which is as follows:[^1210] 'If these (i.e. those who are bijin ) have no issue born of their own wives, (the sons begotten by _niyoga_ or given in adoption ) should inherit their wealth and offer piṇḍas to them up to three ancestors; if both (the bijin and kşetrin or the giver and taker in adoption) have no other son, then they (sons begotten or adopted ) should offer piṇḍa to both; in one and the same śrāddha they should repeat (the names of) the two ancestors respectively (of the acceptor and that of the begetter) after having separately intended the same pipda for both up to the third ancestor.' The Baud. Dh. S.[^1211] quotes a verse as follows 'The son of two fathers shall give the piṇḍa (to his two fathers and pronounce) two names with each piṇḍa ; three piṇḍas will thus serve for six persons (ancestors).' It would be seen from the passage quoted above from Hārīta that some authorities allowed two separate piṇḍas for each degree of ancestors when there were two in the same degree. Manu IX. 142 lays down 'the son given should not take the _gotra_ and wealth of his natural father; the piṇḍa follows the gotra and wealth; the _svadhā_ (obsequies) of him who gives (his son in adoption) cease or fail (so far as that son is concerned).' This verse has been so interpreted by some decisions of the High Courts and of the Privy Council as to mean that the son adopted becomes totally severed from the family of his birth. This subject has been discussed at great length in H. of Dh. vol. III pp. 690-697 and it is established there that the severance of the son given in adoption is only partial, that the gotra of the natural family persists even after adoption into another family for purposes of marriage and āśauca and that the Nirņayasindhu, 1212 the Dharma-sindhu and the Dattakacandrikā declare that the son given away in adoption into another family can perform the śrāddha of his natural father, if the latter has no son at the time of his death and can also take his wealth.
 
-FOUNDED
+[^1210]: अथ यद्येषां स्वभार्यास्वपत्यं न स्याद्रिकथं हरेयुः पिण्डं चैभ्यस्त्रिपुरुषं दद्युरथ यद्युभयोर्न स्यादुभाभ्यां दद्युरेकस्मिञ्छ्राद्धे पृथगुद्दिश्यैकपिण्डे द्वावनुकीर्तयेत् प्रतिग्रहीतारं चोत्पादयितारं चा तृतीयात्पुरुषात् । q. by कल्पतरु (श्रा. p. 241) with variations. The same passage is cited as from कात्यायन by the व्य. म. p. 115 (my edition), and from कात्यायन and लौगाक्षि (quoted in प्रवरमअरी) by नि. सि. III. p. 389.
 
-तिजस्विना
+[^1211]: अथाप्युदाहरन्ति। द्विपितुः पिण्डदानं स्यात् पिण्डे पिण्डे च नामनी। त्रयश्च पिण्डाः षण्णां स्युरेवं कुर्वन्न मुह्यति ॥ इति । बौ. ध. सू. II. 2. 22-23.
 
-१नावणीतमस्तु
-
-A
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Giving dakşiņā
-
-535
-
-states that while Yudhisthira performed the after-death cere monies of the fallen heroes he erected sabhās, prapās, water reservoirs and the like intending them for each separately. Devala states: 'when the brāhmaṇas have sipped water after dinner, dakşiņā is to be given' and Bphaspati prescribes
-
-Dakşiņā should be given to all the brāhmaṇas according to the learning of them by means of (gifts of) cows, land, gold, clothes. He should do this in such a way that they feel satisfied; one who is well-off should do this specially. '1201 The Āývamedhika-parva (62. 2-5) states that Vasudeva offered śrāddha to his sister's son Abhimanyu and donated to sixty thousand brāhmaṇas, gold, cows, bed-steads, clothes and fed them. A special rule was provided by Brhaspati that the clothes, ornaments, bed-stead and the like, the horse and the like that were used by the father during his lifetime should be presented to the brāhmaṇa invited for śrāddha after honouring him with sandalwood paste and flowers.12014 The Anušāsana parva (chapt. 96 ) states the origin of the practice of giving an umbrella and sandals on the completion of a śräddha.
-
-Something must be said about the gift of the bed-stead ( sayyā) used by the deceased on the 11th or 12th day after death. The Garudapurāņa (Pretakhanda 34. 69-89), Padma (srṣṭikhaṇḍa 10.12), the Matsyapurāņa highly eulogise the gift of sayyā to a brāhmaṇa and his wife. The Matsyapurāņa states that on the 2nd day after the end of impurity on death the performer (of śrāddha ) should donate a bed-stead possessing special characteristics; on it the golden image of the deceased should be placed and also fruits and clothes. After honouring a brāhmaṇa couple with many ornaments this should be done; then a bull should be let loose (for the benefit of the deceased) and the gift of a dark brown cow should also be made 1202 The Garudapurāņa (Pretakhanda 34.73-82) gives a more elaborate description which appears to be almost identical with the
-
-STITO POONA
-
-1201. LETTRICI
-
-aqiqagsta: PETUTATHITH Faremaai te aur wara a aa aiva:1'q. by geira. folio 112b; 72 द्दिष्टतमं लोके यञ्चास्य दयितं गृहे। तत्तद्गुणवते देयं तदेवाक्षयमिच्छता ॥ मार्कण्डेय 32.91, arhayrrur 14. 106.
-
-____1201 a. वस्त्रालङ्कारशय्यादि पितुर्यद्वाहनादिकम्। गन्धमाल्यैः समभ्यर्च्य भाडभोग्ने
-
-wal tertiâ q. by sy. #. p. 129, 911. 05. g. p. 213.
-
-1202. arg raasiga stui gang hayo ma समन्विताम् । सम्पूज्य द्विजदाम्पत्यं नानाभरणभूषणैः । वृषोत्सर्ग च कुर्वीत देया चकपिल्ला HI HETETT 18. 12-14 q. by s t . 3. p. 213, grap. 199. Research Institute
-
-a
-
-FOUNDED
-
-1917
-
-Bhandarkar Oriental Research Institute
-
-536
-
-History of Dharmasāstra
-
-[Vol.
-
-verses of the Bhaviṣya quoted by Hemādri. The Bhaviṣya puräna quoted by Hemādri (and from Hemādri by the Nirnaya sindhu p. 596 ) states the mantra to be recited viz. just as the bed-stead of Krsna is never devoid of Laksmi, the daughter of the ocean, similarly my bed may not be empty in each birth that I may have to undergo. '1203 Acceptance of the gift of a sayyā was looked down upon in former times and even now it is only the poor brāhmaṇas (that are not generally learned) that accept this gift. The Padmapurāņa condemns the accept ance of the gift of sayyā in no measured terms. It says 'when a brāhmaṇa accepts the gift of a bed-stead, he should have to undergo the ceremony of upanayana again. In the Veda as well as in the Purāna (the gift of ) a bed-stead is everywhere condemned and all those who accept the gift go to hell.' 1204
-
-Certain other matters connected with śrāddhas may be briefly touched upon. In very ancient times twelve kinds of sons were recognized out of whom the kşetraja, 1205 the putrikā putra and dattaka were most important. All these were the sons of two fathers. The question mooted was: to whom were they to offer piṇḍas? The Madanapārijāta (pp. 607-608) quotes a passage from the Hārīta-dharmasūtra 1206 and explains it. Hārīta says: 'seed does not grow without a field. Since it is seen that both are necessary the child born is the child of both. Out of the two (fathers ) the procreator is to be first invoked
-
-1203. #34-97 FCUTT47 T HTTGATTI TUT HATC FIFTET TAT जन्मनि जन्मनि॥ यस्मादन्यं शयनं केशवस्य शिवस्य च। डाय्या...जन्मनि॥ नि सि. p. 597. The 75EGTUT (Qarang 34.81) has the verse Tera etc
-
-__1204. गृहीतायां तु शय्यायां पुनः संस्कारमहति । वेदे चैव पुराणे च शय्या सर्वत्र strear eartea - Th a: 4 (uleave 10. 17-18).
-
-1205. The ksetraja son was procreated on the wife or widow of a sonless man by a sagotra (a brother or other agnate) or even an asagotra accor ding to the rules of niyoga, the procreator being called bijin and the hus band on whose wife or widow the son was begotten was called ksetrin. The putrikāputra is of two kinds, (1) a sonless man gives his daughter in marriage to another with the stipulation that the son born of the marriage will be the son of the girl's father (Vas. 17. 17, Manu IX. 127); (2) A daughter herself may be made a son (Vas. 17. 16). A dattaka is a son whom his father or mother gives to another as a son confirming the gift with water (Manu IX, 168). Vide H. of Dh. vol. III. pp. 647-650 for detailed explanations about these and other secondary sons,
-
-1206. a Etia: 1 ararci aftsi tielaghearg Rifafa I agrer यितुः प्रथमः प्रवरो भवति । द्वौ द्वौ पिण्डौ निर्वपेत् । अथवैकपिण्डे द्वावनुकीर्तयेत् । द्वितीये पूवर
-
-a Toasa fararda 31T Farah I wę. . pp. 607-608 andranno 99 (on 9. pp. 241-242).
-
-YASTITU
-
-POONA
-
-FOUNDED
-
-Bhandarkar Oriental Research Institute
-
-IV]
-
-Śrāddha by son of two fathers
-
-537
-
-(and then the kşetrin). He (the son) may offer two piņdas to each grade of the ancestors or he may offer a single piṇḍa (to the father and ) may repeat the names of both (fathers ) as to that single piṇḍa. The son of the son of two fathers ) may repeat two names as to the 2nd piṇḍa (i. e. the piņda for paternal grand-father ); the grand-son (of the son of two fathers ) may do the same as to the third piṇḍa (viz. the piṇḍa for paternal great-grandfather). Manu IV. 140 and Gobhila-smr̥ti II. 105 say about the putrikāputra 1207 that he presents the first piṇḍa to his mother (as she was appointed as a son), the 2nd to her father and the third to his father's father. This appears to be one order in which piṇḍas are to be offered by the putrikāputra, while Manu IX. 132 sets out another method since it says that a putrikāputra inherits the entire wealth of his own father if he is sonless and he gives two piṇḍas (i. e. performs two śrāddhas) for his own father and for his maternal grandfather. The Sān. Śr. S. provides 1208 that if there be two fathers, the son should recite the names of both (bijin and kşetrin ) with reference to the same piṇḍa. Even Yāj. says "The son procreated according to the rules of niyoga by a sonless man on the wife of another inherits the wealth of both and offers piņda to both.'1209 The Mit. adds that if a person appointed to procreate a son on another's wife has a son, then the son so begotten becomes the son of the kşetrin alone and not of the bijin. As the kşetraja and putrikā putra have beconie obsolete for several centuries the subject has only an academic interest now. But the dattaka is still in vogue and a few words must be said here about the persons to whom the dattaka offers piṇḍas. The Kalpataru quotes from the Pravarādhyāya a passage on this point which is as
-
-1207. Art: rupa: fque raraga gfamiga: fari a faktetrega a rug: fug: # n a II. 105. oh appears to be wrong in explaining roa: fra: in az IX, 140 as 'qari Arafuar en T. AZ IX. 132 is 'arrestigio रिक्थमपुत्रस्य पितुर्हरेत्। स एव दद्याद् द्वौ पिण्डौ पित्रे मातामहाय च ॥7. Here दौहित्र means gishta.
-
-1208. असावेतत्ते ये च त्वामत्रान्विति पिण्डान् यथावनेजितं निधायोभावेकस्मिन् पिण्डे rogue I ET37. IV. 3. 10-11 q. by car p. 241 (on . Yo The 3114. 11. 1. 9, 7 says 'fe fatiar rrahaltaa Tavè gi g
-
-1209. SET TO Bernarea: ca:HTCUT ftreft fìuegrar धर्मतः॥ या. II. 127; यदा तु नियुक्तः पुत्रवान् केवलं क्षेत्रिणः पुत्रार्थ प्रयतते तदा तदुत्पन्न क्षेत्रिण एव पुत्रो भवतीति न बीजिनः। स च न नियमेन बीजिनो रिक्थहारी पिण्डदो बात। मिताभ
-
-H. D. 68
-
-STITI POOHA
-
-538
-
-History of Dharmaśāstra
-
-[Vol.
-
-follows: 1210 'If these (i. e. those who are bijin ) have no issue born of their own wives, (the sons begotten by niyoga or given in adoption ) should inherit their wealth and offer pipdas to them up to three ancestors; if both (the bijin and kşetrin or the giver and taker in adoption) have no other son, then they (sons begotten or adopted ) should offer piṇḍa to both; in one and the same śrāddha they should repeat (the names of) the two ancestors respectively (of the acceptor and that of the begetter) after having separately intended the same pipda for both up to the third ancestor.' The Baud. Dh. S. 1211 quotes a verse as follows The son of two fathers shall give the piṇḍa (to his two fathers and pronounce) two names with each piṇḍa ; three piṇḍas will thus serve for six persons (ancestors).' It would be seen from the passage quoted above from Hārīta that some authorities allowed two separate piṇḍas for each degree of ancestors when there were two in the same degree. Manu IX. 142 lays down the son given should not take the golra and wealth of his natural father; the piṇḍa follows the gotra and wealth; the svadhā (obsequies) of him who gives (his son in adoption) coase or fail (so far as that son is concerned).' This verse has been so interpreted by some decisions of the High Courts and of the Privy Council as to mean that the son adopted becomes totally severed from the family of his birth. This subject has been discussed at great length in H. of Dh. vol. III pp. 690-697 and it is established there that the severance of the son given in adoption is only partial, that the gotra of the natural family persists even after adoption into another family for purposes of marriage and āśauca and that the Nirņayasindhu, 1212 the Dharma-sindhu and the Dattaka candrikā declare that the son given away in adoption into another family can perform the śrāddha of his natural father,
-
-· 1210. 3721 Furnitat 7 FICT git: foug Fu are यद्युभयोर्न स्यादुभाभ्यां दद्यरेकस्मिञ्छ्राद्धे पृथगदिश्यैकपिण्डे द्वावनुकीर्तयेत् प्रतिग्रहीतार Terrari i qataragama Iq. by gat (B71. p. 241) with variations. The same passage is cited as from the ta by the s. #. p. 115 (my edition), and from कात्यायन and लौगाक्षि (quoted in प्रवरमञ्जरी) by नि. सि. III. p. 389.
-
-1211, 312TTEETFAI retua: quequi fua fūve foug Trai 79 füvet: upouri fyti gara garai gaiat. II. 2. 22–23.
-
-1212. 2
-
-T gerTHE ET JATI TIF warga asta दत्रिमः सुतः। गोत्ररिक्थानुगः पिण्डो व्यपैति ददतः स्वधा ॥ इति मनूक्तेः । इदं जनकस्य पुत्र-प Faratai . FA. III. p. 389; ha affua: ruua nita:
-
-Surg Vai Tera I AfhEY III. (
-
-F H) p. 371.
-
-POONA
-
-UNDED
-
-I PE 2
-
-Bhandarkar Oriental Research InstituteIV]
+[^1212]: दत्तकस्तु जनकस्य पुत्राद्यभावे दद्यान्न तत्सत्वे। गोत्ररिक्थे जनयितुर्न भजेद् दत्रिमः सुतः। गोत्ररिक्थानुगः पिण्डो व्यपैति ददतः स्वधा॥ इति मनूक्तेः। इदं जनकस्य पुत्रसत्त्वविषयम्। नि.सि. III. p. 389; दत्तकस्तु जनकपितुः पुत्राद्यभावे जनकपितुः श्राद्धं कुर्याद् धनं च गृह्णीयात् । धर्मसिन्धु III, (उत्तरार्ध) p. 371.
+  
 
 The letting loose of a bull
 
 539
 
-if the latter has no son at the time of his death and can also take his wealth.
+
 
 Vrsotsarga (the letting loose of a bull). This topic has been dealt with by several sūtra works such as the Sān, gr. III. 11, the Kausitaki gr. III. 11 (in Benaras S. S. and III 6 in Madras University Series), Kāthaka gr. 59, 1 ff., Pāraskara gr. III. 9, Viṣṇu-dharmasutra, chap. 86. 1-20. In numerous works some verses called gāthās sung by the pitṛs are set out one of which expresses the yearning of the pitṛs as follows : 1213 'one should desire to have many sons; since if even one (of the sons) goes to Gayā (and offers śrāddha after his father's death) or if he performs a solemn horse sacrifice or lets loose a dark-coloured bull (the man having such a son will secure final release )'. The description in the Vişnudharmasutra being tolerably full is set out here%3; 1214 " (This ceremony) takes place on the full moon day in Kartika or Āśvina. In this rite he must first examine the bull. The bull must be the offspring of a milch cow having young ones living, he must have all auspicious
 
