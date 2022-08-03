@@ -36,195 +36,99 @@ Ekādaśīvrata on the ekādaśīs of both fortnights is _nitya_ only for person
 
 ## Praise
 
-On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a prāyaścitta (expiation for sins) has been described in vol. IV. pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādaśī has been indulged in by many Purāṇas and digests. In the Nārada-purāna there is a long passage on the greatness (māhātmya) of Ekādaśī (quoted in Hemādri on Kala p. 146 and Kalanirṇaya pp. 273-274). A few of the verses may be cited here;
+On pp. 43-45 above the exaggerated importance attached to vratas in general has already been dealt with. Upavāsa as a _prāyaścitta_ (expiation for sins) has been described in vol. IV. pp. 52-54. Extremely exaggerated praise of the efficacy of fasting on Ekādaśī has been indulged in by many Purāṇas and digests. In the Nārada-purāṇa there is a long passage on the greatness (māhātmya) of Ekādaśī (quoted in Hemādri on Kala p. 146 and Kalanirṇaya pp. 273-274). A few of the verses may be cited here; 'by the fire arising from (the observance of) ekādaśī, fuel in the form of sins committed in hundreds of past lives is reduced to ashes. Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādaśī. This ekādaśī bestows heaven and _mokṣa_, confers a kingdom and sons (on a man) and a good spouse and the health of the body. The Ganges, Gayā, Kāśi, Puṣkara, Kurukṣetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'. Similar verses occur in the Padmapurāṇa.[^245] The Anuśāsanaparva [^246] pronounces on Upavāsa, an exaggerated eulogy. The Padma [^247] declares 'on hearing the word ekādaśī, the messengers of Yama become afraid; having fasted on ekādaśī which is the best among all vratas, one should keep awake (in the night) for propitiating Viṣṇu and should sumptuously decorate the temple or _maṇḍapa_ of Viṣṇu. The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'[^248]. The Varāhapurāṇa (chap. 30) declares that Brahmā gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything. The Padma narrates the story of a woman, who was always quarrelsome and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast [^249] (not under taken cheerfully and willingly, but out of anger) became pure. The Garuḍapurāṇa declares [^250] (if one places) on one side (in one pan) the gift of the whole world and on the other side (in another pan) the day of Hari, this ekādaśī is more holy and superior. The ekādaśī in Aṣāḍha śukla is called mahā-ekādaśī and also Śayanī.
 
-> 'by the fire arising from (the observance of) ekādaśī,  
-> fuel in the form of sins committed in hundreds of past lives is reduced to ashes.  
-> Thousands of Aśvamedha sacrifices and hundreds of Vājapeya sacrifices do not reach even up to the 16th part (of the merit) of the fast on ekādaśī.  
-> This ekādaśī bestows heaven and mokṣa, confers a kingdom and sons (on a man) and a good spouse and the health of the body.  
-> The Ganges, Gaya, Kasi, Puskara, Kuruksetra, the Narmada, the Devika, the Yamunā, the Candrabhāgā are none of them equal to the day of Hari'.
+[^245]: अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नार्हन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पद्म (आदिखण्ड 31. 157, 160, 161, 162).
 
-Similar verses occur in the Padmapurāna.[^245] The Anuśāsanaparva [^246] pronounces on Upavasa. an exaggerated eulogy. The Padma [^247] declares
+[^246]:  मासोपवासी वर्षैस्तु दशभिः स्वर्गमुत्तमम् । महर्षित्वमथासाद्य सशरीरगतिर्भवेत् । ... दिवं गत्वा शरीरेण स्वेन राजन्यधामरः । अनुशासन 107. 136, 137, 139.
 
-> 'on hearing the word ekādaśī, the messengers of Yama become afraid;  
-> having fasted on ekādaśī which is the best among all vratas,  
-> one should keep awake (in the night) for propitiating Viṣṇu and should sumptuously decorate the temple or maṇḍapa of) Viṣṇu.  
-> The man who worships Hari with basil leaves secures by each single leaf the reward of a crore of sacrifices'.
+[^247]: श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मर्त्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4.
+[^248]: तस्यामनग्निपक्काशी यो भवेन्नियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्वे प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति).
 
-[^245]: अश्वमेधसहस्राणि राजसूयशतानि च। एकादश्युपवासस्य कलां नाहन्ति षोडशीम् ॥ स्वर्गमोक्षप्रदा ह्येषा शरीरारोग्यदायिनी । सुकलत्रप्रदा ह्येषा जीवत्पुत्रप्रदायिनी ॥ न गङ्गा न गया भूप न काशी न च पुष्करम् । न चापि वैष्णवं क्षेत्र तुल्यं हरिदिनेन च ॥ यमुना चन्द्रभागा न तुल्या हरिदिनेन तु । अनायासेन येनात्र प्राप्यते वैष्णवं पदम् ॥ पन (अदिखण्ड 31. 157, 160, 161, 162).
+[^249]: निराहारकृताद्वै च निर्मला सा बभूव ह । पद्म, ब्रह्मखण्ड, 13. 53.
 
-___ 246 मासोपवासी वस्तु दशभिः स्वर्गमुत्तमम् । महर्षित्वमथासाद्य सशरीरगतिर्भवेत् । ... दि गत्वा शरीरेण स्वेन राजन्यधामरः । अनुशासन 107. 136, 137, 139.
-
-[^247]: श्रुत्वा चैकादशीनाम यमदूताश्च शङ्किताः॥ व्रतानां चैव सर्वेषां श्रेष्ठां चैकादशी शुभाम् । उपोष्य जागृयाद्विष्णोः कुर्याच्च मण्डनं महत् ॥ तुलसीदलैस्तु यो मत्यो हरिपूजां करोति वै। दलेनैकेन लभते कोटियज्ञफलं द्विज ॥ पद्म, ब्रह्मखण्ड, 15.2-4.
-
-[^248] The Varāhapurana (chap. 30) declares that Brahma. gave Ekādaśī to Kubera (the lord of wealth) and that to the person who controls himself, who is pure and eats only what is not cooked by fire, Kubera, being pleased, gives everything.
-
-[^248]: तस्यामनग्निपक्काशी यो भवेलियतः शुचिः। तस्यापि धनदो देवस्तुष्टः सर्व प्रयच्छति । वराह 30 6, q. by का. वि. 451 (reads वित्तं प्रयच्छति).
-
-The Padma narrates the story of a woman, who was always quarrelsome and who thought of her lover, was therefore censured by her husband and beaten, and who in anger went without food and died at night and who on account of her fast [^249] (not under taken cheerfully and willingly, but out of angor) became pure. The Garuḍapurāna declares [^250] (if one places) on one side (in one pan) the gift of the whole world and on the other side (in another pan) the day of Hari, this ekādaśī is more holy and superior. The ekādaśī in Aṣāḍha sukla is called mahā-ekādaśī and also Śayanī.
-
-[^249]: निराहारकृताद्वै च निर्मला सा बभूव ह । पन, ब्रह्मखण्ड, 13. 53.
 [^250]: एकतः पृथिवीदानमेकतो हरिवासरः। ततोप्येका महापुण्या इयमेकादशी वरा। गरुड I. 127. 12.
-
-99
-
 
 ## Rules for observers of Ekādaśī
 
-General rules about those who have the adhikīra to undertake vratas have already been dealt with above. But some rules meant specially for the observers of ekādaśī will be set out here. Nārada [^250a] provides
+General rules about those who have the adhikīra to undertake vratas have already been dealt with above. But some rules meant specially for the observers of ekādaśī will be set out here. Nārada [^250a] provides 'A human being who is more than eight years old and is less than eighty years in age incurs sin if he eats food on ekādaśī through foolishness.' Kātyāyana has a similar verse. These two establish that every human being of whatever caste or _āsrama_ can observe ekādaśī provided he fulfils the conditions as to age laid down in the verses.
 
-> 'A human being who is more than eight years old and is less than eighty years in age incurs sin if he eats food on ekādaśī through foolishness.'
+Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa [^251] says 'roots, fruits, milk and water may be partaken of (on ekādaśī) by great sages, but no sages have said that on ekādaśī cooked food may be taken'. The Vāyupurāṇa [^252] provided 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i.e. in ekādaśī) more commendable (than each preceding one)'.
 
-[^250a]
-
-    अत्र नारदः।  
-    अष्टब्दाद अधिको मर्त्यो ह्यपूर्णाशीति-हायनः।  
-    भुंक्ते यो मानवो मोहाद् एकादश्यां स पापकृत् ॥  
-    इति,
-
-    कात्यायनपि।  
-    अष्टवर्षाधिको मर्त्यो हाशीतिन्यूनवत्सरः ।  
-    एकादश्यामुपवसेद् पक्षयोरुभयोरपि॥ का नि. p. 257, ए त. p. 35.
-
-    In हे. (on काल) p. 172 and समयप्रकाश p. 61 नारद is quoted differently
-
-    'अष्टवर्षाधिको मर्त्यो ह्यशीतिर्न च पूर्यते।  
-    यो भुङ्क्ते मामके राष्ट्रे विष्णोरहनि पापकृत् ।  
-    स मे वध्यश्च दण्ड्यश्च निर्वास्यो देशतः स मे  
-    17. ____
-
-
-Kātyāyana has a similar verse. These two establish that every human being of whatever caste or āsrama can observe ekādaśī provided he fulfils the conditions as to age laid down in the verses.
-
-Knowing the weakness of human beings, sages relaxed the rule of an absolute fast on ekādaśī. The Nāradapurāṇa [^251] says 'roots, fruits, milk and water may be partaken of (on ekādaśī) by great sages, but no sages have said that on ekādaśī cooked food may be taken'.+++(5)+++ The Vayupurana [^252] provided
-
-> 'partaking of havisya food at night, food other than boiled rice, fruits, sesame, milk, water, ghee, pañca-gavya, air-each succeeding one is here (i. e. in ekādaśī) more commendable (than each preceding one)'.
+[^250a]: अत्र नारदः। अष्टब्दाद अधिको मर्त्यो ह्यपूर्णाशीति-हायनः। भुंक्ते यो मानवो मोहाद् एकादश्यां स पापकृत् ॥ इति,कात्यायनोपि।  अष्टवर्षाधिको मर्त्यो ह्यपूर्णाशीतिन्यूनवत्सरः । एकादश्यामुपवसेद् पक्षयोरुभयोरपि॥ का नि. p. 257, ए त. p. 35. In हे. (on काल) p. 172 and समयप्रकाश p. 61 नारद is quoted differently 'अष्टवर्षाधिको मर्त्यो ह्यशीतिर्न च पूर्यते। यो भुङ्क्ते मामके राष्ट्रे विष्णोरहनि पापकृत् । स मे वध्यश्च दण्ड्यश्च निर्वास्यो देशतः स मे'।
 
 [^251]: मूलं फलं पयस् तोयम् उपभोज्यं मुनीश्वरैः। न त्वत्र भोजनं कैश्चिद् एकादश्यां प्रदर्शितम् । नारदपुराण (उत्तरार्ध 24. 7-8).
 
-[^252]:
+[^252]: नक्तं हविष्यान्नम् अनोदनं वा फलं तिलाः क्षीरम् अथाम्बु चाज्यम् ।  यत्पञ्चगव्यं यदि वा च वायुः प्रशस्तम् अत्रोत्तरम् उत्तरं च॥ वायुपुराण q. by का. नि. p.261, का वि. p. 431, व. कि. कौ. p. 57 (ascribes to वराहपुराण), धर्मसिन्धु p. 16. वायुपुराण indicates 'an absolute fast' (not drinking even water). One may resort to one of the several options contained in this verse according to one's physical ability.
 
-    नक्तं हविष्यान्नम् अनोदनं वा  
-    फलं तिलाः क्षीरम् अथाम्बु चाज्यम् ।  
-    यत ्पञ्चगव्यं यदि वा च वायुः  
-    प्रशस्तम् अत्रोत्तरम् उत्तरं च॥  
-    वायुपुराण q. by का. नि. p.261, का वि. p. 431, व. कि. कौ. p. 57 (ascribes to वराहपुराण), धर्मसिन्धु p. 16.  
-    वायुपुराण indicates 'an absolute fast' (not drinking even water). One may resort to one of the several options contained in this verse according to one's physical ability.
+Baudhāyana [^253] declares that those who are unable to observe a complete fast (on ekādaśī) or who are over 80 years of age should resort to _ekabhakta_ and the other (alternatives). The Matsya provides [^254] that those who are unable to fast (on ekādaśi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as _pratinidhis_ in the case of a vrata has already been described above ( pp. 53-54). It is said by Mārkaṇḍeya [^255] that one may observe the methods of ekabhakta, nakta, ayācita, complete fast and _dāna_, but should not deprive oneself of the benefits of the observance of dvādaśī (with ekādaśī). Here certain alternatives are allowed in place of an absolute fast and they have to be explained. But before doing so, attention has to be drawn to the rule propounded by Manu [^256] viz. if a person, being master of (i.e. quite able to carry out) the main provisions for a rite, resorts to alternatives provided (by texts) he would not, foolish as he is, secure the otherworldly rewards ( of that rite). Therefore, ekabhakta, nakta and ayācita are to be employed only if one is unable to observe a strict fast.
 
-Baudhāyana [^253] declares that those who are unable to observe a complete fast (on ekādaśī) or who are over 80 years of age should resort to ekabhakta and the other (alternatives). The Matsya provides [^254] that those who are unable to fast (on ek dasi) should prefer to take food by the nakta method and if a person is ill, he should make his son and others to undertake the fast (on his behalf). Who can act as pratinidhis in the case of a vrata has already been described above ( pp. 53-54).
+[^253]: उपवासे त्वशक्तानाम् अशीतेरूर्ध्वजीविनाम् । एकभक्तादिकं कार्यम् आह बौधायनो मुनिः। q. by हे. (on काल p 176), का. नि. p. 261.
 
-[^253]:
+[^254]: उपवासेष्व् अशक्तानां नक्तं भोजनम् इष्यते। असामर्थ्ये शरीरस्य पुत्रादीन् कारयेद् व्रतम् ॥ मत्स्य q.by व.क्रि.कौ. p. 69.
 
-    उपवासे स्वशक्तानाम् अशीतरूधजीविनाम् ।  
-    एकभक्तादिकं कार्यम् आह बौधायनो मुनिः।  
-    १. by हे. (on काल p 176), का. नि. p. 261.
+[^255]: एकभक्तेन नक्तेन तथैवायाचितेन च। उपवासेन दानेन न निर्द्वादशिको भवेत्॥ मार्कण्डेयपुराण q. by हे. on काल p. 176, हे. on व्रत p. 1010, का. नि. p. 261, का. वि. p. 430 (reads उपवासेन भैक्षेण); the गरुडपुराण I. 136. 2-3 has एकभक्तेन ...। उपवासेन भैक्ष्येण नेवाद्वादशिको भवेत्॥.
 
-[^254]: उपवासेष्व् अशक्तानां नक्तं भोजनम् इष्यते। असामर्थे शरीरस्य पुत्रादीन् कारयेद्  p. 69.
-
-It is said by Markandeya [^255] that one may observe the methods of ekabhakta, nakta, ayācita, complete fast and dāna, but should not deprive oneself of the benefits of the observance of dvādaśī (with ekādaśī).
-
-[^255]:
-
-    एकभक्तेन नक्तेन तथैवायाचितेन च।  
-    उपवासेन दानेन न निर्द्वादशिको भवेत्॥  
-    \#TAV grup q. by R. on a p. 176, on a p. 1010, fit . p. 261, \#. Ê. p. 430 (reads 3497\# Whol); the 75tIT I. 136. 2-3 has that ... I उपवासेन भैक्ष्येण नैवाद्वादशिको भवेत् ॥
-
-
-
-Here certain alternatives are allowed in place of an absolute fast and they have to be explained. But before doing so, attention has to be drawn to the rule propounded by Manu [^256] viz. if a person, being master of (i.e. quite able to carry out) the main provisions for a rite, resorts to alternatives provided (by texts) he would not, foolish as he is, secure the otherworldly rewards ( of that rite). Therefore, ekabhakta, nakta and ayācita are to be employed only if one is unable to observe a strict fast.
+[^256]: प्रभुः प्रथमकल्पस्य योऽनुकल्पेन वर्तते। न साम्परायिकं तस्य दुर्मतेर्विद्यते फलम् ॥ मनु XI. 30- शान्तिपर्व 165.17. Manu XI. 28 has the same rule in other words.
 
 ### Ekabhakta
-Ekabhakta means eating only once a day after the middle of the day.+++(5)+++ Madhyāhna means the 3rd part of the day divided into five parts (i. e. from the 13th ghaṭi after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words after the middle of the day is passed' (dinārdha-samaye 'tīte),[^257] while the gauṇa-kala is up to sunset. Works like the Nirṇayāmrta, Smr̥tikaustubha (pp. 9-10) approve of the division into five parts, and hold that ekabhakta means taking food at sometime between the 13th and 18th ghaṭi of the day (of 30 ghatīs).[^258] When ekabhakta is merely an alternative to strict upavāsa on ekādaśī, food must be taken on the tithi on which the fast would have been observed if the performer were able to undergo it. The same [^259] rule applies to nakta as a substitute for upavāsa.
 
+Ekabhakta means eating only once a day after the middle of the day. Madhyāhna means the 3rd part of the day divided into five parts (i.e. from the 13th ghaṭi after sunrise up to the 18th of a day of 30 ghatīs). Hemādri (on kāla p. 109) holds that madhyāhna is the middle part of the day divided into three parts and according to him the proper time for ekabhakta is the time immediately after midday, since the Skanda employs the words 'after the middle of the day is passed' (dinārdha-samayestīte),[^257] while the gauṇa-kala is up to sunset. Works like the Nirṇayāmṛta, Smr̥tikaustubha (pp. 9-10) approve of the division into five parts, and hold that ekabhakta means taking food at sometime between the 13th and 18th ghaṭi of the day (of 30 ghatīs).[^258] When ekabhakta is merely an alternative to strict upavāsa on ekādaśī, food must be taken on the tithi on which the fast would have been observed if the performer were able to undergo it. The same [^259] rule applies to nakta as a substitute for upavāsa. Ekabhakta is also a vrata independently performed (without reference to ekādaśī). The Anuśāsanaparva (chap. 106 verses 17-30) declares the rewards secured by observing ekabhakta in each month from Mārgaśīrsa to Kārtika and Anuśāsanaparva (chap. 107. 13-126) dilates upon the fruits of observing ekabhakta on each of the thirty days of a month. The Kr̥tyakalpataru on vrata (pp. 457-468) sets out practically the whole of Anuśāsana parva chap. 107 (which the editor appears not to have noticed) and Hemādri on vrata vol. II. pp. 930-931 does the same. The Kr̥tyakalpataru (on vrata pp. 419-421), the Kr̥tyaratnākara (pp. 406-7 and later on) and Hemādri on vrata (vol. II pp. 748–798) quote Anuśāsana 106. 17–30 about ekabhakta in different months at different places.
 
-[^256]:
+[^257]: दिनार्धसमयेऽतीते भुज्यते नियमेन यत् । एकभक्तमिति प्रोक्तमतस्तत्स्याद्दिवैव हि ॥ स्कन्द q. by हे. (on काल) p. 108, निर्णयामृत P. 14, ए. त. p. 92, पु. चि. p. 43. देवल has the same verse except that the last quarter is ऊनं ग्रासत्रयेण तु. The word नियमेन refers to the observance of celibacy and the like. Acc. to a well Erown verse अष्टौ ग्रासा मुने ... द्वात्रिंशनु गृहस्थस्यापरिमितं ब्रह्मचारिणः ॥ (q. by आप. ध. सू II. 4. 9-13), the person observing एकभक्त should not eat more than 32 or 28 morsels even if he is a householder. अतः पूर्वाक्तवचनपर्यालोचनया दिनार्धादुपरितमो मध्याह्नो मुख्यः कालः, तदूर्ध्वमस्तमनावधिौणः 'दिनार्धसमयेऽतीते। इति वचनात् , दिवैवेत्यभिधानाञ्च । हे. (on काल p. 109).
 
-    प्रभुः प्रथमकल्पस्य योऽनुकल्पेन वर्तते। न साम्परायिकं तस्य दुर्मतर्विद्यते फलम् ॥ Ha XI. 30- Page 165.17. Maou XI. 28 bas the same rule in other words.
+[^258]: अत्र मध्याह्नो नाम पञ्चधा विभक्तस्याह्नस्तृतीयो भागः। ... एवं त्रयोदशीं घटिकामारभ्याष्टादशीं घटिकां यावत् षड्घटिकात्मको मध्याह्नः, तत्राप्युत्तरस्मिन् घटिकात्रये एकभक्तं कर्तव्यम् । निर्णयामृत pp. 14-15; the पु. चि. p. 43 says: अत्र दिनार्धस्योपरि सार्धमुहूर्तपरिमितः कालः.
 
-[^257]
-
-    Frasia ya farai AT THE TIERE PEN Fhte q. by R. (on 1) p. 108, Purina p. 14, Ç. a. p. 92, . p. 43. देवल has the same verse except that the last quarter is ऊनं ग्रासत्रयेण तु. The word F a refers to the observance of celibacy and the like. Acc, to a well koowo verse met urna ... TETUUTETTAD ETTFOT: II (q. by 314. 9. & II. 4. 9-13), the person observing a should not eat more tban 32 or 28 morsels even if he is a householder. 318: 71 g a91 दिनार्धादुपरितमो मध्याहो मुख्यः कालः, तदूर्वमस्तमनावधिौणः 'दिनार्धसमयेऽतीते' इति TAIC, T I T. (op it p. 109).
-
-[^258]: 33 AxYTET TA 2 HX416 valat \#h: 1 ... Testi uleht मारभ्याष्टादशी घटिकां यावत् षड्घटिकात्मको मध्याह्नः, तत्राप्युत्तरस्मिन् घटिकात्रये एकभक्तं tifoqni fautetaan pp. 14–15; the g. io. p. 43 says: 3771 ETT HITELE Titlha: 1:.
-
-[^259]: एवं नक्तव्रतस्य गुरुत्वेन प्रागुक्तवायुपुराणवचने नक्तमिति हविष्यानादिभोजनस्य कालपरं न तु नक्तव्रतपरं तथावे उत्तरोत्तरगुरुव्रतोपदेशभस्तावे तदनन्तरं केवलं हविष्यासो TRT1944: 1 Ç. 2. p. 93.
-
-[^260]: उपवासात्परं भैक्ष्य भैश्यात्परमयाचितम् । अयाचितात् परं नक्तं तस्मानतेन वर्तयेत् ॥ हविष्यभोजनं स्नानं सत्यमाहारवर्जनम्। अग्निकार्यमधःशय्यां नक्तभोजी सदाचरेत्। F ETTU (ar 83. 10. 12-13), TENTU (37) 43. 11-12, reads i for at and नक्काशी षद् समाचरेत् q. by कृत्यकल्पतर on व्रत p. 3 (quotes from भविष्य and reads पडाचरेत्): हे. (on व्रत I. p, 333) quotes हविष्य. from पम and स्मृतिको. p. 11 quotes from TCUTE. Biar means 'offering oblations of ghee into fire with the heTeatas. Vide H. of Db. vol II. p. 301 aote 713 for ATTERS.
-
-101
-
-
-
-Ekabhakta is also a vrata independently performed (without reference to ekādaśī). The Anusāsanaparva (chap. 106 verses 17-30) declares the rewards secured by observing ekabhakta in each month from Mārgaśīrsa to Kārtika and Anuśāsanaparva (chap. 107. 13-126) dilates upon the fruits of observing ekabhakta on each of the thirty days of a month.+++(4)+++ The Kr̥tyakalpataru on vrata (pp. 457-468) sets out practically the whole of Anuśāsana parva chap. 107 (which the editor appears not to have noticed) and Hemādri on vrata vol. II. pp. 930-931 does the same. The Kr̥tyakalpataru (on vrata pp. 419-421), the Kr̥tyaratnākara (pp. 406-7 and later on) and Hemādri on vrata (vol. II pp. 748–798) quote Anuśāsana 106. 17–30 about ekabhakta in different months at different places.
+[^259]: एवं नक्तव्रतस्य गुरुत्वेन प्रागुक्तवायुपुराणवचने नक्तमिति हविष्यान्नादिभोजनस्य कालपरं न तु नक्तव्रतपरं तथावे उत्तरोत्तरगुरुव्रतोपदेशप्रस्तावे तदनन्तरं केवलं हविष्यान्नोपदेशानुपपत्तेः । ए.त. p. 93.
 
 ### Nakta
 
-Two verses about nakta occurring in the Linga, Nārada 160 and other purāṇas are: alms collected by begging are superior to fasting, food obtained without requesting anyone for it (i, e. ayācita) is superior to alms, nakta is superior to ayācita, therefore one should subsist by nakta method; eating havisya food, bath, truthfulness, small intake of food, offering oblations into fire, and sleeping on the ground, these six should always be observed by one who takes a meal only at nakta.
+Two verses about nakta occurring in the Linga, Nārada[^260] and other purāṇas are: alms collected by begging are superior to fasting, food obtained without requesting anyone for it (i.e. _ayācita_) is superior to alms, nakta is superior to ayācita, therefore one should subsist by nakta method; eating havisya food, bath, truthfulness, small intake of food, offering oblations into fire, and sleeping on the ground, these six should always be observed by one who takes a meal only at nakta.
+There is divergence of views about the time that should be called nakta. Hemādri [^261] (on Kāla pp. 112-115) discusses at length what is _naktakāla_. The first rule is that in a naktavrata the tithi ( if viddhā) to be accepted is the one that exists at the time of pradoṣa. Pradoṣa is the period of six ghaṭikās after sunset (acc. to Skandapurāṇa), while Viśvādarśa holds that it is a period of three ghaṭikās after sunset. P. C. (p. 46 ) explains the latter quotation as meaning that three ghatīkās after sunset is commended as the most proper time of pradoṣa.
 
-There is divergence of views about the time that should be called nakta. Hemādri [^261] (on Kāla pp. 112-115) discusses at length what is nakta-kāla. The first rule is that in a naktavrata the tithi ( if viddhā) to be accepted is the one that exists at the time of pradosa. Pradosa is the period of six ghaṭikās after sunset (acc. to Skandapurāna), while Viśvādarsa holds that it is a period of three ghaṭikās after sunset. P. C. (p. 46 ) explains the latter quotation as meaning that three ghatīkās after sunset is com mended as the most proper time of pradosa.
-
-The Bhaviṣya purāna states:[^262] some men desire that nakta should be the time when the stars begin to appear, some wise men say that nakta is the time when only one muhūrta (two ghaṭikās) of the day remains, while I hold that nakta is the time when the stars begin to appear.
-
-From this it appears [^263] that the proper time (mukhya kūla) for nakta is after the stars are seen, other times being gauna. Nakta has two meanings, one primary viz. period of time and the other figurative or secondary viz. taking food at nakta time.
-
-
-[^261]: furat: tera: Frigi I Fio g. by ( o p. 112); Fantareata MARIEET \#174eau (Fift p. 112).
-
-[^262]: Cara \#marin A179:1 Ari a pol HET A Allgut: 1 72593118 THË AT FRITTI . q by gey icq (on ga p. 3), 5. 1. P 57.
-
-[^263]: ARTE E 777 14: 17:, ore fa segala gat in: THATania . Con aires) p. 114.
-
-
-
-102
-
+The Bhaviṣyapurāṇa states:[^262] some men desire that nakta should be the time when the stars begin to appear, some wise men say that nakta is the time when only one muhūrta (two ghaṭikās) of the day remains, while I hold that nakta is the time when the stars begin to appear. From this it appears [^263] that the proper time (_mukhyakāla_) for nakta is after the stars are seen, other times being gauṇa. Nakta has two meanings, one primary viz. period of time and the other figurative or secondary viz. taking food at nakta time.
 
 There is a special naktavrata apart from upavāsa. Vide list for a brief description.
 
+[^260]: उपवासात्परं भैक्ष्यं भैश्यात्परमयाचितम् । अयाचितात् परं नक्तं तस्मान्नक्तेन वर्तयेत् ॥ हविष्यभोजनं स्नानं सत्यमाहारवर्जनम्। अग्निकार्यमधःशय्यां नक्तभोजी सदाचरेत्। लिङ्गपुराण (पूर्वार्ध 83. 10. 12-13), नारदपुराण (उत्तर) 43. 11-12, reads वरं for परं and नक्ताशी षट् समाचरेत् q. by कृत्यकल्पतरु on व्रत p. 3 (quotes from भविष्य and reads षडाचरेत्): हे. (on व्रत I. p, 333) quotes हविष्य. from पद्म and स्मृतिको. p. 11 quotes from गरुडापुराण. अग्निकार्ये means 'offering oblations of ghee into fire with the महाव्याहुतिs. Vide H. of Dh. vol II. p. 301 note 713 for महाव्याहुतिs.
+
+[^261]: त्रिमुहूर्तः प्रदोषः स्याद्रवावस्तं गते सति। स्कन्द q. by हे. (काल p. 112); विश्वादर्शे तु-प्रदोषोस्तमयादूर्ध्वं घटिकात्रयमुच्यते॥ हे. (काल p. 112).
+
+[^262]: नक्षत्रदर्शनान्नक्तं केचिदिच्छन्ति मानवाः। मुहूर्तोनं दिनं केचित्प्रवदन्ति मनीषिणः। नक्षत्रदर्शनान्नक्तमहं मन्ये नराधिप। भविष्य. q by कृत्यकल्प (on व्रत p. 3), कृ. र. p 57.
+
+[^263]: नक्षत्रदर्शनादूर्ध्वे नक्तस्य मुख्यः कालः, अहं मन्ये इति वचनात् । इतरो गौणः परमतत्वेनोपदेशात् । हे. (on काल) p. 114.
+
 ### Ayācita
-Ayācita means 'subsisting on food not obtained by begging or requesting any one'. The saṅkalpa in this case [^264] is: 'during this day and night I shall not eat food obtained by begging or requesting any one'. No particular time can be specified about ayācitavrata, since food may be brought by some one at any time. But when such food is brought he has to partake of it only once.
 
-[^264]: अत एव सङ्कल्पोपि - "अस्मिन्नहोरात्रे याचितम् अन्नं न भोक्ष्ये।" इत्य् एवं सङ्कल्पः कर्तव्यः । 1. A. p. 138.
+Ayācita means 'subsisting on food not obtained by begging or requesting any one'. The saṅkalpa in this case [^264] is: 'during this day and night I shall not eat food obtained by begging or requesting any one'. No particular time can be specified about ayācitavrata, since food may be brought by some one at any time. But when such food is brought he has to partake of it only once. In the word 'ayācita' not only [^265] is there a prohibition against begging for food belonging to another, but one is prohibited from requesting his wife or servant to serve food belonging to himself. Therefore, if a man's wife or servant without being directed by him bring cooked food to him he may partake of it, but not otherwise.
 
-103
+These terms _ekabhakta_, _nakta_, _ayācita_ were used in ancient times in connection with prāyaścittas like Kr̥cchra and were taken over into the lore of fasts when the latter became common in the times of the Purāṇas. Vide Ap. Dh. S. I. 9. 27.7, Gaut. 26. 1-5, Yāj. III. 318 and H. of Dh. vol. IV. p. 132 under Kr̥cchra.
 
-In the word 'ayācita' not only [^265] is there a prohibition against begging for food belonging to another, but one is prohibited from requesting his wife or servant to serve food belonging to himself. Therefore, if a man's wife or servant without being directed by him bring cooked food to him he may partake of it, but not otherwise.
+[^264]: अत एव सङ्कल्पोपि - "अस्मिन्नहोरात्रे याचितम् अन्नं न भोक्ष्ये।" इत्य् एवं सङ्कल्पः कर्तव्यः । का.नि. p. 138.
 
-[^265]: a aua mea ISO teman ata FISATEUERTE raat रात्री वा सकृद् इत्येव । ... अयाचितमिति न केवलं परकीयालयाचनप्रतिषेधोऽपि तु स्वकीयमपि परिचारकभार्यादिभ्यो न याचितन्यम्। ...अतः स्वगृहेपि भृत्यभार्यादयोऽनाज्ञप्ता एव यादि HEHETETT TIB 17I TU HATTO On . III. 318.
-
-
-These terms ekabhakta, nakta, ayūcita were used in ancient times in connection with prāyaścittas like Kr̥cchra and were taken over into the lore of fasts when the latter became common in the times of the Purāṇas. Vide Ap. Dh. S. I. 9. 27.7, Gaut. 26. 1-5, Yāj. III. 318 and H. of Dh. vol. IV. p. 132 under Kr̥cchra.
+[^265]: न विद्यते याचितं यस्मिन्भोजने तदयाचितम् । तेन कालविशेषानुपादानाद् दिवा रात्री वा सकृदित्येव । ... अयाचितमिति न केवलं परकीयान्नयाचनप्रतिषेधोऽपि तु स्वकीयमपि परिचारकभार्यादिभ्यो न याचितव्यम्। ...अतः स्वगृहेपि भृत्यभार्यादयोऽनाज्ञप्ता एव यदि भोजनमुपहरन्ति तर्हि भोक्तव्यं नान्यथा । मिता. on या. III. 318.
 
 ## Conception of ekādaśī
-Padma (Uttarakhanda, chap. 36) gives a fanciful story of the birth of ekādaśī.
 
-Leaving aside the exaggerations and bizzare statements of some of the Purāṇas the underlying conception of a fast on ekādaśī is spiritual; it is a discipline of the mind, the idea being that fasting undertaken cheerfully purges man's spirit of the lower animal passions and brings him to a mental level at which he becomes fit to receive God's grace. The Bhagavadgitā [^266] emphasizes that in the case of a man who takes no food the objects of sense may leave him for the time being but that the relish for those still remains and vanishes only when he has a vision of the Highest. The Br. Up. states 267 that 'brāhmanas desire to know that Great Soul by the study of the Veda, by sacrifices, by gifts and by austerities consisting of abstention from food'. This idea of the efficacy of fasting under taken cheerfully is common to several religions. For example, Matthew VI. 16-18 says 'Moreover when ye fast, be not, as the hypocrites, of a sad countenance......but thou, when thou fastest, anoint thine head and wash thy face, that thou appear not unto men to fast, but unto thy Father which is in secret; and thy Father, which seeth in secret, shall reward thee openly'.+++(4)+++
+Padma (Uttarakhaṇḍa, chap. 36) gives a fanciful story of the birth of ekādaśī.
 
+Leaving aside the exaggerations and bizzare statements of some of the Purāṇas the underlying conception of a fast on ekādaśī is spiritual; it is a discipline of the mind, the idea being that fasting undertaken cheerfully purges man's spirit of the lower animal passions and brings him to a mental level at which he becomes fit to receive God's grace. The Bhagavadgitā [^266] emphasizes that in the case of a man who takes no food the objects of sense may leave him for the time being but that the relish for those still remains and vanishes only when he has a vision of the Highest. The Br. Up. states[^267] that 'brāhmaṇas desire to know that Great Soul by the study of the Veda, by sacrifices, by gifts and by austerities consisting of abstention from food'. This idea of the efficacy of fasting undertaken cheerfully is common to several religions. For example, Matthew VI. 16-18 says 'Moreover when ye fast, be not, as the hypocrites, of a _sad countenance_......but thou, when thou fastest, anoint thine head and wash thy face, that thou appear not unto men to fast, but unto thy Father which is in secret; and thy Father, which seeth in secret, shall reward thee openly'.
 
-[^266]: विषया विनिवर्तन्ते निराहारस्य देहिनः। रसवर्ज रसोप्यस्य परं दृष्टा निवर्तते । H IT 11. 59.
+[^266]: विषया विनिवर्तन्ते निराहारस्य देहिनः। रसवर्ज रसोप्यस्य परं दृष्ट्वा निवर्तते । भगवद्गीता II. 59.
 
-[^267]: स वा एष महानज आत्मा... तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन 24HISERTAT I E. 39. IV. 4. 22.
-
-
-104
+[^267]: स वा एष महानज आत्मा... तमेतं वेदानुवचनेन ब्राह्मणा विविदिषन्ति यज्ञेन दानेन तपसाऽनाशकेन । बृह.उप. IV. 4. 22.
 
 ## Types of observance
-The fast on ekādaśī is of two kinds; one [^268] consists in carry ing out (or adhering to) the prohibition of eating cooked food; the other is of the nature of a vrata.
 
-[^268]: TIETYTIH Arrufurari 4591 au:! srpa पिबेत्तोयं न स्वादेकूर्मसुकरौ। एकादश्यां न भुजीत पक्षयोरुभयोरपि इति कौमदेवलायुक्तः ।  ... व्रतरूपस्तु ब्रह्मवैवर्ते। प्राप्ते हरिदिने सम्यग्विधाय नियम निशि। दशम्यामुपवासस्य प्रकुर्याद वैष्णवं व्रतम् ॥ इति । इदं च शिवभक्तादिभिरपि कार्य-वैष्णवो वाध शैवो वा कुर्यादेकादशी व्रतम् - इति शिवधर्मोक्तेः। वैष्णवो वाथ शैवो वा सौरोप्येतत्समाचरेत् ॥ इति सौरपुराणाच्च । 19. F. p. 35. Vide also b. (on pile) pp 172-173 for almost the same words. … and an do not bere mean tortcise and boar, but they are certain bulbous roots respectively called in Marathi font and ra. The verse at is quoted from and AEOAPET by . (a) I. p 993. It occurs in arca. (571, chap 24. 3-4 and 25. 12).
+The fast on ekādaśī is of two kinds; one [^268] consists in carrying out (or adhering to) the prohibition of eating cooked food; the other is of the nature of a vrata. As regards the first all persons including householders having a son have _adhikāra_ to observe it even in the dark half; but as regards the second (_upavāsa_ of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a saṅkalpa, they should simply give up cooked food but should observe the _niyamas_ of celibacy and the like. As to ekādaśīs of the dark half between the Śayanī and Bodhinī, even householders with sons have the right to perform the vrata. Similarly, those who desire to secure absorption into Viṣṇu, long life and sons may perform a kāmyavrata on ekādaśīs of both _pakṣas_. Vaiṣṇava householders should always fast even on ekādaśīs of the dark half. The ekādaśivrata is obligatory on all including devotees of Śiva, Viṣṇu and the Sun. Upavāsa in the nature of vrata is again of two kinds, _nitya_ and _kāmya_. These are briefly the rules laid down in the Nirṇayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upavāsavrata is that in the former there is no saṅkalpa that the person is undertaking an upavāsavrata and he simply abstains from taking food because the śāstra says that on ekādaśī one should not eat cooked food, while in the latter there is saṅkalpa and there are also several other matters to be observed.
 
-As regards the first all persons including householders having a son have adhikāra to observe it even in the dark half; but as regards the second (upavāsa of the nature of vrata) householders that have progeny should not observe it on the ekādaśīs of the dark half; they should not make a saṅkalpa, they should simply give up cooked food but should observe the niyamas of celibacy and the like. As to ekādaśīs of the dark half between the Śayanī and Bodhinī, even householders with sons have the right to perform the vrata.
-
-Similarly, those who desire to secure absorption into Viṣṇu, long life and sons may perform a kāmyavrata on ekādaśīs of both pakṣas. Vaiṣṇava householders should always fast even on ekādaśīs of the dark half.
-
-The ekādaśivrata is obligatory on all including devotees of Śiva, Viṣṇu and the Sun. Upavāsa in the nature of vrata is again of two kinds, nitya and kāmya. These are briefly the rules laid down in the Nirṇayasindhu and Dharmasindhu (p.16). The main difference between mere upavāsa and upayāsavrata is that in the former there is no saṅkalpa that the person is undertaking an upayāsavrata and he simply abstains from taking food because the śāstra says that on ekādaśī one should not eat cooked food, while in the latter there is saṅkalpa and there are also several other matters to be observed.+++(4)+++
-
-1
+[^268]: तत्रैकादश्युपवासो द्वेधा निषेधपरिपालनात्मको व्रतरूपश्च । तत्राद्यः। न शङ्खेन पिबेत्तोयं न स्वादेत्कूर्मसूकरौ। एकादश्यां न भुञ्जीत पक्षयोरुभयोरपि इति कौर्मदेवलाद्युक्तेः । ... व्रतरूपस्तु ब्रह्मवैवर्ते। प्राप्ते हरिदिने सम्यग्विधाय नियमं निशि। दशम्यामुपवासस्य प्रकुर्याद् वैष्णवं व्रतम् ॥ इति । इदं च शिवभक्तादिभिरपि कार्ये-वैष्णवो वाथ शैवो वा कुर्यादेकादशीव्रतम् - इति शिवधर्मोक्तेः। वैष्णवो वाथ शैवो वा सौरोप्येतत्समाचरेत् ॥ इति सौरपुराणाच्च । नि.सि. p. 35. Vide also हे. (on काल) pp 172-173 for almost the same words. कूर्म and सूकर do not here mean tortoise and boar, but they are certain bulbous roots respectively called in Marathi कणगर and कोन. The verse न शङ्खेन is quoted from कूर्म and विष्णुधर्मोत्तर by हे. (व्रत) I. p 993. It occurs in नारद. (उत्तर, chap 24. 3-4 and 25. 12).
 
 ### Ekādaśīvrata
+
 It would now be proper to give a comparatively early but brief description of ekādaśivrata. The Nāradapurāṇa (Purvārdha chap. 23 verses 12 ff.) describes the procedure as follows:-  
 
-- on the 10th tithi the man who has to observe the vrata should after getting up brush his teeth, take a bath, bathe a Viṣṇu image in pancāmr̥ta and offer worship (of several upacāras) to it.
+- on the 10th tithi the man who has to observe the vrata should after getting up brush his teeth, take a bath, bathe a Viṣṇu image in _pancāmr̥ta_ and offer worship (of several _upacāras_) to it.
 - On the 11th, after bathing, he should bathe the image with pañcāmṛta and worship Viṣṇu with sandalwood paste, flowers and the like and repeat the mantra [^269] 'after remaining without food on the ekādaśī I shall, O lotus-eyed one, on the next day partake of cooked food; be you, O Acyuta, my refuge'.
   - He should take no food, should curb his senses, should lie down in front of the Viṣṇu image, keep awake engaged in songs, music and dances relating to Viṣṇu and listen to stories about Viṣṇu contained in the Purāṇas.
 - On the 12th tithi, he should after a bath for himself, bathe the image with milk and then address the following prayer [^270] 'O Keśava! May you by reason of this vrata favour (me) who am blinded by the darkness of ignorance, may you turn your benignant face (towards me) and bestow on me the sight of knowledge'.
@@ -235,23 +139,9 @@ It would now be proper to give a comparatively early but brief description of ek
 
 For the meaning of vr̥ṣalī, vide H. of Dh. vol. IV. p. 104 note 236 and p. 394 note 881. Manu III. 152 provides that physicians and priests doing worship in temples for money are unfit to be invited at śrāddha.
 
-[^269]:
+[^269]: एकादश्यां निराहारः स्थित्वा चाहं परेऽहनि। भोक्ष्येऽहं पुण्डरीकाक्ष शरणं मे भवाच्युत ॥ नारद (पू. 23. 15 ) q. by हे. (on व्रत ) I. p. 1000 (reads तारणं मे ), the same verse occurs in वराह 39.32 (reads भूत्वा चैवापरे) and is quoted from वराह by का.वि. p. 456, व.क्रि.कौ p. 60; का.नि. p. 268 quotes it from विष्णु (probably meaning वराह and adds ''इत्युच्चार्य ततो विद्वान पुष्पाञ्जलिमथार्पयेत्' .हे. (on काल) p. 196 quotes the verse from देवल and reads 'गतिर्भव ममाच्युत'.
 
-    एकादश्यां निराहारः  
-    स्थित्वा चाहं परेऽहनि।  
-    भोक्ष्येऽहं पुण्डरीकाक्ष  
-    शरण मे भवाच्युत  
-    नारद (पू. 23. 15 ) q. by R. (on ) I. p. 1000 (reads तारणं मे ),  
-    the same verse occurs in वराह 39.32 (reads भूत्वा चैवापरे) and is quoted from वराह by का.वि. p. 456,  
-    a. f . p. 60; FT. . p. 268 quotes it from party (probably meaning in and adds are meant part geturfesora. (on काल) p. 196quotes the verse from देवल and reads 'गतिभव ममाव्युत'.
-
-[^270]:  
-
-    अज्ञानतिमिरान्धस्य व्रतेनानेन केशव ।  
-    प्रसीद सुमुखो भूत्वा ज्ञान-दृष्टि-प्रदो भव  
-    AITE (.23, 20) q. by var p 20, . (a) vol. I. p. 1007. It is possible that the original words were wheCat . The fil. A. p 269 quotes ad almost identical mantra from 1979 3451...2379 1 SI M u... ***, H. D. 14
-
-106
+[^270]: अज्ञानतिमिरान्धस्य व्रतेनानेन केशव । प्रसीद सुमुखो भूत्वा ज्ञानदृष्टिप्रदो भव नारद (पू. 23. 20)q. by धर्मसिन्धु p 20, हे. (व्रत) vol. I. p. 1007. It is possible that the original words were प्रसादसुमुखो भूत्वा. The का. नि. p 269 quotes an almost identical mantra from कात्यायन 'अज्ञान...केशव । प्रसादसमुखो नाथ... भव'॥ 
 
 
 It will be noticed that the main matters in the vrata are upavāsa, worship of Viṣṇu image, jāgara [^271] at night with songs and music, pāraṇā on 12th and certain restrictions about looking at some persons or speaking to them and restraint of the senses. The Brahma-vaivarta (IV. 26.1-93) also contains the procedure of ekādaśivrata. It will be noticed [^272] that in the procedure of ekādaśī there is no homa, though in some other vratas there is a homa.
@@ -386,7 +276,7 @@ ALT
 
 111
 
-The question as to the tithi on which the gods ( and particularly Viṣṇu) went to sleep very much exercised the minds of the authors of Purāṇas and of the digests. For example, the Vamanapurana (16. 6-16) contains verses [^281] some of which may be summarised here; 'a person should arrange a couch in the form of the hoods of the snake Sesa for the lord of the world (Viṣṇu) on the 11th tithi of Āṣāḍha and offer worship; he should, being himself pure, seek on the 12th permission from brāhmanas invited, and should bring to sleep the Lord that wears yellow clothes? Then the purāna proceeds to narrate how Kāma (God of Love) sleeps on 13th of Āṣāḍha on a bed of kadamla flowers, the Yakṣas on 14th, Śiva on the 15th (i. e. Pūrnimā) on a bed of tiger-skin, then Brahmā, Viśvakarmā, Pāryatī, Ganeśa, Yama, Skanda, the Sun, Kātyāyani, Laksmi, Lord of snakes, Sādhyas respectively go to sleep on the tithis of the dark half from 1st to 11th. The K. V. (p. 225) and Hemidri (on Kāla pp. 888-889) quote certain verses according to which Kubera, Laksmi, Bhavānī, Ganeja, Soma, Guha, Bhāskara, Durgā, the Mātrs, Vāsuki, sages, Viṣṇu, Kāna, Śiva are the lords of tithis from 1st to 14th for pavitrāropana (i. e. giving the sacred upavita to the gods) and for śayana.
+The question as to the tithi on which the gods ( and particularly Viṣṇu) went to sleep very much exercised the minds of the authors of Purāṇas and of the digests. For example, the Vamanapurāṇa (16. 6-16) contains verses [^281] some of which may be summarised here; 'a person should arrange a couch in the form of the hoods of the snake Sesa for the lord of the world (Viṣṇu) on the 11th tithi of Āṣāḍha and offer worship; he should, being himself pure, seek on the 12th permission from brāhmanas invited, and should bring to sleep the Lord that wears yellow clothes? Then the purāṇa proceeds to narrate how Kāma (God of Love) sleeps on 13th of Āṣāḍha on a bed of kadamla flowers, the Yakṣas on 14th, Śiva on the 15th (i. e. Pūrnimā) on a bed of tiger-skin, then Brahmā, Viśvakarmā, Pāryatī, Ganeśa, Yama, Skanda, the Sun, Kātyāyani, Laksmi, Lord of snakes, Sādhyas respectively go to sleep on the tithis of the dark half from 1st to 11th. The K. V. (p. 225) and Hemidri (on Kāla pp. 888-889) quote certain verses according to which Kubera, Laksmi, Bhavānī, Ganeja, Soma, Guha, Bhāskara, Durgā, the Mātrs, Vāsuki, sages, Viṣṇu, Kāna, Śiva are the lords of tithis from 1st to 14th for pavitrāropana (i. e. giving the sacred upavita to the gods) and for śayana.
 
 One important rule has to be remembered, [^282] viz. whatever nakṣatra or whatever tithi has a certain deity as its lord, the sleeping, turning from one side to another and the rest (i. e. getting up &c.) take place on that tithi or naksatra. Some celebrate the śayana of a god relying on the tithi, others rely on the naksatra. But the trouble is that one tithi has several lords, according to various authorities. For example, pratipad has three lords, Agni, Brahmā and Kubera (Garuḍa I. 116. 3–8). For reasons of space it is not possible to refer to the texts on which different tithis are assigned for the śayana of Viṣṇu. The Samayamayūkha (p. 79), K.T. V.p. 172 and Vrataprakāśa283 (part of Viramitrodaya) espouse the view of Āṣāḍha eleventh (of bright half) relying on the Brahmapurāṇa. Many digests favour the 12th as the tithi of śayana and prabodha of Viṣṇu relying on the several yerses in the Varāha, Viṣṇu-dharmottara and other Purāṇas. Vide Kālaviveka p. 175 (ff), V. K. K. 286,288, Kr̥tyatattva p. 436, K. R. p. 209.
 
@@ -441,7 +331,7 @@ In the case of Ekādaśī the Garuḍapurāṇa [^290] and Bhaviṣya lay down t
 [^290]: गारुडपुराणे शिवरहस्ये चोक्तम्। उदयालाग्यदा विमा मुहूर्तद्वयसंयुता । सम्पूर्व कादशी नाम तत्रैवोपवसेद् गृही। भविष्यपुराणे। आदित्योदयवेलायाः मानहावादिता। qarft a Figur Berat uiteraan g by (one) p. 206. 9. \#. p. 41. 4. D. 15
 
 
-The Nārada and other purāṇas condemn fast on ekādaśī mixed with daśamī. Nāradapurāṇa (pūrvārdha, chap. 29. 39-40) says the sixth tithi mixed with the 5th, the seventh mixed with the 9th and ekādaśī mixed with daśamī-a fast should never be observed on these; all should accept (for fast) ekādaśī free from daśamī; daśamī joined to ekādaśī destroys spiritual merit acquired in three past lives'. This aversion to daśamī was probably due to the fact that daśamī finds no place in the famous yugmavākya and the pair that is commended is that of ekādaśī and dvādaśī (and not of ekādaśī and daśamī). One well-known verse is: Gāndhāri observed a fast on ekādaśī mixed with daśamī; her one hundred sons (the Kauravas) perished (in the Bhārata war); therefore one should give up that kind of ekādaśī for a fast.291 The Nāradapurāna (pārvārdha, chap. 29) devotes 15 verses to the discussion of Ekādaśī and Dvadasi.
+The Nārada and other purāṇas condemn fast on ekādaśī mixed with daśamī. Nāradapurāṇa (pūrvārdha, chap. 29. 39-40) says the sixth tithi mixed with the 5th, the seventh mixed with the 9th and ekādaśī mixed with daśamī-a fast should never be observed on these; all should accept (for fast) ekādaśī free from daśamī; daśamī joined to ekādaśī destroys spiritual merit acquired in three past lives'. This aversion to daśamī was probably due to the fact that daśamī finds no place in the famous yugmavākya and the pair that is commended is that of ekādaśī and dvādaśī (and not of ekādaśī and daśamī). One well-known verse is: Gāndhāri observed a fast on ekādaśī mixed with daśamī; her one hundred sons (the Kauravas) perished (in the Bhārata war); therefore one should give up that kind of ekādaśī for a fast.291 The Nāradapurāṇa (pārvārdha, chap. 29) devotes 15 verses to the discussion of Ekādaśī and Dvadasi.
 
 [^291]: aasitage Truf Agutinai FT: gara pre urt all T6 I. 125. 2, q. by 5. . 635 (who regards this as merely a fetgang), TEATIVE folio 71, verse 1154 (vide ABORI vol, 36 p. 312)
 
@@ -498,7 +388,7 @@ When Vyāsa[^299] says that flowers, ornaments, (rich) clothes, fragrant substan
 
 On the 12th the person has to offer worship to Viṣṇu and has to avoid sleeping by day, the food belonging to another person, eating again after the midday meal (on 12th), sexual intercourse, honey, bell-metal vessel, meat, oil. [^300] The passage in the note below is practically the same as the one cited from Brahmānda purāṇa by Hemādri (on Kāla p. 203) as containing the restric tions about dvādaśī.
 
-The result of the insistence by Vaiṣṇavas on observing a fast on ekādaśī mixed with dvādaśi was often this that in order to be able to observe pāraṇā on dvādaśī before it ended, they had to get up very early before dawn, take their bath and compress all their morning and midday duties into a short period before sunrise. In modern times many orthodox Vaiṣṇavas do this and rely on the authority of the Nārada [^301] and Skanda purānas quoted below. A smṛti [^302] text goes so far as to prescribe 'on seeing that dvādaśī exists only for half a kalā after niśitha, a (Vaiṣṇava) person should perform all acts proper to be performed up till midday following, because Śhaṅkara has so ordered'.
+The result of the insistence by Vaiṣṇavas on observing a fast on ekādaśī mixed with dvādaśi was often this that in order to be able to observe pāraṇā on dvādaśī before it ended, they had to get up very early before dawn, take their bath and compress all their morning and midday duties into a short period before sunrise. In modern times many orthodox Vaiṣṇavas do this and rely on the authority of the Nārada [^301] and Skanda purāṇas quoted below. A smṛti [^302] text goes so far as to prescribe 'on seeing that dvādaśī exists only for half a kalā after niśitha, a (Vaiṣṇava) person should perform all acts proper to be performed up till midday following, because Śhaṅkara has so ordered'.
 
 
 [^300]: बृहस्पतिरपि। दिवानिद्रा परावं च पुनर्भोजनमैथुने। क्षौद्रं कांस्यामिषं तैलं ETTE ostean. (on Files) p 203.
@@ -511,7 +401,7 @@ The result of the insistence by Vaiṣṇavas on observing a fast on ekādaśī 
 Kalā as a measure of time has been variously defined. Matsya (142.4) and Vāyu (100.217-218) say that 30 kalās are equal to a muhurta (i. e. two ghaṭikās); on the other hand, the Amarakoga holds that 360 kalās constitute a muhurta and the Kālanirṇaya accepts this last. As the astronomers themselves were at variance as to the length of a tithi in question, a plain straight forward rule was proposed that the fast in case of doubt should be observed on dvādaśī and the pāraṇā should be observed on the 13th.[^303]
 
 ## Vaiṣṇavas vs Śaivas
-The rank and file of Vaiṣṇavas are very exclusive and bigoted and treat with some contempt everything connected with Śiva and some of them eat sumptuous food on Śivarātri, instead of observing a fast. Many of the smārtas generally observe a fast both on the Ekādaśī and the Śivarātri (particularly the Mahaśivaratri i.e. on Māgha dark 14th). There have been great wrangles and hatreds among Vaiṣṇavas and Śaivas. The Brahmapurāṇa expressly [^304] states that in the holy Puruṣottamaksetra a temple of Siya was erected in order to put a stop to the wranglings between Śaivas and Bhāgavatas (devotees of Vispu). The higher Hindu thought including even the Purāṇa excursions in philosophy always held that there[^305] is only one God, that the one Brahma that is all Intelligence, that is incapable of being thoroughly comprehended, that is without parts and without body, is imagined to have different visible forms for securing the purposes of devotees and that deities deemed to have visible forms are imagined as male or female or as portions (of the one brahma). The Mahābhārata and some of the Purāṇas emphasize that God is one and that there is no difference between Śiva and Viṣṇu. [^306] Vide Vanaparva 39. 76-77, Brahmapurāṇa 130. 10-11, 192. 51-53, Vāmana 67. 27-28, Varāha 70, 27, Viṣṇupurāna V. 18, 50, Brahmānda III, 43. 47-51, Nāradiya I. 2. 32. Some purāṇas 307 put forward the notion that health is secured from the worship of God as) the Sun, wealth from Agni, (true) knowledge from Śhaṅkara, and mokṣa from Viṣṇu.
+The rank and file of Vaiṣṇavas are very exclusive and bigoted and treat with some contempt everything connected with Śiva and some of them eat sumptuous food on Śivarātri, instead of observing a fast. Many of the smārtas generally observe a fast both on the Ekādaśī and the Śivarātri (particularly the Mahaśivaratri i.e. on Māgha dark 14th). There have been great wrangles and hatreds among Vaiṣṇavas and Śaivas. The Brahmapurāṇa expressly [^304] states that in the holy Puruṣottamaksetra a temple of Siya was erected in order to put a stop to the wranglings between Śaivas and Bhāgavatas (devotees of Vispu). The higher Hindu thought including even the Purāṇa excursions in philosophy always held that there[^305] is only one God, that the one Brahma that is all Intelligence, that is incapable of being thoroughly comprehended, that is without parts and without body, is imagined to have different visible forms for securing the purposes of devotees and that deities deemed to have visible forms are imagined as male or female or as portions (of the one brahma). The Mahābhārata and some of the Purāṇas emphasize that God is one and that there is no difference between Śiva and Viṣṇu. [^306] Vide Vanaparva 39. 76-77, Brahmapurāṇa 130. 10-11, 192. 51-53, Vāmana 67. 27-28, Varāha 70, 27, Viṣṇupurāṇa V. 18, 50, Brahmānda III, 43. 47-51, Nāradiya I. 2. 32. Some purāṇas 307 put forward the notion that health is secured from the worship of God as) the Sun, wealth from Agni, (true) knowledge from Śhaṅkara, and mokṣa from Viṣṇu.
 
 [^303]: बहुचाक्यविरोधेन सन्देहो जायते यदा। द्वादशी तु तदा ग्राह्या त्रयोदश्यां तु पारणम् ॥ बहुवाक्यविरोधेन ब्राह्मणेषु विवादिषु। एकादशी परित्यज्य द्वादशी समुपोषयेत् ॥ हे. on काल pp. 210-211. The first verse is quoted from गरुडपुराण by व. कि. को. p. 43.
 
@@ -546,7 +436,7 @@ On the 11th he prepares amaṇḍapa of flowers, worships the Viṣṇu image th
 On the 12th he takes a bath in the morning, offers worship to Hari and dedicates his fast to the God, recites the mantra (Ajñānatimirāndhasya' &c. cited above p. 105) and performs the pārana. This is the general outline of kāmya ekādaśīvrata. In the case of the obligatory fast, the performer should abstain from food the whole day and also keep the several restrictions to be observed on ekādaśī (as described above such as not drinking water more than once, not sleeping by day &c). The rules for the followers of Caitanya about ekādaśī as summarised from the Haribhakti vilasa by Prof. S. K. De in 'Vaiṣṇava faith and Movement' on pp. 371-375 do not differ much from those stated above.
 
 ## Pāraṇa
-A vrata comes to an end by a rite called udyāpana (carrying out) or pāraṇa or pāraṇā. The word pārana or pāraṇā is derived by some from the root ‘pāra' meaning [^310] 'to finish an action or rite'. The word occurs in the drama Sakuntala referred to above on p. 46 and in Raghuvamsa II. 70 ‘prātar-yathoktavrata-pārapānto". Vide for paranā also Raghuvamsa II. 39 and 55. According to the Kūrma-purāna, one should fast on the ekādaśī and pāraṇā is to be on the 12th but pāraṇā should not be done on 13th tithi, since that would destroy (the merit) of twelve dvādasis. [^311] In spite of this, pāraṇā on the 13th [^312] tithi had to be allowed under certain circumstances e. g. if ekādaśī is mixed with daśamī on a prior day and with dvādaśī on the next day, then the fast is to be on dvādaśī but if no dvādaśi at all exists on the day after fast, then pāranā may be on the 13th tithi.  
+A vrata comes to an end by a rite called udyāpana (carrying out) or pāraṇa or pāraṇā. The word pārana or pāraṇā is derived by some from the root ‘pāra' meaning [^310] 'to finish an action or rite'. The word occurs in the drama Sakuntala referred to above on p. 46 and in Raghuvamsa II. 70 ‘prātar-yathoktavrata-pārapānto". Vide for paranā also Raghuvamsa II. 39 and 55. According to the Kūrma-purāṇa, one should fast on the ekādaśī and pāraṇā is to be on the 12th but pāraṇā should not be done on 13th tithi, since that would destroy (the merit) of twelve dvādasis. [^311] In spite of this, pāraṇā on the 13th [^312] tithi had to be allowed under certain circumstances e. g. if ekādaśī is mixed with daśamī on a prior day and with dvādaśī on the next day, then the fast is to be on dvādaśī but if no dvādaśi at all exists on the day after fast, then pāranā may be on the 13th tithi.  
 
 [^310]: पारतीरकर्मसमाप्तौ-इत्यस्माद्धातोर्निष्पन्नः पारणशब्दः। यद्यप्यसौ समाप्तिमात्र मभिदधाति तथाप्युपवाससमाप्तावेव लोकशास्त्रयोः प्रयोगात्पङ्कजादिशब्दवद्योगरूढो द्रष्टव्यः । तथा च योगरुढचोपवासस्य चरमाङ्गभोजनमभिधत्ते। का. नि. p. 225 ; अत्र केचिदाहुः पारणमत्र व्रतस्य समाप्तिर्न तु भोजनं तस्य पुरुषधर्मत्वात्। तथा च पारतीरकर्मसमासावित्यस्य धातो रूपं पारणमिति । हे. (on काल p. 127); compare व. क्रि. कौ. p. 62.
 
