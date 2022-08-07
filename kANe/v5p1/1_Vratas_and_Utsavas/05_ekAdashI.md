@@ -314,27 +314,24 @@ On the 10th the performer has a meal at midday (ekabhakta), then he cleans his t
 
 ## Pāraṇa
 
-A vrata comes to an end by a rite called udyāpana (carrying out) or pāraṇa or pāraṇā. The word pārana or pāraṇā is derived by some from the root ‘pāra' meaning [^310] 'to finish an action or rite'. The word occurs in the drama Śakuntala referred to above on p. 46 and in Raghuvamśa II. 70 ‘prātar-yathoktavrata-pāraṇānte". Vide for pāranā also Raghuvamśa II. 39 and 55. According to the Kūrma-purāṇa, one should fast on the ekādaśī and pāraṇā is to be on the 12th but pāraṇā should not be done on 13th tithi, since that would destroy (the merit) of twelve dvādasis. [^311] In spite of this, pāraṇā on the 13th [^312] tithi had to be allowed under certain circumstances e.g. if ekādaśī is mixed with daśamī on a prior day and with dvādaśī on the next day, then the fast is to be on dvādaśī but if no dvādaśi at all exists on the day after fast, then pāraṇā may be on the 13th tithi. ẓẓẓ 
+A vrata comes to an end by a rite called udyāpana (carrying out) or pāraṇa or pāraṇā. The word pārana or pāraṇā is derived by some from the root ‘pāra' meaning [^310] 'to finish an action or rite'. The word occurs in the drama Śakuntala referred to above on p. 46 and in Raghuvamśa II. 70 ‘prātar-yathoktavrata-pāraṇānte". Vide for pāranā also Raghuvamśa II. 39 and 55. According to the Kūrma-purāṇa, one should fast on the ekādaśī and pāraṇā is to be on the 12th but pāraṇā should not be done on 13th tithi, since that would destroy (the merit) of twelve dvādasis. [^311] In spite of this, pāraṇā on the 13th [^312] tithi had to be allowed under certain circumstances e.g. if ekādaśī is mixed with daśamī on a prior day and with dvādaśī on the next day, then the fast is to be on dvādaśī but if no dvādaśi at all exists on the day after fast, then pāraṇā may be on the 13th tithi.  
 
-[^310]: पारतीरकर्मसमाप्तौ-इत्यस्माद्धातोर्निष्पन्नः पारणशब्दः। यद्यप्यसौ समाप्तिमात्र मभिदधाति तथाप्युपवाससमाप्तावेव लोकशास्त्रयोः प्रयोगात्पङ्कजादिशब्दवद्योगरूढो द्रष्टव्यः । तथा च योगरुढचोपवासस्य चरमाङ्गभोजनमभिधत्ते। का. नि. p. 225 ; अत्र केचिदाहुः पारणमत्र व्रतस्य समाप्तिर्न तु भोजनं तस्य पुरुषधर्मत्वात्। तथा च पारतीरकर्मसमासावित्यस्य धातो रूपं पारणमिति । हे. (on काल p. 127); compare व. क्रि. कौ. p. 62.
-
-[^311]: तत्र कूर्मपुराणे। एकादश्यामुपोध्यैवं द्वादश्यां पारणं स्मृतम्। त्रयोदश्यां न तत् कुर्याद् द्वादशद्वादशीक्षयात् ॥ हे. (on काल) p. 280.
-
-[^312]: यदा कलयापि द्वादशी नास्ति तदा त्रयोदश्यामपि पारणं कुर्यात् । का. नि. p. 273; पदा तु पूर्वदिने दशम्या उत्तरदिने द्वादश्या युतैकादशी तदोत्तरामुपोज्य द्वादश्यां पारणं कुर्यात् परदिने द्वादश्यनिर्गमे त्रयोदश्यामपीति । ए. त. p. 55.
-
-[^313]: पारणान्तं व्रतं ज्ञेयं व्रतान्ते विप्रभोजनम्। असमाप्ते व्रते पूर्व नैव कुर्याद व्रतान्तरम् । विष्णुधर्मोत्तर १. by का. वि. p 463, हे. (on काल) p. 294, का. नि. p. 226 (ascribes to आदित्यपुराण).
-
-
-121
-The Viṣṇudharmottara [^313] prescribes 'a vrata ends with pāraṇā and at the end of a vrata, brāhmanas are to be fed; before one vrata is finished one should not commence another'. The general rule is that in all vratas[^314] the pāranā is in the morning. One should perform the udyāpana as laid down in the texts providing for the vrata concerned; a vrata becomes fruitless if the udyāpana be not performed.
+The Viṣṇudharmottara [^313] prescribes 'a vrata ends with pāraṇā and at the end of a vrata, brāhmaṇās are to be fed; before one vrata is finished one should not commence another'. The general rule is that in all vratas[^314] the pāraṇā is in the morning. One should perform the udyāpana as laid down in the texts providing for the vrata concerned; a vrata becomes fruitless if the udyāpana be not performed.
 
 If no form of udyāpana is prescribed by the texts, the performer should perform a rite in consonance with the [^315] vrata. He should make gifts in proportion to his wealth when no form of udyāpana is mentioned in the texts on a vrata. For making the vrata complete he should donate cows and gold. If none of these can be given and nothing can be done as laid down in the texts, the words of a brāhmaṇa alone are sufficient to complete a vrata; but if a man receives the blessed words of brāhmaṇas without giving a dakṣiṇā (though able), he goes to hell!
 
-[^314]: देवलः। उपवासेषु सर्वेषु पूर्वाहे पारणं भवेत्। अन्यथा तु फलस्याध धर्ममेवोप HUT \# Fil. 7. a. p. 22, 41. a. p. 226 ( first ball).
+A difficulty may arise owing to the rules that no fresh vrata is to be undertaken till one (prior) vrata is finished and that vrata includes its pāraṇā. Suppose, a man has undertaken years ago to observe two vratas, then he may have to observe a fast on ekādaśī and also on dvādaśī owing to another vrata already undertaken. Pāranā involves _bhojana_ (taking food). But this is impossible if one has to undergo two fasts successively. The remedy is that at the end of the first vrata the performer (who has to undergo two fasts) should sip water. The Veda says that when a man partakes of water it is neither eating nor non-eating[^316].
 
-[^315]: Vide a. F. p. 25 quoting gratagigy for these propositions about ca.
+[^310]: पारतीरकर्मसमाप्तौ-इत्यस्माद्धातोर्निष्पन्नः पारणशब्दः। यद्यप्यसौ समाप्तिमात्रमभिदधाति तथाप्युपवाससमाप्तावेव लोकशास्त्रयोः प्रयोगात्पङ्कजादिशब्दवद्योगरूढो द्रष्टव्यः । तथा च योगरुढचोपवासस्य चरमाङ्गभोजनमभिधत्ते। का. नि. p. 225 ; अत्र केचिदाहुः पारणमत्र व्रतस्य समाप्तिर्न तु भोजनं तस्य पुरुषधर्मत्वात्। तथा च पारतीरकर्मसमासावित्यस्य धातो रूपं पारणमिति । हे. (on काल p. 127); compare व. क्रि. कौ. p. 62.
 
+[^311]: तत्र कूर्मपुराणे। एकादश्यामुपोध्यैवं द्वादश्यां पारणं स्मृतम्। त्रयोदश्यां न तत् कुर्याद् द्वादशद्वादशीक्षयात् ॥ हे. (on काल) p. 280.
 
-A difficulty may arise owing to the rules that no fresh vrata is to be undertaken till one (prior) vrata is finished and that vrata includes its pāraṇā. Suppose, a man has undertaken years ago to observe two vratas, then he may have to observe a fast on ekādaśī and also on dvādaśī owing to another vrata already undertaken. Pāranā involves bhojana (taking food). But this is impossible if one has to undergo two fasts successively. The remedy is that at the end of the first vrata the performer (who has to undergo two fasts) should sip water. The Veda says that when a man partakes of water it is neither eating nor non-eating [^316]
+[^312]: यदा कलयापि द्वादशी नास्ति तदा त्रयोदश्यामपि पारणं कुर्यात् । का. नि. p. 273; यदा तु पूर्वदिने दशम्या उत्तरदिने द्वादश्या युतैकादशी तदोत्तरामुपोष्य द्वादश्यां पारणं कुर्यात् परदिने द्वादश्यनिर्गमे त्रयोदश्यामपीति । ए. त. p. 55.
 
-[^316]: अद्भिः पारणं कृत्वा द्वितीयोपवासस्य प्रक्रमयितुं शक्यत्वात् । तादृशं तु पारणम शितानशितोभयात्मकम् । ... एतच्च इयात्मकत्वं दर्शपूर्णमासप्रकरणे याजमानब्राह्मणे अवते। ... u sata teatri tarafi wyrafa &c. \#1. A. p. 276. * means 'hungry'. The passage et.., afa occurs in d. \#. I. 6.7.4, \#. D. 16
+[^313]: पारणान्तं व्रतं ज्ञेयं व्रतान्ते विप्रभोजनम्। असमाप्ते व्रते पूर्वे नैव कुर्याद् व्रतान्तरम् । विष्णुधर्मोत्तर q. by का. वि. p 463, हे. (on काल) p. 294, का. नि. p. 226 (ascribes to आदित्यपुराण).
+
+[^314]: देवलः। उपवासेषु सर्वेषु पूर्वाह्ने पारणं भवेत्। अन्यथा तु फलस्यार्धे धर्ममेवोपसर्पति ॥ का.त.वि. p. 22, का.नि. p. 226 ( first half).
+
+[^315]: Vide नि.सि. p. 25 quoting पृथ्वीचंद्रोदय for these propositions about उद्यापन.
+
+[^316]: अद्भिः पारणं कृत्वा द्वितीयोपवासस्य प्रक्रमयितुं शक्यत्वात् । तादृशं तु पारणम शितानशितोभयात्मकम् । ... एतच्च द्वयात्मकत्वं दर्शपूर्णमासप्रकरणे याजमानब्राह्मणे श्रूयते। ... यदपोऽश्नाति तन्नेवाशितं नेवानशितं न क्षोधुको भवति &c. का. नि. p. 276. क्षोधुक means hungry'. The passage 'यदपो... भवति' occurs in तै.सं. I. 6.7.4.
