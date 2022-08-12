@@ -98,53 +98,30 @@ It appears that originally the Ṛṣipañcami-vrata was meant for the removal o
 
 [^382]: शाकाहारस्तु कर्तव्यो नीवारैः श्यामकैस्तथा । कन्दैर्वापि फलैर्मुलैर्हलकृष्टं न भक्षयेत् । भविष्योत्तर q. by व्रतराज p. 203. Vide व्रतार्क folio 92 b that has the verse शाकाहारस्तु कर्तव्यः श्यामाकाहार एव वा। नीवारैर्वापि कर्तव्यं कृष्टपच्यं न भक्षयेत् ॥ कृष्टपच्यं means 'ripening after ploughing'. Vide पाणिनि III. 1, 114 for it (कृष्टे स्वयमेव पच्यन्ते कृष्टपच्याः । सि. कौ.).
 
-___ [^383]. अत्रेर्यथानुसूया स्याद्वसिष्ठस्याप्यरुन्धती। कौशिकस्य यथा सती तथा त्वमपि भर्तरि॥ . This is the मन्त्र for the आवाहन of अरुन्धती.
+[^383]: अत्रेर्यथानुसूया स्याद्वसिष्ठस्याप्यरुन्धती। कौशिकस्य यथा सती तथा त्वमपि भर्तरि॥. This is the मन्त्र for the आवाहन of अरुन्धती.
 
-. [^384]. हारीतेन परविद्धायाः प्रतिषिद्धवात्। चतुर्थीसंयुता कार्या पञ्चमी परया न तु । देवे PATUT 1959 PUTS gati 21. a. p. 186.
+[^384]: हारीतेन परविद्धायाः प्रतिषिद्धत्वात्। चतुर्थीसंयुता कार्या पञ्चमी परया न तु । देवे कर्मणि पित्र्ये च शुक्लपक्षे तथाऽसिते॥ इति। का. नि. p. 186.
 
+[^385]: सा (ऋषिपञ्चमी) मध्याह्नव्यापिनी ग्राह्या। पूजाव्रतेषु...तिथिः -इति माधवीये हारीतोक्तेः। दिनद्वये तस्वे हेमाद्रिमते परा। ...माधवमते पूर्वा, सर्वत्र पञ्चमी पूर्वेत्युक्तेः। युग्मवाक्यान्निर्णयस्तु युक्तः। ऋषिपञ्चमी षष्ठीयुतैवेति दिवोदासः। नि. सि. p. 134, का. नि. (p. 132) has the verse 'पूजाव्रतेषु सर्वेषु मध्याह्नव्यापिनी तिथिः।'.
 
-151
-
-
+## Anantacaturdaśī-vrata
 
 On the 14th of the bright half of Bhādrapada is celebrated the Anantacaturdaśī-vrata. It does not appear in the Kr̥tya kalpataru (on vrata).
 
-It consists chiefly in the worship of Hari as Ananta and in wearing on the the right hand in the case of men and on the left
+It consists chiefly in the worship of Hari as Ananta and in wearing on the the right hand in the case of men and on the left in the case of women a holy strap of thread dyed with saffron made of cotton or silk twisted into fourteen knots. It is an individual pūjā and not a festival of a socio-religious character. The Agnipurāṇa (chap. 192, verses 7-10) gives a brief description as follows. On the 14th of the bright half one should worship the image of Ananta (Hari) which is made of darbha grass placed in a vessel for water (a jar). He should get ready flour of a _prastha_ of paddy and make cakes from that, half of which should be donated to a brāhmaṇa and the remaining half he should use for himself. One should perform this vrata on the bank of a river and listen to stories about Hari and (pray to Hari) as follows:[^386] O Vāsudeva! save (people) sunk in the great and endless ocean of _saṁsāra_ and make them apply themselves to the contemplation of the form of Ananta; salutation to thee that hast numerous forms! Having worshipped (Hari) with this mantra and having tied on one's arm or round one's neck a string of threads over which a mantra has been uttered, the person who performs the Anantavrata becomes happy. If Hari is Ananta, then fourteen knots may be deemed to symbolize the fourteen worlds created by Hari.
 
-[^385]. HT (POT) ANGUIT ETEN I hadg... fara:- Te Aranit हारीतोक्तेः। दिनद्वये तसे हेमाद्रिमते परा। ... माधवमते पूर्वा, सर्वत्र पञ्चमी पूर्वेत्युक्तेः।
+Hemādri (on vrata vol. II, pp. 26–36) has an elaborate description of Anantavrata together with the story of Kauṇḍinya and his wife Śilā told by Kṛṣṇa to Yudhiṣṭhira. Kṛṣṇa states that Ananta is one of his forms and identifies himself with Kāla (Time) that is called Ananta. Ananta should be worshipped with the _upacāras_ of sandalwood paste, incense, flowers, naivedya.
 
-ATTITUTTET Thit \#fazat tergaan \#:1 a. F. p. 134, T. a. (p. 132) has the verse' Fleg i arg oft Paru:1',
+In front of (the image of) Ananta should be placed a _doraka_ dyed with saffron and having fourteen knots. The mantra (quoted in note) should be recited and the doraka should be tied on one's arm, one should then dine with an easy mind after contemplating on Nārāyana as Ananta. In the story it is narrated how because the husband Kauṇḍinya from youthful rashness and pride cut the Ananta thread tied round his wife's hand he lost everything, then repented and was taken into favour by Ananta. The V. K. K. (pp. 324-339) describes at great length the procedure of Anantapūjā together with stories taken from the Bhaviṣyottara, and the Tithitattva also (p. 123 ) quotes portions from the Bhaviṣyottara. The Kālanirṇaya (p. 279) expressly states that the Anantavrata is described in the Bhaviṣyottara and discusses a few verses therefrom. The Vratārka (folio 277a-285a) describes this vrata at great length. Briefly it is this: first saṅkalpa, then making a _sarvato-bhadra maṇḍala_ and placing a jar thereon, on which is placed a _nāga_ with seven hoods made of darbhas and in front of it a _doraka_ with 14 knots, worshipping the doraka on the jar with 16 upacāras with the Puruṣasūkta (Ṛg. X. 90) and Paurāṇika mantras; 14 devatās of the knots from Viṣṇu to Vasus are invoked, then there is worship of the limbs from the feet upwards in such mantras as "Anantāya namaḥ pādau pūjayāmi,' then a handful of flowers with the mantras of Viṣṇu, prayer to Ananta, tying the doraka with a mantra, casting away the old doraka after offering it worship. Salt is forbidden in this vrata. It was [^387] believed that if this vrata was performed for fourteen years, one reached the world of Viṣṇu.
 
-RU
-
-152
-
-
-
-(Sec. I, CH. VIII
-
-in the case of women a holy strap of thread dyed with saffron made of cotton or silk twisted into fourteen knots. It is an individual pūjā and not a festival of a socio-religious character. The Agnipurāṇa (chap. 192, verses 7-10) gives a brief description as follows. On the 14th of the bright half one should worship the image of Ananta (Hari) which is made of darbha grass placed in a vessel for water (a jar). He should get ready flour of a prastha of paddy and make cakes from that, half of which should be donated to a brāhmana and the remaining half he should use for himself. One should perform this vrata on the bank of a river and listen to stories about Hari and (pray to Hari) as follows:[^386] O Vāsudeva! save (people) sunk in the great and endless ocean of saisūra and make them apply themselves to the contemplation of the form of Ananta; salutation to thee that hast numerous forms! Having worshipped (Hari) with this mantra and having tied on one's arm or round one's neck a string of threads over which a mantra has been uttered, the person who performs the Anantavrata becomes happy. If Hari is Ananta, then fourteen knots may be deemed to symbolize the fourteen worlds created by Hari.
-
-Hemādri (on vrata vol. II, pp. 26–36) has an elaborate description of Anantavrata together with the story of Kaupdinya and his wife Śilā told by Kṛṣṇa to Yudhisthira. Kṛṣṇa states that Ananta is one of his forms and identifies himself with Kāla (Time) that is called Ananta. Ananta should be worshipped with the upacāras of sandalwood paste, incense, flowers, naivedya.
-
-In front of the image of) Ananta should be placed a doraka dyed with saffron and having fourteen knots. The mantra (quoted in note) should be recited and the doraka should be tied on one's arm, one should then dine with an easy mind after contemplating on Nārāyana as Ananta. In the story it is narrated how because the husband Kauṇdinya from youthful rashness and pride cut the Ananta thread tied round his wife's hand he lost everything, then repented and was taken into favour by Ananta. The V, K, K. (pp. 324-339) describes at great length the procedure of Anantapūjā together with stories taken
-
-[^386]. अनन्तसंसारमहासमुद्दे मग्नान्समभ्युद्धर वासुदेव । अनन्तरूपे विनियोजयस्व अनन्त FYTY A THI 311g 192.9, quoted as yieka by . T. p. 294 and fat. a. p. 123, which remarks TICNEFT HETT T I 3T1701. It is oot clear from the fogttor what month is intended. The verses immediately preceding refer to anah.
-
-Anantacaturdaśi vrata
-
-153
-
-from the Bhaviṣyottara, and the Tithitattva also (p. 123 ) quotes portions from the Bhaviṣyottara. The Kālanirṇaya (p. 279) expressly states that the Anantavrata is described in the Bhaviṣyottara and discusses a few verses therefrom. The Vratārka (folio 277a-285a) describes this vrata at great longth. Briefly it is this: first saṅkalpa, then making a sarvato-thadra mandala and placing a jar thereon, on which is placed a nāga with seven hoods made of darbhas and in front of it a doraka with 14 knots, worshipping the doraka on the jar with 16 upa cāras with the Purusasūkta (Ṛg. X. 90) and Paurānika mantras; 14 devatās of the knots from Viṣṇu to Vasus are invoked, then there is worship of the limbs from the feet upwards in such mantras as "Anantāya namah padau pūjayāmi,' then a handful of flowers with the mantras of Viṣṇu, prayer to Ananta, tying the doraka with a mantra, casting away the old doraka after offering it worship. Salt is forbidden in this vrata. It was [^387] believed that if this vrata was performed for fourteen years, one reached the world of Viṣṇu.
-
-There is a variance in the views of eminent writers about the exact time and the tithi for the vrata whon 14th is mixed with other tithis (13th or Paurpimā). Mādhava [^388] holds that mid-day is not the karmakāla in this vrata, but that tithi which exists at sunrise for three muhurtas is the most suitable one for Ananta-vrata. The Nirṇayasindhu holds [^389] that Madhava was mistaken because he relied for his decision on a general rule that the principal tithi to be accepted is the one that covers mid-day, that the Anantavrata is not mentioned in other purāpas and also in other digests and that the passages of the Bhaviṣya and Skanda quoted by others are baseless and unauthoritative.
+There is a variance in the views of eminent writers about the exact time and the tithi for the vrata when 14th is mixed with other tithis (13th or Paurṇimā). Mādhava [^388] holds that mid-day is not the _karmakāla_ in this vrata, but that tithi which exists at sunrise for three _muhūrtas_ is the most suitable one for Ananta-vrata. The Nirṇayasindhu holds [^389] that Madhava was mistaken because he relied for his decision on a general rule that the principal tithi to be accepted is the one that covers mid-day, that the Anantavrata is not mentioned in other purāṇas and also in other digests and that the passages of the Bhaviṣya and Skanda quoted by others are baseless and unauthoritative.
 
 There are even in these days many persons who engage in the Anantacaturdaśī-vrata, but their numbers are rapidly diminishing.
 
-[^387]. कृत्वानन्तवतं सम्यग्नववर्षाणि पञ्च च। भुक्त्वा सर्वमनन्तेन यथोक्तं पाण्डुनन्दन । pant of 914 stage : 1 (on ga vol. II. p. 35), ___[^388]. यत्त भाद्रपद शुक्ल चतुर्दश्यामनन्तव्रतं भविष्योत्तरेऽभिहितं तत्र पूर्वविद्धा परविद्धा या मध्याह्वव्यापिनी ग्राोति केचिदाहुः। ... अतो न मध्याह्नः कर्मकालः। तथा सति देखे गोदयिकी ग्राह्या-इति वचनेन युग्मशास्त्रादिभिश्चोदयव्यापिनी ग्राह्या। सा च तिथ्यन्तरवद Freka ned: 9: 1 luge grat: 1911. fa. p. 279.
+[^386]: अनन्तसंसारमहासमुद्रे मग्नान्समभ्युद्धर वासुदेव । अनन्तरूपे विनियोजयस्व अनन्तरूपाय नमो नमस्ते ॥ अग्नि 192.9, quoted as पूजादोरकमन्त्र by कृ. र. p. 294 and ति. त. p. 123, which remarks 'पूजादोरकबन्धनमन्त्रस्तु रत्नाकरे । अनन्त'. It is not clear from the अग्निपुराण what month is intended. The verses immediately preceding refer to कार्तिक.
 
-[^389]. TO ... ET TTI TT AUTE SITE EETTI ATTEL AUF कुन् भ्रान्त एव । अनन्तव्रतस्य पुराणान्तरेण्वभावानिवन्धान्तरेष्वभावाच पचनं निर्मलमेवेति ।
+[^387]: कृत्वानन्तव्रतं सम्यग्नववर्षाणि पञ्च च। भुक्त्वा सर्वमनन्तेन यथोक्तं पाण्डुनन्दन । अन्ते च मरणं प्राप्य गतोऽनन्तपुरे द्विजः। हे. (on व्रत vol. II. p. 35).
 
-. . p. 142.
+[^388]: यत्तु भाद्रपदशुक्ल-चतुर्दश्यामनन्तव्रतं भविष्योत्तरेऽभिहितं तत्र पूर्वविद्धा परविद्धा वा मध्याह्वव्यापिनी ग्राह्येति केचिदाहुः। ... अतो न मध्याह्नः कर्मकालः। तथा सति दैवे ह्यौदयिकी ग्राह्या-इति वचनेन युग्मशास्त्रादिभिश्चोदयव्यापिनी ग्राह्या। सा च तिथ्यन्तरवत् त्रिमुहूर्तेति मुख्यः कल्पः। द्विमुहूर्तेत्यनुकल्पः । का. नि. p. 279.
 
-H. D. 20
+[^389]: तत्त्वं तु... पूर्वा परा वा मध्याह्वव्यापिन्येव मुख्या। माधवस्तु सामान्यवाक्यान्निर्णयं कुर्वन् भ्रान्त एव । अनन्तव्रतस्य पुराणान्तरेष्वभावान्निवन्धान्तरेष्वभावाच्च वचनं निर्मूलमेवेति । नि. सि. P.142.
