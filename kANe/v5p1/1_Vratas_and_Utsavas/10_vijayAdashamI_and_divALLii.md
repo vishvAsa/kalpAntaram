@@ -186,7 +186,7 @@ In the afternoon of the pratipad (Kārtika-śukla) the tying of Mārgapāli take
 
 [^528]: For Govardhana, vide H. of Dh. vol. IV. pp. 691 and 754. The story of Kr̥ṣṇa having lifted up on his little finger Govardhana for seven days to protect cowherds and their cattle against the heavy rains sent down by Indra is narrated in Viṣṇupurāṇa V, 11.15–25, Varāha 164.
 
-[^529]. The भविष्योत्तर 140. 46-47 are-मार्गपालीं प्रबध्नीयात्तङ्गस्तम्भेय पादपे। कुशकाशमयीं दिव्यां सम्भवे बहुभिर्वृताम्...मार्गपालीतलेनेत्धं हयागायो गजा वृषाः। राजानो राजपुत्राश्च बाह्मणाः शूद्धजातपः । मार्गपालीं समुल्ल्ङध्य नीरुजः स्यात् सुखी सदाI. The same occur in पद्म VI.124.44-45.मार्गपालिनमस्तेऽस्तु सर्वलोकसुखप्रदे। विधेयैः पुत्रदाराद्यैःपुनरोहि व्रतस्य मे। q. by मि. सि. p. 202, धर्मसिन्धु p. 108. The first half is वग्र VI. 124.11.
+[^529]: The भविष्योत्तर 140. 46-47 are-मार्गपालीं प्रबध्नीयात्तङ्गस्तम्भेय पादपे। कुशकाशमयीं दिव्यां सम्भवे बहुभिर्वृताम्...मार्गपालीतलेनेत्धं हयागायो गजा वृषाः। राजानो राजपुत्राश्च बाह्मणाः शूद्धजातपः । मार्गपालीं समुल्ल्ङध्य नीरुजः स्यात् सुखी सदाI. The same occur in पद्म VI.124.44-45.मार्गपालिनमस्तेऽस्तु सर्वलोकसुखप्रदे। विधेयैः पुत्रदाराद्यैःपुनरोहि व्रतस्य मे। q. by मि. सि. p. 202, धर्मसिन्धु p. 108. The first half is वग्र VI. 124.11.
 
 
 The Nirājana ceremony by women should be performed in the morning (if the pratipad is mixed with dvitiyā) and the Mangalamālikā (a series of auspicious rites or auspicious garlands) should be performed in the evening on the 2nd tithi ( if pratipad exists only for a short time and is followed by dvitiyā). [^531]
