@@ -189,160 +189,97 @@ In the Kālanirṇaya [^584] there is a lengthy discussion on the question wheth
 
 Śivarātrivrata is both _nitya_ (obligatory ) and _kāmya_ (optional). It is nitya because there are passages which lay down that sin follows if a man does not perform it [^585]; 'the being that does not worship with devotion Rudra who is the lord of three worlds wanders through thousands of future lives'. Besides, there are verses which lay down that the vrata should be performed every[^586] year: 'O great goddess! a man and a chaste woman should every year worship Mahādeva with devotion on Śivarātri'. This vrata is optional because the texts provide the rewards of performing this vrata. For example, vide p. 85 above and p. 86 above for the maxim of _saṁyoga-pr̥thaktva_.
 
- 
+[^584]: तत्रेदं चिन्त्यते । किमयं शिवरात्रिशब्दो रूढः, किं वा यौगिकः, उत लाक्षणिकः, अथवा योगरूढ इति । किं तावत्प्राप्तम् । रूढ इति । कुतः। तिथिविशेषे शिवरात्रिशब्दस्य संज्ञा रूपेण स्मरणात् । का. नि. p. 280; अथ सिद्धान्तं ब्रूमः। योगरूढ एवायं शिवरात्रिशब्दः । ... यथा पङ्कजशब्दे पङ्काज्जायते इति योगं स्वीकृत्य भेकादिष्वतिप्रसङ्गो रूढिस्वीकारेण निवार्यते तद्वदत्रापि योगरूढतायां न कोप्यतिप्रसङ्गः। का. नि. p. 287. शिवरात्रि is taken as a बहुव्रीहि 'शिवस्य रात्रिर्यस्मिन् व्रते' इति बहुव्रीहिसमासेन प्रवृत्तः शब्दो रुढ्या व्रतविशेष नियम्यते। का. नि. p. 288.
 
-[^584]. तत्रेदं चिन्त्यते । किमयं शिवरात्रिशब्दो रूढः, किं वा यौगिकः, उत लाक्षणिकः, अथवा योगरूढ इति । किं तावत्प्राप्तम् । रूढ इति । कुतः। तिथिविशेषे शिवरात्रिशब्दस्य संज्ञा रूपेण स्मरणात् । का. नि. p. 280; अथ सिद्धान्तं बमः। योगरूढ एवायं शिवरात्रिशब्दः । ... पथा पङ्कजशब्दे पङ्काज्जायते इति योगं स्वीकृत्य भेकादिष्वतिप्रसङ्गो रूढिस्वीकारेण निवार्यते सद्ववापि योगरूढतायां न कोप्यतिप्रसङ्गः। का. नि. p. 287. शिवरात्रि is taken as a पहुव्रीहि 'शिवस्य रात्रिर्यस्मिन् व्रते' इति बहुव्रीहिसमासेन प्रवृत्तः शब्दो सख्या व्रतविशेष नियम्यते। का. नि. p. 288,
+[^585]: न पूजयति भक्त्येशं रुद्रं त्रिभुवनेश्वरम् । जन्तुर्जन्मसहस्रेषु भ्रमते नात्र संशयः। स्कन्द q. by का. नि. p. 288.
 
-[^585]. न पूजयति भक्त्येशं रुद्रं त्रिभुवनेश्वरम् । जन्तुर्जन्मसहस्रेषु भ्रमते नात्र संशयः। स्कन्द १. by का. नि. p. 288,
+[^586]: वर्षे वर्षे महादेवि नरो नारी पतिव्रता। शिवरात्रौ महादेवं कामं भक्त्या प्रपूजयेत् ।। स्कन्द q. by का. नि. p. 288, ति. त. p. 125 ( from पद्म).
 
-[^586]. वर्षे वर्षे महादेवि नरो नारी पतिव्रता। शिवरात्रौ महादेवं कामं भक्त्या प्रपूजयेत् ।। स्कन्द q. by का. नि. p. 288, ति. त. p. 125 ( from पद्म).
+[^587]: नित्यकाम्यरूपस्यास्य व्रतस्य सर्वाधिकारिकत्वमीशानसंहितायामुक्तम् । शिवरात्रिव्रतं नाम सर्वपापप्रणाशनम्। आचण्डालमनुष्याणां भुक्तिमुक्तिप्रदायकम् ॥ का. नि. p. 290, नि. सि. P. 225. स. म. p. 101; शैवो वा वैष्णवो वापि यो वा स्यादन्यपूजकः । सर्वे पूजाफलं हन्ति शिवरात्रिबहिर्मुखः॥ from ईश्वरसंहिता q. by नृसिंहाचार्य: vide ति. त. p. 125, कत्यतत्त्व p. 461.
 
-[^587]. नित्यकाम्यरूपस्यास्य तस्य सर्वाधिकारिकत्वमीशानसंहितायामुक्तम् । शिवरात्रि प्रतं नाम सर्वपापप्रणाशनम्। आचण्डालमनुष्याणां भुक्तिमुक्तिप्रदायकम् ॥ का. नि. p. 290, नि. सि. P. 225. स. म. p. 101; शैवो वा वैष्णवो वापि यो वा स्यादन्यपूजकः । सर्व पूजाफल हन्ति शिवरात्रिबहिर्मुखः॥ from ईश्वरसंहिता q. by सिंहाचार्य: vide ति. त. p. 125, कत्यतत्व p. 461.
-
-Fruits of śivarātrivrata
-
-229
+## Fruits of śivarātrivrata
 
 This vrata according to the Isanasamhita [^587] can be performed by all human beings. "The Śivarātrivrata destroys all sins and confers enjoyment of happiness and mokṣa (final liberation ) on all human beings including cāṇḍālas'.
 
-The Īsānasamhitā provides: a devotee of Viṣṇu or Śiva or of another god, if he gives up Śivarātri, destroys all the fruits of his worship (of the deity to whom he is devoted). Everyone[^588] who performs this vrata has to observe certain restrictions, viz. non-injury, truthfulness, freedom from anger, celibacy, compassion, forbearance and he has to be calm in mind, devoid of fits of passion and has to perform austerities and he should be free from malice; knowledge of this vrata should be imparted to such a one provided he follows his preceptor; if one imparts it other wise, one goes to hell.
+The Īśānasamhitā provides: a devotee of Viṣṇu or Śiva or of another god, if he gives up Śivarātri, destroys all the fruits of his worship (of the deity to whom he is devoted). Everyone[^588] who performs this vrata has to observe certain restrictions, viz. non-injury, truthfulness, freedom from anger, celibacy, compassion, forbearance and he has to be calm in mind, devoid of fits of passion and has to perform austerities and he should be free from malice; knowledge of this vrata should be imparted to such a one provided he follows his preceptor; if one imparts it other wise, one goes to hell.
 
 The proper time for this vrata is night, since, as stated in the Skanda [^589] 'goblins, the Śaktis and Śiva (who wields the trident) move about at night and therefore these are to be worshipped at that time on caturdaśi.' The Skanda[^590] provides 'A fast should be observed on that caturdaśi of the dark half that is joined to niśitha (i.e. that exists at that time); that tithi is the best and leads to companionship with Śiva'. Hemādri quotes Nāgarakhanda[^591] as follows: on the 14th of the dark half of Māgha I shall go in the Kaliyuga on the surface of the earth at night and not by day. I shall undoubtedly transfer myself to all liṅgas, whether movable or permanently fixed, for the removal of the sins committed in the (preceding ) year; therefore the man who offers worship to me at night with these mantras will be free from sin'. In the Iśānasamhitā it is said 'The first God (Śiva ) appeared in the form of Śivaliṅga, whose refulgence was equal to that of a crore of suns, on the 14th of Māgha dark half. The tithi to be accepted for the Śivarātri vrata should be one that covers that time. A man should perform this vrata on that tithi when the 14th covers the time before and after midnight.'[^592] Hemādri also quotes a verse like this 'The 14th tithi called Śivarātri that covers _pradoṣa_ should be accepted (for vrata); one should observe a fast on that tithi since there has to be a jāgara (in that vrata) at night.'[^593]
 
-[^588]. SIEHT HEUhaite aerae THAT I TEACHI FILETAS AT 4:1 तस्मै देयमिदं देवि गुरुपादानुगो यदि। अन्यथा यो दवातीदं स तदा नरकं बजेत् ॥ का. नि. D. 290.
+[^588]: अहिंसा सत्यमक्रोधो ब्रह्मचर्ये दया क्षमा । शान्तात्मा क्रोधहीनश्च तपस्वी ह्यनसू्यकः॥ तस्मै देयमिदं देवि गुरुपादानुगो यदि। अन्यथा यो ददातीदं स तदा नरकं व्रजेत् ॥ का.नि. P. 290.
 
-[^589]. अत एव शिवरात्रिबतस्य रात्रिप्राधाग्यमुक्तं स्कन्दपुराणे॥ निशि भ्रमन्ति भूतानि 4: : 1 Stati ETTI HEYI au si Hacie. On Fitos D. 304; vide 1. f. 298. ____590. निशीथसंयुता या तु कृष्णपक्षे चतुर्दशी। उपोण्या सा तिथिः श्रेष्ठा शिवसायुज्य Fiftunt it fira I. 1. 33. 82. Vide note 302 for falafiu and heat.
+[^589]: अत एव शिवरात्रिव्रतस्य रात्रिप्राधान्यमुक्तं स्कन्दपुराणे॥ निशि भ्रमन्ति भूतानि शक्तयः शूलभृद्यतः । अतस्तस्यां चतुर्दश्यां सत्यां तत्यूजनं भवेत् । हे. on काल p. 304, vide का. नि. 298.
 
-591. माघमासस्य कृष्णायां चतुर्दश्यां सुरेश्वर। अहं पास्यामि भूपृष्ठे रात्रौ नेव दिवा कलौ॥ लिङ्गेषु च समस्तेषु चलेषु स्थावरषु च। संक्रमिष्याम्यसम्विन्धं पर्षपापषिद्धये । तस्माद्रात्रौ हि मे पूजां यः करिष्यति मानवः । मन्त्रैरेतैः सुरश्रेष्ठ विपाप्मा स भविष्यति । मागरखण्ड १. by हे. (on काल p.304).
+[^590]: निशीथसंयुता या तु कृष्णपक्षे चतुर्दशी। उपोष्या सा तिथिः श्रेष्ठा शिवसायुज्य कारिणी॥ स्कन्द I. 1. 33. 82. Vide note 302 for निशीथ and महानिशा.
 
-230
+[^591]: माघमासस्य कृष्णायां चतुर्दश्यां सुरेश्वर। अहं यास्यामि भूपृष्ठे रात्रौ नेव दिवा कलौ॥ लिङ्गेषु च समस्तेषु चलेषु स्थावरेषु च। संक्रमिष्याम्यसन्दिग्धं वर्षपापविशुद्धये । तस्माद्रात्रौ हि मे पूजां यः करिष्यति मानवः । मन्त्रैरेतैः सुरश्रेष्ठ विपाप्मा स भविष्यति । नागरखण्ड q. by हे. (on काल p.304).
 
+[^592]: माघे कृष्णचतुर्दश्यामादिदेवो महानिशि। शिवलिङ्गत्तयोद्भूतः कोटिसूर्यसमप्रभः । तत्कालव्यापिनी ग्राह्या शिवरात्रिव्रते तिथिः । अर्धरात्रादधश्चोर्ध्वं युक्ता यत्र चतुर्दशी। ग्याप्ता सा दृश्यते यस्यां तस्यां कुर्याद् व्रतं नरः। ईशानसंहिता q. by तिथितत्त्व p. 125, नि. सि. p. 322.
 
+[^593]: प्रदोषव्यापिनी ग्राह्या शिवरात्रिचतुर्दशी। रात्रौ जागरणं यस्मात् तस्मात्तां समुपोषयेत् ॥ हे. on काल 307. vide व. क्रि. कौ. p. 74 for explanation of this verse. For प्रदोष, vide note 261 above.
 
+Owing to the above somewhat conflicting dicta there is a great deal of discussion on the proper day and time for the vrata in Hemādri on Kāla (pp. 298–308), Kālanirṇaya (pp. 297 ff). Tithitattva (pp. 125-126), Nirṇayasindhu (pp. 222-224), Puruṣārthacintāmaṇi (pp. 248–253) and other works. Some works like the Nirṇayāmṛta[^594] put emphasis on the word _pradoṣa_ (in note 593) above, while others emphasize the word _niśitha_ and ardharātra. The conclusions drawn by Mādhava (the prince of nirṇayakāras) are stated here. If caturdaśi covers both pradoṣa and niśitha, then the vrata should be observed on that day. If caturdaśī spreads over two days (i.e. it is mixed with 13th and also with amāvāsya) and 14th exists at the time of niśitha on both days, or if it does not so exist on any of the two days, then covering pradoṣa is the determining factor; where 14th covers pradoṣa on two days or does not cover pradoṣa on any of the two days, then existing at niśitha is the determining factor; if caturdaśi having extended over two days covers only one out of the two (pradoṣa and niśitha) on each day then conjunction with Jayā (i.e. 13th tithi) is the decisive factor[^595].
 
+[^594]: निर्णयामृते सर्वापि शिवरात्रिः प्रदोषव्यापिन्येव, अर्धरात्रपाक्यानि कैमुतिकन्यायेन प्रदोषस्तावकानीत्युक्तम् । नि. सि. p. 233.
 
+[^595]: दिनद्वये निशीथव्याप्तौ तदव्याप्तौ च प्रदोषव्याप्तिर्नियामिका। तथा दिनद्वयेपि प्रदोषव्याप्तौ तदव्याप्तौ च निशीथव्याप्तिर्नियामिका । एकैकस्मिन् दिने एकैकव्याप्तौ मयायोगो नियामकः । का. नि. p. 297.
 
+## Description of śivarātrivrata
 
-Owing to the above somewhat conflicting dicta there is a great deal of discussion on the proper day and time for the vrata in Hemādri on Kāla (pp. 298–308), Kālanirṇaya (pp. 297 ff). Tithitattva (pp. 125-126), Nirṇayasindhu (pp. 222-224), Puruṣārthacintāmaṇi (pp. 248–253) and other works. Some works like the Nirṇayāmṛta 594 put emphasis on the word pradosa (in note 593) above, while others emphasize the word niśitha and ardharātra. The conclusions drawn by Mādhava (the prince of nirṇayakāras) are stated here. If caturdaśl covers both pradosa and niśitha, then the vrata should be observed on that day. If caturdaśī spreads over two days (i.e. it is mixed with 13th and also with amāvāsya) and 14th exists at the time of niśitha on both days, or if it does not so exist on any of the two days, then covering pradosa is the determining factor; where 14th covers pradosa on two days or does not cover pradosa on any of the two days, then existing at nisitha is the determin ing factor; if caturdaśi having extended over two days covers only one out of the two (pradosa and niśitha) on each day then conjunction with Jayā (i. e. 13th tithi) is the decisive factor.595
+A brief description of how Śivarātrivrata was performed in ancient times may be gathered from Garuḍapurāṇa I. 124. 11-23. After honouring Śiva on the 13th tithi the man who is to undertake the vrata should resolve to observe certain restrictions. He should declare 'O God I shall keep awake the whole night on the 14th tithi. I shall make according to my ability worship, gifts, austerities and _homa_. O Śambhu! on 14th I shall take no food and shall take food on the next day. Oh Lord! be thou my refuge for securing enjoyment of happiness and mokṣa. The person observing the vrata should approach a teacher and should bathe (the liṅga) with _pañcagavya_ and with pañcamrta. He should repeat the mantra 'Om namaḥ Śivāya.' He should worship Śiva with the upacāras beginning with sandalwood paste and he should offer into fire sesame, grains of rice and boiled rice mixed with ghee. After this homa he should offer _pūrṇāhuti_ (an offering made with a full ladle) and listen to music and good stories (about Śiva). He should again offer offerings at midnight, in the 3rd quarter of the night and in the 4th quarter. Having inaudibly repeated the mūlamantra (_om namaḥ Śivāya_) he should pray to Śiva about daybreak to forgive his sins with the words 'O God! I have worshipped in this vrata without obstacles through your favour; O Lord of the worlds! O Śiva! pardon me. Whatever merit I have won this day and whatever has been offered by me to Śiva I have finished this vrata to-day through your favour; O bountiful one! be pleased with me, and go to your abode; there is no doubt that I have become pure by merely seeing you.' He should feed persons who are devoted to contemplating (on Śiva) and should give to them garments, umbrellas and the like; 'O Lord of Gods! lord of all things! that bestoweth favour on people; may my lord be gratified by what I have given with faith.' Having thus prayed for forgiveness, the person undertaking this vrata may carry it on for twelve years. After obtaining fame, wealth, sons and kingdom he may repair to the city of Śiva; he should perform jāgara (on 14th) in all the 12 months of the year; the man undertaking the vrata after feeding twelve brāhmaṇas and donating lamps may secure heaven.
 
-A brief description of how Śivarātrivrata was performed in ancient times may be gathered from Garuḍapurāṇa I. 124. 11-23. After honouring Śiva on the 13th tithi the man who is to under take the vrata should resolve to observe certain restrictions. He should declare 'O God I shall keep awake the whole night on the
+The Tithitattva (p. 127) adds some details which are interesting. The liṅga is to be bathed with milk in the first watch of the night, with curds in the 2nd, with ghee in the 3rd and with honey in the 4th. The mantras in the four watches are respectively 'hrim, Iśānāya namaḥ','hrim Aghorāya namaḥ','hrim Vāmadevāya namaḥ' and 'hrim Sadyojātāya namaḥ.' The mantra at the time of offering arghya is also different in each of the four watches. It is further provided that there should be songs and dances in the first watch of the night. The Varṣakriyākaumudi (p. 513) provides that in the 2nd, 3rd and 4th watches also the person undergoing vrata has to perform worship, arghya, japa and listening to stories (about Śiva), to offer hymns of praise and make prostrations and at day-break he should pray for forgiveness with arghya water, If Māgha-kṛṣṇa 14th falls on a Sunday or Tuesday, that is most commendable for this vrata[^596].
 
-592. माघ कृष्णचतुर्दश्यामादिदेवो महानिशि। शिवलिङत्तयोजतः कोटिसूर्यसमप्रभः । तत्कालव्यापिनी ग्राह्या शिवरात्रिवते तिथिः । अर्धरात्रावधश्चोर्ध्वं युक्ता यत्र चतुर्दशी। ग्याप्ता \#Ted Fi aru guta ad 79: 1 lmpigaT q. by Fait p. 125, a PO p. 322
+Later medieval digests such as the Tithitattva (pp. 126 ff), the Kālatattvavivecana (pp. 197–203), Puruṣārthacintamaṇi (pp. 255-258 ), Dharmasindhu (p. 127 ) provide an elaborate description of the procedure of Śivarātri vrata. The K. T. V, remarks [^597] that the procedure of Śivarātri-vrata is different in the several purāṇas. For comparison with the one in the Garuḍa quoted above a summary of it from the Dharmasindhu is given here. On the 13th tithi the performer should take only one meal in the noon, on the 14th after finishing his usual morning duties and rites, he should make a saṅkalpa in the morning with a mantra 'I shall perform this Śivarātrivrata that yields great rewards; O Lord of the world! may it be without obstacles through your favour. On the 14th I shall be without food and shall take my meal on the next day for enjoyment of pleasures and _mokṣa_, O Lord! be you my refuge.' If the performer be a brāhmaṇa, he should recite the two ṛk verses[^598] 'rātrim prapadye' and cast water. In the evening (of 14th ) he should take a bath with black sesame, should apply the _tripuṇḍra_ mark[^599] with ashes to his forehead and also hold a rosary of _rudrākṣa_ ( berry of Elaeocarpus Ganitrus), should go to a temple of Śiva at the beginning of night, should wash his feet, should take _ācamana_ (should sip water) and should make a saṅkalpa 'I shall perform the pūjā of the first watch on Śivaratri'; if he intends to perform separate pūjās on all the four watches or if he wants to perform a pūjā only once he should say 'I shall perform the worship of Śiva on Śivarātri for securing the favour of Śiva.'
 
-593. tale EN Facha ft et TROP THIC hrat atau. On aime 307. Vide a, fati fit. p. 74 for explanation of this verse. For 4€14, vide note 261 above.
+[^596]: माघकृष्णचतुर्दश्यां रविवारो भवेद्यदि। भौमो वापि भवेद्देवि कर्तव्यं व्रतमुत्तमम् । स्कन्द q. by पु. चि. pp. 252-253, का. नि. p. 299, स. म. p. 104.
 
-594. निर्णयामृते सर्वापि शिवरात्रिः पदोषव्यापिन्येव, अर्धरात्रपाक्यानि कैमुतिकग्यायेन qator
+[^597]: शिवरात्रिव्रतानुष्ठानप्रकारश्च यद्यपि पुराणभेदेन नानाविधोस्ति तथापि शिवरहस्यसंवादी संक्षिप्तस्तावत्प्रदर्श्यते । का. त. वि. p. 167.
 
-FETESTI. PA p. 233.
+[^598]: The मन्त्रs are verses 3 and 4 of the रात्रीसूक्त, which is a खिलसूक्त after ऋग्वेद X. 127, viz. रात्रीं प्रपद्ये जननीं० and संवेशिनीं संयमनीं०.
 
-595. दिनद्वये निशीथव्याप्तौ तदव्याप्तौ च प्रदोषव्याप्तिनियामिका। तथा दिनद्वयेपि मदोषव्याप्तौ तदव्याप्तौ च निशीथव्याप्तिनियामिका । एकैकस्मिन् दिने एकैकग्याप्ती भयापोगो fyri 1917. ff. p. 297,
+[^599]: _Tripuṇḍra_ - is triple sectarian mark consisting of three lines on the forehead.
 
-Description of śivarātrivrata
+## Procedure of Śivarātrivrata
 
-231
+Then he should repeat the sage (Vāmadeva) of the Śiva mantra of five letters (_Śivāya namaḥ_), the metre (Anusṭup ), the Devatā ( Sadāśiva) and it is to be employed for _nyāsa_, _pūjā_ and _japa_. Then he should bow to the sage, metre and Sadāśiva and perform _nyāsa_ on the several parts of the body from the heart with appropriate mystic letters and mantras (such as 'om namas-tat-puruṣāya namaḥ hṛdaye' to the last '_om yam astrāya phat_'); then he should worship the jar (_kalaśa_) and contemplate on Śiva as portrayed [^600] in the verse quoted below. He should then establish a liṅga by performing the _prāṇapratiṣṭhā_ and touch it and should invoke [^601] Śiva with four mantras and pray Śiva to be present in the liṅga till the end of the pūjā. Then he should offer an _añjali_ of flowers. If the liṅga is already permanently fixed or if the liṅga, though not fixed, has already been established with the necessary saṁskāras, he should omit the details from prāṇapratisthā to _āvāhana_. Then he should perform the remaining upacāras (out of 16 ) from _āsana_ to the last. As regarde snāna it is provided that the liṅga is to be bathed with pañcāmṛta ( vide note [^218] ), with the _mūlamantra_ (Śivāya namaḥ ) and the mantras 'āpyāyasva' R̥g. I. 91. 16 ff) and should wash it with pure water with - the three verses 'āpo hi ṣṭhā' (Rg. X. 9. 1-3). Then he should perform _abhiṣeka_ (bathing of the deity ) with water made fragrant with sandalwood, saffron and camphor to the accompaniment of the Rudra mantras[^602] recited once or repeated eleven times and of the Puruṣasūkta (R̥g. X. 90). At the end of snāna ( of the liṅga ) the performer should give _ācamana_ water ( to the liṅga ) and perform tarpaṇa with water mixed with akṣatas for Śiva with eight names (Bhava[^603] &c.) and the wives of these eight.
 
-14th tithi. I shall make according to my ability worship, gifts, austerities and homa. O Sambhul on 14th I shall take no food and shall take food on the next day. Oh Lord! be thou my refuge for securing enjoyment of happiness and moksa. The person observing the vrata should approach a teacher and should bathe (the liṅga) with pañcagarya and with pañcamrta. He should repeat the mantra 'Om namah Sivāya.' He should worship Śiva with the upacāras beginning with sandalwood paste and he should offer into fire sesame, grains of rice and boiled rice mixed with ghee. After this homa he should offer pārnāhuti (an offering made with a full ladle) and listen to music and good stories (about Śiva). He should again offer offerings at midnight, in the 3rd quarter of the night and in the 4th quarter. Having inaudibly repeated the mūlamantra (om namah Sivāya) he should pray to Śiva about daybreak to forgive his sins with the words 'O God! I have worshipped in this vrata without obstacles through your favour; O Lord of the worlds i O Śival pardon me. Whatever merit I have won this day and whatever has been offered by me to Śiva I have finished this vrata to-day through your favour; O bountiful onel be pleased with me, and go to your abode; there is no doubt that I have become pure by merely seeing you.' He should seed persons who are devoted to contemplating (on Śiva) and should give to them garments, umbrellas and the like; 'O Lord of Gods! lord of all things! that bestoweth favour on people; may my lord be gratified by what I have given with faith.' Having thus prayed for forgiveness, the person undertaking this vrata may carry it on for twelve years. After obtaining fame, wealth, sons and kingdom he may repair to the city of Siya; he should perform jāgara (on 14th) in all the 12 months of the year; the man undertaking the vrata after feeding twelve brāhmaṇas and donating lamps may secure heaven.
+[^600]: ध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं रत्नाकल्पोज्ज्वलाङ्गं परशुमृगवराभीतिहस्तं प्रसन्नम् । पद्मासीनं समन्तात्स्तुतममरगणैर्व्याघ्रकृत्तिं वसानं विश्वाद्यं विश्ववन्द्यं निखिलभयहरं पञ्चवक्त्रं त्रिनेत्रम् ॥ q. by धर्मसिन्धु p. 127.
 
-The Tithitattva (p. 127) adds some details which are interesting. The liṅga is to be bathed with milk in the first watch of the night, with curds in the 2nd, with ghee in the 3rd and with honey in the 4th. The mantras in the four watches are respectively 'hrim, Iśānāya namaḥ,' hrim Agho rāya namah,''hrim Vāmadevāya namaḥ' and 'hrim Sadyojātaya namaḥ.' The mantra at the time of offering arghya is also different in each of the four watches. It is further provided that there should be songs and dances in the first watch of the
+[^601]: ओं भूः पुरुषं साम्बसदाशिवमावाहयामि, ओं भुवः पुरुषं ...यामि, ओं स्वः पुरुषं... यामि, ओं भूर्भुवःस्वः... यामि । धर्मसिन्धु p. 127.
 
-232
+[^602]: Rudra means the eleven _anuvākas_ of the Tai. S, IV. 5. 1-11 beginning with 'namas-te Rudra Manyave'.
 
+[^603]: The eight names are Bhava, Śarva, iśāna, Paśupati, Ugra, Rudra, Bhima, Mahādeva, The form will be 'om Bhavam devam tarpayāmi' &c. Aad as to the wives, 'Bhavasya devasya patnim tarpayāmi'. For eight names of Rudra almost identical with these, vide Śaṅkhyāyana brāhmaṇa VI, 2-9.
 
 
+After flowers the performer should offer 1008 or 108 bilva leaves with the thousand names of Śiva'[^604] or with mūlamantra. After _naivedya_ he should offer ācamana and fruits with _mūlamantra_. After _tāmbūla_ he should wave a lamp ( before the liṅga) with the mūlamantra and Vedic mantras, offer _mantrapuṣpa_ with the mantra 'om namaḥ Śivāya' and offer eight namaskāras to the eight names 'Bhava' &c. ( quoted in note [^603]) and to their wives. Then he should offer twelve añjalis of flowers with the twelve names [^605] ( noted below ), perform _pradakṣiṇā_ and _namaskāras_ with mūlamantra, repeat inaudibly the mūlamantra 108 times, should pray for forgiveness and should declare ( before liṅga) 'May Samba Sadāśiva be pleased with this pūjā'.
 
+If a man undertook a vrata to observe Śivarātri for 24 or 14 years or 12 years he has to perform the udyāpana thereof at the end of that period. [^606] An elaborate procedure is prescribed in some works such as the Puruṣārthacintāmaṇi (pp. 258,259), Vratarāja pp. 586-587. It is passed over here.
 
-night. The Varsakriyākaumudi (p. 513) provides that in the 2nd, 3rd and 4th watches also the person undergoing vrata has to perform worship, arghya, japa and listening to stories (about Siya), to offer hymns of praise and make prostrations and at day-break he should pray for forgiveness with arghya water, If Māgha-kļśṇa 14th falls on a Sunday or Tuesday, that is most commendable for this vrata.5%
+As regards the pāraṇā on a single Śivarātri on Māghakr̥ṣṇa the texts, as noted by Nirṇayasindhu, are in conflict. Two of them from the Skanda may be set out here [^607]. 'Kr̥ṣṇāṣṭamī, Skandaṣaṣṭhi and Śivarātri, when these are mixed with the preceding and following tithis, the one mixed with the preceding tithi should be accepted for the prescribed rite and the pāraṇā should be performed at the end of the tithi prescribed; fast on 14th and pāraṇā on the 14th itself — such an occurrence may be had only if one has lakhs of good deeds to one's credit'.
 
-Later medieval digests such as the Tithitattva (pp. 126 ff), the Kālatattvavivecana (pp. 197–203), Purusārthacintamani (pp. 255-258 ), Dharmasindhu (p. 127 ) provide an elaborate description of the procedure of Śivarātri vrata. The K. T. V, remarks 597 that the procedure of Śivarātri-vrata is different in the several purāṇas. For comparison with the one in the Garuḍa quoted above a summary of it from the Dharmasindhu is given here. On the 13th tithi the performer should take only one meal in the noon, on the 14th after finishing his usual morning duties and rites, he should make a saṅkalpa in the morning with a mantra 'I shall perform this Śivarātrivrata that yields great rewards; O Lord of the world I may it be without obstacles through your favour. On the 14th I shall be without food and shall tako my meal on the next day for enjoyment of pleasures and mokṣa, O Lord I be you my refuge.' If the per former be a brāhmaṇa, he should recite the two ?k verses598 'rātrim prapadye' and cast water. In the evening (of 14th ) he should take a bath with black sesame, should apply the tripundra mark 599 with ashes to his forehead and also hold a rosary of rudrākṣa ( berry of Elaeocarpus Ganitrus), should go to a temple of Śiva at the beginning of night, should wash his feet, should take ācamana (should sip water) and should make a saṅkalpa 'I shall perform the pūjā of the first watch on Śivaratri'; if he intends to perform separate pūjās on all the four watches or if he wants to perform a pūjā only once he should say 'I shall perform the worship of Śiva on Siyarātri for securing the favour of Śiva.' Then he should repeat the sage (Vāmadeva)
+[^604]: अनुशासन (17.31-153) gives the 1008 names of Śiva and शान्तिपर्व (285. 74 ff) mentions most of the 1008 names.
 
-596. Aranturadrei TART WEI HII ang taera pide ang ! Fire q. by g. Fr. pp. 252-253, Fl. . p. 299, \#. \#. p. 104.
+[^605]: The 12 names are शिव, रुद्र, पशुपति, नीलकण्ठ, महेश्वर, हरिकेश, विरूपाक्ष, पिनाकिन् , त्रिपुरान्तक, शम्भु, शूलिन् , महादेव.
 
-597. शिवरात्रिवतानुष्ठानप्रकारश्च यद्यपि पुराणभेदेन नानाविधोस्ति तथापि शिवरहस्य Hargt fremaalea pua i fil. a. fī. p. 167
+[^606]: एवं द्वादश वर्षाणि शिवरात्रिमुपोषकः। यो मां जागरते रात्रिं मनुजः स्वर्गमारुहेत् ॥ स्कन्द q. by हे. (on काल p. 309); एवमुक्तविधानेन व्रतं कुर्याद्विधानतः । चतुर्विशतिवर्षाणि यद्वा द्वादशवत्सरम् । चतुर्विंशतिमे वर्षे कुर्यादुद्यापनं व्रती। अथवा द्वादशे वर्षे कुर्यादुद्यापनं बुधः । q. by पु. चि. p. 358 ; चतुर्दशाब्दं कर्तव्यं शिवरात्रिव्रतं शुभम् । एकभक्तं त्रयोदश्यां चतुर्दश्यामुपोषणम् । q. by व्रतराज p. 586.
 
-598. The Ass are verses 3 and 4 of the art, which is a frame after para X. 127, viz. The mato and warrant \#ho.
+[^607]: अथ पारणानिर्णयः। शिवरात्रिपारणे तु विरुद्धवाक्यानि दृश्यन्ते । स्कान्दे। कृष्णाष्टमी स्कन्दषष्ठी शिवरात्रिचतुर्दशी । एताः पूर्वयुताः कार्यास्तिथ्यन्ते पारणं भवेत्। "तिथिमध्येपि पारणं स्कान्दे उक्तम् । उपोषणं चतुर्दश्यां चतुर्दश्यां तु पारणम् । कृतैः सुकृतलक्षैश्च लभ्यते तत्तु वा न वा । नि. सि. p 224; the first is q. by हे. (on काल p. 298), the. 2nd is q. by धर्मसिन्धु p. 126.
 
-599, Tribundra-is triple sectarian mark consisting of three lines on the forehead,
+## Pāraṇā on śivarātrivrata
 
-Procedure of Śivarātrivrata
+The conclusions established by the Dharmasindhu p. 126 are; 'If caturdaśī tithi ends before three watches of the night end, then the pāraṇā should be at the end of the (14th ) tithi: if caturdaśī ( tithi) extends beyond the three watches of the night, then at daybreak the pāraṇā takes place in the midst of the 14th; these are the views of Mādhava and others; the opinion of the Nirṇayasindhu is that even when the caturdaśi tithi ends before the three watches of the night the pāraṇā must be observed in the midst of the caturdaśī and not at the end of caturdaśī.
 
-233
+In modern times very few, if at all, go through the procedure prescribed even in the Dharmasindhu. A fast is observed and Śiva is worshipped and people may listen to stories of Śiva's exploits. Common people in some parts drink a beverage called _bhāng_ prepared by pouring water on crushed hemp leaves with the addition of almonds, rose leaves, opium seeds &c. It is supposed to be dear to Śhaṅkara. In many temples of Śiva, water is made to drip on the liṅga incessantly.
 
-of the Śiva mantra of five letters (Śivāya namah), the metre (Anusṭup ), the Devatā ( Sadāśiva) and it is to be employed for nyāsa, pūjā and japa. Then he should bow to the sage, metre and Sadāśiva and perform nyāsa on the several parts of the body from the heart with appropriate mystic letters and mantras (such as 'om namas-tat-puruṣāya namaḥ hrdaye' to the last 'om yam astrāya phat); then he should worship the jar ( kalasa ) and contemplate on Śiva as portrayed 600 in the verse quoted below. He should then establish a liṅga by performing the prāṇa pratisthā and touch it and should invoke 601 Śiva with four mantras and pray Śiva to be present in the liṅga till the end of the pūjā. Then he should offer an anjali of flowers. If the liṅga is already permanently fixed or if the liṅga, though not fixed, has already been established with the necessary samskāras, he should omit the details from prāṇapratisthā to āvāhana, Then he should perform the remaining upacāras (out of 16 ) from āsana to the last. As regarde snāna it is provided that the liṅga is to be bathed with pañcāmṛta ( vide note 218 ), with the mūlamantra (Sivāya namaḥ ) and the mantras apyāyasva'
+Mr. Gupte (pp. 208–215 ) after detailing the story of a hunter and a doe, her mate buck and two young ones connects the Śivarātri observances with the constellation of Mṛgaśirṣa together with Sirius (the Hunter), but he is at a loss to explain why the 14th of Māgha-kṛṣṇa should have been selected for a fast. Mr. Mukerji (pp. 33-37 ) contents himself by referring to the Śivarātrimāhātmya in Śantiparva. The constellation of Mṛgaśirṣa and the brightest star Sirius had attracted the minds of ancient Indians. The Ait. Br. (XIII, 9 )[^608] narrates how Prajapati seeking his own daughter for intercourse sinned, how he assumed the form of an antelope and how the gods brought together their terrible forms, which became Rudra whom they asked to pierce the antelope. When Rudra pierced the antelope, the latter fled up into the sky. People call it Mṛga ( Mṛgaśirṣa ) and Rudra became the hunter ( Mṛgavyādha), the daughter became Rohiṇi and the arrow (with its three parts ) became the three arrow-like stars.
 
-(Rg. I. 91. 16 ff) and should wash it with pure water with - the three verses 'āpo hi sthā' (Rg. X. 9. 1-3). Then he should perform abhiseka (bathing of the deity ) with water made fragrant with sandalwood, saffron and camphor to the accom paniment of the Rudra mantras602 recited once or repeated eleven times and of the Purusasūkta ( Rg. X. 90). At the end of snāna ( of the liṅga ) the performer should give ācamana water ( to the liṅga ) and perform tarpaṇa with water mixed with aksatas for Śiva with eight names (Bhava 603 &c.) and the wives of these eight. After flowers the performer should offer 1008 or 108
-
-600. ध्यायेन्नित्यं महेशं रजतगिरिनिभं चारुचन्द्रावतंसं रत्नाकल्पोज्ज्वलाई परशुराम पराभीतिहस्तं प्रसनम् । पद्मासीनं समन्तात्स्तुतममरगणैर्व्याघ्रकृतिं घसानं विश्वार्थ विश्ववन्य ATCERES THET TA dare il q. by caiffany p. 127.
-
-601. 37 : 990 FIFTHETISITHFIESTA, 3 ya: got *** A, a : yor... A, i ::... UMÀ I Epitry p. 127.
-
-602. Rudra means the eleven anuvākas of the Tai. S, IV. 5. 1-11 beginning with Damas-te Rudra Manyave',
-
-603. The eight names are Bhava, Sarva, iśāna, Pasupati, Ugra, Rodra, Bhima, Mahadeva, The form will be 'om Bhavam devam tarpayāmi' &c. Aad as to the wives, 'Bhavasya devasya patnim tarpayāmi'. For eight dames of Rudra almost identical with these, vide Saṅkhyāyana Brabmans VI, 2-9.
-
-H. D. 30
-
-234
-
-
-
-
-
-IM
-
-bilva leaves with the thousand names of Śiva''t or with mūla mantra. After naivedya he should offer ācamana and fruits with mulamantra. After tūmbūla he should wave a lamp ( before the liṅga) with the mūlamantra and Vedic mantras, offer mantra puspa with the mantra 'om namah Sivāya' and offer eight namaskāras to the eight names 'Bhava' &c. ( quoted in note 603) and to their wives. Then he should offer twelve añjalis of
-
-flowers with the twelve names 605 ( noted below ), perform prarlak --ṣiṇā and namaskūras with mālamantra, repeat inaudibly the mūlamantra 108 times, should pray for forgiveness and should declare ( before liṅga) 'May Samba Sadāśiva be pleased with this pūjā.
-
-If a man undertook a vrata to observe Śivarātri for 24 or 14 years or 12 years he has to perform the udyāpana thereof at
-
-• the end of that period. 606 An elaborate procedure is prescribed
-
-in some works such as the Puruṣārthacintāmaṇi (pp. 258,259), Vratarāja pp. 586-587. It is passed over here.
-
-· As regards the pāraṇā on a single Śivarātri on Māgha krsna the texts, as noted by Nirṇayasindhu, are in conflict. Two of them from the Skanda may be set out here 607. 'Krspām stamī, Skandaṣasthi and Śivarātri, when these are mixed with the
-
-· preceding and following tithis, the one mixed with the preceding tithi should be accepted for the prescribed rite and the pāranā should be performed at the end of the tithi prescribed; fast on 14th and pāraṇā on the 14th itself — such an occurrence may be had only if one has lakhs of good deeds to one's credit', The conclusions established by the Dharmasindhu p. 126 are;
-
-604, 317 (17.31-153) gives the 1008 names of Śiva and price (285. 74 ff) mentions most of the 1008 pames.
-
-605. The 12 names are rara, , Tula, figa, Sr, erat. YTT. पिनाकिन् , त्रिपुरान्तक, शम्भु, शूलिन् , महादेव, ... 606. auffo Fra TIET144: 1 HI FI HOF: FALSET 1
-
-Fire q. by. (on til p. 309);
-
-a r a ad ulicama: I araṣulaanilor यद्वा द्वादशवत्सरम् । चतुर्विशतिमे वर्षे कुर्यादुद्यापनं व्रती। अथवा द्वादशे वर्षे कुर्यादुद्यापन 9:19. by g. F. p. 358; la pared P ad 94 ET TECI aegri q. by aTi p. 586.
-
-607. 370 qrunfauft: 1 frastru fat a uchi Fhiar quoti टमी स्कन्दषष्ठी शिवरात्रिचतुर्दशी । एताः पूर्वयुताः कार्यास्तिथ्यन्ते पारणं भवेत्। "तिथिमध्याप पारणं स्कान्दे उक्तम् । उपोषणं चतुर्दश्यां चतुर्दश्यां तु पारणम् । कृतैः सुकृतलक्षश्च लभ्यते तत्त 977 TI A. F. P 224, the first is q, by . (on . 298), the 2nd is 4. by WAIFU p. 126.Pāraṇā on śivarātrivrata
-
-235
-
-* If caturdaśī tithi ends before three watches of the night end, then the pāraṇā should be at the erd of the (14th ) tithi: if caturdaśī ( tithi) extends beyond the three watches of the night, then at daybreak the pāraṇā takes place in the midst of the 14th; these are the views of Mādhava and others; the opinion of the Nirṇayasindhu is that even when the caturdaśi tithi ends before the three watches of the night the pāraṇā must be observed in the midst of the caturdaśī and not at the end of caturdaśī.
-
-In modern times very few, if at all, go through the prc cedure prescribed even in the Dharmasindhu. A fast is observed and Śiva is worshipped and people may listen to stories of Śiva's exploits. Common people in some parts drink a beverage called bhāng prepared by pouring water on crushed hemp leaves with the addition of almonds, rose leaves, opium seeds &c. It is supposed to be dear to Śhaṅkara. In many temples of Śiva, water is made to drip on the liṅga incessantly.
-
-Mr. Gupte (pp. 208–215 ) after detailing the story of a hunter and a doe, her mate buck and two young ones connects the Śivarātri observances with the constellation of Mrgaśirsa together with Sirius (the Hunter), but he is at a loss to explain why the 14th of Māgha-krsna should have been selected for a fast. Mr. Mukerji (pp. 33-37 ) contents himself by referring to the Śivarātrimāhātmya in Santiparva. The constellation of Mrgasirsa and the brightest star Sirius had attracted the minds of ancient Indians. The Ait. Br. (XIII, 9 )608 narrates how Prajapati seeking his own daughter for intercourse sinned, how he assumed the form of an antelope and how the gods brought together their terrible forms, which became Rudra whom they asked to pierce the antelope. When Rudra pierced the antelope, the latter fled up into the sky. People call it Mļga ( Mrgaśīrṣa ) and Rudra became the hunter ( Mrgavyādha), the daughter became Rohiṇi and the arrow (with its three parts ) became the three arrow-like stars.
-
-In the Lingapurāṇa as quoted in the Vratarāja ( pp. 573– 586 ) there is the story of a hunter (nisāda ) who when bent on killing a doe, her mate and children unknowingly performed all the characteristic actions of Śivarātrivrata and
-
-608. तमम्यायत्याविध्यत्म विद्ध ऊर्ध्व उदप्रपतत् तमेतं मग इत्याचक्षते य उएव पगम्याचा
-
-9 TEKT tileui ni agravel \#t gagaltvet IQ. TI. XIII. 9. si
-
-\#
-
-236
-
-
-
-
-
-who and the family of the buck ultimately became transformed
-
-into the Mļgaśırsa nakṣatra with the star of the hunter (Sirius) behind,609
+In the Lingapurāṇa as quoted in the Vratarāja ( pp. 573– 586 ) there is the story of a hunter (niṣāda ) who when bent on killing a doe, her mate and children unknowingly performed all the characteristic actions of Śivarātrivrata and who and the family of the buck ultimately became transformed into the Mṛgaśirṣa nakṣatra with the star of the hunter (Sirius) behind[^609].
 
 For detailed treatment of Śivarātrivrata in the medieval digests, H. V. II. 71-122, V. R. R. 72-77, T. T. 124-133, SmK. 481-512, P.C. 248-281, G. K. 158-167 may be consulted.
 
-___ There are other Śivaratrivratas as in E. V. II. 71-87 (which are different from the one described in Skanda I. 1.33), or in H.V. II. 87-92, or in H. V. II. 114-122, or in H. V. II. 122-130 (from
+There are other Śivaratrivratas as in H. V. II. 71-87 (which are different from the one described in Skanda I. 1.33), or in H.V. II. 87-92, or in H. V. II. 114-122, or in H. V. II. 122-130 (from Bhav. U.). These are all passed over for want of space.
 
-Bhav. U.). These are all passed over for want of space.
+[^608]: तमम्यायत्याविध्यत्स विद्ध ऊर्ध्व उदप्रपतत् तमेतं मृग इत्याचक्षते य उएव मृगव्याधः स उ एव स या रोहित्सा रोहिणी यो एवेषुस्त्रिकाण्डा सो एवेषुस्त्रिकाण्डा। ऐ. ब्रा. XII.9.
 
-__609. एतच्छुत्वा तु वचनं लुब्धकोथ मृगस्तथा। विमानानि समारुह्य नाक्षत्रं पदमागतः । हरिणीद्वयमन्वेनं पृष्ठतो मृगमेव च। तारात्रितयसंयुक्तं मृगशीर्ष तदुच्यते । बालकद्वितयं चाग्रे तृतीया पृष्ठतो मृगी। पृष्ठतस्तत्र संप्राप्तो मृगशीर्षस्य संनिधौ। मृगराडू दृश्यतेऽद्यापि ऋक्ष व्योमग मुत्तमम् । लिङ्गपुराण q. by व्रतराज p. 585. I could not trace this passage in the Venkateśvara press edition of the Linga-purāga.
+[^609]: एतच्छुत्वा तु वचनं लुब्धकोथ मृगस्तथा। विमानानि समारुह्य नाक्षत्रं पदमागतः । हरिणीद्वयमन्वेनं पृष्ठतो मृगमेव च। तारात्रितयसंयुक्तं मृगशीर्षं तदुच्यते । बालकद्वितयं चाग्रे तृतीया पृष्ठतो मृगी। पृष्ठतस्तत्र संप्राप्तो मृगशीर्षस्य संनिधौ। मृगराड् दृश्यतेऽद्यापि ऋक्षं व्योमगमुत्तमम् । लिङ्गपुराण q. by व्रतराज p. 585. I could not trace this passage in the Veṅkaṭeśvara press edition of the Liṅga-purāṇa.
