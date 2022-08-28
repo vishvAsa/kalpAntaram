@@ -99,7 +99,7 @@ _Akhaṇḍadvādaśī_–(1) Āṣ. śu. 11 (beginning); (fast on that day) and
 
 _Agastyadarśana-pūjane_ (seeing the star Agastya when the Sun is in the middle of Zodiacal sign Virgo and worship at night): N. M. pp. 76–77 verses 934-939.
 
-_Agastyārghyadāna_-(offering arghya to Agastya, Canopus, a star of the first magnitude). Mat. chap. 61 for Agastyotpatti; Gar. I. 119. 1-6; KV. 290-292. (Agastya rises and sets at different times in different countries); Agni. 206. 1-2 (arghya to be offered three days and 20 ghaṭikās before Sun enters Virgo); vide RM. (verses 1206-1228 in ABORI, Vol. 36 pp. 317-320), KKN 448-451, HV II. 893-904, KR 294–299, VKK 340-343; RM (verses 1219-20) quote R̥g. I. 179. 6 as mantra for arghya by _dvijas_ and for others the mantra 'kāśapuṣpapratikāśa vahnimārutasambhava | Mitrāvaruṇayoḥ putra Kumbhayone namostu te' cited in Mat. 61. 50, Gar. I. 119.5. SPr (folio 40 b) remarks that there are two modes, one based on Brah (where arghya is main thing), the other based on Mat (where worship is main); KSS 12 provides _arghyadāna_ for three days from Bh. śu 13; vide TT 146 and KT 443. For belief that the rise of Agastya made turbid waters clear, vide Raghu IV. 21.
+_Agastyārghyadāna_-(offering arghya to Agastya, Canopus, a star of the first magnitude). Mat. chap. 61 for Agastyotpatti; Gar. I. 119. 1-6; KV. 290-292. (Agastya rises and sets at different times in different countries); Agni. 206. 1-2 (arghya to be offered three days and 20 ghaṭikās before Sun enters Virgo); vide RM. (verses 1206-1228 in ABORI, Vol. 36 pp. 317-320), KKN 448-451, HV II. 893-904, KR 294–299, VKK 340-343; RM (verses 1219-20) quote R̥g. I. 179. 6 as mantra for arghya by _dvijas_ and for others the mantra 'kāśapuṣpapratikāśa vahnimārutasambhava । Mitrāvaruṇayoḥ putra Kumbhayone namostu te ॥' cited in Mat. 61. 50, Gar. I. 119.5. SPr (folio 40 b) remarks that there are two modes, one based on Brah (where arghya is main thing), the other based on Mat (where worship is main); KSS 12 provides _arghyadāna_ for three days from Bh. śu 13; vide TT 146 and KT 443. For belief that the rise of Agastya made turbid waters clear, vide Raghu IV. 21.
 
 _Agni_-fires kindled in several religious rites are addressed by different names, e.g. kitchen fire is Pāvaka, that in Garbhādhāna is Māruta; vide TT 99 quoting Gr̥hyasaṅgraha (I. 2-12).
 
@@ -250,7 +250,7 @@ _Aśokaṣaṣṭhi_-Vide VK No. 52.
 
 _Aśoka-saṅkrānti_-Vratārka folio 388b-389a; to be performed on ayanasaṅkrānti or Viṣuvasaṅkrānti when there is Vyatipāta; ekabhakta; Sun to be worshipped; gifts of sesame.
 
-_Aśokāṣṭamī_(1) Cai. śu. 8 and if there be Wednesday and Punarvasu-nakṣatra then special merit; worship of Durgā with Aśoka flowers; one should drink water mixed with eight Aśoka buds, worship of Aśoka tree with the mantra 'tvām-aśoka harābhiṣtam madhumāsa-samudbhavam | pibāmi śokasantapto mām-aśokam sada kuru'. KV 422 ( quotes mantra from Liṅga ), HK 626 (from Viṣṇu), HV I 862-63 (from Liṅga ) and 875–76 (from Ādityapurāṇa but no mantra ); KR 126-127; R. M (1379-80 ) has the mantra 'tvām-aśoka harābhiṣṭa' and the verse 'Aśoka-kalikāś-cāṣtau 'and BB 1734-35, both of which verses are Gar. I 133. 1-2; PC 109; SMK 94. Vide JRAS for 1900 pp. 545. 791 and for 1901 p. 127 for some remarks. (2) KV 422, KR. 126, KT 463 and other digests state that all tirthas and rivers come to the Brahmaputrā on Cai. śu. 8 and a bath in it on that day yields the same rewards as Vājapeya, when it falls on Wednesday and on Punarvasu.
+_Aśokāṣṭamī_(1) Cai. śu. 8 and if there be Wednesday and Punarvasu-nakṣatra then special merit; worship of Durgā with Aśoka flowers; one should drink water mixed with eight Aśoka buds, worship of Aśoka tree with the mantra 'tvām-aśoka harābhiṣtam madhumāsa-samudbhavam । pibāmi śokasantapto mām-aśokam sada kuru॥'. KV 422 ( quotes mantra from Liṅga ), HK 626 (from Viṣṇu), HV I 862-63 (from Liṅga ) and 875–76 (from Ādityapurāṇa but no mantra ); KR 126-127; R. M (1379-80 ) has the mantra 'tvām-aśoka harābhiṣṭa' and the verse 'Aśoka-kalikāś-cāṣtau 'and BB 1734-35, both of which verses are Gar. I 133. 1-2; PC 109; SMK 94. Vide JRAS for 1900 pp. 545. 791 and for 1901 p. 127 for some remarks. (2) KV 422, KR. 126, KT 463 and other digests state that all tirthas and rivers come to the Brahmaputrā on Cai. śu. 8 and a bath in it on that day yields the same rewards as Vājapeya, when it falls on Wednesday and on Punarvasu.
 
 _Aśokikāṣṭami_-Worship of Umā. NM p. 74 (verses 905-907) states that Aśoka plant is Devi herself.
 
@@ -418,7 +418,7 @@ _Umādipūjā_-Cai. śu. 2; tithi; worship of Umā, Śiva and Agni; SmK 8, PC 83
 
 _Ulkānavami_-9th tithi of Āśv. śu.; tithi; one year; worship of Mahiṣāsuramardini with mantra “Mahisaghni Mahāmāye' HV I. 895 ( from Bhav U.). Another variety is; HV I. 897-9 and VP folio 187a (from Saurapurāṇa ); mantra is the same as in first variety. The vrata is so called because the man appears to his enemies like ulkā (firebrand) and the woman performer to her co-wives just like ulkā.
 
-_Uṣaḥkāla_-The period of five ghaṭis before sunrise, or 55 ghaṭis after the preceding sunrise is so called 'Pañca-pañca uṣaḥkālaḥ saptapañcāruṇodayaḥ | aṣṭapañca bhavet prātaḥ śeṣaḥ sūryodayo mataḥ |' KSS 52 ( from Devibhāgavata ).
+_Uṣaḥkāla_-The period of five ghaṭis before sunrise, or 55 ghaṭis after the preceding sunrise is so called 'Pañca-pañca uṣaḥkālaḥ saptapañcāruṇodayaḥ । aṣṭapañca bhavet prātaḥ śeṣaḥ sūryodayo mataḥ ॥' KSS 52 ( from Devibhāgavata ).
 
 _R̥tuvratas_-HV II. 858-861; mentions five seasonal vratas which are entered at the proper places in this list; vide also VKK 237–240, SmK pp. 548-552.
 
@@ -452,7 +452,7 @@ _Karavīrapratipad-vrata_-on 1st of Jy. śu.; tithi; worship of Karavīra plant 
 
 _Karivrata_--miscellaneous vrata ( prakirṇaka ); Brahmā devatā; KKV 449 ( quoting Mat. 101.72), HV II. 911 (from Pad., same verses); a fast and gift of golden chariot with two elephants.
 
-_Kalaśa_ -a jar or jars are used as auspicious in marriage, establishment of an idol, marching on an expedition, coronation &c.; up to 108 may be employed; their circumference should be from 15 to 50 finger-breadths, height 16 _aṅgulas_, base 12 aṅgulas and mouth 8 aṅgulas. HV (I. 608 ) derives the word ('Kalām kalām gr̥hitvā ca devānām Viśvakarmaṇā |nirmitoyaṁ surair yasmāt-kalaśastena ucyate); vide HV I. 65-66 for kalaśotpatti and its measurements. A pūrṇakalaśa is mentioned in R̥g. III. 32. 15.
+_Kalaśa_ -a jar or jars are used as auspicious in marriage, establishment of an idol, marching on an expedition, coronation &c.; up to 108 may be employed; their circumference should be from 15 to 50 finger-breadths, height 16 _aṅgulas_, base 12 aṅgulas and mouth 8 aṅgulas. HV (I. 608 ) derives the word ('Kalām kalām gr̥hitvā ca devānām Viśvakarmaṇā । nirmitoyaṁ surair yasmāt-kalaśastena ucyate॥); vide HV I. 65-66 for kalaśotpatti and its measurements. A pūrṇakalaśa is mentioned in R̥g. III. 32. 15.
 
 _Kalkidvādaśī_—12th of Bh. śu.; tithi; Kalkin devatā; Var. 48.1-24, some of which are q. by KKV 332-333 and HV I.1038–39. Vide' avatāras' above.
 
@@ -464,229 +464,105 @@ _Kalpānta_--See Vi. Dh. I. 77 for description.
 
 _Kalyāṇasaptami_-begin on śū. 7th tithi on a Sunday. That tithi is called Kalyānini or Vijayā; one year; Sun worship; in 13th month gift of 13 cows. Mat. 74. 5–20 (q. by KKV 208–211 ) and Bhav U. 48. 1-16; HV I. 638-640 (quotes almost same verses from Pad. Śr̥ṣṭi-khaṇḍa 21. 216–235 ).
 
-List of vratas
+_Kāñcanagauri_--Bh. śu. 3 ; tithi; Gaurīpūjā; NA 39, GK 72.
 
-281
+_Kāñcanapurīvrata_-A miscellaneous vrata (prakīrnaka); on Śu. 3, Kṛ. 11, Pūrṇimā, Amāvāsyā, 8th tithi or Saṅkranti; gift of golden puri ( town ) with walls of gold, silver or lead, pillars of gold, silver &c.; in most of the manufactured town, images of Viṣṇu and Lakṣmi; HV II. 868-876 (from Gar.), Bhav U. 147; practised by Gauri and Śiva, Rāma and Sītā, Damayanti and Nala, Kr̥ṣṇa and Pāṇdavas. Confers everything and frees from all sins.
 
-Kāñcanagauri--Bh. śu. 3 ; tithi; Gaurīpūjā; NA 39, GK 72. Kāñcanapurīvrata-A miscellaneous vrata (prakīrnaka); on
+_Katyāyanivrata_-Bhāgavata X. 22. 1-7. The story is that maidens in Nandavraja worshipped in Mārgaśīrsa the image of Kātyāyani for a month for securing Kṛṣṇa as husband.
 
-Su. 3, Kr. 11, Pūrṇimā, Amāvāsyā, 8th tithi or Saṅkranti; gift of golden puri ( town ) with walls of gold, silver or lead, pillars of gold, silver &c.; in most of the manufactured town, images of Viṣṇu and Lakṣmi; HV II. 868-876 (from Gar.), Bhav U. 147; practised by Gauri and Śiva, Rāma and Sītā, Damayanti and Nala, Kr̥ṣṇa and Pāṇdavas. Confers
+_Kāntāradipadānavidhi_-lighting eight lamps on a post of sacrificial tree for one month from Āśv. Pūrṇimā to K. Pūrṇimā, or on three nights ( Aśv. pūrṇimā, Āśv. amāvāsyā and K, pūrṇimā ) or only on K. Pūrṇimā, acc. to one's ability; deities Dharma, Rudra, Dāmodara; KKN 452-456 (from Mat. ), KR 382-386 ( quoting some verses from Brah.); KR 382-386; "_kāntāro durgamam vartma_' KR 386. This rite was principally meant for the benefit of _pretas_ ( disembodied spirits) and pitṛs ( manes ).
 
-everything and frees from all sins. Katyāyanivrata-Bhāgavata X. 22. 1-7. The story is that
+_Kāntivrata_-(1) K. śu. 2; tithi; for a year; worship of Balarāma and Keśava and of the crescent of the moon; homa with sesame for 4 months from K. and with ghee for four months from Āṣāḍha; at end of year gift of a silver image of Moon to a brāhmaṇa; KKV 47-48 (from Var. 57. 1-18); HV I. 378-379 (from Var.); (2) in Vai; Saṁvatsaravrata; giving up in whole of Vai. salt and flowers, KKV 445.
 
-maidens in Nandavraja worshipped in Mārgaśīrsa the image
+_Kāmatrayodaśi_-on 13th; tithi; worship of Kāma (god of love ); HV II. 25 ( from Bhav.), VKK 70.
 
-of Kātyāyani for a month for securing Kșspa as husband. Kantūradipadūnavidhi-lighting eight lamps on a post of
+_Kāmatrivrata_--worship of several goddesses such as Umā, Medhā, Bhadrakālī, Kātyāyanı, Anasūyā, Varuṇa-patni; result is accomplishment of desired objects; HV I 575–576 (from Vi. Dh.).
 
-sacrificial tree for one month from Āśv. Pūrpimā to K. Pūrṇimā, or on three nights ( Aśv. pūrṇimā, Āśv. amāvāsyā and K, pūrṇimā ) or only on K. Pūrṇimā, acc. to one's ability; deities Dharma, Rudra, Damodara; KKN 452-456 (from Mat. ), KR 382-386 ( quoting some verses from Brah.); KR 382-386; "kāntūro durgamam vart ma' KR 386. This rite was principally meant for the benefit of pretas ( disembodied
+_Kāmadavidhi_--worship of Sun on the Sunday that occurs on Mārg. śu 6 with Karavīra flowers smeared with red sandalwood paste; KKV 14.
 
-spirits) and pitss ( manes ). Kāntivrata-(1) K. śu. 2; tithi; for a year; worship of Balarāma
+_Kāmadāsaptami_-7th of Phā. śu.; tithi; for a year; worship of Sūrya (sun); in each group of four months from Phā. worship with different flowers, different _dhūpa_ and different naivedya; KKV 169-172, HV I. 728-731 (both quote from Bhav. I. 105. 1–29).
 
-and Keśava and of the crescent of the moon; homa with sesame for 4 months from K. and with ghee for four months from Āṣāḍha; at end of year gift of a silver image of Moon to a brāhmana; KKV 47-48 (from Var. 57. 1-18); HV I. 378-379 (from Var.); (2) in Vai; Saṁvatsaravrata;
+_Kamadevapūjā_-on Cai. śu. 12; tithi; worship of Love-god drawn on a piece of cloth with various flowers and keeping in front of the picture a jar of cool water covered with flowers; wives are to be honoured by the husbands on this day; KKN 384.
 
-giving up in whole of Vai. salt and flowers, KKV 445. Kāmatrayodas-on 13th; tithi; worship of Kāma (god of love );
+_Kāmadevavrata_—begin on Vai. śu. 13; tithi; for one year; worship of Kāmadeva; Vi. Dh. III. 183 q. by HV II, 18, VP (folio 86a).
 
-HV II. 25 ( from Bhav.), VKK 70. Kāmatrivrataworship of several goddesses such as Umā, Medhā,
+_Kāmadhenuvrata_- for five days from K. Kṛ. 11; tithi; Śri and Viṣṇu devatā; lighting lamps at night in the house, cowpen, _caityas_, temples of gods, roads, cemeteries, tanks; dice play at night with wife and relatives; fast on Ekādaśī and bathing Viṣṇu image with cow's milk or ghee, for four days; giving of a _dāna_ called Kamadhenu; HV II. 344-348 (from Vahnipurāṇa). This serves also as a prāyaścitta for all sins. Vide H. of Dh. vol. II. pp 874-875 for description of Kamadhenu _dāna_.
 
-Bhadrakālī, Kātyāyanı, Anasāyā, Varuṇa-patni; result is accomplishment of desired objects; HV I 575–576 (from
+_Kāmadevatrayodaśi_-(or Madana-trayodaśi) Cai. śu. 13; tithi; worship of Damana plant as identical with Madana; GK 152-153 ( quoting Bhav.) and KT 465; vide Anaṅgatrayodaśi.
 
-Vi. Dh.). Kāmadavidhi--worship of Sun on the Sunday that occurs on
+_Kāmadevadvādaśi_-begin on Mārg. śu. 12; on each 12th thereafter for one year; worship of Kāmadeva; SmK 114 ( quoting Vi. Dh. I. 158).
 
-Mārg. śu 6 with Karavīra flowers smeared with red sandal
+_Kāmamahotsava_-on 14th of Cai. śu.; tithi; establishment of Madana and Rati on the night of 13th in a park and worship on 14th; the festival is to be celebrated with obscene words, with songs and music; next morning play with mud for a _prahara_ (three hours ); VKK 529-532 which quotes two Verses ( on p. 530 ) from RM. This is also called 'Caitrāvali' and 'Madanabhañji' in Śaivagama. Vide KV 190 'Caitravihita- Aśokāṣṭami- Madanatrayodaśi - Caitrāvali Madanabhañjikā-Caturdaśi-prabhṛtın' and RM. (folio 81a verses 1381-1384 ABORI 36 p. 333–34 ), KR 137–138.
 
-wood paste; KKV 14. Kāmadāsaptami-7th of Phā. śu.; tithi; for a year; worship of
+_Kāmavrata_-(1) for women alone, KKV 421-424, HV II.821-824 ( both quote from Bhav.); begin in K.; Māsavrata; one year; worship of Sun; Hemādri calls it stri-putra kāmāvāptivrata; (2) begin on 13th of P. śu.; observe nakta on each 13th and in Cai. donate a golden Aśoka tree and sugarcane stalks ten finger-breadths in length with the words 'May Pradyumna be pleased'; KKV 440, HV II. 25( quoting Pad.); (3) on 7th tithi of any month; tithi; worship of Suvarcalā, the Sun's wife; secures all desired objects; HV I. 790 ( quoting Vi. Dh. one verse only); (4) begin on 5th of P. śu.; tithi; worship of Viṣṇu in the form of Kārtikeya ; nakta on 5th, on 6th only one fruit to be eaten; on 7th pāraṇā; one year; gift of golden image of Kārtikeya and two garments to a brāhmaṇa; in this very life all the desires of the performer are fulfilled. Var. 61.1-12 g. by KKV 98-99 and HV I. 615–616. HV calls it. 'Kāmaṣaṣṭhi'.
 
-Sūrya (sun); in each group of four months from Phā. worship with different flowers, different dhūpa and different
+_Kāmaṣaṣthı_-Vide the immediately preceding vrata ( 4 ).
 
-H. D. 36
+_Kāmāvāptivrata_-on Kṛ. 14; tithi; worship of Mahākāla (Śiva ); secures desired objects. HV II. 155 (one verse from Vi. Db.)
 
-I
+_Kāmikāvrata_--Mārg. Kr. 2; tithi; golden or silver image with cakra (discus) to be worshipped and donated. AK (folio 251a ).
 
-282
+_Kārtika_-For vratas in K., vide HV II 769–784, KR 397-442, VKK 453-481, NS 192-208, KSS 20-26, Smk 358-427, GK 24–32. It is said to be a very holy month, holier than all tirthas and all solemn sacrifices. For its _māhātmya_, vide Skanda, Vaiṣṇavakhaṇḍa, chap. 9, Nār. (uttarārdha) chap. 22, Pad. VI. 92.
 
+_Kārtikasnānavrata_-For the whole month of K. a person, taking bath early morning outside the house in a river, being engaged in _japa_ of Gāyatri and partaking only once in the day of sacrificial ( haviṣya ) food, becomes free from all sins committed in the year; V. Dh. 89. 1-4 q. by KKV 418, HV II. 762. Vide also RM folio 80a, 1358-1362 ( vide ABORI 36 pp. 330-31 ). Pad. VI. 91 and 119. 12-13, KV 324, NS 192–194, Smk 358, GK 27–29.
 
+Among the many things to be given up in K.is flesh. S. Pr. (folio 46 ) and KR (397-399 ) quote MB to the effect that giving up flesh-eating in Kārtika (particularly in the bright half) is equal to the performance of severe austerities (_tapas_) for a hundred years and that great ancient kings like Yayāti, Rāma and Nala did not eat flesh in K. and therefore went to heaven. Nār. (uttarārdha ) 22. 58 avers that a man becomes & cāṇḍāla by eating flesh in K. Vide under Bakapañcaka.
 
-[ Sec. I, Ch. XIII
+Lighting lamps and making illuminations in K. in the temples of Śiva; Caṇḍi, the Sun and other gods is highly eulogised. Vide Pad. III. 3. 13 ff, HV. II. 763-768, KR 403-404. KV 326, SmK. 358–59; worship of Keśava with flowers called muni (i.e. Agastya) for the whole month of K. excluding other flowers secures toward of Aśvamedha; TT, 147.
 
-naivedya; KKV 169-172, HV I. 728-731 (both quote from
+Kārtika śu. 1. Vide above under Divāli for the rites on this tithi; on śu. 2 worship of Yama ( NS 203, PC 83, SmK (377) and Bhrātrdvitīyā (vide pp. 207–208 above ); on śu. 3 worship of Satidevi ( AK folio 295–296 ); śu. 4 Nāgacaturthi ( GK 81 ); śu. 6 is called Mahāṣaṣṭhi on which there is Vahnimahotsava (SmK 378, PC 102 ); special importance if it falls on Tuesday; śu. 8 worship of Bhagavati ( KKN 424-425, KR 413 ); śu. 9 is yugādi tithi (śrāddha without piṇḍas may be performed) and Bhagavatipūjā ( KKN 424-25, KR 413 ); śu. 10 partake of curds and eat only in the evening (KV 425, KR 420 ); śu. 11 is Bodhani or Prabodhini or utthāna-Ekādaśī when Viṣṇu rises from sleep (KKN 392, NS 205 ); this is specially sacred to śri–Vaiṣṇavas; on this tithi there is the marriage of Tulasi to Viṣṇu (SmK 366, 378, VR 384-86), vide also Bhiṣma-pañcaka vrata; there is Tulasīvivāha in Tamil and some other lands on 12th tithi; some observe Bodhana also on the 12th (KR 426 ); vide under Yogeśvara-dvādaśl; there is worship of Varāha avatāra (Var. 123. 8-11 q. by KKN 426 ) on this tithi; śu. 13, vide Liṅgārcanavrata; śu. 14. on this there is Vaikuṇṭha-caturdaśi, which see; on K. 14 the Brah, says that the mistress of the house in former ages took a tasty morsel of food, offered it to a hawk, and asked it to take it to Durgā and that she in the present age is to eat first on this day and then the husband has to offer honour to his wife ( KKN 425 quoting Brah. and KR 413-14); Kārtika Pūrṇimā, was called Mahā-Kārtiki, if the Moon and Jupiter on that tithi are both in the Kṛttikā (Pleiades ) nakṣatra or there is Rohiṇi nakṣatra on it; KKN 372, VKK 481, SmK 406; HV II. 181 (quotes Bhav U) to the effect that if in addition to the above the pūrṇimā falls on a Monday it is a very holy day, which occurs rarely (idṛsi bahubhir varṣair bahupuṇyena labhyate ); In the Sunao plates of Saṅgama-simha (in 292 of the Kalacūri era i. e. 541 A. D.) there is mention of a grant to several brāhmaṇas of Bharukaccha ( modern Broach ) made on this day (E. I. X. p. 72 ), also C. I I. Vol. IV Nos. 9, 11, 16, 17, 30 (five grants made on Kārtiki Pūrṇimā); vide HK 641, KR 430-431, NS 207 (for Mahākārtiki); on K. Full Moon also some celebrate Tulasi-vivāha (vide SmK 366); on K. Pūrṇimā the _Rathayātrā_ of Brahmā was celebrated (Pad. V. 17. 217-253 ); on the Full moon Bhav. prescribes the letting loose of a bull (SmK 390-406 ); on this pūrṇimā was celebrated Tripurotsava in the evening when illuminations were made with lamps in temples (NS 207, SmK 427); K. Kṛ. 4 vide Karaka-caturthī; K. Kṛ. 8 see Karakāṣṭami; K. Kṛ. 12 worship of cows (HV I. 1180-1190, NS 196, SmK 367-368 ); on kṛ. 13 offering a lighted lamp to Yama outside the house; Kṛ. 14 and amāvāsyā ( by the pūrṇimānta reckoning ) vide under Narakacaturdaśi and Lakṣmi-pūjana above pp. 198–200 and KKV 423-424. On K, amāvāsyā one who had not performed or could not perform pārvaṇa-śrāddha in pitṛ-pakṣa (Bh. dark fortnight ) could perform it on K. amāvāsyā.
 
-Bhav. I. 105. 1–29). Kamadevapūjāmon Cai. śu. 12; tithi; worship of Love-god drawn
+_Kārtikavrata_-HV II. 762–763 (from Vahni-purāṇa); offer food full of ghee and honey to gods, pitṛs and men; worship of Hari and lighting lamps there remove sins and the performer goes to heaven.
 
-on a piece of cloth with various flowers and keeping in front of the picture a jar of cool water covered with flowers; wives
+_Kārtikī- pūrṇimāvrata_-K. śu. 15; tithi; the full Moon tithis in Vai., K., M. were highly honoured, and one should not allow them to pass without bath and donations; bath at holy places on those days is commended and gifts also according to monetary ability. The pre-eminent tirtha on K. Full Moon is Puṣkara, in Vai. Ujjayini and in M. Vārāṇasī. Gifts were to be made on these days not only to brāhmaṇas, but also to one's sister, sister's son, father's sister's son, maternal uncle and to poor relatives. In the Rāmāyaṇa Bharata took a _śapatha_ ( oath ) before Kausalyā "if my elder brother went to the forest with my consent, may the Full Moon tithis of Vai., K., M., honoured even by gods, pass in my case without gifts"; HV II. 137-171 ( quoting Bhav U) contains (on p. 170) this oath of Bharata. This verse about Full Moon of Vai. &c. does not occur in several editions of the Rāmāyaṇa though several other verses ending in 'Yasyāryonumate gataḥ' occur in Ayodhyākāṇḍa 75.
 
-are to be honoured by the husbands on this day; KKN 384. Kūmadevavrata—begin on Vai. śu. 13; tithi; for one year;
+_Kārtikeya-vrata_-6th tithi; Kārtikeya is devatā; HV I. 605-606 (from Bhav.), Vratakāla-viveka p. 24.
 
-worship of Kāmadeva; Vi. Dh. III. 183 q. by HV II, 18, VP
+_Kārtikeya-ṣaṣṭhi_-on Mārg. śu. 6; tithi; worship of golden, silver, clay or wooden image of Kārtikeya; HV I. 596-600 (from Bhav U. 42.1-29 ).
 
-(folio 86a). Kāmadhenuvrata for five days from K. Kr. 11; tithi; Sri and
+_Kalabhairavāṣṭami_-Mārg. kr. 8; tithi; Kālabhairava is deity; VK 316-317, VKD 106.
 
-Viṣṇu devatā; lighting lamps at night in the house, cowpen, caityas, temples of gods, roads, cemeteries, tanks; dice play at night with wife and relatives; fast on Ekādaśī and bathing Viṣṇu image with cow's milk or ghee, for four days; giving of a dāna called Kamadhenu; HV II. 344-348 (from Vahni. purāṇa). This serves also as a prāyaścitta for all sins. Vide H. of Dh. vol. II. pp 874-875 for description of
+_Kālarātrivrata_-on Ăśv, śū. 8; _pakṣa_ vrata; for all varṇas but not for those beyond the pale of caste system; fast for 7 or 3 days or one day according to physical ability; first pūjā of Gaṇeśa, Mātṛs, Skanda and Śiva and then homa which was to be in a kuṇḍa by a brāhmaṇa who had taken initiation as a Śaiva or by persons belonging to _avyaṅga_ (Maga brāhmaṇas or Parsi ?) families; eight maidens to be fed and eight brāhmaṇas to be invited; HV II. 326-332 (from Kālikāpurāṇa ).
 
-Kamadhenu dāna. Kāmadevatrayodasi-or Madana-trayodasi ) Cai. śv. 13; tithi;
+_Kālāṣṭamīvrata_--on Bh. kṛ. 8 with Mṛgaśiras nakṣatra; tithivrata; one year; Vā. 16. 30-66 q. by KKV 258-263 and by HV I. 849-853, KN 196; Śiva is supposed to stay in liṅgas on this day unaccompanied by bull or Gaṇeśa. The performer bathes with different things, offers different flowers and employs different names of Śhaṅkara in each month.
 
-worship of Damana plant as identical with Madana; GK 152-153 ( quoting Bhav.) and KT 465; vide Ananga
+_Kālivrata_—The same as Kālarātrivrata above. So called in KKV 263-269. The editor of KKV (G. O. S.) did not notice that this was identical with the vrata in HV II, 326-332.
 
-trayodası. Kāmadevadvādaśa-begin on Mārg. śu. 12; on each 12th there
+_Kimicchakavrata_--Mārkaṇḍeya-purāṇa 122.8, 17, 20 (Venk.ed.). It consists in asking an _atithi_ what he wants and in offering what he wants. There is the story of Avikṣit, son of Karandhama, whose mother had undertaken this vrata and who had made a promise to his mother to carry out her vrata. He proclaimed 'śṛṇvantu merthinaḥ sarve pratijñātam mayā tadā । kimicchatha dadāmyeșa kriyamāṇe kimicchake' ॥(Mārk. 122.20 ).
 
-after for one year; worship of Kāmadeva; SmK 114 ( quoting
+_Kirtivrata_-Saṁvatsaravrata; the performer salutes Aśvattha tree, the Sun and the Ganges, stays in one place restraining his senses, eats only once in the noon; he does so for one year; at end of vrata honours a brāhmaṇa and his wife with gifts of three cows and a golden tree. It yields fame and land to performer. KKV 442, HV II. 863-864 (from Pad). The verses are also Mat. 101.23-24. It is the 13th Ṣaṣṭivrata.
 
-Vi. Dh. I. 158). Kāmamahotsava-on 14th of Cai. śu.; tithi; establishment of
+_Kirtisaṅkrāntivrata_-on the day of a saṅkrānti, the disk of the Sun to be drawn on ground, an image of the Sun to be placed in the midst of the figure and worshipped; for one year; HV II. 738-739 (from Skanda). Reward is great fame, long life, kingdom and health.
 
-Madana and Rati on the night of 13th in a park and worship on 14th; the festival is to be celebrated with obscene words, with songs and music; next morning play with mud for a prahara (three hours ); VKK 529-532 which quotes two Verses ( on p. 530 ) from RM. This is also called 'Caitrāvali' and 'Madanabhanji' in Śaivagama. Vide KV 190 'Caitravihita- Aśokaṣṭami- Madanatrayodasi - Caitrāvali Madanabhañjikā-Caturdasi-prabhrtın' and RM. (folio 81a
+_Kukkuti-markaṭivrata_-on Bh. śu. 7; tithi; for one year on each saptami, whether of bright or dark half; on 8th dinner to brāhmaṇas consisting of sesame cake and rice and jaggery; worship of Śiva with Ambikā drawn in a circle; described at length in Bhav U. 36. 1-43; TT 37 (calls it Kukkutīvrata ); the performer has to wear for life a _doraka_ (band of threads with filigree of gold or silver ) on his arm; the story of a queen and the wife of her husband's purohita who became a markaṭi ( the monkey ) and kukkuṭi (hen) because they forgot to wear the doraka is narrated by Kr̥ṣṇa to Yudhiṣṭhira; VKK 319 ( quoting Bhav.), GK 85.
 
-verses 1381-1384 ABORI 36 p. 333–34 ), KR 137–138. Kāmavrata-(1) for women alone, KKV 421-424, HV II.
+_Kundachaturthi_--on M. śu. 4; tithi; Devīpūjā; gift of flowers of kunda plant, vegetables, salt, sugar made from jaggery, jiraks &c. to maidens; fast on 4th; KKV 283-284, HV I. 525-526 ( from Devipurāṇa), S. Pr 27b, VP (folio 284b). It is also called Gauricaturthi; chief matter is fast on 4th and the gifts only confer _saubhāgya_.
 
-821-824 ( both quote from Bhav.); begin in K.; Māsavrata; one year; worship of Sun; Hemādri calls it stri-putra kamāvāptivrata; (2) begin on 13th of P. śu.; observe nakta on each 13th and in Cai. donate a golden Aśoka tree and sugarcane stalks ten finger-breadths in length with the words
+_Kuberavrata_—on 3rd tithi; worship of Kubera; HV I. 478-479 (from Bhav.), KN 176.
 
-List of vratas
+_Kumāraṣaṣṭhi_-begin on Cai. śu. 6; tithi; for one year; worship of clay image of Skanda with twelve arms; HV I. 588-590 (from Kālottara ); VP ( folio 6la ).
 
-283
+_Kumārīpūjā_-in Navarātra. Vide pp. 170-171 above and SM 22.
 
-A
+_Kumbhaparva_-It occurs once in twelve years. The Sun and Moon should be in Makara rāśi, Jupiter in Taurus (Vṛṣabha), there is amāvāsyā; this is called Kumbhayoga. Bath at Prayāga on this yoga is deemed to be more meritorious than a thousand Aśvamedhas, a hundred Vājapeyas and a lakh of pradakṣiṇās round the earth. Bath at Prayāga and the large concourse of _sādhus_ are the two predominant objects of those who gather there in thousands and sometimes millions. It is in three parts, first is Makarasaṅkrānti, the 2nd ( the chief one and called Pūrṇakumbha ) is _amāvāsyā_ and 3rd is Vasantapañcami. In 1954 A. D. the three dates were 14th January, 3rd February and 7th February. Some hold that the three days are Makarasaṅkrānti, Pauṣa Pūrṇimā and Amāvāsyā. There are other Kumbha-yogas viz. at Haridvāra when Jupiter is in Kumbharāśi and Sun enters Meṣa, at Nasik when Jupiter is in Simha and Sun and Moon in Karkaṭa, at Ujjain when Sun is in Tula and Jupiter in Vṛścika.
 
-* May Pradyumna be pleased'; KKV 440, HV II. 25( quoting Pad.); (3) on 7th tithi of any month; tithi; worship of Suvarcalā, the Sun's wife; secures all desired objects; HV I. 790 ( quoting Vi. Dh. one verso only); (4) begin on 5th of P. śu.; tithi; worship of Viṣṇu in the form of Kārtikeya ; nakta on 5th, on 6th only one fruit to be eaten; on 7th pāraṇā; one year; gift of golden image of Kārtikeya and two garments to a brāhmaṇa; in this very life all the desires of the performer are fulfilled. Var. 61.1-12 g. by KKV 98-99
+_Kumbhikāvrata_--on K. śu. 11; tithi; Viṣṇu deity; HV I. 1105-8, VP (folio 211 ); both quote Skanda.
 
-and HV I. 615–616. HV calls it. Kāmaṣaṣṭhi'. Kūmaṣaṣthı-Vide the immediately preceding vrata ( 4 ). Kāmāvāptivrata-on Kr. 14; tithi; worship of Mabākāla (Śiva );
+_Kūrmadvādaśi_-on P. śu. 12; tithi; Nārāyaṇa; KKV 317-319, HV I. 1026–27 ( quoting 9 verses from Var., chap. 40 ), KR 482-484. On a copper vessel full of ghee the image of tortoise with _mandara_ mountain is to be placed and donated.
 
-secures desired objects. HV II. 155 (one verse from Vi. Db.) Kāmikūvrata--Mārg. Kr. 2; tithi; golden or silver image with
+_Kūṣmāṇḍa-daśamī_-on Āśv. śu. 10 up to the 4th tithi following; tithi; worship of Śiva, Daśaratha, Lakṣmi with Kūṣmāṇḍa flowers; _arghya_ to Moon; GK pp. 125-126 (from Sāmbapurāṇa).
 
-cakra ( discus) to be worshipped and donated. AK (folio
+_Kr̥cchravrata_-On Mārg. Śu. 4; tithi; four years; Gaṇeśa deity; HV I 501-504 (from Skanda ); in the first year he subsists by ekabhakta on 4th, in the 2nd by nakta, on 3rd by ayācita way and in 4th he fasts on 4th tithi.
 
-251a ). Kārtika-For vratas in K., vide HV II 769–784, KR 397-442,
+_Kr̥cchravratāni_-several kṛcchras, such as Somāyana, Taptakṛcchra, kṛcchrātikṛcchra, Sāntapana (that are really prāyaścittas) are described as vratas by HV II. 931 ff. ; vide also HV II 769-71 for these. Śūdra had no _adhikāra_ for these. Some of the other kṛcchras are described here; Paitāmaha kṛcchra from K. kṛ. 7 (on four days partake only of water, milk, curds and ghee respectively), on 11th fast and worship Hari; Vaiṣṇava-kṛcchra consists in partaking of _munyanna_ (such as nivāras ) for three days, yāvaka for three days and fast for three days.
 
-VKK 453-481, NS 192-208, KSS 20-26, Smk 358-427, GK 24–32. It is said to be a very holy month, holier than all tirthas and all solemn sacrifices. For its māhātmya, vide Skanda, Vaiṣṣavakhaṇḍa, chap. 9, Nār. (uttarārdha) chap.
+_Kṛttikāvrata_-begin on Maha-kārtiki as defined above or on any K. Full Moon; bath in some holy place like Kurukṣetra, Prayāga, Puṣkara, Naimiṣa, Mūlasthāna, Gokarṇa or in any city or village; six kṛttikā images made of gold, silver, jewels, butter, flour and decked with sandalwood paste and alaktaka dye, saffron &c. and worshipped with _Jātī_ flowers and to be donated to brāhmaṇas. HV II. 191-193 (from Bhav U.).
 
-22, Pad. VI. 92. Kārtikasnūnavrala-For the whole month of K. a person, taking
+_Kṛttikāsnāna_-fast on Bharaṇi-nakṣatra; on Kṛttikā _snapana_ of performer and his wife by purohita with water from jars of gold or clay filled with all plants and holy water; worship of Agni, Skanda, Moon, sword, Varuṇa; HV II 597-598 (from Vi. Dh. ).
 
-bath early morning outside the house in a river, being engaged in japa of Gāyatri and partaking only once in the day of sacrificial ( havisya ) food, becomes free from all sins committed in the year; V. Dh. 89. 1-4 q. by KKV 418, HV II. 762. Vide also RM folio 80a, 1358-1362 ( vide ABORI 36 pp. 330-31 ). Pad. VI. 91 and 119. 12-13, KV 324, NS 192–194, Smk 358, GK 27–29.
+_Kṛṣṇacaturdaśi_(1) on Phā, kṛ. 14; tithi; Śiva is devatā; 14 names of Śiva to be repeated; for 14 years; HV II. 65–71 (from Kālottara); (2) for women alone; fast on kṛ. 14; tithi; Śiva ; for one year: HV II. 154;( 3 ) on 14th of M. Kṛ; worship of Śiva with bilva leaves; HV. II. 156 ( from Saurapurāṇa... (4) on 14 of Kṛ. burning guggulu before Śiva image; HV 156 ( from Saura ).
 
-Among the many things to be given up in K.is flesh. S. Pr. (folio 46 ) and KR (397-399 ) quote MB to the effect that giving up flesh-eating in Kārtika (particularly in the bright half) is equal to the performance of severe austerities (tapas) for a hundred years and that great ancient kings like Yayāti, Rāma and Nala did not eat flesh in K. and therefore went to heaven. Nār. (uttarārdha ) 22. 58 avers that a man becomes & cāṇḍāla by eating flesh in K. Vide under Bakapancaka. ,
-
-Lighting lamps and making illuminations in K. in the temples of Śiva; Caṇdi, the Sun and other gods is highly
-
-284
-
-
-
-
-
-eulogised. Vide Pad. III. 3. 13 ff, HV. II. 763-768, KR 403-404. KV 326, SmK. 358–59; worship of Keśava with flowers called muni (i. e. Agastya) for the whole month of K. excluding other flowers secures toward of Aśvamedha; TT, 147.
-
-Kārtika śu. 1. Vide above under Divāli for the rites on this tithi; on su. 2 worship of Yama ( NS 203, PC 83, SmK (377) and Bhrātrdvitīyā (vide pp. 207–208 above ); on su. 3 worship of Satidevi ( AK folio 295–296 ); śu. 4 Nāgacaturthi ( GK 81 ); śu. 6 is called Mahāṣaṣṭhi on which there is Vahnimahotsava (SmK 378, PC 102 ); special importance if it falls on Tuesday; śu. 8 worship of Bhagavati ( KKN 424-425, KR 413 ); śu. 9 is yugādi tithi (śrāddha without pindas may be performed) and Bhagavati pūjā ( KKN 424-25, KR 413 ); su. 10 partake of curds and eat only in the evening (KV 425, KR 420 ); śu. 11 is Bodhani or Prabodhini or utthāna-Ekādaśī when Viṣṇu rises from sleep (KKN 392, NS 205 ); this is specially sacred to śri–Vaiṣṇavas; on this tithi there is the marriage of Tulasi to Viṣṇu (SmK 366, 378, VR 384-86), vide also Bhisma-pañcaka vrata; there is Tulasīvivāha in Tamil and some other lands on 12th tithi; some observe Bodhana also on the 12th (KR 426 ); vide under Yogeśvara-dvādaśl; there is worship of Varāha avatāra (Var. 123. 8-11 q. by KKN 426 ) on this tithi; śu. 13, vide Lipgārcanavrata; śu. 14. on this there is Vaikuṇtha-caturdaśi, which see; on K. 14 the Brah, says that the mistress of the house in former ages took a tasty morsel of food, offered it to a hawk, and asked it to take it to Durgā and that she in the present age is to eat first on this day and then the husband has to offer honour to his wife ( KKN 425 quoting Brah. and KR 413-14); Kārtika Pūrnim, was called Mahā-Kārtiki, if the Moon and Jupiter on that tithi are both in the Krttikā (Pleiades ) nakṣatra of there is Robiṇi nakṣatra on it; KKN 372, VKK 481, SmK 406; HV II. 181 (quotes Bhav U) to the effect that if in addition to the above the pūrṇimā falls on a Monday it is a very holy day, which occurs rarely (idrsi bahubhir yarṣair bahupunyena labhyate ); In the Sunao plates of Sangama-simha (in 292 of the Kalacūri era i. e. 541 A. D.) there is mention of a grant to several brāhmaṇas of Bharukaccha ( modern Broach ) made on this day (E. I. X. p. 72 ), also C. I I. Vol. IV Nos. 9, 11, 16, 17, 30 (five grants made on Kārtiki Pūrpimā); vide HK 641, KR 430-431, NS 207 (for Mahākārtikl); on K. Full Moon also some celebrate Tulasi-vivāha (vide SmK 366); on K. Pūrṇimā the Rathayātrā of Brahmā was celebrated (Pad. V. 17. 217-253 ); on the Full moon
-
-List of vratas
-
-285
-
-Bhay. prescribes the letting loose of a bull (SmK 390-406 ); on this pūrṇimā was celebrated Tripurotsava in the evening when illuminations were made with lamps in temples (NS 207, SmK 427); K. Kr. 4 vide Karaka-caturthī; K. Kr. 8 see Karakāṣṭami; K. Kr. 12 worship of cows (HV I. 1180-1190, NS 196, SmK 367-368 ); on kr. 13 offering a lighted lamp to Yama outside the house; Kr. 14 and amāvāsyā ( by the pūrṇimānta reckoning ) vide under Narakacaturdaśiand Lakṣmi-pājana above pp. 198–200 and KKV 423-424. On K, amāvāsyā one who had not performed or could not perform pārvana-śrāddha in pitr-pakṣa (Bh. dark fortnight ) could perform it on K. amāyāsyā. Kārtikavrata-HV II. 762–763 (from Vahni-purāṇa); offer
-
-food full of ghee and honey to gods, pitss and men; worship of Hari and lighting lamps there remove sins and the per
-
-former goes to heaven. Kārtikī- pūrni mūvrata-K. śu. 15; tithi; the full Moon
-
-tithis in Vai., K., M. were highly honoured, and one should not allow them to pass without bath and donations; bath at holy places on those days is commended and gifts also according to monetary ability. The pre-eminent tirtha on K. Full Moon is Puṣkara, in Vai. Ujjayini and in M. Vārāṇasī. Gifts were to be made on these days not only to brāhmaṇas, but also to one's sister, sister's son, father's sister's son, maternal uncle and to poor relatives. In the Rāmāyaṇa Bharata took a sapatha ( oath ) before Kausalyā "if my elder brother went to the forest with my consent, may the Full Moon tithis of Vai., K., M., honoured even by gods, pass in my case without gifts"; HV II. 137-171 ( quoting Bhav U) contains (on p. 170) this oath of Bharata. This verse about Full Moon of Vai. &c. does not occur in several editions of the Rāmāyaṇa though several other verses end
-
-ing in Yasyāryomumate gataḥ' occur in Ayodhyākāṇḍa 75. Kūrtikeya-vrata-6th tithi; Kārtikeya is devatā; HV I. 605-606
-
-(from Bhav.), Vratakāla-viveka p. 24. Kārtikeya-ṣaṣṭhimon Mārg. śu. 6; tithi; worship of golden,
-
-silver, clay or wooden image of Kārtikeya; HV I. 596-600
-
-(from Bhav U. 42.1-29 ). Kalabhairavūstami-Mārg. kr. 8; tithi; Kālabhairava is deity;
-
-VK 316-317, VKD 106. Kālarātrivrata-on Ăśv, śū. 8; pakṣa vrata; for all varṇas but
-
-not for those beyond the pale of caste system; fast for 7 or
-
-286
-
-
-
-(Soc. I, Ch. XIII
-
-3 days or one day according to physical ability; first pūjā of Gaṇeśa, Mātrs, Skanda and Śiva and then homa which was to be in a kunda by a brāhmaṇa who had taken initia tion as a Śaiva or by persons belonging to arranga (Maga brāhmaṇas or Parsi ?) families; eight maidens to be fed and eight brāhmaṇas to be invited; HV II. 326-332
-
-(from Kālikāpurāṇa ). Kālāstamīvrataron Bh. kr. 8 with Mrgaśiras nakṣatra; tithi
-
-vrata; one year; Vā. 16. 30-66 q. by KKV 258-263 and by HV I. 849-853, KN 196; Śiva is supposed to stay in lingas on this day unaccompanied by bull or Gaṇeśa. The per former bathes with different things, offers different flowers
-
-and employs different names of Śhaṅkara in each month. Kālivrata—The same as Kālarātrivrata above. So called in
-
-KKV 263-269. The editor of KKV (G. O. S.) did not notice
-
-that this was identical with the vrata in HV II, 326-332. Kimicchakavrata--Mārkandeya-purāṇa 122.8, 17, 20 (Venk.ed.).
-
-It consists in asking an atithi what he wants and in offering what he wants. There is the story of Aviksit, son of Karandhama, whose mother had undertaken this vrata and who had made a promise to his mother to carry out her vrata. He proclaimed 'śrnvantu merthinaḥ sarve pratijn ātam mayā tadā 1 kimicchatha dadāmyeșa kriyamāṇe
-
-kimicchake' 11(Mārk. 122.20 ) Kirtivrata-Saṁvatsaravrata; the performer salutes Aśvattha
-
-tree, the Sun and the Ganges, stays in one place restraining his senses, eats only once in the noon; he does so for one year; at end of vrata honours a brāhmana and his wife with gifts of three cows and a golden tree. It yields fame and land to performer. KKV 442, HV II. 863-864 (from Pad).
-
-The verses are also Mat. 101.23-24. It is the 13th Sagtivrata, Kirtisaṅkrāntivrata-on the day of a saṅkrānti, the disk of the
-
-Sun to be drawn on ground, an image of the Sun to be placed in the midst of the figure and worshipped; for one year; HV II. 738-739 (from Skanda). Reward is great
-
-fame, long life, kingdom and health. Kukkuti-markaṭivrata-on Bh. śu. 7; tithi; for one year on each
-
-saptami, whether of bright or dark half; on 8th dinner to brāhmaṇas consisting of sesame cake and rice and jaggery; worship of Śiva with Ambikā drawn in a circle; describedList of vratas
-
-287
-
-at length in Bhav U. 36. 1-43; TT 37 (calls it Kukkutī vrata ); the performer has to wear for life a doraka (band of threads with filigree of gold or silver ) on his arm; the story of a queen and the wife of her husband's purohita who became a markati ( the monkey ) and kukkuṭi (hen) because they forgot to wear the doraka is narrated by Kr̥ṣṇa to
-
-Yudhisthira; VKK 319 ( quoting Bhav.), GK 85. Kundachaturthi--on M. śu. 4; tithi; Devīpūjā; gift of flowers
-
-of kunda plant, vegetables, salt, sugar made from jaggery, jiraks &c. to maidens; fast on 4th; KKV 283-284, HV I. 525-526 ( from Devipurāda), S. Pr 27b, VP (folio 284b). It is also called Gauricaturthi; chief matter is fast on 4th and
-
-the gifts only confer saubhāgya. Kuberavrata—on 3rd tithi; worship of Kubera; HV I. 478-479
-
-(from Bhav.), KN 176. Kumāraṣaṣṭhi-begin on Cai. śu. 6; tithi; for one year; worship
-
-of clay image of Skanda with twelve arms; HV I. 588-590
-
-(from Kālottara ); VP ( folio 6la ). Kumārīpūjāmin Navarātra. Vide pp. 170-171 above and SM 22. Kumbhaparva-It occurs once in twelve years. The Sun and
-
-Moon should be in Makara rāśi, Jupiter in Taurus (Vrsabha), there is amāyāsyā; this is called Kumbhayoga. Bath at Prayāga on this yoga is deemed to be more meritorious than a thousand Aśvamedhas, a hundred Vājapeyas and a lakh of pradakṣiṇās round the earth. Bath at Prayāga and the large concourse of sādhus are the two predominant objects of those who gather there in thousands and sometimes millions. It is in three parts, first is Makarasaṅkrānti, the 2nd ( the chief one and called Pūrṇakumbha ) is amāvāsyā and 3rd is Vasantapancami, In 1954 A. D. the threo datos were 14th January, 3rd February and 7th February. Some hold that the three days are Makarasaṅkrānti, Pauṣa Pūrṇimā and Amāvāsyā. There are other Kumbha-yogas viz. at Haridvāra when Jupiter is in Kumbharāśi and Sun enters Meṣa, at Nasik when Jupiter is in Simha and Sun and Moon in Karkaṭa, at Ujjain when Sun is in Tula and
-
-Jupiter in Vrścika. Kumbhikāvrata--on K. Gu. 11; tithi; Viṣṇu deity; HV I. 1105-8,
-
-VP (folio 211 ); both quote Skanda. Kūrmadvādaśi-on P. śu. 12; tithi; Nārāyaṇa; KKV 317-319,
-
-HV I. 1026–27 ( quoting 9 verses from Var., chap. 40 ), KR
-
-288
-
-
-
-
-
-482-484. On a copper vessel full of ghee the image of
-
-tortoise with mandara mountain is to be placed and donated. Kuṣmānda-daśamī-on Āśv. śu. 10 up to the 4th tithi following;
-
-tithi; worship of Śiva, Dasaratha, Lakṣmi with kūsmānda
-
-flowers; arghya to Moon; GK pp. 125-126 (from Sāmbapurāṇa). Kr̥cchravrata-On Mārg. Su. 4; tithi; four years; Gaṇeśa deity;
-
-HV I 501-504 (from Skanda ); in the first year he subsists by ekabhakta on 4th, in the 2nd by nakta, on 3rd by
-
-ayācita way and in 4th he fasts on 4th tithi. Kr̥cchravratāni-several krcchras, such as Somāyana, Tapta
-
-kṛcchra, kṛcchrātikrochra, Sāntapana (that are really prāyaścittas) are described as vratas by HV II. 931 ff. ; vide also HV II 769-71 for these. Sūdra had no adhikūra for these. Some of the other krcchras are described here; Paitāmaha kṛcchra from K. kr. 7 (on four days partake only of water, milk, curds and ghea respectively), on 11th fast and worship Hari; Vaiṣṇava-kṛcchra consists in partaking of munyanna (such as niyāras ) for three days, yāvaka for
-
-three days and fast for three days. Kṛttikāvrata-begin on Maha-kārtiki as defined above or on any
-
-K. Full Moon; bath in some holy place like Kuruksetra, Prayāga, Puskara, Naimisa, Mūlasthāna, Gokarṇa or in any city or village; six kṛttikā images made of gold, silver, jewels, butter, flour and decked with sandalwood paste and alaktaka dye, saffron &c. and worshipped with Jātā flowers and to be donated to brāhmaṇas. HV II. 191-193 (from
-
-Bhav U.). Kyttikāsnāna-fast on Bharaṇi-nakṣatra; on Kșttikā snapana of
-
-performer and his wife by purohita with water from jars of gold or clay filled with all plants and holy water; worship of Agni, Skanda, Moon, sword, Varuṇa; HV II 597-598
-
-(from Vi. Dh. ). Krṣnacaturdaśi(1) on Phā, ks. 14; tithi; Śiva is devatā; 14
-
-names of Śiva to be repeated; for 14 years; HV II. 65–71 (from Kālottara); (2) for women alone; fast on kr. 14; tithi; Śiva ; for one year: HV II. 154;( 3 ) on 14th of M. Kr; worship of Śiva with bilva leaves; HV. II. 156 ( from Saura purāṇa... (4) on 14 of Kr. burning guggulu before Śiva
-
-image; HV 156 ( from Saura ). Krṣna janmāṣtami–Vide pp. 128–140 above.
+_Kṛṣṇajanmāṣṭami_–Vide pp. 128–140 above.
 
 List of vratas
 
