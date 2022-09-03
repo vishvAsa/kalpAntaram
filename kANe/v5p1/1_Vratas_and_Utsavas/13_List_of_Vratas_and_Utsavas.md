@@ -776,7 +776,7 @@ _Jayadāsaptami_-Jayā or Vijayā is śu. 7 on a Sunday; Sun to be worshipped wi
 
 _Jayantavidhi_-on Uttarayaṇa Sunday; worship of Sun; KKV 16-17, HV II, 525 (from Bhav. U). Hemādri reads' Jayanta uttararkṣe ādityagaṇa', while KKV reads "Jayantetyuttare jñeyo ayane gaṇa-'.
 
-_Jayādvādasi-Phā. śu. 12th with Puṣya nakṣatra is so called; gifts and _tapas_ on it yield merit crores of times; KKV 349, HV I. 1146 (from Ādityapurāṇa ).
+_Jayādvādaśi-Phā. śu. 12th with Puṣya nakṣatra is so called; gifts and _tapas_ on it yield merit crores of times; KKV 349, HV I. 1146 (from Ādityapurāṇa ).
 
 _Jayantavrata_-worship of Jayanta, son of Indra, makes one happy; HV I. 792 (from Vi. Dh. only a half verse ).
 
@@ -922,7 +922,7 @@ _Tryahaḥ-spr̥k_-Vi. Dh. I. 60. 14; when three tithis are touched in one day a
 
 _Traiyambaka or Tryambaka-vrata_-on 14th of each month taking food in nakta way and at end of year donating a cow, one reaches Śiva-pada; HV II, 147 (one verse from Pad. )=KKV 449. The verse is Mat. 101. 67.
 
-_Dattātraya-janma_-on Mārg. paurnamāsī; Atri's wife Anasūyā called him Datta (because god gave himself up to him as son) and as he was Atri's son he is called Dattatreya; NS 210, SmK 430, VKD 107-108; Dattabhakti is prevalent mostly in Mahārāstra and places associated with Datta viz. Audumbara, Gānagāpura, Narsobā-wādi are in Mahārāṣṭra; Dattatreya conferred boons on Kārtavirya (Vanaparva 115, 12, Brah. 13. 160-185, Mat. 43. 15-16), was an avatāra of Viṣṇu and propounded Yoga to Alarka ( Brah. 213. 106-112, Mārkaṇḍeya 16. 14 ff, Br. III. 8. 84 ); he resided in valleys of Sahya, was called Avadhūta, was given to wine and liked female company; Pad. II. 103. 110–112 and Mārkaṇḍeya 16. 132-34. From Tamil calendars it appears that Dattātreya-jayanti is celebrated in Tamil land also.
+_Dattātraya-janma_-on Mārg. paurṇamāsī; Atri's wife Anasūyā called him Datta (because god gave himself up to him as son) and as he was Atri's son he is called Dattatreya; NS 210, SmK 430, VKD 107-108; Dattabhakti is prevalent mostly in Mahārāstra and places associated with Datta viz. Audumbara, Gānagāpura, Narsobā-wādi are in Mahārāṣṭra; Dattatreya conferred boons on Kārtavirya (Vanaparva 115, 12, Brah. 13. 160-185, Mat. 43. 15-16), was an avatāra of Viṣṇu and propounded Yoga to Alarka ( Brah. 213. 106-112, Mārkaṇḍeya 16. 14 ff, Br. III. 8. 84 ); he resided in valleys of Sahya, was called Avadhūta, was given to wine and liked female company; Pad. II. 103. 110–112 and Mārkaṇḍeya 16. 132-34. From Tamil calendars it appears that Dattātreya-jayanti is celebrated in Tamil land also.
 
 _Dadhivrata_-on 12th of Śr. śu.; NS 111; one has to give up curds on this day.
 
@@ -1042,7 +1042,7 @@ _Dvādaśāhayajña-phalāvāpti-tṛtiya_-on each 3rd tithi (of su.?) for one y
 
 _Dvādaśāhasaptamī_-begin on 7th of M. śu.; for one year; fast on 7th and Sun to be worshipped under different names on each 7th, Varuṇa in M., Tapana in Phā., Vedāṁśu in Cai., in Vaj. Dhātr̥ and so on; brāhmaṇas to be fed on following 8th; on 7th of dark half also fast &c.; HV I.720-724 (from Bhav.).
 
-_Dvādaśivratas_--For reward of fast on Dvādaśis of śu. _pakṣa_ from Mārg, vide Vi. Dh. I. 159. 1-21 and on kr̥. Dvādaśī vide Vi. Dh. I. 160. There are about 50 Dvādaśī vratas. Vide KKV 310-369 ( describes 26 dvādaśivratas ), HV I. 1162-1222; HK 289–298, KN 275-277, TT 114-117, SM 92-95, PC 213-222, VR 475-495. The Var., chapters 39-49 deal with ten dvādaśis named after ten avatāras from Matsya to Kalkin and also Padmanābha-dvādaśī. Most of these would be dealt with under their proper names. Agni 188 mentions many Dvādaśīvratas. Eight kinds of Dvādaśīs from Brahmavaivarta have been mentioned by HK 260-263; vide p. 119 above. The rewards of making gifts on dvādaśīs of the twelve months in conjunction with certain nakṣatras are treated in HK 634-637, KR 129-131. Dvadasi mixed with ekādaśī is to be preferred acc. to Yugmavākya (KN 275 ).
+_Dvādaśivratas_--For reward of fast on Dvādaśis of śu. _pakṣa_ from Mārg, vide Vi. Dh. I. 159. 1-21 and on kr̥. Dvādaśī vide Vi. Dh. I. 160. There are about 50 Dvādaśī vratas. Vide KKV 310-369 ( describes 26 dvādaśivratas ), HV I. 1162-1222; HK 289–298, KN 275-277, TT 114-117, SM 92-95, PC 213-222, VR 475-495. The Var., chapters 39-49 deal with ten dvādaśis named after ten avatāras from Matsya to Kalkin and also Padmanābha-dvādaśī. Most of these would be dealt with under their proper names. Agni 188 mentions many Dvādaśīvratas. Eight kinds of Dvādaśīs from Brahmavaivarta have been mentioned by HK 260-263; vide p. 119 above. The rewards of making gifts on dvādaśīs of the twelve months in conjunction with certain nakṣatras are treated in HK 634-637, KR 129-131. Dvādaśi mixed with ekādaśī is to be preferred acc. to Yugmavākya (KN 275 ).
 
 _Dvādaśivrata_-begin from Mārg. śu.; one year or for life; fast on 11th and worship of Vāsudeva on 12th with the upacāras from flowers &c.; if performed for one year, one becomes purified from sins; if for life he reaches Śvetadvipa; if he performs vrata on dvādaśis both in śu. and kr̥. he secures heaven, and if for life he goes to Viṣṇuloka. V. Dh. 49. 1-8, q. by KKV 310; Anuśāsana chap. 109 dwells on worship of Viṣṇu on dvādaśīs from Mārg.
 
@@ -1446,345 +1446,136 @@ _Pretacaturdaśī_—on 14 of K. kr̥., the vrata is begun to be performed at ni
 
 _Phalatr̥tiyā_-begin on 3rd tithi of su.; for one year; Devi (Durgā ) is deity: for all, but mostly for women; donate fruits, while performer gives up fruits and follows nakta method and mostly partakes of wheat and several kinds of pulse ( such as gram, _mudga_, māṣa, &c.); result no lack of wealth and foodgrains and no ill-luck, HV I. 500 (from Pad. Prabhāsakhaṇḍa ).
 
-Phalatyāga-vrata-Begin in Mārg, su. on 3rd, 8th, 12th, or 14th
+_Phalatyāga-vrata_-Begin in Mārg, śu. on 3rd, 8th, 12th, or 14th tithi for a year; Śiva deity; performer to avoid taking all fruits a year except 18 dhānyas; should prepare golden image of Rudra with his bull and of Dharmarāja; should make golden replicas of 16 kinds of fruits (such as kūṣmāṇda, mango, badara, banana ), 16 silver ones of other smaller ones ( such as āmalaka, udumbara, cardamom ); 16 copper ones of other fruits ( such as tamarind, inguda); should place on a heap of _dhānya_ two jars full of water covered with cloth and prepare a bed-stead; all these together with a cow should be donated to a brāhmaṇa and his wife at year's end; if unable to give all he may donate only the metal fruits, the jars and golden images of Śiva and Dharma; performer remains in Rudraloka for thousands of yugas; Mat. 96. 1-25 (q. by HV II. 906–909, KKV 436-439.)
 
-tithi for a year; Śiva deity; performer to avoid taking all fruits a year except 18 dhāngas; should prepare golden image of Rudra with his bull and of Dharmarāja; should make golden replicas of 16 kinds of fruits (such as kūṣmāṇda, mango, badara, banana ), 16 silver ones of other smaller ones ( such as āmalaka, udumbara, cardamom ); 16 copper ones of other fruits ( such as tamarind, inguda); should place on a heap of dhānytwo jars full of water covered with cloth and prepare a bed-stead; all these together with a cow should be donated to a brāhmaṇa and his wife at year's end; if unable to give all he may donate only the metal fruits, the jars and golden images of Śiva and Dharma; performer remains in Rudraloka for thousands of yugas;
+_Phalavrata_–(1) give up partaking of big fruits (like jackfruit and kūṣmāṇḍa) for four months from Āṣ. and donate in K. same fruits made of gold with a pair of cows; Sun deity ; performer is honoured in the world of Sun; Mat 101. 62 ( one of the Şaṣṭivratas) q. by KKV 448, HV II. 818 (from Pad., one half verse being different from Mat. ); (2) KN 140 quotes Brah. (2 1/2 verses ); on Bh. śu. 1 the performer observing silence should cook three kinds of fruits (16 in each group) and offer them to god and donate to a brāhmaṇa.
 
-Mat. 96. 1-25 (q. by HV II. 906–909, KKV 436-439.) Phalarrata–(1) give up partaking of big fruits (like jack
+_Phalaṣaṣṭhivrata_—begin observing niyamas on 5th of Mārg. śu.; on 6th prepare a golden lotus and one golden fruit; on 6th at midday he should place the lotus and fruit with sugar on a vessel of clay or copper and offer worship with flowers &c. and observe fast; on 7th all these should be donated with the words 'May the Sun be pleased with me'; he should give up one fruit till the next 5th of dark half; this should be repeated for a year (viz. gift of golden lotus and fruit and giving up one fruit till kṛ. 5th ); in each month on 7th one of twelve names of the Sun to be repeated; performer is freed from all sins and is honoured in Sun's world; HV I. 602-604 ( from Bhav. U. 39. 1-12).
 
-fruit and kūsmānda) for four months from Āṣ. and donate in K. same fruits made of gold with a pair of cows; Sun
+_Phalasaṅkrāntivrata_-on a saṅkrānti day worship after bath the Sun with flowers &c. and donate to a brāhmaṇa a vessel filled with sugar and eight fruits; then worship a golden image of the Sun placed on a jar with flowers &c.; HV II.736 (from Skanda).
 
-List of vratas
+_Phalasaptami_–(1) on Bh. śu. 7th fast and worship of the Sun; on 8th morning worship the Sun and donate to brāhmaṇas dates, cocoanut fruits and _mātuluṅga_ fruits and say 'May the sun be pleased'; performer to eat (on 8th) one small fruit with the mantra 'May all my desires be fulfilled' and he may eat only fruits to his heart's content but nothing else; this to be done for a year; the vrata endows performer with sons and grandsons; KKV 204-205, HV I. 701-702 (both quote Bhav. I. 215. 24–27); (2) on Bh. śu. 4th, 5th and 6th the performer should respectively observe ayācita, ekabhakta and fast, worship Sun with gandha &c. and should sleep at night in front of the altar on which sun image is placed; on 7th after sun worship offer naivedya of fruits, feed brāhmaṇas and eat food himself; if unable to procure fruits he should cook flour of rice or wheat mixed with ghee and jaggery and nutmeg bark and nāgakesara as naivedya; this to be carried on for a year; at end he may, if able, donate golden fruits, a cow with calf, a field, a a mansion, clothes, copper vessel and coral; if poor feed brāhmaṇas on fruits and powdered sesame and donate silver fruits; performer is freed from poverty and hardship and goes to world of Sun; KKV 117-121, HV I. 731-734 (from Bhav. I. 64. 36-61; (3) on Mārg. śu. 5 observe niyamas, on 6th fast, donate a golden lotus and a fruit with sugar with 'may the Sun be pleased with me'; on 7th feed brāhmaṇas on meal with milk; he should give one kind of fruit from this day to kr. 5th; do this for a year using different names of Sun in each month; at year's end honour a brāhmaṇa and his wife with clothes, jar, sugar, golden lotus and fruit; performer becomes free from sins and goes to sūryaloka; Mat. 76. 1-13 q. in KKV 213-214 (without name), HV I. 743-44 (from Pad. V. 21. 249–262).
 
-353
+_Phalāhāraharipriyavrata_–Vi. Dh. III. 149. 1-10 (This is a caturmūrtivrata ); begin fast for three days on Viṣuva day in Vasanta and worship Vāsudeva; for three months Vāsudevapūjā every day; then for three months subsist on fruits; then in śarad Viṣuva fast for three months, and Pradyumna worship; subsist on yāvaka; at end of year gifts to brāhmaṇas; goes to Viṣṇuloka.
 
-deity ; performer is honoured in the world of Sun; Mat 101. 62 ( one of the Şasṭivratas) q. by KKV 448, HV II. 818 (from Pad., one half verse being different from Mat. ); (2) KN 140 quotes Brah. (21 verses ); on Bh. śu. 1 the performer observing silence should cook three kinds of fruits (16 in each group) and offer them to god and donate to a brāhmaṇa.
+_Phālguna-kṛtya_-HV II. 797-799, KR 515-531; VKK 506-517 ; NS 222-229; SmK 513-519. It may be noted that generally all the grand annual festivals in big and small temples in South India are celebrated in Phālguna.
 
-Phalaṣaṣṭhivrata—begin observing niyamas on 5th of Mārg. śu.;
+A few minor matters are noted here; On Phā. śu. 8 worship of Lakṣmi and Sitā with gandha &c. (KKN 441-443, KR 527, quoting Brah.) On Phā. pūrṇimā if there be Phalguni-nakṣatra one should donate a bedstead with good coverlets and thereby one secures a beautiful wife that brings a fortune (V. Dh. 90.); as Aryaman was born of Aditi and Kaśyapa and the Moon from Atri and Anasūyā on Phā. pūrṇimā, both the Sun and Moon should be worshipped at moonrise and songs, dance and music should be indulged in; KR 530, quoting Brah. and KKN 443; on this pūrṇimā a temple festival is held in South India called Uttira.
 
-on 6th prepare a golden lotus and one golden fruit; on 6th at midday he should place the lotus and fruit with sugar on a vessel of clay or copper and offer worship with flowers &c. and observe fast; on 7th all these should be donated with the words. May the Sun be pleased with me'; he should give up one fruit till the next 5th of dark half; this should be repeated for a year (viz. gift of golden lotus and fruit and giving up one fruit till kr. 5th ); in each month on 7th one of twelve names of the Sun to be repeated; per former is freed from all sins and is honoured in Sun's world; HV I. 602-604 ( from Bhav. U. 39. 1-12).
+_Phālgunaśravaṇadvādaśi_-when Dvādaśi has śravaṇa-nakṣatra, fast and worship Hari; NM p. 52, verses 626-627.
 
-Phalasaṅkrāntivrata-on a saṅkrānti day worship after bath the
 
-Sun with flowers &c. and donate to a brāhmaṇa a vessel filled with sugar and eight fruits; then worship a golden image of the Sun placed on a jar with flowers &c.; HV II.
+_Bakapañcaka_-The five days from K. śu. 11 when Viṣṇu rises from sleep up to K. pūrṇimā are so called and it is stated that even a crane would not eat a fish in these days; therefore men should abstain from meat-eating during these days; KV 338, KR 425, VKK 479, KT 454.
 
-736 (from Skanda). Phalasaptami–(1) on Bh. śu. 7th fast and worship of the Sun;
+_Bakulāmāvāsyā_-on P. amāvāsyā, the pitṛs are to be satiated with bakula flowers and milk boiled with rice grains and sugar; GK 446.
 
-on 8th morning worship the Sun and donate to brāhmaṇas dates, cocoanut fruits and mātulunga fruits and say "May the sun be pleased'; performer to eat (on 8th) one small fruit with the mantra 'May all my desires be fulfilled' and he may eat only fruits to his heart's content but nothing else; this to be done for a year; the vrata endows performer with sons and grandsons; KKV 204-205, HV I. 701-70% (both quote Bhav. I. 215. 24–27); (2) on Bh. śu. 4th, 5th and 6th the performer should respectively observe ayācita, ekabhakta and fast, worship Sun with gandha &c. and should sleep at night in front of the altar on which sun image is placed; on 7th after sun worship offer naivedya of fruits, feed brāhmaṇas and eat food himself; if unable to procure fruits he should cook flour of rice or wheat mixed with ghee and jaggery and nutmeg bark and nāgakegara as naivedya; this to be carried on for a year; at end he may,
+_Balipratipad_-vide pp. 201-204 above. The Junagad Inscription of Skanda-gupta refers to Viṣṇu's bringing back Lakṣmi for Indra from Bali (vide Gupta Inscriptions pp. 59,62 ).
 
-H. D. 45
+_Balipratipad-rathayātrā-vrata_-on K. śu. 1; fast on preceding amāvāsyā, Agni and Brahmā are the deities; on a ratha (car) Agni should be worshipped, the ratha should be drawn by learned brāhmaṇas at the instance of a brāhmaṇa performer and should be taken round the town; to the right side of Brahmā image of Savitri; car should be stopped at different places and waving of lights should be done; all those who take part in this yātrā, who draw the car, who light lamps, who look at it with devotion-all reach the highest place; K, śu. 1 is Balipratipad and so this rathayatrā is so called; HV I. 345-347 ( from Bhav.)
 
-354
+_Bastatrirātra-vrata_-In Cai. offer to the sun for three days three white lotuses on each day and observe nakta every day for three days; donate five milk-yielding she-goats with some gold to a brahmaṇa; this removes all diseases and the performer is not born again; HV II 323 ( from Bhav. U.).
 
+_Bahulā_-Bh. kṛ. 4 is so called in Central India; cows to be honoured and one should partake of cooked yavas; NS 123, VKD 67.
 
+_Bālavrata_-giving a bull and kūṣmāṇḍa, gold and garment; Pad, III. 5. 14 and 31-32; man or woman that killed a child in a former life or did not save a child though able becomes childless and should donate a kūṣmāṇḍa with garments and a bull with gold.
 
-(Soc. I, Ch. XII
+_Bālenduvrata or Bālendudvitiya_-vrata--on Cai. śu. 2; bath in evening in a river, draw a figure to represent the moon's crescent, worship it with white flowers and _naivedya_ of best food and products of sugarcane juice; after worship performer himself to eat food; he should give up food fried in oil; one year; he secures blessedness and goes to heaven; HV I.380-82 ( quoting Vi. Dh. III. 131. 1–7), SmK 90.
 
-if able, donate golden fruits, a cow with calf, a field, a a mansion, clothes, copper vessel and coral; if poor feed brāhmaṇas on fruits and powdered sesame and donate silver fruits; performer is freed from poverty and hardship and goes to world of Sun; KKV 117-121, HV I. 731-734 (from Bhay. I. 64. 36-61; (3) on Mārg. śu. 5 observe niyamas, on 6th fast, donate a golden lotus and a fruit with sugar with 'may the Sun be pleased with me'; on 7th feed brāhmaṇas on meal with milk; he should give one kind of fruit from this day to kr. 5th; do this for a year using different names of Sun in each month; at year's end honour a brāhmaṇa and his wife with clothes, jar, sugar, golden lotus and fruit; performer becomes free from sins and goes to suryaloka; Mat. 76. 1-13 q. in KKV 213-214 (without name), HV I. 743-44
+_Bilvatrirātravrata_-on Jy. pūrṇimā with Jyeṣṭhā-nakṣatra one should bathe with water mixed with mustard seeds, then sprinkle water on bilva tree and worship it with _gandha_ &c.; for one year one should subsist by ekabhakta way; at year's end one should approach bilva tree with bamboo vessel full of sand or full of barley, rice, sesame &c. and worship images of Umā and Maheśvara with flowers &c., address bilva tree with a mantra praying for absence of widowhood and for wealth, health, sons &c.; homa with a thousand bilva leaves; make a bilva tree of silver with golden fruits; _jāgara_ for three days from 13th to pūrṇimā with fast; bath next morning and honouring the ācārya with garments, ornaments &c. and feeding 16, 8 or 4 householders with their wives; by this vrata Umā, Lakṣmī, śacī, Savitrī and Sitā respectively secured as husbands Śiva, Kr̥ṣṇa, Indra, Brahmā and Rāma; HV II, 308-312 (from Skanda), SmK 123-124 (simply copies HV).
 
-(from Pad. V. 21. 249–262). Phalāhāraharipriyavrata–Vi. Dh. III. 149. 1-10 (This is a
+_Bilvaroṭaka-vrata_-see Roṭakavrata.
 
-caturmūrtivrata ); begin fast for three days on Viṣuya day in Vasanta and worship Vāsudeva; for three months Vāsu devapūjā every day; then for three months subsist on fruits; then in śarad Visuva fast for three months, and Pradyumna worship; subsist on yāvaka; at end of year gifts to brāh
+_Bilvalakṣavrata_-a man or a woman may begin in Śr., Vai., M. or K. and burn every day three thousand bilva wicks ( wicks of cotton thread spun by the woman herself and dipped in ghee or sesame oil) placed in a copper vessel in honour of Śiva in a temple or on the Ganges or in cowpen or near a brāhmaṇa; a lakh or crore of wicks may be prepared; all may be burnt in a single day if possible; _Udyāpana_ on a pūrṇimā; VKD 398–403.
 
-maṇas; goes to Viṣṇuloka. Phālguna-krtya-HV II. 797-799, KR 515-531; VKK 506-517 ;
+_Bilvaśākhāpūjā_-on Āśv. śu. 7; SM 23 and VR 248; vide p. 160 under Durgotsava.
 
-NS 222-229; SmK 513-519.
+_Buddhajanmamahotsava_-on Vai, su. when the Moon is in Puṣya nakṣatra an image should be established with texts uttered by Sākya and the temple should be white-washed; for three days _naivedya_ and gifts to poor people; NM pp. 66-67, verses 809-816. It should be noted that in NM also Buddha is declared to be an avatāra of Viṣṇu in Kaliyuga. Buddha's Parinirvāṇa took place in Kārtika according Sarvāstivādins and in Vaiśākha according to Ceylonese tradition. Vide Bajaur casket inscription of Menander's reign in E. I. vol 24 p. 6.
 
-It may be noted that generally all the grand annual festivals in big and small temples in South India are celebrated in Phālguna.
+_Buddhadvādaśī_-in Śr. śu. 12; tithi; worship of golden image of Buddha with _gandha_ &c; donate it to a brāhmaṇa; Śuddhodana did this vrata and so Viṣṇu himself was born to him as Buddha; KKV 331-332, HV I. 1037-1038 (as a Dharaṇi-vrata from Var.), KR 247-248. The printed Var. ( 47.1-24 ) which contains only the first half verse occurring in KKV and HV narrates the story of Nṛga. In Var. 55. 37 reference is made to avatāras from Nṛsiṁha to Rāma and it proceeds 'namostu te Buddha Kalkin vareśa'. Vide Buddhapūrṇimā Vaj. śu. 15 and Br. S. 57. 44 for directions as to image of Buddha.
 
-A few minor matters are noted here; On Phā. śu. 8 worship of Lakṣmi and Sitā with gandha &c. (KKN 441-443, KR 527, quoting Brah.) On Phā. pūrṇimā if there be Phalguni-nakṣatra one should donate a bedstead with good coverlets and thereby one secures a beautiful wife that brings a fortune (V. Dh. 90.); as Aryaman was born of Aditi and Kaśyapa and the Moon from Atri and Anasāyā on Phā. pūrpimā, both the Sun and Moon should be worshipped at moonrise and songs, dance and music should be indulged in; KR 530, quoting Brah. and KKN 443; on this pūrṇimā a temple festival is held in South India called Uttira.
+_Budhavrata_--When planet Budha ( Mercury ) comes to Viśākhā nakṣatra one should observe for seven days nakta way; a golden image of Budha should be placed in a bell metal vessel with white garlands and _gandha_ &c, and donated to a brāhmaṇa; Budha sharpens intellect and conveys real knowledge; HV II, 578 ( from Bhav. U.)
 
-Phālgunasraranadrāduśi-when Dvadasi has śravapa-nakṣatra,
+_Budhāṣṭami_-Begin when there is Wednesday on śu. 8; follow ekabhakta way and donate on eight aṣṭamis respectively eight jars full of water with a gold piece inside and with different edibles at each aṣṭamī; then at end donate a golden image of Budha; HV I. 866-873 (from Bhav. U. 54. 1–59 ); stories of Aila Purūravas and of Mithi and his daughter Urmilā were to be heard at the time of each aṣṭami. VKK ( 39-40 ) quotes three verses from RM on this vrata which are also quoted in Vratatattva p. 151. VR ( 256–265 ) deals with this vrata and its udyāpana.
 
-fast and worship Hari; NM p. 52, verses 626-627.
+_Buddhyavāpti_-begin on the day after Cai, pūrṇimā; one month; worship of Nṛsiṁha; homa with mustard every day; dinner to brāhmaṇas containing _trimadhura_ and gift of gold on Vai. pūrṇimā; Vi. Dh. III. 206. 1-5.
 
-List of vratas
+_Bṛhattapo-vrata_-begin on Mārg. śu. 1 called Br̥hattapā; Śiva deity; for one year or 16 years; destroys sin even of brāhmaṇa murder; HK 105-106, PC 80; vide Bhav. U. 12 for details.
 
-355
+_Bṛhad-gaurivrata_-on Bh. kṛ. 3 ( amanta reckoning) to be performed when moon rises; only for women; a plant called Dorli or Riṅgaṇi ( in Marathi) should be brought together with its roots, water should be sprinkled over it when placed on an altar of sand; on seeing the moon rise the woman performer should bathe, should worship Varuṇa in a jar and then Gauri with various _upacāras_; a thread should be put round one's neck in the name of Gauri; five years; VR 111-114 (from Bhav. U.), Vratārka folio 53 b-56 a (from Bhaviṣyottara). Both say it is well-known in Karnataka.
 
-L.
+_Brahmakūrcavrata_–(1) on K. kr. 14; fast and drink pañcagavya, the five ingredients of which (urine, dung, milk, curds, ghee ) are to be taken from cows of different colours; on next day worship gods and brāhmaṇas and then take food; all sins destroyed; HV II. 147 (from Bhav. U.); (2) fast on 14th and drink on pūrṇimā pañcagavya and then subsist on _haviṣya_ food; for a year every month; HV II. 238 (from Vi. Dh.); (3) the same as No. 2 but twice every month on amāvāsyā and pūrṇimā; HV II. 937 (from Brah.).
 
-Bakapañcaka-The five days from K. śu. 11 when Viṣṇu rises
+_Brahmagāyatri-candrarohıṇī-vrata_-KKV 417, HV II, 694 (from Pad.). No details.
 
-from sleep up to K. pūrṇimā are so called and it is stated that even a crane would not eat a fish in these days; there foro men should abstain from meat-eating during these days;
+_Brahmadvādaśi_-begin from P, śu. 12 when there is Jyeṣṭha nakṣatra; tithi; Viṣṇu deity; for one year every month worship Viṣṇu and observe fast on that day; in each month gift of different things such as ghee, rice and barley. Vi.Dh. III. 220. 1-6.
 
-KV 338, KR 425, VKK 479, KT 454. Bakulūmūrūsyā-on P. amāvāsyā, the pitṛs are to be satiated
+_Brahmaputrasnāna_—bath in the Brahmaputrā river (also called Lauhitya ) on Cai. śu. 8; removes all sins, as, on that day all holy rivers and the sea are supposed to be present in that river. VKK 522 ( quoting Kālikā and Bhav. U. 77. 58–59.)
 
-with bakula flowers and milk boiled with rice grains and
+_Brahmavrata_-(1) on any auspicious day; it is prakirṇaka; make a golden image of the _brahmāṇda_ (universe); for three days one should donate sesame; worship Agni and make a gift of the image and sesame to a householder and his wife; performer reaches the world of Brahmā and is not born again; KKV 445–446 (27th Şaṣṭivrata) = HV II. 886 (from Pad.). Mat. 101. 46-48 has the same verses; (2) on 2nd honour Vedic student (brahmacārin ) with a dinner ; make an image of Brahmā and place it on a lotus leaf and offer worship with gandha &c.; homa with ghee and fuelsticks; HV I. 377 ( from Bhav.).
 
-sugar; GK 446. Balipratipad-vide pp. 201-204 above. The Junagad Inscription
+_Brahma-sāvitri-vrata_-on Bh. śu. 13th one should make a resolve to observe fast for three days; if unable, observe nakta on 13th, _ayācita_ on 14th and fast on Paurṇamāsī; worship golden, silver or clay images of Brahma and Sāvitrī; _jāgara_ and _utsava_ at night on pūrṇimā; donate next morning images with dakṣiṇā of gold; HV II. 258-272 (from Bhav.U.); it is just like the Vaṭasāvitrīvrata except the date and the story of Sāvitrī is set out at length here in HV.
 
-of Skanda-gupta refers to Viṣṇu's bringing back Lakṣmi for
+_Brahmāvāpti_-begin on 10th of śu. in any month; tithivrata; fast on it and worship of ten gods (named) called Angirasaḥ; for a year; HV I. 966 (from Vi. Dh.).
 
-Indra from Bali (vide Gupta Inscriptions pp. 59,62 ). Bali pratipad-rathayātrā-vrataon K. śu. 1; fast on preceding
+_Brāhmaṇyāprāpti_-begin on 1st to 4th tithis of Cai. śu.; worship in order of tithis images of four gods, Indra, Yama, Varuṇa and Kubera who are four forms of Vāsudeva with _gandha_ &c.; homa; the garments to be offered on the four days should be red, yellow, dark and white; one year; performer secures heaven till end of world; HV II. 500-501 (from Vi. Dh.). It is a _caturmūrti_ vrata.
 
-amāvāsyā, Agni and Brahmā are the deities; on a ratha (car) Agni should be worshipped, the ratha should be drawn by learned brāhmaṇas at the instance of a brāhmaṇa performer and should be taken round the town; to the right side of Brahmā image of Savitri; car should be stopped at different places and waying of lights should be done; all those who take part in this yātrā, who draw the car, who light lamps, who look at it with devotion-all reach the highest place; K, śu. 1 is Balipratipad and so this rathayatrā
+_Brāhmaṇyāvāpti_-on Jy. paurṇamāsĩ give dinner to brāhmaṇa and his wife and donate garments and honour them with gandha &c.; performer secures birth in brāhmaṇa-varṇa for seven lives; HV II. 245 (from Prabhāsakhaṇḍa); KR 278-279.
 
-is so called; HV I. 345-347 ( from Bhav.) Bastatrirātra-vrata-In Cai. offer to the sun for three days three
+_Brāhmipratipad-lābha-vrata_-begin on Cai. śu. 1; fast thereon; make a lotus of eight petals with coloured powders; on pericarp worship image of Brahmā; on the four main quarters from the east place the Ṛgveda and the other Vedas; on the four intermediate points from south-east place the Aṅgas, Dharma-śāstras, Purāṇas and Nyāyavistara; he should worship these on 1st tithi of every month for a year and donate at end a cow; performer would be learned in Veda and if he performs for 12 years he would reach Brahmaloka; Vi. Dh. III. 126. 1-12 of which verses 6-12 are q. by HV I. p. 343. The arrangement of works reminds one of Yāj. I. 3.
 
-white lotuses on each day and observe nakta every day for three days; donate five milk-yielding she-goats with some gold to a brahmaṇa; this removes all diseases and the per
+_Bhadrakālīnavami_-fast on Cai. śu. 9 and worship Bhadrakāli with flowers &c., or on all 9th tithis of all months Bhadrakāli may be worshipped; NM 63, verses 762–63.
 
-former is not born again; HV II 323 ( from Bhav. U.). Bahula-Bh. kr. 4 is so called in Central India; cows to be
+_Bhadrakālāpūjā_-prescribed in RNP p. 438 for a king; the same as Bhadrakālivrata (2).
 
-honoured and one should partake of cooked yavas; NS 123,
+_Bhadrakālīvrata_-(1) begin on 9th of K. śu.; fast on that day; Bhadrakāli ( or Bhavāni ) deity; worship her every month on 9th for a year; at year's end donate two garments to a brāhmaṇa; performer obtains what he desires such as freedom from disease, sons, fame; HV I. 960 (from Vi. Dh.III. 175. 1-5); (2) on 9th of Āśv. śu.; draw Bhadrakāli on the wall of a mansion or on a piece of cloth; worship her and her weapons and shield; observe fast on 9th and worship Bhadrakāli; one secures great prosperity and success; HV I. 960-62 ( from Vi. Dh. II. 158. 1-8), KR 350, VR 337-338. Vide Brah. 181. 46-53 for Bhadrakāli and offerings of wine and meat to her.
 
-VKD 67.
+_Bhadracutuṣṭayavrata_-there are four Bhadras viz. three months (called Tripuṣkara or Tripuṣpa ) from 2nd of Phā. śu., three months (called Tri-puṣpaka ) from 2nd of Jy, śu , three months from Bh. śu. ( called Trirāma ) and three from 1st of Mārg. śu. ( called Viṣṇupada ); on first tithi he should eat by nakta way, on 2nd he should after bath offer tarpaṇa to gods, pitṛs and human beings and should not laugh nor talk till the moon rises and repeat the names Kṛṣṇa, Acyuta, Ananta, Hṛṣikeśa on the four tithis respectively from 2nd to 5th; in evening offer arghya to moon, take his meal on bare ground or on a stone; for one year for all varṇas and women also; the performer secures fame, success and remembers his former births (_jātismara_); HV II. 383– 392 (from Bhay. U. 13. 1-100).
 
-Balavrata-giving a bull and kūsmānda, gold and garment;
+_Bhadravidhi_-Sunday if on Bh. śu. 6th is called Bhadra; observe nakta on that tithi or fast; mālati flowers to be offered and white sandal-wood, Vijaya-dhūpa, and pāyasa as _naivedya_ in worship of the Sun at noon; it is a vāravrata; then dakṣiṇā to brāhmaṇa; performer goes to Bhānu-loka; KKV 12-13, HV II, 523-524 (calls it Bhadrāvidhi from Bhav.), KR 278.
 
-Pad, III. 5. 14 and 31-32; man or woman that killed a child in a former life or did not save a child though able becomes childless and should donate a kūṣmāṇda with garments and
+_Bhadrāvrata_--on 3rd of K. śu. a person should subsist by _nakta_ method after taking in cow urine and yāvaka (food prepared from barley ); this should be continued for a year every month; at end donate a cow; he will dwell in world of Gauri for a _kalpa_; HV I. 483 (from Pad. ), KN 330.
 
-a bull with gold, Balenduvrata or Bālendudvitiya-vrata--on Cai. śu. 2; bath in
+_Bhadrāṣṭami_-GK 116.
 
-evening in a river, draw a figure to represent the moon's crescent, worship it with white flowers and naivedya of best food and products of sugarcane juice; after worship performer himself to eat food; he should give up food fried in oil; ong
+_Bhadrāsaptamī_—when on 7th śu. there is Hasta-nakṣatra, that tithi becomes Bhadrā; tithivrata; Sun deity; a person should follow from 4th to 7th tithis respectively ekabhakta, nakta, ayācita and fast; one should bathe the image with ghee, milk and sugarcane juice and offer _upacāras_ and arrange near image various precious stones in the several directions; the performer goes to Sun's world and then to the world of Brahmā; KKV 138-141, HV 1. 671-673 (from Bhav.), HK 625, PC 105.
 
-356
+_Bhadropavāsavrata_--the same as Bhadra-catusṭayavrata.
 
+_Bhartṛdvādaśīvrata_--on Cai. śu. 12; fast on 11th and worship of Viṣṇu on 12; every month different name of Viṣṇu out of 12 from Keśava to Dāmodara to be taken; one year; KR 131-134 ( from Var.), KKV 339-340.
 
+_Bhartṛprāpti-vrata_-Nārada told this to a bevy of Apsarases who desired Nārāyaṇa should be their husband; on 12th of Vasanta śu.; fast thereon and worship of Hari and Lakṣmi; silver images of both and _nyāsa_ of the god of love under different names on the several limbs of the image ; next day gift of the images to brāhmaṇa: HV I. 1198-1200 (from Bhav.).
 
+_Bhavānīyātrā_-on Cai. śu. 8; 108 pradakṣiṇās; _jāgara_; next day worship of Bhavānī; SmK 94, PC 109, VKD 43.
 
+_Bhavānīvrata_-(1) on 3rd a person should apply unguents in Pārvati temple to the image of Pārvati; for a year; at end donate a cow; HV I. 483 (from Pad.); (2) when for a year a man (or woman) observes a fast on each paurṇamāsi and amāvāsyā and at year's end donates an image of Pārvati with all fragrant things, he secures the world of Bhavāni; HV II. 397 (from Lin.); (3) nakta in temple of Pārvati on 3rd; for a year; at end gift of cow; KKV 450 (from Mat.101. 77). Mat. reads' vitānakam'(canopy ).
 
-year; he secures blessedness and goes to heaven; HV I.
+_Bhāgyarkṣadvādaśi_-on 12th tithi with Pūrvāphalgunī-nakṣatra a man should worship image of Harihara, half of the image represents Hara (Śiva) and the other half Hari; the result is same even if the tithi is dvādaśī or saptami and nakṣatra may be Pūrvāphalguni, Revati or Dhaniṣṭhā; he secures sons, kingdom &c.; KRV 352-354, HV I. 1175–76 (from Devīpurāṇa ); Pūrvāphalguni is called Bhāgya, as Bhaga is its presiding deity; 'ṛkṣa 'means ' nakṣatra'.
 
-380-82 ( quoting Vi. Dh. III. 131. 1–7), SmK 90. Bilvatrirātrairata-on Jy. pūrṇimā with Jyeṣṭhā-nakṣatra one
+_Bhādrapada-kṛtya_-NM 71, verses 868-874 (about śu. only), KR 254-301, VKK 298–343, NS 123-144, KT 438-444, SmK 201-287, GK 24.
 
-should bathe with water mixed with mustard seeds, then sprinkle water on bilva tree and worship it with gandha &c.; for one year one should subsist by ekabhakta way; at year's end one should approach bilva tree with bamboo vessel full of sand or full of barley, rice, sesame &c. and worship images of Umā and Maheśvara with flowers &c., address bilva tree with a mantra praying for absence of widowhood and for wealth, health, sons &c.; homa with a thousand bilva leaves; make a bilva tree of silver with golden fruits; jāgara for three days from 13th to pūrṇimā with fast; bath next morning and honouring the ācārya with garments, ornaments &c. and feeding 16, 8 or 4 householders with their wives; by this vrata Umā, Laksmī, sacī, Savitr̥ī and Sitā respectively secured as husbands Śiva, Kr̥ṣṇa, Indra, Brahmā and Rāma; HV II, 308-312 (from Skanda), SmK 123-124
+_Bhānuvrata_-begin on 7th tithi: subsist by nakta that day, Sun deity; for one year; at end donate cow and gold; goes to sūryaloka; KKV 448 (quoting Mat. 101. 60), HVI, 786 (same verse from Pad.).
 
-(simply copies HV). Bilvaroṭaka-vrata-see Roṭakavrata. Bilvalakṣavratama man or a woman may begin in Sr., Vai.,
+_Bhānusaptamī_—when 7th tithi falls on a Sunday it is so called; GK 610.
 
-M. or K. and burn every day three thousand bilva wicks ( wicks of cotton thread spun by the woman herself and dipped in ghee or sesame oil) placed in a copper vessel in honour of Śiva in a temple or on the Ganges or in cowpen or near a brāhmaṇa; a lakh or crore of wicks may be prepared; all may be burnt in a single day if possible;
+_Bhārabhūteśvara-yātrā_-on Āṣ. pūrṇimā; worship of Bhārabhūteśvara in Kāśi; PC 284.
 
-Udyāpana on a pārṇimā; VKD 398–403. Bilvaśākhāpūjā-on Āśv. śu. 7; SM 23 and VR 248; vide p. 160
+_Bhāskarapūjā_-It is said that the sun should be worshipped as a form of Viṣṇu and that the sun is the right eye of Viṣṇu, that the sun should be worshipped in a maṇḍala resembling a chariot wheel and that the flowers offered to a sun image and later removed should not be worn by a person on his own body; TT 36, PC 104; Br. S. (57. 31-57 ) gives directions as to how the images of certain gods were to be made and verses 46-48 describe the image of Surya, one characteristic being that the body from the feet to chest should not be shown but covered with a jacket.
 
-under Durgotsava. Buddhajanmamahotsara-on Vai, su. when the Moon is in Puṣya
+_Bhāskarapriyā-saptami_—when the sun passes from one Zodiacal sign into another on śu. 7, then it is called mahājayā, is very dear to the Sun and bath, gifts,_tapas_, homa, worship of gods and pitṛs performed on that tithi yield merit a crore of times; K.V 416, VKK 35 (from Bhav.), TT 145 (from Brah. ).
 
-nakṣatra an image should be established with texts uttered by Sākya and the temple should be white-washed; for three days naivedya and gifts to poor people; NM pp. 66-67, verses 809-816. It should be noted that in NM also Buddha is declared to be an avatāra of Viṣṇu in Kaliyuga. Buddha's Parinirvāṇa took place in Kārtika according Sarvāstivā dins and in Vaiśākha according to Ceylonese tradition. Vide Bajaur casket inscription of Menander's reign in E. I. vol 24 p. 6.List of vratas
+_Bhāskaravrata_-fast on 6th (of kṛ. ?) and on 7th śrāddha with the words 'may the Sun be pleased '; tithivrata; Sun deity; performer freed from diseases and goes to heaven; HV I. 788 (from Bhav.).
 
-357
+_Bhimadvādaśi_-(1) It was first imparted to Bhima, one of the Pāndavas, by Vāsudeva and came to be known by his name; this was formerly called Kalyāṇini. It is elaborately described in Mat. 69. 19-65 (which also occur in Pad. V. 23), most of which are q. by KKV 354-359 (from Mat.) and HV I. 1044-1049 (from Pad.); on 10th of M. śu. bath with ghee applied to the body and worship of Viṣṇu with the words (namo Nārāyaṇāya), the various limbs of Viṣṇu being honoured with different names (Kr̥ṣṇa, Dāmodara &c.), worship of Garuḍa, of Śiva, Gaṇeśa; total fast on 11th; on 12th bathe in a river and raise maṇḍapa in front of house; hang a jar full of water from a _toraṇa_ with a small hole at the bottom and take the drops on one's hand the whole night; _homa_ through four priests learned in Ṛgveda, Rudra-japa by four Yajurvedins and _sāmans_ to be sung by Sāmavedins; these twelve priests to be honoured with rings, garments &c.; on next tithi donate 13 cows; after priests go he should say 'May Keśava be pleased, and Viṣṇu is the heart of Śiva and Śiva is the heart of Viṣṇu'; should listen to _itihāsa_ and _purāṇa_; vide Gar. I. 127 for this; (2) on M. śu. 12; this was imparted by Pulastya to Bhima, king of Vidarbha and father of Damayanti wife of Nala: arrangements as in the preceding; performer freed from all sins; this vrata is superior to Vājapeya and Atirātra &c. HV. 1049–1056 ( from Bhav. U.).
 
-Buddhadvādaśīmin Śr. śu. 12; tithi; worship of golden image of
+_Bhimavrata_-one who having fasted for a month donates at end a fine cow reaches the world of Viṣṇu; Mat. 101. 51 q. by KKV 446, HV II. 884 (from Pad. ).
 
-Buddha with gandha &c; donate it to a brāhmaṇa; Suddhodana did this vrata and so Viṣṇu himself was born to him as Buddha; KKV 331-332, HV I. 1037-1038 (as a Dharanl-vrata from Var.), KR 247-248. The printed Var. ( 47.1-24 ) which contains only the first half verse occurring in KKV and HV narrates the story of Nrga. In Var. 55. 37 reference is made to avatāras from Nrsiṁha to Rāma and it proceeds 'namostu te Buddha Kalkin varesa'. Vide Buddhapūrṇimā Vaj. śu. 15 and Br. S. 57. 44 for directions
+_Bhimaikādaśī_--M. śu. 11th joined with Puṣya or without it is very sacred and dear to Viṣṇu. Dhaumya describes to Bhima in Pad. VI. 239. 28 ff.
 
-as to image of Buddha. Budhavrala--When planet Budha ( Mercury ) comes to Viśākhā
+_Bhiṣmapañcaka_--For five days from 11th tithi of K. śu.; performer bathes three times applying pañcāmṛta, pañcagavya and water mixed with sandalwood paste; tarpaṇa of pitṛs with yava, rice and sesame; 108 times repeat the mantra 'om namo Vāsudevāyā' at worship and when performing homa offer sesame, yava and rice mixed with ghee with mantra of six letters 'om namo Viṣṇave'; this procedure to be followed for five days; on the 1st to 5th day the feet, knees, navel, shoulders and head of Hari should respectively be worshipped with lotuses, bilva leaves, bhṛṅgāraka, (on 4th day ) _bāṇa_, _bilva_ and Jayā, Mālati; on 11th to 14th he should respectively partake of cow-dung, cow urine, milk and curds for purifying the body; then on 5th day performer to feast brāhmaṇas and give gifts; the performer's sins are all wiped out; HV II, 336-341 (from Nār. and Bhav. U., the first saying that Bhiṣma learnt it from Kr̥ṣṇa, while the latter makes Kr̥ṣṇa declare that he learnt it from Bhiṣma when the veteran hero was lying on his bed of arrows); Bhav. U. allows the performer to eat vegetables and the food of ascetics. KV 324 cites the last verse occurring in HV II. 34 from Bhav. U. Later medieval works like NS 204, SM 158-159, SmK 386 add (from Pad.) that _arghya_ and water should be offered to Bhiṣma by men of all varṇas and the tarpaṇa mantra is note-worthy 'Vaiyāghra-padya gotrāya Sāṅkṛtyapravarāya ca। Gaṅgā-putrāya Bhīṣmāya pradāsyeham tilodakam ॥ aputrāya dadāmyetat salilam Bhiṣmavarmaṇe।'. These occur in BB p. 364 verses 1714-15 and the verse 'Vaiyāghra' occurs in RM (vide ABORI vol. 36 p. 332 ) and in HK 628. By doing this a man becomes free from sins. Vide Agni 205. 1-9, Gar. I. 123. 3-11, Pad. VI. 125. 29–82 that contain a very elaborate description of this vrata.
 
-nakṣatra one should observe for seven days nakta way; a golden image of Budha should be placed in a bell metal vessel with white garlands and gandha &c, and donated to a brāhmaṇa; Budha sharpens intellect and conveys real
+_Bhiṣmāṣṭamī_-on M. śu. 8; offer water and śrāddha every year to Bhīṣma who died a bachelor; he who does so becomes free from sins committed in one year and secures progeny; HK 628-29, VKK 503, TT 58, NS 221, SM 61. One whose father is alive also can offer water to Bhīṣma (SM 61 ). This tithi is probably based on Anuśāsanaparva 167, 28 ( Māghoyaṁ samanuprāpto ... tribhāgaśeṣah pakṣoyam śuklo bhavitumarhati). With great respect to Prof. P. C. SenGupta I must say that his interpretation of 'samanuprāpta' as 'samanupraviṣta' is quite wrong and unwarranted and it is not possible to accept his conclusion that Bhisma died on 8th of dark half of Māgha and not on 8th of bright half. Vide his paper in JASB vol. XX No. 1 ( Letters ) pp. 39-41 (1954). The Bhujabalanibandha p. 364 has two verses, which are quoted in TT, NS and other works ' शुक्लाष्टम्यां तु माघस्य दद्याद् भीष्माय यो जलम् । संवत्सरकृतं पापं तत्क्षणादेव नश्यति ॥ वैयाघ्रपद्य गोत्राय सांकृतिप्रवराय च । अपुत्राय ददाम्येतत्सलिलं भीष्मवर्मणे ॥'. Even brāhmaṇas were called upon to offer water to the noble kṣatriya warrior Bhīṣma.
 
-knowledge; HV II, 578 ( from Bhav. U.) Budhāṣtami-Begin when there is Wednesday on śu. 8; follow
-
-okabhakta way and donate on eight aṣṭamis respectively eight jars full of water with a gold piece inside and with different edibles at each aṣṭamī; then at end donate a golden image of Budha; HV I. 866-873 (from Bhav. U. 54. 1–59 ); stories of Aila Purūrayas and of Mithi and his daughter Urmila were to be heard at the time of each aṣtami. VKK ( 39-40 ) quotes three verses from RM on this vrata which are also quoted in Vratatattva p. 151. VR ( 256–265 ) deals
-
-with this vrata and its udyāpana. Buddhyavāpti-begin on the day after Cai, pūrṇimā; one month;
-
-worship of Nýsiṁha; homa with mustard every day; dinner to brāhmaṇas containing trimadhura and gift of gold on Vai.
-
-pūrṇimā; Vi. Dh. III. 206. 1-5. Bșhattapo-vrata-begin on Mārg. śu. 1 called Br̥hattapā; siya
-
-deity; for one year or 16 years; destroys sin even of brāhmaṇa murder; HK 105-106, PC 80; vide Bhav. U. 12
-
-for details. Brhad-gaurivrataron Bh. kr. 3 ( amanta reckoning) to be per
-
-formed when moon rises; only for women; a plant called Dorli or Ringaại ( in Marathi) should be brought together with its roots, water should be sprinkled over it when placed on an altar of sand; on seeing the moon rise the woman performer should bathe, should worship Varuṇa in a jar and
-
-358
-
-
-
-[ Soc. I, Ch XIII
-
-then Gauri with various upacūras; a thread should be put round one's neck in the name of Gauri; five years; VR 111-114 (from Bhay. U.), Vratārka folio 53 b-56 a (from
-
-Bhaviṣyottara. Both say it is well-known in Karpataka. Brahmakūrcavrata–(1) on K. kr. 14; fast and drink pañca
-
-gavya, the five ingredients of which (urine, dung, milk, curds, ghee ) are to be taken from cows of different colours; on next day worship gods and brāhmaṇas and then take food; all sins destroyed; HV II. 147 (from Bhav. U.); (2) fast on 14th and drink on pārṇima pañcagavya and then subsist on havisya food; for a year every month; HV II. 238 (from Vi. Dh.); (3) the same as No. 2 but twice every month on amāvāsyā and pārṇima; HV II. 937 (from
-
-Brah.). Brahmagāyatri-candrarohınī-vrata-KKV 417, HV II, 694 (from
-
-Pad.). No details. Brahmadvādaść-begin from P, śu. 12 when there is Jyeṣṭha
-
-nakṣatra; tithi; Viṣṇu deity; for one year every month worship Viṣṇu and observe fast on that day; in each month gift of different things such as ghee, rice and barley. Vi.
-
-Dh. III. 220. 1-6. Brahmaputrasnāna—bath in the Brahmaputrā river (also called
-
-Lauhitya ) on Cai. śu. 8; removes all sins, as, on that day all holy rivers and the sea are supposed to be present in that
-
-river. VKK 522 ( quoting Kālikā and Bhav. U. 77. 58–59.) Brahmavrata-(1) on any auspicious day; it is prakirṇaka;
-
-make a golden image of the brahmānda (universe); for three days one should donate sesame; worship Agni and make a gift of the image and sesame to a householder and his wife; performer reaches the world of Brahmā and is not born again; KKV 445–446 (27th Şastivrata) = HV II. 886 (from Pad.). Mat. 101. 46-48 has the same verses; (2) on 2nd honour Vedic student (brahmacārin ) with a dinner ; make an image of Brahmā and place it on a lotus leaf and offer worship with gandha &c.; homa with ghee and fuel
-
-sticks; HV I. 377 ( from Bhav.). Brahma-sāvitri- rata-on Bh. śu. 13th one should make a resolve
-
-to observe fast for three days; if unable, observe nakta on 13th, ayācita on 14th and fast on Paurṇamāst; worship golden, silver or clay images of Brahma and Sāvitrī; jāgara and utsara at night on pūrṇimā; donate next morning
-
-List of vratas
-
-359
-
-LY
-
-LIO
-
-images with dakśiṇā of gold; HV II. 258-272 (from Bhav.U.); it is just like the Vatasāvitrīvrata except the date and the
-
-story of Sāvitrī is set out at length here in HV. Brahmāvāpti-begin on 10th of su. in any month; tithivrata;
-
-fast on it and worship of ten gods (named) called Angirasaḥ;
-
-for a year; HV I. 966 (from Vi. Dh.). Brāhmunyāprāpti-begin on 1st to 4th tithis of Cai. śu.; worship
-
-in order of tithis images of four gods, Indra, Yama, Varuṇa and Kubera who are four forms of Vāsudeva with gandha &c.; homa; the garments to be offered on the four days should be red, yellow, dark and white; one year; performer secures heaven till end of world; HV II. 500-501 (from
-
-Vi. Dh.). It is a caturmūrti vrata. Brāhmanyārūpti-on Jy. paurnamāsĩ give dinner to brāhmaṇa
-
-and his wife and donate garments and honour them with gandha &c.; performer secures birth in brāhmaṇa-varpa for seven lives; HV II. 245 (from Prabhāsakhaṇḍa); KR
-
-278-279. Brāhmipratipad-lābha-vrata-begin on Cai. śu. 1; fast theroon;
-
-make a lotus of eight petals with coloured powders; on pericarp worship image of Brahmā; on the four main quarters from the east place the Rgveda and the other Vedas; on the four intermediate points from south-east place the Angas, Dharma-śāstras, Purāṇas and Nyāyavistara; he should worship these on 1st tithi of every month for a year and donate at end a cow; performer would be learned in Veda and if he performs for 12 years he would reach Brahma loka; Vi. Dh. III. 126. 1-12 of which verses 6-12 are q. by HV I. p. 343. The arrangement of works reminds one of
-
-Yāj. I. 3. Bhadrakālīnarami-fast on Cai. śu. 9 and worship Bhadrakāli
-
-with flowers &c., or on all 9th tithis of all months Bhadrakāli
-
-may be worshipped; NM 63, verses 762–63. Bhadrakālāpūjām-prescribed in RNP p. 438 for a king; the same
-
-as Bhadrakālivrata (2). Bhadrakālīvrata-(1) begin on 9th of K. śu.; fast on that day;
-
-Bhadrakāli ( or Bhavani ) deity; worship ber every month on 9th for a year; at year's end donate two garments to a brāhmaṇa; performer obtains what he desires such as freedom from disease, sons, fame; HV I. 960 (from Vi. Dh.
-
-2
-
-.
-
-UU
-
-360
-
-
-
-
-
-III. 175. 1-5); (2) on 9th of Āśv. su.; draw Bhadrakāli on the wall of a mansion or on a piece of cloth; worship her and her weapons and shield; observe fast on 9th and wor ship Bbadrakāli; one secures great prosperity and success; HV I. 960-62 ( from Vi. Dh. II. 158. 1-8), KR 350, VR
-
-337-338. Vide Brah. 181. 46-53 for Bhadrakāli and offer
-
-ings of wine and meat to her. Bhadracutuṣtayarrata-there are four Bhadras viz. three months
-
-(called Tripuskara or Tripuṣpa ) from 2nd of Phā. śu., three months (called Tri-puṣpaka ) from 2nd of Jy, śu , three months from Bh. śu. ( called Trirāma ) and three from 1st of Mārg. śu. ( called Viṣṇupada ); on first tithi he should eat by nakta way, on 2nd he should after bath offer tarpaṇa to gods, pitṛs and human beings and should not laugh nor talk till the moon rises and repeat the names Krṣṇa, Acyuta, Ananta, Hrṣikeśa on the four tithis respectively from 2nd to 5th; in evening offer arghya to moon, take his meal on bare ground or on a stone; for one year for all varṇas and women also; the performer secures fame, success and remembers his former births (jātismara); HV II. 383– 392 (from Bhay. U. 13. 1-100).
-
-Bhadravidhi-Sunday if on Bh. śu. 6th is called Bhadra; obserye
-
-nakta on that tithi or fast; mālati flowers to be offered and white sandal-wood, Vijaya-dhūpa, and pāyasa as naivedya in worship of the Sun at noon; it is a vāravrata; then dakṣinā to brābmana; performer goes to Bhānu-loka; KKV 12-13, HV II, 523-524 (calls it Bhadrāvidhi from Bhav.),
-
-KR 278.
-
-Bhadrāvrata--on 3rd of K. śu. a person should subsist by nakła
-
-method after taking in cow urine and yāvaka (food prepar ed from barley ); this should be continued for a year every month; at end donate a cow; he will dwell in world of Gauri
-
-for a kalpa; HV I. 483 (from Pad. ), KN 330. Bhadrāsťami-GK 116. Bhadrāsaplamī—when on 7th su. there is Hasta-nakṣatra, that
-
-tithi becomes Bhadrā; tithivrata; Sun deity; a person should follow from 4th to 7th tithis respectively ekabhakta, nakta, ayācita and fast; one should bathe the image with ghee, milk and sugarcane juice and offer upacāras and arrange near image various precious stones in the several directions; the performer goes to Sun's world and then to
-
-List of vratas
-
-361
-
-
-
-.
-
-the world of Brahmā; KKV 138-141, HV 1. 671-673 (from
-
-Bhav.), HK 625, PC 105. Bhadropavāsavrata--the same as Bhadra-catustayavrata. Bhartrdvādaśīvrata--on Cai. śu. 12; fast on 11th and worship of
-
-Viṣṇu on 12; every month different name of Viṣṇu out of 12 from Keśava to Dāmodara to be taken; one year; KR
-
-131-134 ( from Var.), KKV 339-340. Bhartsprūpti-urala-Nārada told this to a bevy of Apsarases
-
-who desired Nārāyaṇa should be their husband; on 12th of Vasanta su.; fast thereon and worship of Hari and Lakṣmi; silver images of both and nyāsa of the god of love under different names on the several limbs of the image ; next day gift of the images to brāhmaṇa: HV I. 1198-1200 (from
-
-Bhav.). Bhavānīyātrā-on Cai. śu. 8; 108 pradaksiṇās; jāgara; next day
-
-worship of Bhavānī; SmK 94, PC 109, VKD 43. Bhavānīvrata-(1) on 3rd a person should apply unguents in
-
-Pārvati temple to the image of Pārvati; for a year; at end donate a cow; HV I. 483 (from Pad.); (2) when for a year a man (or woman) observes a fast on each paurnamāsi and amāvāsyā and at year's end donates an image of Pārvati with all fragrant things, he secures the world of Bhavāni; HV II. 397 (from Lin.); (3) nakta in temple of Pārvati on 3rd; for a year; at end gift of cow; KKV 450 (from Mat.
-
-101. 77). Mat. reads' vitānakam'(canopy ). Bhāgyarksadvādaśi-on 12th tithi with Pūrvāphalgunī-nakṣatra
-
-a man should worship image of Harihara, half of the image represents Hara (Śiva) and the other half Hari; the result is same even if the tithi is dvādaśī or saptami and nakṣatra may be Pūrvāphalguni, Revati or Dhanisthā; he secures sons, kingdom &c.; KRV 352-354, HV I. 1175–76 (from Devīpurāṇa ); Pūrvāphalguni is called Bhāgya, as Bhaga is
-
-its presiding deity; 'Țksa 'means ' nakṣatra'. Bhādrapada-krtya-NM 71, verses 868-874 (about śu. only),
-
-KR 254-301, VKK 298–343, NS 123-144, KT 438-444,
-
-SmK 201-287, GK 24. Bhānuvrata-begin on 7th tithi: subsist by nakta that day, Sun
-
-deity; for one year; at end donate cow and gold; goes to sūryaloka; KKV 448 (quoting Mat. 101. 60), HVI, 786 (same verse from Pad.).
-
-. D. 46
-
-Lt
-
-362
-
-
-
-
-
-Bhānusaptamī—when 7th tithi falls on a Sunday it is so called;
-
-GK 610. Bhārabhūteśvara-yātrā-on Āṣ. pūrṇimā; worship of Bhārabhūte
-
-śvara in Kāśi; PC 284. Bhāskarapūjā-It is said that the sun should be worshipped as a
-
-form of Viṣṇu and that the sun is the right eye of Viṣṇu, that the sun should be worshipped in a maṇḍala resembling a chariot wheel and that the flowers offered to a sun image and later removed should not be worn by a person on his own body; TT 36, PC 104; Br. S. (57. 31-57 ) gives direc tions as to how the images of certain gods were to be made and verses 46-48 describe the image of Surya, one chara cteristic being that the body from the feet to chest should
-
-not be shown but covered with a jacket. Bhāskarapriyā-saptami—when the sun passes from one Zodiacal
-
-sign into another on śv. 7, then it is called mahājayā, is very dear to the Sun and bath, gifts, tapas, homa, worship of gods and pitṛs performed on that tithi yield merit a crore of times; K.V 416, VKK 35 (from Bhav.), TT 145
-
-(from Brah. ). Bhāskaravrata-fast on 6th (of ks. ?) and on 7th śrāddha with
-
-the words 'may the Sun be pleased '; tithivrata; Sun deity; performer freed from diseases and goes to heaven; HV I. 788
-
-(from Bhav.). Bhimadvādaśi-(1) It was first imparted to Bhima, one of the
-
-Pāndavas, by Vāsudeva and came to be known by his name; this was formerly called Kalyāpini. It is elaborately described in Mat. 69. 19-65 (which also occur in Pad. V. 23), most of which are q. by KKV 354-359 (from Mat.) and HV I. 1044-1049 (from Pad.); on 10th of M. śu. bath with ghee applied to the body and worship of Viṣṇu with the words (namo Nārāyapāya), the various limbs of Viṣṇu being honoured with different names (Kr̥ṣṇa, Dāmodara &c.), worship of Garuḍa, of Śiva, Gaṇeśa; total fast on 11th; on 12th bathe in a river and raise maṇḍapa in front of house; hang a jar full of water from a torana with a small hole at the bottom and take the drops on one's hand the whole night; homa through four priests learned in Rgveda, Rudra-japa by four Yajurvedins and sāmans to be sung by Sāmavedins; these twelve priests to be honoured with rings, garments &c.; on next tithi donate 13 cows;
-
-List of vratas
-
-363
-
-EVI
-
-after priests go he should say 'May Keśava be pleased, and Viṣṇu is the heart of Śiva and Śiva is the heart of Viṣṇu'; should listen to atihāsa and purāṇa; vide Gar. I. 127 for this; (2) on M. śu. 12; this was imparted by Pulastya to Bhima, king of Vidarbha and father of Damayanti wife of Nala: arrangements as in the preceding; performer freed from all sins; this vrata is superior to Vājapeya and
-
-Atirātra &c. HV. 1049–1056 ( from Bhav. U.). Bhimavrata-one who having fasted for a month donates at end
-
-a fine cow reaches the world of Viṣṇu; Mat. 101. 51 q. by
-
-KKV 446, HV II. 884 (from Pad. ). BhimaikādaśīM. śu. 11th joined with Puṣya or without it is
-
-very sacred and dear to Viṣṇu. Dhaumya describes to
-
-Bhima in Pad. VI. 239. 28 ff. Bhiṣmapañcaka--For five days from 11th tithi of K. śu.; per
-
-former bathes three times applying pañcāmsta, pañcagavya and water mixed with sandalwood paste; tarpana of pitṛs with yava, rice and sesame; 108 times repeat the mantra * om namo Vāsudevāyā' at worship and when performing homa offer sesame, yava and rice mixed with ghee with mantra of six letters' om namo Vispate'; this procedure to be followed for five days; on the 1st to 5th day the feet, knees, navel, shoulders and head of Hari should respectively be worshipped with lotuses, bilva leaves, bhrógāraka, (on 4th day ) būna, bilva and Jayā, Mālati; on 11th to 14th he should respectively partake of cow-dung, cow urine, milk and curds for purifying the body; then on 5th day performer to feast brāhmaṇas and give gifts; the performer's sins are all wiped out; HV II, 336-341 (from Nār. and Bhav. U., the first saying that Bhisma learnt it from Kr̥ṣṇa, while the latter makes Kr̥ṣṇa declare that he learnt it from Bhisma when the veteran hero was lying on his bed of arrows); Bhav. U. allows the performer to eat vegetables and the food of ascetics. KV 324 cites the last verse occurring in HV II. 34 from Bhav. U. Later medieval works like NS 204, SM 158-159, SmK 386 add (from Pad.) that arghya and water should be offered to Bhisma by men of all varpas and the tarpaṇa mantra is note-worthy Vaiyāghra-padya gotrāya Sāṅkrtyapravarāya cai Gangā-putrāya Bhīṣmaya pradāsyeham tilodakam 11 aputrāya dadamyetat salilam Bhismavarmaṇel'. These occur in BB p. 364 verses 1714-15 and the verse Vaiyāghra' occurs in RM (vide ABORI
-
-364
-
-
-
-
-
-vol. 36 p. 332 ) and in HK 628. By doing this a man becomes free from sins. Vide Agni 205. 1-9, Gar. I. 123. 3-11, Pad. VI. 125. 29–82 that contain a very elaborate
-
-description of this vrata. Bhiṣmūṣṭamī-on M. śu. 8; offer water and śrāddha every year
-
-to Bhīṣma who died a bachelor; he who does so becomes free from sins committed in one year and secures progeny; HK 628-29, VKK 503, TT 58, NS 221, SM 61. One whose father is alive also can offer water to Bhīṣma (SM 61 ). This tithi is probably based on Anuśāsanaparva 167, 28 ( Māgho yam samanuprāpto ... tribhāgasosah pakṣoyam śuklo bhavi tumarhati). With great respect to Prof. P. C. SenGupta I must say that his interpretation of 'samanuprāpta' as 'samanupraviṣta' is quite wrong and unwarranted and it is not possible to accept his conclusion that Bhisma died on 8th of dark half of Māgha and not on 8th of bright half. Vide his paper in JASB vol. XX No. 1 ( Letters ) pp. 39-41 (1954). The Bhujabalanibandha p. 364 has two verses, which are quoted in TT, NS and other works ' ia माघस्य दद्याद् भीष्माय यो जलम् । संवत्सरकृतं पापं तत्क्षणादेव नश्यति ॥ वैयाघ्रपद्य 71714 algasare ai 3197114 Gwards Hallo Il'. Even brāhmaṇas were called upon to offer water to the noble
-
-ksatriya warrior Bhīṣma. Bhuvaneśvara-yātrās-The fourteen yātrās of Bhuvaneśvara are
+Bhuvaneśvara-yātrās-The fourteen yātrās of Bhuvaneśvara are
 
 enumerated and described (such as Prathamāṣṭami, Prāvā
 
@@ -2268,7 +2059,7 @@ contemplate on Viṣṇu, should avoid all idle talk, give up desire for wealth,
 
 (from Viṣṇurahasya ). Māsarkṣapaurṇamāsī-vrała-Begin on K. śu. 15th; performer
 
-to subsist by nakta way; on a circle made with salt and pasted with sandalwood paste, he should worship the Moon along with ton nakṣatras i. o. in K. when combined with Kșttikā and Rohiṇi, in Mārg. with Mr̥gaśiras and Ardrā and so on up to Aśv.; women whose husbands are alive should be honoured by giving them jaggery, rich food, ghee, milk &c.; then he should himself eat havisya food; at end he should donate garment coloured with gold; Vi. Dh. III.
+to subsist by nakta way; on a circle made with salt and pasted with sandalwood paste, he should worship the Moon along with ton nakṣatras i. o. in K. when combined with Kșttikā and Rohiṇi, in Mārg. with Mr̥gaśiras and Ardrā and so on up to Aśv.; women whose husbands are alive should be honoured by giving them jaggery, rich food, ghee, milk &c.; then he should himself eat haviṣya food; at end he should donate garment coloured with gold; Vi. Dh. III.
 
 192.1-15, NM p. 47 ( verses 573-579 ). Mitrasaptamī—the 7th of Mārg. su, is so called; tithivrata;
 
@@ -2312,7 +2103,7 @@ mixed with linseed. HV I. 358-59, SmK 146. Meghapālītstīyā-On Āśv. śu. 3 
 
 the creeper called Meghapāli, that has leaves like betelnut plant and that grows in gardens, hills and rural paths, with fruits of various kinds and the sprouts of seven dhānyas; destroys all sins, particularly of traders with false weights
 
-and measures; HV I 416-417 ( from Bhav. U. 17. 1-14). Maunavrata-41) after Śrāvana ends (acc. to pārṇimānta
+and measures; HV I 416-417 ( from Bhav. U. 17. 1-14). Maunavrata-41) after Śrāvana ends (acc. to pūrṇimānta
 
 reckoning ) from Bh. 1st for 16 days; performer should take Dūrvā tendrils made into 16 knots and place on the right hand ( on left hand of women); on 16th day silence to be observed in bringing water, grinding wheat, preparing naivedya therefrom and at time of eating; worship of Śiva by bathing image or liṅga with water, milk, curds, ghee and
 
@@ -2328,7 +2119,7 @@ reaches Śivaloka; HV II. 879-883 ( from Śivadharma). Yakṣakardama-an unguent
 
 five fragrant substances; vide p. 38, note 88 above. Yajñasaptamžmon su. 7th when there is an eolipge and specially
 
-when there is saṅkrānti, the performer should eat once havisya food, bow to Varuṇa, should lie down on a bed of darbha grass on the ground; in the morning next day he should in the beginning as well as at the end sacrifice to Varuṇa. An elaborate procedure is prescribed; on M. 7th the sacrifice is addressed to Varuṇa, on Phā. 7th to Sūrya, on Cai. 7th to Amśumālin (a name of the Sun ) and so on under different names of the Sun till Pauṣa; at end of a year a golden chariot to which seven horses are yoked and in the midst of which a golden image of the Sun is placed and is surrounded by twelve brāhmaṇas representing the twelve names of the Sun in the twelve months is to be honoured and present of the chariot and a cow to be given to ūcārya; a poor man should make a copper chariot; the performer becomes a king of wide regions; KKV 107-112, HV I. 757-760 ( from Bhav. I. 50. 1-42). HV explains that
+when there is saṅkrānti, the performer should eat once haviṣya food, bow to Varuṇa, should lie down on a bed of darbha grass on the ground; in the morning next day he should in the beginning as well as at the end sacrifice to Varuṇa. An elaborate procedure is prescribed; on M. 7th the sacrifice is addressed to Varuṇa, on Phā. 7th to Sūrya, on Cai. 7th to Amśumālin (a name of the Sun ) and so on under different names of the Sun till Pauṣa; at end of a year a golden chariot to which seven horses are yoked and in the midst of which a golden image of the Sun is placed and is surrounded by twelve brāhmaṇas representing the twelve names of the Sun in the twelve months is to be honoured and present of the chariot and a cow to be given to ūcārya; a poor man should make a copper chariot; the performer becomes a king of wide regions; KKV 107-112, HV I. 757-760 ( from Bhav. I. 50. 1-42). HV explains that
 
 Varuṇa means the Sun here. Fumacaturthi-Worship Yama on 4th tithi falling on Saturday
 
@@ -2352,13 +2143,13 @@ SmK 368. Yamadritiyā-Vide above pp. 207-208. Yamadvitīyāyātrū-one of the 14
 
 GK 193. Yamavrata-(1) He who fasts on 5th, 6th, 8th or 14th of su.
 
-and gives dinner to brāhmaṇas becomes free from disease and secures handsome form ; KKV 389 = HV II. 377 (from MB.); (2) fasting on 14th tithi of kr. one may give seven añjalis of water mixed with sesame to each of the names of Yama (viz. Yama, Dharmarāja, Mrtyu, Antaka, Vaivasva ta, Kāla and Sarvabhūtaksaya); one is freed from all sins; HV II. 151 (from Kūrma); (3) bath on 14th of dark half of K, and tarpanı to Yama; offer añjalis of water to Yama's names (given under 2 ) with the addition of a few more ( such as Citra, Citragupta) and donate a vessel full of sesame and gold to a brāhmaṇa; the performer would not have to lament over death; HV II. 151; (4) If king Yama is worshipped on 10th tithi, that removes all diseases; HV I. 982 (from Bhav.); (5) when the 4th tithi falls on Saturday and is joined to Bharaṇi-nakṣatra, donate a ho buffalo and gold for securing Yama's favour; AK folio 357
+and gives dinner to brāhmaṇas becomes free from disease and secures handsome form ; KKV 389 = HV II. 377 (from MB.); (2) fasting on 14th tithi of kr. one may give seven añjalis of water mixed with sesame to each of the names of Yama (viz. Yama, Dharmarāja, Mrtyu, Antaka, Vaivasva ta, Kāla and Sarvabhūtaksaya); one is freed from all sins; HV II. 151 (from Kūrma); (3) bath on 14th of dark half of K, and tarpaṇı to Yama; offer añjalis of water to Yama's names (given under 2 ) with the addition of a few more ( such as Citra, Citragupta) and donate a vessel full of sesame and gold to a brāhmaṇa; the performer would not have to lament over death; HV II. 151; (4) If king Yama is worshipped on 10th tithi, that removes all diseases; HV I. 982 (from Bhav.); (5) when the 4th tithi falls on Saturday and is joined to Bharaṇi-nakṣatra, donate a ho buffalo and gold for securing Yama's favour; AK folio 357
 
 (from Kūrma). Yamādarśana-trayodasi-on 13th of Mārg. when it falls on an
 
 auspicious weekday (except Sunday and Tuesday) in the forenoon thirteen brāhmaṇas were to be invited, and given sesame oil to rub their bodies with and bathed with warm water and treated to a sumptuous dinner; this should be done for a year every month; performer never sees the face
 
-of Yama; HV II. 9-14 ( from Bhav. U.), AK folio 864. Yamunāsnāna-tarpanamwith three handfuls of water mixed
+of Yama; HV II. 9-14 ( from Bhav. U.), AK folio 864. Yamunāsnāna-tarpaṇamwith three handfuls of water mixed
 
 with sesame tarpaṇa of Yama under different names stand
 
@@ -2496,7 +2287,7 @@ List of vratas
 
 viz. salt, jaggery, tavarāja ( milk ?), honey, pānaka ( spicy beverage), jiraka, milk, curds, ghee, marjikā (Rasālā or Sikhariṇi), dhānyaka (coriander), sugar; at end of each month donate a vessel full of the thing left off in that month and one of the edibles specified; at end of year donate a golden image of Gauri ( as big as the thumb) studded with ratnas; reward is freedom from sins and sorrow and disease; KKV 66-69, HV II. 461-465 (from Pad. V. 22. 105–135), KR 499–503 ( same verses from Mat. 63. 1-29 ). Rasālā was prepared from curds and was somewhat like · śrīkhaṇḍa' of
 
-modern Mahārāstra ( from the quotations in KR 501 ). Rākhi-pārṇimāmon Sr. śu. 15. See above pp. 127-128 on rakṣā.
+modern Mahārāstra ( from the quotations in KR 501 ). Rākhi-pūrṇimāmon Sr. śu. 15. See above pp. 127-128 on rakṣā.
 
 bandhana, Rāghavadrādasi-on Jy. śu. 12th; golden images of Rāma and
 
@@ -2612,7 +2403,7 @@ on 14th of K. and worship with bilva leaves; five roṭakas (wheat bread or cake
 
 Vratārka, folios 30b-32b. Also called Bilvarotaka-vrata. Rohiṇicandra-sayana-Mat. 57 describes it at great length
 
-( verses 1-28 ) and Pad. (IV. 24. 101-130 ) has also almost the same verses; here Viṣṇu is worshipped under the names of the moon; when on a pārṇimā there is Monday or on pārṇimā there is Rohiṇi-pakṣatra, one should bathe with pañcagavya and mustard and should recite 108 times the mantra 'āpyāyasva'(R̥g. I. 91. 16 addressed to Soma) and a śūdra should say 'bow to Soma, bow to Viṣṇu '; he should worship Viṣṇu with flowers and fruits and recite the names of Soma and address Rohiṇi, dear wife of Soma; he should
+( verses 1-28 ) and Pad. (IV. 24. 101-130 ) has also almost the same verses; here Viṣṇu is worshipped under the names of the moon; when on a pūrṇimā there is Monday or on pūrṇimā there is Rohiṇi-pakṣatra, one should bathe with pañcagavya and mustard and should recite 108 times the mantra 'āpyāyasva'(R̥g. I. 91. 16 addressed to Soma) and a śūdra should say 'bow to Soma, bow to Viṣṇu '; he should worship Viṣṇu with flowers and fruits and recite the names of Soma and address Rohiṇi, dear wife of Soma; he should
 
 396
 
@@ -2654,7 +2445,7 @@ devā'( Rg I. 22. 16-21 ), Sm K 407-408. Lakṣapradakṣiṇārrata (one hundre
 
 tions )-begin on the start of cāturmāsya and finish on K.
 
-pārṇimā; Viṣṇu deity; SmK 406-407. Lakṣavartivrula—begin in K., Vai., M., the best month being
+pūrṇimā; Viṣṇu deity; SmK 406-407. Lakṣavartivrula—begin in K., Vai., M., the best month being
 
 Vai. and finish in three months on a pūrṇimā; every day waving lights before Viṣṇu and Lakṣmi, Brahma and Sāvitrī, Śiva and Umā with a thousand wicks; SmK 410-411,
 
@@ -2668,7 +2459,7 @@ charm, wealth, long life, fame; HV I. 826-829 ( from Mat.). Lakseśvarī-vrati.-
 
 472-176, TT 186–87, NS 200. Lakṣminārāyanavrata--on Phā. Pūrṇimā; tithi; worship of
 
-Nārāyaṇa and Lakṣmi, for one year, divided into three periods of four months each on every pūrpimā; in four months from Āṣ. employ the name Sridhara and Sri and in 4 months from K. the name Kośava and Bhūti; at night
+Nārāyaṇa and Lakṣmi, for one year, divided into three periods of four months each on every pūrṇimā; in four months from Āṣ. employ the name Sridhara and Sri and in 4 months from K. the name Kośava and Bhūti; at night
 
 398
 
@@ -2830,7 +2621,7 @@ List of vratas
 
 Vardhāpanavidhi-(procedure of birthday ceremony and festival).
 
-In the case of a child this was done every month on the tithi of birth and in the case of a king it was done every year; sixteen goddesses (such as Kumudā, Mādhavi, Gaurī, Rudrāṇī, Pārvati) should be drawn with indigo or saffron with the Sun in the middle of a circle, Vedic verses should be loudly recited and a festival held with loud music and the goddesses should be worshipped after bathing the child and 16 vessels of wicker-work filled with rich materials, edibles, flowers, fruits &c. should be donated in honour of each of the sixteen goddesses and gifts should be made to brāhmaṇas and women whose husbands are alive with the prayer' May the goddesses Kumudā and others confer on my child health, happiness and increase his life'. The parents may then have dinner along with their relatives; in the case of a king an offering (havis ) was made to Indra and the Lokapālas and Vedic verses such as R̥g. VI. 47. 11, X. 161. 4 were recited; HV II. 889–892 (from Atharyaṇa
+In the case of a child this was done every month on the tithi of birth and in the case of a king it was done every year; sixteen goddesses (such as Kumudā, Mādhavi, Gaurī, Rudrāṇī, Pārvati) should be drawn with indigo or saffron with the Sun in the middle of a circle, Vedic verses should be loudly recited and a festival held with loud music and the goddesses should be worshipped after bathing the child and 16 vessels of wicker-work filled with rich materials, edibles, flowers, fruits &c. should be donated in honour of each of the sixteen goddesses and gifts should be made to brāhmaṇas and women whose husbands are alive with the prayer' May the goddesses Kumudā and others confer on my child health, happiness and increase his life'. The parents may then have dinner along with their relatives; in the case of a king an offering (haviṣ ) was made to Indra and the Lokapālas and Vedic verses such as R̥g. VI. 47. 11, X. 161. 4 were recited; HV II. 889–892 (from Atharyaṇa
 
 gopathabrāhmaṇa and Skanda). Varṣavrata--begin on 9th of Cai. śu. ; tithivrata ; worship of the
 
@@ -2890,7 +2681,7 @@ highest goal; HV I. 791 ( half a verse ); (2) begin on 14th tithi of Jy. śu.; t
 
 570, HV II. 520-592, HK 517-521, KR 593-610, SmK 549. 588. Some works like Vratarka deal with vratas on Sunday,
 
-Monday and Tuesday alone. Vāralaksmīvrata-on a Friday nearest to śr. pārṇimā or on 14th
+Monday and Tuesday alone. Vāralaksmīvrata-on a Friday nearest to śr. pūrṇimā or on 14th
 
 of St. śu. ; Vāravrata; Lakṣmi deity; Vratarka 358b-362b,
 
@@ -3092,7 +2883,7 @@ Vrsabha, Simha, Vrścika and Kumbha; vide KN 332 and
 
 under Saṅkrānti above p. 213. Viṣṇupadavrata-begin on Pūrvāsādha-nakṣatra in Āṣāḍha;
 
-worship the three steps of Viṣṇu placed in milk or ghee; performer to subsist on sacrificial food (havisya ) at night alone; in Srāvana on Uttarāṣāḍhā worship of Govinda and Viṣṇu's three steps, gift and food being different; in Bh. on Pūrvāṣāḍhā, in Phā. on Pūrvāphalguni and in Cai. on Uttarāphalguni similar worship; performer secures health, prosperity and goes to Viṣṇuloka; HV II. 665-667 (from Vi. Dh.).
+worship the three steps of Viṣṇu placed in milk or ghee; performer to subsist on sacrificial food (haviṣya ) at night alone; in Srāvana on Uttarāṣāḍhā worship of Govinda and Viṣṇu's three steps, gift and food being different; in Bh. on Pūrvāṣāḍhā, in Phā. on Pūrvāphalguni and in Cai. on Uttarāphalguni similar worship; performer secures health, prosperity and goes to Viṣṇuloka; HV II. 665-667 (from Vi. Dh.).
 
 Viṣṇuprabodha-Rising of Viṣṇu from sleep in K. Vide pp. 109
 
@@ -3112,7 +2903,7 @@ loka; KKV 343–344, HV I. 1203–4 (from Bhav.). Viṇṇı:lakṣavartivrata-c
 
 Viṣṇuvrata-(1) worship of Viṣṇu image drawn on a lotus;
 
-this vrata has the same procedure as Vaiśvānaravrata; HV I. 1177 ( from Bhav.); (2) fast on twelve dvādaśis (in a year) and gift of cow, calf and gold; performer secures highest goal; HV I. 1202 (from Pad.), VKK 70; (3) begin on 2nd tithi of P. śu.; for a year divided into two periods of six months each; the performer bathes on the four days from 2nd tithi with water respectively mixed with mustard, sesame, vacā (plant with aromatic root) and sarrau ṣadhis; the names to be worshipped on those four days are respectively Kr̥ṣṇa, Acyuta, Hrṣikeśa and Keśava; arghya to be offered to the crescent of the moon on the four tithis respectively as Sasin, Candra, Saśānka and Niśāpati; performer to eat once at night while moonlight lasts; dakṣiṇā to be given on 5th; this was performed by ancient kings (Dilipa, Duṣyanta), sages (Marici, Cyavana ) and high-born ladies (Deyaki, Sāvitri, Subhadrā); result-removal of sins and securing desired objects; Agni 177. 15–20, HV II. 458-460 (from Vi. Dh.); (4) early morning bath for four months from Aṣ., gift on K. pārṇimā of a cow and dinner to brāhmaṇas; reaches Viṣṇuloka; KKV 444 (quot ing Mat. 101. 37 ), KR 219; (5) on Cai. śu, 4th observe fast and worship the soveral groups of four forms in which Hari appears, viz. Nara, Nārāyaṇa, Haya and Hassa; or as Mitra, Varuṇa, Indra and Viṣṇu, the first two being Sādhyas and the latter two siddhas; perform for twelve years; he finds the way to mokṣı and becomes equal to the
+this vrata has the same procedure as Vaiśvānaravrata; HV I. 1177 ( from Bhav.); (2) fast on twelve dvādaśis (in a year) and gift of cow, calf and gold; performer secures highest goal; HV I. 1202 (from Pad.), VKK 70; (3) begin on 2nd tithi of P. śu.; for a year divided into two periods of six months each; the performer bathes on the four days from 2nd tithi with water respectively mixed with mustard, sesame, vacā (plant with aromatic root) and sarrau ṣadhis; the names to be worshipped on those four days are respectively Kr̥ṣṇa, Acyuta, Hrṣikeśa and Keśava; arghya to be offered to the crescent of the moon on the four tithis respectively as Sasin, Candra, Saśānka and Niśāpati; performer to eat once at night while moonlight lasts; dakṣiṇā to be given on 5th; this was performed by ancient kings (Dilipa, Duṣyanta), sages (Marici, Cyavana ) and high-born ladies (Deyaki, Sāvitri, Subhadrā); result-removal of sins and securing desired objects; Agni 177. 15–20, HV II. 458-460 (from Vi. Dh.); (4) early morning bath for four months from Aṣ., gift on K. pūrṇimā of a cow and dinner to brāhmaṇas; reaches Viṣṇuloka; KKV 444 (quot ing Mat. 101. 37 ), KR 219; (5) on Cai. śu, 4th observe fast and worship the soveral groups of four forms in which Hari appears, viz. Nara, Nārāyaṇa, Haya and Hassa; or as Mitra, Varuṇa, Indra and Viṣṇu, the first two being Sādhyas and the latter two siddhas; perform for twelve years; he finds the way to mokṣı and becomes equal to the
 
 Highest; Vi. Dh. III. 151. 1-8. Viṣṇusankaravrata—This is to follow the procedure of Umāmabe
 
@@ -3358,7 +3149,7 @@ IEI
 
 
 
-Narasiṁha and establish an image showing all the features of that avatāra and decked with numerous flowers of various kinds and bilva fruit and sesame &c.; worship image with various upacāras, dance, songs and music; place in front of image a jar full of water and eight other jars in eight directions; elaborate procedure of homa with sesame, ghee &c. and also tarpana and japa. This vrata removes all distress, diseases and all sins; HV I. 465-171 (from Gar.); (2) begin on 5th of K. śu.: give up sour things for a year and worship at night image of Hari sleeping on Sesa and with one foot on lap of Lakṣmi; worship limbs from feet to head associating each limb with one of the eight nāgas (Ananta &c. mentioned on p. 124 above) and bathe nāgas ( images ) with milk; homa with sesame and milk; at end donate golden snake, cow, and gold; this vrata makes for freedom from danger of snake bite; KV 96-97 and HV I.
+Narasiṁha and establish an image showing all the features of that avatāra and decked with numerous flowers of various kinds and bilva fruit and sesame &c.; worship image with various upacāras, dance, songs and music; place in front of image a jar full of water and eight other jars in eight directions; elaborate procedure of homa with sesame, ghee &c. and also tarpaṇa and japa. This vrata removes all distress, diseases and all sins; HV I. 465-171 (from Gar.); (2) begin on 5th of K. śu.: give up sour things for a year and worship at night image of Hari sleeping on Sesa and with one foot on lap of Lakṣmi; worship limbs from feet to head associating each limb with one of the eight nāgas (Ananta &c. mentioned on p. 124 above) and bathe nāgas ( images ) with milk; homa with sesame and milk; at end donate golden snake, cow, and gold; this vrata makes for freedom from danger of snake bite; KV 96-97 and HV I.
 
 556-557 (both quote from Var. 60.1-8). śāmbhasāyaṇīvrata-a nakṣatravrata; Acyuta deity; for seven
 
@@ -3422,11 +3213,11 @@ with white full-blown lotuses and bow to it; a small liṅga of the size of the 
 
 dharmottara ). Śivavrata-(1) For four months from Āṣ. pūrṇimā give up
 
-paring of nails and egg-fruit; donate on K. pūrpimā a golden jar filled with ghee and honey; Mat. 101. 11-12q. by KKV 440–441; (2) from Mārg. to K. worship Śiva, offer before Siya and donate in each month in order the following things made of flour, viz, horse, elephant, chariot, herd of eleven bulls, a moon-lit. (or camphor ) house with slaves and slave girls and household gear, seven plates full of paddy, two hundred fruits and guggulu, a maṇḍala with offerings consisting of various edibles and pictures, a vehicle made of flowers, guggulu dhūpa and pine and bilva seeds and ghee and aguru burnt throughout Bh. month, vessel made of arka leaves filled with milk and ghee (for entire month of Āśv.), a vessel filled with sugarcane juice and covered with cloth; at end of year treat Śiva devotees to food and drink and donate gold and clothes; HV II. 819-821 (from Kālottara); (3) on 14th or 8th of both pakṣas or on pūrṇimā from month of P. to Mārg. special worship to be offered viz. as naivedya a prastha of yāvaka, candid sugar with milk and ghee, an image of kapilā cow made of barley flour of the height of one vitasti with a bull and feed eleven brāhmapas, flour rhinoceros in M., ruddy goose in Phā. ,List of vratas
+paring of nails and egg-fruit; donate on K. pūrṇimā a golden jar filled with ghee and honey; Mat. 101. 11-12q. by KKV 440–441; (2) from Mārg. to K. worship Śiva, offer before Siya and donate in each month in order the following things made of flour, viz, horse, elephant, chariot, herd of eleven bulls, a moon-lit. (or camphor ) house with slaves and slave girls and household gear, seven plates full of paddy, two hundred fruits and guggulu, a maṇḍala with offerings consisting of various edibles and pictures, a vehicle made of flowers, guggulu dhūpa and pine and bilva seeds and ghee and aguru burnt throughout Bh. month, vessel made of arka leaves filled with milk and ghee (for entire month of Āśv.), a vessel filled with sugarcane juice and covered with cloth; at end of year treat Śiva devotees to food and drink and donate gold and clothes; HV II. 819-821 (from Kālottara); (3) on 14th or 8th of both pakṣas or on pūrṇimā from month of P. to Mārg. special worship to be offered viz. as naivedya a prastha of yāvaka, candid sugar with milk and ghee, an image of kapilā cow made of barley flour of the height of one vitasti with a bull and feed eleven brāhmapas, flour rhinoceros in M., ruddy goose in Phā. ,List of vratas
 
 427
 
-Śiva image of flour in Cai., and so on different articles made of flour in the other months; one year; HV II, 398-400 (from Kālottara ); ( 4 ) on 8th and 14th of both pakṣas fast and worship of Śiva in afternoon; japa and homa; honour guru; drink three culukas (hollowed hand) of pañcagavya; the next day subsist on havisya food; observe for whole of life; three male ancestors dwell in Śivaloka; HV II, 343 (from Kālottara ); (5) begin on P. and subsist by nakta way on wheat, rice and milk only; on 8th of both pakṣas fast and sleep on the ground and bathe Rudra with ghee and on pūrṇimā; this be carried on for a year up to Mārg. with different food in each month and different offering to Rudra; Liṅgapurāṇa 83, 13-54; (6) from one ayana to another ( i. e. for six months ) give flowers and ghee; at end donate flowers and feed brāhmaṇa with pāyasa and ghee and donate ghrtadhenu; confers wealth and health; KR 219 (from Agni);(7) give up paring of nails from Āṣ. pūrṇimā to K. pūrpimā and at end donate a jar of honey and ghee with gold; performer goes to Rudraloka; KR 219–220,
+Śiva image of flour in Cai., and so on different articles made of flour in the other months; one year; HV II, 398-400 (from Kālottara ); ( 4 ) on 8th and 14th of both pakṣas fast and worship of Śiva in afternoon; japa and homa; honour guru; drink three culukas (hollowed hand) of pañcagavya; the next day subsist on haviṣya food; observe for whole of life; three male ancestors dwell in Śivaloka; HV II, 343 (from Kālottara ); (5) begin on P. and subsist by nakta way on wheat, rice and milk only; on 8th of both pakṣas fast and sleep on the ground and bathe Rudra with ghee and on pūrṇimā; this be carried on for a year up to Mārg. with different food in each month and different offering to Rudra; Liṅgapurāṇa 83, 13-54; (6) from one ayana to another ( i. e. for six months ) give flowers and ghee; at end donate flowers and feed brāhmaṇa with pāyasa and ghee and donate ghrtadhenu; confers wealth and health; KR 219 (from Agni);(7) give up paring of nails from Āṣ. pūrṇimā to K. pūrṇimā and at end donate a jar of honey and ghee with gold; performer goes to Rudraloka; KR 219–220,
 
 VKK 292. sivavrate ṣu pūjā-VR (pp. 57-61) gives the procedure of worship
 
@@ -3442,7 +3233,7 @@ Gaṇeśa deity; HV I. 512-513 ( from Bhav. I. 31. 1-5). divopāsanavrata-ron 8t
 
 should take no food and should worship Śiva; for one year; he reaps the same merit as the performer of sattra does; KKV 385-386, HV II. 397 (calls it saivopavāsavrata ).
 
-For Sattra, vide H. of Dh. vol. II. p. 1239. Śivapavitravrata-on Āṣ. pārṇimā worship of Śiva, giving sacred
+For Sattra, vide H. of Dh. vol. II. p. 1239. Śivapavitravrata-on Āṣ. pūrṇimā worship of Śiva, giving sacred
 
 thread to Śiva and dinner to Śiva devotees; again on K. pūrṇimā worship Śiva, give to ascetics garments and
 
@@ -3468,7 +3259,7 @@ ing Mat. 101. 38–39; (2) on 3rd eat food not cooked on or in fire ; ( probably
 
 vrata ; Silavrata, acc. to Mat. 101. 38, is different. silavāptivrata-worship for a month after Āgrahāyani pūrṇimā
 
-(i. e. Mārg. pūrṇimā ) of Varāha ( incarnation of Viṣṇu); bathe the image of Varāha with ghee and offer ghee in Agni, make ghee as naivedya and donate ghsta; on P. pārṇimā and two days prior to it observe fast and honour a brāhmaṇa with gift of a vessel full of ghee and gold; performer secures sila ( character, moral conduct); Vi. Dh. III, 208. 1-5 q. by HV II. 786-787.
+(i. e. Mārg. pūrṇimā ) of Varāha ( incarnation of Viṣṇu); bathe the image of Varāha with ghee and offer ghee in Agni, make ghee as naivedya and donate ghsta; on P. pūrṇimā and two days prior to it observe fast and honour a brāhmaṇa with gift of a vessel full of ghee and gold; performer secures sila ( character, moral conduct); Vi. Dh. III, 208. 1-5 q. by HV II. 786-787.
 
 Sukravrala~When Friday and Jyeṣṭhā-nakṣatra coincide, one
 
@@ -3768,7 +3559,7 @@ viz. Kumudā, Mādhavi, Gauri, Bhavāni, Pārvati, Umā, Ambikā; dinner for sev
 
 Samudra-vrata-begin from Cai. śu. 1st; every day for seven
 
-days; worship with salt, milk, ghee, whey, wine mixed with water, sugarcane juice and sweet curds; performer to eat at night havisya food; homa with ghee; for a year; at and donate a milch cow; king becomes supreme on the whole earth; one secures also health, wealth and heaven. HVII. 464-65 (from Vi. Dh. III. 160.1-7). The oceans are some times said to be seven, as in Vāpu 49. 123, Kūrma I 45. 4,
+days; worship with salt, milk, ghee, whey, wine mixed with water, sugarcane juice and sweet curds; performer to eat at night haviṣya food; homa with ghee; for a year; at and donate a milch cow; king becomes supreme on the whole earth; one secures also health, wealth and heaven. HVII. 464-65 (from Vi. Dh. III. 160.1-7). The oceans are some times said to be seven, as in Vāpu 49. 123, Kūrma I 45. 4,
 
 List of vratas
 
@@ -4140,7 +3931,7 @@ and donate white garments, sandals, blanket, umbrella, water and a cup to one wh
 
 (from Bhav.). Saugandhyavrata-this is a ștuvrata; Śiva and Keśava deities;
 
-give up use of flowers in Hemanta and Sisira and of three kinds of pattras ( fragrant substances) on Phā. pūrpimā and donate some gold with the words 'May Śiva and Keśava
+give up use of flowers in Hemanta and Sisira and of three kinds of pattras ( fragrant substances) on Phā. pūrṇimā and donate some gold with the words 'May Śiva and Keśava
 
 be pleased'; HV II. 860. Saubhāgyatstiyāvrata-41) on 3rd tithi of Phā. su. observe nakta
 
@@ -4178,7 +3969,7 @@ vrata; Umā deity; fast that day; for a year; in each month different name of Um
 
 4th ( and not on 3rd mixed with and ). Saubhāgyūrāptitrata-This is a māsavrata; Kr̥ṣṇa deity ; begin
 
-on the 1st tithi after Māgha pūrṇimā (by pūrṇimānta reckoning ); worship image of Kr̥ṣṇa or his picture on a strip of cloth; performer to bathe with water scented with priyangu ( panic seed or Italian millet ), offer caru ( boiled rice ) mixed with priyangu and homa with the same; for a month; on Phā. pārṇimā after three days' fast donate two garments dyed with saffron, a vessel full of honey &c.; this confers saubhāgya and beauty; HV II. 799 (from Vi. Dh.
+on the 1st tithi after Māgha pūrṇimā (by pūrṇimānta reckoning ); worship image of Kr̥ṣṇa or his picture on a strip of cloth; performer to bathe with water scented with priyangu ( panic seed or Italian millet ), offer caru ( boiled rice ) mixed with priyangu and homa with the same; for a month; on Phā. pūrṇimā after three days' fast donate two garments dyed with saffron, a vessel full of honey &c.; this confers saubhāgya and beauty; HV II. 799 (from Vi. Dh.
 
 III, 204, 1-5). Saubhāgyūṣtaka-Mat. ( 60. 8-9) provides that eight things are
 
@@ -4254,7 +4045,7 @@ it is prevalent in Karnataka country and is based on usage). Svastikavrata-from 
 
 men and women; said to be well-known in Karnataka ; draw svastikas in five colours (blue &c. ), and they are to be presented to Viṣṇu; worship of Viṣṇu in temple or on land; Vratarka folios 3565-358 from Bhav. U (questions its
 
-authoritativeness ) Hamsavrata-bathe with recitation of Puruṣasūkta; tarpana
+authoritativeness ) Hamsavrata-bathe with recitation of Puruṣasūkta; tarpaṇa
 
 and japa with same; worship Janardana called Hamsa in
 
