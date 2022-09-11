@@ -1605,7 +1605,7 @@ _Bhrātr̥dvitiya_--on K. śu. 2; it is also called Yamadvitiyā because in anci
 
 _Maṅgala_--Acc. to Atharvaṇapariśiṣṭa q. by HV II, 626 brāhmaṇa, cow, fire, land, mustard, clarified butter, śami, grains of rice and barley are eight auspicious things. Droṇaparva 127. 14 speaks of eight maṅgalas; Droṇa 82, 20-22 contains a much longer list. Vā 14. 36-37 enumerate several things as auspicious which should be touched when going out of one's house viz. dūrvā, clarified butter, curds, jar full of water, cow with calf, bull, gold, clay, cow dung, svastika, akṣata grains, oil, honey, brāhmaṇa maidens, white flowers, śami, fire, Sun's disc, sandalwood and aśvattha tree (q. by Sm. C. I. p. 168) Vide Parāśara XII. 47, Viṣṇudharmottara II. 163. 18 ff. for other lists of maṅgala objects.
 
-Maṅgala-caṇḍikāpūjā_- VKK (552-558 ) gives an elaborate procedure ; Maṅgalacaṇḍikā is called Lalitakāntā; the mantra (i.e. Lalitā-gāyatri) for her worship is : Nārāyaṇyai vidmahe tvām Caṇḍikāyai tu dhimahi | tan-no Lalita kānteti tataḥ paścāt pracodayāt II); worship on 8th and 9th tithis; she may be worshipped on a piece of cloth or as an image or on a jar; whoever worships her on Tuesday secures desired objects. Vide TT 41 also.
+Maṅgala-caṇḍikāpūjā_- VKK (552-558 ) gives an elaborate procedure ; Maṅgalacaṇḍikā is called Lalitakāntā; the mantra (i.e. Lalitā-gāyatri) for her worship is : Nārāyaṇyai vidmahe tvām Caṇḍikāyai tu dhimahi । tan-no Lalita kānteti tataḥ paścāt pracodayāt ॥); worship on 8th and 9th tithis; she may be worshipped on a piece of cloth or as an image or on a jar; whoever worships her on Tuesday secures desired objects. Vide TT 41 also.
 
 _Maṅgalacaṇḍī_—on Tuesday; worship of Caṇḍi who was first worshipped by Śiva, then by Mars, by king Maṅgala and by beautiful women on Tuesday and then by all men desiring good fortune; Brahmavaivarta, Prakr̥ti-khaṇḍa 44. 1-41 ( specially 32, 37-38).
 
@@ -1635,7 +1635,7 @@ _Madanapūjā_-Vide Anaṅgatrayodaśi p. 257 above.
 
 _Madanabhañji_-Same as Damanabhañji p. 310 above.
 
-_Madanamaḥotsava_-on Cai. śu. 13; tithivrata; worship image or painting of God of love at mid-day with the mantra'namaḥ Kāmāya devāya devadevāya mūrtaye | Brahma-Viṣṇu sureśānām manaḥ-ksobha-karāya vai li'; sweet edibles to be placed before the figure of Kāma; donate a pair of cows; wife should worship her husband thinking 'this (husband) is Kāma'; at night _jāgara_ and dance festivals, illuminations and theatricals; this to be repeated every year; the performer becomes free from sorrow and disease and secures welfare, fame and wealth; HV II. 21-24 (from Bhav. U. which contains the story of the burning of Madana by Śiva and his re-birth on this tithi. ).
+_Madanamaḥotsava_-on Cai. śu. 13; tithivrata; worship image or painting of God of love at mid-day with the mantra'namaḥ Kāmāya devāya devadevāya mūrtaye । Brahma-Viṣṇu sureśānām manaḥ-kṣobha-karāya vai॥'; sweet edibles to be placed before the figure of Kāma; donate a pair of cows; wife should worship her husband thinking 'this (husband) is Kāma'; at night _jāgara_ and dance festivals, illuminations and theatricals; this to be repeated every year; the performer becomes free from sorrow and disease and secures welfare, fame and wealth; HV II. 21-24 (from Bhav. U. which contains the story of the burning of Madana by Śiva and his re-birth on this tithi. ).
 
 _Madanotsava_-is called Suvasantaka in Kāmasūtra I. 4. 42.
 
@@ -2462,358 +2462,148 @@ _Sukalatraprāptivrata_-for maidens, women with husbands living and widows; nak�
 
 _Sukulatrirātravrata_--begin in Mārg. on a day which is Tryahaḥspr̥k, fast for three days, worship of Trivikrama ( Viṣṇu) with white, yellow and red flowers, three unguents and incense consisting of guggulu, kutuka (? kaṭuka ) and resin (_Pinus Longifolio_); offer _trimadhura_, light three lamps, homa with barley, sesame and mustard; donate _triloha_ (i.e. gold, silver and copper ); HV II. 322-323 quoting Vi. Dh. Vide pp. 309, 310 for trimadhura and Tryahaḥspr̥k.
 
-List of vratas
+_Sukṛta-tr̥tiyā-vrata_-on Śr. śu. 3 with Hasta-nakṣatra; tithivrata: worship of Nārāyaṇa and Lakṣmi; for three years: Mantras are' Viṣṇor nu kam' (R̥g. I. 154. 1 ) and 'Saktumiva'( R̥g. X. 71.2); VR 101-103 ( Kr̥ṣṇa tells his proud sister Subhadrā to perform it).
 
-449
+_Sukṛtadvādaśī_-tithivrata; Viṣṇu deity; fast on Phā. śu. 11 and worship of Viṣṇu on 12th; repeat day and night on 11th the words' namo Nārāyaṇāya'; performer should give up anger, jealousy, greed, deceit, &c.; should revolve in mind the idea that _saṁsāra_ is worthless; the same on 12th also; repeat every month for a year; at end worship golden image of Hari and donate it with a cow; reward is that the performer does not see Hell; HV I. 1079-1081 ( from Vi, Dh.).
 
-Sukrta-tr̥tiyi-tratamon Śr. śu. 3 with Hasta-nakṣatra; tithi
+_Sukharātri or Sukharātrikā_--Lakṣmīpūjana day (Āśv. amāvāsyā) in Divali is called Sukharātrikā; vide S. Pr. folio 41b, KT 431, VKX 467-469, KV 403–4 and pp. 194-95 above.
 
-vrata: worship of Nārāyaṇa and Lakṣmi; for three years: Mantras are' Visnor nu kam' (R̥g. I. 154. 1 ) and 'Saktum iva'( R̥g. X. 71.2); VR 101-103 ( Kr̥ṣṇa tells his proud
+_Sukhavrata_-(1) fast on kr̥. 7th and nakta on kr̥. 8th; leads to happiness in this world and heaven; HV II. 509 (from Bhav. only one verse ), KKV 387 ( changes the tithis to 6th and 7th ); (2) on 14th worship of gods; the rest is not clear; HV II. 155 (from Vi. Dh.); (3) by worshipping sages on 8th tithi one secures happiness; HV I. 628 (from Vi. Dh. half verse ); (4) when on śu. 4 there is Tuesday, observe nakta; to be observed on four caturthis; worship of Mars, who is supposed to be the son of Umā; place clay on one's head, apply it to whole body and then bathe; touch dūrvā, aśvattha, śami and cow; homa to Mars with 108 _āhutis_; place image of Mars in vessel of gold or silver or copper or of _sarala_ wood or of pine or sandalwood and worship; HV I. 514-519 (from Bhav.), PC 95; (5) a ṣaṣṭivrata in Mat. 101. 73 (one verse only q. by KKV 450 ); not clear.
 
-sister Subhadrā to perform it). Sukrtadvādaśī-tithivrata; Viṣṇu deity; fast on Phā. śu. 11 and
+_Sukhasuptikā_-Same as Sukharātri; HV II, 348-349 (from Ādityapurāṇa); KKN 421-422.
 
-worship of Viṣṇu on 12th; repeat day and night on 11th the words' namo Nārāyaṇāya'; performer should give up anger. jealousy, greed, deceit, &c.; should revolve in mind the idea that saisūra is worthless; the same on 12th also; repeat every month for a year; at end worship golden image of Hari and donate it with a cow; reward is that the performer
+_Sukhācaturthi_-when the 4th tithi in śu. falls on a Tuesday it is called Sukhacaturthi or Sukhadācaturthi. Vide HV I. 514 ( quoting Bhav. I. 31. 16 ), KR 271, VKK 31 (quoting the same verse from Devipurāṇa ).
 
-does not see Hell; HV I. 1079-1081 ( from Vi, Dh.). Sukharātri or Sukharātrikā--Lakṣmīpūjana day (Āśv. amā
+_Sugatidvādaśi_-begin on Phā. śu. 11th; tithivrata; Kr̥ṣṇa deity; fast on that day, worship of Kr̥ṣṇa and reciting the name 'Kr̥ṣṇa' 108 times, for one year divided into three periods of four months each; in 4 months from Phā, he should recite the name Kr̥ṣṇa and cast three streams of water on the feet (of the image ) of Kr̥ṣṇa; in 2nd period from Ās. to Āśv. the name to be repeated is Keśava, so that at the time of death he remembers god Keśava; in the third period he should recite the name 'Viṣṇu'; secures divine pleasures and Viṣṇuloka; HV I. 1081-1083 (from Vi. Dh.III. 215. 4-22).
 
-vāsyā) in Divaly is called Sukharātrikā; vide S. Pr. folio 41b,
+_Sugatipauṣamāsīkalpa_ (paurṇamāsī ? )--on Phā. śu. 15th tithi; tithivrata; Viṣṇu deity; performer to subsist by nakta way giving up oil and salt; for one year divided into three periods of four months; worship of Keśava accompanied by Lakṣmī; on that day he is not to speak with heretics, atheists, those guilty of grave sins and cāṇḍālas; Hari and Lakṣmi are to be looked upon as the moon and night. Vide Vi. Dh. III.216. 1–17.
 
-KT 431, VKX 467-469, KV 403–4 and pp. 194-95 above. Sukhavrata-(1) fast on kr. 7th and nakta on kr. 8th; leads to
+_Sugativrata_ (1) by the worship of lord of gods one secures the best position (or world ); HV I. 792 (from Vi. Dh. only a half verse); (2) one should partake food by nakta method on all 8th tithis for a year and at end donate a cow and one reaches position of Indra; tithivrata; Indra deity; HV I. 881 (from Pad.); this is Mat. 101. 56; AK folio 561 b ( calls it Sugatyaṣṭami).
 
-happiness in this world and heaven; HV II. 509 (from Bhav. only one verse ), KKV 387 ( changes the tithis to 6th and 7th ); (2) on 14th worship of gods; the rest is not clear; HV II. 155 (from Vi. Dh.); (3) by worshipping sages on 8th tithi one secures happiness; HV I. 628 (from Vi. Dh. half verse ); (4) when on su. 4 there is Tuesday, observe nakta; to be observed on four caturthis; worship of Mars, who is supposed to be the son of Umā; place clay on one's head, apply it to whole body and then bathe; touch dūrvā, aśvattha, śami and cow; homa to Mars with 108 ūhutis; place image of Mars in vessel of gold or silver or copper or of sarala wood or of pine or sandalwood and wor ship; HV I. 514-519 (from Bhav.), PC 95; (5) a sasti vrata in Mat. 101. 73 (one verse only q. by KKV 450 ); not
+_Sujanmadvādaśi_-begin on 12th of P. śu. when it falls on Jyeṣṭhā-nakṣatra; tithivrata; Viṣṇu deity; worship Viṣṇu every month for a year with fast thereon, donate each month of the year in order ghee, rice, barley, gold, boiled _yavas_, water, grain boiled, umbrella, _pāyasa_, sugarcane juice, sandalwood, garments and should in order partake of one of the twelve things, viz. cow's urine, water, ghee, uncooked vegetables, dūrvā, curds, rice, barley, sesame, water heated by the Sun's rays, water in which darbhas are dipped, mik; he becomes free from disease, talented and happy and is born in a family endowed with wealth and corn and knowing no sorrow; HV I. 1174-75 (from Vi. Dh.).
 
-clear. Sukhasuplika-Same as Sukharātri; HV II, 348-349 (from
+_Sujanmāvāptivrata_–This is a saṅkrāntivrata; begin from the day when the Sun enters sign Meṣa (Ram) and go on through all the twelve saṅkrāntis in the year with fast on each day of the saṅkrānti, and respectively worship the images of the Sun, of Bhārgava Rāma (Paraśurāma), Kr̥ṣṇa, Viṣṇu, Varāha ( incarnation ), Narasiṁha, Rāma Dāśarathi, Rāma (Balarāma), Matsya (incarnation of Viṣṇu); these may also be painted on a piece of cloth for worship; _homa_ with appropriate name on each saṅkrānti; for a year; at end gift of _jaladhenu_ with umbrella and sandals and in each month of gold and two garments; worship at night with _dīpamālā_ (rows of lights ); reward-the performer is not born among lower animals or Mlecchas; HV II, 727-728 (from Vi. Dh. ), PC 12; note that worship in Tulā and the following two signs is not mentioned by HV. But in Vi. Dh. III. 199 it is said that Vāmana, Trivikrama and Aśvaśiras (Hayaśiras) are to be worshipped when the sun respectively enters Tulā ( Balance ), Vr̥ścika (Scorpion) and Dhanus ( Archer).
 
-Ādityapurāṇa); KKN 421-422. Sukhācaturthi-when the 4th tithi in su. falls on a Tuesday it
+_Sudarśanaṣaṣṭhi_- A king or kṣatriya was to perform this; fast on 6th after drawing a maṇḍala with a lotus on the nave of a wheel, establish Sudarśana (discus of Viṣṇu) on the pericarp and the weapons of _lokapālas_ on the petals and the performer's own arms in front and worship with red sandal wood paste, mustard, red lotus, red garments &c. and offer _naivedya_ of food mixed with jaggery and of cakes and fruits and address mantras to Sudarśana for destroying one's enemies, for success in war and for protection of his army; worship of Viṣṇu's bow ( Sārṅga), mace &o, and of Garuḍa (Viṣṇu's vehicle ); king to be placed on throne and a young woman to wave lights before him; the same procedure when an evil omen arises or on the nakṣatra of one's birth; HV I. 620-S24 (from Garuḍa-purāṇa ).
 
-is called Sukhacaturthi or Sukhadācaturthi. Vide HV I. 514 ( quoting Bhav. I. 31. 16 ), KR 271, VKK 31 (quoting
+_Sudeśajanmāvāpti_-practically same as Sujanmāvāptivrata; Vi.Dh. III. 199. 1-10.
 
-the same verse from Devipurāṇa ). Sugatidvādaśi-begin on Phā. śu. 11th; tithivrata; Kroṇa deity; fast on that day, worship of Kr̥ṣṇa and reciting the
+_Sunāmadvādaśi_-begin on 12th tithi of Mārg.śu.; ekabhakta on 10th; fast on 11th and worship Sun first and then Viṣṇu; tithivrata; Viṣṇu deity; performer to be pure in thought, word and deed; place a new jar full of water in which sapphire, pearls and precious stones are cast and covered with cloth and worship Keśava's golden image therein; the same procedure to be repeated on the _dvādaśīs_ of P., M., and the following months with different names of Viṣṇu such as Nārāyaṇa, Mādhava and so on; for a year; donate the twelve jars with images therein to brāhmaṇas and twelve Cows, garments or ( if poor ) one cow and a vessel with some gold; HV I, 1063-1072 ( from Vahnipurāṇa); Agni 188. 11 refers to Nāmadvādaśi.
 
-H. D. 57
+_Surūpadvādaśi_-in P. kr̥. 12th if it has Puṣya nakṣatra; on 11th fast and on 12th worship a golden or silver image of Hari cast in a full jar over which a vessel full of _tilas_ is placed; the _naivedya_ is to be food mixed with sesame; offering of sesame in fire with mantras from Puruṣasūkta ( R̥g. X. 90 ); Vaiṣṇava śrāddha after homa; jāgara on that night; donate jar and image; reward is freedom from ugliness; HV I. 1205-1213 (Śiva imparts this to Umā and states how Satyabhāmā benefited from it ); Vratārka, folio 247a ( says it is practised among Gurjaras ).
 
-T
+_Suvrata_--From Cai. śu. 8th worship the eight Vasus (named) that are forms of Vāsudeva with gandha, flowers &c.; for a year; at end donate a cow; secures all objects and goes to Vasuloka; Vi. Dh. III. 172. 1-7.
 
-1.
+_Sūryanaktavrata_-This is a _vāravrata_; Sun deity; one should always practise nakta on Sunday; ekabhakta when Sunday has Hasta nakṣatra and from that day nakta on every Sunday; draw a lotus with twelve petals on sunset with red sandalwood paste and make a _nyāsa_ in eight directions from the east with different names (such as Sūrya, Divākara ); _nyāsa_ of sun's horses to the east of pericarp; arghya with the first verses of R̥g. and Sāmaveda and the first four words of Tai. S.; for one year; performer is freed from diseases, has progeny, wealth and goes to Sūryaloka; HV. II. 538-541 (from Mat.).
 
-450
+_Sūryapūjāpraśaṁsā_-vide Vi. Dh. III. 171. 1–7 that narrate what rewards are secured by worshipping the Sun on all 7th tithis for a year or by observing nakta on Sunday for a year or by worshipping the Sun always at sunrise. Verses 8-14 of Bhav. I. 68 specify the flowers that are desirable in the worship of Sūrya and what rewards follow by offering them.
 
+_Sūryarathayātrā-māhātmya_-Bhav. I. 58. The car procession of the Sun takes place in M. If no procession is held every year then it should be held in the 12th year from the time when it was last held; it should not be held after short breaks in the continuity; a śūdra was not to climb upon the car of the Sun. The _pūrṇimās_ of Āṣ., K., and M. are the holiest times for this yatra. It may also be held on the 6th or 7th tithi falling on a Sunday.
 
+_Sūryavrata_-(1) fast on 6th tithi and worship of the Sun on 7th with the words 'may Bhāskara be pleased'; becomes free from all diseases; KKV 388-389; (2) bath at dawn in M. and honouring a householder and his wife with flowers, garments, ornaments and dinner; attains _saubhāgya_ and health ; HV II. 794 (from Pad.), KKV 444 ( which is Mat. 101. 36-37); (3) Begin in Aśv. if there is 14th tithi in śu. and Sunday; tithivrata; Śiva deity; special bath for Śivaliṅga, _rocanā_ being applied to it as unguent and worship with red flowers; naivedya of milk and ghee of _kapilā_ cow; gift to a brāhmaṇa devotee of Śiva; the former should have dinner mixed with saffron; reward-sons are born to him; HV II. 64-65 (from Kālottara ); (4) on Sunday the performer shaves himself and worships the Sun with cakes mixed with jaggery and salt and observes nakta that day: all desires are fulfilled and he goes to Sūryaloka; HV I. 779-780 (from Vi. Dh.); (5) fast on Cai. śu. 6th and on 7th tithi worship the Sun; an altar be made with whitish clay and a lotus with eight petals be drawn thereon with coloured powders; place Sun's image on the pericarp and draw in the eight quarters from the eastern petal certain demigods, goddesses and sages, two each being assigned to the six seasons from spring; homa with 108 _āhutis_ of ghee to the Sun, and eight to each of the others; for one year; at end gift of a cow and some gold; he goes to Sūryaloka; if performed for twelve years the performer secures _sāyujya_; HV 1. 770–774 (from Vi. Dh. III. 167. 11-15, 168. 1-30; (6) begin in Mārg. on a Sunday (?) and proceed for 12 months; draw a lotus with twelve petals with pericarp on a copper vessel with red sandalwood paste and worship the Sun thereon; in the several months the names of the god worshipped ( such as Mitra in Mārg., Viṣṇu in P., Varuṇa in M. &c.), the _naiveidya_ and the special article to be eaten by the performer are different; it destroys sins and secures all desired objects; HV II. 552-557 (from Sauradharma); This is a vāravrata; (7) nakta throughout month of P. and fast on both 7th tithis; worship of Sun and of Agni thrice a day in the month of P.; KR 475-76 (from Bhav.)
 
+_Sūryaṣaṣṭhi_-begin ekabhakta in Bh. śu. from 1 to 5th and on 6th fast and worship of Sun's image; for a year; in each month different name of Āditya; at end elaborate _udyāpana_ is described; HV I. 608-615 ( from Bhav. U.), NS 134.
 
+_Sūryāṣṭami_–Vide Arkāṣṭami p. 261 above.
 
-name 'Kr̥ṣṇa' 108 times, for one year divided into three periods of four months each; in 4 months from Phā, he should recite the name Kr̥ṣṇa and cast three streams of water on the feet (of the image ) of Kr̥ṣṇa; in 2nd period from Ās. to Āśv. the name to be repeated is Kesaya, so that at the time of death he remembers god Keśava; in the third period he should recite the name Viṣṇu'; secures divine pleasures and Viṣṇuloka; HV I. 1081-1083 (from Vi. Dh.
+_Somavati-amāvāsya_-Amāvāsyā on Monday is very holy; vide KV 492 (from Bhav.); HK 643, VKK 9; on this day persons (specially women in the Deccan) go to a aśvattha tree, worship Viṣṇu and circumambulate the tree 108 times; Vratārka folios 350b-356, DS. 23, the former remarking that this is not mentioned in the great religious digests ( nibandhas) but is based upon usage.
 
-III. 215. 4-22). Sugati pauṣamāsīkulpa (paurṇamāsī ? )on Phā. śu. 15th tithi;
+_Somavāravratas_-HV II. 557-566 (only two), Vratārka folio 379b-382b, SmK 149, VKD 437–443. General rule is; begin on the first Monday of Śr., Vai., K., or Mārg. ; worship of Śiva and total fast or nakta on that day; VKD gives an elaborate procedure of Somavāravrata and its udyāpana. The Mondays in Śr. are regarded specially holy even now.
 
-tithivrata; Viṣṇu deity; performer to subsist by nakta way giving up oil and salt; for one year divided into three periods of four months; worship of Keśava accompanied by Lakṣmī; on that day he is not to speak with heretics, atheists, those guilty of grave sins and cāṇḍālas; Hari and Lakṣmi are to be looked upon as the moon and night. Vide Vi. Dh. III.
+_Somavrata_-(1) when the 8th in any pakṣa falls on a Monday one should worship Śiva, the right side of the idol representing Śiva and left side Hari and the Moon; bathe the _liṅga_ with pañcāmṛta, apply sandalwood and camphor to right side and to the left saffron, _aguru, uśīra; nīrājana_ with 25 lights of the God and the Devi; dinner to brāhmaṇas with their wives; for a year or five years; KKV 269–271, HV I. 829-831 ( from Kālikā); (2) on Vai. pūrṇimā fill a copper vessel with water, put image of Śhaṅkara therein and cover it with cloth and worship with _gandha_ and flowers and donate with the words 'may Mahādeva, lord of the world, who assumes the form of the Moon, be pleased with me'; KKV 353, HV II. 174-175, KR 166-167 (all quoting Bhav.); (3) on śu. 2nd tithi one should donate vessel containing salt to a brāhmaṇa; for a year; at end donate a cow; goes to Śivaloka; KKV 451 ( 59th Ṣaṣṭivrata from Mat. 101. 81 ), HV I. 389 (from Pad.); (4) when 8th tithi falls on Rohiṇi nakṣatra, perform this; bathe Śiva with pañcāmr̥ta and apply camphor or sandalwood paste to the _liṅga_ or image and worship with white flowers; offer naivedya of jar of milk mixed with white ground sugar; _jāgara_; yields long life, fame etc.; HV 1. 863 (from Kālottara ); (5) fast on M. śu. 14th and on 15th apply (to the _liṅga_) a blanket of ghee from top to the _vedi_; donate a pair of dark cows; _jāgara_ with songs and dance; HV II. 239–240 (from Bhav.); (6) on the first Monday in Mārg. śu., or Cai. or on any Monday when an intense impulse to worship arises; worship Śiva with white flowers (like Mālati, Kunda &c.), apply sandalwood paste (to image or liṅga), offer naivedya; homa; rewards of performance of nakta on Monday in the months from Mārg, described; HV II. 558-566 (from Skanda); (7) on each Monday eight brāhmaṇas to be treated to dinner for a year; at end a silver image of Śiva to be made and donated; worship of Śiva and Umā with mantra 'tat puruṣāya vidmahe' (Maitrā. S. II, 9, 1, Tai. Ār. X. 46 ); Pad. IV. 108. 82-90.
 
-216. 1–17. Sugativrata (1) by the worship of lord of gods one secures the
+_Somāyana-vrata_--for a month; consists in subsisting on the milk of all four udders of a cow for seven days; for seven days on milk of three udders, then seven days more on milk of one udder and fast for the next three days; destroys all sins. Mārkaṇḍeya q. by Mit. on Yāj. III. 324.
 
-best position (or world ); HV I. 792 (from Vi. Dh. only a half verse ); (2) one should partake food by nakta method on all 8th tithis for a year and at end donate a cow and one reaches position of Indra; tithivrata; Indra deity; HV I. 881 (from Pad.); this is Mat. 101. 56; AK folio 561 b ( calls it
+_Somāṣṭamivrata_-tithivrata; Śiva and Umā are deities; on 9th tithi with Monday worship of Śiva and Umā at night; bathing image with pañcagavya; worship Śiva under the names Vāmadeva and others; apply sandalwood paste and camphor to the right side of image and saffron and Turuṣka (_olibanum_) to the left; place sapphire on Devi's head and pearl on Śiva's head and worship with white and red flowers; homa of sesame with the name Sadyojāta; HV I. 833-835 (from Skanda). Bhav. U. 59 describes this vrata almost in the same words (1-23 ); Vāmadeva, Sadyojāta, Aghora, Tatpūruṣa, Iśāna are the five faces (or forms) of Śiva. Vide Tai. Ār. X. 43-47.
 
-Sugatyaṣṭami), Sujanmadvādaśi-begin on 12th of P. śu. when it falls on
+_Saukhyavrata_-on 8th or 11th or 14th of M. observe ekabhakta and donate white garments, sandals, blanket, umbrella, water and a cup to one who is in want of these; HV II. 440 (from Bhav.).
 
-Jyeṣṭhā-nakṣatra; tithivrata; Viṣṇu deity; worship Viṣṇu every month for a year with fast thereon, donate each month of the year in order ghee, rice, barley, gold, boiled yaras, water, grain boiled, umbrella, pāyasa, sugarcane juice, sandalwood, garments and should in order partake of one of the twelve things, viz. cow's urine, water, ghee, uncooked vegetables, dūryā, curds, rice, barley, sesame, water heated by the Sun's rays, water in which darbhas are dipped, mik; he becomes free from disease, talented and happy and is born in a family endowed with wealth and corn and
+_Saugandhyavrata_-this is a r̥tuvrata; Śiva and Keśava deities; give up use of flowers in Hemanta and Śiśira and of three kinds of _pattras_ ( fragrant substances) on Phā. pūrṇimā and donate some gold with the words 'May Śiva and Keśava be pleased'; HV II. 860.
 
-knowing no sorrow; HV I. 1174-75 (from Vi. Dh.). Sujanmārāptivrała–This is a saṅkrāntivrata; begin from the
+_Saubhāgyatr̥tiyāvrata_-(1) on 3rd tithi of Phā. śu. observe nakta and worship Hari with Lakṣmi or Rudra with Umā ( as both are declared in śāstras and purāṇas to be the same ); homa with honey and ghee and sesame; for a year divided into three periods; in months from Phā, to Jy., performer should eat food made from wheat without salt or ghee (or oil) on bare ground; in months from K. to M. he should eat cooked barley food; on M. śu. 3 he should make golden images of Rudra and Gauri or of Hari and Śri and donate these with six vessels containing honey, ghee, sesame oil, jaggery, salt, cow's milk; he becomes fortunate and handsome for seven births; Var. 58. 1-19 q. in KKV 75–77, HV I. 479-80, KR 523-524.
 
-day when the Sun enters sign Mesa (Ram) and go on through all the twelve saṅkrāntis in the year with fast on each day of the saṅkrānti, and respectively worship the images of the Sun, of Bhārgaya Rāma (Paraśurāma), Kr̥ṣṇa, Viṣṇu, Varāha ( incarnation ), Narasiṁha, Rāma Dāśarathi,
+_Saubhāgyavrata_-(1) on K. pūrṇimā worship the Moon's image on the pericarp of a lotus drawn with 16 petals; on the filaments of the lotus worship 28 nakṣatras (including Abhijit ) and on the leaves worship the tithis and their lords ( set out by name); at end of vrata donate two garments; fast or nakta on this day; confers blessedness, beauty, sexual pleasures; HV II. 235-36 (from Vi. Dh.); (2) give up use of salt on 3rd tithi of Phā. and of following months for a year; at end donate a bedstead and house with all paraphernalia and honour a brāhmaṇa and his wife with the words 'May Pārvati be pleased'; he becomes a denizen of Gauriloka; tithivrata; Gauri deity; KKV 441 (which is Mat. 101. 15-16), HV I. 483 (from Gar.), VKK 29-30 (reads 'śayanam' for 'lavaṇam '). Agni ( 178. 24–25 ) has almost the same verses; (3) worshipper of the Moon on 5th tithi secures long life, wealth and fame; HV I. 574 (from Vi. Dh.).
 
-List of vratas
+_Saubhāgyaśayana-vrata_-on Cai. śu. 3rd tithi worship Gauri and Śiva images (as Gauri was married on that day) after bathing the images with pañcagavya and scented water ; salutations to the limbs of Devi and Śiva from feet to head and hair; place in front of the images Saubhāgyāṣṭaka; next morning the golden images to be donated; on each 3rd this procedure for a year; different substance to be partaken of and different mantra to be repeated in each month from Cai. and different names of Devi also; special flowers employed in each month; performer to give up eating one fruit for a year; at end donate a bedstead with paraphernalia and golden cow and bull; secures _saubhāgya_, health, beauty, long life; Mat. 60 1-49; KKV 56-60 ( quotes only Mat. 60. 14-48 ), HV I. 444-149 ( quotes Mat. 60.1-48), KR 113-118 (quotes Mat. 60. 1-49 ). The same verses occur in Pad. V.24. 222-278 and also in Bhav. U. 25. 1-42.
 
-451
+_Saubhāgyasaṅkrānti_-This is a saṅkrāntivrata; on the Ayana or Viṣuva day having Vyatīpāta or on a saṅkrānti day one should follow ekabhakta, worship the sun and donate two garments and saubhāgyāṣṭaka to a brāhmaṇa and his wife; for one year; dinner to brāhmaṇas and donate lavaṇaparvata, golden lotus and golden sun image; HV II, 735-36 (from Skanda ); for gift of substances called parvatadānas, vide H. of Dh. vol. II, 882.
 
-Rāma (Balarāma), Matsya (incarnation of Viṣṇu); these may also be painted on a piece of cloth for worship; homa with appropriate name on each saṅkrānti; for a year; at end gift of jaladhenu with umbrella and sandals and in each month of gold and two garments; worship at night with dīpamālā (rows of lights ); reward-the performer is not born among lower animals or Mlecchas; HV II, 727-728 (from Vi. Dh. ), PC 12; note that worship in Tulā and the following two signs is not mentioned by HV. But in Vi. Dh. III. 199 it is said that Vāmana, Trivikrama and Aśvaśiras (Hayasiras) are to be worshipped when the sun respectively enters Tulā ( Balance ), Vļścika (Scorpion) and
+_Saubhāgyasundari_—on the 3rd tithi of Mārg. or M, kr̥.; tithivrata; Umā deity; fast that day; for a year; in each month different name of Umā is used; flowers, fruits and naivedya to be offered are different and also the substance to be eaten by the performer; Vratārka folios 56a-60b, VR 114-120 (quoting Bhav. U.). It is to be performed on 3rd mixed with 4th ( and not on 3rd mixed with 2nd ).
 
-Dhanus ( Archer). Sudarśanaṣaṣṭhi- A king or ksatriya was to perform this; fast
+_Saubhāgyāvāptivrata_-This is a māsavrata; Kr̥ṣṇa deity ; begin on the 1st tithi after Māgha pūrṇimā (by pūrṇimānta reckoning ); worship image of Kr̥ṣṇa or his picture on a strip of cloth; performer to bathe with water scented with _priyaṅgu_ ( panic seed or Italian millet ), offer _caru_ ( boiled rice ) mixed with priyaṅgu and homa with the same; for a month; on Phā. pūrṇimā after three days' fast donate two garments dyed with saffron, a vessel full of honey &c.; this confers _saubhāgya_ and beauty; HV II. 799 (from Vi. Dh.III, 204, 1-5).
 
-on 6th after drawing a maṇḍala with a lotus on the nave of a wheel, establish Sudarśana (discus of Viṣṇu) on the pericarp and the weapons of lokapālas on the petals and the performer's own arms in front and worship with red sandal wood paste, mustard, red lotus, red garments &c. and offer naivedya of food mixed with jaggery and of cakes and fruits and address mantras to Sudarśana for destroying one's enemies, for success in war and for protection of his army; worship of Viṣṇu's bow ( Sārnga), mace &o, and of Garuḍa (Viṣṇu's vehicle ); king to be placed on throne and a young woman to wave lights before him; the same procedure when an evil omen arises or on the nakṣatra of one's birth; HV
+_Saubhāgyāṣṭaka_-Mat. ( 60. 8-9) provides that eight things are so called, viz. sugarcane, mercury, nispāva ( wheat preparation in which milk and ghee are used), _ajāji_ (cumin seed), dhānyaka ( coriander), curds from cow's milk, safflower and salt. This is quoted by HV I. 48–49, KR 115, VR 16 ( with variant and corrupt readings ). KR reads 'tavarājaḥ' (white ground sugar ) and VR reads 'tarurājaḥ'(palmyra); Pad. V. 24. 251 enumerates somewhat differently, reads 'tarurāja, kusuma ( v. 1 kustumburu ) and jiraka' (_panicum miliaceum_); vide Bhav. U. 25. 9 also for the eight things.
 
-I. 620-S24 (from Garuḍa-purāṇa ). Sudeśajanmārāpti-practically same as Sujanmāvāptivrata; Vi.
+_Saumyavidhi_ –When Sunday has Rohiṇi nakṣatra, it is called Saumya; bath, gifts, japa, homa, tarpaṇa of pitr̥s and gods on this day become inexhaustible; observe nakta and worship the sun on this day with red lotuses, red sandal wood paste, _sugandha dhūpa_ and pāyasa (as naivedya ); performer is freed from sins; KKV 13-14, HV I. 524.
 
-Dh. III. 199. 1-10. Sunāmadvādaśi-begin on 12th tithi of Mārg.su.; ekabhakta on
+_Saumyavrata_-Give up flowers in Hemanta and Śiśira seasons and on Phā. pūrṇimā donate three flowers of gold in the afternoon with the words 'May Śiva and Keśava be pleased'; Mat. 101, 13–14 ( quoted in KKV 441 ).
 
-10th; fast on 11th and worship Sun first and then Viṣṇu; tithivrata; Viṣou deity; performer to be pure in thought, word and deed; place a new jar full of water in which sapphire, pearls and precious stones are cast and covered with cloth and worship Keśava's golden image therein; the same procedure to be repeated on the dvādaśīs of P., M., and the following months with different names of Viṣṇu such as Nārāyaṇa, Mādhava and so on; for a year; donato the twelve jars with images therein to brāhmaṇas and twelve Cows, garments or ( if poor ) one cow and a vessel with some gold; HV I, 1063-1072 ( from Vahnipurāṇa); Agni 188. 11 refers to Nāmadvādaśi.
+_Sauratrivikrama-vrata_-This is a māsavrata; Sun deity; for three months or three years; in month of K, worship Jagannātha or the Sun and observe ekabhakta and donate the second meal to a brāhmaṇa; same procedure in Mārg. and P. and Sun to be worshipped as Vibhākara and Divākara; sins committed in youth and middle age and even grave sins are destroyed; it is called 'Trivikrama' because the three names (of the sun) relieve a man in _three_ months or _three_ years; HV II. 856 ( from Bhav. U.).
 
-452
+_Sauranakta-vrata_-This is a vāravrata; Sun deity; to be performed on Sunday with Hasta nakṣatra; honour brāhmaṇas on it; performer is freed from diseases ; HV II. 521 (from Nr̥siṁhapurāṇa ).
 
+_Sauravrata_—This is Mat. 101. 63 ( a ṣaṣṭivrata ) which occurs in KKV 448, HV I. 787 (from Pad.); fast on 7th tithi; Sun deity; for one year; at end donate a golden lotus, cows along with some gold and a jar full of food; leads to Sūryaloka.
 
+_Skandaṣaṣṭhi_-6th tithi in Āṣ. śu. is so called; worship Kumāra (Kārtikeya) on it after observing a fast the previous day; NA 49, PC 101, SmK 138. NA adds that on seeing (the idol of) Kārtikeya in Dakṣiṇāpatha on Bh. śu. 6 one becomes free from even grave sins like brāhmaṇa murder; vide also KR 275-277. In Tamil lands Skandaṣaṣṭhi is important, is shown in the calendar as in (solar) Vr̥ścika-māsa (K. śu. 6) and celebrated in temples and also in some houses; HK 622, KR 119 quote some verses from Brah. saying that Skanda was produced from Agni on amāvāsyā and appeared on Cai. Śu. 6, was made Commander-in-Chief of gods and vanquished demon Tāraka, hence he was to be worshipped with lamps, garments, decoration, cocks (as a plaything) &c., or he may be worshipped on all śu, 6th tithis by those that desire health for their children. Vide TT 35 (saying that 6th of Cai. is called Skandaṣaṣṭhi), SmK 93.
 
+_Skandaṣaṣṭhivrata_-on K. śu. 6 subsist on fruits, turning to the south give arghya to Kārtikeya and offer curds, ghee, water and flowers and a mantra; the performer should take his meal at night from food placed on the bare earth; he secures success, prosperity, long life, health, and lost kingdom; one should not partake of oil on 6th (either in śu. or kr̥.); Bhav. I. 39. 1-13 q. by KK V 99-101, HV I. 604-605, KR 415-416. Vide under 'Şaṣṭhīvratas' for proposition that Skandaṣaṣṭhi mixed with fifth is to be preferred. GK (83–84) speaks of Skandaṣaṣṭhi on Cai, kr̥.
 
+_Striputrakāmāvāptivrata_--this is a māsavrata; Sun deity; the woman passing K. by ekabhakta and observing the rules of conduct such as _ahiṁsā_, who offers to the sun _naivedya_ of boiled rice mixed with jaggery and fasts on 6th or 7th tithi, in both fortnights, reaches sūryaloka and when she returns to the world she secures a king or other desired person as husband; special rules about the months from Mārg.; HV II. 821-824 (from Bhav.), KR 406.
 
-Surūpalvādasi-in P. kr. 12th if it has Puṣya nakṣatra; on 11th
+_Snapanasaptamīvrata_—for a woman whose child or children die in infancy; Bhav. U. 52. 1-40.
 
-fast and on 12th worship a golden or silver image of Hari cast in a full jar over which a vessel full of tilas is placed; the naivedya is to be food mixed with sesame; offering of sesame in fire with mantras from Puruṣasūkta ( R̥g. X. 90 ); Vaiṣṇava śrāddha after homa; jāgara on that night; donate jar and image; reward is freedom from ugliness; HV I. 1205-1213 (Śiva imparts this to Umā and states how Satyabhāmā benefited from it ); Vratārka, folio 247a ( says
+_Snuhi-viṭape manasā-pūjā_- on Śr. kr̥. 5th worship Manasā-devi that removes (danger of) snake poison on a twig of Snuhi plant in one's court-yard; TT 33. Vide above p. 125.
 
-it is practised among Gurjaras ). Suvrata--From Cai. su. 8th worship the eight Vasus (named)
+_Snehavrata_—This is a māsavrata; God (Viṣṇu?) deity; person should give up oil bath for four months from Āṣ, he should subsist on pāyasa and ghee; at end he should donate a jar full of sesame oil; this secures people's affection (_sneha_); HV II. 818 (from Pad.).
 
-that are forms of Vāsudeva with gandha, flowers &c.; for a year; at end donate a cow; secures all objects and goes to
+_Syamantaka_ (_jewel_)-story in Harivaṁśa I. 38; vide pp. 147-148 above under Gaṇeśacaturthi. The verse 'siṁhaḥ Prasenamavadhit' is Harivaṁśa I. 38.36.
 
-Vasuloka; Vi. Dh. III. 172. 1-7. Sūryanaktarrata-This is a vāravrata; Sun deity; one should
+_Svarṇagaurivrata_-on Bh. śu. 3; tithivrata; Gauri deity; for women only; Gauri is worshipped with the 16 upacāras; prayer to Devī to bestow sons, health, saubhagya; on _udyāpana_ 16 wickerwork vessels are filled with sixteen edibles and covered with cloth and donated to brāhmaṇa householders and their wives; Vratārka 41a-44b, VR 96-97 ( notes that it is prevalent in Karnataka country and is based on usage).
 
-always practise nakta on Sunday; ekabhakta when Sunday has Hasta nakṣatra and from that day nakta on every Sunday; draw a lotus with twelve petals on sunset with red sandalwood paste and make a nyūsa in eight directions from the east with different names (such as Sūrya, Divākara ); nyūsa of sun's horses to the east of pericarp; arghya with the first verses of R̥g. and Sāmaveda and the first four words of Tai. S.; for one year; performer is freed from diseases, has progeny, wealth and goes to Sūryaloka; HV. II. 538-541
+_Svastikavrata_-from Āṣ. 11th or 15th for 4 months; for both men and women; said to be well-known in Karnataka ; draw svastikas in five colours (blue &c. ), and they are to be presented to Viṣṇu; worship of Viṣṇu in temple or on land; Vratārka folios 356b-358 from Bhav. U (questions its authoritativeness).
 
-(from Mat.). Sūryapūjāprasaṁsāmvide Vi. Dh. III. 171. 1–7 that narrate what
+_Haṁsavrata_-bathe with recitation of Puruṣasūkta; tarpaṇa and japa with same; worship Janardana called Haṁsa in midst of a picture of a lotus having eight petals with flowers &c. to the accompaniment of R̥g. X. 90, then homa; donate a cow; for a year; he secures all desires; Vi. Dh. III. 225.1-9.
 
-rewards are secured by worshipping the Sun on all 7th tithis for a year or by observing nakta on Sunday for a year or by worshipping the Sun always at sunrise. Verses 8-14 of Bhav. I. 68 specify the flowers that are desirable in the
+_Hanūmat-jayanti_-on Cai. śu. 15.
 
-worship of Sūrya and what rewards follow by offering them, Sūryarathayātrā-māhātmya-Bhav. I. 58. The car procession of
+_Hayapañcami or Hayapūjāvrata_-on Cai. 5th Uccaiḥśravas ( Indra's horse ) rose from the ocean and so he should be worshipped along with gandharvas (such as Citraratha, Citrasena) who are its bandhus with songs, sweetmeats, _polikas_ (Marathi, _poli_), curds, jaggery, milk, rice flour; reward-strength, long life, health non-defeat in battle; HV I. 573 ( quoting Śālihotra), SmK. 92. This is also called Matsyajayanti; AK folio 360b.
 
-the Sun takes place in M. If no procession is held every year then it should be held in the 12th year from the time when it was last held; it should not be held after short breaks in the continuity; a sūdra was not to climb upon the car of the Sun. The pūrṇimās of Āṣ., K., and M. are the holiest times for this yatra. It may also be held on the 6th
+_Harakālivrata_-on M. śu. 3; tithivrata; Devi is deity; for women; performer should pass the whole night contemplating Umā on green barley sprouts; next day bath and worship of Devi and then dinner; in each of 12 months different names of Devi to be taken and 12 different substances to be partaken of; at year's end honour a brāhmaṇa and his wife; reward-freedom from disease, no widowhood for seven births, son, beauty &c.; Śhaṅkara asks Pārvati what vrata she performed to secure the position of sharing half his body.
 
-or 7th tithi falling on a Sunday. Sūryarrata-(1) fast on 6th tithi and worship of the Sun on 7th
+_Haratr̥īyā-vrata_-on M. śu. 3; tithivrata; Umā and Maheśvara deity; in a maṇḍapa draw a lotus with eight leaves; in eight directions _nyāsa_ of the eight names of Umā viz. Gauri, Lalitā, Umā, Svadhā, Vāmadevi &c.; place Umā Maheśvara in the middle; worship with gandha and flowers; place a jar filled with rice grains; homa with four āhutis of ghee and one hundred of sesame; in each of the eight _praharas_ perform bath and homa; next day honour a brāhmaṇa and his wife; this to be followed for four years; then udyāpana; golden image of Umā and Maheśvara to be donated to ācārya; gives _saubhagya_ and health; HVL. 480-482.
 
-with the words "may Bhāskara be pleased'; becomes free
+_Haratrirātravrata_–one fasting for three days at the root of a _bilva_ tree and reciting a lakh of times the name of Hara destroys the sin even of bhrūṇahatyā; HV II. 312 ( from Saurapurāṇa). Vide H. of Dh. vol. II. p. 148n and vol. III. p. 612 note 1161 for explanations of bhrūṇa.
 
-List of vratas
+_Haravrata_-on 8th tithi draw an image of lotus leaf and worship Hara and perform homa with streams of ghee and fuel-sticks; HV I. 881 ( from Bhav.).
 
-453
+_Harikālīvrata_-on 3rd tithi of Bh. śu. worship of Kāli on the sprouts of seven dhānyas sown in a winnowing basket; it is carried at night by women whose husbands are alive to a reservoir of water and discharged therein; HV I. 435-439 (from Bhav. U. 20. 1-28). The story is that Kāli was daughter of Dakṣa, was given in marriage to Mahādeva and was dark in complexion. Once in an assembly of gods Mahādeva called her as dark as collyrium. She was angered, left her complexion on a grassy plot and threw herself into fire. She was born again as Gauri and became Mahādeva's wife. The dark complexion laid aside by Kāli became Kātyāyani, who helped gods in their undertakings. The gods bestowed on her the boon that those men or women who would worship Kāli existing in green grass would have happiness, long life and _saubhāgya_. The printed HV labels it Harikāli, but no question about Hari (meaning Viṣṇu) arises here. Hari here probably simply means 'tawny' (i.e. Kāli who was once brown or tawny and not fair ).
 
-from all diseases; KKV 388-389; (2) bath at dawn in M. and honouring a householder and his wife with flowers, garments, ornaments and dinner; attains saubhāgya and health ; HV II. 794 (from Pad.), KKV 444 ( which is Mat. 101. 36-37); (3) Begin in Aśv. if there is 14th tithi in su. and Sunday; tithivrata; Śiva deity; special bath for Śivaliṅga, rocanū being applied to it as unguent and worship with red flowers; naivedya of milk and ghee of kapilā cow; gift to a brūhmaṇa devotee of Śiva; the former should have dinner mixed with saffron; reward-sons are born to him; HV II. 64-65 (from Kālottara ); (4) on Sunday the per foriner shaves himself and worships the Sun with cakes mixed with jaggery and salt and observes nakta that day: all desires are fulfilled and he goes to Sūryaloka; HV I. 779-780 (from Vi. Dh.); (5) fast on Cai. śu. 6th and on 7th tithi worship the Sun; an altar be made with whitish clay and a lotus with eight petals be drawn thereon with coloured powders; place Sun's image on the pericarp and draw in the eight quarters from the eastern petal certain demigods, goddesses and sages, two each being assigned to the six seasons from spring; homa with 108 āhutis of ghee to the Sun, and eight to each of the others; for one year; at end gift of a cow and some gold; he goes to Sūryaloka; if per formed for twelve years the performer secures sūyujya; HV 1. 770–774 (from Vi. Dh. III. 167. 11-15, 168. 1-30; (6) begin in Mārg. on a Sunday (?) and proceed for 12 months; draw a lotus with twelve petals with pericarp on a copper vessel with red sandalwood paste and worship the Sun thereon; in the several months the names of the god worshipped ( such as Mitra in Mārg., Viṣṇu in P., Varuṇa in M. &c.), the naiveilya and the special article to be eaten by the performer are different; it destroys sins and secures all desired objects; HV II. 552-557 (from Sauradharma); This is a vāravrata; (7) nakta throughout month of P. and fast on both 7th tithis; worship of Sun and of Agni thrice a day in the month of P.; KR 475-76 (from Bhav.)
+_Harikriḍāśayana or Harikriḍāyana_-on K. or Vai. 12th; tithivrata; Hari deity; place in a copper vessel filled with honey a golden image of Nr̥siṁha with four arms, with rubies for arms, coral for nails and other precious stones on the chest, ears, eyes and head, and fill the vessel with water; worship and _jāgara_; the performer has no danger in a forest or battle, secures wealth and long life; KKV 392-393, HV II.376-377 (from Nr̥siṁhapurāṇa).
 
-Sūryaṣaṣṭhi-begin ekabhakta in Bh. śu. from 1 to 5th and on
+_Haritālikāvrata_—Vide above pp. 144-45.
 
-6th fast and worship of Sun's image; for a year; in each month different name of Āditya; at end elaborato udyāpana
+_Harinakta_—see NS 21.
 
-is described; HV I. 608-615 ( from Bhav. U.), NS 134.
+_Haritithi_—is 12th, acc. to SmK. 29.
 
-Sūryāṣṭami–Vide Arkāṣṭami p. 261 above.
+_Hariprabodhotsava_-celebrating the supposed awakening of Viṣṇu in K. Vide pp. 109-111 above.
 
-454
+_Harivāsara_-The day of Hari. There is a divergence of views on this point; VKK 14 holds that Ekādaśī is really the day of Hari and not dvādaśī. Gar. I. 127. 12 and Nāradapurāṇa II. 24. 6 and 9 call Ekādaśī Harivāsara; KSS 43 quotes Mat. to the effect that if Āṣ. śu. 12th falls on Wednesday and has Anurādhā nakṣatra and if Bh, śu. 12 falls on Wednesday and has Śravaṇa nakṣatra and if K. śu. 12 falls on Wednesday and has Revati nakṣatra, these are called Harivāsara. Smk 29 holds that Dvādaśī is Haritithi.
 
+_Harivrata_-(1) a person should practise ekabhakta on Pūrṇimā and Amāvāsyā; he does not go to Hell; on those tithis he should worship Hari with 'puṇyāhavācana' and words like 'jaya': he should feed one brāhmaṇa, bow to him and feed other brāhmaṇas and the blind, helpless and distressed persons; HV II. 373 (from Narasiṁhapurāṇa), KKV 389 390; for punyāhavācana, vide H. of Dh. vol. II. p. 216; (2) a person who gives up food on 12th tithi goes to heaven; HV I, 1172 ( from Var.).
 
+_Hariśayana_--the sleeping of Viṣṇu in Āṣ.; vide above pp. 109-111.
 
+_Halaṣaṣṭhi_–Bh. kr̥. 6 is so called; NS 123.
 
+_Haviṣya_-sacrificial substances that can be partaken of on certain vratas; KR 400, TT 109, NS 106 and H of Dh. vol.IV. p. 149 note 334.
 
-Somavati-amāvāsya-Amāvāsyā on Monday is very holy; vide
+_Hastagaurīvrata_--on Bh, śu. 3; told by Kr̥ṣṇa to Kunti for recovering a kingdom endowed with wealth and grain. Vratārka, folios 50b-52b, AK 280b; contemplation of Gaurī, Hara and Heramba (Gaṇeśa) for 13 years and udyāpana in 14th year.
 
-KV 492 (from Bhav.); HK 643, VKK 9; on this day persons (specially women in the Deccan) go to a aśvattha tree, worship Viṣṇu and circumambulate the tree 108 times; Vratārka folios 350b-356, DS. 23, the former remarking that this is not mentioned in the great religious digests ( nibandhas) but is based upon usage.
+_Himapūjā_-worship the Moon, the left eye of Viṣṇu on Pūrṇimā with flowers, _naivedya_ of milk, give salt to cows, honour one's mother, sister and daughter with new red garments; if one is near Himālaya, then one should offer to pitṛs ice mixed with honey, sesame and ghee and where there is no ice he should repeat the words 'ice, ice' and should feed brāhmaṇas with māṣa food full of ghee; festival with songs and dance should be held and Śyāmā-devi worshipped, fresh wine should be drunk by those used to drinking; KR 471–72 ( from Brah.).
 
-Somarārairatas-HV II. 557-566 (only two), Vratārka folio
+_Hr̥dayavidhi_--Vide KKV 19-20, HV II. 526; vide above p. 268 under 'Ādityavāra'.
 
-379b-382b, SmK 149, VKD 437–443. General rule is; begin on the first Monday of Sr., Vai., K., or Mārg. ; worship of Śiva and total fast or nakta on that day; VKD gives an elaborate procedure of Somavāravrata and its udyāpana.
+_Homavidhi_-For procedure of _homa_ in the Gr̥hyasūtras, vide H. of Dh. vol. II, pp. 207-210 and for homa in medieval times, vide HV I. 309-310.
 
-The Mondays in Śr. are regarded specially holy even now. Somavrata-(1) when the 8th in any pakṣa falls on a Monday
-
-one should worship Śiva, the right side of the idol represent ing Śiva and left side Hari and the Moon; bathe the liṅga with pañcāmṛta, apply sandalwood and camphor to right side and to the left saffron, aguru, uśīra; nīrājana with 25 lights of the God and the Devi; dinner to brāhmaṇas with their wives; for a year or five years; KKV 269–271, HV I. 829-831 ( from Kālikā); (2) on Vai. pūrṇimā fill a copper vessel with water, put image of Śhaṅkara therein and cover it with cloth and worship with gandha and flowers and donate with the words 'may Mahādeva, lord of the world, who assumes the form of the Moon, be pleased with me'; KKV 353, HV II. 174-175, KR 166-167 (all quoting Bhav.); (3) on su. 2nd tithi one should donate vessel containing salt to a brābmapa; for a year; at end donate a cow; goes to Śivaloka; KKV 451 ( 59th Sastivrata from Mat. 101. 81 ), HV I. 389 (from Pad.); (4) when 8th tithi falls on Robiṇi nakṣatra, perform this; bathe Siya with pañcāmsta and apply camphor or sandalwood paste to the liṅga or image and worship with white flowers; offer naivedya of jar of milk mixed with white ground sugar; jāgara; yields long life, fame etc.; HV 1. 863 (from Kālottara ); (5) fast on M. śu. 14th and on 15th apply (to the liṅga) a blanket of ghee from top to the vedi; donate a pair of dark cows; jāgara with songs and dance; HV II. 239–240 (from Bhav.); (6) on the first Monday in Mārg. śu., or Cai. or on any Monday when an intense impulse to worship arises; worship Śiva with white flowers (like Mālati, Kunda &c.), apply
-
-List of vratas
-
-455
-
-sandalwood paste (to image or liṅga), offer naivedya; homa; rewards of performance of nakta on Monday in the months from Mārg, described; HV II. 558-566 (from Skanda); (7) on each Monday eight brīhmaṇas to be treated to dinner for a year; at and a silver image of Śiva to be made and donated; worship of Śiva and Umā with mantra 'tat puruṣāya vidmaho' (Maitrā. S. II, 9, 1, Tai. Ār. X. 46 );
-
-Pad. IV. 108. 82-90. Somāyana-vrata--for a month; consists in subsisting on the milk
-
-of all four udders of a cow for seven days; for seven days on milk of three udders, then seven days more on milk of one udder and fast for the next three days; destroys all sins.
-
-Mārkaṇḍeya q. by Mit. on Yāj. III. 324. Somāṣṭamivrata-tithivrata; Śiva and Umā are deities; on 9th
-
-tithi with Monday worship of Śiva and Umā at night; bathing image with pañcagavya; worship Śiva under the names Vāmadeva and others; apply sandalwood paste and camphor to the right side of image and saffron and Turuska (olibanum) to the left; place sapphire on Devi's head and pearl on Śiva's head and worship with white and red flowers; homa of sesame with the name Sadyojāta; HV I. 833-835 (from Skanda). Bhay. U. 59 describes this vrata almost in the same words (1-23 ); Vāmadeva, Sadyojāta, Aghora, Tatpūruṣa, Iśāna are the five faces (or forms) of Śiva.
-
-Vide Tai. Ār. X. 43-47. Saukhyavrata,on 8th or 11th or 14th of M. observe ekabhakta
-
-and donate white garments, sandals, blanket, umbrella, water and a cup to one who is in want of these; HV II. 440
-
-(from Bhav.). Saugandhyavrata-this is a ștuvrata; Śiva and Keśava deities;
-
-give up use of flowers in Hemanta and Sisira and of three kinds of pattras ( fragrant substances) on Phā. pūrṇimā and donate some gold with the words 'May Śiva and Keśava
-
-be pleased'; HV II. 860. Saubhāgyatstiyāvrata-41) on 3rd tithi of Phā. su. observe nakta
-
-and worship Hari with Lakṣmi or Rudra with Umā ( as both are declared in śāstras and purāṇas to be the same ); homa with honey and ghee and sesame; for a year divided into three periods; in months from Phā, to Jy., performer should eat food made from wheat without salt or ghee (or oil) on bare
-
-456
-
-
-
-
-
-ground; in months from K. to M. he should eat cooked barley food; on M. śu. 3 he should make golden images of Rudra and Gauri or of Hari and Sri and donate these with six vessels containing honey, ghee, sesame oil, jaggery, salt, cow's milk; he becomes fortunate and handsome for seven births; Var. 58. 1-19 q. in KKV 75–77, HV I. 479-80, KR
-
-52:-52 1. Saubhūiyavrata-(1) on K. pūrṇimā worship the Moon's image
-
-on the pericarp of a lotus drawn with 16 petals; on the filaments of the lotus worship 28 nakṣatras (including Abhijit ) and on the leaves worship the tithis and their lords ( set out by name); at end of vrata donate two garments; fast or nakta on this day; confers blessedness, beauty, sexual pleasures; HV II. 235-36 (from Vi. Dh.); (2) give up use of salt on 3rd tithi of Phā. and of following months for a year; at end donate a bedstead and house with all para phernalia and honour a brāhmaṇa and his wife with the words 'May Pārvati be pleased'; he becomes a denizen of Gauriloka; tithivrata; Gauri deity; KKV 441 (which is Mat. 101. 15-16), HV I. 483 (from Gar.), VKK 29-30 (reads 'sayanam' for 'lavanam '). Agni ( 178. 24–25 ) has almost the same verses; (3) worshipper of the Moon on 5th tithi secures long life, wealth and fame; HV I. 574
-
-(from Vi. Dh.). Saubhūyyaśayana-vrata-on Cai. śu. 3rd tithi worship Gauri and
-
-Śiva images (as Gauri was married on that day) after bathing the images with pañcagavya and scented water ; salutations to the limbs of Devi and Śiva from feet to head and hair; place in front of the images Saubhāgyāstaka; next morning the golden images to be donated; on each 3rd this procedure for a year; different substance to be partaken of and different mantra to be repeated in each month from Cai. and different names of Devi also; special flowers employed in each month; performer to give up eating one fruit for a year; at end donate a bedstead with paraphernalia and golden cow and bull; secures saubhūyya, health, beauty, long life; Mat. 60 1-49; KKV 56-60 ( quotes only Mat. 60. 14-48 ), HV I. 444-149 ( quotes Mat. 60.1-48), KR 113-118 (quotes Mat. 60. 1-49 ). The same verses occur in Pad. V.
-
-24. 222-278 and also in Bhav. U. 25. 1-42. Saubhiigyasankrūnti-This is a sabkrāntivrata; on the Ayana
-
-or Visuva day having Vyatīpāta or on a saṅkrānti day oneList of vratas
-
-457
-
-LI
-
-should follow akabhakta, worship the sun and donate two garments and saubhāgyāstaka to a brāhmaṇa and his wife; for one year; dinner to brāhmaṇas and donate lavana parvata, golden lotus and golden sun image; HV II, 735-36 (from Skanda ); for gift of substances called parvatadānas,
-
-vide H. of Dh. vol. II, 882. Saubhāgyasunilari—on the 3rd tithi of Mārg. or M, kr.; tithi
-
-vrata; Umā deity; fast that day; for a year; in each month different name of Umā is used; flowers, fruits and naivedya to be offered are different and also the substance to be eaten by the performer; Vratārka folios 56a-60b, VR 114-120 (quoting Bhav. U.). It is to be performed on 3rd mixed with
-
-4th ( and not on 3rd mixed with and ). Saubhāgyūrāptitrata-This is a māsavrata; Kr̥ṣṇa deity ; begin
-
-on the 1st tithi after Māgha pūrṇimā (by pūrṇimānta reckoning ); worship image of Kr̥ṣṇa or his picture on a strip of cloth; performer to bathe with water scented with priyangu ( panic seed or Italian millet ), offer caru ( boiled rice ) mixed with priyangu and homa with the same; for a month; on Phā. pūrṇimā after three days' fast donate two garments dyed with saffron, a vessel full of honey &c.; this confers saubhāgya and beauty; HV II. 799 (from Vi. Dh.
-
-III, 204, 1-5). Saubhāgyūṣtaka-Mat. ( 60. 8-9) provides that eight things are
-
-so called, viz. sugarcane, mercury, nispāva ( wheat prepara tion in which milk and ghee are used), ajūji (cumin seed), dhānyaka ( coriander), curds from cow's milk, safflower and salt. This is quoted by HV I. 48–49, KR 115, VR 16 ( with variant and corrupt readings ). KR reads "tavarājaḥ' (white ground sugar ) and VR reads. tarurājaḥ'(palmyra); Pad. V. 24. 251 enumerates somewhat differently, reads 'tarurāja, kusuma ( v. 1 kustumburu ) and jiraka' (panicum
-
-miliaceum); vide Bhav. U. 25. 9 also for the eight things. Saumyavidhi –When Sunday has Robiṇi nakṣatra, it is called
-
-Saumya; bath, gifts, japa, homa, tarpapa of pitss and gods on this day become inexhaustible; observe nakta and worship the sun on this day with red lotuses, red sandal wood paste, sugandha dhūpa and pāyasa (as naivedya );
-
-performer is freed from sins; KKV 13-14, HV I. 524. Saumyavrata-Give up flowers in Hemanta and Sisira Beasons and on Phā. pūrṇimā donate three flowers of gold in the
-
-8. D. 58
-
-LES
-
-458
-
-
-
-
-
-afternoon with the words 'May Śiva and Keśava be pleased':
-
-Mat. 101, 13–14 ( quoted in KKV 441 ). Sauratrivikrama-vrata-This is a māsavrata; Sun deity; for
-
-three months or three years; in month of K, worship Jagan nātha or the Sun and observe ekabhakta and donate the second meal to a brāhmaṇa; same procedure in Mārg. and P. and Sun to be worshipped as Vibhākara and Divākara; sins committed in youth and middle age and even grave sins are destroyed; it is called Trivikrama' because the three names of the sun) relieve a man in three months or
-
-three years; HV II. 856 ( from Bhav. U.). Sauranakta-vrata-This is a vāravrata; Sun deity; to be per
-
-formed on Sunday with Hasta nakṣatra; honour brāhmaṇas on it; performer is freed from diseases ; HV II. 521 (from
-
-Nrsiṁhapurāṇa ). Sauravrata—This is Mat. 101. 63 ( a ṣaṣṭivrata ) which occurs in
-
-KKV 448, HV I. 787 (from Pad.); fast on 7th tithi; Sun deity; for one year; at end donate a golden lotus, cows along with some gold and a jar full of food; leads to
-
-Sūryaloka. Skandaṣaṣṭhim6th tithi in Āṣ. śu. is so called; worship Kumāra
-
-(Kārtikeya) on it after observing a fast the previous day; NA 49, PC 101, SmK 138. NA adds that on seeing (the idol of) Kārtikeya in Dakṣiṇāpatha on Bh. śu. 6 one becomes free from even grave sins like brāhmaṇa murder; vide also KR 275-277. In Tamil lands Skandaṣaṣṭhi is important, is shown in the calendar as in (solar) Vrścika-māsa (K. śu. 6) and celebrated in temples and also in some houses; HK 62%, KR 119 quote some verses from Brah. saying that Skanda was produced from Agni on amāvāsyā and appeared on Cai. Śu. 6, was made Commander-in-Chief of gods and vanquished demon Tāraka, hence he was to be worshipped with lamps, garments, decoration, cocks (as a plaything) &c., or he may be worshipped on all su, 6th tithis by those that desire health for their children. Vide TT 35 (saying
-
-that 6th of Cai. is called Skandaṣaṣṭhi), SmK 93. Skandaṣaṣṭhirrała-on K. śu. 6 subsist on fruits, turning to the
-
-south give arghya to Kārtikeya and offer curds, ghee, water and flowers and a mantra; the performer should take his meal at night from food placed on the bare earth; he secures success, prosperity, long life, health, and lost kingdom; one
-
-List of vratas
-
-459
-
-should not partake of oil on 6th (either in su. or kr.); Bbav. I. 39. 1-13 q. by KK V 99-101, HV I. 604-605, KR 415-416. Vide under “Şaṣthīvratas' for proposition that Skandaṣaṣṭhi mixed with fifth is to be preferred. GK (83–84) speaks of
-
-Skandaṣaṣṭhi on Cai, kr. Striputrakāmāvāptivrata--this is a māsaprata; Sun deity; the
-
-woman passing K. by ekabhakta and observing the rules of conduct such as ahiinsā, who offers to the sun naivedya of boiled rice mixed with jaggery and fasts on 6th or 7th tithi, in both fortnights, reaches sūryaloka and when she returns to the world she secures a king or other desired person as husband; special rules about the months from Mārg.; HV
-
-II. 821-824 (from Bhav.), KR 406. Snapanasaptamīvrala—for a woman whose child or children die
-
-in infancy; Bhav. U. 52. 1-40. Snuhi-vitape manasū-pūjā- on Sr. kr. 5th worship Manasā-devi
-
-that removes (danger of) snake poison on a twig of Snuhi
-
-plant in one's court-yard; TT 33. Vide above p. 125. Snehavrata—This is a māsavrata; God (Viṣṇu?) deity; person
-
-should give up oil bath for four months from Āṣ, he should subsist on pāyasa and ghee; at end he should donate a jar full of sesame oil; this secures people's affection (sneha); HV
-
-II. 818 (from Pad.). Syamantaka (jewel-story in Harivamsa I. 38; vide pp. 147-148
-
-above under Gaṇeśacaturthi. The verse 'siṁhaḥ Prasenam
-
-avadhit' is Harivamsa I. 38.36. Svarṇagaurirrata-on Bh. śu. 3; tithivrata; Gauri deity; for
-
-women only; Gauri is worshipped with the 16 upacāras; prayer to Devīto bestow sons, health, saubhagya; on udyāpana 16 wickerwork vessels are filled with sixteen edibles and covered with cloth and donated to brāhmaṇa householders and their wives; Vratārka 41a-44b, VR 96-97 ( notes that
-
-it is prevalent in Karnataka country and is based on usage). Svastikavrata-from Āṣ. 11th or 15th for 4 months; for both
-
-men and women; said to be well-known in Karnataka ; draw svastikas in five colours (blue &c. ), and they are to be presented to Viṣṇu; worship of Viṣṇu in temple or on land; Vratārka folios 3565-358 from Bhav. U (questions its
-
-authoritativeness ) Hamsavrata-bathe with recitation of Puruṣasūkta; tarpaṇa
-
-and japa with same; worship Janardana called Hamsa in
-
-460
-
-
-
-
-
-midst of a picture of a lotus having eight petals with flowers &c. to the accompaniment of R̥g. X. 90, then homa; donate a cow; for a year; he secures all desires; Vi. Dh. III. 225.
-
-1-9. Hanūnat-jayantimon Cai. śu. 15. Hayapañcami or Huyapūjārra'a-on Cai. 5th Uccaihśravas
-
-( Indra's horse ) rose from the ocean and so he should be worshipped along with gandharvas (such as Citraratha, Citrasena) who are its bandhus with songs, sweetmeats, polikas (Marathi, poli), curds, jaggery, milk, rice flour; reward-strength, long life, health non-defeat in battle; HV I. 573 ( quoting Sālihotra), SmK. 92. This is also called Matsyajayanti; AK folio 360b.
-
-Harakālivralamon M. śu. 3; tithivrata; Devi is deity; for
-
-women; performer should pass the whole night contemplat ing Umā on green barley sprouts; next day bath and worship of Devi and then dinner; in each of 12 months different names of Devi to be taken and 12 different sub stances to be partaken of; at year's end honour a brāhmaṇa and his wife; reward-freedom from disease, no widowhood for seven births, son, beauty &c.; Śhaṅkara asks Pārvati what vrata she performed to secure the position of sharing
-
-half his body. Harattīyā-vrata-on M. śu. 3; tithivrata; Umā and Maheśvara
-
-deity; in a mapdapa draw a lotus with eight leaves; in eight directions nyūsa of the eight names of Umā viz. Gauri, Lalitā, Umā, Svadhā, Vāmadevi &c.; place Umā Maheśvara in the middle; worship with gandha and flowers; place a jar filled with rice grains; homa with four āhutis of ghee and one hundred of sesame; in each of the eight praharas perform bath and homa; next day honour & brāhmaṇa and his wife; this to be followed for four years; then udyāpana; golden image of Umā and Maheśvara to be donated to ācārya; gives saubhagya and health; HVL. 480-482.
-
-Haratrirātrarrata–one fasting for three days at the root of
-
-a bilra tree and reciting a lakh of times the name of Hara destroys the sin even of bhrūnabatyā; HV II. 312 ( from Saurapurāṇa). Vide H. of Dh. vol. II. p. 148n and vol. 111. p. 612 note 1161 for explanations of bhrūṇa.
-
-List of vratas
-
-461
-
-Haravrata-on 8th tithi draw an image of lotus leaf and
-
-worship Hara and perform homa with streams of ghee and
-
-fuel-sticks; HV I. 881 ( from Bhav.). Harikūlīvrata-on 3rd tithi of Bh. śu. worship of Kāli on the
-
-sprouts of seven dhānyas sown in a winnowing basket; it is carried at night by women whose husbands are alive to a reservoir of water and discharged therein; HV I. 435-439 (from Bhav. U. 20. 1-28). The story is that Kāli was daughter of Daksa, was given in marriage to Mahādeva and was dark in complexion. Once in an assembly of gods Mahādeva called her as dark as collyrium. She was angered, left her complexion on a grassy plot and threw herself into fire. She was born again as Gauri and became Mahādeva's wife. The dark complexion laid aside by Kāli became Kātyāyani, who helped gods in their undertakings. The gods bestowed on her the boon that those men or women who would worship Kāli existing in groen grass would have happiness, long life and saubhāgya. The printed HV labels it Harikāli, but no question about Hari (meaning Viṣṇu) arises here. Hari here probably simply means 'tawny' (i.e.
-
-Kāli who was once brown or tawny and not fair ). Harikridāśayana or Harikridayana-on K. or Vai. 12th; tithi
-
-vrata; Hari deity; place in a copper vessel filled with honey a golden image of Nýsiṁha with four arms, with rubies for arms, coral for nails and other precious stones on the chest, ears, eyes and head, and fill the vessel with water; worship and jāgara; the performer has no danger in a forest or battle, secures wealth and long life; KKV 392-393, HV II.
-
-376-377 (from Nrsiṁhapurāṇa). Haritālikācrata—Vide above pp. 144-45. Harinakta—see NS 21. Haritithi—is 12th, aco. to Sm K. 29. Hariprabodhotsara-celebrating the supposed awakening of
-
-Viṣṇu in K. Vide pp. 109-111 above. Harirāsara-The day of Hari. There is a divergence of views
-
-on this point; VKK 14 holds that Ekādaśī is really the day of Hari and not dvādaśī. Gar. I. 127. 12 and Nāradapurāṇa II. 24. 6 and 9 call Ekādaśī Harivāsara; KSS 43 quotes Mat. to the effect that if Āṣ. śu. 12th falls on Wednesday and has Anurādhā nakṣatra and if Bh, śu. 12 falls on Wednes
-
-462
-
-
-
-(Soc. I, Ch. XIII
-
-day and has Śravaṇa nakṣatra and if K. śu. 12 falls on Wednesday and has Revati nakṣatra, these are called
-
-Harivāsara. Smk 29 holds that Dyādaśī is Haritithi. Harivrata-(1) a person should practise ekabhakta on Pūrṇimā
-
-and Amāvāsyā; he does not go to Hell; on those tithis he should worship Hari with 'pupyāhavācana' and words like
-
-jaya': he should feed one brāhmaṇa, bow to him and feed other brāhmaṇas and the blind, helpless and distressed persons; HV II. 373 (from Narasiṁhapurāṇa), KKV 389 390; for punyāhavācana, vide H. of Dh. vol. II. p. 216; (2) a person who gives up food on 12th tithi goes to heaven; HV
-
-I, 1172 ( from Var.). Harisayana--the sleeping of Viṣṇu in Āṣ.; vide above
-
-pp. 109-111. Halajastha–Bh. tr. 6 is so called; NS 123. Harisya-sacrificial substances that can be partaken of on
-
-certain vratas; KR 400, TT 109, NS 106 and H of Dh. vol.
-
-IV. p. 149 note 334. Hastagaurīvrata--on Bh, śu. 3; told by Kr̥ṣṇa to Kunti for
-
-recovering a kingdom endowed with wealth and grain. Vratārka, folios 506-52b, AK 280b; contemplation of Gaurī, Hara and Heramba (Gaṇeśa) for 13 years and udyāpana in
-
-14th year. Himapūjā-worship the Moon, the left eye of Viṣṇu on Pūr
-
-śimā with flowers, naivedya of milk, give salt to cows, honour one's mother, sister and daughter with new red garments; if one is near Hirnālaya, then one should offer to pitṛs ice mixed with honey, sesame and ghee and where there is no ice he should repeat the words 'ice, ice' and should food brāhmaṇas with māsa food full of ghee; festival with songs and dance should be held and Syāmā-devi worshipped, fresh wine should be drunk by those used to drinking; KR
-
-471–72 ( from Brah.) Hrdayavidhi--Vide KKV 19-20, HV II. 526; vide above p. 268
-
-under 'Ādityavāra'. Homavidhi-For procedure of homa in the Grhyasūtras, vide
-
-H. of Dh. vol. II, pp. 207-210 and for homa in medieval
-
-times, vide HV I. 309-310. Holikā-Vide above pp. 327-341.
+_Holikā_-Vide above pp. 327-341.
