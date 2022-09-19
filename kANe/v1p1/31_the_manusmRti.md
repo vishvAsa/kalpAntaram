@@ -3,7 +3,9 @@ title = "31 The Manusmṛti"
 
 +++
 
-31. The Manusmrti So many editions of this work have been published in India since 1813 ( when the Manusmrti was first published at Calcutta ), that it is not possible to name them. In this work the Nirnayasāgara edition with the commentary of Kulluka has been used throughout. Another edition of Manu well known on this side of India is that of the late V. N. Mandlik, who published several commentaries such as those of Medha tithi, Govindaraja and others. The Manusmrti has been tran slated into English several times. The best known transla tion is that of Dr. Bühler in the S. B. E. series (vol. 25). Dr. Bühler also added an exhuustive and very scholarly intro duction to his translation and dealt with numerous problems connected with the Manusmrti. 
+31. The Manusmrti 
+    
+So many editions of this work have been published in India since 1813 ( when the Manusmrti was first published at Calcutta ), that it is not possible to name them. In this work the Nirnayasāgara edition with the commentary of Kulluka has been used throughout. Another edition of Manu well known on this side of India is that of the late V. N. Mandlik, who published several commentaries such as those of Medha tithi, Govindaraja and others. The Manusmrti has been tran slated into English several times. The best known transla tion is that of Dr. Bühler in the S. B. E. series (vol. 25). Dr. Bühler also added an exhuustive and very scholarly intro duction to his translation and dealt with numerous problems connected with the Manusmrti. 
 
 In the Rgveda the rgis often speak of Manu as 'father' (in Rg. I. 80. 16, I. 114. 2, VIII. 63. 1 ) without expressly saying 
 
