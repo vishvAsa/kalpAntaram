@@ -228,137 +228,59 @@ The Bṛhat-saṁhitā (104.1-5) declares what nakṣatras (out of 27) form part
 
 From the above it would be noticed that a nakṣatra astrology apart from the rāśi astrology had been thoroughly developed in India while Ptolemy is hardly concerned with the nakṣatras, but concentrates only on _rāśis_.
 
-The twelve _rāśis_ are to be found in the Zodiacal belt (or circle ); each extends over 2 1/4 nakṣatras i.e. Meṣa extends over Aśvini, Bharaṇi and 1/4 of Kr̥ittikā, vr̥ṣabha extends over 3/4 of Kṛttikā, whole of Rohiṇi and half of Mr̥gaśirṣa and so on. These twelve rāśis from Meṣa are identified respectively with the following limbs of the Kālapuruṣa[835a] viz. the head (Meṣa), mouth (Vr̥ṣabha), chest, heart, stomach, waist, the abdomen (between the navel and the private parts), the private parts, the pair of thighs, the pair of knees, the two shanks, the two feet. Varāha adds that the words _rāśi, kṣetra, gr̥ha, r̥kṣa, bha and bhavana_ are used as synonyms in Jātaka. The purpose of the identification of _rāśis_ with the limbs of Kāla put forward by astrological works is that if a malefic planet occupies in a person's horoscope a certain rāśi, he is adversely affected in that limb of his body to which the rāśi corresponds among the limbs of Kāla, but if a beneficent planet occupies at birth a rāsi, then the person prospers as to the corresponding limb. This is succintly put by the Sārāvali (III. 5-6). 
+The twelve _rāśis_ are to be found in the Zodiacal belt (or circle ); each extends over 2 1/4 nakṣatras i.e. Meṣa extends over Aśvini, Bharaṇi and 1/4 of Kr̥ittikā, vr̥ṣabha extends over 3/4 of Kṛttikā, whole of Rohiṇi and half of Mr̥gaśirṣa and so on. These twelve rāśis from Meṣa are identified respectively with the following limbs of the Kālapuruṣa[835a] viz. the head (Meṣa), mouth (Vr̥ṣabha), chest, heart, stomach, waist, the abdomen (between the navel and the private parts), the private parts, the pair of thighs, the pair of knees, the two shanks, the two feet. Varāha adds that the words _rāśi, kṣetra, gr̥ha, r̥kṣa, bha and bhavana_ are used as synonyms in Jātaka. The purpose of the identification of _rāśis_ with the limbs of Kāla put forward by astrological works is that if a malefic planet occupies in a person's horoscope a certain rāśi, he is adversely affected in that limb of his body to which the rāśi corresponds among the limbs of Kāla, but if a beneficent planet occupies at birth a rāsi, then the person prospers as to the corresponding limb. This is succintly put by the Sārāvali (III. 5-6).
 
-[^835]. ER AFT EFF: Fan : 1 REZI KUTE! 356 Pasirei sagt sie TUT: IT ÊT: 47 lā: 1. AT. I. 5.2-7; TITÀ IV. 4. 141 (aag :) derives Vedic नक्षत्रिय from नक्षत्र. ____[^835]a. कालाङ्गानि वराङ्गमाननमुरो हृत्कोडवासोभृतो बस्तिय॑ञ्जनमूरुजानुयुगले जले ततोऽबिद्वयम्। मेषाश्विप्रथमा नवर्षाचरणाश्चक्रस्थिता राशयो राशिक्षेत्रगृहक्षभानि भवनं चे.
+[^835]: हस्त एवास्य हस्तः । चित्रा शिरः । निष्टया हृदयम्। अरू विशाखे। प्रतिष्ठा अनूराधाः । एष वै नक्षत्रियः प्रजापतिः । तै. ब्रा. I. 5.2-7; पाणिनि IV. 4. 141 (नक्षत्राद् घः) derives Vedic नक्षत्रिय from नक्षत्र.
 
-FÅ4E44T: 1 Tem 1,4. 29on this quotes similar verses from बादरायण, a predecessor mentioned by घराहमिहिर in बृहत्संहिता 39. 1. The mg Str I. 4 mentions the same limbs and rāśis but in a shorter compass; the athaigalut (chap. 5. 30-42) holds that Rudra assumed the form of Kala and identifies the rāsis from Meṣa onwards with the head and other limbs of Kāla and the Mārkandeyapurāṇa ( 55. 75-79 ) assigos rāsis to the several limbs of Nārāyana. Fratreraryarori
+[^835a]: कालाङ्गानि वराङ्गमाननमुरो हृत्क्रोडवासोभृतो बस्तिर्व्य॑ञ्जनमूरुजानुयुगले जङ्घे ततोऽङ्घ्रिद्वयम्। मेषाश्विप्रथमा नवर्क्षचरणाश्चक्रस्थिता राशयो राशिक्षेत्रगृहर्क्षभानि भवनं चेकार्थसंप्रत्ययाः ॥ बृहज्जातक I.4. उत्पल on this quotes similar verses from बादरायण, a predecessor mentioned by वराहमिहिर in बृहत्संहिता 39. 1. The लघुजातक I. 4 mentions the same limbs and rāśis but in a shorter compass; the वामनपुराण (chap. 5. 30-42) holds that Rudra assumed the form of Kāla and identifies the rāsis from Meṣa onwards with the head and other limbs of Kāla and the Mārkaṇḍeyapurāṇa ( 55. 75-79 ) assigns rāśis to the several limbs of Nārāyana. कालनरस्यावयवान्पुरुषाणां कल्पयेत्प्रसवकाले । सदसदग्रहसंयोगात्पुष्टान्सोपद्रवांश्चापि ॥ सारावली III. 6.
 
-F
 
-I FTH egeringaishi H T III. 6.
+The twelve rāśis with their English and Latin equivalents and their synonyms are set out below:			
 
-8. D. 71
+English	Latin	Sanskrit	Synonyms
 
-562
+Ram	Aries	Meṣa 	Aja, chāga, _kriya_
+Bull	Taurus	Vr̥ṣabha 	Ukṣan, vṛṣa, go, gopati, _tāvuri (or Tavuru )_
+Twins	Gemini	Mithuna	Yugma, nr̥yuga, _jituma, jutuma or jitma_.
+Crab	Cancer	Karka	Karkin, Karkaṭa, _kulira_
+Lion	Leo	Siṁha	Hari, Mr̥gendra, _leya_
+Virgin	Virgo	Kanya	Aṅgana, yuvati, pramadā, kumari, _Pāthona (Pāthena ?)_
+Balance, Scales	Libra	Tula	Tauli, dhaṭa, vaṇij, tulādhara, _jūka_
+Scorpion	Scorpio	Vr̥śchika	Ali, Kiṭa, _Kaurpya or Kaurpi_
+Archer	Sagittarius	Dhanus	Cāpa, Kārmuka, dhanvin, hayāṅga, _Taukṣika (or Taukṣa)_
+Goat	Capricornus	Makara	Mr̥gasya, mr̥ga, _Ākokera_
+Water-carrier	Aquarius	Kumbha	Ghaṭa, kumbhadhara, _hr̥droga_
+Fishes	Pisces	Mīna	Matsya, jhaṣa, animiṣa, _Ittha (or Celtha?)_
 
+The words in this list that are put in italics are mentioned in a separate verse by Varāha ( Bṛhaj-jātaka I. 8).[^836]
 
+[^836]: कियताबुरिजितुमकलीरलेयपाथोनजूककौर्प्याख्याः। तौक्षिक आकोकेरो हृद्रोगश्चान्त्यभं चेत्थम् । बृहज्जातक 1.8. The words अन्त्यभं चेत्थम् create a difficulty: Utpala takes them to mean 'and the last sign, in this way'. 'Antyabha' is a pure Sanskrit word and not Greek and there is on this interpretation no Greek word corresponding to Mīna (Pisces). Another commentator Guṇākara says that the last rāśi is called 'cettha' (vide Subrahmanya Sastri's translation of Bṛhajjātaka p. 8). The T.S.S. edition of बृहज्जातक has 'हृद्रोगश्वेर्थासिः क्रमशः' i.e. the last rāśi is called 'irthasi'. The मूहुर्तदर्शन has इत्यसि 'संज्ञाभिः क्रियलेयजूकजतुमाः कौर्पिः कुलीरस्तथा हृद्रोगेत्थसितौक्षिकाश्च कथिताः पाथोनकस्ताबुरुः । I.9. Ptolemy employs a Greek word for Pisces (Loeb Classical Library pp. 52, 314, 328 &c. ), to which 'ittha' or 'ikthasi' or 'irthasi' would correspond rather than cettha', The Sāravali (III. 7) reads संज्ञास्तु जूककौर्पिकतौक्षाकोकेरहृदयरोगान्त्याः. That shows that it had no Greek word for 'mina ' before it. It may be noted that the Sārāvali expressly says that is Varāha's work is brief it ( Sārāvali) took essential matters from the extensive Śāstras composed by Yavananarendra and others I have not been able to find the word _ittha_ or a similar Sanskrit adaptation for Mīna in the Brhajjātaka. Vide Indische Studien vol. II. PP, 254-261 and JRAS for 1893 p. 747 for the Greek and Latin equivalents of the Sanskrit words for the signs of the zodiac, planets &c.
 
-Sec. II, CH. XVI
+## Names of rāśis and their synonyms
 
-The twelve rāśis with their English and Latin equivalents and their synonyms are get out below:
+It should be noted that the list of synonyms is not exhaustive; other words with the same meaning are often employed. For example, for Siṁha, Mr̥garāja may be used or for Mīna the word _pr̥thuroman_ may be used. The words in italics are deemed by Weber and many others as borrowings from or Sanskrit adaptations of Greek words. It may be admitted that most of them bear a striking resemblance to Greek names of rāśis. Pāthona should be Pāthena to correspond with the Greek word. There is no reason why kulira should be regarded as a Greek word. Kern (preface to Br. S. p. 29 ) thinks that it is a pure Sanskrit word. There is no Greek word corresponding to Kulira in Ptolemy. The word Karka or Karkin appears to mean 'white' and occurs as early as in Atharvaveda IV.38. 6-7. All that the Br̥haj-jātāka (1.8) means is that there are other words like _kriya_ used for the twelve rāsis in other works. Varāhamihira frequently refers to the views of the Yavanas and sometimes differs from them. It has been shown by me in my paper on 'Yavaneśvara and Utpala'( in J. of Bombay Asiatic Society, vol. 30, pp. 1-8) that there is a Sanskrit work on astrology called Yavana-jātaka of about 4000 verses composed by a king of the Yavanas called Sphujidhvaja and another Vr̥ddhayavanajātaka also in several thousand verses by Mīnarāja who styles himself the overlord of Yavanas. I cannot agree with Prof. Sen-Gupta ('Ancient Indian Chronology' p. 99 ) that words like Meṣa and Vr̥ṣabha in verses like R̥g. I. 51.1 (abhi tyam mesam) refer to rāśis, when he himself had to concede that he could not find the other ten in the R̥g.
 
-English
+The appearance of the rāśis is briefly described by the Br̥hajjātaka [^837] 1. 5 and explained by Utpala as follows: (The sign Mīna i.e. Pisces ) appears as two fishes (each facing the tail of the other), Kumbha appears as a man carrying an empty jar placed on his shoulder, the sign of Gemini is represented as a man carrying a mace and a woman holding a lute, the sign of Sagittarius is a man with a bow whose legs are like those of a horse, the sign Capricorn is a crocodile with the face of a deer, sign of Libra is a person holding scales, the sign Virgo is represented by a maiden in a boat with an ear of corn in one hand and fire in the other; the remaining signs are similar (in form ) to the objects indicated by their names and all signs reside in places appropriate to their names. For more detailed descriptions, vide the twelve verses quoted from Yavaneśvara by Utpala which I have quoted and translated in my paper in the Journal of the Bombay Asiatic Society vol. 30 parts 1 and 2 pp. 1-7 and which are found in the Yavana-jātaka of Sphujidhvaja (a palm leaf ms of which exists in the Nepal Durbar Library ) and in the Vr̥ddhayavanajātaka of Mīnarāja. Those verses also name the special objects and places governed by the different rāśis. Several verses of Kāśyapa are quoted by Utpala on Bș. S. 40 that deal with the materials or things that are under the influence of the several rāśis. For example, Meṣa is the lord of garments, woollens, cloth made of the hair of a young goat, of _Masūra_ pulse, wheat, resin, barley, gold and plants that grow on dry land. [^838] The Vāmanapurāṇa [^838a] ( chap. 5.45-60 ) describes the appearance of the rāśis and the places and objects they reside in or dominate and the verses closely resemble the wording employed in the two Yavanajātakas of Sphujidhvaja and Mīnarāja.
 
-Latin
+[^837]: मत्स्यौ घटी नृमिथुनं सगदं सवीणं चापी नरोऽश्वजघनो मकरो मृगास्यः। तौली ससस्यदहना प्लवगा च कन्या शेषाः स्वनामसदृशाः स्वचराश्च सर्वे ॥ बृहज्जातक I. 5; some read खचराश्च सर्वे (all move in the sky). But this appears redundant and meaningless.
 
-Sanskrit
+[^838]: वस्त्राविककुतु(त)पानां मसूरगोधूमरालकयवानाम् । स्थलसम्भवौषधीनां कनकस्य च कीर्तितो मेषः॥ वृहत्संहिता 40. 2. If the reading be कुतुपानां it meave 'hide drums for oil'
 
-Synonyms
+[^838a]: स्त्रीपुंसयोः समं रूपं शय्यासनपरिग्रहम् । वीणावाद्यधृङ् मिथुनं गीतनर्तन शिल्पिषु ॥ स्थितं क्रीडारतिर्नित्यं विहारं ध्वनिकस्य तु । मिथुनं नाम विख्यातं राशिर्द्वधात्मक शिवः। कर्किः कुलीरेण समः सलिलस्थः प्रकीर्तितः। केदारवापीपुलिनविविक्तावनिरेव च । वामनपुराण 5.49–51.
 
-Ram
+## Rāśi names in India, China and elsewhere
 
-Aries
+Some verses are quoted below by way of illustration. From Varāha's description it appears that Meṣa, Vr̥ṣabha, Karkaṭa, Siṁha, Vr̥ścika, Makara and Mīna are figures of animals (either four-footed or insects) and the remaining five resemble human beings with special characteristics in each case. These rāśi names have more or less the same meanings in Babylonia, [^839] in Europe including Greece and in India. But it should not be supposed that everywhere the several groups of stars were imagined to be identical with the figures of the same animals or of human beings. In China for instance, the twelve rāśis are rat, ox, tiger, hare, dragon, serpent, horse, sheep, monkey, hen, dog and pig( Encyclopaedia Americana, vol. 29 under the word 'zodiac' and New Funk and Wagnall's Encyclopaedia vol. 36 under 'Zodiac')[^839a]. It is further stated that these are still found in some parts of Asia, in Japan and also among the remains of the Aztec race in America. There are many who deny that except for a few signs (like the Scorpion) there is hardly any very striking similarity between the twelve groups of constellations called Aries &c. and the natural appearance of the objects denoted by the twelve names.[^840] The origin of the names assigned to Zodiacal signs is unknown. The zodiacal signs named Meṣa, Vr̥ṣabha &. are purely imaginary, are mere subjective configurations of stars which appear to be in one plane and which appear to certain persons to possess somehow the outline of a scorpion or a lion which are, as modern astronomy tells us, situated at enormous distances (light years as they are called) from each other. The same constellation is often given different names; e.g. the constellation called Great Bear was called by Thales 'the wain' (waggon drawn by horses). The twelve Zodiacal signs are clearly absent from the sacred astronomy of Egypt[^841] and the Egyptians know nothing of the Zodiac before the Alexandrian age and very few Zodiacs are older than the Roman times.
 
-Meṣa Aja, chāga, kriya Vr̥ṣabha Ukṣan, vrsa, go, gopati, tāvuri
+[^839]: Vide Campbell Thompson's Intro. to 'Reports of the Magicians &c.' for a table of late Babylonian, Assyrian and modern English names of signs (pp. XXIII-XXIV) and Expository Times, vol 30 (for 1918) pp. 164-168 on 'Assyro-Babylonian astrologers and their lore' by T. G. Pinches. On p.167 the latter says that Europe is indebted to the Babylonians for the names of the signs of the Zodiac except Crab and Archer and sets out the Babylonian names with their meanings and modern names (Ram &c.). These two tables do not agree. Babylonians called Capricorn goat-fish. Bouche Leclercq (on p. 57 note 1) gives a list of the twelve Chaldean zodiacal signs, which differs from both the above.
 
-(or Tavuru )
+[^839a]: Vide 'the Stars above us by Prof. Zinner p. 35 and plate III opposite p. 19 showing the Japanese animal sequence from Rat to Pig.
 
-Bull
+[^840]: Vide 'Introducing the universe' by J. C. Hickey p. 123.
 
-Taurus
+[^841]: 'Legacy of Egypt' (ed. by Glanville) p. 162; 'The names of the stars' by E. J. Webb p. 96.
 
-Leo
-
-Twins Gemini Mithuna Yugma, nryuga, jituma, jutuma
-
-or jitma. Crab Cancer Karka Karkin, karkata, kulira Lion
-
-Simha Hari, Mṭgendra, leya Virgin Virgo Kanyā Adganā, yuvati, pramada,
-
-kumārl, Pathona ( Pūthenar) Balance, Libra Tulā Tauli, dhata, vapij, tuladhara,
-
-Scales.
-
-juka
-
-Scorpion Scorpio Vrścika Ali, kita, kaurpya or kaurpi Archer Sagittarius Dhanus Cāpa, kārmuka, dhanvin,
-
-hayānga, Tauksiha (or
-
-Tauksa) Goat Capricornus Makara Mrgāsya, mṛga, Akokera Water
-
-Aquarius Kumbha Ghata, kumbbadhara, hrdroga cartier
-
-Fishes
-
-Pisces
-
-Mina
-
-Matsya, jbasa, animiṣa, Ittha
-
-(or Celtha?)
-
-The words in this list that are put in italics are montioned in a separate verse by Varāha ( Bṛhaj-jātaka I. 8).[^836]
-
-[^836]. कियताबुरिजितमकलीरलेयपाधोनजककोपाख्याः। तौक्षिक आकोकेरो इद्रोगमा भयभं चेत्यम् । जातक 1.8. The words अन्त्यभं चेत्यम् create a difficulty: Utpala takes them to mean and the last siga, in this way'. 'Antyabhs' is a pure Sanskrit word and not Greek and there is on this interpretation po Greek word corresponding to Mina (Pisces). Apotber commentator Guda.
-
-(Continued on next page)
-
-Names of rāśis and their synonyms
-
-563
-
-F
-
-VU
-
-It should be noted that the list of synonyms is not exhaustive; other words with the same meaning are often employed. For example, for Simha, Mrgarāja may be used or for Mina the word prthuroman may be used. The words in italics are deemed by Weber and many others as borrowings from or Sanskrit adapta tions of Greek words. It may be admitted that most of them bear a striking resemblance to Greek names of rūśis. Pathona should be Pāthena to correspond with the Greek word. There is no reason why kulira should be regarded as a Greek word. Kern (preface to Br. S. p. 29 ) thinks that it is a pure Sanskrit word. There is no Greek word corresponding to Kulira in Ptolemy. The word Karka or Karkin appears to mean'white' and occurs as early as in Atharvaveda IV.38. 6-7. All that the Bshaj-jātāka (1.8) means is that there are other words like kriya used for the twelve rāsis in other works. Varāhamihira frequently refers to the views of the Yavanas and sometimes differs from them. It has been shown by me in my paper on Yavaneśvara and Utpala'( in J. of Bombay Asiatic Society, vol. 30, pp. 1-8) that there is a Sanskrit work on astrology called Yavana-jātaka of about 4000 verses composed by a king of the Yavanas called Sphujidhvaja and another Vrddhayavanajātaka also in several thousand verses by Minarāja who styles himself the overlord of Yavanas. I cannot agree with Prof. Sen-Gupta ('Anoient Indian Chronology' p. 99 ) that words like Meṣa and Vr̥ṣabha in verses like R̥g. I. 51.1 (abhi tyam mesam) refer to rāśis, when he himself had to concede that he could not find the other ton in the R̥g.
-
-(Continued from last page) kara says that the last rāśi is called 'cettba. (vide Subrahmanya Sastri's translation of Bṛhajjātaka p. 8). The T.S.S. edition of Lewma bas G UIA: FAŞI:' i. e. the last rāśi is called .irthasi'. The Latesia bas इत्यसि संज्ञाभिः क्रियलेयजूकजतुमाः कौर्पिः कुलीरस्तथा हृद्रोगेत्थसितौक्षिकाश्च कथिताः TUT T G: 1 1.9. Ptolemy employs a Greek word for Pisces (Loeb Classical Library pp. 52, 314, 328 &c. ), to wbich 'ittha' or 'ikthasi' or 'irtbasi' would correspond rather than cettba', The Sāravali (I11. 7) reads H Friluokater Targuty :. That shows that it bad oo Greek word for 'mina ' before it. It may be ooted that the Sārāvali expressly says that is Varāha's work is brief it ( Sārāvali) took essential matters from the exten sive sāstras composed by Yavapaparendra and others I have not been able to find the word ittha or a similar Sanskrit adaptation for Mina in the Brbajjātaka. Vide Indische Studien vol. JI. PP, 254-261 and JRAS for 1893 p. 747 for the Greek and Latin equivalents of the Sanskrit words for the signs of the zodiac, planets &c.
-
-564
-
-History of Dharmuśāstra
-
-
-
-TIT
-
-The appearance of the rāśis is briefly described by the Brbajjātaka [^837] 1. 5 and explained by Utpala as follows: (Tbe sign Mina i. e. Pisces ) appears as two fishes (each facing the tail of the other), Kumbha appears as a man carrying an empty jar placed on his shoulder, the sign of Gemini is represented as a man carrying a mace and a woman holding a lute, the sign of Sagittarius is a man with a bow whose legs are like those of a horse, the sign Capricorn is a crocodile with the face of a deer, sign of Libra is a person holding scales, the sign Virgo is represented by a maidon in a boat with an ear of corn in one hand and fire in the other; the remaining signs are similar (in form ) to the objects indicated by their names and all signs reside in places appropriate to their names. For more detailed descrip. tions, vide the twelve verses quoted from Yavaneśvara by Utpala which I have quoted and translated in my paper in the Journal of the Bombay Asiatic Society vol. 30 parts 1 and 2 pp. 1-7 and which are found in the Yavana-jātaka of Sphujidh vaja (a palm leaf ms of which exists in the Nepal Durbar Library ) and in the Vrddhayavanajātaka of Minarāja. Those verses also name the special objects and places governed by the different rāśis. Several verses of Kāśyapa are quoted by Utpala on Bș. S. 40 that deal with the materials or things that are under the influence of the several rāśis. For example, Meṣa is the lord of garments, woollens, cloth made of the hair of a young goat, of Masūra pulse, wheat, regin, barley, gold and plants that grow on dry land. [^838] The Vāmanapurāṇa [^838]a ( chap. 5.45-60 ) describes the appearance of the rāśis and the places and objects they reside in or dominate and the verses closely resemble the wording employed in the two Yavanajātakas of Sphujidhvaja and Minarāja. Some verses are quoted below by way of illustration. From Varāha's description it appears that Meṣa, Vr̥ṣabha, Karkata, Simha, Vrścika, Makara and Mina are figures of animals (either four-footed or
-
-[^837]. मत्स्यौ घटी मिथुनं सगदं सवीणं चापी नरोऽश्वजघनो मकरो मृगास्यः। तौली \#F4C6FT TI Tarut : HERTT: 7 Hall 4 I. 5; some read 7 F\# ( all move in the sky). But this appears redundant and meaniogless.
-
-[^838]. Tatagala)mai HETTYATISHI FUSHār fiai 1967 कीर्तितो मेषः। बृहत्संहिता 40. 2. If the reading be कुतुपानां it meave 'hide drama for oil'
-
-[^838]a. सीपुंसयोः समं रूपं शय्यासनपरिग्रहम् । वीणावाद्यधृछ मिथुनं गीतनर्तन शिल्पिषु ॥ स्थित क्रीडारतिनित्यं विहारं ध्वनिकस्य तु । मिथुनं नाम विख्यातं राशिधात्मक शिषः। कर्किः कुलीरेण समः सलिलस्थः प्रकीर्तितः। केदारवापीपुलिनविविक्तावनिरेव च । वामन
-
-Tur . 49–31.
-
-Rūśi names in India, China and elsewhere
-
-565
-
-insects) and the remaining five resemble human beings with special characteristics in each case. These rāśi names have more or less the same meanings in Babylonia, [^839] in Europe inclu ding Greece and in India. But it should not be supposed that everywhere the several groups of stars were imagined to be identical with the figures of the same animals or of human beings. In China for instance, the twelve rāśis are rat, ox, tiger, hare, dragon, serpent, horse, sheep, monkey, hen, dog and pig( Encyclo paedia Americana, vol. 29 under the word 'zodiac' and New Funk and Wagnall's Encyclopaedia vol. 36 under Zodiac '1[^839]a. It is further stated that these are still found in some parts of Asia, in Japan and also among the remains of the Aztec race in America. There are many who deny that except for a few signs (like the Scorpion) thera is hardly any very striking similarity between the twelve groups of constellations called Aries &c. and the natural appearance of the objects denoted by the twelve names.[^840] The origin of the names assigned to Zodiacal signs is unknown. The zodiacal signs named Meṣa, Vr̥ṣabha &. are purely imaginary, are mere subjective configurations of stars which appear to be in one plane and which appear to certain persons to possess somehow the outline of a scorpion or a lion which are, as modern astronomy tells us, situated at enormous distances (light years as they are called) from each other. The same constellation is often given different names; e. g. the constellation called Great Bear was called by Thales 'the wain' (waggon drawn by horses). The twelve Zodiacal signs are clearly absent from the sacred astronomy of Egypt 841 and the Egyptians know nothing of the Zodiac before the
-
-[^839]. Vide Campbell Thompson's Intro. to 'Reports of the Magicians &c.' for a table of late Babylonian, Assyrian and modern English dames of signs (pp. XXIII-XXIV) and Expository Times, vol 30 (for 1918) pp. 164-168 on 'Assyro-Babylonian astrologers and their lore' by T. G. Pinches. On p.167 the latter says that Europe is indebted to the Babyloniads for the names of the signs of the Zodiac except Crab and Archer and sets out the Babylonian names with their meanings and modern names (Ram &c.). These two tables do not agree. Babyloniaos called Capricorn goat-fish. Bouche Leclercq (on p. 57 note 1) gives a list of the twelve Chaldean zodiacal signs, which differs from both the above.
-
-[^839]4. Vide 'the Stars above us by Prof. Zipper p. 35 and plate III opposite p. 19 showing the Japanese animal sequence from Rat to Pig.
-
-[^840]. Vide 'Introducing the universe' by J. C. Hickey p. 123.
-
-841. 'Legacy of Egypt' (ed. by Glanville) p. 162; 'Tbe dann of the stars' by E. J. Webb p. 96.
-
-920
-
-566
-
-
-
-
-
-Alexandrian age and very few Zodiacs are older than the Roman times. Since Assyriologists began to reveal the astronomica: knowledge in the valley of the Euphrates, the Babylonian origin of the Zodiac has been taken for granted by almost all scholars.[^812] The dissenting voice is that of E. J. Webb in Names of stars '8!3 who very strenuously argues against the Babylonian origin of the Zodiacal signs and holds that the Zodiac as we know it is a Greek invention and that Cleostratus who according to Pliny was concerned in forming it lived about 520 B. C. In spite of the vehemence of Webb's arguments, in my humble opinion, he is far from convincing and for the present at least the Babylonian origin of the Zodiacal signs has to be accepted. The passage of Pliny on which Webb relies is differently understood by Prof. J. K. Forheringham.[^814] The latest work of Sarton on 'History of Science' (1953) holds that the Zodiac had been distinguished by Babylonian astronomers a thousand years before Cleostratus and all that Cleostratus probably did was to divide those constellations into twelve equal lengths of the ecliptic i.e. the twelve signs of the Zodiac. A somewhat amusing argument has been advanced by Hickey 845 that the fact that there are in the sky no animals (figures) suggestive of Egypt or India such as the hippopotamus and the elephant seems to rule out those countries as sources. Is there any logical necessity that certain animals must be introduced in a system of Zodiacal signs if that system originated in a certain country that may be the home of dozens of wild and tame animals? Are all the principal animals of Mesopotamia or of Greece included in the seven animals that figure as signs, if one of the above two was the origin
+Since Assyriologists began to reveal the astronomica: knowledge in the valley of the Euphrates, the Babylonian origin of the Zodiac has been taken for granted by almost all scholars.[^812] The dissenting voice is that of E. J. Webb in Names of stars '8!3 who very strenuously argues against the Babylonian origin of the Zodiacal signs and holds that the Zodiac as we know it is a Greek invention and that Cleostratus who according to Pliny was concerned in forming it lived about 520 B. C. In spite of the vehemence of Webb's arguments, in my humble opinion, he is far from convincing and for the present at least the Babylonian origin of the Zodiacal signs has to be accepted. The passage of Pliny on which Webb relies is differently understood by Prof. J. K. Forheringham.[^814] The latest work of Sarton on 'History of Science' (1953) holds that the Zodiac had been distinguished by Babylonian astronomers a thousand years before Cleostratus and all that Cleostratus probably did was to divide those constellations into twelve equal lengths of the ecliptic i.e. the twelve signs of the Zodiac. A somewhat amusing argument has been advanced by Hickey 845 that the fact that there are in the sky no animals (figures) suggestive of Egypt or India such as the hippopotamus and the elephant seems to rule out those countries as sources. Is there any logical necessity that certain animals must be introduced in a system of Zodiacal signs if that system originated in a certain country that may be the home of dozens of wild and tame animals? Are all the principal animals of Mesopotamia or of Greece included in the seven animals that figure as signs, if one of the above two was the origin
 
 842. Vide Bouche-Leclercq. p. 53 ( 'L''Astrologie Grecque'); p. XVI of the Iotro. to Heath's 'Greek Astronomy': Alexander Moret on 'The Nile and Egyptian civilization' (1927 ) p. 453 ( where he says that the Greek Zodiac was itself derived from Babylonian astronomy).
 
@@ -408,7 +330,7 @@ krūra
 
 Mithuna west Karka north
 
-Simha east
+Siṁha east
 
 10 | 3ssis moi jooj
 
@@ -432,7 +354,7 @@ west
 
 krūra
 
-Vrścika
+Vr̥ścika
 
 north
 
@@ -450,7 +372,7 @@ saumya krūra
 
 Kumbha west
 
-Mina
+Mīna
 
 north
 
@@ -470,7 +392,7 @@ _846. गोजाश्चिकर्किमिथुनाः समृग�
 
 dvisvabhāva ( of both characters ), as saumya (mild ) and krūra ( fierce or malignant ), as dinabala ( powerful by day ), niśābala (powerful by night ), as prṣthoduya (rising from the hind part), sirṣodaya ( rising by their head first ) or ubhayodaya, and as lords of the four main directions (east &c.). The above table will show at a glance these classifications, in which n. stands for niśābala, d. for dinabala, p. for prṣthodaya and s. for sirṣodaya.
 
-The Bṛhajjātaka compresses these details in I. 10–11 and Utpala explains the purpose of some of these technical terms. Yātrā (invasion ) undertaken on śīrṣodaya rāśis yields the desired result but if undertaken on prsthodaya rāśis there is failure and one's army is routed. Those born on krūra signs are of cruel nature and those born on saumya signs are mild by nature, while those born on male signs are energetic and those born on female signs are mild. Those born on cara signs are unsteady by nature, those born on sthira signs are of a fixed nature and those born on dvisvabhāva signs are of mixed chara cter. The knowledge of the signs as lords of quarters is useful in finding out the direction where a person who stole something on a particular sign could be found or the stolen article could be found. Ptolemy's Tetrabiblos I. 11 speaks of Taurus, Leo, Scorpio and Aquarius as solid signs ( sthiru) and Gemini, Virgo Sagittarius, Pisces as bi-corporeal ( dvideha or dvisvibhāva), and in I. 12 there is agreement with Bṛhajjātaka as to the masculine and feminine signs but there is disagreement as to diurnal ( dinabala ) and nocturnal signs ( niśābala ), since Ptolemy holds that Aries and other signs are alternately diurnal or nocturnal, while Varāha holds Aries and the next three and also Sagittarius and Capricornus as nocturnal and the rest diurnal. It does not appear that the Bṛhajjātaka knows of the commanding and obeying signs (Tetrabiblos I. 14 ) and of signs which behold each other or of disjunct signs (Tetrabiblos I. 15 and 16). The Bṛ, J. (I. 20) and Laghujātaka I. 6 assign the following colours to the twelve rāśis from Meṣa onwards viz, red, white, green (like a parrot's body ), dark-red (pink), whitish like smoke, speckled, dark, golden, yellowish, variegated, deep brown (like ichneu mon), white. There is hardly anything corresponding to this in the Tetrabiblos. The rāśis are also divided into four classes viz, anthropomorphic ( Mithuna, Kanya, Tulā, Dhanus forepart, Kumbha), quadruped (Meṣa, Vrsa, Simha, Dhanus latter portion, Makara forepart), aquatic (Karkata, Mina, Makara
+The Bṛhajjātaka compresses these details in I. 10–11 and Utpala explains the purpose of some of these technical terms. Yātrā (invasion ) undertaken on śīrṣodaya rāśis yields the desired result but if undertaken on prsthodaya rāśis there is failure and one's army is routed. Those born on krūra signs are of cruel nature and those born on saumya signs are mild by nature, while those born on male signs are energetic and those born on female signs are mild. Those born on cara signs are unsteady by nature, those born on sthira signs are of a fixed nature and those born on dvisvabhāva signs are of mixed chara cter. The knowledge of the signs as lords of quarters is useful in finding out the direction where a person who stole something on a particular sign could be found or the stolen article could be found. Ptolemy's Tetrabiblos I. 11 speaks of Taurus, Leo, Scorpio and Aquarius as solid signs ( sthiru) and Gemini, Virgo Sagittarius, Pisces as bi-corporeal ( dvideha or dvisvibhāva), and in I. 12 there is agreement with Bṛhajjātaka as to the masculine and feminine signs but there is disagreement as to diurnal ( dinabala ) and nocturnal signs ( niśābala ), since Ptolemy holds that Aries and other signs are alternately diurnal or nocturnal, while Varāha holds Aries and the next three and also Sagittarius and Capricornus as nocturnal and the rest diurnal. It does not appear that the Bṛhajjātaka knows of the commanding and obeying signs (Tetrabiblos I. 14 ) and of signs which behold each other or of disjunct signs (Tetrabiblos I. 15 and 16). The Bṛ, J. (I. 20) and Laghujātaka I. 6 assign the following colours to the twelve rāśis from Meṣa onwards viz, red, white, green (like a parrot's body ), dark-red (pink), whitish like smoke, speckled, dark, golden, yellowish, variegated, deep brown (like ichneu mon), white. There is hardly anything corresponding to this in the Tetrabiblos. The rāśis are also divided into four classes viz, anthropomorphic ( Mithuna, Kanya, Tulā, Dhanus forepart, Kumbha), quadruped (Meṣa, Vrsa, Siṁha, Dhanus latter portion, Makara forepart), aquatic (Karkaṭa, Mīna, Makara
 
 1
 
@@ -784,7 +706,7 @@ iron
 
 astriogent
 
-It was said that if Jupiter was in his own house (i. e. Dhanus or Mina), then Jupiter also ruled ovor gold. 861 The object of assigning these was practical, viz. the astrologer could judge of the place of birth if the planet was powerful or of the place of the thief or, if a question were put about the food which one invited to a dinner may be served with, the powerful planet would suggest the kind of food.
+It was said that if Jupiter was in his own house (i. e. Dhanus or Mīna), then Jupiter also ruled ovor gold. 861 The object of assigning these was practical, viz. the astrologer could judge of the place of birth if the planet was powerful or of the place of the thief or, if a question were put about the food which one invited to a dinner may be served with, the powerful planet would suggest the kind of food.
 
 The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moon and Venus feminine, while Mercury and Saturn are neuter or common (nepuñsaka ). Here Tetrabiblos differs ( I. 6), as it regards Saturn as masculine. Acc. to Bṛ. J. II. 21 the Moon, Mars and Saturn are nocturnal (powerful at night), the Sun, Jupiter and Venus are diurnal (powerful by day) and Mercury is common (both diurnal and nocturnal ). The Tetrabiblos differs (I. 7) by making Venus nocturnal and Saturn diurnal.
 
@@ -810,7 +732,7 @@ sign of Depression
 
 Sun
 
-Simha
+Siṁha
 
 Mosa
 
@@ -820,21 +742,21 @@ Tulā 10
 
 Moon
 
-Karkata
+Karkaṭa
 
 Vr̥ṣabha
 
-Vrścika
+Vr̥ścika
 
 Mars
 
-Meṣa and Vrścika
+Meṣa and Vr̥ścika
 
 Makara
 
 28
 
-Karkata
+Karkaṭa
 
 28
 
@@ -842,15 +764,15 @@ Mercury Mithuna and Kanyā
 
 Kanyā
 
-Mina
+Mīna
 
 15
 
 15
 
-Jupiter | Dhanus and Mina
+Jupiter | Dhanus and Mīna
 
-Karkata
+Karkaṭa
 
 Makara
 
@@ -860,7 +782,7 @@ Venus
 
 Vr̥ṣabha and Tulā
 
-Mina
+Mīna
 
 Kanyā
 
@@ -878,13 +800,13 @@ Meṣa
 
 20
 
-The figures under signs of exaltation and depression are the añīas ( degrees) rospectively of paramocca and paramanica. The explanation offered by Yavanajātaka of Sphujidhvaja and the Vṛddhayavana-jātaka of Minarāja is that the sign of Leo was assigned to the Sun as his house because it is the most powerful sign and Cancer (a watery sign) was assigned to the Moon, and the Sun and the Moon each gave one sign out of the remaining to the other five planets viz. Kanyā, Tulā, Vrścika, Dhanus and Makara were given by the Sun to Mercury, Venus, Mars, Jupiter and Saturn ( arranged according to distance ) and the Moon gave to the same five planets one each of the rāśis of Mithuna, Vr̥ṣabha, Meṣa, Mina and Kumbha (vide my paper on ‘Yavaneśvara and Utpala' in J. B. B. R. A. Ş. vol. 30 on p. 9Ptolemy on svagrhas
+The figures under signs of exaltation and depression are the añīas ( degrees) rospectively of paramocca and paramanica. The explanation offered by Yavanajātaka of Sphujidhvaja and the Vṛddhayavana-jātaka of Mīnarāja is that the sign of Leo was assigned to the Sun as his house because it is the most powerful sign and Cancer (a watery sign) was assigned to the Moon, and the Sun and the Moon each gave one sign out of the remaining to the other five planets viz. Kanyā, Tulā, Vr̥ścika, Dhanus and Makara were given by the Sun to Mercury, Venus, Mars, Jupiter and Saturn ( arranged according to distance ) and the Moon gave to the same five planets one each of the rāśis of Mithuna, Vr̥ṣabha, Meṣa, Mīna and Kumbha (vide my paper on ‘Yavaneśvara and Utpala' in J. B. B. R. A. Ş. vol. 30 on p. 9Ptolemy on svagrhas
 
 577
 
-for the verses of Minaraja and p. 7 for translation). Tetrabiblos I. 17 practically gives a similar explanation about houses (svagrhas) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica 862 ).
+for the verses of Mīnaraja and p. 7 for translation). Tetrabiblos I. 17 practically gives a similar explanation about houses (svagrhas) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica 862 ).
 
-That rāśi that is occupied by its own lord or has an aspect (drsti ) of its lord or is occupied by Mercury or Jupiter or lias an aspect with them is powerful 863 if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the lagna, the watery signs (Karkata, Mina, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Simha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
+That rāśi that is occupied by its own lord or has an aspect (drsti ) of its lord or is occupied by Mercury or Jupiter or lias an aspect with them is powerful 863 if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the lagna, the watery signs (Karkaṭa, Mīna, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Siṁha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
 
 The natural powerfulness of planets is in the following order: Saturn, Mars, Mercury, Jupiter, Venus, the Moon, the Sun, each succeeding one is more powerful than each preceding one; if the power of any two or more is equal in other respects, then one has to take into consideration this natural powerfulness for determining which is more powerful. 564
 
@@ -1024,7 +946,7 @@ Some other technical words may be mentioned and defined here. The six items, viz
 
 
 
-is called Vargottama, so also the 5th navāmśa of Vr̥ṣabha, Simha, Vrscika and Kumbha (that are sthira ), and the 9th navāmsa of Mithuna, Kangā, Dhanus, Mina ( that are dvisrabhūra) are called Vargottama (Br. J. I. 14) and they yield beneficent results.870 The vargottama-navāmśas of all rāśis bear the same names as the rāśis themselves. The Yoga called Sunaphā occurs when some planet other than the sun occupies the 2nd house from that occupied by the Moon; the Yoga Anaphā occurs when some planet other than the sun occupies the 12th house from that occupied by the Moon and Durudharā occurs when planets occupy the 2nd and 12th houses from that occupied by the Moon. The Yoga called Kema-druma occurs when the above three don't occur and the Moon is not in kendra position or if kendra is not occupied by any of the planets (except the Sun). Br. J. 13. 4 notices that varieties of Anapha and Sunaphā are 31 each and the varieties of Durudharā are 180. The Bș. J. does not devote more than 6 verses to all these four yogas but the Vṛddha-Yavanajātaka of Minarāja has 30 verses on Anaphā, 30 verses on Sunaphā, 172 verses on Durudharā. The rāśi which is 2nd from the rāsi occupied by the Sun in a horoscope is called 'Veśi' (Bṭ. J. I. 20). All the above five words are said to be Greek, The word 'liptā' meaning 60th part of a degree' is also said to be Greek. The word 'harija' occurring in Br. J.V.17 means 'horizon'and Kern says it is adapted from Greek (Preface to Bṭ. . p. 29 ).8704 The Greek word is horos ( boundary ). All the words used by Varāha and supposed to be Greek by Weber, Kern and others may be brought together in one place here ( 37 in all); Kriya, Tāyuri, Jituma, Kulira, Leya, Pāthena, Jūka, Kaurpya, Tauksika, Akokera, Hrdroga, Ittha (?); Heli, Āra, Himna, Jiva, Asphujit, Kona; horā, droskāna, kendra, trikoṇa, panaphara, āpoklima, mesūrana, duścikya, hibuka, jāmitra, dyūna, rihpha, anaphā, sunaphā, durudharā, kemadruma, vesi, liptā, harija. I dispute the derivation of kulira and trikona from Greek and Kern agrees that they are pure Sanskrit words. I also doubt whether Jiva is an adaptation of Zeus. Zeus
+is called Vargottama, so also the 5th navāmśa of Vr̥ṣabha, Siṁha, Vrscika and Kumbha (that are sthira ), and the 9th navāmsa of Mithuna, Kangā, Dhanus, Mīna ( that are dvisrabhūra) are called Vargottama (Br. J. I. 14) and they yield beneficent results.870 The vargottama-navāmśas of all rāśis bear the same names as the rāśis themselves. The Yoga called Sunaphā occurs when some planet other than the sun occupies the 2nd house from that occupied by the Moon; the Yoga Anaphā occurs when some planet other than the sun occupies the 12th house from that occupied by the Moon and Durudharā occurs when planets occupy the 2nd and 12th houses from that occupied by the Moon. The Yoga called Kema-druma occurs when the above three don't occur and the Moon is not in kendra position or if kendra is not occupied by any of the planets (except the Sun). Br. J. 13. 4 notices that varieties of Anapha and Sunaphā are 31 each and the varieties of Durudharā are 180. The Bș. J. does not devote more than 6 verses to all these four yogas but the Vṛddha-Yavanajātaka of Mīnarāja has 30 verses on Anaphā, 30 verses on Sunaphā, 172 verses on Durudharā. The rāśi which is 2nd from the rāsi occupied by the Sun in a horoscope is called 'Veśi' (Bṭ. J. I. 20). All the above five words are said to be Greek, The word 'liptā' meaning 60th part of a degree' is also said to be Greek. The word 'harija' occurring in Br. J.V.17 means 'horizon'and Kern says it is adapted from Greek (Preface to Bṭ. . p. 29 ).8704 The Greek word is horos ( boundary ). All the words used by Varāha and supposed to be Greek by Weber, Kern and others may be brought together in one place here ( 37 in all); Kriya, Tāyuri, Jituma, Kulira, Leya, Pāthena, Jūka, Kaurpya, Tauksika, Akokera, Hrdroga, Ittha (?); Heli, Āra, Himna, Jiva, Asphujit, Kona; horā, droskāna, kendra, trikoṇa, panaphara, āpoklima, mesūrana, duścikya, hibuka, jāmitra, dyūna, rihpha, anaphā, sunaphā, durudharā, kemadruma, vesi, liptā, harija. I dispute the derivation of kulira and trikona from Greek and Kern agrees that they are pure Sanskrit words. I also doubt whether Jiva is an adaptation of Zeus. Zeus
 
 870. TASVIETE Gearana:
 
@@ -1184,7 +1106,7 @@ Another important doctrine is that of gocara. It means 8769 the consideration ab
 
 ILLS
 
-declared auspicious or inauspicious judging from the rāśi of birth, The Muhūrta-cintāmaṇi in five verses (of chap. 4) deals with this subject. I shall illustrate the application of the word by some examples. If the Sun is in the 6th place from the rāśi of birth he is auspicious but if at the same time the 12th place from the rāśi of birth is occupied by other planets (except Saturn), then, though auspicious by himself, he becomes inauspicious. This result does not arise in case one planet is the father or son of the other (as Saturn is the son of the Sun and Mercury is the son of the Moon). Similarly, if Mercury is in 2nd place from rāśi of birth or in the 4th or 6th or 8th or 10th or 11th and other planets (except the Moon who is the father of Mercury ) are respectively in the 5th, 3rd, 9th, 1st, 8th or 12th, Mercury, though originally auspicious, becomes inauspicious for the time being. Kāraka is another word to be explained. It is rather compli cated. Br. J. XXII and Sārāvali 8766 Vl. and VII, deal with it. As many planets as occupy their own grha or ucca or Mulatri koma and also are in the 1st, 4th, 7th and 10th places ( in the horoscope ) they become Kārakas of each other, while the planet that is in the 10th place (in horoscope ) is specially kāraka. Suppose the lagna is Karka and the moon occupies it (it is moon's svagrha ) and Mars, Saturn, the Sun and Jupiter are in their uccas (i. e. in Makara, Tula, Meṣa and Karkata respec tively), they are all kārakas of each other. Many more rules are given in this matter in Br, J. XXII. and Sārāvali VI. The Sārāvali gives ( VII. 7-13) another meaning. Each planet is specially concerned with, rules over or produces several matters or persons &c. I shall quote two verses. The Moon is the lord of poets, flowers, edibles, precious stones, silver, conch, salt, waters, clothes, ornaments, women, ghee, sesame, oils and sleep. Jupiter is the lord of auspicious things, dharma, rites for prosperity, greatness, education, orders, cities and nations, vehicles, seats, beds, gold, corn, dwelling house and sons.
+declared auspicious or inauspicious judging from the rāśi of birth, The Muhūrta-cintāmaṇi in five verses (of chap. 4) deals with this subject. I shall illustrate the application of the word by some examples. If the Sun is in the 6th place from the rāśi of birth he is auspicious but if at the same time the 12th place from the rāśi of birth is occupied by other planets (except Saturn), then, though auspicious by himself, he becomes inauspicious. This result does not arise in case one planet is the father or son of the other (as Saturn is the son of the Sun and Mercury is the son of the Moon). Similarly, if Mercury is in 2nd place from rāśi of birth or in the 4th or 6th or 8th or 10th or 11th and other planets (except the Moon who is the father of Mercury ) are respectively in the 5th, 3rd, 9th, 1st, 8th or 12th, Mercury, though originally auspicious, becomes inauspicious for the time being. Kāraka is another word to be explained. It is rather compli cated. Br. J. XXII and Sārāvali 8766 Vl. and VII, deal with it. As many planets as occupy their own grha or ucca or Mulatri koma and also are in the 1st, 4th, 7th and 10th places ( in the horoscope ) they become Kārakas of each other, while the planet that is in the 10th place (in horoscope ) is specially kāraka. Suppose the lagna is Karka and the moon occupies it (it is moon's svagrha ) and Mars, Saturn, the Sun and Jupiter are in their uccas (i. e. in Makara, Tula, Meṣa and Karkaṭa respec tively), they are all kārakas of each other. Many more rules are given in this matter in Br, J. XXII. and Sārāvali VI. The Sārāvali gives ( VII. 7-13) another meaning. Each planet is specially concerned with, rules over or produces several matters or persons &c. I shall quote two verses. The Moon is the lord of poets, flowers, edibles, precious stones, silver, conch, salt, waters, clothes, ornaments, women, ghee, sesame, oils and sleep. Jupiter is the lord of auspicious things, dharma, rites for prosperity, greatness, education, orders, cities and nations, vehicles, seats, beds, gold, corn, dwelling house and sons.
 
 Then there is the doctrine of dusūs and antardaśūs of the seven planets. In the Vimsottarī system man's maximum life is supposed to be 120 years and in Astottarī it is supposed to be 108 and those are distributed among the planets in varying numbers of years and it is said that daśās have further
 
@@ -1414,7 +1336,7 @@ Figures of horoscopes
 
 603
 
-Horoscopes are framed either in square figures or in circular figures and even as to square horoscopes, there is some variance in the practice of placing the lagna (the sign rising on the horizon at the time of birth ). Supposing the lagna is Simha, the square horoscope as usually drawn in Mahārāstra would be as follows where the figures 6, 2 and 4 would represent the 2nd, 10th and 12th bhūvus (places ), while a horoscope cast on the modern European method would be like the one next to it with the same lagna and employs symbols for the signs as for Aries and for planets such as for Mars.
+Horoscopes are framed either in square figures or in circular figures and even as to square horoscopes, there is some variance in the practice of placing the lagna (the sign rising on the horizon at the time of birth ). Supposing the lagna is Siṁha, the square horoscope as usually drawn in Mahārāstra would be as follows where the figures 6, 2 and 4 would represent the 2nd, 10th and 12th bhūvus (places ), while a horoscope cast on the modern European method would be like the one next to it with the same lagna and employs symbols for the signs as for Aries and for planets such as for Mars.
 
 4
 
