@@ -168,7 +168,7 @@ In support of Astrology Ptolemy (in Tetrabiblos, 1.2) puts forward certain argum
 
 [^824]: It is believed that the moon (_luna_), when full, increased madness; hence a mad man was called lunatic. Vide an article 'Lunar influence on living things' by Prof. George Sarton in Isis vol. 30 (1939) pp. 495-507, where he examines the beliefs about the Moon's connection with lunacy, tides, menstruation, terrestrial magnetism, says that these are matters for experiment, advises scientists to keep an open mind and holds that lunar influence is unproved as to some of them.
 
-[^825]: A short passage from Bouche-Leclercq (p. 574) may be set out here : 'how to justify the ridiculous associations of ideas attached to the purely imaginary forms of the figures of the Zodiac and the reciprocal influeñce of planets on the signs and of the signs on the planets when these are (one knows this since a long time) at a great distance from the constellations and do not appear to be placed there except by the effect of perspective'?
+[^825]: A short passage from Bouché-Leclercq (p. 574) may be set out here : 'how to justify the ridiculous associations of ideas attached to the purely imaginary forms of the figures of the Zodiac and the reciprocal influeñce of planets on the signs and of the signs on the planets when these are (one knows this since a long time) at a great distance from the constellations and do not appear to be placed there except by the effect of perspective'?
 
 He further points out that the nativity alone is not the sole basis of judging a person's future, that the country of birth, the race to which he belongs, the customs of the people among whom he is born, the way in which he is reared, the age in which he lives have also to be considered, all which will contribute materially to the proper prediction, other things being equal. In IV.10 he points out that if one looks only at the horoscope without paying attention to nationality, manners and customs and the like he may call an Ethiopian fair [^825a] of complexion and having straight hair and a German a dark-skinned person and endowed with woolly hair or not knowing the peculiar customs say that an Italian whose horoscope is being examined may marry his sister (as ancient Egyptians did) or that the man may marry his mother (as only Persians did). Vide Tetrabiblos IV. 10 p. 439 (Loeb. cl. Library). In I. 3 Ptolemy argues that astrology is not only possible but is beneficial, because fore-warned is fore-armed. It is a very far cry to argue from the undoubted influence of the Sun and the Moon on mundane matters, such as heat and cold, rains, storms and droughts that the particular positions and aspects of the Sun, Moon and planets at the time of birth or conception ( as some hold ) are throughout an individual's life ( it may be for a day or a hundred years ) the dominating factor (if not the sole factor as many astrologers say ) governing his conduct, character, family affairs and destiny. The reasoning of Ptolemy, though very cleverly put and though with a slight scientific appearance, is rather vague and not at all cogent or convincing. He distinguishes between universal or general astrology (treated of in Books I-II ) which relates to whole countries, races, cities and large bodies of men and particular or genealogical astrology treated of in books III-IV.
 
@@ -272,7 +272,7 @@ The appearance of the rāśis is briefly described by the Br̥hajjātaka [^837] 
 
 Some verses are quoted below by way of illustration. From Varāha's description it appears that Meṣa, Vr̥ṣabha, Karkaṭa, Siṁha, Vr̥ścika, Makara and Mīna are figures of animals (either four-footed or insects) and the remaining five resemble human beings with special characteristics in each case. These rāśi names have more or less the same meanings in Babylonia, [^839] in Europe including Greece and in India. But it should not be supposed that everywhere the several groups of stars were imagined to be identical with the figures of the same animals or of human beings. In China for instance, the twelve rāśis are rat, ox, tiger, hare, dragon, serpent, horse, sheep, monkey, hen, dog and pig( Encyclopaedia Americana, vol. 29 under the word 'zodiac' and New Funk and Wagnall's Encyclopaedia vol. 36 under 'Zodiac')[^839a]. It is further stated that these are still found in some parts of Asia, in Japan and also among the remains of the Aztec race in America. There are many who deny that except for a few signs (like the Scorpion) there is hardly any very striking similarity between the twelve groups of constellations called Aries &c. and the natural appearance of the objects denoted by the twelve names.[^840] The origin of the names assigned to Zodiacal signs is unknown. The zodiacal signs named Meṣa, Vr̥ṣabha &. are purely imaginary, are mere subjective configurations of stars which appear to be in one plane and which appear to certain persons to possess somehow the outline of a scorpion or a lion which are, as modern astronomy tells us, situated at enormous distances (light years as they are called) from each other. The same constellation is often given different names; e.g. the constellation called Great Bear was called by Thales 'the wain' (waggon drawn by horses). The twelve Zodiacal signs are clearly absent from the sacred astronomy of Egypt[^841] and the Egyptians know nothing of the Zodiac before the Alexandrian age and very few Zodiacs are older than the Roman times.
 
-[^839]: Vide Campbell Thompson's Intro. to 'Reports of the Magicians &c.' for a table of late Babylonian, Assyrian and modern English names of signs (pp. XXIII-XXIV) and Expository Times, vol 30 (for 1918) pp. 164-168 on 'Assyro-Babylonian astrologers and their lore' by T. G. Pinches. On p.167 the latter says that Europe is indebted to the Babylonians for the names of the signs of the Zodiac except Crab and Archer and sets out the Babylonian names with their meanings and modern names (Ram &c.). These two tables do not agree. Babylonians called Capricorn goat-fish. Bouche Leclercq (on p. 57 note 1) gives a list of the twelve Chaldean zodiacal signs, which differs from both the above.
+[^839]: Vide Campbell Thompson's Intro. to 'Reports of the Magicians &c.' for a table of late Babylonian, Assyrian and modern English names of signs (pp. XXIII-XXIV) and Expository Times, vol 30 (for 1918) pp. 164-168 on 'Assyro-Babylonian astrologers and their lore' by T. G. Pinches. On p.167 the latter says that Europe is indebted to the Babylonians for the names of the signs of the Zodiac except Crab and Archer and sets out the Babylonian names with their meanings and modern names (Ram &c.). These two tables do not agree. Babylonians called Capricorn goat-fish. Bouché Leclercq (on p. 57 note 1) gives a list of the twelve Chaldean zodiacal signs, which differs from both the above.
 
 [^839a]: Vide 'the Stars above us by Prof. Zinner p. 35 and plate III opposite p. 19 showing the Japanese animal sequence from Rat to Pig.
 
@@ -280,181 +280,86 @@ Some verses are quoted below by way of illustration. From Varāha's description 
 
 [^841]: 'Legacy of Egypt' (ed. by Glanville) p. 162; 'The names of the stars' by E. J. Webb p. 96.
 
-Since Assyriologists began to reveal the astronomica: knowledge in the valley of the Euphrates, the Babylonian origin of the Zodiac has been taken for granted by almost all scholars.[^812] The dissenting voice is that of E. J. Webb in Names of stars '8!3 who very strenuously argues against the Babylonian origin of the Zodiacal signs and holds that the Zodiac as we know it is a Greek invention and that Cleostratus who according to Pliny was concerned in forming it lived about 520 B. C. In spite of the vehemence of Webb's arguments, in my humble opinion, he is far from convincing and for the present at least the Babylonian origin of the Zodiacal signs has to be accepted. The passage of Pliny on which Webb relies is differently understood by Prof. J. K. Forheringham.[^814] The latest work of Sarton on 'History of Science' (1953) holds that the Zodiac had been distinguished by Babylonian astronomers a thousand years before Cleostratus and all that Cleostratus probably did was to divide those constellations into twelve equal lengths of the ecliptic i.e. the twelve signs of the Zodiac. A somewhat amusing argument has been advanced by Hickey 845 that the fact that there are in the sky no animals (figures) suggestive of Egypt or India such as the hippopotamus and the elephant seems to rule out those countries as sources. Is there any logical necessity that certain animals must be introduced in a system of Zodiacal signs if that system originated in a certain country that may be the home of dozens of wild and tame animals? Are all the principal animals of Mesopotamia or of Greece included in the seven animals that figure as signs, if one of the above two was the origin
+Since Assyriologists began to reveal the astronomical knowledge in the valley of the Euphrates, the Babylonian origin of the Zodiac has been taken for granted by almost all scholars.[^842] The dissenting voice is that of E. J. Webb in 'Names of stars'[^843] who very strenuously argues against the Babylonian origin of the Zodiacal signs and holds that the Zodiac as we know it is a Greek invention and that Cleostratus who according to Pliny was concerned in forming it lived about 520 B. C. In spite of the vehemence of Webb's arguments, in my humble opinion, he is far from convincing and for the present at least the Babylonian origin of the Zodiacal signs has to be accepted. The passage of Pliny on which Webb relies is differently understood by Prof. J. K. Forheringham.[^844] The latest work of Sarton on 'History of Science' (1953) holds that the Zodiac had been distinguished by Babylonian astronomers a thousand years before Cleostratus and all that Cleostratus probably did was to divide those constellations into twelve equal lengths of the ecliptic i.e. the twelve signs of the Zodiac. A somewhat amusing argument has been advanced by Hickey [^845] that the fact that there are in the sky no animals (figures) suggestive of Egypt or India such as the hippopotamus and the elephant seems to rule out those countries as sources. Is there any logical necessity that certain animals must be introduced in a system of Zodiacal signs if that system originated in a certain country that may be the home of dozens of wild and tame animals? Are all the principal animals of Mesopotamia or of Greece included in the seven animals that figure as signs, if one of the above two was the origin of the present Zodiacal signs? All the seven animals in the Zodiac are found in abundance in India even now, while some of them may not be found in the present day Greece or Babylonia.
 
-842. Vide Bouche-Leclercq. p. 53 ( 'L''Astrologie Grecque'); p. XVI of the Iotro. to Heath's 'Greek Astronomy': Alexander Moret on 'The Nile and Egyptian civilization' (1927 ) p. 453 ( where he says that the Greek Zodiac was itself derived from Babylonian astronomy).
+[^842]: Vide Bouché-Leclercq. p. 53 ( 'L''Astrologie Grecque'); p. XVI of the Intro. to Heath's 'Greek Astronomy': Alexander Moret on 'The Nile and Egyptian civilization' (1927 ) p. 453 ( where he says that the Greek Zodiac was itself derived from Babylonian astronomy).
 
-843. Vide pp. 163-175 and p. 189 of 'Names of Stars' by E. J. Webb.
+[^843]: Vide pp. 163-175 and p. 189 of 'Names of Stars' by E. J. Webb.
 
-844. Vide Journal of Hellenistic Studies, vol. 39 pp. 164-184 and vol. 45 pp. 78-83 (both by Fotberingham), ibid vol. 41 (pp. 70-85 ) 'Cleo stratus Redivivus' by E. J. Webb (who himself remarks on p. 70 that the question when and by whom our constellations were invented is never likely to find its solution) and ibid. vol. 48 pp. 54-63 on' Cleostratus and his work by E. J. Webb. Vide Prof. Neogebauer in 'Exact Sciences in Antiquity' p. 67 ( note) about the history of Zodiacal and planetary symbols being virtually unkoowo. But in the Journal of Near Eastern Studies, vol. IV at p. 28 Prof. Neugebauer asserts that the predominant influence of Babylonian concepts on the grouping of stars into pictures must be maintained.
+[^844]: Vide Journal of Hellenistic Studies, vol. 39 pp. 164-184 and vol. 45 pp. 78-83 (both by Fotheringham), ibid vol. 41 (pp. 70-85 ) 'Cleostratus Redivivus' by E. J. Webb (who himself remarks on p. 70 that the question when and by whom our constellations were invented is never likely to find its solution) and ibid. vol. 48 pp. 54-63 on' Cleostratus and his work' by E. J. Webb. Vide Prof. Neugebauer in 'Exact Sciences in Antiquity' p. 67 ( note) about the history of Zodiacal and planetary symbols being virtually unknown. But in the Journal of Near Eastern Studies, vol. IV at p. 28 Prof. Neugebauer asserts that the predominant influence of Babylonian concepts on the grouping of stars into pictures must be maintained.
 
-845. Vide 'Introducing the universe' p. 103 by J. C. Hickey.Origin of Zodiacal signs
+[^845]: Vide 'Introducing the universe' p. 103 by J. C. Hickey.
 
-567
+## Origin of Zodiacal signs
 
-of the present Zodiacal signs? All the seven animals in the Zodiac are found in abundance in India even now, while some of them may not be found in the present day Greece or Baby lonia. At present I am only concerned to say that out of the three ancient lands, viz. Egypt, Mesopotamia and Greece, Mesopotamia has the greatest claims to be regarded as the source of the Zodiacal signs. The case of India will be dealt with a little later on.
+At present I am only concerned to say that out of the three ancient lands, viz. Egypt, Mesopotamia and Greece, Mesopotamia has the greatest claims to be regarded as the source of the Zodiacal signs. The case of India will be dealt with a little later on.
 
-The astrological rūśis are 846 variously classified as male and female, cara ( movable ) and sthira (fixed or lasting ) and
+The astrological _rāśis_ are [^846] variously classified as male and female, _cara_ ( movable ) and _sthira_ (fixed or lasting ) and _dvisvabhāva_ ( of both characters ), as _saumya_ (mild ) and _krūra_ ( fierce or malignant ), as _dinabala_ ( powerful by day ), _niśābala_ (powerful by night ), as _pṛṣṭhodaya_ (rising from the hind part), _śirṣodaya_ ( rising by their head first ) or _ubhayodaya_, and as lords of the four main directions (east &c.). The above table will show at a glance these classifications, in which n. stands for niśābala, d. for dinabala, p. for pṛṣṭhodaya and s. for śirṣodaya.
 
-Rāsi
+Rāsi	Lord of	Male or Female	Cara or Sthira	dinabala or niśābala	saumya or krūra	pṛṣṭhodaya or śirṣodaya
+Meṣa	east	male  	cara  	n.	krūra	p.
+Vṛṣabha	south	female	sthira	n.	saumya	p.
+Mithuna	west	male  	dvisbhāva	n.	krūra	ś
+Karka	north	female	cara  	n.	saumya	p.
+Siṁha	east	male  	sthira	d.	krūra	ś
+Kanya	south	female	dvisbhāva	d.	saumya	ś
+Tula	west	male  	cara  	d.	krūra	ś
+Vr̥ścika	north	female	sthira	d.	saumya	ś
+Dhanus	east	male  	dvisbhāva	n.	krūra	p.
+Makara	south	female	cara  	n.	saumya	p.
+Kumbha	west	male  	sthira	n.	krūra	ś
+Mina	north	female	dvisbhāva	n.	saumya	both p. And ś
 
-Lord of
+[^846]: गोजाश्चिकर्किमिथुनाः समृगा निशाख्याः पृष्ठोदया विमिथुनाः कथितास्त एव शीर्षोदया दिनबलाश्च भवन्ति शेषा लग्नं समेत्युभयतः पृथुरोमयुग्मम् ॥ क्रूरः सौम्यः पुरुषवनिते ते चरागाद्विदेहाः प्रागादीशाः क्रियवृषनृयुक्कर्कटाः सत्रिकोणाः। बृहज्जातक I. 10-11. Separate चरागद्विदेहाः as चर + अग (अचल or स्थिर) + द्विदेह ( = द्विस्वभाव). त्रिकोण is the 5th or 9th rāśi from a specified rāśi (Brhaj-jataka I. 11). There is another meaning of त्रिकोण (which उत्पल calls मूल-त्रिकोण) in बृहज्जातक I. 14 viẓ. सिंह, वृषभ, मेष, कन्या, धनुः, तौलि, कुम्भ are त्रिकोणs of the Sun, Moon, Mars, Mercury, Jupiter, Venus and Saturn.
 
-Male
+The Bṛhajjātaka compresses these details in I. 10–11 and Utpala explains the purpose of some of these technical terms. Yātrā (invasion ) undertaken on śīrṣodaya rāśis yields the desired result but if undertaken on pṛṣṭhodaya rāśis there is failure and one's army is routed. Those born on krūra signs are of cruel nature and those born on saumya signs are mild by nature, while those born on male signs are energetic and those born on female signs are mild. Those born on _cara_ signs are unsteady by nature, those born on _sthira_ signs are of a fixed nature and those born on dvisvabhāva signs are of mixed character. The knowledge of the signs as lords of quarters is useful in finding out the direction where a person who stole something on a particular sign could be found or the stolen article could be found. Ptolemy's Tetrabiblos I. 11 speaks of Taurus, Leo, Scorpio and Aquarius as solid signs ( _sthira_) and Gemini, Virgo, Sagittarius, Pisces as bi-corporeal ( _dvideha or dvisvibhāva_), and in I. 12 there is agreement with Bṛhajjātaka as to the masculine and feminine signs but there is disagreement as to _diurnal_ ( dinabala ) and _nocturnal_ signs ( niśābala ), since Ptolemy holds that Aries and other signs are alternately diurnal or nocturnal, while Varāha holds Aries and the next three and also Sagittarius and Capricornus as nocturnal and the rest diurnal. It does not appear that the Bṛhajjātaka knows of the commanding and obeying signs (Tetrabiblos I. 14 ) and of signs which behold each other or of disjunct signs (Tetrabiblos I. 15 and 16). The Bṛ, J. (I. 20) and Laghujātaka I. 6 assign the following colours to the twelve rāśis from Meṣa onwards viz, red, white, green (like a parrot's body ), dark-red (pink), whitish like smoke, speckled, dark, golden, yellowish, variegated, deep brown (like ichneumon), white. There is hardly anything corresponding to this in the Tetrabiblos. The rāśis are also divided into four classes viz, anthropomorphic ( Mithuna, Kanya, Tulā, Dhanus forepart, Kumbha), quadruped (Meṣa, Vṛṣa, Siṁha, Dhanus latter portion, Makara forepart), aquatic (Karkaṭa, Mīna, Makara (latter part ), insect (Scorpion). Vide Tetrabiblos IV. 4 pp. 389 and 391 for slightly varying enumeration.
 
-or Female
+## Effects of Moon's positions
 
-Cara
+Br. J. (chap. 17. 1-12 ) sets out the characteristics of persons born when the Moon was in Meṣa and the following rāśis and remarks at the end (in verse 13 ) that the results described will come out fully if the moon, the rāśi it occupies and the lord of that rāśi are powerful. In Bṛ. J. I. 19 it is said that two-footed rāśis ( mithuna, kanyā, tulā, kumbha and forepart of dhanus) are powerful by day if they be in _kendra_; four-footed rāśis ( mesa, vṛsa, Siṁha, makara forepart and dhanus latter part ) are powerful at night in kendra position and the rest i.e. watery signs and insect signs (kulira, vṝścika, mina and latter part of makara ) are powerful at twilight, when in kendra position. Bṛ. J. 18. 20 provides that similar results (as in chap. 17) follow if a person is born when the _lagna_ at his birth is meṣa or any one of the other rāśis.
 
-or Sthira
+Planets, their relations to the rāśis and their conjoint influence will now be briefly indicated. We saw above (pp. 493-495) that in the Vedic Saṁhitās and Brāhmaṇas express references to planets other than Jupiter are almost absent, that in some Vedic Verses five planets and Venus ( as Vena) appear to be referred to. Svarbhānu, the son of an asura, is said to have struck the sun with darkness ( i.e. caused an eclipse ) in R̥g. V. 40. 5, 6, 8, 9. In the Chāndogya Upaniṣad the soul that has acquired true knowledge is said to shake off the body after casting off all evil like a horse ( that casts off dust by ) shaking his hair ( mane and tail) or like the moon becoming free from the mouth of Rāhu. [^847] The Maitrāyaṇi Upaniṣad mentions Śani, Rāhu ( ascending node ) and Ketu ( descending node).[^848] But hardly anything is said about the astrological significance of planets in the ancient Vedic Literature. In the Mahābhārata there are plenty of references to the evil influence of planets, but that is restricted to nakṣatras. Both Rāhu and Ketu are said in Karṇaparva to rise in the sky for ( i.e. portending ) the destruction of the world. [^849] Kauṭilya offers the curious information that a foreknowledge of rainfall can be had from the position, the motion and the _garbhādhāna_ of Jupiter, from the rising, setting and motion of Venus and from the natural and unnatural aspects of the sun and that from the sun the sprouting of the seed (can be predicted), from Jupiter the formation of abundant sheaves of corn when the seeds are sown and from the ( movements ) of Venus rainfall (can be predicted ). [^850]
 
-dipabala
+[^847]: अश्व इव रोमाण विधूय पापं चन्द्र इव राहोर्मुखात्प्रमुच्य धूत्वा शरीरमकृतं कृतात्मा ब्रह्मलोकभभिसम्भवामि । छान्दोग्योप. VIII. 13.
 
-nisabala
+[^848]: शनिराहुकेतूरगरक्षोयक्षनरविहगशरभेभादयोऽधस्तादुद्यति। मैत्रायणी उप. VII. 6.
 
-saumya
+[^849]: राहुकेतू यथाकाशे उदितौ जगतः क्षये। कर्णपर्व 87.92.
 
-or krūra
+[^850]:  तस्योपलब्धिर्वृहस्पतेः स्थानगमनगर्भाधानेभ्यः शुक्रोदयास्तमयचारेभ्यः सूर्यस्य प्रकृतिवैकृताच्च । सूर्याद् बीजसिद्धिः । बृहस्पतेः सस्यानां स्तम्बकरिता । शुक्राद् वृष्टिरिति ॥ अर्थशास्त्र II. 24th अध्याय p. 116 (Sham shastri's ed. of 1919). For गर्भाधान as to rainfall, vide बृहत्संहिता chapter 22. Aratus (270 B. C.) and Theophrastus ( 322 B. C. ) say that the disappearance of the coastellation corresponding to our Puşya was reckoned by the ancients as a sure presage of rain. Vide Dr. Fleet in J. R. A.S. for 1911 at p. 516.
 
-prsthodaya
+It will be seen from the above that general or universal ( not individual or horoscopic) astrology like the reports made by royal priests in Mesopotamia was prevalent in India many centuries before Christ. The Bṛhajjātaka ( II. 2–3 ) enumerates the nine planets, Sun, Moon, Mercury, Mars, Saturn, Jupiter, Venus, Rāhu and Ketu and furnishes some synonyms of all these.
 
-| sirsodaya
+Observations of planets by the Babylonians go back to 2nd millennium B. C. Venus was the first to be studied. Tables about Venus based on observations are found from 1921-1901[^851] B. C.; Jupiter and Mars were also observed. Jupiter was held to be normally favourable when he shone brightly or followed the moon, while Mars was the planet of ill-luck, but, if Mars shone weakly or disappeared, its evil influence disappeared. Saturn as its name indicates ('firm standing one') was regarded mostly a planet of good luck. Various favourable prognostications were made about a child, according as the planets like the Moon, Venus or Jupiter were rising or unfavourable prognostications were made if Mars was rising or if Jupiter or Venus were setting[^852]. Each planet received a variety of names in the astronomical texts of Babylonia. The teaching that every planet has its exaltation i.e. the strongest pitch of its might and influence when in a particular sign goes back to ancient Babylonia. [^853]
 
-ktūra
+[^851]: Vide Heath's 'Greek Astronomy'. Introduction pp. XVII-XVIII, Meissner's 'Babylonien and Assyrien' (1925) vol. II pp. 254-256; Sarton in 'A history of Science' p. 77.
 
-Meṣa east Vr̥ṣabha south
+[^852]: M. Jastrow in 'the Religion of Babylonia and Assyria' (1898) P. 460.
 
-saumya
+[^853]: Meissner, ibid. vol. II p. 406.
 
-krūra
+## Planets, their names and arrangement
 
-Mithuna west Karka north
+The arrangements of the order of planets differed at different times. Planet comes from a Greek word meaning 'a wanderer' and the word was applied to the planets because as compared with the stars they appeared to wander in different ways and at different times[^854]. In modern times there are three more planets, viz. Uranus, Neptune and Pluto discovered respectively in 1781, 1846 and 1930 A. D.[^855] Bouché Leclercq mentions that modern astrologers asserted that Chaldeans saw Uranus and Neptune and three other planets (Juno, Vulcan and Pluto), when they had good eyes (p. 573 note 2 of 'L' Astrologie Grecque).
 
-Siṁha east
+The Br̥. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtaṇḍa (verses 8-15) set out the various names for the sun, the moon and the other seven planets. They are specified in the note[^856] below and the names underlined are deemed by Western writers to have been derived from Greek; but it should be noted that no Greek name for the moon occurs in these or other works and I am not convinced that Jiva is a Greek word or adaptation of a Greek word. The word Jiva occurs in the R̥gveda itself in many places (as in R̥g. I. 164.30,X. 18.37) and means - living being, an individual' and in Chāndogya Upaniṣad VI. 3.2 it means ' individual soul'.  
 
-10 | 3ssis moi jooj
+[^854]: C. V. Maclean on 'Babylonian Astrology and its relation to the Old Testament' (United Church Publishing House, Toronto) p. 27, Prof. Neugebauer in E. S. A. p. 162 (for arrangements of planets in cuneiform texts in Seleucid period and in Greek horoscopes ). In the Seleucid period the standard arrangement was Jupiter-Venus-Mercury-Saturn--Mars. Ordinary arrangement in Greek horoscopes is Sun, Moon, Saturn, Jupiter, Mars, Venus, Mercury. For the planetary week the arrangement in Greece is said to be Saturn-Jupiter-Mars-Sun-Venus-Mercury-Moon. On p. 163 Prof. Neugebauer thinks that Hindu arrangement of planets is obviously Greek in origin for two reasons, as it is based on the arrangement according to distance from the earth and also on a division of days into 24 hours, which is not Babylonian but Hellenistic and ultimately of Egyptian origin. In this latter he can be said to be wrong, as a similar arrangement of week days can be arrived at by relying on the 60 ghaṭikā system of India. We saw above that _horā_ in Indian astrology has three meanings, viz. Jātaka, _lagna_ and half a sign, but the very early Sanskrit astrological texts at least do not appear to employ the word horā in the sense of 'hour' or 1/24th part of the whole day or 1/12th part of the day. Any one who asserts that the arrangement of week days is copied from the Greeks must prove two things, (1) the definite time when the Greeks hit upon the particular arrangement of planets for purposes of week-days and (2) the borrowing people had definitely not arrived at the same arrangement before the Greeks, Prof. Neugebauer, so far as I can see, offers hardly any evidence on any of these two matters beyond mere assertions and conjectures. It bas further to be remembered that Alberuni (Sachau, vol. I. p. 343) states that nobody in India uses the hours except the astrologers, for they speak of the dominants of the hours. The 30 muhūrtas of _ahorātra_ are much older than the Śatapatha Br, and it was easy to divide a muhūrta into two nāḍis or ghaṭikās as the Arthaśāstra does (I. 19 p. 37 Nālikābhiraharaṣṭadha rātrim ca vibhajet) and Purāṇas like Viṣṇu VI. 3. 6-9 do. There is hardly anything in the vast Sanskrit Literature (of ancient or medieval times) to show that common people or writers ( not being astronomers or astrologers ) employed the method of 24 hours of the day.
 
-saumya
+[^855]: Vide Prof. Van Pen Bergh in 'Universe in space and time' p. 177 and D. S. Evans in 'Frontiers of astronomy' p. 41 for tables and data about planets from Mercury to Pluto as regards distance from the Sun, period of revolution, diameter, mass &c.
 
-krūra
+[^856]: 1. The sun :  सूर्य, रवि, भानु, इन, आदित्य, सवितृ, भास्कर, अर्क, दिवाकर, तिग्मांशु, तपन, सहस्रांशु, प्रभाकर, उष्णकर, उष्णगु, मार्तण्ड, दिनमणि, दिनकृत, <u>हेलि</u>.
+2 The moon.-विधु, इन्दु, चन्द्र, चन्द्रमस्, शीतांशु, सोम, मृगाङ्क, निशाकर, शीतरश्मि, निशानाथ, रोहिणीप्रिय, शशिन, हिमगु, शीतगु, नक्षत्रपति.
+3 Mars- अङ्गारक, कुज, भौम, भूमिज, महीसुत, आवनेय, लोहिताङ्ग, क्षितिसुत, क्रूराक्ष, माहेय, रुधिर, वक्र, <u>आर</u>.
+4 Mercury-बुध, ज्ञ, विद्, बोधन, विबुध, कुमार, राजपुत्र, सौम्य, चन्द्रसुत, तारापुत्र, रौहिणेय, हिमरश्मिज,<u> हिम्न (or हिम्ना)</u>.
+5 Jupiter- गुरु, इज्य, ईड्य, अङ्गिरस्, सुरगुरु, सुरमन्त्रिन्, सुराचार्य, बृहस्पति, वाक्पति, गिरीश, धिषण, सुरि, <u>जीव</u>.
+6 Venus -शुक्र, भृगु, भृगसुत, सित, भार्गव, कवि, उशनस्, दैत्यमन्त्रिन्, दानवपूजित, असुरगुरु, काव्य, <u>आस्फुजित्</u> .
+7 Saturn-शनैश्चर, सौरि, सूर्यपुत्र, मन्द, असित, अर्कनन्दन, आर्कि, भास्करि, दिनेशात्मज, सहस्रांशुज, पातङ्गि, यम, शनि, छायापुत्र, <u>कोण</u>.
+8 Rāhu-राहु, तमः, अगु, असुर, स्वर्भानु, सिंहिकासुत, दानव, सुरारि, भुजङ्गम, विधुन्तुद, अमृतचौर, उपप्लव.
+9 Ketu--केतु, शिखिन् , ब्रह्मसुत, धूम्रवर्ण.
+Vide Campbell Thompson's 'Reports of the magicians &c.' vol. II. Introduction p. xxIII. for the Babylonian and Assyrian names for Moon (Sin), Sun (Shamash) and so on. The sun is called Helio in Devipurāṇa quoted by Hemādri on vratas. vol. II. p. 434 and frequently in Bhaviṣyapuraṇa as in I. 104. 2 'सप्तम्यां शुक्लपक्षे तु फाल्गुनस्येह मानवः । जपन्हेलीति देवस्य नाम भक्त्या पुनः पुनः'॥
 
-Kanyā
-
-south
-
-male cara female sthira male dvisvabhāva
-
-female cara male sthira female dvisvabhāva male cara female sthira male dvisvabhāva female | caгa male sthira female dvisvabhāva
-
-Saumya
-
-Tulā
-
-west
-
-krūra
-
-Vr̥ścika
-
-north
-
-saumya
-
-Dhanus
-
-east
-
-krūra
-
-Makara south
-
-saumya krūra
-
-Kumbha west
-
-Mīna
-
-north
-
-d.
-
-saumya both p.
-
-and s.
-
-_846. गोजाश्चिकर्किमिथुनाः समृगा निशाख्याः पृष्ठोदया विमिथुनाः कधितास्त एष शीर्षादया दिनबलाश्च भवन्ति शेषा लग्नं समेत्युभयतः पृथुरोमयुग्मम् ॥ करः सौम्यः पुरुषवनिते in RMCET: Aitatem: Antanait: Hinton: 1 z 1. 10-11. Separate TIET: as + 370 ( 797 or Ffur) + C (= TE). Fra is the 5tb or 9th rāśi from a specified rāsi (Brbaj-jātaka I. 11). There is 100 ther meaning of त्रिकोण (which उत्पल calls मूल-त्रिकोण) in बृहज्जातक I. 14 vis. IE, T, À4, 41, tel:, alt, 4 are ajors of the Sun, Moon, Mars, Mercury, Jupiter, Venus and Satura,
-
-568
-
-
-
-
-
-dvisvabhāva ( of both characters ), as saumya (mild ) and krūra ( fierce or malignant ), as dinabala ( powerful by day ), niśābala (powerful by night ), as prṣthoduya (rising from the hind part), sirṣodaya ( rising by their head first ) or ubhayodaya, and as lords of the four main directions (east &c.). The above table will show at a glance these classifications, in which n. stands for niśābala, d. for dinabala, p. for prṣthodaya and s. for sirṣodaya.
-
-The Bṛhajjātaka compresses these details in I. 10–11 and Utpala explains the purpose of some of these technical terms. Yātrā (invasion ) undertaken on śīrṣodaya rāśis yields the desired result but if undertaken on prsthodaya rāśis there is failure and one's army is routed. Those born on krūra signs are of cruel nature and those born on saumya signs are mild by nature, while those born on male signs are energetic and those born on female signs are mild. Those born on cara signs are unsteady by nature, those born on sthira signs are of a fixed nature and those born on dvisvabhāva signs are of mixed chara cter. The knowledge of the signs as lords of quarters is useful in finding out the direction where a person who stole something on a particular sign could be found or the stolen article could be found. Ptolemy's Tetrabiblos I. 11 speaks of Taurus, Leo, Scorpio and Aquarius as solid signs ( sthiru) and Gemini, Virgo Sagittarius, Pisces as bi-corporeal ( dvideha or dvisvibhāva), and in I. 12 there is agreement with Bṛhajjātaka as to the masculine and feminine signs but there is disagreement as to diurnal ( dinabala ) and nocturnal signs ( niśābala ), since Ptolemy holds that Aries and other signs are alternately diurnal or nocturnal, while Varāha holds Aries and the next three and also Sagittarius and Capricornus as nocturnal and the rest diurnal. It does not appear that the Bṛhajjātaka knows of the commanding and obeying signs (Tetrabiblos I. 14 ) and of signs which behold each other or of disjunct signs (Tetrabiblos I. 15 and 16). The Bṛ, J. (I. 20) and Laghujātaka I. 6 assign the following colours to the twelve rāśis from Meṣa onwards viz, red, white, green (like a parrot's body ), dark-red (pink), whitish like smoke, speckled, dark, golden, yellowish, variegated, deep brown (like ichneu mon), white. There is hardly anything corresponding to this in the Tetrabiblos. The rāśis are also divided into four classes viz, anthropomorphic ( Mithuna, Kanya, Tulā, Dhanus forepart, Kumbha), quadruped (Meṣa, Vrsa, Siṁha, Dhanus latter portion, Makara forepart), aquatic (Karkaṭa, Mīna, Makara
-
-1
-
-Effects of Moon's positions
-
-569
-
-latter part ), insect (Scorpion). Vide Tetrabiblos IV. 4 pp. 389 and 391 for slightly varying enumeration.
-
-Br. J. (chap. 17. 1-12 ) sets out the characteristics of persons born when the Moon was in Mosa and the following rāśis and remarks at the end (in verse 13 ) that the results described will come out fully if the moon, the rāśi it occupies and the lord of that rāśi are powerfu]. In Bṛ. J. I. 19 it is said that two-footed rāśis ( mithuna, kanyā, tulā, kumbha and forepart of dhanus) are powerful by day if they be in kendra; four-footed rāśis ( mesa, vṣsa, simha, makara foropart and dhanus latter part ) are power ful at night in kendra position and the rest i. e. watery signs and insect signs (kulira, vrścika, mina and latter part of makara ) are powerful at twilight, when in kendra position. Bļ. J. 18. 20 provides that similar results (as in chap. 17) follow if a person is born when the lagna at his birth is mesa or any one of the other rāśis.
-
-Planets, their relations to the rāśis and their conjoint influ. ence will now be briefly indicated. We saw above (pp. 493-495) that in the Vedic Samhitās and Brāhmaṇas express references to planets other than Jupiter are almost absent, that in some Vedic Verses five planets and Venus ( as Vena) appear to be referred to. Svarbhānu, the son of an asura, is said to have struck the sun with darkness ( i. e. caused an eclipse ) in R̥g. V. 40. 5, 6, 8, 9. In the Chāndogya Upanisad the soul that has acquired true knowledge is said to shake off the body after casting off all evil like a horse ( that casts off dust by ) shaking his hair ( mane and tail) or like the moon becoming free from the mouth of Rāhu. 847 The Maitrāyaṇi Upaniṣad mentions Sani, Rāhu ( ascending node ) and Ketu ( descending node). 84 But hardly anything is said about the astrological significance of planets in the ancient Vedic Literature. In the Mahābhārata there are plenty of references to the evil influence of planets, but that is restricted to nakṣatras. Both Rāhu and Ketu are said in Karpaparva to rise in the sky for ( i. e. portending ) the destruc tion of the world. 849 Kauṭilya offers the curious information that a foreknowledge of rainfall can be had from the position, the motion and the garbhādhāna of Jupiter, from the rising, setting and motion of Venus and from the natural and unnatural
-
-847, 319 Call for go toga druga URI CITAS STAT
-
-With Thi Electrit. VIII. 13. 848. TIE RECHTHTPE stringatsargui Art4. VII, 6 849. Ten Turnst rant ora: 1 87-92.
-
-1. D. 72
-
-570
-
-
-
-
-
-aspects of the sun and that from the sun the sprouting of the seed (can be predicted), from Jupiter the formation of abundant sheaves of corn when the seeds are sown and from the ( movements ) of Venus rainfall (can be predicted ). 850 It will be seen from the above that general or universal ( not individual or horoscopic) astrology like the reports made by royal priests in Mesopotamia was prevalent in India many centuries before Christ. The Bṛhajjātaka ( II. 2–3 ) enumerates the nine planets, Sun, Moon, Mercury, Mars, Saturn, Jupiter, Venus, Rāhu and Ketu and furnishes some synonyms of all these.
-
-Observations of planets by the Babylonians go back to 2nd millennium B. C. Venus was the first to be studied. Tables about Venus based on observations are found from 1921-1901851 B. C.; Jupiter and Mars were also observed. Jupiter was held to be normally favourable when he shone brightly or followed the moon, while Mars was the planet of ill-luck, but, if Mars shone weakly or disappeared, its evil influence disappeared. Saturn ab its name indicates ('firm standing one') was regarded mostly a planet of good luck. Various favourable prognostications were made about a child, according as the planets like the Moon, Venus or Jupiter were rising or unfavourable prognostications were made if Mars was rising or if Jupiter or Venus were setting:85! Each planet received a variety of names in the astronomical texts of Babylonia. The teaching that every planet has its exaltation i. e. the strongest pitch of its might and influence when in a particular sign goes back to ancient Babylonia. 853 The arrangements of the order of planets differed at different times. Planet comes from a Greek word meaning a wanderer' and the word was applied to the planets because as compared with the stars they appeared to wander in different ways and at
-
-850. Akiirreta: 917777877mittaa: T ATOTOXT: genere प्रकृतिवैकृताच्च । सूर्याद् बीजसिद्धिः । बृहस्पतेः सस्यानां स्तम्बकरिता। शुक्राद् वृष्टिरिति ॥ mūṣtla II. 24th 37714 p. 116 (Sham shastri's ed, of 1919). For TIET as to rainfall, vide Tecia chapter 22. Aratus (270 B. C.) and Theopbrastus (322 B. C. ) say that the disappearance of the coastellation corresponding to our Puṣya was reckoned by the ancients as a sure presage of rain. Vide Dr. Fleet in J. R. A. S. for 1911 at p. 516.
-
-851. Vide Heath's 'Greek Astronomy'. Introduction pp. XVII-XVIII, Meissner's 'Babylonien and Assyrien' (1925) vol. II pp. 254-256; Sarton in "A history of Science' p. 77.
-
-852. M. Jastrow in 'the Religion of Babylonia and Assyria' (1898) P. 460.
-
-853, Meissner, ibid. vol. II p. 406.
-
-Planets, their names and arrangement
-
-571
-
-different times.85€ In modern times there are three more planeta, viz. Uranus, Neptune and Pluto discovered respectively in 1781, 1846 and 1930 A. D.851 Bouché Leclercq mentions that modern astrologers asserted that Chaldeans saw Uranus and Neptune and three other planets (Juno, Vulcan and Pluto), when they had good eyes (p. 573 note 2 of 'L' Astrologie Grecque).
-
-The Bť. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtaṇḍa (verses 8-15) set out the various names for the sun, the moon and the other seven planets. They are specified in the note856
-
-854. C. V. Macl can on 'labylonian Astrology and its relation to tbe Old Testament' (United Church Publishing House, Toronto) p. 27, Prof. Neugebauer in E. S. A. p. 162 (for arrangements of planets in cuneiform texts in Seleucid period and in Greek horoscopes ). In the Seleucid period the standard arrangement was Jupiter-Venus-Mercury-Saturn--Mars. Ordinary arrangement in Greek horoscopes is Sun, Moon, Saturn, Jupiter, Mars, Venus, Mercury. For the planetary week the arrangement in Greece is said to be Saturo-Jupiter-Mars-Sun-Venus-Mercury-Moon, On p. 163 Prof. Neugebauer thinks that Hindu arrangement of planets is obviously Greek in origin for two reasons, as it is based on the arrangement according to distance from the earth and also on a division of days into 24 hours, which is not Babylonian but Hellenistic and ultimately of Egyptian origin. In this latter he can be said to be wrong, as a similar arrangement of week days can be arrived at by relying on the 60 ghaṭikā system of India. We saw above that horū in Indian astrology has three meanings, viz. Jātaka, lagna and half a siga, but the very early Sanskrit astrological texts at least do not appear to employ the word horā in the sense of 'hour or oth part of tbe whole day or sth part of the day. Any one who asserts that the arrangement of week days is copied from the Greeks must prove two things, (1) the definite time when the Greeks bit upon the particular arrangement of planets for purposes of week-days and (2) the borrowing people had definitely not arrived at the same arrangement before the Greeks, Prof. Neugebauer, so far as I can see, offers hardly ady evi deace on any of these two matters beyond mere assertions and conjectures. It bas further to be remembered that Alberuni (Sachau, vol. I. p. 343) states tbat nobody in India uses the hours except the astrologers, for they speak of the dominants of the hours. The 30 muhūrtas of alorūtra are much older than the Satapatha Er, and it was easy to divide a mubūrta into two gadis or ghaṭikās as the Arthasastra does (I. 19 p. 37 Nālikābhirabarastadba rātrim ca vibhajet) and Purāṇas like Viṣṇu VI. 3. 6-9 do. There is hardly anything in the vast Sanskrit Literature (of ancient or medieval times) to show that common people or writers ( not being astronomers or astrologers ) employed the method of 24 hours of the day,
-
-855. Vide Prof. Van Pen Bergb in 'Universe in space and time' p. 177 and D. S. Evans in 'Frontiers of astronomy' p. 41 for tables and data about planets from Mercury to Pluto as regards distance from the Sun, period of revolution, diameter, mass &c.
-
-856. The sun : , A, E, 37, maen, , HTFT, r, Taalit, HATATI, 497, FEHTI, F1\#TT, 300 , Jourt, Hrve, FHTUT, F , les
-
-(Continued on next page)
-
-572
-
-
-
-
-
-below and the names underlined are deemed by Western writers to have been derived from Greek; but it should be noted that no Greek name for the moon occurs in these or other works and I am not convinced that Jiva is a Greek word or adaptation of a Greek word. The word Jiva occurs in the R̥gveda itself in
-
-many places (as in R̥g. I. 164.30,X. 18.37) and means - living being, an individual' and in Chandogya Upanisad VI. 3.2 it means ' individual soul'. When Brhaspati came to be regarded as the most prominent of planets and was said to preside over knowledge and happiness (as in Br. J. II. 1. 'Jivo jñāna-sukham') he came to be regarded as the very life of beings and was called Jiva. The Sārāvali (X. 116) says that Bṛhaspati is the life of men (Brhaspatir-nrnam jivah). In Bhujabala it is said 'what will all the planets do to him in whose horoscope Jupiter is in kendra position. A herd of wild elephants is killed by a single lion.'857 The Br. J. and Sārāvali provide that further synonyms may be derived from popular usage.
+When Bṛhaspati came to be regarded as the most prominent of planets and was said to preside over knowledge and happiness (as in Br. J. II. 1. 'Jivo jñāna-sukham') he came to be regarded as the very life of beings and was called Jiva. The Sārāvali (X. 116) says that Bṛhaspati is the life of men (Brhaspatir-nrnam jivah). In Bhujabala it is said 'what will all the planets do to him in whose horoscope Jupiter is in kendra position. A herd of wild elephants is killed by a single lion.'[^857] The Br. J. and Sārāvali provide that further synonyms may be derived from popular usage.
 
 In the following some characteristics of the planets (based on Br. J. II. 5-7) are brought together, viz. the colour ruled by each, the lords of each, the direction, element, Veda and class ( brahmana, ksatriya &c.) dominated by each and whether they are beneficent or malefic.
 
@@ -470,7 +375,7 @@ _6_Venus - शुक्र, भृगु, भृगुसुत, सित, भ�
 
 9 Ketu - केतु, शिखिन् , ब्रह्मसुत, धूम्रवर्ण. Vide Campbell Thompson's 'Reports of the magicians &c.' vol. II. Introduction p.xXIII. for the Baby. lonian and Assyrian names for Moon (Sin), Sun (Shamash) and so on. The sun is called Helin in Devipurāṇa quoted by Hemādri on vratas, vol. II. p. 434 and frequently in Bhaviṣyapurāṇa as in I. 104. 2 'सप्तम्यां शुक्रपत फाल्गुनस्येह मानवः । जपन्हेलीति देवस्य नाम भक्त्या पुनः पुनः"
 
-857. किं कुर्वन्ति ग्रहाः सर्वे यस्य केन्द्रे बृहस्पतिः । मत्तवारणसहातः सिंहनैकेन हन्यते । भुजबल p. 280 verse 1262.
+[^857]. किं कुर्वन्ति ग्रहाः सर्वे यस्य केन्द्रे बृहस्पतिः । मत्तवारणसहातः सिंहनैकेन हन्यते । भुजबल p. 280 verse 1262.
 
 planet
 
@@ -510,7 +415,7 @@ Kārtikeya South
 
 Viṣṇu North
 
-waning Moon 858 malefic
+waning Moon [^858] malefic
 
 malefic
 
@@ -572,7 +477,7 @@ Saturn
 
 Rabu
 
-858. T op Br. J. II. 5 explains ' opremy e r Tea 479: 1 ""'gounezuia UTARTEFT ra 95: Fir: IT: grafia: Hit Oh. Tetrabiblos 1. 5 regards Jupiter, Venus and Moon as beneficent and places the Sun on the same footing as Mercury. Utpala dotes thet Yavanesvara holde that Moon is rever malefic and quotes two verses from him, which are found in the Nepal Durbar ms. of Yavapajātaka of Sphujidhvaja,
+[^858]. T op Br. J. II. 5 explains ' opremy e r Tea 479: 1 ""'gounezuia UTARTEFT ra 95: Fir: IT: grafia: Hit Oh. Tetrabiblos 1. 5 regards Jupiter, Venus and Moon as beneficent and places the Sun on the same footing as Mercury. Utpala dotes thet Yavanesvara holde that Moon is rever malefic and quotes two verses from him, which are found in the Nepal Durbar ms. of Yavapajātaka of Sphujidhvaja,
 
 573
 
@@ -584,11 +489,11 @@ Rabu
 
 In the Yogayātrā VI. 1 a distinction is made between the gods that rule the eight directions and the planets that rule them, Indra, Agni, Yama, Nirrti, Varuna, Vāyu, Yaksa (Kubera ) and Śiva are the lords of the eight directions from East to North-East, while the same directions are governed by planets as in the above table.
 
-The purpose for these classifications is explained as follows: As regards colours ruled by planets, they are useful in indicat ing the colour of the thing lost by or stolen from a man and the colour of the flowers with which the planets are to be worshipped; the lords of the planets are to be worshipped along with the planets in grahapūjā; the direction in which a king should march on an invasion is indicated by planets that rule the directions; according as beneficent or malefic planets are power ful in the horoscope, the character of the person concerned is indicated as good or bad. The Br. J. II. 7 further provides that the Moon, the Sun and Jupiter are lords of sattva-guna, Mercury and Venus of rajo-guṇa, Mars and saturn of tamoguṇa. Utpala points out that Varāba differs from Yavanośvara, who regards the Sun, Mars and Jupiter as Sattvika, the Moon and Venus as full of rajoguṇa, Saturn as having tamoguṇa and Mercury taking on the character of the planet with which it is in conjunction.858 Rāhu is the ascending node or the point where the orbit of the moon intersects the ecliptic in passing northwards. Bṛ. J. (II. 8–11) and Laghujātaka II. 13–19 describe the form and appearance of the planets from the Sun to Saturn, giving full rein to association of ideas, imagination and to personification of them. For illustration, I translate one verse ( 10 ) *Jupiter 859 has a large body, his hair and eyes are brownish in colour, he has eminent intellect and has a phlegmatic constitution; Venus is given to pleasures, has handsome body and pretty eyes, has wind and phlegm in his constitution and black but curling. hair on his head.' Another table based on Bṛ. J. II. '11, 12, 14 and Sārāvali IV. 15–16 about the parts of the human body
+The purpose for these classifications is explained as follows: As regards colours ruled by planets, they are useful in indicat ing the colour of the thing lost by or stolen from a man and the colour of the flowers with which the planets are to be worshipped; the lords of the planets are to be worshipped along with the planets in grahapūjā; the direction in which a king should march on an invasion is indicated by planets that rule the directions; according as beneficent or malefic planets are power ful in the horoscope, the character of the person concerned is indicated as good or bad. The Br. J. II. 7 further provides that the Moon, the Sun and Jupiter are lords of sattva-guna, Mercury and Venus of rajo-guṇa, Mars and saturn of tamoguṇa. Utpala points out that Varāba differs from Yavanośvara, who regards the Sun, Mars and Jupiter as Sattvika, the Moon and Venus as full of rajoguṇa, Saturn as having tamoguṇa and Mercury taking on the character of the planet with which it is in conjunction.[^858] Rāhu is the ascending node or the point where the orbit of the moon intersects the ecliptic in passing northwards. Bṛ. J. (II. 8–11) and Laghujātaka II. 13–19 describe the form and appearance of the planets from the Sun to Saturn, giving full rein to association of ideas, imagination and to personification of them. For illustration, I translate one verse ( 10 ) *Jupiter [^859] has a large body, his hair and eyes are brownish in colour, he has eminent intellect and has a phlegmatic constitution; Venus is given to pleasures, has handsome body and pretty eyes, has wind and phlegm in his constitution and black but curling. hair on his head.' Another table based on Bṛ. J. II. '11, 12, 14 and Sārāvali IV. 15–16 about the parts of the human body
 
-858a. Haar v oor FE Hate: 1 da A: Flītani 37:1 TUT तद्वाक्यम् । सत्त्वाधिका भास्करभौमजीवा भृग्वात्मजो राजसिकः शशी च। शनैश्चरो तामसिका बुधस्तु संयोगतोऽस्माल्लभते विशेषान् ॥ उत्पल on II. 7. The verse occurs on folio 6 of 77951 (Nepal ms.)
+[^858]a. Haar v oor FE Hate: 1 da A: Flītani 37:1 TUT तद्वाक्यम् । सत्त्वाधिका भास्करभौमजीवा भृग्वात्मजो राजसिकः शशी च। शनैश्चरो तामसिका बुधस्तु संयोगतोऽस्माल्लभते विशेषान् ॥ उत्पल on II. 7. The verse occurs on folio 6 of 77951 (Nepal ms.)
 
-859. R: 15 TURINOT reta: Afa: 7TH: 1 7: gata! : 17: ATATT UT: \#
+[^859]. R: 15 TURINOT reta: Afa: 7TH: 1 7: gata! : 17: ATATT UT: \#
 
 II, 10; compare the similar det criptions in T. 8. 53.
 
@@ -596,7 +501,7 @@ Tahle of parts of human body and planets
 
 575
 
-governed by the planets, 850 about their habitat (sthāna ), about the kinds of cloth they govern, about the metals, precious stones and the flavours they rule is given below.
+governed by the planets, [^850] about their habitat (sthāna ), about the kinds of cloth they govern, about the metals, precious stones and the flavours they rule is given below.
 
 Planet
 
@@ -710,7 +615,7 @@ It was said that if Jupiter was in his own house (i. e. Dhanus or Mīna), then J
 
 The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moon and Venus feminine, while Mercury and Saturn are neuter or common (nepuñsaka ). Here Tetrabiblos differs ( I. 6), as it regards Saturn as masculine. Acc. to Bṛ. J. II. 21 the Moon, Mars and Saturn are nocturnal (powerful at night), the Sun, Jupiter and Venus are diurnal (powerful by day) and Mercury is common (both diurnal and nocturnal ). The Tetrabiblos differs (I. 7) by making Venus nocturnal and Saturn diurnal.
 
-860. Vide Tatrabiblos III. 12 pp. 319 and 321 for parts of the human body governed by planets, which description differs from that of the Br. J.
+[^860]. Vide Tatrabiblos III. 12 pp. 319 and 321 for parts of the human body governed by planets, which description differs from that of the Br. J.
 
 861. अर्कादि ताम्रमणिहेमयुक्तिरजतानि मौक्तिक लोहम्। वक्तव्यं बलवद्धिः स्वस्थाने हम जीवपि ॥ लघुजातक quoted by उत्पल on बृहजा. II. 12. The relation between planets and the chief metals was, it seems, based on colour similarity. The theory that different planets governed different areas and limbs of the body led to the influence of astrology on medicine,
 
@@ -1300,7 +1205,7 @@ The theory that is sought to be propounded here is that the sight of the signs o
 
 899. The latest date at which all these five kings were alive is 258 B.C. Vide Corpus Inscriptionum Indicarum, vol, I. (ed. by Hultzsch, 1925) pp. 48, 87.
 
-900. Vide a summary of the Indian travels of Apollonius' by Osmond De Beauvoir Priauix in JRAS 1860, pp. 70-105 (p. 78 for Baby Ionians and p. 99 for seven rings ), Loeb Classical Library. vol. I p. 323, Some scholars bold that the life is a fabrication and that Apollonius never came to India. Supposing for argument that it is a fabrication, the fact remains that in the first quarter of the 3rd century A. D. Pbilostratus knew that Babylonians were respected in India, that seven planets were known in India and that planets were supposed to be propitiated by the wearing of rings on appropriate week days. Charpentier wrote a booklet
+900. Vide a summary of the Indian travels of Apollonius' by Osmond De Beauvoir Priauix in JRAS 1[^860], pp. 70-105 (p. 78 for Baby Ionians and p. 99 for seven rings ), Loeb Classical Library. vol. I p. 323, Some scholars bold that the life is a fabrication and that Apollonius never came to India. Supposing for argument that it is a fabrication, the fact remains that in the first quarter of the 3rd century A. D. Pbilostratus knew that Babylonians were respected in India, that seven planets were known in India and that planets were supposed to be propitiated by the wearing of rings on appropriate week days. Charpentier wrote a booklet
 
 Indian travels of Apollonius of Tyaga' (Leipzig, 1934 ) in which be stated that he felt convinced that Apollonius had been in India but did not go further than the altarg of Alexander (vide · Indian Culture' vol. III. p. 2*1 for a review of Charpentier's booklet).
 
