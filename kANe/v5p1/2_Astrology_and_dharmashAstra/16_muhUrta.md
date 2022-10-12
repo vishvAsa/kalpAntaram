@@ -359,273 +359,58 @@ The Br̥. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtaṇḍa (verses 8-
 9 Ketu--केतु, शिखिन् , ब्रह्मसुत, धूम्रवर्ण.
 Vide Campbell Thompson's 'Reports of the magicians &c.' vol. II. Introduction p. xxIII. for the Babylonian and Assyrian names for Moon (Sin), Sun (Shamash) and so on. The sun is called Helio in Devipurāṇa quoted by Hemādri on vratas. vol. II. p. 434 and frequently in Bhaviṣyapuraṇa as in I. 104. 2 'सप्तम्यां शुक्लपक्षे तु फाल्गुनस्येह मानवः । जपन्हेलीति देवस्य नाम भक्त्या पुनः पुनः'॥
 
-When Bṛhaspati came to be regarded as the most prominent of planets and was said to preside over knowledge and happiness (as in Br. J. II. 1. 'Jivo jñāna-sukham') he came to be regarded as the very life of beings and was called Jiva. The Sārāvali (X. 116) says that Bṛhaspati is the life of men (Brhaspatir-nrnam jivah). In Bhujabala it is said 'what will all the planets do to him in whose horoscope Jupiter is in kendra position. A herd of wild elephants is killed by a single lion.'[^857] The Br. J. and Sārāvali provide that further synonyms may be derived from popular usage.
+When Bṛhaspati came to be regarded as the most prominent of planets and was said to preside over knowledge and happiness (as in Br. J. II. 1. 'Jivo jñāna-sukham') he came to be regarded as the very life of beings and was called Jiva. The Sārāvali (X. 116) says that Bṛhaspati is the life of men (Bṛhaspatir-nṛṇām jivaḥ). In Bhujabala it is said 'what will all the planets do to him in whose horoscope Jupiter is in kendra position. A herd of wild elephants is killed by a single lion.'[^857] The Br. J. and Sārāvali provide that further synonyms may be derived from popular usage.
 
-In the following some characteristics of the planets (based on Br. J. II. 5-7) are brought together, viz. the colour ruled by each, the lords of each, the direction, element, Veda and class ( brahmana, ksatriya &c.) dominated by each and whether they are beneficent or malefic.
+In the following some characteristics of the planets (based on Br. J. II. 5-7) are brought together, viz. the colour ruled by each, the lords of each, the direction, element, Veda and class ( brāhmaṇa, kṣatriya &c.) dominated by each and whether they are beneficent or malefic.
 
-(Continued from last page) 2 The moon--विधु, इन्दु, चन्द्र, चन्द्रमस्, शीतांशु, सोम, मृगाङ्क, निशाकर, शीतरश्मि, निशानाथ, रोहिणीप्रिय, शशिन, हिमय, शीतगु, नक्षत्रपति.
+[^857]: किं कुर्वन्ति ग्रहाः सर्वे यस्य केन्द्रे बृहस्पतिः । मत्तवारणसङ्गातः सिंहेनैकेन हन्यते । भुजबल p. 280 verse 1262.
 
-3 Mars- अङ्गारक, कुज, भौम, भूमिज, महीसुत, आवनेय, लोहिताङ्ग, क्षितिसुत, कराक्ष, माहेय, रुधिर, वक्र, आर. , 4 Mercury-बुध, ज्ञ, विद, बोधन, विबुध, कुमार, राजपुत्र, सौम्य, चन्द्रसुत, तारापुत्र, रोहिणेय, हिमरश्मिज, हिम्न (or हिम्ना). __5_Jupiter- गुरु, इज्य, ईडब, अङ्गिरस्, सुरगुरु, सुरमन्त्रिन्, सुराचार्य, बृहस्पति, वाक्पति, गिरीश, धिषण, मूरि, जीव.
+Table of colours, direction, &c ruled by planets							
 
-_6_Venus - शुक्र, भृगु, भृगुसुत, सित, भार्गव, कवि, उशनस्, दैत्यमन्त्रिन् । दानवपूजित, असुरगुरु, कान्य, आस्फुजित्.
+planet	colour dominated by	by whom ruled	direction	element ruled by	veda	class	beneficent or malefic
+Sun	red	Fire	east			kṣatriya	malefic
+Moon	white	water	N.W			vaiśya	waning moon [^858]  malefic
+Mars	very red	Kārtikeya	south	Fire	Sāmaveda	kṣatriya	malefic
+Mercury	green	Viṣṇu	north	Earth	Atharva	śūdra	malefic when in conjunction with malefic planets
+Jupiter	yellow	Indra	N.E	Ākāṣa (ether)	Ṛgveda	Brāhmaṇa	beneficent  
+Venus	variegated	Indrāṇi	S.E	Water	Yajurveda	Brāhmaṇa	beneficent  
+Saturn	dark	Prajāpati	west	Air		Cāṇḍāla	malefic
+Rāhu			S.W				
 
-7 Saturn-शनैश्वर, सौरि, सूर्यपुत्र, मन्द, असित, अर्कनन्दन, आकि, भास्करि, दिनेशात्मज, सहस्रांशुज, पातङ्गि, यम, शनि, छायापुत्र, कोण.
+[^858]: उत्पल on Br. J. II. 5 explains ' कृष्णाष्टम्यर्धाच्छुक्लाष्टम्यर्धे यावत् क्षीणश्चन्द्रः । ... शुक्लपक्षाष्टम्यर्धात् कृष्णपक्षाष्टम्यर्धे यावत् चन्द्रः सौम्यः बुधः पापनियुतः सौम्य एव'.Tetrabiblos I. 5 regards Jupiter, Venus and Moon as beneficent and places the Sun on the same footing as Mercury. Utpala notes that Yavaneśvara holds that Moon is never malefic and quotes two verses from him, which are found in the Nepal Durbar ms. of Yavapajātaka of Sphujidhvaja.
 
-8 Rihu-राहु, तमः, अगु, असुर, स्वर्भानु, सिंहिकासुत, दानव, सुरारि, भुजङ्गम, विधुन्तुद, अमृतचौर, उपप्लव.
+In the Yogayātrā VI. 1 a distinction is made between the gods that rule the eight directions and the planets that rule them, Indra, Agni, Yama, Niṛṛti, Varuṇa, Vāyu, Yakṣa (Kubera ) and Śiva are the lords of the eight directions from East to North-East, while the same directions are governed by planets as in the above table.
 
-9 Ketu - केतु, शिखिन् , ब्रह्मसुत, धूम्रवर्ण. Vide Campbell Thompson's 'Reports of the magicians &c.' vol. II. Introduction p.xXIII. for the Baby. lonian and Assyrian names for Moon (Sin), Sun (Shamash) and so on. The sun is called Helin in Devipurāṇa quoted by Hemādri on vratas, vol. II. p. 434 and frequently in Bhaviṣyapurāṇa as in I. 104. 2 'सप्तम्यां शुक्रपत फाल्गुनस्येह मानवः । जपन्हेलीति देवस्य नाम भक्त्या पुनः पुनः"
+The purpose for these classifications is explained as follows: As regards colours ruled by planets, they are useful in indicating the colour of the thing lost by or stolen from a man and the colour of the flowers with which the planets are to be worshipped; the lords of the planets are to be worshipped along with the planets in _grahapūjā_; the direction in which a king should march on an invasion is indicated by planets that rule the directions; according as beneficent or malefic planets are powerful in the horoscope, the character of the person concerned is indicated as good or bad. The Br. J. II. 7 further provides that the Moon, the Sun and Jupiter are lords of _sattva-guṇa_, Mercury and Venus of _rajo-guṇa_, Mars and saturn of _tamoguṇa_. Utpala points out that Varāha differs from Yavaneśvara, who regards the Sun, Mars and Jupiter as Sāttvika, the Moon and Venus as full of rajoguṇa, Saturn as having tamoguṇa and Mercury taking on the character of the planet with which it is in conjunction.[^858a] Rāhu is the ascending node or the point where the orbit of the moon intersects the ecliptic in passing northwards. Bṛ. J. (II. 8–11) and Laghujātaka II. 13–19 describe the form and appearance of the planets from the Sun to Saturn, giving full rein to association of ideas, imagination and to personification of them. For illustration, I translate one verse ( 10 ) 'Jupiter [^859] has a large body, his hair and eyes are brownish in colour, he has eminent intellect and has a phlegmatic constitution; Venus is given to pleasures, has handsome body and pretty eyes, has wind and phlegm in his constitution and black but curling hair on his head.'
 
-[^857]. किं कुर्वन्ति ग्रहाः सर्वे यस्य केन्द्रे बृहस्पतिः । मत्तवारणसहातः सिंहनैकेन हन्यते । भुजबल p. 280 verse 1262.
+[^858a]: अत्राचार्यस्य यवनेश्वरेण सह मतभेदः । तेन भौमः सात्त्विक उक्तः। तथा च तद्वाक्यम् । सत्त्वाधिका भास्करभौमजीवा भृग्वात्मजो राजसिकः शशी च। शनैश्चरो तामसिको बुधस्तु संयोगतोऽस्माल्लभते विशेषान् ॥ उत्पल on II. 7. The verse occurs on folio 6 of यवनजातक ( Nepal ms.)
 
-planet
+[^859]: बृहत्तनुः पिङ्गलमूर्धजेक्षणो बृहस्पतिः श्रेष्ठमतिः कफात्मकः । भृगुः सुखी कान्तवः । सुलोचनः कफानिलात्मासितवक्रमूर्धजः॥ वृहज्जातक II. 10; compare the similar descriptions in वृहत्सं. 8. 53.
 
-+
+## Table of parts of human body and planets
 
-colour domi. by whom la | nated by ruled
+Another table based on Bṛ. J. II.11, 12, 14 and Sārāvali IV. 15–16 about the parts of the human body governed by the planets, [^860] about their _habitat (sthāna)_, about the kinds of cloth they govern, about the metals, precious stones and the flavours they rule is given below.
 
-stion element
+Table of parts of human body and planets					
 
-Veda
+planet	bodily part	habitat	cloth	Metal & Jewels	_rasa_ (flavour)
+Sun	bones	temple	coarse	copper	pungent
+Moon	blood	watery place	cloth fresh from loom	jewels	salt
+Mars	marrow	Fire-place	burnt in a part	gold	bitter
+Mercury	skin	playground	wet	bronze	mixed (all six together)
+Jupiter	fat	treasury	neither new nor much worn	silver	sweet
+Venus	semen	bedroom	strong	pearl	sour
+Saturn	muscles	Dust-hole	tattered	iron	astringent
 
-class
+It was said that if Jupiter was in his own house (i.e. Dhanus or Mīna), then Jupiter also ruled over gold. [^861] The object of assigning these was practical, viz. the astrologer could judge of the place of birth if the planet was powerful or of the place of the thief or, if a question were put about the food which one invited to a dinner may be served with, the powerful planet would suggest the kind of food.
 
-beneficent or malefic
+The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moon and Venus feminine, while Mercury and Saturn are neuter or common (_napuṁsaka_). Here Tetrabiblos differs ( I. 6), as it regards Saturn as masculine. Acc. to Bṛ. J. II. 21 the Moon, Mars and Saturn are nocturnal (powerful at night), the Sun, Jupiter and Venus are diurnal (powerful by day) and Mercury is common (both diurnal and nocturnal ). The Tetrabiblos differs (I. 7) by making Venus nocturnal and Saturn diurnal.
 
-direction ruled by
+[^860]: Vide Tetrabiblos III. 12 pp. 319 and 321 for parts of the human body governed by planets, which description differs from that of the Br. J.
 
-Sun
+[^861]: अर्कादि ताम्रमणिहेमयुक्तिरजतानि मौक्तिकं लोहम्। वक्तव्यं बलवद्भिः स्वस्थाने हेम जीवेपि ॥ लघुजातक quoted by उत्पल on बृहज्जा. II. 12. The relation between planets and the chief metals was, it seems, based on colour similarity. The theory that different planets governed different areas and limbs of the body led to the influence of astrology on medicine.
 
-red
-
-Ksatriya
-
-malefic
-
-Moon
-
-white
-
-Vaisya
-
-Fire East
-
-Water N. W.
-
-Kārtikeya South
-
-Viṣṇu North
-
-waning Moon [^858] malefic
-
-malefic
-
-Mars
-
-very red
-
-green
-
-Fire
-
-Earth
-
-Sāmaveda Kṣatriya
-
-Atharva Sūdra
-
-Mercury
-
-malefic when in conjunction with
-
-malefic planets
-
-Table of colours, direction &c ruled by planets
-
-Jupiter
-
-yellow
-
-| Indra
-
-N. E.
-
-Venus
-
-variegated
-
-dark
-
-Ākāśa R̥gveda | Brāhmana (ether) Water Yajurveda Brāhmaṇa
-
-Air
-
-Cāṇdāla
-
-Indrāni (S. E.
-
-Prajāpati West
-
-S. W.
-
-beneficent
-
-beneficent
-
-malefic
-
-Saturn
-
-Rabu
-
-[^858]. T op Br. J. II. 5 explains ' opremy e r Tea 479: 1 ""'gounezuia UTARTEFT ra 95: Fir: IT: grafia: Hit Oh. Tetrabiblos 1. 5 regards Jupiter, Venus and Moon as beneficent and places the Sun on the same footing as Mercury. Utpala dotes thet Yavanesvara holde that Moon is rever malefic and quotes two verses from him, which are found in the Nepal Durbar ms. of Yavapajātaka of Sphujidhvaja,
-
-573
-
-574
-
-
-
-
-
-In the Yogayātrā VI. 1 a distinction is made between the gods that rule the eight directions and the planets that rule them, Indra, Agni, Yama, Nirrti, Varuna, Vāyu, Yaksa (Kubera ) and Śiva are the lords of the eight directions from East to North-East, while the same directions are governed by planets as in the above table.
-
-The purpose for these classifications is explained as follows: As regards colours ruled by planets, they are useful in indicat ing the colour of the thing lost by or stolen from a man and the colour of the flowers with which the planets are to be worshipped; the lords of the planets are to be worshipped along with the planets in grahapūjā; the direction in which a king should march on an invasion is indicated by planets that rule the directions; according as beneficent or malefic planets are power ful in the horoscope, the character of the person concerned is indicated as good or bad. The Br. J. II. 7 further provides that the Moon, the Sun and Jupiter are lords of sattva-guna, Mercury and Venus of rajo-guṇa, Mars and saturn of tamoguṇa. Utpala points out that Varāba differs from Yavanośvara, who regards the Sun, Mars and Jupiter as Sattvika, the Moon and Venus as full of rajoguṇa, Saturn as having tamoguṇa and Mercury taking on the character of the planet with which it is in conjunction.[^858] Rāhu is the ascending node or the point where the orbit of the moon intersects the ecliptic in passing northwards. Bṛ. J. (II. 8–11) and Laghujātaka II. 13–19 describe the form and appearance of the planets from the Sun to Saturn, giving full rein to association of ideas, imagination and to personification of them. For illustration, I translate one verse ( 10 ) *Jupiter [^859] has a large body, his hair and eyes are brownish in colour, he has eminent intellect and has a phlegmatic constitution; Venus is given to pleasures, has handsome body and pretty eyes, has wind and phlegm in his constitution and black but curling. hair on his head.' Another table based on Bṛ. J. II. '11, 12, 14 and Sārāvali IV. 15–16 about the parts of the human body
-
-[^858]a. Haar v oor FE Hate: 1 da A: Flītani 37:1 TUT तद्वाक्यम् । सत्त्वाधिका भास्करभौमजीवा भृग्वात्मजो राजसिकः शशी च। शनैश्चरो तामसिका बुधस्तु संयोगतोऽस्माल्लभते विशेषान् ॥ उत्पल on II. 7. The verse occurs on folio 6 of 77951 (Nepal ms.)
-
-[^859]. R: 15 TURINOT reta: Afa: 7TH: 1 7: gata! : 17: ATATT UT: \#
-
-II, 10; compare the similar det criptions in T. 8. 53.
-
-Tahle of parts of human body and planets
-
-575
-
-governed by the planets, [^850] about their habitat (sthāna ), about the kinds of cloth they govern, about the metals, precious stones and the flavours they rule is given below.
-
-Planet
-
-bodily
-
-babitat
-
-cloth
-
-metals & jewels
-
-part
-
-rasa (flavour)
-
-Sun
-
-bones
-
-1
-
-temple
-
-coarse
-
-puogent
-
-copper jewels
-
-
-
-Moon
-
-blood
-
-watery place
-
-salt
-
-
-
-cloth fresh from loom
-
-
-
-Mars
-
-marrow
-
-fire-place
-
-burot in a part
-
-gold
-
-bitter
-
-Mercury
-
-skin
-
-play-ground
-
-wet
-
-bronze
-
-| mixed (all
-
-six together)
-
-Jupiter
-
-fat
-
-treasury
-
-| oeither new nor
-
-much worn
-
-silver
-
-sweet
-
-Venus
-
-semen
-
-bedroom
-
-strong
-
-Pearl
-
-sour
-
-Saturn
-
-muscles
-
-dust-hole
-
-tattered
-
-iron
-
-astriogent
-
-It was said that if Jupiter was in his own house (i. e. Dhanus or Mīna), then Jupiter also ruled ovor gold. 861 The object of assigning these was practical, viz. the astrologer could judge of the place of birth if the planet was powerful or of the place of the thief or, if a question were put about the food which one invited to a dinner may be served with, the powerful planet would suggest the kind of food.
-
-The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moon and Venus feminine, while Mercury and Saturn are neuter or common (nepuñsaka ). Here Tetrabiblos differs ( I. 6), as it regards Saturn as masculine. Acc. to Bṛ. J. II. 21 the Moon, Mars and Saturn are nocturnal (powerful at night), the Sun, Jupiter and Venus are diurnal (powerful by day) and Mercury is common (both diurnal and nocturnal ). The Tetrabiblos differs (I. 7) by making Venus nocturnal and Saturn diurnal.
-
-[^860]. Vide Tatrabiblos III. 12 pp. 319 and 321 for parts of the human body governed by planets, which description differs from that of the Br. J.
-
-861. अर्कादि ताम्रमणिहेमयुक्तिरजतानि मौक्तिक लोहम्। वक्तव्यं बलवद्धिः स्वस्थाने हम जीवपि ॥ लघुजातक quoted by उत्पल on बृहजा. II. 12. The relation between planets and the chief metals was, it seems, based on colour similarity. The theory that different planets governed different areas and limbs of the body led to the influence of astrology on medicine,
-
-576
-
-
-
-(Soc. II, Ch. XVI
-
-Certain rāśis are declared to be the houses ( svagrha) of planets and certain other rāśis as their ucca (exaltation) and certain parts or degrees of the ucca are declared to be paramocca; the 7th rāśi from the ucca is said to be nica i. e. depressed and certain parts (or degrees ) of the latter are said to be paramanica. The Sun and the Moon have each only one rāśi as svagsha, while the other five planets have two each. The following diagram will indicate all this at a glance :
+Certain rāśis are declared to be the houses (_svagṛha_) of planets and certain other rāśis as their _ucca_ (exaltation) and certain parts or degrees of the _ucca_ are declared to be _paramocca_; the 7th rāśi from the _ucca_ is said to be _nīca_ i. e. depressed and certain parts (or degrees ) of the latter are said to be _paramanīca_. The Sun and the Moon have each only one rāśi as svagṛha, while the other five planets have two each. The following diagram will indicate all this at a glance :
 
 Planet
 
@@ -709,9 +494,9 @@ The figures under signs of exaltation and depression are the añīas ( degrees) 
 
 577
 
-for the verses of Mīnaraja and p. 7 for translation). Tetrabiblos I. 17 practically gives a similar explanation about houses (svagrhas) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica 862 ).
+for the verses of Mīnaraja and p. 7 for translation). Tetrabiblos I. 17 practically gives a similar explanation about houses (svagrhas) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica [^862] ).
 
-That rāśi that is occupied by its own lord or has an aspect (drsti ) of its lord or is occupied by Mercury or Jupiter or lias an aspect with them is powerful 863 if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the lagna, the watery signs (Karkaṭa, Mīna, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Siṁha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
+That rāśi that is occupied by its own lord or has an aspect (drsti ) of its lord or is occupied by Mercury or Jupiter or lias an aspect with them is powerful [^863] if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the lagna, the watery signs (Karkaṭa, Mīna, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Siṁha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
 
 The natural powerfulness of planets is in the following order: Saturn, Mars, Mercury, Jupiter, Venus, the Moon, the Sun, each succeeding one is more powerful than each preceding one; if the power of any two or more is equal in other respects, then one has to take into consideration this natural powerfulness for determining which is more powerful. 564
 
@@ -741,11 +526,11 @@ The astrological houses in a horoscope are twelve and each is expressed by vario
 
 
 
-___862. सूर्यस्य भाग दशमे तृतीये सोमस्य जीवस्य तु पञ्चमे स्यात् । सौरस्य विशे त्वधिसप्तके च विद्याद् भृगोः पञ्चदशे बुधस्य ॥ भौमस्य विशेऽष्टयुते (परोच्चम्)। ..विंशलवे खोञ्चगृहे निवेशम् । स्वोच्चात्तु जामित्रमुशन्ति नीचं त्रिशल्लवो यच्च समानसंख्यः । folio 4 of palm-leal Nepal ms. of यवन तक of स्फुजिध्वज q. by उत्पल with slight variations as from यवनेश्वर on बृहज्जा. i. 13. Vide सारावली III. 35-36 for उच्च, परमोच्च, नीच and परमनीच. __863. अधिपयुतो दृष्टो वा बुधजीवयुतक्षितश्च यो राशिः। स भवति बलवान यदि युक्तो
+___[^862]. सूर्यस्य भाग दशमे तृतीये सोमस्य जीवस्य तु पञ्चमे स्यात् । सौरस्य विशे त्वधिसप्तके च विद्याद् भृगोः पञ्चदशे बुधस्य ॥ भौमस्य विशेऽष्टयुते (परोच्चम्)। ..विंशलवे खोञ्चगृहे निवेशम् । स्वोच्चात्तु जामित्रमुशन्ति नीचं त्रिशल्लवो यच्च समानसंख्यः । folio 4 of palm-leal Nepal ms. of यवन तक of स्फुजिध्वज q. by उत्पल with slight variations as from यवनेश्वर on बृहज्जा. i. 13. Vide सारावली III. 35-36 for उच्च, परमोच्च, नीच and परमनीच. __[^863]. अधिपयुतो दृष्टो वा बुधजीवयुतक्षितश्च यो राशिः। स भवति बलवान यदि युक्तो
 
 Teng a 14:
 
-1 7 I. 14; vide also am I. 19. 864. Hrein-pisy-arrafa- i ui Figa: Hargaag te साम्येऽस्मादधिकचिन्ता॥ लघुजातक II. 7, quoted by उत्पल o बृहज्जा. II. 21, the last quarter of which is 'शरुबुगुशुचसाद्या वृद्धितो वीर्यवन्तः', where शरुघुगुशुचस stand tor शनि, रुधिर (अडारक), बुध, गुरु, शुक्र, चन्द्र and सवितृ.
+1 7 I. 14; vide also am I. 19. [^864]. Hrein-pisy-arrafa- i ui Figa: Hargaag te साम्येऽस्मादधिकचिन्ता॥ लघुजातक II. 7, quoted by उत्पल o बृहज्जा. II. 21, the last quarter of which is 'शरुबुगुशुचसाद्या वृद्धितो वीर्यवन्तः', where शरुघुगुशुचस stand tor शनि, रुधिर (अडारक), बुध, गुरु, शुक्र, चन्द्र and सवितृ.
 
 4. D. 73
 
@@ -801,9 +586,9 @@ furnishes only a dilettante treatment. It may be further noted - that no adaptat
 
 first to the twelfth are to be found in Sanskrit works. Such words occur only for some viz. Ist, 3rd, 4th, 7th, 10th and 12th bhāvas and for groups of a few bhāvas ( such as kendra, pana phara and āpoclima). Besides, the peculiar points to be deduced from the several bhāvas as stated in Br. J do not all agree with what Firmicus says. Varāha designates the 2nd bhāva as kutumba and sva (family, wealth ) while Firmicus calls it 'lucrum' (how one shall earn one's living); the 11th bhāva is called āya (income) and bhāva by Varāha while Firmicus calls it the house of good deeds; in Firmicus the 4th bhāva is that of father or parents, while Varāha calls it 'bandhu'(relatives ) and gļha in B:. J. and ‘suhrt'( friends ) in Laghujātaka and some later Indian writers say that 4th and 10th bhāvas are respectively of the mother and father. In Firmicus the 6th and 12th bhāvas are respectively wealth and jail, while Varāha bolds them to be 'enmity' and 'expenditure'.
 
-Certain technical words have yet to be explained. One meaning of horā is half a rūśi. In the case of the rāśis of odd numbers ( viz. 1, 3, 5, 7, 9, 11 ) the lord of the first half is the sun and that of the 2nd half is the moon, while in the case of rāsis of even numbers (2, 4, 6, 8, 10, 12 ) the lord of the 1st half is the moon and of the 2nd half the sun (Br. J. I. 11). The purpose of this is that those born on sun's horā are energetic ( assertive) by nature and those born on moon's horā are mild by nature. Bṛ. J. (I. 12) mentions the view of some 865 (of
+Certain technical words have yet to be explained. One meaning of horā is half a rūśi. In the case of the rāśis of odd numbers ( viz. 1, 3, 5, 7, 9, 11 ) the lord of the first half is the sun and that of the 2nd half is the moon, while in the case of rāsis of even numbers (2, 4, 6, 8, 10, 12 ) the lord of the 1st half is the moon and of the 2nd half the sun (Br. J. I. 11). The purpose of this is that those born on sun's horā are energetic ( assertive) by nature and those born on moon's horā are mild by nature. Bṛ. J. (I. 12) mentions the view of some [^865] (of
 
-865. केचित्त होरां प्रथमा भपस्य वाञ्छन्ति लाभाधिपतोद्वितीयम् । देवाणसंज्ञामपि वर्णयन्ति TETES TERTISITI TE WA I. 12; fate quotes on this a verse of gaat 'आद्या तु होरा भवनस्य पत्युरेकादश क्षेत्रपतद्वितीया । स्वद्वादशैकादशराशिपानां देष्काणसंज्ञाः क्रमशस्त्रयोत्र ॥'. This verse occurs in the यवनजातक of स्फुजिध्वज on folio 2. It would be noticed that one पाद is the same in both बृहज्जा. and यवनजातक. Ja the worsta of
+[^865]. केचित्त होरां प्रथमा भपस्य वाञ्छन्ति लाभाधिपतोद्वितीयम् । देवाणसंज्ञामपि वर्णयन्ति TETES TERTISITI TE WA I. 12; fate quotes on this a verse of gaat 'आद्या तु होरा भवनस्य पत्युरेकादश क्षेत्रपतद्वितीया । स्वद्वादशैकादशराशिपानां देष्काणसंज्ञाः क्रमशस्त्रयोत्र ॥'. This verse occurs in the यवनजातक of स्फुजिध्वज on folio 2. It would be noticed that one पाद is the same in both बृहज्जा. and यवनजातक. Ja the worsta of
 
 P TG ( Nepal ms.) the 24 horās of the 12 rāśis are described at length in about 48 rather poetic verses and it wiods up the descriptioo with the words 'garai EITT Yaaroprii H agurauf!!)13 (folio 9.)
 
@@ -815,11 +600,11 @@ Yavanesyara, according to Utpala ) that the lord of the first horā is the same 
 
 A few words must be said about dreskāṇa. Weber and others think that it represents the Greek word 'decanoi'. The
 
-dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal signs. Bouché-Leclercq has discussed 867 the question of decans at great length in his 'L' Astrologie Grecque' pp. 215–240. The decanal system can be traced as far back as the third dynasty of Egypt (about 2800 B. C.) and may be older still. Originally, the decans were conspicuous stars or groups of stars rising at particular hours of the night during 36 successive periods of ton days each that constituted the year in Egypt. The series began with Sirius and they were distributed in a wide equatorial belt. The ancient Egyptians had a fixed idea that each division of time, large or small, must have its protective tutelary deity. Therefore, the decans were originally the divinities (or genii ) that presided over the 36 decades of the Egyptian year. Each period of ten days was marked by the rising of the next decan on the eastern horizon at sunset. Bouché Leclercq points out that in the Egyptian language a specific name (like the Greek word 'decanos') is not met with and that the decans are designated by a number of synonyms. When the Zodiacal signs were introduced in Egypt by the
+dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal signs. Bouché-Leclercq has discussed [^867] the question of decans at great length in his 'L' Astrologie Grecque' pp. 215–240. The decanal system can be traced as far back as the third dynasty of Egypt (about 2800 B. C.) and may be older still. Originally, the decans were conspicuous stars or groups of stars rising at particular hours of the night during 36 successive periods of ton days each that constituted the year in Egypt. The series began with Sirius and they were distributed in a wide equatorial belt. The ancient Egyptians had a fixed idea that each division of time, large or small, must have its protective tutelary deity. Therefore, the decans were originally the divinities (or genii ) that presided over the 36 decades of the Egyptian year. Each period of ten days was marked by the rising of the next decan on the eastern horizon at sunset. Bouché Leclercq points out that in the Egyptian language a specific name (like the Greek word 'decanos') is not met with and that the decans are designated by a number of synonyms. When the Zodiacal signs were introduced in Egypt by the
 
-866. 'Legacy of Egypt' ed. by S. R. K. Glanville ( Oxford, 1942, p. 163 ).
+[^866]. 'Legacy of Egypt' ed. by S. R. K. Glanville ( Oxford, 1942, p. 163 ).
 
-867. 'L'Astrologie Grecque' p. 220 note 2. Vide. The royal art of Astrology' by Eisler p. 82 and plate VII facing p. 81 for Egyptian Decaa-stan on the lids of a sarcophagus of the 6th Dynasty.
+[^867]. 'L'Astrologie Grecque' p. 220 note 2. Vide. The royal art of Astrology' by Eisler p. 82 and plate VII facing p. 81 for Egyptian Decaa-stan on the lids of a sarcophagus of the 6th Dynasty.
 
 582
 
@@ -827,23 +612,23 @@ dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal 
 
 
 
-Greeks, the tutelary spirits slipped into or got intertwined with the signs of the Zodiac (each sign of 30 degrees being divided into decans of 10 degrees) and played an important part in astrology. The original division referred to the equator, while the later distribution of 36 decans among the twelve signs refers to the 868 ecliptic. Bouché Leclercq avers (p. 53 ) that it has been proved beyond doubt that the Egyptian Zodiacs ( they had four, viz. 2 at Denderah, one at Esneh and one at Akhnum ) are all of the Roman epoch and are imitations of the Greek Zodiac.
+Greeks, the tutelary spirits slipped into or got intertwined with the signs of the Zodiac (each sign of 30 degrees being divided into decans of 10 degrees) and played an important part in astrology. The original division referred to the equator, while the later distribution of 36 decans among the twelve signs refers to the [^868] ecliptic. Bouché Leclercq avers (p. 53 ) that it has been proved beyond doubt that the Egyptian Zodiacs ( they had four, viz. 2 at Denderah, one at Esneh and one at Akhnum ) are all of the Roman epoch and are imitations of the Greek Zodiac.
 
-The Bṛhajjātaka has a special chapter 27 (in 36 verses ) called dreśkāṇādhyāya in which the 36 presiding deities of dreśkāṇas are described. This chapter appears to conserve the ancient Egyptian conception of the decans as guardian 869 divi nities. The language must be regarded as rather metaphorical or symbolic. It is parts of the Zodiac that are being described. Nearly two-thirds of 36 are male and the rest are female. Some composite figures of males and females and quadrupeds or birds or serpents occur. In verses 2, 19 and 21 (of chap. 27) Varāha expressly says that he only sets out what the Yavanas have said.
+The Bṛhajjātaka has a special chapter 27 (in 36 verses ) called dreśkāṇādhyāya in which the 36 presiding deities of dreśkāṇas are described. This chapter appears to conserve the ancient Egyptian conception of the decans as guardian [^869] divi nities. The language must be regarded as rather metaphorical or symbolic. It is parts of the Zodiac that are being described. Nearly two-thirds of 36 are male and the rest are female. Some composite figures of males and females and quadrupeds or birds or serpents occur. In verses 2, 19 and 21 (of chap. 27) Varāha expressly says that he only sets out what the Yavanas have said.
 
-868. Vide Webb in Journal of Hellenistic Studies, vol. 48 (1925) p. 56, Prof. Neugebauer in E. S. A. pp. 81-83. The latter gotes that with the exception of Sirius and its neighbours decans have defied identification with koowo constellations. Vide Prof. Neugebauer's latest note on The Egyptian Decans'in 'Vistas in Astronomy' (ed. A. Beer, vol. I. pp. 47-51).
+[^868]. Vide Webb in Journal of Hellenistic Studies, vol. 48 (1925) p. 56, Prof. Neugebauer in E. S. A. pp. 81-83. The latter gotes that with the exception of Sirius and its neighbours decans have defied identification with koowo constellations. Vide Prof. Neugebauer's latest note on The Egyptian Decans'in 'Vistas in Astronomy' (ed. A. Beer, vol. I. pp. 47-51).
 
-869. Vide for 'Dreskāna' Colebrooke's Miscellaneous essays, vol. II. pp. 364-373. Colebrooke (on pp. 370-71 ) states that Manilius employs the word Decania, that Firmicus differs in the names and does not allow the complete degrees to each decanus. This would show that the Bṛ. J. could not have followed about dreskāna Firmicus in astrology as Jacobi suppo sed but some other more ancient author. Nor can it be said that the Br J. follows Manilius. The description of the middle dreṣkāṇa of Meṣa ratber resembles the rotund figure in Plate 10 in Prof. Neugebauer's book "Exact Sciences in Antiquity'p. 83, which plate reproduces the representation of the Decan deities on the tomb of Senmut (in Egypt), B. L. Van Der Waerden in his paper • Babyloniao Astronomy; thirty-six stars' in Journal of Near East Stadies, vol. VIII (pp. 6-26 ) shows how thirty-six stars from old Babylonian times finally became mixed up with the twelve Zodiaca! sigas and 36 Egyptian decaos. Oo p. 8 he gives lists of 36 constellations, the so called 'decans', which were found on coffin lids of the middle king dom in Egypt and on ceilings of tombs belonging to kings of the New Kiogdom. The risings, culminations and settings of decan constellations were supposed to determine not only the date but also the time of the night. On p. 20 he gives a table of Babyloniao stars and their modern equiva lent stars and their times.
+[^869]. Vide for 'Dreskāna' Colebrooke's Miscellaneous essays, vol. II. pp. 364-373. Colebrooke (on pp. 370-71 ) states that Manilius employs the word Decania, that Firmicus differs in the names and does not allow the complete degrees to each decanus. This would show that the Bṛ. J. could not have followed about dreskāna Firmicus in astrology as Jacobi suppo sed but some other more ancient author. Nor can it be said that the Br J. follows Manilius. The description of the middle dreṣkāṇa of Meṣa ratber resembles the rotund figure in Plate 10 in Prof. Neugebauer's book "Exact Sciences in Antiquity'p. 83, which plate reproduces the representation of the Decan deities on the tomb of Senmut (in Egypt), B. L. Van Der Waerden in his paper • Babyloniao Astronomy; thirty-six stars' in Journal of Near East Stadies, vol. VIII (pp. 6-26 ) shows how thirty-six stars from old Babylonian times finally became mixed up with the twelve Zodiaca! sigas and 36 Egyptian decaos. Oo p. 8 he gives lists of 36 constellations, the so called 'decans', which were found on coffin lids of the middle king dom in Egypt and on ceilings of tombs belonging to kings of the New Kiogdom. The risings, culminations and settings of decan constellations were supposed to determine not only the date but also the time of the night. On p. 20 he gives a table of Babyloniao stars and their modern equiva lent stars and their times.
 
 Description of dreṣkānas
 
 583
 
-Here I translate two verses (2 and 21 ) 'the Yavanas have declared the form of the middle dreskāṇa of Meṣa sign ( Aries ) viz. she is a female clad in red garments, intent on ornaments and food, has the mouth of a horse and has a jar-like (i, e. rotund ) form, she is oppressed by thirst and is standing on one leg '; 'the Yavanas have declared the appearance of the last dreskāṇa of Tula (Scales) as a male having the form of a monkey, decked with ornaments, frightening deer in a forest, wearing golden armour and quiver, and holding fruits and flesh ( in his hands )'. There is nothing in the Tetrabiblos of Ptolemy corres ponding to this and Varāha probably refers to a Sanskrit work by a Yavana writer much earlier than even Ptolemy and Mani lius. Manilius, author of 'Astronomica', a didactic poem on astrology, referred to the decans but he wrote about 9 A. D. and it appears that decans had gone out of vogue in Greece by the time of Ptolemy. Bouché-Leclercq notes (p. 219) that the system of decans is a characteristic of Manilius and that after him one does not hear it spoken of any longer. On p. 219 of his work Bouché-Leclercq furnishes a figure of the Decans of Manilius, which is entirely different from the descriptions of decans given by Br. J. Manilius divides each sign into three parts, each of which represents no deity but the signs themselves. For example, Aries is divided into three parts and those three are the same as Arios, Taurus and Gemini. The Sārāvali 8694 in chap. 49 devotes thirty-six verses to the description of 36 dreskānas, but the des cription differs from that of the Br. J. as the note below will show. The Sārāvali had probably before it a Sanskrit yarana work different from the one relied upon by Br. J.
+Here I translate two verses (2 and 21 ) 'the Yavanas have declared the form of the middle dreskāṇa of Meṣa sign ( Aries ) viz. she is a female clad in red garments, intent on ornaments and food, has the mouth of a horse and has a jar-like (i, e. rotund ) form, she is oppressed by thirst and is standing on one leg '; 'the Yavanas have declared the appearance of the last dreskāṇa of Tula (Scales) as a male having the form of a monkey, decked with ornaments, frightening deer in a forest, wearing golden armour and quiver, and holding fruits and flesh ( in his hands )'. There is nothing in the Tetrabiblos of Ptolemy corres ponding to this and Varāha probably refers to a Sanskrit work by a Yavana writer much earlier than even Ptolemy and Mani lius. Manilius, author of 'Astronomica', a didactic poem on astrology, referred to the decans but he wrote about 9 A. D. and it appears that decans had gone out of vogue in Greece by the time of Ptolemy. Bouché-Leclercq notes (p. 219) that the system of decans is a characteristic of Manilius and that after him one does not hear it spoken of any longer. On p. 219 of his work Bouché-Leclercq furnishes a figure of the Decans of Manilius, which is entirely different from the descriptions of decans given by Br. J. Manilius divides each sign into three parts, each of which represents no deity but the signs themselves. For example, Aries is divided into three parts and those three are the same as Arios, Taurus and Gemini. The Sārāvali [^869]4 in chap. 49 devotes thirty-six verses to the description of 36 dreskānas, but the des cription differs from that of the Br. J. as the note below will show. The Sārāvali had probably before it a Sanskrit yarana work different from the one relied upon by Br. J.
 
 Some other technical words may be mentioned and defined here. The six items, viz. the rāśi of a planet, the horā, droskāna, navāmsa, dvādaśāmśa and triśāmśa of the rāśi are each called the varga or Sad-varga of that planet (Br. J. I. 9). The first navāmśa of Meṣa, Karki, Tūlā and Makara ( that are cara signs )
 
-869 a. Compare that your atyrgraaffare quanto great na AVAT tahun u qatticeni ( DEWI. 27. 2) with out furt रतिमान गीतपियो मनस्वी स्यात् । मित्रार्थभाक सुरूपः स्त्रीवित्तचिद्वितीये च सारावली 49. 2: in the Nepal ms. of path the maigalyaTur is described as follows: गौरः प्रहारी रिपुदारुणाक्षः शुक्लाम्बरो वारणतुल्यमूर्धा । वस्तायुषा (?) धातुरसार्थविध मे द्वितीयो गुरुलोमशाङ्गः॥ tolio 9. This indicates that the यवनजातक bad a third tradition about tops. It is expressly stated tbat the three parts of a rāsi are known among the Yavanas as dreskānas 'ROUT (?) sustaa TAT देष्काणसंज्ञा यवनारग्यया ये।, folio 9.
+[^869] a. Compare that your atyrgraaffare quanto great na AVAT tahun u qatticeni ( DEWI. 27. 2) with out furt रतिमान गीतपियो मनस्वी स्यात् । मित्रार्थभाक सुरूपः स्त्रीवित्तचिद्वितीये च सारावली 49. 2: in the Nepal ms. of path the maigalyaTur is described as follows: गौरः प्रहारी रिपुदारुणाक्षः शुक्लाम्बरो वारणतुल्यमूर्धा । वस्तायुषा (?) धातुरसार्थविध मे द्वितीयो गुरुलोमशाङ्गः॥ tolio 9. This indicates that the यवनजातक bad a third tradition about tops. It is expressly stated tbat the three parts of a rāsi are known among the Yavanas as dreskānas 'ROUT (?) sustaa TAT देष्काणसंज्ञा यवनारग्यया ये।, folio 9.
 
 584
 
@@ -1225,7 +1010,7 @@ H. D. 76
 
 History of Dharmaśāstra (Sec. II, Ch. XVI
 
-the Indians and that what he means is not that there was copying, but an intelligent modification of the initial impetus ( vide Archives Internationales D' Histoire des Sciences' for April-June 1955 ( at p. 171 and note 32). It has been shown above in note 869 that the Br. J. differs from Firmicus as to dreskānas and about bhāvas ( places in the horoscope ). My hypothesis is that Indian astrology about rāśis and bhāvas was developed before even Ptolemy. I have pointed out the differences between Ptolemy and Varāha in many places. 903
+the Indians and that what he means is not that there was copying, but an intelligent modification of the initial impetus ( vide Archives Internationales D' Histoire des Sciences' for April-June 1955 ( at p. 171 and note 32). It has been shown above in note [^869] that the Br. J. differs from Firmicus as to dreskānas and about bhāvas ( places in the horoscope ). My hypothesis is that Indian astrology about rāśis and bhāvas was developed before even Ptolemy. I have pointed out the differences between Ptolemy and Varāha in many places. 903
 
 Horoscopes are cast not only for individuals, but also for companies, ships, animals, 903a foundations of buildings, cities and countries. If a person comes to an astrologer for consulta tion on any matter, the astrologer notes the sign rising at the time the question is asked, calculates the positions of the planets also for that day and time and then makes his prognostications. 204 For casting the horoscope of an individual one must know the year, month, day, hour or ghaṭikū of birth and the place of birth. Almanacs are prepared on the basis of the latitudes and longitudes of cities like Bombay or Poona or Calcutta and they furnish tables by following which one can find the sign rising at the time of the birth of a person. But the almanacs being based on the latitudes and longitudes of certain towns and cities, if a person uses an almanac prepared in Poona for casting the horoscope of a person born in Berar or Central India there is likely to be some inaccuracy in arriving at the proper lagna.
 
