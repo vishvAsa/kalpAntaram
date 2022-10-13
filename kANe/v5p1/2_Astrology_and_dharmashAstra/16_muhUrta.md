@@ -412,213 +412,75 @@ The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moo
 
 Certain rāśis are declared to be the houses (_svagṛha_) of planets and certain other rāśis as their _ucca_ (exaltation) and certain parts or degrees of the _ucca_ are declared to be _paramocca_; the 7th rāśi from the _ucca_ is said to be _nīca_ i. e. depressed and certain parts (or degrees ) of the latter are said to be _paramanīca_. The Sun and the Moon have each only one rāśi as svagṛha, while the other five planets have two each. The following diagram will indicate all this at a glance :
 
-Planet
+Planet	Svagr̥ha	Sign of Exaltation	Sign of Depression
+Sun	Siṁha	Meṣa [10]	Tulā [10]
+Moon	Karkaṭa	Vr̥ṣabha [3]	Vr̥ścika [3]
+Mars	Meṣa and Vr̥ścika 	Makara [28]	Karkaṭa [28]
+Mercury	Mithuna and Kanyā	Kanyā [15]	Mīna [15]
+Jupiter	Dhanus and Mīna	Karkaṭa [5]	Makara [5]
+Venus	Vr̥ṣabha and Tulā	Mīna [27]	Kanyā [27]
+Saturn	Makara and Kumbha	Tulā [20]	Meṣa [20]
 
-Svagha
+The figures under signs of exaltation and depression are the _aṁśas_ ( degrees) respectively of _paramocca_ and _paramanīca_. The explanation offered by Yavanajātaka of Sphujidhvaja and the Vṛddhayavana-jātaka of Mīnarāja is that the sign of Leo was assigned to the Sun as his house because it is the most powerful sign and Cancer (a watery sign) was assigned to the Moon, and the Sun and the Moon each gave one sign out of the remaining to the other five planets viz. Kanyā, Tulā, Vr̥ścika, Dhanus and Makara were given by the Sun to Mercury, Venus, Mars, Jupiter and Saturn ( arranged according to distance ) and the Moon gave to the same five planets one each of the rāśis of Mithuna, Vr̥ṣabha, Meṣa, Mīna and Kumbha (vide my paper on ‘Yavaneśvara and Utpala' in J. B. B. R. A. Ş. vol. 30 on p. 5.for the verses of Mīnaraja and p. 7 for translation).
 
-sign of Exaltation
+## Ptolemy on svagr̥has
 
-sign of Depression
+Tetrabiblos I. 17 practically gives a similar explanation about houses (svagr̥has) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica [^862] ).
 
-Sun
+That rāśi that is occupied by its own lord or has an aspect (dr̥ṣṭi ) of its lord or is occupied by Mercury or Jupiter or has an aspect with them is powerful [^863] if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the _lagna_, the watery signs (Karkaṭa, Mīna, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Siṁha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
 
-Siṁha
-
-Mosa
-
-10
-
-Tulā 10
-
-Moon
-
-Karkaṭa
-
-Vr̥ṣabha
-
-Vr̥ścika
-
-Mars
-
-Meṣa and Vr̥ścika
-
-Makara
-
-28
-
-Karkaṭa
-
-28
-
-Mercury Mithuna and Kanyā
-
-Kanyā
-
-Mīna
-
-15
-
-15
-
-Jupiter | Dhanus and Mīna
-
-Karkaṭa
-
-Makara
-
-5
-
-Venus
-
-Vr̥ṣabha and Tulā
-
-Mīna
-
-Kanyā
-
-27
-
-27
-
-Saturn
-
-Makara and Kuinbha
-
-Tulā 20
-
-Meṣa
-
-20
-
-The figures under signs of exaltation and depression are the añīas ( degrees) rospectively of paramocca and paramanica. The explanation offered by Yavanajātaka of Sphujidhvaja and the Vṛddhayavana-jātaka of Mīnarāja is that the sign of Leo was assigned to the Sun as his house because it is the most powerful sign and Cancer (a watery sign) was assigned to the Moon, and the Sun and the Moon each gave one sign out of the remaining to the other five planets viz. Kanyā, Tulā, Vr̥ścika, Dhanus and Makara were given by the Sun to Mercury, Venus, Mars, Jupiter and Saturn ( arranged according to distance ) and the Moon gave to the same five planets one each of the rāśis of Mithuna, Vr̥ṣabha, Meṣa, Mīna and Kumbha (vide my paper on ‘Yavaneśvara and Utpala' in J. B. B. R. A. Ş. vol. 30 on p. 9Ptolemy on svagrhas
-
-577
-
-for the verses of Mīnaraja and p. 7 for translation). Tetrabiblos I. 17 practically gives a similar explanation about houses (svagrhas) and I. 19 agrees with Br. J. I. 13 about the exaltation and depression signs. Ptolemy does not give the degrees (of paramocca and paramanica [^862] ).
-
-That rāśi that is occupied by its own lord or has an aspect (drsti ) of its lord or is occupied by Mercury or Jupiter or lias an aspect with them is powerful [^863] if it be not occupied by any one or more of the remaining planets or has no aspect with any one of the rest. There is a further provision that Scorpion if it is in the 7th house is powerful, the human signs (Mithuna, Kanyā, Tulā, the forepart of Dhanus and Kumbha ) are powerful in the lagna, the watery signs (Karkaṭa, Mīna, latter half of Makara ) are powerful if they occupy the 4th house and the quadrupeds ( Meṣa, Vṛṣa, Siṁha, latter half of Dhanus, and the forepart of Makara ) are powerful in the 10th house (Br. J. I. 17.)
-
-The natural powerfulness of planets is in the following order: Saturn, Mars, Mercury, Jupiter, Venus, the Moon, the Sun, each succeeding one is more powerful than each preceding one; if the power of any two or more is equal in other respects, then one has to take into consideration this natural powerfulness for determining which is more powerful. 564
+The natural powerfulness of planets is in the following order: Saturn, Mars, Mercury, Jupiter, Venus, the Moon, the Sun, each succeeding one is more powerful than each preceding one; if the power of any two or more is equal in other respects, then one has to take into consideration this natural powerfulness for determining which is more powerful.[^864]
 
 The astrological houses in a horoscope are twelve and each is expressed by various synonyms, many of which indicate what particular matters are to be judged from the state of that house. They are enumerated in Br. J. I. 15-19, Laghujātaka I. 15-19, Sārāvali III. 26-33.
 
+[^862]: सूर्यस्य भागे दशमे तृतीये सोमस्य जीवस्य तु पञ्चमे स्यात् । सौरस्य विंशे त्वधिसप्तके च विद्याद् भृगोः पञ्चदशे बुधस्य ॥ भौमस्य विंशेऽष्टयुते (परोच्चम्)। ..विंशल्लवे स्वोञ्चगृहे निवेशम् । स्वोच्चात्तु जामित्रमुशन्ति नीचं त्रिंशल्लवो यच्च समानसंख्यः । folio 4 of palm-leaf Nepal ms. of यवनजातक of स्फुजिध्वज q. by उत्पल with slight variations as from यवनेश्वर on बृहज्जा. i. 13. Vide सारावली III. 35-36 for उच्च, परमोच्च, नीच and परमनीच.
 
+[^863]: अधिपयुतो दृष्टो वा बुधजीवयुतेक्षितश्च यो राशिः। स भवति बलवान्न यदि युक्तो दृष्टोपि वा शेषैः॥ लघुजातक I. 14; vide also बृहजातक I. 19.
 
+[^864]: मन्दार-सौम्य-वाक्पति-सितचन्द्रार्का यथोत्तरं बलिनः । नैसर्गिकबलमेतद् बलसाम्येऽस्मादधिकचिन्ता॥ लघुजातक II. 7, quoted by उत्पल on बृहज्जा. II. 21, the last quarter of which is 'शरुबुगुशुचसाद्या वृद्धितो वीर्यवन्तः', where शरुबुगुशुचस stand for शनि, रुधिर (अङ्गारक), बुध, गुरु, शुक्र, चन्द्र and सवितृ.
 
+1st house-_horā_, tanu, kalpa, śakti, mūrti, lagna, deha, aṅga, udaya, vapus, ādya, vilagna.
+2nd      -dhana, sva, kuṭumba, artha, kośa.
+3rd      -sahottha, vikrama, paurusa, sahaja, _duścikya_.
+4th      -bandhu, gr̥ha, suhṛt, pātāla, _hibuka_, veśma, sukha, caturasra, ambu, jala, ambā, yāna, vāhana.
+5th      -suta, dhi, putra, pratibhā, vidyā, vāk-sthāna, _trikoṇa_.
+6th      -ari, ripu, kṣata, vraṇa.
+7th      -jāyā, _jāmitra, dyūna, dyūta_, patni, stri, cittottha, astabhavana, kāma, smara, madana.
+8th      -maraṇa, randhra, mr̥tyu, vināśa, caturasra, chidra, vivara, laya, yāmya.
+9th      -śubha, guru, dharma, puṇya, tritrikoṇa, _trikoṇa_, tapas.
+10th     -āspada, māna, karma, _meṣūraṇa_, ajñā, kha, gagana, tāta, vyāpāra.
+11th     -āya, bhava, lābha, āgama, prāpti.
+12th     -Vyaya, _riḥpha (or riṣpha_), antya, antima.
 
+It should be noted that the appellations given to these bhāvas are of two classes, (1) those which are used as mere designations, without indicating the special function of the house, such as horā, duścikya, meṣūraṇa, riḥpha, caturasra; the second class of these appellations conveys the special functions of the houses, such as _tanu_ (body), sva ( wealth) or kuṭumba (family ), sahaja ( brothers ).
 
+There are certain appellations that apply to a number of houses. The 1st, 4th, 7th and 10th houses are all called kaṇṭaka, _kendra_, catuṣṭaya, the houses beyond the kendra are called _paṇaphara_ ( 2nd, 5th, 8th and 11th ), the 3rd, 6th, 9th and 12th houses are called _Āpoklima_, 6th, 8th and 12th houses are called trika; the 3rd, 6th, 10th and 11th houses are called upacaya and the rest are called apacaya. Garga held that the 3rd, 6th, 10th and 11th are called upacaya only if there is no aspect of them with malefic planets or with the enemy of the lord of them. Trikoṇa is claimed to be a Greek word.
 
+## Prognostications froin twelie bhāvas
 
+From the several names of the bhāvas, it appears that the following were to be predicted from the several bhāvas; from first bhāva, health and the growth of the body; from 2nd the wealth of one's family; from 3rd brothers (and sisters ) and valour; from 4th relatives friends, happiness, house and mother; from 5th sons, intellect, learning; from 6th enemies and wounds; from 7th wife, love affairs., marriage; from 8th death, one's foibles and sins; from 9th dharma, elders (including parents ), austerities; from 10th actions and dignities or position and father; from 11th acquisition of good qualities and of wealth; from 12th expenditure, debts.
 
+Thibaut (in Grundriss p. 68 ) following Jacobi boldly asserts that the doctrine of the twelve astrological houses which is a chief point in the Indian system found developed in Varāhamihira does not occur among Western authorities earlier than Firmicus Maternus ( middle of 4th century A. D.) and that Greek astrology entered into India only between Firmicus and Varāhamihira. One is regretfully constrained to say that this is a case of one blind man following another. In the first place the conception of houses ( bhāvas ) is not totally absent even in Ptolemy's Tetrabiblos, as can be seen in II. 8 p. 191, III, 10 pp. 273-275 (Loeb Classical Library), where houses I, VII, IX, X and XI are referred to, though Ptolemy does not pay much attention to the system of _bhāvas_. Probably this escaped the attention of both Jacobi and Thibaut. In the second place, the system of bhāvas does not occur for the first time in Varāha. Varāha refers to a host of Indian writers before him as will be shown below in whose works the system appears in a fully developed form. It is not possible to believe that all this vast literature was developed in a hundred years or so after Firmicus. Besides, authors like Garga, Parāśara, who are placed between the Vedāṅgajyotiṣa and the siddhāntas ( about 800 B.C. to 250 A.D.) know this system and Garga is assigned to 50 B.C. by Kern (Preface to Bṛ.S. p.50). Thibaut, a great scholar, proposing to write an encyclopaedic work on Jyotiṣa is content to rely on Jacobi and does not appear to have cared to see for himself even Ptolemy and examine works like the Ātharvaṇa Jyotiṣa, the Vaikhānasasūtra, Viṣṇudharmottara which teach astrology based on nakṣatras. This, to say the least, is most surprising. Prof. Zinner ( in 'Stars above us') p. 67 says that the twelve houses denote life, business, brothers, father, sons, health, wife, death, religion, gain, good deeds, gaol. In the 3rd place Thibaut takes no account of Sanskrit works written by Yavanas settled in India, to whom Varaha frequently refers, from whom he sometimes differs on vital points of doctrine and from whom Utpala quotes hundreds of verses, which are found in the ancient Yavanajātaka of Sphujidhvaja. Further, it has been shown above (pp. 533-34 ) that extant references to astrology based on nakṣatras actually exhibit the names of at least five bhāvas centuries before Firmicus. It is quite possible to argue that Firmicus borrowed his astrology from the predecessors of Varāha, who were Greeks and wrote in Sanskrit, or that even Ptolemy did so as he knows of the bhāvas, but furnishes only a dilettante treatment. It may be further noted - that no adaptations of Greek words for all the bhāvas from the first to the twelfth are to be found in Sanskrit works. Such words occur only for some viz. Ist, 3rd, 4th, 7th, 10th and 12th bhāvas and for groups of a few bhāvas ( such as kendra, paṇaphara and āpoclima). Besides, the peculiar points to be deduced from the several bhāvas as stated in Br. J do not all agree with what Firmicus says. Varāha designates the 2nd bhāva as kuṭumba and sva (family, wealth ) while Firmicus calls it 'lucrum' (how one shall earn one's living); the 11th bhāva is called āya (income) and bhāva by Varāha while Firmicus calls it the house of good deeds; in Firmicus the 4th bhāva is that of father or parents, while Varāha calls it 'bandhu'(relatives ) and gr̥ha in Br̥. J. and ‘suhr̥t'( friends ) in Laghujātaka and some later Indian writers say that 4th and 10th bhāvas are respectively of the mother and father. In Firmicus the 6th and 12th bhāvas are respectively wealth and jail, while Varāha bolds them to be 'enmity' and 'expenditure'.
 
+## Lords of horās
 
+Certain technical words have yet to be explained. One meaning of _horā_ is half a _rāśi_. In the case of the rāśis of odd numbers ( viz. 1, 3, 5, 7, 9, 11 ) the lord of the first half is the sun and that of the 2nd half is the moon, while in the case of rāsis of even numbers (2, 4, 6, 8, 10, 12 ) the lord of the 1st half is the moon and of the 2nd half the sun (Br. J. I. 11). The purpose of this is that those born on sun's horā are energetic ( assertive) by nature and those born on moon's horā are mild by nature. Bṛ. J. (I. 12) mentions the view of some [^865] (of Yavaneśvara, according to Utpala ) that the lord of the first horā is the same as the lord of the rāśi and the lord of the second horā is the lord of the 11th house in the horoscope. The result of this view would be that all planets can be lords of horās and not the sun and the moon alone as Varāha, Satya and others say. Each rāśi (of 30 degrees) is divided into three parts, each of 10 degrees, called dreṣkāṇa or drekkāṇa or dr̥kāṇa or dr̥gāṇa ( in Bṛ. J. III. 5, probably for the sake of the metre ). The lords of the three parts of each rāśi are respectively the lord of the rāśi itself ( of the first part), the lord of the 5th rāśi ( of the 2nd part ) and the lord of the 9th rāśi ( of the 3rd part). For example, in the case of Vr̥ṣabha (of which the lord is Venus ), the lords of the 1st, 2nd and 3rd parts are respectively Venus, Mercury (lord of 5th from Vr̥ṣabha) and Saturn ( lord of 9th from Vr̥ṣabha). And go on for the other rāśis.
 
+A few words must be said about dreṣkāṇa. Weber and others think that it represents the Greek word 'decanoi'. The 'dekans' were a legacy from ancient Egypt, which[^866] had originally no zodiacal signs. Bouché-Leclercq has discussed [^867] the question of decans at great length in his 'L' Astrologie Grecque' pp. 215–240. The decanal system can be traced as far back as the third dynasty of Egypt (about 2800 B. C.) and may be older still. Originally, the decans were conspicuous stars or groups of stars rising at particular hours of the night during 36 successive periods of ten days each that constituted the year in Egypt. The series began with Sirius and they were distributed in a wide equatorial belt. The ancient Egyptians had a fixed idea that each division of time, large or small, must have its protective tutelary deity. Therefore, the decans were originally the divinities (or genii ) that presided over the 36 decades of the Egyptian year. Each period of ten days was marked by the rising of the next decan on the eastern horizon at sunset. Bouché Leclercq points out that in the Egyptian language a specific name (like the Greek word 'decanos') is not met with and that the decans are designated by a number of synonyms.
 
+[^865]: केचित्तु होरां प्रथमां भपस्य वाञ्छन्ति लाभाधिपतोर्द्वितीयम् । द्रेक्काणसंज्ञामपि वर्णयन्ति <u>स्वद्वादशैकादशराशिपानाम् </u>॥ बृहज्जातक I. 12; उत्पल quotes on this a verse of यवनेश्वर 'आद्या तु होरा भवनस्य पत्युरेकादश क्षेत्रपतेर्द्धितीया ।<u> स्वद्वादशैकादशराशिपानां </u>द्रेष्काणसंज्ञाः क्रमशस्त्रयोत्र ॥'. This verse occurs in the यवनजातक of स्फुजिध्वज on folio 2. It would be noticed that one पाद is the same in both बृहज्जा. and यवनजातक. In the यवनजातक of स्फजिध्वज ( Nepal ms.) the 24 horas of the 12 rāśis are described at length in about 48 rather poetic verses and it winds up the description with the words 'एतास्तु होरा <u>यवनैर्निरुक्ताश्चित्तासमुद्भूतिगुणाश्रयार्था </u>(?)॥' (folio9.)
 
+[^866]: 'Legacy of Egypt' ed. by S. R. K. Glanville ( Oxford, 1942, p. 163 ).
 
+[^867]: 'L'Astrologie Grecque' p. 220 note 2. Vide 'The royal art of Astrology' by Eisler p. 82 and plate VII facing p. 81 for Egyptian Decan-stars on the lids of a sarcophagus of the 6th Dynasty.
 
+When the Zodiacal signs were introduced in Egypt by the Greeks, the tutelary spirits slipped into or got intertwined with the signs of the Zodiac (each sign of 30 degrees being divided into decans of 10 degrees) and played an important part in astrology. The original division referred to the equator, while the later distribution of 36 decans among the twelve signs refers to the [^868] ecliptic. Bouché Leclercq avers (p. 53 ) that it has been proved beyond doubt that the Egyptian Zodiacs ( they had four, viz. 2 at Denderah, one at Esneh and one at Akhnum ) are all of the Roman epoch and are imitations of the Greek Zodiac.
 
+The Bṛhajjātaka has a special chapter 27 (in 36 verses ) called dreśkāṇādhyāya in which the 36 presiding deities of dreśkāṇas are described. This chapter appears to conserve the ancient Egyptian conception of the decans as guardian [^869] divinities. The language must be regarded as rather metaphorical or symbolic. It is parts of the Zodiac that are being described. Nearly two-thirds of 36 are male and the rest are female. Some composite figures of males and females and quadrupeds or birds or serpents occur. In verses 2, 19 and 21 (of chap. 27) Varāha expressly says that he only sets out what the Yavanas have said.
 
+[^868]: Vide Webb in Journal of Hellenistic Studies, vol. 48 (1925) p. 56, Prof. Neugebauer in E. S. A. pp. 81-83. The latter notes that with the exception of Sirius and its neighbours decans have defied identification with known constellations. Vide Prof. Neugebauer's latest note on The Egyptian Decans'in 'Vistas in Astronomy' (ed. A. Beer, vol. I. pp. 47-51).
 
-
-
-
-
-
-
-___[^862]. सूर्यस्य भाग दशमे तृतीये सोमस्य जीवस्य तु पञ्चमे स्यात् । सौरस्य विशे त्वधिसप्तके च विद्याद् भृगोः पञ्चदशे बुधस्य ॥ भौमस्य विशेऽष्टयुते (परोच्चम्)। ..विंशलवे खोञ्चगृहे निवेशम् । स्वोच्चात्तु जामित्रमुशन्ति नीचं त्रिशल्लवो यच्च समानसंख्यः । folio 4 of palm-leal Nepal ms. of यवन तक of स्फुजिध्वज q. by उत्पल with slight variations as from यवनेश्वर on बृहज्जा. i. 13. Vide सारावली III. 35-36 for उच्च, परमोच्च, नीच and परमनीच. __[^863]. अधिपयुतो दृष्टो वा बुधजीवयुतक्षितश्च यो राशिः। स भवति बलवान यदि युक्तो
-
-Teng a 14:
-
-1 7 I. 14; vide also am I. 19. [^864]. Hrein-pisy-arrafa- i ui Figa: Hargaag te साम्येऽस्मादधिकचिन्ता॥ लघुजातक II. 7, quoted by उत्पल o बृहज्जा. II. 21, the last quarter of which is 'शरुबुगुशुचसाद्या वृद्धितो वीर्यवन्तः', where शरुघुगुशुचस stand tor शनि, रुधिर (अडारक), बुध, गुरु, शुक्र, चन्द्र and सवितृ.
-
-4. D. 73
-
-578
-
-
-
-
-
-1st house-horā, tanu, kalpa, sakti, mūrti, lagna, deha, anga,
-
-udaya, vapus, ādya, vilagna. 2nd --dhana, sva, kuṭumba, artha, kośa. 3rd , --sahottha, vikrama, paurusa, sahaja, duścikya.
-
-„ bandhu, gha, suhṛt, pātāla, hibuka, veśma, sukha,
-
-caturasra, ambu, jala, ambā, yāna, vāhana. 5th , --suta, dhi, putra, pratibhā, vidyā, vāk-sthana,
-
-trikoṇa. , -ari, ripu, kṣata, vraña.
-
-jāyā, jāmitra, dyūna, dyūta, patni, stri, cittottha,
-
-astabhavana, kāna, smara, madana. 8th -maraṇa, randhra, mrtyu, vināśa, caturasra, chidra,
-
-vivara, laya, yāmya. 9th , --subha, guru, dharma, puṇya, tritrikoṇa, trikona,
-
-tapas. 10th -aspada, māna, karma, meṣūraṇa, ajñā, kha, gagana,
-
-tāta, vyāpāra. 11th , -āya, bhava, lābha, āgama, prāpti. 12th ~ --Vyaya, rihpha (or rispha), antya, antima.
-
-It should be noted that the appellations given to these bhāvas are of two classes, (1) those which are used as mere designations, without indicating the special function of the house, such as horā, duścikya, meṣūrana, rihpha, caturasra; the second class of these appellations conveys the special functions of the houses, such as tanu (body), sva ( wealth) or kutumba (family ), sahaja ( brothers ).
-
-There are certain appellations that apply to a number of houses. The 1st, 4th, 7th and 10th houses are all called kantaka, kendra, catustaya, the houses beyond the kendra are called paṇaphara ( 2nd, 5th, 8th and 11th ), the 3rd, 6th, 9th and 12th houses are called A poklima, 6th, 8th and 12th houses are called trika; the 3rd, 6th, 10th and 11th houges are called upacaya and the rest are called apacaya. Garga held that the 3rd, 6th, 10th and 11th are called upacaya only if there is no aspect of them with malefic planets or with the enemy of the lord of them. Trikoṇa is claimed to be a Greek word.
-
-From the several names of the bhāvas, it appears that the following were to be predicted from the several bhāvas; from first bhāva, health and the growth of the body; from 2nd the
-
-Prognostications froin twelie bhāvas
-
-579
-
-wealth of one's family; from 3rd brothers (and sisters ) and valour; from 4th relatives friends, happiness, house and mother; from 5th sons, intellect, learning; from 6th enemies and wounds; from 7th wife, love affairs., marriage; from 8th death, one's foibles and sins; from 9th dharma, elders (including parents ), austerities; from 10th acticns and dignities or position and father; from 11th acquisition of good qualities and of wealth; from 12th expenditure, debts.
-
-Thibaut (in Grundriss p. 68 ) following Jacobi boldly asserts that the doctrine of the twelve astrological houses which is a chief point in the Indian system found developed in Varāha mihira does not occur among Western authorities earlier than Firmicus Maternus ( middle of 4th century A. D.) and that Greek astrology entered into India only between Firmicus and Varāhamihira. One is regretfully constrained to say that this is a case of one blind man following another. In the first place the conception of houses ( bhāvas ) is not totally absent even in Ptolemy's Tetrabiblos, as can be seen in II. 8 p. 191, III, 10 pp. 273-275 (Loeb Classical Library), where houses I, VII, IX, X and XI are referred to, though Ptolemy does not pay much attention to the system of bhūras. Probably this escaped the attention of both Jacobi and Thibaut. In the second place, the system of bhāvas does not occur for the first time in Varāba. Varāha refers to a host of Indian writers before him as will be shown below in whose works the system appears in a fully developed form. It is not possible to believe that all this vast literature was developed in a hundred years or so after Firmicus. Besides, authors like Garga, Parāśara, who are placed between the Vedāngajyotisa and the siddhāntas ( about 800 B.C. to 250 A.D.) know this system and Garga is assigned to 50 B.C. by Kern (Preface to Bṛ.S. p.50). Thibaut, a great scholar, proposing to write an encyclopaedic work on Jyotiṣa is content to rely on Jacobi and does not appear to have cared to see for himself even Ptolemy and examine works like the Ātharvaṇa Jyotiṣa, the Vaikhānasasūtra, Viṣṇudharmottara which teach astrology based on nakṣatras. This, to say the least, is most surprising. Prof. Zinner ( in 'Stars above us') p. 67 says that the twelve houses denote life, business, brothers, father, sons, health, wife, death, religion, gain, good deeds, gaol. In the 3rd place Thibaut takes no account of Sanskrit works written by Yavanas settled in India, to whom Varaba frequently refers, from whom he sometimes differs on vital points of doctrine and from whom Utpala quotes hundreds of versos,
-
-580
-
-History of Dharmaśāstru
-
-
-
-which are found in the ancient Yavanajātaka of Sphujidhvaja. Fur ther, it has been shown above (pp. 533-34 ) that extant references to astrology based on nakṣatras actually exhibit the names of at least five bhāvas centuries before Firmicus. It is quite possible to argue that Firmicus borrowed his astrology from the predecessors of Varāha, who were Greeks and wrote in Sanskrit, or that even Ptolemy did so as he knows of the bhāvas, but
-
-furnishes only a dilettante treatment. It may be further noted - that no adaptations of Greek words for all the bhāvas from the
-
-first to the twelfth are to be found in Sanskrit works. Such words occur only for some viz. Ist, 3rd, 4th, 7th, 10th and 12th bhāvas and for groups of a few bhāvas ( such as kendra, pana phara and āpoclima). Besides, the peculiar points to be deduced from the several bhāvas as stated in Br. J do not all agree with what Firmicus says. Varāha designates the 2nd bhāva as kutumba and sva (family, wealth ) while Firmicus calls it 'lucrum' (how one shall earn one's living); the 11th bhāva is called āya (income) and bhāva by Varāha while Firmicus calls it the house of good deeds; in Firmicus the 4th bhāva is that of father or parents, while Varāha calls it 'bandhu'(relatives ) and gļha in B:. J. and ‘suhrt'( friends ) in Laghujātaka and some later Indian writers say that 4th and 10th bhāvas are respectively of the mother and father. In Firmicus the 6th and 12th bhāvas are respectively wealth and jail, while Varāha bolds them to be 'enmity' and 'expenditure'.
-
-Certain technical words have yet to be explained. One meaning of horā is half a rūśi. In the case of the rāśis of odd numbers ( viz. 1, 3, 5, 7, 9, 11 ) the lord of the first half is the sun and that of the 2nd half is the moon, while in the case of rāsis of even numbers (2, 4, 6, 8, 10, 12 ) the lord of the 1st half is the moon and of the 2nd half the sun (Br. J. I. 11). The purpose of this is that those born on sun's horā are energetic ( assertive) by nature and those born on moon's horā are mild by nature. Bṛ. J. (I. 12) mentions the view of some [^865] (of
-
-[^865]. केचित्त होरां प्रथमा भपस्य वाञ्छन्ति लाभाधिपतोद्वितीयम् । देवाणसंज्ञामपि वर्णयन्ति TETES TERTISITI TE WA I. 12; fate quotes on this a verse of gaat 'आद्या तु होरा भवनस्य पत्युरेकादश क्षेत्रपतद्वितीया । स्वद्वादशैकादशराशिपानां देष्काणसंज्ञाः क्रमशस्त्रयोत्र ॥'. This verse occurs in the यवनजातक of स्फुजिध्वज on folio 2. It would be noticed that one पाद is the same in both बृहज्जा. and यवनजातक. Ja the worsta of
-
-P TG ( Nepal ms.) the 24 horās of the 12 rāśis are described at length in about 48 rather poetic verses and it wiods up the descriptioo with the words 'garai EITT Yaaroprii H agurauf!!)13 (folio 9.)
-
-Lords of horas
-
-581
-
-Yavanesyara, according to Utpala ) that the lord of the first horā is the same as the lord of the rāśi and the lord of the second horā is the lord of the 11th house in the horoscope. The result of this view would be that all planets can be lords of horās and not the sun and the moon alone as Varāha, Satya and others say. Each rasi (of 30 degrees) is divided into three parts, each of 10 degrees, called dreskāna or drekkāṇa or drkāṇa or drgāna ( in Bṛ. J. III. 5, probably for the sake of the metre ). The lords of the three parts of each rāśi are respectively the lord of the rāśi itself ( of the first part), the lord of the 5th rāśi ( of the 2nd part ) and the lord of the 9th rāśi ( of the 3rd part). For example, in the case of Vr̥ṣabha (of which the lord is Venus ), the lords of the 1st, 2nd and 3rd parts are respectively Venus, Mercury (lord of 5th from Vr̥ṣabha) and Saturn ( lord of 9th from Vr̥ṣabha). And go on for the other rāśis.
-
-A few words must be said about dreskāṇa. Weber and others think that it represents the Greek word 'decanoi'. The
-
-dekans' were a legacy from ancient Egypt, which 366 had origi nally no zodiacal signs. Bouché-Leclercq has discussed [^867] the question of decans at great length in his 'L' Astrologie Grecque' pp. 215–240. The decanal system can be traced as far back as the third dynasty of Egypt (about 2800 B. C.) and may be older still. Originally, the decans were conspicuous stars or groups of stars rising at particular hours of the night during 36 successive periods of ton days each that constituted the year in Egypt. The series began with Sirius and they were distributed in a wide equatorial belt. The ancient Egyptians had a fixed idea that each division of time, large or small, must have its protective tutelary deity. Therefore, the decans were originally the divinities (or genii ) that presided over the 36 decades of the Egyptian year. Each period of ten days was marked by the rising of the next decan on the eastern horizon at sunset. Bouché Leclercq points out that in the Egyptian language a specific name (like the Greek word 'decanos') is not met with and that the decans are designated by a number of synonyms. When the Zodiacal signs were introduced in Egypt by the
-
-[^866]. 'Legacy of Egypt' ed. by S. R. K. Glanville ( Oxford, 1942, p. 163 ).
-
-[^867]. 'L'Astrologie Grecque' p. 220 note 2. Vide. The royal art of Astrology' by Eisler p. 82 and plate VII facing p. 81 for Egyptian Decaa-stan on the lids of a sarcophagus of the 6th Dynasty.
-
-582
-
-
-
-
-
-Greeks, the tutelary spirits slipped into or got intertwined with the signs of the Zodiac (each sign of 30 degrees being divided into decans of 10 degrees) and played an important part in astrology. The original division referred to the equator, while the later distribution of 36 decans among the twelve signs refers to the [^868] ecliptic. Bouché Leclercq avers (p. 53 ) that it has been proved beyond doubt that the Egyptian Zodiacs ( they had four, viz. 2 at Denderah, one at Esneh and one at Akhnum ) are all of the Roman epoch and are imitations of the Greek Zodiac.
-
-The Bṛhajjātaka has a special chapter 27 (in 36 verses ) called dreśkāṇādhyāya in which the 36 presiding deities of dreśkāṇas are described. This chapter appears to conserve the ancient Egyptian conception of the decans as guardian [^869] divi nities. The language must be regarded as rather metaphorical or symbolic. It is parts of the Zodiac that are being described. Nearly two-thirds of 36 are male and the rest are female. Some composite figures of males and females and quadrupeds or birds or serpents occur. In verses 2, 19 and 21 (of chap. 27) Varāha expressly says that he only sets out what the Yavanas have said.
-
-[^868]. Vide Webb in Journal of Hellenistic Studies, vol. 48 (1925) p. 56, Prof. Neugebauer in E. S. A. pp. 81-83. The latter gotes that with the exception of Sirius and its neighbours decans have defied identification with koowo constellations. Vide Prof. Neugebauer's latest note on The Egyptian Decans'in 'Vistas in Astronomy' (ed. A. Beer, vol. I. pp. 47-51).
-
-[^869]. Vide for 'Dreskāna' Colebrooke's Miscellaneous essays, vol. II. pp. 364-373. Colebrooke (on pp. 370-71 ) states that Manilius employs the word Decania, that Firmicus differs in the names and does not allow the complete degrees to each decanus. This would show that the Bṛ. J. could not have followed about dreskāna Firmicus in astrology as Jacobi suppo sed but some other more ancient author. Nor can it be said that the Br J. follows Manilius. The description of the middle dreṣkāṇa of Meṣa ratber resembles the rotund figure in Plate 10 in Prof. Neugebauer's book "Exact Sciences in Antiquity'p. 83, which plate reproduces the representation of the Decan deities on the tomb of Senmut (in Egypt), B. L. Van Der Waerden in his paper • Babyloniao Astronomy; thirty-six stars' in Journal of Near East Stadies, vol. VIII (pp. 6-26 ) shows how thirty-six stars from old Babylonian times finally became mixed up with the twelve Zodiaca! sigas and 36 Egyptian decaos. Oo p. 8 he gives lists of 36 constellations, the so called 'decans', which were found on coffin lids of the middle king dom in Egypt and on ceilings of tombs belonging to kings of the New Kiogdom. The risings, culminations and settings of decan constellations were supposed to determine not only the date but also the time of the night. On p. 20 he gives a table of Babyloniao stars and their modern equiva lent stars and their times.
+[^869]: Vide for 'Dreṣkāṇa' Colebrooke's Miscellaneous essays, vol. II. pp. 364-373. Colebrooke (on pp. 370-71 ) states that Manilius employs the word Decania, that Firmicus differs in the names and does not allow the complete degrees to each decanus. This would show that the Bṛ. J. could not have followed about dreṣkāna Firmicus in astrology as Jacobi supposed but some other more ancient author. Nor can it be said that the Br J. follows Manilius. The description of the middle dreṣkāṇa of Meṣa rather resembles the rotund figure in Plate 10 in Prof. Neugebauer's book "Exact Sciences in Antiquity'p. 83, which plate reproduces the representation of the Decan deities on the tomb of Senmut (in Egypt), B. L. Van Der Waerden in his paper 'Babylonian Astronomy; thirty-six stars' in Journal of Near East Studies, vol. VIII (pp. 6-26 ) shows how thirty-six stars from old Babylonian times finally became mixed up with the twelve Zodiacal signs and 36 Egyptian decans. On p. 8 he gives lists of 36 constellations, the so called 'decans', which were found on coffin lids of the middle kingdom in Egypt and on ceilings of tombs belonging to kings of the New Kingdom. The risings, culminations and settings of decan constellations were supposed to determine not only the date but also the time of the night. On p. 20 he gives a table of Babylonian stars and their modern equivalent stars and their times.
 
 Description of dreṣkānas
 
@@ -774,11 +636,11 @@ gaia allV. 16.
 
 ( Continued on next page)
 
-Doctrine of drsti
+Doctrine of dr̥ṣṭi
 
 589
 
-A very important doctrine of Indian astrology is that of drṣti (lit. glance, i. e aspect ). The Br. J. II. 13, Laghujātaka II. 8, Sārāyali IV. 32-33, Muhūrtadarśana I. 27 lay down the following rules. All planets 876 have a full aspect (pūrna.drsti) on the 7th house from the one which each occupies. Besides, Saturn has full aspect on the 3rd and 10th rāśi from the one which it occupies and on the planet which is 3rd or 10th from its own position. Similarly, Jupiter has full aspect on the 5th and 9th rāsi from the one it occupies and also on the planet that is 5th or 9th from itself; Mars has full drsti on the 4th and 8th rāśis and the planet in the same. So the Sun, Moon, Mercury and Venus have full drsti only on the 7th rāśi from the one each of them occupies and on the planet that is 7th from them. Besides, all planets have 1/4th drsti on the 3rd and 10th, half drsti on 5th and 9th, dṛsti on 4th and 9th. There is no aspect of any planet on any rāśi or sthāna except the seven expressly mentioned (viz. 3rd, 4th, 5th, 7th, 8th, 9th and 10th ) and in the case of partial dụstis the fruit also is partial (i. e. 1, or :). The Tetrabiblos (I. 13 and 20 ) treats of four aspects viz. opposition (7th house of Varāha), trine ( 5th and 9th houses ), quartile ( 4th and 10th ), sextile ( difference of 60 degrees and two signs) and does not distinguish between fractions of drsṭis as Varāha does. So in the matter of aspects also there is substantial difference between Ptolemy and Varāha-mihira.
+A very important doctrine of Indian astrology is that of drṣti (lit. glance, i. e aspect ). The Br. J. II. 13, Laghujātaka II. 8, Sārāyali IV. 32-33, Muhūrtadarśana I. 27 lay down the following rules. All planets 876 have a full aspect (pūrna.dr̥ṣṭi) on the 7th house from the one which each occupies. Besides, Saturn has full aspect on the 3rd and 10th rāśi from the one which it occupies and on the planet which is 3rd or 10th from its own position. Similarly, Jupiter has full aspect on the 5th and 9th rāsi from the one it occupies and also on the planet that is 5th or 9th from itself; Mars has full dr̥ṣṭi on the 4th and 8th rāśis and the planet in the same. So the Sun, Moon, Mercury and Venus have full dr̥ṣṭi only on the 7th rāśi from the one each of them occupies and on the planet that is 7th from them. Besides, all planets have 1/4th dr̥ṣṭi on the 3rd and 10th, half dr̥ṣṭi on 5th and 9th, dṛsti on 4th and 9th. There is no aspect of any planet on any rāśi or sthāna except the seven expressly mentioned (viz. 3rd, 4th, 5th, 7th, 8th, 9th and 10th ) and in the case of partial dụstis the fruit also is partial (i. e. 1, or :). The Tetrabiblos (I. 13 and 20 ) treats of four aspects viz. opposition (7th house of Varāha), trine ( 5th and 9th houses ), quartile ( 4th and 10th ), sextile ( difference of 60 degrees and two signs) and does not distinguish between fractions of drsṭis as Varāha does. So in the matter of aspects also there is substantial difference between Ptolemy and Varāha-mihira.
 
 Another important doctrine is that of gocara. It means 8769 the consideration about the auspicious or inauspicious positions of planets at any particular period in question in places either
 
