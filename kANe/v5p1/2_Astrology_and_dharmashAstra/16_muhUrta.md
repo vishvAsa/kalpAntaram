@@ -186,6 +186,9 @@ Ptolemy speaks of beneficent and malefic planets (1.5), of masculine and feminin
 
 A few important points of agreement and disagreement between Sanskrit astrological works and Ptolemy will be set out later on.
 
+{{< figure src="../images/horoscope_pg556.png" title="" class="thumbnail">}}
+
+
 In the Bulletin of the London School of Oriental Studies vol. 9 for 1935-37 there is a paper (pp. 125-139 ) on some chronological data relating to the Sassanian period in which reference is made to an Arabic book on astrology composed about 275 of the Hejira (equal to 888-889 A. D.) by a Persian astronomer and astrologer, the 2nd part of which describes a horoscope of the accession of Khosrove to the throne on a date corresponding to 18-8-531 A. D. (p. 129).
 
 ## Works on Muhūrta
