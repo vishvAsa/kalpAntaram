@@ -170,483 +170,216 @@ Our country's great handicap is population and food production. Statistics for t
 
 [^2649]: Vide Tata Industries 'Statistical Outline of India for 1959', Table 8 for population.
 
-[^2650]: Vide Tata Industries 'Statistical outline of India for 1959', Table No. 2. Vide 'Communist China today' by S. Chandrasekhara. (p. 136), who shows that the present figures about China are not reliable owing to a change of policy in modern China. 
+[^2650]: Vide Tata Industries 'Statistical outline of India for 1959', Table No. 2. Vide 'Communist China today' by S. Chandrasekhara. (p. 136), who shows that the present figures about China are not reliable owing to a change of policy in modern China.
 
 Very low per capita income in India
 
-1685
+Country       Rupees          Country       Rupees
+India         289             Italy         1922
+Australia     5114            Japan         1200
+Burma         222             U. K.         4561
+Canada        4946            U.S.A.        10124
+Ceylon        553             W. Germany    3530
 
-Country
+These figures show that in Ceylon the per capita income is double that of India, in Japan it is four times as much and in Germany over twelve times that of India. Both Germany and Japan were devastated by the 2nd World War and yet the people of both countries have in less than 15 years improved so much in production that both are giving substantial assistance to India. Our people and leaders should deeply ponder over this state of things and should strain every nerve in an all out effort to improve the country's lot instead of talking and mutual bickerings.
 
-Rupass
+While these pages were passing through the Press, the author got a copy of 'India's Food Crisis and steps to meet it" which is a report (of 254 pages) made in 1959 by a Ford Foundation Team of thirteen American Technicians and agriculturist specialists at the invitation of two Indian Ministers of Food and Agriculture and Community Development and co-operation. It is a very important document, discusses seventy aspects of the problem and deserves close study by all Indians interested in India's welfare. It is issued by the Govt. of India. One or two striking matters can alone be referred to here. The report points out that the total population of India will be about 480 millions at the end of the Third Five Plan in 1966, that the target of 110 million tons of food grains by 1965-66 is reasonable and is necessary to provide food enough for the added millions and to provide for some dietary improvement and a safety margin for poor crops and other emergencies. The report recognises that India is making steady progress in food production, but the rate of production must be tripled to meet the Third Plan target. It gives the warning that if India's food production increases no faster than at present rates, the    _gap between supplies and target will be 28 million tons_ by 1965-66; this would be 25 per cent shortfall in terms of need and that no conceivable programme of imports or rationing would meet a crisis of this magnitude ( pp. 3-4). The report suggests several emergency measures and measures to be carried on over a long period, which cannot be set out here. It stresses the need for research in agricultural economics. It recommends (p. 11 ) that the entire nation must be made aware of the impending food crisis and steps must be taken to meet it and warns that adequate supplies of food are essential to the survival of democracy. Two short-comings of the report may be pointed out. It does not tell us what funds would be required for research and for implementing the numerous other suggestions it makes. Besides, it says nothing about the birth rate in India and measures to curb the phenomenal rise in population.
 
-Country
+## Comparative birth rates and death rates
 
-Rupees
+According to U. N. Demographic Year book (August 1960 ) there are about 2900 million people in the world. More than half of the world's inhabitants live in four countries viz. China ( 669 millions ), India ( 438 millions), Soviet Union (209 millions ), U. S. A. ( 178 millions ). Population growth depends upon the birth rate and the death rate. Owing to scientific discoveries, epidemics or such diseases as malaria, typhoid, cholera, influenza are either eliminated or brought under control and therefore the death rate tends to be lower and lower. It is the birth rate that has to be controlled. The following table[^2651] for comparative birth rate and death rate in 1957 for eight countries is interesting :
 
-India
+Country       Birth Rate per thousand.      Death rate per thousand.
+India               24                              12
+Australia           23                               9
+Canada              28                               8
+Ceylon              37                              10
+France              19                              12
+Sweden              15                              10
+U. K.               17                              12
+U. S. A.            25                              10
 
-289
+[^2651]: Vide table 12 'Comparative vital statistics, 1957' in the Tata Industries 'Statistical Outline of India, 1959'.
 
-Italy
+This table shows that the birth rate in our country is not very high or abnormal and the death rate is also similar to that of such progressive countries as France and U. K. Many Western countries have no definite population policy at Govt. level. But the case of our country is entirely different. Our country has already a huge population, most of which is on the margin of subsistence level. Supposing that by means of our two Five Year Plans the national income in the ten years (1951–1961 ) increased 30 percent, the growth of population in the same period would come to about 22 percent, so that most of the additional wealth produced would be eaten up by the new mouths that have to be fed and the standard of living of the average Indian would practically remain the same. Therefore, the main problem that faces the Government, the planners and the people is how to control the large growth of population. Population control will not solve all the problems of our country, but our other problems will not be solved without solving that problem. The Government of India and the Planners had no well thought policy about the control of population, Government appears to lay far more emphasis on industrialization and agricultural production than on population control. In the first Five Year Plan only 65 lakhs of rupees were allocated to the schemes of population control, in the 2nd Five Year Plan the allocation was raised to five crores. The Planning Commission has now realized the gravity of the problem of the enormous growth of Indian population, has provided 50 crores of rupees in the Third Plan for the various schemes of population control ( vide pp. 676 ff. of Third Five Year Plan). In the whole world about 100 people are born every minute, about 6000 persons every hour, about 140,000 every day and about five crores every year. This problem of the phenomenal growth of population Overshadows in urgency and importance almost every problem of the contemporary world, much more so of India. Very little is being done to control systematically the terrific growth of numbers. Sweden in the early 19th century was a poverty stricken country, but now it is one of the progressive and prosperous countries of the world owing to hard work, co-operation, honesty, social and personal discipline. Birth control is a very difficult and delicate problem. Religious beliefs and prejudices have to be taken into consideration. In Ṛgvedic times the prayer to God Indra for a newly married bride had been 'bountiful Indra! may ten sons be born of her and make her husband the eleventh (member of the family).' Later on some kindly soul took compassion on women and made the blessing to be 'of eight sons'. The Mahābhārata said that a sonless man does not reach blessed worlds (heaven &c). By the birth of a son the father was deemed to have discharged his debt to his ancestors and the water and piṇḍas ( balls of cooked rice ) offered by the son to his deceased father and other deceased ancestors were supposed to be of great efficacy for the peace of the departed souls, Vide H. of Dh. Vol. II pp. 560-61, 799 and above p. 1626 This importance of a son or sons is believed to this day by almost all illiterate or educated people in India except a few men and women of advanced views. Educated brides sometimes request that the old mode of blessing for eight sons should not be followed. Therefore, in such cases the formula has to be changed to 'may you have as many sons as you desire'. The Smṛtis lay down that the husband has to cohabit with the wife after the first few days of her monthly illness and that he incurred the sin of embryo murder if he refused to do so without good cause. Vide H. of Dh. Vol. II pp. 570-71 and note 1327. The Mārkaṇḍeya Purāṇa (Chap. 14. 5-6 ) goes a little further and gives a story in which the husband who neglected this owing to his partiality for another charming wife had to undergo torments of hell.
 
-1922
+## Birth control by contraceptives etc.
 
-Australia
+The present high prices of the necessaries of life induce many people to limit families by various devices. The Planning Commission is going to try various measures such as intensive education, provision of facilities and advice on the largest scale possible, providing family planning services at 1864 rural and 330 urban medical and health centres, numbers of sterilization centres, opening 6100 clinics in rural areas and 2100 in urban areas ( in 2nd Plan only 549 urban and 1100 rural clinics ), distribution of simple contraceptives, research programme for more effective contraceptives etc. The 3rd Plan reports that in the 2nd Plan period 125000 sterilization operations were carried out (p. 678 of Third Plan). The present author is not an expert in these matters and so will content himself by pointing out that sterilization and, particularly contraceptives, are double-edged Weapons. Sterilization for males is easy and may become popular among well-to-do men for selfish reasons (such as not wanting children and not undertaking the task of bringing them up). Therefore, a rule would have to be made and rigorously enforced that no sterilization will be done unless the man has three children or more. Vide a very thoughtful work 'Fertility and Survival' by Alfred Sauvy tr. from French by Christine Brooke-Rose (1961). Birth control is practised in West Europe, North America, Japan exclusively by the well-to-do type of people. The same might happen in India. The most serious objection against contraceptives is that they will lead to immorality and encourage promiscuity in both sexes, Gandhiji in his 'Self-restraint versus self-indulgence' (3rd. ed., 1928) stated that so far as India is concerned there is no case for contraceptives (p. 3) and advised self-restraint. But he might have changed his opinion if he had been alive today. To advise poor people to practise self restraint, when most of them live in hovels of one room or two rooms, who are uneducated and have no ambitions and pass life in abject poverty, sounds to them as a huge joke. The well-to-do have many interests in life and several outlets for their energy but for the poor there are very few. It is interesting to note that the Prime Minister in his 'Autobiography'( 1936 ) strongly criticizes Gandhiji's praise of poverty, suffering and ascetic life as utterly wrong, harmful and impossible of achievement ( p. 510 ) and regards Gandhiji's attitude to sex as extraordinary (p. 512 ).
 
-5114
+Dr. Radhakrishnan in 'Religion and Society'(published in 1947 ) concedes (p. 189) that the use of contraceptives cannot be altogether forbidden, quotes Dawson to the effect that birth control by abstention is either ineffective or, if effective, pernicious (p. 90 ), that objections to birth control by contraceptives are due to their abuse and that in the present conditions facilities for birth control must be available, especially to poorer classes (p. 191 ). Contraceptives would have to be harmless to use, cheap, easy to use and absolutely reliable. The author is not sure if there are contraceptives of this type. Japan, a small country of islands, was compelled by the rapid growth of population to legalise abortions. Vide 'Aggression and Population' by F. James Dawson (London, 1946 ) for a thoughtful book on how to check worldwide growth of population. A thoughtful and exhaustive work is 'Population and planned parenthood in India' by S. Chandrasekhar, Director of Indian Institute for population studies, Madras ( revised Edition of 1961 ).
 
-1200
+The total investment programme for the Third Plan comes to Rs. 10400 crores (p. 109 ), Ra. 6100 crores in the public sector and Rs. 4300 crores in the private sector. The public sector has to find Rs. 7500 crores in all (that is Rs. 6300 for investment plus 1200 crores for current outlays in personnel &c( p. 91).
 
-Burma
+Resources for the Third Plan (p.100)
 
-222
+              TABLE 3.
+                                            CENTRE      STATES      TOTAL
 
-Japan U. K. U.S. A.
+1. Balance from current revenue               410         140         550
+2. Contribution of Railways                   100         ---         100      
+3. Surpluses of other public enterprises      300         150         450
+4. Loans from the public                      475         325         800
+5. Small Savings                              213         387         600
+6. Provident funds                            183          82         265
+7. Steel Equalisation Fund                    105         ---         105
+8. Balance of miscellaneous capital receipts  428         258         686
+9. Total of 1 to 8                           2214         826        3040  
+10. Additional Taxation                      1100         6100       1710
+11. External Assistance                      2200          --        2200
+12. Deficit financing                         524          26         550
+                                            -------------------------------
+                                  Total  ... 6038        1462        7500
+                                            -------------------------------
+Besides the States have resources for 3rd Plan amounting to 1416 crores.
 
-4561
+The two five year plans have given our leaders a certain mastery over the situation and some confidence abut the future. But Mr. Nanda has to admit that the productivity and level of efficiency are very low. Foreign aid raises difficult questions as to how to match it with an adequate mobilization of domestic resources. The mass of people are poverty-stricken, have a low standard of living and therefore can save little. High prices, which is a concomitant of development plans in all countries, are making common people discontented.
 
-Canada
+Foreign assistance runs into thousands of crores of rupees, nearly half of which comes from U. S. A. The United States Information Service has prepared a detailed statement of assistance to India for ten years from June 1951 to 4th August 1961 and circulated it to many Indians from which some striking figures are quoted here. A statement brought up only to June 30 of 1961 gives slightly smaller numbers as compared with the statement given below which brings up the figures up to 4th August 1961.
 
-4946
+## Extent of U. S. A aid to India
 
-10124
+U. S. Government aid consists of grants and loans. Grants are gifts and do not involve any repayment. The grants in ten years total 1128.5 million dollars (537.4 crores of rupees ). Loans involve repayment, some in dollars and some in rupees or dollars at the option of the Indian Government. Repayment in rupees does not involve the utilization of India's foreign exchange earnings or the export of goods from India. Eighty percent of U. S. loans to India up to Aug. 4, 1961 ( 2192.1 million dollars ) are repayable in rupees i.e. that portion of the loans is not so inconvenient as the loans repayable in dollars are.
 
-Ceylon
-
-553
-
-W. Germany
-
-3530
-
-These figures show that in Ceylon the per capita income is double that of India, in Japan it is four times as much and in Germany over twelve times that of India. Both Germany and Japan were devastated by the 2nd World War and yet the people of both countries have in less than 15 years improved so much in production that both are giving substantial assistance to India. Our people and leaders should deeply ponder over this state of things and should strain every nerve in an all out effort to improve the country's lot instead of talking and mutual biokerings.
-
-While these pages were passing through the Press, the author got a copy of India 's Food Crisis and steps to meet it" which is a report (of 254 pages) made in 1959 by a Ford Foundation Team of thirteen American Technicians and agriculturist specialists at the invitation of two Indian Mini stors of Food and Agriculture and Community Development and co-operation. It is & very important document, discusses seventy. aspects of the problem and deserves close study by all Indians interested in India's welfare. It is issued by the Goʻrt. of India. One or two striking matters can alone be referred to here. The report points out that the total population of India will be about 480 millions at the end of the Third Five Plan in 1966, that the target of 110 million tons of food grains by 1965-66 is reasona ble and is necessary to provide food enough for the added millions and to provide for some dietary improvement and a safety margin for poor crops and other emergencies. The report recognises that India is making steady progress in food produc tion, but the rate of production must be tripled to meet the Third Plan target. It gives the warning that if India's food production increases no faster than at present rates, the gap
-
-1686
-
-History of Dharmatūstru 1 sec. X, Ch. XXXVII between supplies and target will be 28 million tons by 1965-66; this would be 25 per cent shortfall in terms of need and that no conceivable programme of imports or rationing would meet & crisis of this magnitude ( pp. 3-4). The report suggests several emergency measures and measures to be carried on over a long period, which cannot be set out here. It stresses the need for research in agricultural economics. It recommends (p. 11 ) that the entire nation must be made aware of the imponding food crisis and steps must be taken to meet it and warns that adequate supplies of food are essential to the survival of democracy. Two short-comings of the report may be pointed out. It does not tell us what funds would be required for research and for implementing the numerous other suggestions it makes. Besides, it says nothing about the birth rate in India and measures to curb the phenomenal rise in population.
-
-According to U. N. Demographic Year book (August 1960 ) there are about 2900 million people in the world. More than half of the world's inhabitants live in four countries viz. China ( 669 millions ), India ( 438 millions), Soviet Union (209 millions ), U. 8. A. ( 178 millions ). Population growth dependa upon the birth rate and the death rate. Owing to scientific discoveries, epidemics or such diseasos as malaria, typhoid, cholera, influenza are either eliminated or brought under control and therefore the death rate tends to be lower and lower. It is the birth rate that has to be controlled. The following table 365 for comparative birth rate and death rate in 1957 for eight countries is interesting :
-
-Country
-
-Birth Rate per thousand.
-
-Death rate per thousand.
-
-India Australia Canada Ceylon France Sweden U. K. U. 8. A.
-
-[^2651]. Vide table 12 Comparative vital statistics, 1957' in the Tata Indestries. Statistical Oatline of India, 1959',
-
-Comparative birth rates and death rates
-
-1687
-
-This table shows that the birth rate in our country is not very high or abnormal and the death rate is also similar to that of such progressive countries as France and U. K. Many Western countries have no definito population policy at Govt. level. But the case of our country is entirely different. Our country has already a buge population, most of which is on the margin of subsistence level. Supposing that by means of our two Five Year Plans the national income in the ten years (1951–1961 ) increased 30 percent, the growth of population in the same period would come to about 22 percent, so that most of the additional wealth produced would be eaten up by the new mouths that have to be fed and the standard of living of the average Indian would practioally remain the same. Therefore, the main problem that faces the Government, the planners and the people is how to control the large growth of population. Population control will not solve all the problems of our country, but our other problems will not be solved without solving that problem. The Government of India and the Planners had no well thought policy about the control of population, Government appears to lay far more emphasis on industrialization and agricultural production than on population control. In the first Five Year Plan only 65 lakhs of rupees were allocated to the schemes of population control, in the 2nd Five Year Plan the allocation was raised to five crores. The Planning Commission has now realized the gravity of the problem of the enormous growth of Indian population, has provided 50 crores of rupees in the Third Plan for the various schemes of population control ( vide pp. 676 ff. of Third Five Year Plan). In the whole world about 100 people are born every minute, about 6000 persons every hour, about 140,000 every day and about five crores every year. This problem of the phenomenal growth of population Overshadows in urgency and importance almost every problem of the contemporary world, much more 80 of India. Very little is being done to control systematically the terrific growth of numbers. Sweden in the early 19th century was a poverty stricken country, but now it is one of the progressive and prosperous countries of the world owing to hard work, co-opera tion, honesty, social and personal discipline. Birth control is a very difficult and delicate problem. Religious beliefs and prejudices have to be taken into consideration. In Rgvedio times the prayer to God Indra for a newly married bride had been' bountiful Indra 1 may ten gons be born of her and make har husband the eleventh (member of the family ).' Later on
-
-1688
-
-History of Dharmaśāstra (Sec. X, Ch. XXXVII
-
-some kindly soul took compassion on women and made the blessing to bo. of eight sons'. The Mahābhārata said that a sonless man does not reach blessed worlds ( heaven &c). By the birth of a son the father was deemed to have discharged his debt to his ancestors and the water and pindas ( balls of cooked rice ) offered by the son to his deceased father and other deceased ancestors were supposed to be of great efficacy for the peace of the departed souls, Vide H. of Dh. Vol. II pp. 560-61, 799 and above p. 1626 This importance of a son or sons is believed to this day by almost all illiterate or educated people in India except a few men and women of advanced views. Educated brides sometimes request that the old mode of blessing for eight sons should not be followed. Therefore, in such cases the formula has to be changed to'may you have as many sons as you desire'. The Smstis lay down that the husband has to cohabit with the wife after the first few days of her monthly illness and that he incurred the sin of embryo murder if he refused to do so without good cause. Vide H, of Dh. Vol. II pp. 570-71 and note 1327. The Mārkandeya Purāpa (Chap. 14. 5-6 ) goes a little further and gives a story in which the husband who neglected this owing to his partiality for another charming wife had to undergo torments of hell. The prosent high prices of the necessaries of life induce many people to limit families by various devices. The Planning Commission is going to try various measures such as intensive education, provision of facilities and advice on the largest scale possible, providing family planning services at 1864 rural and 330 urban medical and health centres, numbers of sterilization centres, opening 6100 clinics in rural areas and 2100 in urban areas ( in 2nd Plan only 549 urban and 1100 rural clinics ), distribution of simple contraceptives, research programme for more effective contraceptives etc. The 3rd Plan reports that in the 2nd Plan period 125000 sterilization operations were carried out (p. 678 of Third Plan). The present author is not an expert in these matters and so will content himself by pointing out that sterilization and, particularly contraceptives, are double-edged Weapons. Sterilization for males is easy and may become popular among well-to-do men for selfish reasons (such as not wanting children and not undertaking the task of bringing them up). Therefore, a rule would have to be made and rigorously enforced that no sterilization will be done unless the man has three children or more. Vide a very thoughtful work * Fertility and Survival' by Alfred Saury fr. from French by hristine Brooke-Rose (1961). Birth control is practised in
-
-.Birth control by contraceptives etc.
-
-1889
-
-West Europe, North America, Japan exclusively by the well-to do type of people. The same might happen in India. The most serious objection against contraceptives is that they will lead to immorality and encourago promiscuity in both sexes, Gandhiji in bis Self-restraint versus self-indulgence' (3rd. ed., 1928) stated that so far as India is concerned there is no case for contraceptives (p. 3) and advised self-restraint. But he might have changed his opinion if he had been alive today. To advise poor people to practise self restraint, when most of them live in hovels of one room or two rooms, who are uneducated and have no ambitions and pass life in abject poverty, sounds to them as a huge joke. The well-to-do have many interests in life and several outlets for their energy but for the poor there are very fow. It is interesting to note that the Prime Minister in his
-
-• Autobiography '( 1936 ) strongly criticizes Gandhiji's praise of poverty, suffering and ascetic life as utterly wrong, harmful and impossible of achievement ( p. 510 ) and regards Gandhiji's attitude to sex as extraordinary (p. 51% ).
-
-Dr. Radhakrishnan in 'Religion and Society '(published in 1947 ) concedes (p. 189) that the use of contraceptives cannot be altogether forbidden, quotes Dawson to the effect that birth control by abstention is either ineffective or, if effective, pernicious (p. 90 ), that objections to birth control by contra ceptives are due to their abuse and that in the present conditions facilities for birth control must be available, especially to poorer olasses (p. 191 ). Contraceptives would have to be harmless to use, cheap, easy to use and absolutely reliable. The author is not sure if thore are contraceptives of this type. Japan, a small country of islands, was compelled by the rapid growth of popu lation to legalise abortions. Vide . Aggression and Population' by F. James Dawson (London, 1946 ) for a thoughtful book on how to check worldwide growth of population. A thoughtful and exhaustive work is 'Population and planned parenthood in India' by S. Chandrasekhar, Director of Indian Institute for population studies, Madras ( revised Edition of 1961 ).
-
-The total investment programme for the Third Plan comes to Rs. 10400 crores (p. 109 ), Ra. 6100 crores in the public sector and Rs. 4300 crores in the private sector. The public sector has to find Rs. 7500 orores in all (that is Rs. 6300 for lovestment plus 1200 orores for current out]ays in personnel &o( p. 91.
-
-H. D. 814
-
-1690
-
-History of Dharmaśāstra (Soo. X, Oh. XXXVII Resources for the Third Plan (P. 100 )
-
-TABLE 3.
-
-STATES
-
-140
-
-TOTAL
-
-550 100
-
-100
-
-300
-
-150 325
-
-450 800 600 265
-
-387
-
-92
-
-CENTRE 1. Balance from current revenue 410 2. Contribution of Railways 3. Surpluses of other public
-
-enterprises 4. Loans from the public
-
-475 5. Small Savings
-
-213 6. Provident funds
-
-183 7. Steel Equalisation Fund 8. Balance of miscellaneous
-
-capital receipts.
-
-428 9. Total of 1 to 8
-
-2214 10. Additional Taxation
-
-1100 11. External Assistance
-
-2200 12. Daficit financing
-
-524 Total ... 6038
-
-105
-
-105
-
-258
-
-826
-
-170 3040 1710 2200
-
-610
-
-550
-
-26 1462
-
-7500
-
-Besides the States bave resources for 3rd Plan amounting to 1418 crores.
-
-The two five year plans have given our leaders a cortain mastery over the aituation and some confidence abut the future, But Mr. Nanda has to admit that the produ ativity and level of efficienoy are very low. Foreign aid raises difficult questions as to how to match it with an adequate mobilization of domestic resouTCOS. The mass of people are poverty-striokon, have a low standard of living and therefore can save little. High prices, which is a concomitant of develop mont plans in all countries, are making common people disoontented.
-
-Foreign assistance runs into thousands of crores of rupeen, Rearly half of which comes from U. 8. A. The United States Information Service has propared a detailed statement of assistance to India for ten years from June 1951 to 4th August 1961 and circulated it to many Indians from which some striking figures are quoted here. A statement brought up only to June 30 of 1961 gives slightly smallor numbers as compared with the statemont given below which brings up the figures up to 4th August 1961,
-
-Extent of U. 8. Å aid to India
-
-1691
-
-U. 8. Government aid consists of grants and loans. Granto are gifts and do not involve any repayment. The grants in ton years total 1128,5 million dollars (537.4 croros of rupees ). Loans involve repayment, some in dollars and some in rupees or dollars at the option of the Indian Government. Repayment in rupees does not involve the utilization of India's foreign exchange earnings or the export of goods from India. Eighty porcent of U. 8. loans to India up to Aug. 4, 1961 ( 2192.1 million dollars ) are ropayable in rupees i, e. that portion of the loans is not so inconvenient as the loans repayable in dollars are.
-
-On p. 110 of Third Five Year Plan the foreign exchange requirements are put down at 2030 crores of Rs. for plan projects. But there are other general needs of the economy by way of raw materials, components, replacement machinery to be provided for. It is estimated that Rs. 3800 crores over the five years would be not too high. On p. 114 it is stated that the total assistance for the Third Plan assured by foreign countries is 2286 million dollars ( Rs. 1089 orores ) out of which the USA has agreed to provide 1045 million dollars (just under half of the total foreign assistance), West Germany 425 million dollars, U. K. 250 million dollars, Japan 80 million dollars, and small sums by
-
-Canada, France &o,
+On p. 110 of Third Five Year Plan the foreign exchange requirements are put down at 2030 crores of Rs. for plan projects. But there are other general needs of the economy by way of raw materials, components, replacement machinery to be provided for. It is estimated that Rs. 3800 crores over the five years would be not too high. On p. 114 it is stated that the total assistance for the Third Plan assured by foreign countries is 2286 million dollars ( Rs. 1089 orores ) out of which the USA has agreed to provide 1045 million dollars (just under half of the total foreign assistance), West Germany 425 million dollars, U. K. 250 million dollars, Japan 80 million dollars, and small sums by Canada, France &c.
 
 be not too high that Rs. 3800ement machineromy by way of
 
-U.S. Aid from the Inception of the Aid Programme to India in June 1951, through August 4, 1961,
+    U.S. Aid from the Inception of the Aid Programme to India in June 1951, through August 4, 1961.
 
-DOLLARS RUPEES
-
-(Milions) (Crores) Aid under Indo-American technical
-
-co-operative programme
-
-496.4
-
-236.4 Public Law 480, Title I
-
-2337.3
-
-1113.0 Famine Relief grants to Indian
-
-Government
-
-10.4 Agricultural commodities distri
-
-buted through voluntary agencies (Public Law 480, Title III ).
-
-116.8
-
-53.6 Development Loan Fund
-
-513,4
-
-244,5 Hrport-Import Bank
-
-246,9
-
-117.6 Wheat Loan of 1951
-
-189.7
-
-90.3 Total ... 3910.9
-
-1862.6**
-
-1692
-
-History of Dharmasastra 1 Seo. X, Oh, XXXVII
-
+                                                                                    DOLLARS     RUPEES
+                                                                                    (Milions) (Crores)
+Aid under Indo-American technical co-operative programme                              496.4     236.4
+Public Law 480, Title I                                                              2337.3    1113.0
+Famine Relief grants to Indian Government                                              10.4       5.0
+Agricultural commodities distributed through voluntary agencies
+(Public Law 480, Title III ).                                                         116.8      53.6
+Development Loan Fund                                                                 513.4     244.5
+Export-Import Bank                                                                    246.9     117.6
+Wheat Loan of 1951                                                                    189.7      90.3
+                                                                                    -------------------    
+                                                                            Total ...3910.9    1862.6
 BREAKDOWN
 
-537,4
+Grants to Indian Government for economic development (not repayable )                 1128.5    537.4
+Famine relief grants to Indian Government ( not repayable )                             10.4      5.3
+Agricultultural commodities distributed through voluntary agencies
+(PL. 480, title III ) ( not repayable)                                                 116.8     55.6
+Loans repayable in dollars                                                             436.6    307.9
+Loans repayable in rupees or dollars                                                  1755.6    836.0  
+Cooley fund for loans to private enterprises.                                          162.3     77.3
+Amounts under PL-480 Title I reserved for US Govt. use.                                300.8    143.1
+                                                                                    -------------------      
+                                                                            Total ... 3910.9   1862.6
+                                                                                    -------------------
 
-5,3
+## Colossal amount of debts owed by India
 
-Grants to Indian Government for
+The preceding table shows that in the last ten years, India has become indebted to the USA in the huge sum of 2655 million dollars (some payable in dollars alone and the rest in rupees if India chose that way ). In the Third Plan USA has agreed to provide India up to 1045 million dollars i.e. at the end of the 15 years from 1951 India may owe to U.S.A. 3700 million dollars, that is roughly about 1756 crores of rupees (at Rs. 43 per dollar ). India will probably owe a larger amount to all the other lending countries taken together. The most serious question is how and in how many years India will repay the debts that run into astronomical figures. The explanatory memorandum accompanying the Central Budget for 1961-62 shows that India's public debt stood at Rs. 949 crores on 31st March 1939. On the 31st March 1962 it will reach the huge figure of 5554 crores. Adding the liability of Govt. to repay various deposits placed with Govt, under the Post Office Savings Bank, National Plan Savings, Provident Funds, Saving Deposit Certificates etc. which account for Rs. 1868 crores, India's obligations would really come to 7422 crores of Rs. (5554 +-1868), at the end of March 1962. Our interest yielding assets are only Rs. 5725 crores. If we add to this huge sum the debts our Govt. will owe to U. S. A. and other countries as shown in the above table, at the end of the third plan India would be indebted in the colossal figure of about Rs. 11000 crores.
 
-economic development (not repayable )
+While these pages were passing through the Press, the author received a statement from the USA. Information Service in Bombay, which brings the figures up to 12th March 1962. It states that the American Economic assistance to India from June 1951 to 12th March 1962 totals 4118 million dollars ( = 1960.9 crores of Rupees) as shown in the table below:
 
-1128.5 Famine relief grants to Indian
+                                                    DOLLARS             RUPEES            PERCENTAGE
+                                                    (Million)           (Crores)            OF TOTAL
+1. Grant ( not repayable )                          1,291.2             614.8                 31.3
+2. Loans repayable in dollars.                        608.2             289.6                 14.8
+3. Local Currency repayments.                       2,218.0           1,056.5                 53.9
+                                                  ----------------------------------------------------  
+                                                    4,118.0           1,960.9                100.0
+                                                  ----------------------------------------------------  
 
-Government ( not repayable ) 10.4 Agricultultural commodities distri
+It is not necessary to go into other details. The loans are repayable at different dates, some being repayable in forty years and some carrying a very low rate of interest. It may, however, be noted that one of about 4000 million dollars aid to India since Independence over half has been in the form of P. L. 480 Food for commodities. The Food Minister of India, Mr. S. K. Patil, assures us, however, that India would become completely self suffcient in food by the end of the Third Five Year Plan and points out that during the last decade, foodgrain production in India rose from 50 to 80 million tons a year, an increase of 60 per cent. But it should not be forgotten that the population of India in the same ten years increased by about 22 per cent over the population in 1951.
 
-buted through voluntary agencies (PL. 480, title III ) ( not repayable)
+The Welfare State theoretically aims at (Sarvodaya) prosperity for all ( at least for the vast majority ). Up to recent times, the main obligations of the State towards its people were the administration of the country, the defence of the country and its coast against aggression or invasion, maintenance of law, and order, primary and higher education. The ambition of the framers of the Indian Constitution and our leaders is to create a welfare state, and to reconstruct the present social and economic order on a socialistic pattern by subjecting the country to a planned economy. Several vital industries are now reported for the State and Government has assumed power to regulate production, to control distribution and to fix even the prices of some commodities absolutely necessary to all men in daily life. It has also established the State Trading Corporation. Taxation has become an ever-increasing instrument of economic policy for carrying out the plan projects. Apart from the income-Tax Act ( XI of 1922 recently consolidated by Act 43 of 1961) our democratic Government passed one after another four Acts, vis. the Estate Duty Act ( XXXIV of 1953), the Wealth Tax ( XXVI of 1957 ), the Expenditure Tax ( XXIX of 1957 ) and the Gift Tar (XVI of 1958). There is no other country in the world that has all the above five taxes. Is India the only welfare country in the world? There is a sense of uncertainty and fright in the middle classes and tax dodging in the rich or influential sections of the community. Reasons of space prevent the citing of illustrations of the arbitrary character of the recent four Acts. In all these Acts the opinions of the Govt. officers (viz. Gift Tax officer, expenditure tax officer, and wealth tax officer and higher officers ) in an executive ladder under the same Acts on questions of fact (such as the value of a property ) are final and cannot be questioned in any court of justice ( i.e, in a subordinate judge's court or district judge's court or High Court). If a creditor releases a debtor from his debts ( wholly or partly ) the creditor will have to pay gift tax on the debt released if the gift tax officer is of opinion that he could have recovered the debt by means of legal steps. No man can make a gift of more than 100 rupees at one time to a private person or even a near relative (except to his wife ) and if he makes several gifts to the same person in one year exceeding five hundred rupees he will have to pay gift tax. In all cases of questions of fact one appeal should have been allowed to a district court or where the amount concerned was more than ten thousand rupees to the High Court. It should be recognized by policy-makers that our people have great faith in the integrity of the High Courts and the district judges who are selected by the High Courts and whose promotion does not depend on the Executive. They have not much faith in the fairness and integrity of Appellate Commissioners and Tribunals that are appointed by the Ministers, when the dispute is between private persons and taxing authorities on behalf of Government. Writers on the constitutions of countries have for many years emphasized two leading features viz. the sovereignty of Parliament and the rule of law.
 
-116.8 Loans repayable in dollars
+## The New Despotism
 
-436,6 Loans ropayable in rupees or
+Parliaments are cajoled into passing legislation whereby courts of justice are evaded or passed by and the will or caprice of executive officers becomes unfettered and supreme. This is what is called the 'New Despotism' by Lord Chief Justice Hewart of Great Britain. In the name of the Welfare State it seems that all power is being centralized in bureaucracy by our leaders.
 
-dollars
+Most common people in India have a very vague notion of what socialism means. They believe that socialism is based on Marxism. [^2652] Marx holds that revolution is the weapon or means by which the workers are to seize power, that his theory is scientific and based on a study of facts. He himself declared that he was no 'Marxist' ( vide. 'Naked God' p. 3 by Howard Fast, New York, 1957 and 'New Class' by Milovan Djilas p. 4 London, 5th Impression, 1958). These words of his are explained by Dr. Radhakrishnan as meaning that he was not pledged to the acceptance of a doctrine, final, complete and oppressive ( vide. 'Religion and Society,' 1947, p. 25). This is not the place to discuss the premises and predictions of Marx, but a few words may be said here. Marx had predicted that communism would prevail first in the most developed and industrialized nations. What happened is quite the opposite of this. Communism occurred in countries like Russia and China that were relatively very much less developed and industrialized.
 
-1755,6 Cooley fund for loans to privato
+[^2652]: Vide 'New Despotism' by Lord Chief Justice Hewart (Earnest Benn Ltd, London, 1929) p. 17 (a long passage from which is quoted by R, S. W. Pollard in 'Conscience and liberty' (Allen and Unwin, London, 1940 ). Vide also 'Bureaucracy triumphant' by C. K. Allen ( London, 1931). All these taxing enactments have created a high ladder of officers appointed by the executive. For example, under the Wealth Tax Act there is first the Wealth Tax Officer who decides what tax is payable, then there is an appeal to the Appellate Assistant Commissioner (Sec, 23), then there is a farther appeal to the Appellate Tribunal (Sec. 24 ), then there can be a reference to the High Court on a point of law (Séc. 27-28) and finally an appeal to the Supreme Court (Sec, 29). This is sheer harassment and practical denial of justice. After a private person has run to three different officers or official bodies then only the High Court comes in, if at all, and that too on a point of law. It should be remembered that the wealth tax officer has often to determine the value of properties worth lakhs of rupees and on points of fact there are appeals only to the first officer's superiors and there is no provision for a probe of facts by a court or judicial officer independent of the executive. A similar procedure is provided in the Gift Tax, the Expenditure Tax and Estate Duty Tax.
 
-enterprises.
+Another of his predictions was that the system of private ownership would make the rich richer and the poor poorer, would breed ruinous depressions and in the end the angry proletariat would revolt, would overthrow the exploiting classes and establish a communist society. This second prophecy has not materialized in almost all highly industrialized nations. On the contrary, several democratic States have provided security against unemployment, sickness and old age and in some countries employers have admitted representatives of workers into the management of industries. The 'Communist Manifesto' is the official Bible in the U.S. S. R. A recent work The "Anatomy of the Soviet man" by Claus Mehnert, translated from German by Maurice Rosenbaum (1961 ), appears to the present author to contain a balanced and fair estimate of the working of Communism in U. S. S. R. He points out that the desire to rise socially and amass wealth and power is as common to the Soviet Union as to the rest of the world (p. 84 ), that the New Class does not constitute a _bourgeoisie_ in the West European sense, that it is a State _bourgeoisie_, all members work for the State and are dependent on it (p. 73 ), that social distinctions are greater in U.S.S. R. than in U. S. A. (p. 109 ), that the greatest disproportion prevails between the incomes of Academicians, artists and writers on the one hand and ordinary men and workers on the other. It appears to the present author that Communism has so far been the best means for the exploitation of the proletariat.
 
-162.3 Amounts under PL-480 Title I reserved for US Govt. use.
+No great Indian leader of the present day has offered a lucid and considered statement of what the philosophical foundations of Indian socialism are or should be, nor has any leader placed before the people a clear and full picture of the Indian socialistic pattern of the future in all its aspects. In the Plan structures welfare seems to be identified with broad, physical and material comforts. Marx denied God and advocated the forcible liquidation of the exploiting classes. Our Constitution does not mention God (except in schedule II about oaths and affirmations of Ministers and M. P.'s) nor does it emphasize moral and spiritual values, though the founding fathers of the U.S.A. prescribe( in the Declaration of American Independence ) 'All men are created equal. They are endowed by their creator with certain inalienable rights; among them are life, liberty and the pursuit of happiness'. Of course it is wrong and unscientific to say that all men are created equal if literally construed (as even children of the same parents are not equal in height, strength and mental equipment). All that is meant is that all men are equal in the eye of the law or have the same rights before the law.
 
-300.8 Total ... 3910.9
+## No emphasis on truth and non-violence in Constitution
 
-55.6 307.9
+Truth and non-violence are not mentioned in our Constitution, though these were the basic principles from Upaniṣad and Smṛti times ( as in Chāndogya III. 17.4, Manu X, 63, Yāj. I. 122) and for Gandhiji by whom all Congressmen and their leaders swear. Lands of thousands of men of the middle class of small means were taken away from them by changing the fundamental right to property bestowed by Art. 31 (as originally enacted), by preventing recourse to law courts and by giving illusory hopes of some compensation not yet even determined after several years. This may not be liquidation of opponents, yet it is a cruel thing all the same in the name of democracy and Welfare State. [^2653]
 
-836.0
+Borrowing in the country itself and from foreign countries has been resorted to on an increasing scale.
 
-77.3
+Table 3 above ( p. 1689-90 ) will convey some idea of the vast amounts of debts our country owes and will owe to U.S. A. and other countries, How and in how many years the nation will be able to pay back these debts with interest is to ordinary men a source of grave anxiety and an insoluble problem. Among the sources for the plan are included Provident Funds, Post Office savings bank accounts, National Plan Certificates &c. These are really debts, though not demandable on any one date or year. Deficit financing which did not form part of the central budget in past years has now become a regular item.
 
-143.1
+[^2653]: Vide a book called 'Social Welfare in India' issued on behalf of the Planning Commission, Government of India, New Delhi, 1960. People are likely to make a confusion between 'Welfare State' and 'Social Welfare'. The latter phrase refers to more specialized work for the weak or more vulnerable sections of the population (such as women, children, physically handicapped persons like the deaf, dumb and blind, mentally retarded, scheduled castes and tribes and backward classes). A Welfare State wants to change the pattern of life of the whole community or country. Our Constitution in Article 15 (paragraphs 3 and 4 ) authorizes the State to make special provisions for women and children and for the advancement of backward classes, scheduled castes and scheduled tribes and Article 16 para 4 authorizes the State to make provision for the reservation of appointments or posts in favour of any backward class of citizens. Articles 338-342 deal with the appointment of a special officer for the scheduled castes and scheduled tribes and with the appointment by the President of India of a Commission to report on the administration of scheduled areas and scheduled tribes and for specification from time to time of the castes, races or tribes in a list of the scheduled caste, and tribes.
 
-1862.6
+The budget of the central Govt. for 1961-62 exceeds 1023 crores. For 1962-63 the revenues are estimated at 1329.87 crores of rupees and the expenditure at 1381.65 crores of rupees and it is announced that a total deficit of about 150 crores would have to be met partly by additional taxation of 60 crores and 80 lakhs of rupees. It must be remembered that most of these taxes are indirect and the major part of the income from such taxes is due to levies on articles of everyday necessity to common people who are already groaning under high prices of absolutely necessary commodities. The Bombay Government's Budget for 1962-63 intended to tax the poor man's _bidis_ and _gur_ (jaggery). About 7000 crores were put in the State sector in the 1st and 2nd Plan projects and 7500 crores are proposed to be spent in the Public sector in the 3rd plan period. Thus at the end of the 3rd Plan ( in 1965-66 ) Government will have spent about 15000 crores of rupees. Tremendous power will be concentrated in the hands of ministers and the official bureaucracy. It is not generally known how Government has dealt with or will deal with this vast amount, what projects have been undertaken, which of them are completed, the cost of the completed projects, yearly yield from the projects that are completed, steps that are being taken to repay debts and to what extent. There are fervent appeals made by leaders to common people to co-operate with Govt. but the Govt. does not seem to be anxious to take people into confidence by widely circulating through newspapers, press-notes or otherwise information on the above mentioned matters. The vast sums spent on projects have caused inflation, Besides, during the two five year Plans population increased by 77 millions. This accentuated the problem of unemployment and on p. 47 of the book above referred to it is admitted that at the end of 10 years the backlog of unemployment is estimated at nine millions.
 
-The preceding table shows that in the last ten years, India has become indebted to the USA in the huge sum of [^2655] million dollars (some payablo in dollars alone and the rest in rupees if India chose that way ). In the Third Plan USA has agreed to provide India up to 1045 million dollars i. e. at the end of the 15 years from 1951 India may owe to U.S.A. 3700 million dollars, that is roughly about 1756 crores of rupees (at Rs. 43 per dollar ). India will probably owe a larger amount to all the other lending countries taken together. The most serious question is how and in how many years India will repay the debts that run into astronomical figures. The explanatory memorandum accompanying the Central Budget for 1961-6% shows that India's public debt stood at Rs. 949 crores on 31st March 1939. On the 31st March 1962 it will reach the huge figure of 5554 crores. Adding the liability of Govt. to repay various deposits placed with Govt, under the Post Office Savings Bank, National Plan Savings, Provident Funds, Saving Deposit Certificates etc. which account for Rs. 1868 crores, India's obligations would really come to 7422 crores of Rs. (5554 +-1868), at the end of March 1962. Our interest yielding assets are only Rs. 5725 croreg. If we add to this huge gun the debts our Govt will owe to U. 8. A. and other sountries as shown in the
+Sir W. Beveridge in 'Pillars of Security' (1944) names five giants with which humanity has to struggle viz, want, disease, ignorance, squalor and idleness. (p. 43) The last, that is, unemployment, should be the first point of attack. Art. 41 of our Constitution confers the right to work, to education and to public assistance in case of unemployment, old age, sickness and in certain other cases. It is not easy to give full employment for all. The State must try to limit numbers and provide not merely for literary education but also for vocational and technical training on a very extensive scale. Industrialization is necessary but it is not an unmixed blessing. Discussion of these matters would require far more space than can be afforded in this chapter.
 
-Colossal amount of debts owed by India
+## Dangers of recent public administration
 
-1693
+One last word before taking leave of the subjects of Democracy, Welfare State, Socialistic pattern, legislation, planning for social and economic reconstruction. In the new set-up public administrators have become the brains behind the production of economic goods. They have, however, to do in the new sphere work which is entirely different from their traditional work in the Government of former times. Production activity in modern days demands bringing together and coordinating various skills and complex tasks to which administrators in Govt. offices are often strangers. How far they will be able to accomplish the new tasks undertaken by them is a matter which admits of no certain answer. But the most perplexing and baffling question is : Can all-comprehensive national plans under which the State either owns or controls; most aspects of economic activities in Agriculture, Industry and Trade be implemented democratically by Parliamentary control? The present author is very much afraid that the combination of economic and political power in the hands of a few ministers, high ranking officials and politicians would be so overpowering as to reduce the present Parliament (based on universal adult suffrage, only 23 percent of the population being literate ) to a mere shadow and may in some respects at least narrow the liberties of men almost as much as the totalitarian State does.
 
-above table, at the end of the third plan India would be indebted in the colossal figure of about Rs. 11000 crores.
+Let us now turn to the reform and reorganization of Hindu Society and religion. The Portuguese came to India towards the end of the 15th century and acquired some territory on the Western coast of India. But owing to religious intolerance and persecution by them not much impression was made by them on Hindu society. But the case was different with the British, who did not imitate the Portuguese in the matter of religion, but wanted trade, wealth and power. On account of the British rule established over a large part of India from 1765 A. D. Indians came in contact with modern English literature and modern science. The earliest Indian reformer in modern times was a Bengali, Raja Ram Mohan Roy (1772-1833). He founded the Brāhmo Samāja in 1828. Some of the great names in the effort to reorganize and reform Hindu society and religion are those of Devendranath Tagore (1817-1905), Keshub Chandra Sen (1838-1884), Ishvarachandra Vidyasagar, Dayānand (1824-1883 ) who founded the Aryasamāja in 1877 and who regarded only the Vedas as authoritative, Ramakrishna Paramahamsa ( 1834–1886 ) and his great disciple Swami Vivekananda (1863-1902), who founded the Ramkrishna Mission for propagating Vedanta and doing charity work among the poor and the needy, M. G. Ranade ( 1842-1901 ) who was closely connected with the Prārthanāsamāja of Bombay, Agarkar, Phule, Rabindranath Tagore (1861-1941 ), Gandhiji (1869 1948 ), Dr. Karve ( who founded the Women's University in 1916). Those interested may usefully read 'A Century of Social Reform' by S. Natarajan (Asia Publishing House, Bombay), G. N. Farquhar's 'Modern religious movements in India '( Macmillan, 1917), W. T. de Bary's 'Sources of Indian Tradition', New York, 1958 ( pp. 604-659 ).
 
-While these pages were passing through the Press, the author received a statement from the USA. Information Servioe in Bombay, which brings the figures up to 12th March 1962. It states that the American Economio assistance to India from June 1951 to 12th March 1962 totals 4118 million dollarg ( = 1960.9 crores of Rupees) as shown in the table below:
+## Several attitudes towards changes
 
-DOLLARS (Million)
+There is a great ferment of ideas in India at present. Many of our countrymen, whether young or old, do not derive any inspiration from their religion. It is not the fault of religion, but the fault lies with us and our predecessors who did not and do not exhibit to us the core of our culture and religion, do not sift the essentials and separate them from the unessential accretions due to superstitions and wrong emphasis. Ordinary men of to-day feel bewildered by the disagreements between scientific knowledge and the traditional beliefs. The result is that traditional values and codes of conduct are disintegrating and various views are being bandied about. There are now several distinct thought-forms on matters religious or spiritual. One class calls itself _sanātanis_ whose view is that the traditional codes of conduct and beliefs were established by the all-wise sages of old and therefore modern half-baked reformers have no right at all to introduce changes in them. There is another class ( allied to these ) of those who have studied such modern sciences as eugenics and biology, who oppose change on the ground that our traditions embodied in the caste system and the restrictive rules about marriage are most scientific and no cbange should be made in them and if made disaster will follow. There is another class of people who say 'why do you quarrel with us? Time will bring about all necessary changes'. There are other people who go to the other extreme and deny the existence of any divine or spiritual realities and values in the world. Some believe in the efficacy of laws to introduce desired changes. There are people who say 'take the essential values of Indian culture as foundation and build thereon a structure in keeping with the needs of the times'. Hinduism has always been growing and changing traditions ( vide for examples above pp. 1267-72 and 1471 ). The changes, however, were not brought about by legislation but were the work of commentators and digest-writers, the result being a bewildering variety of laws, customs and usages, religious and spiritual views in different parts of India. India, being always divided into many kingdoms before the advent of the British, there did not exist any legislative authority that could pass laws for the whole of India. Ancient and medieval Dharmaśāstra writers held the view that the king had no authority to interfere with Śāstric rules governing varṇas and castes. Vide H. of Dh. vol. III pp. 98-101 for the proposition that there was almost total absence of legislative power in the king according to Dharmaśāstra writers. Changes in practices and beliefs, however, did take place, but it was learned commentators that by various devices tried to support changes that had already taken place (vide pp. 1267-1272 above). There are really three well-marked classes of people, viz. _Sanātanis_ or no-changers, the iconoclasts and those who want a synthesis of the old and the new.
 
-RUPEES (Crores)
+The question is what should be conserved or discarded from the old practices and what new ideals or values should be added and assimilated. Reasons of space forbid saying much about values here. Values are largely moulded by environment. Only a century or two ago, slavery or racial inequality and pride, sweating children of tender age in factories were accepted in Christian countries as morally neutral or at least not disreputable. But at present some of these, if not all, are generally condemned as immoral. In India also values have changed from time to time. At one time animal sacrifices were quite reputable and of high other-worldly value. Later in the Upaniṣad times _Ahiṁsā_ came to the fore. But there are certain values of our culture that have endured for three thousand years, viz. the consciousness that the whole world is the manifestation of the Eternal Essence, restraint of senses, charity and kindness, Now we are in an age of democracy and the important values of democracy are justice, liberty, equality and fraternity. But unfortunately many of those who sing paeans of democracy in India hanker after power and are in the grip of selfishness and hatred. Lord Acton wrote "All power corrupts and absolute power corrupts absolutely." Kauṭilya said more than two thousand years ago that power warps ( intoxicates ) the mind. Vide H. of Dh. vol. 11. p. 114 and n. 151 for quotations.
 
-PERCENTAGE OF TOTAL
+Many young men have in these days hardly anything which they believe as worth striving for whatever the cost may be, and hence they have nothing to practise as an ideal. We have to preserve a religious spirit among common men and women, while getting rid of superstitions and beliefs opposed to all science and common sense. It is not the age-old principles of Hindu religion that are at fault, it is modern Hindu society that has to be reorganized, particularly when ours is now a democratic republic; and our leaders must make supreme efforts for many years to preserve equality in the midst of very great economic inequality, liberty which is likely to be overwhelmed by mighty parties and social groups and democracy against demagogues on the one hand and plutocrats on the other.
 
-1,291.2
+We must not shut our eyes to the peculiar and formidable difficulties of our country.[^2654] Even the present India (i.e. Bhārat ) is a vast country. There are in present India adherents of eight great religious systems ( Hindu, Buddhist, Jain, Sikh, Moslem, Parsi, Christianity and Judaism ), besides some tribes following none of these, but their own primitive systems; there are different States based on 14 different languages ( mentioned in the 8th schedule to the Constitution of India ), besides six Union territories and about 200 recognized dialects. These are likely to produce movements towards complete provincial autonomy and cultural separation. There are great contrasts among the inhabitants, at one end the primitive tribes and the people who were untouchables and at the other end highly educated men and, in between the two, groups of illiterate people numbering at present about 77 percent of the whole population. _After centuries of conquests by alien people our country has gained independence_.
 
-614,8
+[^2654]: For a somewhat captious and depressing portrayal of our difficulties by an apparently unsympathetic and unhelpful critic, vide 'India, the most dangerous decades' by Selig S. Harrison (Oxford University Press, 1960), The trend of the whole book is mainly to drive home one point viz. that democracy will not live or be successful in India. The book, it is believed, is mainly intended for non-Indian readers. The author insists too much on the obscurantist tendencies of some Indian people in the matter of caste. If he felt real sympathy and real friendship for the now democracy in India, he should have emphasized the points that make for unity in India, viz. the absence of an organized Church (like Protestant or the Roman Catholic Church ), that Hinduism is a personal religion, that Hindus can easily adapt themselves to the requirements of modern democracy as shown by the three elections held so far without any serious disturbances when there were millions upon millions of voters, men and women. If he really wanted to help the Indian people, he should have stressed matters that favour democracy and not constantly harped on North India and South India, on Hindi and anti-Hindi, many States and language difficulties.
 
-31.3
+## Our great opportunities for creative thinking and work
 
-10
+This opens for us a new vista of creative thinking and work. We need not give up the basic principles of Hinduism, but should reorientate them to meet new and more complex conditions and work out a changed social order. Everybody says that what is wanted is an emotional integration of Indians and some have suggested that the caste system should be destroyed. If the caste system were a tangible thing it could have been easily and quickly destroyed. But it is not tangible. Legislation cannot destroy it. Only a change of heart with appropriate remedies and vast efforts persistently made over a long period may accomplish this Herculean task and not glib talk by people that hardly ever practise in their lives what they preach. In the present author's opinion States purely on linguistic basis should not have been created at all, but once it was resolved to create them, that should have been strictly adhered to and clear definite principles should have been laid down by the Central Government about assigning border villages to one State or another. The Central Government leadership has been most vacillating in this respect. For example, there were at least five different proposals put forward on Bombay City alone viz. a bilingual state (in which Bombay City was merged), a city State for Bombay alone with separate states of Gujarat and Maharashtra, central administration for five years, a return to the bilingual formula, and lastly separate Maharashtra (including Bombay City, Berar and Marathwada ) and a separate State of Gujarat, with about 200 villages taken over from the Khandesh and Thana districts that had been part of Maharashtra for over one hundred years.
 
-1. Grant
+The caste system, the joint family system and the laws of Succession and inheritance that are peculiar to Hindus are really social matters and not religious matters at all. Our Constitution and recent legislation deal with all the three, holding that these are social matters. As shown above, the Constitution abolished untouchability, the Hindu Marriage Act has done away with all prohibitions against marriages between persons of different castes and a Hindu can have marriage relations with any Hindu ( including Buddhist, Jain and Sikh ) and can take any Hindu woman as spouse subject only to the rules of _sapiṇḍa_ relationship and prohibited degrees for marriage. The Hindu Succession Act has practically done away with the joint family system as shown above, though it has not been expressly abrogated.
 
-( not repayable ) Loans repayable in
+What is wanted is not mere declamations against the caste system and fervent appeals for emotional integration of all Indians but a comprehensive code or scheme of beliefs and day to day conduct. The present writer cannot enter here into a detailed code or scheme which might require a volume by itself but some concrete proposals if set out here may induce more competent writers to give better and more exhaustive patterns. Let there be churning of thoughts. It is possible that in the beginning one may meet with formidable and fearful difficulties as in the mythological churning of the ocean, but let us hope that, even after the emergence of frightful things, the final result would be blissful, as in the churning of the ocean poison emerged but the whole effort was crowned with the appearance of _amr̥ta_ at the end.
 
-dollars. 3. Local Currency
+## Emphasis on hard work in Vedic texts
 
-repayments.
+We must not despair of solving our difficult problems. Despair means destruction and death. We must not lose courage by the condition of our country for the last few centuries. We should rather look to our achievements during about three thousand years and take to heart the following advice of ancient sages of the Dharmśāstras such as that of Manu. Manu says (IV.137 )[^2655] 'one should not despise oneself on account of previous failures; one should seek (make efforts for securing) prosperity till one's death and should not regard prosperity as unattainable.' To the same effect is Yāj. when he says 'One should never despise a learned brāhmaṇa, a serpent, a kṣatriya (a king) or oneself; one should desire to secure prosperity till one's death and should not touch (i.e, make public) another's weak points (misdeeds &c.)' We are over 43 crores of people. We are proud of the achievements of our forefathers. If we work hard in a concerted and intelligent effort for years with the sole object of bringing about the highest development of the country and without ambitions of securing individual profit or fame there is no reason why our country should not outstrip or at least equal other countries in the world. The Īśopaniṣad 2 (Vāj. S. 40.2 ) ordains for all common men 'one should wish to live for a hundred years, always doing here ( in this world) actions ( prescribed by the śāstra ).'
 
-608.2
+[^2655]: नात्मानमवमन्येत पूर्वाभिरसमृद्धिभिः। <u>आ मृत्योः श्रियमविच्छेन्नैनां मन्येत
+दुर्लभाम् </u>। मनु. 1V. 137, विप्राहिक्षत्रियात्मानो नावज्ञेयाः कदाचन । <u>आ मृत्योः श्रियमाकाङक्षेन्न </u>कांचिन्मर्मणि स्पृशेत् । या. I. 153.
 
-289.6
+The Ait. Br. (chap. 33.5), in the story of Śunaḥśepa insists on men being always active and emphasizes that prosperity does not come to him who does not work hard (nānāśrāntāya śrirastiti). So early as the Ṛgveda (IV. 33.11 ) it is emphasized that Gods do not befriend anyone who has not become tired by hard work (na ṛte śrāntasya sakhyāya devāḥ).
 
-14.8
+In 1934 some persons under the guidance of Swami Kevalānanda Sarasvati of Wai ( Satara District) started a society which later came to be named 'Dharmanirṇaya maṇḍala' [^2656] (society for arriving at definite conclusions on matters of Dharma ). The Swami was a very learned man and a Sannyāsin, did not know English, but he held very modern views. There were fourteen original founder members of whom the present author is one. From 1934 to 1959 eleven sessions attended by hundreds of people were held at Thana, Poona (twice), Lonavla (thrice ), Ahmednagar, Badalapur (Diet. Thana ), Vardha (in Berar), Akolā (in Berar ), Wai and Bombay. At the different sessions resolutions were passed (in all 82 ) on several social and religious matters and a committee was appointed to prepare model _prayogas_ (procedures ) for Sandhyā, congregational (_sāmudāyika_) prayer, _upanayana_, marriage, _antyeṣṭi_ ( funeral rites ), śrāddha, remarriage ( of widows ), re-conversion to Hinduism &c. That Committee prepared under the guidance of Swāmi Kevalānanda such _prayogas_ shorn of unnecessary details and with translations in Marathi, which can be had from Mr. Kokaje of Lonavla. Among the resolutions the following deserve special mention: usages have been changed from time to time by former learned men (śiṣṭas) and the learned men of the present day have the authority to introduce changes in usages as the present circumstances may require; that the untouchability of the people of certain castes be abolished (Art. 17 of the Constitution of India subsequently did this );
 
-2,218 4,118.0
+[^2656]: The original name was 'तत्त्वनिष्ठ परिवर्तनवादिपरिषद्' (Assembly of people who favoured the making of changes based on some fundamental principles), Seven of the original fourteen members died subsequently viz, Svāmi Kevalādanda, Mahāmahopadhyāya Sridharasāstri Pathak (who became a Sannyāsin under the same Śhaṅkarananda-bhārati), Sadāsivaśāstri Bhide, Dr. K, L. Daftari, Mr, J. S. Karandikar (editor of the Poona 'Kesari' newspaper), Mr. C. M. Saptarshi (Advocate, Ahmednager) and Prajñāneśvarayati, Tarkatīrtha Raghunāthaśāstri Kokaje of Lonavla (Dist. Poona) was the Secretary. Among the other original members are Mr. N. G. Chapekar (a nonagenarian, retired First Class Subjudge), a scholar of wide reading including Vedic literature, Dharmaśāstras, sociological studies and Tarkatirtha Lakṣmaṇashāstri Joshi of Wai, who knows English well, studied all Darśanas and Śāstras under Swami Kevalananda and is a critical scholar.
 
-1,056.5 1,960.9
 
-53.9
+That those sub-castes that have similar usages, saṁskāras and rules about food should merge and such merger is not against Dharmaśāstra; there is no objection to any Hindu sitting in the same row with other persons of different varṇas provided vegetarians are served vegetarian eatables; that Hindus including untouchables are entitled to study the Veda and have upanayana performed with Vedic mantras and priests conversant with the upanayana procedure should be ready to do so, if invited; if any one takes to another religion owing to force or fraud or of his free will and wants to revert to the Hindu fold he should be allowed to come in after proper expiation and after undergoing a simple _vidhi_ [^2657]; marriages of spouses of the same gotra and pravara should be allowed provided there is no bar on the ground of sapiṇḍa relationship ( vide Hindu Marriage Act, 25 of 1955, sec. 5 items 4 and 5 ); that divorce be allowed among the castes in which it is not allowed at present on the ground of conversion to another religion of one of the spouses &c. ( almost the same grounds as in sec. 13 of the Hindu Marriage Act of 1955 ); a Hindu widow succeeding as heir to her husband takes an absolute estate except when any of the following relatives of the husband are alive, viz. daughter, daughter's son, mother, father, brothers brother's son, paternal grand-parents, paternal first cousin ( vide Hindu Succession Act, 30 of 1956 sec. 14 which goes further by omitting the near relatives specified above ). Most of the _decisions mentioned above were proclaimed from ten to twenty years_ before our Constitution came into operation.
 
-100.0
+[^2657]: Vide H. of Dh. Vol. IV pp. 828-830 where the 'Hindūkaraṇavidhi', prepared by the Dharmanirṇaya-maṇḍala for re-admission to Hinduism is set out in Sanskrit. This re-admission _vidhi_ (in Sanskrit) has been translated into Marathi and Hindi.
 
-It is not necessary to go into other details. The loans are ropayable at different dates, some being repayable in forty years and some carrying a very low rate of interest. It may, however, be noted that ont of about 4000 million dollarg aid to India since Independence over half has been in the form of P. L. 480 Food for commodities. The Food Minister of India, Mr. S. K. Patil, assures us, however, that India would become completely self suffoient in food by the end of the Third Five Year Plan and points out that during the last decade, foodgrain production in India rose from 50 to 80 million tons a year, an increase of 60 por cent. But it should not be forgotten that the population of India in the same ten years increased by about 2% per cent over the population in 1951.
+## Procedures for cultural equality among Hindus
 
-"! The Welfare State theoretically aims at (Sarvodaya). prosperity for all ( at least for the vast majority ). Up to recent times, the main obligations of the State towards its people were the administration of the country, the defence of the country and its coast against aggression or invasion, maintenance of law, and order, primary and bigher education. The ambition of the framers of the Indian Constitution and our leaders is to create a welfaro state, and to reconstruct the present social and economio order on a socialistic pattern by subjecting the country to a planned economy. Soveral vital industries are now reported
+Among the standing complaints against brāhmaṇas, one has been that they debarred millions of people called 'Śūdras' from Vedic studies. Therefore, the Maṇḍala announced that all Hindus ( including the so called untouchables ) should observe the worship of the sun, repetition of the Gāyatri-mantra ( Ṛg. III. 62.10, Tai. S. 1. 5. 6.4, Vāj. S. III. 35 ) and reading or recital of the Bhagavadgitā (whole or part) every day, since these common observances would help in creating the sentiment of cultural equality among all Hindus. The procedure of morning and evening ( sandhya ) worship is brief and is quoted below[^2658].
 
-1694
+In order to cultivate a sense of unity among all Hindus (including the so-called untouchables), the Maṇḍala prepared a congregational prayer ( to be recited by all Hindus in a congregation once in a month ) consisting of the following eleven passages culled from the Vedic literature, viz. Atharvaveda X. 8.1, Ṛg. X. 82.3, I. 164.16, Vāj. 8. 25.21, Ṛg. X. 121. 10, Tai, Ār. 4.42.5, the Gāyatrimantra, Br̥. Up. I. 3,28 (asato mā sad-gamaya, tamaso mā jyotir-gamaya, mṛtyor māऽmr̥tam gamaya), Ṛg. X. 191.2-4. In many villages some people tried to introduce this congregational prayer, but after some time most people complained that they found it difficult to commit to memory and recite the Vedic passages and requested that similar congregational prayers be prepared in Hindi and therefore the Maṇḍala prepared a brief prayer of five verses in Hindi.
 
-History of Dharmaśāstra (sec. X, Ch. XXXVII
+The above lines would only briefly illustrate how we would have to proceed if we want an emotional integration of all our countrymen, particularly on the social and religious plane. But we must not forget what the foundation of our culture and civilization has been throughout the past ages. Ancient sages laid the foundation by insisting upon this that there is and must be harmony between man's spirit and the spirit of the world and man's endeavour should be to realize in his actions and in his life this harmony and unity.[^2659] The Upaniṣads teach that man gains by giving up ( by renunciation) and exhorts man not to covet another's wealth (Īśopaniṣad I 'tena tyaktena bhuñjitha mā gr̥dhaḥ kasya svid dhanam').
 
-for the State and Government has assumed power to regulate production, to control distribution and to fix even the prioes of some commodities absolutely necessary to all men in daily life. It has also established the State Trading Corporation. Taxation has become an ever-inoreasing instrument of economic policy for carrying out the plan projects. Apart from the income-Tax Aot ( XI of 1922 recently consolidated by Act 43 of 1961) our demooratio Government passed one after another four Acts, vis. the Estate Duty Act ( XXXIV of 1953), the Wealth Tax ( XXVI of 1957 ), the Expenditure Tax ( XXIX of 1957 ) and the Gift Tar (XVI of 1958). There is no other country in the world that has all the above five taxes. Is India the only welfare country in the world? There is a senge of uncertainty and fright in the middle classes and tax dodging in the rich or influential sections of the community. Reasons of space prevent the citing of illustrations of the arbitrary character of the recent four Aots. In all these Acts the opinions of the Govt. officers (viz. Gift Tax officer, expenditure tax officer, and wealth tax officer and higher officers ) in an executive ladder under the same Acts on questions of fact (such as the value of a property ) are final and cannot be questioned in any court of justice ( i. e, in a subordinate judge's court or district judge's court or High Court). If a creditor releases a debtor from his debts ( wholly or partly ) the oreditor will have to pay gift tax on the debt released if the gift tax officer is of opinion that he could have recovered the debt by means of legal steps. No man can make a gift of more than 100 rupees at one time to a private person or even & noar relative (except to his wife ) and I he makes several gifts to the same person in one year exceeding five hundred rupoes he will have to pay gift tar. In all cases of questions of fact one appeal should have been allowed to a district court or where the amount concerned wall more than ten thousand rupees to the High Court. It should be recognized by policy-makers that our people have great faith in the integrity of the High Courts and the distriot judges who are selected by the High Courts and whose promotion dans not depend on the Executive. They have not much faith in the fairness and integrity of Appellate Commissiopers and Tribunala that are appointed by the Ministers, when the dispute is between private persons and taxing authorities on behalf of Government, Writers on the constitutions of countries have for many years empbasized two loading features viz. the sovereignty of Parliament and the rule of law. Parliaments are cajoled into
+[^2658]: प्रातः स्नात्वा पूर्वाभिमुखः, सायं हस्तौ पादौ च प्रक्षाल्य पश्चिमाभिमुखः आसने उपविश्य आचम्य प्राणानायम्य श्रीपरमेश्वरप्रीत्यर्थे प्रातः सन्ध्योपास्ति करिष्ये इति प्रातःसङ्कल्पं कुर्यात् । श्रीपरमेश्वरप्रीत्यर्थे सायंसन्ध्योपास्तिं करिष्ये इति सायम् । ततः अर्घ्यप्रदानम्। ओं भूर्भुवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात् । श्रीसूर्याय इदमर्घ्ये दत्तं न मम इति त्यागः । इति त्रिवारम् । अथ प्रातरुत्थाय सायमासीनः अष्टोत्तरशतं दशवारं वा-ओं भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ॥ इति मन्त्रस्य जपं कुर्यात्। तत उपस्थानम्। पूषन्नेकर्षे यम सूर्य प्राजापत्य व्यूह रश्मीन् समूह तेजः । यत्ते रूपं कल्याणतमं तत्ते पश्यामि। योऽसावसौ पुरुषः सोहमस्मि (ईशावास्योपनिषद् 16) इति । ततः कर्मसमाप्तिं सोदकं ब्रूयात् । अनेन सन्ध्योपासनाख्येन कर्मणा भगवान्परमेश्वरः प्रयिताम् । ओं तत्सत् । इति द्विराचामेत् ।
+Two lines referring to Gotra, Pravara, Veda, Śākhā and Sūtra and to making an obeisance to Guru are omitted.
 
-The New Despotism
-
-1695
-
-passing legislation whereby courts of justice are evaded or passed by and the will or caprice of executive officers becomes unfettered and suprome. This is what is called the New Despotism 'by Lord Chief Justice Howart of Great Britain, 2559 in the name of the Welfare State it seems that all power is being centralized in bureauoraoy by our leaders,
-
-Most common pepople in India have a very vague notion of what socialism means. They believe that socialism is based on Marxism. [^2652] Marx holds that revolution is the weapon or means by which the workers are to seize power, that his theory is scientifio and based on a study of facts. He himself declared that he was no 'Marxist' ( vide. Naked God' p. 3 by Howard Fast, New York, 1957 and New Class' by Milovan Djilas p. 4 London, 5th Impression, 1958). These words of his are explained by Dr. Radhakrishnan as meaning that he was not pledged to the acceptance of a doctrine, final, complete and oppressive ( vide. Religion and Society,' 1947, p. 25). This is not the place to discuss the premises and predictions of Marx, But a few words may be said here. Marx had predioted that communism would provail first in the most developed and industrialized nations. What happened is quite the opposite of this. Communism occurred in countries like Russia and China that were relatively very much less developed and industrialized. Another of his predictions was that the system of private ownership would make the rich richer and the poor poorer, would
-
-[^2652]. Vide .New Despotism' by Lord Chief Justice Hewart (Earnest Benn Ltd, London, 1929) p. 17 (a long passage from which is quoted by R, S. W. Pollard in 'Conscionce and liberty' (Allen and Unwin, London, 1940 ). Vide also · Bureaucracy triumphant' by C. K. Allen ( London, 1931). All these taxing enactments have created a bigh ladder of officers appointed by the executive. For example, under the Wealth Tax Act there is Girst the Wealth Tax Officer who decides what tax is payable, thop there is an appeal to the Appellate Assistant Commissioner (Sec, 23), then there is a farther appeal to the Appellate Tribunal (Sec. 24 ), then there can be a reference to the High Court on a point of law (Séc. 27-28) and finally an appeal to the Supreme Court (Sec, 29). This is sheer harassment and practical denial of justice. Affer a private person bas run to three different officers or official bodies then only the High Court comes in, if at all, and that too on a point of law. It should be remembered that the wealth tax officer has often to determine the value of properties worth lakhs of rupees and on points of fact there are appeals only to tko first officer's saperiors and there is no provision for a probe of facts by a court or judicial officer independent of the executive. A similar procedura is provided in the Gṛft Tax, the Expenditare Tax and Estate Daty Taxi
-
-1696
-
-History of Dharmadastra 1860. X, Oh. XXXVII
-
-breed ruinous depressions and in the end the angry proletariat would revolt, would overthrow the exploiting classes and establish a communist society. This second prophecy has not materialized in almost all highly industrialized nations. On the contrary, several democratio States have provided security against unemployment, sickness and old age and in some countries employers have admitted representatives of workers into the management of industries. The 'Communist Manifesto' is the official Bible in the U.S. S. R. A recent work The "Anatomy of the Soviet man' by Claus Mehport, translated from Gorman by Maurice Rosenbaum (1961 ), appears to the present author to contain a balanced and fair estimate of the working of Communism in U. S. S. R. He points out that the desire to rise socially and amass wealth and power is as common to the Soviet Union as to the rest of the world (p. 84 ), that the New Class does not constitute a bourgeoisie in the West European sense, that it is a State bourgeoisie, all members work for the State and are dependent on it (p. 73 ), that social distinotions ara greater in U.S. S. R. than in U. S. A. (p. 109 ), that the greatest disproportion prevails between the incomes of Academicians, artists and writers on the one hand and ordinary men and workers on the other. It appears to the present author that Communism has so far been the best means for the exploitation of the proletariat,
-
-No great Indian leader of the present day has offered a luoid and considered statement of wbat the philosophical foundations of Indian socialism are or should be, nor has any leader placed before the people a clear and full picture of the Indian socialistic pattern of the future in all its aspects. In the Plan structures welfare seems to be identified with broad, physical and material comforts. Marx denied God and advocated the forcible liquidation of the exploiting classes. Our Constitution does not mention God (except in schedule II about oaths and affirmations of Ministers and M. P.'s) nor does it emphasize moral and spiritual valnos, though the founding fathers of the U.S.A. prescribe( in the Declaration of American Independence ) "All men are created equal. They are endowed by their creator with certain inalienable rights; among them are life, liberty and the pursuit of happiness'. Of course it is wrong and unscientific to say that all men are created equal if literally construed (as even children of the same parents are not equal in height, strength and mental equipment). All that is meant is that all men are equal in the eye of the law or have the same rights before the law. Truth.
-
-No emphasis on truth and non-violence in Constitution
-
-1697
-
-and non-violenoe are not mentioned in our Constitution, though these were the basio prinoiples from Upanigad and Smrti times ( as in Chandogya III. 17.4, Manu X, 63, Yāj. I. 122) and for Gandhiji by whom all Congressmen and their leaders swear, Lands of thousands of men of the middle class of small means were taken away from them by changing the fundamental right to property bestowed by Art. 31 (as originally onaobed ), by preventing recourse to law courts and by giving illusory hopes of some compensation not yet even determined after several years. This may not be liquidation of opponents, yet it is a cruel thing all the same in the name of democracy and Welfare State, [^2653]
-
-Borrowing in the country itself and from foreign countries has beon resorted to on an increasing scale.
-
-Table 3 above ( p. 1689-90 ) will convey some idea of the vast amounts of debts our country owes and will owe to U.S. A. and other countries, How and in how many years the nation will be able to pay back these debts with interest is to ordinary men & source of grave anxiety and an insoluble problem. Among the sources for the plan are included Provident Funds, Post Office savings bank accounts, National Plan Certificates &o. These are really debts, though not demandable on any one date or year. Deficit financing whioh did not form part of the central budget in past years has now become a regular item. The budget of the contral Govt. for 1961-62 exceeds 1023 croros, For 1962-63 the revenues ara estimated at 1329.87 crores of
-
-[^2653]. Vide a book called 'Social Welfare in India' issued on behalf of the Planning Commission, Government of India, New Delhi, 1960. People are likely to make a confusion between · Welfare State and
-
-• Social Welfare'. The latter phrase refers to more specialized work for the weak or more vulnerable sections of the popolation (such as women, children, physically handicapped persons like the deal, dumb and blind, mentally retarded, scheduled castes and tribes and backward classes). A Welfare State wants to change the pattern of life of the whole community or country. Our Constitution in Article 15 (paragraphs 3 and 4 ) authorizes the State to make special provisions for women and children and for the advancement of backward classes, scheduled castes and scheduled tribes and Article 16 para 4 authorizes the State to make provision for the reservation of appolatments or posts ia favour of any backward class of citizens. Articles 338-342 deal with the appointment of a special officer for the scheduled castes and scheduled tribes and with the appointment by the President of India of a Commission to report on the administration of scheduled areas and scheduled tribes and for specification from time to time of the castes, races or tribes in a list of the scheduled caste, aad tribes.
-
-R, D, 213
-
-1698
-
-History of Dharmaśāstra (Sec. X, Ch. XXXVI
-
-rupeeg and the expenditure at 1381.65 orores of rupees and it is announced that a total deficit of about 150 crores would have to be met partly by additional taxation of 60 crores and 80 lakhs of rupees. It must be remembered that most of these taxes are indirect and the major part of the income from such taxes is due to levies on articles of everyday necessity to common people who are already groaning under high prices of absolutely necessary commodities. The Bombay Government's Budget for 1962-63 intended to tax the poor man's bidis and gur (jaggery). About 7000 crores were put in the State sector in the 1st and 2nd Plan projects and 7500 crores are proposed to be spent in the Public sector in the 3rd plan period. Thus at the end of the 3rd Plan ( in 1965-66 ) Government will have spent about 15000 orores of rupees. Tremendous power will be concentrated in the hands of ministers and the official bureaucracy. It is not generally known how Government has dealt with or will deal with this vast amount, what projects have been undertaken, which of them are completed, the cost of the completed projects, yearly yield from the projects that are completed, steps that are being taken to repay debts and to what extent. There are fervent appeals made by leaders to common people to co-operate with Govt, but the Govt. does not seem to be anxious to take people into confidence by widely circulating through newspapers, press-notes or otherwise information on the above mentioned matters. The vast sums spont on projects have caused inflation, Besides, during the two five year Plans population increased by 77 millions. This accentuated the problem of unemployment and on p. 47 of the book above referred to it is admitted that at the end of 10 years the backlog of unemployment is estimated at nine millions.
-
-Sir W. Beveridge in Pillars of Security' (1944) names five giants with which humanity has to struggle viz, want, disease, ignorance, squalor and idleness. (p. 43) The last, that is, unemployment, should be the first point of attack. Art. 41 of qur Constitution confers the right to work, to education and to public assistance in case of unemployment, old age, Bioknese and in certain other cases. It is not easy to give full employ ment for all. The State must try to limit numborg and provide not merely for literary education but also for vocational and technical training on a very extensive scale. Industrialization is necessary but it is not an unmixed blessing. Discussion of these matters would require far more space than can be afforded in this chapter,Dangers of recent public administration
-
-1699
-
-One last word before taking leave of the subjeots of Democraoy, Welfare State, Socialistic pattern, legislation, planning for social and economio reconstruction. In the new set-up publio administrators have become the brains behind the production of economic goods. They have, however, to do in the now sphere work which is entirely different from their traditional work in the Government of former times. Production activity in modern days demands bringing together and co-ordinating various skills and complex tasks to which administrators in Govt. offices are often strangers. How far they will be able to accomplish the new tasks undertaken by them is a matter which admits of no certain answer. But the most perplexing and baffling question is : Can all-comprehensive national plans under which the State either owng or controls:most aspects of economic activities in Agriculture, Industry and Trade be implemented democratically by Parliamentary control? The present author is very much afraid that the combination of economic and political power in the hands of a few ministers, high ranking officials and politicians would be so overpowering as to reduce the present Parliament (based on universal adult suffrage, only 23 percent of the population being literate ) to a more shadow and may in some respects at least narrow the liberties of men almost as much as the totalitarian State does.
-
-Let us now turn to the reform and reorganization of Hindu Society and religion. The Portuguese came to India towards the end of the 15th century and acquired some territory on the Western coast of India. But owing to religious intolerance and persecution by them not much impression was made by them on Hindu society. But the case was different with the British, who did not imitate the Portuguese in the matter of religion, but wanted trade, wealth and power. On account of the British rule established over a large part of India from 1765 A. D. Indians oame in contact with modern English literature and modern science. The earliest Indian reformor in modern times was a Bengali, Raja Ram Mohan Roy (1772-1833). He founded the Brāhmo Samāja in 1828. Some of the great names in the effort to reorganize and reform Hindu society and religion are those of Devendranath Tagore (1817-1905), Keskub Chandra Sen (1838-1884), Ishvarachandra Vidyasagar, Dayānand (1824-1883 ) who founded the Aryagamāja in 1877 and who regarded only the Vedas as authoritative, Ramakrishna Paramahamsa ( 1834–1886 ) and his great disciple Swami Vivekananda (1863-1902), who founded the Ramkrishna Mission
-
-1700
-
-History of Dhurmadastra
-
-Soo, X, Oh. XXXVII
-
-for propagating Vedanta and doing charity work among the poor and the needy, M. G. Ranade ( 1842-1901 ) who was closely connected with the Prarthanāsanāja of Bombay, Agarkar, Phule, Rabindranath Tagore (1861-1941 ), Gandhiji (1869 1948 ), Dr. Karve ( who founded the Women's University in 1916). Those interested may usefully read 'A Century of Social Reform' by S. Natarajan (Asia Publishing House, Bombay), G. N. Farquhar's 'Modern religious movements in India '( Macmillan, 1917), W. T. de Bary's 'Sources of Indian Tradition', New York, 1958 ( pp. 604-659 ).
-
-There is a great forment of ideas in India at present. Many of our countrymen, whether young or old, do not derive any inspiration from their religion. It is not the fault of religion, but the fault lies with us and our predecessors who did not and do not exhibit to us the core of our culture and religion, do not sift the essentials and separate them from the unessential acoretions due to superstitions and wrong emphasis. Ordinary men of to-day feel bewildered by the disagroentents between scientific knowledge and the traditional beliefs. The result is that traditional values and codes of conduct are disintegrating and various views are being bandied about. There are now Hoveral distinct thought-forms on matters religious or spiritual. One class calls itself sanātanis whose view is that the traditional codes of conduct and beliefs were established by the all-wise sages of old and therefore modern half-baked reformers have no right at all to introduce changes in them. Thore is another class ( allied to these ) of those who have studied such modern sciences as eugenics and biology, who oppose change on the ground that our traditions embodied in the caste system and the restrictive rules about marriage are most scientific and no obange should be made in them and if made disaster will follow. There is another class of people who say why do you quarrel with us? Time will bring about all necessary changes'. Thoro are other people who go to the other extreme and deny the existence of any divine or spiritual realities and values in the world. Some believe in the efficacy of laws to introduce desired obanges. There are people who say. take the essential values of Indian culture as foundation and build thereon a struoturo in keeping with the needs of the times'. Hinduism has always been growing and changing traditions ( vide for examples above pp. 1267-7% and 1471 ). The changes, however, were not brought about by legislation but were the work of commontators
-
-· and digest-writers, the result being a bewildering variety of
-
-Several athtudes towards changes
-
-1701
-
-laws, customs and usages, religious and spiritual viows in different parta of India India, being always divided into many kingdoms before the advent of the British, there did not exist any legislative authority that ovuld pass laws for the whole of India. Ancient and medieval Dharmaśāstra writers held the viow that the king had no authority to interfere with Sastric rules governing varṇas and castes. Vide H. of Dh. vol. III pp. 98-101 for the proposition that there was almost total absence of logislative power in the king according to Dharmaśāstra writers. Changes in practices and beliefs, however, did take place, but it was learner commentators that by various devices tried to support changes that had already taken place (vide pp. 1267-1272 above). There are really three well-marked classes of people, viz. Sanātanis or no-changers, the iconoclasts and those who want a synthesis of the old and the new.
-
-The question is what should be conserved or discarded from the old practices and what new ideals or values should be added and assimilated. Reasons of space forbid saying much about values here. Values are largely moulded by environment. Only a century or two ago, slavery or racial inequality and pride, sweating children of tender age in factories were accepted in Christian countries as morally neutral or at least not disrepu. table. But at present some of these, if not all, are generally condemned as immoral. In India also values have changed from time to time. At one time animal sacrifices were quite reputable and of high other-worldly value. Later in the Upanigad times Ahiingā came to the fore. But there are certain values of our culture that have endured for three thousand years, vis. the consciousness that the whole world is the manifestation of the Eternal Essence, restraint of senses, charity and kindness, Now we are in an age of democracy and the important values of democracy are justice, liberty, equality and fraternity. But unfortunately many of those who sing paeans of democracy in India banker aftor power and are in the grip of selfishness and hatred. Lord Acton wrote "All power corrupts and absolute power corrupta absolutely." Kautilya said more than two thon sand years ago that power warps ( intoxicatea ) the mind. Vide H. of Dh. vol. 11. p. 114 and n. 151 for quotations.
-
-Many young men have in these days hardly anything which they believe as worth striving for whatever the cost may be, and hence they have nothing to practise as an ideal Wo have to preserve a religious spirit among common men sod
-
-1702
-
-
-
-1 Sea. XCh. XXXVII.
-
-women, while getting rid of superstitions and beliefs opposed to all science and common sense. It is not the age-old principles of Hindu religion that are at fault, it is modern Hindu society that has to be reorganized, particularly when ours is now a democratio republic; and our leaders must make supreme efforts for many years to preserve oquality in the midst of very great exonomic inequality, liberty which is likely to be overwhelmed by mighty parties and social groups and democracy against demagogues on the one hand and plutoorats on the other.
-
-We must not shut our eyes to the peculiar and formidable difficulties of our country.[^2654] Even the present India (i. e. Bhārat ) is a vast country. There are in present India adherents of eight great religious systems ( Hindu, Buddhist, Jain, Sikh, Moslem, Parai, Christianity and Judaism ), besides some tribes following none of these, but their own primitive systems; there are different States based on 14 different languages ( mentioned in the 8th schedule to the Constitution of India ), besides six Union territories and about 200 recognized dialects. These are likely to produce movemonte towards complete provincial autonomy and cultural separation. There are great contrasts among the inhabitants, at one end the primitive tribes and the people who were untouchables and at the other end highly educated men and, in between the two, groups of illiterate people numbering at present about 77 per cont of the whole population. After centuries of conquests by alien people our country has gained independence. This opons
-
-[^2654] For a somewhat captious and depressing portrayal of our difficulties by an apparently unsympathetic and unhelpfal critic, vide .Iadia, the most dangerous decades 'by Selig S. Harrison (Oxford Uolversity Press, 1960), The trend of the wbole book is mainly to drive home one point viz. that democracy will not live or be successful in India, The book, it is believed, is mainly intended for non-Indian readers. The author insists too much on the obscurantist tendencies of some Indian people in the matter of caste. If he felt real sympathy and real friendship for the now democracy in India, he should bave emphasized tbe points that make. for doity in India, viz. the absence of an organized Church (like . Protestant or the Roman Catholic Church ), that Hinduism is a personal religion, that Hindus can easily adapt themselves to the requirements of modera democracy as shown by the three elections bold so far without any serious disturbances when there were millions upon millions of voters, ban and womeo. If he really wanted to help the Indian people, he should have stressed matters that favour democracy and not constantly barped on North India and South India, on Hiadi and anti-Hladi, many States and language difficulties.
-
-Our great opportunities for creative thinking and work
-
-1703
-
-for ug a new vista of creative thinking and work, We need not give up the basic principles of Hinduism, but should reorientate them to meet new and more complex conditions and work out a changed social order. Everybody says that what is wanted is an emotional integration of Indians and some have suggested that the caste system should be destroyed. If the Gaste system were & tangible thing it could have been easily and quiokly destroyed. But it is not tangible. Legislation cannot destroy it. Only a change of heart with appropriate remedies and vast efforts persistently made over a long period may accom plish this Herculean task and not glib talk by people that hardly ever practise in their lives what they preach. In the prosent author's opinion States purely on linguistic basis should not have been created at all, but once it was resolved to create them, that should have been strictly adhered to and clear definite principles should have been laid down by the Central Government about assigning border villages to one State or another. The Central Government leadership has been most vacillating in this respect. For exmple, there were at least five different proposals put forward on Bombay City alone viz. a bilingual state (in which Bombay City was merged), a city State for Bombay alone with separate states of Gujarat and Maharashtra, central administration for five years, a return to the bilingual formula, and lastly separate Maharashtra (inclu ding Bombay City, Berar and Marathwada ) and a separate State of Gujarat, with about 200 villages taken over from the Khandesh and Thana districts that had been part of Maharashtra for over one hundred years.
-
-The oaste system, the joint family system and the laws of Succession and inheritance that are peculiar to Hindus are really social matters and not religious matters at all. Our Constitution and recent legislation deal with all the three, holding that these are social matters. As shown above, the Constitution abolished untouchability, the Hindu Marriage Act has done away with all prohibitions against marriages between porsons of different castes and a Hindu can have marriage relations with any Hindu ( including Buddhist, Jain and Sikh ) and can take any Hindu woman da spouse subject only to the rules of sapinga relationship and prohibited degrees for marriage. The Hindu Succession Act has practically done away with the joint family Bystem as shown above, though it has not been expressly Abrogated.
-
-1704
-
-
-
-(Seo, X, Ch, XXXVII
-
-What is wanted is not more declamations against the caste system and fervent appeals for emotional integration of all Indians but a comprehensive code or scheme of beliefs and day to day conduct. The present writer cannot enter here into a detailed code or goheme which might require a volume by itself but some concrete proposals if set out here may induce more competent writers to give better and more exhaustive patterns. Let there be churning of thoughts. It is possible that in the beginning one may meet with formidable and learful difficulties as in the mythological churning of the ocean, but let us hope that, even after the emergence of frightful things, the final result would be blissful, as in the churning of the ocean poison emerged but the whole effort was crowned with the appearance of amata at the end,
-
-We must not despair of solving our difficult problems. Despair means destruction and death. We must not lose courage by the condition of our country for the last few centuries. We should rather look to our achievements during about three thousand years and take to heart the following advice of ancient Bages of the Dharmśāstras such as that of Manu. Manu says (IV.137 )3455 'one should not despise oneself on account of previous failures; one should seek (make efforts for securing) prosperity till one's death and should not regard prosperity as unattainable.' To the same effect is Yāj. when he says 'One should never despise a learned brāhmaṇa, a serpent, a ksatriya (a king) or oneself; one should desire to secure prosperity till one's death and should not touch (i. e, make public) another's weak points (misdeeds &c.)' We are over 43 crores of people, We are proud of the achievements of our forefathers. If wo work bard in a concerted and intelligent effort for years with the solo object of bringing about the highest development of the country and without ambitions of securing individual profit or fame there is no reason why our country shculd not outstrip or at least equal other countries in the world. The Isopanigad 2 (Vāj. S. 40.2 ) ordains for all common men 'one should wish to live for a hundred years, always doing here ( in this world) actions ( prescribed by the śāstra ).' The Ait. Br. (chap. 33.5), in the story of Sunaḥsepa insists on men being always active and emphasizes that prosperity does not come to him who does
-
-least 90.2 ) ordains fore, always doing
-
-[^2655] नात्मानमवमन्येत पूर्वाभिरसमृद्धिभिः। आ मुस्योः श्रियमविना मन्येत
-
-* E. IV, 137, TamaTATEATTI Aranitat: arqui a rent: fachku \# nio tata \# 7. I. 153.
-
-
-
-Emphasis on hard work in Vedic texts
-
-1705
-
-not work hard (nanasrantāya srirastiti). So early ag the Rgveda (IV. 33.11 ) it is emphasized that Gods do not befriend anyone who has not become tired by hard work (18 pte Grāntasya sakhyāya devāḥ).
-
-In 1934 some persons under the guidance of Swami Kovalānanda Sarasvati of Wai ( Satara District) started a society which later came to be named 'Dharmapirnaya mapdala' [^2656] (society for arriving at definite conclusions on matters of Dharma ). The Swami was a very learned man and a Sandyāsin, did not know English, but he held very modern views. There were fourteen original founder members of whom the present author is one. From 1934 to 1959 eleven sessions attended by hundreds of people were held at Thana, Poona (twice), Lonavla (thrice ), Abmednagar, Badalapur (Diet. Thana ), Vardha (in Berar), Akolā (in Berar ), Wai and Bombay. At the different sessions resolutions were passed (in all 82 ) on several social and religious matters and a committee was appointed to prepare model prayogas (procedures ) for Sandhyā, congregational (sāmudāyika) prayer, upanayana, marriage, untyeṣti ( funeral rites ), śrāddha, remarriage ( of widows ), ro-conversion to Hinduism &c. That Committee prepared under the guidance of Swāmi Kovalānanda such prayogas shorn of unnecessary details and with translations in Marathi, which can be had from Mr. Kokaje of Lonavla. Among the resolutions the following deserve special mention: usages have been changed from time to time by former learned men ( sistas ) and the learned men of the present day have the authority to introduce changes in usages as the present circumstances may require; that the untouchability of the people of certain oastes be abolished (Art. 17 of the Constitution of Indie subseque. ntly did this ); that those sub-castes that have similar usages,
-
-[^2656]. The original name was ' fas-gitarrefour (Aabembly of people who favoured the making of changes based on some fundamental principles), Seren of the original fourteen members died subsequently viz, Svāmi Kevalādanda, Mabāmabopadhyāya Sridbarasāstri Pathak (who becamo a Sappyāsin under the same Śhaṅkarananda-bhārati), Sadāsivasāatri Bhida, Dr, K, L. Daftari, Mr, J. S. Karandikar | editor of the Poona 'Kesari : newspaper), Mr. C. M. Saptarahi (Advocate, Abmednager) and Prajñāneśvarayati, Tarkatūrtha Raghanāthatāstrt Kokaje of Lonavla (Diat. Poona) was the Secretary. Among the other original members are Mr. N, G. Chapekar (& nonagenarian, retired First Class Subjudge), a scholar of wide reading including Vedic literature, Dharmasastras, sociological studies and Tatkatirtba Lakṣmagashāstri Jobbi of Wai, who knows English well, studied all Dardadas pod Śāstras under Swami Kavalananda and is a critical scholar,
-
-H. D. 214
-
-1706
-
-History of Dharmadāstra (sec. X, Ch. XXXVII
-
-sarakārag and rules about food should merge and such merger is not against Dharmaśāstra; there is no objeotion to any Hindu sitting in the same row with other persons of different varpas provided vegetarians are served vegetarian eatables; that Hindus including untouchables are entitled to study the Veda and have upanayana performed with Vedic mantras and prieste convergant with the upanayana procedure should be ready to do 80, if invited; if any one takes to another religion owing to force or fraud or of his free will and wants to revert to the Hindu fold he should be allowed to come in after proper expiation and after undergoing a simple riddhi [^2657]; marriages of spouses of the same gotra and pravara should be allowed provided there is no bar on the ground of sapiṇda relationship ( vide Hindu Marriage Act, 25 of 1955, sec. 5 items 4 and 5 ); that divorce be allowed among the castas in which it is not allowed at present on the ground of conversion to another religion of one of the spouses &c. ( almost the game grounds as in sec. 13 of the Hindu Marriage Act of 1955 ); a Hindu widow succeeding as heir to her husband takes an absolute estate except when any of the following relatives of the husband are alive, viz. daughter, daughter's son, mother, father, brothers brother's son, paternal grand-parents, paternal first cousin ( vide Hindu Succession Act, 30 of 1956 sec. 14 which goes further by omitting the near relatives specified above ). Most of the. decisions mentioned above were proclaimed from ten to twenty years before our Constitution came into operation.
-
-Among the standing complaints against brābmaṇas one bas been that they debarred millions of people called 'Sūdras' from Vedic studies. Therefore, the Mandala announced that all Hindus ( including the so called untouchables ) should observe the worship of the sun, repetition of the Gāyatri-mantra ( Ṛg. III. 62.10, Tai. S. 1. 5. 6.4, Vāj. S. III. 35 ) and reading or recital of the Bhagavadgitā (whole or part) every day, since thogo common observances would help in creating the sentiment of
-
-[^2657]. Vide H. of Dk. Vol. IV pp. 828-830 wbere the 'Hindūkaranavidbi', prepared by the Dbarmanirgaya-mandala for re-admission to Hindalam is set ont in Sanskrit. This re-admission vidhi (in Sanskrit) bas been traps lated into Marathi and Hindi.
-
-Procedures for cultural equality among Hindus 1707 cultural equality among all Hindug. The procedure of morning and evening ( sandhya ) worship is brief and is quoted below.2558
-
-In order to cultivate a sense of unity among all Hindus (including the so-called untouchables), the Mandala prepared a congregational prayer ( to be recited by all Hindus in & con gregation once in a month ) consisting of the following eleven pagsagos culled from the Vedic literature, viz. Atharvaveda X. 8.1, Ṛg. X. 82.3, I. 164.16, Vāj. 8. 25.21, Ṛg. X. 121. 10, Tai, Ār. 4.42.5, the Gayatrimantra, Bļ. Up. I. 3,28 (asato mā sad-gamaya, tamago mā jyotir-gamaya, mṛtyor māsmrtam gamaya), Ṛg. X. 191.2-4. In many villages some people tried to introduce this congregational prayer, but after some time most people complained that they found it difficult to commit to memory and recite the Vedic passages and requested that similar con gregational prayers be prepared in Hindi and therefore the Mandala prepared a brief prayer of five yerses in Hindi.
-
-The above lines would only briefly illustrate how we would have to proceed if we want an emotional integration of all our countrymon, partioularly on the social and religious plane. But we must not forget what the foundation of our culture and civilization has been throughout the past ages. Ancient sages laid the foundation by insisting upon this that there is and must be harmony between man's spirit and the spirit of the world and man's endeavour should be to realize in his actions and in his life this harmony and unity.[^2659] The Upaniṣads teach that man gains by giving up ( by renunciation) and exhorts man not to covet another's wealth (Isopaniṣad I 'tona tyaktona bhuñjitha mā grdhaḥ kasya gvid dhanam').
-
-[^2658]. Hra: Fragariga, Friginata HTTY PATTE: उपविश्य आचम्य प्राणानायम्य श्रीपरमेश्वरप्रीत्यर्थ प्रातः सन्योपास्ति करिष्ये इति प्रातःसङ्कल्प कुर्यात् । श्रीपरमेश्वरप्रीत्यर्थे सायंसन्ध्योपारित करिष्ये इति सायम् । ततः अध्यवानम्। ओं सर्सवः स्वः। तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि। धियो यो नः प्रचोदयात् । श्रीसूर्याय इदमध्ये व न मम इति त्यागः । इति त्रिवारम् । अथ प्रातरुत्थाय सायमासीनः अष्टोत्तरशतं वशवार पा-ओं भूर्भुवः स्वः तत्सवितुर्वरेण्यं भर्गो देवस्य धीमहि धियो यो नः प्रचोदयात् ॥ इति मन्त्रस्य जपं कुर्यात्। तत उपस्थानम्। पूषनेक पम सूर्य प्राजापत्य ब्यूह रस्मीन् समूह तेजः । बचे रूपं कल्याणतम तचे पश्यामि। योऽसाबसौ पुरुषः सोहमस्मि (ईशावास्योपनिषद् 16) इति । सतः कर्मसमाति सोदकं प्रयात् । अनेन सन्ध्योपासनाख्येन कर्मणा भगवान्परमेश्वरः प्रीयताम् ।
-
-ओं तत्सत् । इति द्विराचामेत् ।
-
-Two lines referring to Gotra, Pravara, Veda, Sakha and Sūtra and to making an obeisance to Guru aro omitted.
-
-[^2659]. Many thoughtfal men in the West bave been infuenced immensely by the advaita Vedānta and its empbasis on sound moral
-
-(Continued on noxt page)
-
-1708
-
-History of Dhar matāstra i Soo. X, CL. XXXVII
+[^2659]: Many thoughtful men in the West have been influenced immensely by the advaita Vedānta and its emphasis on sound moral preparation before one can realize the One Essence underlying the universe; vide 'What Vedānta means to me a Symposium edited by John Yale ( Rider & Co., London, 1961 ), in which the views of 16 writers are set out, That of Aldous Huxley summarizes (pp. 19-20 ) the Upaniṣadic doctrine in the same words as on p. 1631 above. The same summary he gave in his novel 'Time must have a stop' 1945, p. 289.
 
 The Bhagavadgitā emphasized doing one's duty without hankering for the rewards thereof. Science oannot answer such fundamental questions as occur to every thoughtful person viz. what is the ultimate cause, is it brahman, what is our origin, by what are we sustained, what is our destiny (goal), being influenced by what do we persist in patbs leading to pain and misery (Sv. Up. I. I). They are answered by the ancient[^2660] Upanisada, but not by science so far.
 
 The chief aim of Indian culture and civilization was not to attain military and political power over other countries and peoples; it neglected to organize Indians for offensive and defensive purposes, nor encouraged the starting of immense corporations for the acquisition of wealth. But in those days of koon competition between nations and peoples we must not only koop a vigilant eye on the eternal principles of our culture but also on the worldly happiness of our countrymon in the midst of the warring elements in the world. Our people often took and take to premature vairāgya(renunciation),while Western nations and men have been laying for the last few centuries great store by extreme activity. Now that our leaders are thinking of remodelling our society and spiritual life they must cultivate qualities whereby they at least will be sthitaprajña i. e. fully developed or ideal souls (Bhagavadgitā II. 55–68) or men of God (Gita XIII. 13-18). Social reforms and politice have to be preached through our age-old religion and philosophy. [^2661] If a large majority of our people and the leaders throw away or veglect
 
-(Continued from last page) preparation before one can realize the One Essence anderlying the universe; vide · What Vedānta means to me a Symposium edited by Joho Yale
-
-( Rider & Co., London, 1961 ), in which the views of 16 writers are set out, Tbat of Aldous Huxley summarizes (pp. 19-20 ) the Upaniṣadic doctrino in tbe same words as on p. 1631 above. The same summary he gave lo his novel. Time must have a stop' 1945, p. 289.
+(Continued from last page)
 
 [^2660]. mai tari P rof we ga: FA FTAT ATA eta \# संप्रतिष्ठाः। अधिष्ठिताः केन मुखेतरेषु वर्तामहे ब्रह्माविदो व्यवस्थाम् । श्वेताच. उप. I. 1.:
 
