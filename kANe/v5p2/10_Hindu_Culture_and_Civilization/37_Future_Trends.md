@@ -375,66 +375,45 @@ Two lines referring to Gotra, Pravara, Veda, Śākhā and Sūtra and to making a
 
 [^2659]: Many thoughtful men in the West have been influenced immensely by the advaita Vedānta and its emphasis on sound moral preparation before one can realize the One Essence underlying the universe; vide 'What Vedānta means to me a Symposium edited by John Yale ( Rider & Co., London, 1961 ), in which the views of 16 writers are set out, That of Aldous Huxley summarizes (pp. 19-20 ) the Upaniṣadic doctrine in the same words as on p. 1631 above. The same summary he gave in his novel 'Time must have a stop' 1945, p. 289.
 
-The Bhagavadgitā emphasized doing one's duty without hankering for the rewards thereof. Science oannot answer such fundamental questions as occur to every thoughtful person viz. what is the ultimate cause, is it brahman, what is our origin, by what are we sustained, what is our destiny (goal), being influenced by what do we persist in patbs leading to pain and misery (Sv. Up. I. I). They are answered by the ancient[^2660] Upanisada, but not by science so far.
+The Bhagavadgitā emphasized doing one's duty without hankering for the rewards thereof. Science cannot answer such fundamental questions as occur to every thoughtful person viz. what is the ultimate cause, is it _brahman_, what is our origin, by what are we sustained, what is our destiny (goal), being influenced by what do we persist in paths leading to pain and misery (Śv. Up. I. I). They are answered by the ancient[^2660] Upaniṣads, but not by science so far.
 
-The chief aim of Indian culture and civilization was not to attain military and political power over other countries and peoples; it neglected to organize Indians for offensive and defensive purposes, nor encouraged the starting of immense corporations for the acquisition of wealth. But in those days of koon competition between nations and peoples we must not only koop a vigilant eye on the eternal principles of our culture but also on the worldly happiness of our countrymon in the midst of the warring elements in the world. Our people often took and take to premature vairāgya(renunciation),while Western nations and men have been laying for the last few centuries great store by extreme activity. Now that our leaders are thinking of remodelling our society and spiritual life they must cultivate qualities whereby they at least will be sthitaprajña i. e. fully developed or ideal souls (Bhagavadgitā II. 55–68) or men of God (Gita XIII. 13-18). Social reforms and politice have to be preached through our age-old religion and philosophy. [^2661] If a large majority of our people and the leaders throw away or veglect
+The chief aim of Indian culture and civilization was not to attain military and political power over other countries and peoples; it neglected to organize Indians for offensive and defensive purposes, nor encouraged the starting of immense corporations for the acquisition of wealth. But in these days of keen competition between nations and peoples we must not only keep a vigilant eye on the eternal principles of our culture but also on the worldly happiness of our countrymen in the midst of the warring elements in the world. Our people often took and take to premature _vairāgya_(renunciation),while Western nations and men have been laying for the last few centuries great store by extreme activity. Now that our leaders are thinking of remodelling our society and spiritual life they must cultivate qualities whereby they at least will be _sthitaprajña_ i.e. fully developed or ideal souls (Bhagavadgitā II. 55–68) or men of God (Gita XIII. 13-18). Social reforms and politics have to be preached through our age-old religion and philosophy. [^2661]
 
-(Continued from last page)
+[^2660]: ब्रह्मवादिनो वदन्ति । किं कारणं ब्रह्म कुतः स्म जाता जीवाम केन क्क च संप्रतिष्ठाः। अधिष्ठिताः केन सुखेतरेषु वर्तामहे ब्रह्माविदो व्यवस्थाम् । श्वेताच. उप. I. 1.: को न आत्मा, किं ब्रह्मेति । छा. उप. V. 11. 1.
 
-[^2660]. mai tari P rof we ga: FA FTAT ATA eta \# संप्रतिष्ठाः। अधिष्ठिताः केन मुखेतरेषु वर्तामहे ब्रह्माविदो व्यवस्थाम् । श्वेताच. उप. I. 1.:
+[^2661]: Our politicians seem at present to be treading the path humorously quoted from an American writer long before Independence by Prime Minister Nehru in his Autobiography 'Politics is the gentle art of getting votes from the poor and campaign funds from the rich by promising to protect each from the other' (p. 131 ). In the same work Panditji says that Gandhiji's reference to Rāmarājya as a golden age jarred on his ears and that his close associates half humorously said that when _svarājya_ (Independence) came these fads must not be encouraged (pp. 72-73 ).
 
-7 THT, FA FATA I gr. 34. V, 11, 1.
+## Danger of losing both spirituality and betterment
 
-[^2661]. Our politicians seem at present to be treading the path bomoro asly quoted from an American writer long before Independence by Prima Minister Nehru in his Autobiography' Politics is the gentle art of getting votes from the poor and campaign funds from the rich by promising to protect oach from the other' (p. 131 ). In the same work Panditji says that Gandhiji's reference to Ramarājya as a golden age jarred on his ears and that his closa associates ball humorously said that whes svarājya (Independence) cama these fads must not be encouraged (pp. 72-73 ).Danger of losing both spirituality and betterment
+If a large majority of our people and the leaders throw away or neglect religion and spirituality altogether, the probability is that we shall lose both spiritual life and social betterment. This is not the place to say more on this point. Vide pp. 1478-79 above for the sound moral preparation required before one realizes the pervasion of everything by _brahman_ and pp. 1623 ff for the proposition that the One Principle is variously named by sages, which taken together lead to universal brotherhood, kindliness and tolerance. From time immemorial all religious cults in India (except Buddhism and Jainism) recognized that there was One Principle (or Deity of some kind ) and in the immortality of the soul. The tremendous march of science and mastery over some of the forces of nature has gone to the heads of many modern men and made them conceited. Science can disclose to us at the most secondary causes; but it has to be silent as to the ultimate cause and the ultimate destiny of man. It cannot tell us what the purpose of life is, it cannot tell us anything about moral values. The present and the following generations have to be trained in an environment where spiritual life, love of truth, sense of and belief in the brotherhood of man or at least of our own countrymen, love of peace and sympathy for the oppressed would be held to be supreme virtues to be attempted by all people.
 
-1709
+It is most difficult to suggest in a brief space a code of conduct for all the millions of India. But for men of limited education and busy life a few suggestions by way of illustrations may be set out. The idea of pollution by the touch of men belonging to certain castes must be given up and much more therefore the idea of pollution by the mere shadow of certain people[^2662]. Swāmi Vivekananda (Works Vol. V. p.152) Was so angered as to say "The religion of India is at present don't touchism". Reason and science must be resorted to for checking or abandoning dogmas based on ancient authority. The myths and legends of the Purāṇas on the origin of the universe, about eclipses and so forth that are not credible in the light of science should not be included in the religious creeds of these days and should be treated as mere myths and legends.
 
-religion and spirituality altogether, the probability is that we shall lose both spiritual life and social bettermont, This is not the place to say more on this point. Vide pp. 1478-79 above for the sound moral preparation required before one realizes the pervasion of everything by brahman and pp. 1623 & for the proposition that the One Principle is variously named by sages, which takon together lead to universal brotherhood, kindliness and tolerance. From time immemorial all religious cults in India (except Buddhism and Jainism) recognized that there was One Principle (or Deity of some kind ) and in the immortality of the soul. The tremendous march of science and mastery over soma of the forces of nature has gone to the heads of many modern mion and made them conceited. Science can disclose to us at the most secondary causes; but it has to be silent as to the ultimate cause and the ultimate destiny of man. It cannot tell us what the purpose of life is, it cannot tell us anything about moral values, The present and the following generations have to be trained in an environment where spiritual life, love of truth, sense of and belief in the brotherhood of man or at least of our owcountry. men, love of peace and sympathy for the oppressed would be held to be supreme virtues to be attempted by all people,
+[^2662]: Vide H. of Dh of Vol. II p. 173–174 on the Smṛti rules about shadow (chāyā) showing gradual excess of exclusiveness in later times. मक्षिका विप्रुषश्छाया गौरश्चः सूर्यश्मयः। रजो भूर्वायुरग्निश्च स्पर्शे मेघ्यानि निर्दिशेत् ॥ मनु V. 133, विष्णु 23.51.
 
-It is most difficult to suggest in a brief space a code of conduct for all the millions of India. But for men of limited education and busy life a few suggestions by way of illustra tions may be set out. The idea of pollution by the touch of men belonging to certain castes must be given up and much more therefore the idea of pollution by the more shadow of certain people,3662 Swami Vivekananda (Works Vol. V. p.152) Was 80 angered as to say "The religion of India is at present dont touchism". Reason and science must be resorted to for check ing or abandoning dogmas based on ancient authority. The myths and legends of the Purāṇas on the origin of the universe, about eclipses and so forth that are not credible in the light of
+Vide above p. 242 where it is established that long before the first half of the 6th century, Indian astronomers had arrived at the correct causes of solar and lunar eclipses but even up to this day educated men often act in such a way that it seems that they believe in the demon Rāhu being the Cause of eclipses.
 
-[^2662]. Vide H. of Dh of Vol. II p. 173–174 on the Smrti rales about shadow (chāyā) showing gradual excess of exclasiveness in later times. मक्षिका विषश्ठाया गौरवारिश्मयः। रजो पूर्वायुरनिश्च स्पर्श मेष्यानि निदिशेत् ॥ मजु V. 133, fary 23,51.
+Many Christians even in these days ( and most Hindus and Moslems) believe in a heaven above and a hell or hells below. But Śabara[^2663] (in the first centuries of the Christian era ) holds that heaven is not a place ( vide pp. 1211-1215 above). Therefore, heaven and hell as described in ancient Sanskrit works cannot be made an article of faith for modern men. It is often said that myths may be represented as facts to simple people for the sake of beneficial results (e.g. for inducing them to perform sacrifices or to observe rules of morality &c.). But this is not proper as there are dangers in this. In these days of growing popular education, when the myth becomes exposed, the men who once believed it not only give up that myth but also might give up everything contained in ancient works as unbelievable. Space does not permit any elaborate cataloguing of what should be given up and what striven for in these days. Values, aims and institutions that were accepted by almost all people only a few decades ago are now challenged and new patterns are in process of being moulded. The chief catalytic agencies are modern science and Western thought and literature. The old structure of beliefs is tottering and laxity in morals has made great headway. But whatever happens, we must so regulate society that the family as a social unit[^2664] is preserved and safeguarded, every child of whatever class or race must have equal opportunities of education, man's daily work must be held to be divine work and worship, great inequalities of wealth and possessions must be eliminated.
 
-Vide above p. 242 where it is established that long before the first half of the 6th century, Indian astronomers bad arrived at the correct causes of Bolar and lupar eclipses but even up to this day edacated men often act in such a way that it seems that they believe in the demon Rābu being the Cause of eclipses.
+Swāmi Vivekananda uttered the following exhortation long ago “The ignorant Indian, the poor and destitute Indian, the Brahman Indian, the Pariah Indian is my brother," 'Repeat and pray day and night' O Lord of Gauri! make me a man'" quoted in "Sources of Indian Tradition" by W. T. de Bary and others (New York, 1958) p. 659, Vide Atharvaveda XII. 1.45 for universal brotherhood of all men whose mother is the Earth.
 
-1710
+[^2663]: Vide above pp. 1224-25 for criticism of Śabara's view that Veda invented stories that never happened.
 
-History of Dharmatāstra (sec. X, O1.XXXVII
+[^2664]: In 'This I believe' (philosophies of 100 thoughtful men and women in all walks of life) edited by E. P. Morgan (London, 1953 ). Sir Charles Darwin (author of "New conception of matter and the next million years" and grandson of the author of 'the Origin of species') emphasizes 'the importance of family as the continuing unit of human life' (p. 30).
 
-science should not be included in the religious creeds of these days and should be treated as more myths and legende. Many Chzistians even in these days ( and most Hindus and Moslems) believe in a heaven above and a hell or hells below. But Sabara[^2663] (in the first centuries of the Christian era ) holds that heaven is not a place ( vide pp. 1211-1215 above). Therefore, heaven and hell as described in ancient Sanskrit works cannot be made an article of faith for modern men. It is often said that myths may be represented as facts to simple people for the sake of beneficial results (e. g. for inducing them to perform sacrifices or to observe rules of morality &c.). But this is not propor as there are dangers in this. In these days of growing popular education, when the myth becomes exposed, the men who once believed it not only give up that myth but also might give up everything contained in ancient works as unbelievable Space does not permit any elaborate cataloguing of what should be given up and what striven for in these days. Values, aims and institutions that were accepted by almost all people only a few decades ago are now challenged and new patterns are in process of being moulded. The chief catalytic agencies are modern science and Western thought and literature. The old struoture of beliefs is tottering and laxity in morals has made great headway. But whatever happens, we must so regulate society that the family as a social unit[^2664] is preserved and safeguarded, every child of whatever class or race must have equal opportuni ties of education, man's daily work must be held to be divine work and worship, great inequalities of wealth and possessions must be eliminated.
+## Kaṭhopaniṣad and Gitāñjali
 
-Swami Vivekananda uttered the following exhortation long ago “ The ignorant Indian, the poor and destitute Indian, the Brahman Indian, the Pariah Indian is my brother," "Repeat and pray day and night'O Lord of Gauri ! make me a man'" quoted in " Sources of Indian Tradition " by W. T. de Bary and others (New York, 1958) p. 659, Vide Atharvaveda XII. 1.45 for universal brotherhood of all men whose mother is the Earth.
+This volume (the last in the History of Dharmaśāstra ) may be brought to a close with a quotation from the Kaṭhopaniṣad[^2665] and another from Rabindranath Tagore's Gitāñjali :
 
-2063. Vide above pp. 1224-25 for criticism of Sabara's view that Veda invented stories that never happened,
+'Get up, awake and having secured highly gifted (teachers ) understand ( the Truth ); the sharp edge of a razor is difficult to pass over; thus the wise say that the path (to Realization ) of Self) is hard' (Kaṭhopaniṣad );
 
-[^2664]. In This I believe '(pbilosopbios of 100 thoughtful men and womeo io all walks of life) edited by E. P. Morgan (London, 1953 ). Sir Charles Darwin (author of "New conception of matter and the sext million years and grandson of the author of the Origio of species') empbasizes the importaace of family as the continuing unit of human life' (p. 30).
+Where the mind is without fear and the head is held high;
+Where knowledge is free;
+Where the world has not been broken up into fragments by narrow domestic walls;
+Where words come out from the depths of truth;
+Where tireless striving stretches its arms toward perfection;
+Where the clear stream of reason' has not lost its way into the dreary desert sand of dead habit;
+Where the mind is led forward by thee into ever-widening thought and action;
+Into that heaven of freedom, my Father, let my country awake.
 
-.
-
-nd Gutanjali
-
-.
-
-Kathopaniṣad and Gitanjali
-
-1778
-
-This volume (the last in the History of Dharmaśāstra ) may 2 be brought to a close with a quotation from the Kathopaniṣad[^2665] and another from Rabindranath Tagore's Gitāñjali :
-
-'Get up, awake and having secured highly gifted (teachers ) understand ( the Truth ); the sharp edge of a razor is difficult to pags over; thus the wise say that the path (to Realization ) of Self) is hard' (Kathopaniṣad );
-
-Where the mind is without fear and the head is held high; Where knowledge is free; Where the world has not been broken up into fragments by
-
-narrow domestic walls; Where words come out from the depths of truth; Where tireless striving stretches its arms toward perfection; Where the clear stream of reason' has not lost its way into
-
-the dreary desort sand of dead habit; Where the mind is led forward by thee into ever-widening
-
-thought and action Into that heaven of freedom, my Father, let my country
-
-awake.
-
-9
-
-[^2665]. rasa saa 97c7 Teen Trai gia Urt Parṣtar gran gi qura
-
-gafall met. III. 14.
+[^2665]: उत्तिष्ठत जाग्रत प्राप्य वरान्निबोधत । क्षुरस्य धारा निशिता दुरत्यया दुर्गे पथस्तत्कवयो वदन्ति ॥ कठोप. III. 14.
