@@ -239,21 +239,21 @@ The twelve _rāśis_ are to be found in the Zodiacal belt (or circle ); each ext
 
 
 The twelve rāśis with their English and Latin equivalents and their synonyms are set out below:			
-
-English	Latin	Sanskrit	Synonyms
-
-Ram	Aries	Meṣa 	Aja, chāga, _kriya_
-Bull	Taurus	Vr̥ṣabha 	Ukṣan, vṛṣa, go, gopati, _tāvuri (or Tavuru )_
-Twins	Gemini	Mithuna	Yugma, nr̥yuga, _jituma, jutuma or jitma_.
-Crab	Cancer	Karka	Karkin, Karkaṭa, _kulira_
-Lion	Leo	Siṁha	Hari, Mr̥gendra, _leya_
-Virgin	Virgo	Kanya	Aṅgana, yuvati, pramadā, kumari, _Pāthona (Pāthena ?)_
-Balance, Scales	Libra	Tula	Tauli, dhaṭa, vaṇij, tulādhara, _jūka_
-Scorpion	Scorpio	Vr̥śchika	Ali, Kiṭa, _Kaurpya or Kaurpi_
-Archer	Sagittarius	Dhanus	Cāpa, Kārmuka, dhanvin, hayāṅga, _Taukṣika (or Taukṣa)_
-Goat	Capricornus	Makara	Mr̥gasya, mr̥ga, _Ākokera_
-Water-carrier	Aquarius	Kumbha	Ghaṭa, kumbhadhara, _hr̥droga_
-Fishes	Pisces	Mīna	Matsya, jhaṣa, animiṣa, _Ittha (or Celtha?)_
+| English         | Latin       | Sanskrit | Synonyms                                               |
+|-----------------|-------------|----------|--------------------------------------------------------|
+|                 |             |          |                                                        |
+| Ram             | Aries       | Meṣa     | Aja, chāga, _kriya_                                    |
+| Bull            | Taurus      | Vr̥ṣabha  | Ukṣan, vṛṣa, go, gopati, _tāvuri (or Tavuru )_         |
+| Twins           | Gemini      | Mithuna  | Yugma, nr̥yuga, _jituma, jutuma or jitma_.              |
+| Crab            | Cancer      | Karka    | Karkin, Karkaṭa, _kulira_                              |
+| Lion            | Leo         | Siṁha    | Hari, Mr̥gendra, _leya_                                 |
+| Virgin          | Virgo       | Kanya    | Aṅgana, yuvati, pramadā, kumari, _Pāthona (Pāthena ?)_ |
+| Balance, Scales | Libra       | Tula     | Tauli, dhaṭa, vaṇij, tulādhara, _jūka_                 |
+| Scorpion        | Scorpio     | Vrschika | Ali, Kiṭa, _Kaurpya or Kaurpi_                         |
+| Archer          | Sagittarius | Dhanus   | Cāpa, Kārmuka, dhanvin, hayāṅga, _Taukṣika (or Taukṣa)_|
+| Goat            | Capricornus | Makara   | Mr̥gasya, mr̥ga, _Ākokera_                               |
+| Water-carrier   | Aquarius    | Kumbha   | Ghaṭa, kumbhadhara, _hr̥droga_                          |
+| Fishes          | Pisces      | Mina     | Matsya, jhasa, animiṣa, _Ittha (or Celtha?)_           |
 
 The words in this list that are put in italics are mentioned in a separate verse by Varāha ( Bṛhaj-jātaka I. 8).[^836]
 
@@ -299,19 +299,21 @@ At present I am only concerned to say that out of the three ancient lands, viz. 
 
 The astrological _rāśis_ are [^846] variously classified as male and female, _cara_ ( movable ) and _sthira_ (fixed or lasting ) and _dvisvabhāva_ ( of both characters ), as _saumya_ (mild ) and _krūra_ ( fierce or malignant ), as _dinabala_ ( powerful by day ), _niśābala_ (powerful by night ), as _pṛṣṭhodaya_ (rising from the hind part), _śirṣodaya_ ( rising by their head first ) or _ubhayodaya_, and as lords of the four main directions (east &c.). The above table will show at a glance these classifications, in which n. stands for niśābala, d. for dinabala, p. for pṛṣṭhodaya and s. for śirṣodaya.
 
-Rāsi	Lord of	Male or Female	Cara or Sthira	dinabala or niśābala	saumya or krūra	pṛṣṭhodaya or śirṣodaya
-Meṣa	east	male  	cara  	n.	krūra	p.
-Vṛṣabha	south	female	sthira	n.	saumya	p.
-Mithuna	west	male  	dvisbhāva	n.	krūra	ś
-Karka	north	female	cara  	n.	saumya	p.
-Siṁha	east	male  	sthira	d.	krūra	ś
-Kanya	south	female	dvisbhāva	d.	saumya	ś
-Tula	west	male  	cara  	d.	krūra	ś
-Vr̥ścika	north	female	sthira	d.	saumya	ś
-Dhanus	east	male  	dvisbhāva	n.	krūra	p.
-Makara	south	female	cara  	n.	saumya	p.
-Kumbha	west	male  	sthira	n.	krūra	ś
-Mina	north	female	dvisbhāva	n.	saumya	both p. And ś
+| Rāsi    | Lord of | Male or Female | Cara or Sthira                             | dinabala or niśābala | saumya or krūra | pṛṣṭhodaya or śirṣodaya |
+|---------|---------|----------------|--------------------------------------------|----------------------|-----------------|-------------------------|
+| Meṣa    | east    | male           | cara                                       | n.                   | krūra           | p.                      |
+| Vṛṣabha | south   | female         | sthira                                     | n.                   | saumya          | p.                      |
+| Mithuna | west    | male           | dvisbhāva                                  | n.                   | krūra           | ś                       |
+| Karka   | north   | female         | cara                                       | n.                   | saumya          | p.                      |
+| Siṁha   | east    | male           | sthira                                     | d.                   | krūra           | ś                       |
+| Kanya   | south   | female         | dvisbhāva                                  | d.                   | saumya          | ś                       |
+| Tula    | west    | male           | cara                                       | d.                   | krūra           | ś                       |
+| Vr̥ścika | north   | female         | sthira                                     | d.                   | saumya          | ś                       |
+| Dhanus  | east    | male           | dvisbhāva                                  | n.                   | krūra           | p.                      |
+| Makara  | south   | female         | cara                                       | n.                   | saumya          | p.                      |
+| Kumbha  | west    | male           | sthira                                     | n.                   | krūra           | ś                       |
+| Mina    | north   | female         | dvisbhāva                                  | n.                   | saumya          | both p. And ś           |
+| Fishes  | Pisces  | Mina           | Matsya, jhasa, animiṣa, Ittha (or Celtha?) |                      |                 |                         |
 
 [^846]: गोजाश्चिकर्किमिथुनाः समृगा निशाख्याः पृष्ठोदया विमिथुनाः कथितास्त एव शीर्षोदया दिनबलाश्च भवन्ति शेषा लग्नं समेत्युभयतः पृथुरोमयुग्मम् ॥ क्रूरः सौम्यः पुरुषवनिते ते चरागाद्विदेहाः प्रागादीशाः क्रियवृषनृयुक्कर्कटाः सत्रिकोणाः। बृहज्जातक I. 10-11. Separate चरागद्विदेहाः as चर + अग (अचल or स्थिर) + द्विदेह ( = द्विस्वभाव). त्रिकोण is the 5th or 9th rāśi from a specified rāśi (Brhaj-jataka I. 11). There is another meaning of त्रिकोण (which उत्पल calls मूल-त्रिकोण) in बृहज्जातक I. 14 viẓ. सिंह, वृषभ, मेष, कन्या, धनुः, तौलि, कुम्भ are त्रिकोणs of the Sun, Moon, Mars, Mercury, Jupiter, Venus and Saturn.
 
@@ -347,7 +349,7 @@ The arrangements of the order of planets differed at different times. Planet com
 
 The Br̥. J. (1). 2-3), Sārāvali (IV. 10-11) and Rājamārtaṇḍa (verses 8-15) set out the various names for the sun, the moon and the other seven planets. They are specified in the note[^856] below and the names underlined are deemed by Western writers to have been derived from Greek; but it should be noted that no Greek name for the moon occurs in these or other works and I am not convinced that Jiva is a Greek word or adaptation of a Greek word. The word Jiva occurs in the R̥gveda itself in many places (as in R̥g. I. 164.30,X. 18.37) and means - living being, an individual' and in Chāndogya Upaniṣad VI. 3.2 it means ' individual soul'.  
 
-[^854]: C. V. Maclean on 'Babylonian Astrology and its relation to the Old Testament' (United Church Publishing House, Toronto) p. 27, Prof. Neugebauer in E. S. A. p. 162 (for arrangements of planets in cuneiform texts in Seleucid period and in Greek horoscopes ). In the Seleucid period the standard arrangement was Jupiter-Venus-Mercury-Saturn--Mars. Ordinary arrangement in Greek horoscopes is Sun, Moon, Saturn, Jupiter, Mars, Venus, Mercury. For the planetary week the arrangement in Greece is said to be Saturn-Jupiter-Mars-Sun-Venus-Mercury-Moon. On p. 163 Prof. Neugebauer thinks that Hindu arrangement of planets is obviously Greek in origin for two reasons, as it is based on the arrangement according to distance from the earth and also on a division of days into 24 hours, which is not Babylonian but Hellenistic and ultimately of Egyptian origin. In this latter he can be said to be wrong, as a similar arrangement of week days can be arrived at by relying on the 60 ghaṭikā system of India. We saw above that _horā_ in Indian astrology has three meanings, viz. Jātaka, _lagna_ and half a sign, but the very early Sanskrit astrological texts at least do not appear to employ the word horā in the sense of 'hour' or 1/24th part of the whole day or 1/12th part of the day. Any one who asserts that the arrangement of week days is copied from the Greeks must prove two things, (1) the definite time when the Greeks hit upon the particular arrangement of planets for purposes of week-days and (2) the borrowing people had definitely not arrived at the same arrangement before the Greeks, Prof. Neugebauer, so far as I can see, offers hardly any evidence on any of these two matters beyond mere assertions and conjectures. It bas further to be remembered that Alberuni (Sachau, vol. I. p. 343) states that nobody in India uses the hours except the astrologers, for they speak of the dominants of the hours. The 30 muhūrtas of _ahorātra_ are much older than the Śatapatha Br, and it was easy to divide a muhūrta into two nāḍis or ghaṭikās as the Arthaśāstra does (I. 19 p. 37 Nālikābhiraharaṣṭadha rātrim ca vibhajet) and Purāṇas like Viṣṇu VI. 3. 6-9 do. There is hardly anything in the vast Sanskrit Literature (of ancient or medieval times) to show that common people or writers ( not being astronomers or astrologers ) employed the method of 24 hours of the day.
+[^854]: C. V. Maclean on 'Babylonian Astrology and its relation to the Old Testament' (United Church Publishing House, Toronto) p. 27, Prof. Neugebauer in E. S. A. p. 162 (for arrangements of planets in cuneiform texts in Seleucid period and in Greek horoscopes ). In the Seleucid period the standard arrangement was Jupiter-Venus-Mercury-Saturn--Mars. Ordinary arrangement in Greek horoscopes is Sun, Moon, Saturn, Jupiter, Mars, Venus, Mercury. For the planetary week the arrangement in Greece is said to be Saturn-Jupiter-Mars-Sun-Venus-Mercury-Moon. On p. 163 Prof. Neugebauer thinks that Hindu arrangement of planets is obviously Greek in origin for two reasons, as it is based on the arrangement according to distance from the earth and also on a division of days into 24 hours, which is not Babylonian but Hellenistic and ultimately of Egyptian origin. In this latter he can be said to be wrong, as a similar arrangement of week days can be arrived at by relying on the 60 ghaṭikā system of India. We saw above that _horā_ in Indian astrology has three meanings, viz. Jātaka, _lagna_ and half a sign, but the very early Sanskrit astrological texts at least do not appear to employ the word horā in the sense of 'hour' or 1/24th part of the whole day or 1/12th part of the day. Any one who asserts that the arrangement of week days is copied from the Greeks must prove two things, (1) the definite time when the Greeks hit upon the particular arrangement of planets for purposes of week-days and (2) the borrowing people had definitely not arrived at the same arrangement before the Greeks, Prof. Neugebauer, so far as I can see, offers hardly any evidence on any of these two matters beyond mere assertions and conjectures. It has further to be remembered that Alberuni (Sachau, vol. I. p. 343) states that nobody in India uses the hours except the astrologers, for they speak of the dominants of the hours. The 30 muhūrtas of _ahorātra_ are much older than the Śatapatha Br, and it was easy to divide a muhūrta into two nāḍis or ghaṭikās as the Arthaśāstra does (I. 19 p. 37 Nālikābhiraharaṣṭadha rātrim ca vibhajet) and Purāṇas like Viṣṇu VI. 3. 6-9 do. There is hardly anything in the vast Sanskrit Literature (of ancient or medieval times) to show that common people or writers ( not being astronomers or astrologers ) employed the method of 24 hours of the day.
 
 [^855]: Vide Prof. Van Pen Bergh in 'Universe in space and time' p. 177 and D. S. Evans in 'Frontiers of astronomy' p. 41 for tables and data about planets from Mercury to Pluto as regards distance from the Sun, period of revolution, diameter, mass &c.
 
@@ -368,17 +370,17 @@ In the following some characteristics of the planets (based on Br. J. II. 5-7) a
 
 [^857]: किं कुर्वन्ति ग्रहाः सर्वे यस्य केन्द्रे बृहस्पतिः । मत्तवारणसङ्गातः सिंहेनैकेन हन्यते । भुजबल p. 280 verse 1262.
 
-Table of colours, direction, &c ruled by planets							
-
-planet	colour dominated by	by whom ruled	direction	element ruled by	veda	class	beneficent or malefic
-Sun	red	Fire	east			kṣatriya	malefic
-Moon	white	water	N.W			vaiśya	waning moon [^858]  malefic
-Mars	very red	Kārtikeya	south	Fire	Sāmaveda	kṣatriya	malefic
-Mercury	green	Viṣṇu	north	Earth	Atharva	śūdra	malefic when in conjunction with malefic planets
-Jupiter	yellow	Indra	N.E	Ākāṣa (ether)	Ṛgveda	Brāhmaṇa	beneficent  
-Venus	variegated	Indrāṇi	S.E	Water	Yajurveda	Brāhmaṇa	beneficent  
-Saturn	dark	Prajāpati	west	Air		Cāṇḍāla	malefic
-Rāhu			S.W				
+Table of colours, direction, &c ruled by planets	[^858] 						
+| planet  | colour dominated by | by whom ruled | direction | element ruled by | veda      | class    | beneficent or malefic                            |
+|---------|---------------------|---------------|-----------|------------------|-----------|----------|--------------------------------------------------|
+| Sun     | red                 | Fire          | east      |                  |           | kṣatriya | malefic                                          |
+| Moon    | white               | water         | N.W       |                  |           | vaiśya   | waning moon [^858]  malefic                      |
+| Mars    | very red            | Kārtikeya     | south     | Fire             | Sāmaveda  | kṣatriya | malefic                                          |
+| Mercury | green               | Viṣṇu         | north     | Earth            | Atharva   | śūdra    | malefic when in conjunction with malefic planets |
+| Jupiter | yellow              | Indra         | N.E       | Ākāṣa (ether)    | Ṛgveda    | Brāhmaṇa | beneficent                                       |
+| Venus   | variegated          | Indrāṇi       | S.E       | Water            | Yajurveda | Brāhmaṇa | beneficent                                       |
+| Saturn  | dark                | Prajāpati     | west      | Air              |           | Cāṇḍāla  | malefic                                          |
+| Rāhu    |                     |               | S.W       |                  |           |          |                                                  |
 
 [^858]: उत्पल on Br. J. II. 5 explains ' कृष्णाष्टम्यर्धाच्छुक्लाष्टम्यर्धे यावत् क्षीणश्चन्द्रः । ... शुक्लपक्षाष्टम्यर्धात् कृष्णपक्षाष्टम्यर्धे यावत् चन्द्रः सौम्यः बुधः पापनियुतः सौम्य एव'.Tetrabiblos I. 5 regards Jupiter, Venus and Moon as beneficent and places the Sun on the same footing as Mercury. Utpala notes that Yavaneśvara holds that Moon is never malefic and quotes two verses from him, which are found in the Nepal Durbar ms. of Yavapajātaka of Sphujidhvaja.
 
@@ -394,16 +396,17 @@ The purpose for these classifications is explained as follows: As regards colour
 
 Another table based on Bṛ. J. II.11, 12, 14 and Sārāvali IV. 15–16 about the parts of the human body governed by the planets, [^860] about their _habitat (sthāna)_, about the kinds of cloth they govern, about the metals, precious stones and the flavours they rule is given below.
 
-Table of parts of human body and planets					
+Table of parts of human body and planets		
+| planet  | bodily part | habitat      | cloth                     | Metal & Jewels | rasa (flavour)           |
+|---------|-------------|--------------|---------------------------|----------------|--------------------------|
+| Sun     | bones       | temple       | coarse                    | copper         | pungent                  |
+| Moon    | blood       | watery place | cloth fresh from loom     | jewels         | salt                     |
+| Mars    | marrow      | Fire-place   | burnt in a part           | gold           | bitter                   |
+| Mercury | skin        | playground   | wet                       | bronze         | mixed (all six together) |
+| Jupiter | fat         | treasury     | neither new nor much worn | silver         | sweet                    |
+| Venus   | semen       | bedroom      | strong                    | pearl          | sour                     |
+| Saturn  | muscles     | Dust-hole    | tattered                  | iron           | astringent               |
 
-planet	bodily part	habitat	cloth	Metal & Jewels	_rasa_ (flavour)
-Sun	bones	temple	coarse	copper	pungent
-Moon	blood	watery place	cloth fresh from loom	jewels	salt
-Mars	marrow	Fire-place	burnt in a part	gold	bitter
-Mercury	skin	playground	wet	bronze	mixed (all six together)
-Jupiter	fat	treasury	neither new nor much worn	silver	sweet
-Venus	semen	bedroom	strong	pearl	sour
-Saturn	muscles	Dust-hole	tattered	iron	astringent
 
 It was said that if Jupiter was in his own house (i.e. Dhanus or Mīna), then Jupiter also ruled over gold. [^861] The object of assigning these was practical, viz. the astrologer could judge of the place of birth if the planet was powerful or of the place of the thief or, if a question were put about the food which one invited to a dinner may be served with, the powerful planet would suggest the kind of food.
 
@@ -414,15 +417,15 @@ The Br. J. (II. 5 ) states that the Sun, Mars and Jupiter are masculine, the Moo
 [^861]: अर्कादि ताम्रमणिहेमयुक्तिरजतानि मौक्तिकं लोहम्। वक्तव्यं बलवद्भिः स्वस्थाने हेम जीवेपि ॥ लघुजातक quoted by उत्पल on बृहज्जा. II. 12. The relation between planets and the chief metals was, it seems, based on colour similarity. The theory that different planets governed different areas and limbs of the body led to the influence of astrology on medicine.
 
 Certain rāśis are declared to be the houses (_svagṛha_) of planets and certain other rāśis as their _ucca_ (exaltation) and certain parts or degrees of the _ucca_ are declared to be _paramocca_; the 7th rāśi from the _ucca_ is said to be _nīca_ i. e. depressed and certain parts (or degrees ) of the latter are said to be _paramanīca_. The Sun and the Moon have each only one rāśi as svagṛha, while the other five planets have two each. The following diagram will indicate all this at a glance :
-
-Planet	Svagr̥ha	Sign of Exaltation	Sign of Depression
-Sun	Siṁha	Meṣa [10]	Tulā [10]
-Moon	Karkaṭa	Vr̥ṣabha [3]	Vr̥ścika [3]
-Mars	Meṣa and Vr̥ścika 	Makara [28]	Karkaṭa [28]
-Mercury	Mithuna and Kanyā	Kanyā [15]	Mīna [15]
-Jupiter	Dhanus and Mīna	Karkaṭa [5]	Makara [5]
-Venus	Vr̥ṣabha and Tulā	Mīna [27]	Kanyā [27]
-Saturn	Makara and Kumbha	Tulā [20]	Meṣa [20]
+| Planet  | Svagr̥ha           | Sign of Exaltation | Sign of Depression |
+|---------|-------------------|--------------------|--------------------|
+| Sun     | Siṁha             | Meṣa [10]          | Tulā [10]          |
+| Moon    | Karkaṭa           | Vr̥ṣabha [3]        | Vr̥ścika [3]        |
+| Mars    | Meṣa and Vr̥ścika  | Makara [28]        | Karkaṭa [28]       |
+| Mercury | Mithuna and Kanyā | Kanya [15]         | Mīna [15]          |
+| Jupiter | Dhanus and Mīna   | Karkaṭa [5]        | Makara [5]         |
+| Venus   | Vr̥ṣabha and Tulā  | Mīna [27]          | Kanya [27]         |
+| Saturn  | Makara and Kumbha | Tulā [20]          | Meṣa [20]          |
 
 The figures under signs of exaltation and depression are the _aṁśas_ ( degrees) respectively of _paramocca_ and _paramanīca_. The explanation offered by Yavanajātaka of Sphujidhvaja and the Vṛddhayavana-jātaka of Mīnarāja is that the sign of Leo was assigned to the Sun as his house because it is the most powerful sign and Cancer (a watery sign) was assigned to the Moon, and the Sun and the Moon each gave one sign out of the remaining to the other five planets viz. Kanyā, Tulā, Vr̥ścika, Dhanus and Makara were given by the Sun to Mercury, Venus, Mars, Jupiter and Saturn ( arranged according to distance ) and the Moon gave to the same five planets one each of the rāśis of Mithuna, Vr̥ṣabha, Meṣa, Mīna and Kumbha (vide my paper on ‘Yavaneśvara and Utpala' in J. B. B. R. A. Ş. vol. 30 on p. 5.for the verses of Mīnaraja and p. 7 for translation).
 
@@ -502,17 +505,17 @@ Some other technical words may be mentioned and defined here. The six items, viz
 Zeus agrees with Sanskrit Dyaus and not with Jiva and Zeus is an Indo-European word meaning 'Heaven' or 'sky'. The different forms of the word dreṣkāṇa or '_dyūtam_' for 'dyūnam' should not be separately counted. The word _horā_ is used in early Indian astrology in three different senses, none of which agrees with the sense of hour. It is possible that even in Greek it is a word borrowed from Egypt or Babylonia, since in the definite sense of an hour, it is much later and it is doubtful whether Hipparchus (140 B. C.) uses it in that sense. If we exclude these four words only 33 words may at the most be argued to have been adapted from Greek. Some of these words such as the 12 names of rāśis and six of the planets, some names of the _bhāvas_ like _hibuka, jāmitra, dyūna and kendra_ have several synonyms ( sometimes by the dozen ) in Sanskrit employed in Br. J. and so no emphasis should be laid on them. They were mentioned by Br. J. because they had been employed by ancient Greek authors who wrote in Sanskrit and so Br. J. took cognisance of them for the sake of completeness of treatment. Even _kendra_ meaning 1st, 4th, 7th and 10th houses or _bhāvas_ has two Sanskrit synonyms 'kaṇṭaka' and catusṭaya', besides the fact that its meaning is different in Sanskrit astrology from the meaning of the Greek word (_kentron_, spike). Therefore, barely ten Greek words like Anaphā, Sunaphā remain which have a very minor role to play in Indian astrology and it is a far cry to argue or assert from the occurrence of these few words that the whole Indian astrology as developed in Varāhamihira was borrowed from Greek works. It is extremely doubtful whether any Indians except a few sages or gymnosophists ever went to Greece or lived long in Greece or settled there and returned to India to spread Greek words and astrological knowledge in India; but we have ample evidence that Greeks settled in India, composed inscriptions in Sanskrit and wrote extensive works on astrology in Sanskrit. Vide 'L'Astrologie Grecque' by Bouché-Grecque p. XIX for the Greek. Latin, French names and astrological symbols of the signs of the zodiac and planets and G. R. Kaye in Memoir No. 18 of the Archaeological Survey of India pp. 39-40 (for the Greek twelve names of Zodiacal signs and nine other Greek words occurring in Br. J.) and p. 100 for Greek 'bhāvas' and symbols for signs and planets.
 
 A good deal is said in Br. J. II. 15-17, Laghujātaka II. 10-12, Sārāvali IV, 28-31, Muhūrta-cintamaṇi (VI. 27-28 ) and other works about the planets being friends, enemies or indifferent among themselves. Friends and enemies are of two kinds, natural and incidental ( temporary ). The following table will show natural friends and enemies among planets.
+| Planet  | Friend             | Enemy         | Indifferent (udāsina or madhya or sama) |
+|---------|--------------------|---------------|-----------------------------------------|
+|         |                    |               |                                         |
+| Sun     | Moon,Mars,Jupiter  | Venus,Saturn  | Mercury                                 |
+| Moon    | Sun, Mercury       | none          | Mars,Jupiter,Venus,Saturn               |
+| Mars    | Sun, Moon, Jupiter | Mercury       | Venus,Saturn                            |
+| Mercury | Sun,Venus          | Moon          | Mars,Jupiter,Saturn                     |
+| Jupiter | Sun,Moon,Mars      | Mercury,Venus | Saturn                                  |
+| Venus   | Mercury,Saturn     | Sun,Moon      | Mars,Jupiter                            |
+| Saturn  | Mercury,Venus      | Sun,Moon,Mars | Jupiter                                 |
 
-
-Planet Friend Enemy Indifferent (udāsina or madhya or sama)
-
-Sun Moon,Mars,Jupiter Venus, Saturn Mercury
-Moon Sun, Mercury none Mars, Jupiter,Venus,Saturn
-Mars Sun, Moon, Jupiter Mercury Venus,Saturn
-Mercury Sun,Venus Moon Mars,Jupiter,Saturn
-Jupiter Sun,Moon,Mars Mercury,Venus Saturn
-Venus Mercury,Saturn Sun,Moon Mars,Jupiter
-Saturn Mercury,Venus Sun,Moon,Mars Jupiter
 
 It may be noticed that there is no reciprocity for these relationships. For example, the Moon has Mercury as one of its friends, while Mercury has the Moon as its enemy; the Moon has no enemy but Venus has the Moon as its enemy. According to the Yavanas no planet is _sama_ ( neither friend nor foe) but that planets are either friends or enemies. [^871]
 
