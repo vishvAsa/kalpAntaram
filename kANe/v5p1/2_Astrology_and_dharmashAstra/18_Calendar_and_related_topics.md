@@ -171,88 +171,80 @@ The names of the 60 Bārhaspatya years are (with some differences such as that B
 1.Prabhava 16.Citrabhānu 31.Hemalambin 46.Paridhāvin
 2.Vibhava 17.Subhānu 32.Vilambin 47.Pramādin
 3.Śukla 18.Tāraṇa 33.Vikārin 48.Ānanda
-4.Pramoda 19.Pārthiva 34.Śārvarin(or Sar) 49.Rākṣasa
+4.Pramoda 19.Pārthiva 34.Śārvarin(orSar) 49.Rākṣasa
 5.Prajāpati 20.Vyaya 35.Plava 50.Anala
 6.Aṅgiras 21.Sarvajit 36.Subhakṛt 51.Piṅgala
 7.Śrimukha 22.Sarvadhārin 37.Śobhakṛt(Śobhana) 52.Kālayukta
 8.Bhāva 23.Virodhin 38.Krodhin 53.Siddhārtha
 9.Yuvan 24.Vikr̥ti 39.Viśvāvasu 54.Raudra
-10.Dhātr̥ 25.Khara 40.Parābhava 55.Durmati 
-11. īśvara
+10.Dhātr̥ 25.Khara 40.Parābhava 55.Durmati
+11.īśvara 26.Nandana 41.Plavaṅga 56.Dundubhi
+12.Bahudhānya 27.Vijaya 42.Kīlaka 57.Rudhirodgārin
+13.Pramāthin 28.Jaya 43.Saumya 58.Raktākṣa
+14.Vikrama 29.Manmatha 44.Sādhāraṇa 59.Krodhana
+15.Vr̥ṣan 30.Durmukha 45.Virodhakr̥t 60.Kṣaya
+|                |                 |                        |                   |
+|----------------|-----------------|------------------------|-------------------|
+| 1. Prabhava    | 16. Citrabhānu  | 31. Hemalambin         | 46. Paridhāvin    |
+| 2. Vibhava     | 17. Subhānu     | 32. Vilambin           | 47. Pramādin      |
+| 3. Śukla       | 18. Tāraṇa      | 33. Vikārin            | 48. Ānanda        |
+| 4. Pramoda     | 19. Pārthiva    | 34. Śārvarin(or Sar)   | 49. Rākṣasa       |
+| 5. Prajāpati   | 20. Vyaya       | 35. Plava              | 50. Anala         |
+| 6. Aṅgiras     | 21. Sarvajit    | 36. Subhakṛt           | 51. Piṅgala       |
+| 7. Śrimukha    | 22. Sarvadhārin | 37. Śobhakṛt (Śobhana) | 52. Kālayukta     |
+| 8. Bhāva       | 23. Virodhin    | 38. Krodhin            | 53. Siddhārtha    |
+| 9. Yuvan       | 24. Vikr̥ti      | 39. Viśvāvasu          | 54. Raudra        |
+| 10. Dhātr̥      | 25. Khara       | 40. Parābhava          | 55. Durmati       |
+| 11. īśvara     | 26. Nandana     | 41. Plavaṅga           | 56. Dundubhi      |
+| 12. Bahudhānya | 27. Vijaya      | 42. Kīlaka             | 57. Rudhirodgārin |
+| 13. Pramāthin  | 28. Jaya        | 43. Saumya             | 58.  Raktākṣa     |
+| 14. Vikrama    | 29. Manmatha    | 44. Sādhāraṇa          | 59. Krodhana      |
+| 15. Vr̥ṣan      | 30. Durmukha    | 45. Virodhakr̥t         | 60. Kṣaya         |
 
-26. Nandana 41. Plavanga 56. Dundubhi 12. Bahu- 27. Vijaya 42. Kilaka 57. Rudhirodgā
 
-dhānya
+[^1021]: चान्द्राणां प्रभवादीनां पञ्चके पञ्चके युगे। सम्परीदान्विदित्येतच्छन्दपूर्वास्तु वत्सराः- इति माधवोक्तेरेव मानत्वात् । सकलशिष्टव्यवहारसहकृतादत एव माधववचनाच्चान्द्रविषया एवं प्रभवादिसंज्ञा धर्मानुष्ठानोपयोगिन्यो न तु वत्सरान्तरविषया इत्यपि सिद्धम्। स्मृतिको. p. 530 (संवत्सरदीधिति); चान्द्राणां...वत्सराः is कालनिर्णयकारिका of माधव verse 13.
 
-rin 13. Pramấthin 28. Jaya 43. Saumya 58. Raktākṣa 14. Vikrama 29. Manmatha 44. Sadharana 59, Krodhana 15. Vrṣan 30. Durmukha 45. Virodhakrt 60. Ksaya
+The names of the Bārhaspatya years occur rather early in Inscriptions. Among the earliest references are two, one to Siddhārtha-saṁvatsara in the 5th year of the reign of the Cālukya king Maṅgaleṣa ( I. A. 19 p. 1 ff at p. 18 ) and the other is to Saumya-saṁvatsara in the Alas plate of Rāṣṭrakūṭa king Govinda in śake 692 ( E. I. vol. VI p. 209). How the saṁvatsara names were supposed to indicate different consequences for the years concerned can be illustrated by citing two verses from the Bṛhatsaṁhitā ( 8. 28–29 ) 'when the saṁvatsara Prabhava starts there are drought, strong winds and destruction by fire and also other calamities (like excessive rain, locusts &c.); there are diseases due to phlegm, but still people are not distressed.' The consequences in the next four saṁvatsaras are auspicious, viz. the king rules over a kingdom which is full of paddy, sugarcane and barley and other crops, which is free from dangers, in which there are no hatreds, in which the people are joyous and free from the evil results of kaliyuga (such as _adharma_, poverty, accidental deaths &c.).
 
-[^1021]. FETT Haiglat
+The subject of months is one of the most complicated. Indians followed the luni-solar calendar from very ancient times like the Babylonians, Chaldeans, Jews and the Chinese. All had therefore to resort to the device of intercalary months (adhikamāsa or malamāsa). But Indians had rarely a _kṣaya_ month also which is absent in the systems of the other peoples. This difference arose owing to the different ways of the calculations of the motions and positions of the sun and moon, in which I do not propose to enter for reasons already stated. But a few words to indicate how an additional month arises may be said here. The solar year exceeds the lunar year by a little over eleven tithis. This excess amounts to one lunar month in about 32 solar months. The Babylonians had a cycle of 19 solar years in which there were 7 intercalary months (i.e, in all 235 lunar months.) The same cycle was called Metonic cycle after Meton, an Athenian, who introduced it in Greece. This cycle is the foundation of the Jewish and Christian calendars, especially so far as Easter is concerned. From the Vedāṅga-Jyotiṣa [^1022] it appears that in a cycle of five years there were two intercalary months, one being a 2nd Āṣāḍha at the end of 2 1/2 years and the other a second Pauṣa at the end of the _yuga_ of five years. Kauṭilya's Arthasastra merely echoes this.
 
-i profananarayaran TTT: इति माधवोक्तरेव मानत्वात् । सकलशिष्टव्यवहारसहकृतादत एव माधवचनाच्चान्द्रविषया एवं प्रभवादिसंज्ञा धर्मानुष्ठानोपयोगिन्यो न तु वत्सरान्तरविषया इत्यपि सिद्धम्। स्मृतिको. p. 530 ( \#Echeintia); TETTI... : is alfaurusite of Art verse 13.
+[^1022]: द्वयूनं द्विषष्टिभागेन ज्ञेयं सौर सपार्वणम् । यत्कृतावुपजायेते मध्येऽन्ते चाधिमासकौ ॥ याजुपवेदाङ्गज्योतिष verse 35 (ed. by Sudhakar Dwivedi, Prabhakari Press, Benares, 1906.); एवमर्धतृतीयानामब्दानामधिमासकम् । ग्रीष्मे जनयतः पूर्वे पञ्चाब्दान्ते च पश्चिमम् ॥ अर्थशास्त्र II. 20 p. 109, quoted in कालविवेक p. 113 from ज्योतिःशास्त्र.
 
-43 So
+The Pitamahasiddhānta provided that an intercalary month was to be added after thirty months. [^1023] In the Virātaparva [^1024] it is said that the period of 13 years ( 12 years in exile and one year _incognito_ ) was more than completed by the Pāṇḍavas if the cāndra reckoning were followed, as two months were to be added in five years. The purāṇas and other works give varying periods after which an intercalary month occurs. A few examples may be cited. Viṣṇudharmottara [^1025] states that the solar year has eleven days more than the lunar one and that after two years eight months, sixteen days and four ghaṭis a month has to be added. This is not to be taken literally, otherwise it would have to be held that after four ghaṭikās on 2nd tithi of the dark half of a month an intercalary month has to be added. All that the passage of the Purāṇa does is to indicate the number of days in the lunar reckoning after which an additional month is possible. Similarly, a passage of the Kāṭhakagr̥hya [^1026] says that in the lunar month in which there is no _saṅkrānti_ or there are two saṅkrāntis a month is added after thirty months have expired from a previous intercalary month. This too indicates only a possibility and not a certainty. The Nirṇayāmr̥ta [^1027] declared that a month is added between thirty and thirtysix months. This too is only approximate.
 
-662
+[^1023]: रविशशिनोः पञ्च युगं वर्षाणि पितामहोपदिष्टानि । अधिमासस्त्रिंशद्भिर्मासैरवमो द्विषष्ट्या तु ॥ पञ्चसिद्धान्तिका XII. 1.
 
-History of Dharmaśāsira (Sec. II, Ch. XVIII
+[^1024]: पञ्चमे पञ्चमे वर्षे द्वौ मासावुपजायतः । एषामभ्यधिका मासाः पञ्च च द्वादश क्षयाः। त्रयोदशानां वर्षाणामिति मे वर्तते मतिः ॥ विराटपर्व 52. 3-4.
 
-The names of the Bārhaspatya years occur rather early in Inscriptions. Among the earliest references are two, one to Siddhartha-saṁvatsara in the 5th year of the reign of the Cālukya king Margalesa ( I. A. 19 p. 1 ff at p. 18 ) and the other is to Saumya-saṁvatsara in the Alas plate of Rāstrakūta king Govinda in sake 692 ( E. I. vol. VI p. 209). How the saṁvatsara names were supposed to indicate different consequences for the years concerned can be illustrated by citing two verses from the Bṛhatsaṁhitā ( 8. 28–29 )' when the saṁvatsara Prabhava starts there are drought, strong winds and destruction by fire and also other calamities (like excessive rain, locusts &c.); there are diseases due to phlegm, but still people are not distressed.' The consequences in the next four saṁvatsaras are auspicious, viz. the king rules over a kingdom which is full of paddy, sugarcane and barley and other crops, which is free from dangers, in which there are no hatreds, in which the people are joyous and free from the evil results of kaliyuga (such as adharma, poverty, accidental deaths &c.).
+[^1025]: सौरसंवत्सरस्यान्ते मानेन शशिजेन तु । एकादशातिरिच्यन्ते दिनानि भृगुनन्दन । समाद्वये साष्टमासे दिनषोडशकान्विते । नाडीचतुष्टयान्ते तु तस्मान्मासोतिरिच्यते । स चाधिमासकः प्रोक्तः काम्यकर्मसु गर्हितः ॥ विष्णुधर्मोत्तर I. 72. 21-23 q. by हेमाद्रि (काल pp. 27-28); a similar verse is quoted from वसिष्ठसिद्धान्त by हेमाद्रि on काल p. 27 and by स्मृतिच. (on श्रा. p. 371) 'द्वात्रिंशद्भिर्गतैर्मासैर्दिनैः षोडशभिस्तथा । घटिकानां चतुष्केण पतत्यधिकमासकः।'.
 
-The subject of months is one of the most complicated. Indians followed the luni-solar calendar from very ancient times like the Babylonians, Chaldeans, Jews and the Chinese. All had therefore to resort to the device of intercalary months ( adhika-māsa or malamāsa). But Indians had rarely a ksaya month also which is absent in the systems of the other peoples. This difference arose owing to the different ways of the calcula tions of the motions and positions of the sun and moon, in which I do not propose to enter for reasons already stated. But a few words to indicato how an additional month arises may be said here. The solar year exceeds the lunar year by a little ayer eleven tithis. This excess amounts to one lunar month in about 32 solar months. The Babylonians had a cycle of 19 solar years in which there were 7 intercalary months (i. e, in all 235 lunar months.) The same cycle was called Metonic cycle after Meton, an Athenian, who introduced it in Greece. This cycle is the foundation of the Jewish and Christian calendars, especi ally so far as Easter is concerned. From the Vedāṅga-Jyotiṣa [^1022] it appears that in a cycle of five years there were two intercalary
+[^1026]: अत एव काठकगृह्ये । यस्मिन्मासे न संक्रान्तिः संक्रान्तिद्वयमेव वा। मलमासः स विज्ञेयो मासे त्रिंशत्तमे भवेत् । ...इदं च सम्भवाभिप्रायं न तु नियतम् । स्मृतिकौ. p. 521 (संवत्सरदीधिति), हेमाद्रि on (काल p. 28} refers to it and स्मृत्तिच. (on श्राद्ध P. 370) quotes it. समयप्रकाश p. 140 reads 'विज्ञेयो मासः स्यात्तु त्रयोदशः॥'
 
-[^1022]. Ti ita mi ti furfure i propagunda fase ma ATAU TISWIFIṣvullaa verse 35 (ed. by Sudhakar Dwivedi, Prabhakari Press, Benates, 1906.); t uratie FATTATA I fi area: qar a finalisteista 11. 20 p. 109, quoted in a fac p. 113 from
+[^1027]: त्रिंशत्तमान्मासादूर्घ्वे षट्त्रिंशन्मासात्पूर्वे त्रयोदशो मासो भवतीति नियम इति निर्णयामृतोक्तं चिन्त्यम् । स्मृतिकौ. p. 521 (संवत्सर०).
 
-una:
+## Adhikamāsa and Kșayamāsa
 
-Months
+A more definite rule is that the lunar month in which no saṅkrānti occurs is called adhika ( intercalary ) and bears the same name as that of the next lunar month which is called _śuddha_ or _nija_ or _prākr̥ta_ to distinguish it from the intercalary month or if in one solar month two amāvāsyās [^1028] and then there is an adhikamāsa or malamāsa. That lunar month in which two saṅkrāntis occur gets two names of which the first is retained and the second is suppressed (i.e. this second becomes a _kṣaya_ māsa). This means that a kṣaya māsa occurs when there are two saṅkrāntis in a month. That lunar month in which the sun enters Meṣa sign is called Caitra, that in which he enters Vr̥ṣabha is called Vaiśākha and so on. [^1029]
 
-663
+One or two points more about _adhika_ and _kṣaya_ months may be mentioned. The seven months from Phālguna to Āśvina can become only a _adhika_ but never _kṣaya_. Kārtika and Mārgaśīrṣa may become both Adhika and Kṣaya, but rarely; Māgha can become adhika but it has never been adhika or kṣaya (vide Ketkar's work p. 40 ). But the Suddhikaumudi says that Māgha was a kṣaya month in śake 1397; [^1030] and the Malamāsatattva quotes a text to the effect that Māgha may be an intercalary month, but Pauṣa never, About Pauṣa, Mr. V. B. Ketkar (in 'Indian and foreign chronology' p. 40) says that Pauṣa has almost no chance of becoming _adhika_, but has greater chance of becoming _kṣaya_ than Mārgaśirṣa' ( but see a little below ). A kṣaya month is generally preceded and followed, though not immediately, by an adhika month, so that there are two adhika months when a kṣaya month occurs in some years. The Siddhānta-śiromaṇi states that one out of the three months only viz. Kārtika, Mārgaśirṣa and Pauṣa can be kṣayamāsa and that when a kṣaya māsa occurs there is an adhikamāsa before and after it within three months (Grahagaṇita, Madhyamādhikāra, verse 6. explanation).
 
-months, one being a 2nd Āṣāḍha at the end of 21 years and the other a second Pausa at the end of the yuga of five years. Kauṭilya's Arthasastra merely echoes this. The Pitamaha siddhānta provided that an intercalary month was to be added after thirty months. [^1023] In the Virātaparva [^1024] it is said that the period of 13 years ( 12 years in exile and one year incognito ) was more than completed by the Pāṇdavas if the cāndra recko ning were followed, as two months were to be added in five years. The purāṇas and other works give varying periods after which an intercalary month occurs. A few examples may be cited. Viṣṇudharmottara [^1025]_states that the solar year has eleven days more than the lunar one and that after two years eight months, sixteen days and four ghaṭis a month has to be added. This is not to be taken literally, otherwise it would have to be held that after four ghaṭikās on 2nd tithi of the dark half of a month an intercalary month has to be added. All that the passage of the Purāṇa does is to indicate the number of days in the lunar reckoning after which an additional month is possible. Similarly, a passage of the Kathakagrhya 1026 says that in the lunar month in which there is no sankrānti or there are two sankrāntis a month is added after thirty months have ex pired from a previous intercalary month. This too indicates only a possibility and not a certainty. The Nirṇayāmrta 1027 declared that a month is added between thirty and thirtysix months. This too is only approximate. A more definite rule is that the lunar month in which no sankranti occurs is called adhika ( intercalary ) and bears the same name as that of the
+[^1028]: एकराशिस्थिते सूर्ये यदा दर्शद्वयं भवेत् । हव्यकव्यक्रियाहन्ता तदा ज्ञेयोधिमासकः। भृगु quoted by हेमाद्रि on काल p. 36; समयप्रकाश p. 140, which explains दर्शद्वयं as दर्शान्तद्वयम्; असंक्रान्तमासोऽधिमासः स्फुटः स्याद द्विसन्क्रान्तिमासः क्षयाख्यः कदाचित् । क्षयः कार्तिकादित्रये नान्यतः स्यात्तदा वर्षमध्येऽधिमासद्वयं च ॥ सिद्धान्तशिरोमणि (ग्रहगणिते मध्यमाधिकार verse 6) q. by हेमाद्रि on काल p. 28, शु. को. p. 272 (reads अन्यदा), नि. सि. p. 5, समयप्रकाश p. 142 (explains स्फुटः स्फुटमानागतः). vide करणकल्पलता verse 23 p. 28 'असंक्रमस्तूत्तरमासनामा द्विसंक्रमः स्यात्प्रथमाभिधो हि । असंक्रमः स्या न्मलमाससंज्ञो द्विसंक्रमो यः स भवेत्क्षयाख्यः'॥
 
-[^1023]. रविशशिनोः पञ्च युगं वर्षाणि पितामहोपदिष्टानि । अधिमासस्त्रिंशद्भिर्मासैरवमो द्विषष्टश्या तु ॥ पञ्चसिद्धान्तिका XII. 1.
+[^1029]: मेषगरविसंक्रान्तिः शशिमासे यत्र तच्चैत्रम् । एवं वैशाखाद्या वृषादिसंक्रान्तियोगेन । ब्रह्मगुप्त q. by शुद्धिकौमुदी p. 255, समयप्रकाश 141 (explains 'शुद्धमासाभिप्रायेण प्रायिकं न तु मुख्यं मलमासाव्यापकत्वात्), चैत्रम् is explained as चैत्र एव चैत्रं स्वार्थे अन् दैवतादिशब्दवत् । क्वचित्स्वार्थिकप्रत्यया लिङ्गमतिवर्तन्ते ॥
 
-[^1024]. पञ्चमे पञ्चमे वर्षे द्वौ मासावुपजायतः । एषामभ्यधिका मासाः पञ्च च द्वादश क्षयाः। त्रयोदशानां वर्षाणामिति मे वर्तते मतिः ॥ विराटपर्व 52. 3-4.
+[^1030]: कार्तिकादित्रये इति प्रायिकदर्शनं सप्तनवत्यधिकत्रयोदशशतशकाब्दे माघे क्षय मासदर्शनात् । शु. कौ. p 272, ‘दशानां फाल्गुनादीनां प्रायो माघस्य च क्वचित् । नपुंसकत्वं भवति न पोषस्य कदाचन । नपुंसकत्वं मलमासत्वम्'। मलमासतत्त्व p. 774.
 
-[^1025]. सौरसंवत्सरस्यान्ते मानेन शशिजेन तु । एकादशातिरिच्यन्ते दिनानि भृगुनन्दन । समादये साष्टमासे दिनषोडशकाषिते । नाडीचतुष्टयान्ते तु तस्मान्मासोतिरिच्यते । स चाधिमासकः प्रोक्तः काम्यकर्मसु गर्हितः ॥ विष्णुधर्मोत्तर I. 72. 21-23 q. by हेमाद्रि (काल pp. 27-28); a similar verse is quoted from वसिष्ठसिद्धान्त by हेमादि on काल p. 27 and by स्मृतिथ. (on श्रा. p. 371) द्वात्रिंशद्भिर्गतैर्मासैदिनैः षोडशभिस्तथा । घटिकानां चतुष्कण पतत्यधिकमासकः।
+The curious reader may consult pp. 246-251 of the C. R. C. Report for light on the intercalary months. The Siddhānta-śiromaṇi [^1031] mentions some śaka years in which kṣaya-māsa occurred or would occur, viz. in śaka year 974 (expired) occurred a kṣaya month and a kṣaya month will occur in śaka 1115, śaka 1256, śaka 1378 and a kṣaya month generally occurs after 141 years and rarely in 19 years. In No. 1387 in the list of Inscriptions by D. R. Bhandarkar there is a reference to the 2nd tithi of the bright half of the first [^1032] Pauṣa ( dated saṁvat 34, probably of Harṣa era); for a reference to 2nd Āṣāḍha see Sohawal plate of Śarvanātha in year 191 (probably Gupta) in E. I. vol. 19 at p. 130: for 2nd Pauṣa Jesar plate of Śilāditya in 357 Valabhi era in E. I. vol. 22 p. 120 may be seen.
 
-1026. अत एव काठकगृह्ये । यस्मिन्मासे न संक्रान्तिः संक्रान्तिद्वयमेव वा। मलमासः स विज्ञेयो मासे त्रिंशत्तमे भवेत् । "इदं च सम्भवाभिप्रायं न तु नियतम् । स्मृतिको. p. 521 (संवत्सरदीधिति), हेमाद्रि on (काल p. 28} refers to it and स्मृत्तिच. (on श्राद्धP. 370) quotes it. समयप्रकाश p. 140 reads 'विज्ञेयो मासः स्यात्त त्रयोदशः॥"
+The rules about what religious acts should be done or not done in an intercalary month will be dealt with a little later. The Śāntiparva refers to the kṣaya of saṁvatsaras, months, pakṣas and divasas (tithis )[^1033]. When there is a kṣayamāsa, the adhikamāsa before it is like all ordinary māsas i. e. there is no prohibition of doing religious acts in it, but the adhikamāsa that follows a kṣayamāsa is the one that is declared unsuitable for religious rites. Adhikamāsa and kṣayamāsa may be illustrated by one example for each.
 
-___1027. त्रिंशत्तमान्मासादृर्च पत्रिंशन्मासात्पूर्व त्रयोदशो मासो भवतीति नियम इति निर्णयामृतोतं चिन्त्यम् । स्मृतिको. p. 521 (संवत्सर०).
+[^1031]. Tā Saighe Ta Tihi fatūrenfi TUFH4: EITB स्तथा प्रायशोऽयं कुवेदेन्दुभिः स्यात् क्वचिद्गोकुभिश्च ॥ सि. शि (ग्रहगणित, मध्यमाधिकार verse 7) 4. by R. f. 10, FATHETIT P. 142.
 
-664
+[^1032]. AQUICKū Fraan TTT AF: TI FF: re: 919: Changes AHH: 11 q. by Fati. p. 522. This verse is quoted by Bapudevasbāstri (editor of TSITATŪT D. 49 note) as from
 
-History of Dharmaśāstra I Sec. II, Ch, XVIII
+. The 4th pāda lays down that if there are two saṅkrāntis in one lunar month an inter calary month is required and that the intercalary is the latter of the two. There were two methods of naming adhimāsa; one was to give to the adhimāsa the name of tbe next following month; the second was to give to an adhimāsa the name of the preceding month; in these days it is the first method that is followed. The farqatik 18 says ' ar TATHIS Fishi H a arrell . 00 i p. 32 says "PUTAFITTARANTIE ATHFETT), Vide App. to E. I, vol. XIX-XXIII for first Pauṣa.
 
-J.
-
-.
-
-'
-
-next lunar month which is called suhihu or nija or prākrta to distinguish it from the intercalary month or if in one solar month two amāvāsyās 1028 and then there is an adhikamāsa or malamāsa. That lunar month in which two sankrantis occur gets two names of which the first is retained and the second is suppressed (i. e. this second becomes a haiya māsa). This means that a kṣaya māsa occurs when there are two sankrāntis in a month. That lunar month in which the sun entors Moṣa sign is called Caitra, that in which he enters Vrsabha is called Vaisakha and so on. 1029
-
-One or two points more about adhika and kṣaya months may be mentioned. The seven months from Phalguna to Aśvina can become only a thika but never kstyl. Kārtika and Mārgaśīrṣa may become both Adhika and Ksaya, but rarely; Māgha can become adhika but it has never been adhika or ksaya (vide Ketkar's work p. 40 ). But the Suddhikaumudi says that Māgha was a ksaya month in sako 1397; 1030 and the Malamāsatattva quotes a text to the effect that Māgha may be an intercalary month, but Pausa never, About Pausa, Mr. V. B. Ketkar (in 'Indian and foreign chronology' p. 40) says that Pausa has almost no chance of becoming adhika, but has greater chance of becoming kṣaya than Margasirsa' ( but see a little below ). A ksaya month is generally preceded and followed, though not immediately, by an adhika month, so that there are two adhika months when a ksaya month occurs in some years. The Siddhānta-śiromani states that one out of the three months only viz. Kārtika, Mārgasirṣa and Pauṣa can be kṣayamāsa and that when a kṣaya
-
-1028. एकराशिस्थिते सूर्य यदा दर्शद्वयं भवेत् । हव्यकन्यक्रियाहन्ता तदा ज्ञेयोधिमासकः। भृगु quoted by हेमाद्रि on काल p. 36; समयप्रकाश p. 140, which explains दर्शद्वयं as दर्शान्तद्वयम्; असंक्रान्तमासोऽधिमासः स्फुटः स्याद द्विसन्क्रान्तिमासः क्षयाख्यः कदाचित् । क्षयः कार्तिकादित्रये नान्यतः स्यात्तदा वर्षमध्येऽधिमासदयं च ॥ सिद्धान्तशिरोमाण (ग्रहगणिते मध्यमाधिकार verse 6) q. by हेमाद्रि on काल p. 28, शु. को. p. 272 (reads अन्यदा), नि. सि. p. 5, समयप्रकाश p. 142 (explains स्फुटः स्फुटमानागतः). vide करणकल्प लता verse 23 p. 28 'असंक्रमस्तूत्तरमासनामा द्विसंक्रमः स्यात्पथमाभिधो हि । असंक्रमः स्या न्मलमाससंज्ञो द्विसंक्रमो यः स भवेक्षयाख्यः।।.
-
-1029. मेषगरविसंक्रान्तिः शशिमासे यत्र तच्चैत्रम् । एवं वैशाखाद्या वृषादिसंक्रान्तियोगेन । ब्रह्मगुप्त q. by शुद्धिकौमुदी p. 255, समयप्रकाश 141 (explains 'शुद्धमासाभिप्रायेण प्रायिकं न तु मुख्यं मलमासान्यापकत्वात्), चैत्रम् is explained as चैत्र एव चैत्रं स्वार्थे अन् देवतादिशब्दवत् । क्वचित्स्वार्थिकप्रत्यया लिङ्गमतिवर्तन्ते ॥
-
-1030. कार्तिकादित्रये इति प्रायिकदर्शनं सप्तनवत्यधिकत्रयोदशशतशकाग्दे माघे क्षय मासदर्शनात् । शु. कौ. p 272, ‘दशानां फाल्गुनादीनां प्रायो माघस्य च क्वचित् । नपुंसकत्वं भवति न पोषस्य कदाचन । नपुंसकत्वं मलमासत्वम् । मलमासतत्त्व p. 774.Adhikaināsa and Kșayamāsa
-
-665
-
-māsa occurs there is an adhikamāsa before and after it within three months (Grahaganita, Madhyamādhikāra, verse 6. explanation). The curious reader may consult pp. 246-251 of the C. R. C. Report for light on the intercalary months. The Siddhānta-śiromani 1031 mentions some śaka years in which kṣaya-māsa occurred or would occur, viz. in śaka year 974 (expired) occurred a ksaya month and a kṣaya month will occur in śaka 1115, śaka 1256, śaka 1378 and a kṣaya month generally occurs after 141 years and rarely in 19 years. In No. 1387 in the list of Inscriptions by D. R. Bhandarkar there is a reference to the 2nd tithi of the bright half of the first 1032 Pausa ( dated samvat 34, probably of Harṣa era); for a reference to 2nd Āṣāḍha see Sohawal plate of Sarvanātha in year 191 (probably Gupta) in E, I. vol. 19 at p. 130: for 2nd Pausa Jesar plate of Silāditya in 357 Valabhi era in E. I. vol. 22 p. 120 may be seen.
-
-The rules about what religious acts should be done or not done in an intercalary month will be dealt with a little later. The Sāntiparya refers to the kṣaya of saṁvatsaras, months, pakṣas and divasas (tithis )1033. When there is a ksayamāsa, the adhikamāsa before it is like all ordinary māsas i. e. there is no prohibition of doing religious acts in it, but the adhikamāsa that follows a kṣayamāsa is the one that is declared unsuitable for religious rites. Adhikamāsa and kṣayamāsa may be illustrated by one example for each. Suppose that there was Meṣa sankrānti on Caitra amāvāsyā, that from the first tithi following the amāvāsyā to the next amāvāsyā (which is Vaiśākha) there
-
-1031. Tā Saighe Ta Tihi fatūrenfi TUFH4: EITB स्तथा प्रायशोऽयं कुवेदेन्दुभिः स्यात् क्वचिद्गोकुभिश्च ॥ सि. शि (ग्रहगणित, मध्यमाधिकार verse 7) 4. by R. f. 10, FATHETIT P. 142.
-
-1032. AQUICKū Fraan TTT AF: TI FF: re: 919: Changes AHH: 11 q. by Fati. p. 522. This verse is quoted by Bapudevasbāstri (editor of TSITATŪT D. 49 note) as from
-
-. The 4th pāda lays down that if there are two sankrantis in one lunar month an inter calary month is required and that the intercalary is the latter of the two. There were two methods of naming adhimāsa; one was to give to the adhimāsa the name of tbe next following month; the second was to give to an adhimāsa the name of the preceding month; in these days it is the first method that is followed. The farqatik 18 says ' ar TATHIS Fishi H a arrell . 00 i p. 32 says "PUTAFITTARANTIE ATHFETT), Vide App. to E. I, vol. XIX-XXIII for first Pausa.
-
-1033. क्षयं संवत्सराणां च मासानां च क्षयं तथा । पक्षक्षयं तथा दृष्ट्वा दिवसानां च FITY
+[^1033]. क्षयं संवत्सराणां च मासानां च क्षयं तथा । पक्षक्षयं तथा दृष्ट्वा दिवसानां च FITY
 
 T
 
@@ -262,219 +254,57 @@ YFU il ma 301, 46-47. H. D. 84
 
 History of Dharmaśāstra (Sec. II, Ch. XVIII
 
-is no sankrānti and then Vrsabha sankrānti occurs on the 1st tithi thereafter; the month that had no sankrānti would be adhika Vaiśākha and the month on which Vrsabha sankrānti takes place would be the suddha ( proper ) Vaiśākha. Non as to kṣaya māsa; suppose that there is Kanyā sankrānti on Bhādra pada amāvāsyā, then there is adhika Āśvina followed by Suddha Āśvina, on the first tithi of which there is Tula sankrānti, then on Kārtika-śukla 1st there is Vrścika sankrānti, then on Mārgaśīrṣa-śukla pratipad there is Dhanus sankranti and in the same month on amāyāsyā there is Makara sankranti, Then that month having two sankrāntis (Dhanus and Makara ) would be called kṣayamāsa and so there would be one month Pausa (constituted by two months, Margaśīrsa and Pausa ). Then on Māgha amāvāsyā there is Kumbha sankrānti, then Phālguna would be adhika māsa and there would be Mina sankranti on suddha Phālguna-śukla pratipad. Thus in the year in which there is a kṣayamāsa, there are still 13 months and the days of the year amount to some days less then 390.
+Suppose that there was Meṣa saṅkrānti on Caitra amāvāsyā, that from the first tithi following the amāvāsyā to the next amāvāsyā (which is Vaiśākha) there is no saṅkrānti and then Vr̥ṣabha saṅkrānti occurs on the 1st tithi thereafter; the month that had no saṅkrānti would be _adhika_ Vaiśākha and the month on which Vr̥ṣabha saṅkrānti takes place would be the śuddha ( proper ) Vaiśākha. Now as to _kṣaya māsa_; suppose that there is Kanyā saṅkrānti on Bhādrapada amāvāsyā, then there is adhika Āśvina followed by Śuddha Āśvina, on the first tithi of which there is Tulā saṅkrānti, then on Kārtika-śukla 1st there is Vr̥ścika saṅkrānti, then on Mārgaśīrṣa-śukla pratipad there is Dhanus saṅkrānti and in the same month on amāvāsyā there is Makara saṅkrānti. Then that month having two saṅkrāntis (Dhanus and Makara ) would be called kṣayamāsa and so there would be one month Pauṣa (constituted by two months, Margaśīrṣa and Pauṣa ). Then on Māgha amāvāsyā there is Kumbha saṅkrānti, then Phālguna would be _adhika māsa_ and there would be Mīna saṅkrānti on śuddha Phālguna-śukla pratipad. Thus in the year in which there is a kṣayamāsa, there are still 13 months and the days of the year amount to some days less then 390.
 
-The four kinds of months, Candra, Saura, Sāvana and Nākṣatra 1034 have already been described (p. 657) when speaking of the Cāndra and other years. As observed by the Kr̥tyaratnā kara (p. 80 ) the nākṣatra month is not required in Dharma Śāstra, but is known only in Jyotisa-sastra. Pañcāngas are generally prepared for each year. They contain separate 1034a pages for the two pakṣas (fortnights ) of each of the twelve months (or 13 months if there be an intercalary month). The five important parts of the Indian calendar are 1035 tithi, week day, nakṣatra, yoga and karaṇa. The Muhurtadarśana 1036 says that
+The four kinds of months, Cāndra, Saura, Sāvana and Nākṣatra [^1034] have already been described (p. 657) when speaking of the Cāndra and other years. As observed by the Kr̥tyaratnākara (p. 80 ) the nākṣatra month is not required in DharmaŚāstra, but is known only in Jyotiṣa-śāstra. Pañcāṅgas are generally prepared for each year. They contain separate [^1034a] pages for the two pakṣas (fortnights ) of each of the twelve months (or 13 months if there be an intercalary month). The five important parts of the Indian calendar are [^1035] _tithi_, week day, _nakṣatra, yoga and karaṇa_. The Muhūrtadarśana [^1036] says that it may have six parts if the signs of the zodiac are given and seven if the positions of the planets are mentioned.
 
-1034. मासास्तु सावनः सौरश्चान्द्रो नाक्षत्र इत्यपि। दर्शान्तः पूर्णिमान्तो वा चान्द्रोऽसौ faasteit: 1 Hra 17: Here sunan STT: Il filmhurraient 16-17; आयुर्दायादावपरो नाक्षत्र इत्यर्थः ।
+[^1034]: मासास्तु सावनः सौरश्चान्द्रो नाक्षत्र इत्यपि। दर्शान्तः पूर्णिमान्तो वा चान्द्रोऽसौ विप्रवैश्ययोः । ...सौरो राज्ञः सावनस्तु यज्ञे ज्योतिषिकेऽपरः ॥ कालनिर्णयकारिका 16-17; आयुर्दायादावपरो नाक्षत्र इत्यर्थः ।
 
-1034a. The accompanying printed page is from the reformed calendar prepared according to the Karanakalpalatā and used by some people in Mahārāstra. It may be compared witb an extract of one fortnight from a paṛcāöga 223 years earlier than the one for sake 1878. It will be found that the fundamental contents are the same in both.
+[^1034a]: The accompanying printed page is from the reformed calendar prepared according to the Karaṇakalpalatā and used by some people in Mahārāṣṭra. It may be compared with an extract of one fortnight from a Pañcāṅga 223 years earlier than the one for śake 1878. It will be found that the fundamental contents are the same in both.
 
-1035. न च तिथिनक्षत्रयोगकरणानां पञ्चाङ्गान्तःपातिनां निर्णयं कृत्वा तदन्तःपाती शास्त्रीयकोपयोगी वारः कुत उपेक्षित इति शङ्कनीयम् । अहोरात्रपरिमितत्वेन वासरे सन्देहा
+[^1035]: न च <u>तिथिनक्षत्रयोगकरणानां पञ्चाङ्गान्तःपातिनां </u>निर्णयं कृत्वा तदन्तःपाती शास्त्रीयकर्मोपयोगी <u>वारः </u>कुत उपेक्षित इति शङ्कनीयम् । अहोरात्रपरिमितत्वेन वासरे सन्देहाभावात् । कालनिर्णय p. 331.
 
-ETTEI Hieraura p. 331.
+[^1036]: नक्षत्रवारतिथयः करणानि योगाः पञ्चाङ्गमेतदथ राशियुतं षडङ्गम् । सप्ताङ्गमित्य भिहितं ग्रहयुक्तमेतद्वर्गोत्तमो निजनिजो भवने नवांशः॥ मुहूर्तदर्शन I. 44.
 
-1036. नक्षत्रवारतिथयः करणानि योगाः पञ्चाङ्गमेतदथ राशियुतं षडङ्गम् । सप्ताङ्गमित्य भिहित ग्रहयुक्तमेतद्वर्गोत्तमो निजनिजो भवने नवांशः॥ मुहूर्तदर्शन I. 44.
+## Five items in a pañcāṅga
 
-An old Pancaiga of Sake 1665 1 Madhu = Caitra month)
+Vāra ( weekday ) is the period of time between one sunrise and the next and not much will have to be said about it except about the origin of week days. A great deal has already been said about tithis and nakṣatras. What remains to be said about these, if at all, and the treatment of Yoga and Karaṇa will be dealt with later on. We must revert to the topic of nakṣatras.
 
-।'
+The names of the twelve solar months distributed two each among six seasons are very ancient. They occur in the Taittirīya-saṁhitā IV. 3. 11. 1, Vāj. S. 13. 25. They are Madhu, Mādhava, Śukra, Śuci, Nabhas, Nabhasya, Iṣa, Ūrja, Sahas, Sahasya, Tapas and Tapasya [^1037]. In the Brāhmaṇas we meet with months (lunar) named from nakṣatras. It is therefore that some works speak of _r̥tus_ (seasons ) as of two kinds, viz. Saura and Cāndra. The former begin either with Mīnarāśi or Meṣarāśi, while the latter are called Caitra and the rest.[^1038] The name of the nakṣatra is often formed into a derivative and joined to the word Paurṇamāsi, Pūrṇamāsa or Amāvāsyā and sometimes the names of the months such as Phālguna and Caitra occur in the Brāhmaṇas ( vide note [^1015] above ).[^1039]
 
-.
+Pāṇini derives the names of the months like Caitra from Paurṇamāsi and expressly names the Āgrahāyaṇi (IV. 2. 22 ), Phālguni, Śravanā, Kārtiki and Caitri (IV. 2.23). 'Paurṇamāsi' itself is derived from Pūrṇamāsa by the Vārtika 2 on Pāṇini IV. 2. 35. The Full Moon tithi which has Puṣya nakṣatra is called Pauṣi by the sūtras (Pān. IV. 2. 3 and IV. 2. 21). Thus there were three stages; first the 27 nakṣatras were distinguished and named in the very ancient Vedic saṁhitās, then the Full Moon day was called Caitri Paurṇamāsi (and so on) because on that tithi the Moon was in Citrā nakṣatra and so on; then
 
-१५
+[^1037]: वायुपुराण (chap. 50, verse 202 ) enumerates these twelve months. The gr̥hyasūtras employ the saura month names; vide p. 610 above about the months for marriage. They occur in inscriptions also as the month 'Sahasya' and 'Tapasya' in the Mandasor Inscription of 493 and 529 of the Mālava era (Gupta Inscriptions p. 79 ff).
 
-१९
+[^1038]: वसन्ताद्यृतवो द्वेधा चान्द्राः सौराश्च चान्द्रकाः। चैत्राद्या ह्यथ मीनाद्या मेषाद्या वा विवस्वतः ॥ कालनिर्णयकारिका 15.
 
-Aad
-
-Yी
-
-HAR
-
-.
-
-:"
-
-.
-
-+
-
-. .
-
-ENTER Form Koor,
-
-२. ( रा २५ १२ मार
-
-• र २२ . स. ७ १७ .१९५
-
-५२ ब १४२६ १८६ अ . के
-
-•8 १९५० र २१५
-
-ESHAYA
-
-httpreks wer Fakris,
-
-Pmaratram m. -
-
-13556 . . . १"
-
-.
-
-.
-
-.
-
-..
-
-च २७ १९
-
-८
-
-२० १.
-
-. .
-
-i in fnce paye mbegris
-
-.
-
-alirailer
-
-
-
-
-
-
-
-|
-
-
-
-
-
-
-
-|
-
-UA
-
-। १५८२४।१
-
-|
-
-
-
-| ariam||Tur||vorIMIRMIRE
-
-:
-
-छ || PERIENDS
-
-||122
-
-| ه ه ه ه ه
-
-शके १८७८ दुर्मुखनाम० चैत्र शुक्लपक्षः दि. र. उ. र. अ. दि क. चंद्रः ई. संवत् २०१२ सन १९५६ मार्च उदगयनं वसंतर्तुः मधुमासः १ में ३०४४ उ ३', ९ शु २३ २० किं १,६३, ६.५०१ ६.४७. १ : मीन १३/ध्वजारोपणं वत्सरारंभाचंद्रदर्शनंमु.३०कल्पादिर चं मं बु गु शु श रा ह ने बु २९२६ रे ३५ २६ ब्र २९. २४ बा ० ५५ ६. ४९. ६.४७ २३५ नं. मे. १४ मृत्यु ३५ नं. बुधास्त पूर्व दग्ध ३६ नं.
-
-|११५ ८.११ ४. १ ७७ | ३ : ग २७५८ ६.४९ ६.४७. ३ । मेष १५ गौरी तृतीया मत्स्यजयंती मन्वादि भ. प्र. ५५ १६९ १७ ५ ३ ० १३२२ २. १०
-
-६.४८ ६.४८ ४ नं. व. १६ विनायकी चतुर्थी भ. नि. ३४ घबाड ३४ नं. १3 18३९५२२१) १ ३६.४७ ६.४८: ५ वृषभ १७ कल्पादि अमृत ३१ नं.
-
-५५६१७४४१३ २७ १९ १७/६ ६.४६ ६.४९ ६ ५.नं. मि. १८/घबाड १० “साम्याथै उत्तराभाद्रपदार्कः ।११ ३ व १
-
-व १३९ ६.४५/६.४९ ७ मिथुन १९ दुर्गाष्टमी भ. प्र. १३ नि. १अमृत । मं ७ ३५ आ २३,२२ शो ४७३५ ब ८/११ ६.४४ ६.४९: ८ । मिथुन २०/श्रीरामजयंती वसंते मधुमासारंभः ३५ यमवंट २३
-
-अ. १ चैत्र शु. १" चंद्र
-
-२१४१६.४४ ६.४९. ९ ५ नं. कर्क २१ २४१७ ६.४३ ६.५० १० । कर्क २२ कामदा स्मार्त एकादशी गुरुपुष्यामृत १५ भ. प्र. १ १८१९ ६.४२ ६.५० ११ ११ नं.सिंह २३ भागवत एकादशी घबाड १३ मृत्यु ११ मीनेज्ञः |
-
-[श.
-
-२. १ . बु. १०
-
-२२ ६.४१ ६.५० १२ सिंह २४ शनिप्रदोषः घबाड नं. ३४.१८ पू ४ १४ गं १०१० ग १ २५. ६.४० ६.५० १३ १६ नं. क. २५/ वृषभे शुक्रः ६ भ. प्र. ३४ [; अन्वाधानं भ. नि. ३ चं ३०१८ उ १.३५ ३३३ वि ३ ३९ ६.३९. ६.५० १४ कन्या २६ हनुमजयंती मन्वादि वैशाखस्नानारंभः रेवन्यकः३:
-
-४।११७१०
-
-|
-
-21661
-
-ISTER PRIFIED
-
-अयनांश १९।१५।३७
-
-ه
-
-ه
-
-,
-
-९ म.
-
-ه
-
-५ गु.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Five items in a pañcāṅga
-
-669
-
-it may have six parts if the signs of the zodiac are given and seven if the positions of the planets are mentioned. Vāra ( weekday ) is the period of time between one sunrise and the next and not much will have to be said about it except about the origin of week days. A great deal has already been said about tithis and nakṣatras. What remains to be said about these, if at all, and the treatment of Yoga and Karaṇa will be dealt with later on. We must revert to the topic of nakṣatras.
-
-The names of the twelve solar months distributed two each among six seasons are very ancient, They occur in the Taittirīya-saṁhitā IV. 3. 11. 1, Vāj. S. 13. 25. They are Madhu, Mādhava, Sukra, Suci, Nabhas, Nabhasya, Isa, Urja, Sabas, Sahasya, Tapas and Tapasya 1037. In the Brāhmaṇas we meet with months (lunar) named from nakṣatras It is therefore that some works speak of rtus (seasons ) as of two kinds, viz. Saura and Cāndra. The former begin eithor with Minarāśi or Meṣa rāśi, while the latter are called Caitra and the rest.1038 The name of the nakṣatra is often formed into a derivative and joined to the word Paurṇamāsi, Pūrṇamāsa or Amāvāsyā and sometimes the names of the months such as Phālguna and Caitra occur in the Brāhmaṇas ( vide note [^1015] above ).1039
-
-Pāṇini derives the names of the months like Caitra from Paurṇamāsi and expressly names the Āgrahāyaṇi (IV. 2. 22 ), Phālguni, Sravanā, Kārtiki and Caitri (IV. 2.23). 'Paurnamāsi' itself is derived from Pūrṇamāsa by the Vārtika 2 on Pāṇini IV. 2. 35. The Full Moon tithi which has Pusya nakṣatra is called Pauṣi by the sūtras (Pān. IV. %. 3 and IV. 2. 21). Thus there were three stages; first the 27 nakṣatras were distinguished and named in the very ancient Vedic saṁhitās, then the Full Moon day was called Caitri Paurṇamāsi (and so on) because on that tithi the Moon was in Citrā nakṣatra and so on; then
-
-1037. ATM (chap, 50, verse 202 ) enumerates these twelve months. The grbyasūtras employ the saura montb pames; vide p. 610 above about the months for marriage. They occur in inscriptions also as the month
-
-Sahasya' and • Tapasya' in the Mandasor Inscription of 493 and 529 of the Mālava era (Gupta Inscriptions p. 79 ff).
-
-____1038. वसन्ताङ्तवो द्वेधा चान्द्राः सौराश्च चान्द्रकाः। चैत्राधा अथ मीनाद्या मेवाचा et atera: laporatore artitat 15.
-
-1039. Autor U: Fly: 1 91. IV. 2. 3; FifftFATTET I 9. IV. 2. 21; QUATHIEU and 2 on a. IV. 2. 35. The entire explains portretas स्मिन् काले पौर्णमासी तिथिः'.
+[^1039]. Autor U: Fly: 1 91. IV. 2. 3; FifftFATTET I 9. IV. 2. 21; QUATHIEU and 2 on a. IV. 2. 35. The entire explains portretas स्मिन् काले पौर्णमासी तिथिः'.
 
 668
 
 History of Dharmaśāstra (Sec. II, Ch. XVIII
 
-the months were called Caitra, Vaiśākha &c. because they had Caitri or Vaiśākhi Paurṇamāsī in it. All this occurred long before Pāṇini. Later the saura names Madhu, Mādhava &c. came to be identified with lunar months Caitra, Vaiśākha &c. and became synonyms. When this occurred it is difficult to say. But it is much older than the Christian era. It must be long before Kālidīsa, who in his Meghadūta first speaks of. Āṣāḍha and then refers to the next month Srāvana as Nabhas. Often on the Full Moon day the Moon might not actually be in or very near Citrā or Sravana nakṣatra but that did not matter; the month would still be called Caitra or Srāvana as the case may be. 1040
+the months were called Caitra, Vaiśākha &c. because they had Caitri or Vaiśākhi Paurṇamāsī in it. All this occurred long before Pāṇini. Later the saura names Madhu, Mādhava &c. came to be identified with lunar months Caitra, Vaiśākha &c. and became synonyms. When this occurred it is difficult to say. But it is much older than the Christian era. It must be long before Kālidīsa, who in his Meghadūta first speaks of. Āṣāḍha and then refers to the next month Srāvana as Nabhas. Often on the Full Moon day the Moon might not actually be in or very near Citrā or Sravana nakṣatra but that did not matter; the month would still be called Caitra or Srāvana as the case may be. [^1040]
 
-It has already been shown that in ancient Brāhmaṇa times the months ended with the Full Moon (i. e. were pūrṇimānta ). When foreigners like Kaniṣka and Huviska ruled over Northern India they stuck to the Pūrṇimānta Indian months in their records, though here and there they employ Macedonian month names. For example, the Greek month Gurppiya is used in Huviska's reign ( 28th year) in the Mathura Brāhmi Inscription and the Greek month 1041 Artemisios also occurs. In the Zoda Inscription the month must be held to be pūrṇimānta as the nakṣatra Uttarāphalguni is there said to have occurred on the 20th day of Āṣāḍha. 1042 The Tekkali plates of Devendravarman record a grant on the occasion of a lunar eclipse on the 30th day of Māgha. 1043 Similarly, in the Lodhia plates of Śivagupta ____1040. मेषादिस्थे सवितरि यो यो दर्शः प्रवर्तते । चान्दमासास्तत्तदन्ताश्चैत्राद्या द्वादश स्मृताः॥ तेषु या या पौर्णमासी सा सा चैव्यादिका स्मृता । कादाचित्केन योगेन नक्षत्रस्येति aufg: Il q. by ETC on STIHTĀ 16.1, who explains a HEF Faft an अमावास्या तदन्ते चान्द्रमसे मासि पौर्णमासी सा श्रवणा श्रावणीति चोच्यते। श्रवणयोगस्त WEÇ AT AT 11. Mr. Tarakesvara Bhattacharya in his paper on History of ancient Indian Astronomy'in J. of Gangaṇatha Jha Research Institute, vol. XI-XII (1953-55 ) at p. 17 quotes as from 37\#Tre the verse 'goery mt QUATÎ 101 HT TH ATTAT H 101 Ateresante !!. It appears tbat TCFTH does not accept this verse as the original verse of Amara, but only as a variant reading. Mr, Bbattacharya seems to be udaware of this. The महाभाष्य on वार्तिक 5 on पा. IV. 2. 3 says 'पुष्यसमीपगते चन्द्रमास वक्तारो भवन्ति पुण्येणाद्य मघाभिरयेति ।।
+It has already been shown that in ancient Brāhmaṇa times the months ended with the Full Moon (i. e. were pūrṇimānta ). When foreigners like Kaniṣka and Huviska ruled over Northern India they stuck to the Pūrṇimānta Indian months in their records, though here and there they employ Macedonian month names. For example, the Greek month Gurppiya is used in Huviska's reign ( 28th year) in the Mathura Brāhmi Inscription and the Greek month [^1041] Artemisios also occurs. In the Zoda Inscription the month must be held to be pūrṇimānta as the nakṣatra Uttarāphalguni is there said to have occurred on the 20th day of Āṣāḍha. [^1042] The Tekkali plates of Devendravarman record a grant on the occasion of a lunar eclipse on the 30th day of Māgha. [^1043] Similarly, in the Lodhia plates of Śivagupta ____[^1040]. मेषादिस्थे सवितरि यो यो दर्शः प्रवर्तते । चान्दमासास्तत्तदन्ताश्चैत्राद्या द्वादश स्मृताः॥ तेषु या या पौर्णमासी सा सा चैव्यादिका स्मृता । कादाचित्केन योगेन नक्षत्रस्येति aufg: Il q. by ETC on STIHTĀ 16.1, who explains a HEF Faft an अमावास्या तदन्ते चान्द्रमसे मासि पौर्णमासी सा श्रवणा श्रावणीति चोच्यते। श्रवणयोगस्त WEÇ AT AT 11. Mr. Tarakesvara Bhattacharya in his paper on History of ancient Indian Astronomy'in J. of Gangaṇatha Jha Research Institute, vol. XI-XII (1953-55 ) at p. 17 quotes as from 37\#Tre the verse 'goery mt QUATÎ 101 HT TH ATTAT H 101 Ateresante !!. It appears tbat TCFTH does not accept this verse as the original verse of Amara, but only as a variant reading. Mr, Bbattacharya seems to be udaware of this. The महाभाष्य on वार्तिक 5 on पा. IV. 2. 3 says 'पुष्यसमीपगते चन्द्रमास वक्तारो भवन्ति पुण्येणाद्य मघाभिरयेति ।।
 
-1041. Vide E, I, vol. 21 p. 56 at p. 60 for the first and C. I. 1. vol. II p. 170 for the second written as 'Arthamisiya' on the Wardak vase of the year 51.
+[^1041]. Vide E, I, vol. 21 p. 56 at p. 60 for the first and C. I. 1. vol. II p. 170 for the second written as 'Arthamisiya' on the Wardak vase of the year 51.
 
-1042. E. I. vol. 19 p. 1 at p. 15 = C. I. I. vol. II, p. 145 Sam 10 1 Ashadasa Masasa 20, Uttaraphagune.'
+[^1042]. E. I. vol. 19 p. 1 at p. 15 = C. I. I. vol. II, p. 145 Sam 10 1 Ashadasa Masasa 20, Uttaraphagune.'
 
-1043. I. H.Q., vol. XI p. 300 at 302.
+[^1043]. I. H.Q., vol. XI p. 300 at 302.
 
 Pūrṇimanta months
 
 669
 
-Bālārjuna of Kośala ( i. e. Chhattisgarh region ) published in E. I. vol. 27 p. 319 the date 'Sambatsare sapta pañcāśattame Kārtika pornamāsyām ankena samvat 57, Kārtika dina 30' (p. 325 ) shows that the month was pārṇimānta. The Rājatarangisi 1044 says that king Harirāja came to the throne at the beginning of Āṣāḍha in the 4th year of the Laukika era), who ruled only for twenty-two days and died on 8th of the bright half of Suci (i.e Āṣāḍha) and thereby shows that the month was pārṇimānta in Kashmir then as now.
+Bālārjuna of Kośala ( i. e. Chhattisgarh region ) published in E. I. vol. 27 p. 319 the date 'Sambatsare sapta pañcāśattame Kārtika pornamāsyām ankena samvat 57, Kārtika dina 30' (p. 325 ) shows that the month was pārṇimānta. The Rājatarangisi [^1044] says that king Harirāja came to the throne at the beginning of Āṣāḍha in the 4th year of the Laukika era), who ruled only for twenty-two days and died on 8th of the bright half of Suci (i.e Āṣāḍha) and thereby shows that the month was pārṇimānta in Kashmir then as now.
 
-Though inscriptions before the Christian era raraly mentioned the names of months (such as Kārtika 14th in the Kharosthi Inscription of the Greek king Menander, 1045 2nd century B. C.), the usual mode is to mention the stu (season), then the number of the month (and not name ) in the season and then divasa, e. g. vide the seven inscriptions from 1046 Mathurā and the Sarnath Inscription of Mahārāja Kaniṣka. 1047 In some inscriptions only the rtu ( season), the number of the pakṣa and the day occur; vide Nāgārjunikonda 1043 Ins. (3rd century A. D.), the Omgudu grant of Vijayaskandavarman (E. I. 15 p. 252 * Hemantapakse totiye trayodasyām'), the Nāga image Ins. of Kaniṣka's time ( E. I. 17 p. 11 ) in sa. (Samvat) 8, gri. 4, di (divasa) 5. Vide also Lūder's list No. 922 and No. 1202 (the latter of Madhariputa Purisadata, samvachhare 20, Vāsāpakham 8, divasam 10). Sometimes the month is mentioned but no pakṣa and the days are counted continuously from 1 to 30 e. g. Khoh plates of Mahārāja Jayanātha (in year 177 and 22nd day of Caitra ) and Khoh plate of Sarvanātha in year 193 month Caitra day 10th without the mention of the fortnight (vide Gupta Inscriptions pp. 121 and 125), E. I. vol. 20 p. 59 at p. 63 ( sain. 159, apparently of the Gupta era, Māgha di. 7), E. I. 19 p. 96 (the Mathurā pedestal Ins. of Kushāṇa year 14 in Pausamāsa
+Though inscriptions before the Christian era raraly mentioned the names of months (such as Kārtika 14th in the Kharosthi Inscription of the Greek king Menander, [^1045] 2nd century B. C.), the usual mode is to mention the stu (season), then the number of the month (and not name ) in the season and then divasa, e. g. vide the seven inscriptions from 1046 Mathurā and the Sarnath Inscription of Mahārāja Kaniṣka. 1047 In some inscriptions only the rtu ( season), the number of the pakṣa and the day occur; vide Nāgārjunikonda [^1043] Ins. (3rd century A. D.), the Omgudu grant of Vijayaskandavarman (E. I. 15 p. 252 * Hemantapakse totiye trayodasyām'), the Nāga image Ins. of Kaniṣka's time ( E. I. 17 p. 11 ) in sa. (Samvat) 8, gri. 4, di (divasa) 5. Vide also Lūder's list No. 922 and No. 1202 (the latter of Madhariputa Purisadata, samvachhare 20, Vāsāpakham 8, divasam 10). Sometimes the month is mentioned but no pakṣa and the days are counted continuously from 1 to 30 e. g. Khoh plates of Mahārāja Jayanātha (in year 177 and 22nd day of Caitra ) and Khoh plate of Sarvanātha in year 193 month Caitra day 10th without the mention of the fortnight (vide Gupta Inscriptions pp. 121 and 125), E. I. vol. 20 p. 59 at p. 63 ( sain. 159, apparently of the Gupta era, Māgha di. 7), E. I. 19 p. 96 (the Mathurā pedestal Ins. of Kushāṇa year 14 in Pauṣamāsa
 
-1044. स चतुर्थसमाषाढमार माहे महीपतिः। हरिराजाभिधं पुत्रमभिषिच्यास्तमाययौ । "द्वाविंशतिमहान्युर्वी स रक्षित्वा क्षमापतिः। क्षयं ययों शुचियशाः शुचिशुक्लाष्टमीदिने । राज miguff VII verses 127 and 131.
+[^1044]. स चतुर्थसमाषाढमार माहे महीपतिः। हरिराजाभिधं पुत्रमभिषिच्यास्तमाययौ । "द्वाविंशतिमहान्युर्वी स रक्षित्वा क्षमापतिः। क्षयं ययों शुचियशाः शुचिशुक्लाष्टमीदिने । राज miguff VII verses 127 and 131.
 
-1045. Vide E. I. vol 64 pp. 1-8, for the Bajaur casket Inscription of Minadra,
+[^1045]. Vide E. I. vol 64 pp. 1-8, for the Bajaur casket Inscription of Minadra,
 
 1046. E. I. vol. 19 p. 65 (seven ins from Mathurā) at p. 66? of $0.1
 
