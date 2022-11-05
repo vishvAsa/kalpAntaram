@@ -165,347 +165,39 @@ Proṣṭhapadā --Atharvaveda speaks of 'dvayā Proṣṭhapadā'.
 It would be noticed that some of the names of nakṣatras differ such as Invakā (in Tai. Br. 1.5.1 and Kāṭhaka ) for Mṛga śīrṣa, Bāhū for Ārdrā ( in Tai. Br. I. 5.1, Kāṭhaka S. and Maitrā. yani S.), Tiṣya for Puṣya, Niṣṭyā for Svāti (in Tai. Br.), Rohiṇi ( in Tai. Br. I. 5.4 and Tai. S.) for Jyeṣṭhā, Vicr̥tau in Tai. S. for Mūla ( in other Vedic texts ), Śroṇā (in Tai. S., Tai. Br. and Mai. S.) and Aśvattha in Kāṭhaka S. for Śravaṇa (in Atharva. ), Śraviṣṭhā for (medieval and modern ) Dhaniṣṭhā, Apabharaṇi for bharaṇi (in Atharva., Mai. S. and modern times). The deities also differ, the most striking being the change of place between Bhaga and Aryaman as presiding deities of Āṣāḍhās in the Kāṭhaka, Vedāṅgajyotiṣa, Śan gr̥. and Indra as deity of Citrā in Tai. S. and Tyaṣṭr̥ in Tai. Br.
 
 List of nakṣatras in the Vedic saṁhitās, names, deities, &c. with remarks where necessary.
-
-No. Vedic
-
-dame
-
-Modern
-
-name
-
-Vedic Tai, Sam. | Tai. Br, deity gene. IV. 4.10. 1.5
-
-rally
-
-Vedāṅga Jyotiṣa
-
-Tai. Br. | Atbarva- || III. 1.4-5 veda XIX. Sañ.39.13 yani S. II. (Rg), 36, 40 7. 2-5
-
-13. 20 (Yajurveda) sets
-
-out only deities
-
-Number
-
-of stars
-
-1 Kșttikā
-
-Kṛttikā Agni
-
-2 Rohiṇi
-
-Robiṇi Prajā-
-
-pati Mļga- Soma
-
-sirṣa
-
 Comparative table of Nakṣatras
 
-3 Miga
-
-sirsa
-
-Kṛttikā Kșttikā Kṛttikā mentions Kfttikā Kṛttikā| Agni F. Tai. Br. III. 1. 4.1 no deity
-
-specifies the seven
-
-for any
-
-names as Amba
-
-nakṣatra
-
-dula &c. Rohiṇi Rohiṇi Rohiṇi Rohiṇi Rohiṇi Rohiṇi Prajāpati H. one Mṛga- Invakā (Mṛga- Mṛga- Invakā Invaka | Soma sirsa siras or siras (deity deity
-
-F. Plural in Tai. Br.
-
-Invakā Maruts) Maruts
-
-1.5, Kāṭhaka, Mai. Ardrā i Bāhu Ardrā Ardrā Bābu Bāhu | Rudra F. Two in Tai. Br. I.
-
-5 and one in Tai. S., Kāṭhaka and
-
-Mai(and M.)
-
-Punar- Punar- Punar- Punar- Punar- Punar- Aditi
-
-M. two
-
-1 vagū vasū vasū | Vasū vagū
-
-M. one in Kāṭhaka
-
-and Mai.
-
-N. one
-
-4 Ardrā
-
-| Ardrā | Rudra
-
-5 Punar
-
-Vagų
-
-Punar- Aditi Vasū
-
-| yasu
-
-501
-
-6 Tiṣya
-
-Puṣya
-
-Bșhas-
-
-Tiṣya
-
-Tiṣya
-
-Tiṣya
-
-Puṣya
-
-Tiṣya
-
-Tiṣya
-
-| Bṛhaspati M. one
-
-502
-
-Sarpāḥ
-
-Pitaraḥ
-
-F. Plural
-
-F. Plural
-
-Bhaga
-
-7 Aśreṣā Āśleṣā Sarpāḥ Aśreṣā Āśreṣa Aśreṣā Aśleṣā Āśleṣā Aśleṣā 8 Maghā Maghā Pitarah Maghā Maghā Maghā Māgha Maghā Maghā 9 Phalguni Purvā Arya Phal. Pārvā | Phal- Pūrvā Phal- Phal
-
-(Phal- Iman guni Phal- gunl | Phal- 1 gunih gunih gunl)
-
-guni
-
-guni (Bhaga (Bhaga
-
-deity) l deity) 10 Phalguni Uttarā Bhaga Phal- Uttarā Phal- not Uttarā Phal Phalguni
-
-guni guni men
-
-guni
-
-guni
-
-(deity
-
-(Arya- Arya
-
-man man) 11 Hasta Hasta Savitr Hasta Hasta | Hasta Hasta Hasta Hasta
-
-F. Plural; dual in
-
-Atharva, Tai. Br. 1.5 and III.1 and singular in Tai.S.
-
-Aryaman
-
-Phal.
-
-F. one; dual in Tai.
-
-Br. I. 5 and III, 1. 4. 10
-
-
-
-Tonad
-
-Savitr
-
-M. singular; dual in
-
-Kāṭhaka
-
-12 Citra
-
-Citrā
-
-Indra
-
-| Citrā
-
-Citrā
-
-Citrā
-
-Citrā
-
-deity
-
-Tvasti
-
-Citrā Citrā į Tvastr (Tvastr) |(Tvaṣtr)
-
-F. one
-
-13 Svāti
-
-Svāti
-
-Vāyu
-
-Syāti
-
-Nistyā Nistyā (Vāyu) (Vāyu)
-
-Svāti
-
-i Nistyā Nistyam (Vāyu) (Vāyu)
-
-Vāyu
-
-F. one.
-
-N. in Mai.
-
-
-
-List of nakṣatras in the Vedic saṁhitās, names, deities, &c. with remarks where necessary.
-
-No. Vedic
-
-Dame
-
-Modern Vedic Tai. Sam. name deity gene- IV. 4. 10.
-
-rally 1-3
-
-Vedāṅga jyotiṣa Tai, Br. (Tai. Br, 1 Atbarva- | Kāṭhaka | Maitra. 1 verses 25-26 Gender I. 5 III. 1.4-5 veda XIX. Sam. 39.13 yani S, II. (Rg), 36. 40 7. 2-5
-
-13. 20 (Yajurveda) sets
-
-out only deities
-
-Number
-
-of stars
-
-gni
-
-14 Viśākhā Viśākha Indrā- Viśākhe Visakhe Viśākhe Viśākhe Visā. Visā- Indrāgoi
-
-F. Two
-
-kham kham
-
-N. singular in Kāt,
-
-Mai.
-
-15 Anūrādha Anu Mitra | Anū. 1 Anū. Anū- Anu- Anu- Anū
-
-Mitra
-
-F. Plural
-
-rādha rādhā rādhā rādhārādhā | rādhā 1 rādhā
-
-M. plural in Tai. Br.
-
-III, 1.5.1.
-
-16 Rohiṇi Jyeṣṭhā Indra Rohiṇi Rohiṇi Jyeṣṭhā Jyeṣṭhā Jyosthā Jyeṣṭhā Indra
-
-F. one
-
-(Indra) (Varuṇa) 17 Vicrtau Mūla Pitaraḥ Vicṛtau Mūla- Mūla Mūlam Mūlam Mālam
-
-M or F two (when
-
-(Pitarah) barhaṇi | (Nirrti) (Nirsti) (Nirrti)
-
-vicrtau )
-
-(Nirrti)
-
-N.one (Mūla) in Kāt.,
-
-Tai. Br. III. 1.5.3 F. one (Mūla
-
-barhani) 18 Aṣadha Pūrvā- Apaḥ Asādhā Pūrvā- Aṣādhāḥ Asādhā Aṣādhā Āṣādhā | Apaḥ F. Plural sādha
-
-sādhā 19 Aṣadha | Uttara- Viśve- Aṣāḍha Uttarā- Aṣādhāḥ Uttarā Uttara- | Aṣadhā Viśve-devāh F. Plural sādhā devāḥ
-
-sādhā
-
-Comparative table of Nakṣatras
-
-ṣādbā
-
-503
-
-504
-
-20 Abhijit | Abhijit Brahma pot | Abhijit Abhijit Abhijit not Abhijit | not men. N. one (not men (deity (Bra
-
-men- (Bra- tioned
-
-counted) tioned not m.)] hmā)
-
-tioned | hmā) 21 śroṇā Śravana Viṣṇu śroṇā śroṇā Śroṇā Śravana Aśva- Śronā Viṣṇu F. one
-
-, ttha (Viṣṇu) 22 Śravisthā Dhani- Vasavaḥ śra- śra- śra- Śra- Sra- Śra.'
-
-Vasavah
-
-F. Plural
-
-,sthā 1
-
-, vistha | visthā , visthā vistha visthā , visthā 23 Sata. Sata Indra Sata. Sata. Sata Sata. Sata- Sata
-
-M. one
-
-bhiṣak bhisak bhiṣak bhisak bhisak | bhisak bhisak/ bhisak
-
-N. in Atharva, Mai.
-
-(Indra) (Varuṇa) (Varuṇa) (Indra) 24 Prostha- Pūrvā Aja Prostha- Prostha- Prostha
-
-Prostha-Prostha Aja Ekapād M. Plural in Tai Br.
-
-pada Bhadra- Ekapād' padā ļ padā ļ padā
-
-padā | pade
-
-I. 5 and III. 1
-
-pada
-
-(Ahirbu
-
-F. in others
-
-dhnya 25 Prostha- Uttarā Ahirbu- Prostha-Prostha- Prostlia- Prostha- Uttara Prostha- Ahirbu- M. (or F.?) Plural pada Bhadra- dhniya pada pada pada padā Prostha- padā dbnya pada (Ahirbu- (Ahirbu- (Ahirbu
-
-pada (Aja dhniya) dhniya) dhniya) (Ahirbu- Ekapād)
-
-dhniya) 26 Revati Revati Pūsan Revati Revati Revati Revati Revati Revati Pūsan F one 27 Aśra- | Aśvini Asvinau Aśra Aśva- Aśva. Aśva- Aśva- Asya. Aśvinau M. dual yujau
-
-yujau yujau yujau yujau pujau! yujau 28 Apabha- bharaṇi Yama Apabha- Apabha- bharaṇi| Bha- Apabha-| Bhara- | Yama F. Plural rani
-
-rapi rani
-
-ranyah ranih nih
-
-
-
+| No. | Vedic Name  | Modern Name           | Vedic deity generally | Tai. Sam. IV.4.10.1-3      | Tai.Br. I.5                | Tai.Br.III.I.4.5           | Atharvaveda XIX.7.2-5              | Kathaka Sam.39.13                | Maitrayani S.II.13.20          | Vedanga Jyotisa verses 25-26. (Rg), 36-40 (Yajurveda) sets out only deities | Gender       | Number of Stars                                                             |
+|-----|-------------|-----------------------|-----------------------|----------------------------|----------------------------|----------------------------|------------------------------------|----------------------------------|--------------------------------|-----------------------------------------------------------------------------|--------------|-----------------------------------------------------------------------------|
+| 1   | Kr̥ttikā     | Kr̥ttikā               | Agni                  | Kr̥ttikā                    | Kr̥ttikā                    | Kr̥ttikā                    | mentions no deity for any naksatra | Kr̥ttikā                          | Kr̥ttikā                        | Agni                                                                        | F.           | Tai.Br.III.1.4.1 specifies the seven names as Ambādulā &c.                  |
+| 2   | Rohiṇi      | Rohiṇi                | Prajāpati             | Rohiṇi                     | Rohiṇi                     | Rohiṇi                     | Rohiṇi                             | Rohiṇi                           | Rohiṇi                         | Prajāpati                                                                   | F.           | one                                                                         |
+| 3   | Mr̥gaśirṣa   | Mr̥gaśirṣa             | Soma                  | Mr̥gaśirṣa                  | Invakā                     | Mr̥gaśiras or Invakā        | Mr̥gaśiras                          | Invakā (deity Maruts)            | Invakā (deity Maruts)          | Soma                                                                        | N. F.        | one Plural in Tai.Br.1.5, Kāṭhaka, Mai.                                     |
+| 4   | Ārdrā       | Ārdrā                 | Rudra                 | Ārdrā                      | Bāhū                       | Ārdrā                      | Ārdrā                              | Bāhū                             | Bāhū                           | Rudra                                                                       | F.           | Two in Tai.Br.I.5 and one in Tai.S.,Kāṭhaka and Mai (and M.)                |
+| 5   | Punarvasu   | Punarvasu             | Aditi                 | Punarvasu                  | Punarvasu                  | Punarvasu                  | Punarvasu                          | Punarvasu                        | Punarvasu                      | Aditi                                                                       | M. M.        | Two One in Kāṭhaka and Mai.                                                 |
+| 6   | Tiṣya       | Puṣya                 | Br̥haspati             | Tiṣya                      | Tiṣya                      | Tiṣya                      | Puṣya                              | Tiṣya                            | Tiṣya                          | Br̥haspati                                                                   | M.           | one                                                                         |
+| 7   | Āśreṣā      | Āśleṣā                | Sarpāḥ                | Āśreṣā                     | Āśreṣā                     | Āśreṣā                     | Āśleṣā                             | Āśleṣā                           | Āśleṣā                         | Sarpāḥ                                                                      | F.           | Plural                                                                      |
+| 8   | Maghā       | Maghā                 | Pitaraḥ               | Maghā                      | Maghā                      | Maghā                      | Maghā                              | Maghā                            | Maghā                          | Pitaraḥ                                                                     | F.           | Plural                                                                      |
+| 9   | Phalgunī    | Purvā(Phalgunī)       | Aryaman               | Phalgunī                   | Purvā(Phalgunī)            | Phalgunī                   | Purvā(Phalgunī)                    | Phalgunīḥ(Bhaga deity)           | Phalgunīḥ(Bhaga deity)         | Bhaga                                                                       | F.           | Plural; dual in Atharva, Tai.Br.I.5 and III.1 and singular in Tai.S.        |
+| 10  | Phalgunī    | Uttara Phalgunī       | Bhaga                 | Phalgunī                   | Uttara Phalgunī            | Phalgunī                   | not mentioned                      | Uttara Phalgunīḥ (Aryaman)       | Uttara Phalgunī(deity Aryaman) | Aryaman                                                                     | F.           | one; dual in Tai.Br.I.5 and III.1.4.10                                      |
+| 11  | Hasta       | Hasta                 | Savitr̥                | Hasta                      | Hasta                      | Hasta                      | Hasta                              | Hasta                            | Hasta                          | Savitr̥                                                                      | M.           | singular; dual in Kāṭhaka.                                                  |
+| 12  | Citrā       | Citrā                 | Indra                 | Citrā                      | Citrā                      | Citrā deity Tvaṣṭr̥         | Citrā                              | Citrā (Tvaṣṭr̥)                   | Citrā (Tvaṣṭr̥)                 | Tvaṣṭr̥                                                                      | F.           | one                                                                         |
+| 13  | Svāti       | Svāti                 | Vāyu                  | Svāti                      | Niṣtyā (Vāyu)              | Niṣtyā (Vāyu)              | Svāti                              | Niṣtyā (Vāyu)                    | Niṣtyam (Vāyu)                 | Vāyu                                                                        | F. N.        | one. In Mai.                                                                |
+| 14  | Viśākhā     | Viśākhā               | Indrāgni              | Viśākhe                    | Viśākhe                    | Viśākhe                    | Viśākhe                            | Viśākham                         | Viśākham                       | Indrāgni                                                                    | F. N.        | Two;  Singular in Kāṭ, Mai.                                                 |
+| 15  | Anurādhā    | Anurādhā              | Mitra                 | Anūrādhā                   | Anūrādhā                   | Anūrādhā                   | Anurādhā                           | Anurādhā                         | Anūrādhā                       | Mitra                                                                       | F. M.        | Plural;  Plural in Tai.Br.III.1.5.1.                                        |
+| 16  | Rohiṇi      | Jyeṣṭhā               | Indra                 | Rohiṇi                     | Rohiṇi                     | Jyeṣṭhā                    | Jyeṣṭhā                            | Jyeṣṭhā (Indra)                  | Jyeṣṭhā (Varuṇa)               | Indra                                                                       | F.           | one                                                                         |
+| 17  | Vicr̥tau     | Mūla                  | Pitaraḥ               | Vicr̥tau (Pitaraḥ           | Mūlabarhaṇi (Nirr̥ti)       | Mūla (Nirr̥ti)              | Mūlam                              | Mūlam (Nirr̥ti)                   | Mūlam (Nirr̥ti)                 |                                                                             | M or F N. F. | Two (when Vicr̥tau) One (Mūla)  in Kāṭ, Tai.Br.III.1.5.3.  One (Mūlabarhaṇi) |
+| 18  | Aṣāḍhā      | Pūrvāṣāḍhā            | Āpaḥ                  | Aṣāḍhā                     | Pūrvāṣāḍhā                 | Aṣāḍhāḥ                    | Aṣāḍhā                             | Aṣāḍhā                           | Āṣāḍhā                         | Āpaḥ                                                                        | F.           | Plural                                                                      |
+| 19  | Aṣāḍhā      | Uttarāṣāḍhā           | Viśvedevāḥ            | Aṣāḍhā                     | Uttarāṣāḍhā                | Aṣāḍhāḥ                    | Uttarā                             | Uttarāṣāḍhā                      | Āṣāḍhā                         | Viśvedevāḥ                                                                  | F.           | Plural                                                                      |
+| 20  | Abhijit     | Abhijit (not counted) | Brahmā                | not mentioned              | Abhijit (deity not m.)     | Abhijit (Brahmā)           | Abhijit                            | not mentioned                    | Abhijit                        | not mentioned                                                               | N.           | one                                                                         |
+| 21  | Śroṇā       | Śravaṇa               | Viṣṇu                 | Śroṇā                      | Śroṇā                      | Śroṇā                      | Śravaṇa                            | Aśvattha                         | Śroṇā (Viṣṇu)                  | Viṣṇu                                                                       | F.           | one                                                                         |
+| 22  | Śraviṣṭha   | Dhaniṣṭha             | Vasavaḥ               | Śraviṣṭha                  | Śraviṣṭha                  | Śraviṣṭha                  | Śraviṣṭha                          | Śraviṣṭha                        | Śraviṣṭha                      | Vasavaḥ                                                                     | F.           | Plural                                                                      |
+| 23  | Śatabhiṣak  | Śatabhiṣak            | Indra                 | Śatabhiṣak                 | Śatabhiṣak (Indra)         | Śatabhiṣak (Varuṇa)        | Śatabhiṣak                         | Śatabhiṣak (Varuṇa)              | Śatabhiṣak (Indra)             |                                                                             | M. N.        | one. In Atharva, Mai.                                                       |
+| 24  | Proṣṭhapadā | PūrvāBhādrapadā       | Aja Ekapād            | Proṣṭhapadā                | Proṣṭhapadā                | Proṣṭhapadā                |                                    | Proṣṭhapadā                      | Proṣṭhapade (Ahirbudhnya)      | Aja Ekapād                                                                  | M. F.        | Plural in Tai.Bṛ I.5.  In others.                                           |
+| 25  | Proṣṭhapadā | UttarāBhādrapadā      | Ahirbudhniya          | Proṣṭhapadā (Ahirbudhniya) | Proṣṭhapadā (Ahirbudhniya) | Proṣṭhapadā (Ahirbudhniya) | Proṣṭhapadā                        | UttareProṣṭhapadā (Ahirbudhniya) | Proṣṭhapadā (Aja Ekapād)       | Ahirbudhniya                                                                | M. (or F.?)  | Plural                                                                      |
+| 26  | Revati      | Revati                | Pūsan                 | Revati                     | Revati                     | Revati                     | Revati                             | Revati                           | Revati                         | Pūsan                                                                       | F.           | one                                                                         |
+| 27  | Aśvayujau   | Aśvini                | Aśvinau               | Aśvayujau                  | Aśvayujau                  | Aśvayujau                  | Aśvayujau                          | Aśvayujau                        | Aśvayujau                      | Aśvinau                                                                     | M.           | Dual                                                                        |
+| 28  | Apabharaṇi  | Bharaṇi               | Yama                  | Apabharaṇi                 | Apabharaṇi                 | Bharaṇi                    | Bharaṇyaḥ                          | Apabharaṇiḥ                      | Bharaṇiḥ                       | Yama                                                                        | F.           | Plural                                                                      |
+|     |             |                       |                       |                            |                            |                            |                                    |                                  |                                |                                                                             |              |                                                                             |
 
 
 Nakṣatras in saṁhitās and Brāhmaṇas
