@@ -71,9 +71,7 @@ Pessimistic and dismal accounts of what will happen in Kaliyuga ( which extends 
 
 In the purāṇas _pralaya_ is said to be of four sorts, [^1091] viz. _nitya_ ( the every day deaths of those that are born), _naimittika_ (when a day of Brahmā ends, then there is a dissolution of the world), _prākrtika_ ( when everything dissolves itself into prakr̥ti, primordial substance) and _ātyantika_ pralaya is _Mokșa_ (liberation of the soul due to correct knowledge of Reality and absorption into the Supreme Spirit). Harrowing descriptions of the naimittika and prākṛtika pralayas are given in several purāṇas. A lengthy description of the naimittika dissolution is contained in Kūrma II. 45. 11-59 of which a brief summary is given here. When the one thousand Caturyugas end, there is the absence of rain for a hundred years; the result is that living beings perish and are reduced to earth; the sun's rays become unbearable, and even the ocean is dried up; the earth is burnt by the fierce heat of the sun together with its mountains, forests and continents. As the sun's rays fall burning up everything, the whole world presents the appearance of one huge fire. Fire burns everything whether mobile or immoveable. The animals in the big seas come out and are reduced to ashes. Then the saṁvartaka fire growing by the force of the wind burns the whole earth and its flames rise up to a height of thousands of _yojanas_ and the flames burn up _gandharvas_, goblins, _yakṣas_, serpents and rākṣasas and not only the earth but the worlds called 'bhuvaḥ' and 'mahaḥ' are burnt; then huge saṁvartaka clouds resembling herds of elephants, lit up by lightning, rise in the sky, some looking like blue lotuses, some yellowish, some having the colour of smoke, some like sealing wax and fill the whole sky and then extinguish the fires by sending down heavy showers. When the fires are extinguished, the clouds of destruction cover the whole world with floods; mountains are concealed and the earth is plunged in waters and all becomes one ocean of water and then god Brahmā resorts to _Yogic_ sleep. Vanaparva ( chap. 273. 32-48) also contains a brief description of _naimittika pralaya_.
 
-
-[^1091]: Jaren 71 Parent T: f ai 74: 91 Farsit sarat mit नैमित्तिको लयः ॥ चतुर्युगसहस्रान्ते प्राकृतः प्रकृती लयः । लय आत्यन्तिको ज्ञानादात्मनः
-(Continued from last page) QTARA II 368. 1-2; ATHIRIFI: argentar i FART sa parai प्रलयोयं चतुर्विधः । बाझो नैमित्तिकस्तत्र शेतेऽयं जगतीपतिः । प्रयाति प्राकृतं चैव ब्रह्माण्ड प्रकृतौ लयम् ॥ ज्ञानादात्यन्तिकः प्रोक्तो योगिनः परमात्मानि । नित्यः सदैव भूतानां यो विनाशो Patati fag - I. 7. 41-43 and VI. 3. 2 ff, where 1 979 is said to be Fax : vide i II, 45, 1-10 for similar explanations.
+[^1091]: चतुर्विधस्तु प्रलयो नित्यो यः प्राणिनां लयः । सदा विनाशो जातानां ब्राह्मो नमित्तिको लयः ॥ चतुर्युगसहस्रान्ते प्राकृतः प्रकृतौ लयः। लय आत्यन्तिको ज्ञानादात्मनः परमात्मनि ॥ अग्नि 368. 1-2; नैमित्तिकः प्राकृतिकस्तथैवात्यन्तिको द्विज। नित्यश्च सर्वभूतानां प्रलयोयं चतुर्विधः ॥ ब्राह्मो नैमित्तिकस्तत्र शेतेऽयं जगतीपतिः । प्रयाति प्राकृतं चैव ब्रह्माण्डं प्रकृतौ लयम् ॥ ज्ञानादात्यन्तिकः प्रोक्तो योगिनः परमात्मनि । नित्यः सदैव भूतानां यो विनाशो दिवानिशम् । विष्णुपु० I. 7. 41-43 and VI. 3. 2 ff, where प्राकृतप्रलय is said to be द्विपरार्धक; vide कूर्म II. 45. 1-10 for similar explanations.
 
 ## Description of prākr̥tika pralaya
 
@@ -83,16 +81,7 @@ Some works like the Harivaṁśa (Bhaviṣyaparva chap. 10. 12-68) provide that 
 
 The theory of yugas, manyantaras and kalpas with their fabulous numbers of years and harrowing descriptions of pralaya, appears unreal, bizarre and called up by sheer fancy. But underlying it there is the idea of the timelessness of the universe, though from time to time it evolves, gradually declines and perishes, only to reappear in perfection after a cosmic night. There is also the hankering after Reality and pursuit of different ideals. It enshrines the ideas that humanity embarks on a certain goal, pursues it with great efforts and, after achieving some success, gives up that goal and the way that was thought to lead to it and pursues some other goal for aeons in the hope that at some distant date it will be able to evolve and construct a perfect society.
 
-[^1092]. for the pietas, vide Ficha 3 gratisahkarai: प्रकृतिविकृतयः सप्त । षोडशकश्च विकारो न प्रकृतिर्न विकृतिः पुरुषः।।. महत् , अहङ्कार and
-
-(Continued on next page)
-(Continued from last page) Wames are of a double nature i. e, both to and fastra. The sixteen ( which are merely products and not causes) are live कर्मेन्द्रिय, five ज्ञानेन्द्रिया, five mahabhutas (पृथिव्यप्तेजोवाय्वाकाश) and मनः,
-
-696
-
-
-
-
+[^1092]: For the सांख्यतत्त्वs, vide सांख्यकारिका 3 'मूलप्रकृतिरविकृतिर्महदाद्याः प्रकृतिविकृतयः सप्त । षोडशकश्च विकारो न प्रकृतिर्न विकृतिः पुरुषः॥'. महत् , अहङ्कार and पञ्चतन्मात्रs are of a double nature i.e both प्रकृति and विकृति. The sixteen ( which are merely products and not causes) are five कर्मेन्द्रियs, five ज्ञानेन्द्रियः, five mahābhūtas ( पृथिव्यप्तेजोवाय्वाकाश) and मनः .
 
 These ideas are at the bottom of what Manu [^1093] and others say 'Tapas was the highest goal (deemed to yield great results ) in Kr̥tayuga, knowledge (of the self) was the highest in Tretā, yajña (sacrifices to God) in Dvāpara, charity alone in Kali'. This further implies that there are different impelling motives in different ages and modern men should not assess the actions and ideals of past ages by the same yardstick that is applied to contemporary actions and ideals. It is implicit in the words of Manu (XI.301 ) that the four ages are not water-tight specific periods of time, but that the Ruler or Government can produce conditions of Kr̥ta age in what is popularly called Kali by appropriate conduct or measures and Medhātithi expressly says so. [^1093a] Prof. Mankad has a novel theory in a paper on the manvantaras in I. H. Q. vol XVIII, pp. 208–230, where he states that the Caturyuga formula took 40 years for a ruling unit and not for one king's regnal period and that the manvantara was the regular method of calculating regnal periods of different kings in a dynasty (p. 237 ). Hardly any scholar has accepted this theory and for reasons of space and relevance, it is not possible to discuss it here.
 
@@ -100,65 +89,31 @@ These ideas are at the bottom of what Manu [^1093] and others say 'Tapas was the
 
 In the details about the theory of yugas, manvantaras and kalpas there are some divergences. A few may be pointed out. Āryabhaṭa appears to hold that the extent of each of the four yugas was the same and not in the traditional proportion of 4, 3, 2, 1, when he says that he was twenty-three years old when three _yugapādas_ and 3600 years had elapsed (vide Kālakriyāpāda 10 quoted in note 995 above ). Brahmagupta (I. 9) says [^1094] that, though Āryabhaṭa declared that the four pādas of yugas, viz. Kr̥ta and the others, were equal, not one of them was equal to what the smr̥tis declare them to be. There is another discrepancy also.
 
-[^1093] \#9: Ti ERINT ATT Magazhi Emi TTECHÅR Het gall ha I. 86 = znia 23, 28 = TRUTTU 8. 65-66, TITTA I. 23. 77 reads er परं कृतयुगे and दानं कलियुगे वरम्. The ब्रह्माण्ड (II. 7. 59 ) says 'ज्ञानं परं कृतयुगे त्रेतायां यज्ञ उच्यते । प्रवृत्तं द्वापरे युद्ध स्तेयमेव कलौ युगे।
+[^1093]: तपः परं कृतयुगे त्रेतायां ज्ञानमुच्यते । द्वापरे यज्ञमेवाहुर्दानमेकं कलौ युगे॥ मनु I. 86 = शान्ति 23. 28 = वायुपुराण 8. 65-66, पराशरस्मृत्ति I. 23. बायु reads ध्यानं परं कृतयुगे and दानं कलियुगे वरम्. The ब्रह्माण्ड (II. 7. 59 ) says 'ज्ञानं परं कृतयुगे त्रेतायां यज्ञ उच्यते । प्रवृत्तं द्वापरे युद्धं स्तेयमेव कलौ युगे॥'
 
-[^1093] a. i saryo ani troca al Trani zana Haitor AT PEUT Cara II ? AT XI. 301; 'a Horse
+[^1093a]: 'कृतं त्रेता युगं चैव द्वापरं कलिरेव च। राज्ञो वृत्तानि सर्वाणि राजा हि युगमुच्यते॥' मनु XI. 301; 'न चैवं मन्तव्यं राज्ञा कलिर्नाम  कालविशेष इतिहासप्रसिद्धः कथमहं स्यामिति यतो राज्ञो वृत्तानि युगादि' मेधातिथि.
 
-T A SA roata gaeTAHIHE: FIRE स्यामिति यतो राज्ञो वृत्तानि युगादि' मेधातिथि.
-
-[^1094]. युगपादानार्यभटश्चत्वारि समानि कृतयुगादीनि। यदभिहितवान्न तेषां स्मृत्युक्त समानमेकमपि ॥ ब्राह्मस्फुटसि. I 9. दिव्यं वर्षसहस्रं ग्रहसामान्यं द्विषद्कगुणम् । अष्टोत्तरं HEH are feat TERITAT THIT, IEFTIE 8. This means '12000 divine years make a yuga of all the planets; 1008 times of planetary yugas are equal to a day of Brabmā.' RIFF T ETTHETH a: Fata: 1 HCT
-
-S TAT FEWATTER AT TIFFAIRI. 12. The words 'THE: *** Art:' pointedly refer to the Gitikāpāda verse q. above in note 1071.
-
-"
-
-T
-
-
-
-697
+[^1094]: युगपादानार्यभटश्चत्वारि समानि कृतयुगादीनि। यदभिहितवान्न तेषां स्मृत्युक्तसमानमेकमपि ॥ ब्राह्मस्फुटसि. I 9. दिव्यं वर्षसहस्रं ग्रहसामान्यं द्विषट्कगुणम् । <u>अष्टोत्तरं सहस्रं ब्राह्मो दिवसो ग्रहयुगानाम् </u>॥ आर्यभटीय, कालक्रियापाद 8. This means '12000 divine years make a yuga of all the _planets_; 1008 times of planetary yugas are equal to a day of Brahmā. ' मनुसन्धिं युगमिच्छत्यार्यभटस्तन्मनुर्यतः श्खयुगः । <u>कल्पश्चतुर्युगानां सहस्रनष्टाधिकं तस्य </u>॥ ब्राह्मस्फुटसिद्धान्त I. 12. The words 'तन्मनुः ... श्खयुगः ' pointedly refer to the Gītikāpāda verse q. above in note 1071.
 
 Āryabhaṭa in his Daśagitikā Verse 3 states that Manu is a period of 72 yugas, while all the smr̥tis and purāṇas declare that a manvantara is equal to 71 yugas. Āryabhata appears to have held that the day of Brahmā is equal to 1008 _caturyugas_ and Brahmagupta ( I. 12) refers to this view. The celebrated scientific astronomer Bhāskarācārya [^1095] (born in śaka 1036, 1114 A. D.) impatiently says 'some say that half of the life of Brahmā (i.e. 50 years ) has passed away, while others say that half plus eight years has passed away. Whatever the true tradition may be, it is of no use, since planetary positions are to be established from the days that have passed in the current day of Brahmā.'
 
 As incidental to the colossal figures of the years of Kalpas and Yugas, a few words on numerals, their antiquity and the methods of writing numerals would not be out of place, In the Ṛgveda numerals from 1 to 10 are frequently used. 'Sahasra' (thousand) and' ayuta'( ten thousand) occur in R̥g. IV. 26.7, VIII. 1. 5, VIII. 21 18. One of these says [^1096] 'O wielder of thunderbolt! O immensely rich (Indra)! I shall not give thee away even for a big price, not for a thousand, not for ten thousand, nor for hundreds'. In R̥g. VIII. 46.22 a poet says 'I secured 60000 and several tens of thousands of horses, 20 hundreds of camels, one thousand dark coloured mares and ten thousands of cows bright in three parts of their bodies.' In R̥g. I. 53. 9 Indra is said to have struck down sixty thousand and 99 enemies. Vide R̥g. I. 126. 3 (for sixty thousand cows), VIII, 4. 20 and VIII. 46. 29 for 60000 and VI. 63. 10 for one hundred thousand horses. In some of these the larger numbers are mentioned first and the smaller ones next (as in R̥g. I. 53. 9, VIII. 46. 22 ); in others it is the reverse. No conclusion can therefore be drawn that the smaller numbers come first in the R̥gvedic times. In Tai. S. IV. 4. 11. 3-4 reference is made to bricks in numbers from one, one hundred, thousand, ayuta ( ten thousand), niyuta, prayuta, arbuda, nyarbuda, samudra, madhya, anta and parārdha, while in Tai. S. VII. 2. 11-19 various numbers from one to one thousand are mentioned and in VII. 2. 20 numbers from śata, sahasra up to _parārdha_ as in IV. 1. 11. 3-4 are expressed.
 
-[^1095]. FUTTGART Fiyat tai praradies hat:1 CHITA: 410 AreHITTIT TEL Atayuraia 9ĦTETT: A F. t. I. 26.
+[^1095]:  तथा वर्तमानस्य कस्यायुषोर्धं गतं सार्धवर्षाष्टकं केचिदूचुः । भवत्वागमः कोपि नास्योपयोगो ग्रहा वर्तमानद्ययातात् प्रसाध्याः ॥ सि. शि. I. 26.
 
-[^1096]. महे च न त्वामदिवः परा शुल्काय देयाम् । न सहनाय नायुताय वाभियो न शताय TETHET 11. VIII. 1. 5; Vie HENYTTEETH Tort fastha Tari 9 mai TA191 540 Iu CFT TIHEUTH \# VIII, 46, 22.
-
-8. D. 88
-
-
-
-
-
-
-
-
-
-698
-
-
-
-है
-
-HILE
-
-१
-
-
-
-.
+[^1096]: महे च न त्वामद्रिवः परा शुल्काय देयाम् । न सहस्राय नायुताय वज्जिवो न शताय शतामघ ॥ ऋ. VIII. 1. 5; षष्टिं सहस्राश्न्यस्यायुतासनमुष्ट्राणां विंशतिं शता। दश श्यावीनां शता दश त्र्यरुषीणां दश गवां सहस्रा॥ ऋ VIII. 46. 22.
 
 In Vāj. S. 17. 2 bricks from one, ten, hundred up to _parārdha_ ( which is the 13th order therein) are referred to as in Tai. S. IV. 4. 11. 3-4. Kāṭhaka 17. 10 is the same as Tai. S. V. 4. 11. 3-4 (from 'Sahasrasya pramā asi' to 'iṣṭakā dhenavaḥ santu' ). These references show that names for astronomical numbers of years had been settled at least more than a thousand years before Christ. One should like to know the names of numbers in Greece corresponding to the words from _arbuda_ onwards. The Nirukta (III. 10) gives the derivation of eka, dvi, tri, catur, aṣṭa, nava, daśa, viṁśati, śata, sahasra, ayuta, niyuta, prayuta, arbuda. Pāṇini (V. 1. 59 ) mentions _paṅkti_ ( ten), viṁśati, triṁśat, catvāriṁśat, pañcāśat, saṣṭi, saptati, aśīti, navati and śata and the Mahābhāṣya on the 4th vārtika on that sūtra mentions sahasra, ayuta and arbuda among numbers. In Sabhāparva [^1097] numbers from _ayuta_ to _parārdha_ are mentioned as noted below. Āryabhaṭa mentions [^1098] only ten orders from _eka_ to _arbuda_ (hundred million) and vrnda ( thousand million). The Vāyupurāṇa (101. 93-102) mentions the 18 orders of numbers from one to _parārdha_ in a slightly confused manner. It may be noted that the ancient Greeks had no single word for million.
 
 The Viṣṇupurāṇa [^1099] states that parārdha is 18th order of numbers from one, each order being ten times as much as its predecessor. The 18 orders or units of reckoning as employed for many centuries in India are set out here. [^1100]
 
-[^1097]. अयुतं प्रयुतं चैत्र शाई पमं तथार्बुदम् । खर्व शङ्ख निखर्व च महापद्मं च कोटयः । मध्यं चैव परार्ध च सपरं चात्र पण्यताम् । सभापर्व 65.3-4 (Yudhisthira says this when he was about to indulge in a gambling bout). Here the orders are not all serially named and — niyuta ' and ' antya' are wanting.
+[^1097]: अयुतं प्रयुतं चैत्र शङ्कुं पद्मं तथार्बुदम् । खर्वं शङ्खं निखर्वं च महापद्मं च कोटयः । मध्यं चैव परार्धं च सपरं चात्र पण्यताम् । सभापर्व 65.3-4 (Yudhisthira says this when he was about to indulge in a gambling bout). Here the orders are not all serially named and — 'niyuta' and 'antya' are wanting.
 
-[^1098]. एकं दश च शतं च सहस्रमयुतनियुते तथा प्रयुतम् । कोट्यर्बुदं च वृन्दै स्थानात्स्थान दशगुणं स्यात् ॥ आर्यभटीय, गणितराद 2. The meaning is ' the numbers eka...rnda are from place to place each ten times of the preceding.'
+[^1098]: एकं दश च शतं च सहस्रमयुतनियुते तथा प्रयुतम् । कोट्यर्बुदं च वृन्दं स्थानात्स्थानं दशगुणं स्यात् ॥ आर्यभटीय, गणितपाद 2. The meaning is ' the numbers eka...vṛnda are from place to place each ten times of the preceding.'
 
-[^1099] स्थानात्स्थानं दशगुणमेकस्माद्ण्यते द्विज । ततोष्टादशमे भागे परार्धमभिधीयते॥ परार्धद्विगुणं यत्त प्राकृतः स लयो द्विज । तदाऽव्यक्तेऽखिलं व्यक्तं स्वहेतो लयमेति ॥ विष्णुपुराण VI. 3. 4-5 (one edition reads द्वादशमे for अष्टादशमे ); शतमाहुः परिहढं सहस्रं परि पद्मकम् । विज्ञेयमयुतं तस्मानियुतं प्रयुतं ततः ॥ अर्बुदं न्यर्बुदं चैव स्वर्बुदं च ततः स्मृतम् । खर्व चैव निखर्व च शङ्क पग तथैव च । समुद्रं मध्यम चैव परार्धमपरं ततः। एवमष्टादशैतानि स्थानानि गणनाविधौ ॥ वायु 101. 100-102. In the verses from 94 onwards it says : अयुत = दशसहस्राणि, नियुत = शतसहस्र, अर्बुद = दशकोट्यः, अन्ज = कोटिशतं, खर्व = कोटि सहयं, निखर्व = दशकोटिसहस्राणि, शङ्ख = कोटिसहनशत, समुद्र = कोटीसहस्राणां सहस्रं ). ___ [^1100]. एकदशशतसहस्रायुतलक्षप्रयुतकोटयः क्रमशः। अर्बुदमन्जं खर्वनिखर्वमहापद्मशङ्कव स्तस्मात् ॥ जलधिश्चान्त्यं मध्यं परार्धमिति दशगुणोत्तराः संज्ञाः । संख्यायाः स्थानानां व्यवहारार्थ कृताः पूर्वैः॥ लीलावती (परिभाषा, 10-11).
+[^1099]: स्थानात्स्थानं दशगुणमेकस्माद्गण्यते द्विज । ततोष्टादशमे भागे परार्धमभिधीयते॥ परार्धद्विगुणं यत्तु प्राकृतः स लयो द्विज । तदाऽव्यक्तेऽखिलं व्यक्तं स्वहेतौ लयमेति वै॥ विष्णुपुराण VI. 3. 4-5 (one edition reads द्वादशमे for अष्टादशमे ); शतमाहुः परिदृढं सहस्रं परिपद्मकम् । विज्ञेयमयुतं तस्मान्नियुतं प्रयुतं ततः ॥ अर्बुदं न्यर्बुदं चैव स्वर्बुदं च ततः स्मृतम् । खर्वं चैव निखर्वे च शङ्कं पद्मं तथैव च । समुद्रं मध्यम चैव परार्धमपरं ततः। एवमष्टादशैतानि स्थानानि गणनाविधौ ॥ वायु 101. 100-102. In the verses from 94 onwards it says : अयुत = दशसहस्राणि, नियुत = शतसहस्र, अर्बुद = दशकोट्यः, अब्ज = कोटिशतं, खर्व = कोटि सहस्रं, निखर्व = दशकोटिसहस्राणि, शङ्कु = कोटिसहस्रशत, समुद्र = कोटीसहस्राणां सहस्रं ).
+
+[^1100]: एकदशशतसहस्रायुतलक्षप्रयुतकोटयः क्रमशः। अर्बुदमब्जं खर्वनिखर्वमहापद्मशङ्कव स्तस्मात् ॥ जलधिश्चान्त्यं मध्यं परार्धमिति दशगुणोत्तराः संज्ञाः । संख्यायाः स्थानानां व्यवहारार्थे कृताः पूर्वैः॥ लीलावती (परिभाषा, 10-11).
 
 ## Words for Numbers in Sanskrit
 
@@ -167,112 +122,76 @@ The Viṣṇupurāṇa [^1099] states that parārdha is 18th order of numbers fr
 3. Śata     12. Nikharva.
 4. Sahasra  13. Mahāpadma.
 5. Ayuta    14. Śaṅku.
-6. Laksa    15. Jaladhi or Samudra.
+6. Lakṣa    15. Jaladhi or Samudra.
 7. Prayuta  16. Antya.
 8. Koti     17. Madhya.
 9. Arbuda   18. Parārdha.
 
 Alberuni ( Sachau, vol. I. p. 175 ) mentions 'nyarbuda' in place of 'arbuda' and changes the sequence of the last three as 'madhya, antya, parārdha'. Herein he appears to have followed the Vāyu and other purāṇas. Aparārka p. 413 notes verses about the 18 _sthānas_ in which 'niyuta' occurs for ten laksas (and not prayuta), Vr̥nda for 'Abja' or 'Padma'; 'Śaṅkha' and 'Padma' for 'Mahāpadma' and 'Śaṅku'.
 
-That the decimal system itself goes back thousands of years from the present follows from the references in the Saṁhitās. But the question whether the _decimal_ positional or _place value_ system prevailed in Vedic times is rather a different and difficult one. It is generally [^1101] admitted that the place value decimal system that now prevails in Europe and all modern countries was Indian in origin and was introduced about the 12th century A. D. in Europe by the Arabs who borrowed it from India. The decimal place value notation is said to be one of the most fertile inven
+That the decimal system itself goes back thousands of years from the present follows from the references in the Saṁhitās. But the question whether the _decimal_ positional or _place value_ system prevailed in Vedic times is rather a different and difficult one. It is generally [^1101] admitted that the place value decimal system that now prevails in Europe and all modern countries was Indian in origin and was introduced about the 12th century A. D. in Europe by the Arabs who borrowed it from India.
 
-U
+[^1101]: Vide Colebrooke's Miscellaneous Essays, vol. II, pp. 504-517 (references to Indian Astronomer visiting Al Mansur's court in 773 A. D.): Alberuni's 'India' (tr. by Sachau, vol. II, pp. 312-313 ) and Preface pp. XXXII-XXXVI; 'a History of Mathematics' by Cajori (1913) pp. 88 and 100. Mr. G. R. Kaye, who in many of his writings assumes the role of doubter and iconoclast, claims (in J. A. S. B. N S. vol. III, pp. 475-508) that he has proved that this idea about India being the originator of the place value notation now prevalent in Europe is not well founded and must be re-opened and re-examined. In spite of him Prof. Neugebauer in E.S.A, says that the Hindu-Arabic numerals were introduced in Europe in the 12th century A. D. (p 4) and Prof. Filliozat on 'Scientific thought in Ancient India' in East and West, vol. VI. No.4 pp. 285-292 says at p. 291 that Europeans owe to India the popularisation of the decimal system and also the trigonometric sine. Vide also I, H. Q, vol. III. pp. 97-120 and 356–375 on 'Origin and development of numerals' by Sukumar Ranjan Das, Bulletin of the Calcutta Mathematical Society, vol XVII pp 195–202 by Saradakant Ganguly On 'Āryabhaṭa's alphabet and Greeks', Bhāratakaumudi vol. I. pp 253-258, 'Hindu Arabic numerals' by W. E, Clark, pp. 217-236 in Lanman Presentation volume and 'Hindu Arabic numerals' by Smith and Carspinki (1911).
 
-1101. Vide Colebrooke's Miscellaneous Essays, vol. II, pp. 504-517 (references to Indian Astronomer visiting Al Mansur's court in 773 A, D.): Alberuni's 'India' (tr. by Sacbau, vol. II, pp. 312-313 ) and Preface pp. XXXII-XXXVI; 'a History of Mathematics' by Cajori (1913) pp. 88 and 100. Mr. G. R. Kaye, who in many of his writings assumes the role of
+The decimal place value notation is said to be one of the most fertile inventions of man. There is a good deal of literature on this subject which is passed over here as not material for our purpose. One of the latest works on this system is 'From Zero to Infinity' by Constance Reid (Routledge and Kegan Paul, London, 1956). Zero is the first of ten symbols with which one can represent an infinitude of numbers and it is also the first of the numbers. This work says that the zero escaped even the greatest Greeks, Pythagoras, Euclid and Archimedes (p. 4). The Egyptians [^1102] had a decimal system of numerals but no sign for zero and therefore no positional notation, which even the Greeks did not know; ancient Babylonians also had no definite symbol for zero and there is no example of zero signs at the end of numbers even in their latest astronomical writings. It is difficult to say when exactly a symbol or word for zero was employed in India. But it must have been several centuries before the beginning of the Christian era. Pingala's work on metres is a _vedāṅga_. Piṅgala's sūtra on metres makes use of zero (śūnya ) in VIII. 28-31. Even the Śatapatha Br. (XI. 4. 3 20) seems to be aware of Vedāṅgas. But it may be argued that there is nothing to show that Piṅgala's work was known to it.
 
-I and iconoclast, claims (in J. A. S. B. N S. vol. III, pp. 475-508) that he has proved that this idea about India being the originator of the place value notation pow prevalent in Europe is not well founded and must be re-opened and re-examined. In spite of him Prof. Neugebauer in E.S.A, says that the Hindu-Arabic numerals were introduced in Europe in the 12th century AD. (p 4) and Prof. Filliozat on 'Scientific tbought in Ancient India in East and West, vol. VI. No.4 pp. 285-292 says at p. 291 that Europeans owe to India the popularisation of the decimal system and also the trigonometric sige. Vide also I, H. O, vol. III. pp. 97-120 and 356–375 on " Origin and development of numerals' by Sukumar Ranjan Das, Bulletin of the Cal cutta Mathematical Society, vol XVII pp 195–202 by Saradakant Ganguly On Āryabhaṭa's alphabet and Grecks', Bharatakaumudi vol. I. pp 253-258,
+[^1102]: Vide 'Legacy of Egypt' (Glanville p. 166), E S. A. by Neugebauer p. 20, Sarton in 'a History of Science' p. 69; Prof. Neugebauer in JAOS. vol. 61 pp. 213-215 avers that strong arguments exist for the assumption that the Babylonian methods of calculation went, together with Greek Astronomy, to India, and that, sometime in the first centuries of the Christian era, the corresponding decimal place value notation in India, which through the Arabs gave rise to the modern system of Europe. With great respect the author must demur to these assertions, The learned writer endeavours to show that a peculiar sign was used for zero in Mesopotamian cuneiform texts. The important questions that must be answered are; who discovered the symbol for zero now used almost throughout the world, whether the so-called sign for zero which Prof. Neugebauer asserts he has discovered in cuneiform texts was ever used in Europe or for that matter anywhere in the world except in Mesopotamia, what direct relation exists between the Indian zero symbol and the recently discovered zero symbol ( which no one had found so far ), whether the symbols for 1 to 9 in India bear any resemblance to the Mesopotamian symbols for these numbers, whether the Greeks (who admittedly borrowed many things from Mesopotamia ) used the Mesopotamian zero symbol and, if so, when. The 19th century was distinguished by the theories of Western Scholars claiming that science, pbilosophy and arts began in Greece and that other nations borrowed these from the Greeks. That bubble of Greek primacy in these matters has now been pricked. The twentinth century appears to be heading for giving to Mesopotamia the place once assigned to the Greeks. The Mesopotamian bubble raised by some scholars may be pricked in course of time, particularly as regards others borrowing from them.
 
-Hindu Arabic Dumerals' by W. E, Clark, pp. 217-236 in Laoman Preseo tation volume and 'Hindu Arabic numerals' by Smith and Carspinki (1911).
+## Several methods of writing numerals
+
+It is most probably mentioned as Chandoviciti in the Āpastamba-dharmasūtra [^1103] Śabara [^1104] (about 200 A. D. and not later than 400 A. D.) speaks of Piṅgala's work as on the same level with Pāṇini's sūtra. It is unnecessary to offer further proofs of the antiquity of Piṅgala's sūtra.
+
+There were several methods of writing numerals. One was the place value notation, in which the same numeral has different values according to the place it occupies; for example, the figure two may have the value of only two or twenty or two hundred and so on according as it occupies the units place or tens place or hundreds place. Another way is that of employing words to denote complete numbers. This was a very reliable method when in astronomy huge figures had to be employed and works were not printed but only copied by hand. In ancient times, the writers of mss. might often omit zeros or other figures, but if words with a fixed meaning in relation to numbers were used, they would not be so easily dropped and as many works were metrical, the omission of a word, if any, might have been far more easily detected. It is difficult to say when this system was introduced. But its beginnings are ancient. For example, the word _kr̥ta_ -is used in the Taittiriya [^1105] Brāhmaṇa in the sense of 'four'. Varāhamihira (beginning of the 6th century A. D.) employs these word numerals but in the place value system (vide H. of Dh. vol. III, p. 897 n. 1763.) The following is a list of some of the very usual numbers with the corresponding words employed to indicate them. It should be noted that the list is not exhaustive. Any number of synonyms [^1106] may be employed to indicate the same number. Vide the lists in Alberuni ( Sachau, vol. I. pp. 174-179 ) and Bühler's 'Indian Paleography' (I. A. vol. 33; appendix pp. 83-86 ).
+
+[^1103]: षडङ्गो वेदः । छन्दःकल्पो व्याकरणं ज्योतिषं निरुक्तं शीक्षा छन्दोविचितिरिति । आप. ध. सू. II. 4. 8. 10-11.
+
+[^1104]: नहि वृद्धिशब्देन अपाणिनेर्व्यवहारत आदैचः प्रतीयेरन् पाणिनिकृतिमननुमन्य मानस्य वा। तथा मकारेणापिङ्गलस्य न सर्वगुरुस्त्रिकः प्रतीयेत पिङ्गलकृतिमननुमन्यमानस्य वा। शबर's भाष्य on पूर्वमीमांसासूत्र I. 1. 5. p. 54.
+
+[^1105]:  ये वै चत्वारः स्तोमाः कृतं तत् । तै. बा. I. 5. 11. 1.
+
+[^1106]: पर्यायशब्दैरपि कल्पनीयाः संख्याङ्कसंज्ञाः सुधिया धियासाम् ॥ मुहूर्तमाला I. 26 (MS in Bhau Daji Collection of the Bombay Asiatic Society). For example, it may be noted that the Amarakośa gives twenty-five synonyms for सर्प in one place, besides नाग and काद्रवेय mentioned elsewhere as divine beings. This work (in I. 17-25) gives a list of the important word numerals as follows : अङ्कानां वामतो गतिः ॥ 17 एक भूमीन्दुरूपं द्वावक्षिपक्षाक्षिदोर्यमाः । त्रयः क्रमग्रामराम पुरलोकगुणाग्नयः॥ 18 चत्वारोऽब्धिश्रुतियुगकृताः पञ्चेषुवायवः । भूताक्षौ षङ्ररसाङ्गर्तुतर्काः सप्तर्षयः स्वराः ॥ 19 तुरङ्गपर्वतौ चाष्टवसुसर्पमतङ्गजाः । नवसंख्या नन्दरन्ध्रनिधिगाऽकनभश्चराः ॥ 20 दशाशाः शून्यमभ्रं स्यादेकादशमहेश्वराः। द्वादशार्कास्तथा विश्वे त्रयोदश चतुर्दश ॥ 21 मन्विन्द्र भुवनं पञ्चदश तिथ्योऽथ षोडश । कलाष्टिराजोथात्यष्टिर्घनाः सप्तदश स्मृताः ॥ 22 अष्टादश धृतिश्वातिधृतिरेकोनविंशतिः। विंशतिः स्युः कृतिनखाङ्गुलयोऽथैकविंशतिः। 23 प्रकृतिर्मूर्च्छनास्वर्द्वा विंशतिर्जातिराकृतिः । जिनाः सिद्धाश्चतुर्विंशतिस्तत्त्वपञ्चविंशतिः ॥ 24 स्युः सप्तविंशतिर्भानि द्वात्रिंशद्दशना द्विजाः । त्रयस्त्रिंशत्सुरास्ताना ऊनपश्चाशदित्यपि ॥ 25.
+
+## Numerals indicated by words
+
+Zero--śūnya, kha, ambara (sky), gagana, abhra, ākāśa, bindu, pūrṇa. [^1107]
+One-eka, bhūmi ( earth ), indu ( the moon), rūpa, ādi, Viṣṇu.
+Two-dvi, akṣi or locana ( eye), pakṣa, Aśvin, dasra, dos or doṣan ( arm), bhuja, yama or yamala ( twins ).
+Three-tri, krama (from three steps of Viṣṇu in R̥g. I. 22. 18.I. 155. 5), grāma ( in music ), Rāma, pura ( cities burnt by Rudra ), loka ( earth, heaven and hell), guṇa ( sattva, rajas, tamas), agni (gārhapatya, āhavaniya and dakṣiṇāgni).
+Four--Catur, abdhi (ocean), kṛta, yuga, veda, śruti, varṇa (brāhmaṇa etc.)
+Five-pañcan, iṣu or śara (arrows of Madana), vāyu (prāṇa,apāna &c. ), bhūta (_pṛthvī_, waters, _tejas_, air, _ākāśa_), akṣa ( sense organ), indriya, Pāṇḍava or Pāṇḍu-suta.
+Six-Ṣaṭ, rasa ( sweet, acid, salt &c.), aṅga (the six auxiliary sciences of the Veda), ṛtu (seasons), tarka ( logical categories from _dravya to samavāya_), darśana (six systems of philosophy ).
+Seven-Saptan, ṛṣi or muni ( the seven sages), svara (niṣāda, ṛṣabha &c. in music), aśva ( seven horses of the Sun, who is called 'saptāśva' in R̥g. V. 45.9), giri, parvata ( Mahendra, Malaya, Sahya &c.), dhātū (elements of the body, viz. skin, blood &c. ).
+Eight--aṣṭan, vasu, sarpa (vide note 321 for eight nāgas ), maṅgala, mataṅgaja (elephants of eight quarters), siddhi ( aṇimā, laghimā &c. in yoga).
+
+[^1107]: Vide Pañcasiddhāntikā IV. 7 and 11, XVIII. 35 and 45 for śūnya, and IV, 8 for 'ambara '; Bhāskarācārya uses 'pūrṇa' for zero in saying that he was born in 'rasa-guṇa-pūrṇa-mahi' śaka year. Rūpa denoting one and _rasa_ 6 occur in ancient Bakhshali ms (vide I. A. vol. 17 at p. 35 ) which throughout employs the decimal system of notation, _Randhra_ ( opening) means 'nine' because there are nine openings in the human body, viz. the mouth, the two eyes, two ears, two nostrils, organ of generation and that of excretion; compare 'नवद्वारे पुरे देही नैव कुर्वन् न कारयन्' गीता V. 13; पुण्डरीकं नवद्वारं त्रिभिर्गुणेभिरावृतम् । अथर्ववेद X. 8. 48.
 
 
+Nine-navan, saṅkhyā (from 1 to 9), Nanda (nine Nanda kings), randhra or chidra, nidhi ( treasure, mahāpadma, saṅkha, makara &c.), anka ( numerals one to nine), go or graha or nabhaścara (planets ).
+Ten--daśan, pañkti, [^1107a] āśā or diśā (directions including _ūrdhva_ and _adhara_), avatāra, Rāvaṇa-śiras.
+Eleven--Ekādaśan, Maheśvara, Rudra.
+Twelve-dvādaśan, āditya, arka, sūrya, māsa.
+Thirteen-trayodaśan, Viśve ( viśve-devāḥ).
+Fourteen-caturdaśan, Manu, Indra, bhuvana ( worlds, bhūh &c. seven, and seven pātālas ).
+Fifteen-pañcadaśan, tithi.
+Sixteen-ṣoḍaśan, kalā (digits of the Moon), nṛpa or rājan [^1108] (kings), aṣṭi.
+Seventeen-- saptadaśan, atyaṣṭi.
+Eighteen-aṣṭādaśan, dhrti.
+Nineteen--ekonaviṁśati, atidhrti.
+Twenty-viṁśati, kr̥ti, nakha (nails ), aṅguli ( fingers of the hands and feet together ).
+Twentyone-ekaviṁśati, prakr̥ti, mūrchanā ( in music ).
+Twentytwo--dvāviṁśati, jāti, ākr̥ti.
+Twentyfour-caturviṁśati, Jina or siddha (24 Jain tirthaṅkaras).
+Twentyfive-pañcaviṁśati, _tattva_ ( 25 Sāṅkhya principles, vide note [^1092] ).
+Twentyseven-saptaviṁśati, bha, nakṣatra.
+Thirtytwo-dvātriṁśat, daśana or dvija ( both mean' teeth').
+Thirtythree--trayastriṁśat, sura ( gods ).
+Fortynine-ekonapañcāśat, tāna (notes in music).
 
-700
+The above method of employing particular significant words to denote certain numbers even in decimal place value system is largely employed by Varāhamihira in his Pañcasiddhāntikā (e. g. I. 8 in note 1004 above, VIII. 1)
 
+[^1107a] 'पङ्क्तिविंशतित्रिंशञ्चत्वारिंशत्पञ्चाशत्षष्टिस तत्यशीतिनवतिशतम् ।' पा. VI. 1.
 
-
-
-
-tions of man. There is a good deal of literature on this subject which is passed over here as not material for our purpose. One of the latest works on this system is · From Zero to Infinity' by Constance Reid (Routledge and Kegan Paul, London, 1956). Zero is the first of ten symbols with which one can represent an infinitude of numbers and it is also the first of the numbers. This work says that the zero escaped even the greatest Greeks, Pythagoras, Euclid and Archimedes (p. 4). The Egyptians 1102 had a decimal system of numerals but no sign for zero and therefore no positional notation, which even the Greeks did not know; ancient Babylonians also had no definite symbol for zero and there is no example of zero signs at the end of numbers even in their latest astronomical writings. It is difficult to say when exactly a symbol or word for zero was employed in India. But it must nave been several centuries before the beginning of the Christian era. Pingala's work on metres is a terlūnga. Pingala's sūtra on metres makes use of zero (śūnya ) in VIII. 28-31. Even the Śatapatha Br. (XI. 4. 3 20) seems to be aware of Vedāngas. But it may be argued that there is nothing to show that Piogala's work was known to it. It is most probably
-
-1102. Vide 'Legacy of Egypt' (Glanville p. 166), E S. A. by Neuge bauer p. 20, Sarton in 'a History of Science' p. 69; Prof. Neugebauer in JAOS. vol. 61 pp. 213-215 avers that strong arguments exist for the assump tion that the Babylonian methods of calculation weot, together with Greek Astronomy, to India, and that, sometime in the first centuries of the Christian era, the corresponding decimal place value Dotation in India, which through the Arabs gave rise to the modern system of Europe. With great respect the author must demur to these assertions, The learned writer endeavours to show that a peculiar sign was used for zero in Mesopotamian cuneiform texts. The important questions that must be answered are; who discovered the symbol for zero now used almost throughout the world, whether the so-called sign for zero which Prof. Neugebauer asserts he has discovered in cuneiform texts was ever used in Europe or for that matter any. where in the world except in Mesopotamia, what direct relation exists between the Indian zero symbol and the recently discovered zero symbol ( which no one had found so far ), whether the symbols for 1 to 9 in India bear any resemblance to the Mesopotamian symbols for these numbers, whether the Greeks (who admittedly borrowed many tbiogs from Meso potamia ) used the Mesopotamian zero symbol and, if so, when. The 19th century was distinguished by the theories of Western Scholars claiming that science, pbilosophy and arts began in Greece and that other nations borrowed these from the Greeks. That bubble of Greek primacy in these matters has now been pricked. The twentinth century appears to be heading for giviog to Mesopotamia the place once assigned to the Greeks. The Mesopotamian bubble raised by some scholars may be pricked in course of time, particularly as regards others borrowing from them.
-
-Several methods of writing numerals
-
-701
-
-mentioned as Chandoviciti in the Āpastamba-dharmasūtra 1103 Sabara 1104 ( about 200 A. D. and not later than 400 A. D.) speaks of Pingala's work as on the same level with Pāṇini's sūtra. It is unnecessary to offer further proofs of the antiquity of Pingala's sūtra.
-
-There were several methods of writing numerals. One was the place value notation, in which the same numeral has different values according to the place it occupies; for example, the figure two may have the value of only two or twenty or two hundred and so on according as it occupies the units place or tens place or hundreds place. Another way is that of employing words to denoto complete numbers. This was a very reliable method when in astronomy huge figures had to be employed and works were not printed but only copied by hand. In ancient times, the writers of mss. might often omit zeros or other figures, but if words with a fixed meaning in relation to numbers were used, they would not be so easily dropped and as many works were metrical, the omission of a word, if any, might have been far more easily detected. It is difficult to say when this system was introduced. But its beginnings are ancient. For example, the word krta -is used in the Taittiriya 1105 Brāhmaṇa in the sense of 'four'. Varāhamihira (beginning of the 6th century A. D. I employs these word numerals but in the place value system (vide H. of Dh. vol. III, p. 897 n. 1763.) The following is a list of some of the very usual numbers with the corresponding words employed to indicate them It should be noted that the list is not exhaus tive. Any number of synonyms 1106 may be employed to indicate the same number. Vide the lists in Alberuni ( Sachau, vol. I. pp. 174-179 ) and Bühler's 'Indian Paleography' (I. A. vol. 33; appendix pp. 83-86 ).
-
-1103. TEFI : 17: 41 Ut selagi PG Şīla graneratara i 3719. U. E. II. 4. 8. 10-11.
-
-1104. नहि वृद्धिशब्देन अपाणिनेर्व्यवहारत आदेचः प्रतीयेरन् पाणिनिकृतिमननुमन्य मानस्य वा। तथा मकारेणापिङ्गलस्य न सर्वगुरुनिकः प्रतीयत पिङ्गलकृतिमननुमन्यमानस्य वा।
-
-T'S 764 on AHTAIATEH I. 1. 5. p. 54.
-
-1105. TETT: FIAT: mi aqia. a. I. 5. 11. 1. 1106. Tofaṣerit eficariat:
-
-H ū ṣTT: AT THE 11 SATT I. 26 (MS in Bhag Daji Collection of the Bombay Asiatic Society), for example, it may be noted tbat the Amarakosa gives twenty-five synonyms for ori in one place, besides an and a mentioned elsewhere as divine beings. This work (in I. 17-25) gives a list of the important word oumerals as follows: fra i fa: 1 17 images agrareruniHEIGHT: 1 TT: HITACITA
-
-( Continued on next page)
-
-702
-
-History of Dhurmaśāstra (Soc. II, Ch. XIX Zero--sūnya, kha, ambara (sky), gagana, abhra, ākāśa, bindu,
-
-pārṇa. 1107 One-eka, bhūmi ( earth ), indu ( the moon), rūpa, ādi, Viṣṇu. Two-dvi, aksi or locana ( eye), pakṣa, Asvin, dasra, dos or
-
-doṣan ( arm), bhuja, yama or yamala ( twins ). Three-tri, krama (from three steps of Viṣṇu in R̥g. I. 22. 18.
-
-I. 155. 5), grāma ( in music ), Rāma, pura ( cities burnt by Rudra ), loka ( earth, heaven and hell), guṇa ( sattva, rajas, tamas), agni (garhapatya, āhavaniya and
-
-dakṣiṇāgni). Four--Catur, abdhi (ocean), krta, yuga, veda, śruti, varpa
-
-(brāhmaṇa etc.) Five-pañcan, isu or śara (arrows of Madana), vāyu (prāna,
-
-apāna &c. ), bhūta ( prthvī, waters, tejas, air, ākāśa ),
-
-aksa ( sense organ), indriya, Pāṇdava or Pāndu-suta. Six-Sat, rasa ( sweet, acid, salt &c.), anga (the six auxiliary
-
-sciences of the Veda), itu (seasons), tarka ( logical categories from drarya to samarāya ), darśana (six
-
-systems of philosophy ). Seven-Saptan, rṣi or muni ( the seven sages), svara (niṣāda,
-
-rṣabha &c. in music), aśya ( seven horses of the Sun, who is called 'saptāśva' in R̥g. V. 45.9), giri, parvata ( Mahendra, Malaya, Sahya &c.), dhātū (elements of
-
-the body, viz. skin, blood &c. ). Eight--astan, vasu, sarpa (vide note 321 for eight nāgas ),
-
-mangala, matangaja (elephants of eight quarters), siddhi ( aṇimā, laghimā &c. in yoga).
-
-( Continued from last page ) पुरलोकगुणाग्नयः॥ 18 चत्वारोऽन्धिश्रुतियुगकृताः पञ्चेषुवायवः । भूताक्षी षड्रसाङ्गर्तुतर्काः सप्तर्षयः Frer: 1| 19 açu ETAAZET: FÅETT 7ER FUGTIS HITT: 11 20 दशाशाः शून्यमभ्रं स्यादेकादशमहेश्वराः। द्वादशाकस्तिथा विश्वे त्रयोदश चतुर्दश ॥ 21 मन्विन्द्र भुवनं पञ्चदश तिश्योऽध षोडश । कलाष्टिराजोधात्यष्टिर्घनाः सप्तदश स्मृताः ॥ 22 अष्टादश धृति श्वातिधृतिरेकोनविंशतिः। विंशतिः स्युः कृतिनखाङ्गलयोऽधकविंशतिः। 23 प्रकृतिर्मूर्च्छनास्वा विंशतिर्जातिराकृतिः । जिनाः सिद्धाश्चतुर्विशतिस्तत्वपञ्चविंशतिः ॥ 24 स्युः सप्तविंशति नि द्वात्रिंशदशना द्विजाः । त्रयस्त्रिंशत्सुरास्ताना ऊनपश्चाशदित्यपि ॥ 25,
-
-1107. Vide Pancasiddhantikā IV. 7 and 11, XVIII. 35 and 45 for śūnya, and IV, 8 for 'ambara '; Bhāskarācārya uses pūrna' for zero in saying that he was born in 'rasa-guna-pūrna-mahi' saka year. Rūpa de. noting one and rasa 6 occur in ancient Bakhshali ms (vide I. A. vol. 17 at p. 35 ) which throughout employs the decimal system of notation, Randhra ( openiag) means ' nine' because there are nine openings in the human body, viz. the mouth, the two eyes, two ears, two nostrils, organ of generation and that of excretion; compare 'नवद्वारे पुरे देही नैव कुर्वन् न कारयन्'
-
-fiat V. 13; gustia er fariTTi ruha X. 8. 48.Numerals indicated by words
-
-703
-
-Nine-navan, sankhyā (from 1 to 9), Nanda (nine Nanda kings),
-
-randhra or chidra, nidhi ( treasure, mahāpadma, sankha, makara &c.), anka ( numerals one to nine), go or graha
-
-or nabhascara (planets ). Ten--daśan, pankti, 1107a āśā or diśā (directions including ūrdhia
-
-and arthara ), avatāra, Rāvana-siras. Eleven--Ekādaśan, Maheśvara, Rudra. Twelve-dyādasan, āditya, arka, sūrya, māsa. Thirteen-trayodasan, Viśve ( viśve-devāḥ). Fourteen-caturdaśan, Manu, Indra, bhuvana ( worlds, bhūh &c.
-
-seven, and seven pātālas ), Fifteen-pañcadaśan, tithi. Sixteen-sodaśan, kalā (digits of the Moon), nṛpa or rājan 1108
-
-(kings), asti. Seventeen sapta dasan, atyaṣti. Eighteen-astādaśan, dhrti. Nineteen--ekonavimśati, atidhrti. Twenty-vimsati, krti, nakha (nails ), anguli ( fingers of the
-
-hands and feet together ). Twentyone-rekavimśati, praksti, mūrchanā ( in music ). Twentytwo--dvāvimśati, jāti, āksti. Twentyfour-caturvinsati, Jina or siddha (24 Jain tirthankaras). Twentyfive-pañcaviinsati, tuttua ( 25 Sāṅkhya principles, vide
-
-note [^1092] ). Twentyseven-saptavimsati, bha, naksatra. Thirtytwo-dyātrimsat, daśana or dvija ( both mean' teeth'). Thirtythree--trayastrimsat, sura ( gods ). Fortynine-ekonapañcāśat, tāna ( notes in music ).
-
-The above method of employing particular significant words to denote certain numbers even in decimal place value system is largely enployed by Varāhamihira in his Pancasiddhāntikā (e. g. I. 8 in note 1004 above, VIII. 1)
-
-1107 a, 'Terhi Tara tra tare Facesittaa razrag i M. VI, 1. 59.
-
-1108. There is a gamisrita section in ziongchap. 55-71 (16 ancient kings aamed Marutta, Suhotra, Paurava &c.). Asti is a Vedic metre, each of its four pādas having 16 letters as in R̥g. II. 22.1; Atyasti is another Vedic metre with 68 letters in four pādas; Dhrti, Atidbrti, Kști, Prakrti, and Akrti bave respectively 72, 76, 80, 84, 88 letters in all pādas, The RI prātiśākhya ( 16. 83-90) says 3 TEATRie: I gatSETSTEET: piat: tant द्विसप्ततिः । षट्सप्ततिस्त्वतिधृतिः । कृतिः प्रकृतिराकृतिविकृतिः सकृतिस्तथा । पटी चाभि. Hath Herrera 4 373itja saa sitatertaga: 1.... ed. by Mangal Deva
+[^1108]. There is a gamisrita section in ziongchap. 55-71 (16 ancient kings aamed Marutta, Suhotra, Paurava &c.). Asti is a Vedic metre, each of its four pādas having 16 letters as in R̥g. II. 22.1; Atyasti is another Vedic metre with 68 letters in four pādas; Dhrti, Atidbrti, Kști, Prakrti, and Akrti bave respectively 72, 76, 80, 84, 88 letters in all pādas, The RI prātiśākhya ( 16. 83-90) says 3 TEATRie: I gatSETSTEET: piat: tant द्विसप्ततिः । षट्सप्ततिस्त्वतिधृतिः । कृतिः प्रकृतिराकृतिविकृतिः सकृतिस्तथा । पटी चाभि. Hath Herrera 4 373itja saa sitatertaga: 1.... ed. by Mangal Deva
 
 Shastri, Allababad (1931 ).
 
@@ -282,9 +201,9 @@ Shastri, Allababad (1931 ).
 
 
 
-and in Brhat-sambitā 8. 20 and by all later astronomical writers. 1109 The particular matter to be noted is that the first word in a group ( denoting a number ) is to be assigned to the units place, the next to its left in the tens place, so that a word like 'saptāśvi-veda-sankhyam' becomes 4:7 (by the rule 'ankānām vāmato gatih').
+and in Brhat-sambitā 8. 20 and by all later astronomical writers. [^1109] The particular matter to be noted is that the first word in a group ( denoting a number ) is to be assigned to the units place, the next to its left in the tens place, so that a word like 'saptāśvi-veda-sankhyam' becomes 4:7 (by the rule 'ankānām vāmato gatih').
 
-Another method for expressing numbers is elaborated by Āryabhata in his Daśagitikāpāda 1119 ( verse 3) where the letters from k ( kā also ) to m have the values of 1 to 25, while y'i, ru, la, va, śa, șa, sa and ha stand for 30, 40, 50, 60, 70, 80, 90 and 100 and so on towards more complicated matters.
+Another method for expressing numbers is elaborated by Āryabhata in his Daśagitikāpāda [^1119] ( verse 3) where the letters from k ( kā also ) to m have the values of 1 to 25, while y'i, ru, la, va, śa, șa, sa and ha stand for 30, 40, 50, 60, 70, 80, 90 and 100 and so on towards more complicated matters.
 
 The fourth anga in a pancānga is called Yoga. There is no direct astronomical phenomena corresponding to it. It is calculated from the suin of the longitudes of the Sun and the Moon (or it is the time during which the sun and the moon together accomplish 13 degrees and 20 minutes of space). When this amounts to degrees 13. 20 the first Yoga called Viskambha ends; when it amounts to 26. 40 the 2nd Yoga Prīti ends and so on. The yogas are 27 ( that thus make 360 degrees ) as stated
 
@@ -304,9 +223,9 @@ Name Deity 1. Viskambha — Yama. 15. Vajra - Varuṇa. 2. Priti - Vispu.
 
 26. Aindra – Pitrs. 13. Vyāghāta - Pavana. 27. Vaidhrti - Aditi. 14. Harsana- Rudra.
 
-1109, How Deatly huge numbers can be indicated by words may be illustrated by the FT. I, 28 TEREMTETTET: Tietra: H HT: TETHETa Falklara TAT:19. These come to 1972947179 days.
+[^1109], How Deatly huge numbers can be indicated by words may be illustrated by the FT. I, 28 TEREMTETTET: Tietra: H HT: TETHETa Falklara TAT:19. These come to 1972947179 days.
 
-1110. The Dasagitikā verse 3 has been differently interpreted by different scholars. Vide Fleet in JRAS in 1911 pp. 109–128 for Āryabhaṭa's system and pp. 115-125 for explanation of the verse.
+[^1110]. The Dasagitikā verse 3 has been differently interpreted by different scholars. Vide Fleet in JRAS in 1911 pp. 109–128 for Āryabhaṭa's system and pp. 115-125 for explanation of the verse.
 
 Ever-recurring yogas
 
@@ -314,19 +233,19 @@ Ever-recurring yogas
 
 .
 
-These are nitya (ever-recurring) Yogas. The Ratnamala states that they yield good or bad results in keeping with their names. The Muhurtadarśana 1111 states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyaghata, Vaidhrti, Viskambha, Sula, Ganda1112 and Atiganda. The Ratnarnālā provides that Vyatipāta and Vaidhști aro wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viskambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Ganda and Atiganda. The Agnipurana 1113 (127. 1-2) has similar verses. The Kālanirṇaya-kārikā 1114 provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter ( of two days ) provided the Yoga exists for three
+These are nitya (ever-recurring) Yogas. The Ratnamala states that they yield good or bad results in keeping with their names. The Muhurtadarśana [^1111] states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyaghata, Vaidhrti, Viskambha, Sula, Ganda[^1112] and Atiganda. The Ratnarnālā provides that Vyatipāta and Vaidhști aro wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viskambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Ganda and Atiganda. The Agnipurana [^1113] (127. 1-2) has similar verses. The Kālanirṇaya-kārikā [^1114] provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter ( of two days ) provided the Yoga exists for three
 
 muhūrtas (i. e. six ghaṭis) after sunrise and for sraddha the day on which the Yoga extends over the time required for the śrāddha rite should be accepted,
 
 The system of Yogas must be held to be ancient. The Yājña valkyasmr̥ti (I. 218) when specifying the times for the perfor mance of śrāddhas includes Vyatīpāta among them. In the Harṣacarita of Bāṇa it is said ( Ucchrāsa IV) that Harsa was born on a day free from the taint of all defects such as Vyatipāta (vyatīpātādi-sarvadosābhiṣanga-rahiteshani). There would gene rally be 13 vyatipātas in a year ( sometimes 14 ) and, among the 96 śrāddhas, śrāddhas on these thirteen vyatipātas are
 
-1111. निन्द्यन्ते नित्ययोगेण्वपि नव परिधः सव्यतीपातवजो व्याघातो वैधृतिश्च प्रथम परिवृताः शूलगण्डातिगण्डाः । मुहूर्तदर्शन II. 16.
+[^1111]. निन्द्यन्ते नित्ययोगेण्वपि नव परिधः सव्यतीपातवजो व्याघातो वैधृतिश्च प्रथम परिवृताः शूलगण्डातिगण्डाः । मुहूर्तदर्शन II. 16.
 
-1112. विरुद्धसंज्ञा इह ये च योगास्तेषामनिष्टः खलु पाद आद्यः । सवैधृतिस्तु व्यतिपात नामा सर्वोप्यनिष्टः परिघस्य चार्धम् ॥ तिम्रस्तु योगे प्रथमे सवजे व्याघातसंज्ञे नव पञ्च शूले। गण्डातिगण्डे च षडेव नाड्यः शुभेषु कार्येषु परिवर्जनीयाः ॥ रत्नमाला IV. 4-5.
+[^1112]. विरुद्धसंज्ञा इह ये च योगास्तेषामनिष्टः खलु पाद आद्यः । सवैधृतिस्तु व्यतिपात नामा सर्वोप्यनिष्टः परिघस्य चार्धम् ॥ तिम्रस्तु योगे प्रथमे सवजे व्याघातसंज्ञे नव पञ्च शूले। गण्डातिगण्डे च षडेव नाड्यः शुभेषु कार्येषु परिवर्जनीयाः ॥ रत्नमाला IV. 4-5.
 
-1113. विष्कम्भे घटिकास्तिस्रः शूले पञ्च विवर्जयेत् । षषड् गण्डेऽतिगण्डे च नव ग्याघातवज्जयोः॥ परिये च व्यतीपाते उभयोरपि तद्दिनम् ॥ वैधृतो तहिनं चैव यात्रायुद्धादिक त्यजेत् ॥ अग्निपु० 127. 1-2.
+[^1113]. विष्कम्भे घटिकास्तिस्रः शूले पञ्च विवर्जयेत् । षषड् गण्डेऽतिगण्डे च नव ग्याघातवज्जयोः॥ परिये च व्यतीपाते उभयोरपि तद्दिनम् ॥ वैधृतो तहिनं चैव यात्रायुद्धादिक त्यजेत् ॥ अग्निपु० 127. 1-2.
 
-1114. पूर्वः स्यादपवासादावुत्तरो व्रतदानयोः । योगः श्राद्धे कर्मकालव्याप्तस्तु परिगृह्य ताम् ॥ कालनिर्णयकारिका 108-109 ; योगेषु तु कस्यचिल्लिङ्गस्य पूर्वेधुनिशीथमावग्याप्ति प्रत्यसूचकत्वात्सायंकालादिच्याप्ति ह्या । यदि योगः पूर्वेधुनिशीथमा म्यामयात् तदापरेधरहनि पारणं प्राप्नुयात्, रात्री पारणस्य निषिद्धत्वात् । तस्माद्विष्कम्भादियोगे उपवासादौ पूर्वविद्धो ग्रहीतव्यः, दानव्रतयोरुदयव्यापी ग्राहः, श्राद्धस्य तु कर्मकालव्यापी-इति निर्णेतन्यम् । काल निर्णय pp. 329-330.
+[^1114]. पूर्वः स्यादपवासादावुत्तरो व्रतदानयोः । योगः श्राद्धे कर्मकालव्याप्तस्तु परिगृह्य ताम् ॥ कालनिर्णयकारिका 108-109 ; योगेषु तु कस्यचिल्लिङ्गस्य पूर्वेधुनिशीथमावग्याप्ति प्रत्यसूचकत्वात्सायंकालादिच्याप्ति ह्या । यदि योगः पूर्वेधुनिशीथमा म्यामयात् तदापरेधरहनि पारणं प्राप्नुयात्, रात्री पारणस्य निषिद्धत्वात् । तस्माद्विष्कम्भादियोगे उपवासादौ पूर्वविद्धो ग्रहीतव्यः, दानव्रतयोरुदयव्यापी ग्राहः, श्राद्धस्य तु कर्मकालव्यापी-इति निर्णेतन्यम् । काल निर्णय pp. 329-330.
 
 H. D. 89
 
@@ -336,19 +255,19 @@ H. D. 89
 
 (Soc. II. Ch. XIX
 
-included (vide H. of Dh. vol. IV pp. 382-383 and note 861 ). Besides these 27 Yogas, there are others that occur when there are special conjunctions of weekdays with certain tithis and naksatras or when certain planets occupy certain rāśis on certain tithis and nakṣatras. For Kapilāṣasthiyoga and Ardho daya, vide above pp. 279 and 261. Vyatipāta itself has two technical senses apart from being 17th out of the 27 Yogas mentioned above viz. (1) When amāvāsyā 1115 occurs on a Sunday and the moon is in the first quarter on any one of the nakṣatras Sravaṇa, Aśvini, Dhanisthā, Ārdrā and Āśleṣā that is Vyatīpāta; (2) When on the 12th of the bright half Jupiter and Mars are in the sign Lion, the Sun is in Ram and when that tithi has Hasta naksatra on it, it is Vyatipāta 1116 Yoga. These two are sometimes called Mahāvyatipāta. Gifts made on those conjunc tions are very much commended ;1117 'gifts on amāvāsyā yield one hundred-fold merit, on the suppression of a tithi a thousand-fold, on Visuva day ten thousand-fold, buton Vyatīpāta endless (merit). By gifts of cows, land, gold and clothes made on this the donor becomes free from sin and secures godhead, the position of Indra, health, the rulership of men. 1118 The Sūryasiddhānta (XI. 1-2) gives an explanation of Vyatipāta and Vaidhrta1119 (or Vaidhrti). when the sun and the moon are on the same side of either solstice and when the sum of their longitudes being a circle they are of equal declination it is styled Vaidhști. When the moon and the sun are on opposite sides of either solstice and their minutes of declination are the same, it is Vyatīpāta, the sum of their
+included (vide H. of Dh. vol. IV pp. 382-383 and note 861 ). Besides these 27 Yogas, there are others that occur when there are special conjunctions of weekdays with certain tithis and naksatras or when certain planets occupy certain rāśis on certain tithis and nakṣatras. For Kapilāṣasthiyoga and Ardho daya, vide above pp. 279 and 261. Vyatipāta itself has two technical senses apart from being 17th out of the 27 Yogas mentioned above viz. (1) When amāvāsyā [^1115] occurs on a Sunday and the moon is in the first quarter on any one of the nakṣatras Sravaṇa, Aśvini, Dhanisthā, Ārdrā and Āśleṣā that is Vyatīpāta; (2) When on the 12th of the bright half Jupiter and Mars are in the sign Lion, the Sun is in Ram and when that tithi has Hasta naksatra on it, it is Vyatipāta [^1116] Yoga. These two are sometimes called Mahāvyatipāta. Gifts made on those conjunc tions are very much commended ;[^1117] 'gifts on amāvāsyā yield one hundred-fold merit, on the suppression of a tithi a thousand-fold, on Visuva day ten thousand-fold, buton Vyatīpāta endless (merit). By gifts of cows, land, gold and clothes made on this the donor becomes free from sin and secures godhead, the position of Indra, health, the rulership of men. [^1118] The Sūryasiddhānta (XI. 1-2) gives an explanation of Vyatipāta and Vaidhrta[^1119] (or Vaidhrti). when the sun and the moon are on the same side of either solstice and when the sum of their longitudes being a circle they are of equal declination it is styled Vaidhști. When the moon and the sun are on opposite sides of either solstice and their minutes of declination are the same, it is Vyatīpāta, the sum of their
 
-1115. Tonaufanfarrean FET I ET Taitot zerre: \#azell
+[^1115]. Tonaufanfarrean FET I ET Taitot zerre: \#azell
 
 AE G. by 31 p. 426, HTC (on 5 ) p. 673, kala. II. 341 (without name), कालविवेक 364 (no names). The स्मृतिच. holds that मस्तक means मृगशिरम् , while हेमाद्रि and कालविवेक take it to mean the first quarter and connect it with all the preceding naksatras, TTTM 209. 13 is almost the same as वृद्धमनु.
 
-__1116. पञ्चाननस्थौ गुरुभूमिपुत्रौ मेषे रविः स्याद्यदि शुक्लपक्षे। पाशाभिधाना करभेन Thit farematura gale TNT: 1 q. by gang on To P. 673, Firsraami P. 364.
+__[^1116]. पञ्चाननस्थौ गुरुभूमिपुत्रौ मेषे रविः स्याद्यदि शुक्लपक्षे। पाशाभिधाना करभेन Thit farematura gale TNT: 1 q. by gang on To P. 673, Firsraami P. 364.
 
-1117, para r i FX o farti Age ETHIET cardiga sam लघुशातातप 150 quoted as व्यास's by अपरार्क p. 292 and as याज्ञवल्क्य's by हेमाद्रि (on pio) p. 672.
+[^1117], para r i FX o farti Age ETHIET cardiga sam लघुशातातप 150 quoted as व्यास's by अपरार्क p. 292 and as याज्ञवल्क्य's by हेमाद्रि (on pio) p. 672.
 
-1118. अस्मिन्हि गोभूमिहिरण्यवनदानेन सर्व प्रविहाय पापम् । सुरत्वमिन्द्रत्वमनामयत्वं माधिपत्यं लभते मनुष्यः q. by हे. (on काल) pp. 673-674.
+[^1118]. अस्मिन्हि गोभूमिहिरण्यवनदानेन सर्व प्रविहाय पापम् । सुरत्वमिन्द्रत्वमनामयत्वं माधिपत्यं लभते मनुष्यः q. by हे. (on काल) pp. 673-674.
 
-1119. एकायनगतौ स्याता सूर्याचन्द्रमसौ यदा। तद्यतौ मण्डले क्रान्त्योस्तुल्यत्वे वैधृता भिधः ॥ विपरीतायनगतौ चन्द्रार्को क्रान्तिलिप्तिकाः। समास्तदा व्यतीपातो भगणाधै तयोर्युतौ।
+[^1119]. एकायनगतौ स्याता सूर्याचन्द्रमसौ यदा। तद्यतौ मण्डले क्रान्त्योस्तुल्यत्वे वैधृता भिधः ॥ विपरीतायनगतौ चन्द्रार्को क्रान्तिलिप्तिकाः। समास्तदा व्यतीपातो भगणाधै तयोर्युतौ।
 
 LUTRITT XI. 1-2.
 
@@ -358,11 +277,11 @@ Vyatipāta and Vaidhsti
 
 longitudes being a half circle. Why the times mentioned should be looked upon as specially inauspicious or unfortunate is not at all clear and no plausible reason has been assigned. The 27th Yoga called Vaidhrti was just like Vyatīpāta in all respects. Bharadvāja says that the merit of gifts made on Vyatipāta and Vaidhrti is endless.
 
-In the pancangas several Yogas (that have nothing to do with the 27 yogas ) like Amrtasiddhi, Yamaghanta, Dagdhayoga, Mrtyuyoga, Ghabāda are mentioned; they are purely astrological and all of them except three are passed over here for reasons of space. When on Sunday there is Hasta, on Monday Mļgaśirsa, on Tuesday Aśvini, on Wednesday Anurādha, on Thursday Tiṣya (i. e. Pusya ), on Friday Revati and on Saturday Rohini, all these are Amṛtasiddhiyogas (fortunate ones 1120 ). Avoid Anu rādhā on Sunday, Uttarāsādhā on Monday, Satatārakā on Tuesday, Aśvini on Wednesday, Mrgaśīrṣa on Thursday, Aślosa on Friday and Hasta on Saturday-- these are seven Mṛtyuyogas (inauspicious ). If the weekdays from Sunday to Saturday occur on the tithis, 12th, 11th, 10th, 3rd, 6th, 2nd, 7th respec tively, these are Dagdhayogas ( inauspicious yogas).
+In the pancangas several Yogas (that have nothing to do with the 27 yogas ) like Amrtasiddhi, Yamaghanta, Dagdhayoga, Mrtyuyoga, Ghabāda are mentioned; they are purely astrological and all of them except three are passed over here for reasons of space. When on Sunday there is Hasta, on Monday Mļgaśirsa, on Tuesday Aśvini, on Wednesday Anurādha, on Thursday Tiṣya (i. e. Pusya ), on Friday Revati and on Saturday Rohini, all these are Amṛtasiddhiyogas (fortunate ones [^1120] ). Avoid Anu rādhā on Sunday, Uttarāsādhā on Monday, Satatārakā on Tuesday, Aśvini on Wednesday, Mrgaśīrṣa on Thursday, Aślosa on Friday and Hasta on Saturday-- these are seven Mṛtyuyogas (inauspicious ). If the weekdays from Sunday to Saturday occur on the tithis, 12th, 11th, 10th, 3rd, 6th, 2nd, 7th respec tively, these are Dagdhayogas ( inauspicious yogas).
 
 The fifth item in a pañcā nga is Karana. Half of a tithi is Karaña and thus there are two Karapas in a tithi and 60 Karanas in a lunar month. Karanas are of two kinds, viz, cara (moving) and sthira ( immoveable). The seven cara karañas with their presiding deities according to Brhatsamhitā, chap. 99. 1-2 are: 1. Bava-Indra; 2. Bālava-Brahmā; 3 Kaulava-Mitra; 4. Taitila-Aryaman; 5. Gara ( or Garaja )- Earth; 6. Vanija Śrī; 7. Visti-Yama. The four sthira karaṇas with their deitieg are : 1. Sakuni --Kali; 2. Catuspada - Vrsa; 3. Nāga-snake; 4. Kimstughna-Vāyu. Some works transpose the two, Catuspada and Nāga. This division of a tithi into two halves resembles the division of a rāśi into two horās (Brbajjātaka I. 9). It is likely that one was suggested by the other. The difficulty is to decide which was the earlier. I believe it likely that the division of tithis into two karapas is the earlier of the two. The sthira karapas occur only once in a month i. e, on the latter half of
 
-___1120. हस्तो रवी शशधरे च सूगोत्तमा भौमेऽश्विनी उधदिने च तथानुराधा। तिव्यो गुरौ wara logra trieuqurasaran UTM:N THAIST VIII. 8 (ms.); 6971 VāHETTE fata o Ha targar Tanzati gl FTAR wadi Tagaamo E eu favor p. 31 verse 126:
+___[^1120]. हस्तो रवी शशधरे च सूगोत्तमा भौमेऽश्विनी उधदिने च तथानुराधा। तिव्यो गुरौ wara logra trieuqurasaran UTM:N THAIST VIII. 8 (ms.); 6971 VāHETTE fata o Ha targar Tanzati gl FTAR wadi Tagaamo E eu favor p. 31 verse 126:
 
 आदित्यसद्रिकाष्ठांग्निरसपक्षतुरङ्गमाः। अर्कादिवारयोगेन दान्ते तिथयः क्रमात् ॥ मुजपलनिवन्ध p. 28 verse 114.
 
