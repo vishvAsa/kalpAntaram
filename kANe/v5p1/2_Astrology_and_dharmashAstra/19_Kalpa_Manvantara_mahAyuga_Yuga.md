@@ -187,99 +187,73 @@ Thirtytwo-dvātriṁśat, daśana or dvija ( both mean' teeth').
 Thirtythree--trayastriṁśat, sura ( gods ).
 Fortynine-ekonapañcāśat, tāna (notes in music).
 
-The above method of employing particular significant words to denote certain numbers even in decimal place value system is largely employed by Varāhamihira in his Pañcasiddhāntikā (e. g. I. 8 in note 1004 above, VIII. 1)
-
-[^1107a] 'पङ्क्तिविंशतित्रिंशञ्चत्वारिंशत्पञ्चाशत्षष्टिस तत्यशीतिनवतिशतम् ।' पा. VI. 1.
-
-[^1108]. There is a gamisrita section in ziongchap. 55-71 (16 ancient kings aamed Marutta, Suhotra, Paurava &c.). Asti is a Vedic metre, each of its four pādas having 16 letters as in R̥g. II. 22.1; Atyasti is another Vedic metre with 68 letters in four pādas; Dhrti, Atidbrti, Kști, Prakrti, and Akrti bave respectively 72, 76, 80, 84, 88 letters in all pādas, The RI prātiśākhya ( 16. 83-90) says 3 TEATRie: I gatSETSTEET: piat: tant द्विसप्ततिः । षट्सप्ततिस्त्वतिधृतिः । कृतिः प्रकृतिराकृतिविकृतिः सकृतिस्तथा । पटी चाभि. Hath Herrera 4 373itja saa sitatertaga: 1.... ed. by Mangal Deva
-
-Shastri, Allababad (1931 ).
-
-704
 
 
+[^1107a]: 'पङ्क्तिविंशतित्रिंशञ्चत्वारिंशत्पञ्चाशत्षष्टिसप्तत्यशीतिनवतिशतम् ।' पा. VI. 1.
 
+[^1108]: There is a 'षोडशराजकीय' section in द्रोणपर्व chap. 55-71 (16 ancient kings named Marutta, Suhotra, Paurava &c. ) Aṣṭi is a Vedic metre, each of its four pādas having 16 letters as in R̥g. II. 22.1; Atyaṣṭi is another Vedic metre with 68 letters in four pādas; Dhr̥ti, Atidhr̥ti Kr̥ti, Prakr̥ti, and ākr̥ti have respectively 72, 76, 80, 84, 88 letters in all pādas, The R̥kprātiśākhya ( 16. 83-90) says उत्तराष्टिश्वतुषष्टिः । ततोऽष्टाषष्टिरस्यष्टिः । धृतिः पूर्वा द्विसप्ततिः । षट्सप्ततिस्त्वतिधृतिः । कृतिः प्रकृतिराकृतिर्विकृतिः सङ्कृतिस्तथा । षष्ठी चाभिकृतिर्नाम सप्तम्युत्कृतिरुच्यते । अशीतिश्चतुरशीतिरष्टाशीतिर्द्विनवतिः ।.... ed by Mangal Deva Shastri, Allahabad (1931).
 
+The above method of employing particular significant words to denote certain numbers even in decimal place value system is largely employed by Varāhamihira in his Pañcasiddhāntikā (e. g. I. 8 in note 1004 above, VIII. 1) and in Br̥hat-samhitā 8. 20 and by all later astronomical writers. [^1109] The particular matter to be noted is that the first word in a group (denoting a number) is to be assigned to the units place, the next to its left in the tens place, so that a word like 'saptāśvi-veda-saṅkhyam' becomes 427 (by the rule 'ankānām vāmato gatiḥ').
 
-and in Brhat-sambitā 8. 20 and by all later astronomical writers. [^1109] The particular matter to be noted is that the first word in a group ( denoting a number ) is to be assigned to the units place, the next to its left in the tens place, so that a word like 'saptāśvi-veda-sankhyam' becomes 4:7 (by the rule 'ankānām vāmato gatih').
+Another method for expressing numbers is elaborated by Āryabhaṭa in his Daśagitikāpāda [^1110] ( verse 3) where the letters from _k_ ( kā also ) to _m_ have the values of 1 to 25, while _ya, ra, la, va, śa, șa, sa and ha_ stand for 30, 40, 50, 60, 70, 80, 90 and 100 and so on towards more complicated matters.
 
-Another method for expressing numbers is elaborated by Āryabhata in his Daśagitikāpāda [^1119] ( verse 3) where the letters from k ( kā also ) to m have the values of 1 to 25, while y'i, ru, la, va, śa, șa, sa and ha stand for 30, 40, 50, 60, 70, 80, 90 and 100 and so on towards more complicated matters.
+The fourth _aṅga_ in a pañcāṅga is called _Yoga_. There is no direct astronomical phenomena corresponding to it. It is calculated from the sum of the longitudes of the Sun and the Moon (or it is the time during which the sun and the moon together accomplish 13 degrees and 20 minutes of space). When this amounts to degrees 13.20 the first Yoga called Viskambha ends; when it amounts to 26.40 the 2nd Yoga Prīti ends and so on. The yogas are 27 ( that thus make 360 degrees ) as stated in the Ratnamālā IV. 1-3 and are as follows :
 
-The fourth anga in a pancānga is called Yoga. There is no direct astronomical phenomena corresponding to it. It is calculated from the suin of the longitudes of the Sun and the Moon (or it is the time during which the sun and the moon together accomplish 13 degrees and 20 minutes of space). When this amounts to degrees 13. 20 the first Yoga called Viskambha ends; when it amounts to 26. 40 the 2nd Yoga Prīti ends and so on. The yogas are 27 ( that thus make 360 degrees ) as stated
+Name         Deity         Name      Deity  
+----         -----         ----      -----
+1. Viskambha — Yama.    15. Vajra - Varuṇa.
+2. Priti - Viṣṇu.       16. Siddhi --Ganesa.
+3. Āyuṣmat-Candra.      17. Vyatīpāta --Śiva.
+4. Saubhāgya - Brahmā.  18. Variyas —- Kubera.
+5. Śobhana — Bṛhaspati. 19. Parigha --Viśvakarman.
+6. Atigaṇḍa-Candra.     20. Śiva -- Mitra.
+7. Sukarman-Indra.      21. Siddha - Kārtikeya.
+8. Dhṛti - Āpah.        22. Sādhya - Sāvitri.
+9. Śūla --Sarpa.        23. Śubha - Kamalā.
+10. Gaṇḍa - Agni.       24. Śukla-Gauri.
+11. Vṛddhi-Sūrya.       25. Brahman - Aśvinau.
+12. Dhruva-Pr̥thvi.      26. Aindra – Pitr̥s.
+13. Vyāghāta - Pavana.  27. Vaidhr̥ti - Aditi.
+14. Harṣaṇa- Rudra.
+---------------------------------------------------------
 
-in the Ratnamālā IV. 1-3 and are as follows :
+[^1109]: How neatly huge numbers can be indicated by words may be illustrated by the सि. शि. I. 28 गोद्रीन्द्वद्रिकृताङ्कदस्रनगगोचन्द्राः शकाब्दान्विताः सर्वे सङ्कलिताः पितामहदिने स्युर्वर्तमाने गताः।'. These come to 1972947179 days.
 
-Name Deity 1. Viskambha — Yama. 15. Vajra - Varuṇa. 2. Priti - Vispu.
+[^1110]: The Daśagitikā verse 3 has been differently interpreted by different scholars. Vide Fleet in JRAS in 1911 pp. 109–128 for Āryabhaṭa's system and pp. 115-125 for explanation of the verse.
 
-16. Siddhi --Ganesa. 3. Ayusmat-Candra. 17. Vyatīpāta --Śiva. 4. Saubhāgya - Brahmā. 18. Variyas —- Kubera. 5. Sobhana — Bṛhaspati. 19. Parigha --Viśvakarman. 6. Atiganda-Candra. 20. Śiva -- Mitra. 7. Sukarman-Indra. 21. Siddha - Kārtikeya. 8. Dhṛti - Āpah.
+## Ever-recurring yogas
 
-22. Sadhya - Sāvitri. 9. Sūla --Sarpa.
+These are _nitya_ (ever-recurring) Yogas. The Ratnamālā states that they yield good or bad results in keeping with their names. The Muhūrtadarśana [^1111] states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyāghāta, Vaidhṛti, Viṣkambha, Śūla, Gaṇḍa[^1112] and Atigaṇḍa. The Ratnamālā provides that Vyatipāta and Vaidhṛti are wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viṣkambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Gaṇḍa and Atigaṇḍa. The Agnipurāṇa [^1113] (127. 1-2) has similar verses. The Kālanirṇaya-kārikā [^1114] provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter (of two days) provided the Yoga exists for three _muhūrtas_(i.e. six ghaṭis) after sunrise and for śrāddha the day on which the Yoga extends over the time required for the śrāddha rite should be accepted.
 
-23. Subha - Kamalā. 10. Ganda - Agni.
+The system of Yogas must be held to be ancient. The Yājñavalkyasmr̥ti (I. 218) when specifying the times for the performance of śrāddhas includes Vyatīpāta among them. In the Harṣacarita of Bāṇa it is said ( Ucchvāsa IV) that Harṣa was born on a day free from the taint of all defects such as Vyatipāta (vyatīpātādi-sarvadoṣābhiṣaṅga-rahiteshani). There would generally be 13 vyatipātas in a year (sometimes 14) and, among the 96 śrāddhas, śrāddhas on these thirteen vyatipātas are included (vide H. of Dh. vol. IV pp. 382-383 and note 861 ).
 
-24. Sukla-Gauri. 11. Vṛddhi-Surya.
+[^1111]: निन्द्यन्ते नित्ययोगेष्वपि नव परिधः सव्यतीपातवज्रो व्याघातो वैधृतिश्च प्रथम परिवृताः शूलगण्डातिगण्डाः । मुहूर्तदर्शन II. 16.
 
-25. Brahman - Asvinau. 12. Dhruva-Pșthvi.
+[^1112]: विरुद्धसंज्ञा इह ये च योगास्तेषामनिष्टः खलु पाद आद्यः । सवैधृतिस्तु व्यतिपातनामा सर्वोप्यनिष्टः परिघस्य चार्धम् ॥ तिस्रस्तु योगे प्रथमे सवज्रे व्याघातसंज्ञे नव पञ्च शूले। गण्डातिगण्डे च षडेव नाड्यः शुभेषु कार्येषु परिवर्जनीयाः ॥ रत्नमाला IV. 4-5.
 
-26. Aindra – Pitrs. 13. Vyāghāta - Pavana. 27. Vaidhrti - Aditi. 14. Harsana- Rudra.
+[^1113]: विष्कम्भे घटिकास्तिस्रः शूले पञ्च विवर्जयेत् । षट्षड् गण्डेऽतिगण्डे च नव व्याघातवज्रयोः॥ परिघे च व्यतीपाते उभयोरपि तद्दिनम् ॥ वैधृतो तद्दिनं चैव यात्रायुद्धादिकं त्यजेत् ॥ अग्निपु० 127. 1-2.
 
-[^1109], How Deatly huge numbers can be indicated by words may be illustrated by the FT. I, 28 TEREMTETTET: Tietra: H HT: TETHETa Falklara TAT:19. These come to 1972947179 days.
+[^1114]: पूर्वः स्यादुपवासादावुत्तरो व्रतदानयोः । योगः श्राद्धे कर्मकालव्याप्तस्तु परिगृह्यताम् ॥ कालनिर्णयकारिका 108-109 ; योगेषु तु कस्यचिल्लिङ्गस्य पूर्वेधुर्निशीथमात्रव्याप्तिं प्रत्यसूचकत्वात्सायंकालादिव्याप्तिर्ग्राह्या । यदि योगः पूर्वेधुर्निशीथमात्रं व्याप्नुयात् तदापरेद्युरहनि पारणं प्राप्नुयात्, रात्रौ पारणस्य निषिद्धत्वात् । तस्माद्विष्कम्भादियोगे उपवासादौ पूर्वविद्धो ग्रहीतव्यः, दानव्रतयोरुदयव्यापी ग्राह्यः, श्राद्धस्य तु कर्मकालव्यापी-इति निर्णेतव्यम् । कालनिर्णय pp. 329-330.
 
-[^1110]. The Dasagitikā verse 3 has been differently interpreted by different scholars. Vide Fleet in JRAS in 1911 pp. 109–128 for Āryabhaṭa's system and pp. 115-125 for explanation of the verse.
+Besides these 27 Yogas, there are others that occur when there are special conjunctions of weekdays with certain tithis and nakṣatras or when certain planets occupy certain rāśis on certain tithis and nakṣatras. For Kapilāṣaṣṭhiyoga and Ardhodaya, vide above pp. 279 and 261. Vyatipāta itself has two technical senses apart from being 17th out of the 27 Yogas mentioned above viz. (1) When amāvāsyā [^1115] occurs on a Sunday and the moon is in the first quarter on any one of the nakṣatras Śravaṇa, Aśvini, Dhaniṣṭhā, Ārdrā and Āśleṣā that is Vyatīpāta; (2) When on the 12th of the bright half Jupiter and Mars are in the sign Lion, the Sun is in Ram and when that tithi has Hasta nakṣatra on it, it is Vyatipāta [^1116] Yoga. These two are sometimes called Mahāvyatipāta. Gifts made on those conjunctions are very much commended ;[^1117] 'gifts on amāvāsyā yield one hundred-fold merit, on the suppression of a tithi a thousand-fold, on Viṣuva day ten thousand-fold, but on Vyatīpāta endless (merit). By gifts of cows, land, gold and clothes made on this the donor becomes free from sin and secures godhead, the position of Indra, health, the rulership of men. [^1118] The Sūryasiddhānta (XI. 1-2) gives an explanation of Vyatipāta and Vaidhr̥ta[^1119] (or Vaidhr̥ti) when the sun and the moon are on the same side of either solstice and when the sum of their longitudes being a circle they are of equal declination it is styled Vaidhști. When the moon and the sun are on opposite sides of either solstice and their minutes of declination are the same, it is Vyatīpāta, the sum of their longitudes being a half circle.
 
-Ever-recurring yogas
+[^1115]: श्रवणाश्विधनिष्ठार्द्रा -नागदैवतमस्तके। यद्यमा रविवारेण व्यतीपातः स उच्यते ॥ वृद्धमनु q. by अपरार्क P. 426, हेमाद्रि (on काल) p. 673, स्मृतिच. II. 341 (without name), कालविवेक 364 (no names). The स्मृतिच, holds that मस्तक means मृगशिरस् , while हेमाद्रि and कालविवेक take it to mean the first quarter and connect it with all the preceding nakṣatras. अग्निपुराण 209. 13 is almost the same as वृद्धमनु.
 
-705
+[^1116]: पञ्चाननस्थौ गुरुभूमिपुत्रौ मेषे रविः स्याद्यदि शुक्लपक्षे। पाशाभिधाना करभेन युक्ता तिथिर्व्यतीपात इतीह योगः ॥ स्मृत्यन्तर q. by हेमाद्रि on काल p. 673, कालविवेक p. 364.
 
-.
+[^1117]: शतमिन्दुक्षये दानं सहस्रं तु दिनक्षये। विषुवे दशसाहस्रं व्यतीपाते त्वनन्तकम् ॥ लघुशातातप 150 quoted as व्यास's by अपरार्क p. 292 and as याज्ञवल्क्य's by हेमाद्रि (on काल) p. 672.
 
-These are nitya (ever-recurring) Yogas. The Ratnamala states that they yield good or bad results in keeping with their names. The Muhurtadarśana [^1111] states that among these 27 yogas nine are condemned, viz. Parigha, Vyatipāta, Vajra, Vyaghata, Vaidhrti, Viskambha, Sula, Ganda[^1112] and Atiganda. The Ratnarnālā provides that Vyatipāta and Vaidhști aro wholly inauspicious, the first half of Parigha is so and only the first quarter of those Yogas the names of which are odious; and that one should avoid in all auspicious rites the first three ghaṭikās in Viskambha and Vajra, nine ghaṭis in Vyāghāta, five in Sūla, six in Ganda and Atiganda. The Agnipurana [^1113] (127. 1-2) has similar verses. The Kālanirṇaya-kārikā [^1114] provides that when a Yoga spreads over two days, fasts and the like are to be observed on the first of the two days provided that Yoga exists at sunset on that day, and vratas and religious gifts are to be performed on the latter ( of two days ) provided the Yoga exists for three
+[^1118]: अस्मिन्हि गोभूमिहिरण्यवस्रदानेन सर्वे प्रविहाय पापम् । सुरत्वमिन्द्रत्वमनामयत्वं मर्त्याधिपत्यं लभते मनुष्यः ॥ q. by हे. (on काल) pp. 673-674.
 
-muhūrtas (i. e. six ghaṭis) after sunrise and for sraddha the day on which the Yoga extends over the time required for the śrāddha rite should be accepted,
+[^1119]: एकायनगतौ स्यातां सूर्याचन्द्रमसौ यदा। तद्युतौ मण्डले क्रान्त्योस्तुल्यत्वे वैधृताभिधः ॥ विपरीतायनगतौ चन्द्रार्को क्रान्तिलिप्तिकाः। समास्तदा व्यतीपातो भगणार्धै तयोर्युतौ।
 
-The system of Yogas must be held to be ancient. The Yājña valkyasmr̥ti (I. 218) when specifying the times for the perfor mance of śrāddhas includes Vyatīpāta among them. In the Harṣacarita of Bāṇa it is said ( Ucchrāsa IV) that Harsa was born on a day free from the taint of all defects such as Vyatipāta (vyatīpātādi-sarvadosābhiṣanga-rahiteshani). There would gene rally be 13 vyatipātas in a year ( sometimes 14 ) and, among the 96 śrāddhas, śrāddhas on these thirteen vyatipātas are
+## Vyatipāta and Vaidhṛti
 
-[^1111]. निन्द्यन्ते नित्ययोगेण्वपि नव परिधः सव्यतीपातवजो व्याघातो वैधृतिश्च प्रथम परिवृताः शूलगण्डातिगण्डाः । मुहूर्तदर्शन II. 16.
+Why the times mentioned should be looked upon as specially inauspicious or unfortunate is not at all clear and no plausible reason has been assigned. The 27th Yoga called Vaidhṛti was just like Vyatīpāta in all respects. Bharadvāja says that the merit of gifts made on Vyatipāta and Vaidhṛti is endless.
 
-[^1112]. विरुद्धसंज्ञा इह ये च योगास्तेषामनिष्टः खलु पाद आद्यः । सवैधृतिस्तु व्यतिपात नामा सर्वोप्यनिष्टः परिघस्य चार्धम् ॥ तिम्रस्तु योगे प्रथमे सवजे व्याघातसंज्ञे नव पञ्च शूले। गण्डातिगण्डे च षडेव नाड्यः शुभेषु कार्येषु परिवर्जनीयाः ॥ रत्नमाला IV. 4-5.
+In the pañcaṅgas several Yogas (that have nothing to do with the 27 yogas ) like Amrtasiddhi, Yamaghaṇṭa, Dagdhayoga, Mṛtyuyoga, Ghabāḍa are mentioned; they are purely astrological and all of them except three are passed over here for reasons of space. When on Sunday there is Hasta, on Monday Mṛgaśirṣa, on Tuesday Aśvini, on Wednesday Anurādha, on Thursday Tiṣya (i.e. Puṣya ), on Friday Revati and on Saturday Rohiṇi, all these are Amṛtasiddhiyogas (fortunate ones [^1120] ). Avoid Anurādhā on Sunday, Uttarāṣāḍhā on Monday, Śatatārakā on Tuesday, Aśvini on Wednesday, Mṛgaśīrṣa on Thursday, Āślesā on Friday and Hasta on Saturday-- these are seven Mṛtyuyogas (inauspicious ). If the weekdays from Sunday to Saturday occur on the tithis, 12th, 11th, 10th, 3rd, 6th, 2nd, 7th respectively, these are Dagdhayogas ( inauspicious yogas).
 
-[^1113]. विष्कम्भे घटिकास्तिस्रः शूले पञ्च विवर्जयेत् । षषड् गण्डेऽतिगण्डे च नव ग्याघातवज्जयोः॥ परिये च व्यतीपाते उभयोरपि तद्दिनम् ॥ वैधृतो तहिनं चैव यात्रायुद्धादिक त्यजेत् ॥ अग्निपु० 127. 1-2.
-
-[^1114]. पूर्वः स्यादपवासादावुत्तरो व्रतदानयोः । योगः श्राद्धे कर्मकालव्याप्तस्तु परिगृह्य ताम् ॥ कालनिर्णयकारिका 108-109 ; योगेषु तु कस्यचिल्लिङ्गस्य पूर्वेधुनिशीथमावग्याप्ति प्रत्यसूचकत्वात्सायंकालादिच्याप्ति ह्या । यदि योगः पूर्वेधुनिशीथमा म्यामयात् तदापरेधरहनि पारणं प्राप्नुयात्, रात्री पारणस्य निषिद्धत्वात् । तस्माद्विष्कम्भादियोगे उपवासादौ पूर्वविद्धो ग्रहीतव्यः, दानव्रतयोरुदयव्यापी ग्राहः, श्राद्धस्य तु कर्मकालव्यापी-इति निर्णेतन्यम् । काल निर्णय pp. 329-330.
-
-H. D. 89
-
-706
-
-
-
-(Soc. II. Ch. XIX
-
-included (vide H. of Dh. vol. IV pp. 382-383 and note 861 ). Besides these 27 Yogas, there are others that occur when there are special conjunctions of weekdays with certain tithis and naksatras or when certain planets occupy certain rāśis on certain tithis and nakṣatras. For Kapilāṣasthiyoga and Ardho daya, vide above pp. 279 and 261. Vyatipāta itself has two technical senses apart from being 17th out of the 27 Yogas mentioned above viz. (1) When amāvāsyā [^1115] occurs on a Sunday and the moon is in the first quarter on any one of the nakṣatras Sravaṇa, Aśvini, Dhanisthā, Ārdrā and Āśleṣā that is Vyatīpāta; (2) When on the 12th of the bright half Jupiter and Mars are in the sign Lion, the Sun is in Ram and when that tithi has Hasta naksatra on it, it is Vyatipāta [^1116] Yoga. These two are sometimes called Mahāvyatipāta. Gifts made on those conjunc tions are very much commended ;[^1117] 'gifts on amāvāsyā yield one hundred-fold merit, on the suppression of a tithi a thousand-fold, on Visuva day ten thousand-fold, buton Vyatīpāta endless (merit). By gifts of cows, land, gold and clothes made on this the donor becomes free from sin and secures godhead, the position of Indra, health, the rulership of men. [^1118] The Sūryasiddhānta (XI. 1-2) gives an explanation of Vyatipāta and Vaidhrta[^1119] (or Vaidhrti). when the sun and the moon are on the same side of either solstice and when the sum of their longitudes being a circle they are of equal declination it is styled Vaidhști. When the moon and the sun are on opposite sides of either solstice and their minutes of declination are the same, it is Vyatīpāta, the sum of their
-
-[^1115]. Tonaufanfarrean FET I ET Taitot zerre: \#azell
-
-AE G. by 31 p. 426, HTC (on 5 ) p. 673, kala. II. 341 (without name), कालविवेक 364 (no names). The स्मृतिच. holds that मस्तक means मृगशिरम् , while हेमाद्रि and कालविवेक take it to mean the first quarter and connect it with all the preceding naksatras, TTTM 209. 13 is almost the same as वृद्धमनु.
-
-__[^1116]. पञ्चाननस्थौ गुरुभूमिपुत्रौ मेषे रविः स्याद्यदि शुक्लपक्षे। पाशाभिधाना करभेन Thit farematura gale TNT: 1 q. by gang on To P. 673, Firsraami P. 364.
-
-[^1117], para r i FX o farti Age ETHIET cardiga sam लघुशातातप 150 quoted as व्यास's by अपरार्क p. 292 and as याज्ञवल्क्य's by हेमाद्रि (on pio) p. 672.
-
-[^1118]. अस्मिन्हि गोभूमिहिरण्यवनदानेन सर्व प्रविहाय पापम् । सुरत्वमिन्द्रत्वमनामयत्वं माधिपत्यं लभते मनुष्यः q. by हे. (on काल) pp. 673-674.
-
-[^1119]. एकायनगतौ स्याता सूर्याचन्द्रमसौ यदा। तद्यतौ मण्डले क्रान्त्योस्तुल्यत्वे वैधृता भिधः ॥ विपरीतायनगतौ चन्द्रार्को क्रान्तिलिप्तिकाः। समास्तदा व्यतीपातो भगणाधै तयोर्युतौ।
-
-LUTRITT XI. 1-2.
-
-Vyatipāta and Vaidhsti
-
-707
-
-longitudes being a half circle. Why the times mentioned should be looked upon as specially inauspicious or unfortunate is not at all clear and no plausible reason has been assigned. The 27th Yoga called Vaidhrti was just like Vyatīpāta in all respects. Bharadvāja says that the merit of gifts made on Vyatipāta and Vaidhrti is endless.
-
-In the pancangas several Yogas (that have nothing to do with the 27 yogas ) like Amrtasiddhi, Yamaghanta, Dagdhayoga, Mrtyuyoga, Ghabāda are mentioned; they are purely astrological and all of them except three are passed over here for reasons of space. When on Sunday there is Hasta, on Monday Mļgaśirsa, on Tuesday Aśvini, on Wednesday Anurādha, on Thursday Tiṣya (i. e. Pusya ), on Friday Revati and on Saturday Rohini, all these are Amṛtasiddhiyogas (fortunate ones [^1120] ). Avoid Anu rādhā on Sunday, Uttarāsādhā on Monday, Satatārakā on Tuesday, Aśvini on Wednesday, Mrgaśīrṣa on Thursday, Aślosa on Friday and Hasta on Saturday-- these are seven Mṛtyuyogas (inauspicious ). If the weekdays from Sunday to Saturday occur on the tithis, 12th, 11th, 10th, 3rd, 6th, 2nd, 7th respec tively, these are Dagdhayogas ( inauspicious yogas).
-
-The fifth item in a pañcā nga is Karana. Half of a tithi is Karaña and thus there are two Karapas in a tithi and 60 Karanas in a lunar month. Karanas are of two kinds, viz, cara (moving) and sthira ( immoveable). The seven cara karañas with their presiding deities according to Brhatsamhitā, chap. 99. 1-2 are: 1. Bava-Indra; 2. Bālava-Brahmā; 3 Kaulava-Mitra; 4. Taitila-Aryaman; 5. Gara ( or Garaja )- Earth; 6. Vanija Śrī; 7. Visti-Yama. The four sthira karaṇas with their deitieg are : 1. Sakuni --Kali; 2. Catuspada - Vrsa; 3. Nāga-snake; 4. Kimstughna-Vāyu. Some works transpose the two, Catuspada and Nāga. This division of a tithi into two halves resembles the division of a rāśi into two horās (Brbajjātaka I. 9). It is likely that one was suggested by the other. The difficulty is to decide which was the earlier. I believe it likely that the division of tithis into two karapas is the earlier of the two. The sthira karapas occur only once in a month i. e, on the latter half of
+The fifth item in a pañcāṅga is Karaṇa. Half of a tithi is Karaṇa and thus there are two Karaṇas in a tithi and 60 Karaṇas in a lunar month. Karaṇas are of two kinds, viz. _cara_ (moving) and _sthira_ ( immoveable). The seven cara karaṇas with their presiding deities according to Brhatsamhitā, chap. 99. 1-2 are: 1. Bava-Indra; 2. Bālava-Brahmā; 3 Kaulava-Mitra; 4. Taitila-Aryaman; 5. Gara ( or Garaja )- Earth; 6. Vanija Śrī; 7. Visti-Yama. The four sthira karaṇas with their deitieg are : 1. Sakuni --Kali; 2. Catuspada - Vrsa; 3. Nāga-snake; 4. Kimstughna-Vāyu. Some works transpose the two, Catuspada and Nāga. This division of a tithi into two halves resembles the division of a rāśi into two horās (Brbajjātaka I. 9). It is likely that one was suggested by the other. The difficulty is to decide which was the earlier. I believe it likely that the division of tithis into two karapas is the earlier of the two. The sthira karapas occur only once in a month i. e, on the latter half of
 
 ___[^1120]. हस्तो रवी शशधरे च सूगोत्तमा भौमेऽश्विनी उधदिने च तथानुराधा। तिव्यो गुरौ wara logra trieuqurasaran UTM:N THAIST VIII. 8 (ms.); 6971 VāHETTE fata o Ha targar Tanzati gl FTAR wadi Tagaamo E eu favor p. 31 verse 126:
 
@@ -365,7 +339,7 @@ I
 
 1
 
-As the longitudes of heavenly bodies reckoned from the equinox include these ayunāmsas they are called sāyana ( sa + ayana ). The places of heavenly bodies obtained by the methods of the Sūryasiddhanta and medieval Sanskrit works are distinguished by being called niruyana ( devoid of taking into account procession). At present according to most almanacs that employ the Sūryasiddhānta values Makarasankrānti (Sun's entrance into Capricorn) falls generally on 14th January, but according to the most accurate modern calculations, it should fall on 21st December; even in calendars that pride themselves on being suddha the Makarasankranti falls on 9th January i. e. our Makarasankrānti is celebrated 1127 about 23 or 18 days later than it should be and the same happens to the vernal equinox, autumnal equinox and the summer solstice and many other observances. Aśvini is still reckoned as the first naksatra (in which the vernal equinox is deemed to have occurred about saka 444 ), although the vernal equinox point has receded to the Uttara-bhādrapadā group of stars ( which should now be treated as the first naksatra). Efforts have been made by those familiar with the modern accurate calculations (such as the late Kero L. Chatre) to introduce modrn calculations in our almanacs; but they have met with little response. The late Lokamānya Tilak (who was a great Vedic scholar and mathematician) held several conferences of Indian astronomers and other interested people at Bombay (1904), Poona (1917) and at Sangli (1919). At the last conference several resolutions were passed which without making a total break with the past were calculated to reform our calendar and to prevent furthur deterioration. It is un necessary to set out all the resolutions, but the most impor tant were that the length of the year should be that of the Sūryasiddhānta but subject to necessary corrections, the rate of procession should be accepted at 50.2 ¿ikalās a year (as determined by modern astronomical observations ), that the Yogatārā 1128 of Revati (corresponding to Zeta Piscium of modern astronomers) should be deemed to be the beginning of the
+As the longitudes of heavenly bodies reckoned from the equinox include these ayunāmsas they are called sāyana ( sa + ayana ). The places of heavenly bodies obtained by the methods of the Sūryasiddhanta and medieval Sanskrit works are distinguished by being called niruyana ( devoid of taking into account procession). At present according to most almanacs that employ the Sūryasiddhānta values Makarasankrānti (Sun's entrance into Capricorn) falls generally on 14th January, but according to the most accurate modern calculations, it should fall on 21st December; even in calendars that pride themselves on being suddha the Makarasankranti falls on 9th January i. e. our Makarasankrānti is celebrated 1127 about 23 or 18 days later than it should be and the same happens to the vernal equinox, autumnal equinox and the summer solstice and many other observances. Aśvini is still reckoned as the first nakṣatra (in which the vernal equinox is deemed to have occurred about saka 444 ), although the vernal equinox point has receded to the Uttara-bhādrapadā group of stars ( which should now be treated as the first nakṣatra). Efforts have been made by those familiar with the modern accurate calculations (such as the late Kero L. Chatre) to introduce modrn calculations in our almanacs; but they have met with little response. The late Lokamānya Tilak (who was a great Vedic scholar and mathematician) held several conferences of Indian astronomers and other interested people at Bombay (1904), Poona (1917) and at Sangli (1919). At the last conference several resolutions were passed which without making a total break with the past were calculated to reform our calendar and to prevent furthur deterioration. It is un necessary to set out all the resolutions, but the most impor tant were that the length of the year should be that of the Sūryasiddhānta but subject to necessary corrections, the rate of procession should be accepted at 50.2 ¿ikalās a year (as determined by modern astronomical observations ), that the Yogatārā 1128 of Revati (corresponding to Zeta Piscium of modern astronomers) should be deemed to be the beginning of the
 
 1127. Vide pote 574 above, where the encyclopoedist scholar Hemādri is quoted as saying that the real Makarsankranti takes place 12 days before the sankrānti in the almanacs and that the holy time of Makarsankranti is really twelve days earlier than the one on which people celebrate it and religious gifts should really be made at that time,
 
@@ -465,7 +439,7 @@ This recommendation is to be regarded only as a measure of compromise, so that a
 
 (6) As usual the lunar months for religious purposes would commence from the moment of new moon and would be named after the saura month in which the new moon falls. If there be two new moons during the period of a Saura month the lunar month beginning from the first new moon is the adhika or mala māsa and the lunar month beginning from the moment of the second new moon is the suddha or nija māsa as usual.
 
-(7) The moment of the moon's exit from a naksatra division of 13° 20' each or sun's entry into it would be calculat ed with a variable ayanāṁsa ( i. e. on the supposition that they are fixed with respect to the stars ). The value of this ayanāmsa would amount to 23° 15' 0" on 21 March 1956. Thereafter it would gradually increases with the annual rate, the mean value of which is about 50.27".
+(7) The moment of the moon's exit from a nakṣatra division of 13° 20' each or sun's entry into it would be calculat ed with a variable ayanāṁsa ( i. e. on the supposition that they are fixed with respect to the stars ). The value of this ayanāmsa would amount to 23° 15' 0" on 21 March 1956. Thereafter it would gradually increases with the annual rate, the mean value of which is about 50.27".
 
 These arrangements would ensure that the religious obser vances determined by the sun such as the Visuva-sankranti, Uttarāyana-sankrānti and Daksiṇāyana-sankranti would follow
 
@@ -477,7 +451,7 @@ astronomically correct seasons, but those determined by the lunar calendar would
 
 The dates of festivals have already shifted by twenty-three days from the seasons in which they were observed about 1400 years ago as a result of our almanc-makers having ignored the precession of the equinoxes. Although it might appear to some desirable that the entire amount of shifting be wiped out at once, the authors of the Report consider it expedient to maintain this as constant difference and to stop its further increase. As a result there would at present be no deviation from the prevail ing custom in the obgervance of religious festivala.
 
-In the calculation of nakṣatras, however, the Report has adopted a variable ayanāinsa, so that at the time of a particular naksatra the moon may be seen in the sky in the star or star group of that name. This practice has been followed in our country from Vedic times and is perfectly scientific.
+In the calculation of nakṣatras, however, the Report has adopted a variable ayanāinsa, so that at the time of a particular nakṣatra the moon may be seen in the sky in the star or star group of that name. This practice has been followed in our country from Vedic times and is perfectly scientific.
 
 (8) The day should be reckoned from midnight to mid night of the central station ( 821 degrees E. Longitude and 239 11' North Latitude ) for civil purposes but for religious purposes the local sunrise system may be followed.
 
