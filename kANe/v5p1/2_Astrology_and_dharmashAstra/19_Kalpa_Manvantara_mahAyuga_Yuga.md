@@ -253,225 +253,151 @@ Why the times mentioned should be looked upon as specially inauspicious or unfor
 
 In the pañcaṅgas several Yogas (that have nothing to do with the 27 yogas ) like Amrtasiddhi, Yamaghaṇṭa, Dagdhayoga, Mṛtyuyoga, Ghabāḍa are mentioned; they are purely astrological and all of them except three are passed over here for reasons of space. When on Sunday there is Hasta, on Monday Mṛgaśirṣa, on Tuesday Aśvini, on Wednesday Anurādha, on Thursday Tiṣya (i.e. Puṣya ), on Friday Revati and on Saturday Rohiṇi, all these are Amṛtasiddhiyogas (fortunate ones [^1120] ). Avoid Anurādhā on Sunday, Uttarāṣāḍhā on Monday, Śatatārakā on Tuesday, Aśvini on Wednesday, Mṛgaśīrṣa on Thursday, Āślesā on Friday and Hasta on Saturday-- these are seven Mṛtyuyogas (inauspicious ). If the weekdays from Sunday to Saturday occur on the tithis, 12th, 11th, 10th, 3rd, 6th, 2nd, 7th respectively, these are Dagdhayogas ( inauspicious yogas).
 
-The fifth item in a pañcāṅga is Karaṇa. Half of a tithi is Karaṇa and thus there are two Karaṇas in a tithi and 60 Karaṇas in a lunar month. Karaṇas are of two kinds, viz. _cara_ (moving) and _sthira_ ( immoveable). The seven cara karaṇas with their presiding deities according to Brhatsamhitā, chap. 99. 1-2 are: 1. Bava-Indra; 2. Bālava-Brahmā; 3 Kaulava-Mitra; 4. Taitila-Aryaman; 5. Gara ( or Garaja )- Earth; 6. Vanija Śrī; 7. Visti-Yama. The four sthira karaṇas with their deitieg are : 1. Sakuni --Kali; 2. Catuspada - Vrsa; 3. Nāga-snake; 4. Kimstughna-Vāyu. Some works transpose the two, Catuspada and Nāga. This division of a tithi into two halves resembles the division of a rāśi into two horās (Brbajjātaka I. 9). It is likely that one was suggested by the other. The difficulty is to decide which was the earlier. I believe it likely that the division of tithis into two karapas is the earlier of the two. The sthira karapas occur only once in a month i. e, on the latter half of
+The fifth item in a pañcāṅga is Karaṇa. Half of a tithi is Karaṇa and thus there are two Karaṇas in a tithi and 60 Karaṇas in a lunar month. Karaṇas are of two kinds, viz. _cara_ (moving) and _sthira_ ( immoveable). The seven _cara_ karaṇas with their presiding deities according to Bṛhatsaṁhitā, chap. 99. 1-2 are: 1. Bava-Indra; 2. Bālava-Brahmā; 3 Kaulava-Mitra; 4. Taitila-Aryaman; 5. Gara ( or Garaja )- Earth; 6. Vaṇija Śrī; 7. Viṣṭi-Yama. The four _sthira_ karaṇas with their deities are : 1. Śakuni --Kali; 2. Catuṣpada - Vr̥ṣa; 3. Nāga-snake; 4. Kiṁstughna-Vāyu. Some works transpose the two, Catuṣpada and Nāga. This division of a tithi into two halves resembles the division of a rāśi into two _horās_ (Br̥hajjātaka I. 9). It is likely that one was suggested by the other. The difficulty is to decide which was the earlier. I believe it likely that the division of tithis into two karaṇas is the earlier of the two. The sthira karaṇas occur only once in a month i.e, on the latter half of 14th tithi of dark half occurs Śakuni: Catuṣpada and Nāga occupy the two halves of amāvāsyā and Kiṁstughna occurs on the first half of Pratipad i.e, if the 30 tithis of an amānta month are divided into 60 halves, Śakuni, Catuṣpada and Nāga occupy the 58th, 59th and 60th parts and Kiṁstughna occupies the first half of the pratipad of the next month.
 
-___[^1120]. हस्तो रवी शशधरे च सूगोत्तमा भौमेऽश्विनी उधदिने च तथानुराधा। तिव्यो गुरौ wara logra trieuqurasaran UTM:N THAIST VIII. 8 (ms.); 6971 VāHETTE fata o Ha targar Tanzati gl FTAR wadi Tagaamo E eu favor p. 31 verse 126:
+[^1120]:  हस्तो रवौ शशधरे च मृगोत्तमांङ्ग भौमेऽश्विनी बुधदिने च तथानुराधा । तिष्यो गुरौ भृगुसुतेपि च पौष्णधिष्ण्यं रोहिण्यथार्कतनयेऽमृतासद्धियोगाः । रत्नमाला VIII. 8 (ms.): त्यज रविमनुराधा विश्वदेवं च सोमे शतभिषमपि भौमे चन्द्रजे चश्विनी च। शशधरमपि जीवे सर्पदेवं च शुक्रे रविसुतमपि हस्ते मृत्युयोगाश्च सप्त ॥ भुजबलनिवन्ध P. 31 verse 126; आदित्यरुद्रकाष्ठांग्निरसपक्षतुरङ्गमाः। अर्कादिवारयोगेन दह्यन्ते तिथयः क्रमात् ॥ भुजबलनिबन्ध p. 28 verse 114.
 
-आदित्यसद्रिकाष्ठांग्निरसपक्षतुरङ्गमाः। अर्कादिवारयोगेन दान्ते तिथयः क्रमात् ॥ मुजपलनिवन्ध p. 28 verse 114.
+Bava occupies the second half of śukla pratipad and the others follow one after another and as they are only seven they are repeated eight times in a month from the 2nd half of pratipad to the first half of the 14th tithi of a dark half, which would be 57th of the sixty halves of the tithis of the month and would be occupied by Viṣṭi. In the pañcāṅgas, two karaṇas should properly be shown under each tithi, but in pañcāṅgas only that Karaṇa is shown against a tithi whose ending moment is 30 ghaṭikās or less from sunrise. The ending times of Karaṇas which are assigned to the 2nd halves of tithis coincide with those of the tithis themselves and therefore there is no need for their calculation. The ending times of the first halves of tithis which correspond to certain Karaṇas are got in the manner described by Pillai in his 'Indian Ephemeris', vol. I. part 1 p. 37, paragraphs 106-107.
 
-1708
+The word Karaṇa is derived from the root 'kr̥' (to do ) and is said to have been so named because it divides a tithi in two parts. [^1121] The names of most of the Karaṇas are somewhat strange and inexplicable. The word 'Taitila-kadrū' occurs in Pāṇini VI. 2. 42 (with regard to accent) but the Kāśikā ex plains that Taitila means a descendant or pupil or Titilin'. If a more conjecture were to be offered, the Karaħa Taitila might have been first named after a man so called. The Karañas are only of astrological use and must have been named many centuries before 400 A. D. The Nāradapurāṇa [^1122] mentions both kinds of Karaṇas. The Br̥hat-saṁhitā lays down what should be done or not done on the several Karaṇas [^1123] as follows:
 
+[^1121]: तिथिं द्विधा करोतीति करणमित्यर्थसंज्ञानात् तिथ्यर्धं करणमिति विज्ञायते । com. दीपिका on मु. द. I. 41.
 
+[^1122]: शेषं बवो बालवश्व कौलवस्तैतिलो मरः । वाणेजोभ्रे भवेद्विष्टिः कृष्णभूतापरार्धतः । शकुनिर्नागश्च चतुष्पदं किंस्तुघ्नमेवच ॥ नारदपु० I. 54.126-127.
 
+[^1123]: कुर्याद्ववे शुभचरस्थिरपौष्टिकानि धर्मक्रियाद्विजहितानि च बालवाख्ये। संप्रीति मित्रवरणानि च कौलवे स्युः सौभाग्यसंश्रयगृहाणि च तैतिलाख्ये ॥ कृषिबीजगृहाश्रयजानि गरे वाणिजि ध्रुवकार्यवणिग्युतयः । न हि विष्टिकृतं विदधाति शुभं परघातविषादिषु सिद्धिकरम् ॥ कार्य पौष्टिकमौषधादि शकुनौ मूलानि मन्त्रास्तथा गोकार्याणि चतुष्पदे द्विजपितृनुद्दिश्य राज्यानि च। नागे स्थावरदारुणानि हरणं दौर्भाग्यकर्माण्यतः किंस्तुघ्ने शुभमिष्टिपुष्टिकरणं मङ्गल्यसिद्धिक्रियाः ॥ बृहत्संहिता 99.3-5.
 
+## What should be done on Karaṇas
 
-14th tithi of dark half occurs Sakuni: Catuspada and Nāga occupy the two halves of amāvāsyā and Kimstughna occurs on the first half of Pratipad i. e, if the 30 tithis of an aminta month are divided into 60 halves, Sakuni, Catuspada and Nāga occupy the 58th, 59th and 60th parts and Kimstughna occupies the first half of the pratipad of the next month. Bava occupies the second half of śukla pratipad and the others follow one after another and as they are only seven they are repeated eight times in a month from the 2nd half of pratipad to the first half of the 14th tithi of a dark half, which would be 57th of the sixty halves of the tithis of the month and would be occupied by Visti. In the pancāngas, two karanas should properly be shown under each tithi, but in pañcāngas only that Karaṇa is shown against a tithi whose ending moment is 30 ghaṭikās or less from sunrise. The ending times of Karanas which are assigned to the 2nd halves of tithis coincide with those of the tithis themselves and therefore there is no need for their calculation. The ending times of the first halves of tithis which correspond to certain Karanas are got in the manner described by Pillai in his Indian Ephemeris', vol. I. part 1 p. 37, paragraphs 106-107.
+one should perform on Bava all auspicious ( religious ) rites, all acts that bring about physical health: on Bālava religious acts and acts beneficial to brāhmaṇas; on Kaulava acts leading to good relations and friendship and choosing a bride; on Taitila acts that lead to popularity with people, to securing the patronage ( of some important person ) and building a house : on Gara actions pertaining to ploughing, sowing seeds and those that arise in houses; on Vaṇija, acts of a permanent nature, trading, and meeting with people; whatever is done on Viṣṭi does not bring about fortunate results; but actions as regards destruction of enemies, poisoning and incendiarism become successful on it; on Śakuni one should do what leads to physical health and medication, planting roots and eating them and becoming successful in mantras; on Catuṣpada actions relating to cows (i.e. gifts of them and rearing them ), actions regarding brāhmaṇas and one's ancestors and king's business should be done; on Nāga, acts relating to immoveable property, cruel acts, depriving (a man of his wealth or wife) and acts that lead to hatred among people; on Kiṁstughna, auspicious ( religious ) acts, Vedic sacrifices (called _iṣṭis_ ) and acts leading to physical prosperity and maṅgala acts (marriage &c.) and other acts that bring success in these matters.
 
-The word Karaṇa is derived from the root'ks' (to do ) and is said to have been so named because it divides a tithi in two parts. 1121 The names of most of the Karanas are somewhat strange and inexplicable. The word 'Taitila-kadrū' occurs in Pāṇini VI. 2. 42 (with regard to accent) but the Kāśikā ex plains that Taitila means a descendant or pupil or Titilin'. If a more conjecture were to be offered, the Karaħa Taitila might have been first named after a man so called. The Karañas are only of astrological use and must have been named many centuries before 400 A. D. The Nāradapurāṇa 1122 mentions both kinds of Karañas. The Brhat-samhitā lays down what should be done or not done on the several Karanas 1123 as follows: one
+One very noticeable feature is that the 7th mobile Karaṇa called Viṣṭi appears to have inspired great terror in the minds of medieval writers on Dharmaśāstra. It will be noticed that dividing the lunar month into 60 halves of tithis, and beginning Bava on the second half of the pratipad of an amānta month, the Karaṇa Viṣṭi will occur eight times in one month as the following diagram of the sixty halves will show:
 
-1121. farū PTT nima TUIFACTUHÁTHAT Petra Furlara fazira i com. दीपिका on मु. द. I. 41.
+|         |   |    |    |    |    |    |    |    |
+|---------|---|----|----|----|----|----|----|----|
+| Bava    | 2 | 9  | 16 | 23 | 30 | 37 | 44 | 51 |
+| Bālava  | 3 | 10 | 17 | 24 | 31 | 38 | 45 | 52 |
+| Kaulava | 4 | 11 | 18 | 25 | 32 | 39 | 46 | 53 |
+| Taitila | 5 | 12 | 19 | 26 | 33 | 40 | 47 | 54 |
+| Gara    | 6 | 13 | 20 | 27 | 34 | 41 | 48 | 55 |
+| Vaṇija  | 7 | 14 | 21 | 28 | 35 | 42 | 49 | 56 |
+| Viṣṭi   | 8 | 15 | 22 | 29 | 36 | 43 | 50 | 57 |
 
-1122. tu aratata tarat 7:1 OTTOTETTO CIE: urlateruta: 1 era Truus ferhaal FRGT. I. 54. 126-127.
+The fixed Karaṇas will be Śakuni 58,59 Catuṣpada, 60 Nāga, 1 (pratipad first half of next month ) Kiṁstughna.
 
-1123. कुर्याद्ववे शुभचरस्थिरपौष्टिकानि धर्मक्रियाद्विजहितानि च बालवाख्ये। संप्रीति मित्रवरणानि च कौलवे स्युः सौभाग्यसंश्रयगृहाणि च तैतिलाख्ये ॥ कृषिधीजगृहाश्रयजानि गरे वाणिजि ध्रवकार्यवणिग्युतयः । न हि विष्टिकृतं विदधाति शुभं परघातविषादिषु सिद्धिकरम् ॥ कार्य पौष्टिकमौषधादि शकुनौ मूलानि मन्त्रास्तथा गोकार्याणि चतुष्पदे द्विजपितृनुद्दिश्य राज्यानि च। नागे स्थावरदारुणानि हरणं दौर्भाग्यकाण्यतः किंस्तुघ्ने शुभमिष्टिपुष्टिकरण मङ्गल्यसिद्धि fak 41: 11 DEFINET 99.3-5.
+In the dark half, [^1124] Viṣṭi will occur in the latter half of the third and 10th tithis and in the first half of the 7th and 14th tithis; in the bright half Viṣṭi will occur in the latter half of the 4th and 11th tithis and the first half of the 8th and 15th (i.e. Paurnamāśi) tithis. The Rājamārtaṇḍa [^1125] states 'Some regard Viṣṭi as having the form of a cobra and as terrible; there is danger in the mouth of a snake but not in its tail. The mouth, neck, chest, navel region, waist and tail of Viṣṭi are respectively of five, one, eleven, four, six and three ghaṭikās. Great sages declare that it (Viṣṭi ) does not confer fortunate results, therefore a good man should avoid these except the tail' (on last three ghaṭikās of Viṣṭi auspicious acts may be performed). Viṣṭi is also euphemistically called Bhadrā or Kalyāṇi (it is really _abhadrā_). The terrible nature of Viṣṭi is described in two verses of Bhima-parākrama quoted in Bhujabala-nibandha p. 30 ( vide pp. 95–96 of my paper on ‘Bhoja and his works &c.' in Journal of Oriental Research, Madras, vol. XXIII for 1953-54 ) which also occur in Rājamārtanda, verses 1021-22.
 
-What should be done on Karanas
+The whole scheme of Karaṇas is itself fanciful. But to draw a lurid picture of one of them, Viṣṭi (which occurs eight times in a month ), and say that it is like a cobra or an ogress is the height of imagination dominated by astrological considerations.
 
-709
+Having described at some length the five aṅgas in a pañcāṅga, a few words must be said about Hindu calendars, though it has been already declared above that purely astronomical matters will not be elaborated in this work.
 
-should perform on Bava all auspicious ( religious ) rites, all acts that bring about physical health: on Bālava religious acts and acts beneficial to brāhmaṇas; on Kaulava acts leading to good relations and friendship and choosing a bride; on Taitila acts that lead to popularity with people, to securing the patronage ( of some important person ) and building a house : on Gara actions pertaining to ploughing, sowing seeds and those that arise in houses; on Vanija, acts of a permanent nature, trading, and meeting with people; whatever is done on Visti does not bring about fortunate results; but actions as regards destruction of enemies, poisoning and incendiarism become successful on it; on Sakuni one should do what leads to physical health and inedication, planting roots and eating them and becoming suc cessful in mantras; on Catuspada actions relating to cows (i. e. gifts of them and rearing them ), actions regarding brāhmanas and one's ancestors and king's business should be done; on Nāga, acts relating to immoveable property, cruel acts, depriv ing ( a man of his wealth or wife ) and acts that lead to hatred among people; on Kimstughna, auspicious ( religious ) acts, Vedic sacrifices (called iṣtis ) and acts leading to physical prosperity and mangala acts (marriage &c.) and other acts that bring success in these matters.
+[^1124]: तृतीयादशमीशेषे तत्पञ्चम्योश्च पूर्वतः । कृष्णे विष्टिः सिते तद्वत्ताप्तां परतिथिष्वपि ॥ शुद्धिदीपिका q. by शुद्धिकौमुदी p 207; a similar verse is quoted by नि. सि. p. 23 'संग्रहे । कृष्णेऽग्निविशयोरूर्ध्वे सप्तमीभूतयोरधः । शुक्ले वेदेशयोरूर्ध्वे भद्रा प्राग् वसुपूर्णयोः॥.' vide मु. चि. I. 43.
 
-One very noticeable feature is that the 7th mobile Karana called Visti appears to have inspired great terror in the minds of medieval writers on Dharmaśāstra. It will be noticed that dividing the lunar month into 60 halves of tithis, and beginning Bava on the second half of the pratipad of an amānta month, the Karana Visti will occur eight times in one month as the following diagram of the sixty halves will show:
+[^1125]: विष्टिं भुजङ्गमाकारां केचिदिच्छन्ति दारुणाम् । भुजगस्य मुखे भीतिर्न तु पुच्छे कदाचन ॥ आस्यं तस्या भवति घटिकाः पञ्च कण्ठं तथैका वक्षश्चैकादश निगदिता नाभिदेशश्च. तस्रः। पुच्छस्तिस्रः कटिरपि तथा षट् च पूर्वे मुनीन्द्रैराख्यातैषा न शुभफलदा वर्जयेदुत्तमस्ताम् ।। राजमार्तण्ड q. by शुद्धिकौमुदी p. 208. These are verses 1015-16 of the ms. of राजमार्तण्ड described by me in Journal of Oriental research, Madras, vol. XXIII. (1953-54 ) at pp. 108-112. The com. on मुहूर्तचिन्तामणि I. 44 quotes a verse from कश्यपसंहिता for the evil consequences of beginning an auspicious rite ( maṅgala) on the different parts of Viṣṭi (except its tail) : कार्यहानिर्मुखे मृत्युर्गले वक्षसि निःस्वता । कट्यामुन्मत्तता नाभौ च्युतिः पुच्छे ध्रुवो जयः ॥ अयं च भद्राङ्गविभागो नाडीनां त्रिंशतोक्तः । त्रिंशतो न्यूनाधिकत्वे तु त्रैराशिकेन मुखादीनामङ्गानां विभागज्ञानम् । com.
 
-Bava Bālava Kaulava Taitila
+## Numerous pañcāṅgas in India
 
-Gara Vanija Visti
+In the continent of India there are numerous pañcāṅgas in vogue and there is something like anarchy in this sphere. Hardly any two pañcāṅgas agree completely. Many educated Indians have been demanding that such matters as eclipses, the times of which can be noted by anyone, should be accurately predicted by the almanacs and that our ancient methods of calculating the motions of heavenly bodies should be brought in line with modern accurate calculations based upon observations. This is just what scientific astronomers like Varāhamihira would have done if they were living in modern times. At the end of his two works Varāha makes a very candid but solemn request [^1126] 'whatever in this work comes to be unscientific while it is being used or on account of defects in the mss, or whatever may have been badly executed by me or insufficiently done or not done at all, that should be corrected by learned men, leaving aside all passion (jealousy), and after acquiring (knowledge ) from the lips of well-read men.' Some almanac-makers follow the Nautical Almanac tables as to eclipses and the like and set out other matters according to the old tables. As already stated there are three main schools of astronomers in India, (1) the school that follows the Sūrya-siddhānta (and is called Saurapakṣa ), (2) the second follows the Brahma-siddhānta (and is called Brāhma pakṣa ), (3) the third follows the Āryasiddhānta (and is styled Āryapakṣa ). There are two main points of difference between these, viz. (1) the length of the year, (2) the number of revolutions of the sun, the moon and the planets in a certain period such as a mahāyuga. The difference in the length of the year among the siddhāntas is very small viz. a few _vipalas_ ( a _vipala_ being 1/60th part of a _pala_, which again is 1/60th of a _ghaṭikās_ that is equal to 24 minutes). The length of the year according to the Sūryasiddhanta is 365 days 15 ghaṭis, 31.523 _palas_, while the interval in time between two successive returns of the sun to the vernal equinox (called the tropical year) is only 365 days, 14 ghaṭis and 31.972 _palas_ and the correct sideral ( nākṣatra) year is 365 days, 15 ghaṭis, 22 palas and 53 vipalas (vide C. R. C. Report p. 240 in hours, minutes and seconds and Dikshit's History ed. of 1931 pp. 159, 440). The result is that if one follows the Sūryasiddhānta, the starting point of Hindu astronomers is at present more than 23 degrees to the east of the correct vernal equinox point. This difference is called the _ayanāṁśa_.
 
-2 3 4 5 6 7 8
+[^1126]: ग्रन्थस्य यत्प्रचरतोऽस्य विनाशमेति लेख्याद् बहुश्रुतमुखाधिगमक्रमेण । यद्वा मया कुकृतमल्पमिहाकृतं वा कार्ये तदत्र विदुषा परिहृत्य रागम् ॥ बृहत्संहिता 105. 5, बृहज्जातक 28.8.
 
-9 10 11 12 13 14 15
+As the longitudes of heavenly bodies reckoned from the equinox include these _ayanāṁśas_ they are called _sāyana_ ( _sa + ayana_). The places of heavenly bodies obtained by the methods of the Sūryasiddhanta and medieval Sanskrit works are distinguished by being called _nirayaṇa_ (devoid of taking into account precession). At present according to most almanacs that employ the Sūryasiddhānta values Makarasaṅkrānti (Sun's entrance into Capricorn) falls generally on 14th January, but according to the most accurate modern calculations, it should fall on 21st December; even in calendars that pride themselves on being _śuddha_ the Makarasaṅkrānti falls on 9th January i.e. our Makarasaṅkrānti is celebrated [^1127] about 23 or 18 days later than it should be and the same happens to the vernal equinox, autumnal equinox and the summer solstice and many other observances. Aśvini is still reckoned as the first nakṣatra (in which the vernal equinox is deemed to have occurred about śaka 444 ), although the vernal equinox point has receded to the Uttarā-bhādrapadā group of stars ( which should now be treated as the first nakṣatra). Efforts have been made by those familiar with the modern accurate calculations (such as the late Kero L. Chatre) to introduce modern calculations in our almanacs; but they have met with little response.
 
-16 17 18 19 20 21 22
+## Resolutions passed at Sangli conference
 
-23 24 25 26 27 28 29
+The late Lokamānya Tilak (who was a great Vedic scholar and mathematician) held several conferences of Indian astronomers and other interested people at Bombay (1904), Poona (1917) and at Sangli (1919). At the last conference several resolutions were passed which without making a total break with the past were calculated to reform our calendar and to prevent further deterioration. It is unnecessary to set out all the resolutions, but the most important were that the length of the year should be that of the Sūryasiddhānta but subject to necessary corrections, the rate of precession should be accepted at 50.2 _vikalās_ a year (as determined by modern astronomical observations ), that the Yogatārā [^1128] of Revati (corresponding to Zeta Piscium of modern astronomers) should be deemed to be the beginning of the Zodiacal belt (_rāśicakrārambhasthāna_) and that the _ayanāṁsas_ calculated from the starting point by actual observation should be accepted for the purpose of a new _Karaṇa_ (astronomical manual) to be compiled according to the resolutions.
 
-30 31 32 33 34 35 36
+[^1127]: Vide note 574 above, where the encyclopoedist scholar Hemādri is quoted as saying that the real Makarsaṅkrānti takes place 12 days before the saṅkrānti in the almanacs and that the holy time of Makarsaṅkrānti is really twelve days earlier than the one on which people celebrate it and religious gifts should really be made at that time.
 
-37 44 51 38 45 52 39 46 53 40 47 54 41 48 - 55 42 4956 43 50 57
+[^1128]: सतारागणमध्ये ( स्वतारा० ? ) तु या तारा दीप्तिमत्तरा । योगतारेति सा प्रोक्ता नक्षत्राणां पुरातनैः ॥ quoted by उत्पल on बृहत्संहिता 24.34 and by अद्भुतसागर P. 44 ( which reads तु श्वेता वा दीप्तिमत्तरा ).
 
-The fixed Karanas will be Sakuni 58,59 Catuspada, 60 Nāga, 1 (pratipad first half of next month ) Kimstughna.
+ Unfortunately the resolutions did not state where exactly the star Zeta Piscium was in a particular śaka year. Dr. K. L. Daftari prepared a Karaṇa-grantha called Karaṇakalpalatā in Sanskrit which was published in 1924. Almanacs based on its data have been published and are sometimes known as 'Tilak Pañcāṅga.' But it must be confessed that our people in general are so much custom-ridden that the popular response to the reformed calendar is poor. People still follow the pañcāṅgas based on the old siddhāntas. According to the śāstras every religious festival is to be celebrated at the proper time i.e. in the right season and on the proper tithi. The tithi depends upon the correct calculation of the movements of the moon, which are most difficult to reduce to rules that will give accurate results. Many people will not observe the _ekādaśī_ fast if the eleventh tithi is mixed up with the 10th tithi even for a few ghaṭikās. But what guarantee is there that the 10th tithi has been accurately calculated? The ending moments of tithis do not agree with those given by the Nautical Almanac which are based on modern formula and are verified by actual observation. If tithis be calculated according to different Sanskrit astronomical treatises the moment of a particular tithi may differ by as much as five hours and the same festival (such as Kr̥ṣṇajanmāṣṭami or _Dussera_ ) may be celebrated on two successive days in the same city.
 
-710
+Besides, it must not be forgotten that a pañcāṅga prepared on the basis of the latitude and longitude of Poona or Bombay will be slightly wrong even at a distance of 30 or 40 miles to the west or east or north. It would be a great mistake from the religious point of view to employ a pañcāṅga prepared on the basis of the longitude and latitude of Poona or Bombay in a place several hundred miles away (such as in Hyderabad or Aurangabad). From the religious point of view if accuracy is to be preserved there must be a separate pañcāṅga for every town or every place not more than 10 or 15 miles from places like Bombay or Poona where pañcāṅgas are at present prepared.
 
-
-
-Sec. II, Ch. XIX
-
-In the dark half, 1124 Visti will occur in the latter half of the third and 10th tithis and in the first half of the 7th and 14th tithis; in the bright half Visti will occur in the latter half of the 4th and 11th tithis and the first half of the 8th and 15th (i. e. Paurnamāśi) tithis. The Rājamārtaṇḍa 1125 states. Some regard Visti as having the form of a cobra and as terrible; there is danger in the mouth of a snake but not in its tail. The mouth, neck, chest, navel region, waist and tail of Visti are respectively of five, one, eleven, four, six and three ghaṭikās. Great sages declare that it (Visti ) does not confer fortunate results, therefore a good man should avoid these except the tail' (on last three ghaṭikās of Visti auspicious acts may be performed). Visti is also euphemistically called Bhadrā or Kalyāni (it is really abhadrā). The terrible nature of Visti is described in two verses of Bhima-parākrama quoted in Bhujabala-nibandha p. 30 ( vide pp. 95–96 of my paper on ‘Bhoja and his works &c.' in Journal of Oriental Research, Madras, vol. XXIII for 1953-54 ) which also occur in Rājainārtanda, verses 1021-22.
-
-The whole scheme of Karanas is itself fanciful. But to draw a lurid picture of one of them, Visti (which occurs eight times in a month ), and say that it is like a cobra or an ogress is the height of imagination dominated by astrological considerations.
-
-Having described at some length the five angas in a pancānga, a few words must be said about Hindu calendars, though it has been already declared above that purely astro nomical matters will not be elaborated in this work. In the
-
-1124. Taimestima Aliaga:1 Foot hie: THI TE TIRI TOAigoni! gigangail q. by Vinigeip 207; a similar verse is quoted by FÀ. I. p. 23 'संग्रहे । कृष्णेऽग्निविशयोरूर्व सप्तमीभूतयोरधः । शुक्ने वेदेशयोरूर्व भद्रा प्रार वसुपूर्णयोः॥.' Vide 1. 1. I. 43.
-
-1125. are 5 AETTI marefn Shop | TET ga ada ya कदाचन ॥ आस्यं तस्या भवति घटिकाः पञ्च कण्ठं तथैका वक्षश्चैकादश निगदिता नाभिदेशच तनः। पुच्छस्तिस्रः कटिरपि तथा षट् च पूर्व मुनीन्द्रराख्यातैषा न शुभफलदा वर्जयेदुत्तमस्ताम् ।। TITATIVE q. by yrighted p. 208. These are verses 1015-16 of the ms. of ParduE described by me in Journal of Oriental research, Madras, vol. XXIII. (1953-54 ) at pp. 108-112. The com. on para alAll I. 44 quotes a verse from 4T ARAT for the evil consequences of beginning an aus picious rite ( mangala ) on the different parts of Visti (except its tail) : कार्यहानिर्मुखे मृत्युगले वक्षसि निःस्वता । कट्यामुन्मत्तता नाभौ च्युतिः पुच्छे ध्रुवो जयः । अयं च भद्राङ्गविभागो नाडीनां त्रिंशतोक्तः । त्रिंशतो न्यूनाधिकत्वे तु त्रैराशिकेन मुखादीनामङ्गाना FTFAH i com.
-
-Numerous pañcũngas in India
-
-711
-
-continent of India there are numerous pañcāngas in vogue and there is something like anarchy in this sphere. Hardly any two pancāngas agree completely. Many educated I ndians have been demanding that such matters as eclipses, the times of which can be noted by anyone, should be accurately predicted by the almanacs and that our ancient methods of calculating the motions of heavenly bodies should be brought in line with modern accurate calculations based upon observations. This is just what scientific astronomers like Varāhamihira would have done if they were living in modern times. At the end of his two works Varāha makes a very candid but solemn request 1126
-
-whatever in this work comes to be unscientific while it is being used or on account of defects in the mss, or whatever may have been badly executed by me or insufficiently done or not done at all, that should be corrected by learned men, leaving aside all passion / jealousy ), and after acquiring (knowledge ) from the lips of well-read mon.' Somne almanac-makers follow the Nautical Almanac tables as to eclipses and the like and set out other matters according to the old tables. As already stated there are three main schools of astronomers in India, (1) the school that follows the Sūrya-siddhānta (and is called Saurapakṣa ), (2) the second follows the Brahma-siddhānta (and is called Brāhma pakṣa ), (3) the third follows the Āryasiddhānta (and is styled Āryapakṣa ). There are two main points of difference between these, viz. (1) the length of the year, (2) the number of revolu tions of the sun, the moon and the planets in a certain period such as a mahāyuga. The difference in the length of the year among the siddhāntas is very small viz. a few vipilus ( a ripala being alth part of a vala, which again is oth of a ghaṭikā that is equal to 24 minutes). The length of the year according to the Sūryasiddhanta is 365 days 15 ghaṭis, 31. 523 palis, while the interval in time between two successive returns of the sun to the vernal equinox (called the tropical year) is only 365 days, 14 ghaṭis and 31. 972 palas and the correct sideral ( nāksatra) year is 365 days, 15 ghaṭis, 2 palas and 53 vipalas (vide C. R. C. Report p. 240 in hours, minutes and seconds and Dikshit's History ed. of 1931 pp. 159, 440). The result is that if one follows the Sūryasiddhānta, the starting point of Hindu astronomers is at present more than 23 degrees to the east of the correct vernal equinox point. This difference is called the ayanāṁsa.
-
-
-
-I
-
-1126 IP67 999ast farmia ETS E ITHIAU I ET HYT HACUTET AT FITTE ET IN EFFICIT 105. 5, em 28.8.
-
-712
-
-
-
-
-
-1
-
-As the longitudes of heavenly bodies reckoned from the equinox include these ayunāmsas they are called sāyana ( sa + ayana ). The places of heavenly bodies obtained by the methods of the Sūryasiddhanta and medieval Sanskrit works are distinguished by being called niruyana ( devoid of taking into account procession). At present according to most almanacs that employ the Sūryasiddhānta values Makarasankrānti (Sun's entrance into Capricorn) falls generally on 14th January, but according to the most accurate modern calculations, it should fall on 21st December; even in calendars that pride themselves on being suddha the Makarasankranti falls on 9th January i. e. our Makarasankrānti is celebrated 1127 about 23 or 18 days later than it should be and the same happens to the vernal equinox, autumnal equinox and the summer solstice and many other observances. Aśvini is still reckoned as the first nakṣatra (in which the vernal equinox is deemed to have occurred about saka 444 ), although the vernal equinox point has receded to the Uttara-bhādrapadā group of stars ( which should now be treated as the first nakṣatra). Efforts have been made by those familiar with the modern accurate calculations (such as the late Kero L. Chatre) to introduce modrn calculations in our almanacs; but they have met with little response. The late Lokamānya Tilak (who was a great Vedic scholar and mathematician) held several conferences of Indian astronomers and other interested people at Bombay (1904), Poona (1917) and at Sangli (1919). At the last conference several resolutions were passed which without making a total break with the past were calculated to reform our calendar and to prevent furthur deterioration. It is un necessary to set out all the resolutions, but the most impor tant were that the length of the year should be that of the Sūryasiddhānta but subject to necessary corrections, the rate of procession should be accepted at 50.2 ¿ikalās a year (as determined by modern astronomical observations ), that the Yogatārā 1128 of Revati (corresponding to Zeta Piscium of modern astronomers) should be deemed to be the beginning of the
-
-1127. Vide pote 574 above, where the encyclopoedist scholar Hemādri is quoted as saying that the real Makarsankranti takes place 12 days before the sankrānti in the almanacs and that the holy time of Makarsankranti is really twelve days earlier than the one on which people celebrate it and religious gifts should really be made at that time,
-
-1128. HATTITUTET ( Fatto ?) a arte rartii I Tania \#lithu नक्षत्राणां पुरातनः ॥quoted by उत्पल on बृहत्संहिता 24. 34 and by अद्भुतसागर p. 44 (which reads तु श्वेता वा दीप्तिमत्तरा).Resolutions passed at Sangli conference
-
-713
-
-Zodiacal belt / rāśicakrārambhasthāna) and that the ayanāṁsas calculated from the starting point by actual observation should be accepted for the purpose of a new Karaṇa (astronomical manual) to be compiled according to the resolutions. Unfortu nately the resolutions did not state where exactly the star Zeta Piscium was in a particular saka year. Dr. K. L. Daftari prepared a Karana-grantha called Karanakalpalatā in Sanskrit which was published in 1924. Almanacs based on its data have been published and are sometimes known as Tilak Pañcānga.' But it must be confessed that our people in general are so much custom-ridden that the popular response to the reformed calendar is poor. People still follow the pañcāngas based on the old siddhāntas. According to the śāstras every religious festival is to be celebrated at the proper time i. e. in the right season and on the proper tithi. The tithi depends upon the correct calcula tion of the movements of the moon, which are most difficult to reduce to rules that will give accurate results. Many people will not observe the ekādaśī fast if the eleventh tithi is mixed up with the 10th tithi even for a few ghaṭikās. But what guarantee is there that the 10th tithi has been accurately calculated? The ending moments of tithis do not agree with those given by the Nautical Almanac which are based on modern formula and are verified by actual observation. If tithis be calculated according to different Sanskrit astronomical treatises the moment of a particular tithi may differ by as much as five hours and the same festival (such as Kșspajanmāstami or Dussera ) may be celebrated on two successive days in the same city.
-
-Besides, it must not be forgotten that a pañcānga prepared on the basis of the latitude and longitude of Poona or Bombay will be slightly wrong oven at a distance of 30 or 40 miles to the west or east or north. It would be a great mistake from the religious point of view to employ & pancānga prepared on the basis of the longitude and latitude of Poona or Bombay in a place several hundred miles away (such as in Hyderabad or Aurangabad ). From the religious point of view if accuracy is to be preserved there must be a separate pañcānga for every town or overy place not more than 10 or 15 miles from places like Bombay or Poona where pañcāngas are at present prepared.
-
-In November 1952 the Government of India appointed a committee called the Calendar Reform Committee presided over by Dr. Meghanad Saha to examine all existing calendars being followed at present in India and to submit proposals for an accurate and uniform calendar for the whole of India. That
-
-9, D. 90
-
-714
-
-
-
-
-
-committee submitted a very exhaustive and valuable report in November 1955. The final recommendations of the Committee for a civil calendar and for a religious calendar are set out on pp. 6-8 of the report. They are deserving of the most serious consideration by all who feel that religious observances must be done at the proper time and that now at least in independent India there should not only be one uniform civil calendar, but also one uniform Hindu religious calendar. 1129 It appears that unless Government makes great efforts for the introduction of a correct calendar even for religious purposes, it would be futile to assume that common people will spontaneously adopt a correct pancānga.
+In November 1952 the Government of India appointed a committee called the Calendar Reform Committee presided over by Dr. Meghanad Saha to examine all existing calendars being followed at present in India and to submit proposals for an accurate and uniform calendar for the whole of India. That committee submitted a very exhaustive and valuable report in November 1955. The final recommendations of the Committee for a civil calendar and for a religious calendar are set out on pp. 6-8 of the report. They are deserving of the most serious consideration by all who feel that religious observances must be done at the proper time and that now at least in independent India there should not only be one uniform civil calendar, but also one uniform Hindu religious calendar. [^1129] It appears that unless Government makes great efforts for the introduction of a correct calendar even for religious purposes, it would be futile to assume that common people will spontaneously adopt a correct pañcāṅga.
 
 Some of the important recommendations of the Committee may be set out here for the information of readers.
 
-Recommendations for civil calendar (1) The Saka era should be used in the unified national calendar.
+## Recommendations for civil calendar
 
-The Saka year 1876 corresponds to 1954–55 A. D. (2) The year should start from the day following the vernal
-
-equinox day. (3) Normal year is to consist of 365 days, while a leap year
-
-would have 366 days. After adding 78 to the Saka era year, if the sum is divisible by 4, then it would be a leap year. But when the sum becomes a multiple of 100, it would be a leap year only when it is divisible by 400;
-
-otherwise it would be a common year. (4) Caitra (or Chaitra as often written) should be the first
-
-month of the year and the lengths of the different months
-
-should be fixed as follows: Caitra - 30 days (31 days in a Āśvina - 30 days.
-
-leap year ). Vaiśākha -31 days.
-
-Kārtika --30 days. Jyestha -31 days.
-
-Mārgaśīrsa - 30 days. Āṣāḍha --- 31 days.
-
-Pausa —30 days. Srāvaṇa--31 days.
-
-Māgha - 30 days. Bhadrapada – 31 days.
-
+(1) The Śaka era should be used in the unified national calendar. The Śaka year 1876 corresponds to 1954–55 A. D.
+(2) The year should start from the day following the vernal equinox day.
+(3) Normal year is to consist of 365 days, while a leap year would have 366 days. After adding 78 to the Śaka era year, if the sum is divisible by 4, then it would be a leap year. But when the sum becomes a multiple of 100, it would be a leap year only when it is divisible by 400; otherwise it would be a common year.
+(4) Caitra (or Chaitra as often written) should be the first month of the year and the lengths of the different months should be fixed as follows:
+Caitra - 30 days (31 days in a leap year ).
+Vaiśākha -31 days.
+Jyeṣṭha -31 days.
+Āṣāḍha --- 31 days.
+Śrāvaṇa--31 days.
+Bhādrapada – 31 days.
+Āśvina - 30 days.
+Kārtika --30 days.
+Mārgaśīrṣa - 30 days.
+Pauṣa —30 days.
+Māgha - 30 days.
 Phālguna - 30 days.
 
-inny day
+[^1129]: Those interested in Indian Calendar Reform should read the Marathi Preface to Dr. K, L, Daftari's work in Sanskrit 'Karaṇa-kalpalatā', Mr. S.M. Karamalkar's Marathi work '_Khareṁ pañcāṅga kasem milel_' (1950), I. H. Q. vol. IV. pp. 483-511 on 'Hindu Calendar' by Sukumar Ranjan Das, Dr. Saha's papers on 'Reform of Indian calendar' in 'Science and Culture' ( Calcutta, 1952), vol. XVII. pp. 57–68 and 109-123 and the Report of the Calendar Reform Committee.
 
-1129. Those interested in Indian Calendar Reform should read the Marathi Preface to Dr. K, L, Daftari's work in Sanskrit 'Karana-kalpalatā', Mr. S.M. Karamalkar's Marathi work 'Kharen pañcanga kasem milel' (1950), I. H. Q. vol. IV. pp. 483-511 on 'Hindu Calendar' by Sukumar Ranjan Das, Dr. Saba's papers on 'Reform of Indian calendar' in Science and Culture' ( Calcutta, 1952), vol. XVII. pp. 57–68 and 109-123 and the Report of the Calendar Reform Committee.
+## Calendar Committee's Recommendations
 
-Calendar Committee's Recommendations
+The dates of the reformed Indian calendar would thus have a permanent correspondence with the Gregorian [^1130] calendar. The corresponding dates would be :
 
-715
-
-The dates of the reformed Indian calendar would thus have a permanent correspondence with the Gregorian 1130 calendar. The corresponding dates would be :
-
-Hindu Gregorian ! Caitra 1-March 22 in a Āśvina 1 - September 23.
-
-common year and
-
-21 in a leap year. Vaisākha 1 - April 21.
-
-Kārtika 1–October 23. Jyestha 1 - May 22.
-
-Mārgaśīrṣa 1 - November 22. Āṣāḍha 1—June 22.
-
-Pausa 1 - December 22. Srāvana 1 -- July 23.
-
-Māgha 1 - January 21. Bhādrapada 1 - August 23. Phālguna 1 - February 20.
+Hindu     Gregorian
+Caitra 1-March 22 in a common year and 21 in a leap year.
+Vaiśākha 1 - April 21.
+Jyeṣṭha 1 - May 22.
+Āṣāḍha 1—June 22.
+Śrāvaṇa 1 -- July 23.
+Bhādrapada 1 - August 23.
+Āśvina 1 - September 23.
+Kārtika 1–October 23.
+Mārgaśīrṣa 1 - November 22.
+Pauṣa 1 - December 22.
+Māgha 1 - January 21.  
+Phālguna 1 - February 20.
 
 The Indian seasons would thus be permanently fixed with respect to the reformed Calendar as follows:
 
-Seasons : Grisma --- Vaisakha and Hemanta – Kārtika and (summer) Jýeṣtha. (late autumn) Mārgasirṣa. Varsā -- Āṣāḍha and Śiśira – Pausa and Māgha. (rains) Śrāvana. (winter) Sarad - Bhadrapada and Vasanta - Phālguna and (Autumn) Aśvina. (Spring ) Caitra.
+_Seasons_ :
+Griṣma (summer)--- Vaiśākha and Jýeṣṭha.
+Varṣā (rains)-- Āṣāḍha and Śrāvaṇa.
+Śarad (Autumn)-- Bhādrapada and  Aśvina.
+Hemanta (late autumn)– Kārtika and Mārgaśirṣa.  
+Śiśira (winter)– Pauṣa and Māgha.      
+Vasanta (Spring )- Phālguna and Caitra.
 
-The States now having the solar calendars for civil and partly religious purposes which start the year from Vaiśākha (April 14th ) will have to begin the year 23 days earlier, but the first month will be Caitra. The effect of this will be that in Bengal, Orissa and Assam solar months start approximately seven days later than now, and in Tamil-nad solar months start approximately 23 days earlier than now, for the month called Vaiśākha (14th April to 14th May) in Bengal and Orissa is called Chittırai (or caitra) in Tamil-nad. Those who use the lunar calendar beginning with Caitra also for civil purposes would experience no great difficulty in adopting this unified calendar
+The States now having the solar calendars for civil and partly religious purposes which start the year from Vaiśākha (April 14th ) will have to begin the year 23 days earlier, but the first month will be Caitra. The effect of this will be that in Bengal, Orissa and Assam solar months start approximately seven days later than now, and in Tamil-nad solar months start approximately 23 days earlier than now, for the month called Vaiśākha (14th April to 14th May) in Bengal and Orissa is called _Chittırai_ (or caitra) in Tamil-nad. Those who use the lunar calendar beginning with Caitra also for civil purposes would experience no great difficulty in adopting this unified calendar as they have at present the beginning of their year on various dates from 15th March to 13th April and the first month is Caitra.
 
-1130. It may be noted that under the Indian Limitation Act (Act I of 1908 ) section 25, all lostruments shall, for the purposses of the Limitation Act, be deamed to be made with reference to the Gregorian Calendar. This rule is absolute and therefore even if a bond is made on a titbl of a lanar month in a certain saka year and is made payable four months after the saka date, the period of limitation applicable to a suit brought on the bond runs from the expiration of four months after the date computed according to the Gregorian Calendar.
+[^1130]: It may be noted that under the Indian Limitation Act (Act I of 1908 ) section 25, all instruments shall, for the purposes of the Limitation Act, be deemed to be made with reference to the Gregorian Calendar. This rule is absolute and therefore even if a bond is made on a tithi of a lunar month in a certain śaka year and is made payable four months after the śaka date, the period of limitation applicable to a suit brought on the bond runs from the expiration of four months after the date computed according to the Gregorian Calendar.
 
-716
+## Recommendations for religious calendar.
+(5) The calculation for _Saura_ (solar) months necessary for determining the lunar months of the same name will start 23 degrees and 15 minutes (fixed ayanāṁśa) ahead of the vernal equinox point. This tallies with the present practice of most almanac-makers.
 
-History of Dharmaśāstra (Sec. II, Ch. XIX
-
-as they have at present the beginning of their year on various dates from 15th March to 13th April and the first month is Caitra,
-
-Recommendations for religious calendar. (5) The calculation for Saura (solar) months necessary for determining the lunar months of the same name will start 23 degrees and 15 minutes (fixed ayanāmīa ) ahead of the vernal equinox point. This tallies with the present practice of most almanac-makers.
-
-The months would thus commence at the moments when the tropical longitude of the sun attains the following values; viz. Saura Vaiśākha commences when the sun has the longitude of 23° 15', Saura Jyestha and the other Saura months upto Caitra will commence when the sun has respectively the longitude of 53° 15', 83° 15', 113° 15', 143° 15', 173° 15', 203° 15', 233° 15',
-
-263° 15', 293° 15', 323° 15', 353° 15'.
+The months would thus commence at the moments when the tropical longitude of the sun attains the following values; viz. Saura Vaiśākha commences when the sun has the longitude of 23° 15', Saura Jyeṣṭha and the other Saura months upto Caitra will commence when the sun has respectively the longitude of 53° 15', 83° 15', 113° 15', 143° 15', 173° 15', 203° 15', 233° 15', 263° 15', 293° 15', 323° 15', 353° 15'.
 
 This recommendation is to be regarded only as a measure of compromise, so that a violent break with the established practice would be avoided. But this compromise would not make our present seasons in the several months as they were in the days of Kālidāsa and Varāhmihira. It is hoped that at not a distant date, further reforms for locating the lunar and solar festivals in the seasons in which they were originally observed will be adopted
 
-(6) As usual the lunar months for religious purposes would commence from the moment of new moon and would be named after the saura month in which the new moon falls. If there be two new moons during the period of a Saura month the lunar month beginning from the first new moon is the adhika or mala māsa and the lunar month beginning from the moment of the second new moon is the suddha or nija māsa as usual.
+(6) As usual the lunar months for religious purposes would commence from the moment of new moon and would be named after the saura month in which the new moon falls. If there be two new moons during the period of a _Saura_ month the lunar month beginning from the first new moon is the _adhika_ or _mala māsa_ and the lunar month beginning from the moment of the second new moon is the _śuddha_ or _nija māsa_ as usual.
 
-(7) The moment of the moon's exit from a nakṣatra division of 13° 20' each or sun's entry into it would be calculat ed with a variable ayanāṁsa ( i. e. on the supposition that they are fixed with respect to the stars ). The value of this ayanāmsa would amount to 23° 15' 0" on 21 March 1956. Thereafter it would gradually increases with the annual rate, the mean value of which is about 50.27".
+(7) The moment of the moon's exit from a nakṣatra division of 13° 20' each or sun's entry into it would be calculated with a variable _ayanāṁśa_ ( i.e. on the supposition that they are fixed with respect to the stars ). The value of this _ayanāṁśa_ would amount to 23° 15' 0" on 21 March 1956. Thereafter it would gradually increases with the annual rate, the mean value of which is about 50.27".
 
-These arrangements would ensure that the religious obser vances determined by the sun such as the Visuva-sankranti, Uttarāyana-sankrānti and Daksiṇāyana-sankranti would follow
+These arrangements would ensure that the religious observances determined by the sun such as the Viṣuva-saṅkrānti, Uttarāyaṇa-saṅkrānti and Dakṣiṇāyana-saṅkrānti would follow astronomically correct seasons, but those determined by the lunar calendar would continue to be observed in times conforming to the present practice and the correction introduced by this report in the length of the year would prevent their further shift in relation to the seasons.
 
-Calendar Committee's Recommendations
+The dates of festivals have already shifted by twenty-three days from the seasons in which they were observed about 1400 years ago as a result of our almanc-makers having ignored the precession of the equinoxes. Although it might appear to some desirable that the entire amount of shifting be wiped out at once, the authors of the Report consider it expedient to maintain this as constant difference and to stop its further increase. As a result there would at present be no deviation from the prevailing custom in the observance of religious festivals.
 
-717
+In the calculation of _nakṣatras_, however, the Report has adopted a variable _ayanāṁśa_, so that at the time of a particular nakṣatra the moon may be seen in the sky in the star or star group of that name. This practice has been followed in our country from Vedic times and is perfectly scientific.
 
-astronomically correct seasons, but those determined by the lunar calendar would continue to be observed in times conform ing to the present practica and the correction introduced by this report in the length of the year would prevent their further shift in relation to the seasons.
-
-The dates of festivals have already shifted by twenty-three days from the seasons in which they were observed about 1400 years ago as a result of our almanc-makers having ignored the precession of the equinoxes. Although it might appear to some desirable that the entire amount of shifting be wiped out at once, the authors of the Report consider it expedient to maintain this as constant difference and to stop its further increase. As a result there would at present be no deviation from the prevail ing custom in the obgervance of religious festivala.
-
-In the calculation of nakṣatras, however, the Report has adopted a variable ayanāinsa, so that at the time of a particular nakṣatra the moon may be seen in the sky in the star or star group of that name. This practice has been followed in our country from Vedic times and is perfectly scientific.
-
-(8) The day should be reckoned from midnight to mid night of the central station ( 821 degrees E. Longitude and 239 11' North Latitude ) for civil purposes but for religious purposes the local sunrise system may be followed.
+(8) The day should be reckoned from midnight to midnight of the central station ( 82 1/2 degrees E. Longitude and 23° 11' North Latitude ) for civil purposes but for religious purposes the local sunrise system may be followed.
 
 (9) For the purpose of all calculations, the longitudes of the sun and the moon should be obtained by applying the most upto-date and complete equations of their motions, so that they may tally with their actually observed values.
 
-(10) Steps should be taken to compile an Indian Ephe meris and Nautical Almanac' by the Government of India, showing in advance the positions of the sun, the moon, the planets and other heavenly bodies. The Indian calendar, both civil and religious, prepared according to the above recommenda tions should be included in that publication every year.
+(10) Steps should be taken to compile an 'Indian Ephemeris and Nautical Almanac' by the Government of India, showing in advance the positions of the sun, the moon, the planets and other heavenly bodies. The Indian calendar, both civil and religious, prepared according to the above recommendations should be included in that publication every year.
 
-One can only express the hope that the above mentioned recommendations of the Committee of distinguished astronomers and Sanskrit scholars will receive a wide and hearty response from the Hindu people and that the present confusion and anarchy in the matter of religious observances in our country will come to an end as soon as possible. The Government of India accepted the principal recommendations of the Committee
+One can only express the hope that the above mentioned recommendations of the Committee of distinguished astronomers and Sanskrit scholars will receive a wide and hearty response from the Hindu people and that the present confusion and anarchy in the matter of religious observances in our country will come to an end as soon as possible. The Government of India accepted the principal recommendations of the Committee by issuing a Press Note on 23rd October 1956 which decided that the Uniform National Calendar should be adopted with effect from March 22, 1957 corresponding to (Solar) Chaitra 1, 1879, Śaka Era, for certain official purposes in conjunction with the Gregorian Calendar and laid down the steps to be taken by the Central Government and the States Governments for implementing the decision. To avoid misunderstandings and to encourage the use by the mass of the people of this Solar Calendar, Government has decided to make use of both the Gregorian Calendar and the New Indian Solar Calendar together in some Government business, such as publishing the Indian Government Gazette with both dates, the All India Radio Broadcasting news every day announcing both dates at the beginning. But Government is not going to give up as far as possible the practice of declaring public holidays on religious festivals according to the old Calendars. The Government will publish translations of the Calendar Reform Committee's Report in the principal languages of India. It must be said however that this Calendar does not remove all the defects of the Gregorian Calendar.[^1131] The years will still commence on different week days and the number of days in each month still varies. It is feared that this will add only one more calendar to the existing ones.
 
-718
-
-
-
-
-
-by issuing a Press Note on 23rd October 1956 which decided that the Uniform National Calendar should be adopted with effect from March 22, 1957 corresponding to (Solar) Chaitra 1, 1879, Saka Era, for certain official purposes in conjunction with the Gregorian Calendar and laid down the steps to be taken by the Central Government and the States Governments for imple menting the decision. To avoid misunderstandings and to encou
-
-rage the use by the mass of the people of this Solar Calendar, Government has decided to make use of both the Gregorian Calendar and the New Indian Solar Calendar together in some Government business, such as publishing the Indian Government Gazette with both dates, the All India Radio Broadcasting news every day announcing both dates at the beginning. But Government is not going to give up as far as possible the practice of declaring public holidays on religious festivals according to the old Calendars. The Government will publish translations of the Calendar Reform Committee's Report in the principal languages of India. It must be said however that this Calendar does not remove all the defects of the Gregorian Calendar.1131 The years will still commence on different week days and the number of days in each month still varies. It is feared that this will add only one more calendar to the existing ones.
-
-1131. The Gregorian calendar now in general use in Europe and other parts of the world is irregular, unbalarred and inconvenient (vide pp. 643-44 above. ). For twenty-five years the World Calendar Association founded by Miss, Elisabeth Achelis in New York has been dedicatiog its time and resources to the introdution of the World Calendar in many lands. The outstanding features of this world calendar are : Every year is the same and begins on Sunday, 1st January and ends on Saturday: each of its four quarters has 91 days, 13 weeks or three inocths; January, April, July and October have 31 days each and the other months bavę 30 days each; the Calendar is stabilized and made perpet al by ending the year with a 365th day following 30th December each ye . This additional day is named W (it is a World Holiday) and equal to 31st December, Yo a leap year a day is added at the end of the 2nd quarter, is oamed w, ecuais 31 June, called Leap year day and is another World Holid * The Voited Nations Organi zation has not yet lent its support to the Wild Calendar. An interesting work is 'Time counts: the story of the Calendar. by Harold Watkios (London, 1954.)
+[^1131]: The Gregorian calendar now in general use in Europe and other parts of the world is irregular, unbalanced and inconvenient (vide pp. 643-44 above. ). For twenty-five years the World Calendar Association founded by Miss. Elisabeth Achelis in New York has been dedicating its time and resources to the introduction of the World Calendar in many lands. The outstanding features of this world calendar are : Every year is the same and begins on Sunday, 1st January and ends on Saturday: each of its four quarters has 91 days, 13 weeks or three months; January, April, July and October have 31 days each and the other months have 30 days each; the Calendar is stabilized and made perpetual by ending the year with a 365th day following 30th December each year. This additional day is named W (it is a World Holiday) and equal to 31st December. In a leap year a day is added at the end of the 2nd quarter, is named W, equals 31 June, called Leap year day and is another World Holiday. The United Nations Organization has not yet lent its support to the World Calendar. An interesting work is 'Time counts: the story of the Calendar' by Harold Watkins (London, 1954.)
 
 北中
 
@@ -479,84 +405,16 @@ CATALOGUED.
 
 Ceotral Archaeological Library,
 
-NEW DELHI. 16326 Call Nd994.609 / kam
+NEW DELHI. 16326
+Call No. R294.609 / kam
 
-Author Kana.
+Author Kane.P.V
 
-History of Tharma Title 'susrfa vodov, PHI
+Title--History of Dharmasastra vol.V, Pt I
 
 Borrower No.
 
-Date of luue
+Date of issue
 
-Date of Retura
-
-K
-
-_
-
-*
-
-UF*
-
-*
-
-= 21
-
-A
-
-
-
-2
-
-
-
-V
-
-• RE:
-
-. S
-
-"
-
-'
-
-.
-
-'
-
-di.
-
-SY+ Ayy
-
-...
-
-.
-
-10
-
-.
-
-i71
-
-T?
-
-2
-
-
-
-1
-
-+
-
-**
-
-*
-
-M
-
-TEGER
-
-MERW2
-
-STREAM
+Date of Return
+{{< figure src="../images/seal.png" title="" class="thumbnail">}}
