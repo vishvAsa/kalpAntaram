@@ -9,10 +9,7 @@ The Bhandarkar Oriental Research Institute has great pleasure in publishing the 
 
 The second part of this volume will treat of such topics as sāntis-Vedic and post-Vedic; Purāṇas and their influence on Dharmaśāstra, society and Buddhism; Tantras and Dharma sastra; Pūrvamimāmsā and other darśanas in relation to Dharma śāstra; cosmology; the theory of punarjanma; the essential characteristics of our culture through the ages; and future trends. 
 
-er mye 
-
 All prefatory matter, including list of abbreviations, brief synopsis of the contents, list of works consulted, etc., as also General Index for the whole volume, will be given in the second part, which we hope to publish before long. 
 
 R. N. DANDEKAR Honorary Secretary. 
 
-Acecmedelomapā mér 
