@@ -6,46 +6,48 @@ title = "+1.1"
 
 
 
-Governmeut Oriental Series --Class B, No. 6 
+Government Oriental Series --Class B, No. 6
 
-HISTORY OF DHARMASĀSTRA 
+HISTORY OF DHARMAŚĀSTRA
 
-( ANCIENT AND MEDIÆVAL RELIGIOUS 
+( ANCIENT AND MEDIÆVAL RELIGIOUS
 
-AND CIVIL LAW IN INDIA ) 
+AND CIVIL LAW IN INDIA )
 
-PANDURANG VAMAN KANE National Professor of Indology 
+          By
 
-Volume 1 REVISED AND ENLARGED 
+PANDURANG VAMAN KANE National Professor of Indology
 
-Part 1 
+Volume 1 REVISED AND ENLARGED
 
-Bhandarkar Oriental Research Institute, Poona 4 
+Part 1
 
-1968 
+Bhandarkar Oriental Research Institute, Poona 4
 
-Copies can be had direct from the Bhandarkar Oriental 
+1968
 
-Research Institute, Poona 4 ( India ) Price Rs. 50 per copy, exclusive of postage 
+Copies can be had direct from the Bhandarkar Oriental
 
-Vol. 1: Second Edition 
+Research Institute, Poona 4 ( India ) Price Rs. 50 per copy, exclusive of postage
 
-Part 1 
+Vol. 1: Second Edition
 
-Pages 1-112 printed by Shri D. V. Ambekar, at the 
+Part 1
 
-Aryabhusban Press, 915/1 Shivajinagar, Poona 4 
+Pages 1-112 printed by Shri D. V. Ambekar, at the
 
-and 
+Aryabhushan Press, 915/1 Shivajinagar, Poona 4
 
-Pages 113-684 printed at the Bbandarkar Institute 
+and
 
-Pross, Poona 4 
+Pages 113-584 printed at the Bhandarkar Institute
 
-and 
+Press, Poona 4
 
-Published by Dr. R. N. Dandekar, M.A., Ph.D., 
+and
 
-Hon. Secretary, Bhandarkar Oriental 
+Published by Dr. R. N. Dandekar, M.A., Ph.D.,
 
-Resourol Institute, Poona 4 
+Hon. Secretary, Bhandarkar Oriental
+
+Research Institute, Poona 4
