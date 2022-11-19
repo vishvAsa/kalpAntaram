@@ -42,7 +42,7 @@ and
 
 Pages 113-584 printed at the Bhandarkar Institute
 
-Press, Poona 4
+Press, Poona 4  
 
 and
 
