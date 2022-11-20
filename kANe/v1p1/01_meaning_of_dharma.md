@@ -1,4 +1,4 @@
-+++
+  +++
 title = "01 Meaning of Dharma"
 
 +++
@@ -10,7 +10,7 @@ It would be interesting to recall a few other definitions of _dharma_. Jaimini[^
 
 The present work will deal with the sources of _dharma_, their contents, their chronology and other kindred matters. As the material is vast and the number of works is extremely large, only a few selected works and some important authors will be taken up for detailed treatment. More space will be devoted to comparatively early works.
 
-[^1]: पि॒तुं नु स्तोषं म॒हो ध॒र्माणं॒ तवि॑षीम् । This occurs in शुक्लयजुर्वेद 34.7.
+[^1]: पि॒तुं नु स्तौषं म॒हो ध॒र्माणं॒ तवि॑षीम् । This occurs in शुक्लयजुर्वेद 34.7.
 
 [^2]: इ॒मम॑ञ्ज॒स्पामु॒भये अकृण्वत ध॒र्माण॑म॒ग्निं वि॒दथ॑स्य॒ साध॑नम् ।
 
