@@ -1,5 +1,5 @@
 +++
-title = "03 When Dharmaśāstra works were first composed
+title = "03 Date of Dharmaśāstra works"
 short_title = "03 Date of Dharmaśāstra works"
 
 +++
