@@ -7,15 +7,19 @@ CHAPTER VII
 
 UPANAYANA
 
-This word literally means 'leading or taking near'. But the important question is 'near what'? It appears that it originally meant 'taking near the ācārya' (for instruction); it may have also meant 'introducing the novice to the stage of student-hood'. Some of the grhyasūtras bring out this songs clearly e. g. the Hir. gr. I. 5. 2618 says "The teacher thon makes the boy utter 'I have come unto brahmacarya. Lead me near (initiate me into it). Let me be a student,- impelled by the god Savitr'". The Mānava and Kathaka gr. ( 41.1) also use the word upāyana for upanayana and Adityadarśana on Kāthaka gr. ( 41. 1 ) says that upānaya, upangyana, mauñjibandhana, batukarana, vratabandha are synonyms.
+This word literally means 'leading or taking near'. But the important question is 'near what'? It appears that it originally meant 'taking near the ācārya' (for instruction); it may have also meant 'introducing the novice to the stage of student-hood'. Some of the gṛhyasūtras bring out this sense clearly e. g. the Hir. gr. I. 5. 2 [^616] says "The teacher then makes the boy utter 'I have come unto brahmacarya. Lead me near (initiate me into it). Let me be a student,- impelled by the god Savitr'". The Mānava and Kaṭhaka gr. ( 41.1) also use the word upāyana for upanayana and Ādityadarśana on Kāṭhaka gr. ( 41. 1 ) says that upānaya, upanayana, mauñjībandhana, baṭukaraṇa, vratabandha are synonyms.
 
-A few words about the origin and development of this most important samskāra would not be out of place here. Comparison with the ancient Zoroastrian scriptures ( vide S. B. E. vol. V. pp. 285-290 about the sacred girdle and shirt) and the modern practices among the Parsis of India tend to show that Upanayana goes back to an Indo-Iranian origin. But that subject is outside the scope of this work. Confining ourselves to Indian Literature, we find that already in the Rg. X. 109.5 the word 'brahmacari' occurs 'oh gods he ( Bṛbaspati), all pervading one, moves as a brabmacārl pervading all (sacrifices); he is only one part of the gods ( i. e. of sacrifices ); Bphaspati secured by that (i. e. by his service to the gods ) & wife (me who am named) Juhū, who was (formerly ) taken by Soma', 617 The
+[^616]: अथैनमभिध्याहारयति । ब्रह्मचर्यमागामुप मा नयस्व ब्रह्मचारी भवानि देवेन सवित्रा प्रसूत:। हिरण्य. गृ. I.5.2 (S.B.E. vol 30 p. 150); ब्रह्मचर्यमागामिति वाचयति ब्रह्मचार्यसानीति च। पार.गृ. II.2; गोभिलगृह्य II.10.21 (S.B.E. vol. 30 p. 65). The phrases ब्रह्मचर्यमागाम् and ब्रह्मचार्यसानी occur in the शतपथ XI. 5.4.1; vide आप.म.पा. II.3.26 for ब्रह्मचर्य...प्रसूत:. विश्वरूप on या.I.14 remarks वेदाध्ययनायाचार्यसमीपनयनमुपनयनं तदेवोपायनमित्युक्तम् छन्दोनुरोधात्। तदर्थे वा कर्म।' Vide मातृदत्त on हिरण्यकेशिगृ. I.1.1. 
 
-616. अधेनमभिध्याहारयति । ब्रह्मचर्यमागामुप मा नयस्थ ब्रह्मचारी भवानि देषेन Haar weg: FETTY. I. 1.5. 2 (S. B. E. vol. 30 p. 150); TAMTHIA T a arfarefifa 197. T. II 2 ; vide H TW II. 10. 21 (8.B. E. vol. 30 p. 65). The phrases Art and ATP occur in the TTY XI.5.4.1; vide at. 77. 47. II. 3.26 for ... reg. fason 47. I. 14 remarks TTTF 999474 water TART Origt urg in aT \#11. Vide Argan op forgalog, I. 1. 1.
+
+A few words about the origin and development of this most important saṁskāra would not be out of place here. Comparison with the ancient Zoroastrian scriptures ( vide S. B. E. vol. V. pp. 285-290 about the sacred girdle and shirt) and the modern practices among the Parsis of India tend to show that Upanayana goes back to an Indo-Iranian origin. But that subject is outside the scope of this work. Confining ourselves to Indian Literature, we find that already in the Ṛg. X. 109.5 the word 'brahmacāri' occurs 'oh gods! he ( Bṛhaspati), all pervading one, moves as a brahmacārī pervading all (sacrifices); he is only one part of the gods ( i. e. of sacrifices ); Bṛhaspati secured by that (i. e. by his service to the gods ) a wife (me who am named) Juhū, who was (formerly ) taken by Soma'. 617 
+
+
 
 __617. ममचारी चरति वेविषद विषः स देवानां भवत्येकमम् । तेन जापामम्बपिन्या
 
-Fa: Hl frat :n. X. 109.5 = pre v. 17.5. The reference to Soma recalls Rg X. 85. 45' FAT FUTT.' Every girl was supposed to bavo been under the protection of Soma, Gandbarya and Agni before bor marriage with a human bridegroom.
+Fa: Hl frat :n. X. 109.5 = pre v. 17.5. The reference to Soma recalls Rg X. 85. 45' FAT FUTT.' Every girl was supposed to bavo been under the protection of Soma, Gandbarya and Agni before bor marriage with a human bri
+degroom.
 
 Om. VII]
 
