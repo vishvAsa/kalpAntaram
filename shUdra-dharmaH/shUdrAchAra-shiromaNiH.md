@@ -2,8 +2,6 @@
 title = "शूद्राचार-शिरोमणिः"
 unicode_script = "devanagari"
 +++
-
-
 ## ० प्रकाशनविवरणानि
 THE SŪDRĀCHĀRA SIROMANI (PART I) BY SRI S'ESA KRISNA.
 
