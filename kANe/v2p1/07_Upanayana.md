@@ -12,26 +12,35 @@ This word literally means 'leading or taking near'. But the important question i
 [^616]: अथैनमभिध्याहारयति । ब्रह्मचर्यमागामुप मा नयस्व ब्रह्मचारी भवानि देवेन सवित्रा प्रसूत:। हिरण्य. गृ. I.5.2 (S.B.E. vol 30 p. 150); ब्रह्मचर्यमागामिति वाचयति ब्रह्मचार्यसानीति च। पार.गृ. II.2; गोभिलगृह्य II.10.21 (S.B.E. vol. 30 p. 65). The phrases ब्रह्मचर्यमागाम् and ब्रह्मचार्यसानी occur in the शतपथ XI. 5.4.1; vide आप.म.पा. II.3.26 for ब्रह्मचर्य...प्रसूत:. विश्वरूप on या.I.14 remarks वेदाध्ययनायाचार्यसमीपनयनमुपनयनं तदेवोपायनमित्युक्तम् छन्दोनुरोधात्। तदर्थे वा कर्म।' Vide मातृदत्त on हिरण्यकेशिगृ. I.1.1. 
 
 
-A few words about the origin and development of this most important saṁskāra would not be out of place here. Comparison with the ancient Zoroastrian scriptures ( vide S. B. E. vol. V. pp. 285-290 about the sacred girdle and shirt) and the modern practices among the Parsis of India tend to show that Upanayana goes back to an Indo-Iranian origin. But that subject is outside the scope of this work. Confining ourselves to Indian Literature, we find that already in the Ṛg. X. 109.5 the word 'brahmacāri' occurs 'oh gods! he ( Bṛhaspati), all pervading one, moves as a brahmacārī pervading all (sacrifices); he is only one part of the gods ( i. e. of sacrifices ); Bṛhaspati secured by that (i. e. by his service to the gods ) a wife (me who am named) Juhū, who was (formerly ) taken by Soma'. 617 
+A few words about the origin and development of this most important saṁskāra would not be out of place here. Comparison with the ancient Zoroastrian scriptures ( vide S. B. E. vol. V. pp. 285-290 about the sacred girdle and shirt) and the modern practices among the Parsis of India tend to show that Upanayana goes back to an Indo-Iranian origin. But that subject is outside the scope of this work. Confining ourselves to Indian Literature, we find that already in the Ṛg. X. 109.5 the word 'brahmacāri' occurs 'oh gods! he ( Bṛhaspati), all pervading one, moves as a brahmacārī pervading all (sacrifices); he is only one part of the gods ( i. e. of sacrifices ); Bṛhaspati secured by that (i. e. by his service to the gods ) a wife (me who am named) Juhū, who was (formerly ) taken by Soma'. [617] The word 'upanayana' [618] can be derived and explained in two ways: (1) taking (the boy) near the ācārya, (2) that rite by which the boy is taken to the ācārya. The first sense appears to have been the original one and when an extensive ritual came to be associated with upanayana the second came to be the sense of the word. Such an ancient work as the Āp. Dh. S. I.1.1. 19 says that upanayana is a saṁskāra (purificatory rite ) laid down by revelation for him who seeks learning (i. e. it accepts the second explanation) or this sūtra may mean 'it is a saṁskāra brought about by imparting the śruti ( viz. Gāyatrī mantra ) to him who seeks learning'.  This would mean that upanayana principally is gāyatryupadeśa ( tho imparting of the sacred Gāyatri mantra). This appears to be suggestod by the Vedic passage quoted above ( p.154 f. n. 356) 'he created the brāhmaṇa with Gāyatrī, the kṣatriya with Triṣṭubh, the vaiśya with Jagatī', and by Kātyāyana Śrauta 'one should initiate the brāhmaṇa with Gāyatrī'. Jaimini [619] also (in VI. 1.35) propounds the view that upanayana is a saṁskāra and has a seen result viz. thereby the boy is brought near the teacher for learning Veda.
+
+[617]: ब्रह्मचारी चरति वेविषद् विषः स देवानां भवत्येकमङ्गम्। तेन जायामन्वषिन्दद्  बृहस्पति: सोमेन नीतां जुह्वं न देवा:। ऋ. X. 109.5 =अथर्व V.17.5. The reference to Soma recalls Ṛg. X.85.45 'सोमो ददद्र्न्धर्वाय.' Every girl was supposed to have been under the protection of Soma, Gandharva and Agni before her marriage with a human bridegroom. 
+
+[618]: तत्रोपनयनशब्दः कर्मनामधेयम् । ...... तच्च यौगिकमुद्भिद्न्यायात्। योगश्च भावव्युत्पत्त्या करणव्युत्पत्त्या वेत्याह भारुचिः । स यथा। उप समीपे आचार्यादीनां  वटोर्नयनं प्रापणमुपनयनम् । समीपे आचार्यादीनां नीयते वटुर्येन तदुपनयनमिति वा। ...... तत्र च भावव्युत्पत्तिरेव साधीयसीति गम्यते । श्रौतार्थविधिसंभवात् संस्कारप्रकाश p. 334.
+
+[619]: संस्कारस्य तदर्थत्वात् विद्यायां पुरषश्रुति:। जैमिनि VI. 1. 35; 'विद्यायामेवैषा श्रुतिः (वसन्ते बाह्मणमुपनयीत)। उपनयनस्य संस्कारस्य तदर्थत्वात् । विद्यार्थमुपान्यायस्य      समीपमानीयते नादृष्टार्थं नापि कटं कुड्यं वा कर्तुम् । दृष्टार्थमेव सैषा विद्यायां पुरुषश्रुति:। कथमवगम्यते । आचार्यकरणमेतदवगम्यते।। कुतः । आत्मनेपददर्शनात् । ॑ शबर.
 
 
 
-__617. ममचारी चरति वेविषद विषः स देवानां भवत्येकमम् । तेन जापामम्बपिन्या
+
+
+
+
+
+
+
 
 Fa: Hl frat :n. X. 109.5 = pre v. 17.5. The reference to Soma recalls Rg X. 85. 45' FAT FUTT.' Every girl was supposed to bavo been under the protection of Soma, Gandbarya and Agni before bor marriage with a human bri
 degroom.
 
 Om. VII]
 
-Upanayana
 
-word 'upanayana' 818 can be derived and explained in two ways: (1) taking (the boy) near the acārya, (2) that rite by which the boy is taken to the acārya. The first sense appears to have been the original one and when an extensive ritual came to be associated with upanayana the second came to be the sense of the word. Such an ancient work as the Ap. Dh. S. I.1.1. 19 says that upanayana is & Barnskāra (purificatory rite ) laid down by revelation for him who seeks learning (i. e. it accepts the second explanation) or this sūtra may mean it is a samskāra brought about by imparting the śruti ( viz. Gāyatri mantra ) to him who seeks learning'. This would mean that upanayana principally is gāyatryupadeśa ( tho imparting of the sacred Gāyatri mantra), This appears to be suggestod by the Vedic passage quoted above ( 154 f. n. 356) 'he created the brāhmaṇa with Gāyatri, the ksatriya with Tristubh, the vaisya with Jagati', and by Kātyāyana Srauta 'one should initiate the brābmana with Gayatri'. Jaiminists also (in VI. 1.35) propounds the view that upanayana is a samskāra and has a seen result viz, thereby the boy is brought near the teacher for learning Veda,
+
 
 Rg. III. 8. 4 620 is a verse that clearly indicates that some of the characteristics of upanayana described in the grhya sūtras were well known even then. There the sacrificial post (yūpa ) is praised as a young person ( i. e. in the language of the later classical rhetoricians there is the first kind of the figure Atisayokti)" here comes the youth, well dressed and encircled (the boy by his mekhala and the post by its rasana); he, when born, attains eminence ; wise sages, full of devotion to the gods in their hearts and entertaining happy thoughts, raise him up'. Here in 'un-nayanti' we have the same root that we have in upanayana. This mantra is employed in the upanayana by several grhya sutrase. g. Asv. I. 20. 8 (who employs it for
 
-618. सत्रोपनयनशब्दः कर्मनामधेयम् । ...... तच यौगिकहजिम्यायात् । पोगश्च भावण्युत्परया करणयुत्पश्या वेत्याह भारुचिः । स यथा। उप समीपे आचार्यावीना पटोपन प्रापणमुपनयनम् । समीपे आचार्यादीनां नीयते बदुर्येन तदुपनयनामिति पा। ...... तत्रच भावग्युत्पतिरेव साधीयसीति गम्यते । श्रोतार्थविधिसंभवात् । संस्कारप्रकाश p. 334.
 
-619. संस्कारस्य तदर्थत्वात् विद्यायां पुरषश्वतिः। जैमिनि VI. 1. 35%; 'विद्यायामे वैषा इतिः (वसन्ते बाह्मणमुपनयीत)। उपनयनस्य संस्कारस्य तदर्थस्वात् । विद्यार्थहपाम्या. यस्म समीपमानीयते नादृष्टार्थ नापि कट कुख्य का कर्तुम् । दृष्टार्थमेव सैषा विद्यायां पुरुष श्रुतिः । कथमवगम्यते । आचार्यकरणमतववगम्यते। कुतः । आत्मनेपददर्शनात् ।। शबर.
 
 620. युवा सुवासाः परिवीत आगात्स उ श्रेयान्भवति जायमानः । तं धीरासः कवय उभयन्ति स्वाध्यो मनसा देवयन्तः ।। म. III. 8. 4. आश्व.गृ. I. 19.8 prescribes that the boy is to be adornod and is to wear new clothes 'अलंकतं कुमार...भहतेन. पाससा संपीतं.&c. snd I. 20. 8 is युवा सुवासाः परिवीत आगादित्यनेनं प्रदक्षिणमावर्तयेत्।
 
