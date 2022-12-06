@@ -21,24 +21,7 @@ A few words about the origin and development of this most important saṁskāra 
 [^619]: संस्कारस्य तदर्थत्वात् विद्यायां पुरषश्रुति:। जैमिनि VI. 1. 35; 'विद्यायामेवैषा श्रुतिः (वसन्ते बाह्मणमुपनयीत)। उपनयनस्य संस्कारस्य तदर्थत्वात् । विद्यार्थमुपान्यायस्य      समीपमानीयते नादृष्टार्थं नापि कटं कुड्यं वा कर्तुम् । दृष्टार्थमेव सैषा विद्यायां पुरुषश्रुति:। कथमवगम्यते । आचार्यकरणमेतदवगम्यते।। कुतः । आत्मनेपददर्शनात् । ॑ शबर.
 
 
-
-
-
-
-
-
-
-
-
-Fa: Hl frat :n. X. 109.5 = pre v. 17.5. The reference to Soma recalls Rg X. 85. 45' FAT FUTT.' Every girl was supposed to bavo been under the protection of Soma, Gandbarya and Agni before bor marriage with a human bri
-degroom.
-
-Om. VII]
-
-
-
-
-Rg. III. 8. 4 620 is a verse that clearly indicates that some of the characteristics of upanayana described in the grhya sūtras were well known even then. There the sacrificial post (yūpa ) is praised as a young person ( i. e. in the language of the later classical rhetoricians there is the first kind of the figure Atisayokti)" here comes the youth, well dressed and encircled (the boy by his mekhala and the post by its rasana); he, when born, attains eminence ; wise sages, full of devotion to the gods in their hearts and entertaining happy thoughts, raise him up'. Here in 'un-nayanti' we have the same root that we have in upanayana. This mantra is employed in the upanayana by several grhya sutrase. g. Asv. I. 20. 8 (who employs it for
+Ṛg. III. 8. 4 [ˆ620] is a verse that clearly indicates that some of the characteristics of upanayana described in the gṛhya sūtras were well known even then. There the sacrificial post (yūpa ) is praised as a young person ( i. e. in the language of the later classical rhetoricians there is the first kind of the figure Atiśayokti) 'here comes the youth, well dressed and encircled (the boy by his mekhalā and the post by its raśanā); he, when born, attains eminence; wise sages, full of devotion to the gods in their hearts and entertaining happy thoughts, raise him up'. Here in 'un-nayanti' we have the same root that we have in upanayana. This mantra is employed in the upanayana by several gṛhya sūtras. e.g. Āśv. I. 20. 8 (who employs it for making the boy circumambulate) and Pār. II. 2. (prescribes that the mantra is to be recited when tying the girdle round the boy's waist). In the Tai. S.VI.[ˆ621] 3. 10.5 we have the famous passage referring to the three debts where the words 'brahmacārī' and 'brahmacarya' occur. 'Every brāhmaṇa when born is indebted in three debts viz. in brahmacarya to the sages, in sacrifice to the gods and in offspring to the manes; he indeed becomes free from debts who has a son, who sacrifices and who dwells ( with the teacher) as a brahmacārī.'
 
 
 
@@ -56,7 +39,7 @@ in to wear
 
 thu vi
 
-making the boy circumambulate) and Pār. II. 2. (presoribes that the mantra is to be recited when tying the girdle round the boy's waist). In the Tai. 8. VI.4) 3. 10.5 we have the famous passage referring to the three debts where the words 'brahmacārl' and 'brahmacarya' occur. 'Every brāhmaṇa when born is indebted in three debts viz. in brahmacarya to the sages, in sacrifice to the gods and in offspring to the manes; he indeed becomes free from debts who has a son, who sacrifices and who dwells ( with the teacher) as a brahmacārl.'
+
 
 In the other Vedas and in the Brāhmaṇa literature there is ample material to show what the characteristic features of upanayana and brahmacarya were. The whole of Atharvaveda XI. 7 ( 26 verses ) is a hymn containing hyperbolical laudation of the brahmacāri (Vedic student) and brahmacarya. The very first verse 688 may be cited as a sample The brahmacāri incessantly covering ( the world by his glory ) roams in the two worlds; the gods have the same thoughts ( of grace and favour) about him; he fills his teacher by bis austerities'. Verse 3 says 'the teacher leading ( the boy ) near him makes the brahmacāri like unto a foetus' (here the word 'upanayamānaḥ' occurs ). Verse 4 states that the heaven and the earth are the samidh' (the fuel stick) of the brahmacārl and that the brahmacārl by his mekhalā (girdle), by his samidh and by his life of hard work fills the world with austerities. Verse 6 tells us that the brahmacārl wears the skin of a black antelope and has a long beard; verse 13 says that the brahmaoāri offers samidh into fire (or if fire is not available) to the sun, to the moon, to the wind or into waters. This hymn thus brings out most of the characteristio features of the brahmacārl-and of upanayana ( viz, deerskin, mekbalā, offering of samidh, begging and a life of hard work and restraint), From the reference to the beard and from the words 'this man (ayam purusah)' occurring in the Atharvaveda VIII. 1. 1 and elsewhere it appears probable that upanayana was performed rather later in those ancient days than in the days of the gutras.
 
