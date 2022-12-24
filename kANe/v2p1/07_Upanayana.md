@@ -76,6 +76,9 @@ The Āśv. gṛ. [^636] (I. 19. 1-6) says that a brāhmaṇa boy should undergo 
 
 [^637]: गर्भाष्टमेषु ब्राह्मणमुपनयीत गर्भैकादशेषु राजन्यं गर्भद्वादशेषु वैश्यम्। आप. गृ. 10. 2-3. Vide सं. प्र. pp 340-341 for discussion whether there is option of counting the years from conception or birth in the case of kśatriyas and vaiśyas. Āp. and several others employ the Ātmanepada 'उपनयीत' while Āśv., Khādira (II. 2. 1) and Pār. employ the Parasmaipada उपनयेत्. It should be noticed that in the Atharvaveda XI. 7. 3., शतपथ XI. 5. 4.1, छा. उ. IV. 4. 5 and elsewhere in the Vedic texts it is the Ātmanepada that is found. Pāṇini (I. 3. 36) lays down that the root 'nī' takes the Atmanepada alone in the case of soveral senses one of which is आचार्यकरण (and so we should have उपनयेत only). हरदत्त quotes a कारिका that the परस्मैपद is a mistake 'परस्मैपदपाठोऽयमध्येतॄणां प्रमादत:। आचार्यकरणे यस्मात्प्राप्नोत्यत्रात्मनेयदम्॥ Vide संस्कारप्रकाश p. 339 for criticism of हरिदत्त's view. Vide शबर quoted above. (p. 269 _f.n._ 619)
 
+[^638]: गर्भाष्टमे ब्राह्मण उपनेय इति सकृदुपनीय कृत: शास्त्रार्थ:। महाभाष्य vol. III. p.57. 
+
+[^639]: अष्टवर्षे ब्राह्मणमुपनयेद्गर्भाष्टमे वैकादशवर्षं राजन्यं द्वादशवर्षं वैश्यं यथामङ्गलं वा सर्वेषाम् । पारस्करगृ. II. 12. बौ. गृ. adds त्रयोदशे मेधाकामं चतुर्दशे पुष्टिकामं पञ्चदशे भ्रातृण्यवन्तं षोडशे सर्वकाममिति। 
 
 
 
