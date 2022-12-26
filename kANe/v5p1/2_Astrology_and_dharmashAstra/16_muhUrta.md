@@ -331,7 +331,7 @@ Planets, their relations to the rāśis and their conjoint influence will now be
 
 [^849]: राहुकेतू यथाकाशे उदितौ जगतः क्षये। कर्णपर्व 87.92.
 
-[^850]:  तस्योपलब्धिर्वृहस्पतेः स्थानगमनगर्भाधानेभ्यः शुक्रोदयास्तमयचारेभ्यः सूर्यस्य प्रकृतिवैकृताच्च । सूर्याद् बीजसिद्धिः । बृहस्पतेः सस्यानां स्तम्बकरिता । शुक्राद् वृष्टिरिति ॥ अर्थशास्त्र II. 24th अध्याय p. 116 (Sham shastri's ed. of 1919). For गर्भाधान as to rainfall, vide बृहत्संहिता chapter 22. Aratus (270 B. C.) and Theophrastus ( 322 B. C. ) say that the disappearance of the coastellation corresponding to our Puşya was reckoned by the ancients as a sure presage of rain. Vide Dr. Fleet in J. R. A.S. for 1911 at p. 516.
+[^850]:  तस्योपलब्धिर्वृहस्पतेः स्थानगमनगर्भाधानेभ्यः शुक्रोदयास्तमयचारेभ्यः सूर्यस्य प्रकृतिवैकृताच्च । सूर्याद् बीजसिद्धिः । बृहस्पतेः सस्यानां स्तम्बकरिता । शुक्राद् वृष्टिरिति ॥ अर्थशास्त्र II. 24th अध्याय p. 116 (Sham shastri's ed. of 1919). For गर्भाधान as to rainfall, vide बृहत्संहिता chapter 22. Aratus (270 B. C.) and Theophrastus ( 322 B. C. ) say that the disappearance of the coastellation corresponding to our Puṣya was reckoned by the ancients as a sure presage of rain. Vide Dr. Fleet in J. R. A.S. for 1911 at p. 516.
 
 It will be seen from the above that general or universal ( not individual or horoscopic) astrology like the reports made by royal priests in Mesopotamia was prevalent in India many centuries before Christ. The Bṛhajjātaka ( II. 2–3 ) enumerates the nine planets, Sun, Moon, Mercury, Mars, Saturn, Jupiter, Venus, Rāhu and Ketu and furnishes some synonyms of all these.
 

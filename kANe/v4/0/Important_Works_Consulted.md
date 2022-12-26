@@ -21,7 +21,7 @@ of Pandit Sātavalekar) Brhadaranyakopanisad Chandogyopanisad Gopatha Brāhmana 
 
 samsodhana-mandala ) Sāmavidhāna Brāhmana ( ed. by A. C. Burnell, 1873) Sankbāyana-brāhmana ( Anan.) Satapatha-brāhmana (ed. by A. Weber) Taittiriya-aranyaka ( Anan.) Taittiriya-brāhmana (Anan.) Taittiriya-samhita (Anan.; sometimes Pandit Sātavalekar's edition
 
-has been used ) Tāņdya-brāhmana (also called Pañcavimsa-brāhmana )-B. I. series Vājasaneya Samhita ( ed. by Pandit Sātavalekar ). Srauta, grhya and dharma sūtras, Vedāngas Apastamba-dharmasutra with the commentary of Haradatta public
+has been used ) Tāṇdya-brāhmana (also called Pañcavimsa-brāhmana )-B. I. series Vājasaneya Samhita ( ed. by Pandit Sātavalekar ). Srauta, grhya and dharma sūtras, Vedāngas Apastamba-dharmasutra with the commentary of Haradatta public
 
 shed at Kumbhakonam by Halasyanatha Sastri
 

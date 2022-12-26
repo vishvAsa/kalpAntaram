@@ -58,7 +58,7 @@ Suddhavati 48 Suddhi 118, 267 Sumbala, 225n Suryabhinimrukta 11 Sūryābhyudita 
 
 Ratni 417n Rta 2 Rtvik 281n Sadyah-sauca 295-296 Sajyotih 282 Sakulya 366 Sallekhanā 612n Samānodaka 260n Sampradana 460n Samsrava 447n Samsthajapa 494 Samyoh 194n Sancayana 240 Sangava 376 Sankalpavidhi 532 Santapana 225n Satya 4,5 Sāvāsauca 269 Sesas 196n Smaśāna 205n, 247n, Sodasikarma 672 Sparśakāla 372 Sprstāsprsti 332 Sraddhā 352 Sraddhika, śrāddhin 352, 410n Srat 352 Srauva 27n Srāva 275 Srotriya 384n Steya 22, 23 Stotriya 2020 Strisodasi 673
 
-Tantra 440n, 445n Tantu 269 Tapas 42-43 Tata 347 Thaka 115n Tirtha 202n, 554 Trikadruka 1940 Triņāciketaḥ 3840 Trisuparnah 384n Tugvan 554 Turuskadanda 5720 Upasparsa 1140 Uha 514n Upavāsa 52-53 Upavasatha 54 Utkranti-dhenu 183 Utpavana 330n Uttapanā ni 227n Uttara ( kr yā) 261 Vadha 17 Vādhrinasa 355 Vaitarani cow ) 183 Vapana 122 Vāpana 318n Varnasankara 288 Vardhrānasa or Vardhrinasa 422n Vena 115, 174 Vibhaktadāyāda 366 Vikira 484, 500, 507n Virahan 11, 155 Viṣamaśrāddha 263 Vistara 440n Vratalopa 112 Vratodyāpana 183 Vrātya 33, 111, 222 Vrātyatā 111
+Tantra 440n, 445n Tantu 269 Tapas 42-43 Tata 347 Thaka 115n Tirtha 202n, 554 Trikadruka 1940 Triṇāciketaḥ 3840 Trisuparnah 384n Tugvan 554 Turuskadanda 5720 Upasparsa 1140 Uha 514n Upavāsa 52-53 Upavasatha 54 Utkranti-dhenu 183 Utpavana 330n Uttapanā ni 227n Uttara ( kr yā) 261 Vadha 17 Vādhrinasa 355 Vaitarani cow ) 183 Vapana 122 Vāpana 318n Varnasankara 288 Vardhrānasa or Vardhrinasa 422n Vena 115, 174 Vibhaktadāyāda 366 Vikira 484, 500, 507n Virahan 11, 155 Viṣamaśrāddha 263 Vistara 440n Vratalopa 112 Vratodyāpana 183 Vrātya 33, 111, 222 Vrātyatā 111
 
 
 926

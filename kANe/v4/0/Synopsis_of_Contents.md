@@ -25,7 +25,7 @@ tion and classification of sins, grave sins and lesser lapses, doctrine of karı
 
 Chapter II Means of reducing the consequences of
 
-sins, viz. confession, repentance, prāņāyāma, tapas, homa, japa (muttering sacred texts ), gifts, fasting, pilgrimages.
+sins, viz. confession, repentance, prāṇāyāma, tapas, homa, japa (muttering sacred texts ), gifts, fasting, pilgrimages.
 
 41-56 Chapter III Prayascitta (expiation), derivation of the
 
