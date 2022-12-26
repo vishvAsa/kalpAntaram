@@ -81,7 +81,7 @@ viveka and Vyavahāramātrkā. 1100-1150 A. D. Bhavadevabhatta, author of Prāya
 
 and other works 1110 A. D.-1130—A. D. A parārka, Silāhāra king, composedsa
 
-commentary on Yājñavalkyasmrti 1127 A. D.-1138 A.D.--Mānasollāsa or Abhilaşitārtha-cintamani of
+commentary on Yājñavalkyasmrti 1127 A. D.-1138 A.D.--Mānasollāsa or Abhilaṣitārtha-cintamani of
 
 Someśvaradeva
 

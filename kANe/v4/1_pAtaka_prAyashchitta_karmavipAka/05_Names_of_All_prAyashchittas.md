@@ -12,7 +12,7 @@ Now all the prāyascittas mentioned in the smrtis and digests will be arranged i
 
 AGHAMARSANA-( The hymn Rg. X.190.1-3).
 
-This is prescribed as a penance for all sins by even the most ancient Dharmaśāstra works such as Gaut. 24.11, Baud. Dh. S. IV. 2.19-20, Vas. 26.8, Manu XI.259–260, Yāj. III.301, Vispu Dh, S. 55.7, Sankha 18.1-2 and others. They prescribe that if a man recites (for three days, according to Haradatta ) the Agharmarsana hymn thrice in the day while immersed in water for a bath, he is freed from all sins and that this penance is equal in sanctification to the bath at the end of the Asvamedha sacrifice. The Pr. Sāra p. 199 speaks of the Aghamarşana vrata. He has to fast for three days and stand up by day and sit up by night and donate a milch cow at the end, Sankha 18.1-2 and Visņu Dh. S.46.1-9 prescribe the details.
+This is prescribed as a penance for all sins by even the most ancient Dharmaśāstra works such as Gaut. 24.11, Baud. Dh. S. IV. 2.19-20, Vas. 26.8, Manu XI.259–260, Yāj. III.301, Vispu Dh, S. 55.7, Sankha 18.1-2 and others. They prescribe that if a man recites (for three days, according to Haradatta ) the Agharmarsana hymn thrice in the day while immersed in water for a bath, he is freed from all sins and that this penance is equal in sanctification to the bath at the end of the Asvamedha sacrifice. The Pr. Sāra p. 199 speaks of the Aghamarṣana vrata. He has to fast for three days and stand up by day and sit up by night and donate a milch cow at the end, Sankha 18.1-2 and Visņu Dh. S.46.1-9 prescribe the details.
 
 ATIKRCCHRA-Vide under Krcchra. Manu XI. 213 prescribes that this penance is constituted by eating only one morsel of food for three days in the morning only, for three days in the evening only, for three days eating one morsel got without asking for it and observing a complete fast for the next three days. Yāj. III.319, on the other hand, prescribes the eating of just as much food as would fill the hand (and not merely one morsel). The Mit., Pr. Sāra (p. 176 ) and others state that the rule of Manu applies to those who are able to undergo it, while that of Yāj. is meant for those who are unable (asakta). The Sāmavidhāna Br. 1.2.6-7, Gaut. 26.18-19, Visnu Dh, S.54.30, Laugāksigțhya V.12-13, Parāśara XI.54-55, Vas. 24.1-2, Baud. Dh, S. IV.5.8 also speak of this. Manu XI, 208 ( = Visnu 54,30 ) prescribes this penance for striking a brahmana with a weapon or a cudgel. Gaut. 26,22 states that this penanca purifies a man of all sins except the mahāpūtakas,
 
@@ -102,7 +102,7 @@ Penance called Krcchra
 
 men and women that are anāryas (not of the three higher castes ), always singing the sāmans called 'Raurava' and
 
-Yaudhājapa', bathing thrice in the day in the morning, the noon and the night, then performing mārjana 304 ( sprinkling of of water) with the three verses beginning with 'Apo hi stha' (Rg. X.9,1-3), with the mantras called 'pavitravati' viz. those beginning with 'pavamānaḥ suvarjanah' (Tai. Br. I 4.8.1) and the eight verses beginning with 'Hiranyavarnāh' (in Tai. S. V. 6.1), he should perform tarpıņa with water with 13 mantras (Gaut 26.12 ); he performs the worship of Aditya (the sun) with the same mantra (i.e. after tar pana with the 13 mantras, he is to perform the worship of the sun with the same thirteen mantras ) and offers oblations of clarified butter with the same 13 mantras and then on the 13th day he cooks boiled rice and offers oblations into ordinary Agni (svāhā' added at the end of each, such as ' agnaye svāha), Soma, Agni and Soma, Indra and Agni, Indra, Viśve devāḥ, Brahman, Prajāpati and Agni Sviştakrt and then feeds the brāhmaṇas.
+Yaudhājapa', bathing thrice in the day in the morning, the noon and the night, then performing mārjana 304 ( sprinkling of of water) with the three verses beginning with 'Apo hi stha' (Rg. X.9,1-3), with the mantras called 'pavitravati' viz. those beginning with 'pavamānaḥ suvarjanah' (Tai. Br. I 4.8.1) and the eight verses beginning with 'Hiranyavarnāh' (in Tai. S. V. 6.1), he should perform tarpıņa with water with 13 mantras (Gaut 26.12 ); he performs the worship of Aditya (the sun) with the same mantra (i.e. after tar pana with the 13 mantras, he is to perform the worship of the sun with the same thirteen mantras ) and offers oblations of clarified butter with the same 13 mantras and then on the 13th day he cooks boiled rice and offers oblations into ordinary Agni (svāhā' added at the end of each, such as ' agnaye svāha), Soma, Agni and Soma, Indra and Agni, Indra, Viśve devāḥ, Brahman, Prajāpati and Agni Sviṣtakrt and then feeds the brāhmaṇas.
 
 Krechra-samvatsara-Ap. Dh. S. I. 9.27.8 speaks of this as a penance in which Krechras are undergone continuously in a cycle for one year.
 
@@ -226,7 +226,7 @@ four together with the preceding are seven oblations of clarified butter that ha
 
 JALA KRCCHRA-See under Toyakrochra,
 
-TAPTAKRCCHRA-There is great divergence of views about this penance. Manu XI. 214, Vas. 21.21, Vişnu Dh. S. 46. 11, Baud. Dh. S. IV. 5.10, Sankha-smrti 18,4, Agnipurāna 171. 6-7, Atri verses 122-123, Parāśara IV.7 speak of it as of 12 days' duration comprising four periods of three days each. In this one drinks hot water, hot milk, hot ghee for three days each and then for three days there is a complete fast when he inhales hot vapour or atmosphere (acc. to Manu XI. 214). Manu adds that the performer has to bathe only once (and not thrice as in some other penances) and that he should practise self-control. Yāj. IIT, 317 (= Devala 84) speaks of this as of four days' duration, viz. he takes hot milk, hot ghee and hot water for one day each and observes a total fast on the 4th day. The Mit. on Yāj. ITI, 317 calls this mahātapta-Korcchra and also mentions a taptakrochra of two days, viz, on the first day the sipner takes all the three, viz, hot water, hot milk and hot ghee and observes a total fast on the 2nd day. The Pr. Prakāśa (folio 50a) remarks that the authority for the two days' taptakịcchra spoken
+TAPTAKRCCHRA-There is great divergence of views about this penance. Manu XI. 214, Vas. 21.21, Viṣnu Dh. S. 46. 11, Baud. Dh. S. IV. 5.10, Sankha-smrti 18,4, Agnipurāna 171. 6-7, Atri verses 122-123, Parāśara IV.7 speak of it as of 12 days' duration comprising four periods of three days each. In this one drinks hot water, hot milk, hot ghee for three days each and then for three days there is a complete fast when he inhales hot vapour or atmosphere (acc. to Manu XI. 214). Manu adds that the performer has to bathe only once (and not thrice as in some other penances) and that he should practise self-control. Yāj. IIT, 317 (= Devala 84) speaks of this as of four days' duration, viz. he takes hot milk, hot ghee and hot water for one day each and observes a total fast on the 4th day. The Mit. on Yāj. ITI, 317 calls this mahātapta-Korcchra and also mentions a taptakrochra of two days, viz, on the first day the sipner takes all the three, viz, hot water, hot milk and hot ghee and observes a total fast on the 2nd day. The Pr. Prakāśa (folio 50a) remarks that the authority for the two days' taptakịcchra spoken
 
 314. Haradatta says that on the days when the performer eats less than fifteen morsels, the counting is to be from the beginning and the later mentioned texts must be left out and that, while eating, the performer must employ the Prāņāhuti mantras, viz. 'prāņāya svāhā, apānāya svābā' etc
 
@@ -300,11 +300,11 @@ Penance called Devakrcchra
 
 of only rice gruel, barley gruel, vegetables, milk, curds, ghee each for a period of three days in succession and then should observe a complete fast for three days; this is called Devakrta (performed by the gods ) penance and destroys all sins. It was practised by the Maruts, the Vasus, Rudras, and Adityas. By the power of this penance they became free from rajas (impurity). Thus this penance lasts for 21 days. The Pr. Prakāśa (folio 48 b) refers to another variety of it and quotes a long prose passage on it, which is passed over here for want of space.
 
-DHANADAKRCCHRA-See under Vāyavya-krochra. According to the Vişnudharmottara 322 (q. by Pr. Prakāśa) this penance consists in subsisting for a month on food just sufficient to fill the extended but hollowed palm, mixed with gold (i. e. in which gold is rubbed or boiled).
+DHANADAKRCCHRA-See under Vāyavya-krochra. According to the Viṣnudharmottara 322 (q. by Pr. Prakāśa) this penance consists in subsisting for a month on food just sufficient to fill the extended but hollowed palm, mixed with gold (i. e. in which gold is rubbed or boiled).
 
 NITYOPAVĀSA KROCHRA-The Pr. Prakāśa (p. 48 a) states that this is constituted by a man eating only twice in the day (in the morning and evening ) for six years and not drink ing even water between the two meals. 323
 
-PANCAGAVYA-For the various details connected with pañcagavya prepared from cow's urine, dung, milk, curds and ghee, vide H. of Dh. vol. II, pp. 773-774. Pañcagavya is to be offered into fire with the mantras 'Trāvati' (Rg. VII. 99.3), fidanı Visnur' (Rg. I. 22, 17), 'mā nastoke' (Rg. I. 114, 8), 'Sam no devir' (Rg. X. 9. 4) and then the remainder is to be drunk. It is to be drunk with the middle of a sprig of three Palāśa leaves or with a lotus leaf. Manu. XI. 165 ( = Agnipurāņa 169. 30) prescribes this drinking of pañcagavya as the penance for petty thefts. Similarly, Yāj. III. 263 prescribes that one guilty of killing a cow should drink pañcagavya for a month. The Mit on Yāj. III. 263 quotes Vişņu to the effect that one who kills a cow should perform one of three penances, viz. drinking three palas of pañcagavya every day for one month or undergoing the penance of Parāka or Candrāyana, 324 Though Vişnu 54. 7 and Atri (verse 300 ) state that a brāhmana
+PANCAGAVYA-For the various details connected with pañcagavya prepared from cow's urine, dung, milk, curds and ghee, vide H. of Dh. vol. II, pp. 773-774. Pañcagavya is to be offered into fire with the mantras 'Trāvati' (Rg. VII. 99.3), fidanı Visnur' (Rg. I. 22, 17), 'mā nastoke' (Rg. I. 114, 8), 'Sam no devir' (Rg. X. 9. 4) and then the remainder is to be drunk. It is to be drunk with the middle of a sprig of three Palāśa leaves or with a lotus leaf. Manu. XI. 165 ( = Agnipurāņa 169. 30) prescribes this drinking of pañcagavya as the penance for petty thefts. Similarly, Yāj. III. 263 prescribes that one guilty of killing a cow should drink pañcagavya for a month. The Mit on Yāj. III. 263 quotes Viṣņu to the effect that one who kills a cow should perform one of three penances, viz. drinking three palas of pañcagavya every day for one month or undergoing the penance of Parāka or Candrāyana, 324 Though Viṣnu 54. 7 and Atri (verse 300 ) state that a brāhmana
 
 322. arawACUT 7 FarTart' MET TURTH
 
@@ -326,9 +326,9 @@ drinking surā and a südra drinking pañcagavya both went to hell (Mahāraurava
 
 PATRAKRCCHRA-Vide Parna-kūrca below.
 
-PARAKA-Manu XI. 215 (= Baud. Dh. S. IV.5.16), Yāj. III. 320 (= Sankha 18.5 = Atri 128), Agnipurāņa 171, 10, Vişnu Dh, S. 46. 18 and Br. 325 prescribe that this penance is constituted by not taking any food for twelve days, while the performer controls his senses and remains vigilant, and that this penance removes all sins.
+PARAKA-Manu XI. 215 (= Baud. Dh. S. IV.5.16), Yāj. III. 320 (= Sankha 18.5 = Atri 128), Agnipurāņa 171, 10, Viṣnu Dh, S. 46. 18 and Br. 325 prescribe that this penance is constituted by not taking any food for twelve days, while the performer controls his senses and remains vigilant, and that this penance removes all sins.
 
-( PARNAKURCA-This is a more severe type of patra krochra. Yāj. III. 316 (= Devala 83) and Sankha-Likhita 326 define Parnakịcchra as one where the leaves of palāśa, udumbara, lotus, and bilva are boiled separately on each day in succession and the decoction of each is drunk on each day separately and then water in which kuśas have been dipped is drunk. Thus parnakrcchra is a penance of five days. The Mit. on Yaj. III. 316 quotes a verse of Yama to the effect that when a sinner fasts for three days and nights and thereafter he drinks together the decoctions of all the four and kusa water on the same day then the penance is called parmakūrca. The Par. M. (II, part 2 p. 181)327 regards Parnakūrca as a variety of Parna krochra. Vasistha, Jābāli and Atri (116-117) make Parņa krcchra a penance of six days by adding the leaves of Aśvattha to the five mentioned above. Vişnu Dh. S. 46.23 mentions another variety of Parpakrcchra for seven days. 328
+( PARNAKURCA-This is a more severe type of patra krochra. Yāj. III. 316 (= Devala 83) and Sankha-Likhita 326 define Parnakịcchra as one where the leaves of palāśa, udumbara, lotus, and bilva are boiled separately on each day in succession and the decoction of each is drunk on each day separately and then water in which kuśas have been dipped is drunk. Thus parnakrcchra is a penance of five days. The Mit. on Yaj. III. 316 quotes a verse of Yama to the effect that when a sinner fasts for three days and nights and thereafter he drinks together the decoctions of all the four and kusa water on the same day then the penance is called parmakūrca. The Par. M. (II, part 2 p. 181)327 regards Parnakūrca as a variety of Parna krochra. Vasistha, Jābāli and Atri (116-117) make Parņa krcchra a penance of six days by adding the leaves of Aśvattha to the five mentioned above. Viṣnu Dh. S. 46.23 mentions another variety of Parpakrcchra for seven days. 328
 
 325. TERATA: ZIEHIER I TV Faca :
 
@@ -460,7 +460,7 @@ BRAHMAKŪRCA-The Mit. 335 on Yājñavalkya III, 314 states that when a man fasts
 
 Too Faar. on Tr. III.314. Vide guztraraq 156-166 for wat which is the penance for all sins where no specific penance is prescribe
 
-___336, अहोरात्रोषितो भूत्वा पौर्णमास्यां विशेषतः । पञ्चगव्यं पिबेत् प्रातर्ब्रह्मकूचावधि #a: 11 t q. by gr. fa. p. 515, T. arşt folio 50a and T. #. p. 22.
+___336, अहोरात्रोषितो भूत्वा पौर्णमास्यां विशेषतः । पञ्चगव्यं पिबेत् प्रातर्ब्रह्मकूचावधि #a: 11 t q. by gr. fa. p. 515, T. arṣt folio 50a and T. #. p. 22.
 
 1917
 
@@ -476,7 +476,7 @@ Brahmakurca
 
 prescribes that when a man observes a fast for the whole day and night on a day and particularly on a Full Moon day and then drinks pañcagavya the next morning this is called the rite of Brahmakūrca. Parāśara (XI. 27-28) appears to hold that Pañcagavya and Brahmakurca are synonyms. The Madana pārijāta p. 729 and Pr. Sāra. p. 189 state that the Sāntapana described by Yāj. (III. 314) is styled Brahmakūrca.337
 
-BRAHMAKROCHRA- Vide Hemādri's work on Prayascitta p. 964 quoting Devala and Markandeya. It is a penance for 12 days on each of which one has to drink in the noon Pañcagavya in a temple or cowpen after offering it with mantras in fire; one has to contemplate on Vişnu till the evening and should sleep near an idol and give up tāmbūla and unguents.
+BRAHMAKROCHRA- Vide Hemādri's work on Prayascitta p. 964 quoting Devala and Markandeya. It is a penance for 12 days on each of which one has to drink in the noon Pañcagavya in a temple or cowpen after offering it with mantras in fire; one has to contemplate on Viṣnu till the evening and should sleep near an idol and give up tāmbūla and unguents.
 
 MAHATAPTAKROCHRA-Vide Taptakrochra,
 
@@ -566,7 +566,7 @@ STTAKROCHRA-This is the reverse of Taptakrochra, as here all the articles are to
 
 348. ATR ar PETTOR A TA I g. 171. 14; arti कृच्छ्रमुक्तं तु पाणिपूरानभोजनम् । मासेनैकेन धर्मज्ञ सर्वकल्मषनाशनम् ॥ विष्णुधर्मोत्तर q. by OT. 7tt folio 48 a. 5349. तत्र शङ्कालिखितौ। प्रातः सायमयाचितमुपवासस्यहं व्यहमिति प्राजापत्यं द्वन्यहं ETEPAT T E , antara 5 :1 r. a. p. 511. The arm Fre p. 177 quotes a verse of ga to the same effect.
 
-350. The pr. thist (folio 56b) cites a verse of işta which is कपिलायां...एष व्यासकृतः कृच्छ्रः श्वपाकमपि शोधयेत्॥
+350. The pr. thist (folio 56b) cites a verse of iṣta which is कपिलायां...एष व्यासकृतः कृच्छ्रः श्वपाकमपि शोधयेत्॥
 
 351. tua ih ra araraca IATT. . p. 21.
 
@@ -592,9 +592,9 @@ Srikrcchra
 
 SANTAPANA-Vide Mahāsāntapana and Atisāntapana above. It is of five kinds, viz, the first for two days, the 2nd for seven days, the third for twelve (Atisāntapana), the 4th for 15 days and the fifth for 21 days.
 
-SURACANDRAYAN A--The Agnipurāņa defines it as one where somehow or other (and not in a rising or falling scale) a man partakes of 240 morsels of food in a month. Yāj. III. 324 speaks of it as a variety of Cāndrāyana. Vişnu. Dh. S. (47, 9) calls it'sāmānyacāndrāyana'.353
+SURACANDRAYAN A--The Agnipurāņa defines it as one where somehow or other (and not in a rising or falling scale) a man partakes of 240 morsels of food in a month. Yāj. III. 324 speaks of it as a variety of Cāndrāyana. Viṣnu. Dh. S. (47, 9) calls it'sāmānyacāndrāyana'.353
 
-SUVARN A-KRCCHRA-Vide Hemādri on Prāyaścitta pp. 969-972 quoting Devala and Mārkandeyapurāna, in which a varāha or a half of it or quarter of it had to be donated. A Varāha was equal to nine rūpakas and a rūpaka was one māşa of five guñjas (of silver it seems). For killing a brahmana secretly or for the guilt of incest one had to perform ten thousand or 40 thousand suvarna-krcchras and a lesser number for various other lapses.
+SUVARN A-KRCCHRA-Vide Hemādri on Prāyaścitta pp. 969-972 quoting Devala and Mārkandeyapurāna, in which a varāha or a half of it or quarter of it had to be donated. A Varāha was equal to nine rūpakas and a rūpaka was one māṣa of five guñjas (of silver it seems). For killing a brahmana secretly or for the guilt of incest one had to perform ten thousand or 40 thousand suvarna-krcchras and a lesser number for various other lapses.
 
 SOMAYANA-According to the Madanapārijāta pp. 744 746 (quoting Hārītadharmasūtra and Mārkandeya) and Pr. Prakāśa (folio 60b) the penance lasts for thirty days divided into five periods of 7,7,7,6, 3 days, in which the milk, of all the four udders of a cow, of three udders, of two udders and of one udder is respectively drunk and for the last three days there is a complete fast. There is another variety which lasts for 24 days from the 4th tithi of the dark half of a month to the 12th of the bright half of the next fort-night; the 24 days are divided into eight periods of three days each; in the first four
 

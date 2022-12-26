@@ -29,7 +29,7 @@ sins, viz. confession, repentance, prāņāyāma, tapas, homa, japa (muttering s
 
 41-56 Chapter III Prayascitta (expiation), derivation of the
 
-word, origin and meaning: expiations and secular punishments; circumstances to be considered in prescribing expiations; parişad ( assembly of learned men ) and its duties.
+word, origin and meaning: expiations and secular punishments; circumstances to be considered in prescribing expiations; pariṣad ( assembly of learned men ) and its duties.
 
 ... 57—86
 
@@ -53,7 +53,7 @@ Section II:-Antyesti (rites after death ), āśauca (im
 
 purity on birth and death), Suddhi (purification). Chapter VII Eschatology; Rgveda X. 14-18 trans
 
-lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya şütras ; cremation ; burial; offering
+lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya ṣütras ; cremation ; burial; offering
 
 POONA
 

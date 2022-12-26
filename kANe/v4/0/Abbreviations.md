@@ -151,7 +151,7 @@ Vaik. Smārta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-sm
 
 karana
 
-Vaik. Śr. or Vaik. Sr. Sa Pr. S or Pr. sāra = Prāyascittasāra Vaikhānaşa-srauta-sutra coisa Pr. T. or Pr. Tattva=Prāyascitta- Vaj. S. = Vājasaneya-samhita
+Vaik. Śr. or Vaik. Sr. Sa Pr. S or Pr. sāra = Prāyascittasāra Vaikhānaṣa-srauta-sutra coisa Pr. T. or Pr. Tattva=Prāyascitta- Vaj. S. = Vājasaneya-samhita
 
 tattva
 

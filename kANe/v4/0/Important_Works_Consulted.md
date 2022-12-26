@@ -17,7 +17,7 @@ Indica series, Calcutta; Ghar. for Mr. J. R. Gharpure's Publica tions; G. O. S. 
 
 tions and Venk. for Venkatesvara Press Publications. Aitareya Aranyaka (ed. by Prof. Keith in Anecdota Oxoniensia) Aitareya Brāhmana with Sayana's bhāsya (Anan.) Atharvaveda-samhita ( ed. by S. P. Pandit and sometimes the edition
 
-of Pandit Sātavalekar) Brhadaranyakopanisad Chandogyopanisad Gopatha Brāhmana (B. I. series) Jābālopanisad Jaiminiya Samhitā, ed. by Dr. Raghu Vira. Kāthaka Samhitā ( Pandit Sātavalekar's ed.) Kathopanisad Kausitaki Brāhmana ( ed. by Lindner, Jena, 1887) Kausītaki-brāhmanopanişad Maitrāyaṇi Samhita ( Pandit Satavalekar's ed.) Rgveda Samhitā with Sāyana's bhāsya ( ed. by the Poona Vaidika
+of Pandit Sātavalekar) Brhadaranyakopanisad Chandogyopanisad Gopatha Brāhmana (B. I. series) Jābālopanisad Jaiminiya Samhitā, ed. by Dr. Raghu Vira. Kāthaka Samhitā ( Pandit Sātavalekar's ed.) Kathopanisad Kausitaki Brāhmana ( ed. by Lindner, Jena, 1887) Kausītaki-brāhmanopaniṣad Maitrāyaṇi Samhita ( Pandit Satavalekar's ed.) Rgveda Samhitā with Sāyana's bhāsya ( ed. by the Poona Vaidika
 
 samsodhana-mandala ) Sāmavidhāna Brāhmana ( ed. by A. C. Burnell, 1873) Sankbāyana-brāhmana ( Anan.) Satapatha-brāhmana (ed. by A. Weber) Taittiriya-aranyaka ( Anan.) Taittiriya-brāhmana (Anan.) Taittiriya-samhita (Anan.; sometimes Pandit Sātavalekar's edition
 
@@ -61,7 +61,7 @@ upon Pāraskara-gļhyasūtra-edited by M. M. Shridharshastri Pathak with
 
 a Marathi translation Rgvidhāna of Saunaka (ed. by Prof. Jagadish Shastri), 1940 Sānkhāyana-gļhya-sūtra (same as Kausitaki-gļhya-sūtra)-published
 
-in the Benares Sanskrit series Sānkhāyana-srauta-sutra (ed. by Dr. Hillebrandt)--B. I. Series Satyāşāờha-srauta-sūtra (Anan.)
+in the Benares Sanskrit series Sānkhāyana-srauta-sutra (ed. by Dr. Hillebrandt)--B. I. Series Satyāṣāờha-srauta-sūtra (Anan.)
 
 ST
 
@@ -183,7 +183,7 @@ dhyāya, son of Ananta (Anan.) Prayogaratna of Nārāyanabhatta (Nīrn. pothi si
 
 rain Desai collection in the Bombay University. Vide No. 251
 
-of the catalogue by Prof. Velankar Puruşottamatattva of Raghunandana (Jiv.) Raghuvamsa of Kalidasa (Nirn.) Rajatarangini of Kalhana (text and English translation by Dr. Aurel
+of the catalogue by Prof. Velankar Puruṣottamatattva of Raghunandana (Jiv.) Raghuvamsa of Kalidasa (Nirn.) Rajatarangini of Kalhana (text and English translation by Dr. Aurel
 
 Stein) Rāmāyana of Valmīki ( ed. by R. Narayansvami Aiyer at the Madras
 
@@ -197,7 +197,7 @@ University ms No. 1176 p 421 in catalogue, prepared by Prof.
 
 Devasthali ) Smsticandrikā of Devannabhatta (Ghar.) Smrticandrikā on asauca (published by Mysore University) Smrtimuktāphala on ā sauca, prāyascitta, śrāddha (Ghar.) Smrtyarthasāra of Sridhara ( Anan.) Srāddbakalikā D. C. ms. No. 421 1891-95 Srāddhakalpalatā of Nandapandita ( Chowkhamba S. series) Sraddha-kriyākaumudi of Govindānanda (Chowkhamba S. series) Sraddhaprakāśa of Mitramiśra ( part of Virámitrodaya ) Chowkhamba
 
-S. series Śrāddhamayukha of Nilakantha (Ghar.) Srāddharatna of Lakşmīpati ( printed at Darbhanga ) Sraddhasaukhya (part of Todarānanda ) D. C. ms. No. 257 of 1881
+S. series Śrāddhamayukha of Nilakantha (Ghar.) Srāddharatna of Lakṣmīpati ( printed at Darbhanga ) Sraddhasaukhya (part of Todarānanda ) D. C. ms. No. 257 of 1881
 
 1887 Śrāddhasāra (part of Nrsimhaprasāda) printed in the Sarasvat
 
@@ -263,7 +263,7 @@ Legge (1886) Gibbon's 'Decline and Fall of the Roman Empire' (Smith’s ed.
 
 of 1862) K. P. Jayaswal's 'History of India, 150-350' ( 1933 ) S. N. Kanga's 'Heaven and Hell and their location in Zoroastria
 
-nism and in the Vedas' Prof. Keith's Religion and Philosophy of the Veda and Upanişads' Dr. B. C. Law Presentation vol. I and II Dr. B. C. Law's 'Heaven and Hell in Buddhist perspective' Dr. A. Lefever's The Vedic idea of sin' MacCrindle's 'Ancient India as recorded by Megasthenes,' 'Invasion
+nism and in the Vedas' Prof. Keith's Religion and Philosophy of the Veda and Upaniṣads' Dr. B. C. Law Presentation vol. I and II Dr. B. C. Law's 'Heaven and Hell in Buddhist perspective' Dr. A. Lefever's The Vedic idea of sin' MacCrindle's 'Ancient India as recorded by Megasthenes,' 'Invasion
 
 of India by Alexander' and 'Ancient India as described by
 

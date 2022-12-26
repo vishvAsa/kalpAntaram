@@ -117,7 +117,7 @@ The same conclusion is arrived at from a consideration of the classical Sanskrit
 
 1746. gnfruntareata rga in E. I. vol. VIII P. 36 at p. 43. 
 
-1747. Vide mognatawyal Toner y -which occurs as an epithet of Yuvamahārāja Viṣṇugopavarman in 1. A. vol. V. p. 50 at p. 51 and of Şimhavarman in the Pikira grant la E, I, vol. VIII p. 159 at p. 162. 
+1747. Vide mognatawyal Toner y -which occurs as an epithet of Yuvamahārāja Viṣṇugopavarman in 1. A. vol. V. p. 50 at p. 51 and of ṣimhavarman in the Pikira grant la E, I, vol. VIII p. 159 at p. 162. 
 
 1748. FESTH ACHT ... ... eta or in Gupta Inscription No.10 pp. 44-45. 
 
