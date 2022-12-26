@@ -1,3 +1,9 @@
++++
+title = "09_Introduction"
++++
+
+Source: [TW](https://archive.org/details/kANe_history_of_dharmashAstra-s/v4/page/334/mode/2up?view=theater)
+
 ŚRĀDDHA
 
 This subject is of great practical importance from several points of view.
