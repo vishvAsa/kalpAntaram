@@ -17,11 +17,11 @@ Indica series, Calcutta; Ghar. for Mr. J. R. Gharpure's Publica tions; G. O. S. 
 
 tions and Venk. for Venkatesvara Press Publications. Aitareya Aranyaka (ed. by Prof. Keith in Anecdota Oxoniensia) Aitareya Brāhmana with Sayana's bhāsya (Anan.) Atharvaveda-samhita ( ed. by S. P. Pandit and sometimes the edition
 
-of Pandit Sātavalekar) Brhadaranyakopanisad Chandogyopanisad Gopatha Brāhmana (B. I. series) Jābālopanisad Jaiminiya Samhitā, ed. by Dr. Raghu Vira. Kāthaka Samhitā ( Pandit Sätavalekar's ed.) Kathopanisad Kausitaki Brāhmana ( ed. by Lindner, Jena, 1887) Kausītaki-brāhmanopanişad Maitrāyaṇi Samhita ( Pandit Satavalekar's ed.) Rgveda Samhitā with Sāyana's bhäsya ( ed. by the Poona Vaidika
+of Pandit Sātavalekar) Brhadaranyakopanisad Chandogyopanisad Gopatha Brāhmana (B. I. series) Jābālopanisad Jaiminiya Samhitā, ed. by Dr. Raghu Vira. Kāthaka Samhitā ( Pandit Sātavalekar's ed.) Kathopanisad Kausitaki Brāhmana ( ed. by Lindner, Jena, 1887) Kausītaki-brāhmanopanişad Maitrāyaṇi Samhita ( Pandit Satavalekar's ed.) Rgveda Samhitā with Sāyana's bhāsya ( ed. by the Poona Vaidika
 
 samsodhana-mandala ) Sāmavidhāna Brāhmana ( ed. by A. C. Burnell, 1873) Sankbāyana-brāhmana ( Anan.) Satapatha-brāhmana (ed. by A. Weber) Taittiriya-aranyaka ( Anan.) Taittiriya-brāhmana (Anan.) Taittiriya-samhita (Anan.; sometimes Pandit Sātavalekar's edition
 
-has been used ) Tāņdya-brāhmana (also called Pañcavimsa-brāhmana )-B. I. series Vājasaneya Samhita ( ed. by Pandit Sätavalekar ). Srauta, grhya and dharma sūtras, Vedāngas Apastamba-dharmasutra with the commentary of Haradatta public
+has been used ) Tāņdya-brāhmana (also called Pañcavimsa-brāhmana )-B. I. series Vājasaneya Samhita ( ed. by Pandit Sātavalekar ). Srauta, grhya and dharma sūtras, Vedāngas Apastamba-dharmasutra with the commentary of Haradatta public
 
 shed at Kumbhakonam by Halasyanatha Sastri
 
@@ -53,7 +53,7 @@ and Brāhmanabala (ed. by Dr. Caland, 1925) Kātyāyana-srauta-sutra (ed. by A. 
 
 Sanskrit series Khădiragshyasūtra with the com. of Rudraskanda (Mysore Govt.
 
-Oriental Library series) Mänavagrhyasūtra with the com. of Astāvakra (G. O. S.) Nirukta of Yāska, ed. by Roth: sometimes the edition of Prof. V. K.
+Oriental Library series) Mānavagrhyasūtra with the com. of Astāvakra (G. O. S.) Nirukta of Yāska, ed. by Roth: sometimes the edition of Prof. V. K.
 
 Rajwade with a translation and notes in Marathi has been relied
 
@@ -115,15 +115,15 @@ History of Dharmaśāstra
 
 PURĀNAS The Anandasrama editions of the Agni, Brahma, Brahmavaivarta,
 
-Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāna (text only) and the edition of the Narasimha puräna published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Näradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupuräna and Visnu dharmottara have been used; the Nīlamatapurāna, ed. by
+Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāna (text only) and the edition of the Narasimha purāna published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Nāradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupurāna and Visnu dharmottara have been used; the Nīlamatapurāna, ed. by
 
 Pandits Ramlal Kanjilal and Jagaddhar Zadoo (1924)
 
-COMMENTARIES, DIGESTS, MISCELLANEOUS SANSKRIT, PĀLI AND PRAKRIT WORKS AND AUTHORS. Abhilasitārthacintāmani ( = Mānasolläsa ), published by Mysore
+COMMENTARIES, DIGESTS, MISCELLANEOUS SANSKRIT, PĀLI AND PRAKRIT WORKS AND AUTHORS. Abhilasitārthacintāmani ( = Mānasollāsa ), published by Mysore
 
 Oriental Library and in G. O. S. Antyakarmadīpaka of Nityānanda (Kashi Sanskrit series) Antyestipaddhati of Narayanabhatta (Nirn.) except on pp. 212, 303
 
-where a ms, of it was used. A parārka's commentary on the Yājñavalkyasmrti ( Anan.) Arthasāstra of Kautilya ( ed. by Dr. Sham Shastri, second ed.) Asaucadasaka of Vijñāneśvara (printed in Appendix pp. 832-833) Asaucāstaka of Vararuci (published in Trivandrum S. series) Balambhattī, commentary on the Mitäksarā on Yajñavalkya, ed. by
+where a ms, of it was used. A parārka's commentary on the Yājñavalkyasmrti ( Anan.) Arthasāstra of Kautilya ( ed. by Dr. Sham Shastri, second ed.) Asaucadasaka of Vijñāneśvara (printed in Appendix pp. 832-833) Asaucāstaka of Vararuci (published in Trivandrum S. series) Balambhattī, commentary on the Mitāksarā on Yajñavalkya, ed. by
 
 Mr. Gharpure Barhaspatya-sūtra ( ed. by Dr. F. W. Thomas, Lahore 1921) Brahmanasarvasva-D. C. ms. No. 9 of A 1883-84 Brhatsamhita of Varahamihira with the com. of Utpala (ed. by
 
@@ -131,7 +131,7 @@ M. M. Sudhakara Dvivedi) Dandaviveka of Vardhamana (G. O. S.) Dāyabhāga of Jim
 
 of 1936) Dipakalikā, com, of Sulapani on Yājñavalkyasmộti (Ghar. ) Gangābhakti-tarangini of Ganapati, published at Darbhangā (oblong
 
-size) 1500--1550 A. D. Gangāväkyävali of Vidyāpati under patronage of Viśvāsadevi, ed. by
+size) 1500--1550 A. D. Gangāvākyāvali of Vidyāpati under patronage of Viśvāsadevi, ed. by
 
 Dr. J. B. Chaudhuri, 1940 Govindaraja's commentary on Manusmrti ( Mandlik's edition
 
@@ -145,13 +145,13 @@ xxi
 
 Gșhastharatnākara of Candeśvara ( B. I. Series) Grhyāgnisāgara of Nārāyana Ārde (ms. in the Bombay Asiatic
 
-Society) Halāyudha's com. on Kätyāyana's Srāddhasutra (ms. No 518 p. 170
+Society) Halāyudha's com. on Kātyāyana's Srāddhasutra (ms. No 518 p. 170
 
-of B B. R. A. S. cat. ) Haracarita-cintamani of Jayadratha ( Nirn. Kävyamāla series) Haradatta's com. on Gautamadharmasutra ( Anan.) Hāralatā of Aniruddha (B. I. series) Hemādri's Caturvarga cintamani, section on śrāddha (B. I. Series ) Jātakas ( ed. by Fausböll) Kalpataru or Krtyakalpataru, sections on asauca, prāyascitta,
+of B B. R. A. S. cat. ) Haracarita-cintamani of Jayadratha ( Nirn. Kāvyamāla series) Haradatta's com. on Gautamadharmasutra ( Anan.) Hāralatā of Aniruddha (B. I. series) Hemādri's Caturvarga cintamani, section on śrāddha (B. I. Series ) Jātakas ( ed. by Fausböll) Kalpataru or Krtyakalpataru, sections on asauca, prāyascitta,
 
-sraddha and tirtha (G.O.S.) Kasikā, commentary on Panini's sūtras Kävyamimāmsā of Rājasekhara (G. O.S.) Krtyaratnākara of Candeśvara (B. I. series) Ksirasvāmin's com. on Amarakośa (ed. by K. G. Oak, Poona) Kulluka's com. on Manusmrti (Nirn.) Kumārila's Tantravārtika and Tuptīkā on Jaimini's sūtras (Anan.) Madanapārijāta (B. I. series) Madanaratna (section on vyavahāra ed. by P. V. Kane for the Anup
+sraddha and tirtha (G.O.S.) Kasikā, commentary on Panini's sūtras Kāvyamimāmsā of Rājasekhara (G. O.S.) Krtyaratnākara of Candeśvara (B. I. series) Ksirasvāmin's com. on Amarakośa (ed. by K. G. Oak, Poona) Kulluka's com. on Manusmrti (Nirn.) Kumārila's Tantravārtika and Tuptīkā on Jaimini's sūtras (Anan.) Madanapārijāta (B. I. series) Madanaratna (section on vyavahāra ed. by P. V. Kane for the Anup
 
-Library series, Bikaner) Mahābhāsya of Patañjali (ed. by Kielhorn in Bombay S. series) Mahārnavakarmavipāka of Mandhātr---D.C. ms.No. 239 of A 1881-82 Medhātithi's com. on Manusmrti (Mandlik's edition) Mitäksarā of Vijñāneśvara, com. on Yājñavalkyasmrti (Nirn.) Nandapandita, author of Vaijayanti, com. on Visnudharmasutra Nirnayasindhu with Marathi translation (Nirn. 2nd ed. of 1935) Pāṇini's Astādhyāyi with Siddhānta-kaumudi of Bhattoji (Nirn.) Parāsara-Mädhaviya (Bombay S. series) Pitrbhakti of Srīdatta-D. C. ms. No. 152 of 1892-95 Pitrdayitā of Aniruddhabhatta (published by Sanskrit Sahitya-parisad,
+Library series, Bikaner) Mahābhāsya of Patañjali (ed. by Kielhorn in Bombay S. series) Mahārnavakarmavipāka of Mandhātr---D.C. ms.No. 239 of A 1881-82 Medhātithi's com. on Manusmrti (Mandlik's edition) Mitāksarā of Vijñāneśvara, com. on Yājñavalkyasmrti (Nirn.) Nandapandita, author of Vaijayanti, com. on Visnudharmasutra Nirnayasindhu with Marathi translation (Nirn. 2nd ed. of 1935) Pāṇini's Astādhyāyi with Siddhānta-kaumudi of Bhattoji (Nirn.) Parāsara-Mādhaviya (Bombay S. series) Pitrbhakti of Srīdatta-D. C. ms. No. 152 of 1892-95 Pitrdayitā of Aniruddhabhatta (published by Sanskrit Sahitya-parisad,
 
 Calcutta, 1930) Prāyaścittamayukha of Nilakantha (Ghar.) Prāyascittamuktāvali of Divakara, son of Mahadeva (D. C. ms. No.
 
@@ -225,7 +225,7 @@ dated sake 1539 Sraddhaviveka of Rudradhara, Kashi S. series Suddhikaumudi of Go
 
 S. series) Tirthasāra (part of Nrsimhaprasāda) in Sarasvatibhavana series,
 
-Benares Tirthayātra-tattva of Raghunandana Tristhalīsetu of Nārāyanabhatta ( Anan.) Tirthendusekhara of Nägeśa or Nāgoji, Sarasvati-bhavana series Tristhalisetusāra-sangraha of Bhattoji ( Sarasvatībhavana series ) Trimsat-śloki with com. of Raghunatha ( Anan.) Trikānda-mandara Visvarūpa, commentator on Yajñavalkyasmrti ( work published in
+Benares Tirthayātra-tattva of Raghunandana Tristhalīsetu of Nārāyanabhatta ( Anan.) Tirthendusekhara of Nāgeśa or Nāgoji, Sarasvati-bhavana series Tristhalisetusāra-sangraha of Bhattoji ( Sarasvatībhavana series ) Trimsat-śloki with com. of Raghunatha ( Anan.) Trikānda-mandara Visvarūpa, commentator on Yajñavalkyasmrti ( work published in
 
 Trivandrum S. series ) Vivādaratnākara of Candesvara (B. I. series ) Vrsotsargatattva of Raghunandana (Jiv.) Yajurvedi-śrāddhatattva of Raghunandana ( Jiv.) Yogasutra with bhāsya and commentary of Vacaspati, edited by
 

@@ -89,7 +89,7 @@ FOUNDED
 
 Bhandarkar Oriental Research Institute
 
-History of Dharmaśästra
+History of Dharmaśāstra
 
 I. H. Q. = Indian Historical Quar. Pr. V. or Pr. Vi.=Prayascitta
 
@@ -105,7 +105,7 @@ Rg. =Rgveda sutra
 
 Sāma. Br.=Sāmavidhāna Brāh Jaimini Gr. = Jaimini-grbya-sutra
 
-mana JBBRAS= Journal of the Bombay San. Br. Sankbävana Brāhmana
+mana JBBRAS= Journal of the Bombay San. Br. Sankbāvana Brāhmana
 
 Branch of the Royal Asiatic San. gr=Sankhāyana-grbya-sutra Society
 
@@ -119,11 +119,11 @@ Sat. Sr. = Satyāsādhasrauta-sūtra J. R. A. S. Journal of the Royal S. B. E. =
 
 Asiatic Society of Great Britain East (ed. by Maxmuller) Kat.=Katyāyana
 
-S. K. = Suddhikaumudi Kat. Sr. or Kat. Śr. S. = Katyā- S. K. L. = Śräddhakalpalatā
+S. K. = Suddhikaumudi Kat. Sr. or Kat. Śr. S. = Katyā- S. K. L. = Śrāddhakalpalatā
 
 yanaśrautasūtra
 
-Sm. C. or Smr. C.=Smrticandrikā Kathaka Gr=Kāthaka-gļhya-sutra Smr. M.=Smrtimuktāpbala Kätyāyana = Kätyāyana-smrtisāro- Śr. P. or Sr. Pr.= Śrāddhaprakasa
+Sm. C. or Smr. C.=Smrticandrikā Kathaka Gr=Kāthaka-gļhya-sutra Smr. M.=Smrtimuktāpbala Kātyāyana = Kātyāyana-smrtisāro- Śr. P. or Sr. Pr.= Śrāddhaprakasa
 
 ddhāra (ed. by me)
 
@@ -131,7 +131,7 @@ ddhāra (ed. by me)
 
 S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khădira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
 
-Tai. Br. = Taittiriya Brahmana Mārk.=Märkandeyapurāna
+Tai. Br. = Taittiriya Brahmana Mārk.=Mārkandeyapurāna
 
 Tai. S. = Taittiriya Samhita Mit. Mitāksarā, commentary on Tai. Up. - Taittiriya-upanisad
 
@@ -143,11 +143,11 @@ brāhmana Nir Nirukta
 
 Tir. C. == Tirthacintamani Nirn. = Nirnayasagara Press ed. Tir. K. Tirthakalpataru Pān=Pāṇini's Astādhyāyi
 
-Tirthapr. or Tir. Pr. Tirtha Pār. gr=Päraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayükha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
+Tirthapr. or Tir. Pr. Tirtha Pār. gr=Pāraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayükha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
 
 scitta-prakasa
 
-Vaik. Smärta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-smärta-sūtra.
+Vaik. Smārta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-smārta-sūtra.
 
 karana
 

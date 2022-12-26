@@ -257,7 +257,7 @@ Under 'Irāvati' add-Vide Visnudbarmottara I.
 
 149 (twenty-five verses ) for a fine poetic description of this river and I. 162. 61-65 for the confluence of Iravati with Sindhu and of ten more confluences of several rivers of
 
-northern India.' Column 2 under Konärka add " Vide Proceed
+northern India.' Column 2 under Konārka add " Vide Proceed
 
 ings of the 8th Indian Historical Congress pp. Attro 153 ff. for an article 'Sungod of Konārak
 
