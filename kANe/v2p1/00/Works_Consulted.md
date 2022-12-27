@@ -113,11 +113,11 @@ Lahore 1933. Vāraha-gļhya-gūtra-Gaikwad Oriental Series, Baroda, 1921. Vasist
 
 Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
 
-PURĀŅAS Agnipurānam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
+PURĀŅAS Agnipurāṇam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
 
 volumes (printed at Ganpat Krishnaji Pregs). Bhaviṣyapurana--published by the Venkateśvara Press, Bombay. 
 
-Brahmapurana-Anandasrama Press. Brahmāṇdapurāna-Venkatesvara Press, Bombay. 
+Brahmapurana-Anandasrama Press. Brahmāṇdapurāṇa-Venkatesvara Press, Bombay. 
 
 Works Consulted 
 
@@ -129,7 +129,7 @@ cited as Bṛhan-Nāradiya. Nșsimbapurāṇa-(published by Messrs. Gopal Naraya
 
 Bombay, 1911). Padmapurāṇa-Anandāśrama Press. Sabyādrikbanda & portion of the Skanda-purāpa, edited by 
 
-Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay. Vāmana-purāna-Venkatesvara Press, Bombay. Varāha-purāna--B. I. series. Vāyu-purāna-published by the Anandaśrama Press. Some 
+Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay. Vāmana-purāṇa-Venkatesvara Press, Bombay. Varāha-purāṇa--B. I. series. Vāyu-purāṇa-published by the Anandaśrama Press. Some 
 
 times the B. I. edition in two volumes has been referred 
 

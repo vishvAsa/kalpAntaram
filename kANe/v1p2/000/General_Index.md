@@ -209,7 +209,7 @@ words, p. 59; has many sūtras and from a well constructed by, p.
 
 Verses in common with Baudhā 294 ; can instal image of Bhairava 
 
-Fana, p. 51; has special relation to acc. to Devīpurāna, p. 935n. 
+Fana, p. 51; has special relation to acc. to Devīpurāṇa, p. 935n. 
 
 Pūrramimāṁsā, p. 63; language Antyestipaddhati, of Nārāyancha 
 
@@ -455,7 +455,7 @@ P. 881. led pravacanakāra, p. 10.
 
 Bhagavantadera, patron of Nilakan. Baudhāyana-īlharmasūtra, pp. 38-53; 
 
-tha, p. 938. age of, pp. 49-51; authors named in, p. 15; borrows one chapter Bhagavatapurāna, pp. 298, 413, 421, from Goutama, pr. 33, 13; has $46, 898n., 910n.; not drawn upon many Sūtras in common with in Dānasāgara, p. 731; Sridhara Gautama, p. 34; contents of, pp. srāmin's commentary on, pp. 378, 41-43; structure of, p. 44; litera- 379, 886; extent of, p. 415; philo ture known to, pp. 44-17; home 
+tha, p. 938. age of, pp. 49-51; authors named in, p. 15; borrows one chapter Bhagavatapurāṇa, pp. 298, 413, 421, from Goutama, pr. 33, 13; has $46, 898n., 910n.; not drawn upon many Sūtras in common with in Dānasāgara, p. 731; Sridhara Gautama, p. 34; contents of, pp. srāmin's commentary on, pp. 378, 41-43; structure of, p. 44; litera- 379, 886; extent of, p. 415; philo ture known to, pp. 44-17; home 
 
 sophy of, embodied in Muktūpbala, of, pp. 47-19: one chapter of, 
 
@@ -585,7 +585,7 @@ Bhavatrāta, commentator of Kausi
 
 taka Gr. S., p. 16. Bhavesa, king of Mithilā, pp. 767, 
 
-775, 843, 849. Bhavisvadu Bhaviṣyapurāna, on fire-fold dharma, 
+775, 843, 849. Bhavisvadu Bhaviṣyapurāṇa, on fire-fold dharma, 
 
 p. 4n.; quoted by Aparārka, pp. 34, 105; on Manu, pp. 309, 328; quoted in Srāddhasara, p. 866n. 
 
@@ -599,7 +599,7 @@ p. 644,
 
 Bhaviṣyatpurāṇa, pp. 345., 63, 414; | Bhuvaneśvara, temple of Ananta at, 
 
-speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāna, pp. 723, 747, Bindumādbava, form of Viṣṇu, wor 
+speaks of 36 smrtis, p. 303. Bhaviṣyottarapurāṇa, pp. 723, 747, Bindumādbava, form of Viṣṇu, wor 
 
 805. 
 
@@ -747,7 +747,7 @@ Dhammacakka-ppavattana-gutta, Bṛban-Manu, pp. 334, 349, 717. Bșhao-Nārada, p
 
 Buddhacarita, of A$vagboṣa, p. 162. Brbaspati, on Arth:1$āstra, pp. 287 
 
-Buddhapurāna, of Pandita Indrada 290; on dharma'āstra, views of, tta, p. 214. quoted by Kauṭiliya, pp. 268, 555; | Buddhasena, king of Magadha, 
+Buddhapurāṇa, of Pandita Indrada 290; on dharma'āstra, views of, tta, p. 214. quoted by Kauṭiliya, pp. 268, 555; | Buddhasena, king of Magadha, 
 
 propounder of Rājadbarma, p. 341. p. 632. Brhaspati-smrti, pp. 484-495; closely Buddhist, sight of, an evil omen, p. 
 
@@ -1053,7 +1053,7 @@ pp. 541, 9177.; quoted by Smrti Devayājõika, p. 777.
 
 candrikā, p. 738. Devesvara, p. 770n. 
 
-Dharmadrona, pamed in Vyavahāra Devipurāna, pp. 761, 826, 827, 935; nirṇaya, p. 877. 
+Dharmadrona, pamed in Vyavahāra Devipurāṇa, pp. 761, 826, 827, 935; nirṇaya, p. 877. 
 
 approved of by heterodox system 
 
@@ -1277,7 +1277,7 @@ Gārgya, writer on dharma, pp. 276, Foulkes, Rev. Thomas, pp. 869, 875, 303; pro
 
 astronomer Garga, p. 277. Fūbrer, Dr., pp. 94, 97, 484. 
 
-Garuḍapurāna, p. 416, 464; borrows 
+Garuḍapurāṇa, p. 416, 464; borrows 
 
 from Yājñavalkyasmrti, p. 449; Gadādhara, bhāsya of, on Pāraskara- | 
 
@@ -2035,7 +2035,7 @@ Likhitasmști, pp. 138-39. Laghu-Vyāsa, p. 534.
 
 | Lilāvati, work on mathematics, p. Laghu-Yama, pp. 527, 717. 
 
-970. Laharpur, birth-place of sodara- Lingapurāna, pp. 933, 950; speaks of 
+970. Laharpur, birth-place of sodara- Lingapurāṇa, pp. 933, 950; speaks of 
 
 malla, p. 908. 
 
@@ -2203,7 +2203,7 @@ pp. 143, 316-17; on vidyās, pp. Mānavam, meaning of, p. 101.
 
 councillors, p. 206; four versions views of, about vidyās, pp. 144, 
 
-of, according to Bhaviṣyapurāna, 205; and Kautilya, pp. 205, 206; 
+of, according to Bhaviṣyapurāṇa, 205; and Kautilya, pp. 205, 206; 
 
 p. 309; agreement of, with Kauti and Katyāyana, pp. 499–500. 
 
@@ -2233,7 +2233,7 @@ views of Mānavagphya, p. 310, and Rāmāyana, p. 330; and Viśva rūpa, p. 327;
 
 pp. 471-73, Manvarthamuktāvali, by Kullaka, 
 
-p. 756. Marici, Smsti of, pp. 521-522. Mārkandeya, p. 309. Mārkan leyapurāna, pp. 356, 414. Marriage, Brāhma form of, pp. 7, 
+p. 756. Marici, Smsti of, pp. 521-522. Mārkandeya, p. 309. Mārkan leyapurāṇa, pp. 356, 414. Marriage, Brāhma form of, pp. 7, 
 
 125; Āsura form of, pp. 7, 125; Gāndharva form of, p. 8; forms of, generally eight, pp. 50, 125, 142, 331; forms of, only six, accord. ing to Āpastamba, and Visistha, pp. 50, 105; forms of, two acc. to Kāṭhaka, p. 125; intercaste, pp. 105, 142; prohibited degrees in, p. 284; with maternal uncle's or paternal aunt's daughter condemn. ed, pp. 297, 543, 745; and allowed, pp. 661, 866; guardians for, p. 424; auspicious nakṣatras for, pp. 445–46; proper age for, in case of girls, pp. 5251., 543; may be performed at all times according to Sridhara, p. 914; Brāhma form of, as distinguished from Prājāpatya, p. 745; of person of one Vedic śākhā, with a girl belonging to 
 
@@ -2245,7 +2245,7 @@ p. 722. Maskarin, pp. 36, 37, 273, 275, 279,
 
 kesi-gļhya, pp. 17,91. Mātsyanyaya, p. 230. 
 
-Matsyapurāna, pp. 4, 175, 409, 413, 
+Matsyapurāṇa, pp. 4, 175, 409, 413, 
 
 414, 415, 416, 434, 594, 728, 739n., 829n.; verses in, on danda, p. 151; devotes several chapters to Rāja dharma, p. 164; account of Candra. gupta in, defective, p. 171; states qualities of Dharmādhikārin, p. 629. 
 
@@ -2357,7 +2357,7 @@ p. 379.
 
 Nāka Maudgalya, p. 41; sage, occurs | Narapativijaya, a work on astrology, 
 
-in Bp. Up., p. 41n. Nakṣatras, arranged from Krttikā inį Nārāśamsi gāthās, pp. 409, 433. 
+in Bp. Up., p. 41n. Nakṣatras, arranged from Kr̥ttikā inį Nārāśamsi gāthās, pp. 409, 433. 
 
 Yāj., p. 445, divided into auspicious Nārāyaṇa, author of Prayogaratna, and inauspicious from days of Tai. 
 
@@ -2403,7 +2403,7 @@ Naļasūtras, by Silālin, and Kṛśāśva,
 
 p. 80. Nārada, on politics, p. 475; his role in 
 
-Nathamuni, grand-father of Yamuna. purānas, p. 482. 
+Nathamuni, grand-father of Yamuna. purāṇas, p. 482. 
 
 muni, p. 567. Nīrada, pp. 126, 159, 309, 467-483; 
 
@@ -2589,7 +2589,7 @@ Kauṭiliya, pp. 209, 460. H, D.-160
 
 History of Dharmaśāstrā 
 
-Parāśarasmṛti, pp. 138, 276, 459-466, ( Partition, allowed to son in ancestral 818; drawn upon by Garuḍapurāna, property even against father's wish, P. 460; and Manusmrti, pp. 462- p. 532; between brothers, unmar. 63; and Baudhāyanadharmasītra, ried sister's rights in, p. 581; larger P. 463; contents of, pp. 461–62; date share to eldest son on p. 50; period, of, p. 464; enumerates 19 smsti- within which could be set aside, kāras, pp. 303, 461; peculiar views pp. 293, 298; necessity of writing of, pp. 462-63; contains no treat- for completing, p. 522; son's right ment of vyavahāra, p. 779; to, according to Dāyabhāga, p. 704; 
+Parāśarasmṛti, pp. 138, 276, 459-466, ( Partition, allowed to son in ancestral 818; drawn upon by Garuḍapurāṇa, property even against father's wish, P. 460; and Manusmrti, pp. 462- p. 532; between brothers, unmar. 63; and Baudhāyanadharmasītra, ried sister's rights in, p. 581; larger P. 463; contents of, pp. 461–62; date share to eldest son on p. 50; period, of, p. 464; enumerates 19 smsti- within which could be set aside, kāras, pp. 303, 461; peculiar views pp. 293, 298; necessity of writing of, pp. 462-63; contains no treat- for completing, p. 522; son's right ment of vyavahāra, p. 779; to, according to Dāyabhāga, p. 704; 
 
 Vidvanmanoharā, com, on, p. 915. in Dāyatattva, p. 892. Pāraśava, meaning of, pp. 35, 267. Paścātkāra, defined by Katyāyana, Pārasikas, touch of, as similar to that p. 501. 
 
@@ -3061,7 +3061,7 @@ Sāmavidhāna Brāhmana, p. 22. Śāmavit, king of Delhi, p. 861. Samaya, severa
 
 nandana, p. 763. Samayapradipa, astrological work of 
 
-Harihara, p. 737. Samba, Upapurāna, p. 416. Sambandhacintāmani, p. 851n, Sambhramabhaṭṭa, p. 701n. Sambhu, author of Kamadhenu 
+Harihara, p. 737. Samba, Upapurāṇa, p. 416. Sambandhacintāmani, p. 851n, Sambhramabhaṭṭa, p. 701n. Sambhu, author of Kamadhenu 
 
 according to Aufrecht, pp. 618; writer of digests, pp. 572, 618, 725, 738; relied on by Sridhara, 
 
@@ -3863,7 +3863,7 @@ Manuṣ acc. to, p. 317; extent of, father of Jujhāra, pp. 946-47;
 
 p. 415. killed Abul Fazal, the frined of Akbar, p. 947; ruled at Orçoba, 
 
-Viṣṇurahasyapurāna, p. 732, p. 948. 
+Viṣṇurahasyapurāṇa, p. 732, p. 948. 
 
 Viṣṇusamuccaya, p. 7949, Vīrasimhadevacarita, p. 917. 
 
@@ -4131,7 +4131,7 @@ is dāsa, p. 566. ascribed to, p. 448; enumerates 19 Yautaka, meaning of, p. 592
 
 Yavana, a mixed caste, mentioned by Yajñavalkyasmrti, pp. 421-459; com- Gautama, pp. 35, 73; mentioned 
 
-mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garuḍapurāna, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
+mentary of Viśvarūpa on, pp. 119, by Maou, pp. 326, 334; & non 423; and Agnipurana, pp. 424-27; Aryan tribe, p. 261; those of and Garuḍapurāṇa, pp. 427-29; Mūlasthāna were made to give up and Maou, pp. 430–31, 438-39; cow-slaugbter, p. 806. contents of, pp. 433-34; and 
 
 Yavaneśvara, p. 732n. Mānavagrbya, pp. 439-40; god White Yajurveda, pp. 423, 410-41: | Twill, of five kinds, pp. 956–57. and Greek astrology, pp. 413–41; Yoga, dofined, p. 281; eight angas commentaries on, pp. 457-58; and of, p. 259. Paraskaragļhya, pp. 440-11; 
 

@@ -91,13 +91,13 @@ Mandlik's edition with six commentaries that is cited. Nāradasmști, edited by 
 
 Prajāpati-smrti ( Anan.). Vedavyasa-smrti ( Anan.). Vṛddha-Gautama-smrti (Jir.). Vṭddba-Hārīta-smrti ( Ānan.). Yajñavalkyagmrti with the Mitāksarā (Nirnayasāgara edition) 
 
-Purāruus Agnipurāṇa-l Ānan.) Bhāgavatapurāna with the commentary of Sridhara (Ganpat 
+Purāruus Agnipurāṇa-l Ānan.) Bhāgavatapurāṇa with the commentary of Sridhara (Ganpat 
 
 Krishnaji Press). Brahmāṇdapurāṇa ( Venkatesvara Press, Bombay). Brahmapurāṇa-( Ānan.) Brhan-Nāradiya-purāṇa (Venkateśvara Press edition, Bombay). Garuḍa-purāṇa (Venkateśvara Press edition). Kālikā-purāṇa (Venkateśvara Press edition). Kalki-purāṇa (Venkatesvara Press edition). Kūrmapurāṇa. Lingapurāṇa (Venkateśvara Press edition). Mārkaṇdeya-purana (B. I. Series). Matsyapurāpa ( Anan.). Nāradiyapurāpa (Venkateśvara Press ed., Bombay); sometimes 
 
 cited as Bṛhan-Nāradīya. Nșsimhapurāṇa, (published by Messrs. Gopal Narayan & Co., 
 
-Bombay 1911). Vāyupurāṇa (Anan.). Viṣṇudharmottara-purāna (Venkatesvara Press, Bombay). Viṣṇupurāna with commentary (published by Messrs. Gopal 
+Bombay 1911). Vāyupurāṇa (Anan.). Viṣṇudharmottara-purāṇa (Venkatesvara Press, Bombay). Viṣṇupurāṇa with commentary (published by Messrs. Gopal 
 
 Narayan & Co., Bombay ). 
 

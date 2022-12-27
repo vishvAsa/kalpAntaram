@@ -13,7 +13,7 @@ LIST OF TĪRTHAS ditoints Lotuito
 
 target ytov si o
 
-This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to. Many of the Purānas enumerate the moun tains and rivers of dvipas and var ṣas other than those of Jambudvipa and Bhārata-varsa such as Harivarṣa, Ramyaka varsa, Krauñcadvipa, Sālmalidvipa, but they have been exclud ed from this list. The Brahmapurāṇa (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhīṣmaparva in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases. Similarly, the Garuda (I. 81. 1-31) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have listed about 350 sub tirthas. But there are about 1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāha-purāna under Mathurā, in Brahma-purāna under Gautami, in Vāyu-purāna under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some were left out purposely on account of the absence of any importance. Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purānas and are not even mentioned in them; many of these have been omitted in this list. Our authorities are often very vague about the location or extent of tirthas. Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Koțitirtha, Cakratīrtha, Varāhatirtha, Somatirtha). I am under great obligations to Cunningham's *Ancient Geography of India' (ed, of 1872) and to Nundo Lal Dey's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal being very limited, I could not enter into even brief discussions
+This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to. Many of the Purānas enumerate the moun tains and rivers of dvipas and var ṣas other than those of Jambudvipa and Bhārata-varsa such as Harivarṣa, Ramyaka varsa, Krauñcadvipa, Sālmalidvipa, but they have been exclud ed from this list. The Brahmapurāṇa (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhīṣmaparva in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases. Similarly, the Garuda (I. 81. 1-31) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have listed about 350 sub tirthas. But there are about 1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāha-purāṇa under Mathurā, in Brahma-purāṇa under Gautami, in Vāyu-purāṇa under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some were left out purposely on account of the absence of any importance. Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purāṇas and are not even mentioned in them; many of these have been omitted in this list. Our authorities are often very vague about the location or extent of tirthas. Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Koțitirtha, Cakratīrtha, Varāhatirtha, Somatirtha). I am under great obligations to Cunningham's *Ancient Geography of India' (ed, of 1872) and to Nundo Lal Dey's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal being very limited, I could not enter into even brief discussions
 
 POONA
 
@@ -43,7 +43,7 @@ List of tīrthas
 
 1725
 
-by the B BRAS), to Stein's notes in his translation of the Rāja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VII are employed for the Bāla, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyaṇa I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purānas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahāpurāṇas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāṇa of which the edition of Messrs. Gopal Narayan & Co. and the Bhāgavatapurāna, of which the Nirnayasagara edition of the bare text have been referred to). The Skandapurāṇa has been a source of great trouble and labour. Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand and odd verses of that purāṇa, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocryphal and later additions. The seven big sections of the Skanda viz. Maheśvarakhanda, Vaiṣpava, Brāhma, Kāśi, Avantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VII and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdha.
+by the B BRAS), to Stein's notes in his translation of the Rāja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VII are employed for the Bāla, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyaṇa I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purānas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahāpurāṇas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāṇa of which the edition of Messrs. Gopal Narayan & Co. and the Bhāgavatapurāṇa, of which the Nirnayasagara edition of the bare text have been referred to). The Skandapurāṇa has been a source of great trouble and labour. Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand and odd verses of that purāṇa, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocryphal and later additions. The seven big sections of the Skanda viz. Maheśvarakhanda, Vaiṣpava, Brāhma, Kāśi, Avantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VII and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdha.
 
 BUD
 
@@ -61,7 +61,7 @@ History of Dharmasastra
 
 [ Vol.
 
-A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference. Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places. I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Visnupurāna (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan. deyapurāṇa, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud huri's 'Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I. A. vol. 54. I have consulted only a few Māhātmyas of tirthas. Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāṇa Index' (volumes I and II covering over 1400 pages) which collects material from five Purānas only viz. the Bhāgavata, Brahmānda, Matsya, Vāyu and Visnu. The two volumes reach up to the Sanskrit letter 'ma' only. I, for my part, do not agree with much that he says about the age of the Purānas in general and of the five Purānas (which he has digested) in particular, but this is not the place to go into that question. Besides, his work has to be used with some caution. In several places the work is misleading. To take only a fe examples. On p. 547 he lists "Godhūma', makes the remark ‘fit for śrāddha' and cites four references from the Viṣnupurāṇa alone. One may prima facie think that Godhūma is here some place fit for śrāddha. As a matter of fact in all the references from the Viṣnupurāṇa 'Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha. But other fit things such as 'ikṣu' (declared to be fit for sraddha by Vāyu 78. -8) are not included at all. On p. 123 A.śokavana is not a proper name, but only a forest of Asoka trees, as the preceding word 'drāksāvana' (in Vāyu 38. 68) indicates. So also Kamala prabhava (not 'prabhavā' as printed on p. 316 of vol. I) is not a river (in Matsya 163. 62, Anandaśrama ed.) but is only a sus adjective of the word Sona that follows. On p. 316 of vol. II Hobb states that the river Pārā rises from Rsyavān, but the Matsya round 114, 24 on which he relies says it springs from Pāriyātra. On the same page he gives the entry "Pārāvāratata sacred to darkar Oriental
+A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference. Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places. I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Visnupurāṇa (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan. deyapurāṇa, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud huri's 'Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I. A. vol. 54. I have consulted only a few Māhātmyas of tirthas. Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāṇa Index' (volumes I and II covering over 1400 pages) which collects material from five Purānas only viz. the Bhāgavata, Brahmānda, Matsya, Vāyu and Visnu. The two volumes reach up to the Sanskrit letter 'ma' only. I, for my part, do not agree with much that he says about the age of the Purānas in general and of the five Purānas (which he has digested) in particular, but this is not the place to go into that question. Besides, his work has to be used with some caution. In several places the work is misleading. To take only a fe examples. On p. 547 he lists "Godhūma', makes the remark ‘fit for śrāddha' and cites four references from the Viṣnupurāṇa alone. One may prima facie think that Godhūma is here some place fit for śrāddha. As a matter of fact in all the references from the Viṣnupurāṇa 'Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha. But other fit things such as 'ikṣu' (declared to be fit for sraddha by Vāyu 78. -8) are not included at all. On p. 123 A.śokavana is not a proper name, but only a forest of Asoka trees, as the preceding word 'drāksāvana' (in Vāyu 38. 68) indicates. So also Kamala prabhava (not 'prabhavā' as printed on p. 316 of vol. I) is not a river (in Matsya 163. 62, Anandaśrama ed.) but is only a sus adjective of the word Sona that follows. On p. 316 of vol. II Hobb states that the river Pārā rises from Rsyavān, but the Matsya round 114, 24 on which he relies says it springs from Pāriyātra. On the same page he gives the entry "Pārāvāratata sacred to darkar Oriental
 
 POONA
 
@@ -85,11 +85,11 @@ List of tirthas
 
 Mata'. This makes no sense. Pārāvāratata would mean 'the shore of the sea'. What is really meant is that Devi is styled or worshipped as Pārā on the bank of the Pārā river (Pārā Pārātate mata). He does not compare the readings of the several printed editions of the five pūrānas. Besides, the information furnished is very meagre. If the whole had been printed in a compact form far more information could have been given in the same number of pages.
 
-In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The purānas promise one or more of the following rewards viz. the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or reaching the highest worlds such as those of Brahmā, Visnu or Siva, the destruction of the gravest sins such as brāhmaṇa murder, the same merit as arises from gifts of a thousand cows &c.
+In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The purāṇas promise one or more of the following rewards viz. the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or reaching the highest worlds such as those of Brahmā, Visnu or Siva, the destruction of the gravest sins such as brāhmaṇa murder, the same merit as arises from gifts of a thousand cows &c.
 
 Many of the doubts and difficulties about the identification of several tīrthas can, if at all, be solved only by means of actual journeys to various places and investigations on the spot. That is a task which would require for its proper accom plishment a team of workers. A single individual can hardly attempt such a task with his own resources.
 
-ul This list will, it is hoped, be of some use in elucidating several problems such as the questions about the relative anti quity of the purānas, the dates of several Sanskrit works which mention the tirthas and the questions about borrowing on the part of purāṇas among themselves and from the Mahābhārata.
+ul This list will, it is hoped, be of some use in elucidating several problems such as the questions about the relative anti quity of the purāṇas, the dates of several Sanskrit works which mention the tirthas and the questions about borrowing on the part of purāṇas among themselves and from the Mahābhārata.
 
 e
 
@@ -125,7 +125,7 @@ ine
 
 5901
 
-Abbreviations employed in this list alone to bolvida to b AC.-Abhidbana-cintamani of Hema- K.-Kūrmapurāna.
+Abbreviations employed in this list alone to bolvida to b AC.-Abhidbana-cintamani of Hema- K.-Kūrmapurāṇa.
 
 candra (ed. by Böhtlingk, 1847). Kal.-Kalikāpurana, Adi-Adiparva of the Mahābhārata K.R.-Būhler's Kashmir Report (extra Ag.-Agnipurana.
 
@@ -151,15 +151,15 @@ Bhagavad-datta. A. S. R.-Archaeological Survey
 
 Nr.-Nrsimha or Narasimha-purana. India Reports.
 
-P.-Padma-purāna. B. --Brahmapurāṇa.
+P.-Padma-purāṇa. B. --Brahmapurāṇa.
 
-Pargiter.-Translation of Markandeya Bar. S.-Bārhaspatya-sutra edited by purāna with notes.
+Pargiter.-Translation of Markandeya Bar. S.-Bārhaspatya-sutra edited by purāṇa with notes.
 
 Dr. F. W. Thomas,
 
 STORT Ptolemy-Mc Crindle's 'Ancient India'
 
-Ptolemy MC Bh.-Bhagavatapurāna.
+Ptolemy MC Bh.-Bhagavatapurāṇa.
 
 as described by Ptolemy with notes Bhav.-Bhavisyapurana.
 
@@ -175,13 +175,13 @@ com., edited by Sudhakara Dwivedi. S.-Sabhāparva of the Mahabharata. BV.-Brahma
 
 Sal.--Salyaparva of the Mahābhārata. C.I.I.- Corpus Inscriptionum In
 
-ntiparva of the Mahābhārata. dicarum ; vol. I. Inscriptions of SK.-Skandapurāna Asoka, vol. III. Gupta Inscriptions.
+ntiparva of the Mahābhārata. dicarum ; vol. I. Inscriptions of SK.-Skandapurāṇa Asoka, vol. III. Gupta Inscriptions.
 
 SM.-Stein's Memoir on maps illus Dey.--Nundolal Dey's 'Geographical trating the Ancient Geography of
 
 Dictionary of India' (1927).
 
-Kashmir. G.--Garudapurāna.
+Kashmir. G.--Garudapurāṇa.
 
 T.K.-Kalpataru on tīrthas (G. O S.) Go.--Godavari river
 
@@ -217,11 +217,11 @@ Abbreviations
 
 IV)
 
-Va.--Vāyupurāna Vām.-Vāmanapurana. Var.-Varāhapurāna. VD.-Visnud harmottara-purana. V. Dh. S.--Visnud harma-sūtra
+Va.--Vāyupurāṇa Vām.-Vāmanapurana. Var.-Varāhapurāṇa. VD.-Visnud harmottara-purana. V. Dh. S.--Visnud harma-sūtra
 
 by Jolly).
 
-Vi.-Viṣnupurāna Vik.-Vikramanka-deva-carita of
+Vi.-Viṣnupurāṇa Vik.-Vikramanka-deva-carita of
 
 Bilhana (ed. by Būhler). V.S.-Vārāṇasī. Wilson-Translation of Visnupurana,
 
@@ -1357,7 +1357,7 @@ Ciramocanatirtha--(in Kasmira) R. I.
 
 SM p. 211 Citabhūmi-(Vaidyanātha or Deoghar
 
-in Sonthal pargana containing the temple of Vaidyanatha/one of the twelve Jyotirlingas) Sivapurāna
+in Sonthal pargana containing the temple of Vaidyanatha/one of the twelve Jyotirlingas) Sivapurāṇa
 
 I. 38, 55. Vide Dey p: UNDER Citragupteśvara-(under s og. by
 
@@ -1475,7 +1475,7 @@ being vague and probably it means no more than Dandakāranya) Rām. II. 9. 12 (d
 
 nam Dandakan prati). Dandakaranya or Dandakavana-V. 85
 
-41, 147, 32, Var. 71. 10 (where Gautama performed tapas). B 88. 18, 10.96 (Gautami is in Dandaka). 123. 117-120 (Gautami was five yojanas from the beginning of D.). 129.55 (quintessence of the world), 161.73 (D. is the seed of dharma and of mukti). Sal. 39. 9-10 (Janas thana is in D.), Rām. II. 18. 33 and 37, III. 1.1. Vām. 84. 12 (refers to Dandakāranya brāhmanas) and :43. PV. 34. 58-59 (origin of name ). Vide my paper on the 'Ancient Geo graphy of Maharastra' in JBBRAS for 1917 at pp. 14-15 and the note and Pargiter in JRAS for 1894 on 'the Geography of Rāma's exile' p. 242. Dandakāranya probably com prised all forests from Bundelkhand or Bhopal in Central India right down to Godavari or to Krsna. Br. S. XI. 56 says that a malignant comet in Hasta naksatra kills the
+41, 147, 32, Var. 71. 10 (where Gautama performed tapas). B 88. 18, 10.96 (Gautami is in Dandaka). 123. 117-120 (Gautami was five yojanas from the beginning of D.). 129.55 (quintessence of the world), 161.73 (D. is the seed of dharma and of mukti). Sal. 39. 9-10 (Janas thana is in D.), Rām. II. 18. 33 and 37, III. 1.1. Vām. 84. 12 (refers to Dandakāranya brāhmanas) and :43. PV. 34. 58-59 (origin of name ). Vide my paper on the 'Ancient Geo graphy of Maharastra' in JBBRAS for 1917 at pp. 14-15 and the note and Pargiter in JRAS for 1894 on 'the Geography of Rāma's exile' p. 242. Dandakāranya probably com prised all forests from Bundelkhand or Bhopal in Central India right down to Godavari or to Krsna. Br. S. XI. 56 says that a malignant comet in Hasta nakṣatra kills the
 
 chief of Dandakāranya. Dandakhata (under VS) L. q. by T. K,
 
@@ -1791,7 +1791,7 @@ worshipped as Ananta Kapila) Dvīpesvara--(under Narmada) M. 193.
 
 | Krttivasa. B (chap, 41, 10-93 )
 
-describes and glorifies this tirtha, all those verses being quoted in T. C. pp. 176-180. It is said to be the destroyer of sin, equal to Benares, and as having eight sub tirthas and it was so called because in former ages there was one mango tree (B. 34. 6 and 41. 10-93). Vide Hunter's Orissa' vol. I. p. 231-241 and Mitra's 'Antiquties of Orissa' vol. II. pp. 56-98 for history, description, daily services and festivals &c. The chief temple is 160 feet high from the base to the top of the kalasa. In the Bhuvanesvara Inscription (edited by Dr. L. D. Barnett) in E, I, XIIL p. 150 it is stated that Candrika. daughter of the Ganga king Ananga Bhima and widow of Haihaya prince Paramardin, built a temple of Visnu at Ekamra. In that inscrip tion among other matters there is a laudation of Utkala, of the sanctu ary of Ekāmra and of the lake Bindusaras (mentioned in B. 41. 53-54). The date of the inscription is doubtful. But it is between sake 1101-1200. There is a vast number of temples and shrines here. Vide Archaeological survey of India Report for 1902-3 pp. 43-44. Purusottamatattva (Jiv. I. p. 573) where Raghunandana quotes several verses of B. chap. 41. There is Ekāmrapurāna in five amsas (parts) and 70 chapters (vide Mitra's Notices vol. IV pp. 138-140 No. 1561 for detailed analysis of contents and Ekāmra Candrikā which is a guide to pilgrims visiting Bhuvanesvara and contains extensive quotations from Kapilasamhitā, Ekāmrapurana, Sivapurana and other works vida Mitra's Notices, vol. IV. pp. 136,197 No. 1560 for analysis of contents PUNTO Ekavirā---(under Go ) B. 161, 53 min terminar
+describes and glorifies this tirtha, all those verses being quoted in T. C. pp. 176-180. It is said to be the destroyer of sin, equal to Benares, and as having eight sub tirthas and it was so called because in former ages there was one mango tree (B. 34. 6 and 41. 10-93). Vide Hunter's Orissa' vol. I. p. 231-241 and Mitra's 'Antiquties of Orissa' vol. II. pp. 56-98 for history, description, daily services and festivals &c. The chief temple is 160 feet high from the base to the top of the kalasa. In the Bhuvanesvara Inscription (edited by Dr. L. D. Barnett) in E, I, XIIL p. 150 it is stated that Candrika. daughter of the Ganga king Ananga Bhima and widow of Haihaya prince Paramardin, built a temple of Visnu at Ekamra. In that inscrip tion among other matters there is a laudation of Utkala, of the sanctu ary of Ekāmra and of the lake Bindusaras (mentioned in B. 41. 53-54). The date of the inscription is doubtful. But it is between sake 1101-1200. There is a vast number of temples and shrines here. Vide Archaeological survey of India Report for 1902-3 pp. 43-44. Purusottamatattva (Jiv. I. p. 573) where Raghunandana quotes several verses of B. chap. 41. There is Ekāmrapurāṇa in five amsas (parts) and 70 chapters (vide Mitra's Notices vol. IV pp. 138-140 No. 1561 for detailed analysis of contents and Ekāmra Candrikā which is a guide to pilgrims visiting Bhuvanesvara and contains extensive quotations from Kapilasamhitā, Ekāmrapurana, Sivapurana and other works vida Mitra's Notices, vol. IV. pp. 136,197 No. 1560 for analysis of contents PUNTO Ekavirā---(under Go ) B. 161, 53 min terminar
 
 Ekadhāra--( under Sabhramati)P. VI.
 
@@ -2047,7 +2047,7 @@ History of Dharmaśāstra
 
 being flooded by the sea and of Benares) M. 114.22, Br. II, 16. 25, people going to Parasurama for Rām. II. 49. 11 succour). Vide Epi. C. vol. VII Gomati-gangā-sangama--P. I. 32. 42. Shikarpur No. 99 of 1113 A. D.) Bh. v. 19, 18, Ag. 109. 19. where Calukya Tribhuvanamalla's Gopādri-(m. in Kashmir, in the tributary is styled 'lord of Gokarna
 
-immediate vicinity of Srinagara pura.' The Lingapurāna speaks of near its southernmost corner, now two Gokarnas (I. 92. 134-135),
+immediate vicinity of Srinagara pura.' The Lingapurāṇa speaks of near its southernmost corner, now two Gokarnas (I. 92. 134-135),
 
 known as Takht-i-Sulaiman) SM p. Kūrma II. 35. 31 mentions Uttara
 
@@ -2237,7 +2237,7 @@ M. 117-118 contain fine descriptions Hastinapura or Hastinapura-( capital of tre
 
 of Kurus, named after king Hastin, it. Himalaya occurs in non-vedic great-grandson of Bharata Daus- works, e. g. Gita x. 25. Himavat yanti,). It is to the north-east of
 
-meant the whole mountain range Delhi. Adi 95. 34, Rām. II. 68. 13 stretching from Assam in the east (Hastinapura), Vi IV. 21. 8. to the mountains west of Panjab. Bh. IX. 22. 40. After it was swept Mār, 51.24 states that Kailāsa and away by Ganges, Nicaknu, grandson Himavat stretch from east to west of Janamejaya, made Kausambi his and are situated between two seas capital. Pan. VI. 2.101 (na Hāstina- and that Himavat is to the north of phalaka-mārdeyah) appears to know Bharatavarṣa (which has seas on it as Hastinapura. The Mbh. (vol. south, west, and east) like the string I. p. 380 on Pan. II. 1. 16) offers the of a bow (Mār. 54.59) illustration anu-Gangam Hastina. Himavat-aranya-Devīpurāna q. by T. puram'.
+meant the whole mountain range Delhi. Adi 95. 34, Rām. II. 68. 13 stretching from Assam in the east (Hastinapura), Vi IV. 21. 8. to the mountains west of Panjab. Bh. IX. 22. 40. After it was swept Mār, 51.24 states that Kailāsa and away by Ganges, Nicaknu, grandson Himavat stretch from east to west of Janamejaya, made Kausambi his and are situated between two seas capital. Pan. VI. 2.101 (na Hāstina- and that Himavat is to the north of phalaka-mārdeyah) appears to know Bharatavarṣa (which has seas on it as Hastinapura. The Mbh. (vol. south, west, and east) like the string I. p. 380 on Pan. II. 1. 16) offers the of a bow (Mār. 54.59) illustration anu-Gangam Hastina. Himavat-aranya-Devīpurāṇa q. by T. puram'.
 
 K. 244 Hastipādeśvara-(a Sivalinga to the Hiranvati-(carried a girl to Kosala)
 
@@ -2381,7 +2381,7 @@ eight sthānas ) M. 181.28 and 30, K. II. 40.35; B (under Narmada) M. 186. 15 an
 
 near Salagrāma) Var. 144. 139-140 Jalpisa-T. P. pp. 602-603 quoting
 
-Kālikāpurāna Jāmadagnya-tirtha-A ( where the
+Kālikāpurāṇa Jāmadagnya-tirtha-A ( where the
 
 Narmada falls into the sea) M 194. 34-35, P1. 21. 34-35 (calls it Jamadagnitirtha ); B. M 22. 57-58 (on Godāvarī, very efficacious for
 
@@ -2587,7 +2587,7 @@ District in U. P) M. 22. 20, Vām. 57. 79; this river divides Nepal from Saharan
 
 which falls into the Chambal Kālikā-(r. sacred to pitrs ) M. 22.36 Kalika-sangama-V. 84.156, P I. 38. 63
 
-(same words in both), Ag. 109. 20 Kālikāśikhara-Devipurāna q, by T. K.
+(same words in both), Ag. 109. 20 Kālikāśikhara-Devipurāṇa q, by T. K.
 
 p. 244 Kalikasrama-Anu 25. 24 (on Vipasa)
 
@@ -2777,7 +2777,7 @@ India. A Kapiladhāra--Vām. 84.24. Dey p. 4
 
 (under Amarakantaka) says that the first fall of the Narmadā from Amara kantaka is called Kapiladbārā in
 
-Skandapurāna Kāpiladvīpa-(Ananta is Visnu'sguhya name there) Nr 65.7 q. by TK p. 251 (which reads "Anantam
+Skandapurāṇa Kāpiladvīpa-(Ananta is Visnu'sguhya name there) Nr 65.7 q. by TK p. 251 (which reads "Anantam
 
 kapilam dvīpe ') Kapilahrada (under VS) V. 84.78, N II.
 
@@ -2855,7 +2855,7 @@ III. 13.92 Karavīra-A (modern Kolhapur) M.
 
 13,41 (Karavīre Mahālaksmih)=P. V. 17.205. M. 22.76, Anu 25.44, P. VI. 108.3; E. I. vol. III p. 207, 210, a grant of Siladitya Vyayaditya of sake 1065 mentions Ksullakapura which appears to be meant for Kolha pura. It occurs as Kollapura in Miraj plates of Jayasimha II (a Calukya) in 1024 A. D. (E. I. vol. XII p. 303, 306). Vide I. A. vol. 29 p. 280 for the spelling of the name; B (capital of Brahmāvarta on Drsa
 
-dvati) Kalikāpurāna 49.71, NM 147: CC (city in Sahya near Gomanta hill)
+dvati) Kalikāpurāṇa 49.71, NM 147: CC (city in Sahya near Gomanta hill)
 
 Harivamsa (Visnuparva) 39. 50-64 Karavīraka-tīrtha-A (under VS) L. q.
 
@@ -3433,7 +3433,7 @@ History of Dharmaśāstra
 
 Lauhitya--r. Brahmaputra) V. 85. 2, Lohita-Gangaka-(same as Lauhitya)
 
-Va 47.11, 77. 95, M121. 11-12 (a Kal. 86. 32-34 nada which springs from a lake Lokapala-(under Badari) Var. 141. called Lohita at the foot of Hemas- 28-31 riga mountain), Anu 25.46, P.I. 39.2 Lokapāleśvara--(under VS) L. q. by (same verse as in V 85.2) and V.52 TK. p. 105 54, Kalikāpurāna 86. 26-34. From Lokoddhāra-V. 83. 45, P. I. 26. 41 Raghuvamsa IV. 81 it appears that (same verse in both) Lauhitya was the western boundary Lolarka - (under VS) M. 185. 68 of Prāgjyotisa. Vide TP. pp. 601
+Va 47.11, 77. 95, M121. 11-12 (a Kal. 86. 32-34 nada which springs from a lake Lokapala-(under Badari) Var. 141. called Lohita at the foot of Hemas- 28-31 riga mountain), Anu 25.46, P.I. 39.2 Lokapāleśvara--(under VS) L. q. by (same verse as in V 85.2) and V.52 TK. p. 105 54, Kalikāpurāṇa 86. 26-34. From Lokoddhāra-V. 83. 45, P. I. 26. 41 Raghuvamsa IV. 81 it appears that (same verse in both) Lauhitya was the western boundary Lolarka - (under VS) M. 185. 68 of Prāgjyotisa. Vide TP. pp. 601
 
 (one of the five principal tirthas in 602 for mahatmya. The form Lau
 
@@ -3889,7 +3889,7 @@ pilgrimage in Kaśmira. Manujeśvara--(under VS) L.q. by T.K.
 
 Mārtandapādamūla (under Gaya ) p. 104
 
-Brahmapurāna q. by T.K. p. 166 Manulinga-(under VS) L. q. by T.K.
+Brahmapurāṇa q. by T.K. p. 166 Manulinga-(under VS) L. q. by T.K.
 
 Marudgana-Anu, 25, 38 Manusa-(under Kuruksetra) PI. 26.
 
@@ -5233,7 +5233,7 @@ efficacious here) Sahasrakunda---(under Go.) B. 154.1,
 
 9. by T.S p. 59 Sahya or Sahyadri-(one of the seven main mountains of Bharatavarsa) B. 161.2, M. 13. 40, Br, III. 56.22,
 
-Ag. 109. 21 Sahyāmalaka--Vide Amalaka Sahyaranya-Devipurāna 4. by T. K.
+Ag. 109. 21 Sahyāmalaka--Vide Amalaka Sahyaranya-Devipurāṇa 4. by T. K.
 
 p. 244
 
@@ -6383,7 +6383,7 @@ Jaina sources on Udayana and Uddiyāna-Kal. 18.42 (where the Vasavadattā and I.
 
 two thighs of Sati's corpse fell).
 
-for inscription of Sravana Belgola Udicitirtha--(under Gayā ) Va 111. 6. about migration of Jainas under
+for inscription of Śravaṇa Belgola Udicitirtha--(under Gayā ) Va 111. 6. about migration of Jainas under
 
 Vide p. 663 above
 

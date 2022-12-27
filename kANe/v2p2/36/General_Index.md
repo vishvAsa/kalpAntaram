@@ -9,7 +9,7 @@ GENERAL INDEX
 
 Abbe Dubois 20. Abda pūrti, & samskor& 106, 258mm 
 
-260. Abhijit, 28th dakpatra, added beto woon Sravana and Uttardṣadb, 
+260. Abhijit, 28th dakpatra, added beto woon Śravaṇa and Uttardṣadb, 
 
 247. Abhiras, a casto 72–73, 262; are dig. 
 
@@ -1285,7 +1285,7 @@ devayajña and devapuja in later
 
 sugtis, 705; vaisvadova oame to be Dhṛtarāptra, bocame forost hermit looked upon 48, 705. 
 
-after Kaurava war, 923. Devipurāna, 176, 217, 900. 
+after Kaurava war, 923. Devipurāṇa, 176, 217, 900. 
 
 Dhvajı, 84. Dhammapada, 336n. 
 
@@ -2581,7 +2581,7 @@ number of, variously given, 217; worship of, 215, 217; worship of,
 
 at Mohenjo-daro, 218. Matronymic, names for males, 242, 
 
-252 Matsya, country of, 13, 328. Matsya, story of avatāra of, 718. Matsya-bandhaka, a caste, 90. Matsyapurāna, 6n, 17, 61, 103, 114n, 
+252 Matsya, country of, 13, 328. Matsya, story of avatāra of, 718. Matsya-bandhaka, a caste, 90. Matsyapurāṇa, 6n, 17, 61, 103, 114n, 
 
 115n, 148, 215, 217, 3089, 324, 380, 395n; has four hundred verses on mahadīnas, 870; on gotras and 
 
@@ -3083,7 +3083,7 @@ when called Kākubha, 11900, la proceduro of pratietha, 893; Prajā pati, smrti 
 
 a tank, 890-892; procedure pre are made silently, 10040; 48 m 
 
-scribed in purānas preferred in boar raised the earth, 718; became 
+scribed in purāṇas preferred in boar raised the earth, 718; became 
 
 medieval times, 892 ; proper time & tortoise, 718; presiding deity of 
 
@@ -4263,7 +4263,7 @@ coduro of, in modern tiinos, 813 Udyoga parva, 6, 8n, 69, 79, 82, 83, 816; reaso
 
 84, 88, 330n, 358n, 4310, 507, 5100, 
 
-śravana and the nakgatra Sravana 637, 795 &c. 
+śravana and the nakgatra Śravaṇa 637, 795 &c. 
 
 were held so important are obscure, Ogra, a casto, 73-74 ; a nobleman in 809-810; time for, variously stated, 
 
@@ -4501,7 +4501,7 @@ charged with having married his maternal uncle's daughter, 459 460; is said in t
 
 Arjuna, 795-796. Vasudevopanigad, 673. Vātsydyana, author of Kamasutra, 
 
-9, 367, Vatadhana, a caste, 95. Vatsa, 520n. Vātsa pra, a bymn, 233, 1006, 1249. Vayupurāna, 2n, 17, 66n, 87, 99, 302, 
+9, 367, Vatadhana, a caste, 95. Vatsa, 520n. Vātsa pra, a bymn, 233, 1006, 1249. Vayupurāṇa, 2n, 17, 66n, 87, 99, 302, 
 
 308, 314n, 3230, 325n, 355, 381, 445 &c.; on gotras and pravares, 484; recitation of, to Bana, 800. Veda (see "hymns'); become latent at dissolution and manifost at creation of world, 363; broath of the Great Boing, 353; etornity of, interpreted in several ways, 363 ; momorizing of, mapst bighly thought of in medieval timon, 368; moans mantras and Brūhmaga works, 362; one who morely commits to momory without understanding it, strongly condemned, 867; meaning 
 
@@ -4513,7 +4513,7 @@ of, cannot bo known according to figure of, compared to a young some orthodox br
 
 370; went out of vogue, 373. Vedas : deemed to be eternal and not Veda-Vyāsa, 18, 71, 76, 78, 79, 81, 
 
-composed by any human author, 159, 194, 196, 437, 559,563, 627 &c.; 352; emphasis on the correct ac- enumerates twelve castes as contuation of, 347; endless in ex- antyajas, 71. topt, according to Tai. Br., 271; 1 Vedic Index, 107n, 499, 509n, 554n, oulogy of the study of, 327; extent 608n, 707, 1106, of, according to Mahabhāsya, 327; | Vegetables, allowed and forbidden four, 327; japa of some hymns of, as food, 583-584; touch of certain, purifies man of his sins, 350; method entailed bath, 170. of teaching, 325-326 ; one may | Velava, a caste, 95. study only one of the v, that Vepa (or Vaiṇa ), a caste, 95. was studiod by his forefathers, į Venisambāra, a drama, 296. 328; originally father taught son, Venuka, & pratiloma caste, 95. 108, 273; repeating veda in pada, Vesya, (courtezan), 637-639; consti krana, jata formations, 347; rovi- tutes & separate class according to ling of, a great sin, 358; study of, Skandapurāna, 638; institution of, is called tapas by Tai. Up. 356, existed from the times of Rgveda, 105-108; study of, the highest 637; origin of, in Skandapurāṇa, dharma of a brāhmana, 107-108; 
+composed by any human author, 159, 194, 196, 437, 559,563, 627 &c.; 352; emphasis on the correct ac- enumerates twelve castes as contuation of, 347; endless in ex- antyajas, 71. topt, according to Tai. Br., 271; 1 Vedic Index, 107n, 499, 509n, 554n, oulogy of the study of, 327; extent 608n, 707, 1106, of, according to Mahabhāsya, 327; | Vegetables, allowed and forbidden four, 327; japa of some hymns of, as food, 583-584; touch of certain, purifies man of his sins, 350; method entailed bath, 170. of teaching, 325-326 ; one may | Velava, a caste, 95. study only one of the v, that Vepa (or Vaiṇa ), a caste, 95. was studiod by his forefathers, į Venisambāra, a drama, 296. 328; originally father taught son, Venuka, & pratiloma caste, 95. 108, 273; repeating veda in pada, Vesya, (courtezan), 637-639; consti krana, jata formations, 347; rovi- tutes & separate class according to ling of, a great sin, 358; study of, Skandapurāṇa, 638; institution of, is called tapas by Tai. Up. 356, existed from the times of Rgveda, 105-108; study of, the highest 637; origin of, in Skandapurāṇa, dharma of a brāhmana, 107-108; 
 
 638 ; punishment for having inter study of, to be preferred if in con- course with a concubino kept by fict with agriculturo, 126; teach- another, 638. ing of, special privilege of brāh- Vicitravirya (see under Vyasa'), magas 108-110. 
 

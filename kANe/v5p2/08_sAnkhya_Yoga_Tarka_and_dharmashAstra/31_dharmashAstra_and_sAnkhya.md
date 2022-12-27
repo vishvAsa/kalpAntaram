@@ -311,7 +311,7 @@ Kapila in Bhagavata and Gita
 
 1373 
 
-p. 693). In the Bhagavatapurana (I. 3. 10) Kapila is said to be the 5th avatāra of Viṣṇu, is called siddhesa ( the lord of siddhas) and the teacher of Asuri in Saṅkhya that had become decadent (by lapse of time). The Gitā also (X. 26 siddhānām Kapilo munik') montions Kapila as a muni and the most eminent among siddhas. The 8. Kārikā also refers to him as muni, The Kūrmapurāna (II, 7. 7) echoes the very words of the Gita ('siddhānām Kapilo muniḥ'). 
+p. 693). In the Bhagavatapurana (I. 3. 10) Kapila is said to be the 5th avatāra of Viṣṇu, is called siddhesa ( the lord of siddhas) and the teacher of Asuri in Saṅkhya that had become decadent (by lapse of time). The Gitā also (X. 26 siddhānām Kapilo munik') montions Kapila as a muni and the most eminent among siddhas. The 8. Kārikā also refers to him as muni, The Kūrmapurāṇa (II, 7. 7) echoes the very words of the Gita ('siddhānām Kapilo muniḥ'). 
 
 In the ranéas in Bs. Up. I. 6. 3 and VI. 5. 2-3, in which succession lists of teachers and pupils differing from one another ocour, Asuri is said to be disciple of Bharadvāja in the first and the pupil of Yājñavalkya in the second. Each list contains at least 60 teachers from Brabmā downwards. In the first place, it is difficult to hold that these lists are authentic and there is no evidence to establish that the Asuri mentioned in both is the Bame as the pupil of Kapila. 
 
@@ -393,7 +393,7 @@ B. D. 173
 
 History of Dharmatastra (Sec. VIII, Ch. XXXI 
 
-philosophic system which postulates twentyfive tattvas, Prakrti, Puruṣa and others. This is the sense in which the word is used once even in the Gitā (18. 13, Sāṅkhya krtante proktāni &o). The Matsyapurāna also emphasizes this aspect of the Bankhya system. 
+philosophic system which postulates twentyfive tattvas, Prakrti, Puruṣa and others. This is the sense in which the word is used once even in the Gitā (18. 13, Sāṅkhya krtante proktāni &o). The Matsyapurāṇa also emphasizes this aspect of the Bankhya system. 
 
 The word "Saṅkhyā' has another sense as the Amarakosa states (carca sankhyā vicāraṇā ) viz. 'rational examination or 
 
@@ -471,7 +471,7 @@ Purūnas and Saṅkhya
 
 ohapters and verses of some Purāṇas and the oitation of a fow striking or informative verses. Matsya (3. 14-29) begins with praksti, gunas and all the twenty-five tattvas, remarks that the three gods, Brahma, Viṣṇu, Mahesvara, though one, arose from the guṇas being put into activity and winds up by saying that Saṅkhya is full of enumerations and was proclaimed by Kapila and others.n68 The Brahmapurana (1. 33-35, 33. 3-4,242, 67-70, 76-85) recounts the tattvas from prakrti to ksetrajfia and remarks at the end that the soul becomes kevala (free from 
 
-all contacts and liberated) when he realizes the truth about himself. The Padmapurāṇa in several places dilates upon the tattvas of the Saṅkhya such as in Patalakhanda 85, 11-18, Srstikhanda, chap. 2. 88-103, chap. 15. 177-187, which closely follow the 8. Kārikā verses. The Kūrmapurāṇa (I. 4. 13–35) states that Maheśvara enters prakrti and puruṣa, activates them and sets out Sāṅkhya ideas and in II. 7. 21-26 it refers to the twenty-four tattvas and the state of equilibrium (sāmyavasthā). The Markandeya.purana in chap. 42. 32-62 treats of creation with Saṅkhya terminology. Three verses of the Brahmanda IV. 3. 37-46 referring to the threefold bondage (bandha) are quoted by the Kr̥tyakalpataru (moksa) p. 124. Similarly, Brahmanda (II. 32.71-76) employ the Saṅkhya terminology of mahat,ahaikara &o. Prof. Das Gupta in 'Indian Philosophy' vol. IV. pp. 24-48 deals at some longth with Kapila's philosophy in the Bhāgavatapurāna and Sri Siddhesvara Bhattacharya contributes a paper 'a critique of the Bhagavata' in JBRS for. 1950 pp. 9–50 in which he severely criticizes Prof. Das Gupta. 
+all contacts and liberated) when he realizes the truth about himself. The Padmapurāṇa in several places dilates upon the tattvas of the Saṅkhya such as in Patalakhanda 85, 11-18, Srstikhanda, chap. 2. 88-103, chap. 15. 177-187, which closely follow the 8. Kārikā verses. The Kūrmapurāṇa (I. 4. 13–35) states that Maheśvara enters prakrti and puruṣa, activates them and sets out Sāṅkhya ideas and in II. 7. 21-26 it refers to the twenty-four tattvas and the state of equilibrium (sāmyavasthā). The Markandeya.purana in chap. 42. 32-62 treats of creation with Saṅkhya terminology. Three verses of the Brahmanda IV. 3. 37-46 referring to the threefold bondage (bandha) are quoted by the Kr̥tyakalpataru (moksa) p. 124. Similarly, Brahmanda (II. 32.71-76) employ the Saṅkhya terminology of mahat,ahaikara &o. Prof. Das Gupta in 'Indian Philosophy' vol. IV. pp. 24-48 deals at some longth with Kapila's philosophy in the Bhāgavatapurāṇa and Sri Siddhesvara Bhattacharya contributes a paper 'a critique of the Bhagavata' in JBRS for. 1950 pp. 9–50 in which he severely criticizes Prof. Das Gupta. 
 
 सलिलं पाहिखण्ड chary 
 

@@ -115,7 +115,7 @@ friendly 217. Agnihotra, how far forbidden in Kali, Alluvion and diluvion, rules
 
 Amarakosa, 7, 470, 66, 105n, 1210, Agnimitra, 103, 116. 
 
-124n, 1331, 1341, 138, 140n, 147n, Agnipurāna, 13, 17n, 219, 22, 45, 46, 
+124n, 1331, 1341, 138, 140n, 147n, Agnipurāṇa, 13, 17n, 219, 22, 45, 46, 
 
 159n, 190, 419n, 454, 486, 4910, 48, 499, 50-51, 59n, 60, 71, 770, 78, 
 
@@ -473,7 +473,7 @@ Bhāsa 2110, Bbāskarācārya 1220. Bhaskaravarman, Nidhanpur plate of
 
 202. Bhattacharya, Mr. Batuknath, 966. Bhattoji, author of a commentary on 
 
-Caturvimsatimata 926n, 928n; 930, 940, 944, 949-50, 957, 961. Bhavabhūti 243. Bhavanātha author of Nayaviveka 5500. Bbāvaprakasana 136. Bhaviṣyapurāna 7, 737n, 840, 844n, 
+Caturvimsatimata 926n, 928n; 930, 940, 944, 949-50, 957, 961. Bhavabhūti 243. Bhavanātha author of Nayaviveka 5500. Bbāvaprakasana 136. Bhaviṣyapurāṇa 7, 737n, 840, 844n, 
 
 872, 9050. Bheda (an upaya) 174, Bhide, Prof. H. B. 924n. Bhikkhus, some of whom were styled 
 
@@ -511,7 +511,7 @@ independant sacrifice, though not in Rājasūya 38 ; could be sentenced to death
 
 (Vol. 
 
-not to receive corporal punishment, , Brhad-Vignu 721a. but may be banishd 396, 522, 526; Brhad-Yama 534, offender can be kept confined in Brhan-Manu 738, 752. a secret place 397, 3980; was for- Bṛhannāradiya-purāṇa (see under Nāra bidden from being a samity or sell- diyapurāna); 869, 928n. ing soma plaat 952; was forbidden 
+not to receive corporal punishment, , Brhad-Vignu 721a. but may be banishd 396, 522, 526; Brhad-Yama 534, offender can be kept confined in Brhan-Manu 738, 752. a secret place 397, 3980; was for- Bṛhannāradiya-purāṇa (see under Nāra bidden from being a samity or sell- diyapurāṇa); 869, 928n. ing soma plaat 952; was forbidden 
 
 en Bphaspati, writer on Rājadharma 2-4, to engage sūdras as cooks in Kali 
 
@@ -1111,7 +1111,7 @@ did not afford protection 512.
 
 service, were given work by superio Defendant; cannot raise a counter tendent of weaving 146. 
 
-claim in some cases 302 ; cases ip Devala, smrti of 553, 556, 610n, 614, which d, must make a reply at oncc 617, 620, 626, 6320, 644, 649, 650n, 296; characteristics of a good reply 6510, 702, 763, 777, 787, 791, 860, of d. 300; fines against d. for not 873, 943, 948-49, 951, 956, 960. being ready with his defence 296 ; Devapāla, com. on Kāthakagshya 880. not giving a reply even after time Devāpi, story of 41-42, 608-609. is allowed may be declared to be Devarāta 715. defeated 302; rules about adjourn. Devasvāmin 679, 715, 779. ment granted to 296; rules about Devipurāna 181, 234, 910n, 911, putting under restraint the d. 290- Dhammapada 185n. 291; rules about summoning a d. Dhammathats, Burmese Law books 286,287 ; was to reply in writing to 6410. the plaint 300. 
+claim in some cases 302 ; cases ip Devala, smrti of 553, 556, 610n, 614, which d, must make a reply at oncc 617, 620, 626, 6320, 644, 649, 650n, 296; characteristics of a good reply 6510, 702, 763, 777, 787, 791, 860, of d. 300; fines against d. for not 873, 943, 948-49, 951, 956, 960. being ready with his defence 296 ; Devapāla, com. on Kāthakagshya 880. not giving a reply even after time Devāpi, story of 41-42, 608-609. is allowed may be declared to be Devarāta 715. defeated 302; rules about adjourn. Devasvāmin 679, 715, 779. ment granted to 296; rules about Devipurāṇa 181, 234, 910n, 911, putting under restraint the d. 290- Dhammapada 185n. 291; rules about summoning a d. Dhammathats, Burmese Law books 286,287 ; was to reply in writing to 6410. the plaint 300. 
 
 Dhanurveda 49, 179, 215. Delay, in the disposal of law suits 296. 
 
@@ -1413,7 +1413,7 @@ body into 951. Ganikā, devolution of wealth of 148;
 
 duties of 148 ; qualifications of 148; salary of 148; was a vesyā who was honoured for ber accomplishments 
 
-1480, Gargasamhita 892, 896, 919n. Garuḍapurāna 13, 160-161, 892, 962. Gāthāsaptaśati 154. Gattulāl, Pandit 825n. Gaurasiras, expounder of rājadharma 
+1480, Gargasamhita 892, 896, 919n. Garuḍapurāṇa 13, 160-161, 892, 962. Gāthāsaptaśati 154. Gattulāl, Pandit 825n. Gaurasiras, expounder of rājadharma 
 
 2, 4, Gautama 17n, 553, 557. Gautama, dharmasūtra of 3, 19, 21, 23, 
 
@@ -1797,7 +1797,7 @@ Kalkin or Kalki, avatāra of, 923-925; same rewards as Vedic sacrifices 242;
 
 identified with Yasodharman, 924n, king dispensed j. not by bimself 
 
-Kalkipurāna, 923, 925. alone but with aid of judges, brāh 
+Kalkipurāṇa, 923, 925. alone but with aid of judges, brāh 
 
 Kalmāsapāda, story of 359n. nanas &c. 268-269; primarily dis 
 
@@ -2107,7 +2107,7 @@ Kumārila (see under 'Tantravārtika'); 872.
 
 Kunda, a kind of illegitimate son 646n. 660; distinguished from dattaka son 
 
-Kundawāla, a play 277n. 660: son, now prevalent only in Mithila Kūrmapurāna 857, 875, 892. 
+Kundawāla, a play 277n. 660: son, now prevalent only in Mithila Kūrmapurāṇa 857, 875, 892. 
 
 and among Nambudri brāhmanas 660. ! Kuruksetra, 'brahmanas residing in, Kșta age, belief in, was probably depict. 
 
@@ -2349,7 +2349,7 @@ General Index
 
 613, 615, 617-19, 621, 623-24, 626- 28, 630, 634-36, 640-642, 644-46, 648n-655, 657.58, 660, 663-64, 666, 672, 675, 677-78, 686, 690, 691n-92, 694-95, 699n, 700, 702, 7030, 706, 710n, 712, 714, 718-21, 725, 727, 731, 733, 734,736, 741, 743, 746-49, 752, 753n, 754n, 759,762-764n, 766, 769-71, 773, 776n, 777-79, 787-90, 792n, 794, 797, 803-808, 814-15, 825n-27, 8338, 837, 839, 841, 848, 851n, 852, 854, 856, 857, 858n, 859 862, 863-64, 865-66, 868-871, 873 877, 879, 881, 883, 885, 8879, 890 92, 927, 931-34, 937-39, 941-43, 
 
-945 n. 947, 952-5, 958-60, 963-965. Manvantaras, extent of 891. Marici, smrti of 306, 326, 409, 465. Mārkandeya-purāna 3, 13, 24, 53, 62. 
+945 n. 947, 952-5, 958-60, 963-965. Manvantaras, extent of 891. Marici, smrti of 306, 326, 409, 465. Mārkandeya-purāṇa 3, 13, 24, 53, 62. 
 
 134-35, 137, 170, 237, 239, 255n, 
 
@@ -2373,7 +2373,7 @@ man') 476-484; care required of servant as to utensils of m. 477 ; liability of 
 
 undertaking some work for m, 478; servant not doing work after receiv. ing wages was liable to fine and to compensate m. 477-478; time when wages may be paid 476; wbat was to be paid to s. when no wages 
 
-settled before band 476-77. Mātrdatta 6850. Matsyapurāna 3, 9, 13, 179, 180, 22 
+settled before band 476-77. Mātrdatta 6850. Matsyapurāṇa 3, 9, 13, 179, 180, 22 
 
 24, 30, 40, 51-53, 59-60, 67, 83, 84, 86, 104, 105, 108, 1129, 117, 126n, 127, 133, 135, 160-61, 170, 172, 174, 175, 179, 181, 190, 226-27, 315, 355, 385, 389n, 401, 403, 406, 4740, 478, 481, 500, 508-509,512,521,524,528, 533-34, 642, 741, 890, 892, 895n. 896n, 8970, 899-900, 902, 905n, 
 
@@ -2515,7 +2515,7 @@ Musicians, and actors were not to take 867, 868, 882-83, 885, 932, 934,
 
 excessive gifts or indulge in extrava- 936, 952. gant praise of patrons 253. 
 
-Nāradiya-purāna 656n, 892, 8930, 928, Nābhānediṣtha, story of 543, 545. 
+Nāradiya-purāṇa 656n, 892, 8930, 928, Nābhānediṣtha, story of 543, 545. 
 
 939, Nāgaraka, duties of 149, 406. 
 
@@ -2801,7 +2801,7 @@ Pitāmaba, smrti of 262-63, 265-66, Pathak, Prof. K. B. 9240,
 
 327, 362-65, 367, 369n, 3720, 373, entailed loss of estate or inheritance 
 
-379, 862.. only if no prāyaścitta was performed Piṭāmabasiddhānta 889. . 5470, 615; daughter of p, was not Pitrgātbās, from Matsyapurāna 642. treated as p. 616; gbatasphoṭa for Plaint (see under 'pleadings'); con outcasting a p. 610n; 615; son of tents of 293-294; faults in 299; p. was excluded from partition or reasons which make a p. unaccepta. inheritance and even maintenance ble 299; rules about amendment of 611, 616-17; who was p. 6128 ; 293 ; rules about preference, when women, even if they performed no several persons present p.' at same prāyaścitta, were not to be cast on the time 298; ten details of a p. about streets, but were to be given maia- immovable property 293-94 ; various tenance 615, 
+379, 862.. only if no prāyaścitta was performed Piṭāmabasiddhānta 889. . 5470, 615; daughter of p, was not Pitrgātbās, from Matsyapurāṇa 642. treated as p. 616; gbatasphoṭa for Plaint (see under 'pleadings'); con outcasting a p. 610n; 615; son of tents of 293-294; faults in 299; p. was excluded from partition or reasons which make a p. unaccepta. inheritance and even maintenance ble 299; rules about amendment of 611, 616-17; who was p. 6128 ; 293 ; rules about preference, when women, even if they performed no several persons present p.' at same prāyaścitta, were not to be cast on the time 298; ten details of a p. about streets, but were to be given maia- immovable property 293-94 ; various tenance 615, 
 
 sanskrit words for 292; was written 
 
@@ -3001,7 +3001,7 @@ Raghuvarsa, 8, 17, 18, 41, 44, 49n, l'urusa (bailiff), duties and qualifica
 
 (fatc) 168-169; is superior, acc. to 
 
-provinces of India, acc. to Kautilya Matsyapurāna 170. Puruṣārtha rules are recommendatory 
+provinces of India, acc. to Kautilya Matsyapurāṇa 170. Puruṣārtha rules are recommendatory 
 
 Rājadbarwa 1--241. discussed in and violation of them does not 
 

@@ -37,13 +37,13 @@ ame are:
 
 601 
 
-Yāj. III. 6), Matsya ( Mit. on Yāj. I. 297-298 quotes eleven verses from the Matsya, chap. 94. 1-9 verses and verses 11-12 of Chap. 93 of the same ), Viṣṇupurāna ( 15 verses are quoted on Yāj. III from the Visqupurāna about Nārāyaṇabali for one who committed suicide ). Skandapurāna on Yāj. II. 290 (Smaryate hi Skandapurāne Pañcacūdā nāma kāścanāpsara saḥ tatsantatir--veśyākhyā pañcainījātih). 
+Yāj. III. 6), Matsya ( Mit. on Yāj. I. 297-298 quotes eleven verses from the Matsya, chap. 94. 1-9 verses and verses 11-12 of Chap. 93 of the same ), Viṣṇupurāṇa ( 15 verses are quoted on Yāj. III from the Visqupurāṇa about Nārāyaṇabali for one who committed suicide ). Skandapurāṇa on Yāj. II. 290 (Smaryate hi Skandapurāne Pañcacūdā nāma kāścanāpsara saḥ tatsantatir--veśyākhyā pañcainījātih). 
 
 This sparing use of Purāṇas in the Mit. is in consonance with Yāj. I. 3 which states that fourteen are the sources of Vidya and of Dharma, viz. Purāṇa, Nyāya ( Tarka or logic), Mī. māṁsā, Dharmaśāstra, the Angas ( six auxiliary lores of the Veda ) and the (four) Vedas. It should be noticed that the fourteen classes of works are enumerated in a rising scale of importance and authoritativeness i, e. the Verlas are the highest authority on matters of Dharma and the Purāṇas are the lowest. Dharmaśāstra is given a high place after the Vedas and Angas. All early writers hold that the Veda is the baṣis of Dharma and so are the Smiṣtis (vide Gaut. Dh. 1-2, Vas. 1.4, Manu II.6 ) and Manu states (11.10 ) that Smṛti means Dharmaśāstra. 
 
-The Mitākṣarā is, in the matter of citing Purāṇas as authorities, in great contrast to the Kalpataru and the com mentary of Aparārka. In the very first Kānda ( Brahmacāri ) of the Kalpataru eleven Purāṇas are quoted as authorities viz. Aditya, Kālikā, Devī, Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu and of these the Brahma is quoted 11 times, Bhaviṣya 28 times and Viṣṇu 11 times. Taking the last Kānda (on Moksa), among the works cited as authorities seven Purāṇas figure viz. Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu, of which, the Viṣṇupurāna is quoted oftener than any other work ( except the Mahābhārata, the Bhagavadgitā and the Manusmrti ). 
+The Mitākṣarā is, in the matter of citing Purāṇas as authorities, in great contrast to the Kalpataru and the com mentary of Aparārka. In the very first Kānda ( Brahmacāri ) of the Kalpataru eleven Purāṇas are quoted as authorities viz. Aditya, Kālikā, Devī, Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu and of these the Brahma is quoted 11 times, Bhaviṣya 28 times and Viṣṇu 11 times. Taking the last Kānda (on Moksa), among the works cited as authorities seven Purāṇas figure viz. Narasimha, Brahma, Brahmānda, Matsya, Mārkandeya, Vāyu and Viṣṇu, of which, the Viṣṇupurāṇa is quoted oftener than any other work ( except the Mahābhārata, the Bhagavadgitā and the Manusmrti ). 
 
-Vide below under 'Aparārka' for the large number of Purāṇas and Upapurānas ( 22 in all ) mentioned by A parārka. 
+Vide below under 'Aparārka' for the large number of Purāṇas and Upapurāṇas ( 22 in all ) mentioned by A parārka. 
 
 Another noticeable feature of the Mit, is that it mentions the views of many Smṛti writers with the prefix' bṛhat' or 
 

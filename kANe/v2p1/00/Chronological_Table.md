@@ -21,7 +21,7 @@ Baudhayana, Vasiṣtha and the Gșhya Eūtras of Pāraskara, Baudhāyana and
 
 some others, 600 B.C.-300 B.O.--Pāṇini. 500 B, C.--200 B.O.--Jaimini's Pūrvamimāmsā sūtra. 300 B, C.-100 A.D.--Kautilya's Arthaśāstra 150 B.O. 
 
-Mahabhāṣya of Patañjali. 200 B. 0.-200 A. D.-Manusmrti. 100 A.D.--300 A. D. Yājñavalkya-smrti. 100 A. D.-300 A. D.--Viṣṇudharmasūtra. 100 A, D.---400 A. D.-Nāradasmrti. 200 A. D.--500 A.D.-Vaikhānasa-smartasutra, 200 A. D.-500 A. D.-Sabara, com. of Jaimini. 300 A. D.--500 A, D.-Bphaspatismrti ( not yet found). 300 A. D.-600 A.D.--Some of the extant purānas viz. Vāyu. 
+Mahabhāṣya of Patañjali. 200 B. 0.-200 A. D.-Manusmrti. 100 A.D.--300 A. D. Yājñavalkya-smrti. 100 A. D.-300 A. D.--Viṣṇudharmasūtra. 100 A, D.---400 A. D.-Nāradasmrti. 200 A. D.--500 A.D.-Vaikhānasa-smartasutra, 200 A. D.-500 A. D.-Sabara, com. of Jaimini. 300 A. D.--500 A, D.-Bphaspatismrti ( not yet found). 300 A. D.-600 A.D.--Some of the extant purāṇas viz. Vāyu. 
 
 Vispu, Mārkandeya, Kūrma, Matsya. 400 A. D. --600 A. D.-Katyāyanasmrti ( not yet found). 505 A. D._-587 A. D.Varāba-mibira, author of Bṛhatsambita. 650 A, D.--750 A. D. Tantravārtika of Kumārila. 788 A, D.--820 A. D.-Samkarācārya, the great Advaita pbilo 
 

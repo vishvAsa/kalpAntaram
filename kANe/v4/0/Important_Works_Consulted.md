@@ -115,7 +115,7 @@ History of Dharmaśāstra
 
 PURĀNAS The Anandasrama editions of the Agni, Brahma, Brahmavaivarta,
 
-Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāna (text only) and the edition of the Narasimha purāna published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Nāradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupurāna and Visnu dharmottara have been used; the Nīlamatapurāna, ed. by
+Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāṇa (text only) and the edition of the Narasimha purāṇa published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Nāradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupurāṇa and Visnu dharmottara have been used; the Nīlamatapurāṇa, ed. by
 
 Pandits Ramlal Kanjilal and Jagaddhar Zadoo (1924)
 

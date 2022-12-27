@@ -131,7 +131,7 @@ ddhāra (ed. by me)
 
 S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khādira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
 
-Tai. Br. = Taittiriya Brahmana Mārk.=Mārkandeyapurāna
+Tai. Br. = Taittiriya Brahmana Mārk.=Mārkandeyapurāṇa
 
 Tai. S. = Taittiriya Samhita Mit. Mitāksarā, commentary on Tai. Up. - Taittiriya-upanisad
 
