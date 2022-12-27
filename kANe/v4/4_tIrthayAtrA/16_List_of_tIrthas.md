@@ -2833,7 +2833,7 @@ TK p. 235 Karapavana (near source of Sarasvati)
 
 Sal. 54.12 and 15 Karatoyā (r. flowing through the dis
 
-tricts of Rangpur, Dinajpur and Bogra in Bengal and being the western boundary of Kāmarupa) V 85.3, S. 9. 22, Anu, 25.12. The Amarakośa says that Karatoya 2nd Sadānīrā are synonyms. ActOD Mār. 54.25 it rises in the Windhyay while Vā. 45.100 says it rises in Rkśapāda. In Şm. C. I. p. 132 utbed
+tricts of Rangpur, Dinajpur and Bogra in Bengal and being the western boundary of Kāmarupa) V 85.3, S. 9. 22, Anu, 25.12. The Amarakośa says that Karatoya 2nd Sadānīrā are synonyms. ActOD Mār. 54.25 it rises in the Windhyay while Vā. 45.100 says it rises in Rkśapāda. In Ṣm. C. I. p. 132 utbed
 
 pur.
 

@@ -514,7 +514,7 @@ One important question that very much exercised the minds of ancient and medieva
 
 1369. ओमित्येकाक्षरं ब्रह्म परब्रह्माभिधायकम्। तदेव वेणी विज्ञेया सर्वसौख्य erat va aturari fragt THTA: 1 tuto p. 8. nov
 
-1370. ...in 90 ...nya a : CHŞÀ Hisa वतः। पुण्य सकलमामोति राजसूयाश्वमेधयोः॥ एषा यजन...महद्भवति भारत॥ न वेद... प्रयागमरणं प्रति॥ दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः। येषां सांनिध्यमत्रैव कीर्तितं कुरु नन्दन। चातुर्वेदे च यत्पुण्यं सत्यवादिषु चैव यत्। स्नात एव तदामोति गङ्गायमुनसङ्गमे॥ वनपर्व 85. 79-85. After quoting the last verse and several other verses the farfurdt He observes (p. 30) gay wig aay pafu T apataśina zorama तदन्तर्गततत्तत्तीर्थस्नानफलस्य वाक्यान्तरैरुक्तत्वात् स्थलमात्रे च जलाभावेन नानासम्मेवावे. V : Trea:). The same verses occur in ( 39. 78 (Firsito chap. 7, 63 and 65) says 'argcnt: TÁ & Farra atryana a ari ya: yazll of fe fago
+1370. ...in 90 ...nya a : CHṢÀ Hisa वतः। पुण्य सकलमामोति राजसूयाश्वमेधयोः॥ एषा यजन...महद्भवति भारत॥ न वेद... प्रयागमरणं प्रति॥ दशतीर्थसहस्राणि षष्टिकोट्यस्तथापराः। येषां सांनिध्यमत्रैव कीर्तितं कुरु नन्दन। चातुर्वेदे च यत्पुण्यं सत्यवादिषु चैव यत्। स्नात एव तदामोति गङ्गायमुनसङ्गमे॥ वनपर्व 85. 79-85. After quoting the last verse and several other verses the farfurdt He observes (p. 30) gay wig aay pafu T apataśina zorama तदन्तर्गततत्तत्तीर्थस्नानफलस्य वाक्यान्तरैरुक्तत्वात् स्थलमात्रे च जलाभावेन नानासम्मेवावे. V : Trea:). The same verses occur in ( 39. 78 (Firsito chap. 7, 63 and 65) says 'argcnt: TÁ & Farra atryana a ari ya: yazll of fe fago
 
 r eya: la copia.co.. aru: bis F. I. 22.20.
 
@@ -558,7 +558,7 @@ young child or young children, if she is pregnant or if she has not attained pub
 
 tattvajñāna.' In H. of Dh. vol. II pp. 925-927, historical ex amples of kings such as Yasah-karnadeva, Candella Dhangadev and Cālukya Someśvara committing suicide at Prayāga or the Tungabhadrā have been given. The king Kumāragupta of Magadha is said to have entered the fire of dry cow-dung cakes. This is in accordance with the prescriptions in the Matsya purāṇa 107. 9-10 (Padma, Adi-khanda 44.3) which states 1372 "the man who, suffering from no diseases, having no deficiency as to his limbs and being in full possession of his five senses, encompasses (his death) in cowdung fire remains honoured in heaven for as many years as there are pores on the whole of his body.' 1373 The Rājatarangiṇi VI. 14 refers to officers entrusted with the duty of supervising suicide by fast (prāyopaveśa). . 1372. Et
 
-a f TT HUOTI 31ETAIŞî 9 T समन्वितः। यावन्ति रोमकूपाणि तस्य गात्रेषु देहिनः॥ तावद्वर्षसहस्राणि स्वर्गलोके महीयते॥ H 107.9. 1. 38. 3-4, ana, at, 63.154 (reads ciutat auga), a I. 44.9 (reads पञ्चाग्निं यस्तु). कर्षाग्निं is short for करीषाग्निं for metrical reasons.
+a f TT HUOTI 31ETAIṢî 9 T समन्वितः। यावन्ति रोमकूपाणि तस्य गात्रेषु देहिनः॥ तावद्वर्षसहस्राणि स्वर्गलोके महीयते॥ H 107.9. 1. 38. 3-4, ana, at, 63.154 (reads ciutat auga), a I. 44.9 (reads पञ्चाग्निं यस्तु). कर्षाग्निं is short for करीषाग्निं for metrical reasons.
 
 I, 38.3 reads'
 

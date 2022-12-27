@@ -3423,7 +3423,7 @@ some, in somna aaorifices, 9810. worsbipped as supreine deity in
 
 Sad-darbana-sunuccaya, of Hari. solagava, 736. 
 
-bhadra, 359n. Rudradaman, Junagad inscription Şad-dhotṣ mantras, 1193. 
+bhadra, 359n. Rudradaman, Junagad inscription Ṣad-dhotṣ mantras, 1193. 
 
 of, 248, 384, 775. 
 

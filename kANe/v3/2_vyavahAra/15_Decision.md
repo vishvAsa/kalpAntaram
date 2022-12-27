@@ -263,7 +263,7 @@ in proportion to the value of the matter in dispute or the injury caused. Manu V
 
 625. TFT TT armaWET I got O O O or राजनि ॥ माषपादो दिपादोषा दण्डो पत्र प्रवर्तितः अनिर्दिछ त सौवर्ण माषकंवत्र कल्पयेत् । पत्रोक्तो मापकैयो राजसं तत्र निर्दिशेत् । कृष्णलेश्वोक्तमेव स्पायुक्तदण्डविनिश्चयः । माषो FoNTTET 191 Titory \# FTCUT. 490-493 q. by way. II. p. 127, 
 
-a P. 29-30 ( there are various readings in all these). The my. F\#. p. 202 says: WAŞTIO Tourururat hūrer fafet portat Tentuar क्लसत्पात् संख्येयतया प्रापेण न पणा पप गुह्यन्त इति । 
+a P. 29-30 ( there are various readings in all these). The my. F\#. p. 202 says: WAṢTIO Tourururat hūrer fafet portat Tentuar क्लसत्पात् संख्येयतया प्रापेण न पणा पप गुह्यन्त इति । 
 
 626. सर्वेषु चापराधेषु एसो योर्थदमः स्मृतः। तद योपितो वपुर्वधे पुसोङ्गकर्तनम् ॥ Freu. (487) q. by m e. II. p. 321, 14. \#. p. 246. 
 

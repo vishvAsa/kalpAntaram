@@ -273,7 +273,7 @@ TU XII. 4. 4. 6; THE Not gasi ata Euf: 1 MOETHE WT, VI, 1. 6. The same idea is e
 
 86. A TUTTI AUSTHET 1. XI. 1. 2 ; x ilgo: Hana TAVITITI, *1, 33, 4. 
 
-87. gott TryTITE ŞTIU V. 1. 1.12 ; S. B. E. vol. 41 p. 4. \#* poft 
+87. gott TryTITE ṢTIU V. 1. 1.12 ; S. B. E. vol. 41 p. 4. \#* poft 
 
 C ha wavimut tutartieqi. NI. III. 9. 14. 88. Ta wart iT gaf Turu pot fett 497 लोकलिलोकः पच्यमानश्चतभिर्धर्मः माह्मणं भुनक्त्यर्चया च दानेन चाज्येयतया पायावत 
 

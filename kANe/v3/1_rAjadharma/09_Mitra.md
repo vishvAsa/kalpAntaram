@@ -11,7 +11,7 @@ Manu inculcates the necessity of making friends in VII. 208 and cites the qualit
 
 285. 
 
-RTF reproNETT I Haey PTT retro FTOHTUT \# ŞTIF 138. 110: 0, a TY TO TAUTI F16*7VIII 52; ATIRT MITT FUSHA TH* * fuifIm a g* ANG ITUATUI facguur II. 145. 14-Fi 140, 5; \#entre per FAS FU * 
+RTF reproNETT I Haey PTT retro FTOHTUT \# ṢTIF 138. 110: 0, a TY TO TAUTI F16*7VIII 52; ATIRT MITT FUSHA TH* * fuifIm a g* ANG ITUATUI facguur II. 145. 14-Fi 140, 5; \#entre per FAS FU * 
 
 IV, 1.9. : 286. \#10T WATHS REA: TATUT I STIFT 80. 3. Ta may meat far m or and Fest friends are one's mother's sister's son and the like. 
 

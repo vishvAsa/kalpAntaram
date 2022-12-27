@@ -233,7 +233,7 @@ the purohita among amatyas or mantrins (e. g. Vijñāneśvara on Yāj. I. 353, S
 
 159. Tarom T 
 
-I 97**697 Aria Fincanlar: 4 चतुर्थः शिरसा कल्पः शान्तिकल्यरत पत्रमः ॥ पत्रकल्पविधानज्ञमाचार्य प्राप्य भूपतिः । FUTTAAŞTIRT/ART Jaihi rout force \# rasgunit II. 5. 3-5 quoted in राजनीतिको. p. 256. रिस् here seems to mean अथर्वशिरं which is an Upahisad mentioned in Gaut. 19.12, Vas. 28. 14, Viṣṇudharmasūtra 56. 72 among the holy Vedic texts that purify a person of sins. It begins with a fait Mi d ar TRT at Herrafat Vide Muir's Sanskrit Texts vol. IV. 
+I 97**697 Aria Fincanlar: 4 चतुर्थः शिरसा कल्पः शान्तिकल्यरत पत्रमः ॥ पत्रकल्पविधानज्ञमाचार्य प्राप्य भूपतिः । FUTTAAṢTIRT/ART Jaihi rout force \# rasgunit II. 5. 3-5 quoted in राजनीतिको. p. 256. रिस् here seems to mean अथर्वशिरं which is an Upahisad mentioned in Gaut. 19.12, Vas. 28. 14, Viṣṇudharmasūtra 56. 72 among the holy Vedic texts that purify a person of sins. It begins with a fait Mi d ar TRT at Herrafat Vide Muir's Sanskrit Texts vol. IV. 
 
 P. 356 ff for text (portion) and translation. 
 

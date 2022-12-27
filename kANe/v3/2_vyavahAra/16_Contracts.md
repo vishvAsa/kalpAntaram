@@ -419,7 +419,7 @@ TEM
 
 * arar fauna T.g. by Far. II. p. 179, 54, A. p. 192; ersten निक्षिप्तं यत्र नाशितम् । ग्रहीतः सह भाण्डेन वातुर्म तदुच्यते। कास्या. q. by स्मृतिच. II. p. 179. Compare sections 151 and 152 of the Indian Contract Act, where the same propositions about the care to be taken by the bailee are laid dowa. 
 
-721. puntofumwa nuit : 1 BÜŞTIU III. 12. 
+721. puntofumwa nuit : 1 BÜṢTIU III. 12. 
 
 55 
 

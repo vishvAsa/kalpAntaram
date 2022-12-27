@@ -541,7 +541,7 @@ The caste of the offender as well as of the victim made a difference in the pray
 
 ya: llei wira ya H a l TEST. 487.
 
-191. 1717 TT FETT UTI suiệta q. by 99. fq. pp. 22 and 24 ; fara a Arai ATT PETEÚ HI FGTOT 173.9.q. by the far on ar. III. 226 (without name); and as that of 311ŞKU by TU. TATUT p. 12 and as of RETAIE by 1.715T (folio 16b). Hea aia u tarha: maat fauoi Tigay sa q. by wru. fî. p. 24.
+191. 1717 TT FETT UTI suiệta q. by 99. fq. pp. 22 and 24 ; fara a Arai ATT PETEÚ HI FGTOT 173.9.q. by the far on ar. III. 226 (without name); and as that of 311ṢKU by TU. TATUT p. 12 and as of RETAIE by 1.715T (folio 16b). Hea aia u tarha: maat fauoi Tigay sa q. by wru. fî. p. 24.
 
 192. विप्रेतु सकलं देयं पादानं क्षत्रिये मतम्। वैश्येध पादशेषस्तु शूद्रजाति कास्यते । विष्णु q. by माय. वि. p. 102 where it is stated that जिकन noted that this_versal was not found in the विष्णुसंहिता. It is ascribed to बृहद्विष्णु by प्रायः प्रकरण p. 16 and to Teracor by faeron ar. III. 267.
 

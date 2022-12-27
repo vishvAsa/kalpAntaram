@@ -53,7 +53,7 @@ Nandapandita
 
 917 
 
-Şadasiti or āśaucanirṇaya of Kausikāditya, is also one of the works of Nandapandita. It is referred to in his Vaijayanti.1390 The Bhadkamkar collection made by Prof. Velankar contains a ms. of this work and it has recently been published in the Chow khamba Sanskrit Series. The principal authors and works quoted therein are noted below.13 
+Ṣadasiti or āśaucanirṇaya of Kausikāditya, is also one of the works of Nandapandita. It is referred to in his Vaijayanti.1390 The Bhadkamkar collection made by Prof. Velankar contains a ms. of this work and it has recently been published in the Chow khamba Sanskrit Series. The principal authors and works quoted therein are noted below.13 
 
 Another work of Nandapandita is the Smṛtisindhu, which seems to have been an extensive digest of smrti material. Portions of it have been recovered. In the Deccan College Colle ction there is a ms. of the Sa.iskāra-nirṇayataranga of the Smrtisindhu, which, according to a verse at the end, was composed by Nandapandita at the command of king Harivamsa-varman of the Mahendra family and son of king Maigo.1393 
 

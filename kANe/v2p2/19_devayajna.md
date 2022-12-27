@@ -377,7 +377,7 @@ About Gaṇeśa a few words have already been said (at pp. 213-216 ). Gañesa ca
 
 1730. Tera facuere facute forradot i que 39. 76; Piet Ort at 
 
-TRITHE \#\#\# Free from throuri ŞTIAT. 343. 131 ; पकं निन्दति यस्तेषां सर्वानव स निन्दति। एक प्रशंसमानस्तु सर्वानेव प्रशंसति ॥चायु. 66.114. 
+TRITHE \#\#\# Free from throuri ṢTIAT. 343. 131 ; पकं निन्दति यस्तेषां सर्वानव स निन्दति। एक प्रशंसमानस्तु सर्वानेव प्रशंसति ॥चायु. 66.114. 
 
 1731. तस्माश्च धर्मकामार्थी चित्रेण्यायतनेषु च । न कचिस्कारयेत्पादौ देवदेवस्य WiRaTi II Hattor 11. 33 ; vide arut P. 570 for a similar rulo quoted 
 

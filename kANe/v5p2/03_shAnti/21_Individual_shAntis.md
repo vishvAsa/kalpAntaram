@@ -237,7 +237,7 @@ The number of śāntis is legion. They are prescribed for conjuring away the eff
 
 All rites of Sānti, Paustika rites and the Mahādānas were to be performed in ordinary fire, since there is no authority to prove that they are to be performed in srauta fires or in smārta fire. Manu 3. 67 and Yāj. I. 97 refer only to ceremonies laid down in the Grhyasūtras. On Yāj. I, 285-86 the Mitaksarā prescribes ordinary fire for offerings in Vinayaka-śānti. Vide also Santi. mayūkha p. 4. 
 
-Both Manu !213 and the Viṣṇudharmasūtra prescribe that homas in which the Sun is the deity worshipped and Sāntihomas should be perforined by i householder on the partans (i. e. on Paurpamāsi and Amīvāsyā). These were śāntis at fixed periods. Similarly, when a person, male or female, of any casto completed sixty years, there was the possibility that he may die soon, or that he may lose his mother or father or his wife or sons or that various diseases may affect him; for removing this danger a śānti is prescribed (and is often performed even now) in order that he may enjoy a long life, be free from all calamities and for his complete prosperity. This is called Şaṣtyabdapūrti (completion of sixty years) or Ugrarathaśānti.12174 
+Both Manu !213 and the Viṣṇudharmasūtra prescribe that homas in which the Sun is the deity worshipped and Sāntihomas should be perforined by i householder on the partans (i. e. on Paurpamāsi and Amīvāsyā). These were śāntis at fixed periods. Similarly, when a person, male or female, of any casto completed sixty years, there was the possibility that he may die soon, or that he may lose his mother or father or his wife or sons or that various diseases may affect him; for removing this danger a śānti is prescribed (and is often performed even now) in order that he may enjoy a long life, be free from all calamities and for his complete prosperity. This is called Ṣaṣtyabdapūrti (completion of sixty years) or Ugrarathaśānti.12174 
 
 1217. FITTEL TRATTAISA gutegale fate : 1 AQ IV. 150; neret FARETA $ic f. 27. . 71. 86. 
 
@@ -255,7 +255,7 @@ There is a Ms. (of only three folios in D. C. No. 609 of the year 1882–83, now
 
 
 
-Şastyabdapurti-gānti 
+Ṣastyabdapurti-gānti 
 
 759 
 

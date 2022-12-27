@@ -108,7 +108,7 @@ stitute) 1319-20; one who Adbhuta, meaning of, in Ryveda, , has incurable defect
 
 in Grhyasūtras and in sāntis blindness from birth ) has no 741-742; sometimes used as right to perform Yaga but one synonymous with Urpāta 742: . who has some curable hodily due to the wrong-doings of defect would bare the right men that anger deities 742, I when the defect is removed Adbhuta-brāhmaṇa, is part of 1718; sixth chap. ( with 
 
-Şa-vimsa-brāhmaṇa ( i. e. V.! eight pādas ) of P. M. Sūtra 1-10), contains Sāntis for deals with various aspects of otpātas, 734-741 and partly the question of A., 1317-1321; 
+Ṣa-vimsa-brāhmaṇa ( i. e. V.! eight pādas ) of P. M. Sūtra 1-10), contains Sāntis for deals with various aspects of otpātas, 734-741 and partly the question of A., 1317-1321; 
 
 agrees with Ăśy. Gr. parisista. when & Vedic text provides Adbhutasigara of Ballālasena, a 'one desirous of securing 
 
@@ -6160,7 +6160,7 @@ ferred to 1297, Sadarganyāsa, exemplified by Saints :( vide Kabir): in medie
 
 Dharmasindhu and declared to pal times in India there were be avaidika 1121n. 
 
-women S. like Mirabai and Şadaśītimukha, 213n; m. in ing Apdal, untouchabies as saints, 
+women S. like Mirabai and Ṣadaśītimukha, 213n; m. in ing Apdal, untouchabies as saints, 
 
 criptions 213n; puṇyakāla is vix. Chokhāmela and Raidas, : 60 gbatikās 215. 
 
@@ -6552,7 +6552,7 @@ by a nephew of Madba vācārya men by Veda or works compo
 
 • 1182n. 
 
-Bed by inen 1382, 1262; that Şarvagandha ( all fragrant sub 1 are pot directly opposed to 
+Bed by inen 1382, 1262; that Ṣarvagandha ( all fragrant sub 1 are pot directly opposed to 
 
 stances ) 443. 
 
@@ -6596,7 +6596,7 @@ Indesc
 
 Satapatha-brāhmaṇa : 17, 180, napas alone) : Jaimini deals 
 
-230, 25, 35, 63-4, 72n, 166n, with them in PMS VI. 6. 16 223, 464, 489, 491-2, 4950, 32 and elsewhere and neither 496–71, 498, 506-7, 510, 523, Sabara por Kumārila says eny. 537, 546, 571n, 648n (mentions I thing about their being forbid Afvamedha by Japamejaya), den in Kali 1268, 675, 689, 691, 700 (knows Şat-tili-one who performs six Vedāngas ), 725, 7319, 738n actions with sesame 434. ( tānti on cow yielding milk Şat-trihsanbata 243n, 246. - tinged with blood ), 740n, Sātvata, identified with Parica 7840, 816 (mentions Itibāsa- rātra and statements about its Purāṇa ), 817, 992 (traces of transmission from Bphaspati to avatāras), 1078 (on great Uparicara Vasu and then by difference between Surā and degrees to sages called Citra Eoma ), 1096n, 1116 (on ima sikhandins 953. . portance of dikķā in sacrifices), Saturn : special sānti when 8. 1131 (mandalestakā), 1153, 1 occupies the 12th, 1st and 2nd 11900 ( 'svadbyāyosdhyeta. rĀsi from rāśi of birth 756; vyah'), 1213 (on heaven), statements in Mahābhārata 12:70 ( verb in present tense aboat positions of S. 532; ten construed as a vidhi by Sm.C.), ! names of S. 756n. 12700 ( aboat offering the flesh Satya ( truthfulness ), one of the of & bull or goat to a king or a { fire yamas in Yoga, one of the learned brābrana as a guest ), ten yamar of Yāj. III. 31 1301, 13040, 1416, 1490n ( on and one of the five daties en æg. X. 129), 1498, 1526n, joined by Mann ( X.. 63.) on 1633-36, 1554 (explains Rg. men of all parnas 1419-20; X. 88, 16 ), 1589n; com. of five occasions on which a false 
+230, 25, 35, 63-4, 72n, 166n, with them in PMS VI. 6. 16 223, 464, 489, 491-2, 4950, 32 and elsewhere and neither 496–71, 498, 506-7, 510, 523, Sabara por Kumārila says eny. 537, 546, 571n, 648n (mentions I thing about their being forbid Afvamedha by Japamejaya), den in Kali 1268, 675, 689, 691, 700 (knows Ṣat-tili-one who performs six Vedāngas ), 725, 7319, 738n actions with sesame 434. ( tānti on cow yielding milk Ṣat-trihsanbata 243n, 246. - tinged with blood ), 740n, Sātvata, identified with Parica 7840, 816 (mentions Itibāsa- rātra and statements about its Purāṇa ), 817, 992 (traces of transmission from Bphaspati to avatāras), 1078 (on great Uparicara Vasu and then by difference between Surā and degrees to sages called Citra Eoma ), 1096n, 1116 (on ima sikhandins 953. . portance of dikķā in sacrifices), Saturn : special sānti when 8. 1131 (mandalestakā), 1153, 1 occupies the 12th, 1st and 2nd 11900 ( 'svadbyāyosdhyeta. rĀsi from rāśi of birth 756; vyah'), 1213 (on heaven), statements in Mahābhārata 12:70 ( verb in present tense aboat positions of S. 532; ten construed as a vidhi by Sm.C.), ! names of S. 756n. 12700 ( aboat offering the flesh Satya ( truthfulness ), one of the of & bull or goat to a king or a { fire yamas in Yoga, one of the learned brābrana as a guest ), ten yamar of Yāj. III. 31 1301, 13040, 1416, 1490n ( on and one of the five daties en æg. X. 129), 1498, 1526n, joined by Mann ( X.. 63.) on 1633-36, 1554 (explains Rg. men of all parnas 1419-20; X. 88, 16 ), 1589n; com. of five occasions on which a false 
 
 Dvivedaganga on, 1554n, hood was allowed to ordinary Batatapa, Smrti of, 31, 2150, men by Smrtis and Mahi 
 
@@ -7468,7 +7468,7 @@ Kamalasila, is probably Umbe Udyogaparva 27, 49, 900, 126, ka, 1194n; was & pupi
 
 129n, 532n, 539, 743-4 803n, Kumārilabhatta 11940, 1198. 821, 840, 854 (quotes the Underhill, a. of a work . Hinda famous verse 'yururapravit religious year' 60. liptasya btc,' from a Purāṇa ), Uncinployment, increasing 1698, 1080, 1281 ( Kusa and Arjuna should be first point of attack described as drunk ), 1627n, in all plans 1698; United 1636, 1642. 
 
-States of America, total aid to Ugrarathasanti, vide Şastyabda- Iodia, 1691-92. 
+States of America, total aid to Ugrarathasanti, vide Ṣastyabda- Iodia, 1691-92. 
 
 purti) 757; Procedure in Untouchables, 51 millione in Sanskrit of, 760n. 
 

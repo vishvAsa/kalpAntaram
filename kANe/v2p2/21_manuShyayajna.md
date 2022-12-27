@@ -3,7 +3,7 @@ title = "21 Manuṣyayajña"
 
 +++
 
-CHAPTER XXI NRYAJÑA OR MANUŞYA-YAJÑA. 
+CHAPTER XXI NRYAJÑA OR MANUṢYA-YAJÑA. 
 
 NȚyajña or Manusya-yajña : ( Honouring guests)-Manu (III. 70 ) states that this consists in honouring guests. In the oldest hymns of the Rgveda fire is described as a guest in the house of the sacrificer. In Rg. I. 73. 1 Agni is described as lying in a pleasant spot and pleased like a guest (syonasir atithir-na priṇāno). Vide Rg. V, 1. 8 1785 and 9, V, 4. 5, VIL 42. 4 for fire being called atithi. In Rg. IV. 4. 10 it is said of Agni'you become the protector, the friend, of him wbo offers you hospitality in the usual (or proper) order,' Vide Rg. IV.33.7 and Tai. S. I. 2. 10.1 for the word ātithya. Athar Vaveda IX. 6 is an eulogy of hospitality in which the various stages in the reception and feeding of a guest are metaphori cally represented as the various actions performed in a sacri fice. 1988 The Tai. 8. V.2.2. 4 refers to the faot that when & guest comes, hospitality in which ghee abounds, is offered to him' and it remarks that 'one who comes in a chariot and one who comes in & cart are the two most honoured among guests. 1987: The Tai. S. (VI. 2. 1. 2) says 'hospitality is offered to all the followers accompanied by whom a king comes'. Vide Ait. Br. IL. 9 for almost the same words. The San. Br. IL 9 remarks 1788 when a man offers oblations at sunrise, he indeed offers hospitality to a great god who has started on a journey.' The Tai. Br. (II. 1. 3) shows that a guest was honoured by having & lit lamp placed before him and then food was served to him. 1989 The Ait. Br. ( 25. 5) says that a guest 
 

@@ -443,7 +443,7 @@ I 1720.
 
 W Hari 
 
-offTE TAŞITTATA grma TWENTINA: TT. T. 8. I. 8. 
+offTE TAṢITTATA grma TWENTINA: TT. T. 8. I. 8. 
 
 II) 
 

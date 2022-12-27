@@ -641,7 +641,7 @@ commander-in-chief of the Bijapur army, is made to say to Khawaskhan, the Vazir,
 
 Even though the Purāṇas are carried away by their over zeal in condemning the moral and physical decline of the Kali age, almost all of them exhibit no verses about matters for bidden in the Kali age. We have to see when the topic of Kalivarjya attained prominence and what the matters are that were once practised by people without objection and that later on came to be prohibited or condemned. 
 
-The Ap. Dh. Ş. ( II. 6. 14. 6-10) condemns the practice of giving all or most of the ancestral property to the eldest son as opposed to śāstras. The Āp. Dh, S. (II. 10. 27. 2-6), after referring to the view of some that a woman when being married is given to the whole family of the bridegroom, condemns the practice of niyoga.2789 Both these practices (of uddhāravibhāga and of niyoga ) are among those included in the texts on Kalivarjya, Among the earliest references in the smrtis to practices once current, but forbidden in the Kali age is a passage of Bphaspati quoted by Aparārka p. 97, where niyoga and the numerous secondary sons are said to be impossible owing to the decadence1790 of spiritual power among men of the Dvāpara and Kali ages. Aparārka p. 739 and the D. M. quote a passage of Saunaka to the effect that sons other than the aurasa or dattaka are not allowed in the Kali age 1791. Prajāpati (verse 151 ) refers 1792 to the ancient practice of offering meat and wine in srāddhas, but prescribes that these should be eschewed in the Kali age. Vyāsa 1793 quoted in the Nirnayasindhu and other works forbids 
+The Ap. Dh. Ṣ. ( II. 6. 14. 6-10) condemns the practice of giving all or most of the ancestral property to the eldest son as opposed to śāstras. The Āp. Dh, S. (II. 10. 27. 2-6), after referring to the view of some that a woman when being married is given to the whole family of the bridegroom, condemns the practice of niyoga.2789 Both these practices (of uddhāravibhāga and of niyoga ) are among those included in the texts on Kalivarjya, Among the earliest references in the smrtis to practices once current, but forbidden in the Kali age is a passage of Bphaspati quoted by Aparārka p. 97, where niyoga and the numerous secondary sons are said to be impossible owing to the decadence1790 of spiritual power among men of the Dvāpara and Kali ages. Aparārka p. 739 and the D. M. quote a passage of Saunaka to the effect that sons other than the aurasa or dattaka are not allowed in the Kali age 1791. Prajāpati (verse 151 ) refers 1792 to the ancient practice of offering meat and wine in srāddhas, but prescribes that these should be eschewed in the Kali age. Vyāsa 1793 quoted in the Nirnayasindhu and other works forbids 
 
 1789. Friseuratai \# qita: FA S T Fest satu rurar तदिन्द्रियदौर्बल्याद्विप्रतिपक्षम् । अविशिष्टं हि परत्वं पाणे:तिश्यतिक्रमे खल पुनरुभयोर्नरकः । 
 
@@ -1095,7 +1095,7 @@ Soma beverage was to be drunk only by brāhmaṇas. The soma plant had to be pur
 
 Gaut. 17. 6, Manu IV. 253 (=Viṣṇu Dh. S. 1849 57. 16), Yāj. I. 166 and Parāśara XI. 19 say that a brāhmaṇa may eat the 
 
-1846. ŞTAT OD *. III. 7. 29 remarks, 'ETATART Surat Araw gfort कर्तष्पम् । तस्माच्छमनावश्चर्युः शमिता.' 
+1846. ṢTAT OD *. III. 7. 29 remarks, 'ETATART Surat Araw gfort कर्तष्पम् । तस्माच्छमनावश्चर्युः शमिता.' 
 
 1847. Ferrata mtoturyATET pong TTTMgnffa i situ. 5. X. 20. 12. 
 

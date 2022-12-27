@@ -837,7 +837,7 @@ jotberes 35-4 brahmen
 
 352. FAO Trearea ya: 1 891. Ml. I. 6. 13 ; 80 also Jaimini VI. 6. 16-23 for and VI. 6. 24-26 for the proposition that wigoro of y, and it gotras were not entitled to perform 78. 
 
-353. mare portat a gara UTI paragr a ŞTATS TE I iig in FATTO ON T. III. 22. 
+353. mare portat a gara UTI paragr a ṢTATS TE I iig in FATTO ON T. III. 22. 
 
 354. Vide privilego No. 8 (rule about making way ) abovo. Gau tama (VI. 21-22 quoted abovo p. 146 ) namos seven persons, while Vasistha (13. 68-60) mentione nine persons about this rule. Narada has probably these two sutra works in viow here. 
 

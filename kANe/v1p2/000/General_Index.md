@@ -25,7 +25,7 @@ Adipurāṇa, pp. 715, 731, 893. Acāracandra, p. 8487.
 
 Adiśūra, king who brought brāhma Ācāracandrikā, p. 893n. 
 
-nas into Bengal, pp. 624, 707. Ācāracintāmaṇi, of Vācaspati, pp. Aditya, author of Şadasīti, p. 916. 
+nas into Bengal, pp. 624, 707. Ācāracintāmaṇi, of Vācaspati, pp. Aditya, author of Ṣadasīti, p. 916. 
 
 760, 844, 893n. 
 
@@ -2981,7 +2981,7 @@ Saccaritarakṣā, of Vedāntadesika, of for a year or more, p. 205.
 
 pp. 819, 820. Renou, Prof. L., pp. 125, 157. 
 
-Şadaśiti, p. 724; com. Suddhican Repudikṣita, p. 736. 
+Ṣadaśiti, p. 724; com. Suddhican Repudikṣita, p. 736. 
 
 drikā on, p. 915. Res Judicata, rule of, in Katyāyana, 
 
@@ -2999,7 +2999,7 @@ Saduktikarṇāmsta, of Sridharadāsa,
 
 p. 630. hymn from, as regards marriage, p. 7; a bymn of, quoted by Medhā. 
 
-Şadviinsabrāhmana, p. 732n. tithi in connection of niyoga, p. 321n.; Sāgara, p. 770n. 
+Ṣadviinsabrāhmana, p. 732n. tithi in connection of niyoga, p. 321n.; Sāgara, p. 770n. 
 
 La 
 
@@ -3083,7 +3083,7 @@ P. 67. Sāṅkhyakārikā, pp. 281, 576–77. Sārāvali, a work on astrology, p
 
 182, 718, 910n. Sanmārgadipikā, p. 819. 
 
-Śārirakabhisya, of Śhaṅkara, p. 447. Şansavatiśrāddhanirṇaya, of Śiva- Sarkar, Benoy Kumar, pp. 272,951n. 
+Śārirakabhisya, of Śhaṅkara, p. 447. Ṣansavatiśrāddhanirṇaya, of Śiva- Sarkar, Benoy Kumar, pp. 272,951n. 
 
 bhaļļa, p. 564. 
 
@@ -3143,7 +3143,7 @@ culogised by Harita, p. 133; Sarasvativilāsa, pp. 8n., 127, 293, recommended to
 
 T21 
 
-Satruñjaya, king of Sauvira, p. 291. | Siddhāntagarbha, p. 801. Şat-trimśanmata, pp. 303, 535-537, Siddhāntas, four kinds of, p. 188. 
+Satruñjaya, king of Sauvira, p. 291. | Siddhāntagarbha, p. 801. Ṣat-trimśanmata, pp. 303, 535-537, Siddhāntas, four kinds of, p. 188. 
 
 701n. 
 

@@ -669,7 +669,7 @@ of the size already stated and made of the material already mentioned with the s
 
 Water should be sprinkled over all pindas three times with a vessel full of water mixed with sesame. The mantras repeated at the time are quoted below in the note 1525 Then he prostrates himself on the ground and should dismiss (send away) them (the persons invoked) with the words 'O father and others! forgive me.' Then wearing the sacred thread in the savya form, he should sip water (perform ācamana) and recite with his face to the east the two mantras (Vāyu 110.59-60 ‘sākṣiṇaḥ santu," and 'āgatosmi Gayām'). If a pilgrim is unable to carry out all this lengthy procedure, he should at least offer pindas on Pretasila, by making a sankalpa (like the one in note 1516 saying "pindadānam' for śrāddham'). He should wear the sacred thread in the apasavya mode and repeat the verses in Vāyu (110. 10-12 and 110.59-60) and should perform according to his sūtra the various items such as drawing lines on the altar meant for placing pindas, spreading kusas, sprinkling down water on the pindas, the offering of pindas, re-sprinkling
 
-1523. āta TEŞTU TERHIVE ! Para p. 8. When a person inquires of another how many mango trees or fruit the latter has got the latter may reply they are five, even if actually they may be six or seven.
+1523. āta TEṢTU TERHIVE ! Para p. 8. When a person inquires of another how many mango trees or fruit the latter has got the latter may reply they are five, even if actually they may be six or seven.
 
 1524, tad partea a ṣtai pui fera ere aiuti FETT f SFATTI aty. 110.56 q. in to p. 356. a ggi a-37% par
 

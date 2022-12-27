@@ -5,7 +5,7 @@ title = "33 Agniṣṭoma"
 
 CHAPTER XXXIII 
 
-AGNIŞTOMA2529 
+AGNIṢTOMA2529 
 
 Sacrifices are often divided for convenience into ieti, pasu and soma. Acoording to Gaut. VIII, 21 and Lat. Sr. V. 4. 24 there are seven forms of some sacrifices, viz. Agniṣtoma, Atyagnistoma, Ukthya, Sodasin, Vājapeya, Atiratra and Aptor yāma. The Agniṣtoma is the model (prakrti) of all soma sacrifices. The Agnistoma is a one day (alkābika or ekāba ) sacrifice and it is an integral part of the Jyotiṣtoma so much so that the two are often identified. Soma sacrifices are classi fied into those that are finished in one day (and so called okāba ), those that are celebrated for more than one day up to twelve (and so called ahina ), those that extend over more than twelve days ( and are called Sattra ). The dvādaśaha is both & sattra and an absna.8530 The Jyotistoma ocoupies generally five days and the chief rites performed on these days are: (1) choosing of priests, madhuparka, dikṣaniyești, consecration of the sacrificer (dikṣā ); (2nd day) Prāyapiya iṣti ( i. e, opening iṣti ), purchase of soma, atitheyesti ( iṣçi offering hospitality to Boma ), Pravargya 2581 Upasad ( homage twice a day in the morning and evening); (3rd day) Pravargya and Upabad twice again ; (4th day) Pravargya and Upasad, Agniprapayana, Agnisomapranayana, havirdhāna-pranayana, animal sacrifice; (5th day called sutya or savaniya) pressing of soma, offering it and drinking it in the morning, mid-day and evening, the udayaniga (concluding iṣti), avabhștha (final purificatory bath). In the following pages only a skeleton outline of 
 
@@ -107,7 +107,7 @@ After the day (or da ys of dikṣa), the next day the first rite is the prāyapi
 
 2543. तस्मादीक्षितो द्वादशाहं भूतिं धन्वीत। यज्ञमेव तत्संभरतीति विज्ञायते । पूषा Fara HAPERT HET 1974. X. 18. 4-5, vide yt. VII. 5. 3-4. 
 
-2544. ART SATT 9Şi enreren Ta arqofter icom, on Āp. X. 21.1. 
+2544. ART SATT 9Ṣi enreren Ta arqofter icom, on Āp. X. 21.1. 
 
 2645. Vide Jaimini X. 7. 38-42 for the proposition, that the priyapiy& ondo with the first samyu and the Stithyd with the Grat idi. 
 

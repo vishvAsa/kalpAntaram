@@ -885,7 +885,7 @@ king, but in some inscriptions an emperor addresses his order as to a grant of l
 
 (E. I. vol. II p. 309 of 1042 A. D.) and his Goharwa plato in 1047 A, D. ( E. I. XI p. 141 ) and Kahla plate of Sodhadeva 
 
-in sainvat 1134 (E. I. VII p. 85 at p. 91). \#UTTIŞ-Vide E. I, VII p. 85 at p. 91. HETTIMA-Vide I. A. vol. 18 p. 214 ( of samvut 1216 ). H ala Chief Master of battle arrays'. Occurs in the plate 
+in sainvat 1134 (E. I. VII p. 85 at p. 91). \#UTTIṢ-Vide E. I, VII p. 85 at p. 91. HETTIMA-Vide I. A. vol. 18 p. 214 ( of samvut 1216 ). H ala Chief Master of battle arrays'. Occurs in the plate 
 
 of Bhojavarmadeva in E. I. XII p. 37 at p. 40. HET -Great banker. Occurs in Kahla plate of Sodhadeva 
 

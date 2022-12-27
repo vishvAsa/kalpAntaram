@@ -316,7 +316,7 @@ The Sabhāparva (319. 23–25) narrates that Jarasandha threw his mace from Giri
 
 Growse describes in chap. IX pp. 222 ff. the temples of Vrndāvana and in chap. XI Govardhana, Barsān, the birth place of Rādhā, and Nandgaon. Vide also 'Picturesque India' by W. S. Caine pp. 253 ff. for Mathurā and neighbouring holy places.
 
-PURUŞOTTAMATIRTHA (JAGANNATHA)
+PURUṢOTTAMATIRTHA (JAGANNATHA)
 
 Much has been written about Puruṣottamatirtha or Jagan nātha, both in Sanskrit and in English, The following works in English may be consulted by those who desire to make a thorough study of the sacred place; W. W. Hunter's 'Orissa'
 

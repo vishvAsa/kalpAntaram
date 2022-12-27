@@ -543,7 +543,7 @@ It is laid down that every one residing in Kāśi must repair every day to the G
 
 What happens if a person commits sins outside Kāśi, comes to Kāśi and then dies, or if a resident of Kāśi commits sins in Kāśi but dies either at Kaśī or outside it? The Tri. S. after quoting several verses from the Kāśikhanda, Padma purāṇa and Brahmavaivarta states the following conclusions (p. 268). Sins committed elsewhere are destroyed by coming to Kāśi.1466 He who residing in Kāśi is always addicted to sins becomes a piśāca (goblin) for thirty thousand years, again dwells in Kāśi, secures highest knowledge and then obtains
 
-1464 b. ŞIOT: FETISH Fadi HETÀ STT: fequitat estra HRT ध्वजः। उपशान्तशिवो ज्येष्ठो निवासेश्वर एव च। शुक्रेशो व्याघ्रलिङ्गं च जम्बुकेशं चतुर्दशम् । gÀ ageñanê werkenaatât în u garaît. 73. 60-63 q. by: Farumo p. 263.
+1464 b. ṢIOT: FETISH Fadi HETÀ STT: fequitat estra HRT ध्वजः। उपशान्तशिवो ज्येष्ठो निवासेश्वर एव च। शुक्रेशो व्याघ्रलिङ्गं च जम्बुकेशं चतुर्दशम् । gÀ ageñanê werkenaatât în u garaît. 73. 60-63 q. by: Farumo p. 263.
 
 1465. ET TETT their patarti ar patiatiçoutraat fasafia: परा॥ काश्यां लिङ्गान्यनेकानि काश्यां तीर्थान्यनेकशः। तथापि सेव्यो विश्वेशः स्नातव्या AfOrehurit laatsinauz 100. 101 q. in fatust p. 266. BE1466. 37797 farea ATV rechizitiafraguna II Ti marai #i quasi a paaril tipus 33.115. Vide also firsîro 75.22 TETIT TE acurat !!!
 

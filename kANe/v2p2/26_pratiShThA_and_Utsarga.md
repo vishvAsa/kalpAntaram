@@ -5,7 +5,7 @@ title = "26 Pratiṣṭhā and Utsarga"
 
 CHAPTER XXVI 
 
-PRATIŞTHA AND UTSARGA 
+PRATIṢTHA AND UTSARGA 
 
 Pratistha and Utsarga (foundation of temples and dedica. tion of wells, tanks, parks &o, for the benefit of the publio). 
 

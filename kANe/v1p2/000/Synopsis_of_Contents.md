@@ -423,7 +423,7 @@ H.D.-D
 
 Xxvi 
 
-History of Dharmasastra Sec. 54 Şat-trimsan-mata : 
+History of Dharmasastra Sec. 54 Ṣat-trimsan-mata : 
 
 pp. 535-537 This was a compilation like Caturvimśati-mata - quotations from it cited in Kalpataru, Mitāksarā, Smsticandrika and Aparār ka - Viśvarūpa and Medhātithi do not mention it - date between 790-909 A. D. - no verse quoted from this on vyavahāra. 
 

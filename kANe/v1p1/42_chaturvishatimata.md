@@ -45,7 +45,7 @@ Medhātithi. It was probably compiled about the time when the latter two writers
 
 The Mit. on Yāj. III. 58 quotes the Caturo for the proposition that a person resorting to the 4th āśrama (i.e. Sannyāsa ) may be 'ekadaṇdin' or 'tridandin'. The Mit. quotes several verses from the Caturo on penances (prayas cittas ) for serious and light sins or offences. It suggests alternative penances for even very heinous sins, e. g. on Yāj. III. 308 it provides that if a person performs the Japa of Gāyatrī (Rg. III. 62. 10 tat-savitur-varenyaṁ ) a crore of times he atones for the sin of brāhmana murder, becomes free from the sin of drinking liquor by japa of Gāyatrī 80 lakhs of times, from the sin of the theft of gold by repeat ing 70 lakhs of times the Gāyatri. The Smrti-candrikā quotes Caturo many times on Ahnika and on Sraddha. It quotes the opinion of Baudhāyana in a verse and goes so far as to say that a man becomes free from sins by the japa of Brāhmaṇa works, the six angas, the ākhyānas ( legends ), Itihāsa, Purālas and praises of gods and expositions on Dharma. Aparārka also quotes about 60 verses of Caturvimsatimata and one proge passage on p. 1121 ( quoted below ). 
 
-Anothor somewhat remarkable point is that A parārka in several cases places Caturvimsatimata passages immediate ly near Şat-trimsatmata passages (vide Aparārka pp. 1081, 1172–74, 1182, 1248 ). 
+Anothor somewhat remarkable point is that A parārka in several cases places Caturvimsatimata passages immediate ly near Ṣat-trimsatmata passages (vide Aparārka pp. 1081, 1172–74, 1182, 1248 ). 
 
 The portions of the works on saṇskāra and sraddha together with the commentary of Bhattoji, son of Lakṣmidhara, have been published in the Benares Sanskrit 
 

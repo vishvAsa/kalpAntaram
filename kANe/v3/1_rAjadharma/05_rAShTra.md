@@ -511,7 +511,7 @@ Ring's duty in case of theft
 
 210. परचक्राटवीभूतं तु प्रत्यानीय राजा यथास्वं प्रयच्छेत् । चोरहतमविद्यमानं स्व. Fotoa: 943a i flera III. 16 p 190. 
 
-211. HATTEET TOTEUTH MATEI 191 quia in. X. 46-47; 8297 BAŞIFT FORGET TO Trace r te free to recar: u stran 75.10. The FAUTHOT on TT. II. 36 quotes Gauṭ, and Sānti 75. 10; ' or ETFUTA: 1 otrok prihvatio regretariaat poster FARIŞTTET I saqraitienica para o parapet on 71. II. 38( of Tri, ed.). 
+211. HATTEET TOTEUTH MATEI 191 quia in. X. 46-47; 8297 BAṢIFT FORGET TO Trace r te free to recar: u stran 75.10. The FAUTHOT on TT. II. 36 quotes Gauṭ, and Sānti 75. 10; ' or ETFUTA: 1 otrok prihvatio regretariaat poster FARIṢTTET I saqraitienica para o parapet on 71. II. 38( of Tri, ed.). 
 
 212. \# narere et garanti 
 

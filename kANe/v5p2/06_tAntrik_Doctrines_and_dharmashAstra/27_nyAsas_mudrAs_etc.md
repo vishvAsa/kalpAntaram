@@ -613,7 +613,7 @@ Avalon (1913). Tantrik Texts edited by A. Avalon, vol. I-XXII, Introductions,
 
 notes, analysis &c. The Serpent Power by A. Avalon (1914), containing transla. 
 
-tion of Şat-cakranirūpapa and Padukāpañcaka (5th ed. of 
+tion of Ṣat-cakranirūpapa and Padukāpañcaka (5th ed. of 
 
 1953, by Ganesh & Co., Madras ). Principles of Tantra' parts 1 and 2, ed. by A. Avalon (1914, 
 

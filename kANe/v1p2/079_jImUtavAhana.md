@@ -5,7 +5,7 @@ title = "079 Jīmūtavāhana"
 
 79. Jimutavahana 
 
-Jimutavāhana is the first of the triumvirate of Bengal writers on dharmuśwstra, the other two being Sūlapāṇi and Raghunandana. Only three works of his are known and they have all been printed viz: the Kālaviveka (B. I. series, 1905), the Vyavahāramātrkā (published in the memoirs of the Bengal Asiatic Society, vol. III., No. 5, pp. 277-353, edited by the late Şir Asutosh Mukerji), the Dāyabhāga (published several times ). It appears that these works were intended to form part of a vast treatise on dharmaśāstra called Dharma ratna, as stated in the Kālaviveka.989 In this work I have used the edition of the Dāyabhāga printed in 1829. 
+Jimutavāhana is the first of the triumvirate of Bengal writers on dharmuśwstra, the other two being Sūlapāṇi and Raghunandana. Only three works of his are known and they have all been printed viz: the Kālaviveka (B. I. series, 1905), the Vyavahāramātrkā (published in the memoirs of the Bengal Asiatic Society, vol. III., No. 5, pp. 277-353, edited by the late Ṣir Asutosh Mukerji), the Dāyabhāga (published several times ). It appears that these works were intended to form part of a vast treatise on dharmaśāstra called Dharma ratna, as stated in the Kālaviveka.989 In this work I have used the edition of the Dāyabhāga printed in 1829. 
 
 — 
 

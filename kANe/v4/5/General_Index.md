@@ -2221,7 +2221,7 @@ some time 646 Namaskaravati verse is Rg, X. 152,
 
 502 Nandana, park of Indra 166 Nanda-pandita, commentator of
 
-Şadasīti 268 Nandipurana 343 Nandiśraddha, same as Vrddhisraddha
+Ṣadasīti 268 Nandipurana 343 Nandiśraddha, same as Vrddhisraddha
 
 527; procedure of 528 Nandā tithis are 1st, 6th and 11th, 373 Narada, smrti of 19, 31, 66, 67, 70,
 
@@ -3049,7 +3049,7 @@ propitiatory 44 Sacred Books of the East Series 8, 37,
 
 43; vol. IV, 1921, 231n,341n; vol. VI, 171n, 552n; vol. VII, 540n; vol. IX, 171n ; vol. X. 176, 707 ; vol. XI, 204 235, 552, 621, 742; vol. XII, 321, 574n; vol. XIII, 165, 621, 64n5, 646, 668, 677, 753; vol. XIV, 170, 403n; vol. XVII, 621; vol. XXI, 176; vol. XXIII, 241n ; vol. XXVI, 559n, 680, 744; vol. XXIX, 245n, 277,360,574n; vol. XXX, 540n, 559, 619; vol. XXXIII, 69; vol. XLIV, 680, 703; vol XLV, 165, 646, 687, 749; vol.
 
-XLIX, 621, 646 Saddharniapundarika 176 Şadasiti, a work on āśauca in 86 Anu stubh verses by Kausikāditya 268, 270n, 274n, 285, 293, 294, 295; com mentary on, called Suddhicandrikā
+XLIX, 621, 646 Saddharniapundarika 176 Ṣadasiti, a work on āśauca in 86 Anu stubh verses by Kausikāditya 268, 270n, 274n, 285, 293, 294, 295; com mentary on, called Suddhicandrikā
 
 by Nandapandita 273 Sadhanā, by Tagore 852n Sadyahsauca, see under 'ascetic',
 
