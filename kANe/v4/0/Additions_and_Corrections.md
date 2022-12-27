@@ -67,7 +67,7 @@ that simply officiating as a priest or accepting a gift entailed a prāyascitta;
 
 to endorse this view. 140 line 7 Read' and as marking' 149
 
-line 23 Add at end 'Višvarūpa on Yaj. III 248 states
+line 23 Add at end 'Viśvarūpa on Yaj. III 248 states
 
 that in the Angirasa-smrti an expiation called Vajra is described and it is provided therein that those who are guilty of a mahāpataka are purified after three years. The Mit. on Yaj. III 254 quotes the same half-verse as of
 
@@ -111,7 +111,7 @@ E
 
 N ārāyanabhatta's Antyestipaddhati is gene rally followed, it must be stated here in order
 
-to avoid misunderstanding that now no one watabava spreads kušas and antelope skin on the funeral
+to avoid misunderstanding that now no one watabava spreads kuśas and antelope skin on the funeral
 
 sed pile nor is the wife made to sit down near the
 
@@ -257,7 +257,7 @@ Under 'Irāvati' add-Vide Visnudbarmottara I.
 
 149 (twenty-five verses ) for a fine poetic description of this river and I. 162. 61-65 for the confluence of Iravati with Sindhu and of ten more confluences of several rivers of
 
-northern India.' Column 2 under Konärka add " Vide Proceed
+northern India.' Column 2 under Konārka add " Vide Proceed
 
 ings of the 8th Indian Historical Congress pp. Attro 153 ff. for an article 'Sungod of Konārak
 

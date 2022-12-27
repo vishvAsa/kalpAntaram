@@ -13,7 +13,7 @@ LIST OF TĪRTHAS ditoints Lotuito
 
 target ytov si o
 
-This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to. Many of the Purānas enumerate the moun tains and rivers of dvipas and var şas other than those of Jambudvipa and Bhārata-varsa such as Harivarşa, Ramyaka varsa, Krauñcadvipa, Sālmalidvipa, but they have been exclud ed from this list. The Brahmapurāņa (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhīşmaparva in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases. Similarly, the Garuda (I. 81. 1-31) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have listed about 350 sub tirthas. But there are about 1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāha-purāna under Mathurā, in Brahma-purāna under Gautami, in Vāyu-purāna under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some were left out purposely on account of the absence of any importance. Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purānas and are not even mentioned in them; many of these have been omitted in this list. Our authorities are often very vague about the location or extent of tirthas. Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Koțitirtha, Cakratīrtha, Varāhatirtha, Somatirtha). I am under great obligations to Cunningham's *Ancient Geography of India' (ed, of 1872) and to Nundo Lal Dey's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal being very limited, I could not enter into even brief discussions
+This is merely a list of tirthas from the point of view of Dharmaśāstra and not a treatise on the Ancient Geography of India. The result is that many countries and towns that have no importance or claims as tirthas have been altogether omitted. Bauddha and Jain works on tirthas have only rarely been referred to. Many of the Purānas enumerate the moun tains and rivers of dvipas and var ṣas other than those of Jambudvipa and Bhārata-varsa such as Harivarṣa, Ramyaka varsa, Krauñcadvipa, Sālmalidvipa, but they have been exclud ed from this list. The Brahmapurāṇa (chap. 26 verses 8-83) contains a string of over 520 tirthas without hardly any certain indication of their location and the Bhīṣmaparva in chap. 9 mentions about 160 rivers with practically no indication about their location in most cases. Similarly, the Garuda (I. 81. 1-31) enumerates about 200 and Padma (VI. 129) contains 108 tirtha names. In Banaras alone I have listed about 350 sub tirthas. But there are about 1500 shrines and temples in Banaras alone. These have not been included. Each great tirtha has numerous sub-tirthas as in the Varāha-purāna under Mathurā, in Brahma-purāna under Gautami, in Vāyu-purāna under Gayā. Through sheer weariness or inadvertence some of these must have been left out by me and some were left out purposely on account of the absence of any importance. Besides, several tirthas that are regarded as sacred by modern people are not so treated in the Epics or purānas and are not even mentioned in them; many of these have been omitted in this list. Our authorities are often very vague about the location or extent of tirthas. Moreover, a number of tirthas scattered in different parts of India bear the same name (e. g. vide under Agnitirtha, Koțitirtha, Cakratīrtha, Varāhatirtha, Somatirtha). I am under great obligations to Cunningham's *Ancient Geography of India' (ed, of 1872) and to Nundo Lal Dey's 'The Geographical Dictionary of Ancient and Medieval India' (1927). I have had occasions to differ from both, particularly from the latter. But, the space at my disposal being very limited, I could not enter into even brief discussions
 
 POONA
 
@@ -27,9 +27,9 @@ History of Dharmaśāstra
 
 [Vol.
 
-in support of my views. It would look ungrateful to find fault with the work of Dey; but it must be said that he relies too much on rather old and antiquated authorities and has not cast his net over a wide area. Often times he mentions no original authorities (vide, for example, Cakratirtha on p. 43). He is very vague in his references. He hardly ever cites the number of the verse on which he relies and often omits to specify even the part or section of the work relied upon. For example, at p. 13 as regards Avanti he mentions Panini IV. 176, which should be IV. 1. 176. Further, he has omitted several well-known tirthas (e. g. Daśāśvamedhika). He is sometimes wrong in what he says. On p. 54 he states that Kiskindha kānda 43 refers to Devadāruvana as a proper name, but there the context ('lodhrapadmaka-sandesu devadāruvanesu ca' in verse 15) shows that what is meant is 'forests of Deodar trees'). On p. 73 he says Bharatavarşa was first called Haimavata varsa, but the passage of the Lingapurāņa (I. 49.7) on which he relies (idam haimavatam varsam Bhāratam nāma visrutam) does not bear that out. There is no reference to a prior account here and all that is meant is that Bhāratavarsa is connected with Himavat, as a previous passage (I. 47. 23 Himādrer dakşiņam varşam Bharatāya nyavédayat) expressly states that Bhāratávarsa is to the south of Himālaya. In Salya 44.52 Sarasvati is called Haimavati, but that does not mean that Haimavati was the name of Sarasvati in far-off ages. It simply means that it rises in Himayat range.' Only a comparison of the list prepared by me with Dey's work will show the differ ence in details between the two. I should not undertake that task and leave it to scholarly readers.
+in support of my views. It would look ungrateful to find fault with the work of Dey; but it must be said that he relies too much on rather old and antiquated authorities and has not cast his net over a wide area. Often times he mentions no original authorities (vide, for example, Cakratirtha on p. 43). He is very vague in his references. He hardly ever cites the number of the verse on which he relies and often omits to specify even the part or section of the work relied upon. For example, at p. 13 as regards Avanti he mentions Panini IV. 176, which should be IV. 1. 176. Further, he has omitted several well-known tirthas (e. g. Daśāśvamedhika). He is sometimes wrong in what he says. On p. 54 he states that Kiskindha kānda 43 refers to Devadāruvana as a proper name, but there the context ('lodhrapadmaka-sandesu devadāruvanesu ca' in verse 15) shows that what is meant is 'forests of Deodar trees'). On p. 73 he says Bharatavarṣa was first called Haimavata varsa, but the passage of the Lingapurāṇa (I. 49.7) on which he relies (idam haimavatam varsam Bhāratam nāma visrutam) does not bear that out. There is no reference to a prior account here and all that is meant is that Bhāratavarsa is connected with Himavat, as a previous passage (I. 47. 23 Himādrer dakṣiṇam varṣam Bharatāya nyavédayat) expressly states that Bhāratávarsa is to the south of Himālaya. In Salya 44.52 Sarasvati is called Haimavati, but that does not mean that Haimavati was the name of Sarasvati in far-off ages. It simply means that it rises in Himayat range.' Only a comparison of the list prepared by me with Dey's work will show the differ ence in details between the two. I should not undertake that task and leave it to scholarly readers.
 
-I have carefully read the two Epics and most of the Purānas. But I do not cite exhaustive references to all the texts where a particular tirtha is mentioned. I feel satisfied with mentioning two or three. Owing to the several restric tions imposed upon myself this list cannot claim to be thoroughly exhaustive. But I hope that it is comprehensive enough and far larger and more informative than any list of tirthas presented by any scholar so far. There is ample scope for industrious scholars to improve upon and to add to this lista have included important tirthas from Kashmir and given copious references to the Nilamata-purāņa, the Rāja-tarangiņi and the si Hara-carita-cintāmaņi. I am highly obliged to the Kashmir Report of Dr. Bühler (published as a special number for 187 Cient
+I have carefully read the two Epics and most of the Purānas. But I do not cite exhaustive references to all the texts where a particular tirtha is mentioned. I feel satisfied with mentioning two or three. Owing to the several restric tions imposed upon myself this list cannot claim to be thoroughly exhaustive. But I hope that it is comprehensive enough and far larger and more informative than any list of tirthas presented by any scholar so far. There is ample scope for industrious scholars to improve upon and to add to this lista have included important tirthas from Kashmir and given copious references to the Nilamata-purāṇa, the Rāja-tarangiṇi and the si Hara-carita-cintāmaṇi. I am highly obliged to the Kashmir Report of Dr. Bühler (published as a special number for 187 Cient
 
 POONA
 
@@ -43,7 +43,7 @@ List of tīrthas
 
 1725
 
-by the B BRAS), to Stein's notes in his translation of the Rāja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VII are employed for the Bāla, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyaṇa I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purānas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahāpurāņas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāņa of which the edition of Messrs. Gopal Narayan & Co. and the Bhāgavatapurāna, of which the Nirnayasagara edition of the bare text have been referred to). The Skandapurāņa has been a source of great trouble and labour. Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand and odd verses of that purāņa, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocryphal and later additions. The seven big sections of the Skanda viz. Maheśvarakhanda, Vaişpava, Brāhma, Kāśi, Avantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VII and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdha.
+by the B BRAS), to Stein's notes in his translation of the Rāja-tarangini and his memoir on the Ancient Geography of Kashmir published separately (and also embodied in the 2nd volume of the translation of Kalhana's work). All the names of tirthas are transliterated into the English alphabet and arranged according to the English mode of spelling. For the Mahābhārata references are given to the oblong Bombay edition and by citing names of parvans, but in the case of the Rāmāyana Roman figures I to VII are employed for the Bāla, Ayodhyā, Aranya, Kiskindhā, Sundara, Yuddha and Uttara kāndas respectively. For the Rāmāyaṇa I have used the edition brought out by the Madras Law Journal Press in 1933. Among Purānas the Anandāśrama editions of the Agni, Brahma, Brahmavaivarta, Matsya, Vāyu and Padma have been relied upon and as to the rest of the Mahāpurāṇas the Venkate śvara Press editions have been used (except in the case of the Nrasimhapurāṇa of which the edition of Messrs. Gopal Narayan & Co. and the Bhāgavatapurāna, of which the Nirnayasagara edition of the bare text have been referred to). The Skandapurāṇa has been a source of great trouble and labour. Owing to the limited time at my disposal I have not been able to digest thoroughly the ninety thousand and odd verses of that purāṇa, though I have very carefully gone into the Kāśikhanda and some other khandas. Besides, there are two separate recensions of the Skanda and large portions of it appear to be apocryphal and later additions. The seven big sections of the Skanda viz. Maheśvarakhanda, Vaiṣpava, Brāhma, Kāśi, Avantya, Nāgara, Prabhāsa are indicated by Roman figures from I to VII and the sub-sections by Arabic figures. Some of these sub-sections have further sub-divisions into Pūrvārdha and Uttarārdha.
 
 BUD
 
@@ -61,7 +61,7 @@ History of Dharmasastra
 
 [ Vol.
 
-A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference. Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places. I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Visnupurāna (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan. deyapurāņa, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud huri's 'Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I. A. vol. 54. I have consulted only a few Māhātmyas of tirthas. Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāņa Index' (volumes I and II covering over 1400 pages) which collects material from five Purānas only viz. the Bhāgavata, Brahmānda, Matsya, Vāyu and Visnu. The two volumes reach up to the Sanskrit letter 'ma' only. I, for my part, do not agree with much that he says about the age of the Purānas in general and of the five Purānas (which he has digested) in particular, but this is not the place to go into that question. Besides, his work has to be used with some caution. In several places the work is misleading. To take only a fe examples. On p. 547 he lists "Godhūma', makes the remark ‘fit for śrāddha' and cites four references from the Vişnupurāņa alone. One may prima facie think that Godhūma is here some place fit for śrāddha. As a matter of fact in all the references from the Vişnupurāņa 'Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha. But other fit things such as 'ikşu' (declared to be fit for sraddha by Väyu 78. -8) are not included at all. On p. 123 A.śokavana is not a proper name, but only a forest of Asoka trees, as the preceding word 'drāksāvana' (in Vāyu 38. 68) indicates. So also Kamala prabhava (not 'prabhavā' as printed on p. 316 of vol. I) is not a river (in Matsya 163. 62, Anandaśrama ed.) but is only a sus adjective of the word Sona that follows. On p. 316 of vol. II Hobb states that the river Pārā rises from Rsyavān, but the Matsya round 114, 24 on which he relies says it springs from Pāriyātra. On the same page he gives the entry "Pārāvāratata sacred to darkar Oriental
+A, B, C and so on. I may state that I have hardly ever remained content by borrowing references to Sanskrit authorities given by my predecessors, but have seen personally each reference to Sanskrit works except where I expressly state from whom I borrow a particular reference. Sorensen's Index of the Mahābhārata and the Vedic Index of Macdonell and Keith have been used in several places. I have also derived material help from the volumes of the Imperial Gazetteer and from the several volunies of the Bombay Gazetteer. The same may be said about Wilson's translation of Visnupurāna (ed. by Hall, 1864-1877), Pargiter's notes to his translation of the Mārkan. deyapurāṇa, Dr. B. C. Law's paper on the mountains and rivers of India' in the Journal of the Department of Letters, Calcutta University, vol. 28 and Dr. Hemchandra Raychaud huri's 'Studies in Indian Antiquities' (1932), and the paper on 'Ancient towns and cities in Gujarat and Kathiawad' in I. A. vol. 54. I have consulted only a few Māhātmyas of tirthas. Recently, Prof. V. R. Ramchandra Dikshitar of Madras has published a useful work "The Purāṇa Index' (volumes I and II covering over 1400 pages) which collects material from five Purānas only viz. the Bhāgavata, Brahmānda, Matsya, Vāyu and Visnu. The two volumes reach up to the Sanskrit letter 'ma' only. I, for my part, do not agree with much that he says about the age of the Purānas in general and of the five Purānas (which he has digested) in particular, but this is not the place to go into that question. Besides, his work has to be used with some caution. In several places the work is misleading. To take only a fe examples. On p. 547 he lists "Godhūma', makes the remark ‘fit for śrāddha' and cites four references from the Viṣnupurāṇa alone. One may prima facie think that Godhūma is here some place fit for śrāddha. As a matter of fact in all the references from the Viṣnupurāṇa 'Godhūma' means 'wheat' and nothing more, which no doubt is fit food for śrāddha. But other fit things such as 'ikṣu' (declared to be fit for sraddha by Vāyu 78. -8) are not included at all. On p. 123 A.śokavana is not a proper name, but only a forest of Asoka trees, as the preceding word 'drāksāvana' (in Vāyu 38. 68) indicates. So also Kamala prabhava (not 'prabhavā' as printed on p. 316 of vol. I) is not a river (in Matsya 163. 62, Anandaśrama ed.) but is only a sus adjective of the word Sona that follows. On p. 316 of vol. II Hobb states that the river Pārā rises from Rsyavān, but the Matsya round 114, 24 on which he relies says it springs from Pāriyātra. On the same page he gives the entry "Pārāvāratata sacred to darkar Oriental
 
 POONA
 
@@ -83,13 +83,13 @@ List of tirthas
 
 10
 
-Mata'. This makes no sense. Pārāväratata would mean 'the shore of the sea'. What is really meant is that Devi is styled or worshipped as Pārā on the bank of the Pārā river (Pārā Pārätate mata). He does not compare the readings of the several printed editions of the five pürānas. Besides, the information furnished is very meagre. If the whole had been printed in a compact form far more information could have been given in the same number of pages.
+Mata'. This makes no sense. Pārāvāratata would mean 'the shore of the sea'. What is really meant is that Devi is styled or worshipped as Pārā on the bank of the Pārā river (Pārā Pārātate mata). He does not compare the readings of the several printed editions of the five pürānas. Besides, the information furnished is very meagre. If the whole had been printed in a compact form far more information could have been given in the same number of pages.
 
-In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The puränas promise one or more of the following rewards viz. the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or reaching the highest worlds such as those of Brahmā, Visnu or Siva, the destruction of the gravest sins such as brāhmaṇa murder, the same merit as arises from gifts of a thousand cows &c.
+In some places I have indicated the rewards promised for bathing in the tirthas; but I have not done so in every case. The purānas promise one or more of the following rewards viz. the same merit as the performance of Aśvamedha or Vājapeya or other solemn Vedic sacrifices or reaching the highest worlds such as those of Brahmā, Visnu or Siva, the destruction of the gravest sins such as brāhmaṇa murder, the same merit as arises from gifts of a thousand cows &c.
 
 Many of the doubts and difficulties about the identification of several tīrthas can, if at all, be solved only by means of actual journeys to various places and investigations on the spot. That is a task which would require for its proper accom plishment a team of workers. A single individual can hardly attempt such a task with his own resources.
 
-ul This list will, it is hoped, be of some use in elucidating several problems such as the questions about the relative anti quity of the purānas, the dates of several Sanskrit works which mention the tirthas and the questions about borrowing on the part of purāņas among themselves and from the Mahābhārata.
+ul This list will, it is hoped, be of some use in elucidating several problems such as the questions about the relative anti quity of the purānas, the dates of several Sanskrit works which mention the tirthas and the questions about borrowing on the part of purāṇas among themselves and from the Mahābhārata.
 
 e
 
@@ -133,7 +133,7 @@ number of BBRAS Journal for 1877) A. G.-Ancient Geography of India, 1.-lake
 
 by Cunningham (1871).
 
-L.-Lingapurāņa A.I.--Ancient India as described by m.-Mountain
+L.-Lingapurāṇa A.I.--Ancient India as described by m.-Mountain
 
 Megasthenes and Arrian (Mc Crindle). M.-Matsyapurana Ain, A-Ain-i-Akbari by Abul Fazal, Mb.-Mahābhārata
 
@@ -141,9 +141,9 @@ translated by Blochmann and Jarrett Mbh.-Mahābhāsya of Patanjali (ed. in three
 
 by Kielhorn in 3 volumes). Al-Alberuni's 'India' translated by Mār.--Mārkandeya-purana
 
-Dr. E. C. Sachau, 2 volumes, 1886 N.-Brhan-naradiya or Näradiya (London).
+Dr. E. C. Sachau, 2 volumes, 1886 N.-Brhan-naradiya or Nāradiya (London).
 
-purana. Anu.-Anušāsana-parva of the Maha- NM.--Nilamata-purāņa ed. by Prof.
+purana. Anu.-Anuśāsana-parva of the Maha- NM.--Nilamata-purāṇa ed. by Prof.
 
 bhārata.
 
@@ -151,9 +151,9 @@ Bhagavad-datta. A. S. R.-Archaeological Survey
 
 Nr.-Nrsimha or Narasimha-purana. India Reports.
 
-P.-Padma-purāna. B. --Brahmapurāņa.
+P.-Padma-purāna. B. --Brahmapurāṇa.
 
-Pargiter.-Translation of Markandeya Bar. S.-Bärhaspatya-sutra edited by purāna with notes.
+Pargiter.-Translation of Markandeya Bar. S.-Bārhaspatya-sutra edited by purāna with notes.
 
 Dr. F. W. Thomas,
 
@@ -165,7 +165,7 @@ as described by Ptolemy with notes Bhav.-Bhavisyapurana.
 
 by Majumdar Sastri (Calcutta, Bhi.-Bhismaparva of the Mahā. 1927).
 
-bhärata.
+bhārata.
 
 r.-River. Bom. G.-Bombay Gazetteer volumes. R.-Rājatarangini (edited and trans. Br.-Brahmāndapurana.
 
@@ -221,7 +221,7 @@ Va.--Vāyupurāna Vām.-Vāmanapurana. Var.-Varāhapurāna. VD.-Visnud harmottar
 
 by Jolly).
 
-Vi.-Vişnupurāna Vik.-Vikramanka-deva-carita of
+Vi.-Viṣnupurāna Vik.-Vikramanka-deva-carita of
 
 Bilhana (ed. by Bühler). V.S.-Vārāṇasī. Wilson-Translation of Visnupurana,
 
@@ -293,7 +293,7 @@ noted that Agastya is the reputed author of the Tamil language and the teacher o
 
 vol. 19 pp. 558-559 (New series) Agastyasrama-Vide Dey p. 2 for
 
-eight places so called (but he does not state authorities for all). A (on r. Durjaya) V 96.1 (wbere demon Vatäpi was killed by Agastya): B V. Dh. S 85. 29, PI. 12. 4, v. 19. 198 (near Puskara): C (near Pra yāga) V 87. 20; D (near Gokarna) V 88. 18; E (near Janasthāna and Pancavati about five yojanas from Sutiksnasrama) Rām. III. 11. 38-42, Raghu. XIII. 36. There is an ancient shrine of Agastya about one mile from Akola village in Nagar District beyond the Pravarā river; F (near the sea in Pāņdya country) Adi 216. 3, 88. 13, 118. 4, 130. 6.--one of the five Naritirthas). Rām. IV. 41.
+eight places so called (but he does not state authorities for all). A (on r. Durjaya) V 96.1 (wbere demon Vatāpi was killed by Agastya): B V. Dh. S 85. 29, PI. 12. 4, v. 19. 198 (near Puskara): C (near Pra yāga) V 87. 20; D (near Gokarna) V 88. 18; E (near Janasthāna and Pancavati about five yojanas from Sutiksnasrama) Rām. III. 11. 38-42, Raghu. XIII. 36. There is an ancient shrine of Agastya about one mile from Akola village in Nagar District beyond the Pravarā river; F (near the sea in Pāṇdya country) Adi 216. 3, 88. 13, 118. 4, 130. 6.--one of the five Naritirthas). Rām. IV. 41.
 
 16 (on Malaya) and Bh. X. 79.167. Agastyatirtha--(in Pandya country) V
 
@@ -357,7 +357,7 @@ K. p. 249. Dey p. 73 is wrong in taking (in M 116.1) Haimavati as a proper name,
 
 daughter of Himavat Ajabila--(under m. Sriparvata). L. I.
 
-92.153 Ajatunga-Vā 77. 48 (śräddha here is
+92.153 Ajatunga-Vā 77. 48 (śrāddha here is
 
 highly efficacious and here the shadow of gods is seen on parvan
 
@@ -401,7 +401,7 @@ History of Dharmaśāstru
 
 [Vol.
 
-śrama. According to I. G. I. vol. XV p. 60 there are five sacred confluences of the Alakananda, with other rivers viz. with Bhagirathi (Devaprayaga), Nandaprayāga, Karnaprayāga (confluence with Pind ar river). Rudraprayāga (confluence with Mandakini). Vişnuprayāga. Vide U.P. Gazetteer for Garhwal, vol.
+śrama. According to I. G. I. vol. XV p. 60 there are five sacred confluences of the Alakananda, with other rivers viz. with Bhagirathi (Devaprayaga), Nandaprayāga, Karnaprayāga (confluence with Pind ar river). Rudraprayāga (confluence with Mandakini). Viṣnuprayāga. Vide U.P. Gazetteer for Garhwal, vol.
 
 36 pp. 2 and 140. Alesvara-see Brahmesvara. Alitirtha--( under Narmada) K. II.
 
@@ -413,7 +413,7 @@ the Sahya m.) TS p. 78. Amalakagrāma-(on m. Sahya) Nr.
 
 chap. 66.7 ff. q. by T. K. p. 254. Dey p. 4 suggests that it is on the
 
-north bank of the Tämraparni. Amarakahrada-(under VS) L. q. by
+north bank of the Tāmraparni. Amarakahrada-(under VS) L. q. by
 
 T. K. P. 53. Amarakantaka-(m. in the Bilaspur
 
@@ -425,17 +425,17 @@ by T. K. p. 53 Amardaka--Vide T. S. pp. 21-30 quot
 
 ing SK, It is a Sivaksetra, one of the twelve Jyotirlingas and is so called because sins are crushed here (amar rdeyāni pāpāni tasmad-amardakam matam). On p. 22 of TS there is quo tation from SK that in the four yug- as it was respectively called Jyotir. maya, Mukti, Sparsa and Nagesvara. It is said to be a linga on p. 22, Vide Victor Cousins' 'Medieval tem ples of the Dakhan' pp. 77-78 for a description of the temple of Nāga
 
-nätha and plates CXIII-CXV for the front of the great temple and portions of the wall and pillars of the porch and of the Hall. This is probably the same as Avandhyā Nāga nātha (Aundha in Survey of India maps) about 25 miles north-east of
+nātha and plates CXIII-CXV for the front of the great temple and portions of the wall and pillars of the porch and of the Hall. This is probably the same as Avandhyā Nāga nātha (Aundha in Survey of India maps) about 25 miles north-east of
 
 Parabhani in the Hydarabad State. Amaresa-A (on Narmada) M. 186.2;
 
-B (linga in VS) L. I. 92.37 Amaresvara-A (on m. Nişadha) Vām.
+B (linga in VS) L. I. 92.37 Amaresvara-A (on m. Niṣadha) Vām.
 
 q. by T. K. p. 236; B (under Sripar vata) L. I. 92.151; C NM 1535, Raj. I. 267 (yātrā to famous cave of Ama ranātha where Siva is worshipped in linga-shaped ice-block. This pilgri mage is now most popular in Kaśmīra. Ain. A. vol. II. p. 360 describes it and states that from New Moon the image increases in size for 15 days
 
 and decreases with waning moon) Ambājanma (to east of Saraka) V. 83,
 
-81 (it is Näradatirtha) Ambarīşeśvara-(under VS) L.q. by T.
+81 (it is Nāradatirtha) Ambarīṣeśvara-(under VS) L.q. by T.
 
 K. p. 118 Ambikatirtha-L. I. 92.166 Ambikāvana-(on r. Sarasvati). Bh. X,
 
@@ -445,7 +445,7 @@ Vām. 34. 7 Amobaka-(under Narmada) M. 191.
 
 105, P. I. 18. 96-99 (Tapesvara was so called and there were boulders
 
-as big as elephants) Amrätakeśvara-(under VS) M. 22.51,
+as big as elephants) Amrātakeśvara-(under VS) M. 22.51,
 
 181.28, Ag. 112. 3 Amsumati-(r.). Rg. VIII. 96. 13-15
 
@@ -455,7 +455,7 @@ Rām. II. 55. 6 (near Yamuna). Ananda--Vide under Nanditata. Anandapura-(under V
 
 P. I. 37. 18. Ananta-a Vaisnava-ksetra acc. to
 
-Bärhaspatyasūtra III. 120, Br II.
+Bārhaspatyasūtra III. 120, Br II.
 
 13.58. Anantabhavana, or Anantahradne HC X. 253,256 (now called Ananta nāga, about one krosa from Maday oriental
 
@@ -485,7 +485,7 @@ in Kasmira. SM p. 178 Anantasayana-(Padmanabha in Tra
 
 vancore) P. VI. 110.8. VI. 280. 19 Anantatirtha-(under Mathura). Var.
 
-155. 1 Anaraka--A (under Kuruksetra) Vam. 41. 22-24; B (under Narmada) M. 193. 1-3, K. II. 41. 91-92; C (to the west of Yamuna) also called Dhar marājatirtha-K.I. 39.5, P.I. 27.56 Anarakešvara-(under VS) L. q. by T.
+155. 1 Anaraka--A (under Kuruksetra) Vam. 41. 22-24; B (under Narmada) M. 193. 1-3, K. II. 41. 91-92; C (to the west of Yamuna) also called Dhar marājatirtha-K.I. 39.5, P.I. 27.56 Anarakeśvara-(under VS) L. q. by T.
 
 K. p. 113. Anasaka-Var. 215. 89 Anasuya-linga--(north of Gopreksa,
 
@@ -501,7 +501,7 @@ p. 65. Andhona-(under Narmadā). P.I. 18,
 
 M. 22.51 Angārakunda (under VS) L. q. by T.
 
-K. p. 56 Angäravähika-M. 22.35 Angāresvara-A (under VS) L. q. by
+K. p. 56 Angāravāhika-M. 22.35 Angāresvara-A (under VS) L. q. by
 
 T. K. pp. 55 and 98; B (under Nar mada) M. 190.9, P. I. 17,6 Angārakesvara-A (under Gayā) Ag.
 
@@ -513,7 +513,7 @@ T. K. pp. 55 and 98; B (under Nar mada) M. 190.9, P. I. 17,6 Angārakesvara-A (u
 
 II. 41. 31-33, P. I. 18.50 Angirasesa (under VS) L. q. by T. K.
 
-Añjalikäsrama--Anu, 25. 52 Añjana (a m. near Brahmagiri, under
+Añjalikāsrama--Anu, 25. 52 Añjana (a m. near Brahmagiri, under
 
 Go.) B. 84. 2. Vide under Pai Sacatīrtha; Br. S. 14.5 says Anjana
 
@@ -533,7 +533,7 @@ and Yamuna) SK. I. 1.17. 274-275 (where brahmabatyā due to the
 
 killing of Vrtra fell) Antasila (r. rising in Vindhya) Va.
 
-45. 103 Antikesvara (under VS) N. II. 49.6-9 Anūpā (r. rising from Rkşavat m.) Br.
+45. 103 Antikesvara (under VS) N. II. 49.6-9 Anūpā (r. rising from Rkṣavat m.) Br.
 
 II. 16.28 Anyataḥ-plaksa-name of a lotus lake
 
@@ -575,7 +575,7 @@ Govardhana) Var. 164. 19 Apsaresa-(under Narmada) M. 194.16,
 
 P. I. 21.16, K. II. 42.24 Apsaroyugasangama--(under Go) B.
 
-147.1 Arantuka-a dvärapala. V. 83. 52
+147.1 Arantuka-a dvārapala. V. 83. 52
 
 (vide p. 683 note 1551). Aravinda-(a h. under Gaya). Vā. 109.
 
@@ -605,27 +605,27 @@ K. p. 249. Prof. K. V. R. Aiyangar (T. K. p. 283 ) following Dey p. 11
 
 holds it identical with Bābuda, but the passage from Devala (on T. K. p. 249) shows that Arjuniya and
 
-Bahudā are separately enumerated Arkaksetra--same as Konärka Arkasthala-kunda (under Mathura)
+Bahudā are separately enumerated Arkaksetra--same as Konārka Arkasthala-kunda (under Mathura)
 
 Var. 157.11, 160.20 Ārsabha-see under Rsabha Arstisenāsrama---Anu. 25. 55 Aruna-sarasvatisangama--three miles
 
-to the north-east of Prthudaka-P. I. 27. 39, Sal. 43.30-31 and 42, Väm. 40.43 Aruna--(m. on the other or west side
+to the north-east of Prthudaka-P. I. 27. 39, Sal. 43.30-31 and 42, Vām. 40.43 Aruna--(m. on the other or west side
 
 of Kailasa where Bhava dwells) Va. 47. 17-18, Br. II. 18.18 Aruna-A. (r. between Sarasvati and
 
-Drsadvati near Pethüdaka) Sal. 43. 30-35. Sarasvati joined itself to Aruņā to cleanse the räksasas of sins and Indra of brāhmana murder; B, (a branch of the Kausiki) V.84.156 ; vide Journal of A.S. of Bengal, vol. 17 pp.646-649 on the seven Kosis in Nepal of which the Arunā is the most important; C. (under Go.) B. 89. 1, P. VI. 176. 59. Vide. Bom. G.
+Drsadvati near Pethüdaka) Sal. 43. 30-35. Sarasvati joined itself to Aruṇā to cleanse the rāksasas of sins and Indra of brāhmana murder; B, (a branch of the Kausiki) V.84.156 ; vide Journal of A.S. of Bengal, vol. 17 pp.646-649 on the seven Kosis in Nepal of which the Arunā is the most important; C. (under Go.) B. 89. 1, P. VI. 176. 59. Vide. Bom. G.
 
 vol. XVI p. 463 for Arunā stream, Arunā-varunā-sangama--( under Gau
 
-tami) B. 89.1 and P. VI. 176. 59 Arundhati-vata--V. 84.41, P. I. 32. 6 Arunisa--(under VS) L. q. by T. K. p. 60 Aryävarta-The Amarakosa speaks of
+tami) B. 89.1 and P. VI. 176. 59 Arundhati-vata--V. 84.41, P. I. 32. 6 Arunisa--(under VS) L. q. by T. K. p. 60 Aryāvarta-The Amarakosa speaks of
 
 it as the holy land (punyabhūmi) between the Himavat and Vindhya mountains. Vide H. of Dh. vol. II. pp. 11-16 for detailed discussion of the extent of Aryavarta according to
 
-different works and at different times Aşadha-linga (under VS ) L. q. by
+different works and at different times Aṣadha-linga (under VS ) L. q. by
 
 T. K. p. 93 Āsādhitirtha-(under Narmada) M.194.
 
-30 Ašalinga--(under Sriparvata) L. 1922
+30 Aśalinga--(under Sriparvata) L. 1922
 
 148. Asi-(r. under Banaras) also called
 
@@ -669,7 +669,7 @@ Asvinos-tirtha-(under Kuruksetra) V. Asitagiri-(where yogācārya Asita
 
 83.17, P. I. 26. 15 (same words as dwelt) Br. III. 13.39
 
-in V). Ašmanyati-- (r). Rg. X. 53. 8. The Asvisvara-(under VS) L. q. by T. K
+in V). Aśmanyati-- (r). Rg. X. 53. 8. The Asvisvara-(under VS) L. q. by T. K
 
 Asv. gr. (I. 8. 2-3) provides that the
 
@@ -689,9 +689,9 @@ Atri's asrama-(after Citrakūta) Rām Gayā, even now called Pretasila).
 
 II, 117,5 Anu. 25. 42
 
-Atriśvara-(under VS) L. q. by T, K. Asokatirtha-(near Sürpäraka) V. 88.
+Atriśvara-(under VS) L. q. by T, K. Asokatirtha-(near Sürpāraka) V. 88.
 
-Attahäsa-A (m. in Himalayas) Vā. Astamana--(under Mathura) Var. q. 23. 191; B (a tirtha sacred to pitrs)
+Attahāsa-A (m. in Himalayas) Vā. Astamana--(under Mathura) Var. q. 23. 191; B (a tirtha sacred to pitrs)
 
 by T. K. p. 191
 
@@ -705,7 +705,7 @@ Audyānakatirtha-P. I. 38.68 27.62. It is to the west of Thānesvara and south o
 
 Aujasa-(under Kuruksetra) V. Dh, S. bodies of the warriors slain in the
 
-85. 52, Vām. 22.51 and 57.51 Bhärata war were collected and cre- Aupamanyava-(under VS) L. q. by mated. Vide A. S. R. vol. 14 pp. 36 T . K. p. 97 ,106 and A. G. p. 336 where it is Ausaja--A-V.D.S.85.52 (Sürpāraka, mentioned that Hiouen Thsang was acc. to com. Vaijayanti Jolly (SBE, shown bones of very large size,
+85. 52, Vām. 22.51 and 57.51 Bhārata war were collected and cre- Aupamanyava-(under VS) L. q. by mated. Vide A. S. R. vol. 14 pp. 36 T . K. p. 97 ,106 and A. G. p. 336 where it is Ausaja--A-V.D.S.85.52 (Sürpāraka, mentioned that Hiouen Thsang was acc. to com. Vaijayanti Jolly (SBE, shown bones of very large size,
 
 vol. 7. p. 259 gives a ferent read Asurisvara-(under VS) L. q. by T.K.
 
@@ -733,17 +733,17 @@ History of Dharmaśāstra
 
 Ausanasa-(an eminent tirtha on Sara-
 
-svati) same as Kapalamocana. V. 83.135, M. 22.31, Sal. 39.4 and 16 22, P. I. 27. 24-26, Vām, 39.1 and 14 (where Ušanas got sidhhi and be
+svati) same as Kapalamocana. V. 83.135, M. 22.31, Sal. 39.4 and 16 22, P. I. 27. 24-26, Vām, 39.1 and 14 (where Uśanas got sidhhi and be
 
 came planet Venus), 42.24inder Ausiraparvata-Va. 77.29 Avadhūta-(under VS) L. q. by T. K.
 
 p. 93 Avakirna-(under Kuruksetra and
 
-Sarasvati) Vām. 39. 24-35 (story of Baka Dalbhya who begged of Dhrta- rästra and when condemned by the latter made the whole of Dhrtaras tra's country an ahuti in Prthudaka), Sal. 41.1, P. I. 27. 41-45 (where it is Darbhin who is mentioned as
+Sarasvati) Vām. 39. 24-35 (story of Baka Dalbhya who begged of Dhrta- rāstra and when condemned by the latter made the whole of Dhrtaras tra's country an ahuti in Prthudaka), Sal. 41.1, P. I. 27. 41-45 (where it is Darbhin who is mentioned as
 
 bringing the four seas) Avanti-A (country of which Ujjayini
 
-was capital) Pan IV. 1.176 ('stri yām-avanti-kunti-kurubhyas-ca)'. Raghuvamsa VI. 32; S 31.10 (Vin danuvindāvāvantyau), Udyoga 166.6 (same words as in S); B Avanti (river starting from m. Pāriyātra) Vā. 45.98, M. 114.24, Br. II. 16.29; C (the capital of Malava, Ujjayini) B. 43.24, Ag. 109. 24 (Avanti paramam tirtham), N. II. 78. 35-36 (several names such as Visalā, Amarāvati, Kusasthali, Kanakasrngā, Padmävati, Kumudvati, Ujjayini). Vide also L. I. 92.7-8 and B. 194.19 (Sandi pani, teacher of Krsna, dwelt in Avantipura). The Meghadūta (I. 30) speaks of Ujjayini as Visala; Kāśikhanda 7.92 'pāpād-avanti sa visvam-avantiti nigadyate yuge yugesnyanāmnī kalavujjayaniti call).
+was capital) Pan IV. 1.176 ('stri yām-avanti-kunti-kurubhyas-ca)'. Raghuvamsa VI. 32; S 31.10 (Vin danuvindāvāvantyau), Udyoga 166.6 (same words as in S); B Avanti (river starting from m. Pāriyātra) Vā. 45.98, M. 114.24, Br. II. 16.29; C (the capital of Malava, Ujjayini) B. 43.24, Ag. 109. 24 (Avanti paramam tirtham), N. II. 78. 35-36 (several names such as Visalā, Amarāvati, Kusasthali, Kanakasrngā, Padmāvati, Kumudvati, Ujjayini). Vide also L. I. 92.7-8 and B. 194.19 (Sandi pani, teacher of Krsna, dwelt in Avantipura). The Meghadūta (I. 30) speaks of Ujjayini as Visala; Kāśikhanda 7.92 'pāpād-avanti sa visvam-avantiti nigadyate yuge yugesnyanāmnī kalavujjayaniti call).
 
 Vide under Mahakala Avatoda-(r.) Bh. V. 19.18 Avighnatirtha-(on north bank of Go.)
 
@@ -755,7 +755,7 @@ B. 114.25 Avimukta-(same as Kasi) v. 84.79-
 
 Ayodhya_ (in Fyzabad District in
 
-U.P.) on the Ghāgrā. One of the seven holy cities (vide p. 678n above). It is also a place of pilgrimage for Jains, as some of their saints were born there. Atharvaveda X. 2. 31 and Tai, A. 1. 27.2 (astācakrā nava dvārā devānām pūr-Ayodhyāl tasyām hiranyayah kośab svargo loko Jyoti sāvrtah ), V 60. 24-25 and 70. 2 (capital of king Rtuparna and of Rāma), Br. IV. 40. 91, Ag. 109. 24 (Ayodhyā pāpanāšani). According to Rām. 1. 5. 5-7 the country of Kosala had Sarayū flowing through it; Ayodhyā, 12 yojanas long and three broad, was Kosala capital founded by Manu. Kosala was one of the 16 mahajanapadas of India in ancient times (vide Anguttara Nikāya, vol. IV. p. 252). Later on, Kosala was divided into two, viz. Uttara Kosala and Daksina Kosala divided by the Sarjū or Ghāgrā river, The Raghu vamsa holds Ayodhyā to be capital of Uttarakosala (VI. 71 and IX. 1). Vide also Vā 88. 20 ff. for a long line of kings of Ayodhyā from Iksvāku and P. VI. 208. 46-47 (for Dakşina Kosala and Uttara Kosala). Saketa is generally identified with Ayodhyā. Vide T.P. p. 496 (gives its boundaries from SK) and under Saketa. Dr. B. C. Law contributes a well-documented and learned paper on 'Ayodhya' to J. of the Ganganath
+U.P.) on the Ghāgrā. One of the seven holy cities (vide p. 678n above). It is also a place of pilgrimage for Jains, as some of their saints were born there. Atharvaveda X. 2. 31 and Tai, A. 1. 27.2 (astācakrā nava dvārā devānām pūr-Ayodhyāl tasyām hiranyayah kośab svargo loko Jyoti sāvrtah ), V 60. 24-25 and 70. 2 (capital of king Rtuparna and of Rāma), Br. IV. 40. 91, Ag. 109. 24 (Ayodhyā pāpanāśani). According to Rām. 1. 5. 5-7 the country of Kosala had Sarayū flowing through it; Ayodhyā, 12 yojanas long and three broad, was Kosala capital founded by Manu. Kosala was one of the 16 mahajanapadas of India in ancient times (vide Anguttara Nikāya, vol. IV. p. 252). Later on, Kosala was divided into two, viz. Uttara Kosala and Daksina Kosala divided by the Sarjū or Ghāgrā river, The Raghu vamsa holds Ayodhyā to be capital of Uttarakosala (VI. 71 and IX. 1). Vide also Vā 88. 20 ff. for a long line of kings of Ayodhyā from Iksvāku and P. VI. 208. 46-47 (for Dakṣina Kosala and Uttara Kosala). Saketa is generally identified with Ayodhyā. Vide T.P. p. 496 (gives its boundaries from SK) and under Saketa. Dr. B. C. Law contributes a well-documented and learned paper on 'Ayodhya' to J. of the Ganganath
 
 Jha. R. Society, vol. I. pp. 423-443 Ayogasiddhi-(under VS) L. q. by T.
 
@@ -767,7 +767,7 @@ K. p. 98 Ayonisangama-(under Narmada) P.I.
 
 falls into the sea) SK I. 2. 13. 107 Badarī-(a holy place on Gandha
 
-mädana where there was the berme tage of Nara and Narayana) V. 90/2620 32,141.23, 177.8, Santi 127.2-3, BW. IX. 3.36 and XI, 29.41 (Narayan
+mādana where there was the berme tage of Nara and Narayana) V. 90/2620 32,141.23, 177.8, Santi 127.2-3, BW. IX. 3.36 and XI, 29.41 (Narayan
 
 வா
 
@@ -809,7 +809,7 @@ the Alakananda. Badarikā-A. Vām. 2. 42-43; B. (near Mahendra m.), P.1.39. 13, 
 
 Dantidurga (pp. 25, 29) Badarikasrama--A. (Badrinath in
 
-Garhwal, U. P.) Var. 141 (7 verses from it are quoted in T. K. pp. 215- 216); Parasarasmrti 1.5 states that Parāśara, father of Vyäsa, resided in this āśrama; M. 261. 24 says Mitra and Varuna practised tapas here; Vi. V. 37. 34 (this asrama was on Gandhamādana and was the abode of Nara-Nārāyana), Br. III. 25. 67 (same as in Vi); N. II. 67 (describes it at length and specifies the sub- tirthas); N. II. 67. 26 (says it is on Viśālā river); Bh. VII. 11.6; B (at a short distance from Madhuvana on
+Garhwal, U. P.) Var. 141 (7 verses from it are quoted in T. K. pp. 215- 216); Parasarasmrti 1.5 states that Parāśara, father of Vyāsa, resided in this āśrama; M. 261. 24 says Mitra and Varuna practised tapas here; Vi. V. 37. 34 (this asrama was on Gandhamādana and was the abode of Nara-Nārāyana), Br. III. 25. 67 (same as in Vi); N. II. 67 (describes it at length and specifies the sub- tirthas); N. II. 67. 26 (says it is on Viśālā river); Bh. VII. 11.6; B (at a short distance from Madhuvana on
 
 Yamuna) P VI. 212. 1 and 43. Badarivana-P. I. 27. 66 Badaripācana-tirtha--V. 83, 179, Sal.
 
@@ -819,7 +819,7 @@ had his asrama bere). Bagala-(a Devisthāna ). Vide under
 
 Vaidyanatha. Bahudá-la river near Sarasvati). Anu.
 
-165, 27, P.I. 32.31, N. II. 60.30, B. 27.26, M. 114.22 and Vā. 45.95 (say it rises in Himavat). V. 84. 67 and 87,27. Vide Dey. p. 16 for differing views on identification, and Pargiter (pp. 291-292 note); Va. 88.66 states that Yuvanäsva cursed his wife Gauri who became Bahuda. Ama. rakośa gives Saitavābini asa synonym of Bahuda and Kşirasvāmin com ments that it was brought down by Kārtavīrya (who was called Bahuda, one who donated much).
+165, 27, P.I. 32.31, N. II. 60.30, B. 27.26, M. 114.22 and Vā. 45.95 (say it rises in Himavat). V. 84. 67 and 87,27. Vide Dey. p. 16 for differing views on identification, and Pargiter (pp. 291-292 note); Va. 88.66 states that Yuvanāsva cursed his wife Gauri who became Bahuda. Ama. rakośa gives Saitavābini asa synonym of Bahuda and Kṣirasvāmin com ments that it was brought down by Kārtavīrya (who was called Bahuda, one who donated much).
 
 Balapa or Balapendra_lonb
 
@@ -843,7 +843,7 @@ khanda 33. 139, L. q. by T. K. p. 48 Banjula--(probably same as Vanjula.
 
 which see) Br. II, 16.31 (Bañjula from Rksa), Br. II. 16. 34 (B. from Sahya), Br. II. 16. 37 (B. from
 
-Mahendra) Bärhaspatya-tīrtha--(under Go.) B.
+Mahendra) Bārhaspatya-tīrtha--(under Go.) B.
 
 122. 101 Bhadra-A (one of the four branches
 
@@ -877,7 +877,7 @@ Bhadrakāleśvara- (srāddha here leads Bhānutirtha--(under Go.) B. 138. 1,
 
 to highest goal) M. 22. 74
 
-168.1 Bhadrakäli-Acc. to Bar. S. III. 128 Bharabhūtesvara-(under VS) L. g.
+168.1 Bhadrakāli-Acc. to Bar. S. III. 128 Bharabhūtesvara-(under VS) L. g.
 
 she dwells on Vindhya
 
@@ -887,11 +887,11 @@ T. K. p. 87
 
 Bhārabhūti --(under Narmada) M. 194.
 
-18, K. II. 42.25, P. I. 21.18 Bhadrakarņahrada--Ag. 109.17
+18, K. II. 42.25, P. I. 21.18 Bhadrakarṇahrada--Ag. 109.17
 
 Bharadvājāsrama-Ram. II. 54. 9-10, Bhadrakarneśvara-(a fit place for
 
-VI. 127. 1 and 17, V 102.5-6. Vide sräddha) V. 84.39, K.II. 20. 35, SK
+VI. 127. 1 and 17, V 102.5-6. Vide srāddha) V. 84.39, K.II. 20. 35, SK
 
 Citrakūtagiri. For a discussion of VII. 1. Arbuda-khanda-chap. 8,
 
@@ -937,7 +937,7 @@ my and the Periplus call it Bary. Bhairaveśvara-(under VS) L. I. 92. gaza. It w
 
 137
 
-Bhrgu-kaccha also (the latter in SK, Bhandahrada (under Mathura)-Var. Kašikhanda 6.25). A Valabhi cop
+Bhrgu-kaccha also (the latter in SK, Bhandahrada (under Mathura)-Var. Kaśikhanda 6.25). A Valabhi cop
 
 157. 10
 
@@ -975,17 +975,17 @@ Bhasmakūtādri-(under Gaya) Vā. 109. Bhimeśvara--(tirtha sacred to Pitrs
 
 15
 
-under Narmadā) M. 22, 46 and 75, Bhāskarakşetra-(Konarka) Mit. on 191.5, K. II. 41. 20 and II. 44.15,
+under Narmadā) M. 22, 46 and 75, Bhāskarakṣetra-(Konarka) Mit. on 191.5, K. II. 41. 20 and II. 44.15,
 
-Yaj.III.17 quotes a verse 'Gangāyām P. I. 18.5 Bhāskarakşetre &c.' (q. on p. 574 Bhismacandika--(under VS) M 183. 62 above); T. C. p. 16 and Prayascitta- Bhişmesvara--(under VS) L. q. by tattva (p. 493) say that Prayaga is T. K. p. 66 Bhaskaraksetra, while T.S. p. 20 says Bhogavati or Väsukitirtha--A (under it is Konäditya or Konārka. This is Prayāga). It is called the altar of the correct view. M. 111. 13 and K. Prajāpati; V. 85.77 (tirtham Bhoga I. 36. 20 say 'Prayāga is Prajāpati- vati caiva vedir-esa Prajāpateb), M. ksetra.' Vide p. 574 above, Dey p. 32
+Yaj.III.17 quotes a verse 'Gangāyām P. I. 18.5 Bhāskarakṣetre &c.' (q. on p. 574 Bhismacandika--(under VS) M 183. 62 above); T. C. p. 16 and Prayascitta- Bhiṣmesvara--(under VS) L. q. by tattva (p. 493) say that Prayaga is T. K. p. 66 Bhaskaraksetra, while T.S. p. 20 says Bhogavati or Vāsukitirtha--A (under it is Konāditya or Konārka. This is Prayāga). It is called the altar of the correct view. M. 111. 13 and K. Prajāpati; V. 85.77 (tirtham Bhoga I. 36. 20 say 'Prayāga is Prajāpati- vati caiva vedir-esa Prajāpateb), M. ksetra.' Vide p. 574 above, Dey p. 32
 
 106.46 and 110. 8, Ag. 111.5, N. II. simply follows Prāyascittatattva
 
-63.95; B capital of Kakustha of the Bbāvatirtha-(under Go.) B. 153.1 Ikşvāku race; Kal. 50.4 Bhedadevi-(near Gangodbheda)-the Bhrgu-asrama (on the north bank of
+63.95; B capital of Kakustha of the Bbāvatirtha-(under Go.) B. 153.1 Ikṣvāku race; Kal. 50.4 Bhedadevi-(near Gangodbheda)-the Bhrgu-asrama (on the north bank of
 
 modern Budabror, west of Srinagara,
 
-Narmada) SK I.2.3.2-6 in Kašmira; NM 1522
+Narmada) SK I.2.3.2-6 in Kaśmira; NM 1522
 
 Bhrgukaccha--(on the north bank of Bhedagiri-(sanctified by the Gangod- Narmada), vide under Bharukaccha.
 
@@ -993,7 +993,7 @@ bheda spring) R. I. 35, SM. pp. 186
 
 Here Bali performed Asvamedha; 187 BSD do
 
-Bh. VIII, 18,2 Bhillatirtha--(on south bank of Go.) Bhrgukunda-(under Stutasvämin)
+Bh. VIII, 18,2 Bhillatirtha--(on south bank of Go.) Bhrgukunda-(under Stutasvāmin)
 
 B. 169.1
 
@@ -1005,7 +1005,7 @@ sing from Sahya m, and tributary of
 
 Dey p. 341 says it is Bheraghat con Its source is adorned by the temple
 
-taining temple of 64 Yoginis, 12 miles of Bhimāšankara, one of the twelve
+taining temple of 64 Yoginis, 12 miles of Bhimāśankara, one of the twelve
 
 to the west of Jabalpur; V. 99.34-35 Jyotir-lingas and it falls into the
 
@@ -1013,21 +1013,21 @@ to the west of Jabalpur; V. 99.34-35 Jyotir-lingas and it falls into the
 
 his energy taken away by Rāma) chur
 
-Bhrgutunga-(an asrama on a mountain Bhimädevi-(modern village Brān in
+Bhrgutunga-(an asrama on a mountain Bhimādevi-(modern village Brān in
 
 where Bhrgu practised penance). A Phak Pargana on east shore of Dal
 
-Vā. 23. 148 and 77.82, V. 84.50, 90. lake in Kašmira) R. II. 135, HC. 23, 130. 191; B V.Dh.S. 85.16, K. II. 4.47
+Vā. 23. 148 and 77.82, V. 84.50, 90. lake in Kaśmira) R. II. 135, HC. 23, 130. 191; B V.Dh.S. 85.16, K. II. 4.47
 
 20.33, M. 22.31 (a place very fit for Bhimarathi-same as Bhima. M. 22. sraddha), which is near Amarakan
 
 45, 114.29, B. 27.35, P. I. 24.32, taka acc. to Nanda Pandita and acc. Bhi. 9. 20, V. 87. 3, Vām. 13. to others in the Himalaya; C (on the 30. The Vakkaleri plate of Kirti
 
-eastern bank of the Gandak) Var. 146 varma II in sake 679 (757 A. D.) 45-46; D (in Gurjaradeśa) SK., Kāšía mentions Bhimarathi (E. I. vol. V. khanda 6. 25; E (near Vitastā and
+eastern bank of the Gandak) Var. 146 varma II in sake 679 (757 A. D.) 45-46; D (in Gurjaradeśa) SK., Kāśía mentions Bhimarathi (E. I. vol. V. khanda 6. 25; E (near Vitastā and
 
 p. 200 at p. 204)
 
-Himavat) Vām. 81. 33 bu Bhimasvämin-Rock in Kasmira worBrhaspatikunda-(under Lobārgala)
+Himavat) Vām. 81. 33 bu Bhimasvāmin-Rock in Kasmira worBrhaspatikunda-(under Lobārgala)
 
 "shipped as embodiment of Ganesa, Var.151.55
 
@@ -1073,7 +1073,7 @@ Zhelum starts) HC 12. 15-17. Vide
 
 under Nilakunda Bilvācala-A Vaisnava-ksetra acc. to
 
-Bär. S. III. 120 Bilvaka- (a very fit place for sraddha)
+Bār. S. III. 120 Bilvaka- (a very fit place for sraddha)
 
 V. Dh. S. 85.52, M. 22. 70, K. II.
 
@@ -1089,7 +1089,7 @@ tions read Bilvaka) Bindumadhava--(in VS) M. 185. 68, SK IV. 33. 148, N. II 29.6
 
 Badari) V. 145.44, Bhi. 6. 43-46, Br. II. 18, 31, M. 121. 26 and 31-32 (where Bhagiratha, Indra and Nara Nārāyana practised tapas), Bh. III. 21-33 and 39-44 (description):
 
-B (under Vs) Siva bathed in it and the kapala of Brahmä that had stuck to his hand dropped from it and it be- came Kapalamocanatirtha) N. II. 29. 59-60; C (under Ekāmraka) B. 41. 52-54 (it is so called because Rudra collected drops of water from all holy places and filled it therewith); D (in Kasmira) it is a dikpala in the east of the country, according to NM 1116-1117.
+B (under Vs) Siva bathed in it and the kapala of Brahmā that had stuck to his hand dropped from it and it be- came Kapalamocanatirtha) N. II. 29. 59-60; C (under Ekāmraka) B. 41. 52-54 (it is so called because Rudra collected drops of water from all holy places and filled it therewith); D (in Kasmira) it is a dikpala in the east of the country, according to NM 1116-1117.
 
 Bindutirtha-same as Pañcanada.
 
@@ -1103,17 +1103,17 @@ venya) T. S. p. 78 Brahmabrada-Bh. X. 28, 16-17 (pro
 
 bably used in a secondary sense).
 
-Br. III, 13, 52 Brahmakşetra--(Kuruksetra) V 83.4-6,
+Br. III, 13, 52 Brahmakṣetra--(Kuruksetra) V 83.4-6,
 
 Va 59. 106 and 107 and 97.5 Brahmakunda-A (under Badari) Var.
 
-141. 4-6; B (under Lohärgala) Var. 151.71 (where four Vedad härās fall from Himalaya); C (under Gaya) Va.
+141. 4-6; B (under Lohārgala) Var. 151.71 (where four Vedad hārās fall from Himalaya); C (under Gaya) Va.
 
 110.8 Brahmakupa-(under Gaya) Vā. 111.25
 
 and 31, Ag. 115. 37 Brahmanadi-(Sarasvati is so called)
 
-B h. IX, 16.23 Brāhmaṇakundika ---(a tirtha in Käse
+B h. IX, 16.23 Brāhmaṇakundika ---(a tirtha in Kāse
 
 mira) NM. 1499, 1501 Brahmanas-tirtha-V. 83. 113, P. I.
 
@@ -1139,7 +1139,7 @@ IV)
 
 1741
 
-Brahmapada-(under Goniskramaņa) B (under Gaya) V. 83,140 and 84.95,
+Brahmapada-(under Goniskramaṇa) B (under Gaya) V. 83,140 and 84.95,
 
 Var. 147.36
 
@@ -1147,7 +1147,7 @@ P.1. 27.29, N. II. 47.54, Va, 108.83 Brahmaputra-same as Lauhitya,which (brahmay
 
 see
 
-ched yastu mänavah param brahma Brahmaranya-(under Gaya) P. I. 38.5 sa yatila vimukto yonisankatat ). Brahmasaras-A (near Thanesar) Va. Vide AG. p. 458 which states that
+ched yastu mānavah param brahma Brahmaranya-(under Gaya) P. I. 38.5 sa yatila vimukto yonisankatat ). Brahmasaras-A (near Thanesar) Va. Vide AG. p. 458 which states that
 
 77.51, M. 22. 12. Vām. 22. 55-60 a small temple now occupies the site
 
@@ -1157,7 +1157,7 @@ saras, Rāmahrada or Pavanasaras &c.; Brahmayüpa-(under Gaya) Va. 111. B (under
 
 D (under Sanandūra) Var. 150.20 L. q. by T. K. p. 115 Brahmasiras-(under Gaya) K. II. 37. Brahmodara-Vām. 36. 7-8
 
-38, N. II, 44, 66 (there is Brahma- Brabmodaya--(to the south of Väg yüpa there)
+38, N. II, 44, 66 (there is Brahma- Brabmodaya--(to the south of Vāg yüpa there)
 
 mati) Var. 215.102 Brahmasthāna-V. 83. 71, 85.35, P. I.
 
@@ -1259,7 +1259,7 @@ M. 22.42 Cakravarta--(under Mandara) Var. 143.
 
 K. p. 52 Caksus-(r, from Himalaya, a branch of
 
-Ganga) M. 121,23, Vā. 47,21 and 39, Br. 11. 16.20, Bh. v. 17.5. Dey p. 43 holds that Cakşus is the river Oxus or Amu Daria and relies on Matsya 120-121 (of Anandasrama edition). which however does not help at all. It is strange that Dey on p. 13 also
+Ganga) M. 121,23, Vā. 47,21 and 39, Br. 11. 16.20, Bh. v. 17.5. Dey p. 43 holds that Cakṣus is the river Oxus or Amu Daria and relies on Matsya 120-121 (of Anandasrama edition). which however does not help at all. It is strange that Dey on p. 13 also
 
 smanvati is the river Oxus Caksus--tīrtha (on south bank of Go.)
 
@@ -1275,7 +1275,7 @@ der Prabhasa) Sal. 35. 87, V. 88.20 Camatkarapura--(same as Anandapura bain mode
 
 Tiver
 
-Candauegäsambheda-M. 22, 28, K.
+Candauegāsambheda-M. 22, 28, K.
 
 II. 44.16, P. VI. 131. 67 Candeśa-(under Sabhramati) P. VI.
 
@@ -1307,7 +1307,7 @@ length and breadth) Candratirtha-A (at source of Kāverī) (K. II.37.23 ; B (und
 
 14, K. I. 35.11; C (under Narmada) M. 193. 75, K. II. 42.15, Br. III.
 
-13.28 Candravaša-(r.) Bh. V. 19.18 Candravati--(c. in Kasmira) NM 310
+13.28 Candravaśa-(r.) Bh. V. 19.18 Candravati--(c. in Kasmira) NM 310
 
 (Diti became this river, as Yamunā became Vitasta) Candreśvara-A (on Candrabhāgā ri
 
@@ -1341,7 +1341,7 @@ K. p. 119 Chāyāksetra--(sacred to Lalitā) Br.
 
 IV. 44. 100 (town park of Maha
 
-laksmipura is so called) Chinnapāpakşetra-lon Go.) P. VI.
+laksmipura is so called) Chinnapāpakṣetra-lon Go.) P. VI.
 
 174. 15 Ciccikatirtha--(under Go.) B. 164.1 Cidambara-(see under Mināksi) Devī.
 
@@ -1353,7 +1353,7 @@ lithic pillars Cintāngadesvara-(under VS), P. I. 37.
 
 Ciramocanatirtha--(in Kasmira) R. I.
 
-149-150 (mentions the Kanaka vähini, Nandisa and this tīrtha to gether). It is the confluence of the Kanakavāhini and the river Sind, NM 1538-1545 (so called because the seven sages left their bark garments here and then went to heaven),
+149-150 (mentions the Kanaka vāhini, Nandisa and this tīrtha to gether). It is the confluence of the Kanakavāhini and the river Sind, NM 1538-1545 (so called because the seven sages left their bark garments here and then went to heaven),
 
 SM p. 211 Citabhūmi-(Vaidyanātha or Deoghar
 
@@ -1403,9 +1403,9 @@ prince of perfect men, Siddhirat) Dadhiceśvara-(under VS) L. q. by
 
 T. K. p. 43 Dadhikarnesvara--(under VS) L. q. by
 
-T. K. p. 94. Dakini-(Bhimäsankara) see note 1536 Daksaprayāga--N. II. 40.96-97 Daksatirtha--(under Kuruksetra) Vām. 46. 2 (to the south of Sthānuvata), Vām. 34. 20 (Daksasrama and
+T. K. p. 94. Dakini-(Bhimāsankara) see note 1536 Daksaprayāga--N. II. 40.96-97 Daksatirtha--(under Kuruksetra) Vām. 46. 2 (to the south of Sthānuvata), Vām. 34. 20 (Daksasrama and
 
-Dakşeśvara) Dakşeśvara (under VS) L. q. by T. K.
+Dakṣeśvara) Dakṣeśvara (under VS) L. q. by T. K.
 
 p. 75 Daksina-gangā-A (Godāvari in B. 77.
 
@@ -1417,11 +1417,11 @@ N. II. 45. 74, Ag. 115. 17 Daksina-Mathura-(Madura in the
 
 Madras State) Bh. X. 79. 15. Daksina-pancanada--V. Dh. S 85. 51
 
-(the com. Vaijayanti says that the five rivers are Krsnā, Venä, Tunga,
+(the com. Vaijayanti says that the five rivers are Krsnā, Venā, Tunga,
 
 Bhadra and Kona) Daksinaprayāga (known as Moksaveni
 
-in Saptagrāma in Bengal) tat Daksinaprayagam tu Gangato Yamunāssgatā | snādāt tatrākṣayam punyam Prayāga iva labhyate' quoted by Gangāvākyävali p. 296, which is itself quoted by T. P. p. 355. Dey p. 52 says that it is Triveni
+in Saptagrāma in Bengal) tat Daksinaprayagam tu Gangato Yamunāssgatā | snādāt tatrākṣayam punyam Prayāga iva labhyate' quoted by Gangāvākyāvali p. 296, which is itself quoted by T. P. p. 355. Dey p. 52 says that it is Triveni
 
 on the north of Hughly in Bengal. Daksina-sindhu-(a tributary of the
 
@@ -1467,7 +1467,7 @@ List of tirthas
 
 Khunamoh (Khonamusa), the birth. place of poet Bilbana. Vide SM
 
-p. 166. Damstrankura (under Kokämukha) Var.
+p. 166. Damstrankura (under Kokāmukha) Var.
 
 140. 68-70. Danda-V 85. 15. Dandaka (name of a territory, location
 
@@ -1475,9 +1475,9 @@ being vague and probably it means no more than Dandakāranya) Rām. II. 9. 12 (d
 
 nam Dandakan prati). Dandakaranya or Dandakavana-V. 85
 
-41, 147, 32, Var. 71. 10 (where Gautama performed tapas). B 88. 18, 10.96 (Gautami is in Dandaka). 123. 117-120 (Gautami was five yojanas from the beginning of D.). 129.55 (quintessence of the world), 161.73 (D. is the seed of dharma and of mukti). Sal. 39. 9-10 (Janas thana is in D.), Rām. II. 18. 33 and 37, III. 1.1. Vām. 84. 12 (refers to Dandakäranya brāhmanas) and :43. PV. 34. 58-59 (origin of name ). Vide my paper on the 'Ancient Geo graphy of Maharastra' in JBBRAS for 1917 at pp. 14-15 and the note and Pargiter in JRAS for 1894 on 'the Geography of Rāma's exile' p. 242. Dandakäranya probably com prised all forests from Bundelkhand or Bhopal in Central India right down to Godavari or to Krsna. Br. S. XI. 56 says that a malignant comet in Hasta naksatra kills the
+41, 147, 32, Var. 71. 10 (where Gautama performed tapas). B 88. 18, 10.96 (Gautami is in Dandaka). 123. 117-120 (Gautami was five yojanas from the beginning of D.). 129.55 (quintessence of the world), 161.73 (D. is the seed of dharma and of mukti). Sal. 39. 9-10 (Janas thana is in D.), Rām. II. 18. 33 and 37, III. 1.1. Vām. 84. 12 (refers to Dandakāranya brāhmanas) and :43. PV. 34. 58-59 (origin of name ). Vide my paper on the 'Ancient Geo graphy of Maharastra' in JBBRAS for 1917 at pp. 14-15 and the note and Pargiter in JRAS for 1894 on 'the Geography of Rāma's exile' p. 242. Dandakāranya probably com prised all forests from Bundelkhand or Bhopal in Central India right down to Godavari or to Krsna. Br. S. XI. 56 says that a malignant comet in Hasta naksatra kills the
 
-chief of Dandakäranya. Dandakhata (under VS) L. q. by T. K,
+chief of Dandakāranya. Dandakhata (under VS) L. q. by T. K,
 
 p. 90. Dandisvara (under VS) L. q. by T. K.
 
@@ -1485,7 +1485,7 @@ p. 90. Dardura or Durdura (Nilgiri Hills) V.
 
 282. 43, Mār. 54. 12. Var. 214, 52, Raghuvamsa. IV. 51 (near river
 
-Tämraparni). Br. S. 14. 11. Däravana-K. 11. 39. 66; same as
+Tāmraparni). Br. S. 14. 11. Dāravana-K. 11. 39. 66; same as
 
 Devadāruvana, which see. Darvisankramana-V. 84.45,P. I. 32.9. Dasakan yatirtha--(under Narmada) P.
 
@@ -1493,9 +1493,9 @@ Devadāruvana, which see. Darvisankramana-V. 84.45,P. I. 32.9. Dasakan yatirtha-
 
 H, D. 94
 
-Dasārņā---(r. rising in m. Rksa, on
+Dasārṇā---(r. rising in m. Rksa, on
 
-which sraddha, japa, dāna most efficacious) M. 22. 34, K. II. 37, 35 36, Vā. 45. 99, 77. 93. Wilson (vol. II. p. 155) says that it is now called Dasad, which rises in Bhopal and falls into the Betwa. Mbh, cites Vārtikas 7 and 8 on Pan. VI. 1.89 which explain the formation (vol. III. P. 69). Dasarna is a word meaning a country having ten forts or 'a river (Daśārnā) having ten waters. The Vārtikas are "pra-vat satara-kambalavasanānäm carne' and 'rnadasabhyam ca'. Meghaduta I. 23-24 show that the capital of the Dasārna country was Vidišā (modern Bhilsā) and the Vetravati (Betwa river) was near it. It is the Dosaron of Ptolemy (p. 71). Br. S. 10. 15 says that Saturn in Uttarāsādha
+which sraddha, japa, dāna most efficacious) M. 22. 34, K. II. 37, 35 36, Vā. 45. 99, 77. 93. Wilson (vol. II. p. 155) says that it is now called Dasad, which rises in Bhopal and falls into the Betwa. Mbh, cites Vārtikas 7 and 8 on Pan. VI. 1.89 which explain the formation (vol. III. P. 69). Dasarna is a word meaning a country having ten forts or 'a river (Daśārnā) having ten waters. The Vārtikas are "pra-vat satara-kambalavasanānām carne' and 'rnadasabhyam ca'. Meghaduta I. 23-24 show that the capital of the Dasārna country was Vidiśā (modern Bhilsā) and the Vetravati (Betwa river) was near it. It is the Dosaron of Ptolemy (p. 71). Br. S. 10. 15 says that Saturn in Uttarāsādha
 
 destroys Dasarnas. Dasāśvamedhika or-medhaka
 
@@ -1507,7 +1507,7 @@ T. K. p. 113. Daurvāsika--(under VS) K. I. 35. 11. Devadaruvana-A (in the Himal
 
 near Badrinath) Anu. 25. 27, K. II. 37.53-60, II. 39. 18 and 66, M. 13. 47 (Devi is called Pusti here): B (Aundha in the Nizam's dominions) P. VI. 129. 27: C (near Vijayleśvara
 
-in Kasmira) HC. 10.3.1 Devägama-(under Go.) B),"160/1 Devagiri-(a hill under Mathuraj Var.
+in Kasmira) HC. 10.3.1 Devāgama-(under Go.) B),"160/1 Devagiri-(a hill under Mathuraj Var.
 
 164. 27. Bh. V. 19. 16 Research Institute
 
@@ -1521,7 +1521,7 @@ History of Dharmasastra
 
 Devahrada --A (under Gandaki) Var. 1.145. 71, Anu. 25. 44; B (under
 
-Krsna-Venä) V. 85.37 Devabradā--(r. in Kasmira) NM 146. Devakūta-(sacred m.) v. 84. 141,
+Krsna-Venā) V. 85.37 Devabradā--(r. in Kasmira) NM 146. Devakūta-(sacred m.) v. 84. 141,
 
 P. I. 38. 57. Devalesvara-(under VS) L. q. by
 
@@ -1537,7 +1537,7 @@ Alakananda above (it is confluence of Bhagirathi and Alakananda); vide U.P. Gaze
 
 Va. 47. 11 (devāranyam visokam
 
-ca tasya tire) Devasala-(Vişnu is worshipped under name of Trivikrama here) Nr. 65. 15
+ca tasya tire) Devasala-(Viṣnu is worshipped under name of Trivikrama here) Nr. 65. 15
 
 15 q. by T. K. p. 252 Devatirtha-A on north bank of Go.)
 
@@ -1545,23 +1545,23 @@ B. 127.1; B (under Narmada) M 191. 24, 193. 81, K. II. 42. 16, P. I.
 
 18. 24; C (under Sabhramati) P.
 
-• VI. 161. 1 Devesa--(under VS) P. I. 37.9 Devešvara--(under Vs) L. q. by T. K.
+• VI. 161. 1 Devesa--(under VS) P. I. 37.9 Deveśvara--(under Vs) L. q. by T. K.
 
 p. 65 Devika-A (r. rising in Himalaya and
 
 being after Sindhu ,and Pañcanada and before Sarasvati) V.82. 102-107, 222. 22 (4 yojanas in length and one-half yojana in breadth),B 27.27. Vā. 45. 95. Anu, 166. 19, Vām, 81.5. The Vi. IV. 24. 69 says that
 
-• Vrätyas, Mlecchas and sudras will a rule over the banks of the Sindhu,
+• Vrātyas, Mlecchas and sudras will a rule over the banks of the Sindhu,
 
-Dāvikorvi, Candrabbäga and Käs dira. Here Dāvikorvi' means *as Sridhara says, the country on the Devikā; B (r. that joins Gandaki) Var. 144. 83, 112-13 (Devika nama devānām prabhāvāc- ca tapasyatām. 1 oiyamārthā samu.
+Dāvikorvi, Candrabbāga and Kās dira. Here Dāvikorvi' means *as Sridhara says, the country on the Devikā; B (r. that joins Gandaki) Var. 144. 83, 112-13 (Devika nama devānām prabhāvāc- ca tapasyatām. 1 oiyamārthā samu.
 
-dbhūtā Gandakya militā subha), Var. 214. 48; C (under Gaya ) Va. 112. 30, 77. 41 (Vrsa küpa for sraddha on). Br. III. 13. 41. Anu. 25. 21 and 165. 19, K. II. 37. 25, P. I. 25. 9-14, N. II. 47. 27, Vi. II. 15. 6. Vām. 78. 37-all these extol Devika, but it is not clear what river is meant. NM 152 153 say that it is holy like Irāvati, is identified with Umā and located in Madra i.e. between Rāviand Chenab, Pan. (VII.3.1) expressly mentions the river Devikā and the Mbh. thereon gives the illustration 'Dāvikakulah sälayah' (paddy grown on the banks of the Devika is so called). Panini probably mentions some river in the Panjab. Dey p. 55 says that the southern portion of Sarayü is called Devika or Devā. Vām. 84. 12 refers to Devikatirtha brāhmanas, SK. VII Prabhasa-mahatmya, chap. 278. 66 67 speak of Mülasthana (modern Multan) as situated on the Devika : P. I, 25. 9-14 (5 yojanas long and
+dbhūtā Gandakya militā subha), Var. 214. 48; C (under Gaya ) Va. 112. 30, 77. 41 (Vrsa küpa for sraddha on). Br. III. 13. 41. Anu. 25. 21 and 165. 19, K. II. 37. 25, P. I. 25. 9-14, N. II. 47. 27, Vi. II. 15. 6. Vām. 78. 37-all these extol Devika, but it is not clear what river is meant. NM 152 153 say that it is holy like Irāvati, is identified with Umā and located in Madra i.e. between Rāviand Chenab, Pan. (VII.3.1) expressly mentions the river Devikā and the Mbh. thereon gives the illustration 'Dāvikakulah sālayah' (paddy grown on the banks of the Devika is so called). Panini probably mentions some river in the Panjab. Dey p. 55 says that the southern portion of Sarayü is called Devika or Devā. Vām. 84. 12 refers to Devikatirtha brāhmanas, SK. VII Prabhasa-mahatmya, chap. 278. 66 67 speak of Mülasthana (modern Multan) as situated on the Devika : P. I, 25. 9-14 (5 yojanas long and
 
 yojana wide). In Vi. II. 15. 6 the city called Viranagara is said to be situated on the bank of the Devika and as founded by Pulastya. Devika is not Sarayü, as in the Anu. 165. 19 and 21 they two are separ ately named. Br. S. 11. 35 says that a certain malignant Ketu would strike down even Devika in the north. Pargiter (tr. of Mar, p. 292) identified it with the river Deeg or Degh in the Punjab, Dr. V. S. Agtawala with the Vular lake in Kashmir (J.U.P.H. S. vol. 16 pp. 21-22) and Mr. Jagannātha (in J. U. P.H.S. vol. 17 part 2 p. 78 supports Pargiter. With respect I agree with Mr. Jagannatha. Devikātaţa-(Devi is called Nandia
 
 here) M. 13. 38 Devipithas-eight are enumerated IT
 
-Kälikäpurana 64, 89-91
+Kālikāpurana 64, 89-91
 
 Bhandarkar Oriental
 
@@ -1585,7 +1585,7 @@ Devikūta-Kal. 18. 41, where the feet
 
 of Sati's corpse fell o Devisthana-Devi-Bhagavata VII. 38.
 
-5-30 (enumerate numerous Devi sthädas such as Kolāpura, Tulajāpura,
+5-30 (enumerate numerous Devi sthādas such as Kolāpura, Tulajāpura,
 
 Saptasrnga). The Matsya (13.26-54)
 
@@ -1593,7 +1593,7 @@ Saptasrnga). The Matsya (13.26-54)
 
 Nr. 66. 33. Dhanvatirüpā---.rising in Pariyātra
 
-m.) M. 114. 24. Dhanyatirtha-(under Gomati) B 120.1 Dbärā--(r.) P. I. 28.26, M. 22:38 Dharanitirtha--(sräddha most effica
+m.) M. 114. 24. Dhanyatirtha-(under Gomati) B 120.1 Dbārā--(r.) P. I. 28.26, M. 22:38 Dharanitirtha--(srāddha most effica
 
 cious bere) M. 22.70. Dhārāpatanaka-tirtha (under Matbura)
 
@@ -1611,9 +1611,9 @@ bank of Jumnā near Prayaga) M. 108
 
 27, P. I. 45.27 Dharmāranya--(under Gaya) V. 82.46,
 
-Anu. 166. 28-29, Va. 111.23, Vām. 84.12 (brahmanas of Dharmaranya), Ag. 115.34, N. II. 45. 100; vide, Dr. Barua on 'Gaya and Buddhagaya' vol. I. pp. 16-17 for the view that it is part at least of the precincts of the Bodhgayā temple representing the jungle of Uruvela or Uruvilvā of Buddhist Literature. Rām. I 32.7 "states that Dharmäranya was found
+Anu. 166. 28-29, Va. 111.23, Vām. 84.12 (brahmanas of Dharmaranya), Ag. 115.34, N. II. 45. 100; vide, Dr. Barua on 'Gaya and Buddhagaya' vol. I. pp. 16-17 for the view that it is part at least of the precincts of the Bodhgayā temple representing the jungle of Uruvela or Uruvilvā of Buddhist Literature. Rām. I 32.7 "states that Dharmāranya was found
 
-ed by Asurtarajas, a son of Kusa, son of Brahma; vide p.661 about Gaya; B (near Mahäkäla) P. I. 12. 6-8; Br. S. 14. 2 mentions it, but location is un.
+ed by Asurtarajas, a son of Kusa, son of Brahma; vide p.661 about Gaya; B (near Mahākāla) P. I. 12. 6-8; Br. S. 14. 2 mentions it, but location is un.
 
 Dharmasastresvara--(under VS) SK.IV.
 
@@ -1629,9 +1629,9 @@ Sabhramati) P. VI. 135. 16 - Dharmesvara-A (under VS) L. q. by - T. K. p. 53; B 
 
 45. 103, Vã. 11. 26 Dharmodbhava-(under Kokamukha)
 
-Var. 140. 44-46 Dhautapapa--vide Pāpapraņāšana Dhautapapa--(r. rising in Himalaya)
+Var. 140. 44-46 Dhautapapa--vide Pāpapraṇāśana Dhautapapa--(r. rising in Himalaya)
 
-M 114.22 Dhautapäpeśvara--linga (under VS) SK
+M 114.22 Dhautapāpeśvara--linga (under VS) SK
 
 IV. 33. 156 Dhavalesvara--(on north bank of Sa
 
@@ -1651,7 +1651,7 @@ T. K. p. 126 and SK. IV, chap. 57. 33 (give the etymology of Dhundhi):
 
 for 56 Ganesas, vide p. 638 above Dhūta pāpa or Dhautapāpa or Dhauta
 
-pura.-A (on Narmada ) M. 22. 39. 193. 62, K. II. 42. 9-10; B (at Gokarna) Br. III. 13. 20 (Rudra practised tapas here): C (under Gaya) Ag. 116. 12, N. II. 47. 35. D (under Stutasalmin) Var. 148. 58 (less than five kroşals from Stutasvāmin). T.K.p.22.44. p. 401 says that Dhopäpapura on the right bank of the Gemati (popularly
+pura.-A (on Narmada ) M. 22. 39. 193. 62, K. II. 42. 9-10; B (at Gokarna) Br. III. 13. 20 (Rudra practised tapas here): C (under Gaya) Ag. 116. 12, N. II. 47. 35. D (under Stutasalmin) Var. 148. 58 (less than five kroṣals from Stutasvāmin). T.K.p.22.44. p. 401 says that Dhopāpapura on the right bank of the Gemati (popularly
 
 1917
 
@@ -1673,7 +1673,7 @@ vol. XXII. p. 50. Dhūtapāpā-A (r. in VS); vide p. 636
 
 above; B (r. rising in Himalaya)
 
-Vām. 57. 80, Br. II. 16. 26 Dhutavähini-(r. rising in Rsyavanta
+Vām. 57. 80, Br. II. 16. 26 Dhutavāhini-(r. rising in Rsyavanta
 
 m.) M. 114. 26 Dindipunyakara-(fit for grāddha,
 
@@ -1687,15 +1687,15 @@ tīrtha) V.99. 69 (where Bhrgu, great grand-father and the father of Parasu-
 
 rama performed most severe penance) Dirghasattra-V. 82. 108-110, P. I.
 
-25.15-16 Dirgha-Visņu (under Mathurā) var.
+25.15-16 Dirgha-Visṇu (under Mathurā) var.
 
 163. 63 Divākara-linga (under VS) L. q. by
 
-T.K, p. 65 Divaukaḥ---puskariņi V. 84. 118, P. I.
+T.K, p. 65 Divaukaḥ---puskariṇi V. 84. 118, P. I.
 
 38.35 Drona-(m. in Bhāratavarsa) M, 121,
 
-13, Bh. V. 19. 16, P. VI. 8. 45-46 Droņaśarmapada-Anu. 25. 28 q. by
+13, Bh. V. 19. 16, P. VI. 8. 45-46 Droṇaśarmapada-Anu. 25. 28 q. by
 
 T. K. p. 256, (reads Dronadharma) Dronesvara-(under VS) L. q. by T. K.
 
@@ -1735,7 +1735,7 @@ Var. 141. 24 Dvaita-vana-Sat. Br. XIII. 5. 4. 9
 
 (Dvaita lake named after king Dvaitavana of the Matsyas); V. 11. 68, 24. 10 (commentary gives a fantastic etymology). 237. 13 (it had a lake), Sal. 37. 27 (visited by Balarāma on Sarasvati), Vām. 22. 12. 47.56 (it was near Sannibatya
 
-pool). Dvärakā-A-the name of this holy city
+pool). Dvārakā-A-the name of this holy city
 
 does not occur in the Vedic Litera. ture but the references to it in the Mahābhārata and the Puranas are plentiful. It is one of the seven boly cities. Vide p. 678. It appears that there were two Dvārakās, one more ancient than the other. The ancientom Dvārakā, was situated near Kodidara A little mound which rises on the UNDE sea-shore between the mouths of the rivers Somat apd Sipgavra man
 
@@ -1753,9 +1753,9 @@ List of tirthas
 
 749
 
-three miles from Kodinar is sur rounded by the ruins of a temple which popular Hindu belief declares to be the original Dvārakā, where Krsna resided and whence transferred himself to Dvāraka in Okhamandala. Vide Bombay Gazetteer, vol. VIII. (on Kathiawar) pp. 518-520 for Kodinar and p.552 for Mula Dvärakā. It was founded by Krsna (with Rai vataka as a park and Gomanta as a hill) owing to constant invasions and harassment by Jarāsandba; it was two yojanas long and one yojana broad. Vide Sabhäparva 14.49-55. The Var. (149, 7-8) makes it 10 yoja nas long and 5 broad. Vide p. 688 above under Mathurā. B (14. 54-56) says that the Vrsnis and Andhakas left Mathurā through fear of Kälay avana, took counsel with Krsna, ran to Kusasthali and built up Dvärakā: Vi. V. 23. 13-15. B 196. 13-15 say that Krsna begged of the ocean a strip of twelve yojanas, built Dvāraka with large parks, mansions and strong walls and established the people of Mathura there. When Krsna passed away, the city was flooded by the sea and swept away. as stated in a prophetic vein by Mausala-parva 6.23-24 and 7. 41-42. B 210.55 and 212.9. Vide also Vi. V.38.9 (the whole of Dvārakā except Krsna's palace was swept by the sea) and BV IV. 129.44 (except Rukmi. ni's palace). It is called the capital of Anarta (Udyoga 7. 6) and was first called Kusasthali (Sabhā 14. 50). Vide M 69.9=P. V. 23.10, B. 7.29 32 and Ag. 273. 12 (Kusasthali being the earlier name of the capital). The present Dväraka is near Okha in Kathiawar. The Harivamsa II (Visnu parva) chapters 58 and 98 deal with the founding of Dvärakā. Some an cient Jain works like the Uttaradhy ayanasutra (SBE. vol. 45 p.115) men tion Dvärakā and Raivataka park
+three miles from Kodinar is sur rounded by the ruins of a temple which popular Hindu belief declares to be the original Dvārakā, where Krsna resided and whence transferred himself to Dvāraka in Okhamandala. Vide Bombay Gazetteer, vol. VIII. (on Kathiawar) pp. 518-520 for Kodinar and p.552 for Mula Dvārakā. It was founded by Krsna (with Rai vataka as a park and Gomanta as a hill) owing to constant invasions and harassment by Jarāsandba; it was two yojanas long and one yojana broad. Vide Sabhāparva 14.49-55. The Var. (149, 7-8) makes it 10 yoja nas long and 5 broad. Vide p. 688 above under Mathurā. B (14. 54-56) says that the Vrsnis and Andhakas left Mathurā through fear of Kālay avana, took counsel with Krsna, ran to Kusasthali and built up Dvārakā: Vi. V. 23. 13-15. B 196. 13-15 say that Krsna begged of the ocean a strip of twelve yojanas, built Dvāraka with large parks, mansions and strong walls and established the people of Mathura there. When Krsna passed away, the city was flooded by the sea and swept away. as stated in a prophetic vein by Mausala-parva 6.23-24 and 7. 41-42. B 210.55 and 212.9. Vide also Vi. V.38.9 (the whole of Dvārakā except Krsna's palace was swept by the sea) and BV IV. 129.44 (except Rukmi. ni's palace). It is called the capital of Anarta (Udyoga 7. 6) and was first called Kusasthali (Sabhā 14. 50). Vide M 69.9=P. V. 23.10, B. 7.29 32 and Ag. 273. 12 (Kusasthali being the earlier name of the capital). The present Dvāraka is near Okha in Kathiawar. The Harivamsa II (Visnu parva) chapters 58 and 98 deal with the founding of Dvārakā. Some an cient Jain works like the Uttaradhy ayanasutra (SBE. vol. 45 p.115) men tion Dvārakā and Raivataka park
 
-(Girnar). The Jatakas also refer to Dvārakā. Vide Dr. B. C. Law's work on 'India as described in early texts of Buddhism and Jainism' pp. 102,239. The Prabhāsakhanda of the SK has a sub-section on Dväraka in 44 chap ters and over 2000 verses for the glorification of Dvārakā. It says "the reward that is secured by (pilgri mage to) Vārānasi, Kuruksetra and Narmada can be secured at Dvāraka in half a twinkle (4. 52)": "Pilgri mage to Dvarakā is the 4th means of mukti. Man secures mukti by acquiring correct knowledge about Brahman or by dying at Prayaga or by mere bath in Gomati near Krsna" (SK. VII. 4. 4. 97-98). The BV. (Krsnajanmakhanda, Uttarardha chap. 103) has a hyperbolical descrip tion of the creation of Dvaraka, which is said to have been one hundred yojanas in extent. There is a work called Dväraka-pattalaka compiled by Binābāyi (the only Ms, of which is the one at B.O.R.I. in Poona) which has been published by Dr. J. B. Chaudhuri (1940). The Ms. is dated samvat 1574 (1518 A. D). It summarises the Dvāraka māhātmya in SK, A pilgrim on reach ing Dvärakā first worships Ganesa, then Balarama and then Krsna; he visits Rukmini's temple on the 8th, 9th or 14th tithi, then visits Cakra tirtha, then Dvärakā Gangā, then Sankhoddbāra, then tathes in the Gomati. The temple of Dväraka natha is on the north bank of the Gomati creek. The main temple has five stories, is about 100 feet high from the ground and is sur mounted by a conical spire rising to about 150 feet. Vide D . D. Pusalkar's paper in that DOP) C. Law presentation volume dopp! 218 ff. for further information on Pvāraka;
+(Girnar). The Jatakas also refer to Dvārakā. Vide Dr. B. C. Law's work on 'India as described in early texts of Buddhism and Jainism' pp. 102,239. The Prabhāsakhanda of the SK has a sub-section on Dvāraka in 44 chap ters and over 2000 verses for the glorification of Dvārakā. It says "the reward that is secured by (pilgri mage to) Vārānasi, Kuruksetra and Narmada can be secured at Dvāraka in half a twinkle (4. 52)": "Pilgri mage to Dvarakā is the 4th means of mukti. Man secures mukti by acquiring correct knowledge about Brahman or by dying at Prayaga or by mere bath in Gomati near Krsna" (SK. VII. 4. 4. 97-98). The BV. (Krsnajanmakhanda, Uttarardha chap. 103) has a hyperbolical descrip tion of the creation of Dvaraka, which is said to have been one hundred yojanas in extent. There is a work called Dvāraka-pattalaka compiled by Binābāyi (the only Ms, of which is the one at B.O.R.I. in Poona) which has been published by Dr. J. B. Chaudhuri (1940). The Ms. is dated samvat 1574 (1518 A. D). It summarises the Dvāraka māhātmya in SK, A pilgrim on reach ing Dvārakā first worships Ganesa, then Balarama and then Krsna; he visits Rukmini's temple on the 8th, 9th or 14th tithi, then visits Cakra tirtha, then Dvārakā Gangā, then Sankhoddbāra, then tathes in the Gomati. The temple of Dvāraka natha is on the north bank of the Gomati creek. The main temple has five stories, is about 100 feet high from the ground and is sur mounted by a conical spire rising to about 150 feet. Vide D . D. Pusalkar's paper in that DOP) C. Law presentation volume dopp! 218 ff. for further information on Pvāraka;
 
 1917
 
@@ -1769,15 +1769,15 @@ History of Dharmaśāstra
 
 B (there is Dvīrakā in Indraprastha)
 
-P. VI. 202.4 and 62 Dvārakā-Krsnatirtha-M. 22. 39. Dväravati-Same as Dväraka. It
+P. VI. 202.4 and 62 Dvārakā-Krsnatirtha-M. 22. 39. Dvāravati-Same as Dvāraka. It
 
 contained the temple of Nagesa, one of the twelve Jyotirlingas. The
 
-Käsīkbanda (7. 104-105 ) states: 6 since in this city there are entrance
+Kāsīkbanda (7. 104-105 ) states: 6 since in this city there are entrance
 
-gates for all the four varnas it was named Dväravati by the learned. Where even the bones of beings are marked with the sign of the wheel (discus). what wonder is there if the hands of men) are marked 91 with the figures of a conch or
+gates for all the four varnas it was named Dvāravati by the learned. Where even the bones of beings are marked with the sign of the wheel (discus). what wonder is there if the hands of men) are marked 91 with the figures of a conch or
 
-wheel?' In a Dvaraka-mahatmya stated to be taken from the Skanda purana (D. C. Ms. No. 49 of 82–83, copied in sanat 1529 i.e. 1472-73 A. D.) it is stated that Matburā, Kasi and Avanti are easy of access ( sulabha), but Ayodhyā. Māyā and Dvarakā are difficult of approach in the Kali age and in Ms. D. C. No. 63 of 1875-76 it is said at the end that the city is called Dväravati because it is the way to moksa. It is identified by Yule and others with Barake of the Periplus
+wheel?' In a Dvaraka-mahatmya stated to be taken from the Skanda purana (D. C. Ms. No. 49 of 82–83, copied in sanat 1529 i.e. 1472-73 A. D.) it is stated that Matburā, Kasi and Avanti are easy of access ( sulabha), but Ayodhyā. Māyā and Dvarakā are difficult of approach in the Kali age and in Ms. D. C. No. 63 of 1875-76 it is said at the end that the city is called Dvāravati because it is the way to moksa. It is identified by Yule and others with Barake of the Periplus
 
 (Ptolemy pp. 187-188.) Dvidevakula-(under Sriparvata) L. I.
 
@@ -1809,7 +1809,7 @@ List of tirthas
 
 Elāpura---(probably modern Ellora) M.
 
-22.50 (a place very fit for sraddha).. A.G. p. 319 identifies Elāpura with modern Verāval in Kathiawar. Tale gaon copperplates of Rästrakūta Krsnarāja I dated sake 690 (768-769 A.D.) indicate that the king built the famous Kailasanatha temple in imi tation of the Kailasanatha temple at Kanci (E. I. XII. p. 275); vide also E, I. vol. XXV. p. 25 (Ellora plates of Dantidurga of sake 663 i.e. 741-42
+22.50 (a place very fit for sraddha).. A.G. p. 319 identifies Elāpura with modern Verāval in Kathiawar. Tale gaon copperplates of Rāstrakūta Krsnarāja I dated sake 690 (768-769 A.D.) indicate that the king built the famous Kailasanatha temple in imi tation of the Kailasanatha temple at Kanci (E. I. XII. p. 275); vide also E, I. vol. XXV. p. 25 (Ellora plates of Dantidurga of sake 663 i.e. 741-42
 
 A.D) Erandinarmadasangama-M. 194. 32,
 
@@ -1817,7 +1817,7 @@ K.II. 41.85 and II. 42.31, P.I. 18.41 Eranditirtha--(r. tributary of Narmada
 
 in the Baroda territory, called Uri or Or) M. 191. 42, 193.65, P. I. 18. 41.
 
-Gabhastiša-(under VS) SK. VI. 33.
+Gabhastiśa-(under VS) SK. VI. 33.
 
 154 Gabhiraka- (a l. under Mandara to the
 
@@ -1827,19 +1827,19 @@ south) Var, 143. 42 Gadakunda-(under Salagrāma) Var.
 
 of Brahmayoni) Va 109, 11-13, 111
 
-75-76, Ag: 115.69: see above p. 665 Gajähvaya-( same as Hastinapura )
+75-76, Ag: 115.69: see above p. 665 Gajāhvaya-( same as Hastinapura )
 
 Svargā-rohanaparva 5. 34 Gajakarna-(one of many pitrtirthas)
 
-M.22.38 Gajaksetra -a Sivaksetra acc. to Bär.
+M.22.38 Gajaksetra -a Sivaksetra acc. to Bār.
 
 S. III. 122. Gajaśaila-(m. south of Manasa lake)
 
-Va. 36.24 Gajasahvaya or Nāgasähvaya-(same as
+Va. 36.24 Gajasahvaya or Nāgasāhvaya-(same as
 
-Hastinapura) Vi. V. 35. 8, 19, 30-32, Vām. 78. 3, Bh. I.4.6 (com. explains gajena sabita ähvayo nama yasya):
+Hastinapura) Vi. V. 35. 8, 19, 30-32, Vām. 78. 3, Bh. I.4.6 (com. explains gajena sabita āhvayo nama yasya):
 
-Br. S. 14.4 calls it 'Gajahvaya." Gajesvara-(under Srisaila) L. 1.92.156 Galava-Vide Pāpapranāšana. Gälaveśvara-(under vs) L. q. by T.
+Br. S. 14.4 calls it 'Gajahvaya." Gajesvara-(under Srisaila) L. 1.92.156 Galava-Vide Pāpapranāśana. Gālaveśvara-(under vs) L. q. by T.
 
 K. P. 98 Gallika--(r., same as Gandaki) P. VI. "76.2 (where the salagrama stones are
 
@@ -1859,13 +1859,13 @@ where sraddha leads to highest goal) M. 22. 73; B (under Sabhramati) P.
 
 VI. 133, 24 Gandaki--(rises in Himalaya and falls
 
-into Ganges at Sonepur in Bihar). It is the Kondocbates of Arrian (A. I. p. 188). Adi. 170.20-21 (one of the seven great rivers that destroy sin). S. 20. 27. V. 84. 13, V. 222. 22 (Gandasābvayā is probably the same as Gandaki), P. I. 38, 30, IV. 20. 12 (it has pebbles marked with cakra). The river is said to have sprung from the perspiration on Visnu's cheek in Var. 144-106, Br. II. 16. 26, Visnu gave a boon to it that he would always remain inside ber in the form of Salagrama stone (Var. 144. 35-58) Gandaki, Devika and a r. from Pulastyäsrama make Triveni (Var. 144. 84). It is known in Nepala as
+into Ganges at Sonepur in Bihar). It is the Kondocbates of Arrian (A. I. p. 188). Adi. 170.20-21 (one of the seven great rivers that destroy sin). S. 20. 27. V. 84. 13, V. 222. 22 (Gandasābvayā is probably the same as Gandaki), P. I. 38, 30, IV. 20. 12 (it has pebbles marked with cakra). The river is said to have sprung from the perspiration on Visnu's cheek in Var. 144-106, Br. II. 16. 26, Visnu gave a boon to it that he would always remain inside ber in the form of Salagrama stone (Var. 144. 35-58) Gandaki, Devika and a r. from Pulastyāsrama make Triveni (Var. 144. 84). It is known in Nepala as
 
 Salagrāmi and in U.P. as Nārāyani. Gandhavati--A (sacred r. near Ekar
 
 raka, rising in the Udayagiri bills, though the Sivapurana says it rises in the Vindhya). See 'Antiquities of Orissa' by Mitra, vol. II. p. 98 B (a small tributary of Sipra) Megha
 
-düta I. 33 Ganga ---Vide pp. 588-596 above Gangadvära--- (the same ay Hakia bara)
+düta I. 33 Ganga ---Vide pp. 588-596 above Gangadvāra--- (the same ay Hakia bara)
 
 v. 81.14, 90.21, 142. UVO, AD225. 13, K. I. 15, 41 and 47 (her Daksa's sacrifice was destroyed by Kira bhadra). II. 20. 33 (Seseo etiał the
 
@@ -1887,7 +1887,7 @@ in the same verse) Gandhakali--r.) va. 77.74. Br. III.
 
 13.76 Gandhamadana-(m, on which Badri
 
-nath is situated) Nr. 65. 10 g. by T. K. p. 252; Vi. II. 2. 18 (to the south of Meru), Mär. 51. 19, V. 140. 22. 158. 38, Vi. V. 24. 5 (location of
+nath is situated) Nr. 65. 10 g. by T. K. p. 252; Vi. II. 2. 18 (to the south of Meru), Mār. 51. 19, V. 140. 22. 158. 38, Vi. V. 24. 5 (location of
 
 Nara-Nārāyanasrama), M. 13. 26 Gandharvakunda --(under Mathura)
 
@@ -1895,7 +1895,7 @@ Var. 163. 13 Gandharvanagara-q. by T. K. p. 247 Gandharvatirtha--(under VS) P. I
 
 13. Sal. 37. 10 (near Gargasrotan on Sarasvati) Ganga-Gandaki-sangama-T. P. p. 357 Ganga-Gomati-sangama-T. P. p. 358 Gangā brada-P. I. 27.63 (under Kuru
 
-kşetra), v. 83. 201, Anu. 25. 34 Ganga-Kausiki-saagama - T. P. pp.
+kṣetra), v. 83. 201, Anu. 25. 34 Ganga-Kausiki-saagama - T. P. pp.
 
 357-358 Ganga-Mānusa-sangama - (aear Kās.
 
@@ -1923,7 +1923,7 @@ P. I. 32. 29. Ag. 109. 18
 
 Gargasrotas-on Sarasvati) Sal. 37.14 Gargesvara--(under Narmada) M. 191,
 
-82 Garhapatyapada--(under Gaya) Vä,
+82 Garhapatyapada--(under Gaya) Vā,
 
 111. 50 Garteśvara--(under Mathura) Var, 169.
 
@@ -1957,7 +1957,7 @@ T. K. p. 115 Gautami-(Godavari). Vide pp. 707
 
 711 Gavām-bhavana-P. I. 26. 46 Gaya-A-see pp. 643-679; B (one of
 
-the five dhärās at Badarikasrama) N.
+the five dhārās at Badarikasrama) N.
 
 II. 67.57-58 Gayakedāraka (under Gaya) Ag. 115.
 
@@ -1967,7 +1967,7 @@ POGNA
 
 Gayāniskramana-Nr q. by T. KUR
 
-252 (Vişnu's guhya name is Ha there ).
+252 (Viṣnu's guhya name is Ha there ).
 
 TE Gayasiras..--(hill named after rajati
 
@@ -1983,7 +1983,7 @@ List of tirthas
 
 (it is the eastern vedi of Brahma). Ag. 115. 25-26 (it is called Phalgu tirtha). Acc. to Barua in Gayā and Buddhagaya' vol. I. p. 7 it is the modern Brahmayoni hill. Vide
 
-p. 646 note 1470 above. Gayasirşa--( a set of rocky hills near
+p. 646 note 1470 above. Gayasirṣa--( a set of rocky hills near
 
 Gayā town) v.Dh. S. 85.4; Buddha went to Gayasisa near Gayā with 1000 bhiksus; vide Mabavagga I. 21. 1 (S. B. E, vol. XIII p. 134).
 
@@ -2001,13 +2001,13 @@ L. q. by T. K. p. 86. Ghanteśvara-M. 22. 70 Gharghara or-ra (modern Gogra or
 
 Ghagra, a holy river that rises in Kumaon and is the great river of Oudh) P. II. 39. 43, M 22. 35 and PV. 11.29 (both the latter have the same words 'padau tau Sona-Ghar. gharau').Vide TP p. 502 for Sarayū- Gharghara-sangama. The combined waters of Gogra and other rivers including the Sarayū are called Gogrā or Sarjū from Bahrampur.
 
-Vide I. G. I. vol. 12 pp. 302-303. Ghateśvara-(under Säbhramati) P. VI.
+Vide I. G. I. vol. 12 pp. 302-303. Ghateśvara-(under Sābhramati) P. VI.
 
 Girinagara-(modern Junagad in
 
 Kathiawar). The hill near it was called Ujjayanta or Urjayanta in former times, but now it is called Girnar. Dey has a long note (pp. 65-66) on it. The pădukās (stone with footprints) of Dattatreya are shown on a spur of the hill. As there are Asoka's edicts engraved here it follows that it was a well known place in the third century B.C. The Junāgad Inscription of Rudradaman (150 A. D.) mentions it in the very first line (E.I. vol. VIII.p.
 
-36 at p 42). Vide under Vastrapatha. Girivraja-Capital of the kings of Magadha from Jarasandha and his son Sahadeva; called Rajagrha in Buddhist times. It is about 62 miles from Patna. Dey has a very long note on it (pp. 66-69); S. 21. 2-3 (it was surrounded and guarded by five hills called Vaihāra, Vipula, Varaha, Vrsabha, Rşigiri). Vide under Raja grba. Rām. I. 32. 7 states that it was founded by Vasu, a son of Kusa,
+36 at p 42). Vide under Vastrapatha. Girivraja-Capital of the kings of Magadha from Jarasandha and his son Sahadeva; called Rajagrha in Buddhist times. It is about 62 miles from Patna. Dey has a very long note on it (pp. 66-69); S. 21. 2-3 (it was surrounded and guarded by five hills called Vaihāra, Vipula, Varaha, Vrsabha, Rṣigiri). Vide under Raja grba. Rām. I. 32. 7 states that it was founded by Vasu, a son of Kusa,
 
 son of Brahmā. Cobhileśvara--(under VS) L. q. by T.
 
@@ -2045,7 +2045,7 @@ History of Dharmaśāstra
 
 [Vol.
 
-being flooded by the sea and of Benares) M. 114.22, Br. II, 16. 25, people going to Parasurama for Rām. II. 49. 11 succour). Vide Epi. C. vol. VII Gomati-gangā-sangama--P. I. 32. 42. Shikarpur No. 99 of 1113 A. D.) Bh. v. 19, 18, Ag. 109. 19. where Calukya Tribhuvanamalla's Gopädri-(m. in Kashmir, in the tributary is styled 'lord of Gokarna
+being flooded by the sea and of Benares) M. 114.22, Br. II, 16. 25, people going to Parasurama for Rām. II. 49. 11 succour). Vide Epi. C. vol. VII Gomati-gangā-sangama--P. I. 32. 42. Shikarpur No. 99 of 1113 A. D.) Bh. v. 19, 18, Ag. 109. 19. where Calukya Tribhuvanamalla's Gopādri-(m. in Kashmir, in the tributary is styled 'lord of Gokarna
 
 immediate vicinity of Srinagara pura.' The Lingapurāna speaks of near its southernmost corner, now two Gokarnas (I. 92. 134-135),
 
@@ -2081,7 +2081,7 @@ L. I. 92.162 (established by Nanda N. II. 75. 71, Raghuvamsa XV. 101 and others)
 
 Gopreksa-(under VS) L. q. by T. K. Gomanta-(a hill). A-M. 13.28 (Sati p . 42, P. I. 37. 16, N. II. 50.43 (Go
 
-is called Gomation Gomanta); preksaka) B (a hill in the Sahya range near Gopreksaka-(linga under VS) L, I, 92. Karavīrapura, Krauñcapura and near 67-68 river Venā) Harivamsa (Vişnuparva Goprekşeśvara-(under vs) Sk. g. by 39. 11 and 19-20); C. (hill near T. K. p. 131 Dvārakā where Krsna and the Goraksaka-Var, 215.93 Vrsnis migrated from Mathura Gorathagiri-(in Magadhaksetra) S. through fear of Jarasandha's attacks) 20.30 S. 14. 54, V 88. 15-17, N. II. 60.27 Gotirtha-Ain Naimisa forest) V.95.3; Pargiter's identifications (p. 289 B (under Prayaga) M 110.1; C(under note) are unsatisfactory.
+is called Gomation Gomanta); preksaka) B (a hill in the Sahya range near Gopreksaka-(linga under VS) L, I, 92. Karavīrapura, Krauñcapura and near 67-68 river Venā) Harivamsa (Viṣnuparva Goprekṣeśvara-(under vs) Sk. g. by 39. 11 and 19-20); C. (hill near T. K. p. 131 Dvārakā where Krsna and the Goraksaka-Var, 215.93 Vrsnis migrated from Mathura Gorathagiri-(in Magadhaksetra) S. through fear of Jarasandha's attacks) 20.30 S. 14. 54, V 88. 15-17, N. II. 60.27 Gotirtha-Ain Naimisa forest) V.95.3; Pargiter's identifications (p. 289 B (under Prayaga) M 110.1; C(under note) are unsatisfactory.
 
 VS) K. I. 35.13; D (under Narmada) Gomati-(r.) A. In Rg. VIII. 24. 30 M. 193.3. P. I. 20.3; E (under Sabh * and X. 75. 6; it is invoked between ramati) P. VI. 156. 1
 
@@ -2129,7 +2129,7 @@ p. 102 Gurukulyatirtha-on Narmada) SK. I.
 
 die
 
-JH Hamsadvära--(near Kashmir) NM 1464 Hamsakunda-(under Dvarakā) Var,
+JH Hamsadvāra--(near Kashmir) NM 1464 Hamsakunda-(under Dvarakā) Var,
 
 149.46 Hamsapada-(near Visakhayūpa) Vām.
 
@@ -2143,7 +2143,7 @@ I. 37. 24, P. I. 39. 80, Ag. 111. 10 Hamsatirtha-A (under Gaya) Ag.
 
 Vide Yaksatirtha. Hanumat-tīrtha-(under Go. on north
 
-bank) B. 129. 1 Härakunda-(near Harapura) L. I.
+bank) B. 129. 1 Hārakunda-(near Harapura) L. I.
 
 92.164 Haramukuta-(Harmukh in popular
 
@@ -2237,11 +2237,11 @@ M. 117-118 contain fine descriptions Hastinapura or Hastinapura-( capital of tre
 
 of Kurus, named after king Hastin, it. Himalaya occurs in non-vedic great-grandson of Bharata Daus- works, e. g. Gita x. 25. Himavat yanti,). It is to the north-east of
 
-meant the whole mountain range Delhi. Adi 95. 34, Rām. II. 68. 13 stretching from Assam in the east (Hastinapura), Vi IV. 21. 8. to the mountains west of Panjab. Bh. IX. 22. 40. After it was swept Mār, 51.24 states that Kailāsa and away by Ganges, Nicaknu, grandson Himavat stretch from east to west of Janamejaya, made Kausambi his and are situated between two seas capital. Pan. VI. 2.101 (na Hāstina- and that Himavat is to the north of phalaka-märdeyah) appears to know Bharatavarşa (which has seas on it as Hastinapura. The Mbh. (vol. south, west, and east) like the string I. p. 380 on Pan. II. 1. 16) offers the of a bow (Mār. 54.59) illustration anu-Gangam Hastina. Himavat-aranya-Devīpurāna q. by T. puram'.
+meant the whole mountain range Delhi. Adi 95. 34, Rām. II. 68. 13 stretching from Assam in the east (Hastinapura), Vi IV. 21. 8. to the mountains west of Panjab. Bh. IX. 22. 40. After it was swept Mār, 51.24 states that Kailāsa and away by Ganges, Nicaknu, grandson Himavat stretch from east to west of Janamejaya, made Kausambi his and are situated between two seas capital. Pan. VI. 2.101 (na Hāstina- and that Himavat is to the north of phalaka-mārdeyah) appears to know Bharatavarṣa (which has seas on it as Hastinapura. The Mbh. (vol. south, west, and east) like the string I. p. 380 on Pan. II. 1. 16) offers the of a bow (Mār. 54.59) illustration anu-Gangam Hastina. Himavat-aranya-Devīpurāna q. by T. puram'.
 
-K. 244 Hastipädeśvara-(a Sivalinga to the Hiranvati-(carried a girl to Kosala)
+K. 244 Hastipādeśvara-(a Sivalinga to the Hiranvati-(carried a girl to Kosala)
 
-east of Sthänuvața) Vām. 46.29 Vām. 34.8 (one of seven or ning very Hastipālesvara-(under VS ) L.q. by holy rivers), 64.11 and 19,90.32, 408
+east of Sthānuvața) Vām. 46.29 Vām. 34.8 (one of seven or ning very Hastipālesvara-(under VS ) L.q. by holy rivers), 64.11 and 19,90.32, 408
 
 T. K. 76
 
@@ -2259,11 +2259,11 @@ List of tirthas
 
 1757
 
-kşetra, where Pandavas pitched their
+kṣetra, where Pandavas pitched their
 
 camp). 160.1, Bhi. 9.25 Hiranyabāhu-(The Erannoboas of
 
-Greek writers, river Soņa). Vide A.I. p. 68. It falls into the Ganges near Bankipore. Arrian (A. I. p. 186) regards Erannaboas and Sonos as distinct. It was called 'golden armed' probably owing to the colour of the sand in its bed or because
+Greek writers, river Soṇa). Vide A.I. p. 68. It falls into the Ganges near Bankipore. Arrian (A. I. p. 186) regards Erannaboas and Sonos as distinct. It was called 'golden armed' probably owing to the colour of the sand in its bed or because
 
 particles of gold were found in it. Hiranyabindu-(on m. Kalajara) V.
 
@@ -2275,7 +2275,7 @@ I. 35.13, L. I. 92. 76, P. I. 37. 16,
 
 L. q, by T. K. p. 48 Hiranyakasipulinga-(under VS) L. 4.
 
-by T. K. p. 43 Hiranyäksa-M. 22.52 (most efficacious
+by T. K. p. 43 Hiranyāksa-M. 22.52 (most efficacious
 
 about danas here) Hiraṇyākseśvara--(under VS) L. q. by
 
@@ -2293,15 +2293,15 @@ Gandaki. Vide A, G. p. 453 Hladini-(r.) Rām. II. 71.2 (Bharata
 
 coming from Kekaya country crossed
 
-it first and then Satadrü) Homatirtha--(under VS) K. 1.35.11 Hrşikesa-(on the Ganges about 24
+it first and then Satadrü) Homatirtha--(under VS) K. 1.35.11 Hrṣikesa-(on the Ganges about 24
 
-miles north of Haridvāra) Var. 146. 63-64 (Vişnu is deemed to stay there)
+miles north of Haridvāra) Var. 146. 63-64 (Viṣnu is deemed to stay there)
 
 identifications of his cannot be taken seriously: B (r. falling into Narmada)
 
-M 191. 49 Ikşumati-A(r, flowing through Kumaon
+M 191. 49 Ikṣumati-A(r, flowing through Kumaon
 
-and Kanoj). From Pan. IV. 2. 85-86 (nadyam matup, madhvadibhyas-ca) it follows that Panini was aware of this river, as 'Ikşu' is included in the madhvadi-gana). Rām. II. 68. 17 (going from Ayodhya one first meets Malini, then Ganga at Hastinapura, then Kuruksetra and then Iksumati), M 22.17 (favourite of the pitrs and falls into the Ganges). P. V. 11.13; B (r. of the Sindhu-Sauvīra country) Vi. II. 13, 53-54 (there was Kapila's asrama on it where the king of Sau vira came and asked what is most beneficial in this samsāra which abounds in pain and sorrow). Bh. V.
+and Kanoj). From Pan. IV. 2. 85-86 (nadyam matup, madhvadibhyas-ca) it follows that Panini was aware of this river, as 'Ikṣu' is included in the madhvadi-gana). Rām. II. 68. 17 (going from Ayodhya one first meets Malini, then Ganga at Hastinapura, then Kuruksetra and then Iksumati), M 22.17 (favourite of the pitrs and falls into the Ganges). P. V. 11.13; B (r. of the Sindhu-Sauvīra country) Vi. II. 13, 53-54 (there was Kapila's asrama on it where the king of Sau vira came and asked what is most beneficial in this samsāra which abounds in pain and sorrow). Bh. V.
 
 10.1 Iksu-Narmadasangama-M 191. 49, K.
 
@@ -2321,7 +2321,7 @@ Sabhramati) P. VI. 144.1 Indrakila-(m. beyond Gandhamādana)
 
 V. 37. 41-42, M. 22. 53 (sacred to pitrs), NM 1443, Bh, V. 19/16 Indraloka-(under Badari. Nar141.
 
-10-13 Indramärga--Anu 25. 9 and 167P. I
+10-13 Indramārga--Anu 25. 9 and 167P. I
 
 27. 68 Indranadi-(r.) Vā. 43, 26 Bhandarkar Oriental
 
@@ -2329,7 +2329,7 @@ FOUNDED
 
 Iksu-A (r. from Himavat) Va. 45. 96.
 
-Dey. p. 77 identifies it with Oxus. He equates Ašmanvati (p. 13) and Caksus (p. 43) with Oxus. Hence such
+Dey. p. 77 identifies it with Oxus. He equates Aśmanvati (p. 13) and Caksus (p. 43) with Oxus. Hence such
 
 Bora
 
@@ -2353,13 +2353,13 @@ I. 92.152; B (under VS) L q. by T.
 
 K. 71
 
-Iravati--(modern Rävi river in Panjab
+Iravati--(modern Rāvi river in Panjab
 
-called Hydroates by Greek writers). Nir. IX. 26 notes that the river Paru şni invoked in Rg. X. 75.5 was also called Irāvati, VDh.S.85. 49, M. 22. 19 ( fit for sraddha). Va. 45. 95 (rises in Himalaya), Vām. 79.7,81.1, NM 149 (Irāvati tathā punya sarva- kalmaşanasini). The city of Lahore stands on it. The Mbh. (vol. I p. 382 on Pan. II. 1. 20 cites as examples 'dviravatīko desah, trira vatiko desaḥ'. Vide under Candra
+called Hydroates by Greek writers). Nir. IX. 26 notes that the river Paru ṣni invoked in Rg. X. 75.5 was also called Irāvati, VDh.S.85. 49, M. 22. 19 ( fit for sraddha). Va. 45. 95 (rises in Himalaya), Vām. 79.7,81.1, NM 149 (Irāvati tathā punya sarva- kalmaṣanasini). The city of Lahore stands on it. The Mbh. (vol. I p. 382 on Pan. II. 1. 20 cites as examples 'dviravatīko desah, trira vatiko desaḥ'. Vide under Candra
 
 bhaga. Irāvati-nadvala-sangama-Vām. 79.51. Isanādhyusita-V 84. 8. Isana-linga--(under VS) L. I. 92. 106
 
-and 137 q. by T. K. p. 105 Išāna-śikhara-(under Kedāra) Devi
+and 137 q. by T. K. p. 105 Iśāna-śikhara-(under Kedāra) Devi
 
 purana q. by T, K. p. 230 Isatirtba-(under Narmada) P. I.
 
@@ -2375,13 +2375,13 @@ T. K. 91 Tala-a Saktaksetra, acc. to Bar. S. III.
 
 140. 16 Jalandhara-A (hill) M. 13.46 (Devī was called Visvamukhi on it), 22. 64 (hill sacred to pitrs); according to Kal.chap. 18.51 Devi is called Candi on Jalandhara hill, whereon her breasts fell when Siva carried her corpse; B (a town on the Sutlej in the Panjab) Vā 104. 80 (Jalandhara pitha seen on the chest of Veda purusa personified); one of the pithas of Lalita is probably Jalandhara ; P. VI. 4. 19-20, Br. IV, 44, 95
 
-(Jalandhra). Vide A. G. pp. 136-139 Jäleśvara --A (a Sivatirtha, one of the
+(Jalandhra). Vide A. G. pp. 136-139 Jāleśvara --A (a Sivatirtha, one of the
 
 eight sthānas ) M. 181.28 and 30, K. II. 40.35; B (under Narmada) M. 186. 15 and 38 (a hrada named Jalesvara), K. II. 40. 22, P. I 14.3. Its utpaiti in M 187; C (Jalesvara
 
 near Salagrāma) Var. 144. 139-140 Jalpisa-T. P. pp. 602-603 quoting
 
-Kälikäpurāna Jāmadagnya-tirtha-A ( where the
+Kālikāpurāna Jāmadagnya-tirtha-A ( where the
 
 Narmada falls into the sea) M 194. 34-35, P1. 21. 34-35 (calls it Jamadagnitirtha ); B. M 22. 57-58 (on Godāvarī, very efficacious for
 
@@ -2393,7 +2393,7 @@ PI. 37.4, L. I. 92.107, N. II. 50.67 (where demon Jambuka was killed by
 
 Siva) Jambula-(r, rising from Rksa pada
 
-Va 45100 Jambūmärga-A (an ayatana) Devala
+Va 45100 Jambūmārga-A (an ayatana) Devala
 
 q. by T. K. 250, Vi II. 13.33 on the Ganges); Devala q. by T. Kapadiachta
 
@@ -2413,7 +2413,7 @@ List of tirthas
 
 134
 
-separately mentions Jambümarga and as possessing a spring and reservoir Kalanjara as āyatanas; B (near considered sacred. Takşakanāga is Kuruksetra) V. 82. 41-42, 89. 13 (on worshipped to this day in the large Asita m.), Anu. 25 51, 166.24, M.22. limpid pool situated close to the 21, Br. III.13. 38; C (near Puskara) village Zevan. Vide A G. pp 101-102
+separately mentions Jambümarga and as possessing a spring and reservoir Kalanjara as āyatanas; B (near considered sacred. Takṣakanāga is Kuruksetra) V. 82. 41-42, 89. 13 (on worshipped to this day in the large Asita m.), Anu. 25 51, 166.24, M.22. limpid pool situated close to the 21, Br. III.13. 38; C (near Puskara) village Zevan. Vide A G. pp 101-102
 
 P.I.12.1-2, Ag. 109.9, Vā 77.38. for the situation of Jayavana; under Jambunadi-( rising from Candra Taksakanāga which is near Zevan.
 
@@ -2421,7 +2421,7 @@ prabha lake on slopes of Meru- Jayini--PI. 26. 16 (where there is Mandara peak) 
 
 V. 16. 19.
 
-Jesthila--(near Campakäranya) V. 84. Janakakūpa -(under Gaya) P1.38 28,
+Jesthila--(near Campakāranya) V. 84. Janakakūpa -(under Gaya) P1.38 28,
 
 V. 84. 111
 
@@ -2429,7 +2429,7 @@ Jñanatirtha-(under VS) K. I. 35.6, P. Janakesvara-(under VS) L. q. by T. K. I. 
 
 119
 
-Jñänavāpi-SK. IV. 33 (describes the Janasthāna-Vide p.710 above. V. 147.
+Jñānavāpi-SK. IV. 33 (describes the Janasthāna-Vide p.710 above. V. 147.
 
 origin and greatness of it); see p. 33,v. 277.42, Sal. 39. 9 (in Dandaka
 
@@ -2463,7 +2463,7 @@ T. K. p. 115
 
 Tyesthesvara--(modern Jyethir on the Jatakunda-(under Sanandüra) Var. Dal lake near Srinagara in Kaśmira)
 
-150. 47 (to the south of Malaya R. I. 113, NM 1323-24. This was a mountain and north of the sea.) form of Siva in a temple which was Jātismarahrada- A (near Krsna-Venä) built by king Gopäditya of Kašmira.
+150. 47 (to the south of Malaya R. I. 113, NM 1323-24. This was a mountain and north of the sea.) form of Siva in a temple which was Jātismarahrada- A (near Krsna-Venā) built by king Gopāditya of Kaśmira.
 
 V. 85. 38; B (uncertain location )
 
@@ -2477,7 +2477,7 @@ ed Jyestheśvara. R. I. 124 says that Jayantikā--Br. IV 44.97 (one of the Jalau
 
 of Jyesthesvara, which would be the Jayapura-(in Kasmira, capital of king oldest temple in Kasmira.
 
-Jayapida, surrounded by water, also Tyestbapuskara-(on Sarasvati) v.200. called Dväravati in imitation of 66, P. V. 19. 12, 18, 20 (it is said to Srikrsna's Dväravati) R. IV. 501- be 23 yojanas long and a half yojana 511, K. R. pp. 13-16, SM. pp. 1974 in width) 198 (marked by the present village Jyesthasthāna-(near Koțitirtha) X 85. Andarkot).
+Jayapida, surrounded by water, also Tyestbapuskara-(on Sarasvati) v.200. called Dvāravati in imitation of 66, P. V. 19. 12, 18, 20 (it is said to Srikrsna's Dvāravati) R. IV. 501- be 23 yojanas long and a half yojana 511, K. R. pp. 13-16, SM. pp. 1974 in width) 198 (marked by the present village Jyesthasthāna-(near Koțitirtha) X 85. Andarkot).
 
 62 Jayatirtha--M. 22. 49
 
@@ -2541,7 +2541,7 @@ part of Saketa. Kālakesava-(under VS) K. I. 35.7 Kalakoti--( in Naimisa forest)
 
 Br. S. 14. 4. Kalanjara or Kaliñjara--A (hill and
 
-fort in Bundelkhand) V 85.56, 87,21, vā 77. 93, Vām. 84 (temple of Nilakantha on it): Kalajara was the capital of the Chandellas; vide E.I. vol. I.p 217, E.I. vol. IVp 153. For Kālañjaramandala, vide E. I. vol. 19 p. 18 (plate dated samvat 893). Ain. A. vol. II. p. 159 speaks of it as 'a stone fortress situated on a heaven-reaching hill. It con tains many temples and an idol is there called Kala Bhairava, 18 cubits high, of which marvellous tales are related. Springs rise within the fort and there are many tanks.' Vide I. G. I. vol. VI p. 349; B (as an ayatana ) Devala q. by T. K. p. 250; C (under VS) K II. 36. 11-38 (story of rājarşi Sveta who const antly muttered Satarudriya), P. I. 37. 15; D (shrine of Siva under Go.) B 146, 1 and 43 (also called Yayata); E said to be source of Narmada called Kalinjari and a Siva shrine) SK, Kālika-khanda q. by T. S. p. 98; F (under Mathura) Var, 176. 18 (printed as Kāliñjara); G R.VII,1256 (some hilly district in Kasmira is
+fort in Bundelkhand) V 85.56, 87,21, vā 77. 93, Vām. 84 (temple of Nilakantha on it): Kalajara was the capital of the Chandellas; vide E.I. vol. I.p 217, E.I. vol. IVp 153. For Kālañjaramandala, vide E. I. vol. 19 p. 18 (plate dated samvat 893). Ain. A. vol. II. p. 159 speaks of it as 'a stone fortress situated on a heaven-reaching hill. It con tains many temples and an idol is there called Kala Bhairava, 18 cubits high, of which marvellous tales are related. Springs rise within the fort and there are many tanks.' Vide I. G. I. vol. VI p. 349; B (as an ayatana ) Devala q. by T. K. p. 250; C (under VS) K II. 36. 11-38 (story of rājarṣi Sveta who const antly muttered Satarudriya), P. I. 37. 15; D (shrine of Siva under Go.) B 146, 1 and 43 (also called Yayata); E said to be source of Narmada called Kalinjari and a Siva shrine) SK, Kālika-khanda q. by T. S. p. 98; F (under Mathura) Var, 176. 18 (printed as Kāliñjara); G R.VII,1256 (some hilly district in Kasmira is
 
 meant). Kālañjaravana-M 181.27 (Kaliñjara, a
 
@@ -2551,7 +2551,7 @@ rika) Va. 91. 7. 99. 437 (Devāpi stays there and will be Krtayuga pravartaka wh
 
 Bh, X. 87. 7. Kalapaka-(about 100 yojanas from
 
-Kedara) SK, I. 2. 6. 33-34 Kaläpavana-P. I. 28,3
+Kedara) SK, I. 2. 6. 33-34 Kalāpavana-P. I. 28,3
 
 FOUNDED
 
@@ -2569,7 +2569,7 @@ sprang from a jar) N II. 40, 87 Kālasarpis-(a mahātirtha of Kasyapa)
 
 I 37. 34, Vā 77. 87 (very fit for srāddha), Br. III. 13, 98 Kalasesvara (under VS) L. q. by T. K,
 
-p. 99, P. I, 37.7 Kalatirtha-A (in Košala) V. 85.
+p. 99, P. I, 37.7 Kalatirtha-A (in Kośala) V. 85.
 
 11-12; P I. 39. 11 (both have same
 
@@ -2607,7 +2607,7 @@ Kalpagrāma--(under Mathura) Var.
 
 166. 12 (shrine of Varaha in U. P.
 
-there); probably modern Kalpi Kama-a Säktaksetra, acc. to
+there); probably modern Kalpi Kama-a Sāktaksetra, acc. to
 
 S. III. 124. Kamadhenupada-(under Gaya) va
 
@@ -2615,13 +2615,13 @@ S. III. 124. Kamadhenupada-(under Gaya) va
 
 V, 19. 16, Devi-Bh. VIII. 11. 11. Kamākhya-A (a Rudratirtha on
 
-Devika river) V 82. 105, P. I. 25.12 (same words in both ); B (a Devi sthana or temple of Tripurabhairavi on the beautiful Nīlācala hill over hanging the Brahmaputra river) Devi Bhagavata VII. 38. 15, Kal. 64.2 (explains the name and the whole chap. is māhātmya). This last is about two miles from Gauhati and was famed even in ancient times; vide TP pp. 599-601. Vide Shri B. Kakati's paper on the Mother God dess Kāmākhya in "Siddhabhārati' part II. pp. 44 ff. In Kal. 18. 42 and 50 it is said that on Kamagiri in Kāmarūpa, the private parts of Sati fell when her corpse was carried by Siva and Devi is known as Kämākhyā
+Devika river) V 82. 105, P. I. 25.12 (same words in both ); B (a Devi sthana or temple of Tripurabhairavi on the beautiful Nīlācala hill over hanging the Brahmaputra river) Devi Bhagavata VII. 38. 15, Kal. 64.2 (explains the name and the whole chap. is māhātmya). This last is about two miles from Gauhati and was famed even in ancient times; vide TP pp. 599-601. Vide Shri B. Kakati's paper on the Mother God dess Kāmākhya in "Siddhabhārati' part II. pp. 44 ff. In Kal. 18. 42 and 50 it is said that on Kamagiri in Kāmarūpa, the private parts of Sati fell when her corpse was carried by Siva and Devi is known as Kāmākhyā
 
 there. Kāmakosthaka (Kāmakoti )---Pitha of
 
 Tripurasundari-Kāmaksi. Br. IV. 5. 6-10, IV. 40. 16 (in Kanci), IV. 44.94 (one of the 50 pithas of Lalita). Bh. X. 79.14 (Kamakosnim purim Kancim)
 
-Kāmākşa--(in Ahicchatra) a Devi
+Kāmākṣa--(in Ahicchatra) a Devi
 
 sthana established by Sumada, P.
 
@@ -2693,21 +2693,21 @@ Kankanai flowing past Buthser i. e. Bhūtesvara) NM 1545, R. I. 149-150
 
 (flows into river Sind). See SM. p. 211. NM (1539-42) says that the confluence of Sindhu and Kana
 
-kavähini is equal to VS Kanakesvera-(under VS) L. q. by T.
+kavāhini is equal to VS Kanakesvera-(under VS) L. q. by T.
 
 K. p. 104 Kanakhala- A (on the Ganges about
 
-two miles from Haridvāra) v. 84.30, Anu 25.13, V Dh. S. 85.14, K. II. 37. 10-11, SK. I. 1. 2. 11 (where Rudra destroyed Daksayajña). Vā. 83.21, Vām. 4.57; vide T.P, p.377; B (under Gayā between Uttara and Dakşina Manasa) Vā. 111. 7, Ag. 115.23, N. II. 46.46; C (under Nar mada) M. 183.69, P. I. 20.67 (where Garuda practised tapas): D (under Mathura) Var. 152.40-49 (where a barber Kampilya in Pancala country bathed in Yamunā and was born as
+two miles from Haridvāra) v. 84.30, Anu 25.13, V Dh. S. 85.14, K. II. 37. 10-11, SK. I. 1. 2. 11 (where Rudra destroyed Daksayajña). Vā. 83.21, Vām. 4.57; vide T.P, p.377; B (under Gayā between Uttara and Dakṣina Manasa) Vā. 111. 7, Ag. 115.23, N. II. 46.46; C (under Nar mada) M. 183.69, P. I. 20.67 (where Garuda practised tapas): D (under Mathura) Var. 152.40-49 (where a barber Kampilya in Pancala country bathed in Yamunā and was born as
 
 a brāhmana) Kancanāksi--(r. near Naimisa forest)
 
 Vām. 83.2 kañci or Kancipuri-vide pp. 711-712
 
-above. A-one of the seven holy cities, capital of the Colas and a Devisthāna called Annapürnā. P. VI. 110.5, Devi Bh. VII. 38.8, Br, IV, 5.6-10 and IV, 39.15, Bh. X. 79.14, Vā. 104.76, P.IV. 17.67, Bär. S. 111. 124 (a Sakta kşetra). In a new Inscription of Jayavarman I from Cambodia a king of Kanci appears to be referred to (vide Inscriptions du Cambodge' edited by G. Coedes, vol. I p. 8 'adhārmikajana--dhvāntam navodi tavivasvatā akañcipura-nrpa... (rest
+above. A-one of the seven holy cities, capital of the Colas and a Devisthāna called Annapürnā. P. VI. 110.5, Devi Bh. VII. 38.8, Br, IV, 5.6-10 and IV, 39.15, Bh. X. 79.14, Vā. 104.76, P.IV. 17.67, Bār. S. 111. 124 (a Sakta kṣetra). In a new Inscription of Jayavarman I from Cambodia a king of Kanci appears to be referred to (vide Inscriptions du Cambodge' edited by G. Coedes, vol. I p. 8 'adhārmikajana--dhvāntam navodi tavivasvatā akañcipura-nrpa... (rest
 
 lost); B (under Narmada, P. I. 17.8 Kantipuri-vide p. 678 note 1535 above.
 
-It may be noted that the text of the Ain, A. had Kānti. Vide Ain. A. vol. III. p 305 n. 4, SK. IV. 7. 100-102, Mäheśvara Khanda, sub-section Kedara, 27.33 (the linga Allalanatha therein). Kantipuri in the Mirzapur District was the capital od the Bhārasivas. Jayaswal in 'Hitore of India' (150-350 A.D.) p. 1998 quotes as from Vi. the passagerienta
+It may be noted that the text of the Ain, A. had Kānti. Vide Ain. A. vol. III. p 305 n. 4, SK. IV. 7. 100-102, Māheśvara Khanda, sub-section Kedara, 27.33 (the linga Allalanatha therein). Kantipuri in the Mirzapur District was the capital od the Bhārasivas. Jayaswal in 'Hitore of India' (150-350 A.D.) p. 1998 quotes as from Vi. the passagerienta
 
 1917
 
@@ -2723,13 +2723,13 @@ List of tirthas
 
 763
 
-Navanāgah Padmavatyäm Kanti- puryām Mathurāyam...bhoksyanti'. The Venk. ed. of Vi. omits the words Kantipuryām Mathurāyām' and Dr. Hall in Wilson's transla- tion, vol IV p. 217 notes that one of his best mss. does the same. Kāntipuri occurs in Br. III. 13.
+Navanāgah Padmavatyām Kanti- puryām Mathurāyam...bhoksyanti'. The Venk. ed. of Vi. omits the words Kantipuryām Mathurāyām' and Dr. Hall in Wilson's transla- tion, vol IV p. 217 notes that one of his best mss. does the same. Kāntipuri occurs in Br. III. 13.
 
 94-95. Kanvāśrama--A (on the river Malini
 
 in the Saharanpur District) V. 82. 45, 88. 11, VDh. S. 85. 30, Ag. 109. 10. In the Sākuntala Act I Kanvā srama is said to be along the bank of the Mālini; in Sat. Br. 13.5.4. 13 we read 'Sakuntala Nadapityapsara Bharatam dadhe,' on which the commentator Harisvāmin states that Nadapit was the name of Kanva's asrama; B on Carmanvati, four miles south-east of Koțā in Rajputana. Vide Dey p. 89 Kanya (on the southern sea, same as Kumari, Cape Comorin ) Bh. X. 79. 17 (Kanyakhyam Durgadevim
 
-dadarsa sah); see under Kumari Kanyährada-Anu 25.53 Kānyakubja-(one of the 50 pithas of Lalitā) Br. IV. 44. 94; V 87. 17 (where Visvāmitra drank soma with Indra); M. 13. 29 (Devi is called Gauri in Kanyakubja i. e. Kanoj); Anu 4.17, P. V. 35 (Rāma established image of Vamana here on the southern bank of river Kalinadi which ultimately falls into the Ganges). P. VI. 129. 9. The Mbh. (vol. II, p. 233 on Pan IV.1.79) men. tions Kanyakubji. Rām. I. 32. 6 says Mahodaya was founded by Kusanābha, son of Kusa, son of Brahma. The A. C.p. 182 states that Kanyakubja, Mahodaya, Kanyakubja, Gadhipura are synonyms (verses 973-74). Vide under Mahodaya and A. G. pp. 376-382 ; Ptolemy men tions it (p. 134 ) as Kanagora and Kanogiza.
+dadarsa sah); see under Kumari Kanyāhrada-Anu 25.53 Kānyakubja-(one of the 50 pithas of Lalitā) Br. IV. 44. 94; V 87. 17 (where Visvāmitra drank soma with Indra); M. 13. 29 (Devi is called Gauri in Kanyakubja i. e. Kanoj); Anu 4.17, P. V. 35 (Rāma established image of Vamana here on the southern bank of river Kalinadi which ultimately falls into the Ganges). P. VI. 129. 9. The Mbh. (vol. II, p. 233 on Pan IV.1.79) men. tions Kanyakubji. Rām. I. 32. 6 says Mahodaya was founded by Kusanābha, son of Kusa, son of Brahma. The A. C.p. 182 states that Kanyakubja, Mahodaya, Kanyakubja, Gadhipura are synonyms (verses 973-74). Vide under Mahodaya and A. G. pp. 376-382 ; Ptolemy men tions it (p. 134 ) as Kanagora and Kanogiza.
 
 Kanyaküpa--Anu 25. 19. Kanya-samvedya-y. 84. 136, P. I.
 
@@ -2833,7 +2833,7 @@ TK p. 235 Karapavana (near source of Sarasvati)
 
 Sal. 54.12 and 15 Karatoyā (r. flowing through the dis
 
-tricts of Rangpur, Dinajpur and Bogra in Bengal and being the western boundary of Kämarupa) V 85.3, S. 9. 22, Anu, 25.12. The Amarakośa says that Karatoya 2nd Sadānīrā are synonyms. ActOD Mār. 54.25 it rises in the Windhyay while Vā. 45.100 says it rises in Rkšapāda. In Şm. C. I. p. 132 utbed
+tricts of Rangpur, Dinajpur and Bogra in Bengal and being the western boundary of Kāmarupa) V 85.3, S. 9. 22, Anu, 25.12. The Amarakośa says that Karatoya 2nd Sadānīrā are synonyms. ActOD Mār. 54.25 it rises in the Windhyay while Vā. 45.100 says it rises in Rkśapāda. In Şm. C. I. p. 132 utbed
 
 pur.
 
@@ -2849,11 +2849,11 @@ mantra in invoking the river begins
 
 Karatoye Sadānire! (thus identify
 
-ing the two ) Käravati (a place fit for sraddha) Br.
+ing the two ) Kāravati (a place fit for sraddha) Br.
 
 III. 13.92 Karavīra-A (modern Kolhapur) M.
 
-13,41 (Karavīre Mahālaksmih)=P. V. 17.205. M. 22.76, Anu 25.44, P. VI. 108.3; E. I. vol. III p. 207, 210, a grant of Siladitya Vyayaditya of sake 1065 mentions Ksullakapura which appears to be meant for Kolha pura. It occurs as Kollapura in Miraj plates of Jayasimha II (a Calukya) in 1024 A. D. (E. I. vol. XII p. 303, 306). Vide I. A. vol. 29 p. 280 for the spelling of the name; B (capital of Brahmävarta on Drsa
+13,41 (Karavīre Mahālaksmih)=P. V. 17.205. M. 22.76, Anu 25.44, P. VI. 108.3; E. I. vol. III p. 207, 210, a grant of Siladitya Vyayaditya of sake 1065 mentions Ksullakapura which appears to be meant for Kolha pura. It occurs as Kollapura in Miraj plates of Jayasimha II (a Calukya) in 1024 A. D. (E. I. vol. XII p. 303, 306). Vide I. A. vol. 29 p. 280 for the spelling of the name; B (capital of Brahmāvarta on Drsa
 
 dvati) Kalikāpurāna 49.71, NM 147: CC (city in Sahya near Gomanta hill)
 
@@ -2877,11 +2877,11 @@ q. by TK p. 190 Karmeśvara-(under Sriparvata ) L. I.
 
 sangama) P. I. 32. 4 Karnaprayāga-Vide under Alaka
 
-nanda and U. P. Gazetteer, vol. 36 * (for Garhwal) p. 172 Kärtikeya-A (Devi is called Yasaskari
+nanda and U. P. Gazetteer, vol. 36 * (for Garhwal) p. 172 Kārtikeya-A (Devi is called Yasaskari
 
 here) M. 13.45; B (under Go.) B 81.
 
-1. G. I. 81.9. Kārtikeya-kunda-(under Lohärgala)
+1. G. I. 81.9. Kārtikeya-kunda-(under Lohārgala)
 
 Var. 151. 61
 
@@ -2891,9 +2891,9 @@ Kārtikeyapada-(in Gaya) Vā 109. 19,
 
 probably the Kassida of Ptolemy (p. 228). AC (p. 182) notes that Kasi Varānasi, Vārānasi and Sivapuri
 
-are synonyms (verse 974 ) Kašmira-mandala--The ancient name
+are synonyms (verse 974 ) Kaśmira-mandala--The ancient name
 
-seems to have been Kaśmira. The Mbh (vol. II. p. 119 ) on Pan. III. 2. 114 employs this form (abhijādasi Devadatta Kasmiran gamiyyamah ). Kašmira as the name of a country occurs in the Sindhvadigana. (Pan. IV. 3. 93). In NM the country is called Kasmira in many verses such as 5, 11, 43, 50, but sometimes Kasmira also. Later works also like H. C. 14.45 employ the form Kasmira; the Vik (18. 1 and 18 ) uses the form Kasmira. NM (292-93) derives the name from ka meaning water ( kam vāri Harina yasmād-desad-asmad-apäkrtam | Kas mirākhyam tato hyasya nama loke bhavisyati). Ptolemy speaks of it as Kaspeiria and states that the country was situated below the sources of Bidaspes (Vitastā). Sandabal (Can drabhāga) and Adris (Iravati). Vide Ptolemy pp. 108-109 and NM 43. The Vanaparva speaks of the whole country of Kasmira as boly (130. 10). Ain. A. (vol. II p. 354 notes that the whole of Kašmira is regarded as holy ground. Vide also V 82. 90, S. 27. 17, Anu 25. 8. According to a treaty in 1846 with the Maharaja of Kashmir and Jammu the territories of the Maha raja are situated to the eastward of the river Indus and westward of the river Rāvi' I. G. I. vol. XV p. 72. The Kashmir yalley is approximately 84 miles.comin length and 20 to 25 mill-inbreadth (I. G. I. vol. XV PFOA y Stein (SM p. 63 ) says that it extent is confined to the greathamallexendrained
+seems to have been Kaśmira. The Mbh (vol. II. p. 119 ) on Pan. III. 2. 114 employs this form (abhijādasi Devadatta Kasmiran gamiyyamah ). Kaśmira as the name of a country occurs in the Sindhvadigana. (Pan. IV. 3. 93). In NM the country is called Kasmira in many verses such as 5, 11, 43, 50, but sometimes Kasmira also. Later works also like H. C. 14.45 employ the form Kasmira; the Vik (18. 1 and 18 ) uses the form Kasmira. NM (292-93) derives the name from ka meaning water ( kam vāri Harina yasmād-desad-asmad-apākrtam | Kas mirākhyam tato hyasya nama loke bhavisyati). Ptolemy speaks of it as Kaspeiria and states that the country was situated below the sources of Bidaspes (Vitastā). Sandabal (Can drabhāga) and Adris (Iravati). Vide Ptolemy pp. 108-109 and NM 43. The Vanaparva speaks of the whole country of Kasmira as boly (130. 10). Ain. A. (vol. II p. 354 notes that the whole of Kaśmira is regarded as holy ground. Vide also V 82. 90, S. 27. 17, Anu 25. 8. According to a treaty in 1846 with the Maharaja of Kashmir and Jammu the territories of the Maha raja are situated to the eastward of the river Indus and westward of the river Rāvi' I. G. I. vol. XV p. 72. The Kashmir yalley is approximately 84 miles.comin length and 20 to 25 mill-inbreadth (I. G. I. vol. XV PFOA y Stein (SM p. 63 ) says that it extent is confined to the greathamallexendrained
 
 Research Institute
 
@@ -2905,9 +2905,9 @@ History of Dharmaśāstra
 
 [Vol.
 
-by the head waters of the Vitastā and to the minor slopes of moun tains that surround it. Hiouen Thsang (Beal's B RW W vol. 1. p. 148) states that 'Kasmīra kingdom is about 7000 li (one li being equal to about 5 miles), that as the country is protected by a dragon it has always assumed superiority among neighbouring people, that they love learning and are well instructed and that (p. 149 ) the country was once a dragon lake and that afterwards it became dry'. The words of Hiouen Thsang refer to an ancient legend according to which Kashmir was originally a lake (called Satisaras) 6 yojanas long and 3 yojanas wide and later became Satidesa (NM 64-66). that Umā herself is the country of Kasmira (NM 31), that the divine Vitastā rising in the Himalayas is like the simanta (line parting the hair) of this holy land (NM 45). The legend runs that Visnu conferred a boon on Vasuki-nāga who prayed to Vişnu when Garuda began to devour all nägas that he should stay in the Satidesa along with the other nāgas, that no enemy would kill any nāga (NM 105-107) and that Nila was made king of nägas in the Satidesa (NM 110). The residence of Nila is the famous fountain near the village of Verrāg in the Shababad pargana. A certain demon called Jalodbhava grew in the Sati lake and killed men (NM 111-123 and Vām. 81. 30-33). Nīla approached the sage Kasyapa the father of all Nāgas, at whose intercession Visnu asked Anantanāga to pierce the hills and make the lake dry and then killed the demon Jalodbhava (R. I. 25). Then Visnu asked the Nāgas to live in peace and harmony with men. Sati became the river Vitastā. Vide Kūrma II. 43. 4. Nāga in Kashmir means the tutelary
+by the head waters of the Vitastā and to the minor slopes of moun tains that surround it. Hiouen Thsang (Beal's B RW W vol. 1. p. 148) states that 'Kasmīra kingdom is about 7000 li (one li being equal to about 5 miles), that as the country is protected by a dragon it has always assumed superiority among neighbouring people, that they love learning and are well instructed and that (p. 149 ) the country was once a dragon lake and that afterwards it became dry'. The words of Hiouen Thsang refer to an ancient legend according to which Kashmir was originally a lake (called Satisaras) 6 yojanas long and 3 yojanas wide and later became Satidesa (NM 64-66). that Umā herself is the country of Kasmira (NM 31), that the divine Vitastā rising in the Himalayas is like the simanta (line parting the hair) of this holy land (NM 45). The legend runs that Visnu conferred a boon on Vasuki-nāga who prayed to Viṣnu when Garuda began to devour all nāgas that he should stay in the Satidesa along with the other nāgas, that no enemy would kill any nāga (NM 105-107) and that Nila was made king of nāgas in the Satidesa (NM 110). The residence of Nila is the famous fountain near the village of Verrāg in the Shababad pargana. A certain demon called Jalodbhava grew in the Sati lake and killed men (NM 111-123 and Vām. 81. 30-33). Nīla approached the sage Kasyapa the father of all Nāgas, at whose intercession Visnu asked Anantanāga to pierce the hills and make the lake dry and then killed the demon Jalodbhava (R. I. 25). Then Visnu asked the Nāgas to live in peace and harmony with men. Sati became the river Vitastā. Vide Kūrma II. 43. 4. Nāga in Kashmir means the tutelary
 
-d eity presiding over the several holy springs, pools and lakes in which Kasmira abounds. Both NM (1130 31) and R (I. 38 ) state that there is not a spot in Kasmira even as small as a grain of sesamum which is not a tirtha and has not a nāga as its presiding deity. In Ain. A (vol. II. p. 354 ) Abul Fazl notes that there were in his day 45 shrines of Mahadeva, 64 of Vişnu, 3 of Brahma and 22 of Durgā and that in 700 places there were graven images of snakes which were worshipped and about which wonderful stories were told. R (1.72) and NM (313-314) say that the country of Kasmira is Parvati, that the king thereof should be deemed to be a part of Siva and that none who desires prosperity should disobey (or disre spect) the king. R (I. 42) summarises in one verse the peculiar features of Kašmira viz. 'learning, lofty dwellings, saffron, water containing ice and grapes; these are common here, although rare in
+d eity presiding over the several holy springs, pools and lakes in which Kasmira abounds. Both NM (1130 31) and R (I. 38 ) state that there is not a spot in Kasmira even as small as a grain of sesamum which is not a tirtha and has not a nāga as its presiding deity. In Ain. A (vol. II. p. 354 ) Abul Fazl notes that there were in his day 45 shrines of Mahadeva, 64 of Viṣnu, 3 of Brahma and 22 of Durgā and that in 700 places there were graven images of snakes which were worshipped and about which wonderful stories were told. R (1.72) and NM (313-314) say that the country of Kasmira is Parvati, that the king thereof should be deemed to be a part of Siva and that none who desires prosperity should disobey (or disre spect) the king. R (I. 42) summarises in one verse the peculiar features of Kaśmira viz. 'learning, lofty dwellings, saffron, water containing ice and grapes; these are common here, although rare in
 
 the three worlds'. Kaśyapapada-(under Gaya) Vā. 109,
 
@@ -2959,11 +2959,11 @@ kat 30 miles to the west of Allahabad
 
 P. I. 26. 89, Vām. 34. 18. This on the Jumnā); Rām. I. 32. 6 states
 
-seems to be another Kausiki apart that it was founded by Kušāmba, son
+seems to be another Kausiki apart that it was founded by Kuśāmba, son
 
 from the two mentioned above. of Kusa, son of Brahma; T.K.P. 246. Kausiki-tīrtha-(under Narmada) M. The Mbh. mentions it several
 
-194. 40 times (vide vol. III. pp. 50, 134 on Kausikyaruna-sangama-V. 84. 156, Pan. VI. 1.31 and VI. 2. 130 ). Vide P. I. 38. 63 AG pp. 391-398 and under Hastina. Kaustubheśvara-(under VS) L. q. pura. A.C. (p. 182) says it is the by T. K 60 . capital of the Vatsa country. Vide Käveri-A (r. in south India rising in
+194. 40 times (vide vol. III. pp. 50, 134 on Kausikyaruna-sangama-V. 84. 156, Pan. VI. 1.31 and VI. 2. 130 ). Vide P. I. 38. 63 AG pp. 391-398 and under Hastina. Kaustubheśvara-(under VS) L. q. pura. A.C. (p. 182) says it is the by T. K 60 . capital of the Vatsa country. Vide Kāveri-A (r. in south India rising in
 
 Early History of Kausambi' by Sahya m.) V 85. 22, Anu 166. 20, Nagendranath Ghosh. The Kaus. Vā 45. 104, 77. 28, M. 22. 64, K, II. ambi Pillar edict of Asoka (C.II. 37. 16-19, P. I. 39. 20, P. VI. 224. vol. 1 p. 159 ) mentions the maha- 3, 4 and 19 (is called Marudvrdha). mātras of this city. In JRAS for 1898 Nr 66.7 (says that Kaveri is pp 503-519 Vincent Smith disputes Daksina-Gangā); there is a fine the identification of modern Kosam description of it in the Tamil epic with Kausāmbi. Vide E. I vol. XI Silappadikāram (X. 102 ff, pp. 160 ff p. 141 on different views about the of Prof. Dikshitar's translation ); location of Kausambi.
 
@@ -2983,7 +2983,7 @@ here). Ag. 113. 3. Kausiki-A (r. from Himalaya, modern Kaverisangama--(with Narm
 
 Kusi) Adi 215. 7, V. 84. 132, 113.3 and vide under B above. M 22. 63, 114, 22, Rām. I. 34. 7-9, Kāyasodhana-V. 83. 42-43 Bh. IX. 15. 5-12 (Satyavati,
 
-Kāyāvarobana-A (modern Kārvän, daughter of Gadhi, becamer.
+Kāyāvarobana-A (modern Kārvān, daughter of Gadhi, becamer.
 
 15 miles south of Baroda and in the Kausiki), Vām. 54. 22-24 (so called
 
@@ -3035,11 +3035,11 @@ B (under Mathurā ) Var. 163. 63 Kesinitirtha- under Narmada) P. I.
 
 śvara-P VI. 147. 1 and 67. Vide
 
-Bom. G. vol. IV p. 6 for description Khadgapuccbanāga-(in Kāšmira)
+Bom. G. vol. IV p. 6 for description Khadgapuccbanāga-(in Kāśmira)
 
 HC. X. 251 (about 1) krosa above Vijayesvaraksetra, now called Khan
 
-bal in Anantanäg pargana ) Khadgatirtha-A (under Sabhramati)
+bal in Anantanāg pargana ) Khadgatirtha-A (under Sabhramati)
 
 P VI. 140. 1; B (under Go.) B
 
@@ -3067,7 +3067,7 @@ which has two hamlets). Kilikilesa-(under Gaya) Ag. 116. 31. Kimdatta-kupa-V 83.
 
 Vasudhāra and Ratnadhara) Kimsuluka-name of a m. acc. to Pān.
 
-VI.3. 117 (vanagiryoḥ sanjñāyām kotara-kimsulukādinām). The Kašika mentions five forests (including Kotaravana) and six giris (including Kimsuluka), which cannot be
+VI.3. 117 (vanagiryoḥ sanjñāyām kotara-kimsulukādinām). The Kaśika mentions five forests (including Kotaravana) and six giris (including Kimsuluka), which cannot be
 
 identified with certainty. Kimyajña-P. I. 26. 74. Kindāna-P. I. 26. 74, V. 83. 79 Kinkinīkasrama-Anu 25. 23 Kirana-(r.) Vām. 84. 5. Vide p. 636 Kiranesvara-linga-(under VS) SK
 
@@ -3075,7 +3075,7 @@ IV. 33. 155 Kiskindha-(about two miles from
 
 lake Pampā to the north-east) V. 280 16, Rām. IV. 9.5, IV. 14.1 &c. Mbh. (vol. III. p. 96) on Pan. VI. 1. 157 mentions Kiskindha-guhā'. The word occurs in the Sindhvadi gana (Pan. IV.3. 93). It is identified with modern Vijayanagar and Anegundi. Vide I. G. I. vol. XIII. p. 235. Br. S. 14. 10 calls Kiskindhã a country
 
-in south-east. Kiskindhaguhä-Vā. 54. 116 (pro
+in south-east. Kiskindhaguhā-Vā. 54. 116 (pro
 
 bably the same as Kiskindha). Kiskindhaparvata-M 13.46 (Devi is
 
@@ -3105,7 +3105,7 @@ flow of river Suktimati. Kolāpura-(modern Kolhapur, one of
 
 the Devisthanas) Devi-Bh. VII 38. 5, P. VI. 176. 42 (where there is a shrine of Laksmi), 182.1 (asti Kolhapuram nāma nagaram Daksina pathe) and 11. Acc. to Br. IV. 44. 97, it is sacred to Lalitā. In a grant of Silāhāra Vijayāditya of sake 1065 (1143 A.D.) occurs the word Ksulla kāpura, which is another name of Kolhapur; E. I. vol. III. p. 207 at pp. 209-210. The grantor is described as 'one who has obtained the favour of a boon from goddess Mahalaksmi'. In the Sanjan plates of Amoghavarsa I. of sake 793 (871 A.D.) it is stated that the king. in order to ward off some public calamity, cut off his left finger and dedicated it to goddess Mahālaksmi (E. I. vol. 18. p. 235 at p. 241). This Mahalaksmi appears to be the same as that of Kolhapur. Vide I. A, vol.
 
-29 p. 280 for Kollapura. Kolla-a Sāktakşetra acc. to Bār. S.
+29 p. 280 for Kollapura. Kolla-a Sāktakṣetra acc. to Bār. S.
 
 III. 124 Kollagiri-Ag. 110. 21, Bh. V. 19. 16 Konarka or Konaditya-(in Odra ie. Orissa, about 24 miles north
 
@@ -3113,11 +3113,11 @@ III. 124 Kollagiri-Ag. 110. 21, Bh. V. 19. 16 Konarka or Konaditya-(in Odra ie. 
 
 west of Jagannatha Puri). It means
 
-the sun of Kona'. Konäkona appears to have been the ancient name. It is a most exquisite memorial of sun-worship. It con tains magnificent ruins of a temple of the Sun, which was built by the Ganga king Narasimhadeva (1238 1264 A.D.). It is a glorious and most beautiful example of north Indian Hindu architecture ever erected. It had a tower over 180 feet in height and a porch (mandapa) in front of 140 feet high. See Mitra's 'Anti quities of Orissa' vol. II pp. 145-156 and Hunter's 'Orissa' vol. I. p. 288 and 'Sungod of Konārka unearthed' (with illustrations) in Modern Review for 1945 pp. 67-72. The Sun temple shows some of the finest animal sculptures executed in India. Vide B.28, verses 2,9. 11, 47, 65 and 29.1 and T. C. pp. 180 ff. It is probably the Kannagara of Ptolemy (vide
+the sun of Kona'. Konākona appears to have been the ancient name. It is a most exquisite memorial of sun-worship. It con tains magnificent ruins of a temple of the Sun, which was built by the Ganga king Narasimhadeva (1238 1264 A.D.). It is a glorious and most beautiful example of north Indian Hindu architecture ever erected. It had a tower over 180 feet in height and a porch (mandapa) in front of 140 feet high. See Mitra's 'Anti quities of Orissa' vol. II pp. 145-156 and Hunter's 'Orissa' vol. I. p. 288 and 'Sungod of Konārka unearthed' (with illustrations) in Modern Review for 1945 pp. 67-72. The Sun temple shows some of the finest animal sculptures executed in India. Vide B.28, verses 2,9. 11, 47, 65 and 29.1 and T. C. pp. 180 ff. It is probably the Kannagara of Ptolemy (vide
 
 Ptolemy p. 70) Kosalā-(r. near Ayodhya) P. I. 39.
 
-11, VI. 206 13, 207. 35-36, 208. 27. In a grant of Vākātaka king Naren drasena he is praised as honoured by the kings of Kosala (Kosala).. Mekala and Mälava. Vide E. I. vol.
+11, VI. 206 13, 207. 35-36, 208. 27. In a grant of Vākātaka king Naren drasena he is praised as honoured by the kings of Kosala (Kosala).. Mekala and Mālava. Vide E. I. vol.
 
 IX p. 271. Koțarā-tīrtha-(under Sabhramatī) P.
 
@@ -3175,9 +3175,9 @@ Krpā-(r, rising in m. Suktimat) M.
 
 114, 32, Br. II, 16, 38 Krpānitirtha--(on hill Mundaprstha in
 
-Kašmira) NM. 1253, 1460 Krsna-A (r. rising in Sahya at Maha
+Kaśmira) NM. 1253, 1460 Krsna-A (r. rising in Sahya at Maha
 
-balesvara) B. 77.5, P. VI. 113. 25, Vām. 13.30; B Vām. 78. 7, 90.2 (Vişnu as Hayasirsa, on the river ): compared to its length and modern importance the river Krsnā is rarely mentioned as Krsnā, but generally as Krsna-Venyā or-Venā. It is the third largest river of the Deccan and southern India, the other two being the Godavari and the Kaveri. In the Mahabalesvara mahatmya (JBBRAS vol. X. at p. 16 five rivers called Gangā are said to rise from the top of Sahya near Mahabalesvara viz, Krsnā, Veni, Kakudmati (Koynā). Savitri (that falls into the Arabian sea near Bankot) and Gayatri
+balesvara) B. 77.5, P. VI. 113. 25, Vām. 13.30; B Vām. 78. 7, 90.2 (Viṣnu as Hayasirsa, on the river ): compared to its length and modern importance the river Krsnā is rarely mentioned as Krsnā, but generally as Krsna-Venyā or-Venā. It is the third largest river of the Deccan and southern India, the other two being the Godavari and the Kaveri. In the Mahabalesvara mahatmya (JBBRAS vol. X. at p. 16 five rivers called Gangā are said to rise from the top of Sahya near Mahabalesvara viz, Krsnā, Veni, Kakudmati (Koynā). Savitri (that falls into the Arabian sea near Bankot) and Gayatri
 
 (supposed to combine with Savitri). Krsna-gangā--(under Mathurā) Var.
 
@@ -3185,11 +3185,11 @@ balesvara) B. 77.5, P. VI. 113. 25, Vām. 13.30; B Vām. 78. 7, 90.2 (Vişnu as 
 
 thurā ) Var. 176.43 (the whole chap.
 
-deals with its mahatmya). Kịşnagiri-(m.) Va 45.91, Br. II. 16,22 Krsnatirtha-(near Kuruksetra) Vām.
+deals with its mahatmya). Kịṣnagiri-(m.) Va 45.91, Br. II. 16,22 Krsnatirtha-(near Kuruksetra) Vām.
 
 81.9 Krsna-Venā-Bhi. 9.16, M. 22, 45, Ag.
 
-118.7, B. 27.35. Va 45. 104; occurs in Emperor Kharavela's inscription in E.I. vol. XX at p. 77 as Kanha bemnā). The Anu. 166. 22 mentions Venya and Krsna-Venā separately. In the Alas plate of Rästrakūta Govind II. dated sake 692 (769 A.D.) the confluence of Krsnaverna and Musi is referred to (E.I. vol.VI.208). Krsna-Venya-(as one river and same
+118.7, B. 27.35. Va 45. 104; occurs in Emperor Kharavela's inscription in E.I. vol. XX at p. 77 as Kanha bemnā). The Anu. 166. 22 mentions Venya and Krsna-Venā separately. In the Alas plate of Rāstrakūta Govind II. dated sake 692 (769 A.D.) the confluence of Krsnaverna and Musi is referred to (E.I. vol.VI.208). Krsna-Venya-(as one river and same
 
 as above) P. VI. 108,27 (confluence of Krsnā and Venya), VI. 113. 3 and 25 (Krsnā is the body of Krsna): Sim C. I. p. 132 gives a mantra fotbe bath in Krsna-Venya. Vide, TS POWED 67-83, of which p, 70 states that all
 
@@ -3219,7 +3219,7 @@ to grow. Krtasauca-M. 13.45, 179.87, Vām. 90.
 
 5 (has an image of Nrsimha). P. VI.
 
-280. 18 Krttikangāraka-Anu. 25. 22 Krttikaśrama-Anu. 25. 25 Krttikatirtha-(under Go.) B 82.1 Krttiväsa-(under VS) L. q. by T. K
+280. 18 Krttikangāraka-Anu. 25. 22 Krttikaśrama-Anu. 25. 25 Krttikatirtha-(under Go.) B 82.1 Krttivāsa-(under VS) L. q. by T. K
 
 Vindhya, while in 114.24 it mentions Siprā as rising from Pariyatra m. The printed Brahma (chap. 27) mentions Siprā twice, one rising from
 
@@ -3253,7 +3253,7 @@ yuga) Krumu (r.) Rg. V. 53.9 and X. 75. 6.
 
 It is generally held to be modern Kurram that falls into the Indus on its western side near Isakhel.
 
-Vide Dey p. 105 for other views. Kşamā-(r. rising from Rsyavat ) M.
+Vide Dey p. 105 for other views. Kṣamā-(r. rising from Rsyavat ) M.
 
 114. 25 Ksemesvara-(under VS) L. q. by
 
@@ -3273,21 +3273,21 @@ History of Dharmaśāstra
 
 location. Var. 179. 26-31 aver Kumāreśvaralinga-SK. I. 2. 14. 6 ff, that Mathurā is superior to Saukara- Vām. 46. 23 tirtha, which again is superior to Kumāri-(Cape Comorin, where there Kubjāmraka. Var. 140.60-64 explain is a temple of Kumāri Devi in which how the holy place Hrsikesa came there is a fine image of the goddess to be so called. On the whole it is as a maiden). Ptolemy mentions better to take Kubjāmraka as a sac- it as Koumaria while the Periplus red spot in Haridvāra itself or very refers to it as Komar or Komarei; V. near it.
 
-88. 14 (in the plural as 'Kumāryah' Kubjäsangama--(with Narmada) P. II. in the Pandya country). Vā. 77. 28,
+88. 14 (in the plural as 'Kumāryah' Kubjāsangama--(with Narmada) P. II. in the Pandya country). Vā. 77. 28,
 
 92. 32
 
 Br. III, 13. 28. Br. II. 16. 11 and Kubjasrama-(a Visnusthāna with an M. 114. 10 state that the 9th dvipa
 
-extent of one yojana) K. II. 35. of Bharatavarşa extends from Ku 33-35.
+extent of one yojana) K. II. 35. of Bharatavarṣa extends from Ku 33-35.
 
 mārī to the source of the Ganges, Kubjāvana-P. I. 39.34
 
 Sabara on Jaimini, X. 1. 35 asserts Kubjikāpītha-(where Sati's private that the word 'Caru' is used in the
 
-parts fell while her corpse was being sense of sthalı from the Himalaya carried by Siva). Kälikā 64. 53-54 to the Kumari country. and 71-72
+parts fell while her corpse was being sense of sthalı from the Himalaya carried by Siva). Kālikā 64. 53-54 to the Kumari country. and 71-72
 
-Kumärila-(on the Vitasta in Kasmira) Kudmala-(ar.) M 22. 46 (srāddha Vām. 81. 11
+Kumārila-(on the Vitasta in Kasmira) Kudmala-(ar.) M 22. 46 (srāddha Vām. 81. 11
 
 performed here is very efficacious) Kumbha--(a place fit for sraddha) Vā. Kuhū- (r. Sprung from Himalaya) 77.47
 
@@ -3355,11 +3355,11 @@ was the city of king Mahasudassana Kuranga-Anu. 25. 12
 
 under the name Kusavati Kurujāngala-(Sirhind in Punjab, fit Kuseśaya-(v. 1. Kuśeśvara) M. 22. 76
 
-place for sraddha) M. 21. 9 and 28, Kusikasyāšrama--(on r. Kausiki) V. va. 77. 93, Vām. 22. 47 (it is 84. 131-132 between Sarasvati and Drsadvati), Kusivata-Nr.q. by T.K p. 252 84.3 and 17, K. II. 37. 36, Bh. III.
+place for sraddha) M. 21. 9 and 28, Kusikasyāśrama--(on r. Kausiki) V. va. 77. 93, Vām. 22. 47 (it is 84. 131-132 between Sarasvati and Drsadvati), Kusivata-Nr.q. by T.K p. 252 84.3 and 17, K. II. 37. 36, Bh. III.
 
 Kūsmāndesvara--(under VS) L. q. by 1.24, X. 86, 20. Vide p. 688 above
 
-T.K p. 103 Kurujangaläranya-Devīpurana q. by
+T.K p. 103 Kurujangalāranya-Devīpurana q. by
 
 Kusumesvara-(under Narmada) M, T.K. p. 244
 
@@ -3395,7 +3395,7 @@ falling into the Kaveri. IGI vol. 16, over Anarta). XII. 12.36 (Krsna
 
 p. 131 founded this city). Br. III, 61.20 Laksanesvara-(upder VS) N. II. 49,64 (in Anarta). Vide p. 746 above; B Laksmitirtha-(under Go.) B 137.1 (capital of Kosala, where Kusa son of Lalita-(in VS) N. II. 49. 41, L. q. by Rama began to rule) Rām. VII. 107.
 
-TK. p. 96; M.22.11 mentions it, but 17. Va 88. 199; C (same as Kušavati
+TK. p. 96; M.22.11 mentions it, but 17. Va 88. 199; C (same as Kuśavati
 
 it seems that it was on the Ganges former name of Kusinārā where
 
@@ -3419,7 +3419,7 @@ p. 105 śvara) V Dh.S. 85.11, B. 80.2. M 22. Langalini-(r.) S. 9.22, Mār, 54.29
 
 Chicacole 'in Ganjam Distriet of Kusavati-(capital of Kosala on the Madras State stands on the deti bank
 
-Vindhya slopes where Kusa ruled) of the Längulya, 4 miles from its Va 88.199, Rām. VII. 107. 7. In mouth.I.G.I. vol. X . 2178 the Mahasudassana sutta (SBE XI. Lapeţikā—(r.) V. 85.15 Research Institute
+Vindhya slopes where Kusa ruled) of the Lāngulya, 4 miles from its Va 88.199, Rām. VII. 107. 7. In mouth.I.G.I. vol. X . 2178 the Mahasudassana sutta (SBE XI. Lapeţikā—(r.) V. 85.15 Research Institute
 
 CASTITU
 
@@ -3443,9 +3443,9 @@ Banaras), K. I. 35, 14, P. I. 37. 17 hitya occurs in Yasodharman's ins
 
 Vide p. 634 above "Gupta Inscriptions' p. 142 at p. 146
 
-Lonärakunda--(in Visnu-Gayā) P. VI. Laukika--(under VS) K. I. 35. 13
+Lonārakunda--(in Visnu-Gayā) P. VI. Laukika--(under VS) K. I. 35. 13
 
-176.41. Lonār is a salt lake in the Lavaņā-r. flowing close by the city Buldana District of Berar, the fabled
+176.41. Lonār is a salt lake in the Lavaṇā-r. flowing close by the city Buldana District of Berar, the fabled
 
 of Padmāvati situated on confluence den of the giant Lonāsura whom of Pārā and Sindhu. Vide Málati- Visnu vanquished. It is a place of madhava, Act IX. verse 2
 
@@ -3455,7 +3455,7 @@ veneration. Ain. A. vol. II. describes 26.48
 
 it (pp. 230-231) and states that Lavidhikā-(near Campā) P 1. 38. 71 brahmanas call it Bishan Gayā. Lingasāra-(under Narmada) M. 191, One of the best remaining
 
-examples in Berar of the Lingi-Janārdana-(under Narmada) medieval temples is that at Lonär
+examples in Berar of the Lingi-Janārdana-(under Narmada) medieval temples is that at Lonār
 
 K II. 41. 61
 
@@ -3473,7 +3473,7 @@ around the margin of a lake in an
 
 extinct volcanic crater and plates Lohargala-(a Visnusthāna in Hima
 
-CIII-CV. laya) Var. 140. 5 (that Mleccha kings support or resort to it), 144.10, 151.1-83 (verses 7-8 say that thirty Madavävartanäga-(on the Vitastā in yojanas from Siddhavata in the Kašmira) HC. X. 252. midst of mlecchas is Lohärgala). Madhavatirtha---(on Srisaila) P. VI. Var. 151 verses 13-14 explain why 129. 12 it is so called, 151. 79 says it is Madhavavana M. 13. 37 (Devi is twenty-five yojanas in extent. The called Sugandha here) T. K. (pp. 228-229) quotes twelve Madhūdaka-(r.) Vām. 57. 80 verses on it from Var. 151. Dey Madhukaițabha-linga-(in VS) L. p. 115 surmises that it is probably by T. K. p. 43 Lobāghāt in Kumaon
+CIII-CV. laya) Var. 140. 5 (that Mleccha kings support or resort to it), 144.10, 151.1-83 (verses 7-8 say that thirty Madavāvartanāga-(on the Vitastā in yojanas from Siddhavata in the Kaśmira) HC. X. 252. midst of mlecchas is Lohārgala). Madhavatirtha---(on Srisaila) P. VI. Var. 151 verses 13-14 explain why 129. 12 it is so called, 151. 79 says it is Madhavavana M. 13. 37 (Devi is twenty-five yojanas in extent. The called Sugandha here) T. K. (pp. 228-229) quotes twelve Madhūdaka-(r.) Vām. 57. 80 verses on it from Var. 151. Dey Madhukaițabha-linga-(in VS) L. p. 115 surmises that it is probably by T. K. p. 43 Lobāghāt in Kumaon
 
 Madhūkavana-(between Agastyasrama Lohita-(same as Sona) Anu. 166. 21; and Pañcavati) Rām, III, 13.23 F
 
@@ -3521,11 +3521,11 @@ B (under Sriparvata) L. I. 92. 151 capital of Sūrasena country) Br. III. Madhya
 
 57. This probably is the same as Vide Journal, Mythic Society, for Mandavā below 1942, vol. 32 pp. 270-275 for Madura
 
-Magadhäranya-K. II. 37. 9, Vām. and Tamil literary tradition and
+Magadhāranya-K. II. 37. 9, Vām. and Tamil literary tradition and
 
 11. 7. 84. 35 Prof. Dikshitar's translation of the
 
-Mahabala-A (Mahableshwar in Satara Silappadikäram pp. 201-208 for a
+Mahabala-A (Mahableshwar in Satara Silappadikāram pp. 201-208 for a
 
 District) P VI. 113. 29. Vide fine description of it and p. 255 for
 
@@ -3591,7 +3591,7 @@ of the twelve Jyotirlingas) V. 82.49, II. 16. 28 says it rises in Pariyātra ; M
 
 P.I. 38.4, Vā 108. 16-17, 110.6, in Mahakalavana in the country of Ag. 115,25, V. 84; C (in Dravida) Bh. Avanti). B. 43. 66, SK. IV. 1.91 ;
 
-XI. 5. 40" B (a linga in VS) L. I. 92. 137 Mahānala-- a linga established by Mahākälavana-(in Avanti territory) Mrtyu (under Go.) B 116.1
+XI. 5. 40" B (a linga in VS) L. I. 92. 137 Mahānala-- a linga established by Mahākālavana-(in Avanti territory) Mrtyu (under Go.) B 116.1
 
 M. 179. 5
 
@@ -3613,11 +3613,11 @@ length and width). It is same as local tradition connects this spot
 
 Ullola and modern Vollur lake. Vide with the destruction of the demon
 
-R. IV. 591 for one story, NM 1123 brothers Vätāpi and Ilvala. Vide
+R. IV. 591 for one story, NM 1123 brothers Vātāpi and Ilvala. Vide
 
 1159 for the story of the wicked I. A. vol. X. pp. 102-103 for an
 
-Sadangulanäga and K. R. pp. 9-10 inscription of about 696-734 A,D.
+Sadangulanāga and K. R. pp. 9-10 inscription of about 696-734 A,D.
 
 for both here
 
@@ -3631,7 +3631,7 @@ Mahārudra-M. 22. 34 Mahālaya-V. 85. 91 (dānam dadyat
 
 Mahāsala-M. 22.34, P V. 11. 27 Mahālaye), VDh. S. 85, 18, M. 181.
 
-25, K. II. 20.33 (very fit for Sraddha). Mabasalanadi-M. 22. 42 II. 37. 1-4 (where Pāśupatas wor- Mahäsaras---Mahābhārata q. by TAK ship Mahadeva), P. V. 11. 17. Br. P. 246 III. 13. 82-84, Vām, 90, 22, P. I. Mahästhala--(under Mathurā) Var. 16 gbeby 37. 16
+25, K. II. 20.33 (very fit for Sraddha). Mabasalanadi-M. 22. 42 II. 37. 1-4 (where Pāśupatas wor- Mahāsaras---Mahābhārata q. by TAK ship Mahadeva), P. V. 11. 17. Br. P. 246 III. 13. 82-84, Vām, 90, 22, P. I. Mahāsthala--(under Mathurā) Var. 16 gbeby 37. 16
 
 22; one of five sthalas, the other fone
 
@@ -3657,7 +3657,7 @@ Maheśvara dhārā-V. 84. 117, P.1.38. Mahatkunda--(under VS) L. by T.K.P.
 
 34 70
 
-Mahesvarakunda-(under Lohärgala) Mahati (r, from Pariyatra) M. 114. 23,
+Mahesvarakunda-(under Lohārgala) Mahati (r, from Pariyatra) M. 114. 23,
 
 Var. 151, 67 Va 45.97.
 
@@ -3679,11 +3679,11 @@ Cambay) SK I 2.3.23. 1. 2.13.43-45 Mahendra-a m, range extending from and 125-12
 
 the mouths of the Ganges or Orissa (rising from Pariyātra). It is the to Madura) Bhi. 9.11, Udyoga 11. Mophis of Ptolemy (p. 103 ) and 12, M 22.44, P. I. 39. 14 (inhabited Mais of Periplus. by Parasurama), V. 85. 16. Bh. Mahisagarasangama-SK. I. 2.3. 26.
 
-V. 19. 16, Vām. 13.14-15, 83.10-11, Mahitirtha-Vām. 84. 36 K. 1.47.23-24. A Saktakşetra accord- Māhismati-(on Narmada). Pareiter ing to Bār. S.III 124. In the Ganjam
+V. 19. 16, Vām. 13.14-15, 83.10-11, Mahitirtha-Vām. 84. 36 K. 1.47.23-24. A Saktakṣetra accord- Māhismati-(on Narmada). Pareiter ing to Bār. S.III 124. In the Ganjam
 
 identifies with Omkāra Mandhatā (an District there is a peak called
 
-island) while Mr. Haldar and others Mahendragiri about 5000 feet high. hold that it is Mahesvara, Māndhātā Rām. IV, 67.37 shows that Hanuman island is attached to Nemad District used it as a springing board when he of Central Provinces. Udyogaparva jumped off towards Lankā. Raghu- 19. 23-24, 166. 4, Anu. 2, 6, P. II. vamsa (IV.39-40) shows that Kalinga 92. 32, VI. 115. 4. Bh. IX. 15. 22 country had some portion of (Sahasrarjuna imprisoned Rāvana); Mahendra in it. Pargiter (p. 284 the Mbh (vol. II. p. 35, Ujjayinyāḥ n) holds that it is the portion of the prasthito Mahişmatyām sūryodgama Eastern Ghats between Godavari
+island) while Mr. Haldar and others Mahendragiri about 5000 feet high. hold that it is Mahesvara, Māndhātā Rām. IV, 67.37 shows that Hanuman island is attached to Nemad District used it as a springing board when he of Central Provinces. Udyogaparva jumped off towards Lankā. Raghu- 19. 23-24, 166. 4, Anu. 2, 6, P. II. vamsa (IV.39-40) shows that Kalinga 92. 32, VI. 115. 4. Bh. IX. 15. 22 country had some portion of (Sahasrarjuna imprisoned Rāvana); Mahendra in it. Pargiter (p. 284 the Mbh (vol. II. p. 35, Ujjayinyāḥ n) holds that it is the portion of the prasthito Mahiṣmatyām sūryodgama Eastern Ghats between Godavari
 
 nam sambhāvayate) on Vārtika 10 and Mahānadi and hills in
 
@@ -3801,11 +3801,11 @@ List of tirthas
 
 Trans-Himalaya (1913) p. 198 caturdasi (verse 13). T.K. (pp. 217 says there is no finer ring on earth 218) quotes ten verses from Var. 143 than that which bears the names without any comment. A. G p. 508 of Manasarowar, Kailas and Gurla conjectures it to be south of Bhagal Mandhata; it is turquoise set between pur in Bihar. diamonds'. The Manasa lake is at a Mandavā Vā. 77. 56 (a hill very fit height of 14950 feet above sea level; for sraddha) B (under Kubjāmraka) Var. 126. 29;
 
-Mandavāhini-(r. from Suktimat m.) C (to the west of Mathura) Var. 154. M 114. 32. Vá 45. 107. 25; D (near Prayāga on the north bank of the Ganges) M. 107.2: Ein Mandavya-(a tirtha where Devi is Kasmira, modern Mänasbal) Vik. 18.
+Mandavāhini-(r. from Suktimat m.) C (to the west of Mathura) Var. 154. M 114. 32. Vá 45. 107. 25; D (near Prayāga on the north bank of the Ganges) M. 107.2: Ein Mandavya-(a tirtha where Devi is Kasmira, modern Mānasbal) Vik. 18.
 
 styled Mandavyā) M. 13. 42. 55. K. R. p. 9; F (under Narmada)
 
-Mandavyesa--(under VS) L. q. by T.K. M. 194.8, P.I. 21. 8: G (under Gavā. P. 119 there are two pools, Uttaramänasa Mandodaritirtha-M. 22. 41 (removes and Daksina-mānasa) Vā. 111. 2, 6, sins at sight and sraddha most 8, 22
+Mandavyesa--(under VS) L. q. by T.K. M. 194.8, P.I. 21. 8: G (under Gavā. P. 119 there are two pools, Uttaramānasa Mandodaritirtha-M. 22. 41 (removes and Daksina-mānasa) Vā. 111. 2, 6, sins at sight and sraddha most 8, 22
 
 efficacious) Mandagā-(r. rising from Suktimat) Mangalā-(a Devisthāna in Gaya)
 
@@ -3827,7 +3827,7 @@ Manikarnisvara- (under VS) N. II. p. 66
 
 east Manikunda-(under Stutasvāmin) Var. of Meru) and Mar 51 19; V 139. 5,
 
-148.52 142.2, 163.4 (extended up to the sea Mänikvesvara--(in Kasmira) P. VI. in the east), and 31-33, Udyoga 11.
+148.52 142.2, 163.4 (extended up to the sea Mānikvesvara--(in Kasmira) P. VI. in the east), and 31-33, Udyoga 11.
 
 176. 80-82 12, L.I. 92.187 and 188. 6-12 (gods afraid of Andhaka took refuge on
 
@@ -3873,7 +3873,7 @@ tionally called Vimala and Kamala Manohara-(under Narmada) M. 194.7.
 
 about a mile from the temple. Vide K. II. 42. 20, P. I. 21.7 (the same
 
-RIV.192, NM 1073 (for Vimalanäga),
+RIV.192, NM 1073 (for Vimalanāga),
 
 Stein's translation of R, vol. I. p. verse in all three) Manojava--P. I. 26. 87, V. 83. 93
 
@@ -3885,9 +3885,9 @@ The tirtha has remained to this day Mantreśvara-(under VS) SK. IV. 33.
 
 one of the most celebrated places of 137
 
-pilgrimage in Kašmira. Manujeśvara--(under VS) L.q. by T.K.
+pilgrimage in Kaśmira. Manujeśvara--(under VS) L.q. by T.K.
 
-Märtandapādamüla (under Gaya ) p. 104
+Mārtandapādamüla (under Gaya ) p. 104
 
 Brahmapurāna q. by T.K. p. 166 Manulinga-(under VS) L. q. by T.K.
 
@@ -3909,11 +3909,11 @@ called Maruwardwan, a tributary of p. 71
 
 the Chenab, as Stein says (vide Marjāra-(under Go.) B. 84. 19
 
-JRAS for 1917 pp. 93-96); Bh. V. Märkandeya-hrada-A (under VS) L. 19. 18; B Kaveri is called Marud
+JRAS for 1917 pp. 93-96); Bh. V. Mārkandeya-hrada-A (under VS) L. 19. 18; B Kaveri is called Marud
 
 q. by T.K. p. 67; B (near Puruso- vrdhā in P. VI. 224. 4 and 19 ttamatirtha) B. 56. 73, 57.2, 60.9 Marusthala (under Purusottama) N. (bath in it on Caturdasi specially II. 60.22
 
-destroys all sins), N. II. 55. 20-22 Mārutālaya (under Narmada) M. 191. Märkandeyatirtha-A (on the Gomati- 86, K. II. 41. 41 (to the west of
+destroys all sins), N. II. 55. 20-22 Mārutālaya (under Narmada) M. 191. Mārkandeyatirtha-A (on the Gomati- 86, K. II. 41. 41 (to the west of
 
 Gangasangama) V. 84. 81, P. I. 32. Mātrtirtha), P. I. 18.81 (same verse) 41-42. Prof. Aiyangar's note on p. Māsesvara--(under Narmada) P. I. 18. 291 of T.K. that it is at the junction 77 of the Sarayū and Ganga is not Matalisvara--(under VS) L. q. by T.K. correct; B (under Go.) B 145.1
 
@@ -4001,7 +4001,7 @@ Meruvara-(under Badari) Var. 141. L. q. by T.K pp. 58-59, SK. IV. 33.
 
 32-35 120 and IV. 73. 155. The Tri. S, p.
 
-Mināksi-(temple of, is situated in 140 remarks 'matsyäkāram Käsi
+Mināksi-(temple of, is situated in 140 remarks 'matsyākāram Kāsi
 
 Madura) Devi-Bh. VII. 38, 11 ksetram udare yasya iti vyutpattya Mirikāvana--(near Mekala regions) Br. Gangaiva Matsyodāri-sañña'
 
@@ -4045,7 +4045,7 @@ of the Tāpi. In the printed Padma Moksakeśvara (under VS.) L. q. by
 
 V. 11. 25 the words. Sūlatāpi Payo T.K. p. 112.
 
-sni' are a misreading of Mülatäpi Moksarāja--(under Mathura) var. 164.
+sni' are a misreading of Mülatāpi Moksarāja--(under Mathura) var. 164.
 
 Payosni'. Vide I. G. I. vol. 18
 
@@ -4065,7 +4065,7 @@ practised severe tapas here). It is Mrgakāmā---(r. from Mānasa lake) Br. no o
 
 II. 18. 71
 
-there is Visnupada, the very centre Mrgasrigodaka-(on r. Vägmati) Var. of Gayāyatrā. On this hill, accord
+there is Visnupada, the very centre Mrgasrigodaka-(on r. Vāgmati) Var. of Gayāyatrā. On this hill, accord
 
 215. 64
 
@@ -4113,9 +4113,9 @@ Siva practises penance), Br, II. 18. under various names such as Kasya
 
 20-21 (where Siva resides and from papura, Sambapura, Prahladapura, which rise Sailoda lake and Sailodā
 
-Adyasthāna (Al. Sachau I. 298) river), Var. 213. 13 (to the north of Mülatäpi-(river Tāpi is so called, Mandara)
+Adyasthāna (Al. Sachau I. 298) river), Var. 213. 13 (to the north of Mülatāpi-(river Tāpi is so called, Mandara)
 
-from its source at Multai, which is Muñjavata-(on the Ganges, whicfrisuited a corruption of Mülatäpi) M. 22.33. Sivasthāna) V. 85.67, P. I. 39. 67 (Mülatäpi Payosni ca). Multai is a (same verse in both )
+from its source at Multai, which is Muñjavata-(on the Ganges, whicfrisuited a corruption of Mülatāpi) M. 22.33. Sivasthāna) V. 85.67, P. I. 39. 67 (Mülatāpi Payosni ca). Multai is a (same verse in both )
 
 1917
 
@@ -4131,7 +4131,7 @@ that are the mothers of fires ) V. 222 25
 
 Nabhi-(under Gaya) N. II. 47. 82 Nadantika - V. Dh. S. 85. 19 (very fit
 
-place for sraddha). Nädesvara-A (under VS) L. q. by
+place for sraddha). Nādesvara-A (under VS) L. q. by
 
 T.K p. 127; B (probably same as Bindusaras ) N I. 16. 46 (on Hima vat, where Bhagiratha practised
 
@@ -4141,7 +4141,7 @@ p. 103 Naga--(a hill under Gaya) Vā. 108.28 Nāgadhanvan-(not far to the south 
 
 image is established there) Nāgakūta-included under Gayasiras)
 
-Va, 111.22, N. II. 45.95 Nāgapura--Hastinapura, V. 183. 36 Nāgasähvaya-Hastinapura, on the
+Va, 111.22, N. II. 45.95 Nāgapura--Hastinapura, V. 183. 36 Nāgasāhvaya-Hastinapura, on the
 
 right bank of the Ganges, 22 miles to north-east of Meerut. Vā.77.271, M. 50. 78, Nr. 65. 11 q. by T.Kp. 252 (Govinda is guhya name of Visnu here). The printed text (Govindam nama sayake) is corrupt. It should be 'nāgasahvaye.' Vide under
 
@@ -4159,9 +4159,9 @@ p. 115 Naimisa or Naimisa-la forest) A
 
 country round Nimsar on the Gomati, 45 miles from Lucknow. In Kathaka Samhita X. 6 we have
 
-Naimisyā vai sattram-äsata'; while in Pancavimsa Br. 25. 6, 4 occurs Naimisiya and Kausitaki Br. 26. 5 has Naimisiyānām' and 28. 4 also. In the great Epic and Purānas it is mentioned very often; vide V. 84.59-64 (all tīrthas on the earth are centred in Naimisa), V 87. 5-7 (on Gomati in east). M. 109.3 (most holy on the earth), K. II. 20.34, K. II. 43. 1-16 (very dear to Mahadeva). vā 2.8, Br, I. 2.8 (bo‘h derive it as
+Naimisyā vai sattram-āsata'; while in Pancavimsa Br. 25. 6, 4 occurs Naimisiya and Kausitaki Br. 26. 5 has Naimisiyānām' and 28. 4 also. In the great Epic and Purānas it is mentioned very often; vide V. 84.59-64 (all tīrthas on the earth are centred in Naimisa), V 87. 5-7 (on Gomati in east). M. 109.3 (most holy on the earth), K. II. 20.34, K. II. 43. 1-16 (very dear to Mahadeva). vā 2.8, Br, I. 2.8 (bo‘h derive it as
 
-bhramato dharmacakrasya yatra nemir-asiryata' from 'nemi' rim of a wheel and śr. to be shattered'), B 1,3-10 (Gne description): Vāyu (I. 14-15) makes it clear that the great sattra of the sages of Naimisaranya was in Kuruksetra on the Drsadvati. But Vā. 2,9 and Br. I. 2.9 say that it was on the Gomati. It is possible that Gomati is only an adjective, It was here that enmity between Vasistha and Visvāmitra flourished, Kalmāşapāda was cursed by Sakti and Parāśara was born. Vi. III. 14.18 states that by a bath in Gangā, Yamunā, Naimisa-gomati and other rivers and by honouring pitrs one destroys all sins. B-Br. S. XI. 60 says that a malignant Ketu in Uttara
+bhramato dharmacakrasya yatra nemir-asiryata' from 'nemi' rim of a wheel and śr. to be shattered'), B 1,3-10 (Gne description): Vāyu (I. 14-15) makes it clear that the great sattra of the sages of Naimisaranya was in Kuruksetra on the Drsadvati. But Vā. 2,9 and Br. I. 2.9 say that it was on the Gomati. It is possible that Gomati is only an adjective, It was here that enmity between Vasistha and Visvāmitra flourished, Kalmāṣapāda was cursed by Sakti and Parāśara was born. Vi. III. 14.18 states that by a bath in Gangā, Yamunā, Naimisa-gomati and other rivers and by honouring pitrs one destroys all sins. B-Br. S. XI. 60 says that a malignant Ketu in Uttara
 
 Bhadrapada destroys king of Naimisa, Naimisa---kuñja on Sarasvati) V. 83.
 
@@ -4191,7 +4191,7 @@ Narmadā where Cyavana bathed). of Haramukba peaks which contain Nakuli-(r. risi
 
 pada) Br. II. 18. 68
 
-Nandikeśa--(under Narmadā) M. 191.6 Nakulisa--(under VS) L. q. by TK Nandikunda-A (in Kāšmira) Anu. 25.
+Nandikeśa--(under Narmadā) M. 191.6 Nakulisa--(under VS) L. q. by TK Nandikunda-A (in Kāśmira) Anu. 25.
 
 p. 107
 
@@ -4211,11 +4211,11 @@ and 73-74 Nanda-V 87.27. Vā. 77.79. Adi. 215. Nandiparvata---in Kasmira) HC. 4.
 
 and 32 (near Haramukuta-Ganga) 166. 28, Bh. VII. 14. 32, Var. 214.
 
-Nandiša-(Siva worshipped in Nund 47. Even all these passages do no
+Nandiśa-(Siva worshipped in Nund 47. Even all these passages do no
 
 kol in Kaśmīra, but in its extended convey the exact position. Bh. IV. 6.24 (in the context) indicates that sense applied to the whole sacred it was near Kailāsa and Saugandhi- territory from the lakes on Haramu kavana. Bh. (IV. 6. 23-24) places kuța down to Bhūtesvara) R. I. 124 Nandā and Alakanandā near Saugan- Nandisesvara-(under Vs) L. q. by dhika-vana
 
-T.K, p. 57 Nandana-(r. rising in Rkşavat m.) M. Nanditata-(under Go.) B. 152.1 and
+T.K, p. 57 Nandana-(r. rising in Rkṣavat m.) M. Nanditata-(under Go.) B. 152.1 and
 
 144. 25. Va 45. 97, B 27. 28 (both 40 (also called Ananda) last read candanā, which seems to Nanditirtba-(under Narmada) M. 191. be a misreading)
 
@@ -4223,7 +4223,7 @@ T.K, p. 57 Nandana-(r. rising in Rkşavat m.) M. Nanditata-(under Go.) B. 152.1 
 
 g. by T.K p. 187
 
-Naradakunda-(under Lohärgala) Var. Nandāsarasvati-the r. Sarasvati came 151. 37
+Naradakunda-(under Lohārgala) Var. Nandāsarasvati-the r. Sarasvati came 151. 37
 
 to be so called. Vide P. V. 18. 456 Naradatirtha--(under Narmada) K Nandāvari-(r.) Devala q.by T.Kp.249 I I.41. 16-17, P.1.18. 23 ( same verse
 
@@ -4243,13 +4243,13 @@ Naraka-(under Narmada) P I. 18. 39, 291. 62, Rām. II. 115. 22, VII.
 
 Nārasimha--(under Gaya) N II. 46.46 gaon in Oudh about 8 miles to the
 
-Narasimbasrama--(in Käśmira) NM south of Fyzabad.
+Narasimbasrama--(in Kāśmira) NM south of Fyzabad.
 
 1520 Nandiguba-(under Mathura) Var. q.
 
 by T.K. p. 193
 
-Närasimhatirtha-A (on the North Ji Nandikşetra-in Kasmira) R, I. 36, bank of Go.) B 149. 1; B (desthops
+Nārasimhatirtha-A (on the North Ji Nandikṣetra-in Kasmira) R, I. 36, bank of Go.) B 149. 1; B (desthops
 
 NM 1204-1328 (story of Nandin sin at very sight) M. 22. 43 kalian terutama
 
@@ -4279,9 +4279,9 @@ X. 87. 4-7 Nārāyanastbāna-V. 84.122, P. I. 38.
 
 37.5; B-B 167.1 and 33 (also called
 
-Vipratirtha under Go.) Näritirthäni-(in the Dravida country
+Vipratirtha under Go.) Nāritirthāni-(in the Dravida country
 
-on the sea) V. 118.4, Adi. 217. 17 (daksine sägaränūpe pañca tirthāni santi vai). Vide Pancāpsaras
+on the sea) V. 118.4, Adi. 217. 17 (daksine sāgarānūpe pañca tirthāni santi vai). Vide Pancāpsaras
 
 rmada--Vide pp. 703-707 above Narmada-Erandi-sangama T.P. p. 383 Narmadaprabhava-TP p. 383, P. I.
 
@@ -4297,7 +4297,7 @@ Narmadāyāśca prabhede Narmadesa-(under Narmada) M. 191.
 
 Naubandhanasaras-(on the border of
 
-Kašmira and Panjab) NM 64-66, 165-166 (also called Visnupada and
+Kaśmira and Panjab) NM 64-66, 165-166 (also called Visnupada and
 
 Kramasāra ), HC 4.27 Nepāla-(modern Nepal) Var. 215.
 
@@ -4329,7 +4329,7 @@ B Nilakunda, Vitastā and Sulaghata are three names of the same tirtha or spring
 
 HC 12. 17. Nilanāga-(king of Nāgas and
 
-protector of Kasmira) NM 295-301, R. I. 28, HC. 12. 17, SM p. 182. It is to the south of Bring in Shahabad pargana; popularly known as Vērnäg, the traditional source of Vitastā. Ain. A. vol. II. p. 361 describes Vernäg as the source of Bihat (Vitastā) and remarks (p. 363 ) 'Nilanāg, the basin of which measures 40 bighas. Its water is exquisitely clear and is considered a sacred spot and many voluntarily
+protector of Kasmira) NM 295-301, R. I. 28, HC. 12. 17, SM p. 182. It is to the south of Bring in Shahabad pargana; popularly known as Vērnāg, the traditional source of Vitastā. Ain. A. vol. II. p. 361 describes Vernāg as the source of Bihat (Vitastā) and remarks (p. 363 ) 'Nilanāg, the basin of which measures 40 bighas. Its water is exquisitely clear and is considered a sacred spot and many voluntarily
 
 perish by fire about its border' Nilaparvata-A (near Haridwara) nu.
 
@@ -4353,15 +4353,15 @@ History of Dharmasastra
 
 part of the great Himalayan range.
 
-Vide also Väyu 47. 64 Nişadha-(r. rising in Vindhya) Br. II.
+Vide also Vāyu 47. 64 Niṣadha-(r. rising in Vindhya) Br. II.
 
 16, 32. Vã 45, 102 Nisakaralinga---(under VS) L. q. by
 
 T.K p. 65 Niscira-appears to be a variant reading
 
-for Nirvīrä; M. 114. 22 reads
+for Nirvīrā; M. 114. 22 reads
 
-'piscala' Nisphalesa-K. II. 41.8 Nisthäsangama-- ( where there was
+'piscala' Nisphalesa-K. II. 41.8 Nisthāsangama-- ( where there was
 
 Vasisthāśrama) PI. 38. 56 Nisthāvāsa---P, I. 38. 54 Nisthivi--(r, rising in Himavat) Br.
 
@@ -4369,7 +4369,7 @@ II. 16.26 Nivāsalinga--(under VS) L. q. by T.K
 
 p. 89 Nūpa-(r. rising from Pariyātra m.)
 
-Br. II. 16. 28, Mär. 54. 23 (reads "Nupi')
+Br. II. 16. 28, Mār. 54. 23 (reads "Nupi')
 
 M. 22. 70, Bh. v. 19. 16, K. II. 20. 33, Devi-Bh. VII. 38 (Devisthāna Nilamba ); B (mound on which Purusottama shrine stands) P. IV. 17. 23 and 35, IV. 18. 2. SK. q, by
 
@@ -4399,11 +4399,11 @@ lemy p. 97) Niravindaparvata-Anu, 25. 42 Nirjaresvara-(under VS) L. q. by
 
 T.K. p. 103 Nirvindhya-(river rising in Vindhya
 
-and falling into Chambal) B. 27. 33, M. 114. 27, Mär. 113. 33. Br. II. 16. 32. Meghadūta 1. 28. Acc. to Bh. IV. 1. 17-19. Vi. II. 3. 11, the river starts from m. Rksa and sage Atri had his hermitage on it; Mār. chap. 113 narrates the story of Vidūratha whose capital was near Nirvindhyā and Vatsapri, son of
+and falling into Chambal) B. 27. 33, M. 114. 27, Mār. 113. 33. Br. II. 16. 32. Meghadūta 1. 28. Acc. to Bh. IV. 1. 17-19. Vi. II. 3. 11, the river starts from m. Rksa and sage Atri had his hermitage on it; Mār. chap. 113 narrates the story of Vidūratha whose capital was near Nirvindhyā and Vatsapri, son of
 
 Bhalandana Nirvira-(r.) V 84. 138-139 (it had
 
-Vasişthasrama on its bank) Nisadha-(m.) V.188. 112; Al. (vol. II.
+Vasiṣthasrama on its bank) Nisadha-(m.) V.188. 112; Al. (vol. II.
 
 p. 142) says that near the mountain Nisadha is the lake Visnupada whence comes the river Sarasvati, Therefore Nisadha seems to be a
 
@@ -4413,11 +4413,11 @@ M 22.71 (sraddha and dana very efficacious here), Vam, 46.50, 57. 83, 58. 115; P
 
 different views about identification Ojasa--(under Kuruksetra, probably
 
-same as 'Aujasa' above) Väm. 41. 6,
+same as 'Aujasa' above) Vām. 41. 6,
 
 90. 17 Omkara-A (one of five guhya lingas
 
-in VS) K I. 32. 1-11, L. I. 92. 137. P I. 34.1-4; B (Omkāra Mändhātā, one of the twelve Jyotirlingas on an island in Narmada about 32 miles north-west of Khandwa) M 22. 27, 186. 2, P. II. 92. 32. VI. 131. 67, SK.I.1.17. 209. In the Halayudha-stotra engraved in the Amaresvara temple at Mandhātā on the left bank of the Narmada dated in samvat 1120 (1063_AD) in E I. vol. 25 p. 173 it is baid that Omkāra dwells in Mändla tipura on the confluence of Narmadan
+in VS) K I. 32. 1-11, L. I. 92. 137. P I. 34.1-4; B (Omkāra Māndhātā, one of the twelve Jyotirlingas on an island in Narmada about 32 miles north-west of Khandwa) M 22. 27, 186. 2, P. II. 92. 32. VI. 131. 67, SK.I.1.17. 209. In the Halayudha-stotra engraved in the Amaresvara temple at Mandhātā on the left bank of the Narmada dated in samvat 1120 (1063_AD) in E I. vol. 25 p. 173 it is baid that Omkāra dwells in Māndla tipura on the confluence of Narmadan
 
 POONA
 
@@ -4431,7 +4431,7 @@ List of tirthas
 
 IV]
 
-Käveri, Vide above under Mähis-
+Kāveri, Vide above under Māhis-
 
 mati Omkāreśvara--(under VS) SK. IV. 33.
 
@@ -4455,11 +4455,11 @@ here most efficacious), Br. III. 13.
 
 37 (reads Palamañjara) Palasaka-(where Jamadagni performed
 
-sacrifices) V. 90. 16 (Paläsakesu
+sacrifices) V. 90. 16 (Palāsakesu
 
 punyesu ) Palasini-(r.) A (near Girnar in Kathi
 
-war). Vide under Raivataka and Rudradāman's Junagadh Inscription (E I. vol. VIII. p. 36 at p. 43 ) and Skandagupta's Ins. of 457 A.D.(C.II. III. at p. 64); B (r. Paddair which falls into the sea near Kalingapatam in Ganjam) Mär, 54. 30 (rising from
+war). Vide under Raivataka and Rudradāman's Junagadh Inscription (E I. vol. VIII. p. 36 at p. 43 ) and Skandagupta's Ins. of 457 A.D.(C.II. III. at p. 64); B (r. Paddair which falls into the sea near Kalingapatam in Ganjam) Mār, 54. 30 (rising from
 
 suktimat), Va. 45. 107 Pālesvara--(under Sabhramati) P. VI.
 
@@ -4469,7 +4469,7 @@ established) Pampa-(r. tributary of Tungabhadra)
 
 Bh. X. 79. 12, Vām. 90.16 Pampa-(v.1. Japā or Jaya ) P. I. 26.
 
-20-21 ( said to be the door of Kuru kşetra)
+20-21 ( said to be the door of Kuru kṣetra)
 
 Pampasaras-(Lake Pampā near
 
@@ -4481,15 +4481,15 @@ Bhimarathim tatah) Pampātirtha--M. 22. 50. Bh. VII. 14.
 
 T. K p. 62 Pañcaganga-The five rivers called
 
-Ganga are Bhagirathi, Godavari, Krsna, Pinäkini (Pennar) and Kaveri. But in Drona 54. 23 (Pañcagangāsu să punya ) only northern rivers seem
+Ganga are Bhagirathi, Godavari, Krsna, Pinākini (Pennar) and Kaveri. But in Drona 54. 23 (Pañcagangāsu să punya ) only northern rivers seem
 
 to be meant Pancakesvara-(under Vs) L. q. by
 
 T. K p. 65 Pancalakesvara-(under VS) L. q. by
 
-T. K p. 65 Pancakunda-A (under Dvärakā) Var.
+T. K p. 65 Pancakunda-A (under Dvārakā) Var.
 
-q. by T.K.p. 226; B (under Lohärgala) Var. 151. 43 (where five dhārās from himakuta fall) Pañcanada-(the five rivers in Punjab)
+q. by T.K.p. 226; B (under Lohārgala) Var. 151. 43 (where five dhārās from himakuta fall) Pañcanada-(the five rivers in Punjab)
 
 V 82. 83. Mausala 7. 45, Vā. 77.56. KII. 44. 1-2, L I. 43. 47-48 (near Japyesvara), Vām. 34.26, P. I. 24.31. The Mbh. (vol. II. p 239 on Pan.lv. 1.88) derives Pañcanadah (Pañcanade bhavah) from Pañcanadam. The five rivers in Vedic times were Sutudri, Vipas, Parusni, Asikni and Vitastā and in modern times they are called Sutlej. Bias, Rāvi, Chenab and Jhelum. The union of these five rivers is called Panjnad in modern times and then the com bined stream unites with the Indus a few miles above Mithankot. Br. S. XI. 60 states that a malignant Ketu in Dhanistha kills the king of Pan canada and Br. S. 14.21 statest is a country in the west. Vandparva 192. 22 mentions the Sindhu (Indus) and Pañcanada separately Sindhum nadam Pañcanadam Devikalba
 
@@ -4527,13 +4527,13 @@ T. Kp. 96.
 
 (1) Devaprayāga (confluence of Pañcavati-A (in the north) v. 83. Bhagirathi and Alakananda), (2) 162; B (on the Go.) Rām. III. Karnaprayāga (Alakananda and 13. 13 (calls it 'desa'). III. 13. 19 Pindara), (3) Rudraprayaga (Alaka- (two yojanas from Agastya-asrama ). nanda and Mandakini) 18 miles from NII. 75. 30, Ag. 7.3. Vide pp. 709 Srinagar, capital of Tebri, (4) Nanda- 710 above prayāga (Alakanada and Nanda). (5) Pancayaksā - ( location uncertain ). Visnuprayaga near Joshimatha V 84. 10
 
-(Alakananda and Vişnuganga). Pancāyatana-(five tirthas on the Pañcāpsaras-tirtha-(on the southern Narmadā ) M. 191. 5-6
+(Alakananda and Viṣnuganga). Pancāyatana-(five tirthas on the Pañcāpsaras-tirtha-(on the southern Narmadā ) M. 191. 5-6
 
-sea) Bh. X. 79.18 ( Sridhara-svāmi, Pandārakavana-(very fit for sraddha) com. of Bh,, says that this tirtha is V a 77.37 in Phālguna which is Anantapura Pandavesvaraka-(under Narmada ) in the Madras State, Adi. (216.1-4) P 1. 18. 58, M. 191. 61-62 names them as Agastyatirtha, Pandukūpa-Br. III. 13.37 (near the Saubhadra, Pauloma, Kärandhama sea) very fit for sraddha and Bhāradvāja. They were Pandupura--Vide Paundarikapura shunned by all, but Arjuna plunged Pandura-Vā. 45. 91 (a minor m.) into them and relieved the Pandisahya-(one of the guhya-ksetras Apsarases who had been reduced to of Visnu) Nr. 65.9 a. by TK 12 pools by a curse. SK, Mahesvara- Panduvišālātirtha-(under Gaya) Vā. khanda, Kaumärikā section, chap. 1 .77.99; Vā. 112. 44-48 (read Pandu is Pañcapsarah-samuddharana (by
+sea) Bh. X. 79.18 ( Sridhara-svāmi, Pandārakavana-(very fit for sraddha) com. of Bh,, says that this tirtha is V a 77.37 in Phālguna which is Anantapura Pandavesvaraka-(under Narmada ) in the Madras State, Adi. (216.1-4) P 1. 18. 58, M. 191. 61-62 names them as Agastyatirtha, Pandukūpa-Br. III. 13.37 (near the Saubhadra, Pauloma, Kārandhama sea) very fit for sraddha and Bhāradvāja. They were Pandupura--Vide Paundarikapura shunned by all, but Arjuna plunged Pandura-Vā. 45. 91 (a minor m.) into them and relieved the Pandisahya-(one of the guhya-ksetras Apsarases who had been reduced to of Visnu) Nr. 65.9 a. by TK 12 pools by a curse. SK, Mahesvara- Panduviśālātirtha-(under Gaya) Vā. khanda, Kaumārikā section, chap. 1 .77.99; Vā. 112. 44-48 (read Pandu is Pañcapsarah-samuddharana (by
 
 sila); T.K. p. 168 quoting Vā, reads Arjuna).
 
-Panduvisalya Pañcārunaksetra--(to north of Stuta- Pāņikhyāta--P. I. 26. 84, V. 83. 89
+Panduvisalya Pañcārunaksetra--(to north of Stuta- Pāṇikhyāta--P. I. 26. 84, V. 83. 89
 
 svāmin ) Var. 148. 45
 
@@ -4547,7 +4547,7 @@ in this vana) Pancaśikha--(under Badari) Var. Papamoksa--(under Gaya) Ag. 11618
 
 141. 14-16
 
-N. II. 47. 79 Pañcaśikhisvara-(under VS) L. q. by Päpapramocana--(under Kokām u LINE)
+N. II. 47. 79 Pañcaśikhisvara-(under VS) L. q. by Pāpapramocana--(under Kokām u LINE)
 
 Var. 140, 51-54
 
@@ -4567,15 +4567,15 @@ List of tirthas
 
 789
 
-Pāpapraņāsana--A (on Yamuna) PI.
+Pāpapraṇāsana--A (on Yamuna) PI.
 
 31. 15; B (under Go.) B 92.1 and 48-49, also called 'Dhautapāpa' and
 
-"Gālava') Papasūdanatirtha--(a spring in Kas mira) R. I. 32, H. C. 14. 36. Kapa teśvara, Sankarsana Näga and Papa südana are the same. Siva is wor shipped as Kapatesvara at the sacred
+"Gālava') Papasūdanatirtha--(a spring in Kas mira) R. I. 32, H. C. 14. 36. Kapa teśvara, Sankarsana Nāga and Papa südana are the same. Siva is wor shipped as Kapatesvara at the sacred
 
 spring Para-A (Visvāmitra gave that name
 
-to Kausiki) Adi 71. 30-32; B (r: ri sing in Pariyatra and falling into Sindhu in Malwa) Vā. 45. 98, M. 13. 44 and 114. 24, Mar. 54. 20. Printed Vayu reads Parā, though soine Mss, read Parā. In M. 13. 44 it is said that Devī is styled Parä on the bank of Pārā. Vide Mālati Madhava 4th Act at end, and 9th
+to Kausiki) Adi 71. 30-32; B (r: ri sing in Pariyatra and falling into Sindhu in Malwa) Vā. 45. 98, M. 13. 44 and 114. 24, Mar. 54. 20. Printed Vayu reads Parā, though soine Mss, read Parā. In M. 13. 44 it is said that Devī is styled Parā on the bank of Pārā. Vide Mālati Madhava 4th Act at end, and 9th
 
 Act, first verse and Br. S. 14.10 Paribāsapura--(modern Paraspor in
 
@@ -4587,7 +4587,7 @@ by T.K. p. 59 Pāriplava--(under Sarasvati) V. 83.12.
 
 P. I. 26. 10 (same verse as in v),
 
-Vām. 34. 17 Päriyātra--(or Paripatra, one of the
+Vām. 34. 17 Pāriyātra--(or Paripatra, one of the
 
 seven main mountain ranges). It must be deemed to be the western part of Vindhya, as the rivers Cham bal, Betwa and Siprā are said to rise from it. Vide K. I. 47. 24, Bh. V. 19.16, Vā. 45.88 and 98, B.27.29. It is mentioned in the Nasik Ins- cription No. 2 of Gotamīputa Sata karni in the words rendered into Sanskrit (from Prakrit) as fa que U ET -R2 THITETTAZT-A ... aga, Bom. G. vol. 16 p. 550 and as Paricata in Nāsik Ins. No. 10 (Bom. G. vol. 16 p. 569) and in Mahābbāsya as the southern boundary of Aryāvarta (vol.
 
@@ -4595,13 +4595,13 @@ I. p. 475 on Pan, II. 4.10) and also
 
 in Baud. Dh. S. I. 1.27 Parjanyesvara-(under Vs) L. q. by
 
-T.K p. 115 Parnasa (or Varnasa)-A (r. Banäs in
+T.K p. 115 Parnasa (or Varnasa)-A (r. Banās in
 
 Rajputana which rising in Udaipur State falls into the Chambal) S. 65. 6 (yatkincid anu Parnasām prak Sind horapi Saubala 1 etan mama dhanam &c). Parnasa would mean
 
 the hope of foliage). Va. 45. 97, Var, 214. 48, M. 114, 23, S.9. 21; B a river of Western India that falls into the Runn of Cutch. The first is mentioned as Barnāsa in Usavadata's Nasik Inscription No. 10 (Bom. G. Vol. 16 p. 569 and p. 633); in Ins. No. 14, at Nasik it is spelt as Bapāsā (Bom. G. Vol. 16 p 577) and also in Karle cave Inscription No. 13 in E. I. vol. VII. at p. 57. Vide for this
 
-river Bom, G. vol. V p. 283. Parusni-A (modern Rävi in Punjab ) Rg. V. 52.9, VII. 88.8-9 (Sudās met bis enemies Kutsa and the latter's allies on this river). VIII. 74. 15, X. 75. 5. Nir. IX. 26 states that Irāvati was called Parusni; B (a tributary of
+river Bom, G. vol. V p. 283. Parusni-A (modern Rāvi in Punjab ) Rg. V. 52.9, VII. 88.8-9 (Sudās met bis enemies Kutsa and the latter's allies on this river). VIII. 74. 15, X. 75. 5. Nir. IX. 26 states that Irāvati was called Parusni; B (a tributary of
 
 the Go.) B 144. 1 and 23. Parusni-sangama -(under Go.) B 144.1: Parvatākhya-(under VS ) K I. 35, 8,
 
@@ -4637,7 +4637,7 @@ History of Dharmaśāstra
 
 Pasupatīśvara-(under VS) L. q. by
 
-T.K p. 93 Patala-(very sacred to pitrs) M 22.33 Patandhama-(m.) Vā. 45.91 Patatritirtha(under Go.) B 166. 1. Pathisvara-(in Kāšmira beyond
+T.K p. 93 Patala-(very sacred to pitrs) M 22.33 Patandhama-(m.) Vā. 45.91 Patatritirtha(under Go.) B 166. 1. Pathisvara-(in Kāśmira beyond
 
 Bharatagiri and Vitasta) NM 1245
 
@@ -4669,7 +4669,7 @@ devotees of Vasudeva). Payodā--(r.) Br. II. 18. 70, Va. 47.67
 
 (rising from lake Payoda). Payosni.(r. rising from Rksa or from
 
-Vindhya). Wilson says that it is (vol. II. p.144 n 37) the Pain-Ganga that joins the Warada or Wardha river in Central Provinces. V. 85. 40. V. 88, 4, 7-9 (it is superior to all rivers including Ganga and is the river of king Nrga). 121. 16, Vi. II. 3. 11. Tāpi and Payosni are separately mentioned in most Puränas e. g. Vi. II. 3. 11, M. 114. 27. B 27. 33, Võ 45. 102, Vam. 13. 28, N II. 60. 29, Bh. X. 79, 20, P. IV. 14. 12 and IV. 16.3 (sage
+Vindhya). Wilson says that it is (vol. II. p.144 n 37) the Pain-Ganga that joins the Warada or Wardha river in Central Provinces. V. 85. 40. V. 88, 4, 7-9 (it is superior to all rivers including Ganga and is the river of king Nrga). 121. 16, Vi. II. 3. 11. Tāpi and Payosni are separately mentioned in most Purānas e. g. Vi. II. 3. 11, M. 114. 27. B 27. 33, Võ 45. 102, Vam. 13. 28, N II. 60. 29, Bh. X. 79, 20, P. IV. 14. 12 and IV. 16.3 (sage
 
 Cyavana had his asrama on it). Vide under Mülatāpi. V 121. 16 shows that after Payosni the Pandavas came to Vaidurya-parvata and Narmada. Hunter in I. G. I. vol. XX. p. 412 holds that Payosni is the modern Purnā river in Berar rising in the Gavilgadh hills and falling into the Tapi. The Nalacampū VI. 29 says (Parvatabhedi pavitram... Hari miva...vahati payah pasyata Payosni). Payosnisangama--( sraddha yields in
 
@@ -4679,7 +4679,7 @@ bably modern Pharal, 17 miles to
 
 south-east of Thanesar) V. 83. 86 Pbalgu--(r.) flows towards the north
 
-past the town of Gayä and ultimately joins a branch of the Panpūn. Vide District Gazetteer of Gayā p. 8. Ag. 115. 27 derives it from phala and go (yasmin phalati srir-gaur-va Kamadhenur-jalam mahi: Drstiram yadikam yasmāt Phalgutirtham na phalguvat). Va 111. 16 says it is superior to Gangā since the latter is only water from the foot of Vişnu while the former is Adi-Gadadhara himself, Vide pp. 648 n, 653, 660 n,
+past the town of Gayā and ultimately joins a branch of the Panpūn. Vide District Gazetteer of Gayā p. 8. Ag. 115. 27 derives it from phala and go (yasmin phalati srir-gaur-va Kamadhenur-jalam mahi: Drstiram yadikam yasmāt Phalgutirtham na phalguvat). Va 111. 16 says it is superior to Gangā since the latter is only water from the foot of Viṣnu while the former is Adi-Gadadhara himself, Vide pp. 648 n, 653, 660 n,
 
 661-62, 664 n Phalguna--Bh. VII. 14, 31, 3, 79, 18
 
@@ -4697,7 +4697,7 @@ Kathiawar) V. 82. 65-67 (where coins were found marked with lotus), 88. 21, M. 1
 
 POONA 1. 11 (Krsna's son Samba dressed as a pregnant woman was curbed here by sages), Var. 144. 10 (agent)
 
-Vişnusthana), P I. 24. 14-15. Deyatastrand
+Viṣnusthana), P I. 24. 14-15. Deyatastrand
 
 POONA
 
@@ -4727,7 +4727,7 @@ tirtha) B. 110.1 and 226 (Pippale
 
 svara in this verse) Fippalesa ---(under Narmada) M. 190.
 
-13, P.1.17, 10 Pippali--(r. rising from Rşyavat) M.
+13, P.1.17, 10 Pippali--(r. rising from Rṣyavat) M.
 
 114. 25; probably same as Pippala Pisācesvara-(under VS) L. q. by T.K.
 
@@ -4743,7 +4743,7 @@ II. 13.30 Pitāmabasaras--same as Puskara-A
 
 V.89.16; B Sal. 42.30 (the source of
 
-Sarasvati), V. 84. 149 Pitämahatirtha--(under Narmadā ) M.
+Sarasvati), V. 84. 149 Pitāmahatirtha--(under Narmadā ) M.
 
 194. 4, P. I. 21. 4 Pithas---fifty are enumerated in Br.IV.
 
@@ -4761,11 +4761,11 @@ in Kuruksetra where Purūravas found Urvasi) Vā. 91. 32
 
 Plaksavatarana---V. 90.4 (where sacri
 
-ficers performed Särasvata-sattras); V. 129. 13-14 ( Yamunātirtha where those who performed Sarasvata sacrifices came for the final cere monial bath called avabhrtha), K II. 37.8 (a Visnutirtha), Mār. 21.29-30
+ficers performed Sārasvata-sattras); V. 129. 13-14 ( Yamunātirtha where those who performed Sarasvata sacrifices came for the final cere monial bath called avabhrtha), K II. 37.8 (a Visnutirtha), Mār. 21.29-30
 
 (in Himavat) Prabhasa-A (in Saurastra near the
 
-sea, had a famous temple of Soma nätha, one of the twelve Jyotirlingas, broken by Mahmud of Gazni) also called Somanāthapattana, SK. VII.1. 2. 44-53 (several origins of the name suggested). V. 82. 58, 130. 7. V. 88, 20, 118. 15, 119. 3, Adi. 218. 2-8, Sal. 35. 42 (the moon was cured of consumption here), KII.35.15-17.N. II. 70,1-95 (mabātmya), G. I. 4.81, Vām. 84. 29 (Sarasvati falls into the sea near it). It is mentioned as a holy place in Usavadāta's Inscription at Nasik (Bom. G. vol. 16 p. 669 and in Cintra prasasti of Sarangadeva dated samvat 1343 ( 1287 A. D.). Prabhāsa is styled Devapattana and it is said that it is on the confluence of the Saras vati and the sea [E. I. vol. I. p. 271 at p. 283 and Sridbara's prasasti of samvat 1273 (1216 A. D.)]; B (on the Sarasvati) Sal. 35.78, SK.VII.1. 11-14; C (a hill near Gaya) Vā. 108, 16, 109. 14, Ag. 116. 15; D (under VS) K. I. 35. 16, P. I. 37. 15; E (under Dväraka) Mausala 8. 9, Var. 149, 29-33 (there are alligators there but they do no harm). SK. VII. 1 chap. 35-36 (mahatmya of Sarasvati and Prabhāsa), Bh. XI. 30. 6 (there is pratyak-Sarasvati there i. e. S. flowing westwards, while in Kuru kşetra it is präci). Usavadāta's In scription states that the prince bore the expenditure of the marriages and secured brides for Light bịhamanas at Prabhasa (Prabhaxe.Punyatirthe). It was here that Lord Krsna left his mortal coil. Vide The life and
+sea, had a famous temple of Soma nātha, one of the twelve Jyotirlingas, broken by Mahmud of Gazni) also called Somanāthapattana, SK. VII.1. 2. 44-53 (several origins of the name suggested). V. 82. 58, 130. 7. V. 88, 20, 118. 15, 119. 3, Adi. 218. 2-8, Sal. 35. 42 (the moon was cured of consumption here), KII.35.15-17.N. II. 70,1-95 (mabātmya), G. I. 4.81, Vām. 84. 29 (Sarasvati falls into the sea near it). It is mentioned as a holy place in Usavadāta's Inscription at Nasik (Bom. G. vol. 16 p. 669 and in Cintra prasasti of Sarangadeva dated samvat 1343 ( 1287 A. D.). Prabhāsa is styled Devapattana and it is said that it is on the confluence of the Saras vati and the sea [E. I. vol. I. p. 271 at p. 283 and Sridbara's prasasti of samvat 1273 (1216 A. D.)]; B (on the Sarasvati) Sal. 35.78, SK.VII.1. 11-14; C (a hill near Gaya) Vā. 108, 16, 109. 14, Ag. 116. 15; D (under VS) K. I. 35. 16, P. I. 37. 15; E (under Dvāraka) Mausala 8. 9, Var. 149, 29-33 (there are alligators there but they do no harm). SK. VII. 1 chap. 35-36 (mahatmya of Sarasvati and Prabhāsa), Bh. XI. 30. 6 (there is pratyak-Sarasvati there i. e. S. flowing westwards, while in Kuru kṣetra it is prāci). Usavadāta's In scription states that the prince bore the expenditure of the marriages and secured brides for Light bịhamanas at Prabhasa (Prabhaxe.Punyatirthe). It was here that Lord Krsna left his mortal coil. Vide The life and
 
 1917
 
@@ -4811,7 +4811,7 @@ note 1358. Prajapatya--(under VS) K I. 35.4, PI.
 
 161.1, P VI. 181, 5 (on the bank of Go. there was a town called Meghankara): same as Pranahitā Prantakapāniya -- (near Pañcanada) fra Var. 215. 100
 
-Präpana-(to the north of Mandara)
+Prāpana-(to the north of Mandara)
 
 Var. 143. 17 Prasravana-giri-A (in Janasthāna)
 
@@ -4829,13 +4829,13 @@ devotees of Vasudeva) Pratisthāna-A (near Prayāga) V 85.76,
 
 Pratisthāpakas (C.I. I. vol. I. p. 67). Pravara-(r. that joins the Godavari)
 
-B 106. 46-54 ( on which is situated Niväsapura,modern Nevase or Nevās). It joins Godavari at Toka in Ahmed nagar District, Bom. G. vol. 17 p. 6 Pravarapura-(see under Srinagara) R.
+B 106. 46-54 ( on which is situated Nivāsapura,modern Nevase or Nevās). It joins Godavari at Toka in Ahmed nagar District, Bom. G. vol. 17 p. 6 Pravarapura-(see under Srinagara) R.
 
 III. 336-349 Pravara-sangama-(with Go) B 106.1.
 
 Vide Bom. G. vol. XVII. p. 740 for Toka and Pravarasangam, two holy towns on the left and right banks of the Pravara at its meeting with the Godavari, 7 miles north-east of
 
-Neväsa
+Nevāsa
 
 STITU
 
@@ -4891,7 +4891,7 @@ p. 116 Punahpuna (r. under Gayā, modern
 
 Pün-Pūn) Va. 108. 73, N. II. 47. 75 Punaravartananda-(r.) Anu. 25. 45 Pundarika--A (under Kubjāmraka) - Var, 126, 57, P. I. 26. 78; B (near
 
-Kuru kşetra) Vām. 81. 7-8 Pundarika-(r. rising from a lake called
+Kuru kṣetra) Vām. 81. 7-8 Pundarika-(r. rising from a lake called
 
 Payoda) Br, II, 18. 69-70
 
@@ -4923,13 +4923,13 @@ went) Pururavasatirtha-(under Go.) B. 101.
 
 sangama and Brahma-tirtha) Purusottama-(Jagannatha or Puri in
 
-Orissa) B. chapters 42, 48, 68, 177, 178; M. 13. 35, K. II. 35. 27, N. II. chapters 52-61 (mähātmya). Vide
+Orissa) B. chapters 42, 48, 68, 177, 178; M. 13. 35, K. II. 35. 27, N. II. chapters 52-61 (māhātmya). Vide
 
 pp. 692-703 above Purvamukha--(a variant reading for
 
 Purnamuka in Var. 126. 40) Puskara--(town, lake and place of
 
-pilgrimage, six miles from Ajmer). One of the few temples of god Brahma exists here. There are three kundas called Jyeştha, Ma. dhyama and Kanistha (N. II. 71.12, P. V. 28. 53). Usavadāta's Nasik Ins. No. 10 mentions gifts made by him at three pools (Ruskare zu ). Vide Bom. G. vol. 16 pow50. Va. 77. 40, K. II. 20. 34 and VDHS.
+pilgrimage, six miles from Ajmer). One of the few temples of god Brahma exists here. There are three kundas called Jyeṣtha, Ma. dhyama and Kanistha (N. II. 71.12, P. V. 28. 53). Usavadāta's Nasik Ins. No. 10 mentions gifts made by him at three pools (Ruskare zu ). Vide Bom. G. vol. 16 pow50. Va. 77. 40, K. II. 20. 34 and VDHS.
 
 a za UT 85. 1-3 state that sraddiderantene Pus
 
@@ -4961,7 +4961,7 @@ Raivataka-hill at Junagadh oppo been destroyed by Aurangzeb.
 
 site to Girnar) Adi. 218. 8 (near There are several sub-tirthas under
 
-Prabhāsa) and chap. 219 (festivities it (V. 82). Puşkara is in the Varana
+Prabhāsa) and chap. 219 (festivities it (V. 82). Puṣkara is in the Varana
 
 on it by Vrsnyandhakas), S. 14. 50, digana (Pan. IV. 2. 82); B (Puskara,
 
@@ -4979,7 +4979,7 @@ sacred to the Jainas (vide Uttara of the five dhārās at Badarika
 
 dhyayanasūtra, SBE, vol. 45 p. 115). srama) N. II. 67. 57-58
 
-But the present Dvärakā is about Puskarāranya--P. V. 18. 217, S. 32.8
+But the present Dvārakā is about Puskarāranya--P. V. 18. 217, S. 32.8
 
 110 miles from it. The original (Prāci Sarasvati flowed through it).
 
@@ -5009,19 +5009,19 @@ i e. 455-458 A.D. the river Palasiniis said to spring from Urjayat which (C.I.I.
 
 to vataka Rājagặha-A (Rajgir, the ancient
 
-capital of Magadha) V. 84. 104, Vā. 108. 73 (punyam Räjagrham vanam), Ag. 109. 20, N. II. 47. 74, P. I. 38. 22; vide A. G. pp. 467-468 and I. G. I. vol. XXI. p. 72 for the five hills surrounding it; it was also known as Girivraja and was the capital of Jarasandha under this name; B'in the Punjab) P. I. 28.
+capital of Magadha) V. 84. 104, Vā. 108. 73 (punyam Rājagrham vanam), Ag. 109. 20, N. II. 47. 74, P. I. 38. 22; vide A. G. pp. 467-468 and I. G. I. vol. XXI. p. 72 for the five hills surrounding it; it was also known as Girivraja and was the capital of Jarasandha under this name; B'in the Punjab) P. I. 28.
 
 13 (it is a Devisthāna) Rājakhadga-(on Sabhramati) P. VI.
 
-131. 116 and 134 Rājāvāsa--(Vişnu shrine established by Parasurama in Kasmira) NM.
+131. 116 and 134 Rājāvāsa--(Viṣnu shrine established by Parasurama in Kasmira) NM.
 
 1384, 1447 Rajesvara- (under Sriparvata). L. I.
 
-92. 156 Rāmadhivāsa -- (sräddha and dana
+92. 156 Rāmadhivāsa -- (srāddha and dana
 
 most efficacious here) M. 22. 53 Rāmagiryasrama-G. I. 81.8, Megha-
 
-dūta 1 and 12 (Rāmagiri is Rämtek, 28 miles north-east of Nagpur in C. P. and two miles from Vakātaka
+dūta 1 and 12 (Rāmagiri is Rāmtek, 28 miles north-east of Nagpur in C. P. and two miles from Vakātaka
 
 capital Nandivardhana) Rāmagrha--(under Sanandūra) Var.
 
@@ -5037,7 +5037,7 @@ Rāmasaras---( under Sānandūra) Var.
 
 150. 14-18 (one krosa in extent) Rāmatirtha-A (under Gaya) Vā. 108.
 
-16-18, M. 22.70 (anantam sraddba dānayoh), Ag. 116. 13; B (in Sürpäraka) V 85. 43, Sal. 49.7 (where Bhargava Rāma gave the earth as daksinā to Kasyapa in Vajapeya and Ašvamedha sacrifices). Vide Usava dāta's Nasik inscription recounting the gifts he made at Rāmatirtba in Sorpāraga in Bom. G. vol. 16 p 570; C (under the Ganges) N. II. 40.85 ; D (on Gomati) V. 64. 73-74, PI. 32.37; E (under Go.) B 123, 1;
+16-18, M. 22.70 (anantam sraddba dānayoh), Ag. 116. 13; B (in Sürpāraka) V 85. 43, Sal. 49.7 (where Bhargava Rāma gave the earth as daksinā to Kasyapa in Vajapeya and Aśvamedha sacrifices). Vide Usava dāta's Nasik inscription recounting the gifts he made at Rāmatirtba in Sorpāraga in Bom. G. vol. 16 p 570; C (under the Ganges) N. II. 40.85 ; D (on Gomati) V. 64. 73-74, PI. 32.37; E (under Go.) B 123, 1;
 
 F (under Mahendra) P I. 39. 14 Rambhalinga-(under VS) L. q. by
 
@@ -5045,7 +5045,7 @@ T. K. p. 105 Rambbesvara-linga-(under Sarasvati) Ramhhe varolin_lundar ca
 
 Vām. 46. 39. Rāmesvara-Alone of the twelve Tyotir
 
-lingas, said to have been established by Räma himself) M. 22. 50, K. II. 30. 23 (bath at R. saves from sin of brahmahatyä), G. I. 81. 9. Vide T.Sp.47 which quotes passages from Vi., K, and Ag. It is situated on the island of Pamban. It is one of the most venerated shrines in the whole of India. Vide I. G. I. vol. XXI pp. 173-175 for a brief description of the great temple : B (under Sriparvata) L. I. 92. 149
+lingas, said to have been established by Rāma himself) M. 22. 50, K. II. 30. 23 (bath at R. saves from sin of brahmahatyā), G. I. 81. 9. Vide T.Sp.47 which quotes passages from Vi., K, and Ag. It is situated on the island of Pamban. It is one of the most venerated shrines in the whole of India. Vide I. G. I. vol. XXI pp. 173-175 for a brief description of the great temple : B (under Sriparvata) L. I. 92. 149
 
 (established by Visnu himself). Ratnesvara-linga--(under VS) SK. IV.
 
@@ -5077,17 +5077,17 @@ Pāraskarādigana (Pān. VI. I. 157 ). The Mbh. (vol. III p. 96) mentions 'Ratha
 
 S. 16.15. Vide Adi 170. 20. Rāvanesvaratirtha-A (under Nar mada) M. 191. 26; B (under VS)
 
-L. q. by T. K p. 98. Ravistava--(under Narmada) P.1.18.19 Renukästhāna-(one of the Devi
+L. q. by T. K p. 98. Ravistava--(under Narmada) P.1.18.19 Renukāsthāna-(one of the Devi
 
 sthānas) Devi-Bh. VII. 38.5 (pro bably at Parasurama, in the
 
-Ratnagiri District.) Renukāştaka-(under Sarasvati) Vam.
+Ratnagiri District.) Renukāṣtaka-(under Sarasvati) Vam.
 
 41.5 Renukātirtha-V 82.82, P. I. 24.30
 
 and 27.47. Dey (p. 168) says it is about 16 miles north of Nahan in the Panjab. Nahan is the capital of
 
-Sirmur State, Retodaka-(under Kedāra) Devipurāņa
+Sirmur State, Retodaka-(under Kedāra) Devipurāṇa
 
 g. by T.K p. 230 Revā-(Narmadā). Vide pp. 703-707
 
@@ -5109,7 +5109,7 @@ Kuruksetra) Vām. 41.6. Vide A.S.R. of India, vol. XIV p. 76 (which says that it
 
 79, Ag. 116.8 Rnāntakūpa P. I. 26. 92 Rnatirtha--(under Narmada) M. 191,
 
-27, K II. 41.19 and 29. Rodhasvati-(r.) Bh. V. 19. 18 Rohitaka (m.) S. 32.4 Rşabha-(m. in Pandya country) V.85.
+27, K II. 41.19 and 29. Rodhasvati-(r.) Bh. V. 19. 18 Rohitaka (m.) S. 32.4 Rṣabha-(m. in Pandya country) V.85.
 
 21, Bh. V. 19. 16, X. 79. 15, M. 121.72 and 163. 78. Dey p. 119 suggests that it is the Palni hills in
 
@@ -5149,7 +5149,7 @@ T. K. p. 54 Rsisattra--(under Go.) B. 173.1 Rsyamūka or Rsyamūke-(m.) Rām.
 
 III. 72. 12, III. 75. 7 and 25 (on the borders of lake Pampa). Bh. V. 19. 16, V. 280. 9, V. 147. 30 (on which Sugriva resided), 279. 44 (near Pampa lake). Vide Pargiter (p. 289 note) for identi
 
-fication which is rather vague. Rşitirtha-A (under Narmadā) M. 191.
+fication which is rather vague. Rṣitirtha-A (under Narmadā) M. 191.
 
 22 and 193. 13 (sage Trnabindu became free from curse here), K. II. 41. 15, P. I. 18. 22: B (under
 
@@ -5183,13 +5183,13 @@ ksetra) P. I. 26. 94 Rudraprayāga-on confluence of the
 
 Mandakini and Alakananda in Garh
 
-wal district (1. G. I. vol. XXI p. 338) Rudrävarta-(after Sugandba) V. 84.37 Rudravāsa--(under VS) L. q. by T.K.
+wal district (1. G. I. vol. XXI p. 338) Rudrāvarta-(after Sugandba) V. 84.37 Rudravāsa--(under VS) L. q. by T.K.
 
 p. 62
 
 Rukminikunda or Rukmikunda-(un
 
-der Gaya) va 108. 57, Ag. 116.5 Rūpadbära-(Visnu's form on Irävati)
+der Gaya) va 108. 57, Ag. 116.5 Rūpadbāra-(Visnu's form on Irāvati)
 
 Vām. 90.5 Rurukhanda.---(under Sālagrāma) Var
 
@@ -5199,7 +5199,7 @@ ASTITEV
 
 Sabaritirtha--(on Go.) P. VI. 269.
 
-277-78 Säbhramati--(modern Sabarmati river
+277-78 Sābhramati--(modern Sabarmati river
 
 that rises in the Mewar bills and falls into the gulf of Cambay The origi nal of Sabarmati is givencias Sva bhravati in I. G. I. vol. XXI. 344.
 
@@ -5213,7 +5213,7 @@ History of Dharmasastra
 
 - Vide P. VI.131. Up to chap. 170 of P. various sub-tirthas of the river are described at great length. Verses2-6 of chap. 133 speak of seven stream's of it, viz. Sābbramati, Setikā (sve taka). Bakula, Hiranmayi, Hasti. mati (modern Hathimati) Vetravati
 
-(modern Vätrak) and Bhadramukhi Sabhramati-sägara-sangama --P. VI.
+(modern Vātrak) and Bhadramukhi Sabhramati-sāgara-sangama --P. VI.
 
 166.1 Sacisvara-linga--(under VS) L. g. by
 
@@ -5221,7 +5221,7 @@ T. K. p. 105 Sadangula--(Sthana of a nāga in
 
 Kasmira) NM. 1133-1140 Sadānīrā---(r.) Sat. Br. I. 4.1.17 states
 
-'even now this river is a boundary of Kosalas (Oudh) and Videhas. This river came rushing from the northern mountain and thougb all other rivers were burnt up, this was not burnt'. Sayana explains Sadūnira as Karatoya. Bhi. (9. 24 and 35) keeps the two distinct. S. 20. 27 indicates that it was between the Gandaki and Sarayū, while B. (27. 28-29) states that it rises from Päriyātra m. Vā. 45. 100 states that Karatoya comes from Rksa range. Pargiter (Mār. chap. 57 p. 294) says that it is the Rapti. The Amarakosa regards Sadānira and Karatoya as
+'even now this river is a boundary of Kosalas (Oudh) and Videhas. This river came rushing from the northern mountain and thougb all other rivers were burnt up, this was not burnt'. Sayana explains Sadūnira as Karatoya. Bhi. (9. 24 and 35) keeps the two distinct. S. 20. 27 indicates that it was between the Gandaki and Sarayū, while B. (27. 28-29) states that it rises from Pāriyātra m. Vā. 45. 100 states that Karatoya comes from Rksa range. Pargiter (Mār. chap. 57 p. 294) says that it is the Rapti. The Amarakosa regards Sadānira and Karatoya as
 
 synonyms Sagareśvara--(under VS) L. q. by
 
@@ -5259,7 +5259,7 @@ Western Rajputana on the borders of the Jaipur and Jodhpur States) V. Dh. S. 85.
 
 1000 years) Saketa-(same as Ayodhyā). It is the
 
-Sägeda of Ptolemy. Vide Br. III. 54. 54. The Mbh. (vol. I. p. 281 on Pan.l. 3. 25) has 'this road leads to Saketa' and vol. II. p. 119 (on Pan. III. 2. 111) "arunad-Yavanah Säketam (the Yavana besieged Säketa). The Yavana referred to is deemed to be Menander. The Suttanipāta (SBE. vol. X part 2 p. 188) mentions it as existing in the time of Buddha. Fa Hien (about 400 A.D.) refers to it as 'Sha-chi' and Hiouen Thsangas Visäkba. Vide A.G. pp. 401-407. The Raghuvamsa (XIII. 79. XIV-4132 XV. 38) treats Säketa and Ayodhyan
+Sāgeda of Ptolemy. Vide Br. III. 54. 54. The Mbh. (vol. I. p. 281 on Pan.l. 3. 25) has 'this road leads to Saketa' and vol. II. p. 119 (on Pan. III. 2. 111) "arunad-Yavanah Sāketam (the Yavana besieged Sāketa). The Yavana referred to is deemed to be Menander. The Suttanipāta (SBE. vol. X part 2 p. 188) mentions it as existing in the time of Buddha. Fa Hien (about 400 A.D.) refers to it as 'Sha-chi' and Hiouen Thsangas Visākba. Vide A.G. pp. 401-407. The Raghuvamsa (XIII. 79. XIV-4132 XV. 38) treats Sāketa and Ayodhyan
 
 la paura
 
@@ -5273,15 +5273,15 @@ List of tirthas
 
 799
 
-as synonyms). The Käsikä on Pän. Sālūkini-(under Kuruksetra) V. 83.13. v. 1. 116 cites *Pataliputravat The Mbh. (vol. I. p. 474 on Vartika Sākete parikba'. This shows that 2 to Pān. II. 4. 7) speaks of Salūkini in the 7th century Saketa was a as a village) flourishing town with a wide ditch Salvikini-(probably the same as A.C. (p. 182) notes that Saketa, above) P. I. 26. 11
+as synonyms). The Kāsikā on Pān. Sālūkini-(under Kuruksetra) V. 83.13. v. 1. 116 cites *Pataliputravat The Mbh. (vol. I. p. 474 on Vartika Sākete parikba'. This shows that 2 to Pān. II. 4. 7) speaks of Salūkini in the 7th century Saketa was a as a village) flourishing town with a wide ditch Salvikini-(probably the same as A.C. (p. 182) notes that Saketa, above) P. I. 26. 11
 
-and Ayodhyā are synonyms Sämalanātha-(same as Syamalanatha) (verse 975)
+and Ayodhyā are synonyms Sāmalanātha-(same as Syamalanatha) (verse 975)
 
 M. 22. 42. P. V. 11. 35. Dey p. 200 Sakrarudra---(three krosas from Koka
 
 identifies with Samalji in Mabi mukha) Var. 140. 65
 
-kānthä Agency. Sakrasaras-(under Sanandūra ) Var.
+kānthā Agency. Sakrasaras-(under Sanandūra ) Var.
 
 Samanga--(ar, also called Madhuvila) 150.33
 
@@ -5319,15 +5319,15 @@ is called Sannihita and it is half a are to be worshipped, particularly
 
 yojana all round, but Vām 22. 16 those marked with cakra): verse
 
-says it is five yojanas) 29 says 'the Salagrama hill is Vişnu'; Samasrotah-(under Mandāra ) Var. v. 145 says it is also called 'Devata', 143. 24-26 that it is twelve yojanas in extent Sambapura-A (under Mathura) Var. (v. 159). The sacred stones called 177.55 (also called Kulesvara): B Salagrama and worshipped as Vişnu (on the banks of Candrabhāgā) are found in the bed of the Gandaki Bhav., Brahma 140. 3. It is towards its source. It was also called modern Multan Pulahasrama (Vi. II. 1. 29). T. K.
+says it is five yojanas) 29 says 'the Salagrama hill is Viṣnu'; Samasrotah-(under Mandāra ) Var. v. 145 says it is also called 'Devata', 143. 24-26 that it is twelve yojanas in extent Sambapura-A (under Mathura) Var. (v. 159). The sacred stones called 177.55 (also called Kulesvara): B Salagrama and worshipped as Viṣnu (on the banks of Candrabhāgā) are found in the bed of the Gandaki Bhav., Brahma 140. 3. It is towards its source. It was also called modern Multan Pulahasrama (Vi. II. 1. 29). T. K.
 
 Sambhalagrama-B. 213. 164 (Kalkia (pp. 219-221) quotes verses of Var. Visnuyasas will be born here to des and V. 84. 123-128
 
 troy mlecchas). P. VI. 269. 10-12 Saligrāma-(same as above) K. II. 35.
 
-(speaks of Sambhalagrāma), G. I, 37, Nr. 64. 22-26 (Pundarīka came 81. 6, Bh. XII. 2. 18. Vā. 98. 104 to this Mahakşetra)
+(speaks of Sambhalagrāma), G. I, 37, Nr. 64. 22-26 (Pundarīka came 81. 6, Bh. XII. 2. 18. Vā. 98. 104 to this Mahakṣetra)
 
-109, M 144. 51. Br. II. 31.76, Vi. IV. Salagrämagiri-Var. 144, 13 and 29
+109, M 144. 51. Br. II. 31.76, Vi. IV. Salagrāmagiri-Var. 144, 13 and 29
 
 24. 98 speak of the future exploits Salakatankatesvara-(under VS) L. q. of Kalkin or Pramati Butoail don't .by T.K. p. 48
 
@@ -5355,9 +5355,9 @@ spots exist in the neighbourhood. Sammürtika--(a tirtha in VS) P. I.
 
 37.6 Sampithaka--(under Mathurā) Var.
 
-157.37 Samsāramocana--(sräddha here yields
+157.37 Samsāramocana--(srāddha here yields
 
-inexhaustible results) M. 22. 67 Samudraka-(near Brahmävarta) V.
+inexhaustible results) M. 22. 67 Samudraka-(near Brahmāvarta) V.
 
 84.41 Samudraküpa-under Prayāga) M.
 
@@ -5397,7 +5397,7 @@ location uncertain) V. 84. 52, P. I.
 
 T.K. p. 68 Sangamana-(under Dvarakā) Var.
 
-149. 41 Sangamanagara-(under Dväraka) Var.
+149. 41 Sangamanagara-(under Dvāraka) Var.
 
 q. by T.K P. 226 Sangamesvara-A (under VS) N. II.
 
@@ -5415,11 +5415,11 @@ grāma) Nr. 66. 23 Sankhinitirtha--(under Kuruksetra) V.
 
 83. 51 Sankhoddhāra---(an island situated at
 
-south-western extremity of the gulf of Cutch) Bh. XI. 30. 6 (Krsna directed that women, children and old men should go to this, when ter rible portents were seen in Dväraka) M. 13. 48, 22. 69 (sraddha is ananta here). It is a very sacred place, particularly for Vaisnavas. Vide I.
+south-western extremity of the gulf of Cutch) Bh. XI. 30. 6 (Krsna directed that women, children and old men should go to this, when ter rible portents were seen in Dvāraka) M. 13. 48, 22. 69 (sraddha is ananta here). It is a very sacred place, particularly for Vaisnavas. Vide I.
 
 G. I. vol. 8. p. 18 Sankukarna--(under VS) M. 181 27,
 
-K. I. 31. 48, P. I. 24.18 estru Sankukarņeśvara-(a linga on the
+K. I. 31. 48, P. I. 24.18 estru Sankukarṇeśvara-(a linga on the
 
 southern boundary of VS) KIMD3:48,
 
@@ -5439,9 +5439,9 @@ IV]
 
 Sannihita-(a tract more extensive
 
-than Kuruksetra, but including it) Br. III. 13. 68 (pumsäm Sannibi tāyām tu Kuruksetre viseşataḥ arcayitvä pitrms-tatra sa putrast vanrno bhavet). TP. p. 466 reads Sannihata', states it is a lake eight krosas in extent and that there are four lakes called Sannihata, Sanni
+than Kuruksetra, but including it) Br. III. 13. 68 (pumsām Sannibi tāyām tu Kuruksetre viseṣataḥ arcayitvā pitrms-tatra sa putrast vanrno bhavet). TP. p. 466 reads Sannihata', states it is a lake eight krosas in extent and that there are four lakes called Sannihata, Sanni
 
-hatyä, Sannihatya and Sannibata. Sannihati-(another name of Kuru ksetra, according to several works) V. 83. 190-195 (Nīlakantha explains that Sannihati is another name of Kuruksetra). Verse 195 derives as 'tirtha-sannihanad-eva Sannihatyeti visrutā' i. e, all tirthas gather to- gether here every month on Ama väsyä; P.I. 27. 77-78 (same verses as in V). Vām. 41. 9 and 45. 29, Ag. 109. 15 (employs the word Sannihiti Sarasvatyām Sannihityām snān akrd-brahmalokabhāk') Sannihatya-saras - (in Kuruksetra)
+hatyā, Sannihatya and Sannibata. Sannihati-(another name of Kuru ksetra, according to several works) V. 83. 190-195 (Nīlakantha explains that Sannihati is another name of Kuruksetra). Verse 195 derives as 'tirtha-sannihanad-eva Sannihatyeti visrutā' i. e, all tirthas gather to- gether here every month on Ama vāsyā; P.I. 27. 77-78 (same verses as in V). Vām. 41. 9 and 45. 29, Ag. 109. 15 (employs the word Sannihiti Sarasvatyām Sannihityām snān akrd-brahmalokabhāk') Sannihatya-saras - (in Kuruksetra)
 
 Vām. 47.56, 48. 23, 49.6 (on the north bank of Sarasvati and near
 
@@ -5449,13 +5449,13 @@ Dvaitavana) Sanniti-(in Kuruksetra) NM. 168-169
 
 (seems to be the same as Sannibati
 
-above) Säntesvara--(under VS) L. 9 by T K.
+above) Sāntesvara--(under VS) L. 9 by T K.
 
 (i. e. 1071-2 A.D) in E, I, vol. XII. p. 205 ff. where in verse 23 the seven streams are named; in the Godavari District Gazetteer p. 6 the seven mouths of the Godavari are said to be sacred to seven sages viz. Kasyapa, Atri, Gautama, Bharadvaja, Visvāmitra, Jamadagni, Vasistha, R. VIII. 3449 speaks of Godāvari as falling into the sea
 
 with seven mouths. Saptanada--Br. III, 13. 58 (deyam
 
-Saptanade sraddham Mänase va
+Saptanade sraddham Mānase va
 
 visesatah). Saptakoţiśvara-T. P. p. 557 quoting
 
@@ -5467,7 +5467,7 @@ springs unite'. Saptārsa-V. Dh. S. 85.39 (Sraddha
 
 very efficacious at it ). Dr. Jolly
 
-identifies it with Sātārā. Saptarsikunda (under Lohärgala) Var. 1 51. 46 (where seven dhārās fall
+identifies it with Sātārā. Saptarsikunda (under Lohārgala) Var. 1 51. 46 (where seven dhārās fall
 
 from Himayat) Saptasāgara-linga--(under VS) SK.
 
@@ -5517,19 +5517,19 @@ srama). Sarabindu- under Amalakagrama)
 
 Nr. 66. 34 Sāradatirtha---in Kasmira) M. 22. 74,
 
-R.I. 37. Foremost among tirthas of Kašmira is modern Sardi on the right bank of river Kisangangā. In front of the temple sacred Madhu mati falls into Kisangangā. Vide SM, p. 206. Ain, A. (vol. II. pp. 365-66) says that the temple of Sarada dedicated to Durgā is on the bank of the Padmati river which comes from Dardu country and that on every 8th day of the bright half
+R.I. 37. Foremost among tirthas of Kaśmira is modern Sardi on the right bank of river Kisangangā. In front of the temple sacred Madhu mati falls into Kisangangā. Vide SM, p. 206. Ain, A. (vol. II. pp. 365-66) says that the temple of Sarada dedicated to Durgā is on the bank of the Padmati river which comes from Dardu country and that on every 8th day of the bright half
 
 of a month it begins to shake. Saraka -(under Kuruksetra) V. 83. 75-76, P I. 26. 76, N. II. 65. 62-63.
 
 Vide p 684 above Sarastamba - near Devadaruvana),
 
-Anu. 25. 28 Sarasvata--A (śräddha very efficacious
+Anu. 25. 28 Sarasvata--A (śrāddha very efficacious
 
 here) M. 22. 63; B (under VS) K. I.
 
 35. 12, PI. 37.15 Sārasvata---linga (under VS) SK IV.
 
-33. 134 Särasvatatirtha - Sal. 50 (story of
+33. 134 Sārasvatatirtha - Sal. 50 (story of
 
 Asita Devala and Jaigisavya), 51 (birth of Sarasvata from Sarasvati, who taught the Vedas to sages in a
 
@@ -5551,7 +5551,7 @@ Sarasvatipatana--(under Mathurā) var.
 
 P. I. 24.9, Vām. 84. 29. Saravati-(Probably Rāpti in Oudh)
 
-Bhi.9.20; Pan. VI.3.120 (Sarādinām ca) knew the river Saravati; Kșira svāmin (in com. on Amara 'Sarava tyästu yosvadheh') quotes a verse 'prāgudancau vibhajate hamsah ksiro dake yathā vidusām sabdasiddh yartham sa nah pätu Saravati Rr. Agrawala in (J.U.P.H.R.S.[vok: 1 p. 15 surmises that it is the Ghag ghar flowing through Ambalarou Di trict. I have grave doubts about
+Bhi.9.20; Pan. VI.3.120 (Sarādinām ca) knew the river Saravati; Kșira svāmin (in com. on Amara 'Sarava tyāstu yosvadheh') quotes a verse 'prāgudancau vibhajate hamsah ksiro dake yathā vidusām sabdasiddh yartham sa nah pātu Saravati Rr. Agrawala in (J.U.P.H.R.S.[vok: 1 p. 15 surmises that it is the Ghag ghar flowing through Ambalarou Di trict. I have grave doubts about
 
 STITU)
 
@@ -5565,9 +5565,9 @@ this. It is possible that when the Sarasvati became dried and only a marshy bed 
 
 the capital of Lava, son of Rāma. Sarayū-(1.) Rg. IV. 30. 18, V. 33. 9,
 
-X. 64. 9 (Sarasvati, Sarayu and Sindhu are mentioned together), In all these places the word is Sarayu, while in classical Sanskrit it is Sarayū or Sarayü (M. 22. 19, Va 45. 94, N II. 75. 71. Raghuvamsa 15.95 and 100). M. 121. 16-17 and Br. II. 18. 70 show that Sarayu springs from the Mänasa lake situ ated at the foot of the Vaidyutagiri. Ayodhyā was situated on the Sarayu (Ram. II. 49. 15). Sarayū rises from Himalaya (Va 45.94, M. 114. 21). According to Pan. VI. 4. 174 (Dandi näyana-) the water of Sarayū was called Sarava (Kašika says 'Sarayvam bhavam säravam udakam'). In the Cullavagga (SBE vol. XX p. 302) it is one of the five great rivers of India and in 'Questions of Milinda' (SBE vol. 35 p. 171 ) it is one of ten great rivers, but in both places it is written as Sarabhū. Vide T.P pp. 500, 501 where it is stated that it rises from the left toe of Visnu and is joined by Ghargara. It is the Sarabos of Ptolemy (p.99). It is also
+X. 64. 9 (Sarasvati, Sarayu and Sindhu are mentioned together), In all these places the word is Sarayu, while in classical Sanskrit it is Sarayū or Sarayü (M. 22. 19, Va 45. 94, N II. 75. 71. Raghuvamsa 15.95 and 100). M. 121. 16-17 and Br. II. 18. 70 show that Sarayu springs from the Mānasa lake situ ated at the foot of the Vaidyutagiri. Ayodhyā was situated on the Sarayu (Ram. II. 49. 15). Sarayū rises from Himalaya (Va 45.94, M. 114. 21). According to Pan. VI. 4. 174 (Dandi nāyana-) the water of Sarayū was called Sarava (Kaśika says 'Sarayvam bhavam sāravam udakam'). In the Cullavagga (SBE vol. XX p. 302) it is one of the five great rivers of India and in 'Questions of Milinda' (SBE vol. 35 p. 171 ) it is one of ten great rivers, but in both places it is written as Sarabhū. Vide T.P pp. 500, 501 where it is stated that it rises from the left toe of Visnu and is joined by Ghargara. It is the Sarabos of Ptolemy (p.99). It is also
 
-called the Ghogra or Gharghara. Särdula-a Saivaksetra, according to
+called the Ghogra or Gharghara. Sārdula-a Saivaksetra, according to
 
 Bar. S. III. 122. Sargabindu--(under Narmada) K. II.
 
@@ -5581,7 +5581,7 @@ Sarvatirtha-P. II. 92.4 and 7
 
 33. 134. Sarvatmaka--(under Kubjamraka) Var.
 
-126. 37. Sarväyudha--(under. Salagrāma) Var.
+126. 37. Sarvāyudha--(under. Salagrāma) Var.
 
 145.56 Sasankeśvara-(under VS) L. q. by
 
@@ -5589,7 +5589,7 @@ T.K p. 97 Sasayāna-(under Sarasvati) V. 82.
 
 114-116, PI. 25. 20-23 (same verses in both). Some mss read
 
-Sašapāna'). Sastihrada-Anu 25. 36 Satadru-(Sutlej) same as Sutudri
+Saśapāna'). Sastihrada-Anu 25. 36 Satadru-(Sutlej) same as Sutudri
 
 which see; Adi. 177. 8-9 (deriva tion given ), M. 22.12, Bh. V. 19.18. The Amarakosa gives Sutudri and
 
@@ -5609,15 +5609,15 @@ Satātapesvara-(under VS) L. q. by
 
 T. Kp. 92. Satikatirtha--(under Sarasvati) Vām.
 
-41. 3. Satyavati-(became river Kausiki) Vä
+41. 3. Satyavati-(became river Kausiki) Vā
 
 91. 88. Saubhadra--Adi. 216, 3 (one of the
 
-five Näritirthas on the southern sea). Saukarava--(as printed in Var. 137.7
+five Nāritirthas on the southern sea). Saukarava--(as printed in Var. 137.7
 
 of the Venkateśvara pressmedition) is a misreading for Saukaraka. Wide
 
-under Sükaratirtha. Saurpäraka-Br. III, 13. Vide
+under Sükaratirtha. Saurpāraka-Br. III, 13. Vide
 
 Sürpāraka.
 
@@ -5643,7 +5643,7 @@ east of Kailasa) Saugandhikavana--V. 84. 4, P I. 28.
 
 dha) M. 22.53 Saunakesvara-kunda- (under VS) L.
 
-q. by T. K. p. 122 Savarņiśvara--(under VS) L. q. by
+q. by T. K. p. 122 Savarṇiśvara--(under VS) L. q. by
 
 T.K. p. 60 Savitrapada-(under Gaya) V. 84. 93.
 
@@ -5657,11 +5657,11 @@ T.K. p. 70 Savitrītirtha - (under Narmada ) M.
 
 194, 6, K. II. 42. 19, P I. 21. 6 Sesatirtha-(under Go.) B 115. 1 Setu-the supposed bridge (called
 
-Adam's Bridge) between Ramešvara and Ceylon said to have been built by Rāma with the assistance of Sugriva and his monkey hosts; Bh. VII. 14. 31, X. 79. 15 (Samudrasetu). G. I. 81. 8, N. JI. 76 (contains setu māhātmya), Adam's Peak in Ceylon has a famous foot-print which is venerated by Hindus, Buddhists, Christians and Moslems alike. Vide
+Adam's Bridge) between Rameśvara and Ceylon said to have been built by Rāma with the assistance of Sugriva and his monkey hosts; Bh. VII. 14. 31, X. 79. 15 (Samudrasetu). G. I. 81. 8, N. JI. 76 (contains setu māhātmya), Adam's Peak in Ceylon has a famous foot-print which is venerated by Hindus, Buddhists, Christians and Moslems alike. Vide
 
 T. P. pp. 557-560 for māhātmya Setubandha---same as above. Vide T.
 
-S. pp. 1-4 and Tirthaprakāśa pp. 557-560, Rām. VI. 22. 45-53, VI. 126. 15 (etat-tu drsyate tirtham sägarasya mahātmanahı Setubandha iti khyātam &c), P. V. 35, 62 (says that Setu was built in three days). SK. III Brahmakhanda, chapters 1-52 on Setu-mahatmya, its subsi diary tirthas and Setu yatrakrama. Vide p. 94 above for visit to Setu
+S. pp. 1-4 and Tirthaprakāśa pp. 557-560, Rām. VI. 22. 45-53, VI. 126. 15 (etat-tu drsyate tirtham sāgarasya mahātmanahı Setubandha iti khyātam &c), P. V. 35, 62 (says that Setu was built in three days). SK. III Brahmakhanda, chapters 1-52 on Setu-mahatmya, its subsi diary tirthas and Setu yatrakrama. Vide p. 94 above for visit to Setu
 
 bandha as an expiation. Siddhakesvara--( one of the eight
 
@@ -5687,15 +5687,15 @@ of Go.) B. 128. 1 Siddhiküta-(under VS) L. q. by T.K.
 
 p. 88 Sikhitirtha-(under Narmada) M. 193.
 
-82, P. I. 20. 78 Silātirtha--(under Gaya) Vā, 108. 2 Silakşeśvara--(under VS) L. q. by T.K.
+82, P. I. 20. 78 Silātirtha--(under Gaya) Vā, 108. 2 Silakṣeśvara--(under VS) L. q. by T.K.
 
 p. 46 Simba-a Vaisnava-ksetra acc. to Bar,
 
-S. III. 120. Probably the same as Simhachalam temple of Nộsimba vatara of Vişnu about 6 miles north west of Vizagapattam. Vide I. G.
+S. III. 120. Probably the same as Simhachalam temple of Nộsimba vatara of Viṣnu about 6 miles north west of Vizagapattam. Vide I. G.
 
 I. vol. XXII. p. 375 Sindhu-A (the modern Indus, Greek
 
-Sinthos) Rg. II. 15.6 he made the Sindhu flow northwards), V. 53. 9, VIII. 20. 25 (the medicine that is in Sindhu, in Asikni and the seas). X. 75. 6. The seven Sindhus (i. e, Indus, five Panjab rivers and Saras vati) are mentioned in Rg. II. 12.12. IV. 28. 1, VIII. 24. 27, A, V, VI, 3. 1 ; Drona 101. 28 (Sindhuşasthāh samudragāḥ), R I. 57 (Stein's note). NM. 394 (Sindhu is Ganga and Vitastā is Yamunā). Vide for des cription I. G. I. vol, I. pp 29-34h It rises in Tibet north of balasan Sindhu is also the name of the coun try through which the river Mows,
+Sinthos) Rg. II. 15.6 he made the Sindhu flow northwards), V. 53. 9, VIII. 20. 25 (the medicine that is in Sindhu, in Asikni and the seas). X. 75. 6. The seven Sindhus (i. e, Indus, five Panjab rivers and Saras vati) are mentioned in Rg. II. 12.12. IV. 28. 1, VIII. 24. 27, A, V, VI, 3. 1 ; Drona 101. 28 (Sindhuṣasthāh samudragāḥ), R I. 57 (Stein's note). NM. 394 (Sindhu is Ganga and Vitastā is Yamunā). Vide for des cription I. G. I. vol, I. pp 29-34h It rises in Tibet north of balasan Sindhu is also the name of the coun try through which the river Mows,
 
 FOUNDED
 
@@ -5707,17 +5707,17 @@ List of tirthas
 
 805
 
-vide Pān. IV. 3. 93. On Pāņ, IV. 3. 83 (prabhavati) the Kasika gives the example 'Daradi Sindhuh' (the river Sindhu rises in Darat). Some mss. of Kasikā include 'Darat' in Sindhvadigana. Sindhu country is mentioned in Rudradaman's Juna gadh Ins; B (a r, rising from Pāri yātra and falling into Yamuna) Va. 45.98, M. 114. 23, B. 27. 28. It is the same as Kalisindhu between the Chambal and Betwa Malati- madbava refers to its confluence with Parā (Act IV end) and with Madhumati (Act IX prose passage after verse 3). Padmavati, the scene of the drama, was situated on the
+vide Pān. IV. 3. 93. On Pāṇ, IV. 3. 83 (prabhavati) the Kasika gives the example 'Daradi Sindhuh' (the river Sindhu rises in Darat). Some mss. of Kasikā include 'Darat' in Sindhvadigana. Sindhu country is mentioned in Rudradaman's Juna gadh Ins; B (a r, rising from Pāri yātra and falling into Yamuna) Va. 45.98, M. 114. 23, B. 27. 28. It is the same as Kalisindhu between the Chambal and Betwa Malati- madbava refers to its confluence with Parā (Act IV end) and with Madhumati (Act IX prose passage after verse 3). Padmavati, the scene of the drama, was situated on the
 
 confluence of Pārā and Sindhu. Sindhuprabhava--(source of Sindhu)
 
 V. 84. 46, P. I. 32. 10 (same verse
 
-in both) Sindhusägara--Nr. 65. 13 q. by T. K.
+in both) Sindhusāgara--Nr. 65. 13 q. by T. K.
 
 E
 
-p. 252 Sindhusägarasangama -V. 82. 68, Vā.
+p. 252 Sindhusāgarasangama -V. 82. 68, Vā.
 
 77. 56, PI. 24. 16 (same verse as
 
@@ -5753,13 +5753,13 @@ L. q. by T.K, p. 68 Slesmātakavana - (on Himavat) Var.
 
 754 above. Smasana-Avimukta, which see; M.
 
-184. 19 Smašānastambha--(under Vs) L. q.
+184. 19 Smaśānastambha--(under Vs) L. q.
 
 by T. K. p. 54. Snānakunda--(under Mandāra) Var.
 
 143. 18-20 Sodaranaga-(in Kaśmira) NM 13-14.
 
-It is modern village Sudarbal situated on a deep inlet of the Dal lake. Vide R.I. 123-26 and II, 169 and SM p. 164, Stein notes that Sodara is an ancient name of the spring now called Näran Nag situated close to temple ruins at Bhūtesvara. NM mentions it in connection with Bhūtesa and Kanakavābini and the distance from Bhūteśvara to Sri nagara is about 32 miles. Somakunda--(under Gaya) Ag. 116.4. Somanātha-A (in Saurastra near
+It is modern village Sudarbal situated on a deep inlet of the Dal lake. Vide R.I. 123-26 and II, 169 and SM p. 164, Stein notes that Sodara is an ancient name of the spring now called Nāran Nag situated close to temple ruins at Bhūtesvara. NM mentions it in connection with Bhūtesa and Kanakavābini and the distance from Bhūteśvara to Sri nagara is about 32 miles. Somakunda--(under Gaya) Ag. 116.4. Somanātha-A (in Saurastra near
 
 Verawal) Ag. 109.10 (Somanātham Prabhāsakam), P. VI, 176. 37; vide A. G. p. 319 and under Prabhāsa; B (under Gaya) Ag. 116. 23. A popular verse is 'Sarasvati samudras ca Somah somagrahas-taulha I darsa nam Somanāthasya sakara pañca
 
@@ -5789,15 +5789,15 @@ M. 22. 29, K, II. 35. 20; B (under
 
 Salagrāma) Var. 144. 16-29 Sona--(a nada, also called Hiranya
 
-väha, rising in m. Rksa in Gondwana according to the Puranas and falling into the Ganges some miles from Bankipore) M. 22. 35 (a nada), 114. 25, B 27.30, Vā. 45. 99, Br. II. 16. 29. It is the Soa of Ptolemy (p. 99 ) and Sonas of Arrian. It rises near where the Narmada rises in the Amarakantaka hill. Vide AG pp. 453-454 for its confluence with
+vāha, rising in m. Rksa in Gondwana according to the Puranas and falling into the Ganges some miles from Bankipore) M. 22. 35 (a nada), 114. 25, B 27.30, Vā. 45. 99, Br. II. 16. 29. It is the Soa of Ptolemy (p. 99 ) and Sonas of Arrian. It rises near where the Narmada rises in the Amarakantaka hill. Vide AG pp. 453-454 for its confluence with
 
 the Ganges. Sona-Jyotirathya-sangama-V. 85. 8,
 
-P. I. 39.8, V. Dh, S. 85. 33 (reads Sona-Jyotişāsangama, while the com. Vaijayanti notes the v. 1.
+P. I. 39.8, V. Dh, S. 85. 33 (reads Sona-Jyotiṣāsangama, while the com. Vaijayanti notes the v. 1.
 
 Sona-Jyotiratha) Dior Sonaprabheda--(prabhava?) V 85.9,
 
-P. I. 39.9 Sonitapura- (capital of Banäsura;
+P. I. 39.9 Sonitapura- (capital of Banāsura;
 
 where Aniruddha was kept in con finement for his intrigue with Usa) B 206. 1, Harivamsa, Visnuparva 121. 92-93. Dey p. 189 says that it exists under the same name in Kumaon and that several other places claim to be the sonitapara of Banāsura. In the Harivamsa it is said that Soạitapura was 11000
 
@@ -5805,7 +5805,7 @@ yojanas from Dvāraka. BV. (Krsna janmakhanda, Uttarardha, 114. 847) mentions So
 
 was also called Kotivarsa. (v. 977). Srāvasti-(Sahet-māhet on the Rāpti
 
-in Oudh) said to be the capital of Lava in Uttara Kosala. It is 58 miles north of Ayodhyā; Rām. VI1. 107. 4 - 7, Va 88.200 and A. G. p. 409; but some mss. of Raghuvamsa (XV. 97) state that Srāvasti was the capital of Lava. Vide Marshall's article in JRAS for 1909 pp. 1066-1068 for the reasons for identifying Srāvasti with Saheth-Maheth and the Sabeth Mabeth plate of Govindacandra in E. I. vol. XI. p, 20. In JRAS for 1898 pp. 520-531 Vincent Smith disputed the identification of Sahet Mahet with Srävasti and holds that Srāvasti was near Nepalganj in Nepalese territory. B 7. 53 says. that it was called after Srävasta of
+in Oudh) said to be the capital of Lava in Uttara Kosala. It is 58 miles north of Ayodhyā; Rām. VI1. 107. 4 - 7, Va 88.200 and A. G. p. 409; but some mss. of Raghuvamsa (XV. 97) state that Srāvasti was the capital of Lava. Vide Marshall's article in JRAS for 1909 pp. 1066-1068 for the reasons for identifying Srāvasti with Saheth-Maheth and the Sabeth Mabeth plate of Govindacandra in E. I. vol. XI. p, 20. In JRAS for 1898 pp. 520-531 Vincent Smith disputed the identification of Sahet Mahet with Srāvasti and holds that Srāvasti was near Nepalganj in Nepalese territory. B 7. 53 says. that it was called after Srāvasta of
 
 Iksvaku race. Sriksetra-Jagannatha Puri. Srikunda --V 82.86 (now called Laksmi.
 
@@ -5817,7 +5817,7 @@ south of Kasmira) NM 1117 Srimukhi-(guhā) L. q. by T.K. p. 60
 
 (under Vs). Srinagara-A (capital of Kasmira). It
 
-has a long history. R. I. 104 states that Asoka built Srinagari with 96 lakhs of houses. Stein in note on this says that Cunningham (A, G. p. 93 ) located Srinagari of Asoka at the site of the present village Pandrethan (Kalhana's Purānādhis thäna) on the right bank of Vitasto three miles above modern Srinagara Pandrethan is at the foot of the bill Takhta-i-Sulaiman, Pravarasena 2017 erected the shrine of Pravaresyata, umeid
+has a long history. R. I. 104 states that Asoka built Srinagari with 96 lakhs of houses. Stein in note on this says that Cunningham (A, G. p. 93 ) located Srinagari of Asoka at the site of the present village Pandrethan (Kalhana's Purānādhis thāna) on the right bank of Vitasto three miles above modern Srinagara Pandrethan is at the foot of the bill Takhta-i-Sulaiman, Pravarasena 2017 erected the shrine of Pravaresyata, umeid
 
 POONA
 
@@ -5827,7 +5827,7 @@ FOUNDED
 
 Bhandarkar Oriental Research Institute
 
-List of tärthas
+List of tārthas
 
 807
 
@@ -5849,13 +5849,13 @@ M. 22.49 Sriparvata or Srisaila-A (hill situ
 
 ated in Karnal District on the south side of the Krsnā river 50 miles from Krsna station). There are numerous lingas here including the famous Mallikarjuna (in L.I.92.155), one of the twelve Jyotirlingas; many are named in L. I, 92. 147-166. Vide V. 85. 18-20 (Mahadeva with Uma is there), Vā 77.28, M. 13. 31 (Devi is called Madhavi here), 181.28 (one of the eight main Sivasthanas), 188,
 
-79 (one tripura of Banäsura burnt by Rudra fell here). P. I. 15. 68-69 (same story as in M. 188), Agni 113. 4 (Gauri, assuming the form of Laksmi practised penance here). Pargiter (p. 290 ) does not correctly interpret Ag.; K. II. 20.35 (Srāddha most efficacious here), II. 37. 13-14 (religious suicide allowed bere), P. I. 39. 17, VI. 20,15 (a great place for yogins and those practising penance). It is a Saktakşetra acc. to Bar, S. III. 124. The Malati. madhava mentions it several times, Vide E. I. XX. p. 9, E. I.IV. p. 193 (Chikkulla plate of Vişnukundin Vikramendravarman ). In the Nagarjunikonda Inscription F of about 3rd century A, D. edited by Dr. Vogel, Sriparvata is mentioned (E. I. vol. XX p. 1 at p. 23); B (a linga in VS) Ag. 112.4; C (under
+79 (one tripura of Banāsura burnt by Rudra fell here). P. I. 15. 68-69 (same story as in M. 188), Agni 113. 4 (Gauri, assuming the form of Laksmi practised penance here). Pargiter (p. 290 ) does not correctly interpret Ag.; K. II. 20.35 (Srāddha most efficacious here), II. 37. 13-14 (religious suicide allowed bere), P. I. 39. 17, VI. 20,15 (a great place for yogins and those practising penance). It is a Saktakṣetra acc. to Bar, S. III. 124. The Malati. madhava mentions it several times, Vide E. I. XX. p. 9, E. I.IV. p. 193 (Chikkulla plate of Viṣnukundin Vikramendravarman ). In the Nagarjunikonda Inscription F of about 3rd century A, D. edited by Dr. Vogel, Sriparvata is mentioned (E. I. vol. XX p. 1 at p. 23); B (a linga in VS) Ag. 112.4; C (under
 
 Narmada) Ag. 113. 3. Sripatitirtha--(srāddha here leads to
 
 highest goal) M. 22. 74.. Sriranga-(modern Srirangam, an
 
-island between Käveri about 2 miles north of Trichinopoly and Coleroon) M. 22. 44 (sraddha here yields in exhaustible results), Bh. X. 79.14, P. VI, 280. 19, Bār, S. III. 120 (a Vaisnava-ksetra). It is mentioned in the Silappadikaram chap. X. (tr. by Prof. Dikshitar p. 163 ). Rāma nuja, the founder of the Visistädvaita philosophy died here. Vide I. G.I. vol. XXIII. pp. 107-108 for a brief description of the temple of Visnu
+island between Kāveri about 2 miles north of Trichinopoly and Coleroon) M. 22. 44 (sraddha here yields in exhaustible results), Bh. X. 79.14, P. VI, 280. 19, Bār, S. III. 120 (a Vaisnava-ksetra). It is mentioned in the Silappadikaram chap. X. (tr. by Prof. Dikshitar p. 163 ). Rāma nuja, the founder of the Visistādvaita philosophy died here. Vide I. G.I. vol. XXIII. pp. 107-108 for a brief description of the temple of Visnu
 
 (called Ranganathasvamin here). Srītīrtha-(ucder VS) V. 83. 46, K.I.
 
@@ -5883,13 +5883,13 @@ bably same as above. Stambheśvara---SK. I. 2. 3. 40 Stanakunda-V. 84. 152. Var.
 
 (Stanakunde Umāyās-tu) Sthaleśvara--(a Sivatirtha) M. 181.27 Sthanesvara-(a linga in vs) L. I.
 
-92. 136 Sthänesvara-(modern Thaneswar 25
+92. 136 Sthānesvara-(modern Thaneswar 25
 
 miles south of Ambala) M. 13. 3 (Devi is called Bhavani here). Vide A. G. pp. 329-332. It was sacked by Mahmud of Gazni in 1014 A. D. In Harsacarita Bāna mentions Stha nvisvara country. Sthanutirtha-(under Sarasvati where
 
 Vasistha had his aśrama) Sal. 42. 4 (Vasist ba had his asrama to the east of this tirtha and Visvā mitra had his on the west). Vām. 40. 3 (on the north bank of the Sarasvati), 42. 30 (it has one thousand lingas). 49.6-7 (it is on the lake called Sannibatya). Vâm. chapters 47-49 deal with the mahatmya of this tirtha. Dey p. 194
 
-says it is the same as Sthänesvara, Stritirtha-(under Narmada) M. 194.
+says it is the same as Sthānesvara, Stritirtha-(under Narmada) M. 194.
 
 31. Stutasvā min-(a Visnuksetra on Mani
 
@@ -5913,7 +5913,7 @@ Some texts read Sūkaratirtha. Sukasya-asrama V. 85. 42. P. I. 39.
 
 39 (same verse in both) Sukeśvara(on north Gokarna) Var.
 
-173.9 Suklatirtha-(on the north bank of Narmadā about ten miles north-east of Broach) K. II. 41. 67-82, M. 192. 14, SK. I. 2.3.5. Vide p. 706 above for Canakya's association with it; also I. G. I. vol. 23 p. 128 and Bom. G. vol. XI. pp. 568-569 for legend of Canakya's connection ; P. I.19. 2-35 ( about Canikya räjarsi
+173.9 Suklatirtha-(on the north bank of Narmadā about ten miles north-east of Broach) K. II. 41. 67-82, M. 192. 14, SK. I. 2.3.5. Vide p. 706 above for Canakya's association with it; also I. G. I. vol. 23 p. 128 and Bom. G. vol. XI. pp. 568-569 for legend of Canakya's connection ; P. I.19. 2-35 ( about Canikya rājarsi
 
 having obtained siddhi here) Sukratirtha-(on north bank of Go.)
 
@@ -5983,9 +5983,9 @@ Vindhya), Br. II. 16. 29 (rising from
 
 Rksavat), Bh. V. 19. 18 Suresvari-ksetra - (present village of
 
-Isabar in Kasmira, two miles north of Dal lake shore) R. V. 37, NM. 1532, S. M. p. 161. The chief attraction here is a sacred spring known as Gupta-Ganga Surpärakatirtha-(modern Sopara near
+Isabar in Kasmira, two miles north of Dal lake shore) R. V. 37, NM. 1532, S. M. p. 161. The chief attraction here is a sacred spring known as Gupta-Ganga Surpārakatirtha-(modern Sopara near
 
-Bassein) V. 85. 43 (resorted to by Parasurama). 88. 12 (in it was the Vedi of Jamadagni), 118. 8-10, Santi 49. 67 (reclaimed from the sea by Jamadagni's son Parasurama), Anu. 25. 50, Harivamsa, Visnuparva 39. 29-31 (in Aparanta Sūrpāraka city was five hundred dhanus long and 500 isus broad and was establish ed by discharging an arrow by Parasu rāma), Br.III.58.17-18 and 32-33 (the strip taken by Parasurama from the sea is 400 yojanas from north to south), Bh. X. 79. 20, B. 27. 58 (Sürpāraka is mentioned as the first of the Aparanta countries). It is mentioned as Sorpāraga' in Nasik Inscription No. 10 q. in Bom. G. vol. 16 on p. 569. The Nana ghāt Ins. No. 9 (A S. W. I. vol. V. p. 64) mentions a Govindadāsa Soparayaka. There is a Suppāraka jätaka (No. 463, vol. IV p. 86 ed. by Cowell), where we are told of the seaport called Bharukaccha and a kingdom named Bharu. It is probable that the Ophir of the Old Testament is Sūrparaka, though some scholars dispute this. A. G. (pp. 497-499 and 561-562) argues that Ophie or Sophir (in the Septuagint translation of the Bible) is the country of Sauvirk and not Sürpāraka as man goudscholars hold. Ptolemy mentionsin as
+Bassein) V. 85. 43 (resorted to by Parasurama). 88. 12 (in it was the Vedi of Jamadagni), 118. 8-10, Santi 49. 67 (reclaimed from the sea by Jamadagni's son Parasurama), Anu. 25. 50, Harivamsa, Visnuparva 39. 29-31 (in Aparanta Sūrpāraka city was five hundred dhanus long and 500 isus broad and was establish ed by discharging an arrow by Parasu rāma), Br.III.58.17-18 and 32-33 (the strip taken by Parasurama from the sea is 400 yojanas from north to south), Bh. X. 79. 20, B. 27. 58 (Sürpāraka is mentioned as the first of the Aparanta countries). It is mentioned as Sorpāraga' in Nasik Inscription No. 10 q. in Bom. G. vol. 16 on p. 569. The Nana ghāt Ins. No. 9 (A S. W. I. vol. V. p. 64) mentions a Govindadāsa Soparayaka. There is a Suppāraka jātaka (No. 463, vol. IV p. 86 ed. by Cowell), where we are told of the seaport called Bharukaccha and a kingdom named Bharu. It is probable that the Ophir of the Old Testament is Sūrparaka, though some scholars dispute this. A. G. (pp. 497-499 and 561-562) argues that Ophie or Sophir (in the Septuagint translation of the Bible) is the country of Sauvirk and not Sürpāraka as man goudscholars hold. Ptolemy mentionsin as
 
 ME
 
@@ -6033,7 +6033,7 @@ course. Suvarna-V 84. 18, Ag. 109. 16, P. I.
 
 28.19 (where Visnu sought for the
 
-favour of Rudra) Suvarnäksa--(under VS) M. 181.25, K.
+favour of Rudra) Suvarnāksa--(under VS) M. 181.25, K.
 
 II. 35. 19. Suvarnarekbā (holy river near
 
@@ -6043,9 +6043,9 @@ Vide I. G. I. vol. XXIII. p. 114. Suvarnasikatā-(in Jungadh Inscrip
 
 tion of Rudradāman to be assigned to 150 A.D., E.I. VIII. p 36 at p.42) now called Sonrekha in Kathiawad Suvarnatilaka--(under Narmada) P. I.
 
-18, 46. Suvāstu-r., modern Swät that falls
+18, 46. Suvāstu-r., modern Swāt that falls
 
-into Kabul river) Rg. VIII. 19. 37 (Suvāstvā adhi tugvani). The Nir. IV. 15 explains that Suvästu is a river and 'tugvan' means 'tirtha), It is the Soastos of Arrian (A, I. p. 191 ). Pan. IV. 2. 77 (Suvästvä dibhyosin) knew Suvāstu and makes it the first word of 'Suvāstvādi-gana'. Inscriptions in Sanskrit containing famous Buddhist gathas have been found near Swät. Vide E. I. vol. II. p. 133 for three Buddhist in
+into Kabul river) Rg. VIII. 19. 37 (Suvāstvā adhi tugvani). The Nir. IV. 15 explains that Suvāstu is a river and 'tugvan' means 'tirtha), It is the Soastos of Arrian (A, I. p. 191 ). Pan. IV. 2. 77 (Suvāstvā dibhyosin) knew Suvāstu and makes it the first word of 'Suvāstvādi-gana'. Inscriptions in Sanskrit containing famous Buddhist gathas have been found near Swāt. Vide E. I. vol. II. p. 133 for three Buddhist in
 
 scriptions in Swat. Suvratasya--asrama (on Drsadvati)
 
@@ -6077,7 +6077,7 @@ p. 99 Sveti-(r., tributary of Indus on the
 
 west) Rg.X. 75.6. Lit, it would mean the white one. It is difficult to
 
-identify it with Suvāstu Svetodbhava--(under Säbhramati)P.
+identify it with Suvāstu Svetodbhava--(under Sābhramati)P.
 
 VI. 133. 15 Syandika-(r. Sai, seven miles south of
 
@@ -6099,7 +6099,7 @@ I. 27. 55; B (under VS) K. I. 35. 4,
 
 (the word here is 'Svargadvāri') : D
 
-(under Purusottama) N II. 56 31 Svargamärgahrada-Anu. q. by T. K.
+(under Purusottama) N II. 56 31 Svargamārgahrada-Anu. q. by T. K.
 
 p. 248 Svarga-marga-pada-V.DH. S 85. 41 Svargatirtha--Anu. 25. 33 Svargesvara--(under VS) L. q. by T.K.
 
@@ -6121,9 +6121,9 @@ Gangakāpa ) V. 83. 174 0 Svatantreśvara-(under Narmada ) M.
 
 Kasmira in the Machipur pargana) R. I. 34, HC. 14 80. Volcanic phenomena are observed here and sometimes vapours rise from fissures in the ground sufficiently hot to boil
 
-sraddha offerings placed by pilgrims. Svävillomāpaha-V. 83.61 Sveta-(1. that joins Sabhramati) P.
+sraddha offerings placed by pilgrims. Svāvillomāpaha-V. 83.61 Sveta-(1. that joins Sabhramati) P.
 
-VI. 133. 19-2007) Svetädri--(m.) P. VI 280.19, M. 113.
+VI. 133. 19-2007) Svetādri--(m.) P. VI 280.19, M. 113.
 
 138 (eastern part of Meru is so called). Svetadvīpa-G. I. 81.7: K.I. 1. 49,
 
@@ -6137,9 +6137,9 @@ to the north of Ksirodadhi Svetamadhava-N. II. 55. 3. :38 Svetatirtha-(under Go.
 
 Taijasa-(to the west of Kuruksetra where Skanda was crowned com
 
-mander of the gods) P.I. 27. 52-53. Taksasila --(modern Taxila) Svarga rohana-parva 5.34, Va 88, 189-90, Br. III. 63. 190-91 (established by Taksa son of Dasarathi Bharata as his capital in Gandhara); in the Jätakas Takkasilā is mentioned as a seat of learning (as in Bhimasena Jätaka, Fausboll's ed. vol. I. p.356). Vide Ptolemy p. 118-121 for its history from Alexander's time on wards. Ptolemy calls it Taxila. It is mentioned in the Dhauli first sepa rate Rock Edict of Asoka (C.I. I. vol. I. p. 93) and the word occurs in Pan. IV. 3.93. Vide for description of its ruins A. G. pp. 104-113, Marshall's
+mander of the gods) P.I. 27. 52-53. Taksasila --(modern Taxila) Svarga rohana-parva 5.34, Va 88, 189-90, Br. III. 63. 190-91 (established by Taksa son of Dasarathi Bharata as his capital in Gandhara); in the Jātakas Takkasilā is mentioned as a seat of learning (as in Bhimasena Jātaka, Fausboll's ed. vol. I. p.356). Vide Ptolemy p. 118-121 for its history from Alexander's time on wards. Ptolemy calls it Taxila. It is mentioned in the Dhauli first sepa rate Rock Edict of Asoka (C.I. I. vol. I. p. 93) and the word occurs in Pan. IV. 3.93. Vide for description of its ruins A. G. pp. 104-113, Marshall's
 
-'Guide to Taxila' and other works. Taksaka-näga (sacred spring in Kasmira
+'Guide to Taxila' and other works. Taksaka-nāga (sacred spring in Kasmira
 
 near Jayavana, modern Zevan). V. 82. 90. R. I. 220, P. I. 25. 2 (says Vitastā is the home of Taksaka-naga). It is worshipped to this day in the large pool close to the village Zevan.
 
@@ -6175,7 +6175,7 @@ q. by T. K. p. 191 Tāmrāruna-V. 85. 154 Tamravati-one of the rivers that are
 
 mothers of fires) v. 222. 23 Tandulikasrama--(near Puskara and
 
-Jambūmärga) V 82. 43, Ag, 109.9,
+Jambūmārga) V 82. 43, Ag, 109.9,
 
 P.I. 12. 3 Tāpasesvara-(under Narmada) K II.
 
@@ -6183,7 +6183,7 @@ P.I. 12. 3 Tāpasesvara-(under Narmada) K II.
 
 37 (it is also called Sattratirtha) Tapati--(r.) M.22.32-33 (Tapati seems
 
-to be Tāpi here as distinguished from Mulatapi). In Adiparva chapters 171-173 Tapati is a daughter of the Sun whom king Samvarana married and had a son Kuru from her; Mär. 105. 26 (younger daughter of the
+to be Tāpi here as distinguished from Mulatapi). In Adiparva chapters 171-173 Tapati is a daughter of the Sun whom king Samvarana married and had a son Kuru from her; Mār. 105. 26 (younger daughter of the
 
 Sun became river). Tāpeśvara--(under Narmada) M. 191.
 
@@ -6207,7 +6207,7 @@ p. 683 note 1551 above. Timi-(to the right of Sankukarneśvara)
 
 P.I. 24. 20-23 Tirthakoti-V 84.121, P.I, 38.38 (same
 
-verse in both) Tosalaka-(the guhya name of Vişnu
+verse in both) Tosalaka-(the guhya name of Viṣnu
 
 is Garudadhvaja here) Nr.q. by T.K. p. 252. Is it the same as Ptolemy's Tosalei (p. 230) and the Tosali in Asoka's Dhauli Inscriptions (C. I. I. pp. 92 and 97) and the Nāgārjuni konda Inscription (E. I, vol. XX. at p. 23)? Tosali (modern Dhauli in the Puri District) was the chief city of northern Kalinga in the days of
 
@@ -6247,7 +6247,7 @@ pur plates of Madhavavarman (about Tridivā-A (r. rising from Himavat)
 
 lord of Trikūta and Malaya' (E. I. Mahendra) M. 114, 31, Va. 45, 106,
 
-vol. 27 p. 312 at p. 315) B 27.37; C (r. rising from Rkşavat) Trilinga--country which has three Br. II. 16. 31.
+vol. 27 p. 312 at p. 315) B 27.37; C (r. rising from Rkṣavat) Trilinga--country which has three Br. II. 16. 31.
 
 famous lingas viz. Kalahastin, Sri Tridivābalā--(r. from Mahendra m.)
 
@@ -6271,7 +6271,7 @@ is the celebrated temple of Venkat very efficacious) V. Dh. S. 85.24
 
 esvara or Balaji. (com. Vaijayanti says it is
 
-Triplaksa--(sräddha most efficacious Salagrāma).
+Triplaksa--(srāddha most efficacious Salagrāma).
 
 Polo
 
@@ -6279,15 +6279,15 @@ here ) Br. III. 13. 69 Trijalesvara-linga--( where Gandaki Tripura-A (a very fit
 
 and Devikā join ) Var. 144.83
 
-śrāddha) M. 22. 43 ; B (capital of Trikakud-(m. part of Himavat) A.V.. Banäsura) P. I. chapters 14-15,
+śrāddha) M. 22. 43 ; B (capital of Trikakud-(m. part of Himavat) A.V.. Banāsura) P. I. chapters 14-15,
 
 IV. 9.8 and 9 (for a salve there- Karnaparva 33.17 ff and 34. 113 from ), Maitrāyani Sanhita III. 6.3, 114, M. chapters 129-140 (give the Sat. Br. III. 1. 3. 12 (all these story of Tripuradaba at great length). mention Traikakuda or Traikakubha Vide also Anu. 160. 25-31 and an añjana). Pan, V. 4. 147 (trikakut- interesting paper on The Tripura parvate) teaches that Trikakud is episode in Sanskrit literature in the name of a mountain and the Journal, Ganganath Jha R. I. vol. name is a Bahuvrihi compound VIII. pp. 371-395 by Miss Bhakti (trini kakudāni kakudakarani srngāni Sudha Mukhopadhyāya. asya) Vide Br. III. 13. 58 where Tripurantaka-(near eastern gate of it is Trikakudagiri (very eminent Sriparvata ) L. I. 92. 150.
 
-place for sraddha), Vā. 77. 57-63. Tripureśvara (modern village Triphar Trikoti-(a r. in Käśmira) NM 308, in Kasmira, three miles from Dal
+place for sraddha), Vā. 77. 57-63. Tripureśvara (modern village Triphar Trikoti-(a r. in Kāśmira) NM 308, in Kasmira, three miles from Dal
 
 386-87. At Kasyapa's request Aditi lake) R. V. 46. HC. 13. 200.
 
-became Trikoti. It joins Vitasta. Some identify it with Jyesthesvara. Trikāta-(m.) Vām. 85. 4, (son of Tripuri-(on the Narmada) T. S. Sumeru ), Nr. 65. 21, P VI. 129. 16. p. 100 quotes three verses about it In Bh. VIII. 2.1 Trikūta m. appears. It is modern Tewar, six miles west of to be mythical. From Raghuvamsa Jabbalpur. It was the capital of IV. 58-59 it follows that Trikūta was the Kalacuris or Cedis. Vide in Aparänta. Dey p. 205 specifies Jabalpur plate' of Yasahkarnadeva three hills as Trikūta. Kalidasa's in 1122 A.D., E.I. vol. 11, p. 1 at Triküta appears to be the Tirahnu p. 3 and E. I. XIX px 75 (for or Trirasmi hill at Nasik. Vide Bom. extent of Mabākosala DM. 114. 53, G. vol. 16 p. 633 and E. I. vol. 25 Sabhāparva 21. 60 and Br./S. 14.9 p. 225 at p. 232 (copper-plate Ins. mention Traipura country as situated
+became Trikoti. It joins Vitasta. Some identify it with Jyesthesvara. Trikāta-(m.) Vām. 85. 4, (son of Tripuri-(on the Narmada) T. S. Sumeru ), Nr. 65. 21, P VI. 129. 16. p. 100 quotes three verses about it In Bh. VIII. 2.1 Trikūta m. appears. It is modern Tewar, six miles west of to be mythical. From Raghuvamsa Jabbalpur. It was the capital of IV. 58-59 it follows that Trikūta was the Kalacuris or Cedis. Vide in Aparānta. Dey p. 205 specifies Jabalpur plate' of Yasahkarnadeva three hills as Trikūta. Kalidasa's in 1122 A.D., E.I. vol. 11, p. 1 at Triküta appears to be the Tirahnu p. 3 and E. I. XIX px 75 (for or Trirasmi hill at Nasik. Vide Bom. extent of Mabākosala DM. 114. 53, G. vol. 16 p. 633 and E. I. vol. 25 Sabhāparva 21. 60 and Br./S. 14.9 p. 225 at p. 232 (copper-plate Ins. mention Traipura country as situated
 
 POONA
 
@@ -6307,9 +6307,9 @@ Haihayas of Tripuri' p. 137. Tripuskara--Vide Puskara. Trisama-(r. rising from M
 
 19. 18. (does not mention source ). Trisandhyā or Trisandhyam) A-M.22.
 
-46 (sacred to pitrs); B spring of goddess Sandhya ) one of the holiest Kasmira tirthas. It is modern Sundabrär in Bring bargana ; NM
+46 (sacred to pitrs); B spring of goddess Sandhya ) one of the holiest Kasmira tirthas. It is modern Sundabrār in Bring bargana ; NM
 
-1471, R. I, 33, SM. p. 181. Tristhāna-(probably same as Värä
+1471, R. I, 33, SM. p. 181. Tristhāna-(probably same as Vārā
 
 nasi) Anu. 25.16 Trisikhara-(m.) Vā. 42.28, M. 183.2, Trisulaganga--(under Salagrāma) Var.
 
@@ -6339,7 +6339,7 @@ source of the Godavari) N. II. 73. 1-152 (is the māhātmya), SK, IV: 6. 23, P. 
 
 VII. 38. 6 . Tunga-(r. that falls into the Krsna )
 
-Nr. 66. 7 (reading differs ) 'q. by | T.K. P. 254 (Tungä сa dakşine Ganga
+Nr. 66. 7 (reading differs ) 'q. by | T.K. P. 254 (Tungā сa dakṣine Ganga
 
 Kaveri ca visesatah. ). 1 ITE Tungabhadra-(The two rivers Tungā
 
@@ -6399,13 +6399,13 @@ Umābaka-(under Narmada) K. II. 51, P.I. 38.13. Vide p. 647 note 1472
 
 above
 
-Umakunda-(under Lohärgala) Var. Ugra-(under VS) P. I. 37. 15; also
+Umakunda-(under Lohārgala) Var. Ugra-(under VS) P. I. 37. 15; also
 
 151. 64
 
 called Kedara
 
-Umätunga--K. II. 37. 32-33, Vā. 77. Ugreśvara--(under Vs) L. q. by T. K.
+Umātunga--K. II. 37. 32-33, Vā. 77. Ugreśvara--(under Vs) L. q. by T. K.
 
 81-82 (best place for sraddha, japa,
 
@@ -6415,7 +6415,7 @@ homa)
 
 Umāvana-(where Sankara assumed Ujjánaka-(where Skanda and Vasistha
 
-the Ardhanärisvara form) Va. 41. 36. secured peace of mind) V. 130. 17, Anu.25. 55. It is probably a corrupt
+the Ardhanārisvara form) Va. 41. 36. secured peace of mind) V. 130. 17, Anu.25. 55. It is probably a corrupt
 
 Dey p.211 says that it is Kotalgad in
 
@@ -6429,7 +6429,7 @@ Upajala-(r. near Yamuna) V. 130.21 92 and 77. 52, Vām. 13. 18. SK. VII. Upamany
 
 India) B. 43. 24 (called Avanti). 44.
 
-24 (called Avanti). 44. mothers of fires) . 222. 24 16 (capital of Mālava.) Vide under Urjanta--(in Aparanta) Br. III. 13. Avanti and Mahişmati above. Ujeni 53 (here are Yogesvarālaya and is mentioned in the Dhauli first Vasisthasrama) separate Rock edict (C. I. I. vol. I. Urjayat-- m. in Rudradāman's Junā. p. 93) of Asoka. The Mbh. (vol. II. gadh Inscription (in E. I. VIII p. 35 on Vārtika 10 on Pan. III. 1. p. 36 at p. 42) and in Gupta 26 mentions it. It is famous for the Inscriptions at p. 45 shrine of Mahakāla, one of the Urvasikunda-(under Badari) Var. twelve Jyotir-lingas and is situated 141. 51-64, N. II. 67. 65 on the Siprā river. Kalidāsa im- Urvasilinga--(under VS) L. q. by T.K. mortalizes it in the Meghadūta and p. 66 Raghuvamsa VI. 32-35. A. G. (pp. Urvasipulina--(under Prayāga) M. 22. 489-90) gives the boundaries of the 66 and 106. 34-35, Anu. 25. 46. kingdom of Ujjayini in the 7th cen- Vide p. 615 note 1399 above tury. A. C. (p. 182) gives Visala, Urvasisvara-(under VS) L. q. by T.K. Avanti and Puspakarandini as syno- p. 72 nyms of Ujjayini. 'Puspakarandaka- Urvasitirtha-A (under Prayaga) v. jirnodyāna' is mentioned in the 84, 157, M. 106. 34, 1 381 1654 ; Mrcchakatika. The Periplus and B (under Go.) B. 171.1 Ptolemy speak of it as Ozene. Vide Usnatirtha-M. 13. 42 (Den is called Ptolemy pp. 154-155. Vide J. A Abhayā in tirthas of hobwatery &
+24 (called Avanti). 44. mothers of fires) . 222. 24 16 (capital of Mālava.) Vide under Urjanta--(in Aparanta) Br. III. 13. Avanti and Mahiṣmati above. Ujeni 53 (here are Yogesvarālaya and is mentioned in the Dhauli first Vasisthasrama) separate Rock edict (C. I. I. vol. I. Urjayat-- m. in Rudradāman's Junā. p. 93) of Asoka. The Mbh. (vol. II. gadh Inscription (in E. I. VIII p. 35 on Vārtika 10 on Pan. III. 1. p. 36 at p. 42) and in Gupta 26 mentions it. It is famous for the Inscriptions at p. 45 shrine of Mahakāla, one of the Urvasikunda-(under Badari) Var. twelve Jyotir-lingas and is situated 141. 51-64, N. II. 67. 65 on the Siprā river. Kalidāsa im- Urvasilinga--(under VS) L. q. by T.K. mortalizes it in the Meghadūta and p. 66 Raghuvamsa VI. 32-35. A. G. (pp. Urvasipulina--(under Prayāga) M. 22. 489-90) gives the boundaries of the 66 and 106. 34-35, Anu. 25. 46. kingdom of Ujjayini in the 7th cen- Vide p. 615 note 1399 above tury. A. C. (p. 182) gives Visala, Urvasisvara-(under VS) L. q. by T.K. Avanti and Puspakarandini as syno- p. 72 nyms of Ujjayini. 'Puspakarandaka- Urvasitirtha-A (under Prayaga) v. jirnodyāna' is mentioned in the 84, 157, M. 106. 34, 1 381 1654 ; Mrcchakatika. The Periplus and B (under Go.) B. 171.1 Ptolemy speak of it as Ozene. Vide Usnatirtha-M. 13. 42 (Den is called Ptolemy pp. 154-155. Vide J. A Abhayā in tirthas of hobwatery &
 
 N25
 
@@ -6449,7 +6449,7 @@ Usniganga (a tirtha for bathing) v.
 
 country), Anu. 25, 34. Dey p. 213 says that it is Bithur, 14 miles from
 
-Kānpur in U. P. Utpalävartaka-(a forest) N. II. 60. 25,
+Kānpur in U. P. Utpalāvartaka-(a forest) N. II. 60. 25,
 
 Vanaparva q. by T. K. p. 244 Utpalāvati-(r. rising from m. Malaya)
 
@@ -6461,7 +6461,7 @@ p. 102 Uttara-(under VS) K. I. 35. 14, P. I.
 
 37. 17 Uttara-Ganga - (Gangabalin Lar
 
-pargana of Kašmira) HC. IV. 54. It is also called Haramukuta-ganga
+pargana of Kaśmira) HC. IV. 54. It is also called Haramukuta-ganga
 
 and Mānasottaragangā Uttaragokarna-Var. 216. 22, K. II.
 
@@ -6479,13 +6479,13 @@ rises in Himalaya) Var. 215. 49 (says that it is 100 times holier than
 
 Bhagirathi) Vagmati-Manivati-sangama--Var.215.
 
-106 and 110 Vaha-Vām. 57. 78 Vähini-Bhi, 9. 34 Vaidarbhā-M. 22. 64, Nalacampū VI. 66 (Daksinasaravati sa vahati Vidar bhā nadi yatra). Probably the same as Varada Vaidurya-(a hill in Anarta) V. 89.6,
+106 and 110 Vaha-Vām. 57. 78 Vāhini-Bhi, 9. 34 Vaidarbhā-M. 22. 64, Nalacampū VI. 66 (Daksinasaravati sa vahati Vidar bhā nadi yatra). Probably the same as Varada Vaidurya-(a hill in Anarta) V. 89.6,
 
 121. 16 and 19 (to which Pandavas came after crossing Payosni). Pān. IV. 3. 84 teaches the derivation of Vaidurya precious stone (Beryl) from Vidūra in the sense tasmāt prabhavati'. Mbh. (vol. II. p. 313) quotes a verse on this which says that grammarians denominate the mountain Valavāya as Vidūra. Pro bably it is the Sātpudā range which has Beryl mines. Vide Pargiter pp. 287 (o). 365 (n). It may be the Oroudian mountain of Ptolemy (pp.
 
 80-81) Vaidyanatha--A-M. 13.41, 22.24, P.V.
 
-17. 205 (same words as in M 13. 41); B (under VS) L. q. by T. K. pp. 84, 114; C (under Sabhramati) P. VI. 160.1; D (Devi is called Bagalā here) Devi-Bh. VII. 38. 14; E-temple of Vaidyanatha, probably one of the 12Jyotirlingas, at Deoghar in Santhal Pargana. Vide I. G. I. vol. XI p. 244 for the great temple of Vaidya nätba, which is the oldest of the
+17. 205 (same words as in M 13. 41); B (under VS) L. q. by T. K. pp. 84, 114; C (under Sabhramati) P. VI. 160.1; D (Devi is called Bagalā here) Devi-Bh. VII. 38. 14; E-temple of Vaidyanatha, probably one of the 12Jyotirlingas, at Deoghar in Santhal Pargana. Vide I. G. I. vol. XI p. 244 for the great temple of Vaidya nātba, which is the oldest of the
 
 22 Siva temples at Deogarh Vaibāra--( one of the five hills that
 
@@ -6545,9 +6545,9 @@ T.K p. 104. Vajrabhava--(under Kokamukha ) Var.
 
 140.61 (the water falls into Kausiki). Vajresvara-(under VS) L q. by T.K.
 
-p. 104 Välakhilyeśvara-(under VS) L.q. by
+p. 104 Vālakhilyeśvara-(under VS) L.q. by
 
-T.K. p. 66. Välisvara--(under VS) L q. by T.K.
+T.K. p. 66. Vālisvara--(under VS) L q. by T.K.
 
 p. 51. Vālmikeśvara--(under VS) L. q. by
 
@@ -6579,7 +6579,7 @@ B. 159.45. It is probably the modern Manjarā river that falls into Goda
 
 vari in Nander District Vanjarasangama--(under Go ) B. 159 1 Vanjula-A (r. rising from Sahya and
 
-falling into Go.) M. 114. 29, Vā. 45. 103. Vām. 57. 76; B (r. rising in Mahendra) B. 27. 37 Vankşu-(modern Oxus) Sabhā 51, 20
+falling into Go.) M. 114. 29, Vā. 45. 103. Vām. 57. 76; B (r. rising in Mahendra) B. 27. 37 Vankṣu-(modern Oxus) Sabhā 51, 20
 
 (rāsabhas were brought as pre-.
 
@@ -6599,7 +6599,7 @@ History of Dharmaśāstru
 
 [Vol.
 
-Varanävati-(r.) Atbarvaveda IV. 7.1. Väranesvara-(under Narmada) P. I.
+Varanāvati-(r.) Atbarvaveda IV. 7.1. Vāranesvara-(under Narmada) P. I.
 
 etad Varadatatanāmakam Mahā-
 
@@ -6617,9 +6617,9 @@ in Kasmira) v. Dh S. 85.7 Varāha-stbanas-(places sacred to the
 
 Great Boar incarnation of Visnu are Kokāmukha, Badari and Lohar
 
-gala) Var. 140.4-5 Varäbatirtha-A (under Kuruksetra)
+gala) Var. 140.4-5 Varābatirtha-A (under Kuruksetra)
 
-Vām. 34.32, P I. 26. 15; B (under VS) PI. 37. 6, KI 35.5; C (under Mathura) Var. 166.23 (there were four golden imges of Varāha, Nārāyana, Vamana, Rāghava): D (on Vitastā in Kāśmira) NM 1559; E (a sub-tirtha of Sahyāmalaka) Nr. 66 34; F (under Sabhramati) P. VI. 165. 10; G (on Narmada) M. 193. 74, K II. 42. 14, P. I. 20.71; H (on Payoşni) V 88.7 and 9 (king Nrga performed yajña here and the tirtha is holiest of all rivers), K II. 20. 32, Vām. 90. 4:
+Vām. 34.32, P I. 26. 15; B (under VS) PI. 37. 6, KI 35.5; C (under Mathura) Var. 166.23 (there were four golden imges of Varāha, Nārāyana, Vamana, Rāghava): D (on Vitastā in Kāśmira) NM 1559; E (a sub-tirtha of Sahyāmalaka) Nr. 66 34; F (under Sabhramati) P. VI. 165. 10; G (on Narmada) M. 193. 74, K II. 42. 14, P. I. 20.71; H (on Payoṣni) V 88.7 and 9 (king Nrga performed yajña here and the tirtha is holiest of all rivers), K II. 20. 32, Vām. 90. 4:
 
 I (under Go.) B 79.6. Varahesvara--(under VS) L. g. by
 
@@ -6633,13 +6633,13 @@ Vardhanadruma-(in Kasmira, an
 
 ayatana of Vināyaka Gangeya )
 
-NM 1161 Väridhāra--(m.) Bh. V. 19. 16 Varnāša-(r. Banas in Rajputana
+NM 1161 Vāridhāra--(m.) Bh. V. 19. 16 Varnāśa-(r. Banas in Rajputana
 
 rising from Pariyātra and falling into Chambal) Br. II. 16. 28; see
 
-under Parnäsa. Varnu-(r.)Pan. IV.2 103 (varnau vuk).
+under Parnāsa. Varnu-(r.)Pan. IV.2 103 (varnau vuk).
 
-Kāsika explains that the country on Varnu was also called Varnu. This appears to be modern Bandu. Varnu occurs in Suvästvädi-gana.
+Kāsika explains that the country on Varnu was also called Varnu. This appears to be modern Bandu. Varnu occurs in Suvāstvādi-gana.
 
 (IV. 2. 77). Vārtraghni-(r. rising in Pariyatra
 
@@ -6647,9 +6647,9 @@ and falling into the sea) P. VI. 131. 56, 68, VI. 164, 1 and 71, Mār. 57. 19; V
 
 Vrtraghni and B. 27. 28 Vataghni. Varunasrotasa-(m.) V. 88. 10 Varunā-(r. tributary of the Go.)
 
-P. VI. 176.59 Värunatirtha-V. 83. 164, 88. 13 (in
+P. VI. 176.59 Vārunatirtha-V. 83. 164, 88. 13 (in
 
-Pandya country ), Bär. Sūtra III. 88
+Pandya country ), Bār. Sūtra III. 88
 
 (on the shores of the eastern sea ). Varunesa-A (under VS) L. q. by
 
@@ -6687,7 +6687,7 @@ List of tirthas
 
 and 9 tāpasas. The location is Vatsakrīdanaka-(under Mathurā) Var.
 
-uncertain. Vasisthatirtha-M. 22. 68 (sräddba Vāyavyatirtha--( under Kubjāmraka)
+uncertain. Vasisthatirtha-M. 22. 68 (srāddba Vāyavyatirtha--( under Kubjāmraka)
 
 and dana most efficacious here.
 
@@ -6727,7 +6727,7 @@ it is the river Bosuli in Malwa and Vasuka-(under Viraja in Orissa)
 
 a tributary of the Sindh; Br. S. B. 42.6
 
-16.32 mentions it. Väsukīśvara-(under VS) L. q. by Vedasruti (r. after Kosala towards the
+16.32 mentions it. Vāsukīśvara-(under VS) L. q. by Vedasruti (r. after Kosala towards the
 
 T. K. p. 48.
 
@@ -6743,7 +6743,7 @@ rivers cannot really be identified. Vāsuprada-M 22. 72 (Sraddha here
 
 There is a river called Vedāvati or makes a man reach highest goal). Hagari wbich rises in Mysore and Vasutunga-Jagatpati is the guhya
 
-ultimately falls into the Tunga appellation of Vişnu here) Nr. q. by bhadrā. Vide I. G. I. vol. XIII p. 5.
+ultimately falls into the Tunga appellation of Viṣnu here) Nr. q. by bhadrā. Vide I. G. I. vol. XIII p. 5.
 
 T. K. p. 251
 
@@ -6765,7 +6765,7 @@ pp. 66
 
 tr. p. 270). Vātesvarapura P. I. 38,46
 
-Venā-A (r. rising from Vindhya, B. Vatika-(in Kaśmira) NM 1459. 27. 33, M. 114. 27. This is the Vätodaka (r. in Pandya country) Bh. Wain-Gangã in C. P. and falls into
+Venā-A (r. rising from Vindhya, B. Vatika-(in Kaśmira) NM 1459. 27. 33, M. 114. 27. This is the Vātodaka (r. in Pandya country) Bh. Wain-Gangã in C. P. and falls into
 
 IV. 28. 35
 
@@ -6781,11 +6781,11 @@ History of Dharmaśāstra
 
 820
 
-near Mahabaleshwar. The Penganga falls into Wardha, acc. to I. G. I. vol. V p. 22, vol. XIII. p. 229, vol. XX. p. 102 and the united stream of the Wainganga and Wardha is known as Pränahitā which ultimat ely falls into the Godavari. Vide I. G. I. vol. 24 p. 349, Bhi. 9. 20, 28, V. 85. 32, 88. 3, 222. 24, Anu. 165. 20, Bh. X. 79. 12, Ven is often mentioned as Krsnavena or--Venyā or-Veni as in M. 114. 29. Rajasekhara in Kavya
+near Mahabaleshwar. The Penganga falls into Wardha, acc. to I. G. I. vol. V p. 22, vol. XIII. p. 229, vol. XX. p. 102 and the united stream of the Wainganga and Wardha is known as Prānahitā which ultimat ely falls into the Godavari. Vide I. G. I. vol. 24 p. 349, Bhi. 9. 20, 28, V. 85. 32, 88. 3, 222. 24, Anu. 165. 20, Bh. X. 79. 12, Ven is often mentioned as Krsnavena or--Venyā or-Veni as in M. 114. 29. Rajasekhara in Kavya
 
-ansā p. 94 mentions 'Venā' and 'Krsnävenā' separately in the first quarter of the 10th century. Vide Pargiter p. 303n for the various forms of this name. Venāsangama-V 85.34, P.1. 39.32 Veni-A (confluence of Gangā and
+ansā p. 94 mentions 'Venā' and 'Krsnāvenā' separately in the first quarter of the 10th century. Vide Pargiter p. 303n for the various forms of this name. Venāsangama-V 85.34, P.1. 39.32 Veni-A (confluence of Gangā and
 
-Yamunā ) Vide above p. 603 n 1369. Vide Banaras Ins. of Karnadeva in Kalacuri year 793 (i.e 1042 A.D.) in E. I. vol. II. p. 297 at p. 310 (Venyam snätvā...Trilocanam...sama bhyarcya), Kamauli plate of Jaya candra in E. I. IV. at p. 123 (dated samvat 1230 i, e, 1173 AD); B (r. rising in Sahya from the root of an āmalaka tree and falling into Krsna)
+Yamunā ) Vide above p. 603 n 1369. Vide Banaras Ins. of Karnadeva in Kalacuri year 793 (i.e 1042 A.D.) in E. I. vol. II. p. 297 at p. 310 (Venyam snātvā...Trilocanam...sama bhyarcya), Kamauli plate of Jaya candra in E. I. IV. at p. 123 (dated samvat 1230 i, e, 1173 AD); B (r. rising in Sahya from the root of an āmalaka tree and falling into Krsna)
 
 TS. p. 78 Venkata-(m. in Dravida country,
 
@@ -6821,9 +6821,9 @@ Vidarbhā is the name of Kundina a pura (v. 979)
 
 Vidhisvara--(under VS) L. q. by T. K.
 
-p. 116 Vidiša-A (r. rising from Pariyātra m.)
+p. 116 Vidiśa-A (r. rising from Pariyātra m.)
 
-B 27 29, Br II. 16.28, Mär. 54. 20. Vide Vetravati above; B-A city men tioned in Raghuvamsa 15. 36 (Rāma gave to the two sons of Satrughna, Satrughatin and Subahu, the cities of Madbura and Vidisa); Meghaduta I. 24 states that Vidisā was the capital of the Dasarna country. In the Malavikāgnimitra (V. 1) Agni mitra is shown as enjoying himself on the banks of the Vidisā river and later on Pusyamitra refers to his son Agnimitra as Vaidisastha , Vaidiša would mean a city on the Vidisa). Vide Vadnera pldtes of Katacchuri Buddharāja in 360 of the Kalachuri era (i e. about 609 A. Do issued from 'Vaidisa-väsakasaguta Vriental
+B 27 29, Br II. 16.28, Mār. 54. 20. Vide Vetravati above; B-A city men tioned in Raghuvamsa 15. 36 (Rāma gave to the two sons of Satrughna, Satrughatin and Subahu, the cities of Madbura and Vidisa); Meghaduta I. 24 states that Vidisā was the capital of the Dasarna country. In the Malavikāgnimitra (V. 1) Agni mitra is shown as enjoying himself on the banks of the Vidisā river and later on Pusyamitra refers to his son Agnimitra as Vaidisastha , Vaidiśa would mean a city on the Vidisa). Vide Vadnera pldtes of Katacchuri Buddharāja in 360 of the Kalachuri era (i e. about 609 A. Do issued from 'Vaidisa-vāsakasaguta Vriental
 
 POONA
 
@@ -6971,7 +6971,7 @@ Va 47. 64; C (under Gaya) vide pp. 13. 57. Vide T. P. pp. 598-599 for
 
 and R. D. Banerji's 'Palas of Bengal' name of Jajpur in Orissa
 
-(Memoirs of A. S. B. vol. V pp. 60 Virajädri-(under Gaya) Vā. 106. 85
+(Memoirs of A. S. B. vol. V pp. 60 Virajādri-(under Gaya) Vā. 106. 85
 
 61 for Visnupada temple Inscription (Gayasura's navel rested on it)
 
@@ -6989,11 +6989,11 @@ Visnu) Bh. V. 17. 1. Amarakosa men Virasthala-(under Mathura) Var. 157. tions it
 
 14, 160.20
 
-(Ganga Visnupadi Jahnu-tanaya) Virūpāksa-A ( Hampi) P V. 17. 103, Vişnusaras-A (under Kokāmukira
+(Ganga Visnupadi Jahnu-tanaya) Virūpāksa-A ( Hampi) P V. 17. 103, Viṣnusaras-A (under Kokāmukira
 
 SK., Brahmakhanda 52. 102; B Var. 140. 24; B (under Goniskt
 
-(under VS) L. q. by T. K. p. 102 mana) Var. 147.43 Višākhayūpa-(near Kuruksetra) V 90. Visnutirtha-A (under Kokāmukha
+(under VS) L. q. by T. K. p. 102 mana) Var. 147.43 Viśākhayūpa-(near Kuruksetra) V 90. Visnutirtha-A (under Kokāmukha
 
 15, 177. 16, Vām. 81. 9, Nr. 65. 14 var. 140. 71-74; B (under Natmadad.
 
@@ -7013,13 +7013,13 @@ M 191.99, K. II. 41,52 (it is Yodhi. puram Visnusthānam); P I. 18.94 (known as 
 
 Maudgalya). Visnutirthas-(108 enumerated) P. VI.
 
-129. 5-36. Visoka--(r. in Kasmira) modern Vesan NM. 307, 373, 381, 1493, HC. XII. 35. NM. 307 says that Lakşmi at the request of sage Kasyapa became Visokā; NM. 381 says that it formed Vitastā below Vijabror; NM. 1491 1493 speak of the confluence of Kaundini rising from lake Krama
+129. 5-36. Visoka--(r. in Kasmira) modern Vesan NM. 307, 373, 381, 1493, HC. XII. 35. NM. 307 says that Lakṣmi at the request of sage Kasyapa became Visokā; NM. 381 says that it formed Vitastā below Vijabror; NM. 1491 1493 speak of the confluence of Kaundini rising from lake Krama
 
 sara with Visokā. Visrantitirtba-A (the most sacred
 
 spot in Mathurā) Var. 163. 162, 167.1 ff, P. VI. 209,5 (on the bank of Yamunā where Kamsa was killed by Krsna); B (a different ksetra from the above in Madhuvana, where Visnu assumed the form of Varaha)
 
-P. VI. 209. 1-3 and 5 Visvā-(r.) Bh. V. 19. 18 Višvakarmesvara-(under VS) L q. by
+P. VI. 209. 1-3 and 5 Visvā-(r.) Bh. V. 19. 18 Viśvakarmesvara-(under VS) L q. by
 
 T.K. p. 55 Visvakāya-P. VI. 129, 8 Visvāmitranadi-V. 89. 9, Bhi. 9. 26
 
@@ -7043,7 +7043,7 @@ Visvesvara- (one of five lingas in VS)
 
 K. I. 32. 12 and II. 41.59, P. I. 34. 10, N II. 51. 4; vide pp. 632-33
 
-above; B (in Girikarna) P.VI. 129.10. Visvävasvesvara-(under VS) L. q. by
+above; B (in Girikarna) P.VI. 129.10. Visvāvasvesvara-(under VS) L. q. by
 
 T. K p. 116. Vitamsa--one of the ten great rivers
 
@@ -7059,7 +7059,7 @@ the Sindhu', 1906 ) Vitastā-Gambhira-sangama-SM, pp.
 
 101, 110 Vitastā-madhumati-sangama-NM 1442 Vitastā-sindhu-sangama--(exceptional
 
-sanctity ) R. IV. 391, V. 82497-100, NM 394-95. The place where these two rivers meet endogs among Kašmira people the same sanctity as the confluence at Prayaga.
+sanctity ) R. IV. 391, V. 82497-100, NM 394-95. The place where these two rivers meet endogs among Kaśmira people the same sanctity as the confluence at Prayaga.
 
 S tatike
 
@@ -7087,7 +7087,7 @@ die on the loss of his son), N II. 65.
 
 37 29, Br. III. 13. 69; B (under Narmada) va 77. 67, P. I. 18. 38;
 
-C (under Go.) B 158. 1 Vyäsavana--(near Misraka) P. I. 26 87 Vyoma-Ganga--( under Gaya ) NII.
+C (under Go.) B 158. 1 Vyāsavana--(near Misraka) P. I. 26 87 Vyoma-Ganga--( under Gaya ) NII.
 
 Vyoma-linga-(under Sriparvata) I. I.
 
@@ -7117,11 +7117,11 @@ with this Vrsabhanjaka-(under Mathura) Var.
 
 T.K. p. 43. Vrsadhvaja--(under VS ) K. 1. 35, 13,
 
-L. I. 92. 106, N II. 50.48 Vrşākapa-(under Go.) B. 129.1. Visotsarga--( under Narmada) K. II.
+L. I. 92. 106, N II. 50.48 Vrṣākapa-(under Go.) B. 129.1. Visotsarga--( under Narmada) K. II.
 
 42.8 Vrtraghni-(r that springs from Pari
 
-yätra) Br. II. 16. 27, Mār. 54. 19. Dey p. 42 says that it is a tributary of the Sabhramati
+yātra) Br. II. 16. 27, Mār. 54. 19. Dey p. 42 says that it is a tributary of the Sabhramati
 
 Yajana-V. 82. 106 Yajñavalkya-linga--( under VS) L. q.
 
@@ -7195,7 +7195,7 @@ in Gaya) V. 84. 94-95, P. I. 38. 15 (same words in both ). N. II. 44.
 
 76-77 Yugandhara-A--a country or people
 
-acc. to Pan. IV. 2. 130 and the Käsikā mentions it as one of Salva vayavas; B (a m.) acc. to Käsikä on Pan. III. 2. 46. Vām. 34. 47 'Yugan dhare dadhi prasya usitvā cãcyuta sthale tadvad-Bhūtālaye snätvā saputrā vastum-icchasi'. Br. S. 32. 19 appears to mention Yaugan dhara as the name of a people or country.
+acc. to Pan. IV. 2. 130 and the Kāsikā mentions it as one of Salva vayavas; B (a m.) acc. to Kāsikā on Pan. III. 2. 46. Vām. 34. 47 'Yugan dhare dadhi prasya usitvā cãcyuta sthale tadvad-Bhūtālaye snātvā saputrā vastum-icchasi'. Br. S. 32. 19 appears to mention Yaugan dhara as the name of a people or country.
 
 POONA
 

@@ -13,7 +13,7 @@ OF THE CONTENTS OF VOLUME IV
 
 PAGES
 
-Section 1 :-Pātaka. Prāyascitta, Karmavipäka
+Section 1 :-Pātaka. Prāyascitta, Karmavipāka
 
 Chapter I Sin in Rgveda, conception of rta, enumera
 
@@ -25,11 +25,11 @@ tion and classification of sins, grave sins and lesser lapses, doctrine of karı
 
 Chapter II Means of reducing the consequences of
 
-sins, viz. confession, repentance, prāņāyāma, tapas, homa, japa (muttering sacred texts ), gifts, fasting, pilgrimages.
+sins, viz. confession, repentance, prāṇāyāma, tapas, homa, japa (muttering sacred texts ), gifts, fasting, pilgrimages.
 
 41-56 Chapter III Prayascitta (expiation), derivation of the
 
-word, origin and meaning: expiations and secular punishments; circumstances to be considered in prescribing expiations; parişad ( assembly of learned men ) and its duties.
+word, origin and meaning: expiations and secular punishments; circumstances to be considered in prescribing expiations; pariṣad ( assembly of learned men ) and its duties.
 
 ... 57—86
 
@@ -53,7 +53,7 @@ Section II:-Antyesti (rites after death ), āśauca (im
 
 purity on birth and death), Suddhi (purification). Chapter VII Eschatology; Rgveda X. 14-18 trans
 
-lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya şütras ; cremation ; burial; offering
+lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya ṣütras ; cremation ; burial; offering
 
 POONA
 
@@ -83,7 +83,7 @@ neqst goings, siv Section III:-Sraddha
 
 Chapter IX Derivation and definition of 'srāddha';
 
-srāddha and the doctrines of karma and punar janma; pitrs; panegyrics of śrāddha; only three rites for the departed in ancient times viz. pindapitr. yajña, mahāpitryajña and astakās; the adhikärin (person entitled to perform ) for sraddha ; meaning of the word 'putra'; proper times and places for śräddha ; classification of śrāddhas ; qualifications of brahmanas to be invited ; persons unfit to be invited; food recommended and condemned in srāddha; pinda pitryajña as described in Taittirīya Sambita and Brāhmana ; pārvanaśrāddha as described in Āśva lāyanagļhya, in Yājñavalkya, and in Padmapurāna; Viśve-devas; agnau-karana; number of āhutis ; number of ancestors to whom pindas are offered (3, 6, 9 or 12); description of modern pārvanaśrāddha; meaning of sapinda; āmasrāddha.
+srāddha and the doctrines of karma and punar janma; pitrs; panegyrics of śrāddha; only three rites for the departed in ancient times viz. pindapitr. yajña, mahāpitryajña and astakās; the adhikārin (person entitled to perform ) for sraddha ; meaning of the word 'putra'; proper times and places for śrāddha ; classification of śrāddhas ; qualifications of brahmanas to be invited ; persons unfit to be invited; food recommended and condemned in srāddha; pinda pitryajña as described in Taittirīya Sambita and Brāhmana ; pārvanaśrāddha as described in Āśva lāyanagļhya, in Yājñavalkya, and in Padmapurāna; Viśve-devas; agnau-karana; number of āhutis ; number of ancestors to whom pindas are offered (3, 6, 9 or 12); description of modern pārvanaśrāddha; meaning of sapinda; āmasrāddha.
 
 334-515
 
@@ -125,9 +125,9 @@ bhārata and purānas; Tristhali i. e. Prayāga, Kasi and Gayā; eulogy of Praya
 
 Chapter XIII Kasi; ancient history and eulogy of
 
-Kası; Banaras known under five different names; derivation of the words Kasi and Vārānasi ; Visvešvara and Manikarnikā; five essential tirthas at Banaras ; Pañcakrosi pilgrimage; sub-tīrthas, such as Jñanavāpi : numerous lingas at Banaras ... 618-642
+Kası; Banaras known under five different names; derivation of the words Kasi and Vārānasi ; Visveśvara and Manikarnikā; five essential tirthas at Banaras ; Pañcakrosi pilgrimage; sub-tīrthas, such as Jñanavāpi : numerous lingas at Banaras ... 618-642
 
-Chapter XIV Gayā; Gayāmāhātmya in Väyupuräna
+Chapter XIV Gayā; Gayāmāhātmya in Vāyupurāna
 
 (chapt. 105-112); views about its date; Visnupada and Gayasiras in Nirukta; brief summary of Gayāmāhātmya; most important spots in Gayā are the Phalgu river, Visnupada and Aksayavata; the five tirthas of Gayā; offering of śrāddha and pindas at Gayā; the seven holy cities, twelve Jyotir-lingas, and four Dhāmas
 
