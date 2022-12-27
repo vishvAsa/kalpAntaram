@@ -817,7 +817,7 @@ works rocited in, 701, 703. Brāhini alphabet, derived from a
 
 Semitic alphabet about 800 B. C., 
 
-acc. to Bühler 348. Brhadaraṇyaka Upanipad, 5, 13, 38a, 
+acc. to Būhler 348. Brhadaraṇyaka Upanipad, 5, 13, 38a, 
 
 45, 52, 88, 106, 108, 110, 167, 201, 227, 273; contains one of the noblest prayors, 5; holds truth and dharma are identical, 5; inculcater 
 
@@ -903,7 +903,7 @@ Caṇdesvara, minister of Mitbild cal system, 422; works, 85.
 
 kings, weighed himself against Bud basmrti, 196, 
 
-gold, 872. Bühlor, 631, 348, 956n. 
+gold, 872. Būhlor, 631, 348, 956n. 
 
 Candragupta, Maurya king, 248. Bukka, king of Vijayanagar, daugh- Candrðyana, method of, may bo 
 
@@ -2599,7 +2599,7 @@ General Index
 
 1921 
 
-Max Müllor, 202n, 326n, 847, 6240, 
+Max Mūllor, 202n, 326n, 847, 6240, 
 
 1119n; started theory that writing for literary purposes was unknown to Pāṇini, 347; suggested a tenta tive chronology for Vedic Litora 
 

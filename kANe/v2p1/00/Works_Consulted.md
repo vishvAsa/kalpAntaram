@@ -11,7 +11,7 @@ N. B. Works referred to only once or twice and most of those already set out on 
 
 TEXTS 
 
-Vedic Samhitās Atharvaveda-S. P. Pandit's edition. Kathaka Samhita.-edited by Dr. Sohroeder. Maitriyani Sambita-edited by Dr. Schroeder. Rgveda-Prof. Max Müller's edition with the com. of Sāyaṇa 
+Vedic Samhitās Atharvaveda-S. P. Pandit's edition. Kathaka Samhita.-edited by Dr. Sohroeder. Maitriyani Sambita-edited by Dr. Schroeder. Rgveda-Prof. Max Mūller's edition with the com. of Sāyaṇa 
 
 in four volumes. Samaveda--Benfey's edition and Satyavrata Samagrami's edi 
 
@@ -333,7 +333,7 @@ srama Press). Tantravārtika of Kumārilabhatta (vide above 'Jaimini'). Trikānd
 
 by the Nirnayasagara Press). Vedāntakalpataru-parimala of Appayadikṣita ( Vizianagram 
 
-Sanskrit series, 1895). Vikramāöka devacarita of Bilhana-edited by Dr. Bühler in 
+Sanskrit series, 1895). Vikramāöka devacarita of Bilhana-edited by Dr. Būhler in 
 
 the Bombay Sanskrit Series, 1875. Yogasutra of Patanjali with Vyasabhasya-(Bombay Sanskrit 
 
@@ -405,7 +405,7 @@ Oriental Series). Dr. S. V. Ketkar's 'Jñanakośa' ( in Marathi), vol. 2 and 5. 
 
 India series ), London 192%. Rao Saheb V. N. Mandlik's. Hindu Law' ( 1880, Bombay ). Sir John Marshall-Mohenjo-daro and the Indus Civilization, 
 
-in three volumes, 1931, MaxMüller's History of Ancient Sanskrit Literature (1859). Megasthenes-India ( as described by ) translated by MoCrindle 
+in three volumes, 1931, MaxMūller's History of Ancient Sanskrit Literature (1859). Megasthenes-India ( as described by ) translated by MoCrindle 
 
 (1877 ). Pollock and Maitland-History of English Law (Cambridge, 
 

@@ -132,7 +132,7 @@ GOMūTRA-KROCHRA–The Pr. Sāra p. 187 quotes a verse about this: one should ma
 
 GOVRATA- Pr. Prakarapa (p. 132) quoting the Mārkandeya describes this as follows: One should bathe with cow's urine, should subsist on cow-dung, should always stand among cows, should sit down on cow dung, should drink water only when cows have drunk water; one should not eat when they have not eaten, should stand up when they stand, should sit down when they sit down. This should be continued for a month.
 
-CANDRAYAN A-The word is derived in this way. That rite, where there is action by means of increase and decrease (in the intake of food) in imitation of the course of the phases of the moon, is cāndrāyana. 308 The word occurs in Păn. V.1. 172 (pārāyana-turāyaṇa-cāndrāyanam vartayati). From very ancient times Cāndrāyana has been divided into two varieties, called Yavamadhya 309 (lit. being large in the middle like a grain of yava, and therefore tapering or thin at the ends) and Pipilikāmadhya (lit, having a middle like that of an ant, that is, slender in the middle and large at the ends). Baud. Dh.S. III. 8. 33 names these two varieties. According to Jābāli 310 there are five
+CANDRAYAN A-The word is derived in this way. That rite, where there is action by means of increase and decrease (in the intake of food) in imitation of the course of the phases of the moon, is cāndrāyana. 308 The word occurs in Pān. V.1. 172 (pārāyana-turāyaṇa-cāndrāyanam vartayati). From very ancient times Cāndrāyana has been divided into two varieties, called Yavamadhya 309 (lit. being large in the middle like a grain of yava, and therefore tapering or thin at the ends) and Pipilikāmadhya (lit, having a middle like that of an ant, that is, slender in the middle and large at the ends). Baud. Dh.S. III. 8. 33 names these two varieties. According to Jābāli 310 there are five
 
 _307. आ तृप्तेश्चारयित्वा गां गोधूमान्यवमिश्रितान् । तान् गोमयोत्थान संगृह्य पिबेद्गोमूत्र
 
@@ -322,7 +322,7 @@ History of Dharmaśāstra
 
 [Vol.
 
-drinking surā and a südra drinking pañcagavya both went to hell (Mahāraurava, according to Visnu), yet Devala (verse 61) and Parāśara XI. 3 and 27 and medieval works like the Pr. M. (p. 13) and Sūdrakamalakara (p. 42 ) allowed śūdras to take pañcagavya without Vedic mantras. And women of all varpas, being treated like śūdras for certain purposes, were also allowed optionally to do the same.
+drinking surā and a sūdra drinking pañcagavya both went to hell (Mahāraurava, according to Visnu), yet Devala (verse 61) and Parāśara XI. 3 and 27 and medieval works like the Pr. M. (p. 13) and Sūdrakamalakara (p. 42 ) allowed śūdras to take pañcagavya without Vedic mantras. And women of all varpas, being treated like śūdras for certain purposes, were also allowed optionally to do the same.
 
 PATRAKRCCHRA-Vide Parna-kūrca below.
 
@@ -374,7 +374,7 @@ PRASRTA-YĀVAKA or PRASRTIYAVAKA-- Visnu Dh. S. chap. 48 and Baud. Dh, S. III, 6
 
 POONA
 
-329. HIÚ Frararü firreni al tratarya I. 14, q. by Aar. on T. III. 318, 19. Fr. p. 172, TT #. II. part 2 p. 173.
+329. HIÚ Frararū firreni al tratarya I. 14, q. by Aar. on T. III. 318, 19. Fr. p. 172, TT #. II. part 2 p. 173.
 
 330. ATE ATAT I SAR shifera: 48hte Haar e श्रीफलैः प्रोक्तः पद्माक्षरपरस्तथा। मासेनामलकैरेवं श्रीकृच्छ्रमपरं स्मृतम् । पातः पत्रकुच्छ्र: you are a gaya
 

@@ -175,7 +175,7 @@ early records even, these exemptions are said to be eighteen, e. 8. in the Hirah
 
 251 a. Tento a Vā Bir T H: 1 TFT in: TT ROT (HT: \# 77A100T, 3 4 6.14. 
 
-252. The passage in the plate of Śivaskandavarman (E. I. vol. I. pp. 8–9) is rendered by Dr. Bühler as 'this garden ...... is to be free from taxes, free from the taking of sweet and sour milk, free from troubles about 
+252. The passage in the plate of Śivaskandavarman (E. I. vol. I. pp. 8–9) is rendered by Dr. Būhler as 'this garden ...... is to be free from taxes, free from the taking of sweet and sour milk, free from troubles about 
 
 (Continued on the next page) 
 

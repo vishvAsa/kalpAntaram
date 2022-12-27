@@ -53,7 +53,7 @@ Section II:-Antyesti (rites after death ), āśauca (im
 
 purity on birth and death), Suddhi (purification). Chapter VII Eschatology; Rgveda X. 14-18 trans
 
-lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya ṣütras ; cremation ; burial; offering
+lated; rites on death of āhitāgni in sat. Br. and srauta and gļhya ṣūtras ; cremation ; burial; offering
 
 POONA
 

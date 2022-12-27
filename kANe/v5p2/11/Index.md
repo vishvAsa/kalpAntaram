@@ -248,7 +248,7 @@ apākhyāna 858n,
 
 Avānta reckoning, 659. Akṣayya-tytiyā, details of vrata Amarakośa, 29, 84, 117, 477, 
 
-on, 88-89; one of the most 668n, 742 ( ntpāta and upasar auspic:ous tithis in the year, ga are synonyms ), 743, 803n 89; referred to in Viṣṇu- (names of dig-gajas ), 838 dharmasūtra, 88; third tithi (defines Purāṇa ); date of, acc. of Vaiśākha bright half is so to Max Müller, Hoernle and called 88. 
+on, 88-89; one of the most 668n, 742 ( ntpāta and upasar auspic:ous tithis in the year, ga are synonyms ), 743, 803n 89; referred to in Viṣṇu- (names of dig-gajas ), 838 dharmasūtra, 88; third tithi (defines Purāṇa ); date of, acc. of Vaiśākha bright half is so to Max Mūller, Hoernle and called 88. 
 
 Mr. Oak, 840n; commentary Alberoni, a, of a work on 'India' of Kṣirasvānin on, 840n, 850n; 
 
@@ -1396,7 +1396,7 @@ human body ): vide under as Dhammapada and Sattani.
 
 nidis): are six, spoken of as pāta speak of the truly vir 
 
-lotuses (padma) viz. Adhira tous man as brāhmaṇa 1005. or Mūlādhāra, Svadhisthana, Bühler, a. of Indian Paleogra- Manipura, Apāhata, Visuddha, 
+lotuses (padma) viz. Adhira tous man as brāhmaṇa 1005. or Mūlādhāra, Svadhisthana, Būhler, a. of Indian Paleogra- Manipura, Apāhata, Visuddha, 
 
 phy, 701, 817n, 873, 900. 
 
@@ -4474,7 +4474,7 @@ king Mahendravikramararman 50; Sthālīpulākanyāya 13500,
 
 · manufactared images of gods nikam 1177, 1348. for sale 36. 
 
-Max-Müller, bis Jate ( hypotheti Magsalaparta 147, 743, 775 cal) for the Vedic period, 497, 
+Max-Mūller, bis Jate ( hypotheti Magsalaparta 147, 743, 775 cal) for the Vedic period, 497, 
 
 (dreacas ), 969a ( on Abhiras ). 513, 882 ; his date for Amara. Maxims (some Nyāyas ), gene kośa 840n; remarks against 
 

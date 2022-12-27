@@ -51,7 +51,7 @@ Tantravārtika of Kumārila (Anan.) Kāțhaka-gļhya with the commentaries of Ad
 
 and Brāhmanabala (ed. by Dr. Caland, 1925) Kātyāyana-srauta-sutra (ed. by A. Weber) Kausikasūtra (ed. by Prof. Bloomfield) Kausitaki-gļhya-sūtra (Benares Sanskrit series) or Madras University
 
-Sanskrit series Khădiragshyasūtra with the com. of Rudraskanda (Mysore Govt.
+Sanskrit series Khādiragshyasūtra with the com. of Rudraskanda (Mysore Govt.
 
 Oriental Library series) Mānavagrhyasūtra with the com. of Astāvakra (G. O. S.) Nirukta of Yāska, ed. by Roth: sometimes the edition of Prof. V. K.
 

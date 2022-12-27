@@ -899,7 +899,7 @@ no reliable evidence to hold that the remaining portion of the
 
 • Sāmba is earlier than 800 A. D. or even earlier than 950 A. D.. 
 
-The next Upapurāna is Viṣṇudharma dealt with by Prof. Hazra in Studios' VOL I. pp. 118–155. There is no printed edition. Prof. Hazra (p. 119) refers to six mss. but he has chiefly used only one ms. viz. Bengal Asiatic Society's ms. No. 1670. This Purāpa has 105 chapters and over 4000 verses. Prof. Hazra admits (p. 119 ) that it has very little of the principal charac teristios of a Purāṇa and deals exclusively with the religious rites and duties of Vaiṣṇavas. Alberuni names Vis udharma but the verses that he quotes therefrom are found in the Viṣpu dharmottara as Bühler pointed out long ago (I A. VOL. XIX. pp. 381-410 and vide table given by Prof. Hazrs on p. 208 comparing the two ). Prof. Hazra holds (p. 116 ) relying on two verses quot 
+The next Upapurāna is Viṣṇudharma dealt with by Prof. Hazra in Studios' VOL I. pp. 118–155. There is no printed edition. Prof. Hazra (p. 119) refers to six mss. but he has chiefly used only one ms. viz. Bengal Asiatic Society's ms. No. 1670. This Purāpa has 105 chapters and over 4000 verses. Prof. Hazra admits (p. 119 ) that it has very little of the principal charac teristios of a Purāṇa and deals exclusively with the religious rites and duties of Vaiṣṇavas. Alberuni names Vis udharma but the verses that he quotes therefrom are found in the Viṣpu dharmottara as Būhler pointed out long ago (I A. VOL. XIX. pp. 381-410 and vide table given by Prof. Hazrs on p. 208 comparing the two ). Prof. Hazra holds (p. 116 ) relying on two verses quot 
 
 8. D. 110 
 

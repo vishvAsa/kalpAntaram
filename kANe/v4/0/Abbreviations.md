@@ -129,7 +129,7 @@ ddhāra (ed. by me)
 
 Śr. K. K.=Sraddhakriyakaumudi Kauś or Kausika = Kausikasutra
 
-S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khădira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
+S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khādira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
 
 Tai. Br. = Taittiriya Brahmana Mārk.=Mārkandeyapurāna
 
@@ -143,7 +143,7 @@ brāhmana Nir Nirukta
 
 Tir. C. == Tirthacintamani Nirn. = Nirnayasagara Press ed. Tir. K. Tirthakalpataru Pān=Pāṇini's Astādhyāyi
 
-Tirthapr. or Tir. Pr. Tirtha Pār. gr=Pāraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayükha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
+Tirthapr. or Tir. Pr. Tirtha Pār. gr=Pāraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayūkha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
 
 scitta-prakasa
 

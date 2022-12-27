@@ -213,7 +213,7 @@ the whole extent of the earth. In Tai. S. III. 3. 8. 3-4 it is declared 384 Yama
 
 ona qaatioy 914 TāHETTATO a ria. #. III.3.8.3-4.
 
-385. 3790 fa-arxaT GUFE VÀ À FURG HEFI . X. 14. 10. 385a. # Fairuzpaia 127 Tütart fan avait. . XII.3.
+385. 3790 fa-arxaT GUFE VÀ À FURG HEFI . X. 14. 10. 385a. # Fairuzpaia 127 Tūtart fan avait. . XII.3.
 
 386. Vide an article in the Journal of the Benares Hindu University, vol, IV PP. 19-46 on Yama and the Pitrs' (where Vedic, Avestic and Norse evidence is led and a naturalistic explanation is given such as Yama being the light of dawn, pitrs as 'rays of light and saramā light of twilight'). Vide Dr. R. N. Dandekar in B. C. Law Presentation vol. I. pp. 194-209, where most of the theories of Western scholars about Yama are presented and examined. The naturalistic explanations have been in vogue from very ancient times, as the Kāțbaka Samhita VII.10 implies teafareta urafi T TT i araya तां यदपृच्छन् यमि कहि ते भ्रातामृतेत्यद्येत्येवाबवीत्।माय
 

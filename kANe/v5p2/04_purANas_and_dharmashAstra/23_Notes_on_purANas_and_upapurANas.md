@@ -327,7 +327,7 @@ gio
 
 History of Dharmaśāstra (Sec. IV, Ch. XXIII 
 
-1047 A.D. Bühler in I. A. vol. 19 at p. 407 holds that this Purāṇa as well as the next were canonical acc. to Alberuni's pandits. 
+1047 A.D. Būhler in I. A. vol. 19 at p. 407 holds that this Purāṇa as well as the next were canonical acc. to Alberuni's pandits. 
 
 Viṣṇudhar mottara (U. pub. by Venk. Press). It is a huge work and has been dealt with above (pp. 876-878). In spite of its huge size it is not quoted by the Kalpataru on vrata, tirtha, brahmacari, grhastha, rājadharma, mokṣa and other kāpdas. Aparārka quotes only 30 verses from it, of which 24 are on dāna: the Smrticandrika quotes about 30 in all and that Danasāgara quotes profusely from it on dana. It cannot be earlier than 600 A D., and cannot be placed later than the 10th century, though parts of it may be later additions. Chapters 52-65 of the first section are called ŚhaṅkaragItā. The Kālikā Purana expressly refers (in chap. 91. 70 and 92. 2) to the Viṣṇudharmottara as having been concerned with Rājaniti and Sadācāra. 
 

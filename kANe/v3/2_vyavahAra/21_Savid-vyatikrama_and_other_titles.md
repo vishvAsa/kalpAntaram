@@ -17,7 +17,7 @@ samaya ' 852 is employed in the sense of 'convention or accept od doctrine'. The
 
 852. WARTAG: TATUT GETTI 39. 4. 1. 1.1.2; 3o Furtage Vā quan: W T 4. H II. 4, 8. 13. 
 
-853. Fah: (FAT: H:?) FO R TUT TETTAES et parhaat Firqa 'पन्युपगमः । मेधा. on मनु 8. 219: समया; शपथाचारकालसिद्धान्तसंविदः । अमरकोश. Medh, on Madu VIII. 220 takes the word 'sangha' by itself and Bühler (S. B. E. vol. 25 p. 293) is misled (probably by some corrupt ms) into translatiog as belonging to a corporation inhabiting a village or a district'. \#11. says: ' qui WAHEEM aarna (9: FA:) vinigravant amount 
+853. Fah: (FAT: H:?) FO R TUT TETTAES et parhaat Firqa 'पन्युपगमः । मेधा. on मनु 8. 219: समया; शपथाचारकालसिद्धान्तसंविदः । अमरकोश. Medh, on Madu VIII. 220 takes the word 'sangha' by itself and Būhler (S. B. E. vol. 25 p. 293) is misled (probably by some corrupt ms) into translatiog as belonging to a corporation inhabiting a village or a district'. \#11. says: ' qui WAHEEM aarna (9: FA:) vinigravant amount 
 
 parantamant miferant met 1 front para a forent Featurat Falls 
 

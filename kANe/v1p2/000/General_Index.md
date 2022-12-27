@@ -757,7 +757,7 @@ follows Manu, p. 484; but differs
 
 invited to dinners in honour of 486–87; and Nārada, pp. 485–86; 
 
-gods, p. 219. order of topics of law jo, pp. 484- | Budha, dharmasūtra of, pp. 286-287. 85; age of, pp. 487–88; nothing Bühler, Dr., pp. 22, 33, 36, 47, 52, can be said about country of, p. 102, 103, 259, 306, 310, 311, 316, 489; quoted profusely by Mitākṣa- 317, 331-32, 335, 336, 337, 343, rā, pp. 489–90; first to distinguish 467, 475, 487, 576, 661, 742; between civil and criminal justice, 
+gods, p. 219. order of topics of law jo, pp. 484- | Budha, dharmasūtra of, pp. 286-287. 85; age of, pp. 487–88; nothing Būhler, Dr., pp. 22, 33, 36, 47, 52, can be said about country of, p. 102, 103, 259, 306, 310, 311, 316, 489; quoted profusely by Mitākṣa- 317, 331-32, 335, 336, 337, 343, rā, pp. 489–90; first to distinguish 467, 475, 487, 576, 661, 742; between civil and criminal justice, 
 
 criticized, pp. 12, 32, 35, 48, 53, P. 485. 
 
@@ -1327,7 +1327,7 @@ Gode, Dr. P. K., pp. 17, 380, 408, sūtras, p. 22; closely connected
 
 Lolla Lakṣmīdhara, pp. 876–77. p. 36; and probably by Asabāya, pp. 37, 548; commentary Mitāk. 
 
-Gonda, J., p. 82n. ṣarā on, by Haradatta, p. 742; Goldstücker, pp. 155., 422. contents of, pp. 30-31; language Gopācala (modern Gwalior), pp. 946, of, p. 31; literature known to, 949. pp. 32–33; many sūtras of, 
+Gonda, J., p. 82n. ṣarā on, by Haradatta, p. 742; Goldstūcker, pp. 155., 422. contents of, pp. 30-31; language Gopācala (modern Gwalior), pp. 946, of, p. 31; literature known to, 949. pp. 32–33; many sūtras of, 
 
 Gopāla, pp. 616-619, 621, 622, 761, correspond to those of Baudbā 
 
@@ -2251,7 +2251,7 @@ Matsyapurāna, pp. 4, 175, 409, 413,
 
 Maudgalya, named by Baudhāyana, 
 
-pp. 13, 45, 302. Maurya, pp. 189, 190, 194, 247. Max Müller, p. 422; holds Manusmști 
+pp. 13, 45, 302. Maurya, pp. 189, 190, 194, 247. Max Mūller, p. 422; holds Manusmști 
 
 a recast of ancient dharmasutra, 
 

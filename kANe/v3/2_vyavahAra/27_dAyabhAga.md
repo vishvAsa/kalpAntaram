@@ -1023,7 +1023,7 @@ W
 
 a t staat garrofrangurit ATATÜ get this tirgus: 1 t . II. 268. This text and the explanation are given also in the (folio 92 a) in the same words. 
 
-1142. Brott Fred HTHAIRÀS I Chmarat foarte for rent Anarcast format हरेदित्यादौ तत्रापि विधिदान विवक्षितम् । अईति भीरपहासो न दाय निरिग्रिया अदाया हिनियो मताः इति पौधायनवचनात् । निरिन्द्रियाः निःसया इति प्रकाशः । अदापा sam rodinu P. 67. The fufaa. (II. p 267) also relies on Tum मन The बी.ध.. after the verse पिता रक्षति ...नश्री स्वातनयमति has the sutra far m er for at pagtat: (II. 2. 53). In the . H. VI. 5. 8. 2 wa bave the words are nowa farthquarantera atera garr 11. Vide Bühler's note la S. B. E. vol. 14 p. 231 on the confusion about this text of Baud, \#. IX. 18 is 'Partneri pa start fiant: oa wbich war explains ' 
+1142. Brott Fred HTHAIRÀS I Chmarat foarte for rent Anarcast format हरेदित्यादौ तत्रापि विधिदान विवक्षितम् । अईति भीरपहासो न दाय निरिग्रिया अदाया हिनियो मताः इति पौधायनवचनात् । निरिन्द्रियाः निःसया इति प्रकाशः । अदापा sam rodinu P. 67. The fufaa. (II. p 267) also relies on Tum मन The बी.ध.. after the verse पिता रक्षति ...नश्री स्वातनयमति has the sutra far m er for at pagtat: (II. 2. 53). In the . H. VI. 5. 8. 2 wa bave the words are nowa farthquarantera atera garr 11. Vide Būhler's note la S. B. E. vol. 14 p. 231 on the confusion about this text of Baud, \#. IX. 18 is 'Partneri pa start fiant: oa wbich war explains ' 
 
 a ifa. 
 

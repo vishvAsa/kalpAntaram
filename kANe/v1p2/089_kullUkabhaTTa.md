@@ -57,7 +57,7 @@ I secured a transcript of the ms, of the Sraddhasāgara in the Calcutta Sanskrit
 
 The Sraddhasāgara is full of Purvamimāṁsā discussions. The author says that he wrote it and the other two works (Vivādasāgara and Asaucasāgara ) at the order of his father. He quotes profusely from the Mahabharata, the Mahāpurānas and Upapurāṇas and from the dharmasūtras and metrical smitis. He names the Kalpataru oftener than any other nibandhakāra. The other authors and works named are: Bhojadeva, Halāyudha (probably the author of Prakāśa on the Sraddhakalpasūtra of Katyāyana ), Jikana, Kamadhenu, Medhātithi, Saṅkhadhara. In one place we have a reference to Prabhakara and Kamalakara bhatta (on Kala and Kāma being devatās ) and in another place to Gauda-Maithila-Mayūk ha-bhattāḥ (which are probably marginal notes creeping into the ms. or refer to authors other than the well-known ones). He refers to the opinion of his own guru in opposition to that of the Kalpataru. 
 
-The date of Kullūka cannot be settled with certainty. Bühler held that he lived probably in the 15th century (S. B. E. vol. XXV. p. CXXXI ). Ghose (Hindu Law, 3rd edition p. XVI ) and M. M. Chakravarti (JASB 1915, p. 345 ) are of the same opinion. In 1. L. R. 48 Cal. 643 Sir Asutosh Mukerji places Kullūka in the 15th century (at p. 688 ). As Kullūka mentions Bhojadeva, 
+The date of Kullūka cannot be settled with certainty. Būhler held that he lived probably in the 15th century (S. B. E. vol. XXV. p. CXXXI ). Ghose (Hindu Law, 3rd edition p. XVI ) and M. M. Chakravarti (JASB 1915, p. 345 ) are of the same opinion. In 1. L. R. 48 Cal. 643 Sir Asutosh Mukerji places Kullūka in the 15th century (at p. 688 ). As Kullūka mentions Bhojadeva, 
 
 1132 
 

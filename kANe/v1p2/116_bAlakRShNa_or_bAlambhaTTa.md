@@ -7,7 +7,7 @@ title = "116 Bālakṛṣṇa or Bālambhaṭṭa"
 
 In the Balambhatti the author quotes by name a host of writers and works. As the Balambhatti is almost the latest work of Dharmaśāstra worth special mention in this work, no useful chronological purpose will be served by giving the names of all such writers and works. It may, however, be stated that he names the Nirnayasindhu, the Viramitrodaya, the Mayūkhas of Nilakantha, the Samskārakaustubha, Siddhesvarabhatta the nep hew of Nilakantha, Khandadeva the author of Bhāttadipikā on the Mimāṁsāsūtra, the Kayasthadharmapradipa of Gāgābhatta and the author's father's commentary thereon. 
 
-Of the Bālambbaṭṭi ascribed to Lakṣmidevī, West and Bühler say 'she generally advocates latitudinarian views and gives the widest interpretation possible to every term of Yājñavalkya. Her opinions are held in comparatively small esteem and are hardly ever brought forward by the śāstris, if unsupported by other authorities '.1509 For example, in the Bālambhatti the word 
+Of the Bālambbaṭṭi ascribed to Lakṣmidevī, West and Būhler say 'she generally advocates latitudinarian views and gives the widest interpretation possible to every term of Yājñavalkya. Her opinions are held in comparatively small esteem and are hardly ever brought forward by the śāstris, if unsupported by other authorities '.1509 For example, in the Bālambhatti the word 
 
 • bhrātaraḥ“, occurring in Yajñavalkya's verses laying down the order of succession to a man dying without male issue, is inter preted as including sisters and the author says that sisters succeed immediately after brothers. 510 This dictum of Balam 
 

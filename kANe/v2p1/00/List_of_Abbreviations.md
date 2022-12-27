@@ -33,7 +33,7 @@ Buddha's time (translated from German by
 
 Dr. Shishirkumara Maitra, 1920 ). Gaut. = Dharmasūtra of Gautama. Gf. R. = Gphastbaratnākara of Caṇdeśvara. G. 8. = Gupta saivat. H. A. S.L. = History of Ancient Sanskrit Literature by 
 
-Prof. Max Müller (1859). Hir. gf. = Hiranyakesi-gphya-sutra. I. A. = Indian Antiquary. I. H. Q. = Indian Historical Quarterly, I. L. R. = India Law Reports series. Ins. = Inscription or inscriptions. J. B. B. R. A, S, = Journal of the Bombay Branch of the 
+Prof. Max Mūller (1859). Hir. gf. = Hiranyakesi-gphya-sutra. I. A. = Indian Antiquary. I. H. Q. = Indian Historical Quarterly, I. L. R. = India Law Reports series. Ins. = Inscription or inscriptions. J. B. B. R. A, S, = Journal of the Bombay Branch of the 
 
 Royal Asiatic Society. J. B. O. R. S. = Journal of the Bihar and Orissa Research 
 
@@ -55,7 +55,7 @@ Opfer und Zauber'. Sam. K. = Samskara-kaustubha of Anantadeva. Sam. P. or Pr. = 
 
 = Samskāra-ratna-māla of Gopinātha. or S. R. M. J e bainskara-ratna-ma Sān. gr. = SanchyAyana-grhy8-8@tra. Sat. Br, = Śatapatha Brāhmaṇa. S, B. E. = Sacred Books of the East (ed. by Prof. 
 
-Max Müller ). Sch. C. 0. = Scheduled castes Order of 1936. Sm. C. = Smsti-candrikā. Sm, M. or Smr. M. = Smrtimuktāphala of Vaidyanātha. Śr. P. N. Srautapadārthanir vacana, 8. V. = Sāmaveda. Tai. Ār. = Taittirlya Aranyaka. Tai. Br. = Taittiriya Brāhmaṇa, Tai. S. or Saṁ. = Taittiriya Sambitā. Tr. = Translation or translated ( according to context). Up. =: Upaniṣad. Vaj. S. = Vājasaneya Samhita. Vaik, or Vaikhānasa = Vaikhānasa-smārta-sūtra. Vas, or Vas. Dh. 8. = Vasiṣtha-dharmasūtra. Viṣṇu. Dh. S. = Viṣṇu-dharma-sūtra. V.3. = Vedanta-sūtra. Yāj. = Yajñavalkyasmrti. Yati. Dh. S. or Yati-db. 
+Max Mūller ). Sch. C. 0. = Scheduled castes Order of 1936. Sm. C. = Smsti-candrikā. Sm, M. or Smr. M. = Smrtimuktāphala of Vaidyanātha. Śr. P. N. Srautapadārthanir vacana, 8. V. = Sāmaveda. Tai. Ār. = Taittirlya Aranyaka. Tai. Br. = Taittiriya Brāhmaṇa, Tai. S. or Saṁ. = Taittiriya Sambitā. Tr. = Translation or translated ( according to context). Up. =: Upaniṣad. Vaj. S. = Vājasaneya Samhita. Vaik, or Vaikhānasa = Vaikhānasa-smārta-sūtra. Vas, or Vas. Dh. 8. = Vasiṣtha-dharmasūtra. Viṣṇu. Dh. S. = Viṣṇu-dharma-sūtra. V.3. = Vedanta-sūtra. Yāj. = Yajñavalkyasmrti. Yati. Dh. S. or Yati-db. 
 
 * Yatidbarma-samgraba. 
 

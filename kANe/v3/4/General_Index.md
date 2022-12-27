@@ -649,7 +649,7 @@ Carvaka 871. 163a, 184, 2030, 215, 4000.
 
 Caste Disabilities Removal Act 547n, 
 
-667; abrogates the rule of ancient Bühler, Dr, 1950, 307, 486n, 6050, 
+667; abrogates the rule of ancient Būhler, Dr, 1950, 307, 486n, 6050, 
 
 Hindu law about patita 616. 
 
@@ -1439,7 +1439,7 @@ of 472. Gobhila, sorti of 870.953, 956, Gobhilagrhyasūtra, 940; specially studi
 
 ed by Sāmavedins 853. Gocarma, a certain extent of land 432. Gode, Mr. P. K, 849. Golaka, a kind of illegitimate son 646n. Gold, superintendent of 144-145: 
 
-value of, in relation to silver 121n. Goldstückor, on 'Panini'306. Gopa, an officer who looked after five 
+value of, in relation to silver 121n. Goldstūckor, on 'Panini'306. Gopa, an officer who looked after five 
 
 or ten villages and kept a register of the number of cultivators, traders, 
 
@@ -2393,7 +2393,7 @@ dvayoḥ pranayanti' 704-705 ; of gobalivarda 1470, 355, 526, 732; of mātsyasy�
 
 (Vol. 
 
-MaxMüller 16, 306, 933n. 
+MaxMūller 16, 306, 933n. 
 
 which m. should be consulted 110 ; Maya, on the constituents of Mandala necessity of 104 ; number of, varied 
 

@@ -103,7 +103,7 @@ exoopt half verse :), frig. (For HA P. 130), geri IV, 5. 48-52, * *17. Typ: 7 (e
 
 14. 7. p. 22. wste represents the Khakba tribe in the Vitastā valley' z 
 
-हस्पतिमा । अभर्तृकाधाgभार्यानणे चांतिदूषितम् । कुले कम्योगदान देशेवग्येषु O n e on *79. u. U. 10. 27. 3 (Bühlet's ed.). ..86% 
+हस्पतिमा । अभर्तृकाधाgभार्यानणे चांतिदूषितम् । कुले कम्योगदान देशेवग्येषु O n e on *79. u. U. 10. 27. 3 (Būhlet's ed.). ..86% 
 
 
 

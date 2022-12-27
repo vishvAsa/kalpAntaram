@@ -55,7 +55,7 @@ kaustubha) Rajadharma-K. = Rājadharmakaustubha of Anantadeva Rāja N. P., Rāja
 
 of Mitramiśra ) Śān. Gr. = śānkhāyana-gļhya-sūtra Sat. Br. = Satapatha-brāhmaṇa S. B, E. = Sacred Books of the East (series edited by Max 
 
-Müller ) 8. 1. 1. = South Indian Inscriptions Sm. C. = Smsticandrika Sm. Kau. Smrti-kaustubha Sm. M. == Smftimuktāphala Śr. - Srautasūtra S. V. = Sarasvativilāsa 
+Mūller ) 8. 1. 1. = South Indian Inscriptions Sm. C. = Smsticandrika Sm. Kau. Smrti-kaustubha Sm. M. == Smftimuktāphala Śr. - Srautasūtra S. V. = Sarasvativilāsa 
 
 
 

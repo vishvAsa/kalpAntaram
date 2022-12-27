@@ -41,7 +41,7 @@ Dr. Barua on Gayāmāhātmya
 
 645
 
-Brahmayüpa, Sivalinga and Vrsabha there is no refe rence to any structural erection nor any iconic suggestion'. In order to show how this conclusion is not at all justified the references to Gayā in the Epic and other Sanskrit works will have to be set out and compared with each other and with the Gayāmāhātmya. The second reason that vitiates Dr. Barua's conclusion is the wrong interpretation that he puts on verse 12 of the Inscription edited by Kielhorn in I. A. vol. 16.
+Brahmayūpa, Sivalinga and Vrsabha there is no refe rence to any structural erection nor any iconic suggestion'. In order to show how this conclusion is not at all justified the references to Gayā in the Epic and other Sanskrit works will have to be set out and compared with each other and with the Gayāmāhātmya. The second reason that vitiates Dr. Barua's conclusion is the wrong interpretation that he puts on verse 12 of the Inscription edited by Kielhorn in I. A. vol. 16.
 
 I shall now turn to the name Gayā and references to it or similar names from the Rgveda downwards. A Gaya, son of Plati, is the reputed author of two hymns of the Rgveda (X. 63 and X. 64). In Rg. X. 63. 17 and X. 64. 17 we have the words 'astāvi jano divyo Gayena' (the divine host was praised by Gaya). So Gaya was a proper name applied to a composer of Rgvedic hymns. In the Rg. the word Gaya has several other senses, which are not material here. In the Atharvaveda (I. 14.4) Gaya appears to be a wond
 
@@ -237,7 +237,7 @@ one (of whom ) goes to Gayā, or performs the Aśvamedha sacri fice or lets loos
 
 T ort you at TASTATAI ATI TUTTTT TET GOTT AETENI... ऋषियज्ञेन महता यत्राक्षयवटो महान् । अक्षये देवयजने अक्षयं यत्र वै फलम् ॥ वनपर्व 95. 9-14. The verse एटच्या० occurs in numerous works such as the विष्णुधर्मसूत्र 85 (last verse), the *. 22. 6, art. 105. 10, #. II. 35. 12, a. I. 38. 17 and V. 11. 68, Arør ( 37 44. 5-6).
 
-1477 a. It is to be noted that the Rāmāyana 1. 32.7 states that Dharmāranya was founded by A sürtarayas (probably a variant of Amūrtarayas), a son of Kusa, son of Brahma. 21478. कुलेऽस्माकं स जन्तुः स्याद् यो न दद्याजलाअलीन् । नदीषु बहुतीयासु शीतलास विशेषतः॥ अपि जायेत सोऽस्माकं कुले कश्चिनरोत्तमः । गयाशी वटेश्राद्धं यो नः
+1477 a. It is to be noted that the Rāmāyana 1. 32.7 states that Dharmāranya was founded by A sūrtarayas (probably a variant of Amūrtarayas), a son of Kusa, son of Brahma. 21478. कुलेऽस्माकं स जन्तुः स्याद् यो न दद्याजलाअलीन् । नदीषु बहुतीयासु शीतलास विशेषतः॥ अपि जायेत सोऽस्माकं कुले कश्चिनरोत्तमः । गयाशी वटेश्राद्धं यो नः
 
 a atea: Il yet... fauuhaw 85.65-67. The verse ar an is quoted in कल्पतरु on तीर्थ p. 173.
 
@@ -265,7 +265,7 @@ In the Gayāmāhātmya (Vāyupurāna, chapters 105-112) there are about 560 vers
 
 Etrag i forcatura verses 12-13; compare 3119 115. 46-47 - प्रमाणेन पिण्डं दत्वा गयाशिरे । नरकस्थाः ...माप्नुयु :..
 
-1481. arg. 105.7-8. S. 114, 41 Türe a re 7 ETUI गयापुरी तेन नाम्ना'. Both are quoted by त्रिस्थली pp. 340-341.
+1481. arg. 105.7-8. S. 114, 41 Tūre a re 7 ETUI गयापुरी तेन नाम्ना'. Both are quoted by त्रिस्थली pp. 340-341.
 
 1482. Here occurs the well-known verse yua uga: yat: (arg. 105.10) q. in n. 1477. A verse is quoted by the faufto p. 319 which defines what makes a son worthy of being so called : saat
 
@@ -453,7 +453,7 @@ History of Dharmaśāstra'
 
 [Vol.
 
-(on the south). At each of these three there is a sraddha. Then the pilgrim goes to the Phalgutirtha, which is the best of all (Gayā) tirthas. The pilgrim performs tarpana and śrāddha with pindas on Phalgu. This śrāddha at Phalgu results in mukti for the performer and also for those for whose benefit it is performed (muktir-bhavati kartēnām pitrnām śrāddhataḥ sadā, Vāyu 110.13). It is stated that Phalgu is Ādi-Gadādhara himself in a fluid form.1500 By bath in Phalgu and seeing Gadādhara a man saves himself, ten ancestors and ten descend ants. Then he worships Gadādhara by a bath with pañcāmrla after bowing 1500a to Vasudeva, Sankarsana, Pradyumna, Aniruddha, Visṇu, Sridhara. On the 2nd day of the Pañca tīrthi rites (i. e. 4th day from entering Gayā) the pilgrim should repair to Dharmāranya which is so-called because Dharma per formed a sacrifice there. Then the pilgrim should bathe in the Matangavāpi (which is situated in Dharmāranya), then he should perform tarpana, śrāddha and pindadāna at the well called Brahmatirtha and also in the space between Brahma tirtha and Brahmayūpa; then bow to Brahmā and Dharm eśvara. 1501 He should bow to the Mahābodhi tree (i. e. the sacred pippala) and perform srāddha also underneath it. Agni 115. 34-37 and Nāradīya (uttara) 45. 104 refer to these tirthas. On the third day of the Pañcatirthi rites (i. e. on 5th day from entering Gayā) the pilgrim should bathe in Brahmasaras and perform śrāddha with pindas between the Brahmaküpa and the Yüpa (sacrificial post ) raised by Brahmā when he performed a sacrifice. By this śrāddha the pilgrim saves his pitrs.1502 He should go round the Brahma-yüpa and bow
+(on the south). At each of these three there is a sraddha. Then the pilgrim goes to the Phalgutirtha, which is the best of all (Gayā) tirthas. The pilgrim performs tarpana and śrāddha with pindas on Phalgu. This śrāddha at Phalgu results in mukti for the performer and also for those for whose benefit it is performed (muktir-bhavati kartēnām pitrnām śrāddhataḥ sadā, Vāyu 110.13). It is stated that Phalgu is Ādi-Gadādhara himself in a fluid form.1500 By bath in Phalgu and seeing Gadādhara a man saves himself, ten ancestors and ten descend ants. Then he worships Gadādhara by a bath with pañcāmrla after bowing 1500a to Vasudeva, Sankarsana, Pradyumna, Aniruddha, Visṇu, Sridhara. On the 2nd day of the Pañca tīrthi rites (i. e. 4th day from entering Gayā) the pilgrim should repair to Dharmāranya which is so-called because Dharma per formed a sacrifice there. Then the pilgrim should bathe in the Matangavāpi (which is situated in Dharmāranya), then he should perform tarpana, śrāddha and pindadāna at the well called Brahmatirtha and also in the space between Brahma tirtha and Brahmayūpa; then bow to Brahmā and Dharm eśvara. 1501 He should bow to the Mahābodhi tree (i. e. the sacred pippala) and perform srāddha also underneath it. Agni 115. 34-37 and Nāradīya (uttara) 45. 104 refer to these tirthas. On the third day of the Pañcatirthi rites (i. e. on 5th day from entering Gayā) the pilgrim should bathe in Brahmasaras and perform śrāddha with pindas between the Brahmakūpa and the Yūpa (sacrificial post ) raised by Brahmā when he performed a sacrifice. By this śrāddha the pilgrim saves his pitrs.1502 He should go round the Brahma-yūpa and bow
 
 1500. गङ्गापादोदकं विष्णोः फल्गादिगदाधरः। स्वयं हि द्रवरूपेण तस्माद्गङ्गाधिकं ras: Il art. 111. 16.
 
@@ -481,7 +481,7 @@ On the 5th day of the Pañcatirthi rites (i. e. the 7th day from entering Gayā)
 
 1504. The arter to p. 366 remarks that there is no separate sraddha on Gayāśiras apart from the sraddhas on Viṣnupada and the other padas. गयाशिरसि यः पिण्डान्येषां नाम्ना तु निर्वपेत्। नरकस्था दिवं यान्ति स्वर्गस्था मोक्षमामयुः ॥ aty. 111.73. Agni. 115.47 has the latter half. Gayāśiras is the centre of Gayā and the most holy spot in it.
 
-1505. This tirtha was so called because Adi-Gadadhara washed his mace in the water there after smashing the head of demon Heti wish it. हत्यसुरस्य यच्छीष गदया तद् द्विधा कृतम्। ततः प्रक्षालिता यस्मासाथ तच्च fagmit Tioara cura ETTāTATI arg 111, 75. Tetor is üthe stream of the river Phaigu,
+1505. This tirtha was so called because Adi-Gadadhara washed his mace in the water there after smashing the head of demon Heti wish it. हत्यसुरस्य यच्छीष गदया तद् द्विधा कृतम्। ततः प्रक्षालिता यस्मासाथ तच्च fagmit Tioara cura ETTāTATI arg 111, 75. Tetor is ūthe stream of the river Phaigu,
 
 wala atacak
 
@@ -541,7 +541,7 @@ History of Dharmaśāstrà
 
 [Vol.
 
-and at Kandy in Ceylon a pippala tree is even now shown as that transplanted tree or the successor of that branch. The Gayāśīrsa 1510 is a set of rocky hills such as Gayāśīrsa, Munda prstha, Prabhāsa, Grdhrakūta, Nāgaküța, ranging over one krośa (about two miles).
+and at Kandy in Ceylon a pippala tree is even now shown as that transplanted tree or the successor of that branch. The Gayāśīrsa 1510 is a set of rocky hills such as Gayāśīrsa, Munda prstha, Prabhāsa, Grdhrakūta, Nāgakūța, ranging over one krośa (about two miles).
 
 It has been already stated above (p. 666) that the rites at the Akṣayavata are the last in the pilgrimage to Gayā. The Gayā wal priest binds the thumbs or hands of the pilgrim with a garland of flowers and receives his fees. He gives sweetmeats to the pilgrim as prasāda, applies tilaka to the pilgrim's forehead, . touches the pilgrim on his back, pronounces the word 'suphala' (the pilgrimage has been fruitful or successful), declares that the pilgrim's ancestors have gone to heaven and blesses the pilgrim. It must be noted that there is a special class of priests called Dhāmin, who alone (and not the ordinary Gayāwals) have the right of officiating at five vedis viz. at Pretasila, Rāmaśilā, Rāmakunda, Brahmakunda and Kākabali, that are situated on or about the two hills Rāmaśila and Pretaśilā (vide Bengal District Gazetteers, vol. 12 for Gayā p. 66). They are regarded as inferior in status to the regular Gayāwals.
 
@@ -765,7 +765,7 @@ Vi]
 
 6919
 
-112.30) and a bath, tarpaṇa and śrāddha thereon yield immense results. Then are mentioned several other tirthas such as Daśāśvamedha, Matangapada, Makha-kunda (near Udyanta parvata), Gayāküta. Raghunandana winds up by providing that on Bhasmakuta the pilgrim should place with his right hand in the hand of Janārdana a pinda mixed with curds (but without sesame ) and on doing so recite five verses (Vāyu 108. 86--90. 1532 'esa pindo maya' &c.). Then Raghunandana qu sixteen verses about Mātrsodasi (which do not occur in Vayu purāna and are passed over here).
+112.30) and a bath, tarpaṇa and śrāddha thereon yield immense results. Then are mentioned several other tirthas such as Daśāśvamedha, Matangapada, Makha-kunda (near Udyanta parvata), Gayākūta. Raghunandana winds up by providing that on Bhasmakuta the pilgrim should place with his right hand in the hand of Janārdana a pinda mixed with curds (but without sesame ) and on doing so recite five verses (Vāyu 108. 86--90. 1532 'esa pindo maya' &c.). Then Raghunandana qu sixteen verses about Mātrsodasi (which do not occur in Vayu purāna and are passed over here).
 
 We have to distinguish between Gayākgetra, Gaya and Gayāśiras or Gayāśirsa. The Vāyu, Agni and Nāradiya all assert that Gayāksetra is five krośas 1533 (in extent) and Gaya śiras is one krośa. It had become the fashion to speak of famous tirthas like Kāśi and Prayāga as pañcakrosa. But so far as the Vāyupurāna is concerned the Gayāksetra is about 13 miles in length from Pretaśila to Mahābodhi tree as shown above. Gayā is said to be two krosas and a half in extent in all directions from Mund aprstha 1534, Gayasiras is sinaller than Gayā and is identified with Phalgutirtha (vide note 1499 ). Gaya and Gayasīsa (Pāli for Gayāśirsa) are well known to ancient Buddhist texts (Mahāvagga I. 21.1 in S. B. E. XIII p. 136, Anguttaranikāya, text vol. IV. p. 302). Vide n. 1510.
 

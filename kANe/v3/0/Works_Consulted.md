@@ -17,7 +17,7 @@ Vedic
 
 Aitareya Araṇyaka (ed. by Prof. Keith in Anecdota Oxoniensia) Aitareya Brāhmaṇa with Sāyaṇa's commentary ( Anan.). Atharvaveda Samhitam-ed by S. P. Pandit. Bșhadāraṇyakopan iṣad. Chandogyopaniṣad. Gopatha-brahmana ( in the B. I. series ; but in one or two places 
 
-Dr. Gastra's edition has been relied upon). Kathaka Samhita-ed. by L. von Schroeder (1900 ). Kauṣitaki Aranyaka. Kausitaki-brālimanopaniṣad. Maitrāyana Samhitā-med. by Dr. Schroeder. Rgveda Samhita (Max Müller's edition in 4 volumes has gene 
+Dr. Gastra's edition has been relied upon). Kathaka Samhita-ed. by L. von Schroeder (1900 ). Kauṣitaki Aranyaka. Kausitaki-brālimanopaniṣad. Maitrāyana Samhitā-med. by Dr. Schroeder. Rgveda Samhita (Max Mūller's edition in 4 volumes has gene 
 
 rally been used. Sometimes the edition of the Poona 
 
@@ -327,7 +327,7 @@ and 'Invasion of India by Alexander'. Sir Henry Maine's 'Ancient Law' (1866, 3rd
 
 History Institutions' (1875). Dr. R. C. Majmudar's 'Champa'; 'Suvarṇadvipa'; 'Corporate 
 
-Life in Ancient India', Rao Saheb V. N. Mandlik's Hindu Law. Sir John Marshall's three volumes on 'Mohenjo-daro'. Max Müller's History of Ancient Sanskrit Literature, J. D. Mayne's Hindu Law ( 10th ed.). Dr. R. N. Mehta's 'Pre-Buddhist India' (1939). Dr. C. Minakshi's ' Administration and Social life under the 
+Life in Ancient India', Rao Saheb V. N. Mandlik's Hindu Law. Sir John Marshall's three volumes on 'Mohenjo-daro'. Max Mūller's History of Ancient Sanskrit Literature, J. D. Mayne's Hindu Law ( 10th ed.). Dr. R. N. Mehta's 'Pre-Buddhist India' (1939). Dr. C. Minakshi's ' Administration and Social life under the 
 
 Pallayas : Prof. Nilkanta Sastri, author of 'Pandyan Kingdom' and 
 
@@ -337,7 +337,7 @@ and Nagmith, (1871 ). Pannalal's Kumaun Local custonis. Plato's Republic' (Jowet
 
 (Random Houge edition ). Prabandhacintamani, translated by Tawney. Dr. Pran Nath's 'Study of the economic condition of Ancient 
 
-India'. Justice M. G. Ranade's 'Rise of the Maratha Power'. Rapson's 'Indian Coins'. Sacred Books of the East, edited by Max Müller. Salmond, author of 'Jurisprudence'. 
+India'. Justice M. G. Ranade's 'Rise of the Maratha Power'. Rapson's 'Indian Coins'. Sacred Books of the East, edited by Max Mūller. Salmond, author of 'Jurisprudence'. 
 
 VAS, 
 

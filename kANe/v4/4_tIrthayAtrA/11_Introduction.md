@@ -221,7 +221,7 @@ Effect of holy places on the mind
 
 Being is partially revealed in such surroundings. In Protestant Europe and the U, S. A. hardly anyone performs a pilgrimage to a holy place in these days. Instead, they tour different countries for rest, health and in search of natural beauty and a respite from humdrum existence. But pilgrimage to a place supposed to be holy for the curing of disease is not rare even now. When one reads a work like that of Louis Carell, a great surgeon and a winner of the Nobel prize, on the miracles worked at Lourdes in France (in 'a Journey to Lourdes') one sees that pilgrimage has taken on a new motive in the West. Similarly, pilgrimage to the tombs of unknown warriors has become common owing to the two world wars.
 
-In Rg. X. 146 a large forest 1261 (Aranyāni) is invoked as a deity. The Vāmanapurāna mentions 1252 seven forests in Kuruksetra as holy and as removers of sin, viz. Kāmyaka, Aditivana, Vyāsavana, Phalakivana, Süryavana, Madhuvana and Punyasitavana...
+In Rg. X. 146 a large forest 1261 (Aranyāni) is invoked as a deity. The Vāmanapurāna mentions 1252 seven forests in Kuruksetra as holy and as removers of sin, viz. Kāmyaka, Aditivana, Vyāsavana, Phalakivana, Sūryavana, Madhuvana and Punyasitavana...
 
 In the Sūtras and ancient smrtis like those of Manu and Yājñavalkya tirthas do not occupy a very prominent positions But in the Mahābhārata and the Puranas they are highly lauded and placed even above sacrifices. In the Vanaparva 1263 a com parison is made between sacrifices to gods and pilgrimages, Sacrifices require numerous implements, collection of materials, the co-operation of priests and the presence of a wife and so
 
@@ -277,7 +277,7 @@ words (108.9). 1261a The Vāyupurāṇa states 1265 "A steadfast (or wise ) man 
 
 1265. तीर्थान्यनुसरन् धीरः श्रधानो जितेन्द्रियः । कृतपापो विशुध्येत किं पुनः शुभकर्मकृत्॥ अश्रद्दधानाः पाप्मानो नास्तिकाः स्थितसंशयाः। हेतुद्रष्टा च पञ्चैते न तीर्थफल
 
-pa: ary 77. 125 and 127 q. by afetao pp. 5-6, a.fer. p. 4 (which explains CTTAT TETTUFETET TITAaffü ara a TÚTh45 ) These verses occur also in , itt az 56, 52-53.
+pa: ary 77. 125 and 127 q. by afetao pp. 5-6, a.fer. p. 4 (which explains CTTAT TETTUFETET TITAaffū ara a TÚTh45 ) These verses occur also in , itt az 56, 52-53.
 
 1266. पापानां पापशमनं धर्मवृद्धिस्तथा सताम् । विज्ञेयं सेवितं तीर्थ तस्मात्तीर्थपरी भवेत्॥ सर्वेषामेव वर्णानां सर्वाश्रमनिवासिनाम्। तीर्थ फलप्रद ज्ञेयं नात्र कार्या विचारणा facuya III. 273, 7 and 9.
 
@@ -489,7 +489,7 @@ se
 
 D
 
-ü n at CETAHE: : VITETEYTT972:11 gr rent v Parafarmah Tiaa: ra. VI. 254-55. The valiant एरमन्तक of परिहासपुर who had relieved Kashmir residents from the tax at Gaya was drowned in Vitastā (by queen Didda) with a big stone tied round his neck.
+ū n at CETAHE: : VITETEYTT972:11 gr rent v Parafarmah Tiaa: ra. VI. 254-55. The valiant एरमन्तक of परिहासपुर who had relieved Kashmir residents from the tax at Gaya was drowned in Vitastā (by queen Didda) with a big stone tied round his neck.
 
 DE 1290 a. Vide Bom. G. vol. 1. part 1 p. 172 and Prabandha-cintamani (tr, by Tawney p. 84).
 
