@@ -125,7 +125,7 @@ bhārata and purānas; Tristhali i. e. Prayāga, Kasi and Gayā; eulogy of Praya
 
 Chapter XIII Kasi; ancient history and eulogy of
 
-Kası; Banaras known under five different names; derivation of the words Kasi and Vārānasi ; Visvešvara and Manikarnikā; five essential tirthas at Banaras ; Pañcakrosi pilgrimage; sub-tīrthas, such as Jñanavāpi : numerous lingas at Banaras ... 618-642
+Kası; Banaras known under five different names; derivation of the words Kasi and Vārānasi ; Visveśvara and Manikarnikā; five essential tirthas at Banaras ; Pañcakrosi pilgrimage; sub-tīrthas, such as Jñanavāpi : numerous lingas at Banaras ... 618-642
 
 Chapter XIV Gayā; Gayāmāhātmya in Vāyupurāna
 

@@ -49,7 +49,7 @@ ed. = edited Apastamba-srauta-sutra A. S. R. = Archaeological Survey
 
 E.I.=Epigraphia Indica Reports
 
-Gaut. or Gaut. Dh. S. =Gautama. Ašv.gļ.or Aśv.gr. S.= Āśvalāyana
+Gaut. or Gaut. Dh. S. =Gautama. Aśv.gļ.or Aśv.gr. S.= Āśvalāyana
 
 dharma-sutra gļhyasutra
 
@@ -109,11 +109,11 @@ mana JBBRAS= Journal of the Bombay San. Br. Sankbāvana Brāhmana
 
 Branch of the Royal Asiatic San. gr=Sankhāyana-grbya-sutra Society
 
-San.Śr. or Šān. Śr. S. = Sānkbāyana Jiv. = Jivananda Vidyasagara's
+San.Śr. or Śān. Śr. S. = Sānkbāyana Jiv. = Jivananda Vidyasagara's
 
 srauta-sútra edition J. O. R. = Journal of Oriental Re.
 
-Šat. Br. = Satapatha Brāhmana search (Madras)
+Śat. Br. = Satapatha Brāhmana search (Madras)
 
 Sat. Sr. = Satyāsādhasrauta-sūtra J. R. A. S. Journal of the Royal S. B. E. = Sacred Books of the
 

@@ -388,7 +388,7 @@ History of Dharmaśāstra
 
 [Vol.
 
-out and hollowed. Some passages from Baud, who is probably the oldest of the three authors may be set out here. 331 "Now if a man feels his conscience heavy with bad actions committed by himself, let him boil for himself, when the stars have risen, a handful of barley and prepare gruel with that. Let him not perform (the Vaišvadeva) offering with (a part of) that nor a
+out and hollowed. Some passages from Baud, who is probably the oldest of the three authors may be set out here. 331 "Now if a man feels his conscience heavy with bad actions committed by himself, let him boil for himself, when the stars have risen, a handful of barley and prepare gruel with that. Let him not perform (the Vaiśvadeva) offering with (a part of) that nor a
 
 Bali. 332 offering. Let him consecrate the barley before it has been placed on fire, when it is being boiled and after it has been boiled with the following mantras thou art barley, the king of grains, thou art sacred to Varuna and mixed with honey, the sages have declared thee to be an expeller of all sins and a means of purification. Then there are five verses more invoking the barley grains to purify the performer from all sins whether due to deeds, words, or thoughts, to destroy distress and evil fortune, to free him from the food of ganas (guilds or multitudes of men), harlots, Sudras, or food offered at sraddhas by persons in impurity due to birth or death, food of a thief, food at navasrāddha (i. e. on 1st, 3rd, 5th, 7th, 9th, 11th days after death) or from dreadful mortal sins or from guilt against children and guilt due to serving in a royal court, from sin of stealing gold, sin of the violation of a vrata or sacrificing for an unworthy person and sin of speaking ill of brāhmaṇas. Then Baud. proceeds “while the barley is being boiled he should guard it and recite Adoration to Rudra, lord of created beings; pacified
 
@@ -560,7 +560,7 @@ VYASAKROCHRA-This is the same as Maitra krochra, 350 for which see above p. 148.
 
 SISUK RCC HRA-also called Bālakrochra by Sankha Likhita and Pādakrochra by Devala and Prāyascittamuktavali (folio 10 a) and is the same as Laghu-krcchra,351 It lasts for four days, eating once only in the day, eating once only by night, eating food got without asking for it only once on one day and fast on one day. Vide Vas. 23,43 (q. by Haradatta on Gaut. 26.5), Baud. Dh, S. II. 1. 92. Yāj. III. 318.
 
-ŠIŚU-CĀNDRĀYAN A-Manu XI, 219, Baud. Dh. S. IV. 5.19, Agnipurāna 171.5 state that when a brāhmana eats (for a month) four mouthfuls in the morning and four after sun-set, that is Sisu-cāndrāyana (cāndrāyaṇa for boys, old men &c.).
+ŚIŚU-CĀNDRĀYAN A-Manu XI, 219, Baud. Dh. S. IV. 5.19, Agnipurāna 171.5 state that when a brāhmana eats (for a month) four mouthfuls in the morning and four after sun-set, that is Sisu-cāndrāyana (cāndrāyaṇa for boys, old men &c.).
 
 STTAKROCHRA-This is the reverse of Taptakrochra, as here all the articles are to be taken when they are cold 351a and not hot (as in Tapta-krcchra ). Vide Visnu Dh, S. 46.12, Agni purāna 171. 7 and Mit. on Yāj. III. 317. According to Visnu quoted by Pr. Sāra (p. 185) and Madana-pārijāta (p. 736) this is a penance for 10 days (and not for twelve days as the Mit. states), viz. cold water, cold milk and cold ghee are drunk three days each and there is a total fast for one day.
 

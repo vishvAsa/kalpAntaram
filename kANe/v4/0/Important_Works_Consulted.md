@@ -41,7 +41,7 @@ History of Dharmaśāstra
 
 Āpastamba-gļhya-sūtra with the com. of Sudarsanācārya ( Mysore
 
-Govt. Oriental Library series ) Āpastamba-mantra-pātha ( ed. by Dr. Winternitz, 1897). Asvalāyana-grhya-sūtra with Nārāyana's commentary ( Nirn. ) Ašvalāyanaśrautasūtra with the com. of Nārāyana (B. I. series). Baudhāyana-dharmasūtra (Anan.) Baudbāyana-gļhyasutra with gặhya-sesa-sútra, gļhyaparibhāsā and
+Govt. Oriental Library series ) Āpastamba-mantra-pātha ( ed. by Dr. Winternitz, 1897). Asvalāyana-grhya-sūtra with Nārāyana's commentary ( Nirn. ) Aśvalāyanaśrautasūtra with the com. of Nārāyana (B. I. series). Baudhāyana-dharmasūtra (Anan.) Baudbāyana-gļhyasutra with gặhya-sesa-sútra, gļhyaparibhāsā and
 
 Baudhāyana-pitrmedhasutra (ed. by Dr. Sham Sastri in Mysore
 
@@ -87,7 +87,7 @@ Vaikhānasa-smārta-sūtra (edited with English translation by Dr.
 
 Caland) Vaikbānasa-srauta-sutra ed. by Dr. Caland (B. I. series, 1941) Vārāhagặhyasūtra (G. O. S.) Vasistha dharmasutra (Bombay S. series) Vedāntasutra with the bhāsya of Sankara (Nirn.) Visnudharmasutra (ed. by Dr. Jolly)
 
-Smrtis Āpastambasmặti in verse (Anan.) Atri-smrti (Anan.) Aušanasa-smrti (Jiv.) Bhagavad-gitā Bịhat-Parāsara-smrti (Jiv.) Caturvimsati-mata-sangraha (Benares Sanskrit Series) Daksasmrti (Anan.) Devalasmrti (Anan.) Harivamsa (Chitrašala Press ed. Poona) Katyāyanasmrti on Vyavahāra (reconstructed by P. V. Kane under
+Smrtis Āpastambasmặti in verse (Anan.) Atri-smrti (Anan.) Auśanasa-smrti (Jiv.) Bhagavad-gitā Bịhat-Parāsara-smrti (Jiv.) Caturvimsati-mata-sangraha (Benares Sanskrit Series) Daksasmrti (Anan.) Devalasmrti (Anan.) Harivamsa (Chitraśala Press ed. Poona) Katyāyanasmrti on Vyavahāra (reconstructed by P. V. Kane under
 
 the title 'Kātyāyanasmộtisāroddhāra' with English Translation
 

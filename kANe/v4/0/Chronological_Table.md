@@ -59,7 +59,7 @@ Visnu, Mārkandeya, Matsya, Kūrma 500 A. D.-550 A. D.-Varāhamihira, author of 
 
 Brhatsamhitā, Brhat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
 
-carita 650-665 A. D.--Kašikā, commentary by Vamana and Jayāditya on
+carita 650-665 A. D.--Kaśikā, commentary by Vamana and Jayāditya on
 
 Panini's Astādhyāyi 650-700 A.D.-Kumārilabhatta, author of Tantravārtika and other
 
@@ -163,7 +163,7 @@ Vaijayanti (com. on Visnudharmasutra), Sraddha-kalpalatā,
 
 Suddhicandrika, Dattakamimāmsā 1610-1640--Kamalakarabhatta, author of Nirnayasindhu and over
 
-20 works besides 1610-1640--Viramitrodaya of Mitramiśra, of which Tirthaprakāša,
+20 works besides 1610-1640--Viramitrodaya of Mitramiśra, of which Tirthaprakāśa,
 
 Prāyascittaprakāśa, Srāddhaprakāśa are parts 1610-1645-Nīlakantha, author of Bhagavantabhāskara in 12 Mayü
 

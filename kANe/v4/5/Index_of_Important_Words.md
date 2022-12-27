@@ -6,7 +6,7 @@ title = "Index of Important Words"
 INDEX OF DIPORTANT WORDS
 ora 2 Bhandarkar Oriental Research InstituteINDEX OF IMPORTANT WORDS
 
-Abhicāra 35 Abhidroha 5 Abhišasta 13 Abhivanya 426 Abhyudayikasrāddha 359n Ācārya, 2810 Adhāna 574n Adya ( sraddha) 518n Agas 5-6 Agha (sin) 6 Agha (āśauca) 267-268 Agnisvātta 195n, 343 Agradidbiṣu 11 Agredidhisu 11n, 394n. Agrahāyani 354 Ahāva 503n Akalkaka 5621 Akrtidabana 225 Akṣayyodaka 508n Āmantrana 408 Amatya 199n Ambas 6 Amhati 7 Anadya 4020 Anasaka 42 Anavasthā 61n Ansta 5, 7 Anugrābaka 17 Anukalpa 387, 513 Anupataka 15 Anustarani 206 Apankteya 391 Aparāhna 376 Aposana 496 Aprita 315n Aratni 470n Arghya 419, 435n Aranyāni 5610 Arudhapatita 114 Asaucasampata or asauca-san nipata 292 Asmā 238 Astakā 3540 Asucikara 12, 14 Asutặpa 1939
+Abhicāra 35 Abhidroha 5 Abhiśasta 13 Abhivanya 426 Abhyudayikasrāddha 359n Ācārya, 2810 Adhāna 574n Adya ( sraddha) 518n Agas 5-6 Agha (sin) 6 Agha (āśauca) 267-268 Agnisvātta 195n, 343 Agradidbiṣu 11 Agredidhisu 11n, 394n. Agrahāyani 354 Ahāva 503n Akalkaka 5621 Akrtidabana 225 Akṣayyodaka 508n Āmantrana 408 Amatya 199n Ambas 6 Amhati 7 Anadya 4020 Anasaka 42 Anavasthā 61n Ansta 5, 7 Anugrābaka 17 Anukalpa 387, 513 Anupataka 15 Anustarani 206 Apankteya 391 Aparāhna 376 Aposana 496 Aprita 315n Aratni 470n Arghya 419, 435n Aranyāni 5610 Arudhapatita 114 Asaucasampata or asauca-san nipata 292 Asmā 238 Astakā 3540 Asucikara 12, 14 Asutặpa 1939
 
 Atatāyin 19 Ativahika 160n, 265 Atidesa 95 Atithi 396 Atreyi 13 Aturasannyāsa 185 Atyantopahata 315n Audumbara 73n Avakirnin 112 Avibhaktadāya 365-366. Barhisad 343 Bijin 536n Brahmabandhu 400n Brahmamedha 228n, 254 Brahmanabruva 270n Brāhmanāgrya 400n Brabmodya 464n Bbrūna 11n
 
