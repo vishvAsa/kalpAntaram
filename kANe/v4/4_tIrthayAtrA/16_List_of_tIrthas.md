@@ -169,7 +169,7 @@ bhārata.
 
 r.-River. Bom. G.-Bombay Gazetteer volumes. R.-Rājatarangini (edited and trans. Br.-Brahmāndapurana.
 
-lated by Dr. Stein). Br. S.-Brhatsamhita with Utpala's Rām.-Rāmāyana.
+lated by Dr. Stein). Br. S.-Br̥hatsamhita with Utpala's Rām.-Rāmāyana.
 
 com., edited by Sudhakara Dwivedi. S.-Sabhāparva of the Mahabharata. BV.-Brahmavaivarta-purana.
 

@@ -119,7 +119,7 @@ No. 12). Bphati, commentary of Prablıākara on Jaimini's Pārvamimāms
 
 sūtra (Tarkapada -in the Madras University Sanskrit 
 
-Press, 1936. Brhatsamhitā of Varāhamihira with the commentary of Utpala 
+Press, 1936. Br̥hatsamhitā of Varāhamihira with the commentary of Utpala 
 
 edited by MM. Sudhakara Dvivedi in two volumos, 
 

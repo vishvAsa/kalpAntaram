@@ -217,7 +217,7 @@ Sec. 27 Bharadvaja and Bharadvāja :
 
 Sec. 28 Śātātupa: 
 
-. . pp. 294–296 A sūtra work of Śātātapa on dharma dealing with prayaścitta, śrāddha and ācāra must have existed - verses of Śātātapa quoted in Mitakṣarī and other later works - this is probably different from smṛti work - several verse compilations ascribed to śātātapa - Viddha Satatapa and Bṛhat Sātātapa. 
+. . pp. 294–296 A sūtra work of Śātātapa on dharma dealing with prayaścitta, śrāddha and ācāra must have existed - verses of Śātātapa quoted in Mitakṣarī and other later works - this is probably different from smṛti work - several verse compilations ascribed to śātātapa - Viddha Satatapa and Bṛhat Śatātapa. 
 
 Sec. 29 Sumantu : 
 
@@ -231,7 +231,7 @@ Synopsis of Contents
 
 XV 
 
-rata, Manu, &c.) and ( a narrower sense ) dharmaśāstra - smsti, a source of dharma according to Gautama and others - references to smrtis in early inscriptions - spistis mirrored the beliefs and practi ces of people and also influenced writers and ordinary people; number of smstis went on increasing - Yājñavalkya enumerates twenty writers of smrtis, Parāśara 19 - Tantravārtika speaks of 18 dharmasamhitas - Caturvimsatimata gives views of 24 writers - a smṛti called Sat-trirśanmata - Paithinasi enumerates 36 and so does Aparārka - Vrddha Gautama enumerates 57 - Viramitrodaya enumerates 18 smstis, 18 upasmṛtis and 21 more - total number of smṛtis about 100 - these are products of widely separated ages - some entirely in prose, some entirely in verse, some are mixed - chronology of smstis presents perplexing problems - two or three smrtis go under the same name, e. g. Harita, Atri, Sātātapa - sectarian zealots fabricate certain smrtis - the prefixes laghu, brhat and viddha applied to smstis - well-known verses are ascribed to different authors, as authors quote from memory. 
+rata, Manu, &c.) and ( a narrower sense ) dharmaśāstra - smsti, a source of dharma according to Gautama and others - references to smrtis in early inscriptions - spistis mirrored the beliefs and practi ces of people and also influenced writers and ordinary people; number of smstis went on increasing - Yājñavalkya enumerates twenty writers of smrtis, Parāśara 19 - Tantravārtika speaks of 18 dharmasamhitas - Caturvimsatimata gives views of 24 writers - a smṛti called Sat-trirśanmata - Paithinasi enumerates 36 and so does Aparārka - Vrddha Gautama enumerates 57 - Viramitrodaya enumerates 18 smstis, 18 upasmṛtis and 21 more - total number of smṛtis about 100 - these are products of widely separated ages - some entirely in prose, some entirely in verse, some are mixed - chronology of smstis presents perplexing problems - two or three smrtis go under the same name, e. g. Harita, Atri, Śatātapa - sectarian zealots fabricate certain smrtis - the prefixes laghu, brhat and viddha applied to smstis - well-known verses are ascribed to different authors, as authors quote from memory. 
 
 Sec. 31 The Manusmrti : 
 
@@ -291,7 +291,7 @@ in Yāj. explained by Viśvarūpa without reference to zodiacal signs from Vedic
 
 Sec. 35 Parāśarasmṛti : 
 
-.. pp. 459-466 Yāj, mentions Parāśara, but the extant Parasarasmṛti is pro bably a recast of an older smṛti - Garuḍapurāṇa (chap. 107) gives a summary of 39 verses of Parāśarasmṛti - from Kautilya it appears there was a work of Parāśara on politics in which vyavahāra was also dealt with - extant Parāsara in 12 chapters and 592 verses deals with acara and prayascitta alone - Parāśara, an ancient name - Parāsara mentions 19 smṛti writers - contents of the smrti - Parāśara has peculiar views – authors cited by Parasara – views of Manu frequently cited -- several identical verses in Manu and Parāsara - age of Parāśarasmṛti between 100-500 A. D. - a Brhat Parāśara samhitā in 12 chapters and 3000 verses - contents there of - it is a late work -- Viddha Parāśara quoted by Aparārka - Jyotiḥ-Parāśara quoted by Hemādri, Bhattoji and Smṛti-candrikā. 
+.. pp. 459-466 Yāj, mentions Parāśara, but the extant Parasarasmṛti is pro bably a recast of an older smṛti - Garuḍapurāṇa (chap. 107) gives a summary of 39 verses of Parāśarasmṛti - from Kautilya it appears there was a work of Parāśara on politics in which vyavahāra was also dealt with - extant Parāsara in 12 chapters and 592 verses deals with acara and prayascitta alone - Parāśara, an ancient name - Parāsara mentions 19 smṛti writers - contents of the smrti - Parāśara has peculiar views – authors cited by Parasara – views of Manu frequently cited -- several identical verses in Manu and Parāsara - age of Parāśarasmṛti between 100-500 A. D. - a Br̥hat Parāśara samhitā in 12 chapters and 3000 verses - contents there of - it is a late work -- Viddha Parāśara quoted by Aparārka - Jyotiḥ-Parāśara quoted by Hemādri, Bhattoji and Smṛti-candrikā. 
 
 Sec. 36 The Naradasmrti: 
 

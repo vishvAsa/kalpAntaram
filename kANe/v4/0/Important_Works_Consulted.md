@@ -125,7 +125,7 @@ Oriental Library and in G. O. S. Antyakarmadīpaka of Nityānanda (Kashi Sanskri
 
 where a ms, of it was used. A parārka's commentary on the Yājñavalkyasmrti ( Anan.) Arthasāstra of Kautilya ( ed. by Dr. Sham Shastri, second ed.) Asaucadasaka of Vijñāneśvara (printed in Appendix pp. 832-833) Asaucāstaka of Vararuci (published in Trivandrum S. series) Balambhattī, commentary on the Mitāksarā on Yajñavalkya, ed. by
 
-Mr. Gharpure Barhaspatya-sūtra ( ed. by Dr. F. W. Thomas, Lahore 1921) Brahmanasarvasva-D. C. ms. No. 9 of A 1883-84 Brhatsamhita of Varahamihira with the com. of Utpala (ed. by
+Mr. Gharpure Barhaspatya-sūtra ( ed. by Dr. F. W. Thomas, Lahore 1921) Brahmanasarvasva-D. C. ms. No. 9 of A 1883-84 Br̥hatsamhita of Varahamihira with the com. of Utpala (ed. by
 
 M. M. Sudhakara Dvivedi) Dandaviveka of Vardhamana (G. O. S.) Dāyabhāga of Jimutavābana (Jiv.) Dharmadvaitanirnaya of Sankarabhatta (Ghar.) Dharmasindhu of Kāśınātha with Marathi translation (Nirn., 6th ed.
 

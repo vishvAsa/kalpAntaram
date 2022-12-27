@@ -561,9 +561,9 @@ purāṇa Brbaspati, one of the vedic gods
 
 importance of usages of countries 82; - laid down the famous rule that no
 
-decision should be given based merely on the words of the sastra 67 Brhat-Parasara 286. 304, 364, 386.
+decision should be given based merely on the words of the sastra 67 Br̥hat-Parasara 286. 304, 364, 386.
 
-392, 425 n, 473, Brhat-sama, 46n, 450 Brhat-sambita, 168 Brhat-Saunaka, 230 Budge, E, A. W. on Egyptian Heaven
+392, 425 n, 473, Br̥hat-sama, 46n, 450 Br̥hat-sambita, 168 Br̥hat-Saunaka, 230 Budge, E, A. W. on Egyptian Heaven
 
 and Hell 170 Buddha, date of Nirvana of 645; relics
 
@@ -3239,7 +3239,7 @@ Manu 93, 362n, Sarvānukrama 619 Sarvaprāyascitta, for dying man 184 Sārvarāj
 
 44, 54, 57, 58, 62n, 70, 117, 155, 157, 168, 189n, 194n, 196n, 203n, 204n, 205n, 206, 207n, 208, 209n, 210, 223, 225n, 246, 248, 249n, 266, 321, 339, 343, 345-348, 353, 369. 376, 383n, 402n, 417, 418, 429, 462, 472, 476, 477n, 559n, 574n, 585,
 
-606, 618, 680, 703 Sātātapa, smrti of 40, 108, 115, 172,
+606, 618, 680, 703 Śatātapa, smrti of 40, 108, 115, 172,
 
 174, 178, 220, 280n, 295n, 305, 311, 324n, 325, 332n, 344, 348, 399, 475, 5150, 519n, 528; on Karmavipāka
 
@@ -4159,7 +4159,7 @@ into it 118 Vrddha-Atri 292n Vrddha-Bphaspati 25n Vrddha-Gautama 1126, 137, 174,
 
 123, 164, 216, 225, 226, 204, 575 Vrddha-or Vrddhi-krcchra 150 Vrddha-Manu 222n, 2850, 3710, 390,
 
-532 Vrddha-Parāśara 113, 503n Vrddba-Sātātapa 441n Vrddha-Vasistha 263, 383, 372, 470,
+532 Vrddha-Parāśara 113, 503n Vrddba-Śatātapa 441n Vrddha-Vasistha 263, 383, 372, 470,
 
 529, 547 Vrddha-Viṣnu 80 Vrddha-Yajnavalkya 114n, 210n, 302,
 

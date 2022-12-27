@@ -689,17 +689,17 @@ p. 171.
 
 Brahmāndapurāṇa, pp. 171, 601; does | Bihatkathāmañjari, of Ksemendra, 
 
-not contain dāpavidhi, p. 731. Brahmapurāṇa, pp. 126, 601, 670, Brhat-Kātyāyana, p. 502, 
+not contain dāpavidhi, p. 731. Brahmapurāṇa, pp. 126, 601, 670, Br̥hat-Kātyāyana, p. 502, 
 
 9037. 
 
 Brbat-Parāśara, pp. 305, 465-66. Brahmasiddhānta, p. 732n. 
 
-Bṛhat-Prācetas, pp. 520, 717. Brahmasūtra, pp. 299, 356; Śhaṅkara's Brhat-Samvarta, p. 513. 
+Bṛhat-Prācetas, pp. 520, 717. Brahmasūtra, pp. 299, 356; Śhaṅkara's Br̥hat-Samvarta, p. 513. 
 
 bhāṣya on, pp. 65, 443; quotes 
 
-Bṛhat-Sātātapa, p. 296. Sāntiparvad to the effect that all 
+Bṛhat-Śatātapa, p. 296. Sāntiparvad to the effect that all 
 
 Brides, purchase of, not unknown the four varṇas are entitled to 
 
@@ -761,7 +761,7 @@ gods, p. 219. order of topics of law jo, pp. 484- | Budha, dharmasūtra of, pp. 
 
 criticized, pp. 12, 32, 35, 48, 53, P. 485. 
 
-100, 104, 578. Brhatkathā, of Guṇādbya, pp. 171, Bulcke, Prof. C., p. 387; criticized, 
+100, 104, 578. Br̥hatkathā, of Guṇādbya, pp. 171, Bulcke, Prof. C., p. 387; criticized, 
 
 750. 
 
@@ -1715,7 +1715,7 @@ Karmavipaka, meaning of, p. 796. Kāmandakiya-nstisāra, pp. 144, 145,
 
 164, 169, 192, 254. 
 
-Karmavipāka, of sātātapa, pp. 295, 
+Karmavipāka, of Śatātapa, pp. 295, 
 
 797n. Kāmarūplyanibandha, p. 893n. 
 
@@ -3119,7 +3119,7 @@ Saṭakopa, guru of Saptaśatiprayogavidhi, p. 964n.
 
 Govindarājan, Saptasūtra-sarinyāsapaddhati, p. 563. 
 
-p. 405. Sarabhanga, a pupil of Sātātapa, 
+p. 405. Sarabhanga, a pupil of Śatātapa, 
 
 Śatapathabrāhmaṇa, pp 8n., 9, 95, p. 295. 
 
@@ -3937,7 +3937,7 @@ Vridba-Parāśara, p. 466. personal history of, pp. 799–800.
 
 Vrddha-Parcetas, p. 520. Visveśvara.Sarasvatī, . 582. Vithobā, shrine of, at Pandharpur, 
 
-Vrddha-Sātātapa, pp. 294, 295, 305; 
+Vrddha-Śatātapa, pp. 294, 295, 305; 
 
 bhāsyakāra of, p. 296. p. 977. 
 

@@ -411,7 +411,7 @@ We must now turn to the Pūrvamimārgāgūtra itself. In relation to every śās
 
 1916. सर्वस्यैव हि शानस्य कर्मणो वापि कस्यचित्। यावत्प्रयोजन नोकं वापतकेन गृह्यते ॥ श्लोकवा. (प्रतिज्ञासूत्र) 12.q. by बालक्रीडा on या. I. 1. P. 2. 
 
-1917. 'अथातो धर्मजिज्ञासासूत्रमाद्यमिदं कृतम्। धर्माख्यं विषयं पकं मीमांसायाः प्रयोजनम् ॥ श्लोकवा. (प्रतिज्ञासूत्र) v. 11. अथ means आनन्तर्य i.s, aafter the study of the Veda from a guru that has already taken place. The firs t days (p. 12) 'तसिद्धमध्ययनादनन्तरं धर्मजिज्ञासा कर्तव्येति । सा चतुर्विधा धर्मस्वरूप-भमाण साधन-फलैः।". The न्यायरत्नाकर comments on verse 18 (of प्रतिज्ञावच) 'योर्य पूर्वोक्तन भयोजनेन सह शास्त्रस्य साध्यसाधनसम्बन्धः स एव शास्त्रारम्भहेत.' Compare the well known maxim 'प्रयोजनमनुद्दिश्य न मन्दोऽपि प्रवत' found in श्लोकवा. (सम्बन्धाक्षेप. परिहार. 55). Writers of the Prabhakara School bold that the word dharma in P. M.S. I. 1. 2 means 'Vedartha'. vide Rjuvimala-palicita on Brhati (p. 20) 'चोदनास्त्रेण चोदनालक्षणः कार्यरूप एवं वेदार्थः, म सिद्धरूप इति प्रतिज्ञातम् । तदनेन भाष्येण व्याख्यायते। धर्मशब्दश्च घेदार्थमात्रपरः।।. 
+1917. 'अथातो धर्मजिज्ञासासूत्रमाद्यमिदं कृतम्। धर्माख्यं विषयं पकं मीमांसायाः प्रयोजनम् ॥ श्लोकवा. (प्रतिज्ञासूत्र) v. 11. अथ means आनन्तर्य i.s, aafter the study of the Veda from a guru that has already taken place. The firs t days (p. 12) 'तसिद्धमध्ययनादनन्तरं धर्मजिज्ञासा कर्तव्येति । सा चतुर्विधा धर्मस्वरूप-भमाण साधन-फलैः।". The न्यायरत्नाकर comments on verse 18 (of प्रतिज्ञावच) 'योर्य पूर्वोक्तन भयोजनेन सह शास्त्रस्य साध्यसाधनसम्बन्धः स एव शास्त्रारम्भहेत.' Compare the well known maxim 'प्रयोजनमनुद्दिश्य न मन्दोऽपि प्रवत' found in श्लोकवा. (सम्बन्धाक्षेप. परिहार. 55). Writers of the Prabhakara School bold that the word dharma in P. M.S. I. 1. 2 means 'Vedartha'. vide Rjuvimala-palicita on Br̥hati (p. 20) 'चोदनास्त्रेण चोदनालक्षणः कार्यरूप एवं वेदार्थः, म सिद्धरूप इति प्रतिज्ञातम् । तदनेन भाष्येण व्याख्यायते। धर्मशब्दश्च घेदार्थमात्रपरः।।. 
 
 1180 
 
@@ -539,7 +539,7 @@ History of Dharmajāstra (Soo, VII, Oh. XXVII
 
 clearly indicated by the Slokavārtika that says that the very first sentence 1937 of Sabara's bhāsya was interpreted in six different ways before it by commentators and by the Tantrayārtika that the bhāsyakāra did not notice six sūtras after the 'nivitādhi karana'(III. 4.1-9) and that commentators differed in their reasons for the omission, but all commentators other than Sabara did explain those six sūtras. 1938 None of the commentaries composed before Kumārila is now available. 
 
-Kumārila wrote the slokavārtika on Sabara's blāsya on P.M.S. I, 1 (in about 4000 verses) and the voluminous Tantra vārtika on I. 2 to the end of chap. III of PMS and the Tup-tikā on P. M. S. IV-XII (stray notes, not a regular commentary ). Kumārila is credited with having composed two more com mentaries, 'Madhyama-ṭiki' and 'Brhat tikā' on P. M S. 1939 The latter has been referred to by the Nyāyaratnakara 1940 and the Nyāyasudhā on Tantravārtika quotes several verses from it (on pp. 201, 329-30, 393) and the Jaiminiya-sūtrarthasangraha of Rsiputra Parameśvara quotes Brhat-tikā several times. On the Slokavārtika two commentaries have so far been published viz. the Nyāyaratnākara of Pārthasarathi and the Kāśika of Sucaritamiśra (in T.S.S.). In the Introduction to his English translation of the Tantravārtika, M. M. Dr. Ganganath Jha notices eight commentaries on the Tantravārtika of which the Nyāyasudhā or Rāṇaka of Someśvara (published in Chowkhamba Series) is a very exhaustive one, the others being in Ms. The 
+Kumārila wrote the slokavārtika on Sabara's blāsya on P.M.S. I, 1 (in about 4000 verses) and the voluminous Tantra vārtika on I. 2 to the end of chap. III of PMS and the Tup-tikā on P. M. S. IV-XII (stray notes, not a regular commentary ). Kumārila is credited with having composed two more com mentaries, 'Madhyama-ṭiki' and 'Br̥hat tikā' on P. M S. 1939 The latter has been referred to by the Nyāyaratnakara 1940 and the Nyāyasudhā on Tantravārtika quotes several verses from it (on pp. 201, 329-30, 393) and the Jaiminiya-sūtrarthasangraha of Rsiputra Parameśvara quotes Br̥hat-tikā several times. On the Slokavārtika two commentaries have so far been published viz. the Nyāyaratnākara of Pārthasarathi and the Kāśika of Sucaritamiśra (in T.S.S.). In the Introduction to his English translation of the Tantravārtika, M. M. Dr. Ganganath Jha notices eight commentaries on the Tantravārtika of which the Nyāyasudhā or Rāṇaka of Someśvara (published in Chowkhamba Series) is a very exhaustive one, the others being in Ms. The 
 
 1937. लोक इत्यादि भाव्यस्य षडान्संप्रचक्षते। भाष्यकारानुसारेण प्रयुक्तस्यादितः que salen. ( salt, verse 26 ) 
 
@@ -697,13 +697,13 @@ Bhartmilia--On verse 10 of the ślokavārtika, the N. R says that the former ref
 
 Kumarilabhatta - About 650-700 A. D. 1952 
 
-Prabhākara – author of Brhati on Sabara's bhāsya-between 675-725 A. D. 
+Prabhākara – author of Br̥hati on Sabara's bhāsya-between 675-725 A. D. 
 
 Mandana-- Disciple of Kumārila or a younger contempor ary, wrote on both P. M. and Vedānta; in Vidhiviveka p. 109 he quotes the Bṛhati (vide Pro. of 3rd O. Conf. p 479); his other works are Bhāvanāviveka, Vibhramaviveka and Mimārgā. nukramapika; between 680-720 A. D. Vide ABORI vol. 18 pp. 121-157 (by Prof. Kuppuswami Sastri), J. I. H. vol. XV pp. 320-329. 
 
 Umbeka - pupil of Kumārila and commentator of Sloka vārtika and of Mandana's Bhāvanāviveka; generally identified with dramatist Bhavabhūti between 700-750 A. D. 
 
-Salikanātha - pupil of Prabhākara and author of the com mentary Rjuvimala on Prabhākara's Brhati and of an independ ent work 'Prakaraṇa-pañoikā'. It is noteworthy that in Rjupimalā on Bṭhati (p. 91) he quotes a verse from Ślokavārtika (Vākyādhikaraña verses 43-44) and refers to Kumārila with great respect as 'Yadābur-Vārtikakāra-miśrāḥ'; 710-770 A. D. 
+Salikanātha - pupil of Prabhākara and author of the com mentary Rjuvimala on Prabhākara's Br̥hati and of an independ ent work 'Prakaraṇa-pañoikā'. It is noteworthy that in Rjupimalā on Bṭhati (p. 91) he quotes a verse from Ślokavārtika (Vākyādhikaraña verses 43-44) and refers to Kumārila with great respect as 'Yadābur-Vārtikakāra-miśrāḥ'; 710-770 A. D. 
 
 Sureśvara--(called Viśvarūpa before he became a sannyāsin) disciple of Saṅkarācārya. Between 800-840 A. D. 
 

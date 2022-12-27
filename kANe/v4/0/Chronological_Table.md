@@ -57,7 +57,7 @@ Gaikwad Oriental series 300 A. D.-600 A. D. Some of the extant Purānas such as 
 
 Visnu, Mārkandeya, Matsya, Kūrma 500 A. D.-550 A. D.-Varāhamihira, author of Pañca-siddhāntikā,
 
-Brhatsamhitā, Brhat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
+Br̥hatsamhitā, Br̥hat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
 
 carita 650-665 A. D.--Kaśikā, commentary by Vamana and Jayāditya on
 

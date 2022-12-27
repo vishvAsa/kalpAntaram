@@ -159,7 +159,7 @@ Laghu-Vispu ( Anan.). Laghu-Vyāga ( Jiv.). Lagbvāśvalāyana.- Anan.). Likhita
 
 Sarvajña-Nārāyana and three others ( edited by Rao Saheb 
 
-V, N. Mandlik ). Nārada-smrti (edited by Dr. Jolly ). Parāśara-smrti-(Bombay Sanskrit series). Prajāpati-smrti-( Anan.). Samvarta-smrti. Jiv. and Anan.). Saṅkha-smrti- ( Anan.). Sātātapa-smpti- Anan. ). Saunaka-kārikā-Me. in the Bombay University Library ). Usanas-8mști, Veda-Vyāsa-smrti ( Anan). Vṛddha-Gautama (Jiv.). Vrddha-Harita- Anan. ). Yājñavalkya-smpti, with the commentary of Viśvarūpa (Trivan 
+V, N. Mandlik ). Nārada-smrti (edited by Dr. Jolly ). Parāśara-smrti-(Bombay Sanskrit series). Prajāpati-smrti-( Anan.). Samvarta-smrti. Jiv. and Anan.). Saṅkha-smrti- ( Anan.). Śatātapa-smpti- Anan. ). Saunaka-kārikā-Me. in the Bombay University Library ). Usanas-8mști, Veda-Vyāsa-smrti ( Anan). Vṛddha-Gautama (Jiv.). Vrddha-Harita- Anan. ). Yājñavalkya-smpti, with the commentary of Viśvarūpa (Trivan 
 
 drum Sanskrit series, 1922 and 1924), Yājñavalkya-smrti, with the commentary Mitāksarā of Vijñān 
 
@@ -265,7 +265,7 @@ the Anandāśrama Press, Poona, 1909 ).
 
 Other Miscellaneous Texts Arthasāgtra-gee Kautilya. Aṣtāngasamgrabs of Vāgbhata - published by the Nirnayasi 
 
-gara Press. Brhati of Prabhākara ( Tarkapāda )- edited in the Madras Uni. 
+gara Press. Br̥hati of Prabhākara ( Tarkapāda )- edited in the Madras Uni. 
 
 versity Sanskrit series, 1936. Bșhat-samhitā of Varāhamihira--edited by Dr. Kern in the 
 

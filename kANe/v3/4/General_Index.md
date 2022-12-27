@@ -575,7 +575,7 @@ Bṛbaspati, smrti of, holds Manu in Branding, as a punishment 403, 540 ; high e
 
 on the forehead with certain marks also 590n. in the case of certain offences, if Brhaspati, work of (in prose) 452n, offender did not perform prayascitta 
 
-602a. 397, 403 ; practised in Rome and Brhat-Parāsara 13, 98, 170, 173, 197, 
+602a. 397, 403 ; practised in Rome and Br̥hat-Parāsara 13, 98, 170, 173, 197, 
 
 Britain against offendors 397, 403, 209, 211, 391, 860, 869. Brew, Dr. J. M. 391. 
 
@@ -2647,7 +2647,7 @@ plaint 265. Padmavati 108. Pala, was equal to 320 raktikās 121. Pala, dynasty o
 
 Gopāla 30. Palace, gate of, should face south 1 ; 
 
-had dancing halls 180; had seven or eight storeys 180; measurements of, acc. to Brhatsambitā 180; posi tion and extent of king's 181 ; should 
+had dancing halls 180; had seven or eight storeys 180; measurements of, acc. to Br̥hatsambitā 180; posi tion and extent of king's 181 ; should 
 
 bc in the centre of the capital 1. Palaka, a king 399, Palibothra (vide Pāṭaliputra) 204. Pallava, dynasty in South India 31, 
 
@@ -3407,7 +3407,7 @@ disputes of small value 358; take 1 6770, 828n, 8310, 836n, 8440, 850n, time for
 
 887-88, 907n, 964, Sapiṇdikaraña, a sraddha 737 Saradacharan Mitra, Mr. Justice 559, 
 
-Sātātapa 145n. 560. 
+Śatātapa 145n. 560. 
 
 Sat-trimsan-mata 4870, 8820, Saramā, bitch of the gods, was sent Sattra, sacrifice extending over long 
 
@@ -4257,7 +4257,7 @@ Vālāpi, perished when attacking Law in Madras 246, 545, 731.
 
 Agastya through over-joy 53. Vārāhagrhya 754n. 
 
-Vatsa, was abused by his step-brother Varāhamihira, author of Brhatsamlitā, 
+Vatsa, was abused by his step-brother Varāhamihira, author of Br̥hatsamlitā, 
 
 as the son of a Sūdra woman 361, 231, 889, 897; and of Pancasid. 
 
@@ -4399,7 +4399,7 @@ Vratakbanda of Hemādri 122n, Viśvarūpa, commentator of Yājñaval. | Vrddhāt
 
 kyasmrti 9, 32, 470, 48, 137, 159n, Vrddha-Bșhaspati 614, 653n, 943. 160, 167, 263n, 299, 312, 322-23, 1 Vrddha-Gautama 432n, 676n, 683n, 340, 3879, 395n, 3989, 421n, 452n, 6840, 8631. 454, 505, 5270, 557, 579-80, 5820, Vrddha-Hārīta, 209, 242, 391, 396-97, 597, 6014, 6020, 6041, 606n, 616n, 400-402, 420, 442, 951. 6210, 629, 636, 860n, 865, 867n, 869, | Vrddba-Kātyzyana 3000, 493n, 
 
-874, 927, 932, 938, 942n, 956, 965. Vrddha-Manu 408, 477-79, 707. Vitastā, river was dammed by Suyya | Vyddha-Sātātapa 754, 
+874, 927, 932, 938, 942n, 956, 965. Vrddha-Manu 408, 477-79, 707. Vitastā, river was dammed by Suyya | Vyddha-Śatātapa 754, 
 
 162. 
 

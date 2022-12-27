@@ -853,7 +853,7 @@ Caland, Dr. 1171. Bṛbati, a work of Prabhākara, 359n; Caland and Hobry, 978 n
 
 3140, 315, 430, 578, 643, 6670, About, 649-651; answering, in front 687., &c. 
 
-of images of gods forbidden, 709. Brhat-bāman, 996n. 
+of images of gods forbidden, 709. Br̥hat-bāman, 996n. 
 
 Calukyas, describod as oberished by Bṭbat-sambitā, 217, 249, 398, 5510, 
 

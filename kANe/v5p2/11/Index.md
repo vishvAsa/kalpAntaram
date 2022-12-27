@@ -1330,13 +1330,13 @@ olti 1001, 1033,
 
 1828 (names of countries in Bphaspati, verses of, quoted under Bharatayurga), 
 
-Cārvākadarśana by Sarvadar- Brhat-tīkā of Kumārilabhattan, ree fanasangraba, closely resemble ferred to by Nyāyaratnākara verses from Vigno and Padma and verses from it q. by Nyāya. Parāṇas, 974n. 
+Cārvākadarśana by Sarvadar- Br̥hat-tīkā of Kumārilabhattan, ree fanasangraba, closely resemble ferred to by Nyāyaratnākara verses from Vigno and Padma and verses from it q. by Nyāya. Parāṇas, 974n. 
 
 sudbā and Jaiminlyasūtrārtha Byhati, com, of Prabhākara on 
 
 sangraha, 1188. Sabara's bhāsya 1179n, 1189; Bridges, Robert, &. of Teste com. on B. is Ṛju-vimalā of ment of beauty' (on what is 
 
-Śalikanātha, 1179n, 1189. reasonable), 1477. Brhat-sathitā of Varāhamihira, Briggs, W, G. a. of. Gorakhnath 
+Śalikanātha, 1179n, 1189. reasonable), 1477. Br̥hat-sathitā of Varāhamihira, Briggs, W, G. a. of. Gorakhnath 
 
 69–70, 150n, 187, 1910, 193," and the Kanphatas', 1429. 216n, 242n, 465n, 476 (on British Imperialists and hypo units of time from ksaṇa to critical talk of White man's kalpa ), 477, 516 (praise of burden' 1619. Yavana astrology ), 517n, 519, British rulers of India were gene 520, 526 (birds' Aights indicate rally opposed to progressive good or bad sots of person go- social reform in India 1638n. ing on journey in his former Bromage, Bernard, a, of Tibetan lives), 530, 5310, 540-41, yoga', 1394. 543n, 547n, 559-60, 561n, Brown G. W., 2. of paper in 564, 574n, 584, 589n, 591-94 Studies in honour of Bloom (names of predecessors ), 6070, field', 1434, 1531; conjectures 608-09, 631, 613n, 616, 622, that even words Yoga, Sān 624, 637n, 650-65, 658, 660, khya and Upanisad' are coined 662, 680, 6831, 704, 708, from some Dravidian words 7110, 734 ( 45th chap. of, on now lost, 1531. Śantis ), 745–47, 763 ( causes | Brunton, Paul, &, of 'A search in of earthquakes ), 764 (premo- Seoret India', 1393. nitory signs of earthquakes ), Baddha (vide under Bhāradvāja, 765 (oriticizes veddha-Garga dhamma, Edwin Arnold, Eina and Parāśara), 7670, 768n yana, nirvāṇa, sūdras, taphā, ( quotes 12 verses of Rsipatra ), Upaniṣads), came to be regard 769, 773–74, 783n, 793 ( Puṣya-1 ed by Hindus as avatāra before 
 
@@ -3810,7 +3810,7 @@ Ekadasipi, acc. to Kamalakara Kāla ), 682, 687, 6900, 691, and some others, but
 
 lar practice it is eleven times 921, 9300, 935 ( incorporates 
 
-of. Ekādasjoi', 813 14. Upaniṣad passages ), 946 ( on Laghu-Sātātapa 706n, Ahirsā), 967, 9740, 977n, 1024. | Laghu-Viṣṇu 30, 48. 1042, 12700 (similar to Yāi. | Laghu-Vyāsa 9140. I. 156 ), 1373, 1383, 14030. Lahiri, N. C. 6570, 14121, 14210, 1431n, 1438, Lakāras, ten ( for tanses and 1445, 1446 n, 1455; 1524, 1528, 
+of. Ekādasjoi', 813 14. Upaniṣad passages ), 946 ( on Laghu-Śatātapa 706n, Ahirsā), 967, 9740, 977n, 1024. | Laghu-Viṣṇu 30, 48. 1042, 12700 (similar to Yāi. | Laghu-Vyāsa 9140. I. 156 ), 1373, 1383, 14030. Lahiri, N. C. 6570, 14121, 14210, 1431n, 1438, Lakāras, ten ( for tanses and 1445, 1446 n, 1455; 1524, 1528, 
 
 moods ) in Pāṇini 1235, 12360, 1582 ; extent of, is 17000 or all of which begin with letter 18000 acc. to many Parānas 
 
@@ -4420,7 +4420,7 @@ list of Andhra kings), 845n Mātrā, what is, in Prāṇāyāma (period between 
 
 915-16, 919, 922 ( 'Om Namo Mātrs ( Muther Goddesses ) 1046 Nārāyaṇāya' is Malamantra ), 
 
-(in Gupta Inscriptions ); gene- 931, 9450, 946, 9690 ( ten rally said to be eight, but 16, Abbira kiogs ), 974, 993 (ten 32, 64 are also mentioned, avatāras ), 9950 ( Viṣou cursed 169 and a; referred to in by Burgo ), 10230-24, 1090n, Kumārasaunbhaya and Brhat- 10969, 1114 ( description of sawhitā 186, 1046. 
+(in Gupta Inscriptions ); gene- 931, 9450, 946, 9690 ( ten rally said to be eight, but 16, Abbira kiogs ), 974, 993 (ten 32, 64 are also mentioned, avatāras ), 9950 ( Viṣou cursed 169 and a; referred to in by Burgo ), 10230-24, 1090n, Kumārasaunbhaya and Br̥hat- 10969, 1114 ( description of sawhitā 186, 1046. 
 
 black magic rite ), 1121n( nyāsa Mātrkā-nyasa ( Mātçkā means with mantras ) 1132, 1231, 
 
@@ -5418,7 +5418,7 @@ Pradhana actions, es contrasted Sālikanātha, 1189-90; 4. of with guna-bhūtthy
 
 e Buhett 
 
-Brhati on P. M. 1 
+Br̥hati on P. M. 1 
 
 P M 
 
@@ -6268,7 +6268,7 @@ Aśraśānti 804,
 
 1643 ; parts ( five ) of each .8. Śalikanātha, &. of com. Rjavimala 1544, 
 
-on Brhati and of Prakarana. Samāsasathita, of Varāhamihira, pafcikā 1189; flourished quoted by Utpala 7420. between 710-770 A, D , 1198; Samaveda 7211, 7330,'734, 1321 reason for the riew that ś. ( has not one thousand Sakh&e, wag a direct pupil of Prabha- but gitis), 1543 ( all verses of, kara 1190, 1193. 
+on Br̥hati and of Prakarana. Samāsasathita, of Varāhamihira, pafcikā 1189; flourished quoted by Utpala 7420. between 710-770 A, D , 1198; Samaveda 7211, 7330,'734, 1321 reason for the riew that ś. ( has not one thousand Sakh&e, wag a direct pupil of Prabha- but gitis), 1543 ( all verses of, kara 1190, 1193. 
 
 except about 75, ere taken Śalivāhana, era ( vide Saka era): from the ægveda). 
 
@@ -8280,7 +8280,7 @@ kāra 1157. Viddha-Hārita 8175, 855n, Vyāghra, Smrti of 78n.
 
 9240, 9631, 9650, 976p, 1046, Vyāhstis ( three or seven mystic 10960. 
 
-syllables such as bhūḥ, bhavaḥ Vyddha-Mana 1960, 706n. etc.) 787, 1099n; depote Yṛadba-Sātātapa 79n, 116n. 
+syllables such as bhūḥ, bhavaḥ Vyddha-Mana 1960, 706n. etc.) 787, 1099n; depote Yṛadba-Śatātapa 79n, 116n. 
 
 Lokas aco. to Tai. Br, and Tai, Vrddha-Vasiṣtha 2130, 2150, Op. 10200. 
 
@@ -8348,7 +8348,7 @@ sabbath, calendar ) : actions Wallis, H. W. a. of Cosmology profer to be done 02
 
 of the Rgveda' 1485n. 
 
-W. according to Brhatsamhita, Warren, a. of Kalasankalita' Garga and Atharvaṇa Jyo 
+W. according to Br̥hatsamhita, Warren, a. of Kalasankalita' Garga and Atharvaṇa Jyo 
 
 642n, 641, 661. 
 
