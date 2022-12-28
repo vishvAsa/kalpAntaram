@@ -497,7 +497,7 @@ The Viśvajit is a striking sacrifice in which the performer donates all belongi
 
 47747764 | ** OD IV. 1, 24 
 
-2156. Hikayet r egindara: Faraig. \# . IV.3.10: ** quotes among others the following three passages : यस्य पर्णमयी शुधर्भवति नस पापं श्लोकं शृणोति (द्रव्य), यदाक्त... चक्षुरेव भ्रातृष्यस्य वृक्के (संस्कार), यत्पयाजादया 911 477 TH AT TUŞtey feriat (). 
+2156. Hikayet r egindara: Faraig. \# . IV.3.10: ** quotes among others the following three passages : यस्य पर्णमयी शुधर्भवति नस पापं श्लोकं शृणोति (द्रव्य), यदाक्त... चक्षुरेव भ्रातृष्यस्य वृक्के (संस्कार), यत्पयाजादया 911 477 TH AT TUṢtey feriat (). 
 
 2157. \\# erat: Foreningrarea I g. . . IV. 3, 15, para means सर्वपुरुषान्. शपर explains 'सर्वे हि पुरुषाः स्वर्गकामाः। कुत पतत् । प्रीतिहिं स्वर्गः सर्वच प्रीति muyar; $127. on AZ II. 2. refers to it; vide otr. Al. I. 1. p. 148. The Panggutor II. 6. 46 has: Haifft: A perioa: I wa nt a good fra 11 
 

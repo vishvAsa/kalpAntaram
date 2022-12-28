@@ -11,7 +11,7 @@ N. B. Works referred to only once or twice and most of those already set out on 
 
 TEXTS 
 
-Vedic Samhitās Atharvaveda-S. P. Pandit's edition. Kathaka Samhita.-edited by Dr. Sohroeder. Maitriyani Sambita-edited by Dr. Schroeder. Rgveda-Prof. Max Müller's edition with the com. of Sāyaṇa 
+Vedic Samhitās Atharvaveda-S. P. Pandit's edition. Kathaka Samhita.-edited by Dr. Sohroeder. Maitriyani Sambita-edited by Dr. Schroeder. Rgveda-Prof. Max Mūller's edition with the com. of Sāyaṇa 
 
 in four volumes. Samaveda--Benfey's edition and Satyavrata Samagrami's edi 
 
@@ -113,11 +113,11 @@ Lahore 1933. Vāraha-gļhya-gūtra-Gaikwad Oriental Series, Baroda, 1921. Vasist
 
 Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
 
-PURĀŅAS Agnipurānam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
+PURĀŅAS Agnipurāṇam-published by the Anandasrama Press, , Bhagavata-purāṇa with the commentary of Sridhara in two 
 
 volumes (printed at Ganpat Krishnaji Pregs). Bhaviṣyapurana--published by the Venkateśvara Press, Bombay. 
 
-Brahmapurana-Anandasrama Press. Brahmāṇdapurāna-Venkatesvara Press, Bombay. 
+Brahmapurana-Anandasrama Press. Brahmāṇdapurāṇa-Venkatesvara Press, Bombay. 
 
 Works Consulted 
 
@@ -129,7 +129,7 @@ cited as Bṛhan-Nāradiya. Nșsimbapurāṇa-(published by Messrs. Gopal Naraya
 
 Bombay, 1911). Padmapurāṇa-Anandāśrama Press. Sabyādrikbanda & portion of the Skanda-purāpa, edited by 
 
-Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay. Vāmana-purāna-Venkatesvara Press, Bombay. Varāha-purāna--B. I. series. Vāyu-purāna-published by the Anandaśrama Press. Some 
+Dr. Gerson Da Cunha in 1877, Bombay. Skandapurāṇa-Venkateśvara Press, Bombay. Vāmana-purāṇa-Venkatesvara Press, Bombay. Varāha-purāṇa--B. I. series. Vāyu-purāṇa-published by the Anandaśrama Press. Some 
 
 times the B. I. edition in two volumes has been referred 
 
@@ -159,7 +159,7 @@ Laghu-Vispu ( Anan.). Laghu-Vyāga ( Jiv.). Lagbvāśvalāyana.- Anan.). Likhita
 
 Sarvajña-Nārāyana and three others ( edited by Rao Saheb 
 
-V, N. Mandlik ). Nārada-smrti (edited by Dr. Jolly ). Parāśara-smrti-(Bombay Sanskrit series). Prajāpati-smrti-( Anan.). Samvarta-smrti. Jiv. and Anan.). Saṅkha-smrti- ( Anan.). Sātātapa-smpti- Anan. ). Saunaka-kārikā-Me. in the Bombay University Library ). Usanas-8mști, Veda-Vyāsa-smrti ( Anan). Vṛddha-Gautama (Jiv.). Vrddha-Harita- Anan. ). Yājñavalkya-smpti, with the commentary of Viśvarūpa (Trivan 
+V, N. Mandlik ). Nārada-smrti (edited by Dr. Jolly ). Parāśara-smrti-(Bombay Sanskrit series). Prajāpati-smrti-( Anan.). Samvarta-smrti. Jiv. and Anan.). Saṅkha-smrti- ( Anan.). Śatātapa-smpti- Anan. ). Saunaka-kārikā-Me. in the Bombay University Library ). Usanas-8mști, Veda-Vyāsa-smrti ( Anan). Vṛddha-Gautama (Jiv.). Vrddha-Harita- Anan. ). Yājñavalkya-smpti, with the commentary of Viśvarūpa (Trivan 
 
 drum Sanskrit series, 1922 and 1924), Yājñavalkya-smrti, with the commentary Mitāksarā of Vijñān 
 
@@ -265,7 +265,7 @@ the Anandāśrama Press, Poona, 1909 ).
 
 Other Miscellaneous Texts Arthasāgtra-gee Kautilya. Aṣtāngasamgrabs of Vāgbhata - published by the Nirnayasi 
 
-gara Press. Brhati of Prabhākara ( Tarkapāda )- edited in the Madras Uni. 
+gara Press. Br̥hati of Prabhākara ( Tarkapāda )- edited in the Madras Uni. 
 
 versity Sanskrit series, 1936. Bșhat-samhitā of Varāhamihira--edited by Dr. Kern in the 
 
@@ -333,7 +333,7 @@ srama Press). Tantravārtika of Kumārilabhatta (vide above 'Jaimini'). Trikānd
 
 by the Nirnayasagara Press). Vedāntakalpataru-parimala of Appayadikṣita ( Vizianagram 
 
-Sanskrit series, 1895). Vikramāöka devacarita of Bilhana-edited by Dr. Bühler in 
+Sanskrit series, 1895). Vikramāöka devacarita of Bilhana-edited by Dr. Būhler in 
 
 the Bombay Sanskrit Series, 1875. Yogasutra of Patanjali with Vyasabhasya-(Bombay Sanskrit 
 
@@ -405,7 +405,7 @@ Oriental Series). Dr. S. V. Ketkar's 'Jñanakośa' ( in Marathi), vol. 2 and 5. 
 
 India series ), London 192%. Rao Saheb V. N. Mandlik's. Hindu Law' ( 1880, Bombay ). Sir John Marshall-Mohenjo-daro and the Indus Civilization, 
 
-in three volumes, 1931, MaxMüller's History of Ancient Sanskrit Literature (1859). Megasthenes-India ( as described by ) translated by MoCrindle 
+in three volumes, 1931, MaxMūller's History of Ancient Sanskrit Literature (1859). Megasthenes-India ( as described by ) translated by MoCrindle 
 
 (1877 ). Pollock and Maitland-History of English Law (Cambridge, 
 

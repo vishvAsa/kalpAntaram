@@ -23,6 +23,6 @@ FOUNDI
 
 It appears from the quotations in the Mit., Aparārka and Smrticandrikā that they had before them a large work of Pracetas containing sūtras and verses and that Pracetas did not deal with Vyavahāra. An example of a long prose passage is cited below.613 
 
-The Mit. on Yāj. (III. 20, 263, 264 and 265 ), Haradatta on Gautama (22.18 ) and Aparārka (on pp. 910, 1125, 1171 ) quote several verses of Brhat-Pracetas on āśauca and prāyas citta and the Mit. on Yāj. III. 265 and Aparārka (on pp.888,) 897 and 1098 ) quote several verses of Vĩddha-Pracetas on the same topics. 
+The Mit. on Yāj. (III. 20, 263, 264 and 265 ), Haradatta on Gautama (22.18 ) and Aparārka (on pp. 910, 1125, 1171 ) quote several verses of Br̥hat-Pracetas on āśauca and prāyas citta and the Mit. on Yāj. III. 265 and Aparārka (on pp.888,) 897 and 1098 ) quote several verses of Vĩddha-Pracetas on the same topics. 
 
 A few prose quotations from Pracetas are noted in the Smrticandrikā and by Haradatta (on Gautama 23. 1). 

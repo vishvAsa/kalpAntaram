@@ -71,7 +71,7 @@ Kasinatha-Upadhyaya
 
 ancestors viz. father, grandfather and great-grandfather), Ekoddi sta, Nandisraddha, Sapindikaranasraddha. 
 
-Kāsinātha was a very learned man and a great devotee of God Vithoba at Pandharpur in the Sholapur District. He wrote several other works such as the Prayascittendusekhara (Bühler 3. 110), an exposition of the Vedastuti in the Bhagavatapurana (X. 87) and a work called Vitthala-rimantrasārabhasya.1538 In the latter he takes several Rk verses ( such as Rgveda I. 95. 1-11 and I. 164.31) and explains them as applying to God Vitthala.1sti 
+Kāsinātha was a very learned man and a great devotee of God Vithoba at Pandharpur in the Sholapur District. He wrote several other works such as the Prayascittendusekhara (Būhler 3. 110), an exposition of the Vedastuti in the Bhagavatapurana (X. 87) and a work called Vitthala-rimantrasārabhasya.1538 In the latter he takes several Rk verses ( such as Rgveda I. 95. 1-11 and I. 164.31) and explains them as applying to God Vitthala.1sti 
 
 We know a good deal about the family of Kāśinātha Padhye from his own works and from the biography of the great 
 

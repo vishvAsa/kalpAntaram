@@ -41,7 +41,7 @@ DCRI = Deccan College Research Institute, Poona 6. Dh. S. = Dharmasūtra. E. C. 
 
 edition ). GOS = Government Oriental Series. Gr. S. = Gșhya-sūtra. 
 
-H. A. S. L. = Max Müller's History of Ancient Sanskrit 
+H. A. S. L. = Max Mūller's History of Ancient Sanskrit 
 
 Literature. Hir. = Hiraụyakeśi Dharmasūtra. H. of Dh. $. = History of Dharmaśāstra. H. O. S. = Harvard Oriental Series. Hp.Cat.orHp. Nepal Cat.=Mahānahopadhyāya Haraprasad 
 
@@ -85,7 +85,7 @@ and I. A. Mad. H. C. R. = Madras High Court Reports. M. Gr. S. or Mānava Gș. S
 
 Gessellschaft. Tai. S. = Taittiriya-samhitā. Tri. Cat. = Triennial Catalogue of Madras Government 
 
-Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Viśvarūpa. Viṣṇu Dh. S. or Vi=Viṣṇudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Bühler's Digest of Hindu Law (3rduet). 
+Sanskrit Mss. Tri. ed. = Trivandrum edition. Vāj. S. = Vājasaneya-Samhita. Vas. or Vas. Dh. S. =Vasiṣthadharmasūtra (B. S. Series ). Viś. = Viśvarūpa. Viṣṇu Dh. S. or Vi=Viṣṇudharmasūtra (ed. by Dr. Jolly). V. S. = Vedāntasūtra. W. B. = West and Būhler's Digest of Hindu Law (3rduet). 
 
 Yāj. = Yājsavalkyasmrti. 
 

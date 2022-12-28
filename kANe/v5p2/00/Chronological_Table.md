@@ -57,7 +57,7 @@ lished in a volume in G. O.S. '300 A. D.-600 A. D.—some of the extant Purāṇ
 
 as Vāyu, Brahmāṇda, Viṣṇu, Matsya, Mārkandeya. 400 A. D.-500 A. D.—Māṭharavýtti on Sāṅkhyakārikā. 400 A. D.-500 A. D.—The Yogasūtrabhāṣya of Vyāsa. 476 A. D.-Aryabhaṭa, author of Aryabhatiyam, was 
 
-born. 500 A. D.-575 A. D.-Varāhamihira, author of Brhat 
+born. 500 A. D.-575 A. D.-Varāhamihira, author of Br̥hat 
 
 samhitā, Bșhajjātaka, Pañcasiddhāntikā and other 
 

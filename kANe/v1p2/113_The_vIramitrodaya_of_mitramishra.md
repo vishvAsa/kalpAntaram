@@ -285,6 +285,6 @@ LI
 
 953 
 
-of 'bhakti' (the verse is quoted below )1479 and dilates on them in pp. 31-128. He points out each of the nine aspects may be Sattviki, Rājasi or Tāmasi and expounds these. He mentions the Bhagavatapurāna and the commentator Sridharasvāmin fre quently. He frequently quotes the Puraras and the Bhagavad gitā. At the end (on pp. 134-175) he deals with 'bliajaniya nirṇaya' (exposition on the object of worship ). 
+of 'bhakti' (the verse is quoted below )1479 and dilates on them in pp. 31-128. He points out each of the nine aspects may be Sattviki, Rājasi or Tāmasi and expounds these. He mentions the Bhagavatapurāṇa and the commentator Sridharasvāmin fre quently. He frequently quotes the Puraras and the Bhagavad gitā. At the end (on pp. 134-175) he deals with 'bliajaniya nirṇaya' (exposition on the object of worship ). 
 
 In the Vyangyārtha-kaumudi of Anantāsrana 180 of Punya stambha (Puṇtāmibe ) on the Godavari, a commentary on the Rasamañjari of Bhanudatta, the author gives a pedigree of his patron. He describes the Kāsirāja family at Benares, in which was born Prataparudra whose son was Madhukarasāha, whose son was Virasimhadeva. Ananta wrote the commentary for Candrabhānu, a son of Virasi hadeva, in 1635 A. D. This corroborates the dates above given by Mr. Lala Sitaram. There fore it is almost beyond doubt that the literary activity of Mitra misra lies between 1610 and 16-40 A. D. 
