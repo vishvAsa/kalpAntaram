@@ -3802,7 +3802,7 @@ Laghu-Harita 676n. Kuppuswami, M. M. Prof. 1186n- Laghu-Jātaka of Varābamihira
 
 88n, 1195 ( paper on Manlana 533n, 5450, 547, 5540, 5610, and Sureśvara equation ju the 568, 574-5n, 577, 580, 585, Vedānta ). 
 
-589, 594. Kārmapurāṇa, 1030-4n, 116. Laghurudra, 813; is same 89 
+589, 594. Kūrmapurāṇa, 1030-4n, 116. Laghurudra, 813; is same 89 
 
 121, 143, 202, 2490, 473 (on 
 

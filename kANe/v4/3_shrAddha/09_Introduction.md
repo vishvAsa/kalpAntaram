@@ -1144,9 +1144,17 @@ The Vas. Dh, S. provides[^889] that the performer should invite ascetics, house-
 
 ### Yati preferred as an invitee
 
-The Kārmapurāṇa states[^890] “that man whose offering (of food ) is eaten by a _yati_ that knows the truth about _prakr̥ti_ (primordial matter) and the _guṇas_ (_sattva_, _rajas_ and _tamas_) reaps the reward (merit) of feeding a thousand (other brāhmaṇas). Therefore one should feed in offerings to gods and manes an excellent _yogin_ who is intent on true knowledge of God and others only if such a one is not available.' Similar verses about ascetics and yogins occur in Varāhapurāṇa 14.50, Skanda (VI.217.7 ff) and Vayupurāṇa[^891] chap.71.65-73, chap.76.28 &c. Bṛhaspati provides[^892] a special rule that, if a person cannot afford to feed at a śrāddha more than one brāhmaṇa, then he should feed one who has studied the Sāmaveda, since in him all the three viz. R̥ks, the Yajus and Sāmans co-exist, that the father is pleased by R̥ks (i.e. by the feeding of a brāhmaṇa who has studied the Ṛgveda), the grand-father by Yajus, the great-grand-father by a Sāman and a _chandoga_ (a chanter of the whole of Samaveda) is superior. A verse of Satatapa is[^893] quoted to the effect that if a student of the Atharvaveda is fed in a rite for the gods or manes, that yields endless and inexhaustible rewards.
+The Kūrmapurāṇa states[^890] 
 
-Some of the smr̥tis were very strict in laying down the qualifications of brāhmaṇas to be invited at a śrāddha. Auśanasa (chap. 4) asserts: 'that brāhmaṇa[^894] is called _dur̥brāhmaṇa_ and should never be invited at a śrāddha in whose family Veda study and Vedi (i.e, the performance of Śrauta sacrifices) have been stopped for three generations'.
+> 'that man whose offering (of food ) is eaten by a _yati_ that knows the truth about _prakr̥ti_ (primordial matter) and the _guṇas_ (_sattva_, _rajas_ and _tamas_) reaps the reward (merit) of feeding a thousand (other brāhmaṇas). Therefore one should feed in offerings to gods and manes an excellent _yogin_ who is intent on true knowledge of God and others only if such a one is not available.' 
+
+### śākhā-praises
+Similar verses about ascetics and yogins occur in Varāhapurāṇa 14.50, Skanda (VI.217.7 ff) and Vayupurāṇa[^891] chap.71.65-73, chap.76.28 &c. Bṛhaspati provides[^892] a special rule that, if a person cannot afford to feed at a śrāddha more than one brāhmaṇa, then he should feed one who has studied the Sāmaveda, since in him all the three viz. R̥ks, the Yajus and Sāmans co-exist, that the father is pleased by R̥ks (i.e. by the feeding of a brāhmaṇa who has studied the Ṛgveda), the grand-father by Yajus, the great-grand-father by a Sāman and a _chandoga_ (a chanter of the whole of Samaveda) is superior. A verse of Satatapa is[^893] quoted to the effect that if a student of the Atharvaveda is fed in a rite for the gods or manes, that yields endless and inexhaustible rewards.
+
+### durbrāhmaṇa
+Some of the smr̥tis were very strict in laying down the qualifications of brāhmaṇas to be invited at a śrāddha. Auśanasa (chap. 4) asserts: 
+
+> 'that brāhmaṇa[^894] is called _durbrāhmaṇa_ and should never be invited at a śrāddha in whose family Veda study and Vedi (i.e, the performance of Śrauta sacrifices) have been stopped for three generations'.
 
 [^890]: प्रकृतेर्गुणतत्त्वज्ञो यस्याश्नाति यतिर्हविः। फलं वेदान्तवित्तस्य ( वेदविदां तस्य सहस्रादतिरिच्यते ॥ तस्माद्यत्नेन योगीन्द्रमीश्वरज्ञानतत्परम् । भोजयेद्धव्यकव्येषु अलाभादि तरान्द्विजान् । कूर्म (उत्तरार्ध 21. 17-18), q by श्रा. प्र. p. 73, हेमाद्रि p.413 (2nd) verse) and p. 417 (first verse).
 
@@ -1158,9 +1166,33 @@ Some of the smr̥tis were very strict in laying down the qualifications of brāh
 
 [^894]: यस्य वेदश्च वेदी च विच्छिद्यते त्रिपूरुषम्। स वै दुर्ब्राह्मणो ज्ञेयः श्राद्धादौ न कदाचन ॥ औशनसस्मृति (Jiv, I. p.524), बौ. गृ. परिभाषासूत्र I. 10 6 (Which reads नाम यश्चैव वृषलीपतिः);q. by अपरार्क p. 286 and p. 449 and हेमादि p.357 as यम's. Vide त्रिकाण्डमण्डन I. 134-135 for similar definitions.
 
-The same author[^895] further says that six persons are merely _brahmabamdhus_ (i.e. brāhmaṇas by birth or caste alone) viz. one who is hired by a śūdra or a king as a servant, who has a śūdra woman as his wife, who is a village priest and he who subsists by killing (animals) or by catching them. So early as the Mahābhāsya[^896] it was stated that austerities (leading a life of restraint and strict observances), Vedic learning and birth (from brāhmaṇa parents) are the causes of (a man being called) a brāhmaṇa and that he who is devoid of the first two is a mere brāhmaṇa by caste (but not a real brāhmaṇa). It is curious to note that Yama stated that, if brāhmaṇas that do not declare (or point out) the auspicious nakṣatra or _tithi_ or day or muhūrta and other auspicious matters, eat (śrāddha) food it becomes inexhaustible.
+The same author[^895] further says that six persons are merely _brahma-bandhus_ (i.e. brāhmaṇas by birth or caste alone) viz. 
 
-But the requisite qualifications were so exacting that it must have been found almost impossible to secure for a śrāddha brāhmaṇas altogether free from any of the blemishes set out above from Manu. Gautama (15. 15-18) contains long lists[^897] of over 50 kinds of brāhmaṇas that were not to be invited at a śrāddha dinner or at a sacrifice for gods, but Gaut. adds that according to some only those beginning with '_durvāla_' (Gaut. in 15.18) were to be shunned at a śrāddha (but could be invited at a sacrifice for the gods). The persons so to be shunned, according to some who flourished before Gautama (i.e. at least before 600 B. C.) are: a bald man, a man who has deformed nails or has black teeth (naturally), one suffering from white leprosy, the son of a re-married woman, a gambler, one who neglects _japa_ ( the recitation of Vedic mantras), a servant of the king, one who uses false weights and measures, one whose (only) wife is a sūdra female, one who does not perform the daily five sacrifices, one who suffers from a virulent skin disease, a usurer, one who lives by trade or by handicrafts, one who makes his living by (manufacturing) bows (and arrows) or by playing on musical instruments or by keeping time (when another is singing), or by dancing or singing.
+- one who is hired by a śūdra or a king as a servant, 
+- who has a śūdra woman as his wife, 
+- who is a village priest and 
+- he who subsists by killing (animals) or by catching them. 
+
+So early as the Mahābhāsya[^896] it was stated that austerities (leading a life of restraint and strict observances), Vedic learning and birth (from brāhmaṇa parents) are the causes of (a man being called) a brāhmaṇa and that he who is devoid of the first two is a mere brāhmaṇa by caste (but not a real brāhmaṇa). It is curious to note that Yama stated that, if brāhmaṇas that do not declare (or point out) the auspicious nakṣatra or _tithi_ or day or muhūrta and other auspicious matters, eat (śrāddha) food it becomes inexhaustible.
+
+
+### Persons to be shunned
+But the requisite qualifications were so exacting that it must have been found almost impossible to secure for a śrāddha brāhmaṇas altogether free from any of the blemishes set out above from Manu. Gautama (15. 15-18) contains long lists[^897] of over 50 kinds of brāhmaṇas that were not to be invited at a śrāddha dinner or at a sacrifice for gods, but Gaut. adds that according to some only those beginning with '_durvāla_' (Gaut. in 15.18) were to be shunned at a śrāddha (but could be invited at a sacrifice for the gods). The persons so to be shunned, according to some who flourished before Gautama (i.e. at least before 600 B. C.) are: 
+
+- a bald man,
+- a man who has deformed nails or has black teeth (naturally),
+- one suffering from white leprosy,
+- the son of a re-married woman, 
+- a gambler, 
+- one who neglects _japa_ ( the recitation of Vedic mantras),
+- a servant of the king, 
+- one who uses false weights and measures, 
+- one whose (only) wife is a sūdra female, 
+- one who does not perform the daily five sacrifices, 
+- one who suffers from a virulent skin disease,
+- a usurer, 
+- one who lives by trade or by handicrafts, 
+- one who makes his living by (manufacturing) bows (and arrows) or by playing on musical instruments or by keeping time (when another is singing), or by dancing or singing.
 
 [^895]: शूद्रप्रेष्यो भृतो राज्ञा वृषली ग्रामयाजकः । वधबन्धोपजीवी च षडेते ब्रह्मबन्धवः ॥ औशनस (Jiv. I.) p. 525, q. by अपरार्क p. 449. ब्रह्मबन्धु is a contemptuous term for one who is a ब्राह्मण in name only (and has not studied the Veda).
 
@@ -1168,10 +1200,9 @@ But the requisite qualifications were so exacting that it must have been found a
 
 [^897]: कुण्डाशि-सोमविक्रय्यगारदाहि-गरदावकीर्णि-गणप्रेष्यागम्यागामि-हिंस्र-परिवित्ति परिवेत्तृ पर्याहित-पर्याधातृ-त्यक्तात्म-दुर्वाल-कुनखि-श्यावदन्त-श्चित्रि-पौनर्भव-कितवाजय-राज प्रेष्य-प्रातिरूपिक शूद्रापति-निराकृति-किलासि-कुसीदि-वणिक शिल्पोपजीवि-ज्यावादित्रताल-नृत्य-गीतशीलान् ।... दुर्वालादीन् श्राद्ध एवैके। अकृतान्नश्राद्धे चैवम् । गौ. 15. 18,31-32. Words joined by _sandhi_ rules have not been separated by a hyphen.
 
-## Persons to be shunned
+Vas. quotes a verse[^898] as follows: If a brāhmaṇa knowing the Vedas is afflicted with physical defects which (ordinarily ) exclude a person from a row of diners, Yama declares that he is irreproachable and that he does sanctify the row of diners. But it must be said that even in modern times emphasis is laid on inviting learned and well-conducted brāhmaṇas for śrāddha. The idea (expressed by Manu III. 189 and the Padmapurāṇa) persists that the _pitṛs_ enter into and hover round the invited brāhmaṇas and that the latter are to be looked upon as representing the _pitṛs_[^899]. The Garuḍapurāṇa states that Yama allows the departed souls and the pitṛs to visit the world of men at the time of śrāddha from the nether regions.
 
- Vas. quotes a verse[^898] as follows: If a brāhmaṇa knowing the Vedas is afflicted with physical defects which (ordinarily ) exclude a person from a row of diners, Yama declares that he is irreproachable and that he does sanctify the row of diners. But it must be said that even in modern times emphasis is laid on inviting learned and well-conducted brāhmaṇas for śrāddha. The idea (expressed by Manu III. 189 and the Padmapurāṇa) persists that the _pitṛs_ enter into and hover round the invited brāhmaṇas and that the latter are to be looked upon as representing the _pitṛs_[^899]. The Garuḍapurāṇa states that Yama allows the departed souls and the pitṛs to visit the world of men at the time of śrāddha from the nether regions.
-
+## Niyamas
 The Viṣṇu Dh. S. (79.19-21) prescribes that the performer should avoid wrath, should not shed tears and should not do things in a hurry. The Varāhapurāṇa[^900] provides that the performer should not employ twigs for brushing the teeth (but should rinse his mouth twelve times with water), should remain chaste and pure. Āp. Dh. S. prescribes[^901] that the performer should not eat food from the commencement (from the time he goes out to invite) up to the end of the śrāddha rite.
 
 [^898]: अथाप्युदाहरन्ति। अथ चेन्मन्त्रविद्युक्तः शारीरैः पङ्क्तिदूषणैः। अदुष्यं तं यमः प्राह पङ्क्तिपावन एव सः॥ वसिष्ठधर्मसूत्र XI. 20, q. by मेधातिथि on मनु III. 168. The verse is also अत्रि 350-51 and लघुशङ्ख 22.
@@ -1182,7 +1213,12 @@ The Viṣṇu Dh. S. (79.19-21) prescribes that the performer should avoid wrath
 
 [^901]: आरब्धे चाभोजनमा समापनात् । आप. ध. सू II. 7.17.24.
 
-The Kūrma (uttarārdha 22.8) states that if a person first invites a brāhmaṇa and then foolishly invites another (passing over the first) then he becomes a greater sinner (than the brāhmaṇa who after accepting one invitation promises to dine at another śrāddha) and is born as a worm in human faeces. The Bhaviṣyapurāṇa[^902] provides that honouring gods, pitṛs and men and feeding (brāhmaṇas) should not be done without wearing an upper garment; otherwise the rite will bear no fruit.
+The Kūrma (uttarārdha 22.8) states that if a person first invites a brāhmaṇa and then foolishly invites another (passing over the first) then he becomes a greater sinner (than the brāhmaṇa who after accepting one invitation promises to dine at another śrāddha) and is born as a worm in human faeces. 
+
+The Bhaviṣyapurāṇa[^902] provides that honouring gods, pitṛs and men and feeding (brāhmaṇas) should not be done without wearing an upper garment; otherwise the rite will bear no fruit.
+
+
+### Number of Invitees
 
 About the number of brāhmaṇas to be invited at a śrāddha there were several options and several views. The Āsv. Gr. S. states[^903] that at the Pārvaṇa-śrāddha (performed on a _parvan_ day i.e. on Amāvāsya), the Ābhyudayika śrāddha, the Ekod diṣṭa or _Kāmya_, the larger the number of brāhmaṇas the greater is the reward, that in no case should a person invite only one brāhmaṇa at a śrāddha meant for all pitṛs or he may optionally invite only one brāhmaṇa except at the first śrāddha, that he may invite one, two or three brāhmaṇas for each of the three paternal ancestors. The Sān. Gr. (IV. 1,2) and Kauṣītaki Gr. III. 14.1-2 prescribe that one should[^904] invite an uneven number of brāhmaṇas, at least three, to sit down as (representing the) fathers. Gaut. requires[^905] 'He shall feed an uneven number of brāhmaṇas, at least nine or as many as he is able (to feed) and that they should be learned in the Veda and endowed with polished speech, good appearance, mature age and good character'.
 
@@ -1193,8 +1229,6 @@ About the number of brāhmaṇas to be invited at a śrāddha there were several
 [^904]: अथ मासि मासि पितृभ्यो दद्यात् । ब्राह्मणान्वेदविदुषोऽयुग्मान् त्र्यवरार्ध्यान् पितृवटुपवेश्यायुग्मानि तिलपात्राणि तिलैरवकीर्य ब्राह्मणानां पाणिषु निनयेत् । कौषीतकिगृ, III. 14.1-2.
 
 [^905]: अमावास्यां पितृभ्यो दद्यात् ।...नवावरान् भोजयेदयुजः। यथोत्साहं-या श्रोत्रियान्वाग्रूपवयःशीलसम्पन्नान ।...एके पितृवत् । गौ. ध. सू. 15.2, 7-9, 11 हरदत्त explains 'एके मन्यन्ते पित्राद्यनुरूपं दानमिति। यथा पित्रे तरुणाः पितामहाय वृद्धा प्रपितामहाय वृद्धतरा इति'।.गौतम and others simply echo what is said in शेतपथ.ब्रा. II. 4.2.7-8 about offering food to pitṛs on amāvāsya.
-
-## Number of Invitees
 
 If five were invited two would be for gods and three for pitṛs; if seven, then four for gods and three for pitṛs and so on. Vas. XI. 27 ( = Manu III, 125 = Baud. Dh. S. II. 8. 29), Yāj. I. 228, Matsya 17. 13-14, Viṣṇupurāṇa III. 15.14 provide that one must feed two brāhmaṇas at the rite for the gods and three for the manes or one only for each of the two purposes and even a rich man should not go in for a large company. The Padma purāṇa (Sṛṣṭi 9.98 and 141) says the same thing. So the number of brāhmaṇas to be invited did not depend so much upon the means of the inviter, but upon the point whether the inviter would be able to honour them all properly and with ease. The idea was that at the same time when śrāddha was to be performed two brāhmaṇas should be fed for gods and three for the pitṛs. When only one brāhmaṇa could be invited or was available, Vas. (XI. 30-31) provides that portions of the several foods cooked should be put in a vessel and should be placed at the place where Vaiśvadevika brāhmaṇa would have been seated, then served in a plate and the _viśve devāḥ_ be invoked and should be contemplated as present and then the food should be thrown into the fire or offered to a Vedic student (as alms) and then śrāddha rite should be continued. Śaṇkha[^906] 14.10 provides a similar rule. The result is that if a man can afford to invite only one brāhmaṇa or can secure one only, then that brāhmaṇa is meant for the rite in honour of pitṛs and the offering for the gods is to be cast into fire. Baud, Dh, S. II, 8.30, Manu TIL. 126, Vas. XI. 28, Kūrma (uttarārdha 22.28 ) contain the same verse which emphatically states 'A large company destroys these five _desiderata_, viz. the respectful treatment (of those invited), the securing of a proper place (such as one sloping to the south) and time, purity and (the choice of) meritorious brāhmaṇas; therefore one should not desire a large company'[^907].
 
@@ -1210,7 +1244,7 @@ The Kūrmapurāṇa (uttarārdha 92.32) insists that an _atithi_ must be fed at 
 
 [^909]: सतिलं नामगोत्रेण दद्याच्छक्त्या च दक्षिणाम् ॥ गोभूहिरण्यवासांसि भध्यानि शयनानि च। दद्याद्यदिष्टं विप्राणामात्मनः पितुरेव च ॥ वित्तशाठ्येन रहितः पितृभ्यः प्रीतिमाहरन्। पद्मपुराण, सृष्टिखण्ड 9. 179-181.
 
-## Lavish expenditure recommended
+### Lavish expenditure recommended
 
 The Padmapurāṇa appears to inculcate profuse expenditure of wealth in all śrāddhas. The Vāyupurāṇa[^910] (82. 26-28 ) further says that the brāhmaṇas of Gayā are supermen, that when they are gratified (at a śrāddha) the gods together with pitṛs become gratified, that no question should be raised about the family, the character, the learning and the austerities (of the Gayā brāhmaṇas), that by honouring them a man attains liberation, that a man after honouring the brāhmaṇas should proceed according to his resources and strength to the performance of śrāddha; thereby he secures all heavenly desires and obtains the means of _Mokṣa_. The Skandapurāṇa goes so far as to say that Gayā brāhmaṇas even if they are depraved in their conduct and are backward deserve to be invited at śrāddha and are superior to brāhmaṇas who have mastered the Veda and Vedāngas. The Nirṇayasindhu (III. p. 401 ) notes that, according to the Tristhalisetu of his grandfather, this provision holds good only in the case of the śrāddha at the Akṣayya Vaṭa in Gaya and nowhere else. In modern times the brāhmaṇas at Gayā used to require the performer of śrāddha while he was in the sacred Phalgu river to make a declaration about his wealth and demanded fees accordingly, thereby carrying to the letter the words of the Vāyupurāṇa. Many people returned from Gayā thoroughly disillusioned and disgusted with the conduct of the brāhmaṇas at Gayā. In the Varāhapurāṇa[^911] it is said that two verses were sung by the pitṛs viz. 'Would such a blessed and intelligent man be born in our family who will offer piṇḍas (i.e. śrāddha) to us without being stingy about wealth and who would bestow on brāhmaṇas with reference to us (i.e. for our benefit) jewels, clothes, land, costly vehicles and all other kinds of wealth including water, when he has riches enough?' Here lavish expenditure on all śrāddhas (not only at Gayā. śrāddha) appears to be strongly recommended.
 
@@ -1230,15 +1264,53 @@ Rules were laid from very ancient times about the method of inviting brāhmaṇa
 
 [^912a]: पूर्वेद्युर्निवेदनम् । अपरेद्युर्द्धितीयम् । तृतीयमामन्त्रणम् । आप. ध. सू. II. 7.17. 11-13; हरदत्त explains ' श्वः श्राद्धं भविता तत्र भवाताहवनीयार्थे प्रसादः कर्तव्य इति'। The exact procedure would be पूर्वेद्युर्निशि ब्राह्मणगृहं गत्वा दर्भपाणिरुदङ्मुखः पातितदक्षिणजानुरुपवीती प्राङ्मुखोपविष्टद्विजदक्षिणजानुं दक्षिणकरेण स्पृशन् श्चो नः पितृकार्ये भविता तत्र विश्वेदेवस्थाने आहवनीयार्थै भवद्भिः क्षणः स्वीकर्तव्यः प्रसीदत ।' पृथीचन्द्रोदय (on श्राद्ध) folio 55a. For पैतृकबाह्मणनिवेदन the difference will be पातितवामजानुर्दक्षिणामुखः प्राचीनावीती उदङ्मुखं ब्राह्मणं &c.
 
-## Time of Invitation
+### Invitation
+#### Time of Invitation
 
-Manu III. 187 also says that the invitation should be on the previous day or on the day of the śrāddha itself. The Matsyapurāṇa[^913] and Padma (Sṛṣti-khaṇḍa 9.85-88) provide that the person intending to perform a śrāddha should in an humble manner invite the brāhmaṇas on the previous day or (in the morning of the day of śrāddha, that he should touch the right knee (of the brāhmaṇa to be invited) with the words 'you are given this invitation by me' and repeat in their hearing the following observance 'you should be free from anger, should be intent on purity (of body and mind) and should abstain from sexual intercourse and I, the performer of śrāddha, shall also act in the same way and that the pitṛs in an aerial form wait upon the invited brāhmaṇas.' The Bṛhan-nāradīya-purāṇa states that the invitation should be in the words 'O best men! You should do me a favour and accept the invitation for śrāddha.' It is noteworthy that the Prajāpati-smṛti (63) prescribes that one should invite brāhmaṇas for a śrāddha or sacrifice for gods in the evening of the previous day after uttering the verse 'akrodhanaiḥ &c.'[^914] The Skandapurāṇa VI. 217. 37 says that the performer should address the brāhmaṇa as follows: 'my father (is or will enter) into this your body and so will my grand-father; let him (the grand-father) come with his father and you should strictly observe the _vrata_' (the rules). The invitation to the brāhmaṇas representing pitṛs is to be given with the sacred thread in the _prācīnāvīta_ form and to those for Vaiśvadevika in the _yajñopavīta_ form.
+Manu III. 187 also says that the invitation should be on the previous day or on the day of the śrāddha itself. The Matsyapurāṇa[^913] and Padma (Sṛṣti-khaṇḍa 9.85-88) provide that the person intending to perform a śrāddha should in an humble manner invite the brāhmaṇas on the previous day or (in the morning of the day of śrāddha, that he should touch the right knee (of the brāhmaṇa to be invited) with the words 'you are given this invitation by me' and repeat in their hearing the following observance 
 
-[^913]: पूर्वेद्युरपरेद्युर्वा विनीतात्मा निमन्त्रयेत्। निमन्त्रितान्हि पितर उपतिष्ठन्ति तान् द्विजान्। वायुभूतानु गच्छन्ति तथासीनानुपासते॥ दक्षिणं जानुमालभ्य त्वं मया तु निमन्त्रितः । एवं निमन्त्र्य नियमं श्रावयेत्पितृबान्धवान् ॥ अक्रोधनैः शौचपरैः सततं ब्रह्मचारिभिः। भवितव्यं भवद्भिश्च मया च श्राद्धकारिणा॥ मत्स्य 16. 17-20, q. by श्रा.क्रि. कौ. p. 81, श्राद्धतत्व p. 194. The verse निमन्त्रितान् occurs in मनु III. 189 (which reads वायुवच्चानुगच्छन्ति), हेमादि (श्रा. p. 763) quotes the verse दक्षिणं जानुं (but reads श्रावयेत् पैतृकान् बुधः) and स्मृतिच. (आ.) p. 406 quotes both. पद्मपुराण (सृष्टिखण्ड 9.85-88) has the same verses with some slight variations, Vide हेमाद्रि (on श्रा.) p, 1258.
+> 'you should be free from anger, should be intent on purity (of body and mind) and should abstain from sexual intercourse and I, the performer of śrāddha, shall also act in the same way and that the pitṛs in an aerial form wait upon the invited brāhmaṇas.' 
+
+The Bṛhan-nāradīya-purāṇa states that the invitation should be in the words 'O best men! You should do me a favour and accept the invitation for śrāddha.' It is noteworthy that the Prajāpati-smṛti (63) prescribes that one should invite brāhmaṇas for a śrāddha or sacrifice for gods in the evening of the previous day after uttering the verse 'akrodhanaiḥ &c.'[^914] 
+
+The Skandapurāṇa VI. 217. 37 says that the performer should address the brāhmaṇa as follows: 
+
+> 'my father (is or will enter) into this your body and so will my grand-father; let him (the grand-father) come with his father and you should strictly observe the _vrata_' (the rules).
+
+The invitation to the brāhmaṇas representing pitṛs is to be given with the sacred thread in the _prācīnāvīta_ form and to those for Vaiśvadevika in the _yajñopavīta_ form.
+
+[^913]: 
+
+    > पूर्वेद्युरपरेद्युर् वा  
+    विनीतात्मा निमन्त्रयेत्।  
+    निमन्त्रितान्हि पितर  
+    उपतिष्ठन्ति तान् द्विजान्।  
+    वायुभूतानु गच्छन्ति  
+    तथासीनानुपासते॥  
+    दक्षिणं जानुमालभ्य  
+    त्वं मया तु निमन्त्रितः ।  
+    एवं निमन्त्र्य नियमं  
+    श्रावयेत्पितृबान्धवान् ॥  
+    >
+    > अक्रोधनैः शौचपरैः  
+    सततं ब्रह्मचारिभिः।  
+    भवितव्यं भवद्भिश्च  
+    मया च श्राद्धकारिणा॥ 
+    
+    मत्स्य 16. 17-20, q. by श्रा.क्रि. कौ. p. 81, श्राद्धतत्व p. 194. The verse निमन्त्रितान् occurs in मनु III. 189 (which reads वायुवच्चानुगच्छन्ति), हेमादि (श्रा. p. 763) quotes the verse दक्षिणं जानुं (but reads श्रावयेत् पैतृकान् बुधः) and स्मृतिच. (आ.) p. 406 quotes both. पद्मपुराण (सृष्टिखण्ड 9.85-88) has the same verses with some slight variations, Vide हेमाद्रि (on श्रा.) p, 1258.
 
 [^914]: अक्रोधनैः शौचपरैरिति गाथामुदीरयन्। सायमामन्त्रयेद्विमान् श्राद्ध दैवे च कर्मणि ॥ प्रजापति 63. It is therefore likely that the Prajāpati-smṛti is much later than the Matsyapurana or it is possible that the verse अक्रोधनैः is an ancient one and only repeated by the मत्स्य. Compare मनु III. 192 Where we have the words 'अक्रोधनाः शौचपराः सततं ब्रह्मचारिणः'. नारदपुराण (पूर्वार्ध 28.20) puts the request as 'श्राद्धे क्षणस्तु कर्तव्यः प्रसादश्वेति सत्तम।'. This supports the Mit. on Yaj. I. 225.
 
-On the question whether the Vaiśvadevika brāhmaṇas were to be invited first or the brāhmaṇas for pitṛs were to be invited first there is a conflict among smṛtis and the medieval digests propose an option (vide Hemādri on śrāddha pp. 1154-1157). Manu III. 205 appears to lay down that the daiva brāhmaṇa should be invited first (daivādyantam tad-iheta). Yama quoted by several digests[^915] says that the performer should request in the evening of the previous day brāhmaṇas with the words 'You should all be free from exertions and should avoid passion and anger for the śrāddha in my house which is to be performed tomorrow,' that the brāhmaṇas should reply 'let it be so if the night passes happily and without any mishap to us'. The digests (e.g. Śrāddhakriyākaumudi p. 81, Śrāddhatattva p. 194 and Nirṇayasindhu III, p. 804) say that the verse 'sarvāyāsa &c,' may be repeated when the invitation is given on the day previous to the day of śrāddha and the verse 'akrodhanaiḥ' when the invitation is given on the morning of the śrāddha day. The words of invitation differ according to different authorities. For example, according to the Mit. on Yāj. I. 225 the words are 'śrāddhe kṣaṇaḥ kriyatām.'. Vide Sr. Pr. p. 106 also, Manu III. 187 and 191 show that the words 'nimantraṇa' and 'āmantraṇa' are used as synonyms. In the Śrāddhasūtra[^916] of Kātyāyana the word 'āmantrana' is used. But Pānini[^917] (III. 3. 161) apparently makes a difference between the meanings of the two words and the Mahābhāṣya explains that invitation is called 'nimantraṇa' which if rejected (without proper cause) involves a fault or sin, while that invitation which one is free to reject (without incurring blame) is called 'āmantraṇa.' Therefore, it must be held that the few writers such as Kātyāyana who employ āmantraṇa use it in a secondary sense.
+#### Sequence
+On the question whether the Vaiśvadevika brāhmaṇas were to be invited first or the brāhmaṇas for pitṛs were to be invited first there is a conflict among smṛtis and the medieval digests propose an option (vide Hemādri on śrāddha pp. 1154-1157). Manu III. 205 appears to lay down that the daiva brāhmaṇa should be invited first (daivādyantam tad-iheta). 
+
+#### Words
+Yama quoted by several digests[^915] says that the performer should request in the evening of the previous day brāhmaṇas with the words 'You should all be free from exertions and should avoid passion and anger for the śrāddha in my house which is to be performed tomorrow,' that the brāhmaṇas should reply 'let it be so if the night passes happily and without any mishap to us'. The digests (e.g. Śrāddhakriyākaumudi p. 81, Śrāddhatattva p. 194 and Nirṇayasindhu III, p. 804) say that the verse 'sarvāyāsa &c,' may be repeated when the invitation is given on the day previous to the day of śrāddha and the verse 'akrodhanaiḥ' when the invitation is given on the morning of the śrāddha day. 
+
+The words of invitation differ according to different authorities. For example, according to the Mit. on Yāj. I. 225 the words are 'śrāddhe kṣaṇaḥ kriyatām.'. 
+
+### āmantraṇa vs nimantraṇa
+Vide Sr. Pr. p. 106 also, Manu III. 187 and 191 show that the words 'nimantraṇa' and 'āmantraṇa' are used as synonyms. In the Śrāddhasūtra[^916] of Kātyāyana the word 'āmantrana' is used. But Pānini[^917] (III. 3. 161) apparently makes a difference between the meanings of the two words and the Mahābhāṣya explains that invitation is called 'nimantraṇa' which if rejected (without proper cause) involves a fault or sin, while that invitation which one is free to reject (without incurring blame) is called 'āmantraṇa.' Therefore, it must be held that the few writers such as Kātyāyana who employ āmantraṇa use it in a secondary sense.
 
 [^915]:  प्रार्थयेत प्रदोषान्ते भुक्त्वान्नं शयितान् द्विजान्॥ सर्वायासविनिर्मुक्तैः कामक्रोधविवर्जितैः । भवद्भिर्भवितव्यं नः श्वोभूते श्राद्धकर्मणि ॥ ते तं तथेत्यविघ्नेन याति चेद्रजनी सुखम् । यथाश्रुतं प्रतीक्षेरन् श्राद्धकालमतन्द्रिताः ॥ यम q. by श्रा. कि. को. p. 80, श्राद्ध तत्व p. 194, मद. पा. 564 (from अत्रि).
 
@@ -1246,7 +1318,7 @@ On the question whether the Vaiśvadevika brāhmaṇas were to be invited first 
 
 [^917]: विधिनिमन्त्रणामन्त्रणाधीष्टसंप्रश्नप्रार्थनेषु लिङ्ग । पाणिनि III. 3. 161. the महाभाष्य explains (Kielhorn, vol. II. p. 165) : यत्नियोगतः कर्तव्यं तन्निमन्त्रणम् किं पुनस्तत्। हव्यं कव्यं वा। ब्राह्मणेन सिद्धं भुज्यतामित्युक्तेऽधर्मः प्रत्याख्यातुः आमन्त्रणे कामचारः।' The श्रा. कि. को. p. 82, टोडरानन्द (श्राद्धसौख्य folio 51) and श्रादतत्व p. 192 refer to this distinction between the two words.
 
-## Mode of inviting a brāhmaṇa
+### Mode of inviting a brāhmaṇa
 
 The invitation should be given by a performer himself or by his son, brother or a pupil or a brāhmaṇa, but it should not be given through a person of another _varṇa_[^918] or a woman or a child or person belonging to another _gotra_ nor from a distance (Prajāpati 64). Pracetas provides that a brāhmaṇa performer of śrāddha when giving an invitation should touch the right knee, a kṣatriya inviter the left knee of the invitee, a Vaiśya inviter should hold both feet of the invitee and a śūdra should prostrate himself at the feet of the invitee (vide Sr. Pr. p. 106 and S. K. L. p. 47 ). The Mārkaṇḍeya (28. 35) states an exception that if, when a śrāddha rite is going on, brāhmaṇas or Vedic students or ascetics come by chance begging for food, the performer should make them pleased by falling at their feet and feed them (i.e. no formal invitation is necessary in these cases). Vide Viṣṇupurāṇa III. 15. 12 for feeding uninvited ascetics. It is provided by Bhṛgu quoted by Hemādri that the brāhmaṇas on accepting the invitation should pronounce the finely-worded and comprehensive Vedic benediction quoted below[^919].
 
