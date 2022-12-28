@@ -10,7 +10,7 @@ Abhicāra 35 Abhidroha 5 Abhiśasta 13 Abhivanya 426 Abhyudayikasrāddha 359n Ā
 
 Atatāyin 19 Ativahika 160n, 265 Atidesa 95 Atithi 396 Atreyi 13 Aturasannyāsa 185 Atyantopahata 315n Audumbara 73n Avakirnin 112 Avibhaktadāya 365-366. Barhisad 343 Bijin 536n Brahmabandhu 400n Brahmamedha 228n, 254 Brahmanabruva 270n Brāhmanāgrya 400n Brabmodya 464n Bbrūna 11n
 
-Caityavrksa 115, 332 Cata 263 Cândrāyana 134 Caturhotāraḥ 230 Citi 115, 332 Citrikarana 706n Dandakalita 145 Darbha 417n Dauhitra 376n, 4130 Desantara 285 Dhruvasraddha 517 Didhiṣu or-su 11n, 39411 Didhisüpati 110 Dimbāhava 305n Drugdha 5 Durbrāhmana 399n Durita 7 Duskrta 7 Ekāha 295 Ekoddista 380 Enas 5-6 Enasvin 13 Gajacchāyā 3710 Gavyūti 590n Ghațaspbota 105
+Caityavrksa 115, 332 Cata 263 Cândrāyana 134 Caturhotāraḥ 230 Citi 115, 332 Citrikarana 706n Dandakalita 145 Darbha 417n Dauhitra 376n, 4130 Desantara 285 Dhruvasraddha 517 Didhiṣu or-su 11n, 39411 Didhisūpati 110 Dimbāhava 305n Drugdha 5 Durbrāhmana 399n Durita 7 Duskrta 7 Ekāha 295 Ekoddista 380 Enas 5-6 Enasvin 13 Gajacchāyā 3710 Gavyūti 590n Ghațaspbota 105
 
 POONA
 
@@ -32,7 +32,7 @@ Nimantrana 408 Nimittin 18 Nirākrti 394n Nirgrantha 395 Nirhāra 289n Nirmālya
 
 Ghosasānti 178 Gosthisraddha 381-382 Gotraja 266n Guru 24 Gurutalpaga 23
 
-Hatyā 17 Havisya 149 Hiranyaprāśana 49n Istāpūrta 193 Jartila 419n Jungita 105n Kāmya 60n, 369-370 Kandānusamaya 4420 Kāpalika 395 Karmavipaka 172-173, 176 Karpativesa 573n Karṣūsamanvita 473n Kauravya 6810 Krcchra 145 Kriyā 261 Ksetrin 536n Kumbhipaka 163 Kūrca 491n Kutapa 376-377, 413n Lepabhājah 483 Loka 165 Lostaciti 251 Madhuni, 45n Madbyama (kriya) 261 Māghyāvarsa 360 Mantha 426n Manvādi 375 Marjana 120, 133 Mataraḥ 529 Maukha 27n Mekṣana 443n Mülakarma 35 Nagna 395 Nagnapracchādana 220 Naimittika 60n, 369 Nalada 202, 203n Nandi 528n Nândimukha 359n Napāt 347n Navamisra 262-63, 517. Navasrāddha 262-63, 517 Nilavrsa 540n
+Hatyā 17 Havisya 149 Hiranyaprāśana 49n Istāpūrta 193 Jartila 419n Jungita 105n Kāmya 60n, 369-370 Kandānusamaya 4420 Kāpalika 395 Karmavipaka 172-173, 176 Karpativesa 573n Karṣūsamanvita 473n Kauravya 6810 Krcchra 145 Kriyā 261 Ksetrin 536n Kumbhipaka 163 Kūrca 491n Kutapa 376-377, 413n Lepabhājah 483 Loka 165 Lostaciti 251 Madhuni, 45n Madbyama (kriya) 261 Māghyāvarsa 360 Mantha 426n Manvādi 375 Marjana 120, 133 Mataraḥ 529 Maukha 27n Mekṣana 443n Mūlakarma 35 Nagna 395 Nagnapracchādana 220 Naimittika 60n, 369 Nalada 202, 203n Nandi 528n Nândimukha 359n Napāt 347n Navamisra 262-63, 517. Navasrāddha 262-63, 517 Nilavrsa 540n
 
 Padarthanusamaya 442n Pākayajña 112n Paksini 278n Pancajanāḥ 344 n Pañcāmrtasnāna 364n Papa 8 Paravartana 118 Paridhi 199n Paridhikarma 244 Parisamūhana 213 Paristarana 213 Parivedana 33 Parivinna 11n, 12 Parivitta 11n Parivividāna 11n, 12 Parsad 86 Parvana 380 Paryāhita 12 Paryuksana 213 Pata 275 Pataka 1, 10 Pataniya 10, 12 Patheyasraddha 219 Pāvamāni 45 Pavitra 440n Pindanvāhārayaka 3621 Pipīlikāmadhya 135 Pitrmedha 228n, 254 Pitrtirtha 435n Pitryajna 201 Prajāpatya 145 Pranapāt 347n Prāsangika 15 Prasava 275 Prāsitrabarana 207n Prasrtiyāvaka 143 Prasuti 275
 

@@ -39,7 +39,7 @@ xviiXviii
 
 yet found. Extracts collected by me and translated in 
 
-English ). 400 A, D.- 600 A. D. -- Kamandaklyanitisāra. 505 A. D. — 587 A. D. - Varāhamihira, author of Brhatsamhita, 
+English ). 400 A, D.- 600 A. D. -- Kamandaklyanitisāra. 505 A. D. — 587 A. D. - Varāhamihira, author of Br̥hatsamhita, 
 
 Brhajjātaka, Pancasiddhāntikā and other works. 600 A. D. -650 A. D. - Bana, author of the Kadambari and 
 

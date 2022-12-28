@@ -57,7 +57,7 @@ Gaikwad Oriental series 300 A. D.-600 A. D. Some of the extant Purānas such as 
 
 Visnu, Mārkandeya, Matsya, Kūrma 500 A. D.-550 A. D.-Varāhamihira, author of Pañca-siddhāntikā,
 
-Brhatsamhitā, Brhat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
+Br̥hatsamhitā, Br̥hat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
 
 carita 650-665 A. D.--Kaśikā, commentary by Vamana and Jayāditya on
 
@@ -65,7 +65,7 @@ Panini's Astādhyāyi 650-700 A.D.-Kumārilabhatta, author of Tantravārtika and
 
 works. 600 A. D.-900 A.D. Most of the smrtis such as those of Parasara,
 
-Sankha, Devala and some of the Puranas such as Agni, Garuda. 788 A. D.-820 A.D.-Sankarācārya, the great Advaita philosopher 800 A. D.-850 A. D.--Visvarüpa, the commentator of Yājñavalkya
+Sankha, Devala and some of the Puranas such as Agni, Garuda. 788 A. D.-820 A.D.-Sankarācārya, the great Advaita philosopher 800 A. D.-850 A. D.--Visvarūpa, the commentator of Yājñavalkya
 
 smrti 825 A. D.-900 A. D.-Medhātithi, a commentator of Manusmrti 966 A, D.-Utpala composed his commentary on the BỊhajjātaka of
 
@@ -75,7 +75,7 @@ works 1080 A. D.-1100 A. D.--Vijñāneśvara, the author of the Mitākṣarā
 
 commentary on Yajñavalkya-smrti 1080 A. D.-1110 A. D. Govindarāja, a commentator of Manusmrti 1100-1130 A. D.-Laksmīdhara, the author of a vast digest on
 
-Dharmasastra called Kalpataru or Krtyakalpataru 1100-1150 A. D.-Jimütavāhana, author of the Dāyabhāga, Kāla
+Dharmasastra called Kalpataru or Krtyakalpataru 1100-1150 A. D.-Jimūtavāhana, author of the Dāyabhāga, Kāla
 
 viveka and Vyavahāramātrkā. 1100-1150 A. D. Bhavadevabhatta, author of Prāyaścitta-prakarana
 
@@ -165,7 +165,7 @@ Suddhicandrika, Dattakamimāmsā 1610-1640--Kamalakarabhatta, author of Nirnayas
 
 20 works besides 1610-1640--Viramitrodaya of Mitramiśra, of which Tirthaprakāśa,
 
-Prāyascittaprakāśa, Srāddhaprakāśa are parts 1610-1645-Nīlakantha, author of Bhagavantabhāskara in 12 Mayü
+Prāyascittaprakāśa, Srāddhaprakāśa are parts 1610-1645-Nīlakantha, author of Bhagavantabhāskara in 12 Mayū
 
 khas on Prāyaścitta, Suddhi, Srāddha and other topics 1700--1740-Smrtimuktāphala of Vaidyanātha o 1700-1750 A.D.-Nāgesa or Nagojibhatta, author of about 30 works
 

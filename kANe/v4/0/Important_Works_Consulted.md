@@ -51,7 +51,7 @@ Tantravārtika of Kumārila (Anan.) Kāțhaka-gļhya with the commentaries of Ad
 
 and Brāhmanabala (ed. by Dr. Caland, 1925) Kātyāyana-srauta-sutra (ed. by A. Weber) Kausikasūtra (ed. by Prof. Bloomfield) Kausitaki-gļhya-sūtra (Benares Sanskrit series) or Madras University
 
-Sanskrit series Khădiragshyasūtra with the com. of Rudraskanda (Mysore Govt.
+Sanskrit series Khādiragshyasūtra with the com. of Rudraskanda (Mysore Govt.
 
 Oriental Library series) Mānavagrhyasūtra with the com. of Astāvakra (G. O. S.) Nirukta of Yāska, ed. by Roth: sometimes the edition of Prof. V. K.
 
@@ -115,7 +115,7 @@ History of Dharmaśāstra
 
 PURĀNAS The Anandasrama editions of the Agni, Brahma, Brahmavaivarta,
 
-Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāna (text only) and the edition of the Narasimha purāna published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Nāradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupurāna and Visnu dharmottara have been used; the Nīlamatapurāna, ed. by
+Matsya, Padma and Vāyu bave been used; the Nirn. edition of the Bhagavatapurāṇa (text only) and the edition of the Narasimha purāṇa published by Messrs Gopal Narayan and Co. have been relied upon; the Venkatesvara Press editions of the Bhavisya, Brahmānda, Brhan-Naradiya (or simply Nāradiya), Garuda, Kālikā. Kurma, Linga, Markandeya, Visnupurāṇa and Visnu dharmottara have been used; the Nīlamatapurāṇa, ed. by
 
 Pandits Ramlal Kanjilal and Jagaddhar Zadoo (1924)
 
@@ -125,7 +125,7 @@ Oriental Library and in G. O. S. Antyakarmadīpaka of Nityānanda (Kashi Sanskri
 
 where a ms, of it was used. A parārka's commentary on the Yājñavalkyasmrti ( Anan.) Arthasāstra of Kautilya ( ed. by Dr. Sham Shastri, second ed.) Asaucadasaka of Vijñāneśvara (printed in Appendix pp. 832-833) Asaucāstaka of Vararuci (published in Trivandrum S. series) Balambhattī, commentary on the Mitāksarā on Yajñavalkya, ed. by
 
-Mr. Gharpure Barhaspatya-sūtra ( ed. by Dr. F. W. Thomas, Lahore 1921) Brahmanasarvasva-D. C. ms. No. 9 of A 1883-84 Brhatsamhita of Varahamihira with the com. of Utpala (ed. by
+Mr. Gharpure Barhaspatya-sūtra ( ed. by Dr. F. W. Thomas, Lahore 1921) Brahmanasarvasva-D. C. ms. No. 9 of A 1883-84 Br̥hatsamhita of Varahamihira with the com. of Utpala (ed. by
 
 M. M. Sudhakara Dvivedi) Dandaviveka of Vardhamana (G. O. S.) Dāyabhāga of Jimutavābana (Jiv.) Dharmadvaitanirnaya of Sankarabhatta (Ghar.) Dharmasindhu of Kāśınātha with Marathi translation (Nirn., 6th ed.
 
