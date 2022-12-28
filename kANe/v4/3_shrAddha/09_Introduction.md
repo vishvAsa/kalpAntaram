@@ -902,7 +902,7 @@ The Varāhapurāṇa 14.50 says that a yogin is superior to 100 brāhmaṇas. Th
 
 > 'a wise man should always feed yogins at a śrāddha since the pitṛs rely for support on Yoga; if a yogin is fed by being seated as the first among thousands of brāhmaṇas he saves the performer and the other diners as a boat saves men in water.' 
 
-Then it quotes stanzas sung by the pitṛs (29. 32-34) to king Aila. The Saurapurāṇa, after mentioning the qualifications (in 19.2-3),[^870] winds up by stating that even one may suffice provided he be a single-minded devotee of Sivā (verse 6).
+Then it quotes stanzas sung by the pitṛs (29. 32-34) to king Aila. The Saurapurāṇa, after mentioning the qualifications (in 19.2-3),[^870] winds up by stating that even one may suffice provided he be a single-minded devotee of Śivā (verse 6).
 
 [^868a]: तुल्यगुणेषु वयोवृद्धः श्रेयान् द्रव्यकृशश्चेप्सन् । आप. ध. II 7.17.10.
 
@@ -912,6 +912,7 @@ Then it quotes stanzas sung by the pitṛs (29. 32-34) to king Aila. The Saurapu
 
 The Matsyapurāṇa (16. 11-12) recommends 'He who expounds (the meaning of) texts; he who enters upon the discussion of śrauta sacrifices and he who knows the rules about the accents of sāmans is a purifier of _paṅktipāvanas_; one proficient in the Sāmaveda, a Vedic student, one endowed with knowledge of the Veda or of _Brahma_ --where these are fed in a śrāddha it yields the highest benefit'[^871]. 
 
+### śīla
 Though in the above passages the greatest emphasis was laid on the possession of Vedic learning by the brāhmaṇas to be fed, one had also to see whether they were men of good character and observers of the rules of proper conduct, as provided by Aśv. Gr. IV. 7. 2 (note 862), Gaut. 15.9 and Manu II, 118 who says 
 
 > 'a brāhmaṇa[^872] knowing only the sacred Gāyatri but living a well-regulated life is to be preferred and not one who knows the three Vedas but who is not well-regulated in conduct and who eats anything (even forbidden food ) and who is a vendor of everything.' 
@@ -924,9 +925,24 @@ The Skandapurāṇa VI. 217. 27 recommends that one should make every effort to 
 
 [^873]: तदुक्तमग्निपुराणे। किं कुलेन विशालेन वृत्तहीनस्य देहिनः। कृमयः किं न जायन्ते कुसुमेषु सुगन्धिषु ॥ जातूकर्ण्योपि। अपि विद्याकुलैर्युक्तान् वृत्तहीनान् द्विजाधमान् । अनर्हान हव्यकव्येषु वाङ्यात्रेणापि नार्चयेत्॥ हेमाद्रि pp. 443-444, श्रा. प्र. p. 74.
 
-Hemādri (on śrāddha p. 443) quotes the Agnipurāṇa[^873] as follows: 'what is the use of (birth in a) famous family if the man is himself devoid of good conduct? Are not insects found in fragrant flowers ?' Jātūkarṇya says 'one should not honour even with a word (much less with food &c.) in rites for gods and Manes bad brāhmaṇas void of good conduct, even though they be endowed with learning and be born in a good family. This insistence on worth was due to the conception that pitṛs assuming an aerial form enter brāhmaṇas at the time of śrāddha. Vide Brahmāṇḍapurāṇa (Upodghātapāda 11. 49).
+Hemādri (on śrāddha p. 443) quotes the Agnipurāṇa[^873] as follows: 
 
-These requirements of learning, character and good conduct would naturally make it incumbent on the performer of a śrāddha to inquire into the antecedents, qualities and defects of the brāhmaṇas to be invited. Manu and others lay down several rules about the testing of the brāhmaṇas to be invited. Manu III, 149, Viṣṇu Dh.874 S. 82.1-2. provide at an offering to the gods let a man not enquire into (the qualities of) a brāhmaṇa ( when he wants to invite ), but at a śrāddha offering to the Manes close inquiry (into qualities ) is declared to be proper and just.' Manu III. 130 says that even if a brāhmaṇa be master of the Veda, one should enquire far (into his ancestry). The Vāyupurāṇa[^875] appears to provide that inquiry into (the qualifications of ) brāhmaṇas should not be always undertaken when gifts are to be made, but enquiry is declared (necessary) in the case of rites for gods and Manes. The Anuśāsanaparva provides[^876] that in rites meant for gods a ksatriya knowing the rules about gifts should not (closely) inquire into the qualifications of brāhmaṇas, but in rites for the gods and Manes such inquiry is quite proper. Vṛddha-Manu and the Matsya-purāṇa[^877] lay down that a brāhmaṇa's character is to be inquired into at the place where he resides for a long time, his purity by his acts and transactions with other people, his intelligence by discussion with him: with these three one should inquire whether the brāhmaṇa (to be invited) is a worthy person.
+> 'what is the use of (birth in a) famous family if the man is himself devoid of good conduct? Are not insects found in fragrant flowers ?'
+
+Jātūkarṇya says 
+
+> 'one should not honour even with a word (much less with food &c.) in rites for gods and Manes bad brāhmaṇas void of good conduct, even though they be endowed with learning and be born in a good family. This insistence on worth was due to the conception that pitṛs assuming an aerial form enter brāhmaṇas at the time of śrāddha. Vide Brahmāṇḍapurāṇa (Upodghātapāda 11. 49).
+
+These requirements of learning, character and good conduct would naturally make it incumbent on the performer of a śrāddha to inquire into the antecedents, qualities and defects of the brāhmaṇas to be invited. 
+
+### Inquiring into qualifications
+Manu and others lay down several rules about the testing of the brāhmaṇas to be invited. Manu III, 149, Viṣṇu Dh.874 S. 82.1-2. provide 
+
+> 'at an offering to the gods let a man not enquire into (the qualities of) a brāhmaṇa ( when he wants to invite ), but at a śrāddha offering to the Manes close inquiry (into qualities ) is declared to be proper and just.' 
+
+Manu III. 130 says that even if a brāhmaṇa be master of the Veda, one should enquire far (into his ancestry). The Vāyupurāṇa[^875] appears to provide that inquiry into (the qualifications of ) brāhmaṇas should not be always undertaken when gifts are to be made, but enquiry is declared (necessary) in the case of rites for gods and Manes. 
+
+The Anuśāsanaparva provides[^876] that in rites meant for gods a ksatriya knowing the rules about gifts should not (closely) inquire into the qualifications of brāhmaṇas, but in rites for the gods and Manes such inquiry is quite proper. Vṛddha-Manu and the Matsya-purāṇa[^877] lay down that a brāhmaṇa's character is to be inquired into at the place where he resides for a long time, his purity by his acts and transactions with other people, his intelligence by discussion with him: with these three one should inquire whether the brāhmaṇa (to be invited) is a worthy person.
 
 [^874]:  दैवे कर्मणि ब्राह्मणं न परीक्षेत । प्रयत्नात्पित्र्ये परीक्षेत । विष्णुध. सू 82. 1-2.
 
@@ -936,11 +952,17 @@ These requirements of learning, character and good conduct would naturally make 
 
 [^877]: परीक्षाप्रकारस्तु वृद्धमनुमत्स्यपुराणयोर्दर्शितः । शीलं संवसनाज्ज्ञेयं शौचं संव्यदहारतः । प्रज्ञा संकथनाज्ज्ञेया त्रिभिः पात्रं परीक्ष्यते । हेमाद्रि p. 513, श्रा. प्र. p. 102.
 
-## Inquiring into qualifications
+The Nṛsimhapurāṇa[^878] forbids close inquiry into the character and learning of one who comes by chance as a guest at the time of śrāddha. That inquiry was allowed as to brāhmaṇas who were invited and not as to those who came by chance uninvited as _atithis_. There are no doubt certain passages particularly in the Purāṇas where scrutiny into a brāhmaṇa's qualifications is condemned. For example, the Skandapurāṇa quoted by Aparārka (p. 455) and Kalpataru (on śr. p. 102) states 
 
-The Nṛsimhapurāṇa[^878] forbids close inquiry into the character and learning of one who comes by chance as a guest at the time of śrāddha. That inquiry was allowed as to brāhmaṇas who were invited and not as to those who came by chance uninvited as _atithis_. There are no doubt certain passages particularly in the Purāṇas where scrutiny into a brāhmaṇa's qualifications is condemned. For example, the Skandapurāṇa quoted by Aparārka (p. 455) and Kalpataru (on śr. p. 102) states 'The Vedic revelation is that śrāddha is to be offered (to a brāhmaṇa) after inquiry (into his learning and character), but straightforward action is better than scrutiny. When one offers śrāddha straightforwardly without inquiry his pitṛs are gratified and also gods'. The Bhaviṣyapurāṇa (q. by Bālambhatti ) states 'it is my view also that one should not test (the qualifications of) brāhmaṇas; one should only consider their caste and not their virtues'. Such passages are explained away as referring to a śrāddha at sacred places or as applicable to gifts or to _atithis_ (vide Hemādri on śrāddha p. 513, and Bālambhatti on ācāra p. 494 )[^878a].
+> 'The Vedic revelation is that śrāddha is to be offered (to a brāhmaṇa) after inquiry (into his learning and character), but straightforward action is better than scrutiny. When one offers śrāddha straightforwardly without inquiry his pitṛs are gratified and also gods'. 
 
-## Persons unfit to be invited
+The Bhaviṣyapurāṇa (q. by Bālambhatti ) states 
+
+> 'it is my view also that one should not test (the qualifications of) brāhmaṇas; one should only consider their caste and not their virtues'. 
+
+Such passages are explained away as referring to a śrāddha at sacred places or as applicable to gifts or to _atithis_ (vide Hemādri on śrāddha p. 513, and Bālambhatti on ācāra p. 494 )[^878a].
+
+### Persons unfit to be invited
 
 Brāhmaṇas were declared to be _apāṅkteya_[^879] (not fit to sit in the row of brāhmaṇa diners or as defiling a row of diners at śrāddha) on various grounds, such as bodily and mental defects and diseases, pursuit of certain avocations, moral lapses, being guilty of crimes, being followers of unorthodox systems, being inhabitants of certain countries. A distinction has to be made between brāhmaṇas who should not be invited and brāhmaṇas that are _apāṅkteya_ or _paṅktidūṣaka_. For example, one should not ordinarily invite a friend or a sagotra brāhmaṇa even though learned, but these are not _apāṅkteya_.
 
@@ -950,22 +972,145 @@ Brāhmaṇas were declared to be _apāṅkteya_[^879] (not fit to sit in the row
 
 [^879]: मेधातिथि on मनु III. 167 explains अपाङ्क्तेय (derived from पङ्क्ति) as follows: अपाङ्क्तेयाः पङ्क्तिं नार्हन्ति। भवार्थे ढक कर्तव्यः । अनर्हत्वमेव पङ्क्तावभवनमनेन प्रतीयते। अन्यैर्ब्राह्मणैः सह भोजनं नार्हन्ति । अत एव पङ्क्तिदूषका उच्च्यन्ते । तैः सहोपविष्टा अन्येऽपि दूषिता भवन्ति । . पा. IV.1.20 is स्त्रीभ्यो ढक्.
 
-The Ap.[^880] Dh. S. states that one suffering from white leprosy, a bald man, the violator of another man's bed, the son of a brāhmaṇa who was a soldier by profession, the son of (brāhmaṇa who had become like) a śūdra from a brāhmaṇa woman--these defile the company if they are invited at a śrāddha repast. Vas. Dh. S. XI. 19 also gives a brief list viz. 'one should avoid naked (ascetics), those suffering from white leprosy, impotent men, blind men, those who have black teeth, those afflicted with black leprosy and those who have deformed nails'. Very long lists of persons unfit to be invited at a śrāddha are given by Gaut. XV. 16-19, Manu III. 150-166, Yāj. I. 222-224, Viṣṇu Dh. S. 82. 3-29, Atri (verses 345–359 and 385-388), Bṛhad-Yama III. 34-38, Bṛhat-Parāśara pp. 149–150, Vṛddha-Gautama pp. 580-581, the Vāyu-purāṇa 83.61-70, Anuśāsana-parva 90.6-11, Matsyapurāṇa 16.14-17, Kūrma (II. 21. 23-47), Skanda VII, 1.205.58-72, VL 217.11-20, Varāhapurāṇa 14,4-6, Brahma purāṇa 220. 127-135, Brahmāṇḍapurāṇa (Upodghāta 15,39-44 and 19.30-41 ), Mārkaṇḍeya 28.26-30, Viṣṇupurāṇa (III. 15.5-8), Nāradapurāṇa (pārvārdha 28.11-18), Saurapurāṇa (19.7–9 ) and several other works. The list in the Manusmṛti is one of the longest and that is set out here. One should not invite a brāhmaṇa that is (1) a thief, (2) an outcaste, (3) an impotent man, (4) an atheist, (5) one who wears his hair in braids (a student yet learning Veda); (6) one who does not study the Veda, (7) one who is afflicted with a skin disease, (8) a gambler, (9) one officiating as a priest for a multitude of men, (10) a physician, (11) temple priest (who worships images for money), (12) vendor of meat, (13) one who makes his livelihood as shopkeeper, (14 and 15) a paid servant of a village or of a king, (16) one with deformed nails, (17) one whose teeth are black (naturally), (18) one who opposes his _guru_, (19) one who has forsaken his sacred fire (_śrauta or smārta_) without a proper cause, (20) a usurer, (21) one suffering from consumption, (22) one who subsists by tending cattle (though not in distress), (23 and 24) a younger brother who marries or kindles sacred fires before his elder brother, (25) one who neglects the five (daily) sacrifices, (26) an enemy of brāhmaṇas or of Veda, (27 and 28 ) an elder brother who marries or kindles sacred fires after his young brother, (29) one who is a member of a guild or corporation, (30) an actor or singer, (31) one who has broken the vow of student-hood by unchastity, (32) one whose (only or first wife ) is a sūdra female, (33) the son of a remarried woman, (34) a squint-eyed or one-eyed man, (35) one in whose house a paramour of his wife resides, (36) one who teaches for hire, (37) one who is taught by a hired teacher, (38) one whose teacher is a sūdra. (39) one who instructs śūdra pupils, (40) one whose speech is harsh and untrue, (41) the son of an adulteress, (42) the son of a widow, (43) one who forsakes his mother, father or teacher without (adequate) cause, (44) one who has contracted an alliance with patitas either through the Veda (i. e. as teacher or pupil) or through marriage, (45) an incendiary, (46) one who undertakes sea-voyages, (47) a bard, (48) an oil-man, (49) a false witness (or forger of documents or counterfeiter of coins ), (50) one who has a dispute with his father in a law court, (51) one who induces others to gamble, (52) one who drinks wine, (53) one afflicted with a disease (in punishment for crimes in former lives), (54) one accused of a grave sin, (55) a hypocrite, (56) a vendor of substances used for flavouring food (such as sugar cane juice or molasses), (57) a manufacturer of bows and arrows, (58) one who is the husband of a woman married before her elder sister, (59) the betrayer of a friend, (60) the keeper of a gambling house, (61) one who learns (the Veda) from his own son, (62) an epilectic man,(63) one who has scrofulous swellings of the glands, (64) one afflicted with white leprosy, (65) an informer, (66) a lunatic, (67) a blind man, (68) a caviller of the Veda, (69) a trainer of elephants, horses, oxen or camels, (70) one subsisting by the practice of astrology, (71) a bird-fancier, (72) one who gives instructions in the use of weapons/78).one who diverts watercourses, (74) one engaged in obstructing watercourses, (175) one subsisting by teaching or practising architecture, (76) a messenger, (77) one who plant trees for money, (78) a breeder of sporting dogs, (79) a falconer, (80) a defiler of a maiden (or who ascribes falsely fault to a maiden), (81) one given to injuring living beings, (82) one who gains his livelihood from śūdras, (83) one who officiates at a sacrifice on behalf of guilds, (84) one who does not follow the ordinary rules of conduct (as welcoming a guest &c.), (85) one who has no energy for religious acts, (86) one who con stantly begs for gifts, (87) one who subsists by agriculture (carried on personally), (88) one who suffers from elephantiasis, (89) one who is condemned by good men, (90) a shepherd, (91) a keeper of buffaloes, (92) the husband of a remarried woman, (93) a carrier of dead bodies (for money )[^881] Manu III. 167 says that a brāhmaṇa who knows the sacred laws should avoid or shun at both (sacrifices to Gods and to Manes) the worst of brāhmaṇas enumerated above whose conduct is repre hensible and who are unworthy of sitting in a row of brāhmaṇas at a śrāddha repast.
+The Ap.[^880] Dh. S. states that one suffering from white leprosy, a bald man, the violator of another man's bed, the son of a brāhmaṇa who was a soldier by profession, the son of (brāhmaṇa who had become like) a śūdra from a brāhmaṇa woman--these defile the company if they are invited at a śrāddha repast. 
+
+Vas. Dh. S. XI. 19 also gives a brief list viz. 
+
+> 'one should avoid naked (ascetics), those suffering from white leprosy, impotent men, blind men, those who have black teeth, those afflicted with black leprosy and those who have deformed nails'. 
+
+Very long lists of persons unfit to be invited at a śrāddha are given by Gaut. XV. 16-19, Manu III. 150-166, Yāj. I. 222-224, Viṣṇu Dh. S. 82. 3-29, Atri (verses 345–359 and 385-388), Bṛhad-Yama III. 34-38, Bṛhat-Parāśara pp. 149–150, Vṛddha-Gautama pp. 580-581, the Vāyu-purāṇa 83.61-70, Anuśāsana-parva 90.6-11, Matsyapurāṇa 16.14-17, Kūrma (II. 21. 23-47), Skanda VII, 1.205.58-72, VL 217.11-20, Varāhapurāṇa 14,4-6, Brahma purāṇa 220. 127-135, Brahmāṇḍapurāṇa (Upodghāta 15,39-44 and 19.30-41 ), Mārkaṇḍeya 28.26-30, Viṣṇupurāṇa (III. 15.5-8), Nāradapurāṇa (pārvārdha 28.11-18), Saurapurāṇa (19.7–9 ) and several other works. The list in the Manusmṛti is one of the longest and that is set out here. One should not invite a brāhmaṇa that is 
+
+1) a thief,
+2) an outcaste,
+3) an impotent man,
+4) an atheist,
+5) one who wears his hair in braids (a student yet learning Veda),
+6) one who does not study the Veda,
+7) one who is afflicted with a skin disease,
+8) a gambler,
+9) one officiating as a priest for a multitude of men,
+10) a physician,
+11) temple priest (who worships images for money),
+12) vendor of meat,
+13) one who makes his livelihood as shopkeeper,
+14) a paid servant of a village or 
+15) a paid servant of a king,
+16) one with deformed nails,
+17) one whose teeth are black (naturally),
+18) one who opposes his _guru_,
+19) one who has forsaken his sacred fire (_śrauta or smārta_) without a proper cause,
+20) a usurer,
+21) one suffering from consumption,
+22) one who subsists by tending cattle (though not in distress),
+23) a younger brother who marries before his elder brother
+24) a younger brother who kindles sacred fires before his elder brother,
+25) one who neglects the five (daily) sacrifices,
+26) an enemy of brāhmaṇas or of Veda,
+27) an elder brother who marries after his young brother,
+28) an elder brother who kindles sacred fires after his young brother,
+29) one who is a member of a guild or corporation,
+30) an actor or singer,
+31) one who has broken the vow of student-hood by unchastity,
+32) one whose (only or first wife ) is a sūdra female,
+33) the son of a remarried woman,
+34) a squint-eyed or one-eyed man,
+35) one in whose house a paramour of his wife resides,
+36) one who teaches for hire,
+37) one who is taught by a hired teacher,
+38) one whose teacher is a sūdra,
+39) one who instructs śūdra pupils,
+40) one whose speech is harsh and untrue,
+41) the son of an adulteress,
+42) the son of a widow,
+43) one who forsakes his mother, father or teacher without (adequate) cause,
+44) one who has contracted an alliance with patitas either through the Veda (i. e. as teacher or pupil) or through marriage,
+45) an incendiary,
+46) one who undertakes sea-voyages,
+47) a bard,
+48) an oil-man,
+49) a false witness (or forger of documents or counterfeiter of coins ),
+50) one who has a dispute with his father in a law court,
+51) one who induces others to gamble,
+52) one who drinks wine,
+53) one afflicted with a disease (in punishment for crimes in former lives),
+54) one accused of a grave sin,
+55) a hypocrite,
+56) a vendor of substances used for flavouring food (such as sugar cane juice or molasses),
+57) a manufacturer of bows and arrows,
+58) one who is the husband of a woman married before her elder sister,
+59) the betrayer of a friend,
+60) the keeper of a gambling house,
+61) one who learns (the Veda) from his own son,
+62) an epilectic man,
+63) one who has scrofulous swellings of the glands,
+64) one afflicted with white leprosy,
+65) an informer,
+66) a lunatic,
+67) a blind man,
+68) a caviller of the Veda,
+69) a trainer of elephants, horses, oxen or camels,
+70) one subsisting by the practice of astrology,
+71) a bird-fancier,
+72) one who gives instructions in the use of weapons,
+78) one who diverts watercourses,
+74) one engaged in obstructing watercourses,
+175) one subsisting by teaching or practising architecture,
+76) a messenger,
+77) one who plant trees for money,
+78) a breeder of sporting dogs,
+79) a falconer,
+80) a defiler of a maiden (or who ascribes falsely fault to a maiden),
+81) one given to injuring living beings,
+82) one who gains his livelihood from śūdras,
+83) one who officiates at a sacrifice on behalf of guilds,
+84) one who does not follow the ordinary rules of conduct (as welcoming a guest &c.),
+85) one who has no energy for religious acts,
+86) one who constantly begs for gifts,
+87) one who subsists by agriculture (carried on personally),
+88) one who suffers from elephantiasis,
+89) one who is condemned by good men,
+90) a shepherd,
+91) a keeper of buffaloes,
+92) the husband of a remarried woman,
+93) a carrier of dead bodies (for money )[^881] 
+
+Manu III. 167 says that a brāhmaṇa who knows the sacred laws should avoid or shun at both (sacrifices to Gods and to Manes) the worst of brāhmaṇas enumerated above whose conduct is reprehensible and who are unworthy of sitting in a row of brāhmaṇas at a śrāddha repast.
 
 [^880]:  श्वित्री शिपिविष्टः परतल्पगाम्यायुधीयपुत्रः शूद्रोत्पन्नो बाह्मण्यामित्येते श्राद्धे भुञ्जानाः पङ्क्तिदूषका भवन्ति । आप. ध. सू. II. 7.17.21. As the son of a śūdra male from a brāhmaṇa woman was treated as a câṇḍāla in many smṛtis and therefore could not possibly have been intended to be invited at a śrāddha. Kapardin explained the words शूद्रो...ह्मण्याम् as meaning 'born of a brāhmana male that had become practically a śūdra by first marrying a śūdra woman, then a brāhmaṇa woman and procreating a son on that śūdra wife and then on the brāhmana wife,' This latter (as the son of a शूद्धसम ब्राह्मण) is 'अपाङ्क्तेय, शूद्रोत्पन्नो ब्राह्मण्यां असमवर्णदारपरिग्रहे बाह्मण्यां पुत्रमनुत्पाद्य शूद्रायामुत्पादितपुत्र इति कपर्दी' कल्पतरु (श्रा. p. 90.), हरदत्त followse कपर्दी. हेमाद्रि (श्रा. p. 496) omits all reference to marrying a śūdra wife first and explains 'यो विशुद्धजातीयायामपि ब्राह्मण्यां शूद्रात् शूद्रसमानाद् ब्राह्मणादुत्पन्नः ।
 
 [^881]: There is some divergence of views among the commentators about the meanings of certain words occurring in Manu III, 150-166. For reasons of space that matter is not discussed here in detail. A few points alone are noted here. निराकृतिः is explained in two ways viz. (i) one who does not perform the daily five Mahāyajñas, (2) one who after learning the Veda forgets it. The evil diseases are said by Devala to be eight 'उन्मादस्त्वद्गोषो राजयक्ष्मा श्वासो मधुमेहो भगन्दरो महोदरमश्मरीत्यष्टौ पापरोगाः', q. by अपरार्क p. 451, स्मृतिच. (श्रा) p. 401. वृषली explained in various ways by Skandapurāṇa VII. 1. 205. 77-80 as meaning a śūdra woman, as one who abandoning her husband cohabits with another, as a girl who is not married though she has reached the age of puberty, as a prostitute, as one who is sterile, or one all whose children are dead. अग्रेदिधिषूपतिः:-When a younger sister gets married before her elder sister the former is called अग्रेदिधिषू while the latter is called दिधिषू. देवल says 'जेष्ठायां यद्यनूढायां कन्यायामुह्यतेऽनुजा। सा चाग्रेधिषूर्ज्ञेया पूर्वा च दिधिषूर्मता॥' q. by अपरार्क p. 451, मिता. on या. III. 265. अग्रेदिधिषूपति is taken by मेधातिथि as equal to two words viz. अग्रेदिधिषू and दिधिषूपति. The latter means, according to the Amarakośa, the husband of a remarried woman, while the former means 'one who is the first husband of a remarried woman' पुनर्भूर्दिधिषूरूढा द्विस्तस्या दिधिषूः पतिः। स तु द्विजोग्रेदिधिषूः सैव यस्य कुटुम्बिनी॥ अमरकोश q. by हरदत्त on गौ. 15. 15. मनु. III 173 explains दिधिषूपति as one who lasciviously dallies with the widow of his deceased brother. though she be appointed (to bear a son by him) according to the sacred law. The स्मृतिs said that the brother appointed should cohabit as an act of duty and not through passion for the widow. Hemadri p. 485 gives another
 meaning of अग्रेदिधिषू 'जीवतस्तावद् भ्रातुर्भार्यायामनुरक्तोऽयेदिधिषूः'. वसिष्ठ I. 18 includes both अग्रेदिधिषू and दिधिषूपति among those who are called एनस्विनः. Even the तै.ब्रा. III. 2.8. 12 mentions अग्रेदिधिषु as a sinner and आप. ध.सू (II. 5. 12. 22) mentions both.
 
-Manu III. 170-182 indulge in pointing out how feeding such unworthy brāhmaṇas results in the loss of the gratification of pitṛs and state that the food eaten by such unworthy persons becomes or is to be deemed as equal to foul things. The Kūrmapurāṇa[^882] forbids inviting at śrāddhas Bauddha ascetics, Nirgranthas (devotees who have withdrawn from the world and wander about naked or as beggars), those that follow the Pañcarātra and Pāśupata doctrines, those that are kāpālikas (devotees of Śiva of the left hand order) and other similar heretical people. The Viṣṇupurāṇa (III. 18. 70 ff) narrates how a king after a bath in a holy place talked with a heretic and had to pass in consequence through the bodies of a dog, a jackal, wolf, vulture, a crow, a crane and peacock and ultimately became freed from the taint by a bath at the avabhṛtha in an Aśvamedha sacrifice. The same Purāṇa provides (III. 18. 97) that one should avoid talking with or touching heretics, particularly at the time of a religious rite or when one has consecrated for a solemn sacrifice. The Vāyupurāṇa[^883] provides that people who are 'nagna' should not be allowed to see a śrāddha and then defines "nagna' people as follows: 'the three Vedas are declared to be a protective covering for all beings and therefore those who foolishly abandon the Vedas are called 'nagna'; those who vainly keep matted hair, those who shave their heads for no purpose, those who are _nagna_ (naked) without any cause, those who engage in certain observances and mutter certain words aimlessly are called '_nagnādi_'.
+Manu III. 170-182 indulge in pointing out how feeding such unworthy brāhmaṇas results in the loss of the gratification of pitṛs and state that the food eaten by such unworthy persons becomes or is to be deemed as equal to foul things. 
+
+The Kūrmapurāṇa[^882] forbids inviting at śrāddhas Bauddha ascetics, Nirgranthas (devotees who have withdrawn from the world and wander about naked or as beggars), those that follow the Pañcarātra and Pāśupata doctrines, those that are kāpālikas (devotees of Śiva of the left hand order) and other similar heretical people. 
+
+The Viṣṇupurāṇa (III. 18. 70 ff) narrates how a king after a bath in a holy place talked with a heretic and had to pass in consequence through the bodies of a dog, a jackal, wolf, vulture, a crow, a crane and peacock and ultimately became freed from the taint by a bath at the avabhṛtha in an Aśvamedha sacrifice. The same Purāṇa provides (III. 18. 97) that one should avoid talking with or touching heretics, particularly at the time of a religious rite or when one has consecrated for a solemn sacrifice. 
+
+The Vāyupurāṇa[^883] provides that people who are 'nagna' should not be allowed to see a śrāddha and then defines "nagna' people as follows: 
+
+> 'the three Vedas are declared to be a protective covering for all beings and therefore those who foolishly abandon the Vedas are called 'nagna'; those who vainly keep matted hair, those who shave their heads for no purpose, those who are _nagna_ (naked) without any cause, those who engage in certain observances and mutter certain words aimlessly are called '_nagnādi_''.
 
 [^882]:  बुद्धश्रावकनिर्ग्रन्थाः पञ्चरात्रविदो जनाः। कापालिकाः पाशुपताः पाषण्डा ये च बद्विधाः॥ कूर्म (उत्तरार्ध) 21.32 q. by हेमाद्रि p. 476 and 365; बुद्धश्रावकनिर्ग्ररन्थशाक्ताजीवककापिलान् । ये धर्माननुवर्तन्ते ते वै नग्रादयो जनाः॥ ब्रह्माण्डपुराण III. 14.38-39 4. by हेमाद्रि p. 520. The same verse occurs in a corrupt form in वायु 78.30-31.
 
 [^883]: सर्वेषामेव भूतानां त्रयी संवरणं स्मृतम् । परित्यजति यो मोहात्ते वै नग्रादयो जनाः॥...वृथा जटी वृथा मुण्डी वृथा नग्नश्च यो द्विजः । वृथा व्रती वृथा जापी ते वै नग्रादयो जनाः॥ वायुपुराण 78.26 and 31.q. by हेमाद्रि (श्रा.) p. 520 (the first verse from ब्रह्माण्डपुराण). The स्मृतिच. (श्रा.) p. 411 reads वर्णानां for भूतानां and ascribes that verse to the ब्रह्माण्डपुराण. ब्रह्माण्ड (उपोद्धातपाद 14.35-41) has these verses. अपरार्क. 473 ascribes verse सर्वेषामेव भूतानां to ब्रह्माण्डपुराण, which is found in उपोद्घातपाद 14.35.
 
-Just as certain countries were declared unfit for the performance of śrāddhas (vide note 853 above), so certain brāhmaṇas hailing from certain countries were declared in some works as not fit to be invited at a śrāddha[^884]. For example, the Matsyapurāṇa states that brāhmaṇas that are ungrateful, that are atheists, that stay in _Mleccha_ countries or the countries of Triśaṅku, Karavira, Āndhra, Cīna, Draviḍa and Koṅkaṇa should be carefully avoided at the time of śrāddha. Hemādri (on śrāddha p. 505) quotes from the Saurapurāṇa the following: 'Brāhmaṇas hailing from the countries of Aṅga, Vaṅga, Kaliṅga, Saurāṣtra, (Kāthiawar), Gurjara, Ābhira, Koṅkaṇa, Draviḍa, Dakṣināpatha, Avanti and Magadha should be avoided at śrāddhas. It will be noticed that putting the above two passages together, brāhmaṇas from half of modern India would have been ineligible for being invited at śrāddhas if these passages were literally followed. This was probably a counsel of perfection prompted by the false pride and prejudices of the authors of those works. The Śrāddhaviveka of Rudradhara (pp. 39-41 ) contains one of the longest lists of persons unfit to be invited at a śrāddha.
+#### Prohibited countries
+Just as certain countries were declared unfit for the performance of śrāddhas (vide note 853 above), so certain brāhmaṇas hailing from certain countries were declared in some works as not fit to be invited at a śrāddha[^884]. For example, the Matsyapurāṇa states that brāhmaṇas that are ungrateful, that are atheists, that stay in _Mleccha_ countries or the countries of Triśaṅku, Karavira, Āndhra, Cīna, Draviḍa and Koṅkaṇa should be carefully avoided at the time of śrāddha. 
 
-The following reason is advanced by the Varāhapurāṇa[^885] and others for honouring a guest who comes by chance at the time when a śrāddha rite is in progress: "Yogins wander over the earth assuming different forms that prevent recognition, but doing good to people; therefore a wise man should honour a guest who arrives at the time of the performance of a śrāddha". The Bhaviṣya-purāṇa[^886] similarly says that an _atithi_ ( guest ) at a śrāddha is one who comes when least thought of and not one who had arrived before the śrāddha rite started. The Mārkaṇḍeya ( 26, 30 ) provides that one should not ask such an _atithi_ about his _gotra_ or _caraṇa_ or his Vedic study nor should one consider whether he has a fine appearance.
+Hemādri (on śrāddha p. 505) quotes from the Saurapurāṇa the following: 
+
+> 'Brāhmaṇas hailing from the countries of Aṅga, Vaṅga, Kaliṅga, Saurāṣtra, (Kāthiawar), Gurjara, Ābhira, Koṅkaṇa, Draviḍa, Dakṣināpatha, Avanti and Magadha should be avoided at śrāddhas.' 
+
+It will be noticed that putting the above two passages together, brāhmaṇas from half of modern India would have been ineligible for being invited at śrāddhas if these passages were literally followed. This was probably a counsel of perfection prompted by the false pride and prejudices of the authors of those works. The Śrāddhaviveka of Rudradhara (pp. 39-41 ) contains one of the longest lists of persons unfit to be invited at a śrāddha.
+
+
+### Honouring atithi at śrāddha
+The following reason is advanced by the Varāhapurāṇa[^885] and others for honouring a guest who comes by chance at the time when a śrāddha rite is in progress: 
+
+> "Yogins wander over the earth assuming different forms that prevent recognition, but doing good to people; therefore a wise man should honour a guest who arrives at the time of the performance of a śrāddha".
+
+The Bhaviṣya-purāṇa[^886] similarly says that an _atithi_ ( guest ) at a śrāddha is one who comes when least thought of and not one who had arrived before the śrāddha rite started. The Mārkaṇḍeya ( 26, 30 ) provides that one should not ask such an _atithi_ about his _gotra_ or _caraṇa_ or his Vedic study nor should one consider whether he has a fine appearance.
 
 [^884]: कृतघ्नान्नास्तिकांस्तद्वन्म्लेच्छदेशनिवासिनः । त्रिशङ्कुबर्बरद्राववीतदविडकोङ्कणान् (त्रिशङकुकरवीरान्ध्रचीनद्रविड० ?)। वर्जयेल्लिङ्गिनः सर्वान् श्राद्धकाले विशेषतः । मत्स्य 16, 16-17 q. by हेमाद्रि ( श्रा ) p. 505, कल्पतरु (श्रा. p. 94).
 
@@ -973,26 +1118,33 @@ The following reason is advanced by the Varāhapurāṇa[^885] and others for ho
 
 [^886]: अचिन्त्योऽभ्यागतो यस्मात्तस्मादतिथिरुच्यते॥ अतिथिं तं विजानीयान्न पुनः पूर्वमागतः ॥ भविष्य. I. 184. 9-10 q. by हेमाद्रि p. 427; न पृच्छेद्गोत्रचरणं स्वाध्यायं चापि पण्डितः। शोभनाशोभनाकारं तं मन्येत प्रजापतिम् ॥ अनित्यं हि स्थितो यस्मात्तस्मादतिथि रुच्यते । मार्कण्डेय 26. 30-31.
 
-## Honouring atithi at śrāddha
-
 Hemādri (on śrāddha pp. 430-433 ) quotes verses from the Sivadharmottara, Viṣṇudharmottara and Vāyu (71.74–75 ) Purāṇas that gods, _siddhas_ and yogins wander over the earth in the form of brāhmaṇa _atithis_ in order to favour people and to see how śrāddhas are being performed. About the definition of an _atithi_ and the necessity and mode of honouring a guest in general, vide H, of Dh. vol. II. pp. 749-756.
 
-Hemādri (Śrāddhakāṇḍa, pp. 380-385) holds an interesting discussion as to whether a performer of śrāddha belonging to one recension of a Veda must restrict himself to inviting brāhmaṇas that are students of the same recension of the Veda or whether he can invite any brāhmaṇa that may have studied any of the three Vedas. Some people relying on a maxim ('as in the case of a bride so in the case of an offering') invite only brāhmaṇas of their own _śākhā_ possessed of the qualifications above set forth. Hemādri replies that this is a wrong notion, relies on Āp. Dh. S. II. 6. 15.9 'one should feed[^887] in all (religious) acts brāhmaṇas that are pure (in their conduct) and that have studied the Veda' and asserts that no smṛti, Itihāsa, Purāṇa, Gṛhyasūtra nor Kalpasūtra contains the restriction of inviting only brāhmaṇas of the performer's own śākhā. He further says that in such texts as 'triṇāciketas trimadhuḥ' (quoted in note 862a above) the rule laid down is to invite brāhmaṇas that have studied different śakhās and Vedas. He rejects the idea about any restriction as to selecting a bridegroom of the same śākhā as the bride's father and remarks that if some people are not prepared to give their daughters in marriage to young men belonging to other śākhās, that is due to ignorance about the families and is also due to pride and vanity. He winds up by saying that in Āryāvarta countries it is found on all sides that marriage connections are entered into with persons studying different śākhās but living in the same district, (such connections) not being condemned, while persons who study the same śākhā of the Veda but do not know each other do not enter into marital connections[^888].
+### Recension
+Hemādri (Śrāddhakāṇḍa, pp. 380-385) holds an interesting discussion as to whether a performer of śrāddha belonging to one recension of a Veda must restrict himself to inviting brāhmaṇas that are students of the same recension of the Veda or whether he can invite any brāhmaṇa that may have studied any of the three Vedas. Some people relying on a maxim ('as in the case of a bride so in the case of an offering') invite only brāhmaṇas of their own _śākhā_ possessed of the qualifications above set forth. 
+
+Hemādri replies that this is a wrong notion, relies on Āp. Dh. S. II. 6. 15.9 'one should feed[^887] in all (religious) acts brāhmaṇas that are pure (in their conduct) and that have studied the Veda' and asserts that no smṛti, Itihāsa, Purāṇa, Gṛhyasūtra nor Kalpasūtra contains the restriction of inviting only brāhmaṇas of the performer's own śākhā. He further says that in such texts as 'triṇāciketas trimadhuḥ' (quoted in note 862a above) the rule laid down is to invite brāhmaṇas that have studied different śakhās and Vedas. 
+
+He rejects the idea about any restriction as to selecting a bridegroom of the same śākhā as the bride's father and remarks that if some people are not prepared to give their daughters in marriage to young men belonging to other śākhās, that is due to ignorance about the families and is also due to pride and vanity. He winds up by saying that in Āryāvarta countries it is found on all sides that marriage connections are entered into with persons studying different śākhās but living in the same district, (such connections) not being condemned, while persons who study the same śākhā of the Veda but do not know each other do not enter into marital connections[^888].
 
 [^887]: शुचीन् मन्त्रवतः सर्वकृत्येषु भोजयेत् । आप.ध. सू. II. 6. 159,on which हरदत्त explains 'मन्त्रवतः अधीतवेदान् । सर्वकृत्येषु श्रौतेषु गार्ह्येषु स्मार्तेषु च कर्मसु देवेषु पित्र्येषु मानुषेषु च भोजयेत्।'
 
 [^888]: अत्र केचिद्यथा कन्या तथा हविरिति कन्यासाधम्र्येण हविषां स्वशाखायप्रतिपाद्यत्व (मन्यमानाः स्वशाखीयमेव श्रोत्रियत्वादिगुणविशिष्टं श्राद्धे नियोजयन्ति। तदसत् । स्मृतीतिहास पुराणगृह्यकल्पसूत्रेषु क्वचिदपि स्वशाखीयनियमाश्रवणात् । प्रत्युत स्मृत्यादिषु त्रिणाचिकेतस्त्रिमधुत्रिसुपणों ज्येष्टसामग इत्यादिभिर्नानाशाखीयानां नानावेदाध्यायिनामेव विधिदर्शनाच्च ...किं च कन्यायामेव तावदेकशाखाध्याथिनियमः कुतोऽवगतो यद्बलेन हविष्यपि साध्यते। ... आर्यावर्तेषु च समानदेशवासिनां नानाशाखाध्यायिनामप्युपलभ्यन्त एव परस्परमनवगीयमानाः सर्वतो विवाहसम्बन्धाः । अविज्ञातपरस्पराणामेकशाखाध्यायिनामपि नोपलभ्यन्ते ।...अतो न कन्यादाने नापि हविर्दाने स्वशाखीयद्विजनियम इति सिद्धम् । हेमाद्रि (श्राद्ध) pp. 380-381, The words यथा कन्या तथा हविः occur in a verse of गर्ग 'नैकगोत्रे हविर्दद्याद्यथा कन्या तथा हविः । अभावे ह्यन्यगोत्राणामेकगोत्रांस्तु भोजयेत् ।' q. by श्रा. प्र. p. 75. हेमादि p. 450 reads it as नैक... दद्यात्समानप्रवरे तथा। न चाज्ञातकुले दद्याद्यथा कन्या तथा हविः ॥ श्रा.क. ल. p. 39 quotes this verse and the half verse अभावे...न भोजयेत् also. The निर्णयसिन्धु III. p 397 follows हेमाद्रि and relies on मनु III. 145-146. एवमपि महाराष्ट्रैर्विजातीया न ग्राह्यास्तत्रापि कोङ्कणस्थादयः सर्वथा न ग्राह्या इति श्राद्धदीप कलिकादिषु प्रामाणिकनिबन्धेष्विति सर्वशिष्टसंमतम् ।...वर्ज्याश्च द्विविधाः दोषवन्तः सजातीयाः गुणवन्तोऽपि विजातीयाः सुतरां दोषवन्तः । तत्र सजातीयेषु अनिषिद्धलाभेऽभिशस्तत्वा दिबलवद्दोषरहितो दुष्टोपि ग्राह्यः । विजातीयस्तु गुणवानपि तत्त्वादेव त्याज्यः किमुत दोषवान् ।... केवलां चिन्तयेज्जातिं...। कन्यादानादिसम्बन्धयोग्यां जातिं यथा कन्या तथा हविरित्युक्तेस्तेन तेपि सर्वथा हेया एवेति दिक्र्। बालम्भट्टी on आचार p. 497.
 
 
-As a contrast to this commonsense view it should be noted that the author of the Bālambhatti recommends that 'Mahārāstra brāhmaṇas should not invite brāhmaṇas of other castes (of brāhmaṇas ) and particularly the Koṅkaṇastha brāhmaṇas should be avoided and it goes so far as to say that a pergon belonging to one's own caste not possessed of good qualities and of a blemished character (provided he is not guilty of mahāpātakas or the like) should be preferred to one belonging to another sub-caste even if endowed with good qualities.
+As a contrast to this commonsense view it should be noted that the author of the Bālambhatti recommends that 
+
+> 'Mahārāstra brāhmaṇas should not invite brāhmaṇas of other castes (of brāhmaṇas ) and particularly the Koṅkaṇastha brāhmaṇas should be avoided' 
+
+and it goes so far as to say that a pergon belonging to one's own caste not possessed of good qualities and of a blemished character (provided he is not guilty of mahāpātakas or the like) should be preferred to one belonging to another sub-caste even if endowed with good qualities.
 
 The Vas. Dh, S. provides[^889] that the performer should invite ascetics, house-holders, well conducted men, who are not rery old &c.
 
 [^889]: पूर्वेधुर्ब्राह्मणान् संनिपात्य यतीन् गृहस्थान्साधून्वा परिणतवयसोऽविकर्मस्थात्र श्रोत्रियान शिष्याननन्तेवासिनः । वसिष्ठ XI.17, q. by हेमादि p. 379 who explains 'यतयः प्रवजिताः तदसम्भवे गृहस्थान'. The टोडरानन्द (श्राद्धसौख्य folio 37b) arranges the persons to be invited at a श्राद्ध in the following order: तदयं संक्षेपः । आदौ त्रिदण्डयतिस्तदलाभे वानप्रस्थस्तदलाभे ब्रह्मचारी तदलाभे गृहस्थस्तत्रापि पङ्क्तिपावनादय उत्कृष्टास्तदलाभे यो ह्यसम्बद्धः सत्कर्मा च तदलाभे तत्सम्बद्धा अपि तदलाभे सदाचारः शिष्योऽपि ।
 
-## Yati preferred as an invitee
+### Yati preferred as an invitee
 
-The Kārmapurāṇa states[^890] “that man whose offering (of food ) is eaten by a _yati_ that knows the truth about _prakr̥ti_ (primordial matter) and the _guṇas_ (_sattva_, _rajas_ and _tamas_) reaps the reward (merit) of feeding a thousand (other brāhmaṇas). Therefore one should feed in offerings to gods and manes an excellent _yogin_ who is intent on true knowledge of God and others only if such a one is not available.' Similar verses about ascetics and yogins occur in Varāhapurāṇa 14.50, Skanda (VI.217.7 ff) and Vayupurāṇa[^891] chap.71.65-73, chap.76.28 &c. Bṛhaspati provides[^892] a special rule that, if a person cannot afford to feed at a śrāddha more than one brāhmaṇa, then he should feed one who has studied the Sāmaveda, since in him all the three viz.R̥ks, the Yajus and Sāmans co-exist, that the father is pleased byR̥ks (i.e. by the feeding of a brāhmaṇa who has studied the Ṛgveda), the grand-father by Yajus, the great-grand-father by a Sāman and a _chandoga_ (a chanter of the whole of Samaveda) is superior. A verse of Satatapa is[^893] quoted to the effect that if a student of the Atharvaveda is fed in a rite for the gods or manes, that yields endless and inexhaustible rewards.
+The Kārmapurāṇa states[^890] “that man whose offering (of food ) is eaten by a _yati_ that knows the truth about _prakr̥ti_ (primordial matter) and the _guṇas_ (_sattva_, _rajas_ and _tamas_) reaps the reward (merit) of feeding a thousand (other brāhmaṇas). Therefore one should feed in offerings to gods and manes an excellent _yogin_ who is intent on true knowledge of God and others only if such a one is not available.' Similar verses about ascetics and yogins occur in Varāhapurāṇa 14.50, Skanda (VI.217.7 ff) and Vayupurāṇa[^891] chap.71.65-73, chap.76.28 &c. Bṛhaspati provides[^892] a special rule that, if a person cannot afford to feed at a śrāddha more than one brāhmaṇa, then he should feed one who has studied the Sāmaveda, since in him all the three viz. R̥ks, the Yajus and Sāmans co-exist, that the father is pleased by R̥ks (i.e. by the feeding of a brāhmaṇa who has studied the Ṛgveda), the grand-father by Yajus, the great-grand-father by a Sāman and a _chandoga_ (a chanter of the whole of Samaveda) is superior. A verse of Satatapa is[^893] quoted to the effect that if a student of the Atharvaveda is fed in a rite for the gods or manes, that yields endless and inexhaustible rewards.
 
 Some of the smr̥tis were very strict in laying down the qualifications of brāhmaṇas to be invited at a śrāddha. Auśanasa (chap. 4) asserts: 'that brāhmaṇa[^894] is called _dur̥brāhmaṇa_ and should never be invited at a śrāddha in whose family Veda study and Vedi (i.e, the performance of Śrauta sacrifices) have been stopped for three generations'.
 
