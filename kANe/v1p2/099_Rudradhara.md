@@ -41,7 +41,7 @@ The śrāddhaviveka of Rudradhara is the most famous of his works. (It was print
 
 841 
 
-undermentioned ones deserve notice. 1268 He refers to his own Suddhiviveka as already written (p. 48). Several Purāṇas are mentioned such as the Devipurāna (pp. 14–15, 32), Brahma purāṇa ( several times and 7 verses from it are quoted on p. 33), Matsyapurana (p. 37 five verses quoted ), Vayu (p. 37). 
+undermentioned ones deserve notice. 1268 He refers to his own Suddhiviveka as already written (p. 48). Several Purāṇas are mentioned such as the Devipurāṇa (pp. 14–15, 32), Brahma purāṇa ( several times and 7 verses from it are quoted on p. 33), Matsyapurana (p. 37 five verses quoted ), Vayu (p. 37). 
 
 In several places he tells us that ne follows a different tradition on certain matters from that of the Pitrbhakti or of the Sugatisopāna. He points out that the prasātikā is a kind of grain known in Madhyadeśa as sāthilā.1268 
 

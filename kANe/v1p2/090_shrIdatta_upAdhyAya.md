@@ -79,6 +79,6 @@ IL
 
 763 
 
-He was liberal enough to assert that a sūdra 142 can perform Vaiśvadeva and the offering of bali, but he cannot adopt the procedure of Sakala as it includes Vedamantras; he can, however, perform those rites with 'namaḥ' as the Mantra and relies on Yāj. I. 12 and Vispupurāna in support. The Samayapradipa of Sridatta is quoted by Raghunandana in (vol. I), Mala p. 839 and (vol. II) in Ekādaśī p. 44. 
+He was liberal enough to assert that a sūdra 142 can perform Vaiśvadeva and the offering of bali, but he cannot adopt the procedure of Sakala as it includes Vedamantras; he can, however, perform those rites with 'namaḥ' as the Mantra and relies on Yāj. I. 12 and Vispupurāṇa in support. The Samayapradipa of Sridatta is quoted by Raghunandana in (vol. I), Mala p. 839 and (vol. II) in Ekādaśī p. 44. 
 
 It appears that there was another Maithila writer called Śridattamisra, son of Nāgeśvaraniśra, who composed the Ekāgnidānapaddhati and one or two other works (Hp. Nepal cat. p. 129). The Nepal Ms. of the Ekāgnidāna-paddhati was copied in La-Sam 299 (Lakṣmanasena era 299, i. e. 1418 A.D.). Vide Hp. Nepal cat. XII, 45 and 129. So this Sridatta flourished towards the end of the 14th century in the reign of Devasimha son of Bhavesa. Vide JASB for 1915 pp. 379-381 and 388-390 for Sridatta. 

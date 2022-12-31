@@ -95,7 +95,7 @@ FOU
 
 'Though Viśvarūpa was a past master in Pūrvamīmāṁsā lore, his philosophical views seem to have been identical with those of the great Sajikara. According to him moksu results from correct knowledge alone and the whole samsāra is due to avidyu il? He quotes anonymously one of Gaudlapāda's kārikāsiis (III. 5 ) on Yāj. III, 134. 
 
-He speaks on Yāj. III. 103 of Narada who knew the Veda of music ( gitivedavid ), of purāna ( on III. 175 ), and quotes verses (on Yñj. III. 85 ) from an abhidhūnukośu ( lexicon ) and from a Nāmaratnamila (on III. 266). He speaks of the sloka of Bhiksātana (on III. 60.). He is in this probably referring to the Bhikrītanakivya,719 which is mentioned by the Sahityavarpani. Amony commentators he mentions Asahaya's bhāsya on Gautama by name ( on Yāj. III. 263 ). On Yāj. III. 256 he explains Mleccha as pulindas and 
+He speaks on Yāj. III. 103 of Narada who knew the Veda of music ( gitivedavid ), of purāṇa ( on III. 175 ), and quotes verses (on Yñj. III. 85 ) from an abhidhūnukośu ( lexicon ) and from a Nāmaratnamila (on III. 266). He speaks of the sloka of Bhiksātana (on III. 60.). He is in this probably referring to the Bhikrītanakivya,719 which is mentioned by the Sahityavarpani. Amony commentators he mentions Asahaya's bhāsya on Gautama by name ( on Yāj. III. 263 ). On Yāj. III. 256 he explains Mleccha as pulindas and 
 
 Tājikus ( i. e. Arabs ). 
 

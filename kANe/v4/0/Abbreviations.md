@@ -49,7 +49,7 @@ ed. = edited Apastamba-srauta-sutra A. S. R. = Archaeological Survey
 
 E.I.=Epigraphia Indica Reports
 
-Gaut. or Gaut. Dh. S. =Gautama. Ašv.gļ.or Aśv.gr. S.= Āśvalāyana
+Gaut. or Gaut. Dh. S. =Gautama. Aśv.gļ.or Aśv.gr. S.= Āśvalāyana
 
 dharma-sutra gļhyasutra
 
@@ -89,7 +89,7 @@ FOUNDED
 
 Bhandarkar Oriental Research Institute
 
-History of Dharmaśästra
+History of Dharmaśāstra
 
 I. H. Q. = Indian Historical Quar. Pr. V. or Pr. Vi.=Prayascitta
 
@@ -105,33 +105,33 @@ Rg. =Rgveda sutra
 
 Sāma. Br.=Sāmavidhāna Brāh Jaimini Gr. = Jaimini-grbya-sutra
 
-mana JBBRAS= Journal of the Bombay San. Br. Sankbävana Brāhmana
+mana JBBRAS= Journal of the Bombay San. Br. Sankbāvana Brāhmana
 
 Branch of the Royal Asiatic San. gr=Sankhāyana-grbya-sutra Society
 
-San.Śr. or Šān. Śr. S. = Sānkbāyana Jiv. = Jivananda Vidyasagara's
+San.Śr. or Śān. Śr. S. = Sānkbāyana Jiv. = Jivananda Vidyasagara's
 
 srauta-sútra edition J. O. R. = Journal of Oriental Re.
 
-Šat. Br. = Satapatha Brāhmana search (Madras)
+Śat. Br. = Satapatha Brāhmana search (Madras)
 
 Sat. Sr. = Satyāsādhasrauta-sūtra J. R. A. S. Journal of the Royal S. B. E. = Sacred Books of the
 
 Asiatic Society of Great Britain East (ed. by Maxmuller) Kat.=Katyāyana
 
-S. K. = Suddhikaumudi Kat. Sr. or Kat. Śr. S. = Katyā- S. K. L. = Śräddhakalpalatā
+S. K. = Suddhikaumudi Kat. Sr. or Kat. Śr. S. = Katyā- S. K. L. = Śrāddhakalpalatā
 
 yanaśrautasūtra
 
-Sm. C. or Smr. C.=Smrticandrikā Kathaka Gr=Kāthaka-gļhya-sutra Smr. M.=Smrtimuktāpbala Kätyāyana = Kätyāyana-smrtisāro- Śr. P. or Sr. Pr.= Śrāddhaprakasa
+Sm. C. or Smr. C.=Smrticandrikā Kathaka Gr=Kāthaka-gļhya-sutra Smr. M.=Smrtimuktāpbala Kātyāyana = Kātyāyana-smrtisāro- Śr. P. or Sr. Pr.= Śrāddhaprakasa
 
 ddhāra (ed. by me)
 
 Śr. K. K.=Sraddhakriyakaumudi Kauś or Kausika = Kausikasutra
 
-S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khădira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
+S. V. = Samaveda Kaus. Up=Kausitaki Upanisad Tai. A. or Tai. Ar. = Taittiriya Khādira Gr=Khadira-grhya-sutra Aranyaka m.-mentioned
 
-Tai. Br. = Taittiriya Brahmana Mārk.=Märkandeyapurāna
+Tai. Br. = Taittiriya Brahmana Mārk.=Mārkandeyapurāṇa
 
 Tai. S. = Taittiriya Samhita Mit. Mitāksarā, commentary on Tai. Up. - Taittiriya-upanisad
 
@@ -143,15 +143,15 @@ brāhmana Nir Nirukta
 
 Tir. C. == Tirthacintamani Nirn. = Nirnayasagara Press ed. Tir. K. Tirthakalpataru Pān=Pāṇini's Astādhyāyi
 
-Tirthapr. or Tir. Pr. Tirtha Pār. gr=Päraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayükha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
+Tirthapr. or Tir. Pr. Tirtha Pār. gr=Pāraskara-gļhya-sutra prakasa Par. M.= Parāśara-Madhaviya Tri. S. = Tristhalisetu Pr. M.= Prāyascitta-mayūkha T.S. = Tirthasāra Pr. Pr. or Pr. Prakāsa=Prāya- Up. Upanisad
 
 scitta-prakasa
 
-Vaik. Smärta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-smärta-sūtra.
+Vaik. Smārta or Vaik. Sm. S = Pr. Prakarana = Prāyaścitta-pra- Vaikhānasa-smārta-sūtra.
 
 karana
 
-Vaik. Śr. or Vaik. Sr. Sa Pr. S or Pr. sāra = Prāyascittasāra Vaikhānaşa-srauta-sutra coisa Pr. T. or Pr. Tattva=Prāyascitta- Vaj. S. = Vājasaneya-samhita
+Vaik. Śr. or Vaik. Sr. Sa Pr. S or Pr. sāra = Prāyascittasāra Vaikhānaṣa-srauta-sutra coisa Pr. T. or Pr. Tattva=Prāyascitta- Vaj. S. = Vājasaneya-samhita
 
 tattva
 

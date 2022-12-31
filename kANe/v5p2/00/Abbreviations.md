@@ -25,7 +25,7 @@ Abbreviations
 
 xix 
 
-Br. S. Brhat-sambitā of Varāhamihira. Bṛ. Up = Bṛhudũranyaka Upanisad. B. V. = Bhāratiya Vidyā, Journal, Bombay. C. I. 1. = Corpus Inscriptionum Indicarum; Vol. I Asoka 
+Br. S. Br̥hat-sambitā of Varāhamihira. Bṛ. Up = Bṛhudũranyaka Upanisad. B. V. = Bhāratiya Vidyā, Journal, Bombay. C. I. 1. = Corpus Inscriptionum Indicarum; Vol. I Asoka 
 
 Inscriptions; Vol. II Kharoșṭbi Inscriptions ; Vol. III Gupta Inscriptions; Vol. IV Kalacūri. 
 

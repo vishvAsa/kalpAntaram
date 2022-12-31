@@ -45,7 +45,7 @@ Sastri in the Cat. of Mss. of the Govt. in the custody of the Asiatic Society of
 
 Manu IV. 212 requires a brāhmana to desist from parta king of food of various categories, one of which is food offered by an ugra. Both Janu ( X. 9 ) and Yāj. (I. 92) provide that the son of a Ksatriya from a wife of the Sūdra class is called Ugra. The Kalpataru (on Niyata-kāla-kõnda p. 261 ) quotes the author of the Manjarī, paraphrasing 'uyra' as meaning 
 
-rājan'. The Srāddhakalpataru on p. 46 mentions Manjari kāra' and on p. 259 Smrtimanjarīkāra'. The same work is meant in both places. The Srāddhakānda (Kalpataru ) pp. 46-47 ) quotes a long passage from the Vāyupurāna stating that some kind of edible grains, vegetables, and other articles should be offered in Srāddha. One of these is Kāleya, which is explained by Govindarāja. On Manu III. 285, Govinda rāja's gloss is not accepted by Kullūka, while on Manu II]. 178 Kullūka agrees with both Medhātithi and Govindarāja. 
+rājan'. The Srāddhakalpataru on p. 46 mentions Manjari kāra' and on p. 259 Smrtimanjarīkāra'. The same work is meant in both places. The Srāddhakānda (Kalpataru ) pp. 46-47 ) quotes a long passage from the Vāyupurāṇa stating that some kind of edible grains, vegetables, and other articles should be offered in Srāddha. One of these is Kāleya, which is explained by Govindarāja. On Manu III. 285, Govinda rāja's gloss is not accepted by Kullūka, while on Manu II]. 178 Kullūka agrees with both Medhātithi and Govindarāja. 
 
 Raghunandana in Dāyatattva (vol. II, p. 191 ) quotes a verse of Viṣṇu cited by Govindarāja. 
 

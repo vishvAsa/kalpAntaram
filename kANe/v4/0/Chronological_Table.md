@@ -47,7 +47,7 @@ Bhandarkar Oriental Research Institute
 
 History of Dharmaśāstra
 
-100 A. D.-300 A. D.--Yajñavalkyasmrti 100 A. D.-300 A. D.--Visnudharmasutra 100 A. D.-400 A. D.---Naradasmrti 200 A. D-400 A.D.Sabara's bhäsya on Jaimini's Pūrva-mimämsä.
+100 A. D.-300 A. D.--Yajñavalkyasmrti 100 A. D.-300 A. D.--Visnudharmasutra 100 A. D.-400 A. D.---Naradasmrti 200 A. D-400 A.D.Sabara's bhāsya on Jaimini's Pūrva-mimāmsā.
 
 sutra (rather nearer the former date) 300 A. D.-500 A. D.-Brhaspati-smrti on Vyavahāra and other
 
@@ -55,17 +55,17 @@ topics (not yet found). Extracts on Vyavahāra were trans lated in S. B. E. vol.
 
 Gaikwad Oriental series 300 A. D.-600 A. D. Some of the extant Purānas such as Vāyu,
 
-Visnu, Märkandeya, Matsya, Kūrma 500 A. D.-550 A. D.-Varāhamihira, author of Pañca-siddhāntikā,
+Visnu, Mārkandeya, Matsya, Kūrma 500 A. D.-550 A. D.-Varāhamihira, author of Pañca-siddhāntikā,
 
-Brhatsamhitā, Brhat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
+Br̥hatsamhitā, Br̥hat-Jataka and other works. 600 A. D.-650 A. D.-Bana, author of the Kadambari and Harsa
 
-carita 650-665 A. D.--Kašikā, commentary by Vamana and Jayāditya on
+carita 650-665 A. D.--Kaśikā, commentary by Vamana and Jayāditya on
 
 Panini's Astādhyāyi 650-700 A.D.-Kumārilabhatta, author of Tantravārtika and other
 
 works. 600 A. D.-900 A.D. Most of the smrtis such as those of Parasara,
 
-Sankha, Devala and some of the Puranas such as Agni, Garuda. 788 A. D.-820 A.D.-Sankarācārya, the great Advaita philosopher 800 A. D.-850 A. D.--Visvarüpa, the commentator of Yājñavalkya
+Sankha, Devala and some of the Puranas such as Agni, Garuda. 788 A. D.-820 A.D.-Sankarācārya, the great Advaita philosopher 800 A. D.-850 A. D.--Visvarūpa, the commentator of Yājñavalkya
 
 smrti 825 A. D.-900 A. D.-Medhātithi, a commentator of Manusmrti 966 A, D.-Utpala composed his commentary on the BỊhajjātaka of
 
@@ -75,13 +75,13 @@ works 1080 A. D.-1100 A. D.--Vijñāneśvara, the author of the Mitākṣarā
 
 commentary on Yajñavalkya-smrti 1080 A. D.-1110 A. D. Govindarāja, a commentator of Manusmrti 1100-1130 A. D.-Laksmīdhara, the author of a vast digest on
 
-Dharmasastra called Kalpataru or Krtyakalpataru 1100-1150 A. D.-Jimütavāhana, author of the Dāyabhāga, Kāla
+Dharmasastra called Kalpataru or Krtyakalpataru 1100-1150 A. D.-Jimūtavāhana, author of the Dāyabhāga, Kāla
 
 viveka and Vyavahāramātrkā. 1100-1150 A. D. Bhavadevabhatta, author of Prāyaścitta-prakarana
 
 and other works 1110 A. D.-1130—A. D. A parārka, Silāhāra king, composedsa
 
-commentary on Yājñavalkyasmrti 1127 A. D.-1138 A.D.--Mānasollāsa or Abhilaşitārtha-cintamani of
+commentary on Yājñavalkyasmrti 1127 A. D.-1138 A.D.--Mānasollāsa or Abhilaṣitārtha-cintamani of
 
 Someśvaradeva
 
@@ -113,7 +113,7 @@ smrti and other works and brother of Sāyana 1360 A, D.-1390 A.D.-Madanapārijā
 
 compiled under king Madanapala and his son 1360 A.D.-1448 A.D.-These are the dates of the birth and death of
 
-Vidyāpati, author of Gangāvākyävali and other works. Vide Indian Antiquary vol. 14 pp 190-191 for an inscription which records in four eras the grant of the village Bisapi to Vidyapati by king Sivasimha, son of Devasimba (sake 1321, samvat 1455.
+Vidyāpati, author of Gangāvākyāvali and other works. Vide Indian Antiquary vol. 14 pp 190-191 for an inscription which records in four eras the grant of the village Bisapi to Vidyapati by king Sivasimha, son of Devasimba (sake 1321, samvat 1455.
 
 La. Sam. 283 and san 807) 1375 A.D.-1440 A.D.--Sulapani, author of Dipakalika, commentary
 
@@ -161,11 +161,11 @@ scitta, Karmavipāka and about 15 more topics 1590-1630 A.D.-Nandapandita, autho
 
 Vaijayanti (com. on Visnudharmasutra), Sraddha-kalpalatā,
 
-Suddhicandrika, Dattakamimämsä 1610-1640--Kamalakarabhatta, author of Nirnayasindhu and over
+Suddhicandrika, Dattakamimāmsā 1610-1640--Kamalakarabhatta, author of Nirnayasindhu and over
 
-20 works besides 1610-1640--Viramitrodaya of Mitramiśra, of which Tirthaprakāša,
+20 works besides 1610-1640--Viramitrodaya of Mitramiśra, of which Tirthaprakāśa,
 
-Prāyascittaprakāśa, Srāddhaprakāśa are parts 1610-1645-Nīlakantha, author of Bhagavantabhāskara in 12 Mayü
+Prāyascittaprakāśa, Srāddhaprakāśa are parts 1610-1645-Nīlakantha, author of Bhagavantabhāskara in 12 Mayū
 
 khas on Prāyaścitta, Suddhi, Srāddha and other topics 1700--1740-Smrtimuktāphala of Vaidyanātha o 1700-1750 A.D.-Nāgesa or Nagojibhatta, author of about 30 works
 

@@ -143,7 +143,7 @@ Verse 14 of the Intro. to Br. Sarvasva contains the clear words - Dharmadhyaksa-
 
 629 
 
-the Gauda king for religious and charitable purposes. The Matsyapurāna 859 states the qualifications of a Dbarmādhikārin. Halāyudha's career runs to some extent along that of Laks manasena, though it is likely that Halāyudha might have been some years younger than king Laksmanasena. 
+the Gauda king for religious and charitable purposes. The Matsyapurāṇa 859 states the qualifications of a Dbarmādhikārin. Halāyudha's career runs to some extent along that of Laks manasena, though it is likely that Halāyudha might have been some years younger than king Laksmanasena. 
 
 From the data furnished in the Brāhmaṇasarvasva 360 and from certain facts stated in the Adbhutasāgara and the Dānasāgara the time when Halāyudha flourished can be ascertained as falling within limits acceptable to most scholars. From the Br. Sarvasva we learn that Halāyudha was patro nized by king Laksmanasena when H. was quite a young man. We have some evidence not depending on La. Sam. to 
 
