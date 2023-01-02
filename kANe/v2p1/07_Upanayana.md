@@ -88,40 +88,18 @@ The auspicious times according to the Āp. gṛ. and Āp. Dh. S. I. 1. 1. 19, Hi
 
 Later works introduced very intricate rules about the proper months,_tithis_, days and times for upanayana. It is neither possible nor very necessary to go into these astrological details. But a few words must be said as in modern times upanayana is performed only in accordance with these rules. Vṛddhagārgya[^641] laid down that six months from Māgha were the proper months for upanayana, while others say that five months from Māgha are the proper ones. Then 1st, 4th, 7th, 8th, 9th, 13th, 14th, 15th i. e. ( full moon and new moon ) tithis are generally avoided (though there are some counter exoeptions wbich are not set out here). It is stated that upanayana should not be performed whon Venus is so near the sun that it cannot be seen, when the sun is in the first degree of any zodiacal sign, on anadhyaya days and on galagraha [^642] (the tithis specified above). Jupiter, Venus, Mars [^643] and Mercury are respectively the presiding deities of the Ṛgveda and the other Vedas. Therefore the upanayana of those who have to study these Vedas should be performed on the week days presided over by these planets. Among week days Wednesday, Thursday and Friday are the best, Sunday is middling, Monday is the least suitable, but Tuesday and Saturday are prohibited (except that for students of the Sāmaveda and kṣatriyas Tuesday is allowed). Among the nakṣatras [^644] the proper ones are Hasta, Citrā, Svāti, Puṣya, Dhaniṣṭhā, Aśvinī, Mṛgaśiras, Punarvasu, Śravaṇa and Revatī. There are other rules about nakṣatras with respect to those who follow a particular Veda ( which are passed over ). One rule is that all nakṣatras except Bharaṇi, Kṛttikā, Maghā, Viśākhā, Jyeṣṭhā, Śatatārakā are good for all. The Moon and Jupiter must be astrologically strong with reference to the boy's horoscope. The rule about Jupiter probably arose from the fact that Jupiter was supposed to rule over knowledge and happiness and as upanayana was meant to be the entrance for Veda-study, Jupiter's benevolent aspect was thought to be necessary. If Jupiter and Venus are not to be seen owing to nearness to the sun, upanayana cannot be performed. Jupiter when in the 2nd, 5th, 7th, 9th, 11th zodiacal sign from the sign of birth (calculation to be made inclusive of the sign of birth ) is auspicious, when in the 1st, 3rd, 6th, 10th place from the sign of birth it is auspicious after the performance of a propitiatory homa and when it is in the 4th, 8th, 12th place from birth, it is inauspicious. The moon is supposed to be malefic when she is in the 2nd, 4th, 5th, 8th, 9th or 12th place from the sign of birth. Four hours from sunrise is the best for upanayana, from that time to noon is middling and afternoon is prohibited. Some said that a person's upanayana should not be performed in the month in which he was born, others restricted the prohibition to the pakṣa ( the half) of the month in which he was born. There are other rules about the Lagna (the rising zodiacal sign at the time of upanayana ) whioh are not set out here. There are other prohibited astrological conjunctions like Vyatīpāta, Vaidhṛti &c. For detailed rules on these, works like the Saṁ. Pr. (pp. 355-385), Nirṇayasindhu and Dharmasindhu may be consulted.
 
-[^641]: मासान् आह वृद्धगार्ग्य:। माघादिमासषढ्के तु मेखलाबन्धनं मतम्। quoted in संस्कारप्रकाश p. 355; तथा च ज्योतिष:शास्त्रम्। माघादिषु च मासेषु    पञ्चसु शक्यते। एतच्च वर्णत्रयसाधारणम्। स्मृति I. p. 27. 
+[^641]: मासान् आह वृद्धगार्ग्य:। माघादिमासषढ्के तु मेखलाबन्धनं मतम्। quoted in संस्कारप्रकाश p. 355; तथा च ज्योतिष:शास्त्रम्। माघादिषु च मासेषु मौञ्जी पञ्चसु शस्यते। एतच्च वर्णत्रयसाधारणम्। स्मृतिच∘ I. p. 27. 
 
-[^642]: नष्टे चन्द्रेऽस्तगे शुक्रे निरंशे चैव भास्करे। कर्तव्यमौपनयनं नानध्याये गलग्रहे॥......त्रयोदशी चतुष्कं तु सप्तम्यादित्रयं तथा। चतुर्थ्येकादशी प्रोक्ता अष्टावेते गलग्रहा:॥ स्मृतिच. I. p. 27; अपरार्क p. 32 cites the first as from पुराण. 
+[^642]: नष्टे चन्द्रेऽस्तगे शुक्रे निरंशे चैव भास्करे। कर्तव्यमौपनयनं नानध्याये गलग्रहे॥......त्रयोदशी चतुष्कं तु सप्तम्यादित्रयं तथा। चतुर्थ्येकादशी प्रोक्ता अष्टावेते गलग्रहा:॥ स्मृतिच∘ I. p. 27; अपरार्क p. 32 cites the first as from पुराण. 
 
-[^643]: The निर्णयसिन्धु quotes नारद as to गलग्रह differently 'कृष्णपक्षे चतुर्थी च सप्तम्यादिदिनत्रयम् । त्रयोदशीचतुष्कं च अष्टावेते गलग्रहा:॥'. गुरुर्भृगुसुतो धात्रीपुत्र: शशधरात्मज:। स्युरेते ऋग्यजु:सामाथर्वणामधिपा: क्रमात्॥ स्मृतिच.I. p. 27. 
+[^643]: The निर्णयसिन्धु quotes नारद as to गलग्रह differently 'कृष्णपक्षे चतुर्थी च सप्तम्यादिदिनत्रयम् । त्रयोदशीचतुष्कं च अष्टावेते गलग्रहा:॥'. गुरुर्भृगुसुतो धात्रीपुत्र: शशधरात्मज:। स्युरेते ऋग्यजु:सामाथर्वणामधिपा: क्रमात्॥ स्मृतिच∘ I. p. 27. 
 
-[^644]: हस्ताग्रये पुष्यधनिष्ठयोश्च पौष्णाश्विसौम्यादितिविष्णुभेषु। शस्ते तिथौ चन्द्रबलोपयुक्तो कार्यो द्विजानामुपनायनो विधि:॥ अपरार्क p.32, स्मृतिच I. p. 27. 
-
-
-
-
-Ch, VIII
-
-Proper times for 'Upanayana
-
-: 844. ra gravfargatud droomtatoantarraguitar forut westers wat net formato ART H B B. 32, P . I. p. 27.
-
-648. The farofurang sapaterefter dette
-
-er
-
-et 1. p. 27.
-
-278
-
-
-
-
-
-
+[^644]: हस्ताग्रये पुष्यधनिष्ठयोश्च पौष्णाश्विसौम्यादितिविष्णुभेषु। शस्ते तिथौ चन्द्रबलोपयुक्तो कार्यो द्विजानामुपनायनो विधि:॥ अपरार्क p.32, स्मृतिच∘ I. p. 27. 
 
 For persons who are entitled to perform the upanayana of a boy, vide note 480.
 
-A brahmacārl had to wear two garments, one for the lower part of the body (vāsas), another for covering the upper part of the body (uttariya). Ap. Dh. S. (I. 1. 2. 39-1. 1. 3. 1-2) says that the garment[^845] (vāsas) for a brāhmana, ksatriya or vaisya brahmavari is respectively to be made of bemp, flax, ajina ( deerskin), some teachers prescribe that the lower garment should be of cotton but coloured reddish-yellow for brāhmaṇas; dyed with madder for ksatriyas, dyed with turmeric for vaisyas.' Pār. gr. (II.5), Manu (II. 41 ) speak of 'āvika'( made of wool.) for vaiśys instead of *ajina'. Vas. Dh. 8. (XI. 64-67) says that a brāhmana (brahmacāri) should wear a (lower) garment which is white and unblemished (or new) and for a ksatriya or vaisya it should be the same as in Ap. Dh., but for vaisya Vas. prescribes also one made of kusa grass or he says that all should wear cotton cloth that is undyed.' Gaut. (I, 17-20) on the other hand says for all the lower gar ment may be made of hemp, flax or kuśa grass (cira) or of the hair of the mountainous goat ( kutapa ); other teachers prescribe coloured garments, one coloured with the juice of trees for brāhmaṇas and madder-red and yellow for ksatriya and vaibya. Aśv. gr. (I. 19. 8), Pār. gr. (II. 5), Vas. Dh, S. (XI. 61-63), Baud. gr. (II.5.16 ) say that the upper garment for a brāhmaṇa should be the skin of a black deer, for kṣatriya the skin of ruru deer and for a vaisya of cow-skin or of goat skin. Baud. and Asv. pres. cribe only goat skin. Pār. gļ, adds that if any one cannot secure & skin suited to one's varṇa, he may wear an upper garment of cow-hide as the cow is the chief among animals.648 Baud. gr. II. 5. 16 prescribes the skin of black deer for all in the same
+A brahmacāri had to wear two garments, one for the lower part of the body (vāsas), another for covering the upper part of the body (uttarīya). Āp. Dh. S. (I. 1. 2. 39-I. 1. 3. 1-2) says that 'the garment[^645] (vāsas) for a brāhmaṇa, kṣatriya or vaiśya brahmacāri is respectively to be made of hemp, flax, ajina ( deerskin), some teachers prescribe that the lower garment should be of cotton but coloured reddish-yellow for brāhmaṇas; dyed with madder for kṣatriyas, dyed with turmeric for vaiśyas.' Pār. gṛ. (II.5), Manu (II. 41 ) speak of 'āvika'( made of wool) for vaiśya instead of 'ajina'. Vas. Dh. S. (XI. 64-67) says that a brāhmana (brahmacāri) should wear a (lower) garment which is white and unblemished (or new) and for a kṣatriya or vaiśya it should be the same as in Āp. Dh., but for vaiśya Vas. prescribes also one made of kuśa grass or he says that all should wear cotton cloth that is undyed.' Gaut. (I. 17-20) on the other hand says 'for all the lower garment may be made of hemp, flax or kuśa grass (_cīra_) or of the hair of the mountainous goat ( kutapa ); other teachers prescribe coloured garments, one coloured with the juice of trees for brāhmaṇas and madder-red and yellow for kṣatriya and vaiśya. Āśv. gṛ. (I. 19. 8), Pār. gṛ. (II. 5), Vas. Dh. S. (XI. 61-63), Baud. gṛ. (II.5.16 ) say that the upper garment for a brāhmaṇa should be the skin of a black deer, for kṣatriya the skin of ruru deer and for a vaisya of cow-skin or of goat skin. Baud. and Āśv. prescribe only goat skin. Pār. gṛ. adds that if any one cannot secure a skin suited to one's varṇa, he may wear an upper garment of cow-hide as the cow is the chief among animals. [^646] Baud. gṛ. II. 5. 16 prescribes the skin of black deer for all in the same circumstances. Āp. Dh. S. (I. 1. 3.7-8) gives the option to all varṇas to use a sheep skin (as upper garment) or a woollen plaid ( _kambala_). Āśv. gṛ. ( I. 19. 8-9) appears to suggest that the lower and upper garments may be of the same skin or that the lower garment may be white or coloured ( as stated above by Āp. Dh, S.). The Kāṭhaka gṛ.[^647] ( 41. 13 ) says that the upper garment for the three varṇas should be respectively of the skins of black deer, tiger and ruru deer. A vestige of these rules survives in the modern practice of tying a small piece of deer skin to the yajñopavīta of the boy when his upanayana is performed.
+
 
 645. FTA: 1 ftruftaraffa I Tri Tuguffer i Anford tr FETIERE UT I 274. u. 1. 1. 2. 39-41-1. 1. 3. 1-2;
 
@@ -135,7 +113,6 @@ Garments worn at Upanayana
 
 279
 
-ciroumstances. Ap. Dh. 8. (1. 1. 3.7-8) gives the option to all varṇas to use a sheep skin (as upper garment) or a woollen plaid ( kambala ). Ābv. gr. ( I. 19. 8-9) appears to suggest that the lower and upper garments may be of the same skin or that the lower garment may be white or coloured ( as stated above by Ap. Dh, S.). The Kathaka gr.647 ( 41. 13 ) says that the upper garment for the three varpas should be respectively of the skins of black deer, tiger and ruru deer. A vestige of these rules survives in the modern practice of tying a small piece of deer skin to the yajaopavita of the boy when his upanayana is performed.
 
 That the rules about the lower and upper garments go back to great antiquity is shown by a reference to a Brahmana passage in the Ap. Dh. 8.648 1. 1. 3.9 'one should wear only deer skin ( as lower and upper garments ) if one desires the increase of Vedlo lore, only (cotton) garments if one desires the increase of martial valour and both if one desires both'.
 
