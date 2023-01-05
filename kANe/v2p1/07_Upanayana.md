@@ -108,30 +108,19 @@ A brahmacāri had to wear two garments, one for the lower part of the body (vās
 
 That the rules about the lower and upper garments go back to great antiquity is shown by a reference to a Brāhmaṇa passage in the Āp. Dh. S. [^648] I. 1. 3.9 'one should wear only deerskin ( as lower and upper garments ) if one desires the increase of Vedlo lore, only (cotton) garments if one desires the increase of martial valour and both if one desires both'.
 
+[^648]: ब्रह्मवृद्धिमिच्छन्नजिनान्येव वसीत क्षत्रवृद्धिमिच्छन्वस्त्राण्येवोभयवृद्धिमिच्छन्नुभयमिति हि ब्राह्मणम्। अजिनं त्वेवोत्तरं धारयेत्। आप. ध. I. 1. 3. 9-10; compare भारद्वजगृह्य I.1 यदजिनं धारयेद्ब्रह्मवर्चसवद्वासो धारयेत्क्षत्रं वर्धयेदुभयं धार्यमुभयोर्वृद्धत्रा इति ज्ञायते। ; compare the गोपथ ब्रा. 2.4 न तान्तवं वसीत यस्तान्तवं वस्ते क्षत्रं वर्धते न ब्रह्म तस्मत्तान्तवं न वसीत ब्रह्म वर्धतां मा क्षत्रमिति। 
+
 _Daṇḍa_ (staff):-There is some divergence of view about the trees of which the staff was to be made. Āśv. gṛ. ( I. 19. 13 and I. 20.1) says ' a staff of the palāśa wood for a brāhmaṇa, of udumbara for a kṣatriya and of bilva for a vaiśya or all the varṇas may employ a staff of any of these trees.' The Āp. gṛ. 11. 15-16 (this is the same as Āp. Dh. S.I.1.2. 38) says that the staff should be of palāśa wood for a brāhmaṇa, of the branch of the nyagrodha tree ( so that the downward end of the branch forms the tip of the staff) for a kṣatriya, of _badara_ or _udumbara_ wood for a vaiśya; while some teachers say that the staff should be made of a tree (which is used in sacrifices ) without reference to any varṇa.  Gaut. (I. 21 ) and Baud. Dh. S. (II. 5. 17 ) say that the staff of palāśa or bilva should be used for brāhmaṇa and Gaut. (I. 22-23 ) says that aśvattha and pīlu wood staff should be used respectively for kṣatriya and vaiśya or of any sacrificial tree for all varṇas. Baud. gṛ. prescribes nyagrodha or rauhitaka for kṣatriya, and badara or udumbara for vaiśya. Pār. gṛ. (II. 5 ) recommends a staff of palāśa, bilva and udumbara respectively for the three varṇas (or any of these for all ). Kāṭhaka gṛ. (41.22)recommends palāśa, aśvattha and nyagrodha respectively for the three. Manu (II. 45) prescribes bilva and palāśa for brāhmaṇa, vaṭa and khadira for kṣatriya, pīlu and udumbara for vaiśya, and Kulluka adds that two staffs should be used by the boy, as two are recommended in a compound.
 
-647. gori H NIEPOTR mula sa rare fire ATI ATAU 41. 13.
+The staff was required for support, for controlling the cattle of the teacher ( which the student was to tend ), for protection when going out at night and for guidance when entering a river or the like. [^649]
 
-648. TURfstarry Thire HTTP rather Afat e poi starat TT URTE I 974. . I. 1. 3. 9-10; coni pare TETSTIP I. 1 vereret Ur h Tat urn a urang
+[^649]: दण्डाजिनोपवीतानि मेखलां चैव धारयेत्। या. I.29; ' तत्र दण्डस्य कार्यमवलम्बनं गवादिनिवारणं तमोवगाहनमप्सु प्रवेशनमित्यादि' अपरार्क. As the carrying of a staff has a seen result, it need not be carried at all times, according to Apararka (p. 57 ), but the others having unseen results must be worn always.
 
-het formaatis compare the quoti. 2. 4 a re free TFTTTT na मममस्मासान्तन पसीतमा वर्धतो मा क्षत्रमिति ।
-
-280
-
-
-
-
-
-
-
-• The staff was required for support, for controlling the cattle of the teacher ( which the student was to tend ), for proteo tion when going out at night and for guidance when entering a river or the like.649
-
-The length of the staff varied according to the varṇa of the boy. Aśv. gr. I. 19. 13, Gaut. I. 25, Vas. Dh. 8. (XI. 55-57), Par. gr. (II. 5), Manu ( II. 46 ) presoribe that in the case of the brahmana, ksatriya or vaibga boy respectively the staff should be as high as his head, forehead or the tip of the nose, The Sān. gr. ( 11.'1. 21-23, S. B. E. vol. 29. p. 260) on the other hand reverses this ( the brahmans having the shortest staff and the vaisya the longest ). Gaut. I. 26 says that the staff should be one not eaten by worms, should have the bark attached to it, and should have a curved tip, while Manu II. 47 adds that the staff should be straight, pleasing to look at and should not have come into contact with fire. The Sān. gr. (II. 13. 2-3) prescribes that the brahmacāri should not allow any one to pass between himself and his staff and that if the staff, girdle or the yajñopavita break or rend, he has to undergo a penance (same as the one for the breaking of a chariot at a wedding procession ) and that at the end of the period of brahmacarya, he should sacrifice in water the yajñopavita, staff, the girdle and the skin 650 with a mantra to Varuna ( Rg. I. 24. 6) or with the sacred syllable 'om'. Manu II. 64 and Viṣṇu Dh. 8. ( 27. 29 ) say the same thing.
+The length of the staff varied according to the varṇa of the boy. Āśv. gṛ. I. 19. 13, Gaut. I. 25, Vas. Dh. S. (XI. 55-57), Pār. gṛ. (II. 5), Manu ( II. 46 ) prescribe that in the case of the brāhmaṇa, kṣatriya or vaiśa boy respectively the staff should be as high as his head, forehead or the tip of the nose. The Śāṅ. gṛ. ( II. 1. 21-23, S. B. E. vol. 29. p. 260) on the other hand reverses this ( the brāhmaṇa having the shortest staff and the vaiśya the longest ). Gaut. I. 26 says that the staff should be one not eaten by worms, should have the bark attached to it, and should have a curved tip, while Manu II. 47 adds that the staff should be straight, pleasing to look at and should not have come into contact with fire. The Śāṅ. gṛ. (II. 13. 2-3) prescribes that the brahmacārī should not allow any one to pass between himself and his staff and that if the staff, girdle or the yajñopavīta break or rend, he has to undergo a penance (same as the one for the breaking of a chariot at a wedding procession ) and that at the end of the period of brahmacarya, he should sacrifice in water the yajñopavīta, staff, the girdle and the skin [^649] with a mantra to Varuṇa ( Rg. I. 24. 6) or with the sacred syllable 'om'. Manu II. 64 and Viṣṇu Dh. S. ( 27. 29 ) say the same thing.
 
 Mekhala ( girdle):--Gaut. (I. 15), Aśv. gr. ( I. 19. 11), Baud. gr. (IL 5. 13), Manu II. 42, Kathaka gr. (41. 12), Bhār, gṛ. (I. 2) and others prescribe that a girdle made of muñja grass should be
 
-649. Eventaire de la UTE I TI. I. 29; 'iro VETT TIHTS Et mercato ATAMTEACE FÀṢAATUTIQ star. As the carrying of a staff bas a good result, it need not be carried at all timon, socording to Apararka (p. 57 ), but the others having unseen results must be worn always.
-
+649. Eventaire de la UTE I TI. I. 29; 'iro VETT TIHTS Et mercato ATAMTEACE FÀṢAATUTIQ star. 
 650. You are afat I I referat F AWATAF Agri are not guarat That I FIT. T. II. 30. 31. F incang atat!
 
 Oh. VII )
