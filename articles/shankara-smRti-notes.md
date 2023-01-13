@@ -2,6 +2,8 @@
 title = "śaṅkara-smr̥ti-notes"
 +++
 
+Source: akshay nair
+
 ## nambUtiri-paternal-uncle-shrAddha
 In Shankarasmriti, the code of law which became popular in Kerala with rise of Namboothiri tradition, It is stated that the eldest son in a family must perform Pitr Karma for all his paternal uncles as well. 
 
