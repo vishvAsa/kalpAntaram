@@ -19,3 +19,6 @@ Another thing is that Shankarasmriti  forbids Vedadhyayana for Kshatriyas & Vais
 
 ## paśubali
 Shankarasmriti's defense of pashubali: It is stated that animal sacrifices in Yajnas with guidance of Mantras is not himsa. However outside of ritual context one must never kill & eat animals. If one does, he will aquire sin equal to the total number of hair in animal's body.
+
+## Vratyastoma
+As per Shankarasmriti, the Dwijas who don't undergo Upanayana at the right age will fall from their Varna and become Vratyas. Vratyastoma ritual is done to admit the fallen Dwijas back into their respective Varnas. But in Kerala, this ritual is invalid. Hence the theory that the Nairs are fallen Vratya Kshatriyas who couldn't regain their Dwijahood and remained as Sat-Shudras deserve some merit.
