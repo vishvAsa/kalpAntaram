@@ -1,7 +1,12 @@
 +++
 title = "वास्तुसूत्रोपनिषद्"
+
 +++
 
+Reference:  
+Boner, Alice; êarma, SadŒ§iva Rath; and Baumer, Bettina, VŒstusªtra
+Upani·ad: The Essence of Form in Sacred Art: Sanskrit Text, English
+Translation and Notes, (Delhi: Motilal Banarsidass, 1986).
 
 प्रथमप्रपाठकस्य सूत्राणि  
 वास्तोष्पतिर्ज्ञेय इति १   
@@ -215,7 +220,3 @@ title = "वास्तुसूत्रोपनिषद्"
    
    
    
-Reference:  
-Boner, Alice; êarma, SadŒ§iva Rath; and Baumer, Bettina, VŒstusªtra
-Upani·ad: The Essence of Form in Sacred Art: Sanskrit Text, English
-Translation and Notes, (Delhi: Motilal Banarsidass, 1986).
