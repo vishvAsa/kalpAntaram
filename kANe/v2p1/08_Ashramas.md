@@ -127,7 +127,7 @@ llistory of Dharmasastra
 
 ( Ch. VIII 
 
-before the author of the Vedantagūtra or ho did not regard tbe Jābālopaniṣad as very authoritative ; itherwise thero would hardly have been any need for the Vedāntabūtrakāra (in the Vedantasūtra III. 4. 18-20 ) to hold a discussion on Chandogya II. 23. 1. 
+before the author of the Vedantasūtra or ho did not regard tbe Jābālopaniṣad as very authoritative ; itherwise thero would hardly have been any need for the Vedāntabūtrakāra (in the Vedantasūtra III. 4. 18-20 ) to hold a discussion on Chandogya II. 23. 1. 
 
 It is clear that in the tiines of the earliest Upanisade at least three ( if not four) asramas were known and that all four were known by their specific names to the Jābālopaniṣad. In the Svetaśyataropaniṣad (VI. 21 ) we have the word * atyāśramibhyah'. It is said there that the sage Svetasvatara, who acquired knowledge of Brahma, proclaimed the knowledge to those who had rison above the mere observances of asramas. 
 

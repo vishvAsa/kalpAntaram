@@ -67,7 +67,7 @@ of Someśvaradeva. 1150 - 1160 A. D. --- Rajatarangini of Kalhana. .. 1150 - 120
 
 Chronological Table : 
 
-1200 - 1225 A. D. - Smrticandrika of Devannabhatta. 1150 -- 1300 A. D. - Haradatta, com. on Gautamadharmagūtra i and Apastambadharmasūtra. 
+1200 - 1225 A. D. - Smrticandrika of Devannabhatta. 1150 -- 1300 A. D. - Haradatta, com. on Gautamadharmasūtra i and Apastambadharmasūtra. 
 
 1150 -- 1300 A. D. - Kullūka, com. of Manusmrti. 1200-1300 A. D. --- Vyavahāranirṇaya of Varadarīja. 1260 -- 1270 A. D. - Caturvargacintamani of Hemādri. 1290 -- 1370 A. D. - Candeśvara, author of Rājanitiratnākara, 
 

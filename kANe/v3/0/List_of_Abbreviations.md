@@ -21,7 +21,7 @@ vol. III relating to Gupta Inscriptions ) O. L. J. = Calcutta Law Journal Com. =
 
 
 
-D.O. - Deccan College Collection(when mss. are concerned) Dh. S. = Dharmagūtra D. K. S. = Dāyakramasangraha of Srikrypa D. N. = Dattakamsmāmgā of Nandapandita E. C. = Epigraphia Carnatica E. I. = Epigraphia Indica F. B. = Full Bench ( decision ) 
+D.O. - Deccan College Collection(when mss. are concerned) Dh. S. = Dharmasūtra D. K. S. = Dāyakramasangraha of Srikrypa D. N. = Dattakamsmāmgā of Nandapandita E. C. = Epigraphia Carnatica E. I. = Epigraphia Indica F. B. = Full Bench ( decision ) 
 
 i The Social organization in North-east India in Fick y = Buddha's time (translated from German by 
 
@@ -45,7 +45,7 @@ List of Abbreviations Employed
 
 Mit. = Mitakṣarā on the Yājñavalkya-smrti M. L. J. = Madras Law Journal Moo. I. A. = Moore's Indian Appeals ( Reports 
 
-N. or n. = footnote Nār. = Nārada-smrti Nir. S. = Nirnayasindhu Nitisāra = Kamandaklya-niti-sāra N. I. A. = New Indian Antiquary, Poona Pan. = Pānini's Astādhyāyi Pār. Gș. = Pāraskara-gļhya-gūtra Par. M. = Parāśāra-Mādhaviya Patna = Indian Law Reports, Patna Series P. C. = Privy Council P.J. = Printed Judgments of the Bombay High Court Q. or q. = Quoted Raghu. = Raghuvamsa 
+N. or n. = footnote Nār. = Nārada-smrti Nir. S. = Nirnayasindhu Nitisāra = Kamandaklya-niti-sāra N. I. A. = New Indian Antiquary, Poona Pan. = Pānini's Astādhyāyi Pār. Gș. = Pāraskara-gļhya-sūtra Par. M. = Parāśāra-Mādhaviya Patna = Indian Law Reports, Patna Series P. C. = Privy Council P.J. = Printed Judgments of the Bombay High Court Q. or q. = Quoted Raghu. = Raghuvamsa 
 
 a ) Rājadharnakāṇda of Kalpataru ( on p. 43 Rāja Dh. K 
 

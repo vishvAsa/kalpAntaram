@@ -395,7 +395,7 @@ Kamsa by Kṛsụa. That some verses quoted by the Maha bhāsya are found in the
 
 The date of the Mahābhāṣya is generally accepted to be about 150 B, C.; vide (pp. 75-79 above). It quotes a quarter of a verse stating that some person followed the Pandava hero with only a sword in his hand and Pāṇini knows the central figures of the great Epic viz. Yudhisthira and Arjuna. It has been shown above (p. 75 ) that Panini flourished about 450 to 400 B.C. Therefore, it follows that there were poems about Pandava heroes and about Krsna killing Kamsa some time before 400 B. C. Scholars would have to assign 500 B. C. as the latest date for the core of the Mahābhārata. 
 
-Another circumstance pointing to the same conclusion is that the Asv. Gș. mentions " Bhārata-Mahābhārata dharmā cāryāḥ'. The Gșhyagūtras belong to the latest phase of the Vedic literature. The mention of Bhārati and Mahābhārata as preceding the Āśv. Gș. would make it very probable that the Mahābhārata was in existence at least just before the end of the Vedic period. 
+Another circumstance pointing to the same conclusion is that the Asv. Gș. mentions " Bhārata-Mahābhārata dharmā cāryāḥ'. The Gșhyasūtras belong to the latest phase of the Vedic literature. The mention of Bhārati and Mahābhārata as preceding the Āśv. Gș. would make it very probable that the Mahābhārata was in existence at least just before the end of the Vedic period. 
 
 One warning already given by Winternitz in ' History of Indian Literature' (Calcutta, 1927 p. 469) and accepted by the late Dr. V. S. Sukthankar (in 'Epic Studies' VIII in Kane Festschrift p. 474 ) with an addition is that when we want to use a stanza for historical and comparative purposes each 
 

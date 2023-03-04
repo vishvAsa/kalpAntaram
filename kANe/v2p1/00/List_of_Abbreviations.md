@@ -9,7 +9,7 @@ A. I R. = All India Reporter (edited by Mr. V. V.
 
 Chitaley of Nagpur ). Ait. Br. = Aitareya Brahmaṇa. All. = Indian Law Reports, Allahabad Series. Anan, or Anand. = Anandasrama Press edition, Poona. Āp. Dh.S. > Apastamba-dharmasutra. Ap. gr. = Āpastamba-gphya-sūtra. ĀP. M. P. = Apastamba-mantra-patha. Ap. Sr. = Āpastamba-srauta-sūtra. Ā§v. gr. = Aśvalāyana-grhya-sūtra. Āśy. Śr. = Asvaldyana-srauta-sūtra. A. S. W. 1. = Archaeological Survey of Western India 
 
-Reports. Baud. Dh. S. = Baudhāyana-dharma-sūtra. Baud. gs. = Baudhāyana-gphya-gūtra, Baud. sr. Baudhāyana-srautasūtra. Bhār. gr. = Bharadvāja-gļhya-sutra. B. I. = Bibliotheca Indica series, Caloutta. Bom, — Indian Law Reports, Bombay Series. Bom. H. C. R. = Bombay High Court Reports (vol. I-XII). Bom, L. R. = Bombay Law Reporter (edited by Ratanlal 
+Reports. Baud. Dh. S. = Baudhāyana-dharma-sūtra. Baud. gs. = Baudhāyana-gphya-sūtra, Baud. sr. Baudhāyana-srautasūtra. Bhār. gr. = Bharadvāja-gļhya-sutra. B. I. = Bibliotheca Indica series, Caloutta. Bom, — Indian Law Reports, Bombay Series. Bom. H. C. R. = Bombay High Court Reports (vol. I-XII). Bom, L. R. = Bombay Law Reporter (edited by Ratanlal 
 
 and Dhirajlal ). B. O. R. I. = Bhandarkar Oriental Research Institute, 
 

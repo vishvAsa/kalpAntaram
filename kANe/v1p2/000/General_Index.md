@@ -199,7 +199,7 @@ southerner, p. 29; contents of, pp. 23, p. 78712.
 
 56ff.; age of, pp. 70, 73 ff.; bhāsya 
 
-kūra of, p. 89; Haradatta's com. Aotyajas, Viṣṇucharnagūtra prohi 
+kūra of, p. 89; Haradatta's com. Aotyajas, Viṣṇucharnasūtra prohi 
 
 Cjjvalā on, pp. 89, 742; conflict bits speuch with, p. 121 ; oven, between views of, and of Baudbā. Pp. 262, 508 ; no prayilīcitta for 
 

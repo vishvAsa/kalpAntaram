@@ -57,7 +57,7 @@ TAUTAPATATE fen: tapar fra foran na SEAT ... ... \# FREE तपसा श्र�
 
 (Ch. XXVII 
 
-Ultimately he is to leave the keeping of fires by depositing the sacred fires in his own self according to the rules prescribed (in Vaikbānasa gūtra ). Vide Manu VI. 25, Yāj. IIT. 45. 
+Ultimately he is to leave the keeping of fires by depositing the sacred fires in his own self according to the rules prescribed (in Vaikbānasa sūtra ). Vide Manu VI. 25, Yāj. IIT. 45. 
 
 (3) He has to give up all food that he used to partake of when he was in his village and also all household parapber nalia ( cows, horses, beds &c.) and subsist on flowers, fruits, roots and vegetables growing in the forest on land or in water or on corn fit for sages such as nīvāra and syāmaka (Manu VI. 5 and 13, Gaut. III. 26 and 28). But he has to avoid partaking of honoy, flesh, mushrooms growing on the ground, and the vegetables called Bhūstṛna, Sigruka, the Sleṣmātaka fruit, though these are forest produce (Manu VI. 14). Gautama allowed him as a last resort to partake of the flesh of animals killed by carnivorous beasts. Yāj. IIC. 54-55, Manu VI. 27-28 allow him to beg for alms at the dwellings of other hermits or allow bim to go to a village and bring by begging silently eight morsels of food. He can use salt prepared by himself only ( Manu V1. 12). 
 

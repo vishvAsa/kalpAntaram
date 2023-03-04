@@ -1059,7 +1059,7 @@ History of Dhurmadāstra
 
 
 
-Gopa. Vide note 184. He is the modern Gavli and a kūdrs subcasto. Yaj. II. 48 says that debts contracted by gopa wives must be paid by their husbands as the latter's profession and earnings depend upon them. The Kāmagūtra (1. 5. 37 ) mentions a caste oalled Gopalaka. 
+Gopa. Vide note 184. He is the modern Gavli and a kūdrs subcasto. Yaj. II. 48 says that debts contracted by gopa wives must be paid by their husbands as the latter's profession and earnings depend upon them. The Kāmasūtra (1. 5. 37 ) mentions a caste oalled Gopalaka. 
 
 Golaka. He is the offspring of a clandestine intercourse between a brāhmana widow and a brābmapa male. Vide Manu III. 174, Lagbu-Satātapa 105, Sūtasamhita ( Śiva. 12. 12 ). 
 
@@ -1403,7 +1403,7 @@ in Gaut. IV. 17 and Uśanas ( 20 ) he is the offspring of a sūdra male from a v
 
 Vyādha (huntainan h-inentioned by Sumantu in Aparārka p. 1176 and Hārsta ( quoted by Aparārka p. 279), Āpastamba (Verse ) 9. 32, Yāj. II. 48. 
 
-Vrātya. According to Ap. Dh. S. I. 1, 1.22-1.1.2. 10, Pār. gr. II. 5 and other gūtra works a vrūlya is one on whom and on whose ancestors the samskāra of upanayana has not been per formed. But in other works like Baud. Dh. 8. (I. 9. 15), the word yrātya is applied to all who are born of the mixture of varṇas. 
+Vrātya. According to Ap. Dh. S. I. 1, 1.22-1.1.2. 10, Pār. gr. II. 5 and other sūtra works a vrūlya is one on whom and on whose ancestors the samskāra of upanayana has not been per formed. But in other works like Baud. Dh. 8. (I. 9. 15), the word yrātya is applied to all who are born of the mixture of varṇas. 
 
 Saka. Manu ( X. 43-44 ) mentions Sakas along with Yava nas and others as originally kṣatriyas reduced to the state of śūdras. Vide note on Yavana (p. 92) above. They are mentioned in the Mahābhārata along with Yayana and other non-Aryan tribes. Vido Sabhā 32. 16-17, 51. 23, Udyoga (4. 15; 19, 21; 160. 103 ), Blisma ( 20. 13 ), Droṇa ( 121. 13). Saka occurs in the kambojādigana ( Pāṇ. IV. 1. 175 ). Vide note 200. 
 

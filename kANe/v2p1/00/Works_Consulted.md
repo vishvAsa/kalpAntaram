@@ -59,7 +59,7 @@ University Oriental Library publications, 1920. Baudhāyana-gļhyaseṣa-sutra (
 
 sutra ), Baudhāyana-pits-medhasūtra ( in the ed. of the gļhya). Baudhayana-dharma-sutra-Anandāśrama Press, Bhāradyājagļhya-sūtra-edited by Dr. Salomons (Leyden, 1913). Brhad-devatā ( edited by Prof. Macdonell in the Harvard 
 
-Oriental series ). Drāhyāyaṇa-brautra-gūtra-Edited by Dr. Reuter (vol. I only ). Gautama-dharmasūtra with the commentary of Haradatta 
+Oriental series ). Drāhyāyaṇa-brautra-sūtra-Edited by Dr. Reuter (vol. I only ). Gautama-dharmasūtra with the commentary of Haradatta 
 
 (Anandāsrama Press). Gobhila-grhya-sutra--(B. I. Series ). Gșhyasamgraha-parisista (edited by Bloomfield in Z. D. M. G. 
 
@@ -89,7 +89,7 @@ Government Oriental Library series ). Lātyāyana-srauta-sūtra, with the commen
 
 volumes ( in Kashmir series of texts, 1928). It is the same 
 
-as Kāthakagṛhyagūtra. Manava grbya with the commentary of Aṣtavakra (Gaikwad's 
+as Kāthakagṛhyasūtra. Manava grbya with the commentary of Aṣtavakra (Gaikwad's 
 
 Oriental Series, Baroda, 1926). Paraskara.gphya-sūtra-edited by Mahamahopādhyāya Shridbar 
 
@@ -97,7 +97,7 @@ gastri Pathak with a Marathi translation. Here and there the Gujarati Press edit
 
 has been referred to for the sake of the commentaries. Saṅkhyāyana-srauta-sūtra-edited by Dr, Hillebrandt in three 
 
-volunies (B. I. series ). Saṅkhyāyana-grhya-sūtra-game 88 Kausitaki-grhyd-gūtra 
+volunies (B. I. series ). Saṅkhyāyana-grhya-sūtra-game 88 Kausitaki-grhyd-sūtra 
 
 ( Benares Sanskrit series ). Saṅkha-Likhita-dharmasūtra-reconstructed by P. V. Kane and 
 
@@ -109,7 +109,7 @@ dasrama Press ). Vaikhanase-smārta-sūtra-edited with English translation by
 
 Dr. Caland, Calcutta, 1927. Vārabasrauta-sūtra--edited by Dr. Caland and Dr. Raghu Vira, 
 
-Lahore 1933. Vāraha-gļhya-gūtra-Gaikwad Oriental Series, Baroda, 1921. Vasistha-dbarma-sūtramedited by Dr. Fūhrer in the Bombay 
+Lahore 1933. Vāraha-gļhya-sūtra-Gaikwad Oriental Series, Baroda, 1921. Vasistha-dbarma-sūtramedited by Dr. Fūhrer in the Bombay 
 
 Sanskrit series. Viṣṇu-dharma-sūtra-edited by Dr. Jolly, Caloutta, 1881. 
 
@@ -319,7 +319,7 @@ swami Aiyar at the Madras Law Journal Office (1933),
 
 except where some other edition is specially referred to. Rgveda-prātisakhy&medited by Dr. Mangaldev Shastri in the 
 
-Panjab Oriental series ( 1937 ). Rgvidhāna-edited by Dr. Meyor ( transliterated). Sabara's Bhāṣya on the Pārvamimāmsā-sutra ( vide Jaimini). Sakuntala of Kalidasa ( edited by Prof. Monier Williams). Samkarāoārya's bhāsya on the Vedāntagūtra (Nirnayasāgara 
+Panjab Oriental series ( 1937 ). Rgvidhāna-edited by Dr. Meyor ( transliterated). Sabara's Bhāṣya on the Pārvamimāmsā-sutra ( vide Jaimini). Sakuntala of Kalidasa ( edited by Prof. Monier Williams). Samkarāoārya's bhāsya on the Vedāntasūtra (Nirnayasāgara 
 
 press, 1927). Sāradātilaka with the commentary of Raghavabhatta (Kashi 
 

@@ -495,7 +495,7 @@ Customs of families will be briefly referred to later on in connection with mode
 
 vol. II pp. 260 and 265. 
 
-The digests contain numerous examples about the customs and usages that were adhered to among the followers of the several Vedic branches (sākkās) and the gphya gūtras in perform ing several religious rites. A few examples may be set out here by way of illustration. According to Yaj. L 242 the offering of pindas to the pitss in a sraddha takes place after the brahmapas invited at the śrāddha are fed, while Manu III. 261 shows that they were offered also before the brāhmaṇas were fed. The Sm. C. (on śrāddha p. 471) says that one should follow the practice of one's own Vedic sakha. Among the five daily sacrifices ( mahāyajfias) one is pitryajña, which aco, to some ( such as Katyāyana ) means tarpaṇa, while according to Manu 
+The digests contain numerous examples about the customs and usages that were adhered to among the followers of the several Vedic branches (sākkās) and the gphya sūtras in perform ing several religious rites. A few examples may be set out here by way of illustration. According to Yaj. L 242 the offering of pindas to the pitss in a sraddha takes place after the brahmapas invited at the śrāddha are fed, while Manu III. 261 shows that they were offered also before the brāhmaṇas were fed. The Sm. C. (on śrāddha p. 471) says that one should follow the practice of one's own Vedic sakha. Among the five daily sacrifices ( mahāyajfias) one is pitryajña, which aco, to some ( such as Katyāyana ) means tarpaṇa, while according to Manu 
 
 1728. Tagun E FEATH ID. IX. 17. 
 

@@ -83,7 +83,7 @@ Prof. T. R. Chintamani submitted an important paper at the Benares Session of th
 
 739 अत्र भारुचिः । निष्कारणमिति वदता विष्णुना समनन्तरकर्तृणां पुत्रादीनां 
 
-farlanac IESIR o cacialfraria i 7. f. para 874 (p. 42%), The gūtra of Farby is laasi HIIHENTET FTCOTTUTH. The words of सुदर्शनाचार्य are इममेवार्थ भारुचिरप्याह यस्मिन्पक्ष अपुत्रो मातामह पुत्रिकासुतश्चाखिलद्रव्यहारी तस्मिन्पक्षे तस्य पिण्डदनिनियमः इत्याना grita i 
+farlanac IESIR o cacialfraria i 7. f. para 874 (p. 42%), The sūtra of Farby is laasi HIIHENTET FTCOTTUTH. The words of सुदर्शनाचार्य are इममेवार्थ भारुचिरप्याह यस्मिन्पक्ष अपुत्रो मातामह पुत्रिकासुतश्चाखिलद्रव्यहारी तस्मिन्पक्षे तस्य पिण्डदनिनियमः इत्याना grita i 
 
 FOUN 
 

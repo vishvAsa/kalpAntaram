@@ -623,7 +623,7 @@ Baudhayanagphya-paribhasa, 1080,
 
 sipta, 110. Baudh&yana-pits-modhasutra, 688, 
 
-618n. Baudhayapa-drauta-gūtra, 995, 997, 
+618n. Baudhayapa-drauta-sūtra, 995, 997, 
 
 999, 1001, 1003, 1005, 1010n, 10130, 
 
@@ -1031,7 +1031,7 @@ Case of images of gods, cows, trees, sbould be donated by him who is 346.
 
 at door of death, 879; killed or let Clothes: rules about tucking up loose in Madhuparka in anoiont 
 
-the lower garmont, 672 ; tarpya tiines, 545, 773; milk of agoihotra garnont worn by sacrificer in cow belongs to various deities at Mabā vrata, 670–671 ; to be worn various stages, 10010 ; oooasions in Dovapaja must be different from on whioh cow was killed acoording those to be worn on the road, 672; to grbya and dbarma gūtran, 776– to be worn by brabmacarin, 278 777 ; one sacrificing his lifo in 279; to be worn by householder, defence of cow or brābbana bo 669-678; two garments to be worn | camo free from gravest dias, 775; 
+the lower garmont, 672 ; tarpya tiines, 545, 773; milk of agoihotra garnont worn by sacrificer in cow belongs to various deities at Mabā vrata, 670–671 ; to be worn various stages, 10010 ; oooasions in Dovapaja must be different from on whioh cow was killed acoording those to be worn on the road, 672; to grbya and dbarma sūtran, 776– to be worn by brabmacarin, 278 777 ; one sacrificing his lifo in 279; to be worn by householder, defence of cow or brābbana bo 669-678; two garments to be worn | camo free from gravest dias, 775; 
 
 1296 
 
@@ -2307,7 +2307,7 @@ Mac Munn, Sir George, 187, Lakulas or Lakulidas, 737 and a. MacNaughton, 520. Lu
 
 803p. 
 
-Madadir, water heated on gārhapatya Latydynpa-srauta-gūtra, 481, 1133. and used for making dough from 
+Madadir, water heated on gārhapatya Latydynpa-srauta-sūtra, 481, 1133. and used for making dough from 
 
 1145, 1168, 1169, 1182n, 1183, 1193, pounded grains, 1030. 1195n, 1199n, 12070 &c. 
 
@@ -2957,7 +2957,7 @@ elder brother or sister before whom Parasikas, practice of marrying the & younge
 
 motber among, 505. 
 
-curred sin, 647; enumerated Paraskara-gļhya-gūtra, 196, 197, 203, among upapatakas by Vipnu Dh. 8, 
+curred sin, 647; enumerated Paraskara-gļhya-sūtra, 196, 197, 203, among upapatakas by Vipnu Dh. 8, 
 
 208, 219, 220, 234, 235, 251, 255, 648; one kindling sacred fires or 263, 268, 275, 278, 282n, 300, 441, performing a Vedic sacrifico be 448, 532, 533 &c. 
 
