@@ -8,6 +8,12 @@ title = "044 अण्डाजाः पक्षिणः"
 Birds, Serpents, Crocodiles, Fishes, Tortoises, and other animals of similar kinds, terrestrial as well as aquatic,—are oviparous.—(44)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Birds, snakes, crocodiles and tortoises form another group and born from eggs, just like the aquatic animals.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 **नक्राः** शिशुमरादयः । **कच्छपः** कूर्मः । **यानि चैवंप्रकाराणि** कृकलासादीनि **स्थलजानि** । एवंरूपाण्य् **औदकानि** जलजानि शङ्खादीनि ॥ १.४४ ॥

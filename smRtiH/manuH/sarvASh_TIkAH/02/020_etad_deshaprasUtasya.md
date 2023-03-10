@@ -8,6 +8,12 @@ title = "020 एतद् देशप्रसूतस्य"
 All men on the earth may learn their respective duties from the Brāhmaṇa born in these countries. (20)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+From the foremost men born in that land, let all men on earth learn their etiquettes. 
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 एतेषु देशेषु कुरुक्षेत्रादिषु प्रसूतस्य **अग्रजन्मनः** ब्राह्मणस्य **सकाशात्** **स्वं स्वं चरित्रम्** आचारं **शिक्षेरन्** जिज्ञासेरन् । "तस्मिन् देशे" (म्ध् २.१८) इत्य् अनेनैतद् व्याख्यातम् ॥ २.२० ॥

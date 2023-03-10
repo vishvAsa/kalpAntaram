@@ -8,6 +8,12 @@ title = "019 तेषाम् इदम्"
 From out of the Subtile constituents of the frames of the said exceedingly potent principles is produced this (Gross Body)—the perishable proceeding from the imperishable.—(19)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The minute particles of the primary elements, seven in number, known as the purushas of great potential, give rise to various impermanent combinations that comprise the universe, while being indestructible themselves. 
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 सूक्ष्मात् स्थूलम् उत्पद्यते संभवति । **अव्ययाद् व्ययम्** इत्य् एतावति तात्पर्यम् । न तु षण्णां सप्तानां वा तत्त्वानां मात्राभ्य इति । चतुर्विंशतितत्त्वानि । तानि सृष्टौ सर्वेषां निमित्तम् । अथ वा पिण्डसृष्टौ सप्तैव प्रधानं कारणम्, षडविशेषाः सप्तमो महान् । तेभ्यो भूतेन्द्रियाण्य् उत्पद्यन्ते । तेषु चोत्पन्नेषु पिण्डीभवति शरीरम् ।

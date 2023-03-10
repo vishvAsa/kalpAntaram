@@ -8,6 +8,12 @@ title = "047 अपुष्पाः फलवन्तो"
 Those trees that are called ‘vanaspati’ bear fruits without flowers; and those called ‘vṛkṣa’ bear both flowers and fruits.—(47)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Those trees, which bear fruit without visible flowers are called vanaspati, and those, which bear both flowers and fruit are called vriksha are the next group of plants (All dicots?).
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 विना पुष्पेण फलं जायते येषां ते **वनस्पतयः** कथ्यन्ते, न वृक्षाः । **पुष्पिणः फलिनश्** **च वृक्षाः** । उभययोगात् क्वचिद् वनस्पतयो वृक्षा अपि उच्यन्ते, वृक्षाश् च वनस्पतयो ऽपि । तत्र विशेषहेतुत्वं[^८८] दर्शयिष्यामः । 

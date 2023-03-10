@@ -11,6 +11,12 @@ This (World) was in existence in the form, as it were, of dense Darkness,—unpe
 “Where we began and whereto we are carried! Manu was asked to expound the duties laid down in the scriptures, and he promised to expound them; under the circumstances, the description of the world in its undifferentiated state (with which the present verse begins) is wholly irrelevant and purposeless. In fact it becomes a true case of the well-known proverb —‘ Being questioned about mangoes, he describes the Kovidāra tree.’ Further, there is no authority in support of what is here described; nor is any useful purpose served by it. So the whole of this First Discourse need not be studied at all.”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+This universe existed un-manifest, unperceived, destitute of structure, un-amenable to probing, un-understandable, wholly immersed, in an inactive state. 
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 <u>क्व अस्ताः</u> क्व निपतिताः । शास्त्रोक्तनिपतितधर्मान् पृष्टस् तान् एव वक्तव्यतया प्रतिज्ञाय जगतो ऽव्याकृतावस्थावर्णनम् अप्रकृतम् अपुरुषार्थं च । सो ऽयं सत्यो जनप्रवादः "आम्रान् पृष्टः कोविदारान् आचष्टे" इति । न चास्मिन् वस्तुनि प्रमाणं न च प्रयोजनम् इत्य् अतः सर्व एवायम् अध्यायो नाध्येतव्यः । 

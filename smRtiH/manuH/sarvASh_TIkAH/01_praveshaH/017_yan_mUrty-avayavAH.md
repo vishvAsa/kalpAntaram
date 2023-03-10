@@ -8,6 +8,12 @@ title = "017 यन् मूर्त्य्-अवयवाः"
 Because the six subtile components of the frame (of primordial matter) enter into (produce) these, therefore the wise ones have described the frame of that (primordial matter) as ‘body.’—(17)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The enlightened ones know the body of the primal entity that constitutes all existence as being framed by those six types of minute particles.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 **मूर्तिः** शरीरम् । तदर्थास् तत्सम्पादका **अवयवाः** । **सूक्ष्माः** **षड्** उक्तस्वरूपाश् च अविशेषाख्याः । **तानीमानि** इन्द्रियाणि वक्ष्यमाणानि च भूतान्य् **आश्रयन्ति** । तस्योत्पत्तेर् भूतान्य् आश्रयन्तीत्य् उच्यते । तदाश्रयोत्पत्तिस् तेषाम् । पठितं च "पञ्चभ्यः पञ्च भूतानि" इति (साम्क् २२) । यद् येन कारणेनाश्रयन्ति तस्मात् कारणात् **शरीरं तस्य** प्रधानस्य येयं मूर्तिः **शरीरम् इत्य्** उच्यते । **मनीषिणः** । मनीषा बुद्धिस् तद्वन्तः पण्डीताः । अथ वा विपरीतः कर्तृभावः । सूक्ष्माः कर्तार इन्द्रियाणि कर्म । अवयवाश् चेन्द्रियाणाम् आश्रयभावं प्रतिपद्यमाना आश्रयन्तीत्य् उच्यते । यथा "बहुभिर् भुक्तः" इति भोजयन् भुक्त इत्य् उच्यते । अथ वानेकार्थत्वाद् धातूनां आश्रयन्ति जनयतीत्य् अर्थः ॥ १.१७ ॥

@@ -8,6 +8,12 @@ title = "004 इन्द्रानिल-यमार्काणाम् �
 At a time when the people were without a King, and were utterly perturbed through fear, the Lord created the King for the protection of all this;—(3) taking out the essential constituents of Indra, Vāyu, Yama, Sūrya, Varuṇa, Chandra and Kubera—(4)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The king is the embodiment of the eternal essences of indra, vAyu (anila), yama, surya (arka), agni, varuNa, chandra and kubera (vittesha).
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 **अनिलो** वायुः । **वित्तेशो** धनपतिर् वैश्रवणः । **मात्रा** अवयवाः । **शाश्वतीः** सारभूताः । **निर्हृत्य** निष्कृष्य ॥ ७.४ ॥

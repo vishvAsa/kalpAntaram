@@ -11,6 +11,12 @@ Among these (Elementary Substances), each succeeding one acquires the quality of
 “Why does the Author use the form ‘ādyādyasya’? The correct form should be ‘ādyasyādyasya’, the repetition of the term ‘ādyasya’ being necessitated by Pāṇini’s Sūtra 8.1.4; just as we have in such expressions as ‘paraḥ paraḥ.’”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The properties of the original particles in a combination, and the way in which they combined, influence the properties of the emergent particles.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 पूर्वश्लोके केचिद् अन्यथा सप्तसंख्या परिकल्पयन्ति । पञ्चेन्द्रियाणि चक्षुरादीनि वर्गीकृतान्य् एकीभवन्ति । बोधहेतुतयैकेन धर्मेण योगाद् एकत्वेन निर्दिश्यन्ते । एवं कर्मेन्द्रियाणि । तौ च वर्गद्वित्वाद् द्वौ पुरुषौ भवतः । पञ्चभूतानि भेदेनैव निर्दिष्टानि कर्यवैलक्षण्यात् । तद् एवं सप्तपुरुषास् तेषां या मूर्त्यर्थाः सूक्ष्मा मात्रा निर्माणकार्याणि तन्मात्राण्य् अहंकारश् च । अन्यत् समानम् । 

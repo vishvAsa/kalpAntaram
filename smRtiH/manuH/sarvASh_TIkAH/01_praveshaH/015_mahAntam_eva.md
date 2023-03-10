@@ -8,6 +8,12 @@ title = "015 महान्तम् एव"
 Also the all-pervading ‘mahat’ (the ‘great’ principle of intelligence); as also all those things that consist of the three constituent attributes, and in due course, also the five organs of sensation which apprehend objects.—(15)
 </details>
 
+
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+The great one was the only existing entity, bearing the three gunas, that enable the five organs, in their order, to perceive existence.
+</details>
+
 <details><summary>मेधातिथिः</summary>
 
 **महान्** इति संज्ञया सांख्यानां तत्त्वं प्रसिद्धम् । **आत्मानम्** इति महता सामानाधिकरण्यम् । सर्वपिण्डसृष्टौ च महत्तयानुस्यूतम्[^४६] अत आत्मव्यवहारः । अहंकारात् पूर्वं पूर्वेण न्यायेन ससर्ज । **सर्वाणि त्रिगुणानि च** । यथानुक्रान्तं यथानुक्रम्यते तत् सर्वं त्रिगुण । सत्वरजस्तमांसि गुणाः । क्षेत्रज्ञाः केवलं निर्गुणाः । प्राकृतो भागः सर्वः सत्त्वरजस्तमोमयः । **पञ्चेन्द्रियाणि** तेषां निर्देश**विषयाणां** रूपरसादीनां यथास्वं **ग्रहीतॄणि** विज्ञानजनकानि । **पञ्च** "श्रोत्रं त्वग्" इत्यादिना वक्ष्यन्ते (म्ध् २.९०) विशेषनामानि[^४७] । **च**सब्देन विषयांश् च शब्दस्पर्शरूपरसगन्धान् पृथिव्यादीनि च ॥ १.१५ ॥

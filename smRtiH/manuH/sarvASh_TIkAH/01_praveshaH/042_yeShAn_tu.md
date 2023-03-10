@@ -11,6 +11,12 @@ That kind of action which belongs to the several beings has been described here.
 “Where has the action been described? In Verses 37 et seq. what occurs is only the mention of the names of several beings, Yakṣa, Rākṣasa and the rest; and their action is not mentioned at all.”
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+I shall describe the classes of creatures in the descending order of their genesis.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 **येषां भूतानां यादृशं कर्म** स्वभावतो हिंस्रम् अहिंस्रं वा तद्वत् तथैव **कीर्तितम्** । इदानीं जन्म**क्रमयोगम् अभिधास्यामि **। <u>क्व पुनः</u> कर्म कीर्तितं यत्रेदं यक्षरक्ष इत्यादि नामनिर्देशो न कर्मनिर्देशः । <u>उच्यते</u> । नामनिर्देशाद् एव कर्मावगतिः, कर्मनिमित्तत्वाद् एषां नामप्रतिलम्भस्य । तथा हि यक्षणाद् भक्षणाद् अशनाद् वा यक्षाः । रहसि क्षणनाद्[^८७] रक्षांसि । पिषिताशनात् पिशाचाः । अद्भ्यः सृता इत्य् अप्सरसः । अमृताख्यायाः सुराया अलाभाद् असुरा । इत्याद्य् अप्य् ऊह्यम् । **जन्मनि** क्रमयोगो जरायुजाण्डजा इत्यादि वक्ष्यते ॥ १.४२ ॥

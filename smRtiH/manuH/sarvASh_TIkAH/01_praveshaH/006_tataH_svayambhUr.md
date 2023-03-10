@@ -8,6 +8,12 @@ title = "006 ततः स्वयम्भूर्"
 Thereafter, the supreme being Hiraṇyagarbha, self-born, unmanifest and bringing into view this (universe), appeared,—dispelling darkness and having his (creative) power operating upon the Elemental Substances and other things.—(6)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Then the Self-existent, indiscernible, but comprising all this, the fundamental elements of the discernible universe, appeared with irresistible power, bursting forth from the darkness.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 तस्या महारात्र्या अनन्तरम् । स्वयं भवतीति **स्वयंभूः** । स्वेच्छया कृतशरीरपरिग्रहो न संसार्यात्मवत् कर्मपरतन्त्रं शरीरग्रहणम् अस्य । **अव्यक्तो** ध्यानयोगाभ्यासभावनावर्जितानाम् अप्रकाशः । अथ वा "**अव्यक्तम् इदम्**" इत्य् एवं पठितव्यम् । **इदम्** अव्यकावस्थं **व्यञ्जयन्** स्थूलरूपैर् विकारैः प्रकाशम् आनयन् । यद् इच्छया पुनर् जगत् प्रादुर् भवति । **प्रादुर् आसीत्** । प्रादुःशब्दः प्राकाश्ये । **तमोनुदः** । तमो महाप्रलयावस्था, ताम् नुदति विनाशयति पुनर् जगत् सृजत्य् अतस् तमोनुदः । **महाभूतानि** पृथिव्यादीनि । आदिग्रहणात् तद्गुणाः शब्दादयो गृह्यन्ते । तेषु वृत्तं प्राप्तम् ओजो वीर्यं सृष्टिसामर्थ्यं यस्य स एवमुक्तः । स्वयम् असमर्थानि महाभूतानि जगन् निर्वर्तयितुम् । यदा तु तेन तत्र शक्तिर् आधीयते तदा वृक्षाद्यात्मना[^२१] विक्रियन्ते । न तु प्रकृतिशक्त्यवस्थानि प्रकृतिरूपापन्नानि महाभूतानि जगत्सर्गादौ महाभूतशब्देनाभिप्रेतानि । पाठान्तरम् "महाभूतानुवृत्तौजाः" इति । अनुवृत्तम् अनुगतम् इति प्रागुक्त एवार्थः ॥ १.६ ॥

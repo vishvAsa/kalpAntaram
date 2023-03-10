@@ -8,6 +8,12 @@ title = "023 कृष्णसारस् तु"
 But the region where the spotted deer roams by nature is to be known as the ‘land fit for sacrificial acts’; beyond that is the ‘land op the Mlecchas.’ (23)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+It is that land where the blackbuck naturally roams, a land fit for the performance of sacrifices; the lands beyond these regions are the regions of the mlecchadeshas
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 कृष्णश्वेतः कृष्णपीतो वा कृष्णसारङ्गो[^१०७] **मृगो यत्र चरति** निवसति । संभव उत्पत्तिर् यत्र देशे तस्य **स्व्भावतः,** न पुनर् देशान्तरात् प्राशस्त्योपायनादिना निमित्तेनानीतस्य कियन्तम् अपि कालं निवासः । **स देशो यज्ञियो** यागार्हो बोद्धव्यः । अतः कृष्णमृगचरणात् परो ऽन्यो **म्लेच्छदेशः** । म्लेच्छाः प्रसिद्धाः । चातुर्वर्ण्यजात्यपेताः प्रतिलोमजातीया अनधिकृता[^१०८] मेदान्ध्रशबरपुलिन्दादयः । 

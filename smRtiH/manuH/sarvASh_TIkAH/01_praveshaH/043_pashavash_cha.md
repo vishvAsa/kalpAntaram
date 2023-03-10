@@ -8,6 +8,12 @@ title = "043 पशवश् च"
 Cattle, Deer, Wild Beasts with two rows of teeth, Rākṣasas, Piśācas and Men are viviparous.—(43)
 </details>
 
+<details><summary>मानसतरङ्गिणीकृत्</summary>
+
+Cattle, deer, carnivorous beasts with two sets of canines, rakshasas (!), pishachas, and men are one group born alive from wombs.
+</details>
+
+
 <details><summary>मेधातिथिः</summary>
 
 एते **जरायुजाः** । जरायुर् उल्बं गर्भशय्या । तत्र प्रथमं ते संभवन्ति । ततो मुक्ता जायन्ते । एष एतेषां जन्मक्रमः । दन्तशब्दसमानार्थो दत्शब्दो ऽन्यो ऽस्तीत्य् उभयतोदत इति प्रथमाबहुवचने रूपं युज्यते ॥ १.४३ ॥
