@@ -7,17 +7,17 @@ I. Tryambaka's Introduction
 
 (Sdhp. 1v. 1-2v. 5) 
 
-Tryambaka opens his treatise with a typical invocation: 'Hail to Gaṇādhipati! Hail to Sarasvati! Hail to (the line) of teachers!'1 Gaṇādhipati, more commonly called Ganapati or Gaṇeśa ('Lord of troops'), is traditionally worshipped as the remover of obstacles. As 'one who causes an auspicious beginning' (mangalārambhaḥ), he is invoked at the start of rituals or other projects. This is however a late development: Gaṇeśa is not invoked in the gṛhyaor dharmasutras. Sarasvati is the goddess of eloquence and learning. 
+Tryambaka opens his treatise with a typical invocation: 'Hail to Gaṇādhipati! Hail to Sarasvati! Hail to (the line) of teachers!'[^1] Gaṇādhipati, more commonly called Ganapati or Gaṇeśa ('Lord of troops'), is traditionally worshipped as the remover of obstacles. As 'one who causes an auspicious beginning' (mangalārambhaḥ), he is invoked at the start of rituals or other projects. This is however a late development: Gaṇeśa is not invoked in the gṛhyaor dharmasutras. Sarasvati is the goddess of eloquence and learning. 
 
 The text continues with four introductory verses. 
 
-1. 'Obedient service to one's husband (bhartṛśuśruṣaṇam) is the primary religious duty enjoined by sacred tradition for women. When the daughter of the Himalayas (Pārvatī) realized that this duty was endorsed by her father, she put it into practice and so assumed the form (abhajata) of half the body of her husband. May she always show me how to follow the path of sacred law!'2 
+[^1] 'Obedient service to one's husband (bhartṛśuśruṣaṇam) is the primary religious duty enjoined by sacred tradition for women. When the daughter of the Himalayas (Pārvatī) realized that this duty was endorsed by her father, she put it into practice and so assumed the form (abhajata) of half the body of her husband. May she always show me how to follow the path of sacred law!'[^2] 
 
 Śuśrūsanam and śuśrūṣā (lit. ‘desire to hear') cover a range of meanings and associations from the reverential (such as the Vedic student's ministrations to his teacher and the devotee's homage to his god) to the subservient (such as the obsequious services of the slave). With regard to women, it manages to combine all three and describes the proper attitude of the wife to her lord: obedience in matters of principle; diligent and attentive service in the practical matters of every day. It also bridges without difficulty the apparent gap between religious duties and daily chores: the wife's service to her husband in the home is her worship of her god. Tryambaka returns to this topic in his concluding section where he defines patiśuśruṣaṇam in three different ways (see section V, p. 305). In particular, he argues that the term 'service' (suśrūṣā) covers every
 
-1. //śrī gaṇādhipataye namaḥ|| ||śrī sarasvatyai namaḥ|| ||śrī gurubhyo namaḥ// //Sdhp.lv. 1. 
+[^1]: //śrī gaṇādhipataye namaḥ|| ||śrī sarasvatyai namaḥ|| ||śrī gurubhyo namaḥ// //Sdhp.lv. 1. 
 
-2. mukhyo dharmah smrtisu vihito bhartr su śrusanam hi strīnām etat pitur anumatam kāryam ity akalayya// tat kurvāṇābhajata vapuṣo bhartur ardham himädreḥ kanyā sā me disatu satatam dharmamärgapravṛttim ||1|| Sdhp.lv.2-4. The metre is mandäkrāntā. 
+[^2]: mukhyo dharmah smrtisu vihito bhartr su śrusanam hi strīnām etat pitur anumatam kāryam ity akalayya// tat kurvāṇābhajata vapuṣo bhartur ardham himädreḥ kanyā sā me disatu satatam dharmamärgapravṛttim ||1|| Sdhp.lv.2-4. The metre is mandäkrāntā. 
 
  
 
@@ -31,7 +31,7 @@ The reference to Pārvatī, one of the most popular examples of the devoted wife
 
 The image also reinforces the ideal oneness of the married human couple: husband and wife as complementary halves of one whole. This is a popular image. In the famous passage from the Bṛhadāraṇyakopaniṣad (1.4.1-2), the primeval Self in the shape of a man (puruṣavidhah) longs for a second: he falls (√pat) into two parts from which arise husband (pati) and wife (patni). Hence their subsequent union is the reuniting of two halves. Similarly, in Sat.Br.V.2.1.10, the sacrificer includes his wife in the väjapeya ritual on the grounds that she is half of himself and he wishes to go to the 'supreme goal' complete. This much-extolled oneness does not, however, bear close examination. The Upanisadic Self, like Śiva, continues to identify 
 
-3. mama cārdham śarīrasya mama cārdhād viniḥsṛtā| ... tvam ...// Mbh. XIII. 134.9a. 
+[^3]: mama cārdham śarīrasya mama cārdhād viniḥsṛtā| ... tvam ...// Mbh. XIII. 134.9a. 
 
 Tryambaka's Introduction 
 
@@ -39,13 +39,13 @@ Tryambaka's Introduction
 
 with his male half, pursuing the female in her various forms for the purpose of sexual intercourse. On the human level, the oneness of the married couple means not the merging of two individuals but the self-effacement of one of them. In the Mahabharata, for example, Gāndhārī adopts not only her husband's lifestyle and interests, but his physical characteristics as well: she binds her eyes so as not to excel the blind Dhṛtarastra in any way (Mbh.I.110.14). As Tryambaka's treatise on women unfolds, it becomes increasingly clear that the ideal wife is one whose duties, purpose and identity derive entirely from her husband. In practical terms, as we shall see, this is what is meant by the oneness of marriage. For the goddess Parvati or the ideal woman such as Sakuntala, the whole woman—as wife becomes absorbed into half the man (ardham bhāryā manuṣyasya; Mbh.I.68.40a). 
 
-2. 'She who desired (only) to gain a husband's blessing long displayed the utmost devotion: (first,) because she wanted to show favour to the world; (secondly,) because it was advocated by sacred tradition; (thirdly,) because it was her father's command. (As a result,) she became one with the body of the Lord (Śiva) whose crest jewel is the crescent moon. May Satī, gem of chaste women, today grant me knowledge in the way of the sacred law!'4 
+[^2]: 'She who desired (only) to gain a husband's blessing long displayed the utmost devotion: (first,) because she wanted to show favour to the world; (secondly,) because it was advocated by sacred tradition; (thirdly,) because it was her father's command. (As a result,) she became one with the body of the Lord (Śiva) whose crest jewel is the crescent moon. May Satī, gem of chaste women, today grant me knowledge in the way of the sacred law!'[^4] 
 
 Sati is the daughter of Dakṣa; that is, Pārvatī in a previous birth. When Daksa insulted Siva by refusing to invite him to his great sacrifice, Sati immolated herself in the fire (Bhag.P.IV.2. 1-IV.4.34; Śiv. P., satīkhanda). Later, when the world was threatened by the demon Taraka, it was prophesied that only the child of Śiva and Parvati could destroy him. So, in order to show favour to the world', Parvati set out to win Śiva: first by her beauty, and, when that failed, by her religious devotion. Eventually, Skanda was born and both gods and universe were saved (Śiv.P., pārvatīkhanda; Sk. P., kāsīkhanda; Rām.I; Kumarasambhava). 
 
 The importance of the son at this mythological level reinforces the orthodox view that the wife's main purpose is to be the bearer of a son for her husband's family. As Sakuntala declares, a wife's 'wifehood' lies in the fact that a husband enters her and is reborn 
 
-4. lokasyānujigṛkṣayā smṛtipurāṇoktyā pituś cājñayā| śuśrūṣām paramām vidhāya suciram bhartuḥ prasādärthinī|| dehädvaitam avāpa ya bhagavataś candrārdgacüḍāmaneḥ/ dadyad adya satī satījanamaniḥ sā dharmapadyāmatim//2// Sdhp.lv.4-6. The metre is särdulavikrīḍitam. 
+[^4]: lokasyānujigṛkṣayā smṛtipurāṇoktyā pituś cājñayā| śuśrūṣām paramām vidhāya suciram bhartuḥ prasādärthinī|| dehädvaitam avāpa ya bhagavataś candrārdgacüḍāmaneḥ/ dadyad adya satī satījanamaniḥ sā dharmapadyāmatim//2// Sdhp.lv.4-6. The metre is särdulavikrīḍitam. 
 
  
 
@@ -55,15 +55,15 @@ Stridharmapaddhati
 
 from her. Satī reincarnates as Pārvatī to give birth to Skanda. Whether for goddess or mortal, Manu's dictum holds: women were created to give birth (Manu IX.96). In so doing, they fit into the ordained scheme of things and thus 'show favour to the world'. In the Satapathabrahmana example quoted earlier, the sacrificer finds in this the logic behind the ‘oneness' of the married couple: without a wife, a man cannot be reborn (naiva. . . prajāyate; meaning both 'to beget' and 'to become an embryo') and so remains incomplete (asarva); by taking a wife, he is reborn and so becomes complete (Śat.Br.V.2.1.10). 
 
-3. "Those sacred laws which, when put into practice, bring women unparalleled fame, greater happiness in this world and the highest goal (in the next) are here described so that they may once more be thoroughly understood. At his mother's command (jananīnideśavacasă), Tryambakayajvan has gathered together those sacred laws relating to women and now proclaims them one by one as they appear in the lawbooks, the purānas and so on.”6 
+[^3]: "Those sacred laws which, when put into practice, bring women unparalleled fame, greater happiness in this world and the highest goal (in the next) are here described so that they may once more be thoroughly understood. At his mother's command (jananīnideśavacasă), Tryambakayajvan has gathered together those sacred laws relating to women and now proclaims them one by one as they appear in the lawbooks, the purānas and so on.”[^6] 
 
 After mätṛ, jananī is perhaps the commonest word for 'mother'. The invocations and references to Parvati may also suggest that Tryambaka is here (and in the final colophon; section V, p. 317, note 8) identifying his own mother with the mother of the universe. A third possibility is that the queen-mother (räjajananī) is meant. This meaning of jananī is attested by H.H. Wilson, presumably drawn from the examples provided to him by the pandits of Calcutta (MW 1976:411; xi). Certainly, Dīpāmba, the mother of both Śāhaji and Serfoji (both of whom Tryambaka served as minister), was a powerful figure whose patronage of scholars is often cited. In particular, she is known to have commissioned Raghunatha Pandita to write two Marathi works on strīdharma at about this time: Narakavarṇana and Pativratădharma (see my introduction, pp. 20–2). 
 
-4. 'I have gathered together some of these sacred laws relating to women, those which have generally come to be considered the 
+[^4]: 'I have gathered together some of these sacred laws relating to women, those which have generally come to be considered the 
 
-5. bhāryām patiḥ sampravisya sa yasmäj jāyate punaḥ / jāyāyā iti jāyātvam purāṇaḥ kavayo viduḥ// Mbh.I.68.36. 
+[^5]: bhāryām patiḥ sampravisya sa yasmäj jāyate punaḥ / jāyāyā iti jāyātvam purāṇaḥ kavayo viduḥ// Mbh.I.68.36. 
 
-6. yeṣām ācāraṇena kīrtir atula bhūyaḥ sukham caihikam/ nārīṇām gatir uttamă ca bhavati jñātum punah kṛtsnaśaḥ || varnyante jananinideśavacasă samgrhya te yoṣitām | dharmās tryambakayajvanā smṛtipurāṇādau pṛthak kirtitäḥ ||3|| Sdhp.lv.6-9. The metre is. särdulavikrīḍitam. 
+[^6]: yeṣām ācāraṇena kīrtir atula bhūyaḥ sukham caihikam/ nārīṇām gatir uttamă ca bhavati jñātum punah kṛtsnaśaḥ || varnyante jananinideśavacasă samgrhya te yoṣitām | dharmās tryambakayajvanā smṛtipurāṇādau pṛthak kirtitäḥ ||3|| Sdhp.lv.6-9. The metre is. särdulavikrīḍitam. 
 
  
 
@@ -71,21 +71,21 @@ Tryambaka's Introduction
 
 33 
 
-best and which are for the most part well known throughout sacred tradition. If virtuous women put them into practice, they will attain a good reputation, unequalled religious merit, immediate happiness in this world and heaven after death.'7 
+best and which are for the most part well known throughout sacred tradition. If virtuous women put them into practice, they will attain a good reputation, unequalled religious merit, immediate happiness in this world and heaven after death.'[^7] 
 
-Tryambaka begins his introduction proper by explaining why the rules for purification (saucācāra) are examined first. 'For it is said that “if a man does not perform the rituals of purification, his actions will bear no fruit.”8 In order to achieve results in other spheres, therefore, one must perform these rituals. This is why the rules for purification are investigated first.'9 
+Tryambaka begins his introduction proper by explaining why the rules for purification (saucācāra) are examined first. 'For it is said that “if a man does not perform the rituals of purification, his actions will bear no fruit.”[^8] In order to achieve results in other spheres, therefore, one must perform these rituals. This is why the rules for purification are investigated first.'[^9] 
 
 It is not entirely clear which sense of sauca is intended here. In its wider sense, as defined by Hārīta, sauca is both external (bähya) and internal (äntara or äbhyantara). External purification includes that of family (kula; due to a birth or death in the family), of objects (artha; such as the vessels and implements in use every day), and of the body (śarīra; in particular the cleansing of the body after urinating, etc.; see section IIA, pp. 71-4. Internal purification includes that of the mind (mānasa), of the eye (cākṣuṣa; i.e. not looking at what should not be looked at), of the nose (ghranya), of speech (vācya), and of the tongue (svādya). In this allembracing sense, therefore, sauca is the first path to dharma, the basis of brahman, the abode of prosperity, a soothing balm to the mind and so on.10 
 
 But this can hardly be what Tryambaka means. For the quotation he gives here reappears in his section on sauca in its narrower sense of the cleansing of the body after urinating and so on. Certainly, failure to follow the requirements laid down was deemed to 
 
-7. strīņām dharmāḥ katicana mayā prāyaśaḥ särabhūtāḥ samgṛhyante smṛtiṣu bahušas tatra tatra prasiddhāḥ || kīrtiḥ punyā sukṛtam atulam saukhyam apy aihikam dräk|pretya svargo bhavati yadanuṣṭhānabhäjām satīnām||4|| Sdhp.1v.9-2r.2. The metre is mandäkrāntā. 
+[^7]: strīņām dharmāḥ katicana mayā prāyaśaḥ särabhūtāḥ samgṛhyante smṛtiṣu bahušas tatra tatra prasiddhāḥ || kīrtiḥ punyā sukṛtam atulam saukhyam apy aihikam dräk|pretya svargo bhavati yadanuṣṭhānabhäjām satīnām||4|| Sdhp.1v.9-2r.2. The metre is mandäkrāntā. 
 
-8. tatra [/] saucācāravihinasya samasta nisphalāḥ kriyah/iti vacanāt // Sdhp.2r.2-3 Dakṣa V.2; Sm.C.II.p.249. For the complete śloka (attrib. there to Baudh.), see section IIA, p.74, note 46. 
+[^8]: tatra [/] saucācāravihinasya samasta nisphalāḥ kriyah/iti vacanāt // Sdhp.2r.2-3 Dakṣa V.2; Sm.C.II.p.249. For the complete śloka (attrib. there to Baudh.), see section IIA, p.74, note 46. 
 
-9. itaradharmasāphalyasiddhyartham saucācārasyāvaśyakatvamxity ādav ācāro nirūpyate// Sdhp.2r.3-4. 
+[^9]: itaradharmasāphalyasiddhyartham saucācārasyāvaśyakatvamxity ādav ācāro nirūpyate// Sdhp.2r.3-4. 
 
-10. saucam nāma dharmadipatho brahmāyatanam śriyo 'dhivāso manasaḥ prasādanam devānām priyam kṣetradarsanam buddhiprabodhanam || Gṛhastharatnākara, cited PVK II.i.p.651. Cf. Baudh.III.1.26; Dakṣa V.3. 
+[^10]: saucam nāma dharmadipatho brahmāyatanam śriyo 'dhivāso manasaḥ prasādanam devānām priyam kṣetradarsanam buddhiprabodhanam || Gṛhastharatnākara, cited PVK II.i.p.651. Cf. Baudh.III.1.26; Dakṣa V.3. 
 
  
 
@@ -95,17 +95,17 @@ Stridharmapaddhati
 
 have dire consequences. In Mbh.III.56.3, for example, evil and difficulty (in the form of kali) take possession of Nala precisely because he has failed to wash his feet after urinating. But if, as seems likely, this narrow meaning is intended, then Tryambaka is speaking somewhat loosely here: he does not in fact examine sauca before he has dealt with several other topics first. The principle, however, is clear. 
 
-Tryambaka's second point is that the rulings he is about to expound apply only to married women. He argues by analogy with the case for men. Three separate and unattributed quotations are produced to support his statement that 'religious law prescribes no rules for men until they have been invested with the sacred thread (lit. “until the binding on of the muñja grass”).’11 
+Tryambaka's second point is that the rulings he is about to expound apply only to married women. He argues by analogy with the case for men. Three separate and unattributed quotations are produced to support his statement that 'religious law prescribes no rules for men until they have been invested with the sacred thread (lit. “until the binding on of the muñja grass”).’[^11] 
 
-First, 'they (the lawbooks or lawgivers) place no restrictions on one's actions until the investiture of the sacred thread (has taken place).'12 In Baudh.I.2.3.6, the quotation is completed with the explanation that, until one is born again through the Veda (i.e. Vedic education), one is on the same level as the sudra. Vas.II.6 quotes Hārīta to the same effect. Secondly, 'before initiation, they (i.e. children; in this context, boys) may do, say and eat what they please.'13 This quotation from Gautama implies that uninitiated children are not expected to obey the rules of social behaviour or grammar, or the prohibitions on food and drink applicable to their elders (cf. Bal. on Yajñ.I.15). According to the Balambhaṭṭī, even if such a child touches a candāla or outcast, he need not take the ritual bath with his clothes on that is normally prescribed. However, Haradatta adds that such licence in fact applies only to very young children, those under five years of age, and not to the uninitiated in general who might (according to some authorities, including Gautama himself, e.g. II.1.6-15) remain so until the age of twenty-two. For the Balambhaṭṭī, the crucial age is six. 
+First, 'they (the lawbooks or lawgivers) place no restrictions on one's actions until the investiture of the sacred thread (has taken place).'[^12] In Baudh.I.2.3.6, the quotation is completed with the explanation that, until one is born again through the Veda (i.e. Vedic education), one is on the same level as the sudra. Vas.II.6 quotes Hārīta to the same effect. Secondly, 'before initiation, they (i.e. children; in this context, boys) may do, say and eat what they please.'[^13] This quotation from Gautama implies that uninitiated children are not expected to obey the rules of social behaviour or grammar, or the prohibitions on food and drink applicable to their elders (cf. Bal. on Yajñ.I.15). According to the Balambhaṭṭī, even if such a child touches a candāla or outcast, he need not take the ritual bath with his clothes on that is normally prescribed. However, Haradatta adds that such licence in fact applies only to very young children, those under five years of age, and not to the uninitiated in general who might (according to some authorities, including Gautama himself, e.g. II.1.6-15) remain so until the age of twenty-two. For the Balambhaṭṭī, the crucial age is six. 
 
-11. tatra puruṣāṇām ā mauñjībandhanāt sāstrena niyamäḥ na vidhiyante maunjībandhanaprabhṛty eva niyamaḥ// Sdhp.2r.4-5 (i.e. sastrena for dharma
+[^11]: tatra puruṣāṇām ā mauñjībandhanāt sāstrena niyamäḥ na vidhiyante maunjībandhanaprabhṛty eva niyamaḥ// Sdhp.2r.4-5 (i.e. sastrena for dharma
 
 sästrena). 
 
-12. nāsya karma niyacchanti kimcid ā mauñjībandhanāt // Sdhp.2r.5-6 < Baudh.1.2.3.6a. Cf. Vas.II.6; Manu II.171-2; Gaut.I.2.5-6, 10-11 (Ān.); Vis.Sm.XXVIII.40; Daksa 1.3-4. 
+[^12]: nāsya karma niyacchanti kimcid ā mauñjībandhanāt // Sdhp.2r.5-6 < Baudh.1.2.3.6a. Cf. Vas.II.6; Manu II.171-2; Gaut.I.2.5-6, 10-11 (Ān.); Vis.Sm.XXVIII.40; Daksa 1.3-4. 
 
-13. prāg upanayanāt kāmacāravadabhakṣaḥ // Sdhp. 2r.6 < Gaut.1.2.1 (SS; An.: prāg upanayanāt kāmacāraḥ kāmavādaḥ kāmabhakṣaḥ). 
+[^13]: prāg upanayanāt kāmacāravadabhakṣaḥ // Sdhp. 2r.6 < Gaut.1.2.1 (SS; An.: prāg upanayanāt kāmacāraḥ kāmavādaḥ kāmabhakṣaḥ). 
 
  
 
@@ -117,17 +117,17 @@ Tryambaka's Introduction
 
 Thirdly, 'once the teacher has performed the initiation ceremony, he should first instruct his pupil in the rituals of purification, good conduct, the worship of the sacrificial fire, and the twilight rituals.' 14 
 
-'In the case of women, however,' Tryambaka continues, 'marriage has taken the place of initiation.'15 Or, as the quotation from Manu puts it, 'for women, the marriage ritual is held to be the equivalent of initiation, serving one's husband that of residing in the teacher's. house, and household duties that of the worship of the sacrificial fire.'16 It thus follows that, 'before marriage, women too are free to do, say and eat what they please; for the rules apply only after marriage.'17 We may safely assume here that Haradatta's restriction of the rule to the very young would apply to women too. For, although Gautama advises men to marry their daughters off before puberty, he also rules that an unmarried girl who has had three menstrual periods may find her own husband. Thus, in Gautama's time at least, a girl might still be unmarried in her early teens (Gaut. II.9.20-1). The Balambhaṭṭī merely adds that the licence given to the uninitiated boy is applied also to a girl, as long as she remains unmarried (with the implication that she would be married by the age of six). Since Tryambaka is concerned only with married women, he does not himself examine the question of exactly when a girl should marry. However, judging by the sternness of his remarks concerning the sanctity of a woman's ṛtu or 'season' (see section IV, pp. 287-8), we may assume that he favours pre-pubertal marriage for girls. Here, he concludes simply that 'the sacred duties he is about to expound are therefore to be performed by women only after they are married.'18 
+'In the case of women, however,' Tryambaka continues, 'marriage has taken the place of initiation.'[^15] Or, as the quotation from Manu puts it, 'for women, the marriage ritual is held to be the equivalent of initiation, serving one's husband that of residing in the teacher's. house, and household duties that of the worship of the sacrificial fire.'[^16] It thus follows that, 'before marriage, women too are free to do, say and eat what they please; for the rules apply only after marriage.'[^17] We may safely assume here that Haradatta's restriction of the rule to the very young would apply to women too. For, although Gautama advises men to marry their daughters off before puberty, he also rules that an unmarried girl who has had three menstrual periods may find her own husband. Thus, in Gautama's time at least, a girl might still be unmarried in her early teens (Gaut. II.9.20-1). The Balambhaṭṭī merely adds that the licence given to the uninitiated boy is applied also to a girl, as long as she remains unmarried (with the implication that she would be married by the age of six). Since Tryambaka is concerned only with married women, he does not himself examine the question of exactly when a girl should marry. However, judging by the sternness of his remarks concerning the sanctity of a woman's ṛtu or 'season' (see section IV, pp. 287-8), we may assume that he favours pre-pubertal marriage for girls. Here, he concludes simply that 'the sacred duties he is about to expound are therefore to be performed by women only after they are married.'[^18] 
 
-14. upanīya guruḥ śisyam sikṣayec chaucam āditaḥ|ācāram agnikāryam ca samdhyopāsanam eva ca// ity adi vacanāt// Sdhp.2r.6-7 Manu I.69. Cf. Sankh.3.1; Yājñ.I.15. 
+[^14]: upanīya guruḥ śisyam sikṣayec chaucam āditaḥ|ācāram agnikāryam ca samdhyopāsanam eva ca// ity adi vacanāt// Sdhp.2r.6-7 Manu I.69. Cf. Sankh.3.1; Yājñ.I.15. 
 
-15. strīṇān tu ... upanayanasthānāpanno vivāha iti // Sdhp.2r.8–9. Cf. Mit. on Yaji.I.15. 
+[^15]: strīṇān tu ... upanayanasthānāpanno vivāha iti // Sdhp.2r.8–9. Cf. Mit. on Yaji.I.15. 
 
-16. vaivähiko vidhih strīnām aupanayanikah smrtah/ patiseva gurau vāso grhärtho 'gniparikriyā || iti manuvacanena // Sdhp.2r.8-9 (Manu) < Manu II.67 (with aupanayanikaḥ from II.68 substituted for samskāro vaidikaḥ, 'the Vedic sacrament'). 
+[^16]: vaivähiko vidhih strīnām aupanayanikah smrtah/ patiseva gurau vāso grhärtho 'gniparikriyā || iti manuvacanena // Sdhp.2r.8-9 (Manu) < Manu II.67 (with aupanayanikaḥ from II.68 substituted for samskāro vaidikaḥ, 'the Vedic sacrament'). 
 
-17. vivähät purvam kämacäravadabhakṣanam // vivähänantaram eva niyamānuṣṭānam // Sdhp.2r.9-10. 
+[^17]: vivähät purvam kämacäravadabhakṣanam // vivähänantaram eva niyamānuṣṭānam // Sdhp.2r.9-10. 
 
-18. ato vakṣyamanadharmäḥ vivahaprabhṛty eva tābhir anustheyah // Sdhp.2r.10-2v.1. 
+[^18]: ato vakṣyamanadharmäḥ vivahaprabhṛty eva tābhir anustheyah // Sdhp.2r.10-2v.1. 
 
 メ 
 
@@ -141,11 +141,11 @@ But this is in origin a historical rather than a philosophical problem (see Lesl
 
 As language and culture developed away from those of Vedic texts, more extensive commentaries became necessary, and increasingly long periods of study were required to understand the 
 
-19. brahmacaryeṇa kanyā yuvānam vindate patim / A.V.XI.5.18a. Cf. A.V.III.8.11 – 15; Sat.Br.I.2.14.13, I.1.12-13; Tait.Br.III.3.3.2–3. 
+[^19]: brahmacaryeṇa kanyā yuvānam vindate patim / A.V.XI.5.18a. Cf. A.V.III.8.11 – 15; Sat.Br.I.2.14.13, I.1.12-13; Tait.Br.III.3.3.2–3. 
 
-20. na hi sūdrayonau brāhmaṇakṣatriyavaiśyā jāyante // Hārīta XXI.20, cited Par.M.I.ii.p.48. 
+[^20]: na hi sūdrayonau brāhmaṇakṣatriyavaiśyā jāyante // Hārīta XXI.20, cited Par.M.I.ii.p.48. 
 
-21. adhyayanam ca vedānām săvitrīvacanam tathā / pitā pitṛvyo bhrātā vā nainām adhyāyayet paraḥ || svagṛhe caiva kanyāyā bhaikṣacaryā vidhīyate | varjayed ajinam cīram jaladharanam eva ca // Vir.S.p. 402 (Yama). 
+[^21]: adhyayanam ca vedānām săvitrīvacanam tathā / pitā pitṛvyo bhrātā vā nainām adhyāyayet paraḥ || svagṛhe caiva kanyāyā bhaikṣacaryā vidhīyate | varjayed ajinam cīram jaladharanam eva ca // Vir.S.p. 402 (Yama). 
 
  
 
@@ -157,7 +157,7 @@ accumulating literature. But whereas it was acceptable for boys to postpone marr
 
 It is often argued that this trend was based on the belief that the increasingly long period of study was vital because even the smallest mistake in ritual or recitation could have disastrous results (e.g. Pāninisikṣā 52, cited Altekar 1978:201–2). Although there is undoubtedly some truth in this, the argument is not wholly convincing. First, women are not the only ones liable to make mistakes. Now as always, men make mistakes all the time. In fact, after each undertaking, a final ritual is performed that is specifically designed to remove the sin of any mistakes made in the process. There are also special prāyaścitta rituals to cope with the problem. Secondly, according to mīmāmsā philosophy, an injunction or prohibition is weakened if it is thought necessary to shore it up with experiental 
 
-22. brahmavādinīnām agnindhanam vedädhyayanam svagṛhe ca bhaikṣacaryeti / sadyovadhūnām tūpasthite vivähe kathamcid upanayanamātram kṛtvā vivāhaḥ kāryaḥ / puräkalpe tu nārīņām mauñjībandhanam iṣyate // Vir. S., p.402 (Hārīta). 
+[^22]: brahmavādinīnām agnindhanam vedädhyayanam svagṛhe ca bhaikṣacaryeti / sadyovadhūnām tūpasthite vivähe kathamcid upanayanamātram kṛtvā vivāhaḥ kāryaḥ / puräkalpe tu nārīņām mauñjībandhanam iṣyate // Vir. S., p.402 (Hārīta). 
 
  
 
@@ -181,15 +181,15 @@ Tryambaka's Introduction
 
 solution is presumably to be found in the discussions concerning the various ways in which varna may fluctuate. A child's varna is defined by the ‘seeď' (bīja) from which it sprang; and not from the 'field' (kṣetra) in which that seed was planted (Manu X.70-2; cf. section V.9.c). Thus a sudra womb that receives brahmin 'seed' produces a brahmin child. A man's varṇa may be changed by his own conduct. Thus Viśvāmitra, who was born a kṣatriya, becomes a brahmin through tapas (austerities; cf. Manu X.42, Kull.). A woman's varṇa, on the other hand, is defined by that of her husband: whatever her father's birth or her own behaviour, she assumes in the 'oneness' of marriage both the qualities and the status of her husband, merging with him as a river merges with the sea (cf. Manu IX.22-4; X.67). 
 
-Tryambaka's third introductory point is that 'the general rules (sāmānyadharmāḥ) prescribed for men are equally applicable to women.'23 By this, Tryambaka does not mean sanātanadharmāḥ, the code of universal values such as non-injury, purity, truth and good will (cf.Kaut.1.3.13; Vām.P.14.1; Āp.I.8.23.6; etc.). The reference here is to non-specific rules of conduct. 
+Tryambaka's third introductory point is that 'the general rules (sāmānyadharmāḥ) prescribed for men are equally applicable to women.'[^23] By this, Tryambaka does not mean sanātanadharmāḥ, the code of universal values such as non-injury, purity, truth and good will (cf.Kaut.1.3.13; Vām.P.14.1; Āp.I.8.23.6; etc.). The reference here is to non-specific rules of conduct. 
 
-Tryambaka's argument runs as follows. 'Injunctions relating specifically to women presuppose the widespread acceptance of general rulings (of which these specific ones are the modifications).' 24 He gives two examples. First, 'the wise declare that the purification ritual required of a woman and a sudra is half (that prescribed for a twice-born man).'25 This statement clearly presupposes some general ruling (such as Manu V. 136) to the effect that (i.e. after urinating and defecating) one should purify the sexual organ, the anus, the left hand, and then both hands, by applying earth and water one, three, ten and seven times respectively. Manu V.137 gives the modifying rule for Vedic students, forest hermits and ascetics. Tryambaka's example gives that for women and sudras. Secondly, 'both a woman and a sudra are purified by touching 
+Tryambaka's argument runs as follows. 'Injunctions relating specifically to women presuppose the widespread acceptance of general rulings (of which these specific ones are the modifications).' 24 He gives two examples. First, 'the wise declare that the purification ritual required of a woman and a sudra is half (that prescribed for a twice-born man).'[^25] This statement clearly presupposes some general ruling (such as Manu V. 136) to the effect that (i.e. after urinating and defecating) one should purify the sexual organ, the anus, the left hand, and then both hands, by applying earth and water one, three, ten and seven times respectively. Manu V.137 gives the modifying rule for Vedic students, forest hermits and ascetics. Tryambaka's example gives that for women and sudras. Secondly, 'both a woman and a sudra are purified by touching 
 
-23. tatra purusasyok täh samanyadharmah strīnām upi sadharana eva li Sdhp.2v.1-2. 
+[^23]: tatra purusasyok täh samanyadharmah strīnām upi sadharana eva li Sdhp.2v.1-2. 
 
-24. tatra tatra samanyadharman siddhavat krtya... ity ādinā strīņām viseṣavidhänāt // Sdhp.2v.2-4. 
+[^24]: tatra tatra samanyadharman siddhavat krtya... ity ādinā strīņām viseṣavidhänāt // Sdhp.2v.2-4. 
 
-25. strīsudrayor ardhamānam saucam proktam manīṣibhiḥ // Sdhp.2v.2-3 <Sm.C.II.p.248 (Adit.P.); Par.M.I.p.230. Cf. section IIA, p.73, note 44. 
+[^25]: strīsudrayor ardhamānam saucam proktam manīṣibhiḥ // Sdhp.2v.2-3 <Sm.C.II.p.248 (Adit.P.); Par.M.I.p.230. Cf. section IIA, p.73, note 44. 
 
  
 
@@ -197,17 +197,17 @@ Tryambaka's argument runs as follows. 'Injunctions relating specifically to wome
 
 Stridharmapaddhati 
 
-(water) once on (or in) the mouth.'26 This ruling on acamana, the ritual of sipping water, again presupposes some general statement (such as Manu V.139a) to the effect that he who desires to be pure should sip water three times. Yājñ.I.21a gives the modifying rule for twice-born men; Yajñ.1.21b (Tryambaka's example) gives that for women and südras. 
+(water) once on (or in) the mouth.'[^26] This ruling on acamana, the ritual of sipping water, again presupposes some general statement (such as Manu V.139a) to the effect that he who desires to be pure should sip water three times. Yājñ.I.21a gives the modifying rule for twice-born men; Yajñ.1.21b (Tryambaka's example) gives that for women and südras. 
 
-Tryambaka concludes from this that 'rulings such as "he who, rising early, sees. .",27 which prescribe duties for men (in the technical sense that they are couched in the masculine form without any additional modifying rules) are in fact equally applicable to women.'28 This is an important point for Tryambaka's treatise, especially in his long section on daily rites or duties (strīņām ähnikam, section II, pp. 44-245). For, in the absence of rulings specific to women on subjects such as what should or should not be seen in the early morning (darśaniyāny adarśaniyāni ca; section IIA, (pp. 54-7), urinating and defecating (mutrapurīṣotsargah; pp. 69 – 71), or cleaning one's teeth (dantadhāvanam, pp. 78-82). Tryambaka is obliged to quote passages couched in the masculine and assume that they apply to women too. 
+Tryambaka concludes from this that 'rulings such as "he who, rising early, sees. .",[^27] which prescribe duties for men (in the technical sense that they are couched in the masculine form without any additional modifying rules) are in fact equally applicable to women.'[^28] This is an important point for Tryambaka's treatise, especially in his long section on daily rites or duties (strīņām ähnikam, section II, pp. 44-245). For, in the absence of rulings specific to women on subjects such as what should or should not be seen in the early morning (darśaniyāny adarśaniyāni ca; section IIA, (pp. 54-7), urinating and defecating (mutrapurīṣotsargah; pp. 69 – 71), or cleaning one's teeth (dantadhāvanam, pp. 78-82). Tryambaka is obliged to quote passages couched in the masculine and assume that they apply to women too. 
 
 But what appears, in this context, to be no more than a straightforward grammatical point is in fact an extremely significant issue in the history of the religious status of women in India. First, let us look at the question from the grammarian's point of view. Patanjali's Mahābhāṣya (one of the most important works on Sanskrit grammar, dating from c.140 B.C.) declares that there are five reasons to study the science of grammar: for the preservation of the Veda; for the understanding of the rules of modification or uha; for the 
 
-26. suddhyeran stri ca sudraś ca sakṛt sprstābhir antataḥ // Sdhp.2v.3 < Yajn.1.21b. For the full sloka, see section IIA, note 49. The quotation is ungrammatical without the previous line: hṛtkaṇṭhatālugābhis tu yathāsamkhyam dvijätayaḥ. Following Yājà. and PT, I have restored suddhyeran (for suddheran; plural to include dvijātayah) and sprṣṭābhir (for sprṣṭvābhir; agreeing with adbhir, Yājñ.1.20b). Sakṛt, 'once', as opposed to three times as is the case for twice-born men. Antataḥ is glossed either as antena, ‘at the extremity (i.e. of mouth or lips)'; or as antargatena, 'inside (i.e. the mouth)`; cf. section IIA, pp. 75-7. 
+[^26]: suddhyeran stri ca sudraś ca sakṛt sprstābhir antataḥ // Sdhp.2v.3 < Yajn.1.21b. For the full sloka, see section IIA, note 49. The quotation is ungrammatical without the previous line: hṛtkaṇṭhatālugābhis tu yathāsamkhyam dvijätayaḥ. Following Yājà. and PT, I have restored suddhyeran (for suddheran; plural to include dvijātayah) and sprṣṭābhir (for sprṣṭvābhir; agreeing with adbhir, Yājñ.1.20b). Sakṛt, 'once', as opposed to three times as is the case for twice-born men. Antataḥ is glossed either as antena, ‘at the extremity (i.e. of mouth or lips)'; or as antargatena, 'inside (i.e. the mouth)`; cf. section IIA, pp. 75-7. 
 
-27. prātar utthaya yaḥ pasyet ... // Sdhp.2v.4 (e.g. the beginning of Gobh.Sm.II.163,165, see p. 55, notes 8,9. 
+[^27]: prātar utthaya yaḥ pasyet ... // Sdhp.2v.4 (e.g. the beginning of Gobh.Sm.II.163,165, see p. 55, notes 8,9. 
 
-28. evam ca... ity ădină purusasyokta dharmaḥ strīnām api sādhāraṇā eva // Sdhp.2v.4-5 (i.e. dharmäḥ for sāmānyadharmāḥ). Cf. note 23. 
+[^28]: evam ca... ity ădină purusasyokta dharmaḥ strīnām api sādhāraṇā eva // Sdhp.2v.4-5 (i.e. dharmäḥ for sāmānyadharmāḥ). Cf. note 23. 
 
 Tryambaka's Introduction 
 

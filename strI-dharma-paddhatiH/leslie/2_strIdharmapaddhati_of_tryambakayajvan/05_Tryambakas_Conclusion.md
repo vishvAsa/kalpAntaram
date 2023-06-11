@@ -17,7 +17,7 @@ Sdhp.48v.8-55r.8)
 
 When Sītā sees Rāma and Lakṣmaṇa being carried off by a powerful demon, she begs the demon to release them and take her instead 
 
-1. patiśuśrūṣaṇam tu prāṇānām avigaṇanayā kartavyatvāt[/] bhartṛkṛtātmavikrayasyāngīkartavyatvāt[] itaradharmopamardena ca kartavyatvāt[/] patisusrüṣaṇam mukhyo dharmah // Sdhp.48v.7-8 with insert. 
+[^1]: patiśuśrūṣaṇam tu prāṇānām avigaṇanayā kartavyatvāt[/] bhartṛkṛtātmavikrayasyāngīkartavyatvāt[] itaradharmopamardena ca kartavyatvāt[/] patisusrüṣaṇam mukhyo dharmah // Sdhp.48v.7-8 with insert. 
 
  
 
@@ -27,7 +27,7 @@ Strīdharmapaddhati
 
 (Sdhp.48v.8-49r. 1; Sdhp.48v.9-10< Ram.III.4.3b). 
 
-In the story of the brahmin whose life is forfeit to the crane-demon, Baka, the brahmin's wife begs to be allowed to go in his place (Sdhp.49r.1-3). As she explains, 'this is the supreme and everlasting duty of women in this world: (the wife) should pursue what is good for her husband even (at the cost of) abandoning her life.'2 
+In the story of the brahmin whose life is forfeit to the crane-demon, Baka, the brahmin's wife begs to be allowed to go in his place (Sdhp.49r.1-3). As she explains, 'this is the supreme and everlasting duty of women in this world: (the wife) should pursue what is good for her husband even (at the cost of) abandoning her life.'[^2] 
 
 The story of the female pigeon caught by a cruel and wicked birdcatcher is told at surprising length (Sdhp.49r.3-55r.8; Sdhp.49r. 5-55r.8< Mbh.XII.141.1-145.18, with few omissions, some variants). 
 
@@ -37,7 +37,7 @@ After a fierce storm in the forest, the bird-catcher puts the female pigeon in a
 
 In the Mahābhārata, the story is told to Yudhisthira by Bhisma to 
 
-2. etad dhi paramam näryäḥ kāryam loke sanatanam | präṇān api parityajya yad bhartṛhitam acaret // Sdhp.49r.2-3< Mbh.I.146.4. 
+[^2]: etad dhi paramam näryäḥ kāryam loke sanatanam | präṇān api parityajya yad bhartṛhitam acaret // Sdhp.49r.2-3< Mbh.I.146.4. 
 
 Tryambaka's Conclusion 
 
@@ -53,7 +53,7 @@ In the context of the Märkandeyapurāṇa, this story demonstrates that a man s
 
 2 
 
-3. In MS T1, the story of the pigeons and the bird-catcher ends with an omission mark and the word sodhapatra in the margin (... iti // adhyāyaḥ// // Sdhp.55r.8). The text itself continues with the example of the third aspect of patiśuśrūṣaṇam (itaradharmopamardenāpi ... // Sdhp.55r.8). The sodhapatra cited is now missing but it is clear from MS T2 that it was inserted between folios 55 and 56. For the scribe of T, copies T, as it stands (... iti // adhyāyaḥ // śodhapatra // // itaradharmopamardenāpi ... //). On reaching the end of T, folio 55v, he copies the sodhapatra without a break: pādyam ācamaniyam vai dadau bhartus tadāsanam || bhartṛkṛtātmavikrayāngīkāro ... // T1 55v.10/T2 42v.11). At the end of the Hariścandra story (... sahaikastham abandhayat | iti /), he drops back into the pigeon story in the middle of a line: syu[h] sarvadevatäḥ... // (cf. T, 54r.2). He then tells both the rest of that story and the entire Hariścandra episode (T2 44r.7-44v.5) again. The Mysore MS (M) makes no such mistake: after the pigeon story, it tells the story of Hariscandra, thus incorporating the sodhapatra of T, as intended. Following MS M and PT, I have assumed the same. 
+[^3]: In MS T1, the story of the pigeons and the bird-catcher ends with an omission mark and the word sodhapatra in the margin (... iti // adhyāyaḥ// // Sdhp.55r.8). The text itself continues with the example of the third aspect of patiśuśrūṣaṇam (itaradharmopamardenāpi ... // Sdhp.55r.8). The sodhapatra cited is now missing but it is clear from MS T2 that it was inserted between folios 55 and 56. For the scribe of T, copies T, as it stands (... iti // adhyāyaḥ // śodhapatra // // itaradharmopamardenāpi ... //). On reaching the end of T, folio 55v, he copies the sodhapatra without a break: pādyam ācamaniyam vai dadau bhartus tadāsanam || bhartṛkṛtātmavikrayāngīkāro ... // T1 55v.10/T2 42v.11). At the end of the Hariścandra story (... sahaikastham abandhayat | iti /), he drops back into the pigeon story in the middle of a line: syu[h] sarvadevatäḥ... // (cf. T, 54r.2). He then tells both the rest of that story and the entire Hariścandra episode (T2 44r.7-44v.5) again. The Mysore MS (M) makes no such mistake: after the pigeon story, it tells the story of Hariscandra, thus incorporating the sodhapatra of T, as intended. Following MS M and PT, I have assumed the same. 
 
  
 
@@ -71,7 +71,7 @@ While Kausika is sitting at the foot of a tree reciting the Vedas, a female cran
 
 First, she placates him, explaining that her husband is her greatest god (bharta me daivatam mahat). When Kausika persists in his rage that she should worship her husband before the brahmin guest, she informs him briskly that she is no mere crane (näham balākā; part of a sloka given only as a variant in the Mbh. crit. edn.), unaware of the importance of brahmins. But she has chosen the religious path of devoted service to her husband (patiśuśruşaya dharmaḥ). As a result, she regards her husband as 'the supreme god among all gods', whose law she must fulfil without question.4 It is through the merit she has gained thereby (suśruṣāyāḥ phalam pasya) that she knows all about the incident with the crane. She proceeds to reprove the 
 
-4. daivateşv api sarveșu bhartā me daivatam param | aviseşeṇa tasyāham kuryām dharmam dvijottama // Sdhp.57r.2-3<Mbh.III.197.29. 
+[^4]: daivateşv api sarveșu bhartā me daivatam param | aviseşeṇa tasyāham kuryām dharmam dvijottama // Sdhp.57r.2-3<Mbh.III.197.29. 
 
  
 
@@ -101,13 +101,13 @@ Kunti on the subject of niyoga (Sdhp.60r.4-61v.6 < Mbh.I.111. 30b-6; 112.3-5, 6b
 
 While hunting in the forest, Paṇḍu shoots a deer that turns out to be an ascetic. Since he has been killed in the act of mating, the ascetic curses Pandu that he too will die in the sexual act. Now unable to father children himself, Pāṇḍu asks Kuntī to find someone to act for him by the ancient custom of niyoga (see section IV, pp.300-2). 
 
-Tryambaka presents Pandu's arguments in favour of the practice but omits Kunti's against it. In order to persuade her to his point of view, Pandu tells her of several virtuous women who have produced sons in this way: Śāradaṇḍāyinī (Sdhp.60r.8-60v.2), Madayantī (Sdhp. 61r.6-7) and his own mother (Sdhp.61r.8). He also describes how Svetaketu made it a sin on a par with foetus-murder (bhrūṇahatyākṛtam pāpam) for a woman either to sleep with any man other than her husband or to refuse to conceive a child when appointed to do so by her husband (patyā niyuktā; Sdhp.61r.2-5). The important point, however, is not that niyoga may be within the law (in fact, in section IV, Trymbaka rules that it is not), but that the husband desires it. Twice Tryambaka repeats Pāṇḍu's crucial statement that 'those who know the law know that whatever a husband tells his wife (to do), whether it is lawful or even unlawful, she should do it.'5 
+Tryambaka presents Pandu's arguments in favour of the practice but omits Kunti's against it. In order to persuade her to his point of view, Pandu tells her of several virtuous women who have produced sons in this way: Śāradaṇḍāyinī (Sdhp.60r.8-60v.2), Madayantī (Sdhp. 61r.6-7) and his own mother (Sdhp.61r.8). He also describes how Svetaketu made it a sin on a par with foetus-murder (bhrūṇahatyākṛtam pāpam) for a woman either to sleep with any man other than her husband or to refuse to conceive a child when appointed to do so by her husband (patyā niyuktā; Sdhp.61r.2-5). The important point, however, is not that niyoga may be within the law (in fact, in section IV, Trymbaka rules that it is not), but that the husband desires it. Twice Tryambaka repeats Pāṇḍu's crucial statement that 'those who know the law know that whatever a husband tells his wife (to do), whether it is lawful or even unlawful, she should do it.'[^5] 
 
 Tryambaka's second illustration demonstrates that when a wife obeys her husband-even if that means doing something that is normally considered wrong (akaryakaraṇe 'pi)—not only is no sin at all incurred (na kevalam doṣābhavaḥ) but, on the contrary, the highest heaven is attained (kim tūttamalokaprāptiś ca; Sdhp.61v. 6-7, with insert). The story of Sudarsana is told here in full (Sdhp. 61v.7-66v.1< Mbh. XIII.2.1-95; with few omissions, some variants). 
 
 In the context of the Mahabharata, as Tryambaka explains, the story is told by Bhiṣma when Yudhisthira asks him if any householder has ever conquered Death merely by practising his religious 
 
-5. bharta bharyām rājaputri dharmyam vadharmyam eva va yad bruyāt tat tathā kāryam iti dharmavido viduḥ Sdhp.60r.4-5; 61v.1-2 < Mbh.I. 113.27. 
+[^5]: bharta bharyām rājaputri dharmyam vadharmyam eva va yad bruyāt tat tathā kāryam iti dharmavido viduḥ Sdhp.60r.4-5; 61v.1-2 < Mbh.I. 113.27. 
 
  
 
@@ -169,13 +169,13 @@ Tryambaka's Conclusion
 
 315 
 
-appeasing, worshipping, etc.) (by the wife as follows): by observing the rules of purification; by attending to the fire ritual; by paying homage to guests; by taking care of household duties; by keeping close watch over the household (accounts), both income and expenditure; by attending to her husband's bodily comfort; by serving food to her husband's dependants, etc.; by eating the sanctified remains (prasāda) of (the food offered to) him herself; by lovemaking and so on at night; by avoiding both those things which are forbidden to her and those which her husband does not like; by putting into practice both those things which are prescribed and those which her husband likes; by adorning herself (pratikarmaṇā; or perhaps "keeping everything tidy"); by driving away her husband's fatigue; by putting the religious rulings relating to the body into practice whenever they are appropriate, according to the law; by following her husband (into the fire when he dies); (or, alternatively,) after her husband('s death), by observing (the appropriate) restrictions such as celibacy (brahmacaryādi) for as long as she lives; by obedient (or devoted) service to her husband; and by doing what he says. Propitiating him in this way is said to constitute true 'service' to one's husband.'6 
+appeasing, worshipping, etc.) (by the wife as follows): by observing the rules of purification; by attending to the fire ritual; by paying homage to guests; by taking care of household duties; by keeping close watch over the household (accounts), both income and expenditure; by attending to her husband's bodily comfort; by serving food to her husband's dependants, etc.; by eating the sanctified remains (prasāda) of (the food offered to) him herself; by lovemaking and so on at night; by avoiding both those things which are forbidden to her and those which her husband does not like; by putting into practice both those things which are prescribed and those which her husband likes; by adorning herself (pratikarmaṇā; or perhaps "keeping everything tidy"); by driving away her husband's fatigue; by putting the religious rulings relating to the body into practice whenever they are appropriate, according to the law; by following her husband (into the fire when he dies); (or, alternatively,) after her husband('s death), by observing (the appropriate) restrictions such as celibacy (brahmacaryādi) for as long as she lives; by obedient (or devoted) service to her husband; and by doing what he says. Propitiating him in this way is said to constitute true 'service' to one's husband.'[^6] 
 
 Two points may be noted here. First, despite the rulings that prohibit sahagamana in the kali age (see section IV, pp.295–7), Tryambaka has felt it appropriate to include the practice here. Similarly, despite his own evident approval of sahagamana (see section IV, pp.293-5), he has found it necessary to offer the alternative of widowhood as well (see section IV, p.304). 
 
 Secondly, Tryambaka continues-even in so brief a final summary—to give greater weight to the husband's opinions and demands than to any independent formulation of the law by dharmaśastra. For example, the wife is required to avoid both 'those things 
 
-6. evam saucācārair agnisuśruṣayatithipüjanena gṛhakṛtyavicānenayavyayakuṭumbasamrakṣaṇavicāreṇa bhartuḥ sarirasuśrūṣaya bhartur āśritādinām cānnapradānena svayam tatprasādagrahaṇena rātrau ratyādinā svaniṣiddhānām bhartur apriyasya ca varjanena vihitēnām bhartur yat priyam tasya cânusthānena pratikarmanā bhartu[h] śramāpanodanena tattatkāle prāptānām sariradharmāṇām yathāvidhy anusthānena bhartranugamanena bhartur anantaram yāvajjīvabrahmacaryādiniyamaparipālanena patiśuśrūṣayā tadvacanakaranena ca patiḥ samtoṣaniyah // evam samtoṣanam eva patisuśruṣaṇam ity ucyate // Sdhp.86v.4-87r.2. 
+[^6]: evam saucācārair agnisuśruṣayatithipüjanena gṛhakṛtyavicānenayavyayakuṭumbasamrakṣaṇavicāreṇa bhartuḥ sarirasuśrūṣaya bhartur āśritādinām cānnapradānena svayam tatprasādagrahaṇena rātrau ratyādinā svaniṣiddhānām bhartur apriyasya ca varjanena vihitēnām bhartur yat priyam tasya cânusthānena pratikarmanā bhartu[h] śramāpanodanena tattatkāle prāptānām sariradharmāṇām yathāvidhy anusthānena bhartranugamanena bhartur anantaram yāvajjīvabrahmacaryādiniyamaparipālanena patiśuśrūṣayā tadvacanakaranena ca patiḥ samtoṣaniyah // evam samtoṣanam eva patisuśruṣaṇam ity ucyate // Sdhp.86v.4-87r.2. 
 
  
 
@@ -185,30 +185,30 @@ Stridharmapaddhati
 
 that are forbidden to her' and 'those which her husband does not like'. Similarly, she should do both 'those things that are prescribed' and 'those which her husband likes'. It is clear from the tone used and the examples given throughout section V that, in each case, the latter requirement is the stronger. Thus she should follow the detailed rules of dharmaśästra unless and until her husband commands her otherwise. As soon as there is any conflict, however, she should simply do as he requires. It is fitting, therefore, that Tryambaka ends his summary with what are for him the two most important rulings for the ideal wife: she should offer her husband 'obedient and devoted service' (with a marked stress on 'obedience', according to Tryambaka's own definition; see above, pp.310-12; and she should do what he says. For this is indeed true 'service'. 
 
-This summary is followed by a number of well-known slokas in hyperbolic praise of the wife who manages to behave as she should. For example, such a woman obtains fame in this world and the same heaven as her husband in the next (patiloka), and 'there is no higher goal than that' (cānuttamām gatim; Sdhp.87r.6). She 'ascends to heaven via the staircase of service to her husband' (sa bhartṛśuśrūṣāsopānasvargatim gatā; Sdhp.87v.3). 'Seated in an aerial chariot' (vimānasthā; cf. above, p.306), she is praised by the gods (Sdhp.87v.4). Wherever her foot touches the ground, the earth is purified (Sdhp.87v.4-5). Though afraid of her (bibhyat), the sun, moon, wind and waters deliberately touch her in order to purify themselves (Sdhp.87v.5-6). For her touch is as cleansing and auspicious as a dip in the sacred Ganges (gangāvagaha; Sdhp.87v.7-8). 'As a result of the merit obtained by the devoted wife, three sets of three (ancestors) enjoy the pleasures of heaven: three in her father's line, three in her mother's, and three in her husband's too.'7 
+This summary is followed by a number of well-known slokas in hyperbolic praise of the wife who manages to behave as she should. For example, such a woman obtains fame in this world and the same heaven as her husband in the next (patiloka), and 'there is no higher goal than that' (cānuttamām gatim; Sdhp.87r.6). She 'ascends to heaven via the staircase of service to her husband' (sa bhartṛśuśrūṣāsopānasvargatim gatā; Sdhp.87v.3). 'Seated in an aerial chariot' (vimānasthā; cf. above, p.306), she is praised by the gods (Sdhp.87v.4). Wherever her foot touches the ground, the earth is purified (Sdhp.87v.4-5). Though afraid of her (bibhyat), the sun, moon, wind and waters deliberately touch her in order to purify themselves (Sdhp.87v.5-6). For her touch is as cleansing and auspicious as a dip in the sacred Ganges (gangāvagaha; Sdhp.87v.7-8). 'As a result of the merit obtained by the devoted wife, three sets of three (ancestors) enjoy the pleasures of heaven: three in her father's line, three in her mother's, and three in her husband's too.'[^7] 
 
 Concluding verses and colophon (Sdhp.88r.1-8) 
 
 'In this way, having (first) shuffled (lit. 'churned'; vilody[a]) the various pronouncements from the smṛtis and the purāṇas together, and (from them) collected the religious duties relating to women— some of them supplied here and there with reasoned pros and cons 
 
-7. skände // Sdhp.87v.4. pitṛvamsyā mātṛvamsyäḥ pativamśyās trayas trayaḥ / pativratāyāḥ punyena svargasaukhyāni bhuñjate // Sdhp.87v.9-88r.1 (Skanda) < Sk.P.III.2.7.58. 
+[^7]: skände // Sdhp.87v.4. pitṛvamsyā mātṛvamsyäḥ pativamśyās trayas trayaḥ / pativratāyāḥ punyena svargasaukhyāni bhuñjate // Sdhp.87v.9-88r.1 (Skanda) < Sk.P.III.2.7.58. 
 
 Tryambaka's Conclusion 
 
 317 
 
-(vyavastha)—the wise Tryambakayajvan has, at his mother's command (mäträjñayā), recounted them once again in their proper order in this work. By listening to them, may all women (learn to) apply their minds always to (their) religious duty!'8 
+(vyavastha)—the wise Tryambakayajvan has, at his mother's command (mäträjñayā), recounted them once again in their proper order in this work. By listening to them, may all women (learn to) apply their minds always to (their) religious duty!'[^8] 
 
-'These religious rulings relating to women, which I have heard one by one in śrutil, smṛti] and purāṇa, I have gathered together from here and there to create (this work) in order to make things easier for the doe-eyed ones (mṛgadṛśām; i.e. women). This work of mine is strung together like a necklace out of brilliant pearls accepted (only) after they have been examined from all sides. May it create supreme delight for the mother of the worlds (Pārvatī)!'9 
+'These religious rulings relating to women, which I have heard one by one in śrutil, smṛti] and purāṇa, I have gathered together from here and there to create (this work) in order to make things easier for the doe-eyed ones (mṛgadṛśām; i.e. women). This work of mine is strung together like a necklace out of brilliant pearls accepted (only) after they have been examined from all sides. May it create supreme delight for the mother of the worlds (Pārvatī)!'[^9] 
 
-(Colophon:) "This Guide to the Religious Duties of Women (stridharmapaddhatih) was composed by Tryambakayajvan out of affection for his teacher Yajñeśa, and in order to please Nrsimha. May it be (taken as) an offering to Lord Krsna!'10 
+(Colophon:) "This Guide to the Religious Duties of Women (stridharmapaddhatih) was composed by Tryambakayajvan out of affection for his teacher Yajñeśa, and in order to please Nrsimha. May it be (taken as) an offering to Lord Krsna!'[^10] 
 
 Several points may be noted here. Tryambaka's allusion to ‘his mother's command' in the first concluding verse recalls a parallel reference in his introductory verses (see section I, introductory verse 3, p.32, note 6). Similarly, his dedication to the goddess Pārvati in the second concluding verse recalls the more detailed references to her in those same opening verses (see section I, introductory verses 1 and 2, pp.29-32, notes 2 and 4). Thirdly, as indicated in my introduction, Yajñeśa is also the guru of the author of the Dharmākūta; a fact that suggests that Tryambaka and the pandit-minister Tryambakarāyamakhin are indeed the same individual (see pp.10-13). Finally, the reference to Nṛsimha may be an allusion to Tryambaka's elder brother who was renowned as a minister and patron of scholars in his own right (see pp.16–19). 
 
-8. ittham tryambakayajvanā smṛtipurāṇoktīr viloḍyākhilā[ḥ] | dharmā[h] striviṣayāḥ punaḥ katipaye tattadvyavasthānvitāḥ || samgṛhyātra kṛtau krameṇa kathitā māträjñayā dhīmatā / tän ākārṇya sadā striyaś ca sakalā dharme matim tanvatām // 1 // Sdhp.88r.1-4. 
+[^8]: ittham tryambakayajvanā smṛtipurāṇoktīr viloḍyākhilā[ḥ] | dharmā[h] striviṣayāḥ punaḥ katipaye tattadvyavasthānvitāḥ || samgṛhyātra kṛtau krameṇa kathitā māträjñayā dhīmatā / tän ākārṇya sadā striyaś ca sakalā dharme matim tanvatām // 1 // Sdhp.88r.1-4. 
 
-9. dharmāḥ striviṣayā[ḥ] śruti[smṛti] purāṇeṣu śrutā ye pṛthak / tān samgṛhya tatas tato mṛgadṛśām saukaryahetoḥ kṛtā || seyam matkṛtir usj]jvalair maniganair visvak parīksyähṛtaiḥ | māleva grathitā tanotu jagatām mātuḥ pramodam param // 2 // Sdhp.88r.4-7. 
+[^9]: dharmāḥ striviṣayā[ḥ] śruti[smṛti] purāṇeṣu śrutā ye pṛthak / tān samgṛhya tatas tato mṛgadṛśām saukaryahetoḥ kṛtā || seyam matkṛtir usj]jvalair maniganair visvak parīksyähṛtaiḥ | māleva grathitā tanotu jagatām mātuḥ pramodam param // 2 // Sdhp.88r.4-7. 
 
-10. guruyañeṣakṛpayā śrīma[t]tryambakayajvanā | priyaye śrīnṛsimhasya kṛtā strīdharmapaddhatiḥ // 3 // cha // cha // śrīkṛṣṇārpaṇam astu // cha // Sdhp.88r.7-8. Cf. p. 12, note 4. 
+[^10]: guruyañeṣakṛpayā śrīma[t]tryambakayajvanā | priyaye śrīnṛsimhasya kṛtā strīdharmapaddhatiḥ // 3 // cha // cha // śrīkṛṣṇārpaṇam astu // cha // Sdhp.88r.7-8. Cf. p. 12, note 4. 
 
  
