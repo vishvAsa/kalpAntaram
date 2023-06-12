@@ -26,12 +26,12 @@ Sdhp. 2v. 5-21r.3)
 On Waking Up (prabodhanam) 51  
 Before dawn 51  
 Before one's husband 52  
-Meditation (devatädhyānam) 52  
+Meditation (devatādhyānam) 52  
 What may or may not be seen (darśaniyānyadarśanīyāni 
 ca) 54  
 Household Tasks (1) 58  
 Preparing the grain (dhānyasamskārādi) 58  
-Cleaning the house (gṛhasammärjanādikam) 59  
+Cleaning the house (gṛhasammārjanādikam) 59  
 Smearing with cow-dung (gomayenånulepanam); 
 the goddess Śri 59  
 Worship of the threshold (dehalīpūjā) 63 Delegating housework 64  
@@ -41,7 +41,7 @@ Urinating and defecating (mütrapuriṣotsargah) 69
 Cleansing rituals (saucam) 71  
 The sipping ritual (ācamanam) 75  
 Cleaning the teeth (dantadhāvanam) 78  
-The ritual bath (snänam) 82  
+The ritual bath (snānam) 82  
 Getting dressed (vastradharaṇam) 88  
 Wearing the tilaka mark (tilakadhāraṇam) 96  
 
@@ -131,8 +131,8 @@ The three kinds of pativrată 304
 
 ### V TRYAMBAKA'S CONCLUSION
 OBEDIENT SERVICE TO ONE'S HUSBAND IS THE Primary ReligiOUS DUTY OF A WIFE (patriśuśrüṣaṇam mukhyo dharmaḥ; Sdhp. 48v.6-88r.1)  
-She Should Serve Him Without Regard for Her Own Life (präṇānām avigananaya) 305  
-Sitä and the demon 305  
+She Should Serve Him Without Regard for Her Own Life (prāṇānām avigananaya) 305  
+Sitā and the demon 305  
 The brahmin's wife and the crane-demon 306  
 The pigeons and the bird-catcher 306  
 Accepting Even Her Husband's Sale of Her(bhartṛkṛtātmavikrayāngî (kāra]): Hariścandra 307  
@@ -142,7 +142,7 @@ Further quotations 309
 If her husband requires it, she should even do what is wrong 309  
 Pandu and Kunti 310  
 Sudarsana and Oghavati 310  
-'Service' versus 'Obedience'; Svähä and Arundhati 312  
+'Service' versus 'Obedience'; Svāhā and Arundhati 312  
 Sāvitrī 313  
 Tryambaka's Summary 314  
 Concluding Verses and Colophon 316 

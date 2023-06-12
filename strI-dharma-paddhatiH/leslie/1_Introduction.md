@@ -16,7 +16,7 @@ In 1977, however, Bhuribai's husband died. Deprived of her one remaining desire 
 
 But not all Hindu women share Bhuribai's views concerning the proper role of women. In Search of Answers (Kishwar and Vanita 1984) is a collection of articles and letters published in Manushi, an outspoken magazine concerned with issues relating to Indian women today, during the first five years of its publication (1979-83). In her introduction to this disturbing document, Madhu Kishwar writes: 
 
-> The pervasive popular cultural ideal of womanhood has become a death trap for too many of us. It is woman as a selfless giver, someone who gives and gives endlessly, gracefully, smilingly, whatever the demand, however unreasonable and harmful to herself. She gives not just love, affection and ungrudging service but also, if need be, her health and ultimately her life at the altar of her duty to her husband, children and the rest of her family. Sita, Savitri, Änusuya and various other mythological heroines are used as the archetypes of such a woman and women themselves are deeply influenced by this cultural ideal.... 
+> The pervasive popular cultural ideal of womanhood has become a death trap for too many of us. It is woman as a selfless giver, someone who gives and gives endlessly, gracefully, smilingly, whatever the demand, however unreasonable and harmful to herself. She gives not just love, affection and ungrudging service but also, if need be, her health and ultimately her life at the altar of her duty to her husband, children and the rest of her family. Sita, Savitri, ānusuya and various other mythological heroines are used as the archetypes of such a woman and women themselves are deeply influenced by this cultural ideal.... 
 >
 > This ideology of slavery and contempt for women in the family plays a more important part than even beatings or bullets in keeping women oppressed.
 >   
@@ -46,7 +46,7 @@ As always in dharmaśāstra, the result is an odd mixture of reality and utopia.
 
 [^2]: It is particularly unfortunate that there is no surviving manuscript known of the text on stridharma referred to by Kamalākarabhaṭṭa as his own work. 
 
-[^3]: präptipürvakaḥ pratiṣedho bhavati // Śab.X.8.10.22. 
+[^3]: prāptipürvakaḥ pratiṣedho bhavati // Śab.X.8.10.22. 
 
  
 
@@ -68,7 +68,7 @@ The decision to merge translation and commentary rather than to conform to the u
 
 The main reason for this is that the text itself is not unduly difficult. The Sanskrit style is largely that of the lawbooks and the epics. It has none of the more tortuous complexities of, for example, a treatise in Sanskrit grammar or logic. The important task in a text of this nature is therefore not an analysis of roots and compounds, but an elucidation of the overall world view within which the treatise was written; an exploration not of specific words and their meanings, but of the values assumed and the prejudices implied. For this kind of intellectual history, it was deemed unnecessary to separate text and translation from commentary in the traditional manner. 
 
-Nonetheless, specialists in dharmaśästra and others wishing to make a thorough check of text and translation will have no difficulty in doing so. In the major portions of this study, as explained below, every ruling and comment is rendered into English. While all translated passages are incorporated into the commentary, they are clearly distinguished from it by inverted commas. The complete Sanskrit text is provided in the form of corresponding notes, together with additional textual comments and references. 
+Nonetheless, specialists in dharmaśāstra and others wishing to make a thorough check of text and translation will have no difficulty in doing so. In the major portions of this study, as explained below, every ruling and comment is rendered into English. While all translated passages are incorporated into the commentary, they are clearly distinguished from it by inverted commas. The complete Sanskrit text is provided in the form of corresponding notes, together with additional textual comments and references. 
 
 It was also felt that a merging of commentary and translation in this way to form a continuous narrative would appeal to a wider audience than merely the specialist. Indeed it was hoped that a more readable analysis of this rather bizarre document would make it accessible to scholars and non-specialists alike in a wide variety of fields: from religious law, Indology and comparative religion to anthropology, sociology and women's studies. 
 
@@ -92,7 +92,7 @@ Section II constitutes the bulk of this study. In terms of Tryambaka's text, how
 
 topic of dharmaśāstra, it is unusual to find parallel rulings for women at any length. 
 
-This rare attempt to map out a woman's day in detail (strīnām ähnikam) therefore deserves careful consideration. For everything the good Hindu wife should do-from the moment she wakes in the morning to the moment she sleeps at night—is discussed from the point of view of the 'sacred norms' of religious law (dharmaśāstra). Some of the rulings are identical to the equivalent rulings applied to men; some are the same in principle but different in detail; others relate to the husband's obligations and thus to the wife's corresponding duty to assist him in fulfilling them; still others, largely those concerned with housework, are peculiar to women. A close analysis of both the explicit beliefs expressed and the implicit understandings involved is rewarding. 
+This rare attempt to map out a woman's day in detail (strīnām āhnikam) therefore deserves careful consideration. For everything the good Hindu wife should do-from the moment she wakes in the morning to the moment she sleeps at night—is discussed from the point of view of the 'sacred norms' of religious law (dharmaśāstra). Some of the rulings are identical to the equivalent rulings applied to men; some are the same in principle but different in detail; others relate to the husband's obligations and thus to the wife's corresponding duty to assist him in fulfilling them; still others, largely those concerned with housework, are peculiar to women. A close analysis of both the explicit beliefs expressed and the implicit understandings involved is rewarding. 
 
 The mode of presentation in this section is identical to that in section I: a precise English translation; the complete Sanskrit text given as notes; and a detailed discussion of each point raised. In particular, each ruling is discussed in the specific context of dharmaśāstra, as far as possible allowing the discipline to speak for itself. For ease of assimilation, this large body of rules has been further subdivided into four: those pertaining to the period before dawn (section IIA, pp. 51-101); those pertaining to the rituals at dawn (section IIB, pp. 102-55); those relating to the daytime (section IIC, pp. 156-233); and those associated with the evening (section IID, pp. 234–45). 
 
@@ -110,7 +110,7 @@ On examination, this apparent contradiction rests on a radical (if theoretically
 
 So important is this section to an understanding of the complexities surrounding the position of women in Indian culture that it has been treated somewhat differently from sections I and II. None of the rulings have escaped translation; nor is any of the corresponding Sanskrit absent from the notes. However, the entire section has been incorporated into an expanded essay on the nature of women in orthodox Hindu thought. The resulting presentation is no less faithful to Tryambaka's work than the previous ones. 
 
-Section IV covers sixty and a half manuscript sides and represents a third of the whole work. However, for the reasons outlined above, it has been considered in far less detail than the foregoing sections. Under the general heading of 'duties common to all women' (strīnām sādhāraṇā dharmäḥ), Tryambaka groups together a variety of rulings to form nine extremely important and stimulating topics: general rulings on the behaviour appropriate to women; things a woman should avoid (varjanīyah); women's property (strīdhanam); the concept of the devoted wife (pativrată); menstruation (rajasvalādharmāḥ); pregnancy (garbhinidharmāḥ); the woman whose husband is away (proṣitabhartṛkādharmāḥ); the practice of suttee (more properly, of 'becoming sati') or dying with one's husband (sahagamanavidhiḥ); and widowhood (vidhavādharmāḥ). Clearly, each of these topics would benefit from a monograph of its own. Tryambaka's rather laboured recommendation of sahagamana, or becoming satī, is of particular interest. In this study, however, because of the decision to concentrate fully on sections I-III, close translation and detailed analysis are replaced by summary. 
+Section IV covers sixty and a half manuscript sides and represents a third of the whole work. However, for the reasons outlined above, it has been considered in far less detail than the foregoing sections. Under the general heading of 'duties common to all women' (strīnām sādhāraṇā dharmāḥ), Tryambaka groups together a variety of rulings to form nine extremely important and stimulating topics: general rulings on the behaviour appropriate to women; things a woman should avoid (varjanīyah); women's property (strīdhanam); the concept of the devoted wife (pativrată); menstruation (rajasvalādharmāḥ); pregnancy (garbhinidharmāḥ); the woman whose husband is away (proṣitabhartṛkādharmāḥ); the practice of suttee (more properly, of 'becoming sati') or dying with one's husband (sahagamanavidhiḥ); and widowhood (vidhavādharmāḥ). Clearly, each of these topics would benefit from a monograph of its own. Tryambaka's rather laboured recommendation of sahagamana, or becoming satī, is of particular interest. In this study, however, because of the decision to concentrate fully on sections I-III, close translation and detailed analysis are replaced by summary. 
 
 Both Tryambaka's divisions, and the order in which he deals with them, have been maintained. Within each subsection, the 
 
@@ -226,7 +226,7 @@ Raghavan's New Catalogus Catalogorum gives the following information.
 
 [[11]]
 
-of the Dharmäkūta (ascribed to Tryambakarāyamakhin), .he Mudrārākṣasavyäkhyā, the Räjakośanighantu (ascribed to Raghunātha) and the Śāhavilāsagītā. 
+of the Dharmākūta (ascribed to Tryambakarāyamakhin), .he Mudrārākṣasavyākhyā, the Rājakośanighantu (ascribed to Raghunātha) and the Śāhavilāsagītā. 
 
 In his introduction to the Sahendravilāsa, Raghavan states categorically that the author of the Strīdharmapaddhati and the Gārhasthyadipika is not the pandit-minister, Tryambakarāyamakhin (1952:28, note 2). 
 
@@ -244,7 +244,7 @@ Several Tryambakas are listed in J.H. Vora's Kavikāvyakālakalpanā (an alphabe
 
 2. 'Tryambakayajvan' as the author of the Dharmākūta; and 3. 'Tryambakarāyamakhin' as the author of the Stridharmapaddhati and the Kuladharmapaddhati. (The Kuladharmapaddhati is given in Raghavan's catalogue as a tantric work by yet another Tryambaka about whom one knows nothing more. Winternitz (1905:271) describes it as a work on tantric rites belonging to the nineteenth century. There is no manuscript of this text in the Sarasvati Mahal Library.) 
 
-I maintain that 'Tryambakayajvan' is Tryambakarāyamakhin; and thus that the author of the Strīdharmapaddhati is also the author of both the Gärhasthyadīpikā and the famous Dharmākūta. The evidence is as follows. 
+I maintain that 'Tryambakayajvan' is Tryambakarāyamakhin; and thus that the author of the Strīdharmapaddhati is also the author of both the Gārhasthyadīpikā and the famous Dharmākūta. The evidence is as follows. 
 
 First, the colophons of the Strīdharmapaddhati and the Gār
 
@@ -252,13 +252,13 @@ First, the colophons of the Strīdharmapaddhati and the Gār
 
 [[12]]
 
-hasthyadipika are identical, each ascribing authorship to Tryambakayajvan, pupil of Yajñeśa.4 Secondly, the author of the Dharmäkūta also gives his teacher's name as Yajñesa (e.g. Dharmāk. VI.p.457). Thirdly, there is a clear statement in the Stridharmapaddhati itself that its author also wrote the Dharmakūta. On the subject of wearing the tilaka, a lengthy quotation from the Dharmakūta is prefaced with the words: 'For in the Dharmākūta, (the commentary) on the Rāmāyaṇa, which was written by me... (ata evāsmatkṛtarāmāyaṇadharmākūte; see section II, p. 98, note 74). In addition, the Dharmakūta is both cited (e.g. 'Further examples are to be found in the Dharmäkūta (commentary) on the Rāmāyaṇa'; see section III, p. 250, note 18) and quoted at length (see section IIA, pp. 96, 98–100, notes 73, 75-8; etc.). Finally, the titles yajvan and makhin are synonymous, probably commemorating the great sacrifice performed by the pandit-minister and described by Bhagavantaraya in the Raghavabhyudaya (Raghavan 1952:26). 
+hasthyadipika are identical, each ascribing authorship to Tryambakayajvan, pupil of Yajñeśa.4 Secondly, the author of the Dharmākūta also gives his teacher's name as Yajñesa (e.g. Dharmāk. VI.p.457). Thirdly, there is a clear statement in the Stridharmapaddhati itself that its author also wrote the Dharmakūta. On the subject of wearing the tilaka, a lengthy quotation from the Dharmakūta is prefaced with the words: 'For in the Dharmākūta, (the commentary) on the Rāmāyaṇa, which was written by me... (ata evāsmatkṛtarāmāyaṇadharmākūte; see section II, p. 98, note 74). In addition, the Dharmakūta is both cited (e.g. 'Further examples are to be found in the Dharmākūta (commentary) on the Rāmāyaṇa'; see section III, p. 250, note 18) and quoted at length (see section IIA, pp. 96, 98–100, notes 73, 75-8; etc.). Finally, the titles yajvan and makhin are synonymous, probably commemorating the great sacrifice performed by the pandit-minister and described by Bhagavantaraya in the Raghavabhyudaya (Raghavan 1952:26). 
 
 All this suggests that Tryambakayajvan and Tryambakarāyamakhin are indeed one and the same; and that this one Tryambaka wrote all three works. In that case, the earliest date for the composition of the Strīdharmapaddhati is the year when the Dharmakūta was completed (1719); the latest that of the year of minister Tryambakarāya's death (1750). 
 
-The relationship between Tryambaka and Dhundhiraja is less clear. As Raghavan points out in his introduction to the Sahendravilāsa, the introductory verses in Dhundhiraja's Mudrārākṣasavyākhyā are identical to those in the Dharmākūta. Raghavan concludes that Dhundhiraja is the author of both works, thereby strengthening his description of himself as the king's paurāṇika (1952:26-7). The custom of attributing works to a king or minister is certainly common enough to warrant this assumption. However, it is also possible that Tryambaka wrote the Mudrārākṣasavyäkħyā, or at least that he lifted the introductory verses from it. Since the author of the Dharmākūta is, as I have argued, the author of the Strīdharmapaddhati and the Gärhasthyadīpikā as well, I prefer to withhold judgement on this important point until further detailed textual analysis of all four texts can be made, a task outside the scope of a study of this kind. 
+The relationship between Tryambaka and Dhundhiraja is less clear. As Raghavan points out in his introduction to the Sahendravilāsa, the introductory verses in Dhundhiraja's Mudrārākṣasavyākhyā are identical to those in the Dharmākūta. Raghavan concludes that Dhundhiraja is the author of both works, thereby strengthening his description of himself as the king's paurāṇika (1952:26-7). The custom of attributing works to a king or minister is certainly common enough to warrant this assumption. However, it is also possible that Tryambaka wrote the Mudrārākṣasavyākħyā, or at least that he lifted the introductory verses from it. Since the author of the Dharmākūta is, as I have argued, the author of the Strīdharmapaddhati and the Gārhasthyadīpikā as well, I prefer to withhold judgement on this important point until further detailed textual analysis of all four texts can be made, a task outside the scope of a study of this kind. 
 
-4. guruyajñesakṛpayā śrīmattryambakayajvanā / pritaye śrīnṛsimhasya kṛtā gārhasthyadipikā || Gärhasthyadipikā 59r.2. Cf. Sdhp. 88r. 7-8, section V, note 10. 
+4. guruyajñesakṛpayā śrīmattryambakayajvanā / pritaye śrīnṛsimhasya kṛtā gārhasthyadipikā || Gārhasthyadipikā 59r.2. Cf. Sdhp. 88r. 7-8, section V, note 10. 
 
  
 
@@ -294,7 +294,7 @@ Shariffji
 
 (b.1595) 
 
-Śiväjī (1627-80) 
+Śivājī (1627-80) 
 
 Ekoji (c.1630-86) 
 
@@ -340,7 +340,7 @@ Thanjavur dynasty (figure 3), should be considered: the cultural isolation of a 
 
 [7. Kathurājā] 
 
-5. Bavasäheb = 6. Sujanābāī 
+5. Bavasāheb = 6. Sujanābāī 
 
 8. Saiyājī 
 
@@ -394,7 +394,7 @@ Of the Marathi authors of Thanjavur, perhaps the best known are Raghunatha Pandi
 
 Of the four kings of the period, Ekoji is remembered mainly for his continued use of the Telugu language at court, and of the cultural and musical traditions of the Nayaks. 
 
-Śāhaji was renowned as a scholar, linguist and composer. He seems to have been proficient in Marathi, Telugu, Sanskrit, Persian and Hindi, and a remarkable number of works in several languages are ascribed to him (Sastri 1934:xxviii-ix; Raghavan 1952:22). These are largely dramatic or poetic works; musical compositions, especially padas in praise of the family deity, Śrī Tyagaraja or Tyagesa of Tiruvārūr; and works dealing with the science of music. He himself is eulogised in many works, including the Sahendravilāsa by the revered saint Śrī Venkatesvara (Ayyāvāl). Several of Sahaji's works concern themes that suggest a serious interest in the ideals of strīdharma (e.g. the stories of Parvati, Sītā, Draupadi; a eulogy of pativratadharma; a poem on a woman's behaviour when her husband is away; another to his mother, Dīpāmbā; and so on). In 1693, probably under the influence of his minister, Tryambakarāya, Šāhaji renamed the village of Tiruviśanallur as Šāhajīrājapuram and made a gift of it to forty-five scholars and poets for the perpetual performance of sacrifices and the free creation of religious, literary and musical works. Raghavan's excellent introduction to his edition of the Śähendravilāsa gives the names and works of each of these pandits (1952:37–49). They include such famous names as Rāmabhadra Dīksita (adept in all the philosophies and known as the modern Patañjali), Bhāskara Dīkṣita, Vedakavi, Mahādevakavi and Śrīdhara Venkatesvara. As a result of Šāhaji's beneficence, the village became the centre of scholarship in languages, literature, philosophy and medicine throughout the Maratha period in Thanjavur. 
+Śāhaji was renowned as a scholar, linguist and composer. He seems to have been proficient in Marathi, Telugu, Sanskrit, Persian and Hindi, and a remarkable number of works in several languages are ascribed to him (Sastri 1934:xxviii-ix; Raghavan 1952:22). These are largely dramatic or poetic works; musical compositions, especially padas in praise of the family deity, Śrī Tyagaraja or Tyagesa of Tiruvārūr; and works dealing with the science of music. He himself is eulogised in many works, including the Sahendravilāsa by the revered saint Śrī Venkatesvara (Ayyāvāl). Several of Sahaji's works concern themes that suggest a serious interest in the ideals of strīdharma (e.g. the stories of Parvati, Sītā, Draupadi; a eulogy of pativratadharma; a poem on a woman's behaviour when her husband is away; another to his mother, Dīpāmbā; and so on). In 1693, probably under the influence of his minister, Tryambakarāya, Šāhaji renamed the village of Tiruviśanallur as Šāhajīrājapuram and made a gift of it to forty-five scholars and poets for the perpetual performance of sacrifices and the free creation of religious, literary and musical works. Raghavan's excellent introduction to his edition of the Śāhendravilāsa gives the names and works of each of these pandits (1952:37–49). They include such famous names as Rāmabhadra Dīksita (adept in all the philosophies and known as the modern Patañjali), Bhāskara Dīkṣita, Vedakavi, Mahādevakavi and Śrīdhara Venkatesvara. As a result of Šāhaji's beneficence, the village became the centre of scholarship in languages, literature, philosophy and medicine throughout the Maratha period in Thanjavur. 
 
 Kings Serfoji and Tukkoji continued these traditions of scholar
 
@@ -446,7 +446,7 @@ Figure 4. The family of ministers
 
 As noted above, Tryambakarāya is known as the author of the Dharmākūta, and a patron of the court pandit and poet, Dhundhirājavyāsa (see pp. 10–13). Bhagavantarāya is said to be the author of the Mukundavilāsa, the Uttaracampu and the Raghavabhyudaya. Anandaraya is held to be the author of the Asvalayanagṛhyasutravṛtti, the Jīvānandanataka, the Vidyapariṇayanāṭaka and a commentary on it; and the patron of Vedakavi, Vasudeva Dikṣita and Appadhvārin among others. His son, Nrsimharāya, is said to be the author of the Tripuravijayacampū; while Tryambakarāya's grandson, Nārāyaṇarāya, is said to have composed the Vikramasenacampu (Raghavan 1952:25-9; Krishnamachariar 1937: 246-7). 
 
-Of Dhundhiraja, the court poet, we know surprisingly little. He was a Maratha brahmin of Varanasi, resident at Svamimalai near Thanjavur. Although patronised by both kings (Såhaji and Serfoji) and ministers (Tryambaka and Raghunatha), he seems to have had a special link with Šāhaji. For he describes himself as the king's paurāṇika and, when he wrote the Śähavilāsagītā, Śāhajī gave him the title 'Abhinavajayadeva'. Finally, on the end page of Jñānavilāsagītā by Jagannatha (TD MS no.3792), there is a comment written in another hand that the MS was found in Varanasi and sent to Thanjavur by Dhundhirajayajvan (Raghavan 1952:20, 54-5). Figure 5 shows the genealogy assembled from the works ascribed to him. 
+Of Dhundhiraja, the court poet, we know surprisingly little. He was a Maratha brahmin of Varanasi, resident at Svamimalai near Thanjavur. Although patronised by both kings (Såhaji and Serfoji) and ministers (Tryambaka and Raghunatha), he seems to have had a special link with Šāhaji. For he describes himself as the king's paurāṇika and, when he wrote the Śāhavilāsagītā, Śāhajī gave him the title 'Abhinavajayadeva'. Finally, on the end page of Jñānavilāsagītā by Jagannatha (TD MS no.3792), there is a comment written in another hand that the MS was found in Varanasi and sent to Thanjavur by Dhundhirajayajvan (Raghavan 1952:20, 54-5). Figure 5 shows the genealogy assembled from the works ascribed to him. 
 
 Lakṣmaṇavyāsa / Lakṣmaṇasudhi 
 
@@ -480,7 +480,7 @@ Secondly, what do we know of any individual women at this Maratha court? In fact
 
 [[21]]
 
-terms of praise. The Sähendraviläsa, for example, gives an account of Dīpāmba's marriage to Ekoji (1.47-56), her appearance and good qualities (1.57-61), and her pregnancy (1.62–7). 
+terms of praise. The Sāhendravilāsa, for example, gives an account of Dīpāmba's marriage to Ekoji (1.47-56), her appearance and good qualities (1.57-61), and her pregnancy (1.62–7). 
 
 Dīpāmbā is also known to have been the special patron of Raghunatha Pandita, author of the Prāyaścittakutühala and the Bhojanakutühala among other works. In his Marathi work, the Narakavarnana, for example, he lists the Sanskrit and Marathi texts he has written and praises Dīpāmbă for her generous patronage. At least two of his Marathi works (the Narakavarnana and the Pativratadharma) are both devoted to stridharma and commissioned by Dipamba." The colophon of the Narakavarṇana reads as follows. 
 
@@ -490,7 +490,7 @@ The isolation of the Hindu kingdom of Thanjavur amidst Muslim domination seems t
 
 That a treatise on the proper behaviour of women was considered an appropriate response to the Muslim threat may be interpreted in several ways. The basic assumption of religious law (dharmaśāstra) is that, if every individual performs his allotted role, universal harmony will result. Dīpāmbā's commission could mean that she was simply attending to the area of 'righteousness' (dharma) that was deemed of fitting concern for a woman. Alternatively, she 
 
-6. The Pativratopäkhyāna is listed separately in the Thanjavur Catalogue of Marathi manuscripts, but closer inspection reveals that it is in fact identical with the Pativratädharma with the addition of one verse (Goswami 1932: II, MS. nos. 578, 579). 
+6. The Pativratopākhyāna is listed separately in the Thanjavur Catalogue of Marathi manuscripts, but closer inspection reveals that it is in fact identical with the Pativratādharma with the addition of one verse (Goswami 1932: II, MS. nos. 578, 579). 
 
  
 
@@ -524,13 +524,13 @@ Thus the status and role in society of each individual, man or woman, not only r
 
 [[24]]
 
-to the moral precepts laid down by the specialists in and teachers of dharma in the vast literature of dharmasastra. These precepts are based on the three 'sources of dharma': the Vedas, tradition, and accepted custom; while Manu (II.12) and Yajnavalkya (1.7) also allow an internal guideline (ätmatuṣṭi; literally, 'please yourself') if there is a conflict between the three external authorities. These precepts-in all their complexity of detail, disagreement and debate-are the concern and content of dharmasastra. 
+to the moral precepts laid down by the specialists in and teachers of dharma in the vast literature of dharmasastra. These precepts are based on the three 'sources of dharma': the Vedas, tradition, and accepted custom; while Manu (II.12) and Yajnavalkya (1.7) also allow an internal guideline (ātmatuṣṭi; literally, 'please yourself') if there is a conflict between the three external authorities. These precepts-in all their complexity of detail, disagreement and debate-are the concern and content of dharmasastra. 
 
 Derrett divides dharmasastra literature into two basic groups: primary material presented in the form of sutras, smṛtis and purānas; and secondary material. The latter may be subdivided into five categories. First, there are the straightforward commentaries such as those by Medhātithi and Kullūka on Manu. Secondly, there are the works of comparative scholarship like Vijñānesvara's Mitākṣară; or Apararka's commentary on Yajnavalkya. Thirdly, there are the more controversial treatises on special subjects such as Jimūtavāhana's Dāyabhāga on inheritance. Fourthly, there is the scissors-and-paste type of digest (e.g. Varadarāja's Vyavahāranirnaya; Hemādri's Caturvargacintamani). Lastly, there is the superior digest that is more like a lecture with supporting quotations, such as Śrīdhara's Smrtyarthasara; Devannabhatta's Smṛticandrikā, the Parāśaramādhavīya, or Kamalākarabhatta's Nirnayasindhu (Derrett 1973(1):24ff., 47ff.). 
 
 The Strīdharmapaddhati seems to fit Derrett's last sub-category best; yet it must be admitted that it is not in the same class as the great digests given as examples. As a treatise entirely devoted to the special subject of women, it also belongs to the third sub-category. In places, however, it shares characteristics of the fourth or inferior, scissors-and-paste type of digest: for example, most of the extremely lengthy section V consists of collected quotations with little or no additional comment. 
 
-Digests of both kinds are almost always the result of royal patronage. For a king sought to enhance his reputation as the upholder of dharma by employing scholars to compile appropriate works. This need would have been felt especially keenly by the orthodox Marathas of Thanjavur who, by Tryambaka's time, were completely cut off from the Sanskrit culture of the north, the hallowed region called brahmävarta (Manu II.17-18). 
+Digests of both kinds are almost always the result of royal patronage. For a king sought to enhance his reputation as the upholder of dharma by employing scholars to compile appropriate works. This need would have been felt especially keenly by the orthodox Marathas of Thanjavur who, by Tryambaka's time, were completely cut off from the Sanskrit culture of the north, the hallowed region called brahmāvarta (Manu II.17-18). 
 
 Tryambaka himself seems to have been familiar with the major south Indian works on dharma. There are even marked similarities 
 

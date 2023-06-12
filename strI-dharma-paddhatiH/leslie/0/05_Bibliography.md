@@ -39,20 +39,20 @@ Sanskrit text with Rudradatta's commentary, ed. R. Garbe, 3 vols., Calcutta 1882
 German tr. W. Caland, 2 vols., (1921) Amsterdam 1924.  
 Arthasangrahaḥ of Laugakṣi Bhaskara  
 Sanskrit text with Ramesvara's commentary, ed. Nārāyaṇa Rāma Acarya, N.S., Bombay 1950.  
-Arthasästra of Kautilya  
+Arthasāstra of Kautilya  
 Sanskrit text crit. ed. R.P. Kangle, Bombay 1960.  
 English tr. R.P. Kangle, Bombay 1963.  
 Aṣṭādhyāyi of Panini  
 Sanskrit text edited, tr. and explained with reference to the commen- .taries, by S.C. Vasu (1891), 2 vols., reprint Delhi etc. 1977.*  
-Sanskrit text with the Käsikävṛtti ed. D. Shastri and K.P. Shukla, 6 vols., Varanasi 1965-7.  
-Astängahrdaya of Vägbhata  
+Sanskrit text with the Kāsikāvṛtti ed. D. Shastri and K.P. Shukla, 6 vols., Varanasi 1965-7.  
+Astāngahrdaya of Vāgbhata  
 Sanskrit text with the commentary of Arunadatta, ed. A.M. Kunte, 2 vols., Bombay 1880.  
 Asvalayanagṛhyasutra  
-Sanskrit text with Nārāyaṇa commentary, ed. Gaṇeśaśāstrī Gokhale, Än.no.105, Pune 1978.  
+Sanskrit text with Nārāyaṇa commentary, ed. Gaṇeśaśāstrī Gokhale, ān.no.105, Pune 1978.  
 English tr. H. Oldenberg (1886), SBE reprint, Delhi 1967.  
 Asvalayanasrautasūtra  
 Sanskrit text with commentary of Gargya Nārāyaṇa, ed. R. Vidyaratna, Bibl. Ind., Calcutta 1874.*  
-Agnihotracandrikā: Sanskrit text of Asv.sr. with bhasya of Devatvāta and vrtti of Gärgya Nārāyaṇa, Ān.no.87, Pune 1921.  
+Agnihotracandrikā: Sanskrit text of Asv.sr. with bhasya of Devatvāta and vrtti of Gārgya Nārāyaṇa, Ān.no.87, Pune 1921.  
 English tr. H. Ranade, part 1, Poona 1981.  
 Atrismrti  
 See Strīnām samuccayaḥ  
@@ -102,13 +102,13 @@ Sanskrit text ed. Y. Bhaṭṭācārya and K. Tarkaratne, 2 vols., Bibl.Ind., Ca
 Dakṣasmṛti  
 See Smrtiņām samuccayaḥ.  
 Dharmakosa  
-Encyclopaedia of religious law (dharmasastra), ed. Lakshmanshastri Joshi, Prajñapāṭhasālāmaṇḍala, Vai. Vol.I: Vyavahārakāṇḍa, 3 parts, 1937-41; Vol.II: Upanisatkanda, 4 parts, 1950-3; Vol.III: Samskara- kända, 3 parts, 1959-81.  
+Encyclopaedia of religious law (dharmasastra), ed. Lakshmanshastri Joshi, Prajñapāṭhasālāmaṇḍala, Vai. Vol.I: Vyavahārakāṇḍa, 3 parts, 1937-41; Vol.II: Upanisatkanda, 4 parts, 1950-3; Vol.III: Samskara- kānda, 3 parts, 1959-81.  
 Dharmākūta of Tryambakarāyamakhin  
-Sanskrit commentary on the Rāmāyaṇa in six vols. Vol.I: Balakanda, Shri Vani Vilas, Srirangam, 1916; Vol.II: Ayodhyākāṇḍa, 2 parts, Shri Vani Vilas, Srirangam, 1924, 1926; Vol.III: Aranyakanda, ed. K.S. Subrahmanya Sastry, TMSSM, Thanjavur, 1955; Vol.IV: Kiskindhā- kända, ed. K. Vasudeva Sastri, TMSSM; Vol.V: Sundarakanda, ed. T. Chandrasekharan, TMSSM, Madras 1951; Vol.VI: Yuddhakāṇḍa, ed. P.V. Varadarāja Šarmā, TMSSM, Thanjavur 1964.  
+Sanskrit commentary on the Rāmāyaṇa in six vols. Vol.I: Balakanda, Shri Vani Vilas, Srirangam, 1916; Vol.II: Ayodhyākāṇḍa, 2 parts, Shri Vani Vilas, Srirangam, 1924, 1926; Vol.III: Aranyakanda, ed. K.S. Subrahmanya Sastry, TMSSM, Thanjavur, 1955; Vol.IV: Kiskindhā- kānda, ed. K. Vasudeva Sastri, TMSSM; Vol.V: Sundarakanda, ed. T. Chandrasekharan, TMSSM, Madras 1951; Vol.VI: Yuddhakāṇḍa, ed. P.V. Varadarāja Šarmā, TMSSM, Thanjavur 1964.  
 Dharmaśāstrasamgraha  
 Collection of twenty-six smṛtis ed. Jīvānanda Vidyasagara Bhaṭṭācārya (Jiv.), 2 vols., Calcutta 1876.  
 Gautamadharmasira  
-Sanskrit text, Gautamapranītadharmasūtrāni, with Haradatta's com- mentary, Än.no.61, Pune 1966.*  
+Sanskrit text, Gautamapranītadharmasūtrāni, with Haradatta's com- mentary, ān.no.61, Pune 1966.*  
 Sanskrit text with Haradatta's commentary, ed. U.C. Pandey, KSS no.172, Varanasi. 1966.  
 Sanskrit text with Maskarin's commentary, ed. L. Srinivasacharya, Mysore 1917.  
 Sanskrit text, Śrīgautamadharmasastram, ed. A.F. Stenzler, London  
@@ -120,7 +120,7 @@ English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.
 Gobhilasmrti  
 See Smrtinăm samuccayah.  
 Grhyasangraha of Gobhilaputra  
-Appendix to the Gobhilagṛhyasutra, Sanskrit text ed. C. Tarkālankära, Bibl. Ind., 2nd edn., Calcutta 1910.  
+Appendix to the Gobhilagṛhyasutra, Sanskrit text ed. C. Tarkālankāra, Bibl. Ind., 2nd edn., Calcutta 1910.  
 Harivamsa  
 Sanskrit text as in crit. edn. of Mahabharata by V.S. Sukthankar et al., BORI, Poona 1976.  
 Bibliography  
@@ -135,7 +135,7 @@ Sanskrit text crit. ed. V.P. Limaye and R.D. Vadekar, in Eighteen Principal Upan
 English tr. S. Radhakrishnan in The Principal Upaniṣads (1953), London 1974.  
 English tr. R.E. Hume in The Thirteen Principal Upanishads, 2nd edn. (1931), London 1971.  
 Jaiminīyasūtra  
-Sanskrit text with Sabara's commentary, ed. M. Nyayaratna as The Mimämsä Darsana, 2 vols., Bibl. Ind., Calcutta 1889.*  
+Sanskrit text with Sabara's commentary, ed. M. Nyayaratna as The Mimāmsā Darsana, 2 vols., Bibl. Ind., Calcutta 1889.*  
 Sanskrit text and English tr. M.L. Sandal, SBH reprint, New York 1974. English tr. of Jaiminīyasūtra with Sabara's commentary, in Shabara- bhāṣya by G. Jha, 3 vols., GOS, Baroda 1933, 1934, 1936.  
 Jayākhyasamhitā  
 Sanskrit text crit. ed. E. Krishnamacharya, GOS no.54, Baroda 1931. Kadambari of Banabhaṭṭa  
@@ -145,9 +145,9 @@ Kamasutra of Vatsyāyana
 Sanskrit text with the commentary of Yasodhara, ed. G.D. Shastri, KSS no.29 Benares 1929.  
 English tr. S.C. Upadhyaya, Bombay 1961.  
 English tr. with extracts from Kokašāstra, Anangaranga etc., by I. Sinha, London 1980.  
-Käsikävṛtti of Vamana Jāyāditya  
+Kāsikāvṛtti of Vamana Jāyāditya  
 Sanskrit text with the commentaries of Jinendrabuddhipāda and Haradattamisra ed. D. Shastri and K.P. Shukla, 6 vols., Varanasi 1965-7.  
-Käthakasamhitā  
+Kāthakasamhitā  
 Sanskrit text ed. L. von Schroeder, 3 vols., Leipzig 1900-10.  
 Kathopanisad  
 Sanskrit text crit. ed. V.P. Limaye and R.D. Vadekar, in Eighteen Principal Upanisads, vol.I, VSM, Pune 1958.  
@@ -181,26 +181,26 @@ Sanskrit text and English tr. K.C. Chatterji, Calcutta 1957.
 Mahābhāṣya pradīpa vyākhyānāni: Sanskrit text ed. M.S. Narasimha- charya, with the commentaries of Kaiyata and Nageśa, and French tr. P. Filliozat, adhyāya 1, Pondichery 1973.  
 Maitrāyaṇīsamhitā  
 Sanskrit text ed. L. von Schroeder, Leipzig 1881.  
-Mänasollāsa of Somesvara (also called Abhiläṣitārthacintamani)  
+Mānasollāsa of Somesvara (also called Abhilāṣitārthacintamani)  
 Sanskrit text ed. G.K. Shrigondekar, 3 vols., GOS nos. 28,84,138; Baroda 1925, 1939, 1961.  
   
 Bibliography  
 [[349]]
-Mänavagṛhyasutra  
+Mānavagṛhyasutra  
 Sanskrit text with the commentary of Aṣṭāvakra, ed. R.H. Sastri, GOS no.35, Baroda 1926.  
 English tr. M.J. Dresden, Groningen 1941.  
-Mänavasrautasūtra  
+Mānavasrautasūtra  
 Sanskrit text ed. F. Knauer, St. Petersbourg 1900.  
 Manusmrti  
-Sanskrit text with the commentaries of Medhätithi, Sarvajñanārāyaṇa, Kullūka, Raghavananda, Nandana, Rāmacandra and Govindarāja, ed. V.N. Mandlik, Bombay 1886.*  
+Sanskrit text with the commentaries of Medhātithi, Sarvajñanārāyaṇa, Kullūka, Raghavananda, Nandana, Rāmacandra and Govindarāja, ed. V.N. Mandlik, Bombay 1886.*  
 Sanskrit text with Kulluka's commentary, N.S., 2 edns., Pune 1929, 1946. Sanskrit text with Kulluka's commentary, with introduction, parisista and index by Gopala Sastri Nene, ChSS, Benares 1935. English tr. G. Bühler (1886), SBE reprint, Delhi 1979.  
-Märkandeyapurana  
+Mārkandeyapurana  
 Sanskrit text ed. K.M. Banerjea, Calcutta 1862.  
 English tr. F.E. Pargiter, Calcutta 1904.  
 Matsyapurāna  
 Sanskrit text, Ān.no.54, Poona 1907.  
 English tr. B.C. Majumdar, Delhi 1972.  
-Mimāmsäkośa  
+Mimāmsākośa  
 Dictionary of mīmāmsā technical terms, ed. Svāmī Kevalānandasaras- vati, 7 vols., Prajñapāṭhaśālāmandala, Vai 1952–66.  
 Mitākṣarā of Vijñānesvara  
 See Yajnavalkyasmṛti.  
@@ -212,7 +212,7 @@ Nimayasindhu of Kamalākarabhatta
 Sanskrit text ed. Nārāyaṇa Rāma Acarya, N.S. 5th edn., Bombay 1949. Nyāyakośa  
 Dictionary of technical terms of Indian philosophy, ed. B. Jhalakikar, revised V. Abhyankar, Poona 1928.  
 Padmapurāṇa  
-Sanskrit text ed. V.N. Mandlik, 4 vols., An., Pune 1893-4. Parāśaramädhavīya  
+Sanskrit text ed. V.N. Mandlik, 4 vols., An., Pune 1893-4. Parāśaramādhavīya  
 Sanskrit text of the Parāśarasmrti with the commentary of Madhava- cārya, ed. V.S. Islāmapurkar, vols. I and II, 4 parts, Bombay 1893-1906.* Sanskrit text of the Parasarasmrti with the commentary of Madhava-  
   
 [[350]]
@@ -232,13 +232,13 @@ English tr. R.T.H. Griffith (1889), 2nd rev. edn., Delhi 1976.
 See Jaiminiyasūtra.  
 Sahānumaranaviveka of Anantarāma  
 Sanskrit text ed. J.D.M. Derrett, 'Anantarama's defence of suttee (c. 1818-1820)' in Our Heritage, Calcutta Sanskrit College Research Series no. CXIX, 150th Anniversary Volume 1980.  
-Sähendravilāsa of Sridhara Venkatesa (Ayyāvāl)  
+Sāhendravilāsa of Sridhara Venkatesa (Ayyāvāl)  
 Sanskrit text ed. with historical introduction by V. Raghavan, Tiruchi 1952.  
 Sankhasmrti  
 See Smṛtīņām samuccayaḥ.  
-Sänkhāyanabrāhmaṇa  
+Sānkhāyanabrāhmaṇa  
 See Kauṣitakibrāhmaṇa.  
-Sänkhāyanagṛhyasūtra  
+Sānkhāyanagṛhyasūtra  
 Sanskrit text crit. ed. S.R. Sehgal, Delhi 1960.  
 English tr. H. Oldenberg (1886), SBE reprint, Delhi 1967.  
 Sānkhāyanaśrautasūtra  
@@ -257,10 +257,10 @@ Skandapurāna
 Sanskrit text in 7 vols., folio edn., Venkatesvara Press, Bombay 1909–11. Ślokavārtika of Kumārilabhaṭṭa  
 Sanskrit gloss on Sabara's commentary on Jaiminiyasūtra I, ed. G. Jha, Bibl.Ind. no.138, Calcutta 1900.  
 Smṛticandrikā of Devannabhatta  
-Sanskrit text ed. L. Srinivāsācārya; vol.I, samskāra; vol.II, ähnika; vol.III, parts i and ii, vyavahāra; Mysore 1914-16.*  
+Sanskrit text ed. L. Srinivāsācārya; vol.I, samskāra; vol.II, āhnika; vol.III, parts i and ii, vyavahāra; Mysore 1914-16.*  
 English tr. J.R. Gharpure, 3 vols. (āhnika; vyavahāra, parts ii and iii), Bombay 1946, 1950, 1952.  
 Smṛtimuktāphala of Vaidyanathadikṣita  
-Sanskrit text ed. J.R. Gharpure; vol.I, varṇāśramadharma; vol.II, ähnika; Bombay 1937-8.  
+Sanskrit text ed. J.R. Gharpure; vol.I, varṇāśramadharma; vol.II, āhnika; Bombay 1937-8.  
 Smṛtīnām samuccayaḥ  
 Collection of twenty-six prose smṛtis, Ān.no.48, Pune 1929. Smrtyarthasara of Śrīdhara  
 Sanskrit text, Ān. no.70, Pune 1912.  
@@ -281,10 +281,10 @@ English tr. A.B. Keith, 2 vols., HOS nos. 18-19, Cambridge, Mass. 1914.
 Taittiriyopanisad  
 Sanskrit text crit. ed. V.P. Limaye and R.D. Vadekar, in Eighteen Principal Upanisads, vol.I, VSM, Pune 1958.  
 Tantravārtika of Kumārilabhatta  
-Sanskrit gloss on Sabara's commentary on Jaiminiyasūtra II-III, ed. Gangadhara Sästrī, 2 vols., Benares 1903.  
+Sanskrit gloss on Sabara's commentary on Jaiminiyasūtra II-III, ed. Gangadhara Sāstrī, 2 vols., Benares 1903.  
 English tr. G. Jha, 2 vols., Bibl.Ind. no.161, Calcutta 1924.  
-Trikändamandana of Bhaskara Misra  
-Sanskrit text with an anonymous commentary, ed. Candrakanta Tar- kālankära Bhattacārya, 3 fascs. in 1 vol., Bibl. Ind., Calcutta 1898- 1903.  
+Trikāndamandana of Bhaskara Misra  
+Sanskrit text with an anonymous commentary, ed. Candrakanta Tar- kālankāra Bhattacārya, 3 fascs. in 1 vol., Bibl. Ind., Calcutta 1898- 1903.  
 Tuptikā of Kumārilabhaṭṭa  
 Sanskrit gloss on Sabara's commentary on Jaiminiyasūtra IV onwards, ed. Gangadhara Śāstrī, 4 fascs., ChSS, Benares 1903-4.  
 Ujjvalā of Haradattamiśra  
@@ -303,7 +303,7 @@ Sanskrit text, An.no.49, Pune 1905.
 Vimanavatthu  
 Pali text ed. E.R. Gooneratne; see Khuddhanikaya, Suttapitaka, PTS, London 1886.  
 Viramitrodaya of Mitramiśra  
-Sanskrit text ed. P.N. Sarma, ChSS 30/31/40, Benares: samskāra- prakāśa 1906, 1913; ähnikaprakāśa 1913; püjāprakāśa 1913.  
+Sanskrit text ed. P.N. Sarma, ChSS 30/31/40, Benares: samskāra- prakāśa 1906, 1913; āhnikaprakāśa 1913; püjāprakāśa 1913.  
   
 Visnupurāna  
 Bibliography  
@@ -323,10 +323,10 @@ Yajnavalkyasmrti
 Sanskrit text with the Mitākṣarā commentary, 5th edn. by N.R. Acharya, N.S., Bombay 1949.*  
 Sanskrit text with Apararka's commentary, 2 vols., An.no. 46, Poona  
 1903-4.  
-English tr. (ācāra only) with the Mitäkṣara commentary and Bālam- bhaṭṭī gloss, by S.C. Vidyarṇava (1918), SBE vol.21, reprint New York 1974.  
-English tr. of Yājñ. with the Mitäkṣarā and the Viramitrodaya of Mitramiśra, by J.R. Gharpure, 2 parts, Bombay 1936-7.  
+English tr. (ācāra only) with the Mitākṣara commentary and Bālam- bhaṭṭī gloss, by S.C. Vidyarṇava (1918), SBE vol.21, reprint New York 1974.  
+English tr. of Yājñ. with the Mitākṣarā and the Viramitrodaya of Mitramiśra, by J.R. Gharpure, 2 parts, Bombay 1936-7.  
 Secondary literature  
-Abbott, J.E. (tr.) Bahina Bäi: a Translation of her Autobiography and Verses  
+Abbott, J.E. (tr.) Bahina Bāi: a Translation of her Autobiography and Verses  
 (The Poet-Saints of Maharashtra, no.5), Poona 1929.  
 Alston, A.J. (tr.) The Devotional Poems of Mirabai, Delhi 1980.  
 Altekar, A.S. The Position of Women in Hindu Civilisation from Prehistoric  
@@ -356,7 +356,7 @@ Böhtlingk, O. and Roth, R. Sanskrit Wörterbuch, 7 vols., St. Petersburg
 1855-75.  
 Brockington, J.L. 'Guarded by grass: a Rāmāyaṇa motif and some Western  
 parallels', Indologica Taurinensia, forthcoming..  
-Brown, W. Norman, 'Duty as truth in ancient India', in India and Indology: Selected Articles by W. Norman Brown, ed. R. Rocher, Delhi 1978. Bühler, G. (ed.) Apastambiyadharmasutram: Apastamba's Aphorisms on the Sacred Laws of the Hindus edited with Extracts from Haradatta's Com- mentary; the Ujjvalä, 3rd edn., Bombay 1932.  
+Brown, W. Norman, 'Duty as truth in ancient India', in India and Indology: Selected Articles by W. Norman Brown, ed. R. Rocher, Delhi 1978. Bühler, G. (ed.) Apastambiyadharmasutram: Apastamba's Aphorisms on the Sacred Laws of the Hindus edited with Extracts from Haradatta's Com- mentary; the Ujjvalā, 3rd edn., Bombay 1932.  
 —(tr.) The Sacred Laws of the Aryas: as Taught in the Schools of Apa- stamba, Gautama, Vasishtha and Baudhāyana; vol.I, Apastamba and Gautama (1879), SBE reprint, Delhi 1975; vol.II, Vasishtha and Bau- dhāyana (1882), SBE reprint, Delhi 1965.  
 -(tr.) The Laws of Manu, translated with Extracts from Seven Commen-  
 taries (1886), SBE reprint, Delhi 1979.  
@@ -385,7 +385,7 @@ Devahuti, D. Harsha: a Political Study, Oxford 1970.
 Dimmitt, C. ‘Sītā: mother goddess and sakti', in The Divine Consort: Radha and the Goddesses of India, ed. J.S. Hawley and D.M. Wulff, Berkeley 1982, pp.210-23.  
 Dumont, P.-É. L'Agnihotra: Description de l'Agnihotra dans le Rituel Védique  
 d'après les Śrautasūtras, Baltimore 1939.  
-The horse-sacrifice in the Taittiriya-Brähmana: the eighth and ninth prapathakas of the third kända of the Taittiriya-Brāhmaṇa with trans- lation', Proceedings of the American Philosophical Society, vol.92, no.6, Philadelphia 1948.  
+The horse-sacrifice in the Taittiriya-Brāhmana: the eighth and ninth prapathakas of the third kānda of the Taittiriya-Brāhmaṇa with trans- lation', Proceedings of the American Philosophical Society, vol.92, no.6, Philadelphia 1948.  
 Dutt, U.C. The Materia Medica of the Hindus with a Glossary of Indian Plants by George King, revised (2nd edn.) with additions by K.B.L. Sen, K.A. Sen and K.P.K. Sen, Calcutta 1922.  
 Eggeling, J. (tr.) The Satapatha Brahmana according to the Text of the Madhyandina School (1882-1900), SBE reprint, Delhi: vol.I, 1972; vol.II, 1978; vol.III, 1979; vol.IV, 1978; vol.V, 1978.  
 Falk, N.A. 'The case of the vanishing nun: the fruits of ambivalence in Indian Buddhism', in Unspoken Worlds: Women's Religious Lives in Non-Western Cultures, ed. N.A. Falk and R.M. Gross, San Francisco 1980.  
@@ -394,10 +394,10 @@ Fuller, C.J. and Logan, P. The Navaratri festival in Madurai', Bulletin of the S
   
 [[356]]
 Gaur, A. Women in India, London 1980.  
-Gharpure, J.R. (tr.) Yäjñavalkyasmṛti with the Mitākṣarā of Vijñānešvara  
+Gharpure, J.R. (tr.) Yājñavalkyasmṛti with the Mitākṣarā of Vijñānešvara  
 and the Viramitrodaya of Mitramiśra, 2 parts, Bombay 1936-7.  
 Gode, P.K. 'Raghunatha, a protégé of Queen Dīpābai of Tanjore and his works: between A.D. 1675 and 1712', Studies in Indian Literary History, vol.II, Bombay 1954.  
-Studies in the history of dietetics-references to "avaränna" in the Dharmasutras of Baudhayana and Apastamba and the Gṛhyasutra of Āpastamba (between B.C. 500 and A.D. 500)', Studies in Indian Literary History, vol.III, Poona 1956, pp.153-60.  
+Studies in the history of dietetics-references to "avarānna" in the Dharmasutras of Baudhayana and Apastamba and the Gṛhyasutra of Āpastamba (between B.C. 500 and A.D. 500)', Studies in Indian Literary History, vol.III, Poona 1956, pp.153-60.  
 Some notes on the history of soap-nuts, soap and washermen in India-between B.C. 300 and A.D. 1900', Studies in Indian Cultural History, vol.III, BORI, Poona 1969, pp.150–67.  
 Gombrich, R.F. Precept and Practice: Traditional Buddhism in the Rural  
 Highlands of Ceylon, Oxford 1971.  
@@ -432,7 +432,7 @@ Kane, P.V. History of Dharmasastra (Ancient and Mediaeval Religious and
 Civil Law in India), 2nd edn., 5 vols., Poona 1968-77.  
 Kashikar, C.G. and Parpola, A. ‘Srauta traditions in recent times', in Agni:  
 the Vedic Ritual of the Fire Altar, vol.II, pp.232-9; see Staal 1983. Keith, A.B. (tr.) The Veda of the Black Yajus School entitled Taittiriya  
-Sanhitä, HOS vols. 18-19, Cambridge, Mass. 1914.  
+Sanhitā, HOS vols. 18-19, Cambridge, Mass. 1914.  
 King, U. 'The effect of social change on religious self-understanding: women ascetics in modern Hinduism', Changing South Asia: Religion and Society, ed. K. Ballhatchet and D. Taylor, London 1984.  
 Kinsley, D. 'Blood and death out of place: reflections on the goddess Kali', The Divine Consort: Radha and the Goddesses of India, ed. J.S. Hawley and D.M. Wulff, Berkeley 1982, pp.144-52.  
 Kishwar, M. and Vanita, R. (eds.) In Search of Answers: Indian Women's  
@@ -451,8 +451,8 @@ Papers on India, vol.1, part 1, Delhi 1986.
 Losty, J.P. Krishna, A Hindu Vision of God: Scenes from the Life of Krishna Illustrated in Orissan and other Eastern Indian Manuscripts in the British Library, London 1980.  
 Malamoud, C. 'On the rhetoric and semantics of puruṣārtha', in Way of Life:  
 King, Householder, Renouncer, ed. T.N. Madan, Delhi 1982.  
-Mandlik, V.N. (ed.) Mänava-Dharma-Śästra [Institutes of Manu] with the  
-Commentaries of Medhätithi, Sarvajñanārāyaṇa, Kullüka, Raghavananda, Nandana and Ramachandra; and a Supplement of the Commentary of Govindaraja, Bombay 1886.  
+Mandlik, V.N. (ed.) Mānava-Dharma-Śāstra [Institutes of Manu] with the  
+Commentaries of Medhātithi, Sarvajñanārāyaṇa, Kullüka, Raghavananda, Nandana and Ramachandra; and a Supplement of the Commentary of Govindaraja, Bombay 1886.  
 McCrindle, J.W. Ancient India as Described in Classical Literature (1901),  
 reprint Amsterdam 1971.  
 Menski, W.F. 'Role and ritual in the Hindu marriage', D.Phil. thesis, Univ.  
@@ -487,29 +487,29 @@ India, Madras 1880-5.
 Parry, J.P. Caste and Kinship in Kangra, London 1979.  
 Paul, D.Y. Women in Buddhism: Images of the Feminine in Mahāyāna Tradi-  
 tion, Berkeley 1979.  
-Pingree, D. Jyotiḥśästra: Astral and Mathematical Literature, in A History  
+Pingree, D. Jyotiḥśāstra: Astral and Mathematical Literature, in A History  
 of Indian Literature, vol.VI, fasc. 4, Wiesbaden 1981.  
 Postel-Coster, E. 'The Indonesian novel as a source of anthropological data',  
 in Text and Context, ed. R. K. Jain, Philadelphia 1977.  
-Radhakrishnan, S. (tr.) The Principal Upanisads (1953), London 1974. Raghavan V. Śähendravilāsa (A Poem on the Life of King Šāhajī of Tanjore  
+Radhakrishnan, S. (tr.) The Principal Upanisads (1953), London 1974. Raghavan V. Śāhendravilāsa (A Poem on the Life of King Šāhajī of Tanjore  
 (1684–1710) of Śrīdhara Venkatesa (Ayyāvāl), Tiruchi 1952.  
 Raghavan, V. and Kunjunni Raja, K. (eds.) New Catalogus Catalogorum. An Alphabetical Register of Sanskrit and Allied Works and Authors (NCC), Madras 1968-: vol.I-V ed. Raghavan; vol.VI ed. Kunjunni Raja; vol. VIII 1974; unpublished material, NCC files, Madras Uni- versity.  
 Rai, R. and Singh, B. 'Widows of Varanasi', India Today, vol.VIII, no.3,  
 Delhi 1983.  
 Ramanujan, A.K. (tr.) Speaking of Śiva (1973), Harmondsworth 1979.  
--‘On women saints', in The Divine Consort: Rädhā and the Goddesses of India, ed. J.S. Hawley and D.M. Wulff, Berkeley 1982. Randhawa, M.S. Kangra Paintings on Love, New Delhi 1962. Rao, T.A. Gopinatha, Elements of Hindu Iconography, 2 vols., Madras 1914. Reynell, J. 'Honour, nurture and festivity: aspects of female religiosity amongst Jain women in Jaipur', D.Phil. thesis, Univ. of Cambridge, 1985.  
+-‘On women saints', in The Divine Consort: Rādhā and the Goddesses of India, ed. J.S. Hawley and D.M. Wulff, Berkeley 1982. Randhawa, M.S. Kangra Paintings on Love, New Delhi 1962. Rao, T.A. Gopinatha, Elements of Hindu Iconography, 2 vols., Madras 1914. Reynell, J. 'Honour, nurture and festivity: aspects of female religiosity amongst Jain women in Jaipur', D.Phil. thesis, Univ. of Cambridge, 1985.  
 Rowland, B. The Art and Architecture of India: Buddhist, Hindu, Jain, in The Pelican History of Art, ed. N. Pevsner (1953), 3rd revised edn. 1967, Harmondsworth 1970.  
 Salomon, R. 'Legal and symbolic significance of the "menstrual pollution" of rivers', in Studies in Dharmasastra, ed. R. W. Lariviere, Calcutta 1984.  
   
 [[360]]
-Sandal, M.L. (tr.) The Mimämsä Sūtras of Jaimini (1923–25), SBH reprint,  
+Sandal, M.L. (tr.) The Mimāmsā Sūtras of Jaimini (1923–25), SBH reprint,  
 New York 1974.  
 Sandesara, B.J. ‘Great Hindu women in Gujarat and Saurashtra', in Great Women of India, ed. Swami Madhavananda and R.C. Majumdar, Almora 1953.  
 Sastri, P.P.S. (ed.) A Descriptive Catalogue of the Sanskrit Manuscripts in the Tanjore Maharaja Serfoji's Sarasvati Mahal Library, Tanjore (TD), 19 vols., Srirangam 1934-.  
 Sen, Chitrabhanu A Dictionary of the Vedic Rituals based on the Śrauta  
 and Grhya Sutras (1978), reprint Delhi 1982.  
 Sethi, S. 'Dowry: a gift of justice', India Today, 15 April 1985, p.57. Sinha, I. The Love Teachings of Kamasutra with Extracts from Koka Shastra, Ananga Ranga and other Famous Indian Works on Love, London 1980. Smith, F.M. 'The Vedic sacrifice in transition: a translation and study of  
-the Trikändamandana of Bhaskara Miśra', Ph.D. dissertation, Univ. of Pennsylvania, 1984.  
+the Trikāndamandana of Bhaskara Miśra', Ph.D. dissertation, Univ. of Pennsylvania, 1984.  
 Staal, F. Agni: the Vedic Ritual of the Fire Altar, 2 vols., in collaboration with C.V. Somayajipad and M. Itti Ravi Nambudiri, Berkeley 1983. Strandberg, E. The Modi Documents from Tanjore in Danish Collections,  
 Wiesbaden 1983.  
 Stutley, M. and J. Stutley, A Dictionary of Hinduism: its Mythology, Folklore  
@@ -517,9 +517,9 @@ and Development 1500 B.C.-A.D. 1500, London 1977.
 Subramanian, K.R. The Marāṭhā Rājas of Tanjore (1676–1855), Madras  
 1928.  
 Takakhav, N.S. The Life of Shivaji Maharaj, Founder of the Maratha Empire, adapted from the Marathi work by K.A. Keluskar, Bombay 1921. Tawney, C.H. The Ocean of Story, Being C.H. Tawney's Translation of Soma-  
-deva's Kathā Sarit Sägara, ed. N.M. Penzer, 10 vols., London 1924–8. Thapliyal, U.P. Foreign Elements in Ancient Indian Society: 2nd century  
+deva's Kathā Sarit Sāgara, ed. N.M. Penzer, 10 vols., London 1924–8. Thapliyal, U.P. Foreign Elements in Ancient Indian Society: 2nd century  
 B.C. to 7th century A.D. Delhi 1979.  
-Thieme, P. 'Jungfrauengatte' in Kleine Schriften, Teil II, Wiesbaden 1971. Upadhyaya, S.C. (tr.) Kāmasūtra of Vätsyāyana, Bombay 1961.  
+Thieme, P. 'Jungfrauengatte' in Kleine Schriften, Teil II, Wiesbaden 1971. Upadhyaya, S.C. (tr.) Kāmasūtra of Vātsyāyana, Bombay 1961.  
 Urban, Sylvanus (ed.) The Gentleman's Magazine and Historical Chronicle,  
 vol.LXIV, part II, 1794.  
 van Buitenen, J.A.B. (tr.) The Mahābhārata: vols. 1-2, Chicago and London  

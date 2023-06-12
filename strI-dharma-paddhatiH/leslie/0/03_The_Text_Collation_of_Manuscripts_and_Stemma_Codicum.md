@@ -184,7 +184,7 @@ In the case of C, the insertion again coincides with an extensive deletion in th
 
 [[338]]
 
-begins with a small example of saut du même au même : from ata eva sarvam api (PT 208.6) to ata eva sudarsanopäkhyāne (PT 209.3). Of the rest, some is dropped altogether, and some is reinserted but in a different form. An added complication is that a large portion of insert C is itself deleted (i.e. T, 67v.2– 10) and very little of this is to be found in either the first (i.e. pre-insert) version or in the refurbished insert C.
+begins with a small example of saut du même au même : from ata eva sarvam api (PT 208.6) to ata eva sudarsanopākhyāne (PT 209.3). Of the rest, some is dropped altogether, and some is reinserted but in a different form. An added complication is that a large portion of insert C is itself deleted (i.e. T, 67v.2– 10) and very little of this is to be found in either the first (i.e. pre-insert) version or in the refurbished insert C.
 
 (The same is true of the additional insert described in section V, p.307, note 3. Without it, the treatise moves coherently from the story of the pigeons and the bird-catcher to that of Kausika and the brahmin woman. The insertion – now in fact missing from T1-provides the entire story of Hariścandra.) I conclude that the stemma codicum is in fact something more like this:
 

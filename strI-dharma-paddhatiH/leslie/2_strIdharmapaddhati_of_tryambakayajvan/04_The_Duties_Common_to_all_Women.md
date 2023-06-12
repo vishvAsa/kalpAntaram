@@ -33,7 +33,7 @@ This is in fact an artificial subdivision. For although the quotations do indeed
 
 [^2]: ayodhyākāṇḍe sītām praty anasüyāvākyam // Sdhp.24v.9-10. du[h]šilaḥ kāmavṛtto vā dhanair vā parivarjitaḥ / strīṇām āryasvabhāvānām paramam daivatam patiḥ// Sdhp.25r.1-2 (Rām.) < Rām.II.109.24. Cf. Manu V.154. 
 
-[^3]: viditam tu mamapy etad yathā näryäḥ patir guruh // Sdhp.25r.5 (Rām.) < Rām.II.110.2b. 
+[^3]: viditam tu mamapy etad yathā nāryāḥ patir guruh // Sdhp.25r.5 (Rām.) < Rām.II.110.2b. 
 
 [^4]: samgrahe // bāhyād āyāntam ālokya tvarită ca jalāśanaiḥ / tāmbūlavyajanais caiva pādasamvāhanādibhiḥ // tathaiva căṭuvacanaiḥ khedasamnodanaiḥ paraiḥ/ ya priyam prinayet prityā triloki prīnitā tayā // Sdhp.25r.7-9 (samgraha)<? See also Sdhp.31r.7-8 (from section IV, pp.280–1)<Mbh. III.223.6. 
 
@@ -47,13 +47,13 @@ section remains in effect a continuation of the earlier one on general behaviour
 
 'These are the six things that corrupt women (nārīṇām dūṣaṇāni sat): drinking; keeping bad company; deserting one's husband (glossed by Tryambaka as "sleeping in the house of someone other than one's husband"); roaming around (on one's own); sleeping (glossed by Tryambaka as “sleeping in the daytime"); and staying (i.e. spending time) in other people's homes.'[^6] Some of the aspects involved in 'keeping bad company'—that is, the men and women with whom the good Hindu wife may not properly associate-are discussed in section IIC, pp.170-6). Since it is deemed necessary to begin each day by meditating with one's husband (see section IIA, pp.52-4), it makes sense that the conscientious wife never spends the night away from him. The question of whether or not she may sleep in the hottest part of the day after the midday meal is discussed briefly on page 49. 
 
-'These are the six things that cause women and sūdras to fall (strīśūdrapatanāni șat): recitation (or repetition, i.e. of sacred texts; japa [h]); austerities (tapas); going on pilgrimages; renunciation (pravrajyā); the chanting of mantras (mantrasādhanam); and the worship of deities (devatärādhanam).”[^7] To this sloka we may add a similar one taken from section V, and attributed there to Aśvalāyana. ‘Śūdras are enjoined by Brahmā to serve the twice-born always, and likewise women to serve their own husbands. Women who are devoted to their husbands should never engage in japa recitation, austerities (tapas), offerings into fire (homa), religious donations (dāna), or any other religious observance (or vow; vrata) or ritual (makha), as long as their husbands are alive.'[^8] The important implications of these slokas have been discussed in the 
+'These are the six things that cause women and sūdras to fall (strīśūdrapatanāni șat): recitation (or repetition, i.e. of sacred texts; japa [h]); austerities (tapas); going on pilgrimages; renunciation (pravrajyā); the chanting of mantras (mantrasādhanam); and the worship of deities (devatārādhanam).”[^7] To this sloka we may add a similar one taken from section V, and attributed there to Aśvalāyana. ‘Śūdras are enjoined by Brahmā to serve the twice-born always, and likewise women to serve their own husbands. Women who are devoted to their husbands should never engage in japa recitation, austerities (tapas), offerings into fire (homa), religious donations (dāna), or any other religious observance (or vow; vrata) or ritual (makha), as long as their husbands are alive.'[^8] The important implications of these slokas have been discussed in the 
 
 [^6]: atha varjanīyah // Sdhp.25r.10. pānam durjanasamsargah patyă ca viraho 'tanam/ svapno 'nyagehavāsaś ca nārīṇām dūṣaṇāni şaṭ// Sdhp.25r.10–11 < Manu IX.13 (nārīsamdüṣanāni for nārīnām dūṣanāni). patyā virahaḥ patigṛha[d] gṛhantaraśayanam || svapn[o] divāsvāpaḥ // Sdhp.25r.11. 
 
 [^7]: japas tapas tīrthayātrā pravrajya mantrasadhanam / devatāradhanam ceti strīsūdrapatanani sat // Sdhp.25v.1 < Atri 135b-136a (caiva for ceti); Sm.M.I.p.158 (tīrthasevā for tīrthayātrā; caiva for ceti; Atri); Sm.M.II.p.390. See also Sdhp.59r.2-3, from section V (caiva for ceti; Manu). 
 
-[^8]: āśvalayano 'pi // Sdhp.58r.2. sūdrānām dvijasuśruṣā vihita brahmana yatha / strīnām svabhartṛśuśrūṣā tathaiva vihitā sadā // na syaj japas tapo hom[o] dänavratamakhādikam / strīnām patiparānām tu patyau jivati kin cana // Sdhp.58r.3-5 (Aśv.), from section V<? 
+[^8]: āśvalayano 'pi // Sdhp.58r.2. sūdrānām dvijasuśruṣā vihita brahmana yatha / strīnām svabhartṛśuśrūṣā tathaiva vihitā sadā // na syaj japas tapo hom[o] dānavratamakhādikam / strīnām patiparānām tu patyau jivati kin cana // Sdhp.58r.3-5 (Aśv.), from section V<? 
 
  
 
@@ -73,13 +73,13 @@ Some aspects of this topic are discussed briefly in the approp
 
 riate sections. Most important, perhaps, is the notion that the possession of property is a necessary prerequisite for the performance of sacrifice; and thus that the ineligibility of women to own anything (since they themselves are 'owned; see note 10) means that they have no right to perform sacrifice (see section I). In addition to this, the question of whether or not a wife may earn money is raised in section IIB (pp.132-41); the wife's responsibility to manage the household accounts in section IIC (pp.168-70); her right to make religious donations (dāna) in sections IIC (pp.168–70) and IV (pp.274-6). But such passages merely touch on what is an extremely complex topic pursued in great detail in numerous commentaries and digests. The problem here is how one may reconcile apparently conflicting rulings. Briefly, Tryambaka proceeds as follows. 
 
-On the one hand, there are a number of rulings that deny women the rights of ownership, inheritance and the independent disposal of property. According to an unattributed quotation (in fact taken from Manu), for example, 'these three-a wife, a son and a slave -are held to be without property ([a]dhanaḥ): whatever they acquire (or earn) is the property of him to whom they belong.'[^10] According to śruti, women are powerless (nirindriyā) and without inheritance (adāyādiḥ; Sdhp.25v.7-8). According to another quotation from Manu (attributed here to Kātyāyana), ‘women should not set aside anything (for their own use) from the property of the joint family or even from their own property (svakäd api ca vittād) without the permission of their husbands.'[^11] Regarding a woman's lack of independence in such matters (tatra svātantryābhāve), Tryambaka quotes Hārīta. 'A woman is not entitled to independence (na strī svātantryam arhati) with regard to giving (dāne) or throwing (dhamane; lit. ‘blowing' things) away, or with regard to any particular religious matter, or with regard to taking (ādāne; i.e. 
+On the one hand, there are a number of rulings that deny women the rights of ownership, inheritance and the independent disposal of property. According to an unattributed quotation (in fact taken from Manu), for example, 'these three-a wife, a son and a slave -are held to be without property ([a]dhanaḥ): whatever they acquire (or earn) is the property of him to whom they belong.'[^10] According to śruti, women are powerless (nirindriyā) and without inheritance (adāyādiḥ; Sdhp.25v.7-8). According to another quotation from Manu (attributed here to Kātyāyana), ‘women should not set aside anything (for their own use) from the property of the joint family or even from their own property (svakād api ca vittād) without the permission of their husbands.'[^11] Regarding a woman's lack of independence in such matters (tatra svātantryābhāve), Tryambaka quotes Hārīta. 'A woman is not entitled to independence (na strī svātantryam arhati) with regard to giving (dāne) or throwing (dhamane; lit. ‘blowing' things) away, or with regard to any particular religious matter, or with regard to taking (ādāne; i.e. 
 
 (Manu); Sm.C.III.ii.p.584 (Manu); Subh.366/[^15] (kimcid kāryam for kāryam kimcid). 
 
 [^10]: bhāryā putraś ca dasaś ca traya ete 'dhanaḥ smrtaḥ/ yat te samadhigacchanti yasyaite tasya tad dhanam // Sdhp.25v.6-7 < Manu VIII.416 (evādhanaḥ for ete 'dhanaḥ; yasya te for yasyai te). See also Sdhp.26[1] r.8–9; 26[1]v.3-4. 
 
-[^11]: na nirhāram striyaḥ kuryuḥ kuumbād bahumadhyagāt svakad api ca vittad dhi svasya bhartur anäjñaya// Sdhp.26r.9-10 (Käty.)<Manu IX.199. See also Sdhp.25v.5-6, from section IV, pp.274-6; Sdhp.26[1]r.4 (Yājñ.). 
+[^11]: na nirhāram striyaḥ kuryuḥ kuumbād bahumadhyagāt svakad api ca vittad dhi svasya bhartur anājñaya// Sdhp.26r.9-10 (Kāty.)<Manu IX.199. See also Sdhp.25v.5-6, from section IV, pp.274-6; Sdhp.26[1]r.4 (Yājñ.). 
 
  
 
@@ -89,11 +89,11 @@ something for her own use) or disposing (visarge; i.e. of things in general).'[^
 
 On the other hand, according to another quotation attributed to Manu, there are six kinds of 'women's property'. 'That which is given (to her) in the vicinity of the fire (at the marriage ceremony); that which is (given to her) when (she is) taken to her new husband's home; that which (is given to her by her husband) in the act of love; and that which (is given to her) by her mother, brother and father these are known as the sixfold property of women (sadvidham strīdhanam).'[^13] (For the application of the term strīdhanam to property acquired by the husband from the wife's family at the time of marriage, i.e. dowry, see Derrett 1984:185.) Tryambaka also points out that, according to Apastamba, 'If the wife makes an occasional religious donation (naimittike dāne) when her husband is away, this is not called "theft".'[^14] Similarly, the epics frequently show women (such as Kausalya) who are described elsewhere as virtuous and yet who make donations apparently in their own right. 
 
-Tryambaka's conclusion follows Raghavananda's comment on Manu VIII.416 (quoted above, see note 10). The so-called 'independence' of the wife, like that of the slave, is no independence at all. For the wife's right to her property implies the ownership of her husband too ((bhāryādhane bhartur api svāmitvävagamāt; Sdhp.26 [1]v.2-3). What then is the difference between a wife's 'own property' and that which is common to both wife and husband? With regard to the distribution of property owned jointly by the two of them, the wife needs her husband's permission but he does not need hers. With regard to the sixfold strīdhana, however, the right of ownership is all hers; but she still needs her husband's permission to exercise it. 
+Tryambaka's conclusion follows Raghavananda's comment on Manu VIII.416 (quoted above, see note 10). The so-called 'independence' of the wife, like that of the slave, is no independence at all. For the wife's right to her property implies the ownership of her husband too ((bhāryādhane bhartur api svāmitvāvagamāt; Sdhp.26 [1]v.2-3). What then is the difference between a wife's 'own property' and that which is common to both wife and husband? With regard to the distribution of property owned jointly by the two of them, the wife needs her husband's permission but he does not need hers. With regard to the sixfold strīdhana, however, the right of ownership is all hers; but she still needs her husband's permission to exercise it. 
 
 [[1]]
 
-[^12]: tatra svätantryābhāve hārītaḥ || dane vā dhamane(?) và 'pi dharmarthe vā visesataḥ / ādāne vā visarge vā na strī svātantryam arhati // iti // Sdhp.26 [1]2-3 (Since MS T1 is hard to decipher, I have followed the reading däne vā dhamane vā 'pi of MSS T2 and T3; i.e. in preference to the readings dane vā dhamam ne vā 'pi of MS M and dāne badhamate vā 'pi of PT)<? Cf. Manu IX.3. 
+[^12]: tatra svātantryābhāve hārītaḥ || dane vā dhamane(?) và 'pi dharmarthe vā visesataḥ / ādāne vā visarge vā na strī svātantryam arhati // iti // Sdhp.26 [1]2-3 (Since MS T1 is hard to decipher, I have followed the reading dāne vā dhamane vā 'pi of MSS T2 and T3; i.e. in preference to the readings dane vā dhamam ne vā 'pi of MS M and dāne badhamate vā 'pi of PT)<? Cf. Manu IX.3. 
 
 [^13]: tad āha manuḥ // adhyagny adhyāv[ā]hanikam dattam ca prītikarmani / mātṛbhrātṛprāptam saḍvidham strīdhanam smrtam | iti // Sdp.25v.9-10 (Manu)< Manu IX. 194. See also Sdhp.26v.6; Sdhp.26[1]r.6-7. 
 
@@ -105,9 +105,9 @@ Tryambaka's conclusion follows Raghavananda's comment on Manu VIII.416 (quoted a
 
 For his part, he may use her property only if he has her permission. Indeed, as Tryambaka explains, ‘a husband should never seize (control of) his wife's property as long as she is alive; if he does so by force (balāt), he should be punished by the king.'[^15] The quotation that follows-attributed to Madhava-extends the ruling to a woman's other male relatives. 'Neither husband, son, father nor brother has the power to take or dispose of a woman's property (strīdhana); if any one of them makes use of (lit. “enjoys") a woman's property without her permission (lit. "by force"), he should be made to give it back with interest (savṛddhikam) and he should incur punishment (dandam; e.g. a fine).'16,[^17] 
 
-[^15]: stridhanam tasyam jīvavatyam bhartrā na grähyam balat grahane rājñā dandya ity āha mādhavaḥ // Sdhp.26[2]r.2-3. 
+[^15]: stridhanam tasyam jīvavatyam bhartrā na grāhyam balat grahane rājñā dandya ity āha mādhavaḥ // Sdhp.26[2]r.2-3. 
 
-[^16]: na bhartă naiva ca suto na pitä bhrātaro na ca / ādāne vā visarge vā strīdhane prabhavisnavaḥ // yadi tv ekataro 'py esam stridhanam bhakṣayed balāt / savṛiddhikam pradāpyaḥ syäd daṇḍam caiva samāpnuyāt // iti // Sdhp. 26[2]r.3-5 (Madhava) < Dh.kosa I.ii.p.1458 (hy ekataro for tv ekataro; savṛddhim pratidapyaḥ for savṛddhikam pradapyaḥ; Katy.). 
+[^16]: na bhartă naiva ca suto na pitā bhrātaro na ca / ādāne vā visarge vā strīdhane prabhavisnavaḥ // yadi tv ekataro 'py esam stridhanam bhakṣayed balāt / savṛiddhikam pradāpyaḥ syād daṇḍam caiva samāpnuyāt // iti // Sdhp. 26[2]r.3-5 (Madhava) < Dh.kosa I.ii.p.1458 (hy ekataro for tv ekataro; savṛddhim pratidapyaḥ for savṛddhikam pradapyaḥ; Katy.). 
 
 [^17]: This important ruling was quoted in a recent judgement of the Indian Supreme Court hailed by the media as 'an unequivocal victory' for women's rights and a major break-through in dowry disputes'. Sunil Sethi's article, published in India Today in April 1985, opens with the following. ‘For some time now the Supreme Court has acquired a healthy reputation for passing judgements heavily weighted in favour of women's rights. Last fortnight that reputation was amply reinforced when the court passed a landmark judgement declaring that all gifts made over to a woman at the time of her marriage remained her absolute private property till the end; and that her husband, or any other, had no right to them without her sanction.... But the Supreme Court, in fact, was upholding the right of a woman to retain nuptial gifts as enshrined in the ancient concept of stridhan (woman's wealth) first mooted by the Vedic sage Manu. Quoting from classical treatises on Hindu law, the 25-page judgement... noted that "neither the husband, nor the son, nor the father, nor the brother, has power to use or to aliene the legal property of a woman. And if any of them shall consume such property against her own consent he shall be compelled to pay its value with interest to her...". ... In other words, gifts of cash, ornaments, silver, clothing or anything that constitutes dowry-may be entrusted by the wife to the husband to keep but he would be deemed "guilty of criminal breach of trust" if he either misappropriates or refuses to return what the court regards “as the absolute and personal property of his wife". (Sethi 1985:57.) 
 
@@ -125,7 +125,7 @@ The first series of ŝlokas are attributed to ‘other smrti texts' (Sdhp.27r.5-
 
 The third series consists of two entire chapters quoted verbatim from Draupadi's conversation with Satyabhama in the Vanaparvan of the Mahābhārata (Sdhp.27v.10-31v.7< Mbh.III.222–3). Satyabhāmā asks Draupadi how she has managed to gain such control over her husbands (the five Pandavas) that they are never angry with her. 18 What is her secret? Is it the result of 'a religious observance (or vow; vrata); (the practice of) austerities (tapas); bathing (in sacred waters; snānam); (reciting) a mantra (or spell); (using) herbs (with magical properties); the (magic) power of knowledge (vidyāvīryam); the (magic) power attained by (using special) roots (mūlavīryam); japa recitation; offerings into the fire (homa); or the (tantric rituals described in) āgama texts (āgamā[h])'?[^19] Draupadī rejects all such methods as appropriate only to wicked women (cf. pp.274-6 above); for drinking the water used to bathe one's husband's feet as the proper alternative to bathing in a sacred place, see section IIB, pp.134-8. 'My husbands have come under my 
 
-[^18]: katham ca vasagās tubhyam na kupyanti ca te subhe // tava vaśyā hi satatam pandavāḥ priyadarsane // Sdhp.28r.5 (Mbh.) < Mbh.III.222.4c-5a. 19. vratacarya tapo väpi snänamantrauṣadhāni vā / vidyāvīryam mūlavīryam japahomāgamās tatha // Sdhp.28r.6-7 (Mbh.) < Mbh.III.222.6 (japahomas tathāgadāḥ for japahomāgamās tathā). 
+[^18]: katham ca vasagās tubhyam na kupyanti ca te subhe // tava vaśyā hi satatam pandavāḥ priyadarsane // Sdhp.28r.5 (Mbh.) < Mbh.III.222.4c-5a. 19. vratacarya tapo vāpi snānamantrauṣadhāni vā / vidyāvīryam mūlavīryam japahomāgamās tatha // Sdhp.28r.6-7 (Mbh.) < Mbh.III.222.6 (japahomas tathāgadāḥ for japahomāgamās tathā). 
 
  
 
@@ -139,13 +139,13 @@ The fifth passage is taken, with some omissions, from the conversation between U
 
 5, 36b, 38–41, 43, 45–52a, 53-5). It opens with Uma's statement that 'the religious duty of a woman (strīdharmah) is created at the outset, that is, at the time of marriage, by her relatives: in the presence of the (marriage) fire, she becomes her husband's partner in the religious sphere (sahadharmacarī).'[^23] Umā then enumerates the qualities of the ideal wife who 'participates in the religious duty of her husband' (dharmacāriṇī, dharmabhāginī), who 'takes his vow 
 
-[^20]: avadhänena subhage nityotthitatayaiva ca / bhartāro vaśagā mahyam guruśuśrūṣayaiva ca // Sdhp.29v.7–8 (Mbh.)<Mbh.III.222.37 (tthānatayaiva for 'tthitatayaiva; suśruṣanena for 'susruṣayaiva). 
+[^20]: avadhānena subhage nityotthitatayaiva ca / bhartāro vaśagā mahyam guruśuśrūṣayaiva ca // Sdhp.29v.7–8 (Mbh.)<Mbh.III.222.37 (tthānatayaiva for 'tthitatayaiva; suśruṣanena for 'susruṣayaiva). 
 
 [^21]: naitādṛśam daivatam asti satye sarvesu lokesu sadaiva[t]eṣu / yathā patis tusyati sarvakāmā labhyaḥ prasādāt kupitaś ca hanyat // Sdhp.31r.2-3 (Mbh.)< Mbh.III.223.2 (patis tasya hi for patis tuṣyati; prasāde for prasādāt). Cf. note 24. 
 
-[^22]: mataram pitaram vāpi mäsmän smara kadacana // patir eva striy[ā] bandhuḥ patir eva striy[ā] dhanam | patir eva striy[ā] dharmaḥ patir eva mahattapah/ Sdhp.32r.1-2 (Ag.P.) < ? 
+[^22]: mataram pitaram vāpi māsmān smara kadacana // patir eva striy[ā] bandhuḥ patir eva striy[ā] dhanam | patir eva striy[ā] dharmaḥ patir eva mahattapah/ Sdhp.32r.1-2 (Ag.P.) < ? 
 
-[^23]: strīdharmaḥ pūrvam evāyam vivähe bandhubhiḥ kṛtaḥ / sahadharmacari bhartur bhavaty agnisamipatah // Sdhp.32r.3-4 (Mbh.) < Mbh.XIII. 134.32 (pūrva evāyam for pūrvam evāyam). Cf. section I, notes 15,16 (Manu II.67). 
+[^23]: strīdharmaḥ pūrvam evāyam vivāhe bandhubhiḥ kṛtaḥ / sahadharmacari bhartur bhavaty agnisamipatah // Sdhp.32r.3-4 (Mbh.) < Mbh.XIII. 134.32 (pūrva evāyam for pūrvam evāyam). Cf. section I, notes 15,16 (Manu II.67). 
 
 [[282]]
 
@@ -155,9 +155,9 @@ The final extended quotation is taken, with few omissions, from Bhisma's convers
 
 [^24]: devavat satatam sādhvī bhartāram pratipaśyati // patir hi devo nārīṇām patir bandhuḥ patir gatiḥ / patyā samā gatir nāsti daivatam vā yathā patiḥ // Sdhp.32r.5-6, 32v.8-9 (Mbh.) < Mbh.XIII.134.34b,51 (ya bhartāram prapasyati for bhartāram pratipaśyati). Cf. Subh.p.366, satīvarṇanam 14. 
 
-[^25]: yady akaryam adharmam va yadi va prananāsanam / patir brüyad daridro vā vyādhito vā katham cana// apanno ripusamstho vā brahmaśāpārdito 'pi va / āpaddharman anuprekṣya tat käryam avisankaya // Sdhp.32v. 9-33r.1 Mbh.XIII. 134.53-4. 
+[^25]: yady akaryam adharmam va yadi va prananāsanam / patir brüyad daridro vā vyādhito vā katham cana// apanno ripusamstho vā brahmaśāpārdito 'pi va / āpaddharman anuprekṣya tat kāryam avisankaya // Sdhp.32v. 9-33r.1 Mbh.XIII. 134.53-4. 
 
-[^26]: näham kāṣāyavasanā nāsmi valkaladharini na ca munda na jațilā bhuktvā devatvam āgatā // Sdhp.33r.6-7 (Mbh.) < Mbh.XIII.124.8 (näpi for nāsmi). 
+[^26]: nāham kāṣāyavasanā nāsmi valkaladharini na ca munda na jațilā bhuktvā devatvam āgatā // Sdhp.33r.6-7 (Mbh.) < Mbh.XIII.124.8 (nāpi for nāsmi). 
 
  
 
@@ -173,7 +173,7 @@ The first and most important point that Tryambaka makes is that 'the menstruatin
 
 In this section, Tryambaka uses a quotation attributed to the Smṛticandrikā to explain that the menstruating woman loses two kinds of blood, one far more polluting than the other. "That which occurs to women at the wrong time (i.e. outside the crucial three days described above) men call "blood' (raktam); that which occurs at the 
 
-[^27]: atha rajasvalädharmaḥ // Sdhp.33v.8. tatra vasisthaḥ || trirätram rajasvalā rajasvalāśucir bhavati // Sdhp.33v.8-9 (Vas.) < Vas. V.6; Dh.kosa I.iii. I.iii.p.1977. 
+[^27]: atha rajasvalādharmaḥ // Sdhp.33v.8. tatra vasisthaḥ || trirātram rajasvalā rajasvalāśucir bhavati // Sdhp.33v.8-9 (Vas.) < Vas. V.6; Dh.kosa I.iii. I.iii.p.1977. 
 
 [^28]: prathame 'hani candāli dvitīye brahmaghātaki / tṛtīye_rajaki proktā caturthe 'hani sudhyati // Sdhp.36r.2-3 (incl. insert above; Samgraha) < Par.Sm.VII.18 (brahmaghatini for ghataki). 
 
@@ -185,7 +185,7 @@ right time (i.e. within those three days) is called "menstrual blood” (rajas);
 
 Secondly, there are innumerable prohibitions relating to the menstruating woman (Sdhp.33v.9-34r.4). For example, she should not use collyrium for her eyes (cf. section IIA, pp.96-101), comb her hair (cf. section IIA, pp.96-7), massage her body with oil or ointments (cf. sections IIA, pp.96-7, and IID, pp.236-45, or take a bath (cf. section IIA, pp.82-8). She should not clean her teeth (cf. section IIA, pp.78-82), ot cut her nails. She should not ‘touch fire' (nāgnim spṛśet, i.e. cook; cf. sections IIA, pp.100–1, and IIC, pp.198-205). She should eat only those foods which are fit for sacrifice (havisyam; cf. Dh.kośa III.ii.1180, 1216, 1265, 1270-3, 1287-8 etc.; PVK II.i. p.681) and she should use either her own cupped hands (añjalinā vā pibet; i.e. like a renouncer, cf. pāṇipātrin, kārapātrin, Yatidh.32.85; Olivelle 1977:37, 164-8) or a 
 
-[^29]: tatha candrikāyām // akāle yad bhavet strīnām raktam ahur manisinah/kale tu yad rajah proktam tasmāt tatraiva säśucih // ā dvādaśāhān nārīṇām mūtrava[c] chaucam iṣyate aṣṭādaśāhā[t] snānam syāt triratram 
+[^29]: tatha candrikāyām // akāle yad bhavet strīnām raktam ahur manisinah/kale tu yad rajah proktam tasmāt tatraiva sāśucih // ā dvādaśāhān nārīṇām mūtrava[c] chaucam iṣyate aṣṭādaśāhā[t] snānam syāt triratram 
 
 parato 'suciḥ // Sdhp.35v.6-9 (Sm.C) < ? 
 
@@ -211,7 +211,7 @@ kinds of coincidences. For example, while there is a prohibition on bathing in g
 
 Fourthly, there are the rulings for the ritual bath of purification on the fourth day (Sdhp.36r.1-36v.1, 37r.10-37v.7). Towards the end of the morning (samgave; see p.45) on the fourth day, she should cleanse herself with sixty lumps of earth; if she is a widow, with twice that number (cf. section IIA, pp.71-4). Then she should clean her teeth (cf. section IIA, pp.78-82), and take a ritual bath with her clothes on (sacelam; cf. section IIA, pp.82-8). Pure once more, she should gaze at the sun (bhāskaram dṛṣṭvā), pray for a son (putram prarthya), and attend to her woman's duties (strī dharmam ... samācaret). According to a quotation attributed to Atri, 'when she has bathed properly, she should look at her husband's face and no one else's, or (if he is away) she should look at the sun while meditating on her husband in her mind."[^31] That evening, she should make sexual advances to her husband (upasarpati; Sdhp.40r.1). A quotation attributed to the Agni
 
-[^31]: atrih / Sdhp.37r.10. susnätä bhartṛvadanam ikṣate 'nyasya na kvacit/ athavā manasă dhyātvā patim bhanum vilokayet // Sdhp.37v.3-4 (Atri)< Sk.P.III.2.7.27b-c (ikṣatānyasa for ikṣate 'nyasya; manasi for manaṣā). 
+[^31]: atrih / Sdhp.37r.10. susnātā bhartṛvadanam ikṣate 'nyasya na kvacit/ athavā manasă dhyātvā patim bhanum vilokayet // Sdhp.37v.3-4 (Atri)< Sk.P.III.2.7.27b-c (ikṣatānyasa for ikṣate 'nyasya; manasi for manaṣā). 
 
 [[287]]
 
@@ -221,7 +221,7 @@ Finally, there are the rulings concerning the importance of making love at the p
 
 [^32]: agneyapurane pi // Sdhp.37v.4. haridrākunkumalepalepita subhravastrakā || smarantī patipādābjam svapādāngusthavīkṣaṇā | itarāmś tu na pasyanti smarantī patim eva sā || bhartāram bhargam eveti dhyāyanti satatam suciḥ/ sumanāḥ śayanam gacched bhuṣitā gandhacarcità // iti // Sdhp.37v.5-7 (Ag.P.)<? 
 
-[^33]: ... āpastambaḥ // dāravyatikramī kharäjinam bahirloma paridhāya dāravyatikramine bhikṣām iti saptāgārāni caret/ sä vrittiḥ ṣanmāsān // Sdhp. 37v.7-9. (Ap.) < Ap.I.10.28.19. 
+[^33]: ... āpastambaḥ // dāravyatikramī kharājinam bahirloma paridhāya dāravyatikramine bhikṣām iti saptāgārāni caret/ sā vrittiḥ ṣanmāsān // Sdhp. 37v.7-9. (Ap.) < Ap.I.10.28.19. 
 
  
 
@@ -237,7 +237,7 @@ The religious duties of the pregnant woman (garbhiṇīdharmāḥ; Sdhp.40r.3-42
 
 First, Tryambaka gives a number of rulings, largely prohibitions, 
 
-[^34]: manuḥ || bhartāram langhayed yā tu jātu strī guṇadarpitā | tām śvabhiḥ khādayed räjā samsthāne bahusamsthite // Sdhp.38r.2-3 (Manu) < Manu VIII.371 (strī jñāti° for jātu strī). Cf. Gaut.XXIII.14; Vis.Sm.V.18.1. 
+[^34]: manuḥ || bhartāram langhayed yā tu jātu strī guṇadarpitā | tām śvabhiḥ khādayed rājā samsthāne bahusamsthite // Sdhp.38r.2-3 (Manu) < Manu VIII.371 (strī jñāti° for jātu strī). Cf. Gaut.XXIII.14; Vis.Sm.V.18.1. 
 
 [^35]: ayam arthaḥ kālidāsenābhyuktaḥ // Sdhp.39r.4–5. satīm api jñātikulaikasamśrayām jano 'nyathā bhartṛmatīm viśankate | ataḥ samīpe parinetur isyate tad apriyāpi pramadā svabandhubhiḥ // Sdhp.39v.8-9 (Kālidāsa) < Abhijñānasakuntalam V.17. 
 
@@ -251,19 +251,19 @@ Some rulings are more specific to pregnancy. For example, the pregnant woman sho
 
 Secondly, Tryambaka deals with the importance of indulging a pregnant woman's cravings (dohadapradānam; Sdhp.41r.9). He quotes Yajnavalkya. ‘As a (direct) result of not indulging the craving of a pregnant woman, the foetus acquires some defect (doṣam); that is, some deformity (vairūpyam) or even death. That is why what women desire (when they are pregnant) should be done. '[^36] Even if she wants something that is bad (ahitam) for her, she should 
 
-[^36]: dohadapradānam yājñavalkye // dohadasyāpradānena garbho daṣam aväpnuyāt vairüpyam maranam väpi tasmāt kāryam priyam striyah // Sdhp. 41r.9-10 < Yajn.III.79 (dauhṛdasya for dohadasyā°; dohadasya given as variant reading); Dh.kosa I.ii.p.1083. 
+[^36]: dohadapradānam yājñavalkye // dohadasyāpradānena garbho daṣam avāpnuyāt vairüpyam maranam vāpi tasmāt kāryam priyam striyah // Sdhp. 41r.9-10 < Yajn.III.79 (dauhṛdasya for dohadasyā°; dohadasya given as variant reading); Dh.kosa I.ii.p.1083. 
 
  
 
 [[290]]
 
-be given it: a little is in this case good or at least somewhat good (hitopahitam alpakam, Sdhp.41v.3< Astängahṛdayam, śarīrasthānam 1.53b; cf. Obeyesekere 1963:340-1). The reasoning behind this derived here from the medical authority, Vāgbhata—is that the heart is one of the 'soft' organs bequeathed by the mother (for the others, see Jolly 1901:81). 'For (the child's) heart is born of its mother (mātrjam) and is (thus closely) linked with its mother's heart; it is therefore not right to deny the cravings (śraddhāvimānanam) of the pregnant woman.'[^37] For in indulging the mother, one is in fact indulging the child. The cravings felt by the mother are thus in reality those of the foetus for all that it experienced in its former life (Jolly 1901:77). Medical texts derive dohada from dvaihṛdaya, ‘twohearted', on the grounds that the hearts of mother and foetus are linked in this way. 
+be given it: a little is in this case good or at least somewhat good (hitopahitam alpakam, Sdhp.41v.3< Astāngahṛdayam, śarīrasthānam 1.53b; cf. Obeyesekere 1963:340-1). The reasoning behind this derived here from the medical authority, Vāgbhata—is that the heart is one of the 'soft' organs bequeathed by the mother (for the others, see Jolly 1901:81). 'For (the child's) heart is born of its mother (mātrjam) and is (thus closely) linked with its mother's heart; it is therefore not right to deny the cravings (śraddhāvimānanam) of the pregnant woman.'[^37] For in indulging the mother, one is in fact indulging the child. The cravings felt by the mother are thus in reality those of the foetus for all that it experienced in its former life (Jolly 1901:77). Medical texts derive dohada from dvaihṛdaya, ‘twohearted', on the grounds that the hearts of mother and foetus are linked in this way. 
 
 Two points may be made here. First, this close relationship between the hearts of mother and child supports the idea that the half-breed demon priest inherits his mother's demonic heart (or svabhāva; see section III, p.266). Secondly, the dohada or craving of the pregnant woman is a recurrent motif in South Asian culture and folklore. More important, it can provide a graphic (but culturally acceptable) expression of a woman's hostility towards her husband, her ambivalence towards her child, and her resentment regarding the traditional role of women in society (cf. Bloomfield 1920; Tawney 1924:1, appendix III; Obeyesekere 1963). 
 
 Finally, Tryambaka describes the entry of the pregnant woman into the lying-in chamber (sütikāgāra veśanam; Sdhp.41v.4-42r.1). She should be led into this special room where all that is necessary has been gathered together (sambhāraiḥ sambhṛtam; Sdhp.41v.9; cf. Jolly 1901:82-3) in or before the ninth month, or even at the moment of giving birth (prasūtisambhave kale sadyo vāpi; Sdhp. 41v.5), at a suitably auspicious time, and with a ceremony to bring good luck (kṛtakautukamangalām; Sdhp.41v.10). Moreover, she should hold in her hand a fruit that has a masculine name (hastastha
 
-[^37]: bahate 'pi // mätrjam hy asya hṛdayam matuś ca hṛdayena tat / sambandham tena garbhinyā nestam śraddhāvimānanam // Sdhp.41v.1–2 (Bāhaṭa) < Vāgbhata's Aṣṭāngahṛdayam, śārīrasthānam 1.52b-53a (śraddhāvidhāraṇam for śraddhāvimānanam; the latter variant is read by Arunadatta's commentary). 'Bahata' is the South Indian version of 'Vägbhaṭa'. 
+[^37]: bahate 'pi // mātrjam hy asya hṛdayam matuś ca hṛdayena tat / sambandham tena garbhinyā nestam śraddhāvimānanam // Sdhp.41v.1–2 (Bāhaṭa) < Vāgbhata's Aṣṭāngahṛdayam, śārīrasthānam 1.52b-53a (śraddhāvidhāraṇam for śraddhāvimānanam; the latter variant is read by Arunadatta's commentary). 'Bahata' is the South Indian version of 'Vāgbhaṭa'. 
 
  
 
@@ -275,13 +275,13 @@ son.
 
 The religious duties of the woman whose husband is away (proṣitabhartṛkādharmāḥ; Sdhp.42r.1–3). 
 
-This brief section quotes two well-known but here unascribed rulings, without comment. 'When her husband has gone to another country, the chaste woman (sati) should forego perfumes, garlands, collyrium, (using) the teeth-cleaning stick and (chewing) betel.'[^38] 'The woman whose husband is away should abandon playing, adorning her body, attending gatherings and festivals, laughing, and going to other people's houses.'[^39] Mit. on Yājñ.I.84 glosses ‘playing' (krīdām) as ‘with a ball and so on' (kandukādibhiḥ), ‘attending festivals' ([u]tsavo) as 'marriages and so on' (vivāhādiḥ), and 'laughing' (häsyam) as 'with the mouth open' (vijṛmbhaṇam). Such are the self-imposed deprivations implied by Draupadi when she tells Satyabhāmā that she always observes a 'vow' (bhavāmi vratacāriņi) when her husband(s) is (are) away (Sdhp.29r.9< Mbh. III.222.29; see section IV, pp.280-1). The implications of the individual items of beautification and personal hygiene have been discussed earlier in the appropriate sections.40 
+This brief section quotes two well-known but here unascribed rulings, without comment. 'When her husband has gone to another country, the chaste woman (sati) should forego perfumes, garlands, collyrium, (using) the teeth-cleaning stick and (chewing) betel.'[^38] 'The woman whose husband is away should abandon playing, adorning her body, attending gatherings and festivals, laughing, and going to other people's houses.'[^39] Mit. on Yājñ.I.84 glosses ‘playing' (krīdām) as ‘with a ball and so on' (kandukādibhiḥ), ‘attending festivals' ([u]tsavo) as 'marriages and so on' (vivāhādiḥ), and 'laughing' (hāsyam) as 'with the mouth open' (vijṛmbhaṇam). Such are the self-imposed deprivations implied by Draupadi when she tells Satyabhāmā that she always observes a 'vow' (bhavāmi vratacāriņi) when her husband(s) is (are) away (Sdhp.29r.9< Mbh. III.222.29; see section IV, pp.280-1). The implications of the individual items of beautification and personal hygiene have been discussed earlier in the appropriate sections.40 
 
 The injunction relating to dying (literally 'going') with (one's husband) (sahagamanavidhih; Sdhp.42r.3-45r.5) 
 
 Of the nine topics discussed in this section on the duties common to all women, this is perhaps the most interesting. For in 1789, 
 
-[^38]: gate desantaram patyau gandhamälyänjanäny api / dantakastham ca tāmbulam varjayed vanita sati // Sdhp.42r.1-2 < Manu, parisista, p.7 ([^1935] Benares edn.; Smrtiratnavali; ani ca for any api). 
+[^38]: gate desantaram patyau gandhamālyānjanāny api / dantakastham ca tāmbulam varjayed vanita sati // Sdhp.42r.1-2 < Manu, parisista, p.7 ([^1935] Benares edn.; Smrtiratnavali; ani ca for any api). 
 
 [^39]: krīḍām sarirasamskāram samājotsavadarśanam | hāsyam paragṛhe yānam tyajet proṣitabhartṛkā // iti // Sdhp.42r.2-3 < Yājñ.I.84; Dh.kosa I.ii.p.1085. Cf. Sm.C.III.ii. p. 592-3. 
 
@@ -293,13 +293,13 @@ Of the nine topics discussed in this section on the duties common to all women, 
 
 He begins with two resounding quotations that advocate the practice of sahagamana. First, 'at the time of a girl's wedding, the brahmins should recite (these words): "May you be one who accompanies her husband (always,) when he is alive and even when he is dead!"''[^42] Secondly, according to Sankha, ‘if, when her husband has died, a woman ascends with (him; samarohe[t]) into the fire, she is glorified in heaven as one whose conduct is equal to that of Arundhati.'[^43] 
 
-Tryambaka next considers the objection (nanu...) that sahagamana is in fact a form of suicide, and therefore prohibited (ätmahatyārūpatvena niṣiddhatvāt; Sdhp.42r.6-7). Of the two quotations given to support this objection, the first is the standard pūrvapakṣa against suicide. ‘And therefore one should certainly not depart (this life) before its full length (has been lived out).'[^44] The second is Iś. Up.3, together with the common misinterpretation of the phrase ātmahano janaḥ to mean 'people who kill themselves' instead of 
+Tryambaka next considers the objection (nanu...) that sahagamana is in fact a form of suicide, and therefore prohibited (ātmahatyārūpatvena niṣiddhatvāt; Sdhp.42r.6-7). Of the two quotations given to support this objection, the first is the standard pūrvapakṣa against suicide. ‘And therefore one should certainly not depart (this life) before its full length (has been lived out).'[^44] The second is Iś. Up.3, together with the common misinterpretation of the phrase ātmahano janaḥ to mean 'people who kill themselves' instead of 
 
 [^41]: I am indebted to J. Duncan M. Derrett for drawing my attention to this work. 
 
-[^42]: atha sahagamana vidhiḥ // Sdhp.42r.3. kanyāvivāhasamaye vācayeyur iti dvijäḥ/ bhartuḥ sahacarī bhūyaḥ jīvato 'jīvato 'pi vā/ iti// Sdhp.42r.4-5 <Sk.P.III.2.7.52. 
+[^42]: atha sahagamana vidhiḥ // Sdhp.42r.3. kanyāvivāhasamaye vācayeyur iti dvijāḥ/ bhartuḥ sahacarī bhūyaḥ jīvato 'jīvato 'pi vā/ iti// Sdhp.42r.4-5 <Sk.P.III.2.7.52. 
 
-[^43]: sankho 'pi || mṛte bhartari yā nārī samārohed dhutāśanam | sārundhatisamācārā svarge loke mahiyate // Sdhp.42r.5-6 (Śankh.) < Mit. on Yäjn.1.86 (svargaloke for svarge loke); Par.M.II.i.p.54 (as Mit.; sankhängirasau); Dh.kosa I.ii.p.1115 (as Mit.; Ang.). See also Sahā. I.1 (Ang.). 
+[^43]: sankho 'pi || mṛte bhartari yā nārī samārohed dhutāśanam | sārundhatisamācārā svarge loke mahiyate // Sdhp.42r.5-6 (Śankh.) < Mit. on Yājn.1.86 (svargaloke for svarge loke); Par.M.II.i.p.54 (as Mit.; sankhāngirasau); Dh.kosa I.ii.p.1115 (as Mit.; Ang.). See also Sahā. I.1 (Ang.). 
 
 [^44]: tatha ca śrutih // tasmad u ha na purayuṣaḥ preyat // iti // Sdhp.42r.7 (śrutiḥ) < Sat.Br.X.2.6.7 (svakāmī preyāt for preyat); Dh.kosa II.i.p.517 (as Śat.Br.). Cf. Medh. on Manu VI.32; Kull. on Manu VI.31. 
 
@@ -319,13 +319,13 @@ He proceeds to quote numerous slokas describing the 'great rewards' in store for
 
 [[294]]
 
-lightning.'[^46] "There is no doubt that the woman who follows (anuvrajanti) her husband gladly from his house to the cremation ground attains with every step the reward(s) of the horse-sacrifice.'[^47] 'Just as the snake-catcher drags the snake from its hole by force, even so the virtuous wife (sati) snatches her husband from the demons of hell and takes him up to heaven.'[^48] 'Yama's messengers recognize a virtuous wife (satīm) from afar and take to flight. Even if her husband has been an evil man, they let go of him at once, exclaiming, "When we see a devoted wife (pativratām) hurtling towards us (to rescue her husband), we messengers (of Death) are less afraid of fire and lightning than we are of her!"'[^49] 'There are 34 crores of hairs on a person's body: she who dies with (anugacchati) her husband will dwell in heaven for the same length of time.'[^50] '(Even in the case of) a husband who has entered into hell (itself) and who-seized by the servants of Death and bound with terrible bonds—has arrived at the very place of torment (vātanästhānam); (even if he is already) standing there, helpless and 
+lightning.'[^46] "There is no doubt that the woman who follows (anuvrajanti) her husband gladly from his house to the cremation ground attains with every step the reward(s) of the horse-sacrifice.'[^47] 'Just as the snake-catcher drags the snake from its hole by force, even so the virtuous wife (sati) snatches her husband from the demons of hell and takes him up to heaven.'[^48] 'Yama's messengers recognize a virtuous wife (satīm) from afar and take to flight. Even if her husband has been an evil man, they let go of him at once, exclaiming, "When we see a devoted wife (pativratām) hurtling towards us (to rescue her husband), we messengers (of Death) are less afraid of fire and lightning than we are of her!"'[^49] 'There are 34 crores of hairs on a person's body: she who dies with (anugacchati) her husband will dwell in heaven for the same length of time.'[^50] '(Even in the case of) a husband who has entered into hell (itself) and who-seized by the servants of Death and bound with terrible bonds—has arrived at the very place of torment (vātanāsthānam); (even if he is already) standing there, helpless and 
 
 [^46]: tatha ca vyāsaḥ // strīṇām anugamanaviṣaye // Sdhp.42v.4–5. bhartā sahānuyātavyo dehavac chāyayā sadā / candramā jyotsnayā yadvad vidyutvān vidyuta yathā // Sdhp.42v.5-6 (Vyasa) < Nirṇ.438 (sadanuyātavyo for sahānuyātavyo; striya for sadā). See also Saha.IV.1b (as Nirn.; Sk.P.). 
 
-[^47]: anuvrajanti bhartāram gṛhat pitṛvanam muda / pade pade 'svamedhasya phalam präpnoty asamsayam // Sdhp.42v.6 (Vyāsa)< Sk.P.III.2.7.53; Nirn.438 (anuvrajati for anuvrajantī; gṛhan niḥsaranam for gṛhat pitṛvanam). See also Sahā.IV.1b (as Nirn.; Sk.P.). 
+[^47]: anuvrajanti bhartāram gṛhat pitṛvanam muda / pade pade 'svamedhasya phalam prāpnoty asamsayam // Sdhp.42v.6 (Vyāsa)< Sk.P.III.2.7.53; Nirn.438 (anuvrajati for anuvrajantī; gṛhan niḥsaranam for gṛhat pitṛvanam). See also Sahā.IV.1b (as Nirn.; Sk.P.). 
 
-[^48]: vyālagrāhī yathā vyālam balād uddharate bilāt / evam utkṛṣya daityebhyaḥ patim svargam nayet sati // Sdhp.42v.6-7 (Vyasa) < Sk.P.III.2.7.54 (utkramya dutebhyah for utkrṣya daityebhyah; vrajet for nayet); Par.M.II.i. p.57 (evam strī patim uddhrtya tenaiva saha modate). For the first half-sloka only (biläd for balād; balāt for bilāt), see Mit. on Yājñ.I.86 (Ang.); Apar. on Yājñ.1.87 (Vyāsa); Dh.kosa I.ii.pp.1111,1116,1117; Sahā.I.1. 
+[^48]: vyālagrāhī yathā vyālam balād uddharate bilāt / evam utkṛṣya daityebhyaḥ patim svargam nayet sati // Sdhp.42v.6-7 (Vyasa) < Sk.P.III.2.7.54 (utkramya dutebhyah for utkrṣya daityebhyah; vrajet for nayet); Par.M.II.i. p.57 (evam strī patim uddhrtya tenaiva saha modate). For the first half-sloka only (bilād for balād; balāt for bilāt), see Mit. on Yājñ.I.86 (Ang.); Apar. on Yājñ.1.87 (Vyāsa); Dh.kosa I.ii.pp.1111,1116,1117; Sahā.I.1. 
 
 [^49]: yamadūtāḥ palāyante satīm ālokya durataḥ / api duşkṛtakarmāṇam samutsrjya ca tatpatim || na tatha bibhimo vahner na tatha vidyuto yathā/ āpatantīm samālokya vayam dūtāḥ pativratām // Sdhp.42v. 7-9 (Vyāsa) < Sk.P.III.2.7.55a (first half-sloka only; tām ālokya pativratām for satīm ālokya dūrataḥ). 
 
@@ -347,7 +347,7 @@ Tryambaka now considers the rewards accruing to the bad wife. 'If (this act of d
 
 [^54]: papiyasyānusthitam cet papakṣayahetuh | Sdhp.43r.7. Cf. Par. M.II.i. p.58 ('hetur bhavati for hetuḥ). 
 
-[^55]: tatha ca samgrahe // bhārate // Sdhp.43r.7. avamatya ca yā[ḥ] pūrvam patim dustena cetasă / vartante yaś ca satatam bhartmam pratikülagäḥ // bhartrānumaraṇam kāle yäḥ kurvanti tathāvidhāḥ / kāmāt krodhad bhayād 
+[^55]: tatha ca samgrahe // bhārate // Sdhp.43r.7. avamatya ca yā[ḥ] pūrvam patim dustena cetasă / vartante yaś ca satatam bhartmam pratikülagāḥ // bhartrānumaraṇam kāle yāḥ kurvanti tathāvidhāḥ / kāmāt krodhad bhayād 
 
  
 
@@ -359,13 +359,13 @@ As Tryambaka admits, however, this conclusion conflicts with the special rulings
 
 Tryambaka's weakness as a mīmāmsaka is evident. For there are two crucial issues here: whether or not sahagamana is really a prāyaścitta for the bad wife; and, if so, whether this particular maraṇāntikaprāyaścitta is in fact prohibited in the kali age. Tryam- baka argues neither well. Instead, he embarks on a lengthy (and poorly structured) explanation of why it is important for a wife to behave properly during her and her husband's lifetime (Sdhp.43v. 3-44v.3). If there is no maranantikaprāyaścitta for the errant wife, then she cannot escape the torments awaiting her in the next world. For-according to a variety of quotations-even if she has bathed in all the sacred places, the bad wife will go to the hell of dung and 
 
-vāpi sarvāḥ pūtā bhavanty uta // Sdhp.43r.7-9 (Mbh.)<Sm.M.I.p.163 (prati- kūlatāh for  ̊gāh; bhayān mohāt for bhayad vāpi; Vyāsasātātapaḥ); Par.M.II. i.p.58 (as Sm.M. except tu for ca; bhavanti täḥ for bhavanty uta; Mbh.); Mbh.XIII appendix 1 no.15, 4660-3, 4665-6. Cf. Saha.1.2 (as Par.M. except ca for tu). 
+vāpi sarvāḥ pūtā bhavanty uta // Sdhp.43r.7-9 (Mbh.)<Sm.M.I.p.163 (prati- kūlatāh for  ̊gāh; bhayān mohāt for bhayad vāpi; Vyāsasātātapaḥ); Par.M.II. i.p.58 (as Sm.M. except tu for ca; bhavanti tāḥ for bhavanty uta; Mbh.); Mbh.XIII appendix 1 no.15, 4660-3, 4665-6. Cf. Saha.1.2 (as Par.M. except ca for tu). 
 
-[^56]: anena jīva[nada]śāyām bhartṛvipriyam pāpam kṛtavatyāḥ sahagamanam prāyaścittatvenoktam // Sdhp.43r.9-10 (following the emendation of PT). 57. kalau yuge tv iman dharmän varj[y]ān āhur manīṣinaḥ/ prayaścitta- vidhānam ca viprāṇām māraṇāntikam // Sdhp.43v.1 −2< Sm.A.p.2, slokas 25b, 21b. 
+[^56]: anena jīva[nada]śāyām bhartṛvipriyam pāpam kṛtavatyāḥ sahagamanam prāyaścittatvenoktam // Sdhp.43r.9-10 (following the emendation of PT). 57. kalau yuge tv iman dharmān varj[y]ān āhur manīṣinaḥ/ prayaścitta- vidhānam ca viprāṇām māraṇāntikam // Sdhp.43v.1 −2< Sm.A.p.2, slokas 25b, 21b. 
 
 [[297]]
 
-urine (viņmütre narake), or burning oil (taptatailanarakam); she will be a widow, or a bitch, or a sow in her next life; she will be infested with worms in this one; and so on. Since statements such as these make no reference to any other prayaścitta that can wipe out the effects of a wife's bad behaviour (prāyaścittāntarābhāvāc ca sarvathā; Sdhp.44r. 10-44v.1), Tryambaka suggests that there is none (that is, he implies, none other than sahagamana). The wife's only hope is to worship and placate her husband at every turn. The inadequacy of Tryambaka's reasoning on this point becomes clear when one compares it with, for example, that in the Mitäkṣarā on Yajñ.III.226. Tryambaka's intention, however, is transparent. He is evidently suggesting that, despite the rulings regarding the kali age, sahagamana is in fact the safest course of action for the not-so- perfect wife. 
+urine (viņmütre narake), or burning oil (taptatailanarakam); she will be a widow, or a bitch, or a sow in her next life; she will be infested with worms in this one; and so on. Since statements such as these make no reference to any other prayaścitta that can wipe out the effects of a wife's bad behaviour (prāyaścittāntarābhāvāc ca sarvathā; Sdhp.44r. 10-44v.1), Tryambaka suggests that there is none (that is, he implies, none other than sahagamana). The wife's only hope is to worship and placate her husband at every turn. The inadequacy of Tryambaka's reasoning on this point becomes clear when one compares it with, for example, that in the Mitākṣarā on Yajñ.III.226. Tryambaka's intention, however, is transparent. He is evidently suggesting that, despite the rulings regarding the kali age, sahagamana is in fact the safest course of action for the not-so- perfect wife. 
 
 [[959]]
 
@@ -373,9 +373,9 @@ Tryambaka raises one final question. 'Now the objection may be made (nanu) that 
 
 [^58]: nanu idam anugamanam kṣatriyāṇyādīnām bhavatu / brāhmaṇyās tu nisiddham // Sdhp.44v.3-4. 
 
-[^59]: tatha ca paithinasiḥ // mrtänugamanam nästi brahmanya brahma- sāsanāt/itareṣām tu varṇānām strīdharmo 'yam para [h] smrtaḥ // Sdhp.44v.4-5 (Paithīnasi; PT gives dharmo 'yam paramaḥ smrtah)<Apar.p.112 (Paithīnasi): Mit. on Yājñ.1.86 (itareșu tu varneṣu tapaḥ paramam smrtah); Dh.kosa I.ii. p.1115 (as Mit.: Paithīnasi). Cf. Sahā.III.1. 
+[^59]: tatha ca paithinasiḥ // mrtānugamanam nāsti brahmanya brahma- sāsanāt/itareṣām tu varṇānām strīdharmo 'yam para [h] smrtaḥ // Sdhp.44v.4-5 (Paithīnasi; PT gives dharmo 'yam paramaḥ smrtah)<Apar.p.112 (Paithīnasi): Mit. on Yājñ.1.86 (itareșu tu varneṣu tapaḥ paramam smrtah); Dh.kosa I.ii. p.1115 (as Mit.: Paithīnasi). Cf. Sahā.III.1. 
 
-[^60]: vyāghrapadaḥ na mriyeta samam bhartrā brāhmaṇi śokamohitā / pra- vrajyāgatim āpnoti maraṇäd ätmaghātini // Sdhp.44v.9-45r.1 (Vyāghrapāda) < Apar.p.112 (Vyāghrapāda); Dh.kośa I.ii.p.1117. 
+[^60]: vyāghrapadaḥ na mriyeta samam bhartrā brāhmaṇi śokamohitā / pra- vrajyāgatim āpnoti maraṇād ātmaghātini // Sdhp.44v.9-45r.1 (Vyāghrapāda) < Apar.p.112 (Vyāghrapāda); Dh.kośa I.ii.p.1117. 
 
  
 
@@ -393,7 +393,7 @@ Judging by his previous section, Tryambaka believes that the best course of acti
 
 Tryambaka then describes the conduct that will ensure that the 
 
-[^61]: tathā ca ušanā // pṛthakcitim samāruhya na viprā gantum arhati / anyā- sām caiva närīnām strīdharmo 'yam sanatanaḥ // iti // Sdhp.45r.3-4 (Usanas) < Par.M.II.i.p.56 (parah smrtaḥ for sanatanah); Sm.M.I.p.162 (as Par.M.; Uśanas); Apar.p.112 (as Par.M.); Dh.kośa I.ii.p.1113 (Uśanas). Cf. Mit. on Yajn.I.86; Sahā.I.8 (as Par.M.). 
+[^61]: tathā ca ušanā // pṛthakcitim samāruhya na viprā gantum arhati / anyā- sām caiva nārīnām strīdharmo 'yam sanatanaḥ // iti // Sdhp.45r.3-4 (Usanas) < Par.M.II.i.p.56 (parah smrtaḥ for sanatanah); Sm.M.I.p.162 (as Par.M.; Uśanas); Apar.p.112 (as Par.M.); Dh.kośa I.ii.p.1113 (Uśanas). Cf. Mit. on Yajn.I.86; Sahā.I.8 (as Par.M.). 
 
 [^62]: evam anugamanadharmaḥ strīnām prasastaḥ // Sdhp.45r.5. 
 
@@ -403,11 +403,11 @@ Tryambaka then describes the conduct that will ensure that the
 
 [[299]]
 
-widow's virtue is safe. For the rest of her days, she should live the subdued and restricted life of the celibate student (kṣäntä niyatā brahmacārinī; Sdhp.45r.9, Manu ‹ Manu V.158) as opposed to the life of the married woman with all its outward signs of happiness and ornamentation (cf. section IIA, pp.88-101). She should willingly mortify her body (kamam tu kṣaped deham), living on flowers, roots and fruits (Sdhp.45v.10, Manu Manu V.157); or, alternatively, on fruits, vegetables and barley (Sdhp.45v.3, Asv.). She should eat only once a day, and in addition she should perform regular severe fasts (Sdhp.45r.1-3, Āśv. ‹ Sm.M.I.p.160, etc.). She should wear undyed (vṛktam) garments, no bodice (kañcukam), no perfumes (gandhadravya) or unguents (udvartanam; Sdhp.46r. 6-8, Aśv.; cf. section IIA, pp.88-101). If she binds her hair on top of her head (kabarībandha), she causes her husband to be bound in the other world (bhartṛbandhāya jāyate, Sdhp.46r.5, Aśv.; cf. section IIA, pp.96-101). She should sleep on the ground (bhūśa- yanam kāryam), never on a 'high bed' (paryanka; Sdhp.45v.4-5, Āśv. < Sm.M.I.p.160, etc.; cf. section IID, pp.236-45). She should not even mention the name of another man (Sdhp.45v.10–11, Manu (Manu V.157), nor have any sort of contact with him (Tryambaka's gloss; Sdhp.45v.11-46r.1). 
+widow's virtue is safe. For the rest of her days, she should live the subdued and restricted life of the celibate student (kṣāntā niyatā brahmacārinī; Sdhp.45r.9, Manu ‹ Manu V.158) as opposed to the life of the married woman with all its outward signs of happiness and ornamentation (cf. section IIA, pp.88-101). She should willingly mortify her body (kamam tu kṣaped deham), living on flowers, roots and fruits (Sdhp.45v.10, Manu Manu V.157); or, alternatively, on fruits, vegetables and barley (Sdhp.45v.3, Asv.). She should eat only once a day, and in addition she should perform regular severe fasts (Sdhp.45r.1-3, Āśv. ‹ Sm.M.I.p.160, etc.). She should wear undyed (vṛktam) garments, no bodice (kañcukam), no perfumes (gandhadravya) or unguents (udvartanam; Sdhp.46r. 6-8, Aśv.; cf. section IIA, pp.88-101). If she binds her hair on top of her head (kabarībandha), she causes her husband to be bound in the other world (bhartṛbandhāya jāyate, Sdhp.46r.5, Aśv.; cf. section IIA, pp.96-101). She should sleep on the ground (bhūśa- yanam kāryam), never on a 'high bed' (paryanka; Sdhp.45v.4-5, Āśv. < Sm.M.I.p.160, etc.; cf. section IID, pp.236-45). She should not even mention the name of another man (Sdhp.45v.10–11, Manu (Manu V.157), nor have any sort of contact with him (Tryambaka's gloss; Sdhp.45v.11-46r.1). 
 
 In fact, her lifestyle is repeatedly compared with that of the ascetic or Vedic student (for similar associations in south India today, see Fuller and Logan 1985:89ff.). For example, 'the ascetic (or renouncer; yati), the celibate student (brahmacāri) and the widow should avoid (chewing) betel (cf. sections IIA, pp.96-101, and IIC, pp.229-33, anointing (their bodies with oils or unguents; cf. section IIA, pp.96-101), and eating off copper or brass vessels (cf. section IIC, pp.217-21; Yatidh.57.79-92; Olivelle 1977:37, 168).'[^64] In other examples, the parallel is made by specifically calling the widow's way of life (vidhavāvrata) 'renunciation' (e.g. pravrajyā; see above, note 60) or, in the widest sense, 'the celibate life' (e.g. brahmacāriṇī, Sdhp.45r.9, Manu ‹ Manu V.158; brahma- caryam, Sdhp.46r.4, Āp.; etc.). But the widow may never leave 
 
-[^64]: samvartah // tambūlābhyanjanam caiva kämsyapātre ca bhojanam / yatiś ca brahmacārī ca vidhavā ca vivarjayet || iti // Sdhp.46v.1 – 2 (Samvarta) <Sm.C.II.p.602 (Pracetas); Dh.kośa I.ii.p.1117 (tambūlābhyañjane for onam; Pracetas). 
+[^64]: samvartah // tambūlābhyanjanam caiva kāmsyapātre ca bhojanam / yatiś ca brahmacārī ca vidhavā ca vivarjayet || iti // Sdhp.46v.1 – 2 (Samvarta) <Sm.C.II.p.602 (Pracetas); Dh.kośa I.ii.p.1117 (tambūlābhyañjane for onam; Pracetas). 
 
  
 
@@ -419,7 +419,7 @@ Devotion to one's husband, even after his death, thus remains the key point of t
 
 Not surprisingly, Tryambaka makes no mention of or allowance for the remarriage of widows. However, he does raise the question of niyoga, a practice much discussed in commentarial and digest writing. The point at issue is whether or not the widow of a man who dies without a son may, after her husband's death, have sexual intercourse with another man appointed' (niyukta) to produce that son for him. The problem is caused once again by a conflict of rulings. On the one hand, a widow should not even mention the name of another man (see above), let alone have intercourse with 
 
-[^65]: bhartranantaram putrabhräträdin parityajya svātantryenävasthāne nindāpi // Sdhp.46r.9. Cf.Sdhp.46r.10-46v.1 (Yājñ.) < Yājñ.I.86. 
+[^65]: bhartranantaram putrabhrātrādin parityajya svātantryenāvasthāne nindāpi // Sdhp.46r.9. Cf.Sdhp.46r.10-46v.1 (Yājñ.) < Yājñ.I.86. 
 
 [^66]: aprstva tu sutan kimcin na kuryad bhartṛtatparā // Sdhp.46r.8-9 (Ãśv.)<? 
 
@@ -437,7 +437,7 @@ son;
 
 and a man without a son is barred from heaven. Tryambaka presents the purvapakṣa argument in favour of niyoga first. A blanket prohibition on sexual intercourse with a man other than one's husband is inappropriate (anupapannam) ‘because even though blame is attached to sexual intercourse with another man for the sake of pleasure, it is necessary for the purpose of (producing) a son. '[^69] The evidence for this is derived from the story of Jaratkaru in the Mahābhārata. Threatened with the extinction of their line (samtanaprakṣayāt), and the dire consequence that they will all fall into hell, Jaratkaru's ancestors entreat him to produce a son (Sdhp.47[1]r.2-3; cf. Mbh.I.13.9-34). For 'there is no heaven for one who has no son.'[^70] 
 
-The next step in the argument in favour of niyoga is the ruling that 'in the absence of a natural (aurasa) son, it is necessary that a kṣetraja son should be acquired.'[^71] In this context, the 'field' (kṣetra) is the wife and the 'owner of the field' (kṣetrin) is her husband. The son 'born of his field' (kṣetraja) is the son born to a man's wife by another man on his behalf; whether the husband in question is dead or incapacitated (e.g. by impotence, disease or a curse). The sower or 'owner of the seed' (bījin) is the man 'appointed' (niyogin) for this task. For the traditional list of the kinds of sons deemed acceptable for the two crucial purposes of making śräddha offerings to the ancestors (pindadāne) and dividing the inheritance (amsagrahane), Tryambaka quotes at length from Yajnavalkya (Sdhp.47[1]r.5.5–9‹ Yājñ.II.128-32). According to this quotation, the kṣetraja comes third in order of importance; that is, after the son born to a man by his own wife (i.e. married according to the proper religious ritual; auraso dharmapatnījaḥ), and the son of a putrikā daughter (putrikäsutaḥ, Sdhp.47[1]r.5-6; for a discussion of the putrikā, see section IIB, pp.146-7). Tryambaka draws further evidence from the story of Parasurama in the Mahābhārata. When Parasurama killed all the male kṣatriyas, their widows asked brahmins to produce sons with them on behalf of their dead hus- 
+The next step in the argument in favour of niyoga is the ruling that 'in the absence of a natural (aurasa) son, it is necessary that a kṣetraja son should be acquired.'[^71] In this context, the 'field' (kṣetra) is the wife and the 'owner of the field' (kṣetrin) is her husband. The son 'born of his field' (kṣetraja) is the son born to a man's wife by another man on his behalf; whether the husband in question is dead or incapacitated (e.g. by impotence, disease or a curse). The sower or 'owner of the seed' (bījin) is the man 'appointed' (niyogin) for this task. For the traditional list of the kinds of sons deemed acceptable for the two crucial purposes of making śrāddha offerings to the ancestors (pindadāne) and dividing the inheritance (amsagrahane), Tryambaka quotes at length from Yajnavalkya (Sdhp.47[1]r.5.5–9‹ Yājñ.II.128-32). According to this quotation, the kṣetraja comes third in order of importance; that is, after the son born to a man by his own wife (i.e. married according to the proper religious ritual; auraso dharmapatnījaḥ), and the son of a putrikā daughter (putrikāsutaḥ, Sdhp.47[1]r.5-6; for a discussion of the putrikā, see section IIB, pp.146-7). Tryambaka draws further evidence from the story of Parasurama in the Mahābhārata. When Parasurama killed all the male kṣatriyas, their widows asked brahmins to produce sons with them on behalf of their dead hus- 
 
 [^69]: bhogārtham parapuruṣangasya ninditatve 'pi putrārtham tasyāvaśya- katvāt // Sdhp.47(1)r.1-2. 
 
@@ -469,7 +469,7 @@ According to Tryambaka, however, such remarks apply only to the widow who does n
 
 Tryambaka finally raises the question of whether or not the widow should shave her head. In south India today, widows are in fact traditionally tonsured after the funeral (cf. Fuller and Logan 1985:95) but this is a late development calculated to bring the widow in line with other 'renouncers' (cf. Yatidh.21.39,104-5; Olivelle 1977:38,104-6). Tryambaka argues that '(rulings that prescribe) shaving the head (śiraso vapanam) apply to brahmin women; (those prescribing) keeping the hair (long apply) to women of other castes.'[^75] The quotation is taken from the Mahābhārata where 
 
-[^74]: vyāsaḥ // jīvahīno yathā dehaḥ kṣaṇād asucitam vrajet / bhartṛhīnā tathā yoṣit susnātāpy aśuciḥ sadā | amangalebhyaḥ sarvebhyo vidhavā hy atya- mangalam / vidhavādarśanāt siddhiḥ kāpi jātu na jāyate // vihāya mataram caikām sarvamangalavarjitām / tadaśisam api präjñas tyajed āśīvisopamām // iti // Sdhp.47[2]r. 1-4 (Vyāsa) < Sk.P.III.2.7.49-51 (dehi for dehaḥ; syad for hy aty"; kvapi for kāpi; sarvā mangalavarjitāḥ for sarvamangalavarjitām). 
+[^74]: vyāsaḥ // jīvahīno yathā dehaḥ kṣaṇād asucitam vrajet / bhartṛhīnā tathā yoṣit susnātāpy aśuciḥ sadā | amangalebhyaḥ sarvebhyo vidhavā hy atya- mangalam / vidhavādarśanāt siddhiḥ kāpi jātu na jāyate // vihāya mataram caikām sarvamangalavarjitām / tadaśisam api prājñas tyajed āśīvisopamām // iti // Sdhp.47[2]r. 1-4 (Vyāsa) < Sk.P.III.2.7.49-51 (dehi for dehaḥ; syad for hy aty"; kvapi for kāpi; sarvā mangalavarjitāḥ for sarvamangalavarjitām). 
 
 [^75]: siraso vapanam brāhmaṇīviṣayam | itarajātīyastrīnām kesadhāraṇam eva // Sdhp.47(2)г.8. 
 

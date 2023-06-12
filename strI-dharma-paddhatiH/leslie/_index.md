@@ -8,7 +8,7 @@ title = "+Leslie"
 THE PERFECT WIFE 
 
  
-adharmābhibhavät kṛṣṇa  
+adharmābhibhavāt kṛṣṇa  
 praduşyanti kulastriyaḥ  
 strīșu duşṭāsu vārṣṇeya  
 jāyate varṇasamkaraḥ| |  

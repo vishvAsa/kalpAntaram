@@ -13,11 +13,11 @@ The second ritual duty to be performed by the wife each evening is that of payin
 
 [^1]: sāyamagnihotrasamaye patnisannidhānasyāvaśyakatām āha bodhāya- nah // Sdhp.19v.4-5. 
 
-[^2]: sayamprātar evaiṣā patny anväste // sayamsayam ity eke // (< Baudh. śr.III.4.p.72) iti/ ata eva prātar aniyama iti// Sdhp.19v.5. Cf. section IIB, note 26. 
+[^2]: sayamprātar evaiṣā patny anvāste // sayamsayam ity eke // (< Baudh. śr.III.4.p.72) iti/ ata eva prātar aniyama iti// Sdhp.19v.5. Cf. section IIB, note 26. 
 
 [^3]: tato gurunamaskārātithyādikam divāvat kartavyam ity uktam smṛti- ratne // Sdhp.19v.5-6. 
 
-[^4]: hutāgnir vanditaguruḥ kṛtātithyaś ca saktitaḥ / vaiśvadevabalim căpi kṛtväśniyād yathā divā // iti // Sdhp.19v.6-7 (Smṛtiratna) < Sm.M.II.p.455 (vaiśvadevam for vaiśvadeva°; yathāvidhi for yathā divā, the latter given as variant; Smṛtiratna).
+[^4]: hutāgnir vanditaguruḥ kṛtātithyaś ca saktitaḥ / vaiśvadevabalim căpi kṛtvāśniyād yathā divā // iti // Sdhp.19v.6-7 (Smṛtiratna) < Sm.M.II.p.455 (vaiśvadevam for vaiśvadeva°; yathāvidhi for yathā divā, the latter given as variant; Smṛtiratna).
 
 
 
@@ -31,11 +31,11 @@ Tryambaka next deals with the ritual hospitality to guests which, according to t
 
 
 
-[^5]: sayam vaiśvadevārtham pākam āha viṣnuh // punaḥ pākam upādāya sayam apy avanipate / vaisvadevanimittam vai patnya särdham balim haret // iti // Sdhp.19v.8-9 (Viṣṇu) < Par.M.I.i.p.439 (Viș.P.); Sm.C.II.p.627 (Viș.P.); Sm.M.II.p.455 (Vis.P.); Vis.P.III.11.102 (patny amantram for patnyā särdham). 
+[^5]: sayam vaiśvadevārtham pākam āha viṣnuh // punaḥ pākam upādāya sayam apy avanipate / vaisvadevanimittam vai patnya sārdham balim haret // iti // Sdhp.19v.8-9 (Viṣṇu) < Par.M.I.i.p.439 (Viș.P.); Sm.C.II.p.627 (Viș.P.); Sm.M.II.p.455 (Vis.P.); Vis.P.III.11.102 (patny amantram for patnyā sārdham). 
 
 [^6]: ratrau vaisvadevabalidānam patyasannidhāne patnyapy amantram karta- vyam ¡¡ Sdhp. 19v.9-10. 
 
-[^7]: tatra manuḥ // sayam siddhasya cännasya patnyamantram balim haret // iti // Sdhp.19v.10 (patnyamantram amended to patnyamantram; Manu) < Manu III.121a (tv annasya siddhasya for siddhasya cannasya); Kūrm.P.II.18. 109a (cānnasya siddhasya). 
+[^7]: tatra manuḥ // sayam siddhasya cānnasya patnyamantram balim haret // iti // Sdhp.19v.10 (patnyamantram amended to patnyamantram; Manu) < Manu III.121a (tv annasya siddhasya for siddhasya cannasya); Kūrm.P.II.18. 109a (cānnasya siddhasya). 
 
  
 
@@ -81,7 +81,7 @@ Following the scribal notations on MS T1, I shall take the Baudhayana quotation 
 
 Paintings depicting the scene show most of the items listed here. For example, one of the many classifications of women includes the wife who expects her husband or lover to return at any moment and who waits at the door with the bed prepared (vāsakasajjā; Bahadur 1972:114). The paintings show a private room carefully arranged with a bed and cushions (Randhawa 1962; figs.36,37,39), garlands of flowers (figs.37,39), lighted candles in each of the four directions (fig.39, plate XIII), containers for such things as sandalwood paste, perfumed unguents and betel (figs.36,39), and a water-pot at the head of the bed (figs.36,39; cf. Sm.M.II.p.457; Sm.C.II.p.629). In particular, sandalwood paste is used to cool and perfume the body, betel to sweeten the breath (cf. section IIA, pp.96-7). Scenes showing the delights of love-making (samyoga) also record many of the items prescribed by Baudhayana (e.g. Randhawa 1962: fig.76; plates III,IV,XIX). In the Kamasutra too, such a 'pleasure room' (ratyāvāsa) is described as decked with flowers and fragrant with perfumes (Kām.II.10.1). The mirror is a frequent addition to such scenes, either as an essential part of the toilet of either husband or wife (Randhawa 1962:45, figs. 14,28,49, plate X; Sinha 1980:123) or as a means of intensifying the experience of sexual union (Randhawa 1962:29, fig.6). Although Baudhāyana does not say so, it would presumably be the wife's job to prepare 
 
-[^13]: bodhāyanaḥ || atha śrimantam agāram sammrstopaliptam gandha- vantam puspavantam dhūpavantam dipavantam talpavantam samadhivāsam dik şu sarpiḥsūtrendhanapradyotitam udakumbhādarsocchirasam prapadya tas- minn enām samvesya || iti // Sdhp.20r.9-20v.1 (Baudh.; PT amends samvesya to samvesayet) ‹ Baudh.gr.I.6.22 (........ samveśya tasyä antike japati). 
+[^13]: bodhāyanaḥ || atha śrimantam agāram sammrstopaliptam gandha- vantam puspavantam dhūpavantam dipavantam talpavantam samadhivāsam dik şu sarpiḥsūtrendhanapradyotitam udakumbhādarsocchirasam prapadya tas- minn enām samvesya || iti // Sdhp.20r.9-20v.1 (Baudh.; PT amends samvesya to samvesayet) ‹ Baudh.gr.I.6.22 (........ samveśya tasyā antike japati). 
 
  
 
@@ -99,7 +99,7 @@ It seems unlikely that, after making love, both husband and wife would descend t
 
 [^14]: bodhāyanaparibhāṣāyām || athāstam ita āditye 'nyonyam alańkṛtyopari sayyāyām sayāte / athainām sarvasurabhigandhamālyā yunakti ¡¡ iti¡¡ Sdhp. 20v.1-3 (bodhāyanaparibhāṣāyām < ? 
 
-[^15]: tac cheṣe bodhāyanah // tasyah saha patyā pūrvarātrāv upasamveśanam/ ardharäträd adhahsayanam à brähmamuhürtäd // iti // Sdhp.20v. 3-4 (seṣe bodhāyanaḥ) <? 
+[^15]: tac cheṣe bodhāyanah // tasyah saha patyā pūrvarātrāv upasamveśanam/ ardharātrād adhahsayanam à brāhmamuhürtād // iti // Sdhp.20v. 3-4 (seṣe bodhāyanaḥ) <? 
 
  
 
@@ -123,13 +123,13 @@ Evening
 
 (Ăśv.gr.III.9.6; Gaut.I.9.60; Manu IV.75; Viş.Sm.70.3; Sm.A. p. 70). 
 
-A series of slokas attributed to Vyasa follow. Tryambaka intro- duces them by emphasizing the first ruling given. 'Sexual inter- course with one's husband should not be performed with wet feet.'[^18] The relevant śloka reads as follows. 'If a woman makes love with her husband when her feet are wet, she deprives her husband of long life and goes to hell herself.'[^19] This ruling is applied elsewhere to men as well as women. Manu VI.76, for example, rules that one should eat with one's feet still wet (i.e. from the purificatory sprinkling; ärdrapādas tu bhunjīta; cf. Vis.Sm.68.34) but one should not make love with wet feet (nārdrapādas tu samviset). ‘Make love' (samviśet) is glossed by the commentators as 'sleep' (sayīta, Sarv.; supyāt, Kull.; cf. närdrapadaḥ supyāt, Vis. Sm.70.1; Sm.A.p.70, etc.). However, paintings of Rādhā having her wet feet dried by a maid- servant (e.g.Randhawa 1962: plate X) are obviously more piquant if the first meaning is assumed. On these grounds, I suspect that the young bride described by Sinha (1980:123) as having her feet massaged is in fact having her wet feet properly dried. 
+A series of slokas attributed to Vyasa follow. Tryambaka intro- duces them by emphasizing the first ruling given. 'Sexual inter- course with one's husband should not be performed with wet feet.'[^18] The relevant śloka reads as follows. 'If a woman makes love with her husband when her feet are wet, she deprives her husband of long life and goes to hell herself.'[^19] This ruling is applied elsewhere to men as well as women. Manu VI.76, for example, rules that one should eat with one's feet still wet (i.e. from the purificatory sprinkling; ārdrapādas tu bhunjīta; cf. Vis.Sm.68.34) but one should not make love with wet feet (nārdrapādas tu samviset). ‘Make love' (samviśet) is glossed by the commentators as 'sleep' (sayīta, Sarv.; supyāt, Kull.; cf. nārdrapadaḥ supyāt, Vis. Sm.70.1; Sm.A.p.70, etc.). However, paintings of Rādhā having her wet feet dried by a maid- servant (e.g.Randhawa 1962: plate X) are obviously more piquant if the first meaning is assumed. On these grounds, I suspect that the young bride described by Sinha (1980:123) as having her feet massaged is in fact having her wet feet properly dried. 
 
 The next two ślokas (also attributed to Vyāsa) return to the subject of the wife's attire. ‘If a woman makes love with her hus- band while wearing a bodice, she will certainly be a widow in three years or even sooner. If a woman (dayitā; lit. "beloved") makes love with the "palm-leaf" type of earrings (talapattra) dangling from her ears, she will be a widow in this life within five or seven years, '[^20] 
 
 The reasons for both rulings seem self-evident. Regarding the first, we may recall the earlier requirement that a woman should always cover her breasts (section IIA, p.90, note 69). The rule that she should remove her bodice for love-making reinforces the idea that women of this class usually wore bodices in public. In Tryambaka's circles at least, it seems that a woman's naked breasts 
 
-[^18]: ärdrapadaya bhartṛsango na kartavyah // Sdhp.20v.4. 
+[^18]: ārdrapadaya bhartṛsango na kartavyah // Sdhp.20v.4. 
 
 [^19]: tathā ca vyāsaḥ // ārdrapādā ca yā nārī bhartṛsangam samācaret / āyusyam harate bhartuḥ sā nārī narakam vrajet ¡¡ Sdhp.20v.4-6 (Vyāsa) <? 20. kancukena samam nārī bhartṛsangam samacaret tribhir varsais ca madhye vā vidhavā bhavati dhruvam // tālapattragalatkarṇā dayitā maithunam vrajeť pañcame saptame varṣe vaidhavyam iha jāyate ¡¡ Sdhp.20v.6–8 (tālā- patra' amended to tālapattra°; Vyāsa) < ? 
 
@@ -141,7 +141,7 @@ A glance through paintings depicting high-class men and women will demonstrate t
 
 The next sloka (also attributed to Vyasa) deals with the lifting of certain important prohibitions for the duration of love-making. 'Allowing one's body to touch (lit. "cling to") the (other's) feet, (eating the other's) left-overs (ucchiṣṭam), blows, anger, rage and reproaches-in love-making, none of these is wrong.'[^21] 
 
-As explained earlier, touching someone's feet is a formal gesture made by an inferior to his or her superior (gurūṇām abhivādanam; section IIC, pp.157-60). While it is proper for a wife to touch her husband's feet, therefore, the reverse is unthinkable except in the special context of love-making. Lifting this prohibition makes all kinds of intimacies possible: from the man throwing himself at the woman's feet in an extravagant gesture of adulation (pädapatanam, Kām.III.2.11; cf. Upadhyaya 1981: plate XXVIII) to a variety of otherwise impossible positions for sexual intercourse (Kām.II.6.1 ff.). Paintings even show the woman touching the man's head with her foot as a form of rebuke if, for example, he mentions another woman's name (Upadhyaya 1961: plate XLIIa; Sinha 1980:91). 
+As explained earlier, touching someone's feet is a formal gesture made by an inferior to his or her superior (gurūṇām abhivādanam; section IIC, pp.157-60). While it is proper for a wife to touch her husband's feet, therefore, the reverse is unthinkable except in the special context of love-making. Lifting this prohibition makes all kinds of intimacies possible: from the man throwing himself at the woman's feet in an extravagant gesture of adulation (pādapatanam, Kām.III.2.11; cf. Upadhyaya 1981: plate XXVIII) to a variety of otherwise impossible positions for sexual intercourse (Kām.II.6.1 ff.). Paintings even show the woman touching the man's head with her foot as a form of rebuke if, for example, he mentions another woman's name (Upadhyaya 1961: plate XLIIa; Sinha 1980:91). 
 
 Similarly, eating the left-overs of someone else's meal (ucchistam) is a sign of one's own humility in relation to that other person. Again, while it is proper for the wife to eat her husband's left-overs, the reverse is normally condemned (cf. pp.221-7). Lifting this pro- hibition allows not only eating from the same dish (as at the time of marriage) but also the intimacies of drinking wine or taking food directly from the lover's mouth (e.g. vadanena tāmbuladānam; Kam.III.2.12). 
 
@@ -153,7 +153,7 @@ Evening
 
 [[243]]
 
-With regard to physical blows, it is generally agreed that a hus- band may beat his wife if she has done something wrong (e.g. Manu VIII.299-300; but not on the head or chest, Medh. and Kull. on Manu VIII.300). The reverse is inconceivable. In contrast, a woman must control her thoughts, words and actions (manovāgdehasam- yată, Manu V.165,166; cf. Gaut.I.9.3; Yajñ.I.87). She should never answer back even when she is scolded (äkruṣṭāpi na cākrośet) nor show her anger or resentment even when she is beaten (tāditāpi prasīdati, Sdhp.23r.4-5, from section IV, pp.273-4; cf.Sk.P.III. 2.7.18) or if her husband takes another wife (Manu IX.83). In love- making, such prohibitions are swept aside. As a result, the manuals on the art of love have produced detailed classifications of the permitted types of scratching (Kām.II.4), biting (Kām.II.5) and striking (Kām.II.7). Sexual intercourse becomes an erotic 'quarrel'; striking one's partner a sign of passion. Vätsyāyana's description of 'love quarrels' (pranayakalaha) is to the point: when a woman is (or pretends to be) jealous, a great quarrel arises; she cries, becomes angry, strikes her lover, pulls his hair, kicks him repeatedly on his arms, head, chest and back, and rebukes him with harsh and re- proachful words (Kām.II.10.40-6). Indeed, it is said that lovers in the throes of passion are impervious to pain (Kām.II.7.1ff.). These elements are frequently recorded in poetry and art. For example, the eight types of lady-love (nāyikā) include the woman who, having quarrelled with her lover, sends him away (abhisandhită or kala- hāntaritā; cf. Randhawa 1962: fig.40); and the one who reproaches her lover bitterly for sleeping with another woman (khaṇḍitā; cf. Randhawa 1962: fig.42). Tryambaka's point is that such behaviour, normally forbidden to the good and submissive wife, is acceptable in the privacy of making love. 
+With regard to physical blows, it is generally agreed that a hus- band may beat his wife if she has done something wrong (e.g. Manu VIII.299-300; but not on the head or chest, Medh. and Kull. on Manu VIII.300). The reverse is inconceivable. In contrast, a woman must control her thoughts, words and actions (manovāgdehasam- yată, Manu V.165,166; cf. Gaut.I.9.3; Yajñ.I.87). She should never answer back even when she is scolded (ākruṣṭāpi na cākrośet) nor show her anger or resentment even when she is beaten (tāditāpi prasīdati, Sdhp.23r.4-5, from section IV, pp.273-4; cf.Sk.P.III. 2.7.18) or if her husband takes another wife (Manu IX.83). In love- making, such prohibitions are swept aside. As a result, the manuals on the art of love have produced detailed classifications of the permitted types of scratching (Kām.II.4), biting (Kām.II.5) and striking (Kām.II.7). Sexual intercourse becomes an erotic 'quarrel'; striking one's partner a sign of passion. Vātsyāyana's description of 'love quarrels' (pranayakalaha) is to the point: when a woman is (or pretends to be) jealous, a great quarrel arises; she cries, becomes angry, strikes her lover, pulls his hair, kicks him repeatedly on his arms, head, chest and back, and rebukes him with harsh and re- proachful words (Kām.II.10.40-6). Indeed, it is said that lovers in the throes of passion are impervious to pain (Kām.II.7.1ff.). These elements are frequently recorded in poetry and art. For example, the eight types of lady-love (nāyikā) include the woman who, having quarrelled with her lover, sends him away (abhisandhită or kala- hāntaritā; cf. Randhawa 1962: fig.40); and the one who reproaches her lover bitterly for sleeping with another woman (khaṇḍitā; cf. Randhawa 1962: fig.42). Tryambaka's point is that such behaviour, normally forbidden to the good and submissive wife, is acceptable in the privacy of making love. 
 
 The next sloka, also attributed to Vyasa, reads as follows. 'Kunkuma, collyrium, haldi power (haridrā) and sandalwood paste, clean clothes and betel-each brings happiness (and is therefore auspicious) in love-making. '[^22] The ointments, powders and pastes— all mentioned in Tryambaka's section on getting dressed in the morning (IIA, pp.96-7), constitute the signs of the happily married woman. Clearly, the ideal wife will be as carefully dressed and perfumed for the evening as she is at the beginning of the day (see plates 2-5). 
 
@@ -169,11 +169,11 @@ Tryambaka's last point, both in this section and in his treatment of daily dutie
 
 This relates to a prohibition that is normally couched in the masculine and therefore apparently applies to men. As I have already shown in the section on getting dressed, the male snātaka is repeatedly enjoined to wear white garments and not dyed ones (raktam, Gaut.I.9.5; sarvān rāgān vāsasi, Āp.I.11.30.10). Āp.I.11. 30.11 also prohibits cloth that is naturally black (krṣnam ca svā- bhāvikam; such as kambala, a kind of woollen cloth, Ujj.). Dark blue cloth, that is, cloth dyed with indigo (nīlam, nīlīraktam) is both specified for sūdras and forbidden to higher varnas (see section IIA, p.89). 
 
-Tryambaka's quotation is attributed to Apastamba. ‘If a brah- min puts on his body a garment that has been dyed dark blue, he must sit day and night (without eating) and then purify himself by (drinking) pañcagavya.'[^24] The purifying properties of pañcagavya are discussed in section IIA (pp.59-60). A later sloka from the Āpastambasmṛti, not given by Tryambaka, adds that if one sits down to eat while wearing blue garments, one must undergo the cändră- yaṇa fast (Āp.Sm.VI.8). Tryambaka merely gives the exception. "There is no sin attached to women (wearing dark blue garments) in bed during love-making just for fun. '[^25] 
+Tryambaka's quotation is attributed to Apastamba. ‘If a brah- min puts on his body a garment that has been dyed dark blue, he must sit day and night (without eating) and then purify himself by (drinking) pañcagavya.'[^24] The purifying properties of pañcagavya are discussed in section IIA (pp.59-60). A later sloka from the Āpastambasmṛti, not given by Tryambaka, adds that if one sits down to eat while wearing blue garments, one must undergo the cāndră- yaṇa fast (Āp.Sm.VI.8). Tryambaka merely gives the exception. "There is no sin attached to women (wearing dark blue garments) in bed during love-making just for fun. '[^25] 
 
 This suggests that the prohibition regarding dark blue clothes normally applies to both men and women but, for women, it no longer applies during love-making. Certainly, women are portrayed in both poetry and art wearing dark blue as they emerge from the 
 
-[^23]: upabhogasamaye nīlavastradhāraṇam na doṣādhāyakam // Sdhp.20v.10. 24. tatha căpastambaḥ // nīlīraktam yada vastram brahmano 'ngeṣu dhāra- yet / ahorātroṣito bhūtvā pañcagavyena śudhyati // Sdhp.20v.10–21r.2 (Āp.) < Ap.Sm.VI.4; Mit. on Yajñ.III.292, p.500; Apar.p.1186; Ang.35 (vipro dehesu for brähmano 'ngesu). 
+[^23]: upabhogasamaye nīlavastradhāraṇam na doṣādhāyakam // Sdhp.20v.10. 24. tatha căpastambaḥ // nīlīraktam yada vastram brahmano 'ngeṣu dhāra- yet / ahorātroṣito bhūtvā pañcagavyena śudhyati // Sdhp.20v.10–21r.2 (Āp.) < Ap.Sm.VI.4; Mit. on Yajñ.III.292, p.500; Apar.p.1186; Ang.35 (vipro dehesu for brāhmano 'ngesu). 
 
 [^25]: strīnām krīdarthasambhoge sayaniye na dusyati // iti // Sdhp.21r.2 (Āp.) < Āp.Sm.VI.1b; Mit. on Yajn.III.292; Apar.p.1186; Ang.32b. 
 
@@ -187,6 +187,6 @@ bedroom in the morning (e.g. Randhawa 1962:186, plate XX, cf. plate III). The as
 
 Having produced rulings for almost every activity in a woman's day, from the moment she wakes in the morning to the garments she should wear at night, Tryambaka finally brings this lengthy and detailed section to a close. 'These are the daily duties (of women).'[^26] 
 
-[^26]: ity ähnikadharmah ii Sdhp.21r.2-3. 
+[^26]: ity āhnikadharmah ii Sdhp.21r.2-3. 
 
  

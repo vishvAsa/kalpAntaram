@@ -75,7 +75,7 @@ Dh.kosa
 Dharmakosa  
   
 [[340]]
-Gaut. Gitä  
+Gaut. Gitā  
 Gobh.  
 Gobh.gr.  
 Gobh.Sm.  
@@ -111,8 +111,8 @@ Kad.
 Kām.  
 Kamasutra  
 Kāś.  
-Käsikävṛtti  
-Käth.Sam.  
+Kāsikāvṛtti  
+Kāth.Sam.  
 Kāṭhakasamhitā  
 Kath.Up.  
 Kathopanisad  
@@ -133,7 +133,7 @@ Ling.P. LSJ
 M  
 Mait.  
 Kauṣītak ibrāhmaṇa  
-Kautilya's Arthasästra  
+Kautilya's Arthasāstra  
 Kulluka's commentary on Manusmṛti  
 Kumārilabhatta's Ślokavārtika  
 Kumārilabhaṭṭa's Tantravārtika  
@@ -152,7 +152,7 @@ Abbreviations
 Mån.gr.  
 Man.śr.  
 Manu  
-Märk.  
+Mārk.  
 Mark.P.  
 Mask. Matsy.P.  
 Mbh. Medh.  
@@ -176,7 +176,7 @@ Pat.
 PT  
 PTS  
 PVK  
-Rägh.  
+Rāgh.  
 Răm.  
 Råmac.  
 R.V.  
@@ -184,12 +184,12 @@ Sab.
 Manavagṛhyasūtra  
 Manavasrautasūtra  
 Manu(smṛti)  
-Märkandeya  
-Märkandeyapurāṇa  
+Mārkandeya  
+Mārkandeyapurāṇa  
 Maskarin's commentary on Gautamadharmasūtra  
 Matsyapuraṇa  
 Mahābhārata  
-Medhätithi's commentary on Manusmṛti Mitäkṣar a  
+Medhātithi's commentary on Manusmṛti Mitākṣar a  
 Mysore Supplemental Catalogue manuscript(s)  
 Monier-William's Sanskrit-English Dictionary  
 Nandana's commentary on Manusmṛti  
@@ -218,7 +218,7 @@ Sarv.
 Sat.  
 Sat.Br.  
 Sarvajñanārāyaṇa's commentary on Manusmrti  
-Śätätapa Satapathabrāhmaṇa  
+Śātātapa Satapathabrāhmaṇa  
 [[342]]
 Say.  
 SBE  
@@ -282,7 +282,7 @@ VSM
 Yājñ. Yatidh.  
 ZDMG  
 Vimanavatthu  
-Viramitrodaya ähnikaprakāśa  
+Viramitrodaya āhnikaprakāśa  
 Viramitrodaya püjāprakāśa  
 Viramitrodaya samskāraprakāśa  
 Viṣṇupurāna  
@@ -290,5 +290,5 @@ Viṣṇusmrti
 Vaidika Samsodhana Mandala edition  
 Yajnavalkya(smṛti)  
 Yatidharmaprakāśa  
-Zeitschrift der Deutschen Morgenländischen  
+Zeitschrift der Deutschen Morgenlāndischen  
 Gesellschaft  
