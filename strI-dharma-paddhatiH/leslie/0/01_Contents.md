@@ -19,7 +19,7 @@ Context of the Religious Law (dharmaśāstra) 23
 
 ### I TRYAMBAKA'S INTRODUCTION (Sdhp. 1v.1-2v.5)  
 
-### II THE DAILY DUTIES OF WOMEN (strīņām ahnikam; 
+### II THE DAILY DUTIES OF WOMEN (strīṇām ahnikam; 
 Sdhp. 2v. 5-21r.3)  
 
 #### IIA BEFORE DAWN (Sdhp. 2v.5-7v.9)  
@@ -32,7 +32,7 @@ ca) 54
 Household Tasks (1) 58  
 Preparing the grain (dhānyasamskārādi) 58  
 Cleaning the house (gṛhasammārjanādikam) 59  
-Smearing with cow-dung (gomayenånulepanam); 
+Smearing with cow-dung (gomayenānulepanam); 
 the goddess Śri 59  
 Worship of the threshold (dehalīpūjā) 63 Delegating housework 64  
 The care and worship of cows (gosevanam) 65  
@@ -58,12 +58,12 @@ The Offering of Respect to the Sun (arghyadānam) 149
 
 #### IIC DAY (Sdhp. 10v.1-19v.4)  
 Saluting One's Elders (gurūṇām abhivādanam) 156   
-Paying homage (pådavandanam) to one's parents-in-law 161   
+Paying homage (pādavandanam) to one's parents-in-law 161   
 Personal services 163  
 Household Tasks (2) (gṛhakṛtyam) 168  
 General attitude 168  
 Managing the household accounts 168  
-Whether the wife may talk to other men (parapuruşa) 170  
+Whether the wife may talk to other men (parapuruṣa) 170  
 Midday Rituals 176  
 General comments 176  
 Image worship (devapūjā) 178  
@@ -113,7 +113,7 @@ Rulings and prohibitions 288
 The pregnant woman's cravings (dohada) 289  
 Entry into the lying-in chamber 290  
 The Religious Duties of the Woman Whose Husband is Away 
-(proșitabhartṛkādharmāḥ) 291  
+(proṣitabhartṛkādharmāḥ) 291  
 The injunction relating to dying with one's husband 
 (sahagamanavidhiḥ) 291  
 Quotations in favour of the practice 292  
@@ -127,7 +127,7 @@ The conduct of the widow 299
 The question of niyoga 300  
 The impurity and inauspiciousness of widows 302  
 Whether or not the widow should shave her head 303  
-The three kinds of pativrată 304  
+The three kinds of pativratā 304  
 
 ### V TRYAMBAKA'S CONCLUSION
 OBEDIENT SERVICE TO ONE'S HUSBAND IS THE Primary ReligiOUS DUTY OF A WIFE (patriśuśrūṣaṇam mukhyo dharmaḥ; Sdhp. 48v.6-88r.1)  

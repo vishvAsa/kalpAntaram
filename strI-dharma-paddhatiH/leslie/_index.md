@@ -9,8 +9,8 @@ THE PERFECT WIFE
 
  
 adharmābhibhavāt kṛṣṇa  
-praduşyanti kulastriyaḥ  
-strīșu duşṭāsu vārṣṇeya  
+praduṣyanti kulastriyaḥ  
+strīṣu duṣṭāsu vārṣṇeya  
 jāyate varṇasamkaraḥ| |  
 samkaro narakāyaiva  
 kulaghnānām kulasya ca

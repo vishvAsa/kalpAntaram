@@ -6,7 +6,7 @@ adhi.
 Ād.P.  
 Ādit.P.  
 Ag.P.  
-Ait.Ãr.  
+Ait.Ār.  
 Ait.Br.  
 Amar.  
 Ān.  
@@ -68,7 +68,7 @@ Bṛhatsamhitā
 Bṛhadaranyakopanisad  
 Carakasamhita  
 Catalogus Catalogorum (see Aufrecht) Chowkhamba Sanskrit Series edition  
-Dakşa(smrti)  
+Dakṣa(smrti)  
 Devaṇṇabhaṭṭa, author of Smṛticandrikā  
 Dharmākūta  
 Dh.kosa  
@@ -86,7 +86,7 @@ Har.
 Hariv.  
 Hir.gr. Hir.śr.  
 HOS  
-Ïś.Up.  
+Īś.Up.  
 JAOS  
 Jai.  
 Gautama (dharmasūtra) Bhagavadgitā  
@@ -149,7 +149,7 @@ appendix) Maitrāyaṇisamhitā
   
 Abbreviations  
 [[341]]
-Mån.gr.  
+Mān.gr.  
 Man.śr.  
 Manu  
 Mārk.  
@@ -162,7 +162,7 @@ MS(S)
 MW  
 Nand. on Manu  
 Nand. on Vis.Sm.  
-Når.  
+Nār.  
 Nirn.  
 NCC  
 N.S.  
@@ -177,8 +177,8 @@ PT
 PTS  
 PVK  
 Rāgh.  
-Răm.  
-Råmac.  
+Rām.  
+Rāmac.  
 R.V.  
 Sab.  
 Manavagṛhyasūtra  
@@ -234,7 +234,7 @@ sū.
 Subh.  
 Suś.  
 T1, T2, T3  
-Tait.Ãr.  
+Tait.Ār.  
 Tait.Br.  
 Tait.Sam.  
 Tait.Up.  
@@ -249,7 +249,7 @@ Smṛtyarthasara
 Smrticandrika  
 Smṛtimuktaphala  
 Śrautakosa  
-Smṛtīņām samuccayaḥ  
+Smṛtīṇām samuccayaḥ  
 sutra  
 Subhāṣitaratnabhāṇḍāgāram  
 Suśrutasūtra  

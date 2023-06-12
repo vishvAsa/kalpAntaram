@@ -21,7 +21,7 @@ See Smrtīnām samuccayaḥ.
 Anguttaranikāya  
 Pali text ed. E. Hardy, 5 vols., PTS, London 1899.  
 Aparárka  
-See Yajnavalkyasmṛti (Ăn.).  
+See Yajnavalkyasmṛti (Ān.).  
 Āpastambadharmasūtra  
 Sanskrit text with extracts from Haradatta's commentary, the Ujjvalā, ed. G. Būhler, Bombay 1932.  
 Sanskrit text with Haradattamisra's commentary, the Ujjvalā, ed. A. Chinnasvami Sastri and A. Ramanatha Sastri, KSS no. 93, Benares 1932.  
@@ -32,8 +32,8 @@ Sanskrit text with two commentaries, the Anakula of Haradatta Miśra
 [[344]]
 and the Tatparyadarśana of Sudarsanācārya, ed. A. Chinnasvami Sastri, KSS no.59, Benares 1928.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
-Åpastambasmṛti  
-See Smṛtiņām samuccayaḥ.  
+Āpastambasmṛti  
+See Smṛtiṇām samuccayaḥ.  
 Apastambasrautasūtra  
 Sanskrit text with Rudradatta's commentary, ed. R. Garbe, 3 vols., Calcutta 1882, 1885, 1903.  
 German tr. W. Caland, 2 vols., (1921) Amsterdam 1924.  
@@ -97,14 +97,14 @@ Sanskrit text and English tr. E.B. Cowell (1894), reprint Delhi 1977. Carakasamh
 Sanskrit text and English tr. with a critical exposition based on Cakrapāṇidatta's commentary, vol.I, R.K. Sharma, ChSS, Varanasi 1976.  
   
 [[346]]
-Caturvargacintamani of Hemådri  
+Caturvargacintamani of Hemādri  
 Sanskrit text ed. Y. Bhaṭṭācārya and K. Tarkaratne, 2 vols., Bibl.Ind., Calcutta 1879.  
 Dakṣasmṛti  
-See Smrtiņām samuccayaḥ.  
+See Smrtiṇām samuccayaḥ.  
 Dharmakosa  
 Encyclopaedia of religious law (dharmasastra), ed. Lakshmanshastri Joshi, Prajñapāṭhasālāmaṇḍala, Vai. Vol.I: Vyavahārakāṇḍa, 3 parts, 1937-41; Vol.II: Upanisatkanda, 4 parts, 1950-3; Vol.III: Samskarakānda, 3 parts, 1959-81.  
 Dharmākūta of Tryambakarāyamakhin  
-Sanskrit commentary on the Rāmāyaṇa in six vols. Vol.I: Balakanda, Shri Vani Vilas, Srirangam, 1916; Vol.II: Ayodhyākāṇḍa, 2 parts, Shri Vani Vilas, Srirangam, 1924, 1926; Vol.III: Aranyakanda, ed. K.S. Subrahmanya Sastry, TMSSM, Thanjavur, 1955; Vol.IV: Kiskindhā- kānda, ed. K. Vasudeva Sastri, TMSSM; Vol.V: Sundarakanda, ed. T. Chandrasekharan, TMSSM, Madras 1951; Vol.VI: Yuddhakāṇḍa, ed. P.V. Varadarāja Šarmā, TMSSM, Thanjavur 1964.  
+Sanskrit commentary on the Rāmāyaṇa in six vols. Vol.I: Balakanda, Shri Vani Vilas, Srirangam, 1916; Vol.II: Ayodhyākāṇḍa, 2 parts, Shri Vani Vilas, Srirangam, 1924, 1926; Vol.III: Aranyakanda, ed. K.S. Subrahmanya Sastry, TMSSM, Thanjavur, 1955; Vol.IV: Kiskindhā- kānda, ed. K. Vasudeva Sastri, TMSSM; Vol.V: Sundarakanda, ed. T. Chandrasekharan, TMSSM, Madras 1951; Vol.VI: Yuddhakāṇḍa, ed. P.V. Varadarāja Śarmā, TMSSM, Thanjavur 1964.  
 Dharmaśāstrasamgraha  
 Collection of twenty-six smṛtis ed. Jīvānanda Vidyasagara Bhaṭṭācārya (Jiv.), 2 vols., Calcutta 1876.  
 Gautamadharmasira  
@@ -118,7 +118,7 @@ Gobhilagrhyasutra
 Sanskrit text ed. Candra Kanta Tarkālaṇkāra, 2 vols. in 1, Bibl.Ind., 2nd edn., Calcutta 1908.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
 Gobhilasmrti  
-See Smrtinăm samuccayah.  
+See Smrtinām samuccayah.  
 Grhyasangraha of Gobhilaputra  
 Appendix to the Gobhilagṛhyasutra, Sanskrit text ed. C. Tarkālankāra, Bibl. Ind., 2nd edn., Calcutta 1910.  
 Harivamsa  
@@ -129,7 +129,7 @@ Hiranyak eśigrhyasutra
 Sanskrit text with extracts from Matrdatta's commentary, ed. J. Kirste, Vienna 1889.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
 Hiranyakeśisrautasūtra  
-Sanskrit text with commentaries of Gopinatha and Mahadeva, ed. K.S.Agăse, Ān.no.53, 9 parts, Pune 1909–30.  
+Sanskrit text with commentaries of Gopinatha and Mahadeva, ed. K.S.Agāse, Ān.no.53, 9 parts, Pune 1909–30.  
 Isopanisad  
 Sanskrit text crit. ed. V.P. Limaye and R.D. Vadekar, in Eighteen Principal Upanisads, vol.I, VSM, Pune 1958.  
 English tr. S. Radhakrishnan in The Principal Upaniṣads (1953), London 1974.  
@@ -144,7 +144,7 @@ English tr. C.M. Ridding, London 1896.
 Kamasutra of Vatsyāyana  
 Sanskrit text with the commentary of Yasodhara, ed. G.D. Shastri, KSS no.29 Benares 1929.  
 English tr. S.C. Upadhyaya, Bombay 1961.  
-English tr. with extracts from Kokašāstra, Anangaranga etc., by I. Sinha, London 1980.  
+English tr. with extracts from Kokaśāstra, Anangaranga etc., by I. Sinha, London 1980.  
 Kāsikāvṛtti of Vamana Jāyāditya  
 Sanskrit text with the commentaries of Jinendrabuddhipāda and Haradattamisra ed. D. Shastri and K.P. Shukla, 6 vols., Varanasi 1965-7.  
 Kāthakasamhitā  
@@ -169,7 +169,7 @@ Sanskrit text crit. edn. and English tr. A.S. Gupta, Kashiraj Trust, Varanasi 19
 Laghusātātapasmṛti  
 See Smrtīnām samuccayah.  
 Laghvāśvalāyanasmṛti  
-See Smṛtīņām samuccayaḥ.  
+See Smṛtīṇām samuccayaḥ.  
 Lingapurāna  
 Sanskrit text ed. P. Tarkaratna et al., Calcutta 1890.  
 Mahābhārata  
@@ -217,7 +217,7 @@ Sanskrit text of the Parāśarasmrti with the commentary of Madhavacārya, ed. V
   
 [[350]]
 cārya, ed. Candrakanta Tarkālaṁkāra (1893–9), Bibl.Ind., reprint Calcutta 1973-4.  
-Parăsarasmrti  
+Parāsarasmrti  
 See Parāśaramādhaviya.  
 Paraskaragṛhyasutra  
 Sanskrit text with the five commentaries of Karkopādhyāya, Jayarāma, Harihara, Gadadhara; and appendixes Vapyadipratiṣṭakandika, Śauca sūtra, Snānasūtra, Śrāddhasutra, and Bhojanasutra, with commentaries; ed. M.G. Bakre, Bombay 1917.  
@@ -235,7 +235,7 @@ Sanskrit text ed. J.D.M. Derrett, 'Anantarama's defence of suttee (c. 1818-1820)
 Sāhendravilāsa of Sridhara Venkatesa (Ayyāvāl)  
 Sanskrit text ed. with historical introduction by V. Raghavan, Tiruchi 1952.  
 Sankhasmrti  
-See Smṛtīņām samuccayaḥ.  
+See Smṛtīṇām samuccayaḥ.  
 Sānkhāyanabrāhmaṇa  
 See Kauṣitakibrāhmaṇa.  
 Sānkhāyanagṛhyasūtra  
@@ -316,7 +316,7 @@ ed. J. Jolly (1881), ChSS no.95, Varanasi 1962.*
 Sanskrit text with Nandapandita's commentary, ed. V. Krishnamacharya, 2 vols., Adyar 1964.  
 English tr. J.-Jolly (1880), SBE reprint, Delhi 1977.  
 Vṛddhahārītasmṛti  
-See Smṛtīņām samuccayaḥ.  
+See Smṛtīṇām samuccayaḥ.  
 Yatidharmaprakāśa of Vasudevāśrama  
 Sanskrit text crit. ed. with introduction, annotated translation and appendices, P. Olivelle, 2 parts, Vienna 1976, 1977.  
 Yajnavalkyasmrti  
@@ -394,7 +394,7 @@ Fuller, C.J. and Logan, P. The Navaratri festival in Madurai', Bulletin of the S
   
 [[356]]
 Gaur, A. Women in India, London 1980.  
-Gharpure, J.R. (tr.) Yājñavalkyasmṛti with the Mitākṣarā of Vijñānešvara  
+Gharpure, J.R. (tr.) Yājñavalkyasmṛti with the Mitākṣarā of Vijñāneśvara  
 and the Viramitrodaya of Mitramiśra, 2 parts, Bombay 1936-7.  
 Gode, P.K. 'Raghunatha, a protégé of Queen Dīpābai of Tanjore and his works: between A.D. 1675 and 1712', Studies in Indian Literary History, vol.II, Bombay 1954.  
 Studies in the history of dietetics-references to "avarānna" in the Dharmasutras of Baudhayana and Apastamba and the Gṛhyasutra of Āpastamba (between B.C. 500 and A.D. 500)', Studies in Indian Literary History, vol.III, Poona 1956, pp.153-60.  
@@ -470,7 +470,7 @@ Research, vol.4, no.1, May 1984.
 Obeyesekere, G. 'Pregnancy-cravings (dola-duka) in relation to social structure and personality in a Sinhalese village', American Anthropologist, vol.65, no.2, April 1963.  
 O'Flaherty, W.D. The Origins of Evil in Hindu Mythology, Berkeley 1976. Ojha, C. 'Feminine asceticism in Hinduism: its tradition and present con-  
 dition', Man in India, vol.61, no.3, 1981, pp.254–85.  
--'Condition féminine et renoncement au monde dans l'Hindouisme: les communautés monastiques de femmes à Benares', Bulletin de l'Ecole Française d'extrême-Orient, Tome LXXIII, 1984, pp. 197-222.  
+-'Condition féminine et renoncement au monde dans l'Hindouisme: les communautés monastiques de femmes à Benares', Bulletin de l'Ecole Franśaise d'extrême-Orient, Tome LXXIII, 1984, pp. 197-222.  
 Okely, J. 'Gypsy women: models in conflict', in Perceiving Women, ed.  
 S. Ardener, London 1975.  
   
@@ -491,7 +491,7 @@ Pingree, D. Jyotiḥśāstra: Astral and Mathematical Literature, in A History
 of Indian Literature, vol.VI, fasc. 4, Wiesbaden 1981.  
 Postel-Coster, E. 'The Indonesian novel as a source of anthropological data',  
 in Text and Context, ed. R. K. Jain, Philadelphia 1977.  
-Radhakrishnan, S. (tr.) The Principal Upanisads (1953), London 1974. Raghavan V. Śāhendravilāsa (A Poem on the Life of King Šāhajī of Tanjore  
+Radhakrishnan, S. (tr.) The Principal Upanisads (1953), London 1974. Raghavan V. Śāhendravilāsa (A Poem on the Life of King Śāhajī of Tanjore  
 (1684–1710) of Śrīdhara Venkatesa (Ayyāvāl), Tiruchi 1952.  
 Raghavan, V. and Kunjunni Raja, K. (eds.) New Catalogus Catalogorum. An Alphabetical Register of Sanskrit and Allied Works and Authors (NCC), Madras 1968-: vol.I-V ed. Raghavan; vol.VI ed. Kunjunni Raja; vol. VIII 1974; unpublished material, NCC files, Madras University.  
 Rai, R. and Singh, B. 'Widows of Varanasi', India Today, vol.VIII, no.3,  

@@ -110,7 +110,7 @@ in daily schedule, 49; ritual significance of, 69; place of, 69–70; prohibited
 demon priest, 266 Derrett, J.D.M., 23, 24
 Descriptive Catalogue.... (Sastri), 11 Devala, 72; on sipping, 75; on clothing,
 [[90]]
-Devaņṇabhaṭṭa, 145, 149
+Devaṇṇabhaṭṭa, 145, 149
 devapūjā (image worship) ritual, 178–80,
 182; food for, 181
 Dharma, 324
@@ -119,11 +119,11 @@ dharma ('righteousness'), 23, 268; and sacrifice, 23; sources of, 24; on daily s
 law, 263; areas of conflict in women's, 263-4 Dharmākūtā, 3, 10, 11, 12, 18, 96, 317; on tilaka, 98; on offering of food, 180; on inherent nature of women, 250 dharmasastra (religious law), 7, 23-5, 268; literature of, 24; and art, 93; on guests, 187; on eating, 210; on conflict with husband's wishes, 316; and renunciation for women, 318 Dhoti, 91
 Dhundhiraja, 10, 12; court poet, 19;
 works of, 19
-Dipămbā: chief wife of Ekojī, 20; as
+Dipāmbā: chief wife of Ekojī, 20; as
 patroness, 21-2
 Dishes: of leaves, 218; of iron, 220; of earthenware, 220; wooden, 220 Dowry, women's right to, 278–9, n17 Drāhyāyaṇasrautasūtra, 288 Draupadi, 313; on speaking to a para-
 purusa, 173-4, 175; treatment of a guest, 201-3; meals served by, 213; on eating left-overs, 224; praise for, 262; conversation of, 280–1 Drawings of the Costumes of the Southern
-Peninsular of India. . . ., 95..., Dumont, P. E., 117, 119 Dundhirăja, 11
+Peninsular of India. . . ., 95..., Dumont, P. E., 117, 119 Dundhirāja, 11
 Dundhivyasa, 11
 Duties common to all women, 273–304.
 See Section IV
@@ -251,7 +251,7 @@ Meulenbeld, G. J., 97
 Midday rituals, 176–210; man's duties, 176-7; general remarks on, 177–8; worship of all gods, 180-3; paying homage to guests, 183-210
 mīmāmsā, 3
 Ministers of Maratha kings, as authors,
-18--19 Mirăbăi, 324 Mitākṣarā, 297 Mitra, 150
+18--19 Mirābāi, 324 Mitākṣarā, 297 Mitra, 150
 Mughals, victories of, 14-15 Monasticism for women, 318
 Money, wife's management of, 168,
 169-70
@@ -289,14 +289,14 @@ pratyutthāna, 157
 Paintings, degrees of nakedness in, 92-3 Pregnant women: bathing, 85; feeding
 pañcagavya, 60
 Pāṇḍu, 310
-Pănini, 110, 123, 213; on salutations,
+Pānini, 110, 123, 213; on salutations,
 [[159]]
-parapuruşa (any man not related to
-wife): speaking to, 170-6; placing a blade of grass between, 172; example of Sită, 172-3; example of Draupadi, 173-4; physical contact with, 175-6
+parapuruṣa (any man not related to
+wife): speaking to, 170-6; placing a blade of grass between, 172; example of Sitā, 172-3; example of Draupadi, 173-4; physical contact with, 175-6
 Parās aramadhaviya, 3, 223, 235 Parāśara, 207, 220
 Parents-in-law: saluting, 157, 161-2;
 duties performed for, 163-4 Parry, J. P., 224
-Părvati, 29, 30, 31, 124; as ideal wife, 317, 320; on husband as god, 323 Patanjali, 40, 159
+Pārvati, 29, 30, 31, 124; as ideal wife, 317, 320; on husband as god, 323 Patanjali, 40, 159
 patiśusrūṣaṇam of women, 258–9 pativratā (devoted wife), 1, 304; quota-
 tions in praise of, 280–3 patnī, 30, 110; where to walk, 115–21;
 entrance of at ritual, 117-18; in polygamy, 123; and sudra wife, 126; not to leave the fire, 135-6; cremation with sacred fire, 141; as ritual agent of sacrifice, 141-9; management of money by, 170; and homage to guests, 199; and left-overs, 224, 225; and evening ritual, 234, 235; to join husband on funeral pyre, 298 Personal services, as religious duty of
@@ -313,12 +313,12 @@ Purity of women, arguments for, 252-4,
 254 6
 pūrvamīmāmsā school, on women's right
 to sacrifice, 41-3, 110-13 putrikā daughter, 146-7, 301
-Rådhā, 320
+Rādhā, 320
 Rāghavānanda, 166, 184, 251, 260; on
 women's property, 278 Raghavan, V.10, 11, 12, 17, 76 Raghunatha Pandita, 21 Rājakośanighantu, 11
-Rāma, 3, 162; rituals shared with Sită,
+Rāma, 3, 162; rituals shared with Sitā,
 110, 114
-Rămacandra, 76, 260
+Rāmacandra, 76, 260
 Rāmāyaṇa, 10, 18, 96, 274; on tilaka,
 93; on placing a blade of grass,
 172: on role of wife with guests, 200, 207; on inherent nature of women, 249, 251, 262, 271 Rammohan Roy, 292
@@ -340,14 +340,14 @@ Religious law. See dharmasastra Renunciation, as option for women,
      Sacrifice: women's rights to, 41-3, 107, 144, 277; wife's share in, 108-9, 111-14; by man without a wife, 114; food left over from, 224; and possession of property, 277. See also Fire ritual sadyovadhú, 37
      Saffron, uses of, 96, 97 Sagara, 153
      sahagamana (dying with one's husband),
-     115; controversy over, 292; objections to, 292-3; quotations in favour of, 293-5; rewards for the bad wife, 295-7; and the brahmin wife, 287–8 Šāhajī, 15-16; as scholar, 17 Šāhajrāja Puram, scholars of, 17 Sāhavilāsagītā, 11 Śāhendravilāsa, 11
+     115; controversy over, 292; objections to, 292-3; quotations in favour of, 293-5; rewards for the bad wife, 295-7; and the brahmin wife, 287–8 Śāhajī, 15-16; as scholar, 17 Śāhajrāja Puram, scholars of, 17 Sāhavilāsagītā, 11 Śāhendravilāsa, 11
      Saiyǎjî, 15, 16
-     Sakuntală, 31, 288 Salomon, R., 283
+     Sakuntalā, 31, 288 Salomon, R., 283
      Salt, condiments, etc., serving of, 217–18 Samavedic school, 154
      samdhya ritual, 105-7, 149; actions
      associated with, 150
      Samvārta, 253, 254
-     sanătanadharma, 258, 259, 263 Sanchi, sculptures of, 94 Sandal, M. L., 113
+     sanātanadharma, 258, 259, 263 Sanchi, sculptures of, 94 Sandal, M. L., 113
      Śāndili, 282, 319 Sāndilya, 229, 236
      371
      Sankha: on women's dress, 91, 94-5;
@@ -357,7 +357,7 @@ Religious law. See dharmasastra Renunciation, as option for women,
      209; on good conduct, 260 Sastri, 11
      Satatapa: on earth for cleansing, 72–3; on guests, 194; on serving food, 217 Satapathabrāhmaṇa, 30-2, 117, 215,
      226-7 sati, 1, 8
-     Sati, 31-2; as gentle goddess, 320 Såvitri, story of, 313-14 Sāyaṇa, 108, 160, 188, 202; on mythical
+     Sati, 31-2; as gentle goddess, 320 Sāvitri, story of, 313-14 Sāyaṇa, 108, 160, 188, 202; on mythical
      marriages of young girl, 253 Section I, 6, 29–43. See also Introduction
      by Tryambaka
      Section II, Daily duties, 6-7, 44-51 Section IIA. Before Dawn, 6-7, 40, 51-101; āśrama theory, 44-5; daily rituals of householder, 45-7; rituals for men and women compared, 47– 50; waking before dawn, 51-7; reasons for early rising, 51-3; meditation, 52-4; what may be seen, 54–7; household tasks during, 58–63; worship of threshold, 63-4; worship of cows, 67-8; ablutions, etc., 69–101 Section IIB, Rituals at dawn, 7, 102-55; serving the sacred fire, 102-49; offering to sun, 149–55. See also Fire sacrifice; Senior wife; Wife Section IIC, Daytime rituals, 7, 156-233;
@@ -366,7 +366,7 @@ Religious law. See dharmasastra Renunciation, as option for women,
      372
      Index
      236-45. See also Sexual intercourse Section III, Inherent nature of women, 7-8, 246-72. See also Inherent nature of women
-     Section IV, Duties common to women, 273-304; general rulings on behaviour, 273-4; things to be avoided, 274-6; women's property, 276–80; in praise of the pativrată, 280-3; religious duties of menstruating women, 283-8; of the pregnant woman, 288-91; of the woman whose husband is away, 291; dying with one's
+     Section IV, Duties common to women, 273-304; general rulings on behaviour, 273-4; things to be avoided, 274-6; women's property, 276–80; in praise of the pativratā, 280-3; religious duties of menstruating women, 283-8; of the pregnant woman, 288-91; of the woman whose husband is away, 291; dying with one's
      • husband, 291-8; duties of the widow, 298-304
      Section V, Tryambaka's conclusion,
      305-17; service without regard to own life, 305–7; acceptance of husband's sale of wife, 307-8; obedience in conflict with other duties, 308; obedience involving doing wrong, 309-12; obedience vs. service, 312- 14; Tryambaka's summary, 314–16; concluding verses, 316-17; colophon, 317
@@ -383,7 +383,7 @@ Religious law. See dharmasastra Renunciation, as option for women,
      transmigration, 247
      Sinha, 1.241
      Sipping ritual (acamana), 75-7; rules for, 50; water to be used for, 77; in offering to sun, 150; before eating, 223
-     Sītā, 3, 305; rituals shared by Răma with, 110, 114; blade of grass placed by, 172, 175, 176, 187; treatment of a guest by, 200–1; an unusual woman 249,262,271
+     Sītā, 3, 305; rituals shared by Rāma with, 110, 114; blade of grass placed by, 172, 175, 176, 187; treatment of a guest by, 200–1; an unusual woman 249,262,271
      Siva: and Parvati, 30, 31; forehead marks for followers of, 99; offerings to, 152, 179 Śivājī, 13-14
      Skandapurana, 137, 251 smārta fire ritual, 104 Smith, F.M., 25, 113 Smṛticandrikā, 3, 90; on leaving home,
      135; on ritual agency of patnī, 145; on salutations, 157, 159; on eating alone, 215; on leaves for dishes, 218; on evening rituals, 235; on menstruation, 283-4
@@ -398,13 +398,13 @@ Religious law. See dharmasastra Renunciation, as option for women,
 
 Index
 [[373]]
-Staal, F., 25, 119 Strabo, 56, 57 strīdharma 3, 8, 259, 260, 261; and inherent nature of women, 262; and conflict in nature of women, 263; Umå on, 281; woman's only hope, 321; right and wrong superseded by, 324
+Staal, F., 25, 119 Strabo, 56, 57 strīdharma 3, 8, 259, 260, 261; and inherent nature of women, 262; and conflict in nature of women, 263; Umā on, 281; woman's only hope, 321; right and wrong superseded by, 324
 Strī-dharma-paddhati, 262; importance of, 304; mode of presentation, 4-5; overview of sections, 5-10; authorship of, 10–13; date of, 12; political background, 13-16; intellectual milieu, 16–23; reading of, 22; literary genre of, 23–5; conclusions of, 318– 29; bearing on the present, 325–9; and actual experience of women, 327-9. See also Sections by number strīsvabhāva (inherent nature of women),
 8, 319
 Sudarsana, story of, 310-12
-šūdra, 34; and children, 36; and women,
+śūdra, 34; and children, 36; and women,
 38, 39, 73, 251-2; general rules for, 39; and right to sacrifice, 41; and fire sacrifice, 126; salutations by, 159
-Suicide, 292-3 Sujătă, 214
+Suicide, 292-3 Sujātā, 214
 Sun: ritual worship of, 104-5; offering
 of respect to, 149–55; water offered, 150-2; powder circle, 151, 152
 Sūrya, and the fire sacrifice, 103, 105 susrūṣā, 29-30 śusrūṣaṇam, 29-30 Suśruta, 145
@@ -425,11 +425,11 @@ Tryambakayajvan, 3, 10, 12, 13 Tukkoji, 15, 16; as scholar, 17-18 Tuptikā, 112
 Twigs, for teeth-cleaning, 78, 229
 ucchista. See Left-overs
 uha (rules of modification): and gram-
-mar, 40-1, 42; ignored, 43 Ujjvalā, 143, 208 Umă, 281-2
+mar, 40-1, 42; ignored, 43 Ujjvalā, 143, 208 Umā, 281-2
 upasamgrahana, 157-8
 Urination: and purification, 33-4, 39;
 in daily schedule, 49; ritual sig nificance of, 69; place of, 69-70; prohibited places, 70-1; cleansing after, 71-4
-Ušanas, 89, 90, 215, 298 Uttanka, 211-12, 324
+Uśanas, 89, 90, 215, 298 Uttanka, 211-12, 324
 Vāgbhata, 290
 vaiśvadeva ritual: food for, 181; presence of wife at, 182; food prepared by wife, 198–9; in the evening, 324–35
 
