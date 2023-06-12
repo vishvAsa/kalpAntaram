@@ -21,8 +21,6 @@ The second ritual duty to be performed by the wife each evening is that of payin
 
 
 
-Evening 
-
 [[235]]
 
 Tryambaka continues. 'The cooking for the vaiśvadeva ritual should also be done in the evening (a second time).' The quotation that follows is attributed to Visnu. ‘O king, in the evening as well (as in the morning), one should take freshly cooked food and, together with one's wife, make bali offerings at the time of the vaiśvadeva ritual.'[^5] The quotation is precisely as given in both the Parāśaramādhavīya and the Smṛticandrika. In the Visnupurāṇa, however, which all three claim to quote, it is the patni who should take the freshly cooked food and make the bali offerings, but without mantras (patny amantram). Tryambaka makes this point next, with an important proviso. 'In the evening (lit. “at night"), if the husband is not there, the vaisvadeva and bali offerings may also be performed by the patni, but without mantras.'[^6] He quotes Manu. "The patni should make the bali offering using food prepared in the evening, without mantras.'[^7] But neither Manu nor his commentators stipulate that the husband should be away before this ruling comes into effect. The second half of Manu's sloka merely explains that the vaisvadeva ritual, and therefore the bali offerings too, are prescribed for both morning and evening. According to Tryambaka, however, the patni may only substitute for her husband when the latter is away; otherwise she should assist as usual. Either way, she should prepare fresh food for the evening ritual. 
@@ -41,7 +39,7 @@ Tryambaka next deals with the ritual hospitality to guests which, according to t
 
 [[236]]
 
-evening than at midday. The quotation reads as follows. "The wise man should honour any guest who comes (to his house) according to his own resources. He should bid him welcome, O Pārthiva, and honour him, bowing down as he offers him water to wash his feet and a seat, and then (he should honour him) by offering food and a bed. O king, whatever sin accrues to men when a daytime guest turns his back and leaves (unfed), that same (sin) increases eightfold when he turns his back and leaves (unfed) once the sun has set.'[^8] The idea that the evening meal is of greater ritual importance than the midday meal no doubt follows from the fact that the evening agnihotra is the primary part of the twofold fire ritual, cf, agnisuśruṣa; section IIB, pp.102-7). On the practical level, of course, it is also harsher to turn a stranger away at night. 
+than at midday. The quotation reads as follows. "The wise man should honour any guest who comes (to his house) according to his own resources. He should bid him welcome, O Pārthiva, and honour him, bowing down as he offers him water to wash his feet and a seat, and then (he should honour him) by offering food and a bed. O king, whatever sin accrues to men when a daytime guest turns his back and leaves (unfed), that same (sin) increases eightfold when he turns his back and leaves (unfed) once the sun has set.'[^8] The idea that the evening meal is of greater ritual importance than the midday meal no doubt follows from the fact that the evening agnihotra is the primary part of the twofold fire ritual, cf, agnisuśruṣa; section IIB, pp.102-7). On the practical level, of course, it is also harsher to turn a stranger away at night. 
 
 Finally, Tryambaka considers the evening meal itself. According to Sandilya, 'the householder should eat at night that which is beneficial, wholesome and very satisfying." Clearly, Tryambaka's treatment of evening rituals and duties tells us little more than that these activities should be performed in the evening much as they are in the morning or at midday. 
 
@@ -56,8 +54,6 @@ Tryambaka begins his subsection on going to bed (śayanam) with a quotation from
     smṛtyarthasare 
 
     > homam vaisvadevam ātithyam ca kṛtva bhṛtyaih parivṛto laghu bhuktvā striyā saha sugandhānulepanamālyatāmbūlādi sevamānaḥ svapet // iti // Sdhp.20г.4-6 (Sm.A.) < Sm.M.II.p.457 (bhutyaih for bhṛtyaiḥ; sevamanam for sevamanaḥ; Sm.A.); Sm.A.p.70 (atithyarcanam for atithyam ca; bhuñjīta for laghu bhuktvā; tataḥ svastriya for striyā; sugandhalepanatambulādi for sugandhānulepanamalyatāmbūlādi). 
-
-Evening 
 
 [[237]]
 
@@ -84,8 +80,6 @@ Paintings depicting the scene show most of the items listed here. For example, o
 [^13]: bodhāyanaḥ || atha śrimantam agāram sammrstopaliptam gandhavantam puspavantam dhūpavantam dipavantam talpavantam samadhivāsam dik ṣu sarpiḥsūtrendhanapradyotitam udakumbhādarsocchirasam prapadya tasminn enām samvesya || iti // Sdhp.20r.9-20v.1 (Baudh.; PT amends samvesya to samvesayet) ‹ Baudh.gr.I.6.22 (........ samveśya tasyā antike japati). 
 
  
-
-Evening 
 
 [[239]]
 
@@ -117,8 +111,6 @@ This seems a surprising ruling, especially in view of the obvious nakedness of t
 
  
 
-Evening 
-
 [[241]]
 
 (Āśv.gr.III.9.6; Gaut.I.9.60; Manu IV.75; Viṣ.Sm.70.3; Sm.A. p. 70). 
@@ -127,7 +119,7 @@ A series of slokas attributed to Vyasa follow. Tryambaka introduces them by emph
 
 The next two ślokas (also attributed to Vyāsa) return to the subject of the wife's attire. ‘If a woman makes love with her husband while wearing a bodice, she will certainly be a widow in three years or even sooner. If a woman (dayitā; lit. "beloved") makes love with the "palm-leaf" type of earrings (talapattra) dangling from her ears, she will be a widow in this life within five or seven years, '[^20] 
 
-The reasons for both rulings seem self-evident. Regarding the first, we may recall the earlier requirement that a woman should always cover her breasts (section IIA, p.90, note 69). The rule that she should remove her bodice for love-making reinforces the idea that women of this class usually wore bodices in public. In Tryambaka's circles at least, it seems that a woman's naked breasts 
+The reasons for both rulings seem self-evident. Regarding the first, we may recall the earlier requirement that a woman should always cover her breasts (section IIA, p.90, note 69). The rule that she should remove her bodice for love-making reinforces the idea that women of this class usually wore bodices in public. In Tryambaka's circles at least, it seems that a woman's naked breasts were more likely to be associated with sexual intimacy than with fashion or custom.
 
 [^18]: ārdrapadaya bhartṛsango na kartavyah // Sdhp.20v.4. 
 
@@ -135,7 +127,7 @@ The reasons for both rulings seem self-evident. Regarding the first, we may reca
 
 [[242]]
 
-were more likely to be associated with sexual intimacy than with fashion or custom. 
+
 
 A glance through paintings depicting high-class men and women will demonstrate their fondness for ornaments. Women in particular wore elaborate earrings, nose-rings and hair ornaments (e.g. Randhawa 1962: plates VII, XI, figs. 11,68; cf. Śahendravilāsa V. 33-42,VI.216). Even the naked woman pictured in her husband's embrace wears a mass of jewellery at her wrists, ankle and throat, in her nose and ears, and on her forehead (e.g. plates 12, 13; cf. Randhawa 1962: plate III). The 'palm-leaf" earring-also mentioned in the Kādambarī (Kād. II.28; MW 1976:445)—is evidently a particularly large, pendent ornament that might impede the intimacy of lovers. 
 
@@ -148,8 +140,6 @@ Similarly, eating the left-overs of someone else's meal (ucchistam) is a sign of
 [^21]: pādalagnatanus caiva hy ucchiṣṭam tādanam tatha / kopaḥ krodhas ca nirbhartsā samyogeṣu na doṣakṛt / Sdhp.20v.8-9 (Vyāsa) < ? 
 
  
-
-Evening 
 
 [[243]]
 
@@ -178,8 +168,6 @@ This suggests that the prohibition regarding dark blue clothes normally applies 
 [^25]: strīnām krīdarthasambhoge sayaniye na dusyati // iti // Sdhp.21r.2 (Āp.) < Āp.Sm.VI.1b; Mit. on Yajn.III.292; Apar.p.1186; Ang.32b. 
 
  
-
-Evening 
 
 [[245]]
 
