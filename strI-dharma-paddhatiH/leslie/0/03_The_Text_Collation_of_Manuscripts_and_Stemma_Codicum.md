@@ -18,7 +18,7 @@ This MS is in good condition although folios 2 and 88 are torn at the edges. It 
 
 In addition, there are three lengthy insertions into the original text. Between folios 26 and 27, three extra folios are to be found: 26(1), 26(2), and 26(3); all three to be inserted at 26v.9. Folio 26(1)r is totally illegible, but has evidently been rewritten in the same hand on one side of a displaced and unnumbered folio. This replacement folio and 26(1)v are written in the spidery second hand: 26(1)r (replacement) has 13 lines to the page, 32-8 akṣaras to a line; 26(1)v has 94 lines to the page, 30-40 akṣaras to a line. Folios 26(2) and 26(3) seem to be in the first hand but are neater and more evenly spaced: 9, 9, 8 and 6 lines to a page; 26-34 aksaras to a line. The other two major insertions involve one folio each. Between folios 46 and 47, there is an extra folio 47(1) written in the second hand: 14 and 11 lines to the page; 25-38 akṣaras to a line; to be inserted at folio 46v.3, before the bracketed deletion. Finally, between folios 66 and 67 (the latter has the number 68 added in the second
 
-332
+[[332]]
 
 hand), there is an extra folio 67(1) written in the same second hand:10 (+ 1} insertion) and 94 lines to the page; 28-32 aksaras to a line; to be inserted at 66v.10, before the bracketed deletion. These extra folios account for the inconsistency of 94 folios numbering 1-88 as described. (For an additional folio insert outside the passages chosen for comparison, see section V, note 3).
 
@@ -46,7 +46,7 @@ TD Vol.XVIII, p.8708-9, cat.no.18968, MS no.16374; NCC files.
 
 Collation of Manuscripts
 
-333
+[[333]]
 
 Paper MS; devanāgarī script; 60 folios numbered consecutively; 15 inches by 7 inches; 12 lines to a page; 40-6 akṣaras to a line; complete.
 
@@ -76,7 +76,7 @@ This is a hand-written copy of T, made in 1981 at my request and used in the 3. 
 
 
 
-334
+[[334]]
 
 initial stages of my research. It was copied by Srimati P.S. Lalitha, Sanskrit copyist, and checked by Srimati S. Rājalakṣmī Sanskrit paṇḍitā, both of the Tanjore Maharaja Serfoji's Sarasvati Mahal Library, Thanjavur. (For a description of this copy, together with incipit and explicit, see Leslie 1983(2): appendix A.)
 
@@ -90,23 +90,23 @@ Before embarking on an analysis of the text, it was necessary to establish a ste
 
 
 
-2
+[[2]]
 
 Collation of Manuscripts
 
-2
+[[2]]
 
-335
+[[335]]
 
 A comparison of the collations of PT with T, and T2 respectively reveal that T2 is an apograph of T1. Apart from a large number of shared errors and variants, several errors are both unique to T, and explicable only by reference to T1. Conclusive proof is provided by T2 20r.8, where the scribe-after copying an entire inserted folio-reverts to the place of the original insert (T, 26v.9) and copies the remaining two lines. Realizing his mistake, he then cancels those lines by bracketing them, copies the other two folios yet to be inserted, and then returns to those two lines once more.
 
 A similar examination of the errors and variants of T, and T, reveal that the latter is also an apograph of the former. Again, apart from numerous shared errors and variants, several are both unique to T, and explicable only in terms of T1. In addition, few errors or variants shared by T2 and T2 are not also shared by one of the other MSS. Contamination is therefore slight.
 
-2
+[[2]]
 
 The relationship between T, and M is only marginally less obvious. Once again, there are numerous shared errors and variants, some of which are also shared by T2 or T3 or both. However, some are exclusive to M and can be seen to originate in T1. M is thus also an apograph of T1. In addition, several errors and variants are shared by T2 and M but not by any of the other MSS. Some- what fewer errors and variants are shared by T, and M but not by the other MSS. The stemma is therefore as follows:
 
-3
+[[3]]
 
 い
 
@@ -114,7 +114,7 @@ T2
 
 T.
 
-3
+[[3]]
 
 M
 
@@ -122,15 +122,15 @@ TO and PT remain.
 
 An examination of TO confirms that T, was the only extant manuscript consulted.
 
-2
+[[2]]
 
 PT is evidently the work of an editor rather than the usual copyist for the majority of obvious errors present in T, have been corrected. Of the variants and remaining errors, none are shared with M alone, none with T, alone, none with T2 alone, some with T, in common with other MSS, and a few with T1 alone. There are, however, a large number of variants not shared by any of the extant MSS. Since these seem to be largely intentional rather than due to scribal error, there is no need to posit a lost exemplar between T, and PT. I have therefore assumed a simple stemma as follows:
 
-1
+[[1]]
 
 
 
-336
+[[336]]
 
 I'
 
@@ -152,7 +152,7 @@ There remains only the question of whether T, is itself a copy or the author's a
 
 To clarify this supposition, a close examination was made of the three major insertions in T1. They are as follows:
 
-1
+[[1]]
 
 A: T1 26v.9 (three folios) >PT 77.7-84.5;
 
@@ -166,7 +166,7 @@ We already know that T, is a copy. Were the insertions also copied from an exemp
 
 Collation of Manuscripts
 
-337
+[[337]]
 
 There are several reasons to assume that the insertions too were copied, not composed. First, given the scribal traditions of India, it is highly unlikely that any scribe would presume to make such radical alterations to a religious, and therefore sacred, text. Secondly, insert A is begun by the second scribe and completed by the first; hardly likely if original work were involved. Thirdly, several errors in these interpolated passages are clearly the result of misreading rather than slips of writing.
 
@@ -182,7 +182,7 @@ In the case of C, the insertion again coincides with an extensive deletion in th
 
 
 
-338
+[[338]]
 
 begins with a small example of saut du même au même : from ata eva sarvam api (PT 208.6) to ata eva sudarsanopäkhyāne (PT 209.3). Of the rest, some is dropped altogether, and some is reinserted but in a different form. An added complication is that a large portion of insert C is itself deleted (i.e. T, 67v.2– 10) and very little of this is to be found in either the first (i.e. pre-insert) version or in the refurbished insert C.
 

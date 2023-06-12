@@ -21,7 +21,7 @@ When Sītā sees Rāma and Lakṣmaṇa being carried off by a powerful demon, s
 
  
 
-306 
+[[306]]
 
 (Sdhp.48v.8-49r. 1; Sdhp.48v.9-10< Ram.III.4.3b). 
 
@@ -37,7 +37,7 @@ In the Mahābhārata, the story is told to Yudhisthira by Bhisma to
 
 [^2]: etad dhi paramam näryäḥ kāryam loke sanatanam | präṇān api parityajya yad bhartṛhitam acaret // Sdhp.49r.2-3< Mbh.I.146.4. 
 
-307 
+[[307]]
 
 demonstrate the householder's supreme duty to offer hospitality to anyone who asks for it (cf. section IIC, pp. 183–210; and, incidentally, to describe the heavenly rewards awaiting the devoted wife who dies on her husband's funeral pyre (cf. section IV, pp.293-5). Tryambaka uses it to illustrate the first subpoint of his conclusion: that the good wife should serve her husband without concern for her own safety. 
 
@@ -47,13 +47,13 @@ The inserted passage is an extract from the story of Hariścandra as told in the
 
 In the context of the Märkandeyapurāṇa, this story demonstrates that a man should put his religious duty to brahmins even above his affection for his wife and child. An extremely popular Buddhist 
 
-2 
+[[2]]
 
 [^3]: In MS T1, the story of the pigeons and the bird-catcher ends with an omission mark and the word sodhapatra in the margin (... iti // adhyāyaḥ// // Sdhp.55r.8). The text itself continues with the example of the third aspect of patiśuśrūṣaṇam (itaradharmopamardenāpi ... // Sdhp.55r.8). The sodhapatra cited is now missing but it is clear from MS T2 that it was inserted between folios 55 and 56. For the scribe of T, copies T, as it stands (... iti // adhyāyaḥ // śodhapatra // // itaradharmopamardenāpi ... //). On reaching the end of T, folio 55v, he copies the sodhapatra without a break: pādyam ācamaniyam vai dadau bhartus tadāsanam || bhartṛkṛtātmavikrayāngīkāro ... // T1 55v.10/T2 42v.11). At the end of the Hariścandra story (... sahaikastham abandhayat | iti /), he drops back into the pigeon story in the middle of a line: syu[h] sarvadevatäḥ... // (cf. T, 54r.2). He then tells both the rest of that story and the entire Hariścandra episode (T2 44r.7-44v.5) again. The Mysore MS (M) makes no such mistake: after the pigeon story, it tells the story of Hariscandra, thus incorporating the sodhapatra of T, as intended. Following MS M and PT, I have assumed the same. 
 
  
 
-308 
+[[308]]
 
 version of this idea may be found in the story of Prince Vessantara who gives away all he has, including his wife, Maddī, and their two children. We are told that Maddi accepted her treatment without resentment or question, saying that her lord and master could give her away, sell or even kill her if he chose (cf. Cone and Gombrich 1977:75, 8 570). Tryambaka's point is much the same: even in such extreme circumstances, the ideal wife thinks only of her duty to her husband and son. 
 
@@ -69,7 +69,7 @@ First, she placates him, explaining that her husband is her greatest god (bharta
 
  
 
-309 
+[[309]]
 
 ascetic for failing to control his anger as a true brahmin should. Concluding that he does not really understand what religious duty means (na ... dharmam vetsīti me mațiḥ), she sends him to a hunter (vyādha) in Mithila for further instruction. Suitably chastened, Kausika obeys. 
 
@@ -85,7 +85,7 @@ Tryambaka in fact goes even further: if her husband requires it, a woman should 
 
  
 
-310 
+[[310]]
 
 Kunti on the subject of niyoga (Sdhp.60r.4-61v.6 < Mbh.I.111. 30b-6; 112.3-5, 6b-c, 11-12a, 13-17, 19-28, 30-1; with variants). 
 
@@ -101,13 +101,13 @@ In the context of the Mahabharata, as Tryambaka explains, the story is told by B
 
  
 
-311 
+[[311]]
 
 duty (dharmam āśritya). The lengthy preamble to the story explains how the beautiful Princess Sudarśanā, born into a noble and royal family, marries Agni and gives birth to Sudarsana. When Sudarśana marries Oghavatī, he takes a vow that he will conquer Death simply by being a householder (gṛhasthaś cavajeṣyāmi mṛtyum; Sdhp.63v.7< Mbh.XIII.2.40). He tells his wife that there is no more important religious duty for the householder than offering hospitality to guests (Sdhp.63v.10-64r.1; cf. section IIC, pp.183–210). Therefore, whether or not he is there himself, she should never refuse a guest anything (atitheḥ pratikūlam te na kartavyam kathamcana), even if it means offering herself (apy ātmanaḥ pradanena; Sdhp.63v. 8-10< Mbh.XIII.2.41–2). 
 
 One day, while Sudarsana is out collecting firewood, a brahmin comes to Oghavatī and asks for hospitality. She greets him in the usual way, then asks what he wants. Despite her attempts to dissuade him, the brahmin wants only herself (tvayā mamārthaḥ . . . || pradānenātmano... kartum arhasi me priyam; Sdhp.64r.8–10 < Mbh.XIII.2.52-3). Remembering her husband's instructions, Oghavatī agrees. Meanwhile Sudarsana returns from the forest (and calls out to his wife; omitted). Since she is still in the brahmin's arms (lit. 'touched' by them; karābhyām tena viprena sprṣṭā), she does not reply: considering herself polluted (literally 'left-over'), she is ashamed (ucchiṣṭā[s]mīti manvānā lajjitā; Sdhp.64v.4-5 < Mbh.XIII.2.60; for a discussion of ucchişta in the context of 'leftover' food, see section IIC, pp.221-7). The brahmin calls out to Sudarsana to explain. While Death waits poised with his iron club, Sudarśana throws aside anger and jealousy, bids the brahmin welcome, and calls the gods to witness the truth of his vow to offer everything he has to the guest (... tena satyena ... ; Sdhp.64v. 7-65r.9 < Mbh.XIII.2.63-74; cf. Brown 1978). The air resounds with divine confirmations; Death is conquered; and the brahmin turns out to be god Dharma in disguise. Even Oghavati's chastity is restored by Dharma's assurance that she has been perfectly protected by the combination of Sudarsana's virtues and the virtues of a woman who has truly taken the vow of her husband (rakṣitā tvadguṇair eṣā pativratagunais tatha; Sdhp.65v.4-6<Mbh.XIII. 2.80-1). Her reward, as we should have guessed from her name, is that half of her will become immortalized as a sacred river (traditionally the supreme reward for virtuous women), while the other half will attain with her husband all the heavenly worlds normally 
 
-312 
+[[312]]
 
 acquired by austerities (Sdhp.65v.6-10 < Mbh.XIII.2.82–5). 
 
@@ -119,7 +119,7 @@ Tryambaka explains at some length that there is not. For 'service' comprises 'ev
 
  
 
-313 
+[[313]]
 
 towards his teacher and that of the wife towards her husband reinforces earlier comments to this effect (see sections I, pp.34–9; IIC, pp.168-3, 221-7, etc.). 
 
@@ -135,7 +135,7 @@ Săvitrī is born to King Aśvapati of the Madra people, by the grace of the god
 
  
 
-314 
+[[314]]
 
 sāvitrī formula regularly for eighteen years. When she grows up, since no man asks to marry her, Aśvapati sends her on a pilgrimage to find a husband. She chooses Satyavat, who lives with his mother and blind father in exile in the forest. Although Savitri learns that he is doomed to die within a year, she marries him anyway and joins the exiled family. As the day of his death approaches, Sāvitrī undertakes the severe tapas of standing day and night for three days. On the fourth day, she accompanies her husband into the forest. When Satyavat collapses and Yama comes to take his soul away, Săvitrī follows, answering Yama with such meek wisdom that he gives her three wishes (always excluding Satyavat's life). She asks first, that her father-in-law will regain his sight; secondly, that he will regain his kingdom; and thirdly, that her own father will have a hundred sons. Given a fourth wish, she asks that she and Satyavat will also have a hundred sons. The fifth wish is given without qualification: Satyavat is freed. 
 
@@ -147,7 +147,7 @@ Tryambaka's summary (Sdhp.86y.4-88r.1)
 
  
 
-315 
+[[315]]
 
 appeasing, worshipping, etc.) (by the wife as follows): by observing the rules of purification; by attending to the fire ritual; by paying homage to guests; by taking care of household duties; by keeping close watch over the household (accounts), both income and expenditure; by attending to her husband's bodily comfort; by serving food to her husband's dependants, etc.; by eating the sanctified remains (prasāda) of (the food offered to) him herself; by lovemaking and so on at night; by avoiding both those things which are forbidden to her and those which her husband does not like; by putting into practice both those things which are prescribed and those which her husband likes; by adorning herself (pratikarmaṇā; or perhaps "keeping everything tidy"); by driving away her husband's fatigue; by putting the religious rulings relating to the body into practice whenever they are appropriate, according to the law; by following her husband (into the fire when he dies); (or, alternatively,) after her husband('s death), by observing (the appropriate) restrictions such as celibacy (brahmacaryādi) for as long as she lives; by obedient (or devoted) service to her husband; and by doing what he says. Propitiating him in this way is said to constitute true 'service' to one's husband.'[^6] 
 
@@ -159,7 +159,7 @@ Secondly, Tryambaka continues-even in so brief a final summary—to give greater
 
  
 
-316 
+[[316]]
 
 that are forbidden to her' and 'those which her husband does not like'. Similarly, she should do both 'those things that are prescribed' and 'those which her husband likes'. It is clear from the tone used and the examples given throughout section V that, in each case, the latter requirement is the stronger. Thus she should follow the detailed rules of dharmaśästra unless and until her husband commands her otherwise. As soon as there is any conflict, however, she should simply do as he requires. It is fitting, therefore, that Tryambaka ends his summary with what are for him the two most important rulings for the ideal wife: she should offer her husband 'obedient and devoted service' (with a marked stress on 'obedience', according to Tryambaka's own definition; see above, pp.310-12; and she should do what he says. For this is indeed true 'service'. 
 
@@ -171,7 +171,7 @@ Concluding verses and colophon (Sdhp.88r.1-8)
 
 [^7]: skände // Sdhp.87v.4. pitṛvamsyā mātṛvamsyäḥ pativamśyās trayas trayaḥ / pativratāyāḥ punyena svargasaukhyāni bhuñjate // Sdhp.87v.9-88r.1 (Skanda) < Sk.P.III.2.7.58. 
 
-317 
+[[317]]
 
 (vyavastha)—the wise Tryambakayajvan has, at his mother's command (mäträjñayā), recounted them once again in their proper order in this work. By listening to them, may all women (learn to) apply their minds always to (their) religious duty!'[^8] 
 

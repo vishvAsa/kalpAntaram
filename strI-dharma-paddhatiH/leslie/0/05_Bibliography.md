@@ -29,7 +29,7 @@ English tr. G. Bühler (1879), SBE reprint, Delhi 1975. Apastambagṛhyasūtra
 Sanskrit text with extracts from the commentaries of Haradatta and Sudarsanācārya, ed. M. Winternitz, Vienna 1887.*  
 Sanskrit text with two commentaries, the Anakula of Haradatta Miśra  
   
-344  
+[[344]]
 and the Tatparyadarśana of Sudarsanācārya, ed. A. Chinnasvami Sastri, KSS no.59, Benares 1928.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
 Åpastambasmṛti  
@@ -65,7 +65,7 @@ Baudhayanadharmasutra
 Sanskrit text ed. E. Hultzsch, ZDMG VIII.4, Leipzig 1884.*  
   
 Bibliography  
-345  
+[[345]]
 Sanskrit text with Govindasvamin's commentary, ed. Chinnasvami Sastri, KSS no. 104, Benares 1934.  
 English tr. G. Bühler (1882), SBE reprint, Delhi 1965.  
 Baudhayanagṛhyaparibhāṣāsūtra  
@@ -96,7 +96,7 @@ Buddhacarita of Asvaghosa
 Sanskrit text and English tr. E.B. Cowell (1894), reprint Delhi 1977. Carakasamhita of Agniveśa  
 Sanskrit text and English tr. with a critical exposition based on Cakra- pāṇidatta's commentary, vol.I, R.K. Sharma, ChSS, Varanasi 1976.  
   
-346  
+[[346]]
 Caturvargacintamani of Hemådri  
 Sanskrit text ed. Y. Bhaṭṭācārya and K. Tarkaratne, 2 vols., Bibl.Ind., Calcutta 1879.  
 Dakṣasmṛti  
@@ -124,7 +124,7 @@ Appendix to the Gobhilagṛhyasutra, Sanskrit text ed. C. Tarkālankära, Bibl. 
 Harivamsa  
 Sanskrit text as in crit. edn. of Mahabharata by V.S. Sukthankar et al., BORI, Poona 1976.  
 Bibliography  
-347  
+[[347]]
 Hiranyak eśigrhyasutra  
 Sanskrit text with extracts from Matrdatta's commentary, ed. J. Kirste, Vienna 1889.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
@@ -154,7 +154,7 @@ Sanskrit text crit. ed. V.P. Limaye and R.D. Vadekar, in Eighteen Principal Upan
 Kātyāyanasmṛti  
 See Dharmasastrasamgraha (Jīv.).  
   
-348  
+[[348]]
 Katyayanasrautasutra  
 Sanskrit text with extracts from the commentaries of Karka and Yājñika- deva, ed. A. Weber (1859), ChSS no.104, Varanasi 1972.  
 English tr. H.G. Ranade, Poona 1978.  
@@ -185,7 +185,7 @@ Mänasollāsa of Somesvara (also called Abhiläṣitārthacintamani)
 Sanskrit text ed. G.K. Shrigondekar, 3 vols., GOS nos. 28,84,138; Baroda 1925, 1939, 1961.  
   
 Bibliography  
-349  
+[[349]]
 Mänavagṛhyasutra  
 Sanskrit text with the commentary of Aṣṭāvakra, ed. R.H. Sastri, GOS no.35, Baroda 1926.  
 English tr. M.J. Dresden, Groningen 1941.  
@@ -215,7 +215,7 @@ Padmapurāṇa
 Sanskrit text ed. V.N. Mandlik, 4 vols., An., Pune 1893-4. Parāśaramädhavīya  
 Sanskrit text of the Parāśarasmrti with the commentary of Madhava- cārya, ed. V.S. Islāmapurkar, vols. I and II, 4 parts, Bombay 1893-1906.* Sanskrit text of the Parasarasmrti with the commentary of Madhava-  
   
-350  
+[[350]]
 cārya, ed. Candrakanta Tarkālaṁkāra (1893–9), Bibl.Ind., reprint Calcutta 1973-4.  
 Parăsarasmrti  
 See Parāśaramādhaviya.  
@@ -247,7 +247,7 @@ Saptasataka of Hala (also called Gathāsaptasati)
 Sanskrit text with English tr. R. Basak, Calcutta 1971.  
   
 Bibliography  
-351  
+[[351]]
 Śatapathabrāhmaṇa  
 Sanskrit text with extracts from the commentaries of Sayana, Hari- svamin and Dvivedaganga, ed. A. Weber, Berlin 1855. English tr. J. Eggeling (1882-1900), 5 vols., SBE reprint, Delhi 1972–8.  
 Śivapurāṇa  
@@ -274,7 +274,7 @@ English tr. by K.K. Bhishagratna, 3 vols., ChSS, 2nd edn., Varanasi 1963. Taitti
 Sanskrit text with Sayana's commentary, ed. Bābā Sastri Phadke, 2 vols., Ān.no.36, Pune 1897-8.  
 Taittiriyabrāhmaṇa  
 Sanskrit text with Sayaṇa's commentary, ed. N.B. Godbole, 3 vols., Ān.no.37, Pune 1898.  
-352  
+[[352]]
 Taittiriyasamhitā  
 Sanskrit text with Sayaṇa's commentary, 9 vols., An.no.42, Pune 1900-8.  
 English tr. A.B. Keith, 2 vols., HOS nos. 18-19, Cambridge, Mass. 1914.  
@@ -307,7 +307,7 @@ Sanskrit text ed. P.N. Sarma, ChSS 30/31/40, Benares: samskāra- prakāśa 1906,
   
 Visnupurāna  
 Bibliography  
-353  
+[[353]]
 Sanskrit text with the commentary of Śrīdharasvāmin, ed. Jīvānanda Vidyasagara, Calcutta 1882.  
 English tr. H.H. Wilson, ed. F. Hall, 6 vols., London 1864-70.  
 Visnusmrti  
@@ -340,7 +340,7 @@ Bahadur, K.P. The Rasikapriya of Keshavadasa, Delhi 1972.
 Bennett, L. Dangerous Wives and Sacred Sisters: Social and Symbolic Roles  
 of High-Caste Women in Nepal, New York 1983.  
   
-354  
+[[354]]
 Bhandarkar, R. G. ‘History of child-marriage', ZDMG, vol. 47, Leipzig  
 1893, pp. 143-56.  
 Bhardwaj, S.M. Hindu Places of Pilgrimage in India: a Study in Cultural  
@@ -373,7 +373,7 @@ Valley, Delhi 1984.
 Colebrooke, H.T. 'Description of a species of ox named gayal', Asiatick Researches: or Transactions of the Society instituted in Bengal for En-  
   
 Bibliography  
-355  
+[[355]]
 quiring into the History and Antiquities, the Arts, Sciences, & Liter- ature of Asia, vol. VIII, Calcutta 1805, pp.486-501.  
 Cone, M. and Gombrich, R.F. The Perfect Generosity of Prince Vessantara:  
 a Buddhist Epic, Oxford 1977.  
@@ -392,7 +392,7 @@ Falk, N.A. 'The case of the vanishing nun: the fruits of ambivalence in Indian B
 Finot, L. Les Lapidaires Indiens, Paris 1896.  
 Fuller, C.J. and Logan, P. The Navaratri festival in Madurai', Bulletin of the School of Oriental and African Studies, vol.XLVIII, part 1, 1985, pp.79-110.  
   
-356  
+[[356]]
 Gaur, A. Women in India, London 1980.  
 Gharpure, J.R. (tr.) Yäjñavalkyasmṛti with the Mitākṣarā of Vijñānešvara  
 and the Viramitrodaya of Mitramiśra, 2 parts, Bombay 1936-7.  
@@ -416,7 +416,7 @@ Horner, I.B. Women under Primitive Buddhism: Laywomen and Almswomen
 Hume, R.E. (tr.) The Thirteen Principal Upanishads (1921), 2nd revised edn.  
 1931, London 1971.  
 Bibliography  
-357  
+[[357]]
 The Image of Man: the Indian Perception of the Universe through 2000 Years of Painting and Sculpture, Arts Council of Great Britain, London 1982.  
 Ions, V. Indian Mythology, London 1968.  
 Jacobson, D. 'The chaste wife', American Studies in the Anthropology of  
@@ -445,7 +445,7 @@ The religious role of women in ancient India: a discussion of the Stridharmapadd
 'The power in the home: ambivalent images of the goddess Jyesthā', paper presented to the Second International Conference on South Asian Religious Art Studies (SARAS), Lucknow, 17-21 September 1984.  
 Google  
   
-358  
+[[358]]
 -Strisvabhāva: the inherent nature of women', in Oxford University  
 Papers on India, vol.1, part 1, Delhi 1986.  
 Losty, J.P. Krishna, A Hindu Vision of God: Scenes from the Life of Krishna Illustrated in Orissan and other Eastern Indian Manuscripts in the British Library, London 1980.  
@@ -475,7 +475,7 @@ Okely, J. 'Gypsy women: models in conflict', in Perceiving Women, ed.
 S. Ardener, London 1975.  
   
 Bibliography  
-359  
+[[359]]
 Olivelle, P. 'The notion of asrama in the Dharmasūtras', in Wiener Zeit-  
 schrift für die Kunde Südasiens, vol.XVIII, 1974.  
 --Vasudevāsrama Yatidharmaprakāsa: a Treatise on World Renunciation, part 1, crit. edn. of Sanskrit text, Vienna 1976; part 2, introduction and translation, Vienna 1977.  
@@ -501,7 +501,7 @@ Ramanujan, A.K. (tr.) Speaking of Śiva (1973), Harmondsworth 1979.
 Rowland, B. The Art and Architecture of India: Buddhist, Hindu, Jain, in The Pelican History of Art, ed. N. Pevsner (1953), 3rd revised edn. 1967, Harmondsworth 1970.  
 Salomon, R. 'Legal and symbolic significance of the "menstrual pollution" of rivers', in Studies in Dharmasastra, ed. R. W. Lariviere, Calcutta 1984.  
   
-360  
+[[360]]
 Sandal, M.L. (tr.) The Mimämsä Sūtras of Jaimini (1923–25), SBH reprint,  
 New York 1974.  
 Sandesara, B.J. ‘Great Hindu women in Gujarat and Saurashtra', in Great Women of India, ed. Swami Madhavananda and R.C. Majumdar, Almora 1953.  
@@ -531,7 +531,7 @@ Morning and Midday Duties (1918), 4th edn., Delhi 1979.
 (tr.) See Yajnavalkyasmṛti 1974.  
   
 Bibliography  
-361  
+[[361]]
 Vora, J.H. Kavikāvyakālakalpana, 1945(?); consulted at BORI, Pune. Wilhelm, F. ‘Kaliyuga and time capsule', in Indology and Law: Studies in  
 Honour of Professor J.D.M. Derrett, Wiesbaden 1982.  
 Winternitz, M. Catalogue of Sanskrit Manuscripts in the Bodleian Library, vol.II (begun by M. Winternitz and completed by A. B. Keith), Oxford 1905.  

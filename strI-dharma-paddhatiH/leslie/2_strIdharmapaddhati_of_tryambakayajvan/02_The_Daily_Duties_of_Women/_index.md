@@ -19,7 +19,7 @@ The earliest exposition of the aśrama theory is presented by Gautama and Baudh�
 
  
 
-45 
+[[45]]
 
 life; the payment of the three debts (to the seers by study, to the gods by sacrifice, to the ancestors by sons); and thus the urgent need to produce children (Baudh.II.6.11.33-4). 
 
@@ -33,7 +33,7 @@ The day is sometimes divided into two (pūrvāhṇa, 'before noon', and aparāhn
 
 With regard to the different varnas, no specific ähnika rules are laid down for the vaisya or sudra. These men would presumably 
 
-46 
+[[46]]
 
 adjust the āhnika rules prescribed for brahmin householders to suit themselves. The ähnika rules for a king are given in detail in Kaut.I.19 (cf. also Manu VII. 145–7, 151–4, 216–26; Yājā.I.327– 33). In the first part of the day (6.00–7.30 a.m.), the king should attend to matters of defence, income and expenditure; in the second (7.30-9.00 a.m.), he should consider the affairs of the people; in the third (9.00-10.30 a.m.), he should bathe, eat and study the Veda; in the fourth (10.30-12.00 noon), he should receive revenue and assign tasks; in the fifth (12.00–1.30 p.m.), he should consult his ministers and consider the secret information brought by spies; in the sixth (1.30-3.00 p.m.), he may amuse himself; in the seventh (3.00–4.30 p.m.), he should review his army; in the eighth (4.30– 6.00 p.m.), he should confer with his commander-in-chief. At the end of the day, he should perform the evening samdhyā (V.9–17). In the first part of the night (6.00–7.30 p.m.), he should consult his secret agents; in the second (7.30-9.00 p.m.), he should bathe, eat and study; in the third (9.00-10.30 p.m.), he should enter his bedchamber; in the fourth and fifth (10.30 p.m.-1.30 a.m.), he should sleep; in the sixth (1.30–3.00 a.m.), he should wake and contemplate the sastra (i.e. of politics) and the duties of the coming day; in the seventh (3.00-4.30 a.m.), he should meet with his councillors and send out secret agents; and in the eighth (4.30–6.00 a.m.), he should receive blessings from his priests, see his doctor, chief cook and astrologer, perform the appropriate rituals, and go to court (v.18-24). Alternatively, as Kautilya adds (thereby undermining the entire system), the king may divide his days and nights as he needs (v.25). 
 
@@ -43,7 +43,7 @@ Daksa, for example, also divides the day into eight parts (II.4-5). For practica
 
  
 
-47 
+[[47]]
 
 those professions permitted to his varna. In the fourth (10.30-12.00 noon), he should bathe and perform the midday samdhyā. In the fifth (12.00-1.30 p.m.), he should perform the five great sacrifices (pañca mahāyajñāḥ): to brahman (brahmayajña, by the study or recitation of the Veda), to the gods (devayajña, by ritual offerings into the fire), to the ancestors (pitṛyajña, by the ritual of tarpana), to all beings (bhūtayajña, by bali offerings), and to men (manusyayajña, by offering hospitality to guests). These five observances absolve the householder of the five types of sin committed every day in the home (cf. Manu III.68-71; Vis.Sm.59.19-20 etc.). In the fifth part of the day, the householder should also take his main (midday) meal. In the sixth and seventh (1.30-4.30 p.m.), he should study secular literature (epics, purāna and so on). In the eighth (4.30–6.00 p.m.), he may receive or visit friends and perform the evening samdhyā rituals. From 6.00 p.m. until 9.00 p.m., he should attend to the duties omitted during the day and spend time with his family. From 9.00 p.m. until 4.30 a.m., he may take rest (Dakṣa II; Vidyārṇava 1979:1-2). 
 
@@ -53,7 +53,7 @@ A large proportion of the ähnika rulings cover activities to be carried out in 
 
  
 
-48 
+[[48]]
 
 Equivalent topics for men 
 
@@ -143,7 +143,7 @@ OR. 11689, fol. Iv (detail)
 
 BOL 
 
-00 
+[[00]]
 
 [^2]: Woman anointing herself with sandalwood paste or perfume from a pot 
 
@@ -225,7 +225,7 @@ OR. 11612, fol. 19r (half folio)
 
 OR. 11612, fol. 19r (half folio) 
 
-49 
+[[49]]
 
 remains of his meal, and a variety of postures for sexual intercourse (British Library: OR. 11689, OR. 11612; see plates 1-13; cf. Lostly 1980: 14-45; cf. Gaur 1980:23-5). The paintings depicting children and the wife's involvement with them (e.g. plates 10, 11) draw our attention to a curious omission in the Strīdharmapaddhati: while Tryambaka assumes that the good wife will produce sons, he not only shows no further interest in them, but makes no allowance for them in her day. 
 
@@ -239,7 +239,7 @@ Secondly, there are those rulings which are the same in principle for women as f
 
  
 
-50 
+[[50]]
 
 concerning sipping (acamanam) and bathing (snanam) also fall into this category. When a twice-born man sips, the water must touch his heart, throat or palate; when a woman sips, it need only touch her mouth (section IIA, pp. 75-7). A man performs his ritual bath with mantras, a woman without (section IIA, p. 83). Generally speaking, however, both rituals are applicable to women as well as men. Similarly, both men and women must wake early, but the wife should wake before her husband (section IIA, p. 52). Both must eat but the wife should serve her husband and eat only what he leaves (section IIC, pp. 221-7). This is a large group of rulings and the implications are interesting. I shall deal with each in its place. 
 

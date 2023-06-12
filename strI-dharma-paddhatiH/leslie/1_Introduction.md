@@ -6,51 +6,51 @@ In Madhya Pradesh, a high-caste brahmin woman named Bhuribai prostrates herself 
 
 In her home, Bhuribai was fortunate. She suffered few hardships, was not ill-treated, and generally did as she pleased. Aware that she was in fact more intelligent than her husband, she took pleasure in her evident and efficient control of his household. But she remained quite ready to regard him as essentially ‘higher', and herself as 'the shoes of his feet... his property'. Indeed, although she never actually worshipped him, Bhuribai conformed to the view widely held by both men and women throughout India that the perfect wife should regard her husband as her personal God. For, as both religious texts and traditional stories make clear, the man ordained to be a woman's husband is far more than a man: he is the incarnation of the supreme law in her life; the definition and summation of her religious duty; a god to be appeased. 
 
-In 1977, however, Bhuribai's husband died. Deprived of her one remaining desire to die before her 'lord', and in his house where her wedding vows were taken — she announced her intention to become a satī or truly 'virtuous' wife herself. But, recent shrines notwithstanding, the immolation of widows has been illegal in India since the British Government abolished the practice with the Suttee Regulation of 1829. The village elders made her take the required 'test' of the true sati: she had to perform the miracle of changing a ball of cow-dung into a coconut. Bhuribai failed. She was denied the supreme sacrifice of the ideal wife.1 
+In 1977, however, Bhuribai's husband died. Deprived of her one remaining desire to die before her 'lord', and in his house where her wedding vows were taken — she announced her intention to become a satī or truly 'virtuous' wife herself. But, recent shrines notwithstanding, the immolation of widows has been illegal in India since the British Government abolished the practice with the Suttee Regulation of 1829. The village elders made her take the required 'test' of the true sati: she had to perform the miracle of changing a ball of cow-dung into a coconut. Bhuribai failed. She was denied the supreme sacrifice of the ideal wife.[^1] 
 
-1. For a more detailed account of Bhuribai's life-history, see Jacobson 1978:95-138. 
+[^1]: For a more detailed account of Bhuribai's life-history, see Jacobson 1978:95-138. 
 
  
 
-2 
-
-The Perfect Wife 
+[[2]] 
 
 But not all Hindu women share Bhuribai's views concerning the proper role of women. In Search of Answers (Kishwar and Vanita 1984) is a collection of articles and letters published in Manushi, an outspoken magazine concerned with issues relating to Indian women today, during the first five years of its publication (1979-83). In her introduction to this disturbing document, Madhu Kishwar writes: 
 
-The pervasive popular cultural ideal of womanhood has become a death trap for too many of us. It is woman as a selfless giver, someone who gives and gives endlessly, gracefully, smilingly, whatever the demand, however unreasonable and harmful to herself. She gives not just love, affection and ungrudging service but also, if need be, her health and ultimately her life at the altar of her duty to her husband, children and the rest of her family. Sita, Savitri, Änusuya and various other mythological heroines are used as the archetypes of such a woman and women themselves are deeply influenced by this cultural ideal.... 
+> The pervasive popular cultural ideal of womanhood has become a death trap for too many of us. It is woman as a selfless giver, someone who gives and gives endlessly, gracefully, smilingly, whatever the demand, however unreasonable and harmful to herself. She gives not just love, affection and ungrudging service but also, if need be, her health and ultimately her life at the altar of her duty to her husband, children and the rest of her family. Sita, Savitri, Änusuya and various other mythological heroines are used as the archetypes of such a woman and women themselves are deeply influenced by this cultural ideal.... 
+>
+> This ideology of slavery and contempt for women in the family plays a more important part than even beatings or bullets in keeping women oppressed.
+>   
+> (Kishwar and Vanita 1984:46-7) 
 
-This ideology of slavery and contempt for women in the family plays a more important part than even beatings or bullets in keeping women oppressed. (Kishwar and Vanita 1984:46-7) 
+One of the letters, translated from Hindi and included in the collection, roundly condemns the pervasive image of the self-effacing woman: 
 
-One of the letters, translated from Hindi and included in the collection, roundly condemns the pervasive image of the selfeffacing woman: 
+> The ideals, ethics and morality heaped on women since time immemorial are suffocating and killing. The adjectives used to praise us have become oppressive. Calling us loving, they have locked us in the closed room of culture, calling us gentle, they have reflected us in a mirror of helplessness, calling us kind, they have tied us in cowardice, they have handcuffed us with modesty and chained our feet with loyalty, so that far from running, we have not been able even to walk.... 
+>
+> Now we must refuse to be Sitas. . . . Our exclusion from the scriptures, from temples, from smritis, is also our strength... 
+> 
+> (Kishwar and Vanita 1984: 298-9) 
 
-The ideals, ethics and morality heaped on women since time immemorial are suffocating and killing. The adjectives used to praise us have become oppressive. Calling us loving, they have locked us in the closed room of culture, calling us gentle, they have reflected us in a mirror of helplessness, calling us kind, they have tied us in cowardice, they have handcuffed us with modesty and chained our feet with loyalty, so that far from running, we have not been able even to walk.... 
-
-Now we must refuse to be Sitas. . . . Our exclusion from the scriptures, from temples, from smritis, is also our strength... (Kishwar and Vanita 1984: 298-9) 
-
-But what is this powerful ideology that is accepted without hesitation by some women, like Bhuribai, and yet rejected so vehemently by others? Where may we find its ideals, aims and arguments clearly set out? An increasing number of books and articles are being written in English on the role of women both in India and elsewhere. But India is in the special position of having 
+But what is this powerful ideology that is accepted without hesitation by some women, like Bhuribai, and yet rejected so vehemently by others? Where may we find its ideals, aims and arguments clearly set out? An increasing number of books and articles are being written in English on the role of women both in India and elsewhere. 
 
  
 
-3 
+[[3]]
 
-an ancient, complex and highly intellectual socio-religious tradition of its own. Scholars from all over the world have spent lifetimes studying the contributions of the pandits of this rich classical past. Where then are the great debates on the status and role of women? Is there not a Sanskrit text on the subject from within this orthodox Hindu tradition? 
+But India is in the special position of having an ancient, complex and highly intellectual socio-religious tradition of its own. Scholars from all over the world have spent lifetimes studying the contributions of the pandits of this rich classical past. Where then are the great debates on the status and role of women? Is there not a Sanskrit text on the subject from within this orthodox Hindu tradition? 
 
-Indeed there is. One such work that puts the orthodox point of view is Tryambakayajvan's Strīdharmapaddhati, or Guide to the Religious Status and Duties of Women. This little-known text was written in Sanskrit by an orthodox pandit in eighteenth century Thanjavur (Tanjore) in southern India. While it is clearly not in the same class as the great digests of Sanskrit religious law (dharmaśāstra) such as the Smṛticandrikā or the Parāśaramādhavīya, its importance lies in the fact that it is the only extant work of its kind. Although many dharmasastra texts contain a section pertaining to women (strīdharma), there are no other major works on the subject.2 
+Indeed there is. One such work that puts the orthodox point of view is Tryambakayajvan's Strīdharmapaddhati, or Guide to the Religious Status and Duties of Women. This little-known text was written in Sanskrit by an orthodox pandit in eighteenth century Thanjavur (Tanjore) in southern India. While it is clearly not in the same class as the great digests of Sanskrit religious law (dharmaśāstra) such as the Smṛticandrikā or the Parāśaramādhavīya, its importance lies in the fact that it is the only extant work of its kind. Although many dharmasastra texts contain a section pertaining to women (strīdharma), there are no other major works on the subject.[^2] 
 
 From the socio-historical point of view, Tryambaka's treatise gives a remarkable insight into the daily routines of the eighteenth century court of Thanjavur, and in particular into the life of the orthodox Hindu woman within it. This is especially interesting in view of the fact that the text predates the nineteenth century social reforms instigated by Rammohan Roy and enacted by the British. With regard to eighteenth century Sanskrit scholarship, the treatise throws important light on the encyclopaedic Dharmākūta (see pp. 10-12 below), serving as a dharmasastric appendix to the saga of Rama and Sītā as the ideal man and woman. 
 
-As always in dharmaśāstra, the result is an odd mixture of reality and utopia. It is a basic principle of mīmāmsā philosophy that something can only be prohibited if its occurrence is possible.3 Thus the prohibitions on wearing no blouse during the day (section IIA, pp. 91-5 below), for example, or on wearing heavy earrings during love-making (section IID, pp. 241–2), imply that women in fact might have done these things. The injunctions betray the ideals of utopia: a woman should always wake before her husband 
+As always in dharmaśāstra, the result is an odd mixture of reality and utopia.+++(5)+++ It is a basic principle of mīmāmsā philosophy that something can only be prohibited if its occurrence is possible.[^3] Thus the prohibitions on wearing no blouse during the day (section IIA, pp. 91-5 below), for example, or on wearing heavy earrings during love-making (section IID, pp. 241–2), imply that women in fact might have done these things. The injunctions betray the ideals of utopia: a woman should always wake before her husband 
 
-2. It is particularly unfortunate that there is no surviving manuscript known of the text on stridharma referred to by Kamalākarabhaṭṭa as his own work. 
+[^2]: It is particularly unfortunate that there is no surviving manuscript known of the text on stridharma referred to by Kamalākarabhaṭṭa as his own work. 
 
-3. präptipürvakaḥ pratiṣedho bhavati // Śab.X.8.10.22. 
+[^3]: präptipürvakaḥ pratiṣedho bhavati // Śab.X.8.10.22. 
 
  
 
-4 
-
-The Perfect Wife 
+[[4]]
 
 (p. 52); she should herself attend upon her husband instead of delegating such duties to servants (pp. 64-5); she should think only of her husband, worshipping him as her god (pp. 273, 280-2, 300, etc.); and so on. Whether they seem to us to be important or trivial, these ideals are the visible signs of the orthodox Hindu culture that Tryambaka is trying to defend. The attack on Hindu 'righteousness' (dharma) must have seemed to come from many quarters at once: the constant threat of Muslim domination and the encroachment of Islam; the insidious influence of Christian missionaries (such as those at the Jesuit Mission at Madurai) and European traders (the Danes, the Dutch, the French and the British); the customs of the local Tamil population whose women (especially those involved in the productive sphere) enjoyed a far greater freedom than their sisters at the Maratha court; and the increasingly popular devotional religion (bhakti) which claimed that women and low-caste (sūdra) men could reach heaven directly without even attending to their traditional duties. 
 
@@ -58,13 +58,13 @@ Tryambaka is a collectivist. His concern is not with women as individuals but as
 
 The norms presented in the Stridharmapaddhati do not hold for all Hindu women in India today; yet, as I shall explain, a surprising proportion of the behaviour described is praised or adhered to in traditional areas even now. Nor do they necessarily tell us how women behaved in Tryambaka's day; yet we may assume that highcaste women were expected and encouraged to conform. What they do tell us without any doubt is how an orthodox pandit in eighteenth century Thanjavur summarising a tradition already over a thousand years old in his day-thought women ought to behave. This is the pervasive ideology in question. The aim of the current study is to explore it in depth. 
 
-Mode of presentation and overview of the contents of the Stridharmapaddhati 
+## Mode of presentation and overview of the contents of the Stridharmapaddhati 
 
 The decision to merge translation and commentary rather than to conform to the usual separation of the two requires some explanation. 
 
  
 
-5 
+[[5]]
 
 The main reason for this is that the text itself is not unduly difficult. The Sanskrit style is largely that of the lawbooks and the epics. It has none of the more tortuous complexities of, for example, a treatise in Sanskrit grammar or logic. The important task in a text of this nature is therefore not an analysis of roots and compounds, but an elucidation of the overall world view within which the treatise was written; an exploration not of specific words and their meanings, but of the values assumed and the prejudices implied. For this kind of intellectual history, it was deemed unnecessary to separate text and translation from commentary in the traditional manner. 
 
@@ -76,9 +76,7 @@ The basic divisions of the text follow those of the earliest available manuscrip
 
 In particular, while I have divided the work into five major sections (I-V), I have chosen to discuss only the first three of these at length. The reason for this is simple but compelling. In manuscript form, the complete text covers 94 folios, comprising 184 closely written sides excluding duplicates and blanks. A detailed analysis of the entire work would have been prohibitively long. It was essential, therefore, to concentrate on those sections which may be considered unique or of special relevance in a study of this kind, while merely touching on topics which-although of interest in themselves—are already receiving attention from other scholars. 
 
-6 
-
-The Perfect Wife 
+[[6]]
 
 A brief description of the contents of each of the five main sections will demonstrate the basis on which this choice was made. Furthermore, the exact length of each section, what proportion it forms of the whole text, and the mode of presentation used in the current study for each one (i.e. translation and commentary, extended essay, or summary) is given below in the form of a table. 
 
@@ -90,7 +88,7 @@ Section II constitutes the bulk of this study. In terms of Tryambaka's text, how
 
  
 
-7 
+[[7]]
 
 topic of dharmaśāstra, it is unusual to find parallel rulings for women at any length. 
 
@@ -102,15 +100,13 @@ Section III covers just under three manuscript sides, representing a mere 11 per
 
 For Tryambaka bravely faces, and attempts to resolve, an apparently insuperable problem here. Briefly, it runs as follows. If, as is widely acknowledged, women are inherently wicked, is there any point in instructing them on how to be virtuous? Is not the Strīdharmapaddhati itself a waste of time? 
 
-Tryambaka's response is twofold. First, he admits that women are innately wicked; indeed he argues the point rather forcefully. Secondly, he insists that women also possess innate good qualities such as purity, and that—as womenthey are uniquely blessed; and he proceeds to demonstrate this with equal vigour. On examination, this apparent contradiction rests on a radical (if theoretically 
+Tryambaka's response is twofold. First, he admits that women are innately wicked; indeed he argues the point rather forcefully. Secondly, he insists that women also possess innate good qualities such as purity, and that—as womenthey are uniquely blessed; and he proceeds to demonstrate this with equal vigour. 
 
  
 
-8 
+[[8]] 
 
-The Perfect Wife 
-
-illogical) distinction between two crucial concepts relating to women: strīsvabhāva (the wicked nature of women) and strīdharma (the virtuous behaviour of women or, more accurately, wives). This distinction underlies many of the extraordinary pronouncements concerning women that must strike anyone familiar with Indian literature. The physical aspects of being female — menstruation, sexuality, childbirth, and so on-are taboo; women as biological creatures are condemned; the wild untamed goddesses, their counterparts in myth and symbol, are feared and appeased. Respect, even reverence, is reserved for those women in whom the biological has been controlled: the obedient wife, the selfless mother, and the gentle goddesses of the Indian imagination. 
+On examination, this apparent contradiction rests on a radical (if theoretically illogical) distinction between two crucial concepts relating to women: strīsvabhāva (the wicked nature of women) and strīdharma (the virtuous behaviour of women or, more accurately, wives). This distinction underlies many of the extraordinary pronouncements concerning women that must strike anyone familiar with Indian literature. The physical aspects of being female — menstruation, sexuality, childbirth, and so on-are taboo; women as biological creatures are condemned; the wild untamed goddesses, their counterparts in myth and symbol, are feared and appeased. Respect, even reverence, is reserved for those women in whom the biological has been controlled: the obedient wife, the selfless mother, and the gentle goddesses of the Indian imagination. 
 
 So important is this section to an understanding of the complexities surrounding the position of women in Indian culture that it has been treated somewhat differently from sections I and II. None of the rulings have escaped translation; nor is any of the corresponding Sanskrit absent from the notes. However, the entire section has been incorporated into an expanded essay on the nature of women in orthodox Hindu thought. The resulting presentation is no less faithful to Tryambaka's work than the previous ones. 
 
@@ -120,7 +116,7 @@ Both Tryambaka's divisions, and the order in which he deals with them, have been
 
  
 
-9 
+[[9]]
 
 general attitude has been summarised; the main arguments quoted or paraphrased; and the important points highlighted. The more crucial, resounding or better-known rulings are translated in full, with the corresponding Sanskrit text given as notes. It is hoped that this treatment will provide readers with sufficient preliminary information on each topic to inspire them to pursue their interests elsewhere. 
 
@@ -134,9 +130,7 @@ The treatment of this section is similar to that of section IV. Tryambaka's gene
 
  
 
-10 
-
-The Perfect Wife 
+[[10]]
 
 verses, and the colophon each receive a full translation for which the Sanskrit text is also given. 
 
@@ -160,19 +154,19 @@ I
 
 1v.1-2v.5 
 
-21 
+[[21]]
 
-14 
+[[14]]
 
 II 
 
 2v.5-21r.3 364 
 
-197 
+[[197]]
 
 Full trans.; Skt text; detailed comment. 
 
-42 
+[[42]]
 
 22} 
 
@@ -180,9 +174,9 @@ III
 
 21r.3-22r.8 
 
-3 
+[[3]]
 
-14 
+[[14]]
 
 Full trans. & Skt text incorp. in ext. essay. 
 
@@ -192,11 +186,11 @@ IV
 
 22r.8-48v.6 60 
 
-33 
+[[33]]
 
-142 
+[[142]]
 
-771 
+[[771]]
 
 trans. & text. 
 
@@ -204,11 +198,11 @@ V
 
 48v.6-88r.I 814 
 
-441 
+[[441]]
 
-184 
+[[184]]
 
-100 
+[[100]]
 
 Figure 1. The Mode of Presentation 
 
@@ -230,7 +224,7 @@ Raghavan's New Catalogus Catalogorum gives the following information.
 
 3. Dhundhirāja, son of Lakṣmaṇavyāsa, protégé of Tryambakarāyamakhin, Šāhaji, Serfoji and Raghunatha, is the author 
 
-11 
+[[11]]
 
 of the Dharmäkūta (ascribed to Tryambakarāyamakhin), .he Mudrārākṣasavyäkhyā, the Räjakośanighantu (ascribed to Raghunātha) and the Śāhavilāsagītā. 
 
@@ -256,9 +250,7 @@ First, the colophons of the Strīdharmapaddhati and the Gār
 
  
 
-12 
-
-The Perfect Wife 
+[[12]]
 
 hasthyadipika are identical, each ascribing authorship to Tryambakayajvan, pupil of Yajñeśa.4 Secondly, the author of the Dharmäkūta also gives his teacher's name as Yajñesa (e.g. Dharmāk. VI.p.457). Thirdly, there is a clear statement in the Stridharmapaddhati itself that its author also wrote the Dharmakūta. On the subject of wearing the tilaka, a lengthy quotation from the Dharmakūta is prefaced with the words: 'For in the Dharmākūta, (the commentary) on the Rāmāyaṇa, which was written by me... (ata evāsmatkṛtarāmāyaṇadharmākūte; see section II, p. 98, note 74). In addition, the Dharmakūta is both cited (e.g. 'Further examples are to be found in the Dharmäkūta (commentary) on the Rāmāyaṇa'; see section III, p. 250, note 18) and quoted at length (see section IIA, pp. 96, 98–100, notes 73, 75-8; etc.). Finally, the titles yajvan and makhin are synonymous, probably commemorating the great sacrifice performed by the pandit-minister and described by Bhagavantaraya in the Raghavabhyudaya (Raghavan 1952:26). 
 
@@ -270,7 +262,7 @@ The relationship between Tryambaka and Dhundhiraja is less clear. As Raghavan po
 
  
 
-13 
+[[13]]
 
 Throughout my discussion of the Stridharmapaddhati, I shall therefore refer to the author as 'Tryambaka'. This assumes the identity of Tryambakayajvan and Tryambakarāyamakhin but not necessarily the substitution of Dhundhiraja for them both. Additional information on the lives and works of both these men is given below (pp. 16–19). 
 
@@ -316,9 +308,7 @@ At first, Ekoji's kingdom comprised most of the Thanjavur district, Arni, Porto 
 
  
 
-14 
-
-The Perfect Wife 
+[[14]]
 
 south. When Ekoji refused, Śivājī made an alliance with the Sultan of Golkonda and marched into Karnataka. By 1677, all except Thanjavur itself was under his command. At last, encouraged by his queen, Dīpāmbā, Ekoji surrendered. In return for a large sum of money, half the family jewels, and half the revenue on Shāhji's southern jāgīrs, he was allowed to keep Thanjavur; and the jāgīr lands were restored to him. For her part in the affair, Dīpāmbā received the revenue of the districts of Bangalore, a grant that was to be handed on through the female line (see pp. 277-80 for Tryambaka's discussion of women's property). In addition, Ekoji was formally released from his obligation to the Bijapur sultanate: he was to rule as an independent king, answerable only to his half-brother in the Deccan. (For the complete treaty between Šivājī and Ekoji, see Takakhav 1921:459-62). This agreement was soon validated by Bijapur. For when Śivājī returned to the Deccan in c.1678, he was called upon to defend the Sultan against Mughal attack. A new treaty was signed: the Adil-Shahi government renounced all claims to Shāhji's southern jāgīrs, including Thanjavur, and ceded all such claims to Śivājī. Ekoji's well-founded fears of dependency on his half-brother were not removed until Śivājī's death in 1680. 
 
@@ -328,7 +318,7 @@ It is against this background of double isolation that the
 
  
 
-15 
+[[15]]
 
 Thanjavur dynasty (figure 3), should be considered: the cultural isolation of a ruling Maratha elite amidst a Tamil-speaking population; the political and psychological isolation of a Hindu kingdom struggling to retain both independence and identity in the face of Mughal might. 
 
@@ -380,9 +370,7 @@ According to Marathi inscriptions in the Bṛhadiśvara temple, Ekoji died in 16
 
 5. For somewhat different dates based on the Modi documents of Thanjavur preserved in Danish archives, and for a useful discussion of the various calendrical systems used, see Strandberg 1983:22,40–43. 
 
-16 
-
-The Perfect Wife 
+[[16]]
 
 inscription, the three sons ruled jointly; in practice, this seems to have meant that the younger ones acted as viceroys in their own subas. After Šāhaji's death in 1711-12, Serfoji and Tukkojī are said to have ruled jointly until the elder's death in 1727. Both Šāhaji and Serfoji died without heirs. Tukkoji ruled alone until 
 
@@ -398,7 +386,7 @@ The reigns of Ekoji and his three sons (1676-1736) have left an astonishing crop
 
  
 
-17 
+[[17]]
 
 people, is also not of the highest quality. But the contribution to Marathi and Sanskrit literature is considerable. 
 
@@ -412,9 +400,7 @@ Kings Serfoji and Tukkoji continued these traditions of scholar
 
  
 
-18 
-
-The Perfect Wife 
+[[18]]
 
 ship and music, both composing works themselves and, like Šāhajī, patronising whole villages of learned men. Literature and inscriptions are eloquent in praise of their patronage. 
 
@@ -456,7 +442,7 @@ Figure 4. The family of ministers
 
  
 
-19 
+[[19]]
 
 As noted above, Tryambakarāya is known as the author of the Dharmākūta, and a patron of the court pandit and poet, Dhundhirājavyāsa (see pp. 10–13). Bhagavantarāya is said to be the author of the Mukundavilāsa, the Uttaracampu and the Raghavabhyudaya. Anandaraya is held to be the author of the Asvalayanagṛhyasutravṛtti, the Jīvānandanataka, the Vidyapariṇayanāṭaka and a commentary on it; and the patron of Vedakavi, Vasudeva Dikṣita and Appadhvārin among others. His son, Nrsimharāya, is said to be the author of the Tripuravijayacampū; while Tryambakarāya's grandson, Nārāyaṇarāya, is said to have composed the Vikramasenacampu (Raghavan 1952:25-9; Krishnamachariar 1937: 246-7). 
 
@@ -482,9 +468,7 @@ As anthropological fieldwork increasingly shows, the more orthodox
 
  
 
-20 
-
-The Perfect Wife 
+[[20]]
 
 ideas concerning women tend to be held even today by high-ranking, land-holding groups among whom patrilineage is strong and wives are economically dependent upon their husbands and their husbands families. Jacobson, for example, notes that the landed brahmins of Thanjavur and western Karnataka fit this category (1978:100). Certainly, Tryambaka's concern in the Stridharmapaddhati seems to be solely with the imported Maratha elite, that is, with the prosperous (and largely kṣatriya) court at Thanjavur. There are no references to women agricultural labourers, market women, or any of the vast army of women who must have been living and working outside the context of the court. The few lower-class or 'outsider' women who are mentioned are referred to fleetingly, with either indifference (e.g. female servants) or disapproval (e.g. courtesans, gambling women, washerwomen, female mendicants, etc.; see section IIC, p. 171). The women in Tryambaka's scheme of things are severely restricted personally, socially, economically, sexually -and the most extreme standards of orthodox and idealised behaviour are demanded of them. 
 
@@ -494,7 +478,7 @@ First, it seems that for the royal family at least polygamy was the rule. Apart 
 
 Secondly, what do we know of any individual women at this Maratha court? In fact, the only woman who emerges as a distinct individual is Dīpāmbā (Dīpābai or Dīpāmbikā), Ekoji's chief wife. It was she who was instrumental in arranging the conciliation between Ekoji and Sivājī, thereby playing a role so crucial to them both that it is commemorated in the treaty they signed (see pp. 13– 14 above). Dīpāmbā was evidently both influential and popular. She is frequently mentioned in works of the period and always in 
 
-21 
+[[21]]
 
 terms of praise. The Sähendraviläsa, for example, gives an account of Dīpāmba's marriage to Ekoji (1.47-56), her appearance and good qualities (1.57-61), and her pregnancy (1.62–7). 
 
@@ -510,9 +494,7 @@ That a treatise on the proper behaviour of women was considered an appropriate r
 
  
 
-22 
-
-The Perfect Wife 
+[[22]]
 
 may have believed women to be especially guilty of the fault of turning away from Hindu principles. She may also have believed that reinforcing the proper role of women in society was the surest way to restore the orthodox Hindu moral code and thus, by extension, the perfect world. Perhaps, like Bhuribai, she too saw the dutiful wife as 'an embodiment of age-old goddess-like virtue and a vital support of the very firmament' (Jacobson 1978:135). Certainly, as an educated woman she would have known the judgement of the Bhagavadgitā: 'When wickedness (adharma) triumphs, it is the womenfolk who are corrupted; and once the women are corrupted, there will be the mixing of castes' and all the horrors that that entails (i.e. hell and destruction; Gītā 1.42-4). 
 
@@ -524,7 +506,7 @@ Although neither Dīpāmbā nor Tryambaka give clear instructions regarding when
 
  
 
-23 
+[[23]]
 
 lated freely and expansively into Marathi in order to bring these vital pronouncements concerning the proper behaviour of women to the attention of those for whom they were intended. 
 
@@ -540,9 +522,7 @@ Thus the status and role in society of each individual, man or woman, not only r
 
  
 
-24 
-
-The Perfect Wife 
+[[24]]
 
 to the moral precepts laid down by the specialists in and teachers of dharma in the vast literature of dharmasastra. These precepts are based on the three 'sources of dharma': the Vedas, tradition, and accepted custom; while Manu (II.12) and Yajnavalkya (1.7) also allow an internal guideline (ätmatuṣṭi; literally, 'please yourself') if there is a conflict between the three external authorities. These precepts-in all their complexity of detail, disagreement and debate-are the concern and content of dharmasastra. 
 
@@ -556,7 +536,7 @@ Tryambaka himself seems to have been familiar with the major south Indian works 
 
  
 
-25 
+[[25]]
 
 with some of the best-known south Indian digests: Vaidyanathadikṣita's Smṛtimuktāphala, Devannabhatta's Smṛticandrikā, and the Parāśaramādhavīya. Indeed, the quotations and attributions made in the Stridharmapaddhati are often so similar to those in the appropriate sections of the Smṛtimuktaphala that a consultation with the latter has clarified the occasional doubtful reading in the former. 
 

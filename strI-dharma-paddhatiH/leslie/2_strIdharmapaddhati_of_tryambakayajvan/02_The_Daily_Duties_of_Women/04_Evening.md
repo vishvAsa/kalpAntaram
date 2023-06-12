@@ -23,7 +23,7 @@ The second ritual duty to be performed by the wife each evening is that of payin
 
 Evening 
 
-235 
+[[235]]
 
 Tryambaka continues. 'The cooking for the vaiśvadeva ritual should also be done in the evening (a second time).' The quota- tion that follows is attributed to Visnu. ‘O king, in the evening as well (as in the morning), one should take freshly cooked food and, together with one's wife, make bali offerings at the time of the vaiśvadeva ritual.'[^5] The quotation is precisely as given in both the Parāśaramādhavīya and the Smṛticandrika. In the Visnupurāṇa, however, which all three claim to quote, it is the patni who should take the freshly cooked food and make the bali offerings, but without mantras (patny amantram). Tryambaka makes this point next, with an important proviso. 'In the evening (lit. “at night"), if the husband is not there, the vaisvadeva and bali offerings may also be performed by the patni, but without mantras.'[^6] He quotes Manu. "The patni should make the bali offering using food prepared in the evening, without mantras.'[^7] But neither Manu nor his commenta- tors stipulate that the husband should be away before this ruling comes into effect. The second half of Manu's sloka merely explains that the vaisvadeva ritual, and therefore the bali offerings too, are prescribed for both morning and evening. According to Tryam- baka, however, the patni may only substitute for her husband when the latter is away; otherwise she should assist as usual. Either way, she should prepare fresh food for the evening ritual. 
 
@@ -39,7 +39,7 @@ Tryambaka next deals with the ritual hospitality to guests which, according to t
 
  
 
-236 
+[[236]]
 
 evening than at midday. The quotation reads as follows. "The wise man should honour any guest who comes (to his house) according to his own resources. He should bid him welcome, O Pārthiva, and honour him, bowing down as he offers him water to wash his feet and a seat, and then (he should honour him) by offering food and a bed. O king, whatever sin accrues to men when a daytime guest turns his back and leaves (unfed), that same (sin) increases eight- fold when he turns his back and leaves (unfed) once the sun has set.'[^8] The idea that the evening meal is of greater ritual importance than the midday meal no doubt follows from the fact that the evening agnihotra is the primary part of the twofold fire ritual, cf, agni- suśruṣa; section IIB, pp.102-7). On the practical level, of course, it is also harsher to turn a stranger away at night. 
 
@@ -59,7 +59,7 @@ Tryambaka begins his subsection on going to bed (śayanam) with a quotation from
 
 Evening 
 
-237 
+[[237]]
 
 should sleep with one's wife.'[^10] The Pune edition of the Smṛtyar- thasara emphasizes that a man should sleep with his own wife (svastriyā saha). The statement that a man should eat 'surrounded by his dependants' seems somewhat at odds with the rulings men- tioned earlier concerning the ritual importance of privacy at meals or at least of eating only with those of similar rank (section IIC, pp.214-17). We must therefore assume the formal separation of diners by, for example, powder designs on the ground between them (cf. ekapankti; p.221). 
 
@@ -73,7 +73,7 @@ This ruling, with its emphasis on the initiative of the wife, recalls the view m
 
  
 
-238 
+[[238]]
 
 Randhawa 1962: plate III; Bahadur 1972: 26ff.). In his section on general behaviour, Tryambaka himself advocates a bold confi- dence in sexual matters (prāgalbhyam kāmakaryeṣu, Sdhp. 22v.4; section IV, pp.273-4; cf. plates 12, 13). 
 
@@ -87,7 +87,7 @@ Paintings depicting the scene show most of the items listed here. For example, o
 
 Evening 
 
-239 
+[[239]]
 
 the room and to gather the items required for love-making (as she does those for image worship; see section IIC, pp.178–80, notes 34-5). 
 
@@ -103,7 +103,7 @@ It seems unlikely that, after making love, both husband and wife would descend t
 
  
 
-240 
+[[240]]
 
 that the wife should leave her husband to sleep on the bed while she resorts to a mat on the floor. It is certainly customary in some rural areas today (e.g. in western Rajasthan) for the husband to sleep on a raised bed while his wife and family sleep on the floor (or on a low bed; cf. Chaki-Sircar 1984:98). In fact, the practice was fairly common among traditional families in Maharashtra earlier this century (LSJ). Moreover, dharmasastra rulings specify that the couple should only lie together during sexual intercourse (yavat samnipātam caiva sahaśayyā; Āp.II.1.1.21); once that is over, they should sleep separately (tato nānā, Āp.II.1.1.22; tataḥ prthak śayīyātām, Ujj., Benares edn.) and bathe (Ap.II.1.1.23;II.1.2. 1; Gaut.I.9.25; Manu V.144). 
 
@@ -119,7 +119,7 @@ This seems a surprising ruling, especially in view of the obvious nakedness of t
 
 Evening 
 
-241 
+[[241]]
 
 (Ăśv.gr.III.9.6; Gaut.I.9.60; Manu IV.75; Viş.Sm.70.3; Sm.A. p. 70). 
 
@@ -133,7 +133,7 @@ The reasons for both rulings seem self-evident. Regarding the first, we may reca
 
 [^19]: tathā ca vyāsaḥ // ārdrapādā ca yā nārī bhartṛsangam samācaret / āyusyam harate bhartuḥ sā nārī narakam vrajet ¡¡ Sdhp.20v.4-6 (Vyāsa) <? 20. kancukena samam nārī bhartṛsangam samacaret tribhir varsais ca madhye vā vidhavā bhavati dhruvam // tālapattragalatkarṇā dayitā maithunam vrajeť pañcame saptame varṣe vaidhavyam iha jāyate ¡¡ Sdhp.20v.6–8 (tālā- patra' amended to tālapattra°; Vyāsa) < ? 
 
-242 
+[[242]]
 
 were more likely to be associated with sexual intimacy than with fashion or custom. 
 
@@ -151,7 +151,7 @@ Similarly, eating the left-overs of someone else's meal (ucchistam) is a sign of
 
 Evening 
 
-243 
+[[243]]
 
 With regard to physical blows, it is generally agreed that a hus- band may beat his wife if she has done something wrong (e.g. Manu VIII.299-300; but not on the head or chest, Medh. and Kull. on Manu VIII.300). The reverse is inconceivable. In contrast, a woman must control her thoughts, words and actions (manovāgdehasam- yată, Manu V.165,166; cf. Gaut.I.9.3; Yajñ.I.87). She should never answer back even when she is scolded (äkruṣṭāpi na cākrośet) nor show her anger or resentment even when she is beaten (tāditāpi prasīdati, Sdhp.23r.4-5, from section IV, pp.273-4; cf.Sk.P.III. 2.7.18) or if her husband takes another wife (Manu IX.83). In love- making, such prohibitions are swept aside. As a result, the manuals on the art of love have produced detailed classifications of the permitted types of scratching (Kām.II.4), biting (Kām.II.5) and striking (Kām.II.7). Sexual intercourse becomes an erotic 'quarrel'; striking one's partner a sign of passion. Vätsyāyana's description of 'love quarrels' (pranayakalaha) is to the point: when a woman is (or pretends to be) jealous, a great quarrel arises; she cries, becomes angry, strikes her lover, pulls his hair, kicks him repeatedly on his arms, head, chest and back, and rebukes him with harsh and re- proachful words (Kām.II.10.40-6). Indeed, it is said that lovers in the throes of passion are impervious to pain (Kām.II.7.1ff.). These elements are frequently recorded in poetry and art. For example, the eight types of lady-love (nāyikā) include the woman who, having quarrelled with her lover, sends him away (abhisandhită or kala- hāntaritā; cf. Randhawa 1962: fig.40); and the one who reproaches her lover bitterly for sleeping with another woman (khaṇḍitā; cf. Randhawa 1962: fig.42). Tryambaka's point is that such behaviour, normally forbidden to the good and submissive wife, is acceptable in the privacy of making love. 
 
@@ -161,7 +161,7 @@ The next sloka, also attributed to Vyasa, reads as follows. 'Kunkuma, collyrium,
 
  
 
-244 
+[[244]]
 
 According to Vātsyāyana, she will come to the 'pleasure room' freshly bathed and dressed (Kām.II.10.1). After they have made love, they will each go separately to wash, returning to chew betel together and to apply ointments to each other's bodies (Kām.II. 10.13-14). 
 
@@ -181,7 +181,7 @@ This suggests that the prohibition regarding dark blue clothes normally applies 
 
 Evening 
 
-245 
+[[245]]
 
 bedroom in the morning (e.g. Randhawa 1962:186, plate XX, cf. plate III). The associations attached to the colour presumably reinforce the intimacy of the scene. The idea that this same sari should not be worn during the day recalls a similar rule for men in the Apastambadharmasutra: one should come together (for sexual intercourse) when wearing a garment (reserved) for (making love to) women (strīvāsasaiva samnipātaḥ syāt, Ap.II.1.1.20; glossed by Ujj. as stryupabhogartham vasaḥ; by Sm.M.I.p.77 as strīsam- yogārthavāsasā). As the Ujjvalā explains, the issue here is that one should wear the right thing at the right time (evakaro bhinnakra- mah). Thus one should not wear the garment one makes love in when performing sacrificial ritual and so on during the day (na tena ... brahmayajñādi kṛtyam). In principle, this ruling would seem to apply to women as well as men. 
 

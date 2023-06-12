@@ -24,7 +24,7 @@ As I explained in section III, Tryambaka assumes the orthodox
 
  
 
-320 
+[[320]]
 
 view of svadharma: good conduct produces auspicious births, evil conduct inferior births; and good conduct is defined as that appropriate to one's birth and station in this life. Birth as a woman is itself a mark of bad conduct in a previous life; the assiduous performance of the conduct appropriate to women (stridharma) the only way to erase it. Since women are denied access to Vedic education, they cannot purify themselves with mantras or offer sacrifice in their own right (see sections I, pp.34-9, and IIB, pp.107–15). According to the rigid orthodoxy professed by such as Tryambaka, they cannot perform any religious act independently of their husbands; they cannot even worship any god other than their husbands. Their only hope for salvation, and thus their only worthwhile goal, is the pursuit of stridharma. The two poles of a woman's existence are thus represented by two radically opposed concepts: the essentially wicked nature of women as evidenced by their female birth (strīsvabhāva); and the role model of the virtuous and selfeffacing wife as the only sure path to salvation (strīdharma). 
 
@@ -34,9 +34,7 @@ In the human realm as in the divine, the untamed female nature— with all the n
 
  
 
-Conclusion 
-
-321 
+[[321]]
 
 orthodox male, 'renunciation' means primarily the renunciation of sexual pleasures and family life, both of which are symbolised by women. Thus while male renouncers may successfully renounce women, female renouncers can never fully renounce themselves. In the inevitable conflict between the sexuality inherent in their nature and the demands of the ascetic life, women renouncers remain essentially 'female', and therefore 'untamed'. The conclusion is obvious: only the pursuit of strīdharma can keep this dangerous female nature under control and thus bring the individual to a better birth—perhaps even as a twice-born man (though crossing gender is hard; see section III, pp.246-7)—and, ultimately, to salvation. 
 
@@ -52,7 +50,7 @@ Google
 
 by ( 
 
-322 
+[[322]]
 
 in the important ceremonies of hospitality (see section IIC, pp.198205); and so on. Such a view of the religious role of the orthodox wife replaces all independent actions with a variety of obligations arising from her position as ritual assistant to her husband. 
 
@@ -62,9 +60,7 @@ The parallel between the orthodox Hindu wife's ministrations to her husband and 
 
  
 
-Conclusion 
-
-323 
+[[323]]
 
 needs, thereby comprising 'every action that gives pleasure, to one's husband-guru (see above, p.312). 
 
@@ -74,7 +70,7 @@ The requirement that the orthodox wife should treat her husband as her only god 
 
  
 
-324 
+[[324]]
 
 (see section IV, p.300, notes 67, 68). For the husband is the 'supreme god among all gods', whose law she must fulfil without question (see section V, p.308, note 4). 
 
@@ -88,9 +84,7 @@ But this is not as incongruous as it seems. For the classic answer when someone 
 
  
 
-Conclusion 
-
-325 
+[[325]]
 
 include 'wrong-doing'. The implication is clear: if they had, it would have been right to obey. Through the power of guruvacana, the unorthodox becomes orthodox. Since the ideal Hindu wife is required to treat her husband as both guru and god, it is hardly surprising that she too may invoke guruvacana, or the wishes of her 'god', to justify breaking or bending the traditional rules of stridharma. For her too, the apparently unorthodox, even forbidden, action becomes both orthodox and right. 
 
@@ -108,7 +102,7 @@ The work of modern anthropologists is particularly enlightening
 
  
 
-326 
+[[326]]
 
 in this respect. A.S. Jameson, for example, in her study of the pilgrimage priests (pāndā, gangāguru) of Hardwar, refers repeatedly to the gap between what her subjects claim they do (i.e. in accorddance with orthodox ideals and precepts) and how they in fact behave. Thus they claim to serve only the twice-born; but many in fact have sudra, tribal or even untouchable jajmāns. They claim not to recite Vedic mantras for sūdras (as Manu specifically prohibits them from doing); yet they are recorded as doing so. They claim not to take donations for ashes; but, as Jameson points out, they could not survive economically if they did not (1976:59,328-52). This gap between textual theory and actual practice is frequently highlighted by anthropological research (e.g. Gombrich 1971). It seems probable that, in both ancient India and eighteenth-century Thanjavur, the strict outlines prescribed by religious ideals were similarly blurred in and by real life. 
 
@@ -118,9 +112,7 @@ Postel-Coster discusses the similar principle of using novels as anthropological
 
 It is perhaps also worth pointing out that, in India, myth is not so far removed from reality as some outsiders might think. For Indians live their myths. Festivals, ceremonies and dramas are taken straight out of the epics and purānas and replayed year by year 
 
-Conclusion 
-
-327 
+[[327]]
 
 in villages all over India. In every household, mothers and grandmothers tell and retell these stories to their children until they are embedded in their subconscious minds, emerging to shape their responses to the crises of everyday. Thus when the writer to Manushi exclaims that 'we must refuse to be Sitas' (Kishwar and Vanita 1984: 299; see my introduction, p.2), she and those for whom she speaks are resisting not only aspects of Indian culture but, in a very real sense, parts of themselves. 
 
@@ -134,7 +126,7 @@ In the field of social anthropology, Edwin Ardener's theory of 'muted groups' is
 
  
 
-328 
+[[328]]
 
 This is precisely the position we find in the study of Indian religious texts. Almost the entire religious and ideological edifice constructed in the Sanskrit texts of Hindu orthodoxy has been written or recorded by men. The religious arena is dominated by men; the rules of religious language itself encoded and expounded by them. The religious role allotted to women is defined in terms of their relationship not to God but to men. For women are given what it is considered fitting for them to do; and, as Hirschon points out, there is a close correlation between what it is thought fitting for someone to do and what he or she is considered capable of doing (1978:73). This is not to assume that women would necessarily have described or prescribed a radically different world view. Indeed, it is highly likely, then as now, that the dominant view was partly or fully internalized by the majority of women. Moreover, we should not be disappointed if this proves to be the case for, as Shirley Ardener points out, it is the small deviations from the norm which may be crucial (1975:xix; cf. Hiebert 1985:98). The traditional male perception of a woman's role must therefore be seen in relation both to what is found in real life and to what can be gathered from listening to women's views. Thus the Wisers describe how the women often laugh 'behind their scarves' at the air of authority assumed by a man; yet 'outwardly they approve, and demand submission from his wife' (1971:79-81). In the Manipur valley, women make ‘a formal expression of deference to male authority'; yet 'female defiance of male dominance is a profound feature of their culture' (Chaki-Sirkar 1984: 222). Similarly, Bhuribai claims to be inferior to her husband, on a par with the shoes on his feet; yet she also sees herself as the model of feminine virtue in her own village, virtue incarnate, supporting not only her own husband, family and caste, but the whole of creation as well (Jacobson 1978:134-5). 
 
@@ -142,9 +134,7 @@ The chief criterion of a world view, religious or otherwise, is that it is a sel
 
  
 
-Conclusion 
-
-329 
+[[329]]
 
 the contributors of Manushi; cf. Kishwar and Vanita 1984); or created their own positive construct (like Bhuribai; cf. Jacobson 1978). For Indian women rarely want to be men; nor, as a general rule, do they seek the 'freedoms' of Western women. 
 

@@ -74,7 +74,7 @@ Dharmākūta
 Dh.kosa  
 Dharmakosa  
   
-340  
+[[340]]
 Gaut. Gitä  
 Gobh.  
 Gobh.gr.  
@@ -148,7 +148,7 @@ MS of Strīdharmapaddhati from Mysore (see
 appendix) Maitrāyaṇisamhitā  
   
 Abbreviations  
-341  
+[[341]]
 Mån.gr.  
 Man.śr.  
 Manu  
@@ -219,7 +219,7 @@ Sat.
 Sat.Br.  
 Sarvajñanārāyaṇa's commentary on Manusmrti  
 Śätätapa Satapathabrāhmaṇa  
-342  
+[[342]]
 Say.  
 SBE  
 SBH  

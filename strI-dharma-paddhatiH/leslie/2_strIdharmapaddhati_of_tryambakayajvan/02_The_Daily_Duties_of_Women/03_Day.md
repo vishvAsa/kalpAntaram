@@ -19,7 +19,7 @@ Thus men are treated with the respect due to their own age and status; women acc
 
 Day 
 
-157 
+[[157]]
 
 honour (jagāmābhyarhaṇīyatām; Manu IX.22-4; cf. sections I, pp.34-9, and IIC, pp.221–7). 
 
@@ -35,7 +35,7 @@ Upasamgrahana is the salutation implying the greatest respect.
 
  
 
-158 
+[[158]]
 
 For example, it is the appropriate greeting for one's own teacher when one goes to him for instruction (Āp.I.2.5.18) and, according to some authorities, for one's parents and senior relatives (e.g. Gaut.1.6.1-3). The Smṛtyarthasara (p. 7) defines upasamgrahana as announcing one's gotra and name (amukagotro devadattaśarmā) and making a formal salutation (aham bho abhivadaye) while touching one's ears (karnau spṛṣṭvā), bending one's head (sirovana- manam) and clasping the person's feet, the right hand holding the right foot, the left hand the left foot (cf. Vis.Sm.28.15–16). 
 
@@ -49,7 +49,7 @@ Day
 
 observances and before the practical tasks of the morning. 
 
-159 
+[[159]]
 
 When a brahmin greets his elder or superior, the traditional salutation is in three parts: the formal 'I salute' (abhivādaye); the declaration of one's name; and the respectful vocative bhoḥ (Manu II. 122-4; Viş.Sm.28.17; Gaut.I.6.5). However, if the recipient is an ignorant man, that is, one who does not understand the salutation (Manu II.123), then it is abbreviated. In that case, the speaker should omit both the respectful bhoḥ and his name, saying only 'It is I' (aham iti brūyāt; Manu II. 123). We have already noted that women are to be accorded the status and respect due to their husbands. In this context, however, Manu groups all women together with ignorant men (Manu II.123). Āpastamba even rules that a brahmin greeting either a kṣatriya, vaiśya or a woman should use the pro- noun instead of his own name (sarvanämnä... na nämnā; Ap. 1.4.14.23). The Smṛticandrikā lists the purificatory rituals ap- propriate for a brahmin who gives a ritual greeting to a kṣatriya, vaisya or sudra (Sm.C.I.p.101-2); a woman is presumably an un- worthy recipient too. 
 
@@ -59,7 +59,7 @@ Patanjali provides an interesting footnote. One of his arguments for the importa
 
  
 
-160 
+[[160]]
 
 Haradatta (on Gaut.I.6.5), thus demonstrating that this point was taken seriously in dharmasastra too. Manu II.126 adds that a brahmin who does not know the rules of pratyabhivāda is to be treated as a sudra and not saluted at all. 
 
@@ -73,7 +73,7 @@ But both texts agree that the secret name (abhivādanīya; Āśv.gṛ. 1.15.10) 
 
 Day 
 
-161 
+[[161]]
 
 There is even the suggestion that the last of these is received from the teacher himself. 
 
@@ -85,7 +85,7 @@ In the context of names, we may also note that a number of individuals are tradi
 
 Tryambaka begins with the homage (pädavandanam) a woman owes her parents-in-law. According to a half-sloka from Yajnavalkya 
 
-162 
+[[162]]
 
 (attributed by Tryambaka to Vijñānesvara), 'the woman who is devoted to her husband (bhartṛtatparā) should pay homage to the feet of her parents-in-law."2 It is not clear (either from Tryambaka or from Yājñavalkya) whether this involves clasping both feet as in upasamgrahana or merely touching the feet (pädaspassana; see above, pp. 157-60). According to Gautama, upasamgrahaṇa is appropriate (Gaut.I.6.1-3). In traditional areas of India today, however, when the gesture is performed by a man, the joined hands touch the recipient's feet or the ground once. But when performed by a woman, they touch the ground alone and then are shaken brief- ly up and down. Judging by the customs still in force today, there- fore, upasamgrahana is not appropriate for women. Either way, the ruling presupposes the custom of living in a joint family. 
 
@@ -101,7 +101,7 @@ In this section, however, 'further details regarding the obeisance due to the hu
 
 Day 
 
-163 
+[[163]]
 
 The quotation concerns the name the wife should use in the saluta- tion, and reads as follows. 'Some authorities maintain that there is no rule regarding salutations between a man and a woman (strīpum- yoge; glossed by Haradatta as jāyāpatisamavāye, "when wife and husband meet")."3 Since a superior never salutes an inferior, what is at issue here is how a wife should salute her husband and not vice versa (jāyaya bhartur abhivādane; Mask. on Gaut. VI.6). According to Tryambaka's explanation, 'this means that there is no rule to the effect that when such a salutation is being made (by the wife to the husband), an abhivādanīya name must be used; she should use instead whatever ordinary name (vyavahāropayukta) is current at that time.' The implications of this statement are discussed above. Haradatta and Maskarin say much the same thing, adding only one proviso. If the husband knows the rules of formal responses (yady api bhartă pratyabhivādanajñaḥ; Har., Mask.) then there is no need for any modifying rule (aham ayam ity evamādi niyamo nāsti; Mask.); she may use any form of address (yena kenacit prakāreṇa kartavyam, Mask.). 
 
@@ -113,7 +113,7 @@ The behaviour appropriate to one's in-laws is described in a śloka taken from D
 
  
 
-164 
+[[164]]
 
 Siridharmapaddhati 
 
@@ -137,7 +137,7 @@ and tapodhana). See also Sdhp.32v.4-5, section IV.4.d.
 
 Day 
 
-165 
+[[165]]
 
 serves (bhajat [i]) me with all her being." For the range of meanings associated with the verb bhaj, see Tryambaka's introductory verses (pp. 29-30). 
 
@@ -153,7 +153,7 @@ Like Bhisma in his discourse to Yudhisthira (and with similar incongruence), Try
 
  
 
-166 
+[[166]]
 
 was foreseen by the ancients, he will become a candāla among brah- mins.'12 
 
@@ -169,7 +169,7 @@ These rulings regarding the proper behaviour of the wife (and in particular, the
 
 Day 
 
-167 
+[[167]]
 
 strongly reminiscent of those describing the proper behaviour of the student towards his teacher. According to Baudhayana, for example, the duties of the student include attending to his teacher's morning toilet (prasādhana), rubbing his body with oil (ucchādana; alter- natively utsādana, shampooing'), helping him bath (snapanam), eating the remains of his meal (ucchiṣṭa; cf. pp. 221–7), and so on (Baudh. 1.2.3.35). By the process of identification mentioned above, he should perform the same services for his teacher's wife (Baudh. I.2.3.37), although Manu's condemnation of this practice (II.211) seems more in keeping with orthodox views on the natural pro- miscuity of women (see section III). In his eagerness to be of service, the student should run after his teacher if he runs (dhā- vantam anudhāvet), walk with him when he walks (gacchantam anugacchet), stand beside him when he stands (tiṣṭhantam anutiṣṭhet; Baudh.I.2.3.38; Ap.1.2.6.7-9; Vas. VII.12; Manu II.196). Manu II.202 adds that the student should not employ anyone else to honour his teacher while he himself stands apart (durasth[ah]; parahastapreșitapraṇāma, Sarv.; anyam niyujya malyavasträdinā gurum närcayet, Kull.). In the same way, while she may delegate her more mundane household tasks (see section IIA, pp. 64–5), the ideal wife should not delegate any service to her husband to another, whether servant or co-wife. 
 
@@ -179,7 +179,7 @@ The three atigurus of a woman's religious life are her husband and her parents-i
 
  
 
-168 
+[[168]]
 
 perpetual student serves his teacher (cf. Manu II.243-4, 249), she will achieve the highest reward. 
 
@@ -203,7 +203,7 @@ Tryambaka proceeds to describe in more detail one very important contribution (u
 
 Day 
 
-169 
+[[169]]
 
 The comment that follows is Tryambaka's. ""Saving money" means "keeping it safe". "Spending" means "in ways not prohi- bited by the rulings of dharmaśāstra”. “Keeping things pure” covers "objects, the body and so forth". "Religious matters" means "such things as offering hospitality to guests". "The preparation of food" means "cooking it". "(Looking after) the household utensils" means "seeing to such household paraphernalia as beds, seats, water-pots and frying-pans". (This is how) he should employ his wife.'17 
 
@@ -217,7 +217,7 @@ After a digression on whether or not the wife may speak to other men (pp. 170-6)
 
  
 
-170 
+[[170]]
 
 Tryambaka explains. 'With the money given (to her by her husband) to cover her household tasks, the chief wife (patnī) should carry out those tasks in whatever way she can and (still) keep some- thing back. But she should not keep anything back out of greed from the money given (to her) for religious purposes (dharm- ärtham).'18 As evidence for this, Tryambaka quotes one and a half slokas attributed to Manu that say much the same thing. 'The husband should place in his wife's charge (lit. "hand") the money which is to be spent on the home. She should carry out her household tasks and (yet in doing so) deliberately keep something back. But if she is given money for the purpose of religious donation (dän- ārtham), she should not keep any of that back out of greed.'19 
 
@@ -235,7 +235,7 @@ The rest of this section on household tasks is taken up with a lengthy discussio
 
 Day 
 
-171 
+[[171]]
 
 baka eventually explains, it denotes any man who is not related to her. 
 
@@ -247,7 +247,7 @@ We may note here that while a woman may converse with a male renouncer she may h
 
 [^21]: na parapuruṣam abhibhāṣetänyatra vahikpravrajitavaidyavṛddhebhyah // Sdhp.11v.7-8< Mit. on Yajñ.1.87 (Sankh.); Apar. on Yājñ.1.83 (Śankh.); not in SS edn. of Śankhasmrti; see also Sdhp.22r.9-10, section IV (Śankh.); Dharmak.III.p.175 (Śankh.). iti sankhasmṛtau vyavahāropayuktai[h] purusaih sambhāṣaṇasyānumatatvāt // Sdhp.11v.8–9. 
 
-172 
+[[172]]
 
 for another reason altogether: they (together with widows) are included in the list of 'go-betweens' (dūtī) considered suitable for conducting illicit affairs (bhikṣukī; Kām.V.4.62). 
 
@@ -265,7 +265,7 @@ The crucial phrase, tṛṇam antarataḥ kṛtvā, appears both in the Rāmāya
 
 Day 
 
-173 
+[[173]]
 
 symbolic 'barrier' between herself and the parapuruşa with whom she should not converse. It is quite likely, of course, that the phrase is also a kind of pun, evoking the contempt of the cvi formation. Certainly, in the Madras edition I have used, the chapter describing the incident is entitled rāvanatṛnikaranam (Rām.V.21, subheading). But a translation that completely omits the literal meaning misses the point.24 
 
@@ -277,7 +277,7 @@ Tryambaka's example of a good woman speaking directly to an unrelated man (witho
 
  
 
-174 
+[[174]]
 
 verse with you when you are also here alone ?26 I (already) know that you are Suratha's son, whom men call Kotikāśya. I shall therefore do the same for you, O Śaibya, and tell you about my relations and my celebrated family.27 (Tryambaka in fact omits verse 5 which ex- plains that she is Drupada's daughter and the wife of the five Pandavas.) The sons of Pṛthả (Kuntī as chief wife)- Yudhisthira, Bhimasena and Arjuna, and the two most heroic sons of Mādrī— have left me here and gone out hunting in each of the four direc- tions.28 (Tryambaka omits the half-verse that describes which husband went where.) But I think it is almost time for these supreme charioteers to return here. When you have received (due) honour from them, you may go as you wish; (until then) unharness your horses and dismount. (Yudhisthira,) the great-souled son of Dharma loves to receive guests and so he will be pleased to see you.29 Saying so much (i.e. and no more) to the son of the Saibya king, Drupada's moon-faced daughter departed. Thinking (only) of her duty to offer hospitality to them (as her husbands' guests), she entered that excellent hut made of leaves. '30 
 
@@ -297,7 +297,7 @@ Tryambaka concludes that 'this is how women should talk to
 
 Day 
 
-175 
+[[175]]
 
 men to whom they are not related'. He adds that 'there is no blame attached to conversing with those to whom they are related (svīyaiḥ saha).'31 We need only note here that Tryambaka's extremely orthodox advice is of no practical value to either Sītā or Draupadi. Each in turn follows the rules of stridharma to the letter; both are abducted anyway. Tryambaka's satisfaction with their behaviour stems not from the success of either strategem but from the fact that, in orthodox eyes, neither Sitä nor Draupadi is to blame. For a woman that is small consolation. 
 
@@ -309,7 +309,7 @@ This topic is evidently dear to Tryambaka's heart for it reappears at some lengt
 
  
 
-176 
+[[176]]
 
 explain why he felt it so necessary to stress the point for the Maratha women at the court of Thanjavur. 
 
@@ -325,7 +325,7 @@ In the fifth division of an eightfold day, before his midday meal, a man should 
 
 Day 
 
-177 
+[[177]]
 
 comprising offerings to Brahman (brahmayajña; the study and teaching of the Veda; cf. Manu III. 70ff.; japa, Kull.), the gods (devayajña; homa, Kull.), the ancestors (pitṛyajña; tarpaṇa, Kull.), men (manuṣyayajña; atithipüjā, Kull.) and all beings (bhūtayajña; bali, Kull.). With reference to women, Tryambaka mentions only four rituals; and these do not correspond exactly with the pre- viously mentioned five. The vaiśvadeva ritual (see pp. 180-3) comprises offerings of cooked food to all gods and is said by some authorities to correspond to the devayajña, pitṛyajña and bhūtayajña (Sm.A.p.47; Par.M.I.i.p.389; Dakṣa II.56; cf. Gonda 1980:414–15). According to others, the requirements of these three are met by the vaiśvadeva and baliharana rituals together (e.g. Gov. on Baudh. II.6.11.4). Hospitality to guests (atithipüjä, see pp. 183-210), corresponds to manuṣyavajña. Balidāna, an offering to the goddess Jyesṭhā (see pp. 277-9), seems to be the wife's version of baliharana (bhūtayajña; cf. Gonda 1980:417ff.). Brahmayajña (consisting of Vedic study) is predictably not mentioned. 
 
@@ -335,7 +335,7 @@ Several of the rituals are performed twice a day: the homa offerings and twiligh
 
  
 
-178 
+[[178]]
 
 yajña or the offering to fire, called also Homa, or Viśva offering' (1979:154). 
 
@@ -353,7 +353,7 @@ Despite the vast medieval literature on the subject, Tryambaka tells us very lit
 
 Day 
 
-179 
+[[179]]
 
 out being told (to do so), should make ready all the items for worship such as the water for the observances and the sacred grass, together with leaves, flowers, unbroken rice and so on. Without anxiety and with great joy, anticipating (each) moment, she should place everything near (her husband), (each item) at the appropriate time, '35 
 
@@ -363,7 +363,7 @@ The items specified may be related to the various stages of worship (upacāra). 
 
  
 
-180 
+[[180]]
 
 As described by Tryambaka, this is a classic example of the wife's role of assistant to her husband in religious rituals (dharma- patni). Strictly speaking, this is the case even in domestic image worship today. For while the wife or mother of an orthodox household may spend a large amount of time in the püjä room- perhaps offering various upacāras without mantras, or following the śüdra example of using puranic mantras instead-in orthodox terms, her worship is strictly devotional. For unless a woman has been initiated, has undergone the required Vedic education, has been taught the mantras and precisely what to say and do, she may not offer the full devapujä with Vedic mantras herself. Her husband or a priest must do it for her. In fact, in today's pūjā, the woman usually does everything except the crucial part of the ritual reserved for her husband; he does that, and then goes to the office. She may also touch her husband's arm during the ceremony in order to earn her share of his merit. For in effect, now as in Tryambaka's day, she can only assist. 
 
@@ -379,7 +379,7 @@ As explained briefly above (pp. 177-8), this offering of cooked food to all the 
 
 Day 
 
-181 
+[[181]]
 
 second quotation, attributed to Vyasa, applies to the vaiśvadeva ritual. 'After taking her (ritual) bath, the senior wife (patni) should cook (food) in the home: (that) for the naivedya ritual (should be prepared) in a separate pot, and the delicacies (vyañjanāni) for the vaiśvadeva ritual separately in another.'37 
 
@@ -393,7 +393,7 @@ Secondly, unlike the sweeping and cleaning of the home, the cooking of food is n
 
 [^37]: vyāso pi // naivedyārtham pṛthagbhāṇḍe patni snätvā paced gṛhe vaisvade värtham anyasmin vyanjanāni prthak pṛthak // iti // Sdhp.13r.2-3 (Vyāsa)<? 
 
-182 
+[[182]]
 
 Continuing this theme of the wife as religious assistant, Tryamba- ka explains that 'the patnī too should be present at the time of the vaiśvadeva ritual.'38 He quotes Nārāyaṇa. 'Bathed, ritually pure, accompanied by his wife, and without speaking, (a man) should sip (water) according to the injunction, sit down and, when the fire is lit, he should perform the vaiśvadeva ritual.'39 The quotation demonstrates that the male householder performs the ritual; all that is required of the wife at this stage is her presence. The question of the patni's presence at rituals is discussed in more detail with regard to the homa offerings (see above, pp.132-41). The overlap between homa, devayajña and vaiśvadeva suggests that the impli- cations here are the same. 
 
@@ -413,7 +413,7 @@ Secondly, both the term ayatanāni (cf. agnyāyatanam) and the wife's task of de
 
 Day 
 
-183 
+[[183]]
 
 bility in the fire sacrifice; in the vaiśvadeva ritual, she does the cooking too. 
 
@@ -431,7 +431,7 @@ Kāle is glossed by Haradatta as 'after the vaiśvadeva ritual' (Ujj.; cf. Mit. 
 
  
 
-184 
+[[184]]
 
 water is for such things as washing the guest's feet (pädaprakṣā- lanādyarthajala°; Kull.); according to Nandana, if there are no unguents with which to massage them (pādābhyañjanābhāve). Manu's 'friendly speech' (sūnṛtā) is explained by Medhātithi as that which is both pleasant and salutary (priyahitavacanam). Nandana's gloss quotes Apastamba (kalyāṇī vāg) and adds that this is ap- propriate if there is no food (annābhāve). 
 
@@ -447,7 +447,7 @@ On these general points of timing and importance, a few obser- vations may be ma
 
 Day 
 
-185 
+[[185]]
 
 when I deal with the wife's bali offering to the goddess Jyesthā (balidānam; see below, pp. 227–9). 
 
@@ -461,7 +461,7 @@ Tryambaka begins with a prose recapitulation of the story to pro- vide the frame
 
  
 
-186 
+[[186]]
 
 some work such as Tryambaka's own Dharmākūta. Alternatively, the prose passages may be original to this treatise. The recapitula- 
 
@@ -479,7 +479,7 @@ Tryambaka then quotes the first of the three verses from the Kathopaniṣad. (Li
 
 Day 
 
-187 
+[[187]]
 
 ‘quench' a fire (dāham śamayanta iva; Śankara), so one must ‘ap- pease' the guest by offering water to wash his feet, a seat and so on (etām pādyāsanādidānalakṣaṇām... santo 'tithir; Sankara, Dh.kosa II.iii.p.1390). Hence the summons to bring water to wash Naciketas' feet. The implication is clear: a guest not honoured in this way will destroy that household like a raging fire. 
 
@@ -493,7 +493,7 @@ The third verse presents Yama's reply. He begins by admitting that Naciketas is 
 
  
 
-188 
+[[188]]
 
 I bow to you, O brahmin. May all go well with me!'49 Sankara explains that each (day and) night that Naciketas has been neglected merits a wish in return (rātrim prati trīn varān; Śankara, Dh.kośa II.iii.p.1391). Tryambaka's closing comment agrees. 'Appeasing (Naciketas) in this way, he (Yama) presented him with three wishes to remove the sin of having had him stay in his house without eating for three days.'50 
 
@@ -511,7 +511,7 @@ In the context of the Upanisad, this is the ecstatic chant of the enlightened ma
 
 Day 
 
-189 
+[[189]]
 
 devam), thus making me his own (svikaroti). But if a man, without giving me away (mām adattvā), himself eats (svayam eva atti)- then I, the god of food, eat him (tam... annadevo 'ham admi); that is, I cause him to be utterly destroyed (tam vināśayāmi; Sāy. on Tait.Br., Dh.kośa II.i.p.477-8). Sankara, commenting on the Upaniṣad, glosses āvāḥ as 'he protects' (avati). According to Sāyaṇa, the fire of the stomach (udarāgniḥ) 'burns' or digests (dahati pācayati) the food that is eaten for only a day. But the man who eats without giving (adātā tu bhoktā) burns then and there (tadānīm eva dahyate) from the food he is eating (bhujyamānenännena). 'Before the fire' means 'before the cremation fire', that is, in this world. For the sin of not feeding others, which is enough to send a man to hell, arises at that very moment (narakahetoḥ pratyavāyasya tadaivotpannatvāt). The image of the cremation fire serves both as an analogy for the sinner's internal burning in this life and as a reminder of the hell- fires to come. 
 
@@ -525,7 +525,7 @@ The earlier threat of internal fires has been replaced by that of death by poiso
 
  
 
-190 
+[[190]]
 
 he ought, the food is transformed into nectar and digests easily. If he does not, it changes within his body and--as either fire or poison-destroys him. For, as Baudhāyana quotes elsewhere, food is life (annam prāṇam iti; cf. Tait.Br.II.8.8.3) and therefore must be given; it is the highest offering (paramam haviḥ) one can make (Baudh.II.3.6.41). 
 
@@ -543,7 +543,7 @@ The assumption here, as earlier, is that the guest in question is a brahmin. Alt
 
 Day 
 
-191 
+[[191]]
 
 food and so on, it seems that the curse of the brahmin guest is what is really feared. It is this fear that constrains Sītā when she is con- fronted by Ravana disguised as a brahmin renouncer. Since he is a guest and a brahmin (brāhmaṇas cătithiś cāyam), Sītā reasons, he has the power to curse her if ignored (anukto hi sapeta mām; Rām. III.47.2). So she offers him homage and hospitality as she ought. Tryambaka returns to this episode below (pp.200–1). 
 
@@ -553,7 +553,7 @@ But the householder brahmin described here (by both Manu and Tryambaka) is not o
 
 Tryambaka pursues this theme still further in several slokas attributed to the Asvamedhikaparvan. They describe two kinds of 
 
-192 
+[[192]]
 
 eminent householders who, by virtue of their highly meritorious practices, might be considered immune to the dangers of not wel- coming a guest. In each case, neglect of the guest renders all their previous activities useless. 
 
@@ -569,7 +569,7 @@ Pākayajña is defined in the gṛhyasūtras as a domestic sacrifice with cooked
 
 Day 
 
-193 
+[[193]]
 
 The threat in the last sloka that the householder neglectful of his guest will 'at once' (sadya eva) become a caṇḍāla refers to a 'visible' (drsta) not an otherwordly (adrṣṭa) result (see p.58). That man need not wait to be reborn as a candāla in his next life; he will at once be judged by others to be one. This recalls the point made by Sāyaṇa in his comment on the Taittirīyabrāhmaṇa quotation above (note 51). The 'visible' result of the man who eats without feeding others is that the food burns him then and there (tadānīm eva); he need not wait for the burning of the cremation fire or the flames of hell (Say. on Tait. Br., Dh.kośa II.1.p.477-8). 
 
@@ -581,7 +581,7 @@ The last sloka in the group attributed to the Aśvamedhikaparvan turns from the 
 
  
 
-194 
+[[194]]
 
 not eat oneself: paying homage to the guest (in this way) brings one wealth, fame, long life and heaven.'57 This ruling recalls Kullūka's interpretation of satkṛtya in Manu III.99: one should take the same care with seasoning, sauces, condiments and so on in relation to the guest's food as one does to one's own (vyañjanādibhiḥ sat- kṛtam cānnam, Kull.; see pp. 183-4). Since the wife is responsible for the cooking, this is in effect a ruling for her. 
 
@@ -601,7 +601,7 @@ Day
 
 sin (punyāpunyaphale samā; Apar.p.111, Bṛhaspati). 
 
-195 
+[[195]]
 
 There follows a series of slokas on the same subject, all attributed to the conversation between Tärkṣya and Sarasvati in the Āranyaka- parvan of the Mahābhārata (Mbh.III.184.1-25). In the critical edition of the Mahabharata, however, all the slokas are in fact to be found in the appendix to Mbh.III. 'The superior brahmin (lit. "best of twice-born") gives (food) to guests, beings and ancestors and (then) eats the dishes that remain (śiṣṭāny annāni) — what could be better than that? O Indra, there is nothing in the world more wholesome than this: that a man always gives food to guests and then eats of that (which is left). However many morsels of food a twice-born (guest) eats each day, the giver (host) receives the reward of (giving) that many thousands of cows (as sacrificial fee to the priests).'61 'O excellent Bharata, the reward (obtained) by washing the feet of a learned brahmin (guest) is (equal to) that obtained by giving a reddish-brown cow (cf. Yājñ.I.205) at Jyeṣṭhā lake (a sacred tīrtha; cf. PVK IV.p.759). As long as the ground remains wet from the water (used) for (washing) the feet of the twice-born, the ancestors will drink water from a lotus petal (cup). Welcoming (a guest) pleases the (three śrauta) fires; (offering) a seat (pleases) Indra; washing the feet (pleases) the ancestors; (offering) food (pleases) Prajapati.'62 
 
@@ -613,7 +613,7 @@ The emphasis on the idea that one should offer food to the guest and then eat wh
 
  
 
-196 
+[[196]]
 
 the guest is like fire. Like the sacrificial fire, he consumes the offering. What is left, like prasada, is blessed. According to Manu III.285, one should eat both the residue of the offering to guests (vighasobhuktaśeṣam) and that of the sacrifice (vajñaśeṣam... amṛtam) every day. For in both 'sacrifices', food is magically transformed into nectar. A similar idea is to be found in the ruling that a pupil should first offer his alms-food to his teacher and then eat what is left: in this case, the teacher is the deity, the alms-food the sacrificial offering (bhaikṣam haviṣā) and the teacher's stomach the ahavaniya fire (Ap.I.1.3.43-1.1.4.2). Similarly, at meal-times, the wife should offer cooked food to her husband and then eat what he leaves. I shall return to this point below (see ucchista, pp. 221-7). 
 
@@ -623,7 +623,7 @@ Apastamba frequently cites the Brāhmaṇas; more often than not with the phrase
 
 Day 
 
-197 
+[[197]]
 
 sambandhaḥ to mean 'referring to each person' instead of 'referring to each sūtra'. To make sense of this translation, we must assume the verb and general construction of sūtras 12 (räjänam ced atithir abhyagacchet...) and 13 (ähitägnim ced atithir abhyagacchet...). According to Bühler's interpretation, therefore, we have a threefold distinction: the behaviour of a brahmin (sūtras 1-11); that of a king (sūtra 12); and that of an agnihotrin (sūtra 13). 
 
@@ -635,7 +635,7 @@ The passage reads as follows. 'That same (homage to guests; or "sacrifice to men
 
  
 
-198 
+[[198]]
 
 and in the evening, these (three rituals) become the (three) pressings of soma. When one rises after (the guest himself has risen to go; yad gantum uttiṣṭham anutisthati, Ujj.), that is the ritual of leaving the place of sacrifice. When one addresses (the guest) kindly, (i.e. when one performs the ritual of) praise, that is the sacrificial fee. When one takes one's leave (of a guest; i.e. follows him out as a mark of respect; anuvrajanam, Ujj.), his steps are the visnukramāḥ (the steps taken by the sacrificer between the altar and the ahavanīya fire). When one comes back (into the house afterwards), that is the purificatory bath (marking the end of the sacrifice). Thus declares the Brähmaṇa text.' 
 
@@ -653,7 +653,7 @@ I shall begin with a point raised by Tryambaka considerably earlier, in the cont
 
 Day 
 
-199 
+[[199]]
 
 for this ruling-given in his section on the vaiśvadeva ritual but, for reasons of consistency, dealt with here-is taken from the chapter in the Visnupurana describing the conversation between the seer, Ṛbhu, and his pupil, Nidāgha (ṛbhunidāghasamvāda). When Rbhu comes to Nidāgha's house as a guest, Nidāgha instructs his wife, Śālinī, as follows. ““O Śālinī, using all the most exquisite delicacies to be found in my house, prepare food for him." Instructed in this way by him (Nidāgha), his wife prepared that food which is (considered) wholesome (i.e. acceptable) for a brahmin (lit. “twice- born"); (and she did this) because of the authority of a husband's command.'65 
 
@@ -669,7 +669,7 @@ Returning to Tryambaka's section on atithipüjā, and back in sequence once more
 
  
 
-200 
+[[200]]
 
 who has come to a house where there is both a wife and the (three) fires."'67 
 
@@ -685,7 +685,7 @@ Tryambaka draws his evidence for this ruling from the two episodes cited earlier
 
 Day 
 
-201 
+[[201]]
 
 was carrying an alms-bowl and water-pot, and that it was impos- sible to find a way of avoiding him, the woman Maithili invited him as (one usually invites) a brahmin. "Here is a cushion (bṛsi), O brahmin: sit if you will. And here is water for washing your feet: please accept it. And here, prepared (especially) for you, is the best forest produce: may you eat here undisturbed." '67 
 
@@ -695,7 +695,7 @@ The earlier lengthy quotation concerning Draupadi and Jaya- dratha's messenger, 
 
 [^69]: dvijātiveṣeṇa hi tam dṛṣṭvā rāvaṇam āgatam ¡¡ sarvair atithisatkāraiḥ pūjayāmāsa maithili | upānīyāsanam pūrvam pädyenābhinimantrya ca || abravit siddham ity eva tada tam saumyadarsanam dvijativeṣena samiksya maithili samāgatam pātrakusumbhadhāriṇam / aśakyam uddvestum upaya- darśanam nyamantrayad brähmanavat tadānganā iyam brsi brahmana kāma‹ka)m āsyatām idam ca pādyam pratigṛhyatām(iti/<idam ca siddham vanajātam uttamam tvadartham avyagram ihopabhujyatām || iti // Sdhp. 15v. 3-8 (cātrakusumbhadhāriņam amended to patra'; idam ca siddham... ihopabhujyatām given as marginal insert; Ram.) < Răm.III.46.32b-35 (upaniyāsanam for upānīyāsanam; upāyadarśanān for upāyadarśanam); Dhar- māk.III.p.174 (Ram.III.46.32b-33a, given as one śloka). PT prefers the variant reading saumyadarsana for 'darsanam. 
 
-202 
+[[202]]
 
 After receiving Kotikasya's report, Jayadratha decides to pay Draupadi a visit. Draupadi's response is to show him the respect due to the guest. Her formal invitation forms Tryambaka's next quotation. 
 
@@ -709,7 +709,7 @@ I have taken the term mṛga on its own to denote the various species of deer-at
 
 Day 
 
-203 
+[[203]]
 
 While Sita's offering of fruit and vegetables is appropriate for the brahmin ascetic, Draupadi's offering of a splendid selection of meat dishes is equally appropriate for a kṣatriya king. (Before their exile, Draupadi supervised the daily feeding of eight thousand brahmins off golden plates; see Sdhp.29v.10–30r.3<Mbh.III.222. 40-3; from section IV, pp.280-1). The other formalities are the same, as is the requirement that the ideal wife obeys the rules of hospitality even when she suspects that her 'guest' is a rogue. In both cases, obedience far outweighs commonsense. 
 
@@ -725,7 +725,7 @@ Two points may be made here. First, this is the only occasion in Tryambaka's tre
 
  
 
-204 
+[[204]]
 
 (e.g. yo mā dadāti; yo datvā; etc.) or applied directly to the male householder (e.g. dvijaḥ, gṛhī, etc.). Despite the fact that the wife's presence is more important than that of her husband, and that she will actually prepare and serve the food, the ruling is invariably aimed at the husband. Moreover, the reward for obedience and the punishment for disobedience are, as we.have seen, both explained in terms of the husband's gain or loss (see pp.188-93, 193–6). The wife's part in all this must be read between the lines. In dharma- śāstra literature in general, however, the rulings relating to giving alms to the Vedic student are consistently couched in the feminine. 
 
@@ -739,7 +739,7 @@ Day
 
 right to dispose of it (see section IV, pp.277-80). 
 
-205 
+[[205]]
 
 The threat to the wife's 'sacred learning' is the most curious of all. For while the wife may be said to act ‘jointly' with her husband in matters relating to religious rituals, donations, property and children—and thus that the rewards accrue to both of them— this cannot be said of Vedic learning. In the Taittiriyopaniṣad, 'the glory of sacred learning' (brahmavarcasam) — together with off- spring, cattle and fame—is the goal and reward of the enlightened man (Tait.Up.III.6,7,8,9,10). In dharmaśāstra, the same phrase is used specifically in contexts relating to Vedic studentship. Manu II.37, for example, rules that if a brahmin boy desires this goal (brahmavarcasakāmasya), he should be initiated in his fifth year. Kullūka glosses the term as 'the ascetic power made brilliant by such things as knowing how to recite the Veda and knowing what it means' (vedadhyayanatadarthajñānādiprakarṣakrtam tejas). Ac- cording to the orthodox view, this may apply to a woman's husband or to her son, but never to herself. We seem to have three options here. We could assume that the ruling dates from an earlier age when women did have access to Vedic study. Or we could reinterpret the phrase in terms of 'domestic glory' (cf. Sankara's gloss on panditā, discussed in section I, p. 38). Or we could take more literally the maxim that 'husband and wife are one' (yo bharta sa smṛtānganā; Manu IX.45), assume their complete identification in matters of religious achievement and merit (yataś ca dampatyor aikyamataḥ; Kull.), and interpret all the threats accordingly. 
 
@@ -751,7 +751,7 @@ Tryambaka quotes Vyasa. 'At the appropriate time, the wife- that is, the female 
 
  
 
-206 
+[[206]]
 
 respect and speaking pleasantly, as is fitting and in accordance with their merits, to (each of the following people): one's elders (or those who are worthy of respect; cf. pp.156-7), the friends of one's son(s), one's relations, the labourers one supports, those one has invited, any male or female slaves (dāsīdāsajanasya), both guests (proper) and (ordinary) visitors, and those religious mendicants who wear a sectarian mark (bhikṣukānām ca linginām).’74 
 
@@ -763,7 +763,7 @@ This is not for lack of respect. The renouncer in particular is accorded enormou
 
 Day 
 
-207 
+[[207]]
 
 sit down to a formal meal (cf. Olivelle 1977:47-8). Food is no longer of great importance to him. Nonetheless, as Tryambaka explains in his section on general behaviour, the ideal wife never eats before she has distributed food to gods, ancestors, guests, servants, cows and the company of religious mendicants (bhikṣukuleṣu, Sdhp. 23r.10-23v.1; from section IV, pp.273-4). The reference to a sec- tarian mark (cf. section IIA, pp.99-100), deliberately excludes mendicants belonging to non-Hindu sects. Buddhist and Jain monks, for example, and others like them, should not be fed at all by the orthodox Hindu. 
 
@@ -771,7 +771,7 @@ Surprisingly, Tryambaka does not in fact define the term 'guest' (atithi). The d
 
  
 
-208 
+[[208]]
 
 Tryambaka next considers the order in which 'guests' and 'visitors' should be made welcome. According to Apastamba, 'the feeding of guests comes first."75 The quotation runs as follows. ‘One should feed guests first of all; then children, the old, the sick and any pregnant woman ([a]ntarvatniḥ; but see Ujj. below). The two owners (of the house) should not refuse anyone who asks for food at the (appropriate) time.'76 The last sutra is also quoted at the beginning of this section on atithipüjā (see above, note 43). 
 
@@ -789,7 +789,7 @@ Tryambaka concludes the commentary himself. ‘(This is so) because it says in t
 
 Day 
 
-209 
+[[209]]
 
 "everyone". Therefore what is needed (food, etc.) should be given to whoever (comes) at whatever time (he comes).'78 
 
@@ -801,7 +801,7 @@ Certainly, the custom in the more traditional homes today is for the women to ea
 
  
 
-210 
+[[210]]
 
 male members of the household. In view of the importance of children and other rulings on pregnancy, the special treatment of the pregnant woman is not surprising (cf. section IV, pp.289-90). Finally, Tryambaka's last rather sweeping comment seems to render unnecessary most of the careful rulings he has made so far. 
 
@@ -821,7 +821,7 @@ Tryambaka begins with the statement that the religious duty of
 
 Day 
 
-211 
+[[211]]
 
 women also includes serving at meals (pariveṣaṇam).80 Four quotations follow: the first indicates the duty of the wife to serve food to brahmins; the remaining three describe her duty to serve at her husband's meal (see plate 7). 
 
@@ -835,7 +835,7 @@ The story of Uttańka,81 from the Adiparvan of the Mahābhārata, is a curious o
 
 [^82]: ata evādiparvani uttankopadhyayinyaḥ pativesanam uktam // saivam uktopadhyayiny uttankam uvāca/gaccha pausyam bhikṣasva tasya kṣatriyaya ye pinaddhe kundale staḥ te anayasveti/ itaś caturthe 'hani punyakam bhavitā/ tābhyām ābaddhābhyam brāhmaṇān parivestum icchāmi sobhayamānā mām yathā tābhyām kundaläbhyam tasminn ahani sampadayami / śreyo hi te syād 
 
-212 
+[[212]]
 
 Tryambaka's point is that if brahmins are to be fed, then the host's chief wife should serve them. We may note two further points. First, the story is an interesting demonstration of a conflict of duties: the student's duty to obey his teacher to the letter; the prohibition on intercourse with one's teacher's wife (one of the five mahāpātakas or 'great sins'; cf. pp.219-20); and the duty not to let a woman's 'season' (rtu) pass neglected (ṛtukāladharmaḥ; section IV, pp.287-8). Uttanka solves his problem by weighing the opinions of the women (strīṇām vacanam) against the unspoken intentions of his teacher; not surprisingly, the latter prevails. In the final section of his treatise, Tryambaka discusses the question of women caught in similar conflicts. His advice is predictable: the wife's first duty is to obey her husband even when this conflicts with other duties (itaradharmopamardenāpi; see section V, pp.308-9), even when it involves uoing something that is normally considered wrong (akaryakarane 'pi; section V, pp.309-12). In Tryambaka's view, therefore, Veda's wife is in the wrong: her duty to obey her hus- band's wishes should outweigh the urgency of the ṛtu. All the more surprising perhaps that Tryambaka refers to the episode at all. 
 
@@ -847,7 +847,7 @@ bhikṣaṇam kurvata iti // Sdhp.16v.8–17r.2 (Mbh.)<Mbh.I.3.100 (pratyuvāca 
 
 Day 
 
-213 
+[[213]]
 
 Such words apply to the woman because of her relationship with her husband (pumyogād ete sabdaḥ striyām vartante), and not because she possesses that same quality herself (na tu pumāmsamācakṣate; Kāś. on Pāṇ.IV.1.48). Pāṇ.IV.1.49 (°ācāryāṇam ānuk) rules that certain words such as ācārya add the augment an before the suffix -ī to indicate this relationship of wife to husband. Thus Indra be- comes Indrāni ('Indra's wife'); Varuna becomes Varuṇānī ('Varuna's wife'); and ācārya ('male teacher') becomes ācāryāṇī (‘a teacher's wife'). According to the Käsikā, several words take this augument optionally. Thus upādhyāya ('male teacher') becomes either upă- dhyādhyānī or upādhyāyī (both denoting 'the wife of the teacher'; see Mbh.I.3.100, variant readings; cf. Katy. on Pan.III.3.21); kṣatriya becomes kṣatriyāṇī or kṣatriyā (both denoting the wife of a kṣatriya). It is not clear, therefore, whether the use of the term ksatriyā in the Mahābhārata quotation is meant to indicate a kṣatriya woman or the wife of a kṣatriya man; in fact epic Sanskrit is often not precise. The use of the term upādhyāyiṇī (and variant readings upādhyāyānī and upādhāyī) is clear: the knowledge belongs to the husband not the wife. It should be understood, however, that the distinction between women teachers and the wives of teachers admits of the possibility—in Panini's time if not in Tryambaka's-of women of both categories. 
 
@@ -861,7 +861,7 @@ Tryambaka's next three quotations demonstrate that the wife should serve her hus
 
  
 
-214 
+[[214]]
 
 wife. The reference to Draupadi feeding her husbands ‘like a mother' (māteva) recalls the popular subhāṣita that describes the ideal wife as one who is like a slave in her work (kārye dāsī), like a courtesan in bed (ratau veśyā), a mother with regard to food (bhojane jananī- samā), and a counsellor in adversity (vipatsu māntriṇī, vipattau buddhidātrī; Pad.P. srstikhanda 47.56; Subh.p.366, satīvarṇanam 9, 27). The Buddhist equivalent, the patibbatā, is similarly defined as a woman who cares for her husband as devotedly as a mother does for her child (Vim.I.11). Even the Buddha, lecturing the unruly Sujātā on strīdharma, lists the motherly type (mātā) among the four desirable kinds of wife; the others are the sisterly type (bhagini), the companion (sakhi) and the slave (dāsī; Ang. Nik.IV.p.91-4). Unlike Draupadi, however, Sujātā opts to be her husband's slave. Tryambaka alludes to these types himself in his section on women's property: Kausalya's virtue is demonstrated by the fact that she relates to her husband as slave (dāsīvat), friend (sakhīvat), wife (bhāryāvat), sister (bhaginīvat) and mother (mātṛvat), even when her husband ill-treats her (Sdhp.26[2]r.6-26[2]v.2; from section IV, pp.277-80). 
 
@@ -875,7 +875,7 @@ Tryambaka's second major point is that 'the wife should not be in the presence o
 
 Day 
 
-215 
+[[215]]
 
 eat in the vicinity of his wife or his offspring will be without strength. '88 
 
@@ -887,7 +887,7 @@ The significance of Tryambaka's prohibition, however, is by no means obvious. In
 
  
 
-216 
+[[216]]
 
 ca paśyatām); nor should many eat when one such person is watch- ing (ekasya pasyataḥ; Sm.C.II.p.615). However, Vis.Sm.68.46 differentiates between this ruling (bahūnām prekṣamāṇānām nai- kasmin bahavas tatha) and the requirement not to eat 'together with' one's wife (nāśnīyād bhāryayā sārdham), thus implying that the reasons behind them are different. 
 
@@ -897,7 +897,7 @@ It is clear, however, that such views were not universally accepted. Nandapandit
 
 Day 
 
-217 
+[[217]]
 
 custom for southerners to eat with their wives, in his opinion this is 
 
@@ -917,7 +917,7 @@ dātāram nopatisthante
 
  
 
-218 
+[[218]]
 
 served by hand, it is not to be accepted anywhere; and therefore one should serve (such) food (only if it is) contained in a leaf or grass (bowl or cup) and not by hand. '95 
 
@@ -937,7 +937,7 @@ The first quotation is attributed to Āpastamba, 'Cooked food (kṛtānnam; alte
 
 Day 
 
-219 
+[[219]]
 
 should be served with a ladle.'97 Āpastamba is also credited with the pronouncement regarding 'the sin (involved) in serving water and so on without a ladle ([ā]darvyā; i.e. by hand).'98 'Whoever wishes to serve water or cooked food without a ladle ([']darvyā) is (on the same level as) a brahmin-killer (bhrūnahā), a drinker of alcohol, a thief and one who sleeps with his teacher's wife. Neither food cooked with oil nor uncooked food should ever be (served) without a ladle (t[va]darvyā).'99 
 
@@ -951,7 +951,7 @@ We may note first that here, as so often before, Tryambaka depends heavily on th
 
  
 
-220 
+[[220]]
 
 bad practice of serving unequal portions to diners sitting in the same row (see below). 
 
@@ -967,7 +967,7 @@ Still on the subject of how the wife should serve the food, Tryam- baka rules th
 
 Day 
 
-221 
+[[221]]
 
 serving, she should not, on account of (her feelings of) affection and so forth, give unequal servings to those seated in the same row (ekapanktyupaviṣṭānām).'102 His evidence for this is attributed to Vasistha. 'When one gives (food) unequally to a row of diners (eka- panktau)—whether out of love or fear or the desire for gain-this action, seen in the Vedas and described in verse by the sages, the seers call "brahmin-murder" (brahmahatyām; cf. above).'103 
 
@@ -985,7 +985,7 @@ Unlike the custom of paying homage to the feet of one's parents- in-law (see pp.
 
 [^105]: tathā ca skände || strīņām hi paramas caiko niyamaḥ samudāhṛtaḥ | abhyarcya caranau bhartur bhoktavyam iti niscayah / iti / Sdhp.18r.3-4 (Skanda) < Sk.P.III.2.7.39 (bhoktavyam kṛtaniścayā). 
 
-222 
+[[222]]
 
 longer in evidence in Maharashtra today, nor was it even eighty years ago except perhaps as a preliminary to the wedding night (LSJ). Nonetheless, this gesture-reflecting as it does the many smrti statements to the effect that the husband is the 'god and master' of the wife (e.g. Manu V.154; Răm.II.24.21; Mbh.XIII. 134.51)—clearly was practised in orthodox households at least until the middle of the eighteenth century. Indeed, as already noted above (p.138), the high-caste village women of Nepal still 'pay homage' to their husbands' feet before every rice meal by drinking their 'foot water' (Bennett 1983: 174–5). Another possible inter- pretation of the ruling is that the wife should massage her husband's feet to relax him after the meal (see plate 8). 
 
@@ -1003,7 +1003,7 @@ Tryambaka's second point is that 'the wife (patnī) should eat what is left (ucc
 
 Day 
 
-223 
+[[223]]
 
 Apośana is the technical term for the water sipped from the cupped hand (from the brahmatīrtha; see acamana, section IIA, pp.75-7), in the ritual performed before eating (bhojanavidhí). After the vaisvadeva ritual, when the food is served, the man about to eat sprinkles water around the plate (paryușitam), announcing to the god of food: 'You are truth and I sprinkle you with truth' (satyam tva rtena pariṣiñcāmi, in the evening; ṛtam tvā satyena parişincămi, at midday; Sm.A.69-70). Next, he makes offerings of rice on the ground beside his plate (baliharanam) to the lord of the earth (bhupataye svāhā/bhuvanapataye svāhā/bhūtānām pataye svähā//). Then he sips a little water (apośanam; cf. Yājñ.I.106) from the base of his thumb, while announcing that it is nectar and will act as a 'cushion' for the god of food (amṛtopastaranam asi). Then he makes five offerings of rice to the five 'breaths' (prānāya svāhā| apānāya svāhā| udānāya svāhā| vyānāya svāhā| sāmānāya svähä //). After these five präṇāhutis, the late digests (and modern practice) add a sixth offering to Brahman: he touches water, then his eyelids and forehead (saying, brahmane namah), and only then begins to eat (LSJ;PVK II.i.p.764). At the end of the meal, he again sips a little water, announcing this time that it will act as the 'cover' for the god of food (amṛtāpidhānam asi). This ritual of bhojanavidhi is performed only by men. With some variations, it is still practised in the more orthodox households today (cf. Vidyārṇava 1979:163– 5). 
 
@@ -1011,7 +1011,7 @@ Ucchista is what is left on a person's plate after he has eaten, with some excep
 
  
 
-224 
+[[224]]
 
 should not eat the remains of anyone else's meal is relaxed only for the child (who may eat his parents' left-overs; cf. Sm.M.II.p.431); for the student (who should eat those of his teacher, at least in a formal sense; cf. Mit. on Yājñ.1.33; Baudh.1.2.3.35,etc.); for ser- vants (who should eat those of their master); and, in particular, for the wife (who should eat those of her husband, from his plate). Thus when Draupadi, disguised as a servant, agrees to work for Virāta's queen Sudeṣṇā, she insists that she will only work for one who does not give her 'left-overs' to eat or make her wash his feet (yo me na dadyād ucchiṣṭam na ca pādau pradhāvayet; Mbh.IV.8.29). The agreement between the two women that such things will not be required of her amounts to a promise that Virāta will make no sexual demands of Draupadi; that is, he will not treat her like a wife. Hence too the ruling that the menstruating woman should not eat from her husband's plate until she has been purified on the fourth day: marital intimacy is excluded at this time (see p.285). 
 
@@ -1021,7 +1021,7 @@ It must be remembered, however, that for food to be acceptable in the first plac
 
 Day 
 
-225 
+[[225]]
 
 secrated to the gods purifies all worshippers who receive it; and the remains of the husband's meal purify the wife.110 
 
@@ -1037,7 +1037,7 @@ A third point concerning this topic is that 'the patni should avoid all food, dr
 
  
 
-226 
+[[226]]
 
 A fortiori, 'the (good) wife should not eat (tasty or especially) wholesome food while neglecting (to serve them to) her husband.'113 A quotation attributed to ‘Skanda' explains. 'If a woman neglects her husband while she alone eats wholesome food, then she will be (reborn as) a village sow or a female bat that eats its own excre- ment.'114 Clearly, if a woman eats only what is left on her hus- band's plate, there is little danger that this might happen. Since the hog eats all the village refuse and excrement and is commonly known by names deriving from this fact (e.g vitcara, vidvaraha), the last epithet may refer to it as well as to the bat. We may also note that threats of this kind always specify a female animal for a female offender: not only is it normal for a woman to retain her gender in transmigration (cf. Manu XII.72; Sdhp.39v.10-40r.1, from section IV, p.188), but a female is always a step below the male in the scale of births. This point is discussed in more detail in section III on the inherent nature of women. 
 
@@ -1055,7 +1055,7 @@ The Satapathabrāhmaṇa gives one reason why the husband should
 
 Day 
 
-227 
+[[227]]
 
 eat apart from his wife (Śat.Br.X.5.2.9; see above, pp.214-17), and quite another for why the wife should eat apart from her husband. As is explained in the section on offerings made to the wives of the gods (patnīsamyāga), one should conceal such offerings and the fire from the sight of the male gods. If one does not do this, the gods will expect to receive those offerings themselves and so will be disappointed. The verse concludes: and this is why Yajña- valkya says that on earth too women should eat apart from men (Śat.Br.I.9.2.12). 
 
@@ -1071,7 +1071,7 @@ Jyestha, literally 'eldest', is the goddess of misfortune, personi-
 
  
 
-228 
+[[228]]
 
 fied as the elder sister of Laksmi or Śrī, the goddess of beauty and prosperity. According to some accounts of the myth of the great churning of the ocean by the gods and demons, Jyestha was born from the poison swallowed by Siva (e.g. Pad.P.VI.260.22-3). Ac- cording to the Lingapurāna (II.6.2ff.), she emerged from the ocean when it was churned for the second time (v.4). Jyestha (also called Alakṣmi, 'misfortune') represents the darker side of creation. As the Lingapurāna explains, in order to delude mankind (mohanāya), Visnu made the universe twofold (jagaddvaidham idam cakre). The good half (dharma) comprised the brahmins, the Vedas, and the goddess Śrī (v.3); the bad half (adharma) comprised wicked or inferior men (aśubhān), those outside the Vedas (veda[b]āhyān) and the goddess Jyesṭhā (v.4). The latter dwells far from the path of the Vedas (v.17,27) and is always present wherever husband and wife quarrel (yatra bhartă ca bhārya ca parasparavirodhinau; v.31) and wherever false mendicants (bhikṣu[b]imba; i.e. heretics), naked Jains (kṣapanaka) or Buddhists (bauddha) are found (v.54). Ac- cording to the myth, Jyestha married a sage who found her so irreli- gious and antisocial that he abandoned her in such a place where local divinities were worshipped and heretical (i.e. non-Vedic) rituals were performed. Instructing her to support herself on the offerings made by women devotees (v.79), the sage left her there. Eventually, Jyesthā repented of her ways and turned to Visnu for help. 
 
@@ -1081,7 +1081,7 @@ Throughout his treatise, Tryambaka insists that the orthodox wife should worship
 
 Day 
 
-229 
+[[229]]
 
 by two attendants, described in the texts as her son and daughter, and so has evidently earned the respect due to the mother of her husband's ritual heir. While the crow on her banner and the donkey ascribed to her in some texts are clearly inauspicious, the broom- stick is both a tool and a weapon.119 In fact, this highly ambivalent image combines many of the major themes relating to the high- caste senior wife: domestic concerns; ritual inferiority; and yet the acknowledged power in the home. As the goddess of 'inferior' people who lack Vedic initiation and ritual, Jyestha is the obvious recipient of the worship of women. But the offering of food by orthodox (yet uninitiated) women to such a goddess presents a marked contrast with the equivalent offerings made by their initiated husbands (cf. Leslie 1984). 
 
@@ -1095,7 +1095,7 @@ Tryambaka finally considers what the good wife should do after her meal (bhojan�
 
  
 
-230 
+[[230]]
 
 (istadevatā).'121 The act of dropping water into the eyes after a meal is both a ritual and a medical requirement. For the fingers used are those one has been eating with and the traces of food left on them (after washing) are believed to have healing qualities. The term upasparśana can mean touching something with water as a form of ablution but it is used in this context to denote the acamana ritual described earlier (pp.75-7). For even today it is the custom of orthodox men or initiated boys (e.g. in a traditional pāṭhaśālā) to eat, wash hands, drop water into the eyes, and then sit with their hands 'between their knees' (antarjānu; cf. section IIC, p.75) to do the sipping ritual (LSJ). The implication here is that women should do this too. 
 
@@ -1111,7 +1111,7 @@ To clarify this, Tryambaka gives Haradatta's commentary on the sutra, interspers
 
 Day 
 
-231 
+[[231]]
 
 at the time123—and on this subject (Tryambaka interjects), Amara declares that bhānda, pātra, amatra and bhäjana all mean "con- tainer" 124 — from them one should scrape the "traces", that is, the traces of food and condiments. Then one should wash (the vessels) with water. Then one should take (the vessels) to a clean place to the north, that is, of the house, saying "Let this be for Rudra; "125 or (Tryambaka interjects), according to another work, saying “May homage be to Rudra."126 In this way, the home becomes auspicious (śivam), that is, it becomes prosperous. This is the meaning (of the sūtrā), '127 
 
@@ -1127,7 +1127,7 @@ The wife's final post-prandial duty is to prepare betel. Two unattributed slokas
 
 [^127]: evam vāstu šivam bhavati samṛddham bhavatity arthaḥ// iti // Sdhp.19r. 6 (Ujj.) < Ujj. on Āp.II.2.4.24, Benares edn. (evam krtam for evam; sarva- samṛddham for samṛddham; bhavati and arthah omitted). 
 
-232 
+[[232]]
 
 ease, (one should prepare) something cleansing for the mouth using betel, and something cleansing (for the system) using one of the essential ingredients such as the sunthi root or the amalaka fruit. Then one should offer a good areca nut and a good leaf with powder- ed lime on it to the brahmins (i.e. guests) and to the gods; and after that one may chew betel (oneself).'128 In a medical context, sodhana (translated here as 'something cleansing') denotes medicine that removes bad humours (Meulenbeld 1974:511). In particular, śunthi (usually translated as 'dried ginger'129) and betel are taken to stimulate the digestion (Meulenbeld 1974:462-3; 474–5). Since it is the wife's duty to prepare all the items necessary for the gods in the devapujā ritual (including food and betel), and to prepare food for and serve her husband, his guests and family, we may assume that it is also her job to prepare and serve the items for refreshment and digestion after the meal (cf. Sinha 1980:126–7). We should also note, however, that since the use of betel is also deemed to make a woman attractive (see section IIA, pp. 96–7), it is forbidden to the menstruating woman, the woman whose hus- band is away, and the widow (see section IV, pp.284–5, 291, 299– 300). 
 
@@ -1141,7 +1141,7 @@ According to Daksa, one should spend the rest of the afternoon (i.e. the sixth a
 
 Day 
 
-233 
+[[233]]
 
 own treatise was intended to be read aloud to the court women and expounded upon during this afternoon siesta (see pp.22-3, 49). Tryambaka, however, mentions no such activity. Instead, he lists all the household tasks that the wife should dispatch before sunset. 
 

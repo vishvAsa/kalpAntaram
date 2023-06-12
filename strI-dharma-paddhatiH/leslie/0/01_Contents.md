@@ -88,8 +88,7 @@ Post-prandial duties (bhojanānantarakṛtyam) 229
 Evening Rituals and Duties 234 Going to Bed (sayanam) 234  
 
 ### III THE INHERENT NATURE OF WOMEN  
-(strisvabhāvaḥ; Sdhp. 21r. 3-22r. 8)  
-246 
+(strisvabhāvaḥ; Sdhp. 21r. 3-22r. 8) 246 
 
 ### IV DUTIES COMMON TO ALL WOMEN  
 (strīṇām sādhāraṇā dharmāḥ; Sdhp. 22r.8-48v.6) 273 

@@ -17,7 +17,7 @@ The Jaina explanation for why the nineteenth Tirthankara was born a woman (Malli
 
 [^2]: nanu svabhāvato dustānām strīnam nirupitadharmasravane ca katham pravṛttiḥ // strinām svabhävikadoṣaś ca bahulam avagamyante// Sdhp.21r.3-4. 3. subhakṛcchubhayonīṣu pāpakrtpapayoniṣu/ upapadyati dharmajña yathādharmam yathāgamam// Mbh.XIII.120.9. Cf. Manu XII.3,9. 
 
-247 
+[[247]]
 
 world. They agreed to undertake the same number of fasts, but the king cheated (by claiming ill health, etc.) and so outdid his friends in austerity. Since he was otherwise without fault, he was reborn a Tirthankara; since he had cheated, he was reborn a woman. Such faults as cheating, deviousness, greed and cunning are widely agreed to be the cause of a female birth (cf. Jñatṛdharmakathāsūtra viii; cited Jaini 1979:39-40, note 93). 
 
@@ -33,7 +33,7 @@ Tryambaka begins by collecting evidence for the pūrvapakṣa (i.e. the prima fa
 
  
 
-248 
+[[248]]
 
 all these they (i.e. wise men) know to be women (yoṣit[ah]; i.e. female).' The third sloka is equally resounding. 'Ever since the five gross elements (were created), ever since the (three) worlds were created by the creator, ever since men and women (pramada[h]; lit. "seductive" or "wanton") were fashioned-ever since then there have been faults (doṣaḥ) in women (pramadāsu).”[^7] For the sake of consistency, the next half-sloka is taken out of sequence. For, despite the fact that Tryambaka includes it in a later passage attributed to the Rāmāyaṇa, this too belongs to Bhisma's discourse on women in the Mahabharata. '(On the one side of a balanced scale,) the edge of the razor, poison, snake(s) and fire; and on the other (i.e. equal to them), women.'[^8] 
 
@@ -55,7 +55,7 @@ asuras (Mbh.III.165.19–20; III.168.18–19). Bali is an asura of the daitya cl
 
  
 
-249 
+[[249]]
 
 Tryambaka's third and last source of quotations derogatory to women is the Rāmāyaṇa. These are culled from three separate episodes. First, Queen Kausalya's lament to Sītā before the latter's departure to the forest with Rāma includes the bitter complaint that 'the hearts of women do not care for (good) family, (good) deeds, wisdom, gifts, or even affection, for their hearts are inconstant.'[^11] In context, of course, Kausalya's words compliment Sītā, whose devotion to Rāma even in adversity places her so far above the common run of women. Sītā goes further still, and begs Kausalya not even to associate her with such wicked women.12 The next two ślokas are taken from the sage Agastya's words to Rama before he advises the prince to settle in Pañcavațī. Again Sītā's behaviour is contrasted with that of ordinary women. For, according to Agastya, 'this has been the nature of women (ever) since creation (began): they cling to him who prospers and abandon him who runs into difficulty.'[^13] 'For women take after (i.e. model themselves on) the fickleness of lightning flashes, the sharpness of weapons, and the speed of Garuda and the wind.'[^14] In the Rāmāyaṇa episode, Agastya, having made his point, exonerates Sītā from all such blame.15 Tryambaka simply quotes further criticisms of women, this time as spoken by the female ascetic Anasuyā (wife of the sage, Atri) to Sītā. She too compliments Sītā by denigrating the women who refuse to behave as she does. 'For wicked women — who do not know right from wrong in this way, and who, although dependent on their husbands for protection (bhartṛnāthā[ḥ]), wander about with their hearts subject (only) to their own desires-(such women,) O Maithili, incur disgrace and a fall from dharma.'[^16] In the context of Anasuya's advice to Sītā, these words describe the 
 
@@ -69,7 +69,7 @@ Tryambaka's third and last source of quotations derogatory to women is the Rām�
 
  
 
-250 
+[[250]]
 
 behaviour and fate of bad women, not the inherent nature of women in general. Out of context, as presented by Tryambaka, the implication is that such is the behaviour of the majority of women. 
 
@@ -89,7 +89,7 @@ In ascribing purity to women, Tryambaka takes the bull by the horns. For it is p
 
  
 
-251 
+[[251]]
 
 Indra's brahminicide is told in the Taittiriyasamhita. When Indra kills Viśvarupa, he is condemned by the three worlds as a brahminkiller. To escape the effects of this most heinous crime, he persuades the earth, trees and women to assume one-third of his guilt each. In return, he grants each a boon: the earth, when dug, will heal within one year; trees, when cut, will grow again; and women, unlike other animals, may enjoy sexual intercourse at any time (Tait. Sam.II.5.1 ff.), even in advanced pregnancy (cf. section IV, pp.288– 9). Indra's guilt took the form of fissures in the earth, sap in trees— hence one should avoid 'red secretions' and resin from cut trees (Manu V.6; cf. Tait.Sam.II.5.4)—and menstrual blood in women. In several variations on this theme, Indra distributes his brahminicide in four parts: among women, fire, trees and cows (Mbh.XII. 329.28-41); among rivers, mountains, earth and women (Mbh.V. 10-13); among trees, earth, women and water (Bhāg.P.VI.9.6-10). The constant recipient is women. In some texts, Indra's sin causes the recipients to become impure; in others, the recipients are already impure. For example, the guilt of Indra is offloaded onto 'foetus-killers' in the Atharvaveda (p.522ff.); onto sinful brahmins who serve śūdras and so on in the Skandapurāṇa (V.3.118.141); and onto those who kill brahmins in the Rāmāyaṇa (VIII.86.10-16). Menstruation, the sign of a woman's participation in brahminmurder, is thus a mark of both her sexual appetite and her innate impurity (cf. O'Flaherty 1976:153ff.; for the symbolic ‘menstrual pollution' of rivers and the earth, see Salomon 1984:153ff., 175–6). 
 
@@ -99,7 +99,7 @@ Again and again, women are linked with other creatures whose only common quality
 
 [^20]: anṛtam strī śūdraḥ śvā kṛṣṇaḥ śakunis ...// Śat.Br.XIV.1.1.31. 
 
-252 
+[[252]]
 
 I.5.17.1 and Har. comm.), and since dogs and crows are always regarded as unclean (cf. Ap.I.5.15.16, I.5.16.30; Baudh.I.6.14.15; Viş.Sm.XXIII.38; etc.), the implication is that women too are impure. Even Manu's claim that a woman's mouth is always pure,[^21] so often quoted out of context (e.g. Das 1962:257), is something of a back-handed compliment (cf. Manu IV.208). For the verse clearly states the peculiar circumstances in which what is otherwise regarded as impure may be considered pure: a woman's mouth for the purpose of kissing (cumbanādau, paricumbanādau, Sarv., Rāgh., Medh. on Manu V.130; cumbanālinganādau, Nand. on Vis.Sm. XXIII.49); fruit that has fallen as a result of a bird (glossed as 'crows, etc.') pecking it; the flesh of a deer seized by (the hunter's) dog (Manu V.130 and commentaries; Vis.Sm.XXIII.49; cf. Vas. XXVIII.8). Vis.Sm.XXIII.50 expands upon the last point, explaining that the meat of an animal killed by dogs, or by any other carnivorous animals (glossed as 'tigers, jackals, birds of prey, etc.'), or by such as caṇḍālas (glossed as 'outcastes and hunters'), is pure. Tryambaka's claim that women are innately pure is therefore by no means obvious. 
 
@@ -115,7 +115,7 @@ First, he alludes to the traditional view, encapsulated in the Vedic marriage hy
 
  
 
-253 
+[[253]]
 
 man (manusyajāḥ).23 The three deities are the divine guardians of the young girl. According to Sāyaṇa, Soma marries the girl child at birth (jātām kanyām; Sāy. on R.V.X.85.40), for the moon is the deity of early growth, who 'moulds the years' (samānām, glossed as samvatsarāṇām; māsa äkṛtiḥ, glossed as kartā; R.V.X. 85.5 and Say.). The Gandharva is the deity of childhood and virginity (cf. R.V.X.85.21-2). Agni is the god of maturity, dwelling in the sacred fire round which the bride must walk. According to the Grhyasamgraha (quoted in the commentary on the Gobh.gr.III.4.6 statement that a bride should be nagnikā), Soma enjoys her first, the Gandharva, when her breasts develop, Agni when she menstruates. Alternatively, in the words of Samvārta 64 (cf. Sm.C.I.p.79), Soma enjoys a girl when hair begins to grow on her body, the Gandharva when she menstruates, Agni when her breasts develop. Each in turn ‘marries' the girl, enjoys her favours, rewards her, then passes her on (R.V.X.85.41a). By the time the girl reaches her fourth husband, therefore, she is the recipient of three divine gifts. As Tryambaka intones of women in general (in a quotation attributed vaguely to 'Manu, etc.'), 'Soma gave them cleanliness (saucam), the Gandharva an auspicious (or pure; subham) tongue (lit. "speech" or "voice”), Agni all-round purity (sarvamedhyatvam); and therefore women are pure (medhya) indeed.'[^24] The commentators on Yājñ.I.71 stress that this does not mean that women are without fault (Mit.); nor that their sins are less serious than those of a man (Bal.); it merely explains why the penalties incurred by women are lighter (Mit., Bal.). But it is a powerful sloka, often called to the defence of women: by Raghavānanda to enlarge upon Manu's dictum that a woman's mouth is always pure (Manu V.130); by Viśvarupa to show that, unlike men, women, being pure in body, speech and mind, are free from sin;[^25] by Apararka in praise of women (Dh.kosa l.ii.1086). In Sm.C.I.p.79, however, the sloka is 
 
@@ -127,7 +127,7 @@ man (manusyajāḥ).23 The three deities are the divine guardians of the young g
 
  
 
-254 
+[[254]]
 
 declared to be ‘only in praise of women' (praśamsāmātram), meaning that the allusions to ritual purity (sarvayajñārhatvam) are purely rhetorical (cf. Br.Sam.73.7 for a similar verse). 
 
@@ -141,7 +141,7 @@ Tryambaka's second argument for the purity of women tackles the important questi
 
  
 
-255 
+[[255]]
 
 purity of women per se but for the proper treatment of women who have become 'defiled' by contact with other men (e.g. Baudhāyanavivaranam, Dh.kosa I.ii.1085). Vas.XXVIII.2-3 includes in this category women who have been raped or carried off by thieves, as well as those who are merely bad-tempered or who have left home. In a sloka recalling the story of Indra's brahminicide, Manu V.108 asserts that menstruation purifies women of impure thoughts (glossed by Medh. as 'thinking about other men').28 Early dharmaśāstra writers took a similar view of a wife's adultery, ruling that she should be abandoned only if she continued to go astray (cf. Par. Sm.X.34), or if she conceived (cf. Yajñ.1.72; garbhena dusyate kanyā, Mbh.XIII.36.17). Some writers, like Aparårka, insist that such lenient passages refer only to 'mental' rather than physical adultery (etac ca mănase vyabhicāre; Apar. on Yājñ. I.72). This point of view makes progeny not sexual fidelity its main concern. 'Physical' adultery is doubly reprehensible for it may both deprive a man of the son he needs for religious observances and lead to confusion of class (varṇasamkara; Manu VIII.353). 
 
@@ -151,7 +151,7 @@ Notwithstanding his insistence here on the innate purity of women, Tryambaka bel
 
  
 
-256 
+[[256]]
 
 of things, but to persuade women to conform. Hence his problem: he must show on the one hand that women are in dire need of religious instruction, and on the other that they have not fallen too low to appreciate and apply it. 
 
@@ -159,7 +159,7 @@ Having established a woman's peculiar claim to purity, Tryambaka must also demon
 
 But this is precisely what Tryambaka claims. He draws his evidence from a passage in the sixth book of the Visnupurāna. Since the quotation he gives is both incomplete and out of context, it will be useful to present a fuller version of the story here. Book V of the Visnupurāna ends with the destruction of the Yadavas. Book VI describes the dissolution of the universe and the onset of the kali age in which 'four-footed virtue' is destroyed (dharmaś catuspäd, VI.1.8; cf. also Kurm.P.I.27.20; Manu 1.81–2 and Kull.; vrṣo hi bhagavān dharmaḥ, Manu VIII.16). Chapter 1 describes the degeneration of all things in the kali age: the rules of varna and āśrama are no longer observed (Vis.P.VI.1.10); people take what texts they choose as scripture, worship whatever gods they please (Viş.P.1.14), decide for themselves what is right (Viș.P.VI.1.15); men of all levels consider themselves equal to brahmins (Viș.P.VI.1. 23); women are fickle, short, greedy, disobedient, selfish, immoral, and so on and so forth (lolupā hrasvadehāś ca bahvannādanatatparāḥ...; Vis.P.VI.1.28-31). According to another description of the kali age, women will have too many children (bahuprajaḥ), be short of stature (hrasvadehāh), cast off all morals (sīlācāravivarjitāḥ), have intercourse through the mouth (mukhebhagāḥ), bristle with hair (keśaśūlāḥ), and fornicate with slaves and even animals (Mbh. III.186.35-6, 55; cf. Kurm.P.I.28.140). Perhaps as an antidote to 
 
-257 
+[[257]]
 
 this, chapter 2 of the Visnupurana recounts in the form of a story the few redeeming properties of this degenerate age (cf. Br.P.229. 15-36; PVK V.ii.928–30; Wilhelm 1982:1–17). 
 
@@ -173,7 +173,7 @@ Tryambaka quotes only the parts of this story that refer to women. The somewhat 
 
  
 
-258 
+[[258]]
 
 band by serving him in thought, word and deed, will come to dwell in the same heaven as he does[^33] — that is, (she can attain) those same (worlds) as a man (can but) without enormous effortthat is why I said the third time about women that they are blessed.'[^34] Vyăsa concludes the episode: 'Dharma is fulfilled in the kali age with very little effort[^35] (... and) by women without effort merely by serving their husbands. And that is why, the third time, I considered these (three; i.e. the kali age, the sudra and women) to be most blessed (dhanyataram).’[^36] 
 
@@ -187,7 +187,7 @@ Tryambaka's purpose here is clear. He wishes to demonstrate first, that women ar
 
  
 
-259 
+[[259]]
 
 dharma prescribed for daityas (11.16) and rākṣasas (11.26). After a discourse on the actions leading to hell (remarkably similar to the dharma of demons, 12.1-43), the sages list the 'ten-limbed' sanātanadharma prescribed for all (14.1). Sukesin returns to his city of demons and commands them all to practise sanatanadharma (16.1–4) and bhakti (16.19). Angered by the demons' deviation from their ordained svadharma (16.34-7), Sūrya destroys their city (16.38–9). Sukesin is saved by the intervention of Śiva, who thus effectively upholds bhakti against svadharma. But despite his purăṇic quotations, Tryambaka is not of the puranic mould. His rigid codification of strīdharma places him firmly in the orthodox post-Vedic age. He uses Vyasa's pronouncements solely to prove that women are not beyond redemption; the implications of the comments on the kali age simply do not apply. 
 
@@ -199,7 +199,7 @@ Tryambaka's insistence on the blessings of being born a woman recalls the story 
 
  
 
-260 
+[[260]]
 
 and kill each other. The carnage complete, he gives Bharigāśvana the opportunity of reviving one set of children, Bhangāśvana chooses the children she has produced as a woman on the grounds that the love of a woman is greater than that of a man (Mbh.XIII. 12.42). When Indra then offers to transform her back into a man, Bhargāśvana refuses. She prefers to remain in her female form because she has found that women always experience greater pleasure in sexual intercourse than men (Mbh.XIII.12.47),[^38] This is an interesting story in the context of strīdharma for it makes a virtue of the much-maligned sexuality of women. For example, the usual assertions are that the sexual drive is stronger and more destructive in women (e.g. Mbh.XIII.20.59–60, 64–7); that sex, the cause of death in the world, is the direct result of the passionate nature of women (e.g. Mārk.P.49.28-9); that the origin of evil itself is directly linked to the sexual passion of women (e.g. Mbh.XIII.40. 5-12). Even Tryambaka's argument that women are uniquely blessed does not extend to a defence of female sexuality. For, as we have seen, he does not take issue with Manu's statement that women are innately promiscuous and oversexed (see note 9). For Tryambaka's purposes at this point, the story of Bhangāśvana would be counterproductive. 
 
@@ -213,7 +213,7 @@ Tryambaka's third and final argument in support of his thesis that women can ben
 
  
 
-261 
+[[261]]
 
 who have them to be despised by good people (Manu XI.53); if they are not expiated in this life, one is reborn with 'culpable characteristics' (ninditair lakṣaṇair; Manu XI.54). However, according to Manu, good conduct produces good effects even if one lacks all auspicious marks (sarvalakṣaṇahino 'pi; Manu IV.158), even-to return to the context of stridharma-if one has the misfortune to be born a woman. Tryambaka's version of all this runs as follows. 'Because of the saying that "good conduct destroys inauspicious mark(s)", it is indeed possible (for women) by virtue of their good conduct (i.e. as a result of religious instruction) to give up the (inherent) faults (traditionally and rightly) ascribed to them.'[^41] 
 
@@ -225,7 +225,7 @@ Manu, for example, tells us that one's daughter is the highest object of one's a
 
 [^41]: nirūpitadoṣāṇām tu ācāro hanty alakṣaṇam iti vacanāt sadācāreṇa nivrttih sambhavati // iti // Sdhp. 2r.7-8. Cf. note 37. 
 
-262 
+[[262]]
 
 mother (Manu II.133, among the rules for students); that one owes one's mother-in-law the respect due to the guru's wife (Manu II.131; cf. Manu IV.183); that one's mother is a thousand times more venerable than one's father, a hundred thousand times more so than an ācārya (Manu II.145; cf. Manu II.227). Elsewhere, however, he warns that even a learned man should take care when in the company of a woman, even his own mother, sister or daughter, for it is the nature of women to seduce men (Manu II.213-15; cf. Manu IX.14-17). As Tryambaka's examples show, the Rāmāyaṇa is dotted with derogatory references to women and yet exorbitant praise of such as Sītā (see notes 11-18). In the Mahābhārata, Draupadi is praised for her management of husbands and household (Mbh.III.222-4; cf. section IV, pp.280-1); and celebrated as the 'salvation of the sons of Pāndu' after she has rescued her husbands from the consequences of the ill-fated dice-game (Mbh. II.64.2). Kunti is honoured as the ideal long-suffering mother (e.g. Mbh.I.138.15-19), Gāndhārī as the embodiment of intelligence and justice (e.g. Mbh.II.66.28ff.), Sulabhā for her wisdom (Mbh. XIII.308), and so on. Yet when the nature of women comes under discussion-as, for example, in the strīsvabhāvakathanam recounted to Yudhisthira by Bhisma (Mbh.XIII.38)—then women are the root of all evils, nothing is more wicked than women.42 Occasionally, positive and negative are juxtaposed with somewhat startling effect, as when a nāga's wife, already described as obedient, dutiful and virtuous, is asked if she has neglected her duties ‘due to being weakened by the imperfect understanding natural to women' (akṛtārthena strībuddhyā mārdavīkṛta; Mbh.XII.347.2-4). But even then, the implicit contradiction is neither stressed nor explained. 
 
@@ -235,7 +235,7 @@ At the heart of this confusion is a barely examined but radical distinction betw
 
  
 
-263 
+[[263]]
 
 should be submerged in the ideal of 'wife'. This is true even when the husband is away (see section IV, p.291), or has died (see section IV, pp.291-8, 298-304). Thus any part of 'woman' that diverges from the ideal 'wife' is due to her wicked nature and to be condemned. This makes sense of such examples as that of the nāga who praises his dutiful wife yet condemns her woman's nature. It also explains why the two topics are usually treated separately; why the strisvabhāvakathanam is a tirade of abuse (Mbh.XIII.38) while the discourses on the duties of women present models of patience and virtue (e.g. Mbh.XIII.124, 134). If the two can be opposed, conflict and argument are clearly possible. But can they logically be opposed? 
 
@@ -245,7 +245,7 @@ In its widest, cosmic sense, dharma is the law of the universe, the fundamental 
 
  
 
-264 
+[[264]]
 
 conflict here. For the inherent nature of an individual, his svabhāva, is the source of his dharma, not a temptation away from it. Thus the šūdra, even if freed by his master, is not released from servitude because this is innate in him[^44] and was ordained (cf. Manu VIII. 413). The sudra's servile nature impels him to serve; the king's regal nature impels him to rule, fight and protect. As the Bhagavadgītā declares, a man must act according to his ‘nature' (prakṛti), however wise he is.45 His svabhāva is thus both his character and his duty, both what is and what is right. 
 
@@ -261,7 +261,7 @@ Perhaps the treatment of kings is the nearest parallel to that of women. Manu ex
 
  
 
-265 
+[[265]]
 
 bhārata, Vikarṇa seems to be excusing Yudhisthira when he says that gambling is one of the four vices (vyasanāni) of kings (Mbh.II. 61.20). Similarly, Carstairs describes how, in his village in Rajasthan, the Rajputs hold riotous parties at which daru is drunk 'till they become senseless' and summonses are sent to the 'drummergirls'. Such behaviour, clearly a lapse of self-restraint, is seen as intrinsic to the svabhāva of their class: as one Rajput confesses, 'That is what Rajputs are like... uneducated, uncivilised, lusty men' (Carstairs 1971:109–10). 
 
@@ -271,7 +271,7 @@ The problem occurs when one's nature somehow fails to coincide with one's functi
 
  
 
-266 
+[[266]]
 
 visisyase), is sent by Indra to seduce Viśvāmitra away from his ascetic activities (Mbh.I.65.20ff.). When Viśvāmitra, falling for her charms, lusts after her, the apsaras is 'blamelessly willing' (sa căpy aicchad anindită; Mbh.I.66.7). For nature is appropriate to function; and both, being the result of karma, are ordained. Hence the whole of creation—including yakṣa, rākṣasa, apsaras and asura—is ordained to be as it is, each according to his or her karma (yathākarma; Manu 1.37,41). 
 
@@ -279,11 +279,11 @@ But what if the demon wants to be good; for example, the demon king Bali who rul
 
 But how might such a problem be resolved? It seems that there is 
 
-267 
+[[267]]
 
 a basic binary division of opinion: those who dispute that women are wicked, whether on rationalistic or apologetic grounds; and those who, while allowing exceptions at the level of individual or class, insist that they are. 
 
-47 
+[[47]]
 
 Of the two ways of disputing the thesis that women are wicked, perhaps the least popular is the rationalistic approach. This is pursued, for example, by Varahamihira in his classical work on omens, the Brhatsamhita, written in the sixth century A.D. In his section in praise of women (strīpraśamsā), Varāhamihira rejects the traditional view of the inherent sinfulness of women on the grounds that it is not true. First, he argues that the three religious goals of mandharma, artha and kāma-all depend on women. For women provide men with sons; they are the incarnation of Laksmi, goddess of prosperity, in the home (cf. section II A, pp.59-64); and they are the source of sexual pleasure.48 Next, he condemns those men who, having chosen the ascetic (vairāgya) path for themselves, seek to persuade others to follow them by denigrating women and ignoring their good qualities.49 Finally, he asks what faults normally attributed to women are not committed—and more brazenly by men (Br.Sam.74.6). For example, marital fidelity is the duty of both husband and wife, infidelity equally sinful in either case; since women are faithful more often than their husbands are, it follows that women are superior (Br.Sam.74.12). Verse 14 adds that men are faithful out of impotence (aśaktyā50), women by their strength of will (dhairyena). Similarly, a man utters endearments to his wife in private but forgets her when she dies; but when the man dies, his wife is so filled with gratitude for their life together that she embraces his corpse upon the fire (Br.Sam.74.16). Varāhamihira con
 
@@ -295,7 +295,7 @@ Of the two ways of disputing the thesis that women are wicked, perhaps the least
 
  
 
-268 
+[[268]]
 
 cludes that the abuse heaped on women is the measure not of the wickedness of women but of the audacity of wicked men (dhärṣtyam asādhūnām). They are like thieves who, in the very act of stealing (muṣṇatām iva caurāṇām), jabber 'Stop thief!' to put the blame elsewhere.51 
 
@@ -309,7 +309,7 @@ The apologetic approach is taken by the exponents of mīmāmsā. The original co
 
  
 
-269 
+[[269]]
 
 [^1]:3.1-2 rules that aśabda (i.e. smrti) is authoritative in so far as it is based on śruti; Śabara that smrti is both authoritative (pramānam smṛtih; Śab. on Jai.I.3.2) and equal to the Veda (vedatulyā hi smṛtiḥ, Sab.on Jai.VI.2.2; cf. Kum.Ta.1.3, adhi. 1-3). This in turn rests on the premise, first outlined in the Jaiminiyasūtra (approximately second century B.C.), that the Veda is eternal, self-existent and authoritative. Vedic utterances all of which are held to be eternally valid are divided into three kinds. The initial division is twofold: mantra and brāhmaṇa (Jai.II.1.32-3; Kum.Ta.II.1, adhi. 11). The latter (i.e. real meaning) subdivides into vidhi and arthavāda. Elsewhere, the Veda is divided into five parts: vidhi, arthavāda, mantra, nämadheya and pratiṣedha (e.g. Arthas.p.3; cf. PVK V.ii. 1098, 1225). Mantras are technically valid but without any real meaning: the three samhitas (Rg-, Yajurand Samaveda) are thus bracketed out as they do not need to be understood (cf. Kum.Ta.I.2, adhi.4). Ritual utterances consist of injunctions (vidhi) that must be taken literally (karmakāṇḍa); they refer to matters beyond our experience and so may not be questioned. Non-ritual utterances (glossed as arthavada, exaggerated descriptions or explanations) must be understood in a non-literal sense (jñānakāṇḍa); they relate to matters within our experience and are therefore open to verification. If an arthavāda statement is contradicted by experience, then-in theory-preference should be given to the latter. However, since by definition the Veda contains no false statements, the contradiction itself is deemed an illusion: when the correct interpretation is found, it will cease to appear. The classic example is the statement that 'the sacrificial post is the sun' (adityo yupaḥ, Śab. on Jai.I.4.12.23; Mīmāmsākosa II.p.909). The identity of post and sun is evidently false: it is therefore to be interpreted as a rhetorical device to glorify the post with a view to encouraging the appropriate sacrifice. 
 
@@ -317,7 +317,7 @@ The interpretation laid on the repeated abuse of women is merely one more exampl
 
  
 
-270 
+[[270]]
 
 then but not now,[^53] The rhetoric of praise is well known, especially in the case of brahmins. For example, a brahmin's words are never untrue (Vis.Sm.19.22); whether he is learned or not, a brahmin is a great deity (Manu IX.315); whatever defects exist in a vrata, in tapas, or in sacrificial ritual, they all disappear when brahmins support them (Par.Sm. VI.52); and so on. 
 
@@ -333,7 +333,7 @@ This is an attractive interpretation. Certainly, Manu himself declares that only
 
  
 
-271 
+[[271]]
 
 duly attached to the senses 'by nature'. The various rulings on brahmins, ksatriyas and vaisyas, or even students, hermits and ascetics, would include digressions on the ‘natural dispositions' of the types involved, exhorting them to appropriate action by means of condemnation. But this is not the case. Even sudras receive instructions or threats rather than direct condemnation. For example, they are told that they may not accumulate wealth (Manu X.129), that they may not hear, learn, recite or teach the Veda (Manu III.156, IV.99, X.127; Gaut.XII.4–6); but they are not actually described as being 'by nature' acquisitive or ambitious beyond their station. Only women are repeatedly instructed by means of direct condemnation. So selective an application of nindā suggests that it is in practice far more than a rhetorical device: it rests on prejudice. 
 
@@ -341,7 +341,7 @@ Of the two main approaches supporting the thesis that women are wicked, the resp
 
 A dramatic example of this viewpoint is found in Yasaścandra's play entitled Mudritakumudacandraprakaraṇa. The play is set in the court of Siddharāja Jayasimha, the great Călukya king of northern Gujarat (A.D. 1094-1143). Act V presents a debate between the 
 
-272 
+[[272]]
 
 leaders of the two rival sects of Jainism: Kumudacandra is the head of the Digambaras, Devasuri that of the Svetambaras, while Siddharāja takes the chair. The issue under discussion is whether or not women can attain salvation. According to the Digambaras, they cannot; according to the Svetambaras, they can. The latter view maintains that, while salvation is beyond the capacities of most women, it is within the reach of those few possessed of sattva (the quality of purity or goodness). Devasuri cites as evidence women from mythology (such as Sītā) and from the contemporary world (such as Mayanalla, the queen-mother, who ruled as regent for many years while Siddharaja was a boy). The discussion reveals the two opposing poles of prejudice: the reverence shown to a few individual idealized women (whether real or mythical), and the contempt shown to women in general (Mudritakumudacandraprakarana V; cf. Sandesara 1953:362–3). 
 

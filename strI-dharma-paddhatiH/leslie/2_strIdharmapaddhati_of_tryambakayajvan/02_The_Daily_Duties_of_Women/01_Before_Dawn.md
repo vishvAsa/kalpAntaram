@@ -19,7 +19,7 @@ A cycle of legends referred to in the Brahmanas explains why one should rise bef
 
 [^2]: brähme muhürte nidrākarane dosa uktah smṛtiratnāvalyām // brähme muhūrte sevetām sayanam yatra dampati/ śmaśānatulyam tad veśma pitṛbhiḥ parivarjitam // iti // Sdhp.2v.9–10 (Smṛtiratnāvalī) Sm.M.p.209 (Smṛtiratnavali). 
 
-52 
+[[52]]
 
 off the guilt of the blood-sacrifice. Agni spat upon the waters: Ekata, Dvita and Trita were born. The gods unloaded their guilt on them, and they in turn unloaded it onto whoever was still asleep when the sun rose. This was the beginning of a chain in which each individual, by virtue of his own sin, receives this new sin and then passes it on to another even more sinful individual. According to the Maitrāyaṇīsamhita, the buck stops at the foetus-killer; according to the Taittiriyabrāhmaṇa (III.2.8.9 ff.), at the brahmin-murderer. All the individuals mentioned in the various lists, including the person who is still asleep at dawn, are evidently regarded as being already sinful and thus the appropriate recipients of the guilt or sin of others (cf. Bloomfield 1964(1):521 ff.). 
 
@@ -37,7 +37,7 @@ Thirdly, as soon as she is awake, she should meditate on the (chosen) deity.'5 T
 
 Before Dawn 
 
-53 
+[[53]]
 
 are in principle applicable to both men and women and are described elsewhere in various ways. In fact, the term 'meditation' with all its complex (and modern) associations is somewhat misleading here. It probably means no more than recalling to mind an image of a particular deity, perhaps using the dhyāna verse of a familiar stotra that is specifically designed to aid the worshipper in creating this mental image (cf. Bühnemann 1983:24, 26, 30). 
 
@@ -49,7 +49,7 @@ The latter part of the ruling is to be found in many smrtis and digests (e.g. Ma
 
  
 
-54 
+[[54]]
 
 modern version of this ritual in which the bride makes this vow, see Menski 1984:11,872.) The requirements of kama have presumably been met by sexual intercourse the night before. In the morning, after the appropriate meditation to purify their minds, they should together consider the religious duties (dharma) and business or worldly commitments (artha) of the coming day. According to the Visnupurana, one should contemplate all three together, as long as neither kāma nor artha conflict with dharma (III.11.5–7). It is frequently stressed that the trivarga, the triple goal of the householder, can only be met through the co-operation of the wife (e.g. Sm.C.III.ii.p.582); hence the wife is the root or basis of that goal (mūlam trivargasya, Mbh.1.68.40; cf. Yājn.I.74). 
 
@@ -63,7 +63,7 @@ The fourth proviso on getting up in the morning concerns 'what one may or may no
 
 Before Dawn 
 
-55 
+[[55]]
 
 birds and animals to the shapes and colours of the passing clouds (Br.Sam.30). 
 
@@ -77,7 +77,7 @@ The second sloka provides the complementary list of inauspicious sights. 'If, on
 
  
 
-56 
+[[56]]
 
 (Sdhp.; Sm.M.; Par.M.), there is durbhagām, 'an unfortunate woman' (i.e. a widow; Gobh.Sm.; Käty.Sm.; see section IV, pp. 298–304). For madyam, ‘an intoxicating drink' (Sdhp.; Par.M., two MSS and the Calcutta edn.), there is martyam, 'a dead (lit. “mortal") man' (Sm.M.); antyam, ‘an inferior man' (i.e. an untouchable; Gobh. Sm.; Käty.Sm.); and cāndham, a blind man (Par. M., preferred reading). 
 
@@ -85,7 +85,7 @@ Utkṛttanāsikam, ‘one whose nose has been cut off probably refers to the pun
 
 Before Dawn 
 
-57 
+[[57]]
 
 Alternatively, utkṛttanāsika might refer to a deformed nose, or even to a tribal physiognomy considered unattractive to the highcaste Hindu. When Strabo writes of a people 'without noses, having only two orifices above the mouth, through which they breathe', or Ktêsias of a 'deformed' people with 'snub noses', McCrindle interprets these as exaggeratedly dismissive descriptions of Mongolian tribes regarded by the orthodox Hindu as of extremely low caste (1971:60–3). 'Noselessness' in this context might be no greater deformity than the receding chin of the so-called 'chinless wonder'. This possibility is reinforced by Varāhamihira's section on the auspicious and inauspicious marks of men (puruṣalakṣaṇam; Br.Sam.68.60-2). A conspicuous nose is deemed auspicious: a long one (dirgha), for example, brings good fortune; one like a parrot's beak (sukasamanāsa) brings happiness. A flat one (cipițanāsa), however, indicates that death will be caused by a woman; whereas one that looks as if it has been cut off (chinnānurūpa) indicates contact with forbidden women. Whether the nose described is mutilated, deformed, or merely especially flat, however, the sight of it first thing in the morning is inauspicious. 
 
@@ -93,7 +93,7 @@ There is one further point. These rulings on what should or should not be seen a
 
  
 
-58 
+[[58]]
 
 Household tasks (1) 
 
@@ -111,7 +111,7 @@ First, 'the grain and so on (required for the coming day) must be prepared in th
 
 Before Dawn 
 
-59 
+[[59]]
 
 is boiled, dried, then husked by pounding. Wheat and corn are ground. Even spices are usually ground fresh before each meal. The sounds of this lengthy process of cleaning, grinding and pounding can be heard in the dark early hours of morning throughout village India. Sarah Hobson, for example, describes how the women in her household in Karnataka were always up by 4 a.m., grinding the millet for the family's consumption that day (1978:53). A generation ago, this was also common in urban areas where it is now often done by machine. 
 
@@ -123,7 +123,7 @@ Once the cleaning is done, she should smear the floor and walls of the house wit
 
  
 
-60 
+[[60]]
 
 The sanctity of the cow in general is so basic an assumption in Hindu culture that it is rarely justified or explained. Reverence for the cow is enjoined by the lawbooks: being in a cow-pen is likened to being in the presence of brahmins or at the recitation of the Veda (Manu IV.58); polluting a cow to polluting a brahmin or fire (Manu IV.142); offending a cow to offending one's guru, one's parents, or brahmins (Manu IV.162). In the Mahābhārata, Bhisma regales Yudhisthira with eulogistic praise of cows: they are the mothers of the universe; there is no gift more sacred; there is nothing to equal them; with each part of their bodies they uphold the sacrifice; sacred in themselves, they can cleanse and sanctify others; and so on (Mbh.XIII.79.12–14; 80.2-3, 12). Even in a busy city street today, one may see a cyclist pause to touch a passing cow, then his own forehead, before pedalling on. Reverence for everything relating to cows is so great that pañcagavya, a mixture of cow's milk, curd, ghee, urine and dung, together with water in which blades of kusa grass have been placed, is deemed to purify many sins (e.g. section II.D, p. 244, note 24; Yājñ.III.263,314; Baudhāyanagṛhyaseṣasutra II.20.1 ff.; Par.Sm.XI.28-34; Manu 
 
@@ -137,7 +137,7 @@ Tryambaka's version runs briefly as follows. 'Assuming a beautiful form, Śri en
 
 Before Dawn 
 
-61 
+[[61]]
 
 good fortune, you have shown me this gracious favour. Let it be as you say and may all be well with you! O you who bestow happiness, I am honoured!" (Bhīṣma concludes to Yudhisthira:) “My son, the great glory of cow-dung has now been explained to you." 15 The conclusion comes from another chapter altogether: 'one should therefore not recoil in any way from either the dung or the urine of cows.'16 Tryambaka sums up in his own words. 'And thus it has been established by the experience of everyone that a place smeared with cow-dung is pure, the abode of Lakṣmi.'17 Tryambaka's greatly abbreviated story is clearly intended to encourage women to bring the goddess of prosperity into the house by smearing it with cow-dung. What he omits from the version told by Bhisma, however, is equally instructive. For when the cows first see the goddess, although they are impressed by her beauty, they do not know who she is (Mbh.XIII.81.4-5). She identifies herself as the one whose absence caused the defeat of the Daityas, whose presence bestows happiness on gods and rṣis, and without whom neither dharma, artha nor kāma brings happiness (v.6–8). But when she asks permission to reside in the cows, she is abruptly, even rudely, refused on the grounds that she is unstable (adhruvām) and fickle (cañcalām; v.10). Besides, they explain, their bodies are good enough already; they have no need of her (v.11). Śrī's first response is to bluster. She describes the lengths to which both gods and demons have gone in order to gain her favour; never in 
 
@@ -147,7 +147,7 @@ good fortune, you have shown me this gracious favour. Let it be as you say and m
 
 [^17]: ata eva gomayenānulipto deśaḥ sucir lakṣmyā āyatanam iti sarvajanānubhavasiddham // Sdhp.3v.4-5. 
 
-62 
+[[62]]
 
 the three worlds has she been so insulted (v.12-15). The cows demur: they did not mean to offend her; however, she is unstable and fickle, and for this reason alone they do not want her to be part of them; and there is no need to discuss the matter any further (v.16-17). Now Śrī is reduced to begging. If they cast her off like this, she will become an object of scorn in the world. They are always ready to grant protection to others, so why not to her? If they rescue her from her predicament, she will always be devoted to them. She is even willing to take up residence in the most despised part of their body, since no part of them can truly be considered despicable (v.18-20). Faced with such desperate pleas, the cows (described as 'naturally inclined to show compassion to those in distress'; karunavatsalāḥ) confer with one another (v.22). At last, they give in: she may dwell in their dung and urine (v.23). Śrī is overcome with gratitude (v.24). The whole tone of this passage and the balance of power implied is quite different from that suggested in Tryambaka's doctored version. 
 
@@ -159,7 +159,7 @@ It is equally obvious that identifying the goddess with defectridden human women
 
 Before Dawn 
 
-63 
+[[63]]
 
 with the appropriate decorum (Mbh.XIII.11.10 ff.). Indeed, as Manu explains, there is no difference between virtuous child-bearing wives (striyaḥ) and goddesses of fortune (śriyaḥ) dwelling in the homes of men (IX.26). It is evidently counterproductive, then, to allow the cows to label Śrī with the same faults as ordinary women and to treat her in the same disparaging way. Quite reasonably, therefore, Tryambaka edits the passage to suit his own requirements. 
 
@@ -171,7 +171,7 @@ The link between the goddess and women is further reinforced in the next subsect
 
  
 
-64 
+[[64]]
 
 Tryambaka continues, the quotation. 'The goddess, deity of all, always resides on the threshold. She must therefore be worshipped there every day with the fragrance of sandalwood paste, flowers, unbroken grains and so on.'19 ‘Anyone who touches that threshold with his foot or crosses over it without worshipping it first will find no happiness; therefore one should take care not to do that.'20 'If a woman walks over ground that has been smeared (i.e. with cow-dung) but not marked with the auspicious sign of the svastika, she will lose three things: her wealth (vittam), long life and her good reputation.'21 The reference to a woman's wealth must presumably be understood in terms of the rules set forth by Tryambaka regarding the rights of women to own property (strīdhanam; see section IV, pp. 277-80). Ground that is smeared with cow-dung but unmarked by the svastika is traditionally held to be extremely inauspicious. It is the custom in Maharashtra, for example, that when a corpse has been lying on the ground, after it is finally removed, the area is smeared with cow-dung and deliberately left without the mark of the svastika. Ground treated in this way is thus automatically associated with someone's death (LSJ). Tryambaka concludes that 'the goddess Laksmī, complete with all her attributes, always dwells in the house that always shines as a result of smearing (with cow-dung) and auspicious powder designs (rangavalya).'22 
 
@@ -191,7 +191,7 @@ Tryambaka now adds the rider that 'this (i.e. all these items of housework)-clea
 
 Before Dawn 
 
-65 
+[[65]]
 
 quotes from Sumana's advice to Sandilī on the correct behaviour of women (see also section IV, pp. 282-3). With regard to the wife's general domestic duties, Sumanā explains, rising early in the morning, I do or get someone else to do all the tasks that have arisen for the benefit of the household.'24 
 
@@ -207,7 +207,7 @@ Without introduction or comment, Tryambaka quotes what are apparently two passag
 
  
 
-66 
+[[66]]
 
 this treatise is probably intended to reinforce still further the link between women, the goddess Śrī and cows. 
 
@@ -219,7 +219,7 @@ The first lengthy passage reads as follows. 'If one pays homage to cows morning 
 
 Before Dawn 
 
-67 
+[[67]]
 
 tion, however, is no sin: (if the cow is harmed in the process), whether intentionally or unintentionally, this is not to be treated as (the punishable offence of) harming it (tadvadham); and one should tether the animal with (ropes made from) kāśa and kuśa grass so that it faces south. But if one drives a cow into a well or a pond, or makes it trip up on logs (or tree stumps), or if one sells it to people who eat cows, then one incurs (the sin of) harming a cow (govadham). Moreover, there is no prāyaścitta (rite of expiation; i.e. powerful enough to atone) for cows that are killed in a well or ditch, or in a pit with reinforced sides, or in a dammed up river, or in a roadside tank, or in (any such) watering places. '28 
 
@@ -231,7 +231,7 @@ The second passage, also consisting of slokas taken out of sequence from differe
 
  
 
-68 
+[[68]]
 
 If one pays homage to cows morning and evening, one becomes prosperous. If a man (naraḥ) praises cows in this way both day and night, in rough times or smooth, and even in times of great fear (or danger), he will be freed from (that) fear (or danger). If one wants a son, one obtains a son; the same goes for wealth too; a woman who wants sexual pleasure will gain a husband; indeed men (mānavaḥ, superordinate) may obtain whatever they desire. Men (mānavaḥ, hyponym) who are devoted to cows obtain whatever they desire; and women who are devoted to cows obtain their desire (too). Indeed, O Bhārata, nothing is hard to obtain for one devoted to cows!'29 
 
@@ -243,7 +243,7 @@ Devotion to cows is thus another pre-dawn ähnika duty. It is to be observed by 
 
 Before Dawn 
 
-69 
+[[69]]
 
 standing worship of the cow as a divinity, as evidenced in the earliest Sanskrit texts, see PVK II.ii.772–5. 
 
@@ -253,7 +253,7 @@ Urinating and defecating (mūtrapurīṣotsargaḥ; Sdhp.4r.4–4v.3). First, wh
 
 Secondly, Tryambaka describes the 'appropriate place' where, according to Āpastamba, this should be done. 'One should urinate and defecate far from one's house, either to the south (the direction of Yama) or to the south-west (that of Nirṛti; cf. Gonda 1980: 52-7).'31 But, according to a quotation attributed vaguely to 'traditional teaching' (smaraṇāt), 'this applies (only) to the daytime.' For practical purposes, 'daytime' here includes the early pre-dawn 
 
-1 
+[[1]]
 
 [^30]: noparuddhaḥ kriyam cared (<?; see note 35) iti vacanena mūtrādyuparuddhasya kriyānadhikāradarśanāt tadutsargaḥ kartavyaḥ |/ Sdhp.4r.4-5. 
 
@@ -261,7 +261,7 @@ Secondly, Tryambaka describes the 'appropriate place' where, according to Āpast
 
  
 
-70 
+[[70]]
 
 hours of morning (strictly speaking, the last division of the night). 'For it is said that one should urinate and defecate near one's house at night.'32 
 
@@ -285,7 +285,7 @@ comm..
 
 Before Dawn 
 
-71 
+[[71]]
 
 şam; glossed as gomayam), in a ploughed field, in the shade (glossed as “in which one rests", e.g. in the shade of a tree, cf. Ap.1.30.16; one may urinate on one's own shadow, v.17), on the road, or in (any other) desirable places.'36 Moreover, ‘one should not void urine, excrement or any other impurity while facing the wind, fire, a brahmin, water, (the image of) a deity, or a cow.'37 The other 'impurities', listed as twelve in Manu V.135 (cf. Sm.C.II.p. 250), include semen, blood, mucus, phlegm, tears and sweat. The Visnupurāna (as quoted by Sm.C.II.p.239) includes women among the things or people one should not face at such a time, along with the wind, fire, the moon, the sun, one's guru, and a brahmin. 
 
@@ -305,7 +305,7 @@ For 'the earth appropriate to women' (strīnām mr [d]), Tryambaka turns to Mari
 
 [^40]: strīnām mrdam äha maricih // krsnā strīsudrayos tatha // iti // Sdhp.4v. 4-5 (Marici) < Sm.C.II.p.242 (Kāśyapa). 
 
-72 
+[[72]]
 
 are grouped with śūdras here. However, ‘if one is unable to find the particular earth prescribed'—in Mahabaleshwar, for example, the earth is predominantly red; around Pune, predominantly black-then 'any kind will do.' As Tryambaka and Manu declare, 'whatever water or earth is to be found in a given place, that is recommended and with that the cleansing should be done.'41 The Smrticandrikā modifies this statement further by listing all the places from which one may not take earth for this purpose: from rat-infested ground, molehills, a road (Yama); earth containing fire, grain husks, insects, bones (Devala); from an anthill, from water, from a house, from cultivated land (Vis.P.); and so on (Sm.C.II.p. 242-3). But none of these rulings are in any way exclusive to women. 
 
@@ -323,7 +323,7 @@ For the amount of earth to be used each time (mṛiparimāṇam), Tryambaka quot
 
 Before Dawn 
 
-73 
+[[73]]
 
 with fifteen morsels, decreases to one on the fifteenth day, and then works back to fifteen, thus being thin in the middle like an ant (pipīlika; cf. Baudh.III.8.33; Mit. on Yājñ.III.323; Manu XI.217– 18; Vas.23.45,27.21; Vis.Sm. 47.5-6.) · 
 
@@ -337,7 +337,7 @@ For the order in which the cleansing process should be carried out (krama[ḥ]),
 
  
 
-74 
+[[74]]
 
 Finally, we return to the point at which Tryambaka began in his introduction. The unattributed and partial quotation given there (section I, note 8) is now attributed to Baudhāyana and given in full. It concerns 'the problem caused by not performing the purification rituals described'. 'One must make a constant effort to cleanse oneself (properly), for only then is one essentially pure, a (true) dvija; if one fails to perform these rituals of purification, then one's actions will bear no fruit.'46 The confusion about the status of women is very obvious here. In order to apply the ruling to women, we must invoke the ūha of gender. But the exhortation is to behave like a true dvija and women are repeatedly classed with sudras. It seems that women are meant to be inspired in one place, humbled in the next, but are certainly never expected to think the matter through. As to what is meant by 'proper cleansing', Mit. on Yājñ.1.17 gives the most sensible answer: one need only use as much earth and water as is necessary to remove all trace and smell. The numbers of lumps actually prescribed are there for 'unseen' (adrṣṭa) reasons; hence, for example, the rather startling ruling (given by Tryambaka himself in section IV, p. 286), that a woman who is menstruating requires sixty lumps to cleanse herself on the fourth day, a widow who is menstruating twice as many. 
 
@@ -349,7 +349,7 @@ With regard to the practices described in both this section and the previous one
 
 Before Dawn 
 
-75 
+[[75]]
 
 The sipping ritual (ācamanam; Sdhp.5r.4–5v.1) First, as Devala explains, acamana must be performed as soon as sauca is completed. 'When one has washed with water each foot in turn as far as the knee, one should wash both hands as far as the wrist, and then perform acamana.'47 In fact, ācamana is a preliminary to all ritual acts (cf. Har. on Āp.1.5.15.1; Gobh.gṛ.1.1.2). It is to be performed before reciting the Veda (Manu V.138), both before and after meals, after sleeping, sneezing and spitting (cf. Gaut.I.1.40; Manu V.145; Gobh.gr.1.2.32), as well as after urinating or defecating (cf. acamananimittāni; Sm.C.II.p.260 ff.). That a male reference is usually assumed is demonstrated by the ruling that one should perform acamana after touching a woman, or after talking to a woman or a sudra during a meal. 
 
@@ -363,7 +363,7 @@ More important, Tryambaka omits the usual directives in such contexts (and in th
 
  
 
-76 
+[[76]]
 
 hands as far as the wrist... and so on (Gaut.I.1.35; Par.M.I.i. p.235). Haradatta glosses yajñopavītī in two ways: first, as having the sacred thread in its normal place (over the left shoulder, cf. Manu II.63; Gobh.gr.1.2.2); and alternatively, as referring to the arrangement of one's upper garment (athavottarīyavinyāsārtham). This seems to be yet another example of a reference to an initiated person being reinterpreted so that it can be applied to the uninitiated. However, Haradatta proceeds to quote Baudh.I.5.15.1, according to which one should be yajñopavītī on a number of different occasions including during the acamana ritual, and as he does so the alternative interpretation seems increasingly inappropriate. Yet Bühler has preferred this second interpretation in his translation of both passages (1975:54, 180-1). Tryambaka, however, has done his best to avoid the issue altogether. But even the quotation he has selected (Yājñ.1.18; see note 48) includes the term dvija, glossed in the Mitäkṣarā as na sūdrādiḥ, an expression that surely excludes women too. 
 
@@ -373,7 +373,7 @@ Nonetheless, it is obvious that neither Tryambaka nor Yājñavalkya wish to prev
 
 Before Dawn 
 
-77 
+[[77]]
 
 the last varna category. 50 Whichever interpretation is accepted, how- ever, women are entitled to perform acamana. But, once again, both the intrinsic impurity of sūdras and the lower standards of purification required of them are ascribed to women. 
 
@@ -387,7 +387,7 @@ Tryambaka quotes two further slokas on the water to be used for sipping (ācaman
 
  
 
-78 
+[[78]]
 
 Cleaning the teeth (dantadhavanam; Sdhp.5v.1–9) 
 
@@ -403,7 +403,7 @@ For an alternative to the teeth-cleaning twig, Tryambak'a turns to the Smrtyarth
 
 Before Dawn 
 
-79 
+[[79]]
 
 are formed by using the middle finger, the fourth (or ring-) finger, or the thumb.'54 The arbitrary nature of this ruling becomes evident when it is compared with similar pronouncements in the Smṛti- candrikā. The latter explains, for example, both that one may not use one's fingers except the thumb and fourth finger; and that one may use grass, leaves, water or one's fingers, but not the fourth finger (Sm.C.II.p.272 ff.). 
 
@@ -421,7 +421,7 @@ Tryambaka explains that 'since the above prohibition on teeth- cleaning on a fas
 
  
 
-80 
+[[80]]
 
 on teeth-cleaning is reapplied (cf. section IV, p. 291). Thus, ‘if her husband is away, a woman should not eat on a day when offerings are made to the dead, or on the day of a sacrifice, or when she is observing a vow (niyame); and in this context "she should not eat" means "she should not clean her teeth."'58 The gloss derives from the fact that the twig is chewed at one end to form a brush with which the teeth are cleaned. 
 
@@ -435,13 +435,13 @@ Secondly, cleaning the teeth is a sensual pleasure. The Vedic student, for examp
 
 Before Dawn 
 
-81 
+[[81]]
 
 student; the others include honey, meat, perfumes, garlands, sleeping in the daytime, playing musical instruments, dancing and singing (I.2.19). Haradatta glosses snānam as 'bathing for pleasure' (sukhārtham uṣnatoyādina kanthad adhaḥ prakṣālanam); danta- dhāvanam as 'removing dirt from the teeth' (dantamalāpakarṣaṇam). Both are described as bodily rather than ritual acts, performed for obvious (drsta) not otherworldly (adrṣta) reasons. Āp.I.2.7.11 declares simply that the Vedic student should be dusty (rajasvalo malinagātraḥ, Ujj.); and that he should have dirty teeth (raktadan, 'having red or discoloured teeth', a Vedic form, glossed by Ujj. as pakvadanta [h], 'decaying teeth'). Even after the student has completed his Vedic studies, he may not indulge in such sensual pleasures in his teacher's presence. Thus if his teacher visits him or if he visits his teacher, he may not wear garlands, oil his hair, wear a turban or shoes and so on, or clean his teeth until he is once more out of his teacher's sight (Āp.1.2.8.1-5). Clearly, this is the context in which to understand the prohibitions on teeth-cleaning given by Tryambaka. On a śrāddha day, on a day when one is observ- ing a vow or fast (in the case of men), one should not indulge in the sensual pleasure of cleaning the teeth. 
 
 But this does not explain why the rule for fasting should supersede the usual ähnika rule for teeth-cleaning only with respect to men. The ruling makes sense, however, if we allow a third aspect to the issue of teeth-cleaning: that of making oneself attractive; an aspect that seems to be applied more regularly to women than to men. Since women are expected to make themselves attractive as long as their husbands are around, the rule for fasting is waived in their case. But as soon as their husbands go away, the wife need (indeed, should) no longer make herself attractive: the rule for fasting is reimposed and therefore she should not clean her teeth (see section IV, p. 291). We may also note that cleaning the teeth is one of the many activities to be avoided by the menstruating woman until after her ritual bath on the fourth day (see section IV, pp. 286-7). Since a man is not supposed to have sexual intercourse with his wife at this time, it makes sense that she should not make herself attractive to him; indeed, as Tryambaka explains in his section on general behaviour, the menstruating woman should keep her mouth hidden from her husband in order to discourage him from polluting himself (Sdhp.23v.3-4 Sk.P.III.2.7.26b-27a; section IV, pp. 273-4). 
 
-82 
+[[82]]
 
 However, there are two further contradictions here. First, in his list of things to be avoided (varjanīyāḥ), Tryambaka rules that austerities (tapas) are not to be observed by women (section IV, p. 275, note 7); yet fasting is clearly a form of tapas. Secondly, according to Tryambaka (and Manu), marriage is for women the equivalent of upanayana for men, and serving her husband the equivalent of serving one's teacher (section I, p.35, notes 15, 16), Yet the behaviour required of the Vedic student is specifically not applied to the married woman except when her husband is away or dead. In fact, only the woman whose husband is away, and the widow, are actually expected to adopt the behaviour and lifestyle of the Vedic student (section IV, pp. 291, 299-300). While the analogy remains an uplifting one, therefore, in practice the wife's service to her husband is equivalent to the student's service to his teacher only when the husband-teacher is no longer there. 
 
@@ -461,7 +461,7 @@ The number of obligatory (nitya) baths prescribed for a man varies according to 
 
 Before Dawn 
 
-83 
+[[83]]
 
 householders, two or three for forest hermits, and three for the renunciate (cf. Yajñ.1.95,100, III.48; Manu VI.6, 22; Sm.C.II. p.483; Sm.A.p.26, etc.). If one bathes only once, it must be shortly before dawn; if twice, before dawn and at midday; if three times, before dawn, at midday and shortly before sunset. When we look at the ähnika duties set out by Tryambaka for women, however, we see that the midday bath normally prescribed for their husbands is omitted. Since Tryambaka does not draw attention to it, it is not clear whether the omission is significant or not. However, we may also note that, since there is no distinction according to varna, women cannot here be grouped together with sudras. By default, therefore, they are now classed with the least advanced āśrama for men, that of the (temporary, not perpetual) Vedic student. This recalls, perhaps unintentionally, the claim that marriage for a woman is equivalent to Vedic studentship for a man (Manu II.67; see section I, notes 15,16). If the omission is significant, then this is one of the few aspects of the lifestyle of the Vedic student that the married woman adopts. 
 
@@ -477,7 +477,7 @@ Tryambaka's second point is that ‘a woman should not bathe naked.'62 According
 
  
 
-84 
+[[84]]
 
 should she ever bathe naked.'63 This quotation is also included in a longer passage attributed to the Skandapurāṇa in the section on general behaviour (Sdhp.23v.7, section IV, pp. 273-4). The first point recalls Manu's remark that a woman should never be independent but always supervised by a man whether father, husband or son (Manu IX.3, V.147-8; Gaut.II.9.1; cf. section IV, p. 276, note 9). It also recalls the warnings that even a learned man should not spend time with a woman alone (e.g. Manu II.213-15). The implication is that a woman alone will either get up to mischief or come to harm. This kind of ruling derives from the view that women are inherently unfaithful, promiscuous and weak-willed, a view that Tryambaka himself discusses (and supports, with qualifications) in his comments on the inherent nature of women (strīsvabhāva; see section III). The second point, that one should not bathe naked, is also applied to men; in this context, 'naked' (nagnah) is taken to mean a man wearing only one garment (i.e. a loin-cloth) instead of two (e.g. Kull. on Manu IV.45; Nand. on Vis.Sm.64.5; Gaut.1.9.60-1, etc.). 
 
@@ -493,7 +493,7 @@ Suvāsinī means literally ‘a woman with fine clothes'. But a word or phrase m
 
 Before Dawn 
 
-85 
+[[85]]
 
 function (lakṣaṇā), it is on the bank of the river (gangātīre ghoṣaḥ; Mīmāmsākosa VI.pp. 3340 ff.). According to the third or suggested function (vyañjanā), it is in a cool and sacred place. Lakṣaṇā may also be of two types: that in which the context gives the meaning, as in the example of the cowherd's house; and nirūḍhalakṣaṇā, in which the indirect meaning is now the established one regardless of the context. Suvāsinī is in this last category. A widow is not permitted to wear fine clothes (section IV, pp. 299–300); a well- dressed woman therefore cannot be a widow. So engrained are these ideas that the term no longer refers to a woman's clothes at all but solely and directly to her marital state. Similarly, the literal meanings of subhagā and durbhagă ('fortunate woman' and 'un- fortunate woman'; see section IIA, pp. 55-6), have given place completely to the established meanings (nirūḍhalakṣaṇā) of ‘woman whose husband is living' and 'widow'. For a woman's good fortune is judged and marked by the survival of her husband. The masculine equivalents of these terms, on the other hand, have no such establish- ed meanings; they refer in fact to a man's clothes and his fortune. 
 
@@ -505,7 +505,7 @@ Tryambaka's last point in this sub-section explains that 'this bathing should be
 
  
 
-86 
+[[86]]
 
 house; for example, when she is pregnant), then she should bathe from an earthenware pot; and she may use the water of nine pots. This is the ancient law.'66 In his comments on pregnancy, Tryam- baka adds that a pregnant woman should take her bath with warm water (kosnena vārinā; Sdhp.40 r. 10-40 v.1, section IV, 
 
@@ -519,7 +519,7 @@ With regard to the nakedness of women, but outside the specific context of bathi
 
 Before Dawn 
 
-87 
+[[87]]
 
 time of the earlier grhyasūtras, however, the custom of marrying an adolescent girl was only just beginning to give way to that of child marriage. Thus Gobh.gr.III.4.3-6 makes a general statement about the gotra of the (presumably adolescent) bride, then adds as an afterthought that a nagnikā is best (nagnikā tu śreṣṭhā; v.6). Măn.gr.I.7.8 recommends successively a girl who has not yet experienced sexual intercourse (kanyam aspṛṣṭamaithunām), who is younger than the groom (yavīyasīm), and a nagnikā. Astāvakra's commentary defines the latter term as 'one who has not yet develop- ed female sexual characteristics' (aprāptastrībhāvām ayauvan- arasām). The reference to sexual inexperience suggests that an adolescent bride was the accepted custom, and thus that the require- ment of a nagnikā or pre-adolescent girl is an afterthought. If the latter were the rule, the former epithet would-one hopes-be unnecessary. Mātṛdatta's commentary on what is almost certainly an incorrect reading of Hir.gr.1.19.2 clearly demonstrates this overlap in marriage customs. Faced with the apparent ruling that a man should marry a bride who is both a nagnikā and a brahma- cāriņī (i.e. leading a celibate life), Mātṛdatta seeks to evade the con- tradiction by defining the former as 'one who has begun to menstru- ate (nagnikām āsannārtavām) and who is therefore fit to throw aside her clothes (tasmad vastravik ṣepaṇārhā nagnikā), that is, fit for sexual intercourse (maithunärhety arthah).' This obviously con- tradicts the accepted definition of the term. 
 
@@ -527,7 +527,7 @@ In fact, Hir.gr.1.19.2 should read anagnikā (Bhandarkar 1893: 151 ff.; Thieme 1
 
  
 
-88 
+[[88]]
 
 Thieme); she is called anagnikā when she has begun menstruating (ṛtumatī; ‘zu ergänzen: aber erst seit kurzem', Thieme); one should therefore give one's daughter in marriage when she is anagnikā ('zu ergänzen: aber nicht schon eine präptayauvana', Thieme 1971:175; Gṛhasangraha II.17). But as the age of marriage dropped from the teens to pre-teens-and even to the age of four (Br.P. 165.7) or five (Par.M.I.ii.p.77, Marīci)—the ideal of an anagnikā bride was replaced by that of a nagnikā. 
 
@@ -543,7 +543,7 @@ Tryambaka begins by quoting from the Matsyapurāṇa. ‘After bath- ing in this
 
 Before Dawn 
 
-89 
+[[89]]
 
 worn by widows (Wood 1980:260; Rai and Singh 1983:84–5; Fuller and Logan 1985:89-92 etc.) and Jaina nuns (many of whom are also widows; Jaini 1979:246, note 8, 262-4, illus.27,28,30; but cf. Reynell 1985:26.4.2.iv). In his comments on widowhood, Tryambaka rules that the widow should not wear dyed garments (vikṛtam; glossed by Tryambaka as mañjiṣṭādir añjitam, ‘dyed with Indian madder, etc.'; Sdhp.46r.8) and then describes how the widowed daughters-in-law of Dhṛtarastra wear 'white garments' (suklottarīya, Sdhp.47[2]r.10 Mbh.XV.32.15; see section IV, pp. 299-300). The Mitākṣarā, however, glosses 'white' (śukle) as 'washed' (dhaute; Mit.on Yājñ.I.131). 
 
@@ -557,7 +557,7 @@ Nor may we find any similarities between the rulings on dress for women and thos
 
  
 
-90 
+[[90]]
 
 the goat or cow respectively (e.g. Manu II.41; Vas.XI.64–7; Āp.I. 2.39-1.3.10). What the staff, girdle and thread should be made of in the case of each twice-born varna is also discussed (e.g. Manu II.42 ff.). Evidently, none of this is of any relevance to the women of Tryambaka's day. 
 
@@ -571,7 +571,7 @@ The term anupahata (lit. 'undamaged') or, more commonly, ahata (lit. 'unbeaten')
 
 Before Dawn 
 
-91 
+[[91]]
 
 stood more loosely to denote garments that are in perfect condition, perfectly clean, and therefore ritually pure. 
 
@@ -583,7 +583,7 @@ A parallel to these rules on how a woman should wear her sari may be found in th
 
 [^69]: vastradhārane viseṣam äha sankhaḥ // Sdhp.7r.5. na nābhim darśayed ā gulphad vasaḥ paridadhyān na stanau vivṛtau kuryat // iti // Sdhp.7r.5-6 (Sankh.)< Mit. on Yājñ.1.87; Apar. on Yajn.I.83; Sm.C.III.p.585–6(gulphā- bhyām for gulphād). Not in the Sankh.Sm. See also Sdhp.22r. 10-23v.1, p. 273. 
 
-92 
+[[92]]
 
 wearing the sari and that in Maharashtra (and thus presumably in this Maratha kingdom) the sakaccha style was held to be a mark of the upper classes, the vikaccha of the lower ones (cf. Altekar 1978:289-91; plates IV,V,VII). The rules concerning a woman's dress merely enjoin which parts of her anatomy she may not reveal: her breasts, her navel and her legs down to the ankle. This is obvious- ly another kind of ruling altogether. 
 
@@ -601,7 +601,7 @@ It is important to disentangle several related questions here. First, what is th
 
 Before Dawn 
 
-93 
+[[93]]
 
 artist portrays social dress and customs as he sees them around him. According to the supernatural convention, he presents my- thological figures as conceived by the tradition he espouses. The line between these two conventions is not always clearly drawn. Cōla bronzes, for example, tend to portray the dress of royalty of that period combined with traditional iconographic features (cf. Nagaswamy 1983:46-51, 165-70). Thus the ornaments, head- dress and lower garments worn by Parvati seem to reflect the former; the sacred thread presumably belongs to the latter (cf. Nagaswamy 1983:54, 144-5, 168; The Image of Man 1982:67; Ions 1967:92; Rowland 1970:328-9; etc.). 
 
@@ -613,7 +613,7 @@ Judging by Tryambaka's statements, however, by the eighteenth
 
  
 
-94 
+[[94]]
 
 century, they did. How may we explain this? The question may be approached in two ways: with reference to the different social customs prevalent in north and south India; and in relation to foreign, especially Muslim, influence. 
 
@@ -625,7 +625,7 @@ It is more difficult to pinpoint the relative chronology of the Šankha ruling. 
 
 Before Dawn 
 
-95 
+[[95]]
 
 all three predate the Muslim invasions of the south by at least a hundred years: the Mitākṣarā, 1100-1120 (PVK I.ii.871; 1120-5, Derrett 1973(1):50); Aparārka's commentary, 1125, Northern Konkaṇa (PVK I.ii. 2 80; 1115-30, Derrett 1973(1):50); and the Smṛticandrikā, the great authority in the south, 1150-1225 (PVK I.ii.286). 
 
@@ -637,7 +637,7 @@ He also rules that ‘(a woman) should not dress herself and so on while her hus
 
  
 
-96 
+[[96]]
 
 of his wife; nor even a general rule that might be applied to both husband and wife. 
 
@@ -651,7 +651,7 @@ Tryambaka's next concern is to show that putting the auspicious tilaka mark on t
 
 Before Dawn 
 
-97 
+[[97]]
 
 Haridra is the yellow substance with which deities are smeared, especially Gaṇeśa as Haridraganapati. It is believed to be a mark of good fortune, one that could ward off demons (Stutley 1977:110). It is also one of the signs that a woman is (once more) available to her husband for, as Tryambaka himself explains (section IV, pp. 286-7), she should anoint her body with unguents of haridrā and kunkuma after she has taken her ritual bath on the fourth day of menstruation. Collyrium, obtained by inverting a small earthen- ware dish over a sooty flame, is applied to the inner eyelid to outline the eyes and exaggerate their length. Since it makes a woman at- tractive, it is prohibited to the menstruating woman (section IV, pp.284-5), the woman whose husband is away (p.291), and the widow (pp.299-300). According to Meulenbeld (1974:438), two different substances are used: one for medicinal, the other for cosmetic purposes. Saffron was used originally for both kunkuma and sindūra, that is, for both the tilaka mark on the forehead and the red line in the hair parting; but nowadays a less expensive red powder or paste is used. The tilaka is usually a round dot, al- though this may vary according to family or caste tradition: the women of Vai in Maharashtra, for example, wear the tilaka as a horizontal red line. The sindūra is more commonly associated with north Indian women and is rarely found in Tamil Nadu today (cf. Fuller and Logan 1985:90). Both tilaka and sindūra indicate that a woman is married and her husband lives. For example, a Khajuraho inscription dated A.D. 953 describes how enemies were killed and their wives thereby deprived of the use of sindura (cf. Altekar 1978:301). 
 
@@ -659,7 +659,7 @@ As mentioned above (p.90), the short-sleeved bodice, worn under the sari by marr
 
  
 
-98 
+[[98]]
 
 The mangalasūtra, the auspicious thread on which beads (usually black or gold) are strung, is fastened around the neck of the bride by the groom during the marriage ceremony (cf. PVK II.i.537). Chapter XV of the Laghvāśvalayanasmṛti describes the sacrament of marriage in detail and provides the earliest reference to the marriage thread (mangalyatantu, v.33; Dh.kośa III.iii.p.2048). Mantras are recited to ensure the wife's fidelity to her husband and Gauri bestows saubhagya on the bride. Saubhagya originally and literally meant 'good fortune' or 'prosperity', but it came to have as its established meaning (virūḍhalakṣaṇā) the good fortune of the happily married woman whose husband is alive. The prefix sau, with which the married woman is addressed, stands for saubha- gyavati, meaning 'fortunate woman' (i.e. by virtue of her marriage; Baudh.gr.1.6.30). The mangalasūtra, the tilaka, and the red line of sindura in the hair, are all indispensable signs of the married woman whose husband is alive; as long as he lives, they must be 
 
@@ -677,7 +677,7 @@ Both the famous tilaka metaphor from the Rāmāyaṇa and Tryambaka's comment on
 
 Before Dawn 
 
-99 
+[[99]]
 
 the year into two parts: dakṣināyana, when the sun ‘abides in' (or, more accurately, when the ecliptic tends towards) the south, during which time the days become shorter and the nights longer; and the uttarāyaṇa, when the sun 'abides in' the north and the days become longer once more. In dakṣināyana, the sun sets in a more southerly direction, leaving the northern sky dark. At such times, the northern direction, bereft of the sun's rays, does not 'shine'. Similarly, a wife whose husband has died is bereft of the tilaka mark that radiates her good fortune and so she too, as it were, no longer shines. 
 
@@ -687,7 +687,7 @@ Tryambaka's section on the tilaka for women explains none of this. The sectarian
 
  
 
-100 
+[[100]]
 
 to either Visnu or Śiva. The mark is made with neither sacred earth, sacred ash, nor sandalwood paste, but with kunkuma, the sign of a woman's marital happiness or saubhagya. For the tilaka is the visible symbol of a woman's religious allegiance as distinct from that of men. It declares first that her husband is her deity; secondly, that he is still alive to receive her daily service and worship. As we have seen, the bulk of the rulings on a woman's appearance carry the same message: her husband lives; all religious devotion must be directed to him alone. A man without his sectarian mark is a man without a god; a woman without her tilaka is one whose god is dead. 
 
@@ -705,7 +705,7 @@ Glass bangles (a late development; cf. Altekar 1978:298) are another indispensab
 
 Before Dawn 
 
-101 
+[[101]]
 
 letter by young initiates; LSJ); and for the ritual of offering food to the deity. The cooking of a high-caste married woman whose husband is living is pure. If she is menstruating, however, it is not; hence the prohibition (see section IV, p. 284). In the case of a widow, in Maharashtra as in other parts of India, if she shaves her head, her cooking is deemed pure; if she does not, it is un- acceptable (LSJ). To say that a woman wears glass bangles and necklace is thus to say that her husband is alive; that in turn is a mark of her virtue and purity; hence her cooking is pure. 
 

@@ -19,7 +19,7 @@ Sab. on Jai.1.3.3; but cf. Trik. 1.78c-9b) and who are rich enough to pay for th
 
 At Dawn 
 
-103 
+[[103]]
 
 that morning performance (Bodewitz 1976:3). In fact, the correct time of the oblation varies (depending on the text) from just before to just after sandhyā (‘juncture', i.e. sunset or sunrise; e.g. Āp.śr. VI.4. 7-9; Katy.śr.IV.14.6, IV.15.1,12-15). The first oblation in the morning is offered to Surya; the first in the evening to Agni; the second in both cases to Prajā pati. 
 
@@ -29,7 +29,7 @@ Is Tryambaka concerned with the srauta or the gṛhya ritual, or with both? To a
 
  
 
-104 
+[[104]]
 
 worship; and the obligatory bali offerings.'1 Does this reference to the agnihotra indicate an exclusive interest in srauta ritual, or is it being used more loosely here to cover both forms of the fire sacri- fice? 
 
@@ -45,7 +45,7 @@ It is therefore unwise to assume that Tryambaka's references to the agnihotra al
 
 At Dawn 
 
-105 
+[[105]]
 
 so on of the householder concerned, suggests that Tryambaka's main interest is in the ritual responsibilities of the wife of the inde- pendent householder and not merely with those of the wife of the ähitāgni. Tryambaka professes to have written a treatise on the religious duties of Hindu women. The text itself reveals that his interest is limited to orthodox women of the three higher varnas, in particular to those at court. A further restriction to the wives of āhitāgnis is unlikely. 
 
@@ -57,7 +57,7 @@ The parallels with both the śrauta ritual of agnihotra and the smārta ritual o
 
  
 
-106 
+[[106]]
 
 both fire and the sun; all three are in origin magical rites to ensure the continued rising and setting of the sun. The aghamarṣaṇa ritual to remove sin recalls a similar interpretation of the agnihotra (see Bodewitz 1976: 153 ff.). So close are these parallels, and so prevalent the current custom of twilight worship, that Gonda maintains that the modern ritual of samdhyopāsanam has not only borrowed from the Vedic ritual of agnihotra but has replaced it (1970:74). Certainly, the adoration of the sun is an important part of the śrauta ritual. Gonda's remark is even more persuasive if the term samdhyā is taken to denote not merely the twilight prayers but the full morning or evening ritual (agnihotrahoma or sāyamprātarhoma) that normally follows them (see below). In this context, it is interesting to note that when the Smṛtimuktāphala quotes the sloka given above con- cerning the three ritual responsibilities of the orthodox wife (see note 1), the term samdhyopāsanam is glossed as sāyamprātarhoma, the grhya counterpart of the agnihotra (Sm.M.II. p. 355). We may conclude that there is a further confusing overlap of terms. 
 
@@ -69,7 +69,7 @@ Now it is obvious that a lengthy samdhyā would make it difficult
 
 At Dawn 
 
-107 
+[[107]]
 
 for the householder to perform the homa ritual at the right time, that is, at dawn. In fact, according to Manu II.15 (cf. also Sm.C.II. p.426), the morning sacrifice (yajñaḥ; glossed as agnihotrahomaḥ) may take place either before or after sunrise (udite 'nudite caiva) or somewhere in between the two (samayadhyuşite; glossed by Medhätithi as 'at dawn'; by Kulluka as 'when neither sun nor stars can be seen'). Some authorities insist that the ceremony must be completed before the sun has risen 'by one hand's length' (hastād urdhvam) above the horizon (Gobh.Sm.I.122–3; Sm.C.II.p.426); others allow that it may be performed until the end of the morning period (samgava, see p. 45; cf. Āśv.gr.1.9.5 and comm.; Sm.C.II.p. 426). Either way, the difficulty of trying to perform two rituals at roughly the same time remains. Usually, as reported above, the samdhyā is performed first; sometimes it is performed after the homa ritual. 
 
@@ -85,7 +85,7 @@ In my comment on Tryambaka's introduction (see section I), I touched briefly on 
 
  
 
-108 
+[[108]]
 
 combined with the growing tendency to deny the modification (ūha) of gender, led to an almost unanimous rejection of that right. According to Manu, for example, the sacrifice performed by a woman is displeasing to the gods and inauspicious for men; a brahmin may not eat the food offered there (Manu IV. 205–6). It is argued (e.g. in Manu XI.37) that the person who performs the sacrifice must be skilled in srauta ritual (vaitānakuśalaḥ; glossed by Rāgh. as srautakarmakusalah) and thoroughly versed in the Veda (vedapäragah). It follows that if a girl (kanyā) or a young woman whether married or not (yuvatih; glossed by Kull. as anūḍhā ūḍhāpi taruṇī) performs the agnihotra sacrifice, she will go to hell; as indeed will an insufficiently educated or uninitiated or foolish man (Manu XI.36-7; cf. Sm.C.II.p.424; yet cf. pp.141-9 below). In V.155, Manu goes further still: no sacrifice (yajña), no ritual observance (vrata), and no fast (upoṣaṇa) may be performed by a woman separately (prthak; glossed by Sarv. as bhartrā vinā; i.e. independently of her husband). Vis.Sm.XXV.15-16 adds that a woman who observes such a fast or vrata during her husband's lifetime will deprive him of long life and will herself go to hell. 
 
@@ -97,7 +97,7 @@ R.V.VIII.31.5, for example, is quite explicit. Husband and wife are joint sacrif
 
 At Dawn 
 
-109 
+[[109]]
 
 gacchatām); may they, yoked like oxen, bear together the burden of the sacrifice (yajñasya dhuryāyuktāvibhūtām); may they jointly destroy their enemies; and share the rewards in heaven (Tait.Br. III.7.5.11; Śab. on Jai.VI.1.2.). 
 
@@ -109,7 +109,7 @@ Even Manu, whose extremist pronouncements on women are well known, insists that 
 
  
 
-110 
+[[110]]
 
 a man has no authority to act alone (ataḥ kevalasyādhikārābhāvāt); hence even wives who deserve to be hated (dveṣyah) should not be abandoned (i.e. superseded). 
 
@@ -125,13 +125,13 @@ The purvamīmāmsă material is illuminating in many respects. For example, in h
 
 At Dawn 
 
-111 
+[[111]]
 
 Certainly, in several Vedic rites, the wife plays both an active and an essential role. In the horse-sacrifice (aśvamedha), for example, four (or three) of the king's wives (mahişi, the consecrated queen; vāvātā, the favourite; parivṛktī, the neglected one who has borne no son; and pālāgalī, the low-born wife) anoint the horse and weave pearls into its mane and tail (Śat.Br.XIII.2.6.4-8; Katy.śr.XX. 5.15-17; Dumont 1948:480). When it has been killed (samjña- panam; Katy.śr.XX.6.10), they circumambulate the horse nine times, fanning it as they walk (Katy.śr.XX.6.12-13; Sat.Br.XIII. 2.8.2-4; Dumont 1948:482). In the Rāmāyaṇa, the queen de- capitates the animal herself (Rām.I.14.33-5). She then lies beside the horse under the cover of a garment and simulates sexual inter- course with it (āśvasisnam upasthe kurute, Katy.śr.XX.6.16; yonipradese, comm.; Baudh.śr.15.29). After a ritual exchange of abuse, the queens dissect the animal with special needles (Kāty. śr.XX.7.1-2). Similarly, in the ceremony of the king's consecration (räjasūya), three of his wives (mahiṣī, vāvātā and parivṛktī) are among the people of importance to the king to whom the 'jewel- offerings' (ratnahavis) are given (Sat.Br.V.3.4,13; Tait.Sam.I.8.9; Heesterman 1957:49–57). In the väjapeya (lit. 'drink of strength') ritual, the sacrificer's wife (wearing a skirt of kusa grass to counter the effects of her impure lower half) accompanies her husband in a symbolic joint ascent to heaven (Sat.Br.V.2.1.8-11). In the soma sacrifice, she ritually cleanses the animal about to be sacrificed (Śat.Br.III.8.2.1-6); makes the foundation brick for the fire-altar (Sat.Br.VI.5.3.1); and at one time she may even have chanted the sāman verses now sung by the udgātṛ (Sat.Br.XIV.1.35). For the wife is the 'bottom half' (jaghanärdhā, Sat.Br.III.8.2.2; V.2.1.8) of the sacrifice, half the sacrificer's own self (Sat.Br.V.2.1.10). As Sabara comments on Jai.VI.1.18, statements such as 'he binds the wife with a rope and the sacrificer with a girdle in order to make them a couple' (mithunatvāya; Tait.Sam. VI.1.3.5) only make sense if the sacrifice is performed jointly by husband and wife. 
 
 In theory then, the patnī is as much a sacrificer as her husband. But, as Śabara also explains, the ritual function of the wife is totally different from that of the male sacrificer: hers is a necessarily sup- portive role. Her participation therefore does not in any way dis- turb the 'singleness' (ekatvam) of the sacrificer (Śab. on Jai.VI.1.17). This point is picked up in Jai.VI.1.22 and 23. It seems that some theorists argued that the dual number in the joint sacrifice refers not 
 
-112 
+[[112]]
 
 to the husband and his wife but to two men (dvayoh pumsor adhi- kāraḥ, Śab. on Jai.VI.1.22; e.g. the sacrificer and the priest). Jaimini disagrees. The sacrifice is performed by one man not two (ekaḥ pumān ādadhīta na dvau; Śab. on Jai.VI.1.23); the dual number indicates the 'quality' of the single man (guṇasya tu vidhā- natvāt; Jai.VI.1.23); the word 'second' thus denotes the wife (patnya dvitiyaśabdaḥ syat; Jai.VI.1.23). The Vedic 'sacrificing couple' is reduced to a male sacrificer with his female 'second'. It is clear which way the trend is going.5 
 
@@ -147,11 +147,11 @@ Oddly enough, Sabara does not take exception to the term āsīḥ, 'the invocati
 
 At Dawn 
 
-113 
+[[113]]
 
 laid down for the wife to do, such as gazing at the ghee (e.g. Śab. on Jai.VI.1.17, see above; Ap.śr.II.6.6), may be interpreted literally. Sandal is so influenced by later views on the matter that he trans- lates even Jaimini's reference to āsīḥ as 'paring of the nails', com- menting that the term covers the shaving of the head and face as well. He does add, however, that other commentators have taken āśīh to mean Vedic benedictions (Sandal 1974 on Jai.VI.1.24). Tryambaka, on the other hand, follows Kumārila. But, for him, the transition from Vedic mantras (āsīḥ) to 'embellishments' (samskārāḥ) no longer requires explanation. He merely states that the wife's service to the fire implies ‘adorning and so on' (alankärādi). 
 
-6 
+[[6]]
 
 This issue of the right (adhikara) of the wife to perform sacri- fice is discussed at some length in the first kända or 'section' of the Trikāṇḍamandana, Bhaskara Miśra's exposition of the soma- yaga aphorisms of Apastamba, also known as the Āpastamba- sūtradhvanitārthakārikā. Bhaskara Miśra wrote at a time when it was evidently still possible to assert that, according to some, the wife was equally and jointly responsible for the sacrifice (before A.D. 1100 according to PVK.I.i.p.551; in the eleventh or twelfth century A.D. according to Smith, 1984:75-80). Judging by the repeated juxtaposition of unreconciled opposing views, however, this pro- duced an uncomfortable ambivalence. 
 
@@ -161,7 +161,7 @@ The section on the adhikara of the wife opens by presenting three distinct views
 
  
 
-114 
+[[114]]
 
 to the relevent deity.) In the context of an optional rite (kāmyatve), the ritual should be performed if either husband or wife have a particular desire (Trik.I.53a). According to an alternative view ascribed to Rudradatta (comm. on Trik.I.46b), however, the husband actually makes the offering (tyagam patiḥ kuryāt) while his wife merely ‘approves' it (patnī tam anumanyate; glossed as anujānā- ti, 'she gives her consent'); hence their inequality in the sacrifice (adhikāre 'pi vaiṣamyam; Trik.I.47a). What is meant by the wife's 'approval' or 'consent' is unclear. Following this line of thought, the sacrificer has the entitlement (adhikāravān) with regard to the major offerings (prädhānyena) which are independent (svaniṣṭha; glossed as svatantra); while the wife, being dependent upon her husband (patni tatparatantrā satî) has the entitlement regarding sub- sidiary offerings (angabhūtādhikāriņi); hence the religious res ponsibilities of the husband are heavier (patidharmā balādhikāḥ; Trik.I.48). In the context of a kāmya rite, the ritual should be per- formed only if the husband is the one with the desire (Trik.I.53b). Bhaskara Miśra is evidently unwilling to endorse either of the two prevailing views. 
 
@@ -173,7 +173,7 @@ Against such a background, it is no surprise to read in the Mahā- bhārata that
 
 At Dawn 
 
-115 
+[[115]]
 
 to neither gods, ancestors or men (Ait.Br.32.8.p.824-5). Bodewitz (1976:119) translates the term anaddhāpuruşa as 'barbarian', taking it merely as a derogatory term. Sāyaṇa explains that such a man is 'false' (anṛtaḥ) by virtue of his failure to perform his sacri- ficial duty. In another context, he glosses the term as alīkapurușa, 'a false or counterfeit man' (on Sat.Br.VI.3.1.24; cf. S.B.E.XLI. p.197). Since the essential sacrificer even in the joint sacrifice is the male, failure to perform that sacrifice in the absence of a female 'second' merely shows that he is not a 'real' man. As Bodewitz points out (1976:119–21), a man without a wife (apatnīka) may be either a once-married man whose wife has died or disappeared, or a man who has never married. The latter alternative opens the way for the internalization of the sacrifice. The wife is substituted by faith (śraddhā; Ait.Br.32.8) or intellect (buddhi; Bodewitz 1976:121, note 10). The sacrificer now offers in and to the self. In the realm of dharmasastra, however, the substitute is a wife made of kuśa grass (upādhiś cātra kuśamayī patni) with whom a man may offer sacrifice for the rest of his life (Sm.C.II.p.442; Ait.Br.32.8.p.826; contrast Apar. on Yajñ.I.89.p.114-15). According to Trik.II.8, if the sacrificer's wife is absent, a wife of gold or kuśa grass (sauvarṇī kuśapatnī vā) may be substituted (cf. Trik.III.96); but the wife may never use such an image of her husband to perform the sacri- fice in his absence (patyuḥ pratinidhim kṛtvā patnī naivam samācaret). Tryambaka also deals with this question of whether the wife's presence and 'participation' is strictly necessary, and comes to the opposite conclusion (see below, pp. 132-41). For the moment, however, let us note simply that his ruling on the wife's duties in the joint sacrifice follows the trend of thought indicated by Śabara and Kumārila. In general terms, as Tryambaka explains in section IV, the good wife should be like Lopamudra, who takes her hus- band's religious duties as her own (pativrată, sadharmini) to the extent that she seems to be no more than her husband's shadow (tavāngacchāyayā tulyā; Sdhp.22v. 10ff.; cf. pp. 273-4, 281–2). In the context of the fire sacrifice, the patni's task is the supportive and peripheral one of decorating the hearth. 
 
@@ -183,7 +183,7 @@ Tryambaka opens his section on agniśuśrūṣā by giving two practical details
 
  
 
-116 
+[[116]]
 
 The first of these is a ruling specific to the patni. ‘For the purpose of the fire ritual, the wife should enter the agnihotra hall by its southern door." Tryambaka quotes from the Katyāyanaśrauta- sūtra. 'There are two doors, one to the east, another to the south; the husband enters by the eastern door, the wife by the southern one.'8 
 
@@ -195,7 +195,7 @@ These rulings indicate that Tryambaka is thinking primarily of the śrauta ritua
 
 At Dawn 
 
-117 
+[[117]]
 
 comm.) Additional information not supplied by Tryambaka in- cludes the shapes of the three fireplaces (the ahavaniya is square, the garhapatya circular, the dakṣina the shape of a halfmoon; see figure 7); and where the sacrificer and his wife should sit (the former to the south-west of the āhavanīya fire; the latter to the south-west of the garhapatya fire, facing north; Ap.śr.VI.5.1.2, II.5.2,8). 9 
 
@@ -235,7 +235,7 @@ There are two main points of interest here. First, the ruling that the sacrifice
 
  
 
-118 
+[[118]]
 
 comment (1976:58-60 and note 5). The issue evidently needs further clarification. 
 
@@ -249,7 +249,7 @@ Tryambaka's second point concerns where the patnī is permitted to walk. ‘(Any
 
 At Dawn 
 
-119 
+[[119]]
 
 follows is not a ruling exclusive to women but a general one concer, ning any movement within the sacrificial area. First, however, it is necessary to give some explanation of the terms used. 
 
@@ -267,7 +267,7 @@ Tryambaka's version of all this is taken from the Baudhayana- dharmasutra and ru
 
  
 
-120 
+[[120]]
 
 path to) the sacrifice is between the catvāla and the utkara. (When coming) from the catvāla, (it lies) between the ahavaniya fire and the utkara. Until the ritual is over, the performers of the sacrifice (i.e. the priests), the sacrificer and his wife should walk there (i.e. only along that path). When the ritual is over, they may walk around in the area where there is no utkara (i.e. on the other side of the en- closure).'11 Tryambaka supplies his own glosses. 'Visamsthite means “as long as the ritual is not completed". Samcaraḥ means “entering and leaving". Samsthite means "once the ritual is com- pleted, that is, afterwards.' ""12 
 
@@ -283,7 +283,7 @@ When dealing with the various instructions concerning the right way to approach 
 
 At Dawn 
 
-121 
+[[121]]
 
 proaching the vihāra from the north. In this context, the statement that one who enters from the south will miss the sacrificial 'boat' (literally, see Sat.Br.II.3.3.15-16) means not that the patni is barred from heaven (because she enters the enclosure from the south) but that once inside the enclosure everyone should approach the vihāra from the north. The third type of 'entrance' is that mentioned here by Tryambaka: the sacred path to the sacrifice from the north-east by which one may come and go during the ritual, the tīrtha or samcara. Following Katyāyana (patni ca pūrvavat; Katy.śr.IV.13. 13), we may assume that this last rule of entry applies to the patnī as it does to her husband (patny api yajamānavad eva samcarena pravisya; comm.). 
 
@@ -295,7 +295,7 @@ In fact, although monogamy is usually presented as the ideal, polygamy seems alw
 
 Yet Ap.II.5.11.12 forbids a man to take a second wife as long as the first is able to produce children and perform her part in the religious sacrifice. Verse 13 adds that if the first wife is deficient in these two important respects, then he may take another wife, as long as he does so before the sacrificial fires are kindled (prāg agnyādheyāt). For Manu IX.81, the major point at issue is the wife's ability to bear sons: if she is barren (vandhyā), she may be superseded in the eighth year; if her children all die (mṛtaprajā), in 
 
-122 
+[[122]]
 
 the tenth; if she bears only daughters (strijananī), in the eleventh (cf. the tenth, twelfth or fifteenth years respectively, Trik.III. 84a-5). He adds, however, that a disagreeable wife (apriyavādinī) should be superseded at once (cf. Trik.III.85b). The Smṛticandrikā puts the question in its religious perspective. Rejecting the views of Āp.II.5.11.12–13, Devannabhatta quotes another smṛti'. If a wife is barren or produces only daughters, if she is past menstruation (vigatārtavā), diseased (vyādhitā) or insane (unmattā), then she may be abandoned. But if she is innocent of any serious crime (adustă; glossed by Kull. on Manu VIII.388 as atipātakādidoṣarahita), then she should be abandoned only in sexual terms (tīrthatah; glossed by Dev. as yonitaḥ) and not in matters of religion (na tu dharmatah; Sm.C.II. p.439-40). The institution of polygamy may therefore continue without endangering the apparently monoga- mous requirements of religious ritual. 
 
@@ -309,7 +309,7 @@ This exclusion of the kṣatriya is predictable. According to the Käthakasamhit
 
 At Dawn 
 
-123 
+[[123]]
 
 are that the kṣatriya is engaged in impure actions (ayajñiyam amedhyam carati), eats food which should not be eaten (aty- anannam), and defeats the brahmin (jināti brāhmaṇam; Mait.I.8.7. p. 126). On new- and full-moon days, however, he keeps his obser- vances and thus may perform the agnihotra. On the other days, he should give food to a brahmin. For the brahmin is Agni: what is eaten by the brahmin is sacrificed to Agni (Kath.Sam. VI.6.p.56). Bodewitz discusses this idea of the brahmin as the recipient of the sacrificial offering (1973:223, note 14). I shall consider the impor- tance of the atitihipüjā for the kṣatriya householder in section IIC, pp. 183-210. For the moment, we need only note two apparently contradictory points. First, Tryambaka assumes the practice of poly- gamy, a custom normally associated with kṣatriyas, thereby imply- ing a predominantly kṣatriya court. Secondly, he advocates the twice-daily agnihotra sacrifice without qualification or proviso regarding the kṣatriya lifestyle. 
 
@@ -319,7 +319,7 @@ I have already discussed the views of Jaimini and Panini regarding the definitio
 
  
 
-124 
+[[124]]
 
 the context of a largely polygamous court society, it is too limiting a term. He usually prefers the most general terms such as strī, nārī and yoșit, words which do not distinguish between 'woman' and 'wife' (but which in the context of Tryambaka's approach can only mean the latter; see section III). Words denoting an unmarried woman (e.g. kanya, 'daughter', 'unmarried girl') appear rarely, as in the description of Parvati as 'daughter of the Himalayas' (section I, p. 30, note 2). Words carrying associations of chastity (e.g. satī), devotion (e.g. pativrata) and the 'good fortune' associated with marriage (e.g. sumangalī, saubhāgyavatī) are more common; as are those denoting the negative aspects of the 'unwifely' woman (e.g. pumścalī, ‘one who runs after men', a loose woman; cf. sec- tion III, p. 248, note 9). In the context of the fire ritual, however, Tryambaka is concerned not so much with definition as with the practical problems of a polygamous household. For detailed rules are laid down regarding precedence among wives. 
 
@@ -333,7 +333,7 @@ Jyestha (lit. 'first, 'best', 'eldest') means the wife that a man marries first 
 
 At Dawn 
 
-125 
+[[125]]
 
 are 'seen' or obvious (drstam eva phalam); but, unlike the first marriage, such a union produces no 'unseen' or otherworldly effect (nādṛṣṭam upapadyate; Sm.C.II.p.439, Käty.). According to one of the three views put forward by the Trikāṇḍamandana, a wife married for pleasure has no entitlement (adhikāra) to the sacrifice (Trik.I.44b, see above). It follows that junior wives need not be of the same varna as their husband. 
 
@@ -347,7 +347,7 @@ Several possibilities are hinted at here. Ideally, the patni is of the same varn
 
  
 
-126 
+[[126]]
 
 cărinī; Apar. on Yajñ.I.88). The implication-spelled out by Viş.Sm.26.3-is that if there is no wife of the same varṇa (samāna- varṇāyā abhāve), then he should appoint as patnī a wife from the next varna (anantarayaiwa). Nandapandita explains that a brahmin may appoint a kṣatriya wife, a kṣatriya may appoint a vaisya wife. This ruling also holds in times of difficulty (apadi ca; glossed by Nand. to mean 'if the wife of the same varna has not returned in time or if a serious accident has befallen her'). 
 
@@ -361,7 +361,7 @@ Conversely, if the jyestha is at fault (doșe satī; Sm.C.II.p.438, Daksa), she 
 
 At Dawn 
 
-127 
+[[127]]
 
 Two points may be made here. First, it is unclear when a wife is sufficiently 'at fault' to be disqualified from taking part in the joint sacrifice. We have already established that she may be rejected sexually for any number of reasons ranging from barrenness and disease to insanity, but none of these bar her from the joint sacrifice (Sm.C.II.p.440). The implication is that only a serious crime (atipātakādidoṣa; Kull. on Manu VIII.388) can do that. The Trikändamandana suggests infidelity and hostility to one's husband (vyabhicāravatī . dveşini drohiņi; Trik.I.79c); alternatively, sexual intercourse with his student or teacher, or (deliberately) aborting a foetus (śisyagām gurugām garbhahantrim; Trik.III.89). Secondly, the replacement should ideally be of the same varṇa as the husband. Neither Tryambaka nor Katyāyana suggests that even an unsuitable jyesthä may be replaced by a wife of a lower varna. However, an atipātaka crime must constitute a time of distress or difficulty (apadi; cf. Viş.Sm.26.3). Under these circum- stances, the replacement may be of the next varna down. 
 
@@ -375,7 +375,7 @@ siṣṭādi for agnihoträdi", bahutvam cej for bahutve ca, Käty.); Apar. on Y
 
  
 
-128 
+[[128]]
 
 However, Tryambaka continues: 'if that (wife who has been appointed) is unable to perform the various services (suśrūṣādi) (required of her) every day, then each (wife) should do them in turn day by day in order of seniority. (Alternatively,) if the one (who has been appointed for that day) is unable (to take care of everything required of her) within the one day, then all the wives should take part: they should divide the work (between them), each according to her (particular) knowledge (or expertise).'19 As evidence for these rulings, Tryambaka quotes Kātyāyana's considerably abbreviated version of the same ideas. ‘If (one wife) is unable (to do everything every day), then (they should all take it) in turn; according to the (nature of the) work and in order of seniority. If (one wife) is un- able (to do everything within one day), then they should (all) do (it) at once, dividing (the work between them) according to their expertise. '20 
 
@@ -391,7 +391,7 @@ At Dawn
 
 At which point should the wife participate? 
 
-129 
+[[129]]
 
 According to Tryambaka, the ritual ‘adorning of the fire' (agnya- lankaraṇam)—which he has already established as the wife's part in the ceremony (section IIB, pp. 107–15)—should be per- formed immediately after such activities as sweeping round (the fires; parisamūhanādy).”21 His evidence for this is a quotation attributed to Baudhāyana. "The (learned) teachers declare that one should always (i.e. when oblations are offered) sweep around (the fires), sprinkle water around (them), strew darbha grass around (them), pour water around (them), put fuel on (them), and (then) adorn (the hearth).'22 
 
@@ -405,7 +405,7 @@ It is clear, even from this brief quotation,, that Tryambaka's
 
  
 
-130 
+[[130]]
 
 emphasis is quite different from that of Baudhāyana. The latter merely lists the various actions leading up to the offering of milk, without indicating which should be performed by whom. Try- ambaka, having defined the wife's participation in the ritual as alankara, uses Baudhāyana's quotation to demonstrate when she should play her part. 
 
@@ -427,7 +427,7 @@ The ritual of milking (dohana) is described in some detail in the srautasūtras.
 
 At Dawn 
 
-131 
+[[131]]
 
 milked by a sudra (Kāty.śr.IV.14.1); according to others, it may (Āp.śr.VI.3.11–14). According to some, the cow should be ac- companied by a male calf (pumvatsa; Kāty.śr.IV.14.1); according to others, the calf may be female (strīvatsa; Šāṁkh.śr.II.8.6–7). The cow is placed to the south of the ähavaniya enclosure with its head facing north, north-east or east. The calf is brought to it, then taken away. Finally, the cow is milked. A special earthenware vessel (agnihotrasthālī; defined Āp.śr.VI.3.7 and comm.) is used to collect the milk (Kāty.śr.IV.14.1 and comm.; Ap.śr.VI.3.15). 
 
@@ -437,7 +437,7 @@ Tryambaka concludes. 'The important thing is that both (hus- band and wife) shou
 
 [^27]: home tübhayoh sannidhanam mukham // Sdhp.8v.10. 
 
-132 
+[[132]]
 
 How important is the presence of either husband or wife? 
 
@@ -455,7 +455,7 @@ The first point to notice here is that the religious obligation to perform the d
 
 At Dawn 
 
-133 
+[[133]]
 
 (dharmakaryārtham); to acquire learning (vidyartham); to gain fame or ensure a good reputation (yaso 'rtham); and for the sake of pleasure (kāmārtham; glossed by Kull. as bhāryantaropabhogartham, 'to enjoy the favours of another woman', or perhaps ‘another wife'). Manu's concern is to lay down rules for how long a woman should wait for her husband to return. Tryambaka, in his section on the duties of the wife whose husband is away, explains how such a woman should dress and behave (see p. 291). Here, however, he is concerned with the arrangements that a man must make regarding the daily fire ritual if he has to go away. 
 
@@ -467,7 +467,7 @@ Tryambaka explains. "This injunction regarding leaving home is acceptable (only)
 
  
 
-134 
+[[134]]
 
 Tryambaka continues with an unattributed quotation taken from the Trikändamandana. 'But (it is otherwise) for a man. It is reason- able for a man who performs the (daily) agnihotra ritual to leave home in order to earn money, because the sacrifice can only take place if there is money (to pay for it). But he should not go away for (other reasons) such as going on a pilgrimage (tīrthādyartham).'32, In fact, 'leaving home for the purpose of going on a pilgrimage is forbidden on account of this ruling that (staying at) home and (attending to) all the duties of the household(er) is the best thing for the man who is entitled to perform sacrificial rituals. Thus the ancient sages forbid the man who is established in the householder stage of life to go (on any pilgrimage) to a sacred place. '33 
 
@@ -481,7 +481,7 @@ Tryambaka's description of the sacrifice that can only take place if there is su
 
 At Dawn 
 
-135 
+[[135]]
 
 expenses may the householder (i.e. agnihotrin) relinquish his personal responsibility for it, and that only briefly. 
 
@@ -493,7 +493,7 @@ Tryambaka returns to an earlier statement and quotation con- cerning the patnī 
 
  
 
-136 
+[[136]]
 
 never abandon the agnihotra, nor stay elsewhere. '34 
 
@@ -511,7 +511,7 @@ Tryambaka anticipates the objection that the wife should be allowed to go on pil
 
 At Dawn 
 
-137 
+[[137]]
 
 commentary that qualify the claim. 'But we say that not even all the places of pilgrimage (together) can equal the agnihotra. Or, alter- natively, only when a (learned) brahmin has relinquished his right to perform the sacrifice (yajñādhikāre... nivṛtte) may he wander about visiting sacred places. For the great sages who are by nature without sin have declared that the merit (to be found) in (visiting) a sacred place is the reward of the sacrifice.'37 For, as the Trikända- mandana explains elsewhere, all sacred places reside in the altar itself (sarvāni tīrthāni vasanti vedyām), and all deities may be worshipped in the agnihotra ritual; it is therefore pointless (vyartham) to journey abroad in order to worship any one of these (Trik., prakīrṇakānda 27). Interestingly, Morinis' comments on 'the anti-pilgrimage tradition in Hinduism' do not even touch on this orthodox, speci- fically dharmasastric theme of the rejection of pilgrimage on the grounds of the superiority of the agnihotra ritual; presumably because it has little relevance today (1984:74-6). 
 
@@ -527,7 +527,7 @@ eṣā
 
  
 
-138 
+[[138]]
 
 The latter ruling seems to presuppose a brahmin husband, for the water used to give a ritual (as opposed to a ‘dirt-removing') bath to the feet of brahmins is traditionally considered purifying, on a par with the waters of the Ganges. Similarly, at a traditional initiation ceremony (when it genuinely indicates the beginning of Vedic education), men and (especially) women come to receive the tīrtha or purifying water used to bathe the initiate's feet. Water is cere- monially dropped onto the child's big toe, collected and given as angusthajala. Nowadays, since most brahmin boys go through the ritual before going to ordinary schools, the water has no such purifying properties. Even fifty years ago, however, orthodox women in Maharashtra still drank the angusthajala of their brahmin husbands (LSJ). According to Lynn Bennett, village women in Nepal still do this before every rice meal (1938:174-5; and a striking photograph of a wife washing her husband's feet before drinking the gora pani or 'foot water', p. 175 and cover; see also section IIC, pp. 221–7). 
 
@@ -539,7 +539,7 @@ Regarding Tryambaka's assertion that a brahmin may indulge in pilgrimages only w
 
 At Dawn 
 
-139 
+[[139]]
 
 assimilate the new ideas into the orthodox system. The theory of the four successive stages emerged with renunciation as an integral part at the end of the line (Manu IV.1, VI.33; Olivelle 1974, 1978,1984; cf. section I, pp. 44-5. 
 
@@ -551,7 +551,7 @@ Tryambaka returns to the quotation already given above (see note 29) and attribu
 
  
 
-140 
+[[140]]
 
 and wife) are absent, the offering is worthless.' According to Tryam- baka, 'the ruling concerning the close connection between the patnī (and the sacred fires of the agnihotra) is equally applicable to the aupāsana ritual since Katyāyana's statement given above is common (to both).'40 
 
@@ -565,7 +565,7 @@ The Smrticandrika discusses the issue at length. According to śruti, those who 
 
 At Dawn 
 
-141 
+[[141]]
 
 This link between the sacred fires and the patnī is not indissoluble. Yājñ.1.89 specifies that the wife cremated in this way should be well- behaved (vṛttavatī; glossed by Dev. and Mit. as ācāravati). Kātyā- yana spells out the proviso. The patni may only be cremated with the sacred fires if she has fulfilled her religious obligations and be- haved virtuously (dharmacārini sadhvi). If she has been difficult (viparītā), then she should not be cremated in this way; and the husband should remarry anyway (Sm.C.II.p.441, Katy.). In fact, as the Trikändamandana demonstrates, there were several views on this issue of when to reset the fires. According to Trik.III. 92, for example, a junior wife may not be cremated with the śrauta fires. According to Trik.III.94, any wife 'without distinction' (strīmātram aviseṣena) may be cremated with the śrauta fires. According to Trik.III.100-1, because of the primary importance (pradhānatvāt) of the husband and the obvious secondary impor- tance (sākṣād angatvät; comm.) of the wife, her death has no effect at all (cf. comm. on Trik.II.8). 
 
@@ -575,7 +575,7 @@ Is the patni the ritual agent of the sacrifice?
 
 Given the identification of the patni with the sacred fires, and the 
 
-142 
+[[142]]
 
 importance of her presence at the sacrifice, should she be con- sidered the performer of the sacrifice? May she officiate in her husband's absence? According to Tryambaka, she may not. 
 
@@ -597,7 +597,7 @@ Tryambaka next considers the aupāsana ritual. His evidence is a quotation from 
 
 At Dawn 
 
-143 
+[[143]]
 
 cording to this statement, ‘in the aupāsana oblation too, the agency of the patni is prohibited.'44 
 
@@ -609,7 +609,7 @@ More frequently, however, the term is used as a synonym for upanīta (‘an init
 
  
 
-144 
+[[144]]
 
 tion of Vedic studies is assumed. In its more common negative form (anupeta; glossed by Sudarsana on Ap.gr.III.8.3 as anupanīta, Benares edn.), it denotes either an adult male who is theoretically of the first three varnas but has never in fact been initiated; or a male child, born to parents of the first three varnas, who has not yet been initiated but will be. The first meaning is exemplified by Ap.I.1.1.32 which rules that if a man's father and grandfather were never initiated (yasya pitä pitämaha ity anupetau), then both he and they are deemed to be 'brahmin-killers' (syātām te brahmahasamstutāḥ). Consequently, before such a person may be taught the Veda (Āp.I.1.2.4), he must recite certain mantras daily for a whole year for each uninitiated ancestor (pratipūruṣam samkhyāya samvat- saran yāvanto 'nupetah syuh; Ap.I.1.2.1). In its original context, Tryambaka's quotation (Āp.gr.III.8.10.3; cf. the parallel rulings in Ap.II.6.15.14-15, 17-18) may be interpreted in either way. The issue is what renders a sacrifice invalid and, in particular, whether a woman or an uninitiated man (or boy) may officiate. The answer, for Apastamba as for Tryambaka, is that they may not (striyānu- petena ... homam paricakṣate, Āp.gr. III.8.10.3; na strī juhuyāt| nānupetaḥ, Āp.II.6.15.17-18; cf. Manu II.171). It is clear from the context of Tryambaka's treatise that the ruling is given to counter- act the suggestion that, if a man is unable to perform the ritual, his wife or young son may do it for him (see below for a further dis- cussion of temporary substitutes). 
 
@@ -619,7 +619,7 @@ Dharmasastra literature defines kṣāralavaṇa in a number of ways. The issue 
 
 At Dawn 
 
-145 
+[[145]]
 
 88). For Medhätithi on Manu V.73 and the Mitäkṣarā on Yājñ. III.36, it is made from barley (yavakṣārādi; carbonate of potash, Dutt 1922:87). Kullūka on Manu V.73 takes kṣāralavana together as a karmadhāraya compound meaning ‘manufactured (as opposed to natural) salt' (kṛtrimalavana). In the context of ayurveda, Suśruta distinguishes five categories of kṣāra including yavakṣāra and sarjikākṣāra mentioned above (Meulenbeld 1974:459; Dutt 1922: 21-2, 81-2, 87-8). Ayurveda also distinguishes several kinds of lavana including rock salt (saindhava; Medh. on Manu V.73) and sun-dried sea salt (sāmudra; Meulenbeld 1974:495–6). 
 
@@ -635,7 +635,7 @@ In fact, Tryambaka too admits that 'the agency of the patni is accepted by some.
 
  
 
-146 
+[[146]]
 
 (antevāsī; glossed as sisyaḥ, Nār., Dev.) (should do it).’46 
 
@@ -647,7 +647,7 @@ Secondly, the reference to kumārī in this context carries with it the assumpti
 
 At Dawn 
 
-147 
+[[147]]
 
 father lays formal claim to his daughter's son (Vis.Sm.XV.5). By extension, any girl who has no brother, and who thus might be called upon to perform this duty, is called a putrikā (Viṣ.Sm.XV.6). Hence Manu's warning that a wise man should not marry a girl who has no brother (Manu III.11; Yājñ.I.53), for then his own funeral rites and those of his ancestors will be neglected. While Bühler produces both historical and contemporary evidence for the practice (1965:85–6, note 15), according to Kane it has been out of vogue for centuries (PVK II.1.p.435). We may assume that it is very rarely, if ever, encountered nowadays. In Tryambaka's case, it is a further de- monstration of the problem of quoting ancient texts to support an eighteenth-century point. 
 
@@ -665,7 +665,7 @@ According to Gobhila, ‘the patni should offer the two oblations of morning and
 
  
 
-148 
+[[148]]
 
 According to Gautama, 'some people (eke) maintain that the patnī may offer sacrifice.'50 
 
@@ -683,7 +683,7 @@ But perhaps the most important statement is that the sacrifice is always deemed 
 
 At Dawn 
 
-149 
+[[149]]
 
 Tryambaka's own views are clear. The male head of the house- hold should always perform the śrauta sacrifice himself. If possible, he should perform the aupasana ritual himself too; if not, there is scriptural justification for the practice of using permitted substi- tutes, including the patni. Tryambaka's reluctance to allow this even in the case of the smärta ritual may be explained by the belief that a sacrifice performed by a substitute officiant produces a substandard result. According to Dakṣa, for example, the reward obtained by an oblation offered oneself (svayamhomaphalam) cannot be obtained by. proxy (Sm.C.II.p.422). For when a ritual is performed by someone else, the 'unseen result' (phalam adṛṣṭam) is halved (phalam ardham, Sm.C.II.p.422-3; cf. Sm.M.II.p.354-5; Par.M.I.i.p.311). But if the absence of the true sacrificer is unavoidable, a substitute or re- presentative may be assigned as detailed above. As Devanna- bhatta explains, these qualifications only apply when the sacrificer cannot perform the ritual himself (svayamhomālābhaviṣayam), because that alone is praised (tasyaiva prasastatvät; Sm.C.II.p.423). These rulings concerning substitute officiants must presumably be taken in conjunction with Tryambaka's earlier statement that a 'priest and so on' (rtvigādinā) should not perform the sacrifice in the absence of both husband and wife (see p. 132, note 29). Since only the husband may journey away from home, the implication is that, whoever is appointed to officiate in his absence, the patnī must still be there. 
 
@@ -697,7 +697,7 @@ The first point to note here is that, since Tryambaka seems to be concerned prim
 
  
 
-150 
+[[150]]
 
 are simply added on to those concerning the fire ritual, without any reference to the proper setting for their performance. 
 
@@ -709,7 +709,7 @@ Tryambaka's omission of the japa recitation is predictable. For only twice-born 
 
 At Dawn 
 
-151 
+[[151]]
 
 a woman to 'fall' and which must therefore be avoided at all costs. (see pp. 274-6). Yet, according to Vidyarnava, this is the 'absolutely necessary' part of Hindu prayer: 'everyone, who calls himself a Hindu' should recite it (1979:33). Unfortunately, Vidyārṇava gives little thought to the part played by women in his scheme of Hindu devotional prayer. As his detailed account demonstrates, each part of the samdhyā ritual must be accompanied by a number of mantras. If women are unable to pronounce these mantras, then as Tryam- baka implies, much of the ritual is barred to them. 
 
@@ -723,7 +723,7 @@ There is an explicit if confusing analogy here between the ritual of showing res
 
 [^54]: tat prakāram āha sa eva // Sdhp.10r.7. kṛtvā mandalakam bāhye tūsnīm evākṣatädibhih / püjayet satatam ya tu tasyas tusyanti devatäh // Sdhp.10r.7-9 (I have followed the PT reading of yā tu for yāvas(?); Vyāsa) < Sm.M.I.p.158 (yavat for ya tu; Vyasa). 
 
-152 
+[[152]]
 
 ceremony described at some length in the gṛhyasūtras. The term madhuparka denotes an offering of honey or clarified butter and curds (Āśv.gr.1.24.5-6; Ap.gr.V.13.10; Hir.gr.I.12.11-12; PVK II.i.p.542ff.). The other items offered to the special guest include a seat of grass, a cow, and water intended for three distinct purposes: for washing the feet, as an offering of respect, and for sipping (pādyārtham arghyārtham ācamanārtham codakam; Nār. on Aśv. gr.I.24.7). When the guest has washed his feet, he receives the arghya water in cupped hands (arghyam añjalinā pratigṛhya ; Āsv.gr.I.24.11). Nārāyaṇa's comment provides the traditional definition of the term: water mixed with such things as perfume (e.g. sandalwood paste) and flowers (gandhamälyädisamyuktam udakam). 
 
@@ -737,7 +737,7 @@ What is surprising, however, is that the offering of water has been replaced by 
 
 At Dawn 
 
-153 
+[[153]]
 
 broken rice (kusapuṣpākṣatānvitam) accompanied by the gayatri (Ag.P.72.38). Since the Agnipurāṇa also stipulates that women may not recite Vedic mantras (153.12), the latter ritual, if not both, would seem to be barred to women. In the 'special arghya' ritual described by Vidyārṇava in his section on pūjā, the water is mixed with unbroken rice, sandalwood paste and flowers (1979:149-50). 
 
@@ -749,7 +749,7 @@ The invocation to the sun evidently constitutes an exception to or modification 
 
  
 
-154 
+[[154]]
 
 Presumably, this is because the strict prohibition applies only to Vedic mantras, whereas this one comes from a purāna. It is certainly not to be found in Bloomfield's concordance of Vedic mantras (1964(2)). Yet this mantra is included by Vidyārṇava in the samdhyā rituals of orthodox males of two of the main Vedic schools (śākhā). Of the eighteen subdivisions of the Vedic samdhyā ritual outlined by Vidyāmava, six are devoted to the sun: an offering of water to greet the sun (sūryārgha); the worship of the sun (sūryopasthāna); a fare- well offering of water (suryärghya); obeisance to the sun (surya- namaskāra); a third offering of water (sūryārghya); and a final salutation (suryapraṇāma). Each of these, accompanied by mantras, is repeated three times a day. According to Vidyārṇava, the mantra specified by Tryambaka for women is recited by brahmins of the Rgvedic school during the third offering of water to the sun (1979:66). In the slightly different order of the Samavedic school, the same mantra is recited during the arghya offering to the sun at the end of the worship of Rudra (1979:89). It is curious that Vidyar- ṇava makes so much of the difficulties of pronouncing the Vedic language and thus of the need to bar the uneducated masses from performing these rituals (e.g. 1979:113) if some of the mantras cited are in fact purāṇic. Yet this particular mantra figures neither in the tantric version of the ritual developed precisely for the ex- excluded majority nor in the 'universal' ritual intended for ‘all mankind, irrespective of colour, caste, creed, race, sex, or nationali- ty' (Vidyarṇava 1979:113-19, 119-28). 
 
@@ -761,7 +761,7 @@ Tryambaka's final quotation in this section is attributed to the Agnipurāna. 'T
 
 At Dawn 
 
-155 
+[[155]]
 
 This quotation brings to a close Tryambaka's comments on the dawn duties of the wife. I have dealt with this section in some detail for two reasons. First, it presents the wife's religious role in the nar- rower sense of her ritual obligations. Secondly, it demonstrates most clearly the odd mixture so typical of medieval texts: the signi- ficance of the wife in symbolic terms coupled with her unimportance in ritual actions. 
 

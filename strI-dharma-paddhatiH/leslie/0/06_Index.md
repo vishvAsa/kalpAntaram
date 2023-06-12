@@ -38,7 +38,7 @@ on things to avoid, 275 Asvamedhikaparvan, on rewards for hos-
 pitality, 193
 Atharvaveda, 251
 
-364
+[[364]]
 Atri, 217, 286
 Index
 aupāsana fire, 134; substitute for house-
@@ -65,13 +65,13 @@ Breasts: covering of, 91–2; in art, 92–5 Breathing, in offering to sun, 150 
 Brides: adolescent vs. pre-adolescent,
 87; nagnikā, 87-8
 Britain: reforms by, 1, 3; in Thanjavur,
-16
+[[16]]
 British Library, āhnika duties in MSS of,
 48-9
 Brother, as substitute for householder,
 147, 148
 Buddhacarita, on wife's share in sacrifice,
-109
+[[109]]
 Buddhism, 207, 228; and the Veda, 41;
 on role of wife, 214; nuns of, 318 Bühler, G., 76, 147, 209; on behaviour
 of host, 196-7
@@ -96,7 +96,7 @@ Conclusion, religious duties of women,
 
 Index
 wrong when commanded, 324-5; bearing of treatise on present, 325–9; authority of texts cited, 325-7; actual experience of women, 327–9 Cooking: pure, 100-1; in the evening,
-235
+[[235]]
 Court women, dress of, 92
 Cows: use of cow-dung, 59, 60-1; sanctity of, 60; and Śrī, 60-2; care of, 65-7; sin of harming, 66-7; worship of, 67; milking at fire sacri- fice, 130-1
 Cremation, of patni with sacred fire,
@@ -109,13 +109,13 @@ in daily schedule, 49; ritual signi- ficance of, 69; place of, 69–70; prohibit
 ‘Déjeuner sur l'Herbe, Le' (Manet), 93 Demons: karma of, 265-6; case of
 demon priest, 266 Derrett, J.D.M., 23, 24
 Descriptive Catalogue.... (Sastri), 11 Devala, 72; on sipping, 75; on clothing,
-90
+[[90]]
 Devaņṇabhaṭṭa, 145, 149
 devapüjā (image worship) ritual, 178–80,
 182; food for, 181
 Dharma, 324
 dharma ('righteousness'), 23, 268; and sacrifice, 23; sources of, 24; on daily schedule, 54; as reflection of cosmic
-365
+[[365]]
 law, 263; areas of conflict in women's, 263-4 Dharmākūtā, 3, 10, 11, 12, 18, 96, 317; on tilaka, 98; on offering of food, 180; on inherent nature of women, 250 dharmasastra (religious law), 7, 23-5, 268; literature of, 24; and art, 93; on guests, 187; on eating, 210; on conflict with husband's wishes, 316; and renunciation for women, 318 Dhoti, 91
 Dhundhiraja, 10, 12; court poet, 19;
 works of, 19
@@ -133,7 +133,7 @@ Ekojî, 13–14, 15; literary heritage from,
 16-17
 Elders: saluting of, 156–68; guru, 156–7; abhivādana, 157-60; name used, 160-1; homage to parents-in-law, 161-2; obeisance to husband, 162–3; personal services to, 163–8; evening homage to, 234. See also Section IIC
 
-366
+[[366]]
 Elephanta caves, Bombay, 30 Ellora, sculptures of, 94
 Index
 Evening rituals, 234-6; presence of wife at, 234-5; treatment of guests at, 235-6
@@ -179,7 +179,7 @@ Housework: rules for, 50; before dawn,
 Hsüan-Tsang, 56
 Husband: as god, 1, 259, 281, 282, 322, 323; role in fire ritual, 108-9; in polygamy, 121–2; absence from fire sacrifice, 132-3, 136; and expense of ritual fires, 134; reasons for leav- ing home, 135; after wife's death, 141; salutation by wife, 156, 163–8; rights to wife's property, 276–80; wife's duty toward, 305, 321-2; emphasis on demands of, 315-16. See also Wife
 Image worship (devapujā), 178-80
-367
+[[367]]
 Impurity: and women, 250-2; of men- struating women, 283; of widows, 303. See also Inherent nature of
 women
 Indra, brahminicide of, 251, 255 Inherent nature of women, 246–72; accepted view of sinfulness, 246-50; problem of religious instruction, 247, 256, 258, 260-1; purity of, 250-6; unique blessedness, 256-9; con- tradictions in, 261-6; debate on, 267-71; prejudice concerning, 271-2 Ingres, Jean, 93 Initiation: for men, 34, 143-4; for women, 35-6, 37; marriage as, 37, 322; length of study, 37–8 In Search of Answers (Kishwar and
@@ -195,7 +195,7 @@ women, 150-1
 Jyeṣṭhā, 63; wife's offering to, 177, 225; wife's pre-dinner ritual, 227-9; iden- tity of, 228
 Jyotirnibandha, 254
 
-368
+[[368]]
 Kādambarī, 232
 Index
 kali age, behaviour of women in, 256-7,
@@ -233,7 +233,7 @@ mage to
 Maratha Rajas of Thanjavur, 13-25; family tree, 13, 15; wars of, 16; disputed successions, 16; as scholars, 17-18; polygamy of, 20; travels of, 135
 Marathi language, 17; authors of, 17 Marici, 71
 Märkandeya, 171; on the tilaka mark,
-96
+[[96]]
 Märkandeyapurana, 58, 59; on sharing sacrifice, 110; on guests, 207; story of Hariścandra in, 307
 Marriage: Tryambaka's introduction on, 30-1; age of, 35, 37, 254; Jaimini on, 43; for pleasure, 124–5; symbolic, of young girl, 252-3
 Maskarin, 163 Mätṛdatta, 87, 144
@@ -247,7 +247,7 @@ Mendicants, female, 171, 172 Menski, W. F., 254
 Menstruation, 8, 97, 224; of unmarried
 girls, 35; and cleansing, 74, 286; and intercourse, 81, 285; use of unguent after, 97; dishes used by woman in, 220; impurity of, 250–1, 283; and time of marriage, 254; sign of purity, 254–6; religious duties of woman in, 283-8
 Meulenbeld, G. J., 97
-369
+[[369]]
 Midday rituals, 176–210; man's duties, 176-7; general remarks on, 177–8; worship of all gods, 180-3; paying homage to guests, 183-210
 mīmāmsā, 3
 Ministers of Maratha kings, as authors,
@@ -269,7 +269,7 @@ Nose: cutting off of, 55-6; deformed,
 Nrsimha, 317
 Obedience of wife, vs. service, 312-13 O'Flaherty, W. D., 265
 
-370
+[[370]]
 Oghavati, 310, 324
 Old and sick, feeding of, 208–9
 Index
@@ -290,7 +290,7 @@ Paintings, degrees of nakedness in, 92-3 Pregnant women: bathing, 85; feeding
 pañcagavya, 60
 Päṇḍu, 310
 Pănini, 110, 123, 213; on salutations,
-159
+[[159]]
 parapuruşa (any man not related to
 wife): speaking to, 170-6; placing a blade of grass between, 172; ex- ample of Sită, 172-3; example of Draupadi, 173-4; physical contact with, 175-6
 Paräs aramadhaviya, 3, 223, 235 Parāśara, 207, 220
@@ -397,7 +397,7 @@ Religious law. See dharmasastra Renunciation, as option for women,
      Śrī: and cows, 60–2, 63, 65; as example to women, 62-3; at creation, 228 Śrīdharasvāmin, 153
 
 Index
-373
+[[373]]
 Staal, F., 25, 119 Strabo, 56, 57 strīdharma 3, 8, 259, 260, 261; and inherent nature of women, 262; and conflict in nature of women, 263; Umå on, 281; woman's only hope, 321; right and wrong superseded by, 324
 Stridharmapaddhati, 262; importance of, 304; mode of presentation, 4-5; overview of sections, 5-10; author- ship of, 10–13; date of, 12; political background, 13-16; intellectual mi- lieu, 16–23; reading of, 22; literary genre of, 23–5; conclusions of, 318– 29; bearing on the present, 325–9; and actual experience of women, 327-9. See also Sections by number strīsvabhāva (inherent nature of women),
 8, 319
@@ -420,7 +420,7 @@ tilaka mark: wearing of, 96-100; shape
 of, 97; significance of, 99-100 Toes, rings for, 101 Trikandamandana, 113, 134; on pil- grimages, 136-7; on resetting fire, 141
 Transmigration, and gender, 247 Tryambaka: aims of, 3-4; authorship by, 10–13, 19; authority of texts cited by, 325-7; significance of, 329. See also Sections by number; Stri- dharmapaddhati
 Tryambakarāyamakhin, 10, 11, 13, 18,
-317
+[[317]]
 Tryambakayajvan, 3, 10, 12, 13 Tukkoji, 15, 16; as scholar, 17-18 Tuptikā, 112
 Twigs, for teeth-cleaning, 78, 229
 ucchista. See Left-overs
@@ -433,7 +433,7 @@ Ušanas, 89, 90, 215, 298 Uttanka, 211-12, 324
 Vägbhata, 290
 vaiśvadeva ritual: food for, 181; presence of wife at, 182; food prepared by wife, 198–9; in the evening, 324–35
 
-374
+[[374]]
 Index
 Van Buitenen, J.A.B., 172-3, 202, 313 Vanita, R., 58
 Varǎhamihira, 267
@@ -460,7 +460,7 @@ Wife: duties of, 1, 29-30, 52; traditional
 role of, 3; terms for service of, 29–30; as bearer of sons, 31, 63, 109, 121; delegation of duties by, 64–5; and the fire ritual, 104–5, 107, 115; in other sacrifices, 111-14; early eq- uality with husband, 113; precedence of, 124-6; absence from fire ritual, 133, 136, 139; relationship with sacred fire, 140-1; as ritual agent of sacrifice, 141-9: and offering to sun, 154-5; husband saluted by, 156, 162-3; personal service to husband, 167; forbidden to speak to other men, 170-6; duties in image worship, 178-9, 180; role toward guests, 185, 198; duty to serve at meals, 210-21; own meal of, 221–7; post-prandial duties, 229-33, virtues of contrasted with sins of women, 262, 272; pro- perty of, 276-80; primary duty of, 305, 321; husband worshipped by.
 
 Index
-375
+[[375]]
 322-4. See also Junior wife; patnī;
 Senior wife
 Wilson, H. H., 32
