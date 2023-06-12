@@ -47,7 +47,7 @@ Finally, Tryambaka considers the evening meal itself. According to Sandilya, 'th
 
 Tryambaka begins his subsection on going to bed (śayanam) with a quotation from the Smṛtyarthasara. 'After performing the vaiśva- deva oblation (homa) and offering hospitality to guests, after eating a light meal surrounded by one's dependants, then, making (full) use of sweet-smelling unguents, garlands, betel and so on, one 
 
-[^8]: tadānīm atithipüjoktaviṣṇupurane || atithim cagatam tatra svaśaktyā püjayed budhaḥ // pādaśaucāsanaprahvaḥ svāgatoktyā ca püjayet / tataś cānnapradānena sayanena ca parthiva ¡¡ dinātithau ca vimukhe gate yat pātakam nṛpa / tad evāṣṭagunam pumsām sūryoḍhe vimukhe gate // iti // Sdhp.20r.1-3 (Viş.P.) < Vis.P.III.11.103b-105 (püjanam for püjayed; tu vimukhe for ca vimukhe); Par.M.I.i.p.440 (verses 102b,104; 1 MS has v.103; divātithau for dinātithau); Sm.M.II.p.456 (bhojayed for püjayed; asanaḥ prahvah for 'āsanaprahvaḥ; divātithau tu for dinatithau ca; Vis.P.). 
+[^8]: tadānīm atithipūjoktaviṣṇupurane || atithim cagatam tatra svaśaktyā pūjayed budhaḥ // pādaśaucāsanaprahvaḥ svāgatoktyā ca pūjayet / tataś cānnapradānena sayanena ca parthiva ¡¡ dinātithau ca vimukhe gate yat pātakam nṛpa / tad evāṣṭagunam pumsām sūryoḍhe vimukhe gate // iti // Sdhp.20r.1-3 (Viş.P.) < Vis.P.III.11.103b-105 (pūjanam for pūjayed; tu vimukhe for ca vimukhe); Par.M.I.i.p.440 (verses 102b,104; 1 MS has v.103; divātithau for dinātithau); Sm.M.II.p.456 (bhojayed for pūjayed; asanaḥ prahvah for 'āsanaprahvaḥ; divātithau tu for dinatithau ca; Vis.P.). 
 
 [^9]: tato bhojanam āha sāṇḍilyaḥ// naktam kuṭumbako 'snīyād dhitam pa- thyam sutṛptimat || iti || Sdhp.20r.4 (Sandilya)<Śm.M.II.p.455 (kutum biko for kutumbako; Sandilya). 
 
@@ -99,7 +99,7 @@ It seems unlikely that, after making love, both husband and wife would descend t
 
 [^14]: bodhāyanaparibhāṣāyām || athāstam ita āditye 'nyonyam alańkṛtyopari sayyāyām sayāte / athainām sarvasurabhigandhamālyā yunakti ¡¡ iti¡¡ Sdhp. 20v.1-3 (bodhāyanaparibhāṣāyām < ? 
 
-[^15]: tac cheṣe bodhāyanah // tasyah saha patyā pūrvarātrāv upasamveśanam/ ardharātrād adhahsayanam à brāhmamuhürtād // iti // Sdhp.20v. 3-4 (seṣe bodhāyanaḥ) <? 
+[^15]: tac cheṣe bodhāyanah // tasyah saha patyā pūrvarātrāv upasamveśanam/ ardharātrād adhahsayanam à brāhmamuhūrtād // iti // Sdhp.20v. 3-4 (seṣe bodhāyanaḥ) <? 
 
  
 

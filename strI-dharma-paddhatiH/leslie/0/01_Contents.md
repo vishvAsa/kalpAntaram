@@ -7,12 +7,12 @@ List of FigurES Xİİ
 ACKNOWLEDGEMENTS Xiii  
 
 ## 1. INTRODUCTION  
-Mode of Presentation and Overview of the Contents of the Stridharmapaddhati 4  
-The Author of the Stridharmapaddhati 10  
+Mode of Presentation and Overview of the Contents of the Strī-dharma-paddhati 4  
+The Author of the Strī-dharma-paddhati 10  
 The Political Background: the Maratha Rajas of Thanjavur 13  
 The Intellectual Milieu 16  
 The Women of the Period 19  
-The Literary Genre: the Stridharmapaddhati in the 
+The Literary Genre: the Strī-dharma-paddhati in the 
 Context of the Religious Law (dharmaśāstra) 23  
 
 ## 2. THE STRĪDHARMAPADDHATI OF TRYAMBAKAYAJVAN 27  
@@ -37,7 +37,7 @@ the goddess Śri 59
 Worship of the threshold (dehalīpūjā) 63 Delegating housework 64  
 The care and worship of cows (gosevanam) 65  
 Ablutions, etc. 69  
-Urinating and defecating (mütrapuriṣotsargah) 69  
+Urinating and defecating (mūtrapuriṣotsargah) 69  
 Cleansing rituals (saucam) 71  
 The sipping ritual (ācamanam) 75  
 Cleaning the teeth (dantadhāvanam) 78  
@@ -57,7 +57,7 @@ Is the patni the ritual agent of the sacrifice? 141
 The Offering of Respect to the Sun (arghyadānam) 149  
 
 #### IIC DAY (Sdhp. 10v.1-19v.4)  
-Saluting One's Elders (gurüṇām abhivādanam) 156   
+Saluting One's Elders (gurūṇām abhivādanam) 156   
 Paying homage (pådavandanam) to one's parents-in-law 161   
 Personal services 163  
 Household Tasks (2) (gṛhakṛtyam) 168  
@@ -130,7 +130,7 @@ Whether or not the widow should shave her head 303
 The three kinds of pativrată 304  
 
 ### V TRYAMBAKA'S CONCLUSION
-OBEDIENT SERVICE TO ONE'S HUSBAND IS THE Primary ReligiOUS DUTY OF A WIFE (patriśuśrüṣaṇam mukhyo dharmaḥ; Sdhp. 48v.6-88r.1)  
+OBEDIENT SERVICE TO ONE'S HUSBAND IS THE Primary ReligiOUS DUTY OF A WIFE (patriśuśrūṣaṇam mukhyo dharmaḥ; Sdhp. 48v.6-88r.1)  
 She Should Serve Him Without Regard for Her Own Life (prāṇānām avigananaya) 305  
 Sitā and the demon 305  
 The brahmin's wife and the crane-demon 306  

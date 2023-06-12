@@ -23,9 +23,9 @@ Pali text ed. E. Hardy, 5 vols., PTS, London 1899.
 Aparárka  
 See Yajnavalkyasmṛti (Ăn.).  
 Āpastambadharmasūtra  
-Sanskrit text with extracts from Haradatta's commentary, the Ujjvalā, ed. G. Bühler, Bombay 1932.  
+Sanskrit text with extracts from Haradatta's commentary, the Ujjvalā, ed. G. Būhler, Bombay 1932.  
 Sanskrit text with Haradattamisra's commentary, the Ujjvalā, ed. A. Chinnasvami Sastri and A. Ramanatha Sastri, KSS no. 93, Benares 1932.  
-English tr. G. Bühler (1879), SBE reprint, Delhi 1975. Apastambagṛhyasūtra  
+English tr. G. Būhler (1879), SBE reprint, Delhi 1975. Apastambagṛhyasūtra  
 Sanskrit text with extracts from the commentaries of Haradatta and Sudarsanācārya, ed. M. Winternitz, Vienna 1887.*  
 Sanskrit text with two commentaries, the Anakula of Haradatta Miśra  
   
@@ -67,7 +67,7 @@ Sanskrit text ed. E. Hultzsch, ZDMG VIII.4, Leipzig 1884.*
 Bibliography  
 [[345]]
 Sanskrit text with Govindasvamin's commentary, ed. Chinnasvami Sastri, KSS no. 104, Benares 1934.  
-English tr. G. Bühler (1882), SBE reprint, Delhi 1965.  
+English tr. G. Būhler (1882), SBE reprint, Delhi 1965.  
 Baudhayanagṛhyaparibhāṣāsūtra  
 See Baudhayanagṛhyasutra.  
 Baudhayanagṛhyapariśiṣṭasūtra  
@@ -113,7 +113,7 @@ Sanskrit text with Haradatta's commentary, ed. U.C. Pandey, KSS no.172, Varanasi
 Sanskrit text with Maskarin's commentary, ed. L. Srinivasacharya, Mysore 1917.  
 Sanskrit text, Śrīgautamadharmasastram, ed. A.F. Stenzler, London  
 1876.  
-English tr. G. Bühler (1879), SBE reprint, Delhi 1975.  
+English tr. G. Būhler (1879), SBE reprint, Delhi 1975.  
 Gobhilagrhyasutra  
 Sanskrit text ed. Candra Kanta Tarkālaṇkāra, 2 vols. in 1, Bibl.Ind., 2nd edn., Calcutta 1908.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
@@ -162,7 +162,7 @@ Kauṣitakibrāhmaṇa (also called Sankhayanabrāhmaṇa)
 Sanskrit text with the commentary of Udaya, crit. ed. E.R. Sreekrishna Sarma, 3 vols., Wiesbaden 1968-76.  
 English tr. A.B. Keith, HOS no.25, Cambridge, Mass. 1920.  
 Kumārasambhava of Kālidāsa  
-Sanskrit text crit. ed. Süryakanta, Delhi 1962.  
+Sanskrit text crit. ed. Sūryakanta, Delhi 1962.  
 English tr. by R.T.H. Griffith, 2nd edn., London 1879.  
 Kurmapurāṇa  
 Sanskrit text crit. edn. and English tr. A.S. Gupta, Kashiraj Trust, Varanasi 1972.  
@@ -193,7 +193,7 @@ Mānavasrautasūtra
 Sanskrit text ed. F. Knauer, St. Petersbourg 1900.  
 Manusmrti  
 Sanskrit text with the commentaries of Medhātithi, Sarvajñanārāyaṇa, Kullūka, Raghavananda, Nandana, Rāmacandra and Govindarāja, ed. V.N. Mandlik, Bombay 1886.*  
-Sanskrit text with Kulluka's commentary, N.S., 2 edns., Pune 1929, 1946. Sanskrit text with Kulluka's commentary, with introduction, parisista and index by Gopala Sastri Nene, ChSS, Benares 1935. English tr. G. Bühler (1886), SBE reprint, Delhi 1979.  
+Sanskrit text with Kulluka's commentary, N.S., 2 edns., Pune 1929, 1946. Sanskrit text with Kulluka's commentary, with introduction, parisista and index by Gopala Sastri Nene, ChSS, Benares 1935. English tr. G. Būhler (1886), SBE reprint, Delhi 1979.  
 Mārkandeyapurana  
 Sanskrit text ed. K.M. Banerjea, Calcutta 1862.  
 English tr. F.E. Pargiter, Calcutta 1904.  
@@ -226,7 +226,7 @@ Rāmāyana of Valmiki
 Sanskrit text ed. S. Kuppuswami Sastrigal et al., 2nd edn., Madras 1958.* Sanskrit text crit. ed. G.H. Bhatt et al., 7 vols., Baroda 1960–75. English tr. H.P. Shastri (1953-9), 3 vols., London 1962, 1969 (2nd edn.), 1976 (3rd edn.).  
 Rgvedasamhita  
 Sanskrit text with the commentary of Sāyaṇācārya, VSM, 2nd crit. edn., 5 vols., Pune 1972-.*  
-Sanskrit text with the commentary of Sayanācārya, ed. F. Max Müller, 2nd edn., 6 vols., London 1890–2.  
+Sanskrit text with the commentary of Sayanācārya, ed. F. Max Mūller, 2nd edn., 6 vols., London 1890–2.  
 English tr. R.T.H. Griffith (1889), 2nd rev. edn., Delhi 1976.  
 Śabarabhāṣya  
 See Jaiminiyasūtra.  
@@ -296,14 +296,14 @@ Vāmanapurāṇa
 Sanskrit text crit. ed. with English tr. A.S. Gupta, Kashiraj Trust, Varanasi 1968.  
 Varāhapurāna  
 Sanskrit text ed. Hrṣikeśa Śāstrī, Bibl.Ind., Calcutta 1893. Vasisthadharmasūtra  
-Sanskrit text ed. A.A. Führer, Poona 1930.  
-English tr. G. Bühler (1882), SBE reprint, Delhi 1965.  
+Sanskrit text ed. A.A. Fūhrer, Poona 1930.  
+English tr. G. Būhler (1882), SBE reprint, Delhi 1965.  
 Vāyupurāṇa  
 Sanskrit text, An.no.49, Pune 1905.  
 Vimanavatthu  
 Pali text ed. E.R. Gooneratne; see Khuddhanikaya, Suttapitaka, PTS, London 1886.  
 Viramitrodaya of Mitramiśra  
-Sanskrit text ed. P.N. Sarma, ChSS 30/31/40, Benares: samskāra- prakāśa 1906, 1913; āhnikaprakāśa 1913; püjāprakāśa 1913.  
+Sanskrit text ed. P.N. Sarma, ChSS 30/31/40, Benares: samskāra- prakāśa 1906, 1913; āhnikaprakāśa 1913; pūjāprakāśa 1913.  
   
 Visnupurāna  
 Bibliography  
@@ -356,11 +356,11 @@ Böhtlingk, O. and Roth, R. Sanskrit Wörterbuch, 7 vols., St. Petersburg
 1855-75.  
 Brockington, J.L. 'Guarded by grass: a Rāmāyaṇa motif and some Western  
 parallels', Indologica Taurinensia, forthcoming..  
-Brown, W. Norman, 'Duty as truth in ancient India', in India and Indology: Selected Articles by W. Norman Brown, ed. R. Rocher, Delhi 1978. Bühler, G. (ed.) Apastambiyadharmasutram: Apastamba's Aphorisms on the Sacred Laws of the Hindus edited with Extracts from Haradatta's Com- mentary; the Ujjvalā, 3rd edn., Bombay 1932.  
+Brown, W. Norman, 'Duty as truth in ancient India', in India and Indology: Selected Articles by W. Norman Brown, ed. R. Rocher, Delhi 1978. Būhler, G. (ed.) Apastambiyadharmasutram: Apastamba's Aphorisms on the Sacred Laws of the Hindus edited with Extracts from Haradatta's Com- mentary; the Ujjvalā, 3rd edn., Bombay 1932.  
 —(tr.) The Sacred Laws of the Aryas: as Taught in the Schools of Apa- stamba, Gautama, Vasishtha and Baudhāyana; vol.I, Apastamba and Gautama (1879), SBE reprint, Delhi 1975; vol.II, Vasishtha and Bau- dhāyana (1882), SBE reprint, Delhi 1965.  
 -(tr.) The Laws of Manu, translated with Extracts from Seven Commen-  
 taries (1886), SBE reprint, Delhi 1979.  
-Bühneman, G. Budha-Kausika's Rāmarakṣāstotra: a Contribution to the  
+Būhneman, G. Budha-Kausika's Rāmarakṣāstotra: a Contribution to the  
 Study of Sanskrit Devotional Poetry, Vienna 1983.  
 Burnell, A.C. A Classified Index to the Sanskrit MSS in the Palace at Tanjore,  
 London 1880.  
@@ -441,7 +441,7 @@ Krishnamachariar, M. History of Classical Sanskrit Literature, Madras 1937. Lal,
 Univ. of Oxford, 1980.  
 -Essence and existence: women and religion in ancient Indian texts',  
 Women's Religious Experience, ed. P. Holden, London 1983(1).  
-The religious role of women in ancient India: a discussion of the Stridharmapaddhati of Tryambakayajvān, D. Phil. thesis, Univ. of Oxford, 1983(2).  
+The religious role of women in ancient India: a discussion of the Strī-dharma-paddhati of Tryambakayajvān, D. Phil. thesis, Univ. of Oxford, 1983(2).  
 'The power in the home: ambivalent images of the goddess Jyesthā', paper presented to the Second International Conference on South Asian Religious Art Studies (SARAS), Lucknow, 17-21 September 1984.  
 Google  
   
@@ -452,7 +452,7 @@ Losty, J.P. Krishna, A Hindu Vision of God: Scenes from the Life of Krishna Illu
 Malamoud, C. 'On the rhetoric and semantics of puruṣārtha', in Way of Life:  
 King, Householder, Renouncer, ed. T.N. Madan, Delhi 1982.  
 Mandlik, V.N. (ed.) Mānava-Dharma-Śāstra [Institutes of Manu] with the  
-Commentaries of Medhātithi, Sarvajñanārāyaṇa, Kullüka, Raghavananda, Nandana and Ramachandra; and a Supplement of the Commentary of Govindaraja, Bombay 1886.  
+Commentaries of Medhātithi, Sarvajñanārāyaṇa, Kullūka, Raghavananda, Nandana and Ramachandra; and a Supplement of the Commentary of Govindaraja, Bombay 1886.  
 McCrindle, J.W. Ancient India as Described in Classical Literature (1901),  
 reprint Amsterdam 1971.  
 Menski, W.F. 'Role and ritual in the Hindu marriage', D.Phil. thesis, Univ.  
@@ -477,7 +477,7 @@ S. Ardener, London 1975.
 Bibliography  
 [[359]]
 Olivelle, P. 'The notion of asrama in the Dharmasūtras', in Wiener Zeit-  
-schrift für die Kunde Südasiens, vol.XVIII, 1974.  
+schrift fūr die Kunde Sūdasiens, vol.XVIII, 1974.  
 --Vasudevāsrama Yatidharmaprakāsa: a Treatise on World Renunciation, part 1, crit. edn. of Sanskrit text, Vienna 1976; part 2, introduction and translation, Vienna 1977.  
 -The integration of renunciation by orthodox Hinduism', in Journal  
 of the Oriental Institute 28:1, Sept. 1978, pp.27-36.  

@@ -1,5 +1,5 @@
 +++
-title = "+2 The Strīdharmapaddhati of Tryambakayajvan"
+title = "+2 The Strī-dharma-paddhati of Tryambakayajvan"
 
 +++
  

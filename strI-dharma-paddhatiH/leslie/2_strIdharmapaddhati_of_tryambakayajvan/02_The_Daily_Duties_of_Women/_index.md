@@ -87,7 +87,7 @@ Day
 
 [^3]: midday rituals: 
 
-devapujā vaiśvadevapujā atithipüjā 
+devapujā vaiśvadevapujā atithipūjā 
 
 [^4]: meal time duties: 
 
@@ -121,7 +121,7 @@ recitation to brahman;
 
 sacrifice to the gods; 
 
-tarpana for the ancestors; bali offerings for all beings; atithipüjā) midday meal 
+tarpana for the ancestors; bali offerings for all beings; atithipūjā) midday meal 
 
 study of epics, purāṇa, 
 
@@ -227,9 +227,9 @@ OR. 11612, fol. 19r (half folio)
 
 [[49]]
 
-remains of his meal, and a variety of postures for sexual intercourse (British Library: OR. 11689, OR. 11612; see plates 1-13; cf. Lostly 1980: 14-45; cf. Gaur 1980:23-5). The paintings depicting children and the wife's involvement with them (e.g. plates 10, 11) draw our attention to a curious omission in the Strīdharmapaddhati: while Tryambaka assumes that the good wife will produce sons, he not only shows no further interest in them, but makes no allowance for them in her day. 
+remains of his meal, and a variety of postures for sexual intercourse (British Library: OR. 11689, OR. 11612; see plates 1-13; cf. Lostly 1980: 14-45; cf. Gaur 1980:23-5). The paintings depicting children and the wife's involvement with them (e.g. plates 10, 11) draw our attention to a curious omission in the Strī-dharma-paddhati: while Tryambaka assumes that the good wife will produce sons, he not only shows no further interest in them, but makes no allowance for them in her day. 
 
-Tryambaka also specifies no time when a woman may simply rest. Indeed, he lists 'sleeping in the daytime' among the six things that corrupt women and which they should therefore avoid (see section IV, p. 275, note 6). Since it is assumed that a woman has no education, it is less surprising that she is not advised to study. Judging by Tryambaka's prohibitions on 'roaming around' and spending time in other people's homes (section IV, p. 275, note 6), we would not expect her to be allowed to visit friends, certainly not on her own. Taken at face value, then, a woman should always be busy about her work. The traditional pattern of an Indian day, however, suggests that the hot period after the midday meal might well be given to rest. It is at this time that women might be encouraged to listen to readings from the epics or purāņas, or even from a work such as the Stridharmapaddhati (Introduction, pp. 22– 3 and 232-3). 
+Tryambaka also specifies no time when a woman may simply rest. Indeed, he lists 'sleeping in the daytime' among the six things that corrupt women and which they should therefore avoid (see section IV, p. 275, note 6). Since it is assumed that a woman has no education, it is less surprising that she is not advised to study. Judging by Tryambaka's prohibitions on 'roaming around' and spending time in other people's homes (section IV, p. 275, note 6), we would not expect her to be allowed to visit friends, certainly not on her own. Taken at face value, then, a woman should always be busy about her work. The traditional pattern of an Indian day, however, suggests that the hot period after the midday meal might well be given to rest. It is at this time that women might be encouraged to listen to readings from the epics or purāņas, or even from a work such as the Strī-dharma-paddhati (Introduction, pp. 22– 3 and 232-3). 
 
 Before embarking on a discussion of each ruling, it may be instructive to consider at the outset what types of rulings these may be. The crucial question is how each ruling relates to its equivalent for men. The answer takes the form of four quite distinct categories. 
 

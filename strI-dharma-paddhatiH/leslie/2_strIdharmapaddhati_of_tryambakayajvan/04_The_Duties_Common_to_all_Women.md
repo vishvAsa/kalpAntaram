@@ -31,13 +31,13 @@ This is in fact an artificial subdivision. For although the quotations do indeed
 
 [^1]: āśvalāyanaḥ || bhaktim śvaśurayoḥ kuryāt patyus capi viseṣatah | dharmakārye [']nukūlatvam arthakārye 'pi samyamam// prāgalbhyam kāmakāryeṣu sucitvam nijavigrahe/mangalam satatam patyuḥ satatam priyabhāṣaṇam // Sdhp.22v.3-5 (Āśv.) < Sm.M.I.p.158 (Vyāsa). 
 
-[^2]: ayodhyākāṇḍe sītām praty anasüyāvākyam // Sdhp.24v.9-10. du[h]šilaḥ kāmavṛtto vā dhanair vā parivarjitaḥ / strīṇām āryasvabhāvānām paramam daivatam patiḥ// Sdhp.25r.1-2 (Rām.) < Rām.II.109.24. Cf. Manu V.154. 
+[^2]: ayodhyākāṇḍe sītām praty anasūyāvākyam // Sdhp.24v.9-10. du[h]šilaḥ kāmavṛtto vā dhanair vā parivarjitaḥ / strīṇām āryasvabhāvānām paramam daivatam patiḥ// Sdhp.25r.1-2 (Rām.) < Rām.II.109.24. Cf. Manu V.154. 
 
 [^3]: viditam tu mamapy etad yathā nāryāḥ patir guruh // Sdhp.25r.5 (Rām.) < Rām.II.110.2b. 
 
 [^4]: samgrahe // bāhyād āyāntam ālokya tvarită ca jalāśanaiḥ / tāmbūlavyajanais caiva pādasamvāhanādibhiḥ // tathaiva căṭuvacanaiḥ khedasamnodanaiḥ paraiḥ/ ya priyam prinayet prityā triloki prīnitā tayā // Sdhp.25r.7-9 (samgraha)<? See also Sdhp.31r.7-8 (from section IV, pp.280–1)<Mbh. III.223.6. 
 
-[^5]: mitam dadāti hi pitā mitam bhrātā mitam sutaḥ/amitasya hi dātāram bhartāram kā na püjayet // Sdhp.25r.9-10 (samgraha) < Subh.378/[^4] (socati for püjayet); Mbh.XII.145.6 (mātā for bhrātā preferred reading; twenty-one MSS read bhrātā incl. one MS from the TMSSM library); Sk.P.III.2.7. 47c48a (sutam sutaḥ for mitam sutaḥ). See also Sdhp.53v.9-10, from section V. 
+[^5]: mitam dadāti hi pitā mitam bhrātā mitam sutaḥ/amitasya hi dātāram bhartāram kā na pūjayet // Sdhp.25r.9-10 (samgraha) < Subh.378/[^4] (socati for pūjayet); Mbh.XII.145.6 (mātā for bhrātā preferred reading; twenty-one MSS read bhrātā incl. one MS from the TMSSM library); Sk.P.III.2.7. 47c48a (sutam sutaḥ for mitam sutaḥ). See also Sdhp.53v.9-10, from section V. 
 
  
 
@@ -49,7 +49,7 @@ section remains in effect a continuation of the earlier one on general behaviour
 
 'These are the six things that cause women and sūdras to fall (strīśūdrapatanāni șat): recitation (or repetition, i.e. of sacred texts; japa [h]); austerities (tapas); going on pilgrimages; renunciation (pravrajyā); the chanting of mantras (mantrasādhanam); and the worship of deities (devatārādhanam).”[^7] To this sloka we may add a similar one taken from section V, and attributed there to Aśvalāyana. ‘Śūdras are enjoined by Brahmā to serve the twice-born always, and likewise women to serve their own husbands. Women who are devoted to their husbands should never engage in japa recitation, austerities (tapas), offerings into fire (homa), religious donations (dāna), or any other religious observance (or vow; vrata) or ritual (makha), as long as their husbands are alive.'[^8] The important implications of these slokas have been discussed in the 
 
-[^6]: atha varjanīyah // Sdhp.25r.10. pānam durjanasamsargah patyă ca viraho 'tanam/ svapno 'nyagehavāsaś ca nārīṇām dūṣaṇāni şaṭ// Sdhp.25r.10–11 < Manu IX.13 (nārīsamdüṣanāni for nārīnām dūṣanāni). patyā virahaḥ patigṛha[d] gṛhantaraśayanam || svapn[o] divāsvāpaḥ // Sdhp.25r.11. 
+[^6]: atha varjanīyah // Sdhp.25r.10. pānam durjanasamsargah patyă ca viraho 'tanam/ svapno 'nyagehavāsaś ca nārīṇām dūṣaṇāni şaṭ// Sdhp.25r.10–11 < Manu IX.13 (nārīsamdūṣanāni for nārīnām dūṣanāni). patyā virahaḥ patigṛha[d] gṛhantaraśayanam || svapn[o] divāsvāpaḥ // Sdhp.25r.11. 
 
 [^7]: japas tapas tīrthayātrā pravrajya mantrasadhanam / devatāradhanam ceti strīsūdrapatanani sat // Sdhp.25v.1 < Atri 135b-136a (caiva for ceti); Sm.M.I.p.158 (tīrthasevā for tīrthayātrā; caiva for ceti; Atri); Sm.M.II.p.390. See also Sdhp.59r.2-3, from section V (caiva for ceti; Manu). 
 
@@ -155,7 +155,7 @@ The final extended quotation is taken, with few omissions, from Bhisma's convers
 
 [^24]: devavat satatam sādhvī bhartāram pratipaśyati // patir hi devo nārīṇām patir bandhuḥ patir gatiḥ / patyā samā gatir nāsti daivatam vā yathā patiḥ // Sdhp.32r.5-6, 32v.8-9 (Mbh.) < Mbh.XIII.134.34b,51 (ya bhartāram prapasyati for bhartāram pratipaśyati). Cf. Subh.p.366, satīvarṇanam 14. 
 
-[^25]: yady akaryam adharmam va yadi va prananāsanam / patir brüyad daridro vā vyādhito vā katham cana// apanno ripusamstho vā brahmaśāpārdito 'pi va / āpaddharman anuprekṣya tat kāryam avisankaya // Sdhp.32v. 9-33r.1 Mbh.XIII. 134.53-4. 
+[^25]: yady akaryam adharmam va yadi va prananāsanam / patir brūyad daridro vā vyādhito vā katham cana// apanno ripusamstho vā brahmaśāpārdito 'pi va / āpaddharman anuprekṣya tat kāryam avisankaya // Sdhp.32v. 9-33r.1 Mbh.XIII. 134.53-4. 
 
 [^26]: nāham kāṣāyavasanā nāsmi valkaladharini na ca munda na jațilā bhuktvā devatvam āgatā // Sdhp.33r.6-7 (Mbh.) < Mbh.XIII.124.8 (nāpi for nāsmi). 
 
@@ -251,7 +251,7 @@ Some rulings are more specific to pregnancy. For example, the pregnant woman sho
 
 Secondly, Tryambaka deals with the importance of indulging a pregnant woman's cravings (dohadapradānam; Sdhp.41r.9). He quotes Yajnavalkya. ‘As a (direct) result of not indulging the craving of a pregnant woman, the foetus acquires some defect (doṣam); that is, some deformity (vairūpyam) or even death. That is why what women desire (when they are pregnant) should be done. '[^36] Even if she wants something that is bad (ahitam) for her, she should 
 
-[^36]: dohadapradānam yājñavalkye // dohadasyāpradānena garbho daṣam avāpnuyāt vairüpyam maranam vāpi tasmāt kāryam priyam striyah // Sdhp. 41r.9-10 < Yajn.III.79 (dauhṛdasya for dohadasyā°; dohadasya given as variant reading); Dh.kosa I.ii.p.1083. 
+[^36]: dohadapradānam yājñavalkye // dohadasyāpradānena garbho daṣam avāpnuyāt vairūpyam maranam vāpi tasmāt kāryam priyam striyah // Sdhp. 41r.9-10 < Yajn.III.79 (dauhṛdasya for dohadasyā°; dohadasya given as variant reading); Dh.kosa I.ii.p.1083. 
 
  
 
@@ -261,7 +261,7 @@ be given it: a little is in this case good or at least somewhat good (hitopahita
 
 Two points may be made here. First, this close relationship between the hearts of mother and child supports the idea that the half-breed demon priest inherits his mother's demonic heart (or svabhāva; see section III, p.266). Secondly, the dohada or craving of the pregnant woman is a recurrent motif in South Asian culture and folklore. More important, it can provide a graphic (but culturally acceptable) expression of a woman's hostility towards her husband, her ambivalence towards her child, and her resentment regarding the traditional role of women in society (cf. Bloomfield 1920; Tawney 1924:1, appendix III; Obeyesekere 1963). 
 
-Finally, Tryambaka describes the entry of the pregnant woman into the lying-in chamber (sütikāgāra veśanam; Sdhp.41v.4-42r.1). She should be led into this special room where all that is necessary has been gathered together (sambhāraiḥ sambhṛtam; Sdhp.41v.9; cf. Jolly 1901:82-3) in or before the ninth month, or even at the moment of giving birth (prasūtisambhave kale sadyo vāpi; Sdhp. 41v.5), at a suitably auspicious time, and with a ceremony to bring good luck (kṛtakautukamangalām; Sdhp.41v.10). Moreover, she should hold in her hand a fruit that has a masculine name (hastastha
+Finally, Tryambaka describes the entry of the pregnant woman into the lying-in chamber (sūtikāgāra veśanam; Sdhp.41v.4-42r.1). She should be led into this special room where all that is necessary has been gathered together (sambhāraiḥ sambhṛtam; Sdhp.41v.9; cf. Jolly 1901:82-3) in or before the ninth month, or even at the moment of giving birth (prasūtisambhave kale sadyo vāpi; Sdhp. 41v.5), at a suitably auspicious time, and with a ceremony to bring good luck (kṛtakautukamangalām; Sdhp.41v.10). Moreover, she should hold in her hand a fruit that has a masculine name (hastastha
 
 [^37]: bahate 'pi // mātrjam hy asya hṛdayam matuś ca hṛdayena tat / sambandham tena garbhinyā nestam śraddhāvimānanam // Sdhp.41v.1–2 (Bāhaṭa) < Vāgbhata's Aṣṭāngahṛdayam, śārīrasthānam 1.52b-53a (śraddhāvidhāraṇam for śraddhāvimānanam; the latter variant is read by Arunadatta's commentary). 'Bahata' is the South Indian version of 'Vāgbhaṭa'. 
 
@@ -347,7 +347,7 @@ Tryambaka now considers the rewards accruing to the bad wife. 'If (this act of d
 
 [^54]: papiyasyānusthitam cet papakṣayahetuh | Sdhp.43r.7. Cf. Par. M.II.i. p.58 ('hetur bhavati for hetuḥ). 
 
-[^55]: tatha ca samgrahe // bhārate // Sdhp.43r.7. avamatya ca yā[ḥ] pūrvam patim dustena cetasă / vartante yaś ca satatam bhartmam pratikülagāḥ // bhartrānumaraṇam kāle yāḥ kurvanti tathāvidhāḥ / kāmāt krodhad bhayād 
+[^55]: tatha ca samgrahe // bhārate // Sdhp.43r.7. avamatya ca yā[ḥ] pūrvam patim dustena cetasă / vartante yaś ca satatam bhartmam pratikūlagāḥ // bhartrānumaraṇam kāle yāḥ kurvanti tathāvidhāḥ / kāmāt krodhad bhayād 
 
  
 
@@ -365,7 +365,7 @@ vāpi sarvāḥ pūtā bhavanty uta // Sdhp.43r.7-9 (Mbh.)<Sm.M.I.p.163 (prati- 
 
 [[297]]
 
-urine (viņmütre narake), or burning oil (taptatailanarakam); she will be a widow, or a bitch, or a sow in her next life; she will be infested with worms in this one; and so on. Since statements such as these make no reference to any other prayaścitta that can wipe out the effects of a wife's bad behaviour (prāyaścittāntarābhāvāc ca sarvathā; Sdhp.44r. 10-44v.1), Tryambaka suggests that there is none (that is, he implies, none other than sahagamana). The wife's only hope is to worship and placate her husband at every turn. The inadequacy of Tryambaka's reasoning on this point becomes clear when one compares it with, for example, that in the Mitākṣarā on Yajñ.III.226. Tryambaka's intention, however, is transparent. He is evidently suggesting that, despite the rulings regarding the kali age, sahagamana is in fact the safest course of action for the not-so- perfect wife. 
+urine (viņmūtre narake), or burning oil (taptatailanarakam); she will be a widow, or a bitch, or a sow in her next life; she will be infested with worms in this one; and so on. Since statements such as these make no reference to any other prayaścitta that can wipe out the effects of a wife's bad behaviour (prāyaścittāntarābhāvāc ca sarvathā; Sdhp.44r. 10-44v.1), Tryambaka suggests that there is none (that is, he implies, none other than sahagamana). The wife's only hope is to worship and placate her husband at every turn. The inadequacy of Tryambaka's reasoning on this point becomes clear when one compares it with, for example, that in the Mitākṣarā on Yajñ.III.226. Tryambaka's intention, however, is transparent. He is evidently suggesting that, despite the rulings regarding the kali age, sahagamana is in fact the safest course of action for the not-so- perfect wife. 
 
 [[959]]
 
@@ -423,9 +423,9 @@ Not surprisingly, Tryambaka makes no mention of or allowance for the remarriage 
 
 [^66]: aprstva tu sutan kimcin na kuryad bhartṛtatparā // Sdhp.46r.8-9 (Ãśv.)<? 
 
-[^67]: āśvulāyanaḥ // Sdhp.45v.1. visnos tu püjanam kāryam patibuddhyā na cānyathā / patim eva sadā dhyāyed visnurūpadharam sivam // Sdhp.45v.7-8 (Āśv.)< Sm.M.I.p.161 (param for sivam; Vyasa); Sk.P.III.2.7.70 (supüjanam for tu püjanam; harim for sivam). 
+[^67]: āśvulāyanaḥ // Sdhp.45v.1. visnos tu pūjanam kāryam patibuddhyā na cānyathā / patim eva sadā dhyāyed visnurūpadharam sivam // Sdhp.45v.7-8 (Āśv.)< Sm.M.I.p.161 (param for sivam; Vyasa); Sk.P.III.2.7.70 (supūjanam for tu pūjanam; harim for sivam). 
 
-[^68]: harivamse vidhavādharman prakṛtya // Sdhp.45v.8. patim samkalpay- itvă [tu] citrastham vapi mṛnmayam / tasya püjām sadā kuryāt satidharmam upāśritā // Sdhp.45v.9-10 (following PT, I have inserted tu to fit the metre; Hariv.)<? Not in Hariv. crit. edn. index. 
+[^68]: harivamse vidhavādharman prakṛtya // Sdhp.45v.8. patim samkalpay- itvă [tu] citrastham vapi mṛnmayam / tasya pūjām sadā kuryāt satidharmam upāśritā // Sdhp.45v.9-10 (following PT, I have inserted tu to fit the metre; Hariv.)<? Not in Hariv. crit. edn. index. 
 
  
 

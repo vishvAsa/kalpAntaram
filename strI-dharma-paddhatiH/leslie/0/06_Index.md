@@ -43,7 +43,7 @@ Atri, 217, 286
 Index
 aupāsana fire, 134; substitute for house-
 holder at, 149 Aurva, 153
-Authorship of Stridharmapaddhati, 10- 13; Raghavan on, 10-11; Sastri on, 11; Vora on, 11
+Authorship of Strī-dharma-paddhati, 10- 13; Raghavan on, 10-11; Sastri on, 11; Vora on, 11
 avaranna ('inferior food'), 145
 Bābāji Bhosle, 13
 bali offerings, evening, 235
@@ -73,7 +73,7 @@ Brother, as substitute for householder,
 Buddhacarita, on wife's share in sacrifice,
 [[109]]
 Buddhism, 207, 228; and the Veda, 41;
-on role of wife, 214; nuns of, 318 Bühler, G., 76, 147, 209; on behaviour
+on role of wife, 214; nuns of, 318 Būhler, G., 76, 147, 209; on behaviour
 of host, 196-7
 Caraka, 69
 Castes: and right to sacrifice, 41; punish- ment of lower, 56; care of cows by higher, 68; clothing of, 89; tilaka or pundra marks for, 99; and husband eating with wife, 216; and eating left-overs, 224; and shaving heads of widows, 303
@@ -111,7 +111,7 @@ demon priest, 266 Derrett, J.D.M., 23, 24
 Descriptive Catalogue.... (Sastri), 11 Devala, 72; on sipping, 75; on clothing,
 [[90]]
 Devaņṇabhaṭṭa, 145, 149
-devapüjā (image worship) ritual, 178–80,
+devapūjā (image worship) ritual, 178–80,
 182; food for, 181
 Dharma, 324
 dharma ('righteousness'), 23, 268; and sacrifice, 23; sources of, 24; on daily schedule, 54; as reflection of cosmic
@@ -176,7 +176,7 @@ timing of, 184; reasons for, 185–8; punishment for neglect of, 188–93; rewar
 āśrama theory, 44–5; ritual activities of, 45, 54; divisions of day of, 46–7; fire sacrifice of, 102; pilgrimages for- bidden to, 134, 138; substitute for at fire ritual, 147; responsibility for guests, 193
 Housework: rules for, 50; before dawn,
 58-69
-Hsüan-Tsang, 56
+Hsūan-Tsang, 56
 Husband: as god, 1, 259, 281, 282, 322, 323; role in fire ritual, 108-9; in polygamy, 121–2; absence from fire sacrifice, 132-3, 136; and expense of ritual fires, 134; reasons for leav- ing home, 135; after wife's death, 141; salutation by wife, 156, 163–8; rights to wife's property, 276–80; wife's duty toward, 305, 321-2; emphasis on demands of, 315-16. See also Wife
 Image worship (devapujā), 178-80
 [[367]]
@@ -297,7 +297,7 @@ Parās aramadhaviya, 3, 223, 235 Parāśara, 207, 220
 Parents-in-law: saluting, 157, 161-2;
 duties performed for, 163-4 Parry, J. P., 224
 Părvati, 29, 30, 31, 124; as ideal wife, 317, 320; on husband as god, 323 Patanjali, 40, 159
-patiśusrüṣaṇam of women, 258–9 pativratā (devoted wife), 1, 304; quota-
+patiśusrūṣaṇam of women, 258–9 pativratā (devoted wife), 1, 304; quota-
 tions in praise of, 280–3 patnī, 30, 110; where to walk, 115–21;
 entrance of at ritual, 117-18; in polygamy, 123; and sudra wife, 126; not to leave the fire, 135-6; crema- tion with sacred fire, 141; as ritual agent of sacrifice, 141-9; manage- ment of money by, 170; and homage to guests, 199; and left-overs, 224, 225; and evening ritual, 234, 235; to join husband on funeral pyre, 298 Personal services, as religious duty of
 wife, 163-8
@@ -399,7 +399,7 @@ Religious law. See dharmasastra Renunciation, as option for women,
 Index
 [[373]]
 Staal, F., 25, 119 Strabo, 56, 57 strīdharma 3, 8, 259, 260, 261; and inherent nature of women, 262; and conflict in nature of women, 263; Umå on, 281; woman's only hope, 321; right and wrong superseded by, 324
-Stridharmapaddhati, 262; importance of, 304; mode of presentation, 4-5; overview of sections, 5-10; author- ship of, 10–13; date of, 12; political background, 13-16; intellectual mi- lieu, 16–23; reading of, 22; literary genre of, 23–5; conclusions of, 318– 29; bearing on the present, 325–9; and actual experience of women, 327-9. See also Sections by number strīsvabhāva (inherent nature of women),
+Strī-dharma-paddhati, 262; importance of, 304; mode of presentation, 4-5; overview of sections, 5-10; author- ship of, 10–13; date of, 12; political background, 13-16; intellectual mi- lieu, 16–23; reading of, 22; literary genre of, 23–5; conclusions of, 318– 29; bearing on the present, 325–9; and actual experience of women, 327-9. See also Sections by number strīsvabhāva (inherent nature of women),
 8, 319
 Sudarsana, story of, 310-12
 šūdra, 34; and children, 36; and women,
@@ -407,7 +407,7 @@ Sudarsana, story of, 310-12
 Suicide, 292-3 Sujătă, 214
 Sun: ritual worship of, 104-5; offering
 of respect to, 149–55; water offered, 150-2; powder circle, 151, 152
-Sürya, and the fire sacrifice, 103, 105 susrüṣā, 29-30 śusrüṣaṇam, 29-30 Suśruta, 145
+Sūrya, and the fire sacrifice, 103, 105 susrūṣā, 29-30 śusrūṣaṇam, 29-30 Suśruta, 145
 sutras, in dharmaśāstra literature, 24, 25 Suttee, campaign against, 1, 292 suvāsinī, 209
 svabhāva, 264, 265; vs. svadharma, 266 svadharma, 258, 259, 263, 320; of men, 263-4; nature of, 264; of women, 264
 Taittiriyopaniṣad, 188, 205 Taittirīyabrāhmaṇa, 188 Tamil, 4; language of, 16
@@ -467,7 +467,7 @@ Wilson, H. H., 32
 Wiser, C. V., 328
 Wiser, W. H., 328
 Women: ideal of, 2, 4; daily practices
-of, 6-7; complexities of position, 8; of period of Maratha Rajas, 19; ritual duties of, 29-30, 47-9; as südra, 38; and the birth of brahmins, 38-9; and right to sacrifice, 41-2, 144; and right to property, 42-3; daily timetable of, 47-8, 52; duties for men and women compared, 49- 50; knowledge of omens, 57; in- stability of, 62; japa meditation for- bidden to, 150-1; and salutations, 159, 161; monastic or ascetic life
+of, 6-7; complexities of position, 8; of period of Maratha Rajas, 19; ritual duties of, 29-30, 47-9; as sūdra, 38; and the birth of brahmins, 38-9; and right to sacrifice, 41-2, 144; and right to property, 42-3; daily timetable of, 47-8, 52; duties for men and women compared, 49- 50; knowledge of omens, 57; in- stability of, 62; japa meditation for- bidden to, 150-1; and salutations, 159, 161; monastic or ascetic life
 for, 318; evil nature of vs. model
 of virtuous wife, 320. See also In- herent nature of women; Widows; Wife
 Wujastyk, D., 204

@@ -17,7 +17,7 @@ Sdhp.48v.8-55r.8)
 
 When Sītā sees Rāma and Lakṣmaṇa being carried off by a powerful demon, she begs the demon to release them and take her instead 
 
-[^1]: patiśuśrūṣaṇam tu prāṇānām avigaṇanayā kartavyatvāt[/] bhartṛkṛtātmavikrayasyāngīkartavyatvāt[] itaradharmopamardena ca kartavyatvāt[/] patisusrüṣaṇam mukhyo dharmah // Sdhp.48v.7-8 with insert. 
+[^1]: patiśuśrūṣaṇam tu prāṇānām avigaṇanayā kartavyatvāt[/] bhartṛkṛtātmavikrayasyāngīkartavyatvāt[] itaradharmopamardena ca kartavyatvāt[/] patisusrūṣaṇam mukhyo dharmah // Sdhp.48v.7-8 with insert. 
 
  
 
@@ -155,7 +155,7 @@ Two points may be noted here. First, despite the rulings that prohibit sahagaman
 
 Secondly, Tryambaka continues-even in so brief a final summary—to give greater weight to the husband's opinions and demands than to any independent formulation of the law by dharmaśastra. For example, the wife is required to avoid both 'those things 
 
-[^6]: evam saucācārair agnisuśruṣayatithipüjanena gṛhakṛtyavicānenayavyayakuṭumbasamrakṣaṇavicāreṇa bhartuḥ sarirasuśrūṣaya bhartur āśritādinām cānnapradānena svayam tatprasādagrahaṇena rātrau ratyādinā svaniṣiddhānām bhartur apriyasya ca varjanena vihitēnām bhartur yat priyam tasya cânusthānena pratikarmanā bhartu[h] śramāpanodanena tattatkāle prāptānām sariradharmāṇām yathāvidhy anusthānena bhartranugamanena bhartur anantaram yāvajjīvabrahmacaryādiniyamaparipālanena patiśuśrūṣayā tadvacanakaranena ca patiḥ samtoṣaniyah // evam samtoṣanam eva patisuśruṣaṇam ity ucyate // Sdhp.86v.4-87r.2. 
+[^6]: evam saucācārair agnisuśruṣayatithipūjanena gṛhakṛtyavicānenayavyayakuṭumbasamrakṣaṇavicāreṇa bhartuḥ sarirasuśrūṣaya bhartur āśritādinām cānnapradānena svayam tatprasādagrahaṇena rātrau ratyādinā svaniṣiddhānām bhartur apriyasya ca varjanena vihitēnām bhartur yat priyam tasya cânusthānena pratikarmanā bhartu[h] śramāpanodanena tattatkāle prāptānām sariradharmāṇām yathāvidhy anusthānena bhartranugamanena bhartur anantaram yāvajjīvabrahmacaryādiniyamaparipālanena patiśuśrūṣayā tadvacanakaranena ca patiḥ samtoṣaniyah // evam samtoṣanam eva patisuśruṣaṇam ity ucyate // Sdhp.86v.4-87r.2. 
 
  
 

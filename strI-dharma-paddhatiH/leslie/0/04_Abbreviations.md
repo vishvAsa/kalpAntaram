@@ -144,7 +144,7 @@ Laghusātātapa(smrti)
 Lingapurana  
 Personal communication from Tarkatirtha  
 Lakshmanshastri Joshi  
-MS of Strīdharmapaddhati from Mysore (see  
+MS of Strī-dharma-paddhati from Mysore (see  
 appendix) Maitrāyaṇisamhitā  
   
 Abbreviations  
@@ -201,7 +201,7 @@ Panini's Astadhyāyi Parāśara
 Pāraskaragṛhyasūtra  
 Parāśaramādhavīya Parāśarasmṛti  
 Patanjali's Mahābhāṣya  
-Printed text of Stridharmapaddhati (see appendix) Pali Text Society edition  
+Printed text of Strī-dharma-paddhati (see appendix) Pali Text Society edition  
 P. V. Kane's History of Dharmasastra  
 Raghavananda's commentary on Manusmrti Ramayana  
 Rāmacandra's commentary on Manusmṛti Rgvedasamhitā  
@@ -244,7 +244,7 @@ Ujj.
 Vaikh.  
 Commentary by Sāyaṇa  
 Sacred Books of the East edition  
-Sacred Books of the Hindus edition Stridharmapaddhati Śivapurāṇa Skandapurāṇa  
+Sacred Books of the Hindus edition Strī-dharma-paddhati Śivapurāṇa Skandapurāṇa  
 Smṛtyarthasara  
 Smrticandrika  
 Smṛtimuktaphala  
@@ -253,7 +253,7 @@ Smṛtīņām samuccayaḥ
 sutra  
 Subhāṣitaratnabhāṇḍāgāram  
 Suśrutasūtra  
-MSS of Stridharmapaddhati from Thanjavur (see  
+MSS of Strī-dharma-paddhati from Thanjavur (see  
 appendix)  
 Taittiriyāraṇyaka  
 Taittirīyabrāhmaṇa  
@@ -283,7 +283,7 @@ Yājñ. Yatidh.
 ZDMG  
 Vimanavatthu  
 Viramitrodaya āhnikaprakāśa  
-Viramitrodaya püjāprakāśa  
+Viramitrodaya pūjāprakāśa  
 Viramitrodaya samskāraprakāśa  
 Viṣṇupurāna  
 Viṣṇusmrti  
