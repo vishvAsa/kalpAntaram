@@ -19,8 +19,6 @@ The earliest exposition of the aśrama theory is presented by Gautama and Baudh�
 
  
 
-The Daily Duties of Women 
-
 45 
 
 life; the payment of the three debts (to the seers by study, to the gods by sacrifice, to the ancestors by sons); and thus the urgent need to produce children (Baudh.II.6.11.33-4). 
@@ -37,8 +35,6 @@ With regard to the different varnas, no specific ähnika rules are laid down for
 
 46 
 
-Stridharmapaddhati 
-
 adjust the āhnika rules prescribed for brahmin householders to suit themselves. The ähnika rules for a king are given in detail in Kaut.I.19 (cf. also Manu VII. 145–7, 151–4, 216–26; Yājā.I.327– 33). In the first part of the day (6.00–7.30 a.m.), the king should attend to matters of defence, income and expenditure; in the second (7.30-9.00 a.m.), he should consider the affairs of the people; in the third (9.00-10.30 a.m.), he should bathe, eat and study the Veda; in the fourth (10.30-12.00 noon), he should receive revenue and assign tasks; in the fifth (12.00–1.30 p.m.), he should consult his ministers and consider the secret information brought by spies; in the sixth (1.30-3.00 p.m.), he may amuse himself; in the seventh (3.00–4.30 p.m.), he should review his army; in the eighth (4.30– 6.00 p.m.), he should confer with his commander-in-chief. At the end of the day, he should perform the evening samdhyā (V.9–17). In the first part of the night (6.00–7.30 p.m.), he should consult his secret agents; in the second (7.30-9.00 p.m.), he should bathe, eat and study; in the third (9.00-10.30 p.m.), he should enter his bedchamber; in the fourth and fifth (10.30 p.m.-1.30 a.m.), he should sleep; in the sixth (1.30–3.00 a.m.), he should wake and contemplate the sastra (i.e. of politics) and the duties of the coming day; in the seventh (3.00-4.30 a.m.), he should meet with his councillors and send out secret agents; and in the eighth (4.30–6.00 a.m.), he should receive blessings from his priests, see his doctor, chief cook and astrologer, perform the appropriate rituals, and go to court (v.18-24). Alternatively, as Kautilya adds (thereby undermining the entire system), the king may divide his days and nights as he needs (v.25). 
 
 Although Tryambaka probably intended his treatise for the edification of the women at court (who were presumably of largely kṣatriya families), the ähnika rules it prescribes for women have little in common with the rulings given above for their king. It is thus more appropriate to compare Tryambaka's rulings for women with those prescribed for brahmin householders. 
@@ -46,8 +42,6 @@ Although Tryambaka probably intended his treatise for the edification of the wom
 Daksa, for example, also divides the day into eight parts (II.4-5). For practical purposes, the day's timetable begins in the last division of the night (i.e. 4.30–6.00 a.m.) when a man should wake, perform the necessary ablutions and the acamana ritual, clean his teeth, bathe, and observe the twilight rituals (samdhyā). In the first division of the day (6.00-7.30 a.m.), he should worship his special deity and pay homage to his teacher. In the second (7.30-9.00 a.m.), he should study the Veda. In the third (9.00-10.30 a.m.), he should work for the maintenance of his family, following only 
 
  
-
-The Daily Duties of Women 
 
 47 
 
@@ -60,8 +54,6 @@ A large proportion of the ähnika rulings cover activities to be carried out in 
  
 
 48 
-
-Strīdharmapaddhati 
 
 Equivalent topics for men 
 
@@ -233,8 +225,6 @@ OR. 11612, fol. 19r (half folio)
 
 OR. 11612, fol. 19r (half folio) 
 
-The Daily Duties of Women 
-
 49 
 
 remains of his meal, and a variety of postures for sexual intercourse (British Library: OR. 11689, OR. 11612; see plates 1-13; cf. Lostly 1980: 14-45; cf. Gaur 1980:23-5). The paintings depicting children and the wife's involvement with them (e.g. plates 10, 11) draw our attention to a curious omission in the Strīdharmapaddhati: while Tryambaka assumes that the good wife will produce sons, he not only shows no further interest in them, but makes no allowance for them in her day. 
@@ -250,8 +240,6 @@ Secondly, there are those rulings which are the same in principle for women as f
  
 
 50 
-
-Strīdharmapaddhati 
 
 concerning sipping (acamanam) and bathing (snanam) also fall into this category. When a twice-born man sips, the water must touch his heart, throat or palate; when a woman sips, it need only touch her mouth (section IIA, pp. 75-7). A man performs his ritual bath with mantras, a woman without (section IIA, p. 83). Generally speaking, however, both rituals are applicable to women as well as men. Similarly, both men and women must wake early, but the wife should wake before her husband (section IIA, p. 52). Both must eat but the wife should serve her husband and eat only what he leaves (section IIC, pp. 221-7). This is a large group of rulings and the implications are interesting. I shall deal with each in its place. 
 

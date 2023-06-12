@@ -41,8 +41,6 @@ Tryambaka next deals with the ritual hospitality to guests which, according to t
 
 236 
 
-Strīdharmapaddhati 
-
 evening than at midday. The quotation reads as follows. "The wise man should honour any guest who comes (to his house) according to his own resources. He should bid him welcome, O Pārthiva, and honour him, bowing down as he offers him water to wash his feet and a seat, and then (he should honour him) by offering food and a bed. O king, whatever sin accrues to men when a daytime guest turns his back and leaves (unfed), that same (sin) increases eight- fold when he turns his back and leaves (unfed) once the sun has set.'[^8] The idea that the evening meal is of greater ritual importance than the midday meal no doubt follows from the fact that the evening agnihotra is the primary part of the twofold fire ritual, cf, agni- suśruṣa; section IIB, pp.102-7). On the practical level, of course, it is also harsher to turn a stranger away at night. 
 
 Finally, Tryambaka considers the evening meal itself. According to Sandilya, 'the householder should eat at night that which is benefi- cial, wholesome and very satisfying." Clearly, Tryambaka's treat- ment of evening rituals and duties tells us little more than that these activities should be performed in the evening much as they are in the morning or at midday. 
@@ -77,8 +75,6 @@ This ruling, with its emphasis on the initiative of the wife, recalls the view m
 
 238 
 
-Stridharmapaddhati 
-
 Randhawa 1962: plate III; Bahadur 1972: 26ff.). In his section on general behaviour, Tryambaka himself advocates a bold confi- dence in sexual matters (prāgalbhyam kāmakaryeṣu, Sdhp. 22v.4; section IV, pp.273-4; cf. plates 12, 13). 
 
 Following the scribal notations on MS T1, I shall take the Baudhayana quotation next. It describes the scene from the hus- band's point of view. 'Then he should take her into a beautiful room that has been well washed and smeared with cow-dung; (a room that is) perfumed, decked with flowers, incense, lights and a bed; a place where they will not be disturbed; (one that is) illuminated in the (four) directions by means of wicks placed in ghee; (one that has) above (the head of the bed) a jar of water and a mirror. In such a place, he should make love to her.'[^13] 
@@ -108,8 +104,6 @@ It seems unlikely that, after making love, both husband and wife would descend t
  
 
 240 
-
-Strīdharmapaddhati 
 
 that the wife should leave her husband to sleep on the bed while she resorts to a mat on the floor. It is certainly customary in some rural areas today (e.g. in western Rajasthan) for the husband to sleep on a raised bed while his wife and family sleep on the floor (or on a low bed; cf. Chaki-Sircar 1984:98). In fact, the practice was fairly common among traditional families in Maharashtra earlier this century (LSJ). Moreover, dharmasastra rulings specify that the couple should only lie together during sexual intercourse (yavat samnipātam caiva sahaśayyā; Āp.II.1.1.21); once that is over, they should sleep separately (tato nānā, Āp.II.1.1.22; tataḥ prthak śayīyātām, Ujj., Benares edn.) and bathe (Ap.II.1.1.23;II.1.2. 1; Gaut.I.9.25; Manu V.144). 
 
@@ -141,8 +135,6 @@ The reasons for both rulings seem self-evident. Regarding the first, we may reca
 
 242 
 
-Strīdharmapaddhati 
-
 were more likely to be associated with sexual intimacy than with fashion or custom. 
 
 A glance through paintings depicting high-class men and women will demonstrate their fondness for ornaments. Women in parti- cular wore elaborate earrings, nose-rings and hair ornaments (e.g. Randhawa 1962: plates VII, XI, figs. 11,68; cf. Śahendravilāsa V. 33-42,VI.216). Even the naked woman pictured in her husband's embrace wears a mass of jewellery at her wrists, ankle and throat, in her nose and ears, and on her forehead (e.g. plates 12, 13; cf. Ran- dhawa 1962: plate III). The 'palm-leaf" earring-also mentioned in the Kādambarī (Kād. II.28; MW 1976:445)—is evidently a parti- cularly large, pendent ornament that might impede the intimacy of lovers. 
@@ -170,8 +162,6 @@ The next sloka, also attributed to Vyasa, reads as follows. 'Kunkuma, collyrium,
  
 
 244 
-
-Stridharmapaddhati 
 
 According to Vātsyāyana, she will come to the 'pleasure room' freshly bathed and dressed (Kām.II.10.1). After they have made love, they will each go separately to wash, returning to chew betel together and to apply ointments to each other's bodies (Kām.II. 10.13-14). 
 

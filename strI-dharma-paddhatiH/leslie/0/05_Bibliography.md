@@ -30,7 +30,6 @@ Sanskrit text with extracts from the commentaries of Haradatta and Sudarsanācā
 Sanskrit text with two commentaries, the Anakula of Haradatta Miśra  
   
 344  
-Stridharmapaddhati  
 and the Tatparyadarśana of Sudarsanācārya, ed. A. Chinnasvami Sastri, KSS no.59, Benares 1928.  
 English tr. H. Oldenberg (1892), SBE reprint, Delhi 1967.  
 Åpastambasmṛti  
@@ -98,7 +97,6 @@ Sanskrit text and English tr. E.B. Cowell (1894), reprint Delhi 1977. Carakasamh
 Sanskrit text and English tr. with a critical exposition based on Cakra- pāṇidatta's commentary, vol.I, R.K. Sharma, ChSS, Varanasi 1976.  
   
 346  
-Stridharmapaddhati  
 Caturvargacintamani of Hemådri  
 Sanskrit text ed. Y. Bhaṭṭācārya and K. Tarkaratne, 2 vols., Bibl.Ind., Calcutta 1879.  
 Dakṣasmṛti  
@@ -158,7 +156,6 @@ See Dharmasastrasamgraha (Jīv.).
   
 348  
 Katyayanasrautasutra  
-Stridharmapaddhati  
 Sanskrit text with extracts from the commentaries of Karka and Yājñika- deva, ed. A. Weber (1859), ChSS no.104, Varanasi 1972.  
 English tr. H.G. Ranade, Poona 1978.  
 Kauṣitakibrāhmaṇa (also called Sankhayanabrāhmaṇa)  
@@ -219,7 +216,6 @@ Sanskrit text ed. V.N. Mandlik, 4 vols., An., Pune 1893-4. Parāśaramädhavīya
 Sanskrit text of the Parāśarasmrti with the commentary of Madhava- cārya, ed. V.S. Islāmapurkar, vols. I and II, 4 parts, Bombay 1893-1906.* Sanskrit text of the Parasarasmrti with the commentary of Madhava-  
   
 350  
-Strīdharmapaddhati  
 cārya, ed. Candrakanta Tarkālaṁkāra (1893–9), Bibl.Ind., reprint Calcutta 1973-4.  
 Parăsarasmrti  
 See Parāśaramādhaviya.  
@@ -280,7 +276,6 @@ Taittiriyabrāhmaṇa
 Sanskrit text with Sayaṇa's commentary, ed. N.B. Godbole, 3 vols., Ān.no.37, Pune 1898.  
 352  
 Taittiriyasamhitā  
-Strīdharmapaddhati  
 Sanskrit text with Sayaṇa's commentary, 9 vols., An.no.42, Pune 1900-8.  
 English tr. A.B. Keith, 2 vols., HOS nos. 18-19, Cambridge, Mass. 1914.  
 Taittiriyopanisad  
@@ -346,7 +341,6 @@ Bennett, L. Dangerous Wives and Sacred Sisters: Social and Symbolic Roles
 of High-Caste Women in Nepal, New York 1983.  
   
 354  
-Strīdharmapaddhati  
 Bhandarkar, R. G. ‘History of child-marriage', ZDMG, vol. 47, Leipzig  
 1893, pp. 143-56.  
 Bhardwaj, S.M. Hindu Places of Pilgrimage in India: a Study in Cultural  
@@ -399,7 +393,6 @@ Finot, L. Les Lapidaires Indiens, Paris 1896.
 Fuller, C.J. and Logan, P. The Navaratri festival in Madurai', Bulletin of the School of Oriental and African Studies, vol.XLVIII, part 1, 1985, pp.79-110.  
   
 356  
-Stridharmapaddhati  
 Gaur, A. Women in India, London 1980.  
 Gharpure, J.R. (tr.) Yäjñavalkyasmṛti with the Mitākṣarā of Vijñānešvara  
 and the Viramitrodaya of Mitramiśra, 2 parts, Bombay 1936-7.  
@@ -453,7 +446,6 @@ The religious role of women in ancient India: a discussion of the Stridharmapadd
 Google  
   
 358  
-Stridharmapaddhati  
 -Strisvabhāva: the inherent nature of women', in Oxford University  
 Papers on India, vol.1, part 1, Delhi 1986.  
 Losty, J.P. Krishna, A Hindu Vision of God: Scenes from the Life of Krishna Illustrated in Orissan and other Eastern Indian Manuscripts in the British Library, London 1980.  
@@ -510,7 +502,6 @@ Rowland, B. The Art and Architecture of India: Buddhist, Hindu, Jain, in The Pel
 Salomon, R. 'Legal and symbolic significance of the "menstrual pollution" of rivers', in Studies in Dharmasastra, ed. R. W. Lariviere, Calcutta 1984.  
   
 360  
-Stridharmapaddhati  
 Sandal, M.L. (tr.) The Mimämsä Sūtras of Jaimini (1923–25), SBH reprint,  
 New York 1974.  
 Sandesara, B.J. ‘Great Hindu women in Gujarat and Saurashtra', in Great Women of India, ed. Swami Madhavananda and R.C. Majumdar, Almora 1953.  

@@ -23,8 +23,6 @@ In addition, we may note the following rulings that are representative of this s
 
 274 
 
-Strīdharmapaddhati 
-
 yana, the qualities of the ideal wife include 'devoted service to her parents-in-law and, especially, to her husband; co-operation with her husband in religious matters (dharmakarye 'nukulatvam); restraint in economic matters (arthakarye 'pi samyamam); bold confidence in sexual matters (prāgalhhyam kamakāryeṣu; cf. section IID, pp.237-8); cleanliness of body, an auspicious presence, and a gentle tongue'.1 With regard to her husband, according to a quotation from the Rāmāyaṇa, ‘even if he is wicked, licentious or poverty-stricken, he is-for inherently noble womenthe supreme deity (paramam daivatam),"[^2] and her guru.3 'When she sees him returning home from outside, therefore', according to a quotation attributed to the [Smṛti-]samgraha, ‘she should lovingly hurry to bring him water, food, betel, and a fan to cool him; then she should do such things as massage his feet and speak in an engaging or amorous way (cățuvacanaiḥ) so as to drive away his cares.'[^4] The section ends with a well-known subhāṣita (attributed here to the [Smrti-]samgraha). 'A father gives within limits, a brother and son as well; but a husband's giving is unlimited-what wife will not worship him?'[^5] 
 
 Things to be avoided (varjanīyāḥ; Sdhp.25r.10-25v.6) 
@@ -42,8 +40,6 @@ This is in fact an artificial subdivision. For although the quotations do indeed
 [^5]: mitam dadāti hi pitā mitam bhrātā mitam sutaḥ/amitasya hi dātāram bhartāram kā na püjayet // Sdhp.25r.9-10 (samgraha) < Subh.378/[^4] (socati for püjayet); Mbh.XII.145.6 (mātā for bhrātā preferred reading; twenty-one MSS read bhrātā incl. one MS from the TMSSM library); Sk.P.III.2.7. 47c48a (sutam sutaḥ for mitam sutaḥ). See also Sdhp.53v.9-10, from section V. 
 
  
-
-The Duties Common to all Women 
 
 275 
 
@@ -63,8 +59,6 @@ section remains in effect a continuation of the earlier one on general behaviour
 
 276 
 
-Strīdharmapaddhati 
-
 relevant sections. For example, the recitation of mantras (japa, mantrasādhana) is dealt with in the sections on devatadhyānam (IIA, pp.52–4), gomatimantra (pp.67–9), snānam (pp.82-8), samdhyā (IIB, pp.105-7), arghyadānam (pp.149-55), devapuja (IIC, pp.178-80), vaiśvadeva (pp.180–3), and strīsvabhāva (III, pp.246– 72). Going on pilgrimages (tīrthayatra) is discussed in section IIB (pp. 132-41); renunciation (pravrajya) in the section on parapurusa (pp. 170-6); the worship of deities (devatārādhanam) in the sections on devatādhyānam (pp.52-4), the goddess Śrī (pp.60-3), devapujā (pp.178-80), vaiśvadeva (180-3) and the goddess Jyesṭhā (pp.2279). Offerings into the fire (homa) are described in section IIB (pp. 1027, homa; and pp. 107-15, the role of the wife); religious donations (dāna) in the sections on managing the household accounts (pp.168– 70) and strīdhanam (IV, pp.277-80); religious vows or observances (vrata) in the sections on the role of the wife (IIB, pp.107–15) and strīsvabhāva (III, pp.246–72). The exclusion of women from Vedic education and ritual sacrifice in general is discussed in sections I (pp.34-9) and IIB (pp. 107-15). The assertion that, for women, household duties are the equivalent of performing the sacrifice is considered in the sections on daily duties (strīṇām āhnikam, pp.44– 50) and household tasks (IIC, pp.168–76); and the idea that serving one's husband is the equivalent of the Vedic student serving his guru in the section on paying obeisance to the husband (IIC, pp.162– 3). The question of what religious practices are open to a woman after her husband has died is discussed in the sections on sahagamanavidhi (IV, pp.291-8) and vidhavādharmaḥ (IV, pp.298–304). 
 
 Lastly, 'nothing should be done independently (svātantryena) by a woman, either as a child, a young girl or an old woman, even in her (own) home."[^9] For, as Manu himself explains in the crucial following verses (omitted here by Tryambaka), she should be subject to her father in childhood, to her husband in her married life, and to her sons in widowhood (Manu V.148; see section IV, pp.299– 300). The rest of this brief section is predictable. 
@@ -74,8 +68,6 @@ Women's property (strīdhanam; Sdhp.25v.6-27r.4)
 Some aspects of this topic are discussed briefly in the approp
 
 [^9]: bālayā vā yuvatyā vā vṛddhayā vāpi yoṣitā / na svātantryeṇa kartavyam kāryam kimcid gṛheṣv api // Sdhp.25v.4-5< Manu V.147; Sm.M.I.p.157 
-
-The Duties Common to all Women 
 
 277 
 
@@ -93,8 +85,6 @@ On the one hand, there are a number of rulings that deny women the rights of own
 
 278 
 
-Stridharmapaddhati 
-
 something for her own use) or disposing (visarge; i.e. of things in general).'[^12] 
 
 On the other hand, according to another quotation attributed to Manu, there are six kinds of 'women's property'. 'That which is given (to her) in the vicinity of the fire (at the marriage ceremony); that which is (given to her) when (she is) taken to her new husband's home; that which (is given to her by her husband) in the act of love; and that which (is given to her) by her mother, brother and father these are known as the sixfold property of women (sadvidham strīdhanam).'[^13] (For the application of the term strīdhanam to property acquired by the husband from the wife's family at the time of marriage, i.e. dowry, see Derrett 1984:185.) Tryambaka also points out that, according to Apastamba, 'If the wife makes an occasional religious donation (naimittike dāne) when her husband is away, this is not called "theft".'[^14] Similarly, the epics frequently show women (such as Kausalya) who are described elsewhere as virtuous and yet who make donations apparently in their own right. 
@@ -111,8 +101,6 @@ Tryambaka's conclusion follows Raghavananda's comment on Manu VIII.416 (quoted a
 
  
 
-The Duties Common to all Women 
-
 279 
 
 For his part, he may use her property only if he has her permission. Indeed, as Tryambaka explains, ‘a husband should never seize (control of) his wife's property as long as she is alive; if he does so by force (balāt), he should be punished by the king.'[^15] The quotation that follows-attributed to Madhava-extends the ruling to a woman's other male relatives. 'Neither husband, son, father nor brother has the power to take or dispose of a woman's property (strīdhana); if any one of them makes use of (lit. “enjoys") a woman's property without her permission (lit. "by force"), he should be made to give it back with interest (savṛddhikam) and he should incur punishment (dandam; e.g. a fine).'16,[^17] 
@@ -127,8 +115,6 @@ For his part, he may use her property only if he has her permission. Indeed, as 
 
 280 
 
-Strīdharmapaddhati 
-
 Tryambaka explains that when the epics describe virtuous women such as Kausalya or Sītā giving things away, the permission of their husbands is assumed. For without the husband's permission (bhartur ājñām vina), the wife should not give anything away, even to her own relatives (naiva svabandhubhyo diśed dhanam; Sdhp.27r. 2-3). 
 
 In praise of the pativratā (Sdhp.27r.4–33v.8) 
@@ -142,8 +128,6 @@ The third series consists of two entire chapters quoted verbatim from Draupadi's
 [^18]: katham ca vasagās tubhyam na kupyanti ca te subhe // tava vaśyā hi satatam pandavāḥ priyadarsane // Sdhp.28r.5 (Mbh.) < Mbh.III.222.4c-5a. 19. vratacarya tapo väpi snänamantrauṣadhāni vā / vidyāvīryam mūlavīryam japahomāgamās tatha // Sdhp.28r.6-7 (Mbh.) < Mbh.III.222.6 (japahomas tathāgadāḥ for japahomāgamās tathā). 
 
  
-
-The Duties Common to all Women 
 
 281 
 
@@ -165,8 +149,6 @@ The fifth passage is taken, with some omissions, from the conversation between U
 
 282 
 
-Stridharmapaddhati 
-
 as her own' (pativrată, pativratabhāginī; see pp.50, 107-15 etc.). Above all, 'the good woman always regards her husband as a god.... For the husband is god for women; the husband is family; the husband is the goal. There is no goal, no deity like the husband.'[^24] Umă also touches on what is a new theme for Tryambaka. ‘If for some reason a husband tells (his wife to do) something that is (normally) not to be done (akāryam), something that is against dharma (adharmam), or something that causes death (prānanāśanam), then—even if he is poor or sick or in trouble or in the midst of enemies, even if he is suffering from a brahmin's curse (e.g. Pāṇḍu; see section V, pp.309–10)—she should do it without hesitation, bearing in mind the (special) duties (enjoined) for difficult times (āpaddharman).'[^25] Tryambaka returns to this important issue in his conclusion. 
 
 The final extended quotation is taken, with few omissions, from Bhisma's conversation with Yudhisthira on the behaviour of good women in the Anusasanaparvan of the Mahābhārata (Sdhp. 33r.2-33v.8 < Mbh.XIII.12.1-3a, 6b-21; see also section III, pp. 247-8, 268). Bhisma in turn recalls another conversation: that between Sumană and Sandilī, the renowned pativrată, when the two women meet in heaven (devaloka). Asked what meritorious behaviour has brought her there, Sandili stresses that ‘it was not by wearing the ochre robe (kaṣāya; i.e. of the renunciate), the bark garments (valkala; i.e. of the hermit), the shaven head (mundā; i.e. of certain types of religious mendicants, or the widow), or the matted locks (jațilā; i.e. of the ascetic) that [she] became a deity (i.e. entitled to be in devaloka).'[^26] She simply followed the dictates of her religious duty to her husband (patidharma; Sdhp.33v.7 Mbh.XIII. 124.21). Tryambaka's repeated insistence that the good wife should 
@@ -178,8 +160,6 @@ The final extended quotation is taken, with few omissions, from Bhisma's convers
 [^26]: näham kāṣāyavasanā nāsmi valkaladharini na ca munda na jațilā bhuktvā devatvam āgatā // Sdhp.33r.6-7 (Mbh.) < Mbh.XIII.124.8 (näpi for nāsmi). 
 
  
-
-The Duties Common to all Women 
 
 283 
 
@@ -201,8 +181,6 @@ In this section, Tryambaka uses a quotation attributed to the Smṛticandrikā t
 
 284 
 
-Strīdharmapaddhati 
-
 right time (i.e. within those three days) is called "menstrual blood” (rajas); as a result of the latter alone, she becomes impure. For women (who continue to bleed from the fourth) until the twelfth day, the purification (appropriate) for urine is required; a ritual bath is (prescribed for those who bleed from the twelfth) until the eighteenth day; after that, she is (again) impure for three days (i.e. it is assumed that another cycle has begun). '[^29] Another quotation, attributed to Angiras, provides a more detailed definition. 'The best of wise men know that the menstruation (rajas) of women is of four kinds: that which is due to illness (rogajam); that which is due to (a disturbance of) the emotions (rāgajam); that which is due to (an imbalance of) the humours (dhātujam); and that which occurs at the right time (of the monthly cycle; i.e. during the crucial three days). '[^30] Both Angiras and Tryambaka conclude that only the fourth type of bleeding makes a woman ritually impure (aśuddha; Sdhp.35v.5). One can only speculate on the reasons behind this careful categorization of the polluting powers of menstrual fluid: the importance of establishing a pregnancy certainly (see below, pp.287-8); a desire to take the initiative out of the hands of woman perhaps; or merely an obsession with classification. 
 
 Secondly, there are innumerable prohibitions relating to the menstruating woman (Sdhp.33v.9-34r.4). For example, she should not use collyrium for her eyes (cf. section IIA, pp.96-101), comb her hair (cf. section IIA, pp.96-7), massage her body with oil or ointments (cf. sections IIA, pp.96-7, and IID, pp.236-45, or take a bath (cf. section IIA, pp.82-8). She should not clean her teeth (cf. section IIA, pp.78-82), ot cut her nails. She should not ‘touch fire' (nāgnim spṛśet, i.e. cook; cf. sections IIA, pp.100–1, and IIC, pp.198-205). She should eat only those foods which are fit for sacrifice (havisyam; cf. Dh.kośa III.ii.1180, 1216, 1265, 1270-3, 1287-8 etc.; PVK II.i. p.681) and she should use either her own cupped hands (añjalinā vā pibet; i.e. like a renouncer, cf. pāṇipātrin, kārapātrin, Yatidh.32.85; Olivelle 1977:37, 164-8) or a 
@@ -214,8 +192,6 @@ parato 'suciḥ // Sdhp.35v.6-9 (Sm.C) < ?
 [^30]: yudāhāngirāḥ // rajaś caturvidham jñeyam rogajam rāgajam tathā / dhātujam kālajam ceti yoṣitām tu budhottamaiḥ // Sdhp.35v.3-4 (Arg.) < ? 
 
  
-
-The Duties Common to all Women 
 
 285 
 
@@ -231,15 +207,11 @@ Thirdly, there are a number of special rulings to deal with different
 
 286 
 
-Stridharmapaddhati 
-
 kinds of coincidences. For example, while there is a prohibition on bathing in general (snānamātraniṣedhe 'pi) during menstruation, the ritual bath prescribed for a specific occasion (naimittikam snānam; see section IIA, pp.82-3) must still be performed, but in some other way. (The menstruating woman should somehow sprinkle her body with water without getting her clothes wet; Sdhp.35r.4-7.) Similarly, what additional rite of expiation (prayascitta) should be performed by a menstruating woman who is further polluted by contact with an untouchable (caṇḍāla, śvapāka), an inferior sūdra (antya, antyaja; i.e. the lower-caste or untouchable śūdra), an outcaste (patita, i.e. one guilty of a mahāpātaka), a dog or a crow (the candālas of the animal and bird kingdoms) (The answer depends both on which day the contact occurred and on whether she was eating at the time; Sdhp.36v.2-7.) What should a woman do if she begins to menstruate when she is already in a state of impurity due to a birth or a death in the family? (She should have water poured on her head by a brahmin; Sdhp.36v.7–9.) What should she do if, while menstruating herself, she touches or is touched by another menstruating woman? (The answer depends on the varṇa of the two women involved, who is responsible for making contact, and whether that contact was intentional or prolonged; Sdhp.36v.9-37r.10.) 
 
 Fourthly, there are the rulings for the ritual bath of purification on the fourth day (Sdhp.36r.1-36v.1, 37r.10-37v.7). Towards the end of the morning (samgave; see p.45) on the fourth day, she should cleanse herself with sixty lumps of earth; if she is a widow, with twice that number (cf. section IIA, pp.71-4). Then she should clean her teeth (cf. section IIA, pp.78-82), and take a ritual bath with her clothes on (sacelam; cf. section IIA, pp.82-8). Pure once more, she should gaze at the sun (bhāskaram dṛṣṭvā), pray for a son (putram prarthya), and attend to her woman's duties (strī dharmam ... samācaret). According to a quotation attributed to Atri, 'when she has bathed properly, she should look at her husband's face and no one else's, or (if he is away) she should look at the sun while meditating on her husband in her mind."[^31] That evening, she should make sexual advances to her husband (upasarpati; Sdhp.40r.1). A quotation attributed to the Agni
 
 [^31]: atrih / Sdhp.37r.10. susnätä bhartṛvadanam ikṣate 'nyasya na kvacit/ athavā manasă dhyātvā patim bhanum vilokayet // Sdhp.37v.3-4 (Atri)< Sk.P.III.2.7.27b-c (ikṣatānyasa for ikṣate 'nyasya; manasi for manaṣā). 
-
-The Duties Common to all Women 
 
 287 
 
@@ -254,8 +226,6 @@ Finally, there are the rulings concerning the importance of making love at the p
  
 
 288 
-
-Stridharmapaddhati 
 
 According to Āpastamba, she should perform the severe twelve-day kṛcchra penance (see Manu XI.211; Vas.23.43; PVK IV.p.132,145) for six months (Sdhp.37v.9–10 < Āp.I.10.28.20). According to the Brahmandapurāna, she should be abandoned (parityājyā; Sdhp. 38r.3-4). According to Manu, 'the king should have her devoured by dogs in a (public) place where many people have gathered (to watch).'[^34] In her next life, according to an unattributed quotation, she will be reborn as a bitch, a she-wolf, a female jackal or a female hog (Sdhp.39v.10-40r.1; for the retention of gender in transmigration, see sections IIC, p.226, and III, pp.246-7). According to Baudhāyana, her husband should proclaim her publicly to be a foetus-killer (bhrūnaghnīm; cf. section IIC, pp.217-21) and drive her out of his house (Sdhp.38r.4-5 < Baudh.IV.1.22; Dh.kosa I.ii. 1019). 
 
@@ -273,8 +243,6 @@ First, Tryambaka gives a number of rulings, largely prohibitions,
 
  
 
-The Duties Common to all Women 
-
 289 
 
 relating to the proper behaviour of the pregnant woman. Many of them are given elsewhere in the more general context of the good wife. For example, even if the pregnant woman-who is naturally tired at this time as a result of the weight of the unborn child (garbhabharālasāyāḥ svabhāvataḥ) — abandons all other ornamentation, she should not abandon those things which are associated with the woman whose husband is still alive: that is, haridrā, collyrium and so on (Sdhp.41r.4-7; cf. section IIA, p.96, note 73). Similarly, she should perform the popular naktavrata that involves a morning bath, a pūjā to Pārvatī (the model of the devoted wife; see section I), and eating only at night (Sdhp.40v.2). 
@@ -289,8 +257,6 @@ Secondly, Tryambaka deals with the importance of indulging a pregnant woman's cr
 
 290 
 
-The Duties Common to all Women 
-
 be given it: a little is in this case good or at least somewhat good (hitopahitam alpakam, Sdhp.41v.3< Astängahṛdayam, śarīrasthānam 1.53b; cf. Obeyesekere 1963:340-1). The reasoning behind this derived here from the medical authority, Vāgbhata—is that the heart is one of the 'soft' organs bequeathed by the mother (for the others, see Jolly 1901:81). 'For (the child's) heart is born of its mother (mātrjam) and is (thus closely) linked with its mother's heart; it is therefore not right to deny the cravings (śraddhāvimānanam) of the pregnant woman.'[^37] For in indulging the mother, one is in fact indulging the child. The cravings felt by the mother are thus in reality those of the foetus for all that it experienced in its former life (Jolly 1901:77). Medical texts derive dohada from dvaihṛdaya, ‘twohearted', on the grounds that the hearts of mother and foetus are linked in this way. 
 
 Two points may be made here. First, this close relationship between the hearts of mother and child supports the idea that the half-breed demon priest inherits his mother's demonic heart (or svabhāva; see section III, p.266). Secondly, the dohada or craving of the pregnant woman is a recurrent motif in South Asian culture and folklore. More important, it can provide a graphic (but culturally acceptable) expression of a woman's hostility towards her husband, her ambivalence towards her child, and her resentment regarding the traditional role of women in society (cf. Bloomfield 1920; Tawney 1924:1, appendix III; Obeyesekere 1963). 
@@ -300,8 +266,6 @@ Finally, Tryambaka describes the entry of the pregnant woman into the lying-in c
 [^37]: bahate 'pi // mätrjam hy asya hṛdayam matuś ca hṛdayena tat / sambandham tena garbhinyā nestam śraddhāvimānanam // Sdhp.41v.1–2 (Bāhaṭa) < Vāgbhata's Aṣṭāngahṛdayam, śārīrasthānam 1.52b-53a (śraddhāvidhāraṇam for śraddhāvimānanam; the latter variant is read by Arunadatta's commentary). 'Bahata' is the South Indian version of 'Vägbhaṭa'. 
 
  
-
-The Duties Common to all Women 
 
 291 
 
@@ -325,8 +289,6 @@ Of the nine topics discussed in this section on the duties common to all women, 
 
 292 
 
-The Duties Common to all Women 
-
 'suttee' was officially noted by the government of Bengal. The campaign against the custom, led by Rammohan Roy (1772-1833), met with considerable hostility from the orthodox community (see Anantaråma's Sahānumaranaviveka).41 In 1829, Suttee Regulation XVII made the practice illegal. In 1830, eight hundred Hindu conservatives appealed to the Privy Council on the grounds that the Act interfered with Indian culture and religion. In 1832, the prosuttee appeal was rejected. In the Maratha court of Thanjavur in the mid-eighteenth century, however, the orthodox position was still maintained. Tryambaka presents it as follows. 
 
 He begins with two resounding quotations that advocate the practice of sahagamana. First, 'at the time of a girl's wedding, the brahmins should recite (these words): "May you be one who accompanies her husband (always,) when he is alive and even when he is dead!"''[^42] Secondly, according to Sankha, ‘if, when her husband has died, a woman ascends with (him; samarohe[t]) into the fire, she is glorified in heaven as one whose conduct is equal to that of Arundhati.'[^43] 
@@ -343,8 +305,6 @@ Tryambaka next considers the objection (nanu...) that sahagamana is in fact a fo
 
  
 
-The Duties Common to all Women 
-
 293 
 
 'people who kill (i.e. are ignorant of) the (true) Self' (cf. Radhakrishnan 1974:570; Hume 1971:361, note 4; PVK II.ii.p.927, Vāj.S.40.3). Tryambaka argues that this objection is invalid because the prohibition on suicide is a general rule (sāmānyavacana) and is therefore open to modification by supplementary rules giving the exceptions to it (viseṣa). Just as the general rule that ‘one should not desire to kill any living being' is modified by supplementary rules-for example, that in certain rituals an animal should be sacrificed-so the general prohibition on suicide is also modified by supplementary rules. These include rulings related to the religious suicide of the ascetic who kills himself at a sacred place in order to go directly to heaven (cf. Yatidh.17.1–32; Olivelle 1977:42-3, 96-8); the deliberate courting of death in battle by the heroic warrior (cf. Yatidh.17.8; Olivelle 1977:97); and—according to Tryambaka—the self-immolation of the widow on her husband's funeral pyre (Sdhp.42r.8-42v.8). 
@@ -359,8 +319,6 @@ He proceeds to quote numerous slokas describing the 'great rewards' in store for
 
 294 
 
-Stridharmapaddhati 
-
 lightning.'[^46] "There is no doubt that the woman who follows (anuvrajanti) her husband gladly from his house to the cremation ground attains with every step the reward(s) of the horse-sacrifice.'[^47] 'Just as the snake-catcher drags the snake from its hole by force, even so the virtuous wife (sati) snatches her husband from the demons of hell and takes him up to heaven.'[^48] 'Yama's messengers recognize a virtuous wife (satīm) from afar and take to flight. Even if her husband has been an evil man, they let go of him at once, exclaiming, "When we see a devoted wife (pativratām) hurtling towards us (to rescue her husband), we messengers (of Death) are less afraid of fire and lightning than we are of her!"'[^49] 'There are 34 crores of hairs on a person's body: she who dies with (anugacchati) her husband will dwell in heaven for the same length of time.'[^50] '(Even in the case of) a husband who has entered into hell (itself) and who-seized by the servants of Death and bound with terrible bonds—has arrived at the very place of torment (vātanästhānam); (even if he is already) standing there, helpless and 
 
 [^46]: tatha ca vyāsaḥ // strīṇām anugamanaviṣaye // Sdhp.42v.4–5. bhartā sahānuyātavyo dehavac chāyayā sadā / candramā jyotsnayā yadvad vidyutvān vidyuta yathā // Sdhp.42v.5-6 (Vyasa) < Nirṇ.438 (sadanuyātavyo for sahānuyātavyo; striya for sadā). See also Saha.IV.1b (as Nirn.; Sk.P.). 
@@ -374,8 +332,6 @@ lightning.'[^46] "There is no doubt that the woman who follows (anuvrajanti) her
 [^50]: parāśaro 'pi// tisraḥ kotyo 'rdhakoți ca yāni romāṇi mānuṣe / tāvat kālam vaset svarge bhartāram yanugacchati // Sdhp.43r.1-2 (Par.) < Par.Sm. IV.32; Mit. on Yājñ.1.86 (lomāni for romāni; Śankh., Ang.); Dh.kosa l.ii. p.1115 (lomāni for romāṇi; tāvanty abdāni să for tavat kālam vaset; Ang.). Cf. Apar.p.110. 
 
  
-
-The Duties Common to all Women 
 
 295 
 
@@ -397,8 +353,6 @@ Tryambaka now considers the rewards accruing to the bad wife. 'If (this act of d
 
 296 
 
-Strīdharmapaddhati 
-
 deeds of either husband or wife; the sacrifice purifies both of them. 'As a result of this (ruling),' Tryambaka concludes, 'when sahagamana is performed by a woman who has done wrong—that is, what her husband did not like (cf. section V)-throughout her lifetime, (then) it is said to have the quality of a prayaścitta.'[^56] In this sense, it is the ultimate, and only effective, prāyaścitta for the bad wife. 
 
 As Tryambaka admits, however, this conclusion conflicts with the special rulings relating to the kali age (Sdhp.43v.1-3; cf. kali- varjya, PVK III. p.926-68). One of these is that the rite of atonement that culminates in death (maraṇāntikaprāyaścitta) is prohibited in the kali age. The quotation is unambiguous. These duties (i.e. those listed in the previous unquoted passages) are to be avoided in the kali age, say learned men; as is the prescribing to brahmins of any rite of atonement (prāyaścitta) that culminates in death.'[^57] Tryambaka merely sidesteps the problem, remarking that whether or not the bad wife should perform sahagamana to wipe out her sins is best left to great men to decide (kartavyam na kartavyam iti mahadbhir vivecanīyam; Sdhp.43v.3). 
@@ -408,8 +362,6 @@ Tryambaka's weakness as a mīmāmsaka is evident. For there are two crucial issu
 vāpi sarvāḥ pūtā bhavanty uta // Sdhp.43r.7-9 (Mbh.)<Sm.M.I.p.163 (prati- kūlatāh for  ̊gāh; bhayān mohāt for bhayad vāpi; Vyāsasātātapaḥ); Par.M.II. i.p.58 (as Sm.M. except tu for ca; bhavanti täḥ for bhavanty uta; Mbh.); Mbh.XIII appendix 1 no.15, 4660-3, 4665-6. Cf. Saha.1.2 (as Par.M. except ca for tu). 
 
 [^56]: anena jīva[nada]śāyām bhartṛvipriyam pāpam kṛtavatyāḥ sahagamanam prāyaścittatvenoktam // Sdhp.43r.9-10 (following the emendation of PT). 57. kalau yuge tv iman dharmän varj[y]ān āhur manīṣinaḥ/ prayaścitta- vidhānam ca viprāṇām māraṇāntikam // Sdhp.43v.1 −2< Sm.A.p.2, slokas 25b, 21b. 
-
-The Duties Common to all Women 
 
 297 
 
@@ -428,8 +380,6 @@ Tryambaka raises one final question. 'Now the objection may be made (nanu) that 
  
 
 298 
-
-Strīdharmapaddhati 
 
 a separate pyre (pṛthakcityārohaṇaparatvāt; Sdhp.45r.2-3). The implication here is that the chief or brahmin wife, the patnī, should join her husband on his pyre (anvārohana) while the junior wives of lower varna should burn on separate ones (anumaraṇa). As the quotation from Usanas explains, a brahmin woman should not go (i.e. die) by ascending (samāruhya) a separate pyre, but for other women this is the ancient duty for wives.'[^61] 
 
@@ -451,8 +401,6 @@ Tryambaka then describes the conduct that will ensure that the
 
  
 
-The Duties Common to all Women 
-
 299 
 
 widow's virtue is safe. For the rest of her days, she should live the subdued and restricted life of the celibate student (kṣäntä niyatā brahmacārinī; Sdhp.45r.9, Manu ‹ Manu V.158) as opposed to the life of the married woman with all its outward signs of happiness and ornamentation (cf. section IIA, pp.88-101). She should willingly mortify her body (kamam tu kṣaped deham), living on flowers, roots and fruits (Sdhp.45v.10, Manu Manu V.157); or, alternatively, on fruits, vegetables and barley (Sdhp.45v.3, Asv.). She should eat only once a day, and in addition she should perform regular severe fasts (Sdhp.45r.1-3, Āśv. ‹ Sm.M.I.p.160, etc.). She should wear undyed (vṛktam) garments, no bodice (kañcukam), no perfumes (gandhadravya) or unguents (udvartanam; Sdhp.46r. 6-8, Aśv.; cf. section IIA, pp.88-101). If she binds her hair on top of her head (kabarībandha), she causes her husband to be bound in the other world (bhartṛbandhāya jāyate, Sdhp.46r.5, Aśv.; cf. section IIA, pp.96-101). She should sleep on the ground (bhūśa- yanam kāryam), never on a 'high bed' (paryanka; Sdhp.45v.4-5, Āśv. < Sm.M.I.p.160, etc.; cf. section IID, pp.236-45). She should not even mention the name of another man (Sdhp.45v.10–11, Manu (Manu V.157), nor have any sort of contact with him (Tryambaka's gloss; Sdhp.45v.11-46r.1). 
@@ -464,8 +412,6 @@ In fact, her lifestyle is repeatedly compared with that of the ascetic or Vedic 
  
 
 300 
-
-Stridharmapaddhati 
 
 home as a true renunciate. Tryambaka explains. 'Forsaking sons, brothers and other (male relatives) after her husband (dies), and living independently, incurs condemnation.'[^65] For a woman may never act independently (see above, p.276, note 9); as a widow, her dependence is simply transferred from husband to sons. Indeed, 'the woman (i.e. widow) who is (truly) devoted to her husband should not do anything without (first) asking her sons.'[^66] 
 
@@ -482,8 +428,6 @@ Not surprisingly, Tryambaka makes no mention of or allowance for the remarriage 
 [^68]: harivamse vidhavādharman prakṛtya // Sdhp.45v.8. patim samkalpay- itvă [tu] citrastham vapi mṛnmayam / tasya püjām sadā kuryāt satidharmam upāśritā // Sdhp.45v.9-10 (following PT, I have inserted tu to fit the metre; Hariv.)<? Not in Hariv. crit. edn. index. 
 
  
-
-The Duties Common to all Women 
 
 301 
 
@@ -503,8 +447,6 @@ The next step in the argument in favour of niyoga is the ruling that 'in the abs
 
 302 
 
-Stridharmapaddhati 
-
 bands (Sdhp.47[1]r.9-13 Mbh.1.98.3b-5). Finally, Tryambaka cites the well-known examples of Kuntī, Ambikā, Ambālikā and so on, all of whom had sons by the practice of niyoga (Sdhp.47[1]r. 13-14; cf. section V, pp.309-10). 
 
 According to Tryambaka, however, the purvapakṣa position is untenable. Only two kinds of son are acceptable in the kali age: the aurasa and the adopted son (dattaka, datta; Sdhp.47[1]r.14-47[1] v.2). This in turn raises the question of whether, if a man dies without a son, his widow may adopt on his behalf. According to Tryambaka, she may, but only if her husband gives his consent to adoption before he dies (Sdhp.47[1]v.2-5).,For, according to Baudhāyana, ‘a woman may not give or take a son except with the consent of her husband.'[^72] If he dies without giving his consent, she may not adopt; but neither may she resort to the practice of niyoga. Instead, she must devote herself totally to the celibate life already described (brahma- caryavrata, vidhavāvrata). Tryambaka quotes Manu. 'Many thous ands of men who have remained celibate (brahmacārīṇām) from their boyhood, and who are (therefore) without sons, have (nonethe- less) gone to heaven without (first) continuing their family line. (Similarly,) when her husband dies, the virtuous woman (sādhvī stri) who has taken up the celibate life (brahmacaryavrate) goes to heaven even if she has no son, just like those male celibates (brahma- cāriṇaḥ).'[^73] 
@@ -518,8 +460,6 @@ Tryambaka also discusses the interesting question of the im-
 [^73]: tathā ca manuḥ // Sdhp.47(1)v.7. anekāni sahasrāṇi kaumārabrahma- cārīṇām / divam gatāny aputrāṇām akṛtvā kulasamtatim // mṛte bhartari sādhvi strī brahmacaryavrate sthita svargam gacchaty aputrāpi yathā te brahmacārinaḥ // Sdhp.47(1)v.8-10 (Manu) < Manu V.159-60 (kumāra° for kaumāra ̊; viprāṇām for aputrāṇām; brahmacarye vyavasthitā for brahma- caryavrate sthita); Sm.C.III.iii.p.595 (Manu; as Manu except kaumāra for kumāra); Dh.kosa I.ii.p.1062-3 (as Manu; Manu). 
 
  
-
-The Duties Common to all Women 
 
 303 
 
@@ -536,8 +476,6 @@ Tryambaka finally raises the question of whether or not the widow should shave h
  
 
 304 
-
-Strīdharmapaddhati 
 
 Dhṛtarastra's widowed daughters-in-law (i.e. kṣatriya women) are described as having dishevelled hair (asimantasiroruhā[h], lit. 'without a parting'; Sdhp.47[2]r.8-10 < Mbh.XV.32.15). 
 

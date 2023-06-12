@@ -8,15 +8,13 @@ One might reasonably expect that a text, or indeed a book, on the religious role
 
 This is not to say that the option did not exist. We have only to look at the epics for frequent references to female ascetics. The work of anthropologists and historians provides ample evidence both of current trends in female asceticism and of their antecedents. Research topics include: women ascetics in traditional and modern Hinduism (Ojha 1981, 1984; King 1984); women saints of history and legend (Alston 1980; Hardy 1980; Abbott 1929; Ramanujan 1979: 129ff., 1982); female ascetics today in Benares (Denton) and Nepal (Caplan 1973); Jaina nuns and laywomen in Rajasthan (Reynell 1985); and a variety of studies on Buddhist laywomen and nuns (Horner 1975; Paul 1979; Flak 1980; Nissan 1984; etc.). Even the Yatidharmaprakāśa, a treatise on renunciation from within the discipline of dharmaśāstra, allows (albeit without enthusiam) that women are entitled to become renouncers (Yatidh. 61.39-41; Mit.on Yājñ.III.58; Olivelle 1977:33–4, 175). 
 
-As Olivelle points out, in order to disentangle this complex question of the renunciation of women, it is essential to distinguish between three separate issues: the legitimacy of the practice in terms of dharmasastra; its legality in the eyes of the law; and its historicity (1984:113–15). Obviously, the Strīdharmapaddhati does not do this. Tryambaka's concern is solely with the legitimacy of the practice in the eyes of dharma. For both arguments and evidence are drawn from dharmaśāstra rather than from life. It is thus not so 
+As Olivelle points out, in order to disentangle this complex question of the renunciation of women, it is essential to distinguish between three separate issues: the legitimacy of the practice in terms of dharmasastra; its legality in the eyes of the law; and its historicity (1984:113–15). Obviously, the Strīdharmapaddhati does not do this. Tryambaka's concern is solely with the legitimacy of the practice in the eyes of dharma. For both arguments and evidence are drawn from dharmaśāstra rather than from life. 
 
  
 
-Conclusion 
+[[319]] 
 
-319 
-
-much his rejection of female renunciation that is of interest to us today as the reasoning behind it. 
+It is thus not so much his rejection of female renunciation that is of interest to us today as the reasoning behind it. 
 
 For any mention-however rare and perfunctory-of women renouncers, or female renunciation in general, is redolent with negative associations, together with the insistence that the good Hindu wife should have nothing to do with them or it. For example, Tryambaka informs us that the orthodox wife should never associate with 'female renouncers' (pravrajitā) or 'female religious mendicants' (śramana), bracketing them with other 'bad influences' such as courtesans, women gamblers, women who meet lovers in secret, intellectual women (haituki), and so on (see section IIC, pp.171-2). In the section on things to be avoided (IV, pp.274-6), renunciation (pravrajyā) is one of the six things that cause women and sūdras to fall into hell. In a quotation from the Mahābhārata, Śändili stresses that she earned her place in heaven by being a good wife and not by wearing the ochre robes of the renunciate, the bark garments of the hermit, the matted locks of the ascetic, or by shaving her head as some renouncers do (section IV, pp.282-3, note 26). In the story of Astavakra and the old female ascetic to whom the young man is sent for instruction, the emphasis rests not on her asceticism nor on her spiritual achievements, but on the fact that—even in old age, even after years of renunciation—she has not managed to subdue the rampant sexuality of her innate female nature (see section III, pp.268, 271). 
 
@@ -27,8 +25,6 @@ As I explained in section III, Tryambaka assumes the orthodox
  
 
 320 
-
-Strīdharmapaddhati 
 
 view of svadharma: good conduct produces auspicious births, evil conduct inferior births; and good conduct is defined as that appropriate to one's birth and station in this life. Birth as a woman is itself a mark of bad conduct in a previous life; the assiduous performance of the conduct appropriate to women (stridharma) the only way to erase it. Since women are denied access to Vedic education, they cannot purify themselves with mantras or offer sacrifice in their own right (see sections I, pp.34-9, and IIB, pp.107–15). According to the rigid orthodoxy professed by such as Tryambaka, they cannot perform any religious act independently of their husbands; they cannot even worship any god other than their husbands. Their only hope for salvation, and thus their only worthwhile goal, is the pursuit of stridharma. The two poles of a woman's existence are thus represented by two radically opposed concepts: the essentially wicked nature of women as evidenced by their female birth (strīsvabhāva); and the role model of the virtuous and selfeffacing wife as the only sure path to salvation (strīdharma). 
 
@@ -58,8 +54,6 @@ by (
 
 322 
 
-Strīdharmapaddhati 
-
 in the important ceremonies of hospitality (see section IIC, pp.198205); and so on. Such a view of the religious role of the orthodox wife replaces all independent actions with a variety of obligations arising from her position as ritual assistant to her husband. 
 
 Secondly, it is repeatedly stressed that the duties of the wifewhether those of every day (sections IIA-IID) or those occasioned by specific moments in her life (section IV, pp.283-304) are in fact the signs of her religious path, that of devotion to her husband. This devotion is described in two ways: serving and obeying one's husband as one's guru; and worshipping him as one's only god. No other description could carry a greater weight of religious commitment and spiritual authority in the Hindu context than these. 
@@ -81,8 +75,6 @@ The requirement that the orthodox wife should treat her husband as her only god 
  
 
 324 
-
-Stridharmapaddhati 
 
 (see section IV, p.300, notes 67, 68). For the husband is the 'supreme god among all gods', whose law she must fulfil without question (see section V, p.308, note 4). 
 
@@ -118,8 +110,6 @@ The work of modern anthropologists is particularly enlightening
 
 326 
 
-Stridharmapaddhati 
-
 in this respect. A.S. Jameson, for example, in her study of the pilgrimage priests (pāndā, gangāguru) of Hardwar, refers repeatedly to the gap between what her subjects claim they do (i.e. in accorddance with orthodox ideals and precepts) and how they in fact behave. Thus they claim to serve only the twice-born; but many in fact have sudra, tribal or even untouchable jajmāns. They claim not to recite Vedic mantras for sūdras (as Manu specifically prohibits them from doing); yet they are recorded as doing so. They claim not to take donations for ashes; but, as Jameson points out, they could not survive economically if they did not (1976:59,328-52). This gap between textual theory and actual practice is frequently highlighted by anthropological research (e.g. Gombrich 1971). It seems probable that, in both ancient India and eighteenth-century Thanjavur, the strict outlines prescribed by religious ideals were similarly blurred in and by real life. 
 
 The relationship between epic literature and social reality is perhaps even more difficult to ascertain. The great Indian epics provide Tryambaka with a profusion of didactic material interlaced with myth and imagination. Are we justified in trying to disentangle sociological evidence from it as well? 
@@ -145,8 +135,6 @@ In the field of social anthropology, Edwin Ardener's theory of 'muted groups' is
  
 
 328 
-
-Strīdharmapaddhati 
 
 This is precisely the position we find in the study of Indian religious texts. Almost the entire religious and ideological edifice constructed in the Sanskrit texts of Hindu orthodoxy has been written or recorded by men. The religious arena is dominated by men; the rules of religious language itself encoded and expounded by them. The religious role allotted to women is defined in terms of their relationship not to God but to men. For women are given what it is considered fitting for them to do; and, as Hirschon points out, there is a close correlation between what it is thought fitting for someone to do and what he or she is considered capable of doing (1978:73). This is not to assume that women would necessarily have described or prescribed a radically different world view. Indeed, it is highly likely, then as now, that the dominant view was partly or fully internalized by the majority of women. Moreover, we should not be disappointed if this proves to be the case for, as Shirley Ardener points out, it is the small deviations from the norm which may be crucial (1975:xix; cf. Hiebert 1985:98). The traditional male perception of a woman's role must therefore be seen in relation both to what is found in real life and to what can be gathered from listening to women's views. Thus the Wisers describe how the women often laugh 'behind their scarves' at the air of authority assumed by a man; yet 'outwardly they approve, and demand submission from his wife' (1971:79-81). In the Manipur valley, women make ‘a formal expression of deference to male authority'; yet 'female defiance of male dominance is a profound feature of their culture' (Chaki-Sirkar 1984: 222). Similarly, Bhuribai claims to be inferior to her husband, on a par with the shoes on his feet; yet she also sees herself as the model of feminine virtue in her own village, virtue incarnate, supporting not only her own husband, family and caste, but the whole of creation as well (Jacobson 1978:134-5). 
 

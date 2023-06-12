@@ -89,7 +89,6 @@ HOS
 Ïś.Up.  
 JAOS  
 Jai.  
-Stridharmapaddhati  
 Gautama (dharmasūtra) Bhagavadgitā  
 Gobhila  
 Gobhilagṛhyasutra  
@@ -243,7 +242,6 @@ TD
 TMSSM Trik.  
 Ujj.  
 Vaikh.  
-Stridharmapaddhati  
 Commentary by Sāyaṇa  
 Sacred Books of the East edition  
 Sacred Books of the Hindus edition Stridharmapaddhati Śivapurāṇa Skandapurāṇa  

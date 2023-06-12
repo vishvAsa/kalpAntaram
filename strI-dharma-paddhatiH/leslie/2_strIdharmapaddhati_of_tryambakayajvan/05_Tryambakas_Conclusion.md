@@ -23,8 +23,6 @@ When Sītā sees Rāma and Lakṣmaṇa being carried off by a powerful demon, s
 
 306 
 
-Strīdharmapaddhati 
-
 (Sdhp.48v.8-49r. 1; Sdhp.48v.9-10< Ram.III.4.3b). 
 
 In the story of the brahmin whose life is forfeit to the crane-demon, Baka, the brahmin's wife begs to be allowed to go in his place (Sdhp.49r.1-3). As she explains, 'this is the supreme and everlasting duty of women in this world: (the wife) should pursue what is good for her husband even (at the cost of) abandoning her life.'[^2] 
@@ -38,8 +36,6 @@ After a fierce storm in the forest, the bird-catcher puts the female pigeon in a
 In the Mahābhārata, the story is told to Yudhisthira by Bhisma to 
 
 [^2]: etad dhi paramam näryäḥ kāryam loke sanatanam | präṇān api parityajya yad bhartṛhitam acaret // Sdhp.49r.2-3< Mbh.I.146.4. 
-
-Tryambaka's Conclusion 
 
 307 
 
@@ -59,8 +55,6 @@ In the context of the Märkandeyapurāṇa, this story demonstrates that a man s
 
 308 
 
-Strīdharmapaddhati 
-
 version of this idea may be found in the story of Prince Vessantara who gives away all he has, including his wife, Maddī, and their two children. We are told that Maddi accepted her treatment without resentment or question, saying that her lord and master could give her away, sell or even kill her if he chose (cf. Cone and Gombrich 1977:75, 8 570). Tryambaka's point is much the same: even in such extreme circumstances, the ideal wife thinks only of her duty to her husband and son. 
 
 Even if it conflicts with other duties (itaradharmopamardenāpi; Sdhp.55r.8-66v.3) 
@@ -74,8 +68,6 @@ First, she placates him, explaining that her husband is her greatest god (bharta
 [^4]: daivateşv api sarveșu bhartā me daivatam param | aviseşeṇa tasyāham kuryām dharmam dvijottama // Sdhp.57r.2-3<Mbh.III.197.29. 
 
  
-
-Tryambaka's Conclusion 
 
 309 
 
@@ -95,8 +87,6 @@ Tryambaka in fact goes even further: if her husband requires it, a woman should 
 
 310 
 
-Stridharmapaddhati 
-
 Kunti on the subject of niyoga (Sdhp.60r.4-61v.6 < Mbh.I.111. 30b-6; 112.3-5, 6b-c, 11-12a, 13-17, 19-28, 30-1; with variants). 
 
 While hunting in the forest, Paṇḍu shoots a deer that turns out to be an ascetic. Since he has been killed in the act of mating, the ascetic curses Pandu that he too will die in the sexual act. Now unable to father children himself, Pāṇḍu asks Kuntī to find someone to act for him by the ancient custom of niyoga (see section IV, pp.300-2). 
@@ -111,8 +101,6 @@ In the context of the Mahabharata, as Tryambaka explains, the story is told by B
 
  
 
-Tryambaka's Conclusion 
-
 311 
 
 duty (dharmam āśritya). The lengthy preamble to the story explains how the beautiful Princess Sudarśanā, born into a noble and royal family, marries Agni and gives birth to Sudarsana. When Sudarśana marries Oghavatī, he takes a vow that he will conquer Death simply by being a householder (gṛhasthaś cavajeṣyāmi mṛtyum; Sdhp.63v.7< Mbh.XIII.2.40). He tells his wife that there is no more important religious duty for the householder than offering hospitality to guests (Sdhp.63v.10-64r.1; cf. section IIC, pp.183–210). Therefore, whether or not he is there himself, she should never refuse a guest anything (atitheḥ pratikūlam te na kartavyam kathamcana), even if it means offering herself (apy ātmanaḥ pradanena; Sdhp.63v. 8-10< Mbh.XIII.2.41–2). 
@@ -120,8 +108,6 @@ duty (dharmam āśritya). The lengthy preamble to the story explains how the bea
 One day, while Sudarsana is out collecting firewood, a brahmin comes to Oghavatī and asks for hospitality. She greets him in the usual way, then asks what he wants. Despite her attempts to dissuade him, the brahmin wants only herself (tvayā mamārthaḥ . . . || pradānenātmano... kartum arhasi me priyam; Sdhp.64r.8–10 < Mbh.XIII.2.52-3). Remembering her husband's instructions, Oghavatī agrees. Meanwhile Sudarsana returns from the forest (and calls out to his wife; omitted). Since she is still in the brahmin's arms (lit. 'touched' by them; karābhyām tena viprena sprṣṭā), she does not reply: considering herself polluted (literally 'left-over'), she is ashamed (ucchiṣṭā[s]mīti manvānā lajjitā; Sdhp.64v.4-5 < Mbh.XIII.2.60; for a discussion of ucchişta in the context of 'leftover' food, see section IIC, pp.221-7). The brahmin calls out to Sudarsana to explain. While Death waits poised with his iron club, Sudarśana throws aside anger and jealousy, bids the brahmin welcome, and calls the gods to witness the truth of his vow to offer everything he has to the guest (... tena satyena ... ; Sdhp.64v. 7-65r.9 < Mbh.XIII.2.63-74; cf. Brown 1978). The air resounds with divine confirmations; Death is conquered; and the brahmin turns out to be god Dharma in disguise. Even Oghavati's chastity is restored by Dharma's assurance that she has been perfectly protected by the combination of Sudarsana's virtues and the virtues of a woman who has truly taken the vow of her husband (rakṣitā tvadguṇair eṣā pativratagunais tatha; Sdhp.65v.4-6<Mbh.XIII. 2.80-1). Her reward, as we should have guessed from her name, is that half of her will become immortalized as a sacred river (traditionally the supreme reward for virtuous women), while the other half will attain with her husband all the heavenly worlds normally 
 
 312 
-
-Strīdharmapaddhati 
 
 acquired by austerities (Sdhp.65v.6-10 < Mbh.XIII.2.82–5). 
 
@@ -132,8 +118,6 @@ The emphasis on wifely obedience, so graphically illustrated in the last two sto
 Tryambaka explains at some length that there is not. For 'service' comprises 'every action that gives pleasure to one's husband' (tatprītyutpadanavyāpāraḥ sarvo 'pi suśruṣaiva). Since obedience also gives him pleasure (ājñākaraṇam api prītyutpādanatvāt), it is included in the general term 'service' (śuśruṣāntargatam eva; Sdhp. 66v.9-10). Tryambaka' argues that the writers of dharmaśāstra (śāstrakāra) use the word suśrușă in this sense to cover all actions that give pleasure to someone to whom one owes respect (sarvam api gurujanaprītikaram karma; Sdhp.67[1]r.1-2). With reference to the son's relationship with his mother (cf. Ap.1.10.28.9), the sacrificer is referred to as his mother's son in order to give her pleasure; and that is why Haradatta calls it suśrūṣā (Sdhp.67[1]r.9–67[1]v.1, with insert; cf. Har. on Ap.1.10.28.9-10). Similarly, the 'service' owed by the student to his teacher includes both obeying his commands and administering to his physical needs. Traditionally, however, only three things are specified as the religious duty of the student: service to the teacher, begging for alms, and lighting the sacred fire (ācāryasuśruṣā bhikṣācaranam agnindhanam; Sdhp.67[1]v.4-6). Since 'obedience' (äjñākaraṇa) is included in 'service', it is not mentioned separately. Why then does Tryambaka discuss it separately? He does so merely to draw attention to a part of the whole, in accordance with the traditional ruling for pleonastic expressions (gobalīvardhananyāyena; Sdhp.67[1]v.9-10; cf. Medh. on Manu VIII.28). Tryambaka's analogy between the student's behaviour 
 
  
-
-Tryambaka's Conclusion 
 
 313 
 
@@ -153,8 +137,6 @@ Săvitrī is born to King Aśvapati of the Madra people, by the grace of the god
 
 314 
 
-Stridharmapaddhati 
-
 sāvitrī formula regularly for eighteen years. When she grows up, since no man asks to marry her, Aśvapati sends her on a pilgrimage to find a husband. She chooses Satyavat, who lives with his mother and blind father in exile in the forest. Although Savitri learns that he is doomed to die within a year, she marries him anyway and joins the exiled family. As the day of his death approaches, Sāvitrī undertakes the severe tapas of standing day and night for three days. On the fourth day, she accompanies her husband into the forest. When Satyavat collapses and Yama comes to take his soul away, Săvitrī follows, answering Yama with such meek wisdom that he gives her three wishes (always excluding Satyavat's life). She asks first, that her father-in-law will regain his sight; secondly, that he will regain his kingdom; and thirdly, that her own father will have a hundred sons. Given a fourth wish, she asks that she and Satyavat will also have a hundred sons. The fifth wish is given without qualification: Satyavat is freed. 
 
 It is interesting to note that the story of Sāvitrī seems to condone several things that Tryambaka has explicitly and repeatedly condemned in his treatise. For example, Sāvitrī is evidently not married before puberty since she is adult enough to embark on a pilgrimage alone (cf. the discussion of nagnikā, section IIA, pp.86-8). According to Tryambaka, the pilgrimage itself is prohibited (see sections IIB, pp. 132-41, and IV, p.275, note 7). So, one assumes, is the stubbornness with which she refuses to accept her father's initial decision that she should not marry Satyavat (see section IV, p.276, note 9). She undertakes a three-day 'vow' (vrata) that involves severe austerities (tapas) when both vows and austerities are forbidden to her (cf. section IV, pp.275-6, notes 7-8). Instead of submitting to her father-in-law (cf. section IIC, pp.156-7), she ignores his advice to stop her vow. She even answers back to Death, refusing (albeit humbly) to give in to his decree. Yet, by virtue of her devotion to her husband, Săvitrī is praised throughout India even today as the perfect pativrată. Tryambaka would presumably argue that this merely demonstrates that devotion to one's husband supersedes all other obligations (see above). 
@@ -164,8 +146,6 @@ Tryambaka's summary (Sdhp.86y.4-88r.1)
 'The husband is thus to be propitiated (samtoṣaṇīyaḥ, comprising a variety of meanings: giving pleasure, making happy, pacifying, 
 
  
-
-Tryambaka's Conclusion 
 
 315 
 
@@ -181,8 +161,6 @@ Secondly, Tryambaka continues-even in so brief a final summary—to give greater
 
 316 
 
-Stridharmapaddhati 
-
 that are forbidden to her' and 'those which her husband does not like'. Similarly, she should do both 'those things that are prescribed' and 'those which her husband likes'. It is clear from the tone used and the examples given throughout section V that, in each case, the latter requirement is the stronger. Thus she should follow the detailed rules of dharmaśästra unless and until her husband commands her otherwise. As soon as there is any conflict, however, she should simply do as he requires. It is fitting, therefore, that Tryambaka ends his summary with what are for him the two most important rulings for the ideal wife: she should offer her husband 'obedient and devoted service' (with a marked stress on 'obedience', according to Tryambaka's own definition; see above, pp.310-12; and she should do what he says. For this is indeed true 'service'. 
 
 This summary is followed by a number of well-known slokas in hyperbolic praise of the wife who manages to behave as she should. For example, such a woman obtains fame in this world and the same heaven as her husband in the next (patiloka), and 'there is no higher goal than that' (cānuttamām gatim; Sdhp.87r.6). She 'ascends to heaven via the staircase of service to her husband' (sa bhartṛśuśrūṣāsopānasvargatim gatā; Sdhp.87v.3). 'Seated in an aerial chariot' (vimānasthā; cf. above, p.306), she is praised by the gods (Sdhp.87v.4). Wherever her foot touches the ground, the earth is purified (Sdhp.87v.4-5). Though afraid of her (bibhyat), the sun, moon, wind and waters deliberately touch her in order to purify themselves (Sdhp.87v.5-6). For her touch is as cleansing and auspicious as a dip in the sacred Ganges (gangāvagaha; Sdhp.87v.7-8). 'As a result of the merit obtained by the devoted wife, three sets of three (ancestors) enjoy the pleasures of heaven: three in her father's line, three in her mother's, and three in her husband's too.'[^7] 
@@ -192,8 +170,6 @@ Concluding verses and colophon (Sdhp.88r.1-8)
 'In this way, having (first) shuffled (lit. 'churned'; vilody[a]) the various pronouncements from the smṛtis and the purāṇas together, and (from them) collected the religious duties relating to women— some of them supplied here and there with reasoned pros and cons 
 
 [^7]: skände // Sdhp.87v.4. pitṛvamsyā mātṛvamsyäḥ pativamśyās trayas trayaḥ / pativratāyāḥ punyena svargasaukhyāni bhuñjate // Sdhp.87v.9-88r.1 (Skanda) < Sk.P.III.2.7.58. 
-
-Tryambaka's Conclusion 
 
 317 
 

@@ -32,8 +32,6 @@ But what is this powerful ideology that is accepted without hesitation by some w
 
  
 
-Introduction 
-
 3 
 
 an ancient, complex and highly intellectual socio-religious tradition of its own. Scholars from all over the world have spent lifetimes studying the contributions of the pandits of this rich classical past. Where then are the great debates on the status and role of women? Is there not a Sanskrit text on the subject from within this orthodox Hindu tradition? 
@@ -66,8 +64,6 @@ The decision to merge translation and commentary rather than to conform to the u
 
  
 
-Introduction 
-
 5 
 
 The main reason for this is that the text itself is not unduly difficult. The Sanskrit style is largely that of the lawbooks and the epics. It has none of the more tortuous complexities of, for example, a treatise in Sanskrit grammar or logic. The important task in a text of this nature is therefore not an analysis of roots and compounds, but an elucidation of the overall world view within which the treatise was written; an exploration not of specific words and their meanings, but of the values assumed and the prejudices implied. For this kind of intellectual history, it was deemed unnecessary to separate text and translation from commentary in the traditional manner. 
@@ -93,8 +89,6 @@ In this and all subsequent sections, each textual attribution made by Tryambaka 
 Section II constitutes the bulk of this study. In terms of Tryambaka's text, however, it represents less than a fifth of the whole. But this compact and complex section of the Stridharmapaddhati is unique. While detailed descriptions of the daily practice of the orthodox Hindu male householder form a recurrent and important 
 
  
-
-Introduction 
 
 7 
 
@@ -125,8 +119,6 @@ Section IV covers sixty and a half manuscript sides and represents a third of th
 Both Tryambaka's divisions, and the order in which he deals with them, have been maintained. Within each subsection, the 
 
  
-
-Introduction 
 
 9 
 
@@ -238,8 +230,6 @@ Raghavan's New Catalogus Catalogorum gives the following information.
 
 3. Dhundhirāja, son of Lakṣmaṇavyāsa, protégé of Tryambakarāyamakhin, Šāhaji, Serfoji and Raghunatha, is the author 
 
-Introduction 
-
 11 
 
 of the Dharmäkūta (ascribed to Tryambakarāyamakhin), .he Mudrārākṣasavyäkhyā, the Räjakośanighantu (ascribed to Raghunātha) and the Śāhavilāsagītā. 
@@ -279,8 +269,6 @@ The relationship between Tryambaka and Dhundhiraja is less clear. As Raghavan po
 4. guruyajñesakṛpayā śrīmattryambakayajvanā / pritaye śrīnṛsimhasya kṛtā gārhasthyadipikā || Gärhasthyadipikā 59r.2. Cf. Sdhp. 88r. 7-8, section V, note 10. 
 
  
-
-Introduction 
 
 13 
 
@@ -339,8 +327,6 @@ That independence too was short-lived. In the Deccan, Maratha opposition was at 
 It is against this background of double isolation that the 
 
  
-
-Introduction 
 
 15 
 
@@ -412,8 +398,6 @@ The reigns of Ekoji and his three sons (1676-1736) have left an astonishing crop
 
  
 
-Introduction 
-
 17 
 
 people, is also not of the highest quality. But the contribution to Marathi and Sanskrit literature is considerable. 
@@ -472,8 +456,6 @@ Figure 4. The family of ministers
 
  
 
-Introduction 
-
 19 
 
 As noted above, Tryambakarāya is known as the author of the Dharmākūta, and a patron of the court pandit and poet, Dhundhirājavyāsa (see pp. 10–13). Bhagavantarāya is said to be the author of the Mukundavilāsa, the Uttaracampu and the Raghavabhyudaya. Anandaraya is held to be the author of the Asvalayanagṛhyasutravṛtti, the Jīvānandanataka, the Vidyapariṇayanāṭaka and a commentary on it; and the patron of Vedakavi, Vasudeva Dikṣita and Appadhvārin among others. His son, Nrsimharāya, is said to be the author of the Tripuravijayacampū; while Tryambakarāya's grandson, Nārāyaṇarāya, is said to have composed the Vikramasenacampu (Raghavan 1952:25-9; Krishnamachariar 1937: 246-7). 
@@ -512,8 +494,6 @@ First, it seems that for the royal family at least polygamy was the rule. Apart 
 
 Secondly, what do we know of any individual women at this Maratha court? In fact, the only woman who emerges as a distinct individual is Dīpāmbā (Dīpābai or Dīpāmbikā), Ekoji's chief wife. It was she who was instrumental in arranging the conciliation between Ekoji and Sivājī, thereby playing a role so crucial to them both that it is commemorated in the treaty they signed (see pp. 13– 14 above). Dīpāmbā was evidently both influential and popular. She is frequently mentioned in works of the period and always in 
 
-Introduction 
-
 21 
 
 terms of praise. The Sähendraviläsa, for example, gives an account of Dīpāmba's marriage to Ekoji (1.47-56), her appearance and good qualities (1.57-61), and her pregnancy (1.62–7). 
@@ -543,8 +523,6 @@ Although neither Dīpāmbā nor Tryambaka give clear instructions regarding when
 7. adharmābhibhavat kṛṣṇa praduṣyanti kulastriyaḥ/ strīṣu duṣṭāsu vārsneya jāyate varṇasamkaraḥ // Gītā 1.41. 
 
  
-
-Introduction 
 
 23 
 
@@ -577,8 +555,6 @@ Digests of both kinds are almost always the result of royal patronage. For a kin
 Tryambaka himself seems to have been familiar with the major south Indian works on dharma. There are even marked similarities 
 
  
-
-Introduction 
 
 25 
 

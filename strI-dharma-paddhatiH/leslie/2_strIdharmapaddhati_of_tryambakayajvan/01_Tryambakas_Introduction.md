@@ -23,8 +23,6 @@ The text continues with four introductory verses.
 
 30 
 
-Stridharmapaddhati 
-
 thing that gives a husband pleasure; that there are clear parallels both with the son's relationship with his mother, and with the 'service' offered by the student to his teacher; and thus that ‘obedience' (äjñakaraṇa) is included in the more general term 'service' (suśrūṣā; see section V, pp. 312-13). Abhajata is probably intended here as a pun, for √√bhaj may have a variety of meanings: 'to obtain as one's share'; 'to serve, honour or devote oneself to'; and 'to take on the shape or form of. 
 
 The reference to Pārvatī, one of the most popular examples of the devoted wife, recalls the story told to explain the haritālikāvrata. This 'vow' or religious observance, performed by women alone and especially popular in Maharashtra even today, involves the worship of coloured clay images of Parvati, her (female) friend, and the symbol of the god Śiva (the sivalinga). It is described only in the later medieval digests such as the Vrataräja of Viśvanatha, the Nirnayasindhu of Kamalākarabhatta, and the Vratārka of Sankarabhatta Ghare (PVK V.i.p.144-5). The story, said to have been narrated to Parvati by Śiva himself, recounts how by her own devotions Pārvatī both acquired Siva as her husband (cf. Nagaswamy 1983:46-51) and attained the honour of becoming half of his body. This half-male, half-female form of Śiva (ardhanārīśvara) is graphically depicted in temple sculptures such as those in the Elephanta caves off Bombay (cf. Zimmer 1983:vol.II, plates 256,258;139). Similarly, in the umāmaheśvarasamvāda section of the Mahābhārata, Śiva reminds his wife that she is half of him, sprung from half his body.3 
@@ -32,8 +30,6 @@ The reference to Pārvatī, one of the most popular examples of the devoted wife
 The image also reinforces the ideal oneness of the married human couple: husband and wife as complementary halves of one whole. This is a popular image. In the famous passage from the Bṛhadāraṇyakopaniṣad (1.4.1-2), the primeval Self in the shape of a man (puruṣavidhah) longs for a second: he falls (√pat) into two parts from which arise husband (pati) and wife (patni). Hence their subsequent union is the reuniting of two halves. Similarly, in Sat.Br.V.2.1.10, the sacrificer includes his wife in the väjapeya ritual on the grounds that she is half of himself and he wishes to go to the 'supreme goal' complete. This much-extolled oneness does not, however, bear close examination. The Upanisadic Self, like Śiva, continues to identify 
 
 [^3]: mama cārdham śarīrasya mama cārdhād viniḥsṛtā| ... tvam ...// Mbh. XIII. 134.9a. 
-
-Tryambaka's Introduction 
 
 31 
 
@@ -51,8 +47,6 @@ The importance of the son at this mythological level reinforces the orthodox vie
 
 32 
 
-Stridharmapaddhati 
-
 from her. Satī reincarnates as Pārvatī to give birth to Skanda. Whether for goddess or mortal, Manu's dictum holds: women were created to give birth (Manu IX.96). In so doing, they fit into the ordained scheme of things and thus 'show favour to the world'. In the Satapathabrahmana example quoted earlier, the sacrificer finds in this the logic behind the ‘oneness' of the married couple: without a wife, a man cannot be reborn (naiva. . . prajāyate; meaning both 'to beget' and 'to become an embryo') and so remains incomplete (asarva); by taking a wife, he is reborn and so becomes complete (Śat.Br.V.2.1.10). 
 
 [^3]: "Those sacred laws which, when put into practice, bring women unparalleled fame, greater happiness in this world and the highest goal (in the next) are here described so that they may once more be thoroughly understood. At his mother's command (jananīnideśavacasă), Tryambakayajvan has gathered together those sacred laws relating to women and now proclaims them one by one as they appear in the lawbooks, the purānas and so on.”[^6] 
@@ -66,8 +60,6 @@ After mätṛ, jananī is perhaps the commonest word for 'mother'. The invocatio
 [^6]: yeṣām ācāraṇena kīrtir atula bhūyaḥ sukham caihikam/ nārīṇām gatir uttamă ca bhavati jñātum punah kṛtsnaśaḥ || varnyante jananinideśavacasă samgrhya te yoṣitām | dharmās tryambakayajvanā smṛtipurāṇādau pṛthak kirtitäḥ ||3|| Sdhp.lv.6-9. The metre is. särdulavikrīḍitam. 
 
  
-
-Tryambaka's Introduction 
 
 33 
 
@@ -91,8 +83,6 @@ But this can hardly be what Tryambaka means. For the quotation he gives here rea
 
 34 
 
-Stridharmapaddhati 
-
 have dire consequences. In Mbh.III.56.3, for example, evil and difficulty (in the form of kali) take possession of Nala precisely because he has failed to wash his feet after urinating. But if, as seems likely, this narrow meaning is intended, then Tryambaka is speaking somewhat loosely here: he does not in fact examine sauca before he has dealt with several other topics first. The principle, however, is clear. 
 
 Tryambaka's second point is that the rulings he is about to expound apply only to married women. He argues by analogy with the case for men. Three separate and unattributed quotations are produced to support his statement that 'religious law prescribes no rules for men until they have been invested with the sacred thread (lit. “until the binding on of the muñja grass”).’[^11] 
@@ -110,8 +100,6 @@ sästrena).
  
 
 X 
-
-Tryambaka's Introduction 
 
 35 
 
@@ -133,8 +121,6 @@ Thirdly, 'once the teacher has performed the initiation ceremony, he should firs
 
 36 
 
-Stridharmapaddhati 
-
 There is a curious contradiction here. Before initiation, a child is considered-for ritual if not social purposes-to be equivalent to a sūdra (see Baudh.I.2.3.6; Vas.II.6): Since, as Manu and Tryambaka explain, the marriage ceremony is to be taken as the girl's initiation, she too is ritually equivalent to a sūdra before her marriage. The implication is obvious: a boy after his initiation and a girl after marriage are no longer held to be at the level of the sudra. Tryambaka then explains that all the sacred duties he is about to describe apply to married women. But the next two quotations he cites (one on sauca, the other on acamana) explicitly equate the (married) woman and the sudra. This means that women are ritual sūdras both before and after marriage; the only difference is that they may follow their own whims before they marry, their husbands' afterwards. 
 
 But this is in origin a historical rather than a philosophical problem (see Leslie 1980:15 ff.; 1983(1):99–100). In the Vedic era, the period of study and brahmacarya discipline was deemed essential for girls as well as boys. 19 The reason is important: the upanayana of women was vital to the continuation of the varna system. Without it, all women would be reduced to the level of the śūdra and, as Hārīta explains, sūdras cannot give birth to brahmins, kṣatriyas or vaisyas.20 Although the actual practice of female students probably came to differ from that of males, the fact of initiation remained. Yama, for example, while agreeing that upanayana, Vedic education and the recitation of mantras should be open to girls, advocates that they should be taught only by their fathers, uncles and brothers; that they should not beg from door to door but only from their own homes; that they should not wear deerskins or grow matted hair.21 
@@ -149,8 +135,6 @@ As language and culture developed away from those of Vedic texts, more extensive
 
  
 
-Tryambaka's Introduction 
-
 37 
 
 accumulating literature. But whereas it was acceptable for boys to postpone marriage until their twenties or thirties, it was still thought essential for girls to marry in their teens. The effect was to divide women into two kinds: the 'brahmavādinī (lit. ‘one who discusses brahman'), who was initiated in the lighting of the sacred fire, the reading of Vedic texts, and begging in her own home; and the sadyovadhu (lit. 'one who becomes a bride on the same day, i.e. as her initiation') for whom the ceremony was a mere formality just before her marriage.22 By the time of Hārīta (approximately 500 B.C.), the majority of girls fell into the latter category. The lack of Vedic training for girls made nonsense of their use of mantras, so it is no surprise that by the time of Manu (i.e. at the turn of the era), the initiation of girls was performed without them (cf. Manu II.66, IX.18). By the time of Yajnavalkya (i.e. the first or second century of the Christian era), the upanayana of girls was prohibited altogether (cf. Yājñ.I.13). At some point during this transition-in order to justify the marriage of uninitiated girls to twice-born men and thus to rescue the entire varna systemthere arose the compensatory theory that the marriage ritual took the place of initiation for girls. This in turn lent weight to the idea that girls should be married at a very early age. For it was felt that the girl's 'initiation' (i.e. marriage) should take place at the same age as that appropriate for the boy's upanayana. 
@@ -163,8 +147,6 @@ It is often argued that this trend was based on the belief that the increasingly
 
 38 
 
-Stridharmapaddhati 
-
 reasons. Adrsta rulings are always more cogent than drṣta ones (see my discussion of these terms in section IIA, p. 58 below). Thus to say that Vedic initiation and education are barred to women because they are more liable to make mistakes is to weaken the validity of the prohibition; no reason need or indeed should be given. 
 
 In time, the argument turned full circle. Instead of the absence of upanayana having as its consequence the status of sudra, the a priori sūdra status of women came to be seen as the reason for their ineligibility in the first place. Now commentators had to work hard to explain away the all too obvious references to the upanayana of girls in earlier texts. On Gobh.gr.II.1.19, for example, the commentator explains that the term yajñopavītini cannot mean literally 'she who wears the sacred thread' since women may not do so; it must therefore refer to a bride who wears her sari draped over her left shoulder 'like' a sacred thread. On the same grounds, Sankara interprets the reference to a 'learned (pandita) daughter' in Br.Up.VI.4.17 as a reference to domestic learning and expertise (gṛhatantraviṣayam). When Manu declares that no sacred rite may be performed with mantras for women, his first reason is that they are 'weak' and 'impure'; his second that they are ignorant of . Vedic literature (Manu IX.18; Baudh.I.11.7; Mbh.XIII.40.11–12). Śūdra status is now associated directly with the female state and only indirectly with the lack of upanayana and Vedic education. 
@@ -174,8 +156,6 @@ Tryambaka evidently has a problem. In order to persuade women of the religious s
 The problem of how ritual sūdras can give birth to brahmins, kṣatriyas and vaiśyas — voiced above by Hārīta―remains. The 
 
  
-
-Tryambaka's Introduction 
 
 39 
 
@@ -195,8 +175,6 @@ Tryambaka's argument runs as follows. 'Injunctions relating specifically to wome
 
 40 
 
-Stridharmapaddhati 
-
 (water) once on (or in) the mouth.'[^26] This ruling on acamana, the ritual of sipping water, again presupposes some general statement (such as Manu V.139a) to the effect that he who desires to be pure should sip water three times. Yājñ.I.21a gives the modifying rule for twice-born men; Yajñ.1.21b (Tryambaka's example) gives that for women and südras. 
 
 Tryambaka concludes from this that 'rulings such as "he who, rising early, sees. .",[^27] which prescribe duties for men (in the technical sense that they are couched in the masculine form without any additional modifying rules) are in fact equally applicable to women.'[^28] This is an important point for Tryambaka's treatise, especially in his long section on daily rites or duties (strīņām ähnikam, section II, pp. 44-245). For, in the absence of rulings specific to women on subjects such as what should or should not be seen in the early morning (darśaniyāny adarśaniyāni ca; section IIA, (pp. 54-7), urinating and defecating (mutrapurīṣotsargah; pp. 69 – 71), or cleaning one's teeth (dantadhāvanam, pp. 78-82). Tryambaka is obliged to quote passages couched in the masculine and assume that they apply to women too. 
@@ -208,8 +186,6 @@ But what appears, in this context, to be no more than a straightforward grammati
 [^27]: prātar utthaya yaḥ pasyet ... // Sdhp.2v.4 (e.g. the beginning of Gobh.Sm.II.163,165, see p. 55, notes 8,9. 
 
 [^28]: evam ca... ity ădină purusasyokta dharmaḥ strīnām api sādhāraṇā eva // Sdhp.2v.4-5 (i.e. dharmäḥ for sāmānyadharmāḥ). Cf. note 23. 
-
-Tryambaka's Introduction 
 
 41 
 
@@ -223,8 +199,6 @@ The case for women is somewhat different. There is no suggestion that women are 
 
 42 
 
-Strīdharmapaddhati 
-
 unlike the sudra, therefore, they are not a priori unfit to perform sacrifices. However, ritual injunctions are invariably made in the masculine form. One question remains. Is this masculine form to be taken as a superordinate (meaning 'person', 'human' etc.) or as a hyponym (meaning ‘male' as opposed to 'female')? Jai.VI.1. 6–20 deals with this very point. The question is raised in connection with the classic injunction svargakāmo yajeta ('he who desires heaven should perform sacrifices'). The purvapakṣa or prima facie view states that since svargakāmo is in the masculine, the injunction applies only to men (lingaviseṣanirdeśāt pumyuktam; Jai.VI.1.6). Jaimini, however, insists that the masculine is intended here in its superordinate sense, applying to the class or genus (jāti) without distinction (aviseṣāt), always of course excepting the sudra. Thus women are also entitled to perform sacrifices (Jai.VI.1.8). 
 
 Let us take a closer look at the views of Jaimini's opponents. They base their exclusion of women from sacrifice on two grounds: first, on the denial of the üha of gender; secondly, on the assertion that the performer of sacrifice must possess property which, according to them, a woman is unable to do. The latter point is supported by statements (e.g. Manu VIII. 416; see p. 277, note 10) that a woman cannot possess anything because what is hers belongs to her husband or father (cf. Tryambaka's comments on this topic in section IV, pp. 277-80 below). Moreover, she herself belongs to husband or father and is thus 'on the same level as property' (strīnām dravyaiḥ samanayogitvāt; Jai.VI.1.10). Here Vedic texts are quoted describing the 'selling' of a woman by her father to her husband (presumably in the arṣa form of marriage according to which the groom presents the bride's father with a cow and a bull; cf. PVK II.i.516-26; Menski 1984: 2.5.5.). For the exponents of this view, therefore, religious capacity depends on social position, specifically on the possession of wealth which is denied to women (Jai.VI.1.1012). 
@@ -232,8 +206,6 @@ Let us take a closer look at the views of Jaimini's opponents. They base their e
 For Jaimini, however, social position is subordinated to religious aspiration which, he claims, is as strong in a woman as in a man (phalotsāhāviseṣāt; Jai.VI.1.13). His argument runs as follows. First, the crucial text must be interpreted according to the üha of gender to read: 'If a woman truly desires heaven then she too should sacrifice.' She should therefore proceed to acquire the necessary wealth (e.g. by spinning, cooking, etc., or by means of property received at marriage; cf. pp.277-80) in order to perform the sacrifice 
 
  
-
-Tryambaka's Introduction 
 
 43 
 
