@@ -861,7 +861,7 @@ not to be carried at all. The Madanapārijata (p. 16 ) explained that 'kamandalu
 
 14. 'The killing of a cow in the sacrifice called Gogava' (1.9). 
 
-There were various occasions on which in ancient times & cow was sacrificed. The Anubandhyā cow killed at the end of the Udayaniyā iṣti in Agnistoma has been referred to above (on p. 627 n. 1196). In the Madhuparka which was offered 
+
 
 1817. Hur wife gorurgi gratinirahat freterea farrari afanywa दी करोग्यनशनं तथा । अगाधतोयराकिंवा भूमपतनं तथा। गच्छेन्महापथं वापि तुपार. PHATE \# amra merat occurr e nt orfatata FE TÈ FETART: 1 
 
@@ -873,7 +873,7 @@ t TUTTAVAT कर्तग्या महिनोपरि आभित्य 
 
 Wol. 
 
-to an honoured guest a cow was either killed or let loose at the desire of the guest. Vide H. of Dh. vol. II pp. 543-545. A cow was killed in one of the three or four aṣtakā sraddhas ( vide Khādira gr. III. 4.1, Gobhila gr. II. 10. 16). Ap. Dh. S. II. 7. 16. 25 states that if cow's flesh is offered in sraddha for the pitrs, the latter are gratified for one year. There was a sacrifice called Gosava or Gomedha, that was an Ukthya in which the fees were ten thousand cows and which according to some could be performed only by & vaisya (Kāt. Śr. 22. 11. 1818 3-8). A bull was killed as an offering in the rite called śūlagava ( vide H. of Dh. vol. II pp. 831-832 ). As flesh-eating came to be looked down upon, cow sacrifice became most abhorrent and Kalivarjya texts only register a prohibition which had been acted upon centuries before. 
+There were various occasions on which in ancient times & cow was sacrificed. The Anubandhyā cow killed at the end of the Udayaniyā iṣti in Agnistoma has been referred to above (on p. 627 n. 1196). In the Madhuparka which was offered to an honoured guest a cow was either killed or let loose at the desire of the guest. Vide H. of Dh. vol. II pp. 543-545. A cow was killed in one of the three or four aṣtakā sraddhas ( vide Khādira gr. III. 4.1, Gobhila gr. II. 10. 16). Ap. Dh. S. II. 7. 16. 25 states that if cow's flesh is offered in sraddha for the pitrs, the latter are gratified for one year. There was a sacrifice called Gosava or Gomedha, that was an Ukthya in which the fees were ten thousand cows and which according to some could be performed only by a vaisya (Kāt. Śr. 22. 11. 1818 3-8). A bull was killed as an offering in the rite called śūlagava ( vide H. of Dh. vol. II pp. 831-832 ). As flesh-eating came to be looked down upon, cow sacrifice became most abhorrent and Kalivarjya texts only register a prohibition which had been acted upon centuries before. 
 
 15. "The employment of cups of wine in the Sautrāmapi' (1. 10). 
 
