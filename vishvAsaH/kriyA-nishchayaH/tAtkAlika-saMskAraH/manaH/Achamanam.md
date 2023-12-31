@@ -60,11 +60,11 @@ unicode_script: devanagari
 ### अपाम् उपस्पर्शः 
 कर्मारम्भे-
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/yajuH/vidyudasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vidyudasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 कर्मान्ते -
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantrAH/yajuH/vRShTirasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/sUtram/ApastambaH/shrautam/mantraH/yajuH/vRShTirasi.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 - पानत्रयम्
