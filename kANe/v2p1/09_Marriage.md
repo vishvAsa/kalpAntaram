@@ -382,15 +382,7 @@ the founder of the Kadamba family was Mayūrasarman, a brāhmaṇa, who being ex
 
 Classical Sanskrit Literature also yields certain well known instances of inter-caste marriages. The Malavikāgnimitrs of Kalidasa shows that Agnimitra, a son of Senapati Puṣya. mitra of the Sunga dynasty and a brāhmaṇa, married Malavika who was a kṣatriya princess. In the Harsacarita of Bāpa (Ucchvāsa I towards end) we are told by Bāṇa himself that among the friends and companions of his wanderings there were bis two pāraśava brothers Candrasena and Mātrṣeṇa (i.e. step-brothers froin a sūdra wife of his father). Rajasekhara, teacher of king Mahendrapala of Kanoj, says in his Karpūra mañjarl( I. 11 ) that his accomplished wife Avantisundarl was descended from the Cahuāṇa (modern Chavan) family (i. e. from a kṣatriya family ). 
 
-It is extremely diffioult to say when exactly inter-caste marriages even between dvijatis came to be prohibited by the 
-
-Oh. IX) 
-
-Interacaste marriages 
-
-451 
-
-smrtis and writers of digests. Viśvarūpa 5066 on Yāj. III. 283 ( not later than first half of 9th century ) olearly suggests that in his day a brahmana could marry a kṣatriya girl. Medha. tithi on Manu III. 14 suggests that about 900 A. D. at the latest marriages of brahmaṇas with kṣatriya and raisya girls took place rarely in his day, but not with sūdra women; and the Mito on Yaj. does not at all say that though marriages among dvijātis (anuloma ones) were allowed by Manu and Yaj, they had entirely ceased to be regarded as valid by its time. Many of the medieval digests and writers like the Sm. O. and Hemādri quote verses stated to be from the Aditya-purāṇa or Brahma-purāṇa on matters forbidden in the Kali age ( and so called Kalivariya) among which inter-caste marriages are inoluded. 
+It is extremely diffioult to say when exactly inter-caste marriages even between dvijatis came to be prohibited by the [[451]] smrtis and writers of digests. Viśvarūpa 5066 on Yāj. III. 283 ( not later than first half of 9th century ) olearly suggests that in his day a brahmana could marry a kṣatriya girl. Medha. tithi on Manu III. 14 suggests that about 900 A. D. at the latest marriages of brahmaṇas with kṣatriya and vaisya girls took place rarely in his day, but not with sūdra women; and the Mito on Yaj. does not at all say that though marriages among dvijātis (anuloma ones) were allowed by Manu and Yaj, they had entirely ceased to be regarded as valid by its time. Many of the medieval digests and writers like the Sm. O. and Hemādri quote verses stated to be from the Aditya-purāṇa or Brahma-purāṇa on matters forbidden in the Kali age ( and so called Kalivariya) among which inter-caste marriages are inoluded. 
 
 The Āpagtambalo17 smrti (in verse ed. by Jivananda 1, p. 549, chap. IX) says that by marrying a girl of another caste a man incurred the sin of mahāpātaka and had to undergo the penance of 24 kṛoohras. The Mārkandeya-purāṇa (113. 34-36 ) narrates the story of king Nābhāga who married a vaisya girl by the rākṣaga form of marriage and who consequently incurred sin. 
 
