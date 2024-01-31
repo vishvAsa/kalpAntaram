@@ -6,7 +6,7 @@ title = "+सर्व-प्रस्तुतिः"
 
 Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/n2/mode/1up)
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 श्रीः ॥
 
@@ -46,7 +46,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 येषामाचरणेन कीर्तिरतुला भूयस्सुखं चैहिकं
 नारीणां गतिरुत्तमा च भवति ज्ञातुं पुनः कृत्स्नशः ।  
@@ -74,7 +74,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 ## आचारः
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तत्र, 'शौचाचारविहीनस्य समस्ता निष्फलाः क्रियाः । '
 इति वचनात् इतरधर्मसाफल्यसिध्यर्थं शौचाचारस्यावश्यकत्वमिति
@@ -93,7 +93,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तत्र पुरुषाणामामौञ्जीबन्धनात् शास्त्रेण नियमाः न विधीयन्ते
 मौञ्जीबन्धनप्रभृत्येव नियमाः ॥
@@ -134,7 +134,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तत्र पुरुषस्योक्ताः सामान्यधर्माः स्त्रीणामपि साधारणा एव । तत्र तत्र सामान्यधर्मान् सिद्धवत्कृत्य,
 
@@ -166,7 +166,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रबुद्धय च देवताध्यानं कर्तव्यम् । तथा च स्मृत्यन्तरे षोढा विभज्य रजनीं चरमांशे प्रबोधितः । पत्न्या सह हरिं ध्यात्वा धर्ममर्थं च चिन्तयेदिति ॥ ७ ॥
 
@@ -210,7 +210,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अपररात्रे धान्यसंस्कारादि कर्तव्यम् । तथा च मार्कण्डेय-
 
@@ -255,7 +255,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न वोऽस्ति कुत्सितं किञ्चिदङ्गेष्वालक्ष्यते मया ॥
 
@@ -297,7 +297,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अशून्या देहली कार्या प्रातःकाले विशेषतः ।  
 यस्याः शून्या भवेत्सा तु शून्यं तस्याः कुलं भवेत् ॥ १९ ॥
@@ -340,7 +340,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथाचानुशासनिके शाण्डिलिं प्रति सुमनाः
 कुठुम्बार्थे समानीतं यत्किञ्चित्कार्यमेव तु ।  
@@ -390,7 +390,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 रात्रौ मूत्रपुरिपे तु गृहाभ्याशे समाचरे'दिति स्मरणात् ॥
 
@@ -440,7 +440,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अनन्तरं गन्धलेपक्षयकरं शौचं कुर्यात् ॥
 
@@ -486,7 +486,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथैवाहुतयस्सर्वाश्शौचार्थे याश्च मृत्तिकाः इति ॥ ३४ ॥
 
@@ -540,7 +540,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शौचानन्तरमाचमनमाह -
 
@@ -586,7 +586,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 याज्ञवल्क्यःहृत्कण्ठतालुगाभिश्च यथासङ्ख्यं द्विजातयः । शुद्धयेरंस्त्री च शूद्रश्च सकृत्स्पृष्ट्वाऽद्भिरन्ततः ॥
 
@@ -621,7 +621,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अनेन वचनेन उपवासे पुरुषाणामिव दन्तधावननिषेधे प्राप्ते
 स्त्रीणां विशेषमाह – मनुः ॥
@@ -674,7 +674,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मातरः सर्वभूतानां गावः सर्वसुखप्रदाः ।  
 वृद्धिमाकाङ्क्षता नित्यं गावः कार्याः प्रदक्षिणाः ॥ ५० ॥
@@ -713,7 +713,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रेरयन् कूपवापीषु वृक्षभेदेषु पातयन् ।  
 गवाशनेषु विक्रीणन् ततः प्राप्नोति गोवधम् ॥ ५६ ॥
@@ -752,7 +752,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवं रात्रौ दिवा चापि समेषु विषमेषु च । महाभयेषु च नरः कीर्तयन्मुच्यते भयात् ॥
 
@@ -794,7 +794,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मन्त्रवत्प्रोक्षणं चापि द्विजातीनां विशिष्यते इति ॥ ६५ ॥
 
@@ -838,7 +838,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ततो वस्त्रधारणम् । तत्र मत्स्यपुराणे
 
@@ -884,7 +884,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भोजनं वमनं निद्रां परिधानं च वाससाम् । प्रारम्भं मण्डनानां च न कुर्यात्पश्यति प्रिये इति ॥ ७३ ॥
 
@@ -914,7 +914,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 विधवाया लक्षणम् । तिलकादिमत्त्वं सुवासिनीनां लक्षणमिति सूचितम् ।  
 
@@ -951,7 +951,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च कात्यायनः -
 
@@ -990,7 +990,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च याज्ञवल्क्यः -
 
@@ -1034,7 +1034,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रतिदिनमेका शुश्रूषादि कर्तुमशक्ता चेत् तदा दिनक्रमेण यथाज्यैष्ठ्यं शुश्रूषां कुर्यात् । एकस्मिन् दिने यद्येका कृत्स्नं कर्तुमशक्ता तदा सर्वास्तत् कर्म यथाज्ञानं विभज्य कुर्युः ।  
 
@@ -1080,7 +1080,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 बोधायनस्तु उद्धरणानन्तरमेवोपवेशनमाह --
 
@@ -1124,7 +1124,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यस्येष्टिधर्मेप्चधिकारिताऽस्ति वरं गृहं गृहधर्माच सर्वे ।  
 एवं गृहस्थाश्रमसंस्थितस्य तिर्थे गतिः पूर्वतरैर्निषिद्धा" इति
@@ -1160,7 +1160,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तीथें फलं यज्ञफलं हि यस्मात् प्रोक्तं मुनीन्द्रैरमलस्वभावैः इति ॥
 
@@ -1196,7 +1196,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 व्यासोऽपि
 
@@ -1248,7 +1248,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च व्यासः -
 
@@ -1292,7 +1292,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च विज्ञानेश्वरः -
 
@@ -1335,7 +1335,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 जानातु कृष्णस्तव भावमेतं सर्वात्मना मां भजतीति सत्ये ॥
 
@@ -1397,7 +1397,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च मनुः
 
@@ -1439,7 +1439,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च रामामणे-
 
@@ -1490,7 +1490,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मन्ये तु तेषां रथसत्तमानां कालोऽभितः प्राप्तुमिहोपयातुम् ।  
 सम्मानिता यास्यथ तैर्यथेष्टं विमुच्य वाहानवरोहयध्वम् ॥
@@ -1535,7 +1535,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भर्त्रा क्रियमाणदेवपूजायां तदुपयुक्तमुपकरणादिकं अनुक्त्वा
 स्वममेव सर्वं साधनीयम् ॥
@@ -1585,7 +1585,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 व्यासोऽपि -
 
@@ -1637,7 +1637,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 रुदकं तृणानि कल्याणी वागित्येतानि वै सतोऽगारे न क्षीयन्ते
 कदाचनेत्येवंवृत्तावनन्तलोकौ भवत इति ॥
@@ -1686,7 +1686,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आशाप्रतीक्षे सङ्गतं सूनृतां चेष्टापूर्ते पुत्रपशूञ्च सर्वान् ।  
 एतद्भुङ्क्ते पुरुषस्याल्पमेधसो यस्यानश्नन् वसति ब्राह्मणोगृह इति ॥
@@ -1728,7 +1728,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 हुताग्निहोत्रः कृतवैश्वदेवः पूज्यातिथीन् भृत्यजनावशिष्टम् ।  
 तुष्टश्शुचिः श्रद्दधदत्ति यो मां तस्यामृतं स्यां स च मां भुनक्ति ॥
@@ -1764,7 +1764,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रशंसा यत्संसाधयति ते विष्णुक्रमाः यदुपावर्तते सोऽवभृथ इति
 हि ब्राह्मणमिति ॥
@@ -1796,7 +1796,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न चातिथिं पूजयति वृथा से पठति द्विजः ॥
 
@@ -1842,7 +1842,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अरण्यके पर्वणि तार्क्ष्यसरस्वतीसंवादेयो
 दत्वाऽतिथिपूज्येभ्यः पितृभ्यश्च द्विजोत्तमः ।  
@@ -1880,7 +1880,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 उपस्थितं गृहे विद्याद्भार्या यत्नाग्नयोऽपि वा इति मनुवचनेन
 अतिथिभोजनस्य गृहे भार्यासत्वे नियतत्वप्रतिपादनादिति ॥
@@ -1923,7 +1923,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 वनपर्वणि जयद्रथं प्रति द्रौपद्यपि-
 
@@ -1968,7 +1968,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च व्यासः-
 
@@ -2009,7 +2009,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अन्तवर्त्नीग्रहणं सर्वपूर्वार्धम् । काले वैश्वदेवकाले तदन्ते अन्नार्थिनमुपस्थितं स्वामिनौ गृहपती न प्रत्याचक्षीयाताम् । अवश्यं तस्मै किञ्चिद्देयमिति । काले भोजनदायिनीति भारतवचनात् । बालवृद्धातुरादीनां सर्वेषां यस्मिन्काले यस्यापेक्षितं तदा तस्मै देयमिति ॥
 
@@ -2049,7 +2049,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 वनपर्वणि द्रौपद्याः परीवेषणमुक्तं-
 
@@ -2102,7 +2102,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 परिवेषणसमये अन्नादिकं हस्तेन न परिवेषणीयम् ॥
 
@@ -2149,7 +2149,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भिक्षा च हस्तदत्ता तु न ग्राह्या यत्र कुत्रचित् ॥
 
@@ -2206,7 +2206,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 परिवेषणसमये एकपङ्क्त्युपविष्टानां स्नेहादिना विषमपरिवेषणं न कर्तव्यम् । तथा च वसिष्ठःपङ्क्तौ[??] विषमं ददाति स्नेहाद्भयाद्वा यदि वाऽर्थहेतोः । तां ब्रह्महत्यां मुनयो वदन्ति ॥
 
@@ -2244,7 +2244,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भर्तुर्भोजनानन्तरमेव स्त्रिया भोजनमाह व्यासःदेवतातिथिभृत्यानां निर्वाप्य पतिना सह । शेषान्नमुपभुञ्जाना यथान्यायं यथाविधि ॥
 
@@ -2282,7 +2282,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 या भर्तारं परित्यज्य मृष्टमश्नाति केवलम् ।  
 ग्रामे सा सूकरी भूया द्वल्गुली वा स्वविट्भुजा ॥
@@ -2323,7 +2323,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 लेपान् सङ्कृष्याद्भिंस्संसृज्योत्तरतः शुचौ देशे रुद्राय निनये देवं
 वास्तु शुभं भवति ॥
@@ -2364,7 +2364,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भाण्डप्रक्षाळनसामग्रीसम्पादनादिकं सन्ध्याकालात् पूर्वमेव कर्तव्यम् ।  
 व्रीह्मवहननं तु सन्ध्याकाले न कर्तत्र्यम् ॥
@@ -2412,7 +2412,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 हुताग्निर्वन्दितगुरुः कृतातिथ्यश्च शक्तितः । वैश्वदेववलिं चापि कृत्वाऽश्रीयाद्यथा दिवा ॥
 
@@ -2454,7 +2454,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तदेवाष्टगुणं पुंसां सूर्योढे विमुखे गते ॥
 
@@ -2501,7 +2501,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 बोधायनपरिभाषायाम् –
 
@@ -2551,7 +2551,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ननु स्वभावतो दुष्टानां स्त्रीणां निरूपितधर्मश्रवणे च कथं
 प्रवृत्तिः ? स्त्रीणां स्वाभाविका दोषाश्च बहुलमवगम्यन्ते ॥
@@ -2594,7 +2594,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 रामायणेऽपि
 
@@ -2639,7 +2639,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पितुर्मातुस्तथा पत्युरिहामुत्र च दुःखदाः ॥
 
@@ -2680,7 +2680,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तद्धिता समवाप्नोति तत्सालोक्यं यतो द्विजाः ॥
 
@@ -2721,7 +2721,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न नाभिं दर्शयेदागुल्फाद्वासः परिदध्या न्न स्तनौ विवृतौ कुर्यान्न
 हसेदपावृतं भर्तारं तद्बन्धून् वा न द्विष्यान्न गणिका धूर्ताभिसारिणी-
@@ -2766,7 +2766,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मार्कण्डेयः– मार्जनीं चुल्लिकां काष्ठं दृषदश्मोपलाांस्तथा ।  
 नाक्रमेदङ्घ्रिणा जातु पुत्रदारधनक्षयात् ॥
@@ -2805,7 +2805,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अनलङ्कृतमात्मानं तव नो दर्शयेत् क्वचित् । कार्यार्थं प्रोषिते क्वापि सर्वमण्डनवर्जिता ॥
 
@@ -2845,7 +2845,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 महान् प्रसाद इत्युक्त्वा पतिदत्तं प्रतीच्छति ॥
 
@@ -2884,7 +2884,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नोलूखले न मुसले न वर्धन्यां दृषद्यपि ।  
 न यन्त्रके न देहल्यां सती चोपविशेत्क्वचित् ॥
@@ -2926,7 +2926,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्त्रीणां परपुरुषभाषणवीक्षणप्रतिषेधात् स्पर्शोऽपि अर्थात्
 प्रतिषिद्ध्यते ॥
@@ -2966,7 +2966,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च रामायणे-
 
@@ -3009,7 +3009,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सुरूपं तरुणं रम्यं कामिनीनां च वल्लभम् ॥
 
@@ -3055,7 +3055,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 विधितं तु ममाप्येतत् यथा नार्याः पतिर्गुरुः ।  
 यद्यप्येष भवेद्भर्ता ममार्ये वृत्तवर्जितः ॥
@@ -3099,7 +3099,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पत्या विरहः = पतिगृहात् गृहान्तरशयनम्, स्वनः = दिवास्वापः ॥
 
@@ -3146,7 +3146,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इति स्मृतेः, तस्मात् स्त्रियो निरिन्द्रिया अदायादीरिति श्रुतेश्व
 स्त्रियाः धनस्वामित्वं तस्य धनस्य स्वातन्त्र्येण विनियोजकत्वं च
@@ -3197,7 +3197,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवं न्यायप्राप्तं स्त्रीधनं भर्त्रा न ग्राह्यम् ॥
 
@@ -3248,7 +3248,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्त्रिया धनस्वत्वाभाववचनं तु भर्तृकुले साधारणद्रव्यपरं,
 भर्तृद्रव्यपरं च । तथा स एवाह-
@@ -3292,7 +3292,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ग्रय[??]ध्यावहनिकमिति षड्विधं धनं तत्र स्वातन्त्र्यात् तद्दाने अधिकारः
 अस्त्येव ॥
@@ -3337,7 +3337,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आज्ञाभावे याज्ञवल्क्यः-
 
@@ -3380,7 +3380,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तदनुज्ञां विना धनव्यये नाधिकारः । अनीशास्ते हि जीवतोरि -
 
@@ -3412,7 +3412,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भर्तृसाधारणद्रव्यापेक्षया वैलक्षण्यं न स्यात् । भर्तुराज्ञया दानस्य
 उभयत्राविशेषादिति चेन्न । आज्ञाग्रहणस्य तुल्यत्वेऽपि भर्तृसाधारणं
@@ -3454,7 +3454,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यत्तु कौसल्यया पारितोषिकदानं कृतम् तदपि,
 सततं प्रियकामा मे प्रियपुत्रा प्रियंवदा ।  
@@ -3490,7 +3490,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इत्यादिना कौसल्यया पतिव्रताधर्मोपदेशात्, पारितोषिकदानावसरे
 प्रमदोत्तमेति विशेषणस्वारस्याच्च पतिव्रतानामग्रगण्यत्वावगमेन
@@ -3526,7 +3526,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्त्रीयद्रव्यस्य दानभोगादिषु स्वातन्त्रयेऽपि भर्त्रनुमत्या दानं कर्तव्यम्,
 भर्त्राऽप्यनुमतिः कर्तव्या ॥
@@ -3570,7 +3570,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रयच्छतु सखे तुभ्यं भार्यायै गच्छती वनम् ।  
 पर्यङ्कमग्रयास्तरणं नानारत्नविभूषितम् ॥
@@ -3612,7 +3612,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्यनुज्ञातं द्रव्यं स्वबन्धुभ्यो दानप्रसक्तौ तद्विषये आज्ञान्तरं
 गृहीत्वैव दातव्यम् ॥
@@ -3656,7 +3656,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 या भर्तारं परित्यज्य मृष्टमश्नाति केवलम् ।  
 ग्रामे सा सूकरी भूयात् वल्गुनी वा स्वविट्भुजा ॥
@@ -3692,7 +3692,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 वाग्दूषिण्यश्च जिह्वासु श्वश्रूश्च श्वशुरान् गुरून् ।  
 पापकर्मरता नित्यं सदाचारविवर्जिताः ॥
@@ -3734,7 +3734,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 कथयामासतुश्चित्रां कथां कुरुयदूत्थिताम् । अथाब्रवीत् सत्यभामा कुष्णस्य महिषी प्रिया ॥
 
@@ -3773,7 +3773,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 असदाचरिते मार्गे कथं स्यादनुकीर्तनम् ॥
 
@@ -3809,7 +3809,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पापानुगास्तु पापास्ताः पतीनुपसृजन्त्युत ।  
 न जातु विप्रियं भर्तुः स्त्रिया कार्यं कथञ्चन ॥
@@ -3841,7 +3841,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नाभुक्तवति नास्नाते नासंविष्टे च भर्तरि । न संविशामि नाश्नामि सदा कर्मकरेष्वपि । क्षेत्राद्वनाद्वा ग्रामाद्वा भर्तारं गृहमागतम् । अभ्युत्थायाभिनन्दामि आसनेनोदकेन च ॥
 
@@ -3863,7 +3863,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यदा प्रवसते भर्ता कुटुम्बार्थेन केनचित् ॥
 
@@ -3889,7 +3889,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स देवस्सा गतिर्नान्या तस्य का विप्रियं चरेत् ॥
 
@@ -3917,7 +3917,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 क्रियते रुक्मपात्रीभिर्यतीनामूर्ध्वरेतसाम् ॥
 
@@ -3956,7 +3956,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आगोपालाविपालेभ्यः सर्वं वेद कृताकृतम् ॥
 
@@ -3976,7 +3976,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सुखं सर्वं परित्यज्य रात्र्यहानि घटामि वै ॥
 
@@ -4001,7 +4001,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 वैशम्पायन उवाच
 
@@ -4045,7 +4045,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सुखं सुखेनेह न जातु लभ्यं दुःखेन साध्वी लभते सुखानि ।  
 सा कृष्णमाराधय सौहृदेन प्रेम्णा च नित्यं प्रतिकर्मणा च ॥
@@ -4073,7 +4073,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मदं प्रमादं पुरुषेषु हित्वा संयच्छ भावं प्रतिगृह्य मौनम् । प्रद्युम्नसाम्बावपि ते कुमारौ नोपासितव्यौ रहिते कदाचित् ॥
 
@@ -4109,7 +4109,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रत्युत्तरं तु न ब्रूयाः पत्यौ क्रुद्धे कदाचन ॥
 
@@ -4146,7 +4146,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 परुपाण्यपि चोक्ता या दृष्टा दुष्टेन चक्षुषा । सुप्रसन्नमुखी भर्तुः या नारी सा पतिव्रता ॥
 
@@ -4184,7 +4184,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मातापितृपरा नित्यं या नारी सा तपोधना ॥
 
@@ -4236,7 +4236,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आनुशासनिकेऽपि -
 
@@ -4274,7 +4274,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पैशुन्ये न प्रवर्तामि न ममैतन्मनोगतम् । पुनर्द्वारि न तिष्टामि चिरं न कथयामि च ॥
 
@@ -4311,7 +4311,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अरुन्धतीव नारीणां स्वर्गलोके महीयते ॥
 
@@ -4353,7 +4353,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ब्राह्मणं च
 
@@ -4383,7 +4383,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आर्तवाभिप्लुता, स्नाना ज्जातस्तु स मरिष्यति ॥
 
@@ -4433,7 +4433,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सा चेत् कुर्यान्निषिद्धानि गर्भो दोषांस्तदाऽऽप्नुयात् ।  
 एतस्या रोदनाद्गर्भो भवेद्विकृतलोचनः ॥
@@ -4476,7 +4476,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न वस्त्रपीडनं कुर्यान्नान्यद्वासश्च धारयेत् ॥
 
@@ -4522,7 +4522,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 रोगजन्यरजोऽनुवृत्तौ तु नास्त्यशुद्धिः ॥
 
@@ -4570,7 +4570,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 विज्ञानेश्वरः -
 
@@ -4619,7 +4619,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अङ्गिराः– शुद्धा भर्तुचतुर्थेऽह्नि स्नाता नारी रजस्वला ।  
 दैवे कर्मणि पित्रये च पञ्चमेहनि शुद्ध्यति ॥
@@ -4676,7 +4676,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सङ्गवात् परतः स्नान मार्तवे तु विशिष्यते ॥
 
@@ -4723,7 +4723,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अत्र स्नानप्रकारमाह -
 
@@ -4761,7 +4761,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्पर्शे तु एकरात्रोपवासेन पञ्चगव्येन च शुद्धिः, स्नानपर्यन्तमाहार-
 
@@ -4806,7 +4806,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शेषान्यह्नान्युपवसेत् स्नात्वा शुद्धयेद्धुताशनात् ॥
 
@@ -4846,7 +4846,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्मरन्ती पतिपादाब्जं स्वपादाङ्गुष्ठवीक्षणा ।  
 इतरांस्तु न पश्यन्ती स्मरन्ती पतिमेव सा ॥
@@ -4891,7 +4891,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ः-
 
@@ -4906,7 +4906,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ब्रह्माण्डपुराणे व्यासः-
 
@@ -4953,7 +4953,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अमुतः पतिगृहान्न मुञ्चामि । इमां सुबद्धां अमुतस्करं अमुतः
 पतिकुले करं करोमि ॥
@@ -4995,7 +4995,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यजामहे सुगन्धिं पतिवेदनम् । उर्वारुकमिव बन्धनादितो मुक्षीयेति
 ज्ञातीनभिसमकल्पयेत मामुत इतीष्टमभिनिर्दिशेदमुष्य गृहादिति ॥
@@ -5036,7 +5036,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अयमर्थः काळिदासेनाभ्युक्तः -
 
@@ -5070,7 +5070,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रेषणसमये सन्तुष्टा प्रेषणीया । असत्यवचनमपि ऋषीणामनुचितम् ।  
 अतो व्यङ्ग्यमर्यादया पुनरागमननिषेधमेव वक्तुं वाचनिकवृत्या
@@ -5107,7 +5107,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ऋतुस्नाता तु या नारी पतिं नैवोपसर्पति ।  
 शुनी वृकी सृगाली स्यात् सूकरी च पुनः पुनः ॥
@@ -5152,7 +5152,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न शयीतोत्तरशिराः न चैवाधरिशराः क्वचित् । न वस्त्रहीना नोद्विग्ना न चार्द्रचरणा तथा । नामङ्गळ्यं वदेद्वाक्यं न च हास्याधिका भवेत् । कुर्याच्छ्वशुरयोर्नित्यं पूजां मङ्गळतत्परा ॥
 
@@ -5180,7 +5180,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 व्यायाम शीघ्रगमनं शकटारोहणं त्यजेत् ॥
 
@@ -5218,7 +5218,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अङ्गारभृत्या न नखैर्लिखेत् क्ष्मां कलिं वपुर्भङ्गमथो न कुर्यात् ॥
 
@@ -5258,7 +5258,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तक्षणं च दिवास्त्रापं रात्रौ जागरणं तथा ॥
 
@@ -5315,7 +5315,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 गर्गः– अथातस्सम्प्रवक्ष्यामि सूतिकागारवेशनम् ।  
 मासे तु नवमे प्राप्ते पूर्वे पक्षे शुभे दिने ॥
@@ -5360,7 +5360,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 हस्तस्थपुन्नामफलां स्वक्तामुष्णाम्बुसेविताम् ॥
 
@@ -5409,7 +5409,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ननु अत्र स्त्रीणां भर्त्रा सहगमनं धर्म्यमित्युक्तमसङ्गतम्
 आत्महत्यारूपत्वेन निषिद्धत्वात् ॥
@@ -5450,7 +5450,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सामान्यवचनस्य 'अग्नीषोमीयं पशुमालभेते' ति विशेषश्रुत्या बाधः,
 एवं सहगमनवचनैः सामान्यात्महत्या निषेधवचनस्य बाधः ॥
@@ -5491,7 +5491,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आपतन्तीं समालोक्य वयं दूताः पतिव्रताम् ॥
 
@@ -5538,7 +5538,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तिष्ठते विवशो दीनो वेपमानः स्वकर्मभिः ।  
 ब्रह्मघ्नो वा कृतघ्नो वा मित्रघ्नो वा भवेत् पतिः ॥
@@ -5578,7 +5578,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 कलियुगे तु– कलौ युगे त्विमान् धर्मान् वर्ज्यानाहुर्मनीषिणः ।  
 प्रायश्चित्तविधानं च विप्राणां मरणान्तिकम् ॥
@@ -5608,7 +5608,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवं भगवता रामेणापि कैकेय्याः प्रतिकूलाचरणस्य प्रायश्चित्तं नास्तीत्यभिप्रेत्यैव,
 
@@ -5639,7 +5639,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सा तप्ततैलनरकं भुक्त्वाऽथ विधवा भवेत् ॥
 
@@ -5683,7 +5683,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सा सप्तजन्मकं यावन्नारकी स्यान्न संशयः ॥
 
@@ -5717,7 +5717,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मृतानुगमनं नास्ति ब्राह्मण्या ब्रह्मशासनात् ।  
 इतरेषां तु वर्णानां धर्मोऽयं परमः स्मृतः ॥
@@ -5749,7 +5749,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ः -
 
@@ -5768,7 +5768,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इति चेत् एतेषामनुगमननिषेधवचनानां ब्राह्मण्याः पृथक्चित्यारोहणपरत्वात् ॥
 
@@ -5808,7 +5808,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तस्याः पिता च माता च भ्रातृवर्गस्तथैव च ॥
 
@@ -5859,7 +5859,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तर्पणं प्रत्यहं कार्यं भर्तुः कुशतिलोदकैः ।  
 तत्पितुस्तत्पितुश्चापि नामगोत्रादिपूर्वकम् ॥
@@ -5901,7 +5901,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अत्र नामापि न गृह्णीयादित्युक्त्या स्त्रीणां परपुरुषस्पर्शादिकमपि वर्जनीयम् ॥
 
@@ -5941,7 +5941,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शिरसो वपनं तस्मात् कार्यं विधवया सदा ॥
 
@@ -5989,7 +5989,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 व्यभिचारात्तु भर्तुः स्त्री लोके प्राप्नोति निन्द्यताम् । सृगालयोनिं चाप्नोति पापरोगैश्च पीड्यते ॥
 
@@ -6021,7 +6021,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 औरसो धर्मपत्नीजः तत्समः पुत्रिकासुतः ।  
 क्षेत्रजः क्षेत्रजातस्तु सगोत्रेणेतरेण वा ॥
@@ -6049,7 +6049,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अत एव स्त्रीभिः क्षेत्रजाः पुत्राः सम्पादिता इति प्रतिपादितम्, आदिपर्वणि
 
@@ -6080,7 +6080,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पुत्रवत्वसम्भवात् । न च, न स्त्री पुत्रं दद्यात् प्रतिगृह्णीयाद्वा'
 इति निषेधः । निषेधस्य मरणकाले पत्यभ्यनुज्ञाभावविषयत्वात् ॥
@@ -6122,7 +6122,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मृते भर्तरि साध्वी स्त्री ब्रह्मचर्यव्रते स्थिता ।  
 स्वर्ग गच्छत्यपुत्राऽपि यथा ते ब्रह्मचारिणः ॥
@@ -6165,7 +6165,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च व्यासः-
 
@@ -6211,7 +6211,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्त्रीणां प्रायश्चित्ते कर्मणि वपनप्रसक्तौ विशेषमाह -
 
@@ -6249,7 +6249,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नदीषु सङ्गमे चैव अरण्येषु विशेषतः ।  
 न स्त्रीणामजिनं वासो व्रतमेव समाचरेत् ॥
@@ -6284,7 +6284,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शास्त्रतःप्रसक्तमजिनवासस्त्वं निषिद्ध्यते । व्रतमेवेत्येवकारेण
 यथोक्ताङ्गानुवृत्तिरेवानूद्यते ॥
@@ -6321,7 +6321,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भार्यैवान्वेति भर्तारं सततं या पतिव्रता ।  
 प्रथमं संस्थिता भार्या पतिं प्रेतं प्रतीक्षते ॥
@@ -6365,7 +6365,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्राणानामविगणनया कर्तव्यमित्येतच्च अस्मदीयरामायणधर्माकूते-
 
@@ -6409,7 +6409,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 युधिष्ठिरः-
 
@@ -6459,7 +6459,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इममर्थं पुरा पार्थ मुचुकुन्दो धराधिपः ।  
 भार्गवं परिपप्रच्छ प्रणतः पुरुषर्षभ ॥
@@ -6501,7 +6501,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवं तु वर्तमानस्य तस्य वृत्तिं दुरात्मनः ।  
 अगमत् सुमहान् कालो नैप धर्ममबुद्ध्यत ॥
@@ -6544,7 +6544,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पक्षिणो वर्षवेगेन न शाखा नापि पादपान् ।  
 मृगास्सिंहा वराहाश्च ये चान्ये तत्र वर्तिनः ॥
@@ -6585,7 +6585,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स शिलायां शिरः कृत्वा पर्णान्यास्तीर्य भूतले ।  
 दुःखेन महताऽऽविष्टः ततस्सुष्वाप पक्षिहा ॥
@@ -6637,7 +6637,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पतिधर्मपरा साध्वी प्राणेभ्योऽपि गरीयसी ।  
 सा हि श्रान्तं क्षुधाऽऽर्तं च जानीते मां तपस्विनी ॥
@@ -6671,7 +6671,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इति सञ्चिन्त्य दुःखार्ता भर्तारं दुःखितं तदा ।  
 कपोती लुब्धकेनाथ हता वचनमब्रवीत् ॥
@@ -6713,7 +6713,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स त्वं सन्तानवानद्य पुत्रवानपि च द्विज ।  
 त्वं स्वदेहे दयां त्यक्त्वा धर्मार्थौ परिगृह्य वै ॥
@@ -6764,7 +6764,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शरणागतस्य कर्तव्य मातिथ्यमिह यत्नतः ।  
 पञ्चयज्ञप्रवृत्तेन गृहस्थेन विशेषतः ॥
@@ -6804,7 +6804,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स तथोक्तस्तथेत्युक्त्वा लुब्धो गात्राण्यतापयत् ।  
 सोऽग्नेः प्रत्यागतप्राणः ततः प्राह विहङ्गमम् ॥
@@ -6841,7 +6841,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 देवतानां पितॄणां च ऋषीणां च महात्मनाम् । श्रुतः पूर्वं मया धर्मो महानतिथिपूजने ॥
 
@@ -6871,7 +6871,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 कपोतमग्नौ पतितं वाक्यं पुनरुवाच ह ॥
 
@@ -6915,7 +6915,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवमुक्त्वा विनिश्चित्य रौद्रकर्मा स लुब्धकः ।  
 महाप्रस्थानमाश्रित्य प्रययौ संशितव्रतः ॥
@@ -6959,7 +6959,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अन्तरेषु च शैलानां नदीनां निर्झरेषु च ।
 द्रुमाग्रेषु च रम्येषु रमिताऽहं त्वया प्रिय ॥
@@ -6998,7 +6998,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भस्मीभवतु सा नारी यस्यां भर्ता न तुष्यति ।  
 किं कार्यमिह मे नाथ जीवितेन त्वया विना ॥
@@ -7033,7 +7033,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भीष्मः-
 
@@ -7082,7 +7082,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 बभ्राम तस्मिन् विजने नानाद्रुमलताकुले ।  
 ततो द्रुमाणां पततां पवनेन वने तदा ॥
@@ -7121,7 +7121,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 याऽन्या चैवंविधा नारी भर्तारमनुवर्तते ।  
 विराजते च सा क्षिप्रं कपोतीव दिवि स्थिता ॥
@@ -7172,7 +7172,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 समर्पयस्व मे दासी महं क्रेता धनप्रदः ।  
 अनुरूपमिदं वित्तं गृहाणार्पय मेऽबलाम् ॥
@@ -7208,7 +7208,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ब्राह्मण उवाच-
 
@@ -7249,7 +7249,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तपस्वी कर्मशीलश्च कौशिको नाम भारत ॥
 
@@ -7285,7 +7285,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 देहीति याचमानोऽसौ तिष्ठेत्युक्तः स्त्रिया ततः ।  
 शौचं तु यावत् कुरुते भाजनस्य कुटुम्बिनी ॥
@@ -7323,7 +7323,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 देवतातिथिभृत्यानां श्वश्रूश्वशुरयोस्तथा ।  
 शुश्रूषणपरा नित्यं सततं संयतेन्द्रिया ॥
@@ -7368,7 +7368,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ब्राह्मण उवाचब्राह्मणा न गरीयांसो गरीयांस्ते पतिः कृतः । गृहस्थधर्मे वर्तन्ती ब्राह्मणानवमन्यसे ॥
 
@@ -7409,7 +7409,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथैव दीप्ततपसां मुनीनां भावितात्मनाम् ।  
 येषां क्रोधाग्नि रद्यापि दण्डके नोपशाम्यति ॥
@@ -7455,7 +7455,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यो वदेदिह सत्यानि गुरुं सन्तोषयेत च ।  
 हिंसितश्च न हिंसेत तं देवा ब्राह्मणं विदुः ॥
@@ -7496,7 +7496,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सत्यार्जवे धर्ममाहुः परं धर्मविदो जनाः ।  
 दुर्ज्ञेयः शाश्वतो धर्मः सत्यं सत्ये प्रतिष्ठितः ॥
@@ -7542,7 +7542,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ब्राह्मण उवाच-
 
@@ -7589,7 +7589,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 जडं वा बधिरं पङ्गुं काणमन्धं कुणिं तथा ।  
 कुष्ठिनं च कृशं वाऽन्यं प्रियं वाऽप्रियमेव वा ॥
@@ -7622,7 +7622,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एष धर्मः पुरा दृष्टो लोके वेदे श्रुतः स्मृतः ॥
 
@@ -7674,7 +7674,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अत्रिः-
 
@@ -7719,7 +7719,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मनुःजपस्तपस्तीर्थयात्रा प्रव्रज्या मन्त्रसाधनम् । देवताराधनं चैत्र स्त्रीशूद्रपतनानि पट् ॥
 
@@ -7753,7 +7753,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तां यमो लोकपालस्तु बभाषे पुष्कलं वचः ।  
 मा शुचस्त्वं निवर्तस्व न लोकास्सन्ति तेऽनघे ॥
@@ -7786,7 +7786,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भर्त्रनुज्ञया धर्मान्तरमपि कर्तुं शक्यम् । तथा च शङ्खलिखितौ-
 
@@ -7841,7 +7841,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मनुः-
 
@@ -7897,7 +7897,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अन्यशुक्रादपि पृथे मनुः स्वायम्भुवोऽब्रवीत् ॥
 
@@ -7939,7 +7939,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अनावृताः खलु पुरा स्त्रिय आसन् वरानने ।  
 कामचारविहारिण्यः स्वतन्त्राचारुलोचने ॥
@@ -7986,7 +7986,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ऋषिपुत्रस्तु तं धर्मं श्वेतकेतुर्न चक्षमे ।
 चकार चैव मर्यादा मिमां स्त्रीपुंसयोर्भुवि ॥
@@ -8034,7 +8034,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अस्माकमपि ते जन्म विधितं कमलेक्षणे ।  
 कृष्णद्वैपायनाद्भीरु कुरुवंशविवृद्धये ॥
@@ -8080,7 +8080,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 उद्दालकः श्वेतकेतुं जनयामास शिष्यतः ॥
 
@@ -8124,7 +8124,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 भीष्म उवाच-
 
@@ -8176,7 +8176,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 दुर्योधनो नाम महान् राजा राजर्पिसत्तमः ।  
 तस्येन्द्रसमवीर्यस्य सङ्ग्रामेष्वनिवर्तिनः ॥
@@ -8222,7 +8222,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तादृग्रूपा न नारीपु भूतपूर्वा युधिष्ठिर ।  
 दुर्योधनसुता यादृगभवद्वरवर्णिनी ॥
@@ -8256,7 +8256,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तान् दर्शयामास तदा भगवान् हव्यवाहनः । स्वरूपं दीप्तिमत्कृत्वा शरदर्कसमद्युतिः ॥
 
@@ -8285,7 +8285,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्रतिजग्राह चाग्निस्तु राजकन्यां सुदर्शनम् ।  
 विधिना वेददृष्टेन वसोर्द्धारामिवाद्ध्वरे ॥
@@ -8321,7 +8321,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 गृहस्थश्चावजेष्यामि मृत्युमित्येव स प्रभो ।  
 प्रतिज्ञामकरोद्धीमान् दीप्ततेजा विशाम्पते ॥
@@ -8367,7 +8367,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 जिगीषमाणं तु गृहे तदा मृत्युस्सुदर्शनम् ।  
 पृष्ठतोऽन्वगमद्राजन् रन्ध्रान्वेषी तदा तदा ॥
@@ -8414,7 +8414,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स तया छन्द्यमानोऽन्यै रीप्सिते नृपकन्यया ।  
 नान्यमाह प्रधानात् स तस्या वव्रे वरं द्विजः ॥
@@ -8450,7 +8450,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 पतिव्रता सत्यशीला नित्यं चैवार्जवे रता ।  
 कथं न प्रत्युदेत्यद्य स्मयमाना यथा पुरा ॥
@@ -8487,7 +8487,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अतिथिः पूजितो यस्य गृहस्थस्य तु गच्छति ।  
 नान्यस्तस्मात् परो धर्म इति प्राहुर्मनीषिणः ।  
@@ -8533,7 +8533,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 उटजात्तु ततस्तसान्निश्चक्राम स वै द्विजः ।  
 वपुषा द्यां च भूमिं च व्याप्य वायुरिवोद्यतः ॥
@@ -8567,7 +8567,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एषा हि तपसा स्वेन संयुक्ता ब्रह्मवादिनी ।  
 पावनार्थे च लोकस्य सरिच्छ्रेष्ठा भविष्यति ॥
@@ -8606,7 +8606,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मृत्युरात्मा च लोकाश्च जिता भूतानि पञ्च च ।  
 बुद्धिः कालो मनो व्योम कामक्रोधौ तथैव च ॥
@@ -8649,7 +8649,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इदं च कथयेद्विद्वानहन्यहनि भारत ।  
 सुदर्शनस्य चरितं पुण्यान् लोकानवाप्नुयात् ॥
@@ -8692,7 +8692,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तत्प्रीतिसम्पादनं मुख्यो धर्मः । तदपि तत्रैव-
 
@@ -8730,7 +8730,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवं च आज्ञाकरणस्यापि प्रीत्युत्पादकत्वात् शुश्रूषारूपत्वं सिद्धम् ॥
 
@@ -8760,7 +8760,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 विषयत्वेन विशेषरूपम् । अतः गोबलीवर्दन्यायेन पृथग्ग्रहणमुपपन्नम् ॥
 
@@ -8800,7 +8800,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्वेष्चासनेषूपविष्टाः स्वपतींश्च तथा सुखम् ।  
 रुक्मवेदिनिभास्तास्तु चन्द्रलेखा इवामलाः ॥
@@ -8839,7 +8839,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 कामसन्तप्तहृदयो देहत्यागे विनिश्चितः ।  
 अलाभे ब्राह्मणस्त्रीणामग्निर्वनमुपागमत् ॥
@@ -8879,7 +8879,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 जगाम पावकाभ्याशं तं चोवाच वराङ्गना ।  
 मामग्ने कामसन्तप्तां त्वं कामयितुमर्हसि ॥
@@ -8918,7 +8918,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मार्कण्डेयःततोऽग्निरुपयेमे तां शिवां प्रीतां मुदा युतः । प्रीत्या देवी समायुक्ता शुक्रं जग्राह पाणिना ॥
 
@@ -8951,7 +8951,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 प्राक्षिपत् काञ्चने कुण्डे शुक्रं सा त्वरिता शुभा ॥
 
@@ -8985,7 +8985,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथा च सावित्र्युपाख्यानम् ।  
 
@@ -9026,7 +9026,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यज्वा दानपतिर्दक्षः पौरजानपदप्रियः ।  
 पार्थिवोऽश्वपतिर्नाम सर्वभूतहिते रतः ॥
@@ -9063,7 +9063,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सर्वात्मना च भक्त्या च तुष्टाऽस्मि तव पार्थिव ॥
 
@@ -9110,7 +9110,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच-
 
@@ -9160,7 +9160,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तां सुमध्यां पृथुश्रोणीं प्रतिमां काञ्चनीमिव ।  
 प्राप्तेयं देवकन्येति दृष्ट्वा सम्मेनिरे प्रजाः ॥
@@ -9195,7 +9195,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्वयमन्विच्छ भर्तारं गुणैस्सदृशमात्मनः ॥
 
@@ -9235,7 +9235,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सा हैमं रथमास्थाय स्थविरैस्सचिवैर्वृता ।  
 तपोवनःनि रम्याणि राजर्षीणां जगाम ह ॥
@@ -9282,7 +9282,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नारद उवाच-
 
@@ -9335,7 +9335,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स बालवत्सया सार्धं भार्यया प्रस्थितो वनम् ।  
 महारण्यगतश्चापि तपस्तेपे महाव्रतः ॥
@@ -9409,7 +9409,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नित्यशश्चार्जवं तस्मिन् स्थितिस्तस्यैव च ध्रुवा ।  
 सङ्क्षेपतस्तपोवृद्धैः शीलवृद्धैश्च कथ्यते ॥
@@ -9456,7 +9456,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यथा मे भगवानाह नारदो देवसत्कृतः ।  
 संवत्सरेण सोऽल्पायुर्देहन्यासं करिष्यति ॥
@@ -9496,7 +9496,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नान्यस्मिन् पुरुषे सन्ति ये सत्यवति वै गुणाः ।  
 प्रधानमेव तस्मान्मे रोचते दुहितुस्तव ॥
@@ -9544,7 +9544,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मार्कण्डेयः-
 
@@ -9589,7 +9589,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तस्य सर्वमभिप्रायमितिकर्तव्यतां च ताम् ।  
 सत्यवन्तं समुद्दिश्य सर्वमेव न्यवेदयत् ॥
@@ -9639,7 +9639,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 द्युमत्सेन उवाच-
 
@@ -9686,7 +9686,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 परिचारैर्गुणैश्चैव प्रश्रयेण दमेन च ।  
 सर्वकामक्रियाभिश्च सर्वेषां तुष्टिमादधे ॥
@@ -9728,7 +9728,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 गणयन्त्याश्च सावित्र्या दिवसे दिवसे गते ।  
 यद्वाक्यं नारदेनोक्तं वर्तते हृदि नित्यशः ॥
@@ -9769,7 +9769,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 द्युमत्सेन उवाच-
 
@@ -9808,7 +9808,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 एवमस्त्विति सावित्री द्ध्यानयोगपरायणा । मनसा ता गिरस्सर्वाः प्रत्यगृह्णात्तपस्विनाम् ॥
 
@@ -9851,7 +9851,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सावित्री प्राह भर्तारं नैकस्त्वं गन्तुमर्हसि ।  
 सह त्वयाऽऽगमिष्यामि न हि त्वां हातुमुत्सहे ॥
@@ -9898,7 +9898,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 इच्छेयमभ्यनुज्ञाता आर्यया श्वशुरेण ह ।  
 अनेन सह निर्गन्तुं न मेऽद्य विरहः क्षमः ॥
@@ -9939,7 +9939,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सा वनानि विचित्राणि रमणीयानि सर्वशः । मयूरगणजुष्टानि ददर्श विपुलेक्षणा ॥
 
@@ -9975,7 +9975,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तस्य पाटयतः काष्ठं स्वेदो वै समजायत ।  
 व्यायामेन च तेनास्य जज्ञे शिरसि वेदना ॥
@@ -10024,7 +10024,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 श्यामावदातं रक्ताक्षं पाशहस्तं भयावहम् ।  
 स्थितं सत्यवतः पार्श्वे निरीक्षन्तं तमेव च ॥
@@ -10067,7 +10067,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सावित्र्युवाच-
 
@@ -10119,7 +10119,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 यमस्तु तं ततो बद्ध्वा प्रयातो दक्षिणामुखः ।  
 सावित्री चैव दुःखार्ता यममेवान्वगच्छत ॥
@@ -10167,7 +10167,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नानात्मवन्तस्तु वने चरन्ति धर्म च वासं च परिश्रम च ।  
 विज्ञानतो धर्ममुदाहरन्ति तस्मात्सन्तो धर्ममाहुः प्रधानम् ॥
@@ -10200,7 +10200,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स लब्धचक्षुर्बलवान् भवेन्नृप स्तव प्रसादात् ज्वलनार्कसन्निभः ॥
 
@@ -10235,7 +10235,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 विना पुनस्सत्यवतोऽस्य जीवितं वरं द्वितीयं वरयस्व भामिनि ॥
 
@@ -10278,7 +10278,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 अनुग्रहश्च दानं च सतां धर्मस्सनातनः ॥
 
@@ -10315,7 +10315,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सावित्र्युवाच
 
@@ -10353,7 +10353,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सावित्र्युवाच-
 
@@ -10401,7 +10401,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आर्यजुष्टमिदं वृत्तमिति विज्ञाय शाश्वतम् ।  
 सन्तः परार्थं कुर्वाणा नावेक्षन्ति परस्परम् ॥
@@ -10439,7 +10439,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न कामये भर्तृविनाकृता श्रियं न भर्तृहीना व्यवसामि जीवितुम् ॥
 
@@ -10485,7 +10485,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ख्यातास्त्वन्नामधेयाथ भविष्यन्तीह शाश्वताः ।  
 पितुश्च ते पुत्रशतं भविता तव मातरि ॥
@@ -10528,7 +10528,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सत्यवानुवाच-
 
@@ -10572,7 +10572,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 शिरोमितापसन्तप्तः स्थातुं चिरमशक्नुवन् ।  
 तवोत्सङ्गे प्रसुप्तोऽस्मि इति सर्वं स्मरे शुभे ।  
@@ -10615,7 +10615,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सत्यवानुवाच-
 
@@ -10661,7 +10661,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सत्यवानुवाच-
 
@@ -10708,7 +10708,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 त्वया हीनौ न जीवाव मुहूर्तमपि पुत्रक ।  
 यावद्धरिष्यसे पुत्र तावन्नौ जीवितं ध्रुवम् ॥
@@ -10755,7 +10755,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मत्कृतेन हि तावद्य सन्तापं परमेष्यतः ।  
 जीवन्तावनुजीवामि भर्तव्यौ तौ मयेति ह ॥
@@ -10794,7 +10794,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 न स्मराम्युक्तपूर्वा वै स्वैरेष्वप्यनृतां गिरम् ।  
 तेन सत्येन तावद्य धियेतां श्वशुरौ मम ॥
@@ -10841,7 +10841,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 कृत्वा कठिनभारं सा वृक्षशाखावलम्बिनम् ।  
 गृहीत्वा परशुं भर्तुः सकाशे पुनरागमत् ॥
@@ -10880,7 +10880,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 मार्कण्डेय उवाचएतस्मिन्नेव काले तु द्युमत्सेनो महाबलः । लब्धचक्षुः प्रसन्नायां दृष्ट्यां सर्वं ददर्श ह ॥
 
@@ -10919,7 +10919,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 आश्वासितो विचित्रार्थैः पूर्वराज्ञां कथाश्रयैः ॥
 
@@ -10960,7 +10960,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 समाहितेन चीर्णानि सर्वाण्येव व्रतानि मे ।  
 वायुभक्षोपवासश्च कृतो मे विधिवत्सदा ॥
@@ -11006,7 +11006,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 दालभ्य उवाच-
 
@@ -11053,7 +11053,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ततो मुहूर्तात् सावित्री भर्त्रा सत्यवता सह ।  
 आजगामाश्रमं रात्रौ प्रहृष्टा प्रविवेश ह ॥
@@ -11096,7 +11096,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ततो राज्ञा सहासीनाः सर्वे ते वनचारिणः ।  
 जातकौतूहलाः पार्थ पप्रच्छुर्नृपतेस्सुतम् ॥
@@ -11139,7 +11139,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सर्वेषामेव भवतां सन्तापो मा भवेदिति ।  
 अतो विरात्रागमनं नान्यदस्तीह कारणम् ॥
@@ -11177,7 +11177,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स चाद्य दिवसः प्राप्तः ततो नैनं जहाम्यहम् ॥
 
@@ -11221,7 +11221,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ऋषय ऊचुः-
 
@@ -11269,7 +11269,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ततः प्रकृतयस्सर्वाः साल्वेभ्योऽभ्यागता नृप ।  
 आचख्युर्निहतं चैव स्वेनामात्येन तद्विषम् ॥
@@ -11314,7 +11314,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 ततोऽभिवाद्य तान् वृद्धान् द्विजानाश्रमवासिनः ।  
 तैश्चाभिपूजितस्सर्वैः प्रययौ नगरं प्रति ।  
@@ -11357,7 +11357,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 तथैवैषाऽपि कल्याणी द्रौपदी शीलसम्मता ।  
 तारयिष्यति वस्सर्वान् सावित्रीव कुलाङ्गना ॥
@@ -11397,7 +11397,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 काले प्राप्तानां शरीरधर्माणां यथाविद्ध्यनुष्ठानेन भर्त्रनुगमनेन
 भर्तुरनन्तरं यावज्जीवब्रह्मचर्यादिनियमपरिपालनेन पतिशुश्रूषया
@@ -11432,7 +11432,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 नगरस्थो वनस्थो वा पापो वा यदि वा शुभः ।  
 यासां स्त्रीणां प्रियो भर्ता तासां लोका महोदयाः ॥
@@ -11471,7 +11471,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 स्कान्दे– पतिव्रतायाश्चरणो यत्र यत्र स्पृशेद्भुवम् । तत्रेति भूमिर्मन्येत नात्र भारोऽस्ति पावनी ॥
 
@@ -11498,7 +11498,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 
 
-<details open><summary>विश्वास-प्रस्तुतिः</summary>
+<details open><summary>मूलम्</summary>
 
 सङ्गृह्यात्र कृतौ क्रमेण कथिता मात्राज्ञया धीमता
 तानाकर्ण्य सदा स्त्रियश्च सकला धर्मे मतिं तन्वताम् ॥
