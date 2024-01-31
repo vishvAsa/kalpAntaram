@@ -25,7 +25,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 श्री:
 
@@ -59,7 +59,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎन्दत् धर्मङ्गळै आसरिप्पदाल् ऒप्पिल्लाद कीर्त्तियुम् इहलोकत्तिय विशेष सुगमुम्, उत्तममान परलोक कदियुम् स्त्रीगळुक्कु एऱ्‌पडुगिण्ड्रनवो, स्मृति पुराणम् मुदलियवैगळिल् तनित्तनियागच् चॊल्लप्पट्टिरुक्किण्ड्र अन्द स्त्रीधर्मङ्गळ् सेर्न्दु ओरिडत्तिलऱियुमाऱु त्र्यम्बग रायमगियागिऱ ऎन्नाल् इव्विडम् निरूबिक्कप्पडुगिण्ड्रन. इदु ऎन् तायिन् आज्ञै.
 
@@ -81,7 +81,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 आदौ आचारो निरूप्यते ॥
 </details>
 
-<details open><summary>तमिऴ्</summary>
+<details open><summary>द्राविडम्</summary>
 
 आचारम्
 
@@ -91,16 +91,33 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 मुदलिल् आचारत्तै निरूबिप्पोम्.
 </details>
 
-
-
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तत्र पुरुषाणामामौञ्जीबन्धनात् शास्त्रेण नियमाः न विधीयन्ते
 मौञ्जीबन्धनप्रभृत्येव नियमाः ॥
 
-'नास्य कर्म नियच्छन्ति किञ्चिदामौञ्जिवन्धनात्' । 'प्रागुपनय-
+'नास्य कर्म नियच्छन्ति किञ्चिदामौञ्जिवन्धनात्' । 
+</details>
 
-> नात् कामचारवादभक्षाः' ॥
+<details><summary>द्राविडम्</summary>
+
+पुरुषर्गळुक्कु उबनयनम् वरैयिल् नियमङ्गळ् सास्त्रङ् गळाल् विधिक्कप्पडविल्लै. उबनयनम् मुदऱ्‌कॊण्डुदान् नियमङ्गळ्.
+
+"इवनुक्कु उबनयनम् वरैयिल् ऒरु कर्मत्तिलुम् नियममिल्लै." (1)
+</details>
+
+<details><summary>मूलम्</summary>
+
+'प्रागुपनयनात् कामचारवादभक्षाः' ॥
+</details>
+
+<details><summary>द्राविडम्</summary>
+
+"उबनयनत्तुक्कु मुन् इष्टम्बोल् सञ्जारम्, पेच्चु, साप्पाडु." (2)
+</details>
+
+
+<details open><summary>मूलम्</summary>
 
 'उपनीय गुरुः शिष्यं शिक्षयेच्छौचमादितः । आचारमग्निकार्यं च सन्ध्योपासनमेव च ॥
 
@@ -119,13 +136,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
-पुरुषर्गळुक्कु उबनयनम् वरैयिल् नियमङ्गळ् सास्त्रङ् गळाल् विधिक्कप्पडविल्लै. उबनयनम् मुदऱ्‌कॊण्डुदान् नियमङ्गळ्.
 
-"इवनुक्कु उबनयनम् वरैयिल् ऒरु कर्मत्तिलुम् नियममिल्लै." (1)
-
-"उबनयनत्तुक्कु मुन् इष्टम्बोल् सञ्जारम्, पेच्चु, साप्पाडु." (2)
 
 कुरु सिष्यनै उबनयनम् सॆय्वित्तु, मुदलिलिरुन्दु सुत्तियैयुम् आचारत्तैयुम् अक्निगार्यम् सन्द्योबासनङ् गळैयुम् कट्रुक्कॊडुक्कक्कडवन्." ऎण्ड्र वसनङ्गळाल्. (3)
 
@@ -155,7 +168,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 टिप्पदु. आगैयाल् मेल् सॊल्लप्पोगुम् धर्मङ्गळ् विवाहम् मुदऱ्‌कॊण्डे अवर्गळाल् अनुष्टिक्कप्पडवेण्डियवै.
 
@@ -190,7 +203,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 विऴित्तुक्कॊण्डदुम् तेवदैयै त्यानिक्कवेण्डुम्. अप्पडिये वेऱु स्मरुदियिल्:-
 
@@ -236,7 +249,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रात्रियिन् पिन्बागत्तिल् तान्य सम्स्कारङ्गळ् सॆय्य वेण्डुम्.
 
@@ -280,7 +293,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उङ्गळ् अङ्गङ्गळिल् कॊञ्जमुम् कॆट्टबागम् तॆन्बडविल्लै. नीङ्गळ् पुण्यमानवर्गळ्. परिसुत्तर्गळ्. सौबाक्यमुळ्ळवर्गळ्. ऎनक्कु इडम् कॊडुङ्गळ्. नान् वसिक्कत्तक्क इडत्तैक् कूऱुङ्गळ्." (15)
 
@@ -319,7 +332,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 लक्ष्मियिन् इरुप्पिडमॆण्ड्रु सर्व जनङ्गळिन् अनुबव सित्तमानदु.
 
@@ -374,7 +387,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये आनुसासनिगत्तिल् साण्डिलियैक् कुऱित्तु सुमनस् ऎन्बवळ् सॊल्लुगिऱाळ्:कुटुम्बत्तिऱ्‌कागक् कॊण्डुवन्ददैयुम् सॆय्यवेण्डियदैयुम् कालैयिल् ऎऴुन्दु (वेलैयाट्कळाल्) सॆय्विक्किऱेन्, अल्लदु सॆय्गिऱेन्. (24)
 
@@ -419,7 +432,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रात्रियिल् वीट्टुक्करुगिल् जल मलङ्गळै विसर्जिक्क,ऎण्ड्र वसनमिरुक्किऱदु. (27)
 
@@ -463,7 +476,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 मृत्परिमाणमाह शातातपःआर्द्रामलकमात्रास्तु ग्रासा इन्दुव्रते स्थिताः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पिऱगु वासनै पोगुम्बडियाग अलम्बिक्कॊळ्ळ वेण्डुम्. इदैक् कॆळदमर्:-
 
@@ -517,7 +530,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कायिन् अळवु कबळङ्गळ् विधिक्कप्पट्टन. अव्विदमे सगल आहुदिगळुम् सौसत्तिऱ्‌कु एऱ्‌पट्ट मण्गळुम् अऱियत् तक्कन. (34)
 
@@ -569,7 +582,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सौसत्तुक्कुप् पिऱगु आसमनत्तैच् चॊल्लुगिऱार् तेवलर्-
 
@@ -606,7 +619,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 याक्ञवल्क्पर्:-
 
@@ -651,7 +664,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द वसनत्ताल् उबवासत्तिल् पुरुषर्गळ् पोल् स्त्री कळुक्कुम् तन्द तावनम् कूडादॆण्ड्रु एऱ्‌पड, स्त्रीगळुक्कु विशेषम् सॊल्लुगिऱार् मनु.
 
@@ -696,7 +709,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 समस्त प्राणिगळुक्कुम् कोक्कळे ताय्गळ्. ऎल्लोरुक्कुम् सुगत्तैक् कॊडुप्पवैगळ्. अबिव्रुत्तिक्कु वर विरुप्पमुळ्ळवन् कोक्कळै प्रदक्षिणम् सॆय्यवेण्डुम्. पादत्ताल् उदैक्कक्कूडादु. कोक्कळुक्कु मत्तियिल् सॆल्लक्कूडादु. मङ्गळत्तुक्कु इरुप्पिडम् कोक्कळ्. आगैयाल् ऎप्पॊऴुदुम् अवैगळ् पूजिक्कत्तगुन्दवै. (51)
 
@@ -735,7 +748,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 किणऱु वाबीगळिल् माट्टैत् तूण्डिनालुम्,व्रुक्षङ्गळ् विऴुम्बोदु अदै अन्द इडङ्गळिल् वीऴ्त्तिनालुम्, माडु तिन्बवरिडम् विट्रालुम् कोवदत्तैच् चॆय्दवनावान्. (56)
 
@@ -771,7 +784,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 बोधायनोऽपि-अपोवगाहनं स्नानं विहितं सार्वकामिकम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎऴुन्दिरुक्कादे. अवैगळैक् कालै मालैगळिल् नमस्करि. पुष्टियुण्डागुम्. (60)
 
@@ -821,7 +834,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सर्वाबीष्टङ्गळैयुम् कॊडुक्कुम्. मन्द्रत्तुडन् प्रोक्षणम् त्विजर्गळुक्कु मात्तिरम् विशेषम्. (65)
 
@@ -861,7 +874,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्नानम् सॆय्यवेण्डुम्. पुदिय कुडमायिरुक्क वेण्डुम्. इदु सनादन धर्मविधि. (69)
 
@@ -901,7 +914,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अत्र दिङ्नायकस्य दिनमणेरन्तकदेशगमनप्रयुक्ततया उत्तरदिग्रूपाया नायिकाया विहीनतिलकत्वप्रतिपादनेन तिलकाद्यभावो
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वारिक्कॊळ्वदु, पोजनम्, वान्दि, तूक्कम्, वस्त्रदारणम्, अलङ्गारम् इवैगळैप् पदि पार्क्कुम्बोदु सॆय्दुगॊळ्ळलागादु. (73)
 
@@ -933,7 +946,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अग्निशुश्रुषार्थमग्निहोत्रगृहे दक्षिणया द्वारा पत्न्या प्रवेष्टव्यम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 लक्षणम् ऎण्ड्रुम्, तिलगम् मुदलियवै सुवासिनिगळिन् लक्षणम् ऎण्ड्रुम् एऱ्‌पट्टदु.
 
@@ -971,7 +984,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अग्निशुश्रूषणं बहुभार्यस्य ज्येष्ठयैव कर्तव्यम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये कात्यायनर्:-
 
@@ -1013,7 +1026,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये याक्ञवल्क्यर् :-
 
@@ -1060,7 +1073,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सॆय्यवुम्.प्रदिदिनमुम् ऒरुत्तियाल् सॆय्यमुडियाविडिल् तिन क्रममाग मूत्त क्रममाग शुश्रूषै सॆय्ग. ऒरे तिनत्तिल् ऒरुत्तियाल् मुऴुदुम् सॆय्य मुडियाविडिल् ऎल्लोरुम् पङ्गु पोट्टुक्कॊण्डुत् तॆरिन्ददैच् चॆय्यवेण्डुम्.
 
@@ -1106,7 +1119,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पोदायनरानाल् अक्कियै ऎडुत्त पिन्नरे उट्कार वेण्डुमॆण्ड्रार्. 'मालै कालैयिले पत्नी कूडविरुप्पाळ्", ऎण्ड्रु, होमत्तिल् मुक्यमाग इरुवरुम् समीबत्तिलिरुक्क वेण्डुम्. यजमानन् समीबत्तिल् इल्लाविडिल् पत्नी अवच्यम् समीबत्तिल् इरुक्कवेण्डुम्.
 
@@ -1146,7 +1159,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अदिगारमिरुक्किऱदो अवनुक्कु वीडुम्, वीट्टुत् धर्मङ्गळुम् च्रेष्टमानवै. इव्विदम् क्रुहस्ताच्रमत्तिलिरुप् पवनुक्कुक् तीर्त्ताडनम् पूर्विगर्गळाल् तडुक्कप्पट्टिरुक्किऱदु" ऎण्ड्र वसनत्ताल् तीर्त्तङ्गळुक्काग प्रवासम् तडुक्कप्पट् टिरुक्किऱदु.
 
@@ -1183,7 +1196,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎण्ड्रु निर्मल स्वबावमुडैय मुनिच्रेष्टर्गळाल् उरैक्कप्पट्टिरुक्किऱदु.
 
@@ -1226,7 +1239,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ताने क्रुह्याक्कियैच् चुच्रूषै सॆय्ग. पत्नियावदु, पुत्रनावदु, कुमारियावदु, सिष्यनावदु' ऎण्ड्रार्.
 
@@ -1272,7 +1285,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तदनन्तरं व्यवहारोपयुक्तनाम्ना गुरूणां अभिवादनं कर्तव्यम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये व्यासर्-ऎन्द स्त्री कालैयिल् सूर्यनुक्कु अर्क्यम् कॊडुक्किऱाळो, अवळ् एऴु जन्मङ्गळिल् वैदव्यत्तैप् पार्क्कमाट्टाळ्.
 
@@ -1316,7 +1329,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सम्प्रेषितायामथ चैव दास्यामुत्थाय सर्वं स्वयमेव कार्यम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये विक्ञानेच्वार्-
 
@@ -1350,7 +1363,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ब्राह्मणीत्वेव कुर्याद्वे ब्राह्मणस्य युधिष्ठिर ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सर्वप्रगारमायुम् तन्नैये पजिक्किऱाळ् ऎन्बदै श्रीक्रुष्णन् उन्निडमिरुन्दु अऱियट्टुम्.
 
@@ -1419,7 +1432,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इवळैप् (पार्यैबै) पणम् सेर्प्पदिलुम्, सॆलवु सॆय्वदिलुम् एवुग. सुत्तियिलुम्, धर्मत्तिलुम्, समैयल् सॆय्वदिलुम्, सामक्रीगळैप् पार्त्तुक्कॊळ्वदिलुम् एवुग. इव्विडम् तनत्तै रक्षिप्पदिलुम्, सास्त्रत्तिऱ्‌कु विरोदमट्र सॆलविलुम्, पदार्त्तङ्गळ्, शरीरम् इवैगळिन् सूत्तियिलुम्, आदित्यम् मुदलान धर्मत्तिलुम् सयनम्, आसनम्, सॊम्बु, सरुवम् मुदलिय पात्रङ्गळैप् पार्त्तुक्कॊळ्वदिलुम् स्त्रीयै उबयोगिक्क ऎण्ड्रु पॊरुळ्.
 
@@ -1465,7 +1478,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये रामायणत्तिल्:-
 
@@ -1517,7 +1530,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 महान्गळ् इव्विडम् वरुम् कालम् समीबत्तिलिरुक्किऱदॆण्ड्रु निनैक्किऱेन्. अवर्गळाल् कौ रविक्कप्पट्टु इष्टप्पडि पोगलाम्. कुदिरैगळै अविऴ्त्तुविट्टु इऱङ्गुङ्गळ्. धर्मबुत्रन् महात्मा, अत्तिप्रियर्, उङ्गळैप् पार्त्तु प्रीदियडैवर्. इव्विदम् सैप्यबुत्रनैप् पार्त्तुच् चॊल्लि, अदिदिधर्मत्तैच् चिन्दित्तुक्कॊण्डु पर्णसालैयिल् पुगुन्दाळ्.
 
@@ -1563,7 +1576,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 भर्त्ता सॆय्युम् तेवबूजैयिल् अदिल् उबयोगमान सामक्रीगळैप् पदि सॊल्लामल् तानागवे तयारिक्क वेण्डुम्.
 
@@ -1611,7 +1624,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तथा चापस्तम्बः काले स्वामिनौ अन्नार्थिनं न प्रत्याचक्षीयाताम् । अभावे भूमि
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 व्यासरुम्: नैवेत्यत्तिऱ्‌काग वेऱु पाण्डत्तिल्, पत्नी स्नानम् सॆय्दु समैयल् सॆय्ग. वैच्वदेवत्तिऱ्‌काग वेऱु पात्रत्तिल् समैयलुम् तनित्तनियागक् काय्गऱिगळुम् समैयल् सॆय्ग.
 
@@ -1660,7 +1673,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 निरागरिक्कलागादु. अन्नमिल्लाविडिल्, इडम्, तीर्त्तम्, पाय्, नल्ल वार्त्तै इवैगळ् नल्लवर्गळ् वीट्टिल् ऒरु पोदुम् कुऱैयादवै. इप्पडि आचारमुळ्ळवर् अनन्दमान लोकत्तै अडैवार्गळ्.
 
@@ -1711,7 +1724,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अल्ब पुत्तियुळ्ळ ऎवन् वीट्टिल्, पट्टिनियाल् प्राम्हणन् वसिक्किऱानो, अवनुडैय मनोरदङ्गळ्, वर वेण्डियवैगळ्, सत्सङ्गम्, नल्लवार्त्तै, इष्टम्, पूर्त्तम्, पुत्रर्गळ्, पसुक्कळ् इवैगळ् नसिक्किण्ड्रन."
 
@@ -1740,7 +1753,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 स एप प्राजापत्यः कुटुम्बिनो यज्ञो नित्यप्रततः, योऽतिथीनामग्निः स आहवनीयो यः कुटुम्बे स गार्हपत्यो यस्मिन् पच्यते सोऽन्वाहार्यपचनः । ऊर्जं पुष्टिं प्रजां पशुनिष्टापूर्तमिति गृहाणामश्नाति यः पूर्वोऽतिथेरश्नाति, पयउपसेचनमन्नमग्निष्टोमसम्मितं, सर्पिपोक्थ्यसम्मितं, मधुनाऽतिरात्रसम्मितं, मांसेन द्वादशाहसमितं उदकेन प्रजावृद्धिरायुपश्च । प्रिया अप्रियाश्चातिथयः स्वर्गं लोकं गमयन्तीति विज्ञायते । स यत्प्राधर्मध्यन्दिने सायमिति ददाति सवनान्येव तानि भवन्ति । यदनुतिष्ठत्युदवस्यत्येव तत् । यत्सान्त्वयति सा दक्षिणा
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 विषत्तैप् पुजिक्किण्ड्रान्. अवनै नान् पुजिक्किऱेन्. अवनुक्कु नाने मरुत्यु. अक्निहोत्रम् सॆय्दु, वैच्वदेवम् सॆय्दु, वेलैयाट्कळुक्कु इट्टु, मीदियैच् चुत्तनाग च्रत्तैयुडन् पुजिप्पवनुक्कु नान् अम्रुदमावेन्. अवन् ऎन्नैप् पुजिप्पान्.
 
@@ -1782,7 +1795,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 आश्वमेधिकेऽपि— साङ्गोपाङ्गांस्तथा वेदान् पठतीह दिने दिने ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नल्ल वार्त्तै सॊल्वदुम् स्तुदि सॆय्वदुम् तक्षिणै पिन् तुडरुवदु विष्णुक्रमङ्गळ्. तिरुम्बि वरुवदु अवप्रुदम्, ऎण्ड्रु प्राम्हणम्.
 
@@ -1825,7 +1838,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पडिप्पु वीण्. पाग यक्ञङ्गळालुम्, महायक्ञङ्गळालुम्, सोम यागङ्गळालुम् अनुष्टानम् सॆय्दुम्, वीट्टिऱ्‌कु वन्द अदिदियैप् पूजिक्काविडिल्, अवर्गळिन् यसस्, तनम्, कामम्, तत्तम्, इष्टम् इवैगळ् वीणागिण्ड्रन. आसैप् पङ्गत्ताल् पङ्गमागिण्ड्रन. वैसवदेवमुडिविल् वन्द अदिदियैप् पूजियादवन् उडने सण्डाळनागिऱान्. ऎदै अदिदिक्कुप् पोडविल्लैयो अदैत् तानुम् साप्पिडलागादु. अदिदि पूजनम्, तनम्, कीर्त्ति, आयुस्, स्वर्क्कम् इवैगळैक् कॊडुक्कुम्.
 
@@ -1868,7 +1881,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आरण्यबर्वत्तिल्, करुडनुक्कुम्, सरस्वदीक्कुम् सम् वादत्तिल्:-
 
@@ -1902,7 +1915,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎन्दविडत्तिल् पार्यैयावदु अक्नियावदु इरुक्किऱदो अन्द वीट्टिल् वन्दवन् अदे क्रामत्तानायिनुम् परिहास कदै पेसुबवनायिनुम् अवन् अदिदियल्ल, (3-103-मनु) ऎण्ड्र मनु वसनत्ताल्, पार्यै वीट्टिलिरुन्दाल् अदिदि पोजनम् अवच्यम् ऎण्ड्रु सॊल्लियिरुप्पदु इदऱ्‌कु मूलम्.
 
@@ -1949,7 +1962,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वनबर्वत्तिल् जयत्रदनैक् कुऱित्तु त्रौबदी:-
 
@@ -1994,7 +2007,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > अतिथीन् वक्ष्यति । तानेवाग्रे भोजयेन्न स्वयं सह भुञ्जीत पूर्वं वा । ये च गृहे वर्तमाना बालादयस्तानप्यग्रे भोजयेत् । अन्तर्वत्नीरित्येव सिद्धे स्त्रीग्रहणं स्वत्रादीनामपि ग्रहणार्थं
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये व्यासर्:-
 
@@ -2028,7 +2041,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सेर्त्तुक्कॊळ्ळवेण्डुम्. कर्प्पिणी ऎण्ड्रदु मुन् पूजिप्पदऱ्‌कु. कालम् ऎण्ड्राल् वैर्वदेवगालम्. अप्पॊऴुदु वन्दवनैत् तम्बदिगळ् निरागरिक्कलागादु. अवच्यम् अवनुक्कुक् कॊञ्जम् कॊडु. कालत्तिल् पोजनम् कॊडुप्पवळ् ऎण्ड्रु पारदम्. पालर्, किऴवर्, रोगि इवर्गळुक्कु ऎप्पॊऴुदु ऎदु वेण्डुमो अप्पॊऴुदु अदैक् कॊडुक्कवुम्.
 
@@ -2078,7 +2091,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वनबर्वत्तिल् त्रौबदी परिमाऱुदल् उरैक्कप्पट्टिरुक्किऱदु. त्रौबदी तन् भर्त्ताक्कळैयुम्, प्राम्हणर्गळैयुम् ताय्बोल् मुदलिल् पोजनम् सॆय्वित्तु मीदियैयरुन्दिनाळ्.
 
@@ -2125,7 +2138,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > घृतं तैलं च लवणं पानीयं पायसं तथा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 परिमाऱुम्बोदु कैयाल् परिमाऱलागादु.
 
@@ -2183,7 +2196,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इलैयाल्, अल्लदु तुरुम्बाल् मूडप्पट्ट अन्नत्तैप् परिमाऱवेण्डुम्. कैयालल्ल.
 
@@ -2229,7 +2242,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 परिमाऱुम्बोदु, ऒरु पन्दियिलिरुप्पवरुक्कु स्नेहत्ताल् सममिल्लामल् परिमाऱक्कूडादु. अदैये वसिष्टर्:ऒरु पन्दियिलिरुप्पवनुक्कु, स्नेहत्ताल्, अल्लदु पयत्ताल्, अल्लदु पणत्तिऱ्‌काग विषममाग इडुबवन्, वेदत्तालुम्, रुषिगळालुम् सॊल्लप्पट्ट प्रम्हत्यैयै अडैवान्.
 
@@ -2265,7 +2278,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 स्त्रिया भर्तारं विहाय मृष्टमन्नं न भोक्तव्यम् । तथा च स्कान्दे
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 भर्त्ता साप्पिट्ट पिऱगे पार्यै साप्पिडुग. व्यासर्:-
 
@@ -2304,7 +2317,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तदनन्तरकृत्यमाहापस्तम्बःयत्र भुज्यते तत् समूह्य निर्हत्यावोक्ष्य तं देश ममत्रेभ्यो
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎवळ् पदियै विट्टु विरुन्दुण्गिऱाळो अवळ् क्रामप् पण्ड्रियागवो, तन् विष्टयैप् पुसिक्कुम् वल्गुळीयागवो पिऱप्पाळ्.
 
@@ -2347,7 +2360,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 रात्रौ कर्तव्यवैश्वदेवातिथिपूजनाद्यपयोगितया गृहसम्मार्जन
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पात्रङ्गळैच् चुत्ति सॆय्दु, जलत्ताल् अलम्बि, वडक्कुप् पागत्तिल् सुत्त इडत्तिल् रुत्रनुक्कु अलम्बिय जलत्तै विडुग. इप्पडि वीडु सुबमागुम्.
 
@@ -2389,7 +2402,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ततो गुरुनमस्कारातिथ्यादिकं दिवावत्कर्तव्यमित्युक्तं स्मृतिरत्न –
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उबयोगमाग वीडु पॆरुक्कि, पात्रम् अलम्बि, सामान्गळैच् चेर्प्पदै सन्द्या कालत्तिऱ्‌कु मुन्बे सॆय्यवुम्.
 
@@ -2429,7 +2442,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 दिवातिथौ च विमुखे गते यत् पातकं नृप ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अक्निहोत्रम् सॆय्दु, कुरु नमस्कारम् सॆय्दु, यदा सक्ति अदिदिबूजै सॆय्दु, वैच्वदेव पलियैयुम् सॆय्दु पगलिल्बोल् पुजिक्कवुम्.
 
@@ -2484,7 +2497,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पाबमो, अदु रात्रियिल् ऎट्टु मडङ्गु अदिगमॆण्ड्रु अऱिग.
 
@@ -2544,7 +2557,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आह्निगधर्मम् मुट्रिट्रु.
 </details>
@@ -2577,7 +2590,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 केळ्वि:-
 
@@ -2621,7 +2634,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रामायणत्तिलुम्:-
 
@@ -2664,7 +2677,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 या स्त्री शुश्रूषणाद्भुर्तुः कर्मणा मनसा गिरा।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पल तोषमिरुप्पदाल्, अवर्गळुक्कु धर्मत्तिल् प्रव्रुत्ति ऎप्पडि?
 
@@ -2701,7 +2714,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 शङ्खः – नानुक्त्वा गृहान्निर्गच्छेन्नानुत्तरीया न त्वरितं व्रजेत्, न परपुरुषमभिभाषेतान्यत्र वणिक्प्रव्रजितवैद्यवृद्धेभ्यो
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 भर्त्तावुक्कुच् चुच्रूषैयिनाल् अवनुक्कु हिदम् सॆय्गिऱाळो अवळ् अवनुडैय सालोक्यत्तै अडैगिऱाळ्. स्त्रीगळुक्कु मूण्ड्रावदु तडवै सादु ऎण्ड्रु सॊन्नेन्. आगैयाल् स्त्रीगळ् आयासमिण्ड्रि पदि शुश्रूषैयालेये सालोक्यत्तै यडैयलाम्.
 
@@ -2747,7 +2760,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वैत्यन्, किऴवन् इवर्गळैत् तविर इदरर्गळिडम् पेसक् कूडादु, नाबि वॆळियिल् तॆरियक्कूडादु. काल् मणिक्कट्टु वरैयिल् वस्त्र तारणम्. स्तनङ्गळ् वॆळियिल् तॆरियलागादु. प्रकाशमागच् चिरिक्कक्कूडादु. भर्त्तावैयुम्, अवन् पन्दुक्कळैयुम् तवेषिक्कलागादु. व्यबिसारिणी, वेसि, कॆट्टवळ्, सन्यासिनी, कुऱि सॊल्बवळ्, मायै वञ्जनै सॆय्बवळ्, कॆट्ट स्वबावमुळ्ळवळ् इवर्गळुडन् ओरिडत्तिल् वसिक्कलागादु. सहवासत्ताल् नडत्तै कॆट्टुविडुम्.
 
@@ -2790,7 +2803,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मार्गण्डेयर्:-
 
@@ -2824,7 +2837,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सेवेत भर्तुरुच्छिष्ट मन्नपानफलादिकम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पडमाट्टाळ्. कार्य वसत्ताल् नी तेसान्दरम् पोयिरुन्दाल्
 आबरणङ्गळ् पोट्टुक्कॊळ्ळमाट्टाळ्. उन् आयुळ्
@@ -2874,7 +2887,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तेवर्गळ्, पित्रुक्कळ्, अदिदिगळ्, परिसारगर्, पसुक्कळ्, पिक्षुक्कळ् इवर्गळुक्कुक् कॊडामल् साप्पिडाळ्. वीट्टुच् चामान्गळिल् अडक्कमुळ्ळवळायुम्, सॆलविल् पिन्वाङ्गुबवळायुम् इरुप्पाळ्. कूट्टम्, उत्सव तर्सनम् इवैगळैत् तूरत्तिल् विलक्कुवाळ्. तीर्त्तयात्रै, विवाहम् पार्प्पदु इवैगळैत् तूरत्तिल् विडुवाळ्. सङ्गमाय्त् तूङ्गुम्बोदुम्, उट्कार्न्दिरुक्कुम्बोदुम्, कार्यमत्यत्तिलुम्, पदियै ऎऴुप्पमाट्टाळ्. मूण्ड्रु तिनम् वॆळियिलिरुक्कुम्बोदु तन् मुगत्तैयुम् काट्टमाट्टाळ्. कादिल् विऴुम्बडि पेसवुम् माट्टाळ्. स्नानम्सॆय्दु भर्त्ताविन् मुगत्तैत् तर्सिप्पाळ्. इल्लाविडिल् भर्त्तावै मनदाल् त्यानित्तु सूर्यनैप्
 पार्प्पाळ्. वण्णात्तियुडनुम्, युक्तिवादिनी, सन्यासिनी,
@@ -2910,7 +2923,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उलक्कै, अरिवाळ्मणै, अम्मि, एन्दिरम्, वायिऱ्‌पडि इवैगळिल् उट्कारमाट्टाळ्. रहस्य कालम् तविर वेऱु कालङ्गळिल् तैर्यमायिरुक्कमाट्टाळ्. भर्त्तावुक्कु प्रियमान विषयङ्गळिल् प्रेमै कॊळ्वाळ्. नॆय्, उप्पु, तैलम् इवै कुऱैन्दालुम् इल्लै ऎण्ड्रु सॊल्लमाट्टाळ्. आयासगर कार्यङ्गळिल् एवमाट्टाळ्. तीर्त्त स्नानत्तै अपेक्षिक्किऱवळ् पदियिन् पाद जलत्तै अरुन्दवेण्डुम्. सिवन्, विष्णु इवर्गळैक् काट्टिलुम्, स्त्रीक्कुप् पदिये अदिगनावान्.
 
@@ -2952,7 +2965,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 परपुरुषस्य हनूमतः स्पर्शनं निन्दितवत्या सीतया अग्निस्पर्शनं गुरुत्वादङ्गीकृतम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 परबुरुषनुडन् पेसुवदुम्, पार्प्पदुम् कूडादॆण्ड्रबडियाल्, तॊडुवदुम् कूडादॆण्ड्रु एऱ्‌पडुम्.
 
@@ -2991,7 +3004,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडिये रामायणत्तिल्:-
 
@@ -3034,7 +3047,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अनुरूबनान पदियैप् पार्त्तु ऎवळ् विगारत्तै अडैय विल्लैयो, सुरूबनायुम्, युवावायुम्, कामिनीगळुक्कु प्रियनायुमुळ्ळवनै ऎवळ् इच्चिक्कविल्लैयो अवळ्दान् नल्ल सात्वी.
 
@@ -3083,7 +3096,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ईडुबडुगिऱार्गळ्. इदु ऎनक्कुम् तॆरियुम्. स्त्रीक्कु भर्त्तावे कुरु. ऎन् भर्त्ता सीलमट्रवनायिनुम्, सन्देह मिल्लामल् ऎन्नाल् उबसरिक्कत् तगुन्दवनावान्. आनाल्, च्लाक्य कुणमुडैयवनायुम्, तयावानायुम्, जिदेन्द्रियनायुम् उळ्ळवनैप् पट्रिच् चॊल्लवुम् वेण्डुमा?
 
@@ -3126,7 +3139,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द आऱुम् स्त्रीगळुक्कु तूषणङ्गळ्. पदियैप् पिरिन्दिरुत्तल् =
 वेऱु वीट्टिल् सयनम्. तूक्कम् = पगलिल् तूङ्गुदल्.
@@ -3173,7 +3186,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 केळ्वि:-
 
@@ -3228,7 +3241,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द मादिरि न्यायमाग स्त्रीगळाल् अडैयप्पडुम् तनम् स्त्री तनम्. इदैप् भर्त्ता वाङ्गिक्कॊळ्ळलागादु.
 
@@ -3269,7 +3282,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > भर्तुरनाज्ञया नित्यदाने दोषप्रसक्तिरेव नास्ति । यदकारणादग्निविच्छित्तिः कुटुम्बोपाधिः अतिथिपूजननिवृत्तिस्तेषु नैमित्तिकेषु भर्तुराज्ञाभावेऽपि न दोषः, कर्मानुपयुक्तयथेच्छप्रधाने स्तेयदोषोऽस्त्येव । एतच्च भर्तृसाधारणद्रव्यविषये । यत्तु अध्य
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्त्रीगळुक्कु तनमिल्लै ऎन्बदु, भर्त्ताविन् वीट्टिल् पॊदुवान तनत्तिल् उरिमै इल्लै, भर्त्ताविन् तनत्तिलुम् इल्लै ऎन्बदागुम्.
 
@@ -3318,7 +3331,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सॊन्न स्त्री तनत्तैक् कॊडुक्क अदिगारम् इरुक्कवे इरुक्किऱदु.
 
@@ -3365,7 +3378,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 यस्य सम्बन्धिनस्ते तस्यैव तेषां धनं, तेन तस्मिन् जीवति
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आज्ञै इल्लाविडिल् ऎन्बदिल् याक्ञवल्क्यर्:कुटुम्बत्तिन् पॊदुत् तनत्तिलिरुन्दुम्, तन् तनत्तिलिरुन्दुम् भर्त्ताविन् अनुमतियिण्ड्रिच् चेर्क्कक्कूडादॆन्बदु.
 
@@ -3397,7 +3410,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ननु षड्विधधने स्वातन्त्र्येण स्त्रीणां व्यवहारयोग्यत्वाभावे
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सामर्त्यमट्रवर्गळ् ऎण्ड्रु सॊल्लप्पट्टिरुक्किऱदु. पुत्रनुक्कुम्, पिदावुक्कुप् पिन् तान् सॊत्तु.
 
@@ -3436,7 +3449,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्वादन्द्रियमिल्लाविडिल्, भर्त्तावुक्कुप् पॊदुवान तनत्तैक् काट्टिलुम् विशेषम् यादु?. भर्त्ताविन् अनुमतियाल् कॊडुप्पदु ऎल्लात् तनत्तिऱ्‌कुम् पॊदुवानदल्लवा?
 
@@ -3474,7 +3487,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कौसल्यै वॆगुमानम् सॆय्दाळ् ऎन्बदुम्,
 
@@ -3511,7 +3524,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 (
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 4) वॆगुमानम् सॆय्युम् समयत्तिल् प्रमदोत्तमा ऎण्ड्रु ऒरु कुणत्तैच् चॊल्लियिरुप्पदालुम्, कौसल्यै पदिव्रदाच्रेष्टै ऎण्ड्रु विळङ्गुवदाल्,वॆगुमानत्तैप् पदियिन् आज्ञैप्पडिये अवळ् सॆय्दाळ्, ऎण्ड्रु निच्चयिक्किऱोम्.
 
@@ -3552,7 +3565,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तनत्तैत् तानम्, पोगमिवैगळिल् सॆलविडुवदिल् सर्वादि कारमिरुप्पिनुम्, भर्त्ताविन् अनुमतियुडन्दान् तानम् सॆय्यवेण्डुम्. भर्त्तावुम् अनुमति कॊडुक्कवेण्डुम्.
 
@@ -3595,7 +3608,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 स्त्रकीयमपि हारं सीता भर्त्राज्ञयैव दत्तवतीत्युक्तम् । 'भर्तुराज्ञां विना नैव स्वबन्धुभ्यो दिशेद्धन'मिति सामान्यतो दानार्थम
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इवैगळैयुम् उन्निडम् कॊडुक्क इच्चिक्किऱाळ्, ऎण्ड्रबडि तन् तनत्तैयुम्, भर्त्ताविन् आज्ञैयै मुन्निट्टुक् कॊण्डे कॊडुत्ताळ्, श्रीरामनुम् अदै अनुमोदित्तार्, ऎण्ड्रु विळङ्गुगिऱदु.
 
@@ -3637,7 +3650,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पन्दुक्कळुक्कुक् कॊडुक्क वेण्डिय समयत्तिल्, मट्रॊरु आज्ञै अडैन्दे कॊडुक्कवेण्डुम्.
 
@@ -3679,7 +3692,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आगिऱाळ्. ऎवळ् भर्त्तावै विट्टु, ऒरुत्तियाय् विरुन्दुण्णुगिऱाळो अवळ् क्रामत्तिल् पण्ड्रियागवो, तन् विष्टैयैप् पुजिक्कुम् प्राणियागवो पिऱक्किऱाळ्. ऎवळ् हुङ्गारम् सॆय्दु भर्त्तावैप् पेसुगिऱाळो, अवळ् ऊमैयागप् पिऱक्किऱाळ्. ऎवळ् सक्कळत्तियुडन् ऎप्पॊऴुदुम् असुयैप्पडुगिऱाळो अवळ् अडिक्कडि तुर्प्पाक्यमुडैयव ळागिऱाळ्. भर्त्ताविन् कण्णै एमाट्रि ऎवळ् मट्रॊरुवनैप् पार्क्किऱाळो, अवळ् पॊट्टैयायुम्, तुर्मुगियायुम्, अवलक्षणैयायुम् पिऱक्किऱाळ्. ऎवर्गळ् भर्त्तावै एमाट्रिप् पिऱरिडम् आसैयुळ्ळवर्गळो, अवर्गळ् ऎल्लोरालुम् निन्दिक्कप्पट्टु, परलोकत्तिल् नरगत्तिल् वॆगुगालम् वसिक्किऱार्गळ्. तुर्व्याबारमुडैयवर्गळ् तन् कॆट्ट नडत्तैयाल्, पिदा, मादा, पदि इम्मूवर् कुलत्तैयुम् नरगत्तिल् वीऴ्त्तुगिऱार्गळ्.
 
@@ -3719,7 +3732,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पडुगिऱार्गळ्. मामियार्, मामनार्, पॆरियोर्गळ् इवर्गळैक् कडुमैयाय्प् पेसुबवर्गळ्, पाब कर्मत्तिल् आसक्तियुडैयवर्गळ्, सदासारमट्रवर्गळ्, पिडिवादमुडैयवर्गळ्, व्यबिसारिणिगळ्, पदियै निन्दिप्पवर्गळ् इवर्गळनैवरुम् पाबत्तिन् पलनैप् पुसियुङ्गळ् ऎण्ड्रु. पदियिनिडम् प्रियमट्र स्त्री कॆट्टाळ्. पिक्षै वाङ्गाद सन्यासि कॆट्टान्. प्राम्हणनुक्कु हिदम् सॆय्याद अरसन् कॆट्टान्. अक्नियिल्लाद विप्रन् कॆट्टान्.
 
@@ -3753,7 +3766,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 असत्स्त्रीणां समाचारं सत्ये मामनुपृच्छसि ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कदैगळैप् पेसिक्कॊण्डार्गळ्. पिऱगु श्री क्रुष्णडैय
 प्रिय महिषियान सत्यबामै, रहस्यमाय्क्
@@ -3797,7 +3810,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 केट्किऱाय्. असात्वीगळिन् मार्गत्तै ऎप्पडिक् केट्कलाम्. अदिल् सन्देहमुम् उन्निडम् उसिदमागादु. नी ऎप्पडि मनदाल् क्रुष्णनै अडैन्दु अवनुक्कु प्रिय पार्यैयो अप्पडिये. ऎप्पॊऴुदु स्त्री मन्द्रम्, ओषदिगळै उबयोगिक्किऱाळ् ऎण्ड्रु पदि अऱिगिऱानो अप्पॊऴुदे वीट्टिलिरुक्कुम् सर्प्पत्तिनिडम्बोल् अवळिडम् पयप्पडुवान्. पयन्दवनुक्कुच् चान्दि एदु? असान्दनुक्कु सुगम् एदु? ऒरु पोदुम् मन्द्रत्तिल् स्त्रीक्कुप् पुरुषन् वसमागान्. सत्रुक्कळाल् कॊडुक्कप्पट्ट पयङ्गरमान ओषदिगळैयुम्, वेर्, तळिर्गळैक् कलन्द विषङ्गळैयुम् कॊडुत्तु, पदियैक् कॊल्ल यत्तनिक्किऱार्गळ्. पुरुषन् नाक्किनालो, तोलालो ऎदै सेविक्किऱानो अवैगळिल् सूर्णङ्गळैच् चेर्त्तु सीक्किरम् कॊण्ड्रुविडुवार्गळ्.
 
@@ -3834,7 +3847,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उबत्रविक्किऱार्गळ्. ऒरुबोदुम् स्त्री पदिक्कु अप्रियत्तैच् चॆय्यलागादु. हे सत्यबामे! नान् पाण्डवर्गळिडम् ऎप्पडि नडन्दुगॊळ्ळुगिऱेन्, ऎन्गिऱ उण्मैयैक् केळ्. ऎप्पोदुम् अहङ्गारम्, कामम्, कोबम् इवैगळै ऒऴित्तु, आदरवुडन् परिसुत्तैयाग अवर्गळै उबसरिक्किऱेन्. स्नेगत्तै विट्टु, उण्मैयै उणर्न्दु, अहङ्गारमिण्ड्रि पदिगळिन् मनदै पक्षित्तु शुश्रूषिक्किऱेन्. कॆट्ट पेच्चु, कॆट्टमादिरियिल् निऱ्‌पदु, पार्प्पदु, उट्कारुवदु, सॆल्वदु, इङ्गिदम्, उयर्न्द प्रदेसङ्गळिल् उट्कारुवदु इवैगळिल् सन्देहत्तुडन् सूर्य चन्द्र अक्निगळुक्कुच् चमानर्गळायुम्, कण्णालेये कॊल्लुम् सामर्त्यमुळ्ळवर्गळुम्, उक्र वीर्यत्ताल् तबिक्कच्चॆय्बवर्गळुमान पाण्डवर्गळै सेविक्किऱेन्. तेवनो, मनिदनो, नण्ड्राय् अलङ्गारम् सॆय्दुगॊण्ड युवनो, पणक्कारनो, रूबवानो यारायिनुम्, परबुरुषन् ऎनक्कु सम्मदनल्ल. वेलैक्कारर्
 </details>
@@ -3856,7 +3869,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सर्वथा भर्तृरहितं न ममेष्टं कथञ्चन ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इरुन्दबोदिलुम्, भर्त्ता साप्पिडाविडिल् साप्पिडमाट्टेन्. स्नानम् सॆय्याविडिल् स्नानम् सॆय्येन्. तूङ्गाविडिल् तूङ्गमाट्टेन्. वयलिलिरुन्दो,काट्टिलिरुन्दो, क्रामत्ति लिरुन्दो वीट्टुक्कु वन्द भर्त्तावै, ऎऴुन्दिरुन्दु आसनम्, तीर्त्तम् इवैगळैक् कॊडुत्तु, उबसरिप्पेन्. कालत्तिल् पात्रङ्गळैक् कऴुवि, कालत्तिल् रुसियुळ्ळ अन्नत्तै इडुवेन्. नियमत्तैयुडैयवळायुम्, तान्यङ्गळै रक्षिप्पवळायुम्, वीट्टैप् परिसुत्तमाय् वैत्तुक्कॊळ्बवळायुम्, अवर्गळ् सम्बाषणत्तैत् तिरस्कारम् सॆय्यादवळायुम्, कॆट्ट स्त्रीगळैप् पिन् तॊडरादवळायुम्, ऎप्पोदुम् अनुगूलैयायुम्, सोम्बलट्रवळायुम् इरुप्पेन्. विळैयाट्टिल्लामल् सिरिप्पदुम्, वायिऱ्‌पडि मुदलियवैगळिल् अडिक्कडि निऱ्‌पदुम्, असुत्त इडङ्गळिलुम्, तोट्टङ्गळिलुम् निऱ्‌पदुम् इल्लै. अदिगमाय्च् चिरिप्पदुम्, अदिगमाय्क् कोबित्तुक् कॊळ्वदुमिल्लै. कोबत्तिऱ्‌कु इडम् कॊडुप्पदुमिल्लै. ऎप्पोदुम् सत्यत्तिलुम्, भर्त्ताक्कळै सेविप्पदिलुम् आसैप्पडुवेन्. भर्त्ता इल्लाद इडम् ऎनक्कु इष्टमिल्लै.
 </details>
@@ -3882,7 +3895,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 पत्या श्रेयो हि मे धर्मो मतःस्त्रीणां सनातनः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कुटुम्बार्त्तमागप् भर्त्ता वॆळियूरुक्कुप् पोयिरुक्कुम्बोदु, पुष्पम्, पूच्चु इवैगळिल्लामल् व्रदत्तैयनुष्टिक्किऱेन्. भर्त्ता ऎदैक् कुडिप्पदिल्लैयो, ऎदैत् तिन्बदिल्लैयो, ऎदैच् चाप्पिडुवदिल्लैयो अदैयॆल्लाम् तळ्ळिविडुगिऱेन्. उबदेसप्पडि नियदैयायुम्, अलङ्गरित्तुक्कॊण्डुम्, परिसुत्तमागवुम्, भर्त्तावुक्कु प्रियत्तिलुम्, हिदत्तिलुम् आसैयुडैयवळायुमिरुप्पेन्. पूर्वम् ऎन् मामियाराल् कुटुम्बत्तिल् ऎन्दत् धर्मङ्गळ् सॊल्लप्पट्टनवो अदावदु, पिक्षै, पलि, च्रात्तम्, स्तालीबागम्, पूज्यर्गळैप् पूजिप्पदु, इन्नुम् ऎनक्कुत् तॆरिन्दवैगळ् अवैगळै अल्लुम् पगलुम्, सोम्बलिण्ड्रि अनुष्टिप्पेन्. विनयत्तैयुम्, नियमङ्गळैयुम् ऎप्पोदुम् अनुसरिप्पेन्. म्रुदुवावानवरुम्, सत्यधर्मत्तैप् परिबालिप्पवरुमानवर्गळै सत्यत्तुडन् अनुसरिप्पेन्. सर्प्पम् पोल् कोबम् कॊळ्बवर्गळैयुम् परिसरणम् सॆय्वेन्. स्त्रीगळुक्कुप्
 </details>
@@ -3908,7 +3921,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 दशान्यानि सहस्राणि येपामन्नं सुसंस्कृतम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पदियिनालेये च्रेयस्. पदिये तेवन्. अवने कदि. अवनुक्कु ऎवळ् कॆडुदि सॆय्वाळ्. नान् पदिगळुक्कु अदिगमाय्त् तूङ्गुवदिल्लै, साप्पिडुवदिल्लै.अलङ्गरिप्पदिल्लै. मामियारैत् तूषिप्पदिल्लै. ऎप्पोदुम् अडङ्गि इरुप्पेन्. मनदै ऒरे निलैयिल् वैत्तिरुप्पदालुम्, प्रदिदिनम् ऎऴुन्दिरुप्पदालुम्, कुरु शुश्रूषैयालुम्, भर्त्ताक्कळ् ऎनक्कु वसमानार्गळ्. पूज्यैयायुम्, सत्यवादिनियायुमुळ्ळ कुन्दियै नान् प्रदिदिनम् वस्त्रान्नबानादिगळाल् स्वयमागप् परिसरणम् सॆय्गिऱेन्. वस्त्रम्, पोजनम्, पात्रम् इवैगळिल् अवळै नान् अदिक्रमिप्पदिल्लै. पूमिक्कुच् चममान अवळ् पेच्चै मीऱिप् पेसुगिऱदिल्लै. प्रदिदिनम् युदिष्टिररुडैय वीट्टिल्, मुदलिल् 8000-प्राम्हणर्गळ् तङ्गप् पात्रङ्गळिल् पुजिक्किऱार्गळ्. युदिष्टिरर् वीट्टिल् 88000-स्नादगर्गळान क्रुहस्तर्गळ् इरुक्किण्ड्रनर्. ऒव्वॊरुवरुक्कुम् 30-तासिगळ्. इवर्गळै युदिष्टिरर् पोषिक्किऱार्. तविर, ऊर्त्वरेदस्सुगळान 10000-
 
@@ -3938,7 +3951,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अन्तःपुराणां सर्वेषां भृत्यानां चैव सर्वशः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अन्नम् तयारित्तु, पानम्, वस्त्रम् इवैगळुडन्
 इडुगिऱेन्. ऒरु लक्षम् अऴगान तासिगळ्, सर्वाबरण
@@ -3969,7 +3982,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तमहं भारमासक्त मनाधृष्यं दुरात्मभिः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 1
 </details>
@@ -3994,7 +4007,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वेलैक्कारर्गळ्, आडु, माडु मेय्प्पवर्गळ् वरैयिल् वेलै सॆय्ददु, सॆय्याददै नान् अऱिवेन्. अरसनुडैय सगल वरुम्बडिगळैयुम्, सॆलवुगळैयुम् नान् ऒरुत्तिये अऱिवेन्. पाण्डवर्गळ् ऎल्लावट्रैयुम् ऎन्निडम् वैत्तुविट्टु, पक्तियिल् ईडुबट्टिरुक्किऱार्गळ्. तुरात्माक्कळाल् वहिक्क मुडियाद अन्दप् पारत्तै, सुगत्तै विट्टुविट्टु, इरवुम्, पगलुम् वहिक्किऱेन्. वरुणनुडैयदुबोल् आक्रमिक्कमुडियाददुम्, निदि पूर्णमान समुत्रत्तै ऒत्तदुमान पॊक्किषत्तै नान् ऒरुत्तियाय्, धर्मिष्टर्गळान पदिगळिन् कोसत्तै अऱिगिऱेन्. पसि, ताहत्तै सहित्तुक्कॊण्डु पाण्डवर्गळै इरवुम्, पगलुम् आरादिक्कुम् ऎनक्कु इरवुम्, पगलुम् ऒण्ड्रे. प्रदिदिनम् मुन्नालेये ऎऴुन्दिरुप्पेन्. पिऱ्‌पाडे तूङ्गुवेन्. इदे ऎन् पदिगळै वसीगरिक्कुमुबायम्. कॆट्ट स्त्रीगळिन् आसरणत्तै नान् सॆय्यवुम् माट्टेन्, इष्टप्पडवुमाट्टेन्.
 </details>
@@ -4024,7 +4037,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वैसम्बायनर् कूऱुगिऱार्:--
 
@@ -4066,7 +4079,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सुगम् सुगत्ताल् किडैक्कादु. तुक्कत्तालेये सुगम् किडैक्कुम्. आगैयाल्, नी स्नेहत्तालुम्, अबिमानत्तालुम्, अलङ्गारत्तालुम्, श्रीक्रुष्णनै उबसरिक्कवुम्. अप्पडिये, आसनम्, मालै, ताक्षिण्यम्, पलविद वासनैगळ् इवैगळालुम् उबसरिप्पायाग. इवळुक्कु प्रियनायिरुक्किऱेन् ऎण्ड्रु उणर्न्दु, उन्नैये आलिङ्गनम् सॆय्वान्. वायिलिल् वरुम् भर्त्ताविन् कुरलैक्केट्टु, ऎऴुन्दु, वीट्टिन् मत्तियिल् निण्ड्रु कॊळ्. वीट्टिल् नुऴैन्ददुम् आसनम् पात्यजलम् इवैयुडन् उबसरिप्पायाग. तासी वॆळियिल् सॆण्ड्रिरुन्दाल् ताने सॆय्वायाग. नी सर्व पावत्तालुम् तन्नैप् पजिक्किऱाय् ऎण्ड्रु श्रीक्रुष्णन् अऱियवेण्डुम्. उन् समीबत्तिल् पदि सॊल्वदु रहस्यमिल्लाविडिनुम्, अदै वॆळियिडक्कूडादु. ऒरु सक्कळत्ति श्रीक्रुष्णनै निरागरिप्पाळ्. अदनाल् अवळिडम् वॆऱुप्पु एऱ्‌पडुम्. भर्त्तावुक्कु प्रियर्गळायुम् हिदर्गळायुमुळ्ळवर्गळै नानाविद उबायङ्गळाल् साप्पाडु सॆय्विप्पायाग. अवनुक्कु त्वेषिगळुम् अहिदर्गळुम् वञ्जगर्गळुमानवरैप् पिरिन्दुविडु. पुरुषर्गळिडम् मदम्, तवऱुदल्
 </details>
@@ -4090,7 +4103,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अनुकूला सदा भर्तुर्भव भव्यप्रदा सती ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इवैगळै विट्टु, तन् अबिप्रायत्तैत् तॆरिन्दु मौनमायिरु. उन् कुमारर्गळान प्रत्युम्नन्, साम्बन् इवर्गळैयुम् एगान्दत्तिल् उबसरिक्कादे. महागुलत्तिल् पिऱन्द पाबमट्र स्त्रीगळिडम् उनक्कु स्नेहम् इरुक्कट्टुम्. कोबमुळ्ळवरुम्, इदररै अवमदिप्पवर्गळुम्, अदिगम् पुजिप्पवरुम्, तिरुडरुम् विलक्कत्तक्कवर्गळ्. इदु कीर्त्तिगरम्, पाक्यगरम्, स्वर्क्कगरम्, सत्रु नासनम्. उयर्न्द मालै, आबरणम्, पूच्चुगळ्, तिव्यगन्दङ्गळ् इवैगळुडन् भर्त्तावै उबसरिक्कवुम्.
 
@@ -4137,7 +4150,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अवन् कोबित्ताल् पदिल् सॊल्लादे. त्रौबदियिडम् सक्कळत्तीबावत्तिलिरुक्कादे. स्नेहमाय् इरु. ताय् तन्दै ऎङ्गळै ऎल्लाम् निनैक्कादे. स्त्रीक्कुप् पदिदान् पन्दु. अवने तनम्, अवने धर्मम्, अवने तवम्.
 
@@ -4165,7 +4178,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 श्वश्रूश्वशुरयोः पादौ तोषयन्ती गुणान्विता ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कडुमैयागप्पेसप्पट्टुम्, कॆट्टबार्वैयाल् पार्क्कप्पट्टुम्
 प्रसन्नमायिरुप्पवळे पदिव्रदै. भर्त्तावैत्तविर
@@ -4215,7 +4228,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎप्पॊऴुदुम् ताय् तन्दैगळिडम् पक्तियुळ्ळवळुम्
 आनवळ् तबोदनै आवाळ्. प्राम्हणर्, तुर्प्पलर्,
@@ -4265,7 +4278,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आनुसासनिगत्तिलुम्: सदियान स्त्रीगळिन् सगल आचारङ्गळैयुम् उम्मिडमिरुन्दु केट्क विरुम्बुगिऱेन्. पिदामहरे! अदैच्चॊल्लुम्, ऎण्ड्रु युदिष्टिरर् केट्क पिष्मर् कूऱुगिऱार्:-
 
@@ -4291,7 +4304,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 नायासयामि भर्तारं कुटुम्बार्थेऽपि सर्वदा । गुप्तगुह्या सदा चास्मि सुसम्मृष्टनिवेशना । इमं धर्मपथं या हि पालयत्यखिलं सदा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अडङ्गियिरुप्पेन्. ऒरुबोदुम् ऒरुवर् मीदुम् कोळ् सॊल्ल
 माट्टेन्. वायिऱ्‌पडियिल् वॆगु नेरम् निऱ्‌कमाट्टेन्. हिदमो,
@@ -4336,7 +4349,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अरुन्ददिबोल् स्वर्क्कत्तिल् प्रकाशिप्पाळ्. इदैच् चॊल्लिविट्टु अन्द सुमनै मऱैन्दाळ्. इव्विदम् सगल तोषङ्गळैयुम् विलक्कि, धर्मप्रधानैयाय् स्त्री इरुक्कक्कडवळ्.
 
@@ -4372,7 +4385,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 रजस्वला पतिं गच्छेचण्डालो जायते ततः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राम्हणम्:-"रजस्वलैयिडम् सॆल्बवनुक्कुप् पिऱप्पवन् पदिदन्. अरण्यत्तिल् अवळिडम् सॆल्बवनुक्कुप् पिऱप्पवन् तिरुडन्. पराङ्मुगमाग इरुक्कुम् अवळिडम् सॆल्बवनुक्कुप् पिऱप्पवन् लज्जा मुगन् (तैर्यमट्रवन्). स्नानम् (अगालत्तिल्) सॆय्बवळुक्कुप्पिऱप्पवन् जलत्तिल् मरिप्पवन्. ऎण्णॆय् तेय्त्तुक्कॊळ्बवळुक्कु, कॆट्ट सर्ममुळ्ळवन्. पूमियिल् कोडु किऴिप्पवळुक्कु, मयिरिल्लादवनुम्, अबम्रुत्यु उळ्ळवनुम्. मै तीट्टिक्कॊळ्बवळुक्कु ऒरु कण्णिल्लादवन्. पल् तुलक्कुबवळुक्कु, कऱुप्पुप्पल्लन्. नगत्तै ऎडुप्पवळुक्कु, कॆट्ट नगमुडैयवन्. वॆट्टुबवळुक्कु, नबुम्सगन्. कयिऱु तिरिप्पवळुक्कु, कऴुत्तिल् सुरुक्कुप् पोट्टुक्कॊळ्बवन्. इलैयाल् कुडिप्पवळुक्कु, पैत्यक्कारन्. कुऱुगिय पात्रत्तिल् कुडिप्पवळुक्कु, कुळ्ळन् पिऱप्पान्. आगैयाल् मूण्ड्रु तिनङ्गळ् मुऴुवदुम् व्रदमिरुक्कवेण्डुम्. अञ्जलियालो अगण्ड पात्रत्तालो नीर् अरुन्दवेण्डुम्. प्रजैयिन् रक्षणत्तिऱ्‌काग", ऎन्बदु पॊरुळ्.
 
@@ -4417,7 +4430,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पावप्रकाशत्तिल्:-
 
@@ -4460,7 +4473,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सिक्तगात्रा भवेदद्भिः साङ्गोपाङ्गा कथञ्चन ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सॆय्दाल्, कर्प्पत्तिऱ्‌कुत्तोषमेऱ्‌पडुम्. अऴुगैयाल् सिसुविन् कण्णुक्कु विगारम् एऱ्‌पडुम्. नगमॆडुप्पदाल् कुनगी, अप्यङ्गत्ताल् कुष्टी, स्नानम् वासनैप्पूच्चु इवैगळाल् तुक्कि, मैयाल् पॊट्टै, पगल् तूक्कत्ताल् तूङ्गुमूञ्जि, ओडुवदाल् सञ्जलन्, उरत्त सप्तम् केट्पदाल् सॆविडु, सिरिप्पदाल् कऱुप्पु उदडु ताळ् नाक्कुडैयवन्, अदिगप्पेच्चाल् प्रलाबि, तिरिदलाल् पैत्यक्कारन्, पूमियै वॆट्टुवदाल् मॊट्टै, काट्रुच् चेवैयाल् पैत्यक्कारन् पिऱप्पान्.
 
@@ -4503,7 +4516,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तेहम् मुऴुवदैयुम् ननैत्तुक्कॊण्डु वस्त्रत्तैप् पिऴियामलुम्, वेऱु वस्त्रम् तरिक्कामलुम् अप्पडिये इरुक्कवेण्डियदु.
 
@@ -4549,7 +4562,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मुन्बानाल् मुदल् नाळ् मुदल् कणक्कु ऎण्ड्रु सॊल्लियिरुक्किऱदु.
 
@@ -4597,7 +4610,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 विज्ञानेस्वरर्:-
 
@@ -4651,7 +4664,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अङ्गिरस्:-
 
@@ -4700,7 +4713,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सङ्गवत्तिल् स्नानम् सॆय्यवेण्डुम्. रजस्सिल् सङ्गवत्तिऱ्‌कुप् पिऱगु स्नानम् च्लाक्यमानदु.
 
@@ -4744,7 +4757,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ब्राह्मण्योः स्पर्शे तत आरभ्य स्नानपर्यन्त मुभयोराहारत्यागः । त्रिरात्रं कृच्छ्रं च । एतच्च सहशयनादिचिरस्पर्शविषयम् । सकृत्
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द विषयत्तिल् स्नानम् सॆय्युम् विदम्:-
 
@@ -4786,7 +4799,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 शुना पुष्पवती स्पृष्टा पुष्पवत्याऽन्यया तथा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 विषयत्तिल्. ऒरु तडवै तॊट्टाल्, ऒरु रात्रि उबवासमुम् पञ्जगव्य प्रासनमुम्. स्नानबर्यन्दम् आहारत्यागमुम्.
 
@@ -4829,7 +4842,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 आग्नेयपुराणेऽपि निर्वृत्यैवं त्रिदिवसं स्नात्वा स्नानदिने शुचिः । हरिद्राकुङ्कुमालेपलेपिता शुभ्रवस्त्रका ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तॊट्टुच् चुत्तैयावाळ्' ऎण्ड्र सम्वर्त्त वाक्यम् इष्टमिल्लामल् तॊट्ट विषयम्.
 
@@ -4876,7 +4889,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्मरित्तुक्कॊण्डु, तन् पादक् कट्टैविरलैप् पार्त्तुक् कॊण्डु इदरर्गळैप्पारामल्, पदियैच् चिवनाग त्यानम् सॆय्दुगॊण्डु, नल्ल मनदुडन्, कन्द पुष्पालङ्ग्रुदैयाय् सयनम् सॆय्यवुम्.
 
@@ -4897,7 +4910,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 > </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कुणत्तिल् अहङ्गारमडैन्द स्त्री भर्त्तावै
 अदिक्रमित्ताल्. अरसन् वॆगु जनङ्गळडङ्गिय इडत्तिल्,
@@ -4932,7 +4945,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अस्यार्थो माधवीयेवरः प्रार्थयते इमां कन्या मितः पितृगृहात् प्रमुञ्चामि नामुतः
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्रम्हाण्ड पुराणत्तिल्, व्यासर्: सर्व लक्षणङ्गळुम् पॊरुन्दियवळायिनुम्, भर्त्तावै अदिक्रमित्ताल् अवळैत् तळ्ळवेण्डियदु.
 
@@ -4977,7 +4990,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 साक्रमेधेषु द्राह्यायणसूत्रेजामी कुमारी वा या स्यात् पतिकामा सा परीयात् । त्र्यम्बकं
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 यजुर्वेदत्तिलुम् इदे मन्द्रमिरुक्किऱदु. अव्विडम् हरदत्तबाष्यत्तिल्-
 
@@ -5023,7 +5036,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎण्ड्रु सॊल्लिक्कॊण्डु, अदिल् 'म्रुत्यो:' ऎन्नुमिडत्तिल् 'इद:' (इन्दप् पिदाविन् वीट्टिलिरुन्दु) किळम्बुवेन्, ऎण्ड्रु सॊल्लिक्कॊण्डु, पिदाविन् वीट्टिलिरुन्दु किळम्बवेण्डियदु. 'माम्रुदात्' ऎन्नुमिडत्तिल्, 'मामुद:' (इन्दप् पदि वीट्टिलिरुन्दु किळम्बमाट्टेन्) ऎण्ड्रु सॊल्लिक्कॊण्डु, पदियिन् वीट्टैक् काट्टवेण्डियदु. श्रीमन्नारायण स्वरूबियान पदियिन् वीट्टिलिरुन्दु किळम्बमाट्टेन् ऎण्ड्रु पॊरुळ्.
 
@@ -5045,7 +5058,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अत्र शकुन्तलया पुनः कदा आगमिष्यामीति पृष्टः कण्वः, गार्हस्थ्ये त्रिवर्गफलं सम्पाद्य वानप्रस्थाश्रमार्थं भर्त्रा सह पुनरागमिष्यसीत्युक्तवान् । इदं तूत्तरं, शकुन्तलाभिप्रायानुगुणतया स्पष्टं न दृश्यते, तस्मादेतस्याभिप्रायः एवं प्रतिभाति । यासां समन्त्रकब्राह्मादिविवाहस्ताभिर्मन्त्रार्थो ज्ञात इति पितृगृहागमनं न प्रार्थ्यत एव । अस्यास्तु गान्धर्व एव विवाहः । स चामन्त्रकः, अतः तदर्थानभिज्ञानादेवं पृष्टवती, एतस्य च पुनरागमनं शास्त्रीयं न भवतीति निषेधपूर्वकमुक्तं चेत्तस्या मनसि क्लेशो भविष्यति । भर्तृगृहं प्रति
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द अर्त्तम् काळिदासनालुम् सॊल्लप्पट्टिरुक्किऱदु.
 ’अप्पा! मऱुबडियुम् ऎप्पॊऴुदु तबोवनत्तैप् पार्प्पेन्’
@@ -5092,7 +5105,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अनुप्पवेण्डुम्. रुषिगळ् पॊय् सॊल्लुवदुम् पिसगु. आगैयाल् मऱुबडि वरुवदैत् तडुप्पदऱ्‌कागवे वसनत्ताल् वानप्रस्ताच्रमत्तिऱ्‌कु वरुवाय् ऎण्ड्रु सॊन्नार्.
 
@@ -5135,7 +5148,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रुदुस्नानम् सॆय्द स्त्री तन् पदियै अणुगाविडिल्, नाय्, नरि, पण्ड्रि जन्मङ्गळै अडैगिऱाळ्.
 
@@ -5169,7 +5182,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 गर्भिणी कुञ्जराश्वादिशैलहर्म्यादिरोहणम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पोदुम् इरुक्कक्कूडादु. वडक्किल् तलैयै वैत्तुत् तूङ्गुवदु, कीऴे तलैयै वैत्तु उऱङ्गुवदु, वस्त्रमिल्लामलिरुप्पदु, पयम्, ननैन्द कालुडनिरुप्पदु इवैगळ् कूडादु. अमङ्गळप् पेच्चु, अदिगच् चिरिप्पु इवैगळैयुम् वर्जिक्क वेण्डुम्. मामियार्, मामनार् इवर्गळुक्कु ऎप्पोदुम् पूजै सॆय्यवेण्डुम्. प्रसन्न मुगत्तुडन् भर्त्ताविन् प्रिय हिदत्तैक् कोरुबवळायुमिरुक्कवेण्डुम्.
 
@@ -5201,7 +5214,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 नो मार्जनीगोमयपीटकादौ कुर्यान्न वारिण्यवगाहनं च ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 च्रमम्, सीक्रमाय्प् पोवदु, वण्डि एऱुवदु इवैगळैक् कर्प्पिणि तळ्ळवेण्डुम्. सोगम्, रक्तम् सिन्दुवदु, पयम्, कुक्कुडासनम् ,व्यवसायम्, पगलिल् तूक्कम्, रात्रियिल् विऴित्तिरुप्पदु इवैगळै विडवुम्. अदिग उप्पु, अदिगप् पुळि, अदिगच् चाप्पाडु, अदिग उष्णम्, अदिग सीदम्, वलुत्त आहारम्. इवैगळै विलक्कवेण्डुम्. इम्मादिरि स्त्रीगळ् इरुक्कवेण्डुम्. विशेषमाय् कर्प्पिणिगळ् इरुक्क वेण्डुम्. अवळिडम्, पिऱक्कुम् पुत्रन् स्तिरमान आयुर्व्रुत्तियुडन् इरुप्पान्. इल्लाविडिल् कर्प्पम् विऴुन्दुविडुम्.
 
@@ -5241,7 +5254,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 काश्यपः– गर्भधारणमारभ्य व्यायामव्यसनानि च ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 करियालुम्, नगत्तालुम् पूमियिल् ऎऴुदुवदागादु. सण्डै पोडुवदुम्, तेहच्रममुम् कूडादु. तलै विरित्तिरुप्पदु, वीणासै, सन्द्यागालत्तिल् साप्पिडुवदु, उऱङ्गुवदु, कॆट्टवार्त्तै पेसुवदु, सून्यक्रुहम्, मरत्तडि इवैगळुक्कुप् पोवदुम् कूडादु.
 
@@ -5289,7 +5302,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मुदलिय व्यसनङ्गळ्, सॆदुक्कुवदु, पगलिल् तूक्कम्, इरविल् विऴिप्पु, यानै कुदिरै इवैगळिल् एऱुवदु, सोगवेगत्तै अडक्कुवदु, विरेसनम्, पुळित्त अन्नत्तैप् पुजिप्पदु इवैगळै वर्जिक्कवुम्.
 
@@ -5337,7 +5350,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अथोपस्थितगर्भां तां कृतकौतुकमङ्गळाम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कर्क्कर्:-
 
@@ -5390,7 +5403,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्नानम् सॆय्विक्कप्पट्टवळुमान अवळै, नॆय्युडन् कूडिय पानत्तैप् परुगच् चॆय्यवेण्डुम्.
 
@@ -5427,7 +5440,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > यथा 'न हिंस्यात् सर्वभूता'नीति
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ओय्! इङ्गु स्त्रीगळुक्कु,भर्त्तावोडु मरिप्पदु धर्म्यमॆण्ड्रु सॊल्लियदु पॊरुन्दाददु. आत्महत्यारूबमानदाल्, निषेदिक्कप्पट्टिरुप्पदाल्.
 
@@ -5469,7 +5482,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 न तथा विभिमो वह्नेः न तथा विद्युतो यथा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पादमो, इव्विदम्, अनुमाणवसनङ्गळाल्, सामान्यमान आत्महत्यानिषेदवसनत्तिऱ्‌कुप् पादम्.
 
@@ -5519,7 +5532,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अव्विदम् पयमडैयोम्. वरुगिण्ड्र पदिव्रदैयैक्कण्डु ऎव्विदम् पयमडैवोमो. पदिव्रदैयिनुडैय तेजस्सैक्कण्डाल्, सूर्यनुम् ताबत्तैयडैगिऱान्. अक्नियुम् ताहत्तैयडैगिऱान्. मट्रत् तेजस्सुगळुम् नडुङ्गुगिण्ड्रन. अनुगमनम् सॆय्द पदिव्रदै, तन् तेहत्तिल् ऎव्वळवु रोमङ्गळुळ्ळनवो अव्वळवु कोडिप्पदिनायिरम् वरुषगालम्वरैयिल्, स्वर्क्कलोकत्तिल् भर्त्तावुडन् क्रीडिप्पवळाय् सुगत्तै अनुबविप्पाळ्.
 
@@ -5563,7 +5576,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 कर्तुं शक्यम् ॥
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नयत् तन् विनैगळाल् नडुङ्गियवनाय् इरुप्पिनुम्, प्रबहक्ननायिनुम्, क्रुदक्ननायिनुम्, मित्रक्ननायिनुम्, पदियै अनुमरणम्सॆय्द पदिव्रदै, पाबियान तन् पदियैच् चुत्तनाक्कुगिण्ड्राळ्.
 
@@ -5599,7 +5612,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कलियुगत्तिलो, 'कलियुगत्तिलो इन्दत् धर्मङ्गळै वर्ज्यङ्गळागप् पुत्तिमान्गळ् सॊल्लुगिण्ड्रनर्, मरणान्दिगप्रायच्चित्तमुम् कूडादु" ऎण्ड्रु, मरणान्दिगप्रायच्चित्तम् निषित्तमायिरुप्पदाल्, इदु सॆय्यत् तगुन्ददा, तगाददा, ऎण्ड्रु महान्गळाल् विसारिक्कत् तगुन्ददु.
 
@@ -5628,7 +5641,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 एवं केकयराजेन स्वस्त्रियं प्रतिकरोति विप्रियं भर्तुः या नारी सकृदेव हि ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इव्विदम्, पगवानागिय रामनुम्, कैगेयी तसरदरुक्कुच् चॆय्द प्रदिगूलासरणत्तिऱ्‌कु प्रायच्चित्तमिल्लै ऎण्ड्रु अबिप्रायप् पट्टे, "धर्मऱिन्दवरे! कैगेयिक्कुम् परदनुक्कुम् अनुग्रहम् सॆय्वीराग" ऎण्ड्रार्. अन्द महाराजनुम् अव्विदमे सॆय्गिऱेन् ऎण्ड्रार्, ऎण्ड्रबडि, तसादनै प्रसादनम् सॆय्दार् ऎण्ड्रुळ्ळदु.
 
@@ -5664,7 +5677,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > कामात् द्वेषान्मत्सराद्वा भर्तारं याज्यमन्यते ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अवळ् तप्तदैलमॆनुम् नरगत्तै अनुबवित्तुप् पिऱगु पिऱवियिल् विदवैयाग आवाळ्. पक्तियुडन् भर्त्तावुक्कुप् पणिविडै सॆय्वदे स्त्रीगळुक्कुत् तवमॆनप् पडुगिऱदु. नान् जीवित्तिरुन्दाल्, उनक्कु स्वर्क्कसादनमान पुण्यम् किडैक्कुम्. स्त्री, पादिव्रत्य पुण्यत्ताल् वैगुण्डत्तै अडैवाळ्. पादिव्रत्य मिल्लादवळ् सगल तीर्त्तङ्गळिलुम् स्नानम् सॆय्दवळायिनुम् नरगत्तैयडैवाळ्' ऎण्ड्रार्.
 
@@ -5700,7 +5713,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ननु ! इदमनुगमनं क्षत्रियाण्यादीनां भवतु । ब्राह्मण्यास्तु निषिद्धम् । तथा च पैठीनसिः
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मत्सरत्तालो भर्त्तावै अवमदिक्किण्ड्राळो अवळ् एऴु जन्मङ्गळ् वरैयिल् नरगत्तैयडैवाळ्, सम्सयमिल्लै ऎवळ्, उयिरालो, पणत्तालो भर्त्तावै वञ्जिप्पाळो अवळ् नूऱु पिऱविगळिल् पुऴुवाय्प् पिऱन्दु पिऱगु सण्डाळियाय्प् पिऱप्पाळ्. ऎवळ् तरित्रन्, अल्लदु व्यादियुळ्ळवन्, अल्लदु मूर्क्कनान पदियै अवमदिक्किण्ड्राळो अवळ् इऱन्द पिऱगु पॆण् पण्ड्रियाय्प् पल मुऱै पिऱप्पाळ्.
 
@@ -5740,7 +5753,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अनुगमनम् कूडादु, प्रप्हाविन् आज्ञैयाल्. मट्र वर्णत्तारुक्कु इदु सिऱन्द धर्ममॆनच् चॊल्लप्पट्टुळ्ळदु. प्राम्हणी, इऱन्द भर्त्तावुडन् इऱक्कामल् जीवित्तिरुन्दाल् ऎव्वळवु उबगारम् सॆय्वाळो, अव्वळवु उबगारत्तै मरित्तदाल् सॆय्वदिल्लै. जीवित्तिरुक्कुम् भर्त्तावै अनुसरित्तु वाऴवेण्डुम्. इऱन्दाल् अवनुडन् अनुमरणम् सॆय्यक्कूडादु. जीवित्तिरुन्दाल् भर्त्तावुक्कुप् परलोक हिदमान कार्यत्तैच् चॆय्यलामल्लवा. मरित्ताल् आत्म हत्यैयैच् चॆय्दवळावाळ्.
 
@@ -5755,7 +5768,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 > </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राम्हणियान ऎन्द स्त्री इऱन्द पदियै अनुसरित्तु मरिक्किण्ड्राळो अवळ् आक्महत्या पाबत्ताल् तानुम् स्वर्क्कत्तै अडैवदिल्लै, पदियैयुम् अडैय वैप्पदिल्लै.
 
@@ -5791,7 +5804,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तद्वैगुण्यादपि स्वर्गात् पतिः पतति नान्यथा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎण्ड्रुळ्ळदे यॆनिल्, अन्द अनुगमन निषेद वसनङ्गळ् प्राम्हणिक्कुत् तनिच् चिदैयिल् एऱि मरिप्पदु विषय मागियदाल्.
 
@@ -5836,7 +5849,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सम्सयमिल्लै. अवळिन् पिदा, माद, प्रादाक्कळ् ऎल्लोरुम् स्वर्क्कत्तिलिरुन्दु नऴुवुवार्गळ्.
 
@@ -5884,7 +5897,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पात्तावुक्कुम्, अवन् पिदावुक्कुम्, अवनिन् पिदावुक्कुम् नाम कोत्रम् मुदलियदै उच्चरित्तुत् तर्प्पणम् सॆय्यवुम्.
 
@@ -5922,7 +5935,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 आश्वलायनःविधवाकबरीबन्धो भर्तृबन्धाय जायते ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इङ्गु नामदेयत्तैयुम् क्रहिक्कक् कूडादॆण्ड्रदाल्, स्त्रीगळुक्कुप् परबुरुषस्पर्सम् मुदलियदुम् वर्जिक्कत् तगुन्ददु.
 
@@ -5972,7 +5985,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पन्दत्तिऱ्‌कागिण्ड्रदु. आगैयाल् विदवै ऎप्पॊऴुदुम् वबनम् सॆय्दु कॊळ्ळवेण्डुम्. विदवै ऒरुगालुम् तेहत्तैत् तेय्त्तुक्कॊळ्ळक्कूडादु. वासनै त्रव्यङ्गळैच् चेर्त्तुक् कॊळ्ळक्कूडादु. अव्विदमे, प्राणन्गळ् पोगुम् समयत्तिलुम्, ऎरुदिन् मेल् एऱक्कूडादु. रविक्कैयै अणियक्कूडादु. सायमिट्ट वस्त्रत्तै उडुक्कक्कूडादु. पिळ्ळैगळैक् केट्काबल् ऒरु कार्यत्तैयुम् सॆय्यक्कूडादु.
 
@@ -6006,7 +6019,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 औरसानन्तरं क्षेत्रजस्य पिण्डदाने अंशग्रहणे चाधिकारं वदन् तस्य प्राबल्यमाह याज्ञवल्क्यः
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तविर वेऱु पुरुषनोडु सम्सर्क्कम् सॆय्दाल्, उलगत्तिल् निन्दैयै अडैवाळ्. नरियाय्प् पिऱप्पाळ्. पाब रोगङ्गळालुम् पीडिक्कप्पडुवाळ्.
 
@@ -6042,7 +6055,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पिऱन्दवन् औरसनॆनप्पडुवान्. पुत्रिगाबुत्रनुम् अवनुक्कुच् चममानवन्. तन् पत्नियिनिडम्, सगोदरनालो, अन्य सगोदरनालो उण्डानवन् क्षेत्रजादन् ऎनप्पडुवान्. वीट्टिल् मऱैवाय् उण्डानवन् कूडजन् ऎनप्पडुवान्. विवाहमागादवळिडम् पिऱन्दवन् कानीनन् ऎनप्पडुवान्. इवन् मादामहनिन् पिळ्ळै आवान्, अक्षदैयागवो, क्षदैयागवो उळ्ळ, पुनर्प्पूविनिडत्तिल् (इरु मुऱै विवाहम् सॆय्यप्पट्टवळ्) पिऱन्दवन् पौनर्प्पवन्. ताय्, अल्लदु पिदाविनाल् ऎन्दप् पुत्रन् कॊडुक्कप्पट्टानो अवन् तत्तन् ऎनप्पडुवान्. ताय्, अल्लदु पिदाविनाल् विऱ्‌कप्पट्टवन् क्रीदन् ऎनप्पडुवान्. तानागवे ऒरुवनैप् पुत्रनाय्च् चॆय्दुगॊण्डाल् अवन् क्रुत्रिमन् ऎनप्पडुवान्. तानागवे तन्नैक् कॊडुत्तवन् तत्तात्मा ऎनप्पडुवान्. कर्प्पिणियायिरुप्पवळै मणन्दु, पिऱगु अवळिडम् पिऱन्दवन् सहोडजन्. मादा पिदाक्कळाल् तळ्ळप्पट्टु ऎवन् क्रहिक्कप्पडुगिऱानो अवन् अबवित्तन् ऎनप्पडुवान्. इन्दप् पिळ्ळैगळुळ्, मुन्दियवन् इल्लाविडिल् पिन्दियवन्, पिण्डदानत्तिलुम्, तनत्तै अडैवदिलुम् अदिगारियागिऱान्" ऎण्ड्रु.
 </details>
@@ -6064,7 +6077,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 'दत्तौरसेतरेषां च पुत्रत्वेन परिग्रहः' इति वचनेन कलौ निन्दितानां युगान्तरविषयत्वात् दत्तपुत्रेणापि
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आगैयाल्दान् स्त्रीगळाल्, क्षेत्रजरान पुत्रर्गळ् सम्बादिक्कप् पट्टार्गळ् ऎण्ड्रु सॊल्लप् पट्टुळ्ळदु. आदि पर्वत्तिल्:-
 
@@ -6103,7 +6116,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पुत्रवत्व मेऱ्‌पडुमागैयाल्. "स्त्री पुत्रनैक् कॊडुक्कक् कूडादु, वाङ्गवुम् कूडादु" ऎण्ड्र निषेदमुमिल्लै. अन्द निषेदम् मरण कालत्तिल् भर्त्ता अनुक्ञै कॊडुक्काविडिल् ऎण्ड्र विषयत्तैप् पट्रियदाल्.
 
@@ -6150,7 +6163,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इरुन्दु, कुलत्तै वरुत्ति सॆय्यामले स्वर्क्कत्तै अडैन्दनर्. भर्त्ता इऱन्द पिऱगु, पदिव्रदैयान स्त्री, प्रम्हसर्य व्रदत्तिलिरुन्दाल्, अवळ् पुत्रनिल्लादवळायिनुम्, अन्द प्रम्हसारिगळ् पोल् स्वर्क्कत्तै अडैवाळ्. ऎवळ्, पुत्रनिन् आसैयाल् भर्त्तावै अदिक्रमिक्किण्ड्राळो अवळ् इव्वुलगिल् पऴिप्पै अडैवाळ्, परलोकत्तिनिण्ड्रुम् नऴुवुवाळ्.
 
@@ -6191,7 +6204,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अव्विदमे व्यासर्:-
 
@@ -6233,7 +6246,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्त्रीगळुक्कु विहिदमान प्रायच्चित्तत्तिल् वबनम् प्रसक्तमानाल् विशेषत्तैच् चॊल्लुगिऱार्:-
 
@@ -6259,7 +6272,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 न स्त्रियाः केशवपनं, शिरसो मुण्डनं इत्यनयोरन्योन्यविरोधः न शङ्कनीयः । निषेधस्य कृत्स्नमौण्ड्य विषयत्वात् । केशाग्रकर्तनमेत्र मुण्डनं पूर्वत्र विहितम् । अतो न विरोधः । संविशन्तीषु संवेशनमित्यनेन गृहमद्ध्ये ग्रामाद्बहिर्दूरे वा यत्र गावस्तत्र शयनं प्राप्तम् । तन्निवारणाय न दूरे शयनमित्युक्तम् । रात्रौ गोष्ठे स्थानं, दिवा गवामनुव्रजनं च पुंसामेव न स्त्रियाः । नदीसङ्गमे वा अरण्येषु वा वासो यद्यपि साक्षात् पूर्वमुक्तः, गोऽनुगामीति शास्त्रतः प्रसक्तमनुगमनम्, अतस्तदुभयं निवार्यते । चर्मणाऽऽद्रेण संवृत इत्यादिना
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इवै वेण्डियदिल्लै. नदिगळिलुम्, नदिगळ् कूडुमिडङ्गळिलुम्, काडुगळिलुम् अवर्गळ् इरुक्कवेण्डियदिल्लै. अवर्गळुक्कुत् तोल् उडुप्पदॆन्बदुम् वेण्डियदिल्लै. मट्र नियमत्तुडन् व्रदत्तै अनुष्टिक्क वेण्डुम्.
 
@@ -6301,7 +6314,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अत्र भर्तुः पूर्वं मृता, भर्त्रा सहानुगता, भर्त्रनन्तरं यावज्जीवं ब्रह्मचर्यादिना युक्ता या तासां तिसृणां पतिव्रतानां भर्तृसालोक्यमेव फलम् । तथा च भारते शकुन्तळोपाख्याने
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎन्बदाल् विहिदमान तोलै उडुप्पदॆन्बदुम् विलक्कप्पडुगिऱदु. 'व्रदत्तैये अनुष्टिक्कवुम्' ऎण्ड्र एवगारत्ताल्, सॊल्लप्पट्ट अङ्गङ्गळिन् अनुव्रुत्तिये अनुमतिक्कप् पडुगिऱदु.
 
@@ -6348,7 +6361,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎवळ् ऎप्पॊऴुदुम् पदिव्रदैयायुळ्ळवळो अवळ् भर्त्तावै अडैगिऱाळ्. भर्त्तावुक्कु मुन् इऱन्दवळ् परलोकत्तिल् भर्त्तावै प्रदीक्षिक्किण्ड्राळ्. मुन् इऱन्द भर्त्तावै पदिव्कदैयायुळ्ळवळ् पिऱगु अडैगिऱाळ्. ओ! अरसने इक्कारणत्तिनाल्दान् पाणिक्रहणम् विधिक्कप् पडुगिऱदु. ऎक्कारणत्ताल् पदियानवन् पार्यैयै इव्वुलगत्तिलुम् परलोकत्तिलुमडैगिण्ड्रानो, आगैयाल्दान् प्रम्हसर्यत्तुडनिरुन्द कुन्दिक्कुम्, अनुगमनम् सॆय्द मात्रिक्कुम् पदिलोक प्राप्ति सॊल्लप्पट्टुळ्ळदु स्वर्गारोहणिगत्तिल् :-
 
@@ -6386,7 +6399,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > तत्र हि शाकुनिकपञ्जर निरुद्धा कपोती, स्वप्राणेषु नैराश्यावस्थायामपि भर्तुर्यद्धितं तदेवोपदिष्टवती त्युक्तम् । तथाहि ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राणन्गळैयुम् पॊरुट्पडुत्तामल् सॆय्यवेण्डुम् ऎन्बदु, नमदु रामायण धर्मागूदत्तिल्:-
 
@@ -6435,7 +6448,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 युदिष्टिरर्:-
 
@@ -6480,7 +6493,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 स वै क्षारकमादाय वने हत्वा च पक्षिणः । चकार विक्रयं तेषां पतङ्गानां नराधिप ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इक् कदैयैक् केट्पायाग. पार्त्त! मुऱ्‌कालत्तिल् मुसुगुन्दनॆनुम् अरसन्, पार्क्कवरै (सुत्रासार्यरै) नमस्करित्तुक् केट्टान्. केट्क विरुप्पमुट्र अवनुक्कु, सुक्रासार्यन् कबोदम् सित्तिबॆट्र इक्कदैयै उरैत्तार्.
 
@@ -6526,7 +6539,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इव्विदम् वरुत्तियुडनिरुक्कुम् अन्दत् तुर्प्पुत्तिक्कु वॆगु कालम् सॆण्ड्रदु. इवन् धर्मत्तै अऱियविल्लै.
 
@@ -6568,7 +6581,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वेगत्ताल् पक्षिगळ् किळैगळिलो, मरङ्गळिलो इरुक्क मुडियविल्लै. मान्गळ्, सिङ्गङ्गळ्, पण्ड्रिगळ्, अक्काट्टिलुळ्ळ मट्र म्रुगङ्गळ् ऎल्लाम् पॆरिय काट्रु मऴैयाल् पयमुऱुत्तप्पट्टन.
 
@@ -6613,7 +6626,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सरणडैगिऱेन् ऎण्ड्रु वाक्यत्तैच् चॊन्नान्. पिऱगु इलैगळैप् पूमियिल् परप्पि, कल्लिल् तलैयै वैत्तु, मिक्क तुक्कत्तुडन् कूडियवनाय् नित्रै सॆय्दान्.
 
@@ -6661,7 +6674,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पयन्. पदिव्रदैयान पत्नी प्राणन्गळै विडच् चिऱन्दवळ्. एऴैयान अवळ् कळैप्पुट्रवनुम्, पसियाल् वरुन्दियवनुमान ऎन्नै निनैत्तिरुप्पाळ्. अवळ् ऎन्निडम् रागमुडैयवळ्, हिदम् सॆय्बवळ्, स्नेहमुडैयवळ्, पदिव्रदैयानवळ्. ऎवनुक्कु अव्विदमान पार्यैयो अवने पुवियिल् तन्यनावान्. इव्वुलगिल् क्रुहस्तनुक्कुप् पार्यैये सिऱन्द धर्ममॆण्ड्रु सॊल्लप्पडुगिऱाळ्. इव्वुलगिल् सहायमट्रवनुक्कुप् पिऴैप्पुक्कु उदवियायुळ्ळवळ्. मट्रुम् मोहमडैन्दुम्, कष्टमडैन्दु मुळ्ळवनुक्कु, पार्यैक्कुच् चममान मित्रनिल्लै. व्यादियुट्रवनुक्कु अवळ् पोण्ड्र मरुन्दुमिल्लै. पार्यैक्कुच् चममान पन्दु इल्लै. कदियुमिल्लै. धर्मत्तैच् चादिप्पदिल् अवळुक्कुच् चममान सहायनुमिल्लै. इव्विदम् अऴुगिण्ड्र पुऱाविन् वार्त्तैयै अन्द वेडनाल् पिडिक्कप्पट्टुक् कूण्डिलडैक्कप्पट्टु मरत्तिनडियिलुळ्ळ पॆण् पुऱा सॆवियुट्रदु.
 
@@ -6693,7 +6706,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अडैन्द भर्त्तावल्लवो सिऱन्द सरणमागिण्ड्रान्, ऎण्ड्रु आलोसित्तु,तुक्कमडैन्ददाय्, वेडनाल् पिडिक्कप्पट्टुळ्ळ पॆण् पुऱा तुक्कमडैन्दुळ्ळ कणवनै नोक्किच् चॊल्लिट्रु.
 
@@ -6743,7 +6756,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अव्विदमागिय नीर् पॆण्बिळ्ळैगळै उडैयवरा यिरुक्किण्ड्रीर्. आगैयाल् तन् तेहत्तिल् तयैयै विट्टु, धर्मार्त्तङ्गळै मदित्तु, इवनदु मनम् ऎव्विदम् सन्दोषिक्कुमो अव्विदमाय् पूजैयैच् चॆय्यवेण्डुम्. इव्विदम्, वेडन् कूट्टिऱ्‌कुळ् इरुक्कुम् तुक्कमुडैय अप्पॆण् पुऱा सॊल्लिविट्टु, वॆगु तुक्कमुडैयदाय्त् तन् कणवनै नोक्कियदु.
 
@@ -6788,7 +6801,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎङ्गळ् वीट्टै अडैन्दिरुक्किऱीर्. पञ्ज यज्ञङ्गळ् सॆय्युम् क्रुहस्तन्, तन् वीट्टिऱ्‌कु वन्दवनुक्कु अदिदिबूजैयै अवच्यम् सॆय्यवेण्डुम्. ऎन्द क्रुहस्तन्, अऱियामैयाल् पञ्जमहायक्ञङ्गळैच् चॆय्वदिल्लैयो, अवनुक्कु इव्वुलगुमिल्लै, धर्मत्ताल् किडैक्कवेण्डिय परलोकमुमिल्लै. आगैयाल् नीर् कबडमट्रुच् चॊल्लुम्. नीर् सॊल्लुवदै ऎल्लाम् सॆय्गिऱेन्. वरुत्तप्पडवेण्डाम्. इव्विदम् सॊल्लिय पक्षियिन् वार्त्तैयैक् केट्टु, वेडन् सॊल्ललुट्रान्.
 
@@ -6830,7 +6843,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पडियेसॆय्गिऱेन् ऎण्ड्रु सॊल्लि वेडन् तन् अङ्गङ्गळैक् काय्च्चिनान्. नॆरुप्पिनाल् प्राणनैत् तिरुम्बप् पॆट्र अव्वेडन्, 'ऎन्नैप् पसि मिगवुम् वरुत्तुगिण्ड्रदु, उन्नाल् कॊडुक्कप्पडुम् आहारत्तै विरुम्बुगिण्ड्रेन्' ऎण्ड्रान्.
 
@@ -6858,7 +6871,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 श्रीभीष्मःततस्तु लुब्धकः पश्यन् कृपयाऽभिपरिप्लुतः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अप्पुऱा मऱुबडि सॊल्लिट्रु. 'तेवर्गळ्, पित्रुक्कळ्, रुषिगळ् इवरिडमिरुन्दु मुन् नान् केट्टुळ्ळेन्, 'अदिदियैप् पूजिप्पदिल् पॆरिय पुण्यम् उण्डागिण्ड्रदु’ ऎण्ड्रु. आगैयाल् ऎनक्कु नीर् अनुग्रहम् सॆय्यवेण्डुम्. उमक्कु सत्यमाय्च् चॊल्लुगिऱेन्. अदिदि पूजैयिल् ऎन् पुत्ति त्रुडमायुळ्ळदु, ऎण्ड्रु सॊल्लि अन्दप् पक्षी सन्दोषत्तुडनेये अन्द अक्नियै मूण्ड्रु मुऱै वलमाय्च् चुट्रि अदिल् नुऴैन्दुविट्टदु.
 
@@ -6890,7 +6903,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 दृष्टो हि धर्मो धर्मिष्ठो यादृशोऽसौ विहङ्गमः !
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तयैयाल् ननैन्दु मऱुबडि सॊल्लुगिऱान्:-
 
@@ -6940,7 +6953,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इव्विदम् सॊल्लि निच्चयित्तु, कॊडिय कर्ममुडैय अन्द वेडन्, तीव्रमान नियममुडैयवनाय्, महाप्रस्तानत्तै एट्रु, (वडक्कु मुगमाय्) सॆण्ड्रान्. अदऱ्‌कु मुन्बे, तनदु कऴि, सलागै, वलै इवैगळै अव्विडत्तिल् ऎऱिन्दुविट्टु, कूट्टिल् अडैक्कप्पट्ट पॆण् पुऱावैयुम् वॆळियिल् विट्टुविट्टान्.
 
@@ -6975,7 +6988,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 दावाग्रिनेत्र निर्दग्धा सपुष्पस्तवका लता ॥
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पट्टेन्. ऒ प्रियरे! मलैगळिन् कुगैगळिलुम् नदिगळिन्
 अरुविगळिलुम्, अऴगिय मरङ्गळिन् नुनिगळिलुम् उम्माल्
@@ -7022,7 +7035,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ओनाद! नीर् इल्लाद पॊऴुदु इनि ऎनक्कु उयिराल् ऎन्न पयनिरुक्किऱदु. पदियट्रवळॆवळो अवळ् पिऴैत्तिरुक्क विरुम्बलागादु.
 
@@ -7060,7 +7073,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पीष्मर्:-
 
@@ -7109,7 +7122,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कॊडिगळुम् निऱैन्द अक् काट्टिल् सुट्रिनान्. पिऱगु पॆरुङ् गाट्रिनाल् तळ्ळप्पट्ट मरङ्गळिन् उरैदलाल् पॆरुम् ती उण्डायिट्रु. अदु प्रळयगालाक्निबोल् वळर्न्दु, मरम्, सॆडि, कॊडिगळडर्न्द अक्काट्टै ऎरित्तदु. ज्वालैयुडन् कूडिय पॊऱिगळ् काट्रिनाल् नान्गु पुऱमुम् वीसप्पड म्रुग, पक्षिगळुडन्गूडिय अक्काट्टै ऎरित्तदु. अन्द वेडन् अन्दत् तीयैप् पार्त्तु कळिक्कुम् मनदुडन्, तन् तेहत्तै विडुवदऱ्‌कु अदनिडम् सॆण्ड्रान्.
 
@@ -7153,7 +7166,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मट्र ऎन्द स्त्रीयावदु इव्विदम् भर्त्तावै अनुसरिप्पाळागिल्, अवळ् पॆण् पुऱावैप्पोल् स्वर्क्कत्तिलिरुन्दु प्रकाशिप्पाळ्. सन्देहमिल्लै. ओ धर्मिष्टने! इन्दप् पॆरुम् धर्मत्तै उनक्कुच् चॊन्नेन्. पसुवदम् सॆय्बवनुक्कुम् पाबत्तिऱ्‌कु प्रायच्चित्तमुण्डु. सरणडैन्दवनै हिम्सिप्पवनुक्कु प्रायच्चित्तमे इल्लै.
 
@@ -7197,7 +7210,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 '
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎनक्कु वेलैक्कारियैक् कॊडु, नान् पणत्तैक् कॊडुत्तु वाङ्गुगिण्ड्रवनागिऱेन्. सरियान इन्दप् पणत्तैप् पॆट्रुक्कॊळ्. पॆण्णै ऎनक्कुक् कॊडु' ऎण्ड्रान्. अरसन् सम्मदिक्क अन्द अन्दणन् अरसनिन् मरयुरियिन् तलैप्पिल् पणत्तै इऱुगक् कट्टिविट्टु, अरसनिन् मनैवियै मयिरिल् पिडित्तु इऴुत्तान्.
 
@@ -7229,7 +7242,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 मार्कण्डेयःकश्चित् द्विजातिप्रवरो वेदाद्ध्यायी तपोधनः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राम्हणन् सॊल्लुगिऱान्:-
 
@@ -7275,7 +7288,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तबस्सैये तनमायुडैयवनुम्, कर्मडनुमान कौसिगनॆण्ड्र ऒरु प्राम्हण च्रेष्टनिरुन्दान्. अवन् अङ्गङ्गळुडनुम्, उबनिषत्तुक्कळुडनुम् कूडिय वेदङ्गळैप् पडित्तुक् कॊण्डिरुन्दान्. ऒरु नाळ् अवन् ऒरु मरत्तिनडियिल् वेदङ्गळैप् पडित्तुक्कॊण्डु उट्कार्न्दिरुन्दान्. अन्द मसत्तिन् मेल् ऒरु नारै (पक्षि) उट्कार्न्दिरुन्ददु. अप्पॊऴुदु अन्दप् पक्षि प्राम्हणन् मेल् मलत्तै विसर्जनम् सॆय्ददु. प्राम्हणन् अदैप् पार्त्तु मिक्क कोबमडैन्दान्. अवन् अन्दप् पक्षियैप् पार्त्तान्. कोबत्तुडन् तिट्टप्पट्ट अप् पक्षि पूमियिल् विऴुन्ददु. पूमियिल् विऴुन्दु प्रक्ञैयट्रु उयिरिऴन्द पक्षियैप् पार्त्तु प्राम्हणन् करुणैयाल् परिदबित्तु अदैप् पट्रि वरुन्दिनान्. अगार्यत्तैच् चॆय्दवनागिनेन्, शरीरत्तिल् रागत्ताल् पाबत्तैच् चॆय्देन्, ऎण्ड्रु पल तडवै सॊल्लिप् पिऱगु पिक्षैक्काग क्रामत्तै अडैन्दान्.
 
@@ -7310,7 +7323,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नुऴैन्दु तेहि (पिक्षै कॊडु) ऎण्ड्रान्. अवनै अङ्गिरुन्द स्त्री 'इरुम्' ऎण्ड्राळ्. अवळ् पिक्षै पोडुवदऱ्‌कागप् पात्रत्तैच् चुत्ति सॆय्दाळ्. अदऱ्‌कुळ् अवळ् भर्त्ता पसियाल् मिगवुम् वरुन्दियवनाय् वीट्टिल् नुऴैन्दान्. अन्दप् पदिव्रदै भर्त्तावैप् पार्त्तु, प्राम्हणनै विट्टुविट्टुप् भर्त्तावुक्कुप् पात्यम्, आसमनीयम्, आसनम् इवैगळैक् कॊडुत्तु उबसरित्तु, आहारम्, पक्ष्यम् ,मदुरमान पोज्यम् इवैगळाल् उबसरित्ताळ्. अवळ् ऎप्पॊऴुदुम् भर्त्ताविन् उच्चिष्टत्तैये पुजिप्पाळ्. पदियैये तॆय्वमॆण्ड्रु निनैत्तवळ्. भर्त्ताविन् सित्तत्तैये अनुसरित्तु नडप्पाळ्.
 
@@ -7349,7 +7362,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तेवर्गळ्. अदिदिगळ्, वेलैक्कारर्गळ् ऎल्लोरुक्कुम् अनुगूलमागियवळ्, मामनार् मामियार् इवर्गळुक्कुप् पणिविडै सॆय्बवळ्, ऎप्पॊऴुदुम् इन्द्रियङ्गळै अडक्कियवळ्, अवळ् पदिशुश्रूषै सॆय्युम्बोदु प्राम्हणनैप् पार्त्ताळ्. पिक्षैक्कागक् कात्तिरुप्पदाय्प् पिऱगु निनैत्ताळ्. अप्पदिव्रदै वॆट्कमडैन्दाळ्. उडने पिक्षैयै ऎडुत्तुक् कॊण्डु वॆळियिल् वन्दाळ्.
 
@@ -7384,7 +7397,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राम्हणन् सॊल्लुगिऱान्:-
 
@@ -7434,7 +7447,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ज्ञानिगळुमान ऎवर्गळिन् कोबाक्नि इप्पॊऴुदुम्
 तण्डगत्तिल् अणैयविल्लैयो, तुष्टनान वादाबि ऎन्बवन्
@@ -7480,7 +7493,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎवन् उण्मैयैप् पेसुबवनो ,कुरुवै सन्दोषिक्कच् चॆय्बवनो,पि ऱराल् हिम्सिक्कप्पट्टालुम् पिऱनै हिम्सिक् कादवनो अवनैये तेवर्गळ् प्राम्हणनॆन्गिऱार्गळ्. कोबत्तै जयित्तवनुम्, धर्मबरनुम्, वेदात्ययनबरनुम्, सुत्तनुम्, कामक्रोदङ्गळै वसमाक्कियवनुमागियवनै प्राम्हणनॆन्गिण्ड्रनर्. ऎवनुक्कु उलगम् तनक्कुच् चममायुळ्ळदो, धर्ममऱिन्दवनुम्, नल्ल मनमुडैयवनुम्, सगल धर्मङ्गळैयुमनुष्टिप्पवनुमान अवनै प्राम्हणन् ऎन्गिण्ड्रनर्.
 
@@ -7520,7 +7533,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 धर्ममऱिन्दवर्गळ् सत्यम्, कबडमिन्मै इवैगळे
 सिऱन्द धर्ममॆन्गिण्ड्रनर्. अऱिय मुडियाद साच्वद धर्मम्
@@ -7568,7 +7581,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्राम्हणन् सॊल्लुगिऱार्:-ओ मङ्गळे! उन् विषयत्तिल् सन्दोषित्तेन्. उनक्कु मङ्गळम् उण्डाग वेण्डुम्. कोबम् नीङ्गियदु. नी ऎन्नैप् पऴित्तदुम् ऎनक्कु मिग क्षेमगरमे. पोय् वरुगिऱेन्, उनक्कु मङ्गळमुण्डाग वेण्डुम्.
 
@@ -7606,7 +7619,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 रामायणे अयोद्ध्याकाण्डे शुश्रूषामेव कुर्वीत भर्तुः प्रियहिते रता ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वेण्डुम्. पदिवरदा स्त्री, तन् भर्त्ता जडन्, सॆविडु, नॊण्डि, ऒट्रैक् कण्णन्, पॊट्टै, कैयिल्लादवन्, कुष्टरोगि, इळैत्तवन्, परुत्तवन्, प्रियन्, अप्रियन्, अऴगियवन्, अऴगिल्लादवन्, युवा, व्रुत्तन् ऎवनानालुम् अवनै प्रत्यक्षमान तेवनैप् पोल् ऎप्पॊऴुदुम् पूजिक्कवेण्डुम्.
 
@@ -7648,7 +7661,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 शुश्रूषैयैये सॆय्य वेण्डुम्. इन्दत् धर्मम् मुऱ्‌कालत्तिल् उलगत्तिल् काणप्पट्टदु. वेदत्तिलुम् विधिक्कप्पट्टदु. स्मृतिगळिलुम् सॊल्लप्पट्टदु.
 
@@ -7702,7 +7715,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अदरि:-
 
@@ -7740,7 +7753,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 पतिशुश्रूषणपराया भार्याया उत्तमगतिमुक्त्वा तत् परित्यज्य व्रतादिपरायाः स्त्रियाः तदभावं ज्ञापयितुं इदमुदाहृतं महाभारते
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मनु:-
 
@@ -7769,7 +7782,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 एवं धर्मफलावाप्तिर्भवत्येव । तथापि धर्मान्तरचिकीर्षायां
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 लोकप्राप्तियैच् चॊल्लि, पदि शुश्रूषैयै विट्टु व्रदम् मुदलियदै अनुष्टिक्कुम् स्त्रीक्कु उत्तम कदि इल्लै ऎन्बदैत् तॆरिविक्क, इव्विदम् कूऱप्पट्टुळ्ळदु, महाबार तत्तिल्:-
 
@@ -7817,7 +7830,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आनालुम्, वेऱु धर्मङ्गळैच् चॆय्य विरुप्पमिरुप्पिन्, भर्त्ताविन् अनुक्ञैयाल् मट्रत् धर्मत्तैयुम् सॆय्यलाम्. अव्विदमे सङ्ग लिगिदर्गळ्:-
 
@@ -7873,7 +7886,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मनु:-
 
@@ -7921,7 +7934,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मनु सॊन्नार्. आगैयाल् इप्पॊऴुदु, पुत्रोत्पादन
 सक्तियट्र नान् उन्नै नियोजिक्किऱेन्. समनानवनिड
@@ -7963,7 +7976,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 हे सुमुगी! मुऱ्‌कालत्तिल् स्त्रीगळॆल्लोरुम् कट्टुप्
 पाडिल्लामलिरुन्दनर्. अवर्गळ् इष्टम्बोल् क्रीडिप्पवरुम्
@@ -8013,7 +8026,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 एवं कृतवती सा तु भर्तुः प्रियचिकीर्षया ॥
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रुषिबुत्रनान वेदगेदुवोवॆनिल् अन्दत् धर्मत्तैप्
 पॊऱुक्कविल्लै. उलगिल् स्त्रीबुरुषर्गळुक्कु वरुमाऱु
@@ -8058,7 +8071,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 प्रीदिक्काग इव्विदम् सॆय्दाळ्. कुन्दी! कुरुवम्सम् वळर्वदऱ्‌काग
 व्यासरिडमिरुन्दु नाम् पिऱन्दोम् ऎन्बदुम्
@@ -8108,7 +8121,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उत्तालग महर्षि, तम् सिष्यनाल् च्वेदगेदु ऎनुम् पुत्रनै उण्डाक्किनार्. इव्विदम् सॊल्लप्पट्ट कुन्दी, पाण्डु महाराजनै नोक्कि, उम्माल् नियोजिक्कप्पट्ट नान् अप्पडिये सॆय्गिऱेन् ऎण्ड्रु उत्तरम् सॊन्नाळ्.
 
@@ -8157,7 +8170,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पीष्मर् सॊल्लुगिऱार्:-
 
@@ -8203,7 +8216,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 इन्द्रन् पोण्ड्र अवन् तेसत्तिल् नल्ल मऴै पॊऴिन्दु वन्ददु.
 रत्नङ्गळालुम्, तनङ्गळालुम् अवन् तेसम् निऱैन्दिरुन्ददु.
@@ -8247,7 +8260,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अक्नि पगवान् अडैय विरुम्बिनार्. अवर् प्राम्हण वेषम् पूण्डु अरनिडम् सॆण्ड्रु पॆण्णै वरित्तार्. 'इवन् तरित्रन्, वेऱु वर्णत्तानुम्' ऎण्ड्रु पॆण्णैक् कॊडुक्कविल्लै. पिऱगु अरसन् ऒरु यागम् सॆय्दान्. विस्तारमुळ्ळ अन्द यागत्तिल् तिडीरॆण्ड्रु अक्नि अणैन्दु विट्टदु. पिऱगु मिक्क तुक्कमुडैय अरसन् प्राम्हणर्गळै नोक्कि इव्विदम् सॊन्नान्. ओ प्राम्ह णोत्तमर्गळे! नण्ड्रियऱियादवरिडम् सॆय्द उबगारम् पोल् तिडीरॆण्ड्रु ऎन् अक्नि अऴिन्दुविट्टदे, इदु ऎन् कुट्रमा, उङ्गळुडैय कुट्रमा? ऎदनाल् अक्नि नासमडैन्ददो अक्कारणम् अक्कुट्रम् सिऱियदायिल्लै. अदु उङ्गळुडैयदा, उण्मैयाय् इदैत् तीर आलोसित्तुप् पारुङ्गळ्, ऎण्ड्रान्.
 
@@ -8275,7 +8288,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 ततस्तां समलङ्कृत्य कन्या महतवाससम् । ददौ दुर्योधनो राजा पावकाय महात्मने ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सरत्काल सूर्यन् पोल् प्रकाशमुळ्ळवनाय् अन्द प्राम् हणर्गळुक्कुत् तर्सनमळित्तु, अवर्गळै नोक्कि, 'ऎनक्काग तुर्योदन राजनिन् पॆण्णै विरुम्बुगिऱेन्' ऎण्ड्रार्. अन्द प्राम्हणर्गळ् आच्चर्यमडैन्दु, कालैयिलॆऴुन्दु अरसनिडम् सॆण्ड्रु, इरविल् कण्ड विषयत्तैत् तॆरिवित्तनर्. अव् वार्त्तैयैक् केट्टु अरसन् मिगच् चन्दोषमडैन्दु अव्विदमे कॊडुक्किऱेन् ऎण्ड्रान्. अक्निबगवानै ऒरु सुल्क्कमुम् वेण्डिनान्. ऎप्पॊऴुदुम् ऎनदु नगरत्तिल् उम्मुडैय सान्नित्यमिरुक्कवेण्डुमॆण्ड्रु. अक्निबगवानुम् 'अव्विदमे आगट्टुम्' ऎण्ड्रार्. आगैयाल्दान् इप्पॊऴुदुम् माहिष्मदी नगरिल् अक्नियिन् सान्नित्यम् काणप्पडुगिऱदु. अन्द अरसन् अक्नियुडन् सेर्न्दे तिक्विजयम् सॆय्वान्.
 
@@ -8309,7 +8322,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अऴगिय अरसन् कुमारियै अक्निबगवान् यागत्तिल् वसोर् तारैयैप्पोल् वेद विधियाल् पॆट्रुक्कॊण्डार्.
 
@@ -8346,7 +8359,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ओ अरसने! अवन्, 'क्रुहस्तनायिरुन्दे नान् म्रुत्युवै
 जयिक्किण्ड्रेन्' ऎण्ड्रु प्रदिक्ञै सॆय्दान्. पिऱगु, अन्द
@@ -8392,7 +8405,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 क्रुहस्ताच्रमत्तिलिरुन्दु म्रुत्युवै जयिक्क विरुम्बिय
 अन्द सुदर्सननै वदैक्क समयत्तै प्रदीक्षित्तवनाय्
@@ -8438,7 +8451,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अन्द राजगुमारी, 'वेऱु ऎव्विद इष्टङ्गळैक् केट्टालुम् तरुगिऱेन् इदैत् तविर' ऎण्ड्रु ऎव्वळवु तूरम् सॊल्लियुम्, तान् सॊल्लियदैत् तविर मट्रॊण्ड्रैयुम् अवर् विरुम्ब विल्लै. अन्द कुमारी मुन् तन् भर्त्ता सॊल्लिय वार्त्तैयै निनैत्तु, अप्पडिये आगट्टुम् ऎण्ड्रु लज्तैयुडन् अन्द प्राम्हणनै नोक्किच् चॊन्नाळ्. अन्द प्राम्हणन् सिरित्तु उट्कार्न्दान्. अवळुमुट्कार्न्दाळ्. क्रुहस्ताच्रमधर्मत्तैच् चॆय्य आसैयुट्र भर्त्ताविन् वसनत्तै निनैत्तुक् कॊण्डु. उडने समित्तुक्कळै ऎडुत्तुक्कॊण्डु, अन्द सु तर्सननुम् आच्रमत्तिऱ्‌कु वन्दान्. अवळोवॆनिल् मुन्बोल् भर्त्तावुक्कुप् पदिलुरैक्कविल्लै. अन्द प्राम्हणनिन् कैगळाल् तॊडप्पट्टवळादलाल्, असुत्तैयायिरुक्किऱेनॆण्ड्रु ऎण्णियवळाय् मौनमायिरुन्दाळ्. ऒण्ड्रुम् पेसविल्लै.
 
@@ -8475,7 +8488,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उण्मैये उरैप्पवळुम्, कबडमट्रवळुमान अवळ्, पुन् सिरिप्पुडैयवळाय् मुन्बोल् ऎन्नै एन् ऎदिर्त्तुवरविल्लै? अप्पॊऴुदु, पर्णसालैक्कुळ्ळिरुन्द प्राम्हणन्, सुदर्सननै नोक्किच् चॊन्नान्, 'ऒ सु तर्सन! नान् प्राम्हणन्, अदिदियाय् वन्देन्. उमदु पार्यैयागिय इवन् अदिदि सत्कारम् सॆय्दाळ्, अप्पॊऴुदु इवळै नान् वरित्तेन्. अवळ् ऒप्पिनाळ्. इन्द प्रगारत्ताल् इवळ् ऎन्नै अडैन्दुळ्ळाळ्. इव्विषयत्तिल् इनि युक्तमाय्च् चॆय्यवेण्डियदु ऎदुवो अदै नीर् सॆय्यक्कडवीर्' ऎण्ड्रु. अक्कालत्तिल्, मरुदयुदेवनुम्, कूडम् मुत्करमॆनुम् आयुदङ्गळैक् कैयिलेन्दि, प्रदिक्ञैयैत् तवऱिय इवनैक् कॊल्वेन् ऎण्ड्रु सिन्दित्तुक्कॊण्डु सुदर्सननैप् पिन्दॊडर्न्दान्.
 
@@ -8511,7 +8524,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 धर्मम्, वन्द अदिदिगळैप् पूजिप्पदेयाम्. ऎवनाल् अदिदि
 पूजिक्कप्पट्टुच् चॆल्लुगिऱानो, अवनुक्कु, अदैविडच्
@@ -8555,7 +8568,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अन्द प्राम्हणन् वॆळियिल् वन्दान्. तन् शरीरत्ताल् आगासत्तैयुम् पूमियैयुम् व्याबित्तु, काट्रुप्पोल् मूण्ड्रु उलगङ्गळैयुम् ऒलिक्कच्चॆय्युम् स्वरत्ताल्, प्राम्हणनैप् पॆयराल् अऴैत्तुच् चॊल्लुवदावदु.
 
@@ -8594,7 +8607,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तबस्सुडन् कूडियवळुम्, प्रम्हवादिनियुमान इवळ्, उलगत्तैच् चुत्तमाक्कुवदऱ्‌कुत् तनदु पादिदेहत्ताल् 'ओगवदी' ऎन्नुम् नदियाग आगप्पोगिऱाळ्. पादिदेहत्ताल् उन्नै अनुसरिक्कप्पोगिऱाळ्. इवळुडैय योगम् अव्विदमाय् वसत्तिलुळ्ळदु. नीयुम् उनदु तबस्साल् सम्बादिक्कप्पट्ट लोकङ्गळै इवळुडन् अडैयप्पोगिऱाय्. ऎङ्गे सॆण्ड्रवन् तिरुम्बुवदिल्लैयो अव्विदमान साच्वद लोकङ्गळै अडैयप्पोगिऱाय्. इन्दत्तेहत्तुडने पुण्यलोकङ्गळै अडैवाय्. तनदु वीर्यत्ताल् पञ्जमहाबूदङ्गळुक्कु मेलानवनुम्, मनोवेगमुडैयवनुमागिय म्रुत्यु उन्नाल् जयिक्कप्पट्टान्. उनदु ऐच्वर्यमुम् सिऱन्ददु. इन्द क्रुहस्त धर्मत्ताल्, कामम्, क्रोदम्, स्नेहम्, रागम्, सोम्बल्, मोहम्, त्रोहम् इवैगळ् उन्नालुम्, उनदु शुश्रूषैयाल् राजबुत्रियालुम् जयिक्कप्पट्टन.
 
@@ -8627,7 +8640,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रदत्तै ऎडुत्तुक्कॊण्डु सुदर्सननिडम् वन्दान्. इव्विदम्
 सुदर्सननाल् म्रुत्यु, आत्मा (तनदु तेहम्), पुण्य
@@ -8673,7 +8686,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नन्मैयै विरुम्बियवन् केट्कवेण्डुम्. सुदर्सननुडैय इच्चरिदत्तै ऎवन् प्रदिदिनम् पडिप्पानो अवन् पुण्यलोकङ्गळै अडैवान्.
 
@@ -8708,7 +8721,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > 'माता पुत्रत्वस्य' इत्यापस्तम्बधर्मव्याख्यानावसरे हरदत्तेन मातुः सुब्रह्मण्याह्वाने करम्भपात्रादौ च अन्वयः प्रीतिकरत्वात् शुश्रूषात्वेन व्यवहृतः । किम्पुनरेवमादिषु मातुरन्वयः शुश्रूषा ? ओमित्याह । अन्विता हि सा सम्मता मन्यते । निरस्ता तु विमतेति ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पदियिन् प्रीदियैच् चम्बादिप्पदु मुक्य धर्मम्. अदुवुम् सॊल्लप्पट्टुळ्ळदु अव्विडत्तिलेये. स्त्रीगळुक्कुप् भर्त्ता सन्दुष्टनानाल् सगल तेवर्गळुम् सन्दुष्टरागिण्ड्रनर्. स्त्रीक्कुप् पदियिन् प्रसादमुम्, स्वर्क्कमुम् सममागुमो आगादो. ऎवळ् प्रीदियुडन् पदियैच् चन्दोषिक्कच् चॆय्गिऱाळो, अवळ् मूण्ड्रु उलगङ्गळैयुम् सन्दोषिक्कच् चॆय्गिण्ड्राळ्, ऎण्ड्रु.
 
@@ -8746,7 +8759,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 शुश्रूषा हि बहुव्यापाररूपत्वात् सामान्यरूपा । अज्ञाकरणं तु तत्तत्काले पदार्थविशेषावलम्बनेन प्रवर्तमानं भर्तुरतिशयितादर
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पट्टवळाग निनैक्किण्ड्राळ्'' ऎण्ड्रु. इव्विदमिरुप्पदाल् आज्ञैबैच् चॆय्वदुम् प्रीदियैच् चॆय्वदाल् शुश्रूषारूबमॆण्ड्रु सित्तित्तदु.
 
@@ -8782,7 +8795,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मागियदु. आगैयाल् कोबळीवर् तन्यायत्ताल्, तनियाय्च् चॊल्लियदु उबबन्नमागिऱदु.
 
@@ -8826,7 +8839,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पदिगळिडम् उट्कार्न्दिरुन्दनर्. अवर्गळ् स्वर्णवेदि पोलुम्, कळङ्गमट्र चन्द्रलेगैगळ् पोलवुम्, अक्नि ज्वालैगळ् पोलवुम्, नक्षत्रङ्गळ् पोलवुम् आच्चर्यमान रूबमुडनिरुन्दनर्. अवर्गळैप् पार्त्त अक्नि अवर्गळै नाडिय मनदुडन् इन्द्रियङ्गळिल् कलक्कमुट्रान्. कामत्तिऱ्‌कुम् वसमानान्. मऱुबडि तनक्कुळ् सिन्दिक्कलानान्. इदु नियायमल्ल. नान् कलक्कमडैन्देनल्लवा. इन्द प्राम्हण च्रेष्टर्गळिन् पत्निगळ् पदिव्रदैगळ्. आसिक्कत्तगादवर्गळ्. इवर्गळै नान् आसिक्किण्ड्रेन्. इवर्गळै नान् तॊडवुम् मुडियादु. अल्लदु मुडिविल् पार्क्कवुम् मुडियादु. आगैयाल् कार्हबत्याक्नियिल् पुगुन्दु अडिक्कडि इवर्गळैत् तॊडुगिऱेन्.
 
@@ -8865,7 +8878,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सॆलुत्ति अवर्गळै विरुम्बियवनाय्, कामत्ताल् तबित्त मनमुडैयवनाय्, शरीरत्तै विट्टुविड निच्चयित्तुक् काट्टिऱ्‌कुच् चॆण्ड्रान्. इदऱ्‌कु मुन्बे, तक्षप्रजाबदियिन् कुमारियागिय स्वाहा ऎन्बवळ् अन्द अक्नियै आसित्ताळ्. अवळुक्कु अवगासम् किडैक्कविल्लै. अवळ् अवनै सप्तरुषिगळिन् पत्निगळिन् रूबत्ताल् मोहित्तवनाग अऱिन्दु, इवनै, सप्तरुषि पत्निगळिन् रूबत्तै तान् क्रहित्तु मोहिक्कच् चॆय्दु ऎन्नुडन् इरुक्कुम्बडि सॆय्गिऱेन्. इदनाल् अक्निक्कुम् प्रीदियुण्डागिऱदु. ऎनक्कुम् कामबूर्त्तियागिऱदु ऎण्ड्रु निनैत्ताळ्.
 
@@ -8903,7 +8916,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अवनै नोक्किच् चॊन्नाळ्. "ओ अक्ने! नान् उम्मै आसित्तुळ्ळेन्. नीर् ऎन्नैक् करुदवेण्डुम्. इल्लाविडिल् नान् इऱन्दुविडुवेन् ऎण्ड्रु अऱियुम्. नान् अङ्गिरस्सिन् पार्यैयान 'सिवा' ऎन्बवळ्. मट्रवर्गळुम् सेर्न्दु आलोसित्तु निर्णयम् सॆय्दु ऎन्नै अनुप्पिनार्गळ्" ऎण्ड्रु.
 
@@ -8935,7 +8948,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सा तत्र सहसा गत्वा शैलपृष्ठं सुदुर्गमम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मार्गण्डेयर्:-
 
@@ -8974,7 +8987,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्वर्णमयमान ऒरु कुण्डत्तिल् कैयिलुळ्ळ सुक्रत्तै विट्टाळ्. इव्विदमे अन्द स्वाहादेवी, मट्र सप्तरुषिगळिन् पत्निगळुक्कु समानमान रूबत्तै क्रहित्तु, अक्नियै आसित्तु रमिक्कच्चॆय्दाळ्. आनाल्, अरुन्ददियिन् अऴगिय उरुवत्तै मट्टिल् क्रहिप्पदऱ्‌कु अवळाल् मुडियविल्लै. अरुन्ददि तबस्सिन् प्रबावत्तालुम्, भर्तृ शुश्रूषा पलत्तालुम्.
 
@@ -9010,7 +9023,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अव्विदमे सावित्रियिन् सरित्रम्. पुदिष्टिरर् सॊल्लुगिऱार्:ओ महामुने ! नान् ऎन्नैप्पट्रियो, इन्द प्रादाक्कळैप् पट्रियो, राज्यत्तै इऴन्ददैप्पट्रियो अव्वळवु वरुन्दविल्लै. इन्द त्रौबदियैप् पट्रि ऎव्विदम् वरुन्दुगिऱेनो सूदाट्टत्तिल् तुष्टर्गळाल् वरुत्तप्पट्ट नाङ्गळ् त्रौबदियाल् मीट्कप्पट्टोम्. मऱुबडि इवळ् जयत्रदनाल् वनत्तिनिण्ड्रुम् अबहरिक्कप्पट्टाळ्. पदिव्रदैयुम्, महाबाक्यसालियुमान इन्द त्रौबदिबोल् वेऱु स्त्री इरुक्किण्ड्राळा? मुन् पार्क्कप्पट्टाळा? केट्कप्पट्टाळा?.
 
@@ -9051,7 +9064,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सावित्र्युवाचब्रह्मचर्येण शुद्धेन दमेन नियमेन च ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 यागम् सॆय्दवनुम्, तानसीलनुम्, समर्त्तनुम्, जनङ्गळॆल् लोरुक्कुम् प्रियनुम् आगिय 'अच्वबदि' ऎण्ड्रु पॆयरुळ्ळ अरसनिरुन्दान्. अवन् पॊऱुमैयुळ्ळवन्, पुत्रनिल्लादवन्, उण्मै पेसुबवन्, पुलन्गळै जयित्तवन्. वयदु सॆण्ड्रदाल् वरुत्तमडैन्दान्. पुत्रनैप् पॆऱुवदऱ्‌कागक् कडुमैयान नियमत्तै एट्रान्. कालत्तिल् अल्बमान आहारत्तैप् पुजित्तु, प्रम्हसारियाय्, जिदेन्द्रियनायिरुन्दु, सावित्री मन्द्रत्ताल् पदिनायिरम्मुऱै होमम् सॆय्दु, आऱुगालत्तिऱ्‌कॊरुमुऱै स्वल्बमाय् पुजित्तुवन्दान्. इव्विदम् नियमत्तुडन् पदिनॆट्टु वर्षङ्गळ् सॆण्ड्रन. पदिनॆट्टावदु वर्षम् मुडिन्दवुडन् सावित्री तेवदै सन्दोषमडैन्दवळाय् अन्द अरसनुक्कुत् तर्सनमळित्ताळ्. अक्निहोत्राक्नियिलिरुन्दुमॆऴुन्दु, मिगच् चन्दोषमुट्रवळाय् अरसनै नोक्किच् चॊन्नाळ्.
 
@@ -9091,7 +9104,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 एगान्द पक्तियिनालुम् सन्दोषमुट्रेन्. ओ मत्रराज अच्वबदे! इष्टमान वरनै वेण्डिक्कॊळ्. धर्मङ्गळिल् कवनत्तुडनिरुक्कवुम्.
 
@@ -9137,7 +9150,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मार्गण्डेयर्:-
 
@@ -9182,7 +9195,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 राजोवाचपुत्रि प्रधानकालस्ते न च कश्चित् वृणोति माम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मिगवुम् अऴगुट्रु स्वर्ण प्रदिमैबोण्ड्र अवळै नोक्किय जनङ्गळ् तेवप्पॆण् वन्दुळ्ळाळ् ऎण्ड्रु ऎण्णिनर्. अदिग तेजस्सुडैय अवळै ऒरु राजगुमारनुम् वेण्डि वरिक्कविल्लै. ऒरुनाळिल्, अक्कन्निगै उबवासमिरुन्दु स्नानम् सॆय्दु, तेवदैयैप् पूजित्तु, होमम् सॆय्वित्तु, पर्वदिनत्तिल् प्राम्हणर्गळाल् वेदबारायणम् मुदलियदैच् चॆय्वित्तु, निर्माल्य प्रसादमान पुष्पङ्गळैप् पॆट्रु, उरुवमुडन् वन्द लक्ष्मी तेविबोल् महात्मावान तन् पिदाविन् समीबम् सॆण्ड्राळ्.
 
@@ -9221,7 +9234,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कालम् इदु. आनाल् ऒरुवनुम् ऎन्नैक् केट्कविल्लै. नीये उनक्कुच् चरियान भर्त्तावैत् तेडिक्कॊळ्. उन् मनदिऱ्‌कु रुसित्तवन् ऎवनो अवनै ऎनक्कुच् चॊल्. नान् आलोत्तुक् कॊडुक्किऱेन्. इष्टप्पडि नीये वरित्तुक्कॊळ्. इव्विदम् सॆय्यलामॆण्ड्रु धर्मसास्त्रङ्गळिल् प्राम्हणर्गळाल् पडिक्कप्पट्टदैक् केट्टिरुक्किऱेन्. ओ कल्याणी! नीयुम् ऎन् वार्त्तैयैक् केळ्. कन्यैयैक् कालत्तिल् कॊडुक्काद पिदा निन्द्यन्. कालत्तिल् पार्यैयैच् चेराद पदियुम् निन्द्यन्. पिदा इऱन्द पिऱगु मादावै रक्षिक्काद पुत्रनुम् निन्द्यन्. ऎन् वार्त्तैयैक् केट्टु, भर्त्तावैच् चीक्किरमाय्त् तेडु. तेवदैगळुक्कु निन्द्यनाग नान् आगादबडि नी सॆय्यवेण्डुम्.
 
@@ -9263,7 +9276,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अवळ् स्वर्णमयमान रदत्तिलेऱि, व्रुत्तर्गळान मन्द्रिगळाल् सूऴप्पट्टवळाय्, राज रुषिगळिन् अऴगान तबो वनङ्गळुक्कुच् चॆण्ड्राळ् अङ्गु काट्टिलुळ्ळ पॆरियोर्गळुक्कु नमस्कारम् सॆय्दु, क्रममाय् ऎल्ला वनङ्गळुक्कुम सॆण्ड्राळ्. इव्विदम् ऎल्लात् तीर्त्तङ्गळिलुम् तनत्तैत् तानम् सॆय्दुगॊण्डु, अन्दन्दत् तेसत्तिऱ्‌कु क्रममाय्च् चॆण्ड्राळ्.
 
@@ -9309,7 +9322,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नारदर् : -
 
@@ -9352,7 +9365,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 चित्रेऽपि विलिखत्यश्वान् चित्राश्व इति चोच्यते । राजोवाचअपीदानीं स तेजस्वी बुद्धिमान् वा नृपात्मजः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 त्युमत्सेनन् पालबुत्रनैयुडैय पार्यैयुडन् अरण्यत्तै अडैन्दान्. अङ्गु सिऱन्द नियमङ्गळुडैयवनाय्त् तवम् पुरिन्दान्. अवनुक्कुप् पट्टणत्तिलिरुक्कुम्बोदु पिऱन्द पुत्रन् इप्पॊऴुदु तबोवनत्तिल् पिदावुडन् सेर्न्दु वसिक्किण्ड्रान्. अवन् सत्यवान् ऎन्बवन्. अवन् ऎनक्कुच् चरियान भर्त्तावॆण्ड्रु अलनै मनदाल् वरित्तिरुक्किऱेन्.
 
@@ -9434,7 +9447,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तीरन्, रुजुत्तन्मै ऎप्पॊऴुदुमवनिडमुळ्ळदु, अवन् मर्यादै स्तिरमायुळ्ळदु. सुरुक्कमाय्च् चॊल्लुगिऱेन्. तबळ्सिनाल् सिऱन्दवरालुम्, सीलत्ताल् सिऱन्दवरालुम् अवन् पुगऴप्पडुगिऱान्.
 
@@ -9479,7 +9492,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नारदर् ऎनक्कु इव्विदम् सॊन्नार्. अन्द सत्यवान्, ऒरु आण्डिल् आयुळ् कुऱैन्दु तेहत्तै इऴक्कप्पोगिऱान् ऎण्ड्रु.
 
@@ -9522,7 +9535,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कुणङ्गळ् मट्रॊरु पुरुषनिडत्तिल्लै. आगैयाल् उन् पॆण्णै अवनुक्कुक् कॊडुप्पदे ऎनक्कु रुसिक्किण्ड्रदु.
 
@@ -9568,7 +9581,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मार्गण्डेयर् : -पिऱगु अन्द अरसन् कन्यैयैत् तानम्
 सॆय्वदिल् अदे प्रगारत्तै आलोसिप्पवनाय् विवाहत्तिऱ्‌कु
@@ -9615,7 +9628,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 राज रुषिये! इन्द अऴगिय पॆण् ऎन्नुडैय पुत्री. अवनैत् धर्मप्पडि उम् नाट्टुप्पॆण्णाग क्रहित्तुक् कॊळ्ळवेण्डुम्.
 
@@ -9664,7 +9677,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 त्युमत्सेनन्:-
 
@@ -9714,7 +9727,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कुणङ्गळालुम्, वणक्कत्तालुम्, इन्दिरिय निक्रहत्तालुम् इष्टप्पडि ऎक्कार्यङ्गळैयुम् सॆय्वदालुम् ऎल्लोरुक्कुम् सन्दोषत्तैयळित्ताळ्. मामियारुक्कुच् चरीर शुश्रूषैगळालुम्, आडैयळिप्पदु मुदलियवैगळालुम्, मामनारुक्कुत् तेवर्गळुक्कुप्पोल् उबसारङ्गळालुम्, सामर्त्यत्तालुम्, समत्तालुम् सन्दोषमळित्ताळ्. एगान्दत्तिल् सॆय्यक्कूडिय उबसारत्ताल् भर्त्तावैयुम् सन्दोषिप्पित्ताळ्. इव्विदम् अवर्गळ् अन्द आच्रमत्तिल् वसित्तुत् तबस् सॆय्युम् पॊऴुदु सिलगालम् सॆण्ड्रदु. इरवुम् पगलुम् वाडुगिण्ड्र सावित्रिक्कु मट्टिल् नारदर् मुन् सॊल्लिय अन्द वार्त्तै मट्टिल् मनदिल् कुडिगॊण्डिरुक्किण्ड्रदु.
 
@@ -9751,7 +9764,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अक्कालम् समीबित्तदु. ऒव्वॊरु नाळ् सॆण्ड्रदुम् इव्वळवु पाक्कि नाट्कळ् ऎण्ड्रु सावित्री ऎण्णिक्कॊण्डेयिरुन्दाळ्. नारदरिन् वाक्यमुम् मनदिलिरुन्दुगॊण्डे इरुन्ददु. इण्ड्रिरुन्दु नान्गावदु नाळिल् सत्यवानिन् मरणगालमॆण्ड्रु ऎण्णिय सावित्री, अण्ड्रु मुदल् मूण्ड्रुनाळ् अनुष्टिक्कक्कूडिय व्रदत्तै आरम्बित्ताळ्. पगल् इरवु इरण्डु कालङ्गळिलुम् निण्ड्रुगॊण्डे नियमत्तुडनिरुन्दाळ्. इवळुडैय नियमत्तैक् केट्टु, त्युमत्सेनन् मिगत्तुयरम् कॊण्डवनाय् ऎऴुन्दु सावित्रियै समादानप्पडुत्तिच् चॊल्लुगिऱान्.
 
@@ -9795,7 +9808,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 त्युमत्सेनन्:-
 
@@ -9833,7 +9846,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सावित्री, रुषिगळिन् आसिर्वादङ्गळै, इव्विदमे आगवेण्डु मॆण्ड्रु मनदाल् एट्रुक्कॊण्डाळ्. अन्दक् कालत्तैयुम्, अन्द मुगूर्त्तत्तैयुम् प्रदीक्षित्त राजगुमारी नारदरिन् वाक्यत्तै निनैत्तु तुक्कत्तुडनिरुन्दाळ्. एगान्दत्तिल् उट्कार्न्दुळ्ळ अवळै नोक्कि मामियार् मामनार् इरुवरुम् प्रीदियुडन् वरुमाऱु सॊन्नार्गळ्.
 
@@ -9878,7 +9891,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तोळिल् वैत्तुक्कॊण्डु काट्टिऱ्‌कुप् पुऱप्पट्टान्. सावित्री तन् भर्त्तावैप् पार्त्तु 'नीर् तनियाय्प् पोगक् कूडादु; उम्मुडन् नानुम् वरुगिऱेन्. उम्मैत् तनियाय् विडुवदऱ्‌कु मनमिल्लै' ऎण्ड्राळ्.
 
@@ -9924,7 +9937,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अरण्यम् सॆल्लुगिऱार्. उङ्गळिरुवरिन् उत्तरवैप् पॆट्रु, इवरुडन् कूडच्चॆल्ल विरुम्बुगिऱेन्. इवरैप् पिरिन्दिरुप्पदु इप्पॊऴुदु ऎनक्कु उसिदमल्ल. उम्मुडैय पुत्रन् पिदाविन् अक्निहोत्रत्तिऱ्‌कागप् पुऱप्पट्टिरुप्पदाल् अवरैत् तडुक्कक्कूडादु. वेऱु कार्यत्तिऱ्‌कानाल् तडुक्कलाम्. नान् इन्द आच्रमत्तिऱ्‌कु वन्दबिऱगु, कॊञ्जम् कुऱैन्द ऒरु वर्षगालमागिऱदु. नान् इन्द आच्रमत्तैविट्टु वॆळियिऱ्‌ चॆण्ड्रदिल्लै. पुष्पित्तुळ्ळ इन्द अरण्यत्तैक्काण ऎनक्कु मिग आसै इरुक्किऱदु' ऎण्ड्राळ्.
 
@@ -9960,7 +9973,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कणवनुडन् सॆण्ड्राळ्. अवळ् विसित्रङ्गळुम्, रमणीयङ्गळुम्, मयिल्गूट्टङ्गळाल् सेविक्कप्पट्टवैगळुमान अरण्यङ्गळै मलर्न्द कण्गळाल् कण्डाळ्. पुण्यप्रवाहङ्गळुळ्ळ नदिगळैयुम्, पुष्पङ्गळुळ्ळ सिऱन्द व्रुक्षङ्गळैयुम् पारॆण्ड्रु सत्यवान् सावित्रियै नोक्कि मदुरमाय् वार्त्तैयैच् चॊन्नान्. पऴिप्पट्र सावित्री, भर्त्तावैप् पार्त्तुक्कॊण्डु सॆण्ड्राळ्. नारदरिन् वाक्यत्तैये अडिक्कडि स्मरित्ताळ्. भर्त्तावै इऱन्दवनागवे निनैत्ताळ्. मॆदुवाय् नडन्दु भर्त्तावै अनुसरित्तुच् चॆण्ड्राळ्. अन्दक् कालत्तै ऎदिर्बार्त्तवळाय् इरण्डुविदमाय् मनदैत् तरित्ताळ.
 
@@ -10002,7 +10015,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उण्डायिट्रु. अन्द च्रमत्ताल् तलैयिलुम् वेदनै उण्डायिट्रु. अवन् च्रमत्ताल् वरुन्दियवनाय्प् पार्यैयिनिडम् वन्दु इव्विदम् सॊन्नान्.
 
@@ -10047,7 +10060,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पॆरिय शरीरमुडैयवनुम्, सूर्यन् पोल् तेजस्सुडैयवनुम्, कऱुप्पु वर्णमुळ्ळवनुम्, सिवन्द कण्गळुडैयवनुम् पासम् तरित्तवनुम्, पयङ्गरनुम्, सत्यवानिन् पक्कत्तिल् निऱ्‌पवनुम्, अवनैये पार्प्पवनुमान ऒरु पुरुषनैक् कण्डाळ्. अवनैक् कण्डु उडने ऎऴुन्दिरुन्दु भर्त्ताविन् सिरस्सै मॆदुवाय्प् पूमियिल् वैत्तुविट्टु, अञ्जलि सॆय्दवळाय्, तुडित्त मार्बुडैयवळाय् सॊल्लुगिऱाळ्.
 
@@ -10094,7 +10107,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सावित्री:-
 
@@ -10144,7 +10157,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 यमनो, अवनैक् कट्टि ऎडुत्तुक्कॊण्डु, तॆऱ्‌कु मुगमाय्प् पुऱप्पट्टान्. नियमङ्गळुडन् व्रदमनुष्टित्तु, सित्ति पॆट्र महा माहात्म्यमुळ्ळ सावित्रियुम् तुक्कत्ताल् वरुन्दियवळाय् यमनैये तॊडर्न्दु सॆण्ड्राळ्.
 
@@ -10185,7 +10198,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 सावित्र्युवाच– च्युतः स्वरराष्ट्राद्वनवासमाश्रितो विनष्टचक्षुः श्वशुरो ममाश्रमे ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वनत्तिल् यक्ञादि रूबमान धर्मत्तै अनुष्टिप्पदिल्लै. जिदेन्द्रियर्गळे वनत्तिलावदु, क्रामत्तिलावदु यक्ञादि धर्मङ्गळै अनुष्टिक्किण्ड्रनर्. (क्रुहस्तरुम्, वानप्रस्तरुम्) कुरुगुल वासत्तैयुम्, परिच्रमत्तैयुम् (सन्यासत्तैयुम्) आत्मविक्ञानत्तिऱ्‌कागवॆण्ड्रु सादुक्कळ् सॊल्लुगिण्ड्रनर्. आगैयाल् धर्मत्तैये प्रधान मॆन्गिण्ड्रनर्. इन्द मूण्ड्रु (प्रम्हसर्यम्, कार्हस्त्यम्, वानप्रस्त्यम्) आच्रमङ्गळुळ्, ओर् आच्रमत्तिन् धर्मत्तै सादुक्कळ् मदिक्कुम्बडि अनुष्टिप्पदाल्, ऎल्ला आच्रमिगळुम् अन्द क्ञानमार्गत्तै अडैन्दवरागिण्ड्रोम्. आगैयाल् ऎन्नैप् पोण्ड्रवळ् (अक्निसात्यमान कर्मङ्गळैच् चॆय्बवळ्, इरण्डावदान नैष्टिग धर्मत्तैयो, मूण्ड्रावदागिय सन्यासत्तैयो विरुम्बमाट्टाळ्. आगैयाल् सादुक्कळ् क्रुहस्त धर्मत्तैये प्रधानमॆन्गिण्ड्रनर्.
 
@@ -10216,7 +10229,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 यम उवाचमनोनुकूलं बुधबुद्धिवर्द्धनं त्वया यदुक्तं वचनं हिताश्रयम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कण्णिऴन्द ऎन् मामनार् आच्रमत्तिलिरुक्किऱार्, अवर् कण्गळै यडैन्दवरुम्, पलमुळ्ळवरुम्, अक्निक्कुम् सूर्यनुक्कुम् समनागियवरुमाय् उमदु अनुग्रहत्ताल् आगवेण्डुम्.
 
@@ -10254,7 +10267,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अद्रोहस्सर्वभूतेषु कर्मणा मनसा गिरा ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 वित्वानुक्कुम् नऱ्‌पुत्तियै व्रुत्ति सॆय्वदायुम्, हिदम् सॆय्वदायुमुळ्ळदु. आगैयाल् सत्यवानिन् उयिरैत् तविर वेऱु वरनै मऱुबडि वरिप्पायाग.
 
@@ -10298,7 +10311,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 यम उवाचकुलस्य सन्तानकरं सुवर्चसं शतं सुतानां पितुरस्तु ते शुभे । कृतेन कामेन नराधिपात्मजे निवर्त दूरं हि पथस्त्वमागता ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 तीङ्गु सॆय्यादिरुत्तल्, अनुग्रहम्, (तयै) तानम् इवैगळ् सादुक्कळिन् सनादनमान धर्ममागुम्. आगैयाल् नीर् ऎन्निडम् तयै सॆय्युम्. इव्वुलगमुम् पॆरुम्बान्मैयिल् इव्विदमागवे इरुक्किऱदु. मनिदर्गळ् सक्ति, कौसलमिवै यट्रवर्गळ्. सादुक्कळो, तम्मिडम् वन्दवर्गळ् (सरणागदर्गळ्) सत्रुक्कळायिनुम् अवरिडम् करुणैयैच् चॆय्गिण्ड्रनर्.
 
@@ -10338,7 +10351,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सावित्री: ऎनदु भर्त्ताविन् सन्निदियिल् इदु तूरमल्ल. ऎनदु मनम् वॆगु तूरम् ओडुगिऱदु. नीर् सॆण्ड्रु कॊण्डे नान् मऱुबडि सॊल्लुम् वार्त्तैयैक् केट्क वेण्डुम्. नीर् विवस्वानॆनुम् सूर्यनिन्, वीरनान पुत्रन्. आगैयाल् अऱिन्दवर्गळ् उम्मै वैवस्वदन् ऎन्गिऱार्गळ्. सममान धर्मत्तिनाल् (आळ्गैयिनाल्) नीर् प्रजैगळै सन्दोषिक्कच् चॆय्गिऱीर्. आगैयाल् उमक्कुत् धर्मराजन् ऎन्नुम् नामदेयमुळदु. सादुक्कळिडत्तिल् ऎव्वळवु नम्बिक्कैयो अव्वळवु नम्बिक्कै तन्निडत्तिलुम् उण्डावदिल्लै. आगैयाल्दान् ऎवनुम् सादुक्कळिडम् स्नेहत्तै विरुम्बुगिऱान्. ऎल्ला प्राणिगळिडमुम् स्नेहमिरुप्पदाल् नम्बिक्कै उण्डागिऱदु. आगैयाल् जनङ्गळ् सादुक्कळिडम् अदिगमाय् नम्बिक्कैयैच् चॆय्गिऱार्गळ्.
 
@@ -10375,7 +10388,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सावित्री-
 
@@ -10419,7 +10432,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 न कामये भर्तृविनाकृता सुखं न कामये भर्तृविनाकृता दिवम् ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आचारम् पॆरियोर्गळाल् आसरिक्कप्पट्टदु ऎण्ड्रु अऱिन्दु, पिऱरुक्कु उबगारम् सॆय्युम् सादुक्कळ् प्रुत्युबगारत्तै ऎदिर्बार्प्पदिल्लै. सादुक्कळिडमुण्डागुम् प्रसादम् वीणावदिल्लै. यासिप्पवनिन् कार्यमुम् कॆडुवदिल्लै. मानमुम् कॆडुवदिल्लै. ऎक्कारणत्ताल् प्रसादम्, कार्यम्, मानम् ऎण्ड्र मूण्ड्रुम् सादुक्कळिडम् नियदमायिरुक्किण्ड्रदो, आगैयाल् सादुक्कळ् रक्षगर्गळाय् आगिण्ड्रनर्. (नीर् ऎनक्कु रक्षगरागवेण्डुम्.)
 
@@ -10464,7 +10477,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सम्बत्तैयुम् विरुमबेन्. भर्त्तावैयिऴन्द नान् पिऴैत्तिरुक्कवुम् सक्तैयागेन्. ऎनक्कु नूऱु पिळ्ळैगळ् उण्डाग वरनै नीर् अळित्तीर्. नीरे ऎन् पदियै अबहरित्तुप् पोगिऱीर्. इन्द सत्यवान् पिऴैक्कवेण्डुम्. अव्विदमानाल् तान् उमदु वाक्यम् सत्यमाय् आगुम्.
 
@@ -10508,7 +10521,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कळुडैयवर्गळाय्, उन्नुडैय पॆयराल् प्रसिद्धर्गळाय् (सावित्रर्गळ् ऎन्बवर्गळाय्) साच्वदर्गळाय् इरुप्पार्गळ्. उन् पिदावुक्कुम्, उन् मादावान माळवियिनिडत्तिल् नूऱु पुत्रर्गळ् उण्डावार्गळ्. अवर्गळ् माळवर्गळ् ऎण्ड्रु प्रसिद्धर्गळाय्, तेवर्गळुक्कुच् चमानर्गळाय्, पुत्रबौत्रर् कळैयुडैयवर्गळाय्, साच्वदर्गळायिरुप्पार्गळ्.
 
@@ -10555,7 +10568,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सत्यवान्:-आ! वॆगुनेरम् तूङ्गिविट्टेन्. एन् ऎन्नै ऎऴुप्पविल्लै? ऎन्नै ऎवन् इऴुत्तानो, अन्दक् कऱुप्पान पुरुषन् ऎङ्गे?
 
@@ -10595,7 +10608,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अदनाल् वरुन्दियवनाय् निऱ्‌कमुडियामल्, उन् मडियिल् पडुत्तुत् तूङ्गिनेन्, ऎण्ड्रवरै मुऴुवदैयुम् निनैक्किण्ड्रेन्. उन्नाल् अणैक्कप्पट्ट ऎनदु मनम् नित्रैयाल् अबहरिक्कप्पट्टदु. पिऱगु इरुळ्बोल् पयङ्गरनान पॆरिय ऒरु पुरुषनैक् कण्डेन्. अदु विषयत्तै नी अऱिवायागिल् सॊल्लु. नान् स्वप्नत्तिल् कण्डेना, अल्लदु यदार्त्तमागवे नडन्ददा?
 
@@ -10638,7 +10651,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सत्यवान्:-
 
@@ -10685,7 +10698,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सत्यवान्:-
 
@@ -10733,7 +10746,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ऎनदु मादा पिदाक्कळ् प्रीदियुडैयवर्गळाय्, "कुऴन्दाय्! नी
 इल्लाविडिल् ऒरु मुहुर्त्तम्गूड नाङ्गळ् पिऴैत्तिरोम्.
@@ -10777,7 +10790,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पट्रिक् केट्टुक्कॊण्डिरुप्पार्. ओ मङ्गळे! नान् ऎनदु पिदावैयुम्, तुर्प्पलैयायिनुम् भर्त्तावै अनुसरित्तुळ्ळ मादावैयुम्बट्रि ऎप्पडि वरुन्दुगिण्ड्रेनो अप्पडि ऎन्नैप् पट्रिक्कूड वरुन्दविल्लै. नान् सॆय्द कार्यत्ताल् अव्विरुवरुम् इप्पॊऴुदु मिगुन्द परिदाबत्तै अडैयप्पोगिण्ड्रनर्. पिऴैत्तिरुक्कुम् वरैयिल् अवर्गळैप् पोषिक्क वेण्डुम् ऎन्बदऱ्‌काग नान् पिऴैत्तिरुक्किऱेन्. अवर्गळुक्कु प्रियत्तैच् चॆय्यवेण्डुमॆन्बदै नान् अऱिन्दुळ्ळेन्.
 
@@ -10821,7 +10834,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पेच्चुक्कळिलुम् नान् पॊय् पेसियदै निनैक्कविल्लै. अन्द सत्यत्ताल् ऎनदु मामियार् मामनार्गळ् पिऴैत्तिरुक्क वेण्डुम्.
 
@@ -10869,7 +10882,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नान् कॊण्डुवरुगिऱेन्' ऎण्ड्रु सॊल्लि, कूडैयै मरत्तिन् किळैयिल् तॊङ्गियदाय्च् चॆय्दु, कोडरियै ऎडुत्तुक् कॊण्डु भर्त्ताविनरुगिल् मऱुबडि वन्दाळ्. अव्वऴगिय तुडैयाळ्, तनदु इडदु तोळिल् भर्त्ताविन् (इडदु) कैयै वैत्तुक्कॊण्डु, तनदु वलदु कैयाल् भर्त्तावै अणैत्तुप् पिडित्तुक्कॊण्डु, कजम्बोल् नडक्कुमवळ् नडन्दु सॆण्ड्राळ्.
 
@@ -10895,7 +10908,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 तत्व भार्यासहायस्स वृतो वृद्धैस्तपोधनैः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 मार्गण्डेयर्:-
 
@@ -10943,7 +10956,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अरसर्गळिन् कदैयैच् चेर्न्दुळ्ळ आच्चर्य विषयङ्गळाल् समादानप्पडुत्तप्पट्टान्. अव्विदमायिनुम् अन्दत् तम्बदिगळ् पुत्रनैक् काण आवलुडन्, पुत्रनिन् इळमैयिल् नडन्द व्रुत्तङ्गळै निनैत्तु वरुत्तमुट्रवर्गळाय्, तीनमान वार्त्तैयै मऱुबडि सॊल्लिक्कॊण्डु, हा पुत्र! हा सात्वियान नाट्टुप्पॆण्णे! ऎङ्गिरुक्किऱाय्? ऎङ्गिरुक्किऱाय्? ऎण्ड्रु कण्णीर्विट्टु अऴुदनर्. अप्पॊऴुदु अङ्गुळ्ळ प्राम्हणर्गळुळ् सत्यवाक्कान प्राम्हणन् ऒरुवन् अवर्गळुक्कु समादान वार्त्तैयैच् चॊन्नान्.
 
@@ -10985,7 +10998,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 कवनमुडैयवनाय् सगल व्रदङ्गळैयुमनुष्टित्तेन्. वायुवै मट्टिल् पक्षित्तु उबवासमनुष्टित्तेन्. इन्दत् तबो महिमैयिनाल् पिऱर् सॆय्यविरुम्बिय ऎल्लावट्रैयुम् अऱिवेन्. सत्यमिदु ऎण्ड्रु अऱियुङ्गळ्, सत्यवान् पिऴैत्तिरुक्किऱानॆण्ड्रु.
 
@@ -11030,7 +11043,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 ताल्प्यर्:-
 
@@ -11078,7 +11091,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नाऴिगैक्कुळ् सत्यवानुडन् सावित्री इरविल् आच्रमत्तिऱ्‌कु वन्दाळ्, सन्दुष्टैयाय् उळ्ळे नुऴैन्दाळ्.
 
@@ -11119,7 +11132,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उट्कार्न्दनर्. पिऱगु अरसनुडन् उट्कार्न्द वनवासिगळ् ऎल्लोरुम् आवलुडैयवराय् राजगुमारनै नोक्किक्केट्टनर्.
 
@@ -11160,7 +11173,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 मृत्युर्मे पत्युरराख्यातो नारदेन महात्मना ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रात्रियिल् अववेळैयिल् वन्देन्. इदुवे वेऱॊण्ड्रुमिल्लै.
 
@@ -11198,7 +11211,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 नारदराल् ऎनदु पदिक्कु मरणम् सॊल्लप्पट्टदु. अन्द
 नाळ् इण्ड्रु वन्दुविट्टदु. आगैयाल् ऎन् पदियै
@@ -11247,7 +11260,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 रुषिगळ्:-
 
@@ -11291,7 +11304,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अडिक्कडि सॊल्लि त्रुप्तियडैन्दनरिल्लै. अरसने! पिऱगु
 साल्वदेसत्तिनिण्ड्रुम्, वन्द पट्टणत्तु जनङ्गळ्, त्युमत्
@@ -11335,7 +11348,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 पिऱगु, आच्रमत्तिल् वसिक्कुम् पॆरियोर्गळान अन्द प्राम्
 हणर्गळै नमस्करित्तु, अवर्गळॆल्लोरालुम् आसीर्वदिक्कप्
@@ -11375,7 +11388,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 एवं शौचाचारै रनिशुश्रूषया अतिथिपूजनेन गृहकृत्यविचारणेन आयव्ययकुटुम्बसंरक्षणविचारेण भर्तुः शरीरशुश्रूषया भर्तुराश्रितादीनां च अन्नदानेन स्वयं तत्प्रसादग्रहणेन रात्रौ रत्यादिना स्वनिषिद्धानां भर्तुरप्रियस्य च वर्जनेन विहितानां भर्तुः यत् प्रियं तस्य चानुष्ठानेन प्रतिकर्मणा भर्तुः श्रमापनोदनेन तत्तत्
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 सीलमुडैयवळुमान इन्द त्रौबदी. उङ्गळॆल्लोरैयुम् करैयेट्रप्पोगिऱाळ्, पदिव्रदैयान सावित्रीबोल्.
 
@@ -11417,7 +11430,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 अदै अनुष्टिप्पदालुम्, अलङ्गारत्तालुम्, भर्त्ताविन् च्रमत्तैयगट्रुवदालुम्, अन्दन्दक् कालङ्गळिल् वरुम् शरीर धर्मङ्गळै विधिप्पडियनुष्टिप्पदालुम्, भर्त्तावै अनुगमनम् सॆय्वदालुम्, भर्त्तावुक्कुप् पिऱगु उयिरुळ्ळवरैयिल् प्रमहसर्यम् मुदलिय नियमङ्गळैप् परिबालिप्पदालुम्, पदि शुश्रूषैयालुम्, अवन् वाक्यप्पडि नडप्पदालुम् पदियैच् चन्दोषिप्पिक्कवेण्डुम्. इव्विदम् सन्दोषप्पडुत्तुवदे पदिशुश्रूषणमॆनप्पडुगिऱदु.
 
@@ -11456,7 +11469,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 उलगत्तैयुम् अडैगिऱाळ्. ऎन्द स्त्रीगळुक्कु, भर्त्ता नगरत्तिलिरुप्पवनायिनुम्, अरण्यत्तिलिरुप्पवनायिनुम्, पाबियायिनुम्, पुण्यनायिनुम्, प्रियमायिरुक्किण्ड्रानो, अवर्गळुक्कुच् चिऱन्द उलगङ्गळ् उण्डु. इव्विदमुळ्ळवर्गळुम्, भर्त्तालैये त्रुडमान व्रदमायुडैयवर्गळुमान सिऱन्द स्त्रीगळ् तमदु पुण्य कर्मत्तिनाल् तेवलोकत्तिल् सिऱप्पै अडैगिण्ड्रनर्, ऎण्ड्रु.
 
@@ -11486,7 +11499,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 इति । इत्थं त्रयम्बक्रयज्वना स्मृतिपुराणोक्तीर्विलोड्याखिलाः धर्माः स्त्रीविषयाः पुनः कतिपये तत्तद्व्यवस्थान्विताः ।  
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 स्कान्दत्तिल्:-
 
@@ -11515,7 +11528,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-<details><summary>तमिऴ्</summary>
+<details><summary>द्राविडम्</summary>
 
 आराय्न्दु, स्त्रीगळैप् पट्रिय सिल धर्मङ्गळ् अन्दन्द व्यवस्तैगळुडन् कूडियवैगळाय्, सुरुक्कमाय्, क्रममाय् इन्द क्रन्दत्तिल् सॊल्लप्पट्टुळ्ळन. अवैगळैक् केट्टु ऎल्ला स्त्रीगळुम्, ऎप्पॊऴुदुम् धर्मत्तिल् पुत्तियैच् चॆय्यवेण्डुम्.
 
