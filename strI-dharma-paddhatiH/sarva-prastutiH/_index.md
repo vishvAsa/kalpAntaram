@@ -28,7 +28,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 श्री:
 
-## श्री त्र्यम्बगरायमगि अवर्गळाल् तॊगुक्कप्पट्ट स्त्रीगळुक्कुरिय धर्मङ्गळिन् पत्तदि.
+**श्री त्र्यम्बगरायमगि अवर्गळाल् तॊगुक्कप्पट्ट स्त्रीगळुक्कुरिय धर्मङ्गळिन् पत्तदि.**
 
 स्मृतिगळिल् स्त्रीगळुक्कु प्रधानमाग विधिक्कप्पट्ट धर्मम् भर्त्तावुक्कुप् पणिविडै सॆय्वदे. यारैप् भर्त्तावाग वरित्तु शुश्रूषै सॆय्यवेण्डुम् ऎन्नुम् विषयमुम् तगप्पन् अनुमतियिन्बेरिल् सॆय्यवेण्डुमॆण्ड्रु करुदि, अदैये सॆय्दु, भर्त्ताविन् शरीरत्तिन् पादियै अडैन्द अन्द हिमालयत्तिन् कन्यै ऎनक्कु ऎप्पोदुम् धर्म मार्गत्तिल् उत्साहत्तैक् कॊडुक्कट्टुम्.
 
@@ -79,7 +79,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 आदौ आचारो निरूप्यते ॥
 </details>
 
-### आचारम्
+**आचारम्**
 
 <details open><summary>द्राविडम्</summary>
 
@@ -172,9 +172,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### तत्र स्त्रीणामाह्निकं निरूप्यते ॥
+### आह्निकम्
 
 <details open><summary>मूलम्</summary>
+
+तत्र स्त्रीणामाह्निकं निरूप्यते ॥
 
 स्त्रिया भर्तृप्रबोधात्पूर्वमेव प्रबोद्धव्यम् ॥ तथा च याज्ञवल्क्यः -
 
@@ -186,7 +188,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन. 
+**तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन.** 
 
 <details open><summary>द्राविडम्</summary>
 
@@ -620,9 +622,19 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### अथ दन्तधावनम् । 
+<details><summary>द्राविडम्</summary>
+
+याक्ञवल्क्पर्:-
+
+> त्विजर्गळ् ह्रुदयम्, तॊण्डै,ताळ् इन्द प्रदेसङ्गळै अडैयुम् जलत्ताल् सुत्तियडैवार्गळ्. स्त्री सूत्रर्गळ् जलत्तै ऒरु तडवै तॊडुदलाल् सुत्ति यडैवार्गळ्. (42)
+
+</details>
+
+### दन्तधावनम् । 
 
 <details open><summary>मूलम्</summary>
+
+अथ दन्तधावनम्
 
 तत्रात्रिःमुखे पर्युषिते नित्यं भवन्त्यप्रयता नराः । तदाद्रकाष्ठं शुष्कं वा भक्षयेद् दन्तधावनम् ॥ ४३ ॥
 
@@ -638,13 +650,8 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
+
 <details><summary>द्राविडम्</summary>
-
-याक्ञवल्क्पर्:-
-
-> त्विजर्गळ् ह्रुदयम्, तॊण्डै,ताळ् इन्द प्रदेसङ्गळै अडैयुम् जलत्ताल् सुत्तियडैवार्गळ्. स्त्री सूत्रर्गळ् जलत्तै ऒरु तडवै तॊडुदलाल् सुत्ति यडैवार्गळ्. (42)
-
-</details>
 
 पल् तेय्प्पदु.
 
@@ -690,9 +697,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ गोसेवनम् 
+### गोसेवनम् 
 
 <details open><summary>मूलम्</summary>
+
+अथ गोसेवनम्
 
 – भारते ॥
 
@@ -705,7 +714,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### को सेवनम्.
+**को सेवनम्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -824,9 +833,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ स्नानम् 
+### स्नानम् 
 
 <details open><summary>मूलम्</summary>
+
+अथ स्नानम्
 
 – तत्र विष्णुः ॥
 
@@ -836,7 +847,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### स्नानम्
+**स्नानम्**
 
 <details open><summary>द्राविडम्</summary>
 
@@ -894,9 +905,12 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### ततो वस्त्रधारणम् ।
+### वस्त्रधारणम्
 
 <details open><summary>मूलम्</summary>
+
+ततो वस्त्रधारणम्
+
 
 तत्र मत्स्यपुराणे
 
@@ -920,9 +934,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### पिऱगु वस्त्रदारणम्.
+**वस्त्रदारणम्.**
 
 <details><summary>द्राविडम्</summary>
+
+पिऱगु वस्त्रदारणम्.
 
 मत्स्य पुराणत्तिल्:-
 
@@ -1027,7 +1043,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अक्निहोत्रम्.
+**अक्निहोत्रम्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -1395,7 +1411,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### भर्तृ शुश्रूषै.
+**भर्तृ शुश्रूषै.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -1710,7 +1726,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अदिदि पूजै
+**अदिदि पूजै**
 
 <details><summary>मूलम्</summary>
 
@@ -2112,9 +2128,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### परिवेषणमपि स्त्रीधर्मः ।
+### स्त्रीधर्मः ।
 
 <details><summary>मूलम्</summary>
+
+परिवेषणमपि स्त्रीधर्मः
 
 अत एवादिपर्वणि उत्तङ्कोपाध्यायिन्याः परिवेषणमुक्तम् ।  
 सैवमुक्ता उपाध्यायिनी उत्तङ्कमुवाच, गच्छ, पौष्यं मिक्षस्व, तस्य
@@ -2126,7 +2144,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### परिमाऱुवदु स्त्रीयिन् धर्मम्.
+**परिमाऱुवदु स्त्रीयिन् धर्मम्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -2589,7 +2607,6 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 > होमम्, वैच्वदेवम्, आदित् लगुवागप् पुसित्तु, स्त्री ताम्बूलादिगळै सेवित्तुत् तूङ्गवुम्. पादङ्गळै नमस्करित्तु अदन् पिऱगे तूङ्ग
 
 
-
 धर्मम् मुडिय मॊऴि पॆयर्क्कप्
 </details>
 
@@ -2804,15 +2821,18 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ स्त्रीणां साधारणधर्माः ॥
+### साधारणधर्माः ॥
 
 <details><summary>मूलम्</summary>
+
+अथ स्त्रीणां साधारणधर्माः ॥
+
 
 शङ्खः – नानुक्त्वा गृहान्निर्गच्छेन्नानुत्तरीया न त्वरितं व्रजेत्, न परपुरुषमभिभाषेतान्यत्र वणिक्प्रव्रजितवैद्यवृद्धेभ्यो
 </details>
 
 
-### सादारण धर्मङ्गळ्.
+**सादारण धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -2873,7 +2893,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 <details open><summary>मूलम्</summary>
 
-मार्कण्डेयः– मार्जनीं चुल्लिकां काष्ठं दृषदश्मोपलाांस्तथा ।  
+मार्कण्डेयः – 
+
+> मार्जनीं चुल्लिकां काष्ठं दृषदश्मोपलाांस्तथा ।  
 नाक्रमेदङ्घ्रिणा जातु पुत्रदारधनक्षयात् ॥
 
 उलूखलं च मुसलं तथा चैव घरट्टकम् ।  
@@ -3195,9 +3217,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ वर्जनीयाः ॥
+### वर्जनीयाः
 
 <details><summary>मूलम्</summary>
+
+अथ वर्जनीयाः ॥
 
 पानं दुर्जनसंसर्गः पत्या च विरहोऽटनम् ।  
 स्वप्नोऽन्यगेहवासश्च नारीणां दूषणानि षट् ॥
@@ -3205,7 +3229,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### इनि विलक्कत्तक्कवैगळ्.
+**इनि विलक्कत्तक्कवैगळ्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -3624,7 +3648,6 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 इति याज्ञवल्क्यवचनपर्यालोचनया पित्रार्जितधने पुत्रस्य स्वामित्वाविशेषेऽपि पित्राऽन्यस्मै दीयमाने पुत्रानुमतेरावश्यकत्ववत् स्त्रीभिः
 
-(
 </details>
 
 <details><summary>द्राविडम्</summary>
@@ -4445,9 +4468,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-## अथ रजस्वलाधर्मः ॥
+## रजस्वलाधर्मः
 
 <details><summary>मूलम्</summary>
+
+अथ रजस्वलाधर्मः ॥
 
 तत्र वसिष्ठः-
 
@@ -4464,7 +4489,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-## रजस्वला धर्मम्.
+**रजस्वला धर्मम्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -5259,9 +5284,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ गर्भिणीधर्माः -
+### गर्भिणीधर्माः -
 
 <details><summary>मूलम्</summary>
+
+अथ गर्भिणीधर्माः
 
 > पाद्मे – नावस्करेषूपविशेन्मुसलोलूखलादिषु ।  
 जलं च नावगाहेत शून्यागारं च वर्जयेत् ॥
@@ -5278,7 +5305,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### कर्प्पिणी धर्मङ्गळ्.
+**कर्प्पिणी धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -5511,9 +5538,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ प्रोषितभर्तृकाधर्माः ॥
+### प्रोषितभर्तृकाधर्माः
 
 <details><summary>मूलम्</summary>
+
+अथ प्रोषितभर्तृकाधर्माः ॥
 
 गते देशान्तरं पत्यौ गन्धमाल्याञ्जनान्यपि ।  
 दन्तकाष्ठं च ताम्बूलं वर्जयेद्वनिता सती ॥
@@ -5526,7 +5555,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### इनि प्रोषिद भर्तृगैयिन् धर्मङ्गळ्.
+**इनि प्रोषिद भर्तृगैयिन् धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -5535,9 +5564,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ सहगमनविधिः ॥
+### सहगमनविधिः 
 
 <details><summary>मूलम्</summary>
+
+अथ सहगमनविधिः ॥
 
 कन्याविवाहसमये वाचयेयुरिति द्विजाः ।  
 भर्तुस्सहचरी भूयाः जीवतोऽजीवतोऽपि वा ॥
@@ -5550,7 +5581,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### सहगमन विधि.
+**सहगमन विधि.**
 
 <details><summary>द्राविडम्</summary>
 
@@ -5951,9 +5982,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अथ विधवाधर्मः 
+### विधवाधर्मः 
 
 <details><summary>मूलम्</summary>
+
+अथ विधवाधर्मः
 
 पारिजाते आश्वलायनःअनुयाति न भर्तारं दैवयोगात् कथञ्चन । तथाऽपि शीलं संरक्ष्यं शीलभङ्गात् पतत्यधः ॥
 
@@ -5961,7 +5994,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### इनि विदवा धर्मङ्गळ्.
+** इनि विदवा धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्<summary>
 
@@ -7784,6 +7817,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 > भर्त्तावुक्कु
 प्रियमावुम् हिदमायुमुळ्ळदिल् आसक्तियुळ्ळवळाय्,
+
 </details>
 
 
