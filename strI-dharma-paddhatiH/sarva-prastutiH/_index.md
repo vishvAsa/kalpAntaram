@@ -172,7 +172,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### आह्निकम्
+### आह्निकम् 
 
 <details open><summary>मूलम्</summary>
 
