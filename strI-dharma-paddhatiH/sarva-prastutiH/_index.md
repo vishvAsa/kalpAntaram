@@ -70,6 +70,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
+
 ### आचारः
 
 <details open><summary>मूलम्</summary>
@@ -78,6 +79,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 इति वचनात् इतरधर्मसाफल्यसिध्यर्थं शौचाचारस्यावश्यकत्वमिति
 आदौ आचारो निरूप्यते ॥
 </details>
+
 
 **आचारम्**
 
@@ -124,7 +126,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 स्त्रीणान्तु —
 
-वैवाहिको विधिः स्त्रीणामौपनायनिकः स्मृतः ।  
+> वैवाहिको विधिः स्त्रीणामौपनायनिकः स्मृतः ।  
 पतिसेवा गुरौ वासो गृहार्थाग्निपरिक्रिया ॥
 
 इति मनुवचनेन उपनयनस्थानापन्नो विवाह इति विवाहात्
@@ -188,7 +190,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन.** 
+**तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन** 
 
 <details open><summary>द्राविडम्</summary>
 
@@ -382,9 +384,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 <details open><summary>मूलम्</summary>
 
-तथाचानुशासनिके शाण्डिलिं प्रति सुमनाः -
+तथा चानुशासनिके शाण्डिलिं प्रति सुमनाः -
 
-> कुठु[[टु??]]म्बार्थे समानीतं यत्किञ्चित्कार्यमेव तु ।  
+> कुटुम्बार्थे समानीतं यत्किञ्चित्कार्यमेव तु ।  
 प्रातरुत्थाय तत्सर्वं कारयामि करोमि च ॥ इति ॥ २४ ॥
 
 अग्निपरिचर्यां देवपूजोपकरणसाधनादीनि तु स्वयं कुर्यात् ।  
@@ -425,7 +427,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 <details open><summary>मूलम्</summary>
 
-रात्रौ मूत्रपुरीषे तु गृहाभ्याशे समाचरे'दिति स्मरणात् ॥
+'रात्रौ मूत्रपुरीषे तु गृहाभ्याशे समाचरे'दिति स्मरणात् ॥
 
 तत्र प्रकारमाहाङ्गिराः -
 
@@ -474,7 +476,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 अनन्तरं गन्धलेपक्षयकरं शौचं कुर्यात् ॥
 
-तथाच गौतमः-
+तथाच गौतमः -
 
 > लेपगन्धापकर्षणे शौचममेध्यस्य तदद्भिः पूर्वं मृदा चेति ॥
 
@@ -630,7 +632,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### दन्तधावनम् । 
+### दन्तधावनम् 
 
 <details open><summary>मूलम्</summary>
 
@@ -643,7 +645,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 अङ्गुल्या धावयेद्दन्तान् वर्जयेत्तु प्रदेशिनीम् ।  
 मध्यमानामिकाङ्गुष्ठैर्दन्तदाढर्थं भवत्यपि ॥ ४४ ॥
 
-वर्ज्यदिवसानाह– विष्णुः ॥
+वर्ज्यदिवसानाह – विष्णुः ॥
 
 श्राद्धे जन्मदिने चैव विवाहेऽजीर्णदोषतः ।  
 व्रते चैवोपवासे च वर्जयेद्दन्तधावनमिति ॥ ४५ ॥
@@ -904,6 +906,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 किडैक्काविडिल् वीट्टिल् इरुप्पवळ् कुडत्तिन् जलत्ताल् स्नानम् सॆय्यवेण्डुम्. पुदिय कुडमायिरुक्क वेण्डुम्. इदु सनादन धर्मविधि. (69)
 
 </details>
+
 
 ### वस्त्रधारणम्
 
@@ -2128,7 +2131,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### स्त्रीधर्मः ।
+### स्त्रीधर्मः
 
 <details><summary>मूलम्</summary>
 
@@ -2821,7 +2824,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### साधारणधर्माः ॥
+### साधारणधर्माः
 
 <details><summary>मूलम्</summary>
 
@@ -5284,7 +5287,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### गर्भिणीधर्माः -
+### गर्भिणीधर्माः
 
 <details><summary>मूलम्</summary>
 
