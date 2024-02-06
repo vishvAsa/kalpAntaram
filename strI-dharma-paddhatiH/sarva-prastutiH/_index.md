@@ -10,7 +10,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 श्रीः ॥
 
-## त्र्य्-अम्बक-राय-मखि-निबद्धा स्त्रीणामावश्यिका धर्मपद्धतिः ॥
+त्र्य्-अम्बक-राय-मखि-निबद्धा स्त्रीणामावश्यिका धर्मपद्धतिः ॥
 
 मुख्यो धर्मः स्मृतिषु विहितो भर्तृशुश्रूषणं हि
 स्त्रीणामेतत्पितुरनुमतं कार्यमित्याकलय्य ।  
@@ -70,7 +70,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### आचारः
+## आचारः
 
 <details open><summary>मूलम्</summary>
 
@@ -633,7 +633,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### दन्तधावनम् 
+### दन्त-धावनम् 
 
 <details open><summary>मूलम्</summary>
 
@@ -700,7 +700,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### गोसेवनम् 
+### गो-सेवनम् 
 
 <details open><summary>मूलम्</summary>
 
@@ -911,7 +911,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### वस्त्रधारणम्
+### वस्त्र-धारणम्
 
 <details open><summary>मूलम्</summary>
 
@@ -1026,7 +1026,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### अग्निहोत्रम्
+### अग्नि-होत्रम्
 
 <details open><summary>मूलम्</summary>
 
@@ -1409,7 +1409,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### भर्तृशुश्रूषा
+### भर्तृ-शुश्रूषा
 
 <details><summary>मूलम्</summary>
 
@@ -1726,7 +1726,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### अतिथिपूजा
+### अतिथि-पूजा
 
 <details><summary>मूलम्</summary>
 
@@ -2140,7 +2140,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-### स्त्रीधर्मः
+## स्त्री-धर्मः
 
 <details><summary>मूलम्</summary>
 
@@ -2835,7 +2835,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### साधारणधर्माः
+### साधारण-धर्माः
 
 <details><summary>मूलम्</summary>
 
@@ -4483,7 +4483,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-## रजस्वलाधर्मः
+### रजस्वला-धर्मः
 
 <details><summary>मूलम्</summary>
 
@@ -5300,7 +5300,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### गर्भिणीधर्माः
+### गर्भिणी-धर्माः
 
 <details><summary>मूलम्</summary>
 
@@ -5555,7 +5555,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### प्रोषितभर्तृकाधर्माः
+### प्रोषित-भर्तृका-धर्माः
 
 <details><summary>मूलम्</summary>
 
@@ -5582,7 +5582,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### सहगमनविधिः 
+## सह-गमन-विधिः 
 
 <details><summary>मूलम्</summary>
 
@@ -6001,7 +6001,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-### विधवाधर्मः 
+## विधवाधर्मः 
 
 <details><summary>मूलम्</summary>
 
