@@ -28,7 +28,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 श्री:
 
-**श्री त्र्यम्बगरायमगि अवर्गळाल् तॊगुक्कप्पट्ट स्त्रीगळुक्कुरिय धर्मङ्गळिन् पत्तदि.**
+**श्री त्र्यम्बगरायमगि अवर्गळाल् तॊगुक्कप्पट्ट स्त्रीगळुक्कुरिय धर्मङ्गळिन् पत्तदि**
 
 स्मृतिगळिल् स्त्रीगळुक्कु प्रधानमाग विधिक्कप्पट्ट धर्मम् भर्त्तावुक्कुप् पणिविडै सॆय्वदे. यारैप् भर्त्तावाग वरित्तु शुश्रूषै सॆय्यवेण्डुम् ऎन्नुम् विषयमुम् तगप्पन् अनुमतियिन्बेरिल् सॆय्यवेण्डुमॆण्ड्रु करुदि, अदैये सॆय्दु, भर्त्ताविन् शरीरत्तिन् पादियै अडैन्द अन्द हिमालयत्तिन् कन्यै ऎनक्कु ऎप्पोदुम् धर्म मार्गत्तिल् उत्साहत्तैक् कॊडुक्कट्टुम्.
 
@@ -70,7 +70,6 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 </details>
 
-
 ### आचारः
 
 <details open><summary>मूलम्</summary>
@@ -81,9 +80,12 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**आचारम्**
+
+
 
 <details open><summary>द्राविडम्</summary>
+
+**आचारम्**
 
 "सौसम् आचारमट्रवनुक्कु समस्त क्रियैगळुम्
 पयनट्रवै" ऎण्ड्र वसनत्ताल् इदर धर्मङ्गळ् सबलिक्कुम्
@@ -190,9 +192,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन** 
-
 <details open><summary>द्राविडम्</summary>
+
+**तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् स्त्रीगळुक्कु तिनन्दोऱुम् सॆय्यवेण्डिय कडमैगळ् निरूबिक्कप्पडुगिण्ड्रन** 
 
 स्त्री भर्त्तावुक्कु मुन् विऴित्तुक्कॊळ्ळवेण्डुम्. इदैये याक्ञवल्क्यर् - 
 
@@ -336,7 +338,6 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 आदलाल्दान् कोमयत्ताल् मॆऴुगिय प्रदेसम् सुत्तम्. लक्ष्मियिन् इरुप्पिडमॆण्ड्रु सर्व जनङ्गळिन् अनुबव सित्तमानदु.
 </details>
-
 
 
 <details open><summary>मूलम्</summary>
@@ -484,7 +485,7 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 
 > मरीचिः ॥
 
-’कृष्णा स्त्रीशूद्रयोस्तथे’ति ॥
+'कृष्णा स्त्रीशूद्रयोस्तथे'ति ॥
 
 उक्तमृत्तिकाऽलाभे या काचन ग्राह्य । ॥
 
@@ -716,9 +717,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**को सेवनम्.**
-
 <details><summary>द्राविडम्</summary>
+
+**को सेवनम्**
 
 को सेवनत्तैप्पट्रिप् पारदत्तिल्:-
 
@@ -849,9 +850,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**स्नानम्**
 
 <details open><summary>द्राविडम्</summary>
+
+**स्नानम्**
+
 
 अङ्गे विष्णु:-
 
@@ -937,9 +940,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**वस्त्रदारणम्.**
 
 <details><summary>द्राविडम्</summary>
+
+**वस्त्रदारणम्**
+
 
 पिऱगु वस्त्रदारणम्.
 
@@ -1046,9 +1051,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**अक्निहोत्रम्.**
 
 <details><summary>द्राविडम्</summary>
+
+**अक्निहोत्रम्**
+
 
 अक्किहोत्र अऱैयिल् अक्नि शुश्रूषै सॆय्यप् पत्नि
 तॆन्वासलाल् वरवेण्डुम्.
@@ -1414,9 +1421,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**भर्तृ शुश्रूषै.**
-
 <details><summary>द्राविडम्</summary>
+
+**भर्तृ शुश्रूषै**
 
 परिसारगर्गळ् इरुन्दबोदिलुम्, मामियार्, मामनार्गळुक्कुम्, भर्त्तावुक्कुम् ताने शुश्रूषै सॆय्यवेण्डुम्.
 
@@ -1729,9 +1736,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**अदिदि पूजै**
 
 <details><summary>मूलम्</summary>
+
+**अदिदि पूजै**
+
 
 लैच्वदेव मुडिविल् वन्द अदिदियैप् पूजिक्कवुम्.
 अप्पडिये आबस्तम्बर्-
@@ -2147,9 +2156,11 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**परिमाऱुवदु स्त्रीयिन् धर्मम्.**
 
 <details><summary>द्राविडम्</summary>
+
+
+**परिमाऱुवदु स्त्रीयिन् धर्मम्**
 
 अदनाल्दान् आदिबर्वत्तिल्, उत्तङ्गरिन् कुरुबत्नी
 परिवेषणम् सॆय्ददागच् चॊल्लप्पडुगिऱदु. उबात्यायबत्नी
@@ -2835,9 +2846,10 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**सादारण धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
+
+**सादारण धर्मङ्गळ्**
 
 इप्पॊऴुदु स्त्रीगळिन् सादारण धर्मङ्गळ् निरूप्पिक्कप्पडुगिण्ड्रन.
 
@@ -3232,9 +3244,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**इनि विलक्कत्तक्कवैगळ्.**
-
 <details><summary>द्राविडम्</summary>
+
+**इनि विलक्कत्तक्कवैगळ्**
 
 सुराबानम्, तुर्जनङ्गळुडन् सेर्क्कै, पदियैप्
 पिरिन्दिरुत्तल्, अलैच्चल्, तूक्कम्, वेऱु वीट्टिल् तङ्गुवदु
@@ -4492,9 +4504,10 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**रजस्वला धर्मम्.**
 
 <details><summary>द्राविडम्</summary>
+
+**रजस्वला धर्मम्**
 
 वसिष्टर्:-
 
@@ -5308,9 +5321,10 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**कर्प्पिणी धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
+
+**कर्प्पिणी धर्मङ्गळ्**
 
 पात्मत्तिल्:-
 
@@ -5558,9 +5572,10 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**इनि प्रोषिद भर्तृगैयिन् धर्मङ्गळ्.**
 
 <details><summary>द्राविडम्</summary>
+
+**इनि प्रोषिद भर्तृगैयिन् धर्मङ्गळ्**
 
 कणवन् तेसान्दरम् सॆण्ड्रिरुक्कुम् पॊऴुदु, कन्दम्, मालै, मै, पऱ्‌कुच्चि. ताम्बूलम् इवैगळैप् पदिव्रदै वर्जिक्क वेण्डुम्. प्रोषिद भर्तृगैयानवळ्, विळैयाट्टु, शरीरत्तैच् चुत्तप्पडुत्तुदल्, सबैगळैयुम्, उत्सवङ्गळैयुम् पार्त्तल्, सिरिप्पु, पिऱर् वीट्टिऱ्‌कुच् चॆल्लुदल् इवैगळै वर्जिक्कवेण्डुम्.
 
@@ -5584,9 +5599,10 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-**सहगमन विधि.**
 
 <details><summary>द्राविडम्</summary>
+
+**सहगमन विधि**
 
 पॆण्णिन् विवाह समयत्तिल्, प्पाम्हणर्गळ् इव्विदम् सॊल्लवेण्डुम्. पॆण्णे? भर्त्ता जीवित्तिरुक्कुम् पॊऴुदुम्, पिऱगुम् अवनुक्कुक्कूड इरुप्पवळाय् आगक्कडवाय् ऎण्ड्रु.
 
@@ -5997,9 +6013,9 @@ Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/
 </details>
 
 
-** इनि विदवा धर्मङ्गळ्.**
-
 <details><summary>द्राविडम्<summary>
+
+**इनि विदवा धर्मङ्गळ्**
 
 पारिजादत्तिल् आच्वलायनर्:-
 
