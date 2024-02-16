@@ -1,5 +1,5 @@
 +++
-title = "26 Meta"
+title = "00 Meta"
 
 +++
 
@@ -327,7 +327,11 @@ Today, even though we celebrate many festivals that were graced to us by the enl
 
 The celebration of a birthday as per virtuous Bharatiya traditions include taking an oil bath and wearing of new clothes, lighting a lamp in front of God, offering obeisance to Teachers \(Gurus\) and elders, and seeking their blessings for health, prosperity, success, peace, contentment, good nourishment, and abundant growth, consuming prasada which consists of six different dishes, keeping away from either scolding others or getting abused by them, dwelling in auspicious thoughts, and drawing out a plan with family and friends happily for brightness and prosperity. But, due to the influence of the alien culture, a new custom \(of celebrating birthdays\) has made an entry in our country, even into the households of orthodox and tradition respecting people.
 
-In this, cakes numbering the age of the person whose birthday is being celebrated are cut, and an equal number of lighted candles are put out. Nobody questions this. If at all anyone were to question this, the answer would be—“The cake, and the drinks taken along are the flesh and blood of Jesus. The number of lamps put out stand for the number of years completed by the person so far, and it is a symbol of the vow—‘Let us lead a good life at least in future’.—This is the new custom.
+In this, cakes numbering the age of the person whose birthday is being celebrated are cut, and an equal number of lighted candles are put out. Nobody questions this. If at all anyone were to question this, the answer would be— 
+
+> “The cake, and the drinks taken along are the flesh and blood of Jesus. The number of lamps put out stand for the number of years completed by the person so far, and it is a symbol of the vow—‘Let us lead a good life at least in future’.+++(5)+++
+
+—This is the new custom.
 
 It is a disgrace that followers of Sanatana Arya Bharateeya Samskruthi are into accepting this custom and its observance, like copy cats. Because, on a birthday, one is supposed to consume prasada \(consecrated food\) offered to God, and not the flesh and blood of a great soul who was crucified by inconsiderate people who lacked judgment. The auspicious thoughts on that day should be about long life, and making a sacred vow ’—*Tanme manasshivasankalpamastu’*, and not the remembrance of the past days of bad *Vasanās* \(impressions of good or bad actions\)
 
