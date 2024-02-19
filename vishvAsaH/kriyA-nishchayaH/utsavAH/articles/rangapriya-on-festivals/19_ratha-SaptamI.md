@@ -1,5 +1,5 @@
 +++
-title = "19 rathaṣaptamī"
+title = "19 ratha-saptamī"
 
 +++
 
