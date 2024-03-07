@@ -139,9 +139,9 @@ taken this verse to mean that one shall.....
 **  
 **
 
-&gt; NOTE: Pages 336 and 337 are missing from the book. [Please email
-&gt; me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204)
-&gt; if you have a copy of the text.
+> NOTE: Pages 336 and 337 are missing from the book. [Please email
+> me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204)
+> if you have a copy of the text.
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
@@ -228,11 +228,11 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 </details>
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-&gt; 
-&gt;
-&gt; NOTE: Pages 336 and 337 are missing from the book. [Please email
-&gt; me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204)
-&gt; if you have a copy of the text.
+> 
+>
+> NOTE: Pages 336 and 337 are missing from the book. [Please email
+> me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204)
+> if you have a copy of the text.
 
 
 

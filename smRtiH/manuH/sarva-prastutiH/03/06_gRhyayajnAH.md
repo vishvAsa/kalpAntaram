@@ -1273,7 +1273,7 @@ possible, the text has used the phrase ‘*by Householders only*.’— (78)
 *Medhātithi* (P. 223, l.15) ‘*Hiṃsānugrahayoḥ*’—This refers to Gautama
 3.24-25, where we read—
 
-&gt; samo bhūteṣu hiṃsānugrahayoḥ \| anārambhī \|
+> samo bhūteṣu hiṃsānugrahayoḥ \| anārambhī \|
 
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 457).
 </details>

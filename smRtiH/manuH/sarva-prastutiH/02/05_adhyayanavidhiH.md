@@ -1361,8 +1361,8 @@ having been mentioned in the present context (in verse 76),—and not the
 *Medhātithi* (P.111,1.11)—*Prāpte hi karmaṇi*, *&c*.’—This is a
 paraphrase of Kumārila’s dictum—
 
-&gt; *prāpte karmaṇi nāneko vidhātuṃ śakyate guṇaḥ* \|  
-&gt; *aprāpte tu vidhīyante vahavo'pyekapatnataḥ* \|
+> *prāpte karmaṇi nāneko vidhātuṃ śakyate guṇaḥ* \|  
+> *aprāpte tu vidhīyante vahavo'pyekapatnataḥ* \|
 
 This verse is quoted in *Aparārka* (p. 50), which explains
 ‘*etadakṣaram*’ as the Praṇava;—and in *Nityāchārapaddhati*, (p. 189).
@@ -1658,8 +1658,8 @@ purpose of making the Expiatory Rites prescribed for the *Vrātya*
 The text of this verse, and hence its meaning, is entirely changed in
 *Vīramitrodaya* (Saṃskāra, p. 429); the words as quoted here are,
 
-&gt; *etayar??'pi saṃyuktaḥ kāle?a kriyayā'mu?ā* \|  
-&gt; *?ipra?triya?i?yonirprāha?ya?ṃ yāti prādhuṣu* \|\|
+> *etayar??'pi saṃyuktaḥ kāle?a kriyayā'mu?ā* \|  
+> *?ipra?triya?i?yonirprāha?ya?ṃ yāti prādhuṣu* \|\|
 
 it may be rendered thus—‘Equipped with this verse, and timely
 performance of this act, a person of Brāhmaṇa, Kṣatriya or Vaiśya birth
@@ -1993,8 +1993,8 @@ This verse is purely valedictory.—(83)
 *Medhātithi* (P. 114, 1. 12)—‘*Āpastamba vacanāt*’—This refers to
 Āpastamba’s Dharmasūtra 1.4.13.9, the whole of which reads as follows—
 
-&gt; *loke ca bhūtikarmasvetadīnyeca vākyāni syuryathā pupyāhaṃ
-&gt; svassyṛddhimiti*
+> *loke ca bhūtikarmasvetadīnyeca vākyāni syuryathā pupyāhaṃ
+> svassyṛddhimiti*
 
 This verse is quoted in *Vīramitrodaya* (Āhnika, p. 321), where the same
 verse is attributed to Yama also.

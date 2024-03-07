@@ -388,8 +388,8 @@ May Thou, O blessed One, explain to us, in due form and in proper order, the dut
 
 
 
-&gt; **यथावत्** । "अर्हत्य् अर्थे वतिः" येन प्रकारेणानुष्ठानम् अर्हति । इदं नित्यम् इदं काम्यम् इदम् अङ्गम् इदं प्रधानं द्रव्यदेशकालकर्त्रादिनियमश् च प्रकारो ऽर्हतेर् विषयः ।   
-&gt; अनुपूर्वशः** । आनुपूर्वी[^३] क्रमः । येन क्रमेणानुष्ठेयानि सो ऽप्य् उच्यताम् । "जातकर्मानन्तरं चौडमौञ्जीनिबन्धनेत्यादि" । यथावद् इत्य् अत्र पदार्थविषयं कार्त्स्न्यम् उपात्तम् । क्रमस् तु पदार्थो न भवत्य् अतः पृथग् अनुपूर्वश इत्य् उपात्तम् ।
+> **यथावत्** । "अर्हत्य् अर्थे वतिः" येन प्रकारेणानुष्ठानम् अर्हति । इदं नित्यम् इदं काम्यम् इदम् अङ्गम् इदं प्रधानं द्रव्यदेशकालकर्त्रादिनियमश् च प्रकारो ऽर्हतेर् विषयः ।   
+> अनुपूर्वशः** । आनुपूर्वी[^३] क्रमः । येन क्रमेणानुष्ठेयानि सो ऽप्य् उच्यताम् । "जातकर्मानन्तरं चौडमौञ्जीनिबन्धनेत्यादि" । यथावद् इत्य् अत्र पदार्थविषयं कार्त्स्न्यम् उपात्तम् । क्रमस् तु पदार्थो न भवत्य् अतः पृथग् अनुपूर्वश इत्य् उपात्तम् ।
 
 
 [^३]:
@@ -714,13 +714,13 @@ source in the Veda. This we shall explain under Discourse II.
 
 An objection is raised:—
 
-&gt; “As a matter of fact, *Vidhi* is something in the form of what should
-&gt; be done, expressed by the injunctive and such other verbal
-&gt; expressions; and this, in all cases, must be directly expressed by
-&gt; actual words; under the circumstances, what do you mean by saying that
-&gt; there are two kinds of injunction,—that the term ‘one should offer’
-&gt; denotes something to be done, and the procedure of the offering is
-&gt; indicated by implication in the manner described above?”
+> “As a matter of fact, *Vidhi* is something in the form of what should
+> be done, expressed by the injunctive and such other verbal
+> expressions; and this, in all cases, must be directly expressed by
+> actual words; under the circumstances, what do you mean by saying that
+> there are two kinds of injunction,—that the term ‘one should offer’
+> denotes something to be done, and the procedure of the offering is
+> indicated by implication in the manner described above?”
 
 There is no force in this objection. As a matter of fact, in the case of
 the injunctive words ‘*nirvapet*,’ ‘should offer,’ ‘*yajeta*,’ ‘should

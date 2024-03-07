@@ -265,8 +265,8 @@ to considerations of caste. (96).
 *Medhātithi*, (p. 41, l. 20)—‘*Parasparopokārāt*’—*c.f*.
 *Bhagavadgītā*—devān bhāvayatānena te
 
-&gt; *devān bhāvayatānena te devā bhāvayantu vaḥ* \|  
-&gt; *parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha* \|\| 3.11 \|\|
+> *devān bhāvayatānena te devā bhāvayantu vaḥ* \|  
+> *parasparaṃ bhāvayantaḥ śreyaḥ param avāpsyatha* \|\| 3.11 \|\|
 </details>
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 

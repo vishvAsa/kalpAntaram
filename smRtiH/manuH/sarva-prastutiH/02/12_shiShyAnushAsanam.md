@@ -275,16 +275,16 @@ obstructing his passage to the heavenly regions.
 Compare with this, Mahābhārata (13.104-31)—Vidura’s advice to
 Duryodhana—
 
-&gt; nāruntudaḥ syānna nṛśaṃsavādī  
-&gt; na hīnataḥ paramabhyādadīta \|\|
+> nāruntudaḥ syānna nṛśaṃsavādī  
+> na hīnataḥ paramabhyādadīta \|\|
 
 *Medhātithi* (P. 147, 1. 13)—‘*Arthaprakaraṇādinā*’—*cf. Kāvyaprakāśa*.
 
-&gt; arthaḥ prakaraṇaṃ liṅgaṃ vākyasyānyasya sannidhiḥ \|
-&gt;
-&gt; \*   \*   \*
-&gt;
-&gt; yo'rthasya nyārthadhīhetuḥ etc., etc.
+> arthaḥ prakaraṇaṃ liṅgaṃ vākyasyānyasya sannidhiḥ \|
+>
+> \*   \*   \*
+>
+> yo'rthasya nyārthadhīhetuḥ etc., etc.
 </details>
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
@@ -5193,8 +5193,8 @@ without his permission.’
 *Medhātithi* (P. 169,1. 16)—‘*Samskartā...ghātakaḥ*’—This is a clear
 reference to Manu 5.51—
 
-&gt; anumantā viśasitā nihantā krayavikrayī \|  
-&gt; saṃskartā copahartā ca khādakaśceti ghātakāḥ \|\|
+> anumantā viśasitā nihantā krayavikrayī \|  
+> saṃskartā copahartā ca khādakaśceti ghātakāḥ \|\|
 
 This verse is quoted in *Saṃskāramayūkha* (p. 42), which explains
 ‘*paribhoktā*’ as one who eats food without presenting it to the

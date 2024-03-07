@@ -734,10 +734,10 @@ imitation of a Vedic form.—(l14)
 This verse is an adaptation of a very much older text. *Vīramitrodaya*
 (Saṃskāra, p. 515) quotes this latter text as ‘śruti’—
 
-&gt; vidyā ha vai brāhmaṇamājagām  
-&gt; gopāya māṃ śevadhiṣṭe'hamasmi \|  
-&gt; asūyakāyānṛjave apatāya  
-&gt; nā mām brūyāt avīryavatī tathā syām \|\|
+> vidyā ha vai brāhmaṇamājagām  
+> gopāya māṃ śevadhiṣṭe'hamasmi \|  
+> asūyakāyānṛjave apatāya  
+> nā mām brūyāt avīryavatī tathā syām \|\|
 
 Burnell and Hopkins remark as follows:—“This with verse 144, which
 appears to have originally followed these verses as a whole, constitutes
@@ -822,10 +822,10 @@ the present verse.—(115)
 As a parallel to this *Vīramitrodaya* (Saṃskāra, p. 515) quotes the
 following ‘śruti’—
 
-&gt; yameva vidyā śucimapramattaṃ  
-&gt; medhāvinaṃ brahmacaryopapannam \|  
-&gt; yaste na duhyet katamañca nāhaṃ  
-&gt; tasmai māṃ vrūyā nidhidāya brahman \|\|
+> yameva vidyā śucimapramattaṃ  
+> medhāvinaṃ brahmacaryopapannam \|  
+> yaste na duhyet katamañca nāhaṃ  
+> tasmai māṃ vrūyā nidhidāya brahman \|\|
 
 This verse is quoted in *Madanapārijāta* (p. 103) also in
 *Vidhānapārijāta* (p. 523).

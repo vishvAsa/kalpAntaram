@@ -449,29 +449,29 @@ been declared that ‘there is no impurity arising from his touch.’
 
 *Objection*.—
 
-&gt; “How can these sacraments be regarded as subserving the purposes of
-&gt; actions? As regards the ‘sprinkling of butter,’ it is only natural
-&gt; that through the butter it should subserve the purposes of the
-&gt; sacrificial act, in Connection with which it has been prescribed.
-&gt; These sacraments however lie entirely, outside the pale of any
-&gt; action;—their injunction not occurring in the context of any
-&gt; sacrificial act. So it is difficult to say that they help in the
-&gt; sacrifice through the man (in the way in which the does through the
-&gt; butter). And unless it subserves the purposes of an act, consecration
-&gt; cannot be performed for its own sake; as in that case it should cease
-&gt; to be a ‘consecration’ (which is always subsidiary to something else),
-&gt; and become a *primary* act itself, and (when it ceases to be a
-&gt; *consecration*) this would mean the nullification of the statement
-&gt; ‘corporeal consecration should be performed’ (verse 26), and also of
-&gt; the Accusative ending in the statement ‘when, the boy is born, before
-&gt; he is touched by any other person, the father should etc.’ (which
-&gt; refers to the Birth-rites); and in that case, the sense of the
-&gt; injunction will have to be altered, as is done in the case of the
-&gt; injunction ‘*Saktūñjuhoti*’ \[where the incompatibility of the
-&gt; *Accusative* ending leads us to alter it into the *Instrumental* \],—a
-&gt; particular result (as arising out of the consecration, as a primary
-&gt; act by itself) will have to be assumed; and so forth, a number of
-&gt; absurd assumptions will have to be made.”
+> “How can these sacraments be regarded as subserving the purposes of
+> actions? As regards the ‘sprinkling of butter,’ it is only natural
+> that through the butter it should subserve the purposes of the
+> sacrificial act, in Connection with which it has been prescribed.
+> These sacraments however lie entirely, outside the pale of any
+> action;—their injunction not occurring in the context of any
+> sacrificial act. So it is difficult to say that they help in the
+> sacrifice through the man (in the way in which the does through the
+> butter). And unless it subserves the purposes of an act, consecration
+> cannot be performed for its own sake; as in that case it should cease
+> to be a ‘consecration’ (which is always subsidiary to something else),
+> and become a *primary* act itself, and (when it ceases to be a
+> *consecration*) this would mean the nullification of the statement
+> ‘corporeal consecration should be performed’ (verse 26), and also of
+> the Accusative ending in the statement ‘when, the boy is born, before
+> he is touched by any other person, the father should etc.’ (which
+> refers to the Birth-rites); and in that case, the sense of the
+> injunction will have to be altered, as is done in the case of the
+> injunction ‘*Saktūñjuhoti*’ \[where the incompatibility of the
+> *Accusative* ending leads us to alter it into the *Instrumental* \],—a
+> particular result (as arising out of the consecration, as a primary
+> act by itself) will have to be assumed; and so forth, a number of
+> absurd assumptions will have to be made.”
 
 Our answer to the above is as follows:—What we mean by the consecration
 subserving the purposes of sacrifices is-not that it is a subsidiary
@@ -585,44 +585,44 @@ and the Somayajñas are “daiva”.’
 *Jātūkarṇya* (*Ibid*, p. 135).—‘The sixteen sacramental rites are the
 following—
 
-&gt; \(1\) Ādhāna,  
-&gt; (2) Puṃsavana,  
-&gt; (3) Sīmanta,  
-&gt; (4) Jāta,  
-&gt; (5) Nāma,  
-&gt; (6) Anna,  
-&gt; (7) Chaula,  
-&gt; (8) Mauñjī,  
-&gt; (9-12) the four Vratas,  
-&gt; (13) Godāna,  
-&gt; (14) Samāvartana,  
-&gt; (15) Vivāha,  
-&gt; and (16) Antya.’
+> \(1\) Ādhāna,  
+> (2) Puṃsavana,  
+> (3) Sīmanta,  
+> (4) Jāta,  
+> (5) Nāma,  
+> (6) Anna,  
+> (7) Chaula,  
+> (8) Mauñjī,  
+> (9-12) the four Vratas,  
+> (13) Godāna,  
+> (14) Samāvartana,  
+> (15) Vivāha,  
+> and (16) Antya.’
 
 *Āṅgiras* (*Ibid*).—‘
 
-&gt; \(1\) Garbhādhāna,  
-&gt; (2) Puṃsavana,  
-&gt; (3) Sīmanta,  
-&gt; (4) Bali,  
-&gt; (5) Jātakṛtya,  
-&gt; (6) Nāmakaraṇa,  
-&gt; (7) Niṣkrama,  
-&gt; (8) Annaprāśana,  
-&gt; (9) Chaulakarma,  
-&gt; (10) Upanayana,  
-&gt; (11-14) the Four Veda-vratas,  
-&gt; (15) Snāna,  
-&gt; (16) Udvāha,  
-&gt; (17) Āgrayaṇa,  
-&gt; (18) Aṣṭakā,  
-&gt; (19) Śrāvaṇī,  
-&gt; (20) Āśvayujī,  
-&gt; (21) Mārgaśīrṣī,  
-&gt; (22) Pārvaṇa,  
-&gt; (23) Utsarga,  
-&gt; (24) Upākaraṇa,  
-&gt; (25) Mahāyajñas;
+> \(1\) Garbhādhāna,  
+> (2) Puṃsavana,  
+> (3) Sīmanta,  
+> (4) Bali,  
+> (5) Jātakṛtya,  
+> (6) Nāmakaraṇa,  
+> (7) Niṣkrama,  
+> (8) Annaprāśana,  
+> (9) Chaulakarma,  
+> (10) Upanayana,  
+> (11-14) the Four Veda-vratas,  
+> (15) Snāna,  
+> (16) Udvāha,  
+> (17) Āgrayaṇa,  
+> (18) Aṣṭakā,  
+> (19) Śrāvaṇī,  
+> (20) Āśvayujī,  
+> (21) Mārgaśīrṣī,  
+> (22) Pārvaṇa,  
+> (23) Utsarga,  
+> (24) Upākaraṇa,  
+> (25) Mahāyajñas;
 
 these are the obligatory sacraments, specially for the Brāhmaṇa. It is
 by means of the sacraments that Brāhmaṇahood comes to be gradually
@@ -636,24 +636,24 @@ be not possible, then every year; the seven sacrifices beginning with
 
 *Gautama* (*Ibid*, p. 137).—‘The following are the 10 Sacraments—
 
-&gt; \(1\) Garbhādhāna,  
-&gt; (2) Puṃsavana,  
-&gt; (3) Sīmantonnayana,  
-&gt; (4) Jātakarma,  
-&gt; (5) Nāmakaraṇa,  
-&gt; (6) Annaprāśana,  
-&gt; (7) Chaula,  
-&gt; (8) Upanayana,  
-&gt; (9-12) the four Veda-vratas,  
-&gt; (13) Snāna,  
-&gt; (14) Sahadharmacāriṇīsaṃyoga,  
-&gt; (15-19) the five mahāyajñas,  
-&gt; (20-26) the seven Pākayajñas—Aṣṭakā, Pārvaṇa-Śrāddba, Śrāvanī,
-&gt; Āgrahāyaṇī, Caitrī and Āśvayujī,  
-&gt; (27-33) the seven Haviryajñas—Agnyādheya, Agnihotra, Darśapūrṇamāsa,
-&gt; Cāturmāsya, Āgrayaṇeṣṭi, Nirūdhapaśubandha, and Sautrāmaṇi,  
-&gt; (33-40) the seven Somayajñas—Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍasbī,
-&gt; Vājapeya, Atirātra and Āptoryamā’
+> \(1\) Garbhādhāna,  
+> (2) Puṃsavana,  
+> (3) Sīmantonnayana,  
+> (4) Jātakarma,  
+> (5) Nāmakaraṇa,  
+> (6) Annaprāśana,  
+> (7) Chaula,  
+> (8) Upanayana,  
+> (9-12) the four Veda-vratas,  
+> (13) Snāna,  
+> (14) Sahadharmacāriṇīsaṃyoga,  
+> (15-19) the five mahāyajñas,  
+> (20-26) the seven Pākayajñas—Aṣṭakā, Pārvaṇa-Śrāddba, Śrāvanī,
+> Āgrahāyaṇī, Caitrī and Āśvayujī,  
+> (27-33) the seven Haviryajñas—Agnyādheya, Agnihotra, Darśapūrṇamāsa,
+> Cāturmāsya, Āgrayaṇeṣṭi, Nirūdhapaśubandha, and Sautrāmaṇi,  
+> (33-40) the seven Somayajñas—Agniṣṭoma, Atyagniṣṭoma, Ukthya, Ṣoḍasbī,
+> Vājapeya, Atirātra and Āptoryamā’
 
 ...‘He who has not had these forty sacraments, nor is endowed with the
 eight qualities of the soul (sympathy for all beings, forgiveness,
@@ -879,42 +879,42 @@ perishable’ (*Bṛha* *dāraṇyaka Upaniṣad*, 3. 8. 10).
 
 *Objection*.—
 
-&gt; “Nowhere in the Veda is the *attaining of Brahman* declared to be the
-&gt; reward of the actions here enumerated. For instance, (A) as for the
-&gt; *compulsory* acts, they are prescribed as being without rewards. If
-&gt; we.were to assume rewards, such an assumption would be purely human in
-&gt; its source (and as such not authoritative). And since the Veda has
-&gt; declared them to be *compulsory* by means of such phrases ‘throughout
-&gt; one’s life’ and the like, there can be no justification for applying
-&gt; the principle.of the *V* sacrifice (and assume the reward to consist
-&gt; in the attaining of heaven). If it were argued that—‘from the present
-&gt; verse of Manu itself we learn that the said Acts bring the mentioned
-&gt; rewards,’—then it would come to this that only such persons are
-&gt; entitled to these acts as long for Final Release; which would deprive
-&gt; them of their compulsory character; and this would be contrary to what
-&gt; has been declared in the Veda. It may be argued that—‘inasmuch as no
-&gt; one ever undertakes a fruitless act, (if no rewards were mentioned)
-&gt; the laying down of the acts would be futile.’ ‘But there may be no
-&gt; performance at all; that does not matter; the use of a ‘source of
-&gt; knowledge’ lies in making things known; if it has succeeded in doing
-&gt; this, its purpose has been served; and the present verse does clearly
-&gt; indicate some acts as to be done; and if this indication is
-&gt; accomplished (the purpose of the scriptural injunction has been
-&gt; served); if people do not perform those acts, they transgress the
-&gt; behests of the scripture, and thereby incur sin. All old writers have
-&gt; explained the sense of the Injunctive etc., on these lines. If a
-&gt; servant does not perform his duty, as he is ordered to doby his
-&gt; master, cither he does not obtain his wages, or he incurs sin. Now as
-&gt; regards the compulsory acts, since no rewards are mentioned (in the
-&gt; form of wages), the evil that follows is not in the form of losing the
-&gt; reward, but in the form of suffering pain. It is only in this manner
-&gt; that we can explain the fact of, *all men* being required to perform
-&gt; the compulsory acts. From all this it follows that in the case of
-&gt; compulsory acts there is no reward. (B) As regards the *optional*
-&gt; acts, other results have boen declared as following from them, and not
-&gt; *Fin l Release* (the one mentioned here). How then could this Final
-&gt; Release be such an end of man as is accomplished by the mere
-&gt; performance of acts?”
+> “Nowhere in the Veda is the *attaining of Brahman* declared to be the
+> reward of the actions here enumerated. For instance, (A) as for the
+> *compulsory* acts, they are prescribed as being without rewards. If
+> we.were to assume rewards, such an assumption would be purely human in
+> its source (and as such not authoritative). And since the Veda has
+> declared them to be *compulsory* by means of such phrases ‘throughout
+> one’s life’ and the like, there can be no justification for applying
+> the principle.of the *V* sacrifice (and assume the reward to consist
+> in the attaining of heaven). If it were argued that—‘from the present
+> verse of Manu itself we learn that the said Acts bring the mentioned
+> rewards,’—then it would come to this that only such persons are
+> entitled to these acts as long for Final Release; which would deprive
+> them of their compulsory character; and this would be contrary to what
+> has been declared in the Veda. It may be argued that—‘inasmuch as no
+> one ever undertakes a fruitless act, (if no rewards were mentioned)
+> the laying down of the acts would be futile.’ ‘But there may be no
+> performance at all; that does not matter; the use of a ‘source of
+> knowledge’ lies in making things known; if it has succeeded in doing
+> this, its purpose has been served; and the present verse does clearly
+> indicate some acts as to be done; and if this indication is
+> accomplished (the purpose of the scriptural injunction has been
+> served); if people do not perform those acts, they transgress the
+> behests of the scripture, and thereby incur sin. All old writers have
+> explained the sense of the Injunctive etc., on these lines. If a
+> servant does not perform his duty, as he is ordered to doby his
+> master, cither he does not obtain his wages, or he incurs sin. Now as
+> regards the compulsory acts, since no rewards are mentioned (in the
+> form of wages), the evil that follows is not in the form of losing the
+> reward, but in the form of suffering pain. It is only in this manner
+> that we can explain the fact of, *all men* being required to perform
+> the compulsory acts. From all this it follows that in the case of
+> compulsory acts there is no reward. (B) As regards the *optional*
+> acts, other results have boen declared as following from them, and not
+> *Fin l Release* (the one mentioned here). How then could this Final
+> Release be such an end of man as is accomplished by the mere
+> performance of acts?”
 
 It is just in view of these considerations that the text has been
 explained as a mere ‘*arthavāda*,’ meant to eulogise the injunction of
@@ -925,13 +925,13 @@ or other—to mean ‘capable of reciting the Veda and of performing the
 acts prescribed in the Veda’; ‘*brahma*’ being taken as equivalent to
 ‘Veda.’
 
-&gt; “How is it then that Gautama (8. 8) has spoken of ‘forty sacraments’?
-&gt; There the *Soma-sacrifice* also has been mentioned as a *sacrament*;
-&gt; and certainly a primary sacrifice (as the Soma-sacrifice undoubtedly
-&gt; is) can never have the character of a mere consecratory sacrament. Nor
-&gt; is it possible to take this part of Gautama’s Sutra as an *arthavāda*;
-&gt; as all the forty sacraments are spoken of as being on the same
-&gt; footing.”
+> “How is it then that Gautama (8. 8) has spoken of ‘forty sacraments’?
+> There the *Soma-sacrifice* also has been mentioned as a *sacrament*;
+> and certainly a primary sacrifice (as the Soma-sacrifice undoubtedly
+> is) can never have the character of a mere consecratory sacrament. Nor
+> is it possible to take this part of Gautama’s Sutra as an *arthavāda*;
+> as all the forty sacraments are spoken of as being on the same
+> footing.”
 
 As a matter of fact, the statement of Gautama is purely commendatory,
 the Soma-sacrifice being spoken as a ‘sacrament’ in the sense that it
@@ -6070,9 +6070,9 @@ Rāghavānanda);—‘at the base of the fingers’ (Medhātithi and Nandana)
 appears to be quoting the very words of *Śaṅkha*, the actual passage
 from Śaṅkha reads as follows:—
 
-&gt; kāyaṃ kaviṣṭakāmūle tīrthamūktammanīṣibhiḥ  
-&gt; aṅguṣṭhamūle ca tathā prājāpatyaṃ vica?ṇai \|  
-&gt; aṅgus?yagre sthitaṃ daivaṃ piś?yaṃ tarjanimūlake \|
+> kāyaṃ kaviṣṭakāmūle tīrthamūktammanīṣibhiḥ  
+> aṅguṣṭhamūle ca tathā prājāpatyaṃ vica?ṇai \|  
+> aṅgus?yagre sthitaṃ daivaṃ piś?yaṃ tarjanimūlake \|
 
 Here ‘*Kāya*’ is distinguished from ‘*Prājāpatya*’ *Vīramitrodaya* also
 cites Medhātithi as quoting Śaṅkha’s text.

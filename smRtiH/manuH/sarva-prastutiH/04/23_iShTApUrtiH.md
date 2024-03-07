@@ -120,48 +120,48 @@ I. *What is derived from* (*a*) *learning*, (*b*) *bravery*, (*c*)
 *pupil, and* (g) *inheritance,—are the seven kinds of ‘pure*’ *wealth;
 and the result of these is also pure*.
 
-&gt; Of these, *learning* and *austerities* are the sources that bring
-&gt; presents. Though ‘present’ constitutes only one kind of wealth, yet it
-&gt; has been mentioned as *two*, on account of its twofold source. The
-&gt; qualifications of the persons making the gifts have also to be borne
-&gt; in mind. If the giver does not happen to be absolutely objectionable,
-&gt; the wealth derived from him is also *pure*.—The terms ‘*person
-&gt; sacrificed for*’ and ‘*pupil*’ indicate the work of *officiating at
-&gt; sacrifices* and *teaching*.—‘*inherited*,’ from one’s
-&gt; forefathers.—‘*Bride*,’ what is obtained from the Father-in-law, at
-&gt; the time of marriage.—‘*Bravery*’— for the *Kṣatriya*; while the
-&gt; ‘bride’ and ‘inheritance,’ are common to all men.
+> Of these, *learning* and *austerities* are the sources that bring
+> presents. Though ‘present’ constitutes only one kind of wealth, yet it
+> has been mentioned as *two*, on account of its twofold source. The
+> qualifications of the persons making the gifts have also to be borne
+> in mind. If the giver does not happen to be absolutely objectionable,
+> the wealth derived from him is also *pure*.—The terms ‘*person
+> sacrificed for*’ and ‘*pupil*’ indicate the work of *officiating at
+> sacrifices* and *teaching*.—‘*inherited*,’ from one’s
+> forefathers.—‘*Bride*,’ what is obtained from the Father-in-law, at
+> the time of marriage.—‘*Bravery*’— for the *Kṣatriya*; while the
+> ‘bride’ and ‘inheritance,’ are common to all men.
 
 II\. *What is derived by*— (*a*) *usury*—(*b*) *agriculture*, (*c*)
 *trade*, (*d*) *art* (*e*) *service*, (*f*) *attendance*, *and* (*g*)
 *from a person who has been helped* ;—*these seven kinds of wealth are
 called* ‘*mixed*.’
 
-&gt; ‘*Service*’ consists of running on errands and obeying orders; while
-&gt; ‘*attendance*’ is agreeable behaviour. Of these, ‘usury,’
-&gt; ‘agriculture’ and ‘trade’ are *mixed* only for the *non* - *Vaiśya*;
-&gt; for the *Vaiśya*, these are commendable. Similarly, ‘service,’
-&gt; consisting of attending upon twice-born men, is commendable for the
-&gt; *Śūdra*; the others are not commended for him. What is meant by these
-&gt; being ‘mixed’ is, that the results obtained from acts, performed with
-&gt; wealth derived from those sources, are transitory; these results
-&gt; lasting only during the present life.
+> ‘*Service*’ consists of running on errands and obeying orders; while
+> ‘*attendance*’ is agreeable behaviour. Of these, ‘usury,’
+> ‘agriculture’ and ‘trade’ are *mixed* only for the *non* - *Vaiśya*;
+> for the *Vaiśya*, these are commendable. Similarly, ‘service,’
+> consisting of attending upon twice-born men, is commendable for the
+> *Śūdra*; the others are not commended for him. What is meant by these
+> being ‘mixed’ is, that the results obtained from acts, performed with
+> wealth derived from those sources, are transitory; these results
+> lasting only during the present life.
 
 III\. *What is obtained by*—(*a*) *bribery*, (*b*) *gambling*, (*c*)
 *stealing*, (*d*) *causing pain to others*, (*e*) *hypocrisy*, (*f*)
 *robbery and* (*g*) *fraud*;—*all this has been declared to be ‘black*.’
 
-&gt; ‘*Pārśvika*,’—the man at one’s side, obtains wealth by means of
-&gt; bribery, etc. For instance, having come to know that a person is going
-&gt; to obtain some wealth, one goes over to him and says, ‘I shall get yon
-&gt; so much wealth, you should give me something out of it,’ and then
-&gt; receives it from him; the man not having done anything himself, nor
-&gt; having anything done by others, but simply looking on, and yet
-&gt; receiving money; or when one receives some consideration for standing
-&gt; surety for a borrower.—‘*Pratirūpaka*’ is pretence, hypocrisy
-&gt; .—‘*Fraud*’—when one sells the *kusumbha* flower, in place of
-&gt; saffron.—‘*Ārti*’ is causing pain to others.—‘*Stealing*’ is taking
-&gt; away things by stealth; and ‘*robbery*’ is taking away by force.
+> ‘*Pārśvika*,’—the man at one’s side, obtains wealth by means of
+> bribery, etc. For instance, having come to know that a person is going
+> to obtain some wealth, one goes over to him and says, ‘I shall get yon
+> so much wealth, you should give me something out of it,’ and then
+> receives it from him; the man not having done anything himself, nor
+> having anything done by others, but simply looking on, and yet
+> receiving money; or when one receives some consideration for standing
+> surety for a borrower.—‘*Pratirūpaka*’ is pretence, hypocrisy
+> .—‘*Fraud*’—when one sells the *kusumbha* flower, in place of
+> saffron.—‘*Ārti*’ is causing pain to others.—‘*Stealing*’ is taking
+> away things by stealth; and ‘*robbery*’ is taking away by force.
 
 “As a matter of fact, stealing and robbery do not produce *ownership* at
 all, these not having been mentioned, among the means of acquiring it,

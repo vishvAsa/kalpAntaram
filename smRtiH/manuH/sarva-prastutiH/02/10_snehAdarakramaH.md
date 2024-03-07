@@ -930,9 +930,9 @@ vowels—in the sense that it ends in itself, it being regarded as its own
 constituent part, according to *Śabdenduśekhara*, which has the
 following note—
 
-&gt; nanu mārtaṇḍa ityatra mārtaśabdāntyāc takārākāraḥ sa
-&gt; ādiryasyetyanyapadārtho durlabha iti cenna \| ekasminneva
-&gt; samudāyatvāropeṇa tadavayavatvāropeṇa ca tadupapatteḥ \|\|
+> nanu mārtaṇḍa ityatra mārtaśabdāntyāc takārākāraḥ sa
+> ādiryasyetyanyapadārtho durlabha iti cenna \| ekasminneva
+> samudāyatvāropeṇa tadavayavatvāropeṇa ca tadupapatteḥ \|\|
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 297), which adds
 the following notes:—The compound ‘*pūrvākṣaraḥ*’ is to be expounded as
@@ -1502,11 +1502,11 @@ rest’ (Nandana);—‘Subteachers’ (Nārāyaṇa).
 *Medhātithi* (p. 133, 1. 27)—‘*Gautamīye*’—This refers to Gautama 6.9,
 which reads—
 
-&gt; ṛtvikśvaśurapitṛṣyamātulānāṃ tu yavīyasāmprasyutthānamanabhivādyāḥ (?)
+> ṛtvikśvaśurapitṛṣyamātulānāṃ tu yavīyasāmprasyutthānamanabhivādyāḥ (?)
 
 *Ibid*. (p. 133, 1. 28)—‘*Bhāgineyādeḥ*’—See Gautama, 6.20—
 
-&gt; vittabandhūkarmajātividyāvayāṃsi para?tīyāṃsi,
+> vittabandhūkarmajātividyāvayāṃsi para?tīyāṃsi,
 
 *cf*. also Manu, 2.136.
 
@@ -1940,7 +1940,7 @@ that is meant is that they have to be ‘treated with respect’; and this
 implies that one should stand up to receive and welcome them with
 agreeable words, as is clearly laid down by Baudhāyana, who says,
 
-&gt; ṛtvikśvaśurapitṛ?yamātulānāṃ tu yaviyasāṃ pratyutthānābhibhāṣaṇam.
+> ṛtvikśvaśurapitṛ?yamātulānāṃ tu yaviyasāṃ pratyutthānābhibhāṣaṇam.
 
 That these are not to he saluted is clearly asserted by Gautama (6.9),
 which lays down that these are anabhivāthāḥ (?), It is interesting to

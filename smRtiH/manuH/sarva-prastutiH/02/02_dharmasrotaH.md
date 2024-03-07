@@ -590,148 +590,148 @@ vedā(du|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ |
 
 \[The opponent raises an initial objection\]—
 
-&gt; “What is the relevanoy of what is stated in this verse? It is *Dharma*
-&gt; that has been declared as the subject to be described; and *Dharma*
-&gt; can be described only by means of Injunctions and Prohibitions. Now as
-&gt; regards the fact of the Veda being the source of Dharma, this cannot
-&gt; form the subject of any injunction such as ‘the Veda should be known
-&gt; as the source of Dharma, as the authoritative means of ascertaining
-&gt; Dharma because this fact can be known without its being enjoined in so
-&gt; many words; certainly the fact of the Veda being the source of Dharma
-&gt; does not stand in need of being notified by any injunctions of such
-&gt; writers as Manu and others; in fact the authoritativeness of the Veda
-&gt; regarding matters relating, to Dharma is as self-evident as that of
-&gt; Direct Perception,—being based upon the facts that (1) it brings about
-&gt; cognitions that are never sublated, (2) that it is not the work of any
-&gt; person, and as such it is entirely free of any suspicion of falsity
-&gt; that might be due to the defects of such authors, and (3) that the
-&gt; words of the Veda itself are free from all defects.
-&gt;
-&gt; “It might be argued that—‘what the text does is to refer to the
-&gt; well-established fact of the Veda being authoritative, with a view to
-&gt; indicate that the Smṛtis of Manu and others are based upon the Veda.’
-&gt;
-&gt; “But this explanation cannot be accepted. For this fact also does not
-&gt; need to be stated; as (l) every *Smṛti*, by its very nature, must, be
-&gt; dependent upon a previous cognition, (2) the chances of mistake in the
-&gt; Smṛtis are precluded by the fact of their being accepted by great men,
-&gt; (3) the super-sensuous things spoken of in the *Smṛtis* could not be
-&gt; known to M anu and others (by any ordinary means of knowledge), and
-&gt; (4) every man knows it from his own experience that there is
-&gt; “recollection” of things taught in the Veda; so that the only possible
-&gt; view that could be entertained regarding the *Smṛtis* is that they are
-&gt; based upon the Veda \[which, therefore, need not have been re-iterated
-&gt; in the Text\]. Further, persons who know the Veda cannot stand in need
-&gt; of any Smṛti for learning what they should do; and lastly, when the
-&gt; Veda itself is the source of *Dharma*, there can be no need for
-&gt; postulating any other sources (in the shape of *Smṛti*, etc.).
-&gt;
-&gt; “Nor is it right to assert that ‘the *conscientious recollection of
-&gt; persons versed in the Veda* is also merely referred to for the purpose
-&gt; of pointing out the unauthoritative character of the heterodox
-&gt; *Smṛtis*’; because the unauthoritative character of these latter is
-&gt; already well established by reasoning. For such heterodox people as
-&gt; the *Śākya*, the *Bhojaka*, the *Kṣapaṇaka* and the rest, there is no
-&gt; possibility of any knowledge of the Veda, by virtue of which they
-&gt; might be regarded as authoritative on matters treated of in their
-&gt; *Smṛtis*; because in the first place they do not admit any connection
-&gt; with the Veda; secondly, they openly declare that the Veda is hot
-&gt; authoritative; thirdly, they contain teachings directly opposed to the
-&gt; Veda; and lastly, these *Smṛtis* clearly prohibit the study of the
-&gt; Veda. If *Buddha* and others had been students of the Veda, then alone
-&gt; could there be any question as to whether or not their *Smṛtis* are
-&gt; based upon the Veda. When however, as a matter of fact, any connection
-&gt; with the Veda is not even remotely possible, how could there be any
-&gt; possibility of these being based upon the Veda? On the contrary, these
-&gt; writers themselves put forward an entirely different basis for their
-&gt; codes,—in the form of tradition (handed down through a series of
-&gt; several *Buddhas*); as for example, in the following words: ‘with my
-&gt; divine eyes I perceive the good and bad conditions of Bhikṣus.’
-&gt; Exactly in the same manner, all such heterodox people as the
-&gt; *Bhojaka*, the *Pañcarātra*, the *Nirgrantha*, the *Anarthavāda*, the
-&gt; *Pāśupata* and the rest hold that their scriptures are the works of
-&gt; gifted personalities, particular deities, capable of directly
-&gt; perceiving the subjects dealt with by them; and they do not admit that
-&gt; *Dharma* has its source in the Veda; in fact their scriptures contain
-&gt; teachings directly opposed to the Veda; *e.g*., some of these people,
-&gt; holding that death frees the living being from the troubles of living,
-&gt; hold all *Killing* to be meritorious; and this (reckless) killing is
-&gt; distinctly prohibited in the Veda; similarly, others hold Bathing at
-&gt; sacred places to be sinful, while the Veda directly enjoins daily
-&gt; bathing and living at sacred places; so again, according to some
-&gt; people, the killing of animals at the Agniṣṭoma sacrifice is sinful;
-&gt; and this is against the Vedic injunction laying down the performing of
-&gt; that sacrifice;—lastly, some people hold that all such acts as the
-&gt; offering of libations and sacrifices are entirely selfish, while
-&gt; according to the Veda, which prescribes various deities in connection
-&gt; with the said acts, they are performed for the sake of these several
-&gt; deities. So that there is distinct disagreement between the Veda and
-&gt; the said heterodox scriptures.
-&gt;
-&gt; “Some people have argued as follows:—
-&gt;
-&gt; ‘In the Veda also we find contradictory assertions *e.g*., one passage
-&gt; lays down the *holding* (of the Śodaśī-vessel, at the Atirātra
-&gt; sacrifice), while another says it should not be held; similarly one
-&gt; passage prescribes the time *after Sunrise* as best suited to the
-&gt; pouring of libations, while another lays down the time *before
-&gt; Sunrise*; so that it is quite possible that in the Veda itself—either
-&gt; in its lost Rescensions or even in such Rescensions as are not
-&gt; completely lost—there may be found injunctions contrary to a certain
-&gt; Vedic injunction \[and these contrary Vedic passages would form the
-&gt; basis for the non-Vedic teachings of the heterodox *Smṛtis* \]. The
-&gt; number of Vedic Rescensions is endless; how could all of them be known
-&gt; to any one person? And it is quite possible that some of them might
-&gt; have become lost. So that it is quite possible that there may be some
-&gt; such Vedic Rescensional text as contains direct injunctions of such
-&gt; acts as *Eating in a vessel made of human bones, remaining
-&gt; naked-skinned* and so forth (which have been prescribed in some
-&gt; heterodox scriptures).’
-&gt;
-&gt; “Our answer to the above is as follows:—We do not deny the possibility
-&gt; of mutually contradictory teachings being found in the Veda; what we
-&gt; mean is that in all such cases (where both the injunctions are equally
-&gt; directly perceived), both injunctions stand upon the same footing, and
-&gt; consequently the two acts are regarded as optional alternatives. In
-&gt; the case in question however (*i.e*., when the teaching of a heterodox
-&gt; scripture is found to contradict the direct teaching of the Veda), the
-&gt; Vedic text (in support of the heterodox teaching) could only be
-&gt; *assumed*; but there can be no occasion for the assumption of a text
-&gt; directly contradictory to one that is directly perceived. The mere
-&gt; possibility of a Vedic text (in support of the heterodox teaching)
-&gt; cannot lead to any certainty regarding its actual existence; while the
-&gt; Vedic injunction to the contrary is directly perceptible and certain;
-&gt; and certainly a certain text can never be sublated by an uncertain
-&gt; one. As for the theory of ‘lost Rescensions,’ we shall deal with it in
-&gt; detail later on, in our comments on this same verse. As regards the
-&gt; (orthodox) *Smṛtis* of Manu and others, their relationship to directly
-&gt; perceptible Vedic texts is quite patent; in some cases they are
-&gt; related to the Vedic *mantras*, in others to the Vedic deities, and in
-&gt; others again with substances and other details. No such relationship
-&gt; is possible in the case of the heterodox Smṛtis; hence no authority
-&gt; can ever belong to them (for the purpose of re-iterating which fact
-&gt; there could be a *reference* to the ‘Recollection of persons versed in
-&gt; the Veda.’)
-&gt;
-&gt; “As regards *Practice*,—that which consists in what is actually done,
-&gt; with a view to invisible results, by persons learned iu the Veda,—its
-&gt; authoritative character is exactly like that of *Recollection*
-&gt; (Smṛti); because that also has its basis in the Veda. On the other
-&gt; hand, wrong Practice is generally based upon visible causes (of greed,
-&gt; &c.), and unlearned persons are apt to commit mistakes; hence it can
-&gt; not have any authority at all.
-&gt;
-&gt; “Similarly with *Self-satisfaction*.
-&gt;
-&gt; “If again the authority of the Veda, of Recollection and of Practice
-&gt; were dependent upon the teachings of Manu and others (in the shape of
-&gt; the present verse), on what would the authority of these latter rest?
-&gt; If on other teachings—such as ‘the *Smārta Dharma* has been expounded
-&gt; by Manu,’—then, whence the authority of these latter? In fact, the
-&gt; ultimate criterion as to what is authoritative and what is not
-&gt; authoritative, would be a purely logical one, and it would not consist
-&gt; in any teaching at all. So that the present verse is absolutely
-&gt; useless; and so also other similar verses that follow.”
+> “What is the relevanoy of what is stated in this verse? It is *Dharma*
+> that has been declared as the subject to be described; and *Dharma*
+> can be described only by means of Injunctions and Prohibitions. Now as
+> regards the fact of the Veda being the source of Dharma, this cannot
+> form the subject of any injunction such as ‘the Veda should be known
+> as the source of Dharma, as the authoritative means of ascertaining
+> Dharma because this fact can be known without its being enjoined in so
+> many words; certainly the fact of the Veda being the source of Dharma
+> does not stand in need of being notified by any injunctions of such
+> writers as Manu and others; in fact the authoritativeness of the Veda
+> regarding matters relating, to Dharma is as self-evident as that of
+> Direct Perception,—being based upon the facts that (1) it brings about
+> cognitions that are never sublated, (2) that it is not the work of any
+> person, and as such it is entirely free of any suspicion of falsity
+> that might be due to the defects of such authors, and (3) that the
+> words of the Veda itself are free from all defects.
+>
+> “It might be argued that—‘what the text does is to refer to the
+> well-established fact of the Veda being authoritative, with a view to
+> indicate that the Smṛtis of Manu and others are based upon the Veda.’
+>
+> “But this explanation cannot be accepted. For this fact also does not
+> need to be stated; as (l) every *Smṛti*, by its very nature, must, be
+> dependent upon a previous cognition, (2) the chances of mistake in the
+> Smṛtis are precluded by the fact of their being accepted by great men,
+> (3) the super-sensuous things spoken of in the *Smṛtis* could not be
+> known to M anu and others (by any ordinary means of knowledge), and
+> (4) every man knows it from his own experience that there is
+> “recollection” of things taught in the Veda; so that the only possible
+> view that could be entertained regarding the *Smṛtis* is that they are
+> based upon the Veda \[which, therefore, need not have been re-iterated
+> in the Text\]. Further, persons who know the Veda cannot stand in need
+> of any Smṛti for learning what they should do; and lastly, when the
+> Veda itself is the source of *Dharma*, there can be no need for
+> postulating any other sources (in the shape of *Smṛti*, etc.).
+>
+> “Nor is it right to assert that ‘the *conscientious recollection of
+> persons versed in the Veda* is also merely referred to for the purpose
+> of pointing out the unauthoritative character of the heterodox
+> *Smṛtis*’; because the unauthoritative character of these latter is
+> already well established by reasoning. For such heterodox people as
+> the *Śākya*, the *Bhojaka*, the *Kṣapaṇaka* and the rest, there is no
+> possibility of any knowledge of the Veda, by virtue of which they
+> might be regarded as authoritative on matters treated of in their
+> *Smṛtis*; because in the first place they do not admit any connection
+> with the Veda; secondly, they openly declare that the Veda is hot
+> authoritative; thirdly, they contain teachings directly opposed to the
+> Veda; and lastly, these *Smṛtis* clearly prohibit the study of the
+> Veda. If *Buddha* and others had been students of the Veda, then alone
+> could there be any question as to whether or not their *Smṛtis* are
+> based upon the Veda. When however, as a matter of fact, any connection
+> with the Veda is not even remotely possible, how could there be any
+> possibility of these being based upon the Veda? On the contrary, these
+> writers themselves put forward an entirely different basis for their
+> codes,—in the form of tradition (handed down through a series of
+> several *Buddhas*); as for example, in the following words: ‘with my
+> divine eyes I perceive the good and bad conditions of Bhikṣus.’
+> Exactly in the same manner, all such heterodox people as the
+> *Bhojaka*, the *Pañcarātra*, the *Nirgrantha*, the *Anarthavāda*, the
+> *Pāśupata* and the rest hold that their scriptures are the works of
+> gifted personalities, particular deities, capable of directly
+> perceiving the subjects dealt with by them; and they do not admit that
+> *Dharma* has its source in the Veda; in fact their scriptures contain
+> teachings directly opposed to the Veda; *e.g*., some of these people,
+> holding that death frees the living being from the troubles of living,
+> hold all *Killing* to be meritorious; and this (reckless) killing is
+> distinctly prohibited in the Veda; similarly, others hold Bathing at
+> sacred places to be sinful, while the Veda directly enjoins daily
+> bathing and living at sacred places; so again, according to some
+> people, the killing of animals at the Agniṣṭoma sacrifice is sinful;
+> and this is against the Vedic injunction laying down the performing of
+> that sacrifice;—lastly, some people hold that all such acts as the
+> offering of libations and sacrifices are entirely selfish, while
+> according to the Veda, which prescribes various deities in connection
+> with the said acts, they are performed for the sake of these several
+> deities. So that there is distinct disagreement between the Veda and
+> the said heterodox scriptures.
+>
+> “Some people have argued as follows:—
+>
+> ‘In the Veda also we find contradictory assertions *e.g*., one passage
+> lays down the *holding* (of the Śodaśī-vessel, at the Atirātra
+> sacrifice), while another says it should not be held; similarly one
+> passage prescribes the time *after Sunrise* as best suited to the
+> pouring of libations, while another lays down the time *before
+> Sunrise*; so that it is quite possible that in the Veda itself—either
+> in its lost Rescensions or even in such Rescensions as are not
+> completely lost—there may be found injunctions contrary to a certain
+> Vedic injunction \[and these contrary Vedic passages would form the
+> basis for the non-Vedic teachings of the heterodox *Smṛtis* \]. The
+> number of Vedic Rescensions is endless; how could all of them be known
+> to any one person? And it is quite possible that some of them might
+> have become lost. So that it is quite possible that there may be some
+> such Vedic Rescensional text as contains direct injunctions of such
+> acts as *Eating in a vessel made of human bones, remaining
+> naked-skinned* and so forth (which have been prescribed in some
+> heterodox scriptures).’
+>
+> “Our answer to the above is as follows:—We do not deny the possibility
+> of mutually contradictory teachings being found in the Veda; what we
+> mean is that in all such cases (where both the injunctions are equally
+> directly perceived), both injunctions stand upon the same footing, and
+> consequently the two acts are regarded as optional alternatives. In
+> the case in question however (*i.e*., when the teaching of a heterodox
+> scripture is found to contradict the direct teaching of the Veda), the
+> Vedic text (in support of the heterodox teaching) could only be
+> *assumed*; but there can be no occasion for the assumption of a text
+> directly contradictory to one that is directly perceived. The mere
+> possibility of a Vedic text (in support of the heterodox teaching)
+> cannot lead to any certainty regarding its actual existence; while the
+> Vedic injunction to the contrary is directly perceptible and certain;
+> and certainly a certain text can never be sublated by an uncertain
+> one. As for the theory of ‘lost Rescensions,’ we shall deal with it in
+> detail later on, in our comments on this same verse. As regards the
+> (orthodox) *Smṛtis* of Manu and others, their relationship to directly
+> perceptible Vedic texts is quite patent; in some cases they are
+> related to the Vedic *mantras*, in others to the Vedic deities, and in
+> others again with substances and other details. No such relationship
+> is possible in the case of the heterodox Smṛtis; hence no authority
+> can ever belong to them (for the purpose of re-iterating which fact
+> there could be a *reference* to the ‘Recollection of persons versed in
+> the Veda.’)
+>
+> “As regards *Practice*,—that which consists in what is actually done,
+> with a view to invisible results, by persons learned iu the Veda,—its
+> authoritative character is exactly like that of *Recollection*
+> (Smṛti); because that also has its basis in the Veda. On the other
+> hand, wrong Practice is generally based upon visible causes (of greed,
+> &c.), and unlearned persons are apt to commit mistakes; hence it can
+> not have any authority at all.
+>
+> “Similarly with *Self-satisfaction*.
+>
+> “If again the authority of the Veda, of Recollection and of Practice
+> were dependent upon the teachings of Manu and others (in the shape of
+> the present verse), on what would the authority of these latter rest?
+> If on other teachings—such as ‘the *Smārta Dharma* has been expounded
+> by Manu,’—then, whence the authority of these latter? In fact, the
+> ultimate criterion as to what is authoritative and what is not
+> authoritative, would be a purely logical one, and it would not consist
+> in any teaching at all. So that the present verse is absolutely
+> useless; and so also other similar verses that follow.”
 
 Our answer to the above objection is as follows:—
 
@@ -825,15 +825,15 @@ forth.
 
 \[*Objection*\]—
 
-&gt; “No one regards the Atharva as a *Veda*: (*a*) ‘The science is
-&gt; three-fold, consisting of the Ṛk, the Yajuṣ and the Sāman,’ (*b*) ‘The
-&gt; Sun moves forward, endowed with the *three* Vedas’ (Taittirīya
-&gt; Brāhmaṇa, 3.12.91), (*c*) ‘One should keep up the observance of
-&gt; studying the *three* Vedas’; \[all these speak of only *three*
-&gt; Vedas\]. In fact we also find a prohibition regarding the Atharva—‘One
-&gt; should not recite the Atharvaṇas.’ It is in view of all these that
-&gt; people regard the followers of the Atharvaṇa as *heretics*, beyond the
-&gt; pale of the *Vedic Triad*.”
+> “No one regards the Atharva as a *Veda*: (*a*) ‘The science is
+> three-fold, consisting of the Ṛk, the Yajuṣ and the Sāman,’ (*b*) ‘The
+> Sun moves forward, endowed with the *three* Vedas’ (Taittirīya
+> Brāhmaṇa, 3.12.91), (*c*) ‘One should keep up the observance of
+> studying the *three* Vedas’; \[all these speak of only *three*
+> Vedas\]. In fact we also find a prohibition regarding the Atharva—‘One
+> should not recite the Atharvaṇas.’ It is in view of all these that
+> people regard the followers of the Atharvaṇa as *heretics*, beyond the
+> pale of the *Vedic Triad*.”
 
 \[*Answer*\]—This is not right; all good men agree in regarding the
 Atharvaṇa as a *Veda*. In this *Smṛti* itself (11.33) we find the
@@ -948,68 +948,68 @@ vowel (of the Veda) that is not conducive to *Dharma*.
 
 Some people raise the following objection against this:—
 
-&gt; “It has been asserted that the Veda consists of injunctions,
-&gt; descriptions, mantras and names, and *Dharma* is of the nature of what
-&gt; should be done. Now it is only right that the Injunctive passages
-&gt; should be the means of knowing *Dharm* *a*; as it is from these that
-&gt; we learn that sacrifice and other acts should he done,—*e.g*., ‘the
-&gt; *Agnihotra* should be offered,’ ‘an offering of curds should be made,’
-&gt; ‘offerings should he made in the morning and in the evening, to Agni
-&gt; and Prajāpati,’ ‘one desirous of attaining Heaven should pour
-&gt; libations into the fire.’ The whole set of these passages points to
-&gt; the particular action of ‘*Agnihotra*’ as one that should he done;
-&gt; ‘curds’ are the substance to be offered at the same sacrifice, Agni
-&gt; and Prajāpati are the deities to whom the offerings are to be
-&gt; made,—and the ‘desire for heaven’ is the qualifying condition for the
-&gt; performer.
-&gt;
-&gt; “But in the Veda there are many such passages as—(*a*) ‘Agni is all
-&gt; the deities, Agni is the divine power of oblations, he invites the
-&gt; Gods and makes offerings to them,’ &c., and again (*b*) ‘Prajāpati cut
-&gt; out his own fat’ and so forth; and certainly such passages do not lay
-&gt; down anything to be done; all that they do is either to relate some
-&gt; past event or to describe some entirely irrelevant thing. If his own
-&gt; fat was cut out by Prajāpati, let him cut it; what is that to us?
-&gt; Similarly the fact of Agni being all deities does not help in the
-&gt; offerings to Agni; that Agni is the deity to whom the offering should
-&gt; be made having been declared by the word ‘Agni’ itself; if Agni is
-&gt; some other deity, then the mere fact of his being another deity would
-&gt; rule him out as a recipient of that offering. As for *inviting*, that
-&gt; also is laid down by another passage ‘we invite Agni, O Agni!’ Ac. And
-&gt; lastly, as for the mention of Agni inviting and making offerings to
-&gt; the Gods, this is absolutely meaningless.
-&gt;
-&gt; “As regards *mantras* again, there are some,—*e.g*., (*a*) ‘There was
-&gt; neither death nor immortality, &.,’ (Ṛgveda, 10.129.2), (*b*) ‘Sudeva
-&gt; might fall to-day never to return, &c.,’ (Ṛgveda, 10.95.14) and so
-&gt; forth—which either describe some past event or contain a wailing; and
-&gt; what *Dharma* could such mantras expound? At that time there was
-&gt; neither death, nor immortality, nor life—certainly no living being
-&gt; having been born before creation, there, was no life or death of any
-&gt; one; during the universal dissolution also, there may come about the
-&gt; death of all things, or it may not come about,—it does not teach us
-&gt; anything as to anything *to be done*. Similarly, Sudeva, a certain
-&gt; highly meritorious godlike man, might to-day fall, *i.e*.,—might throw
-&gt; himself into a pit—never to return—*i.e*., after which fall he cannot
-&gt; come back to life;—this is how Purūravas, separated from Urvaśī,
-&gt; bewailed.
-&gt;
-&gt; Similarly as regards Names,—*e.g*, as ‘one should sacrifice with the
-&gt; Udbhid,’ ‘one should sacrifice with the Balabhid,’ &c., &c.,—they do
-&gt; not enjoin any act or substance; the enjoining of the action being
-&gt; done by the verb (‘should sacrifice’), and the word ‘*Balabhid*’ and
-&gt; ‘*Udbhid*, &c., not being expressive of any substance; specially as
-&gt; the substance for the sacrifice iu question in the form of *Soma*—is
-&gt; got at from its archetype by virtue of the direct injunction. \[that
-&gt; ‘the ectypal sacrifices are to be performed in the manner of their
-&gt; archetypes,’ and the archetype of the *Udbhid* sacrifice is the
-&gt; Jyotiṣṭoma at which *soma-juice* is the substance offered\]; and hence
-&gt; there is no necessity for twisting the words ‘udbhid,’ &c., to yield
-&gt; the name of some sacrificial material \[such as *tree* or *spade*,
-&gt; which may be indicated by the etymology of the word ‘*udbhid*,’ which
-&gt; means ‘that which shoots out’ or ‘that with which digging is done’\].
-&gt; Thus it is clear that no *dharma* is indicated by the names. How then
-&gt; can it be said that ‘the *entire* Veda is the root of dharma?’”
+> “It has been asserted that the Veda consists of injunctions,
+> descriptions, mantras and names, and *Dharma* is of the nature of what
+> should be done. Now it is only right that the Injunctive passages
+> should be the means of knowing *Dharm* *a*; as it is from these that
+> we learn that sacrifice and other acts should he done,—*e.g*., ‘the
+> *Agnihotra* should be offered,’ ‘an offering of curds should be made,’
+> ‘offerings should he made in the morning and in the evening, to Agni
+> and Prajāpati,’ ‘one desirous of attaining Heaven should pour
+> libations into the fire.’ The whole set of these passages points to
+> the particular action of ‘*Agnihotra*’ as one that should he done;
+> ‘curds’ are the substance to be offered at the same sacrifice, Agni
+> and Prajāpati are the deities to whom the offerings are to be
+> made,—and the ‘desire for heaven’ is the qualifying condition for the
+> performer.
+>
+> “But in the Veda there are many such passages as—(*a*) ‘Agni is all
+> the deities, Agni is the divine power of oblations, he invites the
+> Gods and makes offerings to them,’ &c., and again (*b*) ‘Prajāpati cut
+> out his own fat’ and so forth; and certainly such passages do not lay
+> down anything to be done; all that they do is either to relate some
+> past event or to describe some entirely irrelevant thing. If his own
+> fat was cut out by Prajāpati, let him cut it; what is that to us?
+> Similarly the fact of Agni being all deities does not help in the
+> offerings to Agni; that Agni is the deity to whom the offering should
+> be made having been declared by the word ‘Agni’ itself; if Agni is
+> some other deity, then the mere fact of his being another deity would
+> rule him out as a recipient of that offering. As for *inviting*, that
+> also is laid down by another passage ‘we invite Agni, O Agni!’ Ac. And
+> lastly, as for the mention of Agni inviting and making offerings to
+> the Gods, this is absolutely meaningless.
+>
+> “As regards *mantras* again, there are some,—*e.g*., (*a*) ‘There was
+> neither death nor immortality, &.,’ (Ṛgveda, 10.129.2), (*b*) ‘Sudeva
+> might fall to-day never to return, &c.,’ (Ṛgveda, 10.95.14) and so
+> forth—which either describe some past event or contain a wailing; and
+> what *Dharma* could such mantras expound? At that time there was
+> neither death, nor immortality, nor life—certainly no living being
+> having been born before creation, there, was no life or death of any
+> one; during the universal dissolution also, there may come about the
+> death of all things, or it may not come about,—it does not teach us
+> anything as to anything *to be done*. Similarly, Sudeva, a certain
+> highly meritorious godlike man, might to-day fall, *i.e*.,—might throw
+> himself into a pit—never to return—*i.e*., after which fall he cannot
+> come back to life;—this is how Purūravas, separated from Urvaśī,
+> bewailed.
+>
+> Similarly as regards Names,—*e.g*, as ‘one should sacrifice with the
+> Udbhid,’ ‘one should sacrifice with the Balabhid,’ &c., &c.,—they do
+> not enjoin any act or substance; the enjoining of the action being
+> done by the verb (‘should sacrifice’), and the word ‘*Balabhid*’ and
+> ‘*Udbhid*, &c., not being expressive of any substance; specially as
+> the substance for the sacrifice iu question in the form of *Soma*—is
+> got at from its archetype by virtue of the direct injunction. \[that
+> ‘the ectypal sacrifices are to be performed in the manner of their
+> archetypes,’ and the archetype of the *Udbhid* sacrifice is the
+> Jyotiṣṭoma at which *soma-juice* is the substance offered\]; and hence
+> there is no necessity for twisting the words ‘udbhid,’ &c., to yield
+> the name of some sacrificial material \[such as *tree* or *spade*,
+> which may be indicated by the etymology of the word ‘*udbhid*,’ which
+> means ‘that which shoots out’ or ‘that with which digging is done’\].
+> Thus it is clear that no *dharma* is indicated by the names. How then
+> can it be said that ‘the *entire* Veda is the root of dharma?’”
 
 Our answer to the above is as follows:—It is just in view of these
 doubts that the Author has added the epithet ‘*entire*’; by which it is
@@ -1104,21 +1104,21 @@ acts, or by the Prohibitions—such as ‘one should not eat garlic.’
 
 The objection anticipated by these people is as follows:—
 
-&gt; “The *Śyena* and other sacrifices of the kind are in the form of
-&gt; malevolent spells; and partaking of the character of *murder*, they
-&gt; are distinctly of the nature of ‘*Himsā*’ (Injury); and since all form
-&gt; of injury is cruel, and all evil spells have been prohibited, these
-&gt; sacrifices must be ‘*Adharma*,’ the opposite of ‘*Dharma*’ (sinful).
-&gt; \[And since the Veda lays down such sacrifices\] the ‘*entir*’ Veda
-&gt; cannot be the ‘root of *Dharma*.’ Por ‘*Dharma*’ has been explained as
-&gt; ‘what should be done,’ and certainly the killing of the Brāhmaṇa is
-&gt; not ‘what should be done.’ How then can the passages laying down such
-&gt; acts be the ‘root of Dharma’? Further, even the
-&gt; animal-sacrifices—*Agniṣomīya* and the rest,—involve the killing of
-&gt; animals, and as such are very far removed from the character of
-&gt; ‘Dharma.’ That killing is sinful is admitted by all enquiries. To this
-&gt; end it has been said ‘where the killing of living beings is *Dharma*,
-&gt; what can be *Adharma*?’”
+> “The *Śyena* and other sacrifices of the kind are in the form of
+> malevolent spells; and partaking of the character of *murder*, they
+> are distinctly of the nature of ‘*Himsā*’ (Injury); and since all form
+> of injury is cruel, and all evil spells have been prohibited, these
+> sacrifices must be ‘*Adharma*,’ the opposite of ‘*Dharma*’ (sinful).
+> \[And since the Veda lays down such sacrifices\] the ‘*entir*’ Veda
+> cannot be the ‘root of *Dharma*.’ Por ‘*Dharma*’ has been explained as
+> ‘what should be done,’ and certainly the killing of the Brāhmaṇa is
+> not ‘what should be done.’ How then can the passages laying down such
+> acts be the ‘root of Dharma’? Further, even the
+> animal-sacrifices—*Agniṣomīya* and the rest,—involve the killing of
+> animals, and as such are very far removed from the character of
+> ‘Dharma.’ That killing is sinful is admitted by all enquiries. To this
+> end it has been said ‘where the killing of living beings is *Dharma*,
+> what can be *Adharma*?’”
 
 Now how is this objection anticipated? It is anticipated (say these
 other people) by the adding of the epithet ‘*entire*.’ There is no other
@@ -1180,10 +1180,10 @@ another ‘authority’ (means of knowing) for *Dharma*. consists in the
 idea, ‘this should be done, that should not be done,’ entertained by
 people learned in the Veda.
 
-&gt; “It has been held that Recollection is not a reliable means of
-&gt; knowledge; and the reason for this that is given is that Recollection
-&gt; only serves to recall what has been apprehended by other means of
-&gt; knowledge, and does not lead to the apprehension of anything new.”
+> “It has been held that Recollection is not a reliable means of
+> knowledge; and the reason for this that is given is that Recollection
+> only serves to recall what has been apprehended by other means of
+> knowledge, and does not lead to the apprehension of anything new.”
 
 This is true; for the persons to whom the recollection belongs, it is
 the original means of knowledge—Trustworthy Assertion or Perception,
@@ -1201,10 +1201,10 @@ ordinary means of knowledge; and this is indicated by the fact of the
 Recollection being there, and no.Recollection being possible without
 previous apprehension.
 
-&gt; “It is quite possible that Manu and others have compiled their
-&gt; ‘Recollections’ from imagination, without having actually apprehended
-&gt; what they speak of; in the same manner as certain poets compose a
-&gt; story after having created the whole plot from imagination.”
+> “It is quite possible that Manu and others have compiled their
+> ‘Recollections’ from imagination, without having actually apprehended
+> what they speak of; in the same manner as certain poets compose a
+> story after having created the whole plot from imagination.”
 
 The answer to this is as follows:—This might be so, if the works under
 consideration did not contain teachings regarding what ‘should he done.’
@@ -1212,7 +1212,7 @@ Teachings regarding what should he done are meant to lead to the
 performance of those acts; and certainly no ìational person can ever
 perform what is taught on an imaginary basis.
 
-&gt; “But people might he led to perform it by mistake.”
+> “But people might he led to perform it by mistake.”
 
 One man might fall into such a mistake; that the entire world has fallen
 into a mistake, and this mistake has persisted ever since the beginning
@@ -1362,40 +1362,40 @@ science of the Five Fires does not fall, even though he commits the
 theft of gold, etc., or associates with persons who have committed
 them—otherwise he does fall’?
 
-&gt; “Who has laid down the law that in the said passage the Injunction is
-&gt; conveyed, not directly by the *Arthavāda* itself, but by the fact of
-&gt; its being connected with another Injunctive passage? As a matter of
-&gt; fact, the passage itself contains an independent finite verb of its
-&gt; own—‘these four fall’ \[and this would serve as the direct
-&gt; prohibition). It might be argued that the verb does not contain the
-&gt; Injunctive affix: But the passage ‘they obtain a standing who per form
-&gt; the *Rātrisatra*’ also contains no verb ending with the Injunctive
-&gt; affix. It might he argued that—‘in the case of the *Rātrisatra*, the
-&gt; need for a qualifying condition being distinctly felt, the two
-&gt; sentences (*they obtain* a *standing* and *they perform the
-&gt; Rātrisatra*) come to be taken as syntactically connected, and the
-&gt; necessary injunction is got at by assuming the verb to contain the
-&gt; *Let* ending.’—But the same may be said in regard to the passage in
-&gt; question also. In fact, there are several injunctions of substances
-&gt; and deities that are obtained from *Arthavādas*. In a case where the
-&gt; *Arthavāda* is distinctly subservient to an Injunctive passage,—since
-&gt; this latter injunction would be in need of the mention of a substance
-&gt; or a deity (for the act enjoined) \[that may be found mentioned in the
-&gt; corresponding *Arthavāda*\], it may not be improper to take the
-&gt; *Arthavāda* as simply serving to supply the needs of the corresponding
-&gt; Injunction (and not as enjoining anything independently by itself). In
-&gt; the present instance however (of the *Arthavāda* passage ‘the theft of
-&gt; gold, etc., etc.’), if we are to seek for an injunction that has no
-&gt; connection with the *Arthavāda* (and this injunction were sought to be
-&gt; derived from the words of the *Arthavāda* itself), then this would
-&gt; give rise to a syntactical split; hence it cannot be taken as
-&gt; subservient to the main subject-matter of the context (*i.e*., the
-&gt; science of the Five Fires); and in the absence of such subserviency,
-&gt; the *Arthavāda* could not provide any idea of the Prohibition. This is
-&gt; the point on which the case of the *Arthavāda in* question is not
-&gt; analogous to that of the sentences—‘One should put in wet pebbles’ and
-&gt; ‘Butter is glory’ \[where the connection between the two is quite
-&gt; clear\].”
+> “Who has laid down the law that in the said passage the Injunction is
+> conveyed, not directly by the *Arthavāda* itself, but by the fact of
+> its being connected with another Injunctive passage? As a matter of
+> fact, the passage itself contains an independent finite verb of its
+> own—‘these four fall’ \[and this would serve as the direct
+> prohibition). It might be argued that the verb does not contain the
+> Injunctive affix: But the passage ‘they obtain a standing who per form
+> the *Rātrisatra*’ also contains no verb ending with the Injunctive
+> affix. It might he argued that—‘in the case of the *Rātrisatra*, the
+> need for a qualifying condition being distinctly felt, the two
+> sentences (*they obtain* a *standing* and *they perform the
+> Rātrisatra*) come to be taken as syntactically connected, and the
+> necessary injunction is got at by assuming the verb to contain the
+> *Let* ending.’—But the same may be said in regard to the passage in
+> question also. In fact, there are several injunctions of substances
+> and deities that are obtained from *Arthavādas*. In a case where the
+> *Arthavāda* is distinctly subservient to an Injunctive passage,—since
+> this latter injunction would be in need of the mention of a substance
+> or a deity (for the act enjoined) \[that may be found mentioned in the
+> corresponding *Arthavāda*\], it may not be improper to take the
+> *Arthavāda* as simply serving to supply the needs of the corresponding
+> Injunction (and not as enjoining anything independently by itself). In
+> the present instance however (of the *Arthavāda* passage ‘the theft of
+> gold, etc., etc.’), if we are to seek for an injunction that has no
+> connection with the *Arthavāda* (and this injunction were sought to be
+> derived from the words of the *Arthavāda* itself), then this would
+> give rise to a syntactical split; hence it cannot be taken as
+> subservient to the main subject-matter of the context (*i.e*., the
+> science of the Five Fires); and in the absence of such subserviency,
+> the *Arthavāda* could not provide any idea of the Prohibition. This is
+> the point on which the case of the *Arthavāda in* question is not
+> analogous to that of the sentences—‘One should put in wet pebbles’ and
+> ‘Butter is glory’ \[where the connection between the two is quite
+> clear\].”
 
 This is not right; for even though the *Arthavāda* has a distinct
 meaning of its own, yet since its connection with the Injunction is
@@ -1502,96 +1502,96 @@ conversation, contained in the *Smṛtis*).
 What we have stated here is only a small portion of this vast subject;
 more of this should be learnt from the *Smṛtiviveka* \[as follows\]:—
 
-&gt; ‘The view that some Vedic texts have become lost is not accepted by
-&gt; me; as this view necessitates several unwarrantable assumptions. It is
-&gt; far more reasonable to accept the view that the *Smṛtis* have brought
-&gt; together the injunctions of actions scattered about here and there. In
-&gt; fact even at the present day we find that a person who is surrounded
-&gt; by several Vedic scholars and teachers is capable of composing works
-&gt; after having heard from those persons the several Vedic texts. It is
-&gt; only natural that persons who have actually seen the writer at the
-&gt; time, basing his statements upon direct Vedic texts should accept them
-&gt; as trustworthy; and we also come to have due confidence in them as far
-&gt; as possible. As a matter of fact, the details of performance are
-&gt; indicated by *Mantras*; and there is indication of them also by Names;
-&gt; there can be no performance, unless there is some sort of indication
-&gt; regarding the nature of the action and the qualifying conditions. For
-&gt; instance, the connection of a particular deity with the *Āghāra*
-&gt; -offering is indicated by the words of a *Mantra*; and the reason for
-&gt; this lies in the indicative character of Mantras, which character
-&gt; becomes possible only if the Deity is taken to be indicated by them.
-&gt; When one action enters into the constitution of another
-&gt; well-accomplished one, it does not interfere with the form of this
-&gt; latter \[so that when a Deity indicated by the *Mantra* is introduced
-&gt; into an action enjoined by a distinct Injunctive passage, it does not
-&gt; interfere with the nature of this action\]. For instance, in
-&gt; connection with the *Viśvajit* sacrifice, we find that the desirable
-&gt; result proceeding from it is got at from sources other than its
-&gt; originative Injunction. Thus it is quite reasonable to assume details
-&gt; in connection even with a well-established injunction, specially when
-&gt; the needs of the Injunction are not supplied even by *Mantras* and
-&gt; *Arthavādas*.
-&gt;
-&gt; ‘\[An objection is raised\]—
-&gt;
-&gt; “The revered Pāṇini has laid down that Injunction is expressed only by
-&gt; the Injunctive and other cognate affixes. So that *Mantras* and
-&gt; *Arthavādas*, describing as they do only accomplished entities, can
-&gt; never express an injunction. If then, from *theArthavāda*, which is
-&gt; not directly injunctive, some sort of Injunction were deduced by means
-&gt; of an indirect interpretation put upon the Arthavāda,—how could any
-&gt; reliance be placed upon such an Injunction? In fact such an
-&gt; interpretation would lead to a syntactical split; specially as (in
-&gt; such *arthavādas* as *they obtain a standing who perform the
-&gt; Rātrisatra*) the *Rātris* *tra* offerings do not necessarily stand in
-&gt; need of the ‘*standing*.’ In fact it is only a detail of the direct
-&gt; Injunction (and not that of the *vāda*) which can be accepted as
-&gt; indicated by supplementary sentences. As regards the prohibition of
-&gt; *Theft*, etc. (which has been sought to be deduced from the
-&gt; *Arthavāda* passage ‘the theft of gold, etc., etc.’), this will
-&gt; certainly be amenable to a direct Injunction; and as in the event of
-&gt; the *arthavāda* being made to yield the necessary injunction,
-&gt; syntactical split would be inevitable. Nor is there any analogy
-&gt; between the *Vācastoma* and the *Aṣṭakā*; for in the sacrifice all the
-&gt; details are performed in accordance with injunctions deduced *from
-&gt; mantras*; while in the case of the *Aṣṭakā* there are no grounds for
-&gt; regarding the *mantra* as indicative of any details of performance.
-&gt; Further, no indicative power of the *mantra* can prompt one to any
-&gt; course of action, unless there is some sort of a general connection;
-&gt; and in the case in question there is no such connection either of
-&gt; context or of any such factor.”
-&gt;
-&gt; ‘To the above objection the following reply is given by those who hold
-&gt; the view that also are the *source of Dharma*:—(*a*) In the case of
-&gt; the passage “they obtain a standing, etc.,” even though there is no
-&gt; directly injunctive agency in the form of the Injunctive affix and the
-&gt; rest, yet the idea of *injunction* is held to be supplied by the
-&gt; conjugational affix *let* (in the verb “*upayanti*,” “offer”). (*b*)
-&gt; Similarly in the case of the verb “*patanti*” “they fall” (occurring
-&gt; in the passage “Theft of gold, etc.”), or in that of the verb “use
-&gt; corrupt words” (occurring in another *arthavāda* passage), (*c*) In
-&gt; connection with the *Vācastoma*, we have the distinct injunction
-&gt; beginning with the expression ‘*sarvadāśa* *ṭayīḥ anubrūyāt*,’—this
-&gt; name “*dāśatayī*” being applied to the ten *Ṛk*. verses selected each
-&gt; out of the ten *maṇḍalas* of the Ṛgveda. (*d*) As regards the *general
-&gt; connection* (of the *mantra*) with the action, this is said to be
-&gt; brought about by the force of the *Name*,—the *Gṛhyamantras* being
-&gt; named after the acts (with which they are connected). (*e*) As regards
-&gt; the *arthavāda* passage “Theft of gold, etc., etc.,” that this is
-&gt; subservient to the *Science of the Five Fires* is indicated by the
-&gt; fact that it contains a deprecation of the said *Theft*, etc.; and
-&gt; this cannot be possible except when the *Prohibition* (of the Theft,
-&gt; etc.) is also implied. That the passage is subservient to the *Science
-&gt; of Five Fires* is indicated by the trend of the whole context; and the
-&gt; idea that the Theft, etc., *should not be done* serves to emphasise
-&gt; the said subserviency; and there is no incompatibility between these
-&gt; two \[the idea of *subserviency* and that the acts *should not be
-&gt; done* \]. Lastly, as regards the view that the Vedic texts in
-&gt; corroboration of the *Smṛti* rules h ave always been *inferred* (and
-&gt; never actually found by any one in the Veda),—it stands on the same
-&gt; footing as the notion of long-standing tradition; both would be of the
-&gt; nature of the “blind following the blind”; and we do not perceive any
-&gt; difference between these two views.’
+> ‘The view that some Vedic texts have become lost is not accepted by
+> me; as this view necessitates several unwarrantable assumptions. It is
+> far more reasonable to accept the view that the *Smṛtis* have brought
+> together the injunctions of actions scattered about here and there. In
+> fact even at the present day we find that a person who is surrounded
+> by several Vedic scholars and teachers is capable of composing works
+> after having heard from those persons the several Vedic texts. It is
+> only natural that persons who have actually seen the writer at the
+> time, basing his statements upon direct Vedic texts should accept them
+> as trustworthy; and we also come to have due confidence in them as far
+> as possible. As a matter of fact, the details of performance are
+> indicated by *Mantras*; and there is indication of them also by Names;
+> there can be no performance, unless there is some sort of indication
+> regarding the nature of the action and the qualifying conditions. For
+> instance, the connection of a particular deity with the *Āghāra*
+> -offering is indicated by the words of a *Mantra*; and the reason for
+> this lies in the indicative character of Mantras, which character
+> becomes possible only if the Deity is taken to be indicated by them.
+> When one action enters into the constitution of another
+> well-accomplished one, it does not interfere with the form of this
+> latter \[so that when a Deity indicated by the *Mantra* is introduced
+> into an action enjoined by a distinct Injunctive passage, it does not
+> interfere with the nature of this action\]. For instance, in
+> connection with the *Viśvajit* sacrifice, we find that the desirable
+> result proceeding from it is got at from sources other than its
+> originative Injunction. Thus it is quite reasonable to assume details
+> in connection even with a well-established injunction, specially when
+> the needs of the Injunction are not supplied even by *Mantras* and
+> *Arthavādas*.
+>
+> ‘\[An objection is raised\]—
+>
+> “The revered Pāṇini has laid down that Injunction is expressed only by
+> the Injunctive and other cognate affixes. So that *Mantras* and
+> *Arthavādas*, describing as they do only accomplished entities, can
+> never express an injunction. If then, from *theArthavāda*, which is
+> not directly injunctive, some sort of Injunction were deduced by means
+> of an indirect interpretation put upon the Arthavāda,—how could any
+> reliance be placed upon such an Injunction? In fact such an
+> interpretation would lead to a syntactical split; specially as (in
+> such *arthavādas* as *they obtain a standing who perform the
+> Rātrisatra*) the *Rātris* *tra* offerings do not necessarily stand in
+> need of the ‘*standing*.’ In fact it is only a detail of the direct
+> Injunction (and not that of the *vāda*) which can be accepted as
+> indicated by supplementary sentences. As regards the prohibition of
+> *Theft*, etc. (which has been sought to be deduced from the
+> *Arthavāda* passage ‘the theft of gold, etc., etc.’), this will
+> certainly be amenable to a direct Injunction; and as in the event of
+> the *arthavāda* being made to yield the necessary injunction,
+> syntactical split would be inevitable. Nor is there any analogy
+> between the *Vācastoma* and the *Aṣṭakā*; for in the sacrifice all the
+> details are performed in accordance with injunctions deduced *from
+> mantras*; while in the case of the *Aṣṭakā* there are no grounds for
+> regarding the *mantra* as indicative of any details of performance.
+> Further, no indicative power of the *mantra* can prompt one to any
+> course of action, unless there is some sort of a general connection;
+> and in the case in question there is no such connection either of
+> context or of any such factor.”
+>
+> ‘To the above objection the following reply is given by those who hold
+> the view that also are the *source of Dharma*:—(*a*) In the case of
+> the passage “they obtain a standing, etc.,” even though there is no
+> directly injunctive agency in the form of the Injunctive affix and the
+> rest, yet the idea of *injunction* is held to be supplied by the
+> conjugational affix *let* (in the verb “*upayanti*,” “offer”). (*b*)
+> Similarly in the case of the verb “*patanti*” “they fall” (occurring
+> in the passage “Theft of gold, etc.”), or in that of the verb “use
+> corrupt words” (occurring in another *arthavāda* passage), (*c*) In
+> connection with the *Vācastoma*, we have the distinct injunction
+> beginning with the expression ‘*sarvadāśa* *ṭayīḥ anubrūyāt*,’—this
+> name “*dāśatayī*” being applied to the ten *Ṛk*. verses selected each
+> out of the ten *maṇḍalas* of the Ṛgveda. (*d*) As regards the *general
+> connection* (of the *mantra*) with the action, this is said to be
+> brought about by the force of the *Name*,—the *Gṛhyamantras* being
+> named after the acts (with which they are connected). (*e*) As regards
+> the *arthavāda* passage “Theft of gold, etc., etc.,” that this is
+> subservient to the *Science of the Five Fires* is indicated by the
+> fact that it contains a deprecation of the said *Theft*, etc.; and
+> this cannot be possible except when the *Prohibition* (of the Theft,
+> etc.) is also implied. That the passage is subservient to the *Science
+> of Five Fires* is indicated by the trend of the whole context; and the
+> idea that the Theft, etc., *should not be done* serves to emphasise
+> the said subserviency; and there is no incompatibility between these
+> two \[the idea of *subserviency* and that the acts *should not be
+> done* \]. Lastly, as regards the view that the Vedic texts in
+> corroboration of the *Smṛti* rules h ave always been *inferred* (and
+> never actually found by any one in the Veda),—it stands on the same
+> footing as the notion of long-standing tradition; both would be of the
+> nature of the “blind following the blind”; and we do not perceive any
+> difference between these two views.’
 
 From all this it follows that when Gautama speaks of the Householder’s
 Life being ‘directly enjoined’ (by the Veda), what he means is that the
@@ -1642,15 +1642,15 @@ it continue to exist at any other time (as mentioned in this verse)?
 
 Some people bring forward the following objection:—
 
-&gt; “As a matter of fact, everything that is enjoined in the Veda and in
-&gt; the Smṛtis is the *source of Dharma*; and since ‘Śīla’ also is
-&gt; included among the acts thus enjoined, there is no point in mentioning
-&gt; it separately. In fact Manu himself is going to enjoin it in the
-&gt; following verse—‘Day and night one should take care to subdue the
-&gt; senses’ (7.41),—and again—‘When the mind has been subdued, the two
-&gt; groups of five become subdued.’ And it is this ‘subjugation of the
-&gt; mind’ which constitutes the ‘abandoning of love and hate,’ as we shall
-&gt; explain later on.”
+> “As a matter of fact, everything that is enjoined in the Veda and in
+> the Smṛtis is the *source of Dharma*; and since ‘Śīla’ also is
+> included among the acts thus enjoined, there is no point in mentioning
+> it separately. In fact Manu himself is going to enjoin it in the
+> following verse—‘Day and night one should take care to subdue the
+> senses’ (7.41),—and again—‘When the mind has been subdued, the two
+> groups of five become subdued.’ And it is this ‘subjugation of the
+> mind’ which constitutes the ‘abandoning of love and hate,’ as we shall
+> explain later on.”
 
 Some writers answer this by saying that ‘*Śīla*’ has been separately
 mentioned with a view to indicate its superior importance; it is
@@ -1694,9 +1694,9 @@ declared that all these qualifications existed in Manu and other writers
 (of Smṛtis). If it were not so, then it would never have been possible
 for their words to have been accepted by the wise.
 
-&gt; “If this is what is meant, it should be stated dearly, in the form
-&gt; ‘the words of Manu and others, are the sources of Dharma’; what is the
-&gt; use of setting forth the characteristics (of the writers)?”
+> “If this is what is meant, it should be stated dearly, in the form
+> ‘the words of Manu and others, are the sources of Dharma’; what is the
+> use of setting forth the characteristics (of the writers)?”
 
 True; but there might be persons who may not agree to the words of Manu
 and others being authoritative; and it is with reference to such persons
@@ -1795,11 +1795,11 @@ of the stated qualifications (of being *good* and *learned*) have their
 mind satisfied with a certain act, and they do not feel any aversion
 towards it, that act is ‘*Dharma*.’
 
-&gt; “But it may happen that a man’s mind is satisfied with a prohibited
-&gt; (sinful) act; and this would have to be regarded as *Dharma*. Again, a
-&gt; man may have hesitation (and doubt) regarding what is enjoined in the
-&gt; Veda; and this latter would h ave to be regarded as *n* *ot*‘
-&gt; *Dharma*.’”
+> “But it may happen that a man’s mind is satisfied with a prohibited
+> (sinful) act; and this would have to be regarded as *Dharma*. Again, a
+> man may have hesitation (and doubt) regarding what is enjoined in the
+> Veda; and this latter would h ave to be regarded as *n* *ot*‘
+> *Dharma*.’”
 
 (*a*) As a matter of fact, the ‘self-satisfaction’ of the high-souled
 and extremely good men endowed with the said qualifications, is
@@ -1883,9 +1883,9 @@ Sūtra 1.3.2.
 *Medhātithi* (p. 62, l. 2) — ‘*Yathā āghāre devatāvidhiḥ*—Śabara on
 Mīmāṃsā Sūtra 2.2.10 says—
 
-&gt; *\[ādhāre\] māntravarṇako devatāvidhiḥ* \| *ita indra ūrdhvo'dhvaro
-&gt; divi...indravāna svāhesyādhāramādhārayati—ityevamasāvādhāro
-&gt; yadyasyendro devatā*
+> *\[ādhāre\] māntravarṇako devatāvidhiḥ* \| *ita indra ūrdhvo'dhvaro
+> divi...indravāna svāhesyādhāramādhārayati—ityevamasāvādhāro
+> yadyasyendro devatā*
 
 *Medhātithi* (p. 60, ll. 7-8) ‘*Tulye śrautatve*’—Though in regarding
 both the Śruti-rule and the Smṛti-rule to be equally ‘Śrauta,’
@@ -2050,8 +2050,8 @@ very special qualifications.\]
 Viṣṇu and Śiva......... the propounders of (1) *Śruti*, (2) *Smṛti* and
 (3) *Sadāchāra*.’
 
-&gt; *kalpe kalpe kṣayotyattau brahmaviṣṇumaheśvarāḥ* \|  
-&gt; *śrutismṛtisadācāranirṇetāraśva sarvadā* \|\|
+> *kalpe kalpe kṣayotyattau brahmaviṣṇumaheśvarāḥ* \|  
+> *śrutismṛtisadācāranirṇetāraśva sarvadā* \|\|
 
 To the same end we have Āpastamba (1.1.2-3) declaring that the
 ‘convention or opinion of those versed in Dharma’ and ‘also the Veda,’
@@ -2073,13 +2073,13 @@ The same opinion is expressed more definitely by Gautama (1.1.
 
 The next step in advance is taken by Manu (2.6)—
 
-&gt; *vido'khilo dharmamūlaṃ smṛtiśīle ca tadvidām* \|  
-&gt; *ācāraśvaica sādhūnāmātmanastuṣṭireva ca* \|\|
+> *vido'khilo dharmamūlaṃ smṛtiśīle ca tadvidām* \|  
+> *ācāraśvaica sādhūnāmātmanastuṣṭireva ca* \|\|
 
 Also *Vyāsa*—
 
-&gt; *dharmamūlaṃ vedamāhuḥ grantharāśimakṛtrimam* \|  
-&gt; *tadvidāṃ smṛtiśīle ca sādhvācāraṃ manaḥpriyam* \|\|
+> *dharmamūlaṃ vedamāhuḥ grantharāśimakṛtrimam* \|  
+> *tadvidāṃ smṛtiśīle ca sādhvācāraṃ manaḥpriyam* \|\|
 
 By this the sources of Dharma are (1) *Veda*, (2) *Smṛti*, (3)
 *Sadāchāra* and (4) ‘*Svasya priyam*.’
@@ -2087,13 +2087,13 @@ By this the sources of Dharma are (1) *Veda*, (2) *Smṛti*, (3)
 \[What is exactly meant by these terms we shall see later on.\] The same
 is recapitulated in Manu (2.12)—
 
-&gt; *vedaḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ* \|  
-&gt; *etaccaturvidhaṃ prāhuḥ sākṣāddharmasya lakṣaṇam* \|\|
+> *vedaḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ* \|  
+> *etaccaturvidhaṃ prāhuḥ sākṣāddharmasya lakṣaṇam* \|\|
 
 This is slightly improved upon by Yājñavalkya (1.7)—
 
-&gt; *śrutiḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ* \|  
-&gt; *samyaksaṅkalpajaḥ kāmo dharmamūlamidaṃ smṛtam* \|\|
+> *śrutiḥ smṛtiḥ sadācāraḥ svasya ca priyamātmanaḥ* \|  
+> *samyaksaṅkalpajaḥ kāmo dharmamūlamidaṃ smṛtam* \|\|
 
 By which the sources of law are fivefold:—(1) *Veda*, (2) *Smṛti*, (3)
 *Sadāchāra*, (1) *Svasya priyam* and (5) *Samyak-saṅkalpaja Kāma*. \[For
@@ -2821,36 +2821,36 @@ such practices.
 
 *Ibid*, p. 6.—The ‘*Śiṣṭaṣ*,’ ‘cultured,’ are defined by Manu (12-109)—
 
-&gt; *dharmeṇādhigato yaistu vedaḥ saparibṛṃhaṇaḥ* \|  
-&gt; *te śiṣṭā brāhmaṇā jñeyāḥ śrutipratyakṣahetavaḥ* \|\|
+> *dharmeṇādhigato yaistu vedaḥ saparibṛṃhaṇaḥ* \|  
+> *te śiṣṭā brāhmaṇā jñeyāḥ śrutipratyakṣahetavaḥ* \|\|
 
 The *paribṛṃhaṇa* of the Veda being the subsidiary sciences, Itihāsa and
 Purāṇa. Says Bṛhaspati—
 
-&gt; *itihāsapurāṇābhyāṃ vedaṃ samupabṛṃhayet* \|
+> *itihāsapurāṇābhyāṃ vedaṃ samupabṛṃhayet* \|
 
 \[This occurs in the Mahābhārata also.\]
 
 On questions where we find no Śruti or Smṛti text we are to be guided by
 the opinion of the ‘*Pariṣad*,’ ‘Assembly.’ Says Manu (12.108)—
 
-&gt; *amāmnāteṣu dharmeṣu kathaṃ syāditi ced bhavet* \|  
-&gt; *yaṃ śiṣṭā brāhmaṇā brūyuḥ sa dharmaḥ syādaśaṅkitaḥ* \|\|
+> *amāmnāteṣu dharmeṣu kathaṃ syāditi ced bhavet* \|  
+> *yaṃ śiṣṭā brāhmaṇā brūyuḥ sa dharmaḥ syādaśaṅkitaḥ* \|\|
 
 This ‘Assembly’ should consist of at least 10 ‘cultured’ men—as declared
 by Gautama—
 
-&gt; *anāmnāte daśāvaraiḥ śiṣṭairūhavadbhiḥ alubdhaiḥ praśastaṃ kāryam* \|
+> *anāmnāte daśāvaraiḥ śiṣṭairūhavadbhiḥ alubdhaiḥ praśastaṃ kāryam* \|
 
 That is, what these people say is ‘good’ should be done. Baudhāyana also
 prescribes the same number—
 
-&gt; *daśāvarā pariṣat* \|
+> *daśāvarā pariṣat* \|
 
 Yājñavalkya says—
 
-&gt; *catvāro vedadharmajñāḥ parṣat traividyameva vā* \|  
-&gt; *sā brūte yaṃ sa dharmaḥ syādeko vā'dhyātmavittamaḥ* \|\|
+> *catvāro vedadharmajñāḥ parṣat traividyameva vā* \|  
+> *sā brūte yaṃ sa dharmaḥ syādeko vā'dhyātmavittamaḥ* \|\|
 
 by which the Assembly should consist either (1) of four men versed in
 the Veda and the Dharmaśāstra, or (2) of those men each versed in three
@@ -2865,15 +2865,15 @@ itself,—says Yama.
 
 Manu (4.178) sanctions the authority of ‘Family Custom’—
 
-&gt; *yenāsya pitaro yātā yena yātāḥ pitāmahāḥ* \|  
-&gt; *tena yāyāt satāṃ mārgaṃ tena gacchanna riṣyati* \|\|
+> *yenāsya pitaro yātā yena yātāḥ pitāmahāḥ* \|  
+> *tena yāyāt satāṃ mārgaṃ tena gacchanna riṣyati* \|\|
 
 But this can be a guide only in matters where the scriptures are found
 to he at variance with one another;—as is clear from the words of
 Sumantu—
 
-&gt; *yatra śāstragatirbhinnā sarvakarmasu bhārat* \|  
-&gt; *tasmin kulakramāyātmācāraṃ tvācared brudhaḥ* \|\|
+> *yatra śāstragatirbhinnā sarvakarmasu bhārat* \|  
+> *tasmin kulakramāyātmācāraṃ tvācared brudhaḥ* \|\|
 
 *Saṃskāramayūkha*, p. 1.—That ‘*Sadāchāra*’ is authoritative which is
 not repugnant to *Veda* and *Smṛti* texts.
@@ -3127,12 +3127,12 @@ tadabhāve śiṣṭācāraḥ pramāṇam*. The same applies to the opinion of 
 Assembly also. When there is conflict between Manu and another *Smṛti*,
 the former is to be accepted; as says Aṅgiras:—
 
-&gt; *yat pūrvaṃ manunā proktaṃ dharmaśāstramanuttamam* \|  
-&gt; *na hi tat samatikrasya vacanaṃ hitamātmanaḥ* \|\|
+> *yat pūrvaṃ manunā proktaṃ dharmaśāstramanuttamam* \|  
+> *na hi tat samatikrasya vacanaṃ hitamātmanaḥ* \|\|
 
 Also Bṛhaspati—
 
-&gt; *vedā(du\|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ* \|
+> *vedā(du\|rtho)panibaddhatvāt prādhānyaṃ tu manoḥ smṛtaṃ* \|
 
 In cases where the same act is prescribed in equally authoritative texts
 in two different forms, we have to accept the more elaborate of the two
@@ -3798,41 +3798,41 @@ it is also contrary to the scriptures.
 
 The Casuist might argue as follows:—
 
-&gt; “Scripture is not authoritative; why then should contrariness to it be
-&gt; regarded as undesirable? That the scripture (Veda) is unauthoritative
-&gt; is proved by such discrepancies as (*a*) untruthfulness, (*b*)
-&gt; inconsistency and (*c*) repetition.
-&gt;
-&gt; (*a*) Such sacrifices as the *Kārīrī* (which is laid down as to be
-&gt; performed for obtaining rain) are performed by men desiring min, but
-&gt; as a matter of fact no rain comes after the performance. As regards
-&gt; the rain that might come at some future time, it has been well
-&gt; said—‘The *Kārīrī* having been performed during the autumn, when the
-&gt; cornfields were drying up, if the rain falls during the spring, this
-&gt; only leads to cattle-disease!’ Further, as regards the *Jyotiṣṭoma*
-&gt; and such other sacrifices, which are spoken of as bringing their
-&gt; rewards at some future time, since the acts will have completely
-&gt; disappeared after performance, the assertion that their reward would
-&gt; come after a hundred years would be exactly like the confident
-&gt; assertion of the Vampirist. From this it is clear that the Veda is
-&gt; *untruthful*,
-&gt;
-&gt; (*b*) There is ‘inconsistency’ also: when it is said ‘libations should
-&gt; be offered *after sunrise*,’ if it were offered *before sunrise*, it
-&gt; would be clearly wrong; as it is said—‘those who perform the Agnihotra
-&gt; before sunrise utter falsehood morning after morning.’ Then again, it
-&gt; is said ‘that the libations should be offered before the sun has
-&gt; risen,’ for (it is said) ‘the offering made *after sunrise* would be
-&gt; like the offering of reception to the guest after he had gone.’ Now in
-&gt; the former we have the injunction of offering *after* *sunrise*, and a
-&gt; deprecation of offering *before sunrise*, while in the latter we have
-&gt; the reverse. So that people are always in doubt as to which
-&gt; alternative they should adopt.
-&gt;
-&gt; (*c*) The same Agnihotra that is enjoined in one Vedic Rescension is
-&gt; found to be enjoined in another Rescension also; and it has been held
-&gt; (by the Mīmāmsakas) that the act, mentioned in the various texts, is
-&gt; one and the same (*Agnihotra*) And this is a clear *Repetition*.”
+> “Scripture is not authoritative; why then should contrariness to it be
+> regarded as undesirable? That the scripture (Veda) is unauthoritative
+> is proved by such discrepancies as (*a*) untruthfulness, (*b*)
+> inconsistency and (*c*) repetition.
+>
+> (*a*) Such sacrifices as the *Kārīrī* (which is laid down as to be
+> performed for obtaining rain) are performed by men desiring min, but
+> as a matter of fact no rain comes after the performance. As regards
+> the rain that might come at some future time, it has been well
+> said—‘The *Kārīrī* having been performed during the autumn, when the
+> cornfields were drying up, if the rain falls during the spring, this
+> only leads to cattle-disease!’ Further, as regards the *Jyotiṣṭoma*
+> and such other sacrifices, which are spoken of as bringing their
+> rewards at some future time, since the acts will have completely
+> disappeared after performance, the assertion that their reward would
+> come after a hundred years would be exactly like the confident
+> assertion of the Vampirist. From this it is clear that the Veda is
+> *untruthful*,
+>
+> (*b*) There is ‘inconsistency’ also: when it is said ‘libations should
+> be offered *after sunrise*,’ if it were offered *before sunrise*, it
+> would be clearly wrong; as it is said—‘those who perform the Agnihotra
+> before sunrise utter falsehood morning after morning.’ Then again, it
+> is said ‘that the libations should be offered before the sun has
+> risen,’ for (it is said) ‘the offering made *after sunrise* would be
+> like the offering of reception to the guest after he had gone.’ Now in
+> the former we have the injunction of offering *after* *sunrise*, and a
+> deprecation of offering *before sunrise*, while in the latter we have
+> the reverse. So that people are always in doubt as to which
+> alternative they should adopt.
+>
+> (*c*) The same Agnihotra that is enjoined in one Vedic Rescension is
+> found to be enjoined in another Rescension also; and it has been held
+> (by the Mīmāmsakas) that the act, mentioned in the various texts, is
+> one and the same (*Agnihotra*) And this is a clear *Repetition*.”
 
 That there is no ‘untruthfulness’ in the Veda is what is meant by the
 last quarter of the Verse (‘it was out of these that Dharma shone
@@ -4324,15 +4324,15 @@ fame, pleasure and riches.’
 
 *Objection*.—
 
-&gt; “When the act is endowed with a certain faculty, it does not lose that
-&gt; faculty, even though it may be performed with some other end in view;
-&gt; it must always bring about its natural effects; *e.g*., even though
-&gt; one may drink poison, with the idea that it is an efficacious
-&gt; medicine, yet it does not fail to kill him. Similarly even though the
-&gt; act may be done with a view to some visible reward, yet it cannot fail
-&gt; to bring about the invisible results mentioned in ' the scriptures.
-&gt; Why then should you have this aversion, which makes you assert that an
-&gt; act should not be undertaken with a view to worldly advancement?”
+> “When the act is endowed with a certain faculty, it does not lose that
+> faculty, even though it may be performed with some other end in view;
+> it must always bring about its natural effects; *e.g*., even though
+> one may drink poison, with the idea that it is an efficacious
+> medicine, yet it does not fail to kill him. Similarly even though the
+> act may be done with a view to some visible reward, yet it cannot fail
+> to bring about the invisible results mentioned in ' the scriptures.
+> Why then should you have this aversion, which makes you assert that an
+> act should not be undertaken with a view to worldly advancement?”
 
 It is in view of this objection that the text adds—‘*For those seeking
 for the knowledge of Dharma, the Revealed Word is the highest
@@ -4424,10 +4424,10 @@ there must be option.
 
 *Objection*.—
 
-&gt; “The text speaks of *both* being *Dharma*, which means that there
-&gt; should be *combination* (and not *option*); as it is only when there
-&gt; is *combination* that *both* could be *Dharma*; otherwise (), only
-&gt; *one* of them could be *Dharma*. (at a time).”
+> “The text speaks of *both* being *Dharma*, which means that there
+> should be *combination* (and not *option*); as it is only when there
+> is *combination* that *both* could be *Dharma*; otherwise (), only
+> *one* of them could be *Dharma*. (at a time).”
 
 We deny this. The use of the word ‘both’ is incompatible with separate,
 performance (even acts performed one after the other, and not
@@ -4770,12 +4770,12 @@ How this contingency does, not arise we shall show, as occasion arises.
 
 *Objection*:—
 
-&gt; “When the *Śūdra* is not entitled to study the scripture and learn its
-&gt; meaning, how can he be entitled to the performance of the acts therein
-&gt; prescribed? Unless the man knows the exact form of the act, he cannot
-&gt; do it; unless he studies the scriptures, he cannot know what is
-&gt; contained in them; and no unlearned person is entitled to the
-&gt; performance of any (religious) act.”
+> “When the *Śūdra* is not entitled to study the scripture and learn its
+> meaning, how can he be entitled to the performance of the acts therein
+> prescribed? Unless the man knows the exact form of the act, he cannot
+> do it; unless he studies the scriptures, he cannot know what is
+> contained in them; and no unlearned person is entitled to the
+> performance of any (religious) act.”
 
 True; but the requisite knowledge can be obtained from the advice of
 other persons. The *Śūdra* may be dependent upon a Brāhmaṇa; or a

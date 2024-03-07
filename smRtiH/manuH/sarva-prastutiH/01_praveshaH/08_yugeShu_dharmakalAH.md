@@ -463,9 +463,9 @@ to be construed with all (three phrases)—(84).
 *Medhātithi* (p. 39, l. 5)—‘*Dīrghasatreṣu*’—Sec Mīmāṃsā-Sūtra 6.7.31-40
 and Śabara on 6.7.7—
 
-&gt; *yadi pañca pañāśataḥ ‘trivṛtaḥ*’ (*i*. *e*., the three days of the
-&gt; *Gavāmayana*), *na saṃvatsarāḥ* \| *yadi saṃvatsarāḥ ‘trivṛtaḥ’, na
-&gt; pañcapañcāśataḥ* \| *tasmāt virodhādanyatarad gauṇam* \|
+> *yadi pañca pañāśataḥ ‘trivṛtaḥ*’ (*i*. *e*., the three days of the
+> *Gavāmayana*), *na saṃvatsarāḥ* \| *yadi saṃvatsarāḥ ‘trivṛtaḥ’, na
+> pañcapañcāśataḥ* \| *tasmāt virodhādanyatarad gauṇam* \|
 
 This is the *virodha* mentioned by Medhātithi in line (6\] Which of the
 two is to be taken as *gauṇa* is explained by Śabara on 6.7.38, where

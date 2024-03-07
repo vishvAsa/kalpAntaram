@@ -555,10 +555,10 @@ p. 433).
 Between verses 99 and 100, *Vīramitrodaya* (Āhnika, p. 441) quotes the
 following two additional verses—
 
-&gt; annaṃ hutvā vidhānena yatpuṇyaphalamaśanūte \|  
-&gt; tena tus?yaṃ viśiṣṭaṃ vā brāhmaṇe tarpite phalam \|\|  
-&gt; mantr?akarmaviparyāsād? duritād? durgatādapi \|  
-&gt; tatphalaṃ naśyate karturidaṃ na śraddhayā h?tam \|\|
+> annaṃ hutvā vidhānena yatpuṇyaphalamaśanūte \|  
+> tena tus?yaṃ viśiṣṭaṃ vā brāhmaṇe tarpite phalam \|\|  
+> mantr?akarmaviparyāsād? duritād? durgatādapi \|  
+> tatphalaṃ naśyate karturidaṃ na śraddhayā h?tam \|\|
 
 and adds the following explanations:—‘*annam hutvā*’—*i*. *e*., in the
 fire;—‘*mantra &c*.’.—*i.e*., ‘from that sin which would accrue from the

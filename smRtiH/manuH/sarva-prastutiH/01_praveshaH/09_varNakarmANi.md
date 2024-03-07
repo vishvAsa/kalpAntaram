@@ -61,7 +61,7 @@ For the Brāhmaṇas he ordained teaching, studying, sacrificing and officiating
 </details>
 <details><summary>मेधातिथिः</summary>
 
-&gt; **प्रजानां रक्षणं दानम् इज्याध्ययनम् एव च ।**
+> **प्रजानां रक्षणं दानम् इज्याध्ययनम् एव च ।**
 </details>
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 

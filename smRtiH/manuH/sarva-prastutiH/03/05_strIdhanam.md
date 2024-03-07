@@ -472,11 +472,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 *Vivādaratnākara* (p. 417.) explains ‘*jāmayaḥ*’ as ‘ladies of the
 family; sisters, daughters-in-law, and so forth’.
@@ -519,11 +519,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Parāśaramādhava* (Ācāra, p. 506); in
 *Vivādaratnākara* (p. 417);—and in *Aparārka* (p. 107), which explains
@@ -569,11 +569,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 ‘*Satkāreṣu*’—‘On holidays’ (Govindarāja, Kullūka, and
 Rāghavānanda);—Reading ‘*Satkāreṇa*’, Nārāyaṇa explains it as ‘by kind
@@ -621,11 +621,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Vivādaratnākara* (p. 421);—and in
 *Parāśaramādhava* (Ācāra, p, 506).
@@ -663,11 +663,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 (verse 3.61-62).—These verses are quoted in *Vivādaratnākara* (p. 421).
 </details>
@@ -711,11 +711,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 (verse 3.61-62).—These verses are quoted in *Vivādaratnākara* (p. 421).
 </details>
@@ -754,11 +754,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as
 enumerating the causes leading to the degradation of families;—and in
@@ -803,11 +803,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 589) as setting
 forth further causes for the degradation of a Brāhmaṇa family;—also in
@@ -859,11 +859,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Vidhānapārijāta* (p. 676) as setting forth the
 causes of the degradation of families; and it explains ‘*mantrataḥ*’ as
@@ -911,11 +911,11 @@ Verses 57—66 are omitted by Medhātithi. [Query—are they interpolations?] �
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
-&gt; Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
-&gt; interpolations?\] “These are very probably a later addition. The
-&gt; corresponding section in the Mahābhārata, 13.46 stops right here
-&gt; also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
-&gt; *Parāśaramādhava*.
+> Verses 57—66 are omitted by Medhātithi. *\[Query*—are they
+> interpolations?\] “These are very probably a later addition. The
+> corresponding section in the Mahābhārata, 13.46 stops right here
+> also.”—Hopkins. They are all quoted in *Vivādaratnākara* and in
+> *Parāśaramādhava*.
 
 This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 590), as
 describing the conditions leading to the elevation of a family.

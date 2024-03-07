@@ -66,12 +66,12 @@ This verse is quoted in Vīramitrodaya (Saṃskāra, p. 587);—in
 these quote the following description of the ‘*uttama*’ as from Manu;
 but these verses are not found in Manu—
 
-&gt; viśuddhāḥ karmami(bhi?)ścaiva śrutismṛtinidarśitaiḥ \|  
-&gt; aviplutabrahmacaryā mahākulasamanvitāḥ \|  
-&gt; mahākule ye manbaddhā mahattve ca vyavasthitāḥ \|\|  
-&gt; santuṣṭāssajanahitāḥ sādhavaḥ samadarśinaḥ \|  
-&gt; lobharāgadveṣāmarṣamānamohādivarjitāḥ \|  
-&gt; a??odhanāḥ suprasādāḥ kārthāssambandhinaḥ sadā \|\|
+> viśuddhāḥ karmami(bhi?)ścaiva śrutismṛtinidarśitaiḥ \|  
+> aviplutabrahmacaryā mahākulasamanvitāḥ \|  
+> mahākule ye manbaddhā mahattve ca vyavasthitāḥ \|\|  
+> santuṣṭāssajanahitāḥ sādhavaḥ samadarśinaḥ \|  
+> lobharāgadveṣāmarṣamānamohādivarjitāḥ \|  
+> a??odhanāḥ suprasādāḥ kārthāssambandhinaḥ sadā \|\|
 
 and as description of ‘*adharma*’ they quote Manu 3.150-152.
 

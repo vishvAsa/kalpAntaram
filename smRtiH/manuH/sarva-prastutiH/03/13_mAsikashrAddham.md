@@ -4692,8 +4692,8 @@ that the ‘elder brother’ meant is the *uterine brother*, as is clearly
 declared in a text quoted from Garga. It quotes another verse from
 ‘Manu’, which is not found in our texts:—
 
-&gt; agraje brahmacaryasthe yo'nujo dārasaṅgraham \|  
-&gt; kurute parivettā sa paricitto'grejo bhavet \|\|
+> agraje brahmacaryasthe yo'nujo dārasaṅgraham \|  
+> kurute parivettā sa paricitto'grejo bhavet \|\|
 
 It has a curious note regarding the exact signification of the term
 ‘*ṣodarya*’ (generally understood to mean *uterine*): It
@@ -13800,8 +13800,8 @@ Rāghavānanda);—‘daring an eclipse’ (‘others’ in Medhātithi, who rej
 it).—*Mitākṣarā* (on 1.218) quotes a definition by which the name
 applies to a particular day—
 
-&gt; yadenduḥ pitṛdaivatye haṃsaścaiva kare sthitaḥ \|  
-&gt; yāmyāṃ tithirbhavetsāhi gajacchāyā prakīrtitā \|\|
+> yadenduḥ pitṛdaivatye haṃsaścaiva kare sthitaḥ \|  
+> yāmyāṃ tithirbhavetsāhi gajacchāyā prakīrtitā \|\|
 
 This verse is quoted in *Nirṇayasindhu* (p. 109), which quotes from
 *Vāyupurāṇa* a definition of ‘*Gajacchāyā*’ as the 13th day of the month

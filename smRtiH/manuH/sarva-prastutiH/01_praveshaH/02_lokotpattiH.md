@@ -81,15 +81,15 @@ This (World) was in existence in the form, as it were, of dense Darkness,—unpe
 
 At the very outset there arises an objection—
 
-&gt; “Where we began and whereto we are carried! Manu was asked to expound
-&gt; the duties laid down in the scriptures, and he promised to expound
-&gt; them; under the circumstances, the description of the world in its
-&gt; undifferentiated state (with which the present verse begins) is wholly
-&gt; irrelevant and purposeless. In fact it becomes a true case of the
-&gt; well-known proverb —‘ Being questioned about mangoes, he describes the
-&gt; Kovidāra tree.’ Further, there is no authority in support of what is
-&gt; here described; nor is any useful purpose served by it. So the whole
-&gt; of this First Discourse need not be studied at all.”
+> “Where we began and whereto we are carried! Manu was asked to expound
+> the duties laid down in the scriptures, and he promised to expound
+> them; under the circumstances, the description of the world in its
+> undifferentiated state (with which the present verse begins) is wholly
+> irrelevant and purposeless. In fact it becomes a true case of the
+> well-known proverb —‘ Being questioned about mangoes, he describes the
+> Kovidāra tree.’ Further, there is no authority in support of what is
+> here described; nor is any useful purpose served by it. So the whole
+> of this First Discourse need not be studied at all.”
 
 Our answer to the above is follows:—What the First Discourse does is to
 describe the fact of the Treatise having an extensive scope; so that
@@ -238,7 +238,7 @@ explanation of Ṛgveda 18. 129. 8.
 P. 8, l. 8—(1) *tam āsīt* (Ṛgveda 10.129.8)—Sāyaṇa supplies a somewhat
 different explanation:
 
-&gt; इदं जगत् सलिलं कारणेन सातम् अविभागापन्नम् भाः आसीत् । अथवा सलिलमिव, यथा क्षीरेण विभागापन्नं नीरस ज्ञायते तथा तमसा ऽविभागापन्नं जगत् न ज्ञायते । आ समन्तात् भवतीति 'आभु'। 'तपसः' स्रष्टव्य-पर्यालोचमरूपस्य ।
+> इदं जगत् सलिलं कारणेन सातम् अविभागापन्नम् भाः आसीत् । अथवा सलिलमिव, यथा क्षीरेण विभागापन्नं नीरस ज्ञायते तथा तमसा ऽविभागापन्नं जगत् न ज्ञायते । आ समन्तात् भवतीति 'आभु'। 'तपसः' स्रष्टव्य-पर्यालोचमरूपस्य ।
 
 As a Vedāntin, Sāyaṇa identifies *tamas* with *māyā* \|
 </details>
@@ -963,13 +963,13 @@ different interpretation of verses 3-1l.
 *Medhātithi* P. 13, l. 1—‘*Mahato’haṅkāro* &c.’—*Of*. Sāṅkhya-kārikā,
 38.
 
-&gt; ‘*Viśeṣāḥ*.—Why these are called ‘*viśeṣa*’ is thus explained in the
-&gt; *Sāṅkhyatattvakaumudī*—pañca mahābhūtāni viśeṣāḥ:—śāntā ghorāśca
-&gt; mūḍāśca \| yasmādākāśādiṣu sthū?ṣu kecit tattvapradhānatayā śāntā
-&gt; prakāśā laghavaḥ......... \| te'mī parasparavyāvṛttyā'nubhūyamānā
-&gt; ‘viśeṣā’ iti ‘sthūlā’ iti co?pante \| tanmātrāṇi tu?smadādinā
-&gt; parasparavyāvṛttāni nānubhūyante—iti ‘aviśeṣāḥ’ ‘sūkṣmā’ iti cocyante
-&gt; \|
+> ‘*Viśeṣāḥ*.—Why these are called ‘*viśeṣa*’ is thus explained in the
+> *Sāṅkhyatattvakaumudī*—pañca mahābhūtāni viśeṣāḥ:—śāntā ghorāśca
+> mūḍāśca \| yasmādākāśādiṣu sthū?ṣu kecit tattvapradhānatayā śāntā
+> prakāśā laghavaḥ......... \| te'mī parasparavyāvṛttyā'nubhūyamānā
+> ‘viśeṣā’ iti ‘sthūlā’ iti co?pante \| tanmātrāṇi tu?smadādinā
+> parasparavyāvṛttāni nānubhūyante—iti ‘aviśeṣāḥ’ ‘sūkṣmā’ iti cocyante
+> \|
 </details>
 <details><summary>Bühler</summary>
 
@@ -1169,19 +1169,19 @@ capable of accomplishing its work.—(14)
 
 
 
-&gt; **Sanskrit text, Unicode transliteration and English translation by
-&gt; Ganganath Jha:**
-&gt;
-&gt; महान्तमेव चात्मानं सर्वाणि त्रिगुणानि च ।  
-&gt; विषयाणां ग्रहीतॄणि शनैः पञ्चैन्द्रियाणि च ॥ १५ ॥
-&gt;
-&gt; *mahāntameva cātmānaṃ sarvāṇi triguṇāni ca* \| *  
-&gt; viṣayāṇāṃ grahītṝṇi śanaiḥ pañcaindriyāṇi ca* \|\| 15 \|\|
-&gt;
-&gt; Also the all-pervading ‘mahat’ (the ‘great’ principle of
-&gt; intelligence); as also all those things that consist of the three
-&gt; constituent attributes, and in due course, also the five organs of
-&gt; sensation which apprehend objects.—(15)
+> **Sanskrit text, Unicode transliteration and English translation by
+> Ganganath Jha:**
+>
+> महान्तमेव चात्मानं सर्वाणि त्रिगुणानि च ।  
+> विषयाणां ग्रहीतॄणि शनैः पञ्चैन्द्रियाणि च ॥ १५ ॥
+>
+> *mahāntameva cātmānaṃ sarvāṇi triguṇāni ca* \| *  
+> viṣayāṇāṃ grahītṝṇi śanaiḥ pañcaindriyāṇi ca* \|\| 15 \|\|
+>
+> Also the all-pervading ‘mahat’ (the ‘great’ principle of
+> intelligence); as also all those things that consist of the three
+> constituent attributes, and in due course, also the five organs of
+> sensation which apprehend objects.—(15)
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
@@ -1713,10 +1713,10 @@ second half of the verse—*Each Elemental Substance being endowed with as
 many qualities &c. &c*.,—which means that Wind has *two* qualities, Fire
 has *three*, Water has *four*, and Earth has *five*.
 
-&gt; “Why does the Author use the form ‘*ādyādyasya*’? The correct form
-&gt; should be ‘*ādyasyādyasya*’, the repetition of the term ‘*ādyasya*’
-&gt; being necessitated by Pāṇini’s *Sūtra* 8.1.4; just as we have in such
-&gt; expressions as ‘*paraḥ paraḥ*.’”
+> “Why does the Author use the form ‘*ādyādyasya*’? The correct form
+> should be ‘*ādyasyādyasya*’, the repetition of the term ‘*ādyasya*’
+> being necessitated by Pāṇini’s *Sūtra* 8.1.4; just as we have in such
+> expressions as ‘*paraḥ paraḥ*.’”
 
 The form used is due to the exigencies of metre; and exigencies of metre
 justify the non-observance of rules.—(20)
@@ -2587,27 +2587,27 @@ and yet neither the King nor Prajāpati cease to be ‘all-powerful.’
 
 *Objection*:—
 
-&gt; “The meaning assigned to the verse does not appear to be its right
-&gt; meaning at all. What appears to be its right meaning is that the
-&gt; Creator is entirely independent in assigning their work to the
-&gt; creatures. The verse thus means as follows:—‘*Every creature conformed
-&gt; to*,—*i.e*., carried on—*that same action*—in the form either of
-&gt; *doing harm to others*, or its contrary,—*to which the Lord had
-&gt; directed it at*—at the beginning of creation’; that is, man does not
-&gt; have recourse to actions, cither entirely on the advice of his father
-&gt; and other elders, or by his own will; in fact, whatever good or bad
-&gt; action he performs, he does wholly in accordance with Prajāpati’s
-&gt; directions, entirely uninfluenced by the advice of any other person.
-&gt;
-&gt; ‘*When created again*’—*i.e*., when born again, whether in another
-&gt; cycle, or in this same cycle,—it is Prajāpati alone who directs all
-&gt; animate beings to be the doers of actions; hence even past good and
-&gt; bad acts arc done by them only in obedience to the directions of
-&gt; Prajāpati; this has been thus declared:—‘They become agents without
-&gt; being masters of their own actions; to the good or the bad act they
-&gt; are led on by God’; and again ‘this ignorant creature has no control
-&gt; over his pleasure and pain; it is only as led on by God that he goes
-&gt; to heaven or to hell.’”
+> “The meaning assigned to the verse does not appear to be its right
+> meaning at all. What appears to be its right meaning is that the
+> Creator is entirely independent in assigning their work to the
+> creatures. The verse thus means as follows:—‘*Every creature conformed
+> to*,—*i.e*., carried on—*that same action*—in the form either of
+> *doing harm to others*, or its contrary,—*to which the Lord had
+> directed it at*—at the beginning of creation’; that is, man does not
+> have recourse to actions, cither entirely on the advice of his father
+> and other elders, or by his own will; in fact, whatever good or bad
+> action he performs, he does wholly in accordance with Prajāpati’s
+> directions, entirely uninfluenced by the advice of any other person.
+>
+> ‘*When created again*’—*i.e*., when born again, whether in another
+> cycle, or in this same cycle,—it is Prajāpati alone who directs all
+> animate beings to be the doers of actions; hence even past good and
+> bad acts arc done by them only in obedience to the directions of
+> Prajāpati; this has been thus declared:—‘They become agents without
+> being masters of their own actions; to the good or the bad act they
+> are led on by God’; and again ‘this ignorant creature has no control
+> over his pleasure and pain; it is only as led on by God that he goes
+> to heaven or to hell.’”
 
 To the above we make the following reply:—If the suggested explanation
 were accepted, (1) it would mean the abandoning of the idea of an
@@ -2715,18 +2715,18 @@ Hurtfulness or harmlessness, tenderness or hard-heartedness, virtue or vice, tru
 </details>
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-&gt; **Sanskrit text, Unicode transliteration and English translation by
-&gt; Ganganath Jha:**
-&gt;
-&gt; हिंस्राहिंस्रे मृदुक्रूरे धर्माधर्मावृतानृते ।  
-&gt; यद् यस्य सो'दधात् सर्गे तत् तस्य स्वयमाविशत् ॥ २९ ॥
-&gt;
-&gt; *hiṃsrāhiṃsre mṛdukrūre dharmādharmāvṛtānṛte* \| *  
-&gt; yad yasya so'dadhāt sarge tat tasya svayamāviśat* \|\| 29 \|\|
-&gt;
-&gt; Hurtfulness or harmlessness, tenderness or hard-heartedness, virtue or
-&gt; vice, truthfulness or truth-lessness,—each of these accrued to that
-&gt; being in which he implanted it at creation.—(29)
+> **Sanskrit text, Unicode transliteration and English translation by
+> Ganganath Jha:**
+>
+> हिंस्राहिंस्रे मृदुक्रूरे धर्माधर्मावृतानृते ।  
+> यद् यस्य सो'दधात् सर्गे तत् तस्य स्वयमाविशत् ॥ २९ ॥
+>
+> *hiṃsrāhiṃsre mṛdukrūre dharmādharmāvṛtānṛte* \| *  
+> yad yasya so'dadhāt sarge tat tasya svayamāviśat* \|\| 29 \|\|
+>
+> Hurtfulness or harmlessness, tenderness or hard-heartedness, virtue or
+> vice, truthfulness or truth-lessness,—each of these accrued to that
+> being in which he implanted it at creation.—(29)
 </details>
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
 
@@ -3102,7 +3102,7 @@ Being desirous of bringing into existence the (various kinds of) created beings,
 </details>
 <details><summary>मेधातिथिः</summary>
 
-&gt; **एते मनूंस् तु सप्तान्यान् असृजन् भूरितेजसः ।**
+> **एते मनूंस् तु सप्तान्यान् असृजन् भूरितेजसः ।**
 </details>
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
@@ -3460,9 +3460,9 @@ explain the manner of their birth*.’
 
 *Objection*.—
 
-&gt; “Where has the *action* been described? In Verses 37 *et seq*. what
-&gt; occurs is only the mention of the names of several beings, *Yakṣa,
-&gt; Rākṣasa* and the rest; and their action is not mentioned at all.”
+> “Where has the *action* been described? In Verses 37 *et seq*. what
+> occurs is only the mention of the names of several beings, *Yakṣa,
+> Rākṣasa* and the rest; and their action is not mentioned at all.”
 
 Our answer is as follows:—The action of each being is indicated by its
 name; the particular name being acquired by each being by reason of its

@@ -1162,17 +1162,17 @@ This phrase ‘*sthānāsanavihāra*’ appears to have been an old idiom; it
 is met with for the first time in Baudhāyana’s Dharmasūtra (II. 1. 41),
 where we read —
 
-&gt; *samudrasamyānam...... eṣāmanyatamat kṛtvā chaturtha kālāmitabhojinaḥ
-&gt; syuḥ ape? bhyapeyuḥ savanānukalpam sthānāsanābhyām viharanta ete
-&gt; tribhirvarṣaistadapahanti pāpam*.
+> *samudrasamyānam...... eṣāmanyatamat kṛtvā chaturtha kālāmitabhojinaḥ
+> syuḥ ape? bhyapeyuḥ savanānukalpam sthānāsanābhyām viharanta ete
+> tribhirvarṣaistadapahanti pāpam*.
 
 Translated literally, this means—
 
-&gt; ‘Sea-voyage (and a few other acts enumerated)..., having done any one
-&gt; of these acts, people should eat sparsely at the fourth part of the
-&gt; day, should enter water in the morning, at midday and in the evening;
-&gt; *amusing themselves by sitting and standing*, *they destroy that sin
-&gt; after three years*.’
+> ‘Sea-voyage (and a few other acts enumerated)..., having done any one
+> of these acts, people should eat sparsely at the fourth part of the
+> day, should enter water in the morning, at midday and in the evening;
+> *amusing themselves by sitting and standing*, *they destroy that sin
+> after three years*.’
 
 The exact meaning of the expiatory rite here prescribed has never been
 understood. Whenever the question of sea-voyage has come up for

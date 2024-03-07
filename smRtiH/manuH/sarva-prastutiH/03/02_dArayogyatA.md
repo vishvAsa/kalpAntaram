@@ -323,53 +323,53 @@ be the same as those of her husband.
 In connection with this verse a peculiar point of view has been set
 forth by ‘some people’ in *Vīramitrodaya* (Saṃskāra, p. 691):—
 
-&gt; “Three kinds of *sapiṇḍā* have got to be excluded—
-&gt;
-&gt; 1.  who is one’s own and his father’s *sapiṇḍā*,
-&gt; 2.  who is one’s own *sapiṇḍā*, but not the *sapiṇḍā* of his father,
-&gt; 3.  who is not one’s own *sapiṇḍā*, but is the father’s *sapiṇḍā*.
-&gt;
-&gt; To the first category belongs the girl who is one’s own *sapiṇḍā* as
-&gt; being the *sapiṇḍā* of his father, who is the married husband of his
-&gt; mother;—to the second category belongs the girl who is not the
-&gt; *sapiṇḍā* of that ‘father’ who is only the *supporter* (not the
-&gt; *progenitor*), and is one’s own and his natural father’s
-&gt; (progenitor’s) *sapiṇḍā*,—and who thus is his own *sapiṇḍā*, but *not*
-&gt; that of his supporter-‘father’;—and to the third class belongs that
-&gt; girl who is the *sapiṇḍā* of the supporter-‘father’, but not one’s own
-&gt; *sapiṇḍā*. All this diversity is based upon the fact that in the case
-&gt; of the ‘adopted’ son (in whose case the supporter-father and the
-&gt; progenitor-father are different), the son’s body (*piṇḍa*) does not
-&gt; contain the constituent elements of the body of the father.
-&gt;
-&gt; For the same reasons there are four kinds of ‘father’ also—
-&gt;
-&gt; 1.  the progenitor, the husband of the mother;
-&gt; 2.  the owner of the ‘field, *i.e*. the mother’s husband, who is not
-&gt;     the progenitor;
-&gt; 3.  the owner of the ‘seed’, *i. e*. the progenitor, who is not the
-&gt;     husband of the mother;
-&gt; 4.  and the supporter, *i.e*. the adoptive father.
-&gt;
-&gt; Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’
-&gt; both transmit the constituents of their body to the child; and on that
-&gt; ground the *sāpiṇḍya* ‘consanguinity’; of these two Fathers to the
-&gt; *Aurasa* and *Kṣetraja* sons would be direct; while that of the
-&gt; ‘field-owner’ (the second kind of ‘father’) would be only indirect,
-&gt; through the *field* (*i.e*., the body of his wife); the bodies of the
-&gt; husband and wife having been declared to bo *one*.—Now the girls that
-&gt; fall within these three kinds of ‘consanguinity would become excluded
-&gt; by the test that ‘one should marry a girl younger than himself, who is
-&gt; not his *sapiṇḍā*’ (Yājñavalkya 1. 52). But the *Sapiṇḍā* of the
-&gt; Supporter (adoptive) father would not be the *Sapiṇḍā* of the adopted
-&gt; son, and as such she would not he excluded by the said text. Hence it
-&gt; becomes necessary to find out a text excluding the ‘father’s
-&gt; *Sapiṇḍā*;’ and such a text is found in Manu 3. 5 (the present verse).
-&gt; This text clearly implies that the girl who falls within seven degrees
-&gt; of the ‘*Sāpiṇḍya*’ of the *Secondary Father* (not the progenitor) is
-&gt; to be avoided; in this sense the term *pituḥ*, being taken in its
-&gt; etymological sense of one *who supports*, *pāti iti pitā*, includes
-&gt; the *adoptive*, father also.”
+> “Three kinds of *sapiṇḍā* have got to be excluded—
+>
+> 1.  who is one’s own and his father’s *sapiṇḍā*,
+> 2.  who is one’s own *sapiṇḍā*, but not the *sapiṇḍā* of his father,
+> 3.  who is not one’s own *sapiṇḍā*, but is the father’s *sapiṇḍā*.
+>
+> To the first category belongs the girl who is one’s own *sapiṇḍā* as
+> being the *sapiṇḍā* of his father, who is the married husband of his
+> mother;—to the second category belongs the girl who is not the
+> *sapiṇḍā* of that ‘father’ who is only the *supporter* (not the
+> *progenitor*), and is one’s own and his natural father’s
+> (progenitor’s) *sapiṇḍā*,—and who thus is his own *sapiṇḍā*, but *not*
+> that of his supporter-‘father’;—and to the third class belongs that
+> girl who is the *sapiṇḍā* of the supporter-‘father’, but not one’s own
+> *sapiṇḍā*. All this diversity is based upon the fact that in the case
+> of the ‘adopted’ son (in whose case the supporter-father and the
+> progenitor-father are different), the son’s body (*piṇḍa*) does not
+> contain the constituent elements of the body of the father.
+>
+> For the same reasons there are four kinds of ‘father’ also—
+>
+> 1.  the progenitor, the husband of the mother;
+> 2.  the owner of the ‘field, *i.e*. the mother’s husband, who is not
+>     the progenitor;
+> 3.  the owner of the ‘seed’, *i. e*. the progenitor, who is not the
+>     husband of the mother;
+> 4.  and the supporter, *i.e*. the adoptive father.
+>
+> Of these the ‘progenitor’, husband of the mother, and the ‘seed-owner’
+> both transmit the constituents of their body to the child; and on that
+> ground the *sāpiṇḍya* ‘consanguinity’; of these two Fathers to the
+> *Aurasa* and *Kṣetraja* sons would be direct; while that of the
+> ‘field-owner’ (the second kind of ‘father’) would be only indirect,
+> through the *field* (*i.e*., the body of his wife); the bodies of the
+> husband and wife having been declared to bo *one*.—Now the girls that
+> fall within these three kinds of ‘consanguinity would become excluded
+> by the test that ‘one should marry a girl younger than himself, who is
+> not his *sapiṇḍā*’ (Yājñavalkya 1. 52). But the *Sapiṇḍā* of the
+> Supporter (adoptive) father would not be the *Sapiṇḍā* of the adopted
+> son, and as such she would not he excluded by the said text. Hence it
+> becomes necessary to find out a text excluding the ‘father’s
+> *Sapiṇḍā*;’ and such a text is found in Manu 3. 5 (the present verse).
+> This text clearly implies that the girl who falls within seven degrees
+> of the ‘*Sāpiṇḍya*’ of the *Secondary Father* (not the progenitor) is
+> to be avoided; in this sense the term *pituḥ*, being taken in its
+> etymological sense of one *who supports*, *pāti iti pitā*, includes
+> the *adoptive*, father also.”
 
 This view is not accepted by the author of *Vīramitrodaya* himself, who
 takes Manu’s text to mean the exclusion of the girl who is one’s
