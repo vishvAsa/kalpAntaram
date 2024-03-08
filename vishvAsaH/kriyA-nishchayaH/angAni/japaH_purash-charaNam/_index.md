@@ -1,5 +1,5 @@
 +++
-title = "जपः पुरश्चरणम्"
+title = "+जपः, पुरश्चरणम्"
 +++
 
 स्थानेश्वर-निर्देशो [ऽत्र](../articles/purashcharaNa-prAmukhyam/) ।
