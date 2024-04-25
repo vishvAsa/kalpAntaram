@@ -1,5 +1,5 @@
 +++
-title = "+सरस्वतीविलासः"
+title = "+प्रताप-रुद्रः सरस्वतीविलासः"
 
 +++
 <details><summary>English</summary>
