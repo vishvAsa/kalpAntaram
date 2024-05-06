@@ -140,37 +140,17 @@ tied round a brāhmana boy's waist, one made of mūrvā grass (which is used for
 
 In order to convey an idea of the rites of upanayana in the days of the gṛhya sūtras the ceremony as contained in the Āśv.gṛ. sūtra (which is among the shortest ) is set out in full. [^653] 'Let him initiate the boy who is decked, whose hair (on the head) is shaved (and arranged), who wears a new garment or an antelope skin if a brāhmaṇa, ruru skin if a kṣatriya, goat's skin if a vaiśya; if they put on garments they should put on dyed ones, reddish-yellow, red and yellow (for a brāhmaṇa, kṣatriya, vaiśya respectively), they should have gird]es and staffs ( as described above). While the boy takes hold of ( the hand of) his teacher, the latter offers ( a homa of clarified butter oblations) in the fire (as described above) and seats himself to the north of the fire with his face turned to the east, while the other one ( the boy ) stations himself in front ( of the teacher) with his face turned to the west. The teacher then fills the folded hands of both himself and of the boy with water and with the verse 'we choose that of Savitṛ (Ṛg. V. 82. 1) the teacher drops down the water in his own folded hands on to the water in the folded hands of the boy; having thus poured the water, he should seize with his own hand the boy's hand together with the thumb (of the boy) with the formula 'by the urge (or order) of the god Savitṛ, with the arms of the two Aśvins, with the hands of Pūṣan, I seize thy hand, oh! so and so '; [^653]  with the words 'Savitṛ has seized thy hand, oh so and so' a second time ( the teacher seizes the boy's hand ); with the words 'Agni is thy teacher, ob so and so' a third time. The teacher should cause (the boy ) to look at the sun, while the teacher repeats 'God Savitṛ! this is thy brahmacāri, protect him, may he not die [^654]  and (the teacher should further ) say 'Whose brahmacārī art thou ? thou art the brahmacārī of Prāṇa. Who does initiate thee and whom ( does he initiate )? I give [^655]  thee to Ka ( to Prajāpati)'. With the half verse (Ṛg. III 8. 4.) 'the young man, well attired and dressed, came [^656]  hither' he (the teacher ) should cause him to turn round to the right and with his two hands placed over the boy's ) shoulders he should touch the place of the boy's heart repeating the latter half (of Ṛg. III. 8.4). Having wiped the ground round the fire the brahmacārī should put ( on the fire ) a fuel stick silently, since it is known (from śruti) 'what belongs to Prajāpati is silently ( done)', and the brahmacārī belongs to Prajāpati. Some do this (offering of a fuel stick) with a mantra 'to Agni I have brought a fuel stick, to the great Jātavedas; by the fuel stick mayst thou increase, Oh Agni and may we (increase ) through _brahman_ (prayer or spiritual lore), svāhā'. [^657] Having put the fuel stick ( on the fire) and having touched the fire, he ( the student ) thrice wipes off his face with the words ' I anoint myself with lustre'; it is known (from śruti) 'for he does anoint himself with lustre'. 'May Agni bestow on me, insight, offspring and lustre; on me may Indra bestow insight, offspring and vigour (indriya); on me may the sun bestow insight, offspring and radiance; what thy lustre is, Oh Agni, may I thereby become lustrous; what thy strength is, Agni, may I thereby become strong; what thy consuming power is Agni, may I thereby acquire consuming power'. [^658]  Having waited upon (worshipped) Agni with these formulas, (the student) should bend his knees, embrace (the teacher's feet) and say to him 'recite, Sir, recite, Sir, the Sāvitrī'. Seizing the student's hands with the upper garment ( of the student) and his own hands the teacher recites the Sāvitrī, first pāda by pāda, then hemistich by hemistich (and lastly) the whole verse. He (the teacher) should make him ( the student) recite ( the Sāvitrī) as much as he is able. On the place of the student's heart the teacher lays his hand with the fingers upturned with the formula 'I place thy heart [^659] unto duty to me; may thy mind follow my mind; may you attend on my words single-minded; may Bṛhaspati appoint thee unto me. Having tied the girdle round him (the boy ) and having given him the staff, the teacher should instruct him in the observances of a brahmacārī with the words 'a brahmacārī [^660] art thou, sip water, do service, do not sleep by day, depending (completely ) on the teacher learn the Veda'. He (the student) should beg (food) in the evening and the morning ; he should put a fuel stick ( on fire ) in the evening and the morning. That ( which he has received by begging) he should announce to the teacher; he should not sit down (but should be standing) the rest of the day. [^661]
 
-651. Framlet aralaI UFTI WA TAJI ATT. 9. 8. I. 1. 2. 34–37. ATAU is explained as Top (bomp) in the com. on
+[‍^653]: Vide Appendix for the text of Āśv. gṛ. and for a very concise form prepared recently.
 
-THE II. 10. 10 and by TT Q8'HA FETHI TH: 14 euren wat
+[^653a]: Here the boy should be addressed by his name. The formula 'devasya tvā occurs in several connections (e. g. in adoption etc.) in several saṁhtās. Vide for this वाज. सं. II. 11, तै. सं. II. 6. 8. 6. A similar formula occurs in आप. मन्त्रपाठ II. 3. 24 and II. 9. 5, हिरण्य. गृ. I. 11. 17, मानवगृ. I. 22. 5, बौ. गृ. II. 5. 28 (देवस्य......हस्ताभ्यामुपनयेऽसौ), काठकगृ. 41. 16 (reads as in बौ. गृ.)
 
-THAT
+[^654]: देव ... ... मा मृत. This मन्त्र occurs also in the आप. मन्त्रपाठ II. 3. 31 (असाघेष ते देव सूर्य ... ... मृत) and in मानवगृह्य I. 22. 5, शां. गृ. II. 18. 4 and others.
 
-652. The number of knots was probably regulated by the number of the pravara sagos invoked by a person.
+[^655]: The words कस्य ... ... परिददामि occur in आप. म. पा. II. 3. 29, मानवगृह्य I. 22. 5, पारस्कर II. 2 (with variations in all)
 
-653. Vide Appendix for the text of Aāv. gf, and for a very concise form propared recently.
+[^656]: For the whole verse युवा सुवासाः vide note 620 above.
 
-H. D. 36
-
-282
-
-
-
-[ Oh, VII
-
-
-
-653 a. Here the boy should be addressed by his name. The formula
-
-• dovasya tri occurs in several cop poctions (e. g. in adoption eto, ) in several sambitas. Vide for this . \#. II. 11, \#. \#. II. 6. 8.6. A similar formula oocars in XTC. ATT II. 3. 24 and II. 9. 5, forot. T. I. 11, 17, Araray. I. 22, 5, A. T. II, 5. 28 (974......EFATTETRIT), TETT. 41. 16 (roads as in .T.)
-
-684. ... ... RL . This is occurs also in the 19. & II. 9. 31 ( writt en ....... a) and in A TV I. 22. 6, t. T. II. 18. 4 and othera.
-
-655. Tho words 4 ... ... OTECTIA ocour in sy, \#. 91. II. 3. 29, Amar I. 22.5, TT II. 2 ( with variations in all)
-
-666. For the whole verso gar ETTĦT: vide note 620 above.
-
-667. 389 FHUHTETO &cm-The first balf ocours in M. H. T. II. 6. 2. ATT FART II. 4, petua. g. 1. 7. 2, T ATO II, 10. 46, TETETT. 1. 8, all of which have a long latter half liko TUI TA\# FAUT AV q RTATSIT ... har utoto.
+[^667]: अग्नये समिधमाहार्षं &c—The first half occurs in आप. म. पा. II. 6. 2, पारस्कर II. 4, हिरण्य गृ. I. 7. 2, गोभिलगृह्य II, 10. 46, भारद्वाजगृ. I. 8, all of which have a long latter half like यथा त्वमग्ने समिधा समिध्यसे एवं मामायुषा ...
 
 Ch. VII)
 
