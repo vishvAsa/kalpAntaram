@@ -152,57 +152,25 @@ In order to convey an idea of the rites of upanayana in the days of the gṛhya 
 
 [^667]: अग्नये समिधमाहार्षं &c—The first half occurs in आप. म. पा. II. 6. 2, पारस्कर II. 4, हिरण्य गृ. I. 7. 2, गोभिलगृह्य II, 10. 46, भारद्वाजगृ. I. 8, all of which have a long latter half like यथा त्वमग्ने समिधा समिध्यसे एवं मामायुषा ...
 
-Ch. VII)
+[^658]: मयि मेधां &c. These mantras occur in तै.सं. III. 3. 1. 2 and III. 5. 3. 2 ; also in हिरण्य. गृ., बौ. गृ. II. 5. 62 &c.
 
-Procedure of Upanayana
+[^659]: मम व्रते &c. I These words also occur in पारस्करगृ. II. 2., मानवगृ. I. 22. 10, हिरण्यगृ. (where we have मम हृदये). These words also occur in the marriage ceremony (as addressed by the husband); vide पारस्करगृ. I. 8.
 
-283
+[‍‍^660]: ब्रह्मचार्यस्ति &c. These words (with some additions and omissions) occur in आप. म. पा. II. 6. 14, पारस्करगृ. II. 3, काठकगृ 41. 17 and several others. These are based on the शतपथ passage quoted in note 625 above. In some it is said simply 'do not sleep' and this is explained in आप. ध. सू. I. 1. 4. 28. as 'अथ यः पूर्वोत्थायी जघन्यसंवेशी तमाहुर्न स्वपितीति’.
 
-me mas may the
+[^661]: अनुप्रवचनीय sacrifice is to be performed after a part of the Veda has been learnt., vide आश्व. गृ. I. 22. 10-16, गोभिलगृह्य III. 2. 46-47.
 
-Ob AB
+The whole procedure of upanayana is more elaborately described in the Āp. gṛ., in Hir. gṛ. and Gobhila. A few points of interest and divergence may be noted here briefly. It is remarkable that Āśv., Āp. and several other sūtrakāras do not say a word about the sacred thread, while a few like Hir. gṛ. (I. 2. 6), Bhār. gṛ. (I.3) and Mānava gṛ. (I. 22. 2) say that the boy already wears the yajñopavīta before the homa begins; while Baud. gṛ.[^662] (II. 5. 7) says that the boy is given the yajñopavīta and then made to recite the well-known mantra 'the Yajñopavīta  is extremely sacred' and the Vaik, smārta (II. 5) says that the teacher gives the upper garment to the boy with [^663] the verse 'parīdaṁ vāsaḥ', the sacred thread with the mantra 'Yajñopavītam'and the black antelope skin with the mantra 'the eye of Mitra'. Sudarśana on Āp. gṛ. 10.5 says that the boy puts on the yajñopavīta with the mantra before he takes his meal (according to some) or (according to others) before [^664] he puts the fuel stick on the fire and relies on Āp, Dh. S. I. 5. 15. 1 for support. According to Karka and Harihara (on Pāraskara) the yajñopavīta was given to the student by the teacher after the tying of the girdle. The Saṁskāratattva p. 934 says the same. Late works like the Saṁskāraratnamālā (p. 202) prescribe the wearing of the sacred thread before the homa. The origin and development of the ideas about yajñopavīta will be dealt with separately later on, Āp. gṛ, (X.5), Baud gṛ. (II. 5. 7) and Pār. gṛ. (II. 2) prescribe a dinner to brāhmaṇas before the ceremonies begin and receiving their benedictions. Āp. gṛ. (X.5), Bhār. gṛ. (I. 1), Baud gṛ. [^665] (II. 5. 7) say that the boy also is made to take food; according to later works (e. g. Sasṁkāraratnamālā) the boy takes his meal in the same dish with his mother (for the last time) and other brahmacārins (eight in number) are also invited at the same time for meals in the company of the boy. This practice is observed even in modern times. Almost all prescribe that the boy is shaved on this day (as in caula); this also is done in modern times. But in ancient [^666] times the shaving was done by the ācārya himself as stated by Sudarśana on Āp. gr. 10. 6-8. There are several other matters detailed in Āp. and others, on which Āśv. and some others are silent. The important ones are mentioned below.
 
+[^662]: स्नात शुचिवाससं बद्धशिखं यज्ञोपवीतं प्रतिमुञ्चन् वाचयति 'यज्ञोपवीतं परमं पवित्रं प्रजापतेर्यत्सहजं पुरस्तात्। आयुष्यमग्न्यं प्रतिमुञ्च शुभ्रं यज्ञोपवीतं बलमस्तु तेजः॥’ इति यज्ञोपवीतिनमप आचमय्याथ देवयजनमुदानयति। बौ. गृ. II. 5. 7-8; the verse यज्ञोपवीतं is quoted as from गृह्यपरिशिष्ट in स्मृतिच॰ (I. p. 31) and is repeated even in the island of Bali by the _pedandas_. In some msg. of Pār. gṛ. this mantra occurs, but it is an interpolation, as Karka, Jayarāma and Harihara say 'यद्याप सूत्रकारेण यज्ञोपवीतधारणं न सूत्रितम्’ (हरिहर).
 
+[^663]: परीदं वासः — this is आप. म. पा. II. 2. 8; मित्रस्य चक्षुः is आप. म. पा. II. 2. 11.
 
-The whole procedure of upanayang is more elaborately desoribed in the Ap. gr., in Hir. gr. and Gobhila A few points
+[^664]: Acc. to शाङ्खायनगृह्य II. 2. 3 the आचार्य says 'यज्ञोपवीतमस्ति यज्ञस्य त्वा यज्ञोपवीतेनोपनह्यामि.'
 
-6. 3. 2; 21 09 Berit &c. i ho have on
+[^665]: बौ. गृ. सू. 'कुमारं भोजयित्वा तस्य चालैवत्तूष्णीं केशानोप्य स्नातं शुचिवाससं बद्धशिखम्' c. (II. 5. 7).
 
-the husband
-
-658. Ara het &o. Those mantrag occur in . \#. III. 3. 1. &and III. 6. 3. 2 ; sleo in ferva. T., 1. g. II. 5. 62 &o.
-
-669. &c. I hese words also occur in IT. II. 2., AUT. I. 22. 10, fray. ( where we have HR O). Those words also occur in the marriage ceremony (As uddressed by the husband ), vide MRTT. I. 8.
-
-660. Torer &o. Those words ( with some additions and omis sions ) ocour in *14. \#. 07. Il. 6. 14, CAFU. II. 3, 1894 41. 17 and voveral others. These are based on the au passage quoted in noto 625 abovo. In some it is said simply do not sloop' and this is or plainod in WATT. V. I. 1. 4. 28. as mu i guitarest ratest Tam furate,
-
-661. wmawiq sacrifice is to be porformed after a part of tho Voda bas been learnt., vide sp**. T. I. 22. 10-16, TN IIL 2. 46-47.
-
-284
-
-
-
-
-
-of interest and divergence may be noted here briefly. It is remarkable that Aśv., Āp. and several other sūtrakāras do not say a word about the sacred thread, while & few like Hir. gr. (I. 2. 6), Bhār. gs. ( 1.3 ) and Mānava gr. ( I. 22. % ) say that the boy already wears the yajśopavita before the homa begins; while Baud. gr.662 (II. 5. 7) says that the boy is given the yajñopavśta and then made to recite the well-known mantra "the Yajñopapita is extremely sacred' and the Vaik, smārta (II. 5 ) says that the teacher gives the upper garment to the boy with 668 the verge paridam vāgah', the sacred thread with the mantra 'Yajñopavitam'and the black antelope skin with the mantra 'the eye of Mitra'. Sudarśana on Āp. gr. 10.5 says that the boy puts on the yajāopavita with the mantra before he takes bis meal ( according to some) or (according to others) before he puts the fuel stick on the fire and relies on Āp, Dk. 8. I. 5. 15. 1 for support. According to Karka and Haribara ( on Pāraskara ) the yajśopavita was given to the student by the teacher after the tying of the girdle. The Samskāratattva p. 934 says the same. Late works like the Samskāraratnamālā (p. 202 ) prescribe the wearing of the sacred thread before the bome. The origin and development of the ideas about yajñopayita will be dealt with separately later on, Ap. gf, (X.5), Baud gs. (II. 5. 7) and Pār. gr. (II. 2) prescribe a dinner to brāhmaṇas before the ceremonies begin and receiving their benedictions. Ap. gr. (X.5), Bhār. gr. (I. 1), Baud gp. 685 (II. 5. 7) say that the boy also is made to take food; socording to later works ( e. g. Samskararatnamālā ) the boy takes his meal in the same dish with his mother (for the last time) and other brahmacārins (eight in number) are also invited at the same time for meals in the
-
-662. FW QSUTH Tru Tout saya tra queste gran पविध प्रजापतेर्यसहज पुरस्तात् । आयुष्यमग्न्यं प्रतिमुश शुभं यज्ञोपवीत बलमस्तु तेजः।" Fai THRU B OTUOTTEET I 1. T. II. 5. 7-8; the verso यज्ञोपवीतं is quoted as from गृह्मपरिशिष्ट in स्मृतिच. (I. p. 81) and is repeated even in the island of Bali by the pedandas. In some msg. of Pār. gr. this mantra occurs, but it is an interpolation, a8 Karka, Jaya rama and Harihara say' TOTT TETTtos antiTAUTUI Trag' (RET).
-
-663. at 3 -- this is wr4. H. 9. II. 2. 8; AUFT 9 is sity. . 11. II. 2. 11.
-
-664. Acc. to spreaqW 11. 2. 3 the strurd says 'antigoterapeut arren स्था यज्ञोपवीतेनोपनमामि.'
-
-665. .17..'art watott eren verwoofff baraton Foret - TRH Fury' &o. (II. 5. 7).
-
-Oh. VII)
-
-Procedure of Upanayana
-
-285
-
-company of the boy. This practice is observed even in modern times. Almost all prescribe that the boy is shaved on this day ( as in caula ); this also is done in modern times. But in ancient \#68 times the shaving was done by the ācārya bimself as stated by Sudarsana on Āp. gr. 10. 6-8. There are several other matters detailed in Ap. and others, on which Asy, and some others are silent. The important ones are mentioned below.
-
-(a) Ap. gr. (10.9), Mānava gr. (I. 23. 12), Baud. gr. (II. 5, 10), Khādira gr. (11. 4) and Bhār, gr. (1.8) make the boy tread on & stone to the north of the fire with his right foot after home. The mantras repeated in the several sūtras are significant asking the boy to be firm like a stone. 669
+(a) Āp. gṛ. (10.9), Mānava gṛ. (I. 23. 12), Baud. gṛ. (II. 5, 10), Khādira gṛ. (11. 4) and Bhār. gṛ. (1.8) make the boy tread on a stone to the north of the fire with his right foot after home. The mantras repeated in the several sūtras are significant asking the boy to be firm like a stone.[^667]
 
 (6) Mānava gf. (1.22.3) and Kathaka gp. (41. 10) preboribe after homa the tasting of ourds thrice after repeating the verse * Dadbikrāvạo skāriṣam'(Rg. IV. 39. 6=Tai. 8. 1. 5. 4. 11 ).
 
