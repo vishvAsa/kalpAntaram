@@ -37,7 +37,7 @@ u arra Funda fara s a at mai. Vide also 01. 34. I. 9. I सर्वाणिह
 
 Agreement of sūstras as to brahma 
 
-145 
+1485
 
 of brahma, 3432 To the objection that the Veda la concerned with rites, that some partions of it are meant for the praise of rites, that the Vedic mantras only remind the performer about the various ingredients of sacrifice, that, therefore, the Vedanta texte either serye no purpose at all or at the most give information about the soul of the sacrificer or the deity to be worshipped in sacrificos, the reply is given by the Vedāntasūtra 1. 1. 4 (tat-tu samantayāt), which means that all Vedānta texts are agreed that their parport is to establish that brahma, whioh has been postulated (in V.S.I.1.2)as the creator, preserver and absorber of the world has that charaoter and is omniscient and omnipotente 
 
