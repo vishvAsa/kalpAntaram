@@ -2,7 +2,7 @@
 title = "संस्कारदीपकः ३"
 unicode_script = "devanagari"
 +++
-[[अपरिष्कृतम्]]
+[[TODO: अपरिष्कृतम्]]
 
 Source: [TW](https://archive.org/details/UtPP_parishishta-dipak-sanskar-dipak-by-nityanand-pant-parvatiya-part-3-kashi-sanskrit-series-no.-95/page/n51/mode/2up)
 
