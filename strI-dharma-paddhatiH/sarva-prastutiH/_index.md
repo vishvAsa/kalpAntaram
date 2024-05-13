@@ -6,6 +6,12 @@ title = "+सर्व-प्रस्तुतिः"
 
 Source: [TW](https://archive.org/details/streedharmapaddathi/strii-dharmam/page/n2/mode/1up)
 
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+History - by our suggestion, smt shylaja corrected an initial version at [ambuda](https://ambuda.org/proofing/striidhrmpddhtih/activity). Further correction and alignment was done by smt sarayu here.
+</details>
+
+
 <details open><summary>मूलम्</summary>
 
 श्रीः ॥
