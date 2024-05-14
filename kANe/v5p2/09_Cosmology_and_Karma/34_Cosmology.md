@@ -2,16 +2,13 @@
 title = "34 Cosmology"
 
 +++
+## SECTION IX 
 
-SECTION IX 
+### CHAPTER XXXIV 
 
-CHAPTER XXXIV 
+### COSMOLOGY 
 
-COSMOLOGY 
-
-All writers on Dharmaśāstra are agreed on the existence of God. They rarely enter upon the task of adducing arguments for the existence of God. Christian theologians for hundreds of years put forward various arguments pointing to the existence of God. They are briefly summarised in William James' 
-
-• Varieties of religious experience' p. 437 (ed. of 1920). The cosmological argument reasons from the ordered univers to & First Cause which must be conceived as God who must at least po88e88 whatever perfection the universe itself contains. The argument from purpose or design (teleological argument) based itself on the evidence of purpose or design in Nature and concludes that the First Cause (God) must be a creative intellect or mind. Then there are other arguments also such as the 'moral argument'(viz. the moral law presupposes a law-giver), the argument ex consensu gentium (vir, there is widespread belief in God all over the world and it should carry weight).2439 
+All writers on Dharmaśāstra are agreed on the existence of God. They rarely enter upon the task of adducing arguments for the existence of God. Christian theologians for hundreds of years put forward various arguments pointing to the existence of God. They are briefly summarised in William James 'Varieties of religious experience' p. 437 (ed. of 1920). The cosmological argument reasons from the ordered univers to a First Cause which must be conceived as God who must at least possess whatever perfection the universe itself contains. The argument from purpose or design (teleological argument) based itself on the evidence of purpose or design in Nature and concludes that the First Cause (God) must be a creative intellect or mind. Then there are other arguments also such as the 'moral argument'(viz. the moral law presupposes a law-giver), the argument ex consensu gentium (vir, there is widespread belief in God all over the world and it should carry weight).2439 
 
 bolier sument ont' 
 
