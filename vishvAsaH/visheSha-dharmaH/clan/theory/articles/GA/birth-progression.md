@@ -49,7 +49,7 @@ Becomes? In this life? So, a kSatriya can just become a brAhmaNa then? No, becau
 > कर्मभिः शुचिभिर्देवि  
 > शुद्धात्मा विजितेन्द्रियः ।  
 > शूद्रोऽपि द्विजवत् सेव्य  
-> इति ब्रह्माब्रवीत्स्वयम् ॥४७॥
+> इति ब्रह्माब्रवीत् स्वयम् ॥४७॥
 
 
 But conduct entitles one to be honoured regardless of the birth. Thus, the necessity of birth and the possibility of honors regardless of birth are both brought out in rudra's discourse.
