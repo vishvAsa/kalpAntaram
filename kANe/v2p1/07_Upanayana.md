@@ -176,7 +176,7 @@ The whole procedure of upanayana is more elaborately described in the Āp. gṛ.
 
 [‍^667]: आतिष्ठेममश्मानमश्मेव त्वं स्थिरो भव। अभि तिष्ठ पृतन्यतः सहस्व पृतनायतः। आप. म. पा. II. 2. 2, which is the मन्त्र in आप. गृ., भार॰ गृ., बौ. गृ.
 
-(b) Mānava gṛ. (I.22.3) and Kāṭhaka gṛ. (41. 10) prescribe after homa the tasting of curds thrice after repeating the verse 'Dadhikrāṇo akāriṣam'(Ṛg. IV. 39. 6=Tai. S. I. 5. 4. 11).
+(b) Mānava gṛ. (I.22.3) and Kāṭhaka gṛ. (41. 10) prescribe after homa the tasting of curds thrice after repeating the verse 'Dadhikrāvṇo akāriṣam'(Ṛg. IV. 39. 6=Tai. S. I. 5. 4. 11).
 
 (c) Pār. gṛ. (II.2), Bhār. gṛ. (I.7), Āp. gṛ. (11.1-4), Āp. Mantrapāṭha (II. 3. 27-30), Baud. gṛ. II. 5. 25 (quoting Śāṭyāyanaka), Mānava gṛ. I. 22. 4-5, and Khādira gṛ. II. 4. 12 refer to the fact that the teacher asks the boy his name and the latter pronounces his name. The teacher also asks whose brahmacārī the boy is.
 
@@ -220,27 +220,15 @@ In the Pūrvamīṁāmsāsūtra (III. 1. 21) it is established (with reference t
 
 [^680]. नित्यमुत्तरं वासः कार्यम्। अपि वा सूत्रमेवोपवीतार्थे। आप. ध. सू. II. 2. 4. 22-23; सोत्तराच्छादनश्चैव यज्ञोपवीती भुञ्जीत। आप. ध. सू. II. 8. 19. 12; हरदत्त explains "उत्तराच्छादनमुपरिवासः। तेन यज्ञोपवीतेन यज्ञोपवीतं कृत्वा भुञ्जीत। नास्य भोजने 'अपि वा सूत्रमेवोपवीतार्थे' इत्ययं कल्पो भवतीत्येके। समुच्चय इत्यन्ये।"; यज्ञोपवीती द्विवस्त्रः। अधोनिवीतस्त्वेकवस्त्रः। आप. ध. सू. I. 2. 6. 18-19; उपासने गुरुणां वृद्धानामतिथीनां होमे जप्यकर्मणि भोजन आचमने स्वाध्याये च यज्ञोपवीती स्यात्। आप. ध. सू. I. 5. 15. 1, where हरदत्त says 'वासोविन्यासविशेषो यज्ञोपवीतम्। दक्षिणं बाहुमुद्धरत इति ब्राह्मणविहितम्। वाससोऽसंभवेऽनुकल्पं वक्ष्यति अपि वा सूत्रमेवोपवीतार्थ इति। एषु विधानात् कालान्तरे नावश्यंभावः!'; vide औशनसस्मृति (Jīvānanda, part I. p.502) 'अग्न्यगारे गवां गोष्ठे होमे जप्ये तथैव च। स्वाध्याये भोजने नित्यं ब्राह्मणानां च संनिधौ। उपासने गुरूणां च संध्ययोरुभयोरपि। उपवीती भवेन्नित्यं विधिरेष सनातनः॥'
 
-The Gobhila gṛ. (I. 2. 1) in treating of upanayana [^681] says 'the student takes as yajñopavīta a cord of threads, a garment
+The Gobhila gṛ. (I. 2. 1) in treating of upanayana [^681] says 'the student takes as yajñopavīta a cord of threads, a garment or a rope of kuśa grass'. This indicates that though a cord of threads was considered in Gobhila's days as the appropriate yajñopavīta, that was not an invariable rule in his day and that a garment could be employed instead. The commentator being brought up in the latter day tradition explains by saying that if the sūtra was lost in a forest then a garment may be worn like the sacred thread and if even that was lost a rope of kuśa. But this appears to be rather far-fetched as an explanation of Gobhila's unqualified words. Manu (II. 44) says that the upavīta of a brāhmaṇa should be made of cotton , its strands should be twined with the right hand moved over them (or the twist of the strands must be upwards) and it should have three threads'. Medhātithi comments on this that 'upavīta' means a particular mode of wearing a garment or a particular position of it and therefore here by upavīta is meant that which can be worn in that mode. The Sm. C. quotes a prose passage from Ṛṣyaśṛṅga 'or one may carry out all the purposes for which yajñopavīta is required by means of a garment and in its absence by a string of three threads'. From the above passages, from the fact that many of the gṛhyasūtras are entirely silent about the giving or wearing of the sacred thread in upanayana and from the fact that no mantra [^682] is cited from the Vedic Literature for the act of giving the yajñopavīta (which is now the centre of the upanayans rites), while scores of vedic mantras are cited for the several component parts of the ceremony of upanayana, it is most probable, if not certain, that the sacred thread was not invariably used in the older times as in the times of the later Smṛtis and in modern times, that originally the upper garment was need in various positions for certain acts, that it could be laid aside altogether in the most ancient times and that the cord of threads came to be used first as an option and later on exclusively for the upper garnent.
 
-[^681] यज्ञोपवीतं कुरुते वस्त्रं वापि वा कुशरज्जुमेव्। गोभिलगिह्य I. 2. 1; सूत्रमपि वस्त्राभावाद्वेदितव्यमिति। अपि वाससा यज्ञोपवीतार्थान् कुर्यात्तदभावे त्रिवृता सूत्रेनेणेति ऋष्यशृङ्गस्मरणात्। स्मृतिच॰ I. P. 32.
+[^681]: यज्ञोपवीतं कुरुते वस्त्रं वापि वा कुशरज्जुमेव्। गोभिलगिह्य I. 2. 1; सूत्रमपि वस्त्राभावाद्वेदितव्यमिति। अपि वाससा यज्ञोपवीतार्थान् कुर्यात्तदभावे त्रिवृता सूत्रेनेणेति ऋष्यशृङ्गस्मरणात्। स्मृतिच॰ I. P. 32.
 
-Ch. VII]
+[^682]: The mantra 'यज्ञोपवीतं परमं &c. is cited only in Baud. gṛ. (note 662 above) and in Vaik. (II.5), has certainly a comparatively modern ring about it and is not cited in any well-known ancient work.
 
-Upanayana-yajstopavita
+A few rules about yajñopavīta may now be stated here. [^683] The yajñopavīta is to have three threads of nine strands well
 
-251
-
-or a rope of kuśa grass'. This indicates that though & cord of threads was considered in Gobhila's days as the appropriate yajñopa vita, that was not an invariable rule in his day and that & garment could be employed instead. The commentator being brought up in the latter day tradition explains by saying that if the sūtra was lost in a forest then & garment may be worn like the sacred thread and if evon that was lost a rope of kuśa. But this appears to be rather far-fetched as an explanation of Gobhila's unqualified words. Manu (II. 44 ) says that the upavita of a brāhmaṇa should be made of cotton , its strands should be twined with the right hand moved over them (or the twist of the strands must be upwards) and it should have three threads'. Medhātithi comments on this that 'upavita' means & particular mode of woaring a garment or a particular position of it and therefore bere by upavita is meant that which can be worn in that mode. The Sm. C. quotes a prose passage from Rṣyaérnga
-
-or one may carry out all the purposes for which yajñopavita is required by means of a garment and in its absence by a string of three threads'. From the above passages, from the fact that many of the grbyasūtras are entirely silent about the giving or wearing of the sacred thread in upanayana and from the fact that no mantra 688 is oited from the Vedic Literature for the act of giving the yajñopa vita (which is now the centre of the upanayans rites), while soores of vedic mantras are cited for the several component parts of the ceremony of upanayana, it is most probable, if not certain, that the sacred thread was not invariably used in the older times as in the times of the later amptis and in modern times, that originally the upper garment was need in various positions for certain acts, that it could be laid aside altogether in the most ancient times and that the cord of threads oame to be used first as an option and later on exclusively for the upper garnent.
-
-A few rules about yajñopapita may now be stated here.68% The yajñopavita is to have three threads of nine strands well
-
-682. Tbo mantra' Title TH &c. is citod only in Baud. gr. ( noto 662 above ) and in Vaik. (11.5), has certainly a comparatively wodora ring about it and is not cited in any well-known ancient work.
-
-683. Vide Figuart p. 4 and \#. $. PP. 416-418 as to bow the upavita is to bo manufactured and who is to manufacture it, one interesting fact being that an upavita prepared by a maiden was to be preferred to one prepared by a widow. ***** quoted in the In deiner F
-
-fit in Manu II. 44 as 'terrarurarum fuguftorgi seset Ara E
+[^683]: Vide स्मृत्यर्थसार p. 4 and सं. प्र. PP. 416-418 as to how the upavīta is to be manufactured and who is to manufacture it, one interesting fact being that an upavīta prepared by a maiden was to be preferred to one prepared by a widow. मदनरत्न quoted in the आचाररत्न defines ऊर्ध्ववृत in Manu II. 44 as 'करेण दक्षिणेनोर्ध्वगतेन त्रिगुणीकृतम्। वलितं मानवे शास्त्रे सूत्रमूर्ध्ववृतं स्मृतम्॥' (p.2).
 
 \#'(p. 2).
 
