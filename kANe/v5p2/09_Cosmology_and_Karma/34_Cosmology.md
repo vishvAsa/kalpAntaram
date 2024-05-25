@@ -1,7 +1,3 @@
-+++
-title = "34 Cosmology"
-
-+++
 
 SECTION IX 
 
@@ -9,13 +5,9 @@ CHAPTER XXXIV
 
 COSMOLOGY 
 
-All writers on Dharmaśāstra are agreed on the existence of God. They rarely enter upon the task of adducing arguments for the existence of God. Christian theologians for hundreds of years put forward various arguments pointing to the existence of God. They are briefly summarised in William James' 
+All writers on Dharmaśāstra are agreed on the existence of God. They rarely enter upon the task of adducing arguments for the existence of God. Christian theologians for hundreds of years put forward various arguments pointing to the existence of God. They are briefly summarised in William James 'Varieties of religious experience' p. 437 (ed. of 1920). The cosmological argument reasons from the ordered univers to a First Cause which must be conceived as God who must at least possess whatever perfection the universe itself contains. The argument from purpose or design (teleological argument) based itself on the evidence of purpose or design in Nature and concludes that the First Cause (God) must be a creative intellect or mind. Then there are other arguments also such as the 'moral argument'(viz. the moral law presupposes a law-giver), the argument _ex consensu gentium_ (vir, there is widespread belief in God all over the world and it should carry weight).[^2429]
 
-• Varieties of religious experience' p. 437 (ed. of 1920). The cosmological argument reasons from the ordered univers to & First Cause which must be conceived as God who must at least po88e88 whatever perfection the universe itself contains. The argument from purpose or design (teleological argument) based itself on the evidence of purpose or design in Nature and concludes that the First Cause (God) must be a creative intellect or mind. Then there are other arguments also such as the 'moral argument'(viz. the moral law presupposes a law-giver), the argument ex consensu gentium (vir, there is widespread belief in God all over the world and it should carry weight).2439 
-
-bolier sument ont' 
-
-2429. Vide also F. W. West-way's 'Obsessions and convictions of the human intellect' (Blackie & Son, 1938), which adds a fifth to Jamca' four siz,. ontological argument (the very idea or concept of God makes the existence of God requisite) pp. 378–80. W. James in Pragmatism (p. 109, ed. 1910) states that the evidence for the existence of God lies primarily in inner personal experience. Mr. Westway (on p. 374 ) givea & definite answer that there is no proof of the existence of God, but (on p. 387) he admits tbat the argument from design carries an extremely high degrea of probability and that he believes that the Universe is not merely a chance-made affair as some philosophers believe. The argument from design (for God's existence) is beld to have been sbattered by the theory of evolution. If everything has a cause, it is also argued, why should God not have a cause? And it is said by some that there is no reason to suppose that the world had a beginning at all. This is the view of famous Mimāo. sakas like Kumārila. Vide above pp. 1209–1210 and note 1963, H. G. Wolls in big 'You can't be too careful' (London 1942, P. 282 ) holds that the idea of God'a omplacience, omnipresence and omnipotence must be 
+[^2429]: Vide also F. W. West-way's 'Obsessions and convictions of the human intellect' (Blackie & Son, 1938), which adds a fifth to James' four viz,. ontological argument (the very idea or concept of God makes the existence of God requisite) pp. 378–80. W. James in 'Pragmatism' (p. 109, ed. 1910) states that the evidence for the existence of God lies primarily in inner personal experience. Mr. Westway (on p. 374 ) gives a definite answer that there is no proof of the existence of God, but (on p. 387) he admits that the argument from design carries an extremely high degree of probability and that he believes that the Universe is not merely a chance-made affair as some philosophers believe. The argument from design (for God's existence) is held to have been shattered by the theory of evolution. If everything has a cause, it is also argued, why should God not have a cause? And it is said by some that there is no reason to suppose that the world had a beginning at all. This is the view of famous Mīmāṁsakas like Kumārila. Vide above pp. 1209–1210 and note 1963. H. G. Wells in his 'You can't be too careful' (London 1942, P. 282 ) holds that the idea of God'a omniscience, omnipresence and omnipotence must be 
 
 (Continued on next page) 
 
@@ -37,7 +29,7 @@ u arra Funda fara s a at mai. Vide also 01. 34. I. 9. I सर्वाणिह
 
 Agreement of sūstras as to brahma 
 
-145 
+1485
 
 of brahma, 3432 To the objection that the Veda la concerned with rites, that some partions of it are meant for the praise of rites, that the Vedic mantras only remind the performer about the various ingredients of sacrifice, that, therefore, the Vedanta texte either serye no purpose at all or at the most give information about the soul of the sacrificer or the deity to be worshipped in sacrificos, the reply is given by the Vedāntasūtra 1. 1. 4 (tat-tu samantayāt), which means that all Vedānta texts are agreed that their parport is to establish that brahma, whioh has been postulated (in V.S.I.1.2)as the creator, preserver and absorber of the world has that charaoter and is omniscient and omnipotente 
 
