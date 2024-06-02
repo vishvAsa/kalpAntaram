@@ -5,7 +5,7 @@ title = "प्रज्ञा-धाराः, संस्कृतम्"
 
 <div class="audioEmbed"  caption="2023 - kn" src="https://archive.org/download/vishvAsa-kn/2023_11_10__prajNA-paramparAH_saMskRtam.mp3"></div>
 
-
+[YT list](https://www.youtube.com/playlist?list=PL63uIhJxWbggUSmQ5_1J67O8Xa4ahfFV2)
 
 ## देवे दास्यम्, कर्म-निवेदनम्
 
@@ -45,7 +45,7 @@ title = "प्रज्ञा-धाराः, संस्कृतम्"
 - **प्रज्ञाया वैरल्यम्** - देशतः, कालतः
 
 ### मनुष्य-जातेर् इतिहासो भविष्यञ्च
-- 2000000 वर्षाणि → ०००००००००००००००००००x…
+- 2000000 वर्षाणि → uuuuuuuuuuuuuuuuuuux…
 - प्रज्ञा-परम्पराः
   - पश्व्-अवस्था 
   - सभ्यता हताः - क्मॆट्, यवनाः, रोमकाः, सुमेरकाः, पारसीकाः, …
