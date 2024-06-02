@@ -55,7 +55,7 @@ title = "प्रज्ञा-धाराः, संस्कृतम्"
   - पश्व्-अवस्था 
   - व्यक्ता वाक्
   - देव+आत्म-भूत-प्रमाः
-- आकृत्य्-आविर्भावनम् (eg. nests, unstable elements, gates...)
+- शक्तिमत्ता - आकृत्य्-आविर्भावनम् (eg. nests, unstable elements, transistors, AI...)
 
 #### मनुष्य-जातेर् इतिहासो भविष्यञ्च
 - 2000000 वर्षाणि → uuuuuuuuuuuuuuuuuuux…
