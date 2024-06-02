@@ -9,9 +9,10 @@ Abstract: A practicing Hindu is a Hindu who observes Hindu rituals and festivals
 
 - [Presentation: _saMskArAH संस्काराः_](https://docs.google.com/presentation/d/18KwoFODQ2faMT9nPVvTOQi6VBsFwqk7mMpxw-wbUavM/edit?authuser=0)
 
-<iframe width="560" height="315" src="https://youtu.be/iKuNiIBL0F4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="videoEmbed"  caption="En (Indica Symposium 2023)" src="https://www.youtube.com/watch?v=iKuNiIBL0F4"></div>
 
-[audio](https://archive.org/download/vishvasa-en/Kalpa-Embodied_Religion_By_Vishvas_Vasuki_20230814.ogg)
+<div class="audioEmbed"  caption="2023 - en" src="https://archive.org/download/vishvasa-en/Kalpa-Embodied_Religion_By_Vishvas_Vasuki_20230814.ogg"></div>
+[audio]()
 
 YT [old](https://www.youtube.com/embed/vCcJu2wJT58).
 
