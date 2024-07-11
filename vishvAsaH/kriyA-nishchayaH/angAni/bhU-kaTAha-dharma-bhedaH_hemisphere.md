@@ -1,7 +1,7 @@
 +++
 title = "भू-कटाह-धर्म-भेदः Hemisphere"
 +++
-
+## विषयः
 > दक्षिण-भू-कटाहेय् आर्षैः कर्म कथम् कार्यम्  
 
 इत्यत्र स्वाभिप्रायः प्रस्तूयते - परिष्कारान् प्रार्थयामहे।  
@@ -77,3 +77,23 @@ Coriolis effect इति प्रसव्य-क्रमो वायौ ज
 - उपवीत-भेदास् त एव। 
 - नैरृत्यां दिश्य् उक्तानि तत्रैव कार्याणि??
 
+
+## प्रकृत्या सम्बन्धस्य रक्षणम्
+Better to just move festival timings (eg. daxiNAyana = deva-karma-time in SH) - but on what basis?  
+Just throw away theory of sun being in deva-naxatra as having been relevent to some past time-place?  
+If they felt need to connect ritual direction and solar direction - we should too.  
+What happens in ritual reflects what happens in the nature - connection is critical.  
+So, clear understanding of theory is a goal in itself,  
+with ritual adjustments logically following.
+
+### दिग्-आदि-सापेक्षता कुतः?
+In each hemisphere - when you perform deva-karmas (eg. AdhAna, upanayana in spring) => when sun is in deva-naxatras => what's deva-yAna. Sun defines.
+
+## संज्ञा-स्थिरता
+Can't call south as north - already fixed relative to east. 
+
+There's a traditional [tropical-lunar calendar](/jyotiSham/kAla-mAnam/kauNDinyAyana/articles/sanskrit/kAlagaNanA_2_adhikamAsavyavasthA/) (small following in nepAL) which says it's bhAdrapada on Jul 11 2024 (rather than AShADha). Folks haven't taken to it despite "uttarAyana" now being absurd.
+
+## Equator
+equator is fuzzy zone - there things can be north-like given proximal influence.  
+bali-dvIpa is in southern hemisphere close to equator - I suppose they might have north-like practices?
