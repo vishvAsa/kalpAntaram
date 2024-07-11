@@ -4,7 +4,7 @@ title: Crossing seas
 
 ## Secondary references
 - kANe [v3](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.3/Kane_A-History-of-Dharmasastra-v3_1946#page/n979/mode/2up).
-- Also see ["India entry" page](../ethnic-shifts/Arya-consolidation/)  and in AryAvarta topic [v2p13](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.2.1/Kane_A-History-of-Dharmasastra-v2-1_1941#page/n69/mode/2up) for context regarding the fluid definition of AryAvarta.
+- Also see ["India entry" page](/notes/sapiens/branches/Aryan/satem/indo-iranian/indo-aryan/india/2_dominance/Arya-consolidation/)  and in AryAvarta topic [v2p13](https://archive.org/stream/HistoryOfDharmasastraancientAndMediaevalReligiousAndCivilLawV.2.1/Kane_A-History-of-Dharmasastra-v2-1_1941#page/n69/mode/2up) for context regarding the fluid definition of AryAvarta.
 
 ## Prohibitions
 - baudhAyana lists sea voyage among patanIya-s. manu says that a brAhmaNa who has crossed the seas is not worthy of being invited to a shrAddha.
