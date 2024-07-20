@@ -13,22 +13,28 @@ No. 20
 Cometart 
 EDITED BY 
 GOPI NATHA KAVIRĀJA 
+
 THE 
 MANSATATTVAVIVEKA 
+
 Printed by Jai Krishna das Gupta At the Vidya Vilas Press, Gopal Mandir Lane, 
 Benares City. 
 SEKSERİSİONERINNENLAY 
 1927 
-900000 
-विश्वनाथन्याय पञ्चानननिर्मितः 
-मांसतत्त्वविवेकः 
+
+
+विश्वनाथन्यायपञ्चानननिर्मितः 
+
+मांसतत्त्वविवेकः
+
 THE 
 MANSATATTVAVIVEKA 
 of 
 Viśvanatha Nyayapañchanana Bhaṭṭāchārya Edited with Introduction etc. 
 by 
 Jagannatha S'astri Hoshing Sahityopadhyaya, Sādholal Research Scholar, Sanskrit College, 
-Benares, 
+Benares,
+ 
 With a Foreword 
 by 
 Pandit GOPINĀTHA KAVIRĀJA, M, A., 
@@ -39,28 +45,35 @@ Benares.
 ### FOREWORD 
 
 There has been a controversy from times im memorial over the alleged evils of slaughter of animale (for sacrificial purposes) and of flesh-eating from the standpoint of Hindu S'astra. Those who are accustomed to vegetarianism are inclined to non-violent attitude towards life (as exemplified in early Buddhism, Jainism,Sankhya, Yoga & Vaisnavism) and are fond of finding in the scriptures a general tendency in favour of their own views and interpret all the sacred texts bearing on the question in that light. The other party is naturally opposed to this position, affirming that there are undoubtedly passages in the S'astras which refer to slaughter not only for specific ritualistic purposes but even for food, 
+
 The booklet which is herewith introduced deals with this interesting question. Its interest is further enhanced by the fact that it comes from the pen of Mahāmahopadhyāya Viśvanatha Nyayapañchanana, the great Naiyāyika of Bengal, whose Bhāṣāparichchheda with Nyayasiddhāntamuktāvali has become a classical work for the study of the elements of Nyāya-S'astra. 
-Viśvanatha was the son of Vidyanivāsa Bhaṭṭā- charya and the brother of Rudra Nyayavāchaspatit { and Nārāyaṇa ). Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati, the younger brother of 
-*His full name was probably Kāšinātha Vidyānivāsa. Vide N. Vasu, Bangera Jatiya Itihasa, Vol. I, p. 295. 
-+ The same as the author of Bhramaraduta. He was the father of Govinda Nyayavāgisa, the protege of Rājā Rāghava of Krisnanagara, whose date is 1669 A. D.(2) 
-the great Vasudeva Sarvabhauma, who is believed to have been the teacher of four illustrious figures of mediaeval Bengal:viz(i) S'rī Chaitanya Deva,the religi- ous reformer, (ii) Raghunatha S'iromani, the author of Tattvachintamani didhiti, the great Logician who paved the way in a sense for the study of Nyayaśāstra in Bengal, (iii) Raghunandana, the author of the 28 Smrti Tattvas, who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and (iv) the great Tantrist Kṛṣṇānanda Agamavagīśa, whose Tantrasara is still the one guide book for the performance of Tantric ceremonies in Bengal. 
-The date of Viśvanatha is known for certain. His gloss on the Nyaya sutras was composed at Brindavan in S'aka1556(Taryfafu=1634A,D.).*Mm.Haraprasada S'astri has shown that the Danakhaṇḍa of his father Vidyanivasa was composed in S'aka 1510(-1588A,D,). It is said that Viśvanatha was one of the pandits who presented addresses to Sarvavidyānidhāna Kavindrā- charya Sarasvati on his return from Delhi after the successful agitation for the abolition of pilgrim taxes at 
-*Mm. Rajendra chandra S'astri is inclined ( Bengali Translation of Bhāṣa parichchheda and Nyāyasiddhāntamuktāvalī, Introduction, pp.1-5) to place Viśvanatha much earlier and says that in the work of the Ghatakas there is mention of a Viśvanatha whose genealogy is given below:- 
-Bhaṭṭa Nārāyaṇa ( of S'andilya Gotra ) 
-Kamadeva Vidyānivāsa ( 12th in descent) 
-Viśvanatha Nyāyapanchānana Kṛṣṇanatha Harinatha Somanatha Rājīva ( childless ) 
-( 8 ) 
-Benares. The date of Kavindracharya, who was a contemporary of the Moghul Emperor Shah Jehan (1627-1658 A. D.), is well known. Viśvanātha may therefore be assigned to the middle of the 17th century A, D, 
+
+Viśvanatha was the son of Vidyanivāsa[^*] Bhaṭṭā- charya and the brother of Rudra Nyayavāchaspati[^+] (and Nārāyaṇa).  
+
+[^*]: His full name was probably Kāšinātha Vidyānivāsa. Vide N. Vasu, Bangera Jatiya Itihasa, Vol. I, p. 295. 
+
+[^+]: The same as the author of Bhramaraduta. He was the father of Govinda Nyayavāgisa, the protege of Rājā Rāghava of Krisnanagara, whose date is 1669 A. D.(2) 
+
+Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati, the younger brother of the great Vasudeva Sarvabhauma, who is believed to have been the teacher of four illustrious figures of mediaeval Bengal:viz(i) S'rī Chaitanya Deva,the religi- ous reformer, (ii) Raghunatha S'iromani, the author of Tattvachintamani didhiti, the great Logician who paved the way in a sense for the study of Nyayaśāstra in Bengal, (iii) Raghunandana, the author of the 28 Smrti Tattvas, who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and (iv) the great Tantrist Kṛṣṇānanda Agamavagīśa, whose Tantrasara is still the one guide book for the performance of Tantric ceremonies in Bengal. 
+
+The date of Viśvanatha is known for certain. His gloss on the Nyaya sutras was composed at Brindavan in S'aka1556(Taryfafu=1634A,D.).[^*] Mm.Haraprasada S'astri has shown that the Danakhaṇḍa of his father Vidyanivasa was composed in S'aka 1510(-1588A,D,). It is said that Viśvanatha was one of the pandits who presented addresses to Sarvavidyānidhāna Kavindrā- charya Sarasvati on his return from Delhi after the successful agitation for the abolition of pilgrim taxes at Benares.
+
+[^*Mm]: Rajendra chandra S'astri is inclined ( Bengali Translation of Bhāṣa parichchheda and Nyāyasiddhāntamuktāvalī, Introduction, pp.1-5) to place Viśvanatha much earlier and says that in the work of the Ghatakas there is mention of a Viśvanatha whose genealogy is given below:-  Bhaṭṭa Nārāyaṇa (of S'andilya Gotra), Kamadeva Vidyānivāsa ( 12th in descent) 
+Viśvanatha Nyāyapanchānana Kṛṣṇanatha Harinatha Somanatha Rājīva (childless) 
+
+The date of Kavindracharya, who was a contemporary of the Moghul Emperor Shah Jehan (1627-1658 A. D.), is well known. Viśvanātha may therefore be assigned to the middle of the 17th century A, D.
+
 Viśvanatha was the author of the following works:- 
-1) Bhāṣāparichchheda, in kārikās & its Com- mentary, Nyāyasiddhāntamuktāvalī. It is a work on Vaiseṣika or rather the combined system of Nyāya and Vaiseṣika. 
+
+(1) Bhāṣāparichchheda, in kārikās & its Com- mentary, Nyāyasiddhāntamuktāvalī. It is a work on Vaiseṣika or rather the combined system of Nyāya and Vaiseṣika. 
 (2) Nyāyasūtra Vṛtti. 
 It is the most popular gloss on the Sutras of 
 Gotama. 
-(3.) Piñgala prakāśa (Com, on Prākṛta Pingala). 
-(+) 
-4 ) Subarthatattvāloka. 
-5 ) Nyāyatantrabodhini. 
-( 6 ) Mäṁsatattvaviveka, 
+(3) Piñgala prakāśa (Com, on Prākṛta Pingala). 
+(4) Subarthatattvāloka. 
+(5) Nyāyatantrabodhini. 
+(6) Mäṁsatattvaviveka.
+
 The present edition of Mamsatattvaviveka is based on a single Ms. of the work (fols 1-13,9 lines per page, 36 letters per line, 10.4" x 4'-2′′) in fair Devanāgarī script. It was once in possession of one Bāpu Āchārya alias Rāmakṛṣṇa Acharya of Benares and has been recently acquired for the Government Sanskrit Library, 
 
 Sarasvati Bhavana, Benares.  
@@ -69,23 +82,55 @@ March 17, 1927,
 GOPINATH KAVIRAJ 
 
 ### प्रास्ताविकम्
-श्रीगणेशगीर्गुरुभ्यो नमः । प्रास्ताविकं किञ्चित् । 
-ate प्रकाश्यते मांसतत्त्वविवेको नाम श्रीविश्वनाथन्यायपश्चा- ननमट्टाचार्यविनिर्मितो निबन्धों मुद्रापयित्वा । श्रत्र च ग्रन्थकृता समन्ततो वचनानि मांसभक्षणविधायकान्यनेकानि संगृह्य प्रतिषे- astन्यपि कानिचिदुल्लिख्य तानि च परस्परं सङ्गमय्य स्वतन्त्रः स्वोयो विचारः सर्वेषां विदुषं पुरस्तादुपन्यस्तः । तत्र च पूर्व मनुयाज्ञवल्क्यवचनान्युपन्यस्य तेषां प्रकरणसङ्गतिं विचार्य प्रमाण- त्वेन च पैठीनसिहारीतदेवल बृहस्पतिमहाभारतमेधातिथिप्रभृतीनां प्रासङ्गिकानि वचनानि प्रदश्यं मांसं प्रोक्षिताद्यन्यतमं चेत्सर्वथा भक्षणीयमिति साधितम् । तत्समनन्तरमेव वचनान्यमूनि शङ्कोपश- ङ्कादिभिः सन्दूष्य सम्भूष्य च यमकुल्लूकभट्टभवदेववाचस्पतिभिता- शराकल्पतरुब्रह्मपुराणादिसाहाय्येन, यशश्राद्धमधुपर्कप्राणात्ययब्राह्म- खानुशासु तद्यतिरेकेणापि देवपित्रर्चनभृत्यभरणावशेषे च चातुर्व- एर्यस्य निर्विशेषं मांसभक्षणं प्रतिपादितम् । तत्र च पूजादिषु प्रस- व्रतः कूर्मवराहकालिकादिपुराणवचनानि कल्पतरुकामधेनुप्रभृति- प्रवन्धघृतानि परिदर्शितानि । तद्विरोधीनि च यज्ञीयपश्वालम्भनव्य- तिरिक्तहिंसापूर्व कमांसादानप्रतिषेधकानि बृहत्पराशरादिवचनानि प्रोक्षितातिरिक्तविषयकानि प्रतिपाद्य निष्कण्टकितः स्वीयः पन्थाः । प्रस्तुत्य च कलिवर्ज्यविचारं, गवालम्भादिविषयत्वेन संयोज्य तद्व- चनजातं, मध्यदेशीयस्याऽऽचारस्य सदाचारत्वेन तत्राऽन्यत्र चाऽवि- गीतो मांसभक्षणाचारः प्रतीयमानो निरूपितः । श्रन्ते च मांसश्राद्धे 
-( २ ) 
-विवदमानानामुपरि ब्रह्महत्यादिप्रायश्चित्तोपदेशे मातुलकन्यापरिण- यने च वैमत्यं प्रदर्श्य रागशेषदूषितचित्तत्वं देवानांप्रियत्वं सौगत- मतानुयायित्वं चेति प्रहारत्रयं च सम्पात्य सह चित्तशान्त्या निब- न्धोऽवसानं प्रापितः । 
-श्रदं मीमांस्यते - एष मांसभक्षणाभक्षणविवादः प्राचीनाद् बहोः कालादद्यावधि सर्वत्र प्राप्तावसरो नयनपथगोचरतामुपति । शाकादि- सात्त्विक पदार्थ भोजनशालिनां मांसभक्षणे सर्वथाऽरुचिरेवोत्पद्यत इति प्रकृतिधर्म एवैषः । श्रास्तां तावत्, 'मा हिंस्यात्सर्वा भूतानी' - ति श्रुत्या हिंसा तु सर्वथा निषिद्धैवः परं 'वायव्यं श्वेतमालभेते'- त्यादिश्रुत्यैव पश्वालम्भनमप्यनुमोदितम् । नच परस्परविरुद्धयो- हिंसाऽहिंसाप्रतिपादिकयोरुभयोः श्रुत्योः कथमन्यतरस्या बलवत्त्वं, पूर्वमीमांसाशास्त्रीयनियमानुरोधेन द्वयोरपि सावकाशत्वात्, यागा- द्यतिरिक्तत्वेन हिंसाया निषेधात्; यज्ञीयायाश्च कर्माङ्गत्वेन हिंसा- त्वाप्रतिपादनाश्च । एवं चैकमत्येन श्रुत्योरविरोधात् 'नाऽकृत्वा प्राणिनां हिंसां मांसमुत्पद्यते क्वचिदित्यादिवाक्यस्य यज्ञातिरिक्तत्वेन स- कोचात् क्रयादिप्राप्तस्य हिंसापूर्व कत्वात्तन्निषेधस्य सर्वथा समुचित- त्वात् 'अनचितं वृथा मांस' मित्यादिना यागपूजाद्यतिरिक्तस्य मांस. स्यानुपादेयत्वं निर्विवादमेव । यश्च भृत्यभरणावशिष्टस्य मांसस्य भक्षणार्थं पुनरुपादानं युक्त्या प्रपश्चितं तत्तु [न मनोरमं, 'कामतो जग्ध्वा सोपवासस्त्र्यहं वसेत्' 'जग्ध्वा चान्द्रायणं चरेत्' इत्यादि- भक्ष्याभक्ष्यप्रकरणीययाज्ञवल्क्यवचनानुरोधेन भृत्यभरणावशिष्टका- म्यमांसोपादानस्य प्रायश्चित्तविधानेन दोषास्पदत्वात् दूषितस्य च 'अस्वयं लोकविद्विष्टं धर्म्यमप्याचरेन्न त्वित्यनेन शिष्टैरनागतत्वा- श्व । अन्यच्च मृगादिहन्तृव्याधाद्यपेक्षया मांसभक्षकस्यैव विशिष्टा निन्दा शास्त्रे समुपलभ्यते । तथा च मनुः - 'न तादृशं भवत्येनो मृगहन्तुर्धनार्थिनः । यादृशं भवति प्रेत्य वृथा मांसानि खादतः ॥ 
-::(3) 
-इति । वृथेति । यज्ञातिरिक्तानीत्यर्थः । एतच वचनं मांसभक्षणविधि- वदतोव्याघातरूपमहादोषपातसम्भावनाभिया 
-प्रतिषेधान्तर्गतमपि 
-. 
-श्रीविश्वनाथेन समुपेक्षितम् । 'यज्ञार्थं पशवः सृष्टा' इत्यादिना 'मधुपर्के च यज्ञे च पितृदैवतकर्मणि । श्रत्रैव पशवो हिंस्या नान्यत्रे- त्यब्रवीन्मनुः ॥ एष्वर्थेषु पशून् हिंसेद्वेदतत्त्वार्थविद् द्विजः । श्रात्मानं च पशुं चैव गमयत्युत्तमां गति' मित्यन्तेन च मनोरेव वचनकदम्ब- केन यचादावेव श्रुतिमूलत्वेनाऽऽलम्भनं भक्षणं : चाऽनुमतं न त्वन्यत्र काम्यादौ, 'मांस भक्षयिताऽमुत्र यस्य मांसमिहाशयहम् । एतन्मां सस्य मांसत्व' मिति प्रवृत्तिपरकत्वेन क्वचिदंशेऽनुमतेऽपि सर्वथोच्छु- अचेतसामन्यत्र शास्त्रेण नियन्त्रणस्याऽऽवश्यकत्वात् । अथच सर्वेषां दर्शनानामिव धर्ममीमांसयोरपि निःश्रेयसावाप्तिरूपप्रधानलक्ष्यस्यैव प्रतिपाद्यत्वं, 'निवृत्तिस्तु महाफले 'ति 'सर्वान्कामानवाप्नोति हयमे- धफलं तथा । गृहेऽपि निवसन् विप्रो मुनिमांस विवर्जनादिति मनुयाशवल्क्योक्तः, 'अथातो धर्मजिज्ञासे'त्यादिजैमिनीयपूर्वमी- मांसावाक्यसमूहाश्च । 
-एवं च वैदिक हिंसामपहाय क्रयादिप्राप्तमांसभक्षणविषये प्रमा- सान्युपन्यस्यतां सतां मांसभक्षणसाधनं जिह्वालौल्यमेवोद्घोषयति । ये किल मांसादास्ते प्रकृत्या चञ्चला श्रपि भवन्ति नेतरे । तथाहि- मांसमदन्मृगेन्द्रः पञ्जरे सुदृढं बद्धोऽपि नैकमपि क्षणं शान्तः सन्ति- घृते, प्रत्युत धावत्येवेतस्ततः । गोमहिषादयः पुनलोंके धीरा इव दृश्यन्ते । इदानीन्तना श्राहारशास्त्र ( Dietetics ) विदोऽपि मांस- भक्षणं सर्वथा निन्दन्ति, प्रशंसन्ति च सात्त्विकं शाकादिकमेवाऽऽहार- जातम् । तस्माद्वैदिककर्माङ्गभूतालम्भनभक्षणे वर्जयित्वा निषिद्धानां वामसानां मांसादीनां पदार्थानां भक्षणं को नाम सुधीरनुमन्येतेति । 
-सर्वदा समुचित विचारसाहाय्यं विदधतोर्द्वयसुहृद्वरयोः श्रीबटुक- नाथशर्म, खिस्ते श्रीनारायणशास्त्रिणोः क्वचिदंशेऽत्र संसूचयतो मित्र 
-( 8 ) 
-वर-बेतालोपाहश्रीश्रनन्तरामशास्त्रिणश्च नामान्यनुल्लेख्य भूमिकाप- रिसमाप्तिरनुचितेति तेभ्यः सहर्ष धन्यवादान् वितीर्य सरस्वती- भवनसंस्कृतग्रन्थमालाप्रधानसंशोधकानां सर्वदा मय्यतुलं वात्सल्यं विभ्रतां विशेषतश्चाऽऽङ्ग्लभाषीयोपोद्धात प्रदानपूर्वकं ग्रन्थमिमं नि- र्यायतां पूज्यवरश्रीगोपीनाथकविराज एम० ए०. महोदयानां नाम सावरं स्मारंस्मार, श्रद्धमभिवन्द्यच श्रीमद्गुरुवरचरणकमलानि व्यापल्लवितादस्माद्विरस्यते प्रास्ताविकाल्लेखात् । 
-प्रन्थकर्तुः प्रसिद्धतयाऽऽग्लभाषीग्रभूमिकायां समुपन्यस्ततया च परिचयादिकं पिष्टपेषणमिव ज्ञात्या नात्र निबद्ध्यते । श्राशास्यते व गुणैकपक्षपातिनः सजनाः शुद्धिपत्रादशुद्धीः संशोध्य प्रन्थमेतमा - ग्रन्तमालोक्य सफलयेयुः परिश्रममिति शिवम् । 
+
+श्रीगणेशगीर्गुरुभ्यो नमः । 
+
+प्रास्ताविकं किञ्चित् । 
+
+अथैष प्रकाश्यते मांसतत्त्वविवेको नाम श्रीविश्वनाथन्यायपञ्चाननभट्टाचार्यविनिर्मितो निबन्धो मुद्रापयित्वा । अत्र च ग्रन्थकृता समन्ततो वचनानि मांसभक्षणविधायकान्यनेकानि संगृह्य प्रतिषेधकान्यपि कानिचिदुल्लिख्य तानि च परस्परं सङ्गमय्य स्वतन्त्रः स्वीयो विचारः सर्वेषां विदुषां पुरस्तादुपन्यस्तः । तत्र च पूर्वं मनुयाज्ञवल्क्यवचनान्युपन्यस्य तेषां प्रकरणसङ्गतिं विचार्य प्रमाणत्वेन च पैठीनसिहारीतदेवलबृहस्पतिमहाभारतमेधातिथिप्रभृतीनां प्रासङ्गिकानि वचनानि प्रदर्श्य मांसं प्रोक्षिताद्यन्यतमं चेत्सर्वथा भक्षणीयमिति साधितम् । तत्समनन्तरमेव वचनान्यमूनि शङ्कोपशङ्कादिभिः सन्दूष्य सम्भूष्य च यमकुल्लूकभट्टभवदेववाचस्पतिमिताक्षराकल्पतरुब्रह्मपुराणादिसाहाय्येन, यज्ञश्राद्धमधुपर्कप्राणात्ययब्राह्मणानुज्ञासु तद्व्यतिरेकेणापि देवपित्रर्चनभृत्यभरणावशेषे च चातुर्वर्ण्यस्य निर्विशेषं मांसभक्षणं प्रतिपादितम् । तत्र च पूजादिषु प्रसङ्गतः कूर्मवराहकालिकादिपुराणवचनानि कल्पतरुकामधेनुप्रभृतिप्रबन्धघृतानि परिदर्शितानि । तद्विरोधीनि च यज्ञीयपश्वालम्भनव्यतिरिक्तहिंसापूर्वकमांसादानप्रतिषेधकानि बृहत्पराशरादिवचनानि प्रोक्षितातिरिक्तविषयकानि प्रतिपाद्य निष्कण्टकितः स्वीयः पन्थाः । प्रस्तुत्य च कलिवर्ज्यविचारं, गवालम्भादिविषयत्वेन संयोज्य तद्वचनजातं, मध्यदेशीयस्याऽऽचारस्य सदाचारत्वेन तत्राऽन्यत्र चाऽविगीतो मांसभक्षणाचारः प्रतीयमानो निरूपितः । 
+
+( २ )
+
+अन्ते च मांसश्राद्धे विवदमानानामुपरि ब्रह्महत्यादिप्रायश्चित्तोपदेशे मातुलकन्यापरिणयने च वैमत्यं प्रदर्श्य रागरोषदूषितचित्तत्वं देवानांप्रियत्वं सौगतमतानुयायित्वं चेति प्रहारत्रयं च सम्पात्य सह चित्तशान्त्या निबन्धोऽवसानं प्रापितः ।
+
+अत्रेदं मीमांस्यते - एष मांसभक्षणाभक्षणविवादः प्राचीनाद् बहोः कालादद्यावधि सर्वत्र प्राप्तावसरो नयनपथगोचरतामुपैति । शाकादिसात्त्विकपदार्थभोजनशालिनां मांसभक्षणे सर्वथाऽरुचिरेवोत्पद्यत इति प्रकृतिधर्म एवैषः । आस्तां तावत्, 'मा हिंस्यात्सर्वा भूतानी'ति श्रुत्या हिंसा तु सर्वथा निषिद्धैव; परं 'वायव्यं श्वेतमालभेते'त्यादिश्रुत्यैव पश्वालम्भनमप्यनुमोदितम् । नच परस्परविरुद्धयोर्हिंसाऽहिंसाप्रतिपादिकयोरुभयोः श्रुत्योः कथमन्यतरस्या बलवत्त्वं, पूर्वमीमांसाशास्त्रीयनियमानुरोधेन द्वयोरपि सावकाशत्वात्, यागाद्यतिरिक्तत्वेन हिंसाया निषेधात्; यज्ञीयायाश्च कर्माङ्गत्वेन हिंसात्वाप्रतिपादनाच्च । एवं चैकमत्येन श्रुत्योरविरोधात् 'नाऽकृत्वा प्राणिनां हिंसां मांसमुत्पद्यते क्वचि'दित्यादिवाक्यस्य यज्ञातिरिक्तत्वेन सङ्कोचात् क्रयादिप्राप्तस्य हिंसापूर्वकत्वात्तन्निषेधस्य सर्वथा समुचितत्वात् 'अनर्चितं वृथा मांस'मित्यादिना यागपूजाद्यतिरिक्तस्य मांसस्याऽनुपादेयत्वं निर्विवादमेव । यच्च भृत्यभरणावशिष्टस्य मांसस्य भक्षणार्थं पुनरुपादानं युक्त्या प्रपञ्चितं तत्तु न मनोरमं, 'कामतो जग्ध्वा सोपवासस्त्र्यहं वसेत्' 'जग्ध्वा चान्द्रायणं चरेत्' इत्यादिभक्ष्याभक्ष्यप्रकरणीययाज्ञवल्क्यवचनानुरोधेन भृत्यभरणावशिष्टकाम्यमांसोपादानस्य प्रायश्चित्तविधानेन दोषास्पदत्वात् दूषितस्य च 'अस्वर्ग्यं लोकविद्विष्टं धर्म्यमप्याचरेन्न त्वि'त्यनेन शिष्टैरनादृतत्वाच्च । अन्यच्च मृगादिहन्तृव्याधाद्यपेक्षया मांसभक्षकस्यैव विशिष्टा निन्दा शास्त्रे समुपलभ्यते । तथा च मनुः - 
+
+> न तादृशं भवत्येनो मृगहन्तुर्धनार्थिनः ।  
+यादृशं भवति प्रेत्य वृथा मांसानि खादतः' ॥ 
+
+इति । 
+
+(३)
+
+वृथेति । यज्ञातिरिक्तानीत्यर्थः । एतच्च वचनं मांसभक्षणविधिप्रतिषेधान्तर्गतमपि वदतोव्याघातरूपमहादोषपातसम्भावनाभिया श्रीविश्वनाथेन समुपेक्षितम् । 'यज्ञार्थं पशवः सृष्टा' इत्यादिना 
+
+> मधुपर्के च यज्ञे च पितृदैवतकर्मणि ।  
+अत्रैव पशवो हिंस्या नान्यत्रेत्यब्रवीन्मनुः ॥  
+एष्वर्थेषु पशून् हिंसेद्वेदतत्त्वार्थविद् द्विजः ।  
+आत्मानं च पशुं चैव गमयत्युत्तमां गतिम् ॥ 
+
+इत्यन्तेन च मनोरेव वचनकदम्बकेन यज्ञादावेव श्रुतिमूलत्वेनाऽऽलम्भनं भक्षणं : चाऽनुमतं न त्वन्यत्र काम्यादौ, 
+
+> मां स भक्षयिताऽमुत्र यस्य मांसमिहाद्म्यहम् ।  
+एतन्मांसस्य मांसत्वम् 
+
+इति प्रवृत्तिपरकत्वेन क्वचिदंशेऽनुमतेऽपि सर्वथोच्छृङ्खलचेतसामन्यत्र शास्त्रेण नियन्त्रणस्याऽऽवश्यकत्वात् । अथच सर्वेषां दर्शनानामिव धर्ममीमांसयोरपि निःश्रेयसावाप्तिरूपप्रधानलक्ष्यस्यैव प्रतिपाद्यत्वं, 'निवृत्तिस्तु महाफले'ति 
+
+> सर्वान्कामानवाप्नोति हयमेधफलं तथा ।  
+गृहेऽपि निवसन् विप्रो मुनिर्मांसविवर्जनात् ॥ 
+
+इति मनुयाज्ञवल्क्योक्तेः, 'अथातो धर्मजिज्ञासे'त्यादिजैमिनीयपूर्वमीमांसावाक्यसमूहाच्च । 
+
+एवं च वैदिकीं हिंसामपहाय क्रयादिप्राप्तमांसभक्षणविषये प्रमाणान्युपन्यस्यतां सतां मांसभक्षणसाधनं जिह्वालौल्यमेवोद्घोषयति । ये किल मांसादास्ते प्रकृत्या चञ्चला अपि भवन्ति नेतरे । तथाहि मांसमदन्मृगेन्द्रः पञ्जरे सुदृढं बद्धोऽपि नैकमपि क्षणं शान्तः सन्तिष्ठते, प्रत्युत धावत्येवेतस्ततः । गोमहिषादयः पुनर्लोके धीरा इव दृश्यन्ते । इदानीन्तना आहारशास्त्र( Dietetics)विदोऽपि मांसभक्षणं सर्वथा निन्दन्ति, प्रशंसन्ति च सात्त्विकं शाकादिकमेवाऽऽहारजातम् । तस्माद्वैदिककर्माङ्गभूतालम्भनभक्षणे वर्जयित्वा निषिद्धानां तामसानां मांसादीनां पदार्थानां भक्षणं को नाम सुधीरनुमन्येतेति ।
+
+(४)
+
+सर्वदा समुचितविचारसाहाय्यं विदधतोर्हृद्यसुहृद्वरयोः श्रीबटुकनाथशर्म, खिस्तेश्रीनारायणशास्त्रिणोः क्वचिदंशेऽत्र संसूचयतो मित्रवर-बेतालोपाह्वश्रीअनन्तरामशास्त्रिणश्च नामान्यनुल्लेख्य भूमिकापरिसमाप्तिरनुचितेति तेभ्यः सहर्ष धन्यवादान् वितीर्य सरस्वतीभवनसंस्कृतग्रन्थमालाप्रधानसंशोधकानां सर्वदा मय्यतुलं वात्सल्यं बिभ्रतां विशेषतश्चाऽऽङ्ग्लभाषीयोपोद्घातप्रदानपूर्वकं ग्रन्थमिमं निर्ध्यायतां पूज्यवरश्रीगोपीनाथकविराज एम० ए०. महोदयानां नाम सादरं स्मारंस्मारं, सश्रद्धमभिवन्द्य च श्रीमद्गुरुवरचरणकमलानि वृथापल्लवितादस्माद्विरम्यते प्रास्ताविकाल्लेखात् । 
+ग्रन्थकर्तुः प्रसिद्धतयाऽऽङ्ग्लभाषीयभूमिकायां समुपन्यस्ततया च परिचयादिकं पिष्टपेषणमिव ज्ञात्या नात्र निबद्ध्यते । आशास्यते च गुणैकपक्षपातिनः सज्जनाः शुद्धिपत्रादशुद्धीः संशोध्य ग्रन्थमेतमाद्यन्तमालोक्य सफलयेयुः परिश्रममिति शिवम् । 
+
 सरस्वतीभवनम् काशी. } } जगन्नाथशास्त्री होशिङ्गः 
 २५-३-२७. 
+
 
 ### पारिभाषिकशब्दाः
 एतस्मिन्निबन्धे समापतितानां पारिभाषिकशब्दानां 
