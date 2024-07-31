@@ -1,5 +1,5 @@
 +++
-title = "+धर्मसिन्धुः"
+title = "+धर्म-सिन्धु-सारः"
 unicode_script = "devanagari"
 +++
 
