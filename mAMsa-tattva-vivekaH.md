@@ -6,88 +6,132 @@ Source: [TW](https://archive.org/details/Mansa_Tattva_Viveka_of_Visvanatha_Nyaya
 
 
 ## ०
-THE 
-PRINCESS OF WALES 
-SARASWATI BHAVANA TEXTS 
+THE PRINCESS OF WALES SARASWATI BHAVANA TEXTS  
 No. 20  
-Cometart 
-EDITED BY 
+
+EDITED BY  
 GOPI NATHA KAVIRĀJA 
 
-THE 
-MANSATATTVAVIVEKA 
+THE MANSATATTVAVIVEKA 
 
-Printed by Jai Krishna das Gupta At the Vidya Vilas Press, Gopal Mandir Lane, 
-Benares City. 
-SEKSERİSİONERINNENLAY 
+Printed by Jai Krishna das Gupta At the Vidya Vilas Press, Gopal Mandir Lane, Benares City. 
+
 1927 
 
 
-विश्वनाथन्यायपञ्चानननिर्मितः 
-
+विश्वनाथन्यायपञ्चानननिर्मितः  
 मांसतत्त्वविवेकः
 
-THE 
-MANSATATTVAVIVEKA 
-of 
-Viśvanatha Nyayapañchanana Bhaṭṭāchārya Edited with Introduction etc. 
-by 
-Jagannatha S'astri Hoshing Sahityopadhyaya, Sādholal Research Scholar, Sanskrit College, 
-Benares,
- 
-With a Foreword 
-by 
-Pandit GOPINĀTHA KAVIRĀJA, M, A., 
-The Principal, Government Sanskrit College, 
-Benares. 
+THE MANSATATTVAVIVEKA 
+of Viśvanatha Nyayapañchanana Bhaṭṭāchārya  
+Edited with Introduction etc. by  
+Jagannatha Śastri Hoshing Sahityopadhyaya, Sādholal Research Scholar, Sanskrit College, Benares,  
+With a Foreword by  
+Pandit GOPINĀTHA KAVIRĀJA, M, A.,  
+The Principal, Government Sanskrit College,  
+Benares.  
 1927 
 
 ### FOREWORD 
 
-There has been a controversy from times im memorial over the alleged evils of slaughter of animale (for sacrificial purposes) and of flesh-eating from the standpoint of Hindu S'astra. Those who are accustomed to vegetarianism are inclined to non-violent attitude towards life (as exemplified in early Buddhism, Jainism,Sankhya, Yoga & Vaisnavism) and are fond of finding in the scriptures a general tendency in favour of their own views and interpret all the sacred texts bearing on the question in that light. The other party is naturally opposed to this position, affirming that there are undoubtedly passages in the S'astras which refer to slaughter not only for specific ritualistic purposes but even for food, 
+There has been a controversy from times im memorial over the alleged evils of slaughter of animale (for sacrificial purposes) and of flesh-eating from the standpoint of Hindu Śastra.  
+Those who are accustomed to vegetarianism  
+are inclined to non-violent attitude towards life  
+(as exemplified in early Buddhism, Jainism,Sankhya, Yoga & Vaisnavism)  
+and are fond of finding in the scriptures a general tendency  
+in favour of their own views and interpret all the sacred texts bearing on the question in that light.  
+The other party is naturally opposed to this position,  
+affirming that there are undoubtedly passages in the Śastras  
+which refer to slaughter not only for specific ritualistic purposes  
+but even for food.
 
-The booklet which is herewith introduced deals with this interesting question. Its interest is further enhanced by the fact that it comes from the pen of Mahāmahopadhyāya Viśvanatha Nyayapañchanana, the great Naiyāyika of Bengal, whose Bhāṣāparichchheda with Nyayasiddhāntamuktāvali has become a classical work for the study of the elements of Nyāya-S'astra. 
+The booklet which is herewith introduced deals with this interesting question.  
+Its interest is further enhanced by the fact that  
+it comes from the pen of Mahāmahopadhyāya Viśvanatha Nyayapañchanana,  
+the great Naiyāyika of Bengal,  
+whose Bhāṣāparichchheda with Nyayasiddhāntamuktāvali  
+has become a classical work for the study of the elements of Nyāya-Śastra. 
 
-Viśvanatha was the son of Vidyanivāsa[^*] Bhaṭṭā- charya and the brother of Rudra Nyayavāchaspati[^+] (and Nārāyaṇa).  
+Viśvanatha was the son of Vidyanivāsa[^*] Bhaṭṭācharya  
+and the brother of Rudra Nyayavāchaspati[^+] (and Nārāyaṇa).  
 
-[^*]: His full name was probably Kāšinātha Vidyānivāsa. Vide N. Vasu, Bangera Jatiya Itihasa, Vol. I, p. 295. 
+[^*]: His full name was probably Kāśīnātha Vidyānivāsa. Vide N. Vasu, Bangera Jatiya Itihasa, Vol. I, p. 295. 
 
 [^+]: The same as the author of Bhramaraduta. He was the father of Govinda Nyayavāgisa, the protege of Rājā Rāghava of Krisnanagara, whose date is 1669 A. D.(2) 
 
-Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati, the younger brother of the great Vasudeva Sarvabhauma, who is believed to have been the teacher of four illustrious figures of mediaeval Bengal:viz(i) S'rī Chaitanya Deva,the religi- ous reformer, (ii) Raghunatha S'iromani, the author of Tattvachintamani didhiti, the great Logician who paved the way in a sense for the study of Nyayaśāstra in Bengal, (iii) Raghunandana, the author of the 28 Smrti Tattvas, who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and (iv) the great Tantrist Kṛṣṇānanda Agamavagīśa, whose Tantrasara is still the one guide book for the performance of Tantric ceremonies in Bengal. 
+Vidyānivāsa was the son of Ratnākara Vidyāvāchaspati,  
+the younger brother of the great Vasudeva Sarvabhauma,  
+who is believed to have been the teacher of four illustrious figures of mediaeval Bengal: viz  
 
-The date of Viśvanatha is known for certain. His gloss on the Nyaya sutras was composed at Brindavan in S'aka1556(Taryfafu=1634A,D.).[^*] Mm.Haraprasada S'astri has shown that the Danakhaṇḍa of his father Vidyanivasa was composed in S'aka 1510(-1588A,D,). It is said that Viśvanatha was one of the pandits who presented addresses to Sarvavidyānidhāna Kavindrā- charya Sarasvati on his return from Delhi after the successful agitation for the abolition of pilgrim taxes at Benares.
+- (i) Śrī Chaitanya Deva,the religious reformer, 
+- (ii) Raghunatha Śiromani, the author of Tattvachintamani-didhiti,  
+  the great Logician who paved the way in a sense for the study of Nyayaśāstra in Bengal, 
+- (iii) Raghunandana, the author of the 28 Smrti Tattvas,  
+  who is still regarded as the highest authority in all matters connected with social, domestic & ritualistic law in Bengal and 
+- (iv) the great Tantrist Kṛṣṇānanda Agamavagīśa, whose Tantrasara is still the one guide book for the performance of Tantric ceremonies in Bengal. 
 
-[^*Mm]: Rajendra chandra S'astri is inclined ( Bengali Translation of Bhāṣa parichchheda and Nyāyasiddhāntamuktāvalī, Introduction, pp.1-5) to place Viśvanatha much earlier and says that in the work of the Ghatakas there is mention of a Viśvanatha whose genealogy is given below:-  Bhaṭṭa Nārāyaṇa (of S'andilya Gotra), Kamadeva Vidyānivāsa ( 12th in descent) 
-Viśvanatha Nyāyapanchānana Kṛṣṇanatha Harinatha Somanatha Rājīva (childless) 
+The date of Viśvanatha is known for certain.  
+His gloss on the Nyaya sutras was composed at Brindavan in Śaka1556 (=1634 A,D.).[^*] 
+Mm.Haraprasada Śastri has shown that the Danakhaṇḍa of his father Vidyanivasa  
+was composed in Śaka 1510(-1588A,D,).  
+It is said that Viśvanatha was one of the pandits  
+who presented addresses to Sarvavidyānidhāna Kavindrācharya Sarasvati  
+on his return from Delhi  
+after the successful agitation for the abolition of pilgrim taxes at Benares.
 
-The date of Kavindracharya, who was a contemporary of the Moghul Emperor Shah Jehan (1627-1658 A. D.), is well known. Viśvanātha may therefore be assigned to the middle of the 17th century A, D.
+[^*Mm]: 
 
-Viśvanatha was the author of the following works:- 
+    Rajendra chandra Śastri is inclined ( Bengali Translation of Bhāṣa parichchheda and Nyāyasiddhāntamuktāvalī, Introduction, pp.1-5)  
+    to place Viśvanatha much earlier and says that in the work of the Ghatakas there is mention of a Viśvanatha whose genealogy is given below: Bhaṭṭa Nārāyaṇa (of Śandilya Gotra), Kamadeva Vidyānivāsa ( 12th in descent), Viśvanatha Nyāyapanchānana Kṛṣṇanatha Harinatha Somanatha Rājīva (childless) 
 
-(1) Bhāṣāparichchheda, in kārikās & its Com- mentary, Nyāyasiddhāntamuktāvalī. It is a work on Vaiseṣika or rather the combined system of Nyāya and Vaiseṣika. 
-(2) Nyāyasūtra Vṛtti. 
-It is the most popular gloss on the Sutras of 
-Gotama. 
-(3) Piñgala prakāśa (Com, on Prākṛta Pingala). 
-(4) Subarthatattvāloka. 
-(5) Nyāyatantrabodhini. 
-(6) Mäṁsatattvaviveka.
+The date of Kavindracharya, who was a contemporary of the Moghul Emperor Shah Jehan (1627-1658 A. D.), is well known.  
+Viśvanātha may therefore be assigned to the middle of the 17th century A, D.
 
-The present edition of Mamsatattvaviveka is based on a single Ms. of the work (fols 1-13,9 lines per page, 36 letters per line, 10.4" x 4'-2′′) in fair Devanāgarī script. It was once in possession of one Bāpu Āchārya alias Rāmakṛṣṇa Acharya of Benares and has been recently acquired for the Government Sanskrit Library, 
+Viśvanatha was the author of the following works:
 
-Sarasvati Bhavana, Benares.  
+- (1) Bhāṣāparichchheda, in kārikās & its Commentary, Nyāyasiddhāntamuktāvalī. It is a work on Vaiseṣika or rather the combined system of Nyāya and Vaiseṣika. 
+- (2) Nyāyasūtra Vṛtti. It is the most popular gloss on the Sutras of Gotama. 
+- (3) Piñgala prakāśa (Com, on Prākṛta Pingala). 
+- (4) Śubarthatattvāloka. 
+- (5) Nyāyatantrabodhini. 
+- (6) Māṁsatattvaviveka.
+
+The present edition of Mamsatattvaviveka is based on a single Ms. of the work (fols 1-13,9 lines per page, 36 letters per line, 10.4" x 4'-2′′) in fair Devanāgarī script.  
+It was once in possession of one Bāpu Āchārya alias Rāmakṛṣṇa Acharya of Benares  
+and has been recently acquired for the Government Sanskrit Library, Sarasvati Bhavana, Benares.  
+
 Sanskrit College, Benares.  
 March 17, 1927,  
 GOPINATH KAVIRAJ 
 
 ### प्रास्ताविकम्
 
-श्रीगणेशगीर्गुरुभ्यो नमः । 
+श्रीगणेश-गीर्-गुरुभ्यो नमः । 
 
 प्रास्ताविकं किञ्चित् । 
 
-अथैष प्रकाश्यते मांसतत्त्वविवेको नाम श्रीविश्वनाथन्यायपञ्चाननभट्टाचार्यविनिर्मितो निबन्धो मुद्रापयित्वा । अत्र च ग्रन्थकृता समन्ततो वचनानि मांसभक्षणविधायकान्यनेकानि संगृह्य प्रतिषेधकान्यपि कानिचिदुल्लिख्य तानि च परस्परं सङ्गमय्य स्वतन्त्रः स्वीयो विचारः सर्वेषां विदुषां पुरस्तादुपन्यस्तः । तत्र च पूर्वं मनुयाज्ञवल्क्यवचनान्युपन्यस्य तेषां प्रकरणसङ्गतिं विचार्य प्रमाणत्वेन च पैठीनसिहारीतदेवलबृहस्पतिमहाभारतमेधातिथिप्रभृतीनां प्रासङ्गिकानि वचनानि प्रदर्श्य मांसं प्रोक्षिताद्यन्यतमं चेत्सर्वथा भक्षणीयमिति साधितम् । तत्समनन्तरमेव वचनान्यमूनि शङ्कोपशङ्कादिभिः सन्दूष्य सम्भूष्य च यमकुल्लूकभट्टभवदेववाचस्पतिमिताक्षराकल्पतरुब्रह्मपुराणादिसाहाय्येन, यज्ञश्राद्धमधुपर्कप्राणात्ययब्राह्मणानुज्ञासु तद्व्यतिरेकेणापि देवपित्रर्चनभृत्यभरणावशेषे च चातुर्वर्ण्यस्य निर्विशेषं मांसभक्षणं प्रतिपादितम् । तत्र च पूजादिषु प्रसङ्गतः कूर्मवराहकालिकादिपुराणवचनानि कल्पतरुकामधेनुप्रभृतिप्रबन्धघृतानि परिदर्शितानि । तद्विरोधीनि च यज्ञीयपश्वालम्भनव्यतिरिक्तहिंसापूर्वकमांसादानप्रतिषेधकानि बृहत्पराशरादिवचनानि प्रोक्षितातिरिक्तविषयकानि प्रतिपाद्य निष्कण्टकितः स्वीयः पन्थाः । प्रस्तुत्य च कलिवर्ज्यविचारं, गवालम्भादिविषयत्वेन संयोज्य तद्वचनजातं, मध्यदेशीयस्याऽऽचारस्य सदाचारत्वेन तत्राऽन्यत्र चाऽविगीतो मांसभक्षणाचारः प्रतीयमानो निरूपितः । 
+अथैष प्रकाश्यते मांसतत्त्वविवेको नाम  
+श्रीविश्वनाथ-न्याय-पञ्चानन-भट्टाचार्य-विनिर्मितो निबन्धो मुद्रापयित्वा ।  
+अत्र च ग्रन्थकृता समन्ततो वचनानि मांस-भक्षण-विधायकान्य् अनेकानि संगृह्य  
+प्रतिषेधकान्य् अपि कानिचिद् उल्लिख्य  
+तानि च परस्परं सङ्गमय्य  
+स्वतन्त्रः स्वीयो विचारः सर्वेषां विदुषां पुरस्ताद् उपन्यस्तः ।  
+
+तत्र च पूर्वं मनु-याज्ञवल्क्य्-अवचनान्य् उपन्यस्य  
+तेषां प्रकरणसङ्गतिं विचार्य  
+प्रमाणत्वेन च पैठीनसि-हारीत-देवल-बृहस्पति-महाभारत-मेधातिथि-प्रभृतीनां प्रासङ्गिकानि वचनानि प्रदर्श्य  
+मांसं प्रोक्षिताद्य्-अन्यतमं चेत्  
+सर्वथा भक्षणीयम् इति साधितम् ।  
+
+तत् समनन्तरम् एव वचनान्य् अमूनि शङ्कोप-शङ्कादिभिः सन्दूष्य सम्भूष्य च  
+यम-कुल्लूकभट्ट--भवदेव--वाचस्पति--मिताक्षरा--कल्पतरु--ब्रह्मपुराणादि--साहाय्येन,  
+यज्ञ-श्राद्ध--मधु-पर्क--प्राणात्यय--ब्राह्मणानुज्ञासु  
+तद्-व्यतिरेकेणापि देव-पित्रर्चन--भृत्य-भरणावशेषे च  
+चातुर्-वर्ण्यस्य निर्विशेषं मांस-भक्षणं प्रतिपादितम् ।  
+तत्र च पूजादिषु प्रसङ्गतः कूर्म-वराह-कालिकादि-पुराण-वचनानि  
+कल्प-तरु--कामधेनु--प्रभृति--प्रबन्ध-हृतानि परिदर्शितानि ।  
+
+तद्विरोधीनि च यज्ञीयपश्वालम्भनव्यतिरिक्तहिंसापूर्वकमांसादानप्रतिषेधकानि बृहत्पराशरादिवचनानि प्रोक्षितातिरिक्तविषयकानि प्रतिपाद्य निष्कण्टकितः स्वीयः पन्थाः । प्रस्तुत्य च कलिवर्ज्यविचारं, गवालम्भादिविषयत्वेन संयोज्य तद्वचनजातं, मध्यदेशीयस्याऽऽचारस्य सदाचारत्वेन तत्राऽन्यत्र चाऽविगीतो मांसभक्षणाचारः प्रतीयमानो निरूपितः । 
 
 ( २ )
 
