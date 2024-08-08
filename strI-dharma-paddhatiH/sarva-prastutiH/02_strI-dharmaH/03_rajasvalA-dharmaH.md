@@ -31,7 +31,7 @@ title = "०३ रजस्वला-धर्मः"
 > रजस्वलैयागुम्बोदु, अवळुक्कु वेद प्राम्हणत्तिल् तडुक्कप्पट्ट कार्यङ्गळैप् पोदिक्कवुम्.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मणं च -
 
@@ -50,7 +50,7 @@ title = "०३ रजस्वला-धर्मः"
 कुऱुगिय पात्रत्तिल् कुडिप्पवळुक्कु, कुळ्ळन् पिऱप्पान्. आगैयाल् मूण्ड्रु तिनङ्गळ् मुऴुवदुम् व्रदमिरुक्कवेण्डुम्. अञ्जलियालो अगण्ड पात्रत्तालो नीर् अरुन्दवेण्डुम्. प्रजैयिन् रक्षणत्तिऱ्‌काग", ऎन्बदु पॊरुळ्.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्मृतिमञ्जर्याम् -
 
@@ -77,7 +77,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भावप्रकाशे -
 
@@ -113,7 +113,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 रजस्वलास्नानमात्रनिषेधेऽपि नैमित्तिकं स्नानं प्रकारान्तरेणैव कर्तव्यम् ॥
 
@@ -155,7 +155,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मिताक्षरायां तु -
 
@@ -203,7 +203,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 विज्ञानेश्वरः -
 
@@ -242,7 +242,7 @@ title = "०३ रजस्वला-धर्मः"
 स्नानम् सॆय्द सुमङ्गली, सूर्यनैप् पार्त्तु पुत्रनैप् प्रार्त्तित्तुक्कॊण्डु, तोषमिल्लाविडिल् 3 तडवै अन्नत्तैच् चाप्पिडवेण्डियदु.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अङ्गिराः – 
 
@@ -303,7 +303,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 बोधायनः -
 
@@ -344,7 +344,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत्र स्नानप्रकारमाह -
 
@@ -387,7 +387,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्मृत्यन्तरे – 
 
@@ -424,7 +424,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत्रिः -
 
@@ -460,7 +460,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ऋतुकालातिक्रमे उभयोरपि प्रायश्चित्तमाहापस्तम्बः -
 
@@ -505,7 +505,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ऋतुकाले भर्तुः प्रत्याख्याने स्त्रियाः दोषः ॥
 
@@ -544,7 +544,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यजुर्वेदेऽपि -
 
@@ -572,7 +572,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 साकमेधेषु द्राह्यायणसूत्रे - 
 
@@ -616,7 +616,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अयमर्थः काळिदासेनाभ्युक्तः -
 
@@ -640,7 +640,7 @@ title = "०३ रजस्वला-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 व्यङ्ग्यप्रधानं च उत्तमं काव्यमिति । अतो व्यङ्ग्यमर्यादया मन्त्रप्रतिपादितपुनरागमननिषेध एव तात्पर्यमिति ॥
 
@@ -665,7 +665,7 @@ title = "०३ रजस्वला-धर्मः"
 इदनालेये, इदिहास पुराण काव्यादिगळिल् सीदा त्रौबदि मुदलिय पदिव्रदैगळ् पदिवीट्टिलिरुन्दु पिदा वीट्टिऱ्‌कुप्पोगाद आचारमुम् काणप्पडुगिऱदु.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 > ऋतुस्नाता तु या नारी पतिं नैवोपसर्पति ।  
 शुनी वृकी सृगाली स्यात् सूकरी च पुनः पुनः ॥

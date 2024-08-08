@@ -3,7 +3,7 @@ title = "०६ अग्नि-होत्रम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अग्निशुश्रुषार्थमग्निहोत्रगृहे दक्षिणया द्वारा पत्न्या प्रवेष्टव्यम् । 
 
@@ -55,7 +55,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च याज्ञवल्क्यः -
 
@@ -98,7 +98,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 प्रतिदिनमेका शुश्रूषादि कर्तुमशक्ता चेत् तदा दिनक्रमेण यथाज्यैष्ठ्यं शुश्रूषां कुर्यात् । एकस्मिन् दिने यद्येका कृत्स्नं कर्तुमशक्ता तदा सर्वास्तत् कर्म यथाज्ञानं विभज्य कुर्युः ।  
 
@@ -141,7 +141,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 बोधायनस्तु उद्धरणानन्तरमेवोपवेशनमाह --
 
@@ -195,7 +195,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 पत्न्यास्तु -
 
@@ -239,7 +239,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा चाश्वलायनः -
 
@@ -306,7 +306,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च व्यासः -
 
@@ -353,7 +353,7 @@ title = "०६ अग्नि-होत्रम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च विज्ञानेश्वरः -
 

@@ -33,7 +33,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ननु अत्र स्त्रीणां भर्त्रा सहगमनं धर्म्यमित्युक्तमसङ्गतम् आत्महत्यारूपत्वेन निषिद्धत्वात् ॥
 
@@ -63,7 +63,7 @@ title = "०३ सह-गमन-विधिः"
 अव्विदमानदाल्, ऎव्विदम् 'ऎन्द प्राणियैयुम् हिम्सिक्कक् कूडादु' ऎण्ड्र सामान्य वसनत्तिऱ्‌कु, 'अक्नीषोमीयमान पसुवै आलबनम् सॆय्यवेण्डुम्' ऎण्ड्र विशेषश्रुतियाल् पादमो, इव्विदम्, अनुमाणवसनङ्गळाल्, सामान्यमान आत्महत्यानिषेदवसनत्तिऱ्‌कुप् पादम्.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 महाफलत्वादपि भर्त्रनुमरणं स्त्रीणां श्लाघ्यम् । तथा च व्यासः, स्त्रीणामनुगमनविषये
 
@@ -100,7 +100,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 पराशरोऽपि -
 
@@ -139,7 +139,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 इदं चानुमरणं पतिव्रतया अनुष्ठितं सदुक्तरीत्या उभयोः श्रेयोहेतुः, पापीयस्या अनुष्ठितं चेत् पापक्षयहेतुः । तथा च सङ्ग्रहे ॥
 
@@ -167,7 +167,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 कलियुगे तु – 
 
@@ -199,7 +199,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 एवं भगवता रामेणापि कैकेय्याः प्रतिकूलाचरणस्य प्रायश्चित्तं नास्तीत्यभिप्रेत्यैव,
 
@@ -228,7 +228,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 एवं केकयराजेन स्वस्त्रियं प्रति - 
 
@@ -276,7 +276,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भारतेऽपि-
 
@@ -309,7 +309,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ननु ! इदमनुगमनं क्षत्रियाण्यादीनां भवतु । ब्राह्मण्यास्तु निषिद्धम् । तथा च पैठीनसिः -
 
@@ -367,7 +367,7 @@ title = "०३ सह-गमन-विधिः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च उशना -
 

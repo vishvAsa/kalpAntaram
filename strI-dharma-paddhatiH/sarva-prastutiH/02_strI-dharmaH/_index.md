@@ -20,7 +20,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वनपर्वणि द्रौपद्याः परीवेषणमुक्तं -
 
@@ -75,7 +75,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 परिवेषणसमये अन्नादिकं हस्तेन न परिवेषणीयम् ॥
 
@@ -128,7 +128,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तच्च परिवेषणं दर्व्यादिना कर्तव्यम् ।  
 
@@ -176,7 +176,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 परिवेषणसमये एकपङ्क्त्युपविष्टानां स्नेहादिना विषमपरिवेषणं न कर्तव्यम् । तथा च वसिष्ठः - 
 
@@ -225,7 +225,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भर्तुर्भोजनानन्तरमेव स्त्रिया भोजनमाह व्यासः 
 
@@ -273,7 +273,7 @@ title = "+०२ स्त्री-धर्मः"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्त्रिया भर्तारं विहाय मृष्टमन्नं न भोक्तव्यम् । तथा च स्कान्दे
 
@@ -315,7 +315,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तदनन्तरकृत्यमाहापस्तम्बः -
 
@@ -356,7 +356,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
  
 रात्रौ कर्तव्यवैश्वदेवातिथिपूजनाद्युपयोगितया गृहसम्मार्जनभाण्डप्रक्षाळनसामग्रीसम्पादनादिकं सन्ध्याकालात् पूर्वमेव कर्तव्यम् । व्रीह्यवहननं तु सन्ध्याकाले न कर्तव्यम् ॥
 
@@ -397,7 +397,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ततो गुरुनमस्कारातिथ्यादिकं दिवावत्कर्तव्यमित्युक्तं स्मृतिरत्ने – 
 
@@ -450,7 +450,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ततो भोजनमाह शाण्डिल्यः -
 
@@ -492,7 +492,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 बोधायनपरिभाषायाम् –
 
@@ -532,7 +532,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ननु स्वभावतो दुष्टानां स्त्रीणां निरूपितधर्मश्रवणे च कथं प्रवृत्तिः? स्त्रीणां स्वाभाविका दोषाश्च बहुलमवगम्यन्ते ॥
 
@@ -573,7 +573,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 रामायणेऽपि -
 
@@ -612,7 +612,7 @@ title = "+०२ स्त्री-धर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 एवं दोषबाहुल्यश्रवणात् कथं धर्मे प्रवृत्तिरीति चेदुच्यते -
 

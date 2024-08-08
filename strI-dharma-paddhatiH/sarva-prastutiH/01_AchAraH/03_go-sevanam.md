@@ -3,7 +3,7 @@ title = "०३ गो-सेवनम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अथ गोसेवनम्
 

@@ -3,7 +3,7 @@ title = "०१ आह्निकम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तत्र स्त्रीणामाह्निकं निरूप्यते ॥
 
@@ -46,7 +46,7 @@ title = "०१ आह्निकम्"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 प्रबोधानन्तरं दर्शनीयान्यदर्शनीयानि च दर्शयति कात्यायनः ॥
 
@@ -69,7 +69,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अपररात्रे धान्यसंस्कारादि कर्तव्यम् । तथा च मार्कण्डेयपुराणे -
 
@@ -103,7 +103,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 गोमयस्य प्राशस्त्यमानुशासनिके -
 
@@ -194,7 +194,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा चानुशासनिके शाण्डिलिं प्रति सुमनाः -
 
@@ -236,7 +236,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 'रात्रौ मूत्रपुरीषे तु गृहाभ्याशे समाचरे'दिति स्मरणात् ॥
 
@@ -286,7 +286,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथाच गौतमः -
 
@@ -336,7 +336,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मृत्सङ्ख्यामाह - शातातपः -
 
@@ -382,7 +382,7 @@ title = "०१ आह्निकम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 शौचानन्तरमाचमनमाह - देवलः ॥
 

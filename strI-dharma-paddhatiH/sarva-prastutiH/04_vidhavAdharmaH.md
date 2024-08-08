@@ -44,7 +44,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आश्वलायनः -
 
@@ -78,7 +78,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 इदं पुत्राभावे ॥
 
@@ -125,7 +125,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 समुद्रे भर्तृपुत्रादिरहितया स्त्रिया स्नानं न कर्तव्यम् । अपि तु भर्त्रादीनामन्यतमेन सहैव स्नातव्यमित्युक्तम् ॥
 
@@ -150,7 +150,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वर्ज्यान्याहापस्तम्बः - 
 
@@ -191,7 +191,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भर्त्रनन्तरं पुत्रभ्रात्रादीन् परित्यज्य स्वातन्त्र्येणावस्थाने निन्दाऽपि ॥
 
@@ -228,7 +228,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत्र परपुरुषसङ्गः पापाधायकत्वात् न कर्तव्य इत्युक्तम् । तदनुपपन्नम् । भोगार्थं परपुरुषसङ्गस्य निन्दितत्वेऽपि पुत्रार्थं तस्य आवश्यकत्वात् । 'नापुत्रस्य हि लोकोऽस्ती'ति श्रुत्या,
 
@@ -247,7 +247,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 औरसानन्तरं क्षेत्रजस्य पिण्डदाने अंशग्रहणे चाधिकारं वदन् तस्य प्राबल्यमाह याज्ञवल्क्यः -
 
@@ -277,7 +277,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत एव स्त्रीभिः क्षेत्रजाः पुत्राः सम्पादिता इति प्रतिपादितम्, आदिपर्वणि -
 
@@ -312,7 +312,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च तच्छेषे बोधायनः -
 
@@ -358,7 +358,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 व्यासः -
 
@@ -389,7 +389,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च व्यासः -
 
@@ -435,7 +435,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्त्रीणां प्रायश्चित्ते कर्मणि वपनप्रसक्तौ विशेषमाह -
 
@@ -459,7 +459,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 पूर्वोक्तेषु व्रताङ्गेषु कानिचिदङ्गानि स्त्रीणामपवदति -
 
@@ -502,7 +502,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वपनादिवत् त्रिसन्ध्यस्नानादीनामपि निवृत्तिप्रसङ्ग आह — 
 
@@ -560,7 +560,7 @@ title = "०४ विधवाधर्मः"
 > </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 पतिशुश्रूषणन्तु प्राणानामविगणनया कर्तव्यत्वात्, भर्तृकृतात्मविक्रयस्य अङ्गीकर्तव्यत्वात्, इतरधर्मोपमर्देन च कर्तव्यत्वात् मुख्यो धर्मः ॥
 
@@ -606,7 +606,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथाहि युधिष्ठिरः -
 
@@ -660,7 +660,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 उशना -
 
@@ -743,7 +743,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्मः -
 
@@ -809,7 +809,7 @@ title = "०४ विधवाधर्मः"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 कपोत्युवाच – 
 
@@ -856,7 +856,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्म उवाच -
 
@@ -942,7 +942,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 श्रीभीष्मः -
 
@@ -990,7 +990,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्मः – 
 
@@ -1056,7 +1056,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्मः-
 
@@ -1130,7 +1130,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भर्तृकृतात्मविक्रयाङ्गीकारो मार्कण्डेयपुराणे हरिश्चन्द्रोपाख्याने ।  
 हरिश्चन्द्रः -
@@ -1160,7 +1160,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 राजभार्योवाच -
 
@@ -1186,7 +1186,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मण उवाच -
 
@@ -1230,7 +1230,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -1294,7 +1294,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मण उवाच – 
 
@@ -1330,7 +1330,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मण उवाच - 
 
@@ -1353,7 +1353,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्त्री उवाच -
 
@@ -1437,7 +1437,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मण उवाच -
 
@@ -1490,7 +1490,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 व्यासः - 
 
@@ -1512,7 +1512,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 रामायणे अयोद्ध्याकाण्डे - 
 
@@ -1569,7 +1569,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत्रिः -
 
@@ -1618,7 +1618,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मनुः - 
 
@@ -1653,7 +1653,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 पतिशुश्रूषणपराया भार्याया उत्तमगतिमुक्त्वा तत् परित्यज्य व्रतादिपरायाः स्त्रियाः तदभावं ज्ञापयितुं इदमुदाहृतं महाभारते -
 
@@ -1707,7 +1707,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आदित्यपुराणे -
 
@@ -1744,7 +1744,7 @@ title = "०४ विधवाधर्मः"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मनुः-
 
@@ -1783,7 +1783,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च आदिपर्वणि कुन्तीं प्रति पाण्डुः -
 
@@ -1892,7 +1892,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च भर्त्रनुज्ञया अकार्यकरणेऽपि न दोषः । किमुत,
 तासां व्रतादिधर्मान्तराचरणे । पत्यनुज्ञया अकार्यकरणे न केवलं
@@ -1919,7 +1919,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्म उवाच -
 
@@ -2159,7 +2159,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भीष्म उवाच -
 
@@ -2207,7 +2207,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 'तदाज्ञया तु कर्तव्यमकार्यमपि नेच्छया' इत्येवमादिषु वचनेषु आज्ञाप्राधान्यस्यावगमात् कार्यमकार्यं वा तदाज्ञयैव कर्तव्यमित्येव तात्पर्यम् ॥
 
@@ -2234,7 +2234,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तत्प्रीतिसम्पादनं मुख्यो धर्मः । तदपि तत्रैव -
 
@@ -2263,7 +2263,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत एव सुदर्शनोपाख्याने पत्युराज्ञाकरणमुपक्रम्य तदेव 'तव शुश्रूषया राजन् राजपुत्र्या विनिर्जितः' इत्यादिना शुश्रूषात्वेन व्यवहृतमिति । अत एव च शिष्याणामाचार्याज्ञाकरणं तच्छरीरशुश्रूषणम् उभयमपि शुश्रूषैवेति कृत्वा आचार्यशुश्रूषाभिक्षाचरणमग्नीन्धनमिति त्रयाणामेव पृथग्ग्रहणं कृतम् । न त्वाज्ञायाः ।  
 ननु एवम् आज्ञाकरणस्यापि शुश्रूषान्तर्भावे तस्य पृथग्ग्रहणं किमर्थमिति चेदुच्यते ॥
@@ -2280,7 +2280,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 > इमं धर्मपथं या हि पालयत्यखिलं सदा ।  
 अरुन्धतीव नारीणां स्वर्गलोके महीयते ॥
@@ -2325,7 +2325,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -2360,7 +2360,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -2386,7 +2386,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अग्निरुवाच -
 
@@ -2414,7 +2414,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः - 
 
@@ -2456,7 +2456,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अत्र स्वपतिप्रीणनाय इतरर्षिपत्नीवेषं गृहीतवती अग्निपत्नी स्वाहादेवी अरुन्धत्याः पातिव्रत्यतेजोविशेषेण तद्रूपग्रहणे समर्था नासीदिति प्रतिपादनेन सर्वपतिव्रताभ्यः अरुन्धती श्रेष्ठेति प्रतिपादितम् ॥
 
@@ -2476,7 +2476,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च सावित्र्युपाख्यानम् ।  
 
@@ -2498,7 +2498,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -2538,7 +2538,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच - 
 
@@ -2566,7 +2566,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -2589,7 +2589,7 @@ title = "०४ विधवाधर्मः"
 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 नारद उवाच-
 
@@ -2624,7 +2624,7 @@ title = "०४ विधवाधर्मः"
 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच -
 
@@ -2662,7 +2662,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 राजोवाच - 
 
@@ -2742,7 +2742,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -2787,7 +2787,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 नारद उवाच - 
 
@@ -2863,7 +2863,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अश्वपतिरुवाच -
 
@@ -2905,7 +2905,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच -
 
@@ -2944,7 +2944,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 राजोवाच -
 
@@ -2985,7 +2985,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -3023,7 +3023,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 द्युमत्सेन उवाच -
 
@@ -3061,7 +3061,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 द्युमत्सेन उवाच-
 
@@ -3081,7 +3081,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -3128,7 +3128,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -3176,7 +3176,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 द्युमत्सेन उवाच -
 
@@ -3222,7 +3222,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 श्वश्रूश्वशुरावूचतुः -
 
@@ -3262,7 +3262,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -3299,7 +3299,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -3338,7 +3338,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -3372,7 +3372,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -3428,7 +3428,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच -
 
@@ -3458,7 +3458,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच -
 
@@ -3494,7 +3494,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -3520,7 +3520,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच -
 
@@ -3585,7 +3585,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच -
 
@@ -3619,7 +3619,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच - 
 
@@ -3673,7 +3673,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच -
 
@@ -3729,7 +3729,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच -
 
@@ -3789,7 +3789,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 यम उवाच -
 
@@ -3823,7 +3823,7 @@ title = "०४ विधवाधर्मः"
 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -3862,7 +3862,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -3889,7 +3889,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -3928,7 +3928,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -3975,7 +3975,7 @@ title = "०४ विधवाधर्मः"
 
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -4014,7 +4014,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -4081,7 +4081,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच -
 
@@ -4114,7 +4114,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -4158,7 +4158,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सत्यवानुवाच -
 
@@ -4190,7 +4190,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेय उवाच - 
 
@@ -4233,7 +4233,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सुवर्चा उवाच -
 
@@ -4268,7 +4268,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 शिष्य उवाच -
 
@@ -4306,7 +4306,7 @@ title = "०४ विधवाधर्मः"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 दाल्भ्य उवाच -
 
@@ -4354,7 +4354,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ब्राह्मणा ऊचुः -
 
@@ -4393,7 +4393,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ऋषय ऊचुः -
 
@@ -4430,7 +4430,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 गौतम उवाच -
 
@@ -4456,7 +4456,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 सावित्र्युवाच – 
 
@@ -4497,7 +4497,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ऋषय ऊचुः -
 
@@ -4529,7 +4529,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मार्कण्डेयः -
 
@@ -4590,7 +4590,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वैशम्पायन उवाच -
 
@@ -4614,7 +4614,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 एवं शौचाचारैरग्निशुश्रूषया अतिथिपूजनेन गृहकृत्यविचारणेन आयव्ययकुटुम्बसंरक्षणविचारेण भर्तुः शरीरशुश्रूषया भर्तुराश्रितादीनां च अन्नदानेन स्वयं तत्प्रसादग्रहणेन रात्रौ रत्यादिना स्वनिषिद्धानां भर्तुरप्रियस्य च वर्जनेन विहितानां भर्तुः यत् प्रियं तस्य चानुष्ठानेन प्रतिकर्मणा भर्तुः श्रमापनोदनेन तत्तत्काले प्राप्तानां शरीरधर्माणां यथाविद्ध्यनुष्ठानेन भर्त्रनुगमनेन भर्तुरनन्तरं यावज्जीवब्रह्मचर्यादिनियमपरिपालनेन पतिशुश्रूषया तद्वचनकरणेन च पतिः सन्तोषणीयः । एवं सन्तोषणमेव पतिशुश्रूषणमित्युच्यते ॥
 
@@ -4651,7 +4651,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आग्नेयपुराणे -
 
@@ -4683,7 +4683,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्कान्दे – 
 
@@ -4718,7 +4718,7 @@ title = "०४ विधवाधर्मः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 इत्थं त्रयम्बक्रयज्वना स्मृतिपुराणोक्तीर्विलोड्याखिलाः  
 धर्माः स्त्रीविषयाः पुनः कतिपये तत्तद्व्यवस्थान्विताः ।  

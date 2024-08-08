@@ -3,7 +3,7 @@ title = "०२ दन्त-धावनम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अथ दन्तधावनम्
 
@@ -43,7 +43,7 @@ title = "०२ दन्त-धावनम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अनेन वचनेन उपवासे पुरुषाणामिव दन्तधावननिषेधे प्राप्ते
 स्त्रीणां विशेषमाह – मनुः ॥

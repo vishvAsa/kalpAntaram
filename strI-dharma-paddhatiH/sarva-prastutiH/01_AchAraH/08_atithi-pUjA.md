@@ -25,7 +25,7 @@ title = "०८ अतिथि-पूजा"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अतिथिपूजनस्य आवश्यकत्वं कठवल्यामपि-
 
@@ -50,7 +50,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ततो मृत्युः -
 
@@ -95,7 +95,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आपस्तम्बोदाहृतब्राह्मणमपि -
 
@@ -110,7 +110,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 मनुरपि 
 
@@ -137,7 +137,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आश्वमेधिकेऽपि — 
 
@@ -181,7 +181,7 @@ title = "०८ अतिथि-पूजा"
 > पूजिक्कप्पट्ट अदिदि, मनदाल् ऎन्दच् चुबत्तै त्यानिक्किण्ड्रानो अदु नूऱु यक्ञत्तिऱ्‌कुम् सममागादु ऎण्ड्रु वित्वान्गळ् कूऱुवर्.
 </details>
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 आरण्यके पर्वणि तार्क्ष्यसरस्वतीसंवादे - 
 
@@ -237,7 +237,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वनपर्वणि जयद्रथं प्रति द्रौपद्यपि -
 
@@ -271,7 +271,7 @@ title = "०८ अतिथि-पूजा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वैश्वदेवानन्तरम् अतिथिवत् अभ्यागतादीनाम् अन्नदानादिना पूजा कर्तव्या ॥
 

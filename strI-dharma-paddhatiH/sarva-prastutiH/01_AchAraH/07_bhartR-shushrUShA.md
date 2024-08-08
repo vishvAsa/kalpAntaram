@@ -56,7 +56,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 कलिव्यतिरिक्तयुगादौ वर्णान्तरविवाहे सत्यपि ब्राह्मणस्य ब्राह्मण्यैव कर्तव्यम् । तदपि तत्रैव - 
 
@@ -111,7 +111,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भर्तृविनियुक्तया अर्थसङ्ग्रहणादिकं कर्तव्यम् ।    
 
@@ -144,7 +144,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च रामायणे -
 
@@ -195,7 +195,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 गृहकृत्यार्थं दत्तेन द्रव्येण पत्नी यथा कथञ्चिद्गृहकृत्यं निर्वर्त्य किञ्चिदवशेषयेत् । धर्मार्थं दत्तं तु द्रव्यं लोभेन नावशेषयेत् ॥
 
@@ -220,7 +220,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 भर्त्रा क्रियमाणदेवपूजायां तदुपयुक्तमुपकरणादिकं अनुक्त्या [[क्त्वा??]] स्वम[[य??]]मेव सर्वं साधनीयम् ॥
 
@@ -274,7 +274,7 @@ title = "०७ भर्तृ-शुश्रूषा"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 वैश्वदेवसमये पत्न्याऽपि सन्निहितया भवितव्यम् ॥
 

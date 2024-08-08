@@ -3,7 +3,7 @@ title = "०५ वस्त्र-धारणम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 ततो वस्त्रधारणम्
 
@@ -61,7 +61,7 @@ title = "०५ वस्त्र-धारणम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तासां तिलकधारणमाह - मार्कण्डेयः - 
 
@@ -96,7 +96,7 @@ title = "०५ वस्त्र-धारणम्"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 तथा च वसिष्ठसंहितायाम् - 
 

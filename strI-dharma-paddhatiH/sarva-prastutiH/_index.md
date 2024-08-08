@@ -12,7 +12,7 @@ History - by our suggestion, smt shylaja corrected an initial version at [ambuda
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 श्रीः ॥
 
@@ -42,7 +42,7 @@ History - by our suggestion, smt shylaja corrected an initial version at [ambuda
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 > येषामाचरणेन कीर्तिरतुला भूयस्सुखं चैहिकं  
 नारीणां गतिरुत्तमा च भवति ज्ञातुं पुनः कृत्स्नशः ।  

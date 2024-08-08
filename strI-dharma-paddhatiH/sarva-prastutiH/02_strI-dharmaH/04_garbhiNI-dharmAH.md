@@ -43,7 +43,7 @@ title = "०४ गर्भिणी-धर्माः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 स्थलान्तरे तत्रैव - 
 
@@ -82,7 +82,7 @@ title = "०४ गर्भिणी-धर्माः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 निर्णयसिन्धौ वराहः -
 
@@ -121,7 +121,7 @@ title = "०४ गर्भिणी-धर्माः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 गर्भभरालसायाः स्वभावतः इतराभरणपरित्यागेऽपि इमान्याभरणान्यपरित्याज्यान्याह मदनरत्ने स्कान्दे –
 
@@ -154,7 +154,7 @@ title = "०४ गर्भिणी-धर्माः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 दोहदप्रधानं याज्ञवल्क्ये -
 
@@ -193,7 +193,7 @@ title = "०४ गर्भिणी-धर्माः"
 </details>
 
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 गर्गः – 
 

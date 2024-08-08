@@ -3,7 +3,7 @@ title = "०४ स्नानम्"
 
 +++
 
-<details open><summary>मूलम्</summary>
+<details><summary>मूलम्</summary>
 
 अथ स्नानम् – तत्र विष्णुः ॥
 
