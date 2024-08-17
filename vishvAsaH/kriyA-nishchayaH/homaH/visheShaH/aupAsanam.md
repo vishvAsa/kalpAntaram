@@ -56,7 +56,7 @@ The below is copied from other sources - does not necessarily reflect a particul
 #### yajamAna-substitute
 - If  patni is not travelling, she can continue to the aupasanam till you return back, but that should not be beyond one sthalipaaka kalam. Including gauna kaalam it comes to a month.  If one round of sthalipaaka (purnamasa and darsha) is missed the agni becomes laukika. Another view is that the wife can do aupasana only for 5 kaalams in the absence of husband.
 - A vadhyar or one's son who has had upanayanam etc can also maintain the agni - subject to the patni being at home.
-- More in baudhAyana-brahma-karma-samuchchaya.
+- More in baudhAyana-brahma-karma-samuchchaya [here](/vedAH_yajuH/taittirIyam/sUtram/baudhAyanaH/brahma-karma-samuchchayaH/2_saMskArakANDam/53_aupAsanopayogiviShayAH).
 
 #### Maintenance without homa
 - If patni is just maintaining the Agni, then she should just remove the ash, put new viratti, thavidu etc and keep back the Agni.  For Agni rakshanam there is no need to offer two handfuls of taNDulam.
