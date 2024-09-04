@@ -19,12 +19,26 @@ They reported it to the Santa Clara county health division. Became a big deal. I
 
 But based on experience the office told me that most likely it is the srichurnam. They found lead in multiple Indian family homes in the kumkum.
 
-I got myself and my wife tested. I came positive (still below the threshold to open a case) while she came negative. 
+I got myself and my wife tested (Mine was 4 or 5 mcg/dL. Wife's was 2 mcg/dL.). I came positive (still below the threshold to open a case) while she came negative. 
+
+We were advised to saturate the blood with good stuff like iron from spinach. This forces the lead to stay in the bones and not leach back into the blood (atleast not as fast).
 
 ## DIY shrIchUrNam
 I decided to make my own srichurnam. In 6 months, my son's numbers got better.
 
 {{< figure src="/kalpAntaram/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/images/vijay-son-lead-levels_2016.jpg" title="" class="thumbnail">}}
+
+Data (date, mg/dL)
+
+- 2016-09-01 12.3
+- 2016-10-13 9.8
+- 2017-02-02 8
+- 2017-05-16 7
+- 2017-07-15 6
+- 2017-11-16 3
+- 2018-08-03 4
+- 2019-06-10 3
+
 
 ## Alerts
 If it is bright yellow it is suspect.
