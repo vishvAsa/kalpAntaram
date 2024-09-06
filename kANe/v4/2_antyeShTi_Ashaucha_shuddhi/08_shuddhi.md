@@ -261,7 +261,7 @@ These rules apply if the son adopted is not a sapiṇḍa or samānodaka of the 
 - On the death of a teacher who imparted instruction in grammar, astronomy and other _aṅgas_ (subsidiary lores) of the Veda, the āśauca is one day.
 - Similar rules are laid down about the death of a pupil, _ṛtvik_ (sacrificial priest), a sacrificer, a dependent śrotriya, a fellow-student, a friend, which are all passed over as not now useful. Vide Gaut, 14. 19-20 (which prescribe one day's āśauca on the death of a fellow-student or a dependent śrotriya).
 
-These provisions about āśauca on the death of the ācārya and ștvik who were not sapiṇḍas show how closely the bond between teacher and pupil was thought to be in ancient times, almost equalling the tie of blood. 
+These provisions about āśauca on the death of the ācārya and r̥tvik who were not sapiṇḍas show how closely the bond between teacher and pupil was thought to be in ancient times, almost equalling the tie of blood. 
 
 - When a _yati_ (ascetic) dies,[^630] all his sapiṇḍas have simply to undergo a bath (and nothing more). 
 - Conversely, a yati and brahmacārin have to observe no āśauca. Manu V. 82, Yāj. III. 25, Viṣṇu 22.45. 
@@ -278,7 +278,7 @@ These provisions about āśauca on the death of the ācārya and ștvik who were
 - As long as a corpse is not removed from the village in which a man dies, the whole village is in āśauca. Ā.p. Dh. S. 1. 3. 9. 14 declares that there is no Veda study till a corpse lies in the village. 
 - The Smṛti-muktāphala (p. 541) quotes[^632] several smṛtis to the effect that in a village in which a corpse lies unremoved, there is to be no eating, no Vedic study and no sacrifice, but that this does not apply where in a village there are more than four hundred brāhmaṇas. The Dharmasindhu (p. 433) also says the same about a village, but adds that this rule does not apply to a town.
 
-- The ideas of ritualistic purity went so far as to provide (as stated in the Śuddhitattva quoted by the Nirṇayasindhu) that if a dog died in a brāhmaṇa's house the house became impure for ten days, that, if a śūdra[^633], a _patita_ or a _mleccha_ died in a brāhmaṇa's house, the house became impure for a month, two months or four months respectively and the house had to be abandoned if a _śvapāka_ died therein.
+- The ideas of ritualistic purity went so far as to provide (as stated in the Śuddhitattva quoted by the Nirṇayasindhu) that if a dog died in a brāhmaṇa's house the house became impure for ten days, that, if a śūdra[^633], a _patita_ or a _mleccha_ died in a brāhmaṇa's house, the house became impure for a month, two months or four months respectively and the house had to be abandoned if a _śvapāka_ died therein.+++(5)+++
 
 [^632]: स्मृत्यन्तरे। ग्रामस्थे शवचण्डाले शूद्राद्यशुचिसंनिधौ ॥ नाध्येतव्यं न भोक्तव्यं न होतव्यं कदाचन॥ इति।...स्मृत्यन्तरे विशेषो दर्शितः । चतु:शताधिकैविप्रैः सम्पूर्णे ग्राममध्यके। विशेषं संप्रवक्ष्यामि जपहोमार्चनं प्रति। अन्तःशवस्य दोषस्तु नास्ति तत्र समाचरेत् । स्मृतिमु. (आशौच) p. 541.
 
@@ -373,7 +373,7 @@ If a brāhmaṇa who is not a sapiṇḍa of the deceased went to the bereaved f
 Persons[^650] undergoing an āśauca on birth or death for one person were forbidden to touch other persons undergoing aśauca for the birth or death of another person altogether. If they did so they had to perform prāyaścitta (Prājāpatya or Sāntapana).
 
 #### Illicit relationship
-Even if a person's wife left him and lived in illicit relationship with a person of the same or higher caste he had to observe on her death āśauca for one day. But if she lived with one lower in varṇa than her husband, the latter had not, on her death, to observe any āśauca at all (Yāj. III,6 ). Similarly. one had to observe one day's āśauca on the death of sons that were not _aurasa_ (such as kṣetraja). Vide Yāj. III.25 and Viṣṇu 22.42-43.
+Even if a person's wife left him and lived in illicit relationship with a person of the same or higher caste he had to observe on her death āśauca for one day. But if she lived with one lower in varṇa than her husband, the latter had not, on her death, to observe any āśauca at all (Yāj. III,6 ). Similarly, one had to observe one day's āśauca on the death of sons that were not _aurasa_ (such as kṣetraja). Vide Yāj. III.25 and Viṣṇu 22.42-43.
 
 [^649]: एकाहात्क्षत्रिये शुद्धिर्वैश्ये च स्याद् द्वयहेन तु । शूद्रे दिनत्रयं प्रोक्तं प्राणायामशतं पुनः ॥ कूर्मपुराण (उत्तरार्ध 23.45) q, in शुद्धितत्त्व p. 293, शुद्धिप्र. p. 63.
 
@@ -494,7 +494,7 @@ The Kūrmapurāṇa[^669] provides
 
 Similar rules are given by Atri 97-98, Linga-purāṇa, pūrvabhāga, chap. 89.77. The Mit. on Yāj. III, 28 remarks that in the case of the three āśramas of _brahmacārin_, _vānaprastha_ and _yati_ there is freedom from impurity in all cases and at all times; ascetics and brahmacārins have to undergo a bath with clothes on the death of their father or mother (Dharmasindhu p. 442); in the case of several others such as those who are continually making gifts or are observing vratas there is freedom from impurity only when they are engaged in those particular actions and not when they are engaged in any action whatever or when they mix up among others for everyday work[^670]. 
 
-Similar rules occur in Parāśara III, 21-22. It has already been stated following Manu V. 91 ( = Viṣṇu 22.86 ) that a brahmacārin was not to perform the last rites (of carrying the corpse, crenation) for anybody except for five persons (viz. his parents, upadhyāya, ācārya and guru). He did not incur āśauca by performing the funeral rites of his parents and offering water and piṇḍa to them. But if he did so for any one other than the five mentioned by Manu he had to observe āśauca for ten days, and to undergo prāyaścitta and had his _upanayana_ performed again. 
+Similar rules occur in Parāśara III, 21-22. It has already been stated following Manu V. 91 ( = Viṣṇu 22.86 ) that a brahmacārin was not to perform the last rites (of carrying the corpse, cremation) for anybody except for five persons (viz. his parents, upadhyāya, ācārya and guru). He did not incur āśauca by performing the funeral rites of his parents and offering water and piṇḍa to them. But if he did so for any one other than the five mentioned by Manu he had to observe āśauca for ten days, and to undergo prāyaścitta and had his _upanayana_ performed again. 
 
 A brahmacārin had to observe after _samāvartana_ (returning from the Vedic teacher) āśauca for three days for all relatives that died during the period of his studenthood (Manu V. 88, Viṣṇu Dh. S. 22.87). 
 
