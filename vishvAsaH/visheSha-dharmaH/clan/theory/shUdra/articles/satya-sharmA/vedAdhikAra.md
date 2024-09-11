@@ -49,11 +49,24 @@ Ref: Brahmasūtraśāṅkarabhāṣya, 1.3.34, with commentaries of Vācaspatimi
 > - न्यायनिर्णयः
 
 ## वेद-शब्दः
-The well known daṇḍa (punishment) for a Śūdra who learns Veda, mentioned in Gautama Dharmasūtra is instead taken to be a prāyaścitta as per Govindānanda and Ānandagiri in their sub-commentaries on Brahmasūtraśāṅkarabhāṣya (1.3.38). 
+### prāyaścitta
+The well known daṇḍa (punishment) for a Śūdra who learns Veda, mentioned in Gautama Dharmasūtra is instead taken to be a prāyaścitta as per Govindānanda and Ānandagiri in their sub-commentaries on Brahmasūtraśāṅkarabhāṣya (1.3.38). Traditional scholars who take this so-called punishment to be a prāyaścitta : Ānandagiri, Rāghavānanda, Advaitānanda, Rāmakiṅkara and Śrīdeva. For them it only tells that traditional Vedādhyayana is bad for Śūdras. 
+
+### daṇḍa
+Even when Medhātithi (commentator of Manusmṛti) takes it to be daṇḍa or punishment, he only infers from its intensity that traditional Vedādhyayana shouldn't be done by a Śūdra or else he and other Brahmacārī-s would incur fault.
+
+Sources :
+Ānandagiri (on Ādi Śaṅkarācārya's comm. on Brahmasūtra 1.3.38), 
+Rāghavānanda (on Manusmṛti 1.91), 
+Advaitānanda (Brahmavidyābharaṇa 1.3.38), Rāmakiṅkara (Brahmāmṛtavarṣiṇī 1.3.38), 
+Śrīdeva (Kātīyaśrautasūtra 1.1.6).
 
 Nandapaṇḍita says that it's about hearing Veda directly via 'darpa'. If one keeps a Brāhmaṇa in the middle, there's no fault. He also seems to extend this beyond Śūdras.
 
 Ref: Commentary on Viṣṇusmṛti, 5.23-25
+
+### "Sin" information
+Haradatta Miśra tells that someone who is intent on actions like killing a Brāhmaṇa, due to love, hatred, etc., cannot be stopped. Hence prohibitive statement, in the manner 'if this action is committed, may it not cause sin', alone reveals that such actions cause sin. This statement in the beginning of Miśra's commentary on the Gautama Dharma Sūtra (1.1.1), gives a direction about how to understand the various statements of GDS itself. Generally, prohibitive statements reveal that the action being prohibited, if committed, will cause sin. This line of thought could be the reason that many traditional scholars didn't take the so-called 'punishment' of a Śūdra trying to learn, memorise and recite Vedas, in a literal sense. For them it was only a statement of those actions leading to sin.
 
 
 ## वेदार्थः
