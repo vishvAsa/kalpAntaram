@@ -6,31 +6,103 @@ unicode_script: devanagari
 
 ## परिस्थितिः
 
-ज्ञात्वाऽपि सुष्ठु दोषगाम्भीर्यं ये पिबन्ति वै सुराम्, ते विरला एव।
+गरुडपुराणे –
 
-किञ्च कलौ युगे प्रायेण धर्मशास्त्रेषु प्रधानभूतेष्व् अपि लोकानाम् अज्ञानम् महत्। ब्रह्मचर्ये च गुरवः प्रमादकराः। एवं बहवस् सुरापानदोषेणालिप्ताः। तेषाम् प्रामाणिकानाम् सन्मार्गम् प्रत्यानीतानाम् प्रायेण लघुतराणि स्युः प्रायश्चित्तानि –
+> देशं कालं वयः शक्तिं  
+> पापं चावेक्ष्य यत्नतः ॥ १,१०५.४७ ॥  
+> प्रायश्चितं प्रकल्प्यं स्याद्  
+> यत्र योक्ता तु निष्कृतिः ।
 
-- गरुडपुराणे –
-    - देशं कालं वयः शक्तिं पापं चावेक्ष्य यत्नतः ॥ १,१०५.४७ ॥ प्रायश्चितं प्रकल्प्यं स्याद्यत्र योक्ता तु निष्कृतिः ।
+> बलाद् दत्तं बलाद् भुक्तं  
+बलाद् यच् चाऽपि लेखितम् ।  
+सर्वान् बल-कृतान् अर्थान्  
+**अकृतान्** मनुर् **अब्रवीत्**  ॥ ८.१६८ ॥
+
+इति मनुः।
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Purī Śaṅkarācārya ji narrates an incident where Śrī Karapātrī Svāmī met Bengali Brahmins who had been forced to eat beef, etc. He quoted the following verse & told them that they weren't polluted.
+
+> बलाद् दत्तं बलाद् भुक्तं... (मनुस्मृति ८.१६८)
+
+Prāyaścitta of shaving the head, bathing in Gaṅgā and chanting of Rāma-nāma was given to them only to free them from guilt.
+</details>
+
+
+कलौ युगे प्रायेण धर्मशास्त्रेषु प्रधानभूतेष्व् अपि लोकानाम् अज्ञानम् महत्।  
+यथा - ज्ञात्वाऽपि सुष्ठु दोषगाम्भीर्यं ये ब्रह्मबन्धवः पिबन्ति वै सुराम्, ते विरला एव।  
+ब्रह्मचर्ये च गुरवः प्रमादकराः।  
+एवं बहवस् सुरापानदोषेणालिप्ताः।  
+तेषाम् प्रामाणिकानाम् सन्मार्गम् प्रत्यानीतानाम् प्रायेण लघुतराणि स्युः प्रायश्चित्तानि –
+
+
 
 ## सन्तापापेक्षा
 > Prāyaścitta purifies only those who repent their bad deeds. One who doesn't repent, won't be purified even with the puṇya received by performing Aśvamedha.
 - Vṛddhahārītasmṛti, 6.214-217
 
+## लघु-मार्गः
+### साङ्ग-शरणागतिः
+अस्ति वस्तुतः सरलम् अपि गम्भीरं प्रायश्चित्तम् - 
+आनुकूल्यस्य सङ्कल्पः प्रातिकूल्यस्यवर्जनम् । रक्षिष्यतीति विश्वासो गोप्तृत्ववरणं तथा ॥ आत्मनिक्षेपकार्पण्ये षड्विधा शरणागति॥
+इति साङ्गप्रपत्तिः
+
+#### भगवत्-स्मरणम्
+> “अपवित्रः पवित्रो वा सर्वावस्थां गतोऽपि वा।  
+यः स्मरेत् पुण्डरीकाक्षं स बाह्याभ्यन्तरः शुचिः॥”
+
+मानसिक-स्नानं यथा ऽशक्तौ युज्यते नान्यथा,  
+तथात्रापि यथोक्तप्रायश्चित्ताशक्ताव् एवैतद् भगवत्स्मरणमात्रादि।
+
+### नामसङ्कीर्तने
+स्वयं विचारयतु -  
+नित्यं कश्चन गोमांसं खादित्वा "शिव शिव" इति वदति। निष्पापो वा स भवति?
+
+नामसङ्कीर्तनस्य पापक्षयकरत्वं नात्र सन्देहास्पदम् -  
+अपि तु पापविशेष-यथापेक्ष-नाशकत्वम्।
+
+नामजपेन ये पातकपर्वता नश्यन्ति, ते न खलु स्पष्टाः।  
+नश्येरन् कानिचित् सञ्चितपापानि। 
+पुनस् तेषाम् भस्मी-भावेन शुद्ध-मना 
+पापविशेषे प्रायश्चित्तम् आचरितुं श्रद्धां लभेत,  
+ततः शुद्धतरश् च भवेत्। 
+
+> शतशो वचांसि लभ्यन्ते पुराणेषु नामजपस्मरणादीनां सर्वपापनाशकत्वख्यापकानि।
+
+शास्त्रवचनानि नाप्रमाणानि -  
+तेषां मुग्धावगतिस् तु विपर्यय एव।  
+यथा केचित् "सर्वधर्मान् परित्यज्य मामेकं शरणं व्रजे"ति श्रुत्वा स्वरूपतस् सर्वाणि कर्माणि क्षत्रियोचित-धर्मयुद्धसहितानि तत्यजुः।
+
+> यदि मया पापं कृतमिति अनुतप्तः स जातः, क्षमां याचमानः, पुनः न करिष्यामि इति च प्रतिजानानः, शिवनाममाहात्म्यं श्रुत्वा शिव शिव इति जपति, का बाधा शिवस्य शिवनाम्नो वा तत्पापविनाशे?
+
+तत्र साङ्गा प्रपत्तिश् च जपश् चेति द्वे कर्मणी।  
+प्रकृतपापक्षयकारि पूर्वम् एव।  
+उत्तरं नेति निश्चयः - पूर्वोक्तप्रसङ्गेन, अपि च पापविशेषविनाशकत्वे प्रमाणाभावात्।
 
 ## रहस्ये
 रहसि कृतञ्चेत् पापम्, तन्निष्कृतिर् लघुतरा भवति। युक्तं  तत् – संविख्यातपापानाम् दुष्प्रभावो महत्तरो ननु। यथा –
 
 - गरुडपुराणे
-    - विख्यातदोषः कुर्वीत गुरोरनुमतं व्रतम् ॥ १,१०५.४९ ॥ असंविख्यातदोषस्तु रहस्यं व्रतमाचरेत् ।
+
+> विख्यातदोषः कुर्वीत  
+गुरोरनुमतं व्रतम् ॥ १,१०५.४९ ॥  
+असंविख्यातदोषस्तु  
+रहस्यं व्रतमाचरेत् ।
 
 ### मनुस्मृतिः
 - इत्येतदेनसामुक्तं प्रायश्चित्तं यथाविधि । अत ऊर्ध्वं रहस्यानां प्रायश्चित्तं निबोधत ॥ … कौत्सं जप्त्वाऽप इत्येतद् वसिष्ठं च प्रतीत्य् ऋचम् । माहित्रं शुद्धवत्यश्च सुरापोऽपि विशुध्यति ॥ \[अनुवादो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc202156.html)\]
-    - The ‘Kautsa hymn’ is that which was revealed to, and given out by, the sage Kutsa,—the eight verses beginning with ‘Ap naḥ shoshuchadadham, etc.,’ found in the Ṛgveda ([1.97.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n629/mode/2up)).
-    - ‘The Vāsiṣṭha hymn consisting of the triad of verses beginning with “Prati.”’—The group of three verses, ‘prati’ being the opening word of the hymn.—‘Pratistomebhirupasaṃvasiṣṭhāḥ, etc.’ (Ṛgveda, [7.80.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n547/mode/1up)).
-    - ‘Māhitra hymn’—that revealed to the Mahitṛs,—this also consists of three verses, and contains the term ‘Mahitṛ’ (Ṛgveda, [10.185.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n987/mode/2up)). Some people read ‘Mahendram’ (for ‘Māhitram’); and this would mean the forty-eight verses ‘Mahān Indra ojase, etc. etc.’ (Ṛgveda, 8.8.1),—which is also called the ‘Payḥ-Sūkta.’
-    - ‘Śuddhavati verses’—‘Eto indrastavāṃśudhim śuddhena, etc.’ (Ṛgveda, [8.95.7](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n1019/mode/2up)).
-- प्रकाशं कृते पापे – सुरां पीत्वा द्विजो मोहादग्निवर्णां सुरां पिबेत् । तया स काये निर्दग्धे मुच्यते किल्बिषात् ततः ॥ गोमूत्रमग्निवर्णं वा पिबेदुदकमेव वा । पयो घृतं वाऽ मरणाद् गोशकृद्रसमेव वा ॥ ९१ ॥ कणान् वा भक्षयेदब्दं पिण्याकं वा सकृत्निशि । सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ॥ \[अनुवादो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201968.html)\]
+
+- The ‘Kautsa hymn’ is that which was revealed to, and given out by, the sage Kutsa,—the eight verses beginning with ‘Ap naḥ shoshuchadadham, etc.,’ found in the Ṛgveda ([1.97.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart1/rv_sayanabhasya_part1#page/n629/mode/2up)).
+- ‘The Vāsiṣṭha hymn consisting of the triad of verses beginning with “Prati.”’—The group of three verses, ‘prati’ being the opening word of the hymn.—‘Pratistomebhirupasaṃvasiṣṭhāḥ, etc.’ (Ṛgveda, [7.80.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n547/mode/1up)).
+- ‘Māhitra hymn’—that revealed to the Mahitṛs,—this also consists of three verses, and contains the term ‘Mahitṛ’ (Ṛgveda, [10.185.1](https://archive.org/stream/RgVedaWithSayanasCommentaryPart4/rv_sayanabhasya_part4#page/n987/mode/2up)). Some people read ‘Mahendram’ (for ‘Māhitram’); and this would mean the forty-eight verses ‘Mahān Indra ojase, etc. etc.’ (Ṛgveda, 8.8.1),—which is also called the ‘Payḥ-Sūkta.’
+- ‘Śuddhavati verses’—‘Eto indrastavāṃśudhim śuddhena, etc.’ (Ṛgveda, [8.95.7](https://archive.org/stream/RgVedaWithSayanasCommentaryPart3/rv_sayanabhasya_part3#page/n1019/mode/2up)).
+
+- प्रकाशं कृते पापे – 
+  
+> सुरां पीत्वा द्विजो मोहादग्निवर्णां सुरां पिबेत् । तया स काये निर्दग्धे मुच्यते किल्बिषात् ततः ॥ गोमूत्रमग्निवर्णं वा पिबेदुदकमेव वा । पयो घृतं वाऽ मरणाद् गोशकृद्रसमेव वा ॥ ९१ ॥ कणान् वा भक्षयेदब्दं पिण्याकं वा सकृत्निशि । सुरापानापनुत्त्यर्थं वालवासा जटी ध्वजी ॥ 
+> 
+> \[अनुवादो [ऽत्र](https://www.wisdomlib.org/hinduism/book/manusmriti-with-the-commentary-of-medhatithi/d/doc201968.html)\]
 
 
 
