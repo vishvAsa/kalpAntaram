@@ -53,6 +53,8 @@ Prāyaścitta of shaving the head, bathing in Gaṅgā and chanting of Rāma-nā
 - Vṛddhahārītasmṛti, 6.214-217
 
 ## लघु-मार्गः
+लघूपायेषु साधारण-विचारो [ऽन्यत्र](/kalpAntaram/vishvAsaH/kriyA-nishchayaH/meta-ritual/laghu-guru-bhedaH/)। 
+
 ### साङ्ग-शरणागतिः
 अस्ति वस्तुतः सरलम् अपि गम्भीरं प्रायश्चित्तम् - 
 आनुकूल्यस्य सङ्कल्पः प्रातिकूल्यस्यवर्जनम् । रक्षिष्यतीति विश्वासो गोप्तृत्ववरणं तथा ॥ आत्मनिक्षेपकार्पण्ये षड्विधा शरणागति॥
