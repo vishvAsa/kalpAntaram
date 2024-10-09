@@ -1,6 +1,5 @@
 +++
-title = "+kANe HoD"
-
+title = "+History OD"
 +++
 
 Source: [sanatana hyperlinked](https://sanatana.in/dharmashastra/Volumes) ,  
