@@ -21,9 +21,10 @@ But based on experience the office told me that most likely it is the srichurnam
 
 I got myself and my wife tested (Mine was 4 or 5 mcg/dL. Wife's was 2 mcg/dL.). I came positive (still below the threshold to open a case) while she came negative. 
 
+## Treatment
 We were advised to saturate the blood with good stuff like iron from spinach. This forces the lead to stay in the bones and not leach back into the blood (atleast not as fast).
 
-## DIY shrIchUrNam
+### DIY shrIchUrNam
 I decided to make my own srichurnam. In 6 months, my son's numbers got better.
 
 {{< figure src="/kalpAntaram/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/images/vijay-son-lead-levels_2016.jpg" title="" class="thumbnail">}}
@@ -47,3 +48,8 @@ If it is bright yellow it is suspect.
 
 A hard to test theory - lead in yellow chalks (which are contrary to shAstra-s) used for shrIchurNam with alarming popularity in the past generation (2000-2020s) has done measurable harm to the intellect of traditional vaDakalai shrIvaiShNava-s. Given the competing effect of modern degeneracy - it's hard to find the signal in the final intellectual output - but if only there were reliable IQ test scores across generations (and interest now)...
 </details>
+
+## Related notes
+- [DIY shrIchUrNam making](/kalpAntaram/vishvAsaH/kriyA-nishchayaH/angAni/dravyam/kunkumAdi/articles/diy-shrIchUrNam/) . 
+- श्रीचूर्ण-प्रतिष्ठा-क्रमः [अत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/uttamUru-vIrarAghavArya-prayoga-mAlA/22_shrIchUrNapratiShThAkramaH)
+- विष्णुगात्रस्पर्शापेक्षा - आह्निकार्थप्रकाशिकायाम् [अत्र](/AgamaH_vaiShNavaH/rAmAnuja-sampradAyaH/kriyA/venkaTa-nAtha-shAkhA/gopAla-deshikaH/Ahnikam_AhnikArtha-prakAshikA/02_abhigamanam/14_puNDradhAraNam/) । 
