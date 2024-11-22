@@ -137,7 +137,7 @@ I hope that I have satisfactorily præsented and explained the religious basis f
 
 [^2]: R̥V 3.6.9
 
-[^3]: Jamison **1991** p. 38: The ravenous hyenas and the wounded Sun
+[^3]: Jamison **1991** p.38: The ravenous hyenas and the wounded Sun
 
 [^4]: Witzel **2001**: Autochthonous Aryans?
 
@@ -174,7 +174,7 @@ I hope that I have satisfactorily præsented and explained the religious basis f
 
 [^20]: KS 31.8; the grammar implies that the *earth* became amedhyá, but other verses make it clear that Índra was made impure.
 
-[^21]: See Jamison, ibid. for more discussion.
+[^21]: See Jamison, ibid.for more discussion.
 
 [^22]: Bodewitz **2019**: Sins and vices
 
@@ -184,13 +184,13 @@ I hope that I have satisfactorily præsented and explained the religious basis f
 [^24]: such as myself; but I empathize with the old or unhealthy who
     vaccinate.
 
-[^25]: Husson **1812** p. 255: Dictionaire des sciences médicales
+[^25]: Husson **1812** p.255: Dictionaire des sciences médicales
 
 [^26]: TS 6.4.9.2
 
 [^27]: MS 4.6.2; a right later regained
 
-[^28]: Hoernle **1907** p. 109: Studies in the medicine of ancient India
+[^28]: Hoernle **1907** p.109: Studies in the medicine of ancient India
 
 [^29]: R̥V 10.97.3c
 

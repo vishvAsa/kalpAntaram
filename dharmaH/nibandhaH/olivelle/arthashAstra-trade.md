@@ -13,21 +13,21 @@ PauseSkip BackwardSkip Forward
 
 Unmute
 
-Current Time 0:28
+Current Time0:28
 
 /
 
-Duration 26:27
+Duration26:27
 
 Loaded: 5.38%
 
 00:29
 
-Stream Type LIVE
+Stream TypeLIVE
 
 Seek to live, currently behind liveLIVE
 
-Remaining Time -25:59
+Remaining Time-25:59
 
 1x
 

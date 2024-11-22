@@ -13,7 +13,7 @@ That there was a thriving entertainment industry is demonstrated by tidbits of i
 
 The picture we get from Kautilya’s description is that there were numerous [troupes of travelling entertainers](https://archive.org/stream/dli.ministry.18490/JSNA%252841%252945-53_djvu.txt) who went from village to village, town to town, to find sponsors for their performances. Kauṭilya recorded precious information about the makeup of these troupes. Their leaders were called _kushilava_.
 
-The _kushilava_ was perhaps the central figure in ancient Indian entertainment, even within the more formal setting of Sanskrit drama. Sometimes, the term is used loosely to refer to actors in general, as in the opening scene of Sudraka’s play [_Mricchakatika_](https://www.gutenberg.org/files/21020/21020-h/21020-h.htm). The director or _sutradhara_ enters the empty stage and exclaims: “This playhouse of ours is empty! Now, where could the _kushilavas_ have gone?”
+The _kushilava_ was perhaps the central figure in ancient Indian entertainment, even within the more formal setting of Sanskrit drama. Sometimes, the term is used loosely to refer to actors in general, as in the opening scene of Sudraka’s play [_Mricchakatika_](https://www.gutenberg.org/files/21020/21020-h/21020-h.htm). The director or _sutradhara_ enters the empty stage and exclaims: “This playhouse of ours is empty! Now, where could the _kushilavas_have gone?”
 
 Kauṭilya gave a list of six entertainers or [actors comprising a troupe](https://archive.org/stream/dli.ministry.18490/JSNA%252841%252945-53_djvu.txt): _nata_, _nartaka_, _gayaka_, _vadaka_, _vagjivana_, and _kushilava_—actor, dancer, singer, musician, bard, and _kushilava_. Appearing last in the list, the _kushilava_ appears to be the leader of the group, perhaps the producer/director. In a couple of places, Kautilya gave an expanded list of nine members with the addition of _plavaka_, _saubhika_, and _caraṇa_—rope dancer, dramatic storyteller, and troubadour.
 
@@ -24,7 +24,7 @@ Although it is not altogether clear, these terms probably referred to categories
 
 ## **Could entertainers be dangerous?**
 
-Given the itinerant nature of these groups, Kauṭilya considered them as posing a security threat to the state—just like itinerant ascetics and monks.  They could provide good cover for secret agents of foreign kingdoms. Kauṭilya (_Arthashastra_ 7.17.34) himself mentioned using “actors, dancers, singers, musicians, storytellers, minstrels, rope dancers, and jugglers” to infiltrate the ranks of an enemy king. That’s why these groups were closely supervised.
+Given the itinerant nature of these groups, Kauṭilya considered them as posing a security threat to the state—just like itinerant ascetics and monks. They could provide good cover for secret agents of foreign kingdoms. Kauṭilya (_Arthashastra_ 7.17.34) himself mentioned using “actors, dancers, singers, musicians, storytellers, minstrels, rope dancers, and jugglers” to infiltrate the ranks of an enemy king. That’s why these groups were closely supervised.
 
 Kauṭilya also required entertainers not to cause any hindrance to agricultural work in the countryside. He did not think that hard agricultural labour could coexist with public entertainment extravaganzas. Further, like their religious counterparts, the entertainers were advised to suspend travel during the four months of the rainy season.
 

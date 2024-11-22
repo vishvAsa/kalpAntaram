@@ -20,7 +20,7 @@ I was part of an editorial team that produced the _Cambridge Comparative History
 
 The first detailed account of legal procedure, known in Sanskrit as _vyavahara,_ is found in Kautilya’s _Arthashastra._ However, it does not directly designate a person or institution in whom judicial power and functions of a society are vested. It simply describes the structure of civil and criminal courts and the procedures they are supposed to follow.
 
-Civil courts are headed by a bench of three senior officers of the State. Kautilya says, “Justices (_dharmastha_) of ministerial rank (_amatya_) should conduct trials of lawsuits.” (Kautilya 3.1.1) 
+Civil courts are headed by a bench of three senior officers of the State. Kautilya says, “Justices (_dharmastha_) of ministerial rank (_amatya_) should conduct trials of lawsuits.” (Kautilya 3.1.1)
 
 In the parallel criminal system, courts are overseen by a different set of officers called _pradestri._ _Manava-Dharmasastra_, or _The Laws of Manu_, written a century or so after Kautilya, on the other hand, explicitly vests judicial authority in the king himself. It is only in his absence that a substitute judge, called _pradvivaka_, presides over the court.
 
