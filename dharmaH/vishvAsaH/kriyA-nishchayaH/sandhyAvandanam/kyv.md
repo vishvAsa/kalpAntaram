@@ -175,7 +175,7 @@ unicode_script: devanagari
 
 <div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_2_dhruva-vandanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
-<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02/22_3_shiMshumAra-vandanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
+<div class="js_include" url="/vedAH_yajuH/taittirIyam/AraNyakam/sarva-prastutiH/02_svAdhyAya-brAhmaNAdi/19_2_shiMshumAra-vandanam.md"  newLevelForH1="5" includeTitle="false"> </div>  
 
 
 ### कर्म-दोष-प्रायश्चित्तम्
