@@ -22,3 +22,8 @@ unicode_script: devanagari
 ## समापनम्
 - वेदाशीर्वादः
 - लोपदोषप्रायश्चित्तम् (मन्त्र-तन्त्र-स्वरवर्ण…।)
+
+## लौकिक-नाम-विचारः
+
+अथवा दृष्टिदोषवारणार्थं स्यात्। यथा मद्बन्धोर् वृद्धस्य लौकिकं नाम "कुप्पण्ण" (=अवकरराशिवर्यः) इत्य् अवर्तत ।
+If you can make it so that the worst thing that can happen to someone is the possession of a bad name - that's an excellent trade. (eg. the song "Boy named Sue " [TW](https://genius.com/Johnny-cash-a-boy-named-sue-lyrics) )
