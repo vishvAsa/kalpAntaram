@@ -19,6 +19,14 @@ From Medhātithi's commentary on Manusmṛti 10.5.
 ## Biological basis
 That jāti cannot be identified by merely looking at someone, rules out the possibility of it being +++(purely)+++ biological. 
 
+<details><summary>विश्वास-टिप्पनी</summary>
+
+your arguments only imply that jAti is not _purely_ biological.
+
+Fact is that jAti/ varNa is mostly biological.
+</details>
+
+
 ### Legal wedding
 Also, an offspring of a Brāhmaṇa and Brāhmaṇī who aren't duly wedded, isn't tagged as a Brāhmaṇa by the Dharmaśāstra-texts (for example Manusmṛti 10.5). This also rules out a definitive biological basis of jāti. This is exactly why the Dharmaśāstra has to step in.
 
