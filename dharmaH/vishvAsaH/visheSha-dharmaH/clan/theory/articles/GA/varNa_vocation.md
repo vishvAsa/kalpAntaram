@@ -19,7 +19,15 @@ In case you don’t get what I mean by ritual-metaphysical, it’s literally the
 3. He should marry a girl hailing from another Ārșeya gotra as a recognition of the bond between the Rșis who worked together to create the path of the Veda.
 
 I didn’t refer to V2/3 as I’m mainly interested in addressing V1s who are unable to read the room.  
-For V2, change number to level & metre to triSTup; and mutatis mutandis for V3.
+For V2, change number to 11 & metre to triSTup; and mutatis mutandis for V3.
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+Reference to Manusmṛti, where for Kṣatriya-s, a different mantra is used for initiation into vaidikam. 
+
+As a corollary, Pāraskaragṛhyasūtra says that all the three dvija Varṇa-s may be initiated by Brahmagāyatrī.
+</details>
+
 
 That’s pretty much it, with a few more points along similar lines. 
 
