@@ -11,3 +11,7 @@ For general context, see separate article.
     - Classical dharmashAstra writers deprecated it.
         - जैह्म्यं च मैथुनं पुंसि जातिभ्रंशकरं स्मृतम् । । ११.६७ jAti, could of course, be recovered with a prAyashcitta. The prAyashcitta for dvija-s was a bath with clothes on:  मैथुनं तु समासेव्य पुंसि योषिति वा द्विजः । गोयानेऽप्सु दिवा चैव सवासाः स्नानं आचरेत् । । ११.१७४ (मनुः)
 - shatAvadhAnI gaNesh's well-informed acceptance in the Hindu context[here](https://www.youtube.com/watch?v=5ToXQF9A4t0&feature=youtu.be&t=6300).
+
+### Penalties
+क्वचिद् तीक्ष्णा दण्डा उक्ताः।  
+महानिर्वाणतन्त्रे लिङ्ग-च्छेदादि--वधान्ताः दण्डा उक्ताः - [११ इत्य्-अत्र](/AgamaH_shaivaH/AgamaH/mahA-nirvAna-tantram/11) ।
