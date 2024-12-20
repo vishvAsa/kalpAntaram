@@ -31,6 +31,13 @@ As a corollary, Pāraskaragṛhyasūtra says that all the three dvija Varṇa-s 
 
 That’s pretty much it, with a few more points along similar lines. 
 
+### v4 relevance
+Religious praxis as filtered through Varņa is also irrelevant for most non-V1s today. Nobody is doing something because they are a V4 or V5. They are doing it because they belong to a specific community that has its own body of practices; in other words, Kuladharma.
+
+There was an attempt to create a religious praxis for V4s: pākayajñas, slightly modified pañcamahāyajñas, dāna, etc. But it hardly ever took off.
+
+One can either revive this old version or come up with a substitute that involves Naivedya, modified pañcamahāyajñas & Dāna or better still, promote the Sampradāyas which have a proper praxis for many if not all H. A diluted version of the aforesaid substitute, combined with temple worship, is the staple for most H, be it V1s or non-V1s.
+
 ## General Labor organization
 Varņa is now a few solemn rituals plus the occasional, nice, warm & fuzzy family functions.  No point trying to revive anything else.
 
