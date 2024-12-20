@@ -47,6 +47,11 @@ Varņa as an inter-communal, organizing principle that creates relations between
 
 There's a lingering emotional attachment to the ancestral occupation - esp. strong in v1s; but visible in v2s and v3s.
 So, to that extant "labor organizing" principle persists
+
+we do have
+
+- v1 religious obsession is of critical value to H
+- so, 2 fold varNa labor division remains critical (rather than 4 fold)
 </details>
 
 
