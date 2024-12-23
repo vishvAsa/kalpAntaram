@@ -24,7 +24,7 @@ During the reign of a righteous king, if the sacrificial rite of a sacrificer, s
 [^८]:
      M G: aṅgaharaṇān
 
-- <u>ननु च</u>[^११] चौर्येण स्वाम्यं[^१२] नोत्पद्यत इत्य् उक्तम् । 
+> <u>ननु च</u>[^११] चौर्येण स्वाम्यं[^१२] नोत्पद्यत इत्य् उक्तम् । 
 
 
 [^१२]:

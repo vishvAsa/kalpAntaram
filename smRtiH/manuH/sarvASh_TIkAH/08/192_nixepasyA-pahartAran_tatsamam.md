@@ -23,7 +23,7 @@ In all cases the king shall make the appropriator of a deposit pay a fine equal 
 [^६११]:
      M G DK: dravyajātir nigrāhyā jātiṃ ca nāpekṣate
 
-- span style="text-decoration-underline;">अन्यैस्</u> तूपनिधिः परिभाषितः । 
+- <u>अन्यैस्</u> तूपनिधिः परिभाषितः । 
 
 <u>स तत्रैव</u> नेह । परिभाषाया अकरणाल् लौकिकार्थ एव ग्रहीतुं न्याय्यः । वक्ष्यति च "प्रीत्योपनिहितस्य च" (म्ध् ८.१९६) इति ॥ ८.१९२ ॥
 </details>

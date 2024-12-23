@@ -44,7 +44,7 @@ To the King who protects (his people) accrues the sixth part of the spiritual me
 [^२९७]:
      DK (1: 1700: sakāśād (But DK 4: 707 has prakāśād)
 
-- span style="text-decoration-underline;">ननु</u> च भृतिपरिक्रीतत्वाद् धर्मषड्भागम्[^३०५] अयुक्तम् । 
+- <u>ननु</u> च भृतिपरिक्रीतत्वाद् धर्मषड्भागम्[^३०५] अयुक्तम् । 
 
 
 [^३०५]:

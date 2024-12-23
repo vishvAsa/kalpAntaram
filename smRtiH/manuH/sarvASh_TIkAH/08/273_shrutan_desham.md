@@ -28,7 +28,7 @@ He who, through arrogance, speaks falsely regarding the learning, the habitat, t
 [^२०७]:
      J: samyak
 
-- span style="text-decoration-underline;">कस्य</u> पुनर् अयं दण्डः । 
+- <u>कस्य</u> पुनर् अयं दण्डः । 
 
 <u>सर्वेषाम्</u> इति ब्रूमः । शूद्राधिकाराच् छूद्रस्यैवेति परे, द्विजातिविषये वैतथ्ये ॥ ८.२७३ ॥
 </details>

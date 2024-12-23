@@ -16,7 +16,7 @@ But if any man wantonly defiles a maiden through sheer audacity, his fingers sho
 [^२५८]:
      M G: pitrā yas
 
-- span style="text-decoration-underline;">अन्ये तु</u> "यो ऽकामां दूषयेत्" (म्ध् ८.३६४) इत्य् अस्यैव वध्यर्थस्योपसंहारो[^२५९] ऽयम् ।
+- <u>अन्ये तु</u> "यो ऽकामां दूषयेत्" (म्ध् ८.३६४) इत्य् अस्यैव वध्यर्थस्योपसंहारो[^२५९] ऽयम् ।
 
 
 [^२५९]:

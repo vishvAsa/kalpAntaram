@@ -20,7 +20,7 @@ If through arrogance, he teaches brāhmaṇas their duty, the king shall pour he
 [^२०५]:
      M G J: -jñānatayā
 
-- span style="text-decoration-underline;">युक्तं</u> वक्त्रे, मुखेनोपदेशकत्वात् । श्रोत्रस्य को ऽपराधः । 
+- <u>युक्तं</u> वक्त्रे, मुखेनोपदेशकत्वात् । श्रोत्रस्य को ऽपराधः । 
 
 <u>प्राग्</u> असत्तर्कादिश्रवणम् ॥ ८.२७२ ॥
 </details>
