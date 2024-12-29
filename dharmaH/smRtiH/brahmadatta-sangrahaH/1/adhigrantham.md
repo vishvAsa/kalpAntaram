@@ -23,11 +23,11 @@ title = "अधिग्रन्थम्"
 
 सम्वत् 
 
-२००९ 
+[[२००९]]
 
 सन् 
 
-१९५२ 
+[[१९५२]]
 
 मुद्रक 
 
@@ -35,9 +35,9 @@ title = "अधिग्रन्थम्"
 
 १, सीनागाग स्ट्रीट, 
 
-कलकत्ता- १ | 
+कलकत्ता- १ । 
 
-श्रीगणेशाय नमः | 
+श्रीगणेशाय नमः । 
 
 गुरुमण्डल ग्रन्थमालायाः नवमम्पुष्पम् :- 
 
@@ -45,21 +45,21 @@ title = "अधिग्रन्थम्"
 
 श्रीमन्महर्षिप्रणीत — धर्मशास्त्रसंग्रहः मन्वादिदशस्मृत्यात्मकः 
 
-प्रथमो भाग: 
+प्रथमो भागः 
 
-श्रीनाथादिगुरुत्रयं गणपति पीठत्रयम्भैरवम् ; सिद्धौघं वटुकत्रयम्पदयुगं दूतीक्रमं मण्डलम् । वीरान्द्वयट चतुष्क पष्टिनवकं वीरावली पञ्चकम्, श्रीमन्मालिनिमन्त्रराजसहितं वन्देगुरोर्मण्डलम् || 
+श्रीनाथादिगुरुत्रयं गणपति पीठत्रयम्भैरवम् ; सिद्धौघं वटुकत्रयम्पदयुगं दूतीक्रमं मण्डलम् । वीरान्द्वयट चतुष्क पष्टिनवकं वीरावली पञ्चकम्, श्रीमन्मालिनिमन्त्रराजसहितं वन्देगुरोर्मण्डलम् ॥ 
 
 ५, क्लाइव रो, 
 
 कलकत्ता । 
 
-वैक्रमाब्द: 
+वैक्रमाब्दः 
 
-२००६ 
+[[२००६]]
 
 प्रथमं संस्करणम 
 
-५००० 
+[[५०००]]
 
 , 
 
@@ -123,7 +123,7 @@ Brahman is the root cause of the creation. विवर्ततेऽर्थ�
 
 (2) 
 
-ब्रह्मकाण्ड १ कारिका ). And the Vedas are Apaur- usheya not human creation but of Divine revelation as they come direct from the breaths of Brahman “तस्य महतो निःश्वसितमेतत् ". 
+ब्रह्मकाण्ड १ कारिका ). And the Vedas are Apaurusheya not human creation but of Divine revelation as they come direct from the breaths of Brahman “तस्य महतो निःश्वसितमेतत् ". 
 
 The same divine revelation-the knowledge was bestowed upon the Rishies who after deep meditation preached before the human beings for their welfare. They are, therefore, called the Rishies (spiritual researchers or Sekeers after truth), who were the first receipients of the divine knowledge as revealed to them. "". The word 
 
@@ -133,7 +133,7 @@ The same divine revelation-the knowledge was bestowed upon the Rishies who after
 
 fullest sense of the word. Next to "Shruti" 
 
-comes the "Smrities" which form the inter- pretation of the sacred vedic laws as observed by the Rishies and as such they constitute the law of nature for governing the universe. In a word, "Shruti" means that knowledge which the sages obtained direct from Divine and "Smrities are their interpretations 
+comes the "Smrities" which form the interpretation of the sacred vedic laws as observed by the Rishies and as such they constitute the law of nature for governing the universe. In a word, "Shruti" means that knowledge which the sages obtained direct from Divine and "Smrities are their interpretations 
 
 composed mainly after deep meditation. 
 
@@ -143,15 +143,15 @@ Though men of authority assign the
 
 word Hindu law to the Smrities it is in 
 
-itself a word carrying incomplete signifi- cance. This term is of recent origin res- tricted to denote the body of law which is administered by the law courts since the British period in India. Even this does not cover the whole field of human canduct and 
+itself a word carrying incomplete significance. This term is of recent origin restricted to denote the body of law which is administered by the law courts since the British period in India. Even this does not cover the whole field of human canduct and 
 
 jurisprudence. 
 
 t 
 
-The Smrities propound such codes of con- duct in theory of Divine origin as are useful and serviceable at all times for all irrespective of caste, creed and colour. Hence the princi- ples laid down are unchangeable by human authority as they are fundmental truths of 
+The Smrities propound such codes of conduct in theory of Divine origin as are useful and serviceable at all times for all irrespective of caste, creed and colour. Hence the principles laid down are unchangeable by human authority as they are fundmental truths of 
 
-the universal law. If we ask an Indian where his law is to be found, he will reply that in the Shastras. So the Shastras, broadly speaking, are the books of super- human knowledge divinely inspired and preached by the sages who could see the present, past and future through their 
+the universal law. If we ask an Indian where his law is to be found, he will reply that in the Shastras. So the Shastras, broadly speaking, are the books of superhuman knowledge divinely inspired and preached by the sages who could see the present, past and future through their 
 
 ( 4 ) 
 
@@ -165,33 +165,33 @@ what is remembered by human teachers (in
 
 contra-distinction to Shruties or what is 
 
-revealed to the Rishies) is worthy of admira- tion and application. In its widest accepta- tion, this use of the term Smrities includes the six Vedangas, the Sutras both Shrout and Grihya, the law books of Manu Yajnavalkya etc., the Itihasas, the Puranas and the Niti Shastras; Iti Smriteha; according to such and such traditional precept or legal text. But here we only limit the term to the works of the law-givers. Though we have more than fifty and odd Smrities, the main body of the codes of law as handed down by tradition consists of Eighteen inspired Law Givers. 
+revealed to the Rishies) is worthy of admiration and application. In its widest acceptation, this use of the term Smrities includes the six Vedangas, the Sutras both Shrout and Grihya, the law books of Manu Yajnavalkya etc., the Itihasas, the Puranas and the Niti Shastras; Iti Smriteha; according to such and such traditional precept or legal text. But here we only limit the term to the works of the law-givers. Though we have more than fifty and odd Smrities, the main body of the codes of law as handed down by tradition consists of Eighteen inspired Law Givers. 
 
 These are. 
 
-मन्वत्रिविष्णुहारी तयाज्ञवल्क्योशनोऽङ्गिराः । यमापस्तम्बसम्वर्त्ताः कात्यायनबृहस्पती | 
+मन्वत्रिविष्णुहारी तयाज्ञवल्क्योशनोऽङ्गिराः । यमापस्तम्बसम्वर्त्ताः कात्यायनबृहस्पती । 
 
 ( 5 ) 
 
-qcacœna agfofaan: zeritant | 
+qcacœna agfofaan: zeritant । 
 
-वशिष्ठश्च धर्मशास्त्रप्रयोजकाः || 
+वशिष्ठश्च धर्मशास्त्रप्रयोजकाः ॥ 
 
 शाततपो 
 
 ( याज्ञवल्क्य स्मृति आचाराध्याय ४ । ५ ) 
 
-Manu, Atri, Vishnu, Harita, Yajnavalkya, Ushanas or Shukra, Angiras, Yama, Apastam- ba, Samvarta, Katyayana Brihaspati Parashar, Vysa, Shankha, Likhita, Daksha and Gautama, all these Law Givers are held to be inspired and to have based their precepts on the Vedas. Hence our attempt for the inclusion of these important major and minor Smrities forming a manual or compendium of Good moral conduct for सृष्टि. 
+Manu, Atri, Vishnu, Harita, Yajnavalkya, Ushanas or Shukra, Angiras, Yama, Apastamba, Samvarta, Katyayana Brihaspati Parashar, Vysa, Shankha, Likhita, Daksha and Gautama, all these Law Givers are held to be inspired and to have based their precepts on the Vedas. Hence our attempt for the inclusion of these important major and minor Smrities forming a manual or compendium of Good moral conduct for सृष्टि. 
 
-The Smritis as they are, should be read with a view to getting the real significance underlying the words of the Rishies concerned in as much as they are the rules and regula- tions prescribed for moral conduct of huma- nity and universe (). In a word, they are the natural Laws of the universe. Therefore, the attempt of bringing out the original texts. of the noble codes for placing before the 
+The Smritis as they are, should be read with a view to getting the real significance underlying the words of the Rishies concerned in as much as they are the rules and regulations prescribed for moral conduct of humanity and universe (). In a word, they are the natural Laws of the universe. Therefore, the attempt of bringing out the original texts. of the noble codes for placing before the 
 
 ( 6 ) 
 
-public is made. Smrities as envisaged by the sages forming the unbiassed and unprejudiced principles have boen guiding us since times immemorial. Those have been capably inter- preted by the commentators. These great scholars contributed much towards guiding the human destiny and effecting smooth working of society but the inclusion of their commentaries side by the side with the texts, would have cost much labour and 
+public is made. Smrities as envisaged by the sages forming the unbiassed and unprejudiced principles have boen guiding us since times immemorial. Those have been capably interpreted by the commentators. These great scholars contributed much towards guiding the human destiny and effecting smooth working of society but the inclusion of their commentaries side by the side with the texts, would have cost much labour and 
 
 the work would have been voluminous out of our control. It is the aim of these law givers. that the greatest good to all the creation. causing the least harm to any must be realized. thoroughly. It is for the betterment of the universe "विश्व कल्याणार्थ" that these Smrities while forming the background for a smooth. working of society shall ever remain the light house for showing real path amidst great stress and storm to the suffering humanity. The sages, law givers as they are, preached these sermons with a sole motive of making( 7 ) 
 
-and formulating such a social order upon which depends the smooth working of the corporate life of all and sundry. This way lies. the entire solution of all the pretty strifes and trifles which have been caused by different isms as these (principles of Smrities) are in quite harmony with natural law and con- sistent with the changing natural environ- ments for the good of all the creation. 
+and formulating such a social order upon which depends the smooth working of the corporate life of all and sundry. This way lies. the entire solution of all the pretty strifes and trifles which have been caused by different isms as these (principles of Smrities) are in quite harmony with natural law and consistent with the changing natural environments for the good of all the creation. 
 
 In a nutshell, these are the surest remed- 
 
@@ -203,7 +203,7 @@ We shall humbly request the readers to have a watchful eye towards grasping the 
 
 ( 8 ) 
 
-recourse to agriculture and resort to land work with all renewed energy for the welfare of the state. It is the first and foremost duty of every citizen to translate these precepts in to action as sincerely as anything. It is nece- ssary for ensuring the prosperity of the nation as it is the priority number one for the growth and well being of the human beings. It is the principal item for maintaining the three bare necessities of life e. g. food, cloth, and shelter. It is the greatest of all the Yajnas as a result of which "Anna" food- grain is available which is life and light 
+recourse to agriculture and resort to land work with all renewed energy for the welfare of the state. It is the first and foremost duty of every citizen to translate these precepts in to action as sincerely as anything. It is necessary for ensuring the prosperity of the nation as it is the priority number one for the growth and well being of the human beings. It is the principal item for maintaining the three bare necessities of life e. g. food, cloth, and shelter. It is the greatest of all the Yajnas as a result of which "Anna" foodgrain is available which is life and light 
 
 of all the living creation. The all-round progress of a country depends mainly upon the abundance of rich harvest. This is nece- 
 
@@ -217,7 +217,7 @@ which brings good and lasting fruits to be enjoyed by all in the form of genuine
 
 ( 9 ) 
 
-enjoin" बलमुपास्व develop strength which is solely dependant upon the bountiful harvest. If a well-to-do young man sits idle and remains homesick all through his bloom- ing age, he is the worst bane to the society. A young is the greatest asset to the nation and as such he must strive hard to grow more and become a productive citizen to 
+enjoin" बलमुपास्व develop strength which is solely dependant upon the bountiful harvest. If a well-to-do young man sits idle and remains homesick all through his blooming age, he is the worst bane to the society. A young is the greatest asset to the nation and as such he must strive hard to grow more and become a productive citizen to 
 
 his nation in the real sense of the word. 
 
@@ -235,7 +235,7 @@ will rise to the occasion to solve the long-felt
 
 want of food, as a result abundant yield of food grains and proper protection to cattle will be targetted and achieved. 
 
-A small child up to three entirely lives. upon its mother's milk, a wholesome, good and easily digestible diet with other eatable. sereals fit for the digestive system of the same as and when necessary. It is also con- sistent with the nature of the child and plays an important role in forming its vitality, while for the rest of the life and specially in his or her young age the food obtained from land work will constitute the wholesome 
+A small child up to three entirely lives. upon its mother's milk, a wholesome, good and easily digestible diet with other eatable. sereals fit for the digestive system of the same as and when necessary. It is also consistent with the nature of the child and plays an important role in forming its vitality, while for the rest of the life and specially in his or her young age the food obtained from land work will constitute the wholesome 
 
 nutritional diet and help ensure vitality for proper development of physical, mental and spiritual faculties of the individual concerned. 
 
@@ -243,7 +243,7 @@ nutritional diet and help ensure vitality for proper development of physical, me
 
 There is a reference in the Shastric inju- 
 
-nctions to the sight at the woman other than one's own wife () which is solely respon- sible for the entire downfall and degeneration of the man, morally and ethically; while on other occasions, reference to their Darshan 
+nctions to the sight at the woman other than one's own wife () which is solely responsible for the entire downfall and degeneration of the man, morally and ethically; while on other occasions, reference to their Darshan 
 
 ensures peace, progress and prosperity of the person concerned. If we ponder over the idea underlying these words we come 
 
@@ -291,7 +291,7 @@ a couple of volumes. present one includes ten Smrities in all. It is nineth publ
 
 Dharmadhurin Pandit Haridatta Shastri 
 
-Vidyalankar, Vidyabhushan, Vidyaratna of Tehri Garhwal whose scholarly paternal gui- dance has always inspired us to bring this and other publications of the series in the 
+Vidyalankar, Vidyabhushan, Vidyaratna of Tehri Garhwal whose scholarly paternal guidance has always inspired us to bring this and other publications of the series in the 
 
 hands of the honourable readers. 
 
@@ -301,7 +301,7 @@ For Shri Mansukhrai More we have no words to express our gratitude. It is by
 
 ( 14 ) 
 
-sheer dint of his noble aptitudes of head and heart, experience, knowledge, strong will 
+sheer dint of his noble aptitudes of head and heart, experience, knowledge, strong wi॥ 
 
 and keen love for the Shastras that the 
 
@@ -321,17 +321,17 @@ genuinely devoting his precious life for the last decade or so substantially doi
 
 ( 15 ) 
 
-world over by giving wide publicity to the self- axiomed precepts envisaged in the Shruties and Smrities through very comprehensible and indispensable interpretation well appropriate to the contexts. His book Grihastha Dharma has been a popular watch word to all the Hindi-speaking house holders. In a word, Shri Moreji has, to his credit, a life entirely 
+world over by giving wide publicity to the selfaxiomed precepts envisaged in the Shruties and Smrities through very comprehensible and indispensable interpretation well appropriate to the contexts. His book Grihastha Dharma has been a popular watch word to all the Hindi-speaking house holders. In a word, Shri Moreji has, to his credit, a life entirely 
 
-devoted to selfless service to his fellow persons in particular and all the creatures of universe in general. Even as he acts and moves his thoughts are concentrated towards performing deeds of kindness never of indis- criminate charity, but of far reaching con- sequences; work of introducing measures to develop agriculture, horticulture and to protect our cattle wealth for national prospe- rity. He believes in the decentralization pro- gramme for the village uplift as propounded by the Father of the Indian Nation "Gandhiji" and is a true devotee of Ahimsa as preached by the Shastras. His unperturbed zeal towards 
+devoted to selfless service to his fellow persons in particular and all the creatures of universe in general. Even as he acts and moves his thoughts are concentrated towards performing deeds of kindness never of indiscriminate charity, but of far reaching consequences; work of introducing measures to develop agriculture, horticulture and to protect our cattle wealth for national prosperity. He believes in the decentralization programme for the village uplift as propounded by the Father of the Indian Nation "Gandhiji" and is a true devotee of Ahimsa as preached by the Shastras. His unperturbed zeal towards 
 
 ( 16 ) 
 
 “gnanafne ei gầy" is a matter for envy to all. An institution Sattvic Jiwan Shala at Nawal- 
 
-garh (Jaipur-Rajasthan) is a successful experi- ment in giving shape to his noble plans where students are imparted free instruction of all kind in the healthy natural environment and atmosphere of the open. The boys lead a self restraint life, Brahmacharya Jiwan, "far from madding crowd's ignoble strife", where they do spade work, manual labour and enjoy other extra-curricular activities which help in deve- loping their physical, mental and spiritual progress in a balanced manner to become capable citizens of the country. All this is reminiscent of ancient Ashram life. His is a 
+garh (Jaipur-Rajasthan) is a successful experiment in giving shape to his noble plans where students are imparted free instruction of all kind in the healthy natural environment and atmosphere of the open. The boys lead a self restraint life, Brahmacharya Jiwan, "far from madding crowd's ignoble strife", where they do spade work, manual labour and enjoy other extra-curricular activities which help in developing their physical, mental and spiritual progress in a balanced manner to become capable citizens of the country. All this is reminiscent of ancient Ashram life. His is a 
 
-dream for carrying out this successful experi- ment on a grand scale on all world basis. 
+dream for carrying out this successful experiment on a grand scale on all world basis. 
 
 We wish Shree Moreji all success and may God bless him with more resources at his disposal for performing all the humanitarian tasks which he hopes to undertake in near( 17 ) 
 
@@ -345,7 +345,7 @@ the world.
 
 मृत्योर्मा अमृतं गमय 
 
-Lead us from Unreal to Real, from Dark- ness to Light and from Death to Immortality. May God bless us for performing deeds as directed by Shruties and Smirities so that all our concerted efforts may bring heaven on this earth a fit abode for gentle, humble and 
+Lead us from Unreal to Real, from Darkness to Light and from Death to Immortality. May God bless us for performing deeds as directed by Shruties and Smirities so that all our concerted efforts may bring heaven on this earth a fit abode for gentle, humble and 
 
 faithful world citizens. 
 
@@ -371,7 +371,7 @@ LADURAM TRIVEDI,
 
 M. A. 
 
-॥ श्रीगणेशाय नमः || 
+॥ श्रीगणेशाय नमः ॥ 
 
 ## संस्मरण 
 
@@ -379,7 +379,7 @@ M. A.
 
 -:00:- 
 
-श्रुतिः स्मृतिः सदाचारः स्वस्य च प्रियमात्मनः । सम्यक् सङ्कल्पजः कामो धर्ममूलमिदंस्मृतम् || 
+श्रुतिः स्मृतिः सदाचारः स्वस्य च प्रियमात्मनः । सम्यक् सङ्कल्पजः कामो धर्ममूलमिदंस्मृतम् ॥ 
 
 मनुष्यता के विकास का स्रोत, सांस्कृतिक आधार तथा नैनिक निष्ठा श्रुतिस्मृतियों में देश, काल अवस्था भेद से महर्षि याज्ञवल्क्य ने धर्म की जड़ बताई है। मार्ग का अनुसरण, सद्आचरण, आत्मप्रेम ज्ञान ) और शुद्ध सङ्कल्प से जो इच्छा हो 
 
@@ -401,7 +401,7 @@ M. A.
 
 में आवर्त - तरंग रूप से लहराते हुए परमेश्वर उद्गीथ रूप आदिनाद ऋवियों ने ताया करते-करते दिव्यश्रुति दिव्य दृष्टि पाकर प्रसरण किया । मन्त्रों के आवर्त ( वीची तरज ) के देवताओं के । 
 
-यन्त्र द्वारा ज्ञान हो सकता है। त्रिकोण आदि जितने यन्त्र दीख पड़ते हैं वे उन उन मन्त्रों के आवर्तरूप के प्रतीक हैं, इन्हीं आवर्ती से ऋषियों ने भिन्न भिन्न मन्त्रों का अनुसन्धान प्राप्त किया है। विद्वन्मादतरङ्गिणी में लिखा है- “म त्रात्मकाहि देवा: ' अर्थात् ये मन्त्र ही देवतास्वरूप हैं। आदिवैदिकमन्त्रों को श्रुति शब्द से निर्देश किया है। इन्हीं मन्त्रों के संस्मरण से मनु याज्ञ- वक्यादि ऋषियों ने अपने संस्मरणों को प्रकट किया जिनको स्मृति स्मृति शक्ति का विकास स्मृतिनिर्माता ऋषि 
+यन्त्र द्वारा ज्ञान हो सकता है। त्रिकोण आदि जितने यन्त्र दीख पड़ते हैं वे उन उन मन्त्रों के आवर्तरूप के प्रतीक हैं, इन्हीं आवर्ती से ऋषियों ने भिन्न भिन्न मन्त्रों का अनुसन्धान प्राप्त किया है। विद्वन्मादतरङ्गिणी में लिखा है- “म त्रात्मकाहि देवाः ' अर्थात् ये मन्त्र ही देवतास्वरूप हैं। आदिवैदिकमन्त्रों को श्रुति शब्द से निर्देश किया है। इन्हीं मन्त्रों के संस्मरण से मनु याज्ञ- वक्यादि ऋषियों ने अपने संस्मरणों को प्रकट किया जिनको स्मृति स्मृति शक्ति का विकास स्मृतिनिर्माता ऋषि 
 
 अध्ययन से स्पष्ट हो जायगा । 
 
@@ -419,7 +419,7 @@ M. A.
 
 में किया है । इनका अध्ययन धर्म की तात्विकता का प्रबोधक होने से भारतीय संस्कृति ने इनका अध्ययन मानव जाति को अपनी उच्च परिस्थिति तथा यवार्थ क्रान्ति का साधन माना है । 
 
-भगवद्गीता में "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः । अकर्मणश्च बोद्धव्यं गहना कर्मणोगतिः ।। " 
+भगवद्गीता में "कर्मणो ह्यपि बोद्धव्यं बोद्धव्यं च विकर्मणः । अकर्मणश्च बोद्धव्यं गहना कर्मणोगतिः ॥ " 
 
 कर्म की गहन गति कहते हुए कर्म, अकर्म और विकर्म परि- पाक पर विचार करने को लिखा है । यह विज्ञान स्मृति ग्रन्थों से 
 
@@ -471,9 +471,9 @@ M. A.
 
 (ङ) 
 
-“मन्वत्रिविष्णुहारीतयाज्ञवल्क्योशनोऽङ्गिराः । यमापस्तम्ब सम्वर्त्ताः कात्यायनबृहस्पतिः | पराशरख्यासशङ्खलिखिताः दक्षगौतमौ । 
+“मन्वत्रिविष्णुहारीतयाज्ञवल्क्योशनोऽङ्गिराः । यमापस्तम्ब सम्वर्त्ताः कात्यायनबृहस्पतिः । पराशरख्यासशङ्खलिखिताः दक्षगौतमौ । 
 
-शातातपो वशिष्ठश्च धर्मशास्त्रप्रयोजकाः ।।” 
+शातातपो वशिष्ठश्च धर्मशास्त्रप्रयोजकाः ॥” 
 
 स्मृतिग्रन्थ ओर भी हैं किन्तु धर्मशास्त्रीयव्यवस्था के प्रयोजक मनु से वशिष्ठ तक हैं जिनके नाम उक्त श्लोकों में हैं । 
 
@@ -559,7 +559,7 @@ M. A.
 
 चत्वारो वेद धर्मज्ञाः पर्षत्त्रैविद्यमेवा । 
 
-सा ब्रूते यं स धर्मः स्यादेको वाध्यात्मवित्तमः ।। 
+सा ब्रूते यं स धर्मः स्यादेको वाध्यात्मवित्तमः ॥ 
 
 अ० १ इलो. ९ 
 
@@ -571,7 +571,7 @@ M. A.
 
 धर्मस्य परमं गुह्यं ममेदं सर्वमुक्तवान् । 
 
-सर्वमात्मनि सम्पश्येत्सचासच समाहितः ।। 
+सर्वमात्मनि सम्पश्येत्सचासच समाहितः ॥ 
 
 she 
 
@@ -593,7 +593,7 @@ she
 
 महोत्साह. स्थूललक्ष्यः कृतज्ञो वृद्धसेवकः । 
 
-विनीतः सत्त्वसम्पन्नः कुलीनः सत्यवाक्शुचिः ।। अदीर्घसूत्रः स्मृतिमान् अक्षुभोऽपरुषस्तथा ॥ 
+विनीतः सत्त्वसम्पन्नः कुलीनः सत्यवाक्शुचिः ॥ अदीर्घसूत्रः स्मृतिमान् अक्षुभोऽपरुषस्तथा ॥ 
 
 शासक के स्मृतिमान् स्मृतिशास्त्रों का ज्ञाता, कृतज्ञ, कुलीन, सत्त्व- 
 
@@ -677,7 +677,7 @@ she
 
 कलि- 
 
-को कलियुग के धर्म में अत्यन्त जागरूकता बताई | वर्णाश्रम धर्म की मयादा से भ्रष्ट होने पर तत्काल पतन होना बताया है और दान की प्रधानता कलियुग की धर्मनिष्ठा बताई है। युग में कृषि कर्म को प्रधान धर्म बताया है कृषि कर्म के साथ गौ का निःस्वार्थ पालन धर्म और बलिवई बछड़े का पालन-पोषण तथा 
+को कलियुग के धर्म में अत्यन्त जागरूकता बताई । वर्णाश्रम धर्म की मयादा से भ्रष्ट होने पर तत्काल पतन होना बताया है और दान की प्रधानता कलियुग की धर्मनिष्ठा बताई है। युग में कृषि कर्म को प्रधान धर्म बताया है कृषि कर्म के साथ गौ का निःस्वार्थ पालन धर्म और बलिवई बछड़े का पालन-पोषण तथा 
 
 दान का बड़ा माहात्म्य बताया है । द्विजमात्र को कृषिकर्म करने का आदेश दिया है— 
 
@@ -707,7 +707,7 @@ she
 
 है- 
 
-"घट्कर्माणि कृषिं ये तु कुर्युर्ज्ञानविधिं द्विजाः । ते सुरादिवरप्राप्ताः स्वर्गलोकमवाप्नुयुः || 
+"घट्कर्माणि कृषिं ये तु कुर्युर्ज्ञानविधिं द्विजाः । ते सुरादिवरप्राप्ताः स्वर्गलोकमवाप्नुयुः ॥ 
 
 द्विज मात्र को खेती करने का विधान पराशरजी बताते हैं । उप- निषद् में भी आया है "अक्षैर्मा दीव्य कृषिमित्कृपस्व" (ऋ० ७५८/५ ) इन्द्रियों के भोगों में मत खेला, कृषि कर्म में मन लगाओ इस तरह मनुष्यमात्र को खेती करना धर्म बताया है । तब तो स्थान-स्थान पर बछड़े का पालन करने का विधान और उसे हृष्टपुष्ट बनाकर दान देने का विधान 
 
@@ -779,7 +779,7 @@ The
 
 प्रणव को ब्रह्मस्वरूप, प्राणायाम को तपस्या एवं गायत्री मन्त्रजप से निर्मल होकर ब्रह्मज्ञान हो जाता है 
 
-1 
+[[1]]
 
 इस प्रकार स्मृतियों में वस्तुस्थिति एक होने पर भी किसी स्मृतिकार ने संस्कारों की प्रधानता, किसी ने राजधर्म किसी ने व्यवहार विज्ञान किसी 
 
@@ -837,11 +837,11 @@ The
 
 भगवान् उदारमनाः सेठजी के सत्-सङ्कल्प सफल कर जनता में धार्मिक भावना एवं परस्पर एकता प्रदान करें 1 
 
-भ्रष्टाचारपरायणाः कति जनाः एके कुमार्गे रताः । भक्ष्याभक्ष्यविचारमूढमतयः सर्वत्र मोहान्धता || व्यापारेऽपि च चौरभावविततं विश्वासलेशो हतः । अज्ञानं किल धर्मशास्त्रविषये एकं महत्कारणम् ॥ सत्यासत्यपथप्रदर्शनपरं मन्वादिभिर्यत्स्मृतम् । अन्तेचेह च मुक्तिमुक्ति फलदं तच्छास्त्रबोधोदये । आचारे निपुणः क्रियासु कुशलो लोके महत्त्वं लभेत् । अज्ञानं च पलायते खलु यथा सूर्योदये तैमिरम् || 
+भ्रष्टाचारपरायणाः कति जनाः एके कुमार्गे रताः । भक्ष्याभक्ष्यविचारमूढमतयः सर्वत्र मोहान्धता ॥ व्यापारेऽपि च चौरभावविततं विश्वासलेशो हतः । अज्ञानं किल धर्मशास्त्रविषये एकं महत्कारणम् ॥ सत्यासत्यपथप्रदर्शनपरं मन्वादिभिर्यत्स्मृतम् । अन्तेचेह च मुक्तिमुक्ति फलदं तच्छास्त्रबोधोदये । आचारे निपुणः क्रियासु कुशलो लोके महत्त्वं लभेत् । अज्ञानं च पलायते खलु यथा सूर्योदये तैमिरम् ॥ 
 
 राजगुरु पण्डित हरिदत्त शास्त्री 
 
-टिहरी गढवाल | 
+टिहरी गढवाल । 
 
 श्रीगणेशाय नमः । 
 
@@ -864,9 +864,9 @@ chach.
 
 “स्मृत्याचारव्यपेतेन मार्गेणाधर्षितः परैः । 
 
-आवेदयति चंद्राशे व्यवहारपदं हि तत् ।। " 
+आवेदयति चंद्राशे व्यवहारपदं हि तत् ॥ " 
 
-इति महर्षि याज्ञवल्क्येन व्यवहारस्वरूपनिर्णयेऽपि स्मृत्या- चारव्येपेतिता (भ्रष्टता प्रदर्शिता । अतो जगति सुखमयोभय- लोकसंसिद्ध: स्मृत्याचारस्तदनुकूलव्यवहारश्च सर्वतो विभावनीयः स्मृत्याचारसंरक्षणे प्रचारणे च न केषाम्विप्रतिपत्तिः, भारतीय जनानां गौरवास्पदं स्मृत्याचार एव । 
+इति महर्षि याज्ञवल्क्येन व्यवहारस्वरूपनिर्णयेऽपि स्मृत्या- चारव्येपेतिता (भ्रष्टता प्रदर्शिता । अतो जगति सुखमयोभय- लोकसंसिद्धः स्मृत्याचारस्तदनुकूलव्यवहारश्च सर्वतो विभावनीयः स्मृत्याचारसंरक्षणे प्रचारणे च न केषाम्विप्रतिपत्तिः, भारतीय जनानां गौरवास्पदं स्मृत्याचार एव । 
 
 स्मृतावाचारसदाचार- 
 
@@ -874,11 +874,11 @@ chach.
 
 "निजधर्माविरोधेन यस्तु सामयिको भवेत् । 
 
-सोऽपि यत्नेन संरक्ष्योधर्माराजकृतश्चयः || ” 
+सोऽपि यत्नेन संरक्ष्योधर्माराजकृतश्चयः ॥ ” 
 
 इत्यनेन सामयिकाचारे राजधर्माचारस्याप्यवहेलना न कार्या स्मृत्या येन दोषापत्तिरनेन निर्घोषिता । आचारस्तु विधिनिषेधा- त्मकं कर्मेति स्मृतिशास्त्रेणावबुध्यते । 
 
-1 
+[[1]]
 
 स्थूलविचारणे यदि कुत्रचित्स्मृतीनां परस्परं विरोधाभास एकवाक्यता च न प्रतीयते तत्र देशकालावस्थामवेक्ष्य स्मृतिवच- नानि नियोजयितव्यानि इति समन्वयाधिकारो विरोधं निरसनाय पूर्वाचार्यैरनुमोदित एव । जगति स्मृत्याचार एव संस्कृति प्रसारणे निरुपद्रवो राजमार्गः । 
 
@@ -890,7 +890,7 @@ chach.
 
 अतोऽस्माभिः स्मृतिशास्त्ररहस्यं प्राचीन शीर्णविशीर्णपुस्तका- न्येकीकृत्य स्मृतिसन्दर्भोऽयं पृथिव्यां सर्वदेशवासिनां मनुष्याणां हिताय भारतीय प्राचीन सौहार्दपूर्ण सम्बन्धदृढीकरणाय प्रकाश्य विदुषामविदुषां समेषामेव मानवजातीयानां पण्डितानां साधारण- कृषकानां श्रमजीविनाश्च राजशासनकर्मकराणाञ्च करकमलाभ्वितः समर्प्यते । आशास्महे परोवर्यविद्वांसः समादरेणैतद्भारतीय प्रणय पुरस्कारं स्मार्त्तापहारं समुररीकृत्य स्वस्वसम्मत्या भार- तीय प्राचीन बान्धवान्कृतार्थी कुर्वन्तु । शमिति । 
 
-4 
+[[4]]
 
 भवदीयस्य राजगुरुरित्युपाधिभाजः शास्त्रिणो हरिदत्तस्य 
 
@@ -928,11 +928,11 @@ chach.
 
 " निषेकादिः श्मशानान्तो मन्त्रर्यस्योदितोविधिः स एव धर्मः " 
 
-धृतिः क्षमा दमोऽस्तेयं शौच मिन्द्रिय निग्रहः । धी विद्या सत्यमक्रोधो दशकं धर्मलक्षणम् ॥ श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः । ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ || 
+धृतिः क्षमा दमोऽस्तेयं शौच मिन्द्रिय निग्रहः । धी विद्या सत्यमक्रोधो दशकं धर्मलक्षणम् ॥ श्रुतिस्तु वेदो विज्ञेयो धर्मशास्त्रं तु वै स्मृतिः । ते सर्वार्थेष्वमीमांस्ये ताभ्यां धर्मो हि निर्बभौ ॥ 
 
 अतः, वेदप्रमाणकः श्रेयः साधनं धर्मः 
 
-1 
+[[1]]
 
 येनास्य पितरो याता येन याताः पितामहाः । तेन यायात् सतां मागं तेन गच्छन्न रिष्यति ॥ धर्मं शनैः संचिनुयाद् वल्मीकमिव पुत्तिकाः । परलोकसहायार्थं सर्वभूतान्यपीडयन् ॥ 
 
@@ -944,11 +944,11 @@ chach.
 
 एव मूलभूतकारणमस्ति । यथा मनुः- 
 
-"आचारहीनं न पुनन्ति वेदा:" 
+"आचारहीनं न पुनन्ति वेदाः" 
 
 वेदोऽखिलो धर्ममूलमाचारस्तु प्रकीर्तितः । 
 
-अत्रि:- 
+अत्रिः- 
 
 [ ७ ] 
 
@@ -956,7 +956,7 @@ chach.
 
 पराशरः 
 
-चतुर्णामपि वर्णानामाचारो धर्मपालनम् । प्रज्ञा तेजो बलं कान्तिः ब्रह्मचर्येण वर्धते || आचारवन्तो मनुजा लभन्ते- आयुश्च वित्तं च सुताश्च सौख्यम् ॥ धर्मे तथा शाश्वतमीशलोक- 
+चतुर्णामपि वर्णानामाचारो धर्मपालनम् । प्रज्ञा तेजो बलं कान्तिः ब्रह्मचर्येण वर्धते ॥ आचारवन्तो मनुजा लभन्ते- आयुश्च वित्तं च सुताश्च सौख्यम् ॥ धर्मे तथा शाश्वतमीशलोक- 
 
 मत्रापि विद्वज्जनपूज्यतां च ॥ 
 
@@ -984,7 +984,7 @@ chach.
 
 [ Ż } 
 
-अध्यापनमध्ययनं यजनं याजनं तथा । दानं प्रतिग्रहं चैव ब्राह्मणानामकल्पयत् ॥ प्रजानां रक्षणं दानमिज्याध्ययनमेव च । विपयेष्वप्रसक्तिश्च क्षत्रियस्य समादिशत् || पशूनां रक्षणं दानमिज्याध्ययनमेव च । वणिक्पथं कुतोदञ्च वैश्यस्य कृषिमेव च ॥ एकमेव तु शूद्रस्य प्रभुः कर्म समादिशेत् । एतेषामेव वर्णानां शुश्रूषामनसूयया ॥ 
+अध्यापनमध्ययनं यजनं याजनं तथा । दानं प्रतिग्रहं चैव ब्राह्मणानामकल्पयत् ॥ प्रजानां रक्षणं दानमिज्याध्ययनमेव च । विपयेष्वप्रसक्तिश्च क्षत्रियस्य समादिशत् ॥ पशूनां रक्षणं दानमिज्याध्ययनमेव च । वणिक्पथं कुतोदञ्च वैश्यस्य कृषिमेव च ॥ एकमेव तु शूद्रस्य प्रभुः कर्म समादिशेत् । एतेषामेव वर्णानां शुश्रूषामनसूयया ॥ 
 
 पराशरस्तु- 
 
@@ -1010,15 +1010,15 @@ chach.
 
 एकेन दत्तेन वृषेण येन भवन्ति दत्ता दश सौरभेयः । माहेय्यपीयं धरणी समाना तत्म दू बृषात् पूज्यतमो स्तिनान्यः । उत्पाद्यसत्य. नि तृणं चरन्ति तदेव भूयः सततं वहन्ति ॥ 
 
-न भार खिन्ना: प्रवदन्ति किञ्चिदहो वृपेर्जीवति जीवलोकः ॥ 
+न भार खिन्नाः प्रवदन्ति किञ्चिदहो वृपेर्जीवति जीवलोकः ॥ 
 
-तत्रैव हारीत:- 
+तत्रैव हारीतः- 
 
 कृपि तु सर्ववर्णानां समान्यो धर्म उच्यते । कृपिभृतिः पाशुपाल्यं सर्वेषां न निषेध्यते ॥ पटू कर्माणि कृपि ये तु कुर्यज्ञानविधिं द्विजाः । ते सुरादिवरप्राप्ताः स्वर्गलोकमवाप्नुयुः ॥ तत्र पट्कर्म लक्षणम् - 
 
 संध्या स्नानं जपश्चैव देवतानां च पूजनम् । 
 
-वैश्वदेवं तथा ति यं पटुकर्माणि दिने दिने || 
+वैश्वदेवं तथा ति यं पटुकर्माणि दिने दिने ॥ 
 
 अतः पट् कर्माणि कुर्वन् गृहस्थाश्रमं पालयेत् गृहस्थाश्रमाबल - म्बिनः प्राधान्येनावश्यकर्तव्यान् पञ्चयज्ञान् न त्यजेत् । 
 
@@ -1036,13 +1036,13 @@ chach.
 
 पराशरः 
 
-त्रिवर्गसेवां सततान्नदानं सुरार्चनं ब्राह्मणपूजनभा स्वाध्याय सेवा पितृतर्पणश्च कृत्वा गृही शक्रपदं प्रयाति ।। गृहस्थ एव यजते गृहस्थस्तप्यते तपः । 
+त्रिवर्गसेवां सततान्नदानं सुरार्चनं ब्राह्मणपूजनभा स्वाध्याय सेवा पितृतर्पणश्च कृत्वा गृही शक्रपदं प्रयाति ॥ गृहस्थ एव यजते गृहस्थस्तप्यते तपः । 
 
 दाता चैव गृहस्थः स्यात्तस्माच्छ्रष्ठो गृहाश्रमी ॥ अतः पूर्वोक्ताकरणे दोषमाह - 
 
 अनभ्यासेनवेदानामाचारस्य च वर्जनात् । आलस्यादन्नदोषाश्च मृत्युर्विप्रान् जिघांसति ॥ यथाऽभक्ष्यभक्षणेन, मनुः - 
 
-लशुनं गुञ्जनं चैव पलाण्डु कवकानि च । अभक्ष्याणि द्विजातीनाममेध्यप्रभवानि च ॥ लोहितान् वृक्षनिर्यासान् व्रश्चन प्रभवांस्तथा । शेलुं गव्यं च पेयूषं प्रयत्नेन विवर्जयेत् ॥ वृथा कृसरसंयावं पायसापूपमेव च । अनुपाकृतमांसानि देवान्नानि हवींषि च || अनिर्दशायाः गोः क्षीरमौट्रमेकशकं तथा । 
+लशुनं गुञ्जनं चैव पलाण्डु कवकानि च । अभक्ष्याणि द्विजातीनाममेध्यप्रभवानि च ॥ लोहितान् वृक्षनिर्यासान् व्रश्चन प्रभवांस्तथा । शेलुं गव्यं च पेयूषं प्रयत्नेन विवर्जयेत् ॥ वृथा कृसरसंयावं पायसापूपमेव च । अनुपाकृतमांसानि देवान्नानि हवींषि च ॥ अनिर्दशायाः गोः क्षीरमौट्रमेकशकं तथा । 
 
 आविकं सन्धिनीक्षीरं विवत्सायाश्च गोः पयः ॥ 
 
@@ -1054,15 +1054,15 @@ chach.
 
 अथ च- 
 
-योऽत्ति यस्य यदा मांसमुभयोः पश्यतान्तरम् । एकस्य क्षणिका प्रीतिरन्यः प्राणैर्विमुच्यते ॥ यो यस्य मांसमश्नाति स तन्मासाद उच्यते । मत्स्यादः सर्वमांसादस्तस्मान्मत्स्यान्विवर्जयेत् ।। 
+योऽत्ति यस्य यदा मांसमुभयोः पश्यतान्तरम् । एकस्य क्षणिका प्रीतिरन्यः प्राणैर्विमुच्यते ॥ यो यस्य मांसमश्नाति स तन्मासाद उच्यते । मत्स्यादः सर्वमांसादस्तस्मान्मत्स्यान्विवर्जयेत् ॥ 
 
 अन्ते च मांसत्यागवतं प्रतिवर्षमश्वमेधसमं फलं कथितम् । 
 
 तथैव निवृत्तिस्तु महाफलेति । 
 
-- 
 
-सुरां पीत्वा द्विजोमोहादमिवर्णा सुरां पिबेत् । तया स काये निर्दग्धे मुच्यते किल्विषात्ततः । गोमूत्रमभिवर्णा वा पिबेदुदकमेव वा । पयो घृतं वा मरणादूगोशकृद्रसमेव वा ॥ कणान्वा भक्षयेदब्दं पिण्याकं वा सकृन्निशी । सुरापानापनुत्यर्थं बालवासा जटी ध्वजी ।। 
+
+सुरां पीत्वा द्विजोमोहादमिवर्णा सुरां पिबेत् । तया स काये निर्दग्धे मुच्यते किल्विषात्ततः । गोमूत्रमभिवर्णा वा पिबेदुदकमेव वा । पयो घृतं वा मरणादूगोशकृद्रसमेव वा ॥ कणान्वा भक्षयेदब्दं पिण्याकं वा सकृन्निशी । सुरापानापनुत्यर्थं बालवासा जटी ध्वजी ॥ 
 
 पराशरस्तुतथैव- 
 
@@ -1076,7 +1076,7 @@ chach.
 
 तद्यथा- 
 
-- 
+
 
 जन्मादात् पञ्चविंशति वर्ष पर्यतं ब्रह्मचर्याश्रमं पालयेत् । 
 
@@ -1110,7 +1110,7 @@ chach.
 
 द्विसहस्रनवाधिक्ये शुभे विक्रम वत्सरे । 
 
-मेषे सूर्यगत वाणे कालिक्षेत्रगतेन वै ॥ मयंव दर्शितं भागं चतुर्थात्मक संग्रहम् । स्मृतिसन्दर्भनामाख्यं विपयेन युतं कृतम् ॥ गच्छतः स्खलनं कापि भवत्येव प्रमादतः । हसन्ति दुर्जनास्तत्र समादधति सज्जनाः ॥ मुद्राकरकराघातकातरा कापि भारती । करुणार्द्रकरस्पर्शः सुधियः सान्त्वयन्तुताम् || ऊर्ध्वशब्दे वलोपश्च मात्राभङ्गञ्च कुत्रचित् । ब-- वयश्व विपर्यासं शोधयन्तु कृपालवः ॥ नमस्करोमि विबुधान् प्रार्थयेऽहं महेश्वरः । शोधने या त्रुटिर्जाता क्षन्तव्या विबुधै सदा ॥ 
+मेषे सूर्यगत वाणे कालिक्षेत्रगतेन वै ॥ मयंव दर्शितं भागं चतुर्थात्मक संग्रहम् । स्मृतिसन्दर्भनामाख्यं विपयेन युतं कृतम् ॥ गच्छतः स्खलनं कापि भवत्येव प्रमादतः । हसन्ति दुर्जनास्तत्र समादधति सज्जनाः ॥ मुद्राकरकराघातकातरा कापि भारती । करुणार्द्रकरस्पर्शः सुधियः सान्त्वयन्तुताम् ॥ ऊर्ध्वशब्दे वलोपश्च मात्राभङ्गञ्च कुत्रचित् । ब-- वयश्व विपर्यासं शोधयन्तु कृपालवः ॥ नमस्करोमि विबुधान् प्रार्थयेऽहं महेश्वरः । शोधने या त्रुटिर्जाता क्षन्तव्या विबुधै सदा ॥ 
 
 इति विदुषामनुचरस्य - 
 
@@ -1132,37 +1132,37 @@ chach.
 
 २ नारदीय मनुस्मृतिः 
 
-२५० 
+[[२५०]]
 
 ३ अत्रिस्मृतिः 
 
-३६६ 
+[[३६६]]
 
 ४ अत्रि संहिता 
 
-३५२ 
+[[३५२]]
 
-५ प्रथम विष्णुस्मृति: ( माहात्म्यं ) 
+५ प्रथम विष्णुस्मृतिः ( माहात्म्यं ) 
 
-३८६ 
+[[३८६]]
 
 ६ विष्णुस्मृतिः 
 
-४०१ 
+[[४०१]]
 
 ७ सम्वर्त्तस्मृतिः 
 
-५४७ 
+[[५४७]]
 
 ८ दक्षस्मृतिः 
 
-५६६ 
+[[५६६]]
 
 ६ आङ्गिरसस्मृतिः 
 
-५६१ 
+[[५६१]]
 
-५६८ 
+[[५६८]]
 
 १० शातातपस्मृतिः 
 
@@ -1170,7 +1170,7 @@ chach.
 
 ॥ शुभम् ॥ 
 
-|| श्रीगणेशाय नमः ॥ 
+॥ श्रीगणेशाय नमः ॥ 
 
 ## विषय-सूची
 स्मृतिसन्दर्भ प्रथम भाग की विषय-सूची 
@@ -1183,13 +1183,13 @@ chach.
 
 १ सृष्ट्य त्पत्तिवर्णनम् — 
 
-१ 
+[[१]]
 
 सृष्टि की रचना का वर्णन; जल से सृष्टि की रचना ( श्लोक १-८ ) । इसी प्रकार पहले-पहले मरीचि, अत्रि, अङ्गिरा आदि सप्त ऋषि, देवता, यक्ष, राक्षस, गन्धर्व, पिशाचादि की उत्पत्ति ( ३७-४१ ) । फिर जरायुज, अण्डज, उद्भिज्ज, स्वेदज, वनस्पति आदि की उत्पत्ति ( ४२-४७ ) । समय का वर्णन ( ६४ -७४) । चार वर्ण और उनके कर्म ( ८७ - १६१ ) । आचार का वर्णन ( १०८ - १११ ) । 
 
 २ धर्मतत्वविचारवर्णनम् - 
 
-१२ 
+[[१२]]
 
 धर्म का वर्णन और धर्म का स्वरूप (श्लोक १ - १२ ) । अर्थ में और काम में जिसकी आसक्ति न हो वही धर्म को समझ सकते हैं और धर्म के जिज्ञासुओं को वेद से प्रमाण लेना चाहिये ( ३- १७ ) । 
 
@@ -1203,7 +1203,7 @@ chach.
 
 पृष्ठाङ्क 
 
-१५ 
+[[१५]]
 
 देश और परम्परा के अनुरूप आचार (१८) । द्विजातियों के संस्कार के समय का वर्णन; गर्भाधान से उपनयन तक 
 
@@ -1211,15 +1211,15 @@ chach.
 
 कर्तकतंत्र्यवर्णनम् - 
 
-२१ 
+[[२१]]
 
-सन्ध्या और गायत्री का महत्व वर्णन (श्लोक १०१ - २०४ ) | स्वाध्याय की विधि ( १०७ - ११५ ) । विद्या का फल किस अधिकारी को होता है ( १५६ - १६२ ) । विद्यार्थी और ब्रह्मचारी के नियम ( १७३-२२१ ) । 
+सन्ध्या और गायत्री का महत्व वर्णन (श्लोक १०१ - २०४ ) । स्वाध्याय की विधि ( १०७ - ११५ ) । विद्या का फल किस अधिकारी को होता है ( १५६ - १६२ ) । विद्यार्थी और ब्रह्मचारी के नियम ( १७३-२२१ ) । 
 
 ३ स्नातक विवाहकर्म वर्णनम् - 
 
-३५ 
+[[३५]]
 
-विद्याभ्यास का काल ( १-२ ) । विवाह का प्रकरण और कन्या के लक्षण (४-१६ ) । विवाह के भेद, राक्षस, आसुर, पैशाच और गान्धर्व चार असत् विवाह तथा ब्राह्म, देव, आर्प, प्राजापत्य इन चार सद्विवाहों का वर्णन ( २१-३६ ) | इनका विस्तार ( ४० तक ) पाणिग्रहण संस्कार सवर्णों के ही साथ होसकता है असवर्ण के साथ नहीं ( ४३ ) । 
+विद्याभ्यास का काल ( १-२ ) । विवाह का प्रकरण और कन्या के लक्षण (४-१६ ) । विवाह के भेद, राक्षस, आसुर, पैशाच और गान्धर्व चार असत् विवाह तथा ब्राह्म, देव, आर्प, प्राजापत्य इन चार सद्विवाहों का वर्णन ( २१-३६ ) । इनका विस्तार ( ४० तक ) पाणिग्रहण संस्कार सवर्णों के ही साथ होसकता है असवर्ण के साथ नहीं ( ४३ ) । 
 
 ऋतुकाल में सहवास करने से गृहस्थ होने पर भी ब्रह्मचारी संज्ञा ( ४५-५० ) । स्त्री का सम्मान करने के लिये आर्य संस्कृति का विकास ( ५६ - ६२ ) । 
 
@@ -1231,9 +1231,9 @@ chach.
 
 पृष्ठांक 
 
-४१ 
+[[४१]]
 
-३ गृहस्थस्य पञ्चमहायज्ञा:--- 
+३ गृहस्थस्य पञ्चमहायज्ञाः--- 
 
 गृहस्थ के पश्चयज्ञ का विधान ( ६८ ) । गृहस्थाश्रम की 
 
@@ -1245,9 +1245,9 @@ chach.
 
 ३ अतिथि वर्णनम् - 
 
-४३ 
+[[४३]]
 
-४५ 
+[[४५]]
 
 अतिथि सत्कार की विधि ( १०१-१०८ ) । 
 
@@ -1259,13 +1259,13 @@ chach.
 
 गोलक और कुण्डकादि निन्दित सन्तान ( १७३-१७४ ) । 
 
-भोजन करने का नियम (२३८ - २३६ ) | 
+भोजन करने का नियम (२३८ - २३६ ) । 
 
 ४ गृहस्थाश्रम वर्णनम् — 
 
-४६ 
+[[४६]]
 
-६१ 
+[[६१]]
 
 गृहस्थाश्रम का वर्णन (१) । श्राद्ध में और यज्ञ में कैसे ब्राह्मण को भोजन कराना चाहिये ( ३०-३१) । उपनयन- संस्कार के अनन्तर स्नातक के रहन-सहन और व्यवहार के नियम ( ३५ - ११० ) । विशेष नियम तथा गृहस्थ की शिक्षा (१११ - १३५) धर्म का आचरण और नियम ( १७७ ) । दान, धर्म और श्राद्ध ( २६० ) । 
 
@@ -1279,7 +1279,7 @@ chach.
 
 पृष्ठाङ्क 
 
-८५ 
+[[८५]]
 
 प्रधान विषय 
 
@@ -1291,13 +1291,13 @@ chach.
 
 योsत्ति यस्य यदा मांसमुभयोः पश्यतान्तरम् । 
 
-एकस्य क्षणिका प्रीतिरन्यः प्राणैर्विमुच्यते || 
+एकस्य क्षणिका प्रीतिरन्यः प्राणैर्विमुच्यते ॥ 
 
-८६ 
+[[८६]]
 
 हिंसा का निषेध और आमिष खाने का पाप ( ४८-५० ) । जो मांस नहीं खाता है उसको अश्वमेध का फल (५३-५४) । ५ प्रेत्र शुद्धि वर्णनम् 
 
-६० 
+[[६०]]
 
 अशौच ( सूतक) (५८-७८ ) । सूतक में कोई काम न करने का वर्णन ( ८४ ) । जिन पर अशौच नहीं लगता है उनका वर्णन ( ६३-६५ ) । 
 
@@ -1307,11 +1307,11 @@ chach.
 
 ५ शरीर शुद्धि वर्णनम् - 
 
-६५ 
+[[६५]]
 
-६७ 
+[[६७]]
 
-अशुद्धि (१३३ ) | मार्जन से शुद्धि करने की विधि (३५) । 
+अशुद्धि (१३३ ) । मार्जन से शुद्धि करने की विधि (३५) । 
 
 जूठन से शुद्धि ( १४०-१४१ ) । 
 
@@ -1339,7 +1339,7 @@ m
 
 ६ वानप्रस्थाश्रम वर्णनम् - 
 
-१०१ 
+[[१०१]]
 
 वानप्रस्थाश्रम जब पुत्र का पुत्र अर्थात् पौत्र हो जाय तब वन में निवास करे गृहस्थ में न रहे (१) । वानप्रस्थाश्रमी के नियम (२) । मुन्यन्न शाक-पात से हवन करने का निर्देश (५) । वानप्रस्थ के रहन-सहन के नियम ( ६-३२ ) । 
 
@@ -1349,7 +1349,7 @@ m
 
 ६ सन्यासाश्रम वर्णनम् - 
 
-१०४ 
+[[१०४]]
 
 सन्यास का विधान ( ४० ) । 
 
@@ -1357,7 +1357,7 @@ m
 
 ७ राज्यशासन धर्म वर्णनम- 
 
-११० 
+[[११०]]
 
 राज्यसत्ता, शासन सत्ता का वर्णन, राजा अर्थात् शासक के आचरण का निर्देश (१८) । राजदण्ड की आवश्यकता ( १६-२० ) । शासक का विनयाधिकार ( ३५ -४४) । शासक के दस कामज दोष और आठ क्रोध से उत्पन्न होनेवाले दोषों से वचने का निर्देश (४५-४७) । सचिवों की योग्यता और उनके साथ राज्यकार्य के परामर्श की विधि (५४) । राज दूत (६६) दुर्ग निर्माण ( ७० ) । शत्रु से युद्ध का वर्णन (६०) । राष्ट्र- 
 
@@ -1371,23 +1371,23 @@ m
 
 राष्ट्र संग्रह और राष्ट्र निर्माण (११३-११७) । राज्य कार्य में लगे 
 
-हुए मनुष्यों की वृत्ति का माप ( १२४ - १२६ ) | वाणिज्य कर, राज्यशासन नीति ( १२७-२२६ ) । 
+हुए मनुष्यों की वृत्ति का माप ( १२४ - १२६ ) । वाणिज्य कर, राज्यशासन नीति ( १२७-२२६ ) । 
 
 ८ राज्यधर्म दण्ड विधानवर्णनम् - 
 
-१३१ 
+[[१३१]]
 
 राजा को अपने सचिव वर्ग और मंत्री के साथ राजकाज देखने की विधि (२-३) । अट्ठारह व्यवहार का वर्णन 'ऋणा- दानादि' (४-८ ) । व्यवहार में धर्म की रक्षा का ध्यान (१५) । मन की भावना के चिह्न ( २६ ) । व्यवहार की जानकारी और साक्षी के चरित्र का वर्णन ( ४८-७५ ) । 
 
 ८ राजधर्म दण्डनिधाने साक्षिवर्णनम् - 
 
-१३८ 
+[[१३८]]
 
 साक्षी के विशेष निर्देश ( ७५-६६ ) । असत्य साक्षिवाद का पाप पृथक् पृथक् स्थानों पर ( ६७ - १०१ ) । वृथा शपथ करने से पाप ( १०१ - ११८ ) । असत्य साक्षी के दण्ड का विधान ( १२१-१२४ ) । राजा अपराधी को बिना दण्ड दिये छोड़ देने से राजा को नरक गमन । 
 
 ८ द्रव्यपरिमाणनिरूपण वर्णनम् - 
 
-१४३ 
+[[१४३]]
 
 तौल ( माप) बनाने की विधि ( १३२ ) । ऋण लेने पर ब्याज की दर (१३६ ) । किसी वस्तु के रखने पर चक्रवृद्धि में बृद्धि का सन्तुलन ( १५० ) । 
 
@@ -1401,7 +1401,7 @@ m
 
 पृष्ठाङ्क 
 
-१५५ 
+[[१५५]]
 
 जो कन्या नहीं है उसे कन्या कहकर विवाह करनेवाले को 
 
@@ -1411,9 +1411,9 @@ m
 
 सीमादण्डवर्णनम् - 
 
-१५२ 
+[[१५२]]
 
-१५५ 
+[[१५५]]
 
 ग्राम सीमा का निर्णय ( २६५ ) । वाक्पारुष्य ( अपशब्द 
 
@@ -1423,21 +1423,21 @@ m
 
 ८ चौरदण्ड वर्णनम् - 
 
-१५६ 
+[[१५६]]
 
 स्तेन चोरी ( ३०१-३४४ ) । 
 
 ८ राजधर्मदण्ड विधान वर्णनम् - 
 
-१६२ 
+[[१६२]]
 
-परस्त्री गमन की परिभाषा ( संग्रहण ) ( ३५६ ) | 
+परस्त्री गमन की परिभाषा ( संग्रहण ) ( ३५६ ) । 
 
-परस्त्री गमन का दण्ड ( ३८६ ) | कर लगाना और तुला, तराजू, गज, बांटों का निरीक्षण ( ३६८ से समाप्ति तक ) । 
+परस्त्री गमन का दण्ड ( ३८६ ) । कर लगाना और तुला, तराजू, गज, बांटों का निरीक्षण ( ३६८ से समाप्ति तक ) । 
 
 ६ शक्तिस्वरूपा स्त्रीरक्षाधर्म वर्णनम् - 
 
-१६६ 
+[[१६६]]
 
 मातृ जाति शक्ति रूपा है इसे दृष्टिगत रखना पुरुष का प्रधान धर्म और कर्तव्य है । किसी भी रूप में शक्ति का ह्रास अवा- 
 
@@ -1451,29 +1451,29 @@ m
 
 छनीय है । स्त्री की रक्षा से धर्म और सन्तान की रक्षा 
 
-1 
+[[1]]
 
 होती है ( १-३५ ) । 
 
-पुत्रं प्रत्युदितं सद्भिः पूर्वजैश्च महर्षिभिः । विश्वजन्यमिमं पुण्यमुपन्यासं निबोधत ।। भर्तुः पुत्रं विजानन्ति श्रुति द्वैधं तु भर्तरि । आहुरुत्पादकं केचिदपरे क्षेत्रिणं विदुः ।। क्षेत्रभूता स्मृता नारी बीजभूतः स्मृतः पुमान् । क्षेत्रबीजसमायोगात्संभवः सर्वदेहिनाम् || 
+पुत्रं प्रत्युदितं सद्भिः पूर्वजैश्च महर्षिभिः । विश्वजन्यमिमं पुण्यमुपन्यासं निबोधत ॥ भर्तुः पुत्रं विजानन्ति श्रुति द्वैधं तु भर्तरि । आहुरुत्पादकं केचिदपरे क्षेत्रिणं विदुः ॥ क्षेत्रभूता स्मृता नारी बीजभूतः स्मृतः पुमान् । क्षेत्रबीजसमायोगात्संभवः सर्वदेहिनाम् ॥ 
 
 ६ स्त्रीधर्मपालन वर्णनम् - 
 
-१७३ 
+[[१७३]]
 
 नियोग का निर्णय ( ५८- ६३ ) । नियोग उसका ही होगा जिसका वाक्य दान करने पर भावी पति स्वर्गत ( मरजाय ) हो जाय । विवाह में कन्या की अवस्था और वर की अवस्था का वर्णन और विवाह काल (६४-६६ ) । स्त्री-पुरुष धर्म का वर्णन ( १०२ - १०३ ) विवाह रति का धर्म बताया है । 
 
 ६ दायभाग वर्णनम् - 
 
-१७६ 
+[[१७६]]
 
 दाय विभाग की सूची और दाय विभाजन का काल (१०४) । 
 
 ६ सम्पत्तिश्राद्वयोरधिकारित्व वर्णनम् - 
 
-१८१ 
+[[१८१]]
 
-अपुत्रक का धन दौहित्र को ( १३१ ) | कन्या को पुत्र समझकर धन देने का निश्चय होने के अनन्तर यदि औरस पुत्र हो जाय तो धन विभाग का निर्णय ( १३४ ) ।अध्याय 
+अपुत्रक का धन दौहित्र को ( १३१ ) । कन्या को पुत्र समझकर धन देने का निश्चय होने के अनन्तर यदि औरस पुत्र हो जाय तो धन विभाग का निर्णय ( १३४ ) ।अध्याय 
 
 [ २३ ] 
 
@@ -1481,7 +1481,7 @@ m
 
 पृष्ठाङ्क 
 
-१९८३ 
+[[१९८३]]
 
 ६ पुत्रार्थं सम्पत्ति विभाग वर्णनम् - 
 
@@ -1491,19 +1491,19 @@ m
 
 ६ ऐश्वर्याधिकारिपुत्र वर्णनम् - 
 
-१८६ 
+[[१८६]]
 
 दायधन के विमाजन के अवान्तर प्रकार संसृष्टि के धन का बँटवारा ( १८२ - २१५ ) । 
 
 ६ अनेक दण्ड बर्णनम् - 
 
-१६० 
+[[१६०]]
 
-राजा को द्यूत कर्म करनेवाले को राष्ट्र से हटाने का वर्णन (२२०) । मन्त्री लोग जो भ्रष्टाचार करे शासक उनको निकाल कर दण्ड देवे (२३४) | महापाप चार है - ब्रह्म हत्या, गुरुतल्प- गमन, सुरापान और स्वर्ण स्तेयी ( २३५ ) | पापों का वर्णन और प्रायश्चित्त ( २३६ ) | 
+राजा को द्यूत कर्म करनेवाले को राष्ट्र से हटाने का वर्णन (२२०) । मन्त्री लोग जो भ्रष्टाचार करे शासक उनको निकाल कर दण्ड देवे (२३४) । महापाप चार है - ब्रह्म हत्या, गुरुतल्प- गमन, सुरापान और स्वर्ण स्तेयी ( २३५ ) । पापों का वर्णन और प्रायश्चित्त ( २३६ ) । 
 
 ६ राजधर्म दण्ड वर्णनम् - 
 
-१६३ 
+[[१६३]]
 
 प्रजा पालन से राजा को स्वर्ग प्राप्ति ( २५६ ) । साहसिक 
 
@@ -1513,7 +1513,7 @@ m
 
 कर लेने का समय ( ३०२ ) । 
 
-१६७ 
+[[१६७]]
 
 अध्याय 
 
@@ -1523,7 +1523,7 @@ m
 
 ६ वर्णानां कर्मविधिवर्णनम् - 
 
-१६६ 
+[[१६६]]
 
 ब्राह्मण क्षत्रिय दोनों की मिली जुली शक्ति राष्ट्र निर्माण कर सकती है (३२२ ) । शूद्र को अपने कार्य से ही मोक्ष ( ३३४) । १० वर्णानां भेदान्तर विवेक वर्णनम् 
 
@@ -1531,7 +1531,7 @@ m
 
 वर्ण भेदान्तरेण त्वनेकवर्ण वर्णनम्-- 
 
-२०० 
+[[२००]]
 
 २०१- 
 
@@ -1541,19 +1541,19 @@ m
 
 १० चतुर्वर्णानां वृत्ति वर्णनम् - 
 
-२०६ 
+[[२०६]]
 
 चातुर्वर्ण्य के लिये अहिंसा, सत्य, अस्तेय, शौच, इन्द्रिय निग्रह मनु ने धर्म बताया है ( ६३ ) । 
 
 १० वृत्ति जीविक वर्णनम- 
 
-२०६ 
+[[२०६]]
 
-वर्णधर्म, - यथा; ब्राह्मण का पढ़ना, पढ़ाना दान लेना व देना, यज्ञ करना कराना इत्यादि (७५) । इनके कार्य जाति विभागानुसार ( ७६ से समाप्ति पर्यन्त ) | 
+वर्णधर्म, - यथा; ब्राह्मण का पढ़ना, पढ़ाना दान लेना व देना, यज्ञ करना कराना इत्यादि (७५) । इनके कार्य जाति विभागानुसार ( ७६ से समाप्ति पर्यन्त ) । 
 
 ११ धर्मप्रतिरूपक वर्णनम् - 
 
-२१३ 
+[[२१३]]
 
 यज्ञ होम सोम यज्ञ के सम्बन्ध में स्नातकों का सम्मान । 
 
@@ -1571,13 +1571,13 @@ m
 
 ११ देवादि धनं हरतीति फलम- 
 
-२१५ 
+[[२१५]]
 
-यज्ञ का वर्णन, यज्ञ की दक्षिणा ( ३० ) । जानकर पाप करनेवाले को प्रायश्चित्त अवश्य करना ( ४६ ) | 
+यज्ञ का वर्णन, यज्ञ की दक्षिणा ( ३० ) । जानकर पाप करनेवाले को प्रायश्चित्त अवश्य करना ( ४६ ) । 
 
 ११ स्तेयफल वर्णनम् -- 
 
-२१७ 
+[[२१७]]
 
 चरी करनेवाले को पृथक पृथक पदार्थ के चोरी करने से शरीर में चिह्न होते हैं जैसे सुवर्ण चोर का दूसरे जन्म में कुनखी होना इत्यादि ( ४८ ) । 
 
@@ -1589,7 +1589,7 @@ m
 
 ११ प्रायश्चित्त वर्णनम् 
 
-२३१ 
+[[२३१]]
 
 सान्तपन व्रत, कुच्छ व्रत, चान्द्रायण आदि का वर्णन 
 
@@ -1597,7 +1597,7 @@ m
 
 ११ तपमहत्वफल वर्णनम् 
 
-२३४ 
+[[२३४]]
 
 तपस्या से पाप नाश ( २४२ ) । अक्षर प्रणव को जप करने 
 
@@ -1611,7 +1611,7 @@ m
 
 पृष्ठाङ्क 
 
-२३७ 
+[[२३७]]
 
 १२ कर्मणां शुभाशुभफल वर्णनम्-- 
 
@@ -1625,7 +1625,7 @@ m
 
 ब्राह्मणत्व हरने से ब्रह्मराक्षस की गति ( ६० ) । 
 
-२४२ 
+[[२४२]]
 
 पृथक् पृथक् 
 
@@ -1635,7 +1635,7 @@ m
 
 १२ धर्मनिर्णय कर्तृक पुरुष वर्णनम् 
 
-२४६ 
+[[२४६]]
 
 स्वराज्य की यथार्थ परिभाषा (६१) । राज्य शासन, राष्ट्र और सेना के शासन के लिये वेदधर्म की आवश्यकता 
 
@@ -1653,7 +1653,7 @@ m
 
 पृष्ठाङ्क 
 
-२५० 
+[[२५०]]
 
 मनु प्रजापति आदि जिस समय राज्य कर रहे थे उस समय सब सत्यवादी थे और जब धर्म का ह्रास हुआ तो नियन्त्रण के लिये व्यवहार की प्रतिष्ठा की गई। इसी के लिये राजा दण्ड नीति का धारण करनेवाला बनाया गया ( १-२ ) । 
 
@@ -1673,13 +1673,13 @@ m
 
 ऋणादानं प्रथमं विवादपदम् 
 
-२५८ 
+[[२५८]]
 
 समय चले जाने 
 
 पर भी पुत्र को 
 
-ऋण के सम्बन्ध में ( १ ) । बाप का ऋण चुका देना चाहिये ( ८-९ ) । स्त्री पति का ॠण नहीं देवे ( १३ ) | जो जिसका धन लेनेवाला होता है उसे देना चाहिये ( १४ ) । निर्धन, अपुत्री स्त्री को ले जानेवाले को उसके ऋण देना चाहिये ( १६ ) | पुत्र पति के अभाव में राजा का अधिकार ( २३ ) | पति के प्रेम से दी हुई वस्तु को कोई नहीं 
+ऋण के सम्बन्ध में ( १ ) । बाप का ऋण चुका देना चाहिये ( ८-९ ) । स्त्री पति का ॠण नहीं देवे ( १३ ) । जो जिसका धन लेनेवाला होता है उसे देना चाहिये ( १४ ) । निर्धन, अपुत्री स्त्री को ले जानेवाले को उसके ऋण देना चाहिये ( १६ ) । पुत्र पति के अभाव में राजा का अधिकार ( २३ ) । पति के प्रेम से दी हुई वस्तु को कोई नहीं 
 
 ले सकता है (२४) । 
 
@@ -1709,11 +1709,11 @@ m
 
 औपनिधि निक्षेप का वर्णन ( धरोहर ) । 
 
-२७८ 
+[[२७८]]
 
 सम्भूय समुत्थानं तृतीयं विवाद पदम् 
 
-२७६ 
+[[२७६]]
 
 सम्भूय समुत्थान ( Partnership) 
 
@@ -1727,7 +1727,7 @@ m
 
 करने का निदान क्या अदेय क्या वापिस लेना । 
 
-२८१ 
+[[२८१]]
 
 वह वापिस 
 
@@ -1743,15 +1743,15 @@ m
 
 अभ्युपेत्याशुश्रूषा पश्चमं विवाद पदम् 
 
-शुश्रूपक ५ प्रकार, काम करनेवाले ४ प्रकार ( २ ) | 
+शुश्रूपक ५ प्रकार, काम करनेवाले ४ प्रकार ( २ ) । 
 
-भेद - शुद्ध कर्म करनेवाला ( ५ ) | 
+भेद - शुद्ध कर्म करनेवाला ( ५ ) । 
 
 आदि (१३-२३ । दास के प्रकार ( 
 
 पृष्ठाङ्क 
 
-२८२ 
+[[२८२]]
 
 कर्म के 
 
@@ -1759,21 +1759,21 @@ m
 
 २४-२६ ) । स्वामी के 
 
-साथ उपकार करनेवाला दासत्व से छुटकारा पाता है ( २८ ) । सन्यास से वापिस आने पर गृहस्थ में आने पर राजा का दास होकर छुटकारा नहीं है ( ३३ ) | बलात् दास बनाये हुए के छुटकारे का उपाय ( ३६ ) । 
+साथ उपकार करनेवाला दासत्व से छुटकारा पाता है ( २८ ) । सन्यास से वापिस आने पर गृहस्थ में आने पर राजा का दास होकर छुटकारा नहीं है ( ३३ ) । बलात् दास बनाये हुए के छुटकारे का उपाय ( ३६ ) । 
 
 वेतनस्यानपाकर्म षष्ठं विवाद पदम् 
 
-२८६ 
+[[२८६]]
 
-बकरी भेड़ पालनेवाले अनुचरों पर विवाद ( १४-१८ ) । अनुचित सहवास का दण्ड ( १६-२३ ) | 
+बकरी भेड़ पालनेवाले अनुचरों पर विवाद ( १४-१८ ) । अनुचित सहवास का दण्ड ( १६-२३ ) । 
 
 अस्वामिविक्रयः सप्तमं विवादपदम् 
 
 जिस धन पर अधिकार नहीं है उसके बेचने के 
 
-पृथ्वी में जो धन गड़ा है उसपर अधिकार ( १ ) | 
+पृथ्वी में जो धन गड़ा है उसपर अधिकार ( १ ) । 
 
-२८८ 
+[[२८८]]
 
 विषय में, 
 
@@ -1787,19 +1787,19 @@ m
 
 विक्रीयासम्प्रदान मष्टमं विवादपदम् 
 
-२८६ बेचकर न देने का विवाद (१) । सौदा करके क्रेता को न देने से स्थायी सम्पत्ति में हानि देनी पड़ती है । जङ्गम वस्तु न देने से उसका जो लाभ हो सो क्रेता को देना पड़ता है ( ४ ) | 
+२८६ बेचकर न देने का विवाद (१) । सौदा करके क्रेता को न देने से स्थायी सम्पत्ति में हानि देनी पड़ती है । जङ्गम वस्तु न देने से उसका जो लाभ हो सो क्रेता को देना पड़ता है ( ४ ) । 
 
 सौदा करने के बाद मूल्य देने पर उपरोक्त नियम लागू होता है अन्यथा नहीं ( १० ) । 
 
 क्रीत्वानुशयो नवमं विवादपदम 
 
-२६१ 
+[[२६१]]
 
 क्रेता खरीदने के पीछे ठीक न समझे तो उसी दिन वापिस देवे (१) । यदि दो दिन बाद वापिस दे तो ३० वीं हिस्सा देवे अधिक दिन होने से उसका दूना देवे । चार दिन बाद वह सौदा खरीददार का होता है ( ३ ) । खरीददार गुण दोष भली प्रकार देखकर सौदा लेवे यह सौदा वापिस नहीं हो सकता ( ४ ) गाय को तीन दिन परीक्षा कर देखे, मोती हीरा इत्यादि ७ दिन, द्विपद १५ दिन, स्त्री १ माह और बीजों की १० दिन तक परीक्षा का नियम है। पहने हुए कपड़े वापिस नहीं हो सकते ( ५-८ ) । धातु लोहा सोना इत्यादि की अग्नि में परीक्षा सोना घटता नहीं, रजत दो पल घटता है, कासा शीशा आठ प्रतिशत, ताम्बा पांच प्रतिशत घटता है ( १० ) । जितना काटकर बेचा जाता है ( १२-१३ ) । काषाय वस्त्र खरीदने का विषय ( १५ ) । 
 
 समयस्यानपाकर्म दशमं विवादपदम् 
 
-२६२ 
+[[२६२]]
 
 समय का अनपाकरण (पाखण्डी से राजा बच कर रहे ) [१] । 
 
@@ -1815,7 +1815,7 @@ m
 
 क्षेत्रविवाद एकादश विवादपदम् 
 
-२६३ 
+[[२६३]]
 
 ग्राम्य सीमा का निर्णय तथा ग्राम के गोपालों तथा वृद्ध 
 
@@ -1829,9 +1829,9 @@ m
 
 स्त्रीपुंसयोगो द्वादशं विवादपदम् 
 
-२६७ 
+[[२६७]]
 
-पाणिग्रहण होने पर स्त्री मानी जाती है ( २-३ ) । एक गोत्र की कन्या और वर का विवाह नहीं हो सकता है [७]। गुण- दोष न देखकर विवाह होने पर त्याग [ ६-१५]। दूसरा पति करने का नियम [ १६ ] | कन्यादान करनेवाले अधिकारियों का वर्णन [ २०-२२ ] | स्त्री संग्रहण के दण्ड [ ६२-६८ ]। चार दण्ड [ ७०-७५ ] | पशुयोनि गमन दण्ड [ ७६ ] | स्त्री गमन निषेध का वर्णन [ ८३-८८ ] | स्त्री की निर्वासन की दशा का वर्णन [ ६१-६५ ]। निर्दोष स्त्री त्याग का दण्ड [ ६७ ] । 
+पाणिग्रहण होने पर स्त्री मानी जाती है ( २-३ ) । एक गोत्र की कन्या और वर का विवाह नहीं हो सकता है [७]। गुण- दोष न देखकर विवाह होने पर त्याग [ ६-१५]। दूसरा पति करने का नियम [ १६ ] । कन्यादान करनेवाले अधिकारियों का वर्णन [ २०-२२ ] । स्त्री संग्रहण के दण्ड [ ६२-६८ ]। चार दण्ड [ ७०-७५ ] । पशुयोनि गमन दण्ड [ ७६ ] । स्त्री गमन निषेध का वर्णन [ ८३-८८ ] । स्त्री की निर्वासन की दशा का वर्णन [ ६१-६५ ]। निर्दोष स्त्री त्याग का दण्ड [ ६७ ] । 
 
 व्यभि-अध्याय 
 
@@ -1851,13 +1851,13 @@ m
 
 जन नहीं हो सकता है ( ६-७ ) । 
 
-३०८ 
+[[३०८]]
 
 जिस धन का विभा- 
 
 स्त्री धन का विवरण 
 
-( ८- ६ ) । सम विभाग अविवाहिता बहिन का ( १३ ) | पिता द्वारा विभाग की मान्यता ( १५-१६ ) । जो लोग 
+( ८- ६ ) । सम विभाग अविवाहिता बहिन का ( १३ ) । पिता द्वारा विभाग की मान्यता ( १५-१६ ) । जो लोग 
 
 सम्मिलित 
 
@@ -1867,9 +1867,9 @@ m
 
 साहसं चतुर्दशं विवादपदम् 
 
-३१३ 
+[[३१३]]
 
-तीन प्रकार के साहस ( २ ) | उत्तम साहस ( ५ ) | उत्तम साहस का वध, सर्वस्व हरण ( ७ ) । महा साहसी का दण्ड ( ६ ) । चोरी ( ११ ) । चुराई हुई वस्तु का वर्णन (१२-२० ) । वाग्दण्डपारुष्यं पञ्चदशं षोडशञ्च विवादपदम् ३१५ वाक्पारुष्य दण्डपारुष्य ( भद्दी गाली और अश्लील ) तीन 
+तीन प्रकार के साहस ( २ ) । उत्तम साहस ( ५ ) । उत्तम साहस का वध, सर्वस्व हरण ( ७ ) । महा साहसी का दण्ड ( ६ ) । चोरी ( ११ ) । चुराई हुई वस्तु का वर्णन (१२-२० ) । वाग्दण्डपारुष्यं पञ्चदशं षोडशञ्च विवादपदम् ३१५ वाक्पारुष्य दण्डपारुष्य ( भद्दी गाली और अश्लील ) तीन 
 
 [३] 
 
@@ -1905,21 +1905,21 @@ m
 
 द्यूतसमाव्हयं सप्तदशं विवादपदम् 
 
-३१८ 
+[[३१८]]
 
 जूआ की परिभाषा ( १ ) । जूआ खेलने के अभियोग में 
 
-साक्षियों का वर्णन ( ४ ) | मिथ्या साक्षिकों को दण्ड 
+साक्षियों का वर्णन ( ४ ) । मिथ्या साक्षिकों को दण्ड 
 
 ( ५-६ ) । 
 
 प्रकीर्णकमष्टादशं विवादपदम् 
 
-३१६ 
+[[३१६]]
 
 प्रकीर्ण विवाद की परिभाषा ( १-४ ) । शास्त्र निषिद्ध 
 
-मार्गगामी को दण्ड ( ७ ) | 
+मार्गगामी को दण्ड ( ७ ) । 
 
 अन्याय से व्यवस्था की हुई का 
 
@@ -1933,7 +1933,7 @@ m
 
 राजा के दण्ड न देने पर 
 
-क्षति ( १६ - १७) | राजा की महिमा और आज्ञा पालन ( २०-३० ) । 
+क्षति ( १६ - १७) । राजा की महिमा और आज्ञा पालन ( २०-३० ) । 
 
 दण्ड देने से राजा निर्दोष ( १८ ) । 
 
@@ -1955,21 +1955,21 @@ m
 
 पृष्ठाङ्क 
 
-( ६०-६४ ) । चोरों के सहवासियों को दण्ड ( ७०-७५ ) । भिन्न-भिन्न प्रकार की चोरी का दण्ड ( ७६, ६० ) । जिस जिस अङ्ग द्वारा चोरी उसका छेदन ( १२ ) | आघात करने को शरीर के स्थान (६४-६५ ) । ब्राह्मण को फांसी नहीं लगाना और देश से बहिष्कृत करना ( ६६ ) । 
+( ६०-६४ ) । चोरों के सहवासियों को दण्ड ( ७०-७५ ) । भिन्न-भिन्न प्रकार की चोरी का दण्ड ( ७६, ६० ) । जिस जिस अङ्ग द्वारा चोरी उसका छेदन ( १२ ) । आघात करने को शरीर के स्थान (६४-६५ ) । ब्राह्मण को फांसी नहीं लगाना और देश से बहिष्कृत करना ( ६६ ) । 
 
 दुष्टों 
 
 गुप्त 
 
-को दण्ड और अङ्गों पर निशान ( १०१-१०६ ) | पापों का यमराज द्वारा दण्ड ( १०८ ) | दण्डों का प्रकार 
+को दण्ड और अङ्गों पर निशान ( १०१-१०६ ) । पापों का यमराज द्वारा दण्ड ( १०८ ) । दण्डों का प्रकार 
 
-( १११ ) | अर्थदण्ड के मान की व्यवस्था ( ११८ ) । 
+( १११ ) । अर्थदण्ड के मान की व्यवस्था ( ११८ ) । 
 
 । 
 
 दिव्य प्रकरणम् 
 
-३३० 
+[[३३०]]
 
 पांच प्रकार के दिव्यों का वर्णन ( २ ) । सत्य असत्य ( ३ ) । 
 
@@ -1997,7 +1997,7 @@ m
 
 प्राणायाम विधि उससे लाभ ( ४ - १० ) प्रणव- विधान ( १५ ) । 
 
-३३६ 
+[[३३६]]
 
 प्रश्न ( १ - ३ ) । 
 
@@ -2013,11 +2013,11 @@ m
 
 पृष्ठाङ्क 
 
-३३८ 
+[[३३८]]
 
 २ सर्वपाप विमुक्तिः, गायत्रीमन्त्रवर्णनञ्च 
 
-मन, वाणी और कर्म से किये हुए पापों की मुक्ति ( १-३ ) | कुष्माण्डसूक्त आदि से पापों का शोधन ( ४-६ ) । 
+मन, वाणी और कर्म से किये हुए पापों की मुक्ति ( १-३ ) । कुष्माण्डसूक्त आदि से पापों का शोधन ( ४-६ ) । 
 
 अघ- 
 
@@ -2025,9 +2025,9 @@ m
 
 ३ पूर्वाध्यायरूपं, सर्वपाप प्रायश्चित्तम् 
 
-४ 
+[[४]]
 
-३३६ 
+[[३३६]]
 
 वेदाभ्यास का माहात्म्य (१-६) । पुराण, इतिहास का माहात्म्य ( ७ - ८ ) । शतरुद्री आदि सूक्तों का माहात्म्य ( ६-१५ ) । दान माहात्म्य ( १६-१७) । सुवर्ण, तिलादि दान माहात्म्य ( १८-२३ ) । 
 
@@ -2037,11 +2037,11 @@ m
 
 AC 
 
-५ 
+[[५]]
 
 विविध प्रकरण वर्णनम् 
 
-३४४ 
+[[३४४]]
 
 भोजन के समय मण्डल का विधान ( १-३ ) । अन्न देने के अधिकारियों का वर्णन ( ४ ) । भोज्यान्न के भिन्न- भिन्न अधिकारियों का वर्णन ( ५-१७) । भोजन और जलपान का नियम ( २० - २३ ) । भोजन के समय पाद- 
 
@@ -2057,7 +2057,7 @@ AC
 
 सूतक 
 
-स्नान विधि ( ३२-३३ ) | 
+स्नान विधि ( ३२-३३ ) । 
 
 शुद्धि विधान ( ३८ ) । 
 
@@ -2077,11 +2077,11 @@ AC
 
 अत्रिसंहिता के प्रधान विषय 
 
-३५१ 
+[[३५१]]
 
 धर्मशास्त्रोपदेश वर्णनम् 
 
-३५२ 
+[[३५२]]
 
 संहिता श्रवण माहात्म्य (१-७) । गुरु के सत्कार न करने से कुक्कुर योनि प्राप्ति ( १० ) । शास्त्र अपमान से पशुयोनि ( ११ ) । स्वकर्तव्यनिष्ठ की प्रशंसा ( १२ ) । प्रत्येक वर्ण के कर्म ( १३-२० ) । विद्वानों के कार्य में मूर्खों की नियुक्ति करने पर क्षति ( २३ ) । विद्वत्पूजा वर्णन ( २७ ) । राजा के पश्च यज्ञ - दुष्ट को दण्ड सज्जन पूजा, न्याय से कोष वृद्धि, निष्पक्ष न्याय, राष्ट्र वृद्धि ( २८ ) । शौच लक्षण ( ३१-३५ ) । ब्राह्मण कर्तव्य ( ३६-३९ ) । दान माहात्म्य ( ४०-४१ ) । इष्टापूर्ति के लक्षण ( ४३-४४ ) । 
 
@@ -2093,13 +2093,13 @@ AC
 
 पृष्ठाङ्क 
 
-नियम की अपेक्षा यम का सेवन ( ४७ ) । नियम ( ४६ ) | जिनको उद्देश्यकर स्नान किया जाता है उसका फल (५०-५१ ) । पुत्र को पिता का गया श्राद्ध करना चाहिये, गया श्राद्ध का माहात्म्य ( ५२-५८ ) । आहार शुद्धि, स्थान शुद्धि, वस्त्र शुद्धि आदि का निर्देश (५६-८१) । सूतक आशौच आदि का प्रायश्चित्त ( ८३ - १११ ) । कृच्छ्र, सान्तपन, चान्द्रायण व्रत का विधान ( १११-१३५)। स्त्री को जप व्रत का निषेध केवल पति परायणता ( १३५ - १३८ ) । लोह पात्र में भोजन करने से पतित । ( १५२ ) । 
+नियम की अपेक्षा यम का सेवन ( ४७ ) । नियम ( ४६ ) । जिनको उद्देश्यकर स्नान किया जाता है उसका फल (५०-५१ ) । पुत्र को पिता का गया श्राद्ध करना चाहिये, गया श्राद्ध का माहात्म्य ( ५२-५८ ) । आहार शुद्धि, स्थान शुद्धि, वस्त्र शुद्धि आदि का निर्देश (५६-८१) । सूतक आशौच आदि का प्रायश्चित्त ( ८३ - १११ ) । कृच्छ्र, सान्तपन, चान्द्रायण व्रत का विधान ( १११-१३५)। स्त्री को जप व्रत का निषेध केवल पति परायणता ( १३५ - १३८ ) । लोह पात्र में भोजन करने से पतित । ( १५२ ) । 
 
-भिक्षुक की परिभाषा ( १६५ ) | महापातकियों की गणना ( १६६ ) । 
+भिक्षुक की परिभाषा ( १६५ ) । महापातकियों की गणना ( १६६ ) । 
 
 शुद्धिप्रकरणम् 
 
-३६७ 
+[[३६७]]
 
 विभिन्न पापों का प्रायश्चित्त और शुद्धि का पृथक् वर्णन 
 
@@ -2107,13 +2107,13 @@ AC
 
 शुद्धिस्पर्शादि प्रायश्चित्तम् 
 
-३७१ 
+[[३७१]]
 
 कृच्छ्र व्रत और शोच के विभिन्न प्रकार ( २०६ - २२६ ) । 
 
 प्रायश्चित्तम 
 
-३७३ 
+[[३७३]]
 
 चाण्डाल का जल पीने से पञ्चगव्य से शुद्धि ( २३२ ) । जल शुद्धि का वर्णन ( २३७ ) । 
 
@@ -2125,7 +2125,7 @@ AC
 
 प्रायश्चित्तवर्णनम् 
 
-३७४ 
+[[३७४]]
 
 रजस्वला स्पर्श, भिन्न-भिन्न पापों का प्रायश्चित्त एवं अशौच 
 
@@ -2143,7 +2143,7 @@ AC
 
 ३०५ ] । श्राद्ध में भोजन शुद्धि वर्णन अङ्गुली से दतौन का निषेध [ ३१४ ] । 
 
-स्नान, भोजन में मौन रखना [ ३२१ ] | 
+स्नान, भोजन में मौन रखना [ ३२१ ] । 
 
 दान फलवर्णनम् 
 
@@ -2153,13 +2153,13 @@ AC
 
 शौच, मैथुन, 
 
-३८२ 
+[[३८२]]
 
 उर्ध्वमुखी गोदान का माहात्म्य (३३१) विद्यादान का माहात्म्य [ ३३७-३३८ ]। दानपात्र का वर्णन [ ३३६-३४१ ] । 
 
 श्राद्धफलवर्णनम् 
 
-३८४ 
+[[३८४]]
 
 श्राद्ध में भोजन कराने योग्य ब्राह्मणों का वर्णन [ ३४२-३५४ ] पुत्र द्वारा पिता का श्राद्ध करने का माहात्म्य, न करने से पाप 
 
@@ -2167,7 +2167,7 @@ AC
 
 निन्द्यब्राह्मण वर्जनवर्णनम् 
 
-३८६ 
+[[३८६]]
 
 ब्राह्मण की संज्ञा देव ब्राह्मण, विप्र ब्राह्मण, शूद्र ब्राह्मण आदि 
 
@@ -2179,15 +2179,15 @@ AC
 
 पृष्ठाङ्क 
 
-म्लेच्छ ब्राह्मण, विप्र चाण्डाल [ ३७२-३८० ] । श्राद्ध में वर्ण्य ब्राह्मण [ ३८४ ] । विद्वान् होने पर भी पतित ब्राह्मण की पूजा नहीं की जाती है [ ३८५-३८६ ] | स्त्री के पुत्र श्राद्ध करने योग्य नहीं होते हैं [ ३८७ ] । 
+म्लेच्छ ब्राह्मण, विप्र चाण्डाल [ ३७२-३८० ] । श्राद्ध में वर्ण्य ब्राह्मण [ ३८४ ] । विद्वान् होने पर भी पतित ब्राह्मण की पूजा नहीं की जाती है [ ३८५-३८६ ] । स्त्री के पुत्र श्राद्ध करने योग्य नहीं होते हैं [ ३८७ ] । 
 
 धर्मफलवर्णनम् 
 
 खरीदी हुई 
 
-३८८ 
+[[३८८]]
 
-दीपक की छाया, बकरी की धूलि की शुद्धि [ ३६० ] | स्नान के स्थानों का वर्णन [ ३६१]। पिण्डदान के स्थान एवं समय का वर्णन [ ३६४ ] | अत्रि संहिता का महात्म्य [ ३६५ ] । विशेष – इस संहिता में भी नारदी - स्मृति की तरह छोटे छोटे 
+दीपक की छाया, बकरी की धूलि की शुद्धि [ ३६० ] । स्नान के स्थानों का वर्णन [ ३६१]। पिण्डदान के स्थान एवं समय का वर्णन [ ३६४ ] । अत्रि संहिता का महात्म्य [ ३६५ ] । विशेष – इस संहिता में भी नारदी - स्मृति की तरह छोटे छोटे 
 
 प्रकरण हैं । 
 
@@ -2199,7 +2199,7 @@ AC
 
 युधिष्ठिरस्य पितामहं प्रति प्रश्नः, भीष्मस्य पुरातन वार्ताकथनमोङ्कारवर्णनं, विष्णोः प्रसादन विधिवर्णनम्, ईश्वरवर्णनम्, वरप्राप्तिवर्णनम्, नारायणवर्णनञ्च 
 
-३६१ 
+[[३६१]]
 
 भीष्म के प्रश्न पर विष्णु भगवान् का उत्तर, नारायण नाम 
 
@@ -2219,7 +2219,7 @@ AC
 
 १ सृष्ट्य त्पत्तिवर्णनम् 
 
-४०१ 
+[[४०१]]
 
 ब्रह्मा की उत्पत्ति से सृष्टि रचना, वराह द्वारा पृथिवी का उद्धार, देव आदि का सृजन, जब विष्णु अन्तर्धान हो गये 
 
@@ -2227,11 +2227,11 @@ AC
 
 २ सवर्णाश्रम वृत्तिधर्म वर्णनम् 
 
-४०७ 
+[[४०७]]
 
 वर्णाश्रम की रचना उनके मन्त्रों द्वारा श्मशान तक की क्रिया, 
 
-वृत्ति, जाति पर विचार | 
+वृत्ति, जाति पर विचार । 
 
 ३ राजधर्म वर्णनम् 
 
@@ -2239,9 +2239,9 @@ AC
 
 राजधर्म, ब्राह्मणों से कर नहीं लेने का वर्णन । 
 
-४०८ 
+[[४०८]]
 
-४१२ 
+[[४१२]]
 
 प्रजा सुख से सुखी और दुःख से दुखी रहने से राजा को स्वर्ग 
 
@@ -2255,13 +2255,13 @@ AC
 
 ५ राजधर्म विधाने दण्डवर्णनम् 
 
-४१३ 
+[[४१३]]
 
 महापातक और उनके दण्ड का वर्णन, पापियों दण्ड का वर्णन और दूसरी योनि का वर्णन, विवाद का वर्णन और कूट साक्षियों का वर्णन, तीन पुस्त तक भोगने पर जगह का वर्णन, चोर, परस्त्रीगामी, लम्पट जिसके राज्य में न हों उस राजा का इन्द्रत्व वर्णन । 
 
 ६ ऋणदान वर्णनम् 
 
-४२१ 
+[[४२१]]
 
 ऋणी धनी का व्यवहार और उसकी व्यवस्था का वर्णन, स्वर्ण की द्विगुण की वृद्धि, अन्न की त्रिगुण की वृद्धि इनके निर्णय शास्त्र साक्षी । सम्पत्ति लेनेवाले को णदान 
 
@@ -2269,13 +2269,13 @@ AC
 
 ७ सलेखसाक्षिवर्णनम् 
 
-४२३ 
+[[४२३]]
 
 लिखित का वर्णन, राज साक्षी, गवाही, असाक्षिक वर्णन, संदेहास्पद लेख का निर्णय । 
 
 ८ वर्जितसाक्षिलक्षणवर्णनम् 
 
-४२४ 
+[[४२४]]
 
 जो साक्षी में निषेध हैं उनका वर्णन, कूट साक्षियों का वर्णन, शुद्ध साक्षियों के कहने पर निर्णय करना । जिस विवाद में कूट साक्षी होना निश्चित हो जाय वह विवाद समाप्त कर देना ।[ ४३ ] 
 
@@ -2287,19 +2287,19 @@ AC
 
 ६ समयक्रियावर्णनम् 
 
-४२६ 
+[[४२६]]
 
 समय क्रिया राजद्रोहादि में शपथ कराने का विवरण, अभियुक्त को दिव्य कराने की प्रक्रिया, सचैल स्नान कराकर तब देवता और ब्राह्मण के आगे शपथ करावे । 
 
 १० घट ( तुला ) धर्म वर्णनम् 
 
-४२७ 
+[[४२७]]
 
 घट या तुला- इसमें पुरुष को बिठावे और उससे यह कह - लावे कि ब्रह्म हत्यारे को झूठी गवाही देने में जो नरक होते हैं वह इस तुला में बढ़े इस तरह नीचे के श्लोकों में उसके प्रार्थना के मन्त्र बोले । यदि तुला में तौल बढ़ जावे तो उसको सच्चा समझे, यदि घट जावे तो उसे झूठा समझे । 
 
 ११ अग्निपरीक्षा वर्णनम् 
 
-४२८ 
+[[४२८]]
 
 अग्नि परीक्षा - सोलह अङ्गुल के सात मंडल बनावे और उन मंडलों को दो हाथ के सूत्रों से वेष्टित कर देवे । पचास पल के लोहे को आग में गरम करके उसे हाथ में लेकर सात मंडलों पर चले फिर लोहे को नीचे रख देवे। जिसका हाथ न जले वह अनपराधी यदि जल जावे तो अपराधी - इसके नीचे अग्नि के मन्त्र लिखे हैं । 
 
@@ -2313,25 +2313,25 @@ AC
 
 पृष्ठाङ्क 
 
-४३० 
+[[४३०]]
 
 उदक [ जल में परीक्षा ] -वहां पर एक आदमी धनुष से एक तीर पानी में डाले । वह आदमी कूदकर उस तीर को लावे । जो पानी के नीचे न दिखलाई देवे वह शुद्ध, जो दिखाई दे वह अशुद्ध और मन्त्र वहीं लिखे हैं । 
 
 १३ विषपरीक्षा वर्णनम् 
 
-४३१ 
+[[४३१]]
 
 विष की परीक्षा - हिमालय के विष को सात जौ के बराबर घी में भिगो कर उसे दिखलावे । जिस पर जहर न चढ़े उसे शुद्ध । इसके प्रकरण में प्रार्थना के मन्त्र लिखे हैं । 
 
 १४ कोषप्रकरण वर्णनम् 
 
-४३१ 
+[[४३१]]
 
 कोषमान - किसी उम्र देवता के स्नान का उदक तीन अन्जुली वह पीवे । दो तीन सप्ताह तक उसके घर में कोई रोग, मरण हो जाय तो उसे अशुद्ध समके । इसके प्रकरण में प्रार्थना के मन्त्र लिखे हैं । 
 
 १५ द्वादश पुत्र वणनम् 
 
-४३२ 
+[[४३२]]
 
 बारह प्रकार के पुत्र - सबसे पहिले, औरस, क्षेत्रज, पुत्रिका पुत्र, भाई और पिता के न होने पर लड़की, पुनर्भव, कानीन, 
 
@@ -2351,11 +2351,11 @@ AC
 
 १६ जातिवशात्पुत्रभेदवणनम् 
 
-४३४ 
+[[४३४]]
 
 समान वर्णों से जो पुत्र होते हैं वही पुत्र कहे जाते हैं । अब अनुलोम जो माता के वर्ण से प्रतिलोम ये अनार्य लड़के कहे जाते हैं । उनकी संज्ञा और संकर जाति का विवरण । १७ पुत्राभावे सम्पत्ति विभाग ( ग्राह्य) वर्णनम् 
 
-४३४ 
+[[४३४]]
 
 विभाग - अगर पिता विभाग करे तो अपनी इच्छा से कर सकता है । सभी उपार्जित का विभाग करे और पति के विभाग में स्त्री का पूर्ण अधिकार है । 
 
@@ -2367,7 +2367,7 @@ AC
 
 ब्राह्मण के अमिदाह का निर्णय किया है । 
 
-४३८ 
+[[४३८]]
 
 अध्याय 
 
@@ -2377,7 +2377,7 @@ AC
 
 पृष्ठाङ्क 
 
-४३६ 
+[[४३६]]
 
 २० दिनरात्रिकालवर्षादीनां वर्णनम् 
 
@@ -2385,7 +2385,7 @@ AC
 
 २१ अशौचानन्तरं श्राद्धादि वणनम् 
 
-४४३ 
+[[४४३]]
 
 अशौच पूरा होने पर पितृ और अग्निहोत्र वार्षिक श्राद्ध, 
 
@@ -2393,19 +2393,19 @@ AC
 
 २२ अशौच निर्णय वर्णनम् - 
 
-४४४ 
+[[४४४]]
 
 अशौच किस जाति का कितने दिन का होता है । किसी का दस दिन का किसी का बारह दिन का । 
 
 २३ अन्नद्रव्यादि शुद्धिवर्णनम् - 
 
-४४६ 
+[[४४६]]
 
 बर्त्तन और अन्नादि की शुद्धि के सम्बन्ध तथा कूप आदि के शुद्धि के विषय - इसमें गाय के सींग का जल और पश्चगव्य से अन्न में शुद्धि बताई है । 
 
 २४ विवाह वर्णनम् --- 
 
-४५३ 
+[[४५३]]
 
 ब्राह्मण को चार जाति से विवाह, क्षत्रिय को तीन, वैश्य को , शूद्र को एक जाति से विवाह बतलाया है । सगोत्र से 
 
@@ -2417,7 +2417,7 @@ AC
 
 अध्याय 
 
-विवाह का निषेध | 
+विवाह का निषेध । 
 
 कुल 
 
@@ -2435,9 +2435,9 @@ AC
 
 वर्णनम् - 
 
-४५५ 
+[[४५५]]
 
-४५६ 
+[[४५६]]
 
 जिसकी सवर्णा बहुभार्या हो तो वह धर्म काम ज्येष्ठ पत्नी से करे । हीन जाति की स्त्री से विवाह करने पर उससे उत्पन्न लड़के से दैव कार्य और पितृकार्य नहीं हो सकता । २७ निषेकादुपनयनपर्यन्तदशसंस्कारवर्णनम् - ४५७ 
 
@@ -2459,9 +2459,9 @@ AC
 
 पृष्ठाङ्क 
 
-४६० 
+[[४६०]]
 
-४६१ 
+[[४६१]]
 
 इसमें श्रावण महीने में उपाकर्म करने का विधान और अन्त में उपाकर्म करने का और शिष्य को उत्पन्न करनेवाले पिता से दीक्षा देनेवाले गुरु का विशेष महत्त्व और शिष्य के लिये आमरण गुरु सेवा का निर्देश है । 
 
@@ -2473,7 +2473,7 @@ AC
 
 व्यादीनामाचार्यबद्ध यवहारवर्णनम्, तेषां पत्न्यो- ऽपि मातृवत् माननीयास्तच्छु तिः - 
 
-४६४ 
+[[४६४]]
 
 राजा, ऋत्विक्, उपाध्याय, चाचा, ताऊ, मामा, नाना, श्वशुर और ज्येष्ठ भ्राता इनका सम्मान करना चाहिये । अन्त में बतलाया है कि ये क्रम से विद्या, कर्म, अवस्था, बन्धुत्व, धन इनके मान के स्थान हैं । 
 
@@ -2489,27 +2489,27 @@ AC
 
 ३४ मात्रादि गमन पातक परामर्श वर्णनम् - 
 
-४६६ 
+[[४६६]]
 
 नरक के 
 
-४६६ 
+[[४६६]]
 
 मातृ गमन, दुहिता गमन, स्वसा गमन करनेवाले अति पातकी होते हैं । उन्हें आग में जलाना चाहिये । 
 
 ३५ महापातक परामर्श वर्णनम् - 
 
-४६७ 
+[[४६७]]
 
 महापातक - ब्रह्महत्या, सुरापान, सुवर्ण चोरी और गुरुदार गमन और एक वर्ष तक इनके साथ रहता है इनका वर्णन है 
 
 ३६ के ते ब्रह्महत्या समाः पातकाः- 
 
-४६७ 
+[[४६७]]
 
 इसमें झूठी गवाही देनेवाला, गर्भघाती आदि के पाप बत- लाये हैं । जो महापातक के समान पाप होते हैं वे बतलाये हैं । ३७ उपपातक वर्णनम्— 
 
-४६८ 
+[[४६८]]
 
 उपपातक — झूठा कहना, वेदों की और गुरु की निन्दा सुनना इत्यादि उपपात बतलाये हैं । 
 
@@ -2531,9 +2531,9 @@ AC
 
 ४० अपात्रीकरण (आदानपात्रं ) तद्वर्णनम् । 
 
-४७० 
+[[४७०]]
 
-४७० 
+[[४७०]]
 
 अपात्रीकरण नीच आदमियों से धन, दान लेना और 
 
@@ -2543,7 +2543,7 @@ AC
 
 मलिनीकरण के पाप - पक्षी आदियों को मारना । 
 
-४७० 
+[[४७०]]
 
 ४२ अकर्तव्या विषये (प्रकीर्ण) प्रायश्चित्त वर्णनम् ४७१ 
 
@@ -2551,13 +2551,13 @@ AC
 
 ४३ नरकाणां संज्ञा तेषां वर्णनम् - 
 
-४७१ 
+[[४७१]]
 
 नरक, तामिस्र, अन्धतामिस्रादि-जो पाप करके प्रायश्चित्त नहीं करते उन्हें मरने के बाद इस नरक में जाना पड़ता है । 
 
-४४ नरकस्थानां यमयातना निर्णय:- 
+४४ नरकस्थानां यमयातना निर्णयः- 
 
-४७३ 
+[[४७३]]
 
 पापी आदमियों को नरक जाने के अनन्तर तिर्यग् 
 
@@ -2577,13 +2577,13 @@ AC
 
 ( चिन्ह ) वर्णनम् - 
 
-४७५ 
+[[४७५]]
 
 नरक भोगने के बाद और तिर्यक् योनि भोगने के बाद जब मनुष्य योनि में आता है तो उसके क्या निशान है । यथा- अतिपातकी कुष्ठी, ब्रह्महत्यारा यक्ष्मारोगी, गुरुपत्नी गामी दुष्कर रोग से ग्रसित रहते हैं । 
 
 ४६ कृच्छ्रादि व्रतविधान वर्णनम्--- 
 
-४७६ 
+[[४७६]]
 
 कृच्छ्रव्रत -तीन दिन तक भोजन नहीं करना । सिरसे स्नान 
 
@@ -2607,13 +2607,13 @@ AC
 
 ४८ अन्नदोषार्थं यवेन प्रायश्चित्तम- 
 
-४७८ 
+[[४७८]]
 
 अपने लिये यव भिंगो कर उसकी तीन अंजुली पीवे उससे वेश्या का अन्न, शूद्र के अन्न का दोष हट जाता है । ४६ मार्गशीर्ष शुक् लैकादश्युपाख्यान वर्णनं, सर्वपाप 
 
 निवृत्यर्थं वासुदेवार्चन वर्णनञ्च--- 
 
-४७६ 
+[[४७६]]
 
 ये पाप के दूर करने के सम्बन्ध में कहा गया है। मार्गशीर्ष शुक्ला ११ में उपवास कर १२ में भगवान् वासुदेव का पूजन पुष्प, धूप आदि से करे । तथा ब्राह्मण भोजन, एक साल तक व्रत करने से पाप नष्ट हो जाते हैं । 
 
@@ -2625,7 +2625,7 @@ AC
 
 विधान वर्णनम.. 
 
-४८० 
+[[४८०]]
 
 व्रत का वर्णन-वन में झोपड़ी बनावे और तीन बार स्नान[ ५३ ] 
 
@@ -2649,7 +2649,7 @@ AC
 
 सर्व प्रायश्चित्तवर्णनम् - 
 
-४८२ 
+[[४८२]]
 
 सुरापान करनेवाला किसी कार्य को या मातृ-पितृ श्राद्ध कर वह एक वर्ष तक कणों को खावे एवं चान्द्रायण व्रत करे । प्याज लहसुन, वानर, खर उष्ट्र, गोमांस के भक्षण करने पर भी वही व्रत है । द्विजातियों को इस व्रत के पश्चात् फिर संस्कार करें। शुष्क मांस के खाने पर भी उपरोक्त व्रत करे । अभक्ष्य भक्षण करने से जो पाप होते हैं वे सभी इसी व्रत से नष्ट हो जाते हैं । 
 
@@ -2657,7 +2657,7 @@ AC
 
 वर्णनम् - 
 
-४८७ 
+[[४८७]]
 
 सुवर्ण चोरी तथा अन्यान्य द्रव्य चोरी के प्रायश्चित्त का वर्णन है । 
 
@@ -2677,25 +2677,25 @@ AC
 
 वर्णनम् - 
 
-४८६ 
+[[४८६]]
 
 जो जिस पापी के साथ रहता है उसे भी वही प्रायश्चित्त बतलाया है । 
 
 ५५ रहस्य प्रायश्चित्त विधान वर्णनम्- 
 
-४६२ 
+[[४६२]]
 
 रहस्य पापों का प्रायश्चित्त, प्रणव का जप, हविष्यांग और प्राणायामादि बतलाया है । 
 
 ५६ वेदोद्धृतपवित्र मन्त्र वर्णनम् - 
 
-४६४ 
+[[४६४]]
 
 इसमें जप, होम, अघमर्षण, नारायणी सूक्त और पुरुषसूक्त इत्यादि का महात्म्य बतलाया गया है । 
 
 ५७ अभोज्याप्रतिग्राह्ययोस्त्याज्य वर्णनम्- 
 
-४६४ 
+[[४६४]]
 
 इस में त्याज्य मनुष्यों का निर्देश, त्याज्य पुरुषों से दान लेने से ब्राह्मणों का तेज नष्ट हो जाता है । 
 
@@ -2719,7 +2719,7 @@ AC
 
 ५६ गृहस्थाश्रमिणां कर्तव्यमग्निहोत्रञ्च वर्णनम् - 
 
-४६६ 
+[[४६६]]
 
 गृहस्थाश्रमी नित्य हवन करे इस तरह लिखे हुए आचार के अनुसार हवन करनेवाले की प्रशंसा की गई है। 
 
@@ -2737,15 +2737,15 @@ AC
 
 ६५ स्नानान्तर कर्तव्यता- देवपूजावर्णनम्--- 
 
-४६६ 
+[[४६६]]
 
-५०० 
+[[५००]]
 
-५०० 
+[[५००]]
 
-५०२ 
+[[५०२]]
 
-५०४ 
+[[५०४]]
 
 ६६ देवपितृकर्म विधानं, तत्कर्मणि त्याज्य वर्णनञ्च ५०५ 
 
@@ -2755,9 +2755,9 @@ AC
 
 वर्णनम् 
 
-५०६ 
+[[५०६]]
 
-५०६ 
+[[५०६]]
 
 अध्याय 
 
@@ -2767,7 +2767,7 @@ AC
 
 f 
 
-६६ स्वस्त्रियामपि गमने निषेध तिथि:-शयन 
+६६ स्वस्त्रियामपि गमने निषेध तिथिः-शयन 
 
 विचार वर्णनञ्च--- 
 
@@ -2777,11 +2777,11 @@ f
 
 वर्णनम्- 
 
-५१० 
+[[५१०]]
 
-५११ 
+[[५११]]
 
-५११ 
+[[५११]]
 
 अध्याय ६० से ७१ तक गृहस्थाश्रमी के प्रत्येक दैनिक और पर्व के घर के उत्सव के, जीवन यात्रा के, आचार, सदाचार, 
 
@@ -2789,33 +2789,33 @@ f
 
 ७२ दमः ( इन्द्रिय निग्रहः ) वर्णनम् --- 
 
-५१४ 
+[[५१४]]
 
 ७३ श्राद्धवर्णमम्--- 
 
-५१४ 
+[[५१४]]
 
 ७४ अष्टका श्राद्ध विधि वर्णनम् - 
 
 विधिवर्णनम् 
 
-५१७ 
+[[५१७]]
 
 ७५ श्राद्धाधिकारी कस्तन्निर्णयश्च पितरिजीवति 
 
 श्राद्ध वर्णनम्--- 
 
-५१८ 
+[[५१८]]
 
-७६ अमायां तथान्यदिवसेऽष्टकाश्राद्धविमर्श: श्राद्ध- 
+७६ अमायां तथान्यदिवसेऽष्टकाश्राद्धविमर्शः श्राद्ध- 
 
 काल वर्णनञ्च --- 
 
 ७७ काम्यश्राद्ध विषय वर्णनम्- 
 
-५१८ 
+[[५१८]]
 
-५१६ 
+[[५१६]]
 
 अध्याय 
 
@@ -2829,7 +2829,7 @@ f
 
 श्राद्ध निषिद्ध वर्णनञ्च- 
 
-५१६ 
+[[५१६]]
 
 ७९ जन्मकुशादि नियमः, श्राद्धे प्रशस्त वस्तूनि च ५२१ 
 
@@ -2853,23 +2853,23 @@ f
 
 ८८ गोदान महत्व वर्णनं तल्लक्षणञ्च । 
 
-५२२ 
+[[५२२]]
 
-५२३ 
+[[५२३]]
 
-५२३ 
+[[५२३]]
 
-५२४ 
+[[५२४]]
 
-५२५ 
+[[५२५]]
 
-५२५ 
+[[५२५]]
 
-५२६ 
+[[५२६]]
 
-५२८ 
+[[५२८]]
 
-५२६ 
+[[५२६]]
 
 अध्याय ८७, ८८ में दान वर्णन -उर्ध्वमुखी गाय का दान । 
 
@@ -2885,7 +2885,7 @@ f
 
 पृष्ठाङ्क 
 
-५२६ 
+[[५२६]]
 
 इसमें कार्तिक मास में जितेन्द्रिय व्रत करता हुआ स्नान करता है वह मनुष्य सत्र पापों से छूट जाता है । 
 
@@ -2899,7 +2899,7 @@ f
 
 तन्निर्देश वस्तु दान महत्व वर्णनम् । 
 
-५३२ 
+[[५३२]]
 
 कूवा और तालाब के दान करनेवाले सब योनियों में तृप्त रहता है । ब्राह्मण के घर या रास्ते में वृक्ष लगाने से वही फल उसके घर में पुत्र रूप से उत्पन्न होते हैं । जो उनकी छाया में बैठते हैं वे उनके मित्र और सहायक होते है । कूप तडाग और मन्दिर का जीर्णोद्धार करनेवाले को नये बनाने का फल होता है । 
 
@@ -2913,7 +2913,7 @@ f
 
 ६२ सर्वेदानेष्वभय दान महत्व वर्णनम् । 
 
-५३३ 
+[[५३३]]
 
 सब दान से बड़ा अभय दान है । 
 
@@ -2927,25 +2927,25 @@ f
 
 दान के अधिकारी ब्रह्मणों के लक्षण हैं । 
 
-५३५ 
+[[५३५]]
 
 ६४ गृही कदा वनाश्रमी भवेत्तन्निर्णयः, आचारोपदेश 
 
 वर्णनश्च । 
 
-५३६ 
+[[५३६]]
 
 गृहस्थी बाल सफेद हो जाय तो वानप्रस्थ को चले जाय या पौत्र हो जाय तो वानप्रस्थ को चल देवे । 
 
 ६५ स कर्तव्यता - वानप्रस्थाश्रम वर्णनम् 
 
-५३६ 
+[[५३६]]
 
 वानप्रस्थ में तपस्या से शरीर को सुखा देवे । 
 
 ६६ कर्तव्या संन्यासाश्रम वर्णनम् । 
 
-५३७ 
+[[५३७]]
 
 तीनों आश्रमों में यज्ञ करने का विधान और संन्यासाश्रम का 
 
@@ -2959,15 +2959,15 @@ f
 
 ध्यान वर्णनम् । 
 
-६८ 
+[[६८]]
 
 पृष्ठाङ्क 
 
-५४० 
+[[५४०]]
 
 संन्यास के नियम - उसके शब्द रूप रस के विषयों से हटने का नियम, इस शरीर को पृथिवी समझो, चेतना को आत्मा समझे, किस संन्यासी को किस विचार से ध्यान करने का 
 
-प्रकार, पुरुष शब्द का विषय, ज्ञान, ज्ञेय, गम्य ज्ञान का विचार | 
+प्रकार, पुरुष शब्द का विषय, ज्ञान, ज्ञेय, गम्य ज्ञान का विचार । 
 
 जगत्परायण नारायण वर्णनम्, अष्टाङ्ग नम- स्कारादि विधानविधिः, वसुमती नारायणं प्रति प्रार्थयति । 
 
@@ -2977,9 +2977,9 @@ f
 
 स स्थान वर्णनञ्च । 
 
-५४२ 
+[[५४२]]
 
-५४४ 
+[[५४४]]
 
 पृथिवी का प्रार्थना और पूजन, लक्ष्मी का निवास - आंवला के वृक्ष, शंख, पद्म में, पतिव्रता, प्रियवादिनी स्त्रियों में लक्ष्मी का निवास है । 
 
@@ -2997,7 +2997,7 @@ f
 
 इस धर्मशास्त्र का महात्म्य । 
 
-५४६ 
+[[५४६]]
 
 अध्याय 
 
@@ -3009,7 +3009,7 @@ f
 
 पृष्ठाडू 
 
-५४७ 
+[[५४७]]
 
 वामदेवादि ऋषियों का सम्बर्त से विनम्र प्रश्न ( १-३ ) । धम्य देश जहां कम संस्कार करने का विधान है ( ४ ) । ब्रह्मचर्य का विधान, सन्ध्योपासना वर्णन आया है (५-३४) । 
 
@@ -3019,19 +3019,19 @@ f
 
 ( ५० - ६५ ) । कन्या का विवाह काल (६६ ) । 
 
-दान का विधान और प्रत्येक दान का महात्म्य ( ६७-६१ ) | गृहस्थी की दिनचर्या ( १७ ) । 
+दान का विधान और प्रत्येक दान का महात्म्य ( ६७-६१ ) । गृहस्थी की दिनचर्या ( १७ ) । 
 
 [ ६२ ] 
 
 आचारव्यवहारयोश्च ( दिनचर्या ) बर्णनम्, वान- प्रस्थ धर्म, यतिधर्म, पापानां प्रायश्चित्तं सुरा- पान प्रायश्चित्तं, गोवध प्राय श्चत्तं, जीवहत्या प्रयश्चित्तं, अगम्यागमन, दुष्टानां निष्कृति व०, अस्पृश्य- स्पर्श वर्णनम्, अभक्ष्य भक्ष्ये प्रायश्चित्त वर्णनम् । 
 
-५५६ 
+[[५५६]]
 
 वानप्रस्थ धर्म ( ६८ - १०१ ) यति के धर्म ( १०२ - १०७ ) महा- पापों की गणना और पापों का प्रायश्चित्त, उपपाप, संकीर्ण आदि सब पापों का प्रायश्चित्त ( १०८ - २०० ) । 
 
 दान माहात्म्यमुपवासवतं ब्राह्मणभोजनमहत्वं, पापविमुक्त्यर्थं ( सर्वप्रायश्चित्त ं ) गायत्री मन्त्र जप प्राणायामस्य च वर्णनम् । 
 
-५६६ 
+[[५६६]]
 
 उपवास व्रत ब्राह्मण भोजन कराने की तिथियां (२०३) गायत्री जप, प्राणायामादि से पापमुक्ति बतलाई गई है ( २०४-२२७) । 
 
@@ -3045,7 +3045,7 @@ f
 
 पृष्ठाङ्क 
 
-५६६ 
+[[५६६]]
 
 बाल्यकाल में भक्ष्याभक्ष्य का दोष नहीं होता है (१-५) । 
 
@@ -3061,13 +3061,13 @@ f
 
 पृष्ठाङ्क 
 
-५७१ 
+[[५७१]]
 
 उषा काल से दिन पर्यन्त कार्यक्रम का विधान दैनिक कार्य की सूची ( १-१० ) । 
 
 उषा काल में स्नान सन्ध्या करने का माहात्म्य, सन्ध्या उप- स्थान वर्णन ( ११-१६ ) । हवन ब्रह्मयज्ञ का समय ( २०- ३० ) । दूसरों को भोजन देने से मनुष्यता होती है ( ३०- ३५ ) । स्नान के प्रकार (३६) गृहस्थ के कर्म वह विभाग जिनके अनुसार चलने से गृहस्थाश्रमी उच्च कहलाने योग्य हो ( ३७-५६ ) । 
 
-३ गृहस्थीनां नवकर्मविधानं सुखसाधन धर्म वर्णनञ्च ५७६ गृहस्थी के नव कर्म करने से मान्यता ( १-६ ) | नवविकर्म ( १०- १६ ) सुख का साधन धर्म और चरित्र बताया है ( २०-३२ ) । 
+३ गृहस्थीनां नवकर्मविधानं सुखसाधन धर्म वर्णनञ्च ५७६ गृहस्थी के नव कर्म करने से मान्यता ( १-६ ) । नवविकर्म ( १०- १६ ) सुख का साधन धर्म और चरित्र बताया है ( २०-३२ ) । 
 
 ४ स्त्रोधर्मवर्णनम् । 
 
@@ -3077,9 +3077,9 @@ f
 
 । 
 
-५८१ 
+[[५८१]]
 
-५८३ 
+[[५८३]]
 
 शौच की परिभाषा तथा बाह्य एवं आभ्यन्तर शौच का वर्णन 
 
@@ -3089,9 +3089,9 @@ f
 
 प्रधान विषय 
 
-( १ - ३ ) । हाथ पैर पर कितने बार मृत्तिका जल देवं, आगे जल से किस अंग को कितनी बार प्रक्षालन करना (४-१३) | ६ जन्ममरणाशौचं समाधियोग वर्णनञ्च 
+( १ - ३ ) । हाथ पैर पर कितने बार मृत्तिका जल देवं, आगे जल से किस अंग को कितनी बार प्रक्षालन करना (४-१३) । ६ जन्ममरणाशौचं समाधियोग वर्णनञ्च 
 
-५८७ 
+[[५८७]]
 
 जन्म मरण का अशौच काल, किस दशा में अशौच कम ज्यादा होता है। 
 
@@ -3099,7 +3099,7 @@ f
 
 द्योगविकाशं स्मृति महत्व वर्णनम् । 
 
-५८६ 
+[[५८६]]
 
 इन्द्रियां पर विजय ( १ ) अध्यात्म योग साधन और अद्वैत अनुभव से ही योग का विकाश ( २-५४ ) और दक्षस्मृति पढ़ने का महात्म्य है । 
 
@@ -3127,9 +3127,9 @@ f
 
 पृष्ठाङ्क 
 
-५६१ 
+[[५६१]]
 
-प्रायश्चित्त का विधान, अन्त्यज के बरतन में पानी पीने से सान्तपन व्रत बताया है ( १-६ ) | अज्ञान से पानी पीने पर केवल एक दिन का उपवास बताया है ( ७ ) । उच्छिष्ट भोजन करने का प्रायश्चित्त बताया है ( ८-१४ ) । नीला वस्त्र पहनकर भोजन दान करने से चान्द्रायण व्रत ( २५-२२) । जिस भूमि पर नील की खेती एक बार भी की जाय वह भूमि बारह वर्ष तक शुद्ध नहीं होती ( २४ ) । गाय के मरने पर प्रायश्चित्त बताया है औषधि या भोजन देने से गाय मरे तो चौथाई प्रायश्चित्त बताया है ( २५-२८ ) । गोपाल या स्वामी की असावधानी से शृङ्गादि टूटने से गाय के मरने पर भिन्न भिन्न प्रकार का प्रायश्चित्त बताया है ( २६-३४ ) । रजस्वला स्त्री की शुद्धि ( ३५-४२ ) । अन्न के दोष और जो जिसका अन्न खाता है उसको उसका पाप भी लगता है 
+प्रायश्चित्त का विधान, अन्त्यज के बरतन में पानी पीने से सान्तपन व्रत बताया है ( १-६ ) । अज्ञान से पानी पीने पर केवल एक दिन का उपवास बताया है ( ७ ) । उच्छिष्ट भोजन करने का प्रायश्चित्त बताया है ( ८-१४ ) । नीला वस्त्र पहनकर भोजन दान करने से चान्द्रायण व्रत ( २५-२२) । जिस भूमि पर नील की खेती एक बार भी की जाय वह भूमि बारह वर्ष तक शुद्ध नहीं होती ( २४ ) । गाय के मरने पर प्रायश्चित्त बताया है औषधि या भोजन देने से गाय मरे तो चौथाई प्रायश्चित्त बताया है ( २५-२८ ) । गोपाल या स्वामी की असावधानी से शृङ्गादि टूटने से गाय के मरने पर भिन्न भिन्न प्रकार का प्रायश्चित्त बताया है ( २६-३४ ) । रजस्वला स्त्री की शुद्धि ( ३५-४२ ) । अन्न के दोष और जो जिसका अन्न खाता है उसको उसका पाप भी लगता है 
 
 ( ४३-५८ ) । उन स्थानों की गणना जहां पादुका पहनकर 
 
@@ -3147,11 +3147,11 @@ f
 
 १ अकृत प्रायश्चित्त वर्णनम् 
 
-५६८ 
+[[५६८]]
 
 पाप करने पर जो प्रायश्चित्त नहीं करते हैं उनके नरक भोगने के बाद आगामी जन्म में पाप सूचक कुछ चिह्न होते हैं (१-२ ) । महापातक के चिह्न सात जन्म तक रहते हैं (३) । १ पूर्वजन्माकृत प्रायश्चित्त चिन्हम् 
 
-५६६ 
+[[५६६]]
 
 उपपातक के चिह्न पांच जन्म तक, सामान्य पापों का तीन जन्म तक । दुष्ट कर्मों से जो रोग होते हैं उनकी जप, देवा- चन, हवन आदि से शान्ति की जाती है ( ४ )। पहले जन्म के किये पाप नरकभोगगति के अनन्तर बीमारी के रूप में आते हैं उनका शमन जप दानादि से होता है (५) । महापातकादि से होनेवाले रोग कुष्ठ, यक्ष्मा, ग्रहणी, अतिसार आदि होते हैं ( ६-७ ) । उपपातक से श्वास, अजीर्ण आदि 
 
@@ -3179,13 +3179,13 @@ f
 
 १ ब्राह्मणमहच्च वणनम् । 
 
-६०१ 
+[[६०१]]
 
 इन पापजन्य बुराइयों के शमन करने को ब्राह्मण द्वारा जप दान आदि बताये हैं । 
 
 २ कुष्ठनिवारण प्रयोग वर्णनम् । 
 
-६०१ 
+[[६०१]]
 
 ब्रह्म हत्या से पाण्डु कुष्ठ आदि होते हैं उनका प्रायश्चित्त का 
 
@@ -3193,13 +3193,13 @@ f
 
 २ सामवेदेन सर्वपाप प्रायश्चित्तम् । 
 
-६०३ 
+[[६०३]]
 
 गोवध प्रायश्चित्त का विधान, सामवेद पारायण, ( १३ - १६ ) । 
 
 २ हन्तृक - फलानाशायोपाय वर्णनम् । 
 
-६०५ 
+[[६०५]]
 
 पितृ हत्या से जो अचैतन्य रोग होता हैउ सका विधान । मातृ हत्या से जो अचैतन्य रोग होता है उसका विधान ( २०-२५ ) । बहिन हत्या के पाप का प्रायश्चित्त (२६-३५) । स्त्रीघाती एवं राज घाती के प्रायश्चित्त (३६-४२) । भिन्न भिन्न पशुओं के वध का भिन्न भिन्न प्रायश्चित्त ( ४३-५७ ) । 
 
@@ -3211,7 +3211,7 @@ f
 
 पृष्ठाङ्क 
 
-६०७ 
+[[६०७]]
 
 ३ प्रकीर्णरोगाणां प्रायश्चित्तम् 
 
@@ -3219,7 +3219,7 @@ f
 
 विप दाता, 
 
-अभक्ष्यभक्षण का प्रायश्चित्त (७-१५ ) । सड़क तोड़नेवाले को रोग और प्रायश्चित्त । गर्भपात करने से यकृत प्लीहा आदि रोग होते हैं उनके प्रायश्चित्त, जल धेनु और अश्वत्थ का पूजन और दान करना ( १६-१६ ) | दुष्टवादी का अंग खण्डित हो जाता है ( २०-२१ ) । सभा 
+अभक्ष्यभक्षण का प्रायश्चित्त (७-१५ ) । सड़क तोड़नेवाले को रोग और प्रायश्चित्त । गर्भपात करने से यकृत प्लीहा आदि रोग होते हैं उनके प्रायश्चित्त, जल धेनु और अश्वत्थ का पूजन और दान करना ( १६-१६ ) । दुष्टवादी का अंग खण्डित हो जाता है ( २०-२१ ) । सभा 
 
 मं 
 
@@ -3229,7 +3229,7 @@ f
 
 ४ कुलध्वंसकस्य, स्तेयस्य च प्रायश्चित्तम् । 
 
-६०६ 
+[[६०६]]
 
 । 
 
@@ -3247,13 +3247,13 @@ f
 
 चोरने से जो जो बीमारी होती है उनका विस्तार, उनके शमनार्थं प्रायश्चित्त, व्रत, दान ( १६-१६ ) । 
 
-५ 
+[[५]]
 
 अगम्यागमन प्रायश्चित्तम् । 
 
-६१३ 
+[[६१३]]
 
-मातृ गमन से मूत्रकुष्ट ( लिंग नाश ) रोग उनके शमन का प्रायश्चित्त और दान का विधान ( २६ ) । लड़की के साथ व्यभिचार करने से रत्तकुष्ठ उसकी शान्ति (२७) । भगिनी के साथ व्यभिचार करने से पीतकुष्ठ ( २८ ) । ऊपर के पापों का प्रायश्चित्त विधान और दान ( २६-३५ ) । भ्रातृ भार्या गमन करने से गलित कुष्ठ होता है ( ३६ ) और वधू के पास गमन करने से कृष्ण कुछ होता है (३७) ( तथा चतुर्थ अध्याय में भी मातृगमन भगिनी गमन के रोग और शांति हैं ) उक्त रोगों का प्रायश्चित्त और दान वर्णन है । तपस्विनी के साथ गमन करने से अश्मरी रोग, ( पथरी रोग ) | और राजपुत्र को चोरी से मारना, मित्र में भेद करानेवाले का वर्णन, गुरु को मारने से रोग और प्रायश्चित्त । छोटे- छोटे पापों का वर्णन और प्रायश्चित्त तथा व्रत शान्ति का वर्णन | पांचवें अध्याय में मातृगमन से लेकर भगिनी आदि अगम्या गमन से जो कुष्ठ रोग असाध्य रोग होते हैं उनकी शान्ति का विस्तार, देव प्रतिमा, पूजन, दान, हवन आदि प्रायश्चित्त बताया है । 
+मातृ गमन से मूत्रकुष्ट ( लिंग नाश ) रोग उनके शमन का प्रायश्चित्त और दान का विधान ( २६ ) । लड़की के साथ व्यभिचार करने से रत्तकुष्ठ उसकी शान्ति (२७) । भगिनी के साथ व्यभिचार करने से पीतकुष्ठ ( २८ ) । ऊपर के पापों का प्रायश्चित्त विधान और दान ( २६-३५ ) । भ्रातृ भार्या गमन करने से गलित कुष्ठ होता है ( ३६ ) और वधू के पास गमन करने से कृष्ण कुछ होता है (३७) ( तथा चतुर्थ अध्याय में भी मातृगमन भगिनी गमन के रोग और शांति हैं ) उक्त रोगों का प्रायश्चित्त और दान वर्णन है । तपस्विनी के साथ गमन करने से अश्मरी रोग, ( पथरी रोग ) । और राजपुत्र को चोरी से मारना, मित्र में भेद करानेवाले का वर्णन, गुरु को मारने से रोग और प्रायश्चित्त । छोटे- छोटे पापों का वर्णन और प्रायश्चित्त तथा व्रत शान्ति का वर्णन । पांचवें अध्याय में मातृगमन से लेकर भगिनी आदि अगम्या गमन से जो कुष्ठ रोग असाध्य रोग होते हैं उनकी शान्ति का विस्तार, देव प्रतिमा, पूजन, दान, हवन आदि प्रायश्चित्त बताया है । 
 
 राज 
 
@@ -3267,26 +3267,26 @@ f
 
 पृष्ठाङ्क 
 
-६१६ 
+[[६१६]]
 
 पञ्चत्रिंशत् (पैंतीस प्रकार से मरा हुआ पितृगति क्रिया को नहीं पाता है । आकस्मिक मृत्यु बिजलीपात इनको श्राद्ध में लेपभुज कहा है ( १-४ ) । अनायास मृतक की गति न होने से ये प्रेतादि योनियों में जाते हैं और बालकों का हरण होता है ( ४-६ ) । अपमृत्यु से जो मरते हैं उनके कारण कौन पाप है, जैसे जो कुमारी गमन करे उसे व्याघ्र मारता है, जो किसी को विष देता है उसे सर्प काटता है, राजा को मारनेवाले को हाथी से मृत्यु होती है, मित्र द्रोही, बक वृत्ति वाले की मृत्यु भेड़िया से होती है ( ६-१६ ) । 
 
 अगति प्रायश्चित्त वर्णनम् । 
 
-उन उन पापों का प्रायश्चित्त दिखाया है ( १७ ) | 
+उन उन पापों का प्रायश्चित्त दिखाया है ( १७ ) । 
 
-६१८ 
+[[६१८]]
 
 अपघात 
 
-करनेवालों की नारायणबली का विधान किया है ( २६ ) | इन पापों की शुद्धि के भिन्न भिन्न प्रकार के दान बताये हैं ( ३०-५१ ) । 
+करनेवालों की नारायणबली का विधान किया है ( २६ ) । इन पापों की शुद्धि के भिन्न भिन्न प्रकार के दान बताये हैं ( ३०-५१ ) । 
 
-|| स्मृतिसन्दर्भ प्रथम भाग की विषय-सूची समाप्त ॥ 
+॥ स्मृतिसन्दर्भ प्रथम भाग की विषय-सूची समाप्त ॥ 
 
-|| शुभम् ॥ 
+॥ शुभम् ॥ 
 
 -:::- 
 
----- 
 
-|| श्रीगणेशाय नमः ॥ 
+
+॥ श्रीगणेशाय नमः ॥ 
