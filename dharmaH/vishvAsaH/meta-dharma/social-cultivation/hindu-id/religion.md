@@ -3,6 +3,7 @@ title: Religion?
 ---
 
 ## Source of the problem
+- The Hindu ID is quite ancient.
 - Hinduism is not a single fully consistent theological system. Rather, it is a set of coexisting systems which acknowledge each others' deities and lore in various ways.
 - Conceptually, but not at a social/ higher level, it is wrong to bring Hinduism to the level of Christianity/ Islam etc..
   - Abrahamist diseases more easily map to subclasses of Hindu darshana-s
@@ -10,11 +11,15 @@ title: Religion?
   - mata-s such as advaita vedanta, dvaita-vedAnta + vaiShNavism, dvaita vedAnta + shaivism, bauddha-matas, Tao etc.. may be called darshana-s.
   - darshana-s may have certain dogma-s (although it may be more profitable to think of them as therapy). So, they share some commonality with religions.
 
+### Conversion argument
+If Hinduism is not a religion, what does it mean to "convert" from Hinduism to Islam or Christianity? Why did so many people prefer to die rather than do that?
+
 ### Similar questions elsewhere
 - Is [Confucianism](http://en.wikipedia.org/wiki/Confucianism) a religion? Is [Taoism](http://en.wikipedia.org/wiki/Taoism) a religion?
-- Japan:
-  - Compare with Japan ("the most religious atheist nation" - [gaijinpot](http://blog.gaijinpot.com/japan-religious-atheist-country/)), where a family of overlapping ritual performances that share ideas about reciprocity, self-sacrifice, and dependency pervade every level of society.
-  - "Shinto is more than just a religion - it's no more or less than the Japanese way of looking at the world. Because ritual rather than belief is at the heart of Shinto, Japanese people don't usually think of Shinto specifically as a religion - it's simply an aspect of Japanese life. ... " "Today many Japanese mix Buddhism and Shinto in their lives; something that can't be done with more exclusive religions like Christianity or Islam." - BBC on shintoism ([here](http://www.bbc.co.uk/religion/religions/shinto/beliefs/religion.shtml))
+- Japan ("the most religious atheist nation" - [gaijinpot](http://blog.gaijinpot.com/japan-religious-atheist-country/)), where a family of overlapping ritual performances that share ideas about reciprocity, self-sacrifice, and dependency pervade every level of society.
+
+> "Shinto is more than just a religion - it's no more or less than the Japanese way of looking at the world. Because ritual rather than belief is at the heart of Shinto, Japanese people don't usually think of Shinto specifically as a religion - it's simply an aspect of Japanese life. ... "  
+> "Today many Japanese mix Buddhism and Shinto in their lives; something that can't be done with more exclusive religions like Christianity or Islam." - BBC on shintoism ([here](http://www.bbc.co.uk/religion/religions/shinto/beliefs/religion.shtml))
   
 
 ## Is the hindu ethos a religion?
