@@ -27,7 +27,7 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </div>
 
 ### स्त्रीषु पुनर्-विवाहः
-#### मृते
+#### मृते, क्षतयोनौ
 पत्यौ मृते यथासम्भवं न स्यात् पुनर्-विवाह इति मनुः -
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/05/157_kAman_tu.md">
@@ -42,7 +42,9 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 
 तथापि विवाहान्तरं क्रियते चेत्, सा "**पुनर्-भूर्**" इति गर्हिता भवति। अयं द्वितीयः पतिः, तज्जातश् चापि गर्हितः।  
 
-#### अमृते क्षतयोनौ
+#### अमृते, क्षतयोनौ
+क्षता योनिः कस्याः? यस्यां लिङ्ग-प्रवशो जात इति प्राचीनाः। किञ्च, हेतुं विचार्य - यस्या अपत्यं न जातम् इति निश्चेतुं वरम्। 
+
 <div class="js_include" url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/046_na_niShkraya-visargAbhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
 **न** निष्क्रय-विसर्गाभ्यां  
@@ -74,6 +76,9 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 पञ्चस्व् आपत्सु नारीणां  
 पतिर् अन्यो विधीयते ॥ (न्स्म् १२.९७)
 
+> When the husband is absconding, dead, has renounced family life, has fallen (morally), or is eunuch, in these five unfortunate circumstances it is prescribed that a woman can choose another husband. (Parasara Smriti 4.30, Also occurs in Narada Smriti 12.97)
+
+
 इत्यत्र मेधातिथिर् आह -
 
 > तत्र पालनात् पतिम् अन्यम् आश्रयेत,  
@@ -86,7 +91,9 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 
 
 
-#### अमृते ऽक्षतयोनौ
+#### अक्षतयोनौ
+क्षतयोनित्वे विचारः "क्षतयोनाव्" इति विभागे द्रष्टव्यः।
+
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/176_sA_ched.md">
 <details open><summary><h3>176 सा चेद् ...{Loading}...</h3></summary>
@@ -98,32 +105,25 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </details>
 </div>
 
-> > In case she be still a virgin, or having gone away comes back, she is fit to undergo re-marriage with her second husband.
+> In case she be still a virgin, or having gone away comes back, she is fit to undergo re-marriage with her second husband.
 
+केचित् तु - 'दत्ताक्षतायाः कन्यायाः पुनर्दानं परस्य च ' इति कलियुगनिषिद्धकर्मसु विधीयते ।
 
 > उद्वाहितापि या कन्या  
 > न चेत् सम्प्राप्त-मैथुना।  
 > पुनःसंस्कारमर्हेत  
-> यथा कन्या तथैव सा॥ Narada Smriti 12.22
+> यथा कन्या तथैव सा॥  
+> Narada Smriti 12.22
 
 > In case she be a virgin though married, re-marriage is allowed. She is as good as a virgin..
 
-
-> नष्टे मृते प्रव्रजिते  
-> क्लीबे च पतिते पतौ।  
-> पञ्चापत्सुचनारीणां  
-> पतिरन्यो विधीयते ॥ 
-  
-> When the husband is absconding, dead, has renounced family life, has fallen (morally), or is eunuch, in these five unfortunate circumstances it is prescribed that a woman can choose another husband. (Parasara Smriti 4.30, Also occurs in Narada Smriti 12.97)
-
-
-> अद्भिर्वाचा च दत्तायां 
+> अद्भिर् वाचा च दत्तायां 
 > म्रियेताथो वरो यदि।  
 > न च मन्त्रोपनीता स्यात्  
 > कुमारी पितुरेव सा॥  
 > 
 > यावच्चोदाहृता कन्या  
-> मन्त्रैर्यदि न संस्कृता।  
+> मन्त्रैर् यदि न संस्कृता।  
 > अन्यस्मै विधिवद्देया  
 > यथा कन्या तथैव सा ॥  
 > Vasishtha Smriti 15.64-65
