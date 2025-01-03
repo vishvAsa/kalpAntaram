@@ -54,7 +54,7 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </details>
 </div>
 
-> In case she be still a virgin, or having gone away comes back, she is fit to undergo re-marriage with her second husband.
+> “Rāghavānada, relying on Yājñavalkya 2.130, thinks that the word ‘*vā*’ at the end of the first half-verse, permits the insertion of ‘or not a virgin.’”—Buhler.
 
 केचित् तु - 'दत्ताक्षतायाः कन्यायाः पुनर्दानं परस्य च ' इति कलियुगनिषिद्धकर्मसु विधीयते ।
 
