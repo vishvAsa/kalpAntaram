@@ -2193,4 +2193,6 @@ Krila and other secondary sons.
 
 661 
 
-Sunaḥsepa was a krita son. Svayandatta-Vas. (17. 33-35) says that Sunaḥsepa became the svayamdatta son of Viśvamitra as stated in the Ait. Br. (referred to above in n. 1244). Paunarbhava (the son of a punarbht pampide H. of Dh. vol. II. pp. 608-610 for the meaning of punarbhū and the remarriage of widows (pp. 611-621 ).
+Sunaḥsepa was a krita son. Svayandatta-Vas. (17. 33-35) says that Sunaḥsepa became the svayam-datta son of Viśvamitra as stated in the Ait. Br. (referred to above in n. 1244). 
+
+Paunarbhava (the son of a punarbht pampide H. of Dh. vol. II. pp. 608-610 for the meaning of punarbhū and the remarriage of widows (pp. 611-621 ).
