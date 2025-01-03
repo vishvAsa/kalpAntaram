@@ -15,8 +15,7 @@ The twice-born man who is performing the ‘Atikṛcchra’ shall eat only one m
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Mentioned before*.’—This refers to what has been said in connection
-with the ‘Prājāpatya.’
+‘*Mentioned before*.’—This refers to what has been said in connection with the ‘Prājāpatya.’
 
 At each of these times, he shall eat one mouthful.—(213)
 </details>

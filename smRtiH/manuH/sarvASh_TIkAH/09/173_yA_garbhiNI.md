@@ -13,8 +13,7 @@ If one marries, knowingly or unknowingly, a pregnant maiden, the child in her wo
 **(verses 9.173-178)  
 **
 
-\[The Bhāṣya on these verses is not available in any of the
-manuscripts.\]
+\[The Bhāṣya on these verses is not available in any of the manuscripts.\]
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

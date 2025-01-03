@@ -17,8 +17,7 @@ Bathing at the three Savanas, he shall offer libations to the gods and Pitṛs; 
 
 ‘*Upasparśana*’—means *bathing*.
 
-‘*Austerities*’— such as holding up the arms permanently, fasting during
-the whole month, or for twelve days, and so forth.
+‘*Austerities*’— such as holding up the arms permanently, fasting during the whole month, or for twelve days, and so forth.
 
 ‘*Harsher*’—what is calculated to cause greater suffering to the body.
 

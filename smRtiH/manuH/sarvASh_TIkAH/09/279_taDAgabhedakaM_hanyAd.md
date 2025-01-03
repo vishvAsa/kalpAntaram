@@ -25,15 +25,11 @@ If a man breaks open a tank, he shall be slain in the water, or by simple form o
 
 ‘*Tank*’—has been mentioned only by way of an illustration.
 
-The same thing applies to the ‘stealing’ of the water of a river
-also;—say some people.
+The same thing applies to the ‘stealing’ of the water of a river also;—say some people.
 
-This however is not right; because the harm done in the breaking of the
-tank is very great; and it is only slight in the case of the breaking of
-a river-dam.
+This however is not right; because the harm done in the breaking of the tank is very great; and it is only slight in the case of the breaking of a river-dam.
 
-The law here laid down applies also to the case of cutting the
-embankments of a tank.—(279)
+The law here laid down applies also to the case of cutting the embankments of a tank.—(279)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

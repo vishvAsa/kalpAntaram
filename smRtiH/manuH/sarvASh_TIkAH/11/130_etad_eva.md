@@ -15,19 +15,13 @@ He who kills a Śūdra shall perform this same entire penance for six months; or
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Here also, whether the performance shall continue for six months or nine
-months should he determined by the consideration as to whether the man
-was ‘righteous’ or otherwise.
+Here also, whether the performance shall continue for six months or nine months should he determined by the consideration as to whether the man was ‘righteous’ or otherwise.
 
-In all eases, the *giving of the prescribed number of cows* should be
-understood to be an optional alternative.
+In all eases, the *giving of the prescribed number of cows* should be understood to be an optional alternative.
 
-The mention of the ‘*Brāhmaṇa*’ (in 127) in this connection is meant to
-be only illustrative.
+The mention of the ‘*Brāhmaṇa*’ (in 127) in this connection is meant to be only illustrative.
 
-‘*White*’—does not mean *white in colour*, but pure in all points,
-giving much milk, prone to give birth to females, and not in the habit
-of losing her offsprings.—(130)
+‘*White*’—does not mean *white in colour*, but pure in all points, giving much milk, prone to give birth to females, and not in the habit of losing her offsprings.—(130)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

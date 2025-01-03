@@ -15,9 +15,7 @@ The act conducive to the Highest Good is as has been here fully declared. Now is
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse is intended to attract the attention of the Vedic scholar,
-and to arouse in his mind a special regard for what is going to be set
-forth.
+This verse is intended to attract the attention of the Vedic scholar, and to arouse in his mind a special regard for what is going to be set forth.
 
 ‘*Secret*’—hidden meaning.—(107)
 </details>

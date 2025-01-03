@@ -23,19 +23,9 @@ Because through the power of the seed, those born of animals became sages, honou
 
 ‘*Extolled*’—are eulogised with eulogistic words.
 
-‘*The seed is the more important*’;—as held by those who declare the
-seed to be the more, important factor. This however is not right; as has
-been dearly indicated by [what was said under 70
-above].
+‘*The seed is the more important*’;—as held by those who declare the seed to be the more, important factor. This however is not right; as has been dearly indicated by [what was said under 70 above].
 
-Or, what the expression ‘*through the power o* *f* *the* *seed*’ implies
-is, not the importance of the seed, but a defect;—the sense being
-that—‘people might be led to think that, the fact of Mandapāla and
-others, born of animals, having become sages *through the power of the
-seed*, proves the importance of the seed; but in reality, that the
-children became sages was due, not to the importance of the seed, but to
-the force of their learning and austerities and to their particularly
-meritorious acts.—(72)
+Or, what the expression ‘*through the power o* *f* *the* *seed*’ implies is, not the importance of the seed, but a defect;—the sense being that—‘people might be led to think that, the fact of Mandapāla and others, born of animals, having become sages *through the power of the seed*, proves the importance of the seed; but in reality, that the children became sages was due, not to the importance of the seed, but to the force of their learning and austerities and to their particularly meritorious acts.—(72)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

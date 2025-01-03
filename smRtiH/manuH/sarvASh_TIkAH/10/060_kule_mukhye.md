@@ -15,9 +15,7 @@ Even when one is born in a great family, if there be a confusion regarding his p
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-He imbibes the traits of the man who begot him, and not of him to whom
-the ‘soil’ belonged (*i.e*., his mother’s husband), who is known as his
-‘father.’—(60)
+He imbibes the traits of the man who begot him, and not of him to whom the ‘soil’ belonged (*i.e*., his mother’s husband), who is known as his ‘father.’—(60)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

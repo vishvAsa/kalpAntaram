@@ -27,16 +27,11 @@ When the husband has gone abroad after having provided for her subsistence, she 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Restraint*’—such as, avoiding the house of others, in the absence of
-her husband, as she does when he is present ‘*Devoted*’—fixed,
-observing.
+‘*Restraint*’—such as, avoiding the house of others, in the absence of her husband, as she does when he is present ‘*Devoted*’—fixed, observing.
 
-When he has gone without making provision for her, she should subsist by
-industries;—such as, spinning, lace-making and the like. The
-‘*objectionable*’ industries are the making of fans and such things.
+When he has gone without making provision for her, she should subsist by industries;—such as, spinning, lace-making and the like. The ‘*objectionable*’ industries are the making of fans and such things.
 
-These are the means of subsistence for widows, depending upon their own
-labour.—(75)
+These are the means of subsistence for widows, depending upon their own labour.—(75)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

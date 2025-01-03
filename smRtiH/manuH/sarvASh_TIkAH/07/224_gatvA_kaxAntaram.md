@@ -23,8 +23,7 @@ From the aforesaid room, he shall go to another apartment.
 
 ‘*Those people*’—the secret reporters and the rest.
 
-‘*By the women*’—maid-servants,—‘*surrounded*, *he shall again enter the
-inner apartment*’.— (224).
+‘*By the women*’—maid-servants,—‘*surrounded*, *he shall again enter the inner apartment*’.— (224).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

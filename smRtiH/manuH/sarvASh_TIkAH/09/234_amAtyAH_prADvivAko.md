@@ -18,15 +18,11 @@ If the councillors or the judge decide a case unfairly, that case the King himse
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The confiscation of property laid down above (under 231) was in
-connection with the taking of bribes; the present text deals with the
-miscarriage of justice through ignorance or such other causes.
+The confiscation of property laid down above (under 231) was in connection with the taking of bribes; the present text deals with the miscarriage of justice through ignorance or such other causes.
 
 ‘*Councillors*’— representatives of the King.
 
-‘*He shall fine him one thousand*’;—the sentence refers to the whole set
-of officers; just as by the sentence ‘the Gargas shall be fined one
-hundred’, the fine falls upon the whole community of ‘Gargas’.—(234)
+‘*He shall fine him one thousand*’;—the sentence refers to the whole set of officers; just as by the sentence ‘the Gargas shall be fined one hundred’, the fine falls upon the whole community of ‘Gargas’.—(234)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

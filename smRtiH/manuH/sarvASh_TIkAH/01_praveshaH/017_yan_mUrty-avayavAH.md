@@ -13,7 +13,6 @@ Because the six subtile components of the frame (of primordial matter) enter int
 The enlightened ones know the body of the primal entity that constitutes all existence as being framed by those six types of minute particles.
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 **मूर्तिः** शरीरम् । तदर्थास् तत्सम्पादका **अवयवाः** । **सूक्ष्माः** **षड्** उक्तस्वरूपाश् च अविशेषाख्याः । **तानीमानि** इन्द्रियाणि वक्ष्यमाणानि च भूतान्य् **आश्रयन्ति** । तस्योत्पत्तेर् भूतान्य् आश्रयन्तीत्य् उच्यते । तदाश्रयोत्पत्तिस् तेषाम् । पठितं च "पञ्चभ्यः पञ्च भूतानि" इति (साम्क् २२) । यद् येन कारणेनाश्रयन्ति तस्मात् कारणात् **शरीरं तस्य** प्रधानस्य येयं मूर्तिः **शरीरम् इत्य्** उच्यते । **मनीषिणः** । मनीषा बुद्धिस् तद्वन्तः पण्डीताः । अथ वा विपरीतः कर्तृभावः । सूक्ष्माः कर्तार इन्द्रियाणि कर्म । अवयवाश् चेन्द्रियाणाम् आश्रयभावं प्रतिपद्यमाना आश्रयन्तीत्य् उच्यते । यथा "बहुभिर् भुक्तः" इति भोजयन् भुक्त इत्य् उच्यते । अथ वानेकार्थत्वाद् धातूनां आश्रयन्ति जनयतीत्य् अर्थः ॥ १.१७ ॥
@@ -21,35 +20,12 @@ The enlightened ones know the body of the primal entity that constitutes all exi
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Frame*’—body; the ‘*components*’ of it are those things that
-constitute it; these are ‘*subtile*,’ the ‘*six*’ already described
-(*viz*.,the five Rudimentary Substances and the Principle of Egoism),
-which are called ‘*aviśeṣa*,’ the undifferentiated. —*Tāni
-āśrayanti*—*i.e*., the organs and the elemental substances going to be
-described ‘enter into’ the said components; which means that they are
-evolved out of them; *i.e*., the evolution of the organs &c., has for
-its substratum the six subtile components; this is what has been
-described in the words ‘the five elemental substances are produced out
-of the five Rudimentary Substances’ (*Sāṅkhya-Kārikā*, 22). Because they
-enter into them, therefore the ‘frame of that,’ *i.e*., of Primordial
-Matter,—has been described as ‘Body.’
+‘*Frame*’—body; the ‘*components*’ of it are those things that constitute it; these are ‘*subtile*,’ the ‘*six*’ already described (*viz*.,the five Rudimentary Substances and the Principle of Egoism), which are called ‘*aviśeṣa*,’ the undifferentiated. —*Tāni āśrayanti*—*i.e*., the organs and the elemental substances going to be described ‘enter into’ the said components; which means that they are evolved out of them; *i.e*., the evolution of the organs &c., has for its substratum the six subtile components; this is what has been described in the words ‘the five elemental substances are produced out of the five Rudimentary Substances’ (*Sāṅkhya-Kārikā*, 22). Because they enter into them, therefore the ‘frame of that,’ *i.e*., of Primordial Matter,—has been described as ‘Body.’
 
 *Manasviṇaḥ*, ‘*maṇīṣā*’ is *wisdom*; those possessed of wisdom are
 ‘*manasvins*,’ *i.e*., *the wise ones*.
 
-\[The above explanation makes ‘*tainīmāni*,’ the organs and substances,
-the nominative, and the ‘components’ the objective;—this construction is
-found to be incompatible with the nominative ending in ‘*avayavāḥ*,’
-‘*components*’; hence the *Bhāṣya* puts forward another construction,
-which has been adopted in the rendering of the text.\]—Or, the relation
-of the ‘nominative’ and ‘objective’ may be reversed: the ‘subtile
-components’ being the nominative, and the ‘organs’ the objective (of the
-verb ‘*āśrayanti*,’); the meaning of ‘*āśrayanti*,’ ‘enter into,’ being
-that the subtile components serve as the *substratum*—‘*āśraya*’—of the
-organs; just as in the phrase ‘he has been fed (upon) by many men,’ the
-man doing the *feeding* is spoken of as ‘fed.’—Or, since verbal roots
-may have several meanings, ‘*enter in*’ may be explained as
-‘produce.’—(17)
+\[The above explanation makes ‘*tainīmāni*,’ the organs and substances, the nominative, and the ‘components’ the objective;—this construction is found to be incompatible with the nominative ending in ‘*avayavāḥ*,’ ‘*components*’; hence the *Bhāṣya* puts forward another construction, which has been adopted in the rendering of the text.\]—Or, the relation of the ‘nominative’ and ‘objective’ may be reversed: the ‘subtile components’ being the nominative, and the ‘organs’ the objective (of the verb ‘*āśrayanti*,’); the meaning of ‘*āśrayanti*,’ ‘enter into,’ being that the subtile components serve as the *substratum*—‘*āśraya*’—of the organs; just as in the phrase ‘he has been fed (upon) by many men,’ the man doing the *feeding* is spoken of as ‘fed.’—Or, since verbal roots may have several meanings, ‘*enter in*’ may be explained as ‘produce.’—(17)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

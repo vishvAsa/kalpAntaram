@@ -17,8 +17,7 @@ Or, for the purpose of expiating Brāhmaṇa -slay ing, he shall walk eight hund
 
 ‘*Eating little*’—*i.e*., just enough to satisfy his hunger.
 
-‘*Controlling his senses*’—*i.e*.. leading a celibate life and not
-hankering after sensual objects.—(75)
+‘*Controlling his senses*’—*i.e*.. leading a celibate life and not hankering after sensual objects.—(75)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -23,12 +23,7 @@ The king shall make the Vaiśya and the Shudra carefully to perform their duties
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-By neglecting their own duties they would ‘*disturb*’—throw into
-confusion —‘*this world*.’ Hence the king should carefully see to it
-that they do not swerve from their duties. Even Vaiśyas should be
-punished, with a heavy fine, even on a slight transgression. Though
-there is to be no imprisonment for him, yet money-penalties are quite
-possible.—(418)
+By neglecting their own duties they would ‘*disturb*’—throw into confusion —‘*this world*.’ Hence the king should carefully see to it that they do not swerve from their duties. Even Vaiśyas should be punished, with a heavy fine, even on a slight transgression. Though there is to be no imprisonment for him, yet money-penalties are quite possible.—(418)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

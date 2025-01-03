@@ -21,8 +21,7 @@ The giver shall cut across his miseries by putting his foot upon the heads of th
 
 The fires are spoken of as ‘the Śūdra’s’ in the sense just explained.
 
-The whole of this section sets forth the evil effects arising from the
-transgression of the above-mentioned rules—(43)
+The whole of this section sets forth the evil effects arising from the transgression of the above-mentioned rules—(43)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

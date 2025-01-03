@@ -15,11 +15,9 @@ These same ‘Great Sacrifices’ he should offer, according to rule, with vario
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*These same*’—those that have been prescribed for the Householder;—‘*he
-should offer*’—perform.
+‘*These same*’—those that have been prescribed for the Householder;—‘*he should offer*’—perform.
 
-‘*According to rule*’;—this is a reiteration, for the purpose of filling
-up the metre.—(5).
+‘*According to rule*’;—this is a reiteration, for the purpose of filling up the metre.—(5).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,8 +19,7 @@ The man knowing the law shall divide the entire estate into ten parts, and then 
 
 ‘*Equitable*’—in accordance with law.
 
-On the strength of the declaration contained in the forthcoming verse
-some people do not accept the division mentioned above.—(152)
+On the strength of the declaration contained in the forthcoming verse some people do not accept the division mentioned above.—(152)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

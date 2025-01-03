@@ -19,11 +19,9 @@ Pure and with collected mind, he shall first place on the ground the accessories
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Accessories*’—the seasonings. The subsequent words are meant to
-describe the details of those—‘*soups and vegetables*, etc.,
+‘*Accessories*’—the seasonings. The subsequent words are meant to describe the details of those—‘*soups and vegetables*, etc.,
 
-‘*He should place*’—deposit—‘*on the ground*,’—not upon the wooden board
-and such other things.—(226)
+‘*He should place*’—deposit—‘*on the ground*,’—not upon the wooden board and such other things.—(226)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

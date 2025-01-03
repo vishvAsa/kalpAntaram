@@ -15,9 +15,7 @@ But for the King who deviates from it having no control over himself, his fame d
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘He who deviates’—swerves—from the aforesaid behaviour—and the reason
-for this is that he has ‘*no control over himself*’—*i.e*., who has not
-disciplined his mind in the manner prescribed in the scriptures.—(34)
+‘He who deviates’—swerves—from the aforesaid behaviour—and the reason for this is that he has ‘*no control over himself*’—*i.e*., who has not disciplined his mind in the manner prescribed in the scriptures.—(34)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

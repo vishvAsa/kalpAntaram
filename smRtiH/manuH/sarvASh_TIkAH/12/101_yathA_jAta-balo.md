@@ -15,8 +15,7 @@ Just as fire, having gained strength, burns even green trees, even so does the p
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-As in the preceding verse, so now also the construction of the words is
-quite easy, and their meaning is well-known.—101
+As in the preceding verse, so now also the construction of the words is quite easy, and their meaning is well-known.—101
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

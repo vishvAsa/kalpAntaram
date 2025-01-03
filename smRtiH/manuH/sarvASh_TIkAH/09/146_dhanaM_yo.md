@@ -23,8 +23,7 @@ This rule refers to the case where the dead brother was one who had separated fr
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Shall beget a child for that brother*’—*i.e*., by the mode
-of^(‘)authorisation.’
+‘*Shall beget a child for that brother*’—*i.e*., by the mode of^(‘)authorisation.’
 
 ‘*Shall give the property to that child*;’—nor to its mother.
 

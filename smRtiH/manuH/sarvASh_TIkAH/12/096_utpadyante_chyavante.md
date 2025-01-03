@@ -23,16 +23,12 @@ Those other (doctrines) which spring up and perish are all worthless and false, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Other*’—*i.e*., apart from the Veda;—‘*doctrines*’— teachings;—‘*which
-spring up and perish*,’—and because they spring up and perish, they are
+‘*Other*’—*i.e*., apart from the Veda;—‘*doctrines*’— teachings;—‘*which spring up and perish*,’—and because they spring up and perish, they are
 *not eternal*,—while the Veda is *eternal*.
 
-‘*Being of modern growths*’— having been propounded by some person of
-the present time,—‘*they are worthless*’—not productive of any
-transcendental result.
+‘*Being of modern growths*’— having been propounded by some person of the present time,—‘*they are worthless*’—not productive of any transcendental result.
 
-‘*Those other doctrines*’—which bear traces of being propounded by
-dissemblers, and such other signs.—(96)
+‘*Those other doctrines*’—which bear traces of being propounded by dissemblers, and such other signs.—(96)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

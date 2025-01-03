@@ -15,12 +15,9 @@ Nor what is offered without respect, nor improper meat, nor food belonging to a 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Offered without respect*,’—that which is given in a disrespectful
-maimer, to a person who deserves to be treated with respect. This does
-not refer to food that may be offered by friends and others.
+‘*Offered without respect*,’—that which is given in a disrespectful maimer, to a person who deserves to be treated with respect. This does not refer to food that may be offered by friends and others.
 
-‘*Improper meat*,’— which has been cooked for one’s own self, and is not
-the remnant of the worship of gods.
+‘*Improper meat*,’— which has been cooked for one’s own self, and is not the remnant of the worship of gods.
 
 ‘*Maleless female*,’— one who has neither husband nor son.
 

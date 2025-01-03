@@ -27,12 +27,9 @@ The king, punishing those who do not deserve to be punished, and not punishing t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The preceding verse was supplementary to the injunction regarding the
-consideration of the ‘motive’ and other things; while the present verse
+The preceding verse was supplementary to the injunction regarding the consideration of the ‘motive’ and other things; while the present verse
 *prohibits* the punishing of persons who are not guilty of any offence,
-and enjoins that of those who are guilty;—and this is emphasised because
-of the possibility of the king regarding punishment as futile and hence
-omitting to inflict it, which would lead to much evil.—(128)
+and enjoins that of those who are guilty;—and this is emphasised because of the possibility of the king regarding punishment as futile and hence omitting to inflict it, which would lead to much evil.—(128)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

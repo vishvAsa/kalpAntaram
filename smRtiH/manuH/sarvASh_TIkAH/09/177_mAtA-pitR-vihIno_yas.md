@@ -13,8 +13,7 @@ If a boy, being deprived of his parents, or being abandoned by them without caus
 **(verses 9.173-178)  
 **
 
-\[The Bhāṣya on these verses is not available in any of the
-manuscripts.\]
+\[The Bhāṣya on these verses is not available in any of the manuscripts.\]
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,8 +19,7 @@ After the death of the father and of the mother, the brothers, being assembled, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Shall divide*’—the affix denotes *propriety*. (*Further Bhāṣya* not
-available).
+‘*Shall divide*’—the affix denotes *propriety*. (*Further Bhāṣya* not available).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

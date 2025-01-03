@@ -15,8 +15,7 @@ He shall not go near a house that is filled by hermits, brāhmaṇas, birds, dog
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Filled*’—where many people have collected for the purpose of obtaining
-food,—to such a place he shall not go for alms.—(51)
+‘*Filled*’—where many people have collected for the purpose of obtaining food,—to such a place he shall not go for alms.—(51)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,11 +15,9 @@ If these persons pour the oblations, they sink into hell, as also the person to 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*These persons*’—The girl and the rest;—‘*sink’ into hell, if they pour
-the oblations*;
+‘*These persons*’—The girl and the rest;—‘*sink’ into hell, if they pour the oblations*;
 
-‘*The person*’—*i.e*., the person on whose behalf the oblations are
-poured.—(37)
+‘*The person*’—*i.e*., the person on whose behalf the oblations are poured.—(37)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

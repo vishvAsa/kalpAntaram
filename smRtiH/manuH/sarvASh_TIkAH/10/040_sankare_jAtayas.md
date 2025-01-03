@@ -15,20 +15,13 @@ These castes, proceeding from mixtures, have been described in relation to their
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ‘*occupations*’ that have been just described,—such as *dealing in
-bamboos* and so forth,—by means of these even the little known castes of
-the ‘*Sopāka*’ and the rest can be known.
+The ‘*occupations*’ that have been just described,—such as *dealing in bamboos* and so forth,—by means of these even the little known castes of the ‘*Sopāka*’ and the rest can be known.
 
-All these have been described through the character of their fathers and
-mothers.
+All these have been described through the character of their fathers and mothers.
 
-‘*Manifest or unmanifest*,’—they shall be known as belonging to those
-castes.
+‘*Manifest or unmanifest*,’—they shall be known as belonging to those castes.
 
-In the case of the ‘*Āyogavī*,’ the description was through the caste of
-the *mother*, and it was through that of the father in the case of the
-description of the ‘*Andhra*’ and the ‘*Meda*’ as born from the
-‘*Niṣāda*’ and the ‘*Vaidehaka*’ fathers respectively.—(40)
+In the case of the ‘*Āyogavī*,’ the description was through the caste of the *mother*, and it was through that of the father in the case of the description of the ‘*Andhra*’ and the ‘*Meda*’ as born from the ‘*Niṣāda*’ and the ‘*Vaidehaka*’ fathers respectively.—(40)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -17,9 +17,7 @@ If, with the intention of injuring a Brāhmaṇa, one has threatened him, he sha
 
 This is a prohibition of *threatening*; the rest is purely declamatory.
 
-‘*Jighāṃsayā*’—with the intention of injuring, if one raises a stick or
-some such weapon,—‘*he remains in hell for a hundred years*’;—and ‘*for
-one thousand years, if he has actually struck him*.’
+‘*Jighāṃsayā*’—with the intention of injuring, if one raises a stick or some such weapon,—‘*he remains in hell for a hundred years*’;—and ‘*for one thousand years, if he has actually struck him*.’
 
 ‘*With the intention of injuring*’—*i.e*., not in mere joke.—(200)
 </details>

@@ -9,7 +9,6 @@ One should not perform Śrāddha at night; for the night has been declared to be
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> चापराह्णविधानात्[^४९१] कुतो रात्र्यादिषु प्राप्तिः । अथ मतविशेषवचनेन,[^४९२] अन्यत्राप्य् अस्तीति ज्ञापितम् । सत्यम् । "पूर्वाह्णाद् अपराह्णो विशिष्यते" (म्ध् ३.१६८) इति यदपेक्षं विशेषवचनं तत्रैवास्तीति सामान्यज्ञानं प्रवर्तते । 
 
 
@@ -30,31 +29,14 @@ One should not perform Śrāddha at night; for the night has been declared to be
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 *Objection*—“Inasmuch as it has been laid down that *Śrāddhas* shall be
-performed in the afternoon, where was there any possibility of
-performance *at night* (that it should have been considered necessary to
-prohibit it)? It might be argued that the specification of the time
-itself implies the possibility of performance at other times also. This
-may be true; but the specification contained in the words, ‘the
-afternoon is preferable to the forenoon,’ (278) clearly indicates that
-the performance is possible only at that time, in comparison with which
-the prescribed time has been declared to be ‘preferable;’ so that the
-only other time at which the *Śrāddha* might be performed is the
+performed in the afternoon, where was there any possibility of performance *at night* (that it should have been considered necessary to prohibit it)? It might be argued that the specification of the time itself implies the possibility of performance at other times also. This may be true; but the specification contained in the words, ‘the afternoon is preferable to the forenoon,’ (278) clearly indicates that the performance is possible only at that time, in comparison with which the prescribed time has been declared to be ‘preferable;’ so that the only other time at which the *Śrāddha* might be performed is the
 *forenoon* (and never the *night*).”
 
-In answer to this, some people offer the following explanation:—The
-present text serves to prohibit the performance at night, which might be
-possible under the direction that Śrāddhas shall be performed during
-lunar and solar eclipses. So that there being *prohibition* regarding
-the twilights and the night, and *sanction* regarding lunar and solar
-eclipses, there is option between the. two twilights and the two
-eclipses, as also between the lunar eclipse and night.
+In answer to this, some people offer the following explanation:—The present text serves to prohibit the performance at night, which might be possible under the direction that Śrāddhas shall be performed during lunar and solar eclipses. So that there being *prohibition* regarding the twilights and the night, and *sanction* regarding lunar and solar eclipses, there is option between the. two twilights and the two eclipses, as also between the lunar eclipse and night.
 
-Others, however, have explained that ‘midday’ is a time different from
-both ‘afternoon’ and ‘forenoon;’ and the present prohibition implies
-that there should be no performance at that time also.
+Others, however, have explained that ‘midday’ is a time different from both ‘afternoon’ and ‘forenoon;’ and the present prohibition implies that there should be no performance at that time also.
 
-‘*When the sun has just risen*,’—the time being the forenoon, the
-prohibition applies to the first rising of the sun.
+‘*When the sun has just risen*,’—the time being the forenoon, the prohibition applies to the first rising of the sun.
 
 ‘*Fit for demons*’—this is a purely reiterative exaggeration.—(280).
 </details>

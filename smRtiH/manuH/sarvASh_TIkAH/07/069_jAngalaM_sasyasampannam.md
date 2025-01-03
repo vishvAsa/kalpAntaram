@@ -19,8 +19,7 @@ He shall take up residence in a country which is open, fully supplied with grain
 **(verse 6.67)  
 **
 
-‘*He*’—the ambassador;—‘in connection with the business of the king’,
-who is going to be marched against by his employer.—(67)
+‘*He*’—the ambassador;—‘in connection with the business of the king’, who is going to be marched against by his employer.—(67)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

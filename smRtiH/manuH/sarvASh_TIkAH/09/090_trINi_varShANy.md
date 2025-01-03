@@ -15,10 +15,7 @@ Having reached puberty, the maiden may wait for three years; after that time, sh
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Puberty*’— menstruation; after menstruation she may stay in her
-father’s house ‘*for three years*’; after that, in the event of a
-distinguished bridegroom not forthcoming, she shall choose a ‘*suitable
-husband*’— one who is her equal in caste.—(90)
+‘*Puberty*’— menstruation; after menstruation she may stay in her father’s house ‘*for three years*’; after that, in the event of a distinguished bridegroom not forthcoming, she shall choose a ‘*suitable husband*’— one who is her equal in caste.—(90)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

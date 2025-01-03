@@ -15,15 +15,11 @@ A twice-born person, having, through folly, drunk wine, shall drink wine red-hot
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Though the text speaks of ‘*twice-born men*,’ yet what is said here is
-meant for the Brāhmaṇa only; says another Smṛti text—‘Hot wine should be
-poured on the Brāhmaṇa’ (*Gautama*, 23.1).
+Though the text speaks of ‘*twice-born men*,’ yet what is said here is meant for the Brāhmaṇa only; says another Smṛti text—‘Hot wine should be poured on the Brāhmaṇa’ (*Gautama*, 23.1).
 
 ‘*Through folly*’—this is only explanatory.
 
-‘*Red hot*’— Though the text uses the word ‘*varṇa*’ *colour*, yet it is
-mere *heat* that is meant; as is clear from what follows, about ‘*the
-body being burnt*.’—(90)
+‘*Red hot*’— Though the text uses the word ‘*varṇa*’ *colour*, yet it is mere *heat* that is meant; as is clear from what follows, about ‘*the body being burnt*.’—(90)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

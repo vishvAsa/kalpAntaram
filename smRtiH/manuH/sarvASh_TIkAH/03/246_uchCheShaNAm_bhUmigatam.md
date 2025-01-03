@@ -15,9 +15,7 @@ At the rite in honour of the Pitṛs, the remnant fallen on the ground is regard
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The preceding verse has described the disposal of the remnant in the
-dishes; the present verse mentions the fact that the remnant fallen on
-the ground is for servants.
+The preceding verse has described the disposal of the remnant in the dishes; the present verse mentions the fact that the remnant fallen on the ground is for servants.
 
 ‘*Ajihma*’ means ‘*not dishonest*,’ ‘straightforward.’
 
@@ -25,8 +23,7 @@ the ground is for servants.
 
 Of such servants the said remnant is the share.
 
-For this reason, large quantities of food shall be served, so that, when
-the invited person is eating, something may fall on the ground.—(246)
+For this reason, large quantities of food shall be served, so that, when the invited person is eating, something may fall on the ground.—(246)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

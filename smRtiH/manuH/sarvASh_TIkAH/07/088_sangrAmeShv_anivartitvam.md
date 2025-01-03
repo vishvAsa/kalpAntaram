@@ -15,8 +15,7 @@ Not shrinking from battle, protecting the people, and attending on brāhmaṇas,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse is meant to show that the three duties here mentioned bring
-equal rewards.—(88)
+This verse is meant to show that the three duties here mentioned bring equal rewards.—(88)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

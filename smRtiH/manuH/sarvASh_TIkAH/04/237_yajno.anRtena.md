@@ -19,10 +19,7 @@ The sacrifice trickles away by falsehood, the austerity trickles away by vanity,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is supplementary to the foregoing Prohibition. By reason of
-‘falsehood,’ ‘*the sacrifice trickles away*’—*i e*., becomes fruitless;
-the purpose for which it was performed is not accomplished. Similarly,
-throughout the verse.—(237)
+This is supplementary to the foregoing Prohibition. By reason of ‘falsehood,’ ‘*the sacrifice trickles away*’—*i e*., becomes fruitless; the purpose for which it was performed is not accomplished. Similarly, throughout the verse.—(237)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -23,21 +23,15 @@ For the killing of animals with bones, he should give some trifle to a Brāhma�
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Some trifle*’ stands for a small thing—small in amount, in utility and
-in price.
+‘*Some trifle*’ stands for a small thing—small in amount, in utility and in price.
 
-According to the older writers the expiation here laid down is for the
-killing of a *single* animal.
+According to the older writers the expiation here laid down is for the killing of a *single* animal.
 
-As a matter of fact, there is no expiation at all for the killing of
-boneless animals.
+As a matter of fact, there is no expiation at all for the killing of boneless animals.
 
 ‘*Control of Breath*’ here stands for *self-control*.
 
-The killing of ‘insects and worms,’ which has been mentioned among
-‘defiling sins’ (under 11.70), is to be understood as referring to
-insects of large size,—the present verse referring to little insects as
-mosquitoes and the rest.—(141)
+The killing of ‘insects and worms,’ which has been mentioned among ‘defiling sins’ (under 11.70), is to be understood as referring to insects of large size,—the present verse referring to little insects as mosquitoes and the rest.—(141)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

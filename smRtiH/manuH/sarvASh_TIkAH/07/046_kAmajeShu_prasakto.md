@@ -17,11 +17,9 @@ _तानीदानीं व्यसनानि स्वनामतो �
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The deprivation of the soul is, in the former case, intervened by the
-deprivation of wealth and virtue.
+The deprivation of the soul is, in the former case, intervened by the deprivation of wealth and virtue.
 
-In the case of those arising from anger, he becomes deprived, of
-everything. This is the difference between the two sets (46)
+In the case of those arising from anger, he becomes deprived, of everything. This is the difference between the two sets (46)
 
 The said vices are now re-counted by name:—
 </details>

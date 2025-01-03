@@ -15,12 +15,9 @@ He shall also set up hidden boundary-marks,—seeing that in the world there are
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Other hidden marks*’—such as dry cowdung and the like. These the king
-shall set up when he is planning out new villages.
+‘*Other hidden marks*’—such as dry cowdung and the like. These the king shall set up when he is planning out new villages.
 
-In this manner, the boundary is never obliterated; otherwise outward
-marks might become obliterated by some cultivator ploughing the
-plot.—(249)
+In this manner, the boundary is never obliterated; otherwise outward marks might become obliterated by some cultivator ploughing the plot.—(249)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -21,11 +21,9 @@ Scales, weights and measures should be duly marked; and they should be re-examin
 
 ‘*Measures*’—whereby gold and other similar things are weighed.
 
-All this should be duly marked—with the royal sign—on all sides; the
-king should himself examine them and mark them with his own seal.
+All this should be duly marked—with the royal sign—on all sides; the king should himself examine them and mark them with his own seal.
 
-After every six months he should have them re-examined by his officers,
-so that no one might tamper with them.—(403)
+After every six months he should have them re-examined by his officers, so that no one might tamper with them.—(403)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

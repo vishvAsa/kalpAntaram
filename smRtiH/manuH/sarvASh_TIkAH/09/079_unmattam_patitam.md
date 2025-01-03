@@ -27,15 +27,11 @@ If, however, she shows aversion to one who is mad, or an outcast, or impotent, o
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Impotent*’ and ‘*seedless*’, both denote absence of manly vigour; the
-only difference is that while the former indicates *futility of the
-seed*, the latter implies *total absence of virility*.
+‘*Impotent*’ and ‘*seedless*’, both denote absence of manly vigour; the only difference is that while the former indicates *futility of the seed*, the latter implies *total absence of virility*.
 
-If a wife shows an aversion to such a husband, she is not to suffer
-punishment.
+If a wife shows an aversion to such a husband, she is not to suffer punishment.
 
-‘*Wresting*’—means *confiscation. Banishment, stopping of food* and such
-other punishments have been forbidden by other *Smṛti-texts*.—(79)
+‘*Wresting*’—means *confiscation. Banishment, stopping of food* and such other punishments have been forbidden by other *Smṛti-texts*.—(79)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

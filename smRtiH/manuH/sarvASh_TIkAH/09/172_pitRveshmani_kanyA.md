@@ -27,10 +27,7 @@ If a maiden secretly bears a son in her father’s house, that son, born of a ma
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse has been already explained before, and the shares to be
-allowed to him, along with the ‘adopted,’ ‘appointed’ and ‘cast off’
-sons have already been described before ([under
-132-135]).—(172)
+This verse has been already explained before, and the shares to be allowed to him, along with the ‘adopted,’ ‘appointed’ and ‘cast off’ sons have already been described before ([under 132-135]).—(172)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

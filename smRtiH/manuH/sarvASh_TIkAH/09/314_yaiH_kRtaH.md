@@ -19,9 +19,7 @@ Who could escape ruin after having provoked those by whom fire was rendered all-
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-With a view to confirm what has been said above this verse reiterates
-well-known stories relating to the greatness of the *Brāhmaṇa*. These
-stories are to be learnt from the *Mahābhārata*.—(314)
+With a view to confirm what has been said above this verse reiterates well-known stories relating to the greatness of the *Brāhmaṇa*. These stories are to be learnt from the *Mahābhārata*.—(314)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -17,9 +17,7 @@ All this expiation has been laid down for killing a Brāhmaṇa unintentionally;
 
 ‘*Killed*’—murdered.
 
-This verse has been already explained above as meant to indicate that
-the expiation for *intentional ‘Brāhmaṇa-* killing’ should be very
-heavy.—(89)
+This verse has been already explained above as meant to indicate that the expiation for *intentional ‘Brāhmaṇa-* killing’ should be very heavy.—(89)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

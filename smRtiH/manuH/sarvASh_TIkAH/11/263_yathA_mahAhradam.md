@@ -15,9 +15,7 @@ As a clod of earth, being thrown, becomes dissolved as soon as it gets into the 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Threefold*’—that which has three component factors; each Veda is
-regarded as the ‘component factor’ of another as all of them serve the
-same purpose.—(263)
+‘*Threefold*’—that which has three component factors; each Veda is regarded as the ‘component factor’ of another as all of them serve the same purpose.—(263)
 </details>
 
 <details><summary>भारुचिः</summary>

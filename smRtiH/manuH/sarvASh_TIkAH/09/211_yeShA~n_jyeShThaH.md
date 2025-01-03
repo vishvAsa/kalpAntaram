@@ -21,9 +21,7 @@ If the eldest or the youngest of the brothers should be deprived of his shares,�
 
 If among the brothers, ‘*the eldest or the youngest*’ brother ‘should be
 *deprived of his share*’—by being found to be debarred on account of
-having become an out-east or stone such disability,—or ‘*if he
-dies*’—‘*his share does not become lost*’;—how this share shall be
-disposed of is explained in the following verse.—(211)
+having become an out-east or stone such disability,—or ‘*if he dies*’—‘*his share does not become lost*’;—how this share shall be disposed of is explained in the following verse.—(211)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

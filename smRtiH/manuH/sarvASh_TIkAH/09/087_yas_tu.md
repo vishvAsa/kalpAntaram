@@ -15,10 +15,7 @@ While the wife of the same caste is alive, if through folly, one causes these du
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If a man gets all this done by ‘*another wife*’—one belonging to a
-different caste—while she of the same caste, is still living,—he, though
-a Brāhmaṇa, is as good as a ‘*Caṇḍāla*.’ This has been so held by the
-ancients.—(87)
+If a man gets all this done by ‘*another wife*’—one belonging to a different caste—while she of the same caste, is still living,—he, though a Brāhmaṇa, is as good as a ‘*Caṇḍāla*.’ This has been so held by the ancients.—(87)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

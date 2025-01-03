@@ -19,15 +19,9 @@ Viśvāmitra, expert in the knowledge of right and wrong, when tormented by hung
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Viśvāmitra is a well-known great sage. On one occasion, when he suffered
-much from hunger, ‘*he proceeded to eat the haunch of a dog, receiving
-it from the hands of a Carṇḍāla*.’
+Viśvāmitra is a well-known great sage. On one occasion, when he suffered much from hunger, ‘*he proceeded to eat the haunch of a dog, receiving it from the hands of a Carṇḍāla*.’
 
-The ‘*dog’s* *haunch*’ has been mentioned with a view to show that there
-is harm in the eating of not only such food as has been defiled, but
-also of that which is defective by its very nature;—the sense of the
-verse being that in times of distress one may take even such food as is
-tainted with all kinds of defects.—(108)
+The ‘*dog’s* *haunch*’ has been mentioned with a view to show that there is harm in the eating of not only such food as has been defiled, but also of that which is defective by its very nature;—the sense of the verse being that in times of distress one may take even such food as is tainted with all kinds of defects.—(108)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

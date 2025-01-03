@@ -27,10 +27,7 @@ Tired and tired, over again he should begin his operations; for fortune favours 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Man*’.—This shows that it is not only the King, but also the ordinary
-man who attains prosperity by exerting himself. This is what is meant by
-the saying—‘Even at the hands of death one should seek
-prosperity.’—(300)
+‘*Man*’.—This shows that it is not only the King, but also the ordinary man who attains prosperity by exerting himself. This is what is meant by the saying—‘Even at the hands of death one should seek prosperity.’—(300)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

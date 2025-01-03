@@ -15,8 +15,7 @@ Having voluntarily followed a dead person, whether he be a relation or not, he b
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Following*’—going after, intentionally. If he happen to follow it by
-chance, then he need not bathe with clothes on.
+‘*Following*’—going after, intentionally. If he happen to follow it by chance, then he need not bathe with clothes on.
 
 *Bathing*, *Touching of fire* and *Eating of clarified butter*,—all
 these *collectively* are the means of purification.—(102).

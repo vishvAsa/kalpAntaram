@@ -23,20 +23,13 @@ Endowed with beauty and the quality of goodness, possessing wealth, and fame, wi
 
 ‘*Possessing wealth*’—Wealthy.
 
-‘*Possessing fame*’—Well-known as possessing the qualities of learning,
-bravery, and so forth.
+‘*Possessing fame*’—Well-known as possessing the qualities of learning, bravery, and so forth.
 
-‘*With full enjoyment*’—*i.e*., supplied with sufficient quantities of
-such means of enjoyment as garlands, sandal-paint, music, vocal and
-instrumental, and so forth.
+‘*With full enjoyment*’—*i.e*., supplied with sufficient quantities of such means of enjoyment as garlands, sandal-paint, music, vocal and instrumental, and so forth.
 
-‘*Enjoyment*’ stands for non-separation from the above-mentioned means
-of enjoyment; and those for whom this is ‘full’—not deficient,
-complete—are said to be ‘with full enjoyment.’
+‘*Enjoyment*’ stands for non-separation from the above-mentioned means of enjoyment; and those for whom this is ‘full’—not deficient, complete—are said to be ‘with full enjoyment.’
 
-‘*Righteous*,’ ‘*dharmiṣṭha*’—*i.e*., engaged in the performance of
-righteous acts. The term ‘*dharma*,’ according to Some, is an adjective;
-and hence it has taken the superlative affix (‘*iṣṭha*’).
+‘*Righteous*,’ ‘*dharmiṣṭha*’—*i.e*., engaged in the performance of righteous acts. The term ‘*dharma*,’ according to Some, is an adjective; and hence it has taken the superlative affix (‘*iṣṭha*’).
 
 ‘*They live for a hundred years*’—(40)
 </details>

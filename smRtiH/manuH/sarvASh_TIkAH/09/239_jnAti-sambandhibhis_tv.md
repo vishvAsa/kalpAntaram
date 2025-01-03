@@ -17,13 +17,9 @@ Being branded, these shall be abandoned by Kinsmen and relations, deprived of al
 
 ‘*Branded*.’—This implies that branding must be done.
 
-No sympathy shall be extended to them, even when struck by disease or
-other calamities. Even though they be endowed with seniority and other
-qualifications, they shall not be received with greetings or any marks
-of honour or welcome.
+No sympathy shall be extended to them, even when struck by disease or other calamities. Even though they be endowed with seniority and other qualifications, they shall not be received with greetings or any marks of honour or welcome.
 
-That such is the law is to be directly learnt from the words of the text
-itself.—(239)
+That such is the law is to be directly learnt from the words of the text itself.—(239)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,11 +15,9 @@ Vedic Study, Austerity, Knowledge, Control of the Senses, Harmlessness, Service 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The term ‘*highest good*’ stands, not for the accomplishment of one’s
-personal ends, but for the sure continuity of happiness.
+The term ‘*highest good*’ stands, not for the accomplishment of one’s personal ends, but for the sure continuity of happiness.
 
-‘Vedic Study’ and other things, already described before, have been
-repeated here, for the purpose of eulogising the Knowledge of Self.
+‘Vedic Study’ and other things, already described before, have been repeated here, for the purpose of eulogising the Knowledge of Self.
 
 ‘*Knowledge*’—of what is contained in the Veda.
 

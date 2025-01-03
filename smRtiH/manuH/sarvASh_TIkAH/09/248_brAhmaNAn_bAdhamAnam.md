@@ -23,9 +23,7 @@ If a low-born person intentionally harasses a Brāhmaṇa, the King shall strike
 
 ‘*Harassing*’ consists in taking away the property, etc.
 
-The various forms of corporal punishment such as *beheading, branding,
-striking with the sword* and so forth,—all of which are ‘*terror
-striking*,’ sources of long suffering—(248)
+The various forms of corporal punishment such as *beheading, branding, striking with the sword* and so forth,—all of which are ‘*terror striking*,’ sources of long suffering—(248)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

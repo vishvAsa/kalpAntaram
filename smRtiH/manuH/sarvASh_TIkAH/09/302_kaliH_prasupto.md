@@ -17,12 +17,9 @@ Asleep, he represents ‘Kali;’ awake, the ‘Dvāpara’ cycle; ready to act,
 
 When he is ‘*asleep*’, inactive, he represents ‘*Kali*.’
 
-‘*Awake*’,—*i.e*., while knowing the means of his advancement, if he
-does not actually exert himself,—he is ‘*Dvāpara*.’ When he has made up
-his mind to act he is ‘*Tretā*.’
+‘*Awake*’,—*i.e*., while knowing the means of his advancement, if he does not actually exert himself,—he is ‘*Dvāpara*.’ When he has made up his mind to act he is ‘*Tretā*.’
 
-When he actually acts with a view to attaining success, in accordance
-with the scriptures, he is ‘*Kṛta*’.—(302)
+When he actually acts with a view to attaining success, in accordance with the scriptures, he is ‘*Kṛta*’.—(302)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

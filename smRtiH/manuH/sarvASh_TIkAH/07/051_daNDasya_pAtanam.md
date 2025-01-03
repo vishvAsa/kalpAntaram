@@ -15,8 +15,7 @@ In the set born of Anger,—Assault, Cruelty of speech and Misappropriation of p
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is well known that these three are worse than Tale-bearing and other
-vices.—(51)
+It is well known that these three are worse than Tale-bearing and other vices.—(51)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

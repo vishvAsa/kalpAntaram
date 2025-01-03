@@ -15,17 +15,13 @@ Taking what has not been given, unsanctioned killing, and intercourse with the w
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Accepting from unworthy people of what has not been given, and what is
-itself an impure thing.
+Accepting from unworthy people of what has not been given, and what is itself an impure thing.
 
 ^(‘)*Wives of others*’—includes unmarried maidens also.
 
-As against these there are—accepting proper gifts in the proper manner,
-protecting others and controlling of the organs.
+As against these there are—accepting proper gifts in the proper manner, protecting others and controlling of the organs.
 
-Thus has Action proceeding from Mind, Speech and Body, been described as
-being of^(‘)ten kinds’; and according as each of these is either ‘good’
-or ‘bad,’ we have *twenty* kinds.—(7)
+Thus has Action proceeding from Mind, Speech and Body, been described as being of^(‘)ten kinds’; and according as each of these is either ‘good’ or ‘bad,’ we have *twenty* kinds.—(7)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

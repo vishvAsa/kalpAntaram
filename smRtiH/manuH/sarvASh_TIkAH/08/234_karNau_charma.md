@@ -15,15 +15,13 @@ On the death of the animals, he shall make over to the owner their ears, skin, t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When, on the expiry of their lives, the animals have died, the ears and
-other limbs should be made over to the owner.
+When, on the expiry of their lives, the animals have died, the ears and other limbs should be made over to the owner.
 
 The ‘*concrete bile*’ is a powder obtained from the horns of cows.
 
 ‘*Bladder*’—is a particular part of the body.
 
-‘*Marks*’—such as ‘cleft ears’ and the like, which serve to distinguish
-the animals;—these should be pointed out.
+‘*Marks*’—such as ‘cleft ears’ and the like, which serve to distinguish the animals;—these should be pointed out.
 
 In this manner, does the keeper become absolved from blame.
 

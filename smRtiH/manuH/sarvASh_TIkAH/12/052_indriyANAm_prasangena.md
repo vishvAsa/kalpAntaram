@@ -31,14 +31,11 @@ Foolish men of the lowest class go through the vilest migratory states, in conse
 
 ‘*Not attending to duties*’— not doing what has been enjoined.
 
-All this is found only in the case of ‘*foolish*’ men; who are, on that
-account, called ‘*men of the lowest class*.’
+All this is found only in the case of ‘*foolish*’ men; who are, on that account, called ‘*men of the lowest class*.’
 
-These men ‘*go to*’—fall into—‘*the vilest migratory states*’—most
-despicable births.
+These men ‘*go to*’—fall into—‘*the vilest migratory states*’—most despicable births.
 
-In accordance with this general principle, the retribution of deeds is
-now explained.—(52)
+In accordance with this general principle, the retribution of deeds is now explained.—(52)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

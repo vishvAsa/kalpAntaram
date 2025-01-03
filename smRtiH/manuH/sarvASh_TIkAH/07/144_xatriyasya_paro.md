@@ -15,9 +15,7 @@ The protection of the people is the Kṣatriya’s highest duty; the King, who e
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The King who enjoys the fruit as it comes to him, ‘*becomes endowed with
-merit*’. Otherwise, if he did the protection of only those who helped
-him, he would incur sin.—(144)
+The King who enjoys the fruit as it comes to him, ‘*becomes endowed with merit*’. Otherwise, if he did the protection of only those who helped him, he would incur sin.—(144)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

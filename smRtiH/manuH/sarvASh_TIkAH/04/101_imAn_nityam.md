@@ -15,15 +15,9 @@ One who is studying the Veda should always avoid these days, as unfit for study;
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*These*’—*i.e*., those going to be described;—‘he shall avoid who is
-reading the Veda, as also the person who does the teaching.’ Inasmuch as
-the work of *teaching* is mentioned, the reading of the Veda for the
-purpose of repeating and getting up (the old lessons) is permitted (on
-the days specified).
+‘*These*’—*i.e*., those going to be described;—‘he shall avoid who is reading the Veda, as also the person who does the teaching.’ Inasmuch as the work of *teaching* is mentioned, the reading of the Veda for the purpose of repeating and getting up (the old lessons) is permitted (on the days specified).
 
-‘*Always*;’—*i.e*., not only after the performance of the
-‘*Utsarga*’-rite, but also during the four months and a half, following
-the ‘*Upākarma*’ rite.
+‘*Always*;’—*i.e*., not only after the performance of the ‘*Utsarga*’-rite, but also during the four months and a half, following the ‘*Upākarma*’ rite.
 
 ‘*Of pupils*’— this is only an explanatory reiteration.—(101)
 </details>

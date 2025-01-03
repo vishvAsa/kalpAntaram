@@ -23,14 +23,9 @@ In whatever life-stage he may be, the person who knows the true meaning of the V
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Union with Brahman*’—becoming one with Brahman, (*i.e*., attaining
-Brahman).
+‘*Union with Brahman*’—becoming one with Brahman, (*i.e*., attaining Brahman).
 
-‘*In whatever*’—*i.e*., even though he may not take to the several
-stages in the regular order. This is what has been referred to in such
-passages as—‘Brāhmaṇas, deviating from the regular path, pass on to the
-stage of the Mendicant immediately after passing through that of the
-Student.’—102
+‘*In whatever*’—*i.e*., even though he may not take to the several stages in the regular order. This is what has been referred to in such passages as—‘Brāhmaṇas, deviating from the regular path, pass on to the stage of the Mendicant immediately after passing through that of the Student.’—102
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

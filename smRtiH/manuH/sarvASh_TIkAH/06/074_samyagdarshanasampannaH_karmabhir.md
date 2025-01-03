@@ -21,19 +21,13 @@ Equipped with true insight, he is no longer fettered by his acts; but destitute 
 
 This describes the result of what has been just enjoined.
 
-‘*True insight*’—true knowledge of the Self, just described;
-‘*equipped*’ with this,—*i.e*., having obtained direct apprehension of
-it.
+‘*True insight*’—true knowledge of the Self, just described; ‘*equipped*’ with this,—*i.e*., having obtained direct apprehension of it.
 
-‘*Is not fettered by acts*’— does not fall into the cycle of births and
-deaths; since the past acts have become exhausted on account of their
-effects having been already experienced, and no fresh acts are done.
+‘*Is not fettered by acts*’— does not fall into the cycle of births and deaths; since the past acts have become exhausted on account of their effects having been already experienced, and no fresh acts are done.
 
 This does not mean that Liberation is attained by mere knowledge.
 
-He who is not endowed with the spiritual insight, taught in the Vedānta,
-and who is only given to the performance of acts, falls into the cycle
-of births and deaths.—(74)
+He who is not endowed with the spiritual insight, taught in the Vedānta, and who is only given to the performance of acts, falls into the cycle of births and deaths.—(74)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

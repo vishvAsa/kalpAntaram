@@ -15,18 +15,11 @@ The Kṣatriya, fallen in adverse circumstances, shall subsist by means of all t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*By means of all this*.’—This indicates that the selling of the
-interdicted commodities also is permitted for the *Kṣatriya*; the
-meaning being that—as for the Vaiśya so far the Kṣatriya also, there is
-nothing that should not be sold.
+‘*By means of all this*.’—This indicates that the selling of the interdicted commodities also is permitted for the *Kṣatriya*; the meaning being that—as for the Vaiśya so far the Kṣatriya also, there is nothing that should not be sold.
 
-But, even when renouncing his own proper occupation, ‘*he shall never
-think of arrogating to himself the higher occupations*’ of the Brāhmaṇa.
-That is, he should never even entertain the idea of having recourse to
-them.
+But, even when renouncing his own proper occupation, ‘*he shall never think of arrogating to himself the higher occupations*’ of the Brāhmaṇa. That is, he should never even entertain the idea of having recourse to them.
 
-‘*Adverse circumstances*’—ill-luck; that is *distress*; ‘*fallen in
-adverse circumstances*’—in distress.—(95)
+‘*Adverse circumstances*’—ill-luck; that is *distress*; ‘*fallen in adverse circumstances*’—in distress.—(95)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

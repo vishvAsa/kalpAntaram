@@ -25,12 +25,9 @@ _एतद् एव दर्शयति ।_
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘Settlement of the country’ and ‘building of forts’ as described under
-Discourse VII.;—having done these, the king shall remove the ‘thorns’;
-as this also is conducive to the ‘settlement’ of the Kingdom.
+‘Settlement of the country’ and ‘building of forts’ as described under Discourse VII.;—having done these, the king shall remove the ‘thorns’; as this also is conducive to the ‘settlement’ of the Kingdom.
 
-The term ‘thorn’ is applied to robbers and others who are a source of
-suffering to the people.—(252)
+The term ‘thorn’ is applied to robbers and others who are a source of suffering to the people.—(252)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

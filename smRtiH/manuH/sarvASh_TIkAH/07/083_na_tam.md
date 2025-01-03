@@ -15,11 +15,7 @@ Neither thieves, nor enemies take it away; nor does it perish; hence this inexha
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The wealth that is given away to *Brāhmaṇas*, that ‘no
-thieves’—forest-robbers—can take away; enemies also cannot take it. Nor
-does it become lost—either in the form of treasure buried underground,
-of which the exact position cannot be recalled, or in the form of
-security.—(83)
+The wealth that is given away to *Brāhmaṇas*, that ‘no thieves’—forest-robbers—can take away; enemies also cannot take it. Nor does it become lost—either in the form of treasure buried underground, of which the exact position cannot be recalled, or in the form of security.—(83)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

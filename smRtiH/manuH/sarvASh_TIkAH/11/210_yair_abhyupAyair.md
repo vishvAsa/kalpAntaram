@@ -9,7 +9,6 @@ I am now going to describe to you those methods, adopted by gods and sages and P
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> चोक्ता एवाभ्युपायाः- इह चान्द्रायणम्, इह प्राजाप्त्यम्, इह द्वादशवार्षिकम् इति । 
 
 - <u>सत्यम्</u> । संज्ञामात्रेण निर्दिष्टा । इह तु स्वरूपं सेतिकर्तव्यताकम् उच्यते । 
@@ -19,12 +18,9 @@ I am now going to describe to you those methods, adopted by gods and sages and P
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“The methods have been already described: ‘In such and such case it
-shall be the Cāndrāyaṇa,’ ‘in that the Prājāpatya,’ and ‘in that other
-the Twelve-year-long Penance,’ and so forth.”
+“The methods have been already described: ‘In such and such case it shall be the Cāndrāyaṇa,’ ‘in that the Prājāpatya,’ and ‘in that other the Twelve-year-long Penance,’ and so forth.”
 
-True; but they have been only named; it is now that they are going to
-have their forms and procedure described.
+True; but they have been only named; it is now that they are going to have their forms and procedure described.
 
 ‘*Abhyupāya*’ is the same as ‘*upāya*,’ ‘*method*.’
 
@@ -32,8 +28,7 @@ have their forms and procedure described.
 
 ‘*By gods*, *etc*.’—This is purely commendatory.
 
-‘*Man*.’—This term is used in order to show that what is spoken of
-pertains to all castes.—(210)
+‘*Man*.’—This term is used in order to show that what is spoken of pertains to all castes.—(210)
 </details>
 
 <details><summary>भारुचिः</summary>

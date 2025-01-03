@@ -15,15 +15,9 @@ He shall practise, to the best of his ability, charity and righteousness in conn
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Charity* and *Righteousness*’—in the form of tanks, etc; the compound
-being construed as a Copulative one. Or, it may.be explained as ‘the
-duty of *charity*;’ the mention of duty indicating the necessity of
-maintaining a cheerful disposition.
+‘*Charity* and *Righteousness*’—in the form of tanks, etc; the compound being construed as a Copulative one. Or, it may.be explained as ‘the duty of *charity*;’ the mention of duty indicating the necessity of maintaining a cheerful disposition.
 
-‘*Bhāvena*’—with the heart; ‘*parituṣṭena*’—cheerful, happy—‘*If he
-finds a suitable recipient*’, he shall offer gifts in connection with
-the observances that he keeps, as also in connection with the acts that
-he does outside the sacrificial altar.—(227)
+‘*Bhāvena*’—with the heart; ‘*parituṣṭena*’—cheerful, happy—‘*If he finds a suitable recipient*’, he shall offer gifts in connection with the observances that he keeps, as also in connection with the acts that he does outside the sacrificial altar.—(227)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

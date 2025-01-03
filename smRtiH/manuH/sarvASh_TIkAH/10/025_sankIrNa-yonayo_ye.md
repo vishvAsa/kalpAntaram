@@ -15,13 +15,9 @@ I am going to describe those persons of mixed origin who are born in the natural
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Connection*’ means *relationship*—of ‘natural’ sons with those of the
-‘inverse’ order, and also with others of the ‘natural’ order,—of sons of
-the ‘inverse’ order with other sons of the same kind as also with those
-of the ‘natural’ order.
+‘*Connection*’ means *relationship*—of ‘natural’ sons with those of the ‘inverse’ order, and also with others of the ‘natural’ order,—of sons of the ‘inverse’ order with other sons of the same kind as also with those of the ‘natural’ order.
 
-This verse serves to introduce the enumeration of the names in the
-following verses.—(25)
+This verse serves to introduce the enumeration of the names in the following verses.—(25)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

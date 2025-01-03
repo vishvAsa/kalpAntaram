@@ -17,8 +17,7 @@ Also various forms of torments, being devoured by ravens and owls, tortures from
 
 ‘*Karambha*’ is *morass*.
 
-‘*Kumbhīpāka*’—The men are thrust into jars and cooked, like food and
-other things.—(76)
+‘*Kumbhīpāka*’—The men are thrust into jars and cooked, like food and other things.—(76)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

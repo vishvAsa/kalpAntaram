@@ -15,11 +15,7 @@ She should not seek separation from her father, husband or sons: by separating, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ground for ‘disrepute’ would consist in the irregularity of her
-life; this is what is meant by the words ‘*would render both families
-disreputable*.’ This passage has to be explained as ‘By living or going
-about in other villages, apart from the persons mentioned, &c.,
-&c.’—(147).
+The ground for ‘disrepute’ would consist in the irregularity of her life; this is what is meant by the words ‘*would render both families disreputable*.’ This passage has to be explained as ‘By living or going about in other villages, apart from the persons mentioned, &c., &c.’—(147).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

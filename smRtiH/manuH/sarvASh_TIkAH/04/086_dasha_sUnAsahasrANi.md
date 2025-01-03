@@ -21,8 +21,7 @@ _अवयुत्यवादेन राजप्रतिग्रहे �
 
 ‘*Maintains*’—carries on for his own benefit.
 
-‘*Terrible*;’—it is frightful, as leading to hell, and other
-places.—(86)
+‘*Terrible*;’—it is frightful, as leading to hell, and other places.—(86)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,10 +15,7 @@ After all the assets and liabilities have been duly distributed, if something be
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Through ignorance, after the property, more or less, has been
-divided,—if something is discovered, it shall be equally divided; and in
-what is discovered after the division, there shall be no ‘preferential
-share’ for the eldest brother.—(218)
+Through ignorance, after the property, more or less, has been divided,—if something is discovered, it shall be equally divided; and in what is discovered after the division, there shall be no ‘preferential share’ for the eldest brother.—(218)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

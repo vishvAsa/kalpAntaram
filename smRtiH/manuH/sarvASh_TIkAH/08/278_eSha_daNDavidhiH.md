@@ -15,14 +15,11 @@ Thus the law relating to punishments in connection with verbal assaults been tru
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Physical assault*’—Causing suffering by physical hurt; the term
-‘*pāruṣya*’ (‘*hurt*’) has been used in the sense that ‘assault’ causes
-pain in the same manner as the thrusting of the thorn does.
+‘*Physical assault*’—Causing suffering by physical hurt; the term ‘*pāruṣya*’ (‘*hurt*’) has been used in the sense that ‘assault’ causes pain in the same manner as the thrusting of the thorn does.
 
 ‘*Law*’—*i.e*., rules relating to the details of punishment.
 
-This verse serves the purpose of summing up the foregoing section and
-introducing the next.—(278)
+This verse serves the purpose of summing up the foregoing section and introducing the next.—(278)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

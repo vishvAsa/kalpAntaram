@@ -21,10 +21,7 @@ The Brāhmaṇa or the mendicant who comes seeking for food, he shall entertain,
 
 ‘*On being permitted* *by* *the Brāhmaṇas*,’ busy with eating,
 
-‘*he shall entertain*,’ according to his ability, *i.e*., he shall
-honour them by offering food, or by giving alms in the proper manner.
-\[The permission of the invited Brāhmaṇas is essential, because\] on
-that day, the food has been cooked specially for them.—(243)
+‘*he shall entertain*,’ according to his ability, *i.e*., he shall honour them by offering food, or by giving alms in the proper manner. \[The permission of the invited Brāhmaṇas is essential, because\] on that day, the food has been cooked specially for them.—(243)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

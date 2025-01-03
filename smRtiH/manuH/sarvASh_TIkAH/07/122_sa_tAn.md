@@ -23,12 +23,9 @@ This officer shall always personally supervise in turn all those officers, and t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The officer delegated to the town shall ‘supervise’ those lords of
-villages, and in case of need, shall help them with his forces.
+The officer delegated to the town shall ‘supervise’ those lords of villages, and in case of need, shall help them with his forces.
 
-He shall al so ‘*thoroughly acquaint himself with*’—find but all
-about—the behaviour of those officers;—through whom?—‘*through the
-King’s spies*’, disguised as a pilgrim etc.—(122)
+He shall al so ‘*thoroughly acquaint himself with*’—find but all about—the behaviour of those officers;—through whom?—‘*through the King’s spies*’, disguised as a pilgrim etc.—(122)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,14 +15,9 @@ If a Brāhmaṇa, possessed of wealth, does not give a ‘prājāpatya’ horse 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In connection with the Fire-laying rite, a horse is to be given as the
-‘fee.’ the term ‘*prājāpatya*’ is added for the purpose of eulogising
-the horse. Or, the term may be taken to mean ‘neither very good nor very
-bad,’ in which sense ordinary men use the name ‘*prajāpati*.’
+In connection with the Fire-laying rite, a horse is to be given as the ‘fee.’ the term ‘*prājāpatya*’ is added for the purpose of eulogising the horse. Or, the term may be taken to mean ‘neither very good nor very bad,’ in which sense ordinary men use the name ‘*prajāpati*.’
 
-‘*Possessed of wealth*.’—This means that if the man does not give the
-fee, on account of his not possessing wealth,—then he does become
-regarded as one who has laid the Fires.—(38)
+‘*Possessed of wealth*.’—This means that if the man does not give the fee, on account of his not possessing wealth,—then he does become regarded as one who has laid the Fires.—(38)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

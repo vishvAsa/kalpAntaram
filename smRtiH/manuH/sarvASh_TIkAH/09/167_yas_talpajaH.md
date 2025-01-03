@@ -15,8 +15,7 @@ If a son is born of the wife of a man, either dead or impotent or diseased, by o
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Diseased*’—*i.e*., suffering from some incurable disease, such as:
-consumption and the like.
+‘*Diseased*’—*i.e*., suffering from some incurable disease, such as: consumption and the like.
 
 The rest is quite clear.—(167)
 </details>

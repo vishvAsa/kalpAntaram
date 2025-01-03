@@ -15,10 +15,7 @@ The Brāhmaṇa is called the root of righteousness, and the Kṣatriya its top;
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is a declamatory statement in support of the injunction that—‘the
-man should confess his guilt on the occasion of the performance of the
-Horse-sacrifice, where Brāhmaṇas, in the shape of the Priests, and
-Kṣatriya, in the shape of the sacrificer, come together.’—(83)
+This is a declamatory statement in support of the injunction that—‘the man should confess his guilt on the occasion of the performance of the Horse-sacrifice, where Brāhmaṇas, in the shape of the Priests, and Kṣatriya, in the shape of the sacrificer, come together.’—(83)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

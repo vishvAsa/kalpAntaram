@@ -15,9 +15,7 @@ O Best or Brāhmaṇas, thus has been described to you the purification necesssa
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The two halves of this verse are meant to serve respectively the purpose
-of recapitulating what has gone before and introducing what is to
-come.—(99).
+The two halves of this verse are meant to serve respectively the purpose of recapitulating what has gone before and introducing what is to come.—(99).
 </details>
 
 <details><summary>Bühler</summary>

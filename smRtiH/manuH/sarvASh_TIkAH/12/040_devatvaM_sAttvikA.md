@@ -15,8 +15,7 @@ Those partaking of ‘Sattva’ reach the state of the gods, those endowed with 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse indicates in general the states of existence brought about by
-the three qualities.—(40)
+This verse indicates in general the states of existence brought about by the three qualities.—(40)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

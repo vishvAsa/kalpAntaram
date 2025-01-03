@@ -15,8 +15,7 @@ In this world, between the son’s son and the daughter’s son there is no diff
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is a declamatory supplement to what has gone before. “Why is there
-no difference?”
+This is a declamatory supplement to what has gone before. “Why is there no difference?”
 
 ‘*Because the father and mother etc*., *etc*’—(133)
 </details>

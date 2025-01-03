@@ -17,9 +17,7 @@ The property of persons given to perform sacrifices the learned regard as ‘the
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This also is a declamatory declaration in support of the teaching that
-‘no property shall be taken from men possessed of good qualities, but
-there is no harm if it is taken from those devoid of qualities.’—(20)
+This also is a declamatory declaration in support of the teaching that ‘no property shall be taken from men possessed of good qualities, but there is no harm if it is taken from those devoid of qualities.’—(20)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

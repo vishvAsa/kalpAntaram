@@ -15,8 +15,7 @@ In doubtful cases he should try to obtain it without artifice and in a friendly 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-(This verse, as also the *Bhāṣya* on it is wanting in *Mandalik, S, N
-and I. O*.)
+(This verse, as also the *Bhāṣya* on it is wanting in *Mandalik, S, N and I. O*.)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

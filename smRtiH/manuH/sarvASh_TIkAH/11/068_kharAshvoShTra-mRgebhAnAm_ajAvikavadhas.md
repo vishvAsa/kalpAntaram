@@ -15,11 +15,9 @@ The killing of an ass, of a horse, of a camel, of a deer, of an elephant, of a g
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Deer*’—stands for such wilder varieties as the ‘*Ruru*’ the ‘*Pṛṣata*’
-and the like.
+‘*Deer*’—stands for such wilder varieties as the ‘*Ruru*’ the ‘*Pṛṣata*’ and the like.
 
-‘*Ibha*’—is *elephant*. Though the elephant also is a kind of ‘*mṛga*,’
-yet it has been mentioned separately as being, among tame animals.
+‘*Ibha*’—is *elephant*. Though the elephant also is a kind of ‘*mṛga*,’ yet it has been mentioned separately as being, among tame animals.
 
 ‘*Mīna*’—fish.
 

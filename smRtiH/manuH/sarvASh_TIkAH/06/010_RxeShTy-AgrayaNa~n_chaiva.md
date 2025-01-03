@@ -15,12 +15,9 @@ He shall perform the Darśeṣṭi and the Āgrayaṇa; as also the Cāturmāsya
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Darśeṣṭyāgrayaṇam* is a copulative compound consisting of the two
-terms ‘*darśeṣṭi*’ and ‘*āgrayaṇā*’. ‘*Caturmāsya*’, ‘*Turāyaṇa*’ and
-‘*Dākṣayaṇa*’ are the names of particular *śrauta* rites.
+‘*Darśeṣṭyāgrayaṇam* is a copulative compound consisting of the two terms ‘*darśeṣṭi*’ and ‘*āgrayaṇā*’. ‘*Caturmāsya*’, ‘*Turāyaṇa*’ and ‘*Dākṣayaṇa*’ are the names of particular *śrauta* rites.
 
-According to some people the performance of the *Turāyaṇa* and the rest
-is obligatory—(10).
+According to some people the performance of the *Turāyaṇa* and the rest is obligatory—(10).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

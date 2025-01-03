@@ -21,17 +21,13 @@ _तथा च वक्ष्यते ।_
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Base-born*’—in the natural as well as the inverse order. ‘*Born of
-transgression*,’—the distinction between these and the former is like
-that between the ‘*go*’ (General term) and the ‘*balīvarda*’ (Particular
-term).
+‘*Base-born*’—in the natural as well as the inverse order. ‘*Born of transgression*,’—the distinction between these and the former is like that between the ‘*go*’ (General term) and the ‘*balīvarda*’ (Particular term).
 
 ‘*Services*’—menial duties—for the benefit of ‘twice-born’ persons.
 
 ‘*Subsist*’—maintain themselves.
 
-‘*Lowly*’—because of their menial character.—These are going to be
-described.—(46)
+‘*Lowly*’—because of their menial character.—These are going to be described.—(46)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

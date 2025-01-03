@@ -17,10 +17,7 @@ As they, on being questioned in fairness, declare the marks of boundary-lines be
 
 Construe ‘*dharmeṇa*,’ ‘*in fairness*’ with ‘*pṛṣṭāḥ*,’ ‘*questioned*.’
 
-‘*Sīmāsandhi*’ is to be construed as an appositional compound—that
-‘*sandhi*,’ ‘line,’ which is the ‘*sīmā*,’ ‘boundary.’—The ‘line’
-representing the point where two villages meet, and this being what is
-meant by ‘boundary.’
+‘*Sīmāsandhi*’ is to be construed as an appositional compound—that ‘*sandhi*,’ ‘line,’ which is the ‘*sīmā*,’ ‘boundary.’—The ‘line’ representing the point where two villages meet, and this being what is meant by ‘boundary.’
 
 ‘*Mark*’—indicative.—(261)
 </details>

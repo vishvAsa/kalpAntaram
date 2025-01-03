@@ -15,16 +15,11 @@ All the castes would become corrupt, all barriers would be broken through, and t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Mistakes regarding punishment*’—*i.e*., its non-infliction, or its
-infliction in an unlawful manner. If there were any such, then ‘*all the
-castes would become corrupt*’; as unrestricted intercourse would lead to
-a confusion of castes.
+‘*Mistakes regarding punishment*’—*i.e*., its non-infliction, or its infliction in an unlawful manner. If there were any such, then ‘*all the castes would become corrupt*’; as unrestricted intercourse would lead to a confusion of castes.
 
-‘*Barriers*’— bounds—‘*would be broken through*’;—all restrictions would
-disappear; *Brāhmaṇas* would behave like *Śūdras* and *Śūdras* like
+‘*Barriers*’— bounds—‘*would be broken through*’;—all restrictions would disappear; *Brāhmaṇas* would behave like *Śūdras* and *Śūdras* like
 *Brāhmaṇas*. In this manner ‘*there would be disruption among all
-regions*;—*i.e*., the three regions would not help each other by
-imparting rain, heat and the rest.—(24)
+regions*;—*i.e*., the three regions would not help each other by imparting rain, heat and the rest.—(24)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

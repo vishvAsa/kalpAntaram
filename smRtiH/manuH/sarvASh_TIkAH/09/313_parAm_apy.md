@@ -15,10 +15,7 @@ Even when fallen in the deepest distress, the king shall not provoke the Brāhma
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Even when a, King with a depleted treasury has a heavy indemnity levied
-by a powerful enemy,—even in such a distress, he shall not draw upon the
-wealth of the *Brāhmaṇa*; nor are they to be provoked to anger by any
-marks of disrespect etc.—(313)
+Even when a, King with a depleted treasury has a heavy indemnity levied by a powerful enemy,—even in such a distress, he shall not draw upon the wealth of the *Brāhmaṇa*; nor are they to be provoked to anger by any marks of disrespect etc.—(313)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -27,11 +27,7 @@ When a man, sick or well, does not get the stipulated work done, he shall not re
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If the employer does not dismiss the man, when he has fallen ill, after
-having paid off his wages for the part of the work done,—then he should,
-after recovery, be made to finish the work. But if the employer should
-say—‘I have no work for you,’ then he should receive his wages in
-accordance with the part of the work that he may have done.—(217)
+If the employer does not dismiss the man, when he has fallen ill, after having paid off his wages for the part of the work done,—then he should, after recovery, be made to finish the work. But if the employer should say—‘I have no work for you,’ then he should receive his wages in accordance with the part of the work that he may have done.—(217)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

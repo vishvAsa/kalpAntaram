@@ -15,8 +15,7 @@ The woman, who, through failure in her duty to her husband, becomes an object of
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-For these reasons, the woman shall not fail in her duty to her
-husband,—either with a view to worldly or heavenly joys.—(162).
+For these reasons, the woman shall not fail in her duty to her husband,—either with a view to worldly or heavenly joys.—(162).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

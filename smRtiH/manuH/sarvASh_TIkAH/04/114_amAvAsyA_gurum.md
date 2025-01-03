@@ -15,11 +15,7 @@ The Moonless Day destroys the Teacher, the Fourteenth Day destroys the pupil, an
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This a commendatory supplement to the foregoing rule, and it is meant to
-show its obligatory character. Hence, in cases where there is nothing to
-indicate the obligatory character of the rule, the treating of the
-occasion as unfit for study is meant to be optional. The Author himself
-is going to add (in 127 below)—‘he shall always avoid two only.’
+This a commendatory supplement to the foregoing rule, and it is meant to show its obligatory character. Hence, in cases where there is nothing to indicate the obligatory character of the rule, the treating of the occasion as unfit for study is meant to be optional. The Author himself is going to add (in 127 below)—‘he shall always avoid two only.’
 
 ‘*These he shall avoid*’—for purposes of Vedic study.—(114).
 </details>

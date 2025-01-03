@@ -23,9 +23,7 @@ On women, boys, men out of their minds, the old, the poor and the sick, the king
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Punishment*’.—The persons meant, here are such poor people as are
-incapable of doing labour. As these would stand on the same footing as
-the ‘great sinners’, they shall be chastised with the creeper etc.
+‘*Punishment*’.—The persons meant, here are such poor people as are incapable of doing labour. As these would stand on the same footing as the ‘great sinners’, they shall be chastised with the creeper etc.
 
 ‘*Śiphā*’ is *creeper*, and ‘*vidala*’—*tree-bark*.—(230)
 </details>

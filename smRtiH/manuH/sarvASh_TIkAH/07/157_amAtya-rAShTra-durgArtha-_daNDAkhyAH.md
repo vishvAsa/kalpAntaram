@@ -15,9 +15,7 @@ There are five others, (1) the minister, (2) the kingdom, (3) the fortress, (4) 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ‘minister’ and the rest are five other components of the circle,
-pertaining to each of the twelve aforesaid components. The total thus
-comes to be *six* times *twelve*, *i.e*., *seventy* - *two*.—(157)
+The ‘minister’ and the rest are five other components of the circle, pertaining to each of the twelve aforesaid components. The total thus comes to be *six* times *twelve*, *i.e*., *seventy* - *two*.—(157)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

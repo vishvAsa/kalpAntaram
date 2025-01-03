@@ -23,11 +23,9 @@ Sanguinary persons become carnivorous animals; the eaters of impure food become 
 
 ‘*Eaters of impure food become worms*.’
 
-‘*Creatures consuming their own kind*’—such as big cats devour smaller
-eats, and large fishes devour smaller fishes of various kinds.
+‘*Creatures consuming their own kind*’—such as big cats devour smaller eats, and large fishes devour smaller fishes of various kinds.
 
-‘*Those who have intercourse with women of the lowest caste*’—such as
-the ‘*Barbara*’ and other castes.—(59)
+‘*Those who have intercourse with women of the lowest caste*’—such as the ‘*Barbara*’ and other castes.—(59)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -15,9 +15,7 @@ Mechanics and Artisans, as also shudras who subsist by bodily labour,—the King
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Those who live by any kind of art he shall make work for him one day
-each month;—as also those who ‘*subsist by bodily labour*’—*i.e*., those
-śūdras who carry loads &c.—(138)
+Those who live by any kind of art he shall make work for him one day each month;—as also those who ‘*subsist by bodily labour*’—*i.e*., those śūdras who carry loads &c.—(138)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

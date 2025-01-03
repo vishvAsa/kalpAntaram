@@ -13,7 +13,6 @@ At a time when the people were without a King, and were utterly perturbed throug
 The king is the embodiment of the eternal essences of indra, vAyu (anila), yama, surya (arka), agni, varuNa, chandra and kubera (vittesha).
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 **अनिलो** वायुः । **वित्तेशो** धनपतिर् वैश्रवणः । **मात्रा** अवयवाः । **शाश्वतीः** सारभूताः । **निर्हृत्य** निष्कृष्य ॥ ७.४ ॥

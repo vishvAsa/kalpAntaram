@@ -23,11 +23,7 @@ Persons who have been disgraced, animals, and particularly women betray secret p
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Disgraced*’,—fallen from honour. Such despicable persons, as also
-other paltry men, even when not disgraced, might hear something, and
-might be able to utter a few syllables; and this would lead to the
-disclosure of the secret; as, from the slightest hints, clever men are
-capable of drawing important inferences.—(150)
+‘*Disgraced*’,—fallen from honour. Such despicable persons, as also other paltry men, even when not disgraced, might hear something, and might be able to utter a few syllables; and this would lead to the disclosure of the secret; as, from the slightest hints, clever men are capable of drawing important inferences.—(150)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -17,9 +17,7 @@ For the Vaiśya also these three should cease,—such is the law; since Prajāpa
 
 The sense of this is explained by what has gone before.
 
-‘*Those two*’—The Kṣatriya and the Vaiśya; for these two, manu Prajāpati
-has not prescribed the three duties of Teaching and the rest; *i.e*., he
-has not declared these to be the duties belonging to them.—(78)
+‘*Those two*’—The Kṣatriya and the Vaiśya; for these two, manu Prajāpati has not prescribed the three duties of Teaching and the rest; *i.e*., he has not declared these to be the duties belonging to them.—(78)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

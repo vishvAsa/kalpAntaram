@@ -19,8 +19,7 @@ Kings, Kṣatriyas, priests of kings, and leading wranglers and warriors represe
 
 ‘*Kṣatriyas*’—feudatories living under the king.
 
-‘*Leading wranglers*’—those who carry on discussions on scientific
-subjects.
+‘*Leading wranglers*’—those who carry on discussions on scientific subjects.
 
 ‘*Leading warriors*’—soldiers.—(46)
 </details>

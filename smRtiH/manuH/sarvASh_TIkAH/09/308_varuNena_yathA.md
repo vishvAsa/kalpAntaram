@@ -23,8 +23,7 @@ As one is always found bound up with ropes by Varuṇa, even so shall the king p
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Without distinction, all offenders should be punished, and not allowed
-to escape.—(308)
+Without distinction, all offenders should be punished, and not allowed to escape.—(308)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

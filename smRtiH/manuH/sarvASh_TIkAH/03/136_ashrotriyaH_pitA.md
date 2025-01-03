@@ -15,8 +15,7 @@ If a father happen to be ignorant of the Veda, whose son is thoroughly versed in
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse is intended to propound a doubt (as to which of the two is
-superior).—(136)
+This verse is intended to propound a doubt (as to which of the two is superior).—(136)
 </details>
 
 <details><summary>Bühler</summary>

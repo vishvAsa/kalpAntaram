@@ -18,8 +18,7 @@ On having had intercourse with one’s sister born of his father’s sister, or 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Sister born of the father’s sister*’—is the daughter of the father’s
-sister; similarly the daughter of the mother’s sister.
+‘*Sister born of the father’s sister*’—is the daughter of the father’s sister; similarly the daughter of the mother’s sister.
 
 ‘*Mother’s brother*’— maternal uncle.
 

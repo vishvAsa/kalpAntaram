@@ -21,12 +21,9 @@ Thus has been described the entire thrice threefold migratory process pertaining
 
 ‘*Threefold*’—as divided into ‘good,’ ‘bad,’ and ‘middling.’
 
-Those other ‘states’ that may not have been mentioned here are to be
-understood as resembling, and hence included among, those already
-mentioned.
+Those other ‘states’ that may not have been mentioned here are to be understood as resembling, and hence included among, those already mentioned.
 
-This verse sums up the section on the *Three Qualities*; and the next is
-indicative of what is to follow.—(51)
+This verse sums up the section on the *Three Qualities*; and the next is indicative of what is to follow.—(51)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

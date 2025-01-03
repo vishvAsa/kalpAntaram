@@ -19,14 +19,10 @@ Taking cow’s urine, cow-dung, milk, curds, clarified butter, kuśa-water, and 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-They say that on one day there should be a combination of *cow’s urine*
-and other tilings down to ‘*Kuśa-water*’; and this is to be followed by
+They say that on one day there should be a combination of *cow’s urine* and other tilings down to ‘*Kuśa-water*’; and this is to be followed by
 *fastingy for one ḍay*. Thus the ‘*Sāntapana*’ lasts for two days.
 
-Others hold that each of the things named has to be eaten on one day,—as
-no combination is found mentioned anywhere;—and according to this view,
-the ‘*Sāntapana*’ would last for *seven days*. Both these views have
-been held by another *Smṛti text*.—(212)
+Others hold that each of the things named has to be eaten on one day,—as no combination is found mentioned anywhere;—and according to this view, the ‘*Sāntapana*’ would last for *seven days*. Both these views have been held by another *Smṛti text*.—(212)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

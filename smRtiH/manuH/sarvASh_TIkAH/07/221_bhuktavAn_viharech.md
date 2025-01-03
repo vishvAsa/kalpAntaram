@@ -19,17 +19,11 @@ Having dined, he shall amuse himself in the inner apartment, in the company of t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In that same inner apartment, he shall, with a view to divert himself,
-sport, as long as it pleases him, with the ‘*ladies*’,—his newly-wed
-wives.
+In that same inner apartment, he shall, with a view to divert himself, sport, as long as it pleases him, with the ‘*ladies*’,—his newly-wed wives.
 
-‘*In due time*’—*i.e*. after such time as is proper for such diversion;
-this is to be construed with what follows.
+‘*In due time*’—*i.e*. after such time as is proper for such diversion; this is to be construed with what follows.
 
-‘*Having amused himself*’—*i.e*. after having shaken off his
-fatigue;—‘*he shall*’—either alone by himself, or in the company of
-ministers,—‘*ugain attend to*’ such business as may present
-itself.—(221)
+‘*Having amused himself*’—*i.e*. after having shaken off his fatigue;—‘*he shall*’—either alone by himself, or in the company of ministers,—‘*ugain attend to*’ such business as may present itself.—(221)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,11 +19,7 @@ They care not for beauty; they have no regard for age; be he handsome or ugly, t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The husband should not labour under the vain hope—‘I am well favoured,
-handsome and young, how can my wife desire any other man, having
-me?’;—because women do not take into consideration the fact of a man
-being ‘handsome’ or ‘brave’; simply because he happens to be a male,
-they have recourse to him.—(14)
+The husband should not labour under the vain hope—‘I am well favoured, handsome and young, how can my wife desire any other man, having me?’;—because women do not take into consideration the fact of a man being ‘handsome’ or ‘brave’; simply because he happens to be a male, they have recourse to him.—(14)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

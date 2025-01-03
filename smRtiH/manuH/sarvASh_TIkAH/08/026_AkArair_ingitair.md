@@ -23,17 +23,13 @@ The inner mind is indicated by such variations as those of aspect, gait, gesture
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What this verse does is to support, by ordinary experience, what has
-gone in the preceding verse; hence there is no repetition.
+What this verse does is to support, by ordinary experience, what has gone in the preceding verse; hence there is no repetition.
 
-‘*Ākāra*’ is that which changes, *variations*; such as *aspect* and the
-rest.
+‘*Ākāra*’ is that which changes, *variations*; such as *aspect* and the rest.
 
-‘*Aspect*’ has already been explained; the plural number is used in view
-of there being numerous individual aspects.
+‘*Aspect*’ has already been explained; the plural number is used in view of there being numerous individual aspects.
 
-‘*Gait*,’—this is in addition to what has gone in the preceding verse;
-it means the ordinary gait of a man being tripped or otherwise altered.
+‘*Gait*,’—this is in addition to what has gone in the preceding verse; it means the ordinary gait of a man being tripped or otherwise altered.
 
 ‘*Speech*’—inconsistent and contradictory statements.
 
@@ -41,8 +37,7 @@ it means the ordinary gait of a man being tripped or otherwise altered.
 
 The rest has all been explained under the previous verse.
 
-By means of the variations of all these the innermost heart is indicated
-even in ordinary life; such in brief is the meaning of the verse.—(26)
+By means of the variations of all these the innermost heart is indicated even in ordinary life; such in brief is the meaning of the verse.—(26)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
@@ -54,7 +49,7 @@ for perspiration, thrilling of the hair,—‘*vikāra*’ of the eye, the look
 of love or anger,—‘*ceṣṭita*’, throwing about of the hand and so
 forth,—‘*gatyā*’ halting gait and so forth;—‘*ceṣṭita*’, inconsistent
 and contradictory statements,—‘*vaktra vikāra*’, drying of the mouth
-&c;—and in *Vīramitrodaya* (Vyavahāra, p. 30b).
+&c—and in *Vīramitrodaya* (Vyavahāra, p. 30b).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

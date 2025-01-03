@@ -19,16 +19,9 @@ Among undivided brothers, if there is a joint concern,—the father shall, on no
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It has been said (*yājñavalkya*, 2.116) that—‘an unequal division has
-been declared to be legal, if made by the father’;—it is this that is
-denied here.
+It has been said (*yājñavalkya*, 2.116) that—‘an unequal division has been declared to be legal, if made by the father’;—it is this that is denied here.
 
-‘*Joint concern*,’—*i.e*., when all of them together earn something—one
-by agriculture, another by receiving gifts, another by service, while
-another takes care of what is earned by others, and invests them and
-uses them to the advantage of all;—all this shall be brought together
-and divided equally; and no excessive share shall be given to any one by
-the father, through his love for him.—(215)
+‘*Joint concern*,’—*i.e*., when all of them together earn something—one by agriculture, another by receiving gifts, another by service, while another takes care of what is earned by others, and invests them and uses them to the advantage of all;—all this shall be brought together and divided equally; and no excessive share shall be given to any one by the father, through his love for him.—(215)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

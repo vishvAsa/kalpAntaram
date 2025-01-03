@@ -15,12 +15,7 @@ The illiterate person, accepting gold, land, horse, cow food, clothing, sesamum 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The text states the evil results following from the illiterate man
-accepting the gift of certain specified things.—‘He becomes reduced to
-ashes, like wood;’—just as wood, on being burnt by fire, becomes reduced
-to ashes, so the Brāhmaṇa, who is not endowed with proper learning,
-becomes reduced to ashes, by accepting the gift of gold and other things
-mentioned here.—(188).
+The text states the evil results following from the illiterate man accepting the gift of certain specified things.—‘He becomes reduced to ashes, like wood;’—just as wood, on being burnt by fire, becomes reduced to ashes, so the Brāhmaṇa, who is not endowed with proper learning, becomes reduced to ashes, by accepting the gift of gold and other things mentioned here.—(188).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

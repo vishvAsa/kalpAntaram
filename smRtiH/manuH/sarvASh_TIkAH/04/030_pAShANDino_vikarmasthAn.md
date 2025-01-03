@@ -12,7 +12,6 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>अत्र</u> "वसेत्" इति लिङ्गात् सायम् आतिथ्यप्रतिषेधो ऽयं पाषण्ड्यादीनाम्[^८३] इत्य् आहुः । 
 
 
@@ -34,15 +33,12 @@ NOTE: Pages 336 and 337 are missing from the book. Please email me if you have a
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In view of the implied meaning of the terms ‘shall dwell,’ people have
-taken this verse to mean that one shall.....
+In view of the implied meaning of the terms ‘shall dwell,’ people have taken this verse to mean that one shall.....
 
 **  
 **
 
-> NOTE: Pages 336 and 337 are missing from the book. [Please email
-> me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204)
-> if you have a copy of the text.
+> NOTE: Pages 336 and 337 are missing from the book. [Please email > me](mailto:info@wisdomlib.org?subject=Manusmriti%20missing%20pages%20336%20and%20337%20of%20discourse%204) > if you have a copy of the text.
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

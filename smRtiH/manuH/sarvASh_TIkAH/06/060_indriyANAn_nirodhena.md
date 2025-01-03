@@ -17,9 +17,7 @@ By the restraining of the senses, by the destruction of love and hatred, and by 
 
 ‘*Restraining*’—preventing from operating on their objects.
 
-‘*Becomes fit for immortality*.’—He is enabled to become immortal. This
-shows that what is mentioned here is as useful as self-knowledge
-itself.—(60)
+‘*Becomes fit for immortality*.’—He is enabled to become immortal. This shows that what is mentioned here is as useful as self-knowledge itself.—(60)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

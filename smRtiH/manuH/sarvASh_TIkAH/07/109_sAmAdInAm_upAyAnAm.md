@@ -15,10 +15,7 @@ For the prosperity of kingdoms the wise ones always recommend Conciliation and F
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-From among the four expedients, Conciliation and the rest, Conciliation
-and Force are described as superior. While there is Conciliation, there
-is no disturbance; and when Force is employed, everything becomes
-accomplished.—(109)
+From among the four expedients, Conciliation and the rest, Conciliation and Force are described as superior. While there is Conciliation, there is no disturbance; and when Force is employed, everything becomes accomplished.—(109)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -27,8 +27,7 @@ Evidence is called ‘false,’ when it is due to greed, or embarrassment, or fr
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-False evidence is due to greed and the rest. These have been enumerated
-for the purpose of determining the exact penalty.
+False evidence is due to greed and the rest. These have been enumerated for the purpose of determining the exact penalty.
 
 ‘*False*’—untrue.
 

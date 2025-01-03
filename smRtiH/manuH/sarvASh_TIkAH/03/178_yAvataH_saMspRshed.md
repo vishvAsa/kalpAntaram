@@ -19,12 +19,9 @@ As many Brāhmaṇas the officiator at the sacrifices performed by Śūdras may 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-As many Brāhmaṇas he may happen to touch with his limbs,—when he happens
-to enter the same line with them;—here also the actual touching of the
-body is not meant; mere presence at the place is meant.
+As many Brāhmaṇas he may happen to touch with his limbs,—when he happens to enter the same line with them;—here also the actual touching of the body is not meant; mere presence at the place is meant.
 
-‘*Reward relating to charity*’—*i.e*., the rewards that follow from
-gifts made outside the ‘sacrificial altar.—(178)
+‘*Reward relating to charity*’—*i.e*., the rewards that follow from gifts made outside the ‘sacrificial altar.—(178)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

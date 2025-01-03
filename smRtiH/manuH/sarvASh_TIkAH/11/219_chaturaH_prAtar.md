@@ -15,9 +15,7 @@ The Brāhmaṇa, with concentrated mind, shall eat four morsels in the morning, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Inasmuch as the term ‘*morning*’ is used here along with ‘the *setting
-of the sun*,’ it stands for the time of *sunrise*. ‘*When the sun has
-set*’—in the evening.—(219)
+Inasmuch as the term ‘*morning*’ is used here along with ‘the *setting of the sun*,’ it stands for the time of *sunrise*. ‘*When the sun has set*’—in the evening.—(219)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

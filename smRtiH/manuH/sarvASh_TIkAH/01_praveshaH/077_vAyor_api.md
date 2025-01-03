@@ -15,10 +15,7 @@ After wind, from out of the same Evolvent, emanates the bright and radiant light
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The two words ‘*bright*’ and ‘*radiant*,’ which are synonymous, have
-been used with a view to indicate that Light is itself *bright*, and it
-also illumines other things; that it is itself endowed with brilliance
-and it makes other things also brilliant.—(77)
+The two words ‘*bright*’ and ‘*radiant*,’ which are synonymous, have been used with a view to indicate that Light is itself *bright*, and it also illumines other things; that it is itself endowed with brilliance and it makes other things also brilliant.—(77)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

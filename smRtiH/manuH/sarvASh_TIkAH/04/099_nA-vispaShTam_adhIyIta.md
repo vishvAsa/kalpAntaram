@@ -15,13 +15,9 @@ He shall recite, not indistinctly, nor in the proximity of Śūdras; nor shall h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Indistinct*’—when the letters and accents are not clearly pronounced.
-This happens when a man is reciting hurriedly.
+‘*Indistinct*’—when the letters and accents are not clearly pronounced. This happens when a man is reciting hurriedly.
 
-‘*At the end of night*’— in the latter part of night. If he, on rising
-from sleep, study the Veda, he shall not, if he becomes tired, go to
-sleep again. The right reading is—‘*na niśānte pariśrānto brahmādhītya
-śayīta tu*.’—(99)
+‘*At the end of night*’— in the latter part of night. If he, on rising from sleep, study the Veda, he shall not, if he becomes tired, go to sleep again. The right reading is—‘*na niśānte pariśrānto brahmādhītya śayīta tu*.’—(99)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

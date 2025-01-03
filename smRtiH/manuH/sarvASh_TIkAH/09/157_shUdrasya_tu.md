@@ -25,8 +25,7 @@ This is only a reiteration of what has been said before.
 
 ‘*Other sons born of her shall be entitled to equal shares*.’
 
-It is in view of there being no fifth caste that, the text has said that
-‘for the Śūdra there is a wife of the same caste, *and no other*.’—(157)
+It is in view of there being no fifth caste that, the text has said that ‘for the Śūdra there is a wife of the same caste, *and no other*.’—(157)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

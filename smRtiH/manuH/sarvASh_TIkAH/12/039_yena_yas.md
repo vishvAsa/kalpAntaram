@@ -15,8 +15,7 @@ I am now going to describe, briefly, in due order, those migratory states into w
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*From among these*.’—qualities;—by what quality what *migratory
-states*’ are fallen into by man;—‘*migratory states*’ standing for
+‘*From among these*.’—qualities;—by what quality what *migratory states*’ are fallen into by man;—‘*migratory states*’ standing for
 *states of existence*;—*i.e*., the births that he takes,—is going to be
 described in the following verses.
 

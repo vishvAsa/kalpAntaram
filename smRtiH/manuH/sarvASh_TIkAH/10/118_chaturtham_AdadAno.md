@@ -15,12 +15,9 @@ The Kṣatriya, who, in times of distress, takes the fourth fart, becomes freed 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse permits the King’s receiving of the fourth part (of the
-land-produce), instead of the *sixth* usually taken, when his treasury
-has become depleted. The rest of it is purely declamatory.
+This verse permits the King’s receiving of the fourth part (of the land-produce), instead of the *sixth* usually taken, when his treasury has become depleted. The rest of it is purely declamatory.
 
-‘*To the best of his ability*’—This is an adverb; the meaning being *to
-the best of his power*.—(118)
+‘*To the best of his ability*’—This is an adverb; the meaning being *to the best of his power*.—(118)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,23 +19,17 @@ For offences committed by the Brāhmaṇa the middle-most amercement shall be in
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The condition of expiatory penances being performed does not apply to
-what is asserted here.
+The condition of expiatory penances being performed does not apply to what is asserted here.
 
-In the case of all these offences—of Brāhmaṇa-slaughter and the rest—the
-Brāhmaṇa shall be fined ‘the middle-most amercement’
+In the case of all these offences—of Brāhmaṇa-slaughter and the rest—the Brāhmaṇa shall be fined ‘the middle-most amercement’
 
-The qualification ‘*unintentionally*’ of the next verse has to be
-construed with this also.
+The qualification ‘*unintentionally*’ of the next verse has to be construed with this also.
 
-After he has paid the fine, he should be made to perform the expiatory
-penances.
+After he has paid the fine, he should be made to perform the expiatory penances.
 
-‘*Along with his goods and chattels*.’—This is a special favour to be
-granted in the case of highly qualified Brāhmaṇas.
+‘*Along with his goods and chattels*.’—This is a special favour to be granted in the case of highly qualified Brāhmaṇas.
 
-In the case of the offence being *unintentional*, he may not be
-banished.—(241)
+In the case of the offence being *unintentional*, he may not be banished.—(241)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

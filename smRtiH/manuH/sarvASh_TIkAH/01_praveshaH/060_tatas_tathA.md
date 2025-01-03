@@ -15,16 +15,9 @@ Thereupon, being thus directed by Manu, the great sage Bhṛgu, with a gladdened
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-That great sage ‘*Bhṛgu*,’ ‘*bring thus directed*’—prompted, by means of
-the words ‘Bhṛgu will describe it to you’;—‘*thereupon*,’—after
-that,—‘*said to the sages*’—‘*Listen*.’
+That great sage ‘*Bhṛgu*,’ ‘*bring thus directed*’—prompted, by means of the words ‘Bhṛgu will describe it to you’;—‘*thereupon*,’—after that,—‘*said to the sages*’—‘*Listen*.’
 
-‘*With a gladdened heart*’;—his gladness being due to the idea of
-respectability implied by the fact that from among the several pupils
-(of Manu) he had been directed to teach; Bhṛgu’s idea of his own
-respectability was based upon this idea—‘I, who am an obedient pupil of
-Manu, have been thus honoured by him, by reason of my special aptitude
-to expound the Law.’—(60)
+‘*With a gladdened heart*’;—his gladness being due to the idea of respectability implied by the fact that from among the several pupils (of Manu) he had been directed to teach; Bhṛgu’s idea of his own respectability was based upon this idea—‘I, who am an obedient pupil of Manu, have been thus honoured by him, by reason of my special aptitude to expound the Law.’—(60)
 
 
 

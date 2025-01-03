@@ -15,13 +15,11 @@ One who performs the ‘Yati-Cāndrāyaṇa’ shall eat daily at midday eight m
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Everyday he shall eat eight morsels,—beginning either with the dark or
-with the bright half of the month.
+Everyday he shall eat eight morsels,—beginning either with the dark or with the bright half of the month.
 
 This is the ‘*Yati-Cāndrāyaṇa*.’
 
-‘*At midday*’—when midday has approached; that is, avoiding the forenoon
-and the afternoon.
+‘*At midday*’—when midday has approached; that is, avoiding the forenoon and the afternoon.
 
 The rest is clear.—(218)
 </details>

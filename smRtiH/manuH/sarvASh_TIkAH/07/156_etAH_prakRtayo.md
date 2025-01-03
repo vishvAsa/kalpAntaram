@@ -19,11 +19,7 @@ These four components are, in brief, the root of the circle; eight others also h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*That have been spoken of*’;—these have been described as the ‘root’ or
-basic components of the circle; and there are ‘*eight others*’
-also,—*i*.*e*., each of these four have two belonging to each, in the
-shape of the ‘ally’ and the ‘enemy’. The four original components,
-together with these eight, constitute the ‘twelve’.—(156)
+‘*That have been spoken of*’;—these have been described as the ‘root’ or basic components of the circle; and there are ‘*eight others*’ also,—*i*.*e*., each of these four have two belonging to each, in the shape of the ‘ally’ and the ‘enemy’. The four original components, together with these eight, constitute the ‘twelve’.—(156)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

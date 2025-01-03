@@ -19,8 +19,7 @@ The King shall be severe and mild, after having duly examined the work (of each 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Severity and mildness shall be always practised. Such a King becomes
-‘*highly respected*’—honoured—of his people.—(140)
+Severity and mildness shall be always practised. Such a King becomes ‘*highly respected*’—honoured—of his people.—(140)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

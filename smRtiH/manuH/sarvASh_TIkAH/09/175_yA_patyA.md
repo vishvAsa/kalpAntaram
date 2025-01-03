@@ -13,8 +13,7 @@ If a woman abandoned by her husband, or a widow, of her own accord, marries agai
 **(verses 9.173-178)  
 **
 
-\[The Bhāṣya on these verses is not available in any of the
-manuscripts.\]
+\[The Bhāṣya on these verses is not available in any of the manuscripts.\]
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

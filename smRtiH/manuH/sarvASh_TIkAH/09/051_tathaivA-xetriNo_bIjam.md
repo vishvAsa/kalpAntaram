@@ -17,10 +17,7 @@ Similarly persons who have no ‘soil’ of their own—if they sow in the ‘so
 
 This is a continuation of what has gone before.
 
-Just as in the case of the cows, and also in that of immoveable
-property, so among human beings also, the sowers of the seed ‘*confer
-the benefit upon*’—accomplish the purposes of—the owner of the
-soil.—(51)
+Just as in the case of the cows, and also in that of immoveable property, so among human beings also, the sowers of the seed ‘*confer the benefit upon*’—accomplish the purposes of—the owner of the soil.—(51)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

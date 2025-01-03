@@ -9,7 +9,6 @@ After having committed, a sin, if one repents, he becomes freed from that sin; h
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>निवृत्तिपर्यन्तम्</u>[^३५४] इत्य् आहुः । 
 
 
@@ -31,15 +30,11 @@ After having committed, a sin, if one repents, he becomes freed from that sin; h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Some people take the ‘repentance’ to extend up to the term
-‘renunciation.’ But this is not light; as ‘*repentance*’ consists in
+Some people take the ‘repentance’ to extend up to the term ‘renunciation.’ But this is not light; as ‘*repentance*’ consists in
 *mental depression*, while ‘*renunciation*’ is in the form of the
-resolution ‘such an act shall not be done again’; and that the two are
-distinct acts is shown by the past-participial affix ‘*ktvā*’ in
-‘*santapya*’—‘after one has repented, then comes the *renunciation*.’
+resolution ‘such an act shall not be done again’; and that the two are distinct acts is shown by the past-participial affix ‘*ktvā*’ in ‘*santapya*’—‘after one has repented, then comes the *renunciation*.’
 
-Thus then the sense is—‘Like the expiation, the sinner should also do
-(a) the confession, (b) the repentance and the renunciation.
+Thus then the sense is—‘Like the expiation, the sinner should also do (a) the confession, (b) the repentance and the renunciation.
 
 ‘*Becomes purified*’—obtains success.—(230)
 </details>

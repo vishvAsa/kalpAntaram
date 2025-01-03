@@ -21,14 +21,11 @@ In the case of fields, walls, tanks, gardens and houses, the decision regarding 
 
 ‘*Garden*’—stands for park-lands, as well as vegetable yards.
 
-The neighbours are the only source of authority for decisions regarding
-these.
+The neighbours are the only source of authority for decisions regarding these.
 
-This has been added with a view to preclude the evidence of hunters and
-others (mentioned in the preceding two verses).
+This has been added with a view to preclude the evidence of hunters and others (mentioned in the preceding two verses).
 
-‘*Boundary-marks*’;—demarcation of boundary, which is done for the
-indication of the exact boundary.—(262)
+‘*Boundary-marks*’;—demarcation of boundary, which is done for the indication of the exact boundary.—(262)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -22,14 +22,11 @@ What is mixed with pain and brings unhappiness to the Soul,—know that to be �
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Mixed with pain*’—interspersed with pain; and not pure, hence
-described as ‘*bringing unhappiness*,’—being mixed up with pain, it does
-not make men happy.
+‘*Mixed with pain*’—interspersed with pain; and not pure, hence described as ‘*bringing unhappiness*,’—being mixed up with pain, it does not make men happy.
 
 ‘*Apratīpam*’—imperceptible, though real.
 
-This is the form of ‘*Rajas*’—‘*constantly attracting* men towards
-sensual objects, arousing in their mind a longing for these.—(28)
+This is the form of ‘*Rajas*’—‘*constantly attracting* men towards sensual objects, arousing in their mind a longing for these.—(28)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

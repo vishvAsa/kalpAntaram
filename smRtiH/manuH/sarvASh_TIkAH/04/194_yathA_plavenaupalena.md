@@ -19,15 +19,11 @@ Just as a man crossing water by means of a stone-raft sinks down, so also sink d
 
 ‘*Raft*’— boat and such other contrivances used in crossing water.
 
-He who ‘*crosses*’—proceeds to cross—water by such a raft, sinks down
-into the water. So also do ‘*the ignorant giver and receiver*.’
+He who ‘*crosses*’—proceeds to cross—water by such a raft, sinks down into the water. So also do ‘*the ignorant giver and receiver*.’
 
-The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’
-(with the *ṇich* affix), and then the nominal ‘*ṇvul*’ added to it.
+The term, ‘*pratīcchaka*’ is to be explained as ‘*pratīcchām karoti*’ (with the *ṇich* affix), and then the nominal ‘*ṇvul*’ added to it.
 
-‘*Pratīpsakaḥ*’ is another reading; this would be derived from the root
-‘*āp,’ to obtain*, with the derivative affix, and then the nominal
-‘*ṇvul*’ added to it. The meaning of both would be the same.—(194)
+‘*Pratīpsakaḥ*’ is another reading; this would be derived from the root ‘*āp,’ to obtain*, with the derivative affix, and then the nominal ‘*ṇvul*’ added to it. The meaning of both would be the same.—(194)
 </details>
 
 <details><summary>Bühler</summary>

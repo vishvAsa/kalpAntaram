@@ -19,12 +19,9 @@ If a man fasts for, three days, and entering the water thrice a dat repeats the 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Construe thus—‘*apobhyupayan aghamarṣanam japitvā*’; whence it follows
-that the reciting of the hymn is to be done *in water*. This has the
-support of another *Smṛti* text.
+Construe thus—‘*apobhyupayan aghamarṣanam japitvā*’; whence it follows that the reciting of the hymn is to be done *in water*. This has the support of another *Smṛti* text.
 
-‘*Aghamarṣaṇa*’ is the name of a set of three verses already described
-above (Ṛgveda, 10.190.1, etc.).—(259)
+‘*Aghamarṣaṇa*’ is the name of a set of three verses already described above (Ṛgveda, 10.190.1, etc.).—(259)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

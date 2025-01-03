@@ -15,12 +15,9 @@ The affairs of these officers pertaining to the villages, as also their individu
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-There may be differences of opinion among these officers regarding the
-affairs of the villages.
+There may be differences of opinion among these officers regarding the affairs of the villages.
 
-‘*Another*’—some one other than those under whose sphere of duties those
-affairs fall;—‘*minister*’—of superior status;—‘*loyal*’—free from undue
-love and hate,—should be appointed for inspecting those affairs.—(120)
+‘*Another*’—some one other than those under whose sphere of duties those affairs fall;—‘*minister*’—of superior status;—‘*loyal*’—free from undue love and hate,—should be appointed for inspecting those affairs.—(120)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

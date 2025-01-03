@@ -15,16 +15,10 @@ For stealing a deer or an elephant, a wolf; for stealing a horse, a tiger; for s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When it was said ([under
-62])
-that ‘for stealing water one becomes a *Plava* -bird,’ it was water for
-drinking purposes that was meant; while in the present verse, it is
-water for irrigating fields and such other purposes.
+When it was said ([under 62]) that ‘for stealing water one becomes a *Plava* -bird,’ it was water for drinking purposes that was meant; while in the present verse, it is water for irrigating fields and such other purposes.
 
 [Under verse
-62],
-the term ‘*Rasa*’ may be taken either as the *first* kind of flavour
-(*Sweet*), or as medicinal substances.—(67)
+62], the term ‘*Rasa*’ may be taken either as the *first* kind of flavour (*Sweet*), or as medicinal substances.—(67)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

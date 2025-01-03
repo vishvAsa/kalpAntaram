@@ -21,8 +21,7 @@ All these he shall win over by means of conciliation and the other expedients, s
 
 ‘*Win over*’— bring under his sway.
 
-‘*Prowess and policy*’ are the same as conciliation and war; and it has
-been declared that ‘they recommend conciliation and war’.—(159)
+‘*Prowess and policy*’ are the same as conciliation and war; and it has been declared that ‘they recommend conciliation and war’.—(159)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

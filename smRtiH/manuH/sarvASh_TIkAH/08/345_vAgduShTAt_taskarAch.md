@@ -29,12 +29,9 @@ This is another declamation eulogising the injunction of punishment.
 
 ‘*Taskara*’ is a thief.
 
-‘*With a staff*’— the ‘*staff*’ stands here for anything that hurts, any
-weapon.
+‘*With a staff*’— the ‘*staff*’ stands here for anything that hurts, any weapon.
 
-In comparison to all these three kinds of offenders, dealt with in the
-three foregoing sections, the one going to be dealt with now is the
-worst.—(345)
+In comparison to all these three kinds of offenders, dealt with in the three foregoing sections, the one going to be dealt with now is the worst.—(345)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

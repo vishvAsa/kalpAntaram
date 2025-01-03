@@ -23,10 +23,7 @@ He who does not restore a deposit, and he who, without having made any deposit, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse prescribes the punishment for one who denies what has been
-deposited with him, and also for him who demands what was never
-deposited. The man is to be fined that amount which would be the value
-of the article in regard to which the fraud is committed.—(191)
+This verse prescribes the punishment for one who denies what has been deposited with him, and also for him who demands what was never deposited. The man is to be fined that amount which would be the value of the article in regard to which the fraud is committed.—(191)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

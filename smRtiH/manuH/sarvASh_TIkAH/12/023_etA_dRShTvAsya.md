@@ -21,14 +21,11 @@ Having recognised, in his own mind, the conditions of the Personality, due to Vi
 
 There is very little in this verse.
 
-In the phrase ‘*dharmatodharmataḥ*,’ an ‘*a*’ is to be taken as
-understood (after the first ‘*dharmataḥ*’).
+In the phrase ‘*dharmatodharmataḥ*,’ an ‘*a*’ is to be taken as understood (after the first ‘*dharmataḥ*’).
 
-The conditions of the Conscious Entity, Soul, are due to Virtue and
-Vice.
+The conditions of the Conscious Entity, Soul, are due to Virtue and Vice.
 
-‘*In his own mind*’—through the help of the scriptures. This verse sums
-up the contents of the entire ordinances.—
+‘*In his own mind*’—through the help of the scriptures. This verse sums up the contents of the entire ordinances.—
 </details>
 
 <details><summary>भारुचिः</summary>

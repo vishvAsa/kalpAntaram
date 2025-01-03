@@ -17,14 +17,9 @@ The service of the Brāhmaṇa is described as the distinctive duty of the Śūd
 
 The serving of the Brāhmaṇas is the chief duty for the Śūdra.
 
-Hence ‘*everything else*’—in the shape of observances and fasts—‘*that
-he does is fruitless for him*.’
+Hence ‘*everything else*’—in the shape of observances and fasts—‘*that he does is fruitless for him*.’
 
-This should not be understood to be the prohibition of such acts as
-making gifts, offering the ‘*Pākayajñas*’ and so forth; since all these
-have been distinctly enjoined for him. In fact this prohibition of
-‘everything else’ is only meant to indicate the importance of ‘serving
-Brāhmaṇas.’—(123)
+This should not be understood to be the prohibition of such acts as making gifts, offering the ‘*Pākayajñas*’ and so forth; since all these have been distinctly enjoined for him. In fact this prohibition of ‘everything else’ is only meant to indicate the importance of ‘serving Brāhmaṇas.’—(123)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

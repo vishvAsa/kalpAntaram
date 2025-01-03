@@ -15,20 +15,15 @@ The ‘Niṣāda’ begets the ‘Mārgava’ or ‘Dāsa,’ who subsists by wo
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Inasmuch as the present context deals with the castes of the ‘inverse’
-order, the ‘*Niṣāda*’ meant here cannot be the one described above as
-‘one born of the Brāhmaṇa father and the Śūdra mother;’ it must stand
-for some other ‘inverse’ caste, akin to the ‘*Daṣyu*.’
+Inasmuch as the present context deals with the castes of the ‘inverse’ order, the ‘*Niṣāda*’ meant here cannot be the one described above as ‘one born of the Brāhmaṇa father and the Śūdra mother;’ it must stand for some other ‘inverse’ caste, akin to the ‘*Daṣyu*.’
 
-He begets—produces on the ‘*Āyogava*’ woman,—the ‘inverse’ caste called
-‘*Mārgava*.’
+He begets—produces on the ‘*Āyogava*’ woman,—the ‘inverse’ caste called ‘*Mārgava*.’
 
 The other two names of this caste are ‘*Dāsa*’ and ‘*Kaivarta*.’
 
 ‘*Āryāvarta*’ is well-known.
 
-The working of the boat is the livelihood—means of subsistence—for this
-caste—(34)
+The working of the boat is the livelihood—means of subsistence—for this caste—(34)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

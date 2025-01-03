@@ -19,11 +19,9 @@ Some people declare that the bovine pair are the “consideration” (to be acce
 
 Some people declare that this ‘consideration’ should be accepted.
 
-Manu’s opinion, however, is that ‘*this is not true*;’ *i.e*., it should
-not be accepted.
+Manu’s opinion, however, is that ‘*this is not true*;’ *i.e*., it should not be accepted.
 
-‘*Small*’—*i.e*., accomplished by small means; similarly with ‘*large*.’
-It is ‘*selling*’ *all the same*.—(53)
+‘*Small*’—*i.e*., accomplished by small means; similarly with ‘*large*.’ It is ‘*selling*’ *all the same*.—(53)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

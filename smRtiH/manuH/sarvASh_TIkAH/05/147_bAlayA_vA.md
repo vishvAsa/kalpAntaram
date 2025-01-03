@@ -15,10 +15,7 @@ Whether she be a child, or a young woman, or an aged woman, she should not do an
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The sense of the teaching is that under no circumstances should there be
-independence for women. The mention of the various stages of her age, is
-meant only to indicate where she has to be dependent upon others, and no
-significance is meant to attach to it.—(145).
+The sense of the teaching is that under no circumstances should there be independence for women. The mention of the various stages of her age, is meant only to indicate where she has to be dependent upon others, and no significance is meant to attach to it.—(145).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

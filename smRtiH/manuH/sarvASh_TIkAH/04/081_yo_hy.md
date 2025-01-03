@@ -17,8 +17,7 @@ He who expounds to him the law, and he who indicates the penance to him, will si
 
 This is a deprecatory supplement to the foregoing text.
 
-‘*Will sink along with him*;’—this shows that both parties are
-considered guilty—he who expounds, as also he who hears it expounded.
+‘*Will sink along with him*;’—this shows that both parties are considered guilty—he who expounds, as also he who hears it expounded.
 
 ‘*Will sink*’—will fall into, *i.e*., will reach.—(81).
 </details>

@@ -17,9 +17,7 @@ The Brāhmaṇa shall not read during a dust-storm, or while the sky is burning,
 
 ‘*Gomāyu*’—is the jackal; the ‘howling’ of the jackal is its *crying*.
 
-It is time unfit for study only when dogs, donkeys and camels are crying
-together in large numbers; each of these three crying along with others
-of the same species.—(115).
+It is time unfit for study only when dogs, donkeys and camels are crying together in large numbers; each of these three crying along with others of the same species.—(115).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

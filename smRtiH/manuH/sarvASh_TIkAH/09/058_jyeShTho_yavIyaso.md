@@ -15,9 +15,7 @@ If the elder brother has recourse to the wife of the younger, or the younger bro
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Both the younger and the elder brothers become outcasts by having
-recourse to each other’s wife, except in times of distress,—even though
-they be ‘authorised,’—(58)
+Both the younger and the elder brothers become outcasts by having recourse to each other’s wife, except in times of distress,—even though they be ‘authorised,’—(58)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,12 +15,7 @@ One should not sit alone with his mother, sister or daughter. The powerful host 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-For reasons above described ‘*one should not sit alone*’—in a solitary
-room, etc., one should not sit; nor should he touch the body, etc.
-Because the host of sense-organs is extremely fickle; and it
-‘*overpowers*’—draws, makes helpless —‘*even the learned*’—*i.e*., the
-person who has his mind fully controlled by wisdom acquired from the
-scriptures.—(215)
+For reasons above described ‘*one should not sit alone*’—in a solitary room, etc., one should not sit; nor should he touch the body, etc. Because the host of sense-organs is extremely fickle; and it ‘*overpowers*’—draws, makes helpless —‘*even the learned*’—*i.e*., the person who has his mind fully controlled by wisdom acquired from the scriptures.—(215)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -19,8 +19,7 @@ For a boar, a jar of clarified butter; for a partridge, a ‘droṇa’ of sesam
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If one kills a boar, he should give a jar full of clarified butter.
-‘*Droṇa*’—is equal to four ‘*āḍhakas*’ (ten seers).
+If one kills a boar, he should give a jar full of clarified butter. ‘*Droṇa*’—is equal to four ‘*āḍhakas*’ (ten seers).
 
 ^(‘)*Hāyana*’ is *year*.
 

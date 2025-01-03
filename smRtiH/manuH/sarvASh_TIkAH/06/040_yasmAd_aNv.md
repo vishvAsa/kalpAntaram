@@ -17,8 +17,7 @@ The twice-born person, from whom not the slightest danger arises to living being
 
 The same idea is repeated again.
 
-‘*When he has become freed from his body*’—*i.e*., when his present body
-falls off. (40)
+‘*When he has become freed from his body*’—*i.e*., when his present body falls off. (40)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

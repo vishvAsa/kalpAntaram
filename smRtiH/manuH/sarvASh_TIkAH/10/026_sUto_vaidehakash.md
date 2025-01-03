@@ -19,8 +19,7 @@ title = "026 सूतो वैदेहकश्"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-These ‘inverse’ castes, defined above, are mentioned here, for the
-purpose of laying down what follows.—(26)
+These ‘inverse’ castes, defined above, are mentioned here, for the purpose of laying down what follows.—(26)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

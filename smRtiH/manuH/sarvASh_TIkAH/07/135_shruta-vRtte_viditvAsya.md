@@ -17,9 +17,7 @@ Having ascertained his learning and character, he shall provide for him a fair l
 
 ‘*Fair living*’— so that his household duties do not Buffer.
 
-Having provided a living ‘*he shall protect him against all
-things*’—from thieves and others, as alio against hie own
-extravagance.—(135)
+Having provided a living ‘*he shall protect him against all things*’—from thieves and others, as alio against hie own extravagance.—(135)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

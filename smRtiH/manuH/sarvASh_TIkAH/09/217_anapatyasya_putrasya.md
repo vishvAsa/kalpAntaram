@@ -15,8 +15,7 @@ The property of a childless son shall be inherited by his mother; and if the mot
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The meaning of this verse has been already explained ([under
-185]).—(217)
+The meaning of this verse has been already explained ([under 185]).—(217)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

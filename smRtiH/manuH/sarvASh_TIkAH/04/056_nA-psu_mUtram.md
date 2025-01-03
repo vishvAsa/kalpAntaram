@@ -21,10 +21,7 @@ He shall not throw into water urine, or faeces, or spittings, or anything else c
 
 ‘*Lohita*’—Blood.
 
-‘*Poisons*.’—The plural number is used, in view of there being several
-kinds of poison, which are divided into ‘natural’ and ‘artificial,’ or
-into ‘moveable’ and ‘immoveable,’ or into the various varieties of
-‘*gara*’ and the rest.—(56).
+‘*Poisons*.’—The plural number is used, in view of there being several kinds of poison, which are divided into ‘natural’ and ‘artificial,’ or into ‘moveable’ and ‘immoveable,’ or into the various varieties of ‘*gara*’ and the rest.—(56).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

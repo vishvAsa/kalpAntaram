@@ -23,16 +23,11 @@ If the wife disregards her husband who is mad, or intoxicated, or afflicted by d
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Disregarding*’ means neglect of his service, omitting to look after
-his medication and diet; it does not stand for having recourse to
-another man.
+‘*Disregarding*’ means neglect of his service, omitting to look after his medication and diet; it does not stand for having recourse to another man.
 
-The ‘abandoning’ for three months also stands only for the omitting of
-endearing caresses, etc., for reasons already given.
+The ‘abandoning’ for three months also stands only for the omitting of endearing caresses, etc., for reasons already given.
 
-She shall be deprived of ‘*ornaments*’, such as necklaces, bracelets and
-so forth;—‘*and of appurtenances*’—such as vessels, water-jars, slaves
-and slave-girls, etc., etc.—(78)
+She shall be deprived of ‘*ornaments*’, such as necklaces, bracelets and so forth;—‘*and of appurtenances*’—such as vessels, water-jars, slaves and slave-girls, etc., etc.—(78)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

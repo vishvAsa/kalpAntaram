@@ -15,12 +15,9 @@ The learned man should purify conch-shells, horn and things mads of bone and tus
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ‘bone’, ‘horn’ and ‘tusk’ meant are those of the touchable
-animals,—the cow, the sheep end the elephant,—and not of such animals as
-the dog, the ass and the like.
+The ‘bone’, ‘horn’ and ‘tusk’ meant are those of the touchable animals,—the cow, the sheep end the elephant,—and not of such animals as the dog, the ass and the like.
 
-‘*Water*’ and ‘*cow’s urine*’ are optional alternatives; while the use
-of ‘white mustard’ is to be combined with either of these.—(120).
+‘*Water*’ and ‘*cow’s urine*’ are optional alternatives; while the use of ‘white mustard’ is to be combined with either of these.—(120).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

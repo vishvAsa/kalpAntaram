@@ -23,15 +23,11 @@ These three, devoid of caste, are severally born from ‘Āyogava’ women, who 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The caste of the mother of the three castes just mentioned, ending with
-the ‘*Mārgava*,’ having not been mentioned, the present verse gives the
-purpose of specifiying that caste.
+The caste of the mother of the three castes just mentioned, ending with the ‘*Mārgava*,’ having not been mentioned, the present verse gives the purpose of specifiying that caste.
 
 All these are born from ‘*Āyogava*’ women.
 
-The qualifications of these women are next added—‘*Who wear the clothes
-of the dead*’—*i* .*e*., those who put on the clothes found on dead
-bodies.
+The qualifications of these women are next added—‘*Who wear the clothes of the dead*’—*i* .*e*., those who put on the clothes found on dead bodies.
 
 ‘*Ignoble*’—Untouchable.
 

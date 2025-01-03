@@ -21,8 +21,7 @@ Medicines, drugs, science and the various kinds of divine condition are acquired
 
 ‘*Science*’— relating to elements and elementals.
 
-‘*Divine condition* ’— the various kinds of power, of becoming *very
-small*, and so forth.—(237)
+‘*Divine condition* ’— the various kinds of power, of becoming *very small*, and so forth.—(237)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

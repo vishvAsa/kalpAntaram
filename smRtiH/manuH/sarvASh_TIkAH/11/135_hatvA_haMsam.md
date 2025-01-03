@@ -21,9 +21,7 @@ On having killed a swan, a balākā, a crane, a peacock, a monkey, a falcon, or 
 
 ‘*Sparśayet*’—should give.
 
-This expiation applies to the killing of any one of the animals
-mentioned; because the names have not been compounded into a copulative
-compound,—as has been explained before.—(135)
+This expiation applies to the killing of any one of the animals mentioned; because the names have not been compounded into a copulative compound,—as has been explained before.—(135)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

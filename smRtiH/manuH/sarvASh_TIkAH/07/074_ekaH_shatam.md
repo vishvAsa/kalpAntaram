@@ -21,10 +21,7 @@ A single bow-man, standing on a rampart, can fight against a hundred; and a hund
 
 This use of the fort is well known.
 
-Some people have held that the example of the ‘rampart’ indicates that
-this refers to the ‘hill-fort’. But this is not right; because ramparts
-are possible in ‘earthen forts’ also. Hence the use here described must
-refer to all kinds of forts.—(71)
+Some people have held that the example of the ‘rampart’ indicates that this refers to the ‘hill-fort’. But this is not right; because ramparts are possible in ‘earthen forts’ also. Hence the use here described must refer to all kinds of forts.—(71)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -13,7 +13,6 @@ All men on the earth may learn their respective duties from the Brāhmaṇa born
 From the foremost men born in that land, let all men on earth learn their etiquettes. 
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 एतेषु देशेषु कुरुक्षेत्रादिषु प्रसूतस्य **अग्रजन्मनः** ब्राह्मणस्य **सकाशात्** **स्वं स्वं चरित्रम्** आचारं **शिक्षेरन्** जिज्ञासेरन् । "तस्मिन् देशे" (म्ध् २.१८) इत्य् अनेनैतद् व्याख्यातम् ॥ २.२० ॥
@@ -21,10 +20,7 @@ From the foremost men born in that land, let all men on earth learn their etique
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-From the ‘*agrajanma*,’ *i.e*., the Brāhamṇa—‘*born in these
-countries*’—Kurukṣetra and the the rest—all men ‘*may learn*’—seek to
-know—‘*their respective duties*’—proper conduct. This has been already
-explained under Verse 18.—(20)
+From the ‘*agrajanma*,’ *i.e*., the Brāhamṇa—‘*born in these countries*’—Kurukṣetra and the the rest—all men ‘*may learn*’—seek to know—‘*their respective duties*’—proper conduct. This has been already explained under Verse 18.—(20)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

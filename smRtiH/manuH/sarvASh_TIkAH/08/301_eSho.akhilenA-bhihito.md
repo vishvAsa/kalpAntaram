@@ -23,13 +23,9 @@ Thus has the law relating to physical assault been fully explained; after this I
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The law relating to assault*’—the rules regarding punishments—has been
-fully *explained*. The term ‘*daṇḍa*’ as occurring in the name of the
-‘head of dispute’ (*daṇḍapāruṣya*), has been used as indicating the
-weapon of assault (*stick*).
+‘*The law relating to assault*’—the rules regarding punishments—has been fully *explained*. The term ‘*daṇḍa*’ as occurring in the name of the ‘head of dispute’ (*daṇḍapāruṣya*), has been used as indicating the weapon of assault (*stick*).
 
-After this I am going to expound the several kinds of penalties to be
-inflicted on the thief.
+After this I am going to expound the several kinds of penalties to be inflicted on the thief.
 
 This verse serves the purpose of introducing the next head.—(301)
 </details>

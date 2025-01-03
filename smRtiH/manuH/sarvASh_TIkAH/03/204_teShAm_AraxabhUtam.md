@@ -23,27 +23,19 @@ One should first engage the Brāhmaṇa in honour of the gods, as a protection t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Ārakṣa*’ is the same as ‘*rakṣā*;’ and that which has reached that is
-called ‘*ārakṣabhūtam*;’ *i.e*., that which serves the purpose of
-protecting.
+‘*Ārakṣa*’ is the same as ‘*rakṣā*;’ and that which has reached that is called ‘*ārakṣabhūtam*;’ *i.e*., that which serves the purpose of protecting.
 
-Or, the term ‘*bhūtam*’ may be taken as connoting *similitude*; in which
-case, the meaning is—‘which is, as it were, a protection.’
+Or, the term ‘*bhūtam*’ may be taken as connoting *similitude*; in which case, the meaning is—‘which is, as it were, a protection.’
 
-Because it is so, therefore ‘*one should first engage*’—invite—‘*the
-Brāhmaṇa in honour of the gods*’— and make him sit upon a proper seat.
+Because it is so, therefore ‘*one should first engage*’—invite—‘*the Brāhmaṇa in honour of the gods*’— and make him sit upon a proper seat.
 
 The rest of the verse is a purely laudatory description.
 
-‘*Rākṣasas*;’—certain invisible beings, described in *Itihāsas*—‘*take
-away*’—the Śrāddha—from the Pitṛs.
+‘*Rākṣasas*;’—certain invisible beings, described in *Itihāsas*—‘*take away*’—the Śrāddha—from the Pitṛs.
 
 “Who are the gods, in honour of whom the Brāhmaṇa is to be invited?”
 
-In the *Gṛhyasūtra*, we find the *mantra*—‘We invite the Viśvedevas,
-&c.’—as the one to be used; from which it follows that the *Viśvedevas*
-are the gods. In the *Purāṇas* also it is said—‘The *Śruti* says that it
-is *Viśvedevas*.’—(204)
+In the *Gṛhyasūtra*, we find the *mantra*—‘We invite the Viśvedevas, &c.’—as the one to be used; from which it follows that the *Viśvedevas* are the gods. In the *Purāṇas* also it is said—‘The *Śruti* says that it is *Viśvedevas*.’—(204)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

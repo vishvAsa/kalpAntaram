@@ -23,16 +23,11 @@ Austerity and knowledge are conducive to the Highest Good of the Brāhmaṇa; by
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What is meant by this is that, even though one may possess
-knowledge,—until his sins have been destroyed, he does not attain
-Liberation;—nor if, though his sins may have been destroyed, he has not
-acquired knowledge of the Self.
+What is meant by this is that, even though one may possess knowledge,—until his sins have been destroyed, he does not attain Liberation;—nor if, though his sins may have been destroyed, he has not acquired knowledge of the Self.
 
-Thus there is no truth in the assertion that man attains Liberation by
-his very nature.
+Thus there is no truth in the assertion that man attains Liberation by his very nature.
 
-‘*Immortality*’—not returning to metempsychic birth; which has also been
-described as consisting in pure Bliss.—(104)
+‘*Immortality*’—not returning to metempsychic birth; which has also been described as consisting in pure Bliss.—(104)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

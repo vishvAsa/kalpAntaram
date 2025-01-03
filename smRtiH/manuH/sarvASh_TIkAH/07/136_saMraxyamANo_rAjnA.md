@@ -15,8 +15,7 @@ Protected by the King he performs meritorious acts day after dat; and by that th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The augmentation of ‘life, wealth and kingdom’ is the reward of
-harbouring the meritorious *śrotriya*.—(136)
+The augmentation of ‘life, wealth and kingdom’ is the reward of harbouring the meritorious *śrotriya*.—(136)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

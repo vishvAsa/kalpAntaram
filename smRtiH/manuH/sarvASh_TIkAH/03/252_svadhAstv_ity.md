@@ -15,13 +15,10 @@ The Brāhmaṇas should thereupon tell him—“May there be svadhā.” at all 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When the Brāhmaṇas have dined and obtained permission to *go*, they
-should pronounce the syllable ‘*svadhā*.’
+When the Brāhmaṇas have dined and obtained permission to *go*, they should pronounce the syllable ‘*svadhā*.’
 
 *The syllable* ‘*svadhā*’—*i.e*., the utterance of the syllable
-‘*svadhā*’—constitutes the ‘*highest benediction*’— at all rites
-performed in honour of the Pitṛs;—those performed with cooked food as
-well as those offered with uncooked food.—(252)
+‘*svadhā*’—constitutes the ‘*highest benediction*’— at all rites performed in honour of the Pitṛs;—those performed with cooked food as well as those offered with uncooked food.—(252)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

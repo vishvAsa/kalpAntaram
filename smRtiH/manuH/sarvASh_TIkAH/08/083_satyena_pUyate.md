@@ -15,8 +15,7 @@ title = "083 सत्येन पूयते"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Purified*’—becomes pure; *i.e*., purged of other sins also. The rest
-is clear.
+‘*Purified*’—becomes pure; *i.e*., purged of other sins also. The rest is clear.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

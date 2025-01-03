@@ -15,13 +15,11 @@ The King shall make the other people living by business p ay during the year som
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Living by* *business*’—such as agriculture, money-lending, buying and
-selling and so forth.
+‘*Living by* *business*’—such as agriculture, money-lending, buying and selling and so forth.
 
 ‘*Other people*’—than the Brāhmaṇa-Śrotriya.
 
-‘*Make them pay tax*’.—‘*under the name of tax*’—*i.e*., which bears the
-name of ‘tax’.—(137)
+‘*Make them pay tax*’.—‘*under the name of tax*’—*i.e*., which bears the name of ‘tax’.—(137)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -18,16 +18,13 @@ He shall make over to a Brāhmaṇa learned in the Veda, his entire property, wh
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-He shall give away everything that he may be possessed of, in the shape
-of gold, cattle and the like.
+He shall give away everything that he may be possessed of, in the shape of gold, cattle and the like.
 
 The author adds a declamatory qualification—‘wealth sufficient *for*
 *his* *maintenance*’:—That is the giving of the property would be equal
 to making a gift to him of his life.
 
-‘Or, *a house along with the furniture*.’—‘*Furniture*’ includes all
-such household accessories as butter, oil, grains, pots and pans,
-metals, beds, seats and so forth.—(76)
+‘Or, *a house along with the furniture*.’—‘*Furniture*’ includes all such household accessories as butter, oil, grains, pots and pans, metals, beds, seats and so forth.—(76)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

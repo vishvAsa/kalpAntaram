@@ -17,11 +17,9 @@ Among the goods of every kind, the first-born shall take the best; as also anyth
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The first half of the verse only reiterates what has been said above
-regarding the eldest brother taking the be of the chattels.
+The first half of the verse only reiterates what has been said above regarding the eldest brother taking the be of the chattels.
 
-The terra ‘*jāta*’ is synonymous with ‘*jāti*,’ ‘kind’; or it may mean
-‘variety.’
+The terra ‘*jāta*’ is synonymous with ‘*jāti*,’ ‘kind’; or it may mean ‘variety.’
 
 ‘*First-born*’—eldest.
 
@@ -29,17 +27,11 @@ The terra ‘*jāta*’ is synonymous with ‘*jāti*,’ ‘kind’; or it may 
 
 ‘*Anything particularly good*;’—such as a piece of cloth or an ornament
 
-‘*Best of ten*.’—He shall take the best one among the ten. That is, if
-there are ten cows or horses, he shall take the best among these. The
-term ‘ten’ is used in the sense of a *group consisting of ten*.
+‘*Best of ten*.’—He shall take the best one among the ten. That is, if there are ten cows or horses, he shall take the best among these. The term ‘ten’ is used in the sense of a *group consisting of ten*.
 
-Others explain ‘*daśataḥ*’ as ending in the ‘*tasi*’ affix, which has
-the reflexive sense, and hence meaning ‘*ten*’ (not ‘from among ten’);
-and according to this they read ‘*varān*’ in the plural (for ‘*varam*’);
-and the sense in this case is that he should take *ten good animals*.
+Others explain ‘*daśataḥ*’ as ending in the ‘*tasi*’ affix, which has the reflexive sense, and hence meaning ‘*ten*’ (not ‘from among ten’); and according to this they read ‘*varān*’ in the plural (for ‘*varam*’); and the sense in this case is that he should take *ten good animals*.
 
-Others again declare that the term refers to a particular kind of
-animals; those that have single hoofs, for instance (?).—(114)
+Others again declare that the term refers to a particular kind of animals; those that have single hoofs, for instance (?).—(114)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

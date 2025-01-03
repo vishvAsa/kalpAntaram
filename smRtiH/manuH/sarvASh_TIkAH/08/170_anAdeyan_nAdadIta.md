@@ -21,13 +21,7 @@ Even though reduced (in circumstances), the King shall not take what ought not t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Excepting his legal dues, in the shape of taxes, tines and duties, all
-that belongs to the citizens is ‘*what ought not to be taken*’ by the
-king, even though his treasury may have become depleted. But what is
-legally his due,—by reason of his arranging for the security of their
-life and property-even a pice of that he shall not relinquish. Since it
-has been laid down that—‘the King shall increase his treasury in the
-manner of the ant-hill.’—(170)
+Excepting his legal dues, in the shape of taxes, tines and duties, all that belongs to the citizens is ‘*what ought not to be taken*’ by the king, even though his treasury may have become depleted. But what is legally his due,—by reason of his arranging for the security of their life and property-even a pice of that he shall not relinquish. Since it has been laid down that—‘the King shall increase his treasury in the manner of the ant-hill.’—(170)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

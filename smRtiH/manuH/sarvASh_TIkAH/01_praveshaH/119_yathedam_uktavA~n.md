@@ -23,13 +23,11 @@ You also learn from me to-day, these teachings,—just as they were, in the past
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This address to the sages is for the purpose of attracting their
-attention.—(119)
+This address to the sages is for the purpose of attracting their attention.—(119)
 
 
 
-Thus in the Institutes of Law promulgated by Manu, in the compilation
-expounded by Bhṛgu, the first *Discourse*.
+Thus in the Institutes of Law promulgated by Manu, in the compilation expounded by Bhṛgu, the first *Discourse*.
 
 Also
 

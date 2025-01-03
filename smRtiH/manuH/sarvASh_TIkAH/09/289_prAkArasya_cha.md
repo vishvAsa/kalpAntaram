@@ -19,8 +19,7 @@ Him in who breaks the wall, or fills up the ditch, or breaks the gate—he shall
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The penalty of banishment is to be inflicted only in the case of damages
-done to the walls, ditches, etc. of a fort.
+The penalty of banishment is to be inflicted only in the case of damages done to the walls, ditches, etc. of a fort.
 
 ‘*Ditch*’—deeply dug out parts of the ground.—(289)
 </details>

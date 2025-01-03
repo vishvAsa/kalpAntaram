@@ -15,9 +15,7 @@ In the case of the stealing of gems, pearls, corals, copper, silver, iron, bronz
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-There is to be reduction in time, according to the greater or smaller
-quantity of the things stolen, as also according as the offence is the
-first one or a repetition.—(167)
+There is to be reduction in time, according to the greater or smaller quantity of the things stolen, as also according as the offence is the first one or a repetition.—(167)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

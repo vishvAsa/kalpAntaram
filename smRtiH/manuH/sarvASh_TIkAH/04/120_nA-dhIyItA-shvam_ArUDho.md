@@ -19,11 +19,9 @@ He shall not recite the Veda while seated on a horse, or a tree, or an elephant,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Barren ground*;’—such ground, outside the village, as is devoid of
-water and vegetation; also called ‘*Uṣara*.’
+‘*Barren ground*;’—such ground, outside the village, as is devoid of water and vegetation; also called ‘*Uṣara*.’
 
-‘*Conveyance*’—such as cart, chariot, palanquin, and the like; for one
-who is going on these, the reciting of the Veda is forbidden.—(120).
+‘*Conveyance*’—such as cart, chariot, palanquin, and the like; for one who is going on these, the reciting of the Veda is forbidden.—(120).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

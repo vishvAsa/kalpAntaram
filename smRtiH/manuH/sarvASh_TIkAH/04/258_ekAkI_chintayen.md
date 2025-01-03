@@ -15,17 +15,13 @@ Alone, in solitude, he shall meditate upon what is good for himself. By meditati
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The renunciation of all acts having been accomplished, the following is
-his special duty:—
+The renunciation of all acts having been accomplished, the following is his special duty:—
 
-‘*Alone*,’— without a companion,—having no one to talk to—‘*in
-solitude*’— in a place where there is no one, and which is free from all
-disturbance,—‘*he shall meditate upon what is good for himself*’;
+‘*Alone*,’— without a companion,—having no one to talk to—‘*in solitude*’— in a place where there is no one, and which is free from all disturbance,—‘*he shall meditate upon what is good for himself*’;
 *i.e*., should practise that ‘contemplation of the Brahman’ which has
 been enjoined in the *Upaniṣads*.
 
-By means of this practice and meditation, he obtains the highest
-good—called ‘Liberation.’—(258)
+By means of this practice and meditation, he obtains the highest good—called ‘Liberation.’—(258)
 </details>
 
 <details><summary>Bühler</summary>

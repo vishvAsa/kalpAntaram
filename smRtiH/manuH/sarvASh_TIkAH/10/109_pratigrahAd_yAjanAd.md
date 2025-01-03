@@ -15,10 +15,7 @@ Among Receiving of Gifts, Sacrificing and Teaching, the Receiving of Gifts is th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The sense of the verse is that so long as the less reprehensible means
-of subsistence, in the shape of sacrificing and teaching, are available,
-the Brāhmaṇa should not have recourse to the receiving of Improper
-Gifts.—(109)
+The sense of the verse is that so long as the less reprehensible means of subsistence, in the shape of sacrificing and teaching, are available, the Brāhmaṇa should not have recourse to the receiving of Improper Gifts.—(109)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

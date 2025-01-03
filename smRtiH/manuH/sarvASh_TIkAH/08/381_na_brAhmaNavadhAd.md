@@ -15,15 +15,11 @@ There is no greater crime on earth than the slaying of a Brāhmaṇa; the king s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is a declamatory supplement to what has gone before; Than the
-slaying of the Brāhmaṇa, there is no ‘*greater crime*,’—sin leading to
-greater suffering.
+This is a declamatory supplement to what has gone before; Than the slaying of the Brāhmaṇa, there is no ‘*greater crime*,’—sin leading to greater suffering.
 
-The Ablative in ‘*vadhāt*’ is to be explained by supplying the term
-‘*aṅgaḥ*.’
+The Ablative in ‘*vadhāt*’ is to be explained by supplying the term ‘*aṅgaḥ*.’
 
-For this reason, the king should not even think of inflictin g either
-death or amputation on the *Brāhmaṇa*.—(381)
+For this reason, the king should not even think of inflictin g either death or amputation on the *Brāhmaṇa*.—(381)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

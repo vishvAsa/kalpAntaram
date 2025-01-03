@@ -15,14 +15,9 @@ Each ‘limb’ is particularly qualified for the fulfilment of a distinct purpo
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-There is nothing that is not helpful to the King; there may he some
-purpose that is served by an inferior agent, and not by a superior one.
-Hence every one of the ‘constituents’ should be carefully attended to;
-that is, the People should not he harassed by unfair punishments, and
-they should be always guarded against robbers and other dangers.
+There is nothing that is not helpful to the King; there may he some purpose that is served by an inferior agent, and not by a superior one. Hence every one of the ‘constituents’ should be carefully attended to; that is, the People should not he harassed by unfair punishments, and they should be always guarded against robbers and other dangers.
 
-Thus it is that the present section is connected with the subject of the
-‘Removal of Thorns.’—(297)
+Thus it is that the present section is connected with the subject of the ‘Removal of Thorns.’—(297)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

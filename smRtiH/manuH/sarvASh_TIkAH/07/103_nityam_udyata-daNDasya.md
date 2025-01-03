@@ -15,17 +15,13 @@ Of him who has his force constantly operative, the whole world stands in awe. He
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse describes the effect of what has been just laid down in the
-foregoing verse.
+This verse describes the effect of what has been just laid down in the foregoing verse.
 
-‘*The whole world stands in awe*’—is afraid; and his glory becomes
-proclaimed.
+‘*The whole world stands in awe*’—is afraid; and his glory becomes proclaimed.
 
-‘*Therefore all men*’—his own subjects, as well as others—‘*he* *shall
-subdue by means of force*’.
+‘*Therefore all men*’—his own subjects, as well as others—‘*he* *shall subdue by means of force*’.
 
-The enemies of the king who acts thus bow down to him without any effort
-on his part.—(103)
+The enemies of the king who acts thus bow down to him without any effort on his part.—(103)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

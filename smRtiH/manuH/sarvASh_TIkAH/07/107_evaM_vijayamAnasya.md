@@ -15,10 +15,7 @@ While he is thus engaged in conquest, if there should be any opponents for him, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Those persons only who come forward to oppose him should be brought
-under subjugation, and not those who behave favourably towards him. But
-even the former shall first be tried to be won over by means of
-conciliation, and not all at once by force.—(107)
+Those persons only who come forward to oppose him should be brought under subjugation, and not those who behave favourably towards him. But even the former shall first be tried to be won over by means of conciliation, and not all at once by force.—(107)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

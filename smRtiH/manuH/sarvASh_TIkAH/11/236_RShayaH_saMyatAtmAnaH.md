@@ -15,15 +15,13 @@ It is by austerity alone that self-controlled sages, subsisting on fruits, roots
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What this means is that it is due to Austerity that sages acquire the
-power to have super-sensuous cognitions.
+What this means is that it is due to Austerity that sages acquire the power to have super-sensuous cognitions.
 
 ‘*Self-controlled*’—by the restraint of speech, mind and body.
 
 ‘*Fruits and roots*’—stands for restraints on food.
 
-By means of this Austerity, they survey, as if by direct perception, the
-whole of the three worlds.—(236)
+By means of this Austerity, they survey, as if by direct perception, the whole of the three worlds.—(236)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

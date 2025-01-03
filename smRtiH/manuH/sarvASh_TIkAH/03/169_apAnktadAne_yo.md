@@ -18,15 +18,11 @@ I am going to describe fully the results that afterwards accrue to the giver fro
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The author states the result of the prohibitive injunction just put
-forward.
+The author states the result of the prohibitive injunction just put forward.
 
-‘*Paṅktya*’ means ‘those who are worthy of the line;—those who are not
-so, are ‘*apaṅktya*;’ the ‘*yat*’ affix being added by virtue of the
-term ‘*paṅkti*’ occurring in the ‘*daṇḍādi*’ group.
+‘*Paṅktya*’ means ‘those who are worthy of the line;—those who are not so, are ‘*apaṅktya*;’ the ‘*yat*’ affix being added by virtue of the term ‘*paṅkti*’ occurring in the ‘*daṇḍādi*’ group.
 
-The results that accrue, from giving to such persons, to the giver,—all
-that I am going to describe; do listen with attention.—(169)
+The results that accrue, from giving to such persons, to the giver,—all that I am going to describe; do listen with attention.—(169)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

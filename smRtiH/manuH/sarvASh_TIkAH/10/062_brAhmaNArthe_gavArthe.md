@@ -28,10 +28,7 @@ For aliens perfection is secured by unrequitedly giving up the body for the sake
 
 ‘*Aliens*’—children born in the ‘inverse order.’
 
-‘*Perfection is secured*’;—the attaining of a superior caste is called
-‘perfection,’ on the ground of its leading up to it; the meaning being
-that these people come to be born in a caste where they become entitled
-to the rights and responsibilities of the higher caste.
+‘*Perfection is secured*’;—the attaining of a superior caste is called ‘perfection,’ on the ground of its leading up to it; the meaning being that these people come to be born in a caste where they become entitled to the rights and responsibilities of the higher caste.
 
 Or, ‘*perfection*’ may stand for the *attaining of heaven*.—(62)
 </details>

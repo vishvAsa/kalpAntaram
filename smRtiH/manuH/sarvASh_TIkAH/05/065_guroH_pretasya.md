@@ -15,14 +15,9 @@ The pupil performing the ‘Pitṛmedha’ for his dead Teacher becomes purified
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Pitṛmedha*’— *i.e*., the final sacrificial offering; others hold that
-the term stands for the entire procedure (of the Śrāddha);—performing
-this, the pupil *becomes purified in ten days*. This same rule applies
-to the Student also.
+‘*Pitṛmedha*’— *i.e*., the final sacrificial offering; others hold that the term stands for the entire procedure (of the Śrāddha);—performing this, the pupil *becomes purified in ten days*. This same rule applies to the Student also.
 
-‘*Just as those who carry the dead body*’;—for those who take out the
-dead body, the period is ten days; and so it is for the pupil
-also.—(64).
+‘*Just as those who carry the dead body*’;—for those who take out the dead body, the period is ten days; and so it is for the pupil also.—(64).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

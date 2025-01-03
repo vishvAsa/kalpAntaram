@@ -15,8 +15,7 @@ title = "093 नग्नो मुण्डः"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Potsherd*’—a piece of the cup or some other earthenware pot. The rest
-is easily intelligible.—(93)
+‘*Potsherd*’—a piece of the cup or some other earthenware pot. The rest is easily intelligible.—(93)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

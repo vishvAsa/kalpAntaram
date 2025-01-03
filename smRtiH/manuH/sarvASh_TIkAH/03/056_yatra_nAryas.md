@@ -15,12 +15,9 @@ Where women are honoured, there the gods rejoice; where, on the other hand, they
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The gods rejoice*’—are satisfied, pleased; and being pleased, they
-bestow upon the master of the house desirable rewards.
+‘*The gods rejoice*’—are satisfied, pleased; and being pleased, they bestow upon the master of the house desirable rewards.
 
-‘*Where they are not honoured*, *all rites are fruitless*’—; sacrifices,
-libations and charities,—gifts made with the motive of pleasing the
-gods,—all such acts, though done, become fruitless.
+‘*Where they are not honoured*, *all rites are fruitless*’—; sacrifices, libations and charities,—gifts made with the motive of pleasing the gods,—all such acts, though done, become fruitless.
 
 This is a commendatory exaggeration.—(56)
 </details>

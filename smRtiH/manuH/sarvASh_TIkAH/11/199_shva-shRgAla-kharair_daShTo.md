@@ -21,8 +21,7 @@ When bitten by a dog, or a jackal, or an ass, or by a tame carnivorous animal, o
 
 ‘*Bitten*’—with the teeth.
 
-‘Tame *carnivorous animal*’—such as the cat, the ichneumon and so
-forth.—(199)
+‘Tame *carnivorous animal*’—such as the cat, the ichneumon and so forth.—(199)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

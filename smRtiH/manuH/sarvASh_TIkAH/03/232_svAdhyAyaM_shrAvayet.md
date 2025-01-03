@@ -19,16 +19,13 @@ At the rite in honour of the Pitṛs, one should recite the Vedic text, Legal In
 
 ‘*Legal Institutes*’—the works of Manu and others.
 
-‘*Stories*’—such as those of Suparṇa, Mitrāvaruṇa, and the rest, related
-in the Ṛgveda.
+‘*Stories*’—such as those of Suparṇa, Mitrāvaruṇa, and the rest, related in the Ṛgveda.
 
 ‘*Histories*’—Mahābhārata, etc.
 
-‘*Legends*’—describing the creation of the world and such other
-subjects, written by Vyāsa and others.
+‘*Legends*’—describing the creation of the world and such other subjects, written by Vyāsa and others.
 
-‘*Supplementary texts*’—*e.g*., the *Śrī-sūkta*, the *Mahānāmnikā*, and
-the like.—(232)
+‘*Supplementary texts*’—*e.g*., the *Śrī-sūkta*, the *Mahānāmnikā*, and the like.—(232)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

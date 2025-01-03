@@ -37,13 +37,10 @@ kīnāśā abhiyantu vāhaiḥ*’
 
 ‘*House*’— the principal apartment.
 
-‘*One principal share*’;—among the several shares into which the
-property may be divided, the most important of these shall go to the
+‘*One principal share*’;—among the several shares into which the property may be divided, the most important of these shall go to the
 *Brāhmaṇa* son.
 
-All this should be set aside as the ‘preferential share’ for the
-‘eldest’ son, and the rest of the property should be divided according
-to the rule going to be laid down.—(150)
+All this should be set aside as the ‘preferential share’ for the ‘eldest’ son, and the rest of the property should be divided according to the rule going to be laid down.—(150)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

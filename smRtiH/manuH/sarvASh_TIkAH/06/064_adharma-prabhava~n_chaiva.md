@@ -17,8 +17,7 @@ On the infliction of pain upon living beings, caused by demerit; as also upon th
 
 The ‘*infliction*’—experiencing—‘*of* *pain*’ proceeds from Demerit.
 
-‘*Merit*’—as described above, is an ‘*artha*’, an ‘*entity*’ and from
-this—entity, essence—proceeds ‘*union with imperishable happiness*’.
+‘*Merit*’—as described above, is an ‘*artha*’, an ‘*entity*’ and from this—entity, essence—proceeds ‘*union with imperishable happiness*’.
 
 This also has to be reflected upon.
 

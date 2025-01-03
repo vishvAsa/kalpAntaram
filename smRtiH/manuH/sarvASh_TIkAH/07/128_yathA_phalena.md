@@ -14,16 +14,13 @@ title = "128 यथा फलेन"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This text is meant to assert that only a small tax shall be levied upon
-the person whose agricultural holding is not prosperous.
+This text is meant to assert that only a small tax shall be levied upon the person whose agricultural holding is not prosperous.
 
 ‘*Water-insect*’— leech.
 
 ‘*Ṣaṭpada*’—The black bee.
 
-Just as these derive full nourishment by taking in only a little food,
-similarly the King should not uproot his people (by overtaxing
-them).—(128)
+Just as these derive full nourishment by taking in only a little food, similarly the King should not uproot his people (by overtaxing them).—(128)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

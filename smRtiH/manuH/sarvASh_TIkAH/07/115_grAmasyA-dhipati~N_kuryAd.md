@@ -15,8 +15,7 @@ He shall appoint the lord of one village, as also the lord of ten villages, the 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-To each village he shall appoint one lord;—above him, the ‘lord of ten
-villages’; and so on.—(115)
+To each village he shall appoint one lord;—above him, the ‘lord of ten villages’; and so on.—(115)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

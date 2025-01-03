@@ -21,11 +21,9 @@ No man can guard women forcibly; they can however be guarded by the employment o
 
 This verse serves to eulogise the expedients going to be described.
 
-‘*Forcibly*’—by shutting them up by force in a harem or by banishing
-other men, and so forth—they cannot be guarded.
+‘*Forcibly*’—by shutting them up by force in a harem or by banishing other men, and so forth—they cannot be guarded.
 
-But they can be guarded by the employment of expedients;—*i.e*., by
-employing, making use of, these ‘*expedients*’, means.—(10)
+But they can be guarded by the employment of expedients;—*i.e*., by employing, making use of, these ‘*expedients*’, means.—(10)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

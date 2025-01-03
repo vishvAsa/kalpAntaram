@@ -14,8 +14,7 @@ He shall take the sixth part in the case of trees, meat, honey and clarified but
 
 The term ‘*dru*’ stands for trees. The rest is all clear.
 
-Out of the profit on all these articles, the sixth part shall be token
-by the King.—(131-132)
+Out of the profit on all these articles, the sixth part shall be token by the King.—(131-132)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

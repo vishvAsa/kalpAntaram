@@ -15,16 +15,13 @@ Having thus arranged all his business, he shall protect his people, ever intent 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Thus*’—refers to the *appointing of assistants* and all the rest that
-has been described above.
+‘*Thus*’—refers to the *appointing of assistants* and all the rest that has been described above.
 
 ‘*Arranged*’— accomplished.
 
 ‘*Business*’—all that is useful is called ‘business’.
 
-‘*Intent*’—engrossed; hence ‘*watchful*’ or ‘*watchfulness*’ may stand
-for infallibility of intellect. In this way shall he protect his
-people.—(142)
+‘*Intent*’—engrossed; hence ‘*watchful*’ or ‘*watchfulness*’ may stand for infallibility of intellect. In this way shall he protect his people.—(142)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

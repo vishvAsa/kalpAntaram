@@ -23,12 +23,9 @@ If a man, threatened with loss of life, eats food from stray sources, he does no
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The preceding texts have spoken of receiving gifts from improper
-persons; the present verse permits the partaking of food defiled by the
-ownership of low men.
+The preceding texts have spoken of receiving gifts from improper persons; the present verse permits the partaking of food defiled by the ownership of low men.
 
-‘*From stray sources*’—*i.e*., irrespectively of the caste and actions
-of the owner of the food.
+‘*From stray sources*’—*i.e*., irrespectively of the caste and actions of the owner of the food.
 
 The rest is all purely declamatory.—(104)
 </details>

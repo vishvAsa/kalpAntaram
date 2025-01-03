@@ -19,14 +19,9 @@ He should always sleep alone; nowhere should he allow his manhood to run out; by
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*He should always sleep alone*; *nowhere should he allove his manhood
-to run out*,’—*i.e*., not even outside; intercourse with women having
-been already prohibited.
+‘*He should always sleep alone*; *nowhere should he allove his manhood to run out*,’—*i.e*., not even outside; intercourse with women having been already prohibited.
 
-Next follows a commendatory statement—‘*Intentionally, etc*.’
-‘*Intention*’ means *wish*...... By allowing his manhood to run—by any
-means—he ‘*breaks*’—destroys—‘*his* *vow*’ of studentship
-(continence).—(180)
+Next follows a commendatory statement—‘*Intentionally, etc*.’ ‘*Intention*’ means *wish*...... By allowing his manhood to run—by any means—he ‘*breaks*’—destroys—‘*his* *vow*’ of studentship (continence).—(180)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

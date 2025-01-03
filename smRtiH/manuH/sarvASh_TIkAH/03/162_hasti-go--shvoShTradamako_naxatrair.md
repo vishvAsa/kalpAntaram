@@ -19,11 +19,9 @@ The tamer of elephants, bulls, horses or camels, one who subsists on stars, bird
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘One who trains elephants,’ etc., is called their ‘tamer,’ he who trains
-them in various gaits.
+‘One who trains elephants,’ etc., is called their ‘tamer,’ he who trains them in various gaits.
 
-‘*One who subsists on stars*,’—the term ‘stars’ stands for the science
-of Astrology; and he who lives by that is the astrologer.
+‘*One who subsists on stars*,’—the term ‘stars’ stands for the science of Astrology; and he who lives by that is the astrologer.
 
 The keeper of birds,—he who keeps them for the purposes of chase.
 

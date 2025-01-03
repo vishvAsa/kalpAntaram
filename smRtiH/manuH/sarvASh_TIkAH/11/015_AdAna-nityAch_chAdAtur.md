@@ -17,15 +17,11 @@ He shall take it also from one who always acquires, and never gives, if he refus
 
 This verse applies to all castes.
 
-‘*Who always acquires*’—who always goes on acquiring wealth by
-agriculture, by receiving gifts, by money-lending and so forth;—‘*and
-never gives*.’
+‘*Who always acquires*’—who always goes on acquiring wealth by agriculture, by receiving gifts, by money-lending and so forth;—‘*and never gives*.’
 
-‘*If* *he refuses to give up the thing*’— then other methods should be
-employed.
+‘*If* *he refuses to give up the thing*’— then other methods should be employed.
 
-‘*Who never gives*’—may he taken to mean ‘who is of a miserly
-disposition.’—(15)
+‘*Who never gives*’—may he taken to mean ‘who is of a miserly disposition.’—(15)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,17 +19,13 @@ Having, in anger, struck him intentionally, even with a straw, he is born, durin
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*In anger*’—*i.e*., in a fit of wrath; not in joke; and
-‘*intentionally*.’
+‘*In anger*’—*i.e*., in a fit of wrath; not in joke; and ‘*intentionally*.’
 
-‘*Ājāti*’ is *janma*, *birth*; the initial ‘*ā*’ being meaningless; just
-as in the term, ‘*pralambate*, the initial ‘*pra*’ is meaningless.
+‘*Ājāti*’ is *janma*, *birth*; the initial ‘*ā*’ being meaningless; just as in the term, ‘*pralambate*, the initial ‘*pra*’ is meaningless.
 
-‘*Sinful wombs*’—the wombs of sinful beings, *i.e*., the lower animals,
-whose life is full of suffering.
+‘*Sinful wombs*’—the wombs of sinful beings, *i.e*., the lower animals, whose life is full of suffering.
 
-To say nothing of more painful objects, by striking even by a straw, the
-man suffers the pangs of hell for a long time.—(166).
+To say nothing of more painful objects, by striking even by a straw, the man suffers the pangs of hell for a long time.—(166).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

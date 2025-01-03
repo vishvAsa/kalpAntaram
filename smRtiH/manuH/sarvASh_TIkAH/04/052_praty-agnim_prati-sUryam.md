@@ -27,17 +27,13 @@ In the shade, or in darkness, the Brāhmaṇa may—during the day or the night�
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Shade*’—*i.e*., where the sun’s rays are shut out by walls or doors,
-etc.
+‘*Shade*’—*i.e*., where the sun’s rays are shut out by walls or doors, etc.
 
-‘*Darkness*’—the obstruction of light by clouds or fogs or eclipses or
-by night.
+‘*Darkness*’—the obstruction of light by clouds or fogs or eclipses or by night.
 
-‘*With his face towards any direction he pleases*.’—He shall pass urine
-with his face towards that direction which he finds convenient.
+‘*With his face towards any direction he pleases*.’—He shall pass urine with his face towards that direction which he finds convenient.
 
-This rule pertains to such ‘darkness’ as makes it impossible for the
-directions to be determined.
+This rule pertains to such ‘darkness’ as makes it impossible for the directions to be determined.
 
 ‘Danger to life,’ and ‘fear’—due to thieves, etc.—(52)
 </details>

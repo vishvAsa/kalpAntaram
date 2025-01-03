@@ -15,8 +15,7 @@ He should eat the vegetables that grow on land and in water; also flowers, roots
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-He should eat those growing on land and in water; as also flowers, roots
-and fruits.—(13).
+He should eat those growing on land and in water; as also flowers, roots and fruits.—(13).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

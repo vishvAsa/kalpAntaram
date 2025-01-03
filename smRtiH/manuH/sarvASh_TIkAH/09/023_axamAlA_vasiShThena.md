@@ -15,15 +15,11 @@ The low-born Akṣamālā united with Vaśiṣṭha, and the doe united with Man
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Even though born of a low caste, Akṣamālā, the wife of Vaśiṣṭha, became,
-through that union, ‘*worthy of worship*’.
+Even though born of a low caste, Akṣamālā, the wife of Vaśiṣṭha, became, through that union, ‘*worthy of worship*’.
 
-Similarly the ‘*doe*’ though an animal, on becoming united with the sage
-Mandapāla, ‘*became worthy of worship*.’
+Similarly the ‘*doe*’ though an animal, on becoming united with the sage Mandapāla, ‘*became worthy of worship*.’
 
-Thus it is that even low-born women, belonging to the lower castes, came
-to be honoured like their husbands; as it has been said that ‘women are
-honoured by their age’.—(23).
+Thus it is that even low-born women, belonging to the lower castes, came to be honoured like their husbands; as it has been said that ‘women are honoured by their age’.—(23).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

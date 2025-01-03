@@ -17,8 +17,7 @@ Abusing, lying, calumniating all men, and idle prattling,—are the pour kinds o
 
 ‘*Abusing*’—uttering of words causing pain to others.
 
-‘*Calumniating*’—detracting from the merits of others, on account of
-jealousy.
+‘*Calumniating*’—detracting from the merits of others, on account of jealousy.
 
 ‘*Idle prattling*’ and^(‘)telling an untruth.’—(6)
 </details>

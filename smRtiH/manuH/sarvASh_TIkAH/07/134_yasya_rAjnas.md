@@ -15,8 +15,7 @@ The kingdom of that King in whose realm the Śrotriya suffers from hunger, shall
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is the result of disobeying the injunction just mentioned
-above.—(134)
+This is the result of disobeying the injunction just mentioned above.—(134)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -21,14 +21,11 @@ I shall now fully describe what offering-material, on being offered to the Pit�
 
 ‘The term ‘*chira-rātra*’ means *long time*.
 
-‘*That which serves for eternity*’ as well as that which brings about
-long-standing satisfaction;—both these I am going to describe.
+‘*That which serves for eternity*’ as well as that which brings about long-standing satisfaction;—both these I am going to describe.
 
-This is said for the purpose of attracting the attention of the
-audience.
+This is said for the purpose of attracting the attention of the audience.
 
-After ‘*kalpate*,’ the term ‘*prete*,’ ‘for the food,’ should be
-supplied.—(266)
+After ‘*kalpate*,’ the term ‘*prete*,’ ‘for the food,’ should be supplied.—(266)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

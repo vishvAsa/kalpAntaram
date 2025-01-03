@@ -17,8 +17,7 @@ Betaking himself to these and other methods, the king, ever alert, shall restrai
 
 This verse serves to sum up the section.
 
-‘*These methods*’—the functions of the gods—‘*others*’—to be learnt by
-experience.—(312)
+‘*These methods*’—the functions of the gods—‘*others*’—to be learnt by experience.—(312)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

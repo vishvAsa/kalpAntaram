@@ -21,13 +21,11 @@ If, on being pressed, one passes bodily refuse, either without water, or in wate
 
 ‘*Bodily refuse*’—urine or ordure.
 
-On ‘*passing*’ these, one should bathe ‘*in his clothes*’—the clothes in
-which he committed the act.
+On ‘*passing*’ these, one should bathe ‘*in his clothes*’—the clothes in which he committed the act.
 
 ‘*Outside*’—the village.
 
-‘*Bathing*’—becoming immersed in water; and ‘touching’ a cow,—he becomes
-pure.—(202)
+‘*Bathing*’—becoming immersed in water; and ‘touching’ a cow,—he becomes pure.—(202)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

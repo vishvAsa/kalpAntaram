@@ -15,11 +15,9 @@ Gandharvas, Guhyakas, ‘Yakṣas,’ the attendants of the gods, and all the Ap
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Gandharvas*’ and the rest are divine beings; the distinction among
-whom may be ascertained from the Itihāsas.
+‘*Gandharvas*’ and the rest are divine beings; the distinction among whom may be ascertained from the Itihāsas.
 
-‘*Vibudhas*’ are *gods*; the ‘*attendants*’ of these are those known as
-‘Siddhas,’ ‘Vidyadharas,’ and so forth—(47)
+‘*Vibudhas*’ are *gods*; the ‘*attendants*’ of these are those known as ‘Siddhas,’ ‘Vidyadharas,’ and so forth—(47)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

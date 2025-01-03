@@ -15,11 +15,7 @@ Being desirous of bringing into existence the (various kinds of) created beings,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*I called into being*,’—produced,—‘*the ten Great sages*,’ who are
-‘*the directors of all created things*’;— ‘*at the very outset, having
-performed most arduous austerities*’—austerities that were performed
-with great difficulty; *i.e*., which bring suffering and take a long
-time.
+‘*I called into being*,’—produced,—‘*the ten Great sages*,’ who are ‘*the directors of all created things*’;— ‘*at the very outset, having performed most arduous austerities*’—austerities that were performed with great difficulty; *i.e*., which bring suffering and take a long time.
 
 The ten great sages are mentioned by name (in verse 35).—(34-35)
 </details>

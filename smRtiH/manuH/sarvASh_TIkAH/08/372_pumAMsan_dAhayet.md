@@ -15,11 +15,9 @@ The offending male he should make to lie down upon a redhot iron bed; they shall
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The paramour of the woman spoken of in the preceding verse shall be
-burnt to death on an iron-bed made hot like fire.
+The paramour of the woman spoken of in the preceding verse shall be burnt to death on an iron-bed made hot like fire.
 
-Over him thus lying on the bed the executioners shall throw logs of
-wood, till he dies by the heat and by the strokes of the logs.—(372)
+Over him thus lying on the bed the executioners shall throw logs of wood, till he dies by the heat and by the strokes of the logs.—(372)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

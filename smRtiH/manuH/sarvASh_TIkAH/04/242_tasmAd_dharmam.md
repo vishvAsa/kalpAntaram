@@ -17,12 +17,9 @@ He shall, therefore, slowly accumulate Spiritual Merit, for the purpose of secur
 
 This is a recapitulation.
 
-‘*Unfordable darkness*’—*i.e*., that which is crossed over with
-difficulty.
+‘*Unfordable darkness*’—*i.e*., that which is crossed over with difficulty.
 
-‘*Darkness*’ stands for *suffering*. Even such ‘*unfordable darkness*’
-becomes easily fordable with the aid of Merit as a companion; *i.e*.,
-the man does not become submerged in the darkness.—(242)
+‘*Darkness*’ stands for *suffering*. Even such ‘*unfordable darkness*’ becomes easily fordable with the aid of Merit as a companion; *i.e*., the man does not become submerged in the darkness.—(242)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

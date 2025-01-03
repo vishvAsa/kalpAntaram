@@ -19,8 +19,7 @@ Knowing this disposition to be innate in them, from the very creation of the lor
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Lord*’, ‘*Prajāpati*’, is Hiraṇyagarbha; the disposition was born with
-them at the time of creation of the world by him.
+‘*Lord*’, ‘*Prajāpati*’, is Hiraṇyagarbha; the disposition was born with them at the time of creation of the world by him.
 
 The rest is clear.—(16)
 </details>

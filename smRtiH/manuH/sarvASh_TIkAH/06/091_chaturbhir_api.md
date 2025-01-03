@@ -15,15 +15,11 @@ By twice-born men belonging to all these four orders this ten-fold duty shall al
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse introduces what is going to be described below.
-‘*Ten-fold*’—That which has ten ‘folds’ or forms.
+This verse introduces what is going to be described below. ‘*Ten-fold*’—That which has ten ‘folds’ or forms.
 
 ‘*Be observed*’—Always be performed.
 
-Though all these have already been mentioned before, yet they are
-repeated here in order to indicate their great importance; and this
-repetition also lends support to the view that it is the combination of
-‘Knowledge’ and ‘Action’ that accomplishes the hightest end of man—(91)
+Though all these have already been mentioned before, yet they are repeated here in order to indicate their great importance; and this repetition also lends support to the view that it is the combination of ‘Knowledge’ and ‘Action’ that accomplishes the hightest end of man—(91)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

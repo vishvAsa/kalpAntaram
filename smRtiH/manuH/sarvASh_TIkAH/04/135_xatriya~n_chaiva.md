@@ -15,11 +15,9 @@ Desiring his own prosperity, he shall never despise a Kṣatriya, a serpent, a l
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Despising*’ means disrespect, *want* *of* *respect*, as also actual
-ill-treatment.
+‘*Despising*’ means disrespect, *want* *of* *respect*, as also actual ill-treatment.
 
-‘*Even if they be feeble*’—and, hence, unable to show any form of
-friendliness.—(135)
+‘*Even if they be feeble*’—and, hence, unable to show any form of friendliness.—(135)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

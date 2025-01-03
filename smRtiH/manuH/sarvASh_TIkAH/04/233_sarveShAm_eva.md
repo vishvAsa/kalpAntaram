@@ -17,8 +17,7 @@ The giving or Veda surpasses all gifts or water, food, cows, buffaloes, clothes,
 
 This is a commendatory supplement to the foregoing injunction.
 
-The term ‘*dāna*’ stands for *things given, gifts*, or for the act of
-giving.
+The term ‘*dāna*’ stands for *things given, gifts*, or for the act of giving.
 
 ‘*Giving of Veda*’—Studying and expounding the Veda,
 

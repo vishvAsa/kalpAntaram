@@ -19,27 +19,19 @@ Over-eating destroys health, cuts off life and bars heaven; it is unrighteous an
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The present verse proceeds to show that the prohibition of over-eating
-is based upon ordinary worldly considerations.
+The present verse proceeds to show that the prohibition of over-eating is based upon ordinary worldly considerations.
 
-‘*Destroys health*,’—is productive of such diseases as fever, pain in
-the stomach and so forth.
+‘*Destroys health*,’—is productive of such diseases as fever, pain in the stomach and so forth.
 
-‘*Cuts off life*,’—destroys life, bringing on such diseases as cholera
-and the like.
+‘*Cuts off life*,’—destroys life, bringing on such diseases as cholera and the like.
 
-‘*Bars heaven*,’—because implying the neglect of one’s body, it involves
-the transgressing of such scriptural injunctions as ‘one should guard
-himself against all things.’ The ‘barring of heaven’ means *going to
-hell*.
+‘*Bars heaven*,’—because implying the neglect of one’s body, it involves the transgressing of such scriptural injunctions as ‘one should guard himself against all things.’ The ‘barring of heaven’ means *going to hell*.
 
 ‘*Unrighteous*’—productive of misfortune.
 
-‘*Detested by people*’;—the man who eats too much is always looked down
-upon as a ‘glutton.’
+‘*Detested by people*’;—the man who eats too much is always looked down upon as a ‘glutton.’
 
-For these reasons one ‘*should avoid*,’ — *i.e*., not
-do—over-eating.—(57)
+For these reasons one ‘*should avoid*,’ — *i.e*., not do—over-eating.—(57)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

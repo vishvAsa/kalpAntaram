@@ -15,14 +15,11 @@ For property, even though acquired by lawful means,—if given to these three pe
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The term ‘property’ is meant to imply that the giving of *food* is not
-forbidden.
+The term ‘property’ is meant to imply that the giving of *food* is not forbidden.
 
-‘*Though acquired by laicful means*,’—such as gifts from proper sources,
-by purchase and such other means as are permitted by the scriptures.
+‘*Though acquired by laicful means*,’—such as gifts from proper sources, by purchase and such other means as are permitted by the scriptures.
 
-Such giving becomes a source of trouble to both the giver and the
-receiver in the next world.—(193).
+Such giving becomes a source of trouble to both the giver and the receiver in the next world.—(193).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

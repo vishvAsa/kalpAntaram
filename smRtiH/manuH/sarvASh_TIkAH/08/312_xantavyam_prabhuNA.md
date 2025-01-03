@@ -27,17 +27,11 @@ The king should always forgive the partisans of litigants who abuse him, as also
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Partisans of litigants*,’—*i.e*., the relations and friends of the
-plaintiff and the defendant. When one of the parties is imprisoned, his
-father or mother may ‘*abuse*’— cast aspersions upon, or curse—the king;
-then he should forgive them.
+‘*Partisans of litigants*,’—*i.e*., the relations and friends of the plaintiff and the defendant. When one of the parties is imprisoned, his father or mother may ‘*abuse*’— cast aspersions upon, or curse—the king; then he should forgive them.
 
-Also the litigants themselves, when they happen to be ‘*young or aged or
-infirm*.’
+Also the litigants themselves, when they happen to be ‘*young or aged or infirm*.’
 
-In this manner his own welfare becomes accomplished. This
-‘accomplishment of welfare’ is the fruit of obeying the injunction
-‘shall forgive.’—(312)
+In this manner his own welfare becomes accomplished. This ‘accomplishment of welfare’ is the fruit of obeying the injunction ‘shall forgive.’—(312)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

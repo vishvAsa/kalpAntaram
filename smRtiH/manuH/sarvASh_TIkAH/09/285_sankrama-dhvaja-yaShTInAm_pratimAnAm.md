@@ -27,16 +27,13 @@ He who destroys a crossing, a flag, a pole or images, shall repair the whole of 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Crossing*’—the contrivance by way of which people cross over
-waterways.
+‘*Crossing*’—the contrivance by way of which people cross over waterways.
 
-‘*Flag*’—*i.e*., the white piece of cloth, which serves as the insignia
-of Royalty and of Councillors.
+‘*Flag*’—*i.e*., the white piece of cloth, which serves as the insignia of Royalty and of Councillors.
 
 ‘*Pole*’—in temples; similarly ‘*images*’— installed in temples.
 
-‘*He shall repair it*’—*i.e*., restore it to its original
-condition.—(285)
+‘*He shall repair it*’—*i.e*., restore it to its original condition.—(285)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

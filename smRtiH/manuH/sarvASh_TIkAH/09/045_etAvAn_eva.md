@@ -15,12 +15,9 @@ The man is a man only in so far as he consists of himself, his wife and his prog
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is only right that the child belongs to the man whose wife the mother
-is; because the husband and wife are one; and the child also is the man
-himself; how then can the *self* of one man belong to another?
+It is only right that the child belongs to the man whose wife the mother is; because the husband and wife are one; and the child also is the man himself; how then can the *self* of one man belong to another?
 
-Such is the usage of the world, and the learned Brāhmaṇas also have made
-the same assertion.—(45)
+Such is the usage of the world, and the learned Brāhmaṇas also have made the same assertion.—(45)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -15,15 +15,11 @@ His own ploughman, hereditary friend, cowherd, slave and barder,—among Śūdra
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Ardhika*,’ ‘*Ploughman*,’ is the man who ploughs his family-holdings
-for him.
+‘*Ardhika*,’ ‘*Ploughman*,’ is the man who ploughs his family-holdings for him.
 
-‘*Cowherd* and *slave*’—arc terms denoting relationship. One may eat
-food of that person who keeps his cows for him.
+‘*Cowherd* and *slave*’—arc terms denoting relationship. One may eat food of that person who keeps his cows for him.
 
-‘*He who offers himself*;’—saying, ‘you are my sole refuge; I live
-solely dependent upon you’—one who offers oneself in this manner, is
-also one whose food may be eaten.—(253).
+‘*He who offers himself*;’—saying, ‘you are my sole refuge; I live solely dependent upon you’—one who offers oneself in this manner, is also one whose food may be eaten.—(253).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

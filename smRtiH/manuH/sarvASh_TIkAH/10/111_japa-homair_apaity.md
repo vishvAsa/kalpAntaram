@@ -15,13 +15,9 @@ By the muttering of sacred texts and by the offering of libations is the guilt i
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The guilt is removed*’—destroyed—‘*by the muttering of sacred texts
-and by the offering of libations*.’ Hence there is not much harm in
-this.
+‘*The guilt is removed*’—destroyed—‘*by the muttering of sacred texts and by the offering of libations*.’ Hence there is not much harm in this.
 
-But the guilt incurred in the receiving of gifts is removed only by the
-‘*renouncing*’— of the gifts—and ‘*by austerities*’—laid down later on,
-under 11.195.—(111)
+But the guilt incurred in the receiving of gifts is removed only by the ‘*renouncing*’— of the gifts—and ‘*by austerities*’—laid down later on, under 11.195.—(111)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,8 +19,7 @@ A cloth, a conveyance, an ornament, cooked food, water, women, what is conducive
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The singular number in ‘cloth,’ ‘conveyance‘ornament,’ and ‘cooked food’
-is meant to be significant.
+The singular number in ‘cloth,’ ‘conveyance‘ornament,’ and ‘cooked food’ is meant to be significant.
 
 ‘*Conveyance*’—vehicle; such as a chariot, a cart and so forth.
 
@@ -36,15 +35,11 @@ is meant to be significant.
 *e.g*., experienced ministers, priests, councillors and so forth. These
 are helpful in guarding the household against thieves and others.
 
-In another *Smṛti* it is found that ‘there is no division of the
-dwelling-house.’
+In another *Smṛti* it is found that ‘there is no division of the dwelling-house.’
 
 ‘*Pasture-ground*’—where the cattle graze.
 
-From what is declared here it would follow that it is not absolutely
-true that there is nothing wrong in dividing what has been left by the
-father. But this denial is of that kind of which a transgression
-involves no sin. (?)—(219)
+From what is declared here it would follow that it is not absolutely true that there is nothing wrong in dividing what has been left by the father. But this denial is of that kind of which a transgression involves no sin. (?)—(219)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

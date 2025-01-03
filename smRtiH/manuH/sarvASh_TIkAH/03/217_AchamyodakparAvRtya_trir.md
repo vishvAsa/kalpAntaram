@@ -18,27 +18,19 @@ Turning to the north, having sipped water and having gently suppressed his breat
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Having placed the balls on the kuśa-grass, he should turn towards the
-North, leftwards; since we read in another *Smṛti*—‘turning to the left,
-towards the north.’
+Having placed the balls on the kuśa-grass, he should turn towards the North, leftwards; since we read in another *Smṛti*—‘turning to the left, towards the north.’
 
-Seated with his face towards the North, he should sip water. ‘*Having
-sipped water*’— he should perform ‘breath-suppression’ three times;
+Seated with his face towards the North, he should sip water. ‘*Having sipped water*’— he should perform ‘breath-suppression’ three times;
 *e.g*., simply supressing the breath three times—only this much;—the
-rule relating to the repeating of the *Gāyatrī* verse along with the
-‘*Śiras*’ formula (Yājña. *Ācāra* 23) not applying to the present case.
+rule relating to the repeating of the *Gāyatrī* verse along with the ‘*Śiras*’ formula (Yājña. *Ācāra* 23) not applying to the present case.
 
-‘*Gently*’—so that there may not he much pain. This is what has been
-asserted (elsewhere) in the words—‘having suppressed the breathing as
-much as one can.’
+‘*Gently*’—so that there may not he much pain. This is what has been asserted (elsewhere) in the words—‘having suppressed the breathing as much as one can.’
 
-Still facing the North, he should salute, &c., &c.—saying, ‘Salutation
-to the spring!’ and so forth.
+Still facing the North, he should salute, &c., &c.—saying, ‘Salutation to the spring!’ and so forth.
 
 He should also salute the Pitṛs; ‘*with proper formulas* with the
 *mantra*, ‘*Na* *mo vaḥ pitaraḥ*, &c., &c.’ This saluting of the Pitṛs
-should be done with face turned towards the Balls; for another *Smṛti*
-says that this is to be done by ‘turning round.’—(217).
+should be done with face turned towards the Balls; for another *Smṛti* says that this is to be done by ‘turning round.’—(217).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

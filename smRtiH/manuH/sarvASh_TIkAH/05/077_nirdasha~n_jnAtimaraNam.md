@@ -15,8 +15,7 @@ Hearing of the death of a kinsman, or of the birth of a son, after the ten days 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This rule refers to *Samānodaka* relations; and also to *Sapiṇḍa* ones,
-but only when the option of three or one day is accepted.
+This rule refers to *Samānodaka* relations; and also to *Sapiṇḍa* ones, but only when the option of three or one day is accepted.
 
 ‘*With clothes*’—along with his garments.
 

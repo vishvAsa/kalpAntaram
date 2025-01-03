@@ -15,10 +15,7 @@ He may give up his life unhesitatingly for the sake of a cow or a Brāhmaṇa; t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If the man gives up his life in trying to save,—even though he does not
-succeed in saving,—he becomes absolved; while, if he succeeds in saving,
-then he becomes absolved, even though he may not lose his life in doing
-it.—(79)
+If the man gives up his life in trying to save,—even though he does not succeed in saving,—he becomes absolved; while, if he succeeds in saving, then he becomes absolved, even though he may not lose his life in doing it.—(79)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

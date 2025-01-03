@@ -15,11 +15,7 @@ If the cattle damage the unfenced crops therein, the king, in that case, shall n
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-As a rule, no crops should be grown on the pasture-lands; since if they
-have been grown,—why should fences have not been put up? The fault thus
-lies with the cultivator, and not with the cattle-keepers. The
-cattle-keeper cannot always be leading each individual animal by the
-rope; and there is no other grazing ground for the cattle.—(238)
+As a rule, no crops should be grown on the pasture-lands; since if they have been grown,—why should fences have not been put up? The fault thus lies with the cultivator, and not with the cattle-keepers. The cattle-keeper cannot always be leading each individual animal by the rope; and there is no other grazing ground for the cattle.—(238)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

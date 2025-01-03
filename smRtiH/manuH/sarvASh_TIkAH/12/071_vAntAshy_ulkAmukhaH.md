@@ -22,19 +22,15 @@ The Brāhmaṇa fallen off from his own duty becomes a ‘fire-mouthed’ Preta 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The text proceeds to indicate the states fallen into by those who fall
-off from their duty.
+The text proceeds to indicate the states fallen into by those who fall off from their duty.
 
-The *Preta* feeds upon vomitings; and its mouth keeps flaming like a
-fire-brand.
+The *Preta* feeds upon vomitings; and its mouth keeps flaming like a fire-brand.
 
 ‘*Kuṇapa*’—dead body.
 
 ‘*Kūṭapūtanaḥ*’—one from whose nostrils foul smell emanates.
 
-‘*Kaṭapūtanaḥ*’ is another reading; ‘*Kaṭapūtana*’ b eing the name of a
-being of the ‘*Piśāca*’ species, who keeps hovering in
-cremation-grounds.—(71)
+‘*Kaṭapūtanaḥ*’ is another reading; ‘*Kaṭapūtana*’ b eing the name of a being of the ‘*Piśāca*’ species, who keeps hovering in cremation-grounds.—(71)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

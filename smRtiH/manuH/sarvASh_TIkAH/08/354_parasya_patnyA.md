@@ -27,16 +27,7 @@ A man who engages in secret conversation with the wife of another person,—if h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Conversation*’—talking; one who is found to be doing this;—if he
-happens to be one who has been ‘*previously accused of*’—blamed for
-committing—‘*such offences*’—of having a love-intrigue with that
-woman,—*i.e*., if the man is of unsteady character, and has been already
-seen to be carrying on an intrigue with her,—or has been suspected of
-doing so;—‘*secretly*,’—in some secret place, or (as some people
-explain) in a place where such conversation is forbidden;—in the case of
-such a person, even if the conversation held with another’s wife be one
-bearing upon some business, be should be made to pay the ‘*first
-amercement*.’—(354)
+‘*Conversation*’—talking; one who is found to be doing this;—if he happens to be one who has been ‘*previously accused of*’—blamed for committing—‘*such offences*’—of having a love-intrigue with that woman,—*i.e*., if the man is of unsteady character, and has been already seen to be carrying on an intrigue with her,—or has been suspected of doing so;—‘*secretly*,’—in some secret place, or (as some people explain) in a place where such conversation is forbidden;—in the case of such a person, even if the conversation held with another’s wife be one bearing upon some business, be should be made to pay the ‘*first amercement*.’—(354)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

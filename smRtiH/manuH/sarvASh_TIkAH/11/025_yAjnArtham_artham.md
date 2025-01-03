@@ -19,9 +19,7 @@ If a Brāhmaṇa, having begged wealth for a sacrifice, does not spend the whole
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If a man has begged some wealth for the purpose of performing a
-sacrifice, and if he saves something out of it and uses it for other
-purposes, he becomes either a crow or a *Bhāsa*.—(25)
+If a man has begged some wealth for the purpose of performing a sacrifice, and if he saves something out of it and uses it for other purposes, he becomes either a crow or a *Bhāsa*.—(25)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

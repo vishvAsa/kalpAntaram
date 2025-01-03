@@ -15,16 +15,13 @@ The discerning king shall inflict this punishment upon the Brāhmaṇa and the K
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The construction of this passage is elliptical:—‘In the case of mutual
-abuse between the Brāhmaṇa and the Kṣatriya, this shall be the
-punishment.’
+The construction of this passage is elliptical:—‘In the case of mutual abuse between the Brāhmaṇa and the Kṣatriya, this shall be the punishment.’
 
 Or, the Dative (in ‘*brāhmāṇakṣatriyābhyāṃ*’) may be taken as denoting
 *purpose*; the sense being—‘for the purpose of keeping in check the
 Brāhmaṇa and the Kṣatriya.’
 
-The punishment here prescribed is to be inflicted when some grievous
-offence is attributed, and causes pain—(276)
+The punishment here prescribed is to be inflicted when some grievous offence is attributed, and causes pain—(276)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

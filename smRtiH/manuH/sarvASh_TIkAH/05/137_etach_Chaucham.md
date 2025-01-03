@@ -15,12 +15,7 @@ Such is the purification for householders; double of this for students, treble f
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The rules regarding Purification vary with the stages of life. For those
-who do not belong to any of these stages, the only rule is that as much
-earth and water shall be used as may be necessary. The same holds good
-for the *Śūdra* also, who is entitled to observe the rules regarding the
-stage of the Householder; so that he also has to observe the same number
-of applications.—(135).
+The rules regarding Purification vary with the stages of life. For those who do not belong to any of these stages, the only rule is that as much earth and water shall be used as may be necessary. The same holds good for the *Śūdra* also, who is entitled to observe the rules regarding the stage of the Householder; so that he also has to observe the same number of applications.—(135).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

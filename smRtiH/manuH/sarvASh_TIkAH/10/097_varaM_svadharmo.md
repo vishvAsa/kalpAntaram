@@ -15,16 +15,11 @@ Better one’s own duty imperfectly performed, and not the duty of another perfo
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is a deprecatory declamation in support of the foregoing
-injunction.
+This is a deprecatory declamation in support of the foregoing injunction.
 
-If a certain duty has been prescribed for one, in reference to his
-caste,—even though this be ‘*performed imperfectly*’—*i.e*., incomplete
-in its details,—it is right to perform that, and not the duty of another
-man, even though complete in all its details.
+If a certain duty has been prescribed for one, in reference to his caste,—even though this be ‘*performed imperfectly*’—*i.e*., incomplete in its details,—it is right to perform that, and not the duty of another man, even though complete in all its details.
 
-In support of this there is the deprecatory declamation—‘*He who
-subsists, etc., etc*.’— (97)
+In support of this there is the deprecatory declamation—‘*He who subsists, etc., etc*.’— (97)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

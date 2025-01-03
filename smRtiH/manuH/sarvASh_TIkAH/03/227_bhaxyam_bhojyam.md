@@ -19,8 +19,7 @@ Also hard food and soft food of various kinds, roots, fruits, savoury meat and s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Hard food*’—parched grains and pastries; what is tough, distinct, and
-requires to be masticated, is called ‘*hard food*, *bhakṣya*.’
+‘*Hard food*’—parched grains and pastries; what is tough, distinct, and requires to be masticated, is called ‘*hard food*, *bhakṣya*.’
 
 ‘*Soft food*’—butter-pudding, &c.—(227)
 </details>

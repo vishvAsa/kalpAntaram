@@ -15,11 +15,7 @@ When, having done, or doing, or going to do a certain act, a man happen to feel 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Having done*, or *doing, or going to do*.’—This indicates what has
-been spoken of as the ‘*three times*’; the said feeling may appear in
-some cases, at all the three points of time, while in others only at one
-or other of them; and it appears in the form of regret—‘Why did I do
-such an act? How can I appear before gentlemen?’—(35)
+‘*Having done*, or *doing, or going to do*.’—This indicates what has been spoken of as the ‘*three times*’; the said feeling may appear in some cases, at all the three points of time, while in others only at one or other of them; and it appears in the form of regret—‘Why did I do such an act? How can I appear before gentlemen?’—(35)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

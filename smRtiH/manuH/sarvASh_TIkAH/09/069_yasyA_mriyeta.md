@@ -15,15 +15,11 @@ If the husband of a maiden dies after the troth has been verbally plighted,—sh
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse lays down a practice in connection with maidens, which has
-the form of ‘authorization’.
+This verse lays down a practice in connection with maidens, which has the form of ‘authorization’.
 
-‘*After the troth has been verbally plighted*’—*i.e*., alter the
-accomplishment of verbal betrothal;—when she has been given away orally
-by one and accepted by the other party.
+‘*After the troth has been verbally plighted*’—*i.e*., alter the accomplishment of verbal betrothal;—when she has been given away orally by one and accepted by the other party.
 
-‘*Her own younger brother-in-law shall espouse*’—marry—‘*her, in the
-following manner*’—(69)
+‘*Her own younger brother-in-law shall espouse*’—marry—‘*her, in the following manner*’—(69)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -17,18 +17,11 @@ He shall not have recourse to a cross-road at midday, or at midnight, or after h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-At midday—at midnight—after having eaten, at a Śrāddha, food mixed with
-meat—‘*he shall not have recourse to a cross-road*;’ *i.e*., shall not
-stay there for any length of time. If, however, on his way; to another
-village, there is no other way save through the cross-road, his having
-recourse to it to that extent is not forbidden.
+At midday—at midnight—after having eaten, at a Śrāddha, food mixed with meat—‘*he shall not have recourse to a cross-road*;’ *i.e*., shall not stay there for any length of time. If, however, on his way; to another village, there is no other way save through the cross-road, his having recourse to it to that extent is not forbidden.
 
-Some people add a further ‘*ca*,’ and explain the text to mean, ‘after
-having eaten at a *śrāddha, and* after having partaken of meat-food.’
+Some people add a further ‘*ca*,’ and explain the text to mean, ‘after having eaten at a *śrāddha, and* after having partaken of meat-food.’
 
-Under this explanation, however, it would be necessary to seek for some
-usage in support of this; as without some such corroborative usage,
-there can be no justification for such disjointed construction.—(131)
+Under this explanation, however, it would be necessary to seek for some usage in support of this; as without some such corroborative usage, there can be no justification for such disjointed construction.—(131)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

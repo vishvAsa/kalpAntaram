@@ -17,14 +17,12 @@ The eater incurs no sin by eating, even daily, such animals as are eatable: sinc
 
 ‘*Eater*’—one who eats.
 
-‘*Eatable*’—which are capable of being eaten. He incurs no sin even by
-eating them daily.
+‘*Eatable*’—which are capable of being eaten. He incurs no sin even by eating them daily.
 
 By the ‘*Creator*’—Prajāpati—*himself*— have been created both the
 *enter* and the *eaten*.
 
-For this reason when there is danger to life, meat must be eaten. This
-is the sense of the three verses, which are purely comemendstory—(30).
+For this reason when there is danger to life, meat must be eaten. This is the sense of the three verses, which are purely comemendstory—(30).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

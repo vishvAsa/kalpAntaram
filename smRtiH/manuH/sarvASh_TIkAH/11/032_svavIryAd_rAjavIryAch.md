@@ -15,10 +15,7 @@ His own power is more forcible than the King’s power; the twice-born man shall
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is just possible that the King, being inept, may not inflict the
-requisite punishment while there is no possibility of the injured person
-himself ignoring it; it is in this sense that one’s own power is more
-forcible.—(32)
+It is just possible that the King, being inept, may not inflict the requisite punishment while there is no possibility of the injured person himself ignoring it; it is in this sense that one’s own power is more forcible.—(32)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

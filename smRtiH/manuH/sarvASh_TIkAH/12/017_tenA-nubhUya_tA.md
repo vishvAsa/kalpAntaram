@@ -19,12 +19,9 @@ After they have suffered, through this body, the torments inflicted by yama, tho
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Yama*’ is the name of a particular deity, who inflicts punishments
-upon sinners,—which are spoken of here as ‘*torments*.’
+‘*Yama*’ is the name of a particular deity, who inflicts punishments upon sinners,—which are spoken of here as ‘*torments*.’
 
-After the man has ‘*experienced*’ these torments, through the said body
-of five constituent material substances,—those bodies become dissolved
-into the said subtle particles of those substances.—(17)
+After the man has ‘*experienced*’ these torments, through the said body of five constituent material substances,—those bodies become dissolved into the said subtle particles of those substances.—(17)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

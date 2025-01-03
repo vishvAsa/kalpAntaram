@@ -15,12 +15,9 @@ One does not become venerable by the fact that his hair has turned grey; the god
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-One is not called ‘*venerable by the fact that his head has turned
-grey*’;—*i.e*., the hairs of his head have become white. How then?
+One is not called ‘*venerable by the fact that his head has turned grey*’;—*i.e*., the hairs of his head have become white. How then?
 
-He who, ‘*though young*’—is of young age—and yet carries on his
-study,—him ‘*the gods know*’—declare—‘*to be venerable*.’ The gods know
-all things, hence this is a praise (of the learned man).—(156)
+He who, ‘*though young*’—is of young age—and yet carries on his study,—him ‘*the gods know*’—declare—‘*to be venerable*.’ The gods know all things, hence this is a praise (of the learned man).—(156)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

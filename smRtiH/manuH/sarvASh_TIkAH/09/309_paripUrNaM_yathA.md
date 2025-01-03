@@ -23,12 +23,9 @@ The people rejoice at seeing the full moon; the king at whose appearance the peo
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What this means is that at the time that the King is seeing his people
-he shall be free from anger, joyous in countenance^ and wearing fine
-dresses and ornaments.
+What this means is that at the time that the King is seeing his people he shall be free from anger, joyous in countenance^ and wearing fine dresses and ornaments.
 
-The people ‘*rejoice*’ at seeing the King,—*i.e*., all their sorrows
-disappear.—(309)
+The people ‘*rejoice*’ at seeing the King,—*i.e*., all their sorrows disappear.—(309)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

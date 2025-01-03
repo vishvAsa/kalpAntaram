@@ -15,9 +15,7 @@ This should be understood to be in brief the characteristic of these three quali
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*At the three times*.’—This refers either (*a*) to the three conditions
-of equilibrium, increase and decrease, or (*b*) the high, low and
-middling character of the results.
+‘*At the three times*.’—This refers either (*a*) to the three conditions of equilibrium, increase and decrease, or (*b*) the high, low and middling character of the results.
 
 ‘*This*’—refers to what follows.—(34)
 </details>

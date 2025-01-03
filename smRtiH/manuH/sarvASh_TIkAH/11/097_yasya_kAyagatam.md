@@ -19,14 +19,9 @@ When the ‘Brahman’ resident in his body has been once deluged by wine, the �
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When the Veda has been duly studied, it remains in the man’s heart, in
-the form of memory; and it is the Veda thus committed to memory that is
-called here ‘*Brahman*.’ The meaning thus is that when the heart has
-become ‘*deluged with wine*,’ the man becomes a *Śūdra*.
+When the Veda has been duly studied, it remains in the man’s heart, in the form of memory; and it is the Veda thus committed to memory that is called here ‘*Brahman*.’ The meaning thus is that when the heart has become ‘*deluged with wine*,’ the man becomes a *Śūdra*.
 
-‘*Brāhmaṇahood*’ has been mentioned with a view to indicate that all
-kinds of wine are forbidden for the Brāhmaṇa,—the wine distilled from
-grains alone being forbidden for the *Kṣatriya* and *Vaiśya*.—(97)
+‘*Brāhmaṇahood*’ has been mentioned with a view to indicate that all kinds of wine are forbidden for the Brāhmaṇa,—the wine distilled from grains alone being forbidden for the *Kṣatriya* and *Vaiśya*.—(97)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

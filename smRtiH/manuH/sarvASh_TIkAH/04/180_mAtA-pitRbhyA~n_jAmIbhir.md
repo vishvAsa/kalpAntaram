@@ -29,8 +29,7 @@ He shall not have a quarrel with the officiating priest, the priest, or his Teac
 
 ‘*Female relations*’—sisters and other married relations.
 
-‘*Quarrel*’—any sort of misunderstanding or unpleasant dealing, and even
-wordy quarrel—‘*he shall not do*’—with any of these.—(180).
+‘*Quarrel*’—any sort of misunderstanding or unpleasant dealing, and even wordy quarrel—‘*he shall not do*’—with any of these.—(180).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

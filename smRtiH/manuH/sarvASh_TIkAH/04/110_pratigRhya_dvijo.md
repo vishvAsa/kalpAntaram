@@ -19,18 +19,11 @@ After having accepted invitation to a unitary funeral rite, the learned Brāhma�
 
 The ‘Unitary Rite’ is that which is offered to a single ancestor;
 *i.e*., the fresh funeral rite (that which is performed after
-death);—having ‘*accepted*’—agreed to—‘*invitation*’ at that rite, it
-becomes an occasion unfit for study, for three days, counting from the
-day of the invitation.
+death);—having ‘*accepted*’—agreed to—‘*invitation*’ at that rite, it becomes an occasion unfit for study, for three days, counting from the day of the invitation.
 
-Similarly, when ‘*of the King*’—*i.e*., of the Moon—there is
-‘*impurity*,’ *i.e*., pouring of nectar towards Rāhu. ‘*Also*’ in this
-case, is meant to include the *Sun* also.
+Similarly, when ‘*of the King*’—*i.e*., of the Moon—there is ‘*impurity*,’ *i.e*., pouring of nectar towards Rāhu. ‘*Also*’ in this case, is meant to include the *Sun* also.
 
-Or, the ‘*impurity of the King*’ may mean the rejoicings accompaying the
-birth of a son to the *King*, the ruler of men; and the ‘*impurity of
-the Rāhu*,’ for the eclipses of the Sun and the Moon, known as
-‘*grahaṇa*,’ ‘catching.’—(110)
+Or, the ‘*impurity of the King*’ may mean the rejoicings accompaying the birth of a son to the *King*, the ruler of men; and the ‘*impurity of the Rāhu*,’ for the eclipses of the Sun and the Moon, known as ‘*grahaṇa*,’ ‘catching.’—(110)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

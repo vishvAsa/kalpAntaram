@@ -15,8 +15,7 @@ By means of these penances, the committers of heinous crimes may wipe off their 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This summarises what has been said before and what is going to be said
-next—(107)
+This summarises what has been said before and what is going to be said next—(107)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

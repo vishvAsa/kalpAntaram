@@ -15,8 +15,7 @@ Those Brāhmaṇas, who properly study the ten forms of duty, and having studied
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This describes the reward of what has just been enjoined. The mention of
-the reward of study is meant to eulogise the actual performance.—(93).
+This describes the reward of what has just been enjoined. The mention of the reward of study is meant to eulogise the actual performance.—(93).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

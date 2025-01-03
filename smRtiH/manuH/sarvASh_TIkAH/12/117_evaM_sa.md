@@ -19,16 +19,11 @@ Thus has the blessed Lord explained to me, with a desire to benefit mankind, the
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The blessed Lord*’—Manu—propounded these Ordinances for the ‘*benefit
-of mankind*.’ This is what Bhṛgu says to his pupils.
+‘*The blessed Lord*’—Manu—propounded these Ordinances for the ‘*benefit of mankind*.’ This is what Bhṛgu says to his pupils.
 
-This sets at rest all doubts regarding persons entitled to seek for
-knowledge.
+This sets at rest all doubts regarding persons entitled to seek for knowledge.
 
-‘*Secret*’— the true philosophy of the Self also, the revered Manu has
-disclosed to me; and I also have disclosed it to you just as I heard it.
-So that you should not seek for any further knowledge on the
-subject.—(117)
+‘*Secret*’— the true philosophy of the Self also, the revered Manu has disclosed to me; and I also have disclosed it to you just as I heard it. So that you should not seek for any further knowledge on the subject.—(117)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

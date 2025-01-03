@@ -27,14 +27,9 @@ If a Vaiśya approaches a protected Kṣatriya woman, or the Kṣatriya a Vaiśy
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It has been said above (in 376) that in the case of approaching an
-unprotected Brāhmaṇa woman, the Vaiśya ‘should be committed with five
-hundred and the Kṣatriya with one thousand.’ So in the present case also
-the fine for the *Vaisḥya* would be five hundred.
+It has been said above (in 376) that in the case of approaching an unprotected Brāhmaṇa woman, the Vaiśya ‘should be committed with five hundred and the Kṣatriya with one thousand.’ So in the present case also the fine for the *Vaisḥya* would be five hundred.
 
-The heavier punishment for the *Kṣatriya* is justified on the ground
-that being entrusted with the task of protecting the people, if he takes
-to offending against them, he incurs a great sin.—(382)
+The heavier punishment for the *Kṣatriya* is justified on the ground that being entrusted with the task of protecting the people, if he takes to offending against them, he incurs a great sin.—(382)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

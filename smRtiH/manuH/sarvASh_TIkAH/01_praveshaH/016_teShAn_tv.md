@@ -13,7 +13,6 @@ Having combined the subtile components of the said six principles of illimitable
 This entity differentiated into 6 types of minute particles, which possess properties without exception, and combined with minute particles of that original entity, gave rise to the elements of all existence.
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 **तेषां षण्णां** या **आत्ममात्रास्** तासु **सूक्ष्मान्** **अवयवान्** **संनिवेश्य** **सर्वभूतानि निर्ममे** । तत्र षट्संख्यया वक्ष्यमाणानि पञ्च तन्मात्राणि अतिक्रान्तश् चाहंकारः प्रतिनिर्दिश्यते । आत्ममात्रास् तेषां स्वविकाराः । तन्मात्राणां भूतानि, अहंकारस्येन्द्रियाणि । पृथिव्यादिषु भूतेषु शरीररूपतया तिष्ठत्सु सूक्ष्मान् अवयवांस् तन्मात्राहंकारान् संनिवेश्य यथास्थानं योजनं कृत्वा सर्वभूतानि देवमनुष्यतिर्यक्पक्षिस्थावरादीनि निर्ममे । एतद् उक्तं भवति । षड् अविशेषा अवयवा एकदेशारम्भकाः सर्वस्य जगतस् तस्य तदारब्धत्वात् । सूक्ष्मत्वं तन्मात्रसंज्ञयैव सिद्धम् । तानि संनिवेश्य संनिहत्य[^४८] तेषाम् एवात्ममात्रांस् तद्विकारान्[^४९] भूतेन्द्रियाणि निर्ममे । तैश् च पिण्डसृष्टिं चकारात् । "**मात्रासु**" इत्य् अत्र "मात्राभिः" इति युक्तः पाठः ॥ १.१६ ॥
@@ -29,30 +28,13 @@ This entity differentiated into 6 types of minute particles, which possess prope
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The said six principles of their own respective evolutes,—to these he
-joined their subtile components, and thus created all beings.
+The said six principles of their own respective evolutes,—to these he joined their subtile components, and thus created all beings.
 
-The number ‘*six*,’ (mentioned in connection with the Principles) is
-made up of the *five* ‘Rudimentary Substances,’ to be described later
-on, and the ‘Principle of Egoism’ already described.
+The number ‘*six*,’ (mentioned in connection with the Principles) is made up of the *five* ‘Rudimentary Substances,’ to be described later on, and the ‘Principle of Egoism’ already described.
 
-The ‘*own envolutes*’ of these Principles, are their respective
-products; *i.e*., the elemental substances, which are the products of
-the‘Rudimentary Substances,’ the Sense-organs which are the products of
-the ‘Principle of Egoism.’ The Eaṛth and the other Elemental Substances
-being present, like so many ‘bodies,’ he joined to them the ‘subtile
-components’; *i.e*., the Rudimentary Substances and the Principle of
-Egoism; that is, he placed them in their proper places, and thus
-‘*created all beings*,’—Gods, men, animals, birds, trees and so forth.
+The ‘*own envolutes*’ of these Principles, are their respective products; *i.e*., the elemental substances, which are the products of the‘Rudimentary Substances,’ the Sense-organs which are the products of the ‘Principle of Egoism.’ The Eaṛth and the other Elemental Substances being present, like so many ‘bodies,’ he joined to them the ‘subtile components’; *i.e*., the Rudimentary Substances and the Principle of Egoism; that is, he placed them in their proper places, and thus ‘*created all beings*,’—Gods, men, animals, birds, trees and so forth.
 
-The meaning is as follows:—The six subtile components are productive of
-one portion of the entire world, the whole of which is evolved out of
-them; that they are ‘subtile’ is proved by the fact of their being
-‘rudimentary’ in their character;—these he ‘*combined*,’ *i.e*., brought
-together, *with their own envolutes*,’ *i.e*., their respective
-products; he produced the material substances and the organs (of
-action), and through these, the entire material world; these latter
-being indicated by the word ‘even.’
+The meaning is as follows:—The six subtile components are productive of one portion of the entire world, the whole of which is evolved out of them; that they are ‘subtile’ is proved by the fact of their being ‘rudimentary’ in their character;—these he ‘*combined*,’ *i.e*., brought together, *with their own envolutes*,’ *i.e*., their respective products; he produced the material substances and the organs (of action), and through these, the entire material world; these latter being indicated by the word ‘even.’
 
 In place of ‘*mātrāsu*’ it is better to rend ‘*mātrābhiḥ*’.—(16)
 </details>

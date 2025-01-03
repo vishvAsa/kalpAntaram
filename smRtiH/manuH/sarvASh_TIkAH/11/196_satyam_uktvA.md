@@ -19,12 +19,9 @@ Having said ‘Forsooth’ to the Brāhmaṇas, he shall scatter grass to the co
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-That place is said to be ‘*hallowed by the cows*’ by which they pass to
-the pasture-grounds, or where they descend to a river or to a water-fall
-for drinking water.
+That place is said to be ‘*hallowed by the cows*’ by which they pass to the pasture-grounds, or where they descend to a river or to a water-fall for drinking water.
 
-‘*They*’— the Brāhmaṇas—‘*shall accord to him admission*,’ *i.e*., they
-shall take hold of his hand and bring him over near themselves.—(196)
+‘*They*’— the Brāhmaṇas—‘*shall accord to him admission*,’ *i.e*., they shall take hold of his hand and bring him over near themselves.—(196)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

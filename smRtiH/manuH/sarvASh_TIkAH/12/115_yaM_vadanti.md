@@ -15,8 +15,7 @@ When ignorant men, partaking of the quality of ‘Tamas,’ declare a certain ac
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This describes the evil effects befalling those ignorant men who go
-about propounding the law.—(115)
+This describes the evil effects befalling those ignorant men who go about propounding the law.—(115)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -19,11 +19,7 @@ After having his sacraments performed, the Vaiśya shall take a wife and apply h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Having his sacraments performed*’—*i.e*., having boon duly
-initiated;—and after he has been married,—he shall apply himself to
-‘agriculture,’ ‘*vārtā*—this term stands for the whole lot of business
-going to be described below. Details regarding this business have been
-expounded in the work of Bṛhaspati.—(326).
+‘*Having his sacraments performed*’—*i.e*., having boon duly initiated;—and after he has been married,—he shall apply himself to ‘agriculture,’ ‘*vārtā*—this term stands for the whole lot of business going to be described below. Details regarding this business have been expounded in the work of Bṛhaspati.—(326).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

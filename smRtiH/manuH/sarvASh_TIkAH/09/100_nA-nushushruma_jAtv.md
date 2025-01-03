@@ -15,8 +15,7 @@ Nor indeed have we heard, even in former Cycles, of the covert sale of a daughte
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-We have not heard of such a thing from any source. ‘*Pūrveṣu
-janmasu*’—*i.e*., in former cycles.—(100)
+We have not heard of such a thing from any source. ‘*Pūrveṣu janmasu*’—*i.e*., in former cycles.—(100)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

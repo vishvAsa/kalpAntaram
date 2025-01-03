@@ -19,10 +19,7 @@ But even when subsisting by the occupation of the Vaiśya, the Brāhmaṇa or th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This deprecation of Agriculture is meant to eulogise the other
-occupations of the Vaiśya, and to forbid agriculture itself. If it had
-been to be entirely forbidden, the permitting of it (under 82) would
-become absolutely pointless.—(83)
+This deprecation of Agriculture is meant to eulogise the other occupations of the Vaiśya, and to forbid agriculture itself. If it had been to be entirely forbidden, the permitting of it (under 82) would become absolutely pointless.—(83)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

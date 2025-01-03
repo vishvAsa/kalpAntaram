@@ -15,11 +15,9 @@ Their food should be given to them, through others, and in a broken dish; they s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The householder shall not give the food with his own hands; he shall
-cause it to be given by his servants, in the manner described above.
+The householder shall not give the food with his own hands; he shall cause it to be given by his servants, in the manner described above.
 
-The prohibition of wandering about at night in villages, and cities is
-with a view to prevent the chance of people being touched.—(54)
+The prohibition of wandering about at night in villages, and cities is with a view to prevent the chance of people being touched.—(54)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

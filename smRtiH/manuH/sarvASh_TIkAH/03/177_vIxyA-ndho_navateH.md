@@ -9,7 +9,6 @@ The blind man, by looking, destroys the feeder’s reward for feeding ninety men
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> चान्धस्य कुतो दर्शनम्, येनेदम् उच्यते **वीक्ष्यान्धो नवतेर्** इति ।
 
 - <u>सत्यम्</u> । तत्प्रदेशसंनिधानम् अनेन लक्ष्यते । यावान् देशश् चक्षुष्मतो दृष्टिगोचरस् तावतो देशाद् अनावृताद् अन्धो विवासनीयः । **काणः** षष्टेः । नात्रायम् अर्थो ऽत ऊर्ध्वं भोज्या इति । केवलं संख्यापचयेन दोषलाघवं प्रायश्चित्तविशेषार्थं ज्ञाप्यते । **श्वित्री** कुष्ठी भण्यते । **पापरोगी** प्रसिद्धः ॥ ३.१६७ ॥
@@ -17,18 +16,11 @@ The blind man, by looking, destroys the feeder’s reward for feeding ninety men
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“How can there be any *looking* by the blind man;—by virtue of which the
-text says ‘*the* blind man *by looking*, etc.’?”
+“How can there be any *looking* by the blind man;—by virtue of which the text says ‘*the* blind man *by looking*, etc.’?”
 
-True; what is meant is only his proximity to the place. The meaning is
-that, in an uncovered place, the blind man should be removed away from
-such distance from which the man with eyes could see.
+True; what is meant is only his proximity to the place. The meaning is that, in an uncovered place, the blind man should be removed away from such distance from which the man with eyes could see.
 
-‘*The one-eyed man of sixty*;’—this does not mean that if the number is
-more than these, they may be fed (even in the presence of the blind,
-etc.). All that the reducing of the number means is that the delinquency
-would be less serious, and hence the expiatory rite to be performed
-would be on a smaller scale.
+‘*The one-eyed man of sixty*;’—this does not mean that if the number is more than these, they may be fed (even in the presence of the blind, etc.). All that the reducing of the number means is that the delinquency would be less serious, and hence the expiatory rite to be performed would be on a smaller scale.
 
 It is the *leper* that is called ‘*śvitrī*.’
 

@@ -15,22 +15,15 @@ While fighting his enemies in battle, he shall hot strike with concealed weapons
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The author proceeds to indicate such rules as appertain to superphysical
-results.
+The author proceeds to indicate such rules as appertain to superphysical results.
 
-‘*Concealed*’—those that have a wooden exterior, but sharpened weapons
-within.
+‘*Concealed*’—those that have a wooden exterior, but sharpened weapons within.
 
-‘*Barbed*’—those arrows that are supplied, either at the base or in the
-middle of their shafts, with ear-shaped barbs, which, once they enter
-the flesh, can be withdrawn with difficulty ; and even when withdrawn
-they lascerate even those parts of the body that may not have been
-wounded by weapons.
+‘*Barbed*’—those arrows that are supplied, either at the base or in the middle of their shafts, with ear-shaped barbs, which, once they enter the flesh, can be withdrawn with difficulty ; and even when withdrawn they lascerate even those parts of the body that may not have been wounded by weapons.
 
 ‘*Poisoned*’—besmeared with poison.
 
-Those whose shafts are ‘*flaming*’, i.e., consisting of fire. He shell
-not fight with such weapons.—(90)
+Those whose shafts are ‘*flaming*’, i.e., consisting of fire. He shell not fight with such weapons.—(90)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

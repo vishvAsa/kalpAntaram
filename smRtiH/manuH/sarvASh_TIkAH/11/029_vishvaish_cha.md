@@ -15,8 +15,7 @@ The substitute of the Primary Rule was ordained by the Viśvedevas, the Sādhyas
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This also means that the substitute shall be adopted only in adversity,
-never in prosperity.—(29)
+This also means that the substitute shall be adopted only in adversity, never in prosperity.—(29)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

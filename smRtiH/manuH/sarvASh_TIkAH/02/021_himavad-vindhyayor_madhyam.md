@@ -13,7 +13,6 @@ The country lying between the Himālaya and the Vindhya, to the east of Vinaśan
 This land, that lies between the Himalayas and the Vindhyas mountains, with prayAga in the East and vinashana (the place where the river Sarasvati disappears) to the west, is called madhyadesa. 
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 उत्तरस्यां दिशि हिमवान् पर्वतः, दक्षिणस्यां विन्ध्यः । **विनशनं** सरस्वत्या अन्तर्धानदेशः । **प्रयागः** गङ्गायमुनयोः संगमः । एतान् देशान् अवधीकृत्य[^१०६] मध्यं **मध्यदेश**नामानं देशं विद्यात् । नात्युत्कृष्टो नातिनिकृष्ट इत्य् अतो ऽयं मध्यदेशः, न तु पृथिवीमध्यभवत्वात् ॥ २.२१ ॥
@@ -25,15 +24,11 @@ This land, that lies between the Himalayas and the Vindhyas mountains, with pray
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-On the north lies the Himālaya and on the south the Vindhya.
-‘*Vinaśana*’ is the name of the place where the Sarasvatī river has
-disappeared.—(20)
+On the north lies the Himālaya and on the south the Vindhya. ‘*Vinaśana*’ is the name of the place where the Sarasvatī river has disappeared.—(20)
 
 ‘*Prayāga*’—is the confluence of the Gaṅgā and the Yamunā.
 
-The region having these four as its boundaries is to be known by the
-name ‘*Madhya-deśa*.’ It is called ‘*madhya*’ or ‘middle,’ because it is
-neither very superior nor very inferior,—and *not* because it is located
+The region having these four as its boundaries is to be known by the name ‘*Madhya-deśa*.’ It is called ‘*madhya*’ or ‘middle,’ because it is neither very superior nor very inferior,—and *not* because it is located
 *the centre* of the Earth.—(21)
 </details>
 

@@ -15,10 +15,7 @@ Even though an infant, the King shall not be despised as if he were merely human
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Even on infant King shall not be regarded as merely a human being, and
-as such despised. In fact he is a great divinity, appearing in the shape
-of man. For this reason it is not right to show disrespect towards the
-King, even on account of defects that may be perceived in him.—(8)
+Even on infant King shall not be regarded as merely a human being, and as such despised. In fact he is a great divinity, appearing in the shape of man. For this reason it is not right to show disrespect towards the King, even on account of defects that may be perceived in him.—(8)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

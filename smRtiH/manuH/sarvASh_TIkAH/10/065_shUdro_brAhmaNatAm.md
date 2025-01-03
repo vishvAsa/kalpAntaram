@@ -23,18 +23,11 @@ The Śūdra attains the position of the Brāhmaṇa and the Brāhmaṇa sinks to
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-That ‘the Śūdra attains the position of the Brāhmaṇa’ is what, has
-already been asserted above.
+That ‘the Śūdra attains the position of the Brāhmaṇa’ is what, has already been asserted above.
 
-‘*The Brāhmaṇa sinks to the position of the Śūdra*’.—*The* ‘*Brāhmaṇa*’
-meant here should be understood to be the Brāhmaṇa-born ‘*Pārāśatra*.’
-If he marries a Śūdra girl of the nature described above, he sinks down
-to the lower level, in the third generation. This is how they explain
-this.
+‘*The Brāhmaṇa sinks to the position of the Śūdra*’.—*The* ‘*Brāhmaṇa*’ meant here should be understood to be the Brāhmaṇa-born ‘*Pārāśatra*.’ If he marries a Śūdra girl of the nature described above, he sinks down to the lower level, in the third generation. This is how they explain this.
 
-People who attain the higher caste, according to the principle here
-enunciated, become entitled to the sacraments and rites pertaining to
-that caste.—(65)
+People who attain the higher caste, according to the principle here enunciated, become entitled to the sacraments and rites pertaining to that caste.—(65)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

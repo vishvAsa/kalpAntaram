@@ -17,14 +17,11 @@ In the presence of gods and Brāhmaṇas, during forenoon, the judge, pure himse
 
 ‘*Gods*’—Durgā, Sūrya and the rest, set up in the form of images.
 
-‘*Purified*,’—*i.e*., who have performed the rites of bathing,
-mouth-rinsing and so forth.
+‘*Purified*,’—*i.e*., who have performed the rites of bathing, mouth-rinsing and so forth.
 
-‘*Pure*,’—the judge himself should have purified himself in the same
-way.
+‘*Pure*,’—the judge himself should have purified himself in the same way.
 
-‘*Truth*,’—this is a mere re-iteration of what is already implied; and
-it servos the purpose of filling up the metre.—(87)
+‘*Truth*,’—this is a mere re-iteration of what is already implied; and it servos the purpose of filling up the metre.—(87)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

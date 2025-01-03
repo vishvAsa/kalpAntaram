@@ -19,9 +19,7 @@ By the constant recitation of the Veda, by purification, by austerity, and by do
 
 ‘*Living beings*’—moveable as well as immoveable.
 
-The four acts mentioned bring about their result in the form of the
-remembrance of previous births; and they are to be performed throughout
-one’s life.
+The four acts mentioned bring about their result in the form of the remembrance of previous births; and they are to be performed throughout one’s life.
 
 ‘*Jāti*’—another birth.
 

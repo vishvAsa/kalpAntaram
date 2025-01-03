@@ -15,10 +15,7 @@ If one likes to live in life-long residence in the teacher’s house, he should,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If he likes to live in absolute—*i.e*., life long, permanent,—residence
-in the Teacher’s house,—then, in that owe,—‘*he should
-intently*’—diligently—‘*serve him*,’—the Teacher; ‘*till he becomes
-freed from his body*,—*i.e*., as long as his body lasts.—(243)
+If he likes to live in absolute—*i.e*., life long, permanent,—residence in the Teacher’s house,—then, in that owe,—‘*he should intently*’—diligently—‘*serve him*,’—the Teacher; ‘*till he becomes freed from his body*,—*i.e*., as long as his body lasts.—(243)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

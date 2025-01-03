@@ -19,15 +19,11 @@ If people do not hasten to assist, to the best of their power, whenever a villag
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If the men concerned are capable of rendering help, but desist, through
-laziness or some such cause,—they should be banished.
+If the men concerned are capable of rendering help, but desist, through laziness or some such cause,—they should be banished.
 
-Those however who may have entered into some compact with the thieves,
-shall be put to death, as already laid down (under 269).
+Those however who may have entered into some compact with the thieves, shall be put to death, as already laid down (under 269).
 
-‘*Chattels*’— cows, horses and so forth All this also shall be sent
-away, and not confiscated. They should not be deprived of their cattle,
-though their wealth may be confiscated.—(274)
+‘*Chattels*’— cows, horses and so forth All this also shall be sent away, and not confiscated. They should not be deprived of their cattle, though their wealth may be confiscated.—(274)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

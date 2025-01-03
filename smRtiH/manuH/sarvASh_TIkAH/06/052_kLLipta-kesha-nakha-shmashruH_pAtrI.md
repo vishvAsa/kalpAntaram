@@ -21,8 +21,7 @@ His hair, nails and beard clipped, equipped with vessels, staffs and water-pot, 
 
 ‘*Kusumbha*’—is *water-pot*, not the colouring substance.
 
-What is said in the second half of the verse has been already said
-before. (52)
+What is said in the second half of the verse has been already said before. (52)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,8 +19,7 @@ For Sūtas, the management of horses and chariots; for Ambaṣṭhas, the art of
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Service of women*’—Keeping guard over the inner apartments and so
-forth.
+‘*Service of women*’—Keeping guard over the inner apartments and so forth.
 
 ‘*Trade*’—by land and by water.—(47)
 </details>

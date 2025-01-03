@@ -19,10 +19,7 @@ He who eats what has been left by a cat, a crow, a rat, a dog, or an ichneumon,�
 
 ‘*Defiled*’—rendered impure by the contact of the said things.
 
-‘*Brahmasuvarcalā*’—Having pounded it and mixed it with water, he shall
-drink it *for one day*; since the text does not make any specific
-recommendation as to time, if the drinking is done once one day, the
-injunction will have been duly obeyed.—(159)
+‘*Brahmasuvarcalā*’—Having pounded it and mixed it with water, he shall drink it *for one day*; since the text does not make any specific recommendation as to time, if the drinking is done once one day, the injunction will have been duly obeyed.—(159)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

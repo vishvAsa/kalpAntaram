@@ -15,17 +15,13 @@ Nor the food of the thief or the singer, nor of the carpenter, the usurer, of th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Singer*,’— Who lives by singing. The ordinary occasional singing of
-popular songs is actually laid down.
+‘*Singer*,’— Who lives by singing. The ordinary occasional singing of popular songs is actually laid down.
 
 ‘*Miser*’— niggard.
 
-The difference between the ‘prisoner’ and the ‘fettered’ is, that the
-former may be imprisoned by mere words (verbal orders), while the latter
-is actually bound in ropes and iron-chains.
+The difference between the ‘prisoner’ and the ‘fettered’ is, that the former may be imprisoned by mere words (verbal orders), while the latter is actually bound in ropes and iron-chains.
 
-Some people read ‘*viśadasya*’ for ‘*nigadasya*;’—‘*viśaḍa*’ being
-explained as ‘man in trouble.’—(210)
+Some people read ‘*viśadasya*’ for ‘*nigadasya*;’—‘*viśaḍa*’ being explained as ‘man in trouble.’—(210)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

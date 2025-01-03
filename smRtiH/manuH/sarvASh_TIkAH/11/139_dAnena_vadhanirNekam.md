@@ -23,14 +23,11 @@ If a twice-born person is unable to atone the sin of killing by means of gifts, 
 
 This verse shows that gifts constitute the principal atonement for sins.
 
-‘*For each act*.’—This shows that what is here laid down is not to be
-regarded as cumulative.
+‘*For each act*.’—This shows that what is here laid down is not to be regarded as cumulative.
 
-The words beginning with ‘*dvijaḥ*’ (‘twice-born person’) are added for
-the purpose of filling up the metre.
+The words beginning with ‘*dvijaḥ*’ (‘twice-born person’) are added for the purpose of filling up the metre.
 
-In the absence of any specification, the term ‘*Kṛcchra*’ has been taken
-to stand for the ‘*Prājāpatya*’ penance.—(139)
+In the absence of any specification, the term ‘*Kṛcchra*’ has been taken to stand for the ‘*Prājāpatya*’ penance.—(139)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

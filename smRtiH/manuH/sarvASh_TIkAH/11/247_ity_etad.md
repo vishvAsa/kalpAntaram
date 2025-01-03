@@ -15,8 +15,7 @@ The due expiation of sins has thus been described; listen after this to the expi
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This sets forth the connection between the preceding and present
-sections.—(247)
+This sets forth the connection between the preceding and present sections.—(247)
 </details>
 
 <details><summary>Bühler</summary>

@@ -15,11 +15,7 @@ But if he eats their food, he becomes pure in ten days; if however he does not e
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If he does not eat food, but dwells in the house, then the impurity
-lasts for three days, as already laid down before. But if he does not
-eat food, nor dwells in the house, then it lasts for one day only; while
-if he cats the food, as well as lives in the house, then it lasts for
-ten days.—(101).
+If he does not eat food, but dwells in the house, then the impurity lasts for three days, as already laid down before. But if he does not eat food, nor dwells in the house, then it lasts for one day only; while if he cats the food, as well as lives in the house, then it lasts for ten days.—(101).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

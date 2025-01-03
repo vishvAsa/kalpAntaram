@@ -25,17 +25,11 @@ _अन्यद् अपि दूतकार्यं दर्शयति 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The Ambassador brings about the alliance of kings, and also disunites
-those already allied. He does the former by saying even such agreeable
-things as he has not been commissioned to say; and the latter by
-describing even such unfriendly acts as may not have been done; by not
-paying the presents of gold and other things that he may have brought
-with him.
+The Ambassador brings about the alliance of kings, and also disunites those already allied. He does the former by saying even such agreeable things as he has not been commissioned to say; and the latter by describing even such unfriendly acts as may not have been done; by not paying the presents of gold and other things that he may have brought with him.
 
 In this way be disunites allies.
 
-This business, just spoken of, is transacted by the Ambassador, and by
-it kings become disunited.
+This business, just spoken of, is transacted by the Ambassador, and by it kings become disunited.
 
 It is only persons with disagreeable speech that do this—(66)
 

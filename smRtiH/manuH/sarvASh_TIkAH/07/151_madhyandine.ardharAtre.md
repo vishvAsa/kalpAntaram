@@ -18,9 +18,7 @@ At mid-day or at mid-night, free from fatigue and dulness, he shall deliberate o
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-He shall ponder over conflicts among the demands of morality, pleasure
-and wealth. If any one of them were to supervene, success would follow
-if all the others also were to rise in proportion.—(151)
+He shall ponder over conflicts among the demands of morality, pleasure and wealth. If any one of them were to supervene, success would follow if all the others also were to rise in proportion.—(151)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

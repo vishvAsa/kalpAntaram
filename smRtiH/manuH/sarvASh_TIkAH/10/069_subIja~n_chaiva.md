@@ -15,13 +15,9 @@ Just as good seed grown in a good soil turns out well, so is the child born to a
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The two spoken of above are not fit for the sacraments; but children
-born to one from his own caste are quite worthy of the sacraments. Both
-these are declamatory assertions. Hence the final conclusion on this
-matter remains that ‘in some cases it is the *seed*, and in others the
+The two spoken of above are not fit for the sacraments; but children born to one from his own caste are quite worthy of the sacraments. Both these are declamatory assertions. Hence the final conclusion on this matter remains that ‘in some cases it is the *seed*, and in others the
 *soil*, that is the predominant factor,’ just as it may be found to be
-definitely stated in the texts; but the marrying of a woman two degrees
-removed would not be proper.—(69)
+definitely stated in the texts; but the marrying of a woman two degrees removed would not be proper.—(69)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

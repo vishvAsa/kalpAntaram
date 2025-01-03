@@ -23,12 +23,7 @@ When the king thinks his enemy to be stronger in every respect, then he should b
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When a man has been attacked by a strong enemy, recouping is impossible;
-what is beneficial is resorting to a fortress; and this means
-garrisoning, which involves ‘bifurcation’; this has been already
-explained above. As a matter of fact, it is found that, under ordinary
-circumstances, it is only the more powerful king who divides his forces,
-when under difficulties.—(173)
+When a man has been attacked by a strong enemy, recouping is impossible; what is beneficial is resorting to a fortress; and this means garrisoning, which involves ‘bifurcation’; this has been already explained above. As a matter of fact, it is found that, under ordinary circumstances, it is only the more powerful king who divides his forces, when under difficulties.—(173)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

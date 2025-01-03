@@ -15,9 +15,7 @@ By day and by night, if the Renunciate unintentionally injures some living creat
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Living creatures*’—here, should be understood as standing for minute
-animalcules; ‘for the expiation of the sin accruing from the injuring of
-these’;—such is the construction of the passage.—(69)
+‘*Living creatures*’—here, should be understood as standing for minute animalcules; ‘for the expiation of the sin accruing from the injuring of these’;—such is the construction of the passage.—(69)
 </details>
 
 <details><summary>भारुचिः</summary>

@@ -18,12 +18,9 @@ Thus has been expounded to you the law relating to husband and wife, which is co
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse shows the connection between what has gone before and what is
-coming next.
+This verse shows the connection between what has gone before and what is coming next.
 
-The two subjects—of the Duties of Husband and Wife, and the Begetting of
-Children—having been dealt with, it is the fit occasion for taking up
-the subject of the Partition of Inheritance.—(103)
+The two subjects—of the Duties of Husband and Wife, and the Begetting of Children—having been dealt with, it is the fit occasion for taking up the subject of the Partition of Inheritance.—(103)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

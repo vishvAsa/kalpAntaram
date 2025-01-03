@@ -15,14 +15,11 @@ The eldest son shall take one share in excess; the one born next to him a share 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The eldest brother shall take ‘*one share in excess*’ of his own; that
-is, he shall take *two* shares.
+The eldest brother shall take ‘*one share in excess*’ of his own; that is, he shall take *two* shares.
 
-The brother born next to him ‘*a share and a half*,’—this being the
-second brother’s share.
+The brother born next to him ‘*a share and a half*,’—this being the second brother’s share.
 
-^(‘)*The* *younger* *ones*’—born after the second; all these shall
-receive one share each,—nothing more or less.—(117)
+^(‘)*The* *younger* *ones*’—born after the second; all these shall receive one share each,—nothing more or less.—(117)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

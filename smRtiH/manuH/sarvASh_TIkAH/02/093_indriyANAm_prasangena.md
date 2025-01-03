@@ -22,14 +22,9 @@ By attachment to the organs one incurs evil, without doubt; while by subjugating
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Attachment*’ means *addiction*; ‘*by*’ this, as the means, one
-‘*incurs*’—attains—‘*evil*,’ \[visible\] as well as invisible. There is
-no doubt in this; it is absolutely certain.
+‘*Attachment*’ means *addiction*; ‘*by*’ this, as the means, one ‘*incurs*’—attains—‘*evil*,’ \[visible\] as well as invisible. There is no doubt in this; it is absolutely certain.
 
-‘*By subjugating these*’—organs—one subsequently ‘*attains
-success*,’—the attainment of the desired end; *i.e*., he acquires in its
-entirety all the fruits of the performance of acts enjoined in *Śruti*
-and in *Smṛti*.—(93)
+‘*By subjugating these*’—organs—one subsequently ‘*attains success*,’—the attainment of the desired end; *i.e*., he acquires in its entirety all the fruits of the performance of acts enjoined in *Śruti* and in *Smṛti*.—(93)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -23,13 +23,9 @@ Even if thousands of Brāhmaṇas come together,—who have not fulfilled their 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Who have not fulfilled their duties*’;—what has been already asserted
-before is stated here in the negative form.
+‘*Who have not fulfilled their duties*’;—what has been already asserted before is stated here in the negative form.
 
-When persons fulfilling their duties and learned in the Veda lay down a
-certain law, no doubts should be entertained regarding it,—either by
-learned or by ignorant men. Nor should any optional alternatives be
-admitted in such cases.—(114)
+When persons fulfilling their duties and learned in the Veda lay down a certain law, no doubts should be entertained regarding it,—either by learned or by ignorant men. Nor should any optional alternatives be admitted in such cases.—(114)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

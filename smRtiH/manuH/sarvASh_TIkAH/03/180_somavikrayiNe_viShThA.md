@@ -15,20 +15,15 @@ What is given to the Soma-seller becomes ordure; to the physician, pus and blood
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The sense is that the man becomes born in that species of creatures
-where ordure is eaten.
+The sense is that the man becomes born in that species of creatures where ordure is eaten.
 
 Similarly, with the physician.
 
-‘*Becomes lost*’—*i.e*., fruitless; or source of anxiety; anything that
-is ‘lost’ becomes a source of anxiety.
+‘*Becomes lost*’—*i.e*., fruitless; or source of anxiety; anything that is ‘lost’ becomes a source of anxiety.
 
 That which has no place, no existence at all, is called ‘*apratiṣṭham*.’
 
-Various forms of expression have been used here to show the
-fruitlessness of the gift and also the evils attaching to the giver. The
-terms ‘*lost*’ and ‘*without place*’ should not be regarded as
-synonymous, as there is a distinct difference in their effects.—(180)
+Various forms of expression have been used here to show the fruitlessness of the gift and also the evils attaching to the giver. The terms ‘*lost*’ and ‘*without place*’ should not be regarded as synonymous, as there is a distinct difference in their effects.—(180)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

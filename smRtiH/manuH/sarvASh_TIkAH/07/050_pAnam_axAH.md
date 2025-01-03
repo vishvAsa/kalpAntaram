@@ -15,8 +15,7 @@ In the set arising from love of pleasure,—drinking, dice, women and hunting ar
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is well known that these four are more harmful than ‘sleeping during
-the day’ and other vices.—(50)
+It is well known that these four are more harmful than ‘sleeping during the day’ and other vices.—(50)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

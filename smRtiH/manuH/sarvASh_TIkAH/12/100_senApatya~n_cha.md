@@ -25,12 +25,9 @@ It is only one who knows the Vedic lore that deserves the command over armies, K
 
 This is an exaggerated praise.
 
-‘*Adjudicator of punishments*’—the officer who, in villages and cities,
-fixes the punishments upon men; who is appointed to look after what
-people do and what they do not know.
+‘*Adjudicator of punishments*’—the officer who, in villages and cities, fixes the punishments upon men; who is appointed to look after what people do and what they do not know.
 
-‘*Army*’—consisting of elephants, horses, chariots and
-foot-soldiers;—the ‘*Commander*’ of all this.
+‘*Army*’—consisting of elephants, horses, chariots and foot-soldiers;—the ‘*Commander*’ of all this.
 
 ‘*Kingly authority*’—royal authority over a small circle.
 

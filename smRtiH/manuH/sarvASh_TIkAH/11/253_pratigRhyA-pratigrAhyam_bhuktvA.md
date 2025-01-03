@@ -15,15 +15,11 @@ If a man has accepted a gift that should not be accepted, or has eaten reprehens
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*What should not be accepted*’—such as wine and similar things, or gold
-and such things from a sinner,—this latter also being ‘*what should not
-be accepted*.’
+‘*What should not be accepted*’—such as wine and similar things, or gold and such things from a sinner,—this latter also being ‘*what should not be accepted*.’
 
-‘*Reprehensible food*’—food that has been polluted by any one of the
-four causes—its very nature, lapse of time, ownership and contact.
+‘*Reprehensible food*’—food that has been polluted by any one of the four causes—its very nature, lapse of time, ownership and contact.
 
-‘*Taratsamandīya verses*’—are four of the ‘*Pāvamanī*’ verses (Ṛgveda,
-9.58.1-4).—(258)
+‘*Taratsamandīya verses*’—are four of the ‘*Pāvamanī*’ verses (Ṛgveda, 9.58.1-4).—(258)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

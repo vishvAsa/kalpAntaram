@@ -27,12 +27,9 @@ Neither the father or the preceptor or the friend or the mother or the wife or t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“It has been asserted that ‘the wife and the sou form one’s own body’;
-what would be the punishment inflicted upon one’s self?”
+“It has been asserted that ‘the wife and the sou form one’s own body’; what would be the punishment inflicted upon one’s self?”
 
-It would consist of expiatory rites, austerities and charities. Whoever
-does not perform his duty, or deviates from his duty, should be
-punished.—(335)
+It would consist of expiatory rites, austerities and charities. Whoever does not perform his duty, or deviates from his duty, should be punished.—(335)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

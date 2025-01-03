@@ -15,15 +15,13 @@ Having returned from a journey, he should clasp the feet of his Teacher’s wife
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Having returned from a journey, he should clasp her feet—‘the left foot
-by the left hand, etc.’ (Verse 72).
+Having returned from a journey, he should clasp her feet—‘the left foot by the left hand, etc.’ (Verse 72).
 
 ‘*Daily*’—every day.
 
 ‘*Salute her*’—on the ground.
 
-‘*Righteous*’—Cultured. Bearing in mind that such is this duty of
-cultured men.—(217)
+‘*Righteous*’—Cultured. Bearing in mind that such is this duty of cultured men.—(217)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

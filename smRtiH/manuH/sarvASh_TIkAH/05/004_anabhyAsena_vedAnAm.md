@@ -12,7 +12,6 @@ Death seeks to destroy the Brāhmaṇas on account of their omitting the study o
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> च "स्वधर्मम् अनुतिष्ठताम्" इति प्रश्नेन युक्तम् "येन दोषेण" इति उत्तरश् च ग्रन्थो नैवोपपद्यते ।
 
 - <u>उच्यते</u> । **अनभ्यासेने**त्यादिदृष्टान्तत्वेनोच्यते । यथा भवद्भिः प्रतिपन्ना वेदानभ्यासादयः पुरायुषो मरणहेतवः, एवं वक्ष्यमाणो ऽन्नदोषः । सत्स्व् अपि वेदाभ्यासादिषु न तावत् स्वधर्मो यः पूर्वत्र कथितः, किं त्व् अयम् अन्नदोषो गरीयस्तरः । पृथक् प्रकरणाच् चैतद् अभिधीयते[^४] ॥ ५.३–४ ॥
@@ -25,20 +24,9 @@ Death seeks to destroy the Brāhmaṇas on account of their omitting the study o
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
 *Objection*—“When the question has been put forward in regard to
-Brāhmaṇas *who perform their duties*, it is not right to answer it by
-indicating the ‘fault’; nor can there be any connection with what
-follows (in verse 4) \[as omission of Vedic Study &c. is not possible
-for those who perform their duties\].”
+Brāhmaṇas *who perform their duties*, it is not right to answer it by indicating the ‘fault’; nor can there be any connection with what follows (in verse 4) \[as omission of Vedic Study &c. is not possible for those who perform their duties\].”
 
-The answer to the above is as follows:—‘Omission of Vedic Study’ and the
-rest have been put forward only by way of illustration; the sense
-being—‘just as the omission of Vedic Study and the rest are acknowledged
-by you all to be the causes of death, so also are the defects of food,
-going to be described below. Even when a man carries on Vedic Study &c.,
-the fulfilment of his above-described duty is not complete, if it is
-beset with the very much more serious drawback of defective food. This
-is emphasised here in view of the fact that this is an entirely
-different section (dealing with defects of food). (3-4)
+The answer to the above is as follows:—‘Omission of Vedic Study’ and the rest have been put forward only by way of illustration; the sense being—‘just as the omission of Vedic Study and the rest are acknowledged by you all to be the causes of death, so also are the defects of food, going to be described below. Even when a man carries on Vedic Study &c., the fulfilment of his above-described duty is not complete, if it is beset with the very much more serious drawback of defective food. This is emphasised here in view of the fact that this is an entirely different section (dealing with defects of food). (3-4)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

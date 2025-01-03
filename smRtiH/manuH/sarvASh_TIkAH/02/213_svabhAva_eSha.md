@@ -19,17 +19,11 @@ It is the very nature of women to corrupt men. It is for this reason that the wi
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is the nature of women that they make men fall off from their
-fidelity: by associating with men, women would make them deviate from
-their vow.
+It is the nature of women that they make men fall off from their fidelity: by associating with men, women would make them deviate from their vow.
 
-For this reason the wise are never ‘*unguarded*’; *i.e*., they shun
-women from a distance;—‘unguardedness’ would consist in touching her and
-so forth.
+For this reason the wise are never ‘*unguarded*’; *i.e*., they shun women from a distance;—‘unguardedness’ would consist in touching her and so forth.
 
-It is in the very nature of things that a young woman, when touched,
-produces a disturbance in the mind; and this mental disturbance itself
-has been interdicted, to say nothing of other vulgarities.
+It is in the very nature of things that a young woman, when touched, produces a disturbance in the mind; and this mental disturbance itself has been interdicted, to say nothing of other vulgarities.
 
 ‘*Pramadā*’ means *woman*.—(213)
 </details>

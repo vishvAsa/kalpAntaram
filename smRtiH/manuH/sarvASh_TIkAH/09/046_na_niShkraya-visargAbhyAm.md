@@ -9,7 +9,6 @@ Either by sale or by repudiation the wife is not released from her husband; such
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>अथ</u> मन्येत- धनादिदानेन क्रीत्वा स्वीयाः करिष्यन्ते परभार्याः,[^१०८] ततो विनिवृत्ते परस्वाम्ये[^१०९] तज्जातो जनयितुः पुत्रो भवतीत्य् । 
 
 
@@ -29,28 +28,15 @@ Either by sale or by repudiation the wife is not released from her husband; such
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Some one may have the following notion:—“Other men’s wives may be made
-one’s *own* by paying money to the husband, and the difficulty regarding
-ownership being thus removed, the son horn of her would belong to the
-begetter.”
+Some one may have the following notion:—“Other men’s wives may be made one’s *own* by paying money to the husband, and the difficulty regarding ownership being thus removed, the son horn of her would belong to the begetter.”
 
-This is declared to be not possible. Wives of other men cannot be made
-one s own even by the paying of a thousand gold-coins.
+This is declared to be not possible. Wives of other men cannot be made one s own even by the paying of a thousand gold-coins.
 
-Nor, when she is abandoned by her husband on account of poverty, can the
-wife belong to the man who receives her.
+Nor, when she is abandoned by her husband on account of poverty, can the wife belong to the man who receives her.
 
-The reason for this lies in the fact that verse 3.4, which contains the
-injunction of marriage, uses the verb ‘*udvaheta*’ (‘shall take’), in
-the *Ātmanepada* form, which clearly indicates that the woman who has
-been ‘taken’ through the sacramental rites by one man cannot he the
-‘wife’ of any other man; just as the ‘*āhavanīya*’ (sacrificial Fire)
-cannot he regarded as being so for any other person save the one who has
-kindled it with the prescribed rites.
+The reason for this lies in the fact that verse 3.4, which contains the injunction of marriage, uses the verb ‘*udvaheta*’ (‘shall take’), in the *Ātmanepada* form, which clearly indicates that the woman who has been ‘taken’ through the sacramental rites by one man cannot he the ‘wife’ of any other man; just as the ‘*āhavanīya*’ (sacrificial Fire) cannot he regarded as being so for any other person save the one who has kindled it with the prescribed rites.
 
-‘*Sale*’ stands for *purchase* as well as *exchange*; and
-‘*Repudiation*’ for *abandoning*. By neither of them is the wife
-‘*released*’— lose the character of ‘wife.’—(46)
+‘*Sale*’ stands for *purchase* as well as *exchange*; and ‘*Repudiation*’ for *abandoning*. By neither of them is the wife ‘*released*’— lose the character of ‘wife.’—(46)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,16 +15,11 @@ From unblamable marriages unblamable offspring is born to men; and from blamewor
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse sums up the results of marriages briefly. Those marriages are
-called ‘unblamable’ which have been sanctioned by the scriptures: and
-the offspring—in the shape of son, etc.—born from wives wedded by those
-forms of marriage is ‘*unblamable*,’—*i.e*., praiseworthy.
+This verse sums up the results of marriages briefly. Those marriages are called ‘unblamable’ which have been sanctioned by the scriptures: and the offspring—in the shape of son, etc.—born from wives wedded by those forms of marriage is ‘*unblamable*,’—*i.e*., praiseworthy.
 
-‘*From blameworthy*’—*i.e*., prohibited—‘*marriages*’ is born
-‘*blameworthy*,’ defective, child.
+‘*From blameworthy*’—*i.e*., prohibited—‘*marriages*’ is born ‘*blameworthy*,’ defective, child.
 
-‘*Therefore*’—with the view that such children may not be born as become
-a source of pain, ‘*one should avoid the blamable marriages*’—(42)
+‘*Therefore*’—with the view that such children may not be born as become a source of pain, ‘*one should avoid the blamable marriages*’—(42)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

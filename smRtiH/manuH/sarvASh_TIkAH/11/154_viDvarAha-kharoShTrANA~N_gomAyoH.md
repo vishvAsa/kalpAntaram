@@ -19,11 +19,7 @@ If a twice-born person swallows the ordure or urine of the village-pig, of an as
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Since nothing has been specially mentioned, this should be understood to
-apply to a case where the swallowing is done *unintentionally*. Or, both
-intentional and unintentional swallowing may be regarded as being on the
-same footing; as such an assumption would be better than any reduction
-in the expiation (in eases of *unintentional* swallowing).—(154)
+Since nothing has been specially mentioned, this should be understood to apply to a case where the swallowing is done *unintentionally*. Or, both intentional and unintentional swallowing may be regarded as being on the same footing; as such an assumption would be better than any reduction in the expiation (in eases of *unintentional* swallowing).—(154)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

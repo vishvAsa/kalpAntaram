@@ -31,8 +31,7 @@ The slayer of a Brāhmaṇa, the drinker of wine, the thief and the violator of 
 
 ‘*Thief*’—*i*.*e*., one who has stolen gold from a Brāhmaṇa.
 
-This is a reiteration of what has been already said before, made with a
-view to what follows.—(235)
+This is a reiteration of what has been already said before, made with a view to what follows.—(235)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

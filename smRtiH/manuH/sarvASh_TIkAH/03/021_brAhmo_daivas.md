@@ -19,11 +19,9 @@ title = "021 ब्राह्मो दैवस्"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-These are the names of the eight forms of Marriage that were referred to
-in the preceding verse by the number ‘eight.’
+These are the names of the eight forms of Marriage that were referred to in the preceding verse by the number ‘eight.’
 
-‘*Lowest*’— this has been added with a view to deprecate the Paiśāca
-form of marriage.—(21)
+‘*Lowest*’— this has been added with a view to deprecate the Paiśāca form of marriage.—(21)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

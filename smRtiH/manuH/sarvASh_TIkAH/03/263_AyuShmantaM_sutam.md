@@ -15,15 +15,11 @@ She brings forth a long-lived son, endowed with fame and intelligence, wealthy, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Having eaten the said ball, ‘*she brings forth*’—gives birth to—‘*a
-son*.’
+Having eaten the said ball, ‘*she brings forth*’—gives birth to—‘*a son*.’
 
-‘*Inteligence*’—the faculty of grasping things; the child is endowed
-with this.
+‘*Inteligence*’—the faculty of grasping things; the child is endowed with this.
 
-‘*Suttra*,’ ‘goodness,’ is an attribute postulated by the Sāṅkhyas; and
-its presence is indicated by firmness, courage, and such other
-qualities—(263).
+‘*Suttra*,’ ‘goodness,’ is an attribute postulated by the Sāṅkhyas; and its presence is indicated by firmness, courage, and such other qualities—(263).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

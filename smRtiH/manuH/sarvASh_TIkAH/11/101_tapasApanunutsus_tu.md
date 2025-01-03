@@ -15,13 +15,9 @@ If a twice-born person is desirous of removing the guilt of stealing gold by mea
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This only refers to the ‘Twelve-year Penance,’ and not to any other of
-the several expiations prescribed for the slayer of a Brāhmaṇa;—the
-construction being—‘He shall perform that penance which has been
-prescribed for the slayer of a Brāhmaṇa.’
+This only refers to the ‘Twelve-year Penance,’ and not to any other of the several expiations prescribed for the slayer of a Brāhmaṇa;—the construction being—‘He shall perform that penance which has been prescribed for the slayer of a Brāhmaṇa.’
 
-‘*Who desires to remove*’—anxious to wipe off; desirous of
-purification.—(101)
+‘*Who desires to remove*’—anxious to wipe off; desirous of purification.—(101)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -26,17 +26,11 @@ The Brāhmaṇa having intercourse with the said two, when protected, should be 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The Brāhmaṇa approaching the protected *Vaiśya* or *Kṣatriya* Woman
-should be fined one thousand; and of course ‘banishment’ and ‘branding’
-remain as the fixed forms of punishment (in all cases of adultery).
+The Brāhmaṇa approaching the protected *Vaiśya* or *Kṣatriya* Woman should be fined one thousand; and of course ‘banishment’ and ‘branding’ remain as the fixed forms of punishment (in all cases of adultery).
 
-For approaching a Śūdra woman, the *Kṣatriya* and the ‘*Vaiśya* should
-be fined one hundred.
+For approaching a Śūdra woman, the *Kṣatriya* and the ‘*Vaiśya* should be fined one hundred.
 
-‘*Sāhasra*’ is the same as ‘*Sahasra*,’ the affix ‘*aṇ*’ having the
-reflexive-force. Or ‘*Sāhasra*’ may be explained as *that which consists
-of a sahasra or thousand*; the ‘*aṇ*’ affix having the force of the
-possessive.—(383)
+‘*Sāhasra*’ is the same as ‘*Sahasra*,’ the affix ‘*aṇ*’ having the reflexive-force. Or ‘*Sāhasra*’ may be explained as *that which consists of a sahasra or thousand*; the ‘*aṇ*’ affix having the force of the possessive.—(383)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

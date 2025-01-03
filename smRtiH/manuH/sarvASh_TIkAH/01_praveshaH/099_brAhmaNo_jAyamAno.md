@@ -15,13 +15,9 @@ The Brāhmaṇa, on coming into existence, becomes supreme on earth; he is the s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The Brāhmaṇa comes to the top of the entire world; this ‘coming to the
-top’ indicates his supremacy.
+The Brāhmaṇa comes to the top of the entire world; this ‘coming to the top’ indicates his supremacy.
 
-‘*He is the Supreme Lord of all beings*’,— and this supremacy comes
-about for the ‘*purpose* *of guarding the treasure of
-Virtue*.’—‘*Treasure*’ means a collection of objects; hence through
-similarity, the collection of Virtues is called ‘treasure’ (99).
+‘*He is the Supreme Lord of all beings*’,— and this supremacy comes about for the ‘*purpose* *of guarding the treasure of Virtue*.’—‘*Treasure*’ means a collection of objects; hence through similarity, the collection of Virtues is called ‘treasure’ (99).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

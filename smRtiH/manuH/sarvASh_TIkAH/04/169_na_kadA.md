@@ -19,8 +19,7 @@ For these reasons, the learned man shall never even threaten a twice-born person
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This sums up the prohibition of the aforesaid three acts of raising the
-stick and letting it fall (and making blood flow).
+This sums up the prohibition of the aforesaid three acts of raising the stick and letting it fall (and making blood flow).
 
 ‘*Never* ’—*i.e*., not even in abnormal times.—(169).
 </details>

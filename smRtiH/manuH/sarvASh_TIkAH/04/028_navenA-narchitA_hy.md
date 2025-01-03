@@ -15,15 +15,11 @@ For his Fires, greedy or n ew grains and meat, seek to devour his very life, if 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-By pointing out the evils arising from the omission of the said rites,
-the text indicates their obligatory character.
+By pointing out the evils arising from the omission of the said rites, the text indicates their obligatory character.
 
-‘*Not worshipped with new grains*’—not having the oblations offered into
-them,—‘*the fires*’—of the man who has set up the fire,—‘*seek to
-devour*’—eat—‘*his very life*.’
+‘*Not worshipped with new grains*’—not having the oblations offered into them,—‘*the fires*’—of the man who has set up the fire,—‘*seek to devour*’—eat—‘*his very life*.’
 
-‘*Greed*.’— ‘Greed’ is excessive *longing*; and one who has this, is
-called ‘greedy.’ The affix ‘*ini*’ has the force of the possessive.—(28)
+‘*Greed*.’— ‘Greed’ is excessive *longing*; and one who has this, is called ‘greedy.’ The affix ‘*ini*’ has the force of the possessive.—(28)
 </details>
 
 <details><summary>Bühler</summary>

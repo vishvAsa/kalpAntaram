@@ -15,9 +15,7 @@ Learn properly now those penances b y which all these offences, severally descri
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The occasions for expiation have been described. Each of them has been
-given a distinct name for the purpose of pointing out the expiatory rite
-suitable to each.
+The occasions for expiation have been described. Each of them has been given a distinct name for the purpose of pointing out the expiatory rite suitable to each.
 
 This verse puts in brief what is going to be expounded.—(71)
 </details>

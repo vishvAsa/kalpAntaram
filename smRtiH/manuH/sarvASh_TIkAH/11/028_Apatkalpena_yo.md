@@ -15,11 +15,7 @@ If a twice-born person performs, even in normal times, a sacred act according to
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If a man, even though possessed of the requisite wealth, takes advantage
-of the secondary course laid down in connection with the abnormal
-condition (of the man being devoid of wealth), and performs the
-Vaiśvānarī sacrifice (in lieu of the more elaborate Animal and Soma
-sacrifices),—his purpose cannot be thereby accomplished.—(28)
+If a man, even though possessed of the requisite wealth, takes advantage of the secondary course laid down in connection with the abnormal condition (of the man being devoid of wealth), and performs the Vaiśvānarī sacrifice (in lieu of the more elaborate Animal and Soma sacrifices),—his purpose cannot be thereby accomplished.—(28)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

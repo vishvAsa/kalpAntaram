@@ -19,8 +19,7 @@ title = "101 एतान् दोषान्"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Give up all suspense and hesitation, speak out what you have seen and
-heard.—(101)
+Give up all suspense and hesitation, speak out what you have seen and heard.—(101)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

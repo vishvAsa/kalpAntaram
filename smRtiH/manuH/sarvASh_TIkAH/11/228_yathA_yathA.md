@@ -15,14 +15,9 @@ As a man, having committed a misdeed, goes on proclaiming it himself, so does he
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This is a declamatory passage in support of the injunction of
-Confession.
+This is a declamatory passage in support of the injunction of Confession.
 
-In the expression ‘*naro-dharmam*,’ an ‘a’ is to be understood between
-the two words. As the proclaiming of one’s own righteous deeds has been
-forbidden—‘one should not proclaim his own good qualities’; while it is
-‘*adharma*,’ ‘*sin*,’ that forms the subject-matter of the context; and
-the text itself in the second half has the term ‘*adharmeṇa*.’— (228)
+In the expression ‘*naro-dharmam*,’ an ‘a’ is to be understood between the two words. As the proclaiming of one’s own righteous deeds has been forbidden—‘one should not proclaim his own good qualities’; while it is ‘*adharma*,’ ‘*sin*,’ that forms the subject-matter of the context; and the text itself in the second half has the term ‘*adharmeṇa*.’— (228)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

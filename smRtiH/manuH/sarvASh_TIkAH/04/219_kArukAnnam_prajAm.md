@@ -15,8 +15,7 @@ The food of artisans impairs the offspring, that of the clothes-washer impairs s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Artisans*,’—the professional cook and others following not very low
-crafts;—this is what distinguishes these from other craftsmen.
+‘*Artisans*,’—the professional cook and others following not very low crafts;—this is what distinguishes these from other craftsmen.
 
 The ‘*impairing*’ of offspring means that children are not born.—(219)
 </details>

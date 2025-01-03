@@ -23,11 +23,7 @@ Neither for the sake of friendship, nor for the sake of a large gain of money, s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-For the reasons explained above, it is added—on account of his own
-friendship with the criminal,—or at the request of the minister or some
-other officer—or with the idea that the criminal himself is giving him a
-large amount of money,—the king shall not condone him; since
-perpetrators of violence cause terror to all creatures.
+For the reasons explained above, it is added—on account of his own friendship with the criminal,—or at the request of the minister or some other officer—or with the idea that the criminal himself is giving him a large amount of money,—the king shall not condone him; since perpetrators of violence cause terror to all creatures.
 
 This also is purely declamatory.—(317)
 </details>

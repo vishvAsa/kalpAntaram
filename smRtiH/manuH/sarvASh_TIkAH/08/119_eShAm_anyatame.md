@@ -15,9 +15,7 @@ I am going to explain, in due order, the particular punishments for him who shou
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The construction to be adopted in the following verse should be—‘He who
-tells a lie through greed should be fined one thousand’ and so
-forth.—(119)
+The construction to be adopted in the following verse should be—‘He who tells a lie through greed should be fined one thousand’ and so forth.—(119)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,9 +15,7 @@ Having renounced quarrel with these, the householder becomes freed from all sins
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The sin that accrues from such quarelling, does not accrue to him who
-avoids them;—this is what is meant by the phrase, ‘*becomes freed from
-all sins*.’
+The sin that accrues from such quarelling, does not accrue to him who avoids them;—this is what is meant by the phrase, ‘*becomes freed from all sins*.’
 
 When these are ignored, he ‘*wins*’—makes his own—‘*all these worlds*.’
 

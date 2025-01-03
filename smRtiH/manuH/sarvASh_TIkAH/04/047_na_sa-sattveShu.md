@@ -23,11 +23,7 @@ Nor in holes inhabited by living creatures, nor walking, nor standing, nor on re
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Nor walking, nor standing*.’—By the prohibition of passing urine while
-walking or standing, it is implied that one should pass urine *sitting*.
-Nor very close to the river, nor in the river itself; that is to be
-regarded as ‘very close’ where there is fear of the urine touching the
-river.
+‘*Nor walking, nor standing*.’—By the prohibition of passing urine while walking or standing, it is implied that one should pass urine *sitting*. Nor very close to the river, nor in the river itself; that is to be regarded as ‘very close’ where there is fear of the urine touching the river.
 
 “Mountain-top”—Peak.—(47)
 </details>

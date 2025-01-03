@@ -15,8 +15,7 @@ Constant births in low forms of life, abounding in misery, afflictions from heat
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Low forms of life*’—such as the lower animals, Pretas and
-Piśācas;—birth in these, which is full of misery.—(77)
+‘*Low forms of life*’—such as the lower animals, Pretas and Piśācas;—birth in these, which is full of misery.—(77)
 </details>
 
 <details><summary>Bühler</summary>

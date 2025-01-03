@@ -19,12 +19,9 @@ He shall plant boundary-trees,—such as the Nyagrodha, the Aśvattha, the Kiṃ
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Pādapa*’ is *plant*.—‘*Plants with milky-juice*’—such as the *Arka*,
-the *Udumbara* and the like.
+‘*Pādapa*’ is *plant*.—‘*Plants with milky-juice*’—such as the *Arka*, the *Udumbara* and the like.
 
-These trees are long-lived; hence they should he planted on boundaries;
-but never in the midst of the village. If they were planted elsewhere
-also, they could not he sure indicatives of boundaries.—(246)
+These trees are long-lived; hence they should he planted on boundaries; but never in the midst of the village. If they were planted elsewhere also, they could not he sure indicatives of boundaries.—(246)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

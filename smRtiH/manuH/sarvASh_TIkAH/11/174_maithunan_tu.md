@@ -15,9 +15,7 @@ If a twice-born man commits an unnatural offence with a male, or has intercourse
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In the case of such sexual intercourse, there should be immediate bath,
-with all the clothes on;—when it is committed in an ox-cart, or in
-water.—(174)
+In the case of such sexual intercourse, there should be immediate bath, with all the clothes on;—when it is committed in an ox-cart, or in water.—(174)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

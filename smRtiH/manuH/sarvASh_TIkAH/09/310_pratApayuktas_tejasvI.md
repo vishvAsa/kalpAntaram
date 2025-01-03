@@ -15,9 +15,7 @@ He shall always be endowed with brilliant energy and ardent in his wrath against
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The function of fire is that it is furious and consuming against the
-wicked. ‘*Vassals*’—*i.e*., ministers and others endowed with
-riches.—(310)
+The function of fire is that it is furious and consuming against the wicked. ‘*Vassals*’—*i.e*., ministers and others endowed with riches.—(310)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

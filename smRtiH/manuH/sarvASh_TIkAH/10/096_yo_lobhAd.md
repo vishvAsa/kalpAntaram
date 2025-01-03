@@ -15,17 +15,13 @@ If a man of low caste, through greed, subsists by the occupations of his superio
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*A man of low caste*’—The Kṣatriya and the rest Though the context
-deals with the *Kṣatriya*, yet this verse is meant to be an interdict
-upon all occupations of the Brāhmaṇa, for all the other castes.
+‘*A man of low caste*’—The Kṣatriya and the rest Though the context deals with the *Kṣatriya*, yet this verse is meant to be an interdict upon all occupations of the Brāhmaṇa, for all the other castes.
 
-‘*Superior*’.—It is the Brāhmaṇa alone who is *absolutely* (not only
-relatively) ‘superior.’
+‘*Superior*’.—It is the Brāhmaṇa alone who is *absolutely* (not only relatively) ‘superior.’
 
 ‘*Occupations*’.—Teaching and the rest.
 
-If he subsists by these, he should be punished with confiscation of
-property and banishment.—(96)
+If he subsists by these, he should be punished with confiscation of property and banishment.—(96)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

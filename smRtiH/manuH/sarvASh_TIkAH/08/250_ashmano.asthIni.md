@@ -43,8 +43,7 @@ M G omit: sthalāni; DK: sthalā
 
 ‘*Cinders*’—pieces of wood half-burnt.
 
-‘*Stones*’ and ‘*pebbles*’—hardened pieces of clay. ‘*Potsherds*’—pieces
-of broken jars.—(250)
+‘*Stones*’ and ‘*pebbles*’—hardened pieces of clay. ‘*Potsherds*’—pieces of broken jars.—(250)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

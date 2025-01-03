@@ -19,9 +19,7 @@ Just as during eight months, Āditya draws up water with his rays, even so the k
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The sun draws water gently, little by little,—and the King also shall
-realise his taxes gently, little by little. This is the meaning of the
-simile.—(305)
+The sun draws water gently, little by little,—and the King also shall realise his taxes gently, little by little. This is the meaning of the simile.—(305)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

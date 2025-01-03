@@ -15,9 +15,7 @@ One who has committed many sins becomes purified by reciting, for a year, the �
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The three verses beginning with ‘*Somārudrā dhārayethamastram*’ (Ṛgveda,
-6.74.1); and the verse beginning with ‘*Aryamaṇam varuṇam mitram*’
-(Ṛgveda, 4.2.4).
+The three verses beginning with ‘*Somārudrā dhārayethamastram*’ (Ṛgveda, 6.74.1); and the verse beginning with ‘*Aryamaṇam varuṇam mitram*’ (Ṛgveda, 4.2.4).
 
 ‘*Samām*’—for one year.
 

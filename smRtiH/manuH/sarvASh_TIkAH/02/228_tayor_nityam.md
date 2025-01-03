@@ -19,16 +19,11 @@ He should always do what is pleasing to those two and to the preceptor; on these
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-For reasons stated above,—‘*of these two*’—of the father and the
-mother,—‘*and of the preceptor*,’—‘*always*’—as long as one lives,—‘*he
-should do what is pleasing to*’; and one should not be satisfied with
-acting agreeably to them once, twice or thrice only.
+For reasons stated above,—‘*of these two*’—of the father and the mother,—‘*and of the preceptor*,’—‘*always*’—as long as one lives,—‘*he should do what is pleasing to*’; and one should not be satisfied with acting agreeably to them once, twice or thrice only.
 
-‘*On these three*’—preceptor and the rest—‘*being satisfied*’—*i.e*.,
-when they have been propitiated by devoted service,—‘*all austerity*’;
+‘*On these three*’—preceptor and the rest—‘*being satisfied*’—*i.e*., when they have been propitiated by devoted service,—‘*all austerity*’;
 *i.e*., the rewards that Are obtained by the performance of the
-‘*Cāndrāyaṇa*’ and other penances for several years are obtained from
-the satisfaction of these three.—(228)
+‘*Cāndrāyaṇa*’ and other penances for several years are obtained from the satisfaction of these three.—(228)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

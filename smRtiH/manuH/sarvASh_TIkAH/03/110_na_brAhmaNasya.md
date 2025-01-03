@@ -15,17 +15,13 @@ In a Brāhmaṇa’s house, the Kṣatriya is not called a ‘guest;’ nor the 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Even though a *Kṣatriya*, during his travelling, happen to arrive at the
-Brāhmaṇa’s house, at the time of breakfast,—he is not a “guest.” Hence
-it is not incumbent upon the Brāhmaṇa to offer food to him.
+Even though a *Kṣatriya*, during his travelling, happen to arrive at the Brāhmaṇa’s house, at the time of breakfast,—he is not a “guest.” Hence it is not incumbent upon the Brāhmaṇa to offer food to him.
 
 Similarly with the *Vaiśya* and the *Śūdra*.
 
 The ‘*friend*’ and the ‘*relation*’ are one’s *equals*, not *guests*.
 
-The ‘*Teacher*’ has to be served as the master; as described in the
-text—‘the act of cooking should be done after having offered to the
-Teacher’ (*Gautama* 5-26).—(110).
+The ‘*Teacher*’ has to be served as the master; as described in the text—‘the act of cooking should be done after having offered to the Teacher’ (*Gautama* 5-26).—(110).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

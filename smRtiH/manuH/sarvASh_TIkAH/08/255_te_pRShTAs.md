@@ -23,14 +23,11 @@ The opinion that, on being questioned, they unanimously declare in regard to the
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When the witnesses declare an opinion ‘*unanimously*’—all together; and
-there is no difference of opinion among them.
+When the witnesses declare an opinion ‘*unanimously*’—all together; and there is no difference of opinion among them.
 
-In the case of a difference of opinion, the opinion of a majority of
-them should be accepted.
+In the case of a difference of opinion, the opinion of a majority of them should be accepted.
 
-‘*Lay down*’—write down upon a piece of paper;—as also the names of the
-witnesses.—(255).
+‘*Lay down*’—write down upon a piece of paper;—as also the names of the witnesses.—(255).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -21,10 +21,7 @@ In the case of more than fifty, the cutting off of the hands is prescribed. In o
 
 This verse is easily understood.
 
-‘*Eleven times the value*.’—It is not only that the stolen article is to
-be restored; for sometimes it may so happen that a thing of the same
-kind is not available. Hence money or grain may be given in
-exchange.—(322)
+‘*Eleven times the value*.’—It is not only that the stolen article is to be restored; for sometimes it may so happen that a thing of the same kind is not available. Hence money or grain may be given in exchange.—(322)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

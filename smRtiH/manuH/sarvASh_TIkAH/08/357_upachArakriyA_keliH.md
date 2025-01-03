@@ -19,19 +19,13 @@ Offering help, flirting, touching of ornaments and clothes, sitting on the same 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ‘*offering of help*,’— in the shape of clothes, garlands, or
-articles of food and drink and other things,—to a lady who is not
-related to one in any way.
+The ‘*offering of help*,’— in the shape of clothes, garlands, or articles of food and drink and other things,—to a lady who is not related to one in any way.
 
 ‘*Flirting*’—joking in ambiguous words, etc.
 
-‘*Ornaments*,’— the necklace, the bracelet and so forth, either when all
-this is actually on her body, or even when held by others, if he touches
-them, without reason, simply because they belong to that particular
-lady.
+‘*Ornaments*,’— the necklace, the bracelet and so forth, either when all this is actually on her body, or even when held by others, if he touches them, without reason, simply because they belong to that particular lady.
 
-‘*Sitting on the same bed*,’—oven without actually touching. All this
-makes him liable to the same punishment.—(357)
+‘*Sitting on the same bed*,’—oven without actually touching. All this makes him liable to the same punishment.—(357)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

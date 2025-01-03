@@ -25,8 +25,7 @@ On killing a horse, one should give a garment; and five black bulls on killing a
 
 ‘*Anadvān*’—ox; also on the killing of a goat and a sheep.
 
-On killing a ‘*hare*’, a ‘*one-year-old calf*’— as is clear from the
-proximity of the ‘ox.’—(136)
+On killing a ‘*hare*’, a ‘*one-year-old calf*’— as is clear from the proximity of the ‘ox.’—(136)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

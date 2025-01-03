@@ -19,8 +19,7 @@ He shall not look at the Sun when rising, nor when setting, nor when it is eclip
 
 ‘*In water*’—Reflected in water.
 
-‘*When it has reached the middle* *of* *the sky*’—*i.e*., at midday—one
-shall not look at the Sun.—(37).
+‘*When it has reached the middle* *of* *the sky*’—*i.e*., at midday—one shall not look at the Sun.—(37).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

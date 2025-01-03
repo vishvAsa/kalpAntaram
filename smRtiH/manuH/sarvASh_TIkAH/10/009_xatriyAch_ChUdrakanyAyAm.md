@@ -15,12 +15,9 @@ From the Kṣatriya on a Śūdra maiden is born a being called ‘Ugra,’ of th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Deeds and dealings*’—stand for actions of body and speech. Both these
-are cruel in the case of the caste mentioned.
+‘*Deeds and dealings*’—stand for actions of body and speech. Both these are cruel in the case of the caste mentioned.
 
-This is only a description of the character of the man;—the term
-‘*stuff*’ standing for nature. The two natures assert themselves, since
-the child is born of the two castes.—(9)
+This is only a description of the character of the man;—the term ‘*stuff*’ standing for nature. The two natures assert themselves, since the child is born of the two castes.—(9)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

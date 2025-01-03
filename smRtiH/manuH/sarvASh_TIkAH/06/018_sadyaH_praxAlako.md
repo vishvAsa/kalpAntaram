@@ -15,13 +15,9 @@ He may be either one who washes off immediately, or one who lays by for a month,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The food that has been described above, he should obtain day after day,
-just enough to serve for the day.
+The food that has been described above, he should obtain day after day, just enough to serve for the day.
 
-The man who has a collection that lasts for one month. The form is
-obtained by the adding of the affix ‘*ṭhan*’. Or the reading may be
-‘*māsasañcayakaḥ*’ and the word explained as a *Bahuvrīhi* compound: ‘he
-whose collection is sufficient for a month’.
+The man who has a collection that lasts for one month. The form is obtained by the adding of the affix ‘*ṭhan*’. Or the reading may be ‘*māsasañcayakaḥ*’ and the word explained as a *Bahuvrīhi* compound: ‘he whose collection is sufficient for a month’.
 
 Similarly with the last two expressions.—(18).
 </details>

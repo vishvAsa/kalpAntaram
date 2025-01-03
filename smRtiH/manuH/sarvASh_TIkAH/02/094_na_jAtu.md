@@ -21,15 +21,7 @@ Never is desire appeased by the enjoyment of desires; it only waxes stronger, li
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-That no longing for sensual objects should be entertained by reason of
-the teaching of the scriptures may rest aside for the present; in fact
-there is even apparent happiness proceeding from the cessation of
-desires. When sensual objects are enjoyed, they only tend to produce
-stronger desires. For instance, even after a man has eaten his fill,
-even to the distension of the stomach, and is fully satisfied, there is
-still a longing in his heart—‘why cannot I eat more?’—and it is only
-through sheer inability that he does not eat more. This shows that
-desire can never cease by enjoyment.
+That no longing for sensual objects should be entertained by reason of the teaching of the scriptures may rest aside for the present; in fact there is even apparent happiness proceeding from the cessation of desires. When sensual objects are enjoyed, they only tend to produce stronger desires. For instance, even after a man has eaten his fill, even to the distension of the stomach, and is fully satisfied, there is still a longing in his heart—‘why cannot I eat more?’—and it is only through sheer inability that he does not eat more. This shows that desire can never cease by enjoyment.
 
 ‘*Desire*’—longing.
 
@@ -45,13 +37,9 @@ desire can never cease by enjoyment.
 
 ‘*Kṛṣṇavartmā*’—Fire.
 
-Longing is a form of pain; until one has experienced a certain taste, he
-has no longing for it.
+Longing is a form of pain; until one has experienced a certain taste, he has no longing for it.
 
-This verso only describes the true state of things. It has been thus
-described—‘Whatever corns and grains, gold, cattle and women there are
-on the earth are not enough to satisfy a single person;—pondering over
-this, one should betake hi mself to tranquil restraint.’—(94)
+This verso only describes the true state of things. It has been thus described—‘Whatever corns and grains, gold, cattle and women there are on the earth are not enough to satisfy a single person;—pondering over this, one should betake hi mself to tranquil restraint.’—(94)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

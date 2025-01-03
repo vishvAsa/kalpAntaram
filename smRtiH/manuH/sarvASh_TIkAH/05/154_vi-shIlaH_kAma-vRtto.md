@@ -19,8 +19,7 @@ Be he ill-mannered or of licentious habits or destitute of good qualities,—the
 
 ‘*Of licentious habits*’— whose nature is prone to be voluptuous.
 
-‘*Destitute of good qutalities*’—devoid of learning, wealth and other
-good qualities.
+‘*Destitute of good qutalities*’—devoid of learning, wealth and other good qualities.
 
 ‘*Should he attended upon*’— served.—(152).
 </details>

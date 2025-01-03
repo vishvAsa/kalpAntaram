@@ -31,13 +31,9 @@ Among twice-born men, when there is offence against an equal, the fine is twelve
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If a once-born person insults a twice-born one with gross abuse, he
-should suffer the cutting off of his tongue; as he is of low
-origin.—(270)
+If a once-born person insults a twice-born one with gross abuse, he should suffer the cutting off of his tongue; as he is of low origin.—(270)
 
-‘*Once-born person*’—the *Śūdra*; if he ‘*insults*’—abuses—the higher
-castes—‘*with gross abuse*’—harsh words attributing heinous
-offences,—suffers ‘*the cutting off of the tongue*.’
+‘*Once-born person*’—the *Śūdra*; if he ‘*insults*’—abuses—the higher castes—‘*with gross abuse*’—harsh words attributing heinous offences,—suffers ‘*the cutting off of the tongue*.’
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

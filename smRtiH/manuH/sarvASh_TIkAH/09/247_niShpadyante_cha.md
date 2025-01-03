@@ -34,8 +34,7 @@ In a country where the King avoids the income of wealth from sinners, men are, i
 
 These declamatory assertions are well-known.
 
-‘*Are in time born*’;—what is meant is also the present birth *i.e*.,
-persons already born, or going to be born.
+‘*Are in time born*’;—what is meant is also the present birth *i.e*., persons already born, or going to be born.
 
 ‘*Misshaped*’—devoid of eyes, or of ears and so forth—(246-247)
 </details>

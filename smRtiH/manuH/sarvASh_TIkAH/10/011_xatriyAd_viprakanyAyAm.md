@@ -19,14 +19,11 @@ One born from the Kṣatriya on the Brāhmaṇa maiden is ‘Sūta’ in caste; 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The foregoing rules apply to marriages in the ‘natural order,’ those
-pertaining to the marriages of the ‘reverse order’ are now stated.
+The foregoing rules apply to marriages in the ‘natural order,’ those pertaining to the marriages of the ‘reverse order’ are now stated.
 
 The significance of the terra ‘*maiden*’ has been already explained.
 
-From the *Vaiśya* are born the ‘*Māgadha*’ and the *Vaideha*,’
-respectively; *i.e*., that born from the *Kṣatriya* girl is the
-‘*Māgadha*’ and that born of the *Brāhmaṇa* girl, the ‘*Vaideha*.’—(11)
+From the *Vaiśya* are born the ‘*Māgadha*’ and the *Vaideha*,’ respectively; *i.e*., that born from the *Kṣatriya* girl is the ‘*Māgadha*’ and that born of the *Brāhmaṇa* girl, the ‘*Vaideha*.’—(11)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

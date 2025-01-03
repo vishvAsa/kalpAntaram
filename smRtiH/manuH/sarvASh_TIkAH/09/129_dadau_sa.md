@@ -21,9 +21,7 @@ He gave ten to Dharma, thirteen to Kaśyapa, and twenty-seven to King Soma,—ha
 
 ‘*Having honoured*’—This act of ‘honouring’ is what is enjoined here.
 
-People have held that the mention of ‘ten’ and more daughters is
-indicative of the fact that one may have more than one ‘appointed
-daughter.’—(129)
+People have held that the mention of ‘ten’ and more daughters is indicative of the fact that one may have more than one ‘appointed daughter.’—(129)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

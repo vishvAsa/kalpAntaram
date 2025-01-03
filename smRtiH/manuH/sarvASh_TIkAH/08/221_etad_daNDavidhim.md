@@ -15,9 +15,7 @@ This is the law of punishment which the king shall follow in the case of the bre
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Caste-federations*’—federations of various castes, or of men belonging
-to the same caste;—those who break compacts relating to these
-federations.
+‘*Caste-federations*’—federations of various castes, or of men belonging to the same caste;—those who break compacts relating to these federations.
 
 This verse sums up the section:—(221)
 </details>

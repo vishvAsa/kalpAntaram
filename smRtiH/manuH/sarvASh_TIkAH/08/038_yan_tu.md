@@ -15,13 +15,11 @@ When the king himself finds a hoard buried of old under the ground, he shall giv
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When the king himself has found treasure, this text lays down that he
-shall give one-half of it to the *Brāhmaṇas*.
+When the king himself has found treasure, this text lays down that he shall give one-half of it to the *Brāhmaṇas*.
 
 The term ‘*Treasury’ stands* for the place of hoarding.
 
-‘*Buried* *of old under* *the* *ground*’;—this describes the nature of
-the treasure-trove.—(38)
+‘*Buried* *of old under* *the* *ground*’;—this describes the nature of the treasure-trove.—(38)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

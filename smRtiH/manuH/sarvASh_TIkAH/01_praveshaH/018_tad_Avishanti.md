@@ -13,7 +13,6 @@ The great elemental substances, along with their functions, as also the mind, al
 Comprised of these basic indestructible particles, the particles of the primary elements, that constitute existence, combine together with their forces and properties.
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 तद् एतत् प्रधानं **सर्वभूतकृद्** भवति । **अव्ययम्** अविनाशं कारणात्मना । कथं सर्वाणि **भूतानि** करोति । यतस् तद् **आविशन्ती**मानि । कानि पुनस् तानि । **मनः सूक्ष्मैर् अवयवैः **सह तन्मात्रैर् बुद्ध्यहंकारेन्दियलक्षणैः । अनन्तरं **महान्ति भूतानि** पृथिव्यप्तेजोवाय्वाकाशाख्यानि । **सह कर्मभिः** । धृतिसंहननपक्तिव्यूहावकाशाः पृथिव्यादीनां यथाक्रमं कर्माणि । तत्र धृतिः धारणं सरणपतनधर्मकस्य एकत्रावस्थानम् । संग्राहकाद् विकीर्णस्य संहननम् । यथा पांसवो विकीर्णा उदकेन संहन्यन्ते पिण्डीक्रियन्ते । पक्तिर् अन्नौषधतृणादेस् तेजसः कार्यतया प्रसिद्धा । व्यूहो विन्यासः संनिवेशः । अवकाशो मूर्त्यन्तरेणाप्रतिबन्धः । न हि यस्मिन् देशे मूर्तिर् एका स्थिता तत्र मूर्त्यन्तरस्य स्थानम् । सुवर्णपिण्डे न कस्यचिद् अन्तःसंभवः । मनोग्रहणं सर्वेन्द्रियप्रदर्शनार्थम् । कर्मग्रहणेन च कर्मेन्द्रियाणि वा गृह्यन्ते । अथ वा तत्कार्यं सूक्ष्मैर् अवयवैर् युक्तं महान्ति भूतान्य् अधितिष्ठति पश्चाद् इत्य् एवं योजना । इन्द्रियाणि च मनःशब्दस्य प्रदर्शनार्थत्वात् ॥ १.१८ ॥
@@ -21,9 +20,7 @@ Comprised of these basic indestructible particles, the particles of the primary 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*That*,’ ‘Primordial Matter—is ‘the generator of all things’:—it is
-‘*imperishable*,’ *i.e*., in its original (causal) form it is
-indestructible.
+‘*That*,’ ‘Primordial Matter—is ‘the generator of all things’:—it is ‘*imperishable*,’ *i.e*., in its original (causal) form it is indestructible.
 
 “In what way does Primordial Matter *generate* all things?”
 
@@ -31,17 +28,9 @@ Because all these *enter into it*.
 
 “What are *all these* that enter into it?”
 
-First of all ‘*the Mind along with its subtile components*,’—*i.e*.,
-along with the Rudimentary Substances, the Principle of Intelligence,
-the Principle of Egoism and the Sense-organs;—and then, the *Great
-Elemental Substances*—called ‘Earth,’ ‘Water,’ ‘Fire,’ ‘Wind,’ and
-‘Ākāśa;’—‘*along with their functions*;—
+First of all ‘*the Mind along with its subtile components*,’—*i.e*., along with the Rudimentary Substances, the Principle of Intelligence, the Principle of Egoism and the Sense-organs;—and then, the *Great Elemental Substances*—called ‘Earth,’ ‘Water,’ ‘Fire,’ ‘Wind,’ and ‘Ākāśa;’—‘*along with their functions*;—
 
-1.  sustaining,
-2.  conglutination,
-3.  cooking,
-4.  configuration
-5.  and making room (unobstruction) respectively are the ‘functions’ of
+1.  sustaining, 2.  conglutination, 3.  cooking, 4.  configuration 5.  and making room (unobstruction) respectively are the ‘functions’ of
     Earth, &c.
 
 Of these
@@ -52,21 +41,13 @@ Of these
     disjointed; *e.g*., loose and disjointed dust-particles are brought
     togther, cemented into, a mass by means of water;—
 3.  ‘Cooking’ is the well-known effect produced by fire upon such
-    tilings as medicine and herbs, &c.;
-4.  ‘Configuration’ means conformation, shaping;—
-5.  ‘making room’ means non-obstruction by another body; in a point in
+    tilings as medicine and herbs, &c.
+4.  ‘Configuration’ means conformation, shaping;— 5.  ‘making room’ means non-obstruction by another body; in a point in
     space where one body is already present, there can be no room for
     another body; *e.g*., no object can find room within a piece of
     gold.
 
-‘*Mind*’—is meant to indicate all the organs of sensation; and the term
-‘*Karma*’ may be taken as referring to the organs of action; or again,
-in the first line of the text, the term ‘*Karma*’ may be taken to mean
-the ‘products’ of the elementary substances; the sense of the passage
-being that ‘subsequently the products of the elemental substances, along
-with the subtile components, enter into the great elemental
-substances’—‘as also do the organs of sensation,’ this latter being
-indicated by the word ‘*Mind*.’—(18)
+‘*Mind*’—is meant to indicate all the organs of sensation; and the term ‘*Karma*’ may be taken as referring to the organs of action; or again, in the first line of the text, the term ‘*Karma*’ may be taken to mean the ‘products’ of the elementary substances; the sense of the passage being that ‘subsequently the products of the elemental substances, along with the subtile components, enter into the great elemental substances’—‘as also do the organs of sensation,’ this latter being indicated by the word ‘*Mind*.’—(18)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

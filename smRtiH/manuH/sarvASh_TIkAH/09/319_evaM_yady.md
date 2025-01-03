@@ -20,14 +20,11 @@ Similarly even though they betake themselves to all sorts of undesirable acts, y
 
 **(verses 9.318-319)**
 
-What is said here has already gone before. The sense is that even though
-ill-behaved, the Brāhmaṇa shall not be ill-treated.
+What is said here has already gone before. The sense is that even though ill-behaved, the Brāhmaṇa shall not be ill-treated.
 
 ‘*Undesirable*’—forbidden.
 
-When they betake themselves to forbidden acts, they shall be dealt and
-punished according to law, gently, and not attacked with force, in the
-manner of other castes.—(318-319)
+When they betake themselves to forbidden acts, they shall be dealt and punished according to law, gently, and not attacked with force, in the manner of other castes.—(318-319)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

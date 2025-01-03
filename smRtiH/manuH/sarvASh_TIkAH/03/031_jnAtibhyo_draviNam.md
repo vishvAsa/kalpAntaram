@@ -19,16 +19,10 @@ When one carries away the maiden, after having given, of his own will, as much w
 
 ‘*As* *well as to the bride*;’—*i.e*., by way of ‘dowry.’
 
-The compound ‘*Kanyāpradāna*’ is to be expounded as ‘*Kanyāyāḥ
-āpradānam*’—the meaning being ‘the carrying away of the maiden.’ This
-constitutes the ‘*Āsura*’ form of marriage.
+The compound ‘*Kanyāpradāna*’ is to be expounded as ‘*Kanyāyāḥ āpradānam*’—the meaning being ‘the carrying away of the maiden.’ This constitutes the ‘*Āsura*’ form of marriage.
 
 *Of his own will*;—*i.e*., in any manner he may chose; not according to
-rules laid down in the scriptures. This is what distinguishes this from
-the ‘*Ārṣa*’ form. In the latter, the scripture restricts the gift to ‘a
-cow and a bull’ only; while in the present case, the ‘*wish*’ of the
-giver shall depend upon the beauty, the character and such other
-qualities of the bride.—(31).
+rules laid down in the scriptures. This is what distinguishes this from the ‘*Ārṣa*’ form. In the latter, the scripture restricts the gift to ‘a cow and a bull’ only; while in the present case, the ‘*wish*’ of the giver shall depend upon the beauty, the character and such other qualities of the bride.—(31).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

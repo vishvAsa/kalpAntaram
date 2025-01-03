@@ -31,19 +31,13 @@ If a man takes up a son deserted by his parents, or by either of them, he is cal
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-A child may be deserted by the parents, either because they have many
-children whom they are unable to support by reason of poverty, or
-because the particular child has some such defect as disaffection
-towards his parents and the like.
+A child may be deserted by the parents, either because they have many children whom they are unable to support by reason of poverty, or because the particular child has some such defect as disaffection towards his parents and the like.
 
-But the child should not have been openly deserted; as in that case it
-would not be entitled to being received as a son,—as has been shown
-elsewhere.
+But the child should not have been openly deserted; as in that case it would not be entitled to being received as a son,—as has been shown elsewhere.
 
 This desertion may be by either one of the parents.
 
-‘*Takes up*’—with a view to making him his son,—and not to only
-supporting him.—(171)
+‘*Takes up*’—with a view to making him his son,—and not to only supporting him.—(171)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

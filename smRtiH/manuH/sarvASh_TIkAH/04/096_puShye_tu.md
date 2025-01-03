@@ -15,15 +15,11 @@ The Brāhmaṇa shall perform, outside, the “Utsarjana” (Suspension) of the 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-On the expiry of the four months and a half, when the *Puṣya* asterism
-comes for the first time,—on that day, one should perform the
-‘Utsarjana’ rite. The exact form of this rite has been described by the
-authors of the *Gṛhyasūtras*.
+On the expiry of the four months and a half, when the *Puṣya* asterism comes for the first time,—on that day, one should perform the ‘Utsarjana’ rite. The exact form of this rite has been described by the authors of the *Gṛhyasūtras*.
 
 *^(‘)Outside*’—*i.e*., in an uncovered place.
 
-The exact form of these two rites—The ‘*Upākarma*’—and the ‘*Utsarjana*’
-should be learnt from the *Gṛhyasūtras*.—(96)
+The exact form of these two rites—The ‘*Upākarma*’—and the ‘*Utsarjana*’ should be learnt from the *Gṛhyasūtras*.—(96)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

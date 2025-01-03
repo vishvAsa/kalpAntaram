@@ -17,9 +17,7 @@ Thus by waking and sleeping, the Imperishable One incessantly brings to like and
 
 This verse recapitulates what has been said before.
 
-By means of his own ‘*waking and sleeping*,’ he produces and destroys
-the world consisting of *moveable and immoveable* beings, *i.e*.,
-vegetables and animals. ‘*Imperishable*’—Indestructible.—(57).
+By means of his own ‘*waking and sleeping*,’ he produces and destroys the world consisting of *moveable and immoveable* beings, *i.e*., vegetables and animals. ‘*Imperishable*’—Indestructible.—(57).
 </details>
 
 <details><summary>Bühler</summary>

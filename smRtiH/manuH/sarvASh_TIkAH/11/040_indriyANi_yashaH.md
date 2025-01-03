@@ -15,8 +15,7 @@ A sacrifice with small fees destroys the organs, honour, heaven, longevity, fame
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse describes the results following from the transgression of the
-aforementioned rule.—(40).
+This verse describes the results following from the transgression of the aforementioned rule.—(40).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

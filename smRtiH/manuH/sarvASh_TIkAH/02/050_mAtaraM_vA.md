@@ -15,16 +15,13 @@ First of all he should beg food of his mother, or of his sister, or of his mothe
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The words ‘mother,’ etc., have their meanings well known;—‘*own*’
-uterine.
+The words ‘mother,’ etc., have their meanings well known;—‘*own*’ uterine.
 
 ‘*As may not* *insult* *him*’—‘insulting’ here means *disregard*;
 *i.e*., refusal—‘I shall give nothing.’ Says the *Gṛhya* *sūtra*—‘He
 should beg from such man or woman as may not refuse him.’
 
-What is meant here by ‘*first*’ is the begging that is done by the boy
-during Initiation. In the course of the subsequent daily bogging, he
-should not fear refusal.—(50)
+What is meant here by ‘*first*’ is the begging that is done by the boy during Initiation. In the course of the subsequent daily bogging, he should not fear refusal.—(50)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

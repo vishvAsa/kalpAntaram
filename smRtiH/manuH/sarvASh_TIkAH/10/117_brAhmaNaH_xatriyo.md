@@ -19,14 +19,11 @@ The Brāhmaṇa or the Kṣatriya must not lend money on interest; but he may ad
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*For sacred purposes*’—This implies that what is here permitted refers
-to livelihood in abnormal times.
+‘*For sacred purposes*’—This implies that what is here permitted refers to livelihood in abnormal times.
 
-‘*To unrighteous men*’—This shows that from the righteous man no
-interest shall be taken.
+‘*To unrighteous men*’—This shows that from the righteous man no interest shall be taken.
 
-What has been said regarding ‘Agriculture, Trade and Money-lending being
-equal to Teaching’ pertains to *abnormal times*.—(117)
+What has been said regarding ‘Agriculture, Trade and Money-lending being equal to Teaching’ pertains to *abnormal times*.—(117)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

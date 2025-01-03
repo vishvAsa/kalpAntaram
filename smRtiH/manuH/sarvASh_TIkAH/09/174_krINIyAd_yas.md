@@ -13,8 +13,7 @@ If a man buys a boy, worthy or unworthy, from his father and mother, with a view
 **(verses 9.173-178)  
 **
 
-\[The Bhāṣya on these verses is not available in any of the
-manuscripts.\]
+\[The Bhāṣya on these verses is not available in any of the manuscripts.\]
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

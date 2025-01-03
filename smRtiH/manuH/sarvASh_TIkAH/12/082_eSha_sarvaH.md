@@ -27,12 +27,7 @@ Thus has been indicated to you the entire manner in which results proceed from a
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The results proceeding from such acts as have been forbidden have been
-duly described; hence one should avoid such acts. Inasmuch as sensual
-pleasures are conducive to suffering, one should desist from them, and
-one should remain fixed in that course of action which is conducive to
-Liberation, and which is described under the coming section on
-‘Knowledge.’ This is what we are going to expound now.—(82)
+The results proceeding from such acts as have been forbidden have been duly described; hence one should avoid such acts. Inasmuch as sensual pleasures are conducive to suffering, one should desist from them, and one should remain fixed in that course of action which is conducive to Liberation, and which is described under the coming section on ‘Knowledge.’ This is what we are going to expound now.—(82)
 </details>
 
 <details><summary>भारुचिः</summary>

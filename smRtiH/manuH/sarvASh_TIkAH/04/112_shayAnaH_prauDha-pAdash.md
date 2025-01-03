@@ -15,17 +15,13 @@ While lying down, while his feet are prominently thrust forward, and while he is
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*With feet prominently thrust forward*’—*i.e*., with feet spread
-forward, or with one foot over the other, or with his feet placed
-together on a stool, etc.
+‘*With feet prominently thrust forward*’—*i.e*., with feet spread forward, or with one foot over the other, or with his feet placed together on a stool, etc.
 
-‘*Avasakthikā*’—is that mode of sitting in which the knees are tied
-together with a piece of cloth or some such thing.
+‘*Avasakthikā*’—is that mode of sitting in which the knees are tied together with a piece of cloth or some such thing.
 
 ‘*Āmiṣa*’—is meat.
 
-‘*Impurity*’—includes that impurity also which is caused by the carrying
-of a dead body, etc.—(112).
+‘*Impurity*’—includes that impurity also which is caused by the carrying of a dead body, etc.—(112).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

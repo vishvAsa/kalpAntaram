@@ -21,10 +21,7 @@ When he knows that his superiority is certain in the future, and at the time the
 
 ‘Future’ is time to come.
 
-When he knows that ‘this king is equal to me in strength—or I may be
-weaker now, but in time, by creating disunion among his people, or by
-entering into powerful alliances, I shall be able to defeat him’,—then
-he should make peace.
+When he knows that ‘this king is equal to me in strength—or I may be weaker now, but in time, by creating disunion among his people, or by entering into powerful alliances, I shall be able to defeat him’,—then he should make peace.
 
 ‘*Superiority*’ means *possession of superior force*.
 

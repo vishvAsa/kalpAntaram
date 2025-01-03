@@ -19,17 +19,11 @@ If in regard to any act that has been committed, his mind be uneasy, he shall pe
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What, the text means is that so long as the mind is not satisfied, one
-may go on doing even more penances than what has been actually
-prescribed.
+What, the text means is that so long as the mind is not satisfied, one may go on doing even more penances than what has been actually prescribed.
 
-When a misdeed has been committed, if there is in the mind a certain
-‘*uneasiness*’—an uncomfortable feeling,—then, even though the
-prescribed expiation may have been performed, it should be repeated,
-till peace of mind has been secured.
+When a misdeed has been committed, if there is in the mind a certain ‘*uneasiness*’—an uncomfortable feeling,—then, even though the prescribed expiation may have been performed, it should be repeated, till peace of mind has been secured.
 
-The term ‘*penance*’ here stands for *gifts* and other prescribed, acts
-also.—(233)
+The term ‘*penance*’ here stands for *gifts* and other prescribed, acts also.—(233)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

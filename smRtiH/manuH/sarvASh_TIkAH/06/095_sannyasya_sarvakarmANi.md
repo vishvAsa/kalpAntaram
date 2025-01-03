@@ -15,16 +15,11 @@ Having renounced all acts, and thrown off the taint of his acts, and studied the
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Having studied the Veda*’;—this implies that the Veda shall not be
-given up. This has been already explained above.
+‘*Having studied the Veda*’;—this implies that the Veda shall not be given up. This has been already explained above.
 
-The right reading would appear to be the present-participial form
-‘*abhyasyan*,’ ‘studying.’
+The right reading would appear to be the present-participial form ‘*abhyasyan*,’ ‘studying.’
 
-‘*He shall live at ease under the protection of his son*’;—*i.e*., if he
-has a son born to him; or of any other person who may be in the place of
-his son; such, for instance as his grandson. They say that in this case
-also one should retire to another house.—(95).
+‘*He shall live at ease under the protection of his son*’;—*i.e*., if he has a son born to him; or of any other person who may be in the place of his son; such, for instance as his grandson. They say that in this case also one should retire to another house.—(95).
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

@@ -29,16 +29,14 @@ The suppression of these five in his own dominions secures to the king paramount
 
 ‘*Paramount sovereignty*,’—lordship over others, independence.
 
-‘*Among his* *peers*.’— the term ‘*peers*’ stands for such kings as are
-his rivals. The king in question rises to lordship over all those;
+‘*Among his* *peers*.’— the term ‘*peers*’ stands for such kings as are his rivals. The king in question rises to lordship over all those;
 *i.e*., they become subservient to him and obey bis wishes.
 
 ‘*Fame in the world*’—also is brought about.
 
 In both cases it is the ‘suppression’ that brings about the said result.
 
-The meaning is that people continue to eulogise the king, even though
-they say that ‘he is a very cruel chastiser of the people.’—(387)
+The meaning is that people continue to eulogise the king, even though they say that ‘he is a very cruel chastiser of the people.’—(387)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

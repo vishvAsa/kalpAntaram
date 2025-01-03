@@ -21,11 +21,9 @@ If one throws filth upon the public road, except in dire necessity,—he shall p
 
 ‘*Throws*’—gets carried and deposited by a ‘*Cāṇḍala*.’
 
-‘*Except in dire necessity*’—*i.e*., when he cannot check the force of
-his evacuation.
+‘*Except in dire necessity*’—*i.e*., when he cannot check the force of his evacuation.
 
-He shall have the filth removed either by a hired *Cāṇḍāla*, or clean it
-himself.—(282)
+He shall have the filth removed either by a hired *Cāṇḍāla*, or clean it himself.—(282)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

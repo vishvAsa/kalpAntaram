@@ -9,7 +9,6 @@ The twice-born man shall remove the guilt caused by theft by means of these pena
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> च "वधेन शुध्यति स्तेनस् तपसा च" (म्ध् ११.१००) इति द्वयस्य प्राक्तनत्वात्, **एतैर्** इति बहुवचनं न सम्यक् । 
 
 - <u>एतद्</u> एव ज्ञापकम्- एष निःशेषोक्तान् अप्य् अनुक्ताण् कल्पेतानुबन्धाद्यपेक्षया । 
@@ -19,19 +18,11 @@ The twice-born man shall remove the guilt caused by theft by means of these pena
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“Inasmuch as only two modes of purification have been mentioned
-above—‘the thief becomes purified by death, and also by penance,’—the
-plural number in ‘these *penances*,’ does not appear to be right”
+“Inasmuch as only two modes of purification have been mentioned above—‘the thief becomes purified by death, and also by penance,’—the plural number in ‘these *penances*,’ does not appear to be right”
 
-This same use of the plural number is indicative of the fact that there
-are other expiations also, which have not been mentioned,—to be
-determined by the considerations of the circumstances attending each
-case.
+This same use of the plural number is indicative of the fact that there are other expiations also, which have not been mentioned,—to be determined by the considerations of the circumstances attending each case.
 
-‘*Gurustrīgamanīyam*’ means that of which *intercourse with the
-Preceptors’s wife is the incentive*;—*the cause* is often regarded as
-the *prayojana*, the *incentive*, which *prompts* or *brings about* the
-effect—(102)
+‘*Gurustrīgamanīyam*’ means that of which *intercourse with the Preceptors’s wife is the incentive*;—*the cause* is often regarded as the *prayojana*, the *incentive*, which *prompts* or *brings about* the effect—(102)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

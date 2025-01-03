@@ -35,8 +35,7 @@ The particle ‘*ca*’ implies ‘disrespect for elders.’
 
 ‘*Habit of begging*’—being addicted to soliciting favours.
 
-‘*Inattentiveness*’—carelessness; want of attention to the performance
-of duties and to the avoidance of failure.
+‘*Inattentiveness*’—carelessness; want of attention to the performance of duties and to the avoidance of failure.
 
 Between ‘*svapno*’ and ‘*dhṛtiḥ*,’ an ‘*a*’ is understood.—(33)
 </details>

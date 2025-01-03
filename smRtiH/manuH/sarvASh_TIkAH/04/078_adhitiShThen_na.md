@@ -21,8 +21,7 @@ One who is desirous of living a long life, shall not step on hair, nor on ashes,
 
 ‘*Potsherds*’—broken pieces of earthenware.
 
-‘*Long life*’— This use of the Accusative has been already
-explained.—(78)
+‘*Long life*’— This use of the Accusative has been already explained.—(78)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

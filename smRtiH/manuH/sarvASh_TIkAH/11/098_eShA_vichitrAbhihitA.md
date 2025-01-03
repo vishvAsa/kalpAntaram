@@ -15,8 +15,7 @@ Thus have been described the various expiations for wine-drinking; after this I 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The purpose of the two halves of the verse is as is clearly stated
-here.—(98)
+The purpose of the two halves of the verse is as is clearly stated here.—(98)
 </details>
 
 <details><summary>भारुचिः</summary>

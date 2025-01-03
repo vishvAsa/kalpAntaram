@@ -15,10 +15,7 @@ When tired with looking after the affairs of men, he shall place in that place h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When he is tired with looking after the affairs of his subjects, he
-shall depute to that work of ‘looking after affairs’ a minister who is
-endowed with the knowledge of law and other qualifications, and is fit
-for bearing all responsibilities.—(141)
+When he is tired with looking after the affairs of his subjects, he shall depute to that work of ‘looking after affairs’ a minister who is endowed with the knowledge of law and other qualifications, and is fit for bearing all responsibilities.—(141)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

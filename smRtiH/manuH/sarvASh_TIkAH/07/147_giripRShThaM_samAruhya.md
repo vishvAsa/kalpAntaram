@@ -19,15 +19,11 @@ Having ascended the top of a hill, or a house, and retiring into solitude,—or 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This lays down the *place* where the council is to be held. ‘*Retiring
-into solitude*’— seated in a place where there are no men.
+This lays down the *place* where the council is to be held. ‘*Retiring into solitude*’— seated in a place where there are no men.
 
-‘*Unobserved*’;—he shall arrange it so that men may not be able to infer
-that such and such a thing is going on there.
+‘*Unobserved*’;—he shall arrange it so that men may not be able to infer that such and such a thing is going on there.
 
-‘*Desolate*’, ‘*niśśalākam*’,—‘*śalakā*’ is *tall grass* hence the
-epithet means a place where even grass does not grow, and hence there is
-no possibility of any person going there.—(147)
+‘*Desolate*’, ‘*niśśalākam*’,—‘*śalakā*’ is *tall grass* hence the epithet means a place where even grass does not grow, and hence there is no possibility of any person going there.—(147)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

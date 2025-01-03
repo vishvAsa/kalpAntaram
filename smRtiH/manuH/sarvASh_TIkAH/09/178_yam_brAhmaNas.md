@@ -18,8 +18,7 @@ If a Brāhmaṇa, through lust, begets a son on a Śūdra woman, he is as a corp
 **(verses 9.173-178)  
 **
 
-\[The Bhāṣya on these verses is not available in any of the
-manuscripts.\]
+\[The Bhāṣya on these verses is not available in any of the manuscripts.\]
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

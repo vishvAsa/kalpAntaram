@@ -15,13 +15,11 @@ He shall not go about either too early in the morning or too late in the evening
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The term ‘*atikalya*’ denotes *day-break*. ‘One shall not go about at
-dawn.’
+The term ‘*atikalya*’ denotes *day-break*. ‘One shall not go about at dawn.’
 
 ‘*Too late in the evening*’—at the time of the evening twilight.
 
-‘*He shall not go about with an unknown person, or without a companion,
-or with śūdras*.’—(140)
+‘*He shall not go about with an unknown person, or without a companion, or with śūdras*.’—(140)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

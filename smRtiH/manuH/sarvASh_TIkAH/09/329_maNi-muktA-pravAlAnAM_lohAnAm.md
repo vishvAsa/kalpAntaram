@@ -23,11 +23,7 @@ He shall find out the relative value of gems, pearls, corals, metals, woven clot
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Metals*’;—this term stands for copper, iron and bronze. ‘*Relative
-value*’—the variations in their price due to exigencies of time and
-place. That is, he should find out in what part of the country a certain
-thing fetches a higher price than in another; and similarly in regard to
-time also.—(329)
+‘*Metals*’;—this term stands for copper, iron and bronze. ‘*Relative value*’—the variations in their price due to exigencies of time and place. That is, he should find out in what part of the country a certain thing fetches a higher price than in another; and similarly in regard to time also.—(329)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

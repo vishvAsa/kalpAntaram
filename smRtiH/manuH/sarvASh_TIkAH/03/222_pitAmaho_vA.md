@@ -25,10 +25,7 @@ Manu has declared that either the grandfather may eat at that Śrāddha, or the 
 
 Just as the living father is fed, so is the grandfather also.
 
-Having sought permission from the grandfather, the man himself may
-perform the *śrāddha*; *i.e*., he should make the offering to the two
-remoter ancestors, or to the great-grandfather only. This is what is
-implied by the terms ‘*may*’ and ‘*according to his will*.’—(222)
+Having sought permission from the grandfather, the man himself may perform the *śrāddha*; *i.e*., he should make the offering to the two remoter ancestors, or to the great-grandfather only. This is what is implied by the terms ‘*may*’ and ‘*according to his will*.’—(222)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

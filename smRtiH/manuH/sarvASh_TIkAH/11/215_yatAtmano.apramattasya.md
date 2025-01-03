@@ -15,13 +15,11 @@ If a man, self-controlled and guarded, fasts for twelve days,—this constitutes
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Self-controlled*’—with the senses under control, not longing for music
-and such amusements.
+‘*Self-controlled*’—with the senses under control, not longing for music and such amusements.
 
 ‘*Guarded*’— ever bent upon the penance.
 
-This is purely commendatory, being common to all forms of ‘*Kṛcchra*’
-(and not restricted to the *Parāka only*).—(215)
+This is purely commendatory, being common to all forms of ‘*Kṛcchra*’ (and not restricted to the *Parāka only*).—(215)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

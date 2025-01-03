@@ -29,14 +29,11 @@ _पूर्वोत्तरप्रकरणयोः_[^२६३] _सं�
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Should* *exert themselves*’— should make an effort; so that they may
-not be unfaithful to each other;—*unfaithfulness* consisting in neglect,
-want of co-operation in matters relating to Duty, Wealth and Pleasure.
+‘*Should* *exert themselves*’— should make an effort; so that they may not be unfaithful to each other;—*unfaithfulness* consisting in neglect, want of co-operation in matters relating to Duty, Wealth and Pleasure.
 
 ‘*Passed through the rites*’—performed the rites of marriage.
 
-This verse is meant to be a summing up of what has gone before, and not
-the injunction of any thing new.—(102)
+This verse is meant to be a summing up of what has gone before, and not the injunction of any thing new.—(102)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

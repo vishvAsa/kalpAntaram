@@ -29,9 +29,7 @@ The seed sown on barren soil perishes prematurely; and soil without the seed wou
 
 ‘*Perishes prematurely*’—without yielding any harvest.
 
-‘*Without seed*’—or sown with bad seed,—the soil is only a ‘*barren
-plot*’—an uncultivated land; and from this also no harvest is
-obtained.—(71)
+‘*Without seed*’—or sown with bad seed,—the soil is only a ‘*barren plot*’—an uncultivated land; and from this also no harvest is obtained.—(71)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

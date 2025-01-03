@@ -15,8 +15,7 @@ _न केवलं निन्दाम् एव येन, _
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-It is not only Contempt and disgrace that is hers; but something more
-(described in the next verse).—(161).
+It is not only Contempt and disgrace that is hers; but something more (described in the next verse).—(161).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,10 +19,7 @@ He shall not refuse a couch, a house, kuśa grass, perfumes, water, flowers, jew
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The *couch* and other things one should not refuse to accept, even when
-they are not actually presented before him. That is if some one were to
-come and Ray, ‘I have these things in my house; do please come and
-accept them,’—then these should not be rejected.—(250).
+The *couch* and other things one should not refuse to accept, even when they are not actually presented before him. That is if some one were to come and Ray, ‘I have these things in my house; do please come and accept them,’—then these should not be rejected.—(250).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

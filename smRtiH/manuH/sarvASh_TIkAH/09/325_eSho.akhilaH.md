@@ -23,11 +23,7 @@ Thus has been expounded the whole of the eternal Law relating to the Duties of t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The first half of this verse sums up the entire section dealing with the
-Duties of the King, ending with the ‘Removal of Thorns’; and the latter
-half reminds the reader of the promise set forth above (under 1.116)
-regarding the expounding, of the ‘Duties of the Vaiśya and the
-Śūdra.’—(325)
+The first half of this verse sums up the entire section dealing with the Duties of the King, ending with the ‘Removal of Thorns’; and the latter half reminds the reader of the promise set forth above (under 1.116) regarding the expounding, of the ‘Duties of the Vaiśya and the Śūdra.’—(325)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

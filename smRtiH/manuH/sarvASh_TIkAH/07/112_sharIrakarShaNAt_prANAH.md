@@ -15,12 +15,7 @@ As the lives of living beings perish by the emasciation of their bodies, so do t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In his own kingdom the King should very carefully cultivate the good
-feelings of his people; since the kingdom occupies the position of body
-in relation to the King; when the body becomes emasciated by such causes
-as the eating of indigestible and unwholesome food and the like, the
-life goes out of it; similar results follow from the oppression of the
-Kingdom.
+In his own kingdom the King should very carefully cultivate the good feelings of his people; since the kingdom occupies the position of body in relation to the King; when the body becomes emasciated by such causes as the eating of indigestible and unwholesome food and the like, the life goes out of it; similar results follow from the oppression of the Kingdom.
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

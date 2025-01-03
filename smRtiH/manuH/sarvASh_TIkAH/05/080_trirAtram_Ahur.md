@@ -15,11 +15,9 @@ On the death of the Teacher, they declare the impurity to last for three days; o
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Teacher*’, ‘*Ācārya*’, here stands for the *Initiator*:—on his
-death—the impurity of the pupil lasts for three days.
+‘*Teacher*’, ‘*Ācārya*’, here stands for the *Initiator*:—on his death—the impurity of the pupil lasts for three days.
 
-On the death of the Teacher’s son or wife,—it lasts for one day and
-night.—(79).
+On the death of the Teacher’s son or wife,—it lasts for one day and night.—(79).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

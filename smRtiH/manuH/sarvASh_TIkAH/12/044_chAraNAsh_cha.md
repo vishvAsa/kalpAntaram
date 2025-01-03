@@ -27,11 +27,7 @@ Cāraṇas, Suparṇas, hypocritical men, Rākṣasas, and Piśācas—represent
 
 ‘*Suparṇas*’—a particular kind of birds.
 
-The epithet ‘*despised*’ is to be construed with ‘*Śūdras*,’—*i.e*.,
-those *Śūdras* who disregard the Brāhmaṇas, poach upon their livelihood,
-and are characterised by haughtiness, vanity, and such qualities. Such
-injurious persons as thieves and others are also included among
-the^(‘)*despised*.’—(42-44)
+The epithet ‘*despised*’ is to be construed with ‘*Śūdras*,’—*i.e*., those *Śūdras* who disregard the Brāhmaṇas, poach upon their livelihood, and are characterised by haughtiness, vanity, and such qualities. Such injurious persons as thieves and others are also included among the^(‘)*despised*.’—(42-44)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

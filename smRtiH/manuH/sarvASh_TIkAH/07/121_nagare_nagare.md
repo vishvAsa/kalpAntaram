@@ -21,8 +21,7 @@ In each town he shall appoint one Superintendent of all works, of high status an
 
 ‘*Like a planet among stars*’—*i.e*. like the planet Mars.
 
-He shall also be equipped with an army consisting of elephants, horses
-and the rest.—(121)
+He shall also be equipped with an army consisting of elephants, horses and the rest.—(121)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,8 +15,7 @@ On the death of her husband, the good wife who remains firm, goes to heaven, eve
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The same thing is repeated again, for the purpose of strengthening our
-conviction.—(159).
+The same thing is repeated again, for the purpose of strengthening our conviction.—(159).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

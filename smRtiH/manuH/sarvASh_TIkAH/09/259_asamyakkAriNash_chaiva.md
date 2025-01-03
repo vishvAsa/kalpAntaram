@@ -27,16 +27,13 @@ Misbehaving High officials and physicians, art-exhibitors, and clever harlots.�
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*High officials*’—Such as ministers, priests and other attendants of
-the king;—if they ‘misbehave,’ act improperly.
+‘*High officials*’—Such as ministers, priests and other attendants of the king;—if they ‘misbehave,’ act improperly.
 
 ‘*Physicians*’—Medical practitioners.
 
-‘*Art-exhibitors*’—Picture-painters, decorators, cooks and so forth; who
-show before people the product of their arts, and make a living by it.
+‘*Art-exhibitors*’—Picture-painters, decorators, cooks and so forth; who show before people the product of their arts, and make a living by it.
 
-‘*Clever harlots*’—Those that can stimulate love. The epithet
-‘*misbehaving*’ goes with all the terms.—(259)
+‘*Clever harlots*’—Those that can stimulate love. The epithet ‘*misbehaving*’ goes with all the terms.—(259)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

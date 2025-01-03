@@ -19,8 +19,7 @@ Uncultivated land is less reprehensible than cultivated land; and among cows, go
 
 Between ‘goats’ and ‘sheep’ also there is a difference.
 
-The verse is apparently one the sense of which has been already
-explained.—(114)
+The verse is apparently one the sense of which has been already explained.—(114)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

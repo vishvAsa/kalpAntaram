@@ -15,17 +15,9 @@ As for Teachng and Sacrificing, these are done always for only such men as have 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse sets forth a declamatory statement, in the form of an
-argument in support of what has gone before.
+This verse sets forth a declamatory statement, in the form of an argument in support of what has gone before.
 
-The very nature of men is such that persons not initiated do not study
-the Veda, and do not perform sacrifices; so that in times of distress,
-the Brāhmaṇa might very well teach and sacrifice for the *Śūdra*. As for
-gifts on the other hand, it is well known that it may be received from
-all castes; so that it is quite possible to receive it from a *Śūdra*
-\[so that it is more easily procurable\]. It is for this reason that the
-receiving of improper gifts (from wrong sources, outside the four
-castes) is the *meanest* of all.—(110)
+The very nature of men is such that persons not initiated do not study the Veda, and do not perform sacrifices; so that in times of distress, the Brāhmaṇa might very well teach and sacrifice for the *Śūdra*. As for gifts on the other hand, it is well known that it may be received from all castes; so that it is quite possible to receive it from a *Śūdra* \[so that it is more easily procurable\]. It is for this reason that the receiving of improper gifts (from wrong sources, outside the four castes) is the *meanest* of all.—(110)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

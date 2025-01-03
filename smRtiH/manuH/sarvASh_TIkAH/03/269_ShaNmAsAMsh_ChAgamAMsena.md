@@ -17,8 +17,7 @@ For six months by the meat of goat; for seven by that of spotted deer; for eight
 
 ‘*Ruru*,’ ‘*pṛṣat*’ and ‘*eṇa*’ denote special varieties of the deer.
 
-In the terms ‘*raurava*,’ ‘*pārṣata*,’ and ‘*aiṇeya*’ the nominal affix
-denotes *arising from*.—(269)
+In the terms ‘*raurava*,’ ‘*pārṣata*,’ and ‘*aiṇeya*’ the nominal affix denotes *arising from*.—(269)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

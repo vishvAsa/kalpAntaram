@@ -17,11 +17,7 @@ The king who condones the perpetrator of violence quickly falls into destruction
 
 This also is a declamation.
 
-He who condones the man addicted to violence—the causal affix in
-‘*marṣayati*’ having the reflexive force, it means ‘forgives,’ ‘bears
-with,’—‘*quickly falls into destruction*,’ and becomes hated among his
-people; and being thus hated, he comes to be assailed and
-overcome.—(346)
+He who condones the man addicted to violence—the causal affix in ‘*marṣayati*’ having the reflexive force, it means ‘forgives,’ ‘bears with,’—‘*quickly falls into destruction*,’ and becomes hated among his people; and being thus hated, he comes to be assailed and overcome.—(346)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

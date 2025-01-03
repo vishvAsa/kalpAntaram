@@ -15,9 +15,7 @@ What is born of another is not a ‘child’: nor is one begotten on another man
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The child that is born for her from another man is not her ‘child’;
-similarly what is begotten by a man on another man’s wife is not his
-child.—(160)
+The child that is born for her from another man is not her ‘child’; similarly what is begotten by a man on another man’s wife is not his child.—(160)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

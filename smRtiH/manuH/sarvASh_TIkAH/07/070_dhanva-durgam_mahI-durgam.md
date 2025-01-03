@@ -27,22 +27,17 @@ He shall live in a city, taking up his residence either in a ‘bow-fort’, or 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Bow-fort*’— surrounded by a strongly-built wall, built of bricks,
-double-storeyed, more than 12 cubits high) with its base like the palm
-and its top like the monkey’s head.
+‘*Bow-fort*’— surrounded by a strongly-built wall, built of bricks, double-storeyed, more than 12 cubits high) with its base like the palm and its top like the monkey’s head.
 
 ‘*Earthen fort*’— surrounded by earthen embankments.
 
 ‘*Aquatic fort*’—surrounded by unfathomable water.
 
-‘*Arborial fort*’— surrounded, to a distance of four miles, with
-densely-packed large trees.
+‘*Arborial fort*’— surrounded, to a distance of four miles, with densely-packed large trees.
 
-‘*Human fort*’— garrisoned by an army of four divisions, and filled with
-arms and heroic persons.
+‘*Human fort*’— garrisoned by an army of four divisions, and filled with arms and heroic persons.
 
-‘*Hilly fort*’— inaccessibly high, with a single pathway leading to it,
-supplied with water from an underground stream.—(70)
+‘*Hilly fort*’— inaccessibly high, with a single pathway leading to it, supplied with water from an underground stream.—(70)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

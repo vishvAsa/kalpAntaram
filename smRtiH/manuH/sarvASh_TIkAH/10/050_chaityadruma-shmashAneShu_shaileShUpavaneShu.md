@@ -30,12 +30,9 @@ Near worshipped trees and cremation-grounds, on hills and in groves, these shall
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-They shall dwell outside the village; in hilly tracts and other such
-places.
+They shall dwell outside the village; in hilly tracts and other such places.
 
-‘*Duly marked*’—Bearing their distinctive caste-mark. They shall subsist
-by the particular occupation prescribed for each. That is, mixed castes
-should not take to the occupations of the superior castes.—(50)
+‘*Duly marked*’—Bearing their distinctive caste-mark. They shall subsist by the particular occupation prescribed for each. That is, mixed castes should not take to the occupations of the superior castes.—(50)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

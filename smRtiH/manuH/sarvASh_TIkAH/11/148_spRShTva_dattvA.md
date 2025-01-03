@@ -15,8 +15,7 @@ If one touches wine, or offers it to another, or receives it in due form,—or i
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Receives it in due form*,’—*i.e*., pronouncing the syllable
-‘*svasti*’; similarly with the *offering* also.
+‘*Receives it in due form*,’—*i.e*., pronouncing the syllable ‘*svasti*’; similarly with the *offering* also.
 
 There would be no harm in the case of *vrīhi* and other corns.
 

@@ -17,8 +17,7 @@ By subsisting upon sacred fruits and roots, and by eating the food of hermits, o
 
 ‘*Sacred*’—fit for Gods.
 
-‘*Food of* *hermits*’—*i.e*., such grains as are got without
-cultivation; *e.g*., the *Nirāra* and the like.
+‘*Food of* *hermits*’—*i.e*., such grains as are got without cultivation; *e.g*., the *Nirāra* and the like.
 
 This verse also is a purely commendatory exaggeration—(54)
 </details>

@@ -23,13 +23,9 @@ He shall regard, as ‘enemy’, his immediate neighbour, as also the person who
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-One who is the immediate neighbour of the king bent on conquest shall be
-regarded as his enemy; as also the enemy’s ally. Similarly he shall
-regard as his friend the immediate neighbour of his enemy. The King who
-is beyond these two is ‘*neutral*.’
+One who is the immediate neighbour of the king bent on conquest shall be regarded as his enemy; as also the enemy’s ally. Similarly he shall regard as his friend the immediate neighbour of his enemy. The King who is beyond these two is ‘*neutral*.’
 
-These same characteristics of the ‘friend’ and the ‘enemy’ are to be
-found in the ‘born’ and ‘acquired’ ones also.—(158)
+These same characteristics of the ‘friend’ and the ‘enemy’ are to be found in the ‘born’ and ‘acquired’ ones also.—(158)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

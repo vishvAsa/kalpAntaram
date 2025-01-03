@@ -15,8 +15,7 @@ The king thus duly doing his lawful work, may seek to acquire tracts of land not
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*He may seek to acquire what he has not already acquired*’,—*i.e.*, he
-shall not remain contented with what he has already got.—(251)
+‘*He may seek to acquire what he has not already acquired*’,—*i.e.*, he shall not remain contented with what he has already got.—(251)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

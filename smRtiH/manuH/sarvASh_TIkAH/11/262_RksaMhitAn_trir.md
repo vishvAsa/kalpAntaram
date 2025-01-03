@@ -15,8 +15,7 @@ One becomes absolved from all sins by reciting, with concentrated mind, three ti
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Inasmuch as the ‘*Ṛk*,’ etc., are so specified, the Brāhmaṇa texts
-become excluded.
+Inasmuch as the ‘*Ṛk*,’ etc., are so specified, the Brāhmaṇa texts become excluded.
 
 ‘*Esoteric texts*’—the Sāman-texts occurring in the *Āraṇyakas*.—(262)
 </details>

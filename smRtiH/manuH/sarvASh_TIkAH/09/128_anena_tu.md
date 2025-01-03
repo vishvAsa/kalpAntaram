@@ -15,11 +15,9 @@ In ancient times Dakṣa Prajāpati himself made ‘appointed daughters’ in th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Prajāpati Dakṣa, who was fully conversant with the law relating to the
-procreation of offspring, is here cited as an example.
+Prajāpati Dakṣa, who was fully conversant with the law relating to the procreation of offspring, is here cited as an example.
 
-This is a declamatory assertion of the nature of ‘*Parakṛti*.’
-‘Tradition’ of Practice.—(128)
+This is a declamatory assertion of the nature of ‘*Parakṛti*.’ ‘Tradition’ of Practice.—(128)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

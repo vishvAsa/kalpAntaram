@@ -15,12 +15,9 @@ The depositary shall not hake good what has been stolen by thieves, or carried a
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-If thieves, known or unknown, should bore a hole through the wall and
-take away the artiole,—in spite of the depositary having taken all due
-care for its protection,—then the loss falls upon the owner (depositor).
+If thieves, known or unknown, should bore a hole through the wall and take away the artiole,—in spite of the depositary having taken all due care for its protection,—then the loss falls upon the owner (depositor).
 
-‘*Carried away by water*’—*i.e*., moved away from its place of keeping,
-to some other place.—(189)
+‘*Carried away by water*’—*i.e*., moved away from its place of keeping, to some other place.—(189)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

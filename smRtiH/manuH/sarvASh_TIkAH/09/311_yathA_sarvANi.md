@@ -21,8 +21,7 @@ As the earth sustains all beings equally, so does the king support all beings; a
 
 ‘*Dharā*’—The earth.
 
-The king shall support the poor and the destitute persons, as also their
-families.—(311)
+The king shall support the poor and the destitute persons, as also their families.—(311)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

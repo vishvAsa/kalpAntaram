@@ -17,8 +17,7 @@ Allowing oneself to be superseded in marriage by his younger brother, supersedin
 
 ‘*Younger*’— younger brother.
 
-‘*Sacrificing for these two*’—*i.e*., officiating as priest for them at
-the *Darśa-pūrṇamāsa* and other sacrifices.—(60)
+‘*Sacrificing for these two*’—*i.e*., officiating as priest for them at the *Darśa-pūrṇamāsa* and other sacrifices.—(60)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

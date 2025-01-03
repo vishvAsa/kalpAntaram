@@ -17,11 +17,9 @@ In the case of girls of the same caste (as the bridegroom) the sacramental rite 
 
 The rite called ‘taking the hand,’ as described by the authors of
 *Gṛhyasutras*, has been ‘*prescribed*’—laid down, mentioned by the
-scriptures as to be performed—‘*in the case of girls of the same
-caste*,’ being married.
+scriptures as to be performed—‘*in the case of girls of the same caste*,’ being married.
 
-‘*In the case of girls of different castes*’ being married, the
-following is ‘*to be known as the right procedure*.’—(43)
+‘*In the case of girls of different castes*’ being married, the following is ‘*to be known as the right procedure*.’—(43)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

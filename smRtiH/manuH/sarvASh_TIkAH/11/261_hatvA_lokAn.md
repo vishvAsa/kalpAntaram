@@ -17,11 +17,9 @@ Even if he kills the three worlds, or if he eats here and there, he does not inc
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This also is purely commendatory, meant to indicate that the retaining
-of the Ṛgveda is a ‘Secret Expiation.’
+This also is purely commendatory, meant to indicate that the retaining of the Ṛgveda is a ‘Secret Expiation.’
 
-Others, however, hold that the whole set of verses from 258 to the
-present, are descriptive of the ‘Secret Expiation.’—(261)
+Others, however, hold that the whole set of verses from 258 to the present, are descriptive of the ‘Secret Expiation.’—(261)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

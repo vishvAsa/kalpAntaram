@@ -19,12 +19,9 @@ The wife of the elder brother is, for the younger, a ‘wife of the preceptor’
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-These two verses (57 and 58) describe the actual state of things, for
-the purpose of laying down the advisability of ‘Niyoga’ or
-‘appointment,’ in times of distress.
+These two verses (57 and 58) describe the actual state of things, for the purpose of laying down the advisability of ‘Niyoga’ or ‘appointment,’ in times of distress.
 
-‘*Elder*’—one born before;—‘*younger*’—one born after; junior in
-age.—(57)
+‘*Elder*’—one born before;—‘*younger*’—one born after; junior in age.—(57)
 </details>
 
 <details><summary>भारुचिः</summary>

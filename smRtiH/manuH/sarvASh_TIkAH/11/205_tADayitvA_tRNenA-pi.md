@@ -15,8 +15,7 @@ Having struck him even with a blade of grass, or having tied him in the neck wit
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Having struck him with a blade of grass*,’—which may not cause any
-pain at all.
+‘*Having struck him with a blade of grass*,’—which may not cause any pain at all.
 
 ‘*Having tied*’—ever so gently—‘*him in the neck with a cloth*.’
 

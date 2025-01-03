@@ -27,8 +27,7 @@ The king shall strike like thieves those who provide fire, offer food and supply
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Those who provide for the thieves fire for warming themselves and such
-other purposes.
+Those who provide for the thieves fire for warming themselves and such other purposes.
 
 ‘*Arms*’— Cutlass and the like.
 
@@ -36,9 +35,7 @@ other purposes.
 
 All those shall be dealt with like thieves.
 
-‘*Those who supply arms and lodging*.’—Though this has been already
-mentioned before, yet it has been added again by way of summing up all
-that is intended.—(278)
+‘*Those who supply arms and lodging*.’—Though this has been already mentioned before, yet it has been added again by way of summing up all that is intended.—(278)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

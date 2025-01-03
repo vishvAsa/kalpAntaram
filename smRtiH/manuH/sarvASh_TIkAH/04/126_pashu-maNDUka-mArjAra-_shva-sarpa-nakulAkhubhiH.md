@@ -15,17 +15,13 @@ When cattle, a frog, a cat, a dog, a snake, a mongoose or a rat come between,—
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Come between*’—between the teacher and the pupil, or Among the several
-students themselves.
+‘*Come between*’—between the teacher and the pupil, or Among the several students themselves.
 
 ‘*Aharnisham*’—Day and night.
 
-Gautama (1.59), however, has declared—‘Fasting and living outside for
-three days has been laid down;’ and the same holds good regarding
-reading in the cremation-ground.
+Gautama (1.59), however, has declared—‘Fasting and living outside for three days has been laid down;’ and the same holds good regarding reading in the cremation-ground.
 
-What is laid down in the present text is to be regarded as an option to
-what has been declared by Gautama—(l 26)
+What is laid down in the present text is to be regarded as an option to what has been declared by Gautama—(l 26)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

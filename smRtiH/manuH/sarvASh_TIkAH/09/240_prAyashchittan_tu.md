@@ -27,10 +27,7 @@ But men of the senior castes, who perform the expiatory penances, as prescribed,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Senior castes*’—All castes other than *Śūdras*. If they perform the
-prescribed expiatory penances, there is to be no branding; and their
-punishment shall consist of the ‘highest amercement;’ that is they
-should be made to pay a thousand ‘*paṇas*.’— (240)
+‘*Senior castes*’—All castes other than *Śūdras*. If they perform the prescribed expiatory penances, there is to be no branding; and their punishment shall consist of the ‘highest amercement;’ that is they should be made to pay a thousand ‘*paṇas*.’— (240)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -17,11 +17,7 @@ What man, desirous of living, would injure them, depending on whom the world and
 
 ‘*Worlds*’—the three regions, the earth and the rest.
 
-‘*Gods*’—are dependent upon the Brāhmaṇas, through the libations offered
-by these latter. The Gods are ‘dependent’ upon the Brāhmaṇas also, in
-the sense that the greater part of Vedic teaching and Vedic rites are
-done by them;—the *Kṣatriya* and the *Vaiśya* not doing them to the same
-extent.—(316)
+‘*Gods*’—are dependent upon the Brāhmaṇas, through the libations offered by these latter. The Gods are ‘dependent’ upon the Brāhmaṇas also, in the sense that the greater part of Vedic teaching and Vedic rites are done by them;—the *Kṣatriya* and the *Vaiśya* not doing them to the same extent.—(316)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

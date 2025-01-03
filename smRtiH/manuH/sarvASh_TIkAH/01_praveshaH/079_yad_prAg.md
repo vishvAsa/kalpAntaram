@@ -15,8 +15,7 @@ The ‘Time-cycle of the Gods’ which has been described above as consisting of
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The period of time named ‘*manvantara*’ consists of seventy-one
-‘Time-cycles of the gods.’—(79)
+The period of time named ‘*manvantara*’ consists of seventy-one ‘Time-cycles of the gods.’—(79)
 </details>
 
 <details><summary>Bühler</summary>

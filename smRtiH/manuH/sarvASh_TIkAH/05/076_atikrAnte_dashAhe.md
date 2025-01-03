@@ -15,16 +15,9 @@ If the period of ten days has elapsed, he shall remain impure for three days; bu
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In cases where the period of impurity ordained lasts for ten days or
-more,—if this period has elapsed, the impurity shall last for three
-days. But in cases where the period ordained lasts for three days, or
-one day, or less,—if this period has elapsed, one has simply to bathe
-along with his clothes: as is going to be laid down later—(Verse 77.)
+In cases where the period of impurity ordained lasts for ten days or more,—if this period has elapsed, the impurity shall last for three days. But in cases where the period ordained lasts for three days, or one day, or less,—if this period has elapsed, one has simply to bathe along with his clothes: as is going to be laid down later—(Verse 77.)
 
-‘*When a year has elapsed*’—one becomes pure ‘*by touching
-water*’,—*i.e*., by bathing. From what has been said elsewhere regarding
-‘touching water with the hands and feet &c.’, it is clear that the whole
-body is to touch water: and this is what constitutes ‘bathing’.—(75).
+‘*When a year has elapsed*’—one becomes pure ‘*by touching water*’,—*i.e*., by bathing. From what has been said elsewhere regarding ‘touching water with the hands and feet &c.’, it is clear that the whole body is to touch water: and this is what constitutes ‘bathing’.—(75).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

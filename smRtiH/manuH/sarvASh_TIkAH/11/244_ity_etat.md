@@ -17,11 +17,9 @@ The gods, discerning that the holy origin of all this lies in austerity, thus pr
 
 This sums up the praise of Austerity.
 
-The ‘*magnificence*’—great efficiency—of Austerity that has been here
-described, is proclaimed by the gods, not only by men.
+The ‘*magnificence*’—great efficiency—of Austerity that has been here described, is proclaimed by the gods, not only by men.
 
-‘*All this*’—refers to the world. The ‘*holy origin*’ of the whole
-world, they discern in Austerity.—(244)
+‘*All this*’—refers to the world. The ‘*holy origin*’ of the whole world, they discern in Austerity.—(244)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

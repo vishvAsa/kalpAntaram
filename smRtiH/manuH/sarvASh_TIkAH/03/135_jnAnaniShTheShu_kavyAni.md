@@ -15,21 +15,15 @@ The offerings to the pitṛs should be carefully presented to those excelling in
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The author now proceeds to show the purpose why he has provided a
-classification of the qualities.
+The author now proceeds to show the purpose why he has provided a classification of the qualities.
 
-Offerings made to the Pitṛs are called ‘*Kavya*;’ these should be
-‘*presented*’—given—‘*to those excelling in learning*.’
+Offerings made to the Pitṛs are called ‘*Kavya*;’ these should be ‘*presented*’—given—‘*to those excelling in learning*.’
 
-‘*Carefully*’—implies that if one does not take special care, these
-also, like the offering to gods, should be given to all the four.
+‘*Carefully*’—implies that if one does not take special care, these also, like the offering to gods, should be given to all the four.
 
-For the offerings to Pitṛs the best recipients are those excelling in
-learning,—it having been declared that ‘he is the recipient among
-recipients.’
+For the offerings to Pitṛs the best recipients are those excelling in learning,—it having been declared that ‘he is the recipient among recipients.’
 
-What the verse means is that food in general should be given to all the
-four, without any distinction.
+What the verse means is that food in general should be given to all the four, without any distinction.
 
 ‘*Law*’— Rule laid down in the scriptures.—(135)
 </details>

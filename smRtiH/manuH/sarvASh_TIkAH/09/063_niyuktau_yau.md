@@ -15,12 +15,9 @@ If the two persons thus ‘authorised’ renounce the law and act from carnal de
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Law*’—regarding ‘annointing with clarified butter’ and so forth. The
-transgression of the law leads to the parties becoming outcasts.
+‘*Law*’—regarding ‘annointing with clarified butter’ and so forth. The transgression of the law leads to the parties becoming outcasts.
 
-The ‘authorised’ elder brother being ‘one *who has intercourse with his
-daughter-in-law*’, and the younger brother being ‘one who defiles the
-bed of his elder’.—(63)
+The ‘authorised’ elder brother being ‘one *who has intercourse with his daughter-in-law*’, and the younger brother being ‘one who defiles the bed of his elder’.—(63)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -23,20 +23,15 @@ Women confined in the house under trusted servants are not well guarded; really 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Trusted servants*’—Those who would act in the right manner at the
-right moment; *i.e*., persons ever on the alert; and hence considered
-fit for being employed in the harem, as chamberlains.
+‘*Trusted servants*’—Those who would act in the right manner at the right moment; *i.e*., persons ever on the alert; and hence considered fit for being employed in the harem, as chamberlains.
 
-Women who are ‘*confined*’—not allowed to go about freely—in the house
-under such men, are not really well-guarded; but those are ‘*who guard
-themselves by themselves*.’
+Women who are ‘*confined*’—not allowed to go about freely—in the house under such men, are not really well-guarded; but those are ‘*who guard themselves by themselves*.’
 
 And how are they to guard themselves?
 
 Just when they are employed as above.
 
-This verse is meant to be a praise of the method laid down in the
-preceding verse, and it does not exclude other methods.—(12)
+This verse is meant to be a praise of the method laid down in the preceding verse, and it does not exclude other methods.—(12)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

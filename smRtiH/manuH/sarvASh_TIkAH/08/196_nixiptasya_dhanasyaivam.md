@@ -19,16 +19,11 @@ Thus shall the king come to a decision regarding property given as ‘deposit’
 
 This verse sums up the section.
 
-‘*What is given as friendly loan*’—*i.e*., what is given, through
-friendship, for being used for some time.
+‘*What is given as friendly loan*’—*i.e*., what is given, through friendship, for being used for some time.
 
-The cases have to be decided in such a way as noṭ to cause injury to the
-keeper of the pledge or deposit. ‘*Akṣiṇvan*’—without causing injury to.
+The cases have to be decided in such a way as noṭ to cause injury to the keeper of the pledge or deposit. ‘*Akṣiṇvan*’—without causing injury to.
 
-In the whole of this section on ‘deposits’ only two or three verses are
-mandatory in their character, all the rest is purely
-commendatory,—mentioning things already known, in a friendly
-spirit.—(196)
+In the whole of this section on ‘deposits’ only two or three verses are mandatory in their character, all the rest is purely commendatory,—mentioning things already known, in a friendly spirit.—(196)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

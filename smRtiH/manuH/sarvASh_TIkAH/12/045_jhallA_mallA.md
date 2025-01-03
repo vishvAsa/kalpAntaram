@@ -19,10 +19,7 @@ Stick-fencers, wrestlers, actors, men subsisting by the use of weapons, those ad
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Stick-fencers and wrestlers*’—professionals who are used to descend
-into public arena;—‘*Malla*’ standing for *wrestlers*, and ‘*jhalla*’
-for those who fight with sticks, or clowns, who make a living by
-jokes.—(45)
+‘*Stick-fencers and wrestlers*’—professionals who are used to descend into public arena;—‘*Malla*’ standing for *wrestlers*, and ‘*jhalla*’ for those who fight with sticks, or clowns, who make a living by jokes.—(45)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

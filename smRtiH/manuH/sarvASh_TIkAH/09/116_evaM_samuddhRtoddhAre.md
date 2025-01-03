@@ -19,11 +19,9 @@ After the ‘additional share’ has been thus deducted, equal shares shall be a
 
 ‘*Uddhāra*’—additional share.
 
-‘*Equal shares shall be allotted*’—out of the property that remains
-after the deduction.
+‘*Equal shares shall be allotted*’—out of the property that remains after the deduction.
 
-If no additional share has been set apart, the allotment of shares shall
-be in the manner going to be described below.—(116)
+If no additional share has been set apart, the allotment of shares shall be in the manner going to be described below.—(116)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

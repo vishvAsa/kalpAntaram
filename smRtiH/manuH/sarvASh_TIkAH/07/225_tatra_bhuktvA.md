@@ -21,12 +21,7 @@ Then, having eaten a little again, and having been recreated by the sound of mus
 
 ‘*Kiñcit*,’ ‘*a little*’—is an Indeclinable.
 
-‘*Musical instrument*’—such as the Flute, the Lute, the Tabor, the
-Kettle-drum, the Conch and so forth;—‘*by the sound*’ of these, soft and
-pleasing to the ear —‘*becoming recreated*’ ‘*he shall sleep*’—for some
-time; *i.e*. pass a proper stretch of time in sleeping.—‘*Freed from
-fatigue*’—*i.e*. having shaken off all physical discomforts—‘*he shall
-rise*’, for attending to his affairs.—(225)
+‘*Musical instrument*’—such as the Flute, the Lute, the Tabor, the Kettle-drum, the Conch and so forth;—‘*by the sound*’ of these, soft and pleasing to the ear —‘*becoming recreated*’ ‘*he shall sleep*’—for some time; *i.e*. pass a proper stretch of time in sleeping.—‘*Freed from fatigue*’—*i.e*. having shaken off all physical discomforts—‘*he shall rise*’, for attending to his affairs.—(225)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

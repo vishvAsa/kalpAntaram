@@ -19,11 +19,9 @@ Thus has been explained to you the comparative importance and non-importance of 
 
 ‘*Non-importance*’—non-predominance.
 
-This verse sums up the foregoing section, and its second half introduces
-the next section.
+This verse sums up the foregoing section, and its second half introduces the next section.
 
-‘*Distress*’—*i.e*., (1) want of food and clothing necessary for the
-sustaining of life; and also (2) absence of progeny.—(56)
+‘*Distress*’—*i.e*., (1) want of food and clothing necessary for the sustaining of life; and also (2) absence of progeny.—(56)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

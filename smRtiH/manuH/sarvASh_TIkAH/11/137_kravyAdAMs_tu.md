@@ -21,12 +21,9 @@ For killing carnivorous animals, one should give a milch-cow; and a heifer for k
 
 ‘*Dhenu*’—stands for the *cow* only.
 
-‘*Kṛṣṇala*’— is a gold-piece of a definite weight. The term has this
-technical meaning in treatises on Fines; but
+‘*Kṛṣṇala*’— is a gold-piece of a definite weight. The term has this technical meaning in treatises on Fines; but
 
-elsewhere it is used in the ordinary sense of a particular
-weight-measure; as in such passages as—‘one desiring longevity should
-give one hundred *kṛṣṇalas* of clarified butter.’—(137)
+elsewhere it is used in the ordinary sense of a particular weight-measure; as in such passages as—‘one desiring longevity should give one hundred *kṛṣṇalas* of clarified butter.’—(137)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

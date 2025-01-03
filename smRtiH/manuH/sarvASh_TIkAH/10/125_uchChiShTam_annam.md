@@ -15,13 +15,9 @@ Remnants of food and worn-out clothes shall be given to him; as also the grain-r
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The meaning of the word ‘*remnant of food*’ has been already explained.
-The food left after the feeding of guests and others should be given to
-the Śūdra servant.
+The meaning of the word ‘*remnant of food*’ has been already explained. The food left after the feeding of guests and others should be given to the Śūdra servant.
 
-Similarly ‘*worn-out clothes*’—after they have been washed white;
-‘*grain refuse*’—the seedless chaffs, and ‘*furniture*’—beds and
-seats.—(125)
+Similarly ‘*worn-out clothes*’—after they have been washed white; ‘*grain refuse*’—the seedless chaffs, and ‘*furniture*’—beds and seats.—(125)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

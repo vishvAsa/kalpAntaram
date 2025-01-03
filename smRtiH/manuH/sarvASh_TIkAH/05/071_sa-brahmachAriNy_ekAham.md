@@ -21,12 +21,9 @@ On the death of a fellow-student, the impurity has been declared to last for one
 
 ‘*Fellow-student*’—professing the same Vedic Rescension.
 
-‘*Samānodaka relations*;’—those meant here are to be counted from the
-point where the ‘Sapiṇḍa-relationship’ censes Among these, when then is
-a birth, the impurity lasts for three days.
+‘*Samānodaka relations*;’—those meant here are to be counted from the point where the ‘Sapiṇḍa-relationship’ censes Among these, when then is a birth, the impurity lasts for three days.
 
-The option of ‘immediate purity’ is also laid down in another
-Smṛti-text, for ‘*Samānodaka*’ relations.—(70)
+The option of ‘immediate purity’ is also laid down in another Smṛti-text, for ‘*Samānodaka*’ relations.—(70)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

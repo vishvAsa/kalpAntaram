@@ -9,7 +9,6 @@ The righteous King shall not appropriate the property of the man guilty of a hei
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> धनेन दण्डनं राज्ञो वृत्तिर् इति स्थापितम् । कथम् इह तद्धनस्याग्रहणम् ।
 
 - <u>उक्तम्</u> "राजनिर्धूतदण्डाः"[^६२१] इत्य् अत्रान्तरे ॥ ९.२४३ ॥
@@ -21,12 +20,9 @@ The righteous King shall not appropriate the property of the man guilty of a hei
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“It has been laid down that fines constitute one of the sources of
-income for the King; why then should it now be declared that he shall
-not appropriate such property?”
+“It has been laid down that fines constitute one of the sources of income for the King; why then should it now be declared that he shall not appropriate such property?”
 
-This has been explained under the text ‘*Rājanirdhūta-daṇḍaḥ etc.,
-etc.*’—(243)
+This has been explained under the text ‘*Rājanirdhūta-daṇḍaḥ etc., etc.*’—(243)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

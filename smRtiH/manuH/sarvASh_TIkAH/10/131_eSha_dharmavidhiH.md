@@ -29,8 +29,7 @@ Thus has the entire law relating to the duties or the four castes been described
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The mere reading of the words makes the meaning of this text
-clear.—(131)
+The mere reading of the words makes the meaning of this text clear.—(131)
 
 End of Discourse X.
 </details>

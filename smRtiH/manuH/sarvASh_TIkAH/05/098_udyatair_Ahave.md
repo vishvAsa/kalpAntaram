@@ -19,10 +19,7 @@ For one who is killed in battle with brandished weapons, in the manner befitting
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-For one who is killed in battle with brandished weapons, in the manner
-befitting the Kṣatriya, sacrificial performances become instantly
-completed; and so also is the impurity; such is the established
-law—(97).
+For one who is killed in battle with brandished weapons, in the manner befitting the Kṣatriya, sacrificial performances become instantly completed; and so also is the impurity; such is the established law—(97).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -17,11 +17,7 @@ The kingdom or that king for whom the investigation of Law is done by a Śūdra,
 
 This is a supplementary declaration to the foregoing Injunction.
 
-The construction is—That king for whom the ‘*investigation of
-law*’—*i.e*., decision on legal cases—is made by a *Śūdra* duly
-qualified by learning, etc.,—his kingdom,—people,
-subjects—‘*suffers*’—is destroyed—‘*like the cow in a
-morass*;’—‘*paśyataḥ*’—‘while he is looking on.’—(21)
+The construction is—That king for whom the ‘*investigation of law*’—*i.e*., decision on legal cases—is made by a *Śūdra* duly qualified by learning, etc.,—his kingdom,—people, subjects—‘*suffers*’—is destroyed—‘*like the cow in a morass*;’—‘*paśyataḥ*’—‘while he is looking on.’—(21)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

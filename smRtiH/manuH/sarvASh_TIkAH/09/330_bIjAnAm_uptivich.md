@@ -27,13 +27,9 @@ He should be acquainted with the manner of sowing seeds, with the good and bad q
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-He shall know ‘*the manner of sowing seeds*’—*i.e*., this, seed is sown
-thickly, and that is sown sparsely, and so forth. ‘This seed shall grow
-in this soil, and not that seed,—this shall bring a such harvest,—all
-this ‘*good and bad qualities*’ of soils he should be acquainted with.
+He shall know ‘*the manner of sowing seeds*’—*i.e*., this, seed is sown thickly, and that is sown sparsely, and so forth. ‘This seed shall grow in this soil, and not that seed,—this shall bring a such harvest,—all this ‘*good and bad qualities*’ of soils he should be acquainted with.
 
-He shall know all such weights as the ‘*droṇa*,’ the ‘*śūrpa*’ the
-‘*āḍhaka*’ and so forth, as also the measures.—(330)
+He shall know all such weights as the ‘*droṇa*,’ the ‘*śūrpa*’ the ‘*āḍhaka*’ and so forth, as also the measures.—(330)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

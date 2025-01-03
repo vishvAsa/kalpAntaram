@@ -15,19 +15,11 @@ For men following their respective occupations,—even though living at a distan
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse shows that the aforesaid ‘local’ and other laws serve both
-visible (temporal) and invisible (spiritual) purposes.
+This verse shows that the aforesaid ‘local’ and other laws serve both visible (temporal) and invisible (spiritual) purposes.
 
-‘*Their respective occupations*,’—in accordance with the condition of
-their families;—the men who follow these^(‘)*come to be liked*.’ As a
-rule it is only men living near each other that come to be liked; but
-the man who follows his own occupation is liked also when he is at a
-distance.
+‘*Their respective occupations*,’—in accordance with the condition of their families;—the men who follow these^(‘)*come to be liked*.’ As a rule it is only men living near each other that come to be liked; but the man who follows his own occupation is liked also when he is at a distance.
 
-‘*While they remain firm in their own duties*’;—this stands for not
-encroaching upon the work of other persons;—the meaning of the verse
-being that—‘those who do not encroach upon the work of others come to be
-liked by all men.’—(42).
+‘*While they remain firm in their own duties*’;—this stands for not encroaching upon the work of other persons;—the meaning of the verse being that—‘those who do not encroach upon the work of others come to be liked by all men.’—(42).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

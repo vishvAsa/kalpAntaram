@@ -19,11 +19,7 @@ Learned or unlearned, the Brāhmaṇa is a great divinity; just as consecrated o
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Disrespect towards Brāhmaṇas is to be avoided only through consideration
-of their caste; and their learning or other qualifications have not to
-be taken into consideration, as they are done in the making of gifts and
-on other occasions. This stands on the same footing as the avoiding of
-touching fire with the foot.—(317)
+Disrespect towards Brāhmaṇas is to be avoided only through consideration of their caste; and their learning or other qualifications have not to be taken into consideration, as they are done in the making of gifts and on other occasions. This stands on the same footing as the avoiding of touching fire with the foot.—(317)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -15,9 +15,7 @@ Or, with his senses controlled, he shall perform the ‘Cāndrāyaṇa’ for th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This expiation refers to those cases where the woman happens to be the
-wife of the maternal uncle or such other persons as are generally
-treated as ‘*guru*,’ ‘preceptor.’
+This expiation refers to those cases where the woman happens to be the wife of the maternal uncle or such other persons as are generally treated as ‘*guru*,’ ‘preceptor.’
 
 ‘*Sacrificial food*’—milk, roots, butter and so forth.
 

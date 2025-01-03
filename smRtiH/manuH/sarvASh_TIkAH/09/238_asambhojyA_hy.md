@@ -35,9 +35,7 @@ Debarred from entertainments, debarred from sacrifices, debarred from education,
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Exclusion from ‘*all religious acts*’ including exclusion from
-‘entertainments’ and the rest also, those latter have been separately
-mentioned, with a view to indicate the seriousness of the offence.
+Exclusion from ‘*all religious acts*’ including exclusion from ‘entertainments’ and the rest also, those latter have been separately mentioned, with a view to indicate the seriousness of the offence.
 
 ‘*Entertainments*’—dinner parties, musical parties and so forth.
 
@@ -45,12 +43,9 @@ mentioned, with a view to indicate the seriousness of the offence.
 
 Similarly with ‘education.’
 
-If the muling is ‘*asampāṭhyavigarhitāḥ*’—the compound would be
-‘*asampāṭhya* and *avigarhita*,’ ‘excluded from education and
-undespised.’
+If the muling is ‘*asampāṭhyavigarhitāḥ*’—the compound would be ‘*asampāṭhya* and *avigarhita*,’ ‘excluded from education and undespised.’
 
-‘*Abject*’—*i.e*., even though possessed of wealth, they shall live on
-alms, and shall be clothed in rags and so forth (?).—(238)
+‘*Abject*’—*i.e*., even though possessed of wealth, they shall live on alms, and shall be clothed in rags and so forth (?).—(238)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

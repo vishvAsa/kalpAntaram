@@ -33,35 +33,17 @@ In the case of hurting petty animals, the fine is two h undred; and fifty in the
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Animals of small size are called ‘*petty*’; these may, in some cases, be
-‘*petty*’ in age,—as in the case of the calf, the elephant-cub and. so
-forth; and in others they may he ‘petty’ in quality,—as the ram and such
-animals. As for the latter, the author is going to lay down ‘five
+Animals of small size are called ‘*petty*’; these may, in some cases, be ‘*petty*’ in age,—as in the case of the calf, the elephant-cub and. so forth; and in others they may he ‘petty’ in quality,—as the ram and such animals. As for the latter, the author is going to lay down ‘five
 *māṣas*’ as the fine for killing goat and sheep. Hence the present text
-must be taken as referring to the small-sized animals other than those
-two.
+must be taken as referring to the small-sized animals other than those two.
 
-‘*Auspicious quadrupeds*’ are the deer and similar animals; which are
-‘*auspicious*’ in shape, as well as quality; and ‘*birds*,’ such as the
-swan, the parrot and so forth. And the ‘inauspicious quadrupeds and
-birds’ are the crow, the owl, the jackal and so forth.
+‘*Auspicious quadrupeds*’ are the deer and similar animals; which are ‘*auspicious*’ in shape, as well as quality; and ‘*birds*,’ such as the swan, the parrot and so forth. And the ‘inauspicious quadrupeds and birds’ are the crow, the owl, the jackal and so forth.
 
 The term ‘*paśu*’ here stands for *quadrupeds*.
 
-People have held that the penalties laid down here refer to ‘hurt’ in
-general, and not to ‘hurt’ caused by *conveyances*, which form the
-subject-matter of the context. Because, it is contended, the treatment
-of the subject of ‘hurt caused by conveyances’ was finished at verse
-295,—where it was declared that the punishment (for hurt caused by
-conveyances) has been ‘*vicāritaḥ*,’ which means that ‘its consideration
-has been finished.’ And hence it is held that what is declared in the
-present verse has no connection with that context.
+People have held that the penalties laid down here refer to ‘hurt’ in general, and not to ‘hurt’ caused by *conveyances*, which form the subject-matter of the context. Because, it is contended, the treatment of the subject of ‘hurt caused by conveyances’ was finished at verse 295,—where it was declared that the punishment (for hurt caused by conveyances) has been ‘*vicāritaḥ*,’ which means that ‘its consideration has been finished.’ And hence it is held that what is declared in the present verse has no connection with that context.
 
-Similarly under verse 290, in the sentence ‘half of that in the case of
-the larger animals,’ the penalty spoken of as ‘half’ should, on the
-strength of other *Smṛtis*, be taken as referring to the cutting off of
-the hand or some such limb, which would he a minor form of ‘death’ (and
-hence ‘half’).—(297)
+Similarly under verse 290, in the sentence ‘half of that in the case of the larger animals,’ the penalty spoken of as ‘half’ should, on the strength of other *Smṛtis*, be taken as referring to the cutting off of the hand or some such limb, which would he a minor form of ‘death’ (and hence ‘half’).—(297)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>
@@ -69,7 +51,7 @@ hence ‘half’).—(297)
 This verse is quoted in *Mitākṣarā* (2.300), where *Bālambhaṭṭī* adds
 the following notes:—‘*Kṣūdra-paśu*’ are smaller animals,—these
 *smaller* ones being either in *age*, *e.g*., calves &c., or in
-*quality*, *e.g*., goats &c.; but it is the former that are meant here;
+*quality*, *e.g*., goats &c. but it is the former that are meant here;
 so that for the killing of a young calf the fine would be 200; in the
 case of birds that are auspicious—in shape or in quality,—‘*mṛga*,’ the
 *ruru*, the *pṛṣata* and other species of the deer,—birds, such as the

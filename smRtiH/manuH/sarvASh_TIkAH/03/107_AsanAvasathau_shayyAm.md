@@ -17,10 +17,7 @@ He should offer seat, room, bed, foliowing and attendance of the best kind to su
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-When several guests of several grades—superior, inferior and
-equal—arrive at the same time, then the seat, &c., that are offered to
-them should not all be of the same quality; they should be in accordance
-with their relative merits.
+When several guests of several grades—superior, inferior and equal—arrive at the same time, then the seat, &c., that are offered to them should not all be of the same quality; they should be in accordance with their relative merits.
 
 ‘*Seat*’— the mat, and so forth.
 
@@ -32,9 +29,7 @@ with their relative merits.
 
 ‘*Attendance*’— keeping near him and entertaining him with conversation.
 
-All this should be ‘*of the best kind, to superiors*.’ &e.,—*i.e*., the
-superior guest should be followed to a great distance; the medium guest,
-not very far: and the inferior, only a few steps.—(107)
+All this should be ‘*of the best kind, to superiors*.’ &e.,—*i.e*., the superior guest should be followed to a great distance; the medium guest, not very far: and the inferior, only a few steps.—(107)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

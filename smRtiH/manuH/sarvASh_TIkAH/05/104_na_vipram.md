@@ -17,14 +17,11 @@ One should not have a dead Brāhmaṇa carried by a Śūdra, while his own peopl
 
 ‘*Have carried*’—have taken out.
 
-‘*While his own people are there*’—*i.e*., men of the same caste. The
-use of the term ‘*oblation into fire*’ implies that the body should not
-also be burnt by the *Śūdra*.
+‘*While his own people are there*’—*i.e*., men of the same caste. The use of the term ‘*oblation into fire*’ implies that the body should not also be burnt by the *Śūdra*.
 
 The specification of the ‘Brāhmaṇa’ is not emphasised; for the
 *Kṣatriya* and the *Vaiśya* also the Śūdra’s touch is defiling; hence
-what the supplementary statement indicates is that the prohibition
-applies to the case of these two also.—(103).
+what the supplementary statement indicates is that the prohibition applies to the case of these two also.—(103).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

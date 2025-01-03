@@ -25,17 +25,13 @@ It should be folly equipped with weapons, with money and grain, with conveyances
 
 ‘*Conveyances*’— chariots, horses &c.
 
-‘*Artisans*’—men capable of working at machines, *i.e*., carpenters and
-so forth.
+‘*Artisans*’—men capable of working at machines, *i.e*., carpenters and so forth.
 
 ‘*Fodder*’—
 
-‘*Brāhmaṇas*’— ministers and priests, as well as others. These may come
-useful if certain religious acts have got to be done for the allaying of
-sudden portents etc.
+‘*Brāhmaṇas*’— ministers and priests, as well as others. These may come useful if certain religious acts have got to be done for the allaying of sudden portents etc.
 
-As the list is not meant to be exhaustive, the king should get together
-also physicians and other persons likely to be of use.—(75)
+As the list is not meant to be exhaustive, the king should get together also physicians and other persons likely to be of use.—(75)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

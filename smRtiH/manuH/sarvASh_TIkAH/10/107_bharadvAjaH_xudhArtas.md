@@ -15,8 +15,7 @@ Bharadvāja, a man of great austerities, accepted many cows from the carpenter V
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Vṛdhu was a carpenter; a person unfit for receiving gifts from;—from him
-the sage named Bharadvāja received gifts.—(107)
+Vṛdhu was a carpenter; a person unfit for receiving gifts from;—from him the sage named Bharadvāja received gifts.—(107)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

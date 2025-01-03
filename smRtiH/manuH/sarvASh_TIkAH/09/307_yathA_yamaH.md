@@ -24,8 +24,7 @@ As Yama, at the approach of the proper time, restrains both friends and enemies,
 
 **(verses 9.306-307)**
 
-Whenever a crime has been committed, the King shall act equally towards
-those he loves and those he hates.—(306-307)
+Whenever a crime has been committed, the King shall act equally towards those he loves and those he hates.—(306-307)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

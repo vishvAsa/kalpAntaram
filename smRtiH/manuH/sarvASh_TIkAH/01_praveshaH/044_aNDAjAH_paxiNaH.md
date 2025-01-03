@@ -13,7 +13,6 @@ Birds, Serpents, Crocodiles, Fishes, Tortoises, and other animals of similar kin
 Birds, snakes, crocodiles and tortoises form another group and born from eggs, just like the aquatic animals.
 </details>
 
-
 <details><summary>मेधातिथिः</summary>
 
 **नक्राः** शिशुमरादयः । **कच्छपः** कूर्मः । **यानि चैवंप्रकाराणि** कृकलासादीनि **स्थलजानि** । एवंरूपाण्य् **औदकानि** जलजानि शङ्खादीनि ॥ १.४४ ॥
@@ -21,11 +20,7 @@ Birds, snakes, crocodiles and tortoises form another group and born from eggs, j
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Crocodiles*’—includes the Porpoise and the rest;—‘*Kacchapāḥ*’ are the
-Tortoises;—‘*other animals of similar kinds’—i.e*., wizards (lizards?)
-and the like, which are ‘*terrestrial*,’ born on land, and such others
-of similar kinds as are ‘*aquatic*’ born in water; such, for instance,
-as conches and the rest.—(44)
+‘*Crocodiles*’—includes the Porpoise and the rest;—‘*Kacchapāḥ*’ are the Tortoises;—‘*other animals of similar kinds’—i.e*., wizards (lizards?) and the like, which are ‘*terrestrial*,’ born on land, and such others of similar kinds as are ‘*aquatic*’ born in water; such, for instance, as conches and the rest.—(44)
 </details>
 
 <details><summary>Bühler</summary>

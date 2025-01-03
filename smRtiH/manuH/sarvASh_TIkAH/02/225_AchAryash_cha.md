@@ -15,16 +15,13 @@ The preceptor, the father, the mother and the elder brother should not be treate
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-In fact no one should bo treated with disrespect; specially these. That
-is to say, the disrespect of these entails a heavier expiation.
+In fact no one should bo treated with disrespect; specially these. That is to say, the disrespect of these entails a heavier expiation.
 
 ‘*Distressed*’—injured by them.
 
-‘Treating with disrespect’ consists in disregard; the omitting of honour
-due; as also insulting, which is called ‘want of respect.’
+‘Treating with disrespect’ consists in disregard; the omitting of honour due; as also insulting, which is called ‘want of respect.’
 
-The term ‘*Brāhmaṇa*’ has been added only for filling up the
-metre.—(225)
+The term ‘*Brāhmaṇa*’ has been added only for filling up the metre.—(225)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -23,16 +23,13 @@ The Kṣatriya flourishes not without the Brāhmaṇa; the Brāhmaṇa prospers 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The ‘*Kṣatriya*’—*i.e*., the realm.—‘*Without the Brāhmaṇa*’—*i.e*.,
-where neither the councillors nor the priests and other officials are
-Brāhmaṇas,—how can there be any prosperity?
+The ‘*Kṣatriya*’—*i.e*., the realm.—‘*Without the Brāhmaṇa*’—*i.e*., where neither the councillors nor the priests and other officials are Brāhmaṇas,—how can there be any prosperity?
 
 Similarly Brāhmaṇas obtain prosperity only when resting upon Kṣatriyas.
 
 When both are united, they are successful.
 
-The terms ‘*Brahma*’ and ‘*Kṣatra*’ in this verse stand for the two
-castes, *Brāhmaṇa* and *Kṣatriya*.—(322)
+The terms ‘*Brahma*’ and ‘*Kṣatra*’ in this verse stand for the two castes, *Brāhmaṇa* and *Kṣatriya*.—(322)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,11 +19,9 @@ He who remains thus firm in his vow, always chaste and with concentrated mind, s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This shows that the subject of the ‘Twelve-year Penance’ started (in
-73), ends here.
+This shows that the subject of the ‘Twelve-year Penance’ started (in 73), ends here.
 
-‘*Firm in his vow* and *with concentrated mind*,’ these two terms only
-serve to fill up the metre.
+‘*Firm in his vow* and *with concentrated mind*,’ these two terms only serve to fill up the metre.
 
 This verse sums up what has gone before.—(81)
 </details>

@@ -15,11 +15,9 @@ Having thus renounced all rites, intent upon his own duty, free from longings, h
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*His oven duty*’—meditation on the Soul; he for whom this is the
-highest duty.
+‘*His oven duty*’—meditation on the Soul; he for whom this is the highest duty.
 
-‘*Free from longings*’—not entertaining a desire for anything, even in
-his mind—(96).
+‘*Free from longings*’—not entertaining a desire for anything, even in his mind—(96).
 </details>
 
 <details><summary>भारुचिः</summary>

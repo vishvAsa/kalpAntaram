@@ -9,7 +9,6 @@ Even though not put down as a witness, if a person happens to see or hear anythi
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>ननु</u> चोक्तं "समक्षदर्शनात्" (म्ध् ८.७४) इत्य् अत्र यथाकथंचिदनुभूतवतो ऽनियुक्तस्यापि साक्ष्यम् अस्तीति । तत्र किम् अनेन "यत्रानिबद्धो ऽपि" इति । को वा विशेषः । 
 
 <u>उच्यते</u> । लेख्यारूढस्य व्यापारविशेषाद्युक्तं साक्षित्वं न पुनर् अनारूढस्य । आरोहणस्यानर्थक्यप्रसङ्गाद् उभयोः साक्षित्वे[^२८३] । अत एताम् आशङ्काम् अपनेतुम् इदम् उच्यते । पूर्वस् तु श्लोको यत्रानुकाः[^२८४] साक्षिणः । अयं तु यत्र ससाक्षिकं लेख्यम् ।  
@@ -18,20 +17,9 @@ Even though not put down as a witness, if a person happens to see or hear anythi
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-“Under verso 74 it has been already declared that even though a man may
-not have been originally appointed as a witness, his evidence, as
-bearing upon what is directly known to him, is admissible; what then is
-the use of saying again that ‘*even though not put down*, etc., etc.’?
-What additional information is provided by this verse?
+“Under verso 74 it has been already declared that even though a man may not have been originally appointed as a witness, his evidence, as bearing upon what is directly known to him, is admissible; what then is the use of saying again that ‘*even though not put down*, etc., etc.’? What additional information is provided by this verse?
 
-People might be led to think that—‘when a man has been put down as a
-witness on the original document, his evidence is admissible as a matter
-of course,—but not so that of one who has not been so put down,—for if
-both were admissible, then there would be no point in entering any
-witnesses upon the document.’ It is with a view to set aside this idea
-that the author has added the present verse. The former verse refers to
-cases where no witnesses have been put down, while this refers to a case
-where the document is duly attested by witnesses.
+People might be led to think that—‘when a man has been put down as a witness on the original document, his evidence is admissible as a matter of course,—but not so that of one who has not been so put down,—for if both were admissible, then there would be no point in entering any witnesses upon the document.’ It is with a view to set aside this idea that the author has added the present verse. The former verse refers to cases where no witnesses have been put down, while this refers to a case where the document is duly attested by witnesses.
 
 ‘*Not put down*’—not entered in the document.
 

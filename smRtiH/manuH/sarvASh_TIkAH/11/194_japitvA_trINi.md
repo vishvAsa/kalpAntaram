@@ -21,11 +21,7 @@ Having, with concentrated mind, repeated the Sāvitrī three thousand times, and
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The Sāvitrī three thousand times*’— Some people take this to mean that
-this should be done everyday; while others construe ‘*trīṇi*’ with
-‘*māsam*’ \[the meaning being, that the whole is to run for *three
-months*\]; so that the *mantra* would have to be repeated one hundred
-times everyday.
+‘*The Sāvitrī three thousand times*’— Some people take this to mean that this should be done everyday; while others construe ‘*trīṇi*’ with ‘*māsam*’ \[the meaning being, that the whole is to run for *three months*\]; so that the *mantra* would have to be repeated one hundred times everyday.
 
 ‘*Cow-pen*’—the place where cows are kept.—(194)
 </details>

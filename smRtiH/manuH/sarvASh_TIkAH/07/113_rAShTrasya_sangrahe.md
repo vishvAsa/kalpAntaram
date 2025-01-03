@@ -21,8 +21,7 @@ In the administration of his kingdom he shall adopt the procedure described belo
 
 ‘*Administration*’—method of governing.
 
-‘*He whose Kingdom is properly administered*’—*i.e*. rightly brought
-under sway and looked after,—“*prospers easily*”;—(113)
+‘*He whose Kingdom is properly administered*’—*i.e*. rightly brought under sway and looked after,—“*prospers easily*”;—(113)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

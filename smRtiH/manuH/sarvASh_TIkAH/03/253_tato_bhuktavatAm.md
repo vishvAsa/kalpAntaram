@@ -19,10 +19,7 @@ He shall then inform them of the food that may be left after they have eaten; be
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-They shall be informed of the food that has been eaten; they should be
-told—‘here is this.’ ‘*Being permitted* *by* *them, he shall do as they
-tell him*,’ that is, without their permission he shall not make any
-other use of the food.—(253)
+They shall be informed of the food that has been eaten; they should be told—‘here is this.’ ‘*Being permitted* *by* *them, he shall do as they tell him*,’ that is, without their permission he shall not make any other use of the food.—(253)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

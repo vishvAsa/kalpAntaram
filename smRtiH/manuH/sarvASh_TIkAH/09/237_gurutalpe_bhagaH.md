@@ -18,10 +18,7 @@ For violating the preceptor’s bed the sign of the female organ shall be brande
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-From the prohibition of branding the forehead (in certain cases,
-contained in 240)—‘People shall not be branded on the forehead,’—it
-follows that the branding here laid down is to be done on the
-forehead.—(237)
+From the prohibition of branding the forehead (in certain cases, contained in 240)—‘People shall not be branded on the forehead,’—it follows that the branding here laid down is to be done on the forehead.—(237)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

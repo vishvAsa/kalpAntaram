@@ -21,8 +21,7 @@ When there is preter-natural sound, when there is earthquake, and when there is 
 
 ‘*Impact*’—*i.e*., a halo round them, or mutual contact.
 
-‘*Even during the season*.’—‘Even’ has been added with a view to the
-fact that portents are not regarded as such, during the rains.—(105).
+‘*Even during the season*.’—‘Even’ has been added with a view to the fact that portents are not regarded as such, during the rains.—(105).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

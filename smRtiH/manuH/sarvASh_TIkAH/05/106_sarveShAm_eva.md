@@ -9,7 +9,6 @@ Among all modes of purification, purity in regard to wealth has been ordained to
 </details>
 
 <details><summary>मेधातिथिः</summary>
-
 <u>को ऽस्य</u> प्रसङ्गः । 
 
 - <u>यथा</u> मृद्वारिशुचाव् अविलम्बं कृतोत्सर्गः प्रवर्तते तथा प्रमादस्खलिते परद्रव्यापहरणादाव् अविलम्बितं प्रायश्चित्तं शुद्धये समाश्रयणीयम् । एकादशे वक्ष्यति[^२२६] ॥ ५.१०५ ॥
@@ -23,12 +22,7 @@ Among all modes of purification, purity in regard to wealth has been ordained to
 
 “What is the connection of this in the present context?”
 
-What is meant is that—‘just as one who, after having paid the of nature,
-immediately betakes to purifying himself by day and water,—so whenever,
-through carelessness and mistake, one happens to steal what belongs to
-others, or to do any such act,—he should immediately betake to the
-necessary expiatory rites, for the purpose of purifying himself’;—as is
-going to be explained under Discourse 11.—(105).
+What is meant is that—‘just as one who, after having paid the of nature, immediately betakes to purifying himself by day and water,—so whenever, through carelessness and mistake, one happens to steal what belongs to others, or to do any such act,—he should immediately betake to the necessary expiatory rites, for the purpose of purifying himself’;—as is going to be explained under Discourse 11.—(105).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

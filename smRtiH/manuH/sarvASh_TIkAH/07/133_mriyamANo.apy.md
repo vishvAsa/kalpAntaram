@@ -15,8 +15,7 @@ Even though dying, the King shall not levy a tax on the Śrotriya; and no Śrotr
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The King shall so manage that no *Śrotriya* in his kingdom shall suffer
-from hunger.—(133)
+The King shall so manage that no *Śrotriya* in his kingdom shall suffer from hunger.—(133)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

@@ -19,9 +19,7 @@ Accepting gifts from despicable persons, trading, serving Śūdras and the telli
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Despicable*’;—those from whom gifts should not be received,—such as
-Śūdras and sinners; the frequent acceptance of gifts from such men; a
-single acceptance is not forbidden.—(69)
+‘*Despicable*’;—those from whom gifts should not be received,—such as Śūdras and sinners; the frequent acceptance of gifts from such men; a single acceptance is not forbidden.—(69)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

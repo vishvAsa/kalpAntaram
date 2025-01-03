@@ -15,9 +15,7 @@ He shall deposit such property in the water and offer it to Varuṇa, or bestow 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*This to Varuṇa*’—thinking thus in his mind, he shall deposit the fine
-in water; or bestow it upon a Brāhmaṇa equipped with learning and
-character.—(244)
+‘*This to Varuṇa*’—thinking thus in his mind, he shall deposit the fine in water; or bestow it upon a Brāhmaṇa equipped with learning and character.—(244)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

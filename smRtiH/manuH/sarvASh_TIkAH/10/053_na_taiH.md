@@ -15,12 +15,9 @@ One who follows the law shall not seek intercourse with them; their transactions
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Intercourse*’—‘agreement,’ ‘co-operation,’ ‘association’ are all
-synonymous. The meaning is that one should not stand or sit or walk
-about in their company.
+‘*Intercourse*’—‘agreement,’ ‘co-operation,’ ‘association’ are all synonymous. The meaning is that one should not stand or sit or walk about in their company.
 
-‘*Marriage*’—taking of wife, and such other acts, should also be done by
-them among equals only.—(53)
+‘*Marriage*’—taking of wife, and such other acts, should also be done by them among equals only.—(53)
 </details>
 
 <details><summary>Bühler</summary>

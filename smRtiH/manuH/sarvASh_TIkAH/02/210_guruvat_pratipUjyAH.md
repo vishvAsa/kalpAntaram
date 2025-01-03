@@ -15,14 +15,9 @@ The teacher’s ladies belonging to the same caste should be honoured like the t
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*The teacher’s ladies*’—wives—‘*belonging* *to the same caste*’—of the
-same caste as the teacher,—‘*should be honoured like the teacher*’—by
-carrying out their orders and so forth.
+‘*The teacher’s ladies*’—wives—‘*belonging* *to the same caste*’—of the same caste as the teacher,—‘*should be honoured like the teacher*’—by carrying out their orders and so forth.
 
-‘*Those not belonging to the same caste*’ are to be honoured only ‘*with
-rising and salutations*.’ The plural number in ‘salutations’ has the
-sense of ‘*et cetera*’: hence the doing of what is agreeable and
-beneficial, the non-mimicking of gait, etc., also become included.—(210)
+‘*Those not belonging to the same caste*’ are to be honoured only ‘*with rising and salutations*.’ The plural number in ‘salutations’ has the sense of ‘*et cetera*’: hence the doing of what is agreeable and beneficial, the non-mimicking of gait, etc., also become included.—(210)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

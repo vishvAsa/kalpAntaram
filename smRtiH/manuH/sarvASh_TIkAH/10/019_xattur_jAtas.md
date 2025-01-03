@@ -15,9 +15,7 @@ One born from the ‘Kṣattṛ’ on the ‘Ugrā’ woman is called ‘Śvapā
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The women are of the ‘inversely’ mixed castes, and the men of the
-‘naturally mixed castes;’ from the union of these are born the
-‘*Śvapāka*’ and the ‘*Veṇa*’, both inversely mixed castes.—(19)
+The women are of the ‘inversely’ mixed castes, and the men of the ‘naturally mixed castes;’ from the union of these are born the ‘*Śvapāka*’ and the ‘*Veṇa*’, both inversely mixed castes.—(19)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

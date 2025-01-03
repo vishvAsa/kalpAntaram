@@ -23,8 +23,7 @@ The Śūdra, unable to do service for twice-born people, and threatened with dan
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Craftsmen*’— such as cooks, weavers, and the like; the occupations of
-these are *cooking, weaving* and so forth. By these, ‘*he may subsist*.’
+‘*Craftsmen*’— such as cooks, weavers, and the like; the occupations of these are *cooking, weaving* and so forth. By these, ‘*he may subsist*.’
 
 ‘*Danger to wife and sons*’—*i.e*., incapability of maintaining them.
 

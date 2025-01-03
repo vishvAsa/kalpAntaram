@@ -27,19 +27,13 @@ He shall not travel with untrained beasts of burden; nor with such as are suffer
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Untrained*’—*i.e*., not trained; oxen, horses, mules and so forth,
-which are yoked to chariots, etc. The use of ‘*ca*’ indicates that one
-shall not ride upon untrained beasts,???en (even?) when they are not
-yoked to chariots, etc.
+‘*Untrained*’—*i.e*., not trained; oxen, horses, mules and so forth, which are yoked to chariots, etc. The use of ‘*ca*’ indicates that one shall not ride upon untrained beasts,???en (even?) when they are not yoked to chariots, etc.
 
-The ‘injured horn’ pertains to the *ox* only; as that alone has horns,
-and not horses and other animals.
+The ‘injured horn’ pertains to the *ox* only; as that alone has horns, and not horses and other animals.
 
-‘*Bāladhi*’ is *tail*; those that have been disfigured by their tails;
-whose tails have been cut off.
+‘*Bāladhi*’ is *tail*; those that have been disfigured by their tails; whose tails have been cut off.
 
-One should not travel on such animals. Another Smṛti text prohibits
-merely getting upon the back of such animals.—(67)
+One should not travel on such animals. Another Smṛti text prohibits merely getting upon the back of such animals.—(67)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

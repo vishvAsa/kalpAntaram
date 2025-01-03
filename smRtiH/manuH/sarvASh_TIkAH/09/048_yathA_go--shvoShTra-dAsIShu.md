@@ -15,8 +15,7 @@ As with cows, mares, she-camels, slave-girls, buffaloes, she-goats and ewes, it 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-\[There is no *Bhāṣya* on this verse. The same idea occurs again in 55
-below\].
+\[There is no *Bhāṣya* on this verse. The same idea occurs again in 55 below\].
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

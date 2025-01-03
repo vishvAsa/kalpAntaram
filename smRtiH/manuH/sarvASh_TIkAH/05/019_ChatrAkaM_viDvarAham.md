@@ -19,10 +19,7 @@ The mushroom, the village-pig, garlic, the village-cock, onions and leeks,—the
 
 ‘*Viḍvarāha*’ is the village-pig, which wanders about unchecked.
 
-By eating these the man becomes an outcast. That is, he should perform
-the Expiatory Rites prescribed for outcasts. It will be asserted later
-on (11.56)—‘The eating of forbidden food is like the drinking of
-wine.’—(19)
+By eating these the man becomes an outcast. That is, he should perform the Expiatory Rites prescribed for outcasts. It will be asserted later on (11.56)—‘The eating of forbidden food is like the drinking of wine.’—(19)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

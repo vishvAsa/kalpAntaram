@@ -15,15 +15,11 @@ For Kṣattṛs, Ugras and Pukkasas, the killing and catching of animals living 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Animals living underground*’—Snakes, mangoose, the ‘*gargara*’—*fish*,
-and so forth;—‘*the killing and* *catch* *ing*’ of these is the
-livelihood of the *Kṣattṛ* and the rest.
+‘*Animals living underground*’—Snakes, mangoose, the ‘*gargara*’—*fish*, and so forth;—‘*the killing and* *catch* *ing*’ of these is the livelihood of the *Kṣattṛ* and the rest.
 
-‘*Working in leather*’;—the sewing of armour and other things,
-shoe-making and so forth.
+‘*Working in leather*’;—the sewing of armour and other things, shoe-making and so forth.
 
-‘*Beating of drums*’—such as the *Muraja*, the *Ārdhamuraja* and the
-rest.
+‘*Beating of drums*’—such as the *Muraja*, the *Ārdhamuraja* and the rest.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

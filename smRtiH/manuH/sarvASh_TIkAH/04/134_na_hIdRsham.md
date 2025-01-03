@@ -27,10 +27,7 @@ In this world, there is nothing so detrimental to a man’s longevity as paying 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Any such thing as the eating of indigestible food, the stealing of gold,
-etc., ‘*is not so detrimental to a man’s longevity*’—which cuts short
-his life to the same extent—as intercourse with another person’s wife
-This involves both temporal and spiritual wrong.—(134)
+Any such thing as the eating of indigestible food, the stealing of gold, etc., ‘*is not so detrimental to a man’s longevity*’—which cuts short his life to the same extent—as intercourse with another person’s wife This involves both temporal and spiritual wrong.—(134)
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>

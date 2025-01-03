@@ -26,14 +26,11 @@ They call the Fathers “Vasus;” the grandfathers they call “Rudras,” and 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-This verse is intended to prompt a man who, through ill-will towards his
-father, is disinclined to perform Śrāddhas.
+This verse is intended to prompt a man who, through ill-will towards his father, is disinclined to perform Śrāddhas.
 
-The three grades of ancestors, to whom balls are offered, are the same
-as the Vasus and other gods; hence they should be looked upon as gods.
+The three grades of ancestors, to whom balls are offered, are the same as the Vasus and other gods; hence they should be looked upon as gods.
 
-‘*Such is the text*’—this is found in the Veda; hence ‘*ancient*’—the
-Veda being eternal.—(284)
+‘*Such is the text*’—this is found in the Veda; hence ‘*ancient*’—the Veda being eternal.—(284)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

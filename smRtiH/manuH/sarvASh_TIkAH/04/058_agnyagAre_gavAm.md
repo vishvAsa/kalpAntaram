@@ -19,14 +19,9 @@ In the abode of fire, in the cow-pen, in the presence of Brāhmaṇas, during th
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The term ‘*goṣṭha*,’ ‘*pen*’ signifies the dwelling-place; and it is a
-different word from the compound \[ *go* + *sthā*, which means an *abode
-of cows*, and with which, therefore, the word ‘*gavām*,’ ‘*of cows*,’
-would be superfluous\].
+The term ‘*goṣṭha*,’ ‘*pen*’ signifies the dwelling-place; and it is a different word from the compound \[ *go* + *sthā*, which means an *abode of cows*, and with which, therefore, the word ‘*gavām*,’ ‘*of cows*,’ would be superfluous\].
 
-‘*Brāhmaṇas*.’—Significance is meant to be attached to the plural
-number. \[What is prescribed is to be done only when there are many
-Brāhmaṇas present\].
+‘*Brāhmaṇas*.’—Significance is meant to be attached to the plural number. \[What is prescribed is to be done only when there are many Brāhmaṇas present\].
 
 ‘*Hand*’ stands for the *arm*.
 

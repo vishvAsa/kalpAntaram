@@ -19,17 +19,11 @@ One should daily offer Śrāddha with food, or with water, or with milk, roots a
 
 ‘*Daily*’—every day.
 
-‘*Śrāddha*’—this term indicates the duty by its proper name. ‘*Śrāddha*’
-is the name of the rite laid down as to be done in honour of one’s
-ancestors, on the *Amāvasyā* day; and the whole process of that rite is
-indicated by the name ‘Śrāddha.’
+‘*Śrāddha*’—this term indicates the duty by its proper name. ‘*Śrāddha*’ is the name of the rite laid down as to be done in honour of one’s ancestors, on the *Amāvasyā* day; and the whole process of that rite is indicated by the name ‘Śrāddha.’
 
-‘*With food*’—this is only a reiteration of ‘sesamum, barley, &c.’
-(mentioned in 3.267); what is reiterated here being intended to be
-described later on.
+‘*With food*’—this is only a reiteration of ‘sesamum, barley, &c.’ (mentioned in 3.267); what is reiterated here being intended to be described later on.
 
-‘*With water*;’—‘*udaka*’ is *water*, and ‘*payaḥ*’ stands for
-milk.—(82)
+‘*With water*;’—‘*udaka*’ is *water*, and ‘*payaḥ*’ stands for milk.—(82)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

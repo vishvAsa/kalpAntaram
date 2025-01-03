@@ -15,11 +15,9 @@ Thus has the law relating to the penances for the eating of improper food been s
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Of penances for the eating of improper food*’—*i.e*., of such food as
-should not be eaten.
+‘*Of penances for the eating of improper food*’—*i.e*., of such food as should not be eaten.
 
-Next follows the law relating to those penances that remove the sin of
-theft—(161)
+Next follows the law relating to those penances that remove the sin of theft—(161)
 </details>
 
 <details><summary>भारुचिः</summary>

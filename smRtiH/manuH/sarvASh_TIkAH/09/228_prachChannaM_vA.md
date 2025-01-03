@@ -23,9 +23,7 @@ The term ‘*vikalpaka*’ means *variants forms*.
 
 It depends entirely upon the King’s wish. (?)
 
-From the words ‘learn the law relating to gambling’ (221) onwards, there
-are only two or three verses that are injunctive, the others are purely
-declamatory.—(228)
+From the words ‘learn the law relating to gambling’ (221) onwards, there are only two or three verses that are injunctive, the others are purely declamatory.—(228)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

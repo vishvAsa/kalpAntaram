@@ -15,8 +15,7 @@ Vāmadeva, expert in the knowledge of right and wrong, when distressed, desired 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-Similarly the sage named ‘*Vāmadeva*’—‘*distressed*’—with
-hunger—‘*desired to eat dog’s flesh*.’—(106)
+Similarly the sage named ‘*Vāmadeva*’—‘*distressed*’—with hunger—‘*desired to eat dog’s flesh*.’—(106)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

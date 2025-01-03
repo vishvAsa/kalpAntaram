@@ -15,10 +15,7 @@ title = "276 कृष्णपक्षे दशम्यादौ"
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-The mention of the days beginning with the tenth, indicates that the
-offering is attended by excellent results. So that on other days also
-the offering is to be made, if due faith is there. But on the fourteenth
-day there is absolute prohibition.—(276)
+The mention of the days beginning with the tenth, indicates that the offering is attended by excellent results. So that on other days also the offering is to be made, if due faith is there. But on the fourteenth day there is absolute prohibition.—(276)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

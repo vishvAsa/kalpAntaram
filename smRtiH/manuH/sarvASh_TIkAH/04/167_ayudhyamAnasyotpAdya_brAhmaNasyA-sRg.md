@@ -19,17 +19,13 @@ The man, who, through folly, causes blood to flow from the body or a Brāhmaṇa
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Asṛk*’ is blood;—he who causes this to How from the body of the
-Brāhmaṇa, by the stroke of the sword or such other weapons,—‘*even the
-Brāhmaṇa is not fighting*—and not when he is actually taking part in
-lawful battle, like Droṇācārya.
+‘*Asṛk*’ is blood;—he who causes this to How from the body of the Brāhmaṇa, by the stroke of the sword or such other weapons,—‘*even the Brāhmaṇa is not fighting*—and not when he is actually taking part in lawful battle, like Droṇācārya.
 
 ‘*Very great, suffering*’—in the form of hell.
 
 ‘*After death*,’—*i.e*., in another birth.
 
-‘*Through folly*,’—This is a needless reiteration; the wise man, knowing
-the scriptures, can never do such a thing.—(167).
+‘*Through folly*,’—This is a needless reiteration; the wise man, knowing the scriptures, can never do such a thing.—(167).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

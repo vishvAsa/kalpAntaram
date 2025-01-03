@@ -25,8 +25,7 @@ Having touched a fatty human bone, the Brāhmaṇa becomes pure by bathing, but 
 
 ‘*Ālabhya*’ means *touching*.
 
-The *touching of the cow* and *looking at the sun* are meant to be
-optional alternatives.—(86).
+The *touching of the cow* and *looking at the sun* are meant to be optional alternatives.—(86).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

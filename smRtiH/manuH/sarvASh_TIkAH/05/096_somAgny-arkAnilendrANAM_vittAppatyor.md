@@ -23,8 +23,7 @@ _अत्रैव द्वितीयो ऽर्थवादः ।_
 
 ‘*Lord of Water*’—Varuṇa.
 
-To the same end we have also a second laudatory declaration in the next
-verse.—(95).
+To the same end we have also a second laudatory declaration in the next verse.—(95).
 </details>
 
 <details><summary>Bühler</summary>

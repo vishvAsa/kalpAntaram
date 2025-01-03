@@ -18,8 +18,7 @@ Subsisting on a single meal per day out of the alms obtained from those houses, 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Bathing*’—‘taking his bath’—in the morning, at midday and in the
-evening, he becomes purified in one year.—(123)
+‘*Bathing*’—‘taking his bath’—in the morning, at midday and in the evening, he becomes purified in one year.—(123)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

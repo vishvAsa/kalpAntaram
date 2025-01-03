@@ -17,16 +17,11 @@ Three things are sacred at Śrāddhas—the daughter’s son, blanket and sesamu
 
 ‘*Sacred*’—*i.e*., conducive to sanctity, bringing about excellence.
 
-The first half of this verse is purely reiterative, and the latter half
-is injunctive.
+The first half of this verse is purely reiterative, and the latter half is injunctive.
 
-‘*Cleanliness*’—avoidance of contact with unclean things; and if,
-through want of care, the man happens to become unclean, he should
-purify himself with clay, water, &c., in the manner prescribed in the
-scriptures.
+‘*Cleanliness*’—avoidance of contact with unclean things; and if, through want of care, the man happens to become unclean, he should purify himself with clay, water, &c., in the manner prescribed in the scriptures.
 
-‘*Absence of haste*’—*i.e*., the feeding of Brāhmaṇas and doing the
-other acts with confidence and in a steady manner.—(235)
+‘*Absence of haste*’—*i.e*., the feeding of Brāhmaṇas and doing the other acts with confidence and in a steady manner.—(235)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

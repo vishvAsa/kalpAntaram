@@ -15,15 +15,11 @@ He shall not intentionally stand upon unguent-powder, or upon used water, or on 
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-‘*Unguent-powder*,’—such powder, etc., as are used for removing dirt
-from the body.
+‘*Unguent-powder*,’—such powder, etc., as are used for removing dirt from the body.
 
 ‘*Used water*’—water that has been used for bathing, etc.
 
-‘*Spittings*.’—Even apart from the mucus, in which form spittings are
-generally thrown out; such things, for instance, as the betel-leaf and
-other things, of which the juices have been eaten up and the tasteless
-substance is thrown out.
+‘*Spittings*.’—Even apart from the mucus, in which form spittings are generally thrown out; such things, for instance, as the betel-leaf and other things, of which the juices have been eaten up and the tasteless substance is thrown out.
 
 ‘*Standing upon*’ means *stepping upon*.
 

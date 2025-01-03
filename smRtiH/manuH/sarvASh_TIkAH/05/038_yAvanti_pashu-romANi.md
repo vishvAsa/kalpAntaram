@@ -17,13 +17,9 @@ As many hairs there are on the body of the animal, so m any times after dying do
 
 For so many lives does he suffer violent death.
 
-‘*Needless killer of the animal*’,—one who kills the animal in a way not
-prescribed in the *Śruti* or the *Smṛti*: from the context it is clear
-that this refers to that animal-sacrifice which ordinary people perforin
-on the Mahānavamī.
+‘*Needless killer of the animal*’,—one who kills the animal in a way not prescribed in the *Śruti* or the *Smṛti*: from the context it is clear that this refers to that animal-sacrifice which ordinary people perforin on the Mahānavamī.
 
-The term ‘*paśaghna* (?)’ is a Vedic form formed with the affix
-‘*ka*’—(38).
+The term ‘*paśaghna* (?)’ is a Vedic form formed with the affix ‘*ka*’—(38).
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

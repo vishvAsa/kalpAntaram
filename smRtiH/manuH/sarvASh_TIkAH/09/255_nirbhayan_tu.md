@@ -19,8 +19,7 @@ If however his kingdom, resting on the strength of his arms, is secure from dang
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-What is already known is reiterated here, with reference to
-thieves.—(255)
+What is already known is reiterated here, with reference to thieves.—(255)
 </details>
 
 <details><summary>गङ्गानथ-टिप्पन्यः</summary>

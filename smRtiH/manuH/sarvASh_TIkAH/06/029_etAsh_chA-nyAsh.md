@@ -15,15 +15,11 @@ The Brāhmaṇa dwelling in the forest shall attend to these and other restraint
 
 <details><summary>गङ्गानथ-भाष्यानुवादः</summary>
 
-These ‘*restraints*’—observances and ‘*others*’—such as standing in
-water, keeping the eyes closed and so forth.
+These ‘*restraints*’—observances and ‘*others*’—such as standing in water, keeping the eyes closed and so forth.
 
-^(‘)*Vedic texts contained in the Upaniṣads*.’—He shall study the texts
-contained in the esoteric sections of the Veda, and think of them and
-ponder over them;^(‘)*in order to attain the Self*’.
+^(‘)*Vedic texts contained in the Upaniṣads*.’—He shall study the texts contained in the esoteric sections of the Veda, and think of them and ponder over them;^(‘)*in order to attain the Self*’.
 
-Or this may refer to the several forms of worship that have been laid
-down for attaining Brahman.
+Or this may refer to the several forms of worship that have been laid down for attaining Brahman.
 
 ‘*Several*’—this is a mere re-iteration.—(29).
 </details>
