@@ -4,6 +4,8 @@ title = "Remarriage, Divorce"
 +++
 
 ## Theory
+
+### घट-श्राद्धम्
 "Divorce" is not a shAstrIya karma - ghaTa-shrAddha would be. Some people do it in case of divorce. (the concern addressed here is the possible fault due to non-performance of Ashaucha for divorced spouse's death etc..)
 
 ### बहुपत्नीत्वम्
@@ -27,8 +29,52 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </div>
 
 ### स्त्रीषु पुनर्-विवाहः
+[काणे-पाण्डुरङ्गः](/kalpAntaram/nibandhaH/kANe/history/v2p1/14_Remarriage_of_Widows.md)। 
+
+#### अक्षतयोनौ
+क्षता योनिः कस्याः? यस्यां लिङ्ग-प्रवशो जात इति प्राचीनाः। किञ्च, हेतुं विचार्य - यस्या अपत्यं न जातम् इति निश्चेतुं वरम्।
+
+
+<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/176_sA_ched.md">
+<details open><summary><h3>176 सा चेद् ...{Loading}...</h3></summary>
+
+सा चेद् अक्षत-योनिः स्याद्  
+गत-प्रत्यागतापि वा ।  
+पौनर्भवेन भर्त्रा सा  
+पुनः संस्कारम् अर्हति  ॥ ९.१७६ ॥
+</details>
+</div>
+
+> In case she be still a virgin, or having gone away comes back, she is fit to undergo re-marriage with her second husband.
+
+केचित् तु - 'दत्ताक्षतायाः कन्यायाः पुनर्दानं परस्य च ' इति कलियुगनिषिद्धकर्मसु विधीयते ।
+
+> उद्वाहितापि या कन्या  
+> न चेत् सम्प्राप्त-मैथुना।  
+> पुनःसंस्कारमर्हेत  
+> यथा कन्या तथैव सा॥  
+> Narada Smriti 12.22
+
+> In case she be a virgin though married, re-marriage is allowed. She is as good as a virgin..
+
+> अद्भिर् वाचा च दत्तायां
+> म्रियेताथो वरो यदि।  
+> न च मन्त्रोपनीता स्यात्  
+> कुमारी पितुरेव सा॥
+>
+> यावच्चोदाहृता कन्या  
+> मन्त्रैर् यदि न संस्कृता।  
+> अन्यस्मै विधिवद्देया  
+> यथा कन्या तथैव सा ॥  
+> Vasishtha Smriti 15.64-65
+
+> If the betrothed of a maiden dies after she has been given away to him by words and water but before she was married with Mantras, she belongs to her father alone.
+>
+> If a maiden has been carried away by force and not married with Mantras, she may be lawfully given away to another man. She is like a maiden.
+
 #### मृते, क्षतयोनौ
-पत्यौ मृते यथासम्भवं न स्यात् पुनर्-विवाह इति मनुः -
+क्षतयोनित्वे विचारः "अक्षतयोनाव्" इति विभागे द्रष्टव्यः।  
+पत्यौ मृते यथा-सम्भवं न स्यात् पुनर्-विवाह इति मनुः -
 
 <div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/05/157_kAman_tu.md">
 <details open><summary><h3>157 कामन् तु ...{Loading}...</h3></summary>
@@ -40,10 +86,12 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 </details>
 </div>
 
-तथापि विवाहान्तरं क्रियते चेत्, सा "**पुनर्-भूर्**" इति गर्हिता भवति। अयं द्वितीयः पतिः, तज्जातश् चापि गर्हितः।  
+यथाऽधिकारं प्राचीनैर् नियोगोऽभ्युपगतः।  
+तथापि विवाहान्तरं क्रियते चेत्, सा "**पुनर्-भूर्**" इति गर्हिता भवति। अयं द्वितीयः पतिः,  
+तज्जातश् चापि गर्हितः - श्राद्धादौ नामन्त्रणीय इति; पूर्वपत्युश् चेव् भवति।
 
 #### अमृते, क्षतयोनौ
-क्षता योनिः कस्याः? यस्यां लिङ्ग-प्रवशो जात इति प्राचीनाः। किञ्च, हेतुं विचार्य - यस्या अपत्यं न जातम् इति निश्चेतुं वरम्। 
+क्षतयोनित्वे विचारः "अक्षतयोनाव्" इति विभागे द्रष्टव्यः।
 
 <div class="js_include" url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/046_na_niShkraya-visargAbhyAm.md" unfilled newLevelForH1="5" includeTitle="false"> 
 
@@ -91,46 +139,6 @@ But, for others - maybe some other smRti explicitly allows even in other cases, 
 
 
 
-#### अक्षतयोनौ
-क्षतयोनित्वे विचारः "क्षतयोनाव्" इति विभागे द्रष्टव्यः।
-
-
-<div class="js_include" includetitle="true" newlevelforh1="3" unfilled url="/kalpAntaram/smRtiH/manuH/vishvAsa-prastutiH/09/176_sA_ched.md">
-<details open><summary><h3>176 सा चेद् ...{Loading}...</h3></summary>
-
-सा चेद् अक्षत-योनिः स्याद्  
-गत-प्रत्यागतापि वा ।  
-पौनर्भवेन भर्त्रा सा  
-पुनः संस्कारम् अर्हति  ॥ ९.१७६ ॥
-</details>
-</div>
-
-> In case she be still a virgin, or having gone away comes back, she is fit to undergo re-marriage with her second husband.
-
-केचित् तु - 'दत्ताक्षतायाः कन्यायाः पुनर्दानं परस्य च ' इति कलियुगनिषिद्धकर्मसु विधीयते ।
-
-> उद्वाहितापि या कन्या  
-> न चेत् सम्प्राप्त-मैथुना।  
-> पुनःसंस्कारमर्हेत  
-> यथा कन्या तथैव सा॥  
-> Narada Smriti 12.22
-
-> In case she be a virgin though married, re-marriage is allowed. She is as good as a virgin..
-
-> अद्भिर् वाचा च दत्तायां 
-> म्रियेताथो वरो यदि।  
-> न च मन्त्रोपनीता स्यात्  
-> कुमारी पितुरेव सा॥  
-> 
-> यावच्चोदाहृता कन्या  
-> मन्त्रैर् यदि न संस्कृता।  
-> अन्यस्मै विधिवद्देया  
-> यथा कन्या तथैव सा ॥  
-> Vasishtha Smriti 15.64-65
-
-> If the betrothed of a maiden dies after she has been given away to him by words and water but before she was married with Mantras, she belongs to her father alone. 
-> 
-> If a maiden has been carried away by force and not married with Mantras, she may be lawfully given away to another man. She is like a maiden.
 
 ## Practice
 - Gazetteer of the Ambala District: 1883
