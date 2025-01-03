@@ -26,8 +26,7 @@ If a Brāhmaṇa, through lust, begets a son on a Śūdra woman, he is as a corp
 “The designation ‘a corpse’ indicates that his father derives imperfect benefits from his offerings (Kullūka, Nārāyaṇa and Rāghavānanda),—or that he is blameable (Rāghavānanda).”—Buhler.
 
 This verse is quoted in *Parāśaramādhava*, (Prāyaścitta, p. 38);—in
-*Vivādaratnākara* (p. 574), which adds the following notes:—‘*Pārayan*,’
-conferring some benefits upon the man whom he regards as his father,—he is called ‘*śava*’ ‘corpse,’ because of his being capable of conferring very little benefit upon his father;—in *Vyavahāra-Bālambhaṭṭī*, (pp. 552 and 688);—in *Nṛsiṃhaprasāda* (Vyavahāra 38a);—in *Vīramitrodaya* (Vyavahāra 189b)—and by Jīmūtavāhana (*Dāyabhāga*, p. 220), which says that this refers to the son of a Śūdra woman who is *not a married wife*.
+*Vivādaratnākara* (p. 574), which adds the following notes:—‘*Pārayan*,’ conferring some benefits upon the man whom he regards as his father,—he is called ‘*śava*’ ‘corpse,’ because of his being capable of conferring very little benefit upon his father;—in *Vyavahāra-Bālambhaṭṭī*, (pp. 552 and 688);—in *Nṛsiṃhaprasāda* (Vyavahāra 38a);—in *Vīramitrodaya* (Vyavahāra 189b)—and by Jīmūtavāhana (*Dāyabhāga*, p. 220), which says that this refers to the son of a Śūdra woman who is *not a married wife*.
 </details>
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
@@ -52,5 +51,5 @@ is the *Niṣāda* or the *Pāraśava*.’
 
 <details><summary>Bühler</summary>
 
-178	The son whom a Brahmana begets through lust on a Sudra female is, (though) alive (parayan), a corpse (sava), and hence called a Parasava (a living corpse).
+178	The son whom a Brahmana begets through lust on a Sudra female is, (though) alive (pArayan), a corpse (sava), and hence called a Parasava (a living corpse).
 </details>

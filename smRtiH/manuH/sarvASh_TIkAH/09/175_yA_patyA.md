@@ -25,12 +25,9 @@ This verse is quoted in *Vīramitrodaya* (Saṃskāra, p. 743), which explains t
 
 <details><summary>गङ्गानथ-तुल्य-वाक्यानि</summary>
 
-*Baudhāyana* (2.3.27).—‘He is called the *Paunarbhava* son who is born
-of a remarried woman;—*i.e*., of one who having left an impotent man, has taken a second husband.’
+*Baudhāyana* (2.3.27).—‘He is called the *Paunarbhava* son who is born of a remarried woman;—*i.e*., of one who having left an impotent man, has taken a second husband.’
 
-*Vaśiṣṭha* (17.18-20).—‘The fourth is the *Paunarbhava*, one born of a
-*Punarbhū* woman; that woman is called *Punarbhū* who, leaving the
-husband of her youth, and having lived with others, re-enters his family; and she is called *remarried* who, leaving an impotent, outcast or mad husband,—after his death,—takes another lord.’
+*Vaśiṣṭha* (17.18-20).—‘The fourth is the *Paunarbhava*, one born of a *Punarbhū* woman; that woman is called *Punarbhū* who, leaving the husband of her youth, and having lived with others, re-enters his family; and she is called *remarried* who, leaving an impotent, outcast or mad husband,—after his death,—takes another lord.’
 
 *Viṣṇu* (15.7-9).—‘The *son of the re-married woman* is the fourth;—she
 who, being still a virgin, is married a second time is called the
@@ -49,7 +46,7 @@ impotent or outcast husband, takes another lord,—the son born from her is call
 
 <details><summary>भारुचिः</summary>
 
-सवर्णः पौनर्बवो ऽसवर्णो ऽपि वा, असवर्णस् तु गुणतः ॥ ९.१७५ ॥
+सवर्णः पौनर्भवो ऽसवर्णो ऽपि वा, असवर्णस् तु गुणतः ॥ ९.१७५ ॥
 </details>
 
 <details><summary>Bühler</summary>
